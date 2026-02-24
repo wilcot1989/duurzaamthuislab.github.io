@@ -1,0 +1,53 @@
+baseURL = "https://duurzaamthuislab.nl/"
+languageCode = "nl"
+title = "DuurzaamThuisLab"
+theme = "starter"
+
+[params]
+  description = "Onafhankelijke reviews en vergelijkingen van powerstations, thuisbatterijen, zonnepaneel-accessoires en energiebesparende technologie."
+  author = "DuurzaamThuisLab"
+  tagline = "Slimmer omgaan met energie"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Powerstations"
+    url = "/categories/powerstations/"
+    weight = 1
+  [[menu.main]]
+    name = "Thuisbatterijen"
+    url = "/categories/thuisbatterijen/"
+    weight = 2
+  [[menu.main]]
+    name = "Zonne-energie"
+    url = "/categories/zonne-energie/"
+    weight = 3
+  [[menu.main]]
+    name = "Slim Huis"
+    url = "/categories/smart-home/"
+    weight = 4
+  [[menu.main]]
+    name = "Over Ons"
+    url = "/about/"
+    weight = 5
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[params.sitemapPriorities]
+  home = 1.0
+  posts = 0.8
+  categories = 0.6
+  tags = 0.4
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
