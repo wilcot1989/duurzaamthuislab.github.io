@@ -1,6 +1,6 @@
 ---
 title: "Beste Draagbare Powerstation 2026: Top 7 Vergeleken"
-date: 2026-02-25T12:00:00+01:00
+date: 2026-02-24T12:00:00+01:00
 description: "De 7 beste draagbare powerstations van 2026 vergeleken op capaciteit, vermogen, prijs en functies. Vind het perfecte powerstation voor jouw situatie."
 categories: ["powerstations"]
 tags: ["powerstation vergelijking", "draagbaar powerstation", "EcoFlow", "Jackery", "Bluetti", "Anker"]

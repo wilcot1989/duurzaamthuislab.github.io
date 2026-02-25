@@ -1,6 +1,6 @@
 ---
 title: "EcoFlow vs Jackery 2026: Welk Merk is Beter?"
-date: 2026-02-26T12:00:00+01:00
+date: 2026-02-24T12:00:00+01:00
 description: "EcoFlow vs Jackery uitgebreid vergeleken: technologie, app, garantie en prijs-kwaliteit. Inclusief head-to-head vergelijking van de populairste modellen."
 categories: ["powerstations"]
 tags: ["EcoFlow", "Jackery", "powerstation vergelijking", "merkvergelijking"]
