@@ -1,17 +1,28 @@
 ---
 title: "Over Ons"
-description: "Over DuurzaamThuisLab.nl — onafhankelijke reviews van powerstations, thuisbatterijen en zonne-energie producten."
+description: "Leer meer over DuurzaamThuisLab en ons team"
 layout: "single"
 ---
 
-# Over DuurzaamThuisLab.nl
+## Over DuurzaamThuisLab
 
-DuurzaamThuisLab.nl helpt Nederlandse huiseigenaren bij het kiezen van de juiste producten voor energieonafhankelijkheid. Van draagbare powerstations tot thuisbatterijen, van zonnepaneel-accessoires tot slimme energieoplossingen — wij vergelijken en beoordelen.
+DuurzaamThuisLab is een onafhankelijk platform voor iedereen die slimmer wil omgaan met energie. Wij testen en vergelijken powerstations, thuisbatterijen, zonnepanelen en energiebesparende technologie — specifiek voor de Nederlandse markt.
 
-## Onze missie
+### Onze Missie
 
-De energietransitie is in volle gang. Steeds meer Nederlanders willen hun eigen energie opwekken en opslaan. Wij helpen je de juiste keuze te maken met eerlijke, diepgaande reviews.
+De energietransitie biedt enorme kansen om te besparen en duurzamer te leven. Maar het aanbod aan producten is overweldigend. Wij helpen je de juiste keuze te maken door eerlijke reviews, heldere vergelijkingen en praktische gidsen.
 
-## Hoe wij verdienen
+### Hoe Wij Werken
 
-Deze site bevat affiliate links. Wanneer je via onze links een product aanschaft, ontvangen wij een vergoeding van de aanbieder. Dit kost jou niets extra en beïnvloedt onze beoordelingen niet.
+- **Onafhankelijk** — Onze aanbevelingen zijn gebaseerd op eigen tests en onderzoek
+- **Praktijkgericht** — We testen producten in echte situaties
+- **Nederlands** — Gericht op Nederlandse regelgeving, subsidies en energieprijzen
+- **Transparant** — We vermelden altijd wanneer we affiliate links gebruiken
+
+### Affiliate Disclaimer
+
+Sommige links op deze website zijn affiliate links. Dit betekent dat wij een kleine commissie ontvangen als je via onze link een aankoop doet. Dit kost jou niets extra en heeft geen invloed op onze reviews of aanbevelingen. Deze inkomsten helpen ons om deze website draaiende te houden en gratis content te blijven maken.
+
+### Contact
+
+Heb je vragen of suggesties? Stuur ons een e-mail op [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).
