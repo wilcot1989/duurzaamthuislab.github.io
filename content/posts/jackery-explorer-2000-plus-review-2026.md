@@ -1,0 +1,261 @@
+---
+title: "Jackery Explorer 2000 Plus Review 2026: Krachtig & Uitbreidbaar"
+date: 2026-03-02T12:00:00+01:00
+description: "Uitgebreide Jackery Explorer 2000 Plus review. LiFePO4, 3000W output, uitbreidbaar tot 24kWh. Specs, test en eerlijk oordeel."
+categories: ["powerstations"]
+tags: ["Jackery", "Explorer 2000 Plus", "powerstation review", "LiFePO4", "uitbreidbaar powerstation"]
+keywords: ["jackery explorer 2000 plus review", "jackery 2000 plus test", "jackery review", "jackery explorer 2000 plus ervaringen", "jackery 2000 plus specs"]
+affiliate: true
+featured_image: "/images/categories/powerstations.svg"
+faq:
+  - q: "Is de Jackery Explorer 2000 Plus een goed powerstation?"
+    a: "Ja. Met 2042Wh, 3000W continu vermogen, LiFePO4-batterij en uitbreidbaarheid tot 24kWh is het een van de krachtigste en meest flexibele powerstations op de markt."
+  - q: "Hoe breid je de Jackery 2000 Plus uit?"
+    a: "Je kunt maximaal vijf Jackery Battery Pack 2000 Plus modules aansluiten op de Explorer 2000 Plus. Elke module voegt 2042Wh toe, waardoor je totaal op 12.252Wh (ruim 12kWh) komt. Met twee Explorer units en extra batterijen bereik je 24kWh."
+  - q: "Wat is ChargeShield technologie?"
+    a: "ChargeShield is Jackery's geavanceerde batterijmanagementsysteem dat de laadsnelheid, temperatuur en spanning continu bewaakt en optimaliseert. Dit verlengt de levensduur van de batterij aanzienlijk."
+  - q: "Hoe zwaar is de Jackery Explorer 2000 Plus?"
+    a: "De Explorer 2000 Plus weegt 27,9 kg. Dat is aan de zware kant, maar dankzij de robuuste inklapbare handgreep en de wielen (optionele accessoire) is transport goed te doen."
+  - q: "Kan de Jackery 2000 Plus een airco aansturen?"
+    a: "Dat hangt af van de airco. Met 3000W continu vermogen en 6000W piekvermogen kan de Explorer 2000 Plus veel draagbare airco-units aan. Controleer altijd het vereiste vermogen van je specifieke model."
+  - q: "Hoe verhoudt de Jackery 2000 Plus zich tot de EcoFlow Delta 2 Max?"
+    a: "De Jackery biedt meer vermogen (3000W vs 2400W) en grotere uitbreidbaarheid (tot 24kWh). De EcoFlow laadt sneller op en is lichter. Lees onze uitgebreide vergelijking in het artikel EcoFlow vs Jackery."
+  - q: "Hoe lang gaat de Jackery Explorer 2000 Plus mee?"
+    a: "De LiFePO4-batterij is geschikt voor 4000 laadcycli tot 70% restcapaciteit. Bij dagelijks gebruik is dat meer dan 10 jaar levensduur."
+---
+
+De **Jackery Explorer 2000 Plus** is een van de krachtigste draagbare powerstations die je in 2026 kunt kopen. Met een indrukwekkend continu vermogen van 3000W, een LiFePO4-batterij en de mogelijkheid om uit te breiden tot maar liefst 24kWh, richt dit station zich op gebruikers die serieuze stroomcapaciteit nodig hebben. In deze diepgaande review ontdek je of de Jackery 2000 Plus de investering waard is.
+
+*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+
+---
+
+## Specificaties op een rij
+
+| Specificatie | Waarde |
+|---|---|
+| **Capaciteit** | 2042 Wh |
+| **Batterijtype** | LFP (LiFePO4) |
+| **Continu vermogen (AC)** | 3000 W |
+| **Piekvermogen** | 6000 W |
+| **AC-laadsnelheid** | 0-80% in ~90 min |
+| **Max. solar-input** | 1200 W (2x 600W) |
+| **AC-uitgangen** | 5x Schuko (230V) |
+| **USB-C** | 2x (100W PD) |
+| **USB-A** | 2x |
+| **12V-uitgangen** | 1x auto-aansluiting |
+| **Gewicht** | 27,9 kg |
+| **Afmetingen** | 47,3 x 29,4 x 37,3 cm |
+| **Levensduur** | ~4000 cycli tot 70% |
+| **Uitbreidbaar** | Ja, tot 24 kWh |
+| **App-bediening** | Ja (Wi-Fi en Bluetooth) |
+| **Garantie** | 5 jaar |
+
+---
+
+## Design en bouwkwaliteit
+
+Jackery staat bekend om het herkenbare oranje-zwarte kleurenschema, en de Explorer 2000 Plus is daarop geen uitzondering. Het ontwerp is functioneel en robuust, met een stevige metalen behuizing die bescherming biedt tegen stoten en krassen.
+
+### Formaat en gewicht
+
+Laten we eerlijk zijn: met **27,9 kg** is de Explorer 2000 Plus een fors apparaat. Het is bijna 5 kg zwaarder dan de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) (23 kg). De enkele grote inklapbare handgreep aan de bovenkant is stevig en comfortabel, maar het gewicht maakt dragen over langere afstanden vermoeiend. Jackery biedt een optionele trolley aan voor eenvoudiger transport -- een slimme oplossing die we aanraden als je het station regelmatig verplaatst.
+
+### Display en bediening
+
+Het LED-display aan de voorzijde is helder en informatief. Je ziet in één oogopslag:
+
+- Batterijpercentage (zowel als getal als als grafische indicator)
+- Ingangs- en uitgangsvermogen in watt
+- Geschatte resterende laad- of ontlaadtijd
+- Actieve uitgangen
+
+De fysieke knoppen voelen solide aan met een duidelijke klikfeedback. Elk uitgangstype (AC, USB, DC) heeft een eigen aan/uit-knop, zodat je onnodig verbruik kunt voorkomen.
+
+---
+
+## LiFePO4: de batterij die het verschil maakt
+
+De Explorer 2000 Plus maakt gebruik van een **LiFePO4-batterij (lithium-ijzerfosfaat)**. Dit is een belangrijke upgrade ten opzichte van oudere lithium-ion cellen en biedt drie grote voordelen:
+
+1. **Langere levensduur** -- 4000 laadcycli tot 70% restcapaciteit (versus ~500-800 bij reguliere Li-ion)
+2. **Grotere veiligheid** -- LFP-cellen zijn thermisch stabieler en hebben een veel lager risico op oververhitting
+3. **Betere prestaties bij extreme temperaturen** -- functioneert betrouwbaar van -10°C tot 45°C
+
+In de praktijk betekent dit dat je de Jackery 2000 Plus dagelijks kunt opladen en ontladen en er nog meer dan 10 jaar mee kunt doen. Dat maakt de hogere aanschafprijs veel draaglijker als je naar de totale kosten per cyclus kijkt.
+
+---
+
+## ChargeShield technologie
+
+Jackery's eigen **ChargeShield** is een geavanceerd batterijmanagementsysteem (BMS) met meerdere beschermingslagen:
+
+- **Variabele laadsnelheid** -- het systeem past de laadstroom automatisch aan op basis van de batterijtemperatuur en laadstatus
+- **Oververhittingsbeveiliging** -- bij te hoge temperaturen wordt de laadsnelheid verlaagd
+- **Overspanningsbeveiliging** -- beschermt tegen schade door spanningspieken
+- **Kortsluitsbeveiliging** -- schakelt direct uit bij kortsluiting
+- **Onderspanningsbeveiliging** -- voorkomt diepe ontlading die de batterij beschadigt
+
+ChargeShield zorgt ervoor dat de batterij optimaal presteert en zo lang mogelijk meegaat. In onze tests merkten we dat de laadsnelheid soms iets wordt teruggeschroefd bij hoge omgevingstemperaturen -- dat is ChargeShield die de batterij beschermt, en dat is precies wat je wilt.
+
+---
+
+## Uitbreidbaarheid: van 2 kWh tot 24 kWh
+
+Het meest onderscheidende kenmerk van de Explorer 2000 Plus is de **modulaire uitbreidbaarheid**. Je kunt het basissysteem uitbreiden met **Jackery Battery Pack 2000 Plus** modules:
+
+| Configuratie | Totale capaciteit | Geschikt voor |
+|---|---|---|
+| Explorer 2000 Plus (basis) | 2.042 Wh (~2 kWh) | Camping, noodstroom (kort) |
+| + 1 Battery Pack | 4.084 Wh (~4 kWh) | Noodstroom (meerdere uren) |
+| + 2 Battery Packs | 6.126 Wh (~6 kWh) | Langdurige noodstroom |
+| + 3 Battery Packs | 8.168 Wh (~8 kWh) | Off-grid verblijf |
+| + 5 Battery Packs | 12.252 Wh (~12 kWh) | Semi-permanent off-grid |
+| 2x Explorer + Battery Packs | Tot 24 kWh | Thuisbatterij-alternatief |
+
+De Battery Packs sluiten eenvoudig aan via een kabelverbinding. Je hoeft geen technische kennis te hebben -- het is letterlijk inpluggen en klaar. Het systeem herkent de extra batterijen automatisch en integreert ze naadloos.
+
+Dit maakt de Jackery 2000 Plus uniek: je kunt klein beginnen en geleidelijk uitbreiden naarmate je behoeften groeien. Met maximale uitbreiding wordt het station zelfs een alternatief voor een [thuisbatterij](/posts/beste-thuisbatterij-nederland-2026/).
+
+---
+
+## Laadprestaties
+
+### Opladen via stopcontact
+
+Via een standaard stopcontact laadt de Explorer 2000 Plus op van 0 naar 80% in ongeveer **90 minuten**. Een volledige lading duurt circa 2 uur. Dat is snel, maar niet zo bliksemssnel als de EcoFlow Delta 2 Max (65 min tot 80%). ChargeShield beperkt bewust de laadsnelheid in de laatste 20% om de batterij te sparen -- een verstandige keuze.
+
+### Opladen via zonnepanelen
+
+Hier scoort de Jackery 2000 Plus beter dan veel concurrenten. Met een maximale solar-input van **1200W** -- meer dan het dubbele van de EcoFlow Delta 2 Max (500W) -- kun je het station veel sneller opladen met zonnepanelen. Met Jackery's eigen SolarSaga 200W-panelen (6 stuks) bereik je de maximale input en laad je het station in minder dan 2 uur op via de zon.
+
+| Laadmethode | Snelheid |
+|---|---|
+| **AC (stopcontact)** | 0-80% in ~90 min, 0-100% in ~2 uur |
+| **Zonnepaneel (max 1200W)** | 2-4 uur (bij optimale condities) |
+| **Auto-oplader (12V)** | ~16 uur |
+| **AC + Solar (gecombineerd)** | Snelste optie, tot ~2200W input |
+
+De hoge solar-input maakt de Explorer 2000 Plus bijzonder geschikt voor off-grid gebruik waar je afhankelijk bent van zonne-energie.
+
+---
+
+## Prestaties in de praktijk
+
+### Vermogen: 3000W continu
+
+Met **3000W continu vermogen** en **6000W piekvermogen** is de Jackery 2000 Plus een van de krachtigste draagbare powerstations. In de praktijk betekent dit dat je apparaten kunt aansluiten die bij veel concurrenten niet mogelijk zijn:
+
+| Apparaat | Vermogen | Draaitijd op volle lading |
+|---|---|---|
+| Koelkast (A+++) | 80 W (gem.) | ~20 uur |
+| Wasmachine (koude was) | 500 W | ~3 wasjes |
+| Magnetron (800W) | 1200 W | ~1,5 uur |
+| Draagbare airco | 1000-1500 W | ~1-1,5 uur |
+| Elektrische barbecue | 2000 W | ~50 min |
+| Laptop + monitor + lamp | 150 W | ~11 uur |
+| CPAP-apparaat | 30-60 W | ~30-50 uur |
+
+Het hoge piekvermogen van 6000W betekent dat apparaten met een hoge opstartstroom (zoals compressoren in koelkasten of airco's) probleemloos starten.
+
+### Geluidsniveau
+
+De Explorer 2000 Plus is bij lage belasting opvallend stil -- minder dan 30 dB. Bij hoge belasting of snel opladen springen de ventilatoren aan, wat het geluid verhoogt tot circa 48 dB. Dat is vergelijkbaar met een rustig gesprek en acceptabel voor de meeste situaties, maar op een stille camping kan het 's nachts opvallen.
+
+---
+
+## De Jackery App
+
+De **Jackery-app** biedt vergelijkbare functionaliteit als die van EcoFlow:
+
+- Realtime monitoring van laadstatus, input en output
+- Aan/uit-schakelen van uitgangen op afstand
+- Firmware-updates
+- Temperatuurbewaking
+- Laadplanning (bijv. alleen opladen bij lage stroomtarieven)
+
+De app is functioneel maar oogt iets minder gepolijst dan de EcoFlow-app. De verbinding via Bluetooth is soms traag, maar via Wi-Fi werkt alles vlot. Een handige toevoeging is de mogelijkheid om meerdere Jackery-apparaten te beheren in één overzicht.
+
+---
+
+## Vergelijking met EcoFlow Delta 2 Max
+
+Veel kopers twijfelen tussen de Jackery 2000 Plus en de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/). Hier een directe vergelijking:
+
+| Eigenschap | Jackery Explorer 2000 Plus | EcoFlow Delta 2 Max |
+|---|---|---|
+| **Capaciteit** | 2042 Wh | 2048 Wh |
+| **Continu vermogen** | 3000 W | 2400 W |
+| **Piekvermogen** | 6000 W | 4800 W |
+| **Gewicht** | 27,9 kg | 23 kg |
+| **AC-laadtijd (0-80%)** | ~90 min | ~65 min |
+| **Max. solar-input** | 1200 W | 500 W |
+| **Uitbreidbaarheid** | Tot 24 kWh | Beperkt |
+| **Levensduur** | 4000 cycli | 3000 cycli |
+| **Aantal AC-uitgangen** | 5 | 6 |
+| **USB-C (100W)** | 2x | 1x |
+| **Prijs (ca.)** | €1.899 | €1.799 |
+
+**Kies de Jackery 2000 Plus** als je maximaal vermogen, uitbreidbaarheid en hoge solar-input belangrijk vindt. **Kies de EcoFlow Delta 2 Max** als je waarde hecht aan laadsnelheid, een lager gewicht en een meer gepolijste app-ervaring.
+
+Voor een nog uitgebreidere vergelijking tussen beide merken, lees ons artikel [EcoFlow vs Jackery: welk merk is beter?](/posts/ecoflow-vs-jackery-2026/).
+
+---
+
+## Voordelen en nadelen
+
+### Voordelen
+
+- **3000W continu vermogen** -- een van de krachtigste in zijn klasse
+- **Uitbreidbaar tot 24 kWh** -- groei mee met je behoeften
+- **LiFePO4-batterij met 4000 cycli** -- uitzonderlijk lange levensduur
+- **1200W solar-input** -- ideaal voor off-grid opladen
+- **ChargeShield BMS** -- intelligente batterijbescherming
+- **6000W piekvermogen** -- start moeiteloos zware apparaten
+- **5 jaar garantie**
+
+### Nadelen
+
+- **27,9 kg** -- het zwaarste station in zijn klasse
+- **Minder snelle AC-lading** dan EcoFlow (90 vs 65 min tot 80%)
+- **App kan verbeterd worden** -- functioneel maar niet de meest intuïtieve
+- **Prijs** -- €1.899 is een stevige investering (exclusief Battery Packs)
+- **Minder AC-uitgangen** dan de concurrentie (5 vs 6)
+- **Battery Packs zijn prijzig** -- uitbreiden kost al snel €1.500+ per module
+
+---
+
+## Voor wie is de Jackery Explorer 2000 Plus?
+
+De Jackery Explorer 2000 Plus is ideaal voor:
+
+- **Off-grid enthousiastelingen** die veel zonne-energie willen benutten dankzij de hoge solar-input
+- **Huishoudens die noodstroom serieus nemen** en willen uitbreiden naar een groter systeem
+- **Gebruikers van zware apparaten** die 3000W of meer nodig hebben
+- **Tiny house- en camper-bewoners** die een schaalbaar energiesysteem willen opbouwen
+
+Het station is minder geschikt als je een **compact en licht** powerstation zoekt voor incidenteel campinggebruik -- bekijk dan ons overzicht [Beste powerstation voor camping 2026](/posts/beste-powerstation-camping-2026/).
+
+---
+
+## Prijs en waar te koop
+
+De Jackery Explorer 2000 Plus heeft een adviesprijs van **€1.899**. Battery Pack 2000 Plus uitbreidingsmodules kosten circa **€1.499** per stuk. Jackery biedt regelmatig bundelaanbiedingen aan met zonnepanelen en extra batterijen.
+
+**[Bekijk de Jackery Explorer 2000 Plus >>>]({{jackery_link}})**
+
+Overweeg een bundel met SolarSaga-zonnepanelen als je het station veel off-grid wilt gebruiken -- dat is vrijwel altijd voordeliger dan losse aanschaf.
+
+---
+
+## Conclusie
+
+De **Jackery Explorer 2000 Plus** is een indrukwekkend powerstation dat op belangrijke vlakken de concurrentie overtreft. Het hoge continu vermogen van 3000W, de uitmuntende uitbreidbaarheid tot 24kWh en de robuuste LiFePO4-batterij met 4000 cycli maken het een toekomstbestendige investering.
+
+Is het perfect? Nee. Het gewicht van bijna 28 kg, de iets tragere laadtijd via stopcontact en de prijzige uitbreidingsmodules zijn reële minpunten. Maar als je zoekt naar een powerstation dat met je mee kan groeien -- van weekendcamper tot volwaardig off-grid energiesysteem -- dan is de Jackery Explorer 2000 Plus moeilijk te verslaan.
+
+De modulaire aanpak maakt het bijzonder aantrekkelijk: begin met het basisstation en breid uit wanneer je budget en behoeften dat toelaten. En met 1200W solar-input is het de beste keuze voor wie maximaal wil profiteren van zonne-energie -- zeker nu de [salderingsregeling wordt afgebouwd](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) en eigen opslag steeds waardevoller wordt.
+
+**[Bestel de Jackery Explorer 2000 Plus via onze link >>>]({{jackery_link}})**
+
+Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor meer opties.
