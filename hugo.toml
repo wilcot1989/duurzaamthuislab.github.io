@@ -27,13 +27,9 @@ theme = "starter"
     url = "/categories/zonne-energie/"
     weight = 3
   [[menu.main]]
-    name = "Slim Huis"
-    url = "/categories/smart-home/"
-    weight = 4
-  [[menu.main]]
     name = "Over Ons"
     url = "/about/"
-    weight = 5
+    weight = 4
 
 [outputs]
   home = ["HTML", "RSS"]
