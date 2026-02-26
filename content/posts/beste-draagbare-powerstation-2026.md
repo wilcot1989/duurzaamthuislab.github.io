@@ -92,7 +92,7 @@ De **EcoFlow Delta 2 Max** is onze nummer 1 keuze voor 2026. Dit powerstation co
 
 De EcoFlow Delta 2 Max is verkrijgbaar vanaf **circa €1.799**.
 
-{{ecoflow_link}}
+**[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
 
 ---
 
@@ -132,7 +132,7 @@ De **Jackery Explorer 2000 Plus** onderscheidt zich met een indrukwekkend contin
 
 De Jackery Explorer 2000 Plus is verkrijgbaar vanaf **circa €1.899**.
 
-{{jackery_link}}
+**[Bekijk bij Jackery >>>](https://www.jackery.com/nl/)**
 
 ---
 
@@ -172,7 +172,7 @@ De **Bluetti AC200MAX** biedt een sterke combinatie van capaciteit en functional
 
 De Bluetti AC200MAX is verkrijgbaar vanaf **circa €1.699**.
 
-{{bluetti_link}}
+**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
 
 ---
 
@@ -212,7 +212,7 @@ De **Anker SOLIX C1000** is een uitstekende keuze voor wie een betrouwbaar power
 
 De Anker SOLIX C1000 is verkrijgbaar vanaf **circa €899**.
 
-{{anker_link}}
+**[Bekijk bij Anker >>>](https://www.anker.com/eu-nl/collections/portable-power-stations)**
 
 ---
 
@@ -252,7 +252,7 @@ Zoek je een powerstation dat je moeiteloos meeneemt op weekendtrips of als noods
 
 De EcoFlow River 2 Pro is verkrijgbaar vanaf **circa €649**.
 
-{{ecoflow_link}}
+**[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
 
 ---
 
@@ -292,7 +292,7 @@ De **Jackery Explorer 1000 Plus** zit precies in het segment waar capaciteit en 
 
 De Jackery Explorer 1000 Plus is verkrijgbaar vanaf **circa €1.099**.
 
-{{jackery_link}}
+**[Bekijk bij Jackery >>>](https://www.jackery.com/nl/)**
 
 ---
 
@@ -333,7 +333,7 @@ De **Bluetti EB70S** bewijst dat een goed powerstation niet duur hoeft te zijn. 
 
 De Bluetti EB70S is verkrijgbaar vanaf **circa €549**.
 
-{{bluetti_link}}
+**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
 
 ---
 

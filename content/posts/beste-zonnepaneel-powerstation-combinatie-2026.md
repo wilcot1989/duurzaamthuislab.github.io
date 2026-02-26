@@ -125,7 +125,7 @@ Het 400W-paneel is wel het **zwaarste en grootste** in deze vergelijking. Openge
 - 400W-paneel is groot en onhandig om te vervoeren
 - Hogere investering vereist
 
-{{ecoflow_link}}
+**[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
 
 ---
 
@@ -167,7 +167,7 @@ Het nadeel is dat een enkel 200W-paneel relatief **lang** doet over het volledig
 - Hogere kosten bij uitbreiding naar meerdere panelen
 - Station is zwaar (27,9 kg)
 
-{{jackery_link}}
+**[Bekijk bij Jackery >>>](https://www.jackery.com/nl/)**
 
 ---
 
@@ -211,7 +211,7 @@ Lees onze uitgebreide [Bluetti AC200MAX review](/posts/bluetti-ac200max-review-2
 - Iets lagere solar-input dan concurrenten (900W max)
 - Station laadt langzamer via stopcontact
 
-{{bluetti_link}}
+**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
 
 ---
 
@@ -253,7 +253,7 @@ De solar-input is beperkt tot 220W, wat precies overeenkomt met het paneel. Er i
 - Niet uitbreidbaar met extra panelen of batterijen
 - Onvoldoende voor langdurig off-grid gebruik
 
-{{ecoflow_link}}
+**[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
 
 ---
 
@@ -295,7 +295,7 @@ Met een **totaalprijs van circa €899** is dit de goedkoopste complete solar ge
 
 Bekijk ook onze [top 7 draagbare powerstations](/posts/beste-draagbare-powerstation-2026/) voor meer opties in het budgetsegment.
 
-{{bluetti_link}}
+**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
 
 ---
 

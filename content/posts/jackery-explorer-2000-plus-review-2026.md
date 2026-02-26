@@ -244,7 +244,7 @@ Het station is minder geschikt als je een **compact en licht** powerstation zoek
 
 De Jackery Explorer 2000 Plus heeft een adviesprijs van **€1.899**. Battery Pack 2000 Plus uitbreidingsmodules kosten circa **€1.499** per stuk. Jackery biedt regelmatig bundelaanbiedingen aan met zonnepanelen en extra batterijen.
 
-**[Bekijk de Jackery Explorer 2000 Plus >>>]({{jackery_link}})**
+**[Bekijk de Jackery Explorer 2000 Plus >>>](https://www.jackery.com/nl/)**
 
 Overweeg een bundel met SolarSaga-zonnepanelen als je het station veel off-grid wilt gebruiken -- dat is vrijwel altijd voordeliger dan losse aanschaf.
 
@@ -258,6 +258,6 @@ Is het perfect? Nee. Het gewicht van bijna 28 kg, de iets tragere laadtijd via s
 
 De modulaire aanpak maakt het bijzonder aantrekkelijk: begin met het basisstation en breid uit wanneer je budget en behoeften dat toelaten. En met 1200W solar-input is het de beste keuze voor wie maximaal wil profiteren van zonne-energie -- zeker nu de [salderingsregeling wordt afgebouwd](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) en eigen opslag steeds waardevoller wordt.
 
-**[Bestel de Jackery Explorer 2000 Plus via onze link >>>]({{jackery_link}})**
+**[Bestel de Jackery Explorer 2000 Plus via onze link >>>](https://www.jackery.com/nl/)**
 
 Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor meer opties.

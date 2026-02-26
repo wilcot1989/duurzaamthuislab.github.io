@@ -118,7 +118,7 @@ De **X-Boost technologie** verhoogt het effectieve vermogen tot 1600W, waarmee j
 
 De EcoFlow River 2 Pro is de ideale middenweg: licht genoeg om mee te nemen, krachtig genoeg voor alle standaard camping-apparaten, en met de snelste laadtijd in zijn klasse.
 
-**[Bekijk de EcoFlow River 2 Pro >>>]({{ecoflow_link}})**
+**[Bekijk de EcoFlow River 2 Pro >>>](https://www.ecoflow.com/nl)**
 
 ---
 
@@ -163,7 +163,7 @@ De **uitbreidbaarheid** is een uniek voordeel: met een extra Battery Pack vergro
 
 De Jackery Explorer 1000 Plus is ideaal als je langere kampeerperiodes plant, met een groter gezin kampeert, of de mogelijkheid wilt om uit te breiden. Het hogere gewicht is de trade-off voor significant meer capaciteit en vermogen.
 
-**[Bekijk de Jackery Explorer 1000 Plus >>>]({{jackery_link}})**
+**[Bekijk de Jackery Explorer 1000 Plus >>>](https://www.jackery.com/nl/)**
 
 ---
 
@@ -206,7 +206,7 @@ De laadsnelheid via AC is met 100 minuten tot 80% niet de snelste, en de solar-i
 
 De Bluetti EB70S biedt uitstekende waar voor je geld. Het mist de snelle laadtijden en geavanceerde functies van duurdere modellen, maar voor de prijs is het een solide, betrouwbare camping-metgezel.
 
-**[Bekijk de Bluetti EB70S >>>]({{bluetti_link}})**
+**[Bekijk de Bluetti EB70S >>>](https://www.bluettipower.nl/)**
 
 ---
 
@@ -250,7 +250,7 @@ De snelle AC-laadtijd van **58 minuten tot 80%** en de hogere solar-input van 30
 
 De Anker SOLIX C800 biedt een indrukwekkende prijs-prestatieverhouding. Meer vermogen dan de River 2 Pro, sneller opladen dan de EB70S, en een prijs die voor de meeste kampeerders bereikbaar is. Een uitstekende keuze als je net iets meer wilt dan het absolute instapniveau.
 
-**[Bekijk de Anker SOLIX C800 >>>]({{anker_link}})**
+**[Bekijk de Anker SOLIX C800 >>>](https://www.anker.com/eu-nl/collections/portable-power-stations)**
 
 ---
 
@@ -293,7 +293,7 @@ De **X-Boost functie** verhoogt het effectieve vermogen naar 600W, waarmee je in
 
 De EcoFlow River 2 is geen krachtpatser, maar dat is ook niet de bedoeling. Het is het ideale powerstation voor kampeerders die licht willen reizen en voornamelijk kleine elektronica moeten opladen. Met een prijs van slechts **€249** is het bovendien de meest betaalbare optie.
 
-**[Bekijk de EcoFlow River 2 >>>]({{ecoflow_link}})**
+**[Bekijk de EcoFlow River 2 >>>](https://www.ecoflow.com/nl)**
 
 ---
 

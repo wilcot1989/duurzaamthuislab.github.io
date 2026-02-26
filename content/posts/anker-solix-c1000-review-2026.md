@@ -283,7 +283,7 @@ Het station is minder geschikt als je heel veel apparaten tegelijk wilt draaien 
 
 De Anker SOLIX C1000 heeft een adviesprijs van **€899**. Regelmatig zijn er acties en kortingen, vooral tijdens Prime Day, Black Friday en via de officiële Anker-webshop.
 
-**[Bekijk de Anker SOLIX C1000 >>>]({{anker_solix_link}})**
+**[Bekijk de Anker SOLIX C1000 >>>](https://www.anker.com/eu-nl/collections/anker-solix)**
 
 Anker biedt ook bundelaanbiedingen aan met bijpassende zonnepanelen. Wil je de C1000 combineren met een zonnepaneel? Lees dan ook ons artikel over de [beste zonnepaneel-powerstation combinaties van 2026](/posts/beste-zonnepaneel-powerstation-combinatie-2026/).
 
@@ -297,6 +297,6 @@ De LiFePO4-batterij met 3000 cycli levensduur, de betrouwbare UPS-functie en de 
 
 Ja, de solar-input van 300W is beperkter dan sommige concurrenten en het aantal uitgangen is niet het hoogste in de klasse. Maar als je prioriteit geeft aan compactheid, snelheid en gebruiksgemak, dan is de Anker SOLIX C1000 een uitstekende keuze in 2026.
 
-**[Bestel de Anker SOLIX C1000 via onze link >>>]({{anker_solix_link}})**
+**[Bestel de Anker SOLIX C1000 via onze link >>>](https://www.anker.com/eu-nl/collections/anker-solix)**
 
 Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor een bredere vergelijking.

@@ -183,9 +183,9 @@ Beide stations zijn geschikt voor **scenario 2** (comfortabel). Met ruim 1000Wh 
 
 De Anker SOLIX C1000 laadt iets sneller op en is compacter. De EcoFlow Delta 2 biedt meer solar-input voor off-grid opladen. Lees onze uitgebreide [Anker SOLIX C1000 review](/posts/anker-solix-c1000-review-2026/) voor meer details.
 
-**[Bekijk de Anker SOLIX C1000 >>>]({{anker_solix_link}})**
+**[Bekijk de Anker SOLIX C1000 >>>](https://www.anker.com/eu-nl/collections/anker-solix)**
 
-**[Bekijk de EcoFlow Delta 2 >>>]({{ecoflow_delta2_link}})**
+**[Bekijk de EcoFlow Delta 2 >>>](https://www.ecoflow.com/nl/delta-2-portable-power-station)**
 
 ### Premium: €1.500+ -- EcoFlow Delta 2 Max of Jackery Explorer 2000 Plus
 
@@ -205,9 +205,9 @@ Met ruim 2000Wh ben je voorbereid op **scenario 3** (volledig comfort). Je kunt 
 
 De EcoFlow Delta 2 Max wint op laadsnelheid en gewicht. De Jackery 2000 Plus biedt meer continu vermogen en enorme uitbreidbaarheid. Lees onze uitgebreide reviews: [EcoFlow Delta 2 Max review](/posts/ecoflow-delta-2-max-review-2026/) en [Jackery Explorer 2000 Plus review](/posts/jackery-explorer-2000-plus-review-2026/).
 
-**[Bekijk de EcoFlow Delta 2 Max >>>]({{ecoflow_link}})**
+**[Bekijk de EcoFlow Delta 2 Max >>>](https://www.ecoflow.com/nl)**
 
-**[Bekijk de Jackery Explorer 2000 Plus >>>]({{jackery_link}})**
+**[Bekijk de Jackery Explorer 2000 Plus >>>](https://www.jackery.com/nl/)**
 
 ---
 

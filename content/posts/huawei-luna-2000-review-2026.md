@@ -267,6 +267,6 @@ De **terugverdientijd** is het grootste aandachtspunt. In een basisscenario met 
 
 Voor wie al een Huawei-omvormer heeft of bereid is om over te stappen, is de Luna 2000 de **meest verstandige keuze** in het thuisbatterij-segment van 2026. Heb je geen zonnepanelen en zoek je vooral een flexibele, draagbare oplossing? Bekijk dan onze [Bluetti AC200MAX review](/posts/bluetti-ac200max-review-2026/) of ons overzicht van de [beste draagbare powerstations](/posts/beste-draagbare-powerstation-2026/).
 
-**Onze score: 8/10**
+**Mijn score: 8/10**
 
-{{huawei_link}}
+**[Bekijk de Huawei Luna 2000 >>>](https://solar.huawei.com/nl/residential/luna2000)**

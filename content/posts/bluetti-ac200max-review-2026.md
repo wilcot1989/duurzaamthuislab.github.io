@@ -232,7 +232,7 @@ De Bluetti AC200MAX is verkrijgbaar vanaf **circa €1.699**. Dat maakt het het 
 | Bluetti B230 uitbreidingsbatterij | €1.299 |
 | Bluetti B300 uitbreidingsbatterij | €1.799 |
 
-{{bluetti_link}}
+**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
 
 ---
 
@@ -263,6 +263,6 @@ Het grootste minpunt is de relatief trage oplaadsnelheid via het stopcontact. Al
 
 De mogelijkheid om het systeem uit te breiden tot 8192Wh maakt het bovendien een serieus alternatief voor een vaste [thuisbatterij](/posts/huawei-luna-2000-review-2026/), met als groot voordeel dat je geen installateur nodig hebt.
 
-**Onze score: 8,5/10**
+**Mijn score: 8,5/10**
 
-{{bluetti_link}}
+**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**

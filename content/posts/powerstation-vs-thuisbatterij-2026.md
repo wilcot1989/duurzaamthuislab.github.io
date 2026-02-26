@@ -180,9 +180,9 @@ Thuisbatterijen gaan langer mee:
 
 **Mijn aanbeveling**: De [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) voor maximale veelzijdigheid, of de [EcoFlow River 2 Pro](/posts/beste-draagbare-powerstation-2026/) voor maximale draagbaarheid.
 
-{{ecoflow_link}}
+**[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
 
-{{bluetti_link}}
+**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
 
 ### Kies een thuisbatterij als je:
 
@@ -196,7 +196,7 @@ Thuisbatterijen gaan langer mee:
 
 **Mijn aanbeveling**: De [Huawei Luna 2000](/posts/huawei-luna-2000-review-2026/) als beste prijs-kwaliteitverhouding in Nederland.
 
-{{huawei_link}}
+**[Bekijk de Huawei Luna 2000 >>>](https://solar.huawei.com/nl/residential/luna2000)**
 
 ### Kies beide als je:
 

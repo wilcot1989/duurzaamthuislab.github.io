@@ -225,7 +225,7 @@ Het station is minder geschikt als je zoekt naar een ultralicht model voor hikin
 
 De EcoFlow Delta 2 Max heeft een adviesprijs van **€1.799**. Regelmatig zijn er acties waarbij je het station goedkoper kunt vinden, vooral tijdens Black Friday, Prime Day of via de officiële EcoFlow-webshop.
 
-**[Bekijk de EcoFlow Delta 2 Max >>>]({{ecoflow_link}})**
+**[Bekijk de EcoFlow Delta 2 Max >>>](https://www.ecoflow.com/nl)**
 
 Wil je het station combineren met zonnepanelen? EcoFlow biedt bundelaanbiedingen aan met hun opvouwbare zonnepanelen, wat vaak voordeliger is dan losse aanschaf.
 
@@ -239,6 +239,6 @@ Ja, de prijs is stevig. Maar je krijgt er een premium product voor terug dat dan
 
 Is het de *ultieme* powerstation? Bijna. De beperkte solar-input van 500W en het niet-waterbestendige ontwerp laten nog ruimte voor verbetering. Maar als je op zoek bent naar de beste balans tussen prestaties, snelheid en draagbaarheid, dan is de EcoFlow Delta 2 Max een uitstekende keuze.
 
-**[Bestel de EcoFlow Delta 2 Max via onze link >>>]({{ecoflow_link}})**
+**[Bestel de EcoFlow Delta 2 Max via onze link >>>](https://www.ecoflow.com/nl)**
 
 Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor een bredere vergelijking.
