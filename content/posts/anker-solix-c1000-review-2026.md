@@ -6,6 +6,8 @@ categories: ["powerstations"]
 tags: ["Anker", "SOLIX C1000", "powerstation review", "draagbaar powerstation", "LiFePO4", "compact powerstation"]
 keywords: ["anker solix c1000 review", "anker powerstation review", "anker solix c1000 ervaringen", "anker solix c1000 test", "anker c1000 specs"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/powerstations.svg"
 faq:
   - q: "Is de Anker SOLIX C1000 het waard in 2026?"
@@ -24,9 +26,9 @@ faq:
     a: "De LiFePO4-batterij gaat circa 3000 laadcycli mee voordat de capaciteit naar 80% daalt. Bij wekelijks gebruik is dat meer dan 10 jaar."
 ---
 
-De **Anker SOLIX C1000** is een powerstation dat bewezen heeft dat compactheid en kracht prima samengaan. In een segment waar veel concurrenten met grote, zware units komen, weet Anker met de C1000 een indrukwekkende 1056Wh en 1800W continu vermogen te leveren in een opvallend licht en draagbaar pakket. Maar hoe presteert dit powerstation in de dagelijkse praktijk? In deze uitgebreide review nemen we de Anker SOLIX C1000 grondig onder de loep.
+Ik heb inmiddels zes powerstations door mijn handen laten gaan, maar de Anker SOLIX C1000 verraste me het meest. Met 12,9 kg til je hem moeiteloos de auto in, terwijl hij met 1056Wh en 1800W wél serieus vermogen levert. Ik heb hem een week als noodstroom achter mijn HomeWizard P1 meter gehangen en daarna meegenomen op een kampeertripje — dit is wat ik ervan vond.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 

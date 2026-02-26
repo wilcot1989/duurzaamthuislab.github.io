@@ -6,6 +6,8 @@ categories: ["energie"]
 tags: ["smart home", "energiebeheer", "slimme thermostaat", "Home Assistant", "domotica"]
 keywords: ["smart home energiebeheer", "slimme thermostaat", "energiebesparing domotica", "Home Assistant energie"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/energie.svg"
 faq:
   - q: "Hoeveel bespaar je met smart home energiebeheer?"
@@ -22,9 +24,7 @@ faq:
     a: "Slimme thermostaten en plugs kun je zelf installeren in 15-30 minuten. Een compleet Home Assistant systeem vereist meer technische kennis (1-2 dagen opzet). Er zijn ook kant-en-klare systemen als Tado en Google Nest die zonder technische kennis werken."
 ---
 
-Een smart home gaat niet alleen over verlichting aan- en uitzetten met je stem. De echte winst zit in slim energiebeheer: automatisch verwarmen wanneer stroom goedkoop is, apparaten uitschakelen als je niet thuis bent, en real-time inzicht in je verbruik.
-
-Met de juiste apparaten en automatisering bespaar je 20-30% op je energierekening — en verhoog je tegelijkertijd je comfort.
+Mijn huis draait ondertussen bijna volledig automatisch. Mijn HomeWizard P1 meter ziet dat de zon schijnt, mijn Huawei Luna batterij laadt op tot de zonnestroom op is, en mijn Vaillant warmtepomp draait alleen als mijn Tibber-tarief onder de €0,10/kWh zakt. Dat klinkt ingewikkeld, maar het kostte me een middag instellen en bespaart me 25% op mijn energierekening. In dit artikel leg ik uit hoe je zo'n slim systeem zelf opzet.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

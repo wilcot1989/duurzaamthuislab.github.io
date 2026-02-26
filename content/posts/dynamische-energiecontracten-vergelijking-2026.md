@@ -6,6 +6,8 @@ categories: ["energie"]
 tags: ["dynamisch energiecontract", "Tibber", "Frank Energie", "ANWB Energie", "energieleverancier"]
 keywords: ["dynamisch energiecontract", "Tibber review", "ANWB Energie", "Frank Energie", "dynamische stroom"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/energie.svg"
 faq:
   - q: "Wat is een dynamisch energiecontract?"
@@ -22,9 +24,7 @@ faq:
     a: "In theorie ja. Door stroom te kopen wanneer de prijs laag of negatief is en te gebruiken (of terug te leveren) wanneer de prijs hoog is, kun je het prijsverschil benutten. In de praktijk levert dit met een thuisbatterij €100-€300 extra per jaar op, afhankelijk van de batterijcapaciteit en de prijsschommelingen."
 ---
 
-Dynamische energiecontracten zijn in 2026 populairder dan ooit. En dat is niet gek: met de juiste leverancier en een beetje slimheid bespaar je honderden euro's per jaar op je energierekening. Zeker als je zonnepanelen, een thuisbatterij of een elektrische auto hebt, wordt een dynamisch contract pas echt interessant.
-
-Maar welke leverancier kies je? Tibber, Frank Energie, ANWB Energie — ze bieden allemaal dynamische contracten aan, maar de verschillen in kosten, app-kwaliteit en extra functies zijn groot. In dit artikel vergelijken we de belangrijkste aanbieders.
+Ik ben zelf Tibber-klant en betaal inmiddels gemiddeld €0,19/kWh — inclusief de uren dat ik bewust mijn wasmachine en Huawei Luna thuisbatterij laat draaien op goedkope nachtstroom. Maar is Tibber echt de beste keuze, of laat ik geld liggen bij Frank Energie of ANWB Energie? Ik heb de tarieven, apps en functies van de belangrijkste dynamische leveranciers naast elkaar gelegd.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

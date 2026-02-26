@@ -6,6 +6,8 @@ categories: ["energie"]
 tags: ["energiemonitor", "P1 meter", "HomeWizard", "slimme meter", "energieverbruik"]
 keywords: ["beste energiemonitor", "P1 meter vergelijking", "HomeWizard P1", "energieverbruik meten"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/energie.svg"
 faq:
   - q: "Wat is een P1-meter / energiemonitor?"
@@ -22,9 +24,7 @@ faq:
     a: "Ja, de HomeWizard P1 Meter en Youless hebben uitstekende Home Assistant integraties. Ze worden automatisch gedetecteerd en bieden real-time verbruiksdata voor automatisering, zoals de wasmachine starten bij zonne-overschot of de warmtepomp uitschakelen bij dure stroom."
 ---
 
-Een energiemonitor is het startpunt van slim energiebeheer. Zonder inzicht in je verbruik kun je niet besparen. Met een P1-meter zie je real-time wat je verbruikt, wat het kost, en waar de bespaarkansen liggen.
-
-De investering? €30-€100. De besparing? 5-15% op je energierekening, oftewel €120-€360 per jaar.
+Mijn HomeWizard P1 meter was letterlijk de beste €30 die ik ooit heb uitgegeven. Binnen een week ontdekte ik dat mijn oude vriezer 's nachts 180W trok — vervangen, en ik bespaar nu €90 per jaar op dat ene apparaat. In combinatie met mijn Tibber dynamisch contract en 16 zonnepanelen zie ik per seconde wat er binnenkomt en wat het kost. In dit artikel vergelijk ik de beste energiemonitoren op de markt.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

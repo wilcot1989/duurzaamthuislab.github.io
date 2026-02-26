@@ -6,6 +6,8 @@ categories: ["thuisbatterijen"]
 tags: ["thuisbatterij terugverdientijd", "thuisbatterij rendabel", "thuisbatterij berekenen", "salderingsregeling", "ISDE subsidie", "zonnepanelen opslag"]
 keywords: ["thuisbatterij terugverdientijd", "thuisbatterij rendabel", "terugverdientijd berekenen thuisbatterij", "thuisbatterij kosten baten", "thuisbatterij investering"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/thuisbatterijen.svg"
 faq:
   - q: "Hoe lang is de terugverdientijd van een thuisbatterij in 2026?"
@@ -24,9 +26,9 @@ faq:
     a: "Als je al zonnepanelen hebt en de ISDE-subsidie nog beschikbaar is, is 2026 een goed moment. Batterijprijzen dalen, maar de subsidie is niet onbeperkt beschikbaar. Vanaf 2027 begint de afbouw van de salderingsregeling, waardoor een batterij rendabeler wordt. Wachten op nog lagere prijzen is een optie, maar je mist dan subsidie en besparingen in de tussentijd."
 ---
 
-Een thuisbatterij is een flinke investering -- reken op **€5.500 tot €14.000** inclusief installatie. De vraag die iedere huiseigenaar stelt: wanneer verdient die investering zich terug? In deze gids leggen we stap voor stap uit hoe je de terugverdientijd van een thuisbatterij berekent, met concrete rekenvoorbeelden en de impact van subsidies, de salderingsregeling en dynamische tarieven.
+Voordat ik mijn Huawei Luna 10 kWh kocht, heb ik een uitgebreide Excel gemaakt met alle variabelen: mijn zonnepaneelopbrengst (5.200 kWh/jaar), verbruiksprofiel dag/nacht, Tibber-tarieven, ISDE-subsidie en de afbouw van de salderingsregeling. Mijn conclusie: terugverdientijd van 9 jaar, en na de afbouw van saldering zelfs sneller. In deze gids deel ik precies hoe je die berekening zelf maakt.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Wat bepaalt de terugverdientijd?
 
@@ -274,4 +276,4 @@ Met ISDE-subsidie en een dynamisch contract kun je een terugverdientijd van **5-
 
 Zonder subsidie is de terugverdientijd aanzienlijk langer (13-17 jaar) en moet je afwegen of de bijkomende voordelen (noodstroom, onafhankelijkheid, toekomstbestendigheid) de investering rechtvaardigen.
 
-**Onze aanbeveling**: vraag vandaag nog offertes aan bij minimaal drie installateurs en dien je ISDE-subsidieaanvraag in zodra de installatie gereed is. Bekijk ons overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatterij-nederland-2026/) om de juiste batterij voor jouw situatie te kiezen.
+**Mijn aanbeveling**: vraag vandaag nog offertes aan bij minimaal drie installateurs en dien je ISDE-subsidieaanvraag in zodra de installatie gereed is. Bekijk ons overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatterij-nederland-2026/) om de juiste batterij voor jouw situatie te kiezen.

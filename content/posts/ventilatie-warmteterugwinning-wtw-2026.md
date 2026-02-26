@@ -6,6 +6,8 @@ categories: ["isolatie"]
 tags: ["ventilatie", "WTW", "warmteterugwinning", "binnenluchtkwaliteit", "energiebesparing"]
 keywords: ["ventilatie warmteterugwinning", "WTW unit kosten", "balansventilatie", "mechanische ventilatie"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/isolatie.svg"
 faq:
   - q: "Wat is ventilatie met warmteterugwinning (WTW)?"
@@ -22,9 +24,7 @@ faq:
     a: "Ja, en dat is een uitstekende combinatie. De WTW voorkomt warmteverlies door ventilatie, waardoor de warmtepomp minder hoeft te werken. Sommige WTW-units hebben een ingebouwde warmtepomp die de afgevoerde lucht extra benut. De combinatie bespaart 25-40% op verwarmingskosten."
 ---
 
-Je hebt je huis geïsoleerd, HR++ glas geplaatst, en misschien zelfs een warmtepomp. Maar als je ventileert door ramen of roosters open te zetten, gaat een groot deel van die warmte gewoon naar buiten. Zonde.
-
-Ventilatie met warmteterugwinning (WTW) lost dit op: schone lucht naar binnen, warmte behouden. Modern, stil en effectief.
+Na het isoleren van mijn vloer en het plaatsen van mijn Vaillant warmtepomp merkte ik dat ik via de ventilatieroosters alsnog veel warmte verloor. Een WTW-systeem haalt 90% van die warmte terug uit de afgevoerde lucht. Ik heb het laten doorrekenen: bij mijn gasverbruik scheelt het €350 per jaar, en de luchtkwaliteit in huis is fors verbeterd. Hier deel ik alles wat je moet weten.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

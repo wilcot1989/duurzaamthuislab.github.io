@@ -6,6 +6,8 @@ categories: ["zonnepanelen"]
 tags: ["zonnepanelen huren", "zonnepanelen kopen", "lease", "Solarwatt", "zonne-energie"]
 keywords: ["zonnepanelen huren vs kopen", "zonnepanelen lease", "zonnepanelen huren kosten", "zonnepanelen kopen rendement"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/zonnepanelen.svg"
 faq:
   - q: "Is het voordeliger om zonnepanelen te huren of te kopen?"
@@ -22,9 +24,7 @@ faq:
     a: "Als de huuraanbieder failliet gaat, blijven de panelen op je dak functioneren. De eigendom gaat over naar de curator. In de praktijk neemt een andere partij het contract over. Dit is een risico, maar tot nu toe zeldzaam bij grote aanbieders."
 ---
 
-Geen spaargeld voor zonnepanelen maar wel willen profiteren van zonne-energie? Huren kan een oplossing zijn. Maar is het ook een slimme keuze? Of betaal je uiteindelijk veel meer dan nodig?
-
-In dit artikel vergelijken we huren en kopen op alle relevante punten: kosten, opbrengst, risico en flexibiliteit.
+Ik heb mijn 16 zonnepanelen gekocht voor €4.800 en ze in 6 jaar terugverdiend. Een huurconstructie had me over 25 jaar meer dan €8.000 extra gekost. Toch kan huren voor sommige situaties de betere keuze zijn — bijvoorbeeld als je binnen 5 jaar wilt verhuizen of geen spaargeld hebt. Ik heb beide opties doorgerekend en leg hier het verschil uit.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
@@ -153,7 +153,7 @@ Met een lening koop je de panelen (eigendom = hoger rendement) maar heb je geen 
 
 **Kopen is financieel altijd de betere keuze** — je verdient €3.700+ meer over 25 jaar en bent eigenaar van de panelen. Maar huren is een prima optie als je geen spaargeld hebt, onzeker bent over je woonsituatie, of gewoon geen gedoe wilt.
 
-**Onze aanbeveling:**
+**Mijn aanbeveling:**
 1. **Heb je spaargeld?** → Koop
 2. **Geen spaargeld maar laag inkomen?** → Nationaal Warmtefonds (0% lening)
 3. **Geen spaargeld, normaal inkomen?** → Groene lening (2-4%)

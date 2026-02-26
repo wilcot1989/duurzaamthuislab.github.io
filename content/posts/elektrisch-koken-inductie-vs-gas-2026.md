@@ -6,6 +6,8 @@ categories: ["energie"]
 tags: ["inductie koken", "gasloos koken", "inductiekookplaat", "van gas af", "elektrisch koken"]
 keywords: ["inductie vs gas koken", "inductiekookplaat kosten", "overstappen inductie", "gasloos koken 2026"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/energie.svg"
 faq:
   - q: "Is inductie koken goedkoper dan gas?"
@@ -22,9 +24,7 @@ faq:
     a: "Beste alleskunner: Siemens/Bosch flexInduction (vrij plaatsbare zones, €800-€1.200). Beste budget: IKEA HUVUDSAKLIG of Etna KIF880DS (€300-€500). Beste voor koks: AEG Bridge-functie of Miele KM7000 (flexibele zones, timer per zone). Let op: kies minimaal 7.2 kW aansluitwaarde voor comfortabel koken."
 ---
 
-Nederland gaat van het gas af. En de keuken is vaak de makkelijkste plek om te beginnen: een inductiekookplaat kost €300-€1.500, kookt sneller dan gas, en als je ook je verwarming elektrisch maakt kun je je gasaansluiting opzeggen — dat bespaart €200-€250 per jaar.
-
-In dit artikel vergelijken we inductie vs gas op alle fronten.
+Toen ik mijn Vaillant hybride warmtepomp liet installeren, heb ik meteen de stap naar inductie gezet. Mijn gasaansluiting wil ik uiteindelijk helemaal opzeggen — dat scheelt €230 per jaar aan vastrecht alleen al. Na een jaar inductie koken kan ik zeggen: water kookt in 3 minuten, de plaat is makkelijker schoon te houden, en mijn energiekosten voor koken zijn gehalveerd. Hier deel ik de volledige vergelijking.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

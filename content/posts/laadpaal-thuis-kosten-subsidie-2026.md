@@ -6,6 +6,8 @@ categories: ["energie"]
 tags: ["laadpaal", "elektrische auto", "thuisladen", "slim laden", "EV"]
 keywords: ["laadpaal thuis kosten", "laadpaal subsidie 2026", "beste laadpaal thuis", "thuisladen elektrische auto"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/energie.svg"
 faq:
   - q: "Hoeveel kost een laadpaal thuis?"
@@ -22,9 +24,7 @@ faq:
     a: "Bij 15.000 km/jaar en 18 kWh/100 km verbruikt een elektrische auto ca. 2.700 kWh per jaar. Kosten thuis laden: €675-€950/jaar (€0,25-€0,35/kWh). Met slim laden op dynamische tarieven of eigen zonnestroom: €350-€600/jaar. Ter vergelijking: een benzineauto kost €1.800-€2.500/jaar aan brandstof."
 ---
 
-Een eigen laadpaal is verreweg de goedkoopste manier om je elektrische auto op te laden. Thuisladen kost €0,25-€0,35 per kWh tegenover €0,60-€0,85 bij een publiek laadpunt. Met slim laden en zonnepanelen bespaar je nog meer.
-
-In dit artikel: kosten, subsidie, de beste laadpalen en alles wat je moet weten voor installatie.
+Zodra ik een elektrische auto koop — en dat wordt dit jaar — wil ik die laden met de overschotstroom van mijn 16 zonnepanelen. Ik heb uitgerekend dat thuisladen op eigen zonnestroom me €0,05/kWh kost, tegenover €0,75 bij een snellader. Reden genoeg om de laadpaalmarkt grondig te onderzoeken. In dit artikel deel ik alles: kosten, subsidie, de beste merken en hoe je slim laadt op dynamische tarieven.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

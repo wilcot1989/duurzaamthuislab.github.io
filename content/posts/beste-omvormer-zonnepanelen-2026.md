@@ -6,6 +6,8 @@ categories: ["zonne-energie"]
 tags: ["omvormer", "zonnepanelen", "SolarEdge", "Enphase", "Huawei", "Fronius", "SMA", "micro-omvormer", "string-omvormer"]
 keywords: ["beste omvormer zonnepanelen", "omvormer vergelijken", "beste omvormer 2026", "micro-omvormer vs string-omvormer", "zonnepanelen omvormer kiezen"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/zonne-energie.svg"
 faq:
   - q: "Wat is het verschil tussen een string-omvormer en micro-omvormer?"
@@ -24,11 +26,9 @@ faq:
     a: "Als je een standaard (niet-hybride) string-omvormer hebt, moet je deze meestal vervangen door een hybride model om een DC-gekoppelde thuisbatterij aan te sluiten. Een alternatief is een AC-gekoppelde batterij, waarvoor geen nieuwe omvormer nodig is."
 ---
 
-De **omvormer** is het kloppende hart van je zonnepanelensysteem. Het zet de gelijkstroom (DC) van je panelen om naar wisselstroom (AC) die je in huis gebruikt. De keuze voor de juiste omvormer heeft direct invloed op het rendement, de monitoring en de toekomstbestendigheid van je installatie -- vooral als je later een thuisbatterij wilt toevoegen.
+Toen ik mijn 16 zonnepanelen (5,6 kWp) liet installeren, heb ik bewust gekozen voor een Huawei SUN2000 hybride omvormer — zodat ik later probleemloos mijn Luna thuisbatterij kon aansluiten. Die keuze heeft me duizenden euro's bespaard vergeleken met achteraf een omvormer moeten vervangen. In dit overzicht vergelijk ik de 5 beste omvormers van 2026, zodat jij die afweging goed kunt maken.
 
-In dit uitgebreide overzicht vergelijken we de **5 beste omvormers** voor Nederlandse huishoudens in 2026, inclusief de afweging tussen string-omvormers en micro-omvormers.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Snelle vergelijkingstabel
 

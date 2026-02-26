@@ -6,6 +6,8 @@ categories: ["warmtepompen"]
 tags: ["warmtepomp", "CV-ketel", "verwarming", "gasloos", "verduurzaming"]
 keywords: ["warmtepomp vs CV-ketel", "warmtepomp kosten", "CV-ketel vervangen", "warmtepomp rendabel"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/warmtepompen.svg"
 faq:
   - q: "Is een warmtepomp goedkoper dan een CV-ketel?"
@@ -22,9 +24,7 @@ faq:
     a: "Een warmtepomp gaat gemiddeld 15-20 jaar mee, vergelijkbaar met een goede CV-ketel. De compressor is het onderdeel dat het eerst slijt. Regelmatig onderhoud (jaarlijkse check) verlengt de levensduur. De meeste fabrikanten bieden 5-7 jaar garantie."
 ---
 
-De stap van een CV-ketel naar een warmtepomp is de grootste verduurzamingsbeslissing voor je woning. Het kan je gasrekening met 40-70% verlagen en je CO2-uitstoot drastisch verminderen. Maar is het ook financieel rendabel voor jouw situatie?
-
-In dit artikel vergelijken we de volledige kosten, besparing en voor- en nadelen van een warmtepomp ten opzichte van een CV-ketel. Met concrete berekeningen voor verschillende woningtypen.
+Ik heb anderhalf jaar geleden mijn CV-ketel aangevuld met een Vaillant hybride warmtepomp en mijn gasverbruik is van 1.400 m3 naar 580 m3 gedaald. Netto besparing: bijna €900 per jaar. Maar een warmtepomp is niet voor iedereen de juiste keuze — bij een slecht geisoleerd huis of laag gasverbruik kan de terugverdientijd oplopen tot 15 jaar. In dit artikel reken ik het voor je door.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

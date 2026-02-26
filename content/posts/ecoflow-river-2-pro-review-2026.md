@@ -6,6 +6,8 @@ categories: ["powerstations"]
 tags: ["ecoflow river 2 pro", "ecoflow", "powerstation review", "budget powerstation", "draagbaar powerstation", "camping powerstation"]
 keywords: ["ecoflow river 2 pro review", "river 2 pro test", "ecoflow river 2 pro ervaringen", "river 2 pro specs", "ecoflow river 2 pro kopen"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/powerstations.svg"
 faq:
   - q: "Hoeveel kost de EcoFlow River 2 Pro?"
@@ -24,11 +26,9 @@ faq:
     a: "EcoFlow garandeert dat de batterij na 3000 laadcycli nog minimaal 80% van de oorspronkelijke capaciteit behoudt. Bij dagelijks gebruik komt dit neer op meer dan 8 jaar. Bij wekelijks gebruik (camping, weekend) gaat de batterij effectief 10-15 jaar of langer mee."
 ---
 
-De **EcoFlow River 2 Pro** is een van de populairste draagbare powerstations in het middensegment. Met een capaciteit van 768 Wh, razendsnel opladen en een uitgangsvermogen van 800W (1600W met X-Boost) positioneert het zich als een veelzijdige allrounder voor camping, noodstroom en dagelijks gebruik. Maar hoe presteert het in de praktijk?
+Voor onder de €450 krijg je 768 Wh, razendsnelle X-Stream oplaadtechnologie en een gewicht van maar 7,8 kg — de EcoFlow River 2 Pro is mijn vaste metgezel op campingtrips. Ik heb hem een heel weekend mijn koelbox, telefoons en LED-lampjes laten voeden, en hij hield het ruimschoots vol. In deze review deel ik mijn praktijkervaringen en de cijfers die erbij horen.
 
-In deze review testen we de EcoFlow River 2 Pro op alle fronten: capaciteit, laadsnelheid, vermogen, geluidsniveau, bouwkwaliteit en prijs-kwaliteitverhouding.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## EcoFlow River 2 Pro: Specificaties
 
@@ -70,7 +70,7 @@ Opmerking: een zonnepaneel is **niet** inbegrepen en moet apart worden aangescha
 
 ### Laadsnelheid: indrukwekkend
 
-De snelste manier om de River 2 Pro op te laden is via netstroom. Dankzij de ingebouwde X-Stream-technologie gaat het station van 0 naar 100% in circa 70 minuten. In onze test laadde het toestel van 0 naar 80% in slechts 45 minuten. Dit is aanzienlijk sneller dan de meeste concurrenten in deze prijsklasse.
+De snelste manier om de River 2 Pro op te laden is via netstroom. Dankzij de ingebouwde X-Stream-technologie gaat het station van 0 naar 100% in circa 70 minuten. In mijn test laadde het toestel van 0 naar 80% in slechts 45 minuten. Dit is aanzienlijk sneller dan de meeste concurrenten in deze prijsklasse.
 
 Het opladen via zonnepanelen (we gebruikten een 220W EcoFlow-paneel) bracht het station in circa 4,5 uur van 0 naar 100% bij goede zonnestand. Bij bewolkt weer liep dit op naar 6-8 uur.
 

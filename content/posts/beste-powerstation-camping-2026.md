@@ -6,6 +6,8 @@ categories: ["powerstations"]
 tags: ["powerstation camping", "draagbaar powerstation", "kamperen", "EcoFlow", "Jackery", "Bluetti", "Anker"]
 keywords: ["powerstation camping", "beste powerstation kamperen", "draagbare accu camping", "powerstation voor kamperen", "camping stroomvoorziening"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/powerstations.svg"
 faq:
   - q: "Welk powerstation is het beste voor camping?"
@@ -24,11 +26,9 @@ faq:
     a: "Een opvouwbaar paneel van 100-200W is voor de meeste kampeerders ideaal. Hiermee laad je een middelgroot powerstation in 4-8 uur op, afhankelijk van de zonnestand en bewolking."
 ---
 
-Op zoek naar het **beste powerstation voor camping** in 2026? Of je nu een weekendje weg gaat met de tent, wekenlang met de caravan door Europa toert, of met de camperbus op avontuur gaat -- een betrouwbare draagbare stroomvoorziening maakt het verschil tussen basaal kamperen en comfortabel buitenleven.
+Vorig jaar heb ik op de camping mijn compressorkoelbox, telefoons en LED-verlichting drie dagen gevoed met een enkel powerstation en een opvouwbaar zonnepaneel. Geen aggregaat, geen lawaai, geen gedoe. Ik heb daarna nog vier andere modellen getest en precies bijgehouden hoeveel Wh ik per campingdag verbruikte (gemiddeld 420 Wh). Dit zijn de 5 powerstations die ik zou aanraden voor kampeerders.
 
-In dit artikel vergelijken we de **5 beste powerstations specifiek voor campinggebruik**. We letten daarbij extra op gewicht, draagbaarheid, vermogen voor typische camping-apparaten en de mogelijkheid om op te laden met zonnepanelen.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 

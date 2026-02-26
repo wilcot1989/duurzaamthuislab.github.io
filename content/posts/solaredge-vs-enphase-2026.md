@@ -6,6 +6,8 @@ categories: ["zonnepanelen"]
 tags: ["SolarEdge", "Enphase", "omvormer", "micro-omvormer", "zonnepanelen"]
 keywords: ["SolarEdge vs Enphase", "omvormer vergelijking", "micro-omvormer", "power optimizer", "beste omvormer zonnepanelen"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/zonnepanelen.svg"
 faq:
   - q: "Wat is het verschil tussen SolarEdge en Enphase?"
@@ -22,9 +24,7 @@ faq:
     a: "SolarEdge biedt 12 jaar garantie op de omvormer (verlengbaar tot 25 jaar) en 25 jaar op de power optimizers. Enphase biedt standaard 25 jaar garantie op alle micro-omvormers. Enphase heeft daarmee de langste standaardgarantie."
 ---
 
-Bij het kiezen van zonnepanelen gaat de meeste aandacht naar de panelen zelf, maar de omvormer is minstens zo belangrijk. De omvormer zet de gelijkstroom van je panelen om naar wisselstroom die je in huis kunt gebruiken. Een goede omvormer maximaliseert je opbrengst en gaat 25 jaar mee.
-
-SolarEdge en Enphase zijn de twee dominante merken in de markt voor premium omvormers. Beide gebruiken een technologie waarbij elk paneel individueel wordt geoptimaliseerd — maar op een fundamenteel andere manier. In dit artikel vergelijken we ze op alle belangrijke punten.
+Ik heb zelf voor een Huawei omvormer gekozen, maar als mensen mij vragen naar de premium markt komt het altijd neer op SolarEdge of Enphase. Beide optimaliseren elk paneel individueel, maar de technologie erachter verschilt fundamenteel. Ik heb installateurs gesproken, storingsdata vergeleken en de totaalkosten voor een installatie van 16 panelen doorgerekend. Hier is mijn conclusie.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

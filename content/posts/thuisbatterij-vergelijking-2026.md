@@ -6,6 +6,8 @@ categories: ["thuisbatterij"]
 tags: ["thuisbatterij", "Tesla Powerwall", "BYD", "energieopslag", "zonnepanelen"]
 keywords: ["thuisbatterij vergelijking", "beste thuisbatterij 2026", "Tesla Powerwall prijs", "thuisbatterij zonnepanelen"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/thuisbatterij.svg"
 faq:
   - q: "Welke thuisbatterij is de beste in 2026?"
@@ -22,9 +24,7 @@ faq:
     a: "Voor een gemiddeld huishouden is 5-10 kWh voldoende om het avond- en nachtverbruik te dekken. Met een warmtepomp of EV heb je 10-15 kWh nodig. Bereken je dagelijkse avond/nacht verbruik: dat is de ideale batterijcapaciteit."
 ---
 
-Een thuisbatterij slaat de stroom van je zonnepanelen op voor gebruik in de avond en nacht. Met de afbouw van de salderingsregeling wordt dat steeds relevanter: stroom die je overdag produceert maar niet direct verbruikt, kun je opslaan in plaats van tegen een lage vergoeding terug te leveren.
-
-Maar welke thuisbatterij is de juiste keuze? De markt is volwassen geworden met betrouwbare opties in verschillende prijsklassen. In dit artikel vergelijken we de 5 beste thuisbatterijen op de Nederlandse markt.
+Na een jaar met mijn Huawei Luna 2000 weet ik precies waar je op moet letten bij een thuisbatterij: round-trip efficientie, prijs per kWh, en of het systeem overweg kan met dynamische tarieven. Ik heb de 5 populairste modellen op de Nederlandse markt vergeleken op basis van echte data, installateursfeedback en mijn eigen rekenmodellen.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

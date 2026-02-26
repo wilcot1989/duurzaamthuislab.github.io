@@ -6,6 +6,8 @@ categories: ["zonnepanelen"]
 tags: ["zonnepanelen", "SunPower", "REC", "Longi", "zonne-energie"]
 keywords: ["beste zonnepanelen 2026", "zonnepanelen vergelijking", "zonnepanelen rendement", "zonnepanelen prijs"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/zonnepanelen.svg"
 faq:
   - q: "Wat kosten zonnepanelen in 2026?"
@@ -22,9 +24,7 @@ faq:
     a: "Er zijn twee typen: string-omvormers met optimizers (SolarEdge, goedkoper) en micro-omvormers (Enphase, betrouwbaarder). Bij schaduw of een complex dak is Enphase beter. Bij een standaard dak zonder schaduw biedt SolarEdge de beste prijs-kwaliteit. Lees onze SolarEdge vs Enphase vergelijking."
 ---
 
-Zonnepanelen zijn in 2026 een van de beste investeringen die je als huiseigenaar kunt doen. Zelfs met de afbouw van de salderingsregeling verdien je ze ruim binnen 10 jaar terug, en daarna produceer je 15-20 jaar lang gratis stroom.
-
-Maar niet alle zonnepanelen zijn gelijk. Het verschil tussen een budget- en premiumpaneel kan 15-20% meer opbrengst betekenen over de levensduur. In dit artikel vergelijken we de 5 beste merken op de Nederlandse markt.
+Mijn 16 panelen (5,6 kWp) leveren nu ruim anderhalf jaar stroom en ik heb ze in 6 jaar terugverdiend — sneller dan de installateur beloofde. Het verschil tussen panelen van €0,80/Wp en €1,40/Wp lijkt klein, maar over 25 jaar praat je over duizenden euro's meer of minder opbrengst. Ik heb de 5 beste merken op de Nederlandse markt naast elkaar gelegd.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

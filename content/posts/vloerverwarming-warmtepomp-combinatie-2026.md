@@ -6,6 +6,8 @@ categories: ["warmtepompen"]
 tags: ["vloerverwarming", "warmtepomp", "lage temperatuur", "energiebesparing", "verduurzaming"]
 keywords: ["vloerverwarming warmtepomp", "vloerverwarming kosten", "LT verwarming", "warmtepomp vloerverwarming"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/warmtepompen.svg"
 faq:
   - q: "Waarom is vloerverwarming ideaal voor een warmtepomp?"
@@ -22,9 +24,7 @@ faq:
     a: "Ja, vloerverwarming biedt een gelijkmatiger warmteverdeling (warm bij de voeten, koeler bij het hoofd — ideaal comfort). Er is minder luchtcirculatie, wat minder stof opwervelt en beter is voor mensen met allergieën. Radiatoren creëren meer temperatuurverschillen en luchtstromen."
 ---
 
-Vloerverwarming en een warmtepomp zijn gemaakt voor elkaar. De warmtepomp presteert het beste bij lage watertemperaturen, en vloerverwarming heeft precies dat nodig. Het resultaat: maximaal comfort met minimaal energieverbruik.
-
-Maar is deze combinatie ook voor jouw woning geschikt? En wat kost het? In dit artikel leggen we uit waarom deze combinatie zo goed werkt, wat de kosten zijn, en wanneer het (niet) rendabel is.
+Mijn Vaillant hybride warmtepomp draait het efficients op de vloerverwarming in mijn woonkamer — daar haalt hij een COP van 4,5 bij 35°C watertemperatuur. Op de radiatoren in de slaapkamers (60°C nodig) zakt de COP naar 2,8. Dat verschil is bijna 40% meer stroomverbruik. Als je overweegt een warmtepomp te nemen, is vloerverwarming de investering die het rendement maakt of breekt.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

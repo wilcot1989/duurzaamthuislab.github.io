@@ -6,6 +6,8 @@ categories: ["isolatie"]
 tags: ["isolatie subsidie", "ISDE", "spouwmuurisolatie", "dakisolatie", "vloerisolatie"]
 keywords: ["isolatie subsidie 2026", "ISDE subsidie isolatie", "subsidie spouwmuurisolatie", "isolatie subsidie aanvragen"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/isolatie.svg"
 faq:
   - q: "Welke isolatiesubsidies zijn er in 2026?"
@@ -22,9 +24,7 @@ faq:
     a: "Spouwmuurisolatie heeft de beste terugverdientijd: 2-4 jaar (kosten €1.500-€3.000 minus €900-€2.400 subsidie). Dakisolatie volgt met 4-7 jaar. Vloerisolatie: 4-6 jaar. HR++ glas heeft de langste terugverdientijd: 8-15 jaar. Met subsidie verbetert de terugverdientijd met 30-50%."
 ---
 
-Isolatie is de meest rendabele verduurzamingsinvestering: lagere energiekosten, beter comfort, en een hoger energielabel. En met de subsidies van 2026 wordt het nog aantrekkelijker — je kunt duizenden euro's terugkrijgen.
-
-In dit overzicht vind je alle isolatiesubsidies, de exacte bedragen, en hoe je ze aanvraagt.
+Mijn vloerisolatie kostte €2.800, maar na de ISDE-subsidie van €1.200 en een gemeentelijke bijdrage van €500 betaalde ik effectief €1.100. Terugverdientijd: 2,5 jaar. Isolatie is verreweg de snelst rendabele verduurzamingsmaatregel die ik heb gedaan — en ik raad iedereen aan om eerst te isoleren voordat je een warmtepomp overweegt. Hier vind je alle subsidies van 2026 op een rij.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

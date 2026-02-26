@@ -6,6 +6,8 @@ categories: ["powerstations"]
 tags: ["powerstation vergelijking", "draagbaar powerstation", "EcoFlow", "Jackery", "Bluetti", "Anker"]
 keywords: ["beste powerstation", "draagbare powerstation vergelijken", "powerstation kopen", "beste powerstation 2026", "draagbaar powerstation test"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/powerstations.svg"
 faq:
   - q: "Wat is het beste draagbare powerstation van 2026?"
@@ -24,9 +26,9 @@ faq:
     a: "Dat hangt af van de capaciteit. De meeste luchtvaartmaatschappijen staan batterijen tot 100Wh toe in handbagage. Powerstations overschrijden deze limiet ruimschoots en mogen daarom niet mee het vliegtuig in."
 ---
 
-Ben je op zoek naar het **beste draagbare powerstation** van 2026? Of je nu een betrouwbare stroomvoorziening wilt voor op de camping, als noodstroom thuis, of om je zonnepanelen mobiel in te zetten -- er is meer keuze dan ooit. In deze uitgebreide vergelijking zetten we de **7 beste powerstations** van dit moment naast elkaar.
+Naast mijn vaste Huawei Luna thuisbatterij van 10 kWh heb ik ook altijd een draagbaar powerstation in huis — voor noodstroom, de camping of klussen in de tuin. Ik heb er de afgelopen maanden meerdere getest en uitgerekend welke de beste prijs per Wh biedt, het snelst laadt en het langst meegaat. Dit zijn mijn 7 favorieten.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Snelle vergelijkingstabel
 
@@ -42,7 +44,7 @@ Ben je op zoek naar het **beste draagbare powerstation** van 2026? Of je nu een 
 
 ---
 
-## Hoe wij testen en vergelijken
+## Hoe ik test en vergelijken
 
 Bij DuurzaamThuisLab beoordelen we elk powerstation op vijf kerncriteria:
 

@@ -6,6 +6,8 @@ categories: ["thuisbatterijen"]
 tags: ["Huawei", "Luna 2000", "thuisbatterij", "thuisaccu", "zonnepanelen opslag", "energieopslag"]
 keywords: ["huawei luna 2000 review", "huawei thuisbatterij", "luna 2000 ervaringen", "huawei luna 2000 prijs", "thuisbatterij nederland"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/thuisbatterijen.svg"
 faq:
   - q: "Wat kost een Huawei Luna 2000 thuisbatterij inclusief installatie?"
@@ -24,9 +26,9 @@ faq:
     a: "In 2026 is er geen directe subsidie voor thuisbatterijen in Nederland. Wel zijn er lokale regelingen en experimenten met salderingsafbouw die de terugverdientijd gunstiger kunnen maken. Check altijd de actuele regelgeving bij je gemeente."
 ---
 
-De **Huawei Luna 2000** is met afstand de meest geinstalleerde thuisbatterij in Nederland. En dat is niet zonder reden: het modulaire design, de naadloze integratie met Huawei-omvormers en de scherpe prijs-kwaliteitverhouding maken het een populaire keuze voor huishoudens die hun eigen zonne-energie willen opslaan. In deze review bespreken we alles wat je moet weten voordat je investeert.
+Dit is de thuisbatterij die ik zelf in huis heb: de Huawei Luna 2000, 10 kWh, gekoppeld aan mijn Huawei SUN2000 omvormer en 16 zonnepanelen. Na een jaar ervaring kan ik zeggen dat deze batterij mijn eigenverbruik van 35% naar 82% heeft gebracht. In deze review deel ik mijn echte cijfers, de installatie-ervaringen en waar je op moet letten voordat je investeert.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 

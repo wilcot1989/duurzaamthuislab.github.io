@@ -6,6 +6,8 @@ categories: ["zonnepanelen"]
 tags: ["zonnepanelen plat dak", "ballast systeem", "opbrengst zonnepanelen", "plat dak montage"]
 keywords: ["zonnepanelen plat dak", "plat dak zonnepanelen kosten", "opbrengst plat dak", "zonnepanelen plaatsen plat dak"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/zonnepanelen.svg"
 faq:
   - q: "Kan ik zonnepanelen op een plat dak leggen?"
@@ -22,9 +24,7 @@ faq:
     a: "De meeste platte daken kunnen zonnepanelen dragen. Gewicht per paneel + frame + ballast: 15-25 kg/m². Standaard platte daken zijn berekend op 100+ kg/m² (sneeuwlast). Bij oudere daken of twijfel: laat een constructeur of de installateur de draagkracht controleren. Kosten check: €100-€300."
 ---
 
-Een plat dak is prima geschikt voor zonnepanelen — je kiest zelf de richting en hellingshoek voor de beste opbrengst. Maar de plaatsing verschilt van een schuin dak: je hebt montageframes, ballast en meer dakruimte nodig.
-
-In dit artikel: kosten, opbrengst, de beste opstellingen en waar je op moet letten.
+Mijn eigen panelen liggen op een schuin dak richting zuidwest, maar ik heb een buurman geholpen met de planning voor zijn plat dak. Het voordeel: je kiest zelf de optimale hoek (10-15 graden) en richting. Het nadeel: je hebt 30-50% meer dakruimte nodig en het montagesysteem kost €30-€80 extra per paneel. In dit artikel deel ik de berekeningen, de beste opstellingen en de valkuilen.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
@@ -121,7 +121,7 @@ De zonnepanelen vervangen de dakbedekking (bij nieuwbouw of dakrenovatie).
 
 **Kosten:** €100-€150 per paneel extra, maar bespaart op dakbedekking
 
-**Onze aanbeveling:** Ballastsysteem voor de meeste situaties. Veilig, beproefd en geen risico op lekkage.
+**Mijn aanbeveling:** Ballastsysteem voor de meeste situaties. Veilig, beproefd en geen risico op lekkage.
 
 ## Kosten Berekening
 

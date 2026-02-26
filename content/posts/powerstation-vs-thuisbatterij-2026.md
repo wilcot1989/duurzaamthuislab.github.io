@@ -6,6 +6,8 @@ categories: ["powerstations"]
 tags: ["powerstation", "thuisbatterij", "energieopslag", "vergelijking", "thuisaccu", "draagbaar powerstation"]
 keywords: ["powerstation of thuisbatterij", "verschil powerstation thuisbatterij", "thuisaccu vergelijken", "powerstation vs thuisbatterij", "energieopslag thuis"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/powerstations.svg"
 faq:
   - q: "Wat is het verschil tussen een powerstation en een thuisbatterij?"
@@ -24,9 +26,9 @@ faq:
     a: "Ja, dat is een slimme combinatie. Gebruik een thuisbatterij als vaste energieopslag voor je zonnepanelen thuis en een powerstation als draagbare back-up of voor onderweg. Veel huishoudens kiezen voor beide."
 ---
 
-Steeds meer Nederlanders willen hun eigen energie opslaan, maar de markt biedt twee fundamenteel verschillende oplossingen: het **draagbare powerstation** en de **vaste thuisbatterij**. Beide slaan energie op, maar de overeenkomsten houden daar grotendeels op. In dit artikel leggen we het verschil glashelder uit en helpen we je kiezen welke optie het best bij jouw situatie past.
+Ik heb ze allebei in huis: een Huawei Luna 2000 van 10 kWh als vaste thuisbatterij aan mijn zonnepanelen, en een draagbaar EcoFlow powerstation voor noodstroom en de camping. Twee totaal verschillende producten, maar ik krijg regelmatig de vraag welke je moet kiezen. In dit artikel leg ik het verschil uit op basis van mijn eigen ervaring met beide systemen.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 
@@ -176,7 +178,7 @@ Thuisbatterijen gaan langer mee:
 - **Geen installateur wilt inschakelen** -- gewoon kopen en gebruiken
 - **Tijdelijk** ergens stroom nodig hebt (marktkraam, evenement, bouwplaats)
 
-**Onze aanbeveling**: De [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) voor maximale veelzijdigheid, of de [EcoFlow River 2 Pro](/posts/beste-draagbare-powerstation-2026/) voor maximale draagbaarheid.
+**Mijn aanbeveling**: De [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) voor maximale veelzijdigheid, of de [EcoFlow River 2 Pro](/posts/beste-draagbare-powerstation-2026/) voor maximale draagbaarheid.
 
 {{ecoflow_link}}
 
@@ -192,7 +194,7 @@ Thuisbatterijen gaan langer mee:
 - **Automatische energieoptimalisatie** wilt zonder handmatig ingrijpen
 - **Op lange termijn** in je woning wilt investeren
 
-**Onze aanbeveling**: De [Huawei Luna 2000](/posts/huawei-luna-2000-review-2026/) als beste prijs-kwaliteitverhouding in Nederland.
+**Mijn aanbeveling**: De [Huawei Luna 2000](/posts/huawei-luna-2000-review-2026/) als beste prijs-kwaliteitverhouding in Nederland.
 
 {{huawei_link}}
 

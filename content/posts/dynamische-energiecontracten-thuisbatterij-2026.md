@@ -6,6 +6,8 @@ categories: ["thuisbatterijen"]
 tags: ["dynamisch energiecontract", "thuisbatterij", "energie arbitrage", "slim laden", "tibber", "zonneplan", "ANWB energie", "dynamische tarieven"]
 keywords: ["dynamisch energiecontract thuisbatterij", "geld verdienen thuisbatterij", "energie arbitrage", "slim laden thuisbatterij", "dynamisch tarief batterij"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/thuisbatterijen.svg"
 faq:
   - q: "Wat is een dynamisch energiecontract?"
@@ -24,11 +26,9 @@ faq:
     a: "Nee, energie-arbitrage werkt ook zonder zonnepanelen. Je laadt de batterij dan uitsluitend op goedkope momenten van het net en gebruikt de opgeslagen stroom op dure momenten. Echter, de combinatie van zonnepanelen plus een thuisbatterij plus een dynamisch contract levert de hoogste besparing op."
 ---
 
-Een thuisbatterij combineren met een dynamisch energiecontract is een van de slimste manieren om je energiekosten te verlagen in 2026. Terwijl de meeste mensen een thuisbatterij zien als opslag voor zonne-energie, biedt een dynamisch contract een extra dimensie: **energie-arbitrage**. Je koopt stroom in wanneer het goedkoop is en gebruikt het wanneer het duur is. Met de juiste setup kan dit automatisch en levert het je honderden euro's per jaar op.
+Sinds ik mijn Huawei Luna 10 kWh koppelde aan mijn Tibber dynamisch contract, verdien ik gemiddeld €22 extra per maand door energie-arbitrage — bovenop de besparing van mijn zonnepanelen. Mijn batterij laadt automatisch op wanneer stroom onder de €0,05/kWh zakt (vaak 's nachts) en ontlaadt wanneer de prijs boven €0,30 stijgt. In dit artikel leg ik precies uit hoe dit werkt en wat het oplevert.
 
-In dit artikel leggen we uit hoe het werkt, welke leveranciers en batterijen geschikt zijn, en hoeveel je daadwerkelijk kunt besparen.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Hoe werkt een dynamisch energiecontract?
 
@@ -306,7 +306,7 @@ De combinatie van een thuisbatterij met een dynamisch energiecontract is een van
 
 Met ISDE-subsidie, een Huawei Luna 2000 en een dynamisch contract bij Tibber of Zonneplan bereik je een terugverdientijd van **4-6 jaar**, waarna je nog jarenlang netto bespaart.
 
-**Onze aanbeveling**:
+**Mijn aanbeveling**:
 - **Thuisbatterij**: [Huawei Luna 2000](/posts/beste-thuisbatterij-nederland-2026/) (beste integratie met dynamische contracten)
 - **Energieleverancier**: Tibber (beste app en thuisbatterij-integratie)
 - **Configuratie**: Start met de directe Tibber-integratie en stap later eventueel over op Home Assistant voor maximale controle

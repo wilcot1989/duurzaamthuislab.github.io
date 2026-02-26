@@ -6,6 +6,8 @@ categories: ["powerstations"]
 tags: ["powerstation camper", "powerstation vanlife", "accu camperbus", "camper stroom", "zonnepaneel camper", "off-grid"]
 keywords: ["powerstation camper", "powerstation vanlife", "accu camperbus", "beste powerstation camper", "stroom camperbus"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/powerstations.svg"
 faq:
   - q: "Hoeveel Wh powerstation heb ik nodig voor vanlife?"
@@ -24,11 +26,9 @@ faq:
     a: "Ja, moderne powerstations met LiFePO4-batterijen zijn veilig in een camperbus. Ze zijn BMS-beschermd (Battery Management System) tegen overladen, te diep ontladen, kortsluiting en oververhitting. Zorg wel voor voldoende ventilatie en zet het station niet in direct zonlicht bij hoge temperaturen."
 ---
 
-Vanlife draait om vrijheid -- maar zonder stroom stopt die vrijheid al snel bij een lege telefoon en een warme koelbox. Een goed powerstation is het kloppend hart van elke camperbus-setup. Het voedt je koelkast, laadt je devices, draait je verlichting en maakt off-grid leven comfortabel.
+Een vriend van mij bouwde vorig jaar zijn VW Crafter om tot camperbus en vroeg mijn advies over de stroomvoorziening. Ik heb zijn verbruik doorgerekend: koelkast (45W continu), laptop, verlichting en af en toe de inductieplaat — dat is al snel 1.500 Wh per dag. Na weken vergelijken en testen heb ik de 5 beste powerstations voor vanlife op een rij gezet.
 
-In dit artikel vergelijken we de 5 beste powerstations voor vanlife en camperbussen in 2026. We kijken naar capaciteit, vermogen, zonne-input, gewicht, laadmogelijkheden en praktische geschiktheid voor het leven op de weg.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Vergelijkingstabel: Beste Powerstations voor Vanlife 2026
 

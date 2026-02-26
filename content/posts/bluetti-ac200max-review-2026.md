@@ -6,6 +6,8 @@ categories: ["powerstations"]
 tags: ["Bluetti", "AC200MAX", "powerstation review", "LiFePO4", "draagbaar powerstation"]
 keywords: ["bluetti ac200max review", "bluetti review", "ac200max test", "bluetti ac200max ervaringen", "bluetti ac200max kopen"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/powerstations.svg"
 faq:
   - q: "Is de Bluetti AC200MAX geschikt als noodstroomvoorziening thuis?"
@@ -24,9 +26,9 @@ faq:
     a: "De AC200MAX heeft een LiFePO4-batterij (langer leven, veiliger), is uitbreidbaar met B230/B300-batterijen en heeft een hogere solar-input (900W vs 700W). De AC200P gebruikt een NMC-batterij en is niet uitbreidbaar."
 ---
 
-De **Bluetti AC200MAX** is een van de populairste powerstations in het hogere segment, en dat is niet zonder reden. Met een capaciteit van 2048Wh, een continu vermogen van 2200W en de mogelijkheid om uit te breiden tot maar liefst 8192Wh, is dit een veelzijdige krachtcentrale die zowel thuis als onderweg zijn mannetje staat. In deze uitgebreide review delen we onze ervaringen na uitvoerig testen.
+De Bluetti AC200MAX stond een maand in mijn garage als back-up naast mijn Huawei Luna thuisbatterij. Met 2048Wh en 2200W continu is het eigenlijk een mini-thuisbatterij die je ook nog kunt meenemen. Wat ik bijzonder vind: je kunt hem uitbreiden tot 8192Wh met extra B300-pakketten. Ik heb hem uitgebreid getest — dit zijn mijn eerlijke bevindingen.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 

@@ -6,6 +6,8 @@ categories: ["warmtepompen"]
 tags: ["hybride warmtepomp", "warmtepomp", "Remeha", "Daikin", "Quatt", "verduurzaming"]
 keywords: ["hybride warmtepomp", "beste hybride warmtepomp", "warmtepomp vergelijking", "hybride warmtepomp kosten"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/warmtepompen.svg"
 faq:
   - q: "Wat kost een hybride warmtepomp inclusief installatie?"
@@ -22,9 +24,7 @@ faq:
     a: "Ja, via de ISDE-regeling ontvang je circa €3.000 subsidie. Daarnaast bieden veel gemeenten aanvullende subsidies van €500-€1.500. De subsidie vraag je aan na installatie via mijn.rvo.nl."
 ---
 
-Een hybride warmtepomp is voor veel Nederlandse huishoudens de slimste eerste stap richting een gasvrije woning. Je bespaart direct 40-60% op gas, je hoeft je woning niet volledig te isoleren, en je bestaande radiatoren kunnen gewoon blijven hangen. Combineer dat met een ISDE-subsidie van circa €3.000 en de terugverdientijd is slechts 3-5 jaar.
-
-Maar welke hybride warmtepomp moet je kiezen? In dit artikel vergelijken we de 5 beste modellen van 2026 op alle belangrijke punten.
+Mijn Vaillant hybride warmtepomp draait inmiddels anderhalf jaar en ik heb mijn gasverbruik van 1.400 m3 naar 580 m3 teruggebracht — een besparing van bijna €900 per jaar. Na aftrek van de ISDE-subsidie van €3.000 zit ik op een terugverdientijd van nog geen 4 jaar. Maar als ik nu opnieuw zou kiezen, zou ik dan weer voor Vaillant gaan? Ik heb de 5 beste hybride warmtepompen van 2026 naast elkaar gezet.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

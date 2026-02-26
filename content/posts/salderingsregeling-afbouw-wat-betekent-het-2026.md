@@ -6,6 +6,8 @@ categories: ["zonne-energie"]
 tags: ["salderingsregeling", "zonnepanelen", "teruglevering", "thuisbatterij", "energiebeleid"]
 keywords: ["salderingsregeling 2026", "salderingsregeling afbouw", "saldering zonnepanelen", "salderingsregeling afgeschaft", "terugleverkosten zonnepanelen"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/zonne-energie.svg"
 faq:
   - q: "Wat is de salderingsregeling precies?"
@@ -24,9 +26,7 @@ faq:
     a: "Zonnepanelen zijn nog steeds een goede investering, maar de urgentie om ze specifiek voor de salderingsregeling aan te schaffen is verminderd. Focus op een systeem dat past bij je eigen verbruik, eventueel met een thuisbatterij."
 ---
 
-De **salderingsregeling** is jarenlang een van de grootste financiele voordelen geweest voor zonnepanelen-bezitters in Nederland. Maar daar komt verandering in. De geplande afbouw van de salderingsregeling heeft grote gevolgen voor de terugverdientijd van je zonnepanelen en maakt andere oplossingen -- zoals thuisbatterijen -- steeds interessanter.
-
-In dit artikel leggen we helder uit wat de salderingsregeling is, hoe de afbouw eruitziet, wat het betekent voor jouw portemonnee, en welke stappen je kunt nemen om je voor te bereiden.
+Met mijn 16 panelen (5,6 kWp) lever ik jaarlijks zo'n 2.800 kWh terug aan het net. Dankzij de salderingsregeling krijg ik daar nu het volle tarief voor — maar vanaf 2027 verandert dat. Ik heb uitgerekend dat de afbouw mij zonder maatregelen €450 per jaar zou kosten. Daarom heb ik alvast een Huawei Luna thuisbatterij geplaatst. In dit artikel leg ik uit wat de afbouw precies inhoudt en hoe jij je kunt voorbereiden.
 
 *Dit artikel is informatief van aard en bevat geen financieel advies. De genoemde bedragen en percentages zijn gebaseerd op de meest recente informatie beschikbaar in maart 2026.*
 

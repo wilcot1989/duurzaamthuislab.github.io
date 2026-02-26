@@ -6,6 +6,8 @@ categories: ["thuisbatterijen"]
 tags: ["thuisbatterij", "huisbatterij", "Huawei Luna", "BYD", "Tesla Powerwall", "Enphase", "SolarEdge"]
 keywords: ["beste thuisbatterij", "thuisbatterij kopen", "thuisbatterij vergelijken nederland", "thuisbatterij 2026", "thuisbatterij salderingsregeling"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/thuisbatterijen.svg"
 faq:
   - q: "Wat kost een thuisbatterij in Nederland in 2026?"
@@ -24,11 +26,9 @@ faq:
     a: "De meeste thuisbatterijen hebben een levensduur van 10 tot 15 jaar, oftewel 6000 tot 10.000 laadcycli. Na die periode heeft de batterij nog steeds circa 60-70% van de oorspronkelijke capaciteit."
 ---
 
-De **thuisbatterij** is in 2026 relevanter dan ooit voor Nederlandse huishoudens. Met de geleidelijke afbouw van de salderingsregeling, stijgende energieprijzen en dalende batterijprijzen wordt het steeds aantrekkelijker om zelf opgewekte zonne-energie op te slaan. Maar welke thuisbatterij past het beste bij jouw situatie?
+Toen ik vorig jaar een thuisbatterij kocht, heb ik wekenlang zitten rekenen. Welk merk, welke capaciteit, en verdien ik het uberhaupt terug? Na maanden onderzoek en inmiddels een jaar ervaring met mijn eigen Huawei Luna 2000 van 10 kWh, deel ik hier welke 5 thuisbatterijen ik zou aanraden — en waarom.
 
-In dit uitgebreide overzicht vergelijken we de **5 beste thuisbatterijen** die beschikbaar zijn in Nederland, inclusief terugverdientijden, subsidie-informatie en praktische installatie-adviezen.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## Snelle vergelijkingstabel
 

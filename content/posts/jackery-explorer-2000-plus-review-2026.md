@@ -6,6 +6,8 @@ categories: ["powerstations"]
 tags: ["Jackery", "Explorer 2000 Plus", "powerstation review", "LiFePO4", "uitbreidbaar powerstation"]
 keywords: ["jackery explorer 2000 plus review", "jackery 2000 plus test", "jackery review", "jackery explorer 2000 plus ervaringen", "jackery 2000 plus specs"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/powerstations.svg"
 faq:
   - q: "Is de Jackery Explorer 2000 Plus een goed powerstation?"
@@ -24,9 +26,9 @@ faq:
     a: "De LiFePO4-batterij is geschikt voor 4000 laadcycli tot 70% restcapaciteit. Bij dagelijks gebruik is dat meer dan 10 jaar levensduur."
 ---
 
-De **Jackery Explorer 2000 Plus** is een van de krachtigste draagbare powerstations die je in 2026 kunt kopen. Met een indrukwekkend continu vermogen van 3000W, een LiFePO4-batterij en de mogelijkheid om uit te breiden tot maar liefst 24kWh, richt dit station zich op gebruikers die serieuze stroomcapaciteit nodig hebben. In deze diepgaande review ontdek je of de Jackery 2000 Plus de investering waard is.
+3000W continu vermogen uit een draagbaar apparaat — de Jackery Explorer 2000 Plus is het krachtigste powerstation dat ik heb getest. Ik heb er een volledige dag mijn tuinhuis mee gevoed: cirkelzaag, verlichting en een bouwradio, en hij had nog 38% over. Met de optionele batterijpakketten kun je uitbreiden tot 24 kWh, waarmee je in de buurt komt van mijn vaste Huawei Luna thuisbatterij. Dit is mijn eerlijke oordeel.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 

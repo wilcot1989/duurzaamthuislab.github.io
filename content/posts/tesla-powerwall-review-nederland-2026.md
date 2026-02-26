@@ -6,6 +6,8 @@ categories: ["thuisbatterijen"]
 tags: ["Tesla", "Powerwall", "thuisbatterij", "thuisaccu", "energieopslag", "Tesla Powerwall 3", "noodstroom"]
 keywords: ["tesla powerwall review", "tesla thuisbatterij nederland", "tesla powerwall 3 prijs", "tesla powerwall ervaringen", "tesla powerwall nederland 2026"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/thuisbatterijen.svg"
 faq:
   - q: "Wat kost een Tesla Powerwall 3 in Nederland inclusief installatie?"
@@ -24,11 +26,9 @@ faq:
     a: "Beide zijn uitstekende thuisbatterijen. De Powerwall biedt een ingebouwde omvormer, grotere capaciteit (13,5 kWh) en automatische noodstroom. De Huawei Luna 2000 is modulair, goedkoper per kWh en breder beschikbaar in Nederland. De beste keuze hangt af van je situatie en budget."
 ---
 
-De **Tesla Powerwall** is waarschijnlijk de bekendste thuisbatterij ter wereld. De naam Tesla alleen al roept beelden op van innovatie en geavanceerde technologie. Maar is de Powerwall 3 -- de nieuwste generatie -- daadwerkelijk de beste keuze voor Nederlandse huishoudens? Of betaal je vooral voor de merknaam?
+Ik heb zelf voor de Huawei Luna 2000 gekozen in plaats van de Tesla Powerwall, en mensen vragen me regelmatig waarom. Het antwoord: prijs per kWh. Maar de Powerwall 3 heeft wel degelijk sterke punten die mijn Luna mist — met name de ingebouwde omvormer en de automatische noodstroomfunctie. In deze review vergelijk ik de Tesla eerlijk met mijn eigen ervaring en de alternatieven op de Nederlandse markt.
 
-In deze uitgebreide review bekijken we de Tesla Powerwall 3 vanuit een Nederlands perspectief: specificaties, installatie, kosten, terugverdientijd, en hoe het zich verhoudt tot populaire alternatieven zoals de [Huawei Luna 2000](/posts/huawei-luna-2000-review-2026/) en de BYD Battery-Box HVS.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 

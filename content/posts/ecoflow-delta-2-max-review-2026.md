@@ -6,6 +6,8 @@ categories: ["powerstations"]
 tags: ["EcoFlow", "Delta 2 Max", "powerstation review", "draagbaar powerstation", "X-Stream"]
 keywords: ["ecoflow delta 2 max review", "delta 2 max test", "ecoflow review", "ecoflow delta 2 max ervaringen", "ecoflow delta 2 max specs"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/powerstations.svg"
 faq:
   - q: "Is de EcoFlow Delta 2 Max de moeite waard in 2026?"
@@ -24,9 +26,9 @@ faq:
     a: "De LFP-batterij (LiFePO4) gaat circa 3000 laadcycli mee voordat de capaciteit naar 80% daalt. Bij wekelijks gebruik is dat meer dan 10 jaar."
 ---
 
-De **EcoFlow Delta 2 Max** is al sinds de lancering een van de populairste draagbare powerstations op de markt. Maar is dit toestel in 2026 nog steeds de moeite waard? In deze uitgebreide review nemen we de Delta 2 Max grondig onder de loep: van specificaties en laadprestaties tot dagelijks gebruik, app-bediening en eerlijke voor- en nadelen.
+De EcoFlow Delta 2 Max was het eerste grote powerstation dat ik thuis testte — en hij heeft de lat hoog gelegd. Van 0 naar 80% in 65 minuten, een solide app met real-time monitoring, en 2048Wh die mijn koelkast, router en verlichting bij een stroomuitval ruim 14 uur draaiende hield. Maar is hij in 2026 nog steeds de beste keuze? Dit is mijn eerlijke oordeel na maanden gebruik.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 

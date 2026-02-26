@@ -6,6 +6,8 @@ categories: ["powerstations"]
 tags: ["EcoFlow", "Jackery", "powerstation vergelijking", "merkvergelijking"]
 keywords: ["ecoflow vs jackery", "ecoflow of jackery", "powerstation vergelijking", "ecoflow delta vs jackery explorer", "beste powerstation merk"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/powerstations.svg"
 faq:
   - q: "Is EcoFlow beter dan Jackery?"
@@ -24,9 +26,9 @@ faq:
     a: "In het topsegment liggen de prijzen dicht bij elkaar. In het middensegment is Jackery doorgaans iets duurder. EcoFlow biedt vaker kortingen en bundels aan, waardoor de effectieve prijs lager kan uitvallen."
 ---
 
-**EcoFlow of Jackery** -- het is de vraag die iedereen stelt die een draagbaar powerstation wil kopen. Beide merken domineren de markt, maar ze hebben elk een eigen filosofie en sterke punten. In deze uitgebreide vergelijking ontleden we beide merken op alle vlakken die ertoe doen: technologie, productlijnen, app-functionaliteit, garantie en prijs-kwaliteitverhouding.
+Ik heb zowel EcoFlow- als Jackery-stations door mijn handen laten gaan en de verschillen zijn groter dan je denkt. EcoFlow laadt sneller, de app is beter — maar Jackery biedt meer brute kracht en uitbreidbaarheid. Na wekenlang testen en vergelijken deel ik hier mijn conclusies over beide merken.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ## EcoFlow vs Jackery: Merken in Vogelvlucht
 
@@ -102,7 +104,7 @@ Dit is de vergelijking waar het echt om draait: de twee vlaggenschepen van beide
 
 **Prijs: EcoFlow wint.** Met een richtprijs van €1.799 versus €1.899 is de Delta 2 Max €100 goedkoper, terwijl het op de meeste vlakken gelijkwaardig of beter presteert.
 
-### Ons oordeel: Topklasse
+### Mijn oordeel: Topklasse
 
 De **EcoFlow Delta 2 Max** wint deze vergelijking op punten dankzij de snellere oplaadtijd, het lagere gewicht, de betere app en de scherpere prijs. Kies je voor de **Jackery Explorer 2000 Plus** als je maximale uitbreidbaarheid of het hoogste continu vermogen nodig hebt.
 

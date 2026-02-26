@@ -51,11 +51,19 @@
     {{ end }}
 
     <div class="author-box">
+      {{ if .Params.author }}
+      <div class="author-avatar">{{ index (split .Params.author " ") 0 | truncate 1 "" }}{{ index (split .Params.author " ") 1 | truncate 1 "" }}</div>
+      <div class="author-info">
+        <div class="author-name">{{ .Params.author }}</div>
+        <div class="author-bio">{{ with .Params.author_bio }}{{ . }}{{ else }}Energieadviseur en redacteur bij DuurzaamThuisLab.nl.{{ end }}</div>
+      </div>
+      {{ else }}
       <div class="author-avatar">DTL</div>
       <div class="author-info">
         <div class="author-name">Redactie DuurzaamThuisLab</div>
-        <div class="author-bio">Ons team test powerstations, thuisbatterijen en zonne-energieproducten in de praktijk. Elke aanbeveling is gebaseerd op eigen ervaring en onafhankelijk onderzoek.</div>
+        <div class="author-bio">Ons team test powerstations, thuisbatterijen en zonne-energieproducten in de praktijk.</div>
       </div>
+      {{ end }}
     </div>
 
     {{ $allOther := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink }}

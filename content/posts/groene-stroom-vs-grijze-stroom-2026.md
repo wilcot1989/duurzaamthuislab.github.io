@@ -6,6 +6,8 @@ categories: ["energie"]
 tags: ["groene stroom", "grijze stroom", "energiecontract", "duurzame energie", "certificaten"]
 keywords: ["groene stroom vs grijze stroom", "verschil groene grijze stroom", "is groene stroom duurder", "groene stroom contract"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/energie.svg"
 faq:
   - q: "Wat is het verschil tussen groene en grijze stroom?"
@@ -22,9 +24,7 @@ faq:
     a: "GvO's zijn certificaten die bewijzen dat er per MWh hernieuwbare stroom is opgewekt. Leveranciers kopen GvO's om hun stroom 'groen' te labelen. Probleem: GvO's uit Noorwegen (waterkracht) kosten slechts €0,20-€1,00/MWh — zo goedkoop dat het geen prikkel geeft voor nieuwe opwek. Nederlandse GvO's (wind/zon) zijn duurder en stimuleren wel nieuwe projecten."
 ---
 
-Bijna elke energieleverancier biedt tegenwoordig "groene stroom" aan. Maar wat betekent dat eigenlijk? Komt er echt schone stroom uit je stopcontact? En is het duurder?
-
-De waarheid is genuanceerder dan de marketing doet voorkomen. In dit artikel leggen we het verschil uit en helpen we je een bewuste keuze maken.
+Met 16 zonnepanelen op mijn dak wek ik zelf zo'n 5.200 kWh per jaar op — dat is echt groene stroom. Maar de stroom die ik 's winters van het net aftrek, hoe groen is die eigenlijk? Ik dook in de wereld van GvO-certificaten en ontdekte dat veel "groene" contracten in de praktijk nauwelijks iets bijdragen. In dit artikel leg ik het verschil uit en help ik je een echte keuze maken.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
@@ -105,7 +105,7 @@ Het verschil is verwaarloosbaar: €0-€50 per jaar. Soms is groene stroom zelf
 | **4. Groene leverancier (NL opwek)** | 100-300 kg | €0-€50/jaar |
 | **5. Groene leverancier (buitenlandse GvO)** | 0-50 kg | €0-€30/jaar |
 
-### Onze aanbeveling
+### Mijn aanbeveling
 
 1. **Investeer eerst in eigen opwek** — Zonnepanelen leveren het meeste op
 2. **Kies een dynamisch contract** — Verschuif verbruik naar goedkope/groene momenten

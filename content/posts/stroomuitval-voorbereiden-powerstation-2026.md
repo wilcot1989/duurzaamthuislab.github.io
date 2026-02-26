@@ -6,6 +6,8 @@ categories: ["powerstations"]
 tags: ["stroomuitval", "noodstroom", "powerstation", "UPS", "noodvoorbereiding", "stroomstoring", "EcoFlow", "Jackery", "Anker", "Bluetti"]
 keywords: ["stroomuitval voorbereiden", "noodstroom thuis", "powerstation stroomuitval", "powerstation noodstroom", "stroomuitval nederland", "welk powerstation noodstroom"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/powerstations.svg"
 faq:
   - q: "Hoe vaak komt stroomuitval voor in Nederland?"
@@ -24,11 +26,9 @@ faq:
     a: "Ja, dat is een van de grote voordelen van een powerstation. Met een opvouwbaar zonnepaneel (100-400W) kun je het station overdag opladen, waardoor je in theorie onbeperkt stroom hebt zolang de zon schijnt. Dit maakt je volledig onafhankelijk van het net."
 ---
 
-Stroomuitval in Nederland -- het klinkt als iets dat zelden voorkomt. En hoewel ons elektriciteitsnet tot de betrouwbaarste ter wereld behoort, worden langdurige stroomstoringen steeds minder zeldzaam. Extreme weersomstandigheden, toenemende netbelasting door warmtepompen en elektrische auto's, en verouderende infrastructuur zorgen ervoor dat voorbereid zijn op een stroomuitval geen overbodige luxe meer is.
+Vorig jaar had ik een stroomstoring van 4 uur. Mijn Huawei Luna thuisbatterij nam het naadloos over, maar mijn buurman zat in het donker met een lege telefoon en een ontdooiende vriezer. Dat hoeft niet — een powerstation van €500-€900 had hem gered. Ik heb berekend hoeveel Wh je nodig hebt voor de basisapparaten (router, koelkast, verlichting, telefoon = circa 250W continu) en welk powerstation bij welk budget past.
 
-Een **draagbaar powerstation** is een van de slimste manieren om je huishouden te beschermen tegen stroomuitval. Geen lawaai, geen benzine, geen uitlaatgassen -- gewoon betrouwbare stroom uit een compacte box. Maar welk powerstation heb je nodig? En hoeveel capaciteit is voldoende? In deze praktische gids berekenen we precies wat je nodig hebt en geven we concrete aanbevelingen voor elk budget.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 

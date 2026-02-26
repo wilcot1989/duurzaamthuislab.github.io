@@ -6,6 +6,8 @@ categories: ["isolatie"]
 tags: ["energielabel", "isolatie", "verduurzaming", "woningverbetering", "subsidie"]
 keywords: ["energielabel verbeteren", "energielabel huis", "van G naar A", "energielabel kosten", "energielabel subsidie"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/isolatie.svg"
 faq:
   - q: "Wat kost het om je energielabel te verbeteren?"
@@ -22,9 +24,7 @@ faq:
     a: "De belangrijkste subsidies zijn: ISDE (€1.500-€5.500 voor isolatie + warmtepomp), SEEH (voor VvE's en verhuurders), gemeentelijke subsidies (€500-€3.000), en het Nationaal Warmtefonds (lening tegen 0% rente). Totaal kun je 30-50% van de kosten terugkrijgen."
 ---
 
-Je energielabel bepaalt niet alleen hoe energiezuinig je woning is, maar ook je energierekening, woningwaarde en comfort. Een woning met label G betaalt gemiddeld €2.000-€3.000 per jaar meer aan energie dan een woning met label A. En bij verkoop levert een beter label 2-5% meer waarde op per labelstap.
-
-Het goede nieuws: met de juiste aanpak en beschikbare subsidies is het verbeteren van je energielabel betaalbaarder dan je denkt. In dit stappenplan laten we zien hoe je van elk startlabel naar A kunt komen.
+Mijn woning had label C toen ik begon met verduurzamen. Na vloerisolatie, 16 zonnepanelen, een Vaillant hybride warmtepomp en een Huawei Luna thuisbatterij zit ik op label A — en mijn energierekening is van €2.400 naar €680 per jaar gedaald. In dit stappenplan laat ik zien welke maatregelen ik in welke volgorde heb genomen, wat het kostte, en welke subsidies ik heb ontvangen.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 

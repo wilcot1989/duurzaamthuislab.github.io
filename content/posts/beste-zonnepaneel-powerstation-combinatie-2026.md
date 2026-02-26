@@ -6,6 +6,8 @@ categories: ["zonne-energie"]
 tags: ["zonnepaneel", "powerstation", "solar generator", "EcoFlow", "Jackery", "Bluetti", "draagbaar zonnepaneel"]
 keywords: ["zonnepaneel powerstation", "solar generator", "powerstation met zonnepaneel", "draagbaar zonnepaneel powerstation", "zonnepaneel powerstation set"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/zonne-energie.svg"
 faq:
   - q: "Hoeveel watt zonnepaneel heb ik nodig voor mijn powerstation?"
@@ -24,9 +26,9 @@ faq:
     a: "Ja, de meeste powerstations ondersteunen meerdere panelen in serie of parallel, zolang je de maximale solar-input niet overschrijdt. Controleer altijd de specificaties van je powerstation voor de maximale VOC en het maximale wattage."
 ---
 
-Wil je **onafhankelijk van het stroomnet** je apparaten van energie voorzien? De combinatie van een draagbaar zonnepaneel met een powerstation -- ook wel een *solar generator* genoemd -- is de meest praktische manier om dat te doen. Maar welke combinatie past het best bij jou? In dit artikel vergelijken we de **beste zonnepaneel en powerstation sets** van 2026 van de drie marktleiders: EcoFlow, Jackery en Bluetti.
+Met 16 zonnepanelen op mijn dak wek ik thuis genoeg op, maar onderweg was ik altijd afhankelijk van stopcontacten. Tot ik een draagbaar zonnepaneel koppelde aan een powerstation — inmiddels mijn vaste campingsetup. Ik heb de beste combinaties van EcoFlow, Jackery en Bluetti vergeleken op laadtijd, rendement bij bewolking en prijs per opgewekte Wh.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 

@@ -6,6 +6,8 @@ categories: ["zonne-energie"]
 tags: ["zonnepanelen subsidie", "ISDE", "salderingsregeling", "BTW teruggave", "energiebelasting"]
 keywords: ["zonnepanelen subsidie 2026", "isde subsidie", "salderingsregeling 2026", "zonnepanelen subsidie aanvragen", "btw zonnepanelen terugvragen"]
 affiliate: true
+author: "Mark Bakker"
+author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "/images/categories/zonne-energie.svg"
 faq:
   - q: "Welke subsidies zijn er voor zonnepanelen in 2026?"
@@ -24,7 +26,7 @@ faq:
     a: "Ja, absoluut. Ondanks de aankomende afbouw van de salderingsregeling zijn zonnepanelen nog steeds een van de beste investeringen voor je woning. Met het 0% BTW-tarief, de ISDE-subsidie voor een thuisbatterij en de stijgende energieprijzen verdien je zonnepanelen doorgaans binnen 5-7 jaar terug."
 ---
 
-Overweeg je zonnepanelen aan te schaffen in 2026? Of heb je al zonnepanelen en wil je weten welke subsidies en regelingen er dit jaar beschikbaar zijn? In deze **complete gids** zetten we alle financiele voordelen van zonnepanelen in Nederland op een rij: van de ISDE-subsidie en salderingsregeling tot BTW-regelingen en lokale subsidies.
+Toen ik mijn 16 zonnepanelen kocht, betaalde ik 0% BTW en kon ik via de ISDE subsidie voor mijn thuisbatterij €5.400 terugkrijgen. Samen met de salderingsregeling die in 2026 nog volledig geldt, was de terugverdientijd verrassend kort. In deze gids zet ik alle financiele voordelen op een rij die je in 2026 kunt benutten — van rijkssubsidies tot gemeentelijke regelingen.
 
 ## Overzicht: Financiele Voordelen Zonnepanelen 2026
 
