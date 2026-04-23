@@ -99,6 +99,21 @@
       {{ end }}
     </div>
 
+    {{/* Email capture: energie-tips */}}
+    <div style="background:#f0f7f0;border:2px solid #2d5a2d;border-radius:10px;padding:1.5rem;margin:2rem 0;">
+      <h3 style="margin-top:0;color:#2d5a2d;">📬 Gratis: Bespaar €500+ op je energierekening</h3>
+      <p style="margin:0.5rem 0 1rem;">Maandelijks praktische tips over zonnepanelen, thuisbatterijen en dynamische contracten — inclusief kortingscodes en subsidies. Geen spam.</p>
+      <form action="https://formsubmit.co/wt@port-it.nl" method="POST" style="display:flex;flex-wrap:wrap;gap:0.5rem;">
+        <input type="hidden" name="_subject" value="DTL Nieuwsbrief Aanmelding">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_next" value="https://duurzaamthuislab.nl/bedankt/">
+        <input type="hidden" name="_template" value="table">
+        <input type="hidden" name="source_page" value="{{ .RelPermalink }}">
+        <input type="email" name="email" placeholder="jouw@email.nl" required style="flex:1;min-width:200px;padding:0.7rem;border:1px solid #ccc;border-radius:5px;">
+        <button type="submit" style="background:#2d5a2d;color:#fff;padding:0.7rem 1.2rem;border:0;border-radius:5px;font-weight:600;cursor:pointer;">Aanmelden</button>
+      </form>
+    </div>
+
     {{ $allOther := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink }}
     {{ $related := where $allOther ".Params.categories" "intersect" .Params.categories }}
     {{ if not $related }}{{ $related = $allOther }}{{ end }}
