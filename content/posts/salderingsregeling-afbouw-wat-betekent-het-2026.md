@@ -1,6 +1,7 @@
 ---
 title: "Afbouw Salderingsregeling 2026: Wat Betekent Het voor Jou?"
 date: 2026-03-04T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Alles over de afbouw van de salderingsregeling vanaf 2027. Bekijk de impact op je zonnepanelen en ontdek waarom een thuisbatterij nu slim is."
 categories: ["zonne-energie"]
 tags: ["salderingsregeling", "zonnepanelen", "teruglevering", "thuisbatterij", "energiebeleid"]

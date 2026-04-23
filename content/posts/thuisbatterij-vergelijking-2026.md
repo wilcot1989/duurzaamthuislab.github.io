@@ -1,6 +1,7 @@
 ---
 title: "Thuisbatterij Vergelijking 2026: Top 5 Modellen Getest"
 date: 2026-05-07T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "De 5 beste thuisbatterijen van 2026 vergeleken op capaciteit, prijs, levensduur en rendement. Tesla Powerwall, BYD, Huawei, SolarEdge en Enphase."
 categories: ["thuisbatterij"]
 tags: ["thuisbatterij", "Tesla Powerwall", "BYD", "energieopslag", "zonnepanelen"]

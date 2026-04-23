@@ -1,6 +1,7 @@
 ---
 title: "Powerstation vs Thuisbatterij: Wat is het Verschil en Wat Past bij Jou?"
 date: 2026-03-14T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Powerstation of thuisbatterij? Ontdek de verschillen in capaciteit, kosten, installatie en gebruik. Met helder keuzekader voor jouw situatie."
 categories: ["powerstations"]
 tags: ["powerstation", "thuisbatterij", "energieopslag", "vergelijking", "thuisaccu", "draagbaar powerstation"]

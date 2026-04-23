@@ -1,6 +1,7 @@
 ---
 title: "Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken"
 date: 2026-03-19T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "De 5 beste omvormers voor zonnepanelen in 2026 vergeleken. String-omvormers vs micro-omvormers, rendement, monitoring en prijs-kwaliteitverhouding."
 categories: ["zonne-energie"]
 tags: ["omvormer", "zonnepanelen", "SolarEdge", "Enphase", "Huawei", "Fronius", "SMA", "micro-omvormer", "string-omvormer"]

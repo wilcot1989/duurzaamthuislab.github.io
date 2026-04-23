@@ -1,6 +1,7 @@
 ---
 title: "Zonnepanelen Subsidie Nederland 2026: Complete Gids"
 date: 2026-02-24T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Alles over zonnepanelen subsidies in 2026: ISDE-subsidie, salderingsregeling, BTW-teruggave en lokale regelingen. Inclusief stap-voor-stap aanvraagproces."
 categories: ["zonne-energie"]
 tags: ["zonnepanelen subsidie", "ISDE", "salderingsregeling", "BTW teruggave", "energiebelasting"]

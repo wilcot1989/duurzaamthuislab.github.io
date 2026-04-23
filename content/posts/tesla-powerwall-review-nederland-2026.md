@@ -1,6 +1,7 @@
 ---
 title: "Tesla Powerwall Review 2026: Waard voor Nederlandse Huizen?"
 date: 2026-03-21T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Uitgebreide Tesla Powerwall 3 review voor Nederland. Specs, installatie, prijzen, terugverdientijd en vergelijking met Huawei Luna 2000 en BYD HVS."
 categories: ["thuisbatterijen"]
 tags: ["Tesla", "Powerwall", "thuisbatterij", "thuisaccu", "energieopslag", "Tesla Powerwall 3", "noodstroom"]

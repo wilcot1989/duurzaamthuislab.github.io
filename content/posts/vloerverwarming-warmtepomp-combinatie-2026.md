@@ -1,6 +1,7 @@
 ---
 title: "Vloerverwarming en Warmtepomp: De Perfecte Combinatie (2026)"
 date: 2026-05-12T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Waarom vloerverwarming en een warmtepomp de ideale combinatie zijn. Kosten, besparing, installatietips en wanneer het wel en niet rendabel is."
 categories: ["warmtepompen"]
 tags: ["vloerverwarming", "warmtepomp", "lage temperatuur", "energiebesparing", "verduurzaming"]

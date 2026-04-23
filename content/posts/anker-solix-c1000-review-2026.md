@@ -1,6 +1,7 @@
 ---
 title: "Anker SOLIX C1000 Review 2026: Compact Krachtpatser"
 date: 2026-03-17T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Uitgebreide Anker SOLIX C1000 review. Bekijk specs, LiFePO4 batterij, laadtijden, app-bediening en vergelijking met EcoFlow Delta 2, Jackery 1000 Plus en Bluetti AC70."
 categories: ["powerstations"]
 tags: ["Anker", "SOLIX C1000", "powerstation review", "draagbaar powerstation", "LiFePO4", "compact powerstation"]

@@ -1,6 +1,7 @@
 ---
 title: "EcoFlow River 2 Pro Review 2026: Beste Budget Powerstation?"
 date: 2026-03-26T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Uitgebreide review van de EcoFlow River 2 Pro in 2026. Capaciteit, prestaties, laadsnelheid en onze eerlijke ervaringen met dit budget powerstation."
 categories: ["powerstations"]
 tags: ["ecoflow river 2 pro", "ecoflow", "powerstation review", "budget powerstation", "draagbaar powerstation", "camping powerstation"]

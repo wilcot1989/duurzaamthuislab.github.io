@@ -1,6 +1,7 @@
 ---
 title: "Voorbereid op Stroomuitval 2026: Welke Powerstation Heb je Nodig?"
 date: 2026-03-24T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Praktische gids voor noodstroom thuis met een powerstation. Bereken hoeveel Wh je nodig hebt, welke apparaten je kunt draaien en welk powerstation het beste past bij jouw budget."
 categories: ["powerstations"]
 tags: ["stroomuitval", "noodstroom", "powerstation", "UPS", "noodvoorbereiding", "stroomstoring", "EcoFlow", "Jackery", "Anker", "Bluetti"]

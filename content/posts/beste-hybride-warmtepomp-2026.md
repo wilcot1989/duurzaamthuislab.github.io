@@ -1,6 +1,7 @@
 ---
 title: "Beste Hybride Warmtepomp 2026: Top 5 Vergeleken"
 date: 2026-04-10T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "De 5 beste hybride warmtepompen van 2026 vergeleken op prijs, COP-waarde, geluid en subsidie. Remeha, Daikin, Quatt, Bosch en Vaillant naast elkaar."
 categories: ["warmtepompen"]
 tags: ["hybride warmtepomp", "warmtepomp", "Remeha", "Daikin", "Quatt", "verduurzaming"]

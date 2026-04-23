@@ -1,6 +1,7 @@
 ---
 title: "Beste Energiemonitor 2026: P1 Meter Vergelijking"
 date: 2026-06-07T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "De beste energiemonitoren en P1-meters van 2026 vergeleken. HomeWizard, Tibber Pulse, Iungo en Youless. Real-time inzicht in je stroom- en gasverbruik."
 categories: ["energie"]
 tags: ["energiemonitor", "P1 meter", "HomeWizard", "slimme meter", "energieverbruik"]

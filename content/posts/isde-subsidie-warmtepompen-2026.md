@@ -1,6 +1,7 @@
 ---
 title: "ISDE Subsidie 2026: Complete Gids voor Warmtepompen & Isolatie"
 date: 2026-04-06T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Alles over de ISDE subsidie in 2026: bedragen voor warmtepompen en isolatie, hoe aanvragen, voorwaarden en combinatie met andere subsidies."
 categories: ["warmtepompen"]
 tags: ["ISDE", "subsidie", "warmtepomp", "isolatie", "verduurzaming"]

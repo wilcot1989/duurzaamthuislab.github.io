@@ -1,6 +1,7 @@
 ---
 title: "Smart Home Energiebeheer 2026: Bespaar met Slimme Technologie"
 date: 2026-05-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Bespaar tot 30% op je energierekening met smart home technologie. Slimme thermostaten, energiemonitoring, automatisering en de beste systemen vergeleken."
 categories: ["energie"]
 tags: ["smart home", "energiebeheer", "slimme thermostaat", "Home Assistant", "domotica"]

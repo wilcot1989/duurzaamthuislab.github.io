@@ -1,6 +1,7 @@
 ---
 title: "Beste Thuisbatterij 2026: Top 5 voor Nederlandse Huishoudens"
 date: 2026-02-24T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "De 5 beste thuisbatterijen voor Nederland vergeleken. Inclusief terugverdientijd, subsidies, compatibiliteit en advies over de salderingsregeling."
 categories: ["thuisbatterijen"]
 tags: ["thuisbatterij", "huisbatterij", "Huawei Luna", "BYD", "Tesla Powerwall", "Enphase", "SolarEdge"]

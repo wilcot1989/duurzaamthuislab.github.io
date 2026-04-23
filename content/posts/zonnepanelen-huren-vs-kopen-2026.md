@@ -1,6 +1,7 @@
 ---
 title: "Zonnepanelen Huren vs Kopen 2026: Wat is Voordeliger?"
 date: 2026-05-17T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Zonnepanelen huren of kopen? Vergelijking van kosten, opbrengst, flexibiliteit en rendement. Ontdek welke optie het beste bij jouw situatie past."
 categories: ["zonnepanelen"]
 tags: ["zonnepanelen huren", "zonnepanelen kopen", "lease", "Solarwatt", "zonne-energie"]

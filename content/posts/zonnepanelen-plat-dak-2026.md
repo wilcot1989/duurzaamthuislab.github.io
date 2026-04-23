@@ -1,6 +1,7 @@
 ---
 title: "Zonnepanelen op Plat Dak 2026: Opbrengst, Kosten en Plaatsing"
 date: 2026-06-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Alles over zonnepanelen op een plat dak in 2026. Opbrengst, kosten, ballast vs doorgedrukt systeem, optimale hoek en de beste systemen vergeleken."
 categories: ["zonnepanelen"]
 tags: ["zonnepanelen plat dak", "ballast systeem", "opbrengst zonnepanelen", "plat dak montage"]

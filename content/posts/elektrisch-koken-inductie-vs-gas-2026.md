@@ -1,6 +1,7 @@
 ---
 title: "Elektrisch Koken 2026: Inductie vs Gas — Kosten, Besparing en Overstappen"
 date: 2026-06-27T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Inductie koken vs gas vergeleken in 2026. Kosten overstappen, energieverbruik, kookervaring en besparing. Alles over van gas naar inductie in je keuken."
 categories: ["energie"]
 tags: ["inductie koken", "gasloos koken", "inductiekookplaat", "van gas af", "elektrisch koken"]

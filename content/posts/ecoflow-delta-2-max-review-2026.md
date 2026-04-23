@@ -1,6 +1,7 @@
 ---
 title: "EcoFlow Delta 2 Max Review 2026: De Ultieme Powerstation?"
 date: 2026-03-01T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Uitgebreide EcoFlow Delta 2 Max review. Bekijk specs, prestaties, voor- en nadelen en ontdek of dit het beste powerstation van 2026 is."
 categories: ["powerstations"]
 tags: ["EcoFlow", "Delta 2 Max", "powerstation review", "draagbaar powerstation", "X-Stream"]

@@ -1,6 +1,7 @@
 ---
 title: "Groene Stroom vs Grijze Stroom 2026: Verschil, Kosten en Wat Slimmer Is"
 date: 2026-06-17T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Het verschil tussen groene en grijze stroom uitgelegd. Kosten vergeleken, is groene stroom echt duurzamer, en welk energiecontract past bij jou in 2026?"
 categories: ["energie"]
 tags: ["groene stroom", "grijze stroom", "energiecontract", "duurzame energie", "certificaten"]

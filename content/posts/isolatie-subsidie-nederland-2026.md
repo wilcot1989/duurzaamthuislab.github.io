@@ -1,6 +1,7 @@
 ---
 title: "Isolatie Subsidie Nederland 2026: Alle Regelingen en Bedragen"
 date: 2026-05-27T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Compleet overzicht van alle isolatiesubsidies in 2026. ISDE, gemeentelijke subsidies, energiebespaarlening en subsidie per isolatiemaatregel. Bespaar duizenden euro's."
 categories: ["isolatie"]
 tags: ["isolatie subsidie", "ISDE", "spouwmuurisolatie", "dakisolatie", "vloerisolatie"]

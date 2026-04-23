@@ -1,6 +1,7 @@
 ---
 title: "Dynamische Energiecontracten + Thuisbatterij: Zo Verdien je Geld 2026"
 date: 2026-04-02T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Ontdek hoe je met een dynamisch energiecontract en thuisbatterij geld verdient in 2026. Slim laden, ontladen en energie-arbitrage uitgelegd met rekenvoorbeelden."
 categories: ["thuisbatterijen"]
 tags: ["dynamisch energiecontract", "thuisbatterij", "energie arbitrage", "slim laden", "tibber", "zonneplan", "ANWB energie", "dynamische tarieven"]

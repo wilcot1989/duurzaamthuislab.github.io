@@ -1,6 +1,7 @@
 ---
 title: "Beste Zonnepanelen 2026: Top 5 Merken Vergeleken"
 date: 2026-04-26T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "De 5 beste zonnepanelen van 2026 vergeleken op rendement, prijs, garantie en duurzaamheid. SunPower, REC, Longi, JA Solar en Trina Solar."
 categories: ["zonnepanelen"]
 tags: ["zonnepanelen", "SunPower", "REC", "Longi", "zonne-energie"]

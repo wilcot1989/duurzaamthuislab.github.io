@@ -1,6 +1,7 @@
 ---
 title: "Laadpaal Thuis Plaatsen 2026: Kosten, Subsidie en Beste Merken"
 date: 2026-06-02T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Alles over een laadpaal thuis plaatsen in 2026. Kosten €800-€2.500, subsidie tot €600, beste merken vergeleken en slim laden met dynamische tarieven."
 categories: ["energie"]
 tags: ["laadpaal", "elektrische auto", "thuisladen", "slim laden", "EV"]

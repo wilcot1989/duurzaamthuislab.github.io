@@ -1,6 +1,7 @@
 ---
 title: "Energielabel Verbeteren: Stappenplan van G naar A (2026)"
 date: 2026-04-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Compleet stappenplan om je energielabel te verbeteren. Van G naar A met de juiste maatregelen, kosten, subsidies en terugverdientijden in 2026."
 categories: ["isolatie"]
 tags: ["energielabel", "isolatie", "verduurzaming", "woningverbetering", "subsidie"]

@@ -1,6 +1,7 @@
 ---
 title: "Thuisbatterij Terugverdientijd Berekenen: Complete Gids 2026"
 date: 2026-03-28T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Leer hoe je de terugverdientijd van een thuisbatterij berekent. Inclusief rekenvoorbeelden, invloed van salderingsregeling, subsidies en dynamische tarieven."
 categories: ["thuisbatterijen"]
 tags: ["thuisbatterij terugverdientijd", "thuisbatterij rendabel", "thuisbatterij berekenen", "salderingsregeling", "ISDE subsidie", "zonnepanelen opslag"]

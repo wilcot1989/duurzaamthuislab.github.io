@@ -1,6 +1,7 @@
 ---
 title: "Warmtepomp vs CV-ketel 2026: Wat is Voordeliger?"
 date: 2026-05-01T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Warmtepomp vs CV-ketel vergeleken op kosten, besparing, comfort en duurzaamheid. Ontdek wanneer een warmtepomp rendabel is en wanneer een CV-ketel de betere keuze is."
 categories: ["warmtepompen"]
 tags: ["warmtepomp", "CV-ketel", "verwarming", "gasloos", "verduurzaming"]

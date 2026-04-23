@@ -1,6 +1,7 @@
 ---
 title: "Bluetti AC200MAX Review 2026: Veelzijdig en Uitbreidbaar"
 date: 2026-03-08T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Uitgebreide Bluetti AC200MAX review: 2048Wh, 2200W, LiFePO4 en uitbreidbaar met B230/B300. Lees onze ervaringen, specs en testresultaten."
 categories: ["powerstations"]
 tags: ["Bluetti", "AC200MAX", "powerstation review", "LiFePO4", "draagbaar powerstation"]

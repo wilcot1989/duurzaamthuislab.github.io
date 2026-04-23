@@ -1,6 +1,7 @@
 ---
 title: "Beste Zonnepaneel + Powerstation Combinatie 2026"
 date: 2026-03-10T12:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "De beste zonnepaneel en powerstation combinaties van 2026 vergeleken. EcoFlow, Jackery en Bluetti bundels op vermogen, laadtijd en prijs."
 categories: ["zonne-energie"]
 tags: ["zonnepaneel", "powerstation", "solar generator", "EcoFlow", "Jackery", "Bluetti", "draagbaar zonnepaneel"]

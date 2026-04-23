@@ -1,6 +1,7 @@
 ---
 title: "SolarEdge vs Enphase 2026: Welke Omvormer is Beter?"
 date: 2026-04-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "SolarEdge vs Enphase vergeleken: technologie, prijs, monitoring en betrouwbaarheid. Ontdek welke omvormer het beste past bij jouw zonnepanelen-installatie."
 categories: ["zonnepanelen"]
 tags: ["SolarEdge", "Enphase", "omvormer", "micro-omvormer", "zonnepanelen"]
