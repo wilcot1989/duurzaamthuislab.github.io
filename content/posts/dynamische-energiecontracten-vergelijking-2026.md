@@ -22,6 +22,19 @@ faq:
     a: "Ja, een slimme meter is verplicht voor een dynamisch energiecontract. Netbeheerders zoals Liander, Stedin en Enexis plaatsen slimme meters gratis. Als je nog een oude meter hebt, kun je via je netbeheerder een slimme meter aanvragen."
   - q: "Kan ik met een dynamisch contract en thuisbatterij geld verdienen?"
     a: "In theorie ja. Door stroom te kopen wanneer de prijs laag of negatief is en te gebruiken (of terug te leveren) wanneer de prijs hoog is, kun je het prijsverschil benutten. In de praktijk levert dit met een thuisbatterij €100-€300 extra per jaar op, afhankelijk van de batterijcapaciteit en de prijsschommelingen."
+products:
+  - name: "Tibber"
+    url: "https://tibber.com/nl"
+    price: "6"
+  - name: "Frank Energie"
+    url: "https://www.frankenergie.nl/"
+    price: "5"
+  - name: "ANWB Energie"
+    url: "https://www.anwb.nl/huis/energie"
+    price: "6"
+  - name: "Zonneplan ONE"
+    url: "https://zonneplan.nl/energie"
+    price: "6"
 ---
 
 Ik ben zelf Tibber-klant en betaal inmiddels gemiddeld €0,19/kWh — inclusief de uren dat ik bewust mijn wasmachine en Huawei Luna thuisbatterij laat draaien op goedkope nachtstroom. Maar is Tibber echt de beste keuze, of laat ik geld liggen bij Frank Energie of ANWB Energie? Ik heb de tarieven, apps en functies van de belangrijkste dynamische leveranciers naast elkaar gelegd.

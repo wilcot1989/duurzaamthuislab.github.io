@@ -22,6 +22,16 @@ faq:
     a: "Sommige thuisbatterijen bieden backup-functionaliteit (Tesla Powerwall, Enphase IQ Battery). Bij stroomuitval schakelt de batterij automatisch over en voedt je huis tot de batterij leeg is. Niet alle batterijen ondersteunen dit — check of backup een vereiste is bij je keuze."
   - q: "Hoeveel kWh thuisbatterij heb ik nodig?"
     a: "Voor een gemiddeld huishouden is 5-10 kWh voldoende om het avond- en nachtverbruik te dekken. Met een warmtepomp of EV heb je 10-15 kWh nodig. Bereken je dagelijkse avond/nacht verbruik: dat is de ideale batterijcapaciteit."
+products:
+  - name: "Huawei Luna 2000"
+    url: "https://solar.huawei.com/eu/residential/luna"
+    price: "6000"
+  - name: "Tesla Powerwall 3"
+    url: "https://www.tesla.com/nl_nl/powerwall"
+    price: "9500"
+  - name: "EcoFlow PowerOcean"
+    url: "https://nl.ecoflow.com/products/power-ocean"
+    price: "7500"
 ---
 
 Na een jaar met mijn Huawei Luna 2000 weet ik precies waar je op moet letten bij een thuisbatterij: round-trip efficientie, prijs per kWh, en of het systeem overweg kan met dynamische tarieven. Ik heb de 5 populairste modellen op de Nederlandse markt vergeleken op basis van echte data, installateursfeedback en mijn eigen rekenmodellen.

@@ -24,6 +24,16 @@ faq:
     a: "Een instapset (500-800Wh station + 100-200W paneel) kost €700-1.100. Een middenklasse set (1000-1500Wh + 200-400W) kost €1.200-2.000. Een premium set (2000Wh+ met 350-400W) kost €2.100-2.800."
   - q: "Kan ik meerdere zonnepanelen op een powerstation aansluiten?"
     a: "Ja, de meeste powerstations ondersteunen meerdere panelen in serie of parallel, zolang je de maximale solar-input niet overschrijdt. Controleer altijd de specificaties van je powerstation voor de maximale VOC en het maximale wattage."
+products:
+  - name: "EcoFlow 400W Solar Panel"
+    url: "https://nl.ecoflow.com/products/400w-solar-panel"
+    price: "799"
+  - name: "Jackery SolarSaga 200W"
+    url: "https://www.jackery.com/products/solarsaga-200w-solar-panel"
+    price: "499"
+  - name: "Bluetti PV200"
+    url: "https://www.bluettipower.eu/products/pv200-solar-panel"
+    price: "399"
 ---
 
 Met 16 zonnepanelen op mijn dak wek ik thuis genoeg op, maar onderweg was ik altijd afhankelijk van stopcontacten. Tot ik een draagbaar zonnepaneel koppelde aan een powerstation — inmiddels mijn vaste campingsetup. Ik heb de beste combinaties van EcoFlow, Jackery en Bluetti vergeleken op laadtijd, rendement bij bewolking en prijs per opgewekte Wh.

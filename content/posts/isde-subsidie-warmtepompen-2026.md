@@ -22,6 +22,13 @@ faq:
     a: "De ISDE subsidie voor warmtepompen is beschikbaar voor eigenaar-bewoners van bestaande woningen. Huurders kunnen geen ISDE aanvragen, maar verhuurders en woningcorporaties kunnen dit wel doen voor hun bezit."
   - q: "Is er een budget limiet voor ISDE in 2026?"
     a: "Ja, het totale ISDE budget voor 2026 bedraagt circa €328 miljoen. In voorgaande jaren was het budget ruim voldoende, maar door de groeiende vraag is het verstandig om niet te lang te wachten met je aanvraag."
+products:
+  - name: "Vaillant aroTHERM plus"
+    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
+    price: "8000"
+  - name: "Daikin Altherma 3"
+    url: "https://www.daikin.nl/nl_nl/producten.html"
+    price: "9000"
 ---
 
 Voor mijn Vaillant hybride warmtepomp ontving ik €3.000 ISDE-subsidie — dat was bijna de helft van de netto investering. Het aanvraagproces via mijn.rvo.nl duurde 20 minuten en na 11 weken stond het geld op mijn rekening. In deze gids leg ik stap voor stap uit welke bedragen je kunt verwachten, hoe je de aanvraag doet en hoe je de ISDE combineert met gemeentelijke subsidies voor maximaal voordeel.

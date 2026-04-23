@@ -22,6 +22,13 @@ faq:
     a: "Beide presteren goed bij gedeeltelijke schaduw omdat ze op paneelniveau optimaliseren. SolarEdge power optimizers zorgen ervoor dat schaduw op één paneel niet de hele string beïnvloedt. Enphase micro-omvormers werken volledig onafhankelijk, wat bij complexe schaduwsituaties een licht voordeel geeft."
   - q: "Hoe lang is de garantie op SolarEdge en Enphase?"
     a: "SolarEdge biedt 12 jaar garantie op de omvormer (verlengbaar tot 25 jaar) en 25 jaar op de power optimizers. Enphase biedt standaard 25 jaar garantie op alle micro-omvormers. Enphase heeft daarmee de langste standaardgarantie."
+products:
+  - name: "SolarEdge HD-Wave"
+    url: "https://www.solaredge.com/nl/products/residential/inverters"
+    price: "1500"
+  - name: "Enphase IQ8"
+    url: "https://enphase.com/nl/homeowners/microinverters-iq8"
+    price: "1800"
 ---
 
 Ik heb zelf voor een Huawei omvormer gekozen, maar als mensen mij vragen naar de premium markt komt het altijd neer op SolarEdge of Enphase. Beide optimaliseren elk paneel individueel, maar de technologie erachter verschilt fundamenteel. Ik heb installateurs gesproken, storingsdata vergeleken en de totaalkosten voor een installatie van 16 panelen doorgerekend. Hier is mijn conclusie.

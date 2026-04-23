@@ -24,6 +24,19 @@ faq:
     a: "Een powerstation is draagbaar en heeft ingebouwde stopcontacten. Een thuisbatterij wordt vast geinstalleerd, gekoppeld aan je zonnepanelen en het elektriciteitsnet. Lees onze gids over de beste thuisbatterijen voor meer informatie."
   - q: "Mag ik een powerstation meenemen in het vliegtuig?"
     a: "Dat hangt af van de capaciteit. De meeste luchtvaartmaatschappijen staan batterijen tot 100Wh toe in handbagage. Powerstations overschrijden deze limiet ruimschoots en mogen daarom niet mee het vliegtuig in."
+products:
+  - name: "EcoFlow Delta 2"
+    url: "https://nl.ecoflow.com/products/delta-2-portable-power-station"
+    price: "999"
+  - name: "Jackery Explorer 1000 Plus"
+    url: "https://www.jackery.com/products/explorer-1000-plus-portable-power-station"
+    price: "1199"
+  - name: "Anker SOLIX C1000"
+    url: "https://www.anker.com/eu-en/products/a1761"
+    price: "999"
+  - name: "Bluetti AC180"
+    url: "https://www.bluettipower.eu/products/ac180"
+    price: "1299"
 ---
 
 Naast mijn vaste Huawei Luna thuisbatterij van 10 kWh heb ik ook altijd een draagbaar powerstation in huis — voor noodstroom, de camping of klussen in de tuin. Ik heb er de afgelopen maanden meerdere getest en uitgerekend welke de beste prijs per Wh biedt, het snelst laadt en het langst meegaat. Dit zijn mijn 7 favorieten.

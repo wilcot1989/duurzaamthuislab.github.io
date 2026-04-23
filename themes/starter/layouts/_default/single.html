@@ -31,7 +31,40 @@
       Dit artikel bevat affiliate links. Wij ontvangen mogelijk een commissie zonder extra kosten voor jou.
     </div>
     {{ end }}
+
+    {{ if .Params.products }}{{ with index .Params.products 0 }}
+    <div class="verdict-card" style="background:#f0f7f0;border:2px solid #2d5a2d;border-radius:10px;padding:1.25rem;margin:1.5rem 0;">
+      <div style="font-size:0.8rem;text-transform:uppercase;font-weight:700;color:#2d5a2d;letter-spacing:0.05em;margin-bottom:0.5rem;">★ Onze topkeuze</div>
+      <div style="display:flex;flex-wrap:wrap;align-items:center;gap:1rem;justify-content:space-between;">
+        <div>
+          <div style="font-size:1.2rem;font-weight:700;">{{ .name }}</div>
+          <div style="color:#555;">Vanaf &euro;{{ .price }}</div>
+        </div>
+        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer sponsored" style="background:#2d5a2d;color:#fff;padding:0.7rem 1.2rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;">
+          Bekijk {{ .name }} &rarr;
+        </a>
+      </div>
+    </div>
+    {{ end }}{{ end }}
+
     {{ .Content }}
+
+    {{ if .Params.products }}
+    <div class="product-list" style="margin:2rem 0;padding:1.25rem;background:#fafafa;border-radius:8px;">
+      <h3 style="margin-top:0;">Aanbevolen producten</h3>
+      {{ range $i, $p := .Params.products }}
+      <div style="display:flex;flex-wrap:wrap;align-items:center;gap:0.75rem;justify-content:space-between;padding:0.75rem 0;border-bottom:1px solid #e5e5e5;">
+        <div>
+          <div style="font-weight:600;">{{ add $i 1 }}. {{ $p.name }}</div>
+          <div style="color:#666;font-size:0.9rem;">Vanaf &euro;{{ $p.price }}</div>
+        </div>
+        <a href="{{ $p.url }}" target="_blank" rel="noopener noreferrer sponsored" style="background:#2d5a2d;color:#fff;padding:0.5rem 1rem;border-radius:5px;text-decoration:none;font-size:0.9rem;font-weight:600;white-space:nowrap;">
+          Bekijk &rarr;
+        </a>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
     {{ if .Params.tags }}
     <div class="tags" style="margin-top:2rem;">
       {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}

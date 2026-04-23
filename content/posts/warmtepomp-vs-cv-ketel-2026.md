@@ -22,6 +22,13 @@ faq:
     a: "Een full-electric warmtepomp bespaart 60-80% CO2 ten opzichte van een gasgestookte CV-ketel. Een hybride warmtepomp bespaart 40-60% CO2. Met zonnepanelen op je dak kan de besparing oplopen tot 90-100%."
   - q: "Hoe lang gaat een warmtepomp mee?"
     a: "Een warmtepomp gaat gemiddeld 15-20 jaar mee, vergelijkbaar met een goede CV-ketel. De compressor is het onderdeel dat het eerst slijt. Regelmatig onderhoud (jaarlijkse check) verlengt de levensduur. De meeste fabrikanten bieden 5-7 jaar garantie."
+products:
+  - name: "Vaillant aroTHERM plus"
+    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
+    price: "8000"
+  - name: "Daikin Altherma 3"
+    url: "https://www.daikin.nl/nl_nl/producten.html"
+    price: "9000"
 ---
 
 Ik heb anderhalf jaar geleden mijn CV-ketel aangevuld met een Vaillant hybride warmtepomp en mijn gasverbruik is van 1.400 m3 naar 580 m3 gedaald. Netto besparing: bijna €900 per jaar. Maar een warmtepomp is niet voor iedereen de juiste keuze — bij een slecht geisoleerd huis of laag gasverbruik kan de terugverdientijd oplopen tot 15 jaar. In dit artikel reken ik het voor je door.

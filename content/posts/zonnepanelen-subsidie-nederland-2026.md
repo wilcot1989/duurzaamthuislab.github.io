@@ -24,6 +24,13 @@ faq:
     a: "Je vraagt ISDE-subsidie aan via mijn.rvo.nl. Je hebt een offerte of factuur nodig, de specificaties van de batterij, en een bewijs dat je zonnepanelen hebt. De aanvraag moet binnen 6 maanden na installatie ingediend worden."
   - q: "Loont het nog om zonnepanelen te kopen in 2026?"
     a: "Ja, absoluut. Ondanks de aankomende afbouw van de salderingsregeling zijn zonnepanelen nog steeds een van de beste investeringen voor je woning. Met het 0% BTW-tarief, de ISDE-subsidie voor een thuisbatterij en de stijgende energieprijzen verdien je zonnepanelen doorgaans binnen 5-7 jaar terug."
+products:
+  - name: "Zonneplan"
+    url: "https://zonneplan.nl/zonnepanelen"
+    price: "5000"
+  - name: "Coolblue Zonnepanelen"
+    url: "https://www.coolblue.nl/zonnepanelen"
+    price: "5500"
 ---
 
 Toen ik mijn 16 zonnepanelen kocht, betaalde ik 0% BTW en kon ik via de ISDE subsidie voor mijn thuisbatterij €5.400 terugkrijgen. Samen met de salderingsregeling die in 2026 nog volledig geldt, was de terugverdientijd verrassend kort. In deze gids zet ik alle financiele voordelen op een rij die je in 2026 kunt benutten — van rijkssubsidies tot gemeentelijke regelingen.

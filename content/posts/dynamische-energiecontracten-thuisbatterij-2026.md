@@ -24,6 +24,16 @@ faq:
     a: "Energie-arbitrage betekent stroom inkopen wanneer de prijs laag is en deze opslaan in je thuisbatterij, om vervolgens te gebruiken (of terugleveren) wanneer de prijs hoog is. Het verschil tussen de lage inkoopprijs en de hoge gebruiksprijs is je winst. Met een thuisbatterij en dynamisch contract kun je dit automatisch doen."
   - q: "Heb ik zonnepanelen nodig voor energie-arbitrage?"
     a: "Nee, energie-arbitrage werkt ook zonder zonnepanelen. Je laadt de batterij dan uitsluitend op goedkope momenten van het net en gebruikt de opgeslagen stroom op dure momenten. Echter, de combinatie van zonnepanelen plus een thuisbatterij plus een dynamisch contract levert de hoogste besparing op."
+products:
+  - name: "Tibber"
+    url: "https://tibber.com/nl"
+    price: "6"
+  - name: "Frank Energie"
+    url: "https://www.frankenergie.nl/"
+    price: "5"
+  - name: "ANWB Energie"
+    url: "https://www.anwb.nl/huis/energie"
+    price: "6"
 ---
 
 Sinds ik mijn Huawei Luna 10 kWh koppelde aan mijn Tibber dynamisch contract, verdien ik gemiddeld €22 extra per maand door energie-arbitrage — bovenop de besparing van mijn zonnepanelen. Mijn batterij laadt automatisch op wanneer stroom onder de €0,05/kWh zakt (vaak 's nachts) en ontlaadt wanneer de prijs boven €0,30 stijgt. In dit artikel leg ik precies uit hoe dit werkt en wat het oplevert.

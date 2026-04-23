@@ -22,6 +22,16 @@ faq:
     a: "Top energieverbruikers: warmtepomp/CV-ketel (40-50%), warm water (15-20%), koelkast/vriezer (8-10%), wasmachine/droger (5-8%), koken (5-7%), verlichting (3-5%), standby-verbruik (5-10%). Een energiemonitor als de P1-meter of Homewizard maakt dit inzichtelijk per apparaat."
   - q: "Is een smart home systeem moeilijk te installeren?"
     a: "Slimme thermostaten en plugs kun je zelf installeren in 15-30 minuten. Een compleet Home Assistant systeem vereist meer technische kennis (1-2 dagen opzet). Er zijn ook kant-en-klare systemen als Tado en Google Nest die zonder technische kennis werken."
+products:
+  - name: "HomeWizard P1 Meter"
+    url: "https://www.homewizard.com/nl/p1-meter/"
+    price: "30"
+  - name: "Shelly Pro 3EM"
+    url: "https://www.shelly.com/nl/products/shop/shelly-pro-3-em-400"
+    price: "120"
+  - name: "Tibber Pulse"
+    url: "https://tibber.com/nl/pulse"
+    price: "99"
 ---
 
 Mijn huis draait ondertussen bijna volledig automatisch. Mijn HomeWizard P1 meter ziet dat de zon schijnt, mijn Huawei Luna batterij laadt op tot de zonnestroom op is, en mijn Vaillant warmtepomp draait alleen als mijn Tibber-tarief onder de €0,10/kWh zakt. Dat klinkt ingewikkeld, maar het kostte me een middag instellen en bespaart me 25% op mijn energierekening. In dit artikel leg ik uit hoe je zo'n slim systeem zelf opzet.

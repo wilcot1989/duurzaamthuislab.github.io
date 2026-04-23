@@ -22,6 +22,16 @@ faq:
     a: "Een P1-meter toont je netto verbruik en teruglevering, maar niet de totale productie van je zonnepanelen. Daarvoor heb je een extra sensor nodig (bijv. HomeWizard kWh Meter op je omvormer) of je leest de productie uit via de omvormer-app (SolarEdge, Enphase, Growatt)."
   - q: "Werkt een energiemonitor met Home Assistant?"
     a: "Ja, de HomeWizard P1 Meter en Youless hebben uitstekende Home Assistant integraties. Ze worden automatisch gedetecteerd en bieden real-time verbruiksdata voor automatisering, zoals de wasmachine starten bij zonne-overschot of de warmtepomp uitschakelen bij dure stroom."
+products:
+  - name: "HomeWizard P1 Meter"
+    url: "https://www.homewizard.com/nl/p1-meter/"
+    price: "30"
+  - name: "Youless LS120"
+    url: "https://www.youless.nl/energiemonitor/"
+    price: "70"
+  - name: "Shelly Pro 3EM"
+    url: "https://www.shelly.com/nl/products/shop/shelly-pro-3-em-400"
+    price: "120"
 ---
 
 Mijn HomeWizard P1 meter was letterlijk de beste €30 die ik ooit heb uitgegeven. Binnen een week ontdekte ik dat mijn oude vriezer 's nachts 180W trok — vervangen, en ik bespaar nu €90 per jaar op dat ene apparaat. In combinatie met mijn Tibber dynamisch contract en 16 zonnepanelen zie ik per seconde wat er binnenkomt en wat het kost. In dit artikel vergelijk ik de beste energiemonitoren op de markt.

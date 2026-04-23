@@ -24,6 +24,16 @@ faq:
     a: "De Jackery biedt meer vermogen (3000W vs 2400W) en grotere uitbreidbaarheid (tot 24kWh). De EcoFlow laadt sneller op en is lichter. Lees onze uitgebreide vergelijking in het artikel EcoFlow vs Jackery."
   - q: "Hoe lang gaat de Jackery Explorer 2000 Plus mee?"
     a: "De LiFePO4-batterij is geschikt voor 4000 laadcycli tot 70% restcapaciteit. Bij dagelijks gebruik is dat meer dan 10 jaar levensduur."
+products:
+  - name: "Jackery Explorer 2000 Plus"
+    url: "https://www.jackery.com/products/explorer-2000-plus-portable-power-station"
+    price: "2299"
+  - name: "EcoFlow Delta 2 Max"
+    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
+    price: "1899"
+  - name: "Bluetti AC200MAX"
+    url: "https://www.bluettipower.eu/products/ac200max"
+    price: "1899"
 ---
 
 3000W continu vermogen uit een draagbaar apparaat — de Jackery Explorer 2000 Plus is het krachtigste powerstation dat ik heb getest. Ik heb er een volledige dag mijn tuinhuis mee gevoed: cirkelzaag, verlichting en een bouwradio, en hij had nog 38% over. Met de optionele batterijpakketten kun je uitbreiden tot 24 kWh, waarmee je in de buurt komt van mijn vaste Huawei Luna thuisbatterij. Dit is mijn eerlijke oordeel.

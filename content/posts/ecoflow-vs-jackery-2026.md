@@ -24,6 +24,13 @@ faq:
     a: "Ja, beide merken zijn gevestigde namen in de powerstation-markt met miljoenen verkochte units wereldwijd. Ze hebben beide goede klantenservice in Europa en gebruiken veilige LiFePO4-batterijen in hun nieuwste modellen."
   - q: "Welk merk is goedkoper?"
     a: "In het topsegment liggen de prijzen dicht bij elkaar. In het middensegment is Jackery doorgaans iets duurder. EcoFlow biedt vaker kortingen en bundels aan, waardoor de effectieve prijs lager kan uitvallen."
+products:
+  - name: "EcoFlow Delta 2 Max"
+    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
+    price: "1899"
+  - name: "Jackery Explorer 2000 Plus"
+    url: "https://www.jackery.com/products/explorer-2000-plus-portable-power-station"
+    price: "2299"
 ---
 
 Ik heb zowel EcoFlow- als Jackery-stations door mijn handen laten gaan en de verschillen zijn groter dan je denkt. EcoFlow laadt sneller, de app is beter — maar Jackery biedt meer brute kracht en uitbreidbaarheid. Na wekenlang testen en vergelijken deel ik hier mijn conclusies over beide merken.

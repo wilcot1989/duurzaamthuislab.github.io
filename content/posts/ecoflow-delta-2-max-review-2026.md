@@ -24,6 +24,16 @@ faq:
     a: "De Delta 2 Max laadt sneller op en is lichter. De Jackery 2000 Plus biedt meer continu vermogen (3000W vs 2400W) en is uitbreidbaar tot 24kWh. Lees onze uitgebreide EcoFlow vs Jackery vergelijking voor meer details."
   - q: "Hoe lang gaat de batterij van de Delta 2 Max mee?"
     a: "De LFP-batterij (LiFePO4) gaat circa 3000 laadcycli mee voordat de capaciteit naar 80% daalt. Bij wekelijks gebruik is dat meer dan 10 jaar."
+products:
+  - name: "EcoFlow Delta 2 Max"
+    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
+    price: "1899"
+  - name: "Jackery Explorer 2000 Plus"
+    url: "https://www.jackery.com/products/explorer-2000-plus-portable-power-station"
+    price: "2299"
+  - name: "Bluetti AC200MAX"
+    url: "https://www.bluettipower.eu/products/ac200max"
+    price: "1899"
 ---
 
 De EcoFlow Delta 2 Max was het eerste grote powerstation dat ik thuis testte — en hij heeft de lat hoog gelegd. Van 0 naar 80% in 65 minuten, een solide app met real-time monitoring, en 2048Wh die mijn koelkast, router en verlichting bij een stroomuitval ruim 14 uur draaiende hield. Maar is hij in 2026 nog steeds de beste keuze? Dit is mijn eerlijke oordeel na maanden gebruik.

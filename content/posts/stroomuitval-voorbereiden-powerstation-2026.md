@@ -24,6 +24,16 @@ faq:
     a: "Moderne LiFePO4-powerstations verliezen circa 2-3% lading per maand bij opslag. Een volledig opgeladen powerstation is na 6 maanden nog steeds op circa 85-90% geladen. Het is wel verstandig om het station elke 3-4 maanden bij te laden."
   - q: "Kan ik een powerstation opladen met zonnepanelen tijdens een langdurige stroomuitval?"
     a: "Ja, dat is een van de grote voordelen van een powerstation. Met een opvouwbaar zonnepaneel (100-400W) kun je het station overdag opladen, waardoor je in theorie onbeperkt stroom hebt zolang de zon schijnt. Dit maakt je volledig onafhankelijk van het net."
+products:
+  - name: "EcoFlow Delta 2 Max"
+    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
+    price: "1899"
+  - name: "Jackery Explorer 2000 Plus"
+    url: "https://www.jackery.com/products/explorer-2000-plus-portable-power-station"
+    price: "2299"
+  - name: "Anker SOLIX C1000"
+    url: "https://www.anker.com/eu-en/products/a1761"
+    price: "999"
 ---
 
 Vorig jaar had ik een stroomstoring van 4 uur. Mijn Huawei Luna thuisbatterij nam het naadloos over, maar mijn buurman zat in het donker met een lege telefoon en een ontdooiende vriezer. Dat hoeft niet — een powerstation van €500-€900 had hem gered. Ik heb berekend hoeveel Wh je nodig hebt voor de basisapparaten (router, koelkast, verlichting, telefoon = circa 250W continu) en welk powerstation bij welk budget past.

@@ -22,6 +22,16 @@ faq:
     a: "De Remeha Elga Ace HT scoort het beste vanwege de hoge COP-waarde en het brede werkbereik tot -20°C. De Quatt is het interessantst qua prijs-kwaliteit dankzij het unieke abonnementsmodel."
   - q: "Krijg ik subsidie voor een hybride warmtepomp?"
     a: "Ja, via de ISDE-regeling ontvang je circa €3.000 subsidie. Daarnaast bieden veel gemeenten aanvullende subsidies van €500-€1.500. De subsidie vraag je aan na installatie via mijn.rvo.nl."
+products:
+  - name: "Vaillant aroTHERM plus"
+    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
+    price: "8000"
+  - name: "Daikin Altherma 3 H HT"
+    url: "https://www.daikin.nl/nl_nl/producten/product.html/EPRA-DV.html"
+    price: "9000"
+  - name: "Remeha Mercuria"
+    url: "https://www.remeha.nl/producten/warmtepompen/mercuria-ace"
+    price: "8500"
 ---
 
 Mijn Vaillant hybride warmtepomp draait inmiddels anderhalf jaar en ik heb mijn gasverbruik van 1.400 m3 naar 580 m3 teruggebracht — een besparing van bijna €900 per jaar. Na aftrek van de ISDE-subsidie van €3.000 zit ik op een terugverdientijd van nog geen 4 jaar. Maar als ik nu opnieuw zou kiezen, zou ik dan weer voor Vaillant gaan? Ik heb de 5 beste hybride warmtepompen van 2026 naast elkaar gezet.

@@ -22,6 +22,13 @@ faq:
     a: "Een energielabel is verplicht bij verkoop of verhuur van een woning. Zonder geldig label riskeer je een boete tot €435. Voor huurwoningen geldt een minimaal energielabel van D (sinds 2023) en dit wordt aangescherpt naar C in 2030."
   - q: "Welke subsidies zijn er voor energielabel verbetering?"
     a: "De belangrijkste subsidies zijn: ISDE (€1.500-€5.500 voor isolatie + warmtepomp), SEEH (voor VvE's en verhuurders), gemeentelijke subsidies (€500-€3.000), en het Nationaal Warmtefonds (lening tegen 0% rente). Totaal kun je 30-50% van de kosten terugkrijgen."
+products:
+  - name: "Zonneplan"
+    url: "https://zonneplan.nl/zonnepanelen"
+    price: "5000"
+  - name: "Vaillant aroTHERM plus"
+    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
+    price: "8000"
 ---
 
 Mijn woning had label C toen ik begon met verduurzamen. Na vloerisolatie, 16 zonnepanelen, een Vaillant hybride warmtepomp en een Huawei Luna thuisbatterij zit ik op label A — en mijn energierekening is van €2.400 naar €680 per jaar gedaald. In dit stappenplan laat ik zien welke maatregelen ik in welke volgorde heb genomen, wat het kostte, en welke subsidies ik heb ontvangen.

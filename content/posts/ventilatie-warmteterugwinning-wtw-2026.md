@@ -22,6 +22,13 @@ faq:
     a: "Ja, minimaal onderhoud: filters vervangen elke 3-6 maanden (€20-€40 per set), warmtewisselaar jaarlijks reinigen (zelf te doen), en elke 2-3 jaar een professionele controle (€100-€150). Totale onderhoudskosten: €80-€150 per jaar. Verwaarlozing leidt tot slecht werkend systeem en hogere energiekosten."
   - q: "Kan ik een WTW-systeem combineren met een warmtepomp?"
     a: "Ja, en dat is een uitstekende combinatie. De WTW voorkomt warmteverlies door ventilatie, waardoor de warmtepomp minder hoeft te werken. Sommige WTW-units hebben een ingebouwde warmtepomp die de afgevoerde lucht extra benut. De combinatie bespaart 25-40% op verwarmingskosten."
+products:
+  - name: "Zehnder ComfoAir Q"
+    url: "https://www.zehnder.nl/producten-en-systemen/comfortabele-ventilatie/comfoair-q"
+    price: "3500"
+  - name: "Brink Renovent Excellent"
+    url: "https://www.brinkclimatesystems.nl/producten/ventilatie/renovent-excellent"
+    price: "3000"
 ---
 
 Na het isoleren van mijn vloer en het plaatsen van mijn Vaillant warmtepomp merkte ik dat ik via de ventilatieroosters alsnog veel warmte verloor. Een WTW-systeem haalt 90% van die warmte terug uit de afgevoerde lucht. Ik heb het laten doorrekenen: bij mijn gasverbruik scheelt het €350 per jaar, en de luchtkwaliteit in huis is fors verbeterd. Hier deel ik alles wat je moet weten.

@@ -24,6 +24,16 @@ faq:
     a: "Ja, alle powerstations in dit artikel kunnen worden opgeladen via de 12V sigarettenaanstekeruitgang van je bus (of via een directe aansluiting op de startaccu). De laadsnelheid is beperkt (doorgaans 100-200W), dus het duurt langer dan via netstroom."
   - q: "Is een powerstation veilig in een camperbus?"
     a: "Ja, moderne powerstations met LiFePO4-batterijen zijn veilig in een camperbus. Ze zijn BMS-beschermd (Battery Management System) tegen overladen, te diep ontladen, kortsluiting en oververhitting. Zorg wel voor voldoende ventilatie en zet het station niet in direct zonlicht bij hoge temperaturen."
+products:
+  - name: "EcoFlow Delta 2 Max"
+    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
+    price: "1899"
+  - name: "Jackery Explorer 1500 Pro"
+    url: "https://www.jackery.com/products/explorer-1500-pro-portable-power-station"
+    price: "1599"
+  - name: "Bluetti AC200MAX"
+    url: "https://www.bluettipower.eu/products/ac200max"
+    price: "1899"
 ---
 
 Een vriend van mij bouwde vorig jaar zijn VW Crafter om tot camperbus en vroeg mijn advies over de stroomvoorziening. Ik heb zijn verbruik doorgerekend: koelkast (45W continu), laptop, verlichting en af en toe de inductieplaat — dat is al snel 1.500 Wh per dag. Na weken vergelijken en testen heb ik de 5 beste powerstations voor vanlife op een rij gezet.

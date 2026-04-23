@@ -22,6 +22,16 @@ faq:
     a: "Ja, indirect. Door groene stroom te kiezen, creëer je vraag naar GvO-certificaten, wat de businesscase voor nieuwe groene projecten verbetert. Het directe effect is beperkt als je leverancier alleen buitenlandse certificaten koopt. Het grootste effect heb je door zelf zonnepanelen te plaatsen of een leverancier te kiezen die investeert in nieuwe opwek."
   - q: "Wat zijn Garanties van Oorsprong (GvO's)?"
     a: "GvO's zijn certificaten die bewijzen dat er per MWh hernieuwbare stroom is opgewekt. Leveranciers kopen GvO's om hun stroom 'groen' te labelen. Probleem: GvO's uit Noorwegen (waterkracht) kosten slechts €0,20-€1,00/MWh — zo goedkoop dat het geen prikkel geeft voor nieuwe opwek. Nederlandse GvO's (wind/zon) zijn duurder en stimuleren wel nieuwe projecten."
+products:
+  - name: "Tibber"
+    url: "https://tibber.com/nl"
+    price: "6"
+  - name: "Frank Energie"
+    url: "https://www.frankenergie.nl/"
+    price: "5"
+  - name: "Vattenfall Groene Stroom"
+    url: "https://www.vattenfall.nl/producten/stroom-en-gas/"
+    price: "7"
 ---
 
 Met 16 zonnepanelen op mijn dak wek ik zelf zo'n 5.200 kWh per jaar op — dat is echt groene stroom. Maar de stroom die ik 's winters van het net aftrek, hoe groen is die eigenlijk? Ik dook in de wereld van GvO-certificaten en ontdekte dat veel "groene" contracten in de praktijk nauwelijks iets bijdragen. In dit artikel leg ik het verschil uit en help ik je een echte keuze maken.

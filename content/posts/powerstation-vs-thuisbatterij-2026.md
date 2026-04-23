@@ -24,6 +24,16 @@ faq:
     a: "Nee, een thuisbatterij moet geïnstalleerd worden door een gecertificeerde installateur. Het systeem wordt aangesloten op je elektrische installatie en het net, wat vakkennis vereist. Zelf installeren is gevaarlijk en niet toegestaan."
   - q: "Kan ik een powerstation en thuisbatterij combineren?"
     a: "Ja, dat is een slimme combinatie. Gebruik een thuisbatterij als vaste energieopslag voor je zonnepanelen thuis en een powerstation als draagbare back-up of voor onderweg. Veel huishoudens kiezen voor beide."
+products:
+  - name: "EcoFlow Delta 2 Max"
+    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
+    price: "1899"
+  - name: "Huawei Luna 2000"
+    url: "https://solar.huawei.com/eu/residential/luna"
+    price: "6000"
+  - name: "Tesla Powerwall 3"
+    url: "https://www.tesla.com/nl_nl/powerwall"
+    price: "9500"
 ---
 
 Ik heb ze allebei in huis: een Huawei Luna 2000 van 10 kWh als vaste thuisbatterij aan mijn zonnepanelen, en een draagbaar EcoFlow powerstation voor noodstroom en de camping. Twee totaal verschillende producten, maar ik krijg regelmatig de vraag welke je moet kiezen. In dit artikel leg ik het verschil uit op basis van mijn eigen ervaring met beide systemen.

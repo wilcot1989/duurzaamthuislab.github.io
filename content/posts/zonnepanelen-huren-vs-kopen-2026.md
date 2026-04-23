@@ -22,6 +22,13 @@ faq:
     a: "Gehuurde panelen leveren minder rendement op dan gekochte panelen. De maandelijkse huurbetaling eet een groot deel van de stroombesparing op. Typisch bespaar je €10-€30/maand netto bij huur, vs €60-€100/maand bij koop (na terugverdientijd). Huren is rendabel, maar minder dan kopen."
   - q: "Wat gebeurt er als de huurder van zonnepanelen failliet gaat?"
     a: "Als de huuraanbieder failliet gaat, blijven de panelen op je dak functioneren. De eigendom gaat over naar de curator. In de praktijk neemt een andere partij het contract over. Dit is een risico, maar tot nu toe zeldzaam bij grote aanbieders."
+products:
+  - name: "Zonneplan"
+    url: "https://zonneplan.nl/zonnepanelen"
+    price: "5000"
+  - name: "Coolblue Zonnepanelen"
+    url: "https://www.coolblue.nl/zonnepanelen"
+    price: "5500"
 ---
 
 Ik heb mijn 16 zonnepanelen gekocht voor €4.800 en ze in 6 jaar terugverdiend. Een huurconstructie had me over 25 jaar meer dan €8.000 extra gekost. Toch kan huren voor sommige situaties de betere keuze zijn — bijvoorbeeld als je binnen 5 jaar wilt verhuizen of geen spaargeld hebt. Ik heb beide opties doorgerekend en leg hier het verschil uit.

@@ -24,6 +24,13 @@ faq:
     a: "Ja, enorm. Zolang je volledig mag salderen, krijg je evenveel voor teruggeleverde stroom als je betaalt voor afgenomen stroom. Zodra de saldering afneemt (vanaf 2027), wordt de vergoeding voor teruglevering lager en wordt opslag in een thuisbatterij financieel aantrekkelijker."
   - q: "Moet ik nu een thuisbatterij kopen of wachten?"
     a: "Als je al zonnepanelen hebt en de ISDE-subsidie nog beschikbaar is, is 2026 een goed moment. Batterijprijzen dalen, maar de subsidie is niet onbeperkt beschikbaar. Vanaf 2027 begint de afbouw van de salderingsregeling, waardoor een batterij rendabeler wordt. Wachten op nog lagere prijzen is een optie, maar je mist dan subsidie en besparingen in de tussentijd."
+products:
+  - name: "Huawei Luna 2000"
+    url: "https://solar.huawei.com/eu/residential/luna"
+    price: "6000"
+  - name: "Tesla Powerwall 3"
+    url: "https://www.tesla.com/nl_nl/powerwall"
+    price: "9500"
 ---
 
 Voordat ik mijn Huawei Luna 10 kWh kocht, heb ik een uitgebreide Excel gemaakt met alle variabelen: mijn zonnepaneelopbrengst (5.200 kWh/jaar), verbruiksprofiel dag/nacht, Tibber-tarieven, ISDE-subsidie en de afbouw van de salderingsregeling. Mijn conclusie: terugverdientijd van 9 jaar, en na de afbouw van saldering zelfs sneller. In deze gids deel ik precies hoe je die berekening zelf maakt.

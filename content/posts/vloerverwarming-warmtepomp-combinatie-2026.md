@@ -22,6 +22,13 @@ faq:
     a: "Ja, dit is een veel voorkomende oplossing bij renovatie. Vloerverwarming in de woonkamer en keuken (waar je het meeste profijt hebt), en radiatoren in slaapkamers en badkamer. Je hebt dan een menggroep nodig om de watertemperatuur voor de vloerverwarming te verlagen."
   - q: "Is vloerverwarming gezonder dan radiatoren?"
     a: "Ja, vloerverwarming biedt een gelijkmatiger warmteverdeling (warm bij de voeten, koeler bij het hoofd — ideaal comfort). Er is minder luchtcirculatie, wat minder stof opwervelt en beter is voor mensen met allergieën. Radiatoren creëren meer temperatuurverschillen en luchtstromen."
+products:
+  - name: "Vaillant aroTHERM plus"
+    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
+    price: "8000"
+  - name: "Daikin Altherma 3"
+    url: "https://www.daikin.nl/nl_nl/producten.html"
+    price: "9000"
 ---
 
 Mijn Vaillant hybride warmtepomp draait het efficients op de vloerverwarming in mijn woonkamer — daar haalt hij een COP van 4,5 bij 35°C watertemperatuur. Op de radiatoren in de slaapkamers (60°C nodig) zakt de COP naar 2,8. Dat verschil is bijna 40% meer stroomverbruik. Als je overweegt een warmtepomp te nemen, is vloerverwarming de investering die het rendement maakt of breekt.

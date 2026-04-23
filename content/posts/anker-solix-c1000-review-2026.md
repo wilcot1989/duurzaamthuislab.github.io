@@ -24,6 +24,16 @@ faq:
     a: "De C1000 biedt iets meer capaciteit (1056Wh vs 1024Wh) en laadt sneller op. De EcoFlow Delta 2 heeft een hogere solar-input (500W vs 300W) en meer uitgangen. Beide zijn uitstekende keuzes in deze klasse."
   - q: "Hoe lang gaat de batterij van de Anker SOLIX C1000 mee?"
     a: "De LiFePO4-batterij gaat circa 3000 laadcycli mee voordat de capaciteit naar 80% daalt. Bij wekelijks gebruik is dat meer dan 10 jaar."
+products:
+  - name: "Anker SOLIX C1000"
+    url: "https://www.anker.com/eu-en/products/a1761"
+    price: "999"
+  - name: "EcoFlow Delta 2"
+    url: "https://nl.ecoflow.com/products/delta-2-portable-power-station"
+    price: "999"
+  - name: "Jackery Explorer 1000 Plus"
+    url: "https://www.jackery.com/products/explorer-1000-plus-portable-power-station"
+    price: "1199"
 ---
 
 Ik heb inmiddels zes powerstations door mijn handen laten gaan, maar de Anker SOLIX C1000 verraste me het meest. Met 12,9 kg til je hem moeiteloos de auto in, terwijl hij met 1056Wh en 1800W wél serieus vermogen levert. Ik heb hem een week als noodstroom achter mijn HomeWizard P1 meter gehangen en daarna meegenomen op een kampeertripje — dit is wat ik ervan vond.

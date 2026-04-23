@@ -24,6 +24,16 @@ faq:
     a: "Het rendement van moderne omvormers ligt tussen 96% en 98,5%. Dit betekent dat slechts 1,5-4% van de opgewekte energie verloren gaat bij de omzetting van DC naar AC. Micro-omvormers en optimizers kunnen een hoger systeemrendement bieden bij schaduwsituaties."
   - q: "Heb ik een nieuwe omvormer nodig als ik een thuisbatterij wil?"
     a: "Als je een standaard (niet-hybride) string-omvormer hebt, moet je deze meestal vervangen door een hybride model om een DC-gekoppelde thuisbatterij aan te sluiten. Een alternatief is een AC-gekoppelde batterij, waarvoor geen nieuwe omvormer nodig is."
+products:
+  - name: "SolarEdge HD-Wave"
+    url: "https://www.solaredge.com/nl/products/residential/inverters"
+    price: "1500"
+  - name: "Enphase IQ8"
+    url: "https://enphase.com/nl/homeowners/microinverters-iq8"
+    price: "1800"
+  - name: "Huawei SUN2000"
+    url: "https://solar.huawei.com/eu/residential/inverter"
+    price: "1200"
 ---
 
 Toen ik mijn 16 zonnepanelen (5,6 kWp) liet installeren, heb ik bewust gekozen voor een Huawei SUN2000 hybride omvormer — zodat ik later probleemloos mijn Luna thuisbatterij kon aansluiten. Die keuze heeft me duizenden euro's bespaard vergeleken met achteraf een omvormer moeten vervangen. In dit overzicht vergelijk ik de 5 beste omvormers van 2026, zodat jij die afweging goed kunt maken.

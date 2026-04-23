@@ -24,6 +24,19 @@ faq:
     a: "Niet altijd, maar het wordt sterk aanbevolen. Een thuisbatterij van hetzelfde merk als je omvormer werkt naadloos samen en biedt de beste prestaties. Sommige combinaties van verschillende merken werken ook, maar vragen om een extra interface of hybride omvormer."
   - q: "Hoe lang gaat een thuisbatterij mee?"
     a: "De meeste thuisbatterijen hebben een levensduur van 10 tot 15 jaar, oftewel 6000 tot 10.000 laadcycli. Na die periode heeft de batterij nog steeds circa 60-70% van de oorspronkelijke capaciteit."
+products:
+  - name: "Huawei Luna 2000"
+    url: "https://solar.huawei.com/eu/residential/luna"
+    price: "6000"
+  - name: "Tesla Powerwall 3"
+    url: "https://www.tesla.com/nl_nl/powerwall"
+    price: "9500"
+  - name: "EcoFlow PowerOcean"
+    url: "https://nl.ecoflow.com/products/power-ocean"
+    price: "7500"
+  - name: "Enphase IQ Battery 5P"
+    url: "https://enphase.com/nl/homeowners/storage/iq-battery-5p"
+    price: "5500"
 ---
 
 Toen ik vorig jaar een thuisbatterij kocht, heb ik wekenlang zitten rekenen. Welk merk, welke capaciteit, en verdien ik het uberhaupt terug? Na maanden onderzoek en inmiddels een jaar ervaring met mijn eigen Huawei Luna 2000 van 10 kWh, deel ik hier welke 5 thuisbatterijen ik zou aanraden — en waarom.

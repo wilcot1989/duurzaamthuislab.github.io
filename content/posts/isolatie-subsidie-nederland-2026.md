@@ -22,6 +22,10 @@ faq:
     a: "Ja, voor ISDE moet de isolatie zijn uitgevoerd door een bij RVO geregistreerd bedrijf. Zelf isoleren komt niet in aanmerking voor ISDE. Voor gemeentelijke subsidies gelden soms andere regels — sommige gemeenten subsidiëren ook doe-het-zelf isolatie."
   - q: "Welke isolatie heeft de beste terugverdientijd met subsidie?"
     a: "Spouwmuurisolatie heeft de beste terugverdientijd: 2-4 jaar (kosten €1.500-€3.000 minus €900-€2.400 subsidie). Dakisolatie volgt met 4-7 jaar. Vloerisolatie: 4-6 jaar. HR++ glas heeft de langste terugverdientijd: 8-15 jaar. Met subsidie verbetert de terugverdientijd met 30-50%."
+products:
+  - name: "Vaillant aroTHERM plus"
+    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
+    price: "8000"
 ---
 
 Mijn vloerisolatie kostte €2.800, maar na de ISDE-subsidie van €1.200 en een gemeentelijke bijdrage van €500 betaalde ik effectief €1.100. Terugverdientijd: 2,5 jaar. Isolatie is verreweg de snelst rendabele verduurzamingsmaatregel die ik heb gedaan — en ik raad iedereen aan om eerst te isoleren voordat je een warmtepomp overweegt. Hier vind je alle subsidies van 2026 op een rij.

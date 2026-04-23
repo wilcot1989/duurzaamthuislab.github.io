@@ -22,6 +22,16 @@ faq:
     a: "Ja, zonnepanelen blijven rendabel. De terugverdientijd stijgt van 5-7 jaar naar 7-10 jaar zonder salderen. Met een thuisbatterij of dynamisch energiecontract kun je meer eigen stroom benutten, waardoor de terugverdientijd weer daalt. Zonnepanelen zijn ook zonder salderen een goede investering."
   - q: "Welke omvormer heb ik nodig bij mijn zonnepanelen?"
     a: "Er zijn twee typen: string-omvormers met optimizers (SolarEdge, goedkoper) en micro-omvormers (Enphase, betrouwbaarder). Bij schaduw of een complex dak is Enphase beter. Bij een standaard dak zonder schaduw biedt SolarEdge de beste prijs-kwaliteit. Lees onze SolarEdge vs Enphase vergelijking."
+products:
+  - name: "Zonneplan"
+    url: "https://zonneplan.nl/zonnepanelen"
+    price: "5000"
+  - name: "Coolblue Zonnepanelen"
+    url: "https://www.coolblue.nl/zonnepanelen"
+    price: "5500"
+  - name: "SolarNRG"
+    url: "https://www.solarnrg.nl/"
+    price: "5000"
 ---
 
 Mijn 16 panelen (5,6 kWp) leveren nu ruim anderhalf jaar stroom en ik heb ze in 6 jaar terugverdiend — sneller dan de installateur beloofde. Het verschil tussen panelen van €0,80/Wp en €1,40/Wp lijkt klein, maar over 25 jaar praat je over duizenden euro's meer of minder opbrengst. Ik heb de 5 beste merken op de Nederlandse markt naast elkaar gelegd.

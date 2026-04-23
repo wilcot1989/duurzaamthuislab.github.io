@@ -22,6 +22,13 @@ faq:
     a: "Voor woningen meestal niet (vergunningsvrij). Uitzonderingen: monumentale panden, beschermde stadsgezichten, of als het montagesysteem hoger is dan de dakrand. Bij VvE's (appartementen) heb je toestemming van de vergadering nodig. Bij huurwoningen: toestemming van de verhuurder."
   - q: "Kan mijn platte dak het gewicht van zonnepanelen dragen?"
     a: "De meeste platte daken kunnen zonnepanelen dragen. Gewicht per paneel + frame + ballast: 15-25 kg/m². Standaard platte daken zijn berekend op 100+ kg/m² (sneeuwlast). Bij oudere daken of twijfel: laat een constructeur of de installateur de draagkracht controleren. Kosten check: €100-€300."
+products:
+  - name: "Zonneplan"
+    url: "https://zonneplan.nl/zonnepanelen"
+    price: "5000"
+  - name: "Coolblue Zonnepanelen"
+    url: "https://www.coolblue.nl/zonnepanelen"
+    price: "5500"
 ---
 
 Mijn eigen panelen liggen op een schuin dak richting zuidwest, maar ik heb een buurman geholpen met de planning voor zijn plat dak. Het voordeel: je kiest zelf de optimale hoek (10-15 graden) en richting. Het nadeel: je hebt 30-50% meer dakruimte nodig en het montagesysteem kost €30-€80 extra per paneel. In dit artikel deel ik de berekeningen, de beste opstellingen en de valkuilen.

@@ -24,6 +24,16 @@ faq:
     a: "Ja, de River 2 Pro ondersteunt een extra EcoFlow River 2 Pro Extra Battery (768 Wh) waarmee je de totale capaciteit verdubbelt naar 1536 Wh. De extra batterij wordt direct op het station aangesloten en is snel gekoppeld."
   - q: "Hoe lang gaat de batterij van de EcoFlow River 2 Pro mee?"
     a: "EcoFlow garandeert dat de batterij na 3000 laadcycli nog minimaal 80% van de oorspronkelijke capaciteit behoudt. Bij dagelijks gebruik komt dit neer op meer dan 8 jaar. Bij wekelijks gebruik (camping, weekend) gaat de batterij effectief 10-15 jaar of langer mee."
+products:
+  - name: "EcoFlow River 2 Pro"
+    url: "https://nl.ecoflow.com/products/river-2-pro-portable-power-station"
+    price: "649"
+  - name: "Jackery Explorer 700 Plus"
+    url: "https://www.jackery.com/products/explorer-700-plus-portable-power-station"
+    price: "699"
+  - name: "Anker SOLIX C800"
+    url: "https://www.anker.com/eu-en/products/a1751"
+    price: "599"
 ---
 
 Voor onder de €450 krijg je 768 Wh, razendsnelle X-Stream oplaadtechnologie en een gewicht van maar 7,8 kg — de EcoFlow River 2 Pro is mijn vaste metgezel op campingtrips. Ik heb hem een heel weekend mijn koelbox, telefoons en LED-lampjes laten voeden, en hij hield het ruimschoots vol. In deze review deel ik mijn praktijkervaringen en de cijfers die erbij horen.

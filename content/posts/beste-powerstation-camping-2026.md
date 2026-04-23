@@ -24,6 +24,16 @@ faq:
     a: "Ja, powerstations zijn op vrijwel alle campings toegestaan, in tegenstelling tot aggregaten die vaak verboden zijn vanwege geluidsoverlast. Powerstations zijn stil en produceren geen uitstoot."
   - q: "Hoeveel watt zonnepaneel heb ik nodig voor camping?"
     a: "Een opvouwbaar paneel van 100-200W is voor de meeste kampeerders ideaal. Hiermee laad je een middelgroot powerstation in 4-8 uur op, afhankelijk van de zonnestand en bewolking."
+products:
+  - name: "EcoFlow River 2 Pro"
+    url: "https://nl.ecoflow.com/products/river-2-pro-portable-power-station"
+    price: "649"
+  - name: "Jackery Explorer 500"
+    url: "https://www.jackery.com/products/explorer-500-portable-power-station"
+    price: "499"
+  - name: "Anker SOLIX C300"
+    url: "https://www.anker.com/eu-en/products/a1722"
+    price: "349"
 ---
 
 Vorig jaar heb ik op de camping mijn compressorkoelbox, telefoons en LED-verlichting drie dagen gevoed met een enkel powerstation en een opvouwbaar zonnepaneel. Geen aggregaat, geen lawaai, geen gedoe. Ik heb daarna nog vier andere modellen getest en precies bijgehouden hoeveel Wh ik per campingdag verbruikte (gemiddeld 420 Wh). Dit zijn de 5 powerstations die ik zou aanraden voor kampeerders.

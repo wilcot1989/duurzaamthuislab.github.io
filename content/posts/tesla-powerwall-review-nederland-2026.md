@@ -24,6 +24,16 @@ faq:
     a: "Nee, je hebt geen Tesla-auto nodig. De Powerwall werkt volledig onafhankelijk met je zonnepanelen en het elektriciteitsnet. Heb je wel een Tesla? Dan kun je via de Tesla-app zowel je auto als je thuisenergie beheren."
   - q: "Is de Tesla Powerwall beter dan de Huawei Luna 2000?"
     a: "Beide zijn uitstekende thuisbatterijen. De Powerwall biedt een ingebouwde omvormer, grotere capaciteit (13,5 kWh) en automatische noodstroom. De Huawei Luna 2000 is modulair, goedkoper per kWh en breder beschikbaar in Nederland. De beste keuze hangt af van je situatie en budget."
+products:
+  - name: "Tesla Powerwall 3"
+    url: "https://www.tesla.com/nl_nl/powerwall"
+    price: "9500"
+  - name: "Huawei Luna 2000"
+    url: "https://solar.huawei.com/eu/residential/luna"
+    price: "6000"
+  - name: "EcoFlow PowerOcean"
+    url: "https://nl.ecoflow.com/products/power-ocean"
+    price: "7500"
 ---
 
 Ik heb zelf voor de Huawei Luna 2000 gekozen in plaats van de Tesla Powerwall, en mensen vragen me regelmatig waarom. Het antwoord: prijs per kWh. Maar de Powerwall 3 heeft wel degelijk sterke punten die mijn Luna mist — met name de ingebouwde omvormer en de automatische noodstroomfunctie. In deze review vergelijk ik de Tesla eerlijk met mijn eigen ervaring en de alternatieven op de Nederlandse markt.

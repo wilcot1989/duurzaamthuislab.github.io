@@ -24,6 +24,16 @@ faq:
     a: "Een 5kWh-module is 67 x 15 x 60 cm (bxdxh). De batterij wordt meestal aan de muur bevestigd in de meterkast, garage of schuur. Voor een volledig 15kWh-systeem heb je ongeveer 70 cm breedte en 180 cm hoogte nodig."
   - q: "Heeft de Huawei Luna 2000 subsidie in Nederland?"
     a: "In 2026 is er geen directe subsidie voor thuisbatterijen in Nederland. Wel zijn er lokale regelingen en experimenten met salderingsafbouw die de terugverdientijd gunstiger kunnen maken. Check altijd de actuele regelgeving bij je gemeente."
+products:
+  - name: "Huawei Luna 2000"
+    url: "https://solar.huawei.com/eu/residential/luna"
+    price: "6000"
+  - name: "Tesla Powerwall 3"
+    url: "https://www.tesla.com/nl_nl/powerwall"
+    price: "9500"
+  - name: "EcoFlow PowerOcean"
+    url: "https://nl.ecoflow.com/products/power-ocean"
+    price: "7500"
 ---
 
 Dit is de thuisbatterij die ik zelf in huis heb: de Huawei Luna 2000, 10 kWh, gekoppeld aan mijn Huawei SUN2000 omvormer en 16 zonnepanelen. Na een jaar ervaring kan ik zeggen dat deze batterij mijn eigenverbruik van 35% naar 82% heeft gebracht. In deze review deel ik mijn echte cijfers, de installatie-ervaringen en waar je op moet letten voordat je investeert.

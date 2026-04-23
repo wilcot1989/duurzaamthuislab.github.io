@@ -24,6 +24,16 @@ faq:
     a: "Ja, de afbouw geldt voor alle zonnepanelen-bezitters, ook als je ze al jaren hebt. Er is geen overgangsregeling voor bestaande installaties."
   - q: "Moet ik nu nog snel zonnepanelen aanschaffen?"
     a: "Zonnepanelen zijn nog steeds een goede investering, maar de urgentie om ze specifiek voor de salderingsregeling aan te schaffen is verminderd. Focus op een systeem dat past bij je eigen verbruik, eventueel met een thuisbatterij."
+products:
+  - name: "Huawei Luna 2000"
+    url: "https://solar.huawei.com/eu/residential/luna"
+    price: "6000"
+  - name: "Tesla Powerwall 3"
+    url: "https://www.tesla.com/nl_nl/powerwall"
+    price: "9500"
+  - name: "Tibber"
+    url: "https://tibber.com/nl"
+    price: "6"
 ---
 
 Met mijn 16 panelen (5,6 kWp) lever ik jaarlijks zo'n 2.800 kWh terug aan het net. Dankzij de salderingsregeling krijg ik daar nu het volle tarief voor — maar vanaf 2027 verandert dat. Ik heb uitgerekend dat de afbouw mij zonder maatregelen €450 per jaar zou kosten. Daarom heb ik alvast een Huawei Luna thuisbatterij geplaatst. In dit artikel leg ik uit wat de afbouw precies inhoudt en hoe jij je kunt voorbereiden.

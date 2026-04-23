@@ -22,6 +22,13 @@ faq:
     a: "Ja, als je geen gas meer nodig hebt (ook niet voor verwarming en warm water). Afsluiten kost eenmalig €100-€200, maar bespaart €200-€250 per jaar aan vastrecht (aansluitkosten). Bedenk: als je later weer gas wilt, kost heraansluiting €500-€1.000. Stap pas af als je ook verwarming en warm water elektrisch hebt."
   - q: "Welke inductiekookplaat is het beste?"
     a: "Beste alleskunner: Siemens/Bosch flexInduction (vrij plaatsbare zones, €800-€1.200). Beste budget: IKEA HUVUDSAKLIG of Etna KIF880DS (€300-€500). Beste voor koks: AEG Bridge-functie of Miele KM7000 (flexibele zones, timer per zone). Let op: kies minimaal 7.2 kW aansluitwaarde voor comfortabel koken."
+products:
+  - name: "Coolblue Inductie"
+    url: "https://www.coolblue.nl/kookplaten/inductie"
+    price: "800"
+  - name: "Bosch Inductie"
+    url: "https://www.bosch-home.nl/productoverzicht/kookplaten/inductiekookplaten"
+    price: "900"
 ---
 
 Toen ik mijn Vaillant hybride warmtepomp liet installeren, heb ik meteen de stap naar inductie gezet. Mijn gasaansluiting wil ik uiteindelijk helemaal opzeggen — dat scheelt €230 per jaar aan vastrecht alleen al. Na een jaar inductie koken kan ik zeggen: water kookt in 3 minuten, de plaat is makkelijker schoon te houden, en mijn energiekosten voor koken zijn gehalveerd. Hier deel ik de volledige vergelijking.

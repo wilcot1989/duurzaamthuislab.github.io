@@ -22,6 +22,16 @@ faq:
     a: "Ja, met een slimme laadpaal en energiemanager kun je je auto laden met zonneoverschot. Laadpalen als Easee, Alfen en Wallbox ondersteunen dit. Je bespaart €0,10-€0,25/kWh door eigen stroom te gebruiken in plaats van terugleveren. Met Home Assistant of de Tibber-app automatiseer je dit volledig."
   - q: "Hoeveel stroom verbruikt een elektrische auto per jaar?"
     a: "Bij 15.000 km/jaar en 18 kWh/100 km verbruikt een elektrische auto ca. 2.700 kWh per jaar. Kosten thuis laden: €675-€950/jaar (€0,25-€0,35/kWh). Met slim laden op dynamische tarieven of eigen zonnestroom: €350-€600/jaar. Ter vergelijking: een benzineauto kost €1.800-€2.500/jaar aan brandstof."
+products:
+  - name: "Alfen Eve Single Pro-Line"
+    url: "https://alfen.com/nl/ev-laadoplossingen/eve-single-pro-line"
+    price: "1200"
+  - name: "Wallbox Pulsar Plus"
+    url: "https://wallbox.com/nl_nl/pulsar-plus"
+    price: "900"
+  - name: "EVBox Elvi"
+    url: "https://evbox.com/nl-nl/elvi"
+    price: "1100"
 ---
 
 Zodra ik een elektrische auto koop — en dat wordt dit jaar — wil ik die laden met de overschotstroom van mijn 16 zonnepanelen. Ik heb uitgerekend dat thuisladen op eigen zonnestroom me €0,05/kWh kost, tegenover €0,75 bij een snellader. Reden genoeg om de laadpaalmarkt grondig te onderzoeken. In dit artikel deel ik alles: kosten, subsidie, de beste merken en hoe je slim laadt op dynamische tarieven.

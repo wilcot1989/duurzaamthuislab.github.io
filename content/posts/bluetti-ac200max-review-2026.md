@@ -24,6 +24,16 @@ faq:
     a: "Nee, de AC200MAX ondersteunt alleen Bluetooth-verbinding met de app. Dit betekent dat je binnen bereik moet zijn (circa 10 meter) om het apparaat via de app te bedienen. Nieuwere Bluetti-modellen bieden wel Wi-Fi."
   - q: "Wat is het verschil tussen de Bluetti AC200MAX en de AC200P?"
     a: "De AC200MAX heeft een LiFePO4-batterij (langer leven, veiliger), is uitbreidbaar met B230/B300-batterijen en heeft een hogere solar-input (900W vs 700W). De AC200P gebruikt een NMC-batterij en is niet uitbreidbaar."
+products:
+  - name: "Bluetti AC200MAX"
+    url: "https://www.bluettipower.eu/products/ac200max"
+    price: "1899"
+  - name: "EcoFlow Delta 2 Max"
+    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
+    price: "1899"
+  - name: "Jackery Explorer 2000 Plus"
+    url: "https://www.jackery.com/products/explorer-2000-plus-portable-power-station"
+    price: "2299"
 ---
 
 De Bluetti AC200MAX stond een maand in mijn garage als back-up naast mijn Huawei Luna thuisbatterij. Met 2048Wh en 2200W continu is het eigenlijk een mini-thuisbatterij die je ook nog kunt meenemen. Wat ik bijzonder vind: je kunt hem uitbreiden tot 8192Wh met extra B300-pakketten. Ik heb hem uitgebreid getest — dit zijn mijn eerlijke bevindingen.
