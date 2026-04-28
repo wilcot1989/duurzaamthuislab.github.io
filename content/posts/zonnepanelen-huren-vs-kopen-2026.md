@@ -157,6 +157,83 @@ Een tussenweg is een lening specifiek voor zonnepanelen:
 
 Met een lening koop je de panelen (eigendom = hoger rendement) maar heb je geen spaargeld nodig. De maandelijkse aflossing is vergelijkbaar met een huurprijs, maar na afbetaling zijn de panelen van jou.
 
+## Jaarberekening: huren vs kopen over 10 jaar
+
+Ik maak het concreet. Zelfde huis, zelfde panelen, twee keuzes.
+
+**Uitgangspunten:**
+- 10 panelen, 4.200 Wp, gemiddeld gezin
+- Opwekking: 3.780 kWh/jaar
+- Eigen verbruik 40%: 1.512 kWh
+- Teruglevering 60%: 2.268 kWh
+- Stroomprijs: €0,30/kWh (2026), stijgt 2% per jaar
+
+**Scenario A: Kopen voor €4.500 (0% BTW, 10 panelen)**
+
+| Jaar | Besparing eigen verbruik | Teruglevering (2027+: €0,10) | Totaal | Cumulatief saldo |
+|---|---|---|---|---|
+| 1 (2026) | €454 | €680 (gesaldeerd) | €1.134 | -€3.366 |
+| 2 (2027) | €463 | €227 | €690 | -€2.676 |
+| 3 | €472 | €231 | €703 | -€1.973 |
+| 4 | €481 | €236 | €717 | -€1.256 |
+| 5 | €491 | €241 | €732 | -€524 |
+| 6 | €501 | €246 | €747 | +€223 |
+| 7-10 | ~€770/jr gem. | | ~€3.080 | **+€3.303** |
+
+**Netto na 10 jaar kopen: +€3.303**
+
+**Scenario B: Huren voor €55/maand (10 jaar contract)**
+
+| Jaar | Besparing stroom | Huurkosten | Netto per jaar | Cumulatief |
+|---|---|---|---|---|
+| 1 | €520 | €660 | -€140 | -€140 |
+| 2 | €280 (na 2027) | €660 | -€380 | -€520 |
+| 3-10 | ~€290/jr gem. | €660 | -€370/jr gem. | **-€3.480** |
+
+**Netto na 10 jaar huren: -€3.480**
+
+**Verschil na 10 jaar: €6.783** in het voordeel van kopen.
+
+Dit is een conservatieve berekening. Met energieprijsstijgingen van meer dan 2% en hogere eigen verbruik door smart home loopt het voordeel van kopen verder op.
+
+## Impact van de saldering-stop op huurcontracten
+
+Hier is iets waar de meeste huurcontract-aanbieders niet transparant over zijn: **de saldering-stop treft huurders net zo hard als kopers — maar huurders zijn minder flexibel om zich aan te passen.**
+
+Bij huur:
+- De maandelijkse huurprijs daalt niet als de saldering wegvalt
+- Jij krijgt de terugleververgoeding (laag tarief) — maar de huurprijs is berekend op de oude saldering-situatie
+- Je kunt niet eenzijdig overstappen naar dynamisch contract om het verschil te compenseren (want de panelen zijn niet van jou)
+
+Bij koop:
+- Je kunt zelf kiezen bij welke leverancier je zit
+- Overstappen naar dynamisch contract (Tibber, Frank) is direct mogelijk
+- Je kunt een thuisbatterij bijkopen om teruglevering te minimaliseren
+
+**Mijn conclusie:** Huurcontracten die na 2027 nog geen aanpassing hebben voor de saldering-stop zijn financieel ongunstig voor de huurder. Check het huurcontract op clausules over saldering-wijzigingen vóór je tekent.
+
+## De vijf meest gestelde vragen over huren vs kopen
+
+**"Ik ga over 3 jaar misschien verhuizen — dan toch beter huren?"**
+
+Niet automatisch. Bij verkoop van een woning met zonnepanelen verhoog je de woningwaarde met €3.000-€8.000 (afhankelijk van regio en systeem). De panelen zijn een asset die je overdraagt. Bij huur ben je dat geld kwijt als je vertrekt. Behalve als het huurcontract overdraagbaar is aan de nieuwe bewoner — check dit uitdrukkelijk.
+
+**"Ik heb geen €4.500 op mijn rekening staan"**
+
+Dan is een groene lening de slimste tussenweg. Via het Nationaal Warmtefonds (voor huishoudens tot ~€60.000 bruto) zijn leningen beschikbaar met 0% rente. Bij een normale bank: 2-4% groene lening. Maandlasten aflossing zijn dan vergelijkbaar met huurprijs, maar na afbetaling zijn de panelen van jou.
+
+**"Wie verzekert de panelen als ik huur?"**
+
+Bijna altijd de verhuurder. Maar check dit in het contract. Als er staat dat jij verantwoordelijk bent voor schade door jouw handelen (bijv. beschadiging bij dakwerken), dan heb je zelf een aansprakelijkheidsverzekering nodig.
+
+**"Wat als de verhuurder failliet gaat?"**
+
+De panelen blijven functioneren. Ze gaan naar de curator/faillissementsboedel. Wat onzeker is: wie ze onderhoudt en wie je terugleververgoeding uitbetaalt. Dit is een reëel risico bij kleine huurders. Bij grote partijen (Eneco, Solarwatt) is het risico kleiner maar nooit nul.
+
+**"Zijn er goede huurcontracten in 2026?"**
+
+Ja, maar let op: contracten van vóór 2025 hebben vaak geen saldering-stop clausule. Nieuwe contracten van serieuze aanbieders passen de maandprijs aan als saldering wegvalt. Slorvig geformuleerde contracten niet — dat wordt een conflict.
+
 ## Conclusie
 
 **Kopen is financieel altijd de betere keuze** — je verdient €3.700+ meer over 25 jaar en bent eigenaar van de panelen. Maar huren is een prima optie als je geen spaargeld hebt, onzeker bent over je woonsituatie, of gewoon geen gedoe wilt.

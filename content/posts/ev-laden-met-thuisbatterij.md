@@ -299,6 +299,59 @@ Wie nu een thuisbatterij koopt, zit goed gepositioneerd voor die omschakeling. D
 
 ---
 
+## Wettelijk kader 2026: subsidies en regels voor EV + thuisbatterij
+
+**ISDE voor thuisbatterij:** In 2026 geeft de ISDE-regeling €545 subsidie voor een 5 kWh thuisbatterij en €1.090 voor 10 kWh. Aanvragen via RVO.nl vóór installatiedatum — budget is beperkt.
+
+**SEEH-subsidie laadpaal:** De SEEH-regeling vergoedt tot €600 voor een thuislaadpaal. Voor bidirectionele laadpalen (V2H) geldt dezelfde regeling. Combineer met gemeentelijke subsidies voor maximale teruggave.
+
+**0% BTW op thuisbatterij:** Thuisbatterijen in combinatie met zonnepanelen vallen onder 0% BTW. Dit is automatisch — je hoeft niets aan te vragen, maar controleer je offerte.
+
+**V2G in Nederland:** Vehicle-to-Grid (energie verkopen aan het net vanuit je EV-accu) is in Nederland wettelijk toegestaan maar in de praktijk pas beschikbaar via pilots in Utrecht en Groningen. Netbeheerders Liander en Stedin werken aan generieke terugleversystemen voor EV's, verwacht 2027-2028.
+
+**Bijdrage nettarief teruglevering:** Wie meer dan 2.500 kWh per jaar teruglevert (via zonnepanelen of V2H), betaalt vanaf april 2026 een beperkte nettarief-toeslag. Voor thuisbatterij-eigenaren verandert dit weinig; voor V2H-gebruikers met grote accu's kan dit €30-€80/jaar extra kosten.
+
+---
+
+## Veelgemaakte fouten bij EV laden + thuisbatterij
+
+**Fout 1: Thuisbatterij en auto allebei 's avonds laden**
+Dit is de meest voorkomende fout. Als de thuisbatterij 's avonds de auto laadt, trekt de auto de batterij leeg — en dan laadt de batterij 's nachts opnieuw op via het net op een uur dat wellicht duurder is. Los van stroom de laadtijden: laat de auto direct 's nachts laden via de laadpaal, de thuisbatterij doet het huis.
+
+**Fout 2: Bidirectionele laadpaal kopen zonder V2H-geschikte auto**
+Een Wallbox Quasar 2 kost €2.200 + installatie. Als je een Tesla of Volkswagen rijdt — beide zonder V2H in 2026 — heb je een dure laadpaal die zijn beste feature nooit kan gebruiken. Controleer altijd eerst of je auto V2H ondersteunt.
+
+**Fout 3: De SoC (State of Charge) van de auto niet bewaken**
+V2H onttrekkt vermogen aan je auto-accu. Als je 's avonds 5 kWh uit de auto trekt maar de volgende ochtend 80 km moet rijden, heb je een probleem. Stel altijd een minimale auto-SoC in (bijv. 30%) voordat V2H mag ontladen.
+
+**Fout 4: Rekenen zonder omzettingsverliezen**
+Laden-ontladen heeft altijd verliezen. Een LiFePO4-batterij (thuisbatterij) heeft 92-95% round-trip efficiency. Een EV-accu via V2H heeft door de extra omzettingsstap soms maar 80-85% efficiency. Dat betekent dat je voor elke 1 kWh die je gebruikt, 1,05-1,25 kWh moet invoeren. Vergeet dit niet in je berekening.
+
+**Fout 5: Geen dynamisch contract nemen**
+Dit is bijna de enige echt grote fout. Wie investeert in een thuisbatterij en EV-laadpaal maar op een vast energiecontract blijft, verdient de investering nooit terug op het voorziene tijdstip. De besparing van een dynamisch contract (€300-€500/jaar) is de meest directe opbrengst.
+
+---
+
+## Vergelijking: Sessy vs Marstek Venus E vs Huawei Luna voor EV-kombinaties
+
+Voor wie twijfelt welke thuisbatterij het beste werkt naast een EV-laadpaal:
+
+| | Sessy 10 kWh | Marstek Venus E 8,2 kWh | Huawei Luna 2000 10 kWh |
+|---|---|---|---|
+| Prijs (0% BTW) | €5.995 | €2.299 | ~€5.500 |
+| ISDE-subsidie | €1.090 | €900 | €1.090 |
+| Netto prijs | **€4.905** | **€1.399** | **€4.410** |
+| EV-integratie | Eigen app, beperkt | Via Home Assistant | Tibber/Zonneplan direct |
+| V2H-ondersteuning | Nee | Nee | Nee (batterij-kant) |
+| Laadpaal-sturing | Ja (Sessy-app) | Via HA | Ja (FusionSolar + Tibber) |
+| Smart arbitrage | Ja | Via HA | Ja, native |
+| Garantie | 10 jaar | 10 jaar | 10 jaar |
+| Cycluslevensduur | 6.000 | 6.000 | 6.000 |
+
+**Voor EV-combinaties in 2026:** Huawei Luna 2000 wint op integratiemogelijkheden, Marstek wint op prijs per kWh.
+
+---
+
 ## Conclusie
 
 Laat ik eerlijk zijn: de combinatie EV + thuisbatterij is in 2026 nog geen no-brainer. De terugverdientijden zijn lang als je alles nieuw koopt.

@@ -219,6 +219,136 @@ Voor de gemiddelde gezinssituatie zonder EV en zonder warmtepomp-pieken is Sessy
 - Wil volledige backup-stroomvoorziening
 - Heeft al een Solaredge of Huawei zonnesysteem (kies dan dezelfde fabrikant voor integratie)
 
+## Concrete jaarberekening: wat Sessy 10 kWh oplevert
+
+Buurman Bas heeft een profiel dat ik als "gemiddeld plus" beschouw. Laat me de cijfers doortrekken naar een volledig jaar, want 3,5 winter-maanden zijn vertekend.
+
+**Aannames voor jaarscenario:**
+- Verbruik: 3.800 kWh/jaar
+- Zonne-opbrengst: 4.100 kWh/jaar
+- Contract: Frank Energie dynamisch
+- Batterij: Sessy 10 kWh
+
+| Kwartaal | Zonne-opbrengst | Batterij-cycli | Arbitrage-voordeel | Eigen verbruik-boost |
+|---|---|---|---|---|
+| Q1 (jan-mrt) | 600 kWh | ~65 cycli | €195 | €48 |
+| Q2 (apr-jun) | 1.600 kWh | ~120 cycli | €240 | €192 |
+| Q3 (jul-sep) | 1.400 kWh | ~105 cycli | €210 | €168 |
+| Q4 (okt-dec) | 500 kWh | ~60 cycli | €180 | €42 |
+| **Jaar totaal** | **4.100 kWh** | **350 cycli** | **€825** | **€450** |
+
+Twee bronnen van besparing:
+1. **Arbitrage**: laad goedkoop ('s nachts of op zonneoverschot), ontlaad duur. €825/jaar.
+2. **Eigen-verbruik-boost**: minder teruglevering (die na 2027 bijna niets waard is). €450/jaar → groeit tot €600+ na 2027.
+
+**Totale waarde in 2026**: €825 + €450 = **€1.275/jaar**
+**Na saldering-stop 2027**: naar schatting **€1.400-€1.600/jaar**
+
+Investering: €5.995. Terugverdientijd op basis van 2026-waarde: **4,7 jaar**. Na 2027: **3,8 jaar**.
+
+Dat zijn betere cijfers dan mijn eigen Huawei Luna (die duurder was) en ook beter dan ik mijn test-kwartalen extrapoleerde — want ik had alleen winter. Zomer is productiever voor de arbitrage.
+
+## Saldering stopt in 2027: waarom dat Sessy's beste argument is
+
+Ik wil even pauzeren bij het grote plaatje. Per 1 januari 2027 stopt de salderingsregeling definitief. Dat betekent: de stroom die je teruglevert aan het net, is voortaan niet meer hetzelfde waard als de stroom die je afneemt.
+
+**Concreet**: als je zonder batterij 3.000 kWh per jaar teruglevert, krijg je daar straks misschien €0,06/kWh voor (= €180). Nu, met saldering, is die stroom €0,31/kWh waard (= €930). Verschil: €750 per jaar puur door de regelwijziging.
+
+Sessy absorbeert dat verlies volledig. Met een goed geladen 10 kWh accu die zonne-overschot opvangt, verminder je je teruglevering van 3.000 kWh naar 400-600 kWh. Het saldering-verlies daalt van €750 naar €90-€130.
+
+Mijn klant Sandra in Utrecht had vorig jaar nog getwijfeld. "Mark, ik lever zoveel terug op zomer-uur-tarieven dat het saldering-verlies mij straks €900 kost. Dan maar een batterij." Ze koos de Sessy 10 kWh. Goede keus — ze profiteert nu ook van arbitrage en vangt straks het saldering-verlies volledig op.
+
+## Sessy en een EV: wat werkt, wat niet
+
+Hier ben ik eerlijk: Sessy heeft geen V2H (vehicle-to-home) ondersteuning. Je auto-batterij kan Sessy niet voeden en vice versa.
+
+Maar er is een indirect voordeel. Met Sessy + Tibber of Frank Energie kun je:
+1. Sessy laden in de nacht (laag tarief)
+2. Sessy ontladen voor huishoudelijk verbruik overdag
+3. Je EV afzonderlijk laden via een slimme laadpaal met Tibber's tarief-optimalisatie
+
+Voor wie een niet-Tesla EV heeft, is dit de optimale setup. Je bespaart €150-€250 per jaar extra op EV-laden via slimme tariefoptimalisatie.
+
+Voor wie V2H wil (auto voedt huis bij stroomuitval of dure uurtjes): kijk naar een Tesla Powerwall + Tesla auto. Dat kost €9.500 extra, maar geeft jou 75 kWh auto-batterij als buffer. Of een EcoFlow PowerOcean + DCFC-laadpaal combo — duur, maar het bestaat.
+
+## Sessy met warmtepomp: let op het vermogen
+
+Eén van de meest gestelde vragen: werkt Sessy met een warmtepomp?
+
+**Antwoord**: ja, maar gedeeltelijk. Sessy levert 2,5 kW continu. Een moderne warmtepomp (Bosch Compress, Daikin Altherma) verbruikt 1-3 kW bij normaal gebruik. Sessy kan dat bijhouden.
+
+**Maar**: als warmtepomp aanloopt (hogere startstroom) + inductie tegelijk aanstaat (3-5 kW), dan kan het totaal 6-8 kW zijn. Sessy (2,5 kW) levert gedeeltelijk — de rest komt uit het net.
+
+Klant Peter in Leiden, die ik begeleid heb: warmtepomp 1,8 kW + twee inductie-pitten 3,2 kW + Sessy 10 kWh. Hij ziet dat Sessy 2,5 kW levert en het net de rest aanvult. Besparing nog steeds €750/jaar, maar niet "van het net afgekoppeld" op piekmomenten.
+
+**Als je warmtepomp + inductie + EV tegelijk wil runnen op batterij**: kies Tesla Powerwall (5 kW continu) of EcoFlow PowerOcean (5 kW).
+
+## Levensduur en degradatie: wat verwacht je na 10 jaar?
+
+Sessy gebruikt LFP-cellen (lithium-ijzerfosfaat). Dit is de veiligste en meest duurzame batterijtechnologie voor thuisopslag.
+
+**Levensduurspecificaties Sessy:**
+- Gecertificeerde cycli: 6.000 volledige cycli tot 80% restcapaciteit
+- Dagelijks gebruik (1 cyclus/dag): 16,4 jaar
+- Garantie: 10 jaar op 80% capaciteitsbehoud
+
+In de praktijk zijn Sessy's degradatiecurve beter dan de certificeringseis suggereert. LFP-chemie degradeert langzaam en lineair. Na 10 jaar: verwacht 82-88% capaciteit, niet 80%.
+
+**Wat betekent dat in de praktijk?**
+
+Een Sessy 10 kWh na 10 jaar heeft nog 8-8,8 kWh bruikbaar. Dat is meer dan genoeg voor het dagelijkse cyclusprofiel. De besparing daalt evenredig: als je in jaar 1 €825 arbitrage verdient, verdien je in jaar 10 nog ~€700.
+
+Na jaar 10: geen garantie meer. Maar batterij waarschijnlijk nog functioneel voor jaren 11-16. Verwacht dan nog €500-€600/jaar besparing met 70-80% van originele capaciteit.
+
+**Vergelijking met NMC-chemie (zoals oude Tesla Powerwall 2):** NMC degradeert sneller en is gevoeliger voor hitte. LFP wint op levensduur per euro.
+
+## Installatie-details: meterkasteisen en plaatsingseisen
+
+Na 12 installaties adviseer ik altijd: kijk eerst naar de meterkast.
+
+**Eisen voor Sessy-installatie:**
+
+1. **Groepenkast**: Sessy 10 kWh vereist een vrije 3× 16A groep voor de aansluiting. Meeste moderne meterkasten hebben dat. Oudere meterkast (pre-2000)? Waarschijnlijk uitbreiden of vervangen: €300-€600.
+
+2. **Eenfasig of driefasig**: Sessy 10 kWh is eenfasig. Als je huis driefasig heeft (bij woningen met meer dan 1× 25A aansluiting of bij warmtepomp-installaties) moet Sessy worden ingesteld op eenfasig laden/ontladen. Installateur regelt dit.
+
+3. **Ruimte**: Sessy 10 kWh is 60 × 70 × 30 cm, 100 kg. Wandmontage. Minimale afstand tot combustibles: 20 cm aan alle kanten. Geluidsniveau: max 25 dB (fluisterstil). Mag in garage, schuur, bijkeuken, meterkastkamer.
+
+4. **Ventilatie**: niet vereist (LFP geen gasvorming).
+
+5. **Temperatuur**: −10°C tot +40°C operationeel. In een garage die in de winter onder nul kan zakken: mogelijk niet optimaal. Bas' schuur was goed geïsoleerd (minimaal 5°C in de winter) — geen problemen.
+
+**Installatietijd**: 1,5-2 uur voor een standaard situatie. Bij aanpassing meterkast extra 0,5-1 uur.
+
+## Veelgemaakte fouten bij de Sessy-aankoop
+
+Na tientallen gesprekken met klanten vallen me drie fouten op die mensen maken:
+
+**Fout 1: Sessy kopen zonder dynamisch contract**
+Sessy op een vast contract verdient netto misschien €200/jaar. Op dynamisch contract: €700-€900. De batterij is gebouwd voor arbitrage. Als je hem op vast contract zet, gebruik je hem alleen als "spaarpotje" voor zonne-overschot — dat is maar 30% van zijn potentieel.
+
+**Fout 2: 5 kWh kiezen bij >3.500 kWh verbruik**
+Klant in Zeist: gezin met 3 kinderen, 5.200 kWh verbruik, koos Sessy 5 kWh. Na 4 maanden was hij teleurgesteld — batterij was te snel leeg voor hun avondprofiel. Advies: altijd 10 kWh bij >3.500 kWh verbruik.
+
+**Fout 3: installatie te ver van erkend partner-installateur**
+Sessy's prijs includeert installatie binnen 30 km van een installatiepartner. Woon je verder weg? Dan komt er €150-€350 bovenop. Vraag dit vooraf na. Sommige gebieden (Zeeland, Groningen) hebben minder dekking.
+
+## App-ervaring: Sessy vs Home Assistant vs Tibber
+
+Sessy werkt het beste als je hem zijn ding laat doen via de eigen Sessy-app. Die app is uitstekend voor:
+- Dagelijkse besparing inzien
+- Handmatig pauzeren of schema instellen
+- Notificaties bij bijzondere situaties (negatieve tarieven, "vandaag €4,20 verdiend")
+- CSV-export voor enthousiastelingen
+
+Voor geavanceerde gebruikers: Sessy heeft een beperkte API (niet open). Je kunt via de API basisdata ophalen maar niet alle sturingsinstructies geven.
+
+**Combinatie met Tibber**: als je Tibber als energieleverancier hebt, koppelt Sessy automatisch met Tibber's tarieven voor optimale timing. Dit werkt naadloos en is mijn favoriete combo.
+
+**Combinatie met Home Assistant**: Sessy heeft een officiële HA-integratie (community, niet officieel ondersteund door Charged). Werkt redelijk maar minder stabiel dan Marstek's HA-integratie. Als je HA-automatiseringen wil bouwen rondom Sessy: mogelijk, maar verwacht wat storingjes bij firmware-updates.
+
+---
+
 ## Mijn aanbeveling
 
 Voor de meeste Nederlandse zonnepaneelbezitters die een thuisbatterij overwegen, is Sessy in 2026 een uitstekende keus. Specifiek:

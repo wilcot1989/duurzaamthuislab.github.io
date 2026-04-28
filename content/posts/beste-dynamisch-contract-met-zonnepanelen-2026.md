@@ -188,6 +188,89 @@ Wachten met overstappen tot januari 2027 kost je 12 × €70-€100 = **€840-�
 
 ---
 
+## Jaarberekening: drie scenario's voor zonnepaneel-bezitters
+
+Concreet doorrekenen helpt meer dan abstracte percentages. Ik doe het voor drie veelvoorkomende profielen.
+
+### Scenario A: appartement met 6 zonnepanelen
+
+- Verbruik: 2.200 kWh/jaar
+- Teruglevering: 900 kWh/jaar (beperkt dak)
+
+| Contract | Inkoop | Netbeheer | Servicegeld | Teruglever | Netto |
+|---|---|---|---|---|---|
+| Frank Energie | €330 | €264 | €60 | -€117 | **€537** |
+| Tibber | €330 | €264 | €72 | -€117 | **€549** |
+| ANWB Dynamisch | €363 | €264 | €71 | -€117 | **€581** |
+| Eneco vast | €660 | €264 | €0 | -€81 | **€843** |
+
+Besparing dynamisch vs vast: **€294-€306/jaar**.
+
+### Scenario B: tussenwoning met 14 zonnepanelen, geen EV
+
+- Verbruik: 3.500 kWh/jaar
+- Teruglevering: 2.800 kWh/jaar
+
+| Contract | Inkoop | Netbeheer | Servicegeld | Teruglever | Netto |
+|---|---|---|---|---|---|
+| Frank Energie | €525 | €420 | €60 | -€364 | **€641** |
+| Tibber | €525 | €420 | €72 | -€364 | **€653** |
+| ANWB Dynamisch | €578 | €420 | €71 | -€364 | **€705** |
+| Eneco vast | €1.050 | €420 | €0 | -€252 | **€1.218** |
+
+Besparing Frank vs Eneco vast: **€577/jaar**.
+
+### Scenario C: gezinswoning met 20 zonnepanelen + EV
+
+- Verbruik: 5.800 kWh/jaar (incl. EV-laden)
+- Teruglevering: 3.500 kWh/jaar
+- EV slim laden levert extra €350/jaar bij Tibber (native charging)
+
+| Contract | Inkoop | Netbeheer | Servicegeld | Teruglever | EV-extra | Netto |
+|---|---|---|---|---|---|---|
+| Tibber | €870 | €696 | €72 | -€455 | -€350 | **€833** |
+| Frank + EVCC | €870 | €696 | €60 | -€455 | -€280 | **€891** |
+| ANWB Dynamisch | €957 | €696 | €71 | -€455 | -€200 | **€1.069** |
+| Eneco vast | €1.740 | €696 | €0 | -€315 | €0 | **€2.121** |
+
+Bij dit profiel wint Tibber door de EV-integratie. Besparing vs Eneco vast: **€1.288/jaar**.
+
+---
+
+## Veelgemaakte fouten bij de keuze van een dynamisch contract
+
+**Fout 1: Te veel kijken naar de kWh-prijs, te weinig naar servicegeld**
+EasyEnergy heeft €0 marge op EPEX maar €5,95/mnd servicegeld. Frank heeft €0 marge en €5/mnd. Verschil: €11,40/jaar. Op jaarbasis onzinnig om je beslissing op te baseren — kijk naar de totaalkosten.
+
+**Fout 2: Geen rekening houden met terugleverbeleid**
+Sommige leveranciers rekenen kosten voor negatieve prijsuren. Controleer altijd: betaal ik bij negatieve EPEX-prijs ook negatieve energie-opbrengst? Bij Frank en Tibber: ja, maar begrensd tot circa -€0,03/kWh. Bij anderen kan dit anders zijn.
+
+**Fout 3: Overstappen zonder EnergyZero of P1-meter**
+Wie overschakelt naar dynamisch zonder realtime inzicht, bespaard minder. Installeer een P1-meter (HomeWizard, €30) als eerste stap. Zie direct welke uren duur zijn en pas je gedrag aan.
+
+**Fout 4: Vergeten dat het EPEX-tarief exclusief alles is**
+Het gepubliceerde EPEX-tarief van bijv. €0,06/kWh is exclusief energiebelasting (EB), ODE en BTW. All-in betaal je in 2026 bij dat EPEX-tarief circa €0,21/kWh. Verwar de kale marktprijs niet met de all-in prijs.
+
+---
+
+## Dynamisch contract en de saldering-stop in 2027: de details
+
+Vanaf 1 januari 2027 werkt de energieafrekening anders. Wat betekent dat concreet voor jou?
+
+**Huidige situatie (2026):** Je valt onder de salderingsregeling. Verbruik en teruglevering worden jaarlijks gesaldeerd. Je betaalt feitelijk over het saldo.
+
+**Nieuwe situatie (2027):** Elk uur wordt apart afgerekend. Wat je afneemt, betaal je. Wat je teruglevert, krijg je vergoed.
+
+**Impact per contracttype:**
+
+Bij een vast contract gaat de teruglevertarief omlaag van ~€0,25/kWh (via saldering) naar ~€0,07-€0,10/kWh (teruglevertarief). Dat is een verlies van €180-€350/jaar voor een gemiddeld zonnepaneelhuishouden.
+
+Bij een dynamisch contract verandert de methode, maar niet de essentie: je krijgt al het EPEX-uurtarief voor teruglevering. In 2027 wordt dat gemiddeld €0,06-€0,14/kWh afhankelijk van het uur. Minder dan nu via saldering, maar vergelijkbaar met de teruglevertarieven bij vaste contracten — en dynamisch biedt betere inkoopmomenten.
+
+**Aanbeveling:** wie nu al een dynamisch contract heeft, hoeft in 2027 niets te doen. Wie nog vast zit, verliest in 2027 €180-€350 extra per jaar — overstappen is vrijwel altijd beter.
+
+---
+
 ## Conclusie
 
 In 2026 is **Frank Energie** voor zonnepaneel-bezitters de scherpste keus op pure prijs (~€820/jaar besparing vs vast contract).

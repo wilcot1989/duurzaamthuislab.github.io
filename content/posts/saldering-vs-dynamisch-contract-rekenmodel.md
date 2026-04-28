@@ -210,6 +210,98 @@ De drie populairste in 2026:
 
 **Voor wie**: Mensen die liever bij een grote naam zitten, niet techy, willen dynamisch maar mét vangnet.
 
+## Praktijkvoorbeeld: jaarberekening voor een modaal gezin
+
+Laten we een concreet voorbeeld doorrekenen — één huishouden, twee contracttypen, de volle 12 maanden van 2027.
+
+**Situatie:** Gezin met twee werkende ouders, twee kinderen. Ene ouder werkt drie dagen thuis. Verbruik 4.600 kWh/jaar. Zonnepanelen: 12 panelen, 4,2 kWp, opwekking 3.780 kWh/jaar, eigen verbruik 45% = 1.700 kWh, teruglevering 2.080 kWh.
+
+**Vast contract Eneco 2027 (geschatte tarieven):**
+
+| Post | Berekening | Bedrag |
+|---|---|---|
+| Afname van net (2.900 kWh) | 2.900 × €0,32 | €928 |
+| Terugleververgoeding (2.080 kWh) | 2.080 × €0,10 | -€208 |
+| Terugleverkosten gestaffeld | ~€22/maand | €264 |
+| Netbeheerkosten | Vast | €480 |
+| **Totaal energierekening** | | **€1.464** |
+
+**Frank Energie dynamisch 2027 (op basis van 2026-data + 2027-projectie):**
+
+| Post | Berekening | Bedrag |
+|---|---|---|
+| Afname van net (2.900 kWh) | 2.900 × effectief €0,26* | €754 |
+| Teruglevering (2.080 kWh) | 2.080 × effectief €0,12** | -€249 |
+| Geen terugleverkosten | €0 | €0 |
+| Netbeheerkosten | Vast | €480 |
+| **Totaal energierekening** | | **€985** |
+
+*Effectief tarief bij slim gebruik: pieken vermijden 17-20u, EV laden 's nachts, vaatwasser op middag.
+**Effectief teruglevermarkt 2027: gemiddeld iets hogere vergoeding bij dynamisch dan de minimale vaste 10 ct/kWh.
+
+**Verschil: €479 per jaar.** Dat is €40 per maand structureel meer over door een contractswisseling die je gratis kunt doen.
+
+Over 5 jaar: €2.395 extra besparing — meer dan genoeg om een goede P1-monitor en smart home-setup van te betalen, met geld over.
+
+## Veelgemaakte fouten bij de keuze
+
+### Fout 1: "Dynamisch is te onzeker"
+
+Mensen denken aan de extreme winterweek van januari 2025 waarbij de avondprijs naar €1,18/kWh ging. Wat ze vergeten: dat zijn uren, geen dagen. Het maandgemiddelde was die maand €0,29/kWh — vergelijkbaar met een vast contract. En dat was een uitzonderlijk slechte week.
+
+Structureel zijn dynamische tarieven voordeliger voor wie z'n verbruik enigszins kan sturen. En met zonnepanelen lever je toch al terug, waardoor piekuren voor jou minder relevant zijn.
+
+### Fout 2: Geen slimme meter hebben
+
+Zonder slimme meter kun je geen dynamisch contract. Maar 97% van Nederland heeft die al. Heb je hem niet? Je kunt hem gratis aanvragen bij je netbeheerder. Gemiddelde plaatsingstijd: 4-8 weken. De administratie: een formuliertje op de website van Stedin, Liander of Enexis.
+
+### Fout 3: Overstappen zonder verbruikspatroon te begrijpen
+
+Wie zijn EV 's avonds om 18u oplaadt en zijn warmtepomp 's avonds op hoogste stand zet, betaalt met dynamisch soms meer in de piekuren. De oplossing is niet "geen dynamisch", maar "slim dynamisch": EV laden 's nachts na 23u, boiler op middag, wasmachine overdag.
+
+### Fout 4: Vergeten dat ook in 2026 al bespaard kan worden
+
+"Ik wacht tot 2027 want nu maakt het toch niet uit." Fout. In 2026 kun je al €100-€400 besparen door te switchen naar dynamisch — ook met saldering nog actief. Elke maand uitstel is gemiste besparing.
+
+### Fout 5: Kleinste maandelijkse kosten als criterium nemen
+
+Mensen vergelijken de vaste maandprijs van een dynamisch contract met hun huidig bedrag en denken dat het vergelijkbaar is. Dat klopt niet: het gaat om het jaargemiddelde, en daarin wint dynamisch voor zonnepaneelhouders bijna altijd.
+
+## Wat de markt verwacht voor 2027
+
+Op basis van analyses van het Energy Institute, Energie Nederland en de Autoriteit Consument & Markt:
+
+**Vast contract:**
+- Tarieven stijgen 5-10% door hogere terugleverkosten en onbalanskosten
+- Meer leveranciers voeren verplichte terugleverkosten in als saldering wegvalt
+- Verwacht: gemiddeld vast leveringstarief 2027: €0,31-€0,34/kWh
+
+**Dynamisch contract:**
+- Meer prijsschommelingen doordat er meer zonnestroom op het net komt (positief voor wie slim stuurt)
+- Meer negatieve uren in zomerse middagen — belangrijk voor teruglevering
+- Maar ook meer goedkope nacht- en middaguren voor wie EV of boiler heeft
+- Verwacht: dynamisch gemiddeld €0,24-€0,27/kWh voor slimme gebruikers
+
+**Terugleverkosten bij vast:**
+- Vrijwel alle grote leveranciers verhogen in 2027 hun staffels met 30-50%
+- Eneco, Vattenfall verwacht richting €25-€40/maand voor middenvolume terugleveraars
+- Tibber en Frank: geen aparte terugleverkosten, nu en in 2027
+
+## De combinatie: dynamisch + thuisbatterij
+
+Het sterkste scenario is combineren:
+- **Dynamisch contract**: geen terugleverkosten, lage afname in piekuren mogelijk
+- **Thuisbatterij**: overdag opladen met zonnestroom, 's avonds ontladen
+- **Resultaat**: je teruglevering daalt naar <500 kWh/jaar, je netstroom-afname daalt sterk
+
+**Voorbeeld bij 12 panelen + 10 kWh batterij (Sessy of Huawei Luna):**
+- Teruglevering daalt van 2.080 naar ~300 kWh/jaar
+- Netstroom-afname daalt van 2.900 naar ~1.100 kWh/jaar
+- Besparing bovenop dynamisch contract: ~€450/jaar extra
+- Totale besparing vs vast contract zonder batterij: **€900+/jaar**
+
+Dit is het scenario waarvoor ik zelf gekozen heb. Dynamisch contract + batterij is voor grote installaties de gouden combinatie.
+
 ## Mijn aanbeveling
 
 Op basis van je profiel:

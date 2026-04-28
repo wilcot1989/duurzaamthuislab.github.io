@@ -233,6 +233,104 @@ Voor EV-bezitters: kies Tibber. De native EV-integratie is €30-€60/maand waa
 
 ---
 
+## Jaarberekening Frank Energie 2026: concrete euro's
+
+Ik hoor veel mensen zeggen: "Klinkt goed, maar wat betaal ik nu écht?" Hier de berekening voor een gemiddeld huishouden.
+
+**Profiel:**
+- Jaarverbruik: 3.500 kWh
+- Teruglevering: 2.000 kWh (12 zonnepanelen, gemiddeld jaar)
+- Servicegeld Frank: €5,00/mnd = €60/jaar
+
+| Post | Berekening | Bedrag/jaar |
+|---|---|---|
+| Stroominkoop variabel | 3.500 kWh × €0,15 (gem. EPEX 2025) | €525 |
+| Netbeheer + energiebelasting | 3.500 kWh × €0,12 | €420 |
+| Servicegeld | 12 × €5,00 | €60 |
+| Teruglevertarief (gem. €0,13/kWh) | -2.000 kWh × €0,13 | -€260 |
+| **Totaal per jaar** | | **€745** |
+
+Eneco vast contract equivalent bij zelfde profiel: ~€1.555/jaar.
+**Besparing met Frank: €810/jaar.**
+
+Dat is €12/jaar goedkoper dan Tibber bij dit profiel, puur door het lagere servicegeld. Klein verschil, maar over 10 jaar is dat €120 — plus de eventuele besparingen die je mist door het ontbreken van native EV-charging.
+
+---
+
+## Frank Energie en de saldering-stop: wat verandert er voor jou?
+
+Per 1 januari 2027 verdwijnt de saldering. Dit is de meest impactvolle verandering voor zonnepaneel-bezitters in jaren. Wat betekent dat voor Frank-klanten?
+
+**Huidig (2026):** Je telt verbruik en teruglevering tegen elkaar weg. Netto 1.500 kWh verbruikt? Dan betaal je ook voor 1.500 kWh, ook al heb je 2.000 kWh geproduceerd en 3.500 kWh afgenomen.
+
+**Vanaf 2027:** Verbruik en teruglevering worden afzonderlijk afgerekend. Je betaalt voor elke kWh die je van het net afneemt. Je teruggeleverde kWh krijg je vergoed tegen het teruglevertarief.
+
+Bij Frank Energie is dat teruglevertarief het EPEX-uurtarief. In de praktijk: gemiddeld €0,05-€0,12/kWh in 2027, afhankelijk van marktomstandigheden.
+
+**Rekenmodel post-2027 bij Frank:**
+- Afname van net: 3.500 kWh × €0,27/kWh (all-in) = €945
+- Teruglevering: 2.000 kWh × €0,08/kWh (geschat teruglevertarief) = €160
+- Servicegeld: €60
+- **Netto kosten: €845/jaar**
+
+Dat is duurder dan nu, maar nog altijd €700 goedkoper dan bij een vast contract in 2027 — want vaste contracten zullen de extra kosten van de saldering-stop doorberekenen in hogere tarieven.
+
+**Conclusie:** Frank-klanten zijn het best gepositioneerd voor 2027. Geen saldering-verlies via het tarief, geen verrassingen.
+
+---
+
+## Veelgemaakte fouten bij Frank Energie
+
+Ik begeleid jaarlijks tientallen mensen bij hun energiekeuze. Dit zijn de fouten die ik het vaakst zie bij Frank-klanten.
+
+**Fout 1: Boilerwater altijd op hetzelfde tijdstip verwarmen**
+Als je een elektrische boiler hebt (of hybride warmtepomp), stel die dan in op variabele tijden. Frank heeft geen automatische sturing, dus je regelt het zelf via een tijdschakelaar. De optimale tijden: 02:00-06:00 's nachts (gemiddeld €0,07-€0,09/kWh) of 12:00-15:00 op zonnige dagen.
+
+**Fout 2: Niet gebruik maken van EnergyZero**
+Frank Energie ondersteunt de EnergyZero-app — volledig gratis, werkt op je P1-poort. Je ziet dan realtime verbruik en kunt dat combineren met de Frank-prijsgrafiek. Wie dat niet instelt, mist het inzicht dat nodig is voor slim verbruiken.
+
+**Fout 3: Denken dat Frank automatisch slim is**
+Frank is een transparant contract, maar geen smart-energy-platform. De automations moet je zelf inrichten — via Home Assistant, een slimme thermostaat, of handmatig prijzen checken in de app.
+
+**Fout 4: Vergeten om periodiek te vergelijken**
+Frank rekent geen marge, maar de marktprijzen veranderen. Check elke 6 maanden of hun servicegeld nog concurrerend is. In 2026 is €5/mnd voor stroom de standaard — als iemand ooit €3/mnd aanbiedt met dezelfde transparantie, overweeg dan een overstap.
+
+---
+
+## Frank Energie + combinatie-installaties
+
+Frank werkt het best als je het combineert met slimme hardware.
+
+### Frank + zonnepanelen (de standaard)
+
+Teruglevering bij Frank = EPEX-uurtarief. Op een zonnige dinsdag in mei betaalde ik in 2025 gemiddeld €0,18/kWh voor teruglevering — meer dan het gemiddelde van het jaar. In de zomer verdien ik netto geld.
+
+De truc: bij Frank krijg je het volledige marktprijs voor teruglevering, zonder aftrek. Bij sommige andere leveranciers is er een "transport- en balanceringsvergoeding" die ze inhouden op het teruglevertarief. Frank doet dat niet.
+
+### Frank + thuisbatterij via Home Assistant
+
+Frank heeft geen eigen batterijsturing zoals Zonneplan. Maar via Home Assistant met de Frank Energie integratie (beschikbaar op HACS) kun je je thuisbatterij wel degelijk automatisch laten laden op goedkope uren en ontladen op dure uren.
+
+Mijn setup: Sessy thuisbatterij + Home Assistant + Frank Energie integratie = volledig automatische arbitrage. Gemiddelde extra opbrengst: €140-€160/jaar.
+
+### Frank + EVCC (open-source laadpaal-software)
+
+Geen native EV-charging bij Frank, maar met EVCC — gratis open-source software — koppel je jouw laadpaal aan Frank's EPEX-prijzen. EVCC laadt je auto automatisch als de prijs onder een ingestelde drempel zakt.
+
+Ondersteunde laadpalen: Easee, Alfen, Wallbox, ABB Terra, en tientallen anderen. Ondersteunde auto's: bijna allemaal. Gooit Tibber's native EV-sturing van zijn voetstuk? Niet helemaal, maar het is gratis.
+
+---
+
+## Wettelijk kader 2026 en wat Frank anders doet
+
+Twee wettelijke veranderingen in 2026 zijn relevant voor Frank-klanten.
+
+**Leveringszekerheidseis**: Energieleveranciers moeten per 2026 een liquiditeitsreserve aantonen van minimaal 3 maanden omzet. Frank Energie voldoet hieraan — dit is relevant na de golf van faillissementen van kleinere dynamische leveranciers in 2022-2023.
+
+**Teruglevergrens nettarief**: Per 1 april 2026 mogen netbeheerders een variabele nettarieftoeslag rekenen voor huishoudens die meer dan 2.500 kWh per jaar terugleveren. Dit geldt ongeacht je energieleverancier. Voor de meeste zonnepaneel-bezitters is dit ±€40-€80/jaar extra netbeheerkosten. Frank heeft hier geen invloed op — het is een netbeheerderskwestie.
+
+---
+
 ## Conclusie
 
 Frank Energie is de stille winnaar van de Nederlandse energiemarkt voor 2026. Geen flashy marketing, geen sociale-media-buzz zoals Tibber, gewoon eerlijke prijzen en degelijke service.

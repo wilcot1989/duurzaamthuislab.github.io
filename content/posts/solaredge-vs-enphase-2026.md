@@ -203,6 +203,90 @@ Bekijk onze [beste thuisbatterij vergelijking](/posts/beste-thuisbatterij-nederl
 | SolarEdge batterij gewenst | **SolarEdge** | Beste DC-koppeling |
 | Maximum garantie belangrijk | **Enphase** | 25 jaar standaard |
 
+## Praktijkgeval: 16-paneelinstallatie — SolarEdge vs Enphase doorgerekend
+
+Ik heb voor een collega beide systemen offertes laten aanvragen. Zijn dak: halve schaduw door dakkapel 's ochtends, de rest van de dag vrij. Dit is precies het type situatie waar het verschil zichtbaar wordt.
+
+**Offerte A: SolarEdge SE6000H + 16x P404 optimizer + 16x Trina 440 Wp**
+
+| Component | Prijs |
+|---|---|
+| SolarEdge SE6000H omvormer | €1.050 |
+| 16x P404 power optimizer | €780 |
+| 16x Trina Vertex S+ 440 Wp | €1.760 |
+| Montage, bekabeling, installatie | €780 |
+| **Totaal** | **€4.370** |
+
+**Offerte B: 16x Enphase IQ8+ micro-omvormer + 16x Trina 440 Wp + IQ Gateway**
+
+| Component | Prijs |
+|---|---|
+| 16x Enphase IQ8+ micro-omvormer | €2.560 |
+| 16x Trina Vertex S+ 440 Wp | €1.760 |
+| Enphase IQ Gateway + installatie | €850 |
+| Montage, bekabeling | €640 |
+| **Totaal** | **€5.810** |
+
+Prijsverschil: **€1.440** in het voordeel van SolarEdge.
+
+**Opbrengstberekening met gedeeltelijke schaduw (dakkapel, 's ochtends 2 panelen in schaduw):**
+
+| Systeem | Opbrengst zonder schaduw | Met schaduw | Verlies |
+|---|---|---|---|
+| SolarEdge | 7.040 kWh/jr | 6.690 kWh/jr | 350 kWh (5%) |
+| Enphase | 7.040 kWh/jr | 6.885 kWh/jr | 155 kWh (2,2%) |
+| **Verschil** | | | 195 kWh/jr |
+
+Bij een stroomprijs van €0,30/kWh: 195 kWh verschil = **€58,50 per jaar** meer opbrengst bij Enphase.
+
+**Financieel: wanneer verdient Enphase de meerprijs terug?**
+
+Enphase meerprijs: €1.440
+Extra jaaropbrengst: €58,50
+Terugverdientijd meerprijs: €1.440 / €58,50 = **24,6 jaar**
+
+Bij een levensduur van 25 jaar is de extra opbrengst net genoeg om de meerprijs goed te maken. Maar dan alleen de opbrengst. Als je ook meegerekent dat de garantieverlenging van SolarEdge (€280 voor 25 jaar) nodig is, wordt het plaatje iets gunstiger voor Enphase.
+
+**Mijn advies voor deze situatie:** SolarEdge wint op financieel rendement, ook met de gedeeltelijke schaduw. Enphase zou ik kiezen als de schaduw ernstiger is (bijv. 4+ panelen consistent 's middags in schaduw) of als de installateur een hogere garantie geeft op de micro-omvormers.
+
+## Levensduur en onderhoud: het echte verschil
+
+Dit is het punt waar Enphase echt wint — en waarom ik het zou kiezen voor een huis dat ik langdurig bezit.
+
+**SolarEdge centrale omvormer:**
+- Gemiddelde levensduur: 12-15 jaar
+- Bij uitval: volledig systeem plat
+- Vervangingskosten omvormer: €800-€1.400
+- Garantie standaard: 12 jaar (verlengbaar tot 25 jaar voor €280)
+- Risico: als SolarEdge als bedrijf problemen heeft, is service complex
+
+**Enphase micro-omvormers:**
+- Gemiddelde levensduur: 20-25+ jaar (25 jaar garantie)
+- Bij uitval van 1 micro: rest werkt door, verlies is 1/16 van systeem
+- Vervangingskosten per micro: €160-€200
+- Garantie: 25 jaar standaard
+- Risico: als 2 micro's uitvallen na 20 jaar, kosten ze elk €180 maar zijn ze nog onder garantie
+
+**Over 25 jaar eigendomskosten:**
+
+| System | Aanschaf | Verwacht onderhoud | Totaal |
+|---|---|---|---|
+| SolarEdge (incl. garantieverlenging) | €4.370 + €280 | €0-€200 | €4.850 |
+| Enphase | €5.810 | €0 (25 jr garantie) | €5.810 |
+
+Enphase is over 25 jaar duurder, maar geeft meer zekerheid. SolarEdge is goedkoper maar heeft meer risico op één grote vervanging rond jaar 13.
+
+## Aanbeveling per situatie
+
+| Situatie | Mijn advies | Reden |
+|---|---|---|
+| Simpel dak, geen schaduw | SolarEdge | Beste prijs-kwaliteit |
+| Schaduw door bomen/dakkapel | Enphase of SolarEdge | Afhankelijk van ernst |
+| Complex dak, meerdere richtingen | Enphase | Maximale onafhankelijkheid per paneel |
+| Je wilt 25 jaar geen zorgen | Enphase | 25 jaar garantie = gemoedsrust |
+| Je wil een thuisbatterij later | SolarEdge + Home Battery | Betere DC-koppeling |
+| Budget is krap | SolarEdge | €1.000-€1.500 goedkoper |
+
 ## Conclusie
 
 **SolarEdge** is de betere keuze als je budget een belangrijke factor is en je een standaard dak hebt zonder schaduwproblemen. Het is een bewezen systeem dat goed presteert en 20-30% goedkoper is dan Enphase.

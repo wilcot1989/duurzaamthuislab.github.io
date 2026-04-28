@@ -125,6 +125,73 @@ Het verschil is verwaarloosbaar: €0-€50 per jaar. Soms is groene stroom zelf
 
 Vergelijk dynamische energiecontracten in onze [uitgebreide vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/).
 
+## Jaarberekening: wat kost groene stroom extra?
+
+Ik zie online veel vage uitspraken als "groene stroom kost bijna niets extra". Hier is de concrete berekening.
+
+**Profiel: huishouden 3.500 kWh/jaar**
+
+| Component | Grijze stroom (vast Eneco) | Groene stroom (Vandebron dynamisch) | Verschil |
+|---|---|---|---|
+| Energiebelasting | €597 | €597 | €0 |
+| Netbeheerkosten | €350 | €350 | €0 |
+| Variabele leveringskosten | €490 | €475 | -€15 |
+| Vaste leveringskosten/servicegeld | €70 | €60 | -€10 |
+| GvO-toeslag leverancier | €0 | €25 | +€25 |
+| **Totaal per jaar** | **€1.507** | **€1.507** | **€0** |
+
+Opvallend: in dit scenario kost groene stroom letterlijk hetzelfde als grijze stroom. Dat is 2026 de realiteit voor de meeste huishoudens.
+
+In sommige scenario's is groene stroom zelfs goedkoper:
+- Vandebron en Greenchoice bieden regelmatig actietarieven voor nieuwe klanten
+- Groene leveranciers hebben lagere marge omdat hun inkoopstructuur anders is
+- GvO-kosten zijn gedaald van €5-€8/MWh (2021) naar €2-€4/MWh (2026)
+
+---
+
+## Veelgemaakte fouten bij de keuze van groene stroom
+
+**Fout 1: Vertrouwen op het "100% groen" label**
+Bijna alle Nederlandse leveranciers claimen 100% groene stroom. Dat zegt niets over de kwaliteit van het groen. Budget Energie koopt Noorse waterkracht-GvO's voor €0,50/MWh; Vandebron verbindt je direct aan Nederlandse windmolens. Beiden claimt "100% groen". Alleen het stroometiket (ACM) laat het verschil zien.
+
+**Fout 2: Denken dat groene stroom zichtbaar groener is**
+Fysiek stroomt de stroom van de dichtstbijzijnde centrale door jouw kabels. Je kunt niet kiezen welke elektronen je gebruikt. Het verschil is administratief — GvO-certificaten bewijzen dat er ergens groene energie opgewekt is. Dat is het hele systeem.
+
+**Fout 3: Vergeten dat je eigen gedrag meer impact heeft**
+Voor- en tegenstanders discussiëren eindeloos over GvO's. Ondertussen mist iedereen het punt: LED-lampen, een slimme thermostaat en verbruik verschuiven naar goedkope uren heeft 3-5× meer impact op je CO₂-voetafdruk dan kiezen tussen groene leveranciers.
+
+**Fout 4: Niet combineren met een dynamisch contract**
+De groenste keuze is stroom verbruiken op het moment dat er veel wind- en zonne-energie beschikbaar is. Dat is precies wanneer de dynamische prijs laag is. Een dynamisch contract bij een groene leverancier (Vandebron, Tibber) combineert financieel voordeel met de hoogste feitelijke groene impact.
+
+**Fout 5: Stoppen bij de leverancierskeuze**
+Groene stroom kiezen is een kleine stap. De echte stappen: zonnepanelen plaatsen (1.500-3.000 kg CO₂/jaar reductie), warmtepomp installeren (1.000-2.000 kg/jaar reductie), en je auto elektrisch maken (1.500-3.500 kg/jaar reductie afhankelijk van rijkilometers). Dat zijn de beslissingen die echt meetbaar zijn.
+
+---
+
+## Wettelijk kader 2026: wat verandert er?
+
+**GvO-regelgeving aangescherpt:** De Europese Commissie heeft in 2025 besloten dat leveranciers vanaf 2027 het land van herkomst van GvO's expliciet op de rekening moeten vermelden. Buitenlandse GvO's (Noorwegen, Italië) moeten voortaan apart gelabeld worden van Nederlandse. Dit maakt greenwashing inzichtelijker.
+
+**Additioneel groen:** De begrip "additioneel" (stroom die alleen opgewekt wordt dankzij de vraag naar groene certificaten) wordt in Europees kader vastgelegd. Leveranciers die additioneel groen claimen moeten aantonen dat ze nieuwe projecten financieren. Dit is een stap richting echte transparantie.
+
+**Energielabel leveranciers (ACM):** Het ACM-stroometiket dat elke leverancier jaarlijks moet publiceren, wordt per 2026 uitgebreid met een CO₂-intensiteitsgetal (g CO₂ per kWh). Zo kun je ook objectief vergelijken welke leverancier de laagste koolstofintensiteit heeft — los van de GvO-certificaten.
+
+---
+
+## Vergelijking: drie niveaus van groen
+
+Als je kiest voor groene stroom, zijn er grofweg drie niveaus:
+
+| Niveau | Wat het is | Voorbeeld | CO₂-effect | Extra kosten |
+|---|---|---|---|---|
+| **Basis-groen** | Buitenlandse GvO's (Noorwegen, Albanië) | Vattenfall, Budget Energie | Minimaal | €0-€10/jaar |
+| **Middel-groen** | Europese GvO's mix (deels NL) | Greenchoice, Eneco | Beperkt | €10-€30/jaar |
+| **Echt groen** | Direct gekoppeld aan NL wind/zon | Vandebron, Pure Energie | Goed | €20-€50/jaar |
+
+De meest effectieve keuze is **echt groen + dynamisch contract**: je koopt stroom op de uren dat er het meest wind- en zonne-energie in het net zit, én je leverancier investeert in nieuwe Nederlandse opwek. Vandebron biedt beide.
+
+---
+
 ## Conclusie
 
 Het prijsverschil tussen groen en grijs is verwaarloosbaar (€0-€50/jaar). Kies daarom altijd groen — maar kijk verder dan het label. De echt groene leveranciers investeren in nieuwe Nederlandse wind- en zonneparken. Check het ACM-stroometiket en kies een leverancier met >80% Nederlandse opwek.

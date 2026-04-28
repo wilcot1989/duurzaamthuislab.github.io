@@ -240,6 +240,93 @@ Daikin werkt via een uitgebreid netwerk van gecertificeerde installateurs. Vraag
 
 ---
 
+## Veelgemaakte fouten bij de Daikin Altherma 3
+
+In de gesprekken die ik voer en de installaties die ik volg, zie ik steeds dezelfde dingen misgaan.
+
+### 1. Warmtepomp installeren zonder aanvoertemperatuur te optimaliseren
+
+Dit is de meest voorkomende fout. Een installateur stelt de aanvoertemperatuur in op 60°C "omdat de radiatoren dat altijd gebruikten". Maar moderne verwarmingscurven zijn dynamisch: bij 5°C buiten heb je misschien 55°C aanvoer nodig, bij 12°C buiten volstaat 40°C. Een Daikin Altherma 3 die altijd op 60°C rijdt haalt SCOP 3,4 — terwijl dezelfde pomp met een goed ingestelde stooklijn SCOP 4,5 haalt. Vraag je installateur om de stooklijn samen met jou door te lopen en leg dit vast in de eindaflevering.
+
+### 2. Een te groot model kiezen
+
+Meer vermogen klinkt als meer zekerheid. Maar een 11 kW-pomp in een woning met een warmteverlies van 6 kW modulert continu op zijn laagste stand, werkt minder stabiel en verbruikt meer door aan/uit-cycli dan een goed dimensioneerde 8 kW. Laat altijd een warmteverliesberekening (NEN 12831) maken. Dit kost de installateur 1-2 uur en beschermt je tegen een verkeerd gedimensioneerd systeem.
+
+### 3. Geen aandacht voor de inregelperiode
+
+De Daikin Altherma 3 heeft een commissioning-procedure die gemiddeld 2-4 uur duurt. Hierin worden de stooklijn, het gewenste temperatuurprofiel en de stille modus ingesteld. Installateurs die onder tijdsdruk staan, slaan dit soms over of doen het minimaal. Gevolg: de pomp werkt, maar niet optimaal. Vraag bij oplevering om een commissioning-rapport.
+
+### 4. Levertijd onderschatten
+
+In het voor- en naseizoen (september-november en januari-maart) lopen de levertijden op tot 10-14 weken. Ik ken mensen die eind augustus een offerte tekenden en hun pomp pas in december ontvingen — net op tijd, maar na drie koude maanden met alleen de cv-ketel. Plan je installatie in het voorjaar (april-juni) of de vroege zomer.
+
+### 5. Geen driefase controleren bij grote modellen
+
+De 11 en 14 kW-modellen vereisen driefase aansluiting (3×400V). Als je woning enkelfase heeft, kost het aanleggen van driefase €800-€1.500 extra. Vraag de installateur altijd naar de elektrische vereisten van het specifieke model vóór je de offerte accepteert.
+
+## Onderhoud en servicekosten over 10 jaar
+
+De Daikin Altherma 3 vraagt meer gespecialiseerd onderhoud dan een cv-ketel, maar minder dan veel mensen verwachten.
+
+| Post | Frequentie | Kosten |
+|------|-----------|--------|
+| Jaarlijks onderhoud (Daikin-gecertificeerd) | 1× per jaar | €160-€250 |
+| Lamellen buitenunit reinigen | 1× per jaar | Zelf doen (15 min) |
+| Filter binnenunit vervangen | 1× per jaar | €30-€50 |
+| Koelmiddel controle | Elke 4 jaar | €100-€150 |
+| Werkelijke storing (eens in 10 jaar, schatting) | — | €300-€800 |
+| **Totaal per jaar (gemiddeld)** | — | **€190-€310** |
+| **10-jaar totaal** | — | **€1.900-€3.100** |
+
+Daikin biedt garantieverlenging tot 7 jaar als onderhoud via een Daikin-gecertificeerd bedrijf verloopt. Na 7 jaar is het verstandig een servicecontract te sluiten. Daikin-dealers bieden dit aan voor €180-€220/jaar inclusief onderhoud, storingsdienst en voorrijdkosten.
+
+### Wat als de pomp buiten garantie kapot gaat?
+
+Na 15 jaar: de compressor (de duurste component) is dan waarschijnlijk aan vervanging toe. Daikin-compressoren zijn van eigen makelij, wat betekent dat reserveonderdelen beschikbaar zijn maar ook dat je afhankelijk bent van Daikin's onderdelenlogistiek. Prijs voor een compressorreparatie: €900-€1.600. Vergelijk dit met een volledige vervanging van een cv-ketel (€2.000-€2.500) — de Daikin-reparatie is goedkoper.
+
+## Energielabel E naar B: wat verandert er voor de Daikin?
+
+Een vraag die ik regelmatig krijg: "Ik heb nu label E. Kan ik wel een Daikin Altherma 3 nemen of moet ik eerst isoleren?"
+
+Eerlijk antwoord: bij label E is de full-electric Daikin een risico. Hier is waarom.
+
+Een label E-woning heeft een warmteverlies van 10-15 kW bij -10°C buiten. Dat vereist een grote warmtepomp (11-14 kW) én hoge aanvoertemperaturen (65-70°C) om de bestaande radiatoren te laten functioneren. Bij die aanvoertemperatuur daalt de SCOP naar 2,8-3,2. De economische businesscase wordt dan zwak.
+
+**Alternatief bij label E:** neem eerst de hybride variant (Daikin Altherma 3 R) en isoleer parallel. Na isolatie tot label C/B schakelt u over naar all-electric. Of: isoleer eerst (1-2 jaar), koop daarna de all-electric.
+
+**Bij label C/D:** de Daikin Altherma 3 H/M is goed inzetbaar als je bereid bent de aanvoertemperatuur te verlagen (via debietoptimalisatie van radiatoren of LT-radiatoren bijplaatsen). Thomas in Zeist deed dit: zijn Nijmegen-contact haalt 55°C aanvoer, Thomas zelf 40°C. Het verschil in SCOP is fors.
+
+## Vergelijking label A++ nieuwbouw versus bestaande bouw label C
+
+| Situatie | Model | SCOP praktijk | Jaarlijk stroomverbruik | Jaarlijkse kosten |
+|---------|-------|-------------|----------------------|-----------------|
+| Nieuwbouw, 120 m², label A++, vloerverw. 30°C | Altherma 3 H/M 6 kW | ~5,1 | ~2.900 kWh | €667 |
+| Bestaande bouw, 120 m², label B, vloerverw. 35°C | Altherma 3 H/M 6 kW | ~4,7 | ~3.200 kWh | €736 |
+| Bestaande bouw, 130 m², label C, radiat. 55°C | Altherma 3 H/M 8 kW | ~3,9 | ~4.000 kWh | €920 |
+| Bestaande bouw, 140 m², label D, radiat. 60°C | Altherma 3 H/M 11 kW | ~3,2 | ~5.600 kWh | €1.288 |
+
+*Stroomprijs €0,23/kWh. Warmtevraag berekend op NEN 12831.*
+
+Het verschil tussen nieuwbouw en label D-bestaande bouw is enorm: ruim €600 per jaar in energiekosten voor een vergelijkbaar grote woning. Dit illustreert waarom isolatie altijd prioriteit moet hebben boven de warmtepomp — of waarom de hybride variant bij label D een betere keuze is.
+
+## Verlengde FAQ
+
+**Is de Daikin Altherma 3 ook geschikt voor tapwater?**
+
+Ja. In combinatie met een boiler (warmwatertank) van 150-200 liter verwarmt de Daikin Altherma 3 het tapwater op. De boiler staat bij de meeste installaties ingesteld op 55°C (legionellapreventie). Eén keer per week draait hij naar 60°C voor een legionellabehandeling. Tapwaterverwarming via de warmtepomp is efficiënter dan via gas (SCOP circa 3,0 voor tapwater versus 0,9 rendement cv-ketel).
+
+**Werkt de stille modus altijd, ook bij hoge belasting?**
+
+Nee. De stille modus (35 dB) is actief bij deellast — typisch temperaturen boven 0°C buiten. Bij piekbelasting in de winter (bv. bij -7°C buiten) draait de pomp op volledig vermogen en kan het geluid oplopen tot 45-48 dB(A). Dit is 's nachts relevanter dan overdag. Programmeer de stille modus dus voor de nachturen (22:00-07:00) en laat de pomp overdag op vollast rijden als het nodig is.
+
+**Hoe vergelijkt de Daikin One-app zich met andere apps?**
+
+De Daikin One-app is kwalitatief goed: duidelijke grafische interface, historische verbruiksdata per uur, instellingen op afstand en pushberichten bij storingen. Het mist echter de koppeling met dynamische energietarieven die Tibber of vergelijkbare apps bieden. Hiervoor kun je de Daikin koppelen via Home Assistant (HACS-integratie bestaat) of via een slimme thermostaat als Tado.
+
+**Kan ik de Daikin zelf inregelen na installatie?**
+
+Via de Daikin One-app kun je de gewenste binnentemperatuur, tijdschema's en stille-modusmomenten aanpassen. De technische stooklijn (de relatie tussen buitentemperatuur en aanvoertemperatuur) is doorgaans beveiligd en vereist een installateursaccount. Vraag je installateur om de inloginformatie of een servicefunctie te activeren zodat jij zelf de stooklijn kunt aanpassen.
+
 ## Conclusie: de marktleider heeft zijn reputatie verdiend
 
 De Daikin Altherma 3 is de beste all-electric lucht-water warmtepomp op de Nederlandse markt als je kijkt naar de combinatie van efficiëntie, geluidsniveau en modulatienauwkeurigheid. SCOP 4,8, stille modus op 35 dB en een breed vermogensbereik — op die drie punten heeft geen concurrent hem ingehaald.

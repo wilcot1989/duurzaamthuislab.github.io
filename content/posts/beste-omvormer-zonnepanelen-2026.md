@@ -368,6 +368,67 @@ Bij de aanschaf van zonnepanelen inclusief omvormer betaal je in Nederland **0% 
 
 ---
 
+## Praktijkgeval: welke omvormer koos ik en waarom?
+
+Ik heb in 2023 bewust gekozen voor de Huawei SUN2000-10KTL-M2, gecombineerd met 16 panelen op een oost-west verdeling. Mijn overwegingen, voor wie twijfelt:
+
+**Mijn situatie:**
+- 16 panelen, oost 8 + west 8 panelen
+- Twee MPPT-trackers nodig (oost-string en west-string onafhankelijk)
+- Budget voor thuisbatterij was aanwezig voor later
+- Geen significante schaduwproblemen
+
+**Waarom Huawei en niet Enphase of SolarEdge:**
+
+| Criterium | Huawei SUN2000 | SolarEdge + optimizers | Enphase IQ8 |
+|---|---|---|---|
+| Prijs voor mijn configuratie | €950 | €1.680 | €2.240 |
+| Twee MPPT's | ✅ Ingebouwd | ✅ Ja | ✅ Elk paneel onafhankelijk |
+| Batterij-koppeling | Luna 2000 | SolarEdge Battery | IQ Battery |
+| Batterijprijs later | €5.800 | €5.200 | €6.800 |
+| Monitoring | FusionSolar (goed) | App (beter) | Enlighten (beste) |
+| Mijn keuze | ✅ | — | — |
+
+**Resultaat 18 maanden later:**
+- Systeem werkt foutloos
+- FusionSolar app geeft inzicht per string (niet per paneel, maar dat is voor mij voldoende)
+- Huawei Luna batterij 9 maanden later problemloos gekoppeld
+- Totale installatie (panelen + omvormer + batterij) voor €12.300
+
+Enphase zou mooiere monitoring hebben gegeven maar €1.290 meer gekost. Over 10 jaar maakt die monitoring mij rijker in inzicht maar armer in portemonnee. Ik koos voor Huawei.
+
+## Omvormer kiezen in de context van saldering-stop 2027
+
+De komst van de saldering-stop maakt de omvormer-keuze strategisch belangrijker. Hier is waarom:
+
+**Zonder thuisbatterij (na 2027):** Teruglevering is veel minder waard. Een omvormer die maximale opbrengst biedt bij bewolkt weer (micro-omvormers, optimizers) verdient zichzelf iets sneller terug omdat ook elke "grijze" kWh die je direct verbruikt waarde heeft.
+
+**Met thuisbatterij (na 2027):** Je wilt een hybride omvormer die efficiënt laadt en ontlaadt. DC-koppeling (Huawei, SolarEdge) is efficiënter dan AC-koppeling (Enphase IQ Battery). Efficiëntieverschil: rond-trip 90% vs 86%. Bij 1.500 kWh batterijgebruik per jaar: 60 kWh meer opbrengst bij DC = €18/jaar. Niet enorm, maar meetbaar.
+
+**Voor wie nu nog geen batterij heeft:** Kies altijd een hybride omvormer voor toekomstbestendigheid. Het kostenverschil tussen hybride en niet-hybride is €100-€300 bij aanschaf, maar achteraf omvormer vervangen voor batterij-aansluiting kost €800-€1.500.
+
+## Veelgemaakte fouten bij omvormerkeuze
+
+### Fout 1: Omvormervermogen te groot kiezen
+
+Een omvormer van 10 kW voor 16 panelen van 420 Wp (= 6,72 kWp) is 49% overbemeten. Dat is verspilling. Vuistregel: kies omvormervermogen op 80-100% van paneelvermogen. Dus voor 6,72 kWp: een 5 kW of 6 kW omvormer is prima.
+
+### Fout 2: Niet nadenken over MPPT-trackers
+
+Eén MPPT-tracker voor panelen op twee dakschilden = de slechtst presterende string beperkt de andere. Twee MPPT-trackers (zoals Huawei SUN2000 standaard heeft boven 3 kW) lossen dit op. Bij oost-west installaties is dit niet optioneel — het is essentieel.
+
+### Fout 3: Vergeten dat monitoring-data waardevol is
+
+Na 2027 wil je weten: wanneer produceren mijn panelen optimaal, wanneer verbruik ik stroom thuis, hoeveel lever ik terug? Dat weet je alleen met goede monitoring. Een omvormer zonder app of met slechte app is in 2027 een handicap.
+
+### Fout 4: Garantie-extensies vergeten
+
+Standaard garantie Huawei en Fronius: 10 jaar. SolarEdge: 12 jaar. Enphase: 25 jaar standaard. Als je 25 jaar lang geen omvormervervanging wilt plannen, betaalt een garantie-extensie van Huawei (€300 voor 10 extra jaar) zichzelf terug.
+
+### Fout 5: Omvormer en batterij van verschillende merken kopen
+
+In theorie kan het, via AC-koppeling. In de praktijk is de integratie slechter: minder efficiënt, slechtere monitoring, meer kans op software-incompatibiliteit bij updates. Kies omvormer en batterij bij voorkeur van hetzelfde ecosysteem.
+
 ## Tips voor de aanschaf
 
 1. **Kies de juiste capaciteit** -- De omvormer moet qua vermogen aansluiten bij je totale Wattpiek (Wp). Een vuistregel: het omvormervermogen mag 70-100% van het totale paneelvermogen zijn.

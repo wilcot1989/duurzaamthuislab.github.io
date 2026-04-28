@@ -132,6 +132,128 @@ Al besloten dat je een warmtepomp wilt? Bekijk onze [top 5 hybride warmtepompen]
 4. **Subsidie vergeten** — ISDE-subsidie van €3.000-€5.500 maakt een enorm verschil
 5. **Alleen op prijs letten** — COP-waarde, garantie en servicereseau zijn minstens zo belangrijk
 
+## Renovatie versus nieuwbouw: twee heel verschillende situaties
+
+De keuze tussen warmtepomp en cv-ketel is in bestaande bouw fundamenteel anders dan bij nieuwbouw of ingrijpende renovatie. Ik leg het verschil uit aan de hand van twee situaties die ik recent begeleid heb.
+
+### Bestaande bouw: Karel in Utrecht (1975, label D)
+
+Karel belde me omdat zijn cv-ketel van 11 jaar oud haperde. Zijn woning: tussenwoning 1975, label D, spouwmuur niet geïsoleerd, dubbel glas maar verouderd, radiatoren op 65°C aanvoer. Gasverbruik: 1.850 m³/jaar.
+
+**Optie A: nieuwe cv-ketel (HR-combi)**
+- Aanschaf + installatie: €2.200
+- Geen subsidie
+- Jaarlijkse energiekosten: €1.943 (1.850 m³ × €1,05)
+- Onderhoud: €120/jaar
+
+**Optie B: hybride warmtepomp (Daikin Altherma 3 H Hybrid)**
+- Aanschaf + installatie: €6.800
+- ISDE-subsidie: –€3.100
+- Netto investering: €3.700
+- Geschat gasverbruik na installatie: 620 m³/jaar
+- Extra elektra: 1.250 kWh × €0,23 = €288
+- Jaarlijkse energiekosten: €939
+- Onderhoud: €175/jaar
+
+**Optie C: eerst spouwmuurisolatie + dakisolatie, dan hybride warmtepomp**
+- Spouwmuurisolatie: €1.400 (ISDE-subsidie: –€850 = netto €550)
+- Dakisolatie: €2.900 (ISDE: –€1.500 = netto €1.400)
+- Hybride warmtepomp na isolatie: €6.800 (ISDE: –€3.100 = netto €3.700)
+- Totale netto investering: €5.650
+- Verwacht gasverbruik na alles: 450 m³/jaar
+- Jaarlijkse energiekosten: €680
+- Besparing vs. status quo: **€1.388/jaar**
+- Terugverdientijd: 4,1 jaar
+
+Ik heb Karel optie C aangeraden. De extra €1.950 voor isolatie vergt slechts 1,4 jaar extra om terug te verdienen, maar geeft hem een label C-woning in plaats van label D — wat ook de waarde bij verkoop verhoogt.
+
+### Nieuwbouw of ingrijpende renovatie: Sandra in Almere (2026, label A++)
+
+Bij nieuwbouw is de vergelijking simpel. Een cv-ketel mag in nieuwbouw al jaren niet meer worden aangelegd (BENG-norm). Sandra liet haar jaren-zeventig woning volledig renoveren — vloerverwarming, driedubbel glas, buitengevelisolatie, nieuwe groepenkast.
+
+In haar geval was een full-electric warmtepomp (Vaillant aroTHERM plus 8 kW) de enige logische keuze: de woning had geen bestaande cv-installatie meer, de vloerverwarming was ontworpen op 35°C aanvoer en de SCOP van 4,5 bij die lage aanvoer maakt de berekening eenvoudig.
+
+Haar jaarlijkse verwarmingskosten: circa €680 voor een woning van 145 m² — inclusief tapwater. Dat is €40 per maand.
+
+### De les
+
+Bij bestaande bouw met een lopende cv-ketel die het nog doet: een hybride warmtepomp is bijna altijd de slimste eerste stap. Bij renovatie of nieuwbouw: ga direct full-electric. De hybride als tussenstap bij een ingrijpende renovatie verspilt geld aan een cv-installatie die je toch sloopt.
+
+## Energielabel E of lager: eerst isoleren, dan warmtepomp
+
+Een vraag die ik veel krijg: "Mijn huis heeft label E. Kan ik gewoon een warmtepomp installeren?"
+
+Het korte antwoord: een hybride warmtepomp kan technisch in een label E-woning, maar de terugverdientijd loopt snel op naar 10-12 jaar en je profiteert maar gedeeltelijk van de investering. Hier is waarom.
+
+Bij een label E-woning (zeg 2.800 m³/jaar gasverbruik) verlies je veel warmte via de gevels, het dak en de vloer. De warmtepomp produceert warmte efficiënter dan de cv-ketel, maar moet ook meer warmte leveren om de woning op temperatuur te houden. Bovendien vereisen slecht geïsoleerde woningen hogere aanvoertemperaturen (65-70°C) om de radiatoren goed te laten werken — en bij die temperaturen zakt de COP naar 2,3-2,8.
+
+**Rekenvergelijking voor een label E-woning (2.800 m³/jaar):**
+
+| Situatie | COP | Jaarlijkse kosten | Besparing vs. cv-ketel |
+|---------|-----|-----------------|----------------------|
+| Alleen cv-ketel | — | €2.940 | — |
+| Hybride WP (label E, hoge aanvoer) | 2,7 | €1.950 | €990 |
+| Eerst isoleren tot label C, dan hybride WP | 3,8 | €1.180 | €1.760 |
+
+Isoleren tot label C kost gemiddeld €5.000-€8.000 (spouwmuur + dak + glas), maar levert via ISDE €3.000-€4.500 subsidie op. Na subsidie is de netto isolatiestap €1.500-€3.500. Gecombineerd met de warmtepomp daarna is de totale terugverdientijd 4-6 jaar — vergelijkbaar met direct een warmtepomp plaatsen in een label C-woning.
+
+**Mijn advies:** ga in dit volgorde te werk:
+1. Spouwmuurisolatie (goedkoopst, snelste terugverdientijd)
+2. Dakisolatie (tweede prioriteit)
+3. HR++ of triple glas (derde)
+4. Dan de warmtepomp
+
+Die volgorde levert subsidie op elke stap en geeft de warmtepomp de beste startpositie.
+
+## Installatie-specifieke aandachtspunten
+
+### Bouwbesluit en vergunningen
+
+Een buitenunit van een warmtepomp valt in de meeste gevallen onder vergunningvrij bouwen, mits:
+- De unit maximaal 0,75 m³ inhoud heeft
+- De unit aan of op het achtererf staat
+- De woning geen monumentenstatus heeft
+
+Grotere units of plaatsing aan de voorkant: dan is een omgevingsvergunning nodig. Die aanvraag kost €100-€200 en duurt 8 weken. Controleer dit bij je gemeente vóór de installatieplanning — anders vertraging.
+
+### Geluid en erfgrens
+
+De meeste hybride warmtepompen produceren 45-50 dB(A) bij normaal gebruik. Op 3 meter afstand is dat vergelijkbaar met een gesprek in normale toon. Gemeentelijke APV-regels variëren, maar de vuistregel is: 1 meter van de erfgrens is het minimum, 2 meter is comfortabeler.
+
+Ik heb situaties gezien waarbij buren klaagden over geluidsoverlast. Dat was vrijwel altijd te voorkomen geweest door de buitenunit niet recht tegenover een slaapkamerraam van de buren te plaatsen, zelfs als dit wel aan de afstandseis voldeed.
+
+### Koelmiddel R32: wat betekent dit praktisch?
+
+De meeste moderne hybride warmtepompen gebruiken R32. Dit koelmiddel is licht ontvlambaar (klasse A2L). Dat klinkt angstaanjagend, maar in de praktijk betekent het slechts dat de installateur een gecertificeerd F-gassen certificaat moet hebben en de installatie aan extra veiligheidseisen moet voldoen. Voor jou als eigenaar is er geen praktisch risico — mits de installateur zijn werk goed doet.
+
+## Onderhoud en kosten over 10 jaar
+
+Veel mensen vergeten de onderhoudskosten mee te nemen in hun vergelijking. Een eerlijk overzicht:
+
+**CV-ketel alleen:**
+- Jaarlijks onderhoud: €120-€150
+- Storing gemiddeld eens in 7 jaar: €300-€600
+- Totaal 10 jaar: €1.500-€2.100
+
+**Hybride warmtepomp + cv-ketel:**
+- Jaarlijks onderhoud warmtepomp: €150-€200
+- Jaarlijks onderhoud cv-ketel: €100-€130
+- Storing warmtepomp gemiddeld eens in 10 jaar: €200-€500
+- Totaal 10 jaar: €2.700-€3.800
+
+**Full-electric warmtepomp:**
+- Jaarlijks onderhoud: €150-€200
+- Storing gemiddeld eens in 10 jaar: €200-€500
+- Totaal 10 jaar: €1.700-€2.500
+
+Het verschil tussen een hybride en full-electric op onderhoudskosten is merkbaar — je betaalt twee systemen bij de hybride. Maar de hybride vereist geen dure isolatieverbouwing vooraf, wat dat verschil ruimschoots compenseert.
+
+### Levensduur realistisch bekeken
+
+Een goede cv-ketel gaat 15-20 jaar mee. Een hybride warmtepomp (het elektrische gedeelte) ook circa 15-20 jaar. De compressor is het onderdeel dat het eerst slijt — na 12-15 jaar intensief gebruik kan dit aan vervanging toe zijn (€800-€1.500).
+
+Wat ik in de praktijk zie: mensen die in 2010-2015 een warmtepomp hebben gekocht, draaien in 2026 nog op hetzelfde systeem. De technologie is volwassen genoeg om op te vertrouwen.
+
 ## Combinatie met zonnepanelen
 
 Een warmtepomp + zonnepanelen is de gouden combinatie. De zonnepanelen wekken de stroom op die de warmtepomp verbruikt, waardoor je verwarming nagenoeg gratis wordt.

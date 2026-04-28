@@ -245,6 +245,101 @@ Voor profiel B (gemiddeld gezin):
 
 Ter vergelijking: een hypotheek-aflossing of ETF wereldindex over dezelfde periode levert vergelijkbare 6-8%. **Zonnepanelen zijn financieel een redelijke investering, geen heilige graal.**
 
+## Jaarberekening: volledig concreet voorbeeld voor 2027
+
+Ik ga een specifiek huishouden doorrekenen. Niet abstract — maar met echte eurobedragen, zodat je dit kunt vergelijken met je eigen situatie.
+
+**Familie De Vries, Amersfoort:**
+- Woning: tussenwoning, dak zuidwest 30°
+- Verbruik: 3.600 kWh/jaar (2 volwassenen, 1 kind, thuiswerker)
+- Systeem: 10 panelen JA Solar 420 Wp = 4,2 kWp
+- Opwekking: 4.200 × 900 kWh/kWp = 3.780 kWh/jaar
+- Aanschafkosten: €5.200 inclusief Huawei SUN2000 omvormer en installatie (0% BTW)
+- Eigen verbruik: 35% = 1.320 kWh
+- Teruglevering: 65% = 2.460 kWh
+- Contract: Frank Energie dynamisch
+
+**Jaaropbrengst na 2027 (basis scenario, dynamisch contract):**
+
+| Post | Berekening | Bedrag |
+|---|---|---|
+| Eigen verbruik × leveringstarief | 1.320 kWh × €0,30 | €396 |
+| Teruglevering × effectief dynamisch tarief | 2.460 kWh × €0,12 | €295 |
+| Extra besparing door dynamisch vs piek mijden | Geschat | €180 |
+| Terugleverkosten Frank Energie | €0 | €0 |
+| Verzekering/onderhoud | — | -€80 |
+| **Totale jaaropbrengst** | | **€791** |
+
+Terugverdientijd: €5.200 / €791 = **6,6 jaar**
+
+Dat is beter dan de 11,9 jaar in het basisscenario, doordat Frank Energie effectief een hoger dynamisch teruglevertarief biedt en er geen terugleverkosten zijn.
+
+**Na jaar 7 (investering terugverdiend):**
+- Resterende levensduur: 18 jaar
+- Jaarlijkse besparing (met 3% energieprijsinflatie): gemiddeld €940
+- Totale netto-opbrengst jaar 8-25: **€16.900**
+
+Zonnepanelen zijn na 2027 dus nog steeds een uitstekende lange-termijn investering. De eerste 6-7 jaar betaal je de investering terug, daarna is het pure besparing.
+
+## Saldering 2027: wat verandert er precies voor jouw terugverdientijd?
+
+Dit is de vraag die ik het vaakst krijg, en ik ga hem eerlijk beantwoorden — met de getallen die ik zelf gebruik.
+
+**Het mechanisme:**
+
+Tot 2026: 1 kWh teruggeleverd = 1 kWh afname weggestreept = ~€0,30 waarde.
+Vanaf 2027: 1 kWh teruggeleverd = terugleververgoeding van leverancier = ~€0,08-€0,14.
+
+Het verschil per teruggeleverde kWh: €0,16-€0,22 verlies.
+
+**Impact per installatietype:**
+
+| Systeem | Teruglevering | Verlies 2027 vs 2026 | Effect op TVT |
+|---|---|---|---|
+| 6 panelen, laag verbruik | 1.400 kWh | €224-€308/jr | +3-4 jaar |
+| 10 panelen, gemiddeld | 2.400 kWh | €384-€528/jr | +4-6 jaar |
+| 14 panelen, gezin+EV | 1.200 kWh (slim laden) | €192-€264/jr | +2-3 jaar |
+| 16 panelen, thuiswerker | 3.500 kWh | €560-€770/jr | +6-8 jaar |
+
+Het meest getroffen zijn grote systemen waarbij mensen veel terugleverden. De minst getroffen zijn systemen waarbij mensen veel eigen verbruik hebben (EV thuis laden, warmtepomp, thuiswerken).
+
+**Mijn gouden tip:** Koop na 2026 nooit meer een systeem dat groter is dan 1,5× je jaarverbruik. Overtollige capaciteit genereert teruglevering die nauwelijks nog waarde heeft.
+
+## Levensduur en onderhoud: de cijfers
+
+Een factor die mensen onderschatten: de werkelijke technische levensduur van je installatie.
+
+**Zonnepanelen:**
+- Garantie: 25 jaar op minimaal 80% vermogen (85-92% bij premium merken)
+- Werkelijke levensduur: 30-35 jaar voor Tier 1 panelen
+- Degradatie: 0,3-0,5% per jaar (dus paneel jaar 25 = 87-91% van beginvermogen)
+- Onderhoud: nauwelijks. Jaarlijkse regenbui reinigt grotendeels. Eens per 5-10 jaar professioneel reinigen: €80-€150.
+
+**Omvormer:**
+- Gemiddelde levensduur string-omvormer: 12-15 jaar
+- Gemiddelde levensduur micro-omvormers (Enphase): 20-25 jaar
+- Vervanging: budget €800-€1.500 voor vervanging na jaar 12-15
+- Hybride omvormer (Huawei, SolarEdge): goed voor koppeling thuisbatterij zonder extra kosten later
+
+**Berekening levensduurkosten (10 panelen, 25 jaar):**
+
+| Post | Bedrag |
+|---|---|
+| Aanschaf systeem | €5.200 |
+| Omvormervervanging jaar 13 | €900 |
+| Onderhoud/reiniging (25 jr) | €400 |
+| Verzekering (25 jr) | €1.250 |
+| **Totale kosten** | **€7.750** |
+
+Tegenover totale besparing van ~€18.000-€22.000 over 25 jaar. Netto rendement: **€10.000-€14.000**.
+
+**Onderhoudstips die ik zelf gebruik:**
+1. P1-monitor installeren: binnen €60, geeft inzicht in opbrengst en storingen
+2. Jaarlijkse controle via omvormer-app (Huawei FusionSolar, SolarEdge, Enphase Enlighten)
+3. Na storm: visuele controle of panelen nog goed liggen
+4. Na 5 jaar: check of aansluitkabels op het dak nog goed zitten
+5. Na 10-12 jaar: omvormer bespreken met installateur
+
 ## Wanneer is investeren in zonnepanelen NIET slim?
 
 Eerlijk: er zijn vier situaties waarin ik mensen afraad nu nieuwe zonnepanelen aan te schaffen:

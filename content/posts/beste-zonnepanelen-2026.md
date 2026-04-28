@@ -226,6 +226,85 @@ Trina Solar Vertex S+ is ideaal als je **maximum vermogen per paneel** wilt en j
 
 *Berekening: stroomprijs €0,25/kWh, 850 kWh/kWp opbrengst, 70% eigenverbruik zonder salderen*
 
+## Praktijkvoorbeeld: wat het merk oplevert over 25 jaar
+
+Ik vergelijk drie keuzes voor hetzelfde dak. Uitgangspunten: 10 panelen, zuidwest dak 30°, stroomprijs €0,29/kWh (gemiddeld, 3% inflatie meegenomen over 25 jaar).
+
+**Scenario A: JA Solar DeepBlue 4.0 (budget)**
+- Prijs: €2.900 all-in
+- Opwekking jaar 1: 3.870 kWh
+- Degradatie: 0,45%/jaar
+- Opwekking jaar 25: 3.870 × 89,3% = 3.455 kWh
+- Omvormervervanging jaar 13: €850
+- Totale kosten 25 jaar: **€4.150**
+- Totale opbrengst 25 jaar: **€23.400** (gemiddeld €936/jaar met energieprijsinflatie)
+- **Netto: €19.250**
+
+**Scenario B: Longi Hi-MO 7 (middenklasse)**
+- Prijs: €3.750 all-in
+- Opwekking jaar 1: 4.000 kWh
+- Degradatie: 0,40%/jaar
+- Opwekking jaar 25: 4.000 × 90,5% = 3.620 kWh
+- Totale kosten 25 jaar: **€4.900**
+- Totale opbrengst 25 jaar: **€24.700**
+- **Netto: €19.800**
+
+**Scenario C: SunPower Maxeon 7 (premium)**
+- Prijs: €6.500 all-in
+- Opwekking jaar 1: 4.220 kWh
+- Degradatie: 0,25%/jaar
+- Opwekking jaar 25: 4.220 × 93,8% = 3.958 kWh
+- Geen omvormervervanging (40 jaar garantie dekt dit)
+- Totale kosten 25 jaar: **€7.000**
+- Totale opbrengst 25 jaar: **€26.500**
+- **Netto: €19.500**
+
+**Conclusie:** Over 25 jaar is het nettoverschil verrassend klein: JA Solar levert €19.250, SunPower €19.500. Het budgetpaneel compenseert de lagere opbrengst door de veel lagere aanschafkosten. Longi geeft met €19.800 zelfs het beste netto-resultaat.
+
+Dit verklaart waarom ik voor de meeste mensen **Longi** aanraad als beste prijs-kwaliteit. De premium van SunPower is niet terug te verdienen in absolute euro's — je koopt het voor garantie, reputatie en maximale opbrengst op klein dakoppervlak.
+
+## Veelgemaakte fouten bij de keuze van zonnepanelen
+
+Na gesprekken met tientallen huishoudens en installateurs zie ik steeds dezelfde fouten terugkomen. Hier zijn de vijf meest gemaakte:
+
+### Fout 1: Maximaal vol leggen voor maximale teruglevering
+
+Vóór 2025 logisch: saldering maakte elk extra paneel de moeite waard. Na 2027 is dit economisch onverstandig. Extra panelen boven ~1,5× je jaarverbruik leveren bijna alleen teruglevering op, waarvoor je nog maar €0,10/kWh krijgt.
+
+**Rekensom:** Extra 4 panelen (€1.400) leveren 1.400 kWh/jaar extra op, waarvan 85% teruglevering = 1.190 kWh × €0,10 = €119/jaar. Terugverdientijd: 12 jaar voor panelen die maar 10% van hun potentieel waarde genereren.
+
+### Fout 2: Alleen naar prijs per paneel kijken
+
+De prijs per paneel zegt niets zonder de prijs per Wattpeak (Wp). Een 415 Wp-paneel voor €180 is goedkoper dan een 440 Wp-paneel voor €195 per stuk — maar het 440 Wp-paneel is goedkoper per Wp (€0,44 vs €0,43). Vergelijk altijd op €/Wp.
+
+### Fout 3: Geen rekening houden met schaduw
+
+Eén boom of schoorsteen die 's middags schaduw geeft op één paneel kan bij een string-omvormer de opbrengst van het hele systeem met 10-25% reduceren. Oplossing: micro-omvormers (Enphase) of optimizers (SolarEdge) bij elk paneel met schaduwrisico.
+
+### Fout 4: Vergeten om de omvormer mee te nemen in de beslissing
+
+De omvormer bepaalt voor 30-40% het rendement en de toekomstbestendigheid van je systeem. Een paneel van €0,60/Wp met een goede hybride omvormer (die je later een thuisbatterij laat koppelen) is slimmer dan een paneel van €0,50/Wp met een basis string-omvormer die je over 3 jaar moet vervangen.
+
+### Fout 5: Geen slimme oriëntatie kiezen
+
+Na 2027 is een oost-west opstelling voor veel huishoudens voordeliger dan puur op het zuiden. Waarom? Oost-west geeft een bredere opwekscurve over de dag — meer uren van eigen verbruik en minder piekteruglevering in de middag. In mijn eigen berekeningen (voor huishoudens die overdag thuis zijn) is oost-west per geïnvesteerde euro soms beter ondanks 8-10% lagere totale opbrengst.
+
+## Garantie en certificeringen: waar je op let
+
+Bij de aankoop van zonnepanelen zijn er twee soorten garantie:
+
+**1. Productgarantie** — dekt materiaalfouten, fabricagefouten, defecten. Standaard 10-25 jaar. SunPower biedt 40 jaar.
+
+**2. Vermogensgarantie** — dekt de minimale output na X jaar. Standaard 80-87% na 25 jaar. SunPower/REC bieden 92% na 25 jaar.
+
+Let ook op certificeringen:
+
+- **Bloomberg Tier 1** — financiële betrouwbaarheid fabrikant. Longi, JA Solar, Trina, REC zijn allemaal Tier 1.
+- **IEC 61215 / IEC 61730** — CE-markering equivalent voor zonnepanelen. Verplicht in EU.
+- **MCS (UK)** of **KIWA (NL)** — installateur-keurmerken die garantie onderstrepen.
+
+Een panel van een onbekend merk zonder Bloomberg Tier 1 is risicovol: als de fabrikant over 10 jaar failliet is, kun je de garantie niet claimen.
+
 ## Tips bij het kiezen
 
 1. **Kijk niet alleen naar prijs per paneel** — Bereken de prijs per Wp (watt-peak) voor een eerlijke vergelijking

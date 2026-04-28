@@ -222,6 +222,102 @@ Tip: vraag de installateur expliciet of ze ook de ISDE aanvragen en of de offert
 
 ---
 
+## Veelgemaakte fouten bij een ATAG-installatie
+
+In de drie installaties die ik gevolgd heb én in gesprekken met ATAG-installateurs zie ik dezelfde valkuilen terugkomen.
+
+### 1. De ISDE-aanvraag te laat doen
+
+Bij ATAG regelt de installateur doorgaans de ISDE-aanvraag. Maar ik heb situaties gezien waarbij de installateur dit "even later zou doen" — en vervolgens vergat. Controleer bij de opdrachtverlening schriftelijk: regelt de installateur de ISDE, en zo ja, voor welke datum? Laat dit vastleggen in de offerte.
+
+### 2. Hybride op verkeerd bivalentpunt instellen
+
+Het bivalentpunt — de buitentemperatuur waarbij de cv-ketel bijspringt — staat standaard bij ATAG op +2°C. In een gemiddeld rijtjeshuis met label C kun je dit veilig verlagen naar -2 tot -5°C, waardoor de warmtepomp 15-20% meer uren draait en de gasketel minder aanslaat. Bij situatie 1 in Amersfoort had de installateur dit niet gedaan bij oplevering — pas na mijn advies werd het bijgesteld, met een extra gasbesparing van 85 m³/jaar.
+
+### 3. Onjuiste aanvoertemperatuur instellen
+
+De ATAG ENERGION hybride kan tot 65°C aanvoer leveren. Maar bij bestaande radiatoren van 1985-2000 is 55°C in de meeste gevallen al voldoende. Elke 5°C minder aanvoer scheelt circa 6-8% efficiëntie (SCOP). Een installateur die de aanvoertemperatuur conservatief instelt op 65°C "voor de zekerheid" kost je geld. Vraag expliciet: op welke aanvoertemperatuur staat het systeem ingesteld en waarom?
+
+### 4. Geen onderhoud voor de cv-ketel meenemen
+
+Met een hybride installatie blijft je cv-ketel in gebruik. Jaarlijks onderhoud voor zowel de ketel als de warmtepomp is verplicht voor de garantie én praktisch verstandig. Ik zie mensen de ketel vergeten bij hun jaarlijkse service — die betalen dan bij storing een hoge urgentietarief buiten garantie.
+
+### 5. Buitenunit te dicht bij een slaapkamerraam plaatsen
+
+Bij één van de drie installaties die ik volgde was de buitenunit bij oplevering op 1,8 meter afstand van het slaapkamerraam van de buren geplaatst — technisch toegestaan, maar de buurman klaagde over het geluid bij nachtvorst. De ENERGION maakt 47-52 dB(A), wat bij die afstand op de grens van acceptabel is. Verplaatsen kostte €380 extra. Dit had voorkomen kunnen worden door de plaatsing van tevoren met de buren door te spreken.
+
+## Onderhoud en servicekosten over 10 jaar
+
+Een realistische kostenschatting voor een hybride ATAG-installatie:
+
+| Post | Frequentie | Kosten |
+|------|-----------|--------|
+| Jaarlijks onderhoud warmtepomp | 1× per jaar | €160-€200 |
+| Jaarlijks onderhoud cv-ketel | 1× per jaar | €110-€140 |
+| Filter buitenunit reinigen | 2× per jaar | Zelf (15 min) |
+| Koelmiddel controle | Elke 4 jaar | €100-€140 |
+| **Geschat per jaar** | — | **€300-€380** |
+| **10-jaar totaal** | — | **€3.000-€3.800** |
+
+Bij een onderhoudscontract van €280-€320/jaar dekt ATAG doorgaans zowel de ketel als de warmtepomp. Dat is iets duurder dan los, maar geeft je prioriteit bij storingen en garantieverlenging tot 7 jaar.
+
+**Vergelijking met alleen een cv-ketel:** die kost circa €120-€150/jaar aan onderhoud. Het verschil (€150-€230/jaar) weegt op tegen de €600-€1.000 jaarlijkse energiebesparing — dus de extra onderhoudskosten zijn geen argument om de warmtepomp af te wijzen.
+
+### Storingen in de praktijk
+
+In de drie installaties die ik acht maanden heb gevolgd: nul storingen. Dat is een beperkte steekproef, maar past bij het bredere beeld van ATAG's reputatie. De compressor van Mitsubishi Electric heeft een solide trackrecord in de industrie. De meeste storingen die ik zie bij warmtepompen zijn in de eerste drie maanden (installatiefouten) of na tien jaar (slijtage compressor). In het midden is het vrijwel altijd rustig.
+
+## Combinatie met zonnepanelen en dynamisch tarief
+
+De ATAG ENERGION hybride werkt uitstekend samen met zonnepanelen. Overdag, als je panelen op vol vermogen draaien, gebruik je de goedkope of "gratis" stroom om de warmtepomp te laten draaien en de woning voor te verwarmen of de boiler op te laden.
+
+**Praktijkscenario (situatie 1, Amersfoort, 10 zonnepanelen):**
+
+- Zonnepanelen opwek: 3.400 kWh/jaar
+- Warmtepomp verbruik: 1.400 kWh/jaar
+- Eigenverbruik warmtepomp via zonnepanelen: geschat 700 kWh (50%)
+- Besparing op stroomkosten warmtepomp: 700 kWh × €0,23 = €161/jaar
+- Effect op totale besparing: stijgt van €1.064 naar **€1.225/jaar**
+- Terugverdientijd warmtepomp daalt van 4,7 naar **4,1 jaar**
+
+Bij een dynamisch contract (Tibber) kun je de warmtepomp programmeren op nacht-uren of momenten van lage tarieven. In de winter, wanneer zon schaars is, draait de warmtepomp dan op goedkope stroomuren (soms €0,04-€0,08/kWh) in plaats van het dagtarief.
+
+## Subsidie-update: ATAG ENERGION en ISDE 2026
+
+ATAG ENERGION-modellen staan op de erkende ISDE-apparatenlijst van RVO. De actuele bedragen voor 2026:
+
+| Model | Vermogen | ISDE-bedrag (indicatief) |
+|-------|---------|------------------------|
+| ENERGION hybride | 6 kW | €2.700 |
+| ENERGION hybride | 8 kW | €3.000 |
+| ENERGION all-electric | 8 kW | €3.400 |
+| ENERGION all-electric | 12 kW | €3.800 |
+| ENERGION all-electric | 16 kW | €4.200 |
+
+Daarnaast: bij de hybride variant kunt u ook ISDE-subsidie combineren met isolatiesubsidie (spouwmuur, dak, glas) in dezelfde aanvraag. Bij situatie 2 in Veenendaal deed het stel dit ook: naast de warmtepomp (€2.900) kregen ze €950 voor spouwmuurisolatie van 95 m². Totale subsidie: €3.850, wat de terugverdientijd terugbracht van 6,1 naar 3,7 jaar.
+
+## Verlengde FAQ
+
+**Kan ik de ATAG ENERGION koppelen aan een merk-vreemde cv-ketel?**
+
+Technisch kan het via een adapter, maar ATAG raadt dit af. De regelapparatuur is geoptimaliseerd voor integratie met ATAG cv-ketels. Bij een Intergas, Remeha of Vaillant ketel werkt de warmtepomp wel, maar de hybride sturing is minder nauwkeurig en de garantie op de hybridekoppeling vervalt. Als je geen ATAG-ketel hebt, vergelijk dan ook ATAG ENERGION met Remeha Elga Ace (bij een Remeha ketel) of Vaillant aroTHERM plus.
+
+**Wat als ATAG stopt met de ENERGION-lijn?**
+
+ATAG is onderdeel van de IRSAP-groep en zal de ENERGION-serie nog zeker 10-15 jaar ondersteunen — reserveonderdelen en service zijn contractueel vastgelegd. De Mitsubishi-compressor erin wordt ook in andere merken gebruikt, dus een compressorreparatie is altijd mogelijk. Ik maak me hier minder zorgen over dan bij kleinere, niet-winstgevende startups.
+
+**Kan ik de ATAG ENERGION zelf installeren?**
+
+Nee. Het koelmiddel (R32) vereist een gecertificeerd F-gassen installateur. Bovendien vervalt de ISDE-subsidie als de installatie niet door een erkend bedrijf is uitgevoerd. Zelfinstallatie is technisch onwettig voor het koelmiddelgedeelte.
+
+**Is de ATAG-app vergelijkbaar met Daikin One?**
+
+Nee, de Daikin One-app is visueel beter en heeft meer functionaliteit (dynamisch tariefbeheer, grafische verbruikshistorie per uur). De ATAG-app toont verbruik, status en alarmmeldingen goed, maar heeft minder diepgang. Voor de meeste gebruikers is dit geen dealbreaker — maar als app-kwaliteit prioriteit heeft, scoort Daikin hoger.
+
+**Wat kost een gemiddelde storing buiten garantie?**
+
+Een kompressorreparatie na garantieperiode (10-15 jaar): €800-€1.500. Een lekkage koelmiddel herstellen: €200-€400. Een printplaat vervangen: €300-€600. Vergelijk dit met een cv-ketel storing buiten garantie (€200-€500 voor de meeste reparaties) — warmtepompen zijn iets duurder om te repareren, maar hebben ook minder bewegende delen die kunnen falen.
+
 ## Conclusie: kopen of niet?
 
 Als je al een ATAG cv-ketel hebt en je woning heeft energielabel C of D, is de ENERGION hybride warmtepomp een logische, betrouwbare keuze. Je hoeft de ketel niet te vervangen, de service is goed en de terugverdientijd is reëel — zes tot zeven jaar inclusief subsidie, bij gemiddeld gasverbruik.

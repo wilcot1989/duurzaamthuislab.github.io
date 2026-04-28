@@ -269,6 +269,81 @@ Maar voor iemand die de cijfers beheerst en de €5.000 netto investering kan dr
 
 ---
 
+## Onderhouds- en servicekosten bij Quatt vs. kopen
+
+Een van de sterkste argumenten die Quatt naar voren brengt is dat onderhoud en storingen in het abonnement zijn inbegrepen. Dat klinkt aantrekkelijk. Maar wat zijn de werkelijke onderhoudskosten als je zelf koopt?
+
+**Onderhoudskosten bij zelf kopen (ATAG of Daikin hybride):**
+
+| Post | Frequentie | Kosten |
+|------|-----------|--------|
+| Jaarlijks onderhoud warmtepomp | 1× per jaar | €150-€200 |
+| Jaarlijks onderhoud cv-ketel | 1× per jaar | €100-€130 |
+| Filter reinigen buitenunit | 2× per jaar | Zelf (15 min) |
+| Koelmiddel controle | Elke 4 jaar | €100 |
+| **Totaal per jaar** | — | **€270-€360** |
+| **10-jaar totaal** | — | **€2.700-€3.600** |
+
+Bij Quatt Connect Standaard (€79/maand) zit je op €948/jaar aan abonnementskosten. Dat is €588-€678 per jaar meer dan de onderhoudskosten bij kopen. Over 10 jaar is dat een verschil van €5.880-€6.780 — significant hoger dan het verschil dat ik in de rekensom eerder noemde.
+
+Sterker gesteld: de €820 netto voordeel van Quatt over 10 jaar verdwijnt als je de werkelijke onderhoudskosten van kopen meeneemt. Je betaalt bij Quatt feitelijk meer voor iets dat je zelf goedkoper kunt regelen.
+
+**Quatt's tegenargument:** zij nemen ook het risico van grote reparaties op zich. Als de compressor na 8 jaar kapot gaat (€1.200-€1.500 bij zelf kopen), dekt Quatt dat. Dat is een reëel voordeel — al is compressorverlies in de eerste 10 jaar zeldzaam bij een goed product.
+
+## Verlengde FAQ
+
+**Wat staat er precies in het Quatt-contract qua exitkosten?**
+
+Op basis van Quatt's publieke documentatie (begin 2026) geldt een degressieve afkoopsom. In jaar 1 is de exitkost het hoogst: naar schatting €2.500-€3.500 afhankelijk van het moment. In jaar 5 is dit gedaald naar circa €1.000-€1.500. In jaar 10 vervalt de exitkost. Vraag Quatt om een concrete berekening bij de offerte — dit staat niet altijd prominent in de marketingcommunicatie.
+
+**Kan ik de ISDE-subsidie terugvorderen als ik na 3 jaar het contract afkoop en de warmtepomp van Quatt koop?**
+
+In theorie ja, maar dan moet je aantonen dat de warmtepomp nu van jou is (eigendomsoverdracht), dat het product nog op de ISDE-lijst staat én dat de aanvraag binnen 12 maanden na de overdracht valt. Dit is een complex traject dat ik niet aanbeveel zonder juridisch advies. Quatt biedt zelf geen standaardpad hiervoor aan.
+
+**Wat gebeurt er met mijn abonnement als ik mijn huis verkoop?**
+
+Quatt stelt dat het contract overdraagbaar is: de koper neemt het abonnement over. In de praktijk kan dit een belemmering zijn bij de verkoop — niet elke koper wil een lopend 10-jarig contract overnemen, zeker als er nog exitkosten zijn. Vraag altijd naar de exacte procedure bij verkoop voordat je tekent.
+
+**Is Quatt beschikbaar in mijn regio?**
+
+Quatt is actief in heel Nederland maar screent woningen op geschiktheid. Als je woning label F of G heeft, of een uitzonderlijk hoge warmtevraag, is de kans dat Quatt je afwijst reëel — hun businessmodel vereist dat jouw besparing groot genoeg is om hun kosten te dekken. Je hoort dit bij de intake.
+
+**Hoe werkt de monitoring van Quatt precies?**
+
+Quatt koppelt de warmtepomp via internet aan hun cloud-platform. Ze volgen real-time het verbruik, de SCOP en de status van de compressor. Als iets afwijkt — te lage SCOP, ongewoon hoog stroomverbruik, sensoralarm — stuurt Quatt automatisch een melding en neemt contact op voor een controlebezoek. Dit is in de praktijk een van hun sterkste punten, zeker vergeleken met gekochte warmtepompen waarbij je afhankelijk bent van je eigen app-monitoring.
+
+**Wat is het verschil tussen Quatt Connect Basis, Standaard en Premium in concreet gedrag?**
+
+- **Basis (€59):** hardware, installatie, remote monitoring. Storingen zijn gedekt maar responstijd is niet gegarandeerd.
+- **Standaard (€79):** toevoeging van jaarlijks preventief onderhoud en een gegarandeerde responstijd bij storingen (48 uur).
+- **Premium (€99):** snellere responstijd (24 uur), uitgebreider onderhoudsrapport, telefonische prioriteit. Voor de meeste woningen is Standaard voldoende.
+
+## Veelgemaakte fouten bij het kiezen voor Quatt
+
+### 1. Niet vergelijken met kopen
+
+Ik hoor mensen die zeggen "Quatt is goedkoop, €79 per maand" zonder dat ze de koopoptie hebben doorgerekend. De eerlijke vergelijking — inclusief ISDE-subsidie, onderhoudskosten en eigendomsopbouw — wijst bijna altijd in de richting van kopen als je de middelen hebt.
+
+### 2. Contractduur onderschatten
+
+10 jaar is lang. In die tijd kun je verhuizen, je situatie kan veranderen, of Quatt kan failliet gaan. Lees het contract op exitvoorwaarden, overdraagbaarheid en wat er bij faillissement van Quatt gebeurt met jouw warmtepomp. Dit zijn geen hypothetische risico's.
+
+### 3. Aannemen dat je de besparing volledig zakgeld is
+
+Bij Quatt heb je net genoeg besparing op gas om de abonnementskosten te dekken — en weinig meer. Bij kopen hou je elk jaar €600-€800 over na aftrek van onderhoud. Dat verschil telt op over 10 jaar en kan elders worden geïnvesteerd.
+
+### 4. De impact op woningwaarde negeren
+
+Een gekochte warmtepomp verbetert het energielabel van je woning. Bij een woning van €350.000 betekent één labelstap gemiddeld €8.000-€15.000 meer waarde (NVM-statistieken 2025). Een Quatt-abonnement verbetert je energielabel niet — de warmtepomp is immers van Quatt, niet van jou.
+
+## Quatt in vergelijking: nieuwbouw versus bestaande bouw
+
+Quatt is uitsluitend gericht op bestaande bouw. Bij nieuwbouw is de vraag irrelevant — nieuwbouwwoningen moeten voldoen aan BENG-normen en worden sowieso zonder gasaansluiting gebouwd.
+
+Voor bestaande bouw uit de jaren 1970-1995 (label C-D), gasverbruik 1.500-2.500 m³/jaar: hier is Quatt het meest relevant. De hybride opzet werkt, de installatie is snel, en de woning hoeft niet eerst te worden geïsoleerd.
+
+Voor bestaande bouw van label B of beter: hier is een all-electric warmtepomp zinvoller dan Quatt's hybride, en kopen is dan financieel nog aantrekkelijker. Quatt richt zich niet op dit segment.
+
 ## Conclusie
 
 Quatt Connect is een slim product voor een specifieke doelgroep: mensen die warmte-als-dienst willen, geen aanbetaling kunnen of willen doen, en de installatie en service liever uit handen geven. De installatiesnelheid, monitoring en all-in aanpak zijn oprecht goed.

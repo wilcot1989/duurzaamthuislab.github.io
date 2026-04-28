@@ -197,6 +197,117 @@ Voor wie net verhuist of saldering-stop voorbereidt: switch nu, geen reden om te
 
 ---
 
+## Jaarberekening: wat Tibber echt kost in 2026
+
+Veel mensen vragen me: "Maar wat betaal ik dan concreet per jaar?" Ik zet het op een rij voor een doorsnee huishouden.
+
+**Huishoudprofiel voor de berekening:**
+- Jaarverbruik: 3.500 kWh (huishouden zonder EV, met warmtepomp)
+- Teruglevering: 2.000 kWh (zonnepanelen, gemiddeld jaar)
+- Tarief Tibber 2026: gem. €0,16/kWh inkoop (excl. netbeheer + belasting)
+- Netbeheer + energiebelasting: €0,12/kWh (Liander, standaard 3-fase)
+- Servicegeld: €5,99/mnd = €71,88/jaar
+
+| Post | Berekening | Bedrag/jaar |
+|---|---|---|
+| Stroominkoop variabel | 3.500 kWh × €0,16 | €560 |
+| Netbeheer + energiebelasting | 3.500 kWh × €0,12 | €420 |
+| Servicegeld Tibber | 12 × €5,99 | €72 |
+| Teruglevertarief (gem. €0,13/kWh) | -2.000 kWh × €0,13 | -€260 |
+| **Totaal per jaar** | | **€792** |
+
+Vergelijkingspunt: Eneco vast contract 2026 bij zelfde profiel = circa €1.550/jaar. **Besparing: ~€758.**
+
+Dat is inclusief netbeheer en alle belastingen. Let op: deze berekening is een gemiddelde. Winters kunnen €20-€30 hoger uitvallen, zomers lager.
+
+---
+
+## Veelgemaakte fouten bij Tibber-gebruik
+
+Na anderhalf jaar Tibber zie ik dezelfde fouten terugkomen bij mensen die minder besparen dan mogelijk.
+
+**Fout 1: De app niet gebruiken**
+Tibber's app is de kern van het product. Wie hem niet dagelijks checkt voor prijsalerts, laat geld op tafel liggen. Zet de pushnotificaties aan voor "prijspiek" en "negatieve prijs".
+
+**Fout 2: Geen Pulse kopen maar toch slim laden verwachten**
+Zonder Tibber Pulse kan de app geen realtime verbruiksdata lezen van je meter. Smart-home sturing werkt dan op vertraagde data. Voor slim laden van een EV is de Pulse dus eigenlijk verplicht.
+
+**Fout 3: Vaste apparaten niet verplaatsen**
+Droger, wasmachine, vaatwasser — die draaien standaard op een vast tijdstip. Verplaats ze naar 's nachts of overdag als de zon schijnt. Bij een dynamisch contract is dat de meeste directe besparing zonder extra investering.
+
+**Fout 4: Niet combineren met Home Assistant**
+Wie Home Assistant heeft en zijn Tibber-account koppelt, krijgt automatische sturing van warmtepomp, batterij en laadpaal op basis van uurtarief. Dit levert mij gemiddeld €15-€25 extra besparing per maand.
+
+**Fout 5: Vergeten dat negatieve prijzen kansen zijn**
+Op zonnige zomerdagen met veel windproductie daalt de EPEX-prijs tot onder nul. Dan kost stroom je letterlijk niets — of je krijgt er zelfs iets voor terug. In 2025 waren er 47 uur met negatieve prijzen in Nederland. Wie dan zijn thuisbatterij laadde of EV laadde, verdiende er geld mee.
+
+---
+
+## Tibber in combinatie met andere installaties
+
+Tibber is het meest waard als je het combineert met andere installaties. Hieronder de meest voorkomende combinaties.
+
+### Tibber + zonnepanelen
+
+Dit is de basiscombo. Zonnepanelen produceren overdag; Tibber registreert teruglevering per uur en betaalt het actuele uurtarief uit. Dat klinkt simpel, maar het verschil met een vast contract is groot.
+
+Bij een vast contract krijg je een vaste teruglevertarief (bijv. €0,09/kWh). Met Tibber krijg je het EPEX-uurtarief — dat is op mooie middagen soms €0,22-€0,28/kWh. Over een jaar kom je zo €80-€130 hoger uit bij teruglevering.
+
+### Tibber + thuisbatterij (Huawei Luna 2000 / Sessy)
+
+Dit is waar het echt interessant wordt. De thuisbatterij laadt overdag met zonnestroom of 's nachts als de prijs laag is, en ontlaadt tijdens de avondpiek als de prijs hoog is.
+
+- Huawei FusionSolar integreert direct met Tibber
+- Sessy heeft eigen dynamische prijssturing via Tibber API
+- Resultaat: extra €150-€300 arbitrage-opbrengst per jaar bovenop de normale batterijbesparing
+
+### Tibber + warmtepomp (Daikin, Vaillant, Remeha)
+
+Moderne warmtepompen kunnen via Home Assistant aangestuurd worden op basis van Tibber's uurtarief. Je instelt dat de pomp draait als de stroom onder €0,12/kWh kost (lage uren), en de verwarming stopt als de prijs piekt.
+
+Resultaat: door de thermische massa van de woning gebruik je de goedkope uren als "opslag" en laat je de pomp rusten tijdens dure piekuren. Besparing: €100-€200/jaar afhankelijk van je warmtepompverbruik.
+
+### Tibber + EV (de killer-combo)
+
+Voor wie een Tesla Model 3/Y bezit: Tibber integreert direct via de Tesla API. Je auto laadt alleen als de prijs onder jouw drempelwaarde zit (bijv. €0,10/kWh). Bij 15.000 km/jaar en gemiddeld €0,08/kWh nacht vs €0,26/kWh avond: besparing **€400-€500/jaar**.
+
+---
+
+## Wettelijk kader 2026: wat verandert er voor dynamische contracten?
+
+Per 2026 zijn er een paar relevante wettelijke veranderingen voor Tibber-klanten.
+
+**Salderingsafbouw**: Per 1 januari 2027 eindigt de saldering volledig. Teruggeleverde stroom levert dan alleen nog het teruglevertarief van de leverancier. Bij Tibber is dat het EPEX-uurtarief minus leveringskosten — gemiddeld €0,05-€0,12/kWh in 2027, afhankelijk van marktomstandigheden. Voor Tibber-klanten verandert er weinig, want ze krijgen al het uurtarief. Voor vast-contract-klanten is de impact groot.
+
+**Netcongestie-flexibiliteit**: Netbeheerders mogen consumenten vanaf 2026 vergoedingen aanbieden voor flexibel verbruik tijdens piekbelasting. Tibber participeert in dit mechanisme — als de netbeheerder vraagt om minder te verbruiken, en je dat doet, kun je een vergoeding van €0,05-€0,15/kWh ontvangen. Nog in pilot, maar het concept werkt al bij sommige Tibber-klanten.
+
+**Energiebelastingverlaging**: Per 1 januari 2026 is de energiebelasting op stroom verlaagd met €0,008/kWh als gevolg van het klimaatakkoord-herziening. Klein, maar het geldt voor alle Tibber-klanten automatisch.
+
+**Verbruiksgrens saldering**: De tijdelijke drempel van 10.000 kWh saldering per jaar (van 2024) is niet verlengd. Er is geen maximumlimiet meer op wat je kunt salderen — in elk geval tot 31 december 2026.
+
+---
+
+## Vergelijking: Tibber vs ANWB Energie Dynamisch vs Eneco Dynamisch
+
+Ik vergeleek Tibber al met Frank. Maar hoe zit het met de andere dynamische aanbieders?
+
+| Feature | Tibber | ANWB Dynamisch | Eneco Dynamisch |
+|---|---|---|---|
+| Marge op EPEX | €0 | €0,015/kWh | €0,015/kWh |
+| Servicegeld/mnd | €5,99 | €5,95 | €4,95 |
+| Jaarkost (3.500 kWh) | €792 | €862 | €843 |
+| App-kwaliteit | 9/10 | 7/10 | 6/10 |
+| EV slim laden | Native top | Beperkt | Beperkt |
+| Prijsdemping piek | Nee | Ja (€0,40 max) | Nee |
+| Smart home integratie | Uitstekend | Beperkt | Geen |
+| Klantenservice | Chat | Telefoon + chat | Telefoon + chat |
+
+**Wanneer ANWB Dynamisch beter is dan Tibber**: Als je grote angst hebt voor winterpiekprijzen. Bij de storm van januari 2025 betaalden Tibber-klanten tot €1,18/kWh in 4 uur; ANWB-klanten betaalden maximaal €0,40. Op jaarbasis kost het dempmechanisme je €60-€90 extra, maar de mentale rust is voor sommigen de prijs waard.
+
+**Wanneer Eneco Dynamisch beter is**: Nauwelijks. De marge van €0,015/kWh en inferieure app maken het duurder zonder voordelen. Tenzij je bestaande Eneco-klant bent en de loyaliteitspunten waardevol vindt.
+
+---
+
 ## Conclusie
 
 Tibber is in 2026 één van de twee beste energieleveranciers voor zonnepaneel-bezitters. Hun app is van een ander niveau dan de concurrentie, slim laden voor EV's is killer-feature, en de transparantie (geen marge) is verfrissend.

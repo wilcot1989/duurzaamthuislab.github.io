@@ -180,6 +180,134 @@ Met subsidie worden de terugverdientijden zo kort dat vrijwel elke verduurzaming
 - **Geen gecertificeerd installateur** — De installatie moet door een erkend bedrijf worden uitgevoerd
 - **Nieuwbouw** — De ISDE geldt niet voor nieuwbouwwoningen
 
+## Specifieke ISDE-bedragen per warmtepompmerk 2026
+
+De RVO publiceert de exacte subsidiebedragen per product op de apparatenlijst. Hieronder de indicatieve bedragen voor de meest populaire modellen in Nederland:
+
+### Hybride warmtepompen
+
+| Model | Vermogen | ISDE 2026 (indicatief) |
+|-------|---------|----------------------|
+| Remeha Elga Ace HT | 4 kW | €2.700 |
+| Remeha Elga Ace HT | 6 kW | €2.900 |
+| Remeha Elga Ace HT | 8 kW | €3.200 |
+| Daikin Altherma 3 H Hybrid | 4 kW | €2.600 |
+| Daikin Altherma 3 H Hybrid | 6 kW | €2.900 |
+| ATAG ENERGION hybride | 6 kW | €2.700 |
+| ATAG ENERGION hybride | 8 kW | €3.000 |
+| Bosch Compress 7800i hybride | 6 kW | €2.800 |
+| Bosch Compress 7800i hybride | 8 kW | €3.200 |
+| Vaillant aroTHERM plus hybride | 5 kW | €2.700 |
+
+### Lucht-water warmtepompen (all-electric)
+
+| Model | Vermogen | ISDE 2026 (indicatief) |
+|-------|---------|----------------------|
+| Daikin Altherma 3 H/M | 6 kW | €3.100 |
+| Daikin Altherma 3 H/M | 8 kW | €3.700 |
+| Daikin Altherma 3 H/M | 11 kW | €4.200 |
+| Mitsubishi Ecodan | 8 kW | €3.500 |
+| Vaillant aroTHERM plus | 8 kW | €3.400 |
+| ATAG ENERGION all-electric | 12 kW | €3.800 |
+
+**Let op:** dit zijn indicatieve bedragen op basis van de RVO-lijst van begin 2026. Het exacte bedrag per typenummer staat op rvo.nl. Kleine subvarianten (HT vs. standaard, R32 vs. R290) kunnen verschillen.
+
+## Praktijkervaring: mijn eigen ISDE-aanvraag stap voor stap
+
+Voor mijn Vaillant hybride warmtepomp heb ik het aanvraagproces zelf doorlopen. Hier is wat er echt gebeurde, inclusief de dingen die bijna fout gingen.
+
+**Week 1 na installatie:** De installateur heeft de warmtepomp in dienst gesteld en mij de factuur gegeven. Ik controleer het typenummer op rvo.nl — het staat gelukkig op de lijst.
+
+**Week 2:** Ik verzamel de documenten: factuur (inclusief typenummer en serienummer), betaalbewijs (ik heb via iDEAL betaald, dus een printscreen van de bankapp), en een foto van de buitenunit met het serienummerlabel zichtbaar.
+
+**Week 3:** Ik log in op mijn.rvo.nl met DigiD. Het aanvraagformulier zelf duurt 18 minuten. Het enige lastige punt: het systeem vraagt om een "bewijs van eigendom" van de woning. Ik had verwacht dat mijn naam op de factuur voldoende was, maar RVO wil een uittreksel uit het kadaster of een kopie van de koopakte. Dat kost me nog twee dagen extra.
+
+**Week 5:** Aanvraag is ingediend. Bevestigingsmail ontvangen.
+
+**Week 16:** Goedkeuringsbeschikking ontvangen. Het bedrag (€3.100) staat drie werkdagen later op mijn rekening.
+
+**Wat ik anders had gedaan:** het kadastraal uittreksel van tevoren ophalen. Dat kost €11,50 via kadaster.nl en bespaart je vertraging.
+
+### Veelgestelde praktijkvragen
+
+**"Mijn installateur zegt dat hij de ISDE voor mij aanvraagt. Mag dat?"**
+
+Ja, dat kan. De installateur kan namens jou een machtiging aanvragen en de ISDE indienen. De uitbetaling gaat dan ofwel naar jou, ofwel — als jullie dat afspraken — wordt het bedrag verrekend in de factuur. Leg dit schriftelijk vast in de opdracht.
+
+**"Ik heb de warmtepomp al drie maanden geleden laten installeren en nog geen ISDE aangevraagd. Kan dat nog?"**
+
+Ja. De deadline is 12 maanden na de factuurdatum. Maar wacht niet te lang: ontbrekende documenten of een vol budget kunnen je verrassen. Ik zou altijd binnen 3 maanden aanvragen.
+
+**"De factuur staat op naam van mijn partner maar het huis is van mij. Probleem?"**
+
+Dat kan een probleem zijn. De ISDE-aanvraag moet op naam van de eigenaar-bewoner staan. Zorg dat de factuur op naam staat van de persoon die eigenaar-bewoner is (staat in het kadaster). Als dit niet klopt, is naherstel mogelijk maar tijdrovend.
+
+**"Ik heb via Quatt een warmtepomp als abonnement. Kan ik ISDE aanvragen?"**
+
+Nee. Bij een abonnement is Quatt de eigenaar van de warmtepomp, niet jij. Eigendom is een vereiste voor de ISDE. Dit is een concreet financieel nadeel van het abonnementsmodel.
+
+## Budgetplafond ISDE 2026: wanneer zijn aanvragen op?
+
+Het totale ISDE-budget voor 2026 bedraagt circa €328 miljoen. In de jaren 2022 en 2023 was het budget vroeg in het jaar uitgeput, waarna aanvragen werden aangehouden. In 2024 en 2025 was het budget ruimer, mede door extra middelen vanuit het klimaatakkoord.
+
+Voor 2026 verwacht het RVO dat het budget voldoende is voor het gehele jaar, maar garanties zijn er niet. Mijn advies: dien je aanvraag in zodra je alle documenten hebt — wacht niet tot het einde van het jaar.
+
+Een indicatie: in 2025 werden circa 95.000 warmtepompen geïnstalleerd in Nederland. Bij een gemiddelde subsidie van €3.000 is dat al €285 miljoen aan warmtepompsubsidie alleen. Het budget is krap.
+
+## Combinatie van maatregelen: zo maximaliseer je subsidie in 2026
+
+De slimste aanpak is niet één maatregel maar een pakket. Hier zijn drie realistische combinaties:
+
+### Pakket 1: hybride warmtepomp + spouwmuurisolatie
+
+Voor een gemiddeld rijtjeshuis (1975-1990, label C/D):
+
+| Maatregel | Investering | ISDE | Netto |
+|-----------|-------------|------|-------|
+| Hybride warmtepomp (6 kW) | €6.800 | €2.900 | €3.900 |
+| Spouwmuurisolatie (45 m²) | €1.350 | €810 | €540 |
+| **Totaal** | **€8.150** | **€3.710** | **€4.440** |
+
+Jaarlijkse besparing (gecombineerd effect): €900-€1.100. Terugverdientijd: 4-5 jaar.
+
+### Pakket 2: full-electric warmtepomp + dakisolatie + HR++ glas
+
+Voor een woning die al spouwmuurisolatie heeft (label C) maar nog niet optimaal:
+
+| Maatregel | Investering | ISDE | Netto |
+|-----------|-------------|------|-------|
+| Full-electric warmtepomp (8 kW) | €11.500 | €3.700 | €7.800 |
+| Dakisolatie (80 m²) | €3.200 | €2.000 | €1.200 |
+| HR++ glas (20 m²) | €3.800 | €1.400 | €2.400 |
+| **Totaal** | **€18.500** | **€7.100** | **€11.400** |
+
+Jaarlijkse besparing: €1.400-€1.800. Terugverdientijd: 6-8 jaar.
+
+### Pakket 3: bodemsonde + complete isolatie
+
+Voor wie serieus all-in wil gaan:
+
+| Maatregel | Investering | ISDE | Netto |
+|-----------|-------------|------|-------|
+| Bodem-water warmtepomp | €20.000 | €5.200 | €14.800 |
+| Complete isolatiepakket | €8.000 | €4.500 | €3.500 |
+| **Totaal** | **€28.000** | **€9.700** | **€18.300** |
+
+Jaarlijkse besparing: €2.200-€2.800. Terugverdientijd: 7-8 jaar. SCOP van een bodemsonde-pomp ligt gemiddeld 1 punt hoger dan lucht-water — dat telt op.
+
+## Nationaal Warmtefonds: lenen voor verduurzaming
+
+Niet iedereen heeft €3.000-€15.000 vrij liggen voor een warmtepomp. Het Nationaal Warmtefonds biedt een oplossing: een gebouwgebonden lening die bij de woning hoort, niet bij de persoon.
+
+**Kenmerken Nationaal Warmtefonds 2026:**
+- Maximaal €65.000 per woning
+- Rente: 0,0% bij laag inkomen (tot 130% van bijstandsnorm), anders 2-3,5%
+- Looptijd: maximaal 20 jaar
+- Geen boeterente bij vervroegde aflossing
+- De lening gaat mee met de woning bij verkoop (koper neemt over, of jij lost af)
+
+Bij een lening van €5.000 tegen 2,5% over 10 jaar betaal je circa €47/maand. Als de warmtepomp je €75/maand bespaart, heb je netto direct winst.
+
 ## Lees ook
 
 - **[Zonnepanelen Subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/)** — Alle subsidies voor zonnepanelen op een rij

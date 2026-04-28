@@ -231,6 +231,86 @@ Ten opzichte van Daikin zijn de levertijden van Bosch gunstig: 3 tot 8 weken voo
 
 ---
 
+## Veelgemaakte fouten bij de Bosch Compress-installatie
+
+Na het volgen van Anja en Pieter en gesprekken met Bosch ABZ Water Comfort installateurs, zie ik dezelfde fouten terugkomen.
+
+### 1. Bivalentpunt te hoog instellen
+
+Bij de Compress 7800i hybride is het bivalentpunt standaard ingesteld op 0°C. Dat is conservatief. In een gemiddelde label D-woning kun je het bivalentpunt veilig verlagen naar -5°C, waardoor de warmtepomp meer uren draait en de ketel minder bijstookt. Bij Anja en Pieter was het bivalentpunt initieel op +2°C ingesteld — na aanpassing naar -4°C daalde het gasverbruik met nog eens 65 m³/jaar extra.
+
+### 2. Buitenunit zonder fundament plaatsen
+
+De Bosch Compress 7800i-buitenunit is zwaarder dan de meeste concurrenten (circa 95 kg voor de 8 kW-versie). Op zacht of kleiachtig terrein kan een unit zonder degelijk fundament na één winter verzakken en trillingen doorgeven aan de constructie. Eis een betonnen funderingsplaat of solide kunststof voetstukken met anti-trilpad.
+
+### 3. Incompatibele cv-ketel gebruiken voor hybride werking
+
+De Compress 7800i hybride is geoptimaliseerd voor integratie met Bosch cv-ketels (Condens serie). Bij gebruik met een andere ketel werkt de hybrideregelaar minder nauwkeurig — je mist de geïntegreerde sturing die de ketel en warmtepomp naadloos laat samenwerken. Als je een niet-Bosch ketel hebt, vergelijk dan ook de ATAG ENERGION hybride (voor ATAG-ketels) of de Daikin Altherma 3 R (voor andere fabrikanten).
+
+### 4. R290-modellen afwachten ten koste van een volledig stookseizoen
+
+Bosch brengt in 2026 R290-propaan modellen op de markt — milieuvriendelijker (GWP 3 vs. 675 voor R32), toekomstbestendiger. Maar de wachtlijsten zijn reëel: 3-6 maanden. Als je in mei 2026 besluit, haal je de R290 waarschijnlijk net voor het stookseizoen — maar als je wacht tot september, mis je de installatiedrukte én de leveringstermijn. Overweeg: de R32-modellen presteren technisch identiek. Het ecologische voordeel van R290 is reëel maar marginaal in de praktijkbesparing.
+
+### 5. De grote buitenunit niet meten voor de offerteacceptatie
+
+Ik heb situaties gezien waarbij een eigenaar een offerte accepteerde, de installateur langskwam en concludeerde dat de buitenunit niet paste tussen de erfgrens en de muur van het huis. De Compress 7800i 8 kW heeft een breedte van circa 117 cm — meet dit altijd zelf na vóór je tekent.
+
+## Onderhoudskosten over 10 jaar
+
+Bosch ABZ Water Comfort biedt onderhoudscontracten via zijn dealer-netwerk. Een realistische raming:
+
+| Post | Frequentie | Kosten |
+|------|-----------|--------|
+| Jaarlijks onderhoud warmtepomp (Bosch gecertificeerd) | 1× per jaar | €155-€200 |
+| Jaarlijks onderhoud cv-ketel (hybride) | 1× per jaar | €110-€140 |
+| Lamellen/luchtinlaat reinigen | 2× per jaar | Zelf doen |
+| Koelmiddel R32 controle | Elke 4 jaar | €100 |
+| Gemiddelde storing na garantie (eens in 10 jr) | — | €300-€700 |
+| **Totaal per jaar** | — | **€285-€370** |
+| **10-jaar totaal** | — | **€2.850-€3.700** |
+
+Bosch biedt garantieverlenging tot 7 jaar via servicecontracten (€240-€290/jaar, inclusief beide systemen). Voor eigenaren die ontzorgd willen zijn, is dat een redelijke deal.
+
+Vergelijking: bij Anja en Pieter kost het onderhoudscontract €265/jaar. Hun jaarlijkse besparing is €1.640. Netto, na onderhoud: **€1.375/jaar**. De terugverdientijd verschuift van 6 naar 6,5 jaar — nog steeds solide.
+
+## Combinatie met zonnepanelen: de berekening voor label D
+
+Anja en Pieter overwegen in 2027 zonnepanelen. Ik heb de berekening voor hen gemaakt.
+
+**Aanname:** 10 panelen, opwek 3.200 kWh/jaar.
+
+Hun warmtepomp verbruikt circa 3.600 kWh/jaar (extrapolatie). Op basis van tijdgebruik: warmtepomp draait voornamelijk 's ochtends vroeg en vroeg in de avond, met name in de winter. In de winter is de opwek van de panelen laag. Het eigenverbruik van de warmtepomp via de panelen schat ik op circa 35%: 3.600 × 0,35 = 1.260 kWh/jaar.
+
+**Besparing:**
+- Via eigenverbruik: 1.260 kWh × €0,23 = €290/jaar
+- Resterend stroomverbruik warmtepomp: 2.340 kWh × €0,23 = €538/jaar
+- Totale besparing warmtepomp + panelen (samen): €2.208/jaar (was €1.640)
+- Extra besparing door panelen op warmtepomp: **€290/jaar**
+
+Bij een investering van €4.800 voor 10 panelen (na saldering, inclusief BTW-teruggave) verdienen de panelen zich terug in circa 8 jaar op eigen basis. Met het effect op de warmtepomp is dat 7,5 jaar.
+
+## Verlengde FAQ
+
+**Kan de Bosch Compress 7800i hybride ook koelen in de zomer?**
+
+Ja, via de actieve koelstand (passief koelen via convectie is ook mogelijk bij bepaalde configuraties). Actieve koeling via de warmtepomp vereist een koelcircuit in de vloer of plafond — radiatoren koelen niet effectief. Bij Anja en Pieter is dit niet relevant (radiatoren), maar voor wie vloerverwarming heeft is de zomerkoeling een aantrekkelijke bijkomende functie.
+
+**Hoe presteren de Bosch-modellen bij extreme kou (-15°C)?**
+
+Bij -15°C werkt de Compress 7800i hybride via de ketel: de warmtepomp wordt bij dat temperatuurniveau grotendeels stopgezet en de cv-ketel neemt het volledig over. In Nederland komt -15°C gemiddeld 0-3 dagen per jaar voor — het effect op de jaarlijkse gasbesparing is daardoor beperkt. De hybride modus is al actief boven -10°C.
+
+**Is de Bosch Easy Control app compatibel met Apple en Android?**
+
+Ja, de Easy Control-app werkt op iOS en Android. De app is stabiel en functioneel maar heeft minder visuele diepgang dan de Daikin One-app. Je kunt er temperatuurinstellingen, tijdschema's en bedrijfsmodi mee instellen. Energieverbruik per dag/week/maand is zichtbaar. Home Assistant-integratie is beschikbaar via een onofficiële plugin.
+
+**Wat zijn de installatievereisten voor de Bosch cv-ketel naast de warmtepomp?**
+
+De hybride sturing vereist dat de bestaande Bosch cv-ketel compatibel is (Condens 5000i of recenter). Oudere Bosch-ketels (Logamax-serie van vóór 2015) zijn doorgaans niet direct compatibel. Je installateur controleert dit bij de intake. Is je ketel niet compatibel: ofwel de ketel vervangen (€1.500-€2.200), ofwel kiezen voor een hybride variant van een ander merk dat minder merkgebonden is.
+
+**Hoe lang is de leveringstermijn voor Bosch Compress in 2026?**
+
+Voor de R32-modellen (7800i 6/8/10 kW): 3-7 weken bij de meeste Bosch ABZ Water Comfort dealers. Voor de R290-modellen: 8-20 weken, afhankelijk van beschikbaarheid. Vroeg in het voorjaar bestellen en in mei/juni installeren geeft de meeste zekerheid voor het stookseizoen.
+
 ## Conclusie: de verstandige keuze voor wie niet wil wachten op renovatie
 
 De Bosch Compress 7800i hybride is de warmtepomp die ik Anja en Pieter aanraadde, en die aanbeveling heb ik niet te betreuren. Ze besparen meer dan verwacht, het systeem werkt probleemloos en het geeft hen de ruimte om later, op hun eigen tempo, te isoleren en de ketel definitief uit te zetten.

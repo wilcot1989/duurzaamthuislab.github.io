@@ -207,6 +207,82 @@ EasyEnergy was een van de eerste dynamische leveranciers in Nederland en focust 
 4. **Installeer een slimme thermostaat** — Schakel verwarming in als de prijs laag is en laat het huis geleidelijk opwarmen
 5. **Gebruik de app** — Check dagelijks de prijsgrafiek en plan je verbruik
 
+---
+
+## Jaarberekening per aanbieder: concrete euro's
+
+Hieronder werk ik de vergelijking uit voor een profiel dat representatief is voor de meeste lezers van dit artikel.
+
+**Profiel:**
+- Verbruik: 3.500 kWh/jaar
+- Teruglevering: 1.800 kWh/jaar (10 zonnepanelen)
+- Gemiddeld EPEX day-ahead 2025: €0,158/kWh
+
+| Leverancier | Energiekosten (var.) | Opslag leverancier | Netbeheer+belasting | Servicegeld | Teruglever-credit | **Netto/jaar** |
+|---|---|---|---|---|---|---|
+| Tibber | €553 | €70 | €420 | €72 | -€234 | **€881** |
+| Frank Energie | €553 | €35 | €420 | €60 | -€234 | **€834** |
+| ANWB Energie | €553 | €70 | €420 | €71 | -€234 | **€880** |
+| EasyEnergy | €553 | €0 | €420 | €71 | -€234 | **€810** |
+| Eneco Dynamisch | €553 | €60 | €420 | €59 | -€234 | **€858** |
+| Eneco vast (referentie) | €1.050 | €0 | €420 | €0 | -€162 | **€1.308** |
+
+*Teruglever-credit berekend op gem. €0,13/kWh voor dynamisch, €0,09/kWh voor vast.*
+
+**Besparing dynamisch vs vast: €427-€498 per jaar** bij dit profiel. Meer dan de meeste mensen verwachten.
+
+EasyEnergy is in dit model goedkoopst op papier — maar de beperktere app en het ontbreken van smart-charging features maken dat het in de praktijk minder oplevert voor technische gebruikers.
+
+---
+
+## Veelgemaakte fouten bij dynamische contracten
+
+Ik zie bij klanten steeds dezelfde misstappen. Vermijd ze.
+
+**Fout 1: Dynamisch contract nemen maar niets aanpassen**
+Een dynamisch contract is geen magische oplossing. Het geeft je de mogelijkheid om goedkoop in te kopen — maar als je je wasmachine gewoon 's avonds blijft draaien, betaal je óf vergelijkbaar met vast óf zelfs iets meer. De besparing zit in het verschuiven van verbruik.
+
+**Fout 2: Bang zijn voor pieken en de waarde negeren**
+De winter van 2025 kende 18 uur met een prijs boven €0,50/kWh. Dramatisch klinkt dat, maar over het hele jaar gemiddeld betaalde elke Tibber- of Frank-klant nog steeds 15-20% minder dan een vast contract. Pieken zijn beheersbaar als je slimme apparaten hebt.
+
+**Fout 3: Geen P1-meter installeren**
+Zonder realtime inzicht ben je blind. De HomeWizard P1-meter kost €30 en laat je exact zien wat je per uur verbruikt en wat dat kost op het actuele tarief. Dat inzicht motiveert meer dan welke marketingcampagne dan ook.
+
+**Fout 4: Vergeten dat gas ook dynamisch kan**
+Frank en EasyEnergy bieden ook gas op TTF day-ahead tarief. Voor huishoudens die nog op gas koken of een hybride warmtepomp hebben, is dit extra besparing. In 2025 bespaarden dynamische gasklanten gemiddeld 9% ten opzichte van vaste gastarieven.
+
+**Fout 5: Overstappen zonder opzegtermijn te checken**
+Zit je in een vast contract? Check eerst de einddatum en opzegboete. Bij Eneco en Vattenfall is de boete bij vroegtijdig opzeggen €100-€150. Die boete verdien je in 2-3 maanden terug, dus het loont bijna altijd — maar reken het even door.
+
+---
+
+## Wettelijk kader 2026: wat verandert er?
+
+Voor wie een dynamisch contract overweegt zijn er twee relevante ontwikkelingen in 2026.
+
+**Nieuwe leveranciersverplichtingen per 2026:** Energieleveranciers moeten klanten actief informeren over de risico's van dynamische contracten. Dit houdt in dat Tibber, Frank en ANWB bij aanmelding een "risicoverklaring" moeten tonen — met een indicatie van mogelijke piekaantal uren per jaar en het verwachte kostenverschil met een vast contract. Dit beschermt consumenten maar verandert niets aan de producten zelf.
+
+**Teruglevergrens nettarief:** Netbeheerders Liander, Stedin en Enexis mogen vanaf 1 april 2026 een beperkte nettarief-toeslag rekenen voor teruglevering boven 2.500 kWh/jaar. Dit geldt ongeacht je leverancier — het is een netbeheerderswijziging. Voor de meeste particuliere zonnepaneel-bezitters is de impact €30-€80/jaar.
+
+**Saldering eindigt 1 januari 2027:** Dit heeft direct effect op welk contract het voordeligst is. Vanaf 2027 worden verbruik en teruglevering afzonderlijk afgerekend. Dynamische contracten zijn voor die situatie inherent beter ontworpen dan vaste contracten.
+
+---
+
+## Vergelijking: slimme apparaten per aanbieder
+
+Wie investeert in slimme apparaten, haalt meer uit een dynamisch contract. Maar welke leverancier werkt het best met welke hardware?
+
+| Apparaat/systeem | Tibber | Frank + HA | ANWB | EasyEnergy |
+|---|---|---|---|---|
+| EV slim laden (native) | ✅ Top | ❌ (via EVCC) | Beperkt | ❌ |
+| Thuisbatterij Huawei | ✅ Direct | Via HA | ❌ | ❌ |
+| Thuisbatterij Sessy | Via API | ✅ Direct | ❌ | ❌ |
+| Home Assistant | ✅ | ✅ | Beperkt | ✅ |
+| Slimme thermostaat (Tado/Nest) | Via HA | Via HA | Beperkt | ❌ |
+| P1-meter inzicht | ✅ Pulse | ✅ EnergyZero | Beperkt | Beperkt |
+
+Home Assistant egaliseert veel verschillen. Wie HA heeft, kan Frank of EasyEnergy bijna net zo slim automatiseren als Tibber. Wie geen technische affiniteit heeft en toch slim wil laden, kiest Tibber.
+
 ## Lees ook
 
 - **[Dynamische Energiecontracten + Thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)** — Hoe je een thuisbatterij combineert met een dynamisch contract

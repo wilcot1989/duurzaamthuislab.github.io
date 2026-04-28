@@ -183,6 +183,85 @@ De zonnepanelen vervangen de dakbedekking (bij nieuwbouw of dakrenovatie).
 - Gebruik micro-omvormers of optimizers bij gedeeltelijke schaduw
 - Schaduw op 1 paneel beïnvloedt de hele string (bij string-omvormer)
 
+## Praktijkgeval: jaarberekening plat dak 2027
+
+Mijn buurman heeft een plat kantoordak op zijn garagebox — 40 m² bruikbaar. Hij wilde maximaal opwekken. Ik heb voor hem twee opties doorgerekend voor de situatie na saldering-stop.
+
+**Situatie:** Verbruik 4.200 kWh/jaar, kantoor deels thuis, EV laadt overdag.
+
+**Optie 1: 10 panelen zuidopstelling (15°)**
+- Opwekking: 3.600 kWh/jaar
+- Eigen verbruik (45% door EV overdag): 1.620 kWh
+- Teruglevering: 1.980 kWh
+- Aanschafkosten: €4.300 (inclusief ballastsysteem)
+
+Jaaropbrengst 2027 (Frank Energie dynamisch):
+- Eigen verbruik: 1.620 × €0,29 = €470
+- Teruglevering: 1.980 × €0,12 = €238
+- **Totaal: €708 per jaar, TVT: 6,1 jaar**
+
+**Optie 2: 16 panelen oost-west opstelling**
+- Opwekking: 5.200 kWh/jaar (minder per paneel, maar meer panelen)
+- Eigen verbruik (55% door bredere productiecurve): 2.860 kWh
+- Teruglevering: 2.340 kWh
+- Aanschafkosten: €6.450
+
+Jaaropbrengst 2027 (Frank Energie dynamisch):
+- Eigen verbruik: 2.860 × €0,29 = €830
+- Teruglevering: 2.340 × €0,12 = €281
+- **Totaal: €1.111 per jaar, TVT: 5,8 jaar**
+
+**Conclusie:** De grotere oost-west installatie betaalt zich iets sneller terug én levert meer op totaal. Door de bredere productiecurve wordt meer stroom direct verbruikt — cruciaal na de saldering-stop.
+
+## 0% BTW: wat het betekent voor plat dakinstallaties
+
+Sinds 2023 geldt 0% BTW op zonnepanelen en installatie voor woningen. Dat geldt ook voor platte daken bij woningen, inclusief het montagesysteem.
+
+**Concreet verschil voor een plat dak installatie:**
+
+| Component | Prijs excl. BTW | Vroeger +21% | Nu 0% |
+|---|---|---|---|
+| 10 panelen | €2.200 | €2.662 | €2.200 |
+| Omvormer | €700 | €847 | €700 |
+| Ballastsysteem | €400 | €484 | €400 |
+| Installatie | €550 | €666 | €550 |
+| **Totaal** | **€3.850** | **€4.659** | **€3.850** |
+
+Je bespaart **€809** op een gemiddelde plat-dak installatie van 10 panelen. Dat is direct invloed op de terugverdientijd.
+
+**Let op bij garageboxen:** Als de garagebox niet bij de woning hoort (bijv. apart gelegen), dan geldt mogelijk 21% BTW. Vraag je installateur dit vooraf te bevestigen.
+
+## Veelgemaakte fouten bij plat dak installaties
+
+Na gesprekken met installateurs en eigenaren van platte dakinstellaties zie ik deze fouten steeds terugkomen:
+
+**Fout 1: Onvoldoende tussenruimte berekenen**
+Voor zuidopstelling moet je schaduw voorkomen. De vuistregel: tussenruimte = hoogte frame × factor 2 à 2,5. Bij een frame van 30 cm hoogte heb je 60-75 cm vrije ruimte nodig tussen rijen. Wie dit te klein houdt, verliest in de winter 15-25% opbrengst door eigen schaduw.
+
+**Fout 2: Ballastberekening uitbesteden aan installateur zonder controle**
+Sommige installateurs leggen onvoldoende ballast voor de windzone. In Nederland zijn windbelastingen langs de kust beduidend hoger dan in Limburg. Vraag je installateur om de windzone-berekening te tonen.
+
+**Fout 3: Bitumendak niet eerst inspecteren**
+Bitumen ouder dan 15-20 jaar moet eerst vervangen worden vóór paneel-installatie. Plaat anders de installatie 3-5 jaar uit en doe eerst het dak. Lekken achteraf kosten meer dan het dakrenovatie bedrag.
+
+**Fout 4: Geen rekening houden met buren bij gestapelde appartementen**
+Bij VvE (Vereniging van Eigenaren) heb je toestemming nodig van de vergadering. Vraag dit vroegtijdig aan — sommige VvE's vergaderen slechts één keer per jaar.
+
+**Fout 5: Geen oost-west overwegen bij krap dak**
+Mensen kiezen automatisch voor zuiden. Maar bij een krap plat dak kun je met oost-west 30-50% meer panelen kwijt op hetzelfde dak. Dat compenseert ruimschoots de 8-10% lagere opbrengst per paneel.
+
+## Vergunning en regelgeving plat dak
+
+In de meeste gevallen is **geen vergunning** nodig voor zonnepanelen op een plat dak van een woning. Uitzonderingen:
+
+- **Monumenten**: altijd Omgevingsvergunning nodig
+- **Beschermd stadsgezicht**: check bij gemeente
+- **Als het systeem hoger uitsteekt dan de dakrand**: soms vergunningsplichtig
+- **VvE/appartement**: toestemming vergadering verplicht
+- **Huurwoning**: toestemming verhuurder verplicht
+
+Voor bedrijfspanden (ook privé) gelden andere regels — daar is de 0% BTW ook niet van toepassing.
+
 ## Conclusie
 
 Zonnepanelen op een plat dak zijn een uitstekende investering met een terugverdientijd van 4-5 jaar. Kies oost-west als je maximaal wilt opwekken op een beperkt dak, of zuid als opbrengst per paneel prioriteit heeft. Een ballastsysteem is voor de meeste daken de veiligste en voordeligste keuze.

@@ -186,6 +186,87 @@ Veel gemeenten bieden aanvullende subsidie:
 4. **Subsidie vergeten** — Vraag altijd SEEH + gemeentelijke subsidie aan
 5. **Verkeerde aardlekschakelaar** — Type B is verplicht, niet het goedkopere type A
 
+## Jaarberekening: wat levert een thuislaadpaal op?
+
+Ik reken het volledig door voor een representatief profiel.
+
+**Profiel: EV-rijder, 18.000 km/jaar, verbruik 18 kWh/100 km**
+
+Totaal laadverbruik: 3.240 kWh/jaar.
+
+| Laadstrategie | Tarief/kWh | Jaarkosten laden | Verschil vs publiek |
+|---|---|---|---|
+| Alleen publiek laden (snellader) | €0,65 | €2.106 | — |
+| Publiek laden (AC, laadpaal op straat) | €0,48 | €1.555 | -€551 |
+| Thuis, vast contract | €0,28 | €907 | -€1.199 |
+| Thuis, dynamisch daluren (Tibber/Frank) | €0,11 | €356 | -€1.750 |
+| Thuis, eigen zonnestroom (overdag) | €0,05 | €162 | -€1.944 |
+
+De investering in een laadpaal (€900 netto na subsidie) verdient zich bij thuisladen op dynamisch contract terug in **6 maanden**. Dat is waarschijnlijk de snelst rendabele duurzaamheidsinvestering die je kunt doen.
+
+---
+
+## Veelgemaakte fouten bij thuislaadpaal installatie
+
+Ik installeer wekelijks laadpalen bij klanten en zie steeds dezelfde fouten.
+
+**Fout 1: Laadpaal te ver van de meterkast**
+Elke extra meter kabel kost €15-€25 voor materiaal en arbeid. Een laadpaal op 20 meter afstand kost al €400-€500 meer dan dezelfde laadpaal op 5 meter. Overweeg altijd of je de auto anders kunt parkeren.
+
+**Fout 2: Geen toekomstbestendige kabels leggen**
+Laat altijd 2× de benodigde kabeldiameter ingraven. Eén keer graven voor toekomstige capaciteitsuitbreiding of een tweede laadpaal is veel goedkoper dan later opnieuw te graven.
+
+**Fout 3: Type A aardlekschakelaar kiezen**
+De wetgeving vereist type B. Een type A voldoet niet voor EV-laders. Sommige (goedkopere) installateurs rekenen type A aan — die besparing kost je later een keuring of verzekeringskwestie. Controleer je offerte expliciet.
+
+**Fout 4: Subsidie vergeten aan te vragen**
+De SEEH-regeling (tot €600) wordt niet automatisch verrekend. Je vraagt hem zelf aan via RVO.nl na installatie. Gemeentelijke subsidies variëren — in Amsterdam is dat tot €500 extra. Neem 5 minuten om te checken of jouw gemeente iets biedt.
+
+**Fout 5: Laadpaal zonder OCPP kopen**
+OCPP is het communicatieprotocol dat laadpalen laat samenwerken met energiemanagementsystemen. Zonder OCPP werkt je laadpaal niet met Home Assistant of dynamische energiesturing. Alle laadpalen in dit artikel ondersteunen OCPP — goedkopere merkloze exemplaren vaak niet.
+
+**Fout 6: 1-fase installeren terwijl 3-fase beschikbaar is**
+Bij 1-fase laden laad je op 7,4 kW. Bij 3-fase op 11 kW. Het verschil: bij 1 uur laden krijg je 7,4 km extra rijbereik (1-fase) vs 11 km (3-fase). Voor dagelijks woon-werkverkeer van 30 km maakt het niet uit. Voor wie 200 km rijdt en snel vol wil laden 's avonds: 3-fase is wezenlijk.
+
+---
+
+## Wettelijk kader 2026: subsidies en normen
+
+**SEEH-regeling laadpaal:** Tot €600 teruggave voor een thuislaadpaal bij een koopwoning. Aanvragen via RVO.nl na installatie (niet daarvoor). Vereisten: laadpaal met minimaal 3-fase ondersteuning en OCPP-protocol. Budget is jaarlijks, check beschikbaarheid vroeg in het jaar.
+
+**Werkgeversvergoeding:** Werkgevers mogen tot €1.800 onbelast vergoeden voor een thuislaadpaal (werkkostenregeling). Vraag dit aan bij je HR-afdeling vóórdat je de laadpaal koopt — de volgorde is belangrijk voor de fiscale verwerking.
+
+**Verplichting laadpunten in appartementen (2025):** In nieuwbouwappartementen is een laadpunt per parkeerplaats wettelijk verplicht per 1 januari 2025. Voor bestaande gebouwen geldt een inspanningsverplichting voor VvE's. Dit maakt thuisladen toegankelijker voor appartementsbewoners.
+
+**Bidirectioneel laden (V2H/V2G):** In Nederland zijn bidirectionele laadpalen (Wallbox Quasar 2) legaal, maar V2G (terugleveren aan het net) is nog niet op grote schaal beschikbaar. V2H (auto voedt het huis) is wel legaal en functioneel voor wie een geschikte auto heeft.
+
+**Netcongestie en laadtijden:** Netbeheerders in overbelaste gebieden (Noord-Holland, Utrecht) mogen per 2026 beperkte laadtijden opleggen voor niet-slimme laadpalen. Slimme laadpalen die reageren op netbeheer-signalen zijn hiervan vrijgesteld. Nog een reden om een OCPP-laadpaal te kiezen.
+
+---
+
+## Combinaties: laadpaal + zonnepanelen + thuisbatterij
+
+Een laadpaal werkt het best als onderdeel van een groter energiesysteem.
+
+### Combinatie 1: laadpaal + zonnepanelen (zonder batterij)
+
+De meest rendabele startcombinatie. Stel de laadpaal in om te laden als de zonne-opbrengst hoog is (bijv. 11:00-15:00 op zonnige dagen). Met een P1-meter en slimme laadpaal gaat dit automatisch.
+
+Besparing: €0,22-€0,28/kWh verschil tussen inkoop en zonnestroom. Bij 1.000 kWh zonne-laadkWh per jaar: €220-€280 extra besparing.
+
+### Combinatie 2: laadpaal + thuisbatterij + dynamisch contract
+
+Ideaal voor wie 's avonds thuis rijdt en laadt. Volgorde:
+1. Overdag: thuisbatterij laadt op zonnestroom
+2. Avond: thuisbatterij ontlaadt voor huishouden, laadpaal laadt auto op nacht-tarief (goedkoopst)
+3. Nacht: laadpaal laadt auto op dynamisch laagste uren
+
+### Combinatie 3: laadpaal + bidirectioneel (V2H)
+
+Werkt alleen met Ioniq 5, EV6, EV9 en Nissan Leaf (CHAdeMO). Vereist Wallbox Quasar 2 of Huawei LUNA-EV-module. Duurste optie, beste rendement als auto veel thuis staat.
+
+---
+
 ## Conclusie
 
 Een thuislaadpaal is een van de beste investeringen als EV-rijder. Met €800-€1.500 (na subsidie: €400-€1.000) bespaar je €800-€1.600 per jaar ten opzichte van publiek laden. De Easee Home is onze top-aanbeveling, maar de Wallbox Pulsar Plus is een uitstekend budgetalternatief.

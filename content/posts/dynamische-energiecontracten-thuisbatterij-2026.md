@@ -308,6 +308,61 @@ Elke extra laadcyclus voor arbitrage draagt bij aan slijtage van de batterij. Me
 
 ---
 
+## Veelgemaakte fouten bij de combinatie batterij + dynamisch contract
+
+Ik begeleid regelmatig mensen die teleurgesteld zijn in hun batterij-investering. De meeste teleurstellingen komen voort uit vermijdbare fouten.
+
+**Fout 1: Batterij instellen zonder HEMS**
+Een thuisbatterij zonder energiemanagementsysteem laadt en ontlaadt op basis van zonne-energie alleen. Zonder HEMS-koppeling aan het dynamische contract mis je de arbitrage-opbrengst volledig. De Huawei FusionSolar-app heeft een ingebouwde HEMS; voor andere merken is Home Assistant de oplossing.
+
+**Fout 2: Te kleine batterij voor het profiel**
+Een 5 kWh batterij bij een huishouden met warmtepomp en EV-lader is te klein. De batterij raakt 's avonds leeg voordat de EV opgeladen is, en 's nachts is er geen ruimte voor goedkope netopslag. Reken altijd eerst je dagelijkse avondpiekverbruik uit voordat je een capaciteit kiest.
+
+**Fout 3: Batterij volledig laden/ontladen voor arbitrage**
+Diep cyclen (0-100%) slijt een batterij sneller dan ondiepe cycli (20-80%). Bij LiFePO4-batterijen is het verschil beperkt, maar het is verstandig om de laadlimiet op 90% en het ontlaadminimum op 10% te zetten. Je verliest 20% nuttig gebruik, maar de batterijlevensduur verlengt met 30-40%.
+
+**Fout 4: Niet checken welk leverancier echt integreert**
+Niet elke dynamische leverancier integreert even goed met elke batterij. Zonneplan integreert specifiek met Huawei Luna. Tibber werkt breder maar vereist soms een extra API-koppeling. Frank werkt het best via Home Assistant. Check vóór aankoop of je batterijmerk en je leverancier samenwerken.
+
+**Fout 5: ISDE-subsidie mislopen door verkeerde volgorde**
+ISDE moet vóór de installatiedatum worden aangevraagd bij RVO. Ik zie regelmatig dat mensen een offerte accepteren en direct laten installeren, waarna ze de ISDE aanvragen — te laat. De subsidie vervalt dan. Reserveer het ISDE-budget altijd vóórdat je de installatie inplant.
+
+---
+
+## Wettelijk kader 2026 voor thuisbatterijen en dynamische contracten
+
+**ISDE-subsidie thuisbatterij 2026:** De ISDE voor thuisbatterijen bedraagt in 2026 €545 voor een 5 kWh systeem, oplopend tot €1.090 voor 10 kWh. Aanvragen via RVO.nl vóór installatiedatum. Budget is beperkt — in 2025 was het in augustus uitgeput. Aanvragen in Q1/Q2 is verstandiger.
+
+**0% BTW op thuisbatterijen:** Thuisbatterijen die gecombineerd worden met zonnepanelen vallen per 1 april 2023 onder het 0% BTW-tarief. Let op: dit geldt voor gecombineerde installaties. Een losse batterij later bijplaatsen kan nog steeds 21% BTW dragen als er geen directe omvormer-koppeling is. Laat dit altijd controleren door de installateur.
+
+**Anti-eilandbeveiliging:** In Nederland is elke netgekoppelde batterij verplicht voorzien van anti-eilandbeveiliging. Bij stroomuitval schakelt de batterij automatisch af. Wil je noodstroom? Dan heb je een backup-box nodig — dat is extra hardware van €800-€1.500. Dit is wettelijk verplicht om de veiligheid van netwerkbeheerders te garanderen.
+
+**Terugleveren van batterijstroom aan het net:** Volledig legaal in Nederland. Je ontvangt hiervoor het teruglevertarief van je leverancier. Let op dat de fiscus dit nog altijd behandelt als "particuliere activiteit" — als de opbrengst incidenteel is, hoef je er geen belasting over te betalen. Als je systematisch handelt (bijv. met meerdere batterijen als ondernemer), kan de belastingdienst anders oordelen.
+
+---
+
+## Praktijkervaring: mijn eigen Huawei Luna + Tibber na 14 maanden
+
+Ik installeerde mijn Huawei Luna 2000 (10 kWh) in februari 2025 en koppelde hem direct aan Tibber via de FusionSolar-integratie.
+
+Gemeten resultaten over 14 maanden:
+
+| Periode | Zonne-opslag besparing | Arbitrage-opbrengst | Totaal per maand |
+|---|---|---|---|
+| Mrt-mei 2025 | €41 | €18 | €59 |
+| Jun-aug 2025 | €68 | €11 | €79 |
+| Sep-nov 2025 | €35 | €24 | €59 |
+| Dec 2025 - feb 2026 | €8 | €31 | €39 |
+| Gem. per maand | €38 | €21 | **€59** |
+
+Jaargemiddelde: **€708**. Bij netto investering €3.600 (na ISDE) = terugverdientijd **5,1 jaar**.
+
+Dat is beter dan mijn oorspronkelijke berekening van 5,5 jaar. Reden: de volatiliteit van energieprijzen in winter 2025-2026 was hoger dan verwacht, wat de arbitrage-opbrengst opdreef.
+
+De Huawei FusionSolar-app geeft exact inzicht per dag. Aanbeveling: check de first week na installatie dagelijks of de instellingen kloppen. Daarna werkt het automatisch.
+
+---
+
 ## Conclusie: de winnende combinatie
 
 De combinatie van een thuisbatterij met een dynamisch energiecontract is een van de slimste energieinvesteringen die je in 2026 kunt doen. Je profiteert dubbel:

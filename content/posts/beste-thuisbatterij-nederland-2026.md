@@ -374,6 +374,123 @@ Veel installateurs bieden financieringsopties aan. Daarnaast kun je bij sommige 
 
 ---
 
+## Concrete jaarberekening per batterijtype
+
+Ik wil je laten zien wat de werkelijke besparing is — niet in marketingclaims maar in getallen.
+
+**Uitgangspunt**: gemiddeld Nederlands huishouden, 12 zonnepanelen (4.500 Wp), 3.500 kWh verbruik/jaar, dynamisch contract.
+
+| Batterij | Investering | Besparing/jaar | Terugverdientijd |
+|---|---|---|---|
+| Huawei Luna 2000 10 kWh | €7.000 | €900 | 7,8 jaar |
+| BYD Battery-Box 10 kWh | €7.500 | €880 | 8,5 jaar |
+| Tesla Powerwall 3 (13,5 kWh) | €10.500 | €1.100 | 9,5 jaar |
+| Enphase IQ Battery 10 kWh | €10.000 | €820 | 12,2 jaar |
+| SolarEdge Home Battery 9,2 kWh | €6.200 | €800 | 7,8 jaar |
+
+Besparing is opgebouwd uit:
+1. **Eigen-verbruik-verhoging**: gemiddeld 1.200 kWh extra eigen verbruik × €0,30 = €360/jaar
+2. **Arbitrage**: gemiddeld 250 cycli × 8 kWh × €0,22 spread = €440/jaar
+3. **Na 2027** (saldering-stop): extra +€300-€400/jaar
+
+## Saldering stopt 2027: de katalysator
+
+Per 1 januari 2027 verandert de waarde van een thuisbatterij fundamenteel. De meeste Nederlandse zonnepaneelbezitters leveren nu 2.000-4.000 kWh per jaar terug aan het net en krijgen daar het volledige stroomtarief voor terug (saldering). Na 2027 ontvangen ze slechts ~€0,06/kWh.
+
+**Concreet verlies per jaar voor een gezin dat 3.000 kWh teruglevert:**
+- 2026 (nog saldering): 3.000 × €0,31 = €930 waarde
+- 2028 (64% saldering): 3.000 × €0,20 = €600 waarde → verlies €330/jaar
+- 2031 (geen saldering): 3.000 × €0,06 = €180 waarde → verlies €750/jaar
+
+Een thuisbatterij van 10 kWh brengt je teruglevering terug van 3.000 kWh naar 400-600 kWh. Dat absorbeert 85% van het saldering-verlies.
+
+**Mijn advies**: wie nu twijfelt, heeft tot Q3 2026 om rustig te beslissen. Wie daarna wacht, doet dat midden in een installatiegolf waarbij wachttijden oplopen en marges voor installateurs stijgen.
+
+## Levensduur en degradatie: wat je over 10 jaar kunt verwachten
+
+Alle batterijen in dit overzicht gebruiken LFP-cellen (lithium-ijzer-fosfaat). Dat is de veiligste en meest duurzame keuze voor thuisopslag.
+
+**LFP-eigenschappen:**
+- Geen "thermal runaway" brandgevaar
+- Lineaire, langzame degradatie
+- 6.000-10.000 cycli tot 70-80% restcapaciteit
+- Werkt goed in temperatuurbereik −10°C tot +55°C
+
+**Garantie-vergelijking:**
+- Huawei, BYD, Tesla, SolarEdge: 10 jaar op 70-80% capaciteitsretentie
+- Enphase: 15 jaar (markt-unicum)
+
+In de praktijk bij dagelijkse gebruik (0,8 cycli/dag) leven LFP-batterijen 20-25 jaar. De garantie-eis van 6.000 cycli is conservatief gecertificeerd.
+
+**Degradatie-impact op besparing:**
+- Jaar 1: €900/jaar
+- Jaar 5: ~€855/jaar (95% capaciteit)
+- Jaar 10: ~€810/jaar (90%)
+- Jaar 15: ~€720/jaar (80%)
+
+Cumulatief over 15 jaar: ~€12.000 besparing bij Huawei Luna-investering van €7.000 = **€5.000 nettoprofit over de levensduur**.
+
+## Installatie: meterkasteisen voor alle topmerken
+
+Ongeacht welk merk je kiest, er zijn gemeenschappelijke vereisten.
+
+**Universele vereisten:**
+- Erkend installateur (verplicht voor NEN 1010 certificering)
+- Vrije groep in meterkast (3× 16A voor meeste systemen)
+- Slimme meter (P1-poort voor data — bijna alle NL-woningen hebben dit)
+- Melding bij netbeheerder na installatie
+
+**Merkspecifieke vereisten:**
+- **Huawei Luna**: uitsluitend met Huawei SUN2000 omvormer
+- **Tesla Powerwall 3**: vervangt bestaande omvormer (ingebouwde hybride omvormer)
+- **BYD Battery-Box**: compatible met SMA, Fronius, Kostal, Victron, GoodWe
+- **Enphase IQ Battery**: AC-gekoppeld, werkt naast elke omvormer
+- **SolarEdge Home Battery**: uitsluitend met SolarEdge hybride omvormer
+
+**Geluidseisen:** alle moderne thuisbatterijen produceren maximaal 25-45 dB bij vollast. Dat is vergelijkbaar met fluisterende airco of koelkast. Nooit hoorbaar vanuit woonruimte als de batterij in garage/schuur staat.
+
+## Veiligheid: LFP vs NMC en brandveiligheidseisen
+
+In Nederland geldt NEN 1010 als norm voor elektrotechnische installaties. Alle professioneel geïnstalleerde thuisbatterijen voldoen hieraan.
+
+**LFP (alle merken in dit overzicht) is veilig:**
+- Geen thermal runaway: bij overkrachting of mechanische schade geen kettingreactie
+- Geen ventilatie vereist in installatieruimte
+- Geschikt voor garage, schuur, meterkast-kamer
+
+**Historische context**: eerder NMC-chemie (nikkel-mangaan-kobalt, gebruikt in oude Powerwall 1 en 2) had meer brandgevaar. NMC is inmiddels grotendeels vervangen door LFP.
+
+**Brandverzekering**: thuisbatterijen van erkende merken zijn standaard gedekt onder woningpolis. Check wel of je installateur een installatie-certificaat afgeeft — dat is de documentatie die de verzekeraar verwacht.
+
+## Veelgemaakte fouten bij de aankoop
+
+Na tientallen adviesgesprekken zie ik dezelfde fouten terugkomen.
+
+**Fout 1: batterij kiezen zonder compatibiliteitscheck omvormer**
+De meest gemaakte fout. Klant in Rotterdam: Fronius-omvormer aanwezig, kocht Huawei Luna. Moest ook omvormer vervangen: €1.500 extra onverwachte kosten.
+
+**Fout 2: capaciteit onderschatten bij warmtepomp of EV**
+Gezinnen met warmtepomp + EV hebben piekbelastingen van 5-8 kW. Een Sessy (2,5 kW) of Enphase (1,92 kW per unit) voldoet dan niet voor het volledige huishoudprofiel.
+
+**Fout 3: terugverdientijd op 2026-saldering-basis berekenen**
+In 2026 is de terugverdientijd hoger dan in 2027+ (want saldering maskeert het nut van batterij). Reken altijd met het 2027+-scenario voor eerlijk beeld.
+
+**Fout 4: geen ISDE-subsidie aanvragen**
+Als ISDE in 2027 beschikbaar wordt voor thuisbatterijen (hoge kans), verlaagt dat de investering met €1.000-€5.400. Plan het aanvragen direct na installatie.
+
+## Verlengde FAQ
+
+**Heb ik ook een warmtepomp nodig voor een thuisbatterij?**
+Nee. Warmtepomp en thuisbatterij zijn aparte verduurzamingsstappen. Een batterij werkt ook zonder warmtepomp. Wel: als je een warmtepomp wilt toevoegen, kies dan een batterij met 5 kW vermogen (Tesla, Huawei Luna 10+, BYD, SolarEdge).
+
+**Kan ik als huurder ook een thuisbatterij installeren?**
+In principe ja, mits verhuurder toestemming geeft. Bij sociale huurwoningen: bijna nooit. Bij particuliere huur: steeds vaker, zeker bij nieuwe huurcontracten. Lease (Zonneplan) is aantrekkelijker voor huurders dan koop.
+
+**Is de batterij het waard als ik maar 6 zonnepanelen heb?**
+Met 6 panelen (2,2 kWp) is je overschot beperkt — 800-1.200 kWh/jaar. Terugverdientijd bij 5 kWh-batterij: 9-12 jaar. Grenscase. Overweeg eerst meer panelen: 4 extra panelen kosten €1.200-€1.600 en verhogen rendabiliteit van batterij sterk.
+
+---
+
 ## Conclusie
 
 Voor de meeste Nederlandse huishoudens is de **Huawei Luna 2000** de beste keuze in 2026. Het biedt de scherpste prijs per kWh, een bewezen modulair systeem en uitstekende integratie met de populairste omvormer in Nederland. Heb je een bestaand systeem met een omvormer van een ander merk? Dan is de **BYD Battery-Box** het veiligste alternatief dankzij de brede compatibiliteit.

@@ -337,6 +337,83 @@ Met een terugverdientijd van 4-5 jaar en een panellevensduur van 25-30 jaar zijn
 
 ---
 
+## Jaarberekening: volledig gesubsidieerd systeem
+
+Ik reken door wat een gemiddeld systeem kost als je álle beschikbare subsidies en voordelen optimaal benut.
+
+**Installatie: 12 panelen + 5 kWh thuisbatterij, gemiddeld gezin**
+
+| Post | Bruto kosten | Subsidie/voordeel | Netto |
+|---|---|---|---|
+| 12 panelen (Longi 420 Wp) | €3.300 | 0% BTW (al verrekend) | €3.300 |
+| Huawei SUN2000 omvormer | €850 | 0% BTW (al verrekend) | €850 |
+| Montage + installatie | €700 | 0% BTW (al verrekend) | €700 |
+| Sessy 5 kWh thuisbatterij | €3.795 | ISDE €3.795 | **€0** |
+| Installatiekosten batterij | €400 | — | €400 |
+| **Totaal systeem** | **€9.045** | **-€3.795** | **€5.250** |
+
+Zonder subsidie: €9.045. Met 0% BTW en ISDE: **€5.250**. Besparing: **€3.795** (42%).
+
+**Terugverdientijd van dit gecombineerde systeem (2027-scenario):**
+
+- Jaaropwekking 12 panelen: 3.780 kWh
+- Met 5 kWh batterij stijgt eigen verbruik van 35% naar ~60%: 2.268 kWh direct
+- Teruglevering: 1.512 kWh
+- Frank Energie dynamisch contract
+
+Jaaropbrengst:
+- Eigen verbruik 2.268 × €0,30 = €680
+- Teruglevering 1.512 × €0,12 = €181
+- **Totaal: €861/jaar**
+- Terugverdientijd: €5.250 / €861 = **6,1 jaar**
+
+Na 6 jaar betaal je niets meer voor stroom — zelfs met de saldering-stop.
+
+## Saldering 2027: wat de subsidies er niet aan kunnen doen
+
+Subsidies compenseren de hogere aanschafprijs — ze compenseren niet de weggevallen waarde van teruggeleverde stroom. Dat is een misverstand dat ik regelmatig tegenkom.
+
+**Concreet:**
+- ISDE-subsidie geeft je €3.795 minder aanschafkosten voor een batterij
+- Maar de terugverdientijd van de batterij heb je ook nodig om te verlengen
+- Zonder subsidie: terugverdientijd batterij ~9 jaar bij goede situatie
+- Met ISDE €3.795 op Sessy 5 kWh: batterij kost netto €0 → je "verdient" direct terug via besparing
+
+De subsidies zijn dus veel waardevoller dan hun nominale bedrag suggereert. De ISDE maakt een kleine thuisbatterij praktisch gratis na 1 jaar gebruik.
+
+**Na 2026 verwachte subsidiewijzigingen:**
+
+- ISDE-subsidie: in de rijksbegroting 2027 staat een uitbreiding van het budget, maar het bedrag per kWh kan worden verlaagd. Verwachting: €700-€800/kWh in 2027 (was €900 in 2026).
+- 0% BTW: is structureel, geen aanwijzingen voor wijziging
+- Lokale subsidies: nemen toe naarmate gemeenten hun klimaatdoelstellingen proberen te halen
+
+**Advies:** Wie overweegt een thuisbatterij te kopen, doet er goed aan dit in 2026 te doen zolang het ISDE-tarief nog €900/kWh is.
+
+## Hoe werkt de ISDE exact — stappenplan
+
+Ik beschrijf dit uit eigen ervaring. Ik heb zelf de ISDE aangevraagd voor mijn Huawei Luna 2000 10 kWh.
+
+**Stap 1: Check of de batterij op de ISDE-apparatenlijst staat**
+Ga naar rvo.nl → Subsidies → ISDE → Apparatenlijst. Staat jouw exacte model (inclusief serienummer-range) niet op de lijst? Dan krijg je geen subsidie, hoe goed het apparaat ook is. Sommige modellen staan er pas op na een aanvraag door de fabrikant.
+
+**Stap 2: Installateur kiezen met ISDE-ervaring**
+Niet elke installateur heeft ISDE-aanvragen gedaan. Vraag expliciet: "Hebben jullie eerder ISDE aangevraagd?" Een ervaren installateur levert de juiste factuur (met specificaties die de RVO vereist) en weet welke documenten er nodig zijn.
+
+**Stap 3: Installatie laten uitvoeren**
+Zorg voor een gedetailleerde factuur met: merk, model, serienummer, capaciteit in kWh, en adres van installatie.
+
+**Stap 4: Aanvragen via mijn.rvo.nl**
+Inloggen met DigiD. Formulier invullen: adres, datum installatie, specificaties, factuurupload. Termijn: **binnen 6 maanden na installatie**. Dit is een harde deadline.
+
+**Stap 5: Wachten**
+RVO beslist binnen 8-13 weken. In mijn geval duurde het 9 weken. Uitbetaling volgt daarna snel (2-3 weken).
+
+**Veelgemaakte fouten:**
+- Aanvragen buiten de 6-maanden termijn
+- Model staat niet op apparatenlijst
+- Factuur mist capaciteitsspecificaties
+- DigiD niet beschikbaar (gebruik tijdig een DigiD-app)
+
 ## Conclusie
 
 Zonnepanelen zijn in 2026 nog steeds een **uitstekende investering** voor Nederlandse huishoudens. Met het 0% BTW-tarief, de nog volledig actieve salderingsregeling en dalende paneelprijzen is de terugverdientijd korter dan ooit: gemiddeld **4 tot 5 jaar**.

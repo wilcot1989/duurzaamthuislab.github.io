@@ -219,6 +219,124 @@ Welke kies je?
 - Wil garantie van Nederlandse bedrijf
 - Tesla-bezitter (Tesla Powerwall integratie)
 
+## Jaarberekening: wat Marstek Venus E oplevert
+
+Mijn collega's situatie is representatief voor het Nederlandse "tweeverdieners gezin met zonnepanelen" profiel. Laat me zijn 4-maanden-data doortrekken naar een volledig jaar.
+
+**Profiel**: 4.200 kWh/jaar verbruik, 2.300 kWh teruglevering, Frank Energie dynamisch.
+
+| Bron van besparing | Berekening | Jaarbedrag |
+|---|---|---|
+| Arbitrage nacht→avond | 350 cycli × 8,2 kWh × €0,22 spread | €628 |
+| Eigen verbruik zonne-overschot | 200 kWh/maand (zomer) × 5 maanden | €155 |
+| Post-2027 saldering-voordeel | 1.800 kWh minder teruglevering × €0,22 | €396 |
+| **Totaal 2026** | | **€783** |
+| **Totaal vanaf 2027** | | **€1.050-€1.200** |
+
+Investering €2.679 gedeeld door €783/jaar = **3,4 jaar terugverdientijd**. Dat is kort. Na terugverdientijd loop je puur winst op een apparaat met garantie tot 2036.
+
+## Saldering-stop 2027: waarom Marstek dan pas echt rendabel wordt
+
+In 2026 is de terugverdientijd al 3,4 jaar — indrukwekkend. Maar 2027 maakt het nog aantrekkelijker.
+
+Per 1 januari 2027 stopt de salderingsregeling. Stel dat mijn collega zonder batterij 2.300 kWh per jaar teruglevert:
+- In 2026 (saldering): €0,31/kWh = **€713 waarde**
+- In 2027 (geen saldering): €0,06/kWh = **€138 waarde**
+- **Verlies door saldering-stop**: **€575/jaar**
+
+De Marstek-batterij absorbeert 1.800-2.000 kWh van die teruglevering als eigen verbruik. Saldering-verlies daalt naar €45-€75/jaar. Jaarlijkse besparing stijgt naar €1.050-€1.200.
+
+Effectieve terugverdientijd met 2027-cijfers: **2,3-2,6 jaar**. Dat is ongekend voor een thuisbatterij.
+
+## Marstek met Home Assistant: wat je ermee kunt
+
+Home Assistant is waar Marstek echt uitblinkt vergeleken met Sessy of Zonneplan.
+
+Mijn collega is een HA-gebruiker. Hij heeft gebouwd:
+
+**Automatie 1: automatisch laden bij negatieve EPEX-prijzen**
+```yaml
+trigger: epex_price < -0.01 EUR/kWh
+action: marstek.set_charge_mode(max_rate)
+```
+Op 14 april 2026 was de prijs −€0,04/kWh van 13u-16u (zonnestorm). Marstek laadde volledig gratis op én ontving €0,04/kWh voor elke kWh die hij "opnam". Dagopbrengst: €3,20 extra.
+
+**Automatie 2: avondpiek-ontlading**
+Bij Frank Energie-pieken boven €0,45/kWh ontlaadt Marstek automatisch naar minimaal 15%. Op normale avond: €0,22-€0,35 spread, genoeg voor €0,80-€1,20/cyclus.
+
+**Automatie 3: EV-laden combineren**
+Hij heeft een EVCC-gebaseerde laadpaal. Als Marstek boven 80% staat EN EPEX-prijs laag is → EV laden op zonne-overschot. Combinatie van Marstek + EVCC op HA = krachtigste thuisenergiesysteem in zijn straat.
+
+**EnergyZero koppeling via de Marstek-app**
+Voor wie geen HA heeft: de Marstek-app koppelt via EnergyZero API voor automatische prijsoptimalisatie. Minder nauwkeurig dan HA maar werkt voor 90% van gebruikers goed genoeg.
+
+## Veiligheid: LFP-chemie en brandveiligheid
+
+Marstek gebruikt LFP-cellen (lithium-ijzer-fosfaat), net als Sessy. Dit is relevant.
+
+**Waarom LFP veiliger is dan NMC:**
+- Geen "thermal runaway" risico — kan niet spontaan vlam vatten
+- Stabiel bij hoge temperaturen (tot 60°C)
+- Bij mechanische schade: geen explosierisico
+- Vereist geen speciale ventilatie of branddetectie
+
+**NEN 1010 — electriciteitsveiligheid:**
+Installatie van Marstek Venus E vereist een erkend installateur die NEN 1010 certificering heeft. Dat is de Nederlandse norm voor elektrotechnische installaties. Bij doe-het-zelf-aansluiting achter de meter: onwettig én vervalt garantie.
+
+**Venus A (stopcontact-versie):** dat plug-in model valt buiten NEN 1010-verplichting want het gaat via het bestaande net. Maar verifieer dat je stopcontact is geaard en de groep op 16A staat.
+
+Mijn collega's installatie (Venus E) voldoet volledig aan NEN 1010. Zijn installateur heeft een installatie-certificaat afgegeven voor de netbeheerder.
+
+## Veelgemaakte fouten bij de Marstek-keuze
+
+**Fout 1: Venus A kopen voor een gezin van 4**
+Venus A levert maximaal 1,5 kW continu. Voor een eenpersoons huishouden: voldoende. Voor een gezin van 4 met inductie, vaatwasser en magnetron tegelijk: te zwak. Kies dan Venus E (3 kW).
+
+**Fout 2: geen Home Assistant of EnergyZero koppeling maken**
+Marstek zonder automatisering is een batterij die alleen zonne-overschot opslaat. Dat levert €200-€300/jaar op. Met EnergyZero-koppeling of HA: €700-€850/jaar. Het verschil zit puur in de configuratie — neem 1-2 uur om dit in te stellen.
+
+**Fout 3: garantie-afhandeling onderschatten**
+Marstek heeft EU-garantie via Frankfurt maar dat duurt 4-8 weken. Als je batterij in december uitvalt en er is winterstorm-arbitrage te missen: irritant. Kies Sessy of Zonneplan als snelle service voor jou doorslaggevend is.
+
+## Levensduur en degradatie: Venus E over 10 jaar
+
+Marstek claimt 6.000 cycli tot 80% capaciteit. LFP in de praktijk is conservatief gecertificeerd — velen halen 7.000-8.000 cycli.
+
+Bij 1 cyclus/dag = 6.000 dagen = 16,4 jaar. Maar Marstek garandeert 10 jaar op 80%.
+
+**Wat dat betekent voor de besparing:**
+- Jaar 1: 8,2 kWh, €780/jaar
+- Jaar 5: 7,8 kWh (95%), €741/jaar
+- Jaar 10: 6,6 kWh (80%), €624/jaar
+- Cumulatief over 10 jaar: ~€7.200 besparing op €2.679 investering
+
+**ROI over 10 jaar: 169%**. Dat is ongekend in de thuisbatterij-markt.
+
+## Vergelijking lease vs koop — Marstek is geen leaseproduct
+
+Marstek biedt geen lease-optie. Dat is een nadeel als je geen cash hebt, maar de koop-rekensom is zo goed dat een persoonlijke lening ook nog acceptabel is.
+
+| Optie | Maandelijks | 10 jaar totaal | 10 jaar besparing | Netto |
+|---|---|---|---|---|
+| Cash koop Marstek Venus E | n.v.t. | €2.679 | €7.200 | **€4.521 winst** |
+| Lening €2.679 bij 5,5% (5 jaar) | €51/mnd | €3.060 | €7.200 | **€4.140 winst** |
+| Zonneplan lease 10 kWh | €54/mnd | €6.480 | €8.400 | **€1.920 winst** |
+
+Zelfs met een lening is Marstek Venus E netto €2.200 voordeliger dan Zonneplan lease over 10 jaar.
+
+## Extra FAQ
+
+**Hoe zit het met de locatie — kan Marstek in de garage?**
+Ja. Venus E werkt van -10°C tot +50°C. Nederlandse garages komen zelden onder −5°C, dus geen probleem. Aanbevolen: niet in direct zonlicht of naast een warmtebron. Geluidsniveau: verwaarloosbaar.
+
+**Hoe werkt de Venus A met zonnepanelen?**
+Venus A koppelt AC (stopcontact), niet DC. Zonnepanelen leveren via omvormer → net → Venus A laadt automatisch. Er is geen directe koppeling. Resultaat: iets minder efficiënt (2× omzetting) maar werkt prima voor overschot-opslag.
+
+**Kan Marstek werken met een vast energiecontract?**
+Technisch ja, maar het arbitrage-voordeel (€400-€500/jaar) verdwijnt. Je houdt het eigen-verbruik-voordeel (€200-€300/jaar). Terugverdientijd wordt daarmee 8-10 jaar ipv 3-4. Niet rationeel — haal tegelijk een dynamisch contract.
+
+---
+
 ## Mijn aanbeveling
 
 Marstek Venus E is in 2026 de **prijs-kampioen** in de Nederlandse thuisbatterij-markt. Voor wie smart-home enthousiast is en niet-blut wil zijn na een batterij-aankoop: dit is de slimste keus.

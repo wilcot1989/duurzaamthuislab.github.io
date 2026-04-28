@@ -287,6 +287,109 @@ De afbouw treft niet elk huishouden even hard. Hieronder een overzicht:
 
 ---
 
+## Praktijkvoorbeeld: jaarberekening 2027 vs 2026
+
+Laten we de impact concreet maken. Ik neem een huishouden dat ik ken: Sandra en Joost, twee inkomens, beide deels thuis werkend. Ze hebben 12 panelen (4,5 kWp) geïnstalleerd in 2023.
+
+**Hun situatie:**
+- Jaarverbruik: 3.800 kWh
+- Jaaropwekking: 3.950 kWh
+- Direct eigen verbruik: 35% van opwekking = 1.380 kWh
+- Teruglevering: 2.570 kWh
+- Afname van net: 2.420 kWh
+
+**Berekening 2026 (saldering volledig):**
+
+| Post | Berekening | Bedrag |
+|---|---|---|
+| Afname van net, na saldering: (2.420 - 2.420) = 0 kWh | 0 × €0,30 | €0 |
+| Gesaldeerd restant | Saldering dekt alles | €0 |
+| Netbeheerkosten (vaste lasten) | — | €400 |
+| **Totaal energiekosten** | | **€400** |
+
+Ze betaalden in 2026 bijna niets voor stroom — alleen vaste netbeheerkosten.
+
+**Berekening 2027 (saldering volledig afgeschaft — harde stop scenario):**
+
+| Post | Berekening | Bedrag |
+|---|---|---|
+| Afname van net (2.420 kWh) | 2.420 × €0,30 | €726 |
+| Terugleververgoeding (2.570 kWh) | 2.570 × €0,10 | -€257 |
+| Terugleverkosten (leverancier) | ~€18/maand | €216 |
+| Netbeheerkosten | — | €400 |
+| **Totaal energiekosten** | | **€1.085** |
+
+**Van €400 naar €1.085 per jaar. Dat is €685 meer — of €57 per maand extra.**
+
+Dat is de harde waarheid voor een doorsnee-installatie van 12 panelen bij een actief huishouden. De panelen zijn er, de investering is gedaan, maar de spelregels zijn fundamenteel veranderd.
+
+## Wat verandert er specifiek per 1 januari 2027?
+
+**Let op:** het meest recente politieke besluit (maart 2026) is een harde stop, geen geleidelijke afbouw. Het afbouwschema in dit artikel (73%, 55%, etc.) is het *oorspronkelijke* plan. De actuele wetgeving gaat naar een volledige stop in één keer per 1-1-2027. Ik houd dit artikel bijgewerkt als er nieuwe informatie is.
+
+Wat concreet verandert:
+
+1. **Salderingsverrekening verdwijnt:** Je energieleverancier kan je teruggeleverde kWh niet meer wegstrepen tegen je afname. De teller gaat op nul voor teruglevering.
+
+2. **Terugleververgoeding wordt leidend:** Wat je krijgt voor teruggeleverde stroom bepaalt je leverancier. In 2026 varieer dit van €0,05 tot €0,14 per kWh afhankelijk van leverancier en contractvorm.
+
+3. **Terugleverkosten worden universeel:** Leveranciers die nu al terugleverkosten rekenen (Eneco, Vattenfall) doen dat naar verwachting harder na 2027. Leveranciers die dat nog niet doen, zullen volgen.
+
+4. **Dynamische contracten winnen terrein:** Voor wie slim kan sturen, worden dynamische contracten nog interessanter. Bij Tibber en Frank Energie betaal je uurprijzen en zijn er geen aparte terugleverkosten.
+
+## 0% BTW op zonnepanelen: wat het betekent voor je investering
+
+Eén positieve noot te midden van al het saldering-nieuws: de **0% BTW-regeling** voor zonnepanelen is permanent. Ingevoerd per 1 januari 2023, en sindsdien geldig voor alle residentiële zonnepanelen inclusief omvormer en installatie.
+
+**Wat dat concreet betekent:**
+
+Een systeem van 12 panelen bij een installateur:
+- Prijs exclusief BTW: €5.165
+- Vroeger met 21% BTW: €6.250
+- Nu met 0% BTW: **€5.165**
+
+Je bespaart dus direct **€1.085** op de aanschaf van een gemiddeld systeem. Voor grotere systemen met batterij:
+- Systeem + 10 kWh thuisbatterij: €11.500 exclusief BTW
+- Vroeger: €13.915 inclusief 21%
+- Nu: **€11.500** (alleen voor het zonnepaneel-deel; de batterij valt onder 21% BTW tenzij mee-geïnstalleerd als onlosmakelijk geheel)
+
+Dit voordeel compenseert gedeeltelijk de langere terugverdientijd door de saldering-stop. Niet volledig, maar het is een reële besparing die iedereen meepakt die in 2026 of later installeert.
+
+## ISDE-subsidie: nog steeds de moeite waard
+
+De **Investeringssubsidie Duurzame Energie (ISDE)** geldt in 2026 nog voor thuisbatterijen gekoppeld aan zonnepanelen: tot €900 per kWh, maximaal €5.400 voor een 6 kWh+ systeem.
+
+Voor wie nu een thuisbatterij overweegt als reactie op de saldering-stop:
+
+| Batterij | Capaciteit | ISDE-subsidie | Netto prijs na subsidie |
+|---|---|---|---|
+| Sessy 5 kWh | 5 kWh | €3.795 (max bij 5 kWh) | €0 (volledig gedekt!) |
+| Huawei Luna 5 kWh | 5 kWh | €3.795 | ~€700 eigen bijdrage |
+| Huawei Luna 10 kWh | 10 kWh | €5.400 (max) | ~€1.000 eigen bijdrage |
+| Tesla Powerwall 3 (13,5 kWh) | 13,5 kWh | €5.400 (max) | ~€4.100 eigen bijdrage |
+
+De subsidie maakt het voor kleine systemen (5 kWh) financieel bijna risicovrij. De Sessy 5 kWh is momenteel de enige thuisbatterij die volledig door de ISDE gedekt wordt.
+
+**Hoe aanvragen?** Via mijn.rvo.nl, binnen 6 maanden na installatie. Je hebt de factuur, installateurgegevens en bewijs van zonnepanelen nodig.
+
+## Veelgestelde vragen en misverstanden
+
+### "Mijn zonnepanelen zijn nu waardeloos"
+
+Niet waar. De waarde van direct eigen verbruik verandert niet. Als je overdag de wasmachine draait en die stroom direct van je dak komt, bespaar je nog steeds €0,30/kWh. Die waarde verdwijnt nergens. Wat verdwijnt is de gesubsidieerde waarde van teruggeleverde stroom.
+
+### "Ik had nooit panelen moeten kopen"
+
+Genuanceerder. Als je in 2023 panelen hebt gekocht op basis van de toenmalige saldering, dan was dat een rationele beslissing met de informatie van dat moment. De terugverdientijd loopt op, maar bij de meeste installaties is 10-12 jaar nog steeds binnen de levensduur van 25 jaar. Je maakt gewoon geen 15-20 jaar pure winst meer, maar wel 13-15 jaar.
+
+### "Ik moet nu snel een batterij kopen"
+
+Niet per se. De batterijprijzen dalen 8-12% per jaar. Als je teruglevering beperkt is (<1.500 kWh/jaar), is een batterij nu nog niet rendabel — de terugverdientijd van de batterij zelf loopt dan op naar 15+ jaar. Wacht op verdere prijsdaling en/of koop een kleine 5 kWh batterij met ISDE-subsidie.
+
+### "Het kabinet gaat hier nog op terugkomen"
+
+Onwaarschijnlijk. Het politieke draagvlak voor saldering is weg in 2026. Alle grote partijen zijn het eens over de noodzaak tot afschaffing vanwege netcongestie en kosten. De juridische argumentatie is ook ingebakken: saldering was altijd een tijdelijke stimuleringsmaatregel, geen permanent recht.
+
 ## Conclusie
 
 De afbouw van de salderingsregeling is een realiteit waar alle zonnepanelen-bezitters in Nederland mee te maken krijgen. De financiele impact is reeel: de terugverdientijd van zonnepanelen loopt op van circa 6 jaar naar 11 jaar in het scenario zonder saldering.

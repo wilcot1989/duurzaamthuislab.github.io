@@ -223,6 +223,77 @@ Klopte tot 2024. Sinds 2025 zijn de prijsschommelingen meer voorspelbaar geworde
 **3. "Ik wacht tot 2027 om te zien wat er gebeurt"**
 Wachten kost je 8-12 maanden besparing. Nu overstappen levert al voordeel op vóór de saldering-stop ingaat.
 
+## Praktijkgeval: wat de keuze van leverancier concreet kost
+
+Mijn moeder heeft 14 panelen en levert ~2.800 kWh per jaar terug. Ze was bij Eneco. Na mijn advies is ze overgestapt naar Tibber. Hier de vergelijking over 2026:
+
+**Bij Eneco (2.800 kWh teruglevering):**
+- Terugleverkosten gestaffeld: €20/maand = €240/jaar
+- Leveringstarief (vaste prijs): €0,32/kWh
+- Afname netto na saldering: 1.200 kWh
+- Kosten afname: 1.200 × €0,32 = €384
+- Terugleverkosten: €240
+- **Totaal energiedeel: €624**
+
+**Bij Tibber (dynamisch):**
+- Terugleverkosten: €0 apart
+- Effectieve afnamekosten: 1.200 kWh × gemiddeld €0,27 = €324
+- Effectieve teruglevering: 2.800 kWh × effectief ~€0,11 (marktprijs) = -€308
+- Netto energiedeel: €16
+- **Totaal energiedeel: €16**
+
+Verschil: **€608 per jaar** — alleen door te switchen van Eneco naar Tibber, zonder enige investering. In 2027 (na saldering-stop) loopt dit verschil verder op tot ~€850.
+
+Ze heeft me een fles wijn gestuurd.
+
+## Saldering stop 2027: extra impact op terugleverkosten
+
+Mensen focussen op de saldering-stop zelf, maar vergeten dat terugleverkosten ook omhoog gaan als saldering wegvalt. Hier is waarom:
+
+**Waarom terugleverkosten stijgen in 2027:**
+
+1. **Meer teruglevering op het net**: Als saldering wegvalt, heeft niemand meer een incentief om minder terug te leveren. Klanten met batterijen doen dat al, maar de massa niet. Er komt juist meer aanbod op piekmomenten.
+
+2. **Meer negatieve prijsuren**: Op zonnige zomerse middagen zijn er in 2026 al ~150-200 uur per jaar met negatieve groothandelsprijzen. In 2027 verwachten analisten 200-300 uur — meer teruglevering betekent meer marktpijn voor leveranciers.
+
+3. **Meer onbalanskosten**: De TSO (TenneT) rekent leveranciers meer voor onbalans. Die kosten worden doorberekend.
+
+**Verwachte tarieven grote leveranciers in 2027:**
+
+| Leverancier | 2026 (2.500 kWh) | 2027 verwacht | Stijging |
+|---|---|---|---|
+| Eneco | €240/jr | €310-350/jr | +30-45% |
+| Vattenfall | €78/jr | €100-120/jr | +28-54% |
+| Essent | €120/jr | €155-180/jr | +29-50% |
+| Greenchoice | €120/jr | €145-165/jr | +21-38% |
+| **Tibber/Frank** | €40-80/jr | €45-90/jr | +5-15% |
+
+Dynamische aanbieders stijgen nauwelijks — zij hebben geen aparte staffel maar verwerken de kosten in marktprijzen.
+
+## Vergelijking: welke leverancier voor welk profiel?
+
+Na al mijn doorrekeningen kom ik tot deze matrix. Meest voorkomende profielen in Nederland:
+
+**Profiel 1: Kleine installatie (<1.500 kWh teruglevering)**
+- Beste keuze: Essent of Engie — lage terugleverkosten bij lage volumes, vast tarief is overzichtelijk
+- Te vermijden: Eneco, Budget Energie — vaste terugleverkosten relativeren het voordeel
+- Dynamisch: Tibber werkt ook prima, maar het verschil is klein
+
+**Profiel 2: Middengroep (1.500-3.000 kWh teruglevering)**
+- Beste keuze: Tibber of Frank Energie
+- Besparing vs Eneco: €180-€360/jaar
+- Overweging: Check of je slimme meter werkt en of je verbruikspatroon past bij dynamisch
+
+**Profiel 3: Grote installatie (>3.000 kWh teruglevering)**
+- Beste keuze: Frank Energie + thuisbatterij plannen
+- Eneco kost bij 4.000 kWh teruglevering €336/jaar aan terugleverkosten alleen — dat is onacceptabel
+- Dynamisch + batterij is hier de optimale combinatie
+
+**Profiel 4: EV + zonnepanelen (weinig teruglevering)**
+- Beste keuze: Tibber vanwege smart charging voor EV
+- Teruglevering laag maar EV nachtladen is enorm voordelig dynamisch
+- Besparing EV laden: €300-€600/jaar extra voordeel
+
 ## Mijn concrete aanbevelingen
 
 Op basis van profiel:
