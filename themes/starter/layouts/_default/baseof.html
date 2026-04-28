@@ -158,6 +158,21 @@
   {{ end }}
   {{ end }}
 
+  
+  {{ if and .IsPage .Params.categories }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "{{ .Site.BaseURL }}"},
+      {{ with index .Params.categories 0 }}{"@type": "ListItem", "position": 2, "name": "{{ . | humanize | title }}", "item": "{{ $.Site.BaseURL }}categories/{{ . | urlize }}/"},{{ end }}
+      {"@type": "ListItem", "position": 3, "name": {{ .Title | jsonify }}, "item": "{{ .Permalink }}"}
+    ]
+  }
+  </script>
+  {{ end }}
+
   <!-- Google Analytics with Consent Mode v2 -->
   <script>
     window.dataLayer = window.dataLayer || [];

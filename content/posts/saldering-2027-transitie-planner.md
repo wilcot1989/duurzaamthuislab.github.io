@@ -161,6 +161,18 @@ Het grote voordeel: met de juiste apps stuur je slim op prijzen. Tibber en Frank
 
 **Jaarlijkse extra besparing:** €150-€300 ten opzichte van vast contract (bij goed gebruik van app).
 
+**Hoe werkt slim sturen in de praktijk?**
+
+Met de Tibber-app zie je elk uur wat de verwachte stroomprijs is. De app geeft automatisch aan wanneer het goedkoop is om grote apparaten aan te zetten — de wasmachine, vaatwasser, EV-lader. Als je ook een P1-meter hebt (bijv. de Tibber Pulse), ziet de app ook hoeveel stroom je terugleverd en kan hij je batterij of slimme apparaten automatisch aansturen.
+
+De Frank Energie-app werkt vergelijkbaar maar iets minder uitgebreid qua automatiseringen. ANWB Energie biedt een dynamisch contract zonder app-integratie — puur voor mensen die willen profiteren van de variabele prijs zonder actief te sturen.
+
+Een dynamisch contract werkt het beste als je:
+- Overdag regelmatig thuis bent (en dus overdag kunt verbruiken)
+- Bereid bent om grote apparaten op andere tijden te draaien
+- Een slimme meter hebt met actieve P1-poort (check bij je netbeheerder)
+- Eventueel een thuisbatterij of EV-lader wil koppelen
+
 ### Strategie 2: Thuisbatterij plaatsen
 
 Een thuisbatterij slaat overdag opgewekte zonnestroom op zodat je die 's avonds gebruikt. Dat scheelt in de theoretische situatie van Jan (uit het voorbeeld hierboven) 2.400 kWh teruglevering à 22 cent verschil = €528 per jaar — als je de hele teruglevering kunt opslaan. In de praktijk is 60-75% van de teruglevering opvangbaar met een 5-10 kWh batterij.
@@ -184,6 +196,10 @@ Prijs: ca. €3.200 exclusief installatie. Nieuwkomer op de Nederlandse markt ma
 
 **[Zonneplan thuisbatterij](/go/zonneplan) — lease-alternatief**
 Zonneplan biedt een lease-constructie waarbij je geen grote investering vooraf doet. Maandelijkse kosten zijn hoger, maar je loopt minder risico. Interessant als je de €5.000-€10.000 liever niet vastzet.
+
+**Wat als ik nu al een dynamisch contract heb?**
+
+Dan is de overstap al gedaan — goed! Controleer wel of jouw huidige contract ook daadwerkelijk de EPEX-marktprijs doorgeeft voor teruglevering. Sommige leveranciers noemen het "dynamisch" maar rekenen een vaste gemiddelde teruglevertarief. Dat is niet hetzelfde. Lees de kleine lettertjes of bel je leverancier: "Krijg ik de EPEX-uurprijs terug voor mijn teruggeleverde stroom?" Als het antwoord nee is, overweeg dan een overstap.
 
 ### Strategie 3: EV laden op overschot (V2H/V2G)
 
@@ -224,6 +240,14 @@ Het slimme spel: programmeer je warmtepomp om extra te laden op zonnige middag-u
 
 Lees mijn [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/) en [Daikin Altherma 3 review](/posts/daikin-altherma-3-review-2026/) voor de praktijkervaring.
 
+**Hoe programmeer ik een warmtepomp op zonne-uren?**
+
+De meeste moderne warmtepompen hebben een "smart grid" of "SG-ready" ingang. Die kun je koppelen aan een relais of smarthome-systeem dat aangestuurd wordt door je P1-meter of omvormer. Als er meer dan 1.500 watt teruglevering is, gaat het signaal aan — de warmtepomp schakelt over naar een intensievere verwarmingsmodus of verhoogt de warmwaterboiler-temperatuur.
+
+Quatt heeft dit ingebouwd via hun app. Daikin werkt via een externe koppeling met Home Assistant of via de Daikin Cloud. ATAG One heeft een ingebouwde smarthome-koppeling.
+
+Praktische besparing: een warmtepomp van 1,5-3 kW die dagelijks 2-3 uur meer draait op zonnestroom vervangt 3-9 kWh teruglevering per dag. Op jaarbasis is dat 500-2.000 kWh extra eigen verbruik — besparing van €110-€440 per jaar ten opzichte van nacht-laden op duur stroom.
+
 **Jaarlijkse extra besparing door slim laden van warmtepomp:** €200-€450 afhankelijk van verbruik en isolatiegraad.
 
 ### Strategie 5: Eigen verbruik verhogen — de stille opties
@@ -249,6 +273,20 @@ Zet de wasmachine op zonne-uurprogramma. Met een slimme stekker (Shelly, NOUS) o
 Zorg dat je vriezer goed gevuld is. Een volle vriezer heeft minder energie nodig om koud te blijven dan een lege — en werkt als een kleine thermische buffer.
 
 Gezamenlijke besparing eigen verbruik verhogen (boiler + slim wassen): **€200-€350 per jaar.**
+
+**Hoeveel kWh kun je extra "verschuiven" per dag?**
+
+Laten we het realistisch inschatten voor een gemiddeld huishouden:
+
+| Apparaat | Vermogen | Duur | kWh/dag | Potentie |
+|---------|---------|------|---------|---------|
+| Warmwaterboiler (180L) | 2,5 kW | 1,5 uur | 3,75 kWh | Hoog |
+| Wasmachine | 2,0 kW | 1 uur | 2,0 kWh | Midden |
+| Vaatwasser | 1,5 kW | 1,5 uur | 2,25 kWh | Midden |
+| EV (slim laden) | 7,4 kW | Variabel | Tot 20 kWh | Heel hoog |
+| Warmtepomp (extra) | 2,0 kW | 2 uur | 4,0 kWh | Hoog |
+
+Zelfs zonder EV kun je met boiler + wasmachine + vaatwasser dagelijks 5-8 kWh verschuiven naar de zonne-uren — dat is op jaarbasis 1.000-1.800 kWh minder teruglevering. Besparing: €220-€400 per jaar na 2027.
 
 ---
 
@@ -282,6 +320,44 @@ Gezamenlijke besparing eigen verbruik verhogen (boiler + slim wassen): **€200-
 
 ---
 
+## Combinaties vergelijken: wat levert het meeste op?
+
+Het is nuttig om de strategieën niet alleen los maar ook in combinatie te bekijken. Hieronder een overzicht van reële scenario's voor Jan (4,9 kWp, 2.400 kWh teruglevering):
+
+| Strategie | Jaarlijkse extra besparing | Investering | Terugverdientijd |
+|-----------|---------------------------|-------------|-----------------|
+| Alleen dynamisch contract | +€180/jaar | €0 (wel maandkosten €7) | Direct |
+| Slimme boiler | +€154/jaar | €600 | 4 jaar |
+| Dynamisch + boiler | +€300/jaar | €600 | 2 jaar |
+| Thuisbatterij 5 kWh | +€380/jaar | €4.100 na ISDE | 10-11 jaar |
+| Thuisbatterij + dynamisch | +€520/jaar | €4.100 na ISDE | 8 jaar |
+| Hybride warmtepomp | +€280/jaar | €4.000 na ISDE | 14 jaar (+ gaswinst) |
+| Warmtepomp + dynamisch | +€430/jaar | €4.000 na ISDE | 9 jaar |
+| Batterij + warmtepomp + dynamisch | +€800/jaar | €8.000 na ISDE | 10 jaar |
+| EV + V2H-laadpaal + dynamisch | +€550/jaar | €4.500 (laadpaal) | 8 jaar |
+
+*Aannames: energieprijzen stabiel op 2026-niveau, ISDE-subsidie ontvangen, installatie inbegrepen.*
+
+### Mijn persoonlijke aanbevelingen per budget
+
+**Budget €0:** Dynamisch contract nu. Dat is de enige keuze die letterlijk niets kost en per direct effect heeft.
+
+**Budget €500-€1.000:** Dynamisch contract + slimme warmwaterboiler. Samen goed voor €280-€350 extra per jaar. Terugverdientijd: 2-3 jaar.
+
+**Budget €3.000-€5.000:** Thuisbatterij + dynamisch contract. De combinatie die voor de meeste huishoudens met >2.000 kWh teruglevering het beste rendeert.
+
+**Budget €5.000-€10.000:** Thuisbatterij + hybride warmtepomp + dynamisch contract. Dit is de volledige strategie — je verhoogt eigen verbruik, verlaagt gaskosten én optimaliseert teruglevering.
+
+**Geen budget maar wel EV gepland:** Plan dan een bidirectionele laadpaal mee in je keuze. Dat is vaak goedkoper dan aparte batterij + laadpaal en je EV doet dubbel werk.
+
+### Wat als de energieprijzen dalen?
+
+Dat risico bestaat. Als de elektriciteitsprijs in 2027 daalt naar €0,22 per kWh (wat mogelijk is bij veel hernieuwbare opwek), verandert de businesscase. Dan is het verschil tussen afname en teruglevering kleiner — en de besparing per verschoven kWh ook. Mijn advies: rekende niet op prijsdaling, maar zie het als bonus.
+
+Wat niet verandert: de wettelijke salderingstop. Zelfs bij lagere energieprijzen verlies je structureel het voordeel van 1:1-verrekening. De richting is helder, alleen de omvang is onzeker.
+
+---
+
 ## ISDE-subsidies 2026 en 2027
 
 ### ISDE 2026 — wat er nu beschikbaar is
@@ -308,6 +384,19 @@ Het nieuwe kabinet heeft nog geen definitieve plannen gepubliceerd voor ISDE 202
 **Scenario B:** Aanpassing naar een andere subsidievorm (bijv. via gemeenten of via energieleveranciers). Dit is politiek afhankelijk.
 
 **Mijn advies:** Vertrouw niet op ISDE 2027 voor je planning. Gebruik 2026 om ISDE-aanvragen te doen voor de investeringen die je toch al overweegt.
+
+### Hoe vraag ik ISDE aan?
+
+ISDE aanvragen gaat via RVO.nl (Rijksdienst voor Ondernemend Nederland). De procedure is als volgt:
+
+1. **Kies een goedgekeurde installateur** — hij of zij moet op de RVO-lijst staan. Vraag dit expliciet na bij offerteaanvraag.
+2. **Vraag subsidie aan vóór installatie** — in sommige gevallen moet de aanvraag gedaan zijn voordat het apparaat geplaatst wordt. Check dit per categorie op RVO.nl.
+3. **Ontvang beschikking** — RVO stuurt een goedkeuringsbrief. Daarna kan de installatie plaatsvinden.
+4. **Dien eindafrekening in** — na installatie dien je de factuur in bij RVO en wordt het subsidiebedrag uitbetaald.
+
+De doorlooptijd is 6-12 weken. Als het budget opraakt vóór jouw aanvraag verwerkt is, val je buiten de boot. Vroeg aanvragen loont.
+
+**Let op:** ISDE is uitsluitend voor woningeigenaren met een zelfbewoonde woning. Verhuurders en VvE's vallen in een andere regeling (SEEH). Huurders kunnen alleen ISDE aanvragen als de verhuurder instemt — wat in de praktijk zelden voorkomt.
 
 ---
 
