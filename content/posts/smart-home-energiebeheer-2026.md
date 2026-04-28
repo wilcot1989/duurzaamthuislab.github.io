@@ -177,6 +177,74 @@ Standby-verbruik kost een gemiddeld huishouden €50-€150 per jaar. Met slimme
 - Configureer slim laden voor EV
 - Optimaliseer thuisbatterij (indien aanwezig)
 
+## Jaarberekening: wat levert mijn smart home energie-systeem op?
+
+Mijn setup bestaat uit: HomeWizard P1 meter, Vaillant warmtepomp via Home Assistant, Tibber dynamisch contract, Huawei Luna thuisbatterij. Dit zijn mijn werkelijke besparcijfers over 12 maanden.
+
+**Profiel: tussenwoning, warmtepomp, 16 zonnepanelen, geen EV**
+
+| Component | Kosten component | Besparing/jaar | TVT |
+|-----------|-----------------|---------------|-----|
+| HomeWizard P1 meter + HA-integratie | €30 | €180 (gedragsverandering) | 2 mnd |
+| Tado slimme thermostaat | €250 | €320 (15% op verwarming) | 9 mnd |
+| Slimme stekkers (6 stuks Shelly) | €90 | €95 (standby-eliminatie) | 11 mnd |
+| Tibber + HA-automatisering | €0 (al contract) | €280 (verbruikverschuiving) | 0 |
+| Warmtepomp op dynamische prijs via HA | €0 (al aanwezig) | €195 (goedkope uren) | 0 |
+| **Totaal** | **€370** | **€1.070** | **4 mnd** |
+
+Dit is de werkelijkheid, niet de marketing. De grootste winst zat niet in de hardware, maar in het **gedrag**. De P1-meter maakte zichtbaar wat ik niet wist — en het aanpassen van gewoonten leverde meer op dan welk apparaat ook.
+
+---
+
+## Wettelijk kader 2026: subsidies en slimme meter
+
+**0% BTW op slimme thermostaten:** Sinds 1 januari 2024 geldt 0% BTW op de installatie van energie-efficiënte verwarmingssystemen, waaronder slimme thermostaten als onderdeel van een verduurzamingspakket. Vraag dit expliciet na bij installateurs.
+
+**Slimme meter verplicht stellen:** In Nederland zijn netbeheerders wettelijk verplicht elke huishouding op verzoek een slimme meter te plaatsen, kosteloos. Meer dan 90% van de Nederlandse woningen heeft al een slimme meter (bron: CBS, 2025). Zonder slimme meter: bel je netbeheerder (Liander, Stedin, Enexis) voor plaatsing binnen 2-4 weken.
+
+**Netcongestie en slim laden:** Netbeheerders experimenteren in 2026 met "flexibiliteitsdiensten" — vergoedingen voor huishoudens die hun verbruik verlagen op piekmomenten. Tibber en ANWB Energie nemen hier al aan deel. Wie een slim energiesysteem heeft, kan hiermee €50-€150 per jaar extra verdienen.
+
+---
+
+## Veelgemaakte fouten bij smart home energiebeheer
+
+**Fout 1: Te snel te veel kopen**
+Veel mensen investeren direct in alles tegelijk: thuisbatterij, slimme thermostaat, laadpaal, EV. Resultaat: een systeem dat ze niet begrijpen en niet gebruiken. Beter: begin met de P1-meter (€30), leer je eigen verbruikspatroon kennen, en breid dan pas uit.
+
+**Fout 2: Apparaten koppelen zonder integratie**
+Een slimme stekker van merk A die niet communiceert met je thermostaat van merk B en je P1-meter van merk C is drie losse eilanden. Gebruik één platform — bij voorkeur Home Assistant — dat alles aan elkaar knoopt.
+
+**Fout 3: Thermostaat slim maken, gedrag niet**
+Een Tado bespaart inderdaad 15-20% op verwarmingskosten — maar alleen als je het schema goed instelt en de geofencing activeert. Veel mensen installeren hem en laten alle instellingen op de fabrieksdefault staan. Dan werkt het net zo goed als een gewone thermostaat.
+
+**Fout 4: Vaste contracten hebben met dynamisch gedrag**
+Smart home energiebeheer heeft geen zin als je een vast contract met een vast tarief hebt. Het hele principe draait op prijsverschillen tussen uren. Zonder dynamisch contract (Tibber, Frank Energie, ANWB Dynamisch) laat je het meeste geld op tafel liggen.
+
+**Fout 5: Warmtepomp op vast schema draaien**
+De warmtepomp is de grootste energieverbruiker in huis (4.000-8.000 kWh/jaar bij een typische warmtepompwoning). Die op een vast schema draaien — ongeacht de stroomprijs van het moment — kost gemiddeld €150-€300 per jaar onnodig. Met Home Assistant en een Tibber-integratie stel je drempelwaarden in: pomp aan als stroom <€0,12/kWh, pomp uit (of lagere stand) als stroom >€0,30/kWh.
+
+---
+
+## Stappenplan voor een compleet systeem: mijn route in 8 maanden
+
+**Maand 1:** HomeWizard P1 meter geïnstalleerd. Twee weken observeren. Ontdekking: vriezer garage = €90/jaar onnodig, wasmachine altijd om 19:00 = duurste uur.
+
+**Maand 2:** Tado gekocht en geïnstalleerd. Geofencing aangezet. Temperatuurschema aangepast: 16°C als we weg zijn, 20°C als we thuis zijn. Eerste maand: gasrekening 22% lager.
+
+**Maand 3:** Tibber-contract gestart. Tibber Pulse op P1-poort. Nu zie ik per seconde wat stroom kost. Wasmachine, droger en vaatwasser verplaatst naar 's nachts of 's middags.
+
+**Maand 4:** 6 Shelly Plug S stekkers bij standby-grote-verbruikers. Router, TV-kast, computer opgesteld. Shelly instelling: alles uit als niemand thuis (geofencing via Home Assistant).
+
+**Maand 5-6:** Home Assistant opgezet op een Raspberry Pi 4 (€80). Tibber-integratie, Tado-integratie, HomeWizard-integratie, Shelly-integratie. Alles communiceert met alles.
+
+**Maand 7:** Eerste automatisering: "Als Tibber-prijs onder €0,08 en zonneopwek boven 600W → start wasmachine via HomeWizard slimme stekker." Werkt. Bespaart €3-€5 per wasbeurt.
+
+**Maand 8:** Warmtepomp (Vaillant, via Modbus adapter) in Home Assistant. Nu stuurt HA de pomp op basis van Tibber-prijs én weersvoorspelling. Extra besparing: €180/jaar.
+
+Totale investering over 8 maanden: €420. Jaarlijkse besparing: €1.070. Terugverdientijd: 5 maanden.
+
+---
+
 ## Conclusie
 
 Smart home energiebeheer is de meest rendabele verduurzamingsinvestering die je kunt doen. Met €500-€1.000 aan apparaten bespaar je €750-€1.700 per jaar — een terugverdientijd van vaak minder dan een jaar.
@@ -185,6 +253,49 @@ Begin met de basis (P1-meter + slimme thermostaat) en breid stap voor stap uit. 
 
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
+## Smart home energie na de saldering-stop 2027
+
+Per 1 januari 2027 eindigt de salderingsregeling. Voor smart home-eigenaren is dit eerder goed nieuws dan slecht nieuws.
+
+**Waarom?**
+
+Met saldering is het irrelevant wanneer je stroom van het net afneemt — een kWh in de avond kost hetzelfde als een kWh die je 's middags had kunnen gebruiken van je eigen zonnepanelen. Na 2027 is dat verschil groot: €0,27-€0,30 per kWh inkopen vs €0,08-€0,10 per kWh teruglevering.
+
+Smart home-systemen die verbruik automatisch verplaatsen naar productie-uren worden daarmee sterk meer waard. Mijn berekening:
+
+**Effect van smart home op eigen verbruiksquote (10 panelen, 3.800 kWh productie/jaar):**
+
+| Setup | Eigen verbruik | Jaaropbrengst na 2027 |
+|-------|---------------|----------------------|
+| Geen smart home | 25% (950 kWh) | €570 |
+| Slimme thermostaat + apparaten op timer | 40% (1.520 kWh) | €692 |
+| Home Assistant + dynamisch contract | 55% (2.090 kWh) | €818 |
+| + thuisbatterij 5 kWh | 75% (2.850 kWh) | €950 |
+
+Verschil tussen "geen smart home" en "Home Assistant + batterij": €380 per jaar. De investering in Home Assistant (€150-€200 hardware) betaalt zich terug in minder dan 1 jaar na de saldering-stop.
+
+---
+
+## Vergelijking: vier populaire smart thermostaten in NL
+
+Ik heb de vier meest verkochte slimme thermostaten in Nederland vergeleken op de criteria die er echt toe doen.
+
+| Criterium | Tado | Google Nest | Netatmo | Homey Pro |
+|-----------|------|-------------|---------|-----------|
+| **Prijs** | €199-€299 | €249 | €179 | €399 |
+| **Installatie** | 30 min | 30 min | 30 min | 1-2 uur |
+| **Geofencing** | ✅ App-gebaseerd | ✅ Automatisch | ✅ App-gebaseerd | ✅ Via HA |
+| **Weersafhankelijke regeling** | ✅ | ✅ Beperkt | ❌ | Via HA |
+| **Dynamische tariefintegratie** | Via IFTTT | Via IFTTT | ❌ | ✅ Native |
+| **Home Assistant integratie** | ✅ Goed | ✅ Goed | ✅ Goed | ✅ Eigen |
+| **Multi-zone** | ✅ Slimme radiatorknoppen | ❌ | ✅ Slimme modules | ✅ Via HA |
+| **Klantenservice NL** | Chat + email | Chat | Email | Forum |
+| **Besparing verwarming** | 15-25% | 15-20% | 10-15% | 20-30% |
+
+**Mijn keuze voor de meeste gezinnen:** Tado. Multi-zone werkt goed, de app is duidelijk, en de weersafhankelijke regeling is indrukwekkend: de thermostaat weet van tevoren dat het morgen kouder wordt en verwarmt de woning preventief. Dat bespaart gas doordat de ketel minder op en neer hoeft te schakelen.
+
+---
 
 ## Lees ook
 

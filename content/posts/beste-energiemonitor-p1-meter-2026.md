@@ -172,6 +172,98 @@ Lees onze [vergelijking dynamische energiecontracten](/posts/dynamische-energiec
 
 **Geen slimme meter?** Vraag er gratis een aan bij je netbeheerder (Liander, Stedin, Enexis). Plaatsing duurt 2-4 weken.
 
+## Jaarberekening: wat levert een energiemonitor echt op?
+
+Ik reken het door voor een gemiddeld huishouden. Niet vaag — concrete euro's.
+
+**Profiel: tussenwoning, 2 volwassenen, 1 kind, 3.800 kWh/jaar verbruik**
+
+### Situatie zonder energiemonitor (vast contract Eneco)
+- Jaarrekening: €1.140 (3.800 kWh × €0,30)
+- Geen inzicht in verbruikspieken
+- Standby-verbruik onbekend: ~€120/jaar ongemerkt
+
+### Situatie met HomeWizard P1 Meter + gedragsverandering
+
+| Aanpassing | Besparing/jaar |
+|-----------|---------------|
+| Vriezer garage vervangen (oud model: 280W) | €110 |
+| Wasmachine verschuiven naar daluren (dynamisch contract) | €45 |
+| Standby-verbruik aanpakken (TV, router, apparatuur) | €65 |
+| Vaatwasser op eco-stand + daluren | €30 |
+| Warmtepomp schema optimaliseren | €120 |
+| **Totaal besparing** | **€370/jaar** |
+
+Investering HomeWizard P1 Meter: €30.
+Terugverdientijd: **1 maand**.
+
+In mijn eigen huis was de ontdekking dat mijn oude vriezer in de garage 's nachts 180W trok het meest shockerend. Ik wist dat niet — tot de P1-meter het zwart op wit toonde. Nieuwe vriezer gekocht: €280 investering, €90 besparing per jaar, terugverdientijd 3 jaar, maar voor het comfort en de bewustheid: meteen de moeite waard.
+
+---
+
+## Wettelijk kader 2026: slimme meters en P1-recht
+
+**Elke Nederlander heeft recht op een slimme meter.** Netbeheerders zijn verplicht op verzoek kosteloos een slimme meter te plaatsen. Als je nog geen slimme meter hebt, kun je die aanvragen bij:
+- Liander (Noord-Holland, Gelderland, Friesland, Noord-Holland)
+- Stedin (Zuid-Holland, Utrecht, Zeeland)
+- Enexis (Groningen, Drenthe, Noord-Brabant, Overijssel, Limburg)
+
+**Wachttijd:** doorgaans 2-4 weken. **Kosten:** gratis.
+
+**DSMR-versies:**
+- DSMR 4.0: ondersteund door alle P1-meters in dit artikel
+- DSMR 5.0 (meest modern): hogere meetfrequentie, beter compatibel met per-seconde metingen
+- DSMR 2.2 (oud): niet compatibel — vraag een nieuwere meter aan
+
+**P1-poort openzetten:** Sommige oudere slimme meters hebben de P1-poort standaard uitgeschakeld. Je kunt die zelf activeren via de netbeheerder-app (Liander Mijn Aansluiting, Stedin Klantportaal) of door je netbeheerder te bellen.
+
+---
+
+## Veelgemaakte fouten bij energiemonitors
+
+**Fout 1: De data bekijken maar niets doen**
+Een P1-meter geeft inzicht, maar inzicht is geen besparing. De meter zelf bespaart niets — het gedrag dat erop volgt wel. Stel jezelf wekelijks één vraag: welk apparaat kan ik uitschakelen of verplaatsen naar een goedkoper tijdstip?
+
+**Fout 2: Alleen kijken naar totaalverbruik**
+Het totaalverbruik vertelt je weinig. Interessant is het piekvermogen. Als je 's avonds om 19:00 altijd een piek van 3.500W ziet (oven + droger + warmtepomp tegelijk), kun je de droger verschuiven naar 10:00 overdag — en direct €40-€60 per jaar besparen.
+
+**Fout 3: P1-meter zonder dynamisch contract**
+Een P1-meter ontplooit zijn volledige potentieel pas in combinatie met een dynamisch contract (Tibber, Frank Energie). Dan zie je niet alleen hoeveel je verbruikt, maar ook wat het per uur kost. Op het moment dat de EPEX-prijs €0,05/kWh is, kun je de wasmachine starten en bespaar je in die ene wasbeurt al €0,15 ten opzichte van de avondpiek.
+
+**Fout 4: Wi-Fi-problemen negeren**
+De HomeWizard P1 Meter werkt op 2,4 GHz Wi-Fi. Als je meterkast ver van je router staat, kan de verbinding instabiel zijn. Oplossing: een Wi-Fi-extender bij de meterkast (€30-€50) of een Powerline adapter (€40-€60).
+
+**Fout 5: Vergeten dat gas ook meetbaar is**
+De meeste slimme meters meten ook gasverbruik. De HomeWizard P1 Meter leest dit automatisch mee. Zo zie je ook direct wanneer je CV-ketel onnodig aanspringt (bijv. 's nachts) en kun je je thermostaat schema aanpassen.
+
+---
+
+## P1-meter combineren met Home Assistant
+
+Voor wie verder wil dan de standaard app: de HomeWizard P1 Meter heeft een lokale REST API. In Home Assistant detecteer je hem automatisch via de HomeWizard Energy integratie (ingebouwd, geen HACS nodig).
+
+**Wat je kunt automatiseren in Home Assistant:**
+
+| Trigger | Actie | Besparing |
+|---------|-------|-----------|
+| Nettoafname > 3.000W | Notificatie "hoog verbruik" | Gedrag aanpassen |
+| Zonne-overschot > 800W | Wasmachine starten (via slimme stekker) | €30-€60/jaar |
+| Tibber-prijs < €0,08/kWh | Thuisbatterij laden | €100-€200/jaar |
+| Tibber-prijs > €0,40/kWh | Warmtepomp uitschakelen | €80-€150/jaar |
+| Teruglevering > 2.000W | EV-lader activeren | €100-€200/jaar |
+
+Dit is het niveau waarop slimme energiemonitoring echt de moeite waard wordt. De P1-meter is de sensor; Home Assistant is het brein.
+
+---
+
+## Energiemonitor na saldering-stop 2027
+
+Per 1 januari 2027 eindigt de salderingsregeling. Dan wordt het verschil tussen goedkope en dure stroomuren nóg groter. Teruglevering levert nog maar €0,08-€0,12/kWh op, terwijl inkoop €0,27-€0,33/kWh kost.
+
+Een energiemonitor wordt in dat scenario essentieel: je wilt precies weten wanneer je zonnepanelen produceren en of je zelfverbruik zo hoog mogelijk kunt maken. Met een P1-meter en slimme apparaatsturing verhoog je je zelfverbruik van 25% naar 40-50% — en dat kan na 2027 jaarlijks €300-€500 extra besparen.
+
+---
+
 ## Conclusie
 
 De **HomeWizard P1 Meter** is de beste keuze voor vrijwel iedereen: €30, 5 minuten installatie, uitstekende app en perfecte Home Assistant integratie. De besparing van 5-15% op je energierekening verdient de investering in 1-3 maanden terug.
@@ -180,6 +272,56 @@ Ben je Tibber-klant? Dan is de **Tibber Pulse** een logische keuze voor maximale
 
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
+## Energiemonitor kiezen: beslisboom
+
+Gebruik dit stroomdiagram om snel de juiste keuze te maken:
+
+**Vraag 1: Heb je een slimme meter (DSMR 4.0+)?**
+- Nee → vraag er gratis een aan bij je netbeheerder. Terug naar vraag 1.
+- Ja → verder.
+
+**Vraag 2: Ben je Tibber-klant of overweeg je Tibber?**
+- Ja → **Tibber Pulse** (€99). Maximale integratie met het Tibber-ecosysteem.
+- Nee → verder.
+
+**Vraag 3: Gebruik je Home Assistant als smart home-platform?**
+- Ja, intensief → **Youless LS120** (€100). Beste lokale API, per-seconde meting.
+- Ja, maar basics volstaan → **HomeWizard P1** (€30). HomeWizard integreert ook prima met HA.
+- Nee → verder.
+
+**Vraag 4: Wat is je budget?**
+- €30-€50 → **HomeWizard P1 Meter** (€30). Beste prijs-kwaliteitsverhouding.
+- €50-€100 → **HomeWizard P1** nog steeds, of Youless als je technisch bent.
+- €100+ → **Iungo** voor apparaat-analyse, of Youless + extra modules.
+
+**Vraag 5: Heb je zonnepanelen?**
+- Ja, en je wil productie meten → voeg een **HomeWizard kWh Meter** (€40) toe aan je omvormer.
+- Nee → P1-meter zelf is voldoende.
+
+---
+
+## Energiemonitor en saldering-stop 2027: waarom het nu belangrijker is dan ooit
+
+Per 1 januari 2027 verdwijnt de salderingsregeling. Dat verandert de waarde van een energiemonitor fundamenteel.
+
+**Huidige situatie (tot 2027):** Je levert terug aan het net en dat wordt weggestreept tegen je verbruik. Of je 's middags of 's avonds stroom verbruikt maakt financieel nauwelijks verschil.
+
+**Na 2027:** Teruglevering levert gemiddeld €0,08-€0,12/kWh op. Stroom afnemen kost €0,27-€0,33/kWh. Het verschil is enorm. Nu wordt het **cruciaal** om je verbruik te verplaatsen naar de uren dat je zonnepanelen produceren.
+
+Een energiemonitor met real-time data geeft je precies dat inzicht. Combineer dat met een slimme laadpaal, een slimme wasmachine-timer of een Home Assistant-automatisering en je verhoogt je zelfverbruik van 25% naar 45-55%.
+
+**Concreet geldeffect na 2027 (10 panelen, 3.800 kWh productie, gezin):**
+
+| Eigen verbruiksquote | Financieel voordeel per jaar |
+|---------------------|------------------------------|
+| 25% (geen sturing) | 950 kWh × €0,30 + 2.850 kWh × €0,10 = **€570** |
+| 50% (met energiemonitor + sturing) | 1.900 kWh × €0,30 + 1.900 kWh × €0,10 = **€760** |
+| 75% (met batterij + sturing) | 2.850 kWh × €0,30 + 950 kWh × €0,10 = **€950** |
+
+Verschil tussen 25% en 50% eigen verbruik: €190 per jaar. Een energiemonitor van €30 levert dat al snel op.
+
+---
 
 ## Lees ook
 

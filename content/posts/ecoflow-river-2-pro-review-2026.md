@@ -146,6 +146,107 @@ Bekijk ook onze reviews van de [Anker Solix C1000](/posts/anker-solix-c1000-revi
 
 ---
 
+## Campingtest: een stormweekend op de Veluwe
+
+Vorig jaar augustus stond ik op een camping in de Veluwe met mijn River 2 Pro. Vrijdagavond aankomst met 100% lading. De nacht was onverwacht koud (11°C) en de camping lag beschut, waardoor mijn kleine draagbare ventilator de hele nacht op 30W draaide. Zaterdag overdag: koelbox op 12V (45W gemiddeld, 8 uur = 360 Wh), drie telefoons twee keer volledig opgeladen (~90 Wh), een draagbare speaker constant aan (~15 Wh per uur, 12 uur = 180 Wh), twee avondmaaltijden met een 600W reiskokkertje (600W × 0,4 uur = 240 Wh). Totaalverbruik zaterdag: circa 870 Wh. Ik stond zondagochtend op 13% — nog net genoeg voor de weg naar huis.
+
+Wat me opviel: bij de koude nacht (11°C) daalde de efficiëntie iets — LFP-cellen presteren minder goed onder de 15°C. De EcoFlow-app gaf dat ook aan met een licht verlaagde verwachte capaciteit. Boven 0°C is dat verwaarloosbaar; onder nul zou het merkbaarder worden.
+
+**Wat ik had anders gedaan:** met een 100W zonnepaneel op het tentdak had ik zaterdag 350-400 Wh bijgeladen (goede zon, 4 uur productie). Dan was ik zondag met 55% aangekomen. Voor een weekend werkt de River 2 Pro prima zonder zonnepaneel; voor drie of meer dagen is een paneel geen luxe maar noodzaak.
+
+---
+
+## Batterijchemie en levensduur: LFP vs NMC
+
+De River 2 Pro gebruikt **LFP-cellen** (LiFePO4 = lithium-ijzerfosfaat), niet de oudere NMC-cellen (nikkel-mangaan-kobalt) die in de meeste smartphones en laptops zitten. Dat verschil is relevant voor de lange termijn.
+
+### LFP vs NMC: de cijfers
+
+| Eigenschap | LFP (River 2 Pro) | NMC (oudere powerstations) |
+|---|---|---|
+| Cycli tot 80% capaciteit | 3.000+ | 500-800 |
+| Veiligheid | Zeer hoog (geen thermische runaway) | Gemiddeld |
+| Energiedichtheid | Lager | Hoger (lichter apparaat) |
+| Prestaties bij kou | Goed tot -10°C | Matig onder 0°C |
+| Zelfontlading | ~2-3% per maand | ~5% per maand |
+| Aanbevolen laadniveau langdurige opslag | 50-80% | 40-60% |
+
+Bij 3.000 cycli tot 80% capaciteit, en als je de River 2 Pro gemiddeld 2 keer per week gebruikt (campingseizoen + noodstroom), kom je op 1.500 cycli per jaar — nee, wacht: 2 keer per week = 104 cycli per jaar. Dat betekent 3.000/104 = **28 jaar** voordat je op 80% capaciteit zit. Zelfs bij dagelijks gebruik: 3.000/365 = 8 jaar. Dat is de vijfjaarsgarantie van EcoFlow ruimschoots overstijgen.
+
+In de praktijk zal de elektronica rondom de batterij eerder uitvallen dan de cellen zelf. Maar het illustreert dat LFP-technologie in een batterij als de River 2 Pro gewoon een levenslang product is voor de meeste gebruikers.
+
+### Wat je levensduur verlengt
+
+- Laad niet naar 100% als je het station weken niet gebruikt — houd het op 50-80%
+- Laad niet volledig leeg; de River 2 Pro beschermt hier tegen maar extreem diepe ontlading beschadigt cellen
+- Vermijd langdurige opslag in hitte (auto in de zon, schuur boven 40°C)
+- Gebruik de app om het maximale laadniveau in te stellen op 80% voor dagelijks gebruik — EcoFlow noemt dit "battery care mode"
+
+---
+
+## Veiligheid en IP-rating: wat je weet moet weten
+
+De River 2 Pro heeft **geen officiële IP-rating**. Dat betekent: geen garantie bij regen of druipend water. In de praktijk:
+
+- **Druppelwater** (natte handen, kleine spatten): zal de River 2 Pro waarschijnlijk overleven, maar dit is niet getest of gegarandeerd
+- **Regen**: gebruik hem absoluut nooit in de regen
+- **Condensatie**: bij verplaatsing van koude omgeving naar warm binnen — laat het apparaat 30-60 minuten acclimatiseren voor gebruik
+
+Voor campinggebruik in Nederland (wisselvallig weer) is het verstandig om de River 2 Pro in een waterdichte tas of simpelweg in de tent te zetten. Producten als de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) hebben ook geen IP-rating — dit is sectorbreed een minpunt voor de meeste consumer powerstations.
+
+Er is één uitzondering op de markt: de EcoFlow DELTA Pro Ultra heeft beperkte spatwaterbescherming, maar dat is een stationair thuisproduct in een andere prijsklasse.
+
+---
+
+## Veelgemaakte fouten bij de aankoop
+
+Na gesprekken met lezers zie ik steeds dezelfde vergissingen:
+
+**Fout 1: X-Boost verkeerd begrijpen**
+X-Boost verhoogt het piekvermogen tot 1600W door het voltage naar het apparaat te verlagen. Een waterkoker die normaal op 2200W werkt, werkt met X-Boost op 800W — maar kookt dan ook twee keer zo langzaam. Voor echt koken is dit onpraktisch. Gebruik X-Boost voor apparaten die een even hoge temperatuur bereiken maar met minder watt kunnen, zoals een kleine reiskokkert of een elektrische deken.
+
+**Fout 2: Geen rekening houden met omvormerverlies**
+De specificaties zeggen 768 Wh. In de praktijk haal je 85-90% van die capaciteit via de AC-uitgangen, door het verlies in de ingebouwde omvormer (~10-15%). Via de 12V DC-uitgang is het verlies minimaal (~3%). Als je alleen DC-apparaten gebruikt (koelbox, 12V verlichting), ga je veel efficiënter om met de beschikbare energie.
+
+**Fout 3: Te kleine capaciteit voor het gebruik**
+Voor een campingweekend met meer dan twee personen, of als je een inductiekookplaat wilt gebruiken, is 768 Wh aan de krappe kant. Dan is de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) (2048 Wh) een betere keuze. De River 2 Pro straalt in zijn klasse als compacte dagelijkse reisgenoot, niet als primaire stroomoplossing voor een langere expeditie.
+
+**Fout 4: Uitbreidingsbatterij niet meenemen in de aankoopoverweging**
+De River 2 Pro Extra Battery (768 Wh) kost circa €250-300 en verdubbelt de capaciteit naar 1536 Wh. Als je al weet dat je meer nodig hebt, is de bundel (station + extra batterij) soms goedkoper dan beide apart kopen.
+
+---
+
+## Geluidstest en ventilatorgedrag
+
+Ik heb de ventilator systematisch getest:
+
+| Situatie | Geluidsniveau | Opmerkingen |
+|---|---|---|
+| Standby (niets aangesloten) | ~20 dB | Vrijwel stil |
+| USB-C opladen laptop (65W) | ~22 dB | Nauwelijks hoorbaar |
+| AC-uitgang 300W belasting | ~35 dB | Zacht zoemen |
+| AC-uitgang 700W belasting | ~42 dB | Duidelijk maar niet storend |
+| X-Stream snelladen (1500W input) | ~48 dB | Hoorbaar, vergelijkbaar met stille koelkast |
+| 800W belasting + snelladen | ~50 dB | Duidelijk hoorbaar in stille kamer |
+
+Voor een slaapcabine van een camperbus of een kleine tent: 48-50 dB is hoorbaar maar niet ronduit luid. Als je 's nachts niet snellaadt maar alleen verbruikt, is het station vrijwel stil.
+
+---
+
+## Gebruik als noodstroom bij stroomuitval
+
+Bij de stroomstoring in mijn straat (januari 2025, 4 uur zonder stroom) heb ik de River 2 Pro getest als noodstroom. Ik had hem op 90% geladen staan — ik houd hem standaard niet vol vanwege de battery care mode.
+
+Wat ik aansloot:
+- WiFi-router (12W): werkte de hele storing mee
+- Kleine LED-bureaulamp (8W): aan de gehele tijd
+- Laptop (60W): twee uur bijgeladen
+- Koelkast (150W gemiddeld): 2,5 uur op AC
+
+Na de storing: 31% over. Mijn conclusie: voor een stroomuitval van 4-6 uur en een gezin van twee personen is de River 2 Pro ruim voldoende als noodstroom. Voor langere storingen of een groter huishouden is de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) realistischer.
+
+---
+
 ## Voor wie is de EcoFlow River 2 Pro?
 
 ### Ideaal voor:

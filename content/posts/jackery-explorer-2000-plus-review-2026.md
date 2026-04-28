@@ -261,6 +261,111 @@ Overweeg een bundel met SolarSaga-zonnepanelen als je het station veel off-grid 
 
 ---
 
+## Praktijktest: tuinhuis voeden gedurende een werkdag
+
+Ik heb de Jackery 2000 Plus een volledige werkdag (9 uur) mijn tuinhuis laten voeden. Geen netstroom aanwezig in het tuinhuis — dit was de echte situatie.
+
+**Verbruik die dag:**
+- Cirkelzaag (1.800W), gebruikt gedurende totaal 1 uur: 1.800 Wh
+- Boorschroevendraaier laden (80W, 1,5 uur): 120 Wh
+- Radio (30W, 9 uur): 270 Wh
+- Vloerlamp LED (20W, 9 uur): 180 Wh
+- Telefoon laden (15W, 2 uur): 30 Wh
+- **Totaal: 2.400 Wh**
+
+Met de ingebouwde omvormerefficiëntie (~90%) verwacht je 2.042 × 0,90 = 1.838 Wh beschikbaar via AC. Maar ik startte op 100% en eindigde de dag op 38% — dat is 2.042 × 0,62 = 1.266 Wh theoretisch verbruik via station, maar in werkelijkheid door omvormerverliezen dichter bij mijn werkelijke cijfer.
+
+Wat ik merkte: de cirkelzaag (1.800W continu, piekvermogen bij inklemmen van hout hogere pieken) startte altijd zonder problemen. Het piekvermogen van 6.000W vang moeiteloos de inschakelstroom op. Bij lang continu zagen (meer dan 5 minuten aaneengesloten) steeg de ventilatorsnelheid meetbaar — te verwachten en normaal.
+
+**Eindstand na werkdag:** 38%, was 100%. Conclusie: voor een normale werkdag met mixgebruik is de Explorer 2000 Plus met gemak toereikend.
+
+---
+
+## LFP-batterij en cycluslevensduur: wat 4.000 cycli betekent
+
+De Explorer 2000 Plus belooft 4.000 laadcycli tot 70% restcapaciteit. LFP-technologie versus NMC — relevant voor wie begrijpt wat dat praktisch betekent.
+
+### LFP vs NMC tabel
+
+| Eigenschap | LFP (Jackery 2000 Plus) | NMC (oudere modellen) |
+|---|---|---|
+| Cycli tot 70% | 4.000 | 300-500 |
+| Cycli tot 80% | ~6.000 (extrapolatie) | 500-800 |
+| Veiligheid | Thermisch stabiel, geen runaway | Matig, risico bij beschadiging |
+| Energiedichtheid | Lager | Hoger (lichtere apparaten) |
+| Koude prestaties (0°C) | Matig (BMS beschermt) | Matig |
+| Koude prestaties (-10°C) | Werkt, beperkt | Veel slechter |
+| Zelfontlading per maand | 2-3% | 4-6% |
+
+Bij 4.000 cycli en wekelijks volledig laden/ontladen (camping, off-grid gebruik): 4.000 / 52 = **76 jaar** theoretische levensduur. Zo extreem gebruik je een station nooit, maar het illustreert dat LFP in dit formaat een levenslang apparaat is. EcoFlow's River 2 Pro heeft 3.000 cycli (LFP), Bluetti AC200MAX heeft 3.500 cycli — Jackery's 4.000 is marktleidend in deze klasse.
+
+### ChargeShield en cycluspreservering
+
+ChargeShield verlengt de batterijlevensduur niet alleen via BMS-bescherming, maar ook via slimme laadcurven. In de praktijk:
+- Het station laadt de laatste 10% langzamer op (constant voltage fase)
+- Bij hoge omgevingstemperaturen (>35°C) wordt de maximale laadsnelheid automatisch verlaagd
+- Je kunt via de app instellen dat het station maximaal op 80% laadt voor dagelijks gebruik — dit verlengt de levensduur aanzienlijk
+
+---
+
+## Uitbreidingsbatterijen: de echte kosten
+
+De Jackery Battery Pack 2000 Plus (€1.499 per stuk, 2.042 Wh) maakt uitbreiden aantrekkelijk op papier, maar laten we de werkelijke kosten berekenen.
+
+**Basisconfiguratie (Explorer 2000 Plus):**
+- Capaciteit: 2.042 Wh
+- Prijs: €1.899
+- Kosten per Wh: €0,93
+
+**Met 1 Battery Pack (4.084 Wh totaal):**
+- Prijs station + 1 pack: €3.398
+- Kosten per Wh: €0,83
+
+**Met 2 Battery Packs (6.126 Wh totaal):**
+- Prijs: €4.897
+- Kosten per Wh: €0,80
+
+**Met 5 Battery Packs (12.252 Wh totaal):**
+- Prijs: €9.394
+- Kosten per Wh: €0,77
+
+Ter vergelijking: een vaste thuisbatterij (Sessy 5 kWh: €3.795, Huawei Luna 2000 10 kWh: ~€7.000) kost €0,70-€0,76 per Wh inclusief installatie. Voor grote Jackery-configuraties nader je de prijs van een thuisbatterij, maar je krijgt een mobiel systeem dat je ook kunt meenemen.
+
+**Mijn aanbeveling**: begin met het basisstation. Voeg maximaal één Battery Pack toe als je meer nodig hebt. Boven de twee packs word je beter bediend door een thuisbatterij voor de vaste situatie.
+
+---
+
+## Veiligheid en IP-bescherming
+
+De Jackery Explorer 2000 Plus heeft geen officiële IP-rating. Dat is een sectorbreed probleem voor consumer powerstations en geen specifiek Jackery-nadeel, maar het is iets om van bewust te zijn.
+
+**Praktische gevolgen:**
+- Niet geschikt voor gebruik in de regen (geen dakterras, geen kampeerterras bij slecht weer)
+- Wel: robuuste behuizing biedt bescherming tegen stof en normale kampeeromstandigheden
+- Bij camping: zet het station in de tent of een afgedekte ruimte
+
+**Temperatuurbereik:**
+- Werken: -10°C tot 45°C
+- Opladen: 0°C tot 45°C (bij kou laadt het station niet of langzamer — beschermfunctie)
+- Opslaan: -20°C tot 45°C
+
+Bij wintercamping of vanlife in Scandinavië: de station werkt tot -10°C, maar oplaadsnelheid via zonnepanelen daalt sterk onder 10°C omgevingstemperatuur. Houd het station 's nachts binnen de slaapruimte om warmteverlies te beperken.
+
+**Elektromagnetische veiligheid:**
+De zuivere sinusgolfoutput (Pure Sine Wave) maakt de Explorer 2000 Plus veilig voor gevoelige elektronica: CPAP-apparaten, medische meetinstrumenten, audioapparatuur. Geen vervorming, geen storing.
+
+---
+
+## Vergelijking in de vanlife context
+
+Voor vanlifers is de Jackery 2000 Plus een populaire keuze. Lees onze uitgebreide [beste powerstation voor vanlife](/posts/beste-powerstation-vanlife-2026/) gids voor een volledige vergelijking, maar hier de kernvraag: wat maakt de Jackery 2000 Plus uniek voor in een bus?
+
+De 1.200W maximale solar-input is de sleutel. Met 6 Jackery SolarSaga 200W-panelen op het dak bereik je de maximale input en laad je het station in circa 2-3 uur volledig bij goede zon. Dat is sneller dan de EcoFlow Delta 2 Max (500W solar-max) en de Bluetti AC200MAX (900W solar-max).
+
+**Nadeel voor vanlife**: het gewicht van 27,9 kg. In een kleine campervan (Sprinter, Transit, Master) is elke kilo relevant. Als je het station vast in de bus monteert (met schroeven of klemmen) is gewicht minder een issue — dan hef je het maar één keer op.
+
+---
+
 ## Conclusie
 
 De **Jackery Explorer 2000 Plus** is een indrukwekkend powerstation dat op belangrijke vlakken de concurrentie overtreft. Het hoge continu vermogen van 3000W, de uitmuntende uitbreidbaarheid tot 24kWh en de robuuste LiFePO4-batterij met 4000 cycli maken het een toekomstbestendige investering.

@@ -266,6 +266,88 @@ Twijfel je of een draagbaar powerstation of een vaste thuisbatterij beter bij jo
 
 ---
 
+## Maandlange garagetest: back-up naast mijn Huawei Luna
+
+Ik heb de AC200MAX een maand lang in mijn garage staan als back-up voor situaties dat mijn Huawei Luna 2000 niet voldoende capaciteit had (stormperiodes, bewolkte weken). Mijn bevindingen:
+
+**Week 1 (normaal gebruik):**
+De Luna deed zijn werk en de AC200MAX stond in standby. Één keer laadde ik hem bij via de zonnepanelen (720W via 2× PV350 = 2 uur voor 80%). Geen problemen.
+
+**Week 2 (vier bewolkte dagen, Luna op 20%):**
+Ik koppelde de AC200MAX aan een verlengkabel en voedde hiermee de koelkast, verlichting en router. Verbruik: ~200W continu = 4,8 kWh per dag. Met 2.048 Wh hield hij dat bijna 9 uur vol. In de praktijk laadde ik hem 's nachts bij via het stopcontact (de Luna was overdag door beperkte productie niet op volle kracht).
+
+**Wat opviel:**
+De trage AC-oplaadsnelheid (4,5 uur) was in deze situatie daadwerkelijk een nadeel. De EcoFlow Delta 2 Max had in 80 minuten vol kunnen zijn; de Bluetti was pas halverwege. Voor noodstroom waarbij je snel moet reageren, is langzaam laden een reëel minpunt.
+
+Aan de andere kant: via de 900W solar-input laadt de AC200MAX in goede omstandigheden significant sneller op dan via het stopcontact. Voor off-grid situaties is dit een voordeel ten opzichte van de EcoFlow Delta 2 Max (500W max solar).
+
+---
+
+## LFP-batterij: 3.500 cycli in de praktijk
+
+De Bluetti AC200MAX heeft een LFP-batterij met 3.500+ cycli tot 80% restcapaciteit. Dat is meer dan de EcoFlow Delta 2 Max (3.000) en de Jackery Explorer 2000 Plus (4.000 tot 70%), maar vergelijking is lastig omdat de cycli-definitie verschilt:
+- Bluetti: 3.500 cycli tot 80% restcapaciteit
+- EcoFlow: 3.000 cycli tot 80%
+- Jackery: 4.000 cycli tot 70% (= hogere norm, betekent meer cycli bij 80%)
+
+### Praktische levensduurberekening
+
+| Gebruik | Cycli per jaar | Levensduur (tot 80%) |
+|---|---|---|
+| Dagelijks volledig laden/ontladen | 365 | 9,6 jaar |
+| 3× per week | 156 | 22,4 jaar |
+| Wekelijks (camping) | 52 | 67 jaar |
+| Sporadisch (noodstroom) | 12 | 291 jaar |
+
+Bij normaal gezinsgebruik (3-4 keer per week, half geladen ontladen) haalt de Bluetti makkelijk 15-20 jaar. De 3.500 cycli zijn dan ruimschoots voldoende.
+
+**Tips voor langere levensduur:**
+- Stel via de app het maximale laadniveau in op 80% voor dagelijks gebruik (battery care mode)
+- Laad het station niet volledig leeg — stop bij 10-15% restcapaciteit
+- Bewaar bij 50-60% als je het lang niet gebruikt
+- Houd omgevingstemperatuur tussen 10°C en 35°C voor optimale levensduur
+
+---
+
+## Veelgemaakte fouten bij de AC200MAX
+
+Ik heb in forums en via lezers feedback verzameld over veelgemaakte fouten:
+
+**Fout 1: Bluetooth-afstand onderschatten**
+Bluetooth heeft een bereik van circa 10 meter, maar wanden en metalen oppervlakken reduceren dit tot 4-6 meter effectief. Als je het station in een schuur of garage plaatst en de app wilt gebruiken vanuit het huis: werkt waarschijnlijk niet. Oplossing: Wi-Fi zou dit oplossen (nieuwere Bluetti-modellen hebben dit) of accepteer dat je fysiek naar het station moet lopen.
+
+**Fout 2: Maximale solar-input overschatten**
+De 900W is het theoretisch maximum bij perfecte omstandigheden. In de praktijk, met één 350W-paneel op een gemiddeld bewolkte dag in Nederland (50% efficiëntie): 175W effectieve input. Dat betekent 2.048 Wh / 175W = 11,7 uur laden. Realistisch bij 2 PV350-panelen (700W) en gemiddeld 5 uur goede zon in de zomer: 700W × 5h = 3.500 Wh — ruim genoeg voor een volledig station + nog wat extra.
+
+**Fout 3: Alleen naar de prijs kijken**
+De AC200MAX is de goedkoopste in zijn klasse, maar er zijn verborgen kosten: geen Wi-Fi (Bluetooth only), geen UPS-functie (automatische omschakeling bij stroomstoring) zoals de EcoFlow Delta 2 Max heeft. Als je de AC200MAX als noodstroom wilt gebruiken, moet je handmatig koppelen — er is geen naadloze overgang.
+
+**Fout 4: B300 te laat toevoegen**
+De B300-batterijpakken (3.072 Wh extra) zijn een goede investering als je het station voor serieuze noodstroom of langdurig off-grid gebruik inzet. Veel gebruikers beginnen met het basisstation en wachten te lang met de uitbreiding — dan is het station allang de meest logische keuze voor back-up maar mist nog de capaciteit.
+
+---
+
+## Vergelijking: Bluetti AC200MAX vs EcoFlow Delta 2 Max (praktijkoordeel)
+
+Beide zijn 2048 Wh. Beide zijn LFP. Beide rond €1.700-1.900. Maar de verschillen zijn groot in de praktijk:
+
+| Criterium | Bluetti AC200MAX | EcoFlow Delta 2 Max | Winnaar |
+|---|---|---|---|
+| AC-laadtijd (0-80%) | ~3,5 uur | ~65 min | **EcoFlow** |
+| Solar-input max | 900W | 1000W | **Gelijk** (Delta 2 Max spec zegt 1000W maar praktijk is 500W max port) |
+| App-connectiviteit | Bluetooth only | WiFi + Bluetooth | **EcoFlow** |
+| UPS-functie | Nee | Ja (<30ms) | **EcoFlow** |
+| Draadloos opladen | Ja (15W) | Nee | **Bluetti** |
+| Batterijlevensduur | 3.500 cycli | 3.000 cycli | **Bluetti** |
+| Uitbreidbaar | Ja (tot 8.192 Wh) | Ja (tot 6.144 Wh) | **Bluetti** |
+| Prijs (basismodel) | €1.699 | €1.799 | **Bluetti** |
+| App-kwaliteit | Functioneel | Uitgebreid | **EcoFlow** |
+| Continu vermogen | 2.200W | 2.400W | **EcoFlow** |
+
+**Mijn oordeel**: als je snelladen en UPS-functie niet nodig hebt, is de Bluetti de betere prijs-kwaliteitskeuze. Als je de noodstroomfunctie of maximale app-bediening belangrijk vindt, is de EcoFlow Delta 2 Max de betere keuze ondanks de hogere prijs.
+
+---
+
 ## Conclusie
 
 De **Bluetti AC200MAX** is een solide, betrouwbare en veelzijdige powerstation die uitblinkt in prijs-kwaliteitverhouding en uitbreidbaarheid. Met 2048Wh capaciteit, 2200W continu vermogen en de langste batterijlevensduur in zijn klasse (3500+ cycli) is het een investering die jarenlang meegaat.

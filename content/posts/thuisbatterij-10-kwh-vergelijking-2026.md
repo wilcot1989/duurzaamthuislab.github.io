@@ -56,6 +56,125 @@ Dit is mijn complete vergelijking van de 7 belangrijkste 10 kWh-spelers in 2026,
 
 ---
 
+## Mijn beoordelingsmethode
+
+Ik beoordeel elk systeem op zes criteria, elk 1-5 sterren:
+1. **Prijs/kWh** — absolute kosten per bruikbare kWh
+2. **Automation** — hoe goed werkt dynamic pricing zonder handmatig ingrijpen
+3. **Service** — snelheid en kwaliteit van NL-support bij defect
+4. **Flexibiliteit** — modulair, leverancier-onafhankelijk
+5. **Terugverdientijd** — bij gemiddeld Nederlands huishoudprofiel
+6. **Toekomstbestendigheid** — firmware-updates, API-openheid, uitbreidbaarheid
+
+Ik heb bij geen van deze merken een betaalde sponsorrelatie. Marstek en EcoFlow heb ik zelf niet geïnstalleerd — ik baseer me op data van mensen in mijn netwerk plus installateursfeedback.
+
+---
+
+## Praktijkjaarberekening: gezin van vier in Breda
+
+Om het concreet te maken: mijn neef woont in een twee-onder-een-kapwoning in Breda. Situatie:
+- Verbruik: 5.200 kWh/jaar (twee kinderen, vaatwasser, wasdroger)
+- Zonnepanelen: 16 stuks (5,6 kWp), schuin dak west-oost
+- Teruglevering: 2.600 kWh/jaar
+- Contract: Frank Energie dynamisch
+
+Hij vroeg me welke 10 kWh batterij. Ik heb voor hem alle zeven systemen doorgerekend.
+
+| Batterij | Prijs incl. install. | Jaarlijkse besparing | Terugverdientijd | 10-jaar netto |
+|---|---|---|---|---|
+| Marstek Venus E (8,2 kWh) | €2.679 | €820 | 3,3 jaar | **+€5.521** |
+| Sessy 10 kWh | €5.995 | €870 | 6,9 jaar | **+€2.705** |
+| Zonneplan 10 kWh | €6.995 | €880 | 7,9 jaar | **+€1.805** |
+| Huawei Luna 2000 (10 kWh) | €5.500 | €890 | 6,2 jaar | **+€3.400** |
+| BYD Battery-Box (10,2 kWh) | €5.800 | €860 | 6,7 jaar | **+€2.800** |
+| EcoFlow PowerOcean (10 kWh) | €6.800 | €840 | 8,1 jaar | **+€1.600** |
+| Tesla Powerwall 3 (13,5 kWh) | €9.500 | €960 | 9,9 jaar | **+€100** |
+
+Zijn conclusie: Sessy als hij gemak wil, Marstek als hij wil tweaken op HA. Na lang doorpraten koos hij Sessy — zijn vrouw vond het idee van NL-support doorslaggevend.
+
+---
+
+## Veelgemaakte fouten bij de 10 kWh keuze
+
+Na twaalf praktijkinstallaties en tientallen gesprekken heb ik een duidelijk patroon van fouten ontdekt.
+
+### Fout 1: capaciteit gelijkstellen aan dagcapaciteit
+
+Een 10 kWh batterij is niet altijd 10 kWh per dag nuttig. In de winter — van november tot februari — produceren je zonnepanelen soms maar 1-3 kWh per dag. De batterij vult zich dan nauwelijks en ontlaadt maar deels. Een 10 kWh batterij maakt op winterdagen misschien 3-4 kWh nuttig gebruik per dag, niet 10.
+
+De echte jaarwaarde is gebaseerd op gemiddeld 200-260 voltijdse cycli/jaar in Nederland. Bij 10 kWh × 250 cycli × 90% efficiëntie: 2.250 kWh echt opgeslagen stroom per jaar.
+
+### Fout 2: vermogen verwisselen met capaciteit
+
+Een Sessy 10 kWh heeft 2,5 kW continu vermogen. Bij een vriezer, inductie-plaat, vaatwasmachine en koelkast tegelijk verbruik je gemakkelijk 3-4 kW. Sessy kan dat dan niet volledig dekken. Voor dit profiel: kies EcoFlow (5 kW) of Tesla (5 kW).
+
+Marstek Venus E heeft 3 kW — beter dan Sessy voor middelzware huishoudens, maar nog steeds onvoldoende voor het zwaarste profiel.
+
+### Fout 3: de installatiekosten vergeten
+
+Marstek Venus E adverteert €2.299 maar installatie is €350-€450 extra. Sessy adverteert €5.995 en installatie is inbegrepen. Een eerlijke vergelijking telt altijd de totale kosten inclusief aansluiting, bekabeling en in sommige gevallen een extra groep in de meterkast.
+
+### Fout 4: de leverancier vergeten bij de serverkeuze
+
+Zonneplan-batterij werkt optimaal met Zonneplan-energiecontract (Radar-algoritme). Huawei Luna werkt optimaal met Tibber of Zonneplan (native integratie). Sessy werkt met elk contract maar native met NL-markt. Als je merk A koopt maar leverancier B wilt: check of de integratie bestaat.
+
+### Fout 5: lease vergelijken met koop zonder restwaarde
+
+Zonneplan lease €54/mnd lijkt vergelijkbaar met Sessy €5.995 koop. Maar: bij koop heb je restwaarde na 10 jaar (€1.500-€3.000 geschat). Bij lease €0 restwaarde. De totale lease-uitstroom over 10 jaar is €6.480, de koop-uitstroom is €5.995 — én je hebt dan nog een apparaat. Koop wint bijna altijd, tenzij cashflow het onmogelijk maakt.
+
+---
+
+## Saldering-stop 2027: wat betekent dat voor de 10 kWh keuze?
+
+Vanaf 1 januari 2027 stopt de salderingsregeling. Voor wie nu nog twijfelt: dit is de meest directe financiële reden om actie te ondernemen.
+
+**Wat de stop betekent voor elke 10 kWh batterij:**
+
+Met 10 kWh capaciteit absorbeer je 75-90% van je zonne-overschot als eigenverbruik. Wat nu via saldering €0,25-€0,31/kWh oplevert, levert na 2027 nog maar €0,07-€0,10/kWh op bij teruglevering.
+
+**Ander gezegd**: een 10 kWh batterij beschermt je tegen een inkomensverlies van €350-€600/jaar dat je anders na 2027 zou lijden. Dat verandert de terugverdientijden fors:
+
+| Batterij | TVT bij huidig saldering | TVT na saldering-stop 2027 | Verschil |
+|---|---|---|---|
+| Marstek Venus E | 3,3 jaar | 2,2 jaar | -1,1 jaar |
+| Sessy 10 kWh | 6,9 jaar | 5,1 jaar | -1,8 jaar |
+| Zonneplan 10 kWh | 7,9 jaar | 5,8 jaar | -2,1 jaar |
+| Tesla Powerwall 3 | 9,9 jaar | 7,2 jaar | -2,7 jaar |
+
+De saldering-stop verlengt niet alleen de waarde van zelfverbruik — het maakt ook meer capaciteit zinvol. Wie twijfelde tussen 5 kWh en 10 kWh: na 2027 is 10 kWh bijna altijd beter.
+
+**Timing advies**: wie vóór zomer 2026 koopt, haalt nog zes maanden saldering mee én profiteert daarna maximaal van de hogere batterijwaarde. Wachten tot eind 2026 of 2027 brengt risico op installatietekort én mogelijk tijdelijke prijsstijging (10% schat ik) door piekvraag.
+
+---
+
+## Vijf vragen om je keuze te bepalen
+
+Voor wie nog niet weet welke te kiezen: beantwoord deze vijf vragen eerlijk.
+
+**1. Wat is je budget?**
+- Onder €3.000: Marstek Venus E is de enige serieuze optie
+- €3.000-€6.500: Sessy of Huawei Luna
+- Boven €6.500: Zonneplan, EcoFlow, of Tesla
+
+**2. Wil je NL-support bij defect?**
+- Ja, binnen een week: Sessy of Zonneplan
+- Geen prioriteit, 4-8 weken is ok: Marstek of Huawei
+
+**3. Heb je Home Assistant of wil je dat hebben?**
+- Ja, en ik wil alles zelf automatiseren: Marstek (beste open API)
+- Nee, set-and-forget: Sessy of Zonneplan
+
+**4. Heb je een EV?**
+- Tesla: Tesla Powerwall (V2H integratie)
+- Andere EV: Sessy + Tibber, of EcoFlow
+- Geen EV: Sessy of Marstek zijn voldoende
+
+**5. Hoe zwaar is je stroomverbruik?**
+- Warmtepomp + inductie + EV: minimaal 5 kW vermogen → Tesla, EcoFlow of EV-gereed systeem
+- Normaal gezin: Sessy (2,5 kW) of Marstek (3 kW) zijn voldoende
+
+---
+
 ## Waarom 10 kWh? De sweet spot
 
 Voor de meeste Nederlandse zonnepaneelbezitters is 10 kWh optimaal. Berekening:

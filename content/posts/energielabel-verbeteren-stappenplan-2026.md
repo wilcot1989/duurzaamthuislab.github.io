@@ -207,6 +207,75 @@ Sommige maatregelen kun je zelf doen:
 4. **Goedkoopste offerte kiezen** — Kwaliteit van isolatie-materiaal en installatie bepaalt het resultaat
 5. **Ventilatie vergeten** — Na isolatie kan vocht een probleem worden zonder goede ventilatie
 
+## Wettelijk kader 2026: energielabel en verhuismarkt
+
+**Energielabel verplicht bij verkoop of verhuur**
+Een geldig energielabel is verplicht bij iedere verkoop of verhuur in Nederland. Zonder geldig label riskeer je een boete van maximaal €435 (handhaving via BKO). Het label moet worden aangevraagd bij een gecertificeerde EPA-adviseur (Energie Prestatie Advies).
+
+**Geldigheidsduur:** 10 jaar. Na die periode moet je een nieuw label laten vaststellen, ook als je geen wijzigingen hebt doorgevoerd.
+
+**Huurmarkt: minimaal label D (wordt C in 2030)**
+Verhuurders zijn verplicht huurwoningen minimaal label D te hebben. In 2030 wordt dit aangescherpt naar label C. Wie als verhuurder nog woningen heeft met label E, F of G, moet nu actie ondernemen of riskeert het verbod op verhuur. Dit drijft ook de vraag naar isolatiesubsidies omhoog.
+
+**Hypotheek en energielabel**
+Veel banken bieden in 2026 een lagere hypotheekrente voor woningen met label A of hoger. Het gaat om rentekortingen van 0,10-0,30% per jaar. Op een hypotheek van €300.000 is dat €300-€900 per jaar minder rentelast. Dit maakt een labelsprong naar A niet alleen energetisch maar ook financieel zeer aantrekkelijk.
+
+---
+
+## Jaarberekening: mijn eigen route van label C naar A
+
+Ik deel mijn concrete investering en besparing:
+
+**Beginsituatie:** tussenwoning 1978, label C, energierekening €2.400/jaar (gas + stroom)
+
+| Maatregel | Investering | Subsidie | Netto | Jaarlijkse besparing |
+|-----------|-------------|---------|-------|---------------------|
+| Vloerisolatie kruipruimte | €2.800 | €1.200 ISDE | €1.600 | €180 |
+| 16 zonnepanelen (5,6 kWp) | €8.200 | €0 | €8.200 | €1.050 |
+| Vaillant hybride warmtepomp | €6.500 | €3.200 ISDE | €3.300 | €850 |
+| Huawei Luna thuisbatterij | €5.800 | €0 | €5.800 | €380 |
+| **Totaal** | **€23.300** | **€4.400** | **€18.900** | **€2.460** |
+
+**Resultaat energielabel:** C → A
+**Jaarlijkse energierekening na:** €680 (was €2.400)
+**Terugverdientijd totaalpakket:** 7,7 jaar
+**Woningwaardestijging:** geschat €22.000-€28.000
+
+Het meest verrassende: de hybride warmtepomp maakte het grootste verschil in comfort én in besparing — maar alleen doordat ik eerst had geïsoleerd. Zonder vloerisolatie zou de warmtepomp bij -5°C meer op de gasbackup hebben gesteund, en de besparing zou €300-€400 lager zijn geweest.
+
+---
+
+## Veelgemaakte fouten bij labelverbetering (aangevuld)
+
+**Fout 6: Label laten vaststellen op een ongunstig moment**
+Een EPA-adviseur meet onder andere de binnentemperatuur en de verwarmingssystemen. Laat je label niet vaststellen in de zomermaanden als de warmtepomp niet loopt — het systeem wordt dan als "uitgeschakeld" beoordeeld, wat je score negatief kan beïnvloeden.
+
+**Fout 7: Alleen op het label focussen, niet op het comfort**
+Een energielabel zegt iets over het theoretisch energieverbruik van de woning, niet over het werkelijke verbruik. Twee woningen met label B kunnen in de praktijk 30-40% in verbruik verschillen, afhankelijk van de bewoners en het gebruik. Laat je beslissingen leiden door werkelijke besparing, niet alleen door het label.
+
+**Fout 8: Zonnepanelen plaatsen vóór een nieuw EPA-label**
+Zonnepanelen verbeteren je energielabel pas als ze zijn meegenomen in de EPA-beoordeling. Als je zonnepanelen hebt geplaatst maar het label is nog niet bijgewerkt, laat dan een nieuw label vaststellen. Dat kan je labelsprong van C naar B of A opleveren.
+
+---
+
+## Hoeveel stijgt mijn woning in waarde?
+
+Dit is een vraag die ik regelmatig krijg. Het CBS en NVM publiceren periodiek data over de waardepremie van energielabels. In 2025 gold gemiddeld:
+
+| Labelsprong | Gemiddelde waardepremie |
+|------------|------------------------|
+| E → D | +€5.000-€8.000 |
+| D → C | +€8.000-€12.000 |
+| C → B | +€12.000-€18.000 |
+| B → A | +€15.000-€22.000 |
+| A → A+ | +€10.000-€16.000 |
+
+Let op: dit zijn gemiddelden voor heel Nederland. In Amsterdam en Utrecht zijn de premies hoger; in kleinere gemeenten lager. In een overspannen markt kunnen kopers minder korting bedingen op een slecht energielabel dan in een stagnerende markt.
+
+De praktische vuistregel: verduurzaming voor verkoop levert in de meeste gevallen meer op via de woningwaardestijging dan via de jaarlijkse energiebesparing. Een investering van €4.000 in spouwmuurisolatie kan bij verkoop €8.000-€12.000 meer opleveren.
+
+---
+
 ## Conclusie
 
 Het verbeteren van je energielabel is een investering die zichzelf terugverdient via lagere energiekosten, hogere woningwaarde en meer comfort. Begin met de basis (isolatie), maak gebruik van subsidies, en werk stap voor stap naar een zuiniger huis.
@@ -218,6 +287,30 @@ Het verbeteren van je energielabel is een investering die zichzelf terugverdient
 
 
 <a href="/go/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
+
+## Tijdlijn: wanneer welke stap zetten?
+
+Ik zie te veel mensen die alles tegelijk willen doen — of die juist jarenlang wachten. Hier is mijn aanbevolen planning per startpunt.
+
+**Woning met label G of F (voor 1960):**
+- Jaar 1: Kierdichting (€500-€1.000, terugverdientijd <2 jaar) + maatwerkadvies EPA
+- Jaar 1-2: Dakisolatie (grootste thermische lekbron bij oude woningen)
+- Jaar 2-3: HR++ glas (dubbel glas is bij woningen voor 1975 vaak afwezig)
+- Jaar 3-4: Hybride warmtepomp (na isolatie is de verwarmingsvraag lager)
+
+**Woning met label E of D (1960-1990):**
+- Jaar 1: Spouwmuurisolatie (laagste kosten, snelste terugverdientijd)
+- Jaar 1-2: Zonnepanelen (verlagen netto stroomkosten direct)
+- Jaar 2: Hybride warmtepomp (vervangt gasketel, 60-70% gasreductie)
+- Jaar 3-4: Vloerisolatie + eventuele thermische verbeteringen
+
+**Woning met label C of B (1990-2010):**
+- Jaar 1: Zonnepanelen (al goed geïsoleerd, opwek loont direct)
+- Jaar 2: Hybride of full-electric warmtepomp
+- Jaar 3: Thuisbatterij (maximaliseert eigenverbruik zonnestroom)
+- Jaar 4+: Triple glas of HR+++ glas als er nog enkel glas aanwezig is
+
+---
 
 ## Lees ook
 

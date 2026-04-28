@@ -41,6 +41,113 @@ Na een jaar met mijn Huawei Luna 2000 weet ik precies waar je op moet letten bij
 
 Heb je al een dynamisch energiecontract? Lees dan hoe je een [thuisbatterij combineert met dynamische prijzen](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
+## Waarom ik juist deze 5 koos
+
+De Nederlandse markt heeft inmiddels tientallen thuisbatterij-merken. Ik beperkte me tot de vijf die het meest worden geïnstalleerd door gecertificeerde installateurs én waarbij ik voldoende data kon vergaren: eigenaarsreviews, installateursfeedback, en technische specificaties. Merken als Victron, Alpha-ESS of Pylontech heb ik bewust buiten beschouwing gelaten — interessant voor gevorderden, maar te complex voor de gemiddelde consument.
+
+De vijf gekozen systemen zijn representatief voor het volledige marktspectrum: van all-in tot modulair, van goedkoopst tot duurste, van AC- tot DC-gekoppeld.
+
+---
+
+## Praktijkjaarberekening: tussenwoning Arnhem
+
+Laat me concreet doorrekenen voor een profiel dat ik regelmatig tegenkom:
+
+**Gezin in een tussenwoning in Arnhem**
+- Jaarverbruik: 4.200 kWh
+- Zonnepanelen: 12 stuks (4,2 kWp), oost-west geplaatst
+- Teruglevering: 1.900 kWh/jaar
+- Energiecontract: vaste prijs €0,31/kWh (overweegt te switchen naar dynamisch)
+- Gewenste capaciteit: ~10 kWh
+
+**Welke batterij, en wat levert het op?**
+
+| Batterij | Investering | Zonne-besparing 2026 | Arbitrage-bonus | Totaal/jaar | Terugverdientijd |
+|---|---|---|---|---|---|
+| BYD HVS 10,2 kWh | €5.800 | €480 | €0 (vast contract) | **€480** | 12,1 jaar |
+| Huawei LUNA2000 10 kWh | €5.500 | €500 | €180 (dynamisch) | **€680** | 8,1 jaar |
+| Enphase IQ Battery 10 kWh | €8.000 | €440 | €0 (AC-verlies) | **€440** | 18,2 jaar |
+| SolarEdge Home Battery 9,7 kWh | €6.500 | €510 | €130 (dynamisch) | **€640** | 10,2 jaar |
+| Tesla Powerwall 3 | €9.500 | €680 | €200 (dynamisch) | **€880** | 10,8 jaar |
+
+*Arbitrage-bonus op dynamisch contract Frank Energie (0 marge op EPEX).*
+
+Het Arnhemse gezin heeft geen dynamisch contract. Met een vast contract is Huawei LUNA2000 de beste keuze: laagste prijs, hoogste besparing bij hun profiel. Maar als ze tegelijk naar Frank Energie overstappen: 8,1 jaar terugverdientijd.
+
+---
+
+## Veelgemaakte fouten bij het kopen van een thuisbatterij
+
+Over de jaren heb ik tientallen mensen begeleid bij de aanschaf. Dit zijn de fouten die ik keer op keer zie:
+
+### Fout 1: batterij kopen voor het contract verandert
+
+Een thuisbatterij exploiteren op een vast energiecontract is alsof je een raceauto koopt en op de provinciale weg rijdt: het werkt, maar je benut de mogelijkheden niet. De winst van een batterij zit voor 40-60% in het dynamisch inladen op goedkope uren. Wie dit nalaat, kijkt aan tegen een terugverdientijd van 15+ jaar.
+
+Mijn advies: switch eerst naar dynamisch contract (Frank Energie of Tibber — gratis overstappen, geen contractduur), en bestel daarna de batterij.
+
+### Fout 2: capaciteit kiezen op basis van "meer is beter"
+
+Groter is niet altijd beter. Een huishouden met 3.000 kWh jaarverbruik heeft aan 5-7 kWh genoeg voor 80-90% zelfdekkend avondverbruik. Een 15 kWh batterij kopen betekent dat 40% van de capaciteit elke dag onbenut blijft. Je betaalt per kWh — onbenutte kWh zijn weggegooid geld.
+
+Rekenopdracht: noteer je avond/nachtverbruik gedurende drie weken (via P1-meter of de app van je slimme meter). Dat getal × 1,1 is je ideale capaciteit.
+
+### Fout 3: round-trip efficiëntie negeren
+
+BYD HVS scoort 95,3% round-trip efficiëntie (DC-gekoppeld). Enphase IQ Battery haalt 89% (AC-gekoppeld). Dat klinkt als een klein verschil, maar over 200 cycli/jaar en 10 kWh per cyclus: BYD bespaart 124 kWh meer dan Enphase, of circa €38/jaar. Over 10 jaar: €380 — genoeg om te meewegen.
+
+### Fout 4: backup vergeten totdat er een stroomstoring is
+
+In de winter van 2025 waren er in Noord-Holland drie stroomonderbrekingen van meer dan 2 uur. Daarna explodeerden de aanvragen voor batterijen met backup-functionaliteit. De les: backup is een verzekering — je wil hem pas als het te laat is. Tesla Powerwall en Enphase IQ Battery bieden automatische backup. Sessy en BYD doen dat niet standaard.
+
+Als je thuiswerkt, medische apparatuur hebt, of gewoon geen zin hebt in koelkastproblemen tijdens een storing: backup is meer waard dan €500 extra.
+
+### Fout 5: DC vs AC verschil onderschatten
+
+DC-gekoppelde batterijen (BYD, Huawei, SolarEdge) integreren direct met je omvormer. Je hebt dan één energiestroom: zonnepanelen → omvormer → batterij en net, zonder dubbele conversie. Dit levert 5-8% efficiëntieverbetering op.
+
+AC-gekoppelde batterijen (Tesla, Enphase, Sessy) werken achter de meter: stroom wordt eerst omgezet, dan opgeslagen, dan weer omgezet. Minder efficiënt, maar compatibel met elke bestaande installatie. Voor retrofit (bestaande panelen + nieuwe batterij) is AC de simpelste keuze.
+
+---
+
+## Saldering-stop 2027: hoe dit de vergelijking verschuift
+
+Per 1 januari 2027 stopt saldering. Dat klinkt technisch, maar het heeft directe gevolgen voor welke batterij optimaal is.
+
+**Wat verandert:** je kWh-teruglevering naar het net wordt minder waard. Nu: €0,25-€0,31/kWh via saldering. Na 2027: ~€0,07-€0,10/kWh teruglevertarief.
+
+**Welke batterij profiteert het meest van deze verschuiving?**
+
+| Batterij | Absorptie-capaciteit | Extra waarde 2027 vs 2026 |
+|---|---|---|
+| Tesla Powerwall 3 (13,5 kWh) | Absorbeert meeste teruglevering | +€200-€280/jaar |
+| Huawei LUNA2000 (10 kWh) | Goed profiel | +€150-€220/jaar |
+| BYD HVS 10,2 kWh | Vergelijkbaar | +€150-€220/jaar |
+| Enphase IQ Battery 10 kWh | Lager door AC-verliezen | +€120-€180/jaar |
+| SolarEdge Home Battery (9,7 kWh) | Goed bij DC | +€150-€210/jaar |
+
+Elk van deze systemen profiteert van de saldering-stop, maar de mate verschilt met capaciteit. Wie nu nog twijfelt: de saldering-stop is de financiële stok achter de deur die de terugverdientijd verkort.
+
+**Praktisch:** wie in Q3 2026 een batterij koopt, profiteert nog 6 maanden van saldering (vermindert zijn teruglevering gratis via saldering) én profiteert daarna maximaal van de hogere batterijwaarde post-2027. Dat is de optimale timing.
+
+---
+
+## Vergelijking slimme sturing per merk
+
+Voor wie op een dynamisch contract zit of dat overweegt: hoe goed stuurt elke batterij automatisch op prijs?
+
+| Batterij | Native dynamisch contract | Via Home Assistant | Configuratie-moeite |
+|---|---|---|---|
+| Tesla Powerwall 3 | Beperkt (geen NL-specifiek) | Matig | Hoog |
+| BYD HVS | Nee (via omvormer) | Via Sungrow/GoodWe app | Gemiddeld |
+| Huawei LUNA2000 | Tibber, Zonneplan (direct) | Ja, goed | Laag |
+| SolarEdge Home Battery | Tibber (via Home Hub) | Ja | Gemiddeld |
+| Enphase IQ Battery | Beperkt | Ja, via HA | Hoog |
+
+**Winnaar voor slim laden**: Huawei LUNA2000 — native integratie met Tibber en Zonneplan, lage configuratie-moeite.
+
+---
+
 ## Snelle vergelijking
 
 | Batterij | Capaciteit | Prijs (incl. install.) | Rond-trip efficiëntie | Garantie | Backup |

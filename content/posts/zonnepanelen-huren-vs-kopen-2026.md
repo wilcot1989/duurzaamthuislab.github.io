@@ -234,6 +234,110 @@ De panelen blijven functioneren. Ze gaan naar de curator/faillissementsboedel. W
 
 Ja, maar let op: contracten van vóór 2025 hebben vaak geen saldering-stop clausule. Nieuwe contracten van serieuze aanbieders passen de maandprijs aan als saldering wegvalt. Slorvig geformuleerde contracten niet — dat wordt een conflict.
 
+## Levensduurtest: wat kopen na 15 jaar oplevert
+
+Ik ken een stel dat in 2009 zonnepanelen kochten — een van de vroegste adopters in hun wijk. Ze betaalden destijds €18.000 voor 18 panelen van 215 Wp (totaal 3,87 kWp). Dat klinkt krankzinnig duur vergeleken met nu, maar saldering was volledig actief en de stroomprijs steeg jarenlang fors.
+
+Na 15 jaar:
+- Investering: €18.000 (+ €1.200 omvormervervanging jaar 12)
+- Totaal opgewekt: ~52.000 kWh (licht boven verwachting)
+- Totale besparing (stijgende stroomprijs meegenomen): ~€15.800
+- Resterende panelencapaciteit: gemeten 89% van oorspronkelijk vermogen
+
+Ze zijn nog niet in de plus — maar dat liegt: zonder saldering en zonder de energieprijscrisis van 2022 was de terugverdientijd 20+ jaar geweest. Met de prijsschok van 2022 versnelde alles. In 2024 waren ze break-even. Inmiddels draaien ze puur winst.
+
+De les: ook "te duur" aankopen uit 2009 zijn uiteindelijk winstgevend gebleken door de LFP-achtige duurzaamheid van de panelen (85%+ na 15 jaar) en stijgende energieprijzen. Kopers die vandaag instappen hebben een dramatisch betere prijs-kwaliteitverhouding.
+
+---
+
+## Verhuurcontracten en de saldering-stop: een verborgen gevaar
+
+Veel huurcontracten zijn gesloten vóór de saldering-stop was aangekondigd. Daardoor zijn ze gebaseerd op een financieel model dat niet meer klopt na 2027.
+
+**Hoe een typisch huurcontract was berekend (vóór 2025):**
+
+Aanname huuraanbieder:
+- Klant levert 2.500 kWh terug per jaar
+- Klant saldert die 2.500 kWh tegen €0,30/kWh = €750 besparing
+- Huuraanbieder rekent €50/maand = €600/jaar huur
+- Netto klant-besparing: €750 - €600 = €150/jaar
+
+**Na 2027 (zonder saldering):**
+- Klant levert 2.500 kWh terug maar krijgt slechts €0,10/kWh = €250
+- Huur nog steeds: €600/jaar
+- Netto klant-besparing: €250 - €600 = **-€350/jaar (verlies!)**
+
+Tenzij het contract expliciet een aanpassing heeft voor de saldering-stop, draait de huurder op voor dit verlies. De panelen blijven draaien maar de economie klopt niet meer.
+
+**Hoe je dit checkt in je contract:**
+Zoek naar zinnen als: "terugleververgoeding", "aanpassing bij wetswijziging", "salderingsaanpassing". Staat er niets? Dan is het contract waarschijnlijk gebaseerd op de oude situatie en kun je een probleem verwachten.
+
+Enkele aanbieders (Solarwatt, Sungevity) hebben dit al aangepast in nieuwe contracten. Bij oude contracten van vóór 2024 is het de moeite waard om contact op te nemen en te vragen of ze bereid zijn het tarief aan te passen.
+
+---
+
+## Praktijkgeval: drie buren, drie keuzes
+
+In mijn straat hebben drie buren in hetzelfde jaar (2022) zonnepanelen geregeld, alle drie met 12 panelen op vergelijkbare daken. Interessant case study:
+
+**Buurman A: kopen met spaargeld (€4.200, all-in)**
+Terugverdientijd verwacht: 6 jaar. In werkelijkheid: 5,5 jaar door energieprijsstijging 2022-2023. Nu in jaar 4, heeft al €3.600 terugverdiend van zijn €4.200. Schat dat hij over 25 jaar €18.000 netto overhoudt na alle kosten.
+
+**Buurvrouw B: huren bij lokale aanbieder (€52/maand, 15 jaar)**
+Eerste twee jaar: nettobesparing €15/maand (saldering minus huur). Na saldering-stop 2027: contract is niet aangepast en ze betaalt nog steeds €52/maand terwijl de teruglevering nog maar €0,10/kWh oplevert. Ze heeft contact opgenomen; aanbieder heeft toegezegd het tarief per 2027 te verlagen naar €40/maand — maar het staat niet schriftelijk vast. Ze overweegt vroeg uit het contract te stappen.
+
+**Buurman C: groene lening (€4.200, 3,2% rente, 7 jaar)**
+Maandlast €60, maar dit is aflossing met rente — na 7 jaar zijn de panelen van hem. Nettobesparing jaar 1-7 beperkt (huur minus aflossing ≈ €15-25/maand), maar daarna puur winst. Slimme keuze voor wie geen spaargeld had.
+
+Mijn conclusie: buurman A en C pakken het financieel het beste aan. Buurvrouw B heeft een risico door het onduidelijke contract post-2027.
+
+---
+
+## Zonnepanelen en woningwaarde: cijfers
+
+Kopen verhoogt de woningwaarde; huren niet. Dit is een onderdeel van de vergelijking dat mensen onderschatten.
+
+**WOZ-waarde impact (bron: CBS, 2023-2024):**
+- Woningen met zonnepanelen hebben gemiddeld 3-5% hogere WOZ-waarde
+- Bij een woning van €350.000: +€10.500 tot +€17.500 in WOZ-waarde
+- NVM-data: gemiddeld 2-4% hogere verkoopprijs bij aanwezigheid zonnepanelen
+
+De verhoogde WOZ-waarde heeft een keerzijde: hogere OZB-belasting. Bij een WOZ-verhoging van €10.000 betaal je gemiddeld €25-€50 per jaar meer OZB — verwaarloosbaar tegenover de verkoopwaardeverhoging.
+
+**Bij huur**: de panelen zijn niet van jou, dus ook de woningwaardevermeerdering geldt niet. Bij verkoop moet je het huurcontract overdragen of de panelen laten verwijderen. Potentiële kopers zien een huurcontract van 5-10 jaar resterende looptijd als een verplichting, wat de verkoopbaarheid kan verlagen.
+
+---
+
+## Financieringsopties vergelijking 2026
+
+| Financieringsvorm | Rente | Maandlast (€4.500) | Eigendom na | Voordeel |
+|---|---|---|---|---|
+| **Eigen spaargeld** | 0% | €0 | Direct | Maximale netto-opbrengst |
+| **Nationaal Warmtefonds** | 0% | €45/maand (10 jaar) | Direct | 0% rente, eigendom direct |
+| **Groene persoonlijke lening** | 2,5-4% | €50-55/maand (10 jaar) | Direct | Lage rente, eigendom direct |
+| **Energiebespaarlening gemeente** | 1-2% | €42-45/maand (10 jaar) | Direct | Laagste rente na warmtefonds |
+| **Huren** | N.v.t. | €40-80/maand (15 jaar) | Nooit (of na 15 jaar voor symbolisch bedrag) | Geen eigen investering, onderhoud inbegrepen |
+
+Het Nationaal Warmtefonds is de duidelijke winnaar voor wie geen spaargeld heeft maar toch wil kopen. De 0% rente lening voor inkomens tot ~€60.000 bruto maakt het financieel gelijkwaardig aan kopen met spaargeld, minus de kapitaalopbrengst die je op je spaargeld had kunnen maken (maar die staat momenteel ook laag).
+
+---
+
+## Veelgestelde vragen uitgebreid
+
+**"Mijn dak is niet ideaal — is huren dan veiliger?"**
+
+Nee, integendeel. Als je dak slecht is of je dakbedekking oud, zal een verhuurder de installatie weigeren of een lagere garantie geven. En mocht het dak problemen geven na installatie, ben jij verantwoordelijk voor het dak — ook bij huur. De verhuurder installeert de panelen, niet het dak. Bij een noodzakelijke dakrenovatie moet je de huurpanelen laten verwijderen en herplaatsen, voor jouw rekening.
+
+**"Wat als de energieprijzen dalen?"**
+
+Dalende energieprijzen verlengen de terugverdientijd bij kopen. Maar bij huren daalt je nettobesparing ook. Het verschil tussen huren en kopen blijft proportioneel hetzelfde. Bovendien: over de lange termijn (25 jaar) is de gemiddelde energieprijs structureel gestegen, niet gedaald.
+
+**"Zijn er goede huurcontracten in 2026?"**
+
+Er zijn serieuze aanbieders, maar het aanbod van huurcontracten is kleiner geworden. Meerdere aanbieders hebben hun huuractiviteiten afgebouwd na de onzekerheid rondom de saldering-stop. Kijk naar Solarwatt en Sungevity als je huur overweegt — zij hebben de contracten aangepast voor de post-saldering situatie.
+
+---
+
 ## Conclusie
 
 **Kopen is financieel altijd de betere keuze** — je verdient €3.700+ meer over 25 jaar en bent eigenaar van de panelen. Maar huren is een prima optie als je geen spaargeld hebt, onzeker bent over je woonsituatie, of gewoon geen gedoe wilt.

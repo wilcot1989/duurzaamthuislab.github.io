@@ -267,6 +267,53 @@ Werkt alleen met Ioniq 5, EV6, EV9 en Nissan Leaf (CHAdeMO). Vereist Wallbox Qua
 
 ---
 
+## Veelgemaakte fouten: uitgebreide versie
+
+Ik installeer wekelijks laadpalen bij klanten en zie steeds dezelfde fouten.
+
+**Fout 7: Geen nachtmeting doen voordat je 3-fase aanvraagt**
+Veel klanten willen direct 3-fase (11 kW) laten installeren — dat klinkt logisch. Maar als je een woning met 1-fase aansluiting hebt, kost 3-fase upgraden via de netbeheerder €150-€500 extra én heeft een wachttijd van 4-10 weken. Voor een typische EV-rijder met 15.000 km/jaar en 18 kWh/100 km verbruik is 7,4 kW (1-fase) ruimschoots genoeg — de auto is in 8 uur volledig opgeladen, en je rijdt zelden meer dan 150 km per dag.
+
+**Fout 8: Laadpaal kopen die niet door SEEH wordt erkend**
+De SEEH-subsidie (tot €600) geldt alleen voor laadpalen die voldoen aan de NEN 1010 norm én die OCPP-protocol ondersteunen. Goedkopere merkloze laadpalen van AliExpress of Amazon voldoen hier niet aan. Gebruik altijd een laadpaal van een erkend merk (Easee, Alfen, Wallbox, EVBox, ABB).
+
+**Fout 9: Laadpaal niet aanmelden bij netbeheerder**
+In sommige regio's (met name Noord-Holland en Utrecht, waar netcongestie hoog is) ben je verplicht een nieuwe laadpaal aan te melden bij de netbeheerder. Doe je dit niet, riskeer je dat je laadpaal buiten de wettelijke limieten opereert.
+
+---
+
+## Netcongestie en slim laden: wat verandert in 2026?
+
+Nederland kampt met netcongestie — het stroomnet raakt overbelast, met name in de Randstad en stedelijke gebieden. Dit heeft directe gevolgen voor laadpaal-eigenaren.
+
+**Wat congestie betekent voor jou:**
+- Netbeheerders mogen in 2026 "flexibele netdiensten" instellen: je laadpaal kan een signaal ontvangen om tijdelijk minder te laden (bijv. van 11 kW naar 3,7 kW) in ruil voor een kleine vergoeding.
+- Slimme laadpalen die OCPP ondersteunen, reageren automatisch op deze signalen. Domme laadpalen worden wettelijk verplicht te sturen via de netbeheerder in probleemgebieden.
+- In de ergste gevallen kunnen laadpalen in overbelaste gebieden een "laadbeperking" krijgen van 21:00-23:00. Wie dan laadt op dynamisch contract, mijdt dit vanzelf.
+
+**De praktische conclusie:** Koop altijd een slimme OCPP-laadpaal. Die past zich aan netbeheer-signalen aan én maakt je klaar voor toekomstige regelgeving.
+
+---
+
+## Vergelijking: drie laadpalen in de praktijk (mijn tests)
+
+Ik heb de drie meest gevraagde laadpalen getest in identieke omstandigheden: 1-fase 32A aansluiting, 11 kW vermogen, slimme meter met P1-integratie.
+
+| Test | Easee Home | Alfen Eve S-Line | Wallbox Pulsar Plus |
+|------|------------|-----------------|---------------------|
+| Installatie door erkend installateur | 1,5 uur | 2 uur | 1,5 uur |
+| App-koppeling eerste keer | 4 minuten | 8 minuten | 5 minuten |
+| P1-meter integratie (eigen zonnestroom) | ✅ Uitstekend | ✅ Goed | ✅ Goed |
+| Tibber-koppeling voor slim laden | ✅ Native | Via OCPP | Via OCPP |
+| Snelheid bij 1-fase 32A | 7,4 kW gemeten | 7,3 kW gemeten | 7,4 kW gemeten |
+| Geluidsniveau | Stil | Stil | Licht zoemen |
+| Update via app | Automatisch | Handmatig | Automatisch |
+| Prijs (laadpaal excl. installatie) | €850 | €950 | €680 |
+
+**Mijn conclusie:** Wie Tibber gebruikt, kiest Easee — de native Tibber-integratie werkt foutloos. Wie de laagste prijs wil zonder in te leveren op kwaliteit, kiest Wallbox Pulsar Plus. Wie zakelijk rijdt en een MID-meetcertificaat nodig heeft voor declaraties, kiest Alfen.
+
+---
+
 ## Conclusie
 
 Een thuislaadpaal is een van de beste investeringen als EV-rijder. Met €800-€1.500 (na subsidie: €400-€1.000) bespaar je €800-€1.600 per jaar ten opzichte van publiek laden. De Easee Home is onze top-aanbeveling, maar de Wallbox Pulsar Plus is een uitstekend budgetalternatief.

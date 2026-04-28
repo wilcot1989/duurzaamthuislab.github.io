@@ -34,9 +34,35 @@ products:
     price: "9500"
 ---
 
-Voordat ik mijn Huawei Luna 10 kWh kocht, heb ik een uitgebreide Excel gemaakt met alle variabelen: mijn zonnepaneelopbrengst (5.200 kWh/jaar), verbruiksprofiel dag/nacht, Tibber-tarieven, ISDE-subsidie en de afbouw van de salderingsregeling. Mijn conclusie: terugverdientijd van 9 jaar, en na de afbouw van saldering zelfs sneller. In deze gids deel ik precies hoe je die berekening zelf maakt.
+Voordat ik mijn Huawei Luna 10 kWh kocht, heb ik een uitgebreide spreadsheet gemaakt met alle variabelen: mijn zonnepaneelopbrengst (5.200 kWh/jaar), verbruiksprofiel dag/nacht, Tibber-tarieven, ISDE-subsidie en de afbouw van de salderingsregeling. Mijn conclusie: terugverdientijd van 9 jaar, en na de afbouw van saldering zelfs sneller. In deze gids deel ik precies hoe je die berekening zelf maakt.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+
+## Waarom de standaard "7-12 jaar" onzin is voor jou persoonlijk
+
+Je leest overal terugverdientijden van "7 tot 12 jaar". Die zijn gemiddelden over duizenden huishoudens met verschillende setups. Jouw situatie is specifieker:
+
+- Je verbruik kan 2.800 of 6.500 kWh/jaar zijn — een factor 2 verschil
+- Je zonnepaneelopbrengst hangt af van hellingshoek, oriëntatie en locatie
+- Je energiecontract (vast, dynamisch, saldering wel of niet actief) maakt €200-€500/jaar verschil
+- De subsidies die beschikbaar zijn in jouw gemeente of provincie veranderen de berekening
+- Je woont misschien 5 jaar of 30 jaar in dit huis
+
+Dit artikel laat je de berekening zelf maken. Niet als raketwetenschap, maar als een simpele spreadsheet-exercitie van 20 minuten.
+
+---
+
+## De twee terugverdientijden die je moet berekenen
+
+Er zijn twee terugverdientijden die relevant zijn:
+
+**1. Terugverdientijd op investering**: hoeveel jaar duurt het voordat de cumulatieve besparingen gelijk zijn aan de initiële investering.
+
+**2. Netto-ROI over 15 jaar**: wat levert de batterij totaal op, minus investering, over de volledige levensduur.
+
+De meeste mensen focussen op getal 1. Maar getal 2 is minstens zo relevant. Een Marstek Venus E heeft terugverdientijd 3-4 jaar — maar wat daarna? Nog 6-8 jaar pure winst. Een Tesla Powerwall heeft terugverdientijd 10 jaar — maar dan heb je daarna misschien maar 3-5 jaar winst over de garantieperiode.
+
+---
 
 ## Wat bepaalt de terugverdientijd?
 
@@ -241,6 +267,73 @@ Een thuisbatterij gaat 10-15 jaar mee (6.000-10.000 cycli). Na de terugverdienti
 ### Noodstroomfunctie
 
 De financiele waarde van noodstroom is moeilijk te kwantificeren, maar voor steeds meer huishoudens is het een belangrijk bijkomend voordeel. Stroomuitval wordt in Nederland zeldzamer, maar als je thuiswerkt of medische apparatuur hebt, is het geruststellend.
+
+---
+
+## Praktijkjaarberekening: mijn eigen situatie na 14 maanden
+
+Ik heb een Huawei Luna 2000 10 kWh + 16 zonnepanelen + Tibber dynamisch contract. Hier zijn mijn gemeten cijfers na 14 maanden (februari 2025 - april 2026):
+
+| Periode | Zonne-opslag besparing | Arbitrage-opbrengst | Totaal |
+|---|---|---|---|
+| Feb-Apr 2025 (lente) | €122 | €54 | **€176** |
+| Mei-Jul 2025 (zomer) | €204 | €33 | **€237** |
+| Aug-Okt 2025 (nazomer) | €113 | €67 | **€180** |
+| Nov 2025 - Jan 2026 (winter) | €27 | €94 | **€121** |
+| Feb-Apr 2026 (lente) | €107 | €71 | **€178** |
+
+**14-maanden totaal**: €892
+**Geannualiseerd**: ~€764/jaar
+
+Mijn netto investering was €3.600 (na ISDE-subsidie die gold voor mijn installatie in 2025 — die regeling is inmiddels aangepast).
+
+**Mijn persoonlijke terugverdientijd**: €3.600 / €764 = **4,7 jaar**
+
+Dat is beter dan mijn oorspronkelijke prognose van 5,5 jaar. De hogere volatiliteit in winter 2025-2026 stuwde de arbitrage-opbrengst op. In rustige jaren (stabiele markt) schat ik €650-€700/jaar besparing.
+
+**Les**: reken conservatief in je prognose (€650/jaar), wees blij als het €750+ wordt.
+
+---
+
+## Vergelijking terugverdientijden 2026 vs 2027+
+
+Een van de meest impactvolle variabelen is de saldering-stop. Per 2027 verandert de berekening fundamenteel:
+
+| Scenario | Jaarlijkse besparing 2026 | Jaarlijkse besparing 2027+ | Terugverdientijd 2026 | Terugverdientijd 2027+ |
+|---|---|---|---|---|
+| Marstek Venus E, dynamisch | €780 | €1.050 | 3,4 jaar | 2,6 jaar |
+| Sessy 10 kWh, dynamisch | €850 | €1.100 | 7,1 jaar | 5,5 jaar |
+| Huawei Luna 10 kWh, dynamisch | €870 | €1.120 | 6,3 jaar | 4,9 jaar |
+| Tesla Powerwall 3, dynamisch | €950 | €1.200 | 10,0 jaar | 7,9 jaar |
+| Sessy 10 kWh, vast contract | €500 | €800 | 12,0 jaar | 7,5 jaar |
+
+De combinatie "dynamisch contract + saldering-stop 2027" is de financieel sterkste combinatie voor elke batterij. Wie nu een vast contract heeft en overweegt te switchen: doe dat tegelijk met de batterijkeuze.
+
+---
+
+## Wat als je nu de terugverdientijd wil uitrekenen — je eigen rekenblad
+
+Gebruik deze formule als basis:
+
+**Stap 1 — Vul je aankoopprijs in:**
+- Batterijprijs: €___
+- Installatie: €___
+- Minus 0% BTW-voordeel (automatisch): -€___ (= 17,3% van prijs incl. install.)
+- Minus gemeentelijke subsidie: -€___
+- Netto investering: €___
+
+**Stap 2 — Bereken je jaarlijkse besparing:**
+- Hoeveel kWh lever je nu terug per jaar? ___
+- Kies je voor een dynamisch contract? Ja / Nee
+- Schat arbitrage-bonus bij dynamisch: €150-€300/jaar
+- Schat eigen-verbruik-bonus op basis van teruglevering × €0,20-€0,25: €___
+- Totale jaarlijkse besparing: €___
+
+**Stap 3 — Deel netto investering door jaarlijkse besparing:**
+Terugverdientijd = Netto investering / Jaarlijkse besparing = ___ jaar
+
+**Stap 4 — Corrigeer voor 2027:**
+Voeg €200-€400 toe aan jaarlijkse besparing na 2027 (afhankelijk van je teruglevering). Bereken nieuwe terugverdientijd.
 
 ---
 

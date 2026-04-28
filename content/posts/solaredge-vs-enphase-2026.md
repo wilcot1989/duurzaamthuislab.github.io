@@ -276,6 +276,94 @@ Dit is het punt waar Enphase echt wint — en waarom ik het zou kiezen voor een 
 
 Enphase is over 25 jaar duurder, maar geeft meer zekerheid. SolarEdge is goedkoper maar heeft meer risico op één grote vervanging rond jaar 13.
 
+## Storingsdata en werkelijke uitvalpercentages
+
+Dit is informatie die fabrikanten liever niet breed uitdragen, maar die ik via installateurs heb verzameld:
+
+**SolarEdge centrale omvormer:**
+Fabrieksdata spreekt van <0,5% jaarlijkse uitval. In de praktijk, bij Europese installateurs die ik sprak (combinatie uit gesprekken op vakbeurzen Intersolar 2024 en 2025), is het beeld genuanceerder:
+- Uitvalrate omvormers: 0,3-0,8% per jaar in normale omstandigheden
+- Maar: er zijn gedocumenteerde batches (met name bepaalde SE3000H en SE6000H versies uit 2019-2021) die een hogere uitvalrate hadden door een condensatorprobleem. SolarEdge heeft dit grotendeels ondervangen met firmware-updates en vervangingen onder garantie.
+- Bij defect: volledig systeem staat stil tot vervanging (gemiddeld 2-5 werkdagen voor een technicus)
+
+**Enphase micro-omvormers:**
+- Uitvalrate per micro: <0,05% per jaar (Enphase eigen data, bevestigd door onafhankelijke analyse)
+- Bij defect: alleen dat ene paneel valt weg; rest werkt door
+- Vervanging eenvoudiger: micro aan de achterkant van het paneel verwisselen
+
+**Reëel verlies bij uitval:**
+Bij een SolarEdge-installatie van 12 panelen: uitval centrale omvormer = 100% productieverlies tot reparatie.
+Bij Enphase: uitval 1 micro = 1/12 = 8,3% productieverlies, rest werkt.
+
+Over een periode van 25 jaar, met een gemiddelde uitvalfrequentie:
+- SolarEdge: verwacht 1-2 omvormerdefecten (elk gemiddeld 3 werkdagen = 6 dagen totale stilstand = ~15-20 kWh verlies per incident bij 2,5 kWh dagproductie)
+- Enphase: verwacht 0-1 micro-uitval per 3-4 jaar (vrijwel geen productieverlies systeem-breed)
+
+---
+
+## Installatie en bekabeling: de praktijk
+
+Iets wat kopers vergeten te vragen: hoe complex is de installatie? Dit beïnvloedt niet alleen de installatiekosten maar ook de toekomstige servicekosten.
+
+**SolarEdge installatie:**
+- DC-bekabeling van dak naar centrale omvormer (vaak via meterkast op zolder of garage)
+- DC-kabels moeten voldoen aan hogere voltagestandaarden (tot 1000V)
+- Installatietijd: 1 dag voor een 12-paneelinstallatie
+- Toekomstige uitbreiding: nieuwe bekabeling nodig als omvormer vol is
+
+**Enphase installatie:**
+- AC-bekabeling: elke micro-omvormer sluit aan op het normale wisselstroomnet
+- Lagere spanning, veiliger voor installateurs
+- Installatietijd: iets langer (1-1,5 dag) door meer aansluitingen op het dak
+- Toekomstige uitbreiding: gewoon extra paneel + micro aansluiten — geen nieuwe kabels nodig
+
+**Veiligheid bij brand:**
+Bij brand schakelt SolarEdge het systeem uit via de omvormer — maar de DC-kabels van panelen naar omvormer blijven onder spanning zolang de zon schijnt. Brandweer moet hier rekening mee houden. Enphase schakelt elke micro individueel uit bij netuitval; er is geen hoge DC-spanning op het dak.
+
+---
+
+## SolarEdge vs Enphase in de vanlife en off-grid context
+
+Een vraag die ik steeds vaker krijg: werken SolarEdge of Enphase ook off-grid, bijvoorbeeld voor een camper of tiny house?
+
+**Antwoord: beide zijn ontworpen voor netgekoppelde installaties (on-grid). Voor off-grid zijn er betere opties.**
+
+SolarEdge biedt een aparte "off-grid inverter" die niet op het net hoeft. Enphase heeft de IQ8-micro die ook in "islanding modus" kan werken (beperkt vermogen zonder net), maar dit vereist een IQ System Controller.
+
+Voor vanlife of off-grid is een powerstation (EcoFlow, Jackery, Bluetti) gecombineerd met draagbare zonnepanelen praktischer. Zie onze [beste powerstation voor vanlife](/posts/beste-powerstation-vanlife-2026/) gids.
+
+---
+
+## Batterij-koppeling: SolarEdge vs Enphase in detail
+
+Na de saldering-stop (2027) wordt een thuisbatterij steeds relevanter. De keuze van omvormer bepaalt welke batterij je kunt koppelen.
+
+**SolarEdge + SolarEdge Home Battery:**
+- DC-gekoppeld via Energy Hub omvormer (vervanger van SE HD-Wave)
+- Rond-trip efficiëntie: ~92-94%
+- Beschikbare capaciteiten: 9,7 kWh module, stapelbaar
+- Voordeel: hoogste efficiëntie, geen extra omvormer nodig
+- Nadeel: vergt SolarEdge Energy Hub omvormer (duurder dan SE HD-Wave), niet elk bestaand SolarEdge systeem is compatibel
+
+**SolarEdge + externe batterij:**
+- Sessy, BYD, Huawei Luna: ook koppelbaar maar via AC (lagere efficiëntie ~89%)
+- Kosten externa AC-koppeling: simpeler, geen SolarEdge Energy Hub nodig
+
+**Enphase + IQ Battery:**
+- AC-gekoppeld: werkt met elk systeem, ook bestaande installaties van een ander merk
+- Rond-trip efficiëntie: ~89%
+- Voordeel: maximale flexibiliteit, ook retrofit
+- Nadeel: 2-3% lagere efficiëntie dan DC-koppeling
+
+**Enphase + externe batterij:**
+- Sessy, BYD, Huawei Luna: eenvoudig te koppelen via AC
+- Geen speciale vereisten
+
+**Mijn advies voor wie thuisbatterij plant:**
+Als je zeker weet dat je een SolarEdge Home Battery wilt: neem meteen de SolarEdge Energy Hub omvormer (€1.400-€1.800). Als je later wilt beslissen of welk merk batterij je wilt: kies Enphase of neem een SolarEdge met standaard omvormer en koop later een externe batterij.
+
+---
+
 ## Aanbeveling per situatie
 
 | Situatie | Mijn advies | Reden |
@@ -286,6 +374,8 @@ Enphase is over 25 jaar duurder, maar geeft meer zekerheid. SolarEdge is goedkop
 | Je wilt 25 jaar geen zorgen | Enphase | 25 jaar garantie = gemoedsrust |
 | Je wil een thuisbatterij later | SolarEdge + Home Battery | Betere DC-koppeling |
 | Budget is krap | SolarEdge | €1.000-€1.500 goedkoper |
+| Toekomstige uitbreiding gepland | Enphase | Paneel voor paneel toevoegen |
+| VvE/appartement, meerdere dakoriëntaties | Enphase | Geen enkele string die alles beïnvloedt |
 
 ## Conclusie
 

@@ -241,6 +241,114 @@ Om de beslissing concreter te maken, hier een overzicht van de totale 10-jaarsko
 
 De range is breed omdat een hybride warmtepomp (€5.000-€7.000) veel goedkoper is dan een volledige lucht-water warmtepomp (€10.000-€15.000). Hybride is voor de meeste Nederlandse huizen de eerste logische stap: je houdt de cv-ketel als backup voor de koudste dagen en gaat toch al gasloos koken.
 
+## Inductie koken en luchtkwaliteit: een onderschat voordeel
+
+Gas verbranden in huis stoot stikstofdioxide (NO₂) en fijnstof uit. Dat klinkt technisch, maar het heeft direct gevolgen voor de luchtkwaliteit in je keuken en woning.
+
+Een studie van Stanford University (2022) meet tijdens gaskoken NO₂-niveaus die boven de WHO-richtlijn uitkomen, zelfs bij goede ventilatie. In kleinere Nederlandse keukens (30-50 m²) is dit effect sterker. Kinderen in huishoudens met gasapparatuur hebben een significant hoger risico op astma.
+
+Met inductie is er geen verbranding en dus geen NO₂-uitstoot. De luchtkwaliteit in de keuken blijft gelijk aan de rest van de woning. Voor huishoudens met jonge kinderen, astmapatiënten of mensen met longgevoeligheid is dit een niet te onderschatten gezondheidsvoordeel.
+
+Ik merk het zelf: met gas had ik na lang koken altijd een zwaar gevoel in de keuken en de afzuigkap moest altijd aan. Nu kan ik koken met de afzuigkap op de laagste stand en de keuken ruikt niet naar verbrandingsgassen.
+
+## Inductie met zonnepanelen: de ideale combinatie
+
+Mijn inductiekookplaat verbruikt per kookbeurt gemiddeld 0,9 kWh. In de zomer kook ik normaal gesproken tussen 12:00 en 14:00 — precies de uren dat mijn 10 zonnepanelen op vol vermogen draaien (2,8-3,2 kW). Het koken is dan vrijwel gratis.
+
+In de winter kook ik 's avonds. Dan draai ik dynamisch contract en check ik de ANWB-app voor de uurprijs. Als de prijs boven €0,35/kWh is, bereid ik de zware onderdelen van de maaltijd alvast voor op goedkopere middaguren en warm ik 's avonds alleen nog op.
+
+**Zomersituatie (juni-augustus, koken tussen 12-14u):**
+- Vermogen kookplaat: ~1.800 watt
+- Opgewekt vermogen zonnepanelen (12-14u): ~2.400 watt
+- Netto inkoop stroom: 0 kWh (zonnepanelen dekken koken volledig)
+- Kosten per kookbeurt: €0
+
+**Wintersituatie (november-februari, koken 18u):**
+- Vermogen kookplaat: ~1.800 watt
+- EPEX-prijs 18-19u gem. winter: €0,31/kWh
+- Kosten per kookbeurt: ~€0,56
+
+Jaarlijkse kosten inductie met 10 zonnepanelen (mix zomer/winter): €38-52. Zonder zonnepanelen op dynamisch tarief: €55-80. Verschil is beperkt maar aantoonbaar.
+
+## De rol van inductie in het totale verduurzamingsplan
+
+Veel mensen zien inductie als losstaande beslissing. Ik zie het als deel van een systeem. Hier is hoe de verduurzamingsstappen logisch op elkaar voortbouwen:
+
+**Stap 1 — Isolatie:** Dak, gevel, vloer. Vermindert warmtevraag, waardoor een kleinere warmtepomp volstaat.
+
+**Stap 2 — Zonnepanelen:** Eigenproductie. Vermindert netto stroomkosten met €600-€1.000/jaar.
+
+**Stap 3 — Inductie kookplaat:** Eerste stap naar gasloos. Investeringsdrempel laag (€600-€1.500). Je leert leven zonder gas in de keuken.
+
+**Stap 4 — Hybride warmtepomp:** Verwarming grotendeels elektrisch, cv-ketel als backup bij koude. Gasverbruik daalt met 60-70%.
+
+**Stap 5 — Thuisbatterij:** Eigenverbruik zonnestroom maximaliseren. Combinatie met dynamisch contract levert €500-€900/jaar besparing.
+
+**Stap 6 — Volledige warmtepomp + gasafsluiting:** Gasaansluiting opzeggen. €200-€250/jaar vastrecht bespaard.
+
+Inductie kookplaat is stap 3. Het is de goedkoopste, snelste en makkelijkste stap in dit traject. Je kunt morgen al beginnen. En je leert van je eigen ervaring dat gasloos koken geen grote opgave is — wat je mentaal klaar maakt voor de grotere stappen.
+
+## Pannenset voor inductie: mijn persoonlijke aanbevelingen
+
+Na een jaar inductie koken heb ik verschillende pannen geprobeerd. Dit zijn mijn bevindingen:
+
+**Budget (tot €80 voor een set):**
+
+De IKEA 365+-serie werkt prima op inductie. Aluminium kern met roestvrijstalen buitenlaag. Goede warmteverdeling, geen zoem-geluid op normale vermogens. Nadeel: na 2 jaar begint de laag wat te versleten. Goed als startset of voor een huurwoning.
+
+**Middensegment (€120-€200 voor een set):**
+
+BK Conical+ is mijn huidige favoriet. Nederlandse kwaliteit, inductie-geoptimaliseerde bodem, uitstekende warmteverdeling. Na een jaar dagelijks gebruik geen slijtage. Tefal Ingenio is ook solide, met het voordeel van uitneembare handvatten voor opslag.
+
+**Premium (€250+ voor een set):**
+
+Le Creuset gietijzer (€80-€120 per pan) is onverslaanbaar voor langzame gerechten, stoofpotten en brood bakken. Zwaar maar gaat 30 jaar mee. De Buyer koolstofstaal is favoriet bij profkoks — ik heb één koekenpan en die gebruik ik voor alles.
+
+**Mijn huidige set:**
+- BK Conical+ 20 cm melkpan
+- BK Conical+ 24 cm steelpan
+- BK Conical+ 28 cm koekenpan
+- Le Creuset 26 cm stoofpan
+- Tefal 24 cm wokpan
+
+Totaal geïnvesteerd: €248. Verwacht gebruiksduur: 10-15 jaar.
+
+## Veelgestelde vragen over de overstap die ik persoonlijk krijg
+
+Naast de FAQ hierboven zijn dit de vragen die lezers me het vaakst mailen:
+
+**"Kan ik mijn gasaansluiting opzeggen als ik huur?"**
+
+Dat hangt van je huurcontract af. De gasaansluiting is in principe van de netbeheerder (Liander, Stedin etc.), niet van de verhuurder. Maar als je huurwoning een cv-ketel op gas heeft, mag je die niet zomaar vervangen. Overleg altijd met je verhuurder bij huurwoningen. Bij koopwoningen: je beslist zelf.
+
+**"Moet ik een aardlekschakelaar bijplaatsen?"**
+
+De meeste moderne meterkast al een aardlekschakelaar (differentiaalschakelaar). Inductiekookplaten vragen geen extra aardlek boven wat al aanwezig is, maar wél een eigen groep van 16A of 32A. Laat dit door een erkend elektricien beoordelen.
+
+**"Werkt inductie met een generator bij stroomuitval?"**
+
+Afhankelijk van de generator. Een goedkope aggregaat (< 2.000 W) is te zwak voor de boost-stand van een inductieplaat. Een generator van 3.500+ watt werkt wel, maar inductie heeft ook exact de juiste frequentie (50 Hz) nodig. Een goedkope aggregaat geeft soms instabiele frequentie, wat de inductieplaat kan beschadigen. Ik gebruik bij stroomuitval een campinggas-fornuis als backup — simpel en goedkoop.
+
+**"Heeft inductie invloed op een pacemaker?"**
+
+Ja, er is een theoretisch risico. Fabrikanten adviseren een afstand van minimaal 60 cm van het inductieveld voor mensen met een pacemaker. In de praktijk staat een kok nooit op 60 cm van de kookplaat — maar het is een serieus aandachtspunt voor mensen met een implantaat. Raadpleeg altijd je cardioloog.
+
+## Conclusie kookplaatkeuze per type huishouden
+
+Na een jaar adviseren over inductie zie ik duidelijke patronen in wie welke kookplaat kiest. Dit is mijn praktijkoverzicht:
+
+**Gezin met jonge kinderen (veiligheid prioriteit):** Siemens of Bosch met kindervergrendeling. De plaat wordt niet heet, geen open vlam, geen CO-risico. Prijs: €600-€1.100.
+
+**Appartement met beperkte meterkast:** Kies een kookplaat van maximaal 7.200 watt die op één 32A-groep werkt. IKEA HUVUDSAKLIG of Etna KIF880DS zijn ideaal. Goedkoop, betrouwbaar, past op standaard aansluitingen.
+
+**Hobbykok die wil wokken:** AEG met wokzone of Siemens FlexInduction waar je de zones vrij plaatst. Met een grote flex-zone zet je een grote wok centraal en kook je op maximaal vermogen.
+
+**Koppel dat verhuurt of airbnb doet:** Goedkoopste Beko of IKEA-variant. Makkelijk te vervangen als er wat mee is, en werkt jaren zonder problemen.
+
+**Techneut met smart home:** Siemens of Bosch met Hob²Hood-koppeling aan de afzuigkap. Wordt automatisch hoger als je op vol vermogen kookt. Koppelt ook via Home Connect aan je smartphone.
+
+**Senior die veiligheid belangrijk vindt:** Inductie is objectief veiliger dan gas. Geen open vlam, geen CO-risico, de plaat warmt nauwelijks op buiten de pan. Veel inductieplaten hebben automatische uitschakeling na 10-15 minuten zonder activiteit. Dit is een serieus voordeel voor ouderen die soms vergeten het fornuis uit te zetten.
+
 ## Conclusie
 
 De overstap van gas naar inductie is een van de makkelijkste verduurzamingsstappen. Voor €550-€1.000 (budget) heb je een complete installatie die sneller kookt, makkelijker schoonmaakt en €40-€50 per jaar bespaart op energiekosten. Word je volledig gasloos? Dan bespaart het afsluiten van je gasaansluiting nog eens €200-€250 per jaar.
