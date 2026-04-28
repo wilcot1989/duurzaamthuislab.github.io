@@ -9,7 +9,7 @@ keywords: ["beste thuisbatterij 10 kwh", "thuisbatterij 10 kwh vergelijken", "th
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/thuisbatterijen.svg"
+featured_image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Voor welk huishouden is 10 kWh de juiste maat?"
     a: "10 kWh is ideaal voor huishoudens met 3.500-6.500 kWh jaarverbruik en zonnepanelen-overschot van 1.500-4.000 kWh per jaar. Te klein voor groot huis met warmtepomp + EV, te groot voor 1-persoonshuishouden zonder substantieel verbruik 's avonds."

@@ -391,13 +391,48 @@
   <main>
     {{ block "main" . }}{{ end }}
   </main>
-  <footer>
-    <div class="container">
-      <p>&copy; {{ now.Year }} DuurzaamThuisLab. Alle rechten voorbehouden.</p>
-      <p>Dit artikel kan affiliate links bevatten. Wij ontvangen mogelijk een commissie zonder extra kosten voor jou.</p>
-      <p><a href="/privacy/">Privacybeleid</a> &middot; <a href="/about/">Over Ons</a></p>
+  <footer style="background:var(--forest-deep,#0F1B12);color:rgba(250,247,240,.7);padding:clamp(3rem,6vh,4rem) 0 1.5rem;margin-top:3rem;font-size:.9rem;">
+    <div class="container wide">
+      <div style="display:grid;grid-template-columns:1.5fr repeat(3,1fr);gap:2rem;margin-bottom:3rem;">
+        <div>
+          <div style="font-family:var(--display);font-size:1.3rem;font-weight:600;color:#fff;margin-bottom:.5rem;">Duurzaam<em style="font-style:italic;color:var(--terracotta,#C66E3F);">Thuis</em>Lab</div>
+          <p style="font-family:var(--display);font-size:.95rem;line-height:1.55;max-width:18rem;color:rgba(250,247,240,.75);">Onafhankelijk lab voor het Nederlandse duurzame huishouden — onderbouwde gidsen, eerlijke reviews, interactieve tools.</p>
+        </div>
+        <div>
+          <div style="font-family:var(--mono,monospace);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--terracotta,#C66E3F);margin-bottom:1rem;font-weight:500;">Routes</div>
+          <ul style="list-style:none;margin:0;padding:0;">
+            <li style="margin-bottom:.5rem;"><a href="/categories/zonne-energie/" style="color:rgba(250,247,240,.7);text-decoration:none;">Zonnepanelen</a></li>
+            <li style="margin-bottom:.5rem;"><a href="/categories/warmtepompen/" style="color:rgba(250,247,240,.7);text-decoration:none;">Warmtepompen</a></li>
+            <li style="margin-bottom:.5rem;"><a href="/categories/isolatie/" style="color:rgba(250,247,240,.7);text-decoration:none;">Isolatie</a></li>
+            <li style="margin-bottom:.5rem;"><a href="/categories/thuisbatterijen/" style="color:rgba(250,247,240,.7);text-decoration:none;">Thuisbatterijen</a></li>
+          </ul>
+        </div>
+        <div>
+          <div style="font-family:var(--mono,monospace);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--terracotta,#C66E3F);margin-bottom:1rem;font-weight:500;">Dossiers</div>
+          <ul style="list-style:none;margin:0;padding:0;">
+            <li style="margin-bottom:.5rem;"><a href="/posts/saldering-stopt-2027-volledige-gids/" style="color:rgba(250,247,240,.7);text-decoration:none;">Saldering 2027</a></li>
+            <li style="margin-bottom:.5rem;"><a href="/posts/beste-thuisbatterij-nederland-2026/" style="color:rgba(250,247,240,.7);text-decoration:none;">Beste thuisbatterij</a></li>
+            <li style="margin-bottom:.5rem;"><a href="/posts/dynamische-energiecontracten-vergelijking-2026/" style="color:rgba(250,247,240,.7);text-decoration:none;">Dynamische contracten</a></li>
+            <li style="margin-bottom:.5rem;"><a href="/posts/" style="color:rgba(250,247,240,.7);text-decoration:none;">Alle gidsen →</a></li>
+          </ul>
+        </div>
+        <div>
+          <div style="font-family:var(--mono,monospace);font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--terracotta,#C66E3F);margin-bottom:1rem;font-weight:500;">Het Lab</div>
+          <ul style="list-style:none;margin:0;padding:0;">
+            <li style="margin-bottom:.5rem;"><a href="/about/" style="color:rgba(250,247,240,.7);text-decoration:none;">Over ons</a></li>
+            <li style="margin-bottom:.5rem;"><a href="/contact/" style="color:rgba(250,247,240,.7);text-decoration:none;">Contact</a></li>
+            <li style="margin-bottom:.5rem;"><a href="/privacy/" style="color:rgba(250,247,240,.7);text-decoration:none;">Privacybeleid</a></li>
+            <li style="margin-bottom:.5rem;"><a href="/disclaimer/" style="color:rgba(250,247,240,.7);text-decoration:none;">Disclaimer</a></li>
+          </ul>
+        </div>
+      </div>
+      <div style="border-top:1px solid rgba(250,247,240,.12);padding-top:1.5rem;display:flex;justify-content:space-between;flex-wrap:wrap;gap:1rem;font-family:var(--mono,monospace);font-size:.7rem;letter-spacing:.05em;color:rgba(250,247,240,.45);">
+        <span>&copy; {{ now.Year }} DuurzaamThuisLab — Alle rechten voorbehouden</span>
+        <span>Dit artikel kan affiliate links bevatten · Geen extra kosten voor jou</span>
+      </div>
     </div>
   </footer>
+  <style>@media(max-width:768px){footer .container.wide>div:first-child{grid-template-columns:1fr 1fr!important}}@media(max-width:540px){footer .container.wide>div:first-child{grid-template-columns:1fr!important}}</style>
   <div class="cookie-banner" id="cookieBanner">
     <div class="cookie-inner">
       <p>Wij gebruiken cookies om je ervaring te verbeteren. Door op "Accepteren" te klikken ga je akkoord met het gebruik van analytische cookies. <a href="/privacy/">Privacybeleid</a></p>

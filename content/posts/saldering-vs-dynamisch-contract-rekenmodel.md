@@ -9,7 +9,7 @@ keywords: ["saldering vs dynamisch", "dynamisch contract 2027", "dynamisch contr
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/energie.svg"
+featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat is het belangrijkste verschil tussen vast en dynamisch contract?"
     a: "Bij een vast contract betaal je een vast tarief per kWh, contractueel afgesproken voor 1-3 jaar. Bij dynamisch contract verandert het tarief per uur op basis van de groothandelsmarkt. In zonzomer-uren kunnen prijzen negatief zijn (jij krijgt geld voor afnemen), in piekuren 's avonds kunnen ze 4× hoger zijn dan een vast tarief."
@@ -301,6 +301,27 @@ Het sterkste scenario is combineren:
 - Totale besparing vs vast contract zonder batterij: **€900+/jaar**
 
 Dit is het scenario waarvoor ik zelf gekozen heb. Dynamisch contract + batterij is voor grote installaties de gouden combinatie.
+
+## Hoe je de overstap naar dynamisch aanpakt: stap voor stap
+
+Voor mensen die al jaren bij dezelfde leverancier zitten en de overstap overwegen:
+
+**Stap 1: Check je contractvorm**
+Loop naar je energierekening of log in op de leveranciers-app. Vast tarief = je mag overstappen na de contracttermijn (1, 2 of 3 jaar). Variabel tarief = je kunt altijd overstappen met 30 dagen opzegtermijn.
+
+**Stap 2: Bereken je verwachte besparing**
+Pak je jaarverbruik (staat op je rekening of in de app van de netbeheerder). Bereken op basis van de tabellen eerder in dit artikel hoeveel je bespaart. Als het meer dan €150/jaar is: de moeite waard.
+
+**Stap 3: Kies Tibber of Frank**
+Voor de meeste mensen maakt het weinig uit. Tibber als je een EV hebt of slim wilt automatiseren. Frank als je transparant de laagste tarief wilt zonder extra features.
+
+**Stap 4: Overstappen via de website**
+Het overstapproces duurt gemiddeld 5 minuten online. Je vult je postcode, meterpuntnummer (EAN-code, staat op de rekening) en persoonlijke gegevens in. De nieuwe leverancier regelt de opzegging bij de oude.
+
+**Stap 5: Wacht op de eerste rekening**
+Na 4-8 weken is de overstap afgerond. De eerste rekening bij dynamisch kan verrassend laag zijn — of, als je een dure week had, iets hoger. Gemiddeld over een jaar: lager.
+
+**Valkuil:** Als je een lopend vast contract hebt dat nog 8 maanden loopt, betaal je bij vroegtijdige opzegging soms een boete (€50-€200). In dat geval: opzeggingsdatum markeren in agenda en dan op dat moment direct overstappen.
 
 ## Mijn aanbeveling
 

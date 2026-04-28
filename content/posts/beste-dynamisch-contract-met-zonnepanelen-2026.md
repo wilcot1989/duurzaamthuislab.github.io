@@ -9,7 +9,7 @@ keywords: ["beste dynamisch contract met zonnepanelen", "dynamisch contract zonn
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/energie.svg"
+featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Welk dynamisch contract is het beste voor zonnepaneel-bezitters?"
     a: "Frank Energie voor de gemiddelde gebruiker (laagste totaalkosten). Tibber voor EV-bezitters of smart-home liefhebbers (beste automation). ANWB Dynamisch voor mensen die prijspiekvrees hebben (prijsdemping vangnet). Voor wie geen marge bovenop EPEX wil betalen: Frank of Tibber."
@@ -396,6 +396,10 @@ In 2026 is **Frank Energie** voor zonnepaneel-bezitters de scherpste keus op pur
 **ANWB Dynamisch** wint voor wie mentale rust wil bij prijspieken.
 
 Wat je niet moet doen: bij Eneco/Vattenfall vast contract blijven. Vanaf 2027 kost je dat €1.300-€1.700/jaar meer dan dynamisch.
+
+De stap van vast naar dynamisch is de grootste sprong. Alles daarna — batterij, slim laden, home automation — is incrementeel voortbouwen op die basis. Begin dus met het contract, evalueer na drie maanden, en besluit daarna of een thuisbatterij de volgende stap is.
+
+Iets wat ik regelmatig hoor: "maar ik heb geen tijd om de uurprijzen bij te houden." Dat is precies de verkeerde framing. Dynamisch contract vereist geen dagelijks monitoren — het vereist alleen dat je een paar gewoonten aanpast (wasmachine later, vaatwasser laat). Na twee weken is dat automatisme. De apps van Frank, Tibber en ANWB sturen notificaties als de prijs laag is. Je hoeft er zelf niet bij na te denken.
 
 Een dynamisch contract is de eerste stap — gratis, direct voordeel, geen risico. De tweede stap is een thuisbatterij. De derde stap is slim laden van je EV als je die hebt. Elke stap bouwt op de vorige. Wie alle drie combineert, haalt €1.200-€1.800/jaar besparing versus een vast contract bij een traditionele leverancier. Dat is geen marketing — dat zijn de cijfers van de twaalf huishoudens in mijn netwerk die ik het afgelopen jaar heb gevolgd.
 

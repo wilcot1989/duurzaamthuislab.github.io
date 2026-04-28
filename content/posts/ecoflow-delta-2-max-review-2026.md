@@ -9,7 +9,7 @@ keywords: ["ecoflow delta 2 max review", "delta 2 max test", "ecoflow review", "
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/powerstations.svg"
+featured_image: "https://images.unsplash.com/photo-1497440001374-f26997328c1b?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Is de EcoFlow Delta 2 Max de moeite waard in 2026?"
     a: "Ja. Met 2048Wh capaciteit, 2400W continu vermogen, razendsnel X-Stream opladen en een uitstekende app is de Delta 2 Max nog steeds een van de beste allround powerstations op de markt."
@@ -340,6 +340,25 @@ De Delta 2 Max is ideaal voor:
 Het station is minder geschikt als je zoekt naar een ultralicht model voor hiking (bekijk dan de [EcoFlow River 2](/posts/beste-draagbare-powerstation-2026/)) of als je maximale uitbreidbaarheid wilt (dan is de Jackery 2000 Plus interessanter).
 
 ---
+
+## Uitbreidingsbatterij: wanneer is het de moeite waard?
+
+De EcoFlow Delta 2 Max is uitbreidbaar met de Delta 2 Max Extra Battery (2.048 Wh extra) waarmee je de totale capaciteit verdubbelt naar 4.096 Wh. De extra batterij kost circa €1.100-€1.400.
+
+**Wanneer is de uitbreiding zinvol?**
+
+| Situatie | Uitbreiding zinvol? |
+|---|---|
+| Weekendcamping (2 nachten) | Niet nodig — 2.048 Wh volstaat |
+| Langere campingtrip (5-7 dagen) zonder zonnepaneel | Ja — dubbele capaciteit geeft zekerheid |
+| Noodstroom thuis (meerdere dagen storm) | Ja — 4 kWh geeft 16-20 uur autonomie voor basisverbruik |
+| Off-grid tuinhuis/schuur | Ja — gecombineerd met zonnepaneel is dit een serieuze setup |
+| Vanlife full-time | Ja — 4 kWh + 440W solar is een comfortabele dag-nacht cyclus |
+
+De extra batterij sluit eenvoudig aan via de speciale poort aan de zijkant — geen gereedschap nodig. Het systeem laadt beide batterijen gelijktijdig via dezelfde AC-ingang.
+
+**Alternatieven:**
+Als je 4 kWh nodig hebt, overweeg ook de Jackery Explorer 2000 Plus (2.042 Wh basis, goedkoper per Wh bij uitbreiding) of de Bluetti AC200MAX + B230 (4.096 Wh totaal voor vergelijkbare prijs). De EcoFlow-uitbreiding heeft als voordeel de eenvoudige integratie en de bekende EcoFlow-app.
 
 ## Prijs en waar te koop
 

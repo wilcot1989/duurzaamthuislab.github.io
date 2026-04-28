@@ -9,7 +9,7 @@ keywords: ["stroomuitval voorbereiden", "noodstroom thuis", "powerstation stroom
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/powerstations.svg"
+featured_image: "https://images.unsplash.com/photo-1497440001374-f26997328c1b?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Hoe vaak komt stroomuitval voor in Nederland?"
     a: "In Nederland duurt de gemiddelde stroomstoring circa 20-30 minuten per jaar. Maar langdurige storingen (meerdere uren tot een dag) komen steeds vaker voor, onder meer door extreme weersomstandigheden en netbelasting. In 2024 en 2025 waren er meerdere grote stroomstoringen die duizenden huishoudens raakten."

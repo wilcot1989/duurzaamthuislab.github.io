@@ -9,7 +9,7 @@ keywords: ["groene stroom vs grijze stroom", "verschil groene grijze stroom", "i
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/energie.svg"
+featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat is het verschil tussen groene en grijze stroom?"
     a: "Groene stroom is opgewekt uit hernieuwbare bronnen: wind, zon, water of biomassa. Grijze stroom komt uit fossiele bronnen: aardgas, kolen of kernenergie. Fysiek komt dezelfde stroom uit je stopcontact — het verschil zit in de Garanties van Oorsprong (GvO's): certificaten die bewijzen dat er ergens groene stroom is opgewekt."
@@ -260,6 +260,21 @@ Maar vergeet niet: het grootste effect heb je met eigen zonnepanelen, een warmte
 
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
+## Groene stroom voor bedrijven: andere spelregels
+
+Als zzp'er of klein bedrijf heb je andere opties dan als particulier.
+
+**EKO-certificering:**
+Bedrijven die duurzaamheid willen aantonen aan klanten of voor een ISO 14001-certificering, kunnen een "EKO-energieverklaring" aanvragen. Dit is meer dan een GvO-certificaat — het vereist additioneel groen en een verificatie door een externe auditor.
+
+**Zakelijk groene contracten:**
+Grote bedrijven sluiten directe PPA's (Power Purchase Agreements) met windparken. Ze kopen stroom voor 10-20 jaar rechtstreeks van de producent — additioneel, traceerbaar, vaak ook rendabel. Dit is de goudstandaard van groen inkopen. Voor mkb niet direct beschikbaar, maar Vandebron en Pure Energie bieden collectieve PPA-varianten aan.
+
+**Niet-ETS-bedrijven en CO₂-rapportage:**
+Als mkb-bedrijf moet je vanaf 2025 voor bepaalde rapportages (CSRD, scope 2-emissies) aantonen welke stroom je hebt verbruikt en hoe groen die is. GvO's zijn daarvoor acceptabel, maar auditors kijken steeds kritischer naar de kwaliteit: additioneel groen scoort beter dan Noors water.
+
+---
 
 ## Mijn persoonlijke keuze en waarom
 

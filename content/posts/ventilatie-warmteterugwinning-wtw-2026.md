@@ -9,7 +9,7 @@ keywords: ["ventilatie warmteterugwinning", "WTW unit kosten", "balansventilatie
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/isolatie.svg"
+featured_image: "https://images.unsplash.com/photo-1565008576549-57569a49371d?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat is ventilatie met warmteterugwinning (WTW)?"
     a: "Een WTW-systeem (balansventilatie) haalt warme, vochtige lucht uit je woning en blaast schone buitenlucht naar binnen. Het bijzondere: een warmtewisselaar haalt 80-95% van de warmte uit de afgevoerde lucht en geeft die af aan de verse lucht. Zo ventileer je zonder warmteverlies."

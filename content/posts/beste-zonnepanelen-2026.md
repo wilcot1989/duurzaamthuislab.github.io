@@ -9,7 +9,7 @@ keywords: ["beste zonnepanelen 2026", "zonnepanelen vergelijking", "zonnepanelen
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/zonnepanelen.svg"
+featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat kosten zonnepanelen in 2026?"
     a: "Zonnepanelen kosten in 2026 gemiddeld €250-€500 per paneel inclusief installatie, afhankelijk van het merk en vermogen. Een complete installatie van 10 panelen (4.000 Wp) kost €2.500-€5.000 inclusief omvormer en installatie. Premiummerken als SunPower zijn duurder maar leveren meer op."
@@ -304,6 +304,25 @@ Let ook op certificeringen:
 - **MCS (UK)** of **KIWA (NL)** — installateur-keurmerken die garantie onderstrepen.
 
 Een panel van een onbekend merk zonder Bloomberg Tier 1 is risicovol: als de fabrikant over 10 jaar failliet is, kun je de garantie niet claimen.
+
+## Recycling en duurzaamheid: wat er na 25 jaar gebeurt
+
+Zonnepanelen worden steeds populairder, maar wat doe je ermee na 25-30 jaar? Dit is een vraag die ik steeds vaker krijg en die relevant is voor wie nu koopt.
+
+**Recycling in Nederland:**
+Fabrikanten en importeurs zijn via het PV Cycle programma verplicht om zonnepanelen te recyclen. Bij aanschaf betaal je een kleine recyclingbijdrage die dit systeem financiert. Na de levensduur kun je panelen inleveren bij een erkend recyclingpunt.
+
+**Wat er gerecycled wordt:**
+- Aluminium frame: 95%+ recyclebaar
+- Glas: 95%+ recyclebaar (speciaal glas, lagere kwaliteit dan nieuw)
+- Siliciumcellen: complex, wordt verbeterd
+- Zilver in contacten: materiaalschaars, actief teruggewonnen
+
+**Milieuvoetstap:**
+De CO2-footprint van een zonnepaneel (productie, transport, installatie) wordt terugverdiend in 1-2 jaar stroomproductie. Over 25 jaar is de netto CO2-besparing 15-20× de productie-emissie. Zelfs met imperfect recycling zijn zonnepanelen een van de beste klimaatmaatregelen per geïnvesteerde euro.
+
+**Keuze die impact heeft:**
+SunPower en REC scoren het beste op duurzaamheidsrapporten (gebruik van minder toxische materialen, loodvrij bij REC). JA Solar en Longi scoren gemiddeld maar verbeteren snel. Trina Solar heeft een actief duurzaamheidsprogramma maar publiceert minder transparant.
 
 ## Tips bij het kiezen
 

@@ -9,7 +9,7 @@ keywords: ["isolatie subsidie 2026", "ISDE subsidie isolatie", "subsidie spouwmu
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/isolatie.svg"
+featured_image: "https://images.unsplash.com/photo-1565008576549-57569a49371d?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Welke isolatiesubsidies zijn er in 2026?"
     a: "De belangrijkste subsidie is de ISDE (Investeringssubsidie Duurzame Energie): €900-€3.800 per isolatiemaatregel afhankelijk van oppervlakte en Rc-waarde. Daarnaast zijn er gemeentelijke subsidies (€500-€2.500), de Energiebespaarlening (2,6% rente), en soms provinciale regelingen. Je kunt meerdere subsidies combineren."

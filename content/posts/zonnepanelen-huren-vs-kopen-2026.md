@@ -9,7 +9,7 @@ keywords: ["zonnepanelen huren vs kopen", "zonnepanelen lease", "zonnepanelen hu
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/zonnepanelen.svg"
+featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Is het voordeliger om zonnepanelen te huren of te kopen?"
     a: "Kopen is op de lange termijn altijd voordeliger. Over 25 jaar verdien je €10.000-€20.000 meer met kopen dan met huren. Huren is voordeliger als je geen spaargeld hebt, binnen 5-7 jaar wilt verhuizen, of geen risico wilt nemen op onderhoud en reparatie."
@@ -369,6 +369,18 @@ Een vraag die steeds relevanter wordt: "Ik huur zonnepanelen. Kan ik er ook een 
 **De slimme tussenweg:** een draagbaar powerstation naast huurpanelen. Het powerstation laad je handmatig op via een stopcontact (ook als de huurpanelen overdag overschot produceren gaat dat niet direct naar je powerstation — tenzij je het station aansluit op een stopcontact dat tijdens zon-piek wordt gevoed door het net minus je eigen verbruik). Dit werkt indirect maar is eenvoudig en vereist geen toestemming.
 
 Als je serieuze energieopslag wilt combineren met zonnepanelen: koop de panelen en kies je eigen omvormer. Flexibiliteit begint bij eigendom.
+
+## Subsidies die alleen kopers krijgen
+
+Een detail dat bij de vergelijking hoort: sommige subsidies en voordelen zijn alleen beschikbaar voor kopers, niet voor huurders.
+
+**0% BTW**: uitsluitend bij aankoop van eigendomspanelen. Huurders profiteren niet direct van de 0% BTW (die zit verwerkt in de huurprijs, maar niet transparant).
+
+**Gemeentelijke subsidies**: sommige gemeenten bieden aanvullende subsidies (€100-€500 per installatie) voor aanschaf van zonnepanelen. Bij huurconstructies zijn deze subsidies vaak niet beschikbaar voor de huurder, omdat de eigenaar de installateur is.
+
+**Energiebespaarlening**: leningen via gemeente of Nationaal Warmtefonds zijn bedoeld voor eigenaren van woningen die verduurzamen. Bij huurpanelen maak je geen gebruik van een lening — maar bij kopen via een lening heb je wél toegang tot deze gunstige leenvormen.
+
+Kortom: de subsidie-voordelen zijn bijna altijd aan de kant van de koper.
 
 ## Conclusie
 

@@ -9,7 +9,7 @@ keywords: ["frank energie review", "frank energie ervaringen", "frank energie ap
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/energie.svg"
+featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat is Frank Energie?"
     a: "Frank Energie is een Nederlandse energieleverancier opgericht in 2018 door Frank van Boekel. Ze leveren stroom en gas op een dynamisch contract — je betaalt elk uur de actuele EPEX-marktprijs zonder opslag, plus een vast servicegeld van €5,00/maand. Eén van de pioniers van dynamische tarieven in Nederland."
@@ -338,6 +338,27 @@ Frank Energie is de stille winnaar van de Nederlandse energiemarkt voor 2026. Ge
 Voor wie zonnepanelen heeft en de saldering-stop voorbereidt: Frank is bijna altijd de juiste keus. Mijn 36 maanden ervaring: €2.450 bespaard, geen verrassingen, geen klachten.
 
 *Vragen? Stuur een mail naar [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+
+---
+
+## Mijn aanbeveling voor specifieke huishoudprofielen
+
+Na 36 maanden Frank Energie en adviezen aan tientallen lezers weet ik welk profiel bij welke leverancier past. Dit zijn mijn specifieke aanbevelingen.
+
+**Profiel 1: Gepensioneerd stel, kleine woning, 2.200 kWh/jaar**
+Frank Energie is hier de beste keuze. Weinig verbruik, geen EV, koken op gas (of inductie). Besparing vs Eneco vast: €380-€440/jaar. De eenvoudige app past bij wie geen technische kennis heeft.
+
+**Profiel 2: Gezin met 2 kinderen, 4.800 kWh, zonnepanelen, geen EV**
+Frank Energie wint. Hoog verbruik + zonnepanelen = maximale teruglevering tegen EPEX-tarief. Geen EV-feature nodig. Besparing vs Eneco: €750-€900/jaar.
+
+**Profiel 3: Gezin met EV (Tesla Model 3), 5.500 kWh totaal**
+Tibber wint. Native Tesla-integratie bespaart €40-€70/maand op laadkosten. Het hogere servicegeld (€12/jaar meer dan Frank) is terugverdiend in de eerste week.
+
+**Profiel 4: ZZP'er die thuiswerkt, 3.800 kWh, laptop + airco + warmtepomp**
+Frank Energie + Home Assistant. De warmtepomp op dynamische prijs sturen via Home Assistant + Frank API bespaart €200-€300/jaar extra. Tibber's native features zijn minder relevant als je toch HA gebruikt.
+
+**Profiel 5: Appartement, geen zonnepanelen, 2.800 kWh**
+Frank Energie of Greenchoice Dynamisch. Weinig te automatiseren, dus smart features spelen minder rol. Frank wint op prijs (€12/jaar goedkoper dan Tibber). Greenchoice heeft lager servicegeld (€3,95) — overweeg bij verbruik onder 2.500 kWh.
 
 ---
 

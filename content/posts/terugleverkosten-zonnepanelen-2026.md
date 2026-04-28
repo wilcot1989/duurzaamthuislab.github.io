@@ -9,7 +9,7 @@ keywords: ["terugleverkosten zonnepanelen", "terugleverkosten 2026", "teruglever
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/zonne-energie.svg"
+featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat zijn terugleverkosten precies?"
     a: "Terugleverkosten zijn extra kosten die energieleveranciers in rekening brengen voor klanten met zonnepanelen. Ze worden gerechtvaardigd als compensatie voor het verlies dat de leverancier maakt op teruggeleverde stroom (negatieve marktprijzen, onbalans-kosten). De hoogte varieert van €5 tot €40 per maand afhankelijk van leverancier en hoeveelheid teruglevering."
@@ -201,6 +201,18 @@ De gouden combo:
 
 Mijn moeder heeft inmiddels stap 1 gedaan (Tibber sinds februari 2026). Stap 2 is bezig (wasprogramma's gewijzigd). Stap 3 wachten we op tot de prijzen verder dalen.
 
+## Regionale verschillen in terugleverkosten
+
+Terugleverkosten zijn nationaal, maar de effecten kunnen regionaal variëren door netwerkcongestie en lokale energiemix.
+
+**Provincies met hoge teruglevering-congestie (2026):**
+- Zeeland: hoge concentratie zonnepanelen + wind. Op zonnige/winderige dagen zijn negatieve prijzen frequenter. Dynamisch contract is hier nog voordeliger.
+- Groningen en Drenthe: agrarisch gebied met veel zon-op-dak. Terugleverkosten bij vaste contracten voelen hier harder aan door de hoge teruglevering per huishouden.
+- Utrecht en Noord-Holland: hoge energieprijzen, veel energiebewuste huishoudens met zonnepanelen. Dynamisch contract geeft hier meer arbitragevoordeel door hogere piekprijzen.
+
+**Netcongestie:**
+Sommige gebieden hebben netcongestie-problemen waarbij de netbeheerder het netinvoedvermogen beperkt. Dit kan betekenen dat je zonnepanelen op drukke piekmomenten worden begrensd. In dat geval zijn terugleverkosten een bijkomstig probleem — je kunt sowieso niet alles terugleveren. Een thuisbatterij of slim eigen verbruik wordt dan nog relevanter.
+
 ## Wat verwachten we voor 2027?
 
 Met de saldering-stop per 1-1-2027 verandert ook de terugleverkosten-markt:
@@ -293,6 +305,21 @@ Na al mijn doorrekeningen kom ik tot deze matrix. Meest voorkomende profielen in
 - Beste keuze: Tibber vanwege smart charging voor EV
 - Teruglevering laag maar EV nachtladen is enorm voordelig dynamisch
 - Besparing EV laden: €300-€600/jaar extra voordeel
+
+## Communicatie met de leverancier: hoe te onderhandelen
+
+Iets wat weinig mensen proberen: direct onderhandelen met hun leverancier over terugleverkosten.
+
+**Wat werkt:**
+- Bel de klantenservice en geef aan dat je overstapt als ze de terugleverkosten niet verlagen of kwijtschelden
+- Grote leveranciers (Eneco, Vattenfall) hebben retentieteams die klanten kunnen aanbieden: "we verlagen uw terugleverkosten met 20% als u 2 jaar blijft"
+- Dit werkt niet altijd maar is de moeite waard voor wie een langdurige relatie heeft (5+ jaar klant)
+
+**Wat niet werkt:**
+- "Ik ken mijn rechten en terugleverkosten zijn illegaal" — dat kloppen ze niet, de ACM heeft dit bevestigd
+- Alleen via e-mail klagen — bel altijd voor retentie-aanbiedingen
+
+**Mijn ervaring:** een buurman van mij (15 jaar klant bij Eneco) belde in februari 2026 en vroeg om kwijtschelding van de terugleverkosten vanwege zijn lange loyaliteit. Result: Eneco bood hem 6 maanden kwijtschelding aan. Niet perfect, maar €120 extra besparing voor een telefoontje van 10 minuten.
 
 ## Mijn concrete aanbevelingen
 

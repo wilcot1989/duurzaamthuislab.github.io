@@ -9,7 +9,7 @@ keywords: ["laadpaal thuis kosten", "laadpaal subsidie 2026", "beste laadpaal th
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/energie.svg"
+featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Hoeveel kost een laadpaal thuis?"
     a: "Een thuislaadpaal kost €800-€2.500 inclusief installatie. De laadpaal zelf kost €500-€1.500 en de installatie €300-€1.000 (afhankelijk van afstand meterkast tot laadpunt en grondwerk). Met subsidie (tot €600) betaal je effectief €200-€1.900."
@@ -320,6 +320,28 @@ Een thuislaadpaal is een van de beste investeringen als EV-rijder. Met €800-�
 
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
+## Wat betaalt je werkgever? De fiscale regels voor 2026
+
+Als je een laadpaal via je werkgever vergoed wil krijgen, zijn er fiscale spelregels die de meeste mensen niet kennen.
+
+**Werkkostenregeling (WKR):**
+Werkgevers mogen via de werkkostenregeling (WKR) tot €1.800 onbelast vergoeden voor een thuislaadpaal. Dit geldt wanneer:
+- De werknemer ook zakelijk rijdt (lease of eigen auto)
+- De laadpaal uitsluitend of grotendeels zakelijk wordt gebruikt
+- De installatie voldoet aan de NEN 1010-norm
+
+**Fiscaal voordeel werknemer:**
+De vergoeding is onbelast — je betaalt geen inkomstenbelasting over de €1.800. Bij een marginaal belastingtarief van 37,07% (schijf 1) is dat €667 belastingbesparing bovenop de directe vergoeding.
+
+**Wat je werkgever moet doen:**
+- De vergoeding verwerken in de loonadministratie als "vrije ruimte WKR"
+- Een verklaring opstellen dat de laadpaal zakelijk wordt gebruikt
+- De factuur en installatiebevestiging bewaren
+
+**Mijn tip:** Vraag dit na bij HR vóórdat je de laadpaal koopt. De volgorde (eerst goedkeuring werkgever, dan aankoop) is fiscaal belangrijk. Als je de laadpaal eerst koopt en daarna om vergoeding vraagt, kan de werkgever fiscaal in de problemen komen.
+
+---
 
 ## Slim laden op zonnestroom: concrete setup
 

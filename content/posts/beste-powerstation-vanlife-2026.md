@@ -9,7 +9,7 @@ keywords: ["powerstation camper", "powerstation vanlife", "accu camperbus", "bes
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/powerstations.svg"
+featured_image: "https://images.unsplash.com/photo-1497440001374-f26997328c1b?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Hoeveel Wh powerstation heb ik nodig voor vanlife?"
     a: "Voor basaal vanlife-gebruik (telefoon, laptop, verlichting, kleine koelbox) is 500-1000 Wh voldoende. Voor uitgebreider gebruik (koelkast, koken, haardroger) heb je minimaal 1500-2000 Wh nodig. Full-time vanlifers met hoog verbruik kiezen vaak voor 2000-4000 Wh."
@@ -290,6 +290,30 @@ De Anker Solix C1000 is de ideale middenweg. Genoeg capaciteit voor 1-2 dagen au
 | **Beste allround** | Anker Solix C1000 | Goede balans alles |
 
 ---
+
+## Seizoenseffecten: zomer vs winter in de bus
+
+Een factor die beginners onderschatten: het verschil in stroombalans tussen zomer en winter.
+
+**Zomer (juni-augustus, Nederland en Zuid-Europa):**
+- Zonne-uren: 5-7 effectieve uren per dag
+- Temperatuur: warm, koelkast werkt harder (~20% meer verbruik)
+- Verwarming: niet nodig
+- Airco (optioneel): 1.000-1.500W extra verbruik
+- Balans voor EcoFlow Delta 2 Max + 440W panelen: positief (meer opwekking dan verbruik)
+
+**Winter (november-februari, Nederland):**
+- Zonne-uren: 1-2 effectieve uren per dag
+- Temperatuur: koud, verwarmingsbehoefte (diesel heater 25-50W, geen probleem)
+- Koelkast: werkt makkelijker bij lage omgevingstemperatuur
+- Balans voor EcoFlow Delta 2 Max + 440W panelen: negatief (meer verbruik dan opwekking)
+
+**Winteroplossing:**
+1. Rijladen via 12V (600-900W via directe accu-aansluiting)
+2. Campings met netstroom gebruiken (1-2× per week)
+3. Extra batterijcapaciteit (uitbreiding of groter station)
+
+Voor full-time vanlife in de winter in Nederland: reken op minimaal 2.000 Wh basisstation plus 600W+ solar plus rijladen als primaire bronnen.
 
 ## Kosten per kWh: de echte economie van vanlife-stroom
 

@@ -9,7 +9,7 @@ keywords: ["zonnepanelen plat dak", "plat dak zonnepanelen kosten", "opbrengst p
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/zonnepanelen.svg"
+featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Kan ik zonnepanelen op een plat dak leggen?"
     a: "Ja, zonnepanelen werken uitstekend op een plat dak. Ze worden op schuine frames geplaatst (10-15° hoek, richting zuiden) voor optimale opbrengst. Voordeel: je kiest zelf de optimale richting en hoek. Nadeel: de opbrengst is 5-10% lager dan op een schuin dak op het zuiden, en je hebt meer dakoppervlak nodig vanwege de tussenruimte."

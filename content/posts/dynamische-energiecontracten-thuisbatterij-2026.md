@@ -9,7 +9,7 @@ keywords: ["dynamisch energiecontract thuisbatterij", "geld verdienen thuisbatte
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/thuisbatterijen.svg"
+featured_image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat is een dynamisch energiecontract?"
     a: "Bij een dynamisch energiecontract betaal je per uur een wisselende prijs voor stroom, gebaseerd op de EPEX-spotmarktprijs. Als er veel aanbod is (veel wind of zon), is stroom goedkoop of zelfs negatief. Bij hoge vraag (koud, weinig wind, 's avonds) is stroom duur. Je kunt hiervan profiteren door je verbruik te verschuiven naar goedkope uren."

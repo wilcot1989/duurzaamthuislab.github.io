@@ -9,7 +9,7 @@ keywords: ["thuisbatterij kopen vs leasen", "thuisbatterij lease", "zonneplan le
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/thuisbatterijen.svg"
+featured_image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Is leasen of kopen voordeliger?"
     a: "Bij gemiddeld gebruik over 10 jaar is kopen €600-€1.200 voordeliger dan leasen. Maar lease beschermt je tegen technologische veroudering, defectrisico en heeft geen grote eenmalige investering. Voor mensen met cashflow-zorgen: lease is rationeel."

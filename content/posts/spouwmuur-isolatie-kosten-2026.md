@@ -9,7 +9,7 @@ keywords: ["spouwmuur isolatie kosten 2026", "spouwmuurisolatie prijs per m2", "
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/isolatie.svg"
+featured_image: "https://images.unsplash.com/photo-1565008576549-57569a49371d?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat kost spouwmuurisolatie gemiddeld in 2026?"
     a: "Voor een doorzon-tussenwoning met circa 80 m² spouwmuur betaal je €1.600-€2.400, inclusief 0% BTW en inkl. ISDE-subsidie. Zonder subsidie: €2.000-€3.200. Prijs hangt af van materiaal (EPS-parels, glasvlokken of PUR) en bereikbaarheid van de spouwmuur."
@@ -391,6 +391,27 @@ Geluidsdemping is een bijproduct van spouwmuurisolatie, maar niet het doel. EPS-
 
 **"Moet ik de spouw laten inspecteren bij aankoop van een woning?"**
 Absoluut. Vraag bij de notaris of er een rapport over de spouwmuur beschikbaar is. Als de vorige eigenaar isolatie heeft laten plaatsen, is er (hopelijk) een installatierapport met bewijs van KOMO-certificering. Ontbreekt dat, dan is de kans aanwezig dat de isolatie niet correct is uitgevoerd of niet voor ISDE in aanmerking komt.
+
+---
+
+## Wat als mijn gevel een bijzondere situatie heeft?
+
+Niet elke gevel is standaard. Hier zijn de meest voorkomende afwijkende situaties en hoe daarmee omgaan.
+
+**Ornamentele baksteen of bijzondere gevelafwerking**
+Bij versieringen, profileringen of specifieke baksteenpatronen moeten de gaten op exacte posities worden geboord. Een goede installateur plant dit van tevoren uit met een gevelkaart. Laat hem dit in de offerte opnemen. Kosten: normaliter geen meerkosten, maar controleer of hij dit ervaart.
+
+**Asbesthoudende gevelpanelen (voor 1993)**
+Als je woning voor 1993 is gebouwd en er zijn gevelpanelen (sandwichpanelen, asbestcement) aanwezig, mag niet zomaar geboord worden. Laat eerst een asbestinventarisatie uitvoeren (€150-€300). Is asbest aanwezig: sanering vóór isolatie.
+
+**Historische panden of gemeentelijk monument**
+Boren in een gevel vereist bij rijksmonumenten en gemeentelijke monumenten altijd een omgevingsvergunning. Aanvraag bij de gemeente, doorlooptijd 8-12 weken. Bij bezwaar van monumentenzorg zijn alternatieve methoden mogelijk (binnenzijde isoleren via klimaatplaten).
+
+**Kelderverdieping of kruipruimte aansluiting**
+De onderkant van de spouwmuur sluit aan op de fundering. Als de fundering vochtig is, moet de onderste rij gaten met extra zorg worden gedicht. Vraag de installateur expliciet hoe ze dit aanpakken.
+
+**Gevels met kunststof kozijnen (jaren '80-'90)**
+Kunststof kozijnen zijn vaak dieper dan de baksteendikte. Ze overlappen de spouw soms, waardoor de isolatie-injectie rondom de kozijnen moeilijker is. Goede installateurs werken hier met kleinere gaten en schuin-injectie. Laat dit controleren in de offerte.
 
 ---
 

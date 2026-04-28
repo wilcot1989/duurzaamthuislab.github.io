@@ -9,7 +9,7 @@ keywords: ["zonnepanelen subsidie 2026", "isde subsidie", "salderingsregeling 20
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/zonne-energie.svg"
+featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Welke subsidies zijn er voor zonnepanelen in 2026?"
     a: "In 2026 kun je gebruikmaken van de ISDE-subsidie (voor thuisbatterijen en warmtepompen), de salderingsregeling (nog volledig in 2026), BTW-teruggave op zonnepanelen en in sommige gemeenten lokale subsidies."

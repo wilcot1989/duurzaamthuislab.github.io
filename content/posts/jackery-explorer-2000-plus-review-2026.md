@@ -9,7 +9,7 @@ keywords: ["jackery explorer 2000 plus review", "jackery 2000 plus test", "jacke
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/powerstations.svg"
+featured_image: "https://images.unsplash.com/photo-1497440001374-f26997328c1b?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Is de Jackery Explorer 2000 Plus een goed powerstation?"
     a: "Ja. Met 2042Wh, 3000W continu vermogen, LiFePO4-batterij en uitbreidbaarheid tot 24kWh is het een van de krachtigste en meest flexibele powerstations op de markt."

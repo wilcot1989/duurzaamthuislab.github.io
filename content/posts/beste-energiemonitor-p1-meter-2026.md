@@ -9,7 +9,7 @@ keywords: ["beste energiemonitor", "P1 meter vergelijking", "HomeWizard P1", "en
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/energie.svg"
+featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat is een P1-meter / energiemonitor?"
     a: "Een P1-meter (of energiemonitor) sluit je aan op de P1-poort van je slimme meter. Het leest real-time je stroom- en gasverbruik en toont dit in een app op je telefoon. Zo zie je exact hoeveel stroom en gas je verbruikt, wat het kost, en welke apparaten de grootste verbruikers zijn."
@@ -272,6 +272,25 @@ Ben je Tibber-klant? Dan is de **Tibber Pulse** een logische keuze voor maximale
 
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
+## Vijf dingen die ik wilde weten voordat ik een P1-meter kocht
+
+**1. Werkt de P1-meter ook bij een prepaid of budget-energiecontract?**
+Ja. De P1-meter werkt op je slimme meter, niet op je energiecontract. Het maakt niet uit of je bij Eneco, Frank Energie, Tibber of een andere leverancier zit. Zolang je slimme meter een P1-poort heeft, werkt de monitor.
+
+**2. Hoeveel stroom verbruikt de P1-meter zelf?**
+De HomeWizard P1 Meter verbruikt 1-2 Watt. Op jaarbasis is dat 8,8-17,5 kWh = €2,60-€5,25 per jaar. Dat is ruim terugverdiend door de eerste gedragsverandering die je doorvoert.
+
+**3. Wat als mijn slimme meter kapot gaat?**
+De P1-meter is een passief apparaat — hij leest data van de meter maar beschadigt hem niet. Als je slimme meter defect raakt, vraag je gratis vervanging aan bij je netbeheerder. De P1-meter sluit je dan gewoon op de nieuwe meter aan.
+
+**4. Kan ik de P1-meter meenemen bij verhuizing?**
+Ja, zonder voorbehoud. De HomeWizard P1 Meter is een plug-and-play apparaat. Je trekt de kabel eruit, stopt hem in je tas en sluit hem aan bij de nieuwe slimme meter op je nieuwe adres. Configuratie in de app duurt 3 minuten.
+
+**5. Werkt de P1-meter ook met een drie-fase aansluiting?**
+Ja. Slimme meters in Nederland meten drie-fase aansluitingen per fase. De HomeWizard P1 Meter toont dan het totaalverbruik én per fase. Dat is met name handig als je een EV-lader of warmtepomp op een specifieke fase hebt.
+
+---
 
 ## Hoeveel data slaat een energiemonitor op?
 

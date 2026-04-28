@@ -9,7 +9,7 @@ keywords: ["energielabel verbeteren", "energielabel huis", "van G naar A", "ener
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/isolatie.svg"
+featured_image: "https://images.unsplash.com/photo-1565008576549-57569a49371d?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat kost het om je energielabel te verbeteren?"
     a: "De kosten hangen af van je huidige label en je doellabel. Van G naar C kost gemiddeld €8.000-€15.000 (isolatie dakkapel + vloer + glas). Van C naar A kost nog eens €10.000-€20.000 (warmtepomp + zonnepanelen). Met subsidies kun je 30-50% terugkrijgen."
@@ -287,6 +287,39 @@ Het verbeteren van je energielabel is een investering die zichzelf terugverdient
 
 
 <a href="/go/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
+
+## Rekenmodel: van G naar A in 7 jaar — kan dat?
+
+Ik heb dit uitgerekend voor een lezer die me vroeg: "Mijn woning heeft label G. Hoe lang duurt het en wat kost het om label A te bereiken?"
+
+**Woning:** hoekwoning 1965, 120 m² woonoppervlak, label G
+
+**Huidige situatie:**
+- Geen isolatie, enkel glas, open haard en radiatorverwarming op gaskachel
+- Energierekening: €3.800/jaar (gas €3.200 + stroom €600)
+
+**Stappenplan 7 jaar:**
+
+| Jaar | Maatregel | Investering | ISDE | Netto | Besparing/jaar |
+|------|-----------|-------------|------|-------|---------------|
+| 1 | Kierdichting + dakisolatie (70 m²) | €5.500 | €2.800 | €2.700 | €520 |
+| 2 | Spouwmuurisolatie (120 m², PUR) | €4.200 | €888 | €3.312 | €480 |
+| 3 | HR++ glas (15 m²) | €3.500 | €950 | €2.550 | €200 |
+| 4 | Hybride warmtepomp + vloerverwarming | €9.500 | €3.200 | €6.300 | €900 |
+| 5 | 14 zonnepanelen | €7.200 | €0 | €7.200 | €1.050 |
+| 6 | Mechanische ventilatie (WTW) | €3.500 | €0 | €3.500 | €150 |
+| 7 | Thuisbatterij 10 kWh | €5.500 | €0 | €5.500 | €400 |
+| **Totaal** | | **€38.900** | **€7.838** | **€31.062** | **€3.700/jaar** |
+
+**Na jaar 7:**
+- Energielabel: A of A+
+- Energierekening: €100-€200/jaar (nagenoeg nul door zonnepanelen + batterij)
+- Woningwaardestijging: geschat €35.000-€50.000
+- Terugverdientijd totaalinvestering: 8,4 jaar (exclusief woningwaardestijging)
+
+Is het realistisch? Ja, voor wie financiering kan regelen via de Energiebespaarlening. Maandlast van €31.000 lening over 15 jaar bij 2,6%: €210/maand. Energiebesparing: €316/maand. Je gaat er direct maandelijks op vooruit.
+
+---
 
 ## EPA-maatwerkadvies: wanneer is het de moeite waard?
 

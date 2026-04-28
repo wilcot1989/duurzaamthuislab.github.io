@@ -9,7 +9,7 @@ keywords: ["powerstation camping", "beste powerstation kamperen", "draagbare acc
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/powerstations.svg"
+featured_image: "https://images.unsplash.com/photo-1497440001374-f26997328c1b?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Welk powerstation is het beste voor camping?"
     a: "De EcoFlow River 2 Pro biedt de beste balans tussen capaciteit (768Wh), gewicht (7,8 kg) en laadsnelheid. Voor grotere gezinnen of langere trips is de Jackery Explorer 1000 Plus een betere keuze."

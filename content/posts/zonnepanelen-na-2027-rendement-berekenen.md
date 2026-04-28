@@ -9,7 +9,7 @@ keywords: ["zonnepanelen na 2027", "zijn zonnepanelen na 2027 nog rendabel", "re
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/zonne-energie.svg"
+featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Zijn zonnepanelen na 2027 nog wel rendabel?"
     a: "Ja, voor de meeste huishoudens. De terugverdientijd schuift wel op van 6-7 jaar naar 9-12 jaar zonder maatregelen. Met een dynamisch contract kom je rond 8-10 jaar uit, met een thuisbatterij erbij 7-9 jaar. Een installatie levensduur van 25 jaar betekent dat je daarna 15+ jaar pure winst maakt."

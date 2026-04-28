@@ -9,7 +9,7 @@ keywords: ["smart home energiebeheer", "slimme thermostaat", "energiebesparing d
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/energie.svg"
+featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Hoeveel bespaar je met smart home energiebeheer?"
     a: "Met een slimme thermostaat bespaar je 15-20% op verwarming (€200-€400/jaar). Slim laden van een EV bespaart €200-€500/jaar. Energiemonitoring + gedragsverandering bespaart nog eens 5-10%. Totaal kun je met een volledig slim systeem 20-30% besparen op je energierekening."
@@ -253,6 +253,22 @@ Begin met de basis (P1-meter + slimme thermostaat) en breid stap voor stap uit. 
 
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
+## Domotica merken vergeleken: mijn eerlijke oordeel
+
+Er zijn tientallen smart home-merken op de markt. Ik heb in de loop der jaren producten van bijna al de relevante merken getest. Mijn eerlijke oordeel:
+
+**Shelly (Allterco):** Beste prijs-kwaliteitsverhouding voor energie-gerelateerde producten. Shelly Plug S (€15), Shelly 1PM (€12), Shelly Pro 3EM (stroommonitoring drie-fase). Uitstekende Home Assistant integratie, lokale controle, geen abonnement. Mijn aanbeveling voor HA-gebruikers.
+
+**Philips Hue:** Best voor verlichting, maar duur voor energiebeheer. Zigbee-protocol is goed, maar de Hue Hub vereist een bridge. Voor energiebesparing via verlichting: gemiddeld €30-€60/jaar besparing per huishouden — voldoende om de starterset in 2-3 jaar terug te verdienen.
+
+**IKEA Home Smart:** Beste budget-instap. TRÅDFRI stekkers (€10), slimme lampen (€10-€15), Dirigera hub (€79). Beperkte integraties maar werkt goed als standalone systeem. Voor wie Home Assistant te complex is.
+
+**Homey Pro (Athom):** De premium all-in-one controller (€399). Ondersteunt Zigbee, Z-Wave, Bluetooth, Thread en Wi-Fi in één apparaat. Geen Raspberry Pi nodig. Ideaal voor wie een compleet smart home wil zonder technische kennis — maar geen open-source. Meer beperkingen dan Home Assistant op lange termijn.
+
+**TP-Link Tapo:** Budget-alternatief voor Shelly. Tapo P110 slimme stekker (€15) met energiemonitoring. Goede app, redelijke Home Assistant integratie. Mijn tweede keuze na Shelly als prijs leidend is.
+
+---
 
 ## Slimme radiatorknoppen: zin of onzin?
 

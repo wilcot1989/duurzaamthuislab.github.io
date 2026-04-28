@@ -9,7 +9,7 @@ keywords: ["marstek review", "marstek venus review", "marstek venus a", "marstek
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/thuisbatterijen.svg"
+featured_image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat is Marstek Venus?"
     a: "Marstek Venus is een plug-and-play thuisbatterij van Chinese fabrikant Marstek Energy. Verkrijgbaar als Venus A (5,12 kWh, eenfasig) en Venus E (8,2 kWh, modulair tot 24 kWh). Het bijzondere: je plugt 'm in een normaal stopcontact (Venus A) of in je meterkast (Venus E) — geen complexe installatie nodig."

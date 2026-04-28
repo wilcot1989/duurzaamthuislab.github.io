@@ -9,7 +9,7 @@ keywords: ["Quatt warmtepomp review", "Quatt ervaringen", "Quatt Connect", "Quat
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/warmtepompen.svg"
+featured_image: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat kost Quatt per maand?"
     a: "Quatt Connect kost €59 per maand voor het basis-abonnement, €79 voor het standaard-abonnement en €99 voor premium (inclusief meer monitoring en onderhoud). De contractduur is minimaal 10 jaar. Er is geen aanbetaling vereist — Quatt installeert de warmtepomp kosteloos en rekent alles in via de maandelijkse fee."

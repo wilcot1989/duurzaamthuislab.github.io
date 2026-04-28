@@ -9,7 +9,7 @@ keywords: ["saldering 2027", "saldering stopt 2027", "salderingsregeling 2027", 
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/zonne-energie.svg"
+featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wanneer stopt de saldering precies?"
     a: "De salderingsregeling stopt per 1 januari 2027. Het kabinet heeft het wetsvoorstel definitief aangenomen — er is geen geleidelijke afbouw meer over meerdere jaren, het wordt een 'cold turkey' stop op die datum."

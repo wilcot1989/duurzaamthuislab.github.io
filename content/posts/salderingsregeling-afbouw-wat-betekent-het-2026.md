@@ -9,7 +9,7 @@ keywords: ["salderingsregeling 2026", "salderingsregeling afbouw", "saldering zo
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/zonne-energie.svg"
+featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat is de salderingsregeling precies?"
     a: "De salderingsregeling houdt in dat je stroom die je met zonnepanelen opwekt en teruglevert aan het net, mag wegstrepen tegen stroom die je afneemt. Je betaalt dus alleen over het verschil (het saldo)."

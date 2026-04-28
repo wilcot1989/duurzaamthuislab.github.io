@@ -9,7 +9,7 @@ keywords: ["thuisbatterij vergelijking", "beste thuisbatterij 2026", "Tesla Powe
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "/images/categories/thuisbatterij.svg"
+featured_image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Welke thuisbatterij is de beste in 2026?"
     a: "De Tesla Powerwall 3 biedt de beste combinatie van capaciteit (13,5 kWh), ingebouwde omvormer en gebruiksgemak. De BYD HVS biedt de beste schaalbaarheid (5,1-12,8 kWh modulair). Voor SolarEdge-gebruikers is de SolarEdge Home Battery de meest efficiënte optie dankzij DC-koppeling."
@@ -413,7 +413,7 @@ Na alles afgewogen: hier is mijn persoonlijke rangschikking in 2026.
 
 ## Mijn eindadvies in drie zinnen
 
-De thuisbatterij-markt in Nederland in 2026 is volwassener dan ooit. De grote vijf systemen die ik in dit artikel bespreek zijn stuk voor stuk serieuze producten met bewezen track record, 10+ jaar garantie en een groeiend NL-installatienetwerk. De tijden dat thuisbatterijen experimenteel waren, liggen achter ons.
+De thuisbatterij-markt in Nederland in 2026 is volwassener dan ooit. De grote vijf systemen die ik in dit artikel bespreek zijn stuk voor stuk serieuze producten met bewezen track record, 10+ jaar garantie en een groeiend NL-installatienetwerk. De tijden dat thuisbatterijen experimenteel waren, liggen achter ons. Elke keuze in de top vijf is verantwoord — het gaat erom welke het best bij jouw situatie past.
 
 Als je budget onder €6.000 is en je wilt NL-service: kies Huawei LUNA2000 of Sessy (buiten dit artikel, maar sterk aanbevolen). Als je een groot huis hebt met EV en backup als harde eis: kies Tesla Powerwall 3. Als je maximale efficiëntie wil bij een bestaande SolarEdge-installatie: kies SolarEdge Home Battery. Voor alle andere situaties: BYD HVS of Enphase bieden bewezen kwaliteit voor specifieke niches.
 
