@@ -1,5 +1,5 @@
 ---
-title: "Saldering vs Dynamisch Contract: Welke is Voordeliger na 2027? (Rekenmodel)"
+title: "Saldering vs dynamisch contract: welke is voordeliger na 2027? (rekenmodel)"
 date: 2026-05-01T08:00:00+02:00
 lastmod: 2026-05-01T08:00:00+02:00
 description: "Concrete vergelijking tussen vast contract met saldering-stop en dynamisch contract na 2027. Per huishoudprofiel doorgerekend met actuele cijfers."

@@ -1,5 +1,5 @@
 ---
-title: "Sessy Review 2026: Eerlijke Test van de Nederlandse Thuisbatterij"
+title: "Sessy review 2026: eerlijke test van de Nederlandse thuisbatterij"
 date: 2026-05-03T08:00:00+02:00
 lastmod: 2026-05-03T08:00:00+02:00
 description: "Sessy is een Nederlandse thuisbatterij van Charged. Maandenlange test van de 5 kWh en 10 kWh: prestaties, app, dynamisch laden, voor- en nadelen."

@@ -1,5 +1,5 @@
 ---
-title: "Tibber Review 2026: Mijn Ervaringen na 18 Maanden Dynamisch Contract"
+title: "Tibber review 2026: mijn ervaringen na 18 maanden dynamisch contract"
 date: 2026-05-04T08:00:00+02:00
 lastmod: 2026-05-04T08:00:00+02:00
 description: "Volledige Tibber review na 18 maanden gebruik in een Nederlands huishouden met zonnepanelen. App, slim laden, klantenservice, cijfers."

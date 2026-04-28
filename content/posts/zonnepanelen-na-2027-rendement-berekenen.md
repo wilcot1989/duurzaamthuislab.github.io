@@ -1,5 +1,5 @@
 ---
-title: "Zonnepanelen na 2027: Hoe Bereken je het Rendement Echt? (Per Profiel)"
+title: "Zonnepanelen na 2027: hoe bereken je het rendement echt? (per profiel)"
 date: 2026-05-02T08:00:00+02:00
 lastmod: 2026-05-02T08:00:00+02:00
 description: "Zijn zonnepanelen nog rendabel na de saldering-stop? Concrete berekening per huishoudprofiel met en zonder thuisbatterij. Met formule en voorbeelden."
