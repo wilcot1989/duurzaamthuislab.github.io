@@ -43,6 +43,8 @@ Dit is de thuisbatterij die ik zelf in huis heb: de Huawei Luna 2000, 10 kWh, ge
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Waarom een thuisbatterij in 2026?
 
 De opkomst van thuisbatterijen in Nederland hangt direct samen met twee ontwikkelingen:

@@ -38,6 +38,8 @@ Ik heb zowel EcoFlow- als Jackery-stations door mijn handen laten gaan en de ver
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## EcoFlow vs Jackery: Merken in Vogelvlucht
 
 ### EcoFlow

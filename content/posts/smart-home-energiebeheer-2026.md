@@ -41,6 +41,8 @@ Mijn huis draait ondertussen bijna volledig automatisch. Mijn HomeWizard P1 mete
 
 Heb je een dynamisch energiecontract? Slim energiebeheer maakt de besparing nog groter. Lees onze [vergelijking dynamische energiecontracten](/posts/dynamische-energiecontracten-vergelijking-2026/).
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## De Smart Home Energie Stack
 
 | Component | Besparing/jaar | Kosten | Terugverdientijd |

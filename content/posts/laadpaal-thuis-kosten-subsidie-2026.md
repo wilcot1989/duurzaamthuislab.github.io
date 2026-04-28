@@ -41,6 +41,8 @@ Zodra ik een elektrische auto koop — en dat wordt dit jaar — wil ik die lade
 
 Heb je een dynamisch energiecontract? Slim laden bespaart extra. Lees onze [vergelijking dynamische energiecontracten](/posts/dynamische-energiecontracten-vergelijking-2026/).
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Kosten Overzicht
 
 | Component | Kosten | Toelichting |

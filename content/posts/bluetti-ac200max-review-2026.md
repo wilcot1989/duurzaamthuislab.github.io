@@ -43,6 +43,8 @@ De Bluetti AC200MAX stond een maand in mijn garage als back-up naast mijn Huawei
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Bluetti AC200MAX in het kort
 
 De AC200MAX positioneert zich als het werkpaard in het Bluetti-assortiment. Het is geen lichtgewicht campingstation en ook geen vast geinstalleerde thuisbatterij, maar zit er precies tussenin. Het toestel biedt genoeg vermogen en capaciteit voor serieus thuisgebruik, terwijl het technisch gezien nog steeds verplaatsbaar is -- al is 27,5 kg niet iets wat je even optilt.

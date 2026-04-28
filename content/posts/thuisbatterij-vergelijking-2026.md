@@ -41,6 +41,8 @@ Na een jaar met mijn Huawei Luna 2000 weet ik precies waar je op moet letten bij
 
 Heb je al een dynamisch energiecontract? Lees dan hoe je een [thuisbatterij combineert met dynamische prijzen](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Waarom ik juist deze 5 koos
 
 De Nederlandse markt heeft inmiddels tientallen thuisbatterij-merken. Ik beperkte me tot de vijf die het meest worden geïnstalleerd door gecertificeerde installateurs én waarbij ik voldoende data kon vergaren: eigenaarsreviews, installateursfeedback, en technische specificaties. Merken als Victron, Alpha-ESS of Pylontech heb ik bewust buiten beschouwing gelaten — interessant voor gevorderden, maar te complex voor de gemiddelde consument.

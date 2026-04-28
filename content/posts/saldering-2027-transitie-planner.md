@@ -339,6 +339,50 @@ Thuisbatterijen worden elk jaar 8-12% goedkoper. Als je geen haast hebt en geen 
 
 ---
 
+## FAQ — veel gestelde vragen over saldering 2027
+
+### Wanneer stopt de saldering precies?
+
+Per 1 januari 2027. Er is geen uitstel, geen overgangsjaar voor bestaande installaties. De datum is juridisch vastgelegd nadat het wetsvoorstel definitief werd aangenomen.
+
+### Wat krijg ik dan nog terug voor mijn stroom?
+
+De terugleververgoeding van je energieleverancier. In 2026 is die gemiddeld 7-9 cent per kWh bij een vast contract, 10-14 cent bij een goed dynamisch contract. Ter vergelijking: afname kost je 28-33 cent.
+
+### Hoeveel verlies ik als ik niets doe?
+
+Dat hangt af van je systeem. De meest gebruikte vuistregel: voor elke 1.000 kWh die je nu saldeerst verlies je €210-€240 per jaar (het verschil tussen 30 cent afname en 8 cent teruggave). Met een systeem van 4 kWp en 2.000 kWh teruglevering is dat €420-€480 per jaar.
+
+### Is de saldering ook weg voor kleine systemen?
+
+Ja, de grens geldt voor iedereen. Er is geen uitzondering voor systemen kleiner dan 2 kWp of voor mensen die maar 500 kWh terugleveren. Wél zijn de absolute gevolgen kleiner: voor 500 kWh teruglevering is het verlies circa €105-€120 per jaar.
+
+### Kan ik alsnog zonnepanelen nemen als ik ze nog niet heb?
+
+Ja, zonnepanelen blijven rendabel — ook na 2027. Het verschil: de terugverdientijd zonder maatregelen schuift op van 6-8 jaar naar 10-13 jaar. Wie direct combineert met een thuisbatterij of warmtepomp zit alsnog op 8-10 jaar. De businesscase is verslechterd, maar niet verdwenen.
+
+### Wat is de beste optie voor een huurwoning met zonnepanelen?
+
+In een huurwoning heb je doorgaans minder opties. Een slimme stekker + tijdschakelaar voor wasmachine en vaatwasser is gratis en direct toepasbaar. Een draagbaar energieopslagsysteem (powerstation) kan ook helpen om overdag opgewekte stroom op te slaan — hoewel dat niet vergelijkbaar is met een thuisbatterij qua capaciteit. Bespreek met je verhuurder of een smart boiler geïnstalleerd kan worden.
+
+### Verlies ik ook op mijn geproduceerde maar direct verbruikte stroom?
+
+Nee, die besparing blijft hetzelfde. Elke kWh die je direct zelf verbruikt bespaart je de afnameprijs — dat verandert niet per 2027. Alleen de teruggeleverde stroom wordt minder waard. Daarom is eigen verbruik verhogen zo effectief: je verschuift verliespost (teruglevering) naar winstpost (eigen gebruik).
+
+### Hoe check ik hoeveel ik precies terugleverd?
+
+Kijk op je jaarafrekening — daar staat apart de teruggeleverde stroom in kWh. Of installeer een P1-meter (bijv. van Homewizard of Shelly): die laat realtime én historisch zien wat je produceert, verbruikt en teruglevert. Met Tibber's Pulse-meter heb je dit direct inzichtelijk in de app. Lees meer in mijn [gids over energiemonitoring](/posts/beste-energiemonitor-p1-meter-2026/).
+
+### Maakt het uit of mijn energieleverancier groot of klein is?
+
+Voor de salderingstop niet — die geldt voor iedereen. Wél maakt het uit voor de terugleververgoeding ná 2027. Kleine duurzame leveranciers bieden soms hogere terugleververgoedingen als marketingargument. Vergelijk contracten actief vóór 2027, want de verschillen kunnen oplopen tot 3-5 cent per kWh — dat is €75-€200 per jaar bij 2.500 kWh teruglevering.
+
+### Is een zonneboiler (warm water op zonne-energie) nog zinvol?
+
+Ja, sterker nog: een zonneboiler wordt na 2027 relatief interessanter. Een zonneboiler zet zonlicht direct om in warm water zonder het net op te gaan. Dat bespaart gasverbruik én elektriciteitsverlies via teruglevering. ISDE-subsidie bedraagt €500-€1.000. De terugverdientijd ligt op 7-10 jaar, afhankelijk van gasverbruik en warmwaterbehoefte. Ik beschrijf dit uitgebreider in de warmtepompboiler gids.
+
+---
+
 ## Conclusie
 
 De salderingstop van 2027 is reëel, maar het is geen ramp als je op tijd de juiste stap zet.

@@ -35,6 +35,8 @@ Mijn vloerisolatie kostte €2.800, maar na de ISDE-subsidie van €1.200 en een
 
 Wil je weten welke isolatiemaatregelen het meest opleveren voor jouw woning? Lees onze [stap-voor-stap gids energielabel verbeteren](/posts/energielabel-verbeteren-stappenplan-2026/).
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Overzicht Isolatiesubsidies 2026
 
 | Subsidie | Bedrag | Voor wie | Aanvragen via |

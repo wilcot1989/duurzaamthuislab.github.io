@@ -41,6 +41,8 @@ Mijn 16 panelen (5,6 kWp) leveren nu ruim anderhalf jaar stroom en ik heb ze in 
 
 Kies je omvormer zorgvuldig — lees onze [SolarEdge vs Enphase vergelijking](/posts/solaredge-vs-enphase-2026/) en ons overzicht van de [beste omvormers](/posts/beste-omvormer-zonnepanelen-2026/).
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Snelle vergelijking
 
 | Merk & Model | Vermogen | Rendement | Garantie product | Garantie vermogen | Prijs/Wp | Segment |

@@ -47,6 +47,8 @@ Korte versie: Tibber is in 2026 de **beste keus** voor wie een EV heeft of smart
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Wat is Tibber?
 
 Tibber is een Noorse fintech-energieleverancier, opgericht in 2016. In Nederland actief sinds 2021. Hun propositie verschilt fundamenteel van traditionele leveranciers:

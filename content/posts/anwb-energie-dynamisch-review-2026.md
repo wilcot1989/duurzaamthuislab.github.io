@@ -47,6 +47,8 @@ Acht maanden later heb ik zijn cijfers geanalyseerd. Hier is mijn eerlijke revie
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## ANWB Energie in context: hoe groot is dit bedrijf eigenlijk?
 
 ANWB is met ~5 miljoen leden een van de grootste consumentenorganisaties van Nederland. De energiedivisie is relatief jong (scale-up 2024), maar profiteert van enorme naamsbekendheid. In tegenstelling tot pure energiestartups als Tibber (Noors) of Frank Energie (kleiner NL-bedrijf), heeft ANWB een decennialang opgebouwde vertrouwensrelatie met hun leden.

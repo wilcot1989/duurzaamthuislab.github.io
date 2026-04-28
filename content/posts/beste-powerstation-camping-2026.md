@@ -43,6 +43,8 @@ Vorig jaar heb ik op de camping mijn compressorkoelbox, telefoons en LED-verlich
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Waar moet je op letten bij een camping-powerstation?
 
 Voordat we de modellen vergelijken, is het belangrijk om te weten welke eigenschappen er echt toe doen voor campinggebruik:

@@ -47,6 +47,8 @@ Maar wat verklaart die spread? Welke is het waard? En wanneer is de beste tijd o
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Hoe ik aan deze cijfers kom
 
 Ik vergelijk niet alleen brochures. In de afgelopen 18 maanden heb ik aankoopprijzen nagevraagd bij twaalf installateurs verspreid over Nederland, offertes verzameld voor dezelfde postcode en productspecificaties naast elkaar gelegd. Resultaat: een gevoel voor de werkelijke marktprijzen inclusief installatie, BTW-vrij (0% BTW geldt automatisch voor alle thuisbatterijen gecombineerd met zonnepanelen, per 2024).

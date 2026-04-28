@@ -48,6 +48,8 @@ In dit artikel: een eerlijke analyse van Quatt Connect. Wat het kost, wat het op
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Wie is Quatt?
 
 **Quatt BV** is opgericht in 2020 in Amsterdam door Hidde Kamst en Roel Huisman. Het bedrijf heeft meerdere investeringsrondes opgehaald en is actief in Nederland en België. Ze zijn niet winstgevend, maar groeien snel.

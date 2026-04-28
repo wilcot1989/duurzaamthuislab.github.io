@@ -48,6 +48,8 @@ In januari 2026 kocht een collega van mij een Marstek Venus E 8,2 kWh voor €2.
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Waarom Marstek zo interessant is — en waarom ik sceptisch begon
 
 Toen mijn collega me in januari 2026 vertelde dat hij een €2.299 Chinese thuisbatterij had besteld, was mijn eerste reactie: "Goedkoop is duurkoop." Ik associeerde Chinese energieproducten met korte levensduur, slechte service en verdachte veiligheidscertificaten.

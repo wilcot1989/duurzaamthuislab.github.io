@@ -48,6 +48,8 @@ Ik heb voor haar uitgezocht wat alle leveranciers in 2026 rekenen. Hier is het v
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Wat zijn terugleverkosten?
 
 Terugleverkosten zijn een extra heffing die je energieleverancier in rekening brengt **alleen aan klanten met zonnepanelen**. Ze worden meestal als maandbedrag of staffelbedrag berekend, gekoppeld aan de hoeveelheid teruggeleverde kWh per jaar.

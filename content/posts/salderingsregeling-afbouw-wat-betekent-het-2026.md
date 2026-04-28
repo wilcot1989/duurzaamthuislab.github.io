@@ -43,6 +43,8 @@ Met mijn 16 panelen (5,6 kWp) lever ik jaarlijks zo'n 2.800 kWh terug aan het ne
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Wat is de salderingsregeling?
 
 De salderingsregeling (ook wel 'salderen' of 'netto-metering' genoemd) is een Nederlandse regeling die het bezit van zonnepanelen financieel aantrekkelijk maakt. Het principe is eenvoudig:

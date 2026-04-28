@@ -56,6 +56,8 @@ Maar welke warmtepompboiler is de beste? Dat is een eerlijke vraag — en het an
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Wat is een warmtepompboiler, en voor wie is hij geschikt?
 
 Een warmtepompboiler is geen warmtepomp die je huis verwarmt. Dat is een veelgehoord misverstand. Hij doet maar één ding: warm tapwater maken voor de douche, kraan en afwasmachine.

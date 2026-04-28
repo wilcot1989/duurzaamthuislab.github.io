@@ -43,6 +43,8 @@ Vorig jaar had ik een stroomstoring van 4 uur. Mijn Huawei Luna thuisbatterij na
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Waarom voorbereid zijn op stroomuitval?
 
 ### Stroomuitval in Nederland: de cijfers

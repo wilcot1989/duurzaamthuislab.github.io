@@ -52,6 +52,8 @@ In dit artikel reken ik door wat de keus tussen vast en dynamisch concreet betek
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Het rekenmodel: hoe ga ik te werk?
 
 Voor een eerlijke vergelijking heb ik een rekenmodel gemaakt dat per huishoudprofiel berekent:

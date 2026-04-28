@@ -38,6 +38,8 @@ Na het isoleren van mijn vloer en het plaatsen van mijn Vaillant warmtepomp merk
 
 Overweeg je je woning volledig te verduurzamen? Lees ons [stappenplan energielabel verbeteren](/posts/energielabel-verbeteren-stappenplan-2026/).
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Hoe Werkt een WTW-systeem?
 
 ### Het principe

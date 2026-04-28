@@ -49,6 +49,8 @@ In dit geval was het antwoord genuanceerd. De Altherma 3 is inderdaad veelal de 
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Waarom Daikin marktleider is
 
 Daikin is een Japans bedrijf, opgericht in 1924, dat airconditioning en warmtepomptechnologie in de vingers heeft zoals weinig anderen. Ze produceren hun compressoren zelf — een cruciaal onderscheid met merken die componenten inkopen. De Swing-compressor in de Altherma-serie is volledig van eigen makelij.

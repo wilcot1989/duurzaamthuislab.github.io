@@ -52,6 +52,8 @@ In dit artikel: de complete review. Wat doet Sessy goed, waar liggen de zwaktes,
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Wie of wat is Sessy?
 
 Sessy is een product van **Charged BV**, een Nederlandse startup uit Amsterdam, opgericht in 2017 door Wouter Voskuil en Frans Voskuil. Het is dus geen Chinese rebrand, geen geïmporteerd Amerikaans product — gewoon Nederlandse engineering, gemaakt voor het Nederlandse net en de Nederlandse markt.

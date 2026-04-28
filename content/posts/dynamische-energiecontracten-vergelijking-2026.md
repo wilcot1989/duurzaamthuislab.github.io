@@ -44,6 +44,8 @@ Ik ben zelf Frank Energie-klant (overgegaan van Tibber in mei 2025) en betaal in
 
 Heb je een thuisbatterij? Lees dan ook ons artikel over [dynamische energiecontracten in combinatie met een thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Mijn 18 maanden met drie leveranciers: eerlijke terugblik
 
 In oktober 2024 begon ik bij Tibber. In mei 2025 stapte ik over naar Frank Energie. Tussendoor heb ik voor een vriend ANWB Dynamisch bijgehouden. Drie leveranciers, drie ervaringen, één conclusie: het verschil zit in de details.

@@ -41,6 +41,8 @@ Mijn Vaillant hybride warmtepomp draait inmiddels anderhalf jaar en ik heb mijn 
 
 Bekijk ook onze gids over de [ISDE subsidie](/posts/isde-subsidie-warmtepompen-2026/) om te zien hoeveel subsidie je kunt krijgen.
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Snelle vergelijking
 
 | Warmtepomp | Prijs (excl. install.) | COP (A7/W35) | Geluid buiten | Werkbereik | Subsidie |

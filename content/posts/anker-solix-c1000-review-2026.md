@@ -43,6 +43,8 @@ Ik heb inmiddels zes powerstations door mijn handen laten gaan, maar de Anker SO
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Specificaties op een rij
 
 Voordat we dieper duiken, hier de belangrijkste technische gegevens van de Anker SOLIX C1000:

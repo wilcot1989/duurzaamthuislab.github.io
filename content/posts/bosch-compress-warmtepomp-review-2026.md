@@ -46,6 +46,8 @@ Ik wees ze op de Bosch Compress 7800i hybride. Niet het meest bekende merk als j
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Bosch als warmtepompmerk: wat je moet weten
 
 Bosch Thermotechnology is onderdeel van de Robert Bosch GmbH — een van de grootste technologiebedrijven ter wereld. In Nederland is Bosch Thermotechnology actief via het dealernetwerk van **Bosch ABZ Water Comfort**, een specifiek kanaal voor verwarmings- en koelingsinstallaties.

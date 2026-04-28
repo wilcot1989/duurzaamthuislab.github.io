@@ -50,6 +50,8 @@ Ik ben gaan zitten met haar offerte, en daarna ben ik bij haar geïnstalleerd om
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Wat is Zonneplan?
 
 Zonneplan is een Nederlands bedrijf, opgericht in 2019 door Daan Beijer. Ze hebben in 6 jaar tijd een opvallend complete propositie opgebouwd:

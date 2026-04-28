@@ -43,6 +43,8 @@ Ik heb ze allebei in huis: een Huawei Luna 2000 van 10 kWh als vaste thuisbatter
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Wat is een powerstation?
 
 Een **draagbaar powerstation** is een grote, oplaadbare batterij met ingebouwde omvormer en stopcontacten. Je kunt het vergelijken met een enorme powerbank, maar dan voor huishoudelijke apparaten. De belangrijkste kenmerken:

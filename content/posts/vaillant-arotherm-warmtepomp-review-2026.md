@@ -41,6 +41,8 @@ Ik bekeek drie installaties in mijn regio van dichtbij, sprak met de bewoners na
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Vaillant: 150 jaar cv-ervaring, nu in warmtepompen
 
 Vaillant is opgericht in 1874 in Remscheid, Duitsland. Ze begonnen met geisers en cv-ketels en zijn inmiddels actief in meer dan 60 landen. In Nederland zijn ze bekend via hun cv-ketelnetwerk — elke loodgieter kent het merk.

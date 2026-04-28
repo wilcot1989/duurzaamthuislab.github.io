@@ -49,6 +49,8 @@ In dit artikel: 24 maanden Frank in cijfers, voor- en nadelen, en wanneer Tibber
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Wat is Frank Energie?
 
 Frank Energie is een Nederlandse energieleverancier opgericht in 2018 door Frank van Boekel — een ex-trader die merkte dat traditionele leveranciers consumenten een opslag rekenen op stroomprijs. Hij begon Frank om dat te elimineren.

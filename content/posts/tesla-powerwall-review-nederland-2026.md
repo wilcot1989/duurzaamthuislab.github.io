@@ -43,6 +43,8 @@ Ik heb zelf voor de Huawei Luna 2000 gekozen in plaats van de Tesla Powerwall, e
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Specificaties op een rij
 
 De Tesla Powerwall 3 is een flinke stap vooruit ten opzichte van zijn voorgangers. Hier de belangrijkste technische gegevens:

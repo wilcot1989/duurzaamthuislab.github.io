@@ -43,6 +43,8 @@ Met 16 zonnepanelen op mijn dak wek ik thuis genoeg op, maar onderweg was ik alt
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Waarom een zonnepaneel + powerstation combinatie?
 
 Een los powerstation is al handig, maar in combinatie met een draagbaar zonnepaneel wordt het een **zelfvoorzienend energiesysteem**. De voordelen:

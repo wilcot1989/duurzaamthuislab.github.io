@@ -36,6 +36,8 @@ Mijn eigen panelen liggen op een schuin dak richting zuidwest, maar ik heb een b
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Plat Dak vs Schuin Dak
 
 | Aspect | Plat dak | Schuin dak (zuiden) |

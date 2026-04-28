@@ -38,6 +38,8 @@ Mijn Vaillant hybride warmtepomp draait het efficients op de vloerverwarming in 
 
 Zoek je een warmtepomp? Lees onze [top 5 hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) of de vergelijking [warmtepomp vs CV-ketel](/posts/warmtepomp-vs-cv-ketel-2026/).
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Waarom deze combinatie zo goed werkt
 
 ### Het COP-effect

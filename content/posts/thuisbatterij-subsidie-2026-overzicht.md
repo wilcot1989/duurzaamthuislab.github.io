@@ -50,6 +50,8 @@ Hier is het volledige overzicht — wat bestaat, hoe je het aanvraagt, en wat er
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Waarom dit onderwerp zo verwarrend is
 
 Er zijn drie bronnen van verwarring die ik keer op keer tegenkom.

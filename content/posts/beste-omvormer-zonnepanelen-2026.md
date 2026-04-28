@@ -41,6 +41,8 @@ Toen ik mijn 16 zonnepanelen (5,6 kWp) liet installeren, heb ik bewust gekozen v
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Snelle vergelijkingstabel
 
 | Omvormer | Type | Vermogen | Rendement | Garantie | Prijsindicatie | Batterij-ready |

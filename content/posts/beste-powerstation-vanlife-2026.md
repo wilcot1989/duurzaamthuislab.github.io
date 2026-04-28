@@ -41,6 +41,8 @@ Een vriend van mij bouwde vorig jaar zijn VW Crafter om tot camperbus en vroeg m
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Vergelijkingstabel: Beste Powerstations voor Vanlife 2026
 
 | Powerstation | Capaciteit | AC-vermogen | Zonne-input | Gewicht | Prijs | Beste voor |

@@ -38,6 +38,8 @@ Ik heb anderhalf jaar geleden mijn CV-ketel aangevuld met een Vaillant hybride w
 
 Al besloten dat je een warmtepomp wilt? Bekijk onze [top 5 hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) en de [ISDE subsidie gids](/posts/isde-subsidie-warmtepompen-2026/).
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Vijf concrete vragen om te beantwoorden voor je besluit
 
 Voordat je een aannemer belt, stel jezelf deze vijf vragen. De antwoorden bepalen grotendeels welke keuze rationeel is.

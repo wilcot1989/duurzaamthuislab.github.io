@@ -36,6 +36,8 @@ Toen ik mijn Vaillant hybride warmtepomp liet installeren, heb ik meteen de stap
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Inductie vs Gas: De Vergelijking
 
 | Aspect | Inductie | Gas |

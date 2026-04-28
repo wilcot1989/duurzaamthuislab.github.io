@@ -46,6 +46,8 @@ Ik kende de ENERGION-serie al van papier, maar had hem nog niet in de praktijk g
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Wie is ATAG eigenlijk?
 
 ATAG is opgericht in 1936 in Ulft, Gelderland — als fabrikant van fornuizen. Cv-ketels kwamen er later bij. Tegenwoordig zijn ze onderdeel van de Italiaanse IRSAP-groep, maar de naam, het servicenetwerk en de engineering in Nederland zijn behouden gebleven.

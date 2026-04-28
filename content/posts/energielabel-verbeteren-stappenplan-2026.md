@@ -38,6 +38,8 @@ Mijn woning had label C toen ik begon met verduurzamen. Na vloerisolatie, 16 zon
 
 Overweeg je een warmtepomp? Lees eerst ons artikel over de [beste hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) en de [ISDE subsidie](/posts/isde-subsidie-warmtepompen-2026/).
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Energielabels uitgelegd
 
 | Label | Energieprestatie | Gemiddelde energiekosten/jaar | Percentage woningen NL |

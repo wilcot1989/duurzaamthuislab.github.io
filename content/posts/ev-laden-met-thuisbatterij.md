@@ -51,6 +51,8 @@ In dit artikel reken ik uit wanneer EV laden via een thuisbatterij wél loont, w
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Hoe werkt de combinatie eigenlijk?
 
 Een thuisbatterij slaat energie op en geeft die af. Een elektrische auto heeft ook een accu — in veel gevallen groter dan de thuisbatterij. De vraag is hoe je die twee op elkaar afstemt.

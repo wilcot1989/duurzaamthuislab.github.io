@@ -38,6 +38,8 @@ Ik heb zelf voor een Huawei omvormer gekozen, maar als mensen mij vragen naar de
 
 Bekijk ook ons overzicht van de [beste omvormers voor zonnepanelen](/posts/beste-omvormer-zonnepanelen-2026/) voor meer opties.
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Technologie: hoe werken ze?
 
 ### SolarEdge: String-omvormer + Power Optimizers

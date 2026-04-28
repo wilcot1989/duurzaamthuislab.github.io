@@ -52,6 +52,8 @@ In dit artikel reken ik door wat zonnepanelen voor jou opleveren in een wereld z
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## De formule die je moet kennen
 
 Het rendement van zonnepanelen na 2027 is geen mysterie. Het komt neer op één formule:

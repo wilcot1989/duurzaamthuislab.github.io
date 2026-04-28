@@ -36,6 +36,8 @@ products:
 
 Toen ik mijn 16 zonnepanelen kocht, betaalde ik 0% BTW en kon ik via de ISDE subsidie voor mijn thuisbatterij €5.400 terugkrijgen. Samen met de salderingsregeling die in 2026 nog volledig geldt, was de terugverdientijd verrassend kort. In deze gids zet ik alle financiele voordelen op een rij die je in 2026 kunt benutten — van rijkssubsidies tot gemeentelijke regelingen.
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Overzicht: Financiele Voordelen Zonnepanelen 2026
 
 | Regeling | Type | Bedrag / Voordeel | Status 2026 |

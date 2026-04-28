@@ -49,6 +49,8 @@ In dit artikel reken ik het volledig voor: wat je betaalt, welk materiaal het be
 
 ---
 
+
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 ## Waarom spouwmuurisolatie de eerste stap is
 
 Een ongeïsoleerde spouwmuur verliest gemiddeld 25-30% van alle warmte die een huis uitstraalt. In absolute cijfers:
