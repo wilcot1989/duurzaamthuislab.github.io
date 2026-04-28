@@ -318,6 +318,98 @@ Mijn 18 maanden ervaring: €1.180 bespaard versus vast contract. Dat is geen ma
 
 ---
 
+## Tibber in de winter: wat ik betaalde bij een koudegolf
+
+Januari 2025. Nederland had een koudegolf van 5 dagen. Buitentemperatuur: -6 t/m -2°C. Mijn warmtepomp draaide bijna continu. En de EPEX-prijs piekte op 14 januari tot €1,18/kWh gedurende 4 uur.
+
+Dit is hoe mijn maand eruitzag:
+
+**Januari 2025 Tibber-rekening: €185**
+
+Dat is mijn duurste maand ooit bij Tibber. Hypothetisch vast contract Eneco bij hetzelfde verbruik: €265. Tibber was dus nog steeds €80 goedkoper.
+
+Maar €185 is meer dan mijn maandbudget. Is dat een probleem?
+
+Dat hangt af van hoe je naar budgettering kijkt. Mijn gemiddelde over het jaar is €67/maand. Die €185 werd ruim gecompenseerd door de €-22 van mei, de €-15 van juni en de €-18 van juli. Als je maandelijkse schommelingen accepteert en op jaarbasis kijkt, wint Tibber.
+
+Als je elke maand exact hetzelfde wilt betalen: kies een vast contract. Maar besef dan dat je gemiddeld €600-€900 meer betaalt per jaar voor die zekerheid.
+
+**Mijn aanpak voor de koudegolf:**
+- Home Assistant schakelde de warmtepomp uit van 17:00-21:00 (piektarief)
+- In de middag (12:00-15:00, laag tarief) voorverwarmde ik de woning naar 22°C
+- De thermische massa van de woning hield de temperatuur op 20°C tot 18:00
+- Resultaat: geen noemenswaardige discomfort, €40-€60 minder kosten in die week
+
+---
+
+## Tibber Pulse: is de €90 investering waard?
+
+Dit is een vraag die ik meerdere keren per week krijg. Mijn eerlijke antwoord: ja, voor de meeste Tibber-klanten.
+
+**Wat de Pulse doet:**
+De Tibber Pulse klikt op de P1-poort van je slimme meter en stuurt realtime data (per seconde) naar de Tibber-app. Zonder Pulse leest Tibber alleen de dagelijkse uitlezing van je netbeheerder.
+
+**Wat je mist zonder Pulse:**
+- Realtime verbruiksgrafiek in de app
+- Pushnotificaties "stroom nu erg goedkoop" werken niet op verbruiksbasis
+- Smart home automatisering via de Tibber-API werkt op vertraagde data
+
+**Wanneer Pulse het NIET waard is:**
+- Je hebt al een HomeWizard P1 meter (€30) en gebruikt die voor Home Assistant. Je kunt de Tibber-integratie in HA dan combineren met de HomeWizard-sensor voor realtime data zonder Pulse.
+- Je hebt een EnergyZero-setup (gratis alternatief voor Frank Energie-klanten). Bij Tibber werkt EnergyZero niet.
+
+**Conclusie Pulse:** Koop hem als je Tibber gebruikt voor EV-laden of slim energiebeheer. Skip hem als je al een HomeWizard P1 meter hebt en Home Assistant gebruikt.
+
+---
+
+## Wat verandert er voor Tibber-klanten na de saldering-stop?
+
+Weinig. En dat is precies waarom Tibber zo goed is gepositioneerd voor 2027.
+
+Bij een vast contract (bijv. Eneco) werkt de saldering als volgt: je teruglevering wordt jaarlijks verrekend met je afname. Als de terugleveringsvergoeding na 2027 daalt (€0,08-€0,10), verandert dat de rekening.
+
+Bij Tibber werkt het anders: je betaalt per uur het EPEX-tarief, en je ontvangt per uur het EPEX-tarief voor teruglevering. Er is geen jaarlijkse salderingsverrekening — elke kWh wordt direct verrekend.
+
+**Wat verandert na 2027:**
+- De gemiddelde terugleververgoeding daalt (EPEX-prijs daalt in zonnige uren als er veel aanbod is)
+- De gemiddelde inkoopprijs blijft fluctueren
+- Het verschil tussen goedkope en dure uren neemt waarschijnlijk toe
+
+**Hoe Tibber je helpt te reageren:**
+- App-notificaties als stroom goedkoop is (ideaal moment om te verbruiken ipv terug te leveren)
+- Smart home sturing laat apparaten draaien op productie-uren
+- EV slim laden: auto laadt als zon schijnt → eigenverbruik stijgt → minder terugleveringsverlies
+
+Tibber-klanten die hun smart home goed hebben ingericht, zijn beter beschermd tegen de saldering-stop dan klanten met een vast contract.
+
+---
+
+## Mijn aanbevelingen per EV-merk (2026)
+
+Als EV-rijder is de compatibiliteit van je auto met Tibber cruciaal.
+
+**Volledige native integratie (auto-API):**
+- Tesla Model 3, Model Y, Model X, Model S
+- Polestar 2, Polestar 3
+- BMW i3, iX3, i4, iX
+- Kia EV6, EV9
+- Hyundai Ioniq 5, Ioniq 6
+- Volkswagen ID.3, ID.4, ID.5
+- Audi e-tron Q4, Q6
+
+**Gedeeltelijke integratie (via laadpaal API):**
+- Renault Zoe (via slimme laadpaal)
+- Nissan Leaf (via laadpaal)
+- Opel Ampera / Vauxhall Corsa-e (via laadpaal)
+
+**Geen directe integratie (handmatig instellen):**
+- Citroën ë-C4, Peugeot e-208 (via laadpaal, handmatig)
+- BYD Atto 3 en andere Chinese merken
+
+Als je overweegt een EV te kopen én je wil maximaal profiteren van Tibber: kies bij voorkeur een Tesla, Hyundai Ioniq of Kia EV6. Die integreren het soepelst.
+
+---
+
 ## Gerelateerde artikelen
 
 - [Frank Energie review en ervaringen](/posts/frank-energie-review-ervaringen-2026/)

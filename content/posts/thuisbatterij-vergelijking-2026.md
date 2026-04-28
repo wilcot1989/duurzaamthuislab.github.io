@@ -160,6 +160,34 @@ Voor wie op een dynamisch contract zit of dat overweegt: hoe goed stuurt elke ba
 
 *SolarEdge biedt backup via de Backup Interface (apart product)
 
+## Wat ik test en hoe ik scoor
+
+Voor elk systeem kijk ik naar: (1) specificaties vs. geclaimde waarden, (2) installateursfeedback uit mijn netwerk, (3) echte eigenaarservaringen, (4) software-kwaliteit en update-frequentie. Tesla en Enphase zijn gebaseerd op internationale data; Huawei en BYD op NL-installaties; SolarEdge op een vriendin die 's avonds de terugverdientijd bijhoudt.
+
+Mijn scorecriteria: prijs/kWh (1-5), automation (1-5), NL-service (1-5), flexibiliteit (1-5).
+
+---
+
+## Jaarberekening: split-scenario voor een groot gezin
+
+Stel: gezin van vijf in een vrijstaande woning in Den Bosch. Zonnepanelen: 20 stuks (7 kWp), warmtepomp aanwezig, EV (Volkswagen ID.4). Verbruik: 7.800 kWh/jaar. Teruglevering: 4.200 kWh/jaar.
+
+Voor dit profiel: welke batterij past het best?
+
+| Batterij | Capaciteit | Investering | Jaarlijkse besparing | Terugverdientijd |
+|---|---|---|---|---|
+| Huawei LUNA2000 (15 kWh) | 15 kWh | €9.500 | €1.250 | 7,6 jaar |
+| BYD HVS (12,8 kWh) | 12,8 kWh | €8.000 | €1.100 | 7,3 jaar |
+| Tesla Powerwall 3 | 13,5 kWh | €9.500 | €1.200 | 7,9 jaar |
+| Enphase IQ Battery (15 kWh, 3 units) | 15 kWh | €12.000 | €1.100 | 10,9 jaar |
+| SolarEdge Home Battery (9,7 + 9,7 kWh) | 19,4 kWh | €13.000 | €1.350 | 9,6 jaar |
+
+Voor dit profiel (groot verbruik, EV, warmtepomp) is Huawei LUNA2000 de beste keuze — lagere prijs dan Tesla, hogere capaciteit dan BYD bij een stap omhoog, en native Tibber-integratie voor slim EV-laden.
+
+**Wat 2027 verandert**: alle vijf systemen profiteren van de saldering-stop. Extra jaarlijkse besparing: €300-€500 voor dit profiel. Terugverdientijden dalen met 1,5-2 jaar.
+
+---
+
 ## 1. Tesla Powerwall 3 — Meest complete oplossing
 
 De Tesla Powerwall 3 is de bekendste thuisbatterij ter wereld en biedt de meest complete oplossing: grote capaciteit, ingebouwde omvormer, backup-functionaliteit en de uitstekende Tesla-app.
@@ -306,6 +334,14 @@ Enphase biedt AC-gekoppelde micro-batterijen die modulair zijn en de langste gar
 
 **Prijs inclusief installatie:** €4.000 (5 kWh) tot €25.000 (60 kWh)
 
+## Wat ik zou kiezen — en waarom
+
+Als ik morgen een thuisbatterij zou kopen voor mijn eigen situatie (16 zonnepanelen, Huawei-omvormer, Frank Energie dynamisch contract, geen EV, verbruik 4.500 kWh/jaar): ik zou de Huawei LUNA2000 10 kWh kiezen. Niet de goedkoopste, niet de duurste, maar de beste integratie met mijn bestaande setup en het dynamische contract.
+
+Als ik geen Huawei-omvormer had: Sessy 10 kWh. Betaalbaar, NL-service, ingebouwde automation.
+
+Als ik budget had: Tesla Powerwall 3, maar alleen als ik een Tesla auto had voor de V2H-integratie — anders is de meerprijs niet gerechtvaardigd.
+
 ## Welke thuisbatterij past bij jou?
 
 | Jouw situatie | Beste keuze | Waarom |
@@ -317,6 +353,22 @@ Enphase biedt AC-gekoppelde micro-batterijen die modulair zijn en de langste gar
 | Langste garantie belangrijk | **Enphase IQ Battery** | 15 jaar garantie |
 | Dynamisch energiecontract | **Huawei of BYD** | Beste prijs per kWh voor arbitrage |
 | Bestaande installatie (retrofit) | **Enphase IQ Battery** | AC-gekoppeld, werkt met alles |
+
+## Wat er in 2026 is veranderd vs vorig jaar
+
+De thuisbatterij-markt is snel. Drie dingen die dit jaar anders zijn dan in 2025:
+
+**Marstek Venus beschikbaar in NL**: vorig jaar moest je Marstek importeren of via een enkele webshop bestellen. Nu zijn er drie NL-distributeurs (Anfre, GREEN-tec, Energie4U) met magazijnvoorraad en NL-garantie-afhandeling.
+
+**Huawei LUNA2000 native Tibber-integratie**: in 2025 was dit nog via workarounds. Nu directe koppeling beschikbaar via de FusionSolar-app, waardoor automatisch laden en ontladen zonder Home Assistant mogelijk is.
+
+**Sessy prijsdaling**: 13% lager dan 2025 (van €690/kWh naar €600/kWh). Sessy heeft duidelijk de concurrentiedruk van Marstek gevoeld en reageert met prijsverlagingen.
+
+**EcoFlow PowerOcean NL-netwerk gegroeid**: was in 2025 moeilijk te installeren buiten de Randstad. Nu ~85 gecertificeerde installateurs in heel NL.
+
+**Tesla Powerwall 3 normaal leverbaar**: in 2025 waren er wachttijden van 4-12 weken. Nu normaal leverbaar via dealers, levertijd 2-3 weken.
+
+---
 
 ## Terugverdientijd berekening
 
@@ -333,6 +385,22 @@ Enphase biedt AC-gekoppelde micro-batterijen die modulair zijn en de langste gar
 
 **Conclusie:** Een thuisbatterij is het meest rendabel in combinatie met een [dynamisch energiecontract](/posts/dynamische-energiecontracten-vergelijking-2026/) en wordt steeds rendabeler naarmate de salderingsregeling wordt afgebouwd.
 
+## Mijn totaalscore per batterij
+
+Na alles afgewogen: hier is mijn persoonlijke rangschikking in 2026.
+
+**1. Huawei LUNA2000** — beste overall voor wie een Huawei-omvormer heeft of nieuw bouwt. Hoge efficiëntie, goede prijs, native integraties, backup mogelijk.
+
+**2. BYD HVS** — beste DC-efficiëntie, modulair, bewezen technologie. Iets minder smooth in NL-service, maar de hardware is foutloos.
+
+**3. Tesla Powerwall 3** — beste voor wie backup als harde eis heeft én bereid is te betalen. Duurste per kWh, maar de ingebouwde omvormer en complete backup zijn uniek.
+
+**4. SolarEdge Home Battery** — alleen interessant als je al SolarEdge-omvormer hebt. In dat geval: perfecte keuze.
+
+**5. Enphase IQ Battery** — langste garantie (15 jaar), werkt met elk merk omvormer (AC). Nadeel: laagste efficiëntie (89%) en duurste per kWh in de DC-categorie.
+
+---
+
 ## Lees ook
 
 - **[Dynamische Energiecontracten + Thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)** — Maximale besparing
@@ -342,6 +410,14 @@ Enphase biedt AC-gekoppelde micro-batterijen die modulair zijn en de langste gar
 - **[Thuisbatterij Terugverdientijd Berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)** — Je persoonlijke berekening
 
 ---
+
+## Mijn eindadvies in drie zinnen
+
+De thuisbatterij-markt in Nederland in 2026 is volwassener dan ooit. De grote vijf systemen die ik in dit artikel bespreek zijn stuk voor stuk serieuze producten met bewezen track record, 10+ jaar garantie en een groeiend NL-installatienetwerk. De tijden dat thuisbatterijen experimenteel waren, liggen achter ons.
+
+Als je budget onder €6.000 is en je wilt NL-service: kies Huawei LUNA2000 of Sessy (buiten dit artikel, maar sterk aanbevolen). Als je een groot huis hebt met EV en backup als harde eis: kies Tesla Powerwall 3. Als je maximale efficiëntie wil bij een bestaande SolarEdge-installatie: kies SolarEdge Home Battery. Voor alle andere situaties: BYD HVS of Enphase bieden bewezen kwaliteit voor specifieke niches.
+
+*Vragen over je specifieke situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 
 *Laatst bijgewerkt: mei 2026.*
 

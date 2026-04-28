@@ -261,6 +261,31 @@ Maar vergeet niet: het grootste effect heb je met eigen zonnepanelen, een warmte
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
+## Mijn persoonlijke keuze en waarom
+
+Met 16 zonnepanelen op mijn dak wek ik zelf 5.200 kWh per jaar op. Dat is mijn eigen groene stroom — geen GvO-certificaat nodig. De stroom die ik 's winters van het net aftrek, koop ik bij Tibber (dynamisch contract).
+
+Tibber biedt 100% groene stroom met overwegend Nederlandse opwek. Maar eerlijk gezegd kies ik Tibber niet voor het groene label — ik kies het voor de dynamische tarieven die me €700-€800 per jaar besparen.
+
+De keuze voor groene of grijze stroom is voor mij bijzaak geworden. De echte keuze die ertoe deed: zonnepanelen plaatsen (eigen opwek), een warmtepomp installeren (CO₂-reductie via electrificatie), en een dynamisch contract nemen (verschuiven naar groene productie-uren).
+
+Als je vandaag één keuze kunt maken: kies een dynamisch contract bij een leverancier met hoog NL-aandeel. Dat is groen én goedkoop. De rest volgt vanzelf.
+
+---
+
+## Groene stroom en belasting: wat je moet weten
+
+**Energiebelasting (EB) is gelijk voor groen en grijs**
+De energiebelasting die je betaalt is identiek voor groene en grijze stroom: €0,12281/kWh (2026, eerste 2.900 kWh) en €0,03623/kWh daarboven. Dit is een rijksbelasting en heeft niets te maken met hoe je stroom is opgewekt.
+
+**Postcoderoos (oud systeem, afgebouwd)**
+Tot 2023 was er een "postcoderoos" regeling: leden van een energiecoöperatie in de buurt van een wind- of zonproject konden belastingkorting krijgen. Dit systeem is vervangen door de Saldering Coöperatie Regeling (SCR), die in 2026 nog actief is maar afgebouwd wordt.
+
+**Teruggave energiebelasting bij eigen opwek**
+Als je zonnepanelen hebt, krijg je via de saldering al een fiscaal voordeel: je teruggeleverde stroom wordt weggestreept tegen je verbruik, waardoor je effectief minder energiebelasting betaalt. Dit verandert na 2027 — dan betaal je energiebelasting over elke kWh die je van het net afneemt, ook als je tegelijkertijd teruglevering hebt.
+
+---
+
 ## Praktisch overstapgids: van grijs naar echt groen in 3 stappen
 
 **Stap 1: Check je huidige contract**

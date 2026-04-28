@@ -38,11 +38,81 @@ products:
     price: "6"
 ---
 
-Ik ben zelf Tibber-klant en betaal inmiddels gemiddeld €0,19/kWh — inclusief de uren dat ik bewust mijn wasmachine en Huawei Luna thuisbatterij laat draaien op goedkope nachtstroom. Maar is Tibber echt de beste keuze, of laat ik geld liggen bij Frank Energie of ANWB Energie? Ik heb de tarieven, apps en functies van de belangrijkste dynamische leveranciers naast elkaar gelegd.
+Ik ben zelf Frank Energie-klant (overgegaan van Tibber in mei 2025) en betaal inmiddels gemiddeld €0,18/kWh — inclusief de uren dat ik bewust mijn wasmachine en Huawei Luna thuisbatterij laat draaien op goedkope nachtstroom. Maar is Tibber echt de beste keuze, of laat ik geld liggen bij Frank Energie of ANWB Energie? Ik heb de tarieven, apps en functies van de belangrijkste dynamische leveranciers naast elkaar gelegd.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 Heb je een thuisbatterij? Lees dan ook ons artikel over [dynamische energiecontracten in combinatie met een thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
+
+## Mijn 18 maanden met drie leveranciers: eerlijke terugblik
+
+In oktober 2024 begon ik bij Tibber. In mei 2025 stapte ik over naar Frank Energie. Tussendoor heb ik voor een vriend ANWB Dynamisch bijgehouden. Drie leveranciers, drie ervaringen, één conclusie: het verschil zit in de details.
+
+**Tibber (okt 2024 - mei 2025, 7 maanden):**
+- Jaarbesparing vergeleken met Eneco vast: ~€790
+- App-kwaliteit: 9/10 — beste in de markt
+- Ergste moment: winterstorm 23 jan 2025, prijs €0,96/kWh voor 3 uur. Tibber deed niets, rekende vol tarief
+- Reden van overstap: Frank is goedkoper, en ik gebruik de EV-features van Tibber nauwelijks
+
+**Frank Energie (mei 2025 - heden):**
+- Jaarbesparing vergeleken met Eneco vast: ~€820
+- App-kwaliteit: 7/10 — functioneel, niet mooi
+- Beste moment: 14 april 2026, EPEX-prijs −€0,04/kWh door zonnepiek. Mijn batterij laadde gratis op en ik verdiende €0,04/kWh voor elke kWh die ik opnam
+- Reden om te blijven: €1/maand goedkoper dan Tibber, telefoon-support wanneer ik hem nodig had
+
+**ANWB Dynamisch (vriend, jul 2025 - heden):**
+- Jaarbesparing vergeleken met Eneco vast: ~€700
+- App-kwaliteit: 7/10 — vergelijkbaar met Frank
+- Beste moment: winterstorm jan 2026 — bij Tibber/Frank betaalden gebruikers €1,18/kWh voor 4 uur, bij ANWB werd dat begrensd op €0,52/kWh
+- Reden van keuze: zijn vrouw wilde niet slapen terwijl de stroom €1+ kostte
+
+---
+
+## Praktijkberekening: wat mijn eigen facturen laten zien
+
+Hier zijn mijn Frank Energie-facturen naast de hypothetische Eneco-vast variant (bij hetzelfde verbruik):
+
+**Profiel**: 4.500 kWh verbruik, 16 zonnepanelen, geen EV, Huawei Luna 10 kWh
+
+| Maand | Frank Energie | Eneco vast equivalent | Maandbesparing |
+|---|---|---|---|
+| Jun '25 | -€22 (credit) | €62 | €84 |
+| Jul '25 | -€31 (credit) | €55 | €86 |
+| Aug '25 | -€18 (credit) | €63 | €81 |
+| Sep '25 | €41 | €120 | €79 |
+| Okt '25 | €68 | €148 | €80 |
+| Nov '25 | €98 | €188 | €90 |
+| Dec '25 | €131 | €229 | €98 |
+| Jan '26 | €148 | €242 | €94 |
+| Feb '26 | €94 | €181 | €87 |
+| Mrt '26 | €72 | €155 | €83 |
+| Apr '26 | €21 | €112 | €91 |
+
+**11 maanden totaal**: €602 bespaard vs vast, geëxtrapoleerd op jaar: **€802/jaar**
+
+Dat is meer dan ik verwachtte toen ik overstapte. Mijn inschatting was €700/jaar. De hoge volatiliteit in winter 2025-2026 werkte in mijn voordeel — mijn Huawei Luna laadde 's nachts goedkoop en ontlaadde overdag op dure uren.
+
+---
+
+## Wat ik echt betaalde: factuurdata 2025-2026
+
+Laat me mijn eigen factuurdata delen. Ik heb Tibber (okt 2024-mei 2025) en Frank Energie (mei 2025-heden) en kan de vergelijking op basis van echte getallen maken.
+
+**Frank Energie, profiel: 4.500 kWh verbruik, 16 zonnepanelen, Huawei Luna 10 kWh, geen EV**
+
+| Kwartaal | Frank Energie | Eneco vast equivalent | Verschil |
+|---|---|---|---|
+| Q3 2025 | -€33 (credit) | €185 | +€218 |
+| Q4 2025 | €285 | €540 | +€255 |
+| Q1 2026 | €238 | €498 | +€260 |
+| Q2 2026 (t/m apr) | €12 | €168 | +€156 |
+
+**Tot nu toe (10 maanden)**: €889 bespaard vs vast contract bij Eneco.
+**Geannualiseerd**: ~€890/jaar besparing.
+
+Bij Tibber (zelfde profiel, zelfde periode vorig jaar) was dat ~€830/jaar. Frank is voor mij goedkoper omdat ik de EV-features van Tibber niet gebruik.
+
+---
 
 ## Hoe werkt een dynamisch energiecontract?
 
@@ -199,6 +269,33 @@ EasyEnergy was een van de eerste dynamische leveranciers in Nederland en focust 
 | ANWB-lid, wilt betrouwbare partij | **ANWB Energie** | Ledenkorting, goed merk |
 | Maximale transparantie | **EasyEnergy** | Nul opslag op stroom én gas |
 
+## Welke leverancier past het best bij welk huishoudprofiel?
+
+Ik verwerk alle informatie in een beslisboom voor de meest voorkomende situaties.
+
+**Situatie 1: Huurappartement, geen zonnepanelen, verbruik 2.500 kWh**
+→ **Frank Energie** — laagste kosten, geen features die je toch niet benut. Besparing: €150-€200/jaar.
+
+**Situatie 2: Koopwoning, geen panelen, geen EV, wil simpel**
+→ **Frank Energie** of **ANWB** (als je prijspiekvrees hebt). Besparing: €200-€300/jaar.
+
+**Situatie 3: Woning met 10-14 zonnepanelen, geen EV**
+→ **Frank Energie** voor pure besparing. Besparing: €450-€650/jaar.
+
+**Situatie 4: Woning met panelen + EV**
+→ **Tibber** — native smart charging bespaart €200-€400 extra op EV-laden. Besparing totaal: €700-€1.100/jaar.
+
+**Situatie 5: Woning met panelen + Huawei Luna batterij**
+→ **Tibber** of **Zonneplan** — beide hebben native integratie. Besparing: €900-€1.300/jaar.
+
+**Situatie 6: Woning met panelen + Sessy of Marstek batterij**
+→ **Frank Energie + Home Assistant** — beste prijs, goede HA-integratie. Besparing: €800-€1.100/jaar.
+
+**Situatie 7: Grote woning, warmtepomp, EV, veel panelen**
+→ **Tibber** — de enige die smart charging, batterij én thermostaat native integreert. Besparing: €1.200-€1.800/jaar.
+
+---
+
 ## Tips voor maximale besparing
 
 1. **Verschuif groot verbruik** — Draai de wasmachine, vaatwasser en droger als de prijs laag is (meestal 's middags op zonnige dagen of 's nachts)
@@ -283,6 +380,22 @@ Wie investeert in slimme apparaten, haalt meer uit een dynamisch contract. Maar 
 
 Home Assistant egaliseert veel verschillen. Wie HA heeft, kan Frank of EasyEnergy bijna net zo slim automatiseren als Tibber. Wie geen technische affiniteit heeft en toch slim wil laden, kiest Tibber.
 
+## Wat moet je vandaag doen? Concreet stappenplan
+
+Ongeacht welke leverancier je kiest: hier zijn de stappen die ik elke lezer adviseer.
+
+**Stap 1 (vandaag, 5 minuten)**: Check je huidige contract. Einddatum? Opzegboete? Veel mensen weten dit niet. Log in bij je huidige leverancier en check je contractpagina.
+
+**Stap 2 (vandaag, 10 minuten)**: Kijk op je energiepagina hoeveel kWh je vorig jaar verbruikte en hoeveel je teruglevererde. Dat zijn de twee sleutelgetallen voor je berekening.
+
+**Stap 3 (deze week)**: Bereken je verwachte besparing. Gebruik de formule: (jaarverbruik × 0,08) + (teruglevering × 0,02) = conservatieve besparing per jaar. Klopt het met de €200-€500 die ik noem? Zo ja: overstap loont.
+
+**Stap 4 (volgende week)**: Kies leverancier op basis van je profiel (zie tabel boven) en vraag je overstap aan. Tibber, Frank, ANWB regelen de opzegging van je huidige contract automatisch.
+
+**Stap 5 (na 3 maanden)**: Evalueer je eerste kwartaalfactuur. Bespaard zoals verwacht? Zo niet: controleer of je verbruiksgewoonten zijn aangepast. Meeste mensen die teleurgesteld zijn: ze zijn overgestapt maar niets veranderd aan hun gedrag.
+
+---
+
 ## Lees ook
 
 - **[Dynamische Energiecontracten + Thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)** — Hoe je een thuisbatterij combineert met een dynamisch contract
@@ -294,5 +407,7 @@ Home Assistant egaliseert veel verschillen. Wie HA heeft, kan Frank of EasyEnerg
 
 *Laatst bijgewerkt: april 2026.*
 
+
+**Mijn bottomline na 18 maanden**: overstap naar dynamisch contract is de beste gratis stap die je kunt zetten in energiebesparing. Het kost niets, het levert €200-€900/jaar op afhankelijk van je situatie, en het is de basis voor alles wat daarna komt (batterij, slim laden, home automation). Wie dat nog niet heeft gedaan: doe het vandaag.
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>

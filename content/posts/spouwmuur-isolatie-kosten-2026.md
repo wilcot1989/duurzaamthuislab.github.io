@@ -358,6 +358,84 @@ Ik heb het in mijn eigen tussenwoning (1978) laten doen met glasvlokken: kosten 
 
 ---
 
+## Hoe lang duurt spouwmuurisolatie? Mijn eigen ervaring
+
+In mijn eigen tussenwoning (bouwjaar 1978, 82 m² spouwmuur) liet ik in september 2024 glasvlokken inblazen. Dit is hoe de dag verliep.
+
+**08:30** — Twee man van het installatiebedrijf arriveren met een bestelauto vol materiaal. Ze inspecteren eerst de gevel met een endoscoop via een proefgaatje: spouw 65 mm, droog, geen bestaande isolatie. Groen licht.
+
+**08:45** — Ze starten met het boren van gaten (18 mm) langs de gevel op een onderlinge afstand van 50 cm. Het boren geeft meer stof dan lawaai. Ik hang een doek voor de meterkastdeur om stof binnen te houden. De buurman hoort niets.
+
+**09:30** — De inblaasmachine gaat aan. Glasvlokken worden via slangen door de gaten in de spouw geblazen. Er is een licht zoemend geluid, vergelijkbaar met een krachtige stofzuiger. Van buiten is weinig te zien.
+
+**10:45** — De gaten worden gedicht met mortel in de kleur van mijn gevel (ze hadden een monster genomen bij de offerte-aanvraag). Na droging zijn de gaten nauwelijks zichtbaar — ik moest echt zoeken om ze te vinden.
+
+**11:00** — Klaar. Schoonmaken duurt 15 minuten. Ze leveren een installatierapport met het KOMO-certificaatnummer, dat ik nodig heb voor de ISDE-aanvraag.
+
+**Totale overlast:** minimaal. De installatie duurde 2,5 uur. Ik kon gewoon thuiswerken.
+
+**Resultaat eerste winter (2024-2025):** gasverbruik daalde van 1.720 m³ (2023) naar 1.310 m³ (2024, vergelijkbare buitentemperaturen). Besparing: 410 m³ × €1,10 = **€451 per jaar**. Netto investering was €1.380 (glasvlokken, 82 m², na ISDE). Terugverdientijd: **3,1 jaar**.
+
+---
+
+## Vragen die ik regelmatig krijg over spouwmuurisolatie
+
+**"Kan mijn buurman mij dwingen om mee te doen?"**
+Bij rijtjeshuizen heeft iedere eigenaar zijn eigen buitenmuur. Je kunt dus onafhankelijk van je buren spouwmuurisolatie laten plaatsen. Je hebt wel toestemming van je buurman nodig als de installateur tijdelijk op diens terrein moet werken (bijv. voor een steiger).
+
+**"Wat als de spouwmuur al deels geïsoleerd is?"**
+Sommige woningen uit 1975-1985 hebben een gedeeltelijk geïsoleerde spouwmuur: isolatie in de bovenverdiepiing maar niet op de begane grond, of andersom. Een endoscoop-inspectie maakt dit direct zichtbaar. Kosten endoscoop: €0-€50 bij de meeste installateurs (gratis bij offerte-aanvraag).
+
+**"Hoeveel geluid dempt spouwmuurisolatie?"**
+Geluidsdemping is een bijproduct van spouwmuurisolatie, maar niet het doel. EPS-parels dempen geluidsoverdracht via de gevel licht (3-5 dB verbetering). PUR-schuim iets meer. Dit is merkbaar bij straat- of burenlawaai maar niet dramatisch. Als geluidsdemping het hoofddoel is, zijn akoestische voorzieningen (extra spouw, geluidsabsorberende materialen) een betere keuze.
+
+**"Moet ik de spouw laten inspecteren bij aankoop van een woning?"**
+Absoluut. Vraag bij de notaris of er een rapport over de spouwmuur beschikbaar is. Als de vorige eigenaar isolatie heeft laten plaatsen, is er (hopelijk) een installatierapport met bewijs van KOMO-certificering. Ontbreekt dat, dan is de kans aanwezig dat de isolatie niet correct is uitgevoerd of niet voor ISDE in aanmerking komt.
+
+---
+
+## Vergelijking: spouwmuurisolatie vs andere maatregelen
+
+Om in perspectief te plaatsen waarom ik spouwmuurisolatie altijd als eerste adviseer, vergelijk ik de opties voor een doorsnee tussenwoning.
+
+| Maatregel | Netto investering | Gasbesparing/jaar | TVT |
+|-----------|------------------|------------------|-----|
+| Spouwmuurisolatie | €1.200-€1.440 | €370-€500 | **2,5-3,5 jaar** |
+| Vloerisolatie kruipruimte | €1.600-€2.000 | €150-€250 | 6-10 jaar |
+| Dakisolatie plat | €3.500-€5.000 | €300-€450 | 8-12 jaar |
+| HR++ glas (8 m²) | €2.440 | €80-€120 | 18-25 jaar |
+| Hybride warmtepomp | €3.000-€4.000 na ISDE | €600-€900 | 4-6 jaar |
+| Zonnepanelen (10 stuks) | €5.200 | Stroom €800-€1.000 | 5-7 jaar |
+
+**Conclusie:** Spouwmuurisolatie heeft veruit de kortste terugverdientijd. Wie maar één maatregel kan betalen, kiest spouwmuurisolatie. Wie meer kan doen, begint met spouwmuur en voegt daarna dakisolatie + warmtepomp toe.
+
+---
+
+## Spouwmuurisolatie in combinatie met andere maatregelen
+
+Spouwmuurisolatie is de eerste stap — maar de besparing stapelt op als je combineert.
+
+**Combinatie 1: spouwmuur + dakisolatie**
+De meest rendabele combinatie. Spouwmuur adresseert de zijdelingse warmteverlies, dakisolatie het verlies via het dak. Samen reduceren ze de warmtevraag met 40-50%. ISDE-combinatiebonus: €750 extra.
+
+Praktijkvoorbeeld: tussenwoning 1972, Groningen.
+- Spouwmuur 80 m², EPS: kosten €1.600, ISDE €400, netto €1.200
+- Dakisolatie 60 m², Rc 6,0: kosten €5.800, ISDE €2.800, netto €3.000
+- Combinatiebonus: -€750
+- **Totale netto investering: €3.450**
+- Gasbesparing: 45% × 1.900 m³ × €1,10 = **€940/jaar**
+- **Terugverdientijd: 3,7 jaar**
+
+**Combinatie 2: spouwmuur + hybride warmtepomp**
+Spouwmuurisolatie verlaagt de warmtevraag, waardoor de warmtepomp een groter deel van de verwarming voor zijn rekening kan nemen. Vuistregel: elke 1°C lagere aanvoertemperatuur verhoogt de COP van een warmtepomp met 2-3%. Spouwmuurisolatie verlaagt de benodigde aanvoertemperatuur van 65°C naar 55-60°C in veel woningen — dat verbetert de COP met 5-8%.
+
+ISDE-bonus bij combinatie warmtepomp + isolatie: €500-€1.000 extra bovenop individuele bedragen.
+
+**Combinatie 3: spouwmuur + zonnepanelen**
+Minder direct verband, maar strategisch slim. Isolatie verlaagt je energieverbruik; zonnepanelen verlagen je netto energierekening. In combinatie komt een tussenwoning snel op label B of A, wat hypotheekvoordeel oplevert.
+
+---
+
 ## Gerelateerde artikelen
 
 - [Dakisolatie kosten 2026: wat betaal je voor plat en schuin dak?](/posts/dakisolatie-kosten-2026/)

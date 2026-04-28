@@ -48,6 +48,39 @@ In januari 2026 kocht een collega van mij een Marstek Venus E 8,2 kWh voor €2.
 
 ---
 
+## Waarom Marstek zo interessant is — en waarom ik sceptisch begon
+
+Toen mijn collega me in januari 2026 vertelde dat hij een €2.299 Chinese thuisbatterij had besteld, was mijn eerste reactie: "Goedkoop is duurkoop." Ik associeerde Chinese energieproducten met korte levensduur, slechte service en verdachte veiligheidscertificaten.
+
+Vier maanden later was ik verrast. Niet omdat Marstek perfect is — dat is het niet — maar omdat het zo consistent beter presteert dan de prijs suggereert.
+
+De echte vraag is niet "is Marstek goed?" maar "voor wie is Marstek de juiste keuze versus Sessy, Zonneplan of Tesla?"
+
+---
+
+## Marstek Venus E vs Sessy vs Zonneplan vs Tesla: de complete vergelijkingstabel
+
+Laat ik beginnen met wat de meeste mensen willen: een eerlijke zij-aan-zij-vergelijking van alle relevante aspecten.
+
+| Eigenschap | Marstek Venus E | Sessy 10 kWh | Zonneplan 10 kWh | Tesla Powerwall 3 |
+|---|---|---|---|---|
+| **Prijs** | €2.679 (incl. install.) | €5.995 | €6.995 koop / €54/mnd lease | €9.500 |
+| **Prijs/kWh** | €326/kWh | €600/kWh | €700/kWh | €704/kWh |
+| **Capaciteit** | 8,2 kWh | 10 kWh | 10 kWh | 13,5 kWh |
+| **Vermogen** | 3 kW continu | 2,5 kW | 3 kW | 5 kW |
+| **Garantie** | 10 jaar | 10 jaar | 10 jaar | 10 jaar |
+| **Service** | 4-8 weken (EU) | 3-5 dagen (NL) | 5 werkdagen (NL) | Via dealer |
+| **Backup** | Optioneel +€120 | Handmatig, 1 groep | Automatisch | Volledig automatisch |
+| **Home Assistant** | ✅ Native (mrt 2026) | Beperkt | ❌ | Beperkt |
+| **NL-markt integratie** | App + EnergyZero | Native NL-trading | Radar-algoritme | Via 3rd party |
+| **Modulair** | Tot 24 kWh | Tot 20 kWh | 2e unit bijplaatsen | 2e unit bijplaatsen |
+| **Terugverdientijd** | 3,3-3,5 jaar | 6,9-7,5 jaar | 7,9-8,5 jaar | 9,9-10,5 jaar |
+| **10-jaar netto winst** | ~€5.500 | ~€2.700 | ~€1.800 | ~€100 |
+
+De tabel vertelt het verhaal duidelijk: Marstek wint op prijs, terugverdientijd en open API. Verliest op service-snelheid, premium-gevoel en NL-integratie.
+
+---
+
 ## Wat is Marstek?
 
 Marstek Energy is een Chinese fabrikant van energie-opslagsystemen, opgericht in 2009 in Shenzhen. EU-aanwezigheid sinds 2023. Hun pitch: enterprise-grade batterijtechnologie tegen consumenten-prijzen, zonder installateur tussenpartij.
@@ -334,6 +367,61 @@ Venus A koppelt AC (stopcontact), niet DC. Zonnepanelen leveren via omvormer →
 
 **Kan Marstek werken met een vast energiecontract?**
 Technisch ja, maar het arbitrage-voordeel (€400-€500/jaar) verdwijnt. Je houdt het eigen-verbruik-voordeel (€200-€300/jaar). Terugverdientijd wordt daarmee 8-10 jaar ipv 3-4. Niet rationeel — haal tegelijk een dynamisch contract.
+
+---
+
+## Saldering-stop 2027 en de Marstek-strategie
+
+Per 1 januari 2027 stopt de salderingsregeling. Dit verandert de businesscase voor elke thuisbatterij, maar voor Marstek in het bijzonder op een gunstige manier.
+
+**Mijn collega's situatie voor de saldering-stop:**
+- Teruglevering: 2.300 kWh/jaar
+- Waarde via saldering: ~€0,31/kWh = €713/jaar
+- Na 2027: ~€0,07/kWh = €161/jaar
+- Verlies: **€552/jaar**
+
+**Met Marstek Venus E:**
+- Absorbeert 1.800-2.000 kWh van die teruglevering als eigenverbruik
+- Restteruglevering: ~300 kWh (waarde €21/jaar ipv €93/jaar)
+- Batterij bespaart hem de meeste van die €552 verlies
+
+**Effectieve besparing 2027+**: €1.050-€1.200/jaar
+
+Bij een investering van €2.679 en €1.050-€1.200 jaarlijkse besparing na 2027:
+**Terugverdientijd met 2027-data: 2,3-2,6 jaar**
+
+Dat is ongekend. Geen enkele andere thuisbatterij in de Nederlandse markt haalt dat. De lage instapprijs van Marstek maakt deze business case zo scherp.
+
+**Wanneer kopen?**
+
+Mijn collega kocht in januari 2026. Hij heeft nog 12 maanden saldering gevolgd door substantieel hogere post-2027 besparing. Dat is de optimale timing.
+
+Wie wacht tot na 2027: mist 12 maanden besparing, betaalt mogelijk 5-10% meer door piekvraag op installatiecapaciteit Q4 2026 / Q1 2027.
+
+---
+
+## Extended FAQ: de meest gestelde vragen over Marstek
+
+**Werkt Marstek bij een slecht geaarde installatie?**
+Nee. Marstek Venus E vereist een geaard stopcontact of meterkastgroep. Bij een oudere woning zonder aard of met onvoldoende groepscapaciteit: laat dit eerst aanpassen door een elektricien. Kosten: €150-€400. Telt mee in je investering.
+
+**Kan ik Marstek combineren met een omvormer-brand X?**
+Venus E koppelt AC (achter de meter), dus omvormer-merk is irrelevant. Elk type omvormer — Huawei, SolarEdge, SMA, Enphase — werkt. Dat is een voordeel vs DC-gekoppelde systemen die aan één merk vastzitten.
+
+**Hoe update ik de firmware?**
+Via de Marstek-app automatisch. Gemiddeld 1-2 grote firmware-updates per jaar. Mijn collega heeft tot nu toe geen storing gehad door een update. Kritisch punt: automatische updates zijn standaard aan — wie een stabiele productiesysteem wil: zet auto-update uit en update handmatig na review.
+
+**Wat als ik verhuis?**
+Venus E is verplaatsbaar. Demontage: 1 uur door elektricien (~€150). Herinstallatie: 1,5 uur (~€250). Totaal €400 herinstallatie — goedkoper dan lease te stoppen en opnieuw te beginnen. Plus: de batterij behoudt zijn restwaarde.
+
+**Wat is de resale-waarde na 5 jaar?**
+Moeilijk te voorspellen. LFP-batterijen in 2026 hebben een groeiende secundaire markt (Marktplaats, speciaalzaak). Schatting: €700-€1.100 voor een Venus E na 5 jaar bij 80%+ capaciteit. Dat is ~30-40% van de aanschafprijs.
+
+**Kan Marstek stroom leveren bij netuitval?**
+Niet standaard. Je hebt een aparte transferschakelaar nodig (+€120). Die schakel je handmatig om bij netuitval. Volledig automatisch is dit niet. Als dit voor jou kritiek is: kies Tesla Powerwall of Zonneplan.
+
+**Hoe lang duurt de levering?**
+Vanuit NL-distributeur (Anfre, GREEN-tec): 2-5 werkdagen. Vanuit directe import uit China: 3-6 weken. Koop altijd via NL-distributeur voor garantie en snelle levering.
 
 ---
 

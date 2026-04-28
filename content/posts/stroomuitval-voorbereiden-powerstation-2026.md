@@ -328,5 +328,87 @@ En vergeet niet: het beste moment om je voor te bereiden is voordat je het nodig
 
 Bekijk ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor alle opties. Heb je een camper of ga je regelmatig kamperen? Lees dan ook onze gids [Beste powerstation voor camping 2026](/posts/beste-powerstation-camping-2026/).
 
+---
+
+## Wanneer is een aggregaat beter dan een powerstation?
+
+Dit is een eerlijke vraag die ik regelmatig krijg. Er zijn situaties waarin een benzine-aggregaat gewoon de betere keuze is.
+
+**Aggregaat is beter als:**
+- Je meer dan 3.000W continu vermogen nodig hebt (bijv. voor een werkplaats of boerderij)
+- De stroomuitval meerdere dagen kan duren en je geen zonnepaneel hebt
+- Je budget beperkt is en je al een garage hebt waar het buiten kan staan
+- Je al een aggregaat hebt en alleen een extra reserve nodig hebt
+
+**Powerstation is beter als:**
+- Je in een appartement of rijtjeshuis woont (aggregaat buiten niet veilig te gebruiken)
+- Je snel en stil wil overschakelen (aggregaat start pas na handmatig starten)
+- Je medische apparatuur hebt die een zuivere sinusgolf vereist
+- Je ook buiten thuis het station wil gebruiken (camping, festival, werk)
+- Je het station wil koppelen aan zonnepanelen voor autonomie
+
+**Kosten vergelijking over 5 jaar:**
+
+| Factor | Aggregaat 2.500W | EcoFlow Delta 2 Max |
+|--------|-----------------|---------------------|
+| Aanschaf | €400-€700 | €1.799 |
+| Brandstof (3 storingen/jaar, 6 uur) | €90/jaar = €450 | €0 |
+| Onderhoud (olie, bougie) | €50/jaar = €250 | €0 |
+| Opslag (brandstof risico) | Complicerend | Geen |
+| **Totaal 5 jaar** | **€1.100-€1.400** | **€1.799** |
+
+Het aggregaat is na 5 jaar nog steeds goedkoper. Maar je koopt ook: lawaai, uitlaatgassen, handmatig starten, geen zonne-oplading, en de mentale belasting van brandstof bijhouden.
+
+Voor stedelijke huishoudens is een powerstation bijna altijd de betere keuze. Voor een boerderij in een gebied met regelmatige lange storingen: aggregaat wint op totaalkosten.
+
+---
+
+## Jaarberekening: wat kost stroomuitval zonder voorbereiding?
+
+Ik reken de financiële schade van onvoorbereide stroomuitval door voor een gemiddeld huishouden.
+
+**Stroomuitval van 6 uur in de zomer (koelkast + vriezer + ongemak)**
+
+| Schadepost | Kosten |
+|-----------|--------|
+| Vriezerverlies (deels ontdooiing): gemiddeld | €80-€120 |
+| Koelkastinhoud (gedeeltelijk bederf) | €30-€60 |
+| Hotelkosten bij langer uitval + CPAP-gebruiker | €80-€150 per nacht |
+| Werkproductiviteitsverlies (thuiswerker, 6 uur) | €150-€300 |
+| Verlies thuisbeveiligingssysteem (alarm uit) | Variabel |
+| **Totaal potentiële schade** | **€340-€630** |
+
+Bij een powerstation van €649 (Bluetti AC70) vermijd je deze schade volledig bij elke stroomstoring. De investering betaalt zichzelf terug bij één serieuze storing.
+
+---
+
+## Wettelijk kader 2026: wanneer heb je recht op schadevergoeding?
+
+**Recht op schadevergoeding bij stroomuitval:**
+Netbeheerders zijn wettelijk verplicht een schadevergoeding te betalen als de stroomstoring voldoet aan specifieke criteria:
+- Storing langer dan 4 uur: recht op vergoeding van €35-€135 per dag (afhankelijk van doorlooptijd)
+- Storing door overmacht (storm, watersnood): geen vergoeding
+- Storing door technisch falen of slecht onderhoud: wel vergoeding
+
+**Meldingsprocedure:** Bij een storing langer dan 4 uur meld je dit schriftelijk bij je netbeheerder. Je hebt 3 jaar de tijd voor een claim. In 2025 keerden Liander en Enexis samen €2,4 miljoen uit aan compensaties voor lange storingen.
+
+**Aansprakelijkheid bij schade aan apparaten:**
+Als een netbeheerder een spanningspiek veroorzaakt die jouw apparaat beschadigt, kun je schade verhalen via de netbeheerder. Dit vereist een technisch rapport en aankoopbewijs. Met een powerstation en een goede UPS-bescherming vermijd je dit volledig.
+
+---
+
+## Slim opslaan en onderhouden van je powerstation
+
+**Opslagtemperatuur:** Bewaar je powerstation bij 10-25°C. Koude bewaarplaats (garage in winter) is prima, maar laat hem niet bevriezen. Hitte (boven 35°C langdurig) versnelt degradatie.
+
+**Laadniveau voor opslag:** LiFePO4 powerstations worden het best bewaard bij 40-60% lading. Volledig laden voor langdurige opslag is niet ideaal.
+
+**Onderhoudslading:** Laad de powerstation elke 3-4 maanden bij tot 60% als je hem niet actief gebruikt. Stel een herinnering in op je telefoon.
+
+**Periodieke test:** Test de UPS-functie jaarlijks: sluit een apparaat aan, laad de powerstation op, trek dan de stekker uit het stopcontact — controleer of het apparaat doorwerkt.
+
+**Firmware updates:** Voer firmware updates uit via de app als ze beschikbaar zijn. Updates verbeteren soms de laadefficiëntie en de UPS-schakelsnelheid.
+
+---
 
 <a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

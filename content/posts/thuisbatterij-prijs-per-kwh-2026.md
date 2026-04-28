@@ -196,6 +196,20 @@ Voor wie warmtepomp + EV + inductie tegelijk gebruikt: kies hoger vermogen, dus 
 | Tesla Powerwall (Pack-update vs 3) | €820 | €750 | €704 | -14% over 2 jaar |
 | Zonneplan | €820 | €760 | €700 | -15% over 2 jaar |
 
+## Vergelijkingstabel: prijs/kWh per merk over de jaren
+
+Prijsontwikkeling per merk helpt je begrijpen of je nu op een goed moment zit of beter kunt wachten.
+
+| Merk | 2024 | 2025 | 2026 | Prognose 2027 | Prognose 2028 |
+|---|---|---|---|---|---|
+| Marstek Venus E | n.v.t. | €389/kWh | €326/kWh | €290/kWh | €260/kWh |
+| Sessy 10 kWh | €750/kWh | €690/kWh | €600/kWh | €530/kWh | €480/kWh |
+| Huawei Luna 2000 | €680/kWh | €620/kWh | €550/kWh | €490/kWh | €440/kWh |
+| BYD Battery-Box | €700/kWh | €640/kWh | €569/kWh | €510/kWh | €460/kWh |
+| Tesla Powerwall 3 | €820/kWh | €750/kWh | €704/kWh | €640/kWh | €580/kWh |
+
+Dalingstempo: 10-15% per jaar bij de meeste merken. Maar het is geen lineaire daling — in periodes van hoge vraag (rondom saldering-stop) kan de daling tijdelijk stagneren of zelfs omkeren.
+
 ## Wanneer is het beste moment om te kopen?
 
 Dit is de cruciale vraag — en de saldering-stop maakt het complex.
@@ -251,6 +265,45 @@ In de aanloop naar 1-1-2027 verwacht ik tijdelijk prijsstijging van 5-10% op pop
 
 ---
 
+## Hoeveel invloed heeft prijs/kWh op de terugverdientijd — exact uitgerekend
+
+Ik reken uit hoe de prijs/kWh de terugverdientijd beïnvloedt, bij gelijke jaarlijkse besparing van €800/jaar (realistisch bij dynamisch contract, 10 kWh batterij):
+
+| Prijs/kWh | Totaalprijs (10 kWh) | Terugverdientijd (€800/jr) | Netto na 10 jaar |
+|---|---|---|---|
+| €326/kWh (Marstek) | €3.260 | 4,1 jaar | €4.740 winst |
+| €400/kWh (tussensegment) | €4.000 | 5,0 jaar | €4.000 winst |
+| €550/kWh (Huawei Luna) | €5.500 | 6,9 jaar | €2.500 winst |
+| €600/kWh (Sessy) | €6.000 | 7,5 jaar | €2.000 winst |
+| €700/kWh (Zonneplan/EcoFlow) | €7.000 | 8,75 jaar | €1.000 winst |
+| €704/kWh (Tesla) | €7.040 | 8,8 jaar | €960 winst |
+
+Let op: ik gebruik dezelfde besparing (€800/jaar) voor alle systemen. In werkelijkheid bespaart Tesla iets meer dankzij grotere capaciteit (13,5 kWh). Maar het fundamentele patroon blijft: de prijs/kWh is de dominante variabele voor het netto resultaat.
+
+**Vuistregel**: elke €100/kWh minder prijs = circa 1 jaar kortere terugverdientijd, bij gemiddelde besparing.
+
+---
+
+## Wat de prijs per kWh je niet vertelt — en wat je ook moet meten
+
+Prijs/kWh is de beste enkelvoudige vergelijkingsmaatstaf, maar hij mist drie dingen.
+
+**1. Opportunity cost van het vermogen**
+
+Een 2,5 kW batterij (Sessy) is goedkoper te bouwen dan een 5 kW batterij (Tesla). Maar wie een warmtepomp, inductie en vaatwasser tegelijk draait, heeft 4-5 kW nodig. Als je een 2,5 kW batterij koopt terwijl je 4 kW nodig hebt, betaal je per kWh correct maar mis je 40% van het besparingspotentieel.
+
+**2. Software-waarde**
+
+Een Sessy-batterij verdient door zijn native NL-markt-trading-algoritme €100-€200/jaar extra ten opzichte van een kale batterij. Die software is niet zichtbaar in de prijs/kWh, maar is reëel geld.
+
+**3. Service-risicopremie**
+
+Als Marstek defect gaat en 6 weken wacht op garantieafhandeling: bij een winterpiek-periode mis je €350-€500 arbitrage. Bij Sessy: 5 werkdagen = €60-€80 gemiste besparing. Het serviceverschil is dus reëel — meer dan de prijs/kWh-analyse suggereert.
+
+Gebruik prijs/kWh als startpunt, niet als eindpunt.
+
+---
+
 ## Prijsvergelijking per kWh: internationaal perspectief
 
 Om de Nederlandse prijzen in context te plaatsen: hoe liggen die vs andere landen?
@@ -266,6 +319,32 @@ Om de Nederlandse prijzen in context te plaatsen: hoe liggen die vs andere lande
 Nederland heeft met 0% BTW een van de gunstigste belastingregimes voor thuisbatterijen in Europa. Onze bruto prijzen zijn vergelijkbaar met Duitsland, maar de netto kosten zijn lager dankzij de BTW-vrijstelling.
 
 Dat de ISDE thuisbatterijen nog niet dekt (waar Duitsland in sommige deelstaten wél directe subsidie heeft), is een tekortkoming. Maar de 0% BTW pakt al beter uit dan het gemiddelde Europese equivalentniveau.
+
+---
+
+## Jaarberekening: wat €/kWh betekent voor jouw energierekening
+
+Ik maak de vergelijking concreet met een echt profiel: gezin in Zwolle, 3.800 kWh/jaar verbruik, 12 zonnepanelen, Frank Energie dynamisch contract, 2.100 kWh teruglevering per jaar.
+
+**Scenario 1: Marstek Venus E (€326/kWh, totaal €2.679)**
+- Absorbeert ~1.700 kWh van de teruglevering als eigenverbruik
+- Jaarlijkse besparing: €750
+- Terugverdientijd: 3,6 jaar
+- Netto na 10 jaar: **€4.821 voordeel**
+
+**Scenario 2: Sessy 10 kWh (€600/kWh, totaal €5.995)**
+- Absorbeert ~2.000 kWh van de teruglevering
+- Jaarlijkse besparing: €830 (iets hoger door betere automatie)
+- Terugverdientijd: 7,2 jaar
+- Netto na 10 jaar: **€2.305 voordeel**
+
+**Scenario 3: Tesla Powerwall 3 (€704/kWh, totaal €9.500)**
+- Absorbeert ~2.300 kWh van de teruglevering (13,5 kWh capaciteit)
+- Jaarlijkse besparing: €940 (hogere capaciteit + backup)
+- Terugverdientijd: 10,1 jaar
+- Netto na 10 jaar: **€-100 (quitte)**
+
+Marstek levert over 10 jaar €2.500 meer op dan Sessy, en €4.900 meer dan Tesla. De prijs/kWh is de meest bepalende variabele voor de langetermijn-financiële uitkomst.
 
 ---
 
@@ -285,6 +364,22 @@ Dat de ISDE thuisbatterijen nog niet dekt (waar Duitsland in sommige deelstaten 
 
 ---
 
+## Veelgestelde vragen over prijs per kWh
+
+**Hoe bereken ik zelf de prijs per kWh van een offerte?**
+Neem de totale offerteprijs (inclusief installatie, inclusief eventuele omvormer-kosten, exclusief gemeentelijke subsidies). Deel dit door de usable kWh van de batterij. Vergelijk dat getal met de tabel hierboven. Let op: controleer altijd of BTW al is verrekend (bij thuisbatterijen moet dat 0% zijn).
+
+**Maakt het uit of ik leas of koop voor de prijs/kWh-vergelijking?**
+Ja. Bij lease betaal je geen vaste prijs/kWh maar een maandelijks bedrag. Omgerekend: Zonneplan lease €54/mnd × 120 maanden = €6.480 totaal voor 10 kWh = €648/kWh over de looptijd. Duurder per kWh dan koop, maar met service inbegrepen.
+
+**Is er een minimum prijs/kWh waaronder ik serieuze kwaliteit kan verwachten?**
+In 2026: €250-€300/kWh is de ondergrens voor serieuze LFP-batterijen met garantie. Goedkoper dan €250/kWh zijn meestal onbekende merken zonder NL-distributienetwerk, zonder CE-keurmerk of met beperkte garantie. Marstek op €326/kWh zit net boven die grens en heeft inmiddels duizenden NL-referenties.
+
+**Waarom zijn sommige batterijen zo veel duurder per kWh?**
+Drie hoofdoorzaken: (1) hogere NMC-celkosten bij Tesla, (2) software-ontwikkelingskosten voor automatische NL-markt-integratie bij Sessy/Zonneplan, (3) hogere servicekosten voor NL-support netwerk. Allemaal hebben ze waarde — de vraag is of die waarde voor jou specifiek het prijsverschil rechtvaardigt.
+
+---
+
 ## Conclusie
 
 Thuisbatterij prijzen in 2026 lopen van €326 tot €704 per kWh. De spreiding is reëel — gerelateerd aan automation, service en garantie.
@@ -296,6 +391,12 @@ Thuisbatterij prijzen in 2026 lopen van €326 tot €704 per kWh. De spreiding 
 - **Wachten op betere prijs**: niet bij groot teruglevervolume — saldering-stop 1-1-2027 maakt elke maand uitstel duur
 
 Voor de gemiddelde Nederlander in 2026: Sessy 10 kWh of Marstek Venus E. Met hét lage BTW-tarief en mogelijke gemeentesubsidie kom je voor €2.000-€5.500 weg.
+
+Prijzen dalen structureel maar niet gelijkmatig. De verwachte bodem van €200-€250/kWh in 2030 lijkt realistisch op basis van grondstoffenprijzen voor lithium en ijzerfosfaat. Maar wachten tot 2030 kost je 4 jaar aan misgelopen besparing — bij €700/jaar is dat €2.800 verloren voordeel. De netto afweging wijst bijna altijd naar nu kopen, niet later.
+
+**Voor wie twijfelt tussen Marstek en Sessy**: het sleutelgetal is je tijdsinvestering. Marstek vraagt 4-6 uur initiële setup (Home Assistant, EnergyZero-koppeling, schema's) en daarna minimaal onderhoud. Sessy vraagt 30 minuten setup en daarna niets. Als je tijd €50/uur waard is, bedraagt het "gratis" aspect van Sessy snel €150-€300. Dat verkleint het financiële voordeel van Marstek.
+
+Uiteindelijk is €/kWh een hulpmiddel — gebruik het, maar combineer het met je eigen profiel.
 
 *Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 

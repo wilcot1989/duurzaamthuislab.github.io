@@ -212,6 +212,26 @@ Bij koop:
 
 **Mijn conclusie:** Huurcontracten die na 2027 nog geen aanpassing hebben voor de saldering-stop zijn financieel ongunstig voor de huurder. Check het huurcontract op clausules over saldering-wijzigingen vóór je tekent.
 
+## Belastingimplicaties: huren vs kopen
+
+Een aspect dat weinig aandacht krijgt: de fiscale behandeling van zonnepanelen bij huren versus kopen.
+
+**Bij kopen:**
+- De WOZ-waarde van je woning stijgt (zie eerder)
+- Hogere WOZ = hogere OZB (belasting) en potentieel hogere hypotheekrenteaftrek-basis
+- De energiebesparing is belastingvrij — je hoeft geen belasting te betalen over de "inkomsten" van zonnepanelen (in box 1 of 3)
+- 0% BTW op aanschaf (woningen) — directe besparing bij aankoop
+
+**Bij huren:**
+- De panelen zijn niet van jou, dus geen WOZ-effect
+- De huurprijs is niet fiscaal aftrekbaar (geen ondernemer)
+- Je energiebesparing is ook belastingvrij
+
+**Energiebelastingteruggave:**
+Via de belastingaangifte kun je geen directe teruggave claimen voor zonnepanelen (anders dan de 0% BTW bij aankoop). De besparing op je energierekening is belastingvrij voordeel.
+
+**Conclusie fiscaal:** Geen groot verschil tussen huren en kopen qua directe belastingimplicaties. Het voordeel van kopen zit in de WOZ-waardeverhoging (verkoopprijs) en de 0% BTW bij aankoop.
+
 ## De vijf meest gestelde vragen over huren vs kopen
 
 **"Ik ga over 3 jaar misschien verhuizen — dan toch beter huren?"**
@@ -337,6 +357,18 @@ Dalende energieprijzen verlengen de terugverdientijd bij kopen. Maar bij huren d
 Er zijn serieuze aanbieders, maar het aanbod van huurcontracten is kleiner geworden. Meerdere aanbieders hebben hun huuractiviteiten afgebouwd na de onzekerheid rondom de saldering-stop. Kijk naar Solarwatt en Sungevity als je huur overweegt — zij hebben de contracten aangepast voor de post-saldering situatie.
 
 ---
+
+## Huurpanelen en een thuisbatterij: gaat dat samen?
+
+Een vraag die steeds relevanter wordt: "Ik huur zonnepanelen. Kan ik er ook een thuisbatterij aan koppelen?"
+
+**Technisch antwoord:** ja, maar het is gecompliceerd. Bij huurpanelen is de omvormer eigendom van de verhuurder en aangesloten op hun systeem. Een thuisbatterij koppel je normaal aan je omvormer — maar dat is niet van jou. Je hebt expliciete toestemming nodig van de verhuurder voor elke aanpassing.
+
+**Praktisch antwoord:** sommige verhuurders staan dit toe (mits je een eigen omvormer installeert naast hun systeem). Anderen niet. Dit moet contractueel worden vastgelegd — anders loop je het risico dat de thuisbatterij-installatie je huurcontract in gevaar brengt.
+
+**De slimme tussenweg:** een draagbaar powerstation naast huurpanelen. Het powerstation laad je handmatig op via een stopcontact (ook als de huurpanelen overdag overschot produceren gaat dat niet direct naar je powerstation — tenzij je het station aansluit op een stopcontact dat tijdens zon-piek wordt gevoed door het net minus je eigen verbruik). Dit werkt indirect maar is eenvoudig en vereist geen toestemming.
+
+Als je serieuze energieopslag wilt combineren met zonnepanelen: koop de panelen en kies je eigen omvormer. Flexibiliteit begint bij eigendom.
 
 ## Conclusie
 

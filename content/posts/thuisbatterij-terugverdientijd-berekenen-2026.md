@@ -353,6 +353,37 @@ Een thuisbatterij heeft circa 10% efficientieverliezen (laden en ontladen). Van 
 
 ---
 
+## Invloed van energieprijsontwikkeling op de terugverdientijd
+
+Eén variabele die de meeste rekenmodellen te simpel behandelen: de toekomstige energieprijs. Als de energieprijs stijgt, stijgt de waarde van elke opgeslagen kWh mee — en daalt de terugverdientijd.
+
+**Gevoeligheidsanalyse voor rekenvoorbeeld 1 (10 kWh, netto €3.600):**
+
+| Energieprijs 2030 | Jaarlijkse besparing | Terugverdientijd |
+|---|---|---|
+| €0,24/kWh (prijsdaling) | €420 | 8,6 jaar |
+| €0,30/kWh (stabiel) | €518 | 6,9 jaar |
+| €0,36/kWh (+20%) | €622 | 5,8 jaar |
+| €0,42/kWh (+40%) | €726 | 5,0 jaar |
+
+Een energieprijsstijging van 20% — wat de afgelopen 5 jaar bepaald niet ondenkbaar was — verkort de terugverdientijd met een jaar. De energieprijsontwikkeling is buiten je controle, maar het illustreert dat een batterij ook als hedge werkt: hoe duurder stroom wordt, hoe waardevoller de investering.
+
+## Vergelijking: batterij kopen vs dynamisch contract (zonder batterij)
+
+Een vraag die ik regelmatig krijg: "Is een dynamisch contract niet voldoende? Waarom ook een batterij?"
+
+| Situatie | Jaarlijkse besparing vs vast | Investering |
+|---|---|---|
+| Alleen dynamisch contract (geen panelen) | €150-€250 | €0 |
+| Alleen dynamisch contract (met panelen) | €400-€600 | €0 |
+| Dynamisch contract + batterij 10 kWh | €700-€1.100 | €2.679-€9.500 |
+
+Een dynamisch contract is gratis en levert direct besparing op. Een batterij kost €2.679-€9.500 extra maar verdubbelt de besparing. De terugverdientijd van de batterij reken je dan op de *meerwaarde* van de batterij ten opzichte van alleen dynamisch contract:
+
+Bij Marstek (€2.679) en €350 meerwaarde per jaar (batterij vs alleen dynamisch): terugverdientijd 7,6 jaar. Nog steeds acceptabel.
+
+**Conclusie**: dynamisch contract is de eerste stap (gratis, direct), batterij is de tweede stap (kosten, maar hogere besparing).
+
 ## Samenvatting: terugverdientijden per scenario
 
 | Scenario | Netto investering | Jaarlijkse besparing | Terugverdientijd |
@@ -365,7 +396,45 @@ Een thuisbatterij heeft circa 10% efficientieverliezen (laden en ontladen). Van 
 
 ---
 
+## Praktijkgeval: een lezer mailt — ik reken uit
+
+Een lezer uit Dordrecht schreef me: "Mark, ik heb 14 zonnepanelen, gebruik 4.800 kWh/jaar, lever 3.100 kWh terug. Frank Energie dynamisch. Denk erover Sessy 10 kWh te kopen voor €5.995. Logisch?"
+
+Mijn berekening:
+
+**Stap 1 — Netto investering:**
+- Sessy 10 kWh: €5.995
+- 0% BTW al verrekend in prijs: €0 extra
+- Geen Flevoland-subsidie van toepassing (Dordrecht = Zuid-Holland)
+- Gemeente Dordrecht: geen specifieke thuisbatterijsubsidie in 2026
+- Netto investering: **€5.995**
+
+**Stap 2 — Jaarlijkse besparing:**
+- Teruglevering 3.100 kWh → met 10 kWh batterij absorbeert hij ~2.300 kWh als eigenverbruik
+- Eigenverbruiksbesparing: 2.300 kWh × €0,22 (afname min teruglever) = €506
+- Arbitrage op Frank Energie dynamisch: ~€180/jaar
+- **Totaal 2026: €686/jaar**
+
+**Stap 3 — Post-2027 saldering-stop:**
+- Nu teruglevert hij 3.100 kWh × €0,30 (saldering) = €930 via saldering
+- Na 2027: die 800 kWh restteruglevering × €0,07 = €56 — verlies van €874
+- Maar zijn batterij absorbeert al 2.300 kWh — dus verlies is slechts: 800 kWh × €0,23 = €184
+- Netto extra besparing post-2027: €184 + voordeel arbitrage-verbetering = **~€250/jaar extra**
+
+**Stap 4 — Terugverdientijd:**
+- 2026-2027: €686/jaar
+- 2027+: €936/jaar
+- Gewogen gemiddeld over 10 jaar: ~€870/jaar
+
+**Terugverdientijd: €5.995 / €870 = 6,9 jaar**
+
+Mijn antwoord aan hem: ja, Sessy is logisch voor zijn profiel. Marstek zou sneller terugverdienen (3,5 jaar), maar hij heeft geen affiniteit met Home Assistant.
+
+---
+
 ## Conclusie: is een thuisbatterij een slimme investering?
+
+Veel mensen stellen de terugverdientijdvraag verkeerd: "is een thuisbatterij rendabel?" De betere vraag is: "welke batterij heeft voor míjn situatie de beste terugverdientijd, en past die bij mijn financiële horizon?" Wie 15 jaar in zijn huis blijft, heeft een ander criterium dan wie over 5 jaar verhuist. Wie cash heeft, rekent anders dan wie moet lenen. De rekenmodellen in dit artikel zijn tools — gebruik ze, en pas ze aan op je eigen situatie.
 
 Een thuisbatterij is in 2026 een slimme investering als je aan de volgende voorwaarden voldoet:
 
@@ -376,6 +445,10 @@ Een thuisbatterij is in 2026 een slimme investering als je aan de volgende voorw
 Met ISDE-subsidie en een dynamisch contract kun je een terugverdientijd van **5-7 jaar** bereiken, waarna je nog 5-8 jaar pure besparing geniet over de resterende levensduur van de batterij.
 
 Zonder subsidie is de terugverdientijd aanzienlijk langer (13-17 jaar) en moet je afwegen of de bijkomende voordelen (noodstroom, onafhankelijkheid, toekomstbestendigheid) de investering rechtvaardigen.
+
+**Mijn aanbeveling**: vraag vandaag offertes aan bij minimaal drie installateurs. Vraag hen expliciet om de terugverdientijdberekening op basis van jouw verbruiksdata — een goede installateur heeft dat direct paraat. Vergelijk hun berekening met het model in dit artikel: als ze meer dan 1 jaar van elkaar afwijken, vraag dan om toelichting op de aannames.
+
+De terugverdientijd is geen garantie maar een verwachting. Energieprijzen fluctueren, saldering stopt in 2027, en jouw verbruikspatroon kan veranderen. Maar voor wie 5.000+ kWh/jaar verbruikt en 1.500+ kWh teruglevert: de kans dat een thuisbatterij rendabel is over 10 jaar is groot. Dat maakt het meer dan speculatie — het is een berekende investering.
 
 **Mijn aanbeveling**: vraag vandaag nog offertes aan bij minimaal drie installateurs en dien je ISDE-subsidieaanvraag in zodra de installatie gereed is. Bekijk ons overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatterij-nederland-2026/) om de juiste batterij voor jouw situatie te kiezen.
 

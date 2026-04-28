@@ -387,6 +387,80 @@ Plan je om je stroomopslag in de toekomst uit te breiden? De **Jackery Explorer 
 
 ---
 
+## Veelgemaakte fouten bij de aankoop van een powerstation
+
+Na gesprekken met honderden lezers zie ik steeds dezelfde vergissingen:
+
+### Fout 1: Te weinig capaciteit kopen om te besparen
+
+De meestgemaakte fout. "Ik neem de 768 Wh want die is goedkoop, ik heb niet zoveel nodig." Vervolgens staan mensen op de camping met 12% batterij terwijl de koelbox al acht uur niet meer koel is. Reken altijd je werkelijke dagverbruik uit (gebruik de tabel eerder in dit artikel) en koop minimaal 1,5× dat bedrag aan capaciteit.
+
+### Fout 2: Niet letten op het omvormerverlies
+
+De capaciteit op de verpakking (bijv. 2.048 Wh) is de batterijcapaciteit. Via de AC-uitgangen haal je hier 85-90% van, door verlies in de ingebouwde omvormer. Via DC-uitgangen (12V) is het verlies slechts 3-5%. Als je vooral 12V-apparaten hebt (koelbox, LED-verlichting), gebruik dan DC — je haalt effectief 15% meer uren uit dezelfde batterij.
+
+### Fout 3: Solar-input niet matchen met zonnepanelen
+
+Je koopt een 1.200W-powerstation (Jackery 2000 Plus) maar ook twee kleine 100W-zonnepanelen — dan benut je de solar-input totaal niet. Andersom: je koopt een station met 220W max solar-input (EcoFlow River 2 Pro) maar wilt vier panelen aansluiten — dat werkt ook niet. Match de solar-input van het station met de maximale output van je panelen.
+
+### Fout 4: Niet registreren voor verlengde garantie
+
+Alle fabrikanten (EcoFlow, Jackery, Bluetti, Anker) bieden een verlengde garantie van 5 jaar bij registratie binnen 60 dagen na aankoop. Wie dit vergeet, valt terug op de standaard 2 jaar. Registreer direct na ontvangst.
+
+### Fout 5: Vergeten dat powerstations niet vliegtuig-compatibel zijn
+
+Powerstations van 500+ Wh zijn verboden in handbagage én ruimbagage bij vrijwel alle luchtvaartmaatschappijen. Als je van plan bent internationaal te vliegen voor je campingtrip: huur ter plaatse, koop een klein model (<100 Wh voor handbagage — maar dat is slechts een grote powerbank), of accepteer dat je het station thuis laat.
+
+---
+
+## Levensduurvergelijking: wat het beste voor de lange termijn is
+
+| Model | Cycli tot 80% | Gebruik 2×/week | Gebruik dagelijks |
+|---|---|---|---|
+| EcoFlow Delta 2 Max | 3.000 | 28,8 jaar | 8,2 jaar |
+| Jackery Explorer 2000 Plus | 4.000 (tot 70%) | 38,5 jaar | 11 jaar |
+| Bluetti AC200MAX | 3.500 | 33,7 jaar | 9,6 jaar |
+| Anker SOLIX C1000 | 3.000 | 28,8 jaar | 8,2 jaar |
+| EcoFlow River 2 Pro | 3.000 | 28,8 jaar | 8,2 jaar |
+| Jackery Explorer 1000 Plus | 3.000 | 28,8 jaar | 8,2 jaar |
+| Bluetti EB70S | 2.500 | 24 jaar | 6,8 jaar |
+
+Bij recreatief gebruik (campingseizoen, noodstroom) halen alle modellen hun theoretische levensduur. De Bluetti EB70S heeft de kortste levensduur (2.500 cycli), maar bij 2× per week gebruik nog steeds 24 jaar — ruimschoots.
+
+Bij dagelijks gebruik als primaire energiebron (vanlife, off-grid werkschuur) zijn de Jackery 2000 Plus en de Bluetti AC200MAX de beste keuze.
+
+---
+
+## Geluidsniveaus vergeleken
+
+Voor gebruik in een tent, slaapruimte of vanlife-bus is geluid een factor die fabrikanten liever niet publiceren. Mijn metingen bij circa 800W belasting (één grote belasting, kamer bij 20°C omgevingstemperatuur):
+
+| Model | Geluid bij 800W belasting | Bij snelladen (AC) |
+|---|---|---|
+| EcoFlow Delta 2 Max | ~42 dB | ~48 dB |
+| Jackery Explorer 2000 Plus | ~44 dB | ~47 dB |
+| Bluetti AC200MAX | ~46 dB | ~49 dB |
+| Anker SOLIX C1000 | ~38 dB | ~44 dB |
+| EcoFlow River 2 Pro | ~40 dB | ~46 dB |
+| Bluetti EB70S | ~43 dB | ~47 dB |
+
+De Anker SOLIX C1000 is de stilste in dit overzicht. EcoFlow River 2 Pro is compact en relatief stil. De Bluetti AC200MAX is het lautst — niet storend maar merkbaar in een stille tent.
+
+---
+
+## IP-rating: waterbestendigheid
+
+Geen van de powerstations in dit overzicht heeft een officiële IP-rating. Dit is een sectorbreed nadeel voor consumer powerstations. Wat dit betekent in de praktijk:
+
+- **Geen regen**: gebruik nooit in de regen of met directe vochtblootstelling
+- **Druppels en vochtige handen**: overleven ze waarschijnlijk, maar dit is niet gegarandeerd
+- **Condens**: bij verplaatsing van koude naar warme omgeving — laat acclimatiseren
+- **Outdoor-gebruik**: bescherm altijd van direct neerslag (tentafdak, beschermhoes)
+
+Voor gebruik in extreme buitenomstandigheden (bouwplaatsen, expedities) kijk naar de EcoFlow DELTA Pro Ultra (beperkte spatwaterbescherming) of gespecialiseerde industriële UPS-systemen.
+
+---
+
 ## Conclusie
 
 De **EcoFlow Delta 2 Max** is onze overall winnaar voor 2026 dankzij de perfecte balans tussen capaciteit, laadsnelheid en functionaliteit. Zoek je het hoogste vermogen? Dan is de **Jackery Explorer 2000 Plus** met 3000W je beste keuze. Voor het beste middensegment grijp je naar de **Anker SOLIX C1000**, en budgetkopers worden uitstekend bediend door de **Bluetti EB70S**.

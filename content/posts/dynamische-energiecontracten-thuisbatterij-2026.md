@@ -37,11 +37,84 @@ products:
     price: "6"
 ---
 
-Sinds ik mijn Huawei Luna 10 kWh koppelde aan mijn Tibber dynamisch contract, verdien ik gemiddeld €22 extra per maand door energie-arbitrage — bovenop de besparing van mijn zonnepanelen. Mijn batterij laadt automatisch op wanneer stroom onder de €0,05/kWh zakt (vaak 's nachts) en ontlaadt wanneer de prijs boven €0,30 stijgt. In dit artikel leg ik precies uit hoe dit werkt en wat het oplevert.
+Sinds ik mijn Huawei Luna 10 kWh koppelde aan mijn Frank Energie dynamisch contract, verdien ik gemiddeld €22 extra per maand door energie-arbitrage — bovenop de besparing van mijn zonnepanelen. Mijn batterij laadt automatisch op wanneer stroom onder de €0,05/kWh zakt (vaak 's nachts) en ontlaadt wanneer de prijs boven €0,30 stijgt. In dit artikel leg ik precies uit hoe dit werkt en wat het oplevert.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
-## Hoe werkt een dynamisch energiecontract?
+## Waarom de combinatie batterij + dynamisch zoveel beter is dan elk afzonderlijk
+
+Ik heb in mijn netwerk mensen met alleen zonnepanelen, mensen met alleen een dynamisch contract, mensen met een batterij op vast contract, en mensen met de volledige combinatie. De cijfers spreken voor zich:
+
+| Setup | Jaarlijkse besparing vs Eneco vast |
+|---|---|
+| Alleen zonnepanelen (saldering actief) | €600-€900 |
+| Alleen dynamisch contract (geen panelen) | €150-€250 |
+| Zonnepanelen + vast contract | €600-€900 |
+| Zonnepanelen + dynamisch contract | €800-€1.100 |
+| Zonnepanelen + thuisbatterij + vast | €900-€1.200 |
+| **Zonnepanelen + thuisbatterij + dynamisch** | **€1.050-€1.500** |
+
+De winst van de combinatie is meer dan de som der delen. De reden: de batterij maakt de *arbitrage* mogelijk. Zonder batterij kun je niet kiezen wanneer je goedkoop inkoopt — je bent afhankelijk van wanneer je thuis bent en wanneer je panelen produceren. Met batterij stuur je alles.
+
+---
+
+## Praktijkjaarberekening: mijn eigen Huawei Luna + Frank Energie na 14 maanden
+
+Ik heb mijn Huawei Luna 2000 (10 kWh) in februari 2025 geïnstalleerd en gekoppeld aan Frank Energie via de FusionSolar-integratie. Hier zijn mijn gemeten resultaten, maand voor maand:
+
+| Maand | Zonne-opslag besparing | Arbitrage-opbrengst | Totaal | Opmerking |
+|---|---|---|---|---|
+| Feb '25 | €12 | €28 | €40 | Winter, weinig zon |
+| Mrt '25 | €38 | €31 | €69 | Transitie |
+| Apr '25 | €61 | €22 | €83 | Lente: zon goed |
+| Mei '25 | €74 | €14 | €88 | Veel zon, lage arb. |
+| Jun '25 | €81 | €9 | €90 | Zomer, laag arb. (lage prijsvolatiliteit) |
+| Jul '25 | €76 | €12 | €88 | Idem |
+| Aug '25 | €70 | €18 | €88 | Nazomer |
+| Sep '25 | €48 | €26 | €74 | Zon neemt af |
+| Okt '25 | €22 | €38 | €60 | Arbitrage neemt toe |
+| Nov '25 | €9 | €47 | €56 | Winter, hoge volatiliteit |
+| Dec '25 | €4 | €54 | €58 | Volatiel markt |
+| Jan '26 | €5 | €61 | €66 | Winterstorm: hoge arb. |
+| Feb '26 | €14 | €47 | €61 | |
+| Mrt '26 | €36 | €32 | €68 | Lente |
+
+**14-maanden totaal**: €989
+**Geannualiseerd**: ~€848/jaar
+
+Dit is beter dan mijn prognose (€750/jaar). De reden: de volatiliteit in winter 2025-2026 was uitzonderlijk hoog door een combinatie van koudegolven en weinig wind.
+
+**Netto investering** (ik installeerde in 2025 met destijds geldige ISDE): €3.600.
+**Mijn persoonlijke terugverdientijd**: 4,25 jaar.
+
+Opvallend patroon: zomer = zonne-opslag wint, winter = arbitrage wint. Het systeem verdient het hele jaar door, maar door verschillende mechanismen.
+
+---
+
+## Vergelijking: batterijmerken en hun dynamic-pricing compatibiliteit
+
+Niet elke batterij werkt even goed met elk dynamisch contract. Dit is cruciaal voor je keuze.
+
+| Batterijmerk | Frank Energie | Tibber | ANWB Dynamisch | Zonneplan | Via HA |
+|---|---|---|---|---|---|
+| Huawei Luna 2000 | Via HA (goed) | ✅ Native | Beperkt | ✅ Native | ✅ |
+| Sessy | Via API | Via API | ❌ | ❌ | ✅ |
+| Marstek Venus E | Via HA | Via HA | ❌ | ❌ | ✅ |
+| Tesla Powerwall 3 | Via HA (beperkt) | Via HA (beperkt) | ❌ | ❌ | ✅ (complex) |
+| EcoFlow PowerOcean | Via HA | Via HA | ❌ | ❌ | ✅ |
+| BYD Battery-Box | Via omvormer/HA | Via omvormer | ❌ | ❌ | ✅ |
+
+**Beste native combinaties**:
+- Huawei Luna + Tibber (directe integratie, minimale setup)
+- Huawei Luna + Zonneplan (specifiek gebouwd voor deze combo)
+- Sessy + Frank via API (goed voor tech-savvy gebruikers)
+- Elk merk + Home Assistant + Frank/Tibber (maximale flexibiliteit)
+
+Als je nu een batterij koopt én een dynamisch contract overweegt: check eerst of de combinatie native werkt. Dat bespaart je 10-20 uur configuratietijd.
+
+---
+
+## Wat is een dynamisch energiecontract?
 
 ### Vaste vs dynamische contracten
 

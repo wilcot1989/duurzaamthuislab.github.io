@@ -318,6 +318,97 @@ Op basis van je profiel:
 
 ---
 
+## Slimme apparaten en automatisering: de dynamisch-multiplier
+
+Het echte voordeel van dynamisch zit niet alleen in de tarieven, maar in de combinatie met slimme apparaten. Elke keer dat je een apparaat automatisch laat draaien op het goedkoopste moment, pik je extra waarde.
+
+**Mijn eigen setup (referentie):**
+- **Tibber-account** gekoppeld aan slimme meter via P1-kabel + HomeWizard Energy
+- **Vaatwasser**: start via slimme stekker (Shelly Plug S) als zonnepanelen meer leveren dan het huis verbruikt — automatisch getriggerd door HomeAssistant
+- **EV (plug-in hybrid)**: laadt via Tibber smart charging 's nachts, nooit tussen 17:00 en 21:00
+- **Warmtepomp-boiler**: timer 11:30-14:00 actief in de zomer (zon-piek)
+- **Thuisbatterij (Huawei Luna)**: modus "maximaal eigen verbruik overdag", valt 's avonds terug naar netlevering
+
+**Mijn gemiddelde maandkosten (november 2025 - maart 2026, 5 maanden gemiddeld):**
+- Afname van net: 180 kWh/maand
+- Effectief betaald: €42/maand energiecomponent (exclusief netbeheer)
+- Mijn vaste tarief zou zijn geweest: 180 × €0,32 = €57,60/maand
+- **Besparing door automatisering**: €15,60/maand = €187/jaar
+
+Bovenop het basissvoordeel van dynamisch (geen terugleverkosten) dus. Kleine moeite: HomeAssistant instellen kostte me twee zondagen.
+
+---
+
+## Dynamisch contract en huurwoningen: kan dat?
+
+Een veelgestelde vraag: "Ik huur en heb misschien zonnepanelen (balkon-panelen). Is dynamisch dan ook zinvol?"
+
+**Antwoord**: ja, maar het voordeel is kleiner dan bij eigen huis met dakpanelen.
+
+**Balkon-zonnepanelen + dynamisch:**
+- Typische output: 300-600 Wh per dag bij 1-2 kleine panelen (200-350 Wp)
+- Teruglevering: vrijwel nul (balkonpanelen zijn niet aangesloten op het net, voeden direct apparaten)
+- Voordeel dynamisch: alleen via slimme afname (EV laden, boiler op goedkope uren)
+
+**Zonder zonnepanelen:**
+Dynamisch kan ook voor een huurder zonder panelen zinvol zijn — als je een EV hebt of je verbruik kunt sturen. Verwacht besparing: €50-€150/jaar voor een gezin.
+
+**Juridisch aspect**: voor dynamisch contract heb je een slimme meter nodig. Bij een huurwoning heeft de verhuurder de slimme meter geïnstalleerd — maar je kunt zelf kiezen bij welke leverancier je zit. De slimme meter is eigendom van de netbeheerder, niet van de verhuurder.
+
+---
+
+## Risicobeheer: hoe je pieken vermijdt
+
+De meestgehoorde bezwaar: "Maar wat als de prijs ineens €1,50/kWh is?"
+
+Reëel. Dat is een paar keer per jaar mogelijk. Maar het is beheersbaar.
+
+**Bescherming 1: Tijdslimieten in slimme apparaten**
+Stel nooit een apparaat in om onbeperkt te laden. Gebruik een tijdsvenster: "Laad EV maximaal tussen 22:00 en 07:00, maar stop bij €0,50/kWh". Alle moderne EV-laders (Easee, Wallbox, ABB) en smart charging apps (Tibber, ABRP) bieden dit.
+
+**Bescherming 2: Basisverbruik is begrensd**
+Koelkast, verlichting, router — die lopen altijd door. Dat zijn 150-300 Wh per uur bij een gemiddeld huishouden. Zelfs bij €1,50/kWh kost dat €0,23-€0,45/uur. Eén uur dure stroom voegt €0,20 extra toe aan je maandrekening — verwaarloosbaar.
+
+**Bescherming 3: Thuisbatterij als buffer**
+Met een thuisbatterij laad je overdag goedkoop op (zon of lage marktprijs) en ontlaad je 's avonds bij hogere prijzen. Je raakt nooit de piekprijzen voor je basisverbruik. Dat is precies hoe mijn Huawei Luna werkt.
+
+**Bescherming 4: Prijsmelding-app**
+Tibber en Frank sturen push-notificaties als de prijs boven een door jou ingesteld niveau gaat. Zo weet je altijd wanneer het duur is en kun je aanpassen.
+
+---
+
+## De combinatie: dynamisch + batterij = maximaal rendement
+
+Ik heb eerder het individuele voordeel van dynamisch (per profiel) en de stapsgewijze opbrengst van een batterij apart doorgerekend. Laten we ze combineren.
+
+**Situatie:** Profiel 2 (gezin, 12 panelen, 4.200 kWh verbruik, 1.400 kWh teruglevering per jaar)
+
+**Scenario A: Vast contract Eneco, geen batterij**
+- Energierekening 2027: €1.450 (eerder berekend)
+- Investering: €0
+
+**Scenario B: Frank Energie dynamisch, geen batterij**
+- Energierekening 2027: €960
+- Investering: €0
+- Besparing vs A: **€490/jaar**
+
+**Scenario C: Frank Energie dynamisch + Sessy 5 kWh batterij**
+- Eigen verbruik stijgt van 2.300 naar 3.400 kWh (batterij vangt overschot op)
+- Teruglevering daalt van 1.400 naar 300 kWh
+- Afname van net daalt van 1.900 naar 800 kWh
+- Energierekening 2027: ~€550
+- Batterijinvestering: €3.795
+- Terugverdientijd batterij: €3.795 / (€960 - €550) = **9,2 jaar**
+- Na terugverdientijd: batterij levert 9,2 jaar puur winst
+
+**Scenario D: Frank Energie dynamisch + Sessy 5 kWh + EV slim laden**
+- EV laden 's nachts dynamisch: gemiddeld 700 kWh/jaar × €0,08 besparing vs vast = €56/jaar extra
+- Energierekening: ~€490 door additionele EV arbitrage
+- Totale besparing vs Scenario A: **€960/jaar**
+- Dat is €80/maand — significant
+
+---
+
 ## Conclusie
 
 Voor zonnepaneel-bezitters is een dynamisch contract na 2027 vrijwel altijd voordeliger dan een vast contract. Het verschil loopt van €60 per jaar (klein huishouden) tot €1.380 (groot verbruik + EV).

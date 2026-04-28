@@ -392,6 +392,73 @@ Doe deze drie en de saldering-stop kost je weinig. Doe niets en je terugverdient
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
+## Waarom sommige berekeningen online kloppen niet
+
+Ik zie regelmatig berekeningen die zonnepanelen na 2027 slecht laten lijken of juist heel goed. Beide zijn misleidend. Hier zijn de fouten die ik het vaakst tegenkom.
+
+**Fout 1: Te lage investering aannemen**
+Berekeningen die uitgaan van €200 per paneel all-in zijn achterhaald. Huidige marktprijzen (Q1 2026): €350-€450 per paneel inclusief omvormer en installatie voor een doorsnee systeem. Mooie korting? Mogelijk via veilingen of groepsinkoop. Maar reken conservatief.
+
+**Fout 2: Statisch teruglevertainment van €0,09 aannemen**
+Het teruglevertarief varieert per uur en per leverancier. Bij Tibber en Frank Energie is het het EPEX-uurtarief — gemiddeld €0,08-€0,18/kWh in 2025. Bij vaste contracten (Eneco, Vattenfall) is er een vaste teruglevertarief die lager kan liggen. Reken niet met één getal maar met een gemiddeld effectief tarief per leverancier.
+
+**Fout 3: Eigenverbruik te optimistisch inschatten**
+Veel online calculators gaan uit van 30-35% eigenverbruik als standaard. In de praktijk is 20-25% realistischer voor een gezin waarbij beide partners overdag buitenshuis zijn. Check je eigen verbruikspatroon (via P1-meter) voordat je een systeem dimensioneert.
+
+**Fout 4: 0% BTW niet verwerken**
+Zonnepanelen zijn vrijgesteld van BTW (0%) bij installatie op een woning door een erkende installateur. Dat is 21% korting op de installatieprijzen. Op een systeem van €6.000 bruto is dat €1.057 besparing. Veel berekeningen vergeten dit te vermelden.
+
+**Fout 5: Omvormervervanging vergeten**
+Een string-omvormer gaat 12-15 jaar mee. Bij een installatie van €5.500 die 25 jaar meegaat, moet je rond jaar 13 rekening houden met €800-€1.200 voor een nieuwe omvormer. Dat verlaagt je 25-jaars rendement met €0,04-€0,06 per geproduceerde kWh.
+
+---
+
+## Meest gestelde vragen die ik per mail krijg
+
+**"Ik heb al een groot systeem (16 panelen). Wat moet ik nu doen voor 2027?"**
+
+Je kunt niet meer terug — de panelen liggen er. De beste actie die je nu kunt nemen:
+1. Schakel over naar een dynamisch contract (Frank Energie of Tibber) als je dat nog niet hebt. Dit verhoogt je effectieve teruglevertarief met €0,02-€0,05/kWh.
+2. Verhoog je eigenverbruik via smart home automatisering (apparaten op zon-uren, warmtepomp op goedkope uren).
+3. Overweeg een thuisbatterij van 5-10 kWh. Bij 16 panelen en hoog teruglevervolumeisde extra arbitrage-opbrengst €200-€400 per jaar.
+
+**"Ik overweeg nieuwe panelen. Hoeveel moet ik aanschaffen?"**
+
+Stelregel 2027: maximaal 1,2-1,5× je jaarverbruik aan opwekking. Meer dan dat lever je structureel terug voor €0,10/kWh, terwijl die extra capaciteit je investering vergroot zonder evenredig meer opbrengst.
+
+Voorbeeld: verbruik 4.000 kWh/jaar → maximaal 5-6 kWp installeren (= 12-14 panelen van 400 Wp). Dat dekt 80-90% van je verbruik op jaarschaal, waarbij teruglevering beperkt blijft.
+
+**"Zijn panelen in een bepaald kwartaal installeren slimmer?"**
+
+Na 2027 niet meer zo relevant als vroeger. Voor de aanvraag van 0% BTW maakt het kwartaal niet uit. Wel relevant: installateurs zijn het drukste in het voorjaar (maart-mei). Najaar (september-november) geeft vaak snellere doorlooptijden en soms lagere prijzen door lagere bezettingsdruk.
+
+---
+
+## Technische verdieping: hoe werkt een string-omvormer vs micro-omvormer na 2027?
+
+Dit is een vraag die ik vaker krijg van mensen die panelen op een niet-ideaal dak hebben.
+
+**String-omvormer (SolarEdge, Huawei, Growatt):**
+- Eén centrale omvormer converteert DC naar AC
+- Bij schaduw op één paneel daalt het totale systeemvermogen
+- Met SolarEdge-optimizers: schaduweffect wordt per paneel beperkt
+- Kosten: €500-€1.200 voor de omvormer + €60-€80 per optimizer
+
+**Micro-omvormer (Enphase IQ8):**
+- Ieder paneel heeft eigen omvormer
+- Schaduw op één paneel tast andere panelen niet aan
+- Hogere opbrengst bij gedeeltelijk beschaduwde daken
+- Kosten: €100-€130 per paneel (= €1.400-€1.820 voor 14 panelen)
+
+**Na 2027 maakt dit meer verschil:**
+Een systeem met micro-omvormers produceert 5-15% meer dan een vergelijkbaar string-systeem bij een beschaduwd dak. Bij 3.800 kWh/jaar productie is dat 190-570 kWh extra. Bij 40% eigenverbruik en €0,30/kWh leveringstarief: €22-€68 extra per jaar.
+
+Over 25 jaar: €550-€1.700 extra opbrengst. De meerkosten van micro-omvormers (€400-€600 extra voor een gemiddeld systeem) worden terugverdiend in 6-20 jaar, afhankelijk van de schaduwsituatie.
+
+**Mijn advies:** Beschaduwd dak → Enphase micro-omvormers of SolarEdge met optimizers. Volledig onbeschaduwde daken → goedkopere string-omvormer is prima.
+
+---
+
 ## Gerelateerde artikelen
 
 - [Saldering stopt in 2027: volledige gids](/posts/saldering-stopt-2027-volledige-gids/)

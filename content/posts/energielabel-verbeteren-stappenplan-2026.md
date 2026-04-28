@@ -288,6 +288,44 @@ Het verbeteren van je energielabel is een investering die zichzelf terugverdient
 
 <a href="/go/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
 
+## EPA-maatwerkadvies: wanneer is het de moeite waard?
+
+Een EPA-maatwerkadvies (€350-€600) is een energiediagnose van je woning door een gecertificeerde adviseur. Hij meet de woning in detail op: isolatiewaarden, installaties, ventilatie, thermische bruggen. Het resultaat: een persoonlijk rapport met aanbevolen maatregelen in volgorde van rendement.
+
+**Wanneer EPA-maatwerkadvies zeker de moeite waard is:**
+- Je woning heeft label E, F of G en je wil weten waar te beginnen
+- Je overweegt grootschalige renovatie (dakisolatie + warmtepomp + zonnepanelen)
+- Je wil de subsidies optimaal benutten en wil weten welke combinaties ISDE-bonus geven
+- Je woning heeft ongebruikelijke kenmerken (staalskelet, betonpanelen, rieten dak)
+
+**Wanneer EPA-maatwerkadvies minder nodig is:**
+- Je woning heeft label C of B en je overweegt alleen zonnepanelen: doe gewoon een offerte
+- Je gaat alleen één maatregel uitvoeren (spouwmuurisolatie): een installateursinspectie volstaat
+- Je wil alleen een certificaat voor verkoop: een EPA-label (€250-€400) is voldoende, geen maatwerkadvies nodig
+
+**Subsidie op EPA-maatwerkadvies:**
+In 2026 zijn er gemeenten die de kosten van een EPA-maatwerkadvies deels vergoeden (tot €150-€300). Check je gemeentewebsite of Energiesubsidiewijzer.nl voor jouw gemeente.
+
+---
+
+## Maatwerkadvies: de slimste eerste stap per woningtype
+
+Een energielabel verbeteren is maatwerk. Ik zie te veel mensen die dezelfde adviezen opvolgen voor een totaal andere woning. Hier is mijn aanpak per woningtype.
+
+**Hoekwoning (1970-1985), label E:**
+Hoekwoningen hebben meer buitenmuuroppervlak dan tussenwoningen — daarmee meer warmteverlies via de gevel. Eerste prioriteit: spouwmuurisolatie (goedkoop, snel effect). Tweede: dakisolatie. Derde: warmtepomp. De hogere warmtevraag van een hoekwoning maakt een hybride warmtepomp extra rendabel.
+
+**Vrijstaande woning (1960-1975), label F:**
+Meer buitenoppervlak dan elk ander type. Dakisolatie is hier de grootste winst (25-35% warmteverlies via dak bij ongeïsoleerde houten kapconstructie). Begin altijd met dak. Daarna spouwmuur (als aanwezig), daarna warmtepomp. Vrijstaande woningen profiteren het meest van zonnepanelen — veel dakoppervlak, geen buurman die schaduw geeft.
+
+**Appartement (1975-1990), label D:**
+Appartementen hebben minder mogelijkheden: spouwmuur is onderdeel van de VvE-beslissing, dakisolatie idem. Meest rendabele stap voor de individuele eigenaar: HR++ glas (als dat nog niet aanwezig is) en een warmtepomp voor de eigen woonruimte. Overweeg een individuele lucht-lucht-warmtepomp (splits) voor koeling + verwarming.
+
+**Nieuwbouwwoning (2000-2015), label C:**
+Al relatief goed geïsoleerd. Prioriteit: zonnepanelen (direct rendabel). Daarna een hybride of full-electric warmtepomp als de cv-ketel aan vervanging toe is. Daarna thuisbatterij voor eigenverbruiksoptimalisatie.
+
+---
+
 ## Tijdlijn: wanneer welke stap zetten?
 
 Ik zie te veel mensen die alles tegelijk willen doen — of die juist jarenlang wachten. Hier is mijn aanbevolen planning per startpunt.

@@ -321,6 +321,46 @@ Een thuislaadpaal is een van de beste investeringen als EV-rijder. Met €800-�
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
+## Slim laden op zonnestroom: concrete setup
+
+De meest gevraagde combinatie is: thuislaadpaal + zonnepanelen + slimme sturing. Ik leg uit hoe dat in de praktijk werkt.
+
+**Wat je nodig hebt:**
+- Slimme laadpaal met OCPP (Easee, Alfen, Wallbox)
+- HomeWizard P1 Meter (€30) op de slimme meter
+- Zonnepanelen met omvormer
+- Home Assistant op Raspberry Pi (optioneel maar krachtig)
+
+**De configuratie:**
+Ik gebruik de HomeWizard P1 meter als sensor in Home Assistant. Als het netto vermogen positief is (zonnepanelen produceren meer dan het huis verbruikt), start Home Assistant automatisch de Easee laadpaal op het minimum laadvermogen (6A = 1,4 kW). Naarmate meer zonne-overschot beschikbaar is, verhoogt HA het laadvermogen stapsgewijs (tot 16A = 3,7 kW bij 1-fase).
+
+**Resultaat:**
+- Elke kWh die de auto laadt via de laadpaal = kWh die anders naar het net was gegaan (0,08-0,12/kWh teruglevertarief)
+- Die kWh is nu €0,30 waard (bespaarde inkoop)
+- Jaarlijks verschil bij 1.000 kWh zo geladen: **€180-€220**
+
+Dit is de "gratis" uitbreiding die je laadpaalinvestering verdubbelt in rendement — alleen met een P1-meter en Home Assistant.
+
+---
+
+## Toekomst: bidirectioneel laden en V2H
+
+Bidirectioneel laden (V2H = Vehicle to Home) is de volgende stap: je auto fungeert als thuisbatterij. Tijdens een stroomstoring of tijdens dure piekuren voedt de auto je huis.
+
+**Vereisten:**
+- Bidirectionele laadpaal: Wallbox Quasar 2 (€2.500-€3.500 inclusief installatie)
+- Compatibele auto: Nissan Leaf (CHAdeMO), Hyundai Ioniq 5, Kia EV6, Kia EV9, Mitsubishi Outlander PHEV
+- Netbeheerder-goedkeuring: in Nederland is V2H legaal, V2G (teruglevering aan net) nog niet op consumentenschaal
+
+**Financieel voordeel bij V2H:**
+- Auto als noodstroom: vervang UPS-systemen en kleine thuisbatterij
+- Arbitrage-waarde: auto laden bij negatieve EPEX-prijs (€0/kWh), ontladen bij piek (€0,40+/kWh)
+- Geschatte besparing V2H: €300-€700/jaar bij actief gebruik
+
+**Mijn advies:** V2H is nog een nichemarkt in 2026. De laadpalen zijn duur, de compatibele auto's zijn beperkt. Koop nu een OCPP-laadpaal die later kan worden geüpgraded (Easee Next, Alfen Pro-Line) — dan hoef je de installatie niet opnieuw te doen als V2H mainstream wordt.
+
+---
+
 ## Lees ook
 
 - **[Dynamische Energiecontracten 2026](/posts/dynamische-energiecontracten-vergelijking-2026/)** — Goedkoper laden

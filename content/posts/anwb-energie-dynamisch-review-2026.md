@@ -47,6 +47,66 @@ Acht maanden later heb ik zijn cijfers geanalyseerd. Hier is mijn eerlijke revie
 
 ---
 
+## ANWB Energie in context: hoe groot is dit bedrijf eigenlijk?
+
+ANWB is met ~5 miljoen leden een van de grootste consumentenorganisaties van Nederland. De energiedivisie is relatief jong (scale-up 2024), maar profiteert van enorme naamsbekendheid. In tegenstelling tot pure energiestartups als Tibber (Noors) of Frank Energie (kleiner NL-bedrijf), heeft ANWB een decennialang opgebouwde vertrouwensrelatie met hun leden.
+
+Dat heeft consequenties voor de productpositionering: ANWB richt zich bewust op de niet-tech-savvy consument die dynamisch wil maar niet wakker ligt van EPEX-grafieken. Dat is een legitieme niche — en het betekent dat je als lezer moet weten: als jij Home Assistant-gebruiker bent of de goedkoopste optie wil, is ANWB waarschijnlijk niet voor jou.
+
+---
+
+## Jaarberekening voor drie profielen — concreet doorgerekend
+
+Laat ik drie representatieve Nederlandse huishoudens uitwerken. Ik vergelijk ANWB Dynamisch steeds met Eneco vast contract (de benchmark) én met Frank Energie (de goedkoopste dynamische optie).
+
+**Profiel 1: Appartement, geen zonnepanelen, 2.800 kWh/jaar**
+
+| Contract | Energiekosten | Servicegeld | Marge | Netto/jaar |
+|---|---|---|---|---|
+| Eneco vast (€0,31/kWh) | €868 | €0 | €0 | €868 |
+| ANWB Dynamisch | €617 | €71 | €42 | €730 |
+| Frank Energie | €617 | €60 | €28 | €705 |
+
+ANWB bespaart €138/jaar vs vast. Frank bespaart €163/jaar. Verschil ANWB-Frank: €25/jaar. Bij dit profiel is het onderscheid klein — ANWB is zeker te rechtvaardigen.
+
+**Profiel 2: Tussenwoning, 10 zonnepanelen, 3.500 kWh netto verbruik, 1.800 kWh teruglevering**
+
+| Contract | Energiekosten | Servicegeld | Teruglever | Netto/jaar |
+|---|---|---|---|---|
+| Eneco vast | €1.085 | €0 | -€162 | €923 |
+| ANWB Dynamisch | €612 | €71 | -€234 | €449 |
+| Frank Energie | €612 | €60 | -€234 | €438 |
+
+ANWB bespaart €474/jaar vs vast. Frank bespaart €485/jaar. Verschil: €11/jaar — vrijwel verwaarloosbaar bij dit profiel.
+
+**Profiel 3: Vrijstaand huis, 20 zonnepanelen, 5.200 kWh verbruik, 3.400 kWh teruglevering**
+
+| Contract | Energiekosten | Servicegeld | Marge | Teruglever | Netto/jaar |
+|---|---|---|---|---|---|
+| Eneco vast | €1.612 | €0 | €0 | -€306 | €1.306 |
+| ANWB Dynamisch | €910 | €71 | €78 | -€442 | €617 |
+| Frank Energie | €910 | €60 | €51 | -€442 | €579 |
+
+Bij dit grote profiel wordt het verschil groter: ANWB kost €38/jaar meer dan Frank. Op 5 jaar: €190. Niet dramatisch, maar voor grote verbruikers loont het de overstap naar Frank of Tibber.
+
+---
+
+## Diepgaande vergelijking: ANWB vs Tibber vs Frank vs Eneco Dynamisch
+
+| Aspect | ANWB Energie | Tibber | Frank Energie | Eneco Dynamisch |
+|---|---|---|---|---|
+| Servicegeld | €5,95/mnd | €5,99/mnd | €5,00/mnd | €4,95/mnd |
+| Marge op EPEX | €0,015/kWh | €0 | €0 | €0,015/kWh |
+| Prijsdemping >€0,40 | ✅ | ❌ | ❌ | ❌ |
+| Telefonische support | ✅ (8-22u) | ❌ (chat) | ✅ | ✅ |
+| Open API | ❌ | ✅ | ✅ (via HA) | Beperkt |
+| Smart EV laden | Beperkt | ✅ Native | Via EVCC | Beperkt |
+| HA integratie | Beperkt | ✅ | ✅ | Beperkt |
+| NL-bedrijf | ✅ (groot) | ❌ (Noors) | ✅ | ✅ |
+| Jaarbesparing vs vast | €700-€900 | €800-€1.000 | €820-€1.020 | €700-€900 |
+
+---
+
 ## Wat is ANWB Energie Dynamisch?
 
 ANWB Energie levert sinds 2024 een dynamisch energiecontract via hun ANWB-merk (gelinkt aan ANWB-leden, maar ook open voor niet-leden).

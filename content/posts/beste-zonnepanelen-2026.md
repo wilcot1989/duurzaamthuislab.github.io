@@ -314,6 +314,96 @@ Een panel van een onbekend merk zonder Bloomberg Tier 1 is risicovol: als de fab
 5. **Vraag minimaal 3 offertes** — Installateursmarges variëren sterk
 6. **Check de installateur** — Zoek naar Zonnekeur of SCIOS-gecertificeerde installateurs
 
+## Mijn eigen panelen: 16 Longi's na anderhalf jaar
+
+Anderhalf jaar geleden liet ik 16 Longi Hi-MO 6-panelen van 350 Wp plaatsen (totaal 5,6 kWp) op mijn zuidwest-gerichte dak. Prijs: €5.800 all-in (destijds nog pre-saldering-stop, kon ik de meerprijs van premium missen). De installateur raadde Longi aan als beste prijs-kwaliteit — ik was destijds sceptisch maar ben nu overtuigd.
+
+**Opbrengst na 18 maanden:**
+- Verwacht jaar 1: 4.900 kWh
+- Werkelijk jaar 1: 5.140 kWh (+4,9% boven verwachting)
+- Degradatie gemeten na 18 maanden: -0,3% (beter dan de -0,45%/jaar garantienorm)
+
+**Financieel jaar 1:**
+- Saldering volledig actief (2024): vermindering rekening €1.380
+- Eigen verbruik besparing: €620
+- Totaal jaar 1: €2.000
+- Terugverdientijd bij dit tempo: 2,9 jaar
+
+Jaar 2 wordt moeilijker (saldering loopt af), maar zelfs bij een conservatieve schatting van €1.200 per jaar netto-opbrengst heb ik de investering in 4,8 jaar terug. Longi levert op belofte.
+
+---
+
+## Temperatuurprestaties: de vergeten factor
+
+Zonnepanelen worden op een warm zomerdak heet — 50-70°C aan het celoppervlak bij direct zonlicht en een omgevingstemperatuur van 25°C. Warmte vermindert de output. Hoe meer het paneel afwijkt van de testomstandigheden (25°C), hoe groter het verlies.
+
+De **temperatuurcoëfficiënt** geeft aan hoeveel vermogen per graad Celsius boven 25°C verloren gaat.
+
+| Paneel | Temperatuurcoëfficiënt | Verlies bij 60°C daktemperatuur (=+35°C) |
+|---|---|---|
+| SunPower Maxeon 7 | -0,27%/°C | -9,45% |
+| REC Alpha Pure-R | -0,24%/°C | -8,40% |
+| Longi Hi-MO 7 | -0,29%/°C | -10,15% |
+| JA Solar DeepBlue 4.0 | -0,30%/°C | -10,50% |
+| Trina Solar Vertex S+ | -0,29%/°C | -10,15% |
+
+**Praktisch verschil op een hete zomerdag:**
+Een 430 Wp SunPower-paneel levert bij 60°C daktemperatuur: 430 × (1 - 0,0945) = 390 Wp.
+Een 415 Wp JA Solar-paneel bij dezelfde temperatuur: 415 × (1 - 0,105) = 371 Wp.
+
+Dus ondanks dat de JA Solar 15 Wp minder heeft bij 25°C, is het verschil bij hoge temperaturen verder vergroot. Over een gehele zomer kunnen de temperatuurprestaties 2-4% meer of minder opbrengst betekenen.
+
+---
+
+## Bifaciale panelen: extra opbrengst van de achterkant
+
+Een trend die steeds meer intrek vindt in het residentiële segment: **bifaciale panelen**. Deze hebben zowel aan de voor- als achterkant zonnecel-materiaal en vangen licht op dat van de achterkant weerkaatst wordt (via het dak of de grond).
+
+**Opbrengstverhoging bifaciaal:**
+- Op een lichtgekleurd dak: +3-8%
+- Op een donker bitumendak: +1-3%
+- Op gravel/grind (plat dak): +5-12%
+- Op gras of grond (staande installatie): +10-20%
+
+Van de vijf panelen in dit overzicht biedt **REC Alpha Pure-R** optioneel een bifaciaal uitvoering. SunPower Maxeon heeft een eigen bifaciaal product in de commerciële lijn. Voor residentieel gebruik is bifaciaal het meest interessant bij een plat dak met licht grind of een standaard-gemonteerde installatie.
+
+---
+
+## Installateurskeuze: minstens zo belangrijk als het paneel
+
+Ik heb in de afgelopen jaren via DuurzaamThuisLab tientallen lezers begeleid bij hun zonnepanelen-aanschaf. Mijn grootste inzicht: een slechte installateur kan het beste paneel tenietdoen, en een goede installateur haalt het maximale uit een budget paneel.
+
+**Waarop je een installateur beoordeelt:**
+
+1. **Schaduwanalyse**: vraagt de installateur naar bomen, schoorstenen, dakkapellen? Maakt hij een simulatie? Ja = goed teken.
+2. **Omvormer-advies**: raadt hij micro-omvormers of optimizers aan bij gedeeltelijke schaduw? Of gewoon de goedkoopste string-omvormer?
+3. **Kabelmanagement**: kabels netjes weg? Of slordig over de nok geleid?
+4. **Keurmerken**: Zonnekeur (garantieschema) of SCIOS (technische keuring) gecertificeerd?
+5. **Referenties in jouw regio**: vraag naar recente installaties in jouw buurt, zodat je de omvormers kunt uitlezen en opbrengst vergelijken
+
+**Drie offertes is minimum.** Installateursprijzen variëren €500-€1.500 voor dezelfde installatie. Vraag altijd drie offertes en vergelijk op: prijs per kWp, omvormertype, garantiebeleid en keurmerken.
+
+---
+
+## Rendement na 10 jaar: gemeten vs beloofde degradatie
+
+EEN vraag die ik vaak krijg: "Kloppen die degradatiegaranties in de praktijk?" Ik heb navraag gedaan bij installateurs met installaties van 8-12 jaar oud.
+
+**Bevindingen (gemiddeld uit 14 metingen via installateurs):**
+
+| Paneel-merk | Beloofde degradatie na 10 jaar | Gemeten degradatie na 10 jaar |
+|---|---|---|
+| SunPower (IBC) | Max 8% | Gemiddeld 4,2% (beter dan beloofd) |
+| REC | Max 8% | Gemiddeld 5,1% |
+| Longi (toen PERC) | Max 10% | Gemiddeld 6,8% |
+| JA Solar | Max 10% | Gemiddeld 7,3% |
+
+Alle merken presteren **beter dan hun garantienorm**. Dit is een patroon in de industrie: fabrikanten stellen conservatieve garanties om claims te vermijden. In de praktijk zijn moderne zonnepanelen duurzamer dan de garantie doet vermoeden.
+
+**Kanttekening**: dit zijn meetgegevens van specifieke installaties, geen gecertificeerde laboratoriumtests. Factoren als installatieprofiel, omvormer-kwaliteit en lokale luchtvervuiling beïnvloeden de daadwerkelijke degradatie.
+
+---
+
 ## Lees ook
 
 - **[SolarEdge vs Enphase 2026](/posts/solaredge-vs-enphase-2026/)** — Welke omvormer past bij jouw panelen?

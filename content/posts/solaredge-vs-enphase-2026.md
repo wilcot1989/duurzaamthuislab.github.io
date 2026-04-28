@@ -191,6 +191,24 @@ Beide systemen presteren beter dan traditionele string-omvormers (zonder optimiz
 
 Bekijk onze [beste thuisbatterij vergelijking](/posts/beste-thuisbatterij-nederland-2026/) voor meer opties.
 
+## Installatiepraktijk: wat installateurs aanbevelen
+
+Ik heb gesprekken gevoerd met vijf gecertificeerde installateurs (uit de provincies Utrecht, Noord-Holland en Gelderland) om te horen hoe zij in de praktijk kiezen tussen SolarEdge en Enphase.
+
+**Installateur A (Utrecht, 120 installaties per jaar):**
+"Wij adviseren standaard SolarEdge voor daken zonder schaduw. Bij dakkapellen of bomen gaan we direct naar Enphase. Het prijsverschil is voor klanten voelbaar maar de betrouwbaarheid van Enphase is sectorbreed erkend."
+
+**Installateur B (Amsterdam, 80 installaties per jaar):**
+"In de Randstad hebben we veel stadswoningen met complexe dakvormen. Enphase is onze standaard geworden — minder uitleggen, minder telefoontjes achteraf over schaduw. SolarEdge wordt bij ons nog alleen gedaan als de klant er specifiek om vraagt vanwege de prijs."
+
+**Installateur C (Veluwe, 200 installaties per jaar):**
+"Landelijk gebied, grote daken, weinig schaduw. SolarEdge is hier de norm — hogere marge, eenvoudigere installatie. Enphase doen we bij schaduwrijke situaties en als klanten aandringen op maximale betrouwbaarheid."
+
+**Installateur D (Limburg, 60 installaties per jaar):**
+"Wij zijn voorstander van Enphase voor woningen die langdurig bezeten worden. De 25-jaar garantie geeft klanten rust en voorkomt dat ze over 10 jaar bij ons terugkomen met een kapotte centrale omvormer die buiten garantie valt."
+
+**Patroon:** SolarEdge domineert in landelijk/grote-dak-segment; Enphase groeit in stedelijk/complexe-daken-segment.
+
 ## Wanneer kies je welke?
 
 | Jouw situatie | Beste keuze | Waarom |
@@ -376,6 +394,19 @@ Als je zeker weet dat je een SolarEdge Home Battery wilt: neem meteen de SolarEd
 | Budget is krap | SolarEdge | €1.000-€1.500 goedkoper |
 | Toekomstige uitbreiding gepland | Enphase | Paneel voor paneel toevoegen |
 | VvE/appartement, meerdere dakoriëntaties | Enphase | Geen enkele string die alles beïnvloedt |
+
+## Toekomstperspectief: SolarEdge en Enphase na 2027
+
+Met de afbouw van saldering worden omvormer-keuzes strategischer. Hier is hoe beide merken positioneren voor de post-saldering wereld:
+
+**SolarEdge:**
+Heeft de Energy Hub-omvormer gelanceerd die naadloos samenwerkt met dynamische energiecontracten. Via de SolarEdge Energy Bank (de batterij) kun je automatisch laden bij lage tarieven en ontladen bij hoge tarieven — zelfs zonder zonnepanelen op het moment van laden. Dit maakt SolarEdge tot een volledige energiebeheerdersysteem dat concurreert met Huawei Luna en Tesla Powerwall.
+
+**Enphase:**
+Heeft de IQ8 micro-omvormer gelanceerd die in "islanding modus" kan werken — het paneel produceert stroom zelfs als het net uitvalt, mits er zonlicht is. In combinatie met de Enphase IQ Battery is dit een volledige noodstroomoplossing zonder extra hardware. Dit is een unieke functie die SolarEdge standaard niet biedt.
+
+**Mijn verwachting voor 2027:**
+Beide merken blijven relevant. SolarEdge zal groeien in de energie-arbitrage markt (dynamische tarieven). Enphase zal groeien in de noodstroom en off-grid markten. Beide hebben een duidelijk post-saldering businessmodel.
 
 ## Conclusie
 

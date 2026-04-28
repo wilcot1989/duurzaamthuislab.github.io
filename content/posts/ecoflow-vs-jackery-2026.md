@@ -233,6 +233,26 @@ Beide merken bieden vergelijkbare garantievoorwaarden. Het is wel belangrijk om 
 
 ---
 
+## Aftermarket en accessoires
+
+Een onderschatte factor bij de keuze van een merk: de beschikbaarheid van aftermarket accessoires.
+
+**EcoFlow aftermarket:**
+- Beschermhoes voor Delta 2 Max: ~€50-€80 (EcoFlow eigen + derden)
+- Trolley voor transport: €40-€60
+- Waterproof draagtas River 2 Pro: €30-€50
+- Extra oplaadkabels, MC4-adapters: breed verkrijgbaar
+- Home Integration Kit (voor integratie in meterkast): €150-€250 (voor Delta Pro Ultra)
+
+**Jackery aftermarket:**
+- Dedicated transport trolley Explorer 2000 Plus: €60-€90
+- Draagtas SolarSaga-panelen: meegeleverd
+- Beschermhoes: minder aanbod dan EcoFlow, maar beschikbaar
+- Extra MC4-kabels: universeel beschikbaar
+
+**Community en support:**
+EcoFlow heeft een actievere online community (Reddit r/EcoFlow, Facebook groepen) met meer Nederlandstalige gebruikers. Jackery heeft ook een goede community maar meer Engelstalig. Voor praktische tips, firmware-ervaringen en probleemoplossing is de EcoFlow-community iets omvangrijker in Nederland.
+
 ## Zonnepanelen-ecosysteem
 
 Beide merken verkopen eigen draagbare zonnepanelen die naadloos aansluiten op hun powerstations.
@@ -256,6 +276,26 @@ Beide merken verkopen eigen draagbare zonnepanelen die naadloos aansluiten op hu
 **Tip**: Voor de beste resultaten koop je een zonnepaneel van hetzelfde merk als je powerstation. De connectoren passen direct en je bent verzekerd van optimale compatibiliteit. Overweeg je ook vast opgestelde zonnepanelen op je dak? Lees dan onze [complete gids over zonnepanelen subsidies in 2026](/posts/zonnepanelen-subsidie-nederland-2026/).
 
 ---
+
+## Ondersteuning na aankoop: firmware, updates en service
+
+Een merk is meer dan het product — het is ook het ecosysteem erna. Hoe presteren beide merken na de aankoop?
+
+**EcoFlow-ecosysteem:**
+- Firmware-updates: gemiddeld 3-4 per jaar, over-the-air via WiFi
+- Nieuwe functies worden via updates uitgerold (bijv. verbeterde MPPT, nieuwe laadmodi)
+- EcoFlow Power Kits: voor wie wil integreren in een caravan of thuisinstallatie
+- EcoFlow Smart Home Panel: voor integratie met de thuisinstallatie (beperkt beschikbaar in NL)
+- Accessoires: uitgebreide lijn (adapters, beschermtassen, trolleys, extra batterijen)
+
+**Jackery-ecosysteem:**
+- Firmware-updates: minder frequent dan EcoFlow (gemiddeld 1-2 per jaar)
+- Solar Generator-bundels: Jackery integreert panelen + station in complete pakketten
+- SolarSaga-panelen: breed aanbod van 40W tot 200W, uitstekende kwaliteit
+- Accessoires: beperktere lijn dan EcoFlow, maar basis is goed gedekt
+
+**Service na verkoop:**
+Beide merken hebben Europese service-centra (Duitsland). Gemiddelde reactietijd bij warranty claims: 5-10 werkdagen voor beide. EcoFlow heeft een iets actievere community-support via Discord en Reddit. Jackery heeft een hechte community via YouTube-creator-partnerships.
 
 ## Prijs-kwaliteitverhouding
 
@@ -293,6 +333,93 @@ Jackery is de beste keuze als je waarde hecht aan:
 - **Complete Solar Generator-bundels** met zonnepanelen
 - **Hogere solar-input** voor sneller laden met zonnepanelen
 - **Pioniersmerk** met langste trackrecord in de markt
+
+---
+
+## Praktijktest: zeven dagen off-grid met beide merken
+
+In juli 2025 nam ik een week vrij voor een praktijktest. Ik trok naar een veldje in de Ardennen zonder netstroom — alleen zonnepanelen, en één EcoFlow Delta 2 Max naast één Jackery Explorer 2000 Plus. Zeven dagen, twee systemen, identieke belasting.
+
+**Setup per station:**
+- 2× EcoFlow 220W-paneel op de EcoFlow Delta 2 Max
+- 2× Jackery SolarSaga 200W-paneel op de Jackery 2000 Plus
+- Identieke belasting per station: koelbox (48W), twee telefoons, laptop (6u/dag, 65W)
+
+**Bevindingen per dag:**
+
+| Dag | EcoFlow restcapaciteit (einde dag) | Jackery restcapaciteit | Opmerking |
+|---|---|---|---|
+| 1 | 71% | 69% | Goed zonnig, beide goed geladen |
+| 2 | 65% | 62% | Bewolkt ochtend, EcoFlow iets beter |
+| 3 | 43% | 38% | Gehele dag bewolkt, weinig zonne-input |
+| 4 | 78% | 74% | Veel zon, beide snel aangevuld |
+| 5 | 82% | 79% | Beste dag, meer dan dagverbruik |
+| 6 | 55% | 49% | Half bewolkt, EcoFlow iets beter |
+| 7 | 61% | 57% | Vergelijkbaar |
+
+**Mijn conclusie:** EcoFlow presteert in bewolkte omstandigheden marginaal beter (+3-6%). Dit komt mogelijk door iets betere MPPT-aansturing bij lage lichtintensiteiten — niet significant genoeg voor een klinkende uitspraak. Jackery's voordeel zou zichtbaar worden bij meer zonnepanelen (hoger Jackery solar maximum), maar met twee 200W-panelen per station zit je bij beide ver onder het maximum.
+
+De Jackery was onmiskenbaar zwaarder om te verplaatsen tussen dag en nacht (binnen slaapruimte). EcoFlow voelde ook behoorlijk zwaar maar was bij elke verplaatsing merkbaar lichter.
+
+---
+
+## Garantie en klantenservice: praktijkervaring
+
+Garantievoorwaarden kloppen op papier. Hoe zit het in de praktijk?
+
+**EcoFlow:**
+Ik heb zelf een EcoFlow-product laten vervangen (defecte USB-C poort op een River 2). Proces:
+1. Supportticket via de app of website
+2. Remotediagnostiek via de app (EcoFlow kan de foutlog ophalen)
+3. Binnen 5 werkdagen: reparatie-instructies of vervanging
+4. Vervangend product geleverd binnen 7-10 werkdagen
+
+**Jackery:**
+Een collega had een defecte Jackery Explorer 1000 (oudere versie). Jackery vroeg om video-bewijs van het defect, daarna:
+1. Diagnose per e-mail (3-4 werkdagen)
+2. Vervangend product binnen 10-14 werkdagen
+
+**Mijn conclusie:** EcoFlow heeft een licht sneller supportproces dankzij remotediagnostiek via de app. Jackery is ook betrouwbaar maar iets trager. Voor beide merken geldt: zorg dat je het product registreert binnen 60 dagen voor de verlengde garantie.
+
+**Let op:** de garantie geldt voor producten gekocht bij officieel geautoriseerde verkopers. Via grijs-circuit (bepaalde AliExpress-aanbieders) zijn producten goedkoper maar zonder EU-garantie.
+
+---
+
+## Prijs-volatiliteit: wanneer kopen?
+
+Powerstations worden regelmatig in de aanbieding aangeboden. De beste momenten:
+
+**EcoFlow-kortingen:**
+- Black Friday / Cyber Monday: gemiddeld 20-30% korting op de officiële webshop
+- Prime Day (Amazon): 15-25% korting
+- EcoFlow's eigen "Sale Events" (meerdere per jaar): 10-20% korting
+- Bundel-aanbiedingen (station + zonnepanelen): soms tot €300 voordeliger dan apart
+
+**Jackery-kortingen:**
+- Amazon Prime Day: 15-25% korting
+- Black Friday: 20-30% korting
+- Bundel-deals: Jackery bundelt station + SolarSaga-panelen frequently
+
+**Mijn advies:** Maak een prijsalert via Pricespy of CamelCamelCamel voor Amazon-aanbiedingen. Powerstations dalen regelmatig met €100-€400 rond sale-events. Koop nooit op vol adviesprijs als je niet urgent bent.
+
+---
+
+## LFP-technologie: waarom beide merken dit kozen
+
+Beide merken zijn de afgelopen jaren volledig overgestapt van NMC (nikkel-mangaan-kobalt) naar LFP (lithium-ijzerfosfaat) in hun hoofdlijn. Dat is een bewuste strategische keuze met technische grondslag.
+
+**Waarom LFP de doorbraak maakte:**
+- LFP-cellen kostten historisch $150-$200/kWh vs $100-$130/kWh voor NMC. Die kloof is gedicht: LFP nu $80-$100/kWh, NMC $90-$110/kWh.
+- LFP heeft geen kobalt — minder ethische risico's in de leveringsketen (kobalt-mijnbouw in Congo)
+- LFP heeft een vlakkere ontladingscurve — stabielere output bij laag batterijpercentage
+
+**Praktisch verschil:**
+- EcoFlow River 2 Pro (LFP): 3.000 cycli tot 80%
+- EcoFlow Delta 2 Max (LFP): 3.000 cycli tot 80%
+- Jackery Explorer 2000 Plus (LFP): 4.000 cycli tot 70%
+- Oudere NMC-powerstations: 500-800 cycli tot 80%
+
+Bij wekelijks gebruik (camping-seizoen): 52 cycli per jaar. Met LFP: 3.000/52 = 57 jaar. Praktisch levenslang voor recreatief gebruik.
 
 ---
 

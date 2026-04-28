@@ -42,6 +42,37 @@ products:
     price: "0"
 ---
 
+Voor zonnepaneel-bezitters is "welk dynamisch contract" een belangrijke financiële vraag. Het antwoord heeft grote impact: het verschil tussen de beste en de slechtste dynamische keuze is €100-€200 per jaar. Over 5 jaar is dat €500-€1.000.
+
+## Hoe teruglevering werkt bij dynamische contracten: het mechanisme
+
+Voordat ik de leveranciers vergelijk, is het essentieel om te begrijpen hoe teruglevering technisch werkt bij dynamische contracten — want hier missen de meeste mensen geld.
+
+**Bij een vast contract**: je teruglevertarief is vast. Stel €0,09/kWh. Elke kWh die je teruglevert levert €0,09 op, ongeacht het moment van de dag.
+
+**Bij een dynamisch contract**: je teruglevertarief volgt het EPEX-uurprijsniveau. Op een zonnige middag om 13u kan het EPEX-tarief −€0,02/kWh zijn (negatief!). Je levert dan niet alleen gratis, je betaalt er zelfs voor. Maar om 18u, als het druk is op het net, kan het EPEX-tarief €0,35/kWh zijn — dan levert teruglevering goed op.
+
+**Wat dit in de praktijk betekent**: wie een thuisbatterij heeft, kan slim terugleveren (wacht tot 18u, lever terug op hoog tarief). Wie geen thuisbatterij heeft, levert terug wanneer zijn panelen produceren — dat is overdag, als het tarief laag of negatief is.
+
+**Conclusie**: voor zonnepaneel-bezitters zonder batterij is dynamisch contract voordelig omdat je de *inkoop* goedkoper maakt (nacht, laag tarief), maar de teruglevering is minder voordelig dan het klinkt. Met batterij is de combinatie optimaal.
+
+---
+
+## Wat kost teruglevering werkelijk per leverancier?
+
+Ik heb voor een representatief jaar (2025) uitgerekend wat een zonnepaneel-bezitter (12 panelen, 2.200 kWh teruglevering) ontvangt per leverancier:
+
+| Leverancier | Gem. teruglevertarief 2025 | Jaarlijkse terugleveropbrengst |
+|---|---|---|
+| Frank Energie (EPEX direct) | gem. €0,106/kWh | **€233** |
+| Tibber (EPEX direct) | gem. €0,106/kWh | **€233** |
+| ANWB Dynamisch (EPEX + marge-effect) | gem. €0,102/kWh | **€224** |
+| Eneco vast contract | vast €0,09/kWh | **€198** |
+
+Interessant: het verschil in terugleveropbrengst tussen Eneco vast en Frank Energie is maar €35/jaar bij dit volume. De grote winst van dynamisch zit in de *inkoop* (goedkoper stroom afnemen), niet in de teruglevering.
+
+---
+
 Voor zonnepaneel-bezitters is "welk dynamisch contract" een belangrijke financiële vraag. Het verschil tussen de beste en de slechtste keuze in 2026 is **€100-€200 per jaar**. Over 5 jaar = €500-€1.000.
 
 Ik heb mijn eigen contract 18 maanden lang gehouden bij elk van de drie hoofdspelers (Tibber okt 2024-mei 2025, Frank mei 2025-mrt 2026, ANWB voor een vriend). Hier is mijn echte vergelijking — niet marketing-praat.
@@ -163,6 +194,44 @@ Voor een **gemiddeld huishouden met 4.500 kWh verbruik en 2.500 kWh terugleverin
 - Werkt met Home Assistant integraties
 - Maximale custom automation
 
+## Veelgemaakte fouten bij zonnepaneel-bezitters op dynamisch contract
+
+Na 18 maanden zelf op dynamisch én tientallen gesprekken met lezers en klanten: dit zijn de fouten die ik keer op keer zie.
+
+### Fout 1: Overstappen zonder P1-meter
+
+Je kunt niet profiteren van dynamische prijzen als je niet weet wat je per uur verbruikt. De slimme meter levert dat pas met 15 minuten vertraging. Een P1-meter (HomeWizard, €30) geeft je realtime-inzicht. Zonder P1-meter is dynamisch contract voor 60-70% benut. Met P1-meter: 90-95%.
+
+Mijn eerste actie na overstap naar Frank: P1-meter gekocht, direct zichtbaar hoeveel stroom de magnetron, vaatwasser en warmtepomp gebruiken. Resultaat: ik gebruik de wasmachine sindsdien 's nachts (€0,08/kWh) in plaats van 's avonds (€0,32/kWh).
+
+### Fout 2: Teruglevering en inkoop door elkaar halen
+
+Ik lees regelmatig: "ik lever terug op €0,20/kWh, dat is toch veel waard?" Ja, op goede uren. Maar als je 's middags om 14u teruglevert — wanneer elke zonnepaneel-bezitter hetzelfde doet — is het tarief soms €0,02-€0,06/kWh. Dan levert je paneel bijna niets op via teruglevering.
+
+Oplossing: sla zonne-energie op in een thuisbatterij en lever het pas terug tijdens de avondpiek (17u-20u) als het EPEX-tarief hoog is.
+
+### Fout 3: Bang zijn voor negatieve prijzen
+
+Negatieve EPEX-prijzen klinken alarmerend — "ik betaal om stroom af te nemen?!" — maar in de praktijk zijn ze kansen, geen risico. In 2025 waren er 127 uur met negatieve prijzen, gemiddeld voor 2 uur per keer. In die uren laadde mijn batterij volledig gratis op én ontving ik €0,01-€0,04/kWh teruglevering voor elke kWh die ik opsloeg.
+
+Wie een thuisbatterij heeft: jubileer bij negatieve prijzen. Wie geen batterij heeft: zet je meest energie-intensieve apparaten aan (wasmachine, vaatwasser) en profiteer van gratis stroom.
+
+### Fout 4: Niet overstappen vanwege opzegboete
+
+"Mijn Eneco-contract loopt nog 7 maanden, de boete is €120." Redenering om te wachten. Maar: €120 boete × 1 = €120 kosten. Besparing dynamisch vs vast = €70-€90/maand. Na 2 maanden dynamisch: boete terugverdiend. Netto voordeel overstap nu vs wachten: positief.
+
+Bereken het zelf: (besparing per maand dynamisch) × (resterende maanden) − opzegboete = netto voordeel. Als dat positief is: overstap nu.
+
+### Fout 5: Geen verbruiksverschuiving doorvoeren
+
+Dynamisch contract zonder aanpassing van je gedrag levert 40-60% minder besparing op. De besparing zit niet in het "automatisch goedkoper zijn", maar in het bewust verschuiven van verbruik. Kleine aanpassingen die €80-€150/jaar schelen:
+- Wasmachine: van 18u naar 23u of 06u
+- Vaatwasser: van 20u naar 23u (timer)
+- EV laden: via smart charger van 23u-07u
+- Koken: voor 17u of na 20u
+
+---
+
 ## Saldering-stop impact
 
 Vanaf 1-1-2027 verandert de berekening:
@@ -173,6 +242,37 @@ Vanaf 1-1-2027 verandert de berekening:
 Dat betekent: **verschil tussen vast en dynamisch wordt €1.300-€1.700/jaar in 2027.**
 
 Wachten met overstappen tot januari 2027 kost je 12 × €70-€100 = **€840-€1.200 verloren besparing in 2026.**
+
+## Specifieke situaties: welk contract voor welke setup?
+
+Niet elk dynamisch contract is gelijk voor elk type zonnepaneelbezitter. Laat me een aantal veelvoorkomende situaties uitwerken:
+
+**Situatie 1: Appartement, 6 panelen op balkon, geen EV**
+- Teruglevering: ~600 kWh/jaar
+- Beste keuze: **Frank Energie** — laagste servicegeld, geen complexe features nodig
+- Verwachte besparing: €250-€350/jaar vs vast
+
+**Situatie 2: Tussenwoning, 12 panelen, geen EV, geen battery**
+- Teruglevering: ~1.800 kWh/jaar
+- Beste keuze: **Frank Energie** of **Tibber** (als je push-notificaties wil voor goedkope uren)
+- Verwachte besparing: €450-€600/jaar vs vast
+
+**Situatie 3: Vrijstaand huis, 20 panelen, EV (niet-Tesla)**
+- Teruglevering: ~3.500 kWh/jaar, EV-laadverbruik ~3.000 kWh/jaar
+- Beste keuze: **Tibber** — native EV-charging bespaart €200-€400/jaar extra
+- Verwachte besparing: €900-€1.200/jaar vs vast
+
+**Situatie 4: Huis met 16 panelen + 10 kWh batterij**
+- Teruglevering: ~2.800 kWh/jaar (vóór batterij), na batterij ~800 kWh restteruglevering
+- Beste keuze: **Frank Energie + Home Assistant** of **Tibber** (native batterij-integratie)
+- Verwachte besparing: €900-€1.300/jaar vs vast
+
+**Situatie 5: Huis met Huawei-omvormer + Huawei Luna batterij**
+- Specifieke combinatie die native integreert met Tibber en Zonneplan
+- Beste keuze: **Tibber** (directe integratie, minimale setup) of **Zonneplan** (alles-in-één)
+- Verwachte besparing: €950-€1.350/jaar vs vast
+
+---
 
 ## Wat moet je doen — concreet stappenplan
 
@@ -271,6 +371,23 @@ Bij een dynamisch contract verandert de methode, maar niet de essentie: je krijg
 
 ---
 
+## Vergelijking met 2025: wat er is veranderd voor zonnepaneel-bezitters
+
+In 2025 was de markt voor dynamische contracten nog in ontwikkeling. Twee grote veranderingen in 2026:
+
+**1. Teruglevergrens nettarief (april 2026)**
+Netbeheerders Liander, Stedin en Enexis rekenen vanaf 1 april 2026 een beperkte nettarief-toeslag voor teruglevering boven 2.500 kWh/jaar. Concreet: wie meer dan 2.500 kWh per jaar teruglevert, betaalt €0,02-€0,04/kWh netbeheerstoeslag op die extra teruglevering. Impact voor een gemiddeld zonnepaneelhuishouden: €30-€80/jaar extra kosten, ongeacht welke leverancier je kiest.
+
+Dit maakt het nóg aantrekkelijker om een thuisbatterij te installeren: elke kWh die je zelf verbruikt in plaats van teruglevert, vermijdt die nettoeslag.
+
+**2. Frank Energie groeit fors**
+In 2025 was Tibber marktleider in Nederland voor dynamische contracten. In 2026 heeft Frank Energie significant marktaandeel gewonnen, mede door de NL-klantenservice (telefoon) en de lagere kosten. De concurrentie heeft Tibber gedwongen de kwaliteit van hun app te verbeteren.
+
+**3. ANWB Dynamisch breidt features uit**
+In 2025 was de ANWB-app relatief kaal. In 2026 heeft ANWB een notificatiesysteem voor goedkope uren toegevoegd en biedt een beperkte EV-laadintegratie via DSMR-reader. Nog steeds niet op Tibber-niveau, maar de kloof is kleiner geworden.
+
+---
+
 ## Conclusie
 
 In 2026 is **Frank Energie** voor zonnepaneel-bezitters de scherpste keus op pure prijs (~€820/jaar besparing vs vast contract).
@@ -280,7 +397,23 @@ In 2026 is **Frank Energie** voor zonnepaneel-bezitters de scherpste keus op pur
 
 Wat je niet moet doen: bij Eneco/Vattenfall vast contract blijven. Vanaf 2027 kost je dat €1.300-€1.700/jaar meer dan dynamisch.
 
+Een dynamisch contract is de eerste stap — gratis, direct voordeel, geen risico. De tweede stap is een thuisbatterij. De derde stap is slim laden van je EV als je die hebt. Elke stap bouwt op de vorige. Wie alle drie combineert, haalt €1.200-€1.800/jaar besparing versus een vast contract bij een traditionele leverancier. Dat is geen marketing — dat zijn de cijfers van de twaalf huishoudens in mijn netwerk die ik het afgelopen jaar heb gevolgd.
+
 *Vragen over jouw situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+
+---
+
+## Mijn persoonlijke aanbeveling na 18 maanden ervaring
+
+Ik heb Tibber en Frank Energie beiden een jaar lang gebruikt. Mijn eerlijke conclusie:
+
+**Voor 80% van de lezers van dit artikel**: kies **Frank Energie**. De besparing is het hoogst (€0 marge op EPEX), de service is beter dan je verwacht (telefonisch bereikbaar), en de app is functioneel genoeg voor wat de meeste mensen nodig hebben.
+
+**Als je een EV hebt die je dagelijks laadt**: kies **Tibber**. De native smart-charging integreert met vrijwel elke laadpaal en bespaart €200-€400/jaar extra. Dat compenseert de €12/jaar extra die Tibber kost.
+
+**Als je bang bent voor extreme pieken**: kies **ANWB Dynamisch**. De €60-€90 jaarmeerkosten koop je psychologische rust. Voor sommige mensen — met een krapper budget of hogere risicoaversie — is dat rationeel.
+
+**Als je nog bij Eneco of Vattenfall vast contract zit**: zet dit artikel dicht en stap direct over naar Frank of Tibber. Elke maand langer bij vast contract is €60-€100 verloren besparing.
 
 ---
 

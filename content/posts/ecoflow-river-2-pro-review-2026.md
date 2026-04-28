@@ -286,6 +286,34 @@ Na de storing: 31% over. Mijn conclusie: voor een stroomuitval van 4-6 uur en ee
 
 ---
 
+## Vergelijkingstabel extra: River 2 Pro vs Anker SOLIX C1000
+
+Een minder bekende maar relevante concurrent is de Anker SOLIX C1000. Beide zijn populair als allround-powerstation, maar ze bedienen ander publiek.
+
+| Kenmerk | EcoFlow River 2 Pro | Anker SOLIX C1000 |
+|---|---|---|
+| Capaciteit | 768 Wh | 1.056 Wh |
+| Vermogen continu | 800W | 1.800W |
+| Laadtijd AC (0-80%) | 42 min | 58 min |
+| Solar-input max | 220W | 600W |
+| Gewicht | 7,8 kg | 12,9 kg |
+| Prijs | €400-470 | €800-999 |
+| Batterijlevensduur | 3.000 cycli | 3.000 cycli |
+| WiFi + Bluetooth | Ja | Ja |
+| Uitbreidbaar | Ja (768 Wh extra) | Beperkt |
+
+De River 2 Pro wint op compactheid, laadsnelheid en prijs. De Anker SOLIX C1000 wint op capaciteit (bijna 40% meer) en vermogen (2,25× meer). Voor wie alleen weekendcamping doet: River 2 Pro. Voor wie ook een koelkast op 12V én een inductiekookplaat wil: Anker SOLIX C1000.
+
+## Gebruik als UPS voor thuiswerkplek
+
+Een gebruik dat ik zelf pas laat ontdekte: de River 2 Pro als mini-UPS voor mijn thuiswerksetup.
+
+Mijn thuiswerksetup verbruikt in totaal circa 120W (laptop + monitor + router + lamp). Bij stroomuitval wil ik minimaal 2-3 uur door kunnen werken. De River 2 Pro biedt bij 120W continu belasting: 768 Wh / 120W × 0,88 (omvormerrendement) = **5,6 uur** autonomie.
+
+De UPS-functie van de River 2 Pro is echter beperkt: de omschakeltijd bij stroomuitval is circa 30 milliseconden — voldoende voor de meeste laptops (die een interne accu hebben en korte onderbreking overbruggen) maar onvoldoende voor servers of NAS-systemen die onmiddellijke stroom vereisen. Voor een echte UPS-functie is de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) (met expliciete UPS-modus en <30ms omschakeling) de betere keuze.
+
+Voor eenvoudige thuiswerkscenario's (laptop, router, lamp) werkt de River 2 Pro prima als noodstroom. Ik houd hem standaard op 80% geladen via battery care mode zodat hij klaar staat als het net uitvalt.
+
 ## Waar koop je de EcoFlow River 2 Pro?
 
 - **EcoFlow webshop**: Officieel, inclusief garantie en soms bundel-aanbiedingen
@@ -296,6 +324,15 @@ Na de storing: 31% over. Mijn conclusie: voor een stroomuitval van 4-6 uur en ee
 [Bekijk de EcoFlow River 2 Pro](https://www.ecoflow.com/nl/river-2-pro-portable-power-station)
 
 ---
+
+## Firmware-updates en toekomstbestendigheid
+
+EcoFlow brengt regelmatig firmware-updates uit voor de River 2 Pro — gemiddeld twee tot drie per jaar. De updates worden via de app geïnstalleerd (over-the-air via WiFi) en voegen functies toe of verbeteren de prestaties. Bekende updates van het afgelopen jaar:
+- Verbeterde MPPT-aansturing bij lage lichtomstandigheden (+3% zonne-opbrengst bij bewolking)
+- Battery care mode: maximaal laadniveau instelbaar op 80%, 90% of 100%
+- Stille modus: maximale laadsnelheid instelbaar voor geluidsreductie
+
+Vergelijkbare updatesystemen heeft Jackery (via Jackery-app) en Anker (via Anker-app). Bluetti heeft updates beschikbaar maar heeft historisch minder frequente releases gehad. EcoFlow's updatefrequentie is een concreet voordeel op de lange termijn — je koopt niet alleen hardware maar een systeem dat verbetert.
 
 ## Conclusie: is de EcoFlow River 2 Pro de beste budget keuze?
 

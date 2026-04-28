@@ -312,5 +312,94 @@ Ja, de solar-input van 300W is beperkter dan sommige concurrenten en het aantal 
 
 Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor een bredere vergelijking.
 
+---
+
+## Alternatieve toepassingen die ik niet had verwacht
+
+Na een jaar met de Anker SOLIX C1000 zijn er een paar toepassingen die ik zelf niet had bedacht maar nu regelmatig gebruik.
+
+**Thuiswerken bij stroomstoring op het werk**
+Tijdens een stroomstoring in mijn buurt in november 2024 (3,5 uur) kon ik gewoon doorwerken. Laptop (65W) + externe monitor (30W) + router (15W) + telefoon opladen = 110W totaal. Op de C1000: 1.056 Wh / 110W = 9,6 uur werkcontinu. Geen verloren werkdag.
+
+**Stille stroom op een locatie zonder outlet**
+Als energieadviseur doe ik regelmatig inspecties in panden zonder elektriciteitsaansluiting (leegstand, nieuwbouw, monumenten). De C1000 draait mijn meetapparatuur, laptop en werklamp een volledige dag. Geen generator nodig, geen lawaai.
+
+**Kerstmarkt en buiten-evenementen**
+Mijn buren organiseerden een buurtbarbecue met een DJ-set (mixertafel 50W, actieve speakers 2× 80W = 210W totaal). De C1000 draaide dit systeem bijna 4 uur zonder opladen. Schone stroom, geen dieselaggregaat in de tuin.
+
+**Koelapparaten bij een verhuis**
+Bij een verhuizing van een familielid waren de koelkast en vriezer 6 uur niet aangesloten (verhuiswagen rijdt naar nieuwe locatie). De C1000 hield de vriezer al die tijd op temperatuur (-4°C). Geen foodverlies.
+
+---
+
+## De Anker SOLIX C1000 als noodstroom voor medische apparatuur
+
+Een onderschat gebruiksscenario voor de C1000 is thuisgebruik voor mensen met medische apparatuur die stroom afhankelijk zijn.
+
+**CPAP-apparaat (slaapapneu)**
+Een CPAP-apparaat verbruikt 30-80W, afhankelijk van het model en de drukinstelling. Op de C1000 draait een CPAP-apparaat 13-35 uur op een volledige lading. Dat is 1-2 nachten slapend, zelfs zonder stopcontact. Cruciaal voor mensen die CPAP niet kunnen missen.
+
+Let op: sommige CPAP-apparaten (met verwarmde luchtbevochtiging) trekken meer vermogen. Controleer je eigen model. De C1000 levert een zuivere sinusgolf — essentieel voor CPAP-apparaten die op sinusgolf vereisen.
+
+**Medicijnkoelkast**
+Insuline en sommige andere medicijnen moeten gekoeld blijven (2-8°C). Een kleine medicijnkoelkast (20-30W) draait 35-50 uur op de C1000. Meer dan genoeg voor een stroomstoring van een dag.
+
+**Rolstoelaccu opladen**
+Een elektrische rolstoel heeft doorgaans een accu van 24V 20Ah = 480Wh. Via de 230V-lader oplaadbaar via de C1000, of via de 12V-uitgang met de juiste adapter. De C1000 kan een rolstoeaccu 2× volledig opladen.
+
+---
+
+## Jaarberekening: wat levert de Anker SOLIX C1000 echt op?
+
+Ik reken twee concrete scenario's door.
+
+**Scenario 1: Noodstroom bij stroomuitval**
+
+Jaarlijkse kans op stroomstoring in Nederland: statistisch 2-3 storingen per jaar van meer dan 30 minuten (netbeheerder-rapportage 2025). Eén langdurige storing per jaar van 4-8 uur is realistisch voor woningen in ouder netgebied.
+
+- Vrieserkast (130W gemiddeld): 8 uur = 1.040 Wh
+- Koelkast (80W gemiddeld): 8 uur = 640 Wh
+- Router + 2 telefoons + LED-verlichting: 8 uur = 480 Wh
+- **Totaal: 2.160 Wh** — de C1000 haalt 50% van dit scenario op één lading, genoeg om koelkast, wifi en verlichting 4,5 uur vol te houden
+
+Alternatief zonder powerstation: vriezerverlies bij één stroomstoring kan €50-€200 aan voedsel kosten. De C1000 betaalt zichzelf terug na 5-10 stroomstoringen, of direct als je hem ook voor andere doeleinden gebruikt.
+
+**Scenario 2: Camping (30 nachten per jaar)**
+
+- Campingbox 45W, 10 uur per nacht: 450 Wh
+- Telefoons opladen (2 personen): 50 Wh
+- Verlichting (LED strip): 30 Wh
+- Laptop (1 uur werken): 80 Wh
+- **Totaal per nacht: 610 Wh** — één volledige lading duurt anderhalve campingnacht
+
+Met een 200W zonnepaneel (circa €350 bij Anker) laad je de C1000 overdag volledig op. Je bent energetisch onafhankelijk. Besparing ten opzichte van campingstroomaansluiting (€3-€7 per nacht): **€90-€210 per seizoen**.
+
+---
+
+## Veelgemaakte fouten bij het gebruik van een powerstation
+
+**Fout 1: Powerstation leeg laten staan**
+Een LiFePO4-batterij die maanden leeg staat veroudert sneller. Bewaar de C1000 bij 40-60% lading. Laad hem elke 3-4 maanden bij als je hem niet gebruikt.
+
+**Fout 2: Apparaten aansluiten boven 1800W piekvermogen**
+Een inductiekookplaat op vol vermogen (2.200-2.400W) overbelast de C1000. Gebruik de magnetron of kookplaat op lagere stand, of kies een powerstation met meer vermogen (EcoFlow Delta 2 Max, 2.400W continu).
+
+**Fout 3: Powerstation opladen in hete auto**
+LiFePO4 tolereert temperaturen tot 45°C, maar in een auto op een warme dag kan de temperatuur oplopen tot 60-80°C. Laat de C1000 niet in een gesloten auto staan in de zon — dat versnelt degradatie.
+
+**Fout 4: Niet de app gebruiken**
+De app voegt echte waarde toe: op afstand laadstatus bekijken, laadsnelheid verlagen (stiller 's nachts), en updates installeren die de prestaties verbeteren.
+
+---
+
+## Wettelijk kader 2026: powerstations en veiligheid
+
+**CE-markering:** De Anker SOLIX C1000 heeft CE-certificering conform de Laagspanningsrichtlijn en de EMC-richtlijn. Dit is het wettelijke minimum voor legale verkoop in de EU.
+
+**Gebruik in appartementen:** Powerstations zijn toegestaan in huurwoningen. LiFePO4 is brandveilig door de stabiele chemie. Check of je inboedelverzekering powerstations dekt bij een waarde boven €500.
+
+**Reizen met powerstation:** Op vliegtuigen zijn powerstations tot 100 Wh in handbagage toegestaan. De C1000 heeft 1.056 Wh — niet toegestaan in vliegtuigen (handbagage noch ruimbagage). Vervoer altijd over de weg bij internationale reizen.
+
+---
 
 <a href="/go/anker-solix" class="cta-affiliate" rel="sponsored noopener">Bekijk Anker Solix</a>

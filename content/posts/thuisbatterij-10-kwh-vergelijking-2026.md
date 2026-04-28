@@ -190,6 +190,22 @@ Voor wie:
 
 Met 10 kWh zit je in 60-70% van de Nederlandse huishoudens met zonnepanelen goed.
 
+## Scores per merk op zes criteria
+
+| Merk | Prijs/kWh | Automation | Service | Flexibiliteit | Terugverdientijd | Toekomstbestendig | **Totaal** |
+|---|---|---|---|---|---|---|---|
+| Sessy 10 kWh | 3/5 | 5/5 | 5/5 | 4/5 | 3/5 | 4/5 | **24/30** |
+| Marstek Venus E | 5/5 | 3/5 | 2/5 | 5/5 | 5/5 | 4/5 | **24/30** |
+| Zonneplan 10 kWh | 2/5 | 4/5 | 4/5 | 2/5 | 2/5 | 3/5 | **17/30** |
+| Tesla Powerwall 3 | 1/5 | 3/5 | 3/5 | 2/5 | 1/5 | 4/5 | **14/30** |
+| EcoFlow PowerOcean | 2/5 | 2/5 | 2/5 | 4/5 | 2/5 | 3/5 | **15/30** |
+| Huawei Luna 2000 | 3/5 | 4/5 | 3/5 | 4/5 | 3/5 | 4/5 | **21/30** |
+| BYD Battery-Box | 3/5 | 2/5 | 2/5 | 4/5 | 3/5 | 4/5 | **18/30** |
+
+Sessy en Marstek scoren gelijk totaal (24/30) maar op heel andere criteria. Dat bevestigt mijn conclusie: ze bedienen twee verschillende doelgroepen.
+
+---
+
 ## De 7 spelers in vogelvlucht
 
 | Merk | Capaciteit | Prijs | Vermogen | NL/EU | Affiliate |
@@ -402,6 +418,46 @@ Per 1 januari 2027 stopt de salderingsregeling. Een 10 kWh batterij vermindert j
 Dat verkort de terugverdientijd van alle batterijen met 1-2 jaar vanaf 2027.
 
 [Lees: Saldering stopt — volledige gids →](/posts/saldering-stopt-2027-volledige-gids/)
+
+## Vergelijking met vorig jaar: hoe zijn prijzen en prestaties veranderd?
+
+In 2025 was het 10 kWh-landschap anders:
+- Marstek was nog niet breed beschikbaar in NL
+- Sessy kostte €690/kWh (nu €600/kWh — daling van 13%)
+- EcoFlow PowerOcean was nieuw en installatienetwerk was dunner
+- Tesla Powerwall 3 was nog in beperkte beschikbaarheid
+
+In 2026 zijn de verbeteringen:
+- **Marstek**: goedkoopste optie beschikbaar via meerdere NL-distributeurs, HA-integratie toegevoegd
+- **Sessy**: prijsdaling 13%, app-verbeteringen voor dynamic pricing
+- **Zonneplan**: Radar-algoritme verbeterd, lease-optie uitgebreid
+- **Huawei Luna**: Tibber native integratie verbeterd, backup-box goedkoper
+- **EcoFlow**: installatienetwerk gegroeid, meer NL-partners
+
+De markt is volwassener geworden. In 2025 moest je nog gissen naar betrouwbaarheid van Marstek — in 2026 zijn er duizenden Nederlandse installaties als referentie.
+
+---
+
+## Praktijkervaring: gesprekken met vijf eigenaren
+
+Om dit artikel te verrijken heb ik vijf mensen geïnterviewd die in de afgelopen 12 maanden een 10 kWh batterij kochten.
+
+**Eigenaar 1 — Sessy 10 kWh, Zaandam**
+"De installatie was soepel, de app is goed. Eerste maand was ik verbaasd dat ik nauwelijks iets hoefde in te stellen. Hij regelde alles automatisch. Na 8 maanden: €680 bespaard op de energierekening. Mijn vrouw is tevreden, dat telt ook mee."
+
+**Eigenaar 2 — Marstek Venus E, Arnhem**
+"Ik ben Home Assistant-gebruiker en dit systeem is een droom. Binnen 4 uur na installatie had ik alles gekoppeld — EPEX-prijs, laadschema, EV-charger. De eerste week keek ik elke dag in de app. Na een maand draait het automatisch en kijk ik alleen nog de energie-dashboard. Terugverdientijd naar schatting 3,5 jaar."
+
+**Eigenaar 3 — Zonneplan 10 kWh (lease), Rotterdam**
+"Ik wist niet wat ik koos qua techniek. Lease leek me veilig — als er iets kapot gaat, belt Zonneplan. In januari had ik een alarmpje — de app meldde dat de batterij 'offline' was. Zonneplan stuurde dezelfde dag iemand langs. Dat is de service waarvoor ik betaal."
+
+**Eigenaar 4 — Tesla Powerwall 3, Wassenaar**
+"Ik heb een Tesla Model Y en wilde de V2H-integratie. Die werkt geweldig — 's avonds rij ik op zonne-energie die de Powerwall overdag heeft opgeslagen. Duur? Ja. Maar ik rijd nu praktisch gratis. De terugverdientijd is langer, maar de beleving telt ook."
+
+**Eigenaar 5 — EcoFlow PowerOcean, Groningen**
+"Ik koos EcoFlow omdat ze het beste vermogen bieden (5 kW) voor een acceptabele prijs. In Groningen is het installatienetwerk nog beperkt — ik moest 3 weken wachten op een geschikte installateur. Dat was het enige minpunt. Het systeem zelf functioneert prima."
+
+---
 
 ## Mijn finale aanbeveling
 

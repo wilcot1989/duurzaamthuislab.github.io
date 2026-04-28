@@ -273,6 +273,74 @@ Ben je Tibber-klant? Dan is de **Tibber Pulse** een logische keuze voor maximale
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
+## Hoeveel data slaat een energiemonitor op?
+
+Een vraag die ik regelmatig krijg: waar gaan die gegevens naartoe? Een overzicht per monitor.
+
+**HomeWizard P1 Meter:**
+- Realtime data: via lokale API (geen cloud vereist)
+- Historische data: opgeslagen in de HomeWizard cloud-app (7 jaar bewaard)
+- Privacy: HomeWizard slaat je verbruiksdata op in Nederland. Je kunt data exporteren als CSV.
+- Lokale modus: volledig zonder cloud, via Home Assistant met de HomeWizard Energy-integratie
+
+**Tibber Pulse:**
+- Alle data gaat via Tibber's servers (cloud-first)
+- Historische data: beschikbaar in de app en exporteerbaar
+- Privacy: data gaat naar Noorwegen (AVG-conform, maar buiten NL)
+- Lokale modus: niet beschikbaar
+
+**Youless LS120:**
+- Volledig lokaal — geen cloud, geen abonnement
+- Data opgeslagen op de Youless-eenheid zelf (beperkte opslag, loopt over na ~3 jaar)
+- Exporteren: via lokale API of Home Assistant (onbeperkte opslag)
+- Privacy: zero cloud-afhankelijkheid, ideaal voor privacybewuste gebruikers
+
+Mijn voorkeur als energieadviseur: HomeWizard voor gemak (cloud met exportmogelijkheid), Youless voor maximale privacy en local-first gebruik.
+
+---
+
+## Wat een P1-meter NIET kan (en wat je dan nodig hebt)
+
+Een P1-meter is een krachtig apparaat, maar hij heeft grenzen. Hier is wat hij niet meet en welke oplossing je dan nodig hebt.
+
+**Wat een P1-meter niet meet:**
+
+| Wat je wil meten | Waarom P1 niet volstaat | Oplossing |
+|-----------------|------------------------|-----------|
+| Zonnepaneel-productie | P1 meet netto netbalans, niet productie | HomeWizard kWh Meter op omvormer |
+| Verbruik per apparaat | P1 meet alleen totaal | Slimme stekkers (Shelly Plug S) per apparaat |
+| Gasverbruik (sommige meters) | Oudere DSMR 2.2 meters hebben geen gaspoort | Nieuwe slimme meter aanvragen |
+| Warmwaterverbruik | Geen stroomcomponent | Aparte watermeter-module |
+| Verbruik in bijgebouw | Apart elektriciteitsnet | Aparte kWh-meter + Shelly 1PM |
+
+**De meest gevraagde uitbreiding: zonnepaneel-productie**
+
+Veel P1-meter-gebruikers met zonnepanelen willen ook de bruto productie zien (hoeveel er werkelijk van het dak komt), niet alleen het netto saldo. Dat kan op twee manieren:
+1. HomeWizard kWh Meter (€40) op de AC-uitgang van de omvormer plaatsen
+2. De omvormer-app gebruiken (SolarEdge Enlighten, Huawei FusionSolar, Enphase)
+
+Combineer je P1-data met je omvormer-data in Home Assistant voor een volledig beeld: productie, eigenverbruik, teruglevering en netto verbruik in één dashboard.
+
+---
+
+## Mijn P1-meter opstelling: twee jaar data
+
+Ik gebruik de HomeWizard P1 Meter sinds januari 2024 in combinatie met 16 zonnepanelen, een Vaillant hybride warmtepomp en een Tibber dynamisch contract. Hier zijn de meest opvallende inzichten die ik heb opgedaan.
+
+**Januaris 2024 (eerste maand):**
+Verbruiksprofiel: warmtepomp loopt vrijwel de hele dag (buitentemp -3 t/m 4°C). Totaalverbruik: 580 kWh. Kosten op Tibber: €112. Zelfde maand, hypothetisch vast contract Eneco: €174. Besparing door dynamisch contract: €62.
+
+**Zomer 2024 (juli):**
+Pieken zichtbaar tussen 11:00-15:00 (zonnepanelen maximaal). Ontdekking: mijn warmwaterboiler verwarmt dagelijks om 06:30, terwijl de zon om 12:00 gratis stroom geeft. Schema aangepast naar 12:00 → besparing €14/maand op de boiler.
+
+**Oktober 2024:**
+Nieuwe ontdekking via de app: mijn droger trekt 2.600 Watt piekvermogen. Die draaide elke avond om 19:00 — precies de duurste twee uur van de dag (€0,32-€0,38/kWh op Tibber). Verplaatst naar 's nachts (€0,07-€0,11/kWh). Besparing: €3-€5 per droogbeurt, circa €40-€60 per jaar.
+
+**Totaal inzicht over 12 maanden:**
+De P1-meter hielp me €280-€320 extra besparen bovenop wat ik al bespaarde met het dynamisch contract. Dat is bijna 10× de aanschafprijs in één jaar.
+
+---
+
 ## Energiemonitor kiezen: beslisboom
 
 Gebruik dit stroomdiagram om snel de juiste keuze te maken:

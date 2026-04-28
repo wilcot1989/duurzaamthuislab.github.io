@@ -250,6 +250,25 @@ Bij VvE (Vereniging van Eigenaren) heb je toestemming nodig van de vergadering. 
 **Fout 5: Geen oost-west overwegen bij krap dak**
 Mensen kiezen automatisch voor zuiden. Maar bij een krap plat dak kun je met oost-west 30-50% meer panelen kwijt op hetzelfde dak. Dat compenseert ruimschoots de 8-10% lagere opbrengst per paneel.
 
+## Zelfschoonmakende coatings en paneel-hygiëne
+
+Op een plat dak liggen de panelen op een relatief lage hoek (10-15°). Daardoor spoelt regen ze minder goed schoon dan op een schuin dak (35°). Vuil, pollen, vogeluitwerpselen en stof stapelen zich sneller op.
+
+**Effect van vervuiling op opbrengst:**
+- Lichte vervuiling (stof, pollen): -2-5% opbrengst
+- Matige vervuiling (lichtlaag vuil + sporadische vogeldroppings): -5-12%
+- Ernstige vervuiling (dikke vogeldroppinglaag, mos): -15-30%
+
+**Aanbevolen schoonmaakfrequentie plat dak:**
+- Eenmaal per jaar (voor het zomerseizoen): standaard
+- Tweemaal per jaar bij vogelnestjes nabij of veel bomen
+
+**Zelfschoonmakende coatings:**
+Sommige panelen hebben een nano-coating die water en vuil makkelijker laat afglijden. SunPower en REC bieden dit optioneel aan. Het effect is reëel maar niet spectaculair — gemiddeld 30-40% minder reiniging nodig. In een Nederlandse klimaat met regelmatig regen is de winst kleiner dan in droge regio's.
+
+**Praktisch schoonmaken:**
+Telescopische mop + lauwwarm water (geen zeep — zeepresidu trekt juist meer vuil aan). Geen hogedrukreiniger — beschadigt de frames. Op een plat dak is het dak bereikbaar zonder speciale apparatuur, wat een groot voordeel is ten opzichte van een schuin dak.
+
 ## Vergunning en regelgeving plat dak
 
 In de meeste gevallen is **geen vergunning** nodig voor zonnepanelen op een plat dak van een woning. Uitzonderingen:
@@ -394,6 +413,18 @@ Op een plat dak kun je met oost-west meer panelen kwijt, wat de lagere opbrengst
 **VvE-specifiek**: appartementencomplexen met een VvE kunnen gebruik maken van de Stimuleringsregeling Energieprestatie Huursector (STEP) of de ISDE-subsidie voor VvE's. Dit vereist een formeel VvE-besluit, maar de subsidiebedragen kunnen aanzienlijk zijn voor grotere daken.
 
 ---
+
+## Isolatie en warmtebalans: onverwacht voordeel
+
+Zonnepanelen op een plat dak hebben een bijkomend voordeel dat zelden wordt benoemd: thermische bescherming van het dak en de ruimte eronder.
+
+**Warmteabsorptie:**
+Op een warme zomerdag absorbeert een zwart bitumendak enorme hoeveelheden warmte — dakoppervlaktemperaturen van 70-80°C zijn niet uitzonderlijk. Ruimtes onder zo'n dak (zolder, garagebox) worden erg warm.
+
+Zonnepanelen bieden schaduw over het dak. Het dak onder de panelen wordt 20-30°C koeler dan een onbedekt zwart dak op een hete dag. Voor ruimtes eronder betekent dit merkbaar lagere temperaturen.
+
+**Energetisch voordeel:**
+Als de ruimte onder het dak geconditioneerd is (kantoor, woonruimte), leidt een koeler dak tot 5-15% lagere koelingskosten in de zomer. Dit is een bijkomend economisch voordeel dat zelden in terugverdientijdberekeningen wordt meegenomen.
 
 ## Conclusie
 

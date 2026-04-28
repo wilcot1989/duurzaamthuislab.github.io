@@ -291,6 +291,24 @@ De Anker Solix C1000 is de ideale middenweg. Genoeg capaciteit voor 1-2 dagen au
 
 ---
 
+## Kosten per kWh: de echte economie van vanlife-stroom
+
+Een vraag die ik vaak krijg: "Is een powerstation voor vanlife economisch zinvol vergeleken met campingnetstroom?"
+
+**Campingstroomaansluiting:**
+Typisch: €3-€8 per dag voor netstroom op een camping. Bij 60 campingdagen per jaar: €180-€480.
+
+**Powerstation + zonnepanelen (EcoFlow Delta 2 Max + 2× 220W paneel):**
+- Investering: €1.799 (station) + €900 (2× paneel) = €2.699
+- Levensduur: 10 jaar (conservatief)
+- Kosten per jaar: €2.699 / 10 = €270
+- Kosten per dag gebruik: €270 / 365 = €0,74/dag
+
+**Financieel break-even:**
+Als je minder dan €270/jaar uitgeeft aan campingstroomaansluiting (= 45-90 campingdagen afhankelijk van campingprijs), is het station goedkoper per jaar.
+
+Maar het echte voordeel van een powerstation is niet alleen de stroomprijs — het is de **vrijheid**: wild kamperen, stoppen waar je wilt, geen afhankelijkheid van campings met stroom. Dat heeft een waarde die je niet in euro's kunt uitdrukken, maar die voor de meeste vanlifers de doorslaggevende factor is.
+
 ## Tips voor stroom in je camperbus
 
 ### 1. Combineer met zonnepanelen
@@ -307,6 +325,99 @@ Zet je powerstation op een geventileerde plek. Niet in direct zonlicht en niet i
 
 ### 5. Overweeg een 12V-systeem als aanvulling
 Voor verlichting en de koelkast kun je een eenvoudig 12V-systeem overwegen naast je powerstation. Dit is efficiënter dan alles via de AC-omvormer te laten lopen (minder energieverlies).
+
+---
+
+## Praktijktest: mijn vriend zijn VW Crafter omgebouwd
+
+Mijn vriend Tom bouwde vorig jaar zijn VW Crafter om tot camperbus. Na weken vergelijken koos hij de EcoFlow Delta 2 Max als primaire stroombron, aangevuld met twee EcoFlow 220W-zonnepanelen op het dak (totaal 440W).
+
+**Zijn dagelijks verbruik:**
+- Compressorkoelkast (45W continu, maar met 30% actieve tijd = gemiddeld 14W per uur = 336 Wh/dag)
+- Laptop (thuiswerken, 65W, 8 uur = 520 Wh)
+- LED-verlichting (twee lampen, 12W totaal, 4 uur = 48 Wh)
+- Telefoon laden (15W, 1,5 uur = 22 Wh)
+- Ventilator (35W, 5 uur = 175 Wh)
+- **Totaal: 1.101 Wh/dag**
+
+**Zonne-opbrengst in zomer (Nederland/Duitsland/Oostenrijk):**
+- 440W × 5 effectieve zonuren = 2.200 Wh/dag
+- Na omvormerverlies (~10%): 1.980 Wh/dag
+- Verschil (surplus): +879 Wh/dag
+
+**Conclusie voor Tom's situatie:** in de zomer ruimschoots zelfvoorzienend. Hij rijdt elke dag en laadt het station ook bij via de 12V-aansluiting onderweg (circa 150W = 600 Wh bij 4 uur rijden). Zijn echte situatie in juni 2025 was dat hij twee weken zonder camping of netstroom door Oostenrijk reed en nooit onder 40% batterij zat.
+
+**In de winter (bewolkt, weinig zon):** 440W × 2 effectieve zonuren = 880 Wh/dag. Dat is minder dan zijn dagverbruik van 1.101 Wh. Hij compenseert dan door rijden (12V laden) en af en toe een camping met stroomaansluiting.
+
+**Zijn oordeel na 8 maanden:** "Ik had misschien toch de Jackery 2000 Plus moeten nemen voor de hogere solar-input. Op bewolkte dagen in de winter mis ik die extra 700W solar-capaciteit. Maar voor zomergebruik is de Delta 2 Max perfect."
+
+---
+
+## Verborgen kosten en aandachtspunten bij vanlife-powerstations
+
+### 1. Montageoplossingen
+
+Een powerstation van 23-28 kg moet veilig gemonteerd worden in een rijdende bus. Opties:
+- **Anti-slip mat + sjorring**: goedkoopst, niet ideaal bij scherpe bochten
+- **Houten console met schroeven**: stabiel, vereist schrijnwerk
+- **Dedicated powerstation bracket**: Jackery verkoopt een accessoiretrolley; EcoFlow biedt een wandbevestiging voor Delta Pro (niet voor Delta 2 Max)
+
+Reken €50-€150 extra voor een goede montageoplossing. Dit is veiligheidsrelevant — een 25 kg-station dat bij een noodremming losschiet kan ernstig letsel veroorzaken.
+
+### 2. Ventilatie
+
+Powerstations produceren warmte bij gebruik en opladen. In een kleine bus kan dit relevant zijn:
+- Zet het station niet in een volledig afgesloten kast
+- Bij zware belasting (airco, inductiekookplaat) ventileert het station actief — houd ruimte vrij rondom
+- In de zomer: parkeer zo dat het station in de schaduw staat
+
+### 3. Geluidsoverlast bij het kamperen
+
+De ventilator van een 2000 Wh-powerstation bij zwaar gebruik (>1500W belasting) haalt 45-50 dB. Op een stille bosbouwkamping 's avonds is dat hoorbaar voor buren. Oplossingen:
+- Gebruik zware apparaten (inductiekookplaat, haardroger) alleen overdag
+- Stel een maximale laadsnelheid in via de app voor nachtelijk laden (EcoFlow-app: "stille modus")
+- Kies voor 12V-apparaten (koelbox, LED-verlichting) — die zijn stiller omdat ze geen omvormer activeren
+
+### 4. 12V-systeem versus powerstation
+
+Een vraag die ik veel krijg: "Is een dedicated 12V-systeem (lithiumaccu + DC-DC charger) beter dan een powerstation?"
+
+Voor **koelkast en verlichting** is een 12V-systeem efficiënter — geen omvormerverlies. Een 200 Ah lithiumaccu (2.400 Wh bij 12V) kost €400-600 en laadt via solar of de alternator.
+
+Voor **thuis-achtig gebruik** (laptop, inductiekookplaat, haardroger) is een powerstation handiger — de ingebouwde omvormer is van hoge kwaliteit en de plug-and-play bediening scheelt engineering.
+
+**Mijn aanbeveling**: combineer beide. Een 12V-systeem voor koelkast en verlichting (efficiënt), een powerstation voor comfort-apparaten en noodstroom. Veel vanlifers met een groter budget kiezen precies dit.
+
+---
+
+## Veelgemaakte fouten bij de keuze van een vanlife-powerstation
+
+**Fout 1: Te klein kopen**
+De meestgemaakte fout. "Ik heb toch niet zoveel nodig" — en dan toch elke twee dagen op zoek naar een camping voor stroom. Reken je dagelijks verbruik realistisch uit (zie de tabel eerder in dit artikel) en koop minimaal 20% meer capaciteit dan je berekening.
+
+**Fout 2: Solar-input onderschatten**
+Een station met 220W maximum solar-input (EcoFlow River 2 Pro) is geweldig voor weekenders maar inadequaat voor een full-time vanlifes met een 500W dakinstallatie. Check de maximum solar-input altijd voordat je koopt.
+
+**Fout 3: Gewicht negeren**
+27-28 kg is significant in een kleine bus. Als je het station regelmatig in en uit de bus tilt (bij een meerpersoons gebruik of bij verhuur), overweeg dan een lichtere optie (Anker Solix C1000, 12,9 kg) ook al is de capaciteit kleiner.
+
+**Fout 4: Geen rekening houden met wintergebruik**
+In de zomer is bijna elke setup zelfvoorzienend. In de winter (bewolkte dagen, minder zon, hogere verwarming) verandert alles. Als je ook in de winter full-time in de bus leeft, heb je minimaal 2.000 Wh nodig + 600W+ solar + alternator-opladen.
+
+**Fout 5: Geen 12V rijladen instellen**
+Bijna alle moderne powerstations kunnen laden via de 12V-sigarettenaansteker. Maar de maximale laadsnelheid is dan 100-200W — te weinig voor snel opladen. Sommige fabrikanten (EcoFlow) bieden een directe accu-kabel aan waarmee je 600-900W via de rijdende alternator kunt laden. Dit maakt een significant verschil op langere ritdagen.
+
+---
+
+## Welk powerstation past bij jouw vanlife-stijl?
+
+| Vanlife-stijl | Aanbevolen powerstation | Waarom |
+|---|---|---|
+| **Full-time vanlife** | EcoFlow Delta 2 Max | Capaciteit, vermogen, uitbreidbaar |
+| **Off-grid langere periodes** | Bluetti AC200Max | Maximale zonne-input (900W) |
+| **Maximaal vermogen** | Jackery Explorer 2000 Plus | 3000W voor zware apparaten |
+| **Weekend/vakantie** | EcoFlow River 2 Pro | Licht, compact, betaalbaar |
+| **Beste allround** | Anker Solix C1000 | Goede balans alles |
 
 ---
 

@@ -247,6 +247,27 @@ De Bluetti AC200MAX is verkrijgbaar vanaf **circa €1.699**. Dat maakt het het 
 
 ---
 
+## Stroomstoring-scenario: 24 uur noodstroom berekend
+
+Stel je voor: 24 uur stroomstoring. Wat kan de Bluetti AC200MAX aan, en hoelang?
+
+**Gezin van 4 personen, basis-noodstroom:**
+- Koelkast (150W gemiddeld, 6 uur actief per dag): 900 Wh
+- Diepvries (100W gemiddeld, 4 uur actief): 400 Wh
+- Verlichting 4 kamers (40W LED totaal, 8 uur): 320 Wh
+- WiFi-router + telefoonopladers (50W, 16 uur): 800 Wh
+- Totaal: 2.420 Wh per dag
+
+De Bluetti AC200MAX biedt 2.048 Wh, minus ~15% omvormerverliezen = effectief circa 1.741 Wh via AC. Dat is **niet genoeg voor 24 uur** van het bovenstaande scenario.
+
+**Met één B230-uitbreiding (4.096 Wh totaal):**
+Effectief via AC: ~3.482 Wh. Dat is ruim genoeg voor 24+ uur noodstroom voor een gezin van 4.
+
+**Zonder uitbreiding (basis):**
+Schrapper: geen diepvries voeden, koelkast alleen 4 uur laten lopen, verlichting beperken. Dan kom je op ~1.600 Wh/dag — net haalbaar voor 24 uur.
+
+**Mijn aanbeveling:** wie de Bluetti AC200MAX als serieuze noodstroomoplossing wil inzetten, neemt minimaal één B230-batterijpakket erbij. Zonder uitbreiding is het een goede 12-uur buffer; met uitbreiding een volwaardige 24-uur oplossing.
+
 ## Voor wie is de Bluetti AC200MAX geschikt?
 
 De AC200MAX is de **beste keuze** als je:

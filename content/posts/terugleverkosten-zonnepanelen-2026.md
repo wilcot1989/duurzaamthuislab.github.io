@@ -308,6 +308,111 @@ Op basis van profiel:
 
 ---
 
+## Hoe terugleverkosten je rendement beïnvloeden: een rekenmodel
+
+Ik maak het concreet. Twee huishoudens, identieke installatie (12 panelen, 4,2 kWp), maar verschillende contractkeuze.
+
+**Installatie-aanname:**
+- Opwekking: 3.780 kWh/jaar
+- Eigen verbruik 40%: 1.512 kWh
+- Teruglevering 60%: 2.268 kWh
+- Aanschafkosten: €4.800
+
+**Scenario A: Eneco (vaste prijs), 2026-2030**
+
+| Jaar | Besparing eigen verbruik | Terugleververgoeding | Terugleverkosten | Netto per jaar |
+|---|---|---|---|---|
+| 2026 (saldering) | €454 | €680* | €240 | €894 |
+| 2027 (stop saldering) | €463 | €227** | €312 | €378 |
+| 2028 | €472 | €230 | €312 | €390 |
+| 2029 | €481 | €235 | €312 | €404 |
+| 2030 | €491 | €240 | €312 | €419 |
+| **Totaal 5 jaar** | | | | **€2.485** |
+
+*Gesaldeerd 2.268 kWh × €0,30 = €680
+**Terugleververgoeding 2.268 kWh × €0,10 = €227; terugleverkosten staffel bij 2.268 kWh Eneco: €26/maand = €312/jaar
+
+**Scenario B: Frank Energie (dynamisch), 2026-2030**
+
+| Jaar | Besparing eigen verbruik | Terugleververgoeding | Terugleverkosten | Netto per jaar |
+|---|---|---|---|---|
+| 2026 | €408 | €680* | €0 | €1.088 |
+| 2027 | €419 | €249** | €0 | €668 |
+| 2028 | €430 | €255 | €0 | €685 |
+| 2029 | €440 | €260 | €0 | €700 |
+| 2030 | €451 | €266 | €0 | €717 |
+| **Totaal 5 jaar** | | | | **€3.858** |
+
+*Saldering gelijk aan Eneco
+**Dynamisch marktprijs teruglevering gemiddeld €0,11/kWh
+
+**Verschil over 5 jaar: €3.858 - €2.485 = €1.373** in het voordeel van dynamisch.
+
+Dit verschil is puur door contractkeuze — zelfde panelen, zelfde opwekking. Bij hogere teruglevering (meer panelen) wordt het verschil groter.
+
+---
+
+## Slim verbruik: hoeveel kun je teruglevering verlagen?
+
+Veel zonnepaneel-bezitters weten niet hoeveel potentieel er zit in slim verbruiksmanagement. De meeste mensen leven op een 9-17 uur werkpatroon buiten huis en laten de zonnestroom ongebruikt terugleveren.
+
+**Apparaten die je overdag kunt plannen:**
+
+| Apparaat | Wattage | Optimale timing | Effect op teruglevering |
+|---|---|---|---|
+| Vaatwasser | 1.200-2.000W | 11:00-14:00 | -300-500 Wh/dag |
+| Wasmachine | 400-800W | 11:00-15:00 | -300-600 Wh/dag |
+| Droger | 1.500-2.500W | 12:00-15:00 | -500-800 Wh/dag |
+| Elektrische boiler | 1.500-3.000W | 12:00-15:00 | -500-1.000 Wh/dag |
+| EV opladen | 3.700-11.000W | 11:00-16:00 | -1.000-5.000 Wh/dag |
+| Warmtepompboiler | 1.000-2.000W | 11:00-14:00 | -300-800 Wh/dag |
+
+**Realistisch effect voor een gemiddeld gezin (geen EV):**
+Door de vaatwasser, wasmachine en boiler te plannen op zonne-piekuren: -600 tot -1.200 Wh per dag op zonnige zomerdagen. Over een volledig jaar (60 zonnige zomerdagen met overproductie): -36.000 tot -72.000 Wh = 36-72 kWh minder teruglevering per jaar.
+
+Bij 2.268 kWh totale teruglevering: dat is 1,6-3,2% reductie. Niet spectaculair, maar gratis.
+
+**Met een EV die overdag laadt:** effecten zijn enorm. Een gezin dat de EV overdag (12:00-16:00) laadt op zonne-overschot kan de teruglevering met 500-1.500 kWh per jaar reduceren — afhankelijk van rijgedrag en installatiegrootte.
+
+---
+
+## De echte kosten van negatieve marktprijzen
+
+Dynamische contracten hebben géén aparte terugleverkosten — maar er is een verborgen kost: uren met negatieve marktprijzen.
+
+**Wat zijn negatieve marktprijzen?**
+Op zonnige zomerse middagen wanneer veel zonnestroom op het net komt, kan de groothandelsprijs negatief worden. Dat betekent: producenten betalen om hun stroom kwijt te raken op de markt. Bij een dynamisch contract word jij (als terugleverende zonnepaneel-bezitter) effectief ook "gestraft" — je krijgt niet alleen niets, je betaalt.
+
+**Hoe vaak dit voorkomt in Nederland:**
+- 2023: ~120 uur met negatieve EPEX-prijs NL
+- 2024: ~180 uur
+- 2025: ~230 uur (verwachting op basis van Q1-Q3)
+- 2027 verwachting (na saldering-stop): ~280-350 uur
+
+**Wat dit concreet kost:**
+Gemiddelde negatieve prijs: circa -€0,04/kWh. Gemiddeld vermogen teruglevering in die uren: ~2 kW (12 panelen, goede dag). Per uur: 2 kWh × €0,04 = €0,08 "kosten". Over 230 uur in 2025: 230 × €0,08 = **€18,40 per jaar** effectieve kosten door negatieve uren.
+
+Ter vergelijking: Eneco terugleverkosten bij 2.500 kWh/jaar teruglevering: €240/jaar. Dynamisch negatieve uren: ~€18-€40/jaar. Het verschil is groot.
+
+---
+
+## Tools en apps voor contractvergelijking
+
+**Voor zelf doorrekenen:**
+
+1. **Frank Energie app** — toont je verwachte jaarbesparing op basis van je verbruiksprofiel (handige simulatie)
+2. **Tibber app** — toont historische prijzen en verwacht verbruik na switch
+3. **Energieprijzen.nl** — vergelijkt actuele tarieven van alle leveranciers
+4. **P1 Monitor** (met Homewizard Energy of DSMR-logger) — meet je werkelijke teruglevering per dag zodat je weet in welke staffel je valt
+
+**De stap-voor-stap aanpak:**
+1. Download je jaarverbruik van Mijn Netbeheerder of via je leverancier-app
+2. Kijk op welke tijden je teruglevert (je slimme meter heeft dit)
+3. Bereken op basis van de staffels welke leverancier het goedkoopst is
+4. Switch naar dynamisch als je >1.500 kWh/jaar teruglevert
+
+---
+
 ## Conclusie
 
 Terugleverkosten zijn de eerste van twee klappen die zonnepaneel-bezitters opvangen — saldering-stop in 2027 wordt de tweede. De goede leveranciers (Tibber, Frank, Engie, Greenchoice) onderscheiden zich nu al van de slechte (Eneco, Budget Energie, Vattenfall voor hoog-volume).

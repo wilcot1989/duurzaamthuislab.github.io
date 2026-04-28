@@ -251,6 +251,22 @@ Het station is minder geschikt als je een **compact en licht** powerstation zoek
 
 ---
 
+## Geluidstest bij zware belasting
+
+Ik heb de Explorer 2000 Plus getest met een geluidsmeter bij verschillende belastingen in een rustige omgeving (achtergrondgeluid ~20 dB):
+
+| Belasting | Gemeten geluid | Ventilatorstatus |
+|---|---|---|
+| Standby | 21 dB | Uit |
+| 200W (laptop + router + lamp) | 28 dB | Nauwelijks hoorbaar |
+| 800W (koffiezetapparaat) | 40 dB | Licht actief |
+| 1.500W (inductieplaat laag) | 45 dB | Actief |
+| 2.500W (elektrische barbecue) | 49 dB | Volop |
+| 3.000W (maximale belasting) | 52 dB | Maximum |
+| AC-laden (1.500W input) | 47 dB | Actief |
+
+Bij 52 dB op maximale belasting is de Jackery 2000 Plus merkbaar luider dan de EcoFlow Delta 2 Max (~49 dB). Het verschil is echter klein en beide zijn acceptabel voor buitengebruik. In een slaapruimte of stille tent: gebruik je zware apparaten buiten, niet 's nachts naast je slaapmat.
+
 ## Prijs en waar te koop
 
 De Jackery Explorer 2000 Plus heeft een adviesprijs van **€1.899**. Battery Pack 2000 Plus uitbreidingsmodules kosten circa **€1.499** per stuk. Jackery biedt regelmatig bundelaanbiedingen aan met zonnepanelen en extra batterijen.

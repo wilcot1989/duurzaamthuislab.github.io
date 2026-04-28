@@ -254,6 +254,78 @@ Begin met de basis (P1-meter + slimme thermostaat) en breid stap voor stap uit. 
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
+## Slimme radiatorknoppen: zin of onzin?
+
+Slimme radiatorknoppen (Tado, Homey, IKEA Dirigera-compatible) worden vaak aanbevolen als onderdeel van een smart home energiesysteem. Mijn eerlijke mening: ze zijn zinvol in specifieke situaties, maar lang niet altijd de beste investering.
+
+**Wanneer slimme radiatorknoppen zinvol zijn:**
+- Je hebt een CV-ketel (gas of hybride) met radiatoren in meerdere kamers
+- Je wil per kamer een ander schema instellen (bijv. slaapkamer op 14°C, woonkamer op 20°C)
+- Je wil niet-gebruikte kamers automatisch koud laten
+
+**Wanneer ze minder zinvol zijn:**
+- Je hebt vloerverwarming: slimme radiatorknoppen werken niet op vloerverwarming
+- Je hebt een full-electric warmtepomp: die stuurt je al via de binnenunit
+- Je woning is klein (<80 m²): één slimme thermostaat in de woonkamer is voldoende
+
+**Kosten en besparing:**
+- Prijs per slimme radiatorknop: €35-€60 (Tado), €25-€40 (IKEA)
+- Besparing per ongebruikte kamer (logeer-, werk- of hobbykamer): €30-€80/jaar
+- Terugverdientijd: 1-2 jaar per kamer
+
+Ik heb 3 slimme Tado-knoppen op de slaapkamers. Schema: 14°C overdag en bij afwezigheid, 17°C van 21:00-06:00. Besparing: ~€65/jaar. Terugverdientijd: 2,5 jaar.
+
+---
+
+## Hoe ik mijn warmtepomp op dynamische prijs aanstuurt
+
+Dit is het meest gevraagde onderwerp van mijn lezers: hoe koppel je een warmtepomp aan dynamische stroomtarieven? Ik doe het met een Vaillant aroTHERM Plus via Home Assistant. Hier is de aanpak.
+
+**Vereisten:**
+- Home Assistant (Raspberry Pi 4, €80)
+- Tibber of Frank Energie + API-key (gratis in de app)
+- Warmtepomp met Modbus-interface of smart controller (VRC700, Tado, of externe Modbus-adapter)
+- HomeWizard P1 Meter voor energiemeting
+
+**De logica:**
+Ik heb twee automatiseringen ingesteld:
+
+1. **Goedkoop uur (<€0,10/kWh):** Warmtepomp op volledige capaciteit, ruimtetemperatuur ophogen naar 21°C
+2. **Duur uur (>€0,30/kWh):** Warmtepomp uitschakelen, thermostaat daalt naar 18°C (comfort-minimum)
+
+Dit werkt dankzij de **thermische massa** van mijn woning: een goed geïsoleerde tussenwoning koelt slechts 0,5-1°C per uur af bij lichte vorst. Ik "laad" de woning op tijdens goedkope uren en "ontlaad" hem tijdens dure uren.
+
+**Jaarlijks resultaat bij 4.500 kWh warmtepompverbruik:**
+- Gemiddeld tarief betaald: €0,11/kWh (goedkope uren, nacht en zonnige middagen)
+- Gemiddeld tarief zonder sturing: €0,19/kWh
+- Besparing: 4.500 kWh × (€0,19 - €0,11) = **€360 per jaar**
+
+Dit is de meest impactvolle automatisering in mijn hele smart home-systeem. En de investering (Home Assistant + P1-meter) was €110.
+
+---
+
+## De kosten van standby-verbruik: meer dan je denkt
+
+Uit onderzoek van Milieu Centraal (2024) blijkt dat standby-verbruik in een gemiddeld Nederlands huishouden 10-15% van het totale stroomverbruik uitmaakt. Bij een gemiddeld verbruik van 3.500 kWh/jaar is dat 350-525 kWh — goed voor €105-€158 per jaar bij een tarief van €0,30/kWh.
+
+De grootste standby-zondaars per apparaat:
+
+| Apparaat | Standby-verbruik | Kosten/jaar |
+|---------|-----------------|------------|
+| Satellite-ontvanger / decoder | 12-20W | €32-€53 |
+| Soundbar / stereo-installatie | 5-15W | €13-€40 |
+| Game-console (PS5, Xbox) | 1-3W (rest) / 8-15W (quick-resume) | €2-€40 |
+| Wifi-versterker / extra router | 5-10W | €13-€26 |
+| Printer (stand-by) | 3-8W | €8-€21 |
+| Koffiezetapparaat met warm-plaat | 60-80W (warm houdfunctie) | €160-€213 |
+| Aquarium-verwarming + pomp | 60-120W | €160-€319 |
+| Elektrische fiets-lader (na vol laden) | 2-5W | €5-€13 |
+| **Totaal geschat** | **~148-271W** | **€400-€720/jaar** |
+
+Slimme stekkers elimineren dit verbruik volledig. Met 6 Shelly Plug S-stekkers (€90 totaal) schakel je de grote verbruikers volledig uit en bespaar je €100-€200 per jaar netto — terugverdientijd 6-11 maanden.
+
+---
+
 ## Smart home energie na de saldering-stop 2027
 
 Per 1 januari 2027 eindigt de salderingsregeling. Voor smart home-eigenaren is dit eerder goed nieuws dan slecht nieuws.

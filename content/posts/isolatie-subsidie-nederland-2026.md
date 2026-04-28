@@ -327,6 +327,25 @@ Begin met een inventarisatie, vraag offertes aan bij erkende installateurs, en p
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
+## Isolatie en hypotheek: wat verandert er?
+
+Banken koppelen hypotheekrentes steeds vaker aan het energielabel. Hier zijn de concrete voordelen in 2026:
+
+**Groene hypotheek (label A of hoger):**
+- ABN AMRO: 0,15% rentekorting op hypotheek bij label A
+- ING: 0,20% rentekorting bij label A of hoger
+- Rabobank: tot 0,25% korting + €2.500 duurzaamheidspremie bij verbouwing
+- Triodos: 0,20% korting + adviesgesprek verduurzaming
+
+**Rekenvoorbeeld:** Hypotheek €280.000 met 3,5% rente. Bij 0,20% rentekorting = 3,3% rente. Verschil: €560 per jaar minder rente. Dat is bovenop de lagere energierekening.
+
+**Energiehypotheek:**
+Met een energiehypotheek kun je tot €30.000 extra lenen voor verduurzaming, boven je maximale leencapaciteit op basis van inkomen. Voorwaarde: het geld moet worden besteed aan energiebesparende maatregelen (isolatie, warmtepomp, zonnepanelen).
+
+Praktijkgeval: een gezin met maximale leencapaciteit van €320.000 kan met energiehypotheek €350.000 lenen als de extra €30.000 volledig naar verduurzaming gaat. Zo kun je een woning kopen én meteen verduurzamen, ook als je niet genoeg spaargeld hebt.
+
+---
+
 ## ISDE aanvragen: stap-voor-stap met screenshots (april 2026)
 
 Ik heb mijn eigen ISDE-aanvraag voor vloerisolatie in april 2026 gedaan. Dit is het exacte proces.
@@ -368,6 +387,33 @@ Een terugkerend punt van verwarring: ISDE aanvragen vóór of na de installatie?
 **Gemeentelijke subsidies:** Check per gemeente. Sommige gemeenten (bijv. Rotterdam) vereisen aanvraag vóór de installatie — dan moeten ze het werk kunnen controleren. Anderen accepteren alleen een aanvraag ná installatie. Bij twijfel: bel de gemeente.
 
 **Energiebespaarlening (Nationaal Warmtefonds):** Aanvragen vóór de installatie. De lening wordt uitbetaald na goedkeuring, waarna je het werk kunt laten uitvoeren.
+
+---
+
+## Erkende installateurs vinden: hoe doe ik dat?
+
+Voor ISDE-subsidie moet de installateur bij RVO geregistreerd zijn. Maar hoe vind je er een die ook goed is?
+
+**Officiële route via RVO:**
+1. Ga naar rvo.nl → zoek op "erkende installateurs ISDE"
+2. Filter op maatregel (bijv. "dakisolatie" of "spouwmuurisolatie")
+3. Vul je postcode in voor regionale resultaten
+
+**Alternatieve routes:**
+- Zoekloket.nl: vraag 3 offertes aan bij gecertificeerde bedrijven in jouw regio
+- KOMO-keurmerk.nl: zoek op woningisolatie + regio
+- Energiesubsidiewijzer.nl: geeft ook een installateursgids
+
+**Waarop letten bij een offerte:**
+1. Vermeldt de offerte het KOMO- of BRL-certificaatnummer?
+2. Staat er expliciet "0% BTW conform Wet OB"?
+3. Is de Rc-waarde van het te plaatsen materiaal vermeld?
+4. Is het geïsoleerde oppervlak in m² vermeld?
+5. Is de installateur bereid een installatierapport te leveren na afronding?
+
+Als één van deze vijf punten ontbreekt in de offerte, is dat een rode vlag. Vraag de installateur om de offerte aan te vullen of kies een andere partij.
+
+**Referentiecheck:** Vraag altijd naar 2-3 recente klanten die je kunt bellen. Een goede installateur heeft dit direct paraat. Een installateur die dit niet kan of wil geven: skip.
 
 ---
 

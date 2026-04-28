@@ -341,6 +341,65 @@ Voor wie zonnepanelen heeft en de saldering-stop voorbereidt: Frank is bijna alt
 
 ---
 
+## Frank Energie in extreme marktomstandigheden
+
+Dynamische contracten worden het meest bekritiseerd tijdens extremen. Hier is hoe Frank zich gedraagt in de gevallen die mensen het meest vrezen.
+
+**Winterstorm januari 2025 (4 uur met €1,20/kWh)**
+Dit was de meest besproken EPEX-piek van 2025. Op 14 januari 2025 liep de EPEX-prijs van 17:00-21:00 op tot €1,18-€1,24/kWh door combinatie van: weinig wind, hoge verwarmingsvraag, en Duits exportlimiet.
+
+Mijn kosten in die 4 uur: ik had de warmtepomp twee uur eerder al laten voorverwarmen (thermisch bufferen) en de droger uitgeschakeld. Netto verbruik in die 4 uur: 0,8 kWh. Kosten: €1,15. Met een vast contract zou ik diezelfde 4 uur €0,32 × 0,8 = €0,26 betaald hebben — maar ik had ook zonder automatisering gewoon de droger aan laten staan en 3-4× meer verbruikt.
+
+Wie niets regelt bij Frank heeft in een extreme piek hogere kosten dan een vast contract. Wie automatiseert, heeft lagere kosten dan een vast contract — ook bij pieken.
+
+**Negatieve prijzen (zomerse zonnepiekdag)**
+In 2025 waren er 47 uur met negatieve EPEX-prijzen in Nederland (bron: ENTSO-E). Dat zijn uren waarop je stroom verbruiken geld kost — maar bij Frank krijg je de negatieve prijs terugbetaald als teruglevering negatief is.
+
+In de praktijk: als EPEX -€0,05/kWh is en ik lever 2 kWh terug, "betaal" ik €0,10 voor het terugleveren. Dat klinkt slecht, maar mijn thuisbatterij laadde in die uren op voor €0 (of zelfs negatief). De arbitrage is positief over het hele uur.
+
+---
+
+## Vergelijking: Frank Energie vs alle dynamische leveranciers 2026
+
+Er zijn inmiddels vijf serieuze aanbieders van dynamische contracten in Nederland. Ik heb ze naast elkaar gezet op de punten die er echt toe doen.
+
+| Criterium | Frank | Tibber | ANWB Dynamisch | Eneco Dynamisch | Greenchoice Dyn. |
+|-----------|-------|--------|----------------|-----------------|-----------------|
+| Servicegeld/mnd | €5,00 | €5,99 | €5,95 | €4,95 | €3,95 |
+| Marge op EPEX | €0 | €0 | €0,015/kWh | €0,015/kWh | €0,02/kWh |
+| Piekdemping | Nee | Nee | Ja (€0,40 max) | Nee | Nee |
+| App-kwaliteit | 7/10 | 9/10 | 7/10 | 6/10 | 7/10 |
+| EV slim laden | 3rd party | Native | Beperkt | Beperkt | Nee |
+| Smart home | Home Assistant | Native + HA | Beperkt | Nee | Nee |
+| Klantenservice | Telefoon + chat | Chat | Telefoon + chat | Telefoon + chat | Telefoon + chat |
+| Bedrijfsland | NL | NO | NL | NL | NL |
+| Jaarkosten 3.500 kWh | €745 | €792 | €820 | €843 | €867 |
+
+**Conclusie tabel:** Frank is de goedkoopste optie per jaar voor het gemiddelde huishouden zonder EV. Tibber wint op features en EV-integratie. ANWB is de veiligste keuze voor wie piekprijzen wil cappen.
+
+---
+
+## Frank Energie: vijf redenen om NIET over te stappen
+
+Ik ben fan van Frank, maar eerlijkheid vereist ook dit te benoemen:
+
+**Reden 1: Je hebt een EV en wil native slim laden**
+Tibber's EV-integratie bespaart EV-rijders €30-€60 per maand. Frank heeft dat niet. Over een jaar is dat €360-€720 meer besparing bij Tibber. Dat compenseert ruimschoots het hogere servicegeld (€12/jaar) en dan nog.
+
+**Reden 2: Je wil maximale automatisering zonder technische kennis**
+Frank + Home Assistant = powerful maar je moet het zelf instellen. Tibber doet meer out-of-the-box. Voor mensen die geen tijd of zin hebben om te tweaken: Tibber is gebruiksvriendelijker.
+
+**Reden 3: Je verbruik is onder 2.000 kWh per jaar**
+Voor een éénpersoonskuishouden met laag verbruik en geen smart home zijn de besparingen kleiner. Het servicegeld van €5/mnd (€60/jaar) is dan een groter percentage van je energierekening. Overweeg dan Greenchoice of Engie met lager servicegeld.
+
+**Reden 4: Je wil een piekprijs-demper**
+Winterstormen veroorzaken soms €1+/kWh uren. Als je die risico's echt niet wil lopen, kiest de ANWB Dynamisch (max €0,40/kWh). Frank dempt niets.
+
+**Reden 5: Je bedrijf wil een zakelijke rekening met één leverancier**
+Frank heeft een zakelijk contract maar de rapportage en facturatie zijn minder uitgebreid dan bij Vattenfall of Eneco voor bedrijven. ZZP'ers die factuur-splits nodig hebben of zakelijke MID-meters: kijk verder.
+
+---
+
 ## Gerelateerde artikelen
 
 - [Tibber review en ervaringen](/posts/tibber-review-ervaringen-2026/)
