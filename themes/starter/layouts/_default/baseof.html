@@ -160,69 +160,95 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,500&display=swap" rel="stylesheet">
 
   <style>
     :root {
-      --primary: #14532d;
-      --primary-dark: #052e16;
-      --accent: #16a34a;
-      --accent-hover: #15803d;
-      --bg: #ffffff;
-      --text: #334155;
-      --light: #f0fdf4;
-      --border: #bbf7d0;
-      --tag-bg: #dcfce7;
-      --tag-text: #15803d;
-      --hero-from: #14532d;
-      --hero-to: #16a34a;
+      /* Editorial palette — Dutch sustainable home magazine */
+      --cream: #FAF7F0;
+      --cream-soft: #F2EDE0;
+      --paper: #FFFFFF;
+      --ink: #1A2B1F;
+      --ink-soft: #4A5949;
+      --ink-line: rgba(26, 43, 31, 0.12);
+      --forest: #2D4A3A;
+      --forest-deep: #1F3528;
+      --terracotta: #C66E3F;
+      --terracotta-deep: #A8552B;
+      --clay: #8B7355;
+      /* Backwards compat aliases */
+      --primary: var(--forest);
+      --primary-dark: var(--forest-deep);
+      --accent: var(--terracotta);
+      --accent-hover: var(--terracotta-deep);
+      --bg: var(--cream);
+      --text: var(--ink);
+      --light: var(--cream-soft);
+      --border: var(--ink-line);
+      --tag-bg: var(--cream-soft);
+      --tag-text: var(--forest);
+      --hero-from: var(--forest);
+      --hero-to: var(--forest-deep);
+      --display: 'Fraunces', 'Cambria', Georgia, serif;
+      --sans: 'DM Sans', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      --mono: 'DM Mono', 'IBM Plex Mono', monospace;
     }
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: var(--text); line-height: 1.7; background: var(--bg); }
-    a { color: var(--accent); text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .container { max-width: 800px; margin: 0 auto; padding: 0 1.5rem; }
-    .wide { max-width: 1100px; }
+    html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; scroll-behavior: smooth; }
+    body { font-family: var(--sans); color: var(--ink); line-height: 1.65; background: var(--cream); font-size: 1.0625rem; }
+    a { color: var(--terracotta); text-decoration: none; transition: color 0.15s; }
+    a:hover { color: var(--terracotta-deep); text-decoration: underline; }
+    .container { max-width: 760px; margin: 0 auto; padding: 0 clamp(1.25rem, 4vw, 2rem); }
+    .wide { max-width: 1240px; }
 
-    /* Header */
-    header { background: var(--primary-dark); color: white; padding: 1rem 0; border-bottom: 3px solid var(--accent); }
-    header .container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; }
-    header a { color: white; }
-    .logo { font-size: 1.3rem; font-weight: 700; display: flex; align-items: center; gap: 0.5rem; }
-    .logo-icon { width: 32px; height: 32px; background: var(--accent); border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 1.1rem; color: white; }
-    .logo span { color: #4ade80; }
-    nav a { margin-left: 1.5rem; font-size: 0.9rem; opacity: 0.85; transition: opacity 0.2s; }
-    nav a:hover { opacity: 1; text-decoration: none; }
+    /* Header — editorial style: cream bg with sticky behavior */
+    header { background: rgba(250, 247, 240, 0.94); backdrop-filter: blur(12px); color: var(--ink); padding: 1.25rem 0; border-bottom: 1px solid var(--ink-line); position: sticky; top: 0; z-index: 50; }
+    header .container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem; }
+    header a { color: var(--ink); }
+    .logo { font-family: var(--display); font-size: 1.4rem; font-weight: 500; display: inline-flex; align-items: baseline; gap: 0.55rem; letter-spacing: -0.02em; }
+    .logo-icon { font-size: 1.5rem; color: var(--terracotta); display: inline-block; background: none; width: auto; height: auto; transform: translateY(2px); }
+    .logo span { font-style: italic; font-weight: 400; color: var(--forest); }
+    nav a { margin-left: clamp(0.75rem, 2vw, 1.75rem); font-family: var(--sans); font-size: 0.85rem; font-weight: 500; color: var(--ink-soft); opacity: 1; transition: color 0.2s; position: relative; }
+    nav a:hover { color: var(--ink); text-decoration: none; }
+    nav a::after { content: ''; position: absolute; left: clamp(0.75rem, 2vw, 1.75rem); right: 0; bottom: -4px; width: 0; height: 1px; background: var(--terracotta); transition: width 0.25s; }
+    nav a:hover::after { width: calc(100% - clamp(0.75rem, 2vw, 1.75rem)); }
 
     /* Main */
-    main { padding: 2rem 0; min-height: 60vh; }
-    h1 { color: var(--primary); font-size: 2rem; margin-bottom: 1rem; line-height: 1.3; }
-    h2 { color: var(--primary); font-size: 1.5rem; margin: 2rem 0 0.75rem; }
-    h3 { color: var(--primary); font-size: 1.2rem; margin: 1.5rem 0 0.5rem; }
-    p { margin-bottom: 1rem; }
-    ul, ol { margin: 0 0 1rem 1.5rem; }
-    li { margin-bottom: 0.3rem; }
-    img { max-width: 100%; height: auto; border-radius: 8px; }
+    main { padding: clamp(2rem, 6vh, 4rem) 0; min-height: 60vh; }
+    h1 { font-family: var(--display); color: var(--ink); font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 400; margin-bottom: 1.25rem; line-height: 1.1; letter-spacing: -0.02em; }
+    h1 em, h2 em { font-style: italic; color: var(--forest); }
+    h2 { font-family: var(--display); color: var(--ink); font-size: clamp(1.5rem, 3vw, 2rem); font-weight: 500; margin: 2.5rem 0 1rem; line-height: 1.2; letter-spacing: -0.015em; }
+    h3 { font-family: var(--display); color: var(--ink); font-size: 1.3rem; font-weight: 500; margin: 1.75rem 0 0.6rem; }
+    h4 { font-family: var(--sans); color: var(--ink); font-weight: 600; font-size: 1.05rem; margin: 1.25rem 0 0.5rem; }
+    p { margin-bottom: 1.1rem; color: var(--ink); }
+    .container article p strong { color: var(--ink); font-weight: 600; }
+    ul, ol { margin: 0 0 1.25rem 1.5rem; }
+    li { margin-bottom: 0.4rem; }
+    img { max-width: 100%; height: auto; border-radius: 2px; }
 
-    /* Hero */
-    .hero { background: linear-gradient(135deg, var(--hero-from) 0%, var(--hero-to) 100%); color: white; padding: 4rem 0; text-align: center; }
-    .hero h1 { color: white; font-size: 2.5rem; }
-    .hero p { font-size: 1.2rem; opacity: 0.9; max-width: 600px; margin: 1rem auto; }
+    /* Hero (used by homepage) */
+    .hero { background: linear-gradient(135deg, var(--forest) 0%, var(--forest-deep) 100%); color: var(--cream); padding: clamp(3rem, 8vh, 5rem) 0; text-align: center; }
+    .hero h1 { font-family: var(--display); color: var(--cream); font-size: clamp(2.5rem, 6vw, 4rem); font-weight: 400; }
+    .hero h1 em { color: var(--terracotta); font-style: italic; }
+    .hero p { font-family: var(--display); font-size: 1.2rem; opacity: 0.9; max-width: 38rem; margin: 1.25rem auto; line-height: 1.55; }
 
-    /* Cards */
-    .card { background: var(--light); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; transition: box-shadow 0.2s, transform 0.2s; }
-    .card:hover { box-shadow: 0 4px 16px rgba(22,163,74,0.12); transform: translateY(-2px); }
-    .card h2 { margin-top: 0; font-size: 1.3rem; }
-    .card h2 a { color: var(--primary); }
-    .meta { color: #64748b; font-size: 0.85rem; margin-bottom: 0.5rem; }
-    .tags { margin-top: 0.5rem; }
-    .tag { display: inline-block; background: var(--tag-bg); color: var(--tag-text); padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.8rem; margin-right: 0.3rem; }
+    /* Cards — editorial */
+    .card { background: var(--paper); border: 1px solid var(--ink-line); border-radius: 2px; padding: 1.5rem; margin-bottom: 1.5rem; transition: box-shadow 0.2s, transform 0.2s; }
+    .card:hover { box-shadow: 0 6px 20px -4px rgba(26, 43, 31, 0.1); transform: translateY(-2px); border-color: var(--clay); }
+    .card h2 { margin-top: 0; font-size: 1.3rem; font-family: var(--display); font-weight: 500; }
+    .card h2 a { color: var(--ink); }
+    .card h2 a:hover { color: var(--forest); text-decoration: none; }
+    .meta { color: var(--ink-soft); font-size: 0.8rem; margin-bottom: 0.5rem; font-family: var(--mono); letter-spacing: 0.04em; }
+    .tags { margin-top: 1rem; }
+    .tag { display: inline-block; background: var(--cream-soft); color: var(--forest); padding: 0.25rem 0.7rem; border-radius: 999px; font-size: 0.72rem; margin: 0 0.3rem 0.3rem 0; font-family: var(--mono); letter-spacing: 0.05em; }
 
-    /* CTAs */
-    .cta { display: inline-block; background: var(--accent); color: white; padding: 0.75rem 1.5rem; border-radius: 8px; font-weight: 600; margin: 0.5rem 0.5rem 0.5rem 0; transition: background 0.2s; }
-    .cta:hover { background: var(--accent-hover); text-decoration: none; }
-    .cta-outline { background: transparent; border: 2px solid var(--accent); color: var(--accent); }
-    .cta-outline:hover { background: var(--accent); color: white; }
+    /* CTAs — sharp editorial style */
+    .cta { display: inline-flex; align-items: center; gap: 0.5rem; background: var(--terracotta); color: var(--cream); padding: 0.85rem 1.6rem; border-radius: 2px; font-weight: 600; font-family: var(--sans); font-size: 0.95rem; margin: 0.5rem 0.5rem 0.5rem 0; transition: all 0.2s; box-shadow: 0 1px 0 0 rgba(0,0,0,0.05); }
+    .cta:hover { background: var(--terracotta-deep); color: var(--cream); transform: translateY(-1px); box-shadow: 0 6px 20px -4px rgba(198, 110, 63, 0.4); text-decoration: none; }
+    .cta-outline { background: transparent; border: 1.5px solid var(--ink); color: var(--ink); }
+    .cta-outline:hover { background: var(--ink); color: var(--cream); }
+    .cta-affiliate { background: var(--terracotta); color: var(--cream); }
+    .cta-affiliate:hover { background: var(--terracotta-deep); color: var(--cream); }
 
     /* Pros/Cons */
     .pros-cons { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0; }
@@ -236,9 +262,12 @@
     th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
     th { background: var(--light); font-weight: 600; color: var(--primary); }
 
-    /* Footer */
-    footer { background: var(--primary-dark); color: #94a3b8; padding: 2rem 0; margin-top: 3rem; text-align: center; font-size: 0.85rem; }
-    footer a { color: #4ade80; text-decoration: underline; }
+    /* Footer — editorial */
+    footer { background: var(--ink); color: rgba(250, 247, 240, 0.7); padding: clamp(2.5rem, 6vh, 4rem) 0 1.5rem; margin-top: 3rem; font-size: 0.88rem; }
+    footer .container { text-align: center; }
+    footer p { margin-bottom: 0.5rem; }
+    footer a { color: var(--terracotta); text-decoration: none; }
+    footer a:hover { color: var(--cream); text-decoration: underline; }
 
     .affiliate-disclosure { color: #64748b; font-size: 0.78rem; margin-bottom: 1.5rem; padding: 0; border: none; background: none; }
     .breadcrumb { font-size: 0.85rem; color: #64748b; margin-bottom: 1rem; }
@@ -303,7 +332,7 @@
   <header>
     <div class="container wide">
       <a href="/" class="logo">
-        <div class="logo-icon">&#9752;</div>
+        <span class="logo-icon">&#9752;</span>
         Duurzaam<span>Thuis</span>Lab
       </a>
       <nav>
