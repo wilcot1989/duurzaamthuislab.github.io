@@ -29,7 +29,7 @@ faq:
     a: "Nee, praktisch gezien niet. Je hebt professionele inblaasmachines nodig en de ISDE-subsidie vereist een gecertificeerd installateur. Bovendien is een bewijs van installatie nodig voor je EPA-label. Huur altijd een KOMO-gecertificeerd bedrijf in."
 products:
   - name: "Spouwmuurisolatie offerte aanvragen"
-    url: "/go/spouwmuur-isolatie"
+    url: "/posts/isolatie-subsidie-nederland-2026/"
     price: "vanaf €18/m²"
   - name: "Tonzon spouwmuur EPS-parels"
     url: "https://www.tonzon.nl/"
@@ -289,7 +289,7 @@ Vraag altijd meerdere offertes aan bij lokale bedrijven. Prijsverschil tussen in
 - ISDE-registraties bij RVO (RVO.nl → leverancierslijst)
 - Verbouwkosten.nl of Werkspot.nl (vraag specifiek naar KOMO-certificaat)
 
-<a href="/go/spouwmuur-isolatie" class="cta-affiliate">Offerte aanvragen spouwmuurisolatie</a>
+<a href="/posts/isolatie-subsidie-nederland-2026/" class="cta-affiliate">Offerte aanvragen spouwmuurisolatie</a>
 
 ---
 
