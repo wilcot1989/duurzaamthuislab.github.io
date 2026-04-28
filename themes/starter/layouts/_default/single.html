@@ -130,4 +130,17 @@
     {{ end }}
   </article>
 </div>
+
+{{/* Sticky mobile CTA bar */}}
+{{ if .Params.products }}{{ with index .Params.products 0 }}
+<div id="mobileCta" style="position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid var(--ink-line,#e5e7eb);padding:.6rem 1rem;display:none;align-items:center;gap:.75rem;z-index:40;box-shadow:0 -4px 12px rgba(0,0,0,.08);">
+  <div style="flex:1;min-width:0;">
+    <div style="font-family:var(--mono);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--terracotta,#C66E3F);margin-bottom:.1rem;">Aanbevolen</div>
+    <div style="font-weight:600;font-size:.95rem;color:var(--ink,#1a2b1f);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">{{ .name }}</div>
+  </div>
+  <a href="{{ .url }}" class="cta-affiliate" target="_blank" rel="sponsored noopener" style="background:#16a34a;color:#fff;padding:.6rem 1rem;border-radius:4px;font-weight:600;font-size:.85rem;white-space:nowrap;text-decoration:none;">Bekijk →</a>
+</div>
+<style>@media(max-width:768px){#mobileCta.show{display:flex !important}main,article{padding-bottom:5rem !important}}@media(min-width:769px){#mobileCta{display:none !important}}</style>
+<script>(function(){var b=document.getElementById('mobileCta');if(!b)return;var t=document.querySelector('article');if(!t)return;function c(){var r=t.getBoundingClientRect();var p=Math.max(0,Math.min(1,(window.innerHeight-r.top)/(r.height||1)));if(p>0.25&&p<0.95)b.classList.add('show');else b.classList.remove('show');}window.addEventListener('scroll',c,{passive:true});c();})();</script>
+{{ end }}{{ end }}
 {{ end }}
