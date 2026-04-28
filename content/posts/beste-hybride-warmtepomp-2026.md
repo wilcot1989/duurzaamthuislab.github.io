@@ -350,6 +350,32 @@ De warmtepomp verbruikt het meeste stroom overdag, tussen 09:00 en 15:00 uur —
 
 De terugverdientijd van de warmtepomp daalt door de zonnepanelen van 3,7 naar circa 2,9 jaar. Dat is een significant effect.
 
+## Verlengde FAQ: vragen die ik veel krijg
+
+**Kan een hybride warmtepomp mijn woning verwarmen bij -15°C?**
+
+Ja, maar niet alleen via de warmtepomp. Bij extreme kou neemt de cv-ketel het over — dat is precies de bedoeling van het hybride concept. De Daikin Altherma 3 H Hybrid werkt door tot -25°C, maar bij die temperaturen draait hij op veel lagere COP en springt de ketel bij. In een doorsnee Nederlandse winter (gemiddeld slechts 5-8 dagen onder -5°C) heeft dit minimale invloed op je jaarbesparing.
+
+**Moet ik de cv-ketel vervangen als ik een hybride warmtepomp neem?**
+
+Niet noodzakelijk. Als je cv-ketel minder dan 8-10 jaar oud is en goed functioneert, is hij ideaal als partner voor de warmtepomp. Is de ketel ouder dan 15 jaar of heeft hij al meerdere storingen gehad? Dan is gelijktijdige vervanging logisch — je bespaart op installatiekosten en hebt één werkende installatie. Overleg dit met de installateur.
+
+**Hoeveel kWh stroom verbruikt een hybride warmtepomp per jaar?**
+
+Bij een gemiddeld rijtjeshuis (label C, 1.600 m³ gas vóór installatie) verwacht je een stroomverbruik van de warmtepomp van 1.200-1.800 kWh/jaar. Bij een grotere woning of lager geïsoleerde woning: 2.000-2.800 kWh/jaar. Ter vergelijking: een gezin verbruikt gemiddeld 3.000-4.000 kWh/jaar aan huishoudstroom. De warmtepomp voegt dus 30-50% toe aan het stroomverbruik.
+
+**Verlies ik stookcomfort met een hybride warmtepomp?**
+
+Nee, bij een goed geconfigureerd systeem merk je geen verschil. De warmtepomp werkt geruisloos op de achtergrond en de cv-ketel springt bij als hij nodig is. Sommige mensen merken dat de woning gelijkmatiger warm is — de warmtepomp draait op deellast en houdt de temperatuur stabiel, terwijl een cv-ketel korter maar heter stookt.
+
+**Kan ik een hybride warmtepomp ook in een appartement installeren?**
+
+In een appartement heb je een buitenunit nodig die ergens kan worden geplaatst (tuin, balkon, gemeenschappelijk dak). Dit vereist toestemming van de VvE. De meeste VvE's staan dit toe als de unit voldoet aan geluidslimieten. Vraag dit altijd schriftelijk na bij de VvE vóór je een offerte aanvraagt.
+
+**Wat als de warmtepomp kapot gaat en het vriest?**
+
+De cv-ketel neemt het volledig over — je huis blijft warm. Een hybride warmtepomp is per definitie een failsafe systeem: zelfs als de warmtepomp volledig uitvalt, heb je de ketel als back-up. Dit is een van de grote voordelen ten opzichte van een full-electric systeem.
+
 ## Conclusie
 
 Voor de meeste Nederlandse huishoudens is de **Remeha Elga Ace HT** de beste keuze: de hoogste efficiëntie, een breed werkbereik en een sterk Nederlands servicenetwerk. Wil je geen hoge investering? Dan is het **Quatt**-abonnementsmodel een slimme keuze om direct te beginnen met gasbesparing.

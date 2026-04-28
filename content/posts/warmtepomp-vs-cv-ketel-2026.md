@@ -38,6 +38,31 @@ Ik heb anderhalf jaar geleden mijn CV-ketel aangevuld met een Vaillant hybride w
 
 Al besloten dat je een warmtepomp wilt? Bekijk onze [top 5 hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) en de [ISDE subsidie gids](/posts/isde-subsidie-warmtepompen-2026/).
 
+## Vijf concrete vragen om te beantwoorden voor je besluit
+
+Voordat je een aannemer belt, stel jezelf deze vijf vragen. De antwoorden bepalen grotendeels welke keuze rationeel is.
+
+**1. Wat is mijn huidig jaarlijks gasverbruik?**
+Kijk op je jaarafrekening of energieportaal van je leverancier. Onder 800 m³/jaar: warmtepomp is minder rendabel. Boven 1.500 m³/jaar: warmtepomp verdiend zichzelf snel terug.
+
+**2. Wat is het energielabel van mijn woning?**
+Label A/B: ga direct voor full-electric. Label C/D: begin met hybride. Label E of lager: isoleer eerst spouwmuur en dak.
+
+**3. Hoe lang woon ik hier nog?**
+Minder dan 5 jaar: full-electric is financieel risicovol. Hybride of cv-ketel zijn dan verstandiger — tenzij je de investering meeneemt in de verkoopprijs (wat bij een goed energielabel reëel is).
+
+**4. Heb ik €3.000-€5.000 netto beschikbaar na subsidie?**
+Zo niet: overweeg het Nationaal Warmtefonds (lening, soms 0% rente). Bij heel laag inkomen zijn er ook gemeentelijke regelingen voor gratis of sterk gesubsidieerde verduurzaming.
+
+**5. Wat doet mijn buurt?**
+Dit klinkt sociaal maar is ook praktisch. Als jouw straat op het gemeentelijk aardgasvrij-plan staat voor 2030-2035, is vroeg investeren verstandiger dan op het laatste moment noodgedwongen moeten verduurzamen zonder subsidiemogelijkheden.
+
+## Wat kost een cv-ketel vervangen in 2026?
+
+Voor de volledigheid: een nieuwe HR-combi cv-ketel kost in 2026 inclusief installatie €1.800-€2.800. Dat is significant goedkoper dan een warmtepomp in aanschaf. Maar een cv-ketel heeft geen subsidie, geen dalende brandstofkosten en maakt je afhankelijker van een fossiele energiebron waarvan de prijs historisch stijgt.
+
+Als je cv-ketel kapot is en je budget is te beperkt voor een warmtepomp nu: een HR-combi is een zinvol noodscenario. Maar dan: zet dat geld apart voor over 3-5 jaar als de cv-ketel is afgeschreven. Dan koop je de warmtepomp op het moment dat die — met verbeterde technologie en stabielere markt — waarschijnlijk nog iets goedkoper is.
+
 ## CV-ketel vs Warmtepomp: kernverschillen
 
 | Aspect | CV-ketel | Hybride warmtepomp | Full-electric warmtepomp |
@@ -265,11 +290,79 @@ Een warmtepomp + zonnepanelen is de gouden combinatie. De zonnepanelen wekken de
 
 Met een [thuisbatterij](/posts/beste-thuisbatterij-nederland-2026/) en [dynamisch energiecontract](/posts/dynamische-energiecontracten-vergelijking-2026/) maximaliseer je het eigenverbruik en de besparing.
 
+## Warmtepomp en het nationale gasafbouwpad
+
+Nederland heeft een duidelijk beleid: aardgas moet uit de verwarmingssector. De overheid streeft ernaar dat tegen 2050 alle woningen aardgasvrij zijn. Wat betekent dit voor jouw keuze vandaag?
+
+**De gasprijsontwikkeling:** In 2024 lag de gasprijs op €1,05-€1,15/m³ all-in. Historisch gezien stijgt de gasprijs structureel — in 2022 piekte hij zelfs tijdelijk op €3,00/m³. De RVO houdt bij haar berekeningen rekening met een gemiddelde gasprijsstijging van 2-3% per jaar. Bij 3% stijging per jaar staat gas over 10 jaar op €1,41/m³. Dat verbetert de terugverdientijd van een warmtepomp significant.
+
+**Energiebelasting:** De energiebelasting op gas is de afgelopen jaren verhoogd en zal dat naar verwachting blijven. Dit maakt gas relatief duurder ten opzichte van elektriciteit — wat de businesscase voor de warmtepomp elk jaar sterker maakt.
+
+**Aardgasvrije wijken:** Als jouw wijk op het aardgasvrij-plan staat van je gemeente (check gemeentekaart.nl), dan is het afkoppelen van gas over 5-15 jaar sowieso verplicht. Dan kun je beter nu de warmtepomp kopen met subsidie dan straks noodgedwongen zonder.
+
+## Praktijkvergelijking: wat kost verwarmen in 2026 per maand?
+
+Ik reken met drie woningtypen en drie verwarmingsopties om je een concreet gevoel te geven.
+
+**Woning A: rijtjeshuis 1980, label D, 120 m²**
+
+| Verwarmingsoptie | Jaarlijkse kosten | Per maand |
+|-----------------|------------------|-----------|
+| CV-ketel (1.700 m³ gas) | €1.785 | €149 |
+| Hybride WP (585 m³ gas + 1.450 kWh) | €947 | €79 |
+| Full-electric WP (na isolatie tot label B) | €780 | €65 |
+
+**Woning B: tussenwoning 2000, label C, 110 m²**
+
+| Verwarmingsoptie | Jaarlijkse kosten | Per maand |
+|-----------------|------------------|-----------|
+| CV-ketel (1.200 m³ gas) | €1.260 | €105 |
+| Hybride WP (420 m³ gas + 1.000 kWh) | €671 | €56 |
+| Full-electric WP | €630 | €53 |
+
+**Woning C: vrijstaand 1995, label B, 160 m²**
+
+| Verwarmingsoptie | Jaarlijkse kosten | Per maand |
+|-----------------|------------------|-----------|
+| CV-ketel (2.400 m³ gas) | €2.520 | €210 |
+| Hybride WP (840 m³ gas + 2.000 kWh) | €1.342 | €112 |
+| Full-electric WP (vloerverwarming aanwezig) | €890 | €74 |
+
+*Aannames: gas €1,05/m³, elektriciteit €0,23/kWh, COP hybride 3,7, COP full-electric 4,2.*
+
+## Verlengde FAQ
+
+**Kan ik mijn bestaande radiatoren houden bij een warmtepomp?**
+
+Bij een hybride warmtepomp: ja, zonder aanpassingen. De cv-ketel gebruikt ze op de gebruikelijke temperatuur als het nodig is. Bij een full-electric warmtepomp hangt het af: als je radiatoren al op 55°C of lager kunnen werken (bij de meeste woningen van na 1990 is dat het geval), werkt de warmtepomp efficiënt. Soms is debietoptimalisatie (grotere balansventiel-instelling) nodig. Bij Daikin HT-modellen (tot 70°C) kun je zelfs oudere radiatoren op hoge temperatuur gebruiken.
+
+**Hoeveel stroom verbruikt een full-electric warmtepomp extra per jaar?**
+
+Een full-electric warmtepomp voor een woning van 120 m² (label B) verbruikt jaarlijks 3.500-5.500 kWh. Als je thuis gemiddeld 3.200 kWh/jaar verbruikt, betekent dat een verdubbeling van je stroomrekening. Maar: de gasrekening verdwijnt vrijwel volledig. Per saldo goedkoper — maar je stroomrekening stijgt zichtbaar.
+
+**Wat is het effect op mijn energielabel?**
+
+Een hybride warmtepomp verbetert je energielabel met 1-2 stappen. Een full-electric warmtepomp (gecombineerd met voldoende isolatie) kan je label met 3-4 stappen verbeteren. Een hogger energielabel verhoogt de woningwaarde: bij een waardestijging van €12.000 per labelstap (NVM, 2025) kan een full-electric warmtepomp + isolatie €25.000-€40.000 aan woningwaarde toevoegen.
+
+**Is een warmtepomp moeilijk te bedienen?**
+
+Nee. Je stelt één keer de gewenste kamertemperatuur in (via de thermostaat of app) en het systeem regelt zichzelf. Er zijn minder knoppen dan bij een cv-installatie. De app van de meeste fabrikanten (Daikin One, ATAG-app, Vaillant myVAILLANT) toont je verbruik en de status op een begrijpelijke manier.
+
 ## Conclusie
 
 Voor de meeste Nederlandse huishoudens is een **hybride warmtepomp** de slimste eerste stap: lage drempel, goede besparing, en je bestaande radiatoren kunnen blijven. Ben je klaar voor een grotere stap en is je woning goed geïsoleerd? Dan levert een **full-electric warmtepomp** de grootste besparing over de levensduur.
 
 Vergeet de **ISDE-subsidie** niet — die maakt het verschil in terugverdientijd.
+
+Wil je weten welk model bij jouw situatie past? Lees dan de [top 5 hybride warmtepompen van 2026](/posts/beste-hybride-warmtepomp-2026/) voor een gedetailleerde vergelijking van Remeha, Daikin, Quatt, Bosch en Vaillant.
+
+## De gasrekening in perspectief: wat betaal je per maand aan gas?
+
+Het gemiddelde Nederlandse huishouden verbruikt 1.500 m³ aardgas per jaar. Bij een gasprijs van €1,05/m³ all-in is dat €1.575/jaar, ofwel **€131/maand**. Voor een slecht geïsoleerde woning loopt dit op naar €2.200-€2.800/jaar.
+
+Met een hybride warmtepomp daalt dit naar €50-€80/maand (gas + extra stroom). Met een full-electric warmtepomp naar €50-€75/maand (alleen stroom). Het verschil met alleen een cv-ketel is in geval van een gemiddelde woning al €50-€80 per maand in het voordeel van de warmtepomp — netto, na alle kosten.
+
+Ter referentie: een onderhoudscontract voor de warmtepomp + ketel kost gemiddeld €25-€30/maand. Zelfs met dat onderhoud inbegrepen ben je met een hybride warmtepomp per maand goedkoper uit dan met alleen gas.
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>

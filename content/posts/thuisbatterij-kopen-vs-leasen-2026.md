@@ -156,6 +156,63 @@ Belangrijke realiteit: een persoonlijke lening voor €6.000 thuisbatterij kost 
 
 **Conclusie**: lease is goedkoper dan een lening. Cash kopen is goedkoopst van allemaal (geen rente, geen lease-marge).
 
+## Praktijkgeval: mijn buurman na 6 maanden lease
+
+Ik heb mijn buurman gevraagd hoe het na 6 maanden Zonneplan-lease voelt. Zijn setup: 10 zonnepanelen (3,6 kWp), verbruik 3.800 kWh/jaar, geen EV, dynamisch contract Frank Energie, Zonneplan 10 kWh batterij (lease €54/mnd).
+
+**Cijfers na 6 maanden (oktober 2025 - maart 2026):**
+
+| Maand | Stroom-kosten voor lease | Stroom-kosten na lease | Maandbesparing |
+|---|---|---|---|
+| Okt '25 | €162 | €94 | €68 |
+| Nov '25 | €194 | €118 | €76 |
+| Dec '25 | €218 | €142 | €76 |
+| Jan '26 | €231 | €151 | €80 |
+| Feb '26 | €178 | €108 | €70 |
+| Mrt '26 | €141 | €82 | €59 |
+
+Gemiddelde maandelijkse besparing door batterij: **€72**. Maandelijkse leaseprijs: **€54**. Per saldo wint hij €18/maand na leasekosten.
+
+Op jaarbasis: €216 netto voordeel ten opzichte van geen batterij nemen. Dat klinkt bescheiden, maar vergeet niet: zonder batterij had hij óók de €54/mnd niet betaald, dus de batterij rendeerde zichzelf en leverde €18 bovenop op.
+
+**Zijn mening na 6 maanden**: "Het werkt echt. De app laat me zien wanneer de batterij wordt geladen en ontladen. Mijn vrouw is tevreden dat we niks zelf hoeven te regelen. Of ik had moeten kopen? Misschien, maar dan had ik €6.000 moeten neertellen en dat wilde ik gewoon niet."
+
+Dat is de eerlijke realiteit van lease: het is niet het slimste rekensommetje, maar voor mensen die geen grote investering willen doen, biedt het wél resultaat.
+
+## Veelgemaakte fouten bij de keuze kopen vs leasen
+
+**Fout 1: Alleen op de maandprijs letten**
+
+"Lease is maar €54/mnd, dat is goedkoop!" klopt — maar de vergelijking klopt pas als je ook de alternatieve kosten meeneemt. Marstek kopen kost €27/mnd gemiddeld. Wie lease aantrekkelijk vindt omdat €54/mnd laag lijkt, betaalt al gauw twee keer zoveel als nodig.
+
+**Fout 2: Ervan uitgaan dat leasebedragen vaststaan**
+
+Zonneplan kan in principe de leaseprijs aanpassen bij contractverlenging. De huidige overeenkomst geldt voor de contractduur — check de kleine lettertjes over prijsindexering. Bij een inflatieclausule van 2,5% per jaar is de lease in jaar 10 geen €54 maar €67/mnd.
+
+**Fout 3: Niet nadenken over verhuizen**
+
+Bij koop kun je de batterij meenemen naar je nieuwe huis (aanpassen en heraansluiten kost €300-€600 maar dan is hij van jou). Bij lease neem je de batterij niet mee — die blijft bij het huis of gaat terug naar Zonneplan. Dit maakt lease eigenlijk juist aantrekkelijk als je snel gaat verhuizen: je hebt geen last van de demontage, Zonneplan haalt het apparaat op.
+
+**Fout 4: Subsidies vergeten bij koop**
+
+Wie koopt, heeft recht op 0% BTW en eventuele gemeentelijke subsidies. Wie leaset niet. Bij een Sessy 10 kWh van €5.995 scheelt de 0% BTW al €1.249. Dat verandert het rekenplaatje significant ten gunste van koop.
+
+## Hoe saldering-stop 2027 de koop/lease-keuze verandert
+
+Vanaf 1 januari 2027 stopt saldering. Dat heeft gevolgen voor de besparing die een batterij oplevert:
+
+- **Nu** (saldering actief): batterij spaart gemiddeld €600-€800/jaar bij 10 zonnepanelen + dynamisch contract
+- **Na 2027** (geen saldering): batterij spaart gemiddeld €800-€1.100/jaar — de besparing stijgt doordat zelfverbruik nóg waardevoller wordt
+
+Hogere jaarlijkse besparing maakt de terugverdientijd bij koop korter. Dat verschuift het voordeel verder richting kopen:
+
+| Scenario | Terugverdientijd Sessy koop | Terugverdientijd Marstek koop |
+|---|---|---|
+| Nu (saldering actief) | 7-9 jaar | 3-4 jaar |
+| Na 2027 (geen saldering) | 5-7 jaar | 2-3 jaar |
+
+Wie nu leaset maar na 2027 de hogere besparing wil verzilveren als eigenaar, zit vast: lease laat geen eigendomsoverdracht toe. Wie nu koopt, profiteert automatisch van de hogere waardering van zelfverbruik na 2027.
+
 ## Mijn aanbeveling
 
 **Voor mijn buurman** (cashflow-bewust, geen techaffiniteit, blijft minstens 10 jaar): lease was de juiste keus. Hij betaalt nu €54/mnd, alles inbegrepen, geen zorgen.

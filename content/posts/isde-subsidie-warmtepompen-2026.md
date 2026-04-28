@@ -159,6 +159,23 @@ Als je een warmtepomp installeert en hierdoor minder gas verbruikt, bespaar je o
 5. **Vraag snel aan** — Het ISDE-budget is eindig. Bij overschrijding worden aanvragen op volgorde van binnenkomst afgehandeld
 6. **Laat je adviseren** — Een energieadvies (€300-€500) kan uitwijzen welke combinatie het meest oplevert
 
+## Hoe werkt de RVO-apparatenlijst precies?
+
+De ISDE-subsidie voor warmtepompen is niet voor elk product beschikbaar — alleen voor warmtepompen die op de officiële RVO-erkende apparatenlijst staan. Dit is een praktisch punt dat veel fouten veroorzaakt.
+
+**Hoe de lijst werkt:**
+- Fabrikanten laten hun producten testen door een erkend testlaboratorium
+- RVO controleert de testresultaten en neemt het product op bij goedkeuring
+- Per product (inclusief exact typenummer, variant en vermogen) staat een specifiek subsidiebedrag
+- De lijst wordt meerdere keren per jaar bijgewerkt
+
+**Praktisch:**
+- Vraag altijd je installateur om het volledige typenummer (inclusief suffix, bijv. "Daikin EBLA06D3W1" in plaats van "Daikin Altherma 3")
+- Controleer dit typenummer zelf op rvo.nl/subsidies-financiering/isde via de zoekfunctie
+- Als het type niet op de lijst staat: vraag de installateur om een alternatief model of om de fabrikant te vragen het product aan te melden
+
+Ik ken een geval waarbij een installateur een type heeft geleverd dat net van de lijst was afgevoerd vanwege een productupdate door de fabrikant. De eigenaar moest de ISDE-aanvraag intrekken en een correctiefactuur met het nieuwe typenummer aanvragen. Dat kostte 6 weken extra. Voorkom dit door zelf te controleren.
+
 ## Terugverdientijd met ISDE subsidie
 
 De ISDE maakt verduurzaming aanzienlijk aantrekkelijker. Enkele voorbeelden:
@@ -307,6 +324,58 @@ Niet iedereen heeft €3.000-€15.000 vrij liggen voor een warmtepomp. Het Nati
 - De lening gaat mee met de woning bij verkoop (koper neemt over, of jij lost af)
 
 Bij een lening van €5.000 tegen 2,5% over 10 jaar betaal je circa €47/maand. Als de warmtepomp je €75/maand bespaart, heb je netto direct winst.
+
+## Verlengde FAQ: praktische vragen over ISDE
+
+**Kan ik ISDE aanvragen als de factuur al betaald is maar de installateur de ISDE-aanvraag vergeten is?**
+
+Ja, zolang je maar binnen 12 maanden na factuurdatum indient. Je kunt de aanvraag zelf doen via mijn.rvo.nl — je hebt geen installateur nodig voor het indienen. Je hebt wel nodig: de factuur, het betaalbewijs, de productspecificaties (typenummer, serienummer) en foto's van de installatie. De installateur heeft zijn taak gedaan door te installeren; de aanvraag is jouw verantwoordelijkheid (tenzij contractueel anders afgesproken).
+
+**Ik heb een dubbele woning (twee woningen met één kadastraal nummer). Kan ik voor beide ISDE aanvragen?**
+
+Nee. De ISDE is per adres/wooneenheid maximaal één keer te benutten voor hetzelfde type maatregel. Bij een tweekapper met twee afzonderlijke adressen en kadastrale nummers: beide woningen komen elk afzonderlijk in aanmerking. Bij een gecombineerd kadastraal perceel: vraag RVO direct om uitsluitsel.
+
+**Mijn warmtepomp is in december 2025 geïnstalleerd maar ik heb de aanvraag pas in 2026 ingediend. Gelden de 2025- of 2026-tarieven?**
+
+De ISDE-tarieven die gelden zijn die van het moment van installatie (factuurdatum). Als je factuur december 2025 is, gelden de 2025-tarieven — ook als je pas in 2026 indient. Het budget waaruit betaald wordt, is het budget van het aanvraagjaar (2026). De tarieven zijn historisch gezien stabiel gebleven, dus het verschil is doorgaans nihil.
+
+**Kan ik ISDE aanvragen via een subsidiepersoon of -bureau?**
+
+Ja, er zijn adviesbureaus die de ISDE voor een vaste vergoeding voor je aanvragen (€75-€200). Dit kan handig zijn als je moeite hebt met DigiD of de RVO-formulieren. Let op: RVO is gratis, een bemiddelaar kost geld. Voor de meeste mensen is het zelf doen de verstandigste keuze.
+
+**Wat als mijn warmtepomp na twee jaar kapot gaat — verlies ik dan de subsidie?**
+
+Nee. De ISDE-subsidie wordt uitbetaald na installatie en is niet gebonden aan een verplichte gebruiksduur. Als de warmtepomp kapot gaat, is de subsidie al ontvangen en hoef je die niet terug te betalen. Wel verlies je het rendement van de investering — maar dat is een apart risico.
+
+**Ik wil een warmtepomp huren (bij Quatt of vergelijkbaar). Kan ik ISDE aanvragen?**
+
+Nee. Bij huur of lease-constructies is de installateur (het bedrijf) eigenaar van de warmtepomp, niet jij. ISDE vereist eigendom door de eigenaar-bewoner. Dit is een expliciet nadeel van abonnementsmodellen.
+
+## Hoe lang duurt de ISDE-uitbetaling? Een realistische tijdlijn
+
+Een van de meest gestelde vragen is: wanneer heb ik het geld? Hier is de realistische tijdlijn op basis van mijn eigen ervaring en die van contacten.
+
+**Dag 0:** Installatie voltooid, factuur ontvangen.
+
+**Dag 7-14:** Alle documenten verzameld (factuur, betaalbewijs, foto's, productspecificaties, kadasteruittreksel).
+
+**Dag 14-21:** Aanvraag ingediend via mijn.rvo.nl. Je ontvangt direct een bevestigingsmail.
+
+**Week 4-6:** RVO stuurt soms een verzoek tot aanvulling als er iets ontbreekt. Reageer hier snel op — elke dag vertraging schuift de uitbetaling op.
+
+**Week 8-13:** Goedkeuringsbeschikking ontvangen. RVO betaalt binnen 3-5 werkdagen na de beschikking.
+
+**Week 13-16 (drukke perioden):** In het najaar (september-november) lopen de behandeltijden op vanwege het hoge volume aanvragen. Plan hier rekening mee.
+
+**Mijn persoonlijke ervaring:** aanvraag ingediend op dag 18 na installatie, beschikking ontvangen na 11 weken, geld op rekening 4 dagen later. Totaal: 79 dagen.
+
+## De ISDE in perspectief: is het nog steeds genoeg?
+
+Ik hoor de vraag regelmatig: "De subsidie is €3.000, maar de warmtepomp kost €8.000. Dat gat is te groot."
+
+Dat snap ik. Maar vergeet het perspectief niet. In 2010 was er geen ISDE. In 2015 was het budget €15 miljoen. In 2026 is het €328 miljoen. De subsidie is de afgelopen 10 jaar vertienvoudigd. En de kosten van warmtepompen zijn in dezelfde periode gedaald — een hybride van €6.000 (exclusief installatie) kostte in 2018 nog €9.000.
+
+De trend wijst op verdere dalingen in aanschafprijs naarmate de productie schaalvoordelen pakt. Tegelijk groeit de druk op het ISDE-budget naarmate meer huishoudens verduurzamen. Op welk moment je precies het beste kunt instappen, weet niemand. Maar wachten puur op een betere subsidie is zelden de slimste strategie.
 
 ## Lees ook
 

@@ -120,6 +120,48 @@ Veel mensen kopen eerst de batterij en dienen dan subsidie in. Bij 90% van de re
 
 **Uitzondering**: Provincie Flevoland accepteert sinds 2025 ook achteraf-aanvragen (binnen 6 maanden na installatie). Andere provincies/gemeenten meestal niet.
 
+## Praktijkberekening: wat subsidie + BTW oplevert voor een Flevoland-bewoner
+
+Om het concreet te maken, hier de rekening voor een gezin in Lelystad dat een Sessy 10 kWh wil kopen:
+
+**Uitgangspunt:**
+- Sessy 10 kWh, inclusief installatie: €6.200 (normaal)
+- Jaarlijkse besparing door batterij: €650/jaar (dynamisch contract, 10 zonnepanelen)
+
+**Met subsidies:**
+
+| Post | Bedrag |
+|---|---|
+| Aanschafprijs zonder BTW-voordeel | €7.502 (incl. 21% BTW, hypothetisch) |
+| 0% BTW-voordeel (automatisch) | -€1.302 |
+| Provincie Flevoland subsidie | -€750 |
+| Gemeente Lelystad (klein) | -€150 |
+| **Effectieve investering** | **€5.300** |
+
+Terugverdientijd zonder subsidies: 9,5 jaar. Met subsidies: 8,2 jaar. Het maakt verschil, maar is geen gamechanger. De 0% BTW is het grootste voordeel — de provinciale subsidie verkort de terugverdientijd met ruim een jaar.
+
+**Belangrijk**: de €650/jaar besparing is gebaseerd op een dynamisch energiecontract. Met een vast contract en normale saldering is de besparing lager (~€380/jaar), waardoor de terugverdientijd stijgt naar 13-14 jaar — ook met subsidies.
+
+## Veelgemaakte fouten bij subsidieaanvragen
+
+Ik begeleid mensen in mijn netwerk bij aanvragen. Dit zijn de drie fouten die ik keer op keer zie:
+
+**Fout 1: Batterij kopen vóór reservering**
+
+Een buurvrouw van mij kocht in februari een Sessy 5 kWh en vroeg daarna subsidie aan bij de gemeente Amersfoort. Afgewezen: zij had de subsidie van €300 moeten reserveren vóórdat ze kocht. Ze probeerde bezwaar te maken, maar zonder succes. €300 weg.
+
+Oplossing: neem 30 minuten de tijd om je gemeente-website te doorzoeken *voordat* je een offerte accepteert.
+
+**Fout 2: Subsidi­aanvraag te laat indienen**
+
+Bij Utrecht sluit het subsidieloket soms binnen 3-4 weken nadat het opent — het budget is snel uitgeput. In 2025 sloot Utrecht-stad de regeling al na 19 dagen. Wie niet oplette, miste de boot ondanks dat hij op de subsidie rekende.
+
+Zet een herinnering in je agenda voor de openingsdata: Utrecht opent doorgaans in april, Apeldoorn in maart, Eindhoven in mei.
+
+**Fout 3: Niet controleren of installateur met 0% BTW werkt**
+
+Sommige kleinere installateurs hanteren toch 21% BTW omdat ze niet goed op de hoogte zijn van de regelgeving die per 1 januari 2024 inging. Controleer de offerte altijd. Als er 21% BTW staat op de batterij én installatie aan een woning: vraag de installateur dit te corrigeren of zoek een andere aanbieder.
+
 ## Wat verandert er in 2027?
 
 In het concept-regeerakkoord van februari 2026 staan deze passages:
@@ -129,6 +171,38 @@ In het concept-regeerakkoord van februari 2026 staan deze passages:
 - Voorwaarde: minimum 5 kWh capaciteit, gekoppeld aan zonnepanelen, slimme meter
 
 **Nu nog niet definitief**. Als 2027-regeling actief wordt: pak hem dan zeker. Maar wacht niet — de saldering-stop in 2027 maakt batterijen sowieso noodzakelijker, en 2026 lokale subsidies zijn beschikbaar.
+
+## Saldering stopt 2027: waarom dat de subsidievraag verandert
+
+Veel mensen wachten bewust op de ISDE-uitbreiding in 2027 voordat ze een batterij kopen. Ik begrijp de redenering, maar er zit een adder onder het gras.
+
+Vanaf 1 januari 2027 stopt de salderingsregeling. Nu verrekend je elke kWh die je teruggeeft aan het net één-op-één met je verbruik. Straks krijg je voor teruglevering nog maar 7-9 cent, terwijl stroom afnemen 25-30 cent kost.
+
+**Wat dat betekent voor besparing zonder batterij:**
+
+| Situatie | Jaarlijkse besparing 10 zonnepanelen |
+|---|---|
+| Nu (saldering actief) | €900-€1.100 |
+| Vanaf 2027 (geen saldering, geen batterij) | €350-€500 |
+| Vanaf 2027 (geen saldering, wél batterij) | €700-€950 |
+
+Wie wacht op een ISDE-subsidie van maximaal €1.000 maar ondertussen €400-€600 per jaar besparing misloopt door geen batterij te hebben, staat na twee jaar wachten financieel slechter dan iemand die in 2026 kocht zonder ISDE.
+
+Mijn advies: koop in 2026 met de nu beschikbare regelingen (0% BTW + lokale subsidies), profiteer direct van de hogere besparing vóór de saldering stopt, en gebruik eventuele ISDE-2027 mocht die er komen voor een tweede batterij of upgrade.
+
+## Vergelijking: subsidiesituatie Nederland vs omringende landen
+
+Voor perspectief: hoe vergelijkt Nederland zich met de buurlanden?
+
+| Land | Landelijke subsidie | BTW | Lokale regelingen |
+|---|---|---|---|
+| Nederland | Nee (nog niet) | 0% | Sommige provincies/gemeenten |
+| Duitsland | Nee (federaal) | 19% → 0% deels | Sterk per deelstaat (Bayern €500-€1.500) |
+| België | Nee (federaal) | 6% | Sterk per gewest (Vlaanderen €1.500 Mijn VerbouwPremie) |
+| Frankrijk | Nee | 5,5% | Beperkt |
+| VK | Nee | 0% | Beperkt |
+
+Nederland loopt achter op België (Mijn VerbouwPremie dekt thuisbatterijen expliciet) en sommige Duitse deelstaten. De 0% BTW is daarentegen internationaal gezien ruimhartig — Duitsland kent vergelijkbare regels pas deels.
 
 ## Mijn praktische aanbeveling
 

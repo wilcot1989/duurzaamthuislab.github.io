@@ -354,6 +354,21 @@ Kies Quatt als cashflow en ontzorging het zwaarste wegen. Koop als de totale kos
 
 <a href="/go/quatt" class="cta-affiliate">Bekijk Quatt Connect abonnementen</a>
 
+## De toekomst van Quatt: scenario's
+
+Quatt is in 2026 een groeiend bedrijf met een bewezen product, maar de financiële toekomst is onzeker. Drie scenario's:
+
+**Scenario A: Quatt groeit door en blijft operationeel**
+Het meest waarschijnlijke scenario. Quatt heeft investeerders en een groeiend klantenbestand. Jouw abonnement loopt door, monitoring blijft actief, storingen worden verholpen. Na 10 jaar kun je het contract verlengen of beëindigen.
+
+**Scenario B: Quatt wordt overgenomen door een groter bedrijf**
+Dit is ook reëel — startups in de energiesector worden regelmatig overgenomen (vgl. Tibber, Frank Energie). Bij overname neemt de koper doorgaans de abonnementen over. Jouw positie verandert weinig, maar de serviceformule kan veranderen.
+
+**Scenario C: Quatt gaat failliet**
+Het minst waarschijnlijke maar meest ingrijpende scenario. Bij faillissement bepaalt de curator wat er met de hardware gebeurt. Jij zit met een warmtepomp die van een boedelkrediet is. Juridisch is je positie dan kwetsbaar. Er is geen standaard procedure voor dit geval. Dit risico is reëel bij een 10-jarig contract met een jong, niet-winstgevend bedrijf.
+
+Mijn advies: als je voor Quatt kiest, vraag dan expliciet in het contract: "Wat is mijn positie als Quatt failliet gaat?" Lees de algemene voorwaarden op dit punt. Als het antwoord vaag is, is dat een signaal.
+
 ---
 
 *Twijfel je of Quatt of kopen beter past bij jouw situatie? Beschrijf hieronder je woningtype en gasverbruik — ik help je rekenen.*

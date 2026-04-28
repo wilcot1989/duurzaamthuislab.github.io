@@ -214,6 +214,10 @@ De aanvraag moet **vóór** start van de installatie worden ingediend. Dit doet 
 - **Binnenunit**: vervangt of staat naast de bestaande cv-ketel, in de meterkast of technische ruimte
 - **Stroom**: de warmtepomp heeft een eigen groep nodig (16A), geen 3-fasen vereist voor de meeste hybride modellen
 
+### Vergelijking van aanvoertemperaturen
+
+Bij de ATAG ENERGION hybride is de maximale aanvoertemperatuur 65°C. Dat is hoger dan de meeste concurrenten (60°C). Dit maakt de ATAG geschikt voor woningen met oudere, niet-gewijzigde radiatoren die hoge watertemperaturen nodig hebben. Neem je een huis uit 1970 met gietijzeren radiatoren die vroeger op 80°C stonden? Dan is 65°C aanvoer van de ATAG de meest pragmatische keuze zonder dat je de radiatoren moet vervangen.
+
 ### Leveranciers en installateurs
 
 ATAG werkt uitsluitend via erkende installateurs — je koopt de pomp niet rechtstreeks. Op de ATAG-website vind je een installateurvinder. Mijn ervaring: vraag altijd minimaal twee offertes. Ik heb offertes gezien voor dezelfde installatie met een prijsverschil van €2.300.
@@ -327,6 +331,14 @@ Als je de absolute top wilt op SCOP-prestaties, ga dan naar Daikin. Als je wilt 
 Wat ik Riet uiteindelijk heb geadviseerd: neem ATAG, maar laat de installateur ook een Intergas-offerte maken. De €1.200 die ze eventueel bespaart, kan ze in extra isolatie steken — wat op den duur meer oplevert dan een hogere SCOP op papier.
 
 <a href="/go/atag" class="cta-affiliate">Bekijk ATAG ENERGION warmtepompen</a>
+
+## Levensduur en vervanging na 15 jaar
+
+Een ATAG ENERGION-installatie heeft een verwachte levensduur van 15-20 jaar voor de warmtepomp zelf. De compressor (Mitsubishi Electric) is het onderdeel met de meeste slijtage bij intensief gebruik.
+
+Na 10-12 jaar: mogelijk compressorcheck aan te raden (kosten €100-€150). Na 15 jaar: overweeg of de pomp volledig vervangen moet worden, of dat een compressorreparatie (€900-€1.500) zinvoller is. Bij een reparatieprijs van meer dan 50% van de vervangingswaarde van een nieuwe pomp: vervangen.
+
+Een vervangen warmtepomp na 15 jaar heeft dan de voordelen van de technologie van 2041: hogere SCOP-waarden (nu al richting 5,0-5,5 bij nieuwste modellen), stillere buitenunits en mogelijk zwaardere ISDE-subsidie als het klimaatakkoord oplevert wat beleidsmakers willen.
 
 ---
 
