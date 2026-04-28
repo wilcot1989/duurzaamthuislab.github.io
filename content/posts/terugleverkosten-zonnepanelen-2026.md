@@ -1,5 +1,5 @@
 ---
-title: "Terugleverkosten zonnepanelen 2026: wie rekent wat (volledig overzicht)"
+title: "Terugleverkosten zonnepanelen 2026"
 date: 2026-04-30T08:00:00+02:00
 lastmod: 2026-04-30T08:00:00+02:00
 description: "Welke energieleveranciers rekenen terugleverkosten in 2026, hoe hoog zijn ze en hoe vermijd je verrassingen op je rekening? Per leverancier uitgesplitst."

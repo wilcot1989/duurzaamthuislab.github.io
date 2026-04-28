@@ -1,5 +1,5 @@
 ---
-title: "Beste dynamisch contract met zonnepanelen 2026: vergelijking + mijn keus"
+title: "Beste dynamisch contract met zonnepanelen 2026"
 date: 2026-05-13T08:00:00+02:00
 lastmod: 2026-05-13T08:00:00+02:00
 description: "Welke dynamische energieleverancier is het voordeligst voor zonnepaneel-bezitters? Tibber vs Frank vs ANWB vs Eneco Dynamisch vergeleken."

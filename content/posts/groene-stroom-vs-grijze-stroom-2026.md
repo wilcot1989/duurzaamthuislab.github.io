@@ -1,5 +1,5 @@
 ---
-title: "Groene Stroom vs Grijze Stroom 2026: Verschil, Kosten en Wat Slimmer Is"
+title: "Groene Stroom vs Grijze Stroom 2026"
 date: 2026-06-17T10:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
 description: "Het verschil tussen groene en grijze stroom uitgelegd. Kosten vergeleken, is groene stroom echt duurzamer, en welk energiecontract past bij jou in 2026?"
@@ -130,6 +130,9 @@ Vergelijk dynamische energiecontracten in onze [uitgebreide vergelijking](/posts
 Het prijsverschil tussen groen en grijs is verwaarloosbaar (€0-€50/jaar). Kies daarom altijd groen — maar kijk verder dan het label. De echt groene leveranciers investeren in nieuwe Nederlandse wind- en zonneparken. Check het ACM-stroometiket en kies een leverancier met >80% Nederlandse opwek.
 
 Maar vergeet niet: het grootste effect heb je met eigen zonnepanelen, een warmtepomp en slim energiegebruik.
+
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
 ## Lees ook
 

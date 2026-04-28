@@ -285,3 +285,6 @@ Met ISDE-subsidie en een dynamisch contract kun je een terugverdientijd van **5-
 Zonder subsidie is de terugverdientijd aanzienlijk langer (13-17 jaar) en moet je afwegen of de bijkomende voordelen (noodstroom, onafhankelijkheid, toekomstbestendigheid) de investering rechtvaardigen.
 
 **Mijn aanbeveling**: vraag vandaag nog offertes aan bij minimaal drie installateurs en dien je ISDE-subsidieaanvraag in zodra de installatie gereed is. Bekijk ons overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatterij-nederland-2026/) om de juiste batterij voor jouw situatie te kiezen.
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

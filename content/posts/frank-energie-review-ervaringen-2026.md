@@ -2,7 +2,7 @@
 title: "Frank Energie review 2026: 24 maanden eerlijke ervaringen"
 date: 2026-05-05T08:00:00+02:00
 lastmod: 2026-05-05T08:00:00+02:00
-description: "Frank Energie is de oudste NL dynamische leverancier. Volledige review na 24 maanden testen — app, prijzen, klantenservice, voor- en nadelen vergeleken met Tibber."
+description: "Frank Energie is de oudste NL dynamische leverancier. Volledige review na 24 maanden testen."
 categories: ["energie"]
 tags: ["Frank Energie", "dynamisch contract", "review", "energieleverancier", "EnergyZero"]
 keywords: ["frank energie review", "frank energie ervaringen", "frank energie app", "is frank energie goed", "frank energie nederland"]

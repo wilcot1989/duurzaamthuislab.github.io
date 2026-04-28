@@ -211,6 +211,9 @@ Bekijk onze [beste thuisbatterij vergelijking](/posts/beste-thuisbatterij-nederl
 
 Beide zijn uitstekende keuzes — je kunt met geen van beide een verkeerde beslissing nemen. Bespreek je specifieke situatie (dakoriëntatie, schaduw, toekomstplannen) met je installateur voor een persoonlijk advies.
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Lees ook
 
 - **[Beste Omvormer voor Zonnepanelen 2026](/posts/beste-omvormer-zonnepanelen-2026/)** — Alle omvormermerken vergeleken

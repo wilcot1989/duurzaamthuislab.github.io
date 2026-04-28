@@ -1,5 +1,5 @@
 ---
-title: "Thuisbatterij kopen of leasen 2026: rekenvoorbeeld over 10 jaar"
+title: "Thuisbatterij kopen of leasen 2026"
 date: 2026-05-12T08:00:00+02:00
 lastmod: 2026-05-12T08:00:00+02:00
 description: "Thuisbatterij kopen of leasen? Volledig rekenmodel over 10 jaar voor Sessy, Zonneplan en Marstek. Voor wie wel, voor wie niet."

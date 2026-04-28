@@ -1,8 +1,8 @@
 ---
-title: "Quatt warmtepomp review 2026: slim abonnement of dure binding?"
+title: "Quatt warmtepomp review 2026: slim abonnement of dure"
 date: 2026-07-03T08:00:00+02:00
 lastmod: 2026-07-03T08:00:00+02:00
-description: "Quatt biedt een warmtepomp als abonnement: geen aanbetaling, all-in service. Maar is het goedkoper dan gewoon kopen? Mijn eerlijke berekening over 10 jaar, inclusief nuances die Quatt zelf niet benadrukt."
+description: "Quatt biedt een warmtepomp als abonnement: geen aanbetaling, all-in service. Maar is het goedkoper dan gewoon kopen? Mijn eerlijke berekening over 10 jaar."
 categories: ["warmtepompen"]
 tags: ["Quatt", "warmtepomp abonnement", "hybride warmtepomp", "lucht-water warmtepomp", "Quatt Connect", "review"]
 keywords: ["Quatt warmtepomp review", "Quatt ervaringen", "Quatt Connect", "Quatt warmtepomp prijs", "Quatt vs kopen", "warmtepomp abonnement", "Quatt nadelen"]

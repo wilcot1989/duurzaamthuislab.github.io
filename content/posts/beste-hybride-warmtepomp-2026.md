@@ -222,6 +222,9 @@ Voor de meeste Nederlandse huishoudens is de **Remeha Elga Ace HT** de beste keu
 
 Vergeet niet dat je circa **€3.000 ISDE-subsidie** kunt ontvangen, plus eventuele gemeentelijke subsidies. Lees onze [complete ISDE subsidie gids](/posts/isde-subsidie-warmtepompen-2026/) voor alle details.
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Lees ook
 
 - **[ISDE Subsidie 2026: Complete Gids](/posts/isde-subsidie-warmtepompen-2026/)** — Alles over subsidie voor warmtepompen en isolatie

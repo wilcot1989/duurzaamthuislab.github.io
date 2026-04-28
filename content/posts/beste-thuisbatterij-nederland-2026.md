@@ -383,3 +383,6 @@ De **Tesla Powerwall 3** is ideaal voor wie het beste all-in-one systeem wil, te
 Met de afbouw van de salderingsregeling die in 2027 begint, is 2026 het ideale moment om je te orienteren. De terugverdientijden worden de komende jaren alleen maar korter.
 
 Zoek je een draagbare oplossing in plaats van een vast systeem? Bekijk dan ons overzicht van de [beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/).
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

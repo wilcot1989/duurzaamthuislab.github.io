@@ -287,3 +287,6 @@ Maar "premium" komt met een premium prijskaartje. In de Nederlandse context, waa
 De afbouw van de [salderingsregeling](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) maakt thuisbatterijen hoe dan ook steeds aantrekkelijker. En als je dan toch investeert, is de Powerwall 3 een product dat je jarenlang betrouwbaar van dienst zal zijn.
 
 Benieuwd naar alle opties? Lees ons complete overzicht van de [beste thuisbatterijen voor Nederland in 2026](/posts/beste-thuisbatterij-nederland-2026/).
+
+
+<a href="/go/tesla-powerwall" class="cta-affiliate" rel="sponsored noopener">Bekijk Tesla Powerwall</a>

@@ -1,8 +1,8 @@
 ---
-title: "Dynamische Energiecontracten + Thuisbatterij: Zo Verdien je Geld 2026"
+title: "Dynamische Energiecontracten + Thuisbatterij"
 date: 2026-04-02T12:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
-description: "Ontdek hoe je met een dynamisch energiecontract en thuisbatterij geld verdient in 2026. Slim laden, ontladen en energie-arbitrage uitgelegd met rekenvoorbeelden."
+description: "Ontdek hoe je met een dynamisch energiecontract en thuisbatterij geld verdient in 2026. Slim laden."
 categories: ["thuisbatterijen"]
 tags: ["dynamisch energiecontract", "thuisbatterij", "energie arbitrage", "slim laden", "tibber", "zonneplan", "ANWB energie", "dynamische tarieven"]
 keywords: ["dynamisch energiecontract thuisbatterij", "geld verdienen thuisbatterij", "energie arbitrage", "slim laden thuisbatterij", "dynamisch tarief batterij"]
@@ -323,3 +323,6 @@ Met ISDE-subsidie, een Huawei Luna 2000 en een dynamisch contract bij Tibber of 
 - **Configuratie**: Start met de directe Tibber-integratie en stap later eventueel over op Home Assistant voor maximale controle
 
 Lees ook onze artikelen over de [thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/) en de [afbouw van de salderingsregeling](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) voor meer achtergrondinformatie.
+
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>

@@ -2,7 +2,7 @@
 title: "Beste warmtepompboiler 2026: vergelijking van 6 modellen"
 date: 2026-07-27T08:00:00+02:00
 lastmod: 2026-07-27T08:00:00+02:00
-description: "Op zoek naar de beste warmtepompboiler van 2026? Ik vergelijk 6 modellen op COP, inhoud, prijs en ISDE-subsidie — inclusief eerlijke conclusie over welk model voor wie het meest geschikt is."
+description: "Op zoek naar de beste warmtepompboiler van 2026? Ik vergelijk 6 modellen op COP, inhoud, prijs en ISDE-subsidie."
 categories: ["warmtepompboilers"]
 tags: ["warmtepompboiler", "ATAG E-HP", "Daikin EKHWP", "Itho Daalderop", "Inventum Ecolution", "Bosch Compress", "ARISTON Lydos", "ISDE subsidie", "zonnepanelen", "warmwater"]
 keywords: ["beste warmtepompboiler 2026", "warmtepompboiler vergelijking", "warmtepompboiler ISDE subsidie", "warmtepompboiler COP", "warmtepompboiler zonnepanelen", "warmtepompboiler prijs", "elektrische boiler vervangen warmtepompboiler"]
@@ -407,3 +407,6 @@ Wat ik Joost uiteindelijk heb geadviseerd: de Itho Daalderop HP Cube 200L, mede 
 ---
 
 *Vragen over jouw specifieke situatie — welk model past bij jouw woning, zonnepanelen of huishoudgrootte? Laat een reactie achter, ik beantwoord ze graag.*
+
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>

@@ -1,8 +1,8 @@
 ---
-title: "Vaillant aroTHERM plus review 2026: eerlijk oordeel over de R290-warmtepomp"
+title: "Vaillant aroTHERM plus review 2026"
 date: 2026-08-01T08:00:00+02:00
 lastmod: 2026-08-01T08:00:00+02:00
-description: "De Vaillant aroTHERM plus is een van de meest besproken warmtepompen van 2026. Ik bekeek drie installaties van dichtbij: SCOP, geluid, besparing, app en vergelijking met Daikin Altherma 3 en Bosch Compress 7800i."
+description: "De Vaillant aroTHERM plus is een van de meest besproken warmtepompen van 2026. Ik bekeek drie installaties van dichtbij."
 categories: ["warmtepompen"]
 tags: ["Vaillant aroTHERM plus", "warmtepomp", "R290", "lucht-water warmtepomp", "ISDE subsidie", "SCOP", "review", "Vaillant"]
 keywords: ["Vaillant aroTHERM plus review", "Vaillant aroTHERM plus ervaringen", "Vaillant aroTHERM plus prijs", "Vaillant warmtepomp 2026", "R290 warmtepomp", "Vaillant vs Daikin", "aroTHERM plus SCOP", "Vaillant aroTHERM plus ISDE"]

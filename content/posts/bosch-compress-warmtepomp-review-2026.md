@@ -1,8 +1,8 @@
 ---
-title: "Bosch Compress warmtepomp review 2026: de slimme keuze voor label D-woningen?"
+title: "Bosch Compress warmtepomp review 2026"
 date: 2026-07-22T08:00:00+02:00
 lastmod: 2026-07-22T08:00:00+02:00
-description: "De Bosch Compress 5800 en 7800i zijn lucht-water warmtepompen die speciaal goed werken in matig geïsoleerde woningen. Mijn eerlijke review: COP 4.0-4.5, hybride optie, Bosch Easy Control app, ISDE 2026 en vergelijking met ATAG en Daikin."
+description: "De Bosch Compress 5800 en 7800i zijn lucht-water warmtepompen die speciaal goed werken in matig geïsoleerde woningen."
 categories: ["warmtepompen"]
 tags: ["Bosch", "Compress", "warmtepomp", "hybride warmtepomp", "lucht-water warmtepomp", "ISDE subsidie", "review", "label D woning"]
 keywords: ["Bosch Compress warmtepomp review", "Bosch Compress 5800 review", "Bosch Compress 7800i ervaringen", "Bosch warmtepomp prijs", "Bosch hybride warmtepomp", "Bosch vs Daikin warmtepomp", "warmtepomp label D woning"]

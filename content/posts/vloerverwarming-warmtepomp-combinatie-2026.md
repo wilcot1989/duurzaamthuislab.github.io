@@ -133,7 +133,7 @@ Als vloerverwarming te ingrijpend is, overweeg dan lage-temperatuur (LT) radiato
 
 ## Combinatie met zonnepanelen
 
-De ultieme combinatie: zonnepanelen + warmtepomp + vloerverwarming.
+De complete combinatie: zonnepanelen + warmtepomp + vloerverwarming.
 
 De zonnepanelen wekken overdag stroom op die de warmtepomp aandrijft. Met een [dynamisch energiecontract](/posts/dynamische-energiecontracten-vergelijking-2026/) en/of [thuisbatterij](/posts/thuisbatterij-vergelijking-2026/) maximaliseer je het eigenverbruik.
 
@@ -147,6 +147,9 @@ De zonnepanelen wekken overdag stroom op die de warmtepomp aandrijft. Met een [d
 Vloerverwarming + warmtepomp is de gouden combinatie voor maximaal comfort en minimaal energieverbruik. Als je toch gaat verbouwen of nieuw bouwt, is vloerverwarming een no-brainer. Bij bestaande bouw is het een grotere investering die zich in 5-12 jaar terugverdient.
 
 **Tip:** Begin met isolatie en een hybride warmtepomp op je bestaande radiatoren. Wanneer je later toch gaat verbouwen, leg dan vloerverwarming aan en schakel over naar full-electric.
+
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
 ## Lees ook
 

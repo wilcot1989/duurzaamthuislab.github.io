@@ -1,5 +1,5 @@
 ---
-title: "Dynamische Energiecontracten Vergelijking 2026: Tibber vs ANWB Energie vs Frank Energie"
+title: "Dynamische Energiecontracten Vergelijking 2026"
 date: 2026-04-14T10:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
 description: "Vergelijking van de beste dynamische energiecontracten in 2026. Tibber, ANWB Energie, Frank Energie en meer. Kosten, apps en bespaarpotentieel."
@@ -217,3 +217,6 @@ EasyEnergy was een van de eerste dynamische leveranciers in Nederland en focust 
 ---
 
 *Laatst bijgewerkt: april 2026.*
+
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>

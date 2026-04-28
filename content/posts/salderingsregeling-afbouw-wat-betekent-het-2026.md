@@ -132,7 +132,7 @@ De afbouw van de salderingsregeling heeft direct gevolgen voor de terugverdienti
 | **Totale jaarlijkse besparing** | | **€1.140** |
 | **Terugverdientijd** | €6.500 / €1.140 | **~5,7 jaar** |
 
-*Opmerking: we gaan ervan uit dat de afname na saldering neerkomt op 3.800 - 1.290 - 2.510 = 0 kWh. De resterende 500 kWh teruglevering boven afname wordt vergoed tegen terugleververgoeding.*
+*Opmerking: ik laat zien ervan uit dat de afname na saldering neerkomt op 3.800 - 1.290 - 2.510 = 0 kWh. De resterende 500 kWh teruglevering boven afname wordt vergoed tegen terugleververgoeding.*
 
 ### Scenario 2: Gedeeltelijke saldering (2028, 55%)
 
@@ -301,3 +301,6 @@ Maar er is geen reden voor paniek. Zonnepanelen blijven een verstandige invester
 De afbouw van saldering markeert een verschuiving in hoe we omgaan met zonne-energie. Van "zo veel mogelijk terugleveren" naar "zo veel mogelijk zelf gebruiken." Wie zich hierop voorbereidt, profiteert het meest van zijn of haar zonnepanelen -- nu en in de toekomst.
 
 Wil je je voorbereiden op de nieuwe situatie? Lees ook onze artikelen over de [beste thuisbatterijen](/posts/beste-thuisbatterij-nederland-2026/) en [beschikbare subsidies voor zonnepanelen](/posts/zonnepanelen-subsidie-nederland-2026/).
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

@@ -311,3 +311,6 @@ Overweeg je een vast systeem voor thuis? Bekijk dan onze gids over de [beste thu
 **[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
 
 **[Bekijk bij Jackery >>>](https://www.jackery.com/nl/)**
+
+
+<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

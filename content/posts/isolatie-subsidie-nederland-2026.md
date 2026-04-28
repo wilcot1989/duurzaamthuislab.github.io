@@ -1,8 +1,8 @@
 ---
-title: "Isolatie Subsidie Nederland 2026: Alle Regelingen en Bedragen"
+title: "Isolatie Subsidie Nederland 2026: Alle Regelingen en"
 date: 2026-05-27T10:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
-description: "Compleet overzicht van alle isolatiesubsidies in 2026. ISDE, gemeentelijke subsidies, energiebespaarlening en subsidie per isolatiemaatregel. Bespaar duizenden euro's."
+description: "Compleet overzicht van alle isolatiesubsidies in 2026. ISDE, gemeentelijke subsidies, energiebespaarlening en subsidie per isolatiemaatregel."
 categories: ["isolatie"]
 tags: ["isolatie subsidie", "ISDE", "spouwmuurisolatie", "dakisolatie", "vloerisolatie"]
 keywords: ["isolatie subsidie 2026", "ISDE subsidie isolatie", "subsidie spouwmuurisolatie", "isolatie subsidie aanvragen"]
@@ -246,6 +246,9 @@ Niet genoeg eigen geld? Het Nationaal Warmtefonds biedt een gunstige lening spec
 Met de subsidies van 2026 is isolatie toegankelijker dan ooit. Spouwmuurisolatie kost na subsidie soms maar €200 eigen bijdrage en verdient zich in 2-4 jaar terug. Combineer maatregelen voor de extra ISDE-bonus en check altijd je gemeentelijke regelingen.
 
 Begin met een inventarisatie, vraag offertes aan bij erkende installateurs, en pak de subsidies mee. De investering verdient zich altijd terug — met subsidie alleen maar sneller.
+
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
 ## Lees ook
 

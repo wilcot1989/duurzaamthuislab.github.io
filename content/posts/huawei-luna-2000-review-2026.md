@@ -1,5 +1,5 @@
 ---
-title: "Huawei Luna 2000 Review 2026: De Populairste Thuisbatterij van Nederland"
+title: "Huawei Luna 2000 Review 2026: De Populairste Thuisbatterij"
 date: 2026-03-12T12:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
 description: "Uitgebreide Huawei Luna 2000 review: modulair 5-15kWh, compatibiliteit met Huawei omvormers, terugverdientijd en ervaringen in Nederland."
@@ -281,3 +281,6 @@ Voor wie al een Huawei-omvormer heeft of bereid is om over te stappen, is de Lun
 **Mijn score: 8/10**
 
 **[Bekijk de Huawei Luna 2000 >>>](https://solar.huawei.com/nl/residential/luna2000)**
+
+
+<a href="/go/huawei-luna" class="cta-affiliate" rel="sponsored noopener">Bekijk Huawei Luna</a>

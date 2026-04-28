@@ -1,5 +1,5 @@
 ---
-title: "Elektrisch Koken 2026: Inductie vs Gas — Kosten, Besparing en Overstappen"
+title: "Elektrisch Koken 2026: Inductie vs Gas"
 date: 2026-06-27T10:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
 description: "Inductie koken vs gas vergeleken in 2026. Kosten overstappen, energieverbruik, kookervaring en besparing. Alles over van gas naar inductie in je keuken."
@@ -150,6 +150,9 @@ Toen ik mijn Vaillant hybride warmtepomp liet installeren, heb ik meteen de stap
 ## Conclusie
 
 De overstap van gas naar inductie is een van de makkelijkste verduurzamingsstappen. Voor €550-€1.000 (budget) heb je een complete installatie die sneller kookt, makkelijker schoonmaakt en €40-€50 per jaar bespaart op energiekosten. Word je volledig gasloos? Dan bespaart het afsluiten van je gasaansluiting nog eens €200-€250 per jaar.
+
+
+<a href="/go/bosch" class="cta-affiliate" rel="sponsored noopener">Bekijk Bosch</a>
 
 ## Lees ook
 

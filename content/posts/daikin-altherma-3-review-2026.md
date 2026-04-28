@@ -1,8 +1,8 @@
 ---
-title: "Daikin Altherma 3 review 2026: marktleider verdient die titel?"
+title: "Daikin Altherma 3 review 2026: marktleider verdient die"
 date: 2026-07-17T08:00:00+02:00
 lastmod: 2026-07-17T08:00:00+02:00
-description: "Daikin Altherma 3 is de bestverkochte lucht-water warmtepomp van Nederland. Maar is hij ook de beste keuze voor jouw situatie? Mijn eerlijke test: SCOP 4.8, modulerend gedrag, installatie-ervaringen en vergelijking met ATAG en Mitsubishi."
+description: "Daikin Altherma 3 is de bestverkochte lucht-water warmtepomp van Nederland. Maar is hij ook de beste keuze voor jouw situatie? Mijn eerlijke test."
 categories: ["warmtepompen"]
 tags: ["Daikin", "Altherma 3", "warmtepomp", "lucht-water warmtepomp", "ISDE subsidie", "review", "modulerende warmtepomp", "R32"]
 keywords: ["Daikin Altherma 3 review", "Daikin Altherma 3 ervaringen", "Daikin warmtepomp prijs", "Daikin Altherma 3 SCOP", "Daikin vs ATAG warmtepomp", "Daikin Altherma 3 installatie", "beste warmtepomp 2026"]

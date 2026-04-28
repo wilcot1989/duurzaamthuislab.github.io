@@ -246,3 +246,6 @@ Trina Solar Vertex S+ is ideaal als je **maximum vermogen per paneel** wilt en j
 ---
 
 *Laatst bijgewerkt: april 2026.*
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

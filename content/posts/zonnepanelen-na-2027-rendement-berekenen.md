@@ -1,5 +1,5 @@
 ---
-title: "Zonnepanelen na 2027: hoe bereken je het rendement echt? (per profiel)"
+title: "Zonnepanelen na 2027: hoe bereken je het rendement echt?"
 date: 2026-05-02T08:00:00+02:00
 lastmod: 2026-05-02T08:00:00+02:00
 description: "Zijn zonnepanelen nog rendabel na de saldering-stop? Concrete berekening per huishoudprofiel met en zonder thuisbatterij. Met formule en voorbeelden."
@@ -76,7 +76,7 @@ Vergelijk met situatie tot 2026:
 
 **De saldering-stop verlengt je terugverdientijd dus van 5,4 jaar naar 11,9 jaar** — als je niets anders doet.
 
-Maar dat hoeft niet. Met de juiste maatregelen kom je terug op 7-9 jaar. We gaan ze één voor één doorrekenen.
+Maar dat hoeft niet. Met de juiste maatregelen kom je terug op 7-9 jaar. Ik laat zien ze één voor één doorrekenen.
 
 ## Variabelen die je rendement bepalen
 
@@ -293,6 +293,9 @@ Doe deze drie en de saldering-stop kost je weinig. Doe niets en je terugverdient
 *Wil je een berekening voor jouw specifieke situatie? Stuur me je verbruik, paneelvermogen en oriëntatie via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl) — ik reken het door.*
 
 ---
+
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 

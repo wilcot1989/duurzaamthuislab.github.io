@@ -237,3 +237,6 @@ Enphase biedt AC-gekoppelde micro-batterijen die modulair zijn en de langste gar
 ---
 
 *Laatst bijgewerkt: mei 2026.*
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

@@ -321,3 +321,6 @@ Het beste powerstation voor vanlife hangt af van je reissstijl, budget en stroom
 - **Beste allround**: [Anker Solix C1000](https://www.anker.com/eu-nl/products/a1761-solix-c1000-portable-power-station) -- de slimste keuze voor de meeste vanlifers.
 
 Bekijk ook ons overzicht van de [beste draagbare powerstations 2026](/posts/beste-draagbare-powerstation-2026/) en het [beste powerstation voor camping](/posts/beste-powerstation-camping-2026/) voor meer opties.
+
+
+<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

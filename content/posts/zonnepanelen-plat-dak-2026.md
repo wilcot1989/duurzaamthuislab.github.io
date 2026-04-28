@@ -1,5 +1,5 @@
 ---
-title: "Zonnepanelen op Plat Dak 2026: Opbrengst, Kosten en Plaatsing"
+title: "Zonnepanelen op Plat Dak 2026: Opbrengst"
 date: 2026-06-22T10:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
 description: "Alles over zonnepanelen op een plat dak in 2026. Opbrengst, kosten, ballast vs doorgedrukt systeem, optimale hoek en de beste systemen vergeleken."
@@ -186,6 +186,9 @@ De zonnepanelen vervangen de dakbedekking (bij nieuwbouw of dakrenovatie).
 ## Conclusie
 
 Zonnepanelen op een plat dak zijn een uitstekende investering met een terugverdientijd van 4-5 jaar. Kies oost-west als je maximaal wilt opwekken op een beperkt dak, of zuid als opbrengst per paneel prioriteit heeft. Een ballastsysteem is voor de meeste daken de veiligste en voordeligste keuze.
+
+
+<a href="/go/anker-solix" class="cta-affiliate" rel="sponsored noopener">Bekijk Anker Solix</a>
 
 ## Lees ook
 

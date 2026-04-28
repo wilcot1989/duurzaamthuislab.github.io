@@ -2,7 +2,7 @@
 title: "EV laden met thuisbatterij: levert het geld op?"
 date: 2026-07-08T08:00:00+02:00
 lastmod: 2026-07-08T08:00:00+02:00
-description: "Slim je elektrische auto laden via een thuisbatterij: wanneer verdien je er echt aan? Rekenvoorbeelden met dynamisch contract, Sessy, Marstek en bidirectioneel laden."
+description: "Slim je elektrische auto laden via een thuisbatterij: wanneer verdien je er echt aan? Rekenvoorbeelden met dynamisch contract, Sessy."
 categories: ["elektrische-auto"]
 tags: ["EV laden thuisbatterij", "slim laden elektrische auto", "V2H bidirectioneel laden", "dynamisch energiecontract", "thuisbatterij saldering"]
 keywords: ["EV laden met thuisbatterij", "elektrische auto thuisbatterij combinatie", "V2H laden", "bidirectioneel laden Nederland", "slim laden dynamisch contract", "Sessy EV laden", "thuisbatterij EV combinatie rentabel"]

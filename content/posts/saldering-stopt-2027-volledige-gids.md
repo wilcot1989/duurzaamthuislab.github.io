@@ -1,8 +1,8 @@
 ---
-title: "Saldering stopt in 2027: de volledige gids voor zonnepaneelbezitters"
+title: "Saldering stopt in 2027: de volledige gids voor"
 date: 2026-04-29T08:00:00+02:00
 lastmod: 2026-04-29T08:00:00+02:00
-description: "Per 1 januari 2027 stopt de salderingsregeling. Wat betekent dat concreet voor je zonnepanelen, je rekening en je terugverdientijd? Volledige gids met cijfers per huishouden."
+description: "Per 1 januari 2027 stopt de salderingsregeling. Wat betekent dat concreet voor je zonnepanelen."
 categories: ["zonne-energie", "energie"]
 tags: ["saldering 2027", "salderingsregeling", "saldering stopt", "zonnepanelen na 2027", "thuisbatterij", "dynamisch contract"]
 keywords: ["saldering 2027", "saldering stopt 2027", "salderingsregeling 2027", "afschaffing saldering 2027", "zonnepanelen na 2027", "saldering stopt wat nu", "salderingsregeling afgeschaft"]

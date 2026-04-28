@@ -1,8 +1,8 @@
 ---
-title: "Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken (Sessy, Marstek, Zonneplan, Tesla)"
+title: "Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken"
 date: 2026-05-08T08:00:00+02:00
 lastmod: 2026-05-08T08:00:00+02:00
-description: "Welke 10 kWh thuisbatterij past bij jouw huishouden? Eerlijke vergelijking van Sessy, Marstek, Zonneplan, Tesla, EcoFlow, Huawei en BYD met prijzen + scenario's."
+description: "Welke 10 kWh thuisbatterij past bij jouw huishouden? Eerlijke vergelijking van Sessy, Marstek, Zonneplan, Tesla, EcoFlow."
 categories: ["thuisbatterijen"]
 tags: ["thuisbatterij 10 kWh", "vergelijking", "Sessy", "Marstek", "Tesla Powerwall", "EcoFlow", "BYD"]
 keywords: ["beste thuisbatterij 10 kwh", "thuisbatterij 10 kwh vergelijken", "thuisbatterij 10 kwh prijs", "thuisbatterij 10 kwh kopen", "thuisbatterij 10 kwh beste koop"]

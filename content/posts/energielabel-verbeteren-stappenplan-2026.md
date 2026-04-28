@@ -216,6 +216,9 @@ Het verbeteren van je energielabel is een investering die zichzelf terugverdient
 2. Combineer maatregelen voor maximale subsidie
 3. Vraag altijd minimaal 3 offertes aan
 
+
+<a href="/go/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
+
 ## Lees ook
 
 - **[ISDE Subsidie 2026: Complete Gids](/posts/isde-subsidie-warmtepompen-2026/)** — Alle subsidies voor warmtepompen en isolatie

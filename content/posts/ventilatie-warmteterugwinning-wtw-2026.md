@@ -1,5 +1,5 @@
 ---
-title: "Ventilatie met Warmteterugwinning (WTW) 2026: Kosten, Werking en Besparing"
+title: "Ventilatie met Warmteterugwinning (WTW) 2026"
 date: 2026-06-12T10:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
 description: "Alles over ventilatie met warmteterugwinning (WTW) in 2026. Kosten €3.000-€6.000, werking, besparing op energierekening en de beste WTW units vergeleken."
@@ -198,6 +198,9 @@ Bekijk alle mogelijkheden in onze [isolatie subsidie gids](/posts/isolatie-subsi
 ## Conclusie
 
 Een WTW-systeem is de logische volgende stap na isolatie. Het voorkomt dat je dure warmte verliest door ventilatie, verbetert je luchtkwaliteit en verhoogt je comfort. De investering is hoger dan isolatie (€3.000-€6.000), maar de combinatie van energiebesparing, gezondheid en comfort maakt het een waardevolle investering — vooral bij nieuwbouw of grote renovatie.
+
+
+<a href="/go/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
 
 ## Lees ook
 

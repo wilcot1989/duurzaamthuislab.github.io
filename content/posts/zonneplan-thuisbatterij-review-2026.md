@@ -1,5 +1,5 @@
 ---
-title: "Zonneplan thuisbatterij review 2026: eerlijke test (en wanneer NIET kopen)"
+title: "Zonneplan thuisbatterij review 2026"
 date: 2026-05-06T08:00:00+02:00
 lastmod: 2026-05-06T08:00:00+02:00
 description: "Zonneplan biedt thuisbatterijen via lease en koop. Volledige review van het systeem, app, kosten en service na 6 maanden testen. Wel of niet kiezen?"

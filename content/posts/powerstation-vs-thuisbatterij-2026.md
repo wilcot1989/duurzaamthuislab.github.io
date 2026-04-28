@@ -1,5 +1,5 @@
 ---
-title: "Powerstation vs Thuisbatterij: Wat is het Verschil en Wat Past bij Jou?"
+title: "Powerstation vs Thuisbatterij: Wat is het Verschil en Wat"
 date: 2026-03-14T12:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
 description: "Powerstation of thuisbatterij? Ontdek de verschillen in capaciteit, kosten, installatie en gebruik. Met helder keuzekader voor jouw situatie."
@@ -285,3 +285,6 @@ Meer weten? Bekijk onze gidsen:
 - [Bluetti AC200MAX review](/posts/bluetti-ac200max-review-2026/)
 - [Huawei Luna 2000 review](/posts/huawei-luna-2000-review-2026/)
 - [Beste zonnepaneel + powerstation combinatie 2026](/posts/beste-zonnepaneel-powerstation-combinatie-2026/)
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

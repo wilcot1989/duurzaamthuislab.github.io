@@ -349,3 +349,6 @@ De belangrijkste aandachtspunten voor 2026:
 - **0% BTW**: Geldt voor zonnepanelen op woningen, waardoor je direct 21% bespaart op de aanschaf.
 
 Heb je al zonnepanelen en wil je een draagbare stroomoplossing voor onderweg of als noodstroom? Bekijk dan ons overzicht van de [beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/).
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

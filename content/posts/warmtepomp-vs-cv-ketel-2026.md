@@ -2,7 +2,7 @@
 title: "Warmtepomp vs CV-ketel 2026: Wat is Voordeliger?"
 date: 2026-05-01T10:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
-description: "Warmtepomp vs CV-ketel vergeleken op kosten, besparing, comfort en duurzaamheid. Ontdek wanneer een warmtepomp rendabel is en wanneer een CV-ketel de betere keuze is."
+description: "Warmtepomp vs CV-ketel vergeleken op kosten, besparing, comfort en duurzaamheid. Ontdek wanneer een warmtepomp rendabel is en wanneer een CV-ketel de betere."
 categories: ["warmtepompen"]
 tags: ["warmtepomp", "CV-ketel", "verwarming", "gasloos", "verduurzaming"]
 keywords: ["warmtepomp vs CV-ketel", "warmtepomp kosten", "CV-ketel vervangen", "warmtepomp rendabel"]
@@ -148,6 +148,9 @@ Met een [thuisbatterij](/posts/beste-thuisbatterij-nederland-2026/) en [dynamisc
 Voor de meeste Nederlandse huishoudens is een **hybride warmtepomp** de slimste eerste stap: lage drempel, goede besparing, en je bestaande radiatoren kunnen blijven. Ben je klaar voor een grotere stap en is je woning goed geïsoleerd? Dan levert een **full-electric warmtepomp** de grootste besparing over de levensduur.
 
 Vergeet de **ISDE-subsidie** niet — die maakt het verschil in terugverdientijd.
+
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
 ## Lees ook
 

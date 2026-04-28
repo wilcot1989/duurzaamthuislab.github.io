@@ -1,5 +1,5 @@
 ---
-title: "Laadpaal Thuis Plaatsen 2026: Kosten, Subsidie en Beste Merken"
+title: "Laadpaal Thuis Plaatsen 2026: Kosten"
 date: 2026-06-02T10:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
 description: "Alles over een laadpaal thuis plaatsen in 2026. Kosten €800-€2.500, subsidie tot €600, beste merken vergeleken en slim laden met dynamische tarieven."
@@ -189,6 +189,9 @@ Veel gemeenten bieden aanvullende subsidie:
 ## Conclusie
 
 Een thuislaadpaal is een van de beste investeringen als EV-rijder. Met €800-€1.500 (na subsidie: €400-€1.000) bespaar je €800-€1.600 per jaar ten opzichte van publiek laden. De Easee Home is onze top-aanbeveling, maar de Wallbox Pulsar Plus is een uitstekend budgetalternatief.
+
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
 ## Lees ook
 

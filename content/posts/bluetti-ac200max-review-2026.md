@@ -277,3 +277,6 @@ De mogelijkheid om het systeem uit te breiden tot 8192Wh maakt het bovendien een
 **Mijn score: 8,5/10**
 
 **[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
+
+
+<a href="/go/bluetti" class="cta-affiliate" rel="sponsored noopener">Bekijk Bluetti</a>

@@ -1,5 +1,5 @@
 ---
-title: "Thuisbatterij prijs per kWh 2026: complete prijsanalyse + wanneer kopen"
+title: "Thuisbatterij prijs per kWh 2026: complete prijsanalyse +"
 date: 2026-05-11T08:00:00+02:00
 lastmod: 2026-05-11T08:00:00+02:00
 description: "Wat betaal je per kWh thuisbatterijcapaciteit in 2026? Volledige prijsanalyse van alle merken plus prognose voor 2027 en advies wanneer kopen."

@@ -167,6 +167,9 @@ Met een lening koop je de panelen (eigendom = hoger rendement) maar heb je geen 
 3. **Geen spaargeld, normaal inkomen?** → Groene lening (2-4%)
 4. **Wil je geen risico en geen gedoe?** → Huur
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Lees ook
 
 - **[Beste Zonnepanelen 2026](/posts/beste-zonnepanelen-2026/)** — Top 5 merken vergeleken

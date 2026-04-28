@@ -388,3 +388,6 @@ Heb je te maken met schaduw of wil je maximale monitoring? Dan zijn **Enphase mi
 Het belangrijkste advies: kies een omvormer die past bij je huidige situatie en toekomstige plannen. De salderingsregeling verandert, energieprijzen blijven stijgen, en een thuisbatterij wordt steeds aantrekkelijker. Een hybride omvormer die je vandaag koopt, bespaart je morgen de kosten van een vervanging.
 
 Benieuwd welke thuisbatterij het beste bij jouw omvormer past? Lees ons complete overzicht van de [beste thuisbatterijen voor Nederland in 2026](/posts/beste-thuisbatterij-nederland-2026/).
+
+
+<a href="/go/huawei-luna" class="cta-affiliate" rel="sponsored noopener">Bekijk Huawei Luna</a>

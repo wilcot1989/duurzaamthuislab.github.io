@@ -286,7 +286,7 @@ Ga je licht pakken? De **EcoFlow River 2** is met slechts 3,5 kg het lichtste po
 
 ### Waarom voor camping?
 
-Met een gewicht van slechts **3,5 kg** is de River 2 de ultieme keuze voor minimalistische kampeerders, fietstoeristen, of als aanvulling op een groter station. De capaciteit van 256Wh is beperkt, maar voldoende om telefoons, een camera, verlichting en een kleine speaker meerdere dagen van stroom te voorzien.
+Met een gewicht van slechts **3,5 kg** is de River 2 de complete keuze voor minimalistische kampeerders, fietstoeristen, of als aanvulling op een groter station. De capaciteit van 256Wh is beperkt, maar voldoende om telefoons, een camera, verlichting en een kleine speaker meerdere dagen van stroom te voorzien.
 
 De **X-Boost functie** verhoogt het effectieve vermogen naar 600W, waarmee je incidenteel een kleine waterkoker of haardroger kunt gebruiken. De AC-laadtijd van slechts **40 minuten tot 80%** is bliksemssnel.
 
@@ -395,3 +395,6 @@ Het **beste powerstation voor camping** hangt af van je persoonlijke situatie en
 Welk model je ook kiest, een goed powerstation maakt kamperen comfortabeler zonder de natuur te verstoren -- geen lawaai van aggregaten, geen uitstoot, en altijd stroom voor de apparaten die je echt nodig hebt.
 
 Overweeg je een groter model voor zowel camping als thuisgebruik? Lees dan ook onze diepgaande reviews van de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) en de [Jackery Explorer 2000 Plus](/posts/jackery-explorer-2000-plus-review-2026/).
+
+
+<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

@@ -1,8 +1,8 @@
 ---
-title: "Voorbereid op Stroomuitval 2026: Welke Powerstation Heb je Nodig?"
+title: "Voorbereid op Stroomuitval 2026: Welke Powerstation Heb je"
 date: 2026-03-24T12:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
-description: "Praktische gids voor noodstroom thuis met een powerstation. Bereken hoeveel Wh je nodig hebt, welke apparaten je kunt draaien en welk powerstation het beste past bij jouw budget."
+description: "Praktische gids voor noodstroom thuis met een powerstation. Bereken hoeveel Wh je nodig hebt."
 categories: ["powerstations"]
 tags: ["stroomuitval", "noodstroom", "powerstation", "UPS", "noodvoorbereiding", "stroomstoring", "EcoFlow", "Jackery", "Anker", "Bluetti"]
 keywords: ["stroomuitval voorbereiden", "noodstroom thuis", "powerstation stroomuitval", "powerstation noodstroom", "stroomuitval nederland", "welk powerstation noodstroom"]
@@ -327,3 +327,6 @@ Investeer daarnaast in een opvouwbaar zonnepaneel voor onbeperkte autonomie bij 
 En vergeet niet: het beste moment om je voor te bereiden is voordat je het nodig hebt.
 
 Bekijk ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor alle opties. Heb je een camper of ga je regelmatig kamperen? Lees dan ook onze gids [Beste powerstation voor camping 2026](/posts/beste-powerstation-camping-2026/).
+
+
+<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

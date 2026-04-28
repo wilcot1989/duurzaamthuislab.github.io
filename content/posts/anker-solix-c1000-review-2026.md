@@ -2,7 +2,7 @@
 title: "Anker SOLIX C1000 Review 2026: Compact Krachtpatser"
 date: 2026-03-17T12:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
-description: "Uitgebreide Anker SOLIX C1000 review. Bekijk specs, LiFePO4 batterij, laadtijden, app-bediening en vergelijking met EcoFlow Delta 2, Jackery 1000 Plus en Bluetti AC70."
+description: "Uitgebreide Anker SOLIX C1000 review. Bekijk specs, LiFePO4 batterij, laadtijden, app-bediening en vergelijking met EcoFlow Delta 2."
 categories: ["powerstations"]
 tags: ["Anker", "SOLIX C1000", "powerstation review", "draagbaar powerstation", "LiFePO4", "compact powerstation"]
 keywords: ["anker solix c1000 review", "anker powerstation review", "anker solix c1000 ervaringen", "anker solix c1000 test", "anker c1000 specs"]
@@ -311,3 +311,6 @@ Ja, de solar-input van 300W is beperkter dan sommige concurrenten en het aantal 
 **[Bestel de Anker SOLIX C1000 via onze link >>>](https://www.anker.com/eu-nl/collections/anker-solix)**
 
 Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor een bredere vergelijking.
+
+
+<a href="/go/anker-solix" class="cta-affiliate" rel="sponsored noopener">Bekijk Anker Solix</a>

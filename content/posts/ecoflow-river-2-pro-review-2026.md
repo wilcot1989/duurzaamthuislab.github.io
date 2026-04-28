@@ -205,3 +205,6 @@ De EcoFlow River 2 Pro verdient zijn populariteit. Het is een uitstekend powerst
 Als je meer capaciteit nodig hebt, bekijk dan de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) of ons overzicht van de [beste draagbare powerstations 2026](/posts/beste-draagbare-powerstation-2026/). Voor een vergelijking van alle zonnepaneel-powerstation combinaties, lees ons artikel over de [beste zonnepaneel-powerstation combinatie](/posts/beste-zonnepaneel-powerstation-combinatie-2026/).
 
 [Bekijk de EcoFlow River 2 Pro](https://www.ecoflow.com/nl/river-2-pro-portable-power-station)
+
+
+<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

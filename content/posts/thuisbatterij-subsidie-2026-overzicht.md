@@ -1,5 +1,5 @@
 ---
-title: "Thuisbatterij subsidie 2026: volledig overzicht per provincie en gemeente"
+title: "Thuisbatterij subsidie 2026: volledig overzicht per"
 date: 2026-05-10T08:00:00+02:00
 lastmod: 2026-05-10T08:00:00+02:00
 description: "Welke subsidies bestaan er voor thuisbatterijen in 2026? Per provincie en gemeente uitgesplitst. Plus BTW-regels, ISDE-status en wanneer subsidie aanvragen."

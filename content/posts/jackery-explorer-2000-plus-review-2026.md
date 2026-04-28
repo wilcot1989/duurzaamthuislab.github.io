@@ -1,5 +1,5 @@
 ---
-title: "Jackery Explorer 2000 Plus Review 2026: Krachtig & Uitbreidbaar"
+title: "Jackery Explorer 2000 Plus Review 2026"
 date: 2026-03-02T12:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
 description: "Uitgebreide Jackery Explorer 2000 Plus review. LiFePO4, 3000W output, uitbreidbaar tot 24kWh. Specs, test en eerlijk oordeel."
@@ -272,3 +272,6 @@ De modulaire aanpak maakt het bijzonder aantrekkelijk: begin met het basisstatio
 **[Bestel de Jackery Explorer 2000 Plus via onze link >>>](https://www.jackery.com/nl/)**
 
 Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor meer opties.
+
+
+<a href="/go/jackery" class="cta-affiliate" rel="sponsored noopener">Bekijk Jackery</a>

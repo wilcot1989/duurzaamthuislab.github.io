@@ -396,3 +396,6 @@ Welk powerstation je ook kiest, met de modellen in dit overzicht zit je altijd g
 Heb je liever een vast systeem dat gekoppeld is aan je zonnepanelen? Bekijk dan ons overzicht van de [beste thuisbatterijen voor Nederlandse huishoudens](/posts/beste-thuisbatterij-nederland-2026/).
 
 Wil je weten welke merken het beste scoren? Lees onze diepgaande [EcoFlow vs Jackery vergelijking](/posts/ecoflow-vs-jackery-2026/).
+
+
+<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

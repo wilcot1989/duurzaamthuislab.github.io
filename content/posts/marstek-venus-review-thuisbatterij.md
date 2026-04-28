@@ -1,5 +1,5 @@
 ---
-title: "Marstek Venus review 2026: de goedkoopste slimme thuisbatterij?"
+title: "Marstek Venus review 2026: de goedkoopste slimme"
 date: 2026-05-07T08:00:00+02:00
 lastmod: 2026-05-07T08:00:00+02:00
 description: "Marstek Venus is de goedkoopste plug-and-play thuisbatterij van Nederland. Eerlijke review na 4 maanden testen — werkt het écht zo simpel als beloofd?"

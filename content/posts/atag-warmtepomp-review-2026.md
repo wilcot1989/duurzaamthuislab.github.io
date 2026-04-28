@@ -1,8 +1,8 @@
 ---
-title: "ATAG warmtepomp review 2026: eerlijke test van een Nederlandse fabrikant"
+title: "ATAG warmtepomp review 2026: eerlijke test van een"
 date: 2026-06-28T08:00:00+02:00
 lastmod: 2026-06-28T08:00:00+02:00
-description: "ATAG maakt warmtepompen in Nederland — maar zijn ze ook goed? Mijn eerlijke review van de ENERGION hybride warmtepomp: COP, besparing, installatie en vergelijking met Daikin en Intergas."
+description: "ATAG maakt warmtepompen in Nederland — maar zijn ze ook goed? Mijn eerlijke review van de ENERGION hybride warmtepomp."
 categories: ["warmtepompen"]
 tags: ["ATAG", "ENERGION", "warmtepomp", "hybride warmtepomp", "lucht-water warmtepomp", "ISDE subsidie", "review"]
 keywords: ["ATAG warmtepomp review", "ATAG ENERGION review", "ATAG warmtepomp ervaringen", "ATAG hybride warmtepomp", "ATAG warmtepomp prijs", "ATAG vs Daikin", "Nederlandse warmtepomp"]
