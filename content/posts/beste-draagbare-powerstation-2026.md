@@ -9,7 +9,7 @@ keywords: ["beste powerstation", "draagbare powerstation vergelijken", "powersta
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1497440001374-f26997328c1b?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://images.unsplash.com/photo-1650866155994-3bd730b5daf9?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat is het beste draagbare powerstation van 2026?"
     a: "De EcoFlow Delta 2 Max biedt de beste combinatie van capaciteit (2048Wh), vermogen (2400W) en laadsnelheid. Voor een kleiner budget is de Anker SOLIX C1000 een uitstekend alternatief."

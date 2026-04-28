@@ -9,7 +9,7 @@ keywords: ["huawei luna 2000 review", "huawei thuisbatterij", "luna 2000 ervarin
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat kost een Huawei Luna 2000 thuisbatterij inclusief installatie?"
     a: "De totale kosten inclusief installatie variëren van circa €4.500 voor de 5kWh-versie tot €11.000 voor de 15kWh-versie. Dit is inclusief de Huawei omvormer als je die nog niet hebt."

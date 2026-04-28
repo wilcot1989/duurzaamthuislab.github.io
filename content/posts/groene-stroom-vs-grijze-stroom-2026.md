@@ -347,6 +347,43 @@ De groep die het minst investeert: budget-leveranciers die uitsluitend buitenlan
 
 ---
 
+## Groene stroom voor bedrijven: andere regels
+
+Bedrijven die groene stroom afnemen spelen in een ander veld dan particulieren. De GvO-markt voor zakelijke klanten is groter, transparanter, maar ook complexer.
+
+**Directe PPA (Power Purchase Agreement):**
+Grote bedrijven (>1 MW verbruik) sluiten directe contracten met windpark-exploitanten. Ze kopen stroom tegen een vaste prijs voor 10-15 jaar, met GvO's inbegrepen. Dat is de meest directe vorm van groene inkoop — maar niet toegankelijk voor MKB.
+
+**Zakelijk dynamisch contract:**
+MKB-bedrijven (tot ca. €100.000/jaar energiekosten) kunnen net als particulieren een dynamisch contract afsluiten. Frank Energie en Tibber bieden dit aan. Voordeel: je betaalt EPEX-prijs + opslag, zonder vaste inkooprisico's van de leverancier. Nadeel: vraagt actief beheer van verbruikspieken.
+
+**Energie-inkoop via coöperatie:**
+Brancheorganisaties en regionale coöperaties bieden soms gezamenlijke inkoop voor leden. Dit geeft onderhandelingsvoordeel dat een individueel MKB-bedrijf niet heeft. Resultaat: lagere opslag en betere GvO-kwaliteit.
+
+**Zakelijke rapportage (CSRD 2026):**
+Bedrijven die onder de Corporate Sustainability Reporting Directive vallen (vanaf 2026 voor mid-size bedrijven) moeten rapporteren over Scope 2-emissies. Groene stroom met additionele GvO's verlaagt de gerapporteerde CO₂-uitstoot. Dat is niet alleen duurzaamheid — het is compliance.
+
+---
+
+## Vijf vragen die ik kreeg van lezers
+
+**"Is groene stroom duurder dan grijze stroom?"**
+Niet per se. Dynamische leveranciers als Frank Energie en Tibber bieden 100% groene stroom (hoog NL-aandeel) en zijn gemiddeld goedkoper dan vaste contracten van Eneco of Vattenfall met grijze of gedeeltelijk groene stroom. Het hangt af van je contract, niet van de kleur.
+
+**"Wat als mijn leverancier failliet gaat?"**
+Je energielevering stopt nooit zomaar. De netbeheerder (Enexis, Liander, Stedin) zorgt voor ononderbroken levering. Je wordt automatisch overgedragen aan een noodleverancier. Je hoeft zelf niets te doen — wel wordt het tarief tijdelijk hoger totdat je een nieuw contract afsluit.
+
+**"Heeft groene stroom invloed op mijn slim laden?"**
+Indirect ja. Windstroom en zonnestroom zijn het goedkoopst op momenten dat er veel productie is (overdag bij zon, 's nachts bij wind). Een dynamisch contract in combinatie met een EV-laadpaal is de meest kostenefficiënte manier om "groen te laden" — je laadt automatisch wanneer groene stroom het goedkoopst is.
+
+**"Kan ik zelf groene stroom verkopen als prosumer?"**
+Als particulier niet direct. Je levert terug aan het net via je netbeheerder, die het saldeert of vergoedt via het teruglevertarief van je leverancier. Dat teruglevertarief is bij dynamische leveranciers gelijk aan de EPEX-prijs, dus je krijgt de marktprijs voor je teruggeleverde zonnestroom.
+
+**"Wat is het verschil tussen windstroom en zonnestroom qua CO₂?"**
+Beide zijn nagenoeg CO₂-vrij in gebruik. Over de hele levenscyclus (productie + transport + installatie) heeft wind iets minder CO₂-voetafdruk dan zon: 7-15 gCO₂/kWh voor wind vs. 20-50 gCO₂/kWh voor zon. Ter vergelijking: aardgas = 490 gCO₂/kWh. Beide zijn een factor 10-70× beter dan fossiel.
+
+---
+
 ## Lees ook
 
 - **[Dynamische Energiecontracten 2026](/posts/dynamische-energiecontracten-vergelijking-2026/)** — Slim energie inkopen

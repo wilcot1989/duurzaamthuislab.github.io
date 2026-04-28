@@ -9,7 +9,7 @@ keywords: ["thuisbatterij vergelijking", "beste thuisbatterij 2026", "Tesla Powe
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Welke thuisbatterij is de beste in 2026?"
     a: "De Tesla Powerwall 3 biedt de beste combinatie van capaciteit (13,5 kWh), ingebouwde omvormer en gebruiksgemak. De BYD HVS biedt de beste schaalbaarheid (5,1-12,8 kWh modulair). Voor SolarEdge-gebruikers is de SolarEdge Home Battery de meest efficiënte optie dankzij DC-koppeling."

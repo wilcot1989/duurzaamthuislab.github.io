@@ -383,6 +383,48 @@ Bidirectioneel laden (V2H = Vehicle to Home) is de volgende stap: je auto fungee
 
 ---
 
+## Netcongestie: wat als jouw wijk op de wachtlijst staat?
+
+In 2026 is netcongestie in stedelijke gebieden (Amsterdam, Utrecht, Den Haag, Rotterdam, Eindhoven) een reëel probleem. Soms kan een netbeheerder geen extra aansluitcapaciteit leveren voor een laadpaal met hoog vermogen.
+
+**Wat netcongestie betekent voor jou:**
+- Je netbeheerder kan de aanvraag voor een zwaardere aansluiting (3×25A → 3×35A) weigeren of maanden laten wachten
+- Je mag wel een laadpaal plaatsen op je bestaande aansluiting, maar dan beperkt tot het beschikbare vermogen
+- Een slim load management systeem (bijv. Easee met ingebouwde belastingsturing) is dan verplicht — dit voorkomt dat je groep eruit vliegt
+
+**Praktische oplossing bij bestaande 1×25A aansluiting:**
+Een laadpaal op 1×25A kan maximaal 3,7 kW leveren (1-fase). Dat is 18,5 km bereik per uur laden. Voor een gemiddelde rijder (45 km/dag) is 2,5 uur laden 's nachts voldoende. Je hoeft geen 3-fase aansluiting te betalen als je geen grote dagelijkse afstanden rijdt.
+
+**Wachtlijst netbeheerder:**
+Als je regio op een wachtlijst staat: meld je aan bij de netbeheerder (Liander, Enexis, Stedin) voor een capaciteitscheck. Doorlooptijd varieert van 2 weken tot 12 maanden in congestiegebieden. Begin dit proces ruim vóór je autoleasetermijn afloopt.
+
+---
+
+## Mijn jaarberekening: wat heeft de laadpaal me opgeleverd?
+
+Ik heb mijn Easee Home laadpaal nu 14 maanden. De kosten en opbrengsten zijn nauwkeurig bijgehouden via de Easee-app en mijn dynamische contract bij Tibber.
+
+**Mijn situatie:**
+- Auto: Volkswagen ID.4 (77 kWh netto batterij)
+- Jaarkilometrage: 22.000 km
+- Verbruik auto: 16,5 kWh/100 km
+- Totaal geladen thuis: 2.970 kWh
+- Totaal geladen onderweg: 650 kWh
+
+**Kosten:**
+- Thuis laden (2.970 kWh × €0,185 gemiddeld Tibber-tarief): €549
+- Onderweg laden (650 kWh × €0,58 gemiddeld Fastned): €377
+- Totaal elektriciteitskosten: €926
+
+**Vergelijking benzine:**
+22.000 km in een middenklasse benzineauto (1:12 benzine): 1.833 liter × €1,96 = **€3.593**
+
+**Besparing: €2.667 per jaar.** De laadpaal kostte me €1.650 inclusief installatie. Terugverdientijd: **7 maanden**. Daarna is elke km goedkoper dan benzine.
+
+Extra: door slim te laden op Tibber (vermijden van piekmomenten 17:00-19:00) lag mijn gemiddelde laadtarief 22% lager dan het gemiddelde dag-tarief. Dat scheelde nog eens €120 per jaar extra.
+
+---
+
 ## Lees ook
 
 - **[Dynamische Energiecontracten 2026](/posts/dynamische-energiecontracten-vergelijking-2026/)** — Goedkoper laden

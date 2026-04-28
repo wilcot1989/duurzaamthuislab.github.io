@@ -9,7 +9,7 @@ keywords: ["isolatie subsidie 2026", "ISDE subsidie isolatie", "subsidie spouwmu
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1565008576549-57569a49371d?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://plus.unsplash.com/premium_photo-1661368402338-189156f43012?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Welke isolatiesubsidies zijn er in 2026?"
     a: "De belangrijkste subsidie is de ISDE (Investeringssubsidie Duurzame Energie): €900-€3.800 per isolatiemaatregel afhankelijk van oppervlakte en Rc-waarde. Daarnaast zijn er gemeentelijke subsidies (€500-€2.500), de Energiebespaarlening (2,6% rente), en soms provinciale regelingen. Je kunt meerdere subsidies combineren."
@@ -414,6 +414,44 @@ Voor ISDE-subsidie moet de installateur bij RVO geregistreerd zijn. Maar hoe vin
 Als één van deze vijf punten ontbreekt in de offerte, is dat een rode vlag. Vraag de installateur om de offerte aan te vullen of kies een andere partij.
 
 **Referentiecheck:** Vraag altijd naar 2-3 recente klanten die je kunt bellen. Een goede installateur heeft dit direct paraat. Een installateur die dit niet kan of wil geven: skip.
+
+---
+
+## Subsidie voor huurders: beperkt maar niet nul
+
+Huurders worden vaak vergeten in de isolatiediscussie — en dat klopt, want de meeste subsidies zijn voor eigenaar-bewoners. Toch zijn er mogelijkheden.
+
+**Wat huurders wél kunnen:**
+- Kleine maatregelen eigen rekening: tochtstrips, radiatorfolie, gordijnen kosten €100-€300 en leveren €50-€150 per jaar op
+- Energiebespaarlening via Nationaal Warmtefonds: in 2026 beschikbaar voor huurders van particuliere verhuurders voor maatregelen die ze zelf mogen aanbrengen
+- Gemeentelijke huurdersbijdragen: steden als Utrecht, Amsterdam en Rotterdam hebben aparte potjes voor huurders die kleine verduurzamingsmaatregelen nemen
+
+**Wat verhuurders verplicht zijn:**
+Verhuurders zijn wettelijk verplicht om huurwoningen voor 2030 te verbeteren naar minimaal energielabel C. Als jouw verhuurder niets doet, kun je bij de Huurcommissie een lagere huur afdwingen. Dat is een krachtig instrument dat weinig huurders kennen — en dat weinig verhuurders je spontaan vertellen.
+
+---
+
+## Combinatiebonus ISDE: hier laat je geld liggen
+
+De meest gemiste kans bij ISDE-aanvragen is de combinatiebonus. ISDE-bedragen zijn per maatregel vast, maar de praktische besparing zit in het samenvoegen van klussen.
+
+**Voorbeeld: dakisolatie + vloerisolatie tegelijk**
+
+Bij gelijktijdige uitvoering bespaar je op mobilisatiekosten van de aannemer. Een steiger kostt €500-€800 per keer dat hij opgebouwd wordt. Als dakisolatie en gevelwerk tegelijk plaatsvinden, hoef je de steiger maar één keer te betalen. Voor een gemiddelde woning scheelt dat €500-€1.200 op de totaalrekening.
+
+**Concrete situatie:**
+- Dakisolatie: €5.200 kosten, €1.800 ISDE
+- Spouwmuurisolatie: €2.800 kosten, €600 ISDE
+- Totaal apart: €8.000 kosten, €2.400 ISDE
+- Totaal gecombineerd: €6.800 kosten (€1.200 bespaard op installatie), €2.400 ISDE
+- Nettokosten gecombineerd: €4.400 vs €5.600 apart
+
+Dat is bijna €1.200 extra voordeel, alleen door slim plannen. Mijn advies: laat nooit een maatregel uitvoeren als je weet dat je binnen 2 jaar een aangrenzende maatregel wil nemen.
+
+**Volgorde van aanvragen bij combinaties:**
+Je kunt meerdere maatregelen in één ISDE-aanvraag indienen, zolang ze op dezelfde factuur of tegelijk zijn gerealiseerd. Dit vereenvoudigt de administratie en verkleint de kans op fouten. Laat je installateur één gecombineerde factuur uitschrijven in plaats van losse facturen per maatregel — dat maakt de aanvraag stukken overzichtelijker voor de RVO-behandelaar.
+
+Ook de gemeentelijke subsidie en de ISDE kunnen naast elkaar worden aangevraagd voor dezelfde maatregel. Ze zijn cumuleerbaar, tenzij de gemeentesubsidie dit expliciet uitsluit in de voorwaarden. Controleer dit altijd vóór aanvraag via de gemeentewebsite of Energiesubsidiewijzer.nl.
 
 ---
 

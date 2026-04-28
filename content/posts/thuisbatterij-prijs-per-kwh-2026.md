@@ -9,7 +9,7 @@ keywords: ["thuisbatterij prijs per kwh", "thuisbatterij prijs 2026", "prijsontw
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat is de gemiddelde prijs per kWh in 2026?"
     a: "Voor LFP-thuisbatterijen ligt de prijs in 2026 tussen €326/kWh (Marstek, prijs-leider) en €704/kWh (Tesla Powerwall 3, premium). Gemiddeld zit je rond €500-€600/kWh inclusief installatie. Vorig jaar (2025) was dat ~€670/kWh — daling van 12-15% per jaar is normaal."

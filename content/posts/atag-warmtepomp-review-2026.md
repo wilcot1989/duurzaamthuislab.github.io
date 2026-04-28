@@ -9,7 +9,7 @@ keywords: ["ATAG warmtepomp review", "ATAG ENERGION review", "ATAG warmtepomp er
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat kost een ATAG ENERGION warmtepomp in 2026?"
     a: "Een ATAG ENERGION hybride warmtepomp kost circa €6.500 tot €9.500 inclusief 0% btw. De all-electric variant ligt aan de bovenkant. Inclusief ISDE-subsidie (€2.500 tot €4.000 afhankelijk van het model en vermogen) kom je netto op €4.000 tot €6.500. Montagekosten variëren per installateur: reken op €800 tot €1.500 extra."

@@ -9,7 +9,7 @@ keywords: ["Bosch Compress warmtepomp review", "Bosch Compress 5800 review", "Bo
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat kost een Bosch Compress warmtepomp in 2026?"
     a: "De Bosch Compress 5800 kost circa €7.500 tot €9.500 inclusief 0% btw, exclusief montage. De Compress 7800i ligt op €9.000 tot €11.000. Montagkosten bedragen doorgaans €1.000 tot €1.800. Inclusief ISDE-subsidie (€2.500 tot €4.000 afhankelijk van model en vermogen) betaal je netto €6.000 tot €9.500 all-in."

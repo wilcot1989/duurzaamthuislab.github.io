@@ -9,7 +9,7 @@ keywords: ["ISDE subsidie", "subsidie warmtepomp 2026", "ISDE aanvragen", "warmt
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Hoeveel ISDE subsidie krijg ik voor een warmtepomp?"
     a: "De ISDE subsidie voor een warmtepomp varieert van €3.000 tot €5.800 afhankelijk van het type. Een hybride warmtepomp levert circa €3.000 op, een lucht-water warmtepomp €3.000-€3.500, en een bodem-water warmtepomp €4.500-€5.800. Het exacte bedrag hangt af van het vermogen en de SCOP-waarde."

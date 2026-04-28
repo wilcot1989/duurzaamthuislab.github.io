@@ -9,7 +9,7 @@ keywords: ["energielabel verbeteren", "energielabel huis", "van G naar A", "ener
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1565008576549-57569a49371d?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://plus.unsplash.com/premium_photo-1661368402338-189156f43012?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat kost het om je energielabel te verbeteren?"
     a: "De kosten hangen af van je huidige label en je doellabel. Van G naar C kost gemiddeld €8.000-€15.000 (isolatie dakkapel + vloer + glas). Van C naar A kost nog eens €10.000-€20.000 (warmtepomp + zonnepanelen). Met subsidies kun je 30-50% terugkrijgen."
@@ -380,6 +380,39 @@ Ik zie te veel mensen die alles tegelijk willen doen — of die juist jarenlang 
 - Jaar 2: Hybride of full-electric warmtepomp
 - Jaar 3: Thuisbatterij (maximaliseert eigenverbruik zonnestroom)
 - Jaar 4+: Triple glas of HR+++ glas als er nog enkel glas aanwezig is
+
+---
+
+## Energielabel en je hypotheek: meer dan je denkt
+
+Een energielabel is niet alleen een document voor bij verkoop. In 2026 heeft het direct invloed op je financieringsmogelijkheden.
+
+**Energiehypotheek (groene hypotheek):**
+Bij label A of hoger kun je bij veel banken (Rabobank, ABN AMRO, ING, Triodos) een rentekorting krijgen van 0,10-0,20% op je hypotheekrente. Op een hypotheek van €350.000 is dat €350-€700 per jaar minder rente. Over 10 jaar: €3.500-€7.000 besparing.
+
+**Extra hypotheekruimte voor verduurzaming:**
+Bij aankoop van een woning met energielabel A of hoger mag je in 2026 tot €20.000 extra lenen boven het normale inkomen-hypotheekplafond (art. 6 NIBUD-normen). Dit is bedoeld om de hogere aankoopprijs van al-duurzame woningen te financieren.
+
+**Energiebespaarhypotheek:**
+Als je label verbetert na aankoop, kun je een energiebespaarhypotheek afsluiten (tot €25.000 extra, rentekorting t.o.v. reguliere hypotheek). Kosten van isolatie, warmtepomp en zonnepanelen worden gefinancierd tegen gunstige rente, terugbetaald via de energiebesparing.
+
+**Belastingaftrek:**
+Verbeteringskosten aan je eigen woning zijn niet aftrekbaar in box 1. Maar de waardestijging van je woning als gevolg van het betere label leidt tot een hogere WOZ-waarde — wat ook relevant is voor de vermogensbelasting (box 3). Vraag een belastingadviseur naar de optimale timing als je grote investeringen plant.
+
+---
+
+## Controleer je huidige label: veelgemaakte fout
+
+Veel mensen weten niet wat hun officiële energielabel is — of ze denken dat het klopt, maar het is al verlopen. Energielabels die vóór 2015 zijn afgegeven, zijn in 2025 verlopen.
+
+**Je energielabel opzoeken:**
+Ga naar ep-online.nl en voer je adres in. Je ziet het label, de afgifte­datum en de geldigheid. Een label is 10 jaar geldig (afgegeven na 2015).
+
+**Wat als mijn label verlopen is?**
+Je hebt dan officieel geen geldig energielabel. Bij verkoop ben je verplicht een nieuw label aan te vragen (kosten: €250-€400 via een gecertificeerde adviseur). Als je een energielabel-gerelateerde subsidie of hypotheekkorting wil aanvragen, heb je ook een geldig label nodig.
+
+**Verschil indicatief vs. definitief label:**
+Een indicatief label (automatisch gegenereerd op basis van bouwjaar en woningtype) is gratis maar niet geldig voor hypotheekaanvragen of subsidies. Alleen een definitief label, afgegeven door een gecertificeerde EPA-adviseur na inspectie, is rechtsgeldig.
 
 ---
 

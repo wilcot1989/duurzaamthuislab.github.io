@@ -9,7 +9,7 @@ keywords: ["sessy review", "sessy thuisbatterij", "sessy 5 kwh", "sessy 10 kwh",
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat is Sessy?"
     a: "Sessy is een thuisbatterij van het Nederlandse bedrijf Charged. Het is een AC-gekoppelde batterij in 5 kWh en 10 kWh varianten, die zelfstandig handelt op de dynamische energiemarkt om geld voor je te verdienen."

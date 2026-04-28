@@ -9,7 +9,7 @@ keywords: ["spouwmuur isolatie kosten 2026", "spouwmuurisolatie prijs per m2", "
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1565008576549-57569a49371d?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://plus.unsplash.com/premium_photo-1661368402338-189156f43012?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Wat kost spouwmuurisolatie gemiddeld in 2026?"
     a: "Voor een doorzon-tussenwoning met circa 80 m² spouwmuur betaal je €1.600-€2.400, inclusief 0% BTW en inkl. ISDE-subsidie. Zonder subsidie: €2.000-€3.200. Prijs hangt af van materiaal (EPS-parels, glasvlokken of PUR) en bereikbaarheid van de spouwmuur."
