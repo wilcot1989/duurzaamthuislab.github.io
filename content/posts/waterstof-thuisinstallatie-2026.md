@@ -313,4 +313,92 @@ Ik houd waterstof thuis nauwlettend in de gaten. Maar ik raad het niemand in mij
 
 Waterstof thuis is een echte technologie, geen verzonnen verhaal. Maar "reëel in de toekomst" is iets anders dan "nu zinvol". In 2026 is dat onderscheid cruciaal voor je portemonnee.
 
+---
+
+## Waterstof in het energiesysteem van 2030-2040: een bredere context
+
+Om waterstof thuis te begrijpen, helpt het om het in de grotere systeemcontext te plaatsen. Waterstof speelt een rol in het energiesysteem, maar die rol is niet noodzakelijkerwijs in elke woning.
+
+### De rol van waterstof op netniveau
+
+De meest realistische toepassing van waterstof op korte termijn is **seizoensopslag op netniveau**. In de zomer produceren wind- en zonneparken pieken die het net niet volledig kan verwerken. Die overtollige stroom kan omgezet worden in waterstof — niet in individuele woningen, maar in grote installaties nabij de energiebron of nabij industrieclusters.
+
+Nederland investeert hier al in: de Porthos-pijpleiding (CO2-opslag onder Noordzee), waterstofpijpleiding-plannen van Gasunie, en industrie-clusters in Rotterdam en Zeeland die waterstof als grondstof en energiedrager inzetten.
+
+Dit is de waterstofeconomie die in 2030-2040 kan bloeien — en die weinig te maken heeft met een elektrolyseur in uw garage.
+
+### Groene versus grijze versus blauwe waterstof
+
+Niet alle waterstof is groen. De classificatie:
+
+| Type | Productiemethode | CO2-uitstoot | Status |
+|---|---|---|---|
+| Grijs | Steamreforming van aardgas | Hoog | Dominant huidig (95% mondiale productie) |
+| Blauw | Steamreforming + CCS (CO2-opslag) | Laag | In opkomst, duur |
+| Groen | Elektrolyse met hernieuwbare stroom | Nul | Groeiend, duur |
+| Roze | Elektrolyse met nucleaire stroom | Laag | Discussieus |
+| Turkoois | Methaan-pyrolyse | Laag | Vroege fase |
+
+Als je thuis waterstof opslaat via een elektrolyseur aangedreven door zonnepanelen, maak je **groene waterstof**. Dat is de meest duurzame vorm. Maar de systemen zijn duurder en minder efficiënt dan directe opslag in een thuisbatterij.
+
+---
+
+## Europees beleid en waterstof: waar staan we?
+
+De EU heeft waterstof aangemerkt als cruciale technologie in de Green Deal. De REPowerEU-plannen gaan uit van:
+
+- 10 miljoen ton inheemse groene waterstofproductie in de EU in 2030
+- 10 miljoen ton groene waterstofimport in 2030
+- Waterstofinfrastructuur (pijpleidingen, opslag) van nationale netwerken
+
+Nederland heeft een Nationaal Waterstofprogramma met specifieke clusters (Rotterdam-Moerdijk, Zeeland, Groningen-Delfzijl) als prioriteitsgebieden. De focus is industrieel, niet residentieel.
+
+**Wat dit betekent voor particulieren:** De Europese beleidsinzet versterkt de keten voor industrieel waterstof. Dit maakt groene waterstof op termijn goedkoper en beschikbaarder. Maar de transitie naar particuliere thuissystemen volgt pas nadat de industriële basis gelegd is.
+
+---
+
+## Energieopslag thuis: de keuze in 2026 en de keuze in 2032
+
+Ik stel graag twee tijdframes naast elkaar:
+
+### Nu (2026)
+
+**Beste keuze voor energieopslag thuis:** LiFePO4 thuisbatterij (Sessy, Marstek, BYD, Pylontech)
+**Reden:** Aantoonbaar rendabel, breed beschikbaar, veilig, gesubsidieerd, terugverdientijd 6-12 jaar
+
+**Waterstof:** Alleen voor pioniers met groot budget (>€40K), technische interesse en bewust risicoacceptatie
+
+### 2030-2032
+
+**Waarschijnlijk beschikbaar:** Natrium-ion thuisbatterijen (goedkoper dan LiFePO4), mogelijke eerste solid-state pilots in premium segment, Europese waterstofinfrastructuur die langzaam residentieel indruppelt
+
+**Waterstof thuis (scenario):** Als een Europees waterstofnet wordt aangelegd en de prijs van elektrolyseurs daalt naar <€5.000 voor een 5 kWh-equivalent systeem, wordt seizoensopslag via waterstof voor woningen met >20 kWp zonnepanelen financieel interessant
+
+### 2035-2040
+
+**Plausibel:** Waterstof-ready nieuwbouwwoningen als standaard, residentieel waterstofabonnement via netbeheerder, integratie met power-to-X toepassingen
+
+---
+
+## Praktische stappen als je geïnteresseerd bent
+
+Voor wie de ontwikkelingen wil volgen zonder onnodige investeringen:
+
+**Stap 1: Volg twee organisaties**
+- **Waterstof Nederland** (waterstofned.nl) — de industrie-koepel, publiceert marktontwikkelingen
+- **FC4E - Fuel Cells and Hydrogen Joint Undertaking** (EU-niveau) — onderzoek en marktoverzicht
+
+**Stap 2: Check de warmteplannen van je gemeente**
+Gemeenten die waterstof-ready bouwen (Stad aan 't Haringvliet, pilot Rotterdam-IJsselmonde) kunnen vroeger toegang bieden tot waterstof-infrastructuur dan gemeenten zonder plan.
+
+**Stap 3: Bij nieuwbouw: vraag naar waterstof-ready**
+De meerkosten voor waterstof-ready leidingwerk (extra gasleidingdiameter, drukvat-niche in meterkast) zijn bij nieuwbouw beperkt — minder dan €2.000. Dit is een zinvolle optie als je denkt 20+ jaar in de woning te blijven.
+
+**Stap 4: Koop nu geen waterstof-gerelateerde producten**
+Geen elektrolyseurs, geen "waterstofboilers" (die in 2026 in Nederland geen waterstof hebben om op te draaien), geen waterstof-investeringsfondsen op basis van technologiehype.
+
+De eenvoudigste handeling die je nu kunt doen: installeer een bewezen thuisbatterij en optimaliseer je zonnepaneel-gebruik. Dat is het solide fundament voor welke energiestap ook in de toekomst.
+
+---
+
 <a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk de Sessy thuisbatterij — de slimme keuze voor 2026</a>

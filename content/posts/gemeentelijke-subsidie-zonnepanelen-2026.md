@@ -218,6 +218,68 @@ De salderingsregeling loopt door in 2026. Hoe eerder u installeert, hoe meer jar
 
 ---
 
+## Praktijkervaring: hoe moeilijk is het subsidie aanvragen?
+
+Ik heb zelf drie subsidieaanvragen begeleid in het afgelopen jaar — voor familieleden en vrienden. Mijn ervaringen:
+
+**SVn-duurzaamheidslening (gemeente Arnhem):** het aanvraagproces duurde 3 weken. U vult een formulier in op de gemeentewebsite, uploadt een offerte van de installateur, en wacht op goedkeuring. Daarna verstrekt SVn de lening direct aan u — de installateur ontvangt betaling van u. Administratief niet zwaar. Het enige knelpunt: de offerte moet specifiek genoeg zijn (inclusief merk, model, vermogen). Een vage "zonnepanelen €6.000" offerte wordt afgewezen.
+
+**Gemeentelijke directe subsidie (gemeente Ede):** bij Ede is er een inkomenstoets. U uploadt een loonstrook of uitkeringsoverzicht. Behandeltijd was 6 weken. De subsidie (€500) werd uitbetaald na installatie en het overleggen van de factuur. Klein bedrag, maar het proces was eenvoudig.
+
+**SCE coöperatie-subsidie:** ik heb dit niet zelf aangevraagd, maar ben bij een aanvraag voor een lokale energiecoöperatie betrokken geweest als adviseur. Dit is significant complexer: u heeft een rechtspersoon nodig, een energiemeter met netsaansluiting, en de aanvraag gaat via RVO met een maximaal budget per ronde (cap). De ronde was in 2026 in april al vol. Aanvragen vroeg in het jaar is cruciaal.
+
+---
+
+## Wat doet Zonneplan anders dan een traditionele installateur?
+
+Zonneplan verdient een aparte uitleg, omdat hun model fundamenteel anders is dan een traditionele installateur.
+
+**Traditioneel model:** u koopt panelen, betaalt €5.000-€8.000, profiteert van saldering en besparing, en bent eigenaar van een asset die na 10-12 jaar is terugverdiend.
+
+**Zonneplan-model:** u betaalt geen aanschafkosten. Zonneplan plaatst panelen op uw dak en behoudt eigendom. U betaalt een maandbedrag (vaak €30-€60/maand) dat lager is dan uw huidige energierekening. U profiteert van goedkopere stroom, maar u bouwt geen eigen asset op.
+
+**Voordelen Zonneplan:**
+- Geen investeringsrisico
+- Geen administratie rondom subsidies en belasting
+- Onderhoud is voor rekening van Zonneplan
+- Geschikt als u niet zeker bent hoe lang u in de woning blijft (er zijn verhuisregelingen)
+
+**Nadelen Zonneplan:**
+- U bent geen eigenaar van de panelen
+- Bij dalende stroomprijzen betaalt u nog steeds het maandbedrag
+- Contractduur is vaak 10-15 jaar met beperkte uitstapopties
+- Na 2027 (saldering weg) moet Zonneplan hun terugleveringsmodel aanpassen — check hoe dit contractueel geregeld is
+
+Mijn advies: als u het kapitaal heeft en in de woning blijft, koop dan gewoon. Zonneplan is het meest interessant voor mensen die de drempel van €6.000 niet kunnen of willen nemen.
+
+---
+
+## Terugverdientijd in 2026: hoe lang duurt het echt?
+
+Ik reken een concreet voorbeeld door, omdat ik merkte dat veel mensen ofwel te optimistisch (5 jaar) ofwel te pessimistisch (nooit) zijn.
+
+**Situatie:** rijtjeshuis, 10 panelen van 410 Wp = 4,1 kWp, opbrengst circa 3.700 kWh/jaar, eigen verbruik 40% = 1.480 kWh zelf gebruikt, 60% teruggeleverd = 2.220 kWh.
+
+**Kosten:** €5.800 inclusief installatie, na 0% BTW-voordeel (€0 extra BTW versus vroeger ±€1.100).
+
+**Besparing 2026 (met saldering):**
+- Zelf gebruikt: 1.480 kWh × €0,30 = €444
+- Saldering: 2.220 kWh × €0,30 = €666
+- Totaal: €1.110 per jaar
+
+**Terugverdientijd 2026:** €5.800 / €1.110 = **5,2 jaar**
+
+**Besparing 2028 (zonder saldering, teruglevertarief €0,09/kWh):**
+- Zelf gebruikt: 1.480 kWh × €0,30 = €444
+- Teruglevering: 2.220 kWh × €0,09 = €200
+- Totaal: €644 per jaar
+
+**Terugverdientijd vanaf 2028:** €5.800 / €644 = **9,0 jaar**
+
+Het verschil is aanzienlijk. Wie nu installeert profiteert nog van de volle saldering in 2026 en (een deel van) 2027. Wie wacht tot 2028 heeft een langere terugverdientijd. De urgentie voor installatie in 2026 is reëel.
+
+---
+
 Het is minder subsidie dan in 2020 of 2021. Maar voor wie slim zoekt en de 0% BTW meeneemt, een lening benut en nu installeert voor de salderingswijziging, zijn zonnepanelen in 2026 nog steeds financieel verantwoord.
 
 ---

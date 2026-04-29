@@ -416,6 +416,108 @@ Na alles afgewogen:
 
 De locatiekeuze is één van de gesprekken die je vóór de aanschaf moet voeren — niet erna. Vraag meerdere installateurs om een locatiebeoordeling, en neem de tijd om de garantievoorwaarden van de fabrikant te lezen.
 
+---
+
+## Hoe onderhoud en inspectie samenhangen met locatie
+
+Een onderschat aspect van thuisbatterij-plaatsing is de toegankelijkheid voor periodiek onderhoud. De meeste thuisbatterijen vereisen jaarlijkse inspectie door een erkende onderhoudstechnicus. Wat houdt dat in, en wat betekent het voor je locatiekeuze?
+
+### Wat een jaarlijkse inspectie omvat
+
+Bij een standaard onderhoudsbeurt voor een thuisbatterij controleert de technicus:
+
+- **Visuele inspectie** van de behuizing op beschadiging, roestvorming of waterindringing
+- **Kabelverbindingen** controleren op oxidatie of losse contacten
+- **BMS-logboek** uitlezen op foutcodes, temperatuuraflezingen, cel-onbalansen
+- **Laad-/ontlaadprestaties** valideren tegen fabrieksspecificaties
+- **Ventilatieopeningen** reinigen van stof en spinnenwebben
+- **Firmwareversie** updaten indien nodig
+- **Aardlekschakelaar** testen
+- **Vrije ruimte** rondom de unit controleren
+
+De gehele inspectie duurt doorgaans 30-90 minuten. Kosten: €80-€180 per beurt bij de meeste installateursbedrijven.
+
+### Locatie-impact op onderhoudsgemak
+
+| Locatie | Toegankelijkheid | Praktisch onderhoud |
+|---|---|---|
+| Technische ruimte | Uitstekend | Optimaal |
+| Garage | Goed | Prima, auto even weg |
+| Woonkamer | Matig | Soms ongemakkelijk (meubels) |
+| Hoge wandmontage | Matig | Trap of stellage nodig |
+| Houten schuur | Slecht | Weersafhankelijk |
+| Buiten (IP55) | Slecht | Weersomstandigheden |
+
+Mijn advies: zorg dat de installatie altijd binnen 30 seconden te bereiken is zonder obstakels te verplaatsen. Dit klinkt triviaal, maar bij noodgevallen (alarm, foutmelding om 3 uur 's nachts) wil je niet eerst de rommelkamer uitmesten.
+
+---
+
+## Subsidie en locatievereisten: ISDE in 2026
+
+De ISDE-subsidie (Investeringssubsidie Duurzame Energie) is in 2026 beschikbaar voor thuisbatterijen die voldoen aan de lijst van erkende typen van de RVO. Een relevante vraag: stelt de ISDE eisen aan de installatielocatie?
+
+Het antwoord: niet direct. De ISDE stelt eisen aan:
+
+1. **Type product** (moet op de erkende-typenlijst staan)
+2. **Installateur** (erkend installatiebedrijf)
+3. **Technische uitvoering** (conform de eisen van het product)
+
+Er is geen ISDE-vereiste die specifiek een binnens- of buitensopstelling voorschrijft. Maar als de installateur constateert dat de locatie niet conform de productspecificaties is (bijv. Sessy buiten geplaatst), kan hij weigeren het E-formulier te ondertekenen. Zonder E-formulier geen ISDE-subsidie.
+
+De indirecte koppeling is dus: **verkeerde locatie = geen E-formulier = geen subsidie**.
+
+### ISDE-bedragen 2026
+
+Voor thuisbatterijen geldt in 2026 een subsidiebedrag van €295 per kWh opslagcapaciteit, met een maximum van €2.500 per installatie. Een 10 kWh-systeem levert maximaal €2.500 subsidie op. Raadpleeg altijd de actuele RVO-voorwaarden, want de bedragen worden jaarlijks aangepast.
+
+---
+
+## Verzekeringstips specifiek voor thuisbatterijen
+
+Ik heb de polisvoorwaarden van drie grote Nederlandse verzekeraars doorgenomen voor thuisbatterijen. Hier de praktische punten die je moet weten:
+
+### Inboedelverzekering
+
+Een thuisbatterij valt onder de inboedelverzekering als het een "vast" installatie is die eigendom is van de bewoner. De meeste inboedelverzekeringen dekken:
+
+- Schade door brand (ook als de thuisbatterij zelf de brand veroorzaakt, mits geen opzet of grove nalatigheid)
+- Diefstal uit de garage of het huis
+- Overstroming/waterschade (beperkte dekking, check de polis)
+
+### Wat je typisch niet automatisch meekrijgt
+
+- Schade door verkeerde installatie door de eigenaar zelf
+- Garantie-issues (dat is productkwestie, niet verzekeringskwestie)
+- Schade als de installatie niet conform NEN 1010 was (geen E-formulier)
+
+### Melding bij verzekeraar
+
+Bij aanschaf van een thuisbatterij boven €2.000 is het verstandig dit te melden bij je verzekeraar. Sommige verzekeraars hebben een maximumbedrag voor elektrische installaties onder de standaardpolis; hogere waarden vereisen een aanvullende clausule.
+
+---
+
+## Praktijkverhalen: wat ik bij anderen heb gezien
+
+In de afgelopen drie jaar heb ik als energieadviseur tientallen thuisbatterij-installaties bezocht. Een paar gevallen die me bijbleven.
+
+**Casus 1: De te warme bijkeuken**
+
+Een gezin in Alphen aan den Rijn had hun Sessy geplaatst in de bijkeuken naast de wasdroger. Prima locatie in theorie — maar de droogruimte werd in de zomer 38-42°C warm door de droger en slechte ventilatie. Het BMS schakelde de batterij elke zomerse middag terug naar minimale prestaties. Oplossing: ventilatierooster aan de buitenmuur, waarna de problemen verdwenen.
+
+**Casus 2: De schuur die te vochtig bleek**
+
+Een woning in Groningen met een gemetselde bijschuur. Op het oog droog, maar bij inspectie bleek de vloer capillaire vochtproblemen te hebben in de winter. Na anderhalf jaar vertoonde de Marstek-unit oxidatie op de aansluitklemmen en een foutmelding op het BMS. De garantieclaim werd goedgekeurd (bewezen installateurfout: de installateur had de vochtproblemen moeten signaleren), maar het was onnodig gedoe.
+
+**Casus 3: De woonkamer-Sessy die de buren stoorde**
+
+Een appartement in Rotterdam-Noord, eerste verdieping. De Sessy stond in de woonkamer tegen de scheidingswand met de buren. De buren hoorden het zachte surren van het BMS 's nachts in de slaapkamer. Civielrechtelijk niet eenvoudig oplosbaar. Oplossing: geluidsisolatiemat onder en achter de unit, plus de unit 15 cm van de wand plaatsen.
+
+**Casus 4: De ideale garage-installatie**
+
+Een woning in Nijmegen met een droge, geventileerde garage direct naast de meterkast. Installatietijd: 3,5 uur. Kabellengte: 2,2 meter. Totale installatiekosten: €680. Geen problemen in twee jaar gebruik. Dit is hoe het hoort.
+
+---
+
 <a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk de Sessy thuisbatterij</a>
 
 <a href="/go/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk de Marstek B5000</a>

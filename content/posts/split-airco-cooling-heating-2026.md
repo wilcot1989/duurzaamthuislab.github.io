@@ -209,6 +209,65 @@ Voor twee slaapkamers + woonkamer is een multi-split met 3 binnenunits een serie
 
 ---
 
+## Energielabel en stoken: hoe past een split-airco in uw totaalplaatje?
+
+Een split-airco staat zelden op zichzelf. In de meeste Nederlandse woningen is er al een cv-ketel, al dan niet gecombineerd met zonnepanelen of een gedeeltelijk geïsoleerde schil. De split-airco voegt een laag toe aan dat systeem — het vervangt het niet.
+
+### Hoe u gas reduceert zonder de cv-ketel meteen weg te gooien
+
+De strategie die ik het meest zie werken: gebruik de split-airco voor ruimteverwarming op milder weer (herfst en lente), en laat de cv-ketel inspringen bij koude perioden. Dit werkt bijzonder goed in combinatie met een slimme thermostaat die beide systemen kan aansturen.
+
+Praktisch voorbeeld: van oktober tot december (buitentemperatuur 5-15°C) draait de airco op verwarmen. De COP is dan 3,5 tot 5,0. De cv-ketel staat op een laag setpoint en springt alleen bij als het buiten echt koud wordt. In januari en februari (0 tot -5°C) neemt de ketel het merendeel van de last over.
+
+Resultaat bij een goed geïsoleerde tussenwoning: gasreductie van 30-45% per jaar, zonder de zekerheid van de ketel op te geven.
+
+### Zonnepanelen en split-airco: een goede combinatie
+
+Als u zonnepanelen heeft, is een split-airco nog interessanter. Overdag, wanneer de zon de meeste stroom produceert, kunt u de airco laten voorverwarmen (in de winter) of voorkoelen (in de zomer). Stroom die anders teruggeleverd zou worden — na 2027 tegen een lage terugleververgoeding — wordt nu direct omgezet in warmte of koude.
+
+Slimme airco-apps (Daikin Onecta, Mitsubishi MELCloud) ondersteunen tijdinstellingen. U stelt in dat de airco draait van 10:00 tot 16:00 — precies wanneer uw zonnepanelen productief zijn. U benut uw eigen opwek en betaalt minder voor comfort.
+
+---
+
+## Onderhoud in de praktijk: wat kost het en hoe doe je het?
+
+### Jaarlijks zelf doen
+
+De filters in de binnenunit vangen stof op. Bij slechte filters daalt de efficiëntie en neemt de bacteriegroei toe. Reinig de filters elke 4 tot 8 weken als u de unit intensief gebruikt.
+
+**Procedure:**
+1. Zet de unit uit
+2. Open het frontpaneel van de binnenunit
+3. Schuif de filters eruit
+4. Stofzuig of spoel ze af onder lauw water
+5. Laat drogen voor terugplaatsen
+6. Sluit het paneel
+
+Tijdsinvestering: 10 minuten. Kosten: nihil.
+
+Reinig ook jaarlijks de buitenunit: verwijder bladeren, vuil en pluizen die de luchtinlaat blokkeren. Gebruik een zachte borstel of hogedrukspuit (voorzichtig, niet direct op de lamellen).
+
+### Professionele servicebeurt
+
+Elke 2 tot 3 jaar een professionele controle: koudemiddeldruk meten, compressor checken, elektrische aansluitingen controleren, condensdrain reinigen. Kosten: €80 tot €150.
+
+Als de koudemiddeldruk te laag is, is er mogelijk een lekkage. Dit moet een gecertificeerde monteur herstellen. Dit is zelden nodig bij kwalitatieve installaties, maar het is wel de meest voorkomende technische storing bij split-airco's na 8-10 jaar.
+
+---
+
+## Wat te doen bij twijfel: vraag 3 offertes
+
+De prijs van dezelfde split-airco varieert aanzienlijk per installateur. Voor een Daikin Perfera 3,5 kW heb ik in mijn regio drie offertes gevraagd:
+- Installateur A: €2.950 inclusief installatie
+- Installateur B: €2.400 inclusief installatie
+- Installateur C: €3.200 inclusief installatie
+
+Het verschil: €800. Hetzelfde product, zelfde kwaliteitsstandaard, zelfde garantie. Het prijsverschil zat in de arbeidskosten en de overhead van de bedrijven.
+
+Vraag altijd drie offertes. Selecteer niet alleen op prijs: bekijk ook de garantievoorwaarden, het service-netwerk van de installateur en de tijd tot plaatsing.
+
+---
+
 ## Mijn conclusie: budget-warmtepomp, ja of nee?
 
 Een split-airco is een budget-warmtepomp **als u de beperkingen accepteert**.
@@ -220,6 +279,43 @@ Maar het is wél de meest betaalbare manier om één of twee ruimtes efficiënt 
 Als ik opnieuw moest beginnen — voor mijn eigen verduurzaming stap voor stap — zou ik beginnen met een split-airco in de woonkamer en pas daarna kijken naar een volledige warmtepomp. De split-airco leert u hoe een warmtepomp werkt, wat uw comfort-eisen zijn, en biedt direct rendement.
 
 Bij Daikin vind ik persoonlijk de beste combinatie van kwaliteit, garantie en service-netwerk. Vraag een offerte aan bij een erkende Daikin-dealer in uw regio.
+
+---
+
+## Veelgestelde vragen uit de praktijk
+
+In mijn werk krijg ik regelmatig aanvullende vragen die ik hier kort behandel.
+
+**Mijn airco maakt een gorgelend geluid als hij opstart — normaal?**
+Ja, dat is het ontdooien van de buitenunit. Als de buitentemperatuur dicht bij het vriespunt is, vormt er ijs op de verdamper. De unit ontdooit automatisch door de stroom om te keren. Daarbij klinkt een gorgelend geluid — dat is normaal en duurt 2 tot 10 minuten.
+
+**Kan ik de airco op de slaapkamer gebruiken voor nachtkoeling in de zomer?**
+Ja. Stel hem in op een aangename nachttemperatuur (22-24°C) en gebruik de "stille modus" (lagere ventilatorsnelheid). Moderne split-airco's van Daikin en Mitsubishi hebben een nachtmodus die het geluid terugbrengt tot 19-22 dB(A) — nauwelijks hoorbaar.
+
+**Moet ik de airco uitzetten als ik een week op vakantie ben?**
+Nee, maar zet hem op een standby-setpoint (20°C in de winter, 28°C in de zomer). De unit houdt de woning dan op een acceptabele temperatuur zonder overveel stroom te verbruiken. Vochtschade door extreme kou of hitte wordt zo voorkomen.
+
+**Mijn split-airco ruikt muf als hij opstaat. Wat doe ik?**
+Muffe geur komt van schimmel in het verdampercircuit of op de filters. Reinig de filters grondig. Als de geur aanhoudt: laat een professionele reinigingsbeurt uitvoeren waarbij de verdamper wordt gereinigd met een antistatisch middel. Kosten: €80-€150.
+
+**Is het zuiniger om de airco continu op een lagere stand te laten draaien of hem aan- en uit te zetten?**
+Continu op een lagere stand is in de meeste gevallen zuiniger. Een inverter-compressor is optimaal efficiënt bij een gelijkmatige, lage belasting. Herhaaldelijk opstarten kost meer energie dan doordraaien.
+
+---
+
+## Samenvatting: de belangrijkste beslispunten
+
+Als u overweegt een split-airco aan te schaffen als verwarmings- en koeloplossing:
+
+1. **Is uw woning geschikt?** Goede kandidaat: appartement, tussenwoning, woonkamer als aanvulling op cv-ketel. Minder geschikt: vrijstaande woning zonder andere verwarming, slecht geïsoleerde woning als enige warmtebron.
+
+2. **Wat is uw budget?** €1.800 tot €3.500 voor één binnenunit, inclusief installatie. €4.000 tot €8.000 voor een multi-split met 2-3 binnenunits.
+
+3. **Welk merk?** Voor winterverwarming: Daikin Perfera of Emura, of Mitsubishi Electric MSZ-serie. Beide zijn bewezen in Nederlandse klimaatomstandigheden.
+
+4. **ISDE-subsidie?** Helaas niet voor split-airco's (lucht-lucht). Controleer of uw gemeente een lokale duurzaamheidslening aanbiedt.
+
+5. **Installateurskeuze:** vraag minimaal drie offertes. Controleer of de installateur F-gassen-gecertificeerd is. Vraag naar de garantie op het werk.
 
 ---
 

@@ -221,7 +221,110 @@ Een doorstroomgeiser is voor mijn situatie (oud huis, 3×25A aansluiting) risico
 
 ---
 
+## Slimme laadstrategie voor uw boiler of warmtepompboiler
+
+Ongeacht welke optie u kiest, u kunt uw verbruikskosten verder verlagen door slim te laden — op momenten dat stroom goedkoop is.
+
+### Met zonnepanelen: middag-laden
+
+Als u zonnepanelen heeft, is de slimste strategie om uw boiler of warmtepompboiler op te warmen tijdens de zonnige uren (10:00-16:00). U benut uw eigen opgewekte stroom in plaats van die terug te leveren tegen een lage terugleververgoeding (na 2027).
+
+**Instelling:** stel uw boiler in op een hoger setpoint (65-70°C) en activeer de timer voor het middaguur. Bij een goed geïsoleerde boiler blijft het water 8-12 uur warm genoeg voor gebruik.
+
+Energetisch voordeel: bij zonnestroom die anders teruggeleverd wordt voor €0,08/kWh (post-2027 teruglevertarief) is de effectieve stroomprijs die u bespaart €0,30/kWh (uw normale tarief minus de teruglevering). Het verschil: €0,22/kWh extra waarde per kWh die u zelf gebruikt.
+
+### Met dynamisch tarief: goedkoop laden in de nacht
+
+Bij een dynamisch energiecontract (variabele prijs per uur) zijn de nacht-tarieven (02:00-06:00) vaak €0,10-€0,18/kWh goedkoper dan de dag-tarieven. Een slimme boiler of warmtepompboiler met timer laadt in die uren op, zodat u overdag warm water heeft zonder de dure piek-stroom te gebruiken.
+
+Potentiële besparing: €80-€150 per jaar afhankelijk van het tariefverschil en uw verbruik.
+
+### Legionella-beveiliging: don't forget
+
+Als u een boiler op een laag setpoint gebruikt (50°C of lager), bestaat er kans op legionella-bacteriën. De vuistregel: minstens één keer per week het water opwarmen tot 60°C gedurende 10-15 minuten. Veel moderne boilers hebben een automatisch legionella-programma. Zet dit in als u op een dynamisch tarief of zonne-energie-laadstrategie overschakelt.
+
+---
+
+## De installatie: wat een goede monteur doet
+
+Een goede installatie van warmwater-voorziening vereist meer dan het aansluiten van een apparaat. Dit zijn de punten waar ik op let bij een installateur:
+
+**Bij een warmtepompboiler:**
+- Correcte ruimte-inschatting: controleert de monteur of er 10-15 m³ luchtvolume aanwezig is?
+- Condensatieafvoer: de warmtepompboiler produceert condenswater dat afvoer nodig heeft
+- Geluidsisolatie: wordt de warmtepompboiler op een trillings-absorberende mat geplaatst?
+- Aarding en beveiliging: aparte groep op de groepenkast, met aardlekbeveiliging
+
+**Bij een doorstroomgeiser:**
+- Groepskapaciteit: controleert de installateur of de bestaande groepenkast het hoge aansluitvermogen aankan?
+- Waterdruk: bij een te lage waterdruk werkt een doorstroomgeiser slecht. Druk moet minimaal 1,5 bar zijn
+- Mengventiel: voor mengkranen die warm en koud mengen, moet de doorstroomgeiser op de juiste temperatuur zijn ingesteld (doorgaans 55-60°C maximaal)
+
+Als een installateur deze punten niet bespreekt, vraag er expliciet naar. Het is een signaal over de kwaliteit van het werk.
+
+---
+
+## Veelgemaakte fouten bij tapwaterverwarming post-gas
+
+Na gesprekken met tientallen huiseigenaren die de overstap naar all-electric hebben gemaakt, zie ik steeds dezelfde fouten:
+
+**Fout 1: Boiler te klein kiezen**
+Een 80-liter boiler voor een gezin van 4 is te weinig. Bij 3 personen die na elkaar douchen is de boiler leeg. Consequentie: wachten op herlading (2-3 uur bij elektrische boiler). Kies altijd ruim: 150 liter voor 3 personen, 200 liter voor 4.
+
+**Fout 2: Warmtepompboiler in te kleine ruimte plaatsen**
+Een bijkeuken van 4 m² is te klein. De warmtepompboiler onttrekt warmte aan de omgevingslucht — als de ruimte te klein is, koelt die volledig af en daalt de COP dramatisch. Minimaal 10 m³, liefst 15-20 m³.
+
+**Fout 3: Doorstroomgeiser zonder groepenkast-controle**
+Een doorstroomgeiser van 10 kW op een bestaande 16A-groep is gevaarlijk. Altijd vooraf controleren of de groepenkast het aansluitvermogen aankan.
+
+**Fout 4: Vergeten ISDE-subsidie aan te vragen**
+ISDE voor warmtepompboilers moet vóór installatie worden aangevraagd. Niet erna. Achteraf aanvragen is niet mogelijk. Zorg dat u de subsidie heeft voor de installateur begint.
+
+---
+
 De keuze voor tapwaterverwarming wordt te vaak overgelaten aan de installateur die de warmste koffie aanlevert. Neem de tijd, maak de rekening, en kijk dan pas wat er bij uw huis past.
+
+---
+
+## Vragen die ik regelmatig krijg
+
+**Kan ik een warmtepompboiler buiten plaatsen?**
+Technisch is het mogelijk als de unit voor buiten-gebruik is gecertificeerd. Maar buiten-installaties zijn zeldzaam en hebben nadelen: de omgevingstemperatuur is 's winters laag (COP daalt sterk), er zijn beschermingsmaatregelen nodig, en de unit is kwetsbaarder voor weersinvloeden. Standaard: binnenshuis plaatsen.
+
+**Mijn waterdruk is laag — welke optie past bij mij?**
+Een lage waterdruk (minder dan 1,5 bar) is problematisch voor doorstroomgeisers die een minimumdruk nodig hebben om te activeren. Elektrische boilers werken bij iedere waterdruk. Overweeg bij lage druk een drukverhogende pomp (€150-€300) of kies een elektrische boiler.
+
+**Heeft mijn warmtepompboiler ook koeling nodig?**
+De warmtepompboiler koelt de omgevingslucht licht af. Bij een kleine ruimte kan dit aangenaam zijn in de zomer (de ruimte wordt koeler). Bij een al koele ruimte (onverwarmde kelder) kan de prestatie terugvallen als de omgevingstemperatuur daalt onder 10°C. Veel modellen hebben een elektrisch back-up verwarmingselement dat inspringt als de warmtepomp het niet redt.
+
+**Kan ik de warmtepompboiler combineren met mijn zonneboiler?**
+Dat kan, maar het vereist een goed geïntegreerde installatie. Uw installateur moet bepalen hoe de prioriteiten liggen: zonnecollector heeft voorrang, warmtepompboiler vult aan. Dit gaat via een slim regelventiel (thermostaat of driewegventiel). Vraag hier expliciet naar bij de offerte.
+
+---
+
+## Energielabels en warmwater: wat verandert er?
+
+Met de komst van BENG (Bijna Energie Neutrale Gebouwen) en de toenemende druk op gasreductie, worden warmwater-oplossingen meegewogen in energielabelberekeningen.
+
+Een woning met een warmtepompboiler scoort aanzienlijk beter op het energielabel dan een woning met een elektrische weerstandsboiler of een gasboiler. Bij een toekomstige verkoop of verhuur is dit relevant: een beter label betekent hogere verkoopwaarde en minder hypotheekbeperkingen (sommige banken koppelen rentekorting aan energielabel).
+
+Voor particulieren die hun huis willen verkopen in de komende 5-10 jaar is een warmtepompboiler dus niet alleen een energiebesparing — het is ook een waarde-investering.
+
+---
+
+## Welk merk warmtepompboiler koopt u?
+
+De markt voor warmtepompboilers is gegroeid. Een selectie van bewezen merken:
+
+**Daikin Altherma M HW:** specifiek voor tapwater, 200-300 liter, SCOP tot 3,72. Stille unit (40 dB(A)). ISDE-gecertificeerd. Prijs: €1.800-€2.400.
+
+**Atlantic Calypso:** Frans merk, goed verkrijgbaar in Nederland, robuuste kwaliteit. 200-270 liter. Prijs: €1.400-€1.900.
+
+**Vaillant aeroSTOR exclusif:** onderdeel van de Vaillant-groep, goed service-netwerk in Nederland. 200-300 liter. Prijs: €1.600-€2.200.
+
+**Stiebel Eltron WWK:** Duits merk, hoge kwaliteit, lange garantie (5 jaar). 222-300 liter. Prijs: €1.800-€2.500.
+
+Vermijd onbekende merken zonder ISDE-certificering — de subsidie is een significante deel van het voordeel, en die geldt alleen voor gecertificeerde modellen.
 
 ---
 

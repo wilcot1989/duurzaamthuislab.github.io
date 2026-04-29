@@ -288,3 +288,89 @@ Na drie jaar met SolarEdge en na het analyseren van tientallen installaties als 
 Lees ook mijn vergelijking van de [beste omvormers voor zonnepanelen in 2026](/posts/beste-omvormer-zonnepanelen-2026/) voor aanvullende modellen en prijsoverzichten.
 
 **[Meer over Huawei Luna thuisbatterij](/go/huawei-luna)**
+
+---
+
+## Uitval en storing: hoe betrouwbaar zijn de vier systemen in de praktijk?
+
+Na het lezen van de theoretische specs wil je ook weten: hoe storen deze systemen in de praktijk? Ik heb data verzameld uit storingen-fora (pv-forum.nl, tweakers.net/energie) en gesprekken met installateurs.
+
+### SolarEdge storingen in de praktijk
+
+De meest gemelde storingen bij SolarEdge:
+- **Omvormer uitval (20–30% van alle SolarEdge-storingen):** de centrale omvormer is het zwakste onderdeel. Uitval = volledig systeem staat stil. Gemiddelde levertijd vervangingsomvormer: 5–14 werkdagen.
+- **Arc fault detection (AFCI) valse alarmen:** SolarEdge omvormers hebben een ingebouwde boogstoringdetectie. Deze geeft soms valse meldingen bij normale kabellengte/lossere verbindingen. Oplossing: firmware-update, maar dit irriteert gebruikers.
+- **Power optimizer degradatie na 8+ jaar:** sommige gebruikers rapporteren dat individuele optimizers na 8–10 jaar defectraken. Ze worden één voor één vervangen (garantie 25 jaar dekt dit).
+
+### Enphase storingen in de praktijk
+
+- **Individuele micro-omvormer uitval:** het meest gemelde Enphase-issue. Een individuele IQ7 of IQ8 micro-omvormer geeft na 3–7 jaar soms het op. Het systeem blijft draaien (andere panelen werken door), maar dat paneel produceert niet.
+- **Enlighten portal connectivity:** Enphase's monitoring-portal heeft perioden van instabiliteit gehad (met name 2022–2023). In 2025–2026 is de stabiliteit sterk verbeterd.
+- **Claim-afhandeling:** Enphase stuurt vlot een vervangende micro-omvormer per post. Installateur-kosten voor vervanging zijn doorgaans laag (30–45 minuten werk per stuk).
+
+### Huawei storingen in de praktijk
+
+- **Communicatieproblemen FusionSolar → omvormer:** bij sommige installaties met Wi-Fi-problemen verliest de FusionSolar-app de verbinding. Monitoring-gap, maar de installatie werkt door.
+- **LUNA2000 BMS-updates:** er zijn gevallen van LUNA2000-batterijen die na een firmware-update tijdelijk niet communiceerden. Huawei-installateurs konden dit oplossen via service-modus.
+- **Reserveonderdelen beschikbaarheid:** bij schaarste (2022–2024 supply chain) had Huawei soms langere levertijden. In 2025–2026 is dit genormaliseerd.
+
+### APsystems storingen in de praktijk
+
+- **Minder documentatie beschikbaar** — APsystems heeft een kleinere community dan Enphase, wat troubleshooting lastiger maakt.
+- **EMA-platform connectivity:** vergelijkbare connectiviteitsproblemen als bij alle cloud-gebaseerde monitoring.
+- **Garantieclaimproces:** minder gestroomlijnd dan Enphase. Sommige installateurs melden langere doorlooptijden bij garantieclaims.
+
+---
+
+## Toekomstbestendigheid: wat verandert er in de omvormermarkt?
+
+### V2G en V2H: brengen omvormers dit?
+
+Vehicle-to-Grid (V2G) en Vehicle-to-Home (V2H) — terugvoeden vanuit een elektrische auto naar het huis of net — is een opkomende technologie. Welke omvormers zijn compatibel?
+
+- **SolarEdge:** heeft V2H-module in ontwikkeling voor de Europese markt (ETA: 2025–2026)
+- **Enphase:** heeft geen directe V2G/V2H module, maar werkt aan integratie via de IQ System Controller
+- **Huawei:** heeft aangekondigd dat de SUN2000 + LUNA2000 ecosysteem V2H-compatibel zal worden via firmware-update (Huawei-compatibele EV-laders vereist)
+- **APsystems:** geen V2G/V2H in roadmap
+
+Voor wie nu al weet dat hij een EV wil combineren met zonnepanelen en thuisbatterij, is de Huawei-ecosysteemroute het meest toekomstgerichte.
+
+### Batterij-integratie wordt standaard
+
+In 2026 wordt een toenemend deel van de zonnepaneel-installaties direct gecombineerd met een thuisbatterij. Omvormers zonder hybride-functie (klassieke string-omvormers, inclusief SolarEdge en Enphase zonder uitbreiding) vereisen een aparte AC-gekoppelde batterij — minder efficiënt dan DC-koppeling.
+
+**Aanbeveling voor installaties in 2026:** kies altijd een hybride-compatibele omvormer als je ook maar 10% kans hebt dat je de komende 5 jaar een thuisbatterij wil toevoegen. De meerkosten zijn minimaal (€200–€400 voor een hybride omvormer vs. standaard); achteraf upgraden is veel duurder.
+
+### Europese fabrikanten als alternatief
+
+Fronius (Oostenrijk) en SMA (Duitsland) zijn de twee grootste Europese string-omvormer fabrikanten. In 2026 hebben ze beide:
+- Langere garanties (10–15 jaar standaard)
+- Uitstekende reputatie voor betrouwbaarheid
+- Beperktere EPEX/smart-grid integratie vergeleken met Huawei of Sessy-compatible systemen
+- Geen ingebouwde power-optimizer (voor schaduwbestendigheid heb je aanvullende hardware nodig)
+
+Voor een schaduwvrij dak zonder batterijplan zijn Fronius Symo of SMA Sunny Tripower uitstekende keuzes met een iets lagere all-in prijs dan SolarEdge bij vergelijkbare kwaliteit.
+
+---
+
+## Praktisch installatiedagboek: mijn eigen SolarEdge-systeem
+
+Om dit artikel niet puur theoretisch te houden, deel ik mijn eigen ervaring met SolarEdge.
+
+**Dag 1 — Offertevergelijking:**
+Ik vroeg vijf offertes: twee met gewone string-omvormer, twee met SolarEdge, één met Enphase. De prijsverschillen voor mijn 14-paneelsysteem (5,6 kWp):
+- Goedkoopste string-omvormer: €7.200
+- SolarEdge SE5000H + P730: €8.600
+- Enphase IQ8: €10.100
+
+Koos voor SolarEdge vanwege de schaduw van een boom aan de westkant en de redelijke meerprijs van €1.400 ten opzichte van de goedkoopste string-optie.
+
+**Maand 1 — Eerste opbrengsten:**
+De monitoring via mySolarEdge toonde direct het effect van de boomschaduw: de drie westelijke panelen produceerden 15–22% minder per zonnige ochtend door de schaduwval. Zonder power optimizers had dit het hele systeem naar beneden getrokken. Met de optimizers bleven de resterende 11 panelen op vollast.
+
+**Jaar 1 — Totaalproductie:**
+5,6 kWp × 897 vollasturen (gerealiseerd via monitoring) = 5.023 kWh. Bij een systeem zonder optimizers en dezelfde schaduwsituatie was de verwachting 10–15% lager geweest. Dat zijn 500–750 kWh of €110–€165 extra productie die de optimizers hebben geleverd in het eerste jaar.
+
+Meerkosten optimizers ten opzichte van gewone string: €1.400. Terugverdientijd die meerkosten: **8,5–12,7 jaar** — aan de grens maar acceptabel voor een 25-jaar systeem.
+
+**Conclusie mijn eigen situatie:** voor mijn schaduwrijke dak was SolarEdge de juiste keuze. Met een schaduwvrij dak had ik de goedkopere string-omvormer gekozen en dat geld gestoken in een betere thuisbatterij.

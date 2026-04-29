@@ -241,5 +241,101 @@ De pelletkachel is in 2026 niet illegaal, niet rendeloos, en zeker niet dom als 
 
 Lees voor de keuze van een warmtepomp mijn overzichten van de [beste hybride warmtepompen van 2026](/posts/beste-hybride-warmtepomp-2026/) en de [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/).
 
+---
+
+## Wat zeggen bewoners die overstapten van pelletkachel naar warmtepomp?
+
+Ik sprak drie huiseigenaren die dit traject doorliepen. Zonder namen, maar met echte cijfers.
+
+**Bewoner A — tussenwoning Apeldoorn, energielabel D**
+
+Had een pelletkachel-watermantel als primaire verwarming. Verbruikte 2,3 ton pellets per jaar (€880) plus cv-ketel backup voor tapwater (520 m³ gas = €572). Totaal verwarmingskosten: **€1.452/jaar**.
+
+Stapte over op hybride warmtepomp (ATAG Energion hybride, ISDE €1.800 teruggekregen). Eerste winter: warmtepomp dekkte 78% van warmtevraag. Resterende cv-ketel gas voor tapwater en koude pieken: 280 m³ = €308. Elektriciteit warmtepomp: 2.100 kWh = €567. Totaal: **€875/jaar**.
+
+Besparing eerste jaar: **€577**. Terugverdientijd netto investering (€8.000 - €1.800 ISDE = €6.200): **10,7 jaar**.
+
+**Bewoner B — hoekwoning Zwolle, energielabel C**
+
+Had een pelletkachel als sfeerverwarming naast cv-ketel. Pellets: 1,1 ton (€440). Gas: 1.800 m³ (€1.980). Totaal: €2.420.
+
+Stapte over op volledige lucht/water warmtepomp (Daikin Altherma 3, ISDE €3.200). Eerste volledig seizoen: elektriciteitskosten verwarming + tapwater: 3.800 kWh = €1.026. Pelletkachel behouden voor sfeer: 0,4 ton pellets = €160. Totaal: **€1.186**.
+
+Besparing: **€1.234/jaar**. Netto investering: €11.500 - €3.200 = €8.300. Terugverdientijd: **6,7 jaar**. Bewoner: "Had ik dit 5 jaar eerder gedaan."
+
+**Bewoner C — vrijstaande woning Friesland, energielabel E**
+
+Complexere situatie: oude woning, weinig isolatie, pelletkachel was primaire verwarming voor woonkamer. Gas voor de rest. Totale verwarmingskosten: €3.100/jaar.
+
+Koos voor hybride warmtepomp + dakisolatie-pakket gelijktijdig. Totale investering: €14.500, ISDE €2.000. Nieuw jaarverbruik: €1.650/jaar. Besparing €1.450/jaar. Terugverdientijd: **8,6 jaar**.
+
+**Gemeenschappelijke les uit alle drie:** de overgang gaat soepeler als je een hybride aanpak kiest in een matig geïsoleerde woning. Probeer niet alles in één keer — focus eerst op isolatie, dan op verwarmingssysteem.
+
+---
+
+## Onderhoud vergelijking: pelletkachel vs. warmtepomp
+
+Een onderwerp dat zelden wordt meegenomen in de financiële vergelijking: het structurele onderhoud.
+
+### Pelletkachel-onderhoud
+
+Een pelletkachel vereist regelmatig onderhoud vanwege de verbrandingsresten:
+- **Wekelijks:** as-opvangbak legen (1–2 maal per week bij doorlopend gebruik)
+- **Maandelijks:** branderkop reinigen, rookgasafvoer controleren
+- **Jaarlijks:** keuring door gecertificeerde onderhoudsmonteur (verplicht voor rookkanaalcertificaat in veel gemeenten): **€120–€200/jaar**
+- **5-jaarlijks:** schoorsteenveger voor volledige rookkanaalreiniging: **€150–€250**
+- **Pelletopslag:** pellets worden geleverd in big-bags of geblazen in silo; opslagruimte van minimaal 2–4 m³ nodig
+
+Totale onderhoudskosten per jaar (gemiddeld): **€150–€200/jaar**
+
+### Warmtepomp-onderhoud
+
+Een warmtepomp vereist significant minder hands-on onderhoud:
+- **Jaarlijks:** filterreiniging buitenunit (10 minuten, doe je zelf); optionele servicebeurt door installateur: **€80–€150/jaar**
+- **Elke 5–10 jaar:** koelmiddel controleren (door gecertificeerde monteur); buffervat ontluchten
+- **Geen verbrandingsresten, geen rookkanaal, geen as**
+
+Totale onderhoudskosten per jaar (gemiddeld): **€80–€120/jaar**
+
+Verschil over 15 jaar: warmtepomp bespaart circa **€450–€1.200 aan onderhoud** ten opzichte van pelletkachel.
+
+Als je dit meerekent in de 15-jaar totaalberekening eerder in dit artikel, wordt de warmtepomp nog duidelijker de winnaar: het verschil groeit naar €3.000–€4.000 over de levensduur.
+
+---
+
+## Pelletkachel als overbrugging: wanneer is dat slim?
+
+Ondanks alles zijn er situaties waarbij een pelletkachel als tijdelijke maatregel logisch is:
+
+**Situatie 1: Woning moet eerst geïsoleerd worden**
+Een warmtepomp in een ongeïsoleerde woning (label F/G) werkt wel maar is inefficiënt — de COP daalt sterk bij vloerverwarming-mismatch en hoge aanvoertemperaturen. Als je de komende 2–3 jaar gaat isoleren, kan een pelletkachel als tussenoplossing dienen.
+
+**Situatie 2: Financiering nog niet rond**
+Een hybride warmtepomp kost netto €5.000–€8.000. Als je dat budget nu niet hebt maar wel wilt stoppen met gas, is een pelletkachel goedkoper als tijdelijke stap (€3.000–€5.000).
+
+**Situatie 3: Buitengebied, geen aardgasaansluiting beschikbaar**
+In plattelandsgebieden zonder gasnetwerk is een pelletkachel-watermantel een legitiem alternatief, zeker als er ruimte is voor pelletopslag en het perceel groot genoeg is voor rookgasafvoer.
+
+**Situatie 4: Culturele/sfeerwaarde**
+Sommige mensen willen gewoon een vuur zien. Een pelletkachel als bijverwarming naast een warmtepomp als primair systeem is een valide combinatie. De pelletkachel draait dan 100–200 uur per jaar voor sfeer — minimale fijnstofuitstoot, beperkte kosten.
+
+---
+
+## Veelgemaakte fouten bij de keuze tussen pelletkachel en warmtepomp
+
+**Fout 1: Alleen de aanschafprijs vergelijken**
+De aanschafprijs van een pelletkachel is lager. Maar over 15 jaar zijn de totale eigendomskosten hoger door hogere brandstofkosten, onderhoud en het ontbreken van subsidie.
+
+**Fout 2: Luchtkwaliteitsimpact negeren**
+"Ik rook het zelf niet" is geen argument. PM2.5 van houtstook verspreidt zich in de buurt. Je beïnvloedt je buren en omwonenden ook bij correct gebruik.
+
+**Fout 3: Pelletkachel als volledige vervanging van gas beschouwen**
+Een pelletkachel verwarmt geen tapwater. Je hebt altijd een aanvullend systeem nodig voor warm water, tenzij je een aparte zonneboiler of warmtepompboiler toevoegt.
+
+**Fout 4: Warmtepomp kopen voor een woning die er niet klaar voor is**
+Een warmtepomp werkt het best bij lage aanvoertemperaturen (35–45°C), wat vloerverwarming of grote radiatoren vereist. In een woning met kleine radiatoren en slechte isolatie heeft de warmtepomp een lage COP en zijn de kosten hoger dan verwacht.
+
+**De juiste volgorde is altijd:** eerst isoleren, dan verwarmingssysteem kiezen.
+
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepomp</a>

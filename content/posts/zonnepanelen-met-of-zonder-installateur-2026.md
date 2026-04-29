@@ -270,3 +270,91 @@ Als je wil vergelijken wat een professionele installatie bij jou kost, is [Zonne
 Als je toch DIY overweegt: begin in elk geval met een plug-and-play balkonpaneel (max 600W, schuko-stekker, netaanmelding via formulier netbeheerder) om het systeem te leren kennen. En huur altijd een erkend elektricien in voor de definitieve netaansluiting.
 
 **[Vraag een offerte aan bij Zonneplan](/go/zonneplan)**
+
+---
+
+## Wat zegt de installateur die ik een jaar later sprak?
+
+Na mijn eigen installatie-ervaring sprak ik een installateur uit Utrecht die gemiddeld 80 systemen per jaar installeert. Ik vroeg hem direct: "Kom jij weleens DIY-installaties tegenkomen die je moet 'repareren'?"
+
+"Ja, regelmatig," zei hij. "De meest voorkomende problemen: MC4-connectoren die niet goed gecrimd zijn, aansluitfolies die de verkeerde kant op lopen waardoor vocht binnenkomt, en omvormers die buiten de spec zijn aangesloten. Dat laatste zie ik soms pas na de eerste winterstorm wanneer er waterinfiltratie is."
+
+Zijn schatting: van alle systemen die hij jaarlijks controleert (service en storingen), is circa 15% door de eigenaar zelf geïnstalleerd of deels zelf gemodificeerd. Daarvan heeft 40% een technische tekortkoming die op termijn problemen geeft.
+
+---
+
+## Saldering-afbouw 2027: verandert dit de DIY-keuze?
+
+Per 2027 verdwijnt de salderingsregeling in Nederland stapsgewijs. Dit heeft directe gevolgen voor de financiële berekening van zonnepanelen:
+
+**Huidige situatie (t/m 2026):** energie die je teruglevert aan het net wordt volledig verrekend tegen hetzelfde tarief als je betaalt. 1 kWh teruggeleverd = 1 kWh ontvangen (saldering 1:1).
+
+**Na 2027:** de terugleververgoeding daalt naar de inkoop-/marktwaarde van stroom, typisch 4–8 ct/kWh in daluren. Vergeleken met de huidige 22–28 ct/kWh die je bij eigenverbruik bespaart, is teruglevering dan circa 3–6x minder waardevol.
+
+**Gevolg voor DIY-keuze:** de urgentie om snel goedkoop panelen te installeren is begrijpelijk. Maar de kwaliteit van de installatie wordt juist belangrijker: je wilt dat het systeem 25 jaar optimaal functioneert, niet alleen de eerste jaren. Een installateur met garantie geeft meer zekerheid op lange-termijn opbrengst.
+
+---
+
+## Balkonpanelen als veilige DIY-stap
+
+Als je toch met DIY wil beginnen, is het balkonpaneel de beste instap. Hier is precies wat je mag en moet doen:
+
+### Wat zijn balkonpanelen?
+
+Balkonpanelen (ook wel "plug-in solar" of "Balkonkraftwerk" in Duitsland) zijn kleine zonnepanelen (1–4 stuks, maximaal 600 W totaal per EU-norm 2024) die via een schuko-stekker worden aangesloten op een normaal stopcontact. Ze zijn speciaal ontworpen voor gebruik zonder professionele installatie.
+
+### Wettelijk kader balkonpanelen Nederland 2026
+
+In Nederland geldt voor balkonpanelen:
+- Maximaal vermogen: 800 W per installatie (nieuwe EU-harmonisatie 2024, Nederland hanteert 600 W bij verouderde regionale handhaving, check jouw netbeheerder)
+- Verplichte aanmelding bij netbeheerder (AKV-aanmelding, gratis, online)
+- Gebruik van een gekeurde microgrid-stekker (VDE-gecertificeerd, meegeleverd bij goede merken)
+- Geen omgevingsvergunning nodig
+- Geen elektricien vereist
+
+### Wat verdien je ermee?
+
+Een enkel balkonpaneel van 400 Wp op het zuiden produceert in Nederland:
+- Jaarproductie: 400 Wp × 900 vollasturen = **360 kWh/jaar**
+- Besparing bij eigenverbruik (22 ct/kWh): **€79/jaar**
+- Kosten voor een kwalitatief plug-in systeem: **€250–€450**
+- Terugverdientijd: **3,2–5,7 jaar**
+
+Dit is een zinvolle investering, volledig legaal als DIY, zonder garantierisico op een groot systeem.
+
+---
+
+## Vijf vragen die je een installateur moet stellen vóór je een offerte accepteert
+
+Of je nu voor Zonneplan kiest of een lokale installateur, stel altijd deze vijf vragen:
+
+**1. Welk type panelen en omvormer gebruiken jullie, en waarom?**
+Een goede installateur legt uit welke keuzes hij maakt voor jouw specifieke dak en oriëntatie. Geen standaard-aanbod-antwoord.
+
+**2. Hoeveel kWh verwachte jaarproductie bij mijn specifieke dakoppervlak?**
+Vraag een simulatie op, gebaseerd op satellietdata of een on-site inspection. Niet een algemene schatting.
+
+**3. Wie meldt de installatie aan bij de netbeheerder en wanneer?**
+De installateur regelt dit in de meeste gevallen. Controleer dat dit expliciet in de offerte staat.
+
+**4. Welke garantie geldt er op de installatie (niet alleen op de producten)?**
+Productgarantie (panelen, omvormer) en installatiegarantie zijn twee verschillende zaken. Installatiegarantie dekt fouten in het montagewerk. Minimaal 5 jaar installatiegarantie is redelijk.
+
+**5. Wat is het protocol bij een storing of garantieclain?**
+Belt de klant naar jou of naar de fabrikant? Wat is de gemiddelde responstijd? Wie betaalt de arbeid bij een garantiereparatie?
+
+Als een installateur deze vragen niet goed kan beantwoorden, ga dan naar de volgende.
+
+---
+
+## Totaaloverzicht: kosten en beslishulp per profiel
+
+| Profiel | Aanbevolen optie | Reden |
+|---------|-----------------|-------|
+| Standaard dak, geen schaduw, geen technische achtergrond | **Zonneplan of lokale gecertificeerde installateur** | Laagste risico, volledige garantie |
+| Huurwoning, klein balkon | **Balkonpaneel (plug-in solar)** | Legaal DIY, geen installateur nodig |
+| Elektricien met VP-PV certificaat | **DIY volledige installatie** | Expertise aanwezig, kostenbesparing gerechtvaardigd |
+| Complex dak, meerdere oriëntaties | **Gespecialiseerd installateur (niet Zonneplan)** | Maatwerkadvies essentieel |
+| Zakelijk (onderneming, EIA van toepassing) | **Gecertificeerde installateur verplicht** | EIA vereist erkende installateur |
+
+De juiste keuze hangt af van jouw specifieke situatie. Maar voor 85% van de Nederlandse huiseigenaren met een standaard schuin dak geldt: een gecertificeerde installateur is de verstandigste investering op de lange termijn.

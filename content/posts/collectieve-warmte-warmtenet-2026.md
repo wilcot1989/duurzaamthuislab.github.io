@@ -307,6 +307,80 @@ Een eigen warmtepomp geeft controle, lagere operationele kosten in een goed geï
 
 Als je de keuze krijgt tussen warmtenet en eigen warmtepomp — en je woning is goed geïsoleerd — zou ik bijna altijd voor de eigen warmtepomp gaan. Tenzij het warmtenet aantoonbaar duurzamere bronnen gebruikt en de tarieven significant gunstiger zijn.
 
+---
+
+## Hoe voer je het gesprek met de gemeente?
+
+Als de gemeente jouw wijk aanwijst voor warmtenet-transitie, word je uitgenodigd voor bewonersavonden of informatiebrieven. Hier zijn de vragen die ik altijd stel namens bewoners:
+
+**Vraag 1: Wat is de primaire warmtebron?**
+Aardgas, geothermie, restwarmte of aquathermie? Dit bepaalt de duurzaamheidscore en de toekomstbestendigheid.
+
+**Vraag 2: Wat is de CO2-uitstoot per GJ in 2026, 2030 en 2035?**
+Vraag een concreet pad. Veel warmteleveranciers beloven "fossielvrij in 2040" maar hebben nog geen concreet plan.
+
+**Vraag 3: Wat is de aansluitbijdrage en de verwachte vaste kosten per jaar?**
+Leg dit vast op papier. Mondelinge toezeggingen zijn niet bindend.
+
+**Vraag 4: Is aansluiting verplicht of vrijwillig?**
+Dit heeft grote juridische implicaties voor je keuzevrijheid.
+
+**Vraag 5: Wat gebeurt er als ik later toch wil overstappen naar een warmtepomp?**
+Zijn er uitstappingskosten? Wat zijn de juridische consequenties?
+
+**Vraag 6: Wie is de warmteleverancier en hoe is de continuïteit geborgd?**
+Is het een publiek bedrijf of een private investeerder? Zijn er borgstellingen?
+
+---
+
+## Warmtenetten in de praktijk: drie Nederlandse gemeenten vergeleken
+
+### Utrecht (Eneco/Vattenfall)
+
+Utrecht heeft een van de grootste warmtenetten van Nederland, bestaand uit meerdere deelnetten. De primaire bron varieert per wijk: aardgas, geothermie (Nieuwegein-pilot), biomassa en restwarmte.
+
+**Stand van zaken 2026:** Vattenfall Warmte heeft het Utrecht-net overgenomen na reorganisatie. Tarieven liggen op NMDA-maximum. Bewoners in wijken met verplichte aansluiting hebben beperkte keuzevrijheid. Geothermie-uitbreiding loopt vertraging op vanwege boorgerelateerde veiligheidsdiscussies na het Groningse gaswinningsdebat.
+
+### Almere (Vattenfall Warmte)
+
+Almere heeft een groot stadsverwarmingsnet dat veel nieuwbouwwijken bedient. Hoge temperatuurnet (80°C), historisch op aardgas, transitie richting restwarmte en aquathermie gepland.
+
+**Stand van zaken 2026:** Bewoners in Almere-Haven en Almere-Stad met warmtenet zijn volledig afhankelijk van Vattenfall. De tarieven zijn NMDA-conform maar het vastrecht is hoog (€160-€180/maand). Alternatief warmtepomp is voor veel woningen door bestaande aansluiting juridisch gecompliceerd.
+
+### Den Haag (Aardgasvrij-pilot Duindorp)
+
+Een kleinere, interessante casus. Den Haag experimenteert met wijk-warmtepompen op aquathermie (Noordzee-water) voor de Duindorp-wijk. Laagtemperatuurnet, goed geïsoleerde woningen vereist.
+
+**Stand van zaken 2026:** Pilot loopt. Technisch geslaagd, maar hoge investering per woning. Financieringsmodel nog niet volledig uitgewerkt. Interessant als toekomstmodel.
+
+---
+
+## Warmtepompen en het elektriciteitsnet: een aandachtspunt
+
+Als massaal mensen overschakelen op warmtepompen, stelt dit eisen aan het elektriciteitsnet. Dit is een argument dat soms voor warmtenetten wordt gebruikt: ze verdelen de vraag anders over het net.
+
+**De werkelijkheid:** De Nederlandse netbeheerders investeren fors in netverzwaring. De piekbelasting van warmtepompen kan gespreid worden met slimme sturing (nachttarieven, vraagrespons). Dit is een reëel planningsvraagstuk, maar geen argument om individueel af te zien van een warmtepomp.
+
+Een warmtepomp met een slim energiemanagementsysteem — gecombineerd met zonnepanelen en een thuisbatterij — kan zelfs netondersteunend zijn door flexibel te laden op overschotmomenten.
+
+---
+
+## Veelgestelde vragen van bewoners
+
+**"Mijn CV-ketel is pas 3 jaar oud. Moet ik hem vervangen voor een warmtepomp?"**
+
+Nee. Een hybride warmtepomp werkt samen met je bestaande cv-ketel. Je ketels hoeft niet vervangen te worden. Na 10-12 jaar (het einde van de gemiddelde ketellevensduur) kun je volledig overstappen.
+
+**"Mijn huis is slecht geïsoleerd. Moet ik eerst isoleren voordat ik een warmtepomp kan?"**
+
+Voor een volledige warmtepomp: ideaal wel, maar een hybride warmtepomp werkt ook zonder grondige isolatie. Bij slechte isolatie is de gas-besparing kleiner (40-50% i.p.v. 70-85%), maar de investering loont al bij gemiddelde isolatieniveaus.
+
+**"Ik woon in een VvE-appartement. Kan ik individueel een warmtepomp nemen?"**
+
+Dit is een lastig vraagstuk. Een lucht-water warmtepomp vereist een buitenunit, wat bij appartementen toestemming van de VvE vereist. Lucht-lucht-systemen zijn eenvoudiger te installeren maar verwarmen minder efficiënt. Laat een installateur beoordelen wat technisch mogelijk is in jouw situatie.
+
+---
+
 <a href="/go/daikin-altherma" class="cta-affiliate" rel="sponsored noopener">Bekijk de Daikin Altherma 3 warmtepomp</a>
 
 <a href="/go/bosch-warmtepomp" class="cta-affiliate" rel="sponsored noopener">Bekijk de Bosch Compress warmtepomp</a>
