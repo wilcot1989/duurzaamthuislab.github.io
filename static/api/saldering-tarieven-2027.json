@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Saldering afbouw-percentages Nederland 2026-2030",
+  "description": "Saldering-percentage per kalenderjaar volgens concept-wetsvoorstel saldering 2027 (NL). Plus terugleverprijs ranges en eigen-verbruik-fracties per batterij-grootte.",
+  "url": "https://duurzaamthuislab.nl/api/saldering-tarieven-2027.json",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Organization",
+    "name": "DuurzaamThuisLab",
+    "url": "https://duurzaamthuislab.nl/"
+  },
+  "datePublished": "2026-04-29",
+  "dateModified": "2026-04-29",
+  "version": "1.0",
+  "keywords": ["saldering", "saldering 2027", "energietransitie", "thuisbatterij", "Nederland"],
+  "data": {
+    "saldering_pct_per_jaar": {
+      "2026": 1.00,
+      "2027": 0.64,
+      "2028": 0.28,
+      "2029": 0.00,
+      "2030": 0.00
+    },
+    "terugleverprijs_eur_per_kwh": {
+      "minimum": 0.06,
+      "gemiddeld": 0.08,
+      "maximum": 0.12,
+      "bron": "Marktwaarde grootverbruiker EPEX 2025-2026"
+    },
+    "eigen_verbruik_fractie_per_batterij_kwh": {
+      "0": 0.30,
+      "5": 0.65,
+      "8": 0.75,
+      "10": 0.85,
+      "15": 0.92,
+      "20": 0.95
+    },
+    "kwh_per_kwp_per_jaar": 900,
+    "stroomprijs_2026_eur_per_kwh": {
+      "minimum": 0.28,
+      "gemiddeld": 0.32,
+      "maximum": 0.36
+    }
+  },
+  "usage_terms": "Gratis te gebruiken met bronvermelding (CC-BY 4.0). Voor commercieel gebruik graag link naar https://duurzaamthuislab.nl/posts/saldering-calculator-2027-volledig/"
+}
