@@ -385,6 +385,9 @@ Dit is een lastig vraagstuk. Een lucht-water warmtepomp vereist een buitenunit, 
 
 <a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate" rel="sponsored noopener">Bekijk de Bosch Compress warmtepomp</a>
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Gerelateerde artikelen
 
 - [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)

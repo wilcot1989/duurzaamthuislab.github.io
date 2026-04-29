@@ -357,6 +357,9 @@ Als u serieus bent over zonnepanelen: vraag drie offertes aan in de komende vier
 
 <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
 
+
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+
 ## Gerelateerde artikelen
 
 - [Zonnepanelen Subsidie Nederland 2026: Complete Gids](/posts/zonnepanelen-subsidie-nederland-2026/)

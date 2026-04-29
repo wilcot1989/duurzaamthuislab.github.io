@@ -487,3 +487,6 @@ Wil je precies berekenen hoeveel jij verliest en of een thuisbatterij voor jou r
 Heb je vragen over jouw specifieke situatie? Laat een reactie achter — ik reageer op elk bericht.
 
 *Mark Bakker — april 2026*
+
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>

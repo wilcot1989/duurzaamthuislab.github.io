@@ -452,6 +452,9 @@ Per jaar verschilt het voordeel van een goede keuze al snel €150-€350 — bo
 
 ---
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Gerelateerde artikelen
 
 - [Saldering stopt in 2027: volledige gids](/posts/saldering-stopt-2027-volledige-gids/)

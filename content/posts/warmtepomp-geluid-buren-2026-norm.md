@@ -392,6 +392,9 @@ Een volledig geluidsmeetrapport bevat:
 
 Dit rapport is het document dat je nodig hebt als je bij de gemeente een klacht indient of als bewijs in een civiele procedure.
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Gerelateerde artikelen
 
 - [Warmtepomp monoblock vs split 2026: keuze gids](/posts/warmtepomp-monoblock-vs-split-2026/)

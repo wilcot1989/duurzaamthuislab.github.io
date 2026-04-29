@@ -368,6 +368,9 @@ Een WTW-systeem is de logische volgende stap na isolatie. Het voorkomt dat je du
 
 <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
 
+
+<a href="/go/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
+
 ## Lees ook
 
 - **[Energielabel Verbeteren Stappenplan](/posts/energielabel-verbeteren-stappenplan-2026/)** — Van label G naar A

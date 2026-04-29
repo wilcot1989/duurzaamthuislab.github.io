@@ -324,6 +324,9 @@ Als u overweegt een split-airco aan te schaffen als verwarmings- en koeloplossin
 
 <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin →</a>
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Gerelateerde artikelen
 
 - [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)

@@ -331,6 +331,9 @@ Heb je een Bosch cv-ketel, een woning met label D of slechter, en wil je nu begi
 
 ---
 
+
+<a href="/go/bosch" class="cta-affiliate" rel="sponsored noopener">Bekijk Bosch</a>
+
 ## Gerelateerde artikelen
 
 - [ATAG ENERGION warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/)

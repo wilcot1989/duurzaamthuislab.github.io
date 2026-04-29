@@ -415,3 +415,6 @@ Benieuwd naar alle opties? Lees ons complete overzicht van de [beste thuisbatter
 
 
 <a href="https://go.duurzaamthuislab.nl/tesla-powerwall" class="cta-affiliate" rel="sponsored noopener">Bekijk Tesla Powerwall</a>
+
+
+<a href="/go/tesla-powerwall" class="cta-affiliate" rel="sponsored noopener">Bekijk Tesla Powerwall</a>

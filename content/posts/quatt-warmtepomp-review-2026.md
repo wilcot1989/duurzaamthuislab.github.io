@@ -356,6 +356,9 @@ Kies Quatt als cashflow en ontzorging het zwaarste wegen. Koop als de totale kos
 
 <a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate">Bekijk Quatt Connect abonnementen</a>
 
+
+<a href="/go/quatt" class="cta-affiliate" rel="sponsored noopener">Bekijk Quatt</a>
+
 ## De toekomst van Quatt: scenario's
 
 Quatt is in 2026 een groeiend bedrijf met een bewezen product, maar de financiële toekomst is onzeker. Drie scenario's:

@@ -302,6 +302,9 @@ Voor de meeste huishoudens is **dynamisch contract + gedragsverandering** de sli
 
 ---
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Gerelateerde artikelen
 
 - [Beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/)

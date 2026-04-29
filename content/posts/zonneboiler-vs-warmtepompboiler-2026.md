@@ -348,6 +348,9 @@ De gemiddelde installatie inclusief ISDE-voorbereiding neemt 3–5 weken van bes
 
 *Disclosure: ik gebruik affiliate links op deze pagina. De prijzen en subsidies zijn gebaseerd op publieke bronnen van begin 2026 en kunnen zijn gewijzigd. Controleer altijd de actuele RVO-lijst en vraag meerdere offertes aan.*
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Gerelateerde artikelen
 
 - [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)

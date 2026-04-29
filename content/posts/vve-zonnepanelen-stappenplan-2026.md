@@ -335,6 +335,9 @@ Wil je daarbij geholpen worden? [Zonneplan](https://go.duurzaamthuislab.nl/zonne
 
 ---
 
+
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+
 ## Monitoring en beheer na installatie
 
 Als de panelen draaien, begint het echte werk pas. Een VvE-installatie vereist lopend beheer dat anders is dan bij een particuliere installatie.

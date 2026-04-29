@@ -384,6 +384,9 @@ Een pelletkachel is in 2026 legaal, maar niet meer subsidiabel en financieel min
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepomp</a>
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Gerelateerde artikelen
 
 - [Warmtepomp vs hybride warmtepomp: wat is slimmer in 2026?](/posts/warmtepomp-vs-hybride-warmtepomp-2026/)

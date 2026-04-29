@@ -283,6 +283,9 @@ En als je toch een nieuwe dakkapel laat plaatsen: bestel de houtnerf-HSB-variant
 
 ---
 
+
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+
 ## Energielabel-verbetering in de praktijk: wat levert dit op?
 
 Als je een woning wil verkopen of een hypotheek wil oversluiten, is het energielabel commercieel relevant. Banken bieden in 2026 groenehypotheekkorting voor woningen met energielabel A of hoger — typisch 0,1–0,2% rentepunten lager.

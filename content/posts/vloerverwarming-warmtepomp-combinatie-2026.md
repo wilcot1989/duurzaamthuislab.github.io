@@ -316,6 +316,9 @@ Vloerverwarming + warmtepomp is de gouden combinatie voor maximaal comfort en mi
 
 **Tip:** Begin met isolatie en een hybride warmtepomp op je bestaande radiatoren. Wanneer je later toch gaat verbouwen, leg dan vloerverwarming aan en schakel over naar full-electric.
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Verlengde FAQ: praktische vragen over vloerverwarming en warmtepomp
 
 **Hoe lang duurt het installeren van vloerverwarming?**

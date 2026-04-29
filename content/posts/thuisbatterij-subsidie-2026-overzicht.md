@@ -529,6 +529,9 @@ Mijn vuistregel: subsidie is leuk maar niet doorslaggevend. De 0% BTW alleen is 
 
 ---
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Gerelateerde artikelen
 
 - [Beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/)

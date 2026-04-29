@@ -294,6 +294,9 @@ Wil je weten of een Sessy bij jouw situatie past? Lees dan ook mijn [uitgebreide
 
 ---
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Seizoenspatronen dieper uitgewerkt: herfst, lente, najaar
 
 Tot nu toe behandelden we winter en zomer als twee uitersten. De tussenseizoenen (maart–mei en september–november) verdienen aparte aandacht, want de prijspatronen zijn er wisselvallig.

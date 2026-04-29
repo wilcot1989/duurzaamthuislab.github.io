@@ -1,5 +1,5 @@
 ---
-title: "Beste zonnepanelen 2026 na saldering: wat verandert en wat je nu moet doen"
+title: "Beste zonnepanelen 2026 na saldering"
 date: 2026-04-29T08:00:00+02:00
 lastmod: 2026-04-29T08:00:00+02:00
 description: "Saldering stopt in 2027. Welke zonnepanelen zijn dan nog zinvol, hoe maximaliseer je zelfconsumptie, en welke combinatie met een batterij werkt het beste?"
@@ -396,6 +396,9 @@ Gebruik deze lijst om een offerte te beoordelen:
 - [ ] Is de installateur erkend en aangesloten bij brancheorganisatie (Techniek Nederland)?
 
 ---
+
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
 ## Gerelateerde gidsen
 

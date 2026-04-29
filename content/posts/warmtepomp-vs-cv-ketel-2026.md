@@ -358,6 +358,9 @@ Vergeet de **ISDE-subsidie** niet — die maakt het verschil in terugverdientijd
 
 Wil je weten welk model bij jouw situatie past? Lees dan de [top 5 hybride warmtepompen van 2026](/posts/beste-hybride-warmtepomp-2026/) voor een gedetailleerde vergelijking van Remeha, Daikin, Quatt, Bosch en Vaillant.
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## De gasrekening in perspectief: wat betaal je per maand aan gas?
 
 Het gemiddelde Nederlandse huishouden verbruikt 1.500 m³ aardgas per jaar. Bij een gasprijs van €1,05/m³ all-in is dat €1.575/jaar, ofwel **€131/maand**. Voor een slecht geïsoleerde woning loopt dit op naar €2.200-€2.800/jaar.

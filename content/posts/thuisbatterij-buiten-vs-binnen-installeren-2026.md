@@ -522,6 +522,9 @@ Een woning in Nijmegen met een droge, geventileerde garage direct naast de meter
 
 <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk de Marstek B5000</a>
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Gerelateerde artikelen
 
 - [Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)

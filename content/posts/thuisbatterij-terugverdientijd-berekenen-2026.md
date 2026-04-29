@@ -456,3 +456,6 @@ De terugverdientijd is geen garantie maar een verwachting. Energieprijzen fluctu
 
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

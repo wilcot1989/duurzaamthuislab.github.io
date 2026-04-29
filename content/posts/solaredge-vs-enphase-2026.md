@@ -421,6 +421,9 @@ Beide zijn uitstekende keuzes — je kunt met geen van beide een verkeerde besli
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Lees ook
 
 - **[Beste Omvormer voor Zonnepanelen 2026](/posts/beste-omvormer-zonnepanelen-2026/)** — Alle omvormermerken vergeleken

@@ -387,6 +387,9 @@ Vergeet niet dat je circa **€3.000 ISDE-subsidie** kunt ontvangen, plus eventu
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Lees ook
 
 - **[ISDE Subsidie 2026: Complete Gids](/posts/isde-subsidie-warmtepompen-2026/)** — Alles over subsidie voor warmtepompen en isolatie

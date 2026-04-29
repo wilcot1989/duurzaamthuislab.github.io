@@ -1,8 +1,8 @@
 ---
-title: "Goedkoopste thuisbatterij 2026: welke opties zijn er onder €3.000?"
+title: "Goedkoopste thuisbatterij 2026: welke opties zijn er onder"
 date: 2026-04-29T08:00:00+02:00
 lastmod: 2026-04-29T08:00:00+02:00
-description: "Welke thuisbatterij geeft je de meeste waarde onder €3.000? Ik vergelijk Marstek Venus, BYD Battery-Box en meer — inclusief eerlijke kanttekeningen over kwaliteit versus prijs."
+description: "Welke thuisbatterij geeft je de meeste waarde onder €3.000? Ik vergelijk Marstek Venus, BYD Battery-Box en meer."
 categories: ["thuisbatterijen"]
 tags: ["goedkoopste thuisbatterij", "Marstek Venus", "thuisbatterij budget", "thuisbatterij onder 3000 euro", "thuisbatterij 2026", "betaalbare batterij"]
 keywords: ["goedkoopste thuisbatterij 2026", "thuisbatterij budget", "Marstek Venus prijs", "thuisbatterij onder 3000 euro", "goedkope thuisbatterij NL", "beste prijs thuisbatterij"]
@@ -442,6 +442,9 @@ Laat installeren door een erkend installateur. Totaalprijs: €2.800–€3.200.
 Als je geen zonnepanelen hebt en er ook geen plant: wacht nog even. Een thuisbatterij is het meest rendabel in combinatie met zonnepanelen.
 
 ---
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
 
 ## Gerelateerde gidsen
 

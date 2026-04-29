@@ -419,6 +419,9 @@ Vloerverwarming in een bestaande woning is geen sciencefiction meer. De dry-syst
 
 *Disclosure: ik gebruik een affiliate link naar ATAG op deze pagina. Ik heb persoonlijk een ATAG hybride warmtepomp in gebruik. Prijzen zijn indicatief en gebaseerd op publieke marktinformatie van begin 2026.*
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Gerelateerde artikelen
 
 - [Vloerverwarming en Warmtepomp: De Perfecte Combinatie (2026)](/posts/vloerverwarming-warmtepomp-combinatie-2026/)

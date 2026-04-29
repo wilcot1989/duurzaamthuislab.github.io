@@ -320,6 +320,9 @@ Mijn 18 maanden ervaring: €1.180 bespaard versus vast contract. Dat is geen ma
 
 ---
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Tibber in de winter: wat ik betaalde bij een koudegolf
 
 Januari 2025. Nederland had een koudegolf van 5 dagen. Buitentemperatuur: -6 t/m -2°C. Mijn warmtepomp draaide bijna continu. En de EPEX-prijs piekte op 14 januari tot €1,18/kWh gedurende 4 uur.

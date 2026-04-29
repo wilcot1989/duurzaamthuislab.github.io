@@ -354,6 +354,9 @@ Agrivoltaïca op kleine schaal is mogelijk en in sommige gevallen financieel int
 
 ---
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Kippen onder zonnepanelen: de meest schaalbare particuliere variant
 
 Als ik eerlijk moet zijn over de meest haalbare combinatie van dieren en zonnepanelen voor de gemiddelde Nederlandse achtertuin, is het niet de schaap maar de **kip**.

@@ -513,6 +513,9 @@ Stapel vervolgens de grotere maatregelen op basis van je budget en woning. Een g
 
 De vraag is niet óf je energiekosten kunt verlagen — maar hoe snel je ermee begint.
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Gerelateerde artikelen
 
 - [Energieleverancier overstappen 2026](/posts/energieleverancier-overstappen-2026-stappenplan/)

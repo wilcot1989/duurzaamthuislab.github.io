@@ -404,6 +404,9 @@ Uiteindelijk is €/kWh een hulpmiddel — gebruik het, maar combineer het met j
 
 ---
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Gerelateerde artikelen
 
 - [Beste thuisbatterij 10 kWh vergelijking](/posts/thuisbatterij-10-kwh-vergelijking-2026/)

@@ -435,6 +435,9 @@ Zonnepanelen op een plat dak zijn een uitstekende investering met een terugverdi
 
 <a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="sponsored noopener">Bekijk Anker Solix</a>
 
+
+<a href="/go/anker-solix" class="cta-affiliate" rel="sponsored noopener">Bekijk Anker Solix</a>
+
 ## Lees ook
 
 - **[Beste Zonnepanelen 2026](/posts/beste-zonnepanelen-2026/)** — Top merken vergeleken

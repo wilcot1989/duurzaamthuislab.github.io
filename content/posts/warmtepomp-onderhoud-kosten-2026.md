@@ -450,6 +450,9 @@ Dat is een bescheiden maar positief resultaat — en dan is er nog de meerwaarde
 
 De warmtepomp verdient zichzelf terug — maar alleen als het systeem goed wordt onderhouden en efficiënt wordt ingezet.
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Gerelateerde artikelen
 
 - [Vloerverwarming aanleggen in bestaande woning](/posts/vloerverwarming-aanleggen-kosten-2026/)

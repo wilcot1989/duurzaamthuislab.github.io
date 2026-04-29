@@ -302,6 +302,9 @@ Heb je vragen over de uitkomst of wil je dat ik meekijk bij jouw specifieke situ
 
 *Mark Bakker — april 2026*
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Gerelateerde artikelen
 
 - [Saldering calculator 2027: jaar-voor-jaar impact bereken](/posts/saldering-calculator-2027-volledig/)

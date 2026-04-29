@@ -316,6 +316,9 @@ Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026
 
 ---
 
+
+<a href="/go/anker-solix" class="cta-affiliate" rel="sponsored noopener">Bekijk Anker Solix</a>
+
 ## Alternatieve toepassingen die ik niet had verwacht
 
 Na een jaar met de Anker SOLIX C1000 zijn er een paar toepassingen die ik zelf niet had bedacht maar nu regelmatig gebruik.

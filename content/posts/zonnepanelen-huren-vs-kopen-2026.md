@@ -397,6 +397,9 @@ Kortom: de subsidie-voordelen zijn bijna altijd aan de kant van de koper.
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Lees ook
 
 - **[Beste Zonnepanelen 2026](/posts/beste-zonnepanelen-2026/)** — Top 5 merken vergeleken

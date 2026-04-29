@@ -323,6 +323,9 @@ Bij een investering van €600 is de terugverdientijd 4,8 jaar. Bescheiden, maar
 
 <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan →</a>
 
+
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+
 ## Gerelateerde artikelen
 
 - [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)

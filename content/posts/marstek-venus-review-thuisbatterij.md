@@ -449,6 +449,9 @@ Voor wie dat extra €3.000-€4.000 voor service en NL-support wil betalen: kie
 
 ---
 
+
+<a href="/go/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk Marstek</a>
+
 ## Gerelateerde artikelen
 
 - [Sessy review: Nederlandse premium](/posts/sessy-review-thuisbatterij-nederland/)

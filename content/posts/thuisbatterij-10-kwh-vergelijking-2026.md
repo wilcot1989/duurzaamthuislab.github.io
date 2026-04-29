@@ -484,6 +484,9 @@ De saldering-stop maakt deze keuze **kritisch** — wie tot 2027 wacht, betaalt 
 
 ---
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Gerelateerde artikelen
 
 - [Sessy review](/posts/sessy-review-thuisbatterij-nederland/)

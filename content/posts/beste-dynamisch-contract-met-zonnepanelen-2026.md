@@ -409,6 +409,9 @@ Een dynamisch contract is de eerste stap — gratis, direct voordeel, geen risic
 
 ---
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Mijn persoonlijke aanbeveling na 18 maanden ervaring
 
 Ik heb Tibber en Frank Energie beiden een jaar lang gebruikt. Mijn eerlijke conclusie:

@@ -435,6 +435,9 @@ De technologie van thuisbatterijen ontwikkelt snel. Welke van de drie is het mee
 
 Als toekomstbestendigheid jouw hoogste prioriteit is: Tesla Powerwall 3. Als prijs-kwaliteit en ecosysteem-fit jouw prioriteit is: Huawei Luna (met Huawei-omvormer). Als flexibiliteit en slimheid voor een dynamisch contract je prioriteit is: Sessy.
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Gerelateerde artikelen
 
 - [Beste Thuisbatterij 2026: Top 5 voor Nederlandse Huishoudens](/posts/beste-thuisbatterij-nederland-2026/)

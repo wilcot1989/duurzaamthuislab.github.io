@@ -329,6 +329,9 @@ De beslissing mag een half jaar duren. Een bodembron die goed is gedimensioneerd
 
 ---
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Hulp bij de keuze: vraag eerst een energieadvies aan
 
 Voordat u naar een installateur stapt, kunt u een onafhankelijk energieadvies aanvragen bij een gecertificeerd energieadviseur (BRL-9500 certificering). Kosten: €150 tot €350. Dit advies geeft u een helder beeld van welke warmteoptie het beste past bij uw woning, uw isolatieniveau, en uw budget.

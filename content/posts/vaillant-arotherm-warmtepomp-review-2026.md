@@ -350,6 +350,9 @@ Als je een goed geïsoleerde woning hebt, waarde hecht aan stilte en duurzaamhei
 
 *Vragen over je eigen woning, isolatieniveau of of de aroTHERM plus past bij jouw situatie? Laat een reactie achter, ik reageer zo snel mogelijk.*
 
+
+<a href="/go/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
+
 ## Gerelateerde artikelen
 
 - [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)

@@ -394,6 +394,9 @@ Doe deze drie en de saldering-stop kost je weinig. Doe niets en je terugverdient
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Waarom sommige berekeningen online kloppen niet
 
 Ik zie regelmatig berekeningen die zonnepanelen na 2027 slecht laten lijken of juist heel goed. Beide zijn misleidend. Hier zijn de fouten die ik het vaakst tegenkom.

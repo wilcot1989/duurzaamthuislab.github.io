@@ -468,6 +468,9 @@ Dakisolatie is de verduurzamingsmaatregel met de beste prijs-prestatieverhouding
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Gerelateerde artikelen
 
 - [Isolatie Subsidie Nederland 2026: Alle Regelingen en](/posts/isolatie-subsidie-nederland-2026/)

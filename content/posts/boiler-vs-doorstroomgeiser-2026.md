@@ -2,7 +2,7 @@
 title: "Boiler of doorstroomgeiser: warmwater opties na het gas"
 date: 2026-06-11T08:00:00+02:00
 lastmod: 2026-06-11T08:00:00+02:00
-description: "Wat doe je met je warmwater als de cv-ketel weg gaat? Boiler, doorstroomgeiser, warmtepompboiler of zonneboiler — ik vergelijk de opties voor een all-electric huis."
+description: "Wat doe je met je warmwater als de cv-ketel weg gaat? Boiler, doorstroomgeiser, warmtepompboiler of zonneboiler."
 categories: ["warmtepompen"]
 tags: ["boiler", "doorstroomgeiser", "warmwater", "all-electric", "warmtepompboiler", "tapwater", "post-gas"]
 keywords: ["boiler vs doorstroomgeiser", "warmwater zonder gas", "warmtepompboiler", "elektrische boiler", "doorstroomgeiser elektra", "all electric warmwater", "tapwaterverwarming 2026"]
@@ -332,6 +332,9 @@ Vermijd onbekende merken zonder ISDE-certificering — de subsidie is een signif
 
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmwater</a>
+
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

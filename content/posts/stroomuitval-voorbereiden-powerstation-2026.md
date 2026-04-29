@@ -332,6 +332,9 @@ Bekijk ons complete [overzicht van de beste draagbare powerstations van 2026](/p
 
 ---
 
+
+<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>
+
 ## Wanneer is een aggregaat beter dan een powerstation?
 
 Dit is een eerlijke vraag die ik regelmatig krijg. Er zijn situaties waarin een benzine-aggregaat gewoon de betere keuze is.

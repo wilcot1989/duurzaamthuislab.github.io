@@ -218,3 +218,6 @@ Huren is geen reden om niet te verduurzamen. Het vraagt alleen een andere aanpak
 
 
 <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+
+
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>

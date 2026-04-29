@@ -323,6 +323,9 @@ Een thuislaadpaal is een van de beste investeringen als EV-rijder. Met â‚¬800-â‚
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Wat betaalt je werkgever? De fiscale regels voor 2026
 
 Als je een laadpaal via je werkgever vergoed wil krijgen, zijn er fiscale spelregels die de meeste mensen niet kennen.

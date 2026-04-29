@@ -334,6 +334,9 @@ Wat ik Riet uiteindelijk heb geadviseerd: neem ATAG, maar laat de installateur o
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate">Bekijk ATAG ENERGION warmtepompen</a>
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Levensduur en vervanging na 15 jaar
 
 Een ATAG ENERGION-installatie heeft een verwachte levensduur van 15-20 jaar voor de warmtepomp zelf. De compressor (Mitsubishi Electric) is het onderdeel met de meeste slijtage bij intensief gebruik.

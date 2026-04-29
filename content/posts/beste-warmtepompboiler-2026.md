@@ -413,6 +413,9 @@ Wat ik Joost uiteindelijk heb geadviseerd: de Itho Daalderop HP Cube 200L, mede 
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Gerelateerde artikelen
 
 - [Zonneboiler vs warmtepompboiler 2026: welke levert meer op?](/posts/zonneboiler-vs-warmtepompboiler-2026/)

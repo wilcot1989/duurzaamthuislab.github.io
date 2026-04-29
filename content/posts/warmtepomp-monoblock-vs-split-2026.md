@@ -359,6 +359,9 @@ Veel gemeenten bieden leningen van 0-2% rente voor warmtepompen. Gecombineerd me
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepomp →</a>
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Gerelateerde artikelen
 
 - [Warmtepomp geluid buren 2026: 40dB norm](/posts/warmtepomp-geluid-buren-2026-norm/)

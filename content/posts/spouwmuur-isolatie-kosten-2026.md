@@ -363,6 +363,9 @@ Ik heb het in mijn eigen tussenwoning (1978) laten doen met glasvlokken: kosten 
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Hoe lang duurt spouwmuurisolatie? Mijn eigen ervaring
 
 In mijn eigen tussenwoning (bouwjaar 1978, 82 m² spouwmuur) liet ik in september 2024 glasvlokken inblazen. Dit is hoe de dag verliep.

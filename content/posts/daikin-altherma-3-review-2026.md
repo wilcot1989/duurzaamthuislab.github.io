@@ -345,6 +345,9 @@ Thomas in Zeist is inmiddels negen maanden verder. Hij bespaart meer dan verwach
 
 ---
 
+
+<a href="/go/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin</a>
+
 ## Gerelateerde artikelen
 
 - [ATAG ENERGION warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/)

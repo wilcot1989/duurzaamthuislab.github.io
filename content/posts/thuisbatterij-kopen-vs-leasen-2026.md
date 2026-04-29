@@ -418,6 +418,9 @@ Voor 70% van Nederlandse huishoudens met een gezond cashflow en geen verhuisplan
 
 ---
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Gerelateerde artikelen
 
 - [Beste thuisbatterij 10 kWh vergelijking](/posts/thuisbatterij-10-kwh-vergelijking-2026/)

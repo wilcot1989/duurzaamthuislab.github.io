@@ -398,6 +398,9 @@ Op dit tempo is de warmtepomp volledig terugverdiend na 4,7 jaar — exact binne
 
 Zou ik het opnieuw doen? Ja. Zonder twijfel.
 
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
 ## Gerelateerde artikelen
 
 - [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)

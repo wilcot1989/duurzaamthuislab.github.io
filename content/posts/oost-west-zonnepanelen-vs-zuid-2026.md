@@ -387,6 +387,9 @@ Laat een gespecialiseerde installateur zoals [Zonneplan](https://go.duurzaamthui
 
 ---
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## De rol van de omvormer bij oost-west systemen
 
 De omvormer is het hart van je zonnepanelensysteem — hij zet de gelijkstroom van de panelen om naar wisselstroom voor je huishoudelijk net. Bij oost-west systemen zijn er specifieke aandachtspunten:

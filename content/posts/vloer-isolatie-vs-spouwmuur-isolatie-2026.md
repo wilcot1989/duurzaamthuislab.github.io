@@ -256,6 +256,9 @@ Wie beide kan combineren, doet dat ideaal in dezelfde SEEH-aanvraag om van het c
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Meer isolatiemaatregelen en hun rendement
 
 Nu we spouwmuur en vloer hebben vergeleken, is het zinvol om de andere grote isolatiemaatregelen in perspectief te plaatsen:

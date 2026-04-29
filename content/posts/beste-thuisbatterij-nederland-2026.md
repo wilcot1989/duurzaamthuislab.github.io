@@ -505,3 +505,6 @@ Zoek je een draagbare oplossing in plaats van een vast systeem? Bekijk dan ons o
 
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

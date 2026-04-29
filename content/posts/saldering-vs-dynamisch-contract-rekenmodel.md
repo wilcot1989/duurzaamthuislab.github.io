@@ -444,6 +444,9 @@ Wachten tot 2027 om over te stappen levert je niets op behalve gemiste besparing
 
 ---
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Gerelateerde artikelen
 
 - [Saldering stopt in 2027: volledige gids](/posts/saldering-stopt-2027-volledige-gids/)

@@ -379,6 +379,9 @@ Voor wie meer wil (V2H, hoog vermogen, automatische backup): kijk naar Tesla Pow
 
 ---
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Gerelateerde artikelen
 
 - [Beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/)

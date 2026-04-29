@@ -1,5 +1,5 @@
 ---
-title: "Beste thuisbatterij eengezinswoning 2026: eerlijk advies voor een 4-5 persoons huishouden"
+title: "Beste thuisbatterij eengezinswoning 2026"
 date: 2026-04-29T08:00:00+02:00
 lastmod: 2026-04-29T08:00:00+02:00
 description: "Welke thuisbatterij past echt bij een NL-eengezinswoning met 4-5 personen? Ik vergelijk Sessy, Marstek en meer — inclusief terugverdientijd en eerlijke haakjes."
@@ -356,6 +356,9 @@ Na die eerste 3–4 jaar is elke opgeslagen kWh klimaatpositief. Dat maakt thuis
 **Let op:** niet alle batterijchemieën zijn gelijk. LFP (lithiumijzerfosfaat) heeft een lagere CO₂-voetafdruk per kWh dan NMC (nikkel-mangaan-kobalt), mede omdat er geen kobalt in zit (kobaltmijnbouw is milieubelastend en mensenrechtengevoelig).
 
 ---
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
 
 ## Gerelateerde gidsen
 

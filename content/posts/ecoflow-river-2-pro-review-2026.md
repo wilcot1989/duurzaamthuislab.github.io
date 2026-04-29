@@ -348,3 +348,6 @@ Als je meer capaciteit nodig hebt, bekijk dan de [EcoFlow Delta 2 Max](/posts/ec
 
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>
+
+
+<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

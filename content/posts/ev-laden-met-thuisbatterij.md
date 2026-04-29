@@ -370,6 +370,9 @@ En als je een Ioniq 5 of EV6 wilt kopen: de bidirectionele functie is gratis mee
 
 ---
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Gerelateerde artikelen
 
 - [Beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/)

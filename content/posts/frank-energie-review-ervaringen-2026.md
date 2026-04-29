@@ -343,6 +343,9 @@ Voor wie zonnepanelen heeft en de saldering-stop voorbereidt: Frank is bijna alt
 
 ---
 
+
+<a href="/go/frank-energie" class="cta-affiliate" rel="sponsored noopener">Bekijk Frank Energie</a>
+
 ## Mijn aanbeveling voor specifieke huishoudprofielen
 
 Na 36 maanden Frank Energie en adviezen aan tientallen lezers weet ik welk profiel bij welke leverancier past. Dit zijn mijn specifieke aanbevelingen.

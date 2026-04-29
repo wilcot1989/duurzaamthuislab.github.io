@@ -436,6 +436,9 @@ Voor mijn vriend was het de juiste keus omdat zijn vrouw mentaal niet aan kon da
 
 ---
 
+
+<a href="/go/anwb-energie" class="cta-affiliate" rel="sponsored noopener">Bekijk Anwb Energie</a>
+
 ## Gerelateerde artikelen
 
 - [Saldering vs dynamisch contract: rekenmodel](/posts/saldering-vs-dynamisch-contract-rekenmodel/)

@@ -366,6 +366,9 @@ Gebruik de calculator hierboven met je eigen cijfers. En kom over een paar maand
 
 ---
 
+
+<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+
 ## Gerelateerde artikelen
 
 - [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/)

@@ -369,6 +369,9 @@ Voor de tech-nerd die zelf wil samenstellen: minder geschikt — kies Sessy + Ti
 
 ---
 
+
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+
 ## Gerelateerde artikelen
 
 - [Sessy thuisbatterij review](/posts/sessy-review-thuisbatterij-nederland/)

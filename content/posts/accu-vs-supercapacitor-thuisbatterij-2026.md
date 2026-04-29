@@ -410,6 +410,9 @@ De ISDE-subsidie is gebonden aan de erkende-typenlijst van de RVO, die jaarlijks
 
 <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk de Marstek B5000 (LiFePO4)</a>
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Gerelateerde artikelen
 
 - [Beste Thuisbatterij 2026: Top 5 voor Nederlandse Huishoudens](/posts/beste-thuisbatterij-nederland-2026/)

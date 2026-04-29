@@ -273,6 +273,9 @@ Als je toch DIY overweegt: begin in elk geval met een plug-and-play balkonpaneel
 
 ---
 
+
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+
 ## Wat zegt de installateur die ik een jaar later sprak?
 
 Na mijn eigen installatie-ervaring sprak ik een installateur uit Utrecht die gemiddeld 80 systemen per jaar installeert. Ik vroeg hem direct: "Kom jij weleens DIY-installaties tegenkomen die je moet 'repareren'?"

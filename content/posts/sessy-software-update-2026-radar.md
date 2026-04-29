@@ -258,6 +258,9 @@ Mijn rendement van €220–€310/jaar (bij Sessy-prijs van €3.999) geeft een
 
 ---
 
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+
 ## Sessy vs. thuisbatterij kopen zonder EPEX-koppeling: is de meerwaarde meetbaar?
 
 Om de waarde van Sessy Radar objectief te beoordelen, vergelijk ik mijn eigen data met een hypothetisch scenario waarbij de Sessy enkel op eigenverbruik (solar self-consumption) zou optimaliseren zonder EPEX-koppeling.

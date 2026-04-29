@@ -1,8 +1,8 @@
 ---
-title: "Beste warmtepomp rijtjeshuis 2026: alles wat je moet weten als je buren op 1 meter afstand wonen"
+title: "Beste warmtepomp rijtjeshuis 2026: alles wat je moet weten"
 date: 2026-04-29T08:00:00+02:00
 lastmod: 2026-04-29T08:00:00+02:00
-description: "Een warmtepomp in een rijtjeshuis is een andere opgave dan in een vrijstaande woning. Ik bespreek geluid, plaatsing, buurman-regels, ISDE en de beste modellen voor 2026."
+description: "Een warmtepomp in een rijtjeshuis is een andere opgave dan in een vrijstaande woning. Ik bespreek geluid, plaatsing, buurman-regels."
 categories: ["warmtepompen"]
 tags: ["warmtepomp rijtjeshuis", "ATAG warmtepomp", "Quatt warmtepomp", "warmtepomp geluid buren", "ISDE subsidie", "lucht-water warmtepomp"]
 keywords: ["beste warmtepomp rijtjeshuis", "warmtepomp rijtjeshuis buren", "warmtepomp geluid", "warmtepomp 2026", "ATAG rijtjeshuis", "Quatt rijtjeshuis", "warmtepomp plaatsing"]
@@ -414,6 +414,9 @@ Bij een hybride warmtepomp behoudt de cv-ketel zijn functie. Bij all-electric ve
 **Wat doe je met een nog bijna nieuwe cv-ketel?** Sommige installateurs nemen hem over als inruilwaarde (€200–€500). Je kunt hem ook zelf verkopen via Marktplaats of een verwarmingsspecialist.
 
 ---
+
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
 ## Gerelateerde gidsen
 

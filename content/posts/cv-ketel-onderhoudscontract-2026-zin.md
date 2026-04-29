@@ -373,6 +373,9 @@ Niet elke installateur die "cv-onderhoud" aanbiedt is even betrouwbaar. Hier zij
 
 <a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate" rel="sponsored noopener">Bekijk Bosch</a>
 
+
+<a href="/go/anwb-energie" class="cta-affiliate" rel="sponsored noopener">Bekijk Anwb Energie</a>
+
 ## Gerelateerde artikelen
 
 - [ANWB Energie review 2026: dynamisch contract met vangnet](/posts/anwb-energie-dynamisch-review-2026/)

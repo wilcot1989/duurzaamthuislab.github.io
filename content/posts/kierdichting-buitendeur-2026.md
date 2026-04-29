@@ -277,6 +277,9 @@ Nee, kierdichting alleen is niet aftrekbaar. Maar als onderdeel van een grotere 
 
 <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk verduurzamen →</a>
 
+
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+
 ## Gerelateerde artikelen
 
 - [Kierdichting, glaswol en tochtstrip in 2026](/posts/kierdichting-glaswol-tochtstrip-2026/)

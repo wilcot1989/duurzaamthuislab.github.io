@@ -417,6 +417,9 @@ Sommige gemeenten (Rotterdam, Amsterdam) experimenteren met "koele daken"-progra
 
 <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk de beste zonnepanelen van 2026</a>
 
+
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+
 ## Gerelateerde artikelen
 
 - [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
