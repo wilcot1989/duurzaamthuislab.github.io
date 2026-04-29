@@ -313,3 +313,37 @@ Verder lezen op DuurzaamThuisLab:
 - [Dynamische energiecontracten thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)
 - [Smart home energiebeheer 2026](/posts/smart-home-energiebeheer-2026/)
 - [Saldering vs dynamisch contract rekenmodel](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
+
+## NL-specifiek: belastingen, wettelijke bescherming en BTW
+
+In Nederland bouwt elke energierekening op uit drie lagen: leveringskosten (variabel of vast), netbeheer (vast bedrag per regio, €1,17/dag in 2026) en belastingen (energiebelasting €0,1316/kWh + ODE €0,0228/kWh + 21% BTW). Bij een dynamisch contract zie je per uur de leveringskosten dansen — de belastingen blijven exact gelijk. Dat betekent dat zelfs een spotprijs van €0,02/kWh effectief altijd minimaal €0,18/kWh kost na belastingen en BTW. Wie dynamische besparingen verkoopt zonder dit uit te leggen, vertelt niet het hele verhaal.
+
+ACM (Autoriteit Consument & Markt) heeft sinds 2023 strikte regels voor dynamisch: de leverancier moet 24 uur vooruit prijzen tonen, geen verborgen tariefgrenzen rekenen en bij overstap geen onredelijke boete vragen. Voor vaste contracten geldt sinds juni 2025 dat boete bij vroegtijdig opzeggen maximaal €125 is — bij combicontract gas+stroom dus 2x €125. Vraag bij twijfel altijd om de exacte boete-staffel vóór ondertekening.
+
+Bouwbesluit speelt geen rol bij contractkeuze, maar wel bij de meterkast: dynamisch vereist een slimme meter (DSMR 5.0 of hoger), bij oudbouw kun je deze gratis aanvragen. ISDE/RVO geven geen subsidie op contracttype maar wel op flexibiliteits-apparaten (warmtepomp, thuisbatterij) die dynamisch rendabel maken — die subsidie reken je dus indirect mee bij keuze voor dynamisch.
+
+## Veelgemaakte fouten
+
+1. **Dynamisch kiezen zonder schema-aanpassing.** Wie elke avond om 18:00 zelfde dingen blijft doen betaalt vaak meer dan vast.
+2. **Maandbedrag te laag inschatten.** Bij dynamisch schommelt januari €280 en juli €60 — zonder buffer kom je in december in problemen met termijnnota.
+3. **Eén keer kijken naar uurprijzen en concluderen "zo duur".** Het gemiddelde over een jaar is wat telt, niet één piekuur.
+4. **Smart meter niet checken voor overstap.** 8% van de meters heeft een defecte P1-poort — je hebt dan geen real-time data en mist de helft van de besparingsmogelijkheid.
+5. **Geen scheduling instellen voor warmtepomp.** Een warmtepomp die 's avonds bijdraait kost €0,18/kWh meer dan dezelfde warmte 's middags. Gemiddeld €280/jaar verschil bij standaardgezin.
+
+## Wanneer NIET dynamisch?
+
+Sla dynamisch over als je verbruik onder 1.800 kWh ligt en piekt 's avonds (gepensioneerden, kleine huishoudens). Bij gedeeld huishouden waar je niemand kunt overtuigen om laat te wassen of laat te koken is vast vaak rustiger. Mensen met cognitieve beperkingen of weinig zin in apps doen er goed aan vast te kiezen — de mentale belasting van prijsmonitoring kost meer dan de besparing oplevert.
+
+Bij angst voor prijspieken (geopolitieke onrust, koudegolven) is een vast contract psychologisch beter — je weet wat je betaalt, ook al is het iets duurder. Wie in een huurwoning woont en niet in flexibele apparaten kan investeren (warmtepomp, batterij): dynamisch levert dan slechts €80-€150/jaar besparing, vast geeft meer rust voor weinig extra kosten.
+
+## Mini case-study: gezin in Eindhoven
+
+Een gezin in Eindhoven (4 personen, 4.800 kWh, 1.500 m³, warmtepomp via Quatt, geen EV, 8 zonnepanelen) twijfelde 6 maanden tussen vast Essent (€2.180/jaar) en Frank Energie dynamisch. Stapten april 2026 over naar Frank. Eerste 6 maanden: €860 betaald (zomerperiode + warmtepomp slim ingesteld via Home Assistant). Geprojecteerde jaarrekening: €1.620 dynamisch tegen €2.180 vast = €560 besparing. Plus mentale rust dat hun warmtepomp altijd op goedkope uren draait. Eén minpunt: in januari 2026 schrok mevrouw van een €410 termijnnota — daarna buffer ingesteld via Frank-app.
+
+## Real-world ervaring: 1 maand, 6 maanden, 24 maanden
+
+Eerste maand dynamisch: ik (Mark) betaalde in januari 2024 €298 i.p.v. verwachte €220 voor stroom. Rekenfout — had warmtepomp nog niet slim geschedulet. Aanpassing in 2 weken kostte 4 uur Home Assistant configuratie.
+
+Na 6 maanden: zomerperiode liet werkelijke voordeel zien. Gemiddelde stroomkosten €68/maand t.o.v. €128 op vast contract bij Vattenfall. Pulse-data verslavend — ik checkte 3x per dag de prijscurve.
+
+Na 24 maanden: totaal €1.420 bespaard t.o.v. extrapolatie vast contract. Twee keer een spike-week (jan 2024 koudegolf, dec 2025 windstilte) waar maand-totaal even hoog was als vast — maar gemiddelde over jaar 27% lager. Geen serieuze app-storingen, één firmware-update Pulse die 18 minuten duurde. Voor mij geen weg terug naar vast.

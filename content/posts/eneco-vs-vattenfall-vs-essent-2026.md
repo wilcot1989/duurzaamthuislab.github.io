@@ -308,3 +308,39 @@ Verder lezen op DuurzaamThuisLab:
 - [Groene stroom vs grijze stroom](/posts/groene-stroom-vs-grijze-stroom-2026/)
 - [Smart home energiebeheer 2026](/posts/smart-home-energiebeheer-2026/)
 - [Saldering stopt 2027 — volledige gids](/posts/saldering-stopt-2027-volledige-gids/)
+
+## NL-specifiek: belastingen, vastrecht en BTW
+
+Wat veel mensen niet beseffen: het kale leveringstarief is maar de helft van je rekening. Op elke kWh komt €0,1316 energiebelasting plus €0,0228 ODE plus 21% BTW over het totaal. Op gas €0,5862 belasting per m³. Bij 3.500 kWh + 1.200 m³ betaal je dus rond de €1.060 aan belastingen alleen — onafhankelijk van de leverancier. Het echte verschil tussen Eneco, Vattenfall en Essent zit in nog geen 8% van je totaalrekening.
+
+De RVO biedt geen subsidie op leveranciers zelf, maar wel via de Energiebespaarlening (1,7% rente in 2026) als je gelijktijdig verduurzaamt. Bij overstap naar een leverancier die isolatie- of warmtepomp-pakketten meefinanciert (Eneco doet dit, Essent niet) kun je dat combineren. Bouwbesluit speelt geen rol bij contractkeuze maar wel bij gasloos bouwen — sinds 2018 nieuwbouw zonder gas, wat betekent dat de gas-tarieven vooral relevant zijn voor woningen van vóór 2018.
+
+## Veelgemaakte fouten bij overstappen
+
+1. **Alleen op kale kWh-prijs vergelijken.** Vastrecht varieert van €100 tot €150 per jaar per leverancier. Bij laag verbruik weegt vastrecht zwaarder dan kWh-tarief.
+2. **Welkomstbonus zwaarder wegen dan tarief.** Een €150 cashback bij een €60 duurder contract = je verliest €30 over 2 jaar.
+3. **Niet checken of gas en stroom apart verkocht worden.** Sommige aanbieders hebben dumpprijzen op stroom maar duurder gas, of andersom. Reken altijd je hele jaarrekening uit.
+4. **Vergeten op te zeggen na contract-einde.** Bij stilzwijgend voortzetten ga je vaak naar een variabel tarief dat 8-15% hoger ligt. Zet een agenda-herinnering 6 weken voor einddatum.
+5. **Salderingsregeling negeren bij keuze.** Wie zonnepanelen heeft moet kijken naar terugleververgoeding 2027, niet alleen naar 2026-tarieven.
+
+## Wanneer NIET overstappen
+
+Sla overstappen over als je nog 18+ maanden vast contract hebt — boete plus administratie kost meestal meer dan de jaarlijkse besparing. Ook bij verhuizing binnen 6 maanden: het overstap-proces duurt 4-8 weken en je hebt dubbele administratie. Als je net zonnepanelen hebt geïnstalleerd: wacht eerst 3 maanden om je werkelijke teruglevering te meten voordat je een leverancier kiest op basis van vergoeding.
+
+Bij dynamisch contract met sterke daghandel (laadpaal, thuisbatterij, EV-laden 's nachts): geen van deze drie is optimaal. Tibber, Frank Energie of ANWB Dynamisch geven snellere data en lagere fees. Eneco's "Variabel Plus" is een redelijk compromis maar geen pure dynamische leverancier.
+
+## Mini case-study: gezin in Almere
+
+Een gezin in Almere (4 personen, 4.200 kWh, 1.450 m³, 12 zonnepanelen 4.560 Wp) zat 5 jaar bij Essent. Jaarrekening 2025: €2.180. In april 2026 overgestapt naar Eneco vanwege betere terugleververgoeding. Nieuwe jaarrekening prognose: €2.110 inclusief €165 extra teruglevering. Plus: hun Toon-thermostaat synchroniseert nu native met de Eneco-app, geen workaround meer via IFTTT. Netto resultaat: €70/jaar besparing plus 4 uur per maand minder stoeien met smart home. Boete bij Essent: €50 wegens vroegtijdig opzeggen — terugverdiend in 9 maanden.
+
+## Realtime versus achteraf data: waarom het uitmaakt
+
+Wie een dynamisch contract overweegt of een thuisbatterij heeft moet realtime weten wat hij verbruikt. Eneco levert P1-data binnen 2 seconden in de app, Essent binnen 12 uur, Vattenfall pas na 24 uur. Voor wie een Sessy of Marstek heeft die op spotprijzen handelt is alleen Eneco geschikt — de andere twee leveren te traag data om de batterij goed aan te sturen. Een klant in Hilversum verloor €120 in 3 maanden omdat zijn Marstek op 24-uur-oude tarieven werkte; na overstap naar Eneco verbeterde de optimalisatie direct met 18%.
+
+## Extra praktijkdetails per leverancier
+
+Eneco's klantenservice werkt sinds januari 2026 met een nieuwe AI-eerstelijn die simpele vragen oplost (factuur, meterstand). Voor complexe zaken kom je vlot bij een mens — de AI is niet zo'n irritante chatbot als bij sommige telecoms. Vattenfall heeft een "Klantbelofte 2026" gelanceerd: bij elke klacht binnen 5 werkdagen reactie, anders €25 schadevergoeding. In de praktijk werkt dit goed maar je moet er wel om vragen. Essent investeert in WhatsApp-service en heeft sinds maart 2026 een eigen video-helpdesk voor verbruiksanalyses, gemiddelde wachttijd 4 minuten — beter dan hun telefoonkanaal.
+
+Tarieftransparantie verschilt ook: Eneco toont alle componenten (kale prijs, transport, belasting, BTW) direct in de app. Vattenfall pas na inloggen op de website. Essent stuurt het pas in een PDF-bijlage bij de jaarrekening. Voor wie zijn werkelijke kostprijs per kWh wil weten — bijvoorbeeld om te beslissen of een thuisbatterij rendabel is — werkt Eneco veruit het prettigst.
+
+Tot slot: alle drie hebben sinds 2025 verplichte tweemaandelijkse termijnnota's afgeschaft en zijn over op maandelijks. Dat scheelt liquiditeit maar betekent ook dat je per maand schommelingen ziet. Wie liever vast wil betalen kan een vast termijnbedrag aanvragen — bij Eneco kan dat in de app, bij Vattenfall en Essent moet je bellen of mailen.

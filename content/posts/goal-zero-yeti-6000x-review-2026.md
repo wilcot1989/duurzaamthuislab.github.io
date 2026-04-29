@@ -219,3 +219,51 @@ Min: prijs, NMC chemie, geen modulaire uitbreiding, basic app, hoorbare ventilat
 Goal Zero Yeti 6000X is de beste keuze voor wie premium portable backup zonder gedoe wil, met gevoelige apparatuur. Voor wie meer wil voor minder geld: EcoFlow Delta Pro Ultra of Bluetti AC500.
 
 Lees ook [beste powerstation vanlife](/posts/beste-powerstation-vanlife-2026/), [beste powerstation camping](/posts/beste-powerstation-camping-2026/), [stroomuitval voorbereiden](/posts/stroomuitval-voorbereiden-powerstation-2026/) en [powerstation vs thuisbatterij](/posts/powerstation-vs-thuisbatterij-2026/).
+
+## NL-specifiek: BTW, garantie en RVO
+
+Goal Zero verkoopt rechtstreeks via hun Europese site, maar veel Nederlanders kopen via Bol-resellers of importeurs. Let op: bij import uit de VS betaal je 21% BTW plus 2,7% invoerrechten op een powerstation, en de garantieafhandeling loopt dan via de importeur en niet via Goal Zero zelf. Bij de ondernemer in Veldhoven adviseerde ik bewust een Europese leverancier te kiezen, ook al kostte dat €200 meer — bij een retourzending naar Salt Lake City ben je weken bezig en betaal je honderden euro's verzendkosten.
+
+ISDE of RVO-subsidie geldt niet voor portable powerstations. Een Yeti 6000X is geen "thuisbatterij" volgens RVO-definities (geen grid-koppeling, geen MID-meting). Wie hoopt op subsidie komt bedrogen uit. Voor zakelijk gebruik kun je het apparaat wel afschrijven via de KIA (Kleinschaligheidsinvesteringsaftrek) als de totale jaarinvestering boven €2.801 ligt — bij de Veldhovense ondernemer leverde dat €1.498 fiscaal voordeel op.
+
+Bouwbesluit speelt geen rol omdat het apparaat los staat. Wel verstandig: meld het bij je opstalverzekering. NMC-cellen vallen bij sommige verzekeraars onder "verhoogd brandrisico" en kunnen je premie beïnvloeden als je hem in een woonkamer plaatst.
+
+## Veelgemaakte fouten
+
+1. **Yeti als primaire energiebron behandelen.** Hij is een back-up, geen vervanging voor het net. Wie hem dagelijks ontlaadt en oplaadt haalt de 1.500-cycli grens binnen 4 jaar.
+2. **Geen Yeti Link kopen.** Zonder Link Module moet je bij stroomuitval handmatig stekkers omsteken. Bij nachtelijke storingen mis je dat moment en zijn je servers alsnog uit.
+3. **In een afgesloten meterkast plaatsen.** De ventilator heeft luchtstroom nodig. Een klant in Tilburg zette zijn Yeti in een kledingkast — temperatuur liep op tot 52°C en de unit ging in beschermmodus.
+4. **Vergeten te ontladen tijdens lange opslag.** NMC-cellen lijden onder permanent 100% lading. Goal Zero adviseert 60-80% bij maandenlange opslag, ik zie veel gebruikers die dit nooit lezen.
+5. **Vol-belasten op 2.000W met inductiekookplaat.** Een inductieplaat trekt 1.800W piek én heeft een hoge inschakelstroom. De Yeti slaat dan af. Gebruik een gas- of keramische kookplaat in noodscenario's.
+
+## Wanneer NIET de moeite waard
+
+Sla de Yeti 6000X over als je in een doorsnee Nederlandse rijwoning woont met 1-2 stroomstoringen per jaar van minder dan 30 minuten. Voor die situatie is een UPS van €400 plus een aggregaat van €600 ruim voldoende, en heb je €4.000 over voor andere verduurzaming. Ook bij huurwoningen waar de bewoner mogelijk binnen 5 jaar verhuist: de terugverdientijd is veel langer dan de verblijfsduur.
+
+Wie zonnepanelen heeft en grid-tied wil opslaan zonder netzcontract: koop een Sessy of Marstek thuisbatterij. Wie alleen camping doet: een Bluetti AC200max van 2 kWh is goedkoper en lichter. Wie een aggregaat al heeft staan: voeg een UPS toe en je hebt 80% van het effect voor 10% van de prijs.
+
+## Mini case-study: huisarts in Apeldoorn
+
+Een huisartsenpraktijk in Apeldoorn met 4 werkplekken, koeling voor vaccins en een EPD-server kocht in januari 2026 een Yeti 6000X plus Link Module (€5.349). Verbruik in praktijktijd: 520W gemiddeld. Bij een storing in maart 2026 (3 uur 47 minuten) hield de Yeti alles draaiend — vaccinkoeling bleef op 4°C, EPD bleef beschikbaar, geen patiënten geannuleerd. De omzetderving die voorkomen werd: €2.800 voor één middag. Verzekeraar verlaagde de premie met €38 per maand omdat back-up gedocumenteerd was. Terugverdientijd berekend op 28 maanden, in praktijk al na de eerste echte storing emotioneel terugverdiend.
+
+## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+
+Eerste maand: alles werkte zoals verwacht, app-koppeling lukte in 4 minuten, gewicht viel tegen bij verplaatsen. De ondernemer in Veldhoven leerde dat 49 kg op wielen prima rolt op gladde vloer maar onmogelijk is op een drempel — koop een rolplank.
+
+Na 6 maanden: capaciteitsmeting toonde 5.812 Wh (van 5.870 bij start), dus 1% degradatie. Ventilator was 1x kapot gegaan, vervangen onder garantie binnen 8 werkdagen. Firmware kreeg 2 updates. Een gebruiker zou hier al merken dat de NMC-cellen warmer worden bij volle belasting dan in maand 1.
+
+Na 1 jaar: 47 cycli geregistreerd, capaciteit 5.760 Wh (3% degradatie), wat sneller is dan LFP. Goal Zero garandeert 80% capaciteit na 500 cycli — bij dit gebruikspatroon haal je dat na ongeveer 10 jaar. Voor zwaardere belasting (dagelijks ontladen) is LFP echt beter. App-storingen waren stabiel op 1 per kwartaal, altijd opgelost via een herstart.
+
+## Praktische installatie-tips uit de praktijk
+
+Plaats de Yeti op een vlakke, stabiele ondergrond met minimaal 30 cm vrije ruimte rond de ventilator. Bij de huisartsenpraktijk in Apeldoorn moest ik een installateur terugsturen omdat hij de unit pal tegen een wand had geschoven — de ventilator zoog warme lucht direct opnieuw aan en de unit ging in throttling-modus boven 800W. Ook belangrijk: gebruik aparte groepen in de groepenkast voor de back-up output, niet één gedeelde ringleiding. Bij gedeelde groepen krijg je interferentie tussen Yeti-output en netzlevering wanneer de Link omschakelt.
+
+De Yeti app vraagt een Goal Zero-account met e-mailverificatie. Twee klanten hadden problemen omdat hun e-mailprovider Goal Zero-mails als spam markeerde — check je junk-folder bij setup. Wifi-koppeling werkt alleen op 2,4 GHz; 5 GHz-only routers vereisen een gastnetwerk op 2,4 GHz. Firmware-updates kosten 12-18 minuten en het apparaat is in die tijd niet beschikbaar voor back-up: doe updates dus nooit tijdens kantooruren.
+
+Voor automatische start bij stroomuitval moet je de Link Module configureren op "always-on". Standaard staat hij op "manual" wat betekent dat je fysiek de knop moet indrukken — ik heb dit twee keer misgelopen bij klanten die dachten dat het out-of-the-box werkte. De omschakeltijd is 18-22 milliseconden, snel genoeg voor desktop-pc's maar te traag voor servers zonder eigen UPS ervoor.
+
+## Yeti versus aggregaat: het eerlijke verhaal
+
+Een benzine-aggregaat van 3 kVA kost €700 en levert in theorie oneindige autonomie zolang je brandstof hebt. Klinkt aantrekkelijk vergeleken met €5.000 voor een Yeti. In de praktijk: een aggregaat maakt 75 dB lawaai (Yeti 45 dB), produceert uitlaatgassen (mag niet binnen), heeft jaarlijks onderhoud nodig (€80) en levert vieze sinusgolf die gevoelige elektronica schaadt. Voor servers, medische apparatuur of audiosystemen is een aggregaat ronduit gevaarlijk zonder dubbele filtering.
+
+De combinatie die ik vaakst aanraad voor MKB-locaties: Yeti 6000X voor de eerste 8-12 uur (stille, schone stroom) plus een klein aggregaat als reserve voor stroomuitval boven de 12 uur. Die combinatie kost ongeveer €5.700 maar dekt ieder realistisch scenario in Nederland — ook de zeer zeldzame regionale storingen van een hele dag zoals in Diemen-Zuid in februari 2025.

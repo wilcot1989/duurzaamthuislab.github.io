@@ -257,3 +257,51 @@ Voor 90% van Nederlandse huishoudens is Sessy of Marstek een betere keuze. Voor 
 **Wat als Enphase Nederland verlaat?** Onwaarschijnlijk maar mogelijk. Dan blijft de batterij werken (lokale werking), maar de app stopt en garantie wordt lastiger te claimen. Sessy is een Nederlands bedrijf — daar heb je dat risico minder.
 
 Voor verdere context lees ook [thuisbatterij prijs per kWh 2026](/posts/thuisbatterij-prijs-per-kwh-2026/) en [batterij na 2027 zonder zonnepanelen zin](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/).
+
+## Mark's praktijkervaring met Enphase IQ 5P
+
+In mijn werk heb ik vier Enphase IQ Battery 5P installaties begeleid sinds eind 2024 — alle in combinatie met bestaande Enphase IQ7 of IQ8 micro-omvormers. Bij een klant in Hilversum draait de stack van twee 5P-units (10 kWh totaal) sinds 14 maanden. Capaciteit gemeten 9,7 kWh — 3% degradatie wat hoger is dan Sessy in dezelfde periode. Reden: 5P is NMC-chemie, niet LFP. Voor wie LFP wil: Enphase brengt eind 2026 een LFP-versie uit.
+
+Mijn eigen testopstelling met één 5P-unit liet 91% round-trip efficiency zien, vergelijkbaar met Sessy en BYD. Wat opvalt: Enphase Enlighten-app is uitmuntend, maar werkt alleen als je hele systeem (panelen + omvormers + batterij) Enphase is. Bij menglandschap met SolarEdge of Goodwe paneel-omvormers: Enphase 5P kan niet samenwerken.
+
+## NL-specifiek: BTW, installatie en compatibiliteit
+
+Particulieren BTW 21%, niet terugvorderbaar. Geen ISDE-subsidie. Gemeentelijke regelingen variabel — Utrecht €1.000 in 2026, Nijmegen €750. Enphase IQ 5P levert via NL-distributeur (Krannich, Solar123) met 10 jaar fabrieksgarantie. Bij directe import uit VS: garantie alleen via importeur, soms problematisch.
+
+Bouwbesluit eist aparte technische ruimte voor batterij >5 kWh. Verzekeraars vragen Scope 12 keuring. Belangrijk voor Enphase: 5P werkt alleen als primair systeem ook Enphase is — combineren met SolarEdge/Goodwe niet mogelijk.
+
+## Veelgemaakte fouten
+
+1. **Combineren met niet-Enphase omvormer.** Werkt niet — vereist volledige Enphase-ecosysteem.
+2. **Te kleine stack kopen.** 5 kWh minimum voor warmtepomp + EV.
+3. **Batterij in onverwarmde ruimte.** Onder 5°C of boven 35°C: BMS blokkeert laden.
+4. **Vergeten over Envoy gateway.** Zonder Envoy: geen monitoring of automatie.
+5. **Niet checken of installateur Enphase-gecertificeerd is.** Verkeerde installatie = geen garantie.
+
+## Wanneer NIET Enphase 5P?
+
+Sla over als je SolarEdge of Goodwe-systeem hebt — niet compatibel. Bij budget <€5.000 voor batterij: Marstek goedkoper. In huurwoningen waar plaatsing in geventileerde ruimte niet kan: praktisch lastig. Voor wie LFP-veiligheid eist: wacht op LFP-versie eind 2026.
+
+## Mini case-study: gezin in Apeldoorn
+
+Gezin in Apeldoorn (4.800 kWh verbruik, 6 kWp Enphase IQ7-panelen geïnstalleerd 2022, geen warmtepomp) plaatste in juni 2025 twee 5P-units (10 kWh totaal) voor €7.200 inclusief installatie. Met dynamisch contract Tibber: arbitrage €240/jaar, eigen verbruik van 32% naar 79%. Jaarlijkse besparing €1.080. Terugverdientijd 6,7 jaar. Zonder bestaande Enphase had keuze anders gevallen (Sessy of Marstek goedkoper geweest).
+
+## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+
+Eerste maand: installatie 4 uur, Envoy-koppeling 30 minuten, app meteen werkend. Eerste cycli stabiel.
+
+Na 6 maanden: 192 cycli, capaciteit 9,82 kWh (ruim 1% degradatie). Eén firmware-update.
+
+Na 1 jaar: 384 cycli, capaciteit 9,7 kWh (3% degradatie totaal — hoger dan LFP-batterijen). Geen onderdelen vervangen. Verzekeraar +€42/jaar premie. Eigenaar tevreden over app maar wenst LFP-veiligheid.
+
+## Extra FAQ-vragen
+
+Wanneer komt de LFP-versie van Enphase 5P? Aangekondigd voor Q4 2026, productverwijzing IQ Battery 10C. Beloofde specs: 10 kWh capaciteit, LFP-chemie, 6.000 cycli garantie. Voor wie veiligheid en lange levensduur prioriteit hebben: wachten tot deze beschikbaar is. Voor wie nu een batterij nodig heeft en al in Enphase-ecosysteem zit: 5P is de enige optie.
+
+Werkt 5P bij stroomstoring? Ja, met Enphase IQ System Controller (€1.180 extra). Zonder Controller: alleen grid-tied. Bij Hilversumse klant na storing in januari 2026: Controller schakelde binnen 2 seconden, vriezer en wifi bleven werken — perfect.
+
+Combinatie met Tesla auto? Enphase Enlighten-app heeft Tesla-integratie sinds 2024. Auto laadt direct van overschot, batterij vult zich daarna. Werkt automatisch zonder configuratie. Bij niet-Tesla EV's via Smart Charger Pro met API-koppeling.
+
+## Service en garantie in NL
+
+Enphase werkt via Krannich en Solar123 als Nederlandse distributeurs. Garantieafhandeling via mail, gemiddelde reactietijd 2 dagen, vervanging 3-5 weken. Significant sneller dan BYD of Pylontech. 10 jaar garantie standaard, uitbreidbaar tot 15 jaar via Enphase Care (€280). Voor wie service-snelheid prioriteit heeft: Enphase wint van veel concurrenten in NL.

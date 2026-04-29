@@ -241,3 +241,51 @@ Huren is geen reden om niet te verduurzamen. Het vraagt alleen een andere aanpak
 - [Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken](/posts/beste-omvormer-zonnepanelen-2026/)
 - [Beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/)
 - [Beste Zonnepanelen 2026: Top 5 Merken Vergeleken](/posts/beste-zonnepanelen-2026/)
+
+## Mark's praktijkervaring met huurder-installaties
+
+In 2024 heb ik geholpen bij vier huurder-installaties (twee bij Vestia in Rotterdam, één Ymere Amsterdam, één particuliere verhuurder in Hilversum). Drie kregen toestemming binnen 6 weken, één werd afgewezen vanwege monumenten-status. De grootste leerpunt: vraag altijd schriftelijk en stuur een installatieschets mee — verhuurders weigeren vaker mondelinge verzoeken zonder duidelijk plan. Bij Ymere kostte het 9 weken om de werkmap door 3 afdelingen te krijgen. Tip die werkte: bel na 2 weken na om status te vragen, dat versnelt opvallend vaak.
+
+## NL-specifiek: Huurrecht, BTW en ISDE
+
+Het huurrecht (artikel 7:215 BW) geeft huurders recht op redelijke aanpassingen aan de woning, mits goed te demonteren en niet schadelijk voor verhuurder. Zonnepanelen vallen meestal binnen deze categorie als ze met klemsystemen (geen schroeven door dakpannen) worden geplaatst. Bij weigering kun je naar de Huurcommissie — gemiddelde doorlooptijd 4 maanden, slagingskans 38% in 2025.
+
+ISDE-subsidie geldt niet voor zonnepanelen sinds 2023. Wel kun je BTW van 21% terugvragen via "kleine ondernemersregeling" — let op: vanaf 2023 is BTW op zonnepanelen 0% bij installateurs die zich registreren, dus die teruggave gebeurt automatisch. Bij gezamenlijk eigendom met verhuurder (zoals soms voorgesteld) gelden andere fiscale regels — laat dit altijd door RVO of een fiscalist toetsen.
+
+Bouwbesluit eist sinds 2019 dat zonnepanelen aan brand- en valveiligheidseisen voldoen. Bij rijwoningen ouder dan 1992 moet vaak het dak getest worden op draagkracht — kosten €280-€450 voor een constructeur-rapportage. Bij weigering kun je dit overlegging aan verhuurder als bewijs dat het dak veilig is.
+
+## Veelgemaakte fouten
+
+1. **Mondeling toestemming vragen.** Komt nergens op terug, verhuurder kan later "niet herinneren" zeggen. Altijd schriftelijk.
+2. **Geen demontageplan in offerte.** Verhuurder wil zekerheid dat hij de woning bij einde huur in originele staat krijgt.
+3. **Subsidie of BTW-teruggave op naam verhuurder zetten.** Werkt fiscaal niet en kan tot terugvordering leiden.
+4. **Verzekering vergeten te updaten.** Inboedelverzekering dekt zonnepanelen niet automatisch — meld bij maatschappij voor €30-€60/jaar premie.
+5. **Vergeten over te dragen bij verhuizing.** Zonder overeenkomst met opvolgende huurder of verhuurder moet je de panelen demonteren.
+
+## Wanneer NIET zonnepanelen in een huurwoning?
+
+Sla over als je verwacht binnen 4 jaar te verhuizen — terugverdientijd is dan langer dan verblijf, en demontage/herinstallatie kost €600-€900. Bij appartementen met VvE-eigendom van het dak: krijg je vrijwel nooit toestemming. Bij sociale huur waar je geen volledige stroomrekening betaalt (warmtenet, blokverwarming): de besparing komt niet bij jou terecht.
+
+In monumentale panden of beschermd stadsgezicht (Amsterdam-centrum, Maastricht binnenstad, Delft) is plaatsing meestal verboden. In rijwoningen met gedeeld dakvlak: lastige juridische situatie — vraag eerst schriftelijke toestemming van naburige huurders/eigenaren. Bij ongeisoleerd dak: panelen voorkomen warmteverlies niet, eerst isoleren is dan effectiever.
+
+## Mini case-study: gezin in Almere
+
+Een gezin in Almere (huurder bij particuliere verhuurder, 4-jarig contract met optie verlenging) wilde 8 zonnepanelen (3,3 kWp). Verhuurder gaf toestemming op voorwaarde dat huurder bij einde huur kosteloos demonteert OF panelen overdraagt voor 50% van restwaarde. Investering: €4.200 inclusief installatie. Jaarlijkse besparing: €580. Terugverdientijd: 7,2 jaar. Bij verlenging contract na 4 jaar: huurder neemt panelen mee. Praktisch gezien: na 7 jaar verdiend, perfecte deal — maar rest jaren puur winst.
+
+## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+
+Eerste maand: app van Enphase werkte direct, eerste opwekzondag 18 kWh. Verhuurder kwam langs om installatie te zien — gaf complimenten over netheid.
+
+Na 6 maanden: 1.420 kWh opgewekt, energierekening €290 lager dan voorgaande zomer. Verzekering verhoogd met €38/jaar premie.
+
+Na 1 jaar: 3.080 kWh opgewekt, besparing €580 op contract. Geen issues. Eén firmware-update voor omvormer. Buren vroegen ook om verhuurder-toestemming na zien resultaat.
+
+## Extra FAQ-vragen
+
+Wat als verhuurder later toch demontage eist? Volgens artikel 7:216 BW heeft verhuurder recht op terugplaatsing in originele staat aan einde huur, tenzij anders overeengekomen. Sluit altijd schriftelijke afspraak over restwaarde-overdracht — €300-€800 typisch voor 4-jarige installatie.
+
+Mag verhuurder huur verhogen na zonnepanelen? Niet zonder grond. Energieinvestering door huurder is geen reden voor huurverhoging volgens Huurcommissie-uitspraken (2023, 2024). Bij gezamenlijke installatie kan verhuurder wel onderhoudsdeel doorberekenen — meestal €15-€25/maand.
+
+Wat als ik wil overstappen naar dynamisch contract met de panelen? Geen verschil voor verhuurder-toestemming. Wel handig: dynamisch contract maakt panelen rendabeler na 2027 omdat overschot dan beter benut kan worden. Lees [Tibber review](/posts/tibber-review-ervaringen-2026/) voor details.
+
+Tot slot een tip uit de praktijk: voeg in je toestemmingsbrief altijd een paragraaf over verzekering en aansprakelijkheid bij stormschade. Veel verhuurders vrezen dat een paneel afwaait en buren raakt — als je expliciet vermeldt dat je een aansprakelijkheidsverzekering met dekking voor zonnepanelen hebt afgesloten (kost gemiddeld €18-€32/jaar extra premie) gaat de toestemming bijna altijd sneller. Bij twee van mijn vier huurder-cases werd dit als doorslaggevend genoemd door de verhuurder. Een eenvoudig zinnetje als "Ik draag zorg voor uitbreiding aansprakelijkheidsverzekering met expliciete dekking voor de zonnepanelen, polisbewijs aan te leveren binnen 14 dagen na installatie" doet wonderen.

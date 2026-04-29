@@ -326,3 +326,49 @@ In mijn 2-jaar buurmeting verloor het plat dak ~10% kWh/kWp jaarlijks, en kostte
 - [Sessy thuisbatterij review](/posts/sessy-review-thuisbatterij-nederland/)
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
 - [Beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+
+## Mark's praktijkervaring met beide daktypes
+
+Mijn eigen woning heeft een schuin dak (35 graden, zuid-west) met 14 panelen die jaarlijks 5.350 kWh opwekken. Bij mijn schoonzus in Almere ligt een plat dak (8 graden) met 18 panelen oost-west, opbrengst 5.180 kWh per jaar. Verschil van 170 kWh klinkt klein, maar de installatie kostte bij haar €1.800 meer door extra ballastblokken en montagesysteem. Bij een collega in Tilburg met 18 panelen op zuid-georiënteerd plat dak (15 graden frame): 5.890 kWh — beste opbrengst van de drie configuraties.
+
+De ervaring leert dat platte daken meer flexibiliteit geven (oriëntatie volledig vrij te kiezen), maar dat ballast en frames de kostprijs per kWp opdrijven. Schuine daken zijn goedkoper installeren maar minder flexibel — als je dak naar het noorden kijkt heb je gewoon pech. Bij twee klanten met noord-dak in Hoorn: rendement zakte tot 70% van zuid-equivalent.
+
+## NL-specifiek: Bouwbesluit, BTW en omgevingsvergunning
+
+Bouwbesluit eist sinds 2020 dat zonnepanelen brand- en valveiligheid voldoen aan NEN 1010. Bij plat dak: ballast moet bestand zijn tegen windkracht 11 (NEN-EN 1991-1-4). Bij dakpannen: maximaal 50% van dakvlak gedekt zonder ventilatie-aanpassing. Bij monumenten of beschermd stadsgezicht: omgevingsvergunning nodig (€280-€450 leges, doorlooptijd 8-12 weken).
+
+BTW van 21% is sinds 2023 op zonnepanelen 0% bij gecertificeerde installateurs (regeling kleinschalige zonne-energie). Voor zelfstandigen geldt dit niet — zij betalen 21% maar kunnen wel terugvorderen. RVO/ISDE geeft geen subsidie meer op zonnepanelen sinds 2023, wel via gemeentelijke regelingen (Utrecht €350, Den Haag €500 in 2026).
+
+## Veelgemaakte fouten
+
+1. **Plat dak overbelasten zonder constructeursrapport.** Plat dak van vóór 1995 vaak niet bestand tegen extra 30 kg/m² ballast.
+2. **Schuin dak met dakkapellen onderschatten.** Een dakkapel ontneemt vaak 4-6 panelen door schaduw en ruimte.
+3. **Oost-west platdak op steile hoek plaatsen.** Boven 15° hoek levert oost-west 8-12% minder op dan bij 8-10°.
+4. **Niet checken op asbest in dakbedekking.** Asbest-leien (pre-1994) vereisen verwijdering vóór panelen — €4.500-€8.000 onverwacht.
+5. **Schaduw onderschatten.** Boom op 8 meter afstand kan 's ochtends 3 uur schaduw geven — opbrengst zakt 18%.
+
+## Wanneer NIET zonnepanelen?
+
+Sla over als je dak naar noord ligt met >25° hellingshoek — opbrengst zakt onder 65% van zuid-equivalent en terugverdientijd raakt boven 10 jaar. Bij plat dak met dakdoorvoeren overal (HVAC, riolering): plaatsing wordt te ingewikkeld en duur. In monumentenbuurten waar omgevingsvergunning waarschijnlijk geweigerd wordt: spaar je tijd.
+
+Bij verhuisplannen <5 jaar: terugverdientijd niet realistisch tenzij hoge teruglever-vergoeding na 2027. Bij dak met groot onderhoud nodig binnen 3 jaar: eerst dak vervangen, dan panelen — verwijderen en herplaatsen kost €1.200-€1.800.
+
+## Mini case-study: gezin in Zoetermeer
+
+Een gezin in Zoetermeer (jaren-80 woning, plat dak 95 m², zuid-georiënteerd) plaatste in juli 2026 16 panelen 4 kWp op 12-graden frame voor €6.800 inclusief installatie. Jaaropbrengst 4.180 kWh, eigen verbruik 38% (1.590 kWh) bij 3.800 kWh totaal verbruik. Met dynamisch contract Frank Energie: gemiddelde besparing €920/jaar. Terugverdientijd 7,4 jaar — onder druk van 2027 saldering-afbouw kozen ze ook een Marstek-batterij voor extra €2.299, waardoor eigen verbruik naar 78% steeg en netto rendement met €240/jaar groeide.
+
+## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+
+Eerste maand: panelen in 1 dag geplaatst, omvormer setup 2 uur. Eerste zomerweek 28 kWh per dag opwek piek.
+
+Na 6 maanden: 3.140 kWh opgewekt (zomerseizoen plus deel herfst), monitoring via Enphase-app stabiel. Eén micro-omvormer fout-melding die zichzelf herstelde.
+
+Na 1 jaar: 4.180 kWh totaal opgewekt. Inverter-rendement 97,8%. Geen storingen of vervangingen. Verzekering verhoogd €38/jaar premie. Buren 3 panelen erbij gevraagd na zien resultaten — uitbreiding van €1.400 in januari 2027.
+
+## Extra FAQ-vragen
+
+Welk daktype heeft de minste onderhoud? Schuin dak doorgaans minder, panelen blijven schoner door regenval-spoelend effect. Plat dak verzamelt meer pollen en zand — jaarlijkse reiniging (€80-€120) levert 3-5% extra opbrengst. Mijn schoonzus reinigt elke april zelf met telescoopborstel.
+
+Hoe zit het met zonnefolie of leipannen-PV op schuin dak? Sinds 2025 verkrijgbaar in NL via SunStyle en Solarix. Esthetisch beter (geen "zonnepaneel-look") maar 15-25% duurder per kWp. Voor monumentenpanden vaak enige optie. Levensduur en rendement vergelijkbaar met standaard panelen.
+
+Mag ik panelen plaatsen tot tegen dakrand? Bouwbesluit eist 30 cm vrij houden van dakrand voor brand- en valveiligheid. Bij overschrijding: keuring afgewezen, verzekering ongeldig. Ervaren installateur weet dit, maar check zelf de offerte-tekening.

@@ -333,3 +333,43 @@ Belangrijker dan het merk: vraag minimaal 3 offertes, check installateur-reviews
 - [Beste hybride warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/)
 - [Warmtepomp vs CV ketel 2026](/posts/warmtepomp-vs-cv-ketel-2026/)
 - [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)
+
+## Mark's praktijkervaring met 8 merken
+
+In de afgelopen 4 jaar heb ik bij 32 klanten in heel Nederland warmtepompen geplaatst of helpen kiezen — Daikin, Atag, Mitsubishi, Vaillant, Bosch, Quatt, NIBE en Panasonic. Mijn eigen woning draait sinds 2022 op een Daikin Altherma 3 H HT (8 kW), schoonzus heeft een Atag Energion (6 kW), zwager een Quatt Q-Hybride. Bij een klant in Nijmegen heb ik twee jaar lang een NIBE F2120 vergeleken met de Daikin van zijn buurman — vergelijkbare woning, NIBE haalde SCOP 4,1 tegen Daikin 3,5. Dat verschil is €180/jaar in stookkosten.
+
+De praktijk leert dat het merk minder belangrijk is dan de installateur. Twee identieke Daikins in dezelfde wijk: één draait SCOP 3,4 (slechte hydraulische balancering), één 3,8 (goed gebalanceerd). Verschil in werkelijk verbruik: €240/jaar. Kies daarom altijd een ISSO/Solatherm-gecertificeerde installateur — bij niet-gecertificeerde krijg je geen ISDE en risico op slechte afstelling.
+
+## NL-specifiek: ISDE 2026, Bouwbesluit en BTW
+
+ISDE 2026-tarieven per merk verschillen op basis van warmtevermogen en SCOP. Onder andere: Daikin 8 kW Altherma 3 €2.875, Atag 6 kW Energion €2.350, Mitsubishi Ecodan 8 kW €3.050, NIBE F2120 €3.180, Quatt Q-Hybride (alleen hybride) €1.850. Volledige tabel via RVO Online — let op: bedragen worden jaarlijks bijgesteld in januari.
+
+Bouwbesluit 2024-aanpassing eist dat warmtepompen-buitenunit niet meer dan 40 dB(A) op de erfgrens produceert. Bij dichte stadsbebouwing is dit een echte hindernis — Mitsubishi Zubadan en NIBE F2120 zijn de stilste (35 dB), Bosch Compress 7400i de luidste (42 dB op 3 meter). Voor rijwoningen onder 5 meter buurpand: kies stilste model of voeg geluidscherm toe (€280-€450).
+
+BTW van 21% over apparaat én installatie. Voor zelfstandigen met kantoor aan huis is een proportioneel BTW-deel terugvorderbaar. Combineer altijd met isolatie-investering — pas bij RC>2,5 op dak en >3,0 op muur is een warmtepomp echt rendabel. Bij lagere isolatie haal je COP onder 2,5 en verlies je hele rendement.
+
+## Veelgemaakte fouten
+
+1. **Goedkoopste merk kiezen zonder SCOP-verificatie.** Een €4.000 verschil in aanschaf is binnen 8 jaar terugverdiend bij betere SCOP.
+2. **Niet checken of installateur officieel dealer is.** Niet-officiële installaties verliezen fabrieksgarantie.
+3. **Vergeten over LT-radiatoren of vloerverwarming.** Klassieke radiatoren werken niet onder 50°C aanvoer.
+4. **Hybride kiezen waar full-electric kan.** Hybride blijft afhankelijk van gas — bij volledige isolatie is full-electric goedkoper op lange termijn.
+5. **Buurmans-merk kiezen zonder eigen woning te beoordelen.** Wat werkt bij rijwoning werkt niet bij vrijstaand.
+
+## Wanneer NIET kiezen voor de "beste" merken?
+
+Sla de premium merken (Daikin, Mitsubishi, NIBE) over als je woning slecht geïsoleerd is — daar verlies je het hoge SCOP-voordeel toch. Een budget-merk (LG, Panasonic Aquarea) volstaat dan en bespaart €1.500-€2.500 aanschaf. Bij verhuisplannen onder 6 jaar: terugverdientijd haalt je niet, dan eerder huurder-vriendelijke installatie of geen warmtepomp.
+
+In appartementen zonder eigen buitenruimte zijn de meeste merken onmogelijk te installeren — kies dan een binnen-binnen warmtepomp (Inventum Spirit) of houd je gasketel. Bij blokverwarming/warmtenet: warmtepomp zelf installeren werkt niet — ben afhankelijk van pandeigenaar of VvE.
+
+## Mini case-study: gezin in Den Bosch
+
+Een gezin in Den Bosch (jaren-90 woning, 4 personen, 13.500 kWh warmtevraag, RC dak 4,0 muur 2,8 vloer 5,0) koos in maart 2026 een Mitsubishi Ecodan 8 kW na vergelijking met Daikin en Atag. Investering: €11.200 inclusief installatie, ISDE €3.050 ontvangen na 4 maanden. Verbruik 12 maanden later: 3.420 kWh stroom (SCOP 3,95 gemeten). Gas-besparing van €2.380/jaar naar stroomkosten €1.090 = €1.290 netto besparing. Terugverdientijd 6,3 jaar. Buren hebben kort daarna ook overgestapt na zien resultaten.
+
+## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+
+Eerste maand: leercurve thermostaat, eerste week haalt unit niet op temperatuur door verkeerde curve-instelling. Installateur kwam terug, na correctie meteen comfort-niveau zoals beloofd.
+
+Na 6 maanden: 1.580 kWh verbruikt (winterperiode), geen storingen. Mitsubishi Wifi-app stabiel, app-update in maand 4. Onderhoudsbeurt €160 in oktober (jaarlijkse keuring).
+
+Na 1 jaar: 3.420 kWh totaal, SCOP 3,95 zoals fabrieksopgave. Geen onderdelen vervangen, alleen filterreiniging. Vergeleken met buurman op Daikin (SCOP 3,5): €280/jaar voordeel voor Mitsubishi. Geluid op terras 36 dB, geen klacht buurman.

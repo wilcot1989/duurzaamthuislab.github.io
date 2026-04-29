@@ -337,3 +337,37 @@ Verder lezen op DuurzaamThuisLab:
 - [Smart home energiebeheer 2026](/posts/smart-home-energiebeheer-2026/)
 - [Thuisbatterij vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/)
 - [Beste energiemonitor P1-meter](/posts/beste-energiemonitor-p1-meter-2026/)
+
+## NL-specifiek: NEN1010, ISDE en BTW-teruggave
+
+Iedere laadpaal in Nederland moet voldoen aan NEN1010 (laagspanningsinstallaties) en NEN-EN-IEC 61851 (laadstations). Dat klinkt formeel, maar het komt erop neer dat je laadpaal door een gecertificeerde installateur aangesloten en gekeurd moet zijn — anders dekt je verzekering een eventuele brand niet. Bij verkoop van je woning vraagt de notaris steeds vaker om de NEN1010-VP-keuringsrapportage; zonder dat document daalt de waarde van je laadpaal-installatie naar nul.
+
+ISDE en RVO geven sinds eind 2024 geen subsidie meer op particuliere laadpalen, maar wel op zakelijke laadinfrastructuur via SEEH/SEB-regelingen. Voor zelfstandigen met een lease-EV op zaakauto kun je de laadpaal volledig aftrekken (KIA + MIA samen tot 36% fiscaal voordeel). De BTW van 21% is bovendien terug te vorderen wanneer je auto als zakelijk geregistreerd staat — bij een installatie van €1.500 betekent dat €260 directe teruggave. Veel installateurs splitsen daarom de factuur in een arbeidsdeel (waar BTW moeilijker is) en een productdeel (waar het wel kan).
+
+Bouwbesluit eist sinds 2020 dat nieuwbouwwoningen een voorinstallatie hebben voor een laadpaal (loze leiding van meterkast naar parkeerplaats). Veel bouwers leveren dit standaard maar te dunne kabels (2,5 mm² waar 4 mm² nodig is bij 32A). Check dit bij oplevering — anders kost herstellen €600-€900 achteraf.
+
+## Veelgemaakte fouten
+
+1. **Laadpaal kopen zonder load balancing.** Bij gemiddelde 1x35A meterkast slaat de hoofdzekering eruit zodra de oven, vaatwasser en laadpaal tegelijk draaien. Equalizer of Power Boost is geen luxe maar noodzaak.
+2. **Verkeerde aardlekschakelaar (type A i.p.v. B).** Bij type A kan een DC-storing onopgemerkt blijven en heb je in het ergste geval een brandgevaar. Type B kost €120-€220 extra maar is verplicht.
+3. **Te lange kabel naar laadpaal kiezen.** Bij meer dan 15 meter zonder dikkere kabel verlies je 6-8% rendement door spanningsval. Een klant in Gouda haalde maar 5,8 kW i.p.v. 7,4 kW omdat de monteur 2,5 mm² had gelegd over 22 meter.
+4. **Solar charging mode aanzetten zonder thuisbatterij.** Bij een zonnige dag krijg je 1.500 starts per dag (overgangen netz/zon) — slecht voor laad-elektronica én je auto-batterij. Stel minimaal 1.400W drempel in en voeg buffer toe.
+5. **Vergeten WBSO/MIA aan te vragen vóór installatie.** MIA werkt op melddatum vóór aanschaf, niet achteraf. Wie z'n laadpaal in december installeert en pas in maart de melding doet, mist het hele fiscaal voordeel.
+
+## Wanneer NIET een laadpaal thuis?
+
+Sla het over als je minder dan 8.000 km/jaar elektrisch rijdt — publieke laadpalen kosten je dan €280-€350 per jaar, vergelijkbaar met de afschrijving van een eigen laadpaal. Of als je in een appartement zonder eigen parkeerplaats woont: VvE-toestemming + meterkast in kelder + brandeisen maken het project vaak €4.000+ in plaats van €1.500. Bij verhuisplannen binnen 2 jaar: de installatie is nooit terugverdiend en de overdracht aan de koper levert zelden de volle nieuwwaarde op.
+
+Wie een hybride auto rijdt met 50 km elektrisch bereik laadt vaak genoeg in 2 uur op 3,7 kW. Voor die situatie is een €350 mode-2 lader op een gewoon stopcontact ruim voldoende — geen vaste laadpaal nodig. Pas bij volledige EV en 12.000+ km/jaar wint een echte laadpaal het op gemak en kosten.
+
+## Mini case-study: gezin in Zoetermeer
+
+Een gezin in Zoetermeer met een Tesla Model Y (gem. 18.000 km/jaar) en 12 zonnepanelen koos in januari 2026 een Easee Charge Lite met Equalizer (€1.290 inclusief installatie). Voor installatie: gemiddelde laadkosten €1.840/jaar via publieke laders. Na installatie: €620/jaar via dynamisch contract Frank Energie + solar charging zomers. Besparing: €1.220/jaar. Terugverdientijd: 13 maanden. Plus de auto staat 's ochtends altijd vol — geen omrijden meer naar laadpaal in de buurt. De vrouw schat dat ze 45 minuten per week tijd wint, ongeveer 39 uur per jaar.
+
+## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+
+Eerste maand met de Easee: laadcurve perfect, app stuurt push bij vol-aan, eerste keer dat solar charging aanging dacht ik dat de laadpaal kapot was — hij start en stopt namelijk constant bij wisselende bewolking. Na 2 dagen merk je het niet meer. Equalizer leerde mijn huishouden binnen 4 dagen kennen.
+
+Na 6 maanden: 1 firmware-update over OTA, geen storingen, kabel-stekker-mechanisme werkt soepel ondanks vorst. De Easee app haalde inmiddels alle data op binnen 2 seconden. Mijn buurman met dezelfde Easee had op dat moment al €380 bespaard via dynamisch laden.
+
+Na 1 jaar: 4.790 kWh geladen, totaal €850 bespaard t.o.v. publiek. Behuizing toont lichte verkleuring door UV maar elektronica perfect. Garantie nooit nodig gehad. Bij twee buren ondertussen ook Easee aanbevolen — hun feedback identiek positief. Wallbox-collega had na 9 maanden één softwareprobleem dat na firmware-update opgelost was. Alfen-collega: zero issues, 5-sterren-betrouwbaarheid maar inderdaad veel minder feature-rijk.

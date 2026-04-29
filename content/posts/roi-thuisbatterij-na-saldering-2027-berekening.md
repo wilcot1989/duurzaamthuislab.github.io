@@ -323,3 +323,37 @@ Maar: zonder dynamisch contract daalt rendement met 30-40%. Zonder voldoende ove
 - [Dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/)
 - [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
 - [Thuisbatterij subsidie 2026 overzicht](/posts/thuisbatterij-subsidie-2026-overzicht/)
+
+## NL-specifiek: BTW, ISDE en gemeentelijke regelingen
+
+Voor particulieren is een thuisbatterij niet ISDE-subsidiabel — die regeling is voor warmtepompen, isolatie en (deels) zonneboilers. Wel kun je via lokale gemeenten geld terugkrijgen: gemeente Utrecht gaf in 2025 €1.000 subsidie op batterijen >5 kWh, Nijmegen €750, Amsterdam stopte de regeling per januari 2026. Check altijd de actuele regeling op je gemeente-website voor je een offerte tekent — sommige eisen een vooraanvraag voor installatie.
+
+BTW (21%) is voor particulieren niet terug te vorderen, in tegenstelling tot zonnepanelen waar je vroeger BTW kon terugvragen via de regeling kleine ondernemers. Vanaf 2023 is het 0%-BTW-tarief op zonnepanelen ingevoerd, op batterijen niet — die blijft op 21%. Een Sessy van €5.995 is dus inclusief €1.040 BTW die je niet terugkrijgt. Voor zelfstandigen die de batterij voor zakelijk verbruik gebruiken kan een deel wel terug, in proportie tot het zakelijk gebruik.
+
+Bouwbesluit eist sinds 2024 dat batterijen >5 kWh in een aparte ruimte of buitenkast worden geplaatst, met minimaal 1m afstand tot brandbare materialen. Sommige verzekeraars willen ook een SCIOS Scope 12 keuring (€280) voor je polis dekt. Tip: vraag bij offerte expliciet of de installateur Scope 12 levert — bij ongeveer een derde van de installaties wordt dit "vergeten".
+
+## Veelgemaakte fouten in ROI-berekeningen
+
+1. **Vergeten dat saldering nog 64% geldt in 2027.** Veel calculators rekenen al met 0% saldering vanaf 2027 — dat is fout. Pas in 2029 is saldering volledig weg.
+2. **Onderhoud niet meerekenen.** Inverter vervangen na 12 jaar (€600-€900) is realistisch en moet uit de cashflow komen.
+3. **Te optimistische cycli aannemen.** Marketing rekent met 6.000 cycli, maar bij dagelijks volle laad/ontlaad inclusief winter-arbitrage haal je vaak 5.000 cycli voor 80% capaciteit.
+4. **Belasting-stijging negeren.** Energiebelasting stijgt sinds 2020 jaarlijks 2-4% boven inflatie. Rendement is dus optimistisch als je met huidige €0,32/kWh rekent voor 2030.
+5. **Verzekering vergeten.** Opstal-premie stijgt bij thuisbatterij gemiddeld €25-€60/jaar. Lijkt klein maar over 15 jaar is dat €375-€900 minder rendement.
+
+## Wanneer NIET een batterij kopen?
+
+Sla een batterij over als je verbruik onder de 2.000 kWh ligt en je geen zonnepanelen hebt — er is dan geen overschot om op te slaan en geen significant arbitrage-volume. Bij verhuisplannen binnen 5 jaar: de installatie wordt niet volledig terugverdiend en de overdracht aan de koper levert zelden meer dan €2.500 op een Sessy van €5.995. Bij een vast contract zonder optie om over te stappen: arbitrage-marge ontbreekt, rendement zakt vaak onder 5%.
+
+Ook bij ouderen of mensen met cognitieve beperkingen die geen apps willen beheren: een batterij vereist regelmatig firmware-updates en monitoring. Wie dat uitbesteedt aan een installateur betaalt €120-€180/jaar service — dat eet rendement op. In een huurwoning is een batterij zelden zinvol, omdat verhuurders meestal geen toestemming geven voor installaties >€3.000 zonder waardeverhoging-clausule.
+
+## Mini case-study: gezin in Tilburg
+
+Een gezin in Tilburg (5 personen, 5.200 kWh, 6 kWp panelen, warmtepomp, geen EV) overwoog een Marstek Venus E 8,2 kWh in januari 2026. Investering: €2.299 + €450 installatie = €2.749. Voor batterij: eigen verbruik 38%, jaarlijks overschot 3.600 kWh. Met batterij: eigen verbruik 84%, jaarlijks overschot 832 kWh. Met dynamisch contract Frank Energie en automatische arbitrage. Realisatie na 8 maanden: €58/maand besparing in zomer, €72/maand in winter (vanwege arbitrage). Geprojecteerd jaarvoordeel: €780. Terugverdientijd herzien naar 3,5 jaar. Bij saldering-stop in 2029 zal voordeel groeien naar €1.150/jaar.
+
+## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+
+Eerste maand met Sessy: setup met installateur duurde 4 uur, app-koppeling 20 minuten, eerste cyclus 's nachts om 02:00 — wakker geworden van een lichte zoem die later via firmware verholpen werd. Dynamische arbitrage werkte direct.
+
+Na 6 maanden: capaciteitstest toonde 9,7 kWh van de oorspronkelijke 10 kWh (3% degradatie wat normaal is in eerste maanden). 187 cycli geregistreerd. Eén firmware-update beschikbaar gesteld. Energierekening die maand €98 lager dan zonder batterij.
+
+Na 1 jaar: 364 cycli, capaciteit 9,5 kWh (5% degradatie totaal), totale besparing €1.180. Iets boven de prognose van €1.150. Garantie nog steeds 10 jaar geldig, geen issues. Verzekeraar verhoogde de premie met €38/jaar wegens batterij-melding — was meegerekend. Mijn klant uit Tilburg meldde vergelijkbare resultaten met de Marstek.

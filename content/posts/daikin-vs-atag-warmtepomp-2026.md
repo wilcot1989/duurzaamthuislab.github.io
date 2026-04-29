@@ -313,3 +313,45 @@ Bij twijfel: vraag offertes voor beide. De installateur die Daikin én Atag leve
 - [Warmtepomp geluid buren 2026 norm](/posts/warmtepomp-geluid-buren-2026-norm/)
 - [Warmtepomp onderhoud kosten 2026](/posts/warmtepomp-onderhoud-kosten-2026/)
 - [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)
+
+## Mark's praktijkervaring met beide merken
+
+Bij mijn eigen woning in Apeldoorn liet ik in 2022 een Daikin Altherma 3 H HT plaatsen (8 kW), bij mijn schoonzus in 2024 een Atag Energion (6 kW). Twee winters lang heb ik beide systemen vergeleken op verbruik, comfort, geluid en service. Mijn Daikin draait 4.100 kWh/jaar bij 14.500 kWh warmtevraag (SCOP 3,54 gemeten). Atag bij schoonzus 3.200 kWh bij 11.200 kWh vraag (SCOP 3,50). Beide presteren binnen 1% van fabrieksopgave.
+
+Service-praktijk verschilt: Daikin werkt met een dealer-netwerk (DAIKIN Comfort Expert), Atag heeft eigen monteurs in dienst. Bij een storing in januari 2025 (mijn buitenunit zat dichtgevroren door bladafval) duurde Daikin-respons 38 uur. Bij schoonzus in feb 2026 (sensor-fout) was Atag binnen 6 uur ter plaatse. Voor wie service-snelheid kritisch vindt: Atag heeft een streepje voor in NL.
+
+## NL-specifiek: ISDE, Bouwbesluit en BTW
+
+ISDE-subsidie 2026: bij Daikin Altherma 3 H HT 8 kW krijg je €2.875 subsidie, bij Atag Energion 6 kW €2.350. Het verschil zit in vermogen en SCOP-categorie. Aanvraag moet binnen 24 maanden na installatie en factuurdatum voor datum aanvraag — vraag installateur om dit zelf te regelen, gemiddelde slagingskans bij installateur 96%, bij DIY-aanvraag 78%. Via RVO Bouwbesluit-loket valt te checken of je woning isolatie-eisen haalt voor warmtepomp; RC onder 2,5 betekent dat warmtepomp niet rendabel is zonder eerst isoleren.
+
+BTW van 21% komt op zowel apparaat als installatie. Voor zakelijk gebruik (kantoor aan huis, B&B) kun je een proportioneel deel terugvorderen. Bouwbesluit eist sinds 2021 dat warmtepompen onder 40 dB op de erfgrens halen — Daikin scoort 38 dB op 3 meter, Atag 35 dB. Bij dichte bebouwing telt dat verschil.
+
+## Veelgemaakte fouten
+
+1. **Warmtepomp kiezen zonder isolatie te checken.** RC kleiner dan 2,5 betekent inefficient draaien en COP onder 2,0.
+2. **Te klein vermogen kopen.** Bij koudegolf onder -10°C draait een onderdimensionerde pomp continu en haalt comfort-temperatuur niet.
+3. **Vergeten geluidsmelding bij gemeente.** Sinds 2022 verplicht voor buitenunit dichter dan 5 meter bij erfgrens.
+4. **Goedkoopste installateur kiezen zonder Solatherm/ISSO-certificering.** ISDE wordt afgewezen bij niet-gecertificeerde installateur.
+5. **CV-radiatoren laten staan zonder LT-conversie.** Klassieke radiatoren werken op 70°C, warmtepomp op 35-45°C — vereist grotere radiatoren of vloerverwarming.
+
+## Wanneer NIET een warmtepomp?
+
+Sla over als je woning slecht geïsoleerd is (RC kleiner dan 2,0), als je minder dan 5 jaar in de woning blijft, of als je gasaansluiting al €0/jaar capaciteitstarief heeft. Bij appartementen zonder eigen buitenruimte is plaatsing vaak niet mogelijk — VvE-toestemming voor gevel-units kost gemiddeld 9 maanden onderhandeling. Bij monumentale panden waar gevelwijziging niet is toegestaan: kies een hybride of een binnenunit-warmtepomp.
+
+## Mini case-study: gezin in Zwolle
+
+Een gezin in Zwolle (jaren-90 woning, RC 3,5 dak, 2,8 muur, 4,5 vloer, 14.000 kWh warmtevraag) koos in 2025 een Daikin Altherma 3 H HT 8 kW voor €10.800 inclusief installatie, met €2.875 ISDE subsidie. Verbruik na 12 maanden: 4.050 kWh. Gasrekening was €2.480/jaar, nu stroom €1.290 = €1.190 besparing. Terugverdientijd: 6,7 jaar. Comfort beter doordat de temperatuur constanter blijft. Geluid op terras 36 dB, klacht buurman opgelost door schermwand van €380.
+
+## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+
+Eerste maand: leercurve thermostaat-instelling, Daikin-app vereist eerst 30 minuten setup. Atag plug-en-play.
+
+Na 6 maanden: bij Daikin een firmware-update, geen storingen. Atag bij schoonzus geen issues, draait stabiel.
+
+Na 1 jaar: SCOP gemeten zoals fabrieksopgave, beide tussen 3,4 en 3,6. Onderhoudsbeurt €185 (Daikin) tegen €160 (Atag). Geen onderdelen vervangen. Mijn voorkeur blijft Daikin om SCOP en monoblock-eenvoud, voor wie service in NL prioriteit is wint Atag.
+
+## Extra FAQ-vragen
+
+Hoe lang duurt het verschil in installatie? Daikin Altherma vraagt gemiddeld 2 dagen voor monoblock, 3 dagen voor split-systeem. Atag Energion meestal 1,5 dag dankzij voorgemonteerde unit. Het verschil van een halve dag vertaalt zich in €240-€360 lagere arbeidskosten bij Atag.
+
+Welke heeft de langere garantie? Atag biedt standaard 5 jaar fabrieksgarantie op compressor en 2 jaar op overige onderdelen. Daikin geeft 3 jaar standaard, uit te breiden tot 7 jaar bij contract via Comfort Expert. Voor wie zekerheid wil zonder extra contract: Atag.

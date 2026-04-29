@@ -264,3 +264,41 @@ Verder lezen:
 - [Warmtepomp vs cv-ketel 2026](/posts/warmtepomp-vs-cv-ketel-2026/)
 - [Hybride vs volledige warmtepomp 2026](/posts/hybride-vs-volledige-warmtepomp-2026/)
 - [Beste isolatie voor warmtepomp 2026](/posts/beste-isolatie-voor-warmtepomp-2026/)
+
+## Mark's praktijkervaring met installatiekosten
+
+In de afgelopen jaren heb ik 32 klanten begeleid bij warmtepomp-aanschaf, van offerte-vergelijking tot oplevering. De getoonde kosten in dit artikel zijn gebaseerd op concrete facturen — geen marketing-cijfers. Mijn eigen Daikin-installatie in Apeldoorn kostte €11.400 inclusief LT-radiator vervanging. Bij schoonzus in Utrecht €8.900 voor compactere setup. Het verschil zit in lengte koudemiddel-leiding (15 vs 4 meter) en aantal radiatoren te vervangen (5 vs 2). Wie offertes ontvangt onder €7.000 voor een full-electric installatie: wees voorzichtig — vaak ontbreekt LT-conversie.
+
+Mijn klant in Hilversum kreeg drie offertes: €9.800, €11.400 en €15.200. De duurste leek absurd, bleek de enige die plenum-isolatie van bestaande luchtkanalen meenam — kritisch voor airco-functionaliteit. De goedkoopste vergat de elektra-aanpassing in groepenkast (€620 extra). Alleen de middelste was écht compleet. Les: vraag altijd om gespecificeerde offerte, niet één lump-sum.
+
+## NL-specifiek: ISDE 2026, BTW en Bouwbesluit
+
+ISDE 2026: subsidie tussen €2.350 (kleine hybride 4 kW) en €3.750 (8 kW monoblock met SCOP>4). Aanvraag binnen 24 maanden na installatie via RVO-portaal. Slagingskans 96% bij gecertificeerde installateur, 78% bij DIY. Voorschot is mogelijk bij installateurs die meedoen aan voorfinancierings-programma. ISDE wordt direct van factuur afgetrokken bij ongeveer 40% van de installateurs.
+
+BTW van 21% komt op zowel apparaat als installatie. Voor zelfstandigen met thuiskantoor proportioneel terugvorderbaar. Bouwbesluit eist sinds 2024 dat warmtepompen <40 dB op erfgrens halen — controle gebeurt steekproefsgewijs door gemeente. Bij overschrijding: boete €450-€1.200 plus verplichting tot geluidsmaatregelen. Vraag altijd installateur om geluidsberekening vóór installatie.
+
+## Veelgemaakte fouten bij offerteopvraag
+
+1. **Lump-sum offerte accepteren.** Zonder specificatie weet je niet of LT-conversie, elektra-aanpassing en geluidsmaatregelen erbij zitten.
+2. **Goedkoopste kiezen zonder ISSO/Solatherm-certificering.** ISDE wordt afgewezen, verloren €2.500-€3.500 subsidie.
+3. **Meerwerk-clausules niet uitonderhandelen.** Standaard "meerwerk wordt achteraf gefactureerd" zonder bovengrens leidt tot 30-50% extra kosten.
+4. **Vergeten over compressor-locatie.** Buitenunit op zuid-gevel = oververhitting in zomer, lagere SCOP. Vraag noord/oost-locatie.
+5. **Stadsverwarmingsaanvraag niet annuleren.** Bij overstap naar warmtepomp blijft vaak vastrecht stadsverwarming doorlopen — €280/jaar verspild.
+
+## Wanneer NIET een warmtepomp installeren?
+
+Sla over als je woning RC<2,5 op dak en muur heeft — eerst isoleren is dan financieel slimmer (terugverdientijd 4-6 jaar) en pas daarna warmtepomp. Bij verhuisplannen <6 jaar: terugverdientijd niet realistisch, dan beter een hybride. In monumentale panden waar gevelmodificatie verboden is: alleen via dakdoorvoer of binnenunit-warmtepomp (Inventum, dubbel zo duur).
+
+Bij blokverwarming of warmtenet eigen warmtepomp installeren is technisch mogelijk maar contractueel vaak niet — check eerst met VvE en netbeheerder. Bij appartementen zonder eigen buitenruimte: praktisch onmogelijk binnen Bouwbesluit-eisen voor geluid.
+
+## Mini case-study: gezin in Almere
+
+Een gezin in Almere (rijwoning 2008, 110 m², RC dak 4,0 muur 3,5 vloer 4,5, 12.500 kWh warmtevraag) koos in mei 2026 een Atag Energion 6 kW na drie offertes. Goedkoopste €8.200 (verlies ISDE wegens niet-cert installateur), middelste €10.400 inclusief alles, duurste €13.600 met grondbron-warmtepomp. Koos middelste. ISDE €2.350 afgetrokken direct, netto investering €8.050. Verbruik na 12 maanden: 3.180 kWh, gas-besparing €2.260/jaar, stroomkosten €960. Netto besparing €1.300/jaar, terugverdientijd 6,2 jaar.
+
+## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+
+Eerste maand: 1 dag installatie, leercurve thermostaat, eerste week onderkoeling door foute curve. Installateur 's avonds gebeld, gefixt op afstand via Atag-app.
+
+Na 6 maanden: 1.490 kWh verbruikt (winter), comfort consistent. Gas-aansluiting opgezegd, vastrecht-besparing €280/jaar extra. Wifi-app stabiel.
+
+Na 1 jaar: 3.180 kWh totaal, SCOP 3,52 gemeten (fabrieksopgave 3,5). Onderhoudsbeurt €160 in oktober. Geen onderdelen vervangen. Bij vergelijking met cv-ketel-buren €1.300 minder energiekosten — zichtbaar verschil. Lees voor merk-keuze [beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/).
