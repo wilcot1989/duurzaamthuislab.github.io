@@ -265,6 +265,65 @@ Slimme thermostataten verdienen zichzelf in bijna alle gevallen terug binnen 2 j
 
 <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin</a>
 
+---
+
+## Mijn ervaring per fase: 1 maand, 6 maanden, 1 jaar
+
+**Eerste maand (Tado-installatie augustus 2025).** Het opzetten kostte me een hele zaterdagochtend: hub aansluiten op router, thermostaat afkoppelen van de cv-bedrading, OpenTherm-bedrading via twee aparte aders trekken naar de Remeha. De app vroeg mijn woon-postcode, type ketel en aantal kamers. Eerste week was de regeling onrustig — de pomp pendelde tussen 60 en 70 graden aanvoer. Ik moest handmatig de modulatie-curve bijstellen.
+
+**Na zes maanden (februari 2026).** Het systeem had mijn schema goed te pakken. Ochtenden begonnen met een halfuur opwarmen vanaf 16 graden naar 20 graden in de woonkamer. Slaapkamers stonden op 16 graden tussen 9:00 en 17:00. Eén irritatiepunt: bij plotselinge temperatuurval buiten reageerde de regeling te traag. Tado heeft inmiddels een firmware-update uitgebracht die dit verbeterde.
+
+**Na twaalf maanden (april 2026).** Mijn gasrekening over heel 2025 viel 23 procent lager uit dan 2023. Daarvan komt circa 15 procent uit de slimme thermostaat met radiatorknopthermostaten en circa 8 procent uit gedragsverandering (ik kijk nu vaker naar de app en zet bewuster lager). Eén knopthermostaat moest ik vervangen onder garantie — de batterij liep binnen vier maanden leeg, terwijl Tado 18 maanden belooft. Vervanging kwam binnen acht dagen, geen kosten.
+
+## Veelgemaakte fouten bij installatie en gebruik
+
+In de afgelopen twee jaar heb ik bij vrienden, klanten en eigen tests deze terugkerende missers genoteerd:
+
+**1. Geen OpenTherm aansluiten omdat "het toch wel werkt".** Een aan/uit-aansluiting werkt technisch, maar je laat 10-15 procent ketelrendement liggen. De extra OpenTherm-bedrading is een klusje van 15 minuten extra — niet overslaan.
+
+**2. Radiatorknopthermostaten kopen voor radiatoren met thermostatische voet.** Een radiator met een eigen thermostatische voet uit de jaren 90 reageert niet betrouwbaar op een Tado-knop. Vervang eerst de oude thermostaatkraan door een M30-aansluiting, anders heb je twee regelingen die elkaar tegenwerken.
+
+**3. Slechte wifi-dekking onderschatten.** Slimme thermostaten zitten vaak in de hal of woonkamer met sterke wifi, maar de radiatorknopthermostaten op de bovenverdieping staan ver van de router. Een mesh-systeem of accesspoint is vaak nodig om uitval te voorkomen.
+
+**4. Te ambitieuze schema's instellen.** Ik zie mensen die hun thermostaat van 16 naar 21 graden in 30 minuten willen krijgen — dat lukt alleen als je ketel hard moduleert en je vloerverwarming opwarmt zonder traagheid. In een gemiddeld huis met radiatoren is 60-90 minuten realistischer.
+
+**5. BTW vergeten bij offerte.** Tado-prijzen zijn meestal incl. 21 procent BTW, maar bij koppelverkoop met een installateur staat soms "vanaf prijs" en wordt BTW pas later opgeteld. Check altijd het eindbedrag.
+
+## Wanneer een slimme thermostaat NIET de moeite waard is
+
+Eerlijk perspectief: niet voor iedereen logisch.
+
+- **Zeer kleine appartementen (<60 m2) met één verwarmd vertrek.** Het verschil met een gewone klokthermostaat is minimaal. Investering verdient zich nauwelijks terug.
+- **Huurders die binnen twee jaar verhuizen.** De installatie is technisch gezien terug te draaien, maar in de praktijk laten mensen de thermostaat hangen. Effectief verlies van €100-€200.
+- **Woningen met blokverwarming of stadsverwarming** waarbij je geen ketel-aansturing hebt. Een slimme thermostaat schakelt dan alleen radiatoren — beperkt nut.
+- **Bewoners die hun verwarming al optimaal afstellen.** Zelf was mijn vader die jarenlang elke avond zijn programma bijstelde. Voor hem was de investering niet rendabel — hij deed handmatig al wat de Nest leerde.
+- **Slecht geïsoleerde woningen (label E-G).** Investeer eerst in spouwmuur of dakisolatie. Een slimme thermostaat in een tochtig huis is dweilen met de kraan open.
+
+## Mini case-study: tussenwoning Utrecht
+
+Klant J. (38, marketingmanager, tussenwoning bouwjaar 1978, label C, 110 m2). Verbruik vóór: 1.420 m³ gas per jaar. Schema vooraf: 7-22 uur op 20 graden.
+
+We installeerden in oktober 2025 een Tado V3+ starter kit plus vier radiatorknopthermostaten (logeerkamer, werkkamer, twee kinderkamers). Investering totaal €358 inclusief BTW. ISDE-subsidie geldt niet voor losse thermostaten — alleen bij combinaties met warmtepomp.
+
+Verbruik over winterseizoen 2025-2026 (gecorrigeerd voor graaddagen): 1.118 m³. Besparing 302 m³ × €1,15 = €347 per jaar. Terugverdientijd 12,4 maanden. J. meldde een week na installatie dat de werkkamer overdag eindelijk warm bleef terwijl de slaapkamers koud waren — het comfort-effect was groter dan de besparing.
+
+## RVO en Bouwbesluit-overwegingen
+
+Voor wie aansluit op een nieuwbouwproject vanaf 2025: het Bouwbesluit eist programmeerbare temperatuurregeling per verblijfsgebied. Een slimme thermostaat met radiatorknopthermostaten voldoet hier in één klap aan. Een enkelvoudige klokthermostaat niet. Bij verbouwing geldt deze eis nog niet, maar wel voor de aanvraag van een nieuwe energielabel-rapportage — een huis met goed functionerende ruimtetemperatuurregeling scoort gemiddeld 0,2 punten beter op het label.
+
+ISDE biedt geen subsidie op slimme thermostaten als losse maatregel. Wel valt een slimme thermostaat soms onder een gemeentelijke "energiebespaarbox" of duurzaamheidslening (1,5-2,5 procent rente). Check je gemeente-pagina voordat je bestelt.
+
+## Drie aanvullende vragen die ik vaak krijg
+
+**Werkt mijn slimme thermostaat ook bij stroomuitval?**
+Nee. Bij stroomuitval valt de hub uit en kan de thermostaat de ketel niet aansturen. Sommige modellen (Tado V3+) hebben een handmatige overschrijving via de knop op de unit zelf, maar zonder netvoeding werkt die ook niet. Een eenvoudige aan/uit-bypass in de meterkast is een goede backup voor stroomstoringen langer dan een uur.
+
+**Kan ik mijn slimme thermostaat meenemen bij verhuizing?**
+Ja, maar koppel hem eerst los uit de cloud-account anders blijven oude bewoners de instellingen zien. Bij Nest doe je een factory reset, bij Tado verwijder je de woning uit het account. De thermostaat zelf is technisch verwijderbaar in 20 minuten, maar je moet het oorspronkelijke type wel terugplaatsen voor de nieuwe bewoner.
+
+**Hoe verhoudt OpenTherm zich tot eBus en andere protocollen?**
+OpenTherm is open standaard, eBus is propriëtair (Vaillant en Bosch). Bij Vaillant-ketels uit 2018 of nieuwer werkt OpenTherm vaak niet meer en moet je een eBus-thermostaat (Vaillant senso-link) gebruiken. Check altijd de ketel-handleiding voor het juiste protocol — koop niet blind een Tado of Nest zonder dit te verifiëren.
+
 ## Gerelateerde artikelen
 
 - [Smart Home Energiebeheer 2026: Bespaar met Slimme](/posts/smart-home-energiebeheer-2026/)

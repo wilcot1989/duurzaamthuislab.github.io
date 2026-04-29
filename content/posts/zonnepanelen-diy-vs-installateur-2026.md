@@ -373,4 +373,35 @@ Mijn finale aanbeveling:
 
 Een tussenoplossing: vraag bij installateur of je een deel zelf kunt doen tegen reductie. Sommige installateurs (vooral lokale eenmanszaken) zijn flexibel hierin en geven €500-€800 korting voor zelf-montage onder hun supervisie.
 
+## BTW en subsidie-praktijk in 2026
+
+Sinds 2023 geldt 0 procent BTW op zonnepanelen voor woningen — zowel bij DIY als bij installateur. In de praktijk betekent dat: panelen, omvormer, montagesysteem en bedrading krijg je netto ingekocht zonder BTW-teruggave nodig. Bij Memodo en Krannich vraag je je BTW-vrije factuur aan via een formulier (KOR/woning-verklaring). Dat scheelt 21 procent direct op je hardware-kosten.
+
+Belangrijk om te weten: de 0 procent BTW geldt alleen voor de hardware. Het loon van de installateur die de netaansluiting verzorgt valt onder 21 procent BTW. Bij €450 netaansluitingstarief kost je dat €94 BTW extra die niet aftrekbaar is.
+
+ISDE-subsidie geldt niet voor zonnepanelen alleen — die regeling werd afgeschaft in 2014. Wel zijn er gemeentelijke duurzaamheidsleningen (1,5-2,5 procent rente) bij ABN AMRO, Rabobank en SVn voor panelen bij verbouwing. En sommige gemeentes (Amsterdam, Rotterdam, Utrecht) bieden een eigen "energiesprong-bonus" van €250-€500 voor woningen met label C of slechter die naar B gaan.
+
+## Mini case-study: jaren-50 woning Hilversum
+
+Klant M. (52, ondernemer, vrijstaand 1958, label D, schuin pannendak ZZW-georiënteerd, hoogte 7 meter). Wilde 16 panelen 425 Wp = 6,8 kWp totaal. Tussen offertes zaten installateurs van €5.800 tot €8.400.
+
+We kozen voor hybride DIY in juni 2025. Inkoop bij Solarclarity inclusief K2-montagesysteem en SolarEdge HD-Wave omvormer 6 kW: €3.180 (BTW 0 procent voor woning-verklaring). Eigen tijd: 5 dagen verspreid over 3 weekenden, met buurman als hulp. Installateur netaansluiting + NEN-1010-keuring: €575 inclusief BTW. Gereedschap aanvulling (krimptang Phoenix-Contact, dakveiligheidslijn): €240.
+
+Totaal: €3.995. Vergelijkbare offerte installateur volledig: €6.950. Besparing €2.955.
+
+Eén complicatie: bij de bedrading bleek dat één string van 8 panelen op één MPPT-ingang te veel spanning gaf bij koud weer (>500V open-circuit). We splitsten naar twee strings van 4 — kostte een halve dag extra. Les: bereken altijd de maximum-spanning bij -10°C, niet alleen bij 25°C.
+
+M. meldde na zes maanden: 4.420 kWh productie in juli-december 2025, lopend op 7.800 kWh/jaar prognose. Terugverdientijd 4,8 jaar bij saldering 2026 of 7,2 jaar bij volledig wegvallen saldering 2027.
+
+## Drie aanvullende vragen
+
+**Wat als ik een omvormer wil vervangen na 10 jaar?**
+Een omvormer gaat gemiddeld 12-15 jaar mee, panelen 25-30 jaar. Bij vervanging mag je dat zelf doen — er hoeft geen nieuwe netaansluiting plaats te vinden als de capaciteit gelijk blijft. Voor het vervangen van de omvormer reken je 4-6 uur eigen werk plus €600-€1.200 voor een nieuwe Goodwe of SolarEdge.
+
+**Wat is het belangrijkste verschil tussen K2 en Esdec montagesystemen?**
+K2 is duitse kwaliteit met fijne afwerking en goede klembereik. Esdec (FlatFix Fusion) is Nederlands, vaak sneller te monteren, ietsje goedkoper. Voor schuin dak met pannen gebruiken de meeste DIY'ers K2 vanwege de robuustere dakhaken. Voor plat dak is Esdec superieur.
+
+**Krijg ik garantie als ik zelf een paneel vervang?**
+Ja, mits je het juiste type vervangt. Bij Q.CELLS, JA Solar, LONGi en Trina is paneel-vervanging door eigenaar geen probleem voor garantie. Bij Sunpower en LG vervalt de hele systeemgarantie als je een onderdeel zonder gecertificeerde installateur vervangt.
+
 Voor verdere lezing: [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/), [omvormer kiezen](/posts/omvormer-kiezen-welke-past-2026/), [montagesysteem vergelijking](/posts/montagesysteem-zonnepanelen-vergelijking-2026/), [zonnepanelen onderhoud](/posts/zonnepanelen-onderhoud-schoonmaken-2026/) en [zonnepanelen installateur kiezen](/posts/beste-zonnepanelen-installateur-kiezen-2026/).

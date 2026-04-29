@@ -204,6 +204,73 @@ Mijn dringende advies: laat een warmteverliesberekening maken voordat je iets be
 
 Begin klein, begin slim, en bouw je isolatieschil stap voor stap op. De warmtepomp komt daarna vanzelf goed.
 
+## Wanneer isoleren NIET de moeite waard is
+
+Eerlijk perspectief — niet elke maatregel is altijd rendabel:
+
+- **Triple glas in een woning met label C of beter en HR++ glas overal.** Het verschil met HR++ is 30-50 euro per raam per jaar. Bij €350-500 per m2 verdient triple glas zich pas na 18-25 jaar terug — alleen rendabel als je toch al ramen vervangt.
+- **Spouwmuurisolatie bij vochtproblemen.** Een vochtige spouw vullen leidt tot schimmel achter het isolatiemateriaal. Eerst vocht oplossen (lekkages, drainage), dan pas vullen.
+- **Dakisolatie van buiten bij een gezond dak <10 jaar oud.** De maatregel kost €150-220 per m2. Verdient zich pas terug bij volledige dakvervanging — wachten tot dat moment scheelt €5.000-10.000.
+- **Gevelisolatie aan buitenkant zonder gevolgen voor uiterlijk.** Bij monumentale panden of beschermde stadsgezicht-woningen mag je vaak geen buitengevel-isolatie aanbrengen. Binnenisolatie is wel mogelijk maar veel duurder en geeft minder rendement.
+- **Verhuisplan binnen 5 jaar zonder herfinanciering.** Je verdient isolatie zelden 100 procent terug bij verkoop. WOZ-verhoging kan 60-80 procent van de investering compenseren, maar de rest verlies je.
+
+## Mini case-study: rijtjeshuis Zwolle
+
+Klant V. (43, projectmanager, rijtjeshuis 1972, label E voor renovatie, 105 m2 BVO). Plan: alles isoleren voordat warmtepomp werd geplaatst najaar 2025.
+
+Uitvoering in fases gedurende voorjaar 2025:
+
+| Maatregel | Bruto kosten | ISDE-subsidie | Netto |
+|---|---|---|---|
+| Spouwmuur EPS-parels (72 m2) | €2.160 | -€576 | €1.584 |
+| Dakisolatie binnen PIR (52 m2) | €4.420 | -€1.560 | €2.860 |
+| Vloerisolatie EPS-parels (54 m2) | €2.380 | -€432 | €1.948 |
+| HR++ glas vervangen 4 ramen | €1.640 | 0 (te weinig oppervlak) | €1.640 |
+| Kierdichting | €180 | 0 | €180 |
+| **Totaal** | **€10.780** | **-€2.568** | **€8.212** |
+
+Resultaat:
+- Energielabel van E naar A
+- Warmtevraag teruggebracht van 11.500 kWh naar 6.200 kWh per jaar
+- Daikin Altherma 6 kW (in plaats van 8 kW) — installatie €1.200 goedkoper door kleinere unit
+- SCOP gemeten over winter 2025-2026: 4,3
+- Stookkosten warmtepomp: €860 per jaar
+- Gasrekening voor: €2.380. Besparing: €1.520 per jaar
+- Terugverdientijd isolatie + warmtepomp samen: 8,2 jaar
+
+V. zei na een winter: "Het comfortverschil is groter dan de besparing. Geen tochtklachten meer, vloer is overal warm."
+
+## Veelgemaakte fouten bij isolatie en warmtepomp-combinatie
+
+**1. Te grote warmtepomp kiezen "voor de zekerheid".** Veel installateurs adviseren een 8 of 9 kW pomp omdat ze rekenen vóór isolatie. Na isolatie heeft je woning vaak maar 5-6 kW nodig. Een te grote pomp pendelt aan/uit, slijt sneller en heeft een lagere SCOP. Reken altijd ná de geplande isolatie.
+
+**2. Isoleren zonder ventilatie aan te passen.** Een goed geisoleerde woning zonder mechanische ventilatie of WTW krijgt vochtproblemen, schimmel en CO2-opbouw. Reken bij volledige isolatie altijd op €1.800-€4.500 voor WTW-installatie.
+
+**3. ISDE-subsidie misverstaan.** ISDE geldt alleen voor twee of meer maatregelen tegelijk en heeft maximumbedragen per m2. Bij grote oppervlakken loop je tegen het plafond aan. Vraag voor begin de exacte bedragen op via RVO.nl — niet uitgaan van "30 procent terug".
+
+**4. Gevel-isolatie aanbrengen zonder dampopen materiaal te kiezen.** Bij naisolatie van massieve gevels (jaren 30 woningen zonder spouw) moet het isolatiemateriaal dampopen zijn. Anders krijg je condensatie in de muur en uiteindelijk schimmel of houtrot. Houtvezel of houten frame met cellulose werken hier beter dan PIR.
+
+**5. Vergeten dat warmtepomp koeling kan leveren.** Een goed geisoleerde woning is in zomer ook koeler. Een lucht-water warmtepomp kan in passieve koelmodus 2-4 graden onder de buitentemperatuur zakken — als je vloerverwarming dat aankan. Vraag bij installatie of "passive cooling" wordt geactiveerd.
+
+## Bouwbesluit en RVO-overwegingen voor 2026-2030
+
+Vanaf 1 januari 2026 mag bij verbouwingen aan de gevel niet meer onder Rd 4,5 worden geisoleerd. Bij dakisolatie geldt minimaal Rd 6,3, bij vloer Rd 3,7. Deze eisen gelden alleen bij vergunningplichtige verbouwing — voor "regulier onderhoud" zonder vergunning niet.
+
+Voor nieuwbouw gelden de BENG-eisen (Bijna Energieneutrale Gebouwen): zeer hoge isolatiewaarden (Rd 4,7 vloer, Rd 6,3 gevel, Rd 6,3 dak) en triple glas verplicht. Een warmtepomp is in nieuwbouw na 2024 vrijwel altijd verplicht omdat gasaansluiting niet meer wordt aangelegd.
+
+ISDE-subsidie is gegarandeerd tot eind 2027. Vanaf 2028 worden de bedragen waarschijnlijk lager omdat de regering de "subsidiebehoefte" geleidelijk afbouwt naarmate warmtepompen mainstream worden. Mijn advies: als je toch al van plan bent te isoleren, doe het in 2026 of 2027 voor maximale subsidie.
+
+## Drie aanvullende vragen
+
+**Heeft het zin om eerst de warmtepomp te plaatsen en later te isoleren?**
+Nee, financieel niet. Een te grote warmtepomp die ondermaats presteert, kost je 5-10 jaar lang €400-700 extra stroom per jaar. Bovendien kun je een geinstalleerde pomp niet zomaar "verkleinen" — een nieuwe pomp aanschaffen is duurder dan eerst isoleren.
+
+**Hoeveel isolatie is "genoeg" voor een warmtepomp?**
+Vuistregel: warmtevraag onder 7.000 kWh per jaar voor een gemiddelde woning, met aanvoertemperatuur van 35-45 graden bij ontwerptemperatuur (-10°C in NL). Met label B of beter haal je dat in vrijwel alle woningen. Bij label C is hybride (gas-back-up) vaak een betere keuze.
+
+**Wat is het verschil tussen Rd-waarde en U-waarde?**
+Rd = warmteweerstand van een isolatielaag in m2K/W (hoger is beter). U = warmtedoorgangscoefficient van een totaal element (raam, gevel) in W/m2K (lager is beter). Bij isolatiematerialen kijk je naar Rd, bij ramen en kozijnen naar U. Een muur met Rd 4,5 isolatiemateriaal kan een totale U-waarde van 0,22 hebben — dat is uitstekend.
+
 Verder lezen:
 - [Beste hybride warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/)
 - [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)

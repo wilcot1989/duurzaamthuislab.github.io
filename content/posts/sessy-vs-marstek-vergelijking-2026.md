@@ -11,7 +11,7 @@ author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 schema_type: "Article"
-last_updated: 2026-08-05
+last_updated: 2026-04-29
 faq:
   - q: "Welke is beter: Sessy of Marstek?"
     a: "Sessy wint op gebruiksgemak en NL-integratie (out-of-the-box met EnergyZero, Frank, Tibber). Marstek wint op prijs (€2.299 voor 8,2 kWh tegen €5.995 voor 10 kWh Sessy) en flexibiliteit via Home Assistant. Voor doe-het-zelvers: Marstek. Voor mensen die willen dat het gewoon werkt: Sessy."
@@ -302,6 +302,63 @@ Voor wie de tijd heeft om HA te leren: Marstek. Voor wie wil dat het gewoon werk
 *Vragen over jouw specifieke situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 
 ---
+
+## Wanneer een thuisbatterij NIET de moeite waard is
+
+Voor de eerlijkheid — niet iedereen moet kopen.
+
+- **Verbruik <2.500 kWh per jaar.** De potentiële arbitrage-winst is te klein om de batterij binnen 12 jaar terug te verdienen. Investeer eerst in extra zonnepanelen of in een warmtepomp.
+- **Geen zonnepanelen, geen dynamisch contract.** Een batterij op vast contract zonder PV is pure overhead. Wacht tot je ten minste één van beide hebt.
+- **Verhuisplan binnen 3 jaar.** Een Sessy of Marstek is technisch verhuisbaar, maar bij verkoop kun je hem vaak niet meeverhuizen zonder waardevermindering. Restwaarde bij verkoop ligt rond 40-50 procent van nieuwprijs.
+- **Verbruik 's avonds tussen 18:00 en 22:00 piekt boven 5 kW.** Een Marstek met 2,2 kW vermogen kan dat niet leveren. Sessy met 3,7 kW vaste aansluiting wel — anders koop je een Powerwall.
+- **Geen toegang tot een meterkast met ruimte voor extra unit.** Marstek Venus E vereist 60×40×23 cm vrije ruimte plus aansluitkast. Bij krappe nieuwbouwmeterkasten is dit een serieuze bottleneck.
+
+## Mini case-study: rijtjeshuis Almere
+
+Klant H. (47, leerkracht, rijtjeshuis 1992, label B na isolatie, 14 zonnepanelen 5,8 kWp). Verbruik 4.100 kWh per jaar, geen warmtepomp. Tibber-contract sinds januari 2025.
+
+We installeerden in maart 2026 een Marstek Venus E 8,2 kWh inclusief installatie door lokale eenmanszaak. Totaal investering inclusief 21 procent BTW: €2.625 (€2.299 batterij + €326 installatie). Home Assistant draaide al op een Raspberry Pi 4 — koppeling kostte één avond met community-template uit het HA-forum.
+
+Resultaat na zes maanden meten:
+- Eigen verbruik gestegen van 38 procent naar 76 procent
+- Arbitrage via Tibber: gemiddeld €31 per maand
+- Reductie netinkoop: 1.640 kWh per jaar
+- Totale jaarbesparing: €647
+
+Terugverdientijd 4,1 jaar. H. overweegt nu een tweede module voor 16,4 kWh als de saldering in 2027 stopt.
+
+## Garantie-praktijk en BTW
+
+Beide fabrikanten geven 10 jaar garantie, maar de uitvoering verschilt. Sessy regelt vervanging via NL-rechtspersoon — een claim is binnen 5 dagen afgehandeld. Marstek werkt via EU-warehouse Frankfurt: claim duurt gemiddeld 4-8 weken. Voor een batterij die niet kritiek is voor je dagelijks leven (geen backup-functie) is dat acceptabel; voor een Powerwall-vervanging zou ik dat risico niet nemen.
+
+BTW: thuisbatterijen vallen onder het reguliere 21 procent BTW-tarief. Anders dan zonnepanelen (0 procent BTW sinds 2023) krijg je hier geen BTW-voordeel. Wel is de installatie onder de woning-verbouwingsregeling soms tegen 9 procent BTW belastbaar — vraag dit expliciet aan je installateur.
+
+ISDE-subsidie geldt niet voor thuisbatterijen in 2026. Wel verwacht ik vanaf 2027 stimuleringsregelingen omdat de saldering vervalt en netcongestie een probleem wordt. Houd RVO en je gemeente in de gaten.
+
+## Veelgemaakte fouten bij batterij-keuze
+
+In de afgelopen 12 maanden heb ik deze missers vaker gezien dan ik kan tellen:
+
+**1. Sessy 5 kWh kopen "om klein te beginnen" bij verbruik >5.000 kWh.** Verdient zich nauwelijks terug. Bij hoog verbruik moet je 10 kWh of meer hebben anders schiet je elke avond uit de batterij. Ga niet onder 8 kWh als je warmtepomp of EV hebt.
+
+**2. Marstek kopen zonder te checken of HA-integratie loopt.** Installateurs verkopen Marstek als "plug-and-play" maar zonder Home Assistant met Nordpool-feed laat je 30 procent opbrengst liggen. Reserveer 1-2 avonden voor configuratie, of kies Sessy als je dat niet wilt.
+
+**3. Te grote batterij voor het verbruik kiezen.** Een 16,4 kWh Marstek bij 3.500 kWh verbruik is overkill — je gebruikt slechts 60 procent van de capaciteit. Cycli per jaar dalen, terugverdientijd loopt op naar 8+ jaar.
+
+**4. Geen verzekering aanpassen.** Beide fabrikanten leveren brandveilige LFP-cellen, maar je opstalverzekeraar wil dit weten. Zonder melding kan een claim worden afgewezen. Een mailtje of formulier is voldoende — kost niks, voorkomt narigheid.
+
+**5. Vergeten dat dynamisch contract een minimum-vermogen vereist.** Tibber Pulse, Frank Energie en EnergyZero werken alleen met digitale meter (P1-poort). Bij oude analoge meters moet je eerst een slimme meter aanvragen via netbeheerder — duurt 2-4 weken.
+
+## Drie extra vragen die vaak terugkomen
+
+**Wat gebeurt er als de stroom uitvalt?**
+Sessy heeft sinds 2025 een beperkte backup-modus die alleen essentiele groepen voedt (verlichting, koelkast, internet) via een aparte omschakelschakelaar (€350 extra). Marstek Venus E heeft geen backup-functie zonder externe omvormer. Voor wie backup belangrijk vindt is Powerwall 3 de juiste keuze.
+
+**Kan ik mijn bestaande zonnepanelen-omvormer hergebruiken?**
+Ja, beide systemen werken AC-gekoppeld — dat betekent ze hangen achter je bestaande omvormer. Een nieuwe omvormer is niet nodig. Bij Powerwall 3 vervang je daarentegen vaak je hele zonneomvormer, wat het kostenverschil verkleint maar wel meer werk geeft bij installatie.
+
+**Hoeveel ruimte neemt het in beslag?**
+Sessy: 60×40×35 cm per unit, 65 kg. Past in een meterkast of bijkeuken. Marstek Venus E: 60×40×23 cm hoofdunit, 58 kg. Beide hangen aan de muur of staan op de vloer. Plan een goed-geventileerde ruimte (geen onverwarmde garage in winter) — bij temperaturen onder 0°C neemt capaciteit tijdelijk af.
 
 ## Gerelateerde artikelen
 

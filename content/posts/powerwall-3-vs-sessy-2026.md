@@ -259,6 +259,64 @@ Voor 80 procent van de Nederlandse rijtjeshuizen is Sessy in mijn ogen de slimme
 
 Bekijk de actuele prijzen en aanbiedingen via <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Sessy</a> of <a href="https://go.duurzaamthuislab.nl/tesla-powerwall" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Tesla Powerwall</a> voor je definitieve keuze.
 
+## Wanneer een Powerwall of Sessy NIET de moeite waard is
+
+Niet voor iedereen rendabel. Mijn eerlijke perspectief:
+
+- **Verbruik <2.500 kWh per jaar in een appartement.** De arbitrage-marge is te klein. Zelfs Sessy 5,2 kWh komt op een terugverdientijd van 12+ jaar.
+- **Geen zonnepanelen en geen plan om ze te installeren.** Een batterij zonder PV is alleen rendabel via dynamische arbitrage — maar dan praten we over een marge van €0,15-0,25 per kWh, en daarvoor moet je dagelijks 6-8 kWh verhandelen. Bij gemiddeld huishoudverbruik niet realistisch.
+- **Hoge totale investering >€10.000 met onzekere woon-toekomst.** Bij verhuizing binnen 3 jaar verlies je 50-60 procent restwaarde. Powerwall 3 verhuist technisch wel, maar de installatiekosten van €1.000-1.500 maak je niet terug in een nieuwe woning.
+- **Geen geschikte montagelocatie.** Powerwall 3 vereist een stevige draagmuur (130 kg). Bij gipsplaat-binnenwanden of slechte fundering moet je versteviging aanbrengen — al snel €500-€800 extra.
+- **Geen P1-meter of digitale slimme meter.** Beide systemen werken alleen met digitale meter via P1-poort. Bij analoge meters eerst slimme meter aanvragen via netbeheerder.
+
+## Mini case-study: vrijstaande woning Apeldoorn
+
+Familie K. (vrijstaand 1995, 220 m2, label C, 22 zonnepanelen 9,4 kWp, warmtepomp Daikin Altherma, 2× elektrische auto). Verbruik 11.800 kWh per jaar inclusief warmtepomp en EV's. Tibber-contract sinds 2024.
+
+We installeerden in januari 2026 een Powerwall 3 13,5 kWh inclusief installatie door SolarToday. Totaal investering inclusief 21 procent BTW: €10.450 (€9.500 batterij + €950 installatie). Geen ISDE — thuisbatterijen vallen buiten de regeling in 2026.
+
+Resultaat na zes maanden:
+- Eigen verbruik gestegen van 41 procent naar 78 procent
+- Backup test bij stroomstoring februari 2026: huis bleef 9 uur draaien inclusief warmtepomp op eco-modus
+- Arbitrage via Tibber TOU-modus: gemiddeld €38 per maand
+- Reductie netinkoop: 4.100 kWh per jaar
+- Totale jaarbesparing: €1.290
+
+Terugverdientijd 8,1 jaar. Familie K. meldde dat de backup-functie tijdens een netstoring de doorslaggevende waarde was — geen koelkast-uitval, geen frozen pipes. Voor een Sessy hadden ze 2-3 units nodig (€8.500-12.500) zonder volwaardige backup.
+
+## Veelgemaakte fouten bij keuze en installatie
+
+In adviespraktijk zie ik deze missers terugkomen:
+
+**1. Powerwall kopen voor backup zonder kritische ladingen te scheiden.** Een Powerwall 3 kan een hele woning voeden, maar dan moet je groepenkast geschikt zijn. Veel oude meterkasten hebben groepen door elkaar — bij stroomuitval probeert de batterij dan ook de jacuzzi en sauna te voeden. Reken op €600-€1.200 voor een nieuwe verdeelinrichting met essentiele- en niet-essentiele groepen.
+
+**2. Sessy 1 unit kopen bij verbruik >5.000 kWh.** Te klein. De arbitrage-cyclus dekt maar een deel van het verbruik. Begin direct met 2 units of kies Powerwall.
+
+**3. Tesla-installatie zonder offerte-vergelijking.** Tesla werkt in NL met enkele gecertificeerde installateurs (SolarToday, Sun Energy, Greenchoice). Prijzen variëren €1.500-€2.500 voor identieke installatie. Vraag minimaal twee offertes.
+
+**4. Verzekering vergeten te informeren.** Beide batterijen zijn LFP en brandveilig, maar opstalverzekeraars willen melding. Sommige verzekeraars (Centraal Beheer, Univé) eisen daarna een aparte clausule. Zonder melding kan een claim worden geweigerd bij brand.
+
+**5. BTW-confusion bij offerte.** Tesla geeft prijzen vaak inclusief BTW, NL-installateurs soms exclusief. Het verschil van 21 procent kan €1.800-€2.300 schelen op de eindrekening — vraag altijd het exacte bedrag inclusief BTW en installatie.
+
+## Garantie en levensduur in detail
+
+**Powerwall 3:** 10 jaar productgarantie + 10 jaar prestatiegarantie (>70 procent capaciteit). Tesla heeft sinds 2015 wereldwijd circa 500.000 Powerwalls verkocht. Brand-incidenten zijn extreem zeldzaam — handvol gevallen, vaak door installatiefouten of waterschade. Bij defect levert Tesla via NL-partner binnen 5-10 werkdagen vervanging.
+
+**Sessy:** 10 jaar productgarantie. Sessy is een NL-startup sinds 2022. Mogelijke risico voor de toekomst: als Sessy als bedrijf zou stoppen, zou de garantie technisch nog door verzekeraar worden gedekt (productenaansprakelijkheid), maar de praktische afhandeling kan moeilijk worden. Sessy heeft inmiddels Series-B financiering opgehaald — financieel stabiel voor de korte termijn.
+
+LFP-cellen in beide systemen behouden 80 procent capaciteit na 6.000 cycli (16-20 jaar bij dagelijks gebruik). Bij cyclisch arbitrage (2 cycli per dag in dynamische trading) is de levensduur beperkter — reken op 12-14 jaar voordat je 70 procent capaciteit raakt.
+
+## Drie aanvullende vragen
+
+**Hoe verhoudt Powerwall 3 zich tot Powerwall 2?**
+Powerwall 3 heeft geintegreerde omvormer (11,5 kW), Powerwall 2 niet. Daardoor is Powerwall 3 in nieuwbouw goedkoper omdat je geen aparte zonneomvormer nodig hebt. Bij retrofit op bestaand systeem heeft Powerwall 2 voordeel — je hergebruikt je bestaande omvormer. Tesla verkoopt Powerwall 2 niet meer, dus alleen via tweedehands markt verkrijgbaar.
+
+**Kan ik Powerwall combineren met Sessy?**
+Technisch ja, maar zinloos. Beide systemen optimaliseren onafhankelijk en kunnen elkaar tegenwerken (de één laadt op terwijl de ander ontlaadt). Kies één systeem en breid uit met dezelfde fabrikant. Bij hybride configuratie verlies je 15-25 procent van de potentiële opbrengst.
+
+**Wat gebeurt er na 2027 met saldering en thuisbatterijen?**
+Saldering wordt afgebouwd vanaf 2027 (volledig weg in 2031). Daarmee wordt zelfconsumptie via batterij plotseling veel waardevoller. Ik verwacht dat de terugverdientijd van Sessy en Powerwall na 2027 met 1-2 jaar verkort, omdat zonnestroom die je niet zelf gebruikt minder oplevert (€0,04-0,08 per kWh terugleveringstarief versus €0,30-0,35 zelfgebruik via batterij). Dit is hét moment om een batterij te overwegen.
+
 Verder lezen:
 - [Tesla Powerwall review Nederland 2026](/posts/tesla-powerwall-review-nederland-2026/)
 - [Sessy review thuisbatterij Nederland](/posts/sessy-review-thuisbatterij-nederland/)

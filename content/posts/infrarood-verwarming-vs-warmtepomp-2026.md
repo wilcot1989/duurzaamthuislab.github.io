@@ -220,6 +220,57 @@ Vanaf 2026 mogen nieuwbouwwoningen geen gasaansluiting meer krijgen. Dat geldt n
 
 Voor wie nu in een gasloze nieuwbouw infrarood overweegt: doe het niet. Een goed gedimensioneerde warmtepomp inclusief alle subsidies kost vaak maar 5.000-9.000 euro netto in nieuwbouw, en bespaart structureel 1.500-3.000 euro per jaar. Geen rationele case voor IR-hoofdverwarming.
 
+## Wanneer infrarood NIET de moeite waard is
+
+Naast de adviezen hierboven zijn er specifieke situaties waarin ik mensen actief ontraden:
+
+- **Permanent bewoonde woonkamer >30 m2.** De warmtevraag is te hoog. Verbruik schiet door 4.000 kWh per jaar voor één ruimte alleen. Onbetaalbaar bij stroom van €0,30/kWh.
+- **Slecht geisoleerde woning (label E-G).** Infrarood bij open spouw of enkelglas is geld verbranden. Eerst isoleren, dan pas verwarming kiezen.
+- **Huurders zonder eigen aansluiting.** De verhuurder rekent vaak geen meerverbruik op de stookkosten — maar bij stroomverbruik via je eigen meter wel. Een infrarood-installatie verdrievoudigt je elektriciteitsrekening.
+- **Woningen met bestaande vloerverwarming.** Vloerverwarming + warmtepomp is bijna altijd efficienter dan vloerverwarming + IR-bijverwarming. Het systeem is al gebouwd voor lage aanvoertemperatuur.
+- **Wie geen zonnepanelen heeft of plant.** Zonder eigen opwekking tegen een lage opwekkostprijs is infrarood altijd duurder dan een warmtepomp die op netstroom draait.
+
+## Veelgemaakte fouten bij infrarood-installatie
+
+In adviespraktijk zie ik deze missers vaker dan ik zou willen:
+
+**1. Verkeerde wattage per m2 berekenen.** Vuistregel: 60-100 watt per m2 bij goed geisoleerd, 100-150 watt per m2 bij matig. Mensen kopen vaak één paneel van 800 watt voor een ruimte van 25 m2 — dat is te weinig. Het paneel draait dan continu zonder de ruimte echt warm te krijgen.
+
+**2. Plafondmontage zonder rekening te houden met warmtestraling.** Een plafondpaneel verwarmt het hoofd van de bewoner het meest. Bij hoge plafonds (>3 meter) verlies je veel effect — kies dan wandmontage op heuphoogte voor zit-werkplekken.
+
+**3. BTW vergeten in totaalberekening.** Een paneel van €299 lijkt goedkoop, maar bij 21 procent BTW kom je op €361 per stuk. Voor 6 panelen scheelt dat €372 — een aanzienlijk verschil bij de offerte-vergelijking.
+
+**4. Geen aparte groep in de meterkast.** Een paneel van 800 watt trekt 3,5 ampère. Drie panelen samen op één bestaande lichtgroep van 16A is te veel. Reken op €350-€600 voor een nieuwe groep door erkend installateur.
+
+**5. Verkeerde verwachting over opwarmtijd.** Verkopers beloven "binnen 2 minuten warm". De stralingswarmte is direct merkbaar, maar de luchttemperatuur in de ruimte stijgt traag (15-30 minuten). Bewoners die de hele ruimte willen opwarmen worden teleurgesteld.
+
+## Mini case-study: vakantiehuis Drenthe
+
+Familie B. (vakantiehuis 65 m2, gebruikt 25 weekenden per jaar, label B). Investeerde najaar 2024 in 4 IR-panelen (woonkamer 1000W, slaapkamer 600W, badkamer 350W, eetkamer 600W) plus slimme schakelaars per paneel via Shelly. Totale investering inclusief BTW: €2.310. Geen ISDE want infrarood valt buiten de regeling.
+
+Verbruik gemeten over 12 maanden via P1-meter: 1.870 kWh. Bij €0,32/kWh = €598 per jaar stookkosten. Vergelijkbare warmtepomp-investering zou €11.500 inclusief installatie hebben gekost — bij 25 weekenden gebruik niet rendabel terug te verdienen. De familie schakelt panelen aan via dynamisch contract op goedkope uren ('s nachts voorverwarmen, overdag bijregelen).
+
+Conclusie: voor laag-frequent gebruik is infrarood hier de juiste keuze. Bij permanent bewonen zou de jaarrekening boven €4.000 zijn uitgekomen — dan was warmtepomp slimmer geweest.
+
+## Garantie, levensduur en BTW
+
+IR-panelen vallen onder reguliere consumentengarantie van 2 jaar (wettelijk minimum). Goede merken (Frico, Welltherm, Vasner) bieden 5-10 jaar productgarantie op het verwarmingselement. Defectkans is laag — er zijn geen bewegende onderdelen. Bij defect vervang je het hele paneel voor €250-€450.
+
+BTW op IR-panelen is 21 procent. Sinds 2023 geldt het verlaagde BTW-tarief van 0 procent op zonnepanelen, maar dat geldt expliciet niet voor verwarmingspanelen. Een offerte zonder BTW-vermelding is een rode vlag — vraag altijd bruto- en netto-prijs.
+
+Voor een warmtepomp geldt 21 procent BTW maar je krijgt netto via ISDE €2.500-€5.500 terug. Het netto verschil tussen IR-installatie en warmtepomp valt na subsidie dus nog kleiner uit dan de bruto-prijs suggereert.
+
+## Drie aanvullende vragen
+
+**Mag een verhuurder verbieden dat ik infrarood-panelen installeer?**
+Ja. Vaste installaties (boren, bedrading) vallen onder huurdersbescherming maar wel met toestemming. Een huurder die in een sociale woning IR-panelen plaatst zonder schriftelijke toestemming kan bij oplevering aansprakelijk gesteld worden. Voor losse plug-in panelen op een stopcontact heb je geen toestemming nodig.
+
+**Hoe verhoudt infrarood zich tot een airco met warmtepompfunctie?**
+Een mono-split airco met warmtepompfunctie heeft een COP van 3,5-4,5 — vergelijkbaar met een lucht-water warmtepomp maar dan voor één ruimte. Investering €1.200-€2.000 inclusief installatie. Voor een 30 m2 ruimte met permanent gebruik bijna altijd goedkoper dan IR. Verschil: airco kan ook koelen 's zomers.
+
+**Wat is het echte CO2-verschil per kWh?**
+Bij Nederlandse stroommix in 2026 (steeds groener): circa 280 gram CO2 per kWh. IR-paneel verbruikt 4× meer kWh dan warmtepomp voor dezelfde warmte = 4× zoveel CO2. Een warmtepomp op groene stroom (Vandebron, Pure Energie) zit op 0-50 gram CO2 per kWh warmte. Verschil over 15 jaar: tonnen CO2.
+
 Verder lezen:
 - [Beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/)
 - [Beste hybride warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/)
