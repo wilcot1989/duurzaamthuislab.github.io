@@ -2,7 +2,7 @@
 title: "Split-airco als warmtepomp: wanneer wel, wanneer niet?"
 date: 2026-06-10T08:00:00+02:00
 lastmod: 2026-06-10T08:00:00+02:00
-description: "Een reverse-cycle split-airco kan verwarmen én koelen voor €1.500 tot €3.000. Ik leg uit wanneer het een slimme budget-warmtepomp is — en wanneer je beter een echte warmtepomp koopt."
+description: "Reverse-cycle airco als budget-warmtepomp: wanneer wel, wanneer niet. COP, geluid, plaatsing en prijs vergeleken voor 2026."
 categories: ["warmtepompen"]
 tags: ["split-airco", "airco warmtepomp", "reverse cycle", "Daikin", "koelen verwarmen", "budget warmtepomp", "lucht-lucht warmtepomp"]
 keywords: ["split airco als warmtepomp", "reverse cycle airco", "airco verwarmen winter", "split airco COP", "lucht lucht warmtepomp", "airco warmtepomp verschil", "split airco kosten 2026"]
