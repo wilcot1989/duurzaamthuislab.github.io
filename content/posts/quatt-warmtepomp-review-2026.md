@@ -374,3 +374,11 @@ Mijn advies: als je voor Quatt kiest, vraag dan expliciet in het contract: "Wat 
 ---
 
 *Twijfel je of Quatt of kopen beter past bij jouw situatie? Beschrijf hieronder je woningtype en gasverbruik — ik help je rekenen.*
+
+## Gerelateerde artikelen
+
+- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
+- [Vaillant aroTHERM plus review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)
+- [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
+- [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)

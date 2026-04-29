@@ -467,3 +467,11 @@ Dakisolatie is de verduurzamingsmaatregel met de beste prijs-prestatieverhouding
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
+## Gerelateerde artikelen
+
+- [Isolatie Subsidie Nederland 2026: Alle Regelingen en](/posts/isolatie-subsidie-nederland-2026/)
+- [Kierdichting, glaswol en tochtstrip in 2026](/posts/kierdichting-glaswol-tochtstrip-2026/)
+- [Dakraam vs dakkapel isolatie 2026: warmteverlies](/posts/dakraam-vs-dakkapel-isolatie-2026/)
+- [Energielabel Verbeteren: Stappenplan van G naar A (2026)](/posts/energielabel-verbeteren-stappenplan-2026/)
+- [Kierdichting buitendeur 2026: tochtstrip + sleutelgat](/posts/kierdichting-buitendeur-2026/)

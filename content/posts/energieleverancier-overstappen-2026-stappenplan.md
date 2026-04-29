@@ -368,3 +368,11 @@ Als je nu al nadenkt over een warmtepomp, is het kiezen van een dynamisch contra
 ---
 
 *Disclosure: ik gebruik affiliate links op deze pagina. Ik heb persoonlijk ervaring met Tibber en heb ook Frank Energie getest via een collega. Prijzen en tarieven zijn gebaseerd op publieke informatie van begin 2026 en kunnen zijn gewijzigd.*
+
+## Gerelateerde artikelen
+
+- [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+- [Dynamische Energiecontracten Vergelijking 2026](/posts/dynamische-energiecontracten-vergelijking-2026/)
+- [Saldering vs dynamisch contract: welke is voordeliger na](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
+- [ANWB Energie review 2026: dynamisch contract met vangnet](/posts/anwb-energie-dynamisch-review-2026/)
+- [Dynamische stroomprijzen per uur in 2026: goedkoopste](/posts/dynamische-prijzen-gemiddeld-uur-2026/)

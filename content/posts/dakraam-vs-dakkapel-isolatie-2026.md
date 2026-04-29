@@ -412,3 +412,11 @@ Ik heb deze berekening gedaan voor een gemiddelde dakkapel van 2,5 × 1 m, wando
 - **Terugverdientijd: 4,7 jaar**
 
 Dat is aanzienlijk beter dan de 30-jarige terugverdientijd van een enkel dakraam. Dakkapel-wanden isoleren loont dus wél.
+
+## Gerelateerde artikelen
+
+- [Energielabel Verbeteren: Stappenplan van G naar A (2026)](/posts/energielabel-verbeteren-stappenplan-2026/)
+- [Isolatie Subsidie Nederland 2026: Alle Regelingen en](/posts/isolatie-subsidie-nederland-2026/)
+- [Spouwmuur isolatie kosten 2026: wat betaal je per m²?](/posts/spouwmuur-isolatie-kosten-2026/)
+- [Vloerisolatie vs spouwmuurisolatie](/posts/vloer-isolatie-vs-spouwmuur-isolatie-2026/)
+- [Dakisolatie Binnenuit vs Buitenuit 2026](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/)

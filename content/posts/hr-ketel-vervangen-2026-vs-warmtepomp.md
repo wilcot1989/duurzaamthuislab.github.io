@@ -420,3 +420,11 @@ Is je HR-ketel kapot of bijna kapot?
 ```
 
 De grootste fout die mensen maken: te lang wachten. De ISDE-subsidie is beschikbaar nu. De terugverdientijd van de meerprijs hybride vs HR-ketel is 1,5-2,5 jaar. Elk jaar wachten kost je €600-€900 aan gaskosten die vermijdbaar waren.
+
+## Gerelateerde artikelen
+
+- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
+- [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
+- [Warmtepomp vs CV-ketel 2026: Wat is Voordeliger?](/posts/warmtepomp-vs-cv-ketel-2026/)
+- [Vaillant aroTHERM plus review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)

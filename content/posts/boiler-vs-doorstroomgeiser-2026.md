@@ -332,3 +332,11 @@ Vermijd onbekende merken zonder ISDE-certificering — de subsidie is een signif
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmwater</a>
+
+## Gerelateerde artikelen
+
+- [Zonneboiler vs warmtepompboiler 2026: welke levert meer op?](/posts/zonneboiler-vs-warmtepompboiler-2026/)
+- [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
+- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
+- [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)

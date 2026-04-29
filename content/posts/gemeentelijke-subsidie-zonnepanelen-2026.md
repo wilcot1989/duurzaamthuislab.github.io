@@ -356,3 +356,11 @@ Als u serieus bent over zonnepanelen: vraag drie offertes aan in de komende vier
 
 
 <a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+
+## Gerelateerde artikelen
+
+- [Zonnepanelen Subsidie Nederland 2026: Complete Gids](/posts/zonnepanelen-subsidie-nederland-2026/)
+- [Zonnepanelen zelf installeren of via installateur 2026](/posts/zonnepanelen-met-of-zonder-installateur-2026/)
+- [Zonneplan thuisbatterij review 2026](/posts/zonneplan-thuisbatterij-review-2026/)
+- [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+- [Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken](/posts/beste-omvormer-zonnepanelen-2026/)

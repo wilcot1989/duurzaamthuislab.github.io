@@ -380,3 +380,11 @@ Als je niet kunt verplaatsen (geen EV, geen thuisbatterij, geen slimme apparaten
 Tibber werkt goed via de app, maar als je geen smartphone-app wil bijhouden of niet weet hoe je een tijdschakelaar instelt, is een gewoon vast contract simpeler en transparanter.
 
 **Mijn advies:** neem eerst een dynamisch contract zonder thuisbatterij en monitor een maand je verbruikspatroon. Als je ziet dat je spontaan daluren benut (wasmachine, vaatwasser, EV), dan is een thuisbatterij de logische volgende stap voor automatisering.
+
+## Gerelateerde artikelen
+
+- [Energieleverancier overstappen 2026](/posts/energieleverancier-overstappen-2026-stappenplan/)
+- [Dynamische Energiecontracten Vergelijking 2026](/posts/dynamische-energiecontracten-vergelijking-2026/)
+- [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+- [Saldering 2027 transitie-planner: 5 stappen om](/posts/saldering-2027-transitie-planner/)
+- [Saldering stopt in 2027: de volledige gids voor](/posts/saldering-stopt-2027-volledige-gids/)

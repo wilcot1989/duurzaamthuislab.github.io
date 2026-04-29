@@ -384,3 +384,11 @@ Dit is een lastig vraagstuk. Een lucht-water warmtepomp vereist een buitenunit, 
 <a href="/go/daikin-altherma" class="cta-affiliate" rel="sponsored noopener">Bekijk de Daikin Altherma 3 warmtepomp</a>
 
 <a href="/go/bosch-warmtepomp" class="cta-affiliate" rel="sponsored noopener">Bekijk de Bosch Compress warmtepomp</a>
+
+## Gerelateerde artikelen
+
+- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
+- [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)
+- [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
+- [ISDE Subsidie 2026: Complete Gids voor Warmtepompen &](/posts/isde-subsidie-warmtepompen-2026/)

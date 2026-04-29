@@ -341,3 +341,11 @@ Sommige gemeenten vergoeden dit advies gedeeltelijk of volledig via het duurzaam
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepompen →</a>
+
+## Gerelateerde artikelen
+
+- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
+- [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
+- [Vaillant aroTHERM plus review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)
+- [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)

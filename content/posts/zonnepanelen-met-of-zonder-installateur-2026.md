@@ -384,3 +384,11 @@ Of je nu DIY hebt gedaan of een installateur hebt ingeschakeld, na de installati
 - Bewaar alle correspondentie schriftelijk — dit is essentieel bij garantieclaims
 
 Een installatie die goed wordt gemonitord gaat aantoonbaar langer mee en levert structureel meer op dan een installatie die je vergeet te controleren.
+
+## Gerelateerde artikelen
+
+- [Gemeentelijke subsidie zonnepanelen 2026: per provincie](/posts/gemeentelijke-subsidie-zonnepanelen-2026/)
+- [Zonneplan thuisbatterij review 2026](/posts/zonneplan-thuisbatterij-review-2026/)
+- [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+- [Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken](/posts/beste-omvormer-zonnepanelen-2026/)
+- [Echte Aansluitkosten Zonnepanelen 2026](/posts/dakdoos-aansluitkosten-zonnepanelen-2026/)

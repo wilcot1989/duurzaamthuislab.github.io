@@ -521,3 +521,11 @@ Een woning in Nijmegen met een droge, geventileerde garage direct naast de meter
 <a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk de Sessy thuisbatterij</a>
 
 <a href="/go/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk de Marstek B5000</a>
+
+## Gerelateerde artikelen
+
+- [Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
+- [Thuisbatterij Zonder Zonnepanelen: Heeft Het Zin in 2027?](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/)
+- [Marstek Venus review 2026: de goedkoopste slimme](/posts/marstek-venus-review-thuisbatterij/)
+- [Sessy review 2026: eerlijke test van de Nederlandse](/posts/sessy-review-thuisbatterij-nederland/)
+- [Huawei Luna vs Tesla Powerwall vs Sessy 2026](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/)

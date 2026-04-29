@@ -464,3 +464,11 @@ Als je overstapt van ongecontroleerde ventilatie (kieren) naar een mechanisch ve
 - Verwachte besparing: €300-€450/jaar
 
 De incrementele besparing per extra €50 investering daalt naarmate de makkelijkste lekken al zijn gedicht — maar de terugverdientijd blijft zelfs bij €200 investering onder één jaar.
+
+## Gerelateerde artikelen
+
+- [Kierdichting buitendeur 2026: tochtstrip + sleutelgat](/posts/kierdichting-buitendeur-2026/)
+- [Dakisolatie Binnenuit vs Buitenuit 2026](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/)
+- [Ventilatie met Warmteterugwinning (WTW) 2026](/posts/ventilatie-warmteterugwinning-wtw-2026/)
+- [Vloerisolatie vs spouwmuurisolatie](/posts/vloer-isolatie-vs-spouwmuur-isolatie-2026/)
+- [Dakraam vs dakkapel isolatie 2026: warmteverlies](/posts/dakraam-vs-dakkapel-isolatie-2026/)

@@ -449,3 +449,11 @@ Laten we alles bij elkaar optellen: aanschaf, installatie, exploitatie, onderhou
 Dat is een bescheiden maar positief resultaat — en dan is er nog de meerwaarde van comfort (gelijkmatigere warmte, minder tocht), lagere CO₂-uitstoot en de stijging van de WOZ-waarde bij een hoger energielabel.
 
 De warmtepomp verdient zichzelf terug — maar alleen als het systeem goed wordt onderhouden en efficiënt wordt ingezet.
+
+## Gerelateerde artikelen
+
+- [Vloerverwarming aanleggen in bestaande woning](/posts/vloerverwarming-aanleggen-kosten-2026/)
+- [Warmtepomp geluid buren 2026: 40dB norm](/posts/warmtepomp-geluid-buren-2026-norm/)
+- [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
+- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)

@@ -475,3 +475,11 @@ Om dit artikel te verrijken met een echte klantervaring, heb ik gesproken met Jo
 **Zou je het aanbevelen?**
 
 "Absoluut. Voor een zadeldak zonder zuidoostdakvlak is dit de enige logische keuze. Maar ook als je een zuiddakvlak hebt, zou ik serieus overwegen om beide vlakken te benutten."
+
+## Gerelateerde artikelen
+
+- [Terugleverkosten zonnepanelen 2026](/posts/terugleverkosten-zonnepanelen-2026/)
+- [Zonnepanelen na 2027: hoe bereken je het rendement echt?](/posts/zonnepanelen-na-2027-rendement-berekenen/)
+- [Saldering calculator 2027: jaar-voor-jaar impact bereken](/posts/saldering-calculator-2027-volledig/)
+- [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+- [Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken](/posts/beste-omvormer-zonnepanelen-2026/)

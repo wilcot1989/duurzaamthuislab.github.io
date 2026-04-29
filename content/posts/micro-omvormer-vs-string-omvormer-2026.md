@@ -374,3 +374,11 @@ De monitoring via mySolarEdge toonde direct het effect van de boomschaduw: de dr
 Meerkosten optimizers ten opzichte van gewone string: €1.400. Terugverdientijd die meerkosten: **8,5–12,7 jaar** — aan de grens maar acceptabel voor een 25-jaar systeem.
 
 **Conclusie mijn eigen situatie:** voor mijn schaduwrijke dak was SolarEdge de juiste keuze. Met een schaduwvrij dak had ik de goedkopere string-omvormer gekozen en dat geld gestoken in een betere thuisbatterij.
+
+## Gerelateerde artikelen
+
+- [SolarEdge vs Enphase 2026: Welke Omvormer is Beter?](/posts/solaredge-vs-enphase-2026/)
+- [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+- [Oost-west zonnepanelen vs. zuidsysteem](/posts/oost-west-zonnepanelen-vs-zuid-2026/)
+- [Saldering calculator 2027: jaar-voor-jaar impact bereken](/posts/saldering-calculator-2027-volledig/)
+- [Afbouw Salderingsregeling 2026: Wat Betekent Het voor Jou?](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)

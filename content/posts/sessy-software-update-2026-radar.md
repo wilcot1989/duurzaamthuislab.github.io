@@ -311,3 +311,11 @@ De salderingsregeling vervalt per 2027. Dit verandert de waarde van een thuisbat
 Bij een netto Sessy-prijs van €3.999 geeft dit een terugverdientijd na 2027 van **6,4–8,6 jaar** — significant beter dan vandaag. De Sessy wordt financieel aantrekkelijker naarmate de saldering afbouwt.
 
 **[Bekijk Sessy thuisbatterij](/go/sessy)**
+
+## Gerelateerde artikelen
+
+- [Huawei Luna vs Tesla Powerwall vs Sessy 2026](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/)
+- [Sessy review 2026: eerlijke test van de Nederlandse](/posts/sessy-review-thuisbatterij-nederland/)
+- [Thuisbatterij Zonder Zonnepanelen: Heeft Het Zin in 2027?](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/)
+- [Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
+- [Thuisbatterij binnen of buiten plaatsen: veilig 2026](/posts/thuisbatterij-buiten-vs-binnen-installeren-2026/)

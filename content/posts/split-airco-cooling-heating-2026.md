@@ -323,3 +323,11 @@ Als u overweegt een split-airco aan te schaffen als verwarmings- en koeloplossin
 
 
 <a href="/go/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin →</a>
+
+## Gerelateerde artikelen
+
+- [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
+- [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)
+- [Warmtepomp monoblock vs split 2026: keuze gids](/posts/warmtepomp-monoblock-vs-split-2026/)
+- [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
+- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)

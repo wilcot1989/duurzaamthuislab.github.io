@@ -455,3 +455,11 @@ De laadalgoritmes worden slimmer. Sommige systemen leren van jouw persoonlijke v
 Elektrische auto's fungeren in de toekomst als grote thuisbatterij — ze laden op goedkope uren en leveren stroom terug aan huis op dure uren. Als V2H gangbaar wordt (verwacht 2027-2029), wordt een aparte thuisbatterij minder noodzakelijk voor mensen met een EV.
 
 Wachten is dus een legitieme strategie. Maar als je nu al de voordelen wilt en de financiële ruimte hebt, is de Sessy + Tibber-combinatie vandaag al zinvol — zeker bij hoog verbruik, een warmtepomp of een EV.
+
+## Gerelateerde artikelen
+
+- [Dynamische Energiecontracten + Thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)
+- [Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
+- [Thuisbatterij binnen of buiten plaatsen: veilig 2026](/posts/thuisbatterij-buiten-vs-binnen-installeren-2026/)
+- [Marstek Venus review 2026: de goedkoopste slimme](/posts/marstek-venus-review-thuisbatterij/)
+- [Sessy review 2026: eerlijke test van de Nederlandse](/posts/sessy-review-thuisbatterij-nederland/)

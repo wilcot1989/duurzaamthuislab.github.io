@@ -491,3 +491,11 @@ Isolatie en warmtepompen horen bij elkaar. Hier is de optimale volgorde voor ver
 - Triple glas bij raamvervanging
 
 De volgorde is bewust: isolatie eerst. Een warmtepomp op een slecht geïsoleerde woning is als een emmer water scheppen met een zeef — je pompt warmte de woning in, maar die lekt er even snel weer uit. Isoleer eerst, dan profiteer je optimaal van de warmtepomp.
+
+## Gerelateerde artikelen
+
+- [Isolatie Subsidie Nederland 2026: Alle Regelingen en](/posts/isolatie-subsidie-nederland-2026/)
+- [Kierdichting, glaswol en tochtstrip in 2026](/posts/kierdichting-glaswol-tochtstrip-2026/)
+- [Spouwmuur isolatie kosten 2026: wat betaal je per m²?](/posts/spouwmuur-isolatie-kosten-2026/)
+- [Ventilatie met Warmteterugwinning (WTW) 2026](/posts/ventilatie-warmteterugwinning-wtw-2026/)
+- [Dakraam vs dakkapel isolatie 2026: warmteverlies](/posts/dakraam-vs-dakkapel-isolatie-2026/)

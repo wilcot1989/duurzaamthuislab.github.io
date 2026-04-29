@@ -276,3 +276,11 @@ Nee, kierdichting alleen is niet aftrekbaar. Maar als onderdeel van een grotere 
 
 
 <a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk verduurzamen →</a>
+
+## Gerelateerde artikelen
+
+- [Kierdichting, glaswol en tochtstrip in 2026](/posts/kierdichting-glaswol-tochtstrip-2026/)
+- [Dakisolatie Binnenuit vs Buitenuit 2026](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/)
+- [Dakraam vs dakkapel isolatie 2026: warmteverlies](/posts/dakraam-vs-dakkapel-isolatie-2026/)
+- [Energielabel Verbeteren: Stappenplan van G naar A (2026)](/posts/energielabel-verbeteren-stappenplan-2026/)
+- [Isolatie Subsidie Nederland 2026: Alle Regelingen en](/posts/isolatie-subsidie-nederland-2026/)

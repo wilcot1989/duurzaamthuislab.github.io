@@ -391,3 +391,11 @@ Een volledig geluidsmeetrapport bevat:
 - Aanbevelingen indien overschrijding
 
 Dit rapport is het document dat je nodig hebt als je bij de gemeente een klacht indient of als bewijs in een civiele procedure.
+
+## Gerelateerde artikelen
+
+- [Warmtepomp monoblock vs split 2026: keuze gids](/posts/warmtepomp-monoblock-vs-split-2026/)
+- [Warmtepomp Onderhoud 2026: Wat Moet Wanneer en Wat Kost Het?](/posts/warmtepomp-onderhoud-kosten-2026/)
+- [Vloerverwarming aanleggen in bestaande woning](/posts/vloerverwarming-aanleggen-kosten-2026/)
+- [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
+- [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)

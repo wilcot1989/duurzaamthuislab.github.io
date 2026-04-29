@@ -249,3 +249,11 @@ Slimme thermostataten verdienen zichzelf in bijna alle gevallen terug binnen 2 j
 
 
 <a href="/go/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin</a>
+
+## Gerelateerde artikelen
+
+- [Smart Home Energiebeheer 2026: Bespaar met Slimme](/posts/smart-home-energiebeheer-2026/)
+- [Energiekosten besparen: 100 praktische tips voor 2026](/posts/energiekosten-besparen-100-tips-2026/)
+- [Energieleverancier overstappen 2026](/posts/energieleverancier-overstappen-2026-stappenplan/)
+- [Kierdichting, glaswol en tochtstrip in 2026](/posts/kierdichting-glaswol-tochtstrip-2026/)
+- [Ventilatie met Warmteterugwinning (WTW) 2026](/posts/ventilatie-warmteterugwinning-wtw-2026/)

@@ -349,3 +349,11 @@ Als je een goed geïsoleerde woning hebt, waarde hecht aan stilte en duurzaamhei
 ---
 
 *Vragen over je eigen woning, isolatieniveau of of de aroTHERM plus past bij jouw situatie? Laat een reactie achter, ik reageer zo snel mogelijk.*
+
+## Gerelateerde artikelen
+
+- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
+- [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)
+- [Quatt warmtepomp review 2026: slim abonnement of dure](/posts/quatt-warmtepomp-review-2026/)
+- [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)

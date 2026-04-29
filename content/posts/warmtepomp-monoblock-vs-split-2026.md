@@ -358,3 +358,11 @@ Veel gemeenten bieden leningen van 0-2% rente voor warmtepompen. Gecombineerd me
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepomp →</a>
+
+## Gerelateerde artikelen
+
+- [Warmtepomp geluid buren 2026: 40dB norm](/posts/warmtepomp-geluid-buren-2026-norm/)
+- [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
+- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
+- [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)

@@ -345,3 +345,11 @@ Een vervangen warmtepomp na 15 jaar heeft dan de voordelen van de technologie va
 ---
 
 *Heb je vragen over jouw specifieke situatie — isolatiewaarde, bestaande installatie, subsidie? Laat een reactie achter, ik beantwoord ze zo snel mogelijk.*
+
+## Gerelateerde artikelen
+
+- [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
+- [Vaillant aroTHERM plus review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)
+- [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)
+- [Quatt warmtepomp review 2026: slim abonnement of dure](/posts/quatt-warmtepomp-review-2026/)
+- [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)

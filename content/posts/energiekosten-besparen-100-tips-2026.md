@@ -512,3 +512,11 @@ Je hoeft niet alle 100 tips in één keer te implementeren. Begin met de gratis 
 Stapel vervolgens de grotere maatregelen op basis van je budget en woning. Een goed geïsoleerde woning met zonnepanelen, een hybride warmtepomp en een dynamisch contract kan je energierekening halveren of zelfs met 70% verlagen.
 
 De vraag is niet óf je energiekosten kunt verlagen — maar hoe snel je ermee begint.
+
+## Gerelateerde artikelen
+
+- [Energieleverancier overstappen 2026](/posts/energieleverancier-overstappen-2026-stappenplan/)
+- [ANWB Energie review 2026: dynamisch contract met vangnet](/posts/anwb-energie-dynamisch-review-2026/)
+- [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+- [Beste Energiemonitor 2026: P1 Meter Vergelijking](/posts/beste-energiemonitor-p1-meter-2026/)
+- [Cv-ketel onderhoudscontract 2026: heb je het echt nodig?](/posts/cv-ketel-onderhoudscontract-2026-zin/)

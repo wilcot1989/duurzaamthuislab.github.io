@@ -412,3 +412,11 @@ Wat ik Joost uiteindelijk heb geadviseerd: de Itho Daalderop HP Cube 200L, mede 
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+
+## Gerelateerde artikelen
+
+- [Zonneboiler vs warmtepompboiler 2026: welke levert meer op?](/posts/zonneboiler-vs-warmtepompboiler-2026/)
+- [Boiler of doorstroomgeiser: warmwater opties na het gas](/posts/boiler-vs-doorstroomgeiser-2026/)
+- [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+- [Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken](/posts/beste-omvormer-zonnepanelen-2026/)
+- [Beste Zonnepanelen 2026: Top 5 Merken Vergeleken](/posts/beste-zonnepanelen-2026/)

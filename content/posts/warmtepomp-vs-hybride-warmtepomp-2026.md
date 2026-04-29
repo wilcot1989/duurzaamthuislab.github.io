@@ -397,3 +397,11 @@ Ik had mijn Atag hybride warmtepomp laten installeren in oktober 2022. Twee jaar
 Op dit tempo is de warmtepomp volledig terugverdiend na 4,7 jaar — exact binnen de verwachte bandbreedte van 4-6 jaar die ik vooraf had berekend.
 
 Zou ik het opnieuw doen? Ja. Zonder twijfel.
+
+## Gerelateerde artikelen
+
+- [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
+- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
+- [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
+- [Pelletkachel of warmtepomp 2026: nog rendabel?](/posts/pellet-kachel-vs-warmtepomp-2026/)

@@ -383,3 +383,11 @@ Een pelletkachel is in 2026 legaal, maar niet meer subsidiabel en financieel min
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepomp</a>
+
+## Gerelateerde artikelen
+
+- [Warmtepomp vs hybride warmtepomp: wat is slimmer in 2026?](/posts/warmtepomp-vs-hybride-warmtepomp-2026/)
+- [ISDE Subsidie 2026: Complete Gids voor Warmtepompen &](/posts/isde-subsidie-warmtepompen-2026/)
+- [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
+- [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
+- [Vaillant aroTHERM plus review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)

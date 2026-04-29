@@ -347,3 +347,11 @@ De gemiddelde installatie inclusief ISDE-voorbereiding neemt 3–5 weken van bes
 ---
 
 *Disclosure: ik gebruik affiliate links op deze pagina. De prijzen en subsidies zijn gebaseerd op publieke bronnen van begin 2026 en kunnen zijn gewijzigd. Controleer altijd de actuele RVO-lijst en vraag meerdere offertes aan.*
+
+## Gerelateerde artikelen
+
+- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
+- [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
+- [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
+- [Beste warmtepompboiler 2026: vergelijking van 6 modellen](/posts/beste-warmtepompboiler-2026/)

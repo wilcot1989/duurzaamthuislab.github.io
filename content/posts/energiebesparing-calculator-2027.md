@@ -301,3 +301,11 @@ Thuisbatterij — als de calculator groen licht geeft:
 Heb je vragen over de uitkomst of wil je dat ik meekijk bij jouw specifieke situatie? Laat een reactie achter.
 
 *Mark Bakker — april 2026*
+
+## Gerelateerde artikelen
+
+- [Saldering calculator 2027: jaar-voor-jaar impact bereken](/posts/saldering-calculator-2027-volledig/)
+- [Oost-west zonnepanelen vs. zuidsysteem](/posts/oost-west-zonnepanelen-vs-zuid-2026/)
+- [Saldering stopt in 2027: de volledige gids voor](/posts/saldering-stopt-2027-volledige-gids/)
+- [Saldering vs dynamisch contract: welke is voordeliger na](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
+- [Terugleverkosten zonnepanelen 2026](/posts/terugleverkosten-zonnepanelen-2026/)
