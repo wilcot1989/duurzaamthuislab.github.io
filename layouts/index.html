@@ -50,6 +50,89 @@
   </div>
 </section>
 
+<!-- ROUTE WIDGET -->
+<section style="padding:clamp(3rem,7vh,5rem) 0;background:var(--cream);border-top:1px solid var(--ink-line);">
+  <div class="container" style="max-width:52rem;">
+    <div style="font-family:var(--mono);font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--terracotta);margin-bottom:.75rem;">— 01b / Persoonlijk advies</div>
+    <h2 style="font-family:var(--display);font-size:clamp(1.6rem,3vw,2.25rem);line-height:1.1;font-weight:400;letter-spacing:-.02em;color:var(--ink);margin-bottom:.5rem;">Welke route past bij <em style="font-style:italic;color:var(--terracotta);">jou</em>?</h2>
+    <p style="font-family:var(--display);color:var(--ink-soft);font-size:1rem;margin-bottom:2rem;">Wat is je grootste energiekost dilemma?</p>
+    <div id="dtl-q" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;">
+      <button onclick="dtlShow('saldering')" style="font-family:var(--sans);font-size:.95rem;font-weight:500;padding:1rem 1.25rem;border:2px solid var(--ink-line);background:var(--cream);color:var(--ink);cursor:pointer;border-radius:2px;text-align:left;transition:border-color .2s;">⚡ Saldering 2027 vermijden</button>
+      <button onclick="dtlShow('gas')" style="font-family:var(--sans);font-size:.95rem;font-weight:500;padding:1rem 1.25rem;border:2px solid var(--ink-line);background:var(--cream);color:var(--ink);cursor:pointer;border-radius:2px;text-align:left;transition:border-color .2s;">🔥 Gas vervangen</button>
+      <button onclick="dtlShow('camping')" style="font-family:var(--sans);font-size:.95rem;font-weight:500;padding:1rem 1.25rem;border:2px solid var(--ink-line);background:var(--cream);color:var(--ink);cursor:pointer;border-radius:2px;text-align:left;transition:border-color .2s;">🏕 Powerstation camping</button>
+      <button onclick="dtlShow('isolatie')" style="font-family:var(--sans);font-size:.95rem;font-weight:500;padding:1rem 1.25rem;border:2px solid var(--ink-line);background:var(--cream);color:var(--ink);cursor:pointer;border-radius:2px;text-align:left;transition:border-color .2s;">🏠 Isolatie</button>
+    </div>
+    <div id="dtl-r" style="display:none;margin-top:2rem;"></div>
+  </div>
+</section>
+
+<script>
+(function(){
+  var results = {
+    saldering: {
+      title: 'Top 3 voor saldering 2027',
+      items: [
+        { name: 'Sessy thuisbatterij', badge: '€5.995', url: '/go/sessy', desc: 'Plug & play, 5 kWh, NL-support — meest verkochte keuze' },
+        { name: 'Tibber dynamisch contract', badge: 'Gratis app', url: '/go/tibber', desc: 'Laad op als stroom goedkoop is, lever terug als het duur is' },
+        { name: 'Marstek Venus', badge: '€2.299', url: '/go/marstek', desc: 'Betaalbare instapper, 5 kWh, directe beschikbaarheid' }
+      ]
+    },
+    gas: {
+      title: 'Top 3 voor gas vervangen',
+      items: [
+        { name: 'ATAG ENERGION warmtepomp', badge: 'Hybride', url: '/go/atag', desc: 'Nederlandstalige service, hybride optie voor slechtere isolatie' },
+        { name: 'Quatt warmtepomp', badge: 'All-electric', url: '/go/quatt', desc: 'Inclusief installatiebegeleiding, populair bij rijtjeshuizen' },
+        { name: 'Vaillant aroTHERM', badge: 'Flexibel', url: '/go/vaillant', desc: 'Breed leveringsnetwerk, geschikt voor bestaande radiatoren' }
+      ]
+    },
+    camping: {
+      title: 'Top 3 powerstations',
+      items: [
+        { name: 'EcoFlow DELTA 2', badge: '1 kWh', url: '/go/ecoflow', desc: 'Snel geladen (1 uur), breed leverbaar, UPS-functie' },
+        { name: 'Anker SOLIX C1000', badge: '1 kWh', url: '/go/anker-solix', desc: 'Compacte behuizing, stille ventilator, 2400W uitgang' },
+        { name: 'Jackery Explorer 1000 Pro', badge: '1 kWh', url: '/go/jackery', desc: 'Eenvoudige bediening, lichtste in zijn klasse' }
+      ]
+    },
+    isolatie: {
+      title: 'Top 3 isolatiestarters',
+      items: [
+        { name: 'Spouwmuurisolatie', badge: 'Snelst ROI', url: 'https://www.knaufinsulation.nl/', desc: 'Terugverdientijd <3 jaar, €800–€1.400 voor gemiddeld rijtjeshuis', ext: true },
+        { name: 'Vloerisolatie Tonzon', badge: '€1.500–€2.500', url: 'https://www.tonzon.nl/', desc: 'Balkenbloezen aanpak, geen breekwerk nodig, zelf te plaatsen', ext: true },
+        { name: 'Dakisolatie gids', badge: 'Info', url: '/posts/dakisolatie-gids/', desc: 'Lees onze gids: plat vs schuin dak, kosten en subsidies' }
+      ]
+    }
+  };
+
+  window.dtlShow = function(key) {
+    var r = results[key];
+    var btns = document.querySelectorAll('#dtl-q button');
+    btns.forEach(function(b){ b.style.borderColor = 'var(--ink-line)'; b.style.background = 'var(--cream)'; });
+    event.target.style.borderColor = '#C66E3F';
+    event.target.style.background = '#FDF4EE';
+
+    var html = '<div style="font-family:var(--mono);font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;color:var(--terracotta);margin-bottom:1.25rem;">' + r.title + '</div>';
+    html += '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem;">';
+    r.items.forEach(function(item, i){
+      var href = item.url;
+      var target = item.ext ? ' target="_blank" rel="noopener"' : '';
+      html += '<a href="' + href + '"' + target + ' style="display:block;padding:1.25rem;border:1px solid var(--ink-line);background:var(--cream);color:var(--ink);text-decoration:none;border-radius:2px;">';
+      html += '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:.5rem;margin-bottom:.5rem;">';
+      html += '<strong style="font-family:var(--sans);font-size:.95rem;font-weight:600;">' + item.name + '</strong>';
+      html += '<span style="font-family:var(--mono);font-size:.75rem;background:#C66E3F;color:#FAF7F0;padding:.2rem .6rem;border-radius:999px;white-space:nowrap;">' + item.badge + '</span>';
+      html += '</div>';
+      html += '<p style="font-size:.88rem;color:var(--ink-soft);line-height:1.5;margin:0 0 .75rem;">' + item.desc + '</p>';
+      html += '<span style="font-family:var(--mono);font-size:.7rem;color:#C66E3F;letter-spacing:.05em;">Bekijk →</span>';
+      html += '</a>';
+    });
+    html += '</div>';
+
+    var el = document.getElementById('dtl-r');
+    el.innerHTML = html;
+    el.style.display = 'block';
+  };
+})();
+</script>
+
 <!-- FEATURED ARTICLE — saldering-stopt -->
 {{ $featured := where $allPosts "File.LogicalName" "saldering-stopt-2027-volledige-gids.md" }}
 {{ if not $featured }}{{ $featured = first 1 $allPosts }}{{ end }}
