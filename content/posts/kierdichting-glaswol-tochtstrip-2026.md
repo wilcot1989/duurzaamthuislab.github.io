@@ -286,3 +286,171 @@ Van alle maatregelen die ik heb genomen om mijn woning te verduurzamen — zonne
 Voor een woning die op tocht staat, is een middag met €100 aan materialen het meest effectieve startpunt voor verduurzaming. Niet sexy, niet zichtbaar voor de buitenwereld, maar het meest directe financiële rendement dat je kunt behalen.
 
 Doe de rooktest, identificeer je lekken, koop de juiste materialen (EPDM, acrylaat, purschuim) en spend twee uur. De gasrekening dit stookseizoen zal het bevestigen.
+
+---
+
+## Aanvullende materialen en gevorderde technieken
+
+Als de basiskierdichting gedaan is, zijn er verdergaande maatregelen die extra besparing geven:
+
+### Blower-door test laten uitvoeren
+
+Een blower-door test meet de luchtdichtheid van je woning wetenschappelijk. Een elektrische ventilator wordt in de voordeur gemonteerd en brengt de woning op overdruk of onderdruk. Een meetinstrument registreert hoeveel lucht per uur door de gebouwschil lekt.
+
+**Wat geeft de meting je?**
+- Het luchtlekgetal n50 (vol/h bij 50 Pascal) — de NEN-norm voor woningen is n50 ≤ 3,0 voor bestaande bouw
+- Een thermografische camera (vaak meegebracht) toont precies waar koude lucht binnenkomt
+- Een prioriteitenlijst van lekken om aan te pakken
+
+**Kosten:** €300-€600 voor een complete test inclusief rapportage. Sommige gemeenten vergoeden dit gedeeltelijk.
+
+**Wanneer is het de moeite?** Als je al de basis-kierdichting hebt gedaan en nog meer wilt besparen, geeft de blower-door test gerichte informatie over resterende lekken die je zelf niet kunt vinden.
+
+### Airtight tape voor bouwnaden
+
+In de bouw wordt Tescon Profect, Siga Rissan of vergelijkbare luchtdichte tape gebruikt voor bouwkundige verbindingen. Particulieren kunnen dit ook kopen (€15-€30 per rol) voor het afdichten van:
+- Aansluitingen van dampschermen op gevels
+- Naden rondom dakvensters
+- Verbindingen bij doorvoeringen door gipsplaten
+
+Gewone tape (pakket- of duct tape) is geen alternatief — die laat los na een paar jaar en is niet dampdoorlatend. Gebruik altijd specifieke airtight tape.
+
+### Acoustisch kit voor geluid én luchtdichting
+
+In woningen met geluidsoverlast van buiten (verkeer, buren) is akoestische kit (flexibel, niet-uithardend) een dubbel voordeel: het dicht kieren én verbetert de geluidsisolatie. Kosten: €10-€15 per tube. Geschikt voor naden rondom kozijnen en leidingdoorvoeringen.
+
+---
+
+## Seizoensgebonden kierdichting: wintercheck
+
+Kierdichting is niet eenmalig. Elk jaar voor het stookseizoen doe ik een korte check:
+
+**Oktober-checklist kierdichting:**
+
+- [ ] Tochtstrips bij alle deuren: zijn ze nog elastisch of zijn ze samengeperst?
+- [ ] Borstelseal onder voordeur: is de borstel nog intact of versleten?
+- [ ] Kit rondom kozijnen: zijn er nieuwe scheuren of loslating?
+- [ ] Doorvoeringen leidingen: zijn er nieuwe scheurvorming door temperatuurwisseling?
+- [ ] Stopcontacten buitenmuur: zijn de isolatieschijfjes nog aanwezig?
+
+Gemiddeld heb ik jaarlijks €15-€30 aan bijwerking nodig (nieuwe kit hier en daar, vervanging van een versleten tochtstrip). De jaarlijkse besparing van €290 staat hier ruimschoots tegenover.
+
+---
+
+## Kierdichting in combinatie met mechanische ventilatie
+
+Een veelgestelde vraag: als ik de woning dichter maak, wordt de lucht dan niet ongezond?
+
+Dit is een terechte zorg. Een luchtdichte woning moet bewust geventileerd worden, anders stijgen de CO2-concentratie en luchtvochtigheid.
+
+**Ventilatiemethoden:**
+
+1. **Ramen openen:** de simpelste methode, maar ongekontroleerd en energieverspillend
+2. **Ventilatieroosters in ramen/kozijnen:** geeft gecontroleerde minimale ventilatie zonder grote energieverliezen
+3. **Mechanische ventilatie (type C):** een afzuigventilator in keuken en badkamer trekt lucht af; verse lucht komt binnen via ventilatieroosters
+4. **WTW-systeem (type D):** mechanische aan- en afvoer met warmteterugwinning — de meest energiezuinige oplossing
+
+Kierdichting is compatibel met alle ventilatietypes. De bedoeling is ongekontroleerde luchtlekken (tocht) te elimineren, niet de gecontroleerde ventilatie te blokkeren.
+
+**Vuistregel:** als je kierdichting hebt uitgevoerd, controleer dan of je ventilatieroosters in alle slaapkamers aanwezig en open zijn. Slaap nooit in een volledig gesloten, luchtdichte kamer zonder ventilatierooster.
+
+---
+
+## Huurwoning: wat mag je kierdichten?
+
+In een huurwoning mag je als huurder kleine aanpassingen doen die geen permanente schade aanrichten en die je bij vertrek kunt terugdraaien.
+
+**Wel toegestaan (zonder toestemming verhuurder):**
+- Zelfklevende tochtstrips bij deuren (verwijderbaar)
+- Isolatieschuim achter stopcontact-dekplaten
+- Stopcontact-isolatiefolie
+- Radiatorfolie (niet-permanent bevestigd)
+
+**Toestemming verhuurder vereist:**
+- Kit rondom kozijnen (niet te verwijderen zonder beschadiging)
+- Purschuim in leidingdoorvoeringen (permanent)
+- Borstelseal die vasgeschroefd wordt aan de vloer
+
+**Strategie voor huurders:** gebruik zoveel mogelijk verwijderbare producten. Bij verhuizing neem je de tochtstrips mee — ze zijn in je nieuwe woning direct weer bruikbaar.
+
+---
+
+## Glaswol versus andere isolatievezels: een diepere vergelijking
+
+In de context van kierdichting en kleine isolatie-ingrepen zijn er meerdere vezelachtige materialen beschikbaar:
+
+| Materiaal | Lambdawaarde (W/mK) | Brandreactie | Vochtgevoeligheid | Prijs per m2 (30mm) |
+|-----------|--------------------|--------------|--------------------|---------------------|
+| Glaswol | 0,032-0,044 | A1 (niet-brandbaar) | Matig (verliest R-waarde bij vocht) | €3-€6 |
+| Steenwol | 0,033-0,040 | A1 (niet-brandbaar) | Goed (vochtbestendig) | €4-€8 |
+| EPS (piepschuim) | 0,031-0,038 | E (beperkt brandbaar) | Goed (waterafstotend) | €2-€5 |
+| XPS | 0,028-0,034 | E (beperkt brandbaar) | Uitstekend (waterafstotend) | €5-€10 |
+| PUR-schuim (spuit) | 0,022-0,028 | B (moeilijk ontbrandbaar) | Uitstekend | €8-€15 |
+
+Voor kierdichting gebruik je glaswol of steenwol als opvulmateriaal bij grote holtes, en PUR-schuim als luchtdicht afdichtend materiaal. EPS en XPS zijn geschikt voor grotere isolatievlakken (vloer, muur) maar niet voor kierdichting.
+
+---
+
+## Thermografie: zie wat je anders niet kunt voelen
+
+Een thermografische camera (warmtebeeldcamera) maakt de koude plekken in je woning zichtbaar. Temperatuurverschillen van 1-2°C worden als kleurverschil weergegeven: blauw = koud, rood = warm.
+
+**Wanneer is thermografie nuttig?**
+- Vóór kierdichting: om alle lekken te vinden
+- Ná kierdichting: om te controleren of je ze goed hebt afgedicht
+- Bij isolatievragen: om te zien of de spouwmuurisolatie goed is aangebracht (koudebruggen zijn zichtbaar)
+
+**Kosten thermografie:**
+- Huur van een camera: €50-€100/dag (online te huren via bijv. Loxam of Boels)
+- Professionele thermografische inspectie: €200-€500 inclusief rapport
+
+Ik heb een thermografische camera één dag gehuurd voor €60 en daarmee precies gezien welke stopcontacten en kozijnnaden nog lekken had na mijn eerste kierdichtingsronde. De tweede ronde was daardoor efficiënter.
+
+---
+
+## De verbinding met andere verduurzamingsmaatregelen
+
+Kierdichting staat niet op zichzelf — het werkt samen met andere maatregelen:
+
+**Kierdichting + spouwmuurisolatie:**
+Spouwmuurisolatie vermindert warmtegeleiding door de muur. Kierdichting vermindert warmteverlies door luchtstroming. Samen elimineren ze twee van de drie warmteverliesroutes via de gevels (straling is het derde).
+
+**Kierdichting + warmtepomp:**
+Een warmtepomp werkt efficiënter bij een luchtdichtere woning. De lagere warmtevraag betekent dat de warmtepomp minder uren hoeft te draaien en op hogere buitentemperaturen al voldoende warmte kan leveren. Dit verhoogt de gemiddelde SCOP.
+
+**Kierdichting + ventilatiesysteem:**
+Als je overstapt van ongecontroleerde ventilatie (kieren) naar een mechanisch ventilatiesysteem, moet je eerst de onbedoelde kieren afdichten. Anders zuigt het ventilatiesysteem koude lucht aan via de kieren in plaats van via de ventilatieroosters.
+
+---
+
+## Budget-scenario's: hoeveel bespaar je bij elk investeringsniveau?
+
+**Budget €25 (allerminimum):**
+- Tochtstrips bij voordeur: €12
+- Radiatorfolie achter twee radiatoren: €10
+- Stopcontact-isolatie 6 stuks: €6
+- Verwachte besparing: €60-€100/jaar
+
+**Budget €50:**
+- Alles uit €25-scenario
+- Tochtstrip achterdeur en tussendeur: €10
+- Acrylaatkit twee kozijnen: €10
+- Kitpistool: €8
+- Verwachte besparing: €120-€180/jaar
+
+**Budget €100 (mijn aanpak):**
+- Alle deuren volledig gedicht (EPDM + borstelseal)
+- Acht kozijnen gekitted
+- Vier leidingdoorvoeringen afgedicht
+- Twaalf stopcontacten geïsoleerd
+- Vloer-muur overgang begane grond
+- Verwachte besparing: €250-€350/jaar
+
+**Budget €200:**
+- Alles uit €100-scenario
+- Blower-door test (of thermografische camera huren): €60-€100
+- Bijwerking op basis van gevonden restlekken
+- Airtight tape voor resterende naden
+- Verwachte besparing: €300-€450/jaar
+
+De incrementele besparing per extra €50 investering daalt naarmate de makkelijkste lekken al zijn gedicht — maar de terugverdientijd blijft zelfs bij €200 investering onder één jaar.

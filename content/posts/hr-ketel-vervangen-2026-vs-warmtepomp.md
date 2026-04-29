@@ -275,3 +275,148 @@ In de afgelopen twee jaar heb ik via mijn buurtnetwerk twaalf buren begeleid bij
 **Mijn conclusie:** voor de meeste Nederlandse woningen (label C-D, radiatoren, gasverbruik 1.200-2.000 m3) is de hybride warmtepomp de rationele keuze op het moment dat de HR-ketel aan vervanging toe is. De meerprijs ten opzichte van een nieuwe HR-ketel is minimaal, de besparing is reëel en de subsidie maakt het verschil.
 
 Alleen bij slechte isolatie (label E-G) of extreme financiële druk is de nieuwe HR-ketel als tijdelijke oplossing verdedigbaar — mits je daarna alsnog verduurzaamt.
+
+---
+
+## De komende regelgeving: wat gaat veranderen?
+
+De keuze tussen HR-ketel en warmtepomp staat niet los van aankomende wetgeving. Dit zijn de relevante ontwikkelingen voor 2026-2030:
+
+### EU-gebouwenrichtlijn (EPBD 2024)
+
+De herziene EPBD (Energy Performance of Buildings Directive) verplicht EU-lidstaten om:
+- Vanaf 2028: geen subsidies meer voor stand-alone fossiele ketels (gas, olie) in nieuwbouw
+- Vanaf 2033: geen nieuwe gasgestookte verwarmingssystemen in nieuwbouw
+- Bestaande bouw: lidstaten moeten een renovatieroadmap opstellen die geleidelijk tot hogere energieprestatieisen leidt
+
+Nederland heeft nog geen definitieve implementatiewetgeving. De verwachting is dat gasketels voor bestaande bouw nog tot 2030-2035 vervangbaar zijn, maar subsidies zullen richting warmtepompen gaan.
+
+### Gemeentelijke transitievisies warmte
+
+Elke gemeente in Nederland heeft een transitievisie warmte opgesteld die aangeeft wanneer welke wijken van het aardgas overstappen naar een alternatief (warmtenet, all-electric, waterstof). Sommige wijken staan gepland voor 2028-2032.
+
+**Hoe controleer je dit?** Zoek op de website van je gemeente naar "transitievisie warmte" of gebruik het Wijkwarmteplan-kaartje dat RVO beschikbaar stelt.
+
+Als jouw wijk voor 2030 op de planning staat voor een alternatieve warmtebron, is investeren in een nieuwe HR-ketel extra onverstandig — je zou hem binnen 5-8 jaar moeten afschrijven.
+
+### Gasprijs volatiliteit en risico
+
+De gasprijs is de afgelopen vijf jaar enorm volatiel geweest. Van €0,60/m3 in 2020 naar €3,50/m3 in 2022 (tijdelijk), terug naar €0,90-€1,20/m3 nu.
+
+Een hybride warmtepomp beschermt deels tegen toekomstige gasprijsstijgingen: bij hoge gasprijzen schakelt het algoritme meer over naar de warmtepomp (stroom). Dit is een reëel risicomanagement-argument voor de hybride boven een nieuwe HR-ketel.
+
+---
+
+## Intergas, Remeha of Vaillant: welke HR-ketel als je toch kiest?
+
+Als je na overweging kiest voor een nieuwe HR-ketel, zijn dit de betrouwbaarste merken op basis van ervaringen van installateurs en Consumentenbond-onderzoeken:
+
+### Intergas
+
+Intergas wordt beschouwd als het betrouwbaarste merk voor Nederlandse omstandigheden. Het bedrijf is Nederlands (Coevorden), de ketels worden in Nederland gebouwd en het servicenetwerk is groot.
+
+- **Storing-percentage:** laagste van alle merken (Consumentenbond 2023)
+- **Prijs:** €850-€1.200 voor de ketel
+- **Garantie:** 5 jaar fabrieksgarantie op de warmtewisselaar bij jaarlijks onderhoud
+
+Aanbevolen modellen 2026: Intergas HRE 24/18 (voor kleine woningen) en Intergas HRE 36/30 (voor grote woningen of met meerdere badkamers).
+
+### Remeha
+
+Remeha (onderdeel van BDR Thermea) is een populair merk met een breed installateurnetwerk.
+
+- **Prijs:** €1.000-€1.500 voor de ketel
+- **Betrouwbaarheid:** goed, maar iets meer storingen dan Intergas in ervaringsonderzoeken
+- **Voordeel:** ook leverancier van hybride warmtepompen (Elga Ace) — kies je nu Remeha ketel, dan kun je later eenvoudiger de Remeha hybride toevoegen
+
+### Vaillant
+
+Duits merk met een sterke reputatie en brede beschikbaarheid.
+
+- **Prijs:** €1.100-€1.600 voor de ketel
+- **Voordeel:** Vaillant heeft ook de aroTHERM warmtepomp — keuze voor Vaillant ketel nu maakt latere hybride-upgrade makkelijker
+- **ecoTEC Plus:** het meest verkochte model in Nederland, bewezen en betrouwbaar
+
+### Bosch
+
+- **Prijs:** €950-€1.300
+- **Voordeel:** lang betrouwbaarheidsrecord, goede ondersteuning
+- **Nadeel:** minder breed dealer-netwerk dan Intergas of Vaillant in sommige regio's
+
+**Mijn persoonlijke aanbeveling als je toch een HR-ketel kiest:** Intergas voor wie puur op betrouwbaarheid wil, Remeha of Vaillant voor wie later makkelijk wil upgraden naar hybride.
+
+---
+
+## De praktijk: hoe verloopt een hybride warmtepomp-installatie?
+
+Als je voor de hybride warmtepomp kiest, is het handig te weten wat er praktisch bij komt kijken:
+
+### Dag 1: inspectie
+
+De installateur inspecteert:
+- Locatie voor de buitenunit (minimaal 0,5 m afstand van gevel, niet direct bij slaapkamerraam)
+- Elektra-beschikbaarheid bij de locatie van de buitenunit
+- De bestaande cv-installatie (is de ketel geschikt als back-up? Heeft de cv-installatie voldoende waterinhoud voor de warmtepomp?)
+- Ventilatie-eisen (de buitenunit heeft luchtcirculatie nodig)
+
+### Week 1-6: wachttijd
+
+Na de bestelling wacht je op levering. In 2026 zijn de wachttijden voor hybride warmtepompen 3-8 weken. Plan bij voorkeur een installatie in het voor- of najaar (buiten het stookseizoen).
+
+### Installatiedag (1-2 dagen)
+
+Installatie omvat:
+- Buitenunit plaatsen en bevestigen (ankers in gevel of op fundatie)
+- Koudemiddelleiding trekken van buiten naar binnen (door gevel, vaak via bestaande doorvoer)
+- Hydro-unit plaatsen naast of boven de cv-ketel (bevat de warmtewisselaar, pomp en regelaar)
+- Verbinden met het bestaande cv-systeem
+- Elektra aansluiten (1-fase, 16A voor de meeste hybride warmtepompen)
+- Instellen en testen
+
+### Eerste maand
+
+De eerste maand is een inregelperiode. Het algoritme leert het stookpatroon van de woning. Soms is bijstelling nodig van de stooklijn-instellingen. Houd de app in de gaten en raporteer afwijkingen aan de installateur.
+
+---
+
+## Veelgestelde vragen bij warmtepomp vs HR-ketel beslissing
+
+**Moet ik mijn bestaande ketel weggooien als ik een hybride warmtepomp kies?**
+
+Nee. Bij een hybride warmtepomp blijft de bestaande cv-ketel als back-up actief. De hybride warmtepomp werkt samen met je ketel. Alleen bij full-electric wordt de ketel verwijderd.
+
+**Kan ik een hybride warmtepomp gebruiken als mijn ketel al 10 jaar oud is?**
+
+Ja, mits de ketel nog goed functioneert. De meeste hybride warmtepompen zijn te koppelen aan ketels van de gangbare merken (Remeha, Vaillant, Intergas, Bosch). Sommige fabrikanten (Quatt, Atag) koppelen de warmtepomp specifiek aan hun eigen ketelmodellen.
+
+**Wat als de ketel kapot gaat terwijl ik de warmtepomp gebruik?**
+
+Dan verwarmt de warmtepomp door (zolang het niet te koud is) en is reparatie of vervanging van de ketel minder urgent dan zonder warmtepomp. Je zit nooit volledig zonder verwarming.
+
+**Hoe hoog is de stroom-extra-verbruik bij een hybride warmtepomp?**
+
+Typisch 800-1.500 kWh per jaar extra stroom (afhankelijk van gasverbruik en isolatiegraad). Bij een stroomprijs van €0,32/kWh is dat €256-€480 extra stroom per jaar. De gasbesparing (€500-€1.100/jaar) overtreft dit ruimschoots.
+
+---
+
+## Samenvatting: de beslisboom
+
+Gebruik deze beslisboom om snel de juiste keuze te maken:
+
+```
+Is je HR-ketel kapot of bijna kapot?
+│
+├── JA → Wil je direct verduurzamen?
+│         │
+│         ├── JA → Is je woning label C of beter?
+│         │         ├── JA → Overweeg hybride warmtepomp (Quatt, Atag)
+│         │         └── NEE → Nieuwe HR-ketel, dan eerst isoleren, dan warmtepomp
+│         │
+│         └── NEE → Nieuwe HR-ketel (Intergas aanbevolen)
+│
+└── NEE → Is je woning label C of beter en gasverbruik >1.500 m3?
+           ├── JA → Proactief hybride warmtepomp overwegen (wacht niet op kapotte ketel)
+           └── NEE → Eerst isoleren, dan warmtepomp-keuze heroverwegen
+```
+
+De grootste fout die mensen maken: te lang wachten. De ISDE-subsidie is beschikbaar nu. De terugverdientijd van de meerprijs hybride vs HR-ketel is 1,5-2,5 jaar. Elk jaar wachten kost je €600-€900 aan gaskosten die vermijdbaar waren.

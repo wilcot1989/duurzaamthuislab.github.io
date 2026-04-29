@@ -384,3 +384,94 @@ Na twee jaar met mijn oost-west systeem en de berekeningen voor 2027-2030 is mij
 **Voor platte daken:** oost-west is bijna altijd de slimste keuze vanwege de hogere paneeldichtheid en het betere dagprofiel.
 
 Laat een gespecialiseerde installateur zoals [Zonneplan](/go/zonneplan) een PVGIS-berekening maken voor beide opties in jouw specifieke situatie. Die berekening kost niets en geeft concrete cijfers voor jouw dak, verbruiksprofiel en salderingscontext.
+
+---
+
+## De rol van de omvormer bij oost-west systemen
+
+De omvormer is het hart van je zonnepanelensysteem — hij zet de gelijkstroom van de panelen om naar wisselstroom voor je huishoudelijk net. Bij oost-west systemen zijn er specifieke aandachtspunten:
+
+### String-omvormer met twee MPPTs
+
+De meest gangbare oplossing voor oost-west is een hybride string-omvormer met twee aparte ingangen (MPPT's). Elk dakvlak (oost en west) krijgt een eigen string die onafhankelijk wordt aangestuurd.
+
+Populaire modellen 2026:
+- **SMA Sunny Boy 5.0 AV:** €600-€800, 2 MPPT, stil, bewezen betrouwbaar
+- **Fronius Symo:** €700-€900, 2-3 MPPT, uitstekende monitoring
+- **Huawei SUN2000:** €500-€700, 2 MPPT, goede prijs-kwaliteitsverhouding
+- **SolarEdge SE5000H (met optimizers):** €800-€1.100 (excl. optimizers), hoge opbrengst bij schaduw
+
+Bij een 10 kWp systeem vertegenwoordigt de omvormer circa 10-15% van de totaalkosten. Bespaar niet op de omvormer — een defecte omvormer legt het hele systeem plat.
+
+### Omvormer-grootte bij oost-west
+
+Een slimme eigenschap van oost-west is dat je de omvormer kunt undersizen. De maximale gelijktijdige output is lager dan bij een zuidsysteem, omdat oost en west nooit tegelijk op piek zitten.
+
+**Voorbeeld:** 14 panelen à 400 Wp = 5.600 Wp piek. Bij zuidsysteem zou je een 5,0-5,5 kW omvormer nodig hebben. Bij oost-west is een 4,0-4,5 kW omvormer voldoende (de gelijktijdige piek van 7 oost + 7 west is circa 3,5-4,0 kW).
+
+Dit spaart €100-€200 op de omvormer en verbetert de prestaties bij lage instraling (overcast dagen), omdat kleine omvormers efficiënter werken bij lage belasting.
+
+---
+
+## Onderhoud van oost-west systemen
+
+Oost-west systemen hebben geen bijzondere onderhoudseisen ten opzichte van zuidopstellingen. Wel zijn er een paar specifieke aandachtspunten:
+
+### Reinigingsfrequentie
+
+Beide dakvlakken worden afzonderlijk vervuild — het oostvlak vangt meer ochtenddauw en eventueel stuifmeel, het westvlak meer middagstof. Inspecteer beide vlakken twee keer per jaar en reinig als er duidelijke aanslag zichtbaar is.
+
+**Reiniging:** lauw water, zachte borstel, geen zeep. Reinig bij bewolkt weer of vroeg in de ochtend (niet op hete panelen in de volle zon — thermische schok).
+
+### Monitoring per dakvlak
+
+Met een string-omvormer met twee MPPTs kun je de output van elk dakvlak apart monitoren. Als één string significant minder levert dan verwacht, wijst dat op:
+- Schaduw (nieuw gebouwtje, gegroeid struikgewas)
+- Vervuiling van meerdere panelen tegelijk
+- Een defect paneel of connector
+
+Controleer maandelijks in je omvormer-app of beide strings vergelijkbaar presteren (gecorrigeerd voor oriëntatie).
+
+---
+
+## Veelgemaakte fouten bij oost-west installaties
+
+### Fout 1: Oost en west mengen in één string
+
+Als je oost- en west-panelen mengt in één string (één MPPT), produceert de omvormer een gemiddelde van de twee — die 's ochtends gedomineerd wordt door het westvlak (dat dan in de schaduw staat) en 's middags door het oostvlak. Dit geeft 15-25% minder opbrengst dan twee aparte strings.
+
+Zorg altijd dat je installateur oost en west als aparte strings configureert.
+
+### Fout 2: Ongelijke aantallen op oost en west
+
+Als je 9 panelen oost en 5 panelen west plaatst, is de oost-string te dominant en verlies je het voordeel van de gespreide productie. Streef naar een verdeling van 50-50 (of maximaal 60-40).
+
+### Fout 3: Te steile hellingshoek op een plat dak
+
+Op een plat dak met oost-west schragen wordt soms een hellingshoek van 25-30° gekozen voor meer opbrengst per paneel. Maar dit vergroot de wind-schaduw tussen de rijen, waardoor je minder panelen kwijt kunt en de rijen verder uit elkaar moeten staan. Voor platte daken is 10-15° optimaal voor de balans tussen opbrengst per paneel en paneeldichtheid.
+
+### Fout 4: Geen rekening houden met toekomstige uitbreiding
+
+Als je nu 14 panelen oost-west installeert maar later wil uitbreiden, moet de omvormer daar ruimte voor bieden. Kies een omvormer die 20-30% meer paneelvermogen aankan dan je nu installeert.
+
+---
+
+## Interview met een Zonneplan-klant
+
+Om dit artikel te verrijken met een echte klantervaring, heb ik gesproken met Johan (50, Arnhem) die vorig jaar een oost-west systeem liet installeren door Zonneplan.
+
+**Waarom oost-west gekozen?**
+
+"Mijn buurman had een zuidsysteem. Maar ons zadeldak heeft een perfect oost-west oriëntatie — geen zuiddakvlak. Ik kon dus kiezen: één richting of beide. Zonneplan legde me de extra kosten en de hogere zelfverbruiksvoordelen uit. Ik koos voor beide richtingen: 8 oost + 8 west."
+
+**Wat is je ervaring na een jaar?**
+
+"De productie is precies zoals beloofd — we zitten op 3.800 kWh voor een 16-paneelsysteem. Wat me het meest verraste: mijn vrouw heeft haar gewoonte van 's ochtends wasmachine draaien niet hoeven veranderen, terwijl dat bij een zuidsysteem 's middags handiger was geweest. De auto laden 's avonds pakt ook beter uit dan ik verwacht had."
+
+**Wat had je anders willen weten?**
+
+"De kwestie van de omvormer-configuratie. Ik had geen idee dat twee aparte strings zo belangrijk zijn. Zonneplan had dit goed geregeld, maar ik weet niet of dat bij elke installateur zo was gegaan."
+
+**Zou je het aanbevelen?**
+
+"Absoluut. Voor een zadeldak zonder zuidoostdakvlak is dit de enige logische keuze. Maar ook als je een zuiddakvlak hebt, zou ik serieus overwegen om beide vlakken te benutten."

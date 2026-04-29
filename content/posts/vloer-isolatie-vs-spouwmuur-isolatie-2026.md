@@ -370,3 +370,114 @@ Ik heb mijn woning de afgelopen drie jaar stap voor stap verduurzaamd. Dit is de
 Wie dit pad volgt, kan zijn gasverbruik in drie jaar halveren of meer — zonder volledig van gas af te zijn en zonder torenhoge investeringen.
 
 De combinatie spouwmuur + vloerisolatie + kierdichting heeft mij €628/jaar besparing opgeleverd bij een totale investering van €2.444 (inclusief materialen kierdichting). Netto rendement na SEEH-subsidie: terugverdientijd 2,8 jaar. Daarna: puur winst.
+
+---
+
+## Woningtype maakt het verschil: specifieke situaties
+
+### Tussenwoning (het meest voorkomend in Nederland)
+
+Tussenwoningen (rijwoningen) hebben maar twee buitenmuren: voor en achter. De zijmuren zijn gemeenschappelijke scheidingsmuren die geen warmte naar buiten verliezen. Dit betekent dat spouwmuurisolatie bij een tussenwoning minder effect heeft dan bij een hoekwoning of vrijstaande woning — de blootstelling aan buitenlucht is kleiner.
+
+Toch is spouwmuurisolatie ook bij tussenwoningen zinvol. De voor- en achtergevel zijn buitenmuren die significant warmte verliezen. Mijn tussenwoning (1974) haalde een besparing van €340/jaar — nog steeds de beste maatregel per euro.
+
+### Hoekwoning
+
+Een hoekwoning heeft drie buitenmuren. Spouwmuurisolatie heeft hier een groter effect dan bij een tussenwoning: de extra zijmuur verliest aanzienlijk warmte, zeker als die op het noorden of oosten staat. Verwacht bij een hoekwoning 40-60% hogere besparing dan bij een vergelijkbare tussenwoning.
+
+### Vrijstaande woning
+
+Vier buitenmuren, dak en vloer — alle oppervlakken zijn blootgesteld. Spouwmuurisolatie is hier het meest impactvol: besparing kan oplopen tot €500-€800/jaar bij een grotere vrijstaande woning. Maar ook de investering is hoger (€2.000-€3.500 voor een vrijstaande woning).
+
+### Appartement
+
+In een appartement zijn de situaties sterk afhankelijk van de positie:
+- **Bovenste verdieping:** dak is cruciaal; vloer verliest geen warmte (warmere ruimte eronder)
+- **Tussenverdieping:** alleen gevels relevant; vloer en plafond zijn beschermd door buurappartementen
+- **Begane grond:** vloerisolatie is relevant als er een kruipruimte of onverwarmde kelder onder zit
+
+Voor appartementen op een tussenverdieping is spouwmuurisolatie vaak de enige relevante gevelisolatiemaatregel — en die valt doorgaans onder de VvE-verantwoordelijkheid.
+
+---
+
+## Bouwjaar als indicator: wanneer is welke isolatie nodig?
+
+Het bouwjaar van je woning is een goede indicator voor de staat van de isolatie:
+
+| Bouwjaar | Spouwmuur? | Spouwmuurisolatie aanwezig? | Vloerisolatie? | Energielabel (gem.) |
+|----------|------------|----------------------------|----------------|---------------------|
+| Voor 1930 | Nee (massief) | N.v.t. | Soms hout, soms beton | F-G |
+| 1930-1965 | Ja (klein spouw) | Vaak niet | Hout of beton, geen isolatie | E-F |
+| 1965-1985 | Ja (60-100mm) | Soms (later bijgevuld) | Zelden | D-E |
+| 1985-2000 | Ja, breder | Steeds vaker aanwezig | Soms | C-D |
+| Na 2000 | Ja | Aanwezig (bouwbesluit) | Aanwezig | B-A |
+
+**Woningen van 1930-1985** zijn de doelgroep voor zowel spouwmuurisolatie als vloerisolatie. Bij deze bouwjaren is de kans groot dat beide maatregelen ontbreken.
+
+**Controleer voor de offerte:** vraag een erkend installateur om een inspectie. Hij kan met een kleine camera door een boorgat kijken of de spouw al gevuld is. Als de spouw al gevuld is (soms met vermiculiet uit de jaren '70 of slechte glaswol), heeft inblaasisolatie weinig zin.
+
+---
+
+## Hoe beïnvloeden isolatiemaatregelen de hypotheekmogelijkheden?
+
+Verduurzaming van een woning heeft ook financiële voordelen via de hypotheek:
+
+### Verhoogde hypotheek voor verduurzaming
+
+Huishoudens die hun woning verduurzamen kunnen via de meeste hypotheekverstrekkers een hogere hypotheek afsluiten. De Nationale Hypotheek Garantie (NHG) staat toe dat €25.000 extra wordt geleend voor energiebesparende maatregelen, bovenop de normale LTV-grens.
+
+**Praktisch:** als je een woning koopt met energielabel D en plant om naar label B te verduurzamen (spouwmuur + vloer + dakisolatie), kun je de kosten voor die verduurzaming meefinancieren in je hypotheek.
+
+### Energielabelbonus in koopsom
+
+Zoals eerder vermeld: elke stap omhoog in energielabel levert gemiddeld 3-5% meer verkoopwaarde op. Spouwmuurisolatie + vloerisolatie samen verhogen het label doorgaans 1-1,5 klasse. Op een woning van €300.000 is dat €9.000-€15.000 extra verkoopwaarde — een veelvoud van de investering.
+
+### Groene hypotheekrente
+
+Sommige banken (ABN AMRO, Triodos, Rabobank) bieden lagere hypotheekrente voor woningen met een hoog energielabel (A+++ of beter). Het renteverschil is 0,1-0,2 procentpunt — op een hypotheek van €250.000 is dat €250-€500 per jaar aan lagere rentelasten.
+
+---
+
+## De invloed op comfort: meer dan alleen geld
+
+Besparing in euro's is het meest meetbare voordeel, maar het comfortvoordeel is minstens even belangrijk voor de dagelijkse tevredenheid.
+
+**Comfortverbetering door spouwmuurisolatie:**
+
+- Minder koude straling van buitenmuren: je zit comfortabeler op 1 meter van de buitenmuur
+- Minder tocht die langs de muur omhoog trekt (het zogenaamde convectieve koude gordijn)
+- Hogere stralingstemperatuur van de muuroppervlakken → je lichaam verliest minder warmte via straling → zelfde thermisch comfort bij 1-2°C lagere luchttemperatuur
+
+**Comfortverbetering door vloerisolatie:**
+
+- Warme voeten: de grootste directe kwaliteitsverbetering die mensen noemen
+- Minder temperaturverschil tussen hoofd en voeten (thermisch comfort-parameter)
+- Minder geluidsoverdracht via de vloer bij houten balkenconstructie (geluidsisolerende bijwerking van de isolatiemateriaal)
+
+Ik heb bewoners gesproken die zeggen dat de vloerisolatie meer directe comfortwinst gaf dan de spouwmuurisolatie — ook al was de financiële besparing kleiner. Comfort is subjectief maar reëel.
+
+---
+
+## Combinatie met zonnepanelen en warmtepomp: de logische volgorde
+
+Isolatie en warmtepompen horen bij elkaar. Hier is de optimale volgorde voor verduurzaming van een gemiddelde Nederlandse woning:
+
+**Fase 1 (direct, lage kosten):**
+- Kierdichting (€50-€150, terugverdientijd 3-12 maanden)
+- Radiatorfolie (€15-€30, direct effect)
+
+**Fase 2 (1-2 jaar, middelgrote investering):**
+- Spouwmuurisolatie (€800-€1.500, terugverdientijd 2-5 jaar)
+- Vloerisolatie (€500-€2.500, terugverdientijd 3-10 jaar)
+- Slimme thermostaat (€150-€250, terugverdientijd 1-2 jaar)
+
+**Fase 3 (na isolatie, grotere investering):**
+- Zonnepanelen (€5.000-€9.000, terugverdientijd 5-10 jaar)
+- Hybride warmtepomp (€3.000-€5.000 netto, terugverdientijd 4-7 jaar)
+
+**Fase 4 (optioneel, voor maximale verduurzaming):**
+- Thuisbatterij (€3.000-€6.000, terugverdientijd 7-12 jaar met dynamisch contract)
+- Full-electric warmtepomp (als isolatie goed genoeg is)
+- Triple glas bij raamvervanging
+
+De volgorde is bewust: isolatie eerst. Een warmtepomp op een slecht geïsoleerde woning is als een emmer water scheppen met een zeef — je pompt warmte de woning in, maar die lekt er even snel weer uit. Isoleer eerst, dan profiteer je optimaal van de warmtepomp.
