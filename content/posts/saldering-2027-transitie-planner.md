@@ -1,8 +1,8 @@
 ---
-title: "Saldering 2027 transitie-planner: 5 stappen om €500-€2000/jaar veilig te stellen"
+title: "Saldering 2027 transitie-planner: 5 stappen om"
 date: 2026-04-29T09:00:00+02:00
 lastmod: 2026-04-29T09:00:00+02:00
-description: "Per 1 januari 2027 stopt saldering. Ik reken door hoe jij €500 tot €2.000 per jaar kunt veiligstellen met dynamisch contract, thuisbatterij of warmtepomp — op basis van jouw huistype en verbruik."
+description: "Per 1 januari 2027 stopt saldering. Ik reken door hoe jij €500 tot €2.000 per jaar kunt veiligstellen met dynamisch contract, thuisbatterij of warmtepomp."
 categories: ["zonne-energie", "energie", "besparen"]
 tags: ["saldering 2027", "saldering stopt", "thuisbatterij", "dynamisch contract", "warmtepomp", "ISDE 2026", "zonnepanelen na 2027"]
 keywords: ["saldering 2027 transitie", "saldering stopt wat nu", "saldering afbouw 2027 aanpak", "thuisbatterij saldering 2027", "dynamisch contract saldering", "ISDE subsidie 2026", "eigen verbruik verhogen zonnepanelen"]

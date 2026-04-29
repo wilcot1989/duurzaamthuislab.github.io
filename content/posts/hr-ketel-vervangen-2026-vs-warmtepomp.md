@@ -1,8 +1,8 @@
 ---
-title: "HR-ketel vervangen in 2026: warmtepomp, hybride of toch nieuwe HR-ketel?"
+title: "HR-ketel vervangen in 2026: warmtepomp"
 date: 2026-05-28T08:00:00+02:00
 lastmod: 2026-05-28T08:00:00+02:00
-description: "Je HR-ketel is aan vervanging toe. Wat is slim in 2026: een hybride warmtepomp, all-electric of toch een nieuwe HR-ketel? Eerlijke afweging met cijfers en subsidie-overzicht."
+description: "Je HR-ketel is aan vervanging toe. Wat is slim in 2026: een hybride warmtepomp, all-electric of toch een nieuwe HR-ketel? Eerlijke afweging met cijfers en."
 categories: ["warmtepompen"]
 tags: ["HR-ketel vervangen", "warmtepomp", "hybride warmtepomp", "cv-ketel 2026", "ISDE subsidie", "verduurzaming"]
 keywords: ["HR-ketel vervangen 2026", "HR-ketel of warmtepomp", "cv-ketel vervangen warmtepomp", "nieuwe HR-ketel of hybride"]

@@ -1,5 +1,5 @@
 ---
-title: "Slimme thermostaat review 2026: Nest, Tado en Honeywell getest"
+title: "Slimme thermostaat review 2026: Nest"
 date: 2026-05-16T08:00:00+02:00
 lastmod: 2026-05-16T08:00:00+02:00
 description: "Nest Learning Thermostat, Tado en Honeywell T6 vergeleken op energiebesparing, gebruiksgemak en terugverdientijd. Eerlijke review na 18 maanden gebruik."
@@ -239,3 +239,6 @@ Na 18 maanden testen is mijn conclusie:
 **Honeywell als je al een goed schema had** en primair afstandsbediening wilt via app. Degelijk en betaalbaar.
 
 Slimme thermostataten verdienen zichzelf in bijna alle gevallen terug binnen 2 jaar. Het is een van de kleinste investeringen met de snelste terugverdientijd in de verduurzaming van een woning. Als je hier nog niet mee begonnen bent, is dit de eerste stap.
+
+
+<a href="/go/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin</a>

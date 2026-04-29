@@ -2,7 +2,7 @@
 title: "Warmtepomp Onderhoud 2026: Wat Moet Wanneer en Wat Kost Het?"
 date: 2026-06-13T09:00:00+01:00
 lastmod: 2026-06-13T09:00:00+01:00
-description: "Welk onderhoud heeft een warmtepomp jaarlijks nodig, wat kost het 5-jaarlijkse onderhoud, en wanneer moet je je installateur bellen? Eerlijk overzicht van alle kosten."
+description: "Welk onderhoud heeft een warmtepomp jaarlijks nodig, wat kost het 5-jaarlijkse onderhoud."
 categories: ["warmtepompen"]
 tags: ["warmtepomp onderhoud", "warmtepomp kosten", "warmtepomp service", "warmtepomp storing", "ATAG warmtepomp"]
 keywords: ["warmtepomp onderhoud kosten", "warmtepomp jaarlijks onderhoud", "warmtepomp service kosten", "warmtepomp storing", "warmtepomp 5 jaarlijks"]

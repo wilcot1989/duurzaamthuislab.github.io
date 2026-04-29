@@ -2,7 +2,7 @@
 title: "Energiekosten besparen: 100 praktische tips voor 2026"
 date: 2026-05-14T08:00:00+02:00
 lastmod: 2026-05-14T08:00:00+02:00
-description: "100 bewezen manieren om je energierekening te verlagen in 2026. Van gratis gedragsverandering tot grote investeringen — met terugverdientijden en besparingen in euro's."
+description: "100 bewezen manieren om je energierekening te verlagen in 2026. Van gratis gedragsverandering tot grote investeringen."
 categories: ["energie"]
 tags: ["energiebesparing", "energierekening", "besparen", "verduurzaming", "tips"]
 keywords: ["energiekosten besparen", "energierekening verlagen", "energie besparen tips", "goedkoper energie 2026"]

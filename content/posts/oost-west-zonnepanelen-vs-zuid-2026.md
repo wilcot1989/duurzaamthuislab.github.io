@@ -1,5 +1,5 @@
 ---
-title: "Oost-west zonnepanelen vs. zuidsysteem: wat levert meer op in 2026?"
+title: "Oost-west zonnepanelen vs. zuidsysteem"
 date: 2026-05-18T08:00:00+02:00
 lastmod: 2026-05-18T08:00:00+02:00
 description: "Oost-west of zuidopstelling voor zonnepanelen? Vergelijking van opbrengst, zelfverbruik en rendement na saldering-afbouw 2027. Met rekenvoorbeelden."

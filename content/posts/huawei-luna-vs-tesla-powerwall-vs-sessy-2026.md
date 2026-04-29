@@ -1,5 +1,5 @@
 ---
-title: "Huawei Luna vs Tesla Powerwall vs Sessy 2026: Welke Thuisbatterij Past Bij Jou?"
+title: "Huawei Luna vs Tesla Powerwall vs Sessy 2026"
 date: 2026-06-04T09:00:00+01:00
 lastmod: 2026-06-04T09:00:00+01:00
 description: "Huawei Luna 2000, Tesla Powerwall 3 en Sessy naast elkaar: prijs, capaciteit, slimheid en terugverdientijd vergeleken voor de Nederlandse markt in 2026."

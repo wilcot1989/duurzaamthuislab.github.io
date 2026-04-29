@@ -1,5 +1,5 @@
 ---
-title: "Zonnepanelen in huurwoning in 2026: toestemming verhuurder, subsidie en verzekering"
+title: "Zonnepanelen in huurwoning in 2026"
 date: 2026-05-29T08:00:00+02:00
 lastmod: 2026-05-29T08:00:00+02:00
 description: "Mag je als huurder zonnepanelen plaatsen? Wat zegt de wet, hoe vraag je toestemming en welke subsidies en verzekeringen gelden? Alles wat huurders moeten weten."
@@ -93,7 +93,7 @@ Een verhuurder moet een reden geven. "Nee" zonder reden is juridisch zwakker. So
 Bij een sociale huurwoning (kale huur ≤ liberalisatiegrens 2026: ca. €879/mnd) kun je naar de Huurcommissie. Zij kunnen oordelen dat de verhuurder onterecht weigert. Dit is een langdurig proces (3-6 maanden).
 
 **Stap 3: Kantonrechter**
-Als ultieme stap kun je via de rechter afdwingen dat je de maatregel mag uitvoeren. Dit is zeldzaam en duur (advocaatkosten). Alleen zinvol als de woonsituatie langdurig is en de besparing groot.
+Als complete stap kun je via de rechter afdwingen dat je de maatregel mag uitvoeren. Dit is zeldzaam en duur (advocaatkosten). Alleen zinvol als de woonsituatie langdurig is en de besparing groot.
 
 **Stap 4: Alternatieven (zie verderop)**
 Als de verhuurder definitief nee zegt: balkonpanelen of Postcoderoosregeling zijn alternatieven waarbij je geen toestemming voor het dak nodig hebt.
@@ -215,3 +215,6 @@ Als jouw verhuurder positief staat tegenover verduurzaming maar niet zelf wil in
 5. **Verzekering altijd regelen** voordat de panelen erop liggen. Eén storm kan een paneel van het dak blazen.
 
 Huren is geen reden om niet te verduurzamen. Het vraagt alleen een andere aanpak.
+
+
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>

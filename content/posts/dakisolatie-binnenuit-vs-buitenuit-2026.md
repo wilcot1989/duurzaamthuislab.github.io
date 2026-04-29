@@ -1,5 +1,5 @@
 ---
-title: "Dakisolatie Binnenuit vs Buitenuit 2026: Welke Methode Kies Jij?"
+title: "Dakisolatie Binnenuit vs Buitenuit 2026"
 date: 2026-06-18T09:00:00+01:00
 lastmod: 2026-06-18T09:00:00+01:00
 description: "Dakisolatie van binnenuit of buitenuit? PUR, glaswol en EPS vergeleken. Wanneer kies je welke methode, en wat zijn de echte kosten in 2026?"
@@ -458,3 +458,6 @@ Een luchtdicht aangebracht dampscherm reduceert ook tochtgevoelens. Koude lucht 
 | Gemiddelde terugverdientijd | 4-8 jaar na subsidie |
 
 Dakisolatie is de verduurzamingsmaatregel met de beste prijs-prestatieverhouding voor woningen met een ongeïsoleerd of slecht geïsoleerd dak. Begin hier, vóórdat je nadenkt over warmtepompen of zonnepanelen.
+
+
+<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>

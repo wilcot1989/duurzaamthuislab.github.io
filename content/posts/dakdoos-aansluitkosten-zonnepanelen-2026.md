@@ -1,5 +1,5 @@
 ---
-title: "Echte Aansluitkosten Zonnepanelen 2026: Wat Liander, Stedin en Enexis Rekenen"
+title: "Echte Aansluitkosten Zonnepanelen 2026"
 date: 2026-06-08T09:00:00+01:00
 lastmod: 2026-06-08T09:00:00+01:00
 description: "Wat betaal je echt aan aansluitkosten voor zonnepanelen? Dakdoos, netbeheerderskosten en verborgen posten bij Liander, Stedin en Enexis eerlijk uitgelegd."
@@ -422,3 +422,6 @@ De meest gemaakte fout bij de aanschaf van zonnepanelen is tekenen op basis van 
 Neem de tijd. Vraag drie offertes. Gebruik de checklist uit dit artikel. Laat je niet opjagen door "tijdelijk aanbod" of "wachtlijsten die bijna vol zijn" — dat zijn verkoopmechanismen, geen werkelijkheid.
 
 Een zonnepaneel-installatie is een investering van €7.000-€12.000 die 25 jaar meegaat. Doe je huiswerk voor je tekent, en het zal een van de beste financiële beslissingen van je leven zijn.
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

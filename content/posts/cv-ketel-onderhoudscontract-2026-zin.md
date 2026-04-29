@@ -363,3 +363,6 @@ Niet elke installateur die "cv-onderhoud" aanbiedt is even betrouwbaar. Hier zij
 ---
 
 *Disclosure: ik heb geen commerciële relatie met serviceverleners op deze pagina. De genoemde prijzen zijn indicatief en gebaseerd op gangbare markttarieven in 2026.*
+
+
+<a href="/go/bosch" class="cta-affiliate" rel="sponsored noopener">Bekijk Bosch</a>

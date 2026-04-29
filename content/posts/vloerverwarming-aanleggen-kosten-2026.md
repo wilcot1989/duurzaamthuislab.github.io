@@ -1,5 +1,5 @@
 ---
-title: "Vloerverwarming aanleggen in bestaande woning: kosten en methodes 2026"
+title: "Vloerverwarming aanleggen in bestaande woning"
 date: 2026-05-24T08:00:00+02:00
 lastmod: 2026-05-24T08:00:00+02:00
 description: "Vloerverwarming in een bestaande woning: wat zijn de kosten in 2026? Ik vergelijk frees-, dry- en natsystemen en hoe je het combineert met een warmtepomp."

@@ -1,8 +1,8 @@
 ---
-title: "Saldering calculator 2027: bereken jaar voor jaar wat het je gaat kosten"
+title: "Saldering calculator 2027: jaar-voor-jaar impact bereken"
 date: 2026-04-29T08:00:00+02:00
 lastmod: 2026-04-29T08:00:00+02:00
-description: "Vul kWh-verbruik, zonnepanelen en thuisbatterij in. Krijg complete jaar-voor-jaar berekening 2026-2030: hoeveel ga je verliezen, wanneer is een batterij rendabel?"
+description: "Vul kWh-verbruik, zonnepanelen en thuisbatterij in. Krijg complete jaar-voor-jaar berekening 2026-2030."
 categories: ["zonne-energie"]
 tags: ["saldering", "saldering 2027", "calculator", "thuisbatterij", "zonnepanelen", "rekenmodel", "energie"]
 keywords: ["saldering calculator", "saldering 2027 berekenen", "saldering thuisbatterij rekenmodel", "zonnepanelen rendement na 2027", "saldering afbouw bereken"]

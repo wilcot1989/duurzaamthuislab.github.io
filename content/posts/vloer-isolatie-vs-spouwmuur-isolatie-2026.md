@@ -1,8 +1,8 @@
 ---
-title: "Vloerisolatie vs spouwmuurisolatie: welke levert meer rendement per euro?"
+title: "Vloerisolatie vs spouwmuurisolatie"
 date: 2026-05-23T08:00:00+02:00
 lastmod: 2026-05-23T08:00:00+02:00
-description: "Vloerisolatie of spouwmuurisolatie: wat geeft het meeste rendement per geïnvesteerde euro? Vergelijking op besparing, kosten, terugverdientijd en subsidie in 2026."
+description: "Vloerisolatie of spouwmuurisolatie: wat geeft het meeste rendement per geïnvesteerde euro? Vergelijking op besparing, kosten."
 categories: ["isolatie"]
 tags: ["vloerisolatie", "spouwmuurisolatie", "isolatie vergelijking", "SEEH", "terugverdientijd", "energiebesparing"]
 keywords: ["vloerisolatie vs spouwmuurisolatie", "isolatie rendement", "beste isolatiemaatregel", "spouwmuur of vloer isoleren"]
@@ -245,6 +245,9 @@ Vloerisolatie is zinvol als de spouwmuren al geïsoleerd zijn, als vochtprobleme
 Wie beide kan combineren, doet dat ideaal in dezelfde SEEH-aanvraag om van het combinatiebonus-percentage te profiteren.
 
 ---
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
 
 ## Meer isolatiemaatregelen en hun rendement
 

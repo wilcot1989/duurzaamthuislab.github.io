@@ -1,8 +1,8 @@
 ---
-title: "Kierdichting, glaswol en tochtstrip in 2026: €100 budget, €300 besparing per jaar"
+title: "Kierdichting, glaswol en tochtstrip in 2026"
 date: 2026-05-25T08:00:00+02:00
 lastmod: 2026-05-25T08:00:00+02:00
-description: "Met €100 aan kierdichting, tochtstrips en glaswol bespaar je tot €300 per jaar. DIY-gids voor de gemiddelde Nederlandse woning met materiaallijst en installatie-tips."
+description: "Met €100 aan kierdichting, tochtstrips en glaswol bespaar je tot €300 per jaar. DIY-gids voor de gemiddelde Nederlandse woning met materiaallijst en."
 categories: ["isolatie"]
 tags: ["kierdichting", "tochtstrip", "glaswol", "DIY isolatie", "goedkope isolatie", "energiebesparing"]
 keywords: ["kierdichting zelf doen", "tochtstrip installeren", "goedkope isolatie tips", "kieren dichten woning besparing"]
@@ -288,6 +288,9 @@ Voor een woning die op tocht staat, is een middag met €100 aan materialen het 
 Doe de rooktest, identificeer je lekken, koop de juiste materialen (EPDM, acrylaat, purschuim) en spend twee uur. De gasrekening dit stookseizoen zal het bevestigen.
 
 ---
+
+
+<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
 
 ## Aanvullende materialen en gevorderde technieken
 

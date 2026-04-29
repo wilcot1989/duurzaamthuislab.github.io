@@ -1,5 +1,5 @@
 ---
-title: "Energieleverancier overstappen 2026: stappenplan voor een dynamisch contract"
+title: "Energieleverancier overstappen 2026"
 date: 2026-05-20T08:00:00+02:00
 lastmod: 2026-05-20T08:00:00+02:00
 description: "Overstappen naar een dynamisch energiecontract in 2026? Ik vergelijk Tibber, Frank Energie en ANWB Energie en leg stap voor stap uit hoe het werkt."
