@@ -24,6 +24,13 @@ faq:
   - q: "Kan ik vloerisolatie zelf aanbrengen?"
     a: "Gedeeltelijk. Het aanbrengen van EPS-platen via de kruipruimte kan een handige doe-het-zelver zelf doen, mits de kruipruimte toegankelijk en droog is. Voor spray-on vloerisolatie of gehele vloervervanging is een vakman nodig."
 products: []
+products:
+  - name: "Tonzon vloerisolatie (per m²)"
+    url: "https://tonzon.nl"
+    price: "25"
+  - name: "Knauf Supafil spouwmuur"
+    url: "https://knauf.nl"
+    price: "20"
 ---
 
 Mijn woning had drie isolatiezwakke plekken die ik achtereenvolgens heb aangepakt: spouwmuren, begane grondvloer en het dak. Nu ik alle drie heb gedaan én de rekeningen van de afgelopen drie jaar naast elkaar heb gelegd, kan ik met zekerheid zeggen welke maatregel per geïnvesteerde euro het meeste heeft opgeleverd.

@@ -24,6 +24,13 @@ faq:
   - q: "Welke plekken vergeten mensen vaak bij kierdichting?"
     a: "Elektrische stopcontacten en schakelkasten aan buitenmuren (koudluchtlekken), de overgang van plinten naar de vloer, doorvoeringen van stroom- en waterleidingen in buitenmuren, de kap van de cv-ketel-schoorsteen, en het deksel van het kruipluik."
 products: []
+products:
+  - name: "TONZON kierdicht (set)"
+    url: "https://tonzon.nl"
+    price: "49"
+  - name: "Kärcher SC2 stoomreiniger"
+    url: "https://karcher.com"
+    price: "139"
 ---
 
 In de winter van 2021 deed ik een eenvoudige test: ik liep met een wierrookstokje langs alle ramen, deuren en plinten van mijn woning. Het resultaat was onthutsend. Bij mijn voordeur stond de rook horizontaal. Bij de achterdeur bewoog hij hevig. Rondom drie raamkozijnen was er duidelijke luchtbeweging. En bij de overgang van de begane grondvloer naar de muur bewoog de rook op meerdere plekken merkbaar.

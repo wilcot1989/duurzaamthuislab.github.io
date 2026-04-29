@@ -24,6 +24,13 @@ faq:
   - q: "Heeft Tado een maandelijkse abonnementskosten?"
     a: "De basisversie van Tado werkt zonder abonnement. De 'Auto-Assist' functie (automatisch thuisdetectie en weerscompensatie) kost €3,99/maand of €39,99/jaar. Nest heeft geen abonnementskosten voor basisfuncties."
 products: []
+products:
+  - name: "Tibber Pulse"
+    url: "/go/tibber"
+    price: "249"
+  - name: "Tado V3+ thermostaat"
+    url: "https://tado.com"
+    price: "199"
 ---
 
 Achtien maanden geleden had ik een gewone programmathermostaat die ik zelden aanpaste. De verwarming ging aan om 7:00 en uit om 22:30, ongeacht of ik thuis was. Energieverbruik: 1.680 m³ gas per jaar.
