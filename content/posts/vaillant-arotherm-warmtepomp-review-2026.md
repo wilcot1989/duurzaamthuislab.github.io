@@ -344,7 +344,7 @@ Frank in Apeldoorn zei het het scherpst: "Ik had hem ook met Daikin kunnen doen 
 
 Als je een goed geïsoleerde woning hebt, waarde hecht aan stilte en duurzaamheid, en bereid bent de meerprijs te betalen: de aroTHERM plus is uitstekend. Als je puur wilt optimaliseren op prijs of PV-koppeling: kijk ook naar Daikin.
 
-<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate">Bekijk de Vaillant aroTHERM plus</a>
+<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk de Vaillant aroTHERM plus</a>
 
 ---
 

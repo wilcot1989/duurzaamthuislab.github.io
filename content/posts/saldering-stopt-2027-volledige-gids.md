@@ -273,9 +273,9 @@ Als je nu zonnepanelen hebt en geen actie onderneemt, kost de saldering-stop je 
 
 **Mijn drie aanbevelingen, in volgorde van impact-per-euro:**
 
-1. **Stap nu over op een dynamisch contract.** Tibber of Frank Energie. Geen investering, direct 10-25% lagere stroomkosten. Mijn keuze: Frank Energie voor de transparantie. <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate">Bekijk Frank Energie</a>
+1. **Stap nu over op een dynamisch contract.** Tibber of Frank Energie. Geen investering, direct 10-25% lagere stroomkosten. Mijn keuze: Frank Energie voor de transparantie. <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
 
-2. **Bij groot teruglevervolume: thuisbatterij.** Wacht niet langer dan eind 2026; daarna gaan veel mensen tegelijk kopen en stijgen prijzen tijdelijk. Mijn keuze was Huawei Luna, maar Sessy is een uitstekend Nederlands alternatief. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate">Bekijk Sessy thuisbatterij</a>
+2. **Bij groot teruglevervolume: thuisbatterij.** Wacht niet langer dan eind 2026; daarna gaan veel mensen tegelijk kopen en stijgen prijzen tijdelijk. Mijn keuze was Huawei Luna, maar Sessy is een uitstekend Nederlands alternatief. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy thuisbatterij</a>
 
 3. **Verlaag je teruglevering door slim verbruik.** Vaatwasser overdag, EV overdag laden, boiler op zon-uren. Gratis, gemiddeld 15-25% effect. Met een [P1-monitor](/posts/beste-energiemonitor-p1-meter-2026/) krijg je inzicht.
 

@@ -401,7 +401,7 @@ De eenvoudigste handeling die je nu kunt doen: installeer een bewezen thuisbatte
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk de Sessy thuisbatterij — de slimme keuze voor 2026</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Sessy thuisbatterij — de slimme keuze voor 2026</a>
 
 
 <a href="/go/anwb-energie" class="cta-affiliate" rel="sponsored noopener">Bekijk Anwb Energie</a>

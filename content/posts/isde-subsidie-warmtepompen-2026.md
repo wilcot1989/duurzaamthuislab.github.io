@@ -391,7 +391,7 @@ De trend wijst op verdere dalingen in aanschafprijs naarmate de productie schaal
 *Laatst bijgewerkt: april 2026.*
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>

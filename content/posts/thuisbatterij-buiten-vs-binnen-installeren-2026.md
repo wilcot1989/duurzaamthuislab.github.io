@@ -518,9 +518,9 @@ Een woning in Nijmegen met een droge, geventileerde garage direct naast de meter
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk de Sessy thuisbatterij</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Sessy thuisbatterij</a>
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk de Marstek B5000</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Marstek B5000</a>
 
 
 <a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

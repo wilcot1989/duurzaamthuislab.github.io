@@ -350,7 +350,7 @@ Lees [10 kWh thuisbatterij vergelijking 2026](/posts/thuisbatterij-10-kwh-vergel
 **Stap 3 — Schakel naar dynamisch contract**
 Met dynamisch contract verkoop je overschot tegen marktprijs (€0.40-€0.60 op zomeravonden) i.p.v. vaste terugleverprijs. Lees [Tibber review](/posts/tibber-review-ervaringen-2026/) en [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy →</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Probeer Tibber →</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy →</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Probeer Tibber →</a>
 
 ---
 

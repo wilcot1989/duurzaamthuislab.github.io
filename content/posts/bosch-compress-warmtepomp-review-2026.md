@@ -323,7 +323,7 @@ De SCOP van 4,5 is niet de absolute top, maar voor een hybride die ook prima fun
 
 Heb je een Bosch cv-ketel, een woning met label D of slechter, en wil je nu beginnen met besparen zonder te wachten op een complete renovatie? Dan is de Compress 7800i hybride een van de sterkste opties op de markt.
 
-<a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate">Bekijk de Bosch Compress warmtepompen</a>
+<a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk de Bosch Compress warmtepompen</a>
 
 ---
 

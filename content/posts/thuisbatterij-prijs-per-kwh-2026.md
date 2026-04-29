@@ -353,13 +353,13 @@ Marstek levert over 10 jaar €2.500 meer op dan Sessy, en €4.900 meer dan Tes
 ## Mijn prijs/kwaliteit-aanbevelingen
 
 ### Beste prijs/kWh (€326/kWh)
-**Marstek Venus E 8,2 kWh** voor €2.679. Snelste terugverdientijd (3-4 jaar). Geschikt voor smart-home liefhebbers met Home Assistant. <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate">Bekijk Marstek</a>
+**Marstek Venus E 8,2 kWh** voor €2.679. Snelste terugverdientijd (3-4 jaar). Geschikt voor smart-home liefhebbers met Home Assistant. <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a>
 
 ### Beste prijs/kWaliteit (€600/kWh)
-**Sessy 10 kWh** voor €5.995. Sweet spot van NL-service, automation, en prijs. Voor de gemiddelde gebruiker. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate">Bekijk Sessy</a>
+**Sessy 10 kWh** voor €5.995. Sweet spot van NL-service, automation, en prijs. Voor de gemiddelde gebruiker. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a>
 
 ### Beste premium ervaring (€700/kWh)
-**Zonneplan thuisbatterij** voor €6.995 of lease €54/mnd. Voor wie alles van één partij wil. <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate">Bekijk Zonneplan</a>
+**Zonneplan thuisbatterij** voor €6.995 of lease €54/mnd. Voor wie alles van één partij wil. <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Zonneplan</a>
 
 ### Voor groot huis + EV (€704/kWh)
 **Tesla Powerwall 3** voor €9.500. Hogere capaciteit (13,5 kWh) en V2H integratie met Tesla auto.

@@ -322,7 +322,7 @@ Als u overweegt een split-airco aan te schaffen als verwarmings- en koeloplossin
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 
-<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin →</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin →</a>
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>

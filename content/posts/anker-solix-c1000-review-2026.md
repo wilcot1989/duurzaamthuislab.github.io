@@ -407,4 +407,4 @@ De app voegt echte waarde toe: op afstand laadstatus bekijken, laadsnelheid verl
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="sponsored noopener">Bekijk Anker Solix</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>

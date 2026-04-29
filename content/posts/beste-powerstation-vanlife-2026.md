@@ -460,7 +460,7 @@ Het beste powerstation voor vanlife hangt af van je reissstijl, budget en stroom
 Bekijk ook ons overzicht van de [beste draagbare powerstations 2026](/posts/beste-draagbare-powerstation-2026/) en het [beste powerstation voor camping](/posts/beste-powerstation-camping-2026/) voor meer opties.
 
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>
 
 
 <a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

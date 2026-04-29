@@ -435,7 +435,7 @@ Voor wie service en gemoedsrust voorop zet: betaal extra voor Sessy of Zonneplan
 
 Voor wie zonder installateur wil starten: Venus A is de enige plug-and-play optie in NL — uniek aanbod.
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate">Bekijk Marstek</a> · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/) · [Zonneplan alternatief →](/posts/zonneplan-thuisbatterij-review-2026/)
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a> · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/) · [Zonneplan alternatief →](/posts/zonneplan-thuisbatterij-review-2026/)
 
 ---
 

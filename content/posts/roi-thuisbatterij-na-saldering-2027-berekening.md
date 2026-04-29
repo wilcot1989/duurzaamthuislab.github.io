@@ -306,7 +306,7 @@ ROI-berekening voor een thuisbatterij in 2026 is geen marketing-trucje. De getal
 
 Maar: zonder dynamisch contract daalt rendement met 30-40%. Zonder voldoende overschot wordt het marginal. Reken eerst, koop dan.
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Probeer Tibber →</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Probeer Tibber →</a>
 
 *Vragen over jouw berekening? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 

@@ -371,7 +371,7 @@ Niet elke installateur die "cv-onderhoud" aanbiedt is even betrouwbaar. Hier zij
 *Disclosure: ik heb geen commerciële relatie met serviceverleners op deze pagina. De genoemde prijzen zijn indicatief en gebaseerd op gangbare markttarieven in 2026.*
 
 
-<a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate" rel="sponsored noopener">Bekijk Bosch</a>
+<a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Bosch</a>
 
 
 <a href="/go/anwb-energie" class="cta-affiliate" rel="sponsored noopener">Bekijk Anwb Energie</a>

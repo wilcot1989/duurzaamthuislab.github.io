@@ -392,7 +392,7 @@ Doe deze drie en de saldering-stop kost je weinig. Doe niets en je terugverdient
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>

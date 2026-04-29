@@ -453,9 +453,9 @@ Als alle drie aanwezig zijn: ga ervoor. Het is een van de meest satisfying verdu
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk de beste zonnepanelen voor een agri-PV project</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de beste zonnepanelen voor een agri-PV project</a>
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Combineer je agri-PV met een Sessy thuisbatterij</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Combineer je agri-PV met een Sessy thuisbatterij</a>
 
 ## Gerelateerde artikelen
 

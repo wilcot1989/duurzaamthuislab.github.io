@@ -466,7 +466,7 @@ Een luchtdicht aangebracht dampscherm reduceert ook tochtgevoelens. Koude lucht 
 Dakisolatie is de verduurzamingsmaatregel met de beste prijs-prestatieverhouding voor woningen met een ongeïsoleerd of slecht geïsoleerd dak. Begin hier, vóórdat je nadenkt over warmtepompen of zonnepanelen.
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>

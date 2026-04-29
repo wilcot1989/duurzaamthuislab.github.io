@@ -384,7 +384,7 @@ De mogelijkheid om het systeem uit te breiden tot 8192Wh maakt het bovendien een
 **[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
 
 
-<a href="https://go.duurzaamthuislab.nl/bluetti" class="cta-affiliate" rel="sponsored noopener">Bekijk Bluetti</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Bluetti</a>
 
 
 <a href="/go/bluetti" class="cta-affiliate" rel="sponsored noopener">Bekijk Bluetti</a>

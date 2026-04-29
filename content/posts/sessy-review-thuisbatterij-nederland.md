@@ -361,7 +361,7 @@ Voor de meeste Nederlandse zonnepaneelbezitters die een thuisbatterij overwegen,
 
 3. **Groot verbruik + EV + warmtepomp**: kijk verder naar Tesla Powerwall of Huawei Luna voor hogere vermogens en integratie.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate">Bekijk Sessy thuisbatterij</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy thuisbatterij</a>
 
 **Belangrijk**: combineer Sessy altijd met een dynamisch contract. Op een vast contract ben je 60% van het potentiële voordeel kwijt. Sessy zonder dynamisch contract = halfvol pak chips.
 

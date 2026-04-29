@@ -66,7 +66,7 @@ Dat is precies de kern. Tibber en ANWB Energie zijn allebei goede dynamische con
 
 **Korte conclusie:** ANWB voor low-tech kleine verbruikers, Tibber voor smart-home en zware verbruikers.
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Probeer Tibber →</a> · <a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta-affiliate" rel="sponsored noopener">Bekijk ANWB Energie →</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Probeer Tibber →</a> · <a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk ANWB Energie →</a>
 
 ---
 
@@ -272,7 +272,7 @@ Tibber en ANWB Energie volgen exact dezelfde markt. Het verschil zit in de busin
 
 Onder ~2.500 kWh of zonder EV/batterij: ANWB. Boven 2.500 kWh met EV of smart-home ambities: Tibber. Beide zijn beter dan élk vast contract — een dynamisch contract is in 2026 voor 95% van de Nederlanders financieel gunstiger geworden.
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Probeer Tibber →</a> · <a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta-affiliate" rel="sponsored noopener">Bekijk ANWB Energie →</a> · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" rel="sponsored noopener">Frank Energie (alternatief) →</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Probeer Tibber →</a> · <a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk ANWB Energie →</a> · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Frank Energie (alternatief) →</a>
 
 *Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 

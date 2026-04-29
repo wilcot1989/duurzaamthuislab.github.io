@@ -337,7 +337,7 @@ Maar hij is niet automatisch de beste keuze voor jou. Als je woning label D of s
 
 Thomas in Zeist is inmiddels negen maanden verder. Hij bespaart meer dan verwacht, zijn woning is altijd aangenaam warm en de pomp draait zo stil dat hij hem soms vergeet te checken. Dat is eigenlijk het beste compliment voor een verwarmingssysteem.
 
-<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate">Bekijk de Daikin Altherma 3 warmtepompen</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk de Daikin Altherma 3 warmtepompen</a>
 
 ---
 

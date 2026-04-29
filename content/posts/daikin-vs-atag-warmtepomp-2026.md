@@ -70,7 +70,7 @@ Dat is een serieus bedrag voor wat in essentie hetzelfde apparaat is. Wint Daiki
 
 **Korte conclusie:** Atag voor prijs/kwaliteit, Daikin voor premium gemak.
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag →</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin →</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag →</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin →</a>
 
 ---
 
@@ -295,7 +295,7 @@ Voor 20% — luxe huizen, oude radiatoren (80°C nodig), strikte buurnorm, premi
 
 Bij twijfel: vraag offertes voor beide. De installateur die Daikin én Atag levert geeft je een eerlijker beeld dan een merk-specifieke verkoper.
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag →</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin →</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant →</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag →</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin →</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant →</a>
 
 *Vragen over jouw specifieke situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 

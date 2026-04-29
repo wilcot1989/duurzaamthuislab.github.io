@@ -355,7 +355,7 @@ Voor mensen die al zonnepanelen hebben + dynamisch contract: kies Sessy thuisbat
 
 Voor wie geen panelen heeft maar alles in één keer wil: Zonneplan lease is een redelijk pakket. Niet goedkoopst, maar wel zonder hoofdpijn.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate">Bekijk Zonneplan</a> · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/)
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Zonneplan</a> · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/)
 
 ---
 

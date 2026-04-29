@@ -327,7 +327,7 @@ Met de subsidies van 2026 is isolatie toegankelijker dan ooit. Spouwmuurisolatie
 Begin met een inventarisatie, vraag offertes aan bij erkende installateurs, en pak de subsidies mee. De investering verdient zich altijd terug — met subsidie alleen maar sneller.
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>

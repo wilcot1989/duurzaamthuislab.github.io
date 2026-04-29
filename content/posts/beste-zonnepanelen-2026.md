@@ -438,7 +438,7 @@ Alle merken presteren **beter dan hun garantienorm**. Dit is een patroon in de i
 *Laatst bijgewerkt: april 2026.*
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 
 <a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

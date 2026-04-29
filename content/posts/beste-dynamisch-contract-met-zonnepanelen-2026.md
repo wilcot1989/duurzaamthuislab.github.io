@@ -286,7 +286,7 @@ Niet elk dynamisch contract is gelijk voor elk type zonnepaneelbezitter. Laat me
 
 [Volledige Tibber review →](/posts/tibber-review-ervaringen-2026/) · [Frank Energie review →](/posts/frank-energie-review-ervaringen-2026/) · [ANWB Energie review →](/posts/anwb-energie-dynamisch-review-2026/)
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate">Bekijk Frank Energie</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Tibber</a>
 
 ---
 

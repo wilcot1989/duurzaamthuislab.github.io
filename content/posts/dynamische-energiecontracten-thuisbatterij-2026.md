@@ -455,7 +455,7 @@ Met ISDE-subsidie, een Huawei Luna 2000 en een dynamisch contract bij Tibber of 
 Lees ook onze artikelen over de [thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/) en de [afbouw van de salderingsregeling](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) voor meer achtergrondinformatie.
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>

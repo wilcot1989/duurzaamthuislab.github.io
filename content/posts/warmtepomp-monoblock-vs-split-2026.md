@@ -357,7 +357,7 @@ Veel gemeenten bieden leningen van 0-2% rente voor warmtepompen. Gecombineerd me
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepomp →</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk ATAG warmtepomp →</a>
 
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>

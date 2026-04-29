@@ -84,7 +84,7 @@ Geen enkel merk wint op alles. In dit artikel rangschik ik 8 grote merken op de 
 
 Lees [Daikin Altherma 3 review 2026](/posts/daikin-altherma-3-review-2026/) voor volledige test.
 
-<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin →</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin →</a>
 
 ---
 
@@ -106,7 +106,7 @@ Lees [Daikin Altherma 3 review 2026](/posts/daikin-altherma-3-review-2026/) voor
 
 Lees [Atag warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/) en [beste warmtepomp rijtjeshuis 2026](/posts/beste-warmtepomp-rijtjeshuis-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag →</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag →</a>
 
 ---
 
@@ -128,7 +128,7 @@ Lees [Atag warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/) en [best
 
 Lees [Vaillant aroTherm warmtepomp review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant →</a>
+<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant →</a>
 
 ---
 
@@ -171,7 +171,7 @@ Lees [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-re
 
 Lees [Quatt warmtepomp review 2026](/posts/quatt-warmtepomp-review-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" rel="sponsored noopener">Bekijk Quatt →</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Quatt →</a>
 
 ---
 
@@ -316,7 +316,7 @@ Geen enkel merk wint op alles. Voor de meeste Nederlandse huishoudens is **Atag 
 
 Belangrijker dan het merk: vraag minimaal 3 offertes, check installateur-reviews (Werkspot, Google), en laat een onafhankelijke energie-adviseur naar je huis kijken voordat je tekent.
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag →</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin →</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant →</a> · <a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" rel="sponsored noopener">Bekijk Quatt →</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag →</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin →</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant →</a> · <a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Quatt →</a>
 
 *Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 

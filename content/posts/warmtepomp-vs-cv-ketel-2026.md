@@ -370,7 +370,7 @@ Met een hybride warmtepomp daalt dit naar €50-€80/maand (gas + extra stroom)
 Ter referentie: een onderhoudscontract voor de warmtepomp + ketel kost gemiddeld €25-€30/maand. Zelfs met dat onderhoud inbegrepen ben je met een hybride warmtepomp per maand goedkoper uit dan met alleen gas.
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 ## Lees ook
 

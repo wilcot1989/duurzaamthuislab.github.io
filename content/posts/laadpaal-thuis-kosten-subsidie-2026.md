@@ -321,7 +321,7 @@ Ik heb de drie meest gevraagde laadpalen getest in identieke omstandigheden: 1-f
 Een thuislaadpaal is een van de beste investeringen als EV-rijder. Met €800-€1.500 (na subsidie: €400-€1.000) bespaar je €800-€1.600 per jaar ten opzichte van publiek laden. De Easee Home is onze top-aanbeveling, maar de Wallbox Pulsar Plus is een uitstekend budgetalternatief.
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 
 <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>

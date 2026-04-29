@@ -244,7 +244,7 @@ In 2026 is de lijst beperkt. Dit zijn de relevante modellen voor Nederlandse kop
 **Terugverdientijd**: 8-9 jaar (verbetert na salderings-stop 2027)  
 **Voor wie**: eigen woning met geschikte dakoppervlak, EV in huis
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate">Bekijk Sessy thuisbatterij</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy thuisbatterij</a>
 
 ### Setup 3: Geavanceerd — V2H met Ioniq 5
 
@@ -258,7 +258,7 @@ In 2026 is de lijst beperkt. Dit zijn de relevante modellen voor Nederlandse kop
 **Terugverdientijd**: 5-7 jaar  
 **Voor wie**: Ioniq 5 of EV6 rijder, thuiswerker, technisch ingesteld
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate">Bekijk Marstek Venus E</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek Venus E</a>
 
 ---
 
