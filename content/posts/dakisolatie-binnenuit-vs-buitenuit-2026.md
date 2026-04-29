@@ -27,7 +27,13 @@ faq:
     a: "Ja. Betere dakisolatie betekent een luchtdichter huis. Zonder aanpassing van de ventilatie kan dit leiden tot vochtproblemen, condens en ongezonde lucht. Zorg altijd voor mechanische ventilatie (WTW of CO₂-gestuurde ventilatie) bij grootschalige isolatie."
   - q: "Is er subsidie voor dakisolatie in 2026?"
     a: "Ja. Via de ISDE (Investeringssubsidie Duurzame Energie) is er subsidie beschikbaar voor dakisolatie met Rc ≥ 3,5 m²K/W. In 2026 bedraagt de subsidie €30 per m² tot een maximum van 30% van de investering. Vraag aan via RVO.nl. Sommige gemeenten hebben aanvullende subsidies."
-products: []
+products:
+  - name: "Tibber"
+    url: "/go/tibber"
+    price: "0"
+  - name: "Sessy thuisbatterij"
+    url: "/go/sessy"
+    price: "5995"
 ---
 
 Vorig jaar liet ik de dakisolatie van mijn jaren-vijftig rijtjeswoning aanpakken. De keuze die me het meeste hoofdbrekens kostte: ga ik het van binnenuit of van buitenuit isoleren? Na twee avonden rekenen en drie offertegesprekken kom ik je dat nu eerlijk vertellen — inclusief wat ik gekozen heb en waarom.

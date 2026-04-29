@@ -25,7 +25,13 @@ faq:
     a: "Als je netbeheerder aangeeft dat het net in jouw wijk overbelast is (net congestie), kan hij je verzoek tot verzwaring of teruglevering weigeren of op een wachtlijst plaatsen. Dit is een groeiend probleem in Nederland, met name in Flevoland, Noord-Brabant en Utrecht."
   - q: "Hoe lang duurt het voordat mijn aansluiting is aangepast door de netbeheerder?"
     a: "Bij enkelvoudige registratie van teruglevering (geen fysieke aanpassing): 1-4 weken. Bij een verzwaring van de aansluiting: 4-16 weken, afhankelijk van de drukte bij de netbeheerder. In 2026 zijn wachttijden door hoge vraag opgelopen tot soms 6 maanden in bepaalde regio's."
-products: []
+products:
+  - name: "Tibber"
+    url: "/go/tibber"
+    price: "0"
+  - name: "Sessy thuisbatterij"
+    url: "/go/sessy"
+    price: "5995"
 ---
 
 Toen mijn buren vorig jaar zonnepanelen lieten plaatsen, kregen ze een offerte van €8.400 voor een systeem van 18 panelen. Uiteindelijk betaalden ze €10.200. De extra €1.800 zat in kosten die de installateur niet had vermeld: een dakdoorvoer, een kabelgoot door de kruipruimte, en een aansluiting-verzwaring die de netbeheerder in rekening bracht.

@@ -27,7 +27,13 @@ faq:
     a: "Een onderhoudscontract betaal je jaarlijks voor preventief en/of correctief onderhoud door een installateur. Een garantieplan (van de fabrikant) dekt fabrieksfouten gedurende een bepaalde periode, maar doorgaans niet slijtage-onderdelen of gebruikersfouten. Beide zijn geen vervangers van elkaar."
   - q: "Wat als mijn cv-ketel al 15 jaar oud is — onderhoud of vervangen?"
     a: "Een cv-ketel heeft gemiddeld 15–20 jaar levensduur. Bij een ketel van 15 jaar oud die goed heeft gedraaid is de keuze: nog 2–4 jaar aanhouden met minimaal onderhoud, of nu vervangen door een hybride warmtepomp. Investeer geen groot onderhoudscontract meer in een ketel die waarschijnlijk over 3 jaar toch vervangen wordt."
-products: []
+products:
+  - name: "Tibber"
+    url: "/go/tibber"
+    price: "0"
+  - name: "Sessy thuisbatterij"
+    url: "/go/sessy"
+    price: "5995"
 ---
 
 Twee jaar geleden belde ik een installateur voor de jaarlijkse servicebeurt van mijn Remeha Tzerra. Aan het einde van het gesprek vroeg hij of ik interesse had in een servicecontract. "€220 per jaar, alles inclusief." Ik vroeg wat dat betekende. "Onderhoud, reparaties, voorrijkosten, storingsdienst 24/7." Hij voegde eraan toe: "Dat is echt een koopje. Je weet toch nooit wanneer hij het begeeft."

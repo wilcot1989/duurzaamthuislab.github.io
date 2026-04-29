@@ -29,6 +29,8 @@ products:
   - name: "Tibber dynamisch contract"
     url: "/go/tibber"
     price: "6"
+  - q: "Wat zijn de belangrijkste voordelen?"
+    a: "De voordelen staan in detail uitgelegd in de bovenstaande secties."
 ---
 
 De saldering stopt per 1 januari 2027. Maar hoeveel kost dat jou specifiek? Dat hangt af van hoeveel zonnepanelen je hebt, hoeveel je terugleverd en of je een dynamisch contract hebt. Vul hieronder jouw gegevens in en je ziet het verschil in seconden.
