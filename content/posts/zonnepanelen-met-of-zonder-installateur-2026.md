@@ -358,3 +358,29 @@ Als een installateur deze vragen niet goed kan beantwoorden, ga dan naar de volg
 | Zakelijk (onderneming, EIA van toepassing) | **Gecertificeerde installateur verplicht** | EIA vereist erkende installateur |
 
 De juiste keuze hangt af van jouw specifieke situatie. Maar voor 85% van de Nederlandse huiseigenaren met een standaard schuin dak geldt: een gecertificeerde installateur is de verstandigste investering op de lange termijn.
+
+---
+
+## Monitoring na installatie: wat je zelf moet bijhouden
+
+Of je nu DIY hebt gedaan of een installateur hebt ingeschakeld, na de installatie begint de verantwoordelijkheid van de eigenaar.
+
+**Maandelijks (1 minuut):**
+- Check de productie in de app: is de maandopbrengst in lijn met de verwachte kWh voor deze maand en jaar?
+- Vergelijk met de jaarproductie-schatting van de offerte
+
+**Kwartaal (5 minuten):**
+- Controleer of er geen alarmen of foutmeldingen zijn in de omvormer-app
+- Bekijk of alle panelen gelijkmatig produceren (zichtbaar via SolarEdge, Enphase, Huawei)
+- Kijk op het dak (met verrekijker, geen dak op) of er geen panelen losliggen of beschadigd zijn
+
+**Jaarlijks:**
+- Reinig de panelen als ze zichtbaar vervuild zijn (vogelpoep, bladeren)
+- Download je jaarproductie-rapport voor de belastingaangifte en garantiedocumentatie
+- Vergelijk realisatie vs. schatting: meer dan 10% afwijking naar beneden is een reden voor een servicebeurt
+
+**Bij afwijking:**
+- Neem altijd contact op via de installateur (ook bij DIY: via de fabrikantservice)
+- Bewaar alle correspondentie schriftelijk — dit is essentieel bij garantieclaims
+
+Een installatie die goed wordt gemonitord gaat aantoonbaar langer mee en levert structureel meer op dan een installatie die je vergeet te controleren.

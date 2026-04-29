@@ -291,3 +291,92 @@ Wil je weten of een Sessy bij jouw situatie past? Lees dan ook mijn [uitgebreide
 **[Bekijk Tibber dynamisch contract](/go/tibber)**
 
 **[Bekijk Sessy thuisbatterij](/go/sessy)**
+
+---
+
+## Seizoenspatronen dieper uitgewerkt: herfst, lente, najaar
+
+Tot nu toe behandelden we winter en zomer als twee uitersten. De tussenseizoenen (maart–mei en september–november) verdienen aparte aandacht, want de prijspatronen zijn er wisselvallig.
+
+### Lente (maart–mei): de meest volatiele periode
+
+In de lente beginnen de zonnepanelen serieus te produceren, maar de vraag naar verwarming is nog aanwezig. Dit creëert de meest wisselende prijsprofielen van het jaar.
+
+**Typische lente-dag met zon:**
+- 07:00–09:00: ochtendpiek (mensen gaan werken, verwarming aanstaan): 90–140 €/MWh
+- 11:00–14:00: forse solar-dip: 10–35 €/MWh
+- 17:00–20:00: avondpiek (thuiskomst, koken): 120–200 €/MWh
+
+**Typische lente-dag zonder zon, koud:**
+- Ochtendpiek net zo hoog
+- Middagdip ontbreekt volledig (geen solar)
+- Avondpiek even hoog
+
+De volatiliteit is het grootst: op een zonnige dag is het verschil ochtend–middag meer dan 100 €/MWh. Op een bewolkte dag is het profiel vergelijkbaar met de winter.
+
+**Praktisch:** in de lente is de waarde van Sessy Radar het hoogst per cyclus, omdat de prijsdeltaverschillen het grootst zijn. In mijn monitoring was maart 2026 (het kwartaal met meeste zonnetijd na de winter) mijn beste maand voor EPEX-arbitrage: gemiddeld €0,73 netto besparing per cyclus.
+
+### Najaar (september–november): afbouw van solar-voordelen
+
+In het najaar neemt de zonne-energie-productie af. De dag-dips worden kleiner en minder frequent. Het prijsprofiel verschuift terug naar het winterpatroon.
+
+Tegelijkertijd neemt de verwarmingsvraag toe, waardoor de avondpieken scherper worden. Dit is een goede periode voor EPEX-arbitrage op basis van de avondpiek, maar minder op basis van solar-dips.
+
+---
+
+## Uitleg voor beginners: wat is een "daluur" in de praktijk?
+
+Als je net begint met een dynamisch contract, zijn termen als "EPEX spotprijs" en "day-ahead" abstracter dan nodig. Ik leg het stap-voor-stap uit.
+
+**Stap 1: Elke dag om 12:00 worden morgen-prijzen gepubliceerd**
+
+EPEX publiceert dagelijks de stroomprijzen voor elk uur van de volgende dag. Jouw leverancier (Tibber, Frank Energie) verwerkt deze direct. In de Tibber-app zie je de prijzen per uur in een staafdiagram — goedkope uren zijn groen, dure uren rood.
+
+**Stap 2: Je energietarief is die spotprijs + vaste kosten**
+
+Je eindtarief per kWh = EPEX-prijs + transportkosten (circa 7–9 ct/kWh) + energiebelasting + btw. De EPEX-prijs is het variabele deel; de rest is vast per leverancier.
+
+**Stap 3: Jij bepaalt wanneer je apparaten draaien**
+
+Je wasmachine instellen op 03:00: je pakt het daluur. Je EV laden op 02:00: je pakt het daluur. Je Sessy-batterij laadt automatisch: pakt het daluur.
+
+**Het is niet ingewikkelder dan dit.** De slimme apparaten en de Tibber-app doen het werk. Jij hoeft alleen maar te begrijpen dat stroom 's nachts goedkoper is dan 's avonds.
+
+---
+
+## Belastingcomponent: hoe beïnvloedt dit het uurprijspatroon?
+
+Een onderschat element bij dynamische prijzen is de energiebelasting. In Nederland is de energiebelasting een vast bedrag per kWh — in 2026 circa €0,1239/kWh (excl. btw). Dit bedrag is gelijk voor elk uur van de dag.
+
+**Wat betekent dit voor de relatieve besparing?**
+
+Stel de EPEX-spotprijs schommelt tussen 3 ct/kWh (daluur) en 22 ct/kWh (piekuur). Na optellen van energiebelasting (12,39 ct/kWh) + transportkosten (8 ct/kWh) + btw (21%):
+
+| Component | Daluur | Piekuur |
+|-----------|--------|---------|
+| EPEX | 3 ct | 22 ct |
+| Transport | 8 ct | 8 ct |
+| Energiebelasting | 12,39 ct | 12,39 ct |
+| Subtotaal excl. btw | 23,39 ct | 42,39 ct |
+| Eindprijs incl. btw (21%) | 28,3 ct/kWh | **51,3 ct/kWh** |
+
+Het verschil in eindprijs per kWh: **51,3 - 28,3 = 23 cent/kWh**.
+
+Dit is het realistische bespaarbedrag per kWh die je verplaatst van piekuur naar daluur. Bij een Sessy van 5 kWh effectief per cyclus: **5 kWh × 23 ct = €1,15 per cyclus** — hoger dan de eerdere berekening op basis van netto spotprijs, omdat de belasting de absolute spreiding vergroot.
+
+---
+
+## Risico's van een dynamisch contract: wanneer valt het tegen?
+
+Een dynamisch contract is niet voor iedereen optimaal. Dit zijn de situaties waarbij het kan tegenvallen:
+
+**1. Energiecrisis-scenario's**
+In Q4 2021 en Q1 2022 waren er perioden van extreme EPEX-prijzen (500–800 €/MWh). Mensen met vaste contracten waren beschermd; dynamische contracthouders betaalden mee aan de pieken. In normaler marktomstandigheden (2023–2026) is dit risico beperkt, maar het is niet nul.
+
+**2. Weinig flexibiliteit in verbruik**
+Als je niet kunt verplaatsen (geen EV, geen thuisbatterij, geen slimme apparaten), dan volg je onvermijdelijk het piek-tarief voor een groot deel van je verbruik. Het voordeel van een dynamisch contract is dan klein.
+
+**3. Complexiteit bij mensen die niet technisch zijn**
+Tibber werkt goed via de app, maar als je geen smartphone-app wil bijhouden of niet weet hoe je een tijdschakelaar instelt, is een gewoon vast contract simpeler en transparanter.
+
+**Mijn advies:** neem eerst een dynamisch contract zonder thuisbatterij en monitor een maand je verbruikspatroon. Als je ziet dat je spontaan daluren benut (wasmachine, vaatwasser, EV), dan is een thuisbatterij de logische volgende stap voor automatisering.

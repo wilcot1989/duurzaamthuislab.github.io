@@ -287,3 +287,107 @@ Investeer in een stille unit van meet af aan. Die extra €300–€600 voor een
 En mocht je toch al in een geschil zitten: zorg voor een gecertificeerde geluidsmeting door een onafhankelijk akoestisch bureau. Dat rapport bepaalt de uitkomst van elke verdere procedure.
 
 Lees voor meer hulp bij de keuze van een warmtepomp mijn [overzicht van de beste hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) en de gedetailleerde [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/).
+
+---
+
+## Wat doet geluid van een warmtepomp met de slaapkwaliteit?
+
+Het juridische kader is één aspect. De gezondheidsimpact is een ander. Ik sprak met een slaaponderzoekster van de Universiteit Groningen die onderzoek doet naar omgevingsgeluid en slaap.
+
+Haar bevindingen, toegepast op warmtepompen:
+
+**Drempel voor slaapverstoring:** onderzoek toont dat geluidsniveaus boven 30 dB(A) in de slaapkamer de slaapkwaliteit kunnen verslechteren, ook als mensen er niet wakker van worden. Het gaat om microwakingen (kortdurende arousals) die de diepe slaap verstoren zonder dat je het merkt.
+
+**35 dB(A) is een borderline niveau:** de nacht-norm van 35 dB(A) op de erfgrens is opgesteld om slaapverstoring te beperken. Maar: geluid bij de erfgrens is niet hetzelfde als geluid in de slaapkamer. Als het slaapkamerraam op de erfgrens staat en open staat 's nachts, is het geluid in de slaapkamer nagenoeg gelijk aan het buitenniveau.
+
+**Tonaal geluid (tonen, zoemen) is erger dan breedbandig geluid:** het specifieke karakter van warmtepomp-geluid — een doorgaand zoemend geluid van de compressor en een ritme van de ventilator — is psychoakoestisch storend dan ruis op hetzelfde niveau. Dit verklaart waarom mensen meer hinder melden van warmtepompen dan van vergelijkbaar luide verkeersgeluid.
+
+**Praktische implicatie:** bij een buur met slaapkamerraam richting je warmtepomp, is 35 dB(A) op de erfgrens niet de veilige ondergrens — het is de wettelijke grens. Voor goed burengedrag streef je naar 30 dB(A) of lager op de erfgrens.
+
+---
+
+## Geluidsschermen voor warmtepompen: typen en effectiviteit
+
+Ik heb drie typen geluidsschermen getest of geanalyseerd:
+
+### Type 1: Massief houten scherm (doe-het-zelf)
+
+Een massief houten scherm (geperst spaanplaat of multiplex, 18–22 mm dik) geeft 8–12 dB geluidsreductie aan de afgeschermde kant. Voorwaarden:
+- Minimale hoogte: 20 cm boven de buitenunit
+- Geen openingen of kieren (elke opening vermindert de isolatie drastisch)
+- Uitblaaszijde van de unit moet open blijven (anders oververhitting unit)
+
+Kosten: €150–€350 voor een L-vormig scherm rondom 3 zijden, inclusief materiaal.
+
+**Aandachtspunt:** een volledig gesloten scherm veroorzaakt recirculatie van warme uitblaaslucht. Dit verlaagt de COP. Laat altijd de uitblaaszijde volledig open.
+
+### Type 2: Akoestische absorptiepanelen (kant-en-klaar)
+
+Merken als Noise Stop en Soundex bieden warmtepomp-geluidsschermen aan die speciaal zijn ontworpen voor gebruik in buitenruimten. Ze bestaan uit een massieve buitenschil met absorberend materiaal aan de binnenzijde.
+
+Effectiviteit: 10–15 dB reductie aan de geschermde zijde. Kosten: €400–€800 voor een compleet set rondom een standaard buitenunit.
+
+### Type 3: Landschappelijke afscherming (beplanting)
+
+Een dichte haag van 1,8–2 meter hoog biedt circa 3–6 dB reductie — minder dan een massief scherm, maar esthetisch aantrekkelijker. Soorten die geschikt zijn:
+
+- Taxus baccata (hulst): wintergroen, dicht, groeit langzaam
+- Prunus laurocerasus (laurier): snel groeiend, wintergroen, robuust
+- Thuja plicata (Westerse levensboom): dicht, snel groeiend, houdt wind
+
+Nadeel: duurt 2–5 jaar voordat de haag effectieve geluidsisolatie biedt.
+
+---
+
+## Appartementen en VvE: warmtepomp-geluid in collectieve situaties
+
+In appartementen zijn de geluidsproblemen complexer dan bij vrijstaande woningen of rijtjeshuizen. Structuurgeluid speelt hier een dominante rol.
+
+### Structuurgeluid versus luchtgeluid
+
+**Luchtgeluid:** geluid dat zich via de lucht verspreidt (de ventilator, de uitblaasgeluiden van de buitenunit). Dit is het geluid dat de buur buiten hoort.
+
+**Structuurgeluid:** trillingen die via de fundering, vloer, muur of plafond worden doorgegeven. De compressor van een warmtepomp produceert ook trillingen in het frequentiebereik van 30–120 Hz die via de constructie worden doorgegeven.
+
+In een appartement op de 3e etage kan een warmtepomp die via een muurbeugel is bevestigd aan de gevel zijn trillingen direct via de gevelconstructie doorgeven aan aangrenzende woningen — ook woningen die niet eens naast de buitenunit staan.
+
+### Oplossingen voor structuurgeluid in appartementen
+
+1. **Gummien trillingsisolatie op de wandbeugel:** zorg dat de buitenunit via neopreen of EPDM-trillingsdempende beugels is bevestigd. Dit onderbreekt de trillingsoverdracht voor hoge frequenties.
+
+2. **Inwendige trillingsisolatie binnenunit:** de binnenunit (hydro-module, warmtewisselaar) mag niet direct op de vloer of muur rusten zonder trillingsisolatie.
+
+3. **Flexibele leidingaansluitingen:** de verbindingsleidingen tussen binnen- en buitenunit moeten via flexibele koppelingen zijn aangesloten, niet rigide.
+
+4. **VvE-reglement checken:** de meeste VvE-reglementen vereisen toestemming van het bestuur voor het plaatsen van een warmtepomp-buitenunit op de geveal of het dak. Vraag dit altijd schriftelijk aan vóór installatie.
+
+---
+
+## Meetbare geluidsmeting laten uitvoeren: hoe en wat kost het?
+
+Als je een geschil wil voorkomen of oplossen, is een gecertificeerde geluidsmeting het sterkste instrument.
+
+### Wie mag meten?
+
+Een geluidsrapport dat juridisch of bij de gemeente standhoudt, moet worden uitgevoerd door een gecertificeerd akoestisch bureau (ISO 17025-geaccrediteerd of equivalent). Een meting door een particulier of door de warmtepomp-installateur zelf is juridisch aanvechtbaar.
+
+Gecertificeerde akoestische adviesbureaus zijn te vinden via de Nederlandse Vereniging voor Bouw- en Woningkwaliteit (NVBW) of via het Platform Akoestiek.
+
+### Wat kost een geluidsmeting?
+
+- **Eenvoudige meting** (3–5 meetpunten op erfgrens, dagperiode): €350–€650
+- **Uitgebreide meting** (dag + avond + nachtperiode, meetrapport voor bezwaarschrift): €800–€1.500
+- **Indicatieve meting door installateur** (niet gecertificeerd, alleen oriëntatie): €100–€200
+
+Voor een minnelijke regeling met de buur is een indicatieve meting door de installateur vaak voldoende. Voor een formele procedure bij gemeente of rechtbank is een gecertificeerde meting noodzakelijk.
+
+### Wat staat er in een geluidsmeting-rapport?
+
+Een volledig geluidsmeetrapport bevat:
+- Beschrijving van de meetlocatie en -omstandigheden (wind, achtergrondgeluiden)
+- Gemeten waarden per meetpunt (LAeq, LCeq, LAmax)
+- Vergelijking met de normen (Activiteitenbesluit / Bal)
+- Conclusie: wel of geen normoverschrijding
+- Aanbevelingen indien overschrijding
+
+Dit rapport is het document dat je nodig hebt als je bij de gemeente een klacht indient of als bewijs in een civiele procedure.

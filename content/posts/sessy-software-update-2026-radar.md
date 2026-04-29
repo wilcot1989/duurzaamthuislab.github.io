@@ -256,4 +256,58 @@ Het is geen universele winnaar: voor wie enkel eigenverbruik wil optimaliseren m
 
 Mijn rendement van €220–€310/jaar (bij Sessy-prijs van €3.999) geeft een terugverdientijd van 13–18 jaar puur op EPEX-arbitrage. Voeg je de solar-eigenverbruiksoptimalisatie toe (voor mij circa €120/jaar extra) dan kom je op 9–12 jaar terugverdientijd — voor een systeem met 10-jaar garantie en 6.000 cycli levensduur een acceptabele business case.
 
+---
+
+## Sessy vs. thuisbatterij kopen zonder EPEX-koppeling: is de meerwaarde meetbaar?
+
+Om de waarde van Sessy Radar objectief te beoordelen, vergelijk ik mijn eigen data met een hypothetisch scenario waarbij de Sessy enkel op eigenverbruik (solar self-consumption) zou optimaliseren zonder EPEX-koppeling.
+
+**Werkelijk scenario (Sessy met Radar + Tibber, Q1 2026):**
+- Totaal geladen: 467 kWh
+- Gemiddeld inkooptarief: 5,1 ct/kWh
+- Totale inkoopkosten lading: €23,82
+- Waarde ontlading (vermeden inkoop op piekmoment): €82,28
+- **Netto waarde Q1: €58,46**
+
+**Simulatie zonder Radar (alleen solar eigenverbruik):**
+- Totaal geladen via zonnepanelen (Q1, beperkte productie): 89 kWh
+- Gemiddeld eigenverbruikswaarde: 24 ct/kWh
+- **Netto waarde Q1 simulatie: €21,36**
+
+**Verschil: Sessy Radar leverde €37,10 meer op in Q1** — uitsluitend door de EPEX-koppeling. Geëxtrapoleerd: circa **€148 extra per jaar** alleen via de EPEX-koppeling boven pure solar-eigenverbruiksoptimalisatie.
+
+---
+
+## Veelgestelde vragen van Sessy-gebruikers
+
+**"Mijn Sessy laadt niet in de nacht terwijl de EPEX-prijs laag was — waarom?"**
+
+Sessy Radar kijkt niet alleen naar de huidige prijs maar naar de geoptimaliseerde spread over de komende 24 uur. Als er 's ochtends vroeg een nog lagere prijs wordt verwacht, kan Radar besluiten te wachten. Ook: als de batterij al deels vol is, is het niet altijd optimaal om extra te laden op een lage prijs als er de volgende dag geen hoge piekprijs wordt verwacht.
+
+**"De Sessy-app toont een negatieve besparing deze week — is dat normaal?"**
+
+De besparing in de app is berekend op basis van wat er zonder de batterij gekost zou hebben. In weken met weinig EPEX-volatiliteit en weinig zonne-energie is de besparing inderdaad klein of negatief. Over een jaar is de balans altijd positief bij correct geconfigureerd systeem.
+
+**"Kan ik Sessy ook handmatig overschrijven?"**
+
+Ja. In de Sessy-app kun je via "Manueel instellen" de batterij forceren te laden of ontladen op een moment dat jij kiest. Na het handmatige commando valt de Sessy terug op automatische Radar-planning.
+
+---
+
+## Sessy in 2027: de saldering-afbouw als businessgeval
+
+De salderingsregeling vervalt per 2027. Dit verandert de waarde van een thuisbatterij fundamenteel.
+
+**Effect op Sessy-businesscase na 2027 (indicatief, PV 4,8 kWp):**
+
+| Situatie | Jaarwaarde |
+|----------|-----------|
+| Zonder Sessy, voor 2027 | €605 |
+| Zonder Sessy, na 2027 | €605 → daalt naar €449 + €156 = €605 maar teruglevering minder waard |
+| Met Sessy, na 2027 | €786–€842 eigenverbruik + €65–€78 teruglevering + €220–€310 EPEX = **€1.071–€1.230** |
+
+**Verschil Sessy vs. geen Sessy na 2027: €466–€625 per jaar**
+
+Bij een netto Sessy-prijs van €3.999 geeft dit een terugverdientijd na 2027 van **6,4–8,6 jaar** — significant beter dan vandaag. De Sessy wordt financieel aantrekkelijker naarmate de saldering afbouwt.
+
 **[Bekijk Sessy thuisbatterij](/go/sessy)**

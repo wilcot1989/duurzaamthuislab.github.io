@@ -323,6 +323,37 @@ De keuze monoblock vs. split is minder baanbrekend dan de beslissing óf u een w
 
 ---
 
+## Aanvullende vragen die ik regelmatig krijg
+
+**Kan ik later van monoblock naar split overstappen?**
+Niet direct. U kunt de warmtepomp-unit vervangen bij renovatie, maar de leidinginfrastructuur (waterleidingen buitenshuis vs. koudemiddelleidingen) verschilt. Een overstap vereist opnieuw installatie-werk. Het is geen plug-and-play-wissel. Maak de keuze dus goed van tevoren.
+
+**Mijn installateur adviseert een monoblock omdat hij geen F-gassen-certificering heeft. Moet ik een andere installateur kiezen?**
+In principe ja, als u een split-systeem wilt. Voor een monoblock-installatie is F-gassen-certificering niet vereist voor de aansluiting van de waterleidingen. Maar als uw installateur geen F-gassen-certificering heeft, beperkt dat ook zijn vermogen om de unit te onderhouden als er later een koudemiddelprobleem optreedt. Kies bij voorkeur een F-gassen-gecertificeerde installateur — ook voor monoblock.
+
+**Welke stookcurve moet ik instellen?**
+De stookcurve bepaalt hoe warm het water wordt dat de warmtepomp aanlevert bij een bepaalde buitentemperatuur. Een te steile curve verspilt energie; een te vlakke curve zorgt voor te lage aanvoertemperaturen en koud comfort. Uw installateur stelt de curve in bij de inbedrijfstelling. Na de eerste winter is bijstelling doorgaans nodig. Vraag de installateur om uitleg over de instelling en vraag naar de mogelijkheid van remote monitoring.
+
+**Is een warmtepomp geschikt voor een jaren-50-woning?**
+Ja, mits in hybride configuratie. Een jaren-50-woning heeft doorgaans radiatoren die hoge aanvoertemperaturen vragen (55-70°C). Een all-electric warmtepomp presteert dan slecht. Een hybride systeem (warmtepomp + ketel) laat de ketel inspringen bij hoge temperatuurvraag. ATAG ENERGION hybride en Daikin Altherma hybride zijn specifiek voor deze situatie ontworpen — beide zijn split-systemen.
+
+---
+
+## Subsidie en warmtepompen: wat geldt in 2026?
+
+**ISDE-subsidie (nationaal):**
+- Lucht-water warmtepomp: €2.500 tot €4.000 afhankelijk van model en vermogen
+- Bodemwarmtepomp: €5.000 tot €7.000
+- Hybride warmtepomp: €2.500 tot €3.500
+- Aanvragen: altijd vóór installatie via RVO.nl
+
+**Duurzaamheidslening (gemeentelijk):**
+Veel gemeenten bieden leningen van 0-2% rente voor warmtepompen. Gecombineerd met ISDE-subsidie kunt u de resterende investering financieren met een lage maandlast.
+
+**Voorbeeld:** warmtepomp kost €11.000. ISDE-subsidie: €3.500. Restinvestering: €7.500. Duurzaamheidslening 0% rente, 10 jaar looptijd: €62,50 per maand. Energiebesparing: €80-€120 per maand. Netto: al vanaf maand 1 positief cashflow.
+
+---
+
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 

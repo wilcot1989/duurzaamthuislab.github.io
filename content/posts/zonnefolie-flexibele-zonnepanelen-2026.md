@@ -278,7 +278,43 @@ Voor een caravan of camper gelden geen bouwvergunningen — het is een voertuig,
 
 ---
 
-Flexibele technologie heeft zijn niche. Het is niet de toekomst van alle daken, maar het is wél de enige optie voor specifieke situaties. Ken uw dakconstructie, weet wat u verwacht, en laat u adviseren door iemand die niet alleen maar één product verkoopt.
+Flexibele technologie heeft zijn niche. Het is niet de toekomst van alle daken, maar het is wél de enige optie voor specifieke situaties.
+
+---
+
+## Veelgestelde praktijkvragen
+
+**Mijn flexibele panelen produceren na 3 jaar nauwelijks nog iets. Wat is er mis?**
+Grote kans dat de PET-toplaag geel is geworden door UV-degradatie. Dat vermindert de lichtdoorval en daalt de efficiëntie snel. Dit is een bekend probleem bij goedkope panelen met PET-backing. Duurdere panelen met ETFE-toplaag hebben dit probleem minder. Helaas is dit niet te repareren — de panelen zijn versleten.
+
+**Kan ik flexibele panelen oprollen voor opslag in de winter?**
+Sommige modellen zijn ontworpen om opgerold te worden (rollable solar). Maar niet alle flexibele panelen zijn daarvoor geschikt — sommige worden beschadigd bij rollen. Controleer de specificaties van uw model. Voor camperpanelen die seizoensmatig worden opgeslagen: bewaar ze opgerold (bij modellen die het ondersteunen) in een droge, niet te warme ruimte.
+
+**Zijn flexibele zonnepanelen ook te gebruiken op water (drijvend)?**
+Drijvende zonnepanelen (floating PV) is een groeiende toepassing. Voor vijvers en kleine watervlakken op particulier terrein zijn er speciale drijvende frames. Flexibele panelen zijn hier niet voor ontworpen — de onderste laag is niet waterdicht voor langdurig contact. Gebruik hiervoor specifieke waterproof zonnepanelen of standaard rigide modellen op een drijvend frame.
+
+**Welke omvormer past bij flexibele panelen?**
+Dezelfde typen omvormers als bij rigide panelen: micro-omvormer (per paneel), string-omvormer (voor meerdere panelen in serie), of laadregelaar (voor off-grid accu-systemen). Controleer het maximale ingangsvermogen van de omvormer versus het vermogen van uw panelen. Micro-omvormers van Enphase (IQ7 series) zijn breed compatibel met flexibele panelen.
+
+---
+
+## Opbrengstcalculator: uw dakkapel of caravan
+
+Als u wilt inschatten wat een flexibele panelen-installatie u oplevert, doorloop dan deze berekening:
+
+**Stap 1:** beschikbaar oppervlak (m²) × efficiëntie (0,18 voor een middenklasse flexibel paneel) = opgesteld vermogen in kWp
+**Stap 2:** opgesteld vermogen × 900 (gemiddelde Nederlandse zonuren equivalent per jaar) = bruto jaaropbrengst in kWh
+**Stap 3:** bruto × 0,85 (verliezen door omvormer, bekabeling, temperatuur) = netto jaaropbrengst
+**Stap 4:** netto × €0,30 (stroomprijs) = jaarlijkse besparing in euro
+
+**Voorbeeld dakkapel:**
+- Oppervlak: 3 m²
+- Vermogen: 3 × 0,18 = 0,54 kWp
+- Bruto: 0,54 × 900 = 486 kWh/jaar
+- Netto: 486 × 0,85 = 413 kWh/jaar
+- Besparing: 413 × €0,30 = **€124/jaar**
+
+Bij een investering van €600 is de terugverdientijd 4,8 jaar. Bescheiden, maar niet onredelijk voor een dakkapel die anders onbenut blijft. Ken uw dakconstructie, weet wat u verwacht, en laat u adviseren door iemand die niet alleen maar één product verkoopt.
 
 ---
 

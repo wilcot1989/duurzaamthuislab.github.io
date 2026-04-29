@@ -284,6 +284,74 @@ Het is minder subsidie dan in 2020 of 2021. Maar voor wie slim zoekt en de 0% BT
 
 ---
 
+## Veel gestelde vragen
+
+**Kan ik bij meerdere gemeenten subsidie aanvragen als ik op de grens woon?**
+Nee. U kunt alleen bij uw eigen gemeente subsidie aanvragen. Gemeentegrens = belastinggrens.
+
+**Gaat de subsidie naar mij of naar de installateur?**
+Bij de meeste regelingen gaat de subsidie naar de huiseigenaar — u moet zelf aanvragen en na installatie de factuur overleggen. Bij SVn-leningen ontvangt u het bedrag op uw rekening en betaalt u de installateur zelf.
+
+**Kan ik ook subsidie aanvragen voor een zonneboiler?**
+Ja. ISDE voor zonneboilers (thermische collectoren) is apart van de zonnepanelen-regelingen. In 2026 is de ISDE voor zonnecollectoren circa €300-€700 afhankelijk van het oppervlak. Aanvragen via RVO.nl.
+
+**Ik heb huurwoning — kan ik toch zonnepanelen installeren?**
+Als huurder kunt u geen permanente wijzigingen aanbrengen zonder toestemming van de verhuurder. Vraag toestemming via een schriftelijk verzoek. De meeste verhuurders staan open voor zonnepanelen op het dak, zeker als de investering via een abonnementsmodel loopt (u behoudt geen eigendomsrecht). Woningcorporaties hebben soms eigen verduurzamingsprogramma's.
+
+**Wanneer wordt de subsidieregeling van mijn gemeente opnieuw gevuld?**
+De meeste gemeenten vullen hun subsidiebudget jaarlijks bij, doorgaans per 1 januari. Sommige doen dit in april of september. Sta op de wachtlijst via de gemeentewebsite of vraag het gemeentelijke duurzaamheidsloket.
+
+---
+
+## Combinatie met andere verduurzaming: hoe stapelt u subsidies?
+
+U kunt meerdere subsidies combineren zolang ze betrekking hebben op verschillende maatregelen:
+
+**Scenario 1:** zonnepanelen + warmtepomp
+- 0% BTW op zonnepanelen
+- ISDE warmtepomp: €2.500-€4.000
+- Gemeentelijke duurzaamheidslening: dekt beide investeringen
+
+**Scenario 2:** zonnepanelen + isolatie
+- 0% BTW op zonnepanelen
+- ISDE isolatie: van toepassing op spouwmuur, dak, vloer
+- Lening dekt beide maatregelen in één aanvraag
+
+De meeste SVn-leningen zijn breed: ze financieren isolatie, zonnepanelen, warmtepomp, en andere energiebesparende maatregelen in één aanvraag. U hoeft niet apart aan te vragen per maatregel. Dat scheelt administratieve rompslomp.
+
+**Maximumbedragen:** leningen via SVn zijn doorgaans gemaximeerd op €20.000-€30.000 per woning. Subsidies zijn per maatregel gemaximeerd. Er is geen nationaal plafond voor het combineren.
+
+---
+
+## Hoe vindt u de subsidies in uw gemeente: een praktische aanpak
+
+Veel subsidies worden slecht gecommuniceerd. Gemeentewebsites zijn soms verouderd, medewerkers van de balie weten het niet altijd. Dit zijn de meest effectieve manieren:
+
+**1. Google uw gemeente + "duurzaamheidslening" of "energielening"**
+Meestal de snelste route. Voeg uw gemeentenaam toe aan de zoekopdracht. Kijk ook op de RIS-raadsinformatiesystemen voor recente besluiten over duurzaamheidssubsidies.
+
+**2. SVn.nl → "Vind uw lening"**
+SVn heeft een postcode-zoekmachine waarmee u direct kunt zien welke leningen beschikbaar zijn in uw gemeente. Sneller dan zoeken op de gemeentewebsite.
+
+**3. Energieloket of duurzaamheidsloket van de gemeente**
+Veel gemeenten hebben een telefonisch of digitaal loket. Bel en vraag specifiek: "Welke subsidies of leningen zijn er voor zonnepanelen in 2026?"
+
+**4. Wijkenergieteam of lokale energiecoöperatie**
+Lokale energiecoöperaties en wijkenergieteams weten vaak beter wat er lokaal beschikbaar is dan de gemeente zelf. Ze staan dicht bij de praktijk en helpen gratis.
+
+**5. Energiebespaarlening.nl (nationaal overzicht)**
+Dit portaal geeft een overzicht van rijks- en regionale regelingen per postcode. Niet altijd volledig up-to-date, maar een goed vertrekpunt.
+
+---
+
+## Tot slot: plan uw installatie nu
+
+De combinatie van 0% BTW, resterende salderingsregeling in 2026 en beschikbare gemeentelijke leningen maakt 2026 een goed jaar om te installeren. In 2027 verdwijnt de salderingsregeling, en de verwachting is dat gemeentelijke subsidiebudgetten verder krimpen.
+
+Als u serieus bent over zonnepanelen: vraag drie offertes aan in de komende vier weken, check uw gemeente op een lening, en plan de installatie voor het einde van het jaar. Die tijdige actie heeft concreet financieel voordeel.
+
+---
+
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 

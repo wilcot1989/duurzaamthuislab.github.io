@@ -337,5 +337,49 @@ Een warmtepomp werkt het best bij lage aanvoertemperaturen (35–45°C), wat vlo
 
 **De juiste volgorde is altijd:** eerst isoleren, dan verwarmingssysteem kiezen.
 
+---
+
+## Praktisch stappenplan: van pelletkachel naar warmtepomp
+
+Als je nu nog een pelletkachel hebt en toe wil naar een warmtepomp, is dit het meest logische stappenplan:
+
+**Stap 1: Energiescan laten uitvoeren**
+
+Vraag een gecertificeerde energieadviseur om een EPA-maatwerkadvies (Energie Prestatie Advies). Dit geeft je een prioriteitslijst van maatregelen met kosten, besparing en terugverdientijden voor jouw specifieke woning.
+
+Kosten EPA-maatwerkadvies: **€250–€450** via gecertificeerd EPA-adviseur. Soms gesubsidieerd via gemeente.
+
+**Stap 2: Isolatiepakket uitvoeren**
+
+Op basis van het EPA-advies isoleer je de meest impactvolle schilcomponenten. Typische volgorde:
+1. Dakisolatie (hoogste impact, relatief laag per m²)
+2. Gevelisolatie (groot oppervlak, ISDE-subsidiabel)
+3. Vloerisolatie of bodemisolatie (onderzijde vloer eerste verdieping)
+
+**Stap 3: Radiatoren controleren en eventueel upgraden**
+
+Een warmtepomp werkt het efficiëntst bij lage aanvoertemperatuur (35–45°C). Oude kleine radiatoren zijn ontworpen voor 70–80°C aanvoertemperatuur en kunnen onvoldoende warmte afgeven bij lage temperatuur.
+
+Laat een installatieberekening uitvoeren: kunnen de bestaande radiatoren voldoende vermogen leveren bij 45°C? Zo niet, welke radiatoren moeten worden vergroot?
+
+**Stap 4: Warmtepomp installeren**
+
+Na isolatie en radiatoren is de woning klaar voor een warmtepomp. Vraag minimaal 3 offertes en controleer altijd:
+- ISDE-certificaat van de te installeren warmtepomp (anders geen subsidie)
+- COP-berekening voor jouw specifieke woning (niet een algemene schatting)
+- 5-jaar installatieworkgarantie naast de fabrieksgarantie
+
+**Stap 5: Pelletkachel behouden als back-up of sfeerverwarming**
+
+Als de pelletkachel nog goed functioneert en voldoet aan Ecodesign 2022, hoef je hem niet te verwijderen. Gebruik hem als sfeerverwarming (100–200 uur per jaar) en als back-up bij extreme kou. De milieuimpact van 200 branduren per jaar is beperkt.
+
+Als de pelletkachel aan vervanging toe is: ga er dan niet in investeren. Laat hem gewoon afschrijven en gebruik de warmtepomp als enige primaire verwarming.
+
+---
+
+## Conclusie samengevat in drie zinnen
+
+Een pelletkachel is in 2026 legaal, maar niet meer subsidiabel en financieel minder aantrekkelijk dan een warmtepomp over de levensduur. De luchtkwaliteitsimpact (fijnstof) en het groeiende wettelijke risico op stookbeperkingen maken het op de lange termijn een kwetsbare keuze. Voor een woning die klaar is voor een warmtepomp is de hybride warmtepomp in 2026 altijd de betere investering — met ISDE-subsidie, lagere totale kosten en nul gram fijnstof.
+
 
 <a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepomp</a>

@@ -256,6 +256,22 @@ Kierdichting is de goedkoopste verduurzaming die er bestaat. Voor €50 aan mate
 
 ---
 
+## Veelgestelde vragen
+
+**Hoe lang gaat EPDM-tochtstrip mee?**
+Een goede EPDM-strip gaat 10 tot 15 jaar mee bij normale gebruik. Schuim-strips van goedkope kwaliteit gaan 1 tot 3 jaar mee. Investeer in EPDM van 3-4 mm dikte — dat veert beter terug en sluit beter af bij scheve of ongelijke deurstijlen.
+
+**Mijn deur sluit niet meer goed na het plaatsen van de tochtstrip. Wat doe ik?**
+De strip is te dik of te breed geplaatst. Pas de positie aan: de strip moet in de sponning (de groef) zitten, niet op de rand. Als de deur echt klem zit, slijp de strip iets bij of gebruik een dunnere uitvoering (2 mm).
+
+**Wat is het verschil tussen borstelstrip en rubberen strip?**
+Borstelstrips (nylonharen) zijn beter voor plekken met veel beweging (onderkant van een schuifdeur, brievenbus) en bij oneffen oppervlakken. Rubberen EPDM-strip is beter voor stijlen en kozijnen die goed aansluiten. Combineer beide: EPDM voor zijkanten en bovenkant, borstelstrip voor de onderkant als een automatische tochtdrempel te duur is.
+
+**Is kierdichting aftrekbaar van de belasting?**
+Nee, kierdichting alleen is niet aftrekbaar. Maar als onderdeel van een grotere energierenovatie (isolatie + zonnepanelen + warmtepomp) kunt u in sommige gevallen profiteren van de energiebespaarlening met belastingvoordeel. Vraag uw belastingadviseur of gemeente.
+
+---
+
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 
