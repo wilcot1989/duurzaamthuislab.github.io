@@ -16,7 +16,7 @@ faq:
   - q: "Mogen energieleveranciers terugleverkosten rekenen?"
     a: "Ja, op grond van de Elektriciteitswet mogen leveranciers vrij hun voorwaarden bepalen. De ACM heeft in 2024 bevestigd dat differentiatie naar zonnepaneelbezit mag, mits transparant gecommuniceerd. Bij overstappen mag je niet worden geweigerd, maar wel anders worden geprijsd."
   - q: "Welke leveranciers rekenen geen terugleverkosten in 2026?"
-    a: "In april 2026 zijn de leveranciers zonder expliciete terugleverkosten: Tibber, Frank Energie, ANWB Dynamisch, en enkele kleinere lokale aanbieders. Alle drie de eerste zijn dynamische contracten — de \'kosten\' zitten effectief in de marktprijs verwerkt."
+    a: "In april 2026 zijn de leveranciers zonder expliciete terugleverkosten: Tibber, Frank Energie, ANWB Dynamisch, en enkele kleinere lokale aanbieders. Alle drie de eerste zijn dynamische contracten — de 'kosten' zitten effectief in de marktprijs verwerkt."
   - q: "Kan ik de terugleverkosten ontwijken?"
     a: "Ja, op drie manieren: (1) overstappen naar een leverancier zonder terugleverkosten, (2) je teruglevering verlagen door slimmer eigen verbruik, (3) een thuisbatterij kopen waarmee je teruglevering bijna volledig kunt elimineren."
   - q: "Wat is het verschil tussen terugleverkosten en netbeheerkosten?"

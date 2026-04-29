@@ -37,7 +37,7 @@ faq:
   a: 'Ja, via myUplink-app + Nibe Modbus-RS485 connectie kun je integreren met Home Assistant, Domoticz of professionele BMS-systemen. Beste smart-home koppeling van alle premium warmtepompen op de Nederlandse markt. Smart Grid Ready volwaardig geïmplementeerd: kan op zonneoverschot opdraaien.'
 - q: Past Nibe bij een Nederlandse woning?
   a: 'Bij goed-geïsoleerde woning (label B+) en vloerverwarming: zeker. Bij label C met lage-T radiatoren: ook geschikt mits je accepteert dat COP iets lager uitvalt. Bij label D of slechter: niet eerste keus — overweeg eerst isolatie of een hybride zoals Quatt. Nibe is een premium-merk, voor mensen die maximaal rendement willen.'
-- q: Nibe versus Mitsubishi Ecodan: welke kies ik?
+- q: 'Nibe versus Mitsubishi Ecodan: welke kies ik?'
   a: 'Ecodan en Nibe zijn beide premium met SCOP 4,7-4,9. Verschillen: Nibe heeft betere smart-home integratie en bodemwarmtepomp-optie (Mitsubishi heeft die niet). Ecodan heeft groter dealer-netwerk en eenvoudigere service. Nibe heeft hogere instapprijs maar vaak nog langere levensduur. Voor smart-home: Nibe. Voor eenvoud: Ecodan.'
 products:
 - name: Nibe S2125-8 lucht-water 8 kW
