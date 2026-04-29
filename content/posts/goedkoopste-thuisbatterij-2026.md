@@ -9,7 +9,7 @@ keywords: ["goedkoopste thuisbatterij 2026", "thuisbatterij budget", "Marstek Ve
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"https://wsrv.nl/?url=images.unsplash.com/photo-1561313084-de4b98d46e24&w=1200&output=webp&q=70output=webpfeatured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70""
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 faq:
   - q: "Zijn goedkope thuisbatterijen betrouwbaar?"
     a: "Dat hangt af van het type. LFP (lithiumijzerfosfaat) batterijen zijn inherent veiliger dan NMC. Marstek gebruikt LFP-cellen van BYD — dezelfde technologie als in dure systemen. De lagere prijs zit hem in een kleinere marge, minder premium verpakking en minder uitgebreide service, niet in inferieure cellen."
