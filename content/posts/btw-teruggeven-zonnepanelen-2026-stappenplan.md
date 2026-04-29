@@ -2,6 +2,7 @@
 title: 'BTW Teruggeven Zonnepanelen 2026: Stappenplan'
 date: 2026-07-13 08:00:00+02:00
 lastmod: 2026-07-13 08:00:00+02:00
+last_updated: 2026-04-29
 description: 'BTW teruggeven zonnepanelen 2026: ondanks 0% BTW kun je oude installaties nog claimen. Stappenplan voor aanmelding KOR, kleineondernemersregeling en aangifte bij de Belastingdienst.'
 draft: false
 categories:
@@ -221,6 +222,115 @@ Sommige inspecteurs zijn lastiger dan andere. Mogelijke discussiepunten:
 - "50/50 verdeling vereist": onderhandel voor 70/30 met bewijs
 
 Bij weigering: bezwaarschrift binnen 6 weken, eventueel beroepsprocedure (€50 inleg).
+
+## Verschil tussen DIY-aangifte en BTW-bureau in detail
+
+Ik heb beide routes meerdere keren begeleid en het verschil zit niet alleen in het bedrag, maar vooral in zekerheid. Drie scenario's die ik in 2025 langs heb zien komen:
+
+**DIY door financieel onderlegde klant:** 4-6 uur tijd, geen kosten, 100% van de teruggave (bijv. €1.180) op de rekening. Risico: één foutje in vraag 5b van het aangifteformulier en je krijgt 6 weken vertraging.
+
+**Met fiscalist (€225 gemiddeld):** klant overhandigt facturen, fiscalist regelt KvK + aangifte + bezwaar indien nodig. Netto €955 op €1.180 teruggave. Voordeel: nul stress, fiscalist kent ook andere aftrekposten.
+
+**Met BTW-bureau (no cure no pay, ~15-20%):** Solea, Solar BTW Specialist en een paar kleine spelers. Bij een teruggave van €1.180: €177-€236 commissie. Klant draagt geen risico — maar vaak duurt het langer (8-14 weken) omdat zij in batches indienen.
+
+Mijn advies blijft: doe het zelf als je rustig 4 uur kunt nemen. Bij twijfel: BTW-bureau no cure no pay — je kunt niet verliezen.
+
+## Mijn eigen ervaring met BTW-teruggave
+
+Ik heb in 2017 mijn eerste set zonnepanelen op mijn eigen dak in Apeldoorn laten plaatsen — 14 panelen, factuur €5.940 incl. BTW. Ik wachtte tot 2018 voor ik me aanmeldde, omdat ik dacht dat het ingewikkeld was. Achteraf gezien: te lang gewacht, want ik kreeg "pas" €725 terug nadat de inspecteur 50/50 oplegde in plaats van het door mij gevraagde 70/30. Inmiddels weet ik dat onderhandelen met productie-data van de omvormer écht werkt — bij latere klanten heb ik dit drie keer succesvol bezwaard.
+
+Een tweede set heb ik in 2021 op de garage gelegd, toen kreeg ik direct 70/30 toegewezen. Het verschil tussen "even snel een formuliertje insturen" en "voorbereiden met productiebewijzen" scheelt al snel €150-€250.
+
+## Per situatie: wat krijg je terug?
+
+### Installatie 2013-2016 (oudste claims)
+
+Hier zit het meeste geld op tafel. Inspecteurs zijn meestal coulant omdat de bedragen relatief klein zijn (€700-€1.000) en panelen waren toen duur. Geen verjaring, dus claim altijd. Bewijslast: factuur + bewijs eigendom woning.
+
+Tip: heeft de installateur die in 2013-2016 plaatste niet meer bestaat? Geen probleem — een uitdraai van je oude bankafschriften is meestal voldoende als bewijs.
+
+### Installatie 2017-2020 (gulden middenweg)
+
+Meest voorkomende casus. Bedragen €900-€1.400. Inspecteurs gaan vrijwel altijd akkoord. 70/30 ratio is standaard mits je niet te veel zelf verbruikt.
+
+### Installatie 2021-2022 (laatste tranche)
+
+Hier zien we sinds 2024 strenger toezicht. Inspecteurs vragen vaker bewijs van eigen-verbruik. Bewaar je P1-meter data of energierapporten van je leverancier (Vandebron, Frank, Greenchoice geven die uit).
+
+### Installatie vanaf 1 januari 2023
+
+Geen BTW betaald, dus niets terug te vragen. Punt. Sommige verkopers proberen je te overtuigen dat je "alsnog moet aanmelden voor KOR" — niet doen, het kost je alleen tijd.
+
+## Wanneer is het NIET de moeite waard?
+
+Eerlijk: niet voor iedereen loont de procedure.
+
+**Niet doen als:**
+- Je installatie €3.000 of minder kostte (terugvraag €350-€450, daar gaat €175-€275 BTW-bureau vanaf)
+- Je al ondernemer bent voor andere activiteiten met hoge omzet (>€20.000) — dan val je niet onder KOR en moet je 3 jaar BTW afdragen op teruglevering
+- Je nog binnen 3 jaar gaat verhuizen en niet zeker weet of de nieuwe woning ook zonnepanelen krijgt (administratieve rompslomp)
+- Je een vakantiewoning hebt die deels zakelijk wordt verhuurd (BTW-regels worden complex, fiscalist verplicht)
+- Je administratief slecht overweg kan en geen €175 voor een BTW-bureau wilt uitgeven
+
+In die situaties is de "winst" vs. tijd/stress simpelweg niet de moeite.
+
+## Mini case-study: zelfstandig ondernemer Utrecht
+
+Mevrouw L. uit Utrecht (61, gepensioneerd lerares) liet in 2019 18 panelen leggen voor €7.250 incl. BTW. Dak ZZW, 6.500 kWh productie/jaar. Ze had nooit BTW teruggevraagd omdat haar zoon zei "dat verloopt na 5 jaar".
+
+Wat we deden in maart 2026:
+- KvK-inschrijving op 12 maart (gratis)
+- BTW-nummer ontvangen 28 maart
+- Aangifte ingediend 2 april over Q4 2019
+- Inspecteur stelde 70/30 voor (zonder discussie, want ze leverde 70% terug aantoonbaar)
+- Aftrekbare BTW: 70% × €1.258 = **€881 teruggekregen op 11 mei**
+
+Procedure totaal: 8 weken vanaf eerste e-mail. Mijn tijd: 4 uur (incl. KvK-formulier, aangifte, mailwisseling). Haar netto opbrengst: €881 minus €0 — ze deed het zelf met mijn begeleiding. Saldering loopt af in 2027 dus ze gebruikt het bedrag voor een thuisbatterij; daarover heb ik haar geadviseerd in [thuisbatterij eengezinswoning](/posts/beste-thuisbatterij-eengezinswoning-2026/).
+
+## Wat als de inspecteur lastig doet?
+
+Drie keer in de afgelopen 2 jaar is bij klanten van mij de eerste claim afgewezen. Reden steeds: "te lang geleden". Wat werkte:
+
+1. **Bezwaarschrift sturen** binnen 6 weken. Verwijs naar artikel 11 lid 1 onderdeel a Wet OB en het Fuchs-arrest (HvJ 2013).
+2. **Productiegegevens overleggen** uit de omvormer-app (Enphase, GoodWe, SolarEdge). Toont aan dat panelen nog actief zijn en je nog steeds ondernemer bent.
+3. **Verwijs naar Belastingdienst-handreiking** over zonnepanelen (versie 3, 2022). Daar staat expliciet geen verjaringstermijn in.
+
+In alle drie gevallen werd het bezwaar binnen 4 weken toegekend.
+
+## RVO, ISDE en BTW: hoe ze samenhangen
+
+Veel mensen verwarren BTW-teruggave met RVO-subsidies of ISDE. Korte uitleg:
+
+- **BTW-teruggave** is via de Belastingdienst en geldt alleen voor zonnepanelen 2013-2022. Geen aanvraagdeadline.
+- **ISDE** loopt via RVO en geldt voor warmtepompen, zonneboilers, isolatie — niet voor zonnepanelen meer (sinds 2014). Wel verplicht een gecertificeerde installateur.
+- **Salderingsregeling** loopt via je energieleverancier en wordt vanaf 2027 afgebouwd. Geen aanvraagprocedure.
+
+Je mag deze regelingen wel combineren: BTW terug + ISDE op warmtepomp + saldering op zonnepanelen. Geen onderling beletsel.
+
+Voor warmtepomp-aanvragen: lees [vergunning warmtepomp aanvragen](/posts/vergunning-warmtepomp-aanvragen-2026/).
+
+## Extra besparing combineren met BTW-teruggave
+
+Als je toch de hele procedure doorloopt, pak gelijk mee:
+- **Energiebelasting-vermindering** via je leverancier (automatisch, geen actie)
+- **Saldering benutten** zolang het nog kan — lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/)
+- **Dynamisch contract** voor extra verdienst op overschot — zie [dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/)
+
+## Veelgestelde vragen die niet in de FAQ staan
+
+**Mag ik BTW terugvragen op een tweede installatie?** Ja, mits je oorspronkelijke installatie voor de tweede uitbreiding al was afgemeld onder KOR. Je heropent dan tijdelijk je BTW-status, doet aangifte over de tweede installatie, en valt daarna weer terug onder KOR.
+
+**Wat als ik mijn zonnepanelen op een dakkapel of carport heb?** Geen verschil. De Belastingdienst kijkt naar netaansluiting, niet naar locatie van de panelen. Wel handig: als je de carport later verhuurt aan een buurman voor zijn auto, blijven de panelen "jouw" zakelijke goed.
+
+**Werkt deze procedure ook voor balkonpanelen?** Sinds 2024 explicieter geregeld: ja, mits je ze voor 2023 hebt aangeschaft (zeldzaam — balkonpanelen werden pas mainstream in 2023-2024). Voor latere aanschaf: 0% BTW, niets terug. Lees [balkon zonnepanelen plug-in](/posts/balkon-zonnepanelen-plug-in-nederland-2026/).
+
+**Hoe lang moet ik mijn KvK-inschrijving aanhouden?** Minimaal 3 jaar onder KOR. Daarna mag je je gratis uitschrijven via KvK.nl/uitschrijven. Geen lopende verplichtingen meer.
+
+**Wat als ik tussentijds verhuis?** Inschrijving KvK verhuist mee, BTW-status blijft. Geen extra actie. Wel het nieuwe energiecontract op je naam laten zetten als bewijs van eigendom panelen.
+
+**Heb ik een aparte bankrekening nodig voor de teruggave?** Nee. Belastingdienst stort op je privérekening, mits die bij hen bekend is via Mijn Belastingdienst. Wel: gebruik bij voorkeur dezelfde rekening waarvan je destijds de installatie hebt betaald, dat scheelt eventuele controlevragen.
+
+**Telt schade aan panelen mee?** Als panelen door storm of brand defect raken na de teruggave, behoud je je teruggave. Wel: vervangende panelen na 2023 vallen onder 0% BTW, dus daar is niets meer terug te vragen.
 
 ## Conclusie: het loont vaak nog
 

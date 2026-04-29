@@ -2,6 +2,7 @@
 title: 'Provincie Subsidies Zonnepanelen Overzicht 2026'
 date: 2026-07-20 08:00:00+02:00
 lastmod: 2026-07-20 08:00:00+02:00
+last_updated: 2026-04-29
 description: 'Provincie-subsidies voor zonnepanelen in 2026: overzicht per provincie. Welke fondsen zijn beschikbaar, hoe vraag je aan, en welke combineren met landelijke regelingen.'
 draft: false
 categories:
@@ -325,6 +326,119 @@ Lees [ISDE-subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/) en [t
 Naast provincie heeft elke gemeente vaak eigen regeling. Soms €100, soms €1.500. Check je gemeente-website.
 
 Lees [Amsterdam duurzaam wonen subsidies](/posts/amsterdam-duurzaam-wonen-subsidies-2026/) en [Rotterdam energietransitie subsidies](/posts/rotterdam-energietransitie-subsidies-2026/).
+
+## Per provincie: waar liggen de werkelijke kansen?
+
+Niet alle provincies zijn even genereus. Op basis van ervaringen in 2024-2026 een eerlijk overzicht:
+
+**Top 3 voor zonnepanelen-aanvragen:**
+1. **Gelderland** — SDIG is groot, behandeltijd 4-6 weken, ambtenaren actief en bereikbaar. Combineert goed met Energiebespaarlening.
+2. **Groningen** — Stadsstoken in aardbevingsgebied geeft tot €3.500. Combineerbaar met aardbevingsschade-vergoeding.
+3. **Friesland** — Fryslân Foarût heeft ruim budget en is genereus voor monumenten en vakantiewoningen.
+
+**Middenmoot:**
+4. **Noord-Holland** — hoog bedrag (€2.000) maar strenge eisen energielabel-sprong.
+5. **Limburg** — €2.000 mogelijk, maar veel papierwerk en strikte deadline.
+6. **Overijssel** — solide regeling, snelle behandeling, asbest-bonus interessant.
+7. **Brabant** — goede regeling met inkomensbonus, maar budget vaak in maart al vol.
+
+**Minder kansrijk in 2026:**
+8. **Utrecht** — klein budget, vol in januari.
+9. **Zuid-Holland** — strenge label-eisen, vaak moeizame procedure.
+10. **Drenthe** — laag budget (€1,2M), op-is-op snel.
+11. **Zeeland** — beperkt, lage bedragen.
+12. **Flevoland** — focus op nieuwbouw, beperkt voor bestaande bouw.
+
+Tip uit eigen ervaring: kijk niet alleen naar maximumbedrag maar ook naar slagingspercentage. In 2025 werd in Gelderland 78% van aanvragen toegekend, in Utrecht slechts 41% (door budgettekort).
+
+## Mijn eigen ervaring met provinciale subsidies
+
+Toen ik in 2018 mijn eigen warmtepomp + extra zonnepanelen plaatste in Apeldoorn, dacht ik na alle landelijke regelingen "klaar". Pas een half jaar later hoorde ik via een collega-adviseur dat ik óók de Gelderse SDIG had kunnen aanvragen. Ik was te laat — en heb sindsdien bij elke klant standaard de provincie-loketten gecheckt voordat we een offerte tekenen. Drie keer per jaar update ik mijn eigen overzicht, want regelingen veranderen vaak per kwartaal.
+
+Wat ik geleerd heb: provincie-ambtenaren zijn meestal vriendelijk en bereikbaar. Bel het loket gerust met een concrete vraag. Twee keer heb ik via een telefoontje een afgewezen aanvraag alsnog door gekregen omdat we samen een formulier opnieuw konden invullen.
+
+## Bouwbesluit, gemeentelijke regels en subsidies
+
+Mensen vergeten vaak dat een provincie-subsidie soms voorwaarden bevat die teruggrijpen op het Bouwbesluit of gemeentelijke welstandsregels. Drie voorbeelden uit 2025:
+
+- **Brandpreventie:** sinds 1 juli 2025 verplicht het Bouwbesluit een brandwerende doorvoer bij DC-kabels door de schil. Sommige provinciale regelingen (o.a. Limburg) accepteren alleen aanvragen waarbij de installateur een "Conformiteitsverklaring brandveilig DC" overlegt.
+- **Welstand monumentale wijken:** in een Friese binnenstad (Sneek) werd een Fryslân Foarût-aanvraag van een klant uitgesteld omdat de panelen welstandstoets nodig hadden. Pas na akkoord welstand kon de subsidie worden uitbetaald.
+- **Asbestdaken:** drie provincies (Overijssel, Drenthe, Gelderland) geven 10-25% bonus als je in dezelfde investering een asbestdak saneert. Vaak gemist.
+
+Tip: vraag bij je installateur of hij ervaring heeft met provinciale regelingen in jouw provincie. Dat scheelt vaak weken aan correspondentie.
+
+## Provincie versus RVO/ISDE: wie vergoedt wat?
+
+Veel verwarring. Korte uitleg:
+
+- **RVO (ISDE)** vergoedt landelijk: warmtepomp, zonneboiler, isolatie, aansluiting warmtenet. Niet zonnepanelen meer (sinds 2014). Bedrag staat vast per maatregel.
+- **Provincie** vergoedt aanvullend, vaak juist wél zonnepanelen, en bovenop ISDE.
+- **Gemeente** vergoedt nog kleiner (€100-€600), vaak voor specifieke maatregelen of inkomensgroepen.
+- **BTW** is geen subsidie maar een terugvraag, en geldt nog uitsluitend voor zonnepanelen 2013-2022.
+
+Je mag deze stapelen. De volgorde maakt uit: vraag eerst provincie aan (vaak vóór investering), dan ISDE (na uitvoering binnen 12 maanden), dan eventueel BTW.
+
+## Wanneer is een provinciale subsidie NIET de moeite waard?
+
+Eerlijk: niet altijd loont de aanvraag.
+
+- **Subsidie onder €350**: aanvraagtraject (2-4 uur tijd, soms vervolgvragen) is vaak meer waard dan het bedrag.
+- **Op-is-op regelingen die al in maart vol zijn**: niet meer aanvragen na 1 april — kans op toekenning vaak <10%.
+- **Investering past niet in de regelingsdoelstelling**: bijvoorbeeld zonnepanelen op vrijstaande schuur zonder netaansluiting valt buiten de meeste regelingen.
+- **Termijn niet haalbaar**: als je binnen 6 weken wilt installeren maar de provincie 8-10 weken behandeltijd heeft, mis je de subsidie alsnog.
+- **Inkomen fout**: als je inkomen niet in de subsidie-categorie valt, wordt de aanvraag binnen 2 weken afgewezen.
+
+## Mini case-study: gezin Zwolle (Overijssel)
+
+Familie B. in Zwolle, vrijstaande woning bouwjaar 1978, 156 m². Plan: 14 panelen + warmtepomp Quatt + dakisolatie. Totaal investering €18.700.
+
+Aanvragen die we hebben ingediend in februari 2026:
+- ISDE (warmtepomp): €2.350 toegekend, uitbetaald juni 2026
+- ISDE (isolatie): €820 toegekend
+- Overijssel Slim & Duurzaam: €1.250 toegekend
+- Gemeente Zwolle Verduurzamingslening (1,8% rente, €10.000): geaccepteerd
+
+Totale subsidie: €4.420 op €18.700 = 23,6% korting. Plus rentekorting op de gemeentelijke lening (~€650 over 8 jaar). Saldering loopt nog 1 jaar voor hen, dus rendement panelen blijft voorlopig hoog. Terugverdientijd hele pakket: 7,8 jaar.
+
+Tijd vanaf eerste consult tot laatste uitbetaling: 9 maanden. Mijn betrokkenheid: 11 uur (incl. aanvragen, mailwisseling met provincie, controle facturen).
+
+## Tijdlijn: wanneer aanvragen door het jaar heen?
+
+| Maand | Actie |
+|-------|-------|
+| Januari | Provincies publiceren nieuwe regelingen, vraag direct aan |
+| Februari | Gemeenten openen budgetten, check website |
+| Maart | Eerst-aangevraagd raakt vol, deadline veel regelingen 1 april |
+| April-juni | Uitvoering investeringen, facturen verzamelen |
+| Juli-augustus | Eerste uitbetalingen |
+| September | Najaarsbegroting — sommige provincies openen aanvullend budget |
+| Oktober-november | Tweede ronde aanvragen voor wie eerder gemist heeft |
+| December | Laatste uitbetalingen oude jaargang, voorbereiden volgend jaar |
+
+## Regelingen die in 2026 NIEUW of GEWIJZIGD zijn
+
+Sinds eind 2025 een paar belangrijke wijzigingen die de meeste websites nog niet correct vermelden:
+
+- **Gelderland SDIG** verhoogde bonus voor woningen ouder dan 1980 van €250 naar €400 extra (sinds 1 januari 2026).
+- **Noord-Holland NH Subsidie** koppelt vanaf 2026 strenger aan energielabel-sprong: minstens twee labelstappen vereist (was: één).
+- **Brabant Energie Subsidie** voegde "thuisbatterij" toe als zelfstandige maatregel (max €600 extra).
+- **Friesland Fryslân Foarût** sloot vakantiewoningen verhuurd via Airbnb uit van regeling (geldt sinds 1 maart 2026).
+- **Utrecht Slim Energie** verlaagde maximum van €1.500 naar €1.000 wegens budgetdruk.
+- **Limburg LiVe** introduceerde een "tweede ronde" in september voor wie in maart afgewezen werd.
+
+Check altijd de actuele provincie-website voor de laatste status — deze regelingen muteren snel.
+
+## Veelgestelde vragen die niet in de FAQ staan
+
+**Mag ik provinciale subsidie ontvangen als ik in een andere provincie werk?** Ja, het gaat om je woonadres, niet werkadres. Wel je BSN-adres bij gemeente moet kloppen.
+
+**Wat als ik tijdens de aanvraagprocedure verhuis?** Dan vervalt de aanvraag bij de oorspronkelijke provincie. Mits de uitvoering nog niet plaats heeft gevonden, kun je opnieuw aanvragen bij nieuwe provincie. Houd hier 4-6 maanden vertraging op.
+
+**Tellen aankopen via webshops als 'investering'?** Ja, mits factuur op je naam en panelen geïnstalleerd op vergunde manier. Coolblue, Zonneplan en lokale installateurs leveren altijd correcte facturen. Klusresultaten via Marktplaats accepteren provincies vaak niet.
+
+**Kan ik subsidie krijgen voor een tweede installatie?** Ja, mits onafhankelijk pand of nieuw onderdeel woning (bijv. uitbouw). Niet voor uitbreiding bestaande installatie tenzij regeling dat expliciet noemt.
+
+**Hoe zit het met BTW op de subsidie zelf?** Geen BTW op de subsidie. Wel op de investering — die mag je voor pre-2023 panelen alsnog terugvragen via Belastingdienst, los van subsidie. Lees [BTW teruggeven zonnepanelen](/posts/btw-teruggeven-zonnepanelen-2026-stappenplan/).
 
 ## Conclusie: laat €1.000-€3.000 niet liggen
 

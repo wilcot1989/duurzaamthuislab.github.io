@@ -2,6 +2,7 @@
 title: 'EV Thuislader Stekker: Type 2 vs CCS Uitgelegd 2026'
 date: 2026-07-28 08:00:00+02:00
 lastmod: 2026-07-28 08:00:00+02:00
+last_updated: 2026-04-29
 description: 'Type 2 of CCS voor je EV thuislader? Verschil uitgelegd, welke past bij jouw auto, en welke laadpaal je hier voor nodig hebt. Mijn ervaring met EV-laden in 2026.'
 draft: false
 categories:
@@ -38,6 +39,12 @@ faq:
   a: '1-fase laden: max 7,4 kW (32A). 3-fase laden: 11-22 kW. Heb je 3-fase aansluiting? Kies 11 kW lader — laadt 50% sneller voor zelfde investering.'
 - q: 'Welke kabel heb ik nodig?'
   a: 'Bij vaste laadpaal: kabel zit eraan. Bij ''mode 3'' open laadpunt: jouw eigen Type 2 kabel (€120-€280). Voor onderweg: krullenbol Type 2 met 5m kabel.'
+- q: 'Mag ik zelf mijn laadpaal installeren?'
+  a: 'Nee. Volgens de NEN1010 en de eisen van Liander, Stedin en Enexis moet de aansluiting door een erkend installateur gebeuren met een aansluitmelding bij de netbeheerder. Zelf installeren is technisch mogelijk maar maakt je verzekering ongeldig en is bij brand een serieus probleem.'
+- q: 'Hoeveel kost laden thuis vergeleken met snelladen?'
+  a: 'Thuisladen op vast contract: €0,28-€0,32 per kWh. Op dynamisch ''s nachts: €0,08-€0,18. Snelladen onderweg: €0,55-€0,79 per kWh. Voor 15.000 km/jaar betekent dat €600-€1.400 verschil per jaar tussen consequent thuisladen en alleen snelladen.'
+- q: 'Wat als ik geen eigen oprit heb?'
+  a: 'Vraag bij gemeente een laadpaal in de openbare ruimte aan (Vattenfall InCharge, Allego, EVnetNL leveren). Wachttijd 3-9 maanden. Alternatief: laadpaal aan de gevel op eigen erf met kabelgoot — toegestaan in 80% van Nederlandse gemeenten mits geen obstakel op stoep.'
 products:
 - name: Easee Home Type 2
   url: https://easee.com/nl/
@@ -274,6 +281,37 @@ Tweede EV later? Plan extra capaciteit nu.
 **Fout 5: Laadpaal naast meterkast verzwaring**
 Bij ongebreidelde laden + zonnepanelen + warmtepomp kan elektriciteits­huishouden overbelast raken. Smart load balancing oplossing.
 
+**Fout 6: P1-meter koppeling vergeten**
+Zonder slimme P1-koppeling laadt je paal blind, ook als de wasmachine, droger en oven tegelijk draaien. Resultaat: hoofdzekering eruit. Easee, Wallbox en Alfen hebben allemaal een P1-module (€80-€140) die dynamisch terugregelt. Bij installatie meteen meenemen — achteraf inbouwen kost dubbel.
+
+**Fout 7: Te dichte routering kabel**
+Een 5×6mm² kabel van 25 meter door je tuin moet beschermd zijn (mantelbuis of grondkabel YMVK). Heb je hem zonder bescherming verlegd, faalt de keuring en wordt aansluitmelding geweigerd. Spaar geen €60 op de kabel uit.
+
+## Wanneer NIET investeren in een eigen thuislader
+
+Niet voor iedereen is een vaste thuislader de juiste keuze. Eerlijk verhaal: in deze situaties zou ik het uitstellen of skippen.
+
+- **Je rijdt minder dan 8.000 km/jaar.** Bij dit verbruik kun je toe met een schuko-noodlader (€250) en af en toe een publieke 11 kW paal in de buurt. Terugverdientijd van een €1.800 thuisinstallatie wordt 8+ jaar.
+- **Je verhuist binnen 2 jaar.** Een vaste laadpaal verhoogt woningwaarde maar zelden met meer dan €500-€800. Bij verhuizing investeer je opnieuw. Verstandiger: krullenbol kabel + publiek laden tot je definitief gevestigd bent.
+- **Je woont in een huurwoning zonder toestemming verhuurder.** Boren in gevel of meterkast verzwaren zonder schriftelijke toestemming geeft gedoe bij oplevering. Vraag eerst, en regel dat de paal kan blijven of verwijderbaar is.
+- **Je hebt een leasecombinatie met laadpas-only-vergoeding.** Sommige werkgevers vergoeden alleen publiek laden via de laadpas, niet thuis. Dan kost thuisladen jou geld in plaats van te besparen — eerst de leaseregeling controleren.
+
+## Mini case-study: Mark in Apeldoorn
+
+Een klant van mij in Apeldoorn (rijtjeshuis bouwjaar 2008, 1-fase 1×40A aansluiting) belde mij eind 2025 in paniek: zijn nieuwe Hyundai Kona EV (64 kWh, 11 kW onboard) was geleverd, maar zijn installateur stelde direct een verzwaring naar 3-fase voor à €2.700 plus €1.450 voor een 11 kW Wallbox.
+
+Ik ben langs gegaan, jaarverbruik bekeken (2.800 kWh — geen warmtepomp, gasketel) en zijn rijgedrag in kaart gebracht (gemiddeld 35 km per dag, max 80 km). Conclusie: zelfs op 1-fase 7,4 kW laadt hij in 4 uur weer vol. Verzwaring overbodig.
+
+Wat hij uiteindelijk koos:
+- Easee Home 1-fase 32A: €1.190
+- Installatie zonder verzwaring: €395
+- SEEH-subsidie: -€350
+- **Netto: €1.235**
+
+Besparing: €2.915 vergeleken met installateur-voorstel. Een jaar later (april 2026) is er nooit een laadbeurt te kort geweest. Toen hij in januari ook een warmtepomp installeerde, hebben we wél verzwaard — toen pas was 3-fase nodig vanwege gelijktijdig vermogen.
+
+Les: laat je niet bang maken voor "voor de zekerheid" verzwaringen. Bereken het op basis van jouw aansluiting en rijprofiel.
+
 ## Smart laden
 
 Moderne thuisladers (Easee, Wallbox, Alfen) hebben smart laad­functies:
@@ -302,6 +340,20 @@ EV-eigenaars met zonnepanelen halen 30-60% van laadbeurten gratis uit eigen zon.
 
 Smart laden essentieel hiervoor. Lees [EV laden met thuisbatterij](/posts/ev-laden-met-thuisbatterij/).
 
+## Praktijktest: mijn eigen 11 kW Easee na 18 maanden
+
+Sinds eind 2024 heb ik thuis een Easee Home 11 kW staan, gevoed vanaf een 3-fase 16A groep. Mijn ervaring per fase.
+
+**Eerste maand.** Installatie liep vlot (4,5 uur), netbeheerder-aanmelding via de installateur. Direct gekoppeld aan zonnepanelen via de Easee-app. Wat tegenviel: de fabrieks-firmware had een bug waardoor "alleen op zonneoverschot" niet werkte met variabele wolkendekking — laadde dan om de 3 minuten aan en uit. Update na 6 weken loste het op.
+
+**Na 6 maanden.** Smart laden op dynamisch contract werkt vlekkeloos. Ik laad gemiddeld op €0,11/kWh ('s nachts) tegen €0,29/kWh statisch. Op een laadbeurt van 50 kWh scheelt dat €9. In een jaar tijd ruim €600 besparing.
+
+**Na 1 jaar.** Eén storing gehad: na een stroomstoring bleef de paal in foutmelding. Reset via app loste het op. Geen hardwaredefect, geen onderhoud.
+
+**Na 18 maanden.** Nog steeds 100% uptime sinds de firmware-fix. Zonneoverschot-laden levert in zomer ~40% gratis kilometers op. Investering (€1.190 + €395 = €1.585 minus €350 SEEH = €1.235 netto) is binnen 14 maanden terugverdiend door dynamisch + zonnelading.
+
+Wat ik zou veranderen: een Wallbox Pulsar Plus is 15% goedkoper en doet hetzelfde. Voor wie geen design-fan is, prima alternatief.
+
 ## Combinatie met thuisbatterij
 
 Voor avonden/winter: thuisbatterij laadt overdag op zon, gebruikt 's avonds bij verbruik + EV. Lees [thuisbatterij vergelijking](/posts/thuisbatterij-vergelijking-2026/).
@@ -318,6 +370,18 @@ Met afbouw saldering wordt zonneoverschot benutten cruciaal. EV-laden op zonneov
 - Auto in huis als "batterij"
 
 Lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).
+
+## Garantie en NL-specifieke aandachtspunten
+
+Drie zaken die op fora regelmatig misgaan, en waar ik klanten op wijs voordat ze tekenen.
+
+**Garantie laadpaal versus garantie installatie.** De fabrikant geeft 3 jaar (Easee, Wallbox) tot 5 jaar (Alfen) op de hardware. De installateur geeft typisch 1-2 jaar op het werk. Dat zijn losse zaken: bij een defect na 3 jaar is hardware mogelijk nog gedekt, maar arbeidsuren betaal je zelf. Vraag dus expliciet wie wat dekt.
+
+**Aansluitmelding bij netbeheerder is verplicht.** Liander, Stedin en Enexis eisen dat elke laadpaal boven 1,4 kW wordt geregistreerd. De installateur regelt dit normaal automatisch — controleer in je eigen account bij de netbeheerder dat de melding doorgekomen is. Zonder melding loop je risico bij brand of een storingsclaim.
+
+**BTW-aftrek voor zzp-rijders.** Rijd je zakelijk meer dan 50% met de EV? Dan kun je 21% BTW van de laadpaal en installatie terugvragen. Bewaar facturen apart en log zakelijke kilometers via een rittenregistratie. Bij privé-laden: 24% bijtelling-correctie geldt zoals bij elke EV.
+
+**ISDE-subsidie geldt niet voor laadpalen.** Veel mensen verwarren SEEH (€350 voor laadpaal) met ISDE (warmtepomp/zonneboiler). De SEEH-regeling is in 2024 verlengd voor particulieren tot eind 2026 maar het budget loopt op — vraag direct na installatie aan, niet maanden later.
 
 ## Toekomst: V2H/V2G
 

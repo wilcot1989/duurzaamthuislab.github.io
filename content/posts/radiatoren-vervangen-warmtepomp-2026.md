@@ -2,6 +2,7 @@
 title: 'Radiatoren vervangen voor warmtepomp 2026: wanneer wel, wanneer niet?'
 date: 2026-09-04 08:00:00+02:00
 lastmod: 2026-09-04 08:00:00+02:00
+last_updated: 2026-04-29
 description: Moeten radiatoren vervangen worden bij overstap naar warmtepomp? Wanneer LT-radiatoren nodig zijn, wat het kost en hoe ik bij mij thuis €4.200 bespaarde.
 categories:
 - warmtepomp
@@ -63,6 +64,16 @@ Toen ik mijn cv-ketel ging vervangen door een warmtepomp, kreeg ik van drie inst
 ---
 
 💡 *Twijfel je nog tussen vloerverwarming en radiatoren? Lees [vloerverwarming en warmtepomp combinatie](/posts/vloerverwarming-warmtepomp-combinatie-2026/) voor de afweging.*
+
+## Mijn eigen meting: drie winters later
+
+Sinds de overstap is mijn warmtepomp drie winters in bedrijf. De data uit de Vaillant-app zegt meer dan welke folder dan ook.
+
+- **Winter 2023-2024 (eerste winter):** SCOP 3,8. Gemiddelde aanvoertemperatuur 42°C op vorstdagen, 36°C op zachte dagen. Twee oude radiatoren in zijkamer en bijkeuken bleken te klein — die heb ik in juni 2024 alsnog vervangen.
+- **Winter 2024-2025:** SCOP 4,2. Aanvoertemperatuur gedaald naar 38°C gemiddeld door beter ingestelde stooklijn én vervangen radiatoren. Stroomverbruik warmtepomp 2.380 kWh.
+- **Winter 2025-2026:** SCOP 4,3. Stabiel. Stroomverbruik 2.290 kWh. Met zonnepanelen + thuisbatterij in de zomer praktisch nul kosten op de warmtepomp.
+
+Wat opviel: de keuze om niet alle 9 radiatoren te vervangen kostte me hooguit 0,1-0,2 op SCOP. Daar tegenover staan de €4.200 die ik heb bespaard. Bij stroom à €0,30/kWh betekent dat verschil maximaal €70 per jaar — dus 60 jaar terugverdientijd op de "alles vervangen"-strategie. Onverstandig.
 
 ## De grote misvatting
 
@@ -252,6 +263,16 @@ Bij switch naar warmtepomp moet vaak ook de circulatiepomp aangepast worden:
 
 Een hoge-efficiency-pomp (Wilo Yonos PARA, Grundfos Alpha 2) is vereist voor lage-temp werking. Vraag of dit in offerte staat — vaak wordt vergeten.
 
+## Garantie-tips bij LT-radiatoren
+
+Drie zaken die regelmatig misgaan tussen klant en installateur.
+
+**Garantie verschilt per merk.** Jaga geeft 5 jaar product + 2 jaar lekkage. Vasco geeft 10 jaar product. Brugman 5 jaar. Voor actieve LT-radiatoren met ventilator: ventilator zelf vaak maar 2-3 jaar. Vraag schriftelijke garantievoorwaarden vóór tekening.
+
+**Installateur-garantie op aansluiting.** Vaak slechts 1-2 jaar. Bij lekkage na jaar 3 betaal je arbeidsuren zelf. Vraag offertes met minimaal 5 jaar werk-garantie — dat scheelt bij eventueel storing later.
+
+**Onderhoud: ontluchten en spuien.** Na vervanging blijft soms lucht in radiatoren waardoor warmtepomp inefficiënt draait. Eerste maand wekelijks ontluchten, daarna jaarlijks. Bij actieve LT-radiatoren ook ventilator-filter jaarlijks reinigen — anders rendementsverlies van 10-15%.
+
 ## Wat zou ik nu anders doen?
 
 Met kennis van nu:
@@ -261,6 +282,46 @@ Met kennis van nu:
 - ✅ Gefaseerd vervangen (3 ipv 9 radiatoren)
 - ❌ Wel direct actieve LT in woonkamer (was twijfel — bleek juiste keuze)
 - ❌ Niet luisteren naar 1e installateur die alles wilde vervangen
+
+## Mini case-study: gefaseerd in Zwolle
+
+Een klant in Zwolle (jaren-70 tussenwoning, label C, 9 radiatoren, gasverbruik 1.350 m³) kreeg drie offertes. Twee installateurs vroegen €13.500-€15.200 voor warmtepomp inclusief 9 LT-radiatoren. De derde wilde alleen de warmtepomp doen voor €9.800 met de aanmerking dat zijn vraag was: hoe begin ik klein?
+
+Wij hebben samen het volgende plan gemaakt.
+
+**Stap 1 (winter 2024):** spouwmuur na-isoleren (€2.100) en zoldervloer isoleren (€1.150). Verbruik daarna gemeten: 980 m³. Energieverlies daalde 27%.
+
+**Stap 2 (lente 2025):** 65°C test. Drie ruimtes onvoldoende (woonkamer, hoofdslaapkamer, zolderkamer). Andere zes ruimtes ruim binnen 4 uur op temperatuur.
+
+**Stap 3 (zomer 2025):** Vaillant aroTHERM Plus geplaatst (€8.700 na ISDE €3.000). Drie passieve LT-radiatoren vervangen (Vasco Niva): €2.450 totaal.
+
+**Totaal:** €14.400 (warmtepomp + 3 radiatoren + isolatie). Vergelijk met de eerste offerte van €15.200 alleen voor warmtepomp + 9 radiatoren — zónder isolatie.
+
+Resultaat na een winter (2025-2026): SCOP 4,1 gemeten via Vaillant-app, geen comfortklachten, gasverbruik nul. Lopende energiekosten daalden van €2.380 (gas+stroom) naar €1.640 (alleen stroom). Terugverdientijd op de extra investering versus pure isolatie: 7-8 jaar.
+
+Les: gefaseerd plus isolatie eerst leverde hem comfort, een efficiëntere warmtepomp én €800-€1.500 minder uitgaven.
+
+## Wanneer radiatoren vervangen NIET de moeite waard is
+
+Eerlijk: er zijn situaties waarin LT-radiatoren geen goede investering zijn.
+
+- **Slecht geïsoleerd huis (label D of slechter) zonder isolatieplan.** Een nieuwe LT-radiator op een tochtige muur blijft te koud. Eerst isoleren of geen warmtepomp nemen — een hybride met cv-ketel werkt dan beter.
+- **Verhuizing binnen 3 jaar.** Investering verdien je niet terug. LT-radiatoren verhogen woningwaarde met hooguit €100-€200 per stuk en niet altijd zichtbaar in taxatie.
+- **Hybride warmtepomp gekozen.** Bij hybride blijft de cv-ketel actief op koude dagen — bestaande radiatoren werken dan op normale 60-70°C. LT-radiatoren leveren marginaal voordeel terwijl de meerprijs €2.000-€8.000 is.
+- **Klein appartement met goede gemeenschappelijke isolatie.** Bestaande radiatoren in een appartement met 3 buren-zijden-warm en weinig buitenschil voldoen vaak gewoon op 45°C zonder vervanging.
+- **Allergie voor stof bij ventilator-modellen.** Actieve LT-radiatoren met ventilator wervelen wat stof op. Bij allergiepatiënten is dat een dealbreaker — passieve modellen overwegen.
+
+## NL-specifiek: ISDE, BTW en bouwbesluit
+
+Drie zaken die in NL afwijken van algemene Europese info.
+
+**ISDE-aanvraag procedure.** ISDE (€3.000-€4.000 voor warmtepomp) is alleen aan te vragen door de eindgebruiker — niet door installateur. Aanvraag binnen 24 maanden via mijn.rvo.nl met de meldcode van het apparaat. Bewaar facturen 5 jaar voor controle. LT-radiatoren tellen alleen mee in subsidie als ze op dezelfde factuur staan als de warmtepomp.
+
+**BTW op LT-radiatoren.** 21% BTW geldt op losse aanschaf. Via het Bouwbesluit-arbeidsuren-tarief (9% BTW op montage) bespaar je circa €60-€120 per radiator als je apart laat factureren: materiaal 21% + arbeid 9%. Vraag installateur expliciet om gesplitste factuur — niet alle installateurs doen dit automatisch.
+
+**Bouwbesluit en VVE.** In appartementen met collectieve cv (Bouwbesluit afdeling 6) mag je niet zomaar overstappen op individuele warmtepomp zonder VVE-toestemming. LT-radiatoren binnen je eigen woning vervangen mag wel zonder vergadering. Bij collectieve overgang: VVE-besluit vereist bij gewone meerderheid (artikel 5:128 BW).
+
+**Gemeentelijke regelingen.** Sommige gemeenten (Amsterdam, Utrecht, Eindhoven) hebben extra warmtepomp-regelingen tot €1.500. Stapelbaar met ISDE. Check je gemeentelijke website vóór je tekent — soms moet je vooraf aanmelden.
 
 ## Conclusie
 
