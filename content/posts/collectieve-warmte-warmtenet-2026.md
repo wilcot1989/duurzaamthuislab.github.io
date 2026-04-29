@@ -1,5 +1,5 @@
 ---
-title: "Warmtenet of eigen warmtepomp: wanneer aansluiten op collectieve warmte?"
+title: "Warmtenet of eigen warmtepomp 2026: keuze maken"
 date: 2026-06-25T10:00:00+01:00
 lastmod: 2026-06-25T10:00:00+01:00
 description: "Warmtenet of toch een eigen warmtepomp? Ik leg uit wanneer een warmtenet slim is, wat de kosten zijn en hoe je de keuze maakt als jouw wijk het aanbiedt."
