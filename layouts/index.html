@@ -219,7 +219,7 @@
         {{ with .Params.categories }}{{ range first 1 . }}<div style="font-family:var(--mono);font-size:.68rem;letter-spacing:.15em;text-transform:uppercase;color:var(--terracotta);margin-bottom:.5rem;">{{ . | humanize | title }}</div>{{ end }}{{ end }}
         <h3 style="font-family:var(--display);font-size:1.3rem;line-height:1.2;font-weight:500;margin-bottom:.5rem;">{{ .Title }}</h3>
         <p style="font-size:.92rem;line-height:1.55;color:var(--ink-soft);margin-bottom:.75rem;">{{ .Description | truncate 140 }}</p>
-        <div style="font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;color:var(--ink-soft);">{{ .Date.Format "02 jan 2006" }} · {{ .ReadingTime }} min</div>
+        <div style="font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;color:var(--ink-soft);">{{ .Date.Format "02 Jan 2006" }} · {{ .ReadingTime }} min</div>
       </a>
       {{ end }}
     </div>
