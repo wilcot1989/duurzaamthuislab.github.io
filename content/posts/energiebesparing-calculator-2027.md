@@ -29,6 +29,7 @@ products:
   - name: "Tibber dynamisch contract"
     url: "/go/tibber"
     price: "6"
+faq:
   - q: "Wat zijn de belangrijkste voordelen?"
     a: "De voordelen staan in detail uitgelegd in de bovenstaande secties."
 ---
