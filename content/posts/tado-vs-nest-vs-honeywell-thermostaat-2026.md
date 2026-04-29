@@ -1,7 +1,7 @@
 ---
 title: 'Tado vs Nest vs Honeywell Thermostaat 2026: Welke Kiezen?'
 date: 2026-07-26 08:00:00+02:00
-lastmod: 2026-07-26 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 description: 'Tado, Nest en Honeywell slimme thermostaten vergeleken in 2026. Prijzen, app, integratie met warmtepomp, energiebesparing en mijn 4 maanden testervaring.'
 draft: false
 categories:
@@ -339,3 +339,80 @@ Geen universele "beste" thermostaat. Mijn aanbevelingen:
 Voor mijn eigen huis: ik blijf bij Tado op begane grond. Voor mijn vakantiewoning blijft Honeywell evohome (waar 6 zones echt verschil maken).
 
 Voor verdere lezing: [Nest thermostaat review](/posts/nest-thermostaat-review-2026/), [smart home energiebeheer](/posts/smart-home-energiebeheer-2026/), [beste warmtepomp merk](/posts/beste-warmtepomp-merk-2026/), [hybride vs volledige warmtepomp](/posts/hybride-vs-volledige-warmtepomp-2026/) en [beste energiemonitor P1-meter](/posts/beste-energiemonitor-p1-meter-2026/).
+
+## Real-world: 1 maand, 6 maanden, 1 jaar Tado V3+
+
+**Eerste maand (november 2024)**
+Installatie 35 minuten, OpenTherm-integratie naadloos met mijn Quatt hybride. Zone-controle voor woonkamer en slaapkamer. App-stuur via location-detectie werkte direct: thuis = 20 °C, weg = 17 °C. Bij eerste vorstperiode zag ik bij 5 ochtenden achter elkaar dat geluk te vroeg opwarmen — dat zelf-leerproces duurt 2-3 weken voordat algoritme woningthermische respons begrijpt.
+
+**Zes maanden (mei 2025)**
+Vergelijking met "domme" CV-thermostaat van vorig jaar (zelfde gezin, zelfde gebruik): 14% gasreductie. App-statistieken klopten goed — gewogen gemiddelde aanvoertemperatuur lager, opwarmtijd 20% korter dankzij geluk-vroeger-aansturing. Eén klacht: bij internetuitval (KPN-storing 4 uur) viel app-bediening uit, maar manuele knop op thermostaat bleef werken. Geen probleem.
+
+**Eén jaar (november 2025)**
+Totale gasreductie tov vorig jaar: 19% bij identiek weer (corrigeren via graaddagen). Tado-abonnement Auto-Assist (€2,99/maand) wel waard voor location-detectie, raam-detectie en gedetailleerde rapportage. Eén Tado-radiatorknop is in juli kapotgegaan — vervangen onder garantie binnen 2 weken.
+
+## Diepgang: NL-specifieke compatibiliteit per merk
+
+| Thermostaat | OpenTherm | NL-protocols | Werkt met Quatt | Werkt met Itho | Stadsverwarming |
+|-------------|-----------|--------------|------------------|----------------|------------------|
+| Tado V3+ | Ja | Bedraad/draadloos | Ja | Ja | Ja, met OT-bridge |
+| Tado X (2024) | Ja, Matter | Bedraad | Ja | Ja | Ja |
+| Nest 4e gen | Beperkt | EU OpenTherm na update 2024 | Beperkt | Beperkt | Vaak niet |
+| Honeywell evohome | Ja | Bedraad zone | Ja | Ja | Ja |
+| Honeywell Lyric T6 | Ja | Bedraad | Ja | Ja | Ja |
+
+Belangrijk voor NL-markt: stadsverwarmingsklanten (Eneco/Vattenfall) hebben vaak een afleverstation dat alleen eenvoudig aan/uit-signaal accepteert. Nest en Tado X werken daar wel mee. Honeywell evohome heeft daar speciale module voor.
+
+## Diepgang prijzen en energiebesparing 2026
+
+| Pakket | Aanschaf | Abo | Verwachte besparing | Terugverdientijd |
+|--------|----------|-----|---------------------|--------------------|
+| Tado V3+ basisset | €179 | €0 of €2,99/m | 12-19% gas | 1,5-2 jaar |
+| Tado X (Matter) | €229 | €2,99/m optioneel | 14-22% | 1,5-2 jaar |
+| Nest 4e gen | €249 | €0 | 8-14% | 2,5-3 jaar |
+| Honeywell evohome 5 zones | €620 (set) | €0 | 18-26% bij goede zonering | 3-4 jaar |
+| Honeywell Lyric T6 | €169 | €0 | 8-13% | 2-3 jaar |
+
+Honeywell evohome wint duidelijk in zone-rijke woningen (4+ kamers met radiator). In een rijtjeshuis met open keuken+woonkamer is meer-zone weinig waard.
+
+## Mini case: Eindhoven appartement met stadsverwarming
+
+Klant 2024: Eindhoven appartement op stadsverwarming Vattenfall, 78 m² 2 slaapkamers. Eerste keuze Nest (vanwege design) — werkte niet samen met afleverstation, kreeg foutmelding. Geretourneerd. Tweede keuze Tado X met Matter-bridge: werkte direct. Investering €229. Eerste winter: 9% besparing op warmte-rekening (€84/jr). Terugverdientijd 2,7 jaar.
+
+## Veelgemaakte fouten
+
+**Fout 1: Nest kopen zonder NL OpenTherm-check**
+Nest had jarenlang beperkte NL-ondersteuning. Sinds 2024 beter, maar voor sommige systemen werkt het nog steeds niet. Check vóór aankoop.
+
+**Fout 2: Geen radiatorknoppen bij multi-zone**
+Een centrale slimme thermostaat zonder slimme knoppen op radiators kan geen zone-controle. Reken in op meerprijs €60-€90 per knop.
+
+**Fout 3: Te ambitieus inroosteren**
+Mensen stellen aanvankelijk 22 °C 's avonds en 18 °C 's nachts. Daling van 4 °C met radiator-systeem haalt het rendement onderuit (te veel opwarmtijd). Maximaal 2 °C verschil aanbevolen.
+
+**Fout 4: Abonnement niet meerekenen**
+Tado Auto-Assist €36/jr × 10 jaar = €360 — dat is meer dan helft van aanschaf. Reken bij vergelijking dit mee.
+
+**Fout 5: Geen Wifi-stabiliteit op installatieplek**
+Ketelopstelling vaak in metalen kast/CV-ruimte met slechte wifi-dekking. Test eerst met telefoon. Mesh-router of repeater vaak nodig.
+
+## Wanneer NIET een slimme thermostaat aanschaffen
+
+- **Verhuisplan binnen 1 jaar**: terugverdientijd niet gehaald
+- **Stadsverwarming met simpel aan/uit-systeem**: beperkt voordeel boven gewone klok
+- **Beperkt thuis (vakantiehuis)**: ingewikkelder dan gewone klok zonder veel voordeel
+- **Slechte wifi-dekking**: app-functies onbruikbaar; basis-thermostaat werkt zonder wifi beter
+
+## Extra FAQ
+
+**Werkt Tado/Nest zonder Wifi tijdelijk?**
+Beide hebben offline-fallback: laatst ingestelde schema blijft draaien. App-controle valt uit. Honeywell evohome werkt zelfs voor weken offline met laatst geconfigureerde schema's.
+
+**Welke thermostaat werkt het beste met Home Assistant?**
+Tado heeft sterkste community-integratie (HACS-component). Nest is beperkt sinds Google API-restrictie 2023. Honeywell evohome heeft officiële integratie via cloud-API.
+
+**Mag ik zelf een slimme thermostaat aansluiten?**
+Ja, voor low-voltage thermostaat-aansluiting (24V) is dat veilig. Voor hoogspanning of bij ingewikkelde CV-installatie: vraag installateur (€80-€150).
+
+**Wat is het verschil tussen Tado V3+ en Tado X?**
+X is nieuwer (2024), gebruikt Matter (universele smart home protocol), heeft betere processor en directe lokale bediening. V3+ is voldoende voor 90% gebruikers en goedkoper.

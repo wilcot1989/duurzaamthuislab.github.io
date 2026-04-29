@@ -1,7 +1,7 @@
 ---
 title: 'Hybride warmtepomp vs volledige warmtepomp 2026: welke past bij jou?'
 date: 2026-09-06 08:00:00+02:00
-lastmod: 2026-09-06 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 description: Hybride of volledige warmtepomp in 2026? Investering, COP, gasverbruik en terugverdientijd vergeleken voor 4 verschillende huizen. Eerlijke beslisboom.
 categories:
 - warmtepomp
@@ -299,3 +299,68 @@ Verder lezen op DuurzaamThuisLab:
 - [HR-ketel vervangen 2026 vs warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
 - [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)
 - [Beste warmtepomp installateur kiezen](/posts/beste-warmtepompinstallateur-kiezen-2026/)
+
+## Mijn eigen keuze: hybride na een jaar full-electric mislukking
+
+In 2022 kocht ik een full-electric lucht-water warmtepomp omdat ik dacht dat mijn jaren-90 woning "voldoende" geïsoleerd was. Label B, dakisolatie, HR++ glas. Eerste winter: prima, COP gemiddeld 3,2. Tweede winter: een week strenge vorst (-9 tot -12), aanvoertemperatuur radiatoren te laag, comfort zakte naar "trui aan in woonkamer". Aanvullend gas-bijverwarming bleek nodig. In 2023 omgebouwd naar hybride met behoud van bestaande HR-ketel. Resultaat: 78% gasreductie, 92% van comfort op koudste dagen behouden, geen eindeloze installatiekosten-spiraal van vloerverwarming-uitbreiding.
+
+Conclusie voor mij: in een huis dat niet écht goed geïsoleerd is, hybride is realistischer dan full-electric.
+
+## Diepgang per merk: hybride opties NL-markt
+
+| Merk | Type | COP | Prijs incl install | ISDE 2026 | NL servicedichtheid |
+|------|------|-----|---------------------|-----------|---------------------|
+| Quatt Quatt-Pro | Hybride | 3,4 | €5.900-€6.800 | €1.950 | Hoog (eigen netwerk) |
+| Itho Daalderop HP CUBE | Hybride | 3,2 | €7.200-€8.400 | €1.800 | Zeer hoog |
+| Atag Energion | Hybride | 3,5 | €6.800-€7.900 | €1.950 | Zeer hoog |
+| Remeha eHP | Hybride | 3,3 | €7.500-€8.600 | €1.800 | Hoog |
+| Vaillant aroTHERM hybride | Hybride | 3,4 | €7.800-€9.200 | €1.950 | Hoog |
+
+Voor full-electric: Daikin Altherma 3, Mitsubishi Ecodan, Panasonic Aquarea zijn de drie meest gangbare in NL. Alle drie hebben goede dealers en NL-servicedichtheid.
+
+## Mini case: jaren-70 hoekwoning Almere
+
+Klant 2024: jaren-70 hoekwoning, label C na isolatie, gezin van 4. Vergelijkende offertes:
+
+- Hybride Quatt: €5.900 incl. ISDE €1.950 = netto €3.950. Verwacht gasverbruik: 360 m³/jr (van 1.420 m³). Energiekosten daling: €890/jr. Terugverdientijd: 4,4 jaar.
+- Volledig Daikin Altherma 3: €14.500 + €4.200 vloerverwarming uitbreiding boven = €18.700 incl. ISDE €4.500 = netto €14.200. Energiekostendaling: €1.420/jr. Terugverdientijd: 10 jaar.
+
+Klant koos hybride. Verschil €10.250 in zak om over 6-8 jaar later eventueel volledig over te stappen — tegen die tijd zijn warmtepompprijzen verder gedaald en isolatie waarschijnlijk verbeterd.
+
+## Veelgemaakte fouten
+
+**Fout 1: Volledig elektrisch zonder isolatie-audit**
+Een huis dat niet onder 50 W/m²/°C verlies blijft, krijgt comfort-problemen op koude dagen. Eerst isolatie, dan warmtepomp.
+
+**Fout 2: Hybride met tandem-werking onjuist instellen**
+De CV-ketel moet ALLEEN bijspringen onder bivalentpunt (vaak -2 of -5 °C). Veel installaties laten ketel constant meedraaien — dan haal je gasreductie van 80% niet, eerder 30-40%.
+
+**Fout 3: Te kleine warmtepomp kiezen voor hybride**
+Een 4 kW unit op een 130 m² huis betekent dat ketel veel te vaak inspringt. Mijn vuistregel: kies 6-8 kW voor doorsnee NL-rijtjeshuis.
+
+**Fout 4: ISDE niet aanvragen binnen 24 maanden**
+ISDE-aanvraag moet binnen 24 maanden na aankoop, vaak verkeerd geadviseerd als "binnen 6 maanden". Maar wacht ook niet te lang — subsidie kan tussentijds wijzigen.
+
+**Fout 5: Bouwbesluit hybride-norm 2026 over hoofd zien**
+Sinds 2026 is hybride min. norm bij ketelvervanging. Wie nieuwe ketel zonder warmtepomp koopt zonder isolatie-uitzondering, kan boete krijgen — handhaving start pas later, maar de norm geldt nu.
+
+## Wanneer hybride of volledige NIET de moeite waard is
+
+- **Label E/F/G zonder isolatie-plan**: comfort-probleem onvermijdelijk
+- **Verhuisplan binnen 4 jaar**: terugverdientijd niet gehaald
+- **Gemeenschappelijk gas-aansluiting (oude flat)**: vaak technisch onmogelijk zonder coordinatie VVE
+- **Plat dak zonder buitenruimte voor unit**: alleen all-in-one binnenunits, beperkt aanbod
+
+## Extra FAQ
+
+**Hoe verhoudt zich aardwarmte (bodembron) tot hybride en lucht-water?**
+Bodemwarmte heeft beste COP (4,2-5,0) maar hoge investering (€18-€28K) en boorvergunning nodig. Voor doorsnee bestaand woning niet rendabel. Voor nieuwbouw of zeer goed geïsoleerd huis wel.
+
+**Wat is COP en SCOP?**
+COP is rendement op één moment (bv. 3,5 = 1 kWh elektriciteit levert 3,5 kWh warmte). SCOP is gemiddeld over heel jaar. SCOP is realistischer; vraag altijd naar SCOP.
+
+**Mijn radiatoren zijn klein — werkt full-electric warmtepomp dan?**
+Vrijwel altijd niet zonder uitbreiding. Lage-temperatuur warmtepomp wil 35-45 °C aanvoer; oude radiatoren ontworpen voor 70-80 °C. Vergroot radiatoren of installeer vloerverwarming/Type-W radiatoren.
+
+**Hoe luid is een warmtepomp 's nachts in stadse omgeving?**
+Moderne units 35-42 dB op 1 m. Op perceelgrens 30-37 dB. Praktisch onhoorbaar in slaapkamer als unit op normale afstand. Lees [warmtepomp geluid buren norm](/posts/warmtepomp-geluid-buren-2026-norm/).

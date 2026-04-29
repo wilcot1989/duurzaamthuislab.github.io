@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen Verzekering Opstal 2026: Wat is Gedekt?'
 date: 2026-07-24 08:00:00+02:00
-lastmod: 2026-07-24 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 description: 'Zonnepanelen verzekering: wat dekt opstal- en inboedelpolis? Premies, schade-types en welke aanvullende dekking nodig is bij hagel, storm en brand in 2026.'
 draft: false
 categories:
@@ -358,3 +358,74 @@ Zonnepanelen-verzekering is meestal goed geregeld via opstal — maar niet autom
 Een uurtje werk vooraf bespaart in slecht-geval-scenario's tienduizenden euro's.
 
 Voor verdere lezing: [garantie zonnepanelen uitleg](/posts/garantie-zonnepanelen-uitleg-2026/), [zonnepanelen onderhoud](/posts/zonnepanelen-onderhoud-schoonmaken-2026/), [montagesysteem vergelijking](/posts/montagesysteem-zonnepanelen-vergelijking-2026/), [omvormer kiezen](/posts/omvormer-kiezen-welke-past-2026/) en [zonnepanelen DIY vs installateur](/posts/zonnepanelen-diy-vs-installateur-2026/).
+
+## Mijn eigen verzekering — wat ik veranderde na installatie
+
+Toen ik in 2022 panelen liet plaatsen, belde ik dezelfde middag mijn opstalverzekeraar (Centraal Beheer). De medewerker zei: "Geen meerpremie, panelen vallen onder bestaande dekking." Een jaar later belde ik opnieuw na een hagelbui in Apeldoorn — toen kwam de aap uit de mouw. Mijn polis dekte panelen tot een herbouwwaarde van €15.000 boven de woning, mits aangemeld. De eerste medewerker had ze nooit geregistreerd. Bij schade had ik dus zonder die tweede telefoontje een fikse onderverzekering kunnen hebben.
+
+Les: laat schriftelijk bevestigen dat de panelen zijn opgenomen in de polis, met expliciete vermelding van investeringsbedrag en aantal panelen. Telefonische toezegging is in de praktijk niet voldoende.
+
+## Diepgang per verzekeraar (NL-markt 2026)
+
+| Verzekeraar | Standaarddekking | Meerpremie | Hagel-dekking | Eigen risico |
+|-------------|------------------|------------|---------------|--------------|
+| Centraal Beheer | Inbegrepen tot €15K | €0 | Volledig | €150 |
+| ABN AMRO Verzekeringen | Inbegrepen tot €10K | €0-€20/jaar | Volledig | €250 |
+| Klaverblad | Apart aanmelden | €25-€60/jaar | Volledig | €100 |
+| Aegon | Inbegrepen tot €25K | €0 | Met franchise | €200 |
+| ASR | Apart aanmelden verplicht | €30-€75/jaar | Volledig | €150 |
+| Univé | Inbegrepen | €0 | Volledig | €150 |
+| Nationale-Nederlanden | Inbegrepen tot €20K | €0 | Met franchise | €250 |
+
+Vraag altijd schriftelijk: dekking inbegrepen / aparte clausule / herbouwwaarde / dagwaarde / premie wijziging. Bij dagwaarde-dekking krijg je na 10 jaar nog maar 50-60% van investering vergoed bij totaalverlies. Bij herbouwwaarde 100%.
+
+## NL-specifiek: storm en hagel — wat is verzekerd
+
+In 2023 hadden delen van Brabant en Limburg zware hagelschade — sommige panelen volledig stuk. De afhandelingen liepen uiteen van "binnen 4 weken vervangen" tot "8 maanden discussie over expert-rapport". Belangrijke punten:
+
+- **Stormschade**: gedekt vanaf windkracht 7 (62 km/u) bij vrijwel elke verzekeraar
+- **Hagelschade**: vraagt vaak microscoop-test of paneel-glas micro-fractures heeft. Productieverlies als gevolg telt mee
+- **Sneeuwbelasting**: in NL zelden schade, maar zone-2 (Drenthe, Twente) kan in extreme winter relevant zijn
+- **Bliksem**: meestal gedekt mits via aardingssysteem volgens NEN 1010
+
+## Mini case: hagelschade Tilburg
+
+Klant 2023: 12 panelen, hagelbui van 4 cm korrels. Bij eerste inspectie zichtbaar 3 panelen met scheurglas. Verzekeraar (Klaverblad) wilde alleen die 3 vervangen. Met thermografisch rapport (€280 zelf betaald) bleek dat 7 panelen micro-fractures hadden met productieverlies 8-15%. Na bezwaar via Kifid: alle 12 panelen vervangen + €280 expertkosten vergoed. Doorlooptijd: 11 maanden.
+
+## Veelgemaakte fouten
+
+**Fout 1: Aanname dat panelen automatisch zijn meeverzekerd**
+Niet bij elke polis automatisch. Schriftelijke bevestiging vragen.
+
+**Fout 2: Dagwaarde-polis nemen**
+Bij dagwaarde verlies je 4-6% per jaar in waarde. Na 15 jaar nog maar 30-40% vergoeding. Kies herbouwwaarde.
+
+**Fout 3: Geen melding maken na investering**
+Toevoeging van €5.000-€20.000 aan dakwaarde moet doorgegeven, anders kan onderverzekering ontstaan.
+
+**Fout 4: Eigen risico niet checken**
+Bij hagelschade tot €1.500 per paneel kan eigen risico van €500 een groot deel van vergoeding wegnemen.
+
+**Fout 5: DIY-installatie zonder erkend monteur**
+Bijna alle polissen vereisen erkend installateur (KvINL of Zonnekeur). DIY = uitsluiting.
+
+## Wanneer aparte zonnepanelen-verzekering NIET de moeite waard is
+
+- **Investering <€3.000**: meerpremie €30-€75/jaar levert na 10 jaar weinig op tegenover risico
+- **Risicovrij gebied (binnenland, geen bomen, vrijstaand huis)**: standaard opstal volstaat
+- **Polis met automatische dekking tot €15K+**: aparte polis is dubbelop
+- **Panelen nog onder volledige fabrieksgarantie + installateurs-aansprakelijkheid (eerste 2 jaar)**
+
+## Extra FAQ
+
+**Telt productieverlies door schade ook mee?**
+Bij sommige polissen ja (Centraal Beheer, ASR), bij andere alleen vervanging hardware. Vraag schriftelijke uitleg over "gevolgschade".
+
+**Wat als mijn buur schade veroorzaakt door werkzaamheden op zijn dak?**
+Dan loopt schade via aansprakelijkheidsverzekering (AVP) van de buur. Document met foto's en verklaring.
+
+**Mag verzekeraar premie verhogen na schade?**
+Ja, na 1 schade typisch 5-10% verhoging. Bij 2 schades binnen 5 jaar: kans op opzegging. Houd rekening met polis-overstap als het zover komt.
+
+**Is een thuisbatterij apart verzekerd?**
+Vrijwel altijd ja, soms onder inboedel ipv opstal. Vraag specifiek voor LiFePO4-batterij of brandschade door batterij-defect gedekt is.

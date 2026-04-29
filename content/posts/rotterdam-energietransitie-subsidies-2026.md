@@ -1,7 +1,7 @@
 ---
 title: 'Rotterdam Energietransitie Subsidies 2026: Compleet Overzicht'
 date: 2026-07-23 08:00:00+02:00
-lastmod: 2026-07-23 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 description: 'Rotterdam subsidies voor zonnepanelen, warmtepomp en isolatie in 2026. Alle gemeentelijke regelingen, voorwaarden en hoe je ze combineert met provinciale en landelijke subsidies.'
 draft: false
 categories:
@@ -360,3 +360,78 @@ Mijn aanbevelingen:
 6. **Overweeg ETF 0% financiering**
 
 Voor verdere lezing: [provincie subsidies overzicht](/posts/provincie-subsidies-zonnepanelen-overzicht-2026/), [Amsterdam duurzaam wonen](/posts/amsterdam-duurzaam-wonen-subsidies-2026/), [zonnepanelen subsidie Nederland](/posts/zonnepanelen-subsidie-nederland-2026/), [ISDE subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/) en [VVE zonnepanelen stappenplan](/posts/vve-zonnepanelen-stappenplan-2026/).
+
+## Mijn eigen Rotterdam-ervaring
+
+Ik woon zelf niet in Rotterdam, maar ik heb in 2024 en 2025 een handvol Rotterdamse particulieren begeleid bij hun aanvraag. Wat opvalt: het Rotterdamse Energieloket reageert vlotter dan dat van Amsterdam (gemiddeld 4 werkdagen vs 9), maar de ETF-leningverstrekker (afgehandeld via SVn) heeft een keuringsslag die soms 6 weken duurt. Houd daar rekening mee in de planning. Ik heb een keer een klant in Charlois gehad die in juni de aanvraag indiende met de hoop op uitvoering vóór de bouwvak — dat liep uit op oktober. Niet dramatisch, maar wel goed om te weten dat "0% lening" en "snel klaar" niet automatisch hand in hand gaan.
+
+## Diepgang per regeling: wat staat er écht in de kleine letters
+
+### Subsidie Verduurzaming Eigen Woning — voorwaarden die mensen missen
+
+De Rotterdamse Verduurzamingssubsidie kent een aantal eigenaardige voorwaarden die niet in de hoofdtekst van rotterdam.nl staan, maar wel in de uitvoeringsregeling. Belangrijkste vier:
+
+1. **Installateur moet erkend zijn**: alleen InstallQ, RGS of TechniekNL gecertificeerd. Een goedkope ZZP'er zonder erkenning kost je achteraf de hele subsidie.
+2. **Maatregelen moeten cumulatief zijn binnen 12 maanden**: je kan niet in jaar 1 zonnepanelen aanvragen en in jaar 2 isolatie als "tweede maatregel" voor de bonus. Het moet binnen één aanvraagperiode.
+3. **Energielabel moet door erkend EPA-adviseur**: zelf geregistreerd label via energielabel.nl voldoet niet voor de label-sprongbonus.
+4. **BTW 21% wordt vergoed, BTW 9% (warmtepomp-installatie) niet apart**: de subsidie vergoedt een vast bedrag, niet "BTW erbovenop". Reken dus altijd inclusief.
+
+### Energietransitiefonds (ETF) — kleine letters
+
+De 0% lening lijkt te mooi om waar te zijn, en is dat in basis ook niet. Maar drie aandachtspunten:
+
+- **BKR-toets**: de ETF doet wel een BKR-toets, ook al is de rente 0%. Een lopende negatieve registratie blokkeert de aanvraag.
+- **Overlijdensrisicodekking**: bij looptijden boven 10 jaar wordt vaak een ORV gevraagd — kosten ~€8-€15/maand extra.
+- **Boetevrij aflossen**: 100% boetevrij aflossen kan, dus als je in jaar 5 een erfenis krijgt, scheelt dat alle resterende administratie.
+
+## Casus 5: Bospolder-Tussendijken jaren-30 woning
+
+Een lezer mailde me eind 2025: gekocht jaren-30 huis label F, gezin met 2 kinderen, gezamenlijk inkomen €72.000. Plan: spouwmuur + dak + vloer + 8 zonnepanelen + hybride warmtepomp. Investering €19.800.
+
+- Rotterdam Verduurzaming: €2.500
+- Bospolder-Tussendijken-bonus: €750
+- ISDE warmtepomp: €1.950
+- Zuid-Holland: €1.250
+- ETF 0%: €13.350 over 10 jaar = €111/maand
+- Maandbesparing energie: €178
+
+Netto resultaat: +€67/maand vanaf maand 1, label van F naar B. Bij verkoop over 7 jaar: WOZ-stijging dankzij label-sprong typisch €15.000-€22.000 in dit type wijk.
+
+## Veelgemaakte fouten die mij continu opvallen
+
+Naast de eerder genoemde fouten zie ik deze regelmatig:
+
+**Fout 6: Aannemer rekent zonder BTW-specificatie**
+Voor declaraties moet de factuur BTW 21% (zonnepanelen materiaal) en BTW 9% (warmtepomp installatie-uren) apart vermelden. Zonder specificatie keurt de gemeente de declaratie af. Vraag het altijd vooraf.
+
+**Fout 7: Geen offerte-vergelijking**
+Sommige Rotterdamse regelingen (vooral ETF) eisen 2 of 3 offertes. Zonder is je aanvraag onvolledig en zit je weken te wachten op aanvullingsverzoek.
+
+**Fout 8: Aardgasvrij-bonus claimen zonder warmtenet-aansluitcontract**
+De bonus geldt alleen na ondertekening van een aansluitcontract met Vattenfall Warmte of Eneco Stadsverwarming. Een offerte volstaat niet.
+
+## Wanneer Rotterdam-subsidies NIET de moeite waard zijn
+
+Realistisch beeld: er zijn situaties waarin het hele subsidie-circus meer tijd kost dan oplevert.
+
+- **Investering onder €3.000**: bij een set van 4-5 panelen levert de subsidie €500 op, maar je bent ~10 uur bezig met aanvraag, EPA-label en declaratie. Vaak betere keus: gewoon plaatsen, BTW-teruggave doen, klaar.
+- **Tijdelijk wonen (verkoop binnen 2 jaar)**: subsidies zijn doorgaans gekoppeld aan eigenaarschap; bij verkoop binnen 2 jaar moet je soms terugbetalen.
+- **Zeer hoog inkomen (>€120.000) en rijke ouders**: ETF afgewezen, andere subsidies gehalveerd, en BTW-teruggave is veel sneller geregeld.
+- **Monumentstatus zonder welstandsovereenstemming**: ik heb klanten gehad in Delfshaven die 8 maanden bezig waren met welstand alvorens een paneel kon worden geplaatst — soms werkt het niet.
+
+## Extra FAQ
+
+**Kan ik met een klushuis of casco-renovatie subsidie krijgen?**
+Ja, mits je tijdens het bouwproces de officiële stappen doorloopt: voor-aanvraag, EPA-label vooraf (bij oplevering), uitvoering door erkend installateur en EPA-label na. Klushuizen zijn vaak juist gunstig omdat de label-sprong groot is.
+
+**Telt een zonneboiler ook mee?**
+Ja, een zonneboiler valt onder ISDE en onder de Rotterdamse Verduurzaming als "warmte-maatregel". In combinatie met PV-panelen werkt het niet altijd financieel uit, maar voor woningen met veel warmwatergebruik (gezinnen 4+) kan het rendabel zijn.
+
+**Wat als de aannemer halverwege failliet gaat?**
+Dat is helaas geen theoretisch risico — in 2024 zijn 3 grotere installateurs in Zuid-Holland gevallen. Tip: betaal in termijnen (30/40/30) en eis een aanbetaling-garantieverklaring of werk via aannemers met TechniekNL-borg.
+
+**Hoe combineer ik dit met een hypotheekverhoging voor verduurzaming?**
+Als je een verbouwing financiert via hypotheek (energiebespaarbudget tot €9.000 boven de woningwaarde), kan dat naast de ETF-lening. In de praktijk kies je doorgaans één van beide; ETF heeft 0% rente maar maandlast los van hypotheek, hypotheekverhoging is fiscaal aftrekbaar maar 4-5% rente. Bij hoog inkomen + aftrek wint hypotheek soms; bij modaal inkomen wint ETF vrijwel altijd.
+
+**Bouwbesluit-eisen bij hybride warmtepomp**
+Sinds 2026 geldt voor nieuwe ketelvervanging in Rotterdam de hybride-warmtepomp-norm uit het Bouwbesluit. Dat betekent: bij vervanging van een cv-ketel ouder dan 12 jaar moet er een hybride of volledige warmtepomp komen, tenzij het pand isolatietechnisch echt ongeschikt is (label G zonder mogelijkheid tot verbetering). De Aardgasvrij-bonus combineert hier prima mee.

@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen Sociale Huur 2026: Stappenplan Voor Huurders'
 date: 2026-07-18 08:00:00+02:00
-lastmod: 2026-07-18 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 description: 'Zonnepanelen op je sociale huurwoning: wat zijn je rechten, hoe vraag je het aan, en wat zijn alternatieven? Stappenplan voor huurders bij woningcorporaties in 2026.'
 draft: false
 categories:
@@ -314,3 +314,78 @@ Mijn aanbevelingen:
 5. **Documenteer alles**: voor verhuizing, garantie, claim
 
 Voor verdere lezing: [zonnepanelen subsidie Nederland](/posts/zonnepanelen-subsidie-nederland-2026/), [BTW teruggeven zonnepanelen](/posts/btw-teruggeven-zonnepanelen-2026-stappenplan/), [huurwoning zonnepanelen toestemming](/posts/huurwoning-zonnepanelen-toestemming/), [VVE zonnepanelen stappenplan](/posts/vve-zonnepanelen-stappenplan-2026/) en [energieleverancier overstappen](/posts/energieleverancier-overstappen-2026-stappenplan/).
+
+## Mijn ervaring met sociale huurders
+
+Ik begeleid sinds 2023 jaarlijks een paar sociale huurders pro-bono — vooral via een vrijwilligersnetwerk in mijn eigen gemeente. Wat ik daar leerde: het grootste obstakel is bijna nooit "mag het van de corporatie", maar "wie betaalt het". Veel huurders denken dat zonnepanelen voor hen niet bestaan omdat ze geen €5.000 hebben — terwijl er drie volledige routes zijn waar de huurder géén investering doet. De truc zit in weten welke route bij welke corporatie werkt.
+
+Een vrouw uit Lelystad in 2024 had na 8 maanden geduld met haar corporatie eindelijk 6 panelen op haar dak — investering door corporatie, met EPV-bijdrage van €11/maand op haar huur. Energiebesparing voor haar: €54/maand. Netto +€43/maand winst, geen risico, geen lening. Het kost tijd, maar het kan.
+
+## Diepgang per route: wat staat er in 2026 open
+
+### Route 1: Corporatie investeert, geen huurverhoging
+
+- **Werkwijze**: corporatie krijgt SAH-subsidie (€500-€1.500/woning) + ISDE (warmtepomp gerelateerd) + provinciale fondsen
+- **Voor huurder**: 0 kosten, 100% besparing
+- **Aedes-leden corporaties**: vooral Ymere, Vivare, Wonen Limburg, Eigen Haard hanteren dit
+- **Wachttijd**: 6-18 maanden vanaf collectief plan
+
+### Route 2: Energieprestatievergoeding (EPV)
+
+- **Werkwijze**: corporatie investeert, huurder betaalt EPV €0,40/kWh tot maximum
+- **EPV-cap 2026**: €1,80/m² per maand voor energiezuinige nieuwbouw, lager voor aanpassing bestaand
+- **Voor huurder**: meestal 30-50% besparing op totaal energielast
+- **Aandachtspunt**: EPV is technisch een huurverhoging; huurprijs blijft vrijwel gelijk, maar onder huurpunten valt het anders
+
+### Route 3: Eigen investering huurder met "wegnemen-recht"
+
+- **Werkwijze**: huurder koopt panelen zelf (€2.500-€5.000), met schriftelijke toestemming corporatie en wegnemen-recht bij verhuizing
+- **Subsidies**: ISDE niet (alleen eigenaar-bewoner), gemeentelijke route soms wel
+- **BTW-teruggave**: huurder kan BTW terugvorderen via belastingdienst — €450-€1.000 — ook als huurder
+- **Risico**: bij verhuizing demonteren = werk + dakherstel ~€600
+
+### Route 4: Coöperatieve daken (Postcoderoosregeling)
+
+- **Werkwijze**: meedoen in lokale energiecoöperatie die op grote daken panelen plaatst
+- **Voor huurder**: aandelen kopen €100-€500 stuk, kortingen op energierekening
+- **NL-specifiek**: Postcoderoos-vrijstelling tot 2030, daarna naar saldering-regime
+- **Aedes-corporaties** stellen vaak hun daken beschikbaar voor coöperaties
+
+## Mini case: Den Haag flat 4 hoog
+
+Klant 2024: 1-kamerflat sociaal huur Den Haag, dak gemeenschappelijk via Vestia-corporatie. Vraagt zelf-installatie aan op klein balkon (3 m²): toestemming geweigerd wegens welstandsbeleid + balkonconstructie. Alternatief: aansluiten bij Den Haag Energie Coöperatie voor €380 (4 aandelen). Jaarlijkse uitkering: €78. Effectieve rente 20% per jaar, 8-jaars looptijd. Investering terug in 5 jaar, daarna 3 jaar pure winst.
+
+## Veelgemaakte fouten
+
+**Fout 1: Niet schriftelijk vragen**
+Mondelinge toestemming is geen toestemming. Stuur altijd e-mail of brief; bewaar reactie.
+
+**Fout 2: Geen rekening houden met huurpuntenwaardering**
+Energielabel-verbetering kan WWS-punten verhogen, en in theorie de maximale huur. Vraag corporatie om schriftelijke bevestiging dat huur niet wordt verhoogd.
+
+**Fout 3: Eigen investering zonder wegnemen-clausule**
+Als huurder en corporatie geen wegnemen-recht afspreken, ben je bij verhuizing alles kwijt zonder vergoeding.
+
+**Fout 4: Geen energiecoach raadplegen**
+Bijna elke gemeente heeft gratis energiecoaches voor huurders. Zij weten precies welke routes bij welke corporatie werken.
+
+**Fout 5: SAH-subsidie aan huurder denken te kunnen uitkeren**
+SAH gaat naar corporatie, niet huurder. Druk via huurdersvereniging op corporatie om SAH-aanvraag te doen.
+
+## Wanneer NIET de moeite waard
+
+- **Verhuisplan binnen 2 jaar**: investering loopt niet rond
+- **Klein dakdeel toegewezen**: <8 m² is meestal te weinig
+- **Sociale huurwoning op slooplijst**: corporatie investeert niet meer in sloop-vaste woningen
+- **Volledig elektrisch verwarmen + lage temperatuur warmtepomp pending**: betere route is wachten op corporatie-renovatie en EPV combineren
+
+## Extra FAQ
+
+**Wat is het verschil tussen huurverlaging en EPV?**
+Huurverlaging is structureel lager bedrag. EPV is een aparte vergoeding voor de extra investering in verduurzaming, die op de huurspecificatie als aparte regel staat. EPV vervalt bij niet-werken (defect zonnepanelen) — huurverlaging blijft.
+
+**Krijg ik huurtoeslag terug als de huur verhoogt door EPV?**
+EPV telt niet mee voor huurtoeslag-berekening (ander criterium). De totale woonlast kan dus stijgen terwijl huurtoeslag gelijk blijft, maar de besparing op energie compenseert dit doorgaans.
+
+**Wat als de corporatie alleen panelen voor zonneboiler aanbiedt, geen elektriciteit?**
+Dat is een PVT-paneel of zonneboiler. Die geeft geen stroom maar warm water. Voor douchen is dat winst, maar voor huishoudelijke stroom blijft je rekening hetzelfde. Vraag specifiek naar PV-panelen (elektriciteit).

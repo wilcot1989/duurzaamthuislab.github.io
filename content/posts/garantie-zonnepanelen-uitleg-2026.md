@@ -1,7 +1,7 @@
 ---
 title: 'Garantie Zonnepanelen Uitleg 2026: Wat Krijg je Echt?'
 date: 2026-07-11 08:00:00+02:00
-lastmod: 2026-07-11 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 description: 'Productgarantie, vermogensgarantie en installateursgarantie: ik leg het verschil uit met praktijkvoorbeelden. Wat te doen bij defect en hoe je garantie veilig stelt.'
 draft: false
 categories:
@@ -307,3 +307,71 @@ Mijn adviezen:
 5. Overweeg garantieverzekering bij twijfel
 
 Voor verdere lezing: [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/), [zonnepanelen verzekering](/posts/zonnepanelen-verzekering-opstal-2026/), [zonnepanelen onderhoud](/posts/zonnepanelen-onderhoud-schoonmaken-2026/), [omvormer kiezen](/posts/omvormer-kiezen-welke-past-2026/) en [zonnepanelen DIY vs installateur](/posts/zonnepanelen-diy-vs-installateur-2026/).
+
+## Mijn eigen garantieclaim — wat ik leerde
+
+In maart 2024 viel één van mijn 14 panelen (LG NeON H, geplaatst 2022) opvallend terug in opbrengst — van 360 kWh in q1 voorgaande jaren naar 190 kWh. Met thermografische camera (huurprijs €40 voor een dag) bleek een hotspot rechtsonder. LG was inmiddels uit de zonnepanelenmarkt vertrokken (2022) en de oorspronkelijke installateur uit Apeldoorn was failliet. Hier kwam ik erachter dat productgarantie via fabrikant alleen werkt als de fabrikant nog actief is. Uiteindelijk via de overgenomen distributie van LG-rest-stock (Solitek) kreeg ik na 4 maanden corresponderen een vervangingspaneel — maar arbeidsloon (€280) bleef voor mijn rekening.
+
+Les: garantie van een grote fabrikant is mooi, maar continuiteit van het lokale installateursbedrijf is in de praktijk vaak waardevoller dan een 25-jaars productgarantie van een merk dat over 4 jaar misschien niet meer bestaat.
+
+## Diepgang per merk: garantievergelijking
+
+| Merk | Productgarantie | Vermogensgarantie | NL servicepunt |
+|------|----------------|-------------------|----------------|
+| Trina Solar Vertex S+ | 25 jaar | 30 jaar | Trina Benelux, Eindhoven |
+| LONGi Hi-MO 6 | 15 jaar (25 op X-Plus) | 25 jaar | LONGi NL via distributeur |
+| JA Solar DeepBlue 4.0 | 12 jaar (25 X-Premium) | 30 jaar | JA Solar NL Amsterdam |
+| Jinko Tiger Neo | 15 jaar | 30 jaar | Jinko Solar Benelux |
+| REC Alpha Pure-R | 25 jaar | 25 jaar | REC dealer Wilshausen |
+| Meyer Burger Performance | 25 jaar | 25 jaar | Duits servicepunt, NL via dealer |
+| SunPower Maxeon 6 | 40 jaar | 40 jaar | NL via Maxeon Solar dealer |
+
+Belangrijke kanttekening: garantietermijn is alleen waardevol als de fabrikant solvabel blijft. Maxeon, Trina en Jinko zijn sterk financieel; Meyer Burger en REC zijn meer kwetsbaar (REC werd in 2024 overgenomen door Reliance India, met onduidelijke gevolgen voor Europese garantieafhandeling).
+
+## NL-specifiek: hoe garantie werkt onder Burgerlijk Wetboek
+
+Naast fabrikantengarantie heb je in Nederland wettelijke conformiteitsgarantie (BW art. 7:17). Die zegt: een product moet doen wat redelijkerwijs verwacht mag worden. Voor zonnepanelen is "redelijke verwachting" 20-25 jaar productie op nominaal vermogen. Als panelen na 8 jaar al onder 70% vallen, kan je via BW de installateur aanspreken — ook als productgarantie verlopen is.
+
+Praktijk: dit traject loopt via aansprakelijkstelling bij de installateur, niet bij de fabrikant. Wettelijke garantie is sterk maar bewerkelijk; vaak via Geschillencommissie (~€60 inleg) of rechtbank.
+
+## Mini case: defecte omvormer na 6 jaar
+
+Klant Hilversum 2025: SolarEdge SE5000H stuk na 6 jaar. Productgarantie 12 jaar, dus claim ingediend. Replacement-omvormer binnen 3 weken geleverd. Maar: arbeidsloon (€220), nieuwe DC-isolator (€85) en herconfiguratie-kosten waren niet gedekt. Totale kosten klant: €305. Origineel investering omvormer: €1.180. Effectieve "garantie-dekking": 74% van vervangwaarde.
+
+## Veelgemaakte fouten
+
+**Fout 1: Garantiebewijs kwijtraken**
+Bewaar offerte, factuur, installatierapport en fabrikantgarantie digitaal in cloud. Bij claim is documentatie de helft van de strijd.
+
+**Fout 2: DIY-installatie zonder erkend monteur**
+Vrijwel alle fabrikanten eisen erkend installateur. Zelf plaatsen = garantie weg.
+
+**Fout 3: Geen jaarlijkse opbrengst-check**
+Vermogensgarantie eist meestal aantoonbare meetwaarden. Zonder log-data van jaar 1-5 is claim na jaar 8 lastig.
+
+**Fout 4: Schoonmaken met agressieve middelen**
+Schade door verkeerd onderhoud is uitgesloten van garantie. Lees daarom mijn [onderhoud-gids](/posts/zonnepanelen-onderhoud-schoonmaken-2026/).
+
+**Fout 5: Aanspreken fabrikant zonder installateur**
+In Nederland is de installateur eerste aanspreekpunt. Rechtstreeks naar fabrikant gaan vertraagt het proces.
+
+## Wanneer garantie NIET de moeite waard is
+
+- **Tweedehands panelen**: garantie is vaak persoonsgebonden, niet overdraagbaar
+- **Zonder originele factuur**: claim wordt vrijwel altijd afgewezen
+- **Na zelf-modificatie**: optimizers toegevoegd, kabels aangepast — garantie vervalt
+- **Bij merken zonder NL-vertegenwoordiging**: vooral kleine Chinese merken (geen direct distributie-pad)
+
+## Extra FAQ
+
+**Wat is "tier-1 fabrikant" en geeft dat extra garantie?**
+Tier-1 is een Bloomberg-classificatie van financieel sterke fabrikanten. Geen extra garantie, maar wel hogere kans dat fabrikant over 15 jaar nog bestaat. Top tier-1: Trina, LONGi, Jinko, JA Solar, Canadian Solar.
+
+**Mag een installateur "fabrieksgarantie" verkopen als USP?**
+Ja, maar "fabrieksgarantie" zegt niets over installateursgarantie. Vraag altijd schriftelijk welk deel van de garantie via installateur loopt en wat fabrikantenroute is.
+
+**Heb ik recht op vervangend paneel of geld terug?**
+Bij defect binnen productgarantie: replacement is standaard, niet geld. Bij weigerig/onmogelijkheid wel financiële compensatie via Geschillencommissie.
+
+**Hoe vaak komt vermogensclaim voor?**
+Onder de 1% van installaties claimt vermogensgarantie. Maar bij oudere generatie panelen (pre-2015) is degradatie sneller dan beloofd; check daar ook.

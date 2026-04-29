@@ -1,7 +1,7 @@
 ---
 title: 'Energieopslag ZZP & MKB 2026: Commercieel Doorgerekend'
 date: 2026-07-30 08:00:00+02:00
-lastmod: 2026-07-30 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 description: 'Energieopslag voor ZZP en MKB in 2026: ROI, investeringssubsidies (EIA, KIA), commerciële batterij­opties en wanneer een industriële opslag rendabel is.'
 draft: false
 categories:
@@ -364,3 +364,108 @@ Mijn aanbevelingen:
 7. **EMS niet vergeten** voor optimalisatie
 
 Voor verdere lezing: [thuisbatterij vergelijking](/posts/thuisbatterij-vergelijking-2026/), [BYD Battery-Box review](/posts/byd-battery-box-review-2026/), [Pylontech review](/posts/pylontech-thuisbatterij-review-2026/), [Victron review](/posts/victron-thuisbatterij-review-2026/) en [ZZP zonnepanelen kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/).
+
+## Mijn ervaring met een MKB-batterij in een autogarage
+
+In 2024 begeleidde ik de business-case voor een autogarage in Apeldoorn (4 medewerkers, 480 m² werkplaats, jaarverbruik 38.000 kWh). Eigenaar wilde 60 panelen op het dak (24 kWp) plus een batterij. Eerste offerte was voor een 30 kWh BYD Battery-Box Premium HVS commercial unit van €19.800. Doorgerekend op werkelijk laadpatroon: bedrijfsbezetting alleen 7-18 uur, weekend gesloten — batterij zou alleen vrijdag opladen voor maandag, zelden volledig benut.
+
+Aangepast advies: 15 kWh Pylontech rack-systeem voor €11.200, gecombineerd met EMS dat ook EV-laadpaal (klantenparkeerplek) en de werkplaats-airco aanstuurt. Resultaat: 73% van zonneoverschot zelf benut (ipv 41% zonder batterij), terugverdientijd 6,2 jaar incl. EIA + KIA. De grotere unit had pas in 9,5 jaar break-even gehaald.
+
+Les: voor MKB is "groter = beter" zelden waar. Match capaciteit aan werkelijk dagprofiel.
+
+## Diepgang per merk: commerciële energieopslag NL 2026
+
+| Merk | Capaciteit | Prijs (incl install) | Garantie | EIA-erkend |
+|------|------------|----------------------|----------|------------|
+| Pylontech Force-H2 | 7-21 kWh modulair | €5.800-€14.200 | 10 jr / 6.000 cycli | Ja |
+| BYD Battery-Box Premium HVS | 7,7-22,1 kWh | €8.400-€18.500 | 10 jr | Ja |
+| Victron + Pylontech rack | 10-50 kWh | €11.000-€38.000 | 10 jr Pylontech, 5 jr Victron | Ja |
+| Tesla Powerwall 3 | 13,5 kWh per unit | €10.500-€11.800 | 10 jr / onbeperkt cycli | Ja |
+| Sonnen Eco 9.43 | 5,5-22 kWh | €13.800-€26.000 | 10 jr / 10.000 cycli | Ja |
+| Alfen TheBattery | 50-1500 kWh | Op aanvraag | 10 jr | Ja, ook EIA-MKB-XL |
+
+Voor MKB onder 50 kWh: Pylontech of BYD bieden beste prijs/capaciteit. Voor hogere capaciteit: Alfen (Nederlands fabrikant, EIA-erkend, sterke service-organisatie in NL).
+
+## NL-specifiek: EIA, KIA en MIA voor batterijen
+
+### EIA 2026 — 40% aftrek energie
+
+- Voor batterij ≥5 kWh in commerciële context: ja, EIA van toepassing (code 220505 op EIA-lijst 2026)
+- Aftrekpercentage: 40% van investering
+- Bij vennootschapsbelasting van 25,8%: effectieve subsidie 10,3%
+- Aanmelden binnen 3 maanden via RVO eLoket
+
+### KIA — 28% aftrek
+
+- Voor zakelijke investeringen €2.601 - €69.765
+- Combineerbaar met EIA (op zelfde investering)
+- Bij €15.000 batterij: KIA-aftrek €4.200 (28%)
+
+### MIA/Vamil
+
+- Voor zelfvoorzienend opslag-systeem op duurzame stroom: ja, beperkt
+- Vereist M-code op EIA-lijst, soms 13,5% extra aftrek
+- Bewerkelijk maar voor grotere installaties (>€50K) lonend
+
+### BTW 21% volledig terugvorderbaar (mits zakelijk)
+
+- Voor BV/eenmanszaak/VOF: BTW direct terug via reguliere aangifte
+- Voor ZZP onder KOR: zie [ZZP zonnepanelen kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/) — KOR-keuze afwegen
+
+## Mini case: drukkerij Helmond
+
+MKB-klant 2025: drukkerij 24/7 productie, 280.000 kWh/jr verbruik. 80 kWp zonnepanelen al aanwezig. Vraag: rendabel om 60 kWh batterij toe te voegen?
+
+Doorgerekende cijfers:
+- Investering Pylontech-Victron 60 kWh: €38.500 incl install
+- EIA 40%: €15.400 aftrek (vpb-effect €3.970)
+- KIA 28%: €10.780 aftrek (vpb-effect €2.780)
+- BTW-teruggave: €8.085
+- Netto investering: €23.665
+
+Voordelen:
+- Eigenverbruik van 47% naar 81% = 25.500 kWh meer zelf benut
+- Besparing energiekosten: €7.140/jr bij €0,28/kWh inkoop
+- Plus vermijden terugleverkosten: €1.250/jr
+- Plus piek-shaven (capaciteits-tarief): €820/jr
+
+Totale jaarbesparing: €9.210
+Terugverdientijd: 2,6 jaar — uitzonderlijk gunstig dankzij continu verbruikspatroon.
+
+## Veelgemaakte fouten
+
+**Fout 1: Batterij groter dimensioneren dan dagprofiel**
+Onder 70% gemiddelde benutting per cyclus zakt rendement snel. Match grootte aan werkelijk dagverbruik na zonsondergang.
+
+**Fout 2: Geen EMS (energiebeheerssysteem)**
+Zonder slim systeem dat EV-laadpaal, airco's en batterij coördineert: gemiste 15-25% besparing.
+
+**Fout 3: BTW vergeten op investeringsbedrag**
+Veel ZZP'ers rekenen incl BTW als netto-investering. BTW komt terug — reken EIA/KIA over excl. BTW-bedrag.
+
+**Fout 4: EIA-aanvraag termijn missen**
+3 maanden na opdrachtbevestiging via RVO. Wie te laat is, mist 40% aftrek.
+
+**Fout 5: Garantie-cycli niet checken**
+Bij MKB-gebruik (1 cyclus/dag) is 6.000 cycli ~16 jaar. Maar bij 1,5 cycli/dag: 11 jaar. Reken levensduur op werkelijk gebruik.
+
+## Wanneer commerciële batterij NIET de moeite waard is
+
+- **Bedrijf alleen overdag actief, geen avond/weekend-verbruik**: zon-on-zon is voldoende, batterij voegt weinig toe
+- **Grootverbruiker met grootverbruik-tarief contracten**: vaste prijzen maken peak-shaving minder interessant
+- **Pand met teruglevercontract zonder kosten** (bestaande tot 2027): zonder reguliere terugleverkosten, prikkel voor eigen-opslag lager
+- **Korte resterende huur (<5 jaar) op pand**: geen terugverdienen mogelijk
+
+## Extra FAQ
+
+**Wat zijn capaciteitstarief en piekshaving?**
+Capaciteitstarief is een netbeheerderscomponent op basis van piekafname (kW). Piekshaving = batterij gebruikt om piekafname af te toppen. Voor MKB met capaciteit 3x80A of meer: significant.
+
+**Kan ik handelen op de stroommarkt met batterij?**
+Ja, via dynamische tarieven (Tibber, EnergyZero, ANWB Energie). Voor MKB-batterij 30+ kWh kan dit €600-€1.400/jr extra opleveren bij volatile prijzen.
+
+**Hoe combineren met laadpaal voor klanten/medewerkers?**
+EMS-systeem prioriteert: eerst eigen verbruik, dan laadpalen, dan terugleveren. Slimme integratie levert 8-15% extra rendement.
+
+**Welke verzekering voor commerciële batterij?**
+Bedrijfspolis bij Centraal Beheer, Klaverblad of NN dekt batterijen vrijwel altijd, mits NEN 1010 + IEC 62619 conform. Brandrisico-clausules: vraag specifiek voor LiFePO4 i.p.v. NMC, want LiFePO4 is door verzekeraars beter ingeschat.

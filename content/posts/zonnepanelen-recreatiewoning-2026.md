@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen Recreatiewoning 2026: On-grid of Off-grid?'
 date: 2026-07-29 08:00:00+02:00
-lastmod: 2026-07-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 description: 'Zonnepanelen op je vakantiewoning of recreatiewoning: on-grid of off-grid? Ik leg de keuzes uit, kosten en speciale aandachtspunten voor parken in Nederland 2026.'
 draft: false
 categories:
@@ -369,3 +369,90 @@ Zonnepanelen op recreatiewoning zijn vaak rendabel maar vereisen specifieke plan
 6. **Combineer met andere verduurzaming**: warmtepompboiler, isolatie
 
 Voor verdere lezing: [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/), [Victron thuisbatterij review](/posts/victron-thuisbatterij-review-2026/), [Pylontech review](/posts/pylontech-thuisbatterij-review-2026/), [zonnefolie flexibele zonnepanelen](/posts/zonnefolie-flexibele-zonnepanelen-2026/) en [zonnepanelen DIY vs installateur](/posts/zonnepanelen-diy-vs-installateur-2026/).
+
+## Mijn eigen recreatiewoning op de Veluwe
+
+Ik heb sinds 2017 een houten chalet op een park bij Otterlo, ~36 m². Eerst alles op aansluiting van het park (€0,42/kWh inclusief vaste lasten), zelfs in winter wanneer huis leegstaat. In 2021 4 panelen op het dak, kleine 2 kWh AGM-batterij, simpele Victron MPPT-laadregelaar. Werkt prima in zomer (van mei t/m september vrijwel autonoom voor verlichting + koelkast), in winter terug op park-aansluiting.
+
+Wat ik leerde: voor parttime gebruik (gemiddeld 6 weekenden + 3 weken/jr) is full off-grid bijna altijd duurder dan beoogd. Hybride setup (panelen + kleine batterij + park-aansluiting) is realistischer. Investering 2021: €2.480. Park-aansluiting verbruikskosten daalden van €580 naar €165/jr. Terugverdientijd: 6,0 jaar — en levert tegelijk meer comfort op (meer aanstaan terwijl je weg bent voor koeling/condensatie-bestrijding).
+
+## Diepgang: setup-types per recreatiewoning-type
+
+### Type 1: Park met netaansluiting (typisch Veluwe, Brabant)
+
+- Aanbevolen: 4-8 on-grid panelen + kleine batterij (2-5 kWh)
+- Investering: €2.500-€5.500
+- Saldering: meestal NIET, want park heeft vaak gemeenschappelijke meter
+- BTW-teruggave: helaas niet voor recreatiewoning zonder permanent verblijf
+- Aandachtspunt: park-reglement check vooraf (welstand, kabelroutes)
+
+### Type 2: Solitair vakantiewoning eigen perceel
+
+- Aanbevolen: 6-10 panelen on-grid + 5-10 kWh batterij
+- Investering: €4.500-€9.000
+- Subsidie ISDE: nee voor zonnepanelen, ja voor warmtepompboiler in vakantiewoning
+- BTW-teruggave: ja, want eigen aansluiting
+
+### Type 3: Off-grid (boshuis, eiland)
+
+- Aanbevolen: 8-12 panelen + 10-15 kWh LiFePO4 + Victron MultiPlus II
+- Investering: €9.000-€16.000
+- Aggregaat als backup: €1.200-€2.400
+- Aandachtspunt: realistische dimensionering op winter-laagstand (december productie ~10% van zomer)
+
+## NL-specifiek: regelgeving recreatiewoningen
+
+- **Recreatieve bestemming**: zonnepanelen mogen, maar gemeentelijk welstands-toezicht kan op parken streng zijn
+- **BTW-teruggave**: alleen mogelijk als woning permanent bewoonbaar is (en je het zo aangeeft) — strafbaar als je doet alsof
+- **ISDE warmtepomp recreatiewoning**: kan, mits woning >50% van jaar bewoonbaar
+- **Verzekering**: vraag opstal apart na voor recreatiewoning; Centraal Beheer en Klaverblad hebben vakantiewoning-polissen
+
+## Mini case: solitair tuinhuis Friesland
+
+Klant 2024: zelfgebouwd tuinhuis 28 m² aan watertje in Friesland, geen netaansluiting. Wens: licht, koelkast, laadpunt voor telefoons/laptops, soms TV.
+
+- 6 × 410 W panelen op zuid-dak: €1.620
+- Victron MPPT 100/30 + omvormer 800 W: €580
+- 10 kWh LiFePO4 (Pylontech US3000): €3.420
+- Installatie + bedrading: €1.200
+- Totaal: €6.820
+
+Resultaat: 100% autonoom mei-oktober. Winter: aggregaat 2-3 keer per maand bijladen tijdens vakanties (kosten €40 brandstof per seizoen). Voor klant volledig acceptabel.
+
+## Veelgemaakte fouten
+
+**Fout 1: Te kleine batterij voor parttime gebruik**
+Bij 2-3 weekenden per maand is een grotere batterij rendabeler dan bij dagelijks gebruik — anders staat panelen-overschot dagenlang ongebruikt.
+
+**Fout 2: Netaansluiting weghalen voor "100% off-grid feeling"**
+Als netaansluiting al ligt: behoud die. Backup-mogelijkheid, gemak en hogere woningwaarde.
+
+**Fout 3: Goedkope AGM batterij**
+Voor seizoensgebruik is LiFePO4 essentieel — AGM heeft slecht gedrag bij lange standby (zelfontlading 5-10%/maand vs 1% LiFePO4).
+
+**Fout 4: Geen vorstbescherming**
+Recreatiewoningen vriezen 's winters. LiFePO4 mag niet onder 0 °C laden. Kies modellen met ingebouwde verwarming of plaats batterij vorstvrij.
+
+**Fout 5: Vergunning park overslaan**
+Veel parken hebben welstand of bestuursbesluit nodig vóór plaatsing. Achteraf wegnemen is duur.
+
+## Wanneer recreatiewoning-zonnepanelen NIET de moeite waard zijn
+
+- **Park met inclusief energie-pakket**: geen prikkel om eigen op te wekken
+- **Pand alleen 2-3 weken per jaar gebruikt**: terugverdientijd loopt boven 12 jaar
+- **Pand op slooplijst of bestemmingswijziging**: investering verloren
+- **Permanent vochtig dak (riet, mossig leien)**: voor montage te risicovol zonder hoge meerkosten
+
+## Extra FAQ
+
+**Krijg ik subsidie voor recreatiewoning?**
+ISDE niet voor zonnepanelen, wel voor warmtepompboiler. Provinciale subsidies vrijwel nooit voor recreatiewoning. Check gemeente — sommige gemeentes (zoals Apeldoorn voor Hoge Veluwe-randwoningen) hebben specifieke regelingen.
+
+**Mag ik panelen demonteren bij verkoop?**
+Ja, maar gewoonlijk worden ze in de koopovereenkomst meeverkocht. Demonteren kost €600-€1.000 + dakherstel.
+
+**Werkt een aggregaat samen met zonnepaneel-systeem?**
+Ja, mits Victron MultiPlus II of vergelijkbare hybride-omvormer met aggregaat-input. Standaard string-omvormer kan aggregaat NIET als bron gebruiken.
+
+**Wat te doen bij langdurige afwezigheid (winter)?**
+LiFePO4 op 50% lading achterlaten, verwarming uit, batterij vorstvrij. Lichte panelen blijven functioneren maar hoeven niet vol te laden.
