@@ -32,7 +32,8 @@ faq:
 - q: 'Welke merken montagesystemen zijn betrouwbaar?'
   a: 'K2 Systems (Duits), Esdec (Nederlands), Van der Valk (Nederlands), Mounting Systems (Duits) zijn de big-4 in Europa. Allen hebben 12-25 jaar garantie en zijn bewezen technologie.'
 - q: 'Heb ik dakdoorvoer nodig?'
-  a: Ja, voor schuine daken vrijwel altijd: dakhaken bevestigen aan de spanten of latten via dakdoorvoer. Voor plat dak met ballast: vaak geen doorvoer nodig (alleen kabelinvoer). Bitumineus plat dak: soms wel verlijmd.
+  a: 'Ja, voor schuine daken vrijwel altijd: dakhaken bevestigen aan de spanten of latten via dakdoorvoer. Voor plat dak met ballast: vaak geen doorvoer nodig (alleen kabelinvoer). Bitumineus plat dak: soms wel verlijmd.'
+
 - q: 'Hoeveel ballast nodig op plat dak?'
   a: 'Afhankelijk van windzone (NL valt onder zone 1-2). Gemiddeld 30-50 kg per paneel. Bij randposities en zone 2 (kustgebieden): 60-90 kg. Houd rekening met dakbelasting — sommige platte daken kunnen geen ballast dragen.'
 - q: 'Schuin dak: schroeven of klemmen?'
