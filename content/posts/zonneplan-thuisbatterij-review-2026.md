@@ -370,7 +370,7 @@ Voor de tech-nerd die zelf wil samenstellen: minder geschikt — kies Sessy + Ti
 ---
 
 
-<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
 
 ## Gerelateerde artikelen
 

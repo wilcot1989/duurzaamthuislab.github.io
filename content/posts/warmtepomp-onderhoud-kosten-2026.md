@@ -451,7 +451,7 @@ Dat is een bescheiden maar positief resultaat — en dan is er nog de meerwaarde
 De warmtepomp verdient zichzelf terug — maar alleen als het systeem goed wordt onderhouden en efficiënt wordt ingezet.
 
 
-<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

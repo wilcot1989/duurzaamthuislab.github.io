@@ -346,7 +346,7 @@ Thomas in Zeist is inmiddels negen maanden verder. Hij bespaart meer dan verwach
 ---
 
 
-<a href="/go/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin</a>
 
 ## Gerelateerde artikelen
 

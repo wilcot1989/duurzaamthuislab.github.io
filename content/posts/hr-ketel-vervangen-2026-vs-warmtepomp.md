@@ -422,7 +422,7 @@ Is je HR-ketel kapot of bijna kapot?
 De grootste fout die mensen maken: te lang wachten. De ISDE-subsidie is beschikbaar nu. De terugverdientijd van de meerprijs hybride vs HR-ketel is 1,5-2,5 jaar. Elk jaar wachten kost je €600-€900 aan gaskosten die vermijdbaar waren.
 
 
-<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

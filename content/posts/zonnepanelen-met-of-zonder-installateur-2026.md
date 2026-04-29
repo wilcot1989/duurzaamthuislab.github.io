@@ -274,7 +274,7 @@ Als je toch DIY overweegt: begin in elk geval met een plug-and-play balkonpaneel
 ---
 
 
-<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
 
 ## Wat zegt de installateur die ik een jaar later sprak?
 

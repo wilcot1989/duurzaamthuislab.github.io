@@ -321,7 +321,7 @@ Mijn 18 maanden ervaring: €1.180 bespaard versus vast contract. Dat is geen ma
 ---
 
 
-<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 ## Tibber in de winter: wat ik betaalde bij een koudegolf
 

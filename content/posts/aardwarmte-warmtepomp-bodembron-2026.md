@@ -330,7 +330,7 @@ De beslissing mag een half jaar duren. Een bodembron die goed is gedimensioneerd
 ---
 
 
-<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 ## Hulp bij de keuze: vraag eerst een energieadvies aan
 

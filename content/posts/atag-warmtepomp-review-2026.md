@@ -335,7 +335,7 @@ Wat ik Riet uiteindelijk heb geadviseerd: neem ATAG, maar laat de installateur o
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ATAG ENERGION warmtepompen</a>
 
 
-<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 ## Levensduur en vervanging na 15 jaar
 

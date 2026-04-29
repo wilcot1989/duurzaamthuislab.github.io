@@ -344,7 +344,7 @@ Voor wie zonnepanelen heeft en de saldering-stop voorbereidt: Frank is bijna alt
 ---
 
 
-<a href="/go/frank-energie" class="cta-affiliate" rel="sponsored noopener">Bekijk Frank Energie</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Frank Energie</a>
 
 ## Mijn aanbeveling voor specifieke huishoudprofielen
 

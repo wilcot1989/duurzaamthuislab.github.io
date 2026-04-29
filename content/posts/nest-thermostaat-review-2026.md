@@ -251,7 +251,7 @@ Slimme thermostataten verdienen zichzelf in bijna alle gevallen terug binnen 2 j
 <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin</a>
 
 
-<a href="/go/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin</a>
 
 ## Gerelateerde artikelen
 

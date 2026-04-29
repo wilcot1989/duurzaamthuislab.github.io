@@ -436,7 +436,7 @@ Zonnepanelen op een plat dak zijn een uitstekende investering met een terugverdi
 <a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
 
 
-<a href="/go/anker-solix" class="cta-affiliate" rel="sponsored noopener">Bekijk Anker Solix</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
 
 ## Lees ook
 

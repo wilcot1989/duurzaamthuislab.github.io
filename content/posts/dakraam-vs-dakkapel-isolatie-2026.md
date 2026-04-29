@@ -284,7 +284,7 @@ En als je toch een nieuwe dakkapel laat plaatsen: bestel de houtnerf-HSB-variant
 ---
 
 
-<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
 
 ## Energielabel-verbetering in de praktijk: wat levert dit op?
 

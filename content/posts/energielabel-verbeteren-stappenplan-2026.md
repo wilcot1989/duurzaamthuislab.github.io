@@ -291,7 +291,7 @@ Het verbeteren van je energielabel is een investering die zichzelf terugverdient
 <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant</a>
 
 
-<a href="/go/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
+<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant</a>
 
 ## Rekenmodel: van G naar A in 7 jaar — kan dat?
 

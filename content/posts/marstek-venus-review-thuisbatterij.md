@@ -450,7 +450,7 @@ Voor wie dat extra €3.000-€4.000 voor service en NL-support wil betalen: kie
 ---
 
 
-<a href="/go/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk Marstek</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Marstek</a>
 
 ## Gerelateerde artikelen
 

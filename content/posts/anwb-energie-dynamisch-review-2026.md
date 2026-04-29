@@ -437,7 +437,7 @@ Voor mijn vriend was het de juiste keus omdat zijn vrouw mentaal niet aan kon da
 ---
 
 
-<a href="/go/anwb-energie" class="cta-affiliate" rel="sponsored noopener">Bekijk Anwb Energie</a>
+<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anwb Energie</a>
 
 ## Gerelateerde artikelen
 

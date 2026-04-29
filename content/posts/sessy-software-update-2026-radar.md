@@ -259,7 +259,7 @@ Mijn rendement van €220–€310/jaar (bij Sessy-prijs van €3.999) geeft een
 ---
 
 
-<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Sessy vs. thuisbatterij kopen zonder EPEX-koppeling: is de meerwaarde meetbaar?
 

@@ -456,4 +456,4 @@ Benieuwd welke thuisbatterij het beste bij jouw omvormer past? Lees ons complete
 <a href="https://go.duurzaamthuislab.nl/huawei-luna" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Huawei Luna</a>
 
 
-<a href="/go/huawei-luna" class="cta-affiliate" rel="sponsored noopener">Bekijk Huawei Luna</a>
+<a href="https://go.duurzaamthuislab.nl/huawei-luna" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Huawei Luna</a>

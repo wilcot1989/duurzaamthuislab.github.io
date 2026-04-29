@@ -317,7 +317,7 @@ Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026
 ---
 
 
-<a href="/go/anker-solix" class="cta-affiliate" rel="sponsored noopener">Bekijk Anker Solix</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
 
 ## Alternatieve toepassingen die ik niet had verwacht
 

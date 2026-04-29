@@ -485,7 +485,7 @@ De saldering-stop maakt deze keuze **kritisch** — wie tot 2027 wacht, betaalt 
 ---
 
 
-<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

@@ -369,7 +369,7 @@ Een WTW-systeem is de logische volgende stap na isolatie. Het voorkomt dat je du
 <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant</a>
 
 
-<a href="/go/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
+<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant</a>
 
 ## Lees ook
 

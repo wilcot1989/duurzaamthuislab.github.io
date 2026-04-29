@@ -357,7 +357,7 @@ Kies Quatt als cashflow en ontzorging het zwaarste wegen. Koop als de totale kos
 <a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Quatt Connect abonnementen</a>
 
 
-<a href="/go/quatt" class="cta-affiliate" rel="sponsored noopener">Bekijk Quatt</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Quatt</a>
 
 ## De toekomst van Quatt: scenario's
 

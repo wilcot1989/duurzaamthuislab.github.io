@@ -332,7 +332,7 @@ Heb je een Bosch cv-ketel, een woning met label D of slechter, en wil je nu begi
 ---
 
 
-<a href="/go/bosch" class="cta-affiliate" rel="sponsored noopener">Bekijk Bosch</a>
+<a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Bosch</a>
 
 ## Gerelateerde artikelen
 

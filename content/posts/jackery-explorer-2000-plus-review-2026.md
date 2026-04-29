@@ -400,4 +400,4 @@ Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026
 <a href="https://go.duurzaamthuislab.nl/jackery" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Jackery</a>
 
 
-<a href="/go/jackery" class="cta-affiliate" rel="sponsored noopener">Bekijk Jackery</a>
+<a href="https://go.duurzaamthuislab.nl/jackery" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Jackery</a>

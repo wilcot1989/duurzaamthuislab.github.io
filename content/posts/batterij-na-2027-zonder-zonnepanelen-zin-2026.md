@@ -457,7 +457,7 @@ Elektrische auto's fungeren in de toekomst als grote thuisbatterij — ze laden 
 Wachten is dus een legitieme strategie. Maar als je nu al de voordelen wilt en de financiële ruimte hebt, is de Sessy + Tibber-combinatie vandaag al zinvol — zeker bij hoog verbruik, een warmtepomp of een EV.
 
 
-<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 

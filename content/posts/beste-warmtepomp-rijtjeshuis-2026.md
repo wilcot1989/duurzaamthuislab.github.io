@@ -416,7 +416,7 @@ Bij een hybride warmtepomp behoudt de cv-ketel zijn functie. Bij all-electric ve
 ---
 
 
-<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde gidsen
 
