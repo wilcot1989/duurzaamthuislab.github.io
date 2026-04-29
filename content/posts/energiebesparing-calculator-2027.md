@@ -9,7 +9,7 @@ keywords: ["energiebesparing calculator 2027", "saldering stop berekenen", "sald
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1580893246395-52aead8960dc?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1580893246395-52aead8960dc&w=1200&output=webp&q=70"
 faq:
   - q: "Hoe nauwkeurig is deze calculator?"
     a: "De calculator gebruikt gemiddelde percentages voor eigen verbruik en teruglevering op basis van Nederlandse huishoudprofielen. Jouw werkelijke verhouding kan afwijken — je vindt de exacte getallen in jouw slimme meter of energieapp. Vul die in voor de meest accurate uitkomst."

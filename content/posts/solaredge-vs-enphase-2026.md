@@ -9,7 +9,7 @@ keywords: ["SolarEdge vs Enphase", "omvormer vergelijking", "micro-omvormer", "p
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is het verschil tussen SolarEdge en Enphase?"
     a: "SolarEdge gebruikt een centrale string-omvormer met power optimizers per paneel. Enphase gebruikt micro-omvormers die elk paneel individueel omzetten. SolarEdge is goedkoper, Enphase is flexibeler en heeft geen single point of failure."

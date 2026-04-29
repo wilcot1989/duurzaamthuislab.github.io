@@ -9,7 +9,7 @@ keywords: ["witte dakcoating zonnepanelen opbrengst", "dakcoating reflectie zonn
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Verhoogt een witte dakcoating de opbrengst van zonnepanelen?"
     a: "Ja, op twee manieren. Ten eerste reflecteert een wit dak meer zonlicht terug op de achterkant van bifaciale panelen (tot 5-15% extra opbrengst). Ten tweede blijft het dak koeler, waardoor de zonnepanelen zelf minder opwarmen en beter presteren. Zwarte en donkere daken kunnen zonnepanelen 10-20°C warmer maken, wat 5-10% opbrengstverlies veroorzaakt."

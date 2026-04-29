@@ -9,7 +9,7 @@ keywords: ["zonnefolie zonnepanelen", "flexibele zonnepanelen dak", "zonnefolie 
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is het verschil tussen zonnefolie en flexibele zonnepanelen?"
     a: "Zonnefolie (dunne-film PV) is een extreem dun fotovoltaïsch materiaal dat rechtstreeks op oppervlakken kan worden aangebracht. Flexibele zonnepanelen zijn dunne, buigzame versies van conventionele panelen (monocrystallijn of polycrystallijn), die kunnen worden meegebogen maar niet zo dun zijn als echte zonnefolie. Flexibele panelen hebben doorgaans een hogere efficiëntie (15-23%) dan zonnefolie (8-14%)."

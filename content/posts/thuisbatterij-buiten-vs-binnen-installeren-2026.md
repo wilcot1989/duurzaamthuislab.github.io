@@ -9,7 +9,7 @@ keywords: ["thuisbatterij buiten of binnen installeren", "thuisbatterij garage i
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 faq:
   - q: "Mag een thuisbatterij buiten staan?"
     a: "Ja, maar alleen als de batterij specifiek gecertificeerd is voor buitenopstelling (IP55 of hoger). Niet elke thuisbatterij is geschikt voor directe blootstelling aan regen, vorst of hitte. Controleer altijd de IP-classificatie van het specifieke model."

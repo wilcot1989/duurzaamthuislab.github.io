@@ -9,7 +9,7 @@ keywords: ["kierdichting zelf doen", "tochtstrip installeren", "goedkope isolati
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1661368402338-189156f43012?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
 faq:
   - q: "Hoeveel kan ik besparen met kierdichting?"
     a: "Luchtlekkage via kieren en naden is verantwoordelijk voor 10-20% van het totale warmteverlies in een woning. Met €50-€100 aan tochtstrips, kitstof en glaswol-strips kun je €100-€300 per jaar besparen afhankelijk van de staat van de woning."

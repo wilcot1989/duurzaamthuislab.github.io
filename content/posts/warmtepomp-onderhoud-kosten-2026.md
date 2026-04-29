@@ -9,7 +9,7 @@ keywords: ["warmtepomp onderhoud kosten", "warmtepomp jaarlijks onderhoud", "war
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Hoe vaak moet een warmtepomp onderhoud hebben?"
     a: "Een warmtepomp heeft jaarlijks een basiscontrole nodig (filters, kondensaat, druk) en elke 3-5 jaar een uitgebreid service-beurt inclusief controle van het koudemiddel, de elektrische aansluitingen en het verwarmingssysteem. Raadpleeg altijd de handleiding van jouw model."

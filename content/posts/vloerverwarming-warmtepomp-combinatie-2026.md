@@ -9,7 +9,7 @@ keywords: ["vloerverwarming warmtepomp", "vloerverwarming kosten", "LT verwarmin
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Waarom is vloerverwarming ideaal voor een warmtepomp?"
     a: "Vloerverwarming werkt op lage watertemperatuur (30-40°C) terwijl radiatoren 60-70°C nodig hebben. Een warmtepomp is het efficiëntst bij lage temperaturen: de COP stijgt van 2,5-3,0 (bij 60°C) naar 4,0-5,0 (bij 35°C). Dit betekent 30-50% lagere energiekosten."

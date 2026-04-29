@@ -9,7 +9,7 @@ keywords: ["powerstation of thuisbatterij", "verschil powerstation thuisbatterij
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1650866155994-3bd730b5daf9?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is het verschil tussen een powerstation en een thuisbatterij?"
     a: "Een powerstation is draagbaar, heeft ingebouwde stopcontacten en werkt direct uit de doos. Een thuisbatterij wordt vast geïnstalleerd, is gekoppeld aan je zonnepanelen en het elektriciteitsnet, en vereist een professionele installatie."

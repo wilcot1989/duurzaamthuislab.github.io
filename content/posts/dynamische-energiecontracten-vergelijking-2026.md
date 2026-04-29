@@ -9,7 +9,7 @@ keywords: ["dynamisch energiecontract", "Tibber review", "ANWB Energie", "Frank 
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is een dynamisch energiecontract?"
     a: "Bij een dynamisch energiecontract betaal je de actuele uurprijs voor stroom op de Europese energiebeurs (EPEX). De prijs wisselt elk uur en kan zelfs negatief worden (dan krijg je geld toe). Je ziet een dag van tevoren wat de prijzen per uur worden."

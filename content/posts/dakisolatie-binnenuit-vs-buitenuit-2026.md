@@ -9,7 +9,7 @@ keywords: ["dakisolatie binnenuit vs buitenuit", "dakisolatie PUR glaswol EPS", 
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1661368402338-189156f43012?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is beter: dakisolatie van binnenuit of buitenuit?"
     a: "Buitenisolatie geeft thermisch betere resultaten (geen koudebruggen, behoud van dakvorm), maar is duurder en geschikt voor renovatie bij dakvervanging. Binnenisolatie is goedkoper en minder ingrijpend, maar vermindert het woonoppervlak licht en is gevoeliger voor vochtproblemen als het niet goed wordt uitgevoerd."

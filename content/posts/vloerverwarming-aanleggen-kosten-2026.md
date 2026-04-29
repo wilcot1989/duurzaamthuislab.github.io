@@ -9,7 +9,7 @@ keywords: ["vloerverwarming aanleggen bestaande woning", "vloerverwarming kosten
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Wat kost vloerverwarming aanleggen per m² in 2026?"
     a: "Dat hangt sterk af van de methode. Een freessysteem kost inclusief installatie €70–€110 per m². Een dry-systeem (droogbouw) kost €65–€100 per m². Een natsysteem (betonvloer) kost €50–€80 per m² maar vereist extra opbouwhoogte. Bijkomende kosten zoals een verdeler, pompengroep, thermostaten en de aansluiting op de ketel of warmtepomp komen daar nog bovenop: gemiddeld €1.200–€2.500 voor een woning van 80 m²."

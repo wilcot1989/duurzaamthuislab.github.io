@@ -9,7 +9,7 @@ keywords: ["beste omvormer zonnepanelen", "omvormer vergelijken", "beste omvorme
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is het verschil tussen een string-omvormer en micro-omvormer?"
     a: "Een string-omvormer is een centraal apparaat dat alle zonnepanelen aanstuurt. Micro-omvormers zitten onder elk individueel paneel. Micro-omvormers presteren beter bij schaduw en bieden monitoring per paneel, maar zijn duurder. String-omvormers zijn goedkoper en hebben een bewezen trackrecord."

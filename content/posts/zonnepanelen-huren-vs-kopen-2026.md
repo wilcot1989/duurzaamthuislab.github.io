@@ -9,7 +9,7 @@ keywords: ["zonnepanelen huren vs kopen", "zonnepanelen lease", "zonnepanelen hu
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Is het voordeliger om zonnepanelen te huren of te kopen?"
     a: "Kopen is op de lange termijn altijd voordeliger. Over 25 jaar verdien je €10.000-€20.000 meer met kopen dan met huren. Huren is voordeliger als je geen spaargeld hebt, binnen 5-7 jaar wilt verhuizen, of geen risico wilt nemen op onderhoud en reparatie."

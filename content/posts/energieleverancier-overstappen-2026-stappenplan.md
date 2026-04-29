@@ -9,7 +9,7 @@ keywords: ["energieleverancier overstappen 2026", "dynamisch energiecontract", "
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is een dynamisch energiecontract?"
     a: "Bij een dynamisch contract betaal je elk uur een andere prijs voor elektriciteit — de zogenaamde spotprijs op de Europese energiemarkt (EPEX). Die prijs wisselt per uur: overdag bij veel wind- of zonne-energie kan de prijs dalen naar 0 of zelfs negatief worden; op koude, windstille avonden piekt hij. Een vaste leverancier zoals Vattenfall of Eneco rekent een vaste prijs per kWh, ongeacht het uur. Met een dynamisch contract profiteer je van goedkope uren."

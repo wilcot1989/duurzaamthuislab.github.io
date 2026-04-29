@@ -9,7 +9,7 @@ keywords: ["agri-PV tuin", "agrivoltaics particulier", "zonnepanelen combineren 
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is agri-PV en kan ik het in mijn tuin toepassen?"
     a: "Agri-PV (agrivoltaïca) combineert zonnepaneel-installaties met landbouw of tuinbouw op dezelfde grond. Op particuliere schaal betekent dit: zonnepanelen op verhoogde constructies boven een moestuin of grasland, zodat zowel gewassen/dieren als zonnestroom kunnen profiteren. Het is technisch haalbaar voor grotere tuinen (>100 m²), maar vereist een specifieke constructie en planning."

@@ -9,7 +9,7 @@ keywords: ["zonnepanelen zelf installeren 2026", "zonnepanelen installateur kost
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Mag je zonnepanelen in Nederland zelf installeren zonder installateur?"
     a: "Panelen op het dak plaatsen mag je zelf doen. Maar het aansluiten op het elektriciteitsnet (de omvormer op de meterkast aansluiten) valt onder de NEN1010-norm en moet in de meeste gevallen door een erkende elektricien worden uitgevoerd. Doe je dat zelf zonder de vereiste diploma's, kan je verzekeraar bij schade weigeren uit te keren."

@@ -9,7 +9,7 @@ keywords: ["energiekosten besparen", "energierekening verlagen", "energie bespar
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Hoeveel kan ik gemiddeld besparen op mijn energierekening?"
     a: "Een gemiddeld huishouden geeft €2.400-€3.200 per jaar uit aan energie. Met een combinatie van gedragsverandering, kleine ingrepen en grote maatregelen is besparing van 30-60% realistisch — dat is €720-€1.920 per jaar."

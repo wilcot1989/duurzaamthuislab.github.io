@@ -9,7 +9,7 @@ keywords: ["boiler vs doorstroomgeiser", "warmwater zonder gas", "warmtepompboil
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is goedkoper: een elektrische boiler of een doorstroomgeiser?"
     a: "In gebruik is een doorstroomgeiser goedkoper dan een elektrische weerstandsboiler, omdat je alleen water verwarmt dat je daadwerkelijk gebruikt. Een boiler houdt 150-200 liter warm — ook als je de hele dag van huis bent. Bij normaal gebruik (2-4 personen) is een doorstroomgeiser €40 tot €80 per jaar goedkoper dan een boiler. Een warmtepompboiler is het goedkoopst in gebruik: €60 tot €120 per jaar voor een gezin van 4."

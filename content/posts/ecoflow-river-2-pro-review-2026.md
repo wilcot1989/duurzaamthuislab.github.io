@@ -9,7 +9,7 @@ keywords: ["ecoflow river 2 pro review", "river 2 pro test", "ecoflow river 2 pr
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1650866155994-3bd730b5daf9?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
 faq:
   - q: "Hoeveel kost de EcoFlow River 2 Pro?"
     a: "De EcoFlow River 2 Pro heeft een adviesprijs van circa €400-470. Tijdens acties is het toestel regelmatig verkrijgbaar voor €350-400. Hiermee is het een van de meest betaalbare powerstations met 768 Wh capaciteit op de markt."

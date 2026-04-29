@@ -9,7 +9,7 @@ keywords: ["dakraam vs dakkapel isolatie 2026", "dakraam warmteverlies", "dakkap
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1661368402338-189156f43012?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
 faq:
   - q: "Hoeveel warmte verlies je via een dakraam vergeleken met een dakkapel?"
     a: "Een dakraam met HR++-glas (U-waarde 1,1 W/m²K) verliest bij -5°C buiten en +20°C binnen circa 28 W/m². Een goed geïsoleerde dakkapel met triple glas (U-waarde 0,7 W/m²K) verliest circa 18 W/m². Maar een dakkapel heeft ook wanden en een dak, die bij slechte isolatie meer verliezen kunnen veroorzaken dan het raam zelf."

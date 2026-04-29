@@ -9,7 +9,7 @@ keywords: ["Daikin Altherma 3 review", "Daikin Altherma 3 ervaringen", "Daikin w
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Wat kost een Daikin Altherma 3 in 2026?"
     a: "De adviesprijs van een Daikin Altherma 3 H/M lucht-water warmtepomp ligt op €8.000 tot €13.000 inclusief 0% btw, exclusief montage. Montagekosten liggen doorgaans op €1.200 tot €2.000. Inclusief ISDE-subsidie (€2.500 tot €4.500 afhankelijk van vermogen) betaal je netto €7.000 tot €11.500 all-in."

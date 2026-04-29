@@ -9,7 +9,7 @@ keywords: ["beste warmtepomp rijtjeshuis", "warmtepomp rijtjeshuis buren", "warm
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Mag ik een warmtepomp plaatsen als mijn buren op 1 meter afstand wonen?"
     a: "Dat hangt af van het geluidsniveau van de buitenunit. Gemeente-verordeningen eisen doorgaans dat het geluid op de perceelgrens maximaal 40–45 dB(A) overdag bedraagt (BAL en Activiteitenbesluit). De meeste moderne lucht-water warmtepompen produceren op 5 meter afstand 40–50 dB(A). Laat de leverancier een geluidssimulatie maken voor jouw situatie."

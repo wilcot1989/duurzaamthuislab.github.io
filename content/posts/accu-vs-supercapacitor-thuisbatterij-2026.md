@@ -9,7 +9,7 @@ keywords: ["supercapacitor thuisbatterij 2026", "lithium vs supercapacitor wonin
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 faq:
   - q: "Zijn supercapacitors beter dan lithium-batterijen voor thuis?"
     a: "Nee, voor thuisopslag zijn supercapacitors in 2026 geen beter alternatief. Supercapacitors hebben uitstekende snelle laad-/ontlaadprestaties maar een energiedichtheid die 10-50 keer lager ligt dan lithium. Een bruikbare thuisbatterij van 10 kWh zou in supercapacitor-technologie onpraktisch groot en duur worden."

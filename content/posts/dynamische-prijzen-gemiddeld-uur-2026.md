@@ -9,7 +9,7 @@ keywords: ["dynamische stroomprijzen uur 2026", "EPEX spotprijs gemiddeld", "goe
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Wat zijn de gemiddeld goedkoopste uren op de EPEX-spotmarkt in 2026?"
     a: "Gemiddeld zijn de goedkoopste uren tussen 01:00 en 06:00 's nachts en rond 13:00-15:00 op zonnige dagen wanneer er veel zonne-energie op het net staat. In die uren zijn spotprijzen regelmatig onder de 3 ct/kWh, soms zelfs negatief."

@@ -9,7 +9,7 @@ keywords: ["thuisbatterij zonder zonnepanelen", "batterij dynamisch contract 202
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 faq:
   - q: "Heeft een thuisbatterij zonder zonnepanelen zin?"
     a: "Ja, mits je een dynamisch energiecontract hebt. Door 's nachts of op spotmarkt-laagtepunten goedkoop te laden en te ontladen op dure uren, bespaar je €200-€600 per jaar afhankelijk van je verbruik en de marktvariatie. Zonder dynamisch contract is de besparing minimaal."

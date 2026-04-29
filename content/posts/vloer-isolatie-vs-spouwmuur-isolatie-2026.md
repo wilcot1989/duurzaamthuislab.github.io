@@ -9,7 +9,7 @@ keywords: ["vloerisolatie vs spouwmuurisolatie", "isolatie rendement", "beste is
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1661368402338-189156f43012?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is goedkoper: vloer- of spouwmuurisolatie?"
     a: "Spouwmuurisolatie is doorgaans goedkoper: €800-€1.500 voor een gemiddelde tussenwoning tegenover €1.000-€2.500 voor vloerisolatie via de kruipruimte. Beide hebben echter vergelijkbare terugverdientijden."

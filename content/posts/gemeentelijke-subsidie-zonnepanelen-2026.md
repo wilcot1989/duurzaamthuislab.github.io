@@ -9,7 +9,7 @@ keywords: ["gemeentelijke subsidie zonnepanelen 2026", "subsidie zonnepanelen ge
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Welke nationale subsidie is er nog voor zonnepanelen in 2026?"
     a: "Op nationaal niveau zijn er in 2026 geen directe subsidies meer voor particulieren die zonnepanelen aanschaffen. De salderingsregeling loopt door tot 2027, maar die is geen subsidie — het is een verrekening van teruggeleverde stroom. De BTW op zonnepanelen is 0% voor particulieren (geïntroduceerd in 2023 en verlengd). Verder: geen ISDE voor zonnepanelen, geen nationale aanschafsubsidie."

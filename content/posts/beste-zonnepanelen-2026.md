@@ -9,7 +9,7 @@ keywords: ["beste zonnepanelen 2026", "zonnepanelen vergelijking", "zonnepanelen
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Wat kosten zonnepanelen in 2026?"
     a: "Zonnepanelen kosten in 2026 gemiddeld €250-€500 per paneel inclusief installatie, afhankelijk van het merk en vermogen. Een complete installatie van 10 panelen (4.000 Wp) kost €2.500-€5.000 inclusief omvormer en installatie. Premiummerken als SunPower zijn duurder maar leveren meer op."

@@ -9,7 +9,7 @@ keywords: ["beste thuisbatterij eengezinswoning", "thuisbatterij 4 personen", "t
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 faq:
   - q: "Hoeveel kWh heeft een thuisbatterij voor een eengezinswoning nodig?"
     a: "Een 4-5 persoons huishouden verbruikt gemiddeld 3.500–4.500 kWh per jaar, ofwel 9–12 kWh per dag. Een batterij van 5–10 kWh kan 40–80% van de dagproductie opslaan. Voor de meeste gezinnen is 5 kWh een prima startpunt; pas bij een warmtepomp of laadpaal is 10 kWh zinvoller."

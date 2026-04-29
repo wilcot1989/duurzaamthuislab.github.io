@@ -9,7 +9,7 @@ keywords: ["saldering vs dynamisch", "dynamisch contract 2027", "dynamisch contr
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is het belangrijkste verschil tussen vast en dynamisch contract?"
     a: "Bij een vast contract betaal je een vast tarief per kWh, contractueel afgesproken voor 1-3 jaar. Bij dynamisch contract verandert het tarief per uur op basis van de groothandelsmarkt. In zonzomer-uren kunnen prijzen negatief zijn (jij krijgt geld voor afnemen), in piekuren 's avonds kunnen ze 4× hoger zijn dan een vast tarief."

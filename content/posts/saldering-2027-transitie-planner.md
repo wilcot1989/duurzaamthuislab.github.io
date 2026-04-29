@@ -9,7 +9,7 @@ keywords: ["saldering 2027 transitie", "saldering stopt wat nu", "saldering afbo
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Wanneer stopt de saldering precies en geldt er een uitzondering voor bestaande systemen?"
     a: "De salderingsregeling stopt per 1 januari 2027 voor iedereen tegelijk. Er is geen uitzondering voor mensen die al jaren saldeerden — het kabinet heeft dit expliciet bevestigd. Na die datum krijg je uitsluitend de terugleververgoeding van je energieleverancier, die in 2026 gemiddeld tussen 7 en 9 cent per kWh ligt."

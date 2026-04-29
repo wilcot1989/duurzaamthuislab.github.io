@@ -9,7 +9,7 @@ keywords: ["micro omvormer vs string omvormer 2026", "SolarEdge vs Enphase verge
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is het verschil tussen een micro-omvormer en een string-omvormer?"
     a: "Een string-omvormer zit centraal en converteert de DC-stroom van alle panelen samen naar AC. Een micro-omvormer zit per paneel en converteert per paneel individueel. Bij micro-omvormers heeft schaduw of vervuiling op één paneel geen invloed op de andere panelen."

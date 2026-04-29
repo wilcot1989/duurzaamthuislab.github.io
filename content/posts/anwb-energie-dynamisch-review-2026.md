@@ -9,7 +9,7 @@ keywords: ["anwb energie review", "anwb dynamisch", "anwb energie ervaringen", "
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is ANWB Energie Dynamisch?"
     a: "ANWB Energie biedt sinds 2024 een dynamisch energiecontract waarbij je per uur de actuele EPEX-marktprijs betaalt, plus een kleine marge en een servicegeld van €5,95/maand. ANWB voegt een 'vangnet' toe: extreme prijspieken (>€0,40/kWh) worden tot 1u afgevlakt om budget-shocks te voorkomen."

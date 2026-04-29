@@ -9,7 +9,7 @@ keywords: ["waterstof thuisinstallatie 2026", "waterstof thuis haalbaar", "water
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Kan ik in 2026 al waterstof thuis opslaan?"
     a: "Technisch gezien wel: er zijn kleine elektrolyseurs beschikbaar (o.a. LAVO-systeem uit Australië, Picea van HPS). Maar de prijs (€30.000-€50.000+ voor een compleet systeem), beperkingen op thuisopslag van waterstof en het gebrek aan gecertificeerde installateurs in Nederland maken het in 2026 onpraktisch voor de gemiddelde particulier."

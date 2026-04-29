@@ -9,7 +9,7 @@ keywords: ["beste zonnepanelen 2026 na saldering", "zonnepanelen na saldering", 
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Zijn zonnepanelen na 2027 nog zinvol?"
     a: "Ja, maar de rekensomme verandert. Na 2027 is elk kWh die je zelf verbruikt €0,25–€0,32 waard (vermeden afname), maar elk kWh die je teruglevert slechts €0,04–€0,10. De strategie verschuift van 'zoveel mogelijk terugleveren' naar 'zoveel mogelijk zelf verbruiken'. Dat doe je met een thuisbatterij, een dynamisch tarief of een energieslurpende apparaten overdag aanzetten."

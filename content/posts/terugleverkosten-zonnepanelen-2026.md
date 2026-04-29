@@ -9,7 +9,7 @@ keywords: ["terugleverkosten zonnepanelen", "terugleverkosten 2026", "teruglever
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Wat zijn terugleverkosten precies?"
     a: "Terugleverkosten zijn extra kosten die energieleveranciers in rekening brengen voor klanten met zonnepanelen. Ze worden gerechtvaardigd als compensatie voor het verlies dat de leverancier maakt op teruggeleverde stroom (negatieve marktprijzen, onbalans-kosten). De hoogte varieert van €5 tot €40 per maand afhankelijk van leverancier en hoeveelheid teruglevering."

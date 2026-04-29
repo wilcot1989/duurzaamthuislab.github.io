@@ -9,7 +9,7 @@ keywords: ["saldering calculator", "saldering 2027 berekenen", "saldering thuisb
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Hoe nauwkeurig is deze calculator?"
     a: "De calculator gebruikt de afbouw-percentages uit het concept-wetsvoorstel saldering 2027 (juli 2024 versie). De werkelijke afbouw kan afwijken — vooral als de Eerste Kamer wijzigingen voorstelt. Reken met deze cijfers als richtbedrag, niet als hard contract."

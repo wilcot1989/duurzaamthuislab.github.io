@@ -9,7 +9,7 @@ keywords: ["sessy radar algoritme 2026", "sessy software update 2026", "sessy th
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is Sessy Radar?"
     a: "Sessy Radar is het geïntegreerde optimalisatie-algoritme in de Sessy thuisbatterij. Het analyseert de EPEX day-ahead prijzen voor de komende 24–48 uur en bepaalt automatisch wanneer de batterij laadt (goedkope uren) en ontlaadt (dure uren). Je hoeft zelf niets in te stellen."

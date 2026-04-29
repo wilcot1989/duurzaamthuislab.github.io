@@ -9,7 +9,7 @@ keywords: ["zonnepaneel powerstation", "solar generator", "powerstation met zonn
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Hoeveel watt zonnepaneel heb ik nodig voor mijn powerstation?"
     a: "Als vuistregel wil je een zonnepaneel dat minimaal 15-20% van de batterijcapaciteit in watt levert. Voor een 1000Wh powerstation is een 200W paneel een goed startpunt; voor 2000Wh mik je op 350-400W."

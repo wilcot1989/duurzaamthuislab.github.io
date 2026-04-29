@@ -9,7 +9,7 @@ keywords: ["aansluitkosten zonnepanelen", "dakdoos kosten", "Liander aansluitkos
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Wat zijn de aansluitkosten voor zonnepanelen bij Liander?"
     a: "Bij Liander betaal je voor een standaard enkelfasige teruglevering niets extra als je aansluiting al voldoende capaciteit heeft. Bij een verzwaring (naar 3x25A of hoger) rekent Liander €300-€1.200 afhankelijk van de werkzaamheden. Grote installaties boven 800 Wp enkelfasig moeten verplicht 3-fase aansluiting hebben."

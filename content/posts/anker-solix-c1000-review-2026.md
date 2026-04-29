@@ -9,7 +9,7 @@ keywords: ["anker solix c1000 review", "anker powerstation review", "anker solix
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1650866155994-3bd730b5daf9?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
 faq:
   - q: "Is de Anker SOLIX C1000 het waard in 2026?"
     a: "Ja. De Anker SOLIX C1000 biedt 1056Wh capaciteit en 1800W continu vermogen in een compact en licht ontwerp. Met LiFePO4-technologie, een uitstekende app en snelle laadtijden is het een van de beste powerstations in de 1000Wh-klasse."

@@ -9,7 +9,7 @@ keywords: ["kierdichting buitendeur", "buitendeur tochtstrip", "brievenbus tocht
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1661368402338-189156f43012?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
 faq:
   - q: "Hoeveel energie verlies ik via kieren in de voordeur?"
     a: "Dat hangt af van de omvang van de kieren. Een kier van 2 mm rondom een voordeur van 200 × 90 cm is ruim 1.000 mm² doorsnede — dat staat gelijk aan een gat van circa 3 × 3 cm. Via zo'n opening verliest een gemiddeld huis 5 tot 15% van zijn warmte door ventilatie. Kieren in de buitendeur zijn verantwoordelijk voor een aanzienlijk deel hiervan, zeker bij een oudere voordeur."

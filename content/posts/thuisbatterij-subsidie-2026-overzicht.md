@@ -9,7 +9,7 @@ keywords: ["thuisbatterij subsidie 2026", "subsidie thuisbatterij flevoland", "s
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 faq:
   - q: "Is er een landelijke subsidie voor thuisbatterijen?"
     a: "Niet via ISDE in 2026. De ISDE (Investeringssubsidie duurzame energie) dekt zonneboilers, warmtepompen en pelletketels — maar nog geen thuisbatterijen. De overheid heeft aangekondigd dat dit per 2027 gaat veranderen, maar dat is nog niet zeker."

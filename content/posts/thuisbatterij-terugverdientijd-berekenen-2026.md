@@ -9,7 +9,7 @@ keywords: ["thuisbatterij terugverdientijd", "thuisbatterij rendabel", "terugver
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 faq:
   - q: "Hoe lang is de terugverdientijd van een thuisbatterij in 2026?"
     a: "De terugverdientijd van een thuisbatterij ligt in 2026 gemiddeld tussen de 7 en 13 jaar, afhankelijk van je energieverbruik, zonnepanelen-opbrengst, energieprijzen en of je subsidie ontvangt. Na afbouw van de salderingsregeling (2027-2031) wordt de terugverdientijd aanzienlijk korter."

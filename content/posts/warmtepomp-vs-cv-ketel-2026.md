@@ -9,7 +9,7 @@ keywords: ["warmtepomp vs CV-ketel", "warmtepomp kosten", "CV-ketel vervangen", 
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Is een warmtepomp goedkoper dan een CV-ketel?"
     a: "Een warmtepomp is duurder in aanschaf (€4.000-€15.000 vs €1.500-€2.500 voor een CV-ketel), maar de gebruikskosten zijn 40-70% lager. Over 15 jaar gerekend is een warmtepomp vrijwel altijd goedkoper, vooral met de ISDE-subsidie van €3.000-€5.500 en stijgende gasprijzen."

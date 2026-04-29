@@ -9,7 +9,7 @@ keywords: ["frank energie review", "frank energie ervaringen", "frank energie ap
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is Frank Energie?"
     a: "Frank Energie is een Nederlandse energieleverancier opgericht in 2018 door Frank van Boekel. Ze leveren stroom en gas op een dynamisch contract — je betaalt elk uur de actuele EPEX-marktprijs zonder opslag, plus een vast servicegeld van €5,00/maand. Eén van de pioniers van dynamische tarieven in Nederland."

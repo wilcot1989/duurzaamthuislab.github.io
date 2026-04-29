@@ -9,7 +9,7 @@ keywords: ["bluetti ac200max review", "bluetti review", "ac200max test", "bluett
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1650866155994-3bd730b5daf9?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
 faq:
   - q: "Is de Bluetti AC200MAX geschikt als noodstroomvoorziening thuis?"
     a: "Ja, met 2048Wh capaciteit en 2200W continu vermogen kun je bij een stroomstoring je koelkast, verlichting, wifi-router en telefoons urenlang van stroom voorzien. Breidt je het systeem uit met B300-batterijen, dan houd je het zelfs een hele dag vol."

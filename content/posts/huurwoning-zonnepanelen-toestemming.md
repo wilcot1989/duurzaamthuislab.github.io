@@ -9,7 +9,7 @@ keywords: ["zonnepanelen huurwoning", "huurder zonnepanelen plaatsen", "toestemm
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Mag ik als huurder zonnepanelen plaatsen zonder toestemming van de verhuurder?"
     a: "Nee. Voor vaste installaties op het dak of gevel heb je altijd schriftelijke toestemming van de verhuurder nodig. Voor draagbare balkonpanelen (plug-in) is het juridisch grijs: ze zijn niet vast bevestigd aan de woning, maar een verhuurder kan ze toch verbieden. Vraag altijd toestemming vooraf om conflicten bij vertrek te voorkomen."

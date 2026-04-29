@@ -9,7 +9,7 @@ keywords: ["beste dynamisch contract met zonnepanelen", "dynamisch contract zonn
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Welk dynamisch contract is het beste voor zonnepaneel-bezitters?"
     a: "Frank Energie voor de gemiddelde gebruiker (laagste totaalkosten). Tibber voor EV-bezitters of smart-home liefhebbers (beste automation). ANWB Dynamisch voor mensen die prijspiekvrees hebben (prijsdemping vangnet). Voor wie geen marge bovenop EPEX wil betalen: Frank of Tibber."

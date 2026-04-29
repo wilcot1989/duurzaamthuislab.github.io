@@ -9,7 +9,7 @@ keywords: ["powerstation camper", "powerstation vanlife", "accu camperbus", "bes
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1650866155994-3bd730b5daf9?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
 faq:
   - q: "Hoeveel Wh powerstation heb ik nodig voor vanlife?"
     a: "Voor basaal vanlife-gebruik (telefoon, laptop, verlichting, kleine koelbox) is 500-1000 Wh voldoende. Voor uitgebreider gebruik (koelkast, koken, haardroger) heb je minimaal 1500-2000 Wh nodig. Full-time vanlifers met hoog verbruik kiezen vaak voor 2000-4000 Wh."

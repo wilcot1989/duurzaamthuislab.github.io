@@ -9,7 +9,7 @@ keywords: ["tesla powerwall review", "tesla thuisbatterij nederland", "tesla pow
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 faq:
   - q: "Wat kost een Tesla Powerwall 3 in Nederland inclusief installatie?"
     a: "De Tesla Powerwall 3 kost in Nederland circa €8.500 - €9.500 voor het apparaat zelf. Inclusief installatie, bekabeling en configuratie moet je rekenen op €10.000 - €13.000 voor een compleet systeem."

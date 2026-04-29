@@ -9,7 +9,7 @@ keywords: ["inductie vs gas koken", "inductiekookplaat kosten", "overstappen ind
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Is inductie koken goedkoper dan gas?"
     a: "Ja, inductie koken is goedkoper. Energiekosten per jaar: gas koken €80-€120, inductie koken €40-€70. Maar de echte besparing zit in het afsluiten van je gasaansluiting: dat bespaart €200-€250 per jaar aan vastrecht. Totale besparing van gas naar inductie (bij volledig gasloos): €250-€350/jaar."

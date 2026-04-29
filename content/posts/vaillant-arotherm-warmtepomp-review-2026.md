@@ -9,7 +9,7 @@ keywords: ["Vaillant aroTHERM plus review", "Vaillant aroTHERM plus ervaringen",
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Wat kost een Vaillant aroTHERM plus warmtepomp in 2026?"
     a: "Een Vaillant aroTHERM plus kost €9.500 tot €14.000 inclusief 0% btw, exclusief montage. De prijs hangt af van het vermogen (3,5 kW tot 12 kW) en de binnenunit die erbij geleverd wordt. Montage kost doorgaans €1.500 tot €3.000 extra, afhankelijk van de complexiteit. Na ISDE-subsidie (€2.500 tot €4.500) kom je netto op €8.500 tot €12.500 inclusief alles."

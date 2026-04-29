@@ -9,7 +9,7 @@ keywords: ["HR-ketel vervangen 2026", "HR-ketel of warmtepomp", "cv-ketel vervan
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Mag ik in 2026 nog een nieuwe HR-ketel kopen?"
     a: "Ja, een nieuwe HR-ketel is in 2026 nog gewoon te koop en te installeren. Er is geen verbod op nieuwe HR-ketels in 2026. Wel kondigt de EU aan dat gasketels voor nieuwbouw vanaf 2029-2033 niet meer als primair verwarmingssysteem mogen worden geplaatst. Voor bestaande bouw zijn de exacte regels nog in discussie."

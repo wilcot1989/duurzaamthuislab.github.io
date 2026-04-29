@@ -9,7 +9,7 @@ keywords: ["oost-west zonnepanelen", "zonnepanelen oriëntatie", "zuidsysteem vs
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Levert een oost-west systeem minder op dan een zuidsysteem?"
     a: "Een oost-west systeem levert 80-85% van de opbrengst van een optimaal zuidsysteem. Maar door de betere spreiding over de dag (minder piekoverschot) is het zelfverbruikspercentage hoger: 45-55% vs 25-35% bij zuidsysteem zonder batterij."

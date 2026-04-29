@@ -9,7 +9,7 @@ keywords: ["beste energiemonitor", "P1 meter vergelijking", "HomeWizard P1", "en
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is een P1-meter / energiemonitor?"
     a: "Een P1-meter (of energiemonitor) sluit je aan op de P1-poort van je slimme meter. Het leest real-time je stroom- en gasverbruik en toont dit in een app op je telefoon. Zo zie je exact hoeveel stroom en gas je verbruikt, wat het kost, en welke apparaten de grootste verbruikers zijn."

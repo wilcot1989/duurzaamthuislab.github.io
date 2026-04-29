@@ -9,7 +9,7 @@ keywords: ["monoblock warmtepomp", "split warmtepomp verschil", "warmtepomp mono
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is het verschil tussen een monoblock en een split-warmtepomp?"
     a: "Bij een monoblock-warmtepomp zit de compressor en de warmtewisselaar volledig in de buitenunit. Water stroomt van de buitenunit naar binnenshuis via gewone leidingen. Bij een split-systeem is de compressor in de buitenunit, maar de warmtewisselaar (refrigerant-naar-water) zit in de binnenunit. Het koudemiddel loopt dus tussen buiten- en binnenunit. Een monoblock heeft geen koudemiddelleiding naar binnenshuis."

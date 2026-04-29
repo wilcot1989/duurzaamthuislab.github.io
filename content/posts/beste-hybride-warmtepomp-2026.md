@@ -9,7 +9,7 @@ keywords: ["hybride warmtepomp", "beste hybride warmtepomp", "warmtepomp vergeli
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Wat kost een hybride warmtepomp inclusief installatie?"
     a: "Een hybride warmtepomp kost inclusief installatie gemiddeld €4.000-€7.000. De aanschafprijs ligt tussen €3.000-€5.500, installatiekosten bedragen €1.000-€2.000. Na aftrek van ISDE subsidie (circa €3.000) kom je uit op €1.000-€4.000 netto."

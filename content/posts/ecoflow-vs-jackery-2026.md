@@ -9,7 +9,7 @@ keywords: ["ecoflow vs jackery", "ecoflow of jackery", "powerstation vergelijkin
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1650866155994-3bd730b5daf9?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
 faq:
   - q: "Is EcoFlow beter dan Jackery?"
     a: "Beide merken zijn uitstekend. EcoFlow scoort beter op laadsnelheid en app-functionaliteit. Jackery blinkt uit in uitbreidbaarheid en maximaal vermogen. De beste keuze hangt af van je prioriteiten."

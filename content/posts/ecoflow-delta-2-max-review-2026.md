@@ -9,7 +9,7 @@ keywords: ["ecoflow delta 2 max review", "delta 2 max test", "ecoflow review", "
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1650866155994-3bd730b5daf9?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
 faq:
   - q: "Is de EcoFlow Delta 2 Max de moeite waard in 2026?"
     a: "Ja. Met 2048Wh capaciteit, 2400W continu vermogen, razendsnel X-Stream opladen en een uitstekende app is de Delta 2 Max nog steeds een van de beste allround powerstations op de markt."

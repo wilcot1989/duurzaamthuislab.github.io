@@ -9,7 +9,7 @@ keywords: ["Huawei Luna vs Tesla Powerwall", "Sessy thuisbatterij", "beste thuis
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 faq:
   - q: "Welke thuisbatterij is het goedkoopst in 2026: Huawei Luna, Tesla Powerwall of Sessy?"
     a: "De Huawei Luna 2000 begint het goedkoopst per kWh (€570-€760/kWh), gevolgd door de Sessy (ca. €750/kWh). De Tesla Powerwall 3 is het duurst in aanschaf (€8.500-€9.500) maar heeft wel de grootste vaste capaciteit van 13,5 kWh."

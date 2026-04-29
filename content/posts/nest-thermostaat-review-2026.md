@@ -9,7 +9,7 @@ keywords: ["nest thermostaat review", "slimme thermostaat energiebesparing", "ta
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Hoeveel bespaar je echt met een slimme thermostaat?"
     a: "De claims van fabrikanten (Tado: 31%, Nest: 20-30%) zijn optimistisch. In de praktijk bespaar je realistisch 10-20% op je gasrekening als je al bewust met temperatuur omgaat, of 20-30% als je een niet-geprogrammeerde thermostaat had. In euro's: €80-€200 per jaar voor een gemiddeld huishouden."

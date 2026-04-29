@@ -9,7 +9,7 @@ keywords: ["tibber review", "tibber ervaringen", "tibber nederland", "tibber dyn
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is Tibber precies?"
     a: "Tibber is een Noorse energieleverancier die actief is in Nederland sinds 2021. Ze leveren stroom op een dynamisch contract — je betaalt elk uur de actuele marktprijs in plaats van een vast tarief. Tibber rekent geen marge bovenop de marktprijs maar verdient via een vast servicegeld van €5,99/maand."

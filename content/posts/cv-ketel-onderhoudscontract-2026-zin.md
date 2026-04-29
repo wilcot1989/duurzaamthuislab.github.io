@@ -9,7 +9,7 @@ keywords: ["cv-ketel onderhoudscontract 2026", "cv-ketel onderhoud kosten", "ser
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Hoe vaak moet een cv-ketel worden onderhouden?"
     a: "Een cv-ketel moet minimaal eens per twee jaar worden onderhouden, en bij voorkeur jaarlijks. De fabrikant schrijft dit doorgaans voor om de garantie te behouden. Bij jaarlijks onderhoud wordt de brander gereinigd, de verbrandingslucht gecontroleerd en de waterdruk gecheckt. Dat verlengt de levensduur en voorkomt storingen."

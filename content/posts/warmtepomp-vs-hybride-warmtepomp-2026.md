@@ -9,7 +9,7 @@ keywords: ["warmtepomp vs hybride warmtepomp", "full electric warmtepomp vs hybr
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is het verschil tussen een warmtepomp en een hybride warmtepomp?"
     a: "Een full-electric warmtepomp verwarmt je woning volledig zonder gas. Een hybride warmtepomp combineert een warmtepomp met je bestaande cv-ketel: de warmtepomp werkt bij milde temperaturen, de ketel neemt het over bij vriesweer. De hybride variant is minder efficiënt maar goedkoper en geschikter voor minder goed geïsoleerde woningen."

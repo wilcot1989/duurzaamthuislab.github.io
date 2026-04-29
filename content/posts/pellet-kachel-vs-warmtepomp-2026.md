@@ -9,7 +9,7 @@ keywords: ["pelletkachel vs warmtepomp 2026", "pelletkachel rendabel", "houtstoo
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
 faq:
   - q: "Is een pelletkachel nog legaal in 2026 in Nederland?"
     a: "Ja, pelletkachels zijn in 2026 nog legaal in Nederland. Er gelden wel emissie-eisen (Ecodesign 2022 certificering verplicht) en lokale gemeenten kunnen stookverboden instellen bij slechte luchtkwaliteit. Er is geen landelijk verbod op pelletkachels."

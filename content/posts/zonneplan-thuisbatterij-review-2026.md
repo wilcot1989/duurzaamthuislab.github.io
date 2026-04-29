@@ -9,7 +9,7 @@ keywords: ["zonneplan review", "zonneplan thuisbatterij", "zonneplan lease", "zo
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1589276534126-adef63a95e05?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 faq:
   - q: "Wat is Zonneplan?"
     a: "Zonneplan is een Nederlands energie-abonnement-bedrijf opgericht in 2019. Ze verkopen of leasen zonnepanelen, thuisbatterijen, laadpalen en hebben een eigen energiecontract met dynamische tarieven. Hun kracht: alle componenten in één pakket, met één abonnement en één app."

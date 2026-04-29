@@ -9,7 +9,7 @@ keywords: ["laadpaal thuis kosten", "laadpaal subsidie 2026", "beste laadpaal th
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Hoeveel kost een laadpaal thuis?"
     a: "Een thuislaadpaal kost €800-€2.500 inclusief installatie. De laadpaal zelf kost €500-€1.500 en de installatie €300-€1.000 (afhankelijk van afstand meterkast tot laadpunt en grondwerk). Met subsidie (tot €600) betaal je effectief €200-€1.900."

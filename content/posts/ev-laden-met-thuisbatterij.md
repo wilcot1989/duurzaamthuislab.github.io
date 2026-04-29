@@ -9,7 +9,7 @@ keywords: ["EV laden met thuisbatterij", "elektrische auto thuisbatterij combina
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1671785253964-bdb43087ed99?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1671785253964-bdb43087ed99&w=1200&output=webp&q=70"
 faq:
   - q: "Kan ik mijn elektrische auto laden via mijn thuisbatterij?"
     a: "Ja, technisch kan dat. Je thuisbatterij laadt overdag met zonne-energie en 's avonds laad je je auto via de thuisbatterij of rechtstreeks uit het net. Met bidirectionele technologie (V2H) kun je de auto-accu ook als thuisbatterij gebruiken."

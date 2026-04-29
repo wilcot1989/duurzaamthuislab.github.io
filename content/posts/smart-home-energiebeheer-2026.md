@@ -9,7 +9,7 @@ keywords: ["smart home energiebeheer", "slimme thermostaat", "energiebesparing d
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
+featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 faq:
   - q: "Hoeveel bespaar je met smart home energiebeheer?"
     a: "Met een slimme thermostaat bespaar je 15-20% op verwarming (€200-€400/jaar). Slim laden van een EV bespaart €200-€500/jaar. Energiemonitoring + gedragsverandering bespaart nog eens 5-10%. Totaal kun je met een volledig slim systeem 20-30% besparen op je energierekening."
