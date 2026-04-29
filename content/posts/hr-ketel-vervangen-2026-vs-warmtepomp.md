@@ -1,35 +1,47 @@
 ---
-title: "HR-ketel vervangen in 2026: warmtepomp"
-date: 2026-05-28T08:00:00+02:00
-lastmod: 2026-05-28T08:00:00+02:00
-description: "Je HR-ketel is aan vervanging toe. Wat is slim in 2026: een hybride warmtepomp, all-electric of toch een nieuwe HR-ketel? Eerlijke afweging met cijfers en."
-categories: ["warmtepompen"]
-tags: ["HR-ketel vervangen", "warmtepomp", "hybride warmtepomp", "cv-ketel 2026", "ISDE subsidie", "verduurzaming"]
-keywords: ["HR-ketel vervangen 2026", "HR-ketel of warmtepomp", "cv-ketel vervangen warmtepomp", "nieuwe HR-ketel of hybride"]
+title: 'HR-ketel vervangen in 2026: warmtepomp'
+date: 2026-05-28 08:00:00+02:00
+lastmod: 2026-05-28 08:00:00+02:00
+description: 'Je HR-ketel is aan vervanging toe. Wat is slim in 2026: een hybride warmtepomp, all-electric of toch een nieuwe HR-ketel? Eerlijke afweging met cijfers en.'
+categories:
+- warmtepompen
+tags:
+- HR-ketel vervangen
+- warmtepomp
+- hybride warmtepomp
+- cv-ketel 2026
+- ISDE subsidie
+- verduurzaming
+keywords:
+- HR-ketel vervangen 2026
+- HR-ketel of warmtepomp
+- cv-ketel vervangen warmtepomp
+- nieuwe HR-ketel of hybride
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Mag ik in 2026 nog een nieuwe HR-ketel kopen?"
-    a: "Ja, een nieuwe HR-ketel is in 2026 nog gewoon te koop en te installeren. Er is geen verbod op nieuwe HR-ketels in 2026. Wel kondigt de EU aan dat gasketels voor nieuwbouw vanaf 2029-2033 niet meer als primair verwarmingssysteem mogen worden geplaatst. Voor bestaande bouw zijn de exacte regels nog in discussie."
-  - q: "Wat kost een nieuwe HR-ketel inclusief installatie in 2026?"
-    a: "Een nieuwe HR-ketel kost €1.500-€3.500 inclusief installatie, afhankelijk van het merk en de situatie. Merken als Intergas, Remeha, Vaillant en Bosch liggen rond €800-€1.800 voor de ketel zelf; arbeidskosten zijn €400-€800."
-  - q: "Wanneer is een hybride warmtepomp slim bij vervanging van een HR-ketel?"
-    a: "Als je HR-ketel kapot is en je ook de stap naar verduurzaming wilt maken, is een hybride warmtepomp ideaal. Je vervangt de kapotte ketel én vermindert direct 40-60% van je gasverbruik. Na ISDE-subsidie van ~€2.500 is de meerprijs ten opzichte van een nieuwe HR-ketel €1.500-€2.500."
-  - q: "Hoe lang gaat een HR-ketel mee?"
-    a: "Een goed onderhouden HR-ketel gaat 15-20 jaar mee. Als je ketel 12-15 jaar oud is en reparatieproblemen vertoont, is vervanging financieel verstandiger dan repareren (reparatiekosten €300-€800 vs. levensduurwinst van 2-4 jaar)."
-  - q: "Is er subsidie voor een nieuwe HR-ketel?"
-    a: "Nee, er is geen subsidie voor een nieuwe (stand-alone) HR-ketel. De ISDE-subsidie geldt alleen voor warmtepompen, zonneboilers en andere hernieuwbare energiesystemen. Dit is bewust beleid om de transitie naar gasvrij verwarmen te stimuleren."
-  - q: "Wat is een hybride warmtepomp en hoe werkt die samen met de bestaande ketel?"
-    a: "Een hybride warmtepomp is een compact buitenunit die warmte uit de lucht haalt en je woning verwarmt. Bij milde temperaturen (boven 0°C) doet de warmtepomp al het werk. Bij vriesweer neemt de cv-ketel automatisch over. Een slim regelalgoritme kiest altijd de goedkoopste energiebron."
+- q: Mag ik in 2026 nog een nieuwe HR-ketel kopen?
+  a: Ja, een nieuwe HR-ketel is in 2026 nog gewoon te koop en te installeren. Er is geen verbod op nieuwe HR-ketels in 2026. Wel kondigt de EU aan dat gasketels voor nieuwbouw vanaf 2029-2033 niet meer als primair verwarmingssysteem mogen worden geplaatst. Voor bestaande bouw zijn de exacte regels nog in discussie.
+- q: Wat kost een nieuwe HR-ketel inclusief installatie in 2026?
+  a: Een nieuwe HR-ketel kost €1.500-€3.500 inclusief installatie, afhankelijk van het merk en de situatie. Merken als Intergas, Remeha, Vaillant en Bosch liggen rond €800-€1.800 voor de ketel zelf; arbeidskosten zijn €400-€800.
+- q: Wanneer is een hybride warmtepomp slim bij vervanging van een HR-ketel?
+  a: Als je HR-ketel kapot is en je ook de stap naar verduurzaming wilt maken, is een hybride warmtepomp ideaal. Je vervangt de kapotte ketel én vermindert direct 40-60% van je gasverbruik. Na ISDE-subsidie van ~€2.500 is de meerprijs ten opzichte van een nieuwe HR-ketel €1.500-€2.500.
+- q: Hoe lang gaat een HR-ketel mee?
+  a: Een goed onderhouden HR-ketel gaat 15-20 jaar mee. Als je ketel 12-15 jaar oud is en reparatieproblemen vertoont, is vervanging financieel verstandiger dan repareren (reparatiekosten €300-€800 vs. levensduurwinst van 2-4 jaar).
+- q: Is er subsidie voor een nieuwe HR-ketel?
+  a: Nee, er is geen subsidie voor een nieuwe (stand-alone) HR-ketel. De ISDE-subsidie geldt alleen voor warmtepompen, zonneboilers en andere hernieuwbare energiesystemen. Dit is bewust beleid om de transitie naar gasvrij verwarmen te stimuleren.
+- q: Wat is een hybride warmtepomp en hoe werkt die samen met de bestaande ketel?
+  a: Een hybride warmtepomp is een compact buitenunit die warmte uit de lucht haalt en je woning verwarmt. Bij milde temperaturen (boven 0°C) doet de warmtepomp al het werk. Bij vriesweer neemt de cv-ketel automatisch over. Een slim regelalgoritme kiest altijd de goedkoopste energiebron.
 products:
-  - name: "Atag warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "op aanvraag"
-  - name: "Quatt hybride warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/quatt"
-    price: "3500"
+- name: Atag warmtepomp
+  url: https://go.duurzaamthuislab.nl/atag
+  price: op aanvraag
+- name: Quatt hybride warmtepomp
+  url: https://go.duurzaamthuislab.nl/quatt
+  price: '3500'
+schema_type: Article
 ---
 
 Vorig jaar stond ik bij mijn buurvrouw in de keuken terwijl een monteur haar 17 jaar oude Remeha Avanta Plus bekeek. Het verdict: de warmtewisselaar was kapot. Reparatie: €620. Nieuwe ketel: €2.100 inclusief installatie. Of een hybride warmtepomp: €5.400, maar na ISDE-subsidie €2.900.

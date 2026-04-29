@@ -1,32 +1,43 @@
 ---
-title: "Isolatie Subsidie Nederland 2026: Alle Regelingen en"
-date: 2026-05-27T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Compleet overzicht van alle isolatiesubsidies in 2026. ISDE, gemeentelijke subsidies, energiebespaarlening en subsidie per isolatiemaatregel."
-categories: ["isolatie"]
-tags: ["isolatie subsidie", "ISDE", "spouwmuurisolatie", "dakisolatie", "vloerisolatie"]
-keywords: ["isolatie subsidie 2026", "ISDE subsidie isolatie", "subsidie spouwmuurisolatie", "isolatie subsidie aanvragen"]
+title: 'Isolatie Subsidie Nederland 2026: Alle Regelingen en'
+date: 2026-05-27 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Compleet overzicht van alle isolatiesubsidies in 2026. ISDE, gemeentelijke subsidies, energiebespaarlening en subsidie per isolatiemaatregel.
+categories:
+- isolatie
+tags:
+- isolatie subsidie
+- ISDE
+- spouwmuurisolatie
+- dakisolatie
+- vloerisolatie
+keywords:
+- isolatie subsidie 2026
+- ISDE subsidie isolatie
+- subsidie spouwmuurisolatie
+- isolatie subsidie aanvragen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
-  - q: "Welke isolatiesubsidies zijn er in 2026?"
-    a: "De belangrijkste subsidie is de ISDE (Investeringssubsidie Duurzame Energie): €900-€3.800 per isolatiemaatregel afhankelijk van oppervlakte en Rc-waarde. Daarnaast zijn er gemeentelijke subsidies (€500-€2.500), de Energiebespaarlening (2,6% rente), en soms provinciale regelingen. Je kunt meerdere subsidies combineren."
-  - q: "Hoeveel ISDE subsidie krijg ik voor isolatie?"
-    a: "ISDE-bedragen in 2026: spouwmuurisolatie €900-€2.400, dakisolatie €1.200-€3.800, vloerisolatie €700-€1.800, gevelisolatie €1.500-€3.800, HR++ glas €95-€145 per m². De exacte hoogte hangt af van het geïsoleerde oppervlak en de behaalde Rc-waarde."
-  - q: "Kan ik isolatiesubsidie combineren met andere subsidies?"
-    a: "Ja, je kunt ISDE combineren met gemeentelijke subsidies en de Energiebespaarlening. Let op: bij sommige gemeentelijke regelingen wordt de ISDE verrekend. Combinatie met ISDE voor warmtepomp geeft een extra bonus van €500-€1.000 bovenop de individuele bedragen."
-  - q: "Hoe vraag ik ISDE subsidie aan voor isolatie?"
-    a: "Vraag ISDE aan via mijn.rvo.nl ná uitvoering van de werkzaamheden. Je hebt nodig: factuur van een erkend installateur, foto's van de isolatie, bewijs van Rc-waarde (productdatablad), en je DigiD. Aanvragen kan tot 12 maanden na de factuurdatum. Uitbetaling binnen 13 weken."
-  - q: "Moet ik een erkend installateur gebruiken voor isolatiesubsidie?"
-    a: "Ja, voor ISDE moet de isolatie zijn uitgevoerd door een bij RVO geregistreerd bedrijf. Zelf isoleren komt niet in aanmerking voor ISDE. Voor gemeentelijke subsidies gelden soms andere regels — sommige gemeenten subsidiëren ook doe-het-zelf isolatie."
-  - q: "Welke isolatie heeft de beste terugverdientijd met subsidie?"
-    a: "Spouwmuurisolatie heeft de beste terugverdientijd: 2-4 jaar (kosten €1.500-€3.000 minus €900-€2.400 subsidie). Dakisolatie volgt met 4-7 jaar. Vloerisolatie: 4-6 jaar. HR++ glas heeft de langste terugverdientijd: 8-15 jaar. Met subsidie verbetert de terugverdientijd met 30-50%."
+- q: Welke isolatiesubsidies zijn er in 2026?
+  a: 'De belangrijkste subsidie is de ISDE (Investeringssubsidie Duurzame Energie): €900-€3.800 per isolatiemaatregel afhankelijk van oppervlakte en Rc-waarde. Daarnaast zijn er gemeentelijke subsidies (€500-€2.500), de Energiebespaarlening (2,6% rente), en soms provinciale regelingen. Je kunt meerdere subsidies combineren.'
+- q: Hoeveel ISDE subsidie krijg ik voor isolatie?
+  a: 'ISDE-bedragen in 2026: spouwmuurisolatie €900-€2.400, dakisolatie €1.200-€3.800, vloerisolatie €700-€1.800, gevelisolatie €1.500-€3.800, HR++ glas €95-€145 per m². De exacte hoogte hangt af van het geïsoleerde oppervlak en de behaalde Rc-waarde.'
+- q: Kan ik isolatiesubsidie combineren met andere subsidies?
+  a: 'Ja, je kunt ISDE combineren met gemeentelijke subsidies en de Energiebespaarlening. Let op: bij sommige gemeentelijke regelingen wordt de ISDE verrekend. Combinatie met ISDE voor warmtepomp geeft een extra bonus van €500-€1.000 bovenop de individuele bedragen.'
+- q: Hoe vraag ik ISDE subsidie aan voor isolatie?
+  a: 'Vraag ISDE aan via mijn.rvo.nl ná uitvoering van de werkzaamheden. Je hebt nodig: factuur van een erkend installateur, foto''s van de isolatie, bewijs van Rc-waarde (productdatablad), en je DigiD. Aanvragen kan tot 12 maanden na de factuurdatum. Uitbetaling binnen 13 weken.'
+- q: Moet ik een erkend installateur gebruiken voor isolatiesubsidie?
+  a: Ja, voor ISDE moet de isolatie zijn uitgevoerd door een bij RVO geregistreerd bedrijf. Zelf isoleren komt niet in aanmerking voor ISDE. Voor gemeentelijke subsidies gelden soms andere regels — sommige gemeenten subsidiëren ook doe-het-zelf isolatie.
+- q: Welke isolatie heeft de beste terugverdientijd met subsidie?
+  a: 'Spouwmuurisolatie heeft de beste terugverdientijd: 2-4 jaar (kosten €1.500-€3.000 minus €900-€2.400 subsidie). Dakisolatie volgt met 4-7 jaar. Vloerisolatie: 4-6 jaar. HR++ glas heeft de langste terugverdientijd: 8-15 jaar. Met subsidie verbetert de terugverdientijd met 30-50%.'
 products:
-  - name: "Vaillant aroTHERM plus"
-    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
-    price: "8000"
+- name: Vaillant aroTHERM plus
+  url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/
+  price: '8000'
+schema_type: Article
 ---
 
 Mijn vloerisolatie kostte €2.800, maar na de ISDE-subsidie van €1.200 en een gemeentelijke bijdrage van €500 betaalde ik effectief €1.100. Terugverdientijd: 2,5 jaar. Isolatie is verreweg de snelst rendabele verduurzamingsmaatregel die ik heb gedaan — en ik raad iedereen aan om eerst te isoleren voordat je een warmtepomp overweegt. Hier vind je alle subsidies van 2026 op een rij.

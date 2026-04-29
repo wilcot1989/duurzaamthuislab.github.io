@@ -1,36 +1,48 @@
 ---
-title: "VvE Zonnepanelen 2026: Stappenplan van Besluit tot Stroom"
-date: 2026-05-30T09:00:00+01:00
-lastmod: 2026-05-30T09:00:00+01:00
-description: "Zonnepanelen op je VvE-appartementencomplex? Dit stappenplan legt uit hoe je het VvE-besluit doorloopt, deelnemers betrekt en kosten eerlijk verdeelt."
-categories: ["zonne-energie"]
-tags: ["VvE zonnepanelen", "VvE besluit", "zonnepanelen appartement", "postcoderoos", "VvE verduurzaming"]
-keywords: ["VvE zonnepanelen", "zonnepanelen VvE stappenplan", "VvE besluit zonnepanelen 2026", "zonnepanelen appartementencomplex", "postcoderoos regeling"]
+title: 'VvE Zonnepanelen 2026: Stappenplan van Besluit tot Stroom'
+date: 2026-05-30 09:00:00+01:00
+lastmod: 2026-05-30 09:00:00+01:00
+description: Zonnepanelen op je VvE-appartementencomplex? Dit stappenplan legt uit hoe je het VvE-besluit doorloopt, deelnemers betrekt en kosten eerlijk verdeelt.
+categories:
+- zonne-energie
+tags:
+- VvE zonnepanelen
+- VvE besluit
+- zonnepanelen appartement
+- postcoderoos
+- VvE verduurzaming
+keywords:
+- VvE zonnepanelen
+- zonnepanelen VvE stappenplan
+- VvE besluit zonnepanelen 2026
+- zonnepanelen appartementencomplex
+- postcoderoos regeling
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel stemmen heb ik nodig in de VvE voor zonnepanelen?"
-    a: "Voor zonnepanelen als groot onderhoud of investering is doorgaans een gewone meerderheid (meer dan 50%) vereist. Sommige splitsingsaktes vereisen een twee-derde of drie-kwart meerderheid voor grote investeringen — controleer altijd je eigen akte."
-  - q: "Wat kost een zonnepanelenproject voor een VvE gemiddeld?"
-    a: "Voor een appartementencomplex van 20 tot 40 woningen rekent je met €60.000 tot €150.000 voor een compleet systeem van 60-120 panelen. Per deelnemende woning komt dit neer op €3.000 tot €5.000, exclusief subsidie."
-  - q: "Kan een VvE subsidie krijgen voor zonnepanelen?"
-    a: "Ja. Via de SDE++-regeling (voor grotere systemen boven 15 kWp) of via de postcoderoos/SCE-regeling. Sommige gemeenten hebben ook specifieke VvE-subsidies. De SDE++ geeft tot 15 jaar subsidie op de opbrengst."
-  - q: "Wat is de postcoderoos en hoe werkt dat voor een VvE?"
-    a: "De postcoderoos (officieel: Stimulering Coöperatieve Energieopwekking, SCE) is een regeling waarbij appartementbewoners korting op energiebelasting krijgen als de panelen geregistreerd staan bij een coöperatie in dezelfde postcodegebied. De jaarlijkse korting is circa €0,05/kWh."
-  - q: "Wie is eigenaar van de zonnepanelen op het dak?"
-    a: "Dat hangt af van de constructie. Bij een VvE-investering bezit de VvE gezamenlijk de panelen. Bij een huurconstructie (verhuurder financiert, bewoners kopen stroom af) is de installateur/verhuurder eigenaar. Elke constructie heeft andere fiscale en administratieve gevolgen."
-  - q: "Wat als ik als individueel lid niet mee wil doen aan het VvE-project?"
-    a: "Als de VvE besluit tot een investering via een geldig meerderheidsbesluit, ben je als lid in principe gebonden aan de beslissing en moet je meebetalen via de VvE-bijdrage. Niet-deelname aan de kosten is juridisch lastig als het een collectief besluit betreft."
-  - q: "Hoe lang duurt een VvE-zonnepanelenproject van idee tot installatie?"
-    a: "Reken op 6 tot 18 maanden. De besluitvorming (vergadering, offerte-aanvraag, tweede vergadering) duurt soms al een jaar. De fysieke installatie zelf is in 2-5 dagen klaar voor een gemiddeld complex."
-  - q: "Maakt Zonneplan ook VvE-projecten?"
-    a: "Ja, Zonneplan heeft een specifiek VvE-aanbod met collectieve inkoop, begeleiding bij vergaderingen en postcoderoos-registratie. Ze werken met een vast jaarlijks servicecontract waardoor je als VvE geen eigen onderhoud hoeft te regelen."
+- q: Hoeveel stemmen heb ik nodig in de VvE voor zonnepanelen?
+  a: Voor zonnepanelen als groot onderhoud of investering is doorgaans een gewone meerderheid (meer dan 50%) vereist. Sommige splitsingsaktes vereisen een twee-derde of drie-kwart meerderheid voor grote investeringen — controleer altijd je eigen akte.
+- q: Wat kost een zonnepanelenproject voor een VvE gemiddeld?
+  a: Voor een appartementencomplex van 20 tot 40 woningen rekent je met €60.000 tot €150.000 voor een compleet systeem van 60-120 panelen. Per deelnemende woning komt dit neer op €3.000 tot €5.000, exclusief subsidie.
+- q: Kan een VvE subsidie krijgen voor zonnepanelen?
+  a: Ja. Via de SDE++-regeling (voor grotere systemen boven 15 kWp) of via de postcoderoos/SCE-regeling. Sommige gemeenten hebben ook specifieke VvE-subsidies. De SDE++ geeft tot 15 jaar subsidie op de opbrengst.
+- q: Wat is de postcoderoos en hoe werkt dat voor een VvE?
+  a: 'De postcoderoos (officieel: Stimulering Coöperatieve Energieopwekking, SCE) is een regeling waarbij appartementbewoners korting op energiebelasting krijgen als de panelen geregistreerd staan bij een coöperatie in dezelfde postcodegebied. De jaarlijkse korting is circa €0,05/kWh.'
+- q: Wie is eigenaar van de zonnepanelen op het dak?
+  a: Dat hangt af van de constructie. Bij een VvE-investering bezit de VvE gezamenlijk de panelen. Bij een huurconstructie (verhuurder financiert, bewoners kopen stroom af) is de installateur/verhuurder eigenaar. Elke constructie heeft andere fiscale en administratieve gevolgen.
+- q: Wat als ik als individueel lid niet mee wil doen aan het VvE-project?
+  a: Als de VvE besluit tot een investering via een geldig meerderheidsbesluit, ben je als lid in principe gebonden aan de beslissing en moet je meebetalen via de VvE-bijdrage. Niet-deelname aan de kosten is juridisch lastig als het een collectief besluit betreft.
+- q: Hoe lang duurt een VvE-zonnepanelenproject van idee tot installatie?
+  a: Reken op 6 tot 18 maanden. De besluitvorming (vergadering, offerte-aanvraag, tweede vergadering) duurt soms al een jaar. De fysieke installatie zelf is in 2-5 dagen klaar voor een gemiddeld complex.
+- q: Maakt Zonneplan ook VvE-projecten?
+  a: Ja, Zonneplan heeft een specifiek VvE-aanbod met collectieve inkoop, begeleiding bij vergaderingen en postcoderoos-registratie. Ze werken met een vast jaarlijks servicecontract waardoor je als VvE geen eigen onderhoud hoeft te regelen.
 products:
-  - name: "Zonneplan VvE"
-    url: "https://go.duurzaamthuislab.nl/zonneplan"
-    price: "op aanvraag"
+- name: Zonneplan VvE
+  url: https://go.duurzaamthuislab.nl/zonneplan
+  price: op aanvraag
+schema_type: Article
 ---
 
 Ik heb de afgelopen twee jaar meegedaan aan het zonnepanelentraject van onze VvE. We hebben een flatgebouw met 32 appartementen, een groot plat dak, en — totdat we begonnen — geen enkel idee hoe je zoiets aanpakt. In dit artikel leg ik stap voor stap uit wat je kunt verwachten, wat het kost, en waar je tegenaan loopt. Want laten we eerlijk zijn: een VvE-besluit is nooit simpel.

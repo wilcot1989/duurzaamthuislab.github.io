@@ -1,51 +1,65 @@
 ---
-title: "Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken"
-date: 2026-05-08T08:00:00+02:00
-lastmod: 2026-05-08T08:00:00+02:00
-description: "Welke 10 kWh thuisbatterij past bij jouw huishouden? Eerlijke vergelijking van Sessy, Marstek, Zonneplan, Tesla, EcoFlow."
-categories: ["thuisbatterijen"]
-tags: ["thuisbatterij 10 kWh", "vergelijking", "Sessy", "Marstek", "Tesla Powerwall", "EcoFlow", "BYD"]
-keywords: ["beste thuisbatterij 10 kwh", "thuisbatterij 10 kwh vergelijken", "thuisbatterij 10 kwh prijs", "thuisbatterij 10 kwh kopen", "thuisbatterij 10 kwh beste koop"]
+title: 'Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken'
+date: 2026-05-08 08:00:00+02:00
+lastmod: 2026-05-08 08:00:00+02:00
+description: Welke 10 kWh thuisbatterij past bij jouw huishouden? Eerlijke vergelijking van Sessy, Marstek, Zonneplan, Tesla, EcoFlow.
+categories:
+- thuisbatterijen
+tags:
+- thuisbatterij 10 kWh
+- vergelijking
+- Sessy
+- Marstek
+- Tesla Powerwall
+- EcoFlow
+- BYD
+keywords:
+- beste thuisbatterij 10 kwh
+- thuisbatterij 10 kwh vergelijken
+- thuisbatterij 10 kwh prijs
+- thuisbatterij 10 kwh kopen
+- thuisbatterij 10 kwh beste koop
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Voor welk huishouden is 10 kWh de juiste maat?"
-    a: "10 kWh is ideaal voor huishoudens met 3.500-6.500 kWh jaarverbruik en zonnepanelen-overschot van 1.500-4.000 kWh per jaar. Te klein voor groot huis met warmtepomp + EV, te groot voor 1-persoonshuishouden zonder substantieel verbruik 's avonds."
-  - q: "Wat is de beste 10 kWh thuisbatterij in 2026?"
-    a: "Geen one-size-fits-all. Voor de gemiddelde Nederlander: Sessy (€5.995, beste service + automation). Voor prijs-bewust: Marstek Venus E (€2.679, beste waarde). Voor alles-van-één-partij: Zonneplan (€6.995). Voor maximale capaciteit + EV: Tesla Powerwall 3 (€9.500, 13,5 kWh)."
-  - q: "Hoe lang duurt de terugverdientijd?"
-    a: "Hangt af van prijs en gebruiksprofiel. Marstek (€2.679): 3-4 jaar. Sessy (€5.995): 7-9 jaar. Zonneplan koop (€6.995): 8-10 jaar. Tesla Powerwall (€9.500): 9-12 jaar. Met dynamisch contract terugverdientijd 1-2 jaar korter."
-  - q: "Welke heeft de beste backup-functie?"
-    a: "Tesla Powerwall 3: automatisch overschakelen, hele huis op batterij tot deze leeg is. Zonneplan: automatisch maar alleen één groep. Sessy: handmatige overschakeling, één groep. Marstek: optioneel via aparte schakelaar (+€120). EcoFlow PowerOcean: automatisch, hele huis."
-  - q: "AC-gekoppeld of DC-gekoppeld?"
-    a: "AC-gekoppeld (Sessy, Marstek, Zonneplan, Tesla): aparte unit achter de meter, werkt met elke omvormer. Eenvoudig achteraf installeren. DC-gekoppeld (Huawei Luna, Solaredge Energy Hub): geïntegreerd met PV-omvormer, theoretisch 5-8% efficiënter maar minder flexibel. Voor de meeste retrofits: AC."
-  - q: "Wat als ik over 5 jaar een grotere batterij wil?"
-    a: "Modulaire systemen (Marstek Venus E, Sessy, Huawei Luna) kun je later met 5-8 kWh modules uitbreiden. Niet-modulair (Tesla Powerwall, Zonneplan): tweede unit ernaast hangen. Voor toekomstbestendigheid: kies modulair."
-  - q: "Welke werkt het best met saldering-stop in 2027?"
-    a: "Allemaal — alle 10 kWh systemen verminderen je teruglevering met 75-90%, wat de saldering-stop grotendeels neutraliseert. Verschil zit in automation: Sessy en Zonneplan hebben native NL-marktintegratie (beste auto-arbitrage). Marstek + Home Assistant kan handmatig hetzelfde."
-  - q: "Hoeveel besparing per jaar?"
-    a: "Met dynamisch contract en 10 kWh batterij: €700-€1.100/jaar besparing in 2026. Vanaf 2027 (saldering-stop): €1.000-€1.500/jaar omdat je teruglevering-verlies wordt geëlimineerd."
+- q: Voor welk huishouden is 10 kWh de juiste maat?
+  a: 10 kWh is ideaal voor huishoudens met 3.500-6.500 kWh jaarverbruik en zonnepanelen-overschot van 1.500-4.000 kWh per jaar. Te klein voor groot huis met warmtepomp + EV, te groot voor 1-persoonshuishouden zonder substantieel verbruik 's avonds.
+- q: Wat is de beste 10 kWh thuisbatterij in 2026?
+  a: 'Geen one-size-fits-all. Voor de gemiddelde Nederlander: Sessy (€5.995, beste service + automation). Voor prijs-bewust: Marstek Venus E (€2.679, beste waarde). Voor alles-van-één-partij: Zonneplan (€6.995). Voor maximale capaciteit + EV: Tesla Powerwall 3 (€9.500, 13,5 kWh).'
+- q: Hoe lang duurt de terugverdientijd?
+  a: 'Hangt af van prijs en gebruiksprofiel. Marstek (€2.679): 3-4 jaar. Sessy (€5.995): 7-9 jaar. Zonneplan koop (€6.995): 8-10 jaar. Tesla Powerwall (€9.500): 9-12 jaar. Met dynamisch contract terugverdientijd 1-2 jaar korter.'
+- q: Welke heeft de beste backup-functie?
+  a: 'Tesla Powerwall 3: automatisch overschakelen, hele huis op batterij tot deze leeg is. Zonneplan: automatisch maar alleen één groep. Sessy: handmatige overschakeling, één groep. Marstek: optioneel via aparte schakelaar (+€120). EcoFlow PowerOcean: automatisch, hele huis.'
+- q: AC-gekoppeld of DC-gekoppeld?
+  a: 'AC-gekoppeld (Sessy, Marstek, Zonneplan, Tesla): aparte unit achter de meter, werkt met elke omvormer. Eenvoudig achteraf installeren. DC-gekoppeld (Huawei Luna, Solaredge Energy Hub): geïntegreerd met PV-omvormer, theoretisch 5-8% efficiënter maar minder flexibel. Voor de meeste retrofits: AC.'
+- q: Wat als ik over 5 jaar een grotere batterij wil?
+  a: 'Modulaire systemen (Marstek Venus E, Sessy, Huawei Luna) kun je later met 5-8 kWh modules uitbreiden. Niet-modulair (Tesla Powerwall, Zonneplan): tweede unit ernaast hangen. Voor toekomstbestendigheid: kies modulair.'
+- q: Welke werkt het best met saldering-stop in 2027?
+  a: 'Allemaal — alle 10 kWh systemen verminderen je teruglevering met 75-90%, wat de saldering-stop grotendeels neutraliseert. Verschil zit in automation: Sessy en Zonneplan hebben native NL-marktintegratie (beste auto-arbitrage). Marstek + Home Assistant kan handmatig hetzelfde.'
+- q: Hoeveel besparing per jaar?
+  a: 'Met dynamisch contract en 10 kWh batterij: €700-€1.100/jaar besparing in 2026. Vanaf 2027 (saldering-stop): €1.000-€1.500/jaar omdat je teruglevering-verlies wordt geëlimineerd.'
 products:
-  - name: "Sessy 10 kWh"
-    url: "https://sessy.nl/"
-    price: "5995"
-  - name: "Marstek Venus E 8,2 kWh"
-    url: "https://marstekenergy.com/venus-e"
-    price: "2299"
-  - name: "Zonneplan thuisbatterij 10 kWh"
-    url: "https://www.zonneplan.nl/thuisbatterij"
-    price: "6995"
-  - name: "Tesla Powerwall 3 (13,5 kWh)"
-    url: "https://www.tesla.com/nl_nl/powerwall"
-    price: "9500"
-  - name: "EcoFlow PowerOcean 10 kWh"
-    url: "https://eu.ecoflow.com/powerocean"
-    price: "6800"
-  - name: "Huawei Luna 2000 (10 kWh)"
-    url: "https://solar.huawei.com/eu/residential/luna"
-    price: "5500"
+- name: Sessy 10 kWh
+  url: https://sessy.nl/
+  price: '5995'
+- name: Marstek Venus E 8,2 kWh
+  url: https://marstekenergy.com/venus-e
+  price: '2299'
+- name: Zonneplan thuisbatterij 10 kWh
+  url: https://www.zonneplan.nl/thuisbatterij
+  price: '6995'
+- name: Tesla Powerwall 3 (13,5 kWh)
+  url: https://www.tesla.com/nl_nl/powerwall
+  price: '9500'
+- name: EcoFlow PowerOcean 10 kWh
+  url: https://eu.ecoflow.com/powerocean
+  price: '6800'
+- name: Huawei Luna 2000 (10 kWh)
+  url: https://solar.huawei.com/eu/residential/luna
+  price: '5500'
+schema_type: Article
 ---
 
 In het afgelopen jaar heb ik bij 12 huishoudens een 10 kWh thuisbatterij geïnstalleerd of meegekeken. Telkens stelde de eigenaar dezelfde vraag: "Welke is nu écht de beste?" Het antwoord is: dat hangt af van wie je bent.

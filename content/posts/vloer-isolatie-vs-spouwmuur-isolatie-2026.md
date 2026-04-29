@@ -1,36 +1,47 @@
 ---
-title: "Vloerisolatie vs spouwmuurisolatie"
-date: 2026-05-23T08:00:00+02:00
-lastmod: 2026-05-23T08:00:00+02:00
-description: "Vloerisolatie of spouwmuurisolatie: wat geeft het meeste rendement per geïnvesteerde euro? Vergelijking op besparing, kosten."
-categories: ["isolatie"]
-tags: ["vloerisolatie", "spouwmuurisolatie", "isolatie vergelijking", "SEEH", "terugverdientijd", "energiebesparing"]
-keywords: ["vloerisolatie vs spouwmuurisolatie", "isolatie rendement", "beste isolatiemaatregel", "spouwmuur of vloer isoleren"]
+title: Vloerisolatie vs spouwmuurisolatie
+date: 2026-05-23 08:00:00+02:00
+lastmod: 2026-05-23 08:00:00+02:00
+description: 'Vloerisolatie of spouwmuurisolatie: wat geeft het meeste rendement per geïnvesteerde euro? Vergelijking op besparing, kosten.'
+categories:
+- isolatie
+tags:
+- vloerisolatie
+- spouwmuurisolatie
+- isolatie vergelijking
+- SEEH
+- terugverdientijd
+- energiebesparing
+keywords:
+- vloerisolatie vs spouwmuurisolatie
+- isolatie rendement
+- beste isolatiemaatregel
+- spouwmuur of vloer isoleren
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is goedkoper: vloer- of spouwmuurisolatie?"
-    a: "Spouwmuurisolatie is doorgaans goedkoper: €800-€1.500 voor een gemiddelde tussenwoning tegenover €1.000-€2.500 voor vloerisolatie via de kruipruimte. Beide hebben echter vergelijkbare terugverdientijden."
-  - q: "Hoeveel bespaar ik per jaar met spouwmuurisolatie?"
-    a: "Een gemiddelde tussenwoning bespaart €200-€400 per jaar op de gasrekening na spouwmuurisolatie. Bij een halvering van het gasverbruik voor verwarming is dit afhankelijk van woningtype en dakopbouw."
-  - q: "Krijg ik subsidie voor isolatie in 2026?"
-    a: "Ja, via de SEEH-regeling (Subsidie Energiebesparing Eigen Huis) is isolatie subsidieerbaar. De subsidie bedraagt 30% van de investeringskosten met een maximum van €5.000 per maatregel. Combineren met andere maatregelen verhoogt het subsidiepercentage."
-  - q: "Is mijn spouwmuur geschikt voor inblaasisolatie?"
-    a: "De meeste woningen gebouwd tussen 1930 en 1985 hebben spouwmuren. Of inblaasisolatie mogelijk is, hangt af van de breedte van de spouw (minimaal 50 mm) en de staat van het metselwerk. Een inspecteur kan dit beoordelen."
-  - q: "Wat is het verschil tussen EPS en PUR inblaasisolatie?"
-    a: "EPS (piepschuim-parels) is goedkoper (€10-€14/m2) maar iets minder isolerend. PUR-schuim (polyurethaan) heeft een hogere isolatiewaarde per cm dikte en dicht ook kleine kieren af. PUR kost €18-€22/m2 maar heeft een betere Rc-waarde."
-  - q: "Kan ik vloerisolatie zelf aanbrengen?"
-    a: "Gedeeltelijk. Het aanbrengen van EPS-platen via de kruipruimte kan een handige doe-het-zelver zelf doen, mits de kruipruimte toegankelijk en droog is. Voor spray-on vloerisolatie of gehele vloervervanging is een vakman nodig."
-products: []
+- q: 'Wat is goedkoper: vloer- of spouwmuurisolatie?'
+  a: 'Spouwmuurisolatie is doorgaans goedkoper: €800-€1.500 voor een gemiddelde tussenwoning tegenover €1.000-€2.500 voor vloerisolatie via de kruipruimte. Beide hebben echter vergelijkbare terugverdientijden.'
+- q: Hoeveel bespaar ik per jaar met spouwmuurisolatie?
+  a: Een gemiddelde tussenwoning bespaart €200-€400 per jaar op de gasrekening na spouwmuurisolatie. Bij een halvering van het gasverbruik voor verwarming is dit afhankelijk van woningtype en dakopbouw.
+- q: Krijg ik subsidie voor isolatie in 2026?
+  a: Ja, via de SEEH-regeling (Subsidie Energiebesparing Eigen Huis) is isolatie subsidieerbaar. De subsidie bedraagt 30% van de investeringskosten met een maximum van €5.000 per maatregel. Combineren met andere maatregelen verhoogt het subsidiepercentage.
+- q: Is mijn spouwmuur geschikt voor inblaasisolatie?
+  a: De meeste woningen gebouwd tussen 1930 en 1985 hebben spouwmuren. Of inblaasisolatie mogelijk is, hangt af van de breedte van de spouw (minimaal 50 mm) en de staat van het metselwerk. Een inspecteur kan dit beoordelen.
+- q: Wat is het verschil tussen EPS en PUR inblaasisolatie?
+  a: EPS (piepschuim-parels) is goedkoper (€10-€14/m2) maar iets minder isolerend. PUR-schuim (polyurethaan) heeft een hogere isolatiewaarde per cm dikte en dicht ook kleine kieren af. PUR kost €18-€22/m2 maar heeft een betere Rc-waarde.
+- q: Kan ik vloerisolatie zelf aanbrengen?
+  a: Gedeeltelijk. Het aanbrengen van EPS-platen via de kruipruimte kan een handige doe-het-zelver zelf doen, mits de kruipruimte toegankelijk en droog is. Voor spray-on vloerisolatie of gehele vloervervanging is een vakman nodig.
 products:
-  - name: "Tonzon vloerisolatie (per m²)"
-    url: "https://tonzon.nl"
-    price: "25"
-  - name: "Knauf Supafil spouwmuur"
-    url: "https://knauf.nl"
-    price: "20"
+- name: Tonzon vloerisolatie (per m²)
+  url: https://tonzon.nl
+  price: '25'
+- name: Knauf Supafil spouwmuur
+  url: https://knauf.nl
+  price: '20'
+schema_type: Article
 ---
 
 Mijn woning had drie isolatiezwakke plekken die ik achtereenvolgens heb aangepakt: spouwmuren, begane grondvloer en het dak. Nu ik alle drie heb gedaan én de rekeningen van de afgelopen drie jaar naast elkaar heb gelegd, kan ik met zekerheid zeggen welke maatregel per geïnvesteerde euro het meeste heeft opgeleverd.

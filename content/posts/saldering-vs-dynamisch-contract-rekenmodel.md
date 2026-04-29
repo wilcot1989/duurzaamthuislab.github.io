@@ -1,45 +1,58 @@
 ---
-title: "Saldering vs dynamisch contract: welke is voordeliger na"
-date: 2026-05-01T08:00:00+02:00
-lastmod: 2026-05-01T08:00:00+02:00
-description: "Concrete vergelijking tussen vast contract met saldering-stop en dynamisch contract na 2027. Per huishoudprofiel doorgerekend met actuele cijfers."
-categories: ["energie", "zonne-energie"]
-tags: ["dynamisch contract", "saldering 2027", "Tibber", "Frank Energie", "vast vs dynamisch"]
-keywords: ["saldering vs dynamisch", "dynamisch contract 2027", "dynamisch contract met zonnepanelen", "vast of dynamisch energiecontract", "rekenmodel dynamisch contract"]
+title: 'Saldering vs dynamisch contract: welke is voordeliger na'
+date: 2026-05-01 08:00:00+02:00
+lastmod: 2026-05-01 08:00:00+02:00
+description: Concrete vergelijking tussen vast contract met saldering-stop en dynamisch contract na 2027. Per huishoudprofiel doorgerekend met actuele cijfers.
+categories:
+- energie
+- zonne-energie
+tags:
+- dynamisch contract
+- saldering 2027
+- Tibber
+- Frank Energie
+- vast vs dynamisch
+keywords:
+- saldering vs dynamisch
+- dynamisch contract 2027
+- dynamisch contract met zonnepanelen
+- vast of dynamisch energiecontract
+- rekenmodel dynamisch contract
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het belangrijkste verschil tussen vast en dynamisch contract?"
-    a: "Bij een vast contract betaal je een vast tarief per kWh, contractueel afgesproken voor 1-3 jaar. Bij dynamisch contract verandert het tarief per uur op basis van de groothandelsmarkt. In zonzomer-uren kunnen prijzen negatief zijn (jij krijgt geld voor afnemen), in piekuren 's avonds kunnen ze 4× hoger zijn dan een vast tarief."
-  - q: "Is dynamisch altijd goedkoper?"
-    a: "Nee. Voor huishoudens zonder slimme apparaten of EV, met afname vooral 17-20u, kan een vast contract goedkoper zijn. Maar voor zonnepaneel-bezitters is dynamisch in 90% van de gevallen voordeliger — vooral na saldering-stop, omdat dynamische contracten geen aparte terugleverkosten rekenen."
-  - q: "Welk dynamisch contract is het beste in 2026?"
-    a: "Voor de meeste mensen Tibber of Frank Energie. Tibber heeft de beste app en automation-features (smart EV charging). Frank Energie heeft de transparantste prijsstelling en eenvoudigste opzegbaarheid. ANWB Dynamisch is iets minder volatiel maar duurder."
-  - q: "Hoeveel bespaar ik gemiddeld?"
-    a: "In 2026 gemiddeld €150-€350/jaar voor een huishouden zonder zonnepanelen, €300-€600/jaar voor zonnepaneel-bezitters. Vanaf 2027 (saldering-stop) wordt het verschil groter omdat dynamisch geen terugleverkosten rekent."
-  - q: "Wat zijn de risico's van dynamisch?"
-    a: "Hogere prijspieken in extreme situaties (winterstorm zonder wind, koudegolf met weinig zon). In de winter 2025 was er één week waarin de avondprijs naar €1,20/kWh ging — voor 4 uur tijd, niet structureel. Met een slimme thermostaat en EV-laadschema heb je daar bijna geen last van."
-  - q: "Heb ik een slimme meter nodig?"
-    a: "Ja, dat is verplicht voor dynamisch contract. Heeft 95% van NL al. Heb je hem niet? Vraag gratis aan via je netbeheerder (Stedin, Liander, Enexis). Plaatsing gemiddeld 4-8 weken."
-  - q: "Wat kost overstappen?"
-    a: "Niets. Dynamisch contract switchen kan altijd, geen boete. Wel let op: als je een lopend vast contract hebt loopt de boete bij vroegtijdige beëindiging tot €100. Wacht eventueel de contractperiode uit en zeg dan op."
-  - q: "Kan ik later weer terug naar vast?"
-    a: "Ja, altijd. Tibber heeft maandelijkse opzegtermijn, Frank ook. Als dynamisch toch niet bij je past kun je probleemloos terug — al verlies je bij overstap soms een welkomstbonus."
+- q: Wat is het belangrijkste verschil tussen vast en dynamisch contract?
+  a: Bij een vast contract betaal je een vast tarief per kWh, contractueel afgesproken voor 1-3 jaar. Bij dynamisch contract verandert het tarief per uur op basis van de groothandelsmarkt. In zonzomer-uren kunnen prijzen negatief zijn (jij krijgt geld voor afnemen), in piekuren 's avonds kunnen ze 4× hoger zijn dan een vast tarief.
+- q: Is dynamisch altijd goedkoper?
+  a: Nee. Voor huishoudens zonder slimme apparaten of EV, met afname vooral 17-20u, kan een vast contract goedkoper zijn. Maar voor zonnepaneel-bezitters is dynamisch in 90% van de gevallen voordeliger — vooral na saldering-stop, omdat dynamische contracten geen aparte terugleverkosten rekenen.
+- q: Welk dynamisch contract is het beste in 2026?
+  a: Voor de meeste mensen Tibber of Frank Energie. Tibber heeft de beste app en automation-features (smart EV charging). Frank Energie heeft de transparantste prijsstelling en eenvoudigste opzegbaarheid. ANWB Dynamisch is iets minder volatiel maar duurder.
+- q: Hoeveel bespaar ik gemiddeld?
+  a: In 2026 gemiddeld €150-€350/jaar voor een huishouden zonder zonnepanelen, €300-€600/jaar voor zonnepaneel-bezitters. Vanaf 2027 (saldering-stop) wordt het verschil groter omdat dynamisch geen terugleverkosten rekent.
+- q: Wat zijn de risico's van dynamisch?
+  a: Hogere prijspieken in extreme situaties (winterstorm zonder wind, koudegolf met weinig zon). In de winter 2025 was er één week waarin de avondprijs naar €1,20/kWh ging — voor 4 uur tijd, niet structureel. Met een slimme thermostaat en EV-laadschema heb je daar bijna geen last van.
+- q: Heb ik een slimme meter nodig?
+  a: Ja, dat is verplicht voor dynamisch contract. Heeft 95% van NL al. Heb je hem niet? Vraag gratis aan via je netbeheerder (Stedin, Liander, Enexis). Plaatsing gemiddeld 4-8 weken.
+- q: Wat kost overstappen?
+  a: 'Niets. Dynamisch contract switchen kan altijd, geen boete. Wel let op: als je een lopend vast contract hebt loopt de boete bij vroegtijdige beëindiging tot €100. Wacht eventueel de contractperiode uit en zeg dan op.'
+- q: Kan ik later weer terug naar vast?
+  a: Ja, altijd. Tibber heeft maandelijkse opzegtermijn, Frank ook. Als dynamisch toch niet bij je past kun je probleemloos terug — al verlies je bij overstap soms een welkomstbonus.
 products:
-  - name: "Tibber"
-    url: "https://tibber.com/nl"
-    price: "6"
-  - name: "Frank Energie"
-    url: "https://www.frankenergie.nl/"
-    price: "0"
-  - name: "ANWB Energie Dynamisch"
-    url: "https://www.anwb.nl/energie"
-    price: "0"
-  - name: "Eneco Dynamisch"
-    url: "https://www.eneco.nl/"
-    price: "0"
+- name: Tibber
+  url: https://tibber.com/nl
+  price: '6'
+- name: Frank Energie
+  url: https://www.frankenergie.nl/
+  price: '0'
+- name: ANWB Energie Dynamisch
+  url: https://www.anwb.nl/energie
+  price: '0'
+- name: Eneco Dynamisch
+  url: https://www.eneco.nl/
+  price: '0'
+schema_type: Article
 ---
 
 In oktober 2025 stond ik voor de keus. Mijn vaste contract bij een grote leverancier liep af. Hernieuwen voor 2 jaar tegen 32 cent per kWh, of overstappen naar dynamisch waar ik geen idee had wat ik zou betalen. Mijn vrouw vond het een gok.

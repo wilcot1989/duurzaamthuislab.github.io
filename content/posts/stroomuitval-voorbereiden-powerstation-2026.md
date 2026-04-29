@@ -1,40 +1,58 @@
 ---
-title: "Voorbereid op Stroomuitval 2026: Welke Powerstation Heb je"
-date: 2026-03-24T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Praktische gids voor noodstroom thuis met een powerstation. Bereken hoeveel Wh je nodig hebt."
-categories: ["powerstations"]
-tags: ["stroomuitval", "noodstroom", "powerstation", "UPS", "noodvoorbereiding", "stroomstoring", "EcoFlow", "Jackery", "Anker", "Bluetti"]
-keywords: ["stroomuitval voorbereiden", "noodstroom thuis", "powerstation stroomuitval", "powerstation noodstroom", "stroomuitval nederland", "welk powerstation noodstroom"]
+title: 'Voorbereid op Stroomuitval 2026: Welke Powerstation Heb je'
+date: 2026-03-24 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Praktische gids voor noodstroom thuis met een powerstation. Bereken hoeveel Wh je nodig hebt.
+categories:
+- powerstations
+tags:
+- stroomuitval
+- noodstroom
+- powerstation
+- UPS
+- noodvoorbereiding
+- stroomstoring
+- EcoFlow
+- Jackery
+- Anker
+- Bluetti
+keywords:
+- stroomuitval voorbereiden
+- noodstroom thuis
+- powerstation stroomuitval
+- powerstation noodstroom
+- stroomuitval nederland
+- welk powerstation noodstroom
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
-  - q: "Hoe vaak komt stroomuitval voor in Nederland?"
-    a: "In Nederland duurt de gemiddelde stroomstoring circa 20-30 minuten per jaar. Maar langdurige storingen (meerdere uren tot een dag) komen steeds vaker voor, onder meer door extreme weersomstandigheden en netbelasting. In 2024 en 2025 waren er meerdere grote stroomstoringen die duizenden huishoudens raakten."
-  - q: "Hoeveel Wh heb ik nodig voor een stroomuitval?"
-    a: "Voor de basisbehoeften (verlichting, router, telefoon opladen) volstaat 500Wh. Wil je ook je koelkast draaiende houden, reken dan op minimaal 1000Wh. Voor een volledig huishouden inclusief verwarming en koken heb je 2000Wh of meer nodig."
-  - q: "Wat is een UPS-functie bij een powerstation?"
-    a: "UPS staat voor Uninterruptible Power Supply. Een powerstation met UPS-functie schakelt automatisch over wanneer de netstroom uitvalt, meestal binnen 20-30 milliseconden. Dit is snel genoeg om computers, routers en andere gevoelige apparatuur zonder onderbreking draaiende te houden."
-  - q: "Kan een powerstation mijn hele huis van stroom voorzien?"
-    a: "Een groot powerstation (2000Wh+) kan de belangrijkste apparaten in je huis urenlang voeden, maar het volledige verbruik van een gemiddeld huishouden (3500 kWh/jaar = gemiddeld ~400W continu) is moeilijk langdurig vol te houden. Prioriteer essentiële apparaten."
-  - q: "Is een powerstation beter dan een aggregaat voor noodstroom?"
-    a: "Voor de meeste huishoudens ja. Een powerstation is geruisloos, produceert geen uitlaatgassen, is direct inzetbaar en vereist geen brandstof. Een aggregaat levert meer vermogen en langere draaitijd, maar is luidruchtig, vereist benzine en mag niet binnenshuis worden gebruikt."
-  - q: "Hoe lang blijft een powerstation opgeladen als ik het niet gebruik?"
-    a: "Moderne LiFePO4-powerstations verliezen circa 2-3% lading per maand bij opslag. Een volledig opgeladen powerstation is na 6 maanden nog steeds op circa 85-90% geladen. Het is wel verstandig om het station elke 3-4 maanden bij te laden."
-  - q: "Kan ik een powerstation opladen met zonnepanelen tijdens een langdurige stroomuitval?"
-    a: "Ja, dat is een van de grote voordelen van een powerstation. Met een opvouwbaar zonnepaneel (100-400W) kun je het station overdag opladen, waardoor je in theorie onbeperkt stroom hebt zolang de zon schijnt. Dit maakt je volledig onafhankelijk van het net."
+- q: Hoe vaak komt stroomuitval voor in Nederland?
+  a: In Nederland duurt de gemiddelde stroomstoring circa 20-30 minuten per jaar. Maar langdurige storingen (meerdere uren tot een dag) komen steeds vaker voor, onder meer door extreme weersomstandigheden en netbelasting. In 2024 en 2025 waren er meerdere grote stroomstoringen die duizenden huishoudens raakten.
+- q: Hoeveel Wh heb ik nodig voor een stroomuitval?
+  a: Voor de basisbehoeften (verlichting, router, telefoon opladen) volstaat 500Wh. Wil je ook je koelkast draaiende houden, reken dan op minimaal 1000Wh. Voor een volledig huishouden inclusief verwarming en koken heb je 2000Wh of meer nodig.
+- q: Wat is een UPS-functie bij een powerstation?
+  a: UPS staat voor Uninterruptible Power Supply. Een powerstation met UPS-functie schakelt automatisch over wanneer de netstroom uitvalt, meestal binnen 20-30 milliseconden. Dit is snel genoeg om computers, routers en andere gevoelige apparatuur zonder onderbreking draaiende te houden.
+- q: Kan een powerstation mijn hele huis van stroom voorzien?
+  a: Een groot powerstation (2000Wh+) kan de belangrijkste apparaten in je huis urenlang voeden, maar het volledige verbruik van een gemiddeld huishouden (3500 kWh/jaar = gemiddeld ~400W continu) is moeilijk langdurig vol te houden. Prioriteer essentiële apparaten.
+- q: Is een powerstation beter dan een aggregaat voor noodstroom?
+  a: Voor de meeste huishoudens ja. Een powerstation is geruisloos, produceert geen uitlaatgassen, is direct inzetbaar en vereist geen brandstof. Een aggregaat levert meer vermogen en langere draaitijd, maar is luidruchtig, vereist benzine en mag niet binnenshuis worden gebruikt.
+- q: Hoe lang blijft een powerstation opgeladen als ik het niet gebruik?
+  a: Moderne LiFePO4-powerstations verliezen circa 2-3% lading per maand bij opslag. Een volledig opgeladen powerstation is na 6 maanden nog steeds op circa 85-90% geladen. Het is wel verstandig om het station elke 3-4 maanden bij te laden.
+- q: Kan ik een powerstation opladen met zonnepanelen tijdens een langdurige stroomuitval?
+  a: Ja, dat is een van de grote voordelen van een powerstation. Met een opvouwbaar zonnepaneel (100-400W) kun je het station overdag opladen, waardoor je in theorie onbeperkt stroom hebt zolang de zon schijnt. Dit maakt je volledig onafhankelijk van het net.
 products:
-  - name: "EcoFlow Delta 2 Max"
-    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
-    price: "1899"
-  - name: "Jackery Explorer 2000 Plus"
-    url: "https://www.jackery.com/products/explorer-2000-plus-portable-power-station"
-    price: "2299"
-  - name: "Anker SOLIX C1000"
-    url: "https://www.anker.com/eu-en/products/a1761"
-    price: "999"
+- name: EcoFlow Delta 2 Max
+  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  price: '1899'
+- name: Jackery Explorer 2000 Plus
+  url: https://www.jackery.com/products/explorer-2000-plus-portable-power-station
+  price: '2299'
+- name: Anker SOLIX C1000
+  url: https://www.anker.com/eu-en/products/a1761
+  price: '999'
+schema_type: Article
 ---
 
 Vorig jaar had ik een stroomstoring van 4 uur. Mijn Huawei Luna thuisbatterij nam het naadloos over, maar mijn buurman zat in het donker met een lege telefoon en een ontdooiende vriezer. Dat hoeft niet — een powerstation van €500-€900 had hem gered. Ik heb berekend hoeveel Wh je nodig hebt voor de basisapparaten (router, koelkast, verlichting, telefoon = circa 250W continu) en welk powerstation bij welk budget past.

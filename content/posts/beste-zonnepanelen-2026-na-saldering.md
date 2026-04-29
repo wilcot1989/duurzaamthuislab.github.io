@@ -1,37 +1,52 @@
 ---
-title: "Beste zonnepanelen 2026 na saldering"
-date: 2026-04-29T08:00:00+02:00
-lastmod: 2026-04-29T08:00:00+02:00
-description: "Saldering stopt in 2027. Welke zonnepanelen zijn dan nog zinvol, hoe maximaliseer je zelfconsumptie, en welke combinatie met een batterij werkt het beste?"
-categories: ["zonne-energie"]
-tags: ["zonnepanelen 2026", "saldering 2027", "post-saldering", "Zonneplan", "thuisbatterij combinatie", "zonnepanelen zelfconsumptie", "beste zonnepanelen"]
-keywords: ["beste zonnepanelen 2026 na saldering", "zonnepanelen na saldering", "zonnepanelen 2027", "zonnepanelen saldering stopt", "Zonneplan review", "Sessy zonnepanelen combinatie"]
+title: Beste zonnepanelen 2026 na saldering
+date: 2026-04-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
+description: Saldering stopt in 2027. Welke zonnepanelen zijn dan nog zinvol, hoe maximaliseer je zelfconsumptie, en welke combinatie met een batterij werkt het beste?
+categories:
+- zonne-energie
+tags:
+- zonnepanelen 2026
+- saldering 2027
+- post-saldering
+- Zonneplan
+- thuisbatterij combinatie
+- zonnepanelen zelfconsumptie
+- beste zonnepanelen
+keywords:
+- beste zonnepanelen 2026 na saldering
+- zonnepanelen na saldering
+- zonnepanelen 2027
+- zonnepanelen saldering stopt
+- Zonneplan review
+- Sessy zonnepanelen combinatie
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Zijn zonnepanelen na 2027 nog zinvol?"
-    a: "Ja, maar de rekensomme verandert. Na 2027 is elk kWh die je zelf verbruikt €0,25–€0,32 waard (vermeden afname), maar elk kWh die je teruglevert slechts €0,04–€0,10. De strategie verschuift van 'zoveel mogelijk terugleveren' naar 'zoveel mogelijk zelf verbruiken'. Dat doe je met een thuisbatterij, een dynamisch tarief of een energieslurpende apparaten overdag aanzetten."
-  - q: "Hoeveel panelen zijn zinvol als saldering wegvalt?"
-    a: "Het optimale aantal panelen verschuift naar jouw daadwerkelijke dagverbruik overdag. Stel je verbruikt overdag 5 kWh en 's avonds 7 kWh. Dan dek je met 8–10 panelen de dagproductie en hoef je niet te veel terug te leveren. Een batterij van 5 kWh vangt de rest op. Meer panelen zijn minder rendabel als je niet meer kunt salderen."
-  - q: "Welk merk zonnepanelen is het beste in 2026?"
-    a: "In 2026 zijn Longi Hi-MO 6, Jinko Tiger Neo en SunPower Maxeon 6 de technisch sterkste. Voor de NL-markt zijn SunPower en Jinko het meest beschikbaar via installateurs. Voor prijs-kwaliteit: Jinko of Longi. Voor maximale prestaties op klein oppervlak: SunPower."
-  - q: "Wat is het verschil tussen monokristallijn en TOPCon-panelen?"
-    a: "Monokristallijn PERC-panelen zijn de standaard: 20–22% efficiëntie, betrouwbaar, betaalbaar. TOPCon (Tunnel Oxide Passivated Contact) is de nieuwere generatie: 22–24% efficiëntie, betere prestaties bij lage instraling (bewolking), hogere prijs. Voor NL-klimaat is TOPCon interessanter dan elders vanwege de hoge bewolkingsgraad."
-  - q: "Is een dynamisch energiecontract beter dan vast na saldering?"
-    a: "Bij een goede thuisbatterij en slimme meter: ja. Dynamische contracten (Tibber, ANWB Energie) laten je opladen als stroom goedkoop is en ontladen als het duur is. Zonder batterij is een dynamisch contract riskanter — je verkoopt overdag erg goedkoop. Met batterij is het de meest optimale combinatie post-2027."
-  - q: "Wat doet Zonneplan anders dan andere installateurs?"
-    a: "Zonneplan werkt met een vaste prijs per installatie, inclusief materiaal, installatie en een 25-jarige opbrengstgarantie. Ze installeren voornamelijk zonnepanelen en koppelen dat aan een monitoring-app. Onderscheidend: geen verborgen kosten, duidelijke communicatie over verwachte opbrengst, en een servicecontract dat ook na 10 jaar nog loopt."
-  - q: "Kan ik mijn bestaande installatie uitbreiden met panelen en een batterij?"
-    a: "Dat hangt af van je omvormer. Een string-omvormer kan uitgebreid worden als er nog input-capaciteit vrij is. Een micro-omvormer-setup is het makkelijkst uit te breiden paneel voor paneel. Voor een hybride batterij moet de omvormer of uitbreid-inverter compatibel zijn. Laat dit altijd beoordelen door een installateur."
+- q: Zijn zonnepanelen na 2027 nog zinvol?
+  a: Ja, maar de rekensomme verandert. Na 2027 is elk kWh die je zelf verbruikt €0,25–€0,32 waard (vermeden afname), maar elk kWh die je teruglevert slechts €0,04–€0,10. De strategie verschuift van 'zoveel mogelijk terugleveren' naar 'zoveel mogelijk zelf verbruiken'. Dat doe je met een thuisbatterij, een dynamisch tarief of een energieslurpende apparaten overdag aanzetten.
+- q: Hoeveel panelen zijn zinvol als saldering wegvalt?
+  a: Het optimale aantal panelen verschuift naar jouw daadwerkelijke dagverbruik overdag. Stel je verbruikt overdag 5 kWh en 's avonds 7 kWh. Dan dek je met 8–10 panelen de dagproductie en hoef je niet te veel terug te leveren. Een batterij van 5 kWh vangt de rest op. Meer panelen zijn minder rendabel als je niet meer kunt salderen.
+- q: Welk merk zonnepanelen is het beste in 2026?
+  a: 'In 2026 zijn Longi Hi-MO 6, Jinko Tiger Neo en SunPower Maxeon 6 de technisch sterkste. Voor de NL-markt zijn SunPower en Jinko het meest beschikbaar via installateurs. Voor prijs-kwaliteit: Jinko of Longi. Voor maximale prestaties op klein oppervlak: SunPower.'
+- q: Wat is het verschil tussen monokristallijn en TOPCon-panelen?
+  a: 'Monokristallijn PERC-panelen zijn de standaard: 20–22% efficiëntie, betrouwbaar, betaalbaar. TOPCon (Tunnel Oxide Passivated Contact) is de nieuwere generatie: 22–24% efficiëntie, betere prestaties bij lage instraling (bewolking), hogere prijs. Voor NL-klimaat is TOPCon interessanter dan elders vanwege de hoge bewolkingsgraad.'
+- q: Is een dynamisch energiecontract beter dan vast na saldering?
+  a: 'Bij een goede thuisbatterij en slimme meter: ja. Dynamische contracten (Tibber, ANWB Energie) laten je opladen als stroom goedkoop is en ontladen als het duur is. Zonder batterij is een dynamisch contract riskanter — je verkoopt overdag erg goedkoop. Met batterij is het de meest optimale combinatie post-2027.'
+- q: Wat doet Zonneplan anders dan andere installateurs?
+  a: 'Zonneplan werkt met een vaste prijs per installatie, inclusief materiaal, installatie en een 25-jarige opbrengstgarantie. Ze installeren voornamelijk zonnepanelen en koppelen dat aan een monitoring-app. Onderscheidend: geen verborgen kosten, duidelijke communicatie over verwachte opbrengst, en een servicecontract dat ook na 10 jaar nog loopt.'
+- q: Kan ik mijn bestaande installatie uitbreiden met panelen en een batterij?
+  a: Dat hangt af van je omvormer. Een string-omvormer kan uitgebreid worden als er nog input-capaciteit vrij is. Een micro-omvormer-setup is het makkelijkst uit te breiden paneel voor paneel. Voor een hybride batterij moet de omvormer of uitbreid-inverter compatibel zijn. Laat dit altijd beoordelen door een installateur.
 products:
-  - name: "Zonneplan zonnepanelen installatie"
-    url: "https://go.duurzaamthuislab.nl/zonneplan"
-    price: ""
-  - name: "Sessy thuisbatterij (5 kWh)"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "5995"
+- name: Zonneplan zonnepanelen installatie
+  url: https://go.duurzaamthuislab.nl/zonneplan
+  price: ''
+- name: Sessy thuisbatterij (5 kWh)
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '5995'
+schema_type: Article
 ---
 
 In 2021 deed ik een rekensom voor mijn eigen dak. 14 panelen, 5,46 kWp. Terugverdientijd met saldering: 7 jaar. Zonder saldering: 11 jaar. Mijn conclusie destijds: installeer nu, profiteer van saldering zolang het nog geldt.

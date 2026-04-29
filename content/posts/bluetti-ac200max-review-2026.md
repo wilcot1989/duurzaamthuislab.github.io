@@ -1,40 +1,52 @@
 ---
-title: "Bluetti AC200MAX Review 2026: Veelzijdig en Uitbreidbaar"
-date: 2026-03-08T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Uitgebreide Bluetti AC200MAX review: 2048Wh, 2200W, LiFePO4 en uitbreidbaar met B230/B300. Lees onze ervaringen, specs en testresultaten."
-categories: ["powerstations"]
-tags: ["Bluetti", "AC200MAX", "powerstation review", "LiFePO4", "draagbaar powerstation"]
-keywords: ["bluetti ac200max review", "bluetti review", "ac200max test", "bluetti ac200max ervaringen", "bluetti ac200max kopen"]
+title: 'Bluetti AC200MAX Review 2026: Veelzijdig en Uitbreidbaar'
+date: 2026-03-08 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Uitgebreide Bluetti AC200MAX review: 2048Wh, 2200W, LiFePO4 en uitbreidbaar met B230/B300. Lees onze ervaringen, specs en testresultaten.'
+categories:
+- powerstations
+tags:
+- Bluetti
+- AC200MAX
+- powerstation review
+- LiFePO4
+- draagbaar powerstation
+keywords:
+- bluetti ac200max review
+- bluetti review
+- ac200max test
+- bluetti ac200max ervaringen
+- bluetti ac200max kopen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
-  - q: "Is de Bluetti AC200MAX geschikt als noodstroomvoorziening thuis?"
-    a: "Ja, met 2048Wh capaciteit en 2200W continu vermogen kun je bij een stroomstoring je koelkast, verlichting, wifi-router en telefoons urenlang van stroom voorzien. Breidt je het systeem uit met B300-batterijen, dan houd je het zelfs een hele dag vol."
-  - q: "Hoe lang duurt het om de Bluetti AC200MAX op te laden met zonnepanelen?"
-    a: "Met de maximale solar-input van 900W laad je de AC200MAX in ongeveer 2,5 tot 3 uur volledig op bij optimale zonneomstandigheden. Met een enkel 350W-paneel duurt het circa 6 tot 7 uur."
-  - q: "Kan ik de Bluetti AC200MAX uitbreiden met extra batterijen?"
-    a: "Ja, je kunt tot twee extra B230 (2048Wh) of B300 (3072Wh) batterijpakketten aansluiten. Dit brengt de totale capaciteit op maximaal 8192Wh."
-  - q: "Hoe lang gaat de LiFePO4-batterij van de AC200MAX mee?"
-    a: "De LiFePO4-batterij is goed voor 3500+ laadcycli voordat de capaciteit naar 80% daalt. Bij dagelijks gebruik komt dat neer op meer dan 10 jaar levensduur."
-  - q: "Kan de Bluetti AC200MAX een wasmachine of airco aansturen?"
-    a: "Een standaard wasmachine (400-800W) kan de AC200MAX prima aan. Een mobiele airco (900-1500W) lukt in de meeste gevallen ook, maar controleer altijd het piekvermogen. Apparaten met een piek boven 4800W worden niet ondersteund."
-  - q: "Werkt de Bluetti-app ook via Wi-Fi?"
-    a: "Nee, de AC200MAX ondersteunt alleen Bluetooth-verbinding met de app. Dit betekent dat je binnen bereik moet zijn (circa 10 meter) om het apparaat via de app te bedienen. Nieuwere Bluetti-modellen bieden wel Wi-Fi."
-  - q: "Wat is het verschil tussen de Bluetti AC200MAX en de AC200P?"
-    a: "De AC200MAX heeft een LiFePO4-batterij (langer leven, veiliger), is uitbreidbaar met B230/B300-batterijen en heeft een hogere solar-input (900W vs 700W). De AC200P gebruikt een NMC-batterij en is niet uitbreidbaar."
+- q: Is de Bluetti AC200MAX geschikt als noodstroomvoorziening thuis?
+  a: Ja, met 2048Wh capaciteit en 2200W continu vermogen kun je bij een stroomstoring je koelkast, verlichting, wifi-router en telefoons urenlang van stroom voorzien. Breidt je het systeem uit met B300-batterijen, dan houd je het zelfs een hele dag vol.
+- q: Hoe lang duurt het om de Bluetti AC200MAX op te laden met zonnepanelen?
+  a: Met de maximale solar-input van 900W laad je de AC200MAX in ongeveer 2,5 tot 3 uur volledig op bij optimale zonneomstandigheden. Met een enkel 350W-paneel duurt het circa 6 tot 7 uur.
+- q: Kan ik de Bluetti AC200MAX uitbreiden met extra batterijen?
+  a: Ja, je kunt tot twee extra B230 (2048Wh) of B300 (3072Wh) batterijpakketten aansluiten. Dit brengt de totale capaciteit op maximaal 8192Wh.
+- q: Hoe lang gaat de LiFePO4-batterij van de AC200MAX mee?
+  a: De LiFePO4-batterij is goed voor 3500+ laadcycli voordat de capaciteit naar 80% daalt. Bij dagelijks gebruik komt dat neer op meer dan 10 jaar levensduur.
+- q: Kan de Bluetti AC200MAX een wasmachine of airco aansturen?
+  a: Een standaard wasmachine (400-800W) kan de AC200MAX prima aan. Een mobiele airco (900-1500W) lukt in de meeste gevallen ook, maar controleer altijd het piekvermogen. Apparaten met een piek boven 4800W worden niet ondersteund.
+- q: Werkt de Bluetti-app ook via Wi-Fi?
+  a: Nee, de AC200MAX ondersteunt alleen Bluetooth-verbinding met de app. Dit betekent dat je binnen bereik moet zijn (circa 10 meter) om het apparaat via de app te bedienen. Nieuwere Bluetti-modellen bieden wel Wi-Fi.
+- q: Wat is het verschil tussen de Bluetti AC200MAX en de AC200P?
+  a: De AC200MAX heeft een LiFePO4-batterij (langer leven, veiliger), is uitbreidbaar met B230/B300-batterijen en heeft een hogere solar-input (900W vs 700W). De AC200P gebruikt een NMC-batterij en is niet uitbreidbaar.
 products:
-  - name: "Bluetti AC200MAX"
-    url: "https://www.bluettipower.eu/products/ac200max"
-    price: "1899"
-  - name: "EcoFlow Delta 2 Max"
-    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
-    price: "1899"
-  - name: "Jackery Explorer 2000 Plus"
-    url: "https://www.jackery.com/products/explorer-2000-plus-portable-power-station"
-    price: "2299"
+- name: Bluetti AC200MAX
+  url: https://www.bluettipower.eu/products/ac200max
+  price: '1899'
+- name: EcoFlow Delta 2 Max
+  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  price: '1899'
+- name: Jackery Explorer 2000 Plus
+  url: https://www.jackery.com/products/explorer-2000-plus-portable-power-station
+  price: '2299'
+schema_type: Review
 ---
 
 De Bluetti AC200MAX stond een maand in mijn garage als back-up naast mijn Huawei Luna thuisbatterij. Met 2048Wh en 2200W continu is het eigenlijk een mini-thuisbatterij die je ook nog kunt meenemen. Wat ik bijzonder vind: je kunt hem uitbreiden tot 8192Wh met extra B300-pakketten. Ik heb hem uitgebreid getest — dit zijn mijn eerlijke bevindingen.

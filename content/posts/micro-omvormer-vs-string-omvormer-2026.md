@@ -1,37 +1,52 @@
 ---
-title: "Micro-omvormer vs string-omvormer 2026: keuze gids"
-date: 2026-06-03T08:00:00+01:00
-lastmod: 2026-06-03T08:00:00+01:00
-description: "SolarEdge, Enphase, Huawei en APsystems vergeleken — wanneer micro-omvormer slim, wanneer string-omvormer voldoende voor jouw NL-dak."
-categories: ["zonne-energie"]
-tags: ["micro-omvormer", "string-omvormer", "SolarEdge", "Enphase", "Huawei", "APsystems", "omvormer vergelijking", "zonnepanelen"]
-keywords: ["micro omvormer vs string omvormer 2026", "SolarEdge vs Enphase vergelijking", "beste omvormer zonnepanelen 2026", "APsystems micro-omvormer", "Huawei FusionSolar omvormer"]
+title: 'Micro-omvormer vs string-omvormer 2026: keuze gids'
+date: 2026-06-03 08:00:00+01:00
+lastmod: 2026-06-03 08:00:00+01:00
+description: SolarEdge, Enphase, Huawei en APsystems vergeleken — wanneer micro-omvormer slim, wanneer string-omvormer voldoende voor jouw NL-dak.
+categories:
+- zonne-energie
+tags:
+- micro-omvormer
+- string-omvormer
+- SolarEdge
+- Enphase
+- Huawei
+- APsystems
+- omvormer vergelijking
+- zonnepanelen
+keywords:
+- micro omvormer vs string omvormer 2026
+- SolarEdge vs Enphase vergelijking
+- beste omvormer zonnepanelen 2026
+- APsystems micro-omvormer
+- Huawei FusionSolar omvormer
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het verschil tussen een micro-omvormer en een string-omvormer?"
-    a: "Een string-omvormer zit centraal en converteert de DC-stroom van alle panelen samen naar AC. Een micro-omvormer zit per paneel en converteert per paneel individueel. Bij micro-omvormers heeft schaduw of vervuiling op één paneel geen invloed op de andere panelen."
-  - q: "Wanneer is een micro-omvormer beter dan een string-omvormer?"
-    a: "Micro-omvormers zijn beter bij een dak met gedeeltelijke schaduw (bomen, schoorstenen, dakkapellen), bij meerdere dakvlakken met verschillende oriëntaties, of als je individuele paneelmonitoring wil. Bij een schaduwvrij dak met één oriëntatie biedt een string-omvormer doorgaans dezelfde opbrengst tegen lagere kosten."
-  - q: "Wat kost een micro-omvormer-systeem meer dan een string-omvormer?"
-    a: "Micro-omvormers kosten per paneel gemiddeld €80–€150 meer dan het equivalent in een string-systeem met power optimizers. Voor 12 panelen betekent dit een meerprijs van €960–€1.800 bij Enphase of APsystems versus een SolarEdge of Huawei string-systeem."
-  - q: "Is SolarEdge hetzelfde als een micro-omvormer?"
-    a: "Nee. SolarEdge gebruikt een hybride aanpak: per paneel een power optimizer (DC-DC converter) die de panelen ontkoppelt, gecombineerd met één centrale string-omvormer. Enphase en APsystems gebruiken echte micro-omvormers die per paneel AC produceren."
-  - q: "Welke omvormer heeft de langste garantie in 2026?"
-    a: "Enphase biedt 25 jaar garantie op hun micro-omvormers (IQ8-serie) — de langste in de industrie. SolarEdge biedt 12 jaar (uitbreidbaar naar 20–25 jaar). Huawei geeft 10 jaar standaard garantie op hun omvormers."
-  - q: "Kan ik Huawei Luna thuisbatterij koppelen aan een Enphase-systeem?"
-    a: "Nee. De Huawei Luna BESS-batterij werkt alleen met Huawei FusionSolar omvormers. Wil je een thuisbatterij toevoegen aan een Enphase-systeem, gebruik dan de Enphase IQ Battery of een compatibele oplossing via een hybride omvormer."
-  - q: "Is APsystems een goede keuze voor Nederlandse daken?"
-    a: "APsystems (voorheen APS) maakt betrouwbare micro-omvormers in de middenklasse die goed presteren op Nederlandse daken. Ze zijn populair als goedkoper alternatief voor Enphase. De garantie is 10–15 jaar, app-kwaliteit is iets minder dan Enphase maar functioneel."
+- q: Wat is het verschil tussen een micro-omvormer en een string-omvormer?
+  a: Een string-omvormer zit centraal en converteert de DC-stroom van alle panelen samen naar AC. Een micro-omvormer zit per paneel en converteert per paneel individueel. Bij micro-omvormers heeft schaduw of vervuiling op één paneel geen invloed op de andere panelen.
+- q: Wanneer is een micro-omvormer beter dan een string-omvormer?
+  a: Micro-omvormers zijn beter bij een dak met gedeeltelijke schaduw (bomen, schoorstenen, dakkapellen), bij meerdere dakvlakken met verschillende oriëntaties, of als je individuele paneelmonitoring wil. Bij een schaduwvrij dak met één oriëntatie biedt een string-omvormer doorgaans dezelfde opbrengst tegen lagere kosten.
+- q: Wat kost een micro-omvormer-systeem meer dan een string-omvormer?
+  a: Micro-omvormers kosten per paneel gemiddeld €80–€150 meer dan het equivalent in een string-systeem met power optimizers. Voor 12 panelen betekent dit een meerprijs van €960–€1.800 bij Enphase of APsystems versus een SolarEdge of Huawei string-systeem.
+- q: Is SolarEdge hetzelfde als een micro-omvormer?
+  a: 'Nee. SolarEdge gebruikt een hybride aanpak: per paneel een power optimizer (DC-DC converter) die de panelen ontkoppelt, gecombineerd met één centrale string-omvormer. Enphase en APsystems gebruiken echte micro-omvormers die per paneel AC produceren.'
+- q: Welke omvormer heeft de langste garantie in 2026?
+  a: Enphase biedt 25 jaar garantie op hun micro-omvormers (IQ8-serie) — de langste in de industrie. SolarEdge biedt 12 jaar (uitbreidbaar naar 20–25 jaar). Huawei geeft 10 jaar standaard garantie op hun omvormers.
+- q: Kan ik Huawei Luna thuisbatterij koppelen aan een Enphase-systeem?
+  a: Nee. De Huawei Luna BESS-batterij werkt alleen met Huawei FusionSolar omvormers. Wil je een thuisbatterij toevoegen aan een Enphase-systeem, gebruik dan de Enphase IQ Battery of een compatibele oplossing via een hybride omvormer.
+- q: Is APsystems een goede keuze voor Nederlandse daken?
+  a: APsystems (voorheen APS) maakt betrouwbare micro-omvormers in de middenklasse die goed presteren op Nederlandse daken. Ze zijn populair als goedkoper alternatief voor Enphase. De garantie is 10–15 jaar, app-kwaliteit is iets minder dan Enphase maar functioneel.
 products:
-  - name: "Huawei Luna thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/huawei-luna"
-    price: "op aanvraag"
-  - name: "Beste omvormers zonnepanelen 2026"
-    url: "/posts/beste-omvormer-zonnepanelen-2026"
-    price: "zie artikel"
+- name: Huawei Luna thuisbatterij
+  url: https://go.duurzaamthuislab.nl/huawei-luna
+  price: op aanvraag
+- name: Beste omvormers zonnepanelen 2026
+  url: /posts/beste-omvormer-zonnepanelen-2026
+  price: zie artikel
+schema_type: Article
 ---
 
 Ik weet nog goed hoe de installateur mij uitlegde waarom hij SolarEdge aanbeval boven een standaard string-omvormer. "Je dak heeft drie takken van die beuk aan de westkant die 's ochtends schaduwen. Met een gewone string-omvormer verlies je dan opbrengst van het hele dak." Hij had gelijk, maar het kostte me ook €700 extra.

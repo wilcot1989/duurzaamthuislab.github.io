@@ -1,37 +1,51 @@
 ---
-title: "Accu vs supercapacitor thuisbatterij 2026"
-date: 2026-06-29T10:00:00+01:00
-lastmod: 2026-06-29T10:00:00+01:00
-description: "Lithium vs nieuwe accu-technologieën — wanneer relevant, wat is hype, wat werkt nu al voor Nederlandse huishoudens."
-categories: ["thuisbatterijen"]
-tags: ["supercapacitor thuisbatterij", "lithium-ion vs supercapacitor", "thuisbatterij technologie", "energieopslag technologie 2026", "solid-state batterij", "natriumion batterij"]
-keywords: ["supercapacitor thuisbatterij 2026", "lithium vs supercapacitor woning", "beste batterij technologie thuis", "solid state batterij woning", "natriumion batterij nederland", "nieuwe batterij technologie thuisopslag"]
+title: Accu vs supercapacitor thuisbatterij 2026
+date: 2026-06-29 10:00:00+01:00
+lastmod: 2026-06-29 10:00:00+01:00
+description: Lithium vs nieuwe accu-technologieën — wanneer relevant, wat is hype, wat werkt nu al voor Nederlandse huishoudens.
+categories:
+- thuisbatterijen
+tags:
+- supercapacitor thuisbatterij
+- lithium-ion vs supercapacitor
+- thuisbatterij technologie
+- energieopslag technologie 2026
+- solid-state batterij
+- natriumion batterij
+keywords:
+- supercapacitor thuisbatterij 2026
+- lithium vs supercapacitor woning
+- beste batterij technologie thuis
+- solid state batterij woning
+- natriumion batterij nederland
+- nieuwe batterij technologie thuisopslag
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Zijn supercapacitors beter dan lithium-batterijen voor thuis?"
-    a: "Nee, voor thuisopslag zijn supercapacitors in 2026 geen beter alternatief. Supercapacitors hebben uitstekende snelle laad-/ontlaadprestaties maar een energiedichtheid die 10-50 keer lager ligt dan lithium. Een bruikbare thuisbatterij van 10 kWh zou in supercapacitor-technologie onpraktisch groot en duur worden."
-  - q: "Wanneer komen solid-state batterijen voor thuis beschikbaar?"
-    a: "Commercieel beschikbare solid-state thuisbatterijen worden verwacht rond 2027-2029 in de premium-markt, met bredere beschikbaarheid na 2030. Pioniersfabrikanten zoals QuantumScape (VS) en Toyota (Japan) richten zich eerst op de EV-markt; de vertaling naar stationaire opslag volgt met vertraging."
-  - q: "Is natrium-ion een goed alternatief voor lithium-ion?"
-    a: "Natrium-ion is een veelbelovende technologie die goedkoper en beter beschikbaar is (natrium is overvloediger dan lithium). De energiedichtheid is 20-30% lager dan LiFePO4. CATL heeft natrium-ion-batterijen in productie; thuisbatterijen op basis van natrium-ion worden verwacht in 2026-2028 in het betaalsegment."
-  - q: "Wat is het verschil tussen een condensator en een supercapacitor?"
-    a: "Een gewone condensator slaat energie op in een elektrisch veld tussen twee platen. Een supercapacitor (ook: ultracapacitor of EDLC) heeft een veel groter oppervlak via poröse koolstof-elektroden en kan daardoor 10.000-100.000 keer meer energie opslaan dan een gewone condensator. Toch is de energiedichtheid nog altijd 30-100 keer lager dan een lithium-batterij."
-  - q: "Combineren sommige thuisbatterijen lithium en supercapacitor?"
-    a: "Ja. Hybride systemen die een supercapacitor combineren met een lithium-batterij bestaan in industriële toepassingen. De supercapacitor vangt snelle piekvraag op (hoge C-rate), de lithium-batterij levert de basiscapaciteit. Voor thuisopslag zijn dergelijke hybride systemen in 2026 nog niet commercieel beschikbaar in Nederland."
-  - q: "Wat zijn de voordelen van LiFePO4 boven NMC voor thuis?"
-    a: "LiFePO4 (lithium-ijzerfosfaat) heeft een langere levensduur (3.000-6.000 cycli vs 1.000-2.000 voor NMC), is thermisch stabieler (minder brandgevaar), degradeert langzamer en is minder afhankelijk van kobalt (betere leveringszekerheid). Het nadeel is een lagere energiedichtheid, wat echter voor stationaire opslag geen praktisch probleem is."
-  - q: "Moet ik wachten op nieuwe batterij-technologie voordat ik een thuisbatterij koop?"
-    a: "Nee, niet als je nu concrete energiebehoefte hebt. LiFePO4-thuisbatterijen zijn volwassen, betrouwbaar en worden met ISDE-subsidie ondersteund. De kans dat de volgende generatie (solid-state, natrium-ion) significant goedkoper is binnen 2-3 jaar is klein. Wacht niet op perfectie als de huidige technologie al uitstekend is."
+- q: Zijn supercapacitors beter dan lithium-batterijen voor thuis?
+  a: Nee, voor thuisopslag zijn supercapacitors in 2026 geen beter alternatief. Supercapacitors hebben uitstekende snelle laad-/ontlaadprestaties maar een energiedichtheid die 10-50 keer lager ligt dan lithium. Een bruikbare thuisbatterij van 10 kWh zou in supercapacitor-technologie onpraktisch groot en duur worden.
+- q: Wanneer komen solid-state batterijen voor thuis beschikbaar?
+  a: Commercieel beschikbare solid-state thuisbatterijen worden verwacht rond 2027-2029 in de premium-markt, met bredere beschikbaarheid na 2030. Pioniersfabrikanten zoals QuantumScape (VS) en Toyota (Japan) richten zich eerst op de EV-markt; de vertaling naar stationaire opslag volgt met vertraging.
+- q: Is natrium-ion een goed alternatief voor lithium-ion?
+  a: Natrium-ion is een veelbelovende technologie die goedkoper en beter beschikbaar is (natrium is overvloediger dan lithium). De energiedichtheid is 20-30% lager dan LiFePO4. CATL heeft natrium-ion-batterijen in productie; thuisbatterijen op basis van natrium-ion worden verwacht in 2026-2028 in het betaalsegment.
+- q: Wat is het verschil tussen een condensator en een supercapacitor?
+  a: 'Een gewone condensator slaat energie op in een elektrisch veld tussen twee platen. Een supercapacitor (ook: ultracapacitor of EDLC) heeft een veel groter oppervlak via poröse koolstof-elektroden en kan daardoor 10.000-100.000 keer meer energie opslaan dan een gewone condensator. Toch is de energiedichtheid nog altijd 30-100 keer lager dan een lithium-batterij.'
+- q: Combineren sommige thuisbatterijen lithium en supercapacitor?
+  a: Ja. Hybride systemen die een supercapacitor combineren met een lithium-batterij bestaan in industriële toepassingen. De supercapacitor vangt snelle piekvraag op (hoge C-rate), de lithium-batterij levert de basiscapaciteit. Voor thuisopslag zijn dergelijke hybride systemen in 2026 nog niet commercieel beschikbaar in Nederland.
+- q: Wat zijn de voordelen van LiFePO4 boven NMC voor thuis?
+  a: LiFePO4 (lithium-ijzerfosfaat) heeft een langere levensduur (3.000-6.000 cycli vs 1.000-2.000 voor NMC), is thermisch stabieler (minder brandgevaar), degradeert langzamer en is minder afhankelijk van kobalt (betere leveringszekerheid). Het nadeel is een lagere energiedichtheid, wat echter voor stationaire opslag geen praktisch probleem is.
+- q: Moet ik wachten op nieuwe batterij-technologie voordat ik een thuisbatterij koop?
+  a: Nee, niet als je nu concrete energiebehoefte hebt. LiFePO4-thuisbatterijen zijn volwassen, betrouwbaar en worden met ISDE-subsidie ondersteund. De kans dat de volgende generatie (solid-state, natrium-ion) significant goedkoper is binnen 2-3 jaar is klein. Wacht niet op perfectie als de huidige technologie al uitstekend is.
 products:
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3999"
-  - name: "Marstek B5000"
-    url: "https://go.duurzaamthuislab.nl/marstek"
-    price: "3499"
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '3999'
+- name: Marstek B5000
+  url: https://go.duurzaamthuislab.nl/marstek
+  price: '3499'
+schema_type: Article
 ---
 
 Een technisch onderlegde kennis stuurde me vorig jaar een link naar een Kickstarter-project: "Mark, ze beloven een thuisbatterij op basis van supercapacitors. 1.000.000 laadcycli! Moet ik wachten?" Ik keek naar de specificaties, deed mijn rekenwerk en stuurde hem terug: nee, dit is niet wat het lijkt.

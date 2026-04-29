@@ -1,38 +1,49 @@
 ---
-title: "Beste Zonnepanelen 2026: Top 5 Merken Vergeleken"
-date: 2026-04-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "De 5 beste zonnepanelen van 2026 vergeleken op rendement, prijs, garantie en duurzaamheid. SunPower, REC, Longi, JA Solar en Trina Solar."
-categories: ["zonnepanelen"]
-tags: ["zonnepanelen", "SunPower", "REC", "Longi", "zonne-energie"]
-keywords: ["beste zonnepanelen 2026", "zonnepanelen vergelijking", "zonnepanelen rendement", "zonnepanelen prijs"]
+title: 'Beste Zonnepanelen 2026: Top 5 Merken Vergeleken'
+date: 2026-04-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: De 5 beste zonnepanelen van 2026 vergeleken op rendement, prijs, garantie en duurzaamheid. SunPower, REC, Longi, JA Solar en Trina Solar.
+categories:
+- zonnepanelen
+tags:
+- zonnepanelen
+- SunPower
+- REC
+- Longi
+- zonne-energie
+keywords:
+- beste zonnepanelen 2026
+- zonnepanelen vergelijking
+- zonnepanelen rendement
+- zonnepanelen prijs
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kosten zonnepanelen in 2026?"
-    a: "Zonnepanelen kosten in 2026 gemiddeld €250-€500 per paneel inclusief installatie, afhankelijk van het merk en vermogen. Een complete installatie van 10 panelen (4.000 Wp) kost €2.500-€5.000 inclusief omvormer en installatie. Premiummerken als SunPower zijn duurder maar leveren meer op."
-  - q: "Hoeveel zonnepanelen heb ik nodig?"
-    a: "Een gemiddeld Nederlands huishouden (3.500 kWh/jaar) heeft 8-10 panelen van 400 Wp nodig. Dit beslaat circa 16-20 m² dakoppervlak. Met een warmtepomp of elektrische auto stijgt het verbruik en heb je 12-16 panelen nodig."
-  - q: "Welk merk zonnepaneel is het beste?"
-    a: "SunPower Maxeon biedt het hoogste rendement (22,8%) en de langste garantie (40 jaar). REC Alpha Pure-R biedt de beste prijs-kwaliteitverhouding met 22,3% rendement. Voor budgetbewuste kopers zijn Longi en JA Solar uitstekende keuzes met goede prestaties tegen een lagere prijs."
-  - q: "Hoe lang gaan zonnepanelen mee?"
-    a: "Moderne zonnepanelen gaan 25-30 jaar mee en behouden na 25 jaar nog 80-87% van hun oorspronkelijke vermogen. Premiummerken als SunPower garanderen 92% vermogen na 25 jaar. De omvormer gaat gemiddeld 12-25 jaar mee, afhankelijk van het type."
-  - q: "Zijn zonnepanelen nog rendabel na afbouw salderingsregeling?"
-    a: "Ja, zonnepanelen blijven rendabel. De terugverdientijd stijgt van 5-7 jaar naar 7-10 jaar zonder salderen. Met een thuisbatterij of dynamisch energiecontract kun je meer eigen stroom benutten, waardoor de terugverdientijd weer daalt. Zonnepanelen zijn ook zonder salderen een goede investering."
-  - q: "Welke omvormer heb ik nodig bij mijn zonnepanelen?"
-    a: "Er zijn twee typen: string-omvormers met optimizers (SolarEdge, goedkoper) en micro-omvormers (Enphase, betrouwbaarder). Bij schaduw of een complex dak is Enphase beter. Bij een standaard dak zonder schaduw biedt SolarEdge de beste prijs-kwaliteit. Lees onze SolarEdge vs Enphase vergelijking."
+- q: Wat kosten zonnepanelen in 2026?
+  a: Zonnepanelen kosten in 2026 gemiddeld €250-€500 per paneel inclusief installatie, afhankelijk van het merk en vermogen. Een complete installatie van 10 panelen (4.000 Wp) kost €2.500-€5.000 inclusief omvormer en installatie. Premiummerken als SunPower zijn duurder maar leveren meer op.
+- q: Hoeveel zonnepanelen heb ik nodig?
+  a: Een gemiddeld Nederlands huishouden (3.500 kWh/jaar) heeft 8-10 panelen van 400 Wp nodig. Dit beslaat circa 16-20 m² dakoppervlak. Met een warmtepomp of elektrische auto stijgt het verbruik en heb je 12-16 panelen nodig.
+- q: Welk merk zonnepaneel is het beste?
+  a: SunPower Maxeon biedt het hoogste rendement (22,8%) en de langste garantie (40 jaar). REC Alpha Pure-R biedt de beste prijs-kwaliteitverhouding met 22,3% rendement. Voor budgetbewuste kopers zijn Longi en JA Solar uitstekende keuzes met goede prestaties tegen een lagere prijs.
+- q: Hoe lang gaan zonnepanelen mee?
+  a: Moderne zonnepanelen gaan 25-30 jaar mee en behouden na 25 jaar nog 80-87% van hun oorspronkelijke vermogen. Premiummerken als SunPower garanderen 92% vermogen na 25 jaar. De omvormer gaat gemiddeld 12-25 jaar mee, afhankelijk van het type.
+- q: Zijn zonnepanelen nog rendabel na afbouw salderingsregeling?
+  a: Ja, zonnepanelen blijven rendabel. De terugverdientijd stijgt van 5-7 jaar naar 7-10 jaar zonder salderen. Met een thuisbatterij of dynamisch energiecontract kun je meer eigen stroom benutten, waardoor de terugverdientijd weer daalt. Zonnepanelen zijn ook zonder salderen een goede investering.
+- q: Welke omvormer heb ik nodig bij mijn zonnepanelen?
+  a: 'Er zijn twee typen: string-omvormers met optimizers (SolarEdge, goedkoper) en micro-omvormers (Enphase, betrouwbaarder). Bij schaduw of een complex dak is Enphase beter. Bij een standaard dak zonder schaduw biedt SolarEdge de beste prijs-kwaliteit. Lees onze SolarEdge vs Enphase vergelijking.'
 products:
-  - name: "Zonneplan"
-    url: "https://zonneplan.nl/zonnepanelen"
-    price: "5000"
-  - name: "Coolblue Zonnepanelen"
-    url: "https://www.coolblue.nl/zonnepanelen"
-    price: "5500"
-  - name: "SolarNRG"
-    url: "https://www.solarnrg.nl/"
-    price: "5000"
+- name: Zonneplan
+  url: https://zonneplan.nl/zonnepanelen
+  price: '5000'
+- name: Coolblue Zonnepanelen
+  url: https://www.coolblue.nl/zonnepanelen
+  price: '5500'
+- name: SolarNRG
+  url: https://www.solarnrg.nl/
+  price: '5000'
+schema_type: Article
 ---
 
 Mijn 16 panelen (5,6 kWp) leveren nu ruim anderhalf jaar stroom en ik heb ze in 6 jaar terugverdiend — sneller dan de installateur beloofde. Het verschil tussen panelen van €0,80/Wp en €1,40/Wp lijkt klein, maar over 25 jaar praat je over duizenden euro's meer of minder opbrengst. Ik heb de 5 beste merken op de Nederlandse markt naast elkaar gelegd.

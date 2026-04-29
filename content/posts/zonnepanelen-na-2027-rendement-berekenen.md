@@ -1,45 +1,58 @@
 ---
-title: "Zonnepanelen na 2027: hoe bereken je het rendement echt?"
-date: 2026-05-02T08:00:00+02:00
-lastmod: 2026-05-02T08:00:00+02:00
-description: "Zijn zonnepanelen nog rendabel na de saldering-stop? Concrete berekening per huishoudprofiel met en zonder thuisbatterij. Met formule en voorbeelden."
-categories: ["zonne-energie", "energie"]
-tags: ["zonnepanelen", "saldering 2027", "rendement berekenen", "terugverdientijd", "zonnepanelen na 2027"]
-keywords: ["zonnepanelen na 2027", "zijn zonnepanelen na 2027 nog rendabel", "rendement zonnepanelen 2027", "terugverdientijd zonnepanelen 2027", "kosten zonnepanelen na 2027"]
+title: 'Zonnepanelen na 2027: hoe bereken je het rendement echt?'
+date: 2026-05-02 08:00:00+02:00
+lastmod: 2026-05-02 08:00:00+02:00
+description: Zijn zonnepanelen nog rendabel na de saldering-stop? Concrete berekening per huishoudprofiel met en zonder thuisbatterij. Met formule en voorbeelden.
+categories:
+- zonne-energie
+- energie
+tags:
+- zonnepanelen
+- saldering 2027
+- rendement berekenen
+- terugverdientijd
+- zonnepanelen na 2027
+keywords:
+- zonnepanelen na 2027
+- zijn zonnepanelen na 2027 nog rendabel
+- rendement zonnepanelen 2027
+- terugverdientijd zonnepanelen 2027
+- kosten zonnepanelen na 2027
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Zijn zonnepanelen na 2027 nog wel rendabel?"
-    a: "Ja, voor de meeste huishoudens. De terugverdientijd schuift wel op van 6-7 jaar naar 9-12 jaar zonder maatregelen. Met een dynamisch contract kom je rond 8-10 jaar uit, met een thuisbatterij erbij 7-9 jaar. Een installatie levensduur van 25 jaar betekent dat je daarna 15+ jaar pure winst maakt."
-  - q: "Wat is mijn rendement zonder maatregelen?"
-    a: "Voor een gemiddeld systeem (10 panelen, €5.500 investering) ligt het IRR op 5-7% over de levensduur als je niets doet. Met dynamisch contract klimt dat naar 8-10%, met thuisbatterij naar 9-11%. Ter vergelijking: een spaarrekening doet 2-3%, ETF wereldindex doet historisch 6-8%."
-  - q: "Hoe bereken ik mijn eigen rendement?"
-    a: "Vier stappen: (1) Bereken je opwekking per jaar (vermogen × 900 kWh/kWp voor zuid, 800 voor oost-west). (2) Bepaal eigen verbruik (~30-50% standaard, hoger met smart home). (3) Reken eigen verbruik tegen €0,30/kWh, teruglevering tegen €0,10/kWh. (4) Trek vaste lasten (verzekering, onderhoud) eraf. Deel investering door jaaropbrengst = terugverdientijd."
-  - q: "Is uitbreiden van mijn bestaande systeem nog slim?"
-    a: "Vrijwel altijd nee, tenzij je veel meer eigen verbruik hebt dan je opwekt. Extra panelen leveren bijna alleen teruglevering op (waarvan je na 2027 maar €0,10/kWh krijgt). Investering €200/paneel × 10 = €2.000 voor 4.000 kWh teruglevering = €400/jaar opbrengst = 5 jaar terugverdienen. Dat lijkt OK maar de panelen verouderen, de prijzen dalen — wachten is meestal beter."
-  - q: "Welke factor verbetert mijn rendement het meest?"
-    a: "Dynamisch contract heeft de hoogste impact-per-euro: €0 investering voor €200-€600/jr besparing. Daarna komt eigen verbruik verhogen via smart home (€0-€500 investering, €100-€300/jr). Pas daarna thuisbatterij (€5.500+ investering, €700-€900/jr). Volgorde: contract → smart → batterij."
-  - q: "Wat als ik nu wil starten — is het nog wel slim?"
-    a: "Voor de meeste huishoudens nog steeds ja. Een nieuw systeem betaalt zich in 9-12 jaar terug bij dynamisch contract (rekening houdend met saldering-stop). Levensduur 25 jaar = 13+ jaar gratis stroom. Wel verstandig: kleiner systeem nemen dat past bij je eigen verbruik, niet maximaal vol leggen voor teruglevering."
-  - q: "Hoe lang gaan zonnepanelen mee?"
-    a: "Moderne panelen hebben 25 jaar productiegarantie (gegarandeerd 80% van vermogen na 25 jaar). In de praktijk gaan ze 30-35 jaar mee. Omvormers gemiddeld 12-15 jaar — dus eens vervangen tijdens levensduur paneel."
-  - q: "Welke panelen geven het beste rendement?"
-    a: "In 2026 lopen Trina Vertex S+, Jinko Tiger Neo, en LG Neon V voorop op 22-23% efficiëntie. Voor de meeste huishoudens is het vermogen-per-paneel minder belangrijk dan de installatie zelf — een goede installateur en optimalisatie (oost-west, optimizers) maken meer verschil dan 1-2% extra paneel-rendement."
+- q: Zijn zonnepanelen na 2027 nog wel rendabel?
+  a: Ja, voor de meeste huishoudens. De terugverdientijd schuift wel op van 6-7 jaar naar 9-12 jaar zonder maatregelen. Met een dynamisch contract kom je rond 8-10 jaar uit, met een thuisbatterij erbij 7-9 jaar. Een installatie levensduur van 25 jaar betekent dat je daarna 15+ jaar pure winst maakt.
+- q: Wat is mijn rendement zonder maatregelen?
+  a: 'Voor een gemiddeld systeem (10 panelen, €5.500 investering) ligt het IRR op 5-7% over de levensduur als je niets doet. Met dynamisch contract klimt dat naar 8-10%, met thuisbatterij naar 9-11%. Ter vergelijking: een spaarrekening doet 2-3%, ETF wereldindex doet historisch 6-8%.'
+- q: Hoe bereken ik mijn eigen rendement?
+  a: 'Vier stappen: (1) Bereken je opwekking per jaar (vermogen × 900 kWh/kWp voor zuid, 800 voor oost-west). (2) Bepaal eigen verbruik (~30-50% standaard, hoger met smart home). (3) Reken eigen verbruik tegen €0,30/kWh, teruglevering tegen €0,10/kWh. (4) Trek vaste lasten (verzekering, onderhoud) eraf. Deel investering door jaaropbrengst = terugverdientijd.'
+- q: Is uitbreiden van mijn bestaande systeem nog slim?
+  a: Vrijwel altijd nee, tenzij je veel meer eigen verbruik hebt dan je opwekt. Extra panelen leveren bijna alleen teruglevering op (waarvan je na 2027 maar €0,10/kWh krijgt). Investering €200/paneel × 10 = €2.000 voor 4.000 kWh teruglevering = €400/jaar opbrengst = 5 jaar terugverdienen. Dat lijkt OK maar de panelen verouderen, de prijzen dalen — wachten is meestal beter.
+- q: Welke factor verbetert mijn rendement het meest?
+  a: 'Dynamisch contract heeft de hoogste impact-per-euro: €0 investering voor €200-€600/jr besparing. Daarna komt eigen verbruik verhogen via smart home (€0-€500 investering, €100-€300/jr). Pas daarna thuisbatterij (€5.500+ investering, €700-€900/jr). Volgorde: contract → smart → batterij.'
+- q: Wat als ik nu wil starten — is het nog wel slim?
+  a: 'Voor de meeste huishoudens nog steeds ja. Een nieuw systeem betaalt zich in 9-12 jaar terug bij dynamisch contract (rekening houdend met saldering-stop). Levensduur 25 jaar = 13+ jaar gratis stroom. Wel verstandig: kleiner systeem nemen dat past bij je eigen verbruik, niet maximaal vol leggen voor teruglevering.'
+- q: Hoe lang gaan zonnepanelen mee?
+  a: Moderne panelen hebben 25 jaar productiegarantie (gegarandeerd 80% van vermogen na 25 jaar). In de praktijk gaan ze 30-35 jaar mee. Omvormers gemiddeld 12-15 jaar — dus eens vervangen tijdens levensduur paneel.
+- q: Welke panelen geven het beste rendement?
+  a: In 2026 lopen Trina Vertex S+, Jinko Tiger Neo, en LG Neon V voorop op 22-23% efficiëntie. Voor de meeste huishoudens is het vermogen-per-paneel minder belangrijk dan de installatie zelf — een goede installateur en optimalisatie (oost-west, optimizers) maken meer verschil dan 1-2% extra paneel-rendement.
 products:
-  - name: "Tibber dynamisch contract"
-    url: "https://tibber.com/nl"
-    price: "6"
-  - name: "Frank Energie"
-    url: "https://www.frankenergie.nl/"
-    price: "0"
-  - name: "Huawei Luna 2000"
-    url: "https://solar.huawei.com/eu/residential/luna"
-    price: "6000"
-  - name: "Sessy 5 kWh"
-    url: "https://sessy.nl/"
-    price: "3795"
+- name: Tibber dynamisch contract
+  url: https://tibber.com/nl
+  price: '6'
+- name: Frank Energie
+  url: https://www.frankenergie.nl/
+  price: '0'
+- name: Huawei Luna 2000
+  url: https://solar.huawei.com/eu/residential/luna
+  price: '6000'
+- name: Sessy 5 kWh
+  url: https://sessy.nl/
+  price: '3795'
+schema_type: Article
 ---
 
 "Hoor eens, ik twijfel of ik nog wel zonnepanelen moet aanschaffen — saldering stopt toch?" Dit is de vraag die ik de afgelopen maanden minstens twintig keer heb gekregen. En het is een terechte vraag.

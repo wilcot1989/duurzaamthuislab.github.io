@@ -1,42 +1,55 @@
 ---
-title: "Thuisbatterij Zonder Zonnepanelen: Heeft Het Zin in 2027?"
-date: 2026-06-23T09:00:00+01:00
-lastmod: 2026-06-23T09:00:00+01:00
-description: "Heeft een thuisbatterij zonder zonnepanelen zin in 2027? Met een dynamisch energiecontract en slimme thuisbatterij kun je toch besparen op je energierekening."
-categories: ["thuisbatterijen"]
-tags: ["thuisbatterij zonder zonnepanelen", "dynamisch energiecontract", "Sessy", "Tibber", "Marstek", "spotprijzen"]
-keywords: ["thuisbatterij zonder zonnepanelen", "batterij dynamisch contract 2027", "Sessy zonder zonnepanelen", "Tibber thuisbatterij", "thuisbatterij terugverdientijd"]
+title: 'Thuisbatterij Zonder Zonnepanelen: Heeft Het Zin in 2027?'
+date: 2026-06-23 09:00:00+01:00
+lastmod: 2026-06-23 09:00:00+01:00
+description: Heeft een thuisbatterij zonder zonnepanelen zin in 2027? Met een dynamisch energiecontract en slimme thuisbatterij kun je toch besparen op je energierekening.
+categories:
+- thuisbatterijen
+tags:
+- thuisbatterij zonder zonnepanelen
+- dynamisch energiecontract
+- Sessy
+- Tibber
+- Marstek
+- spotprijzen
+keywords:
+- thuisbatterij zonder zonnepanelen
+- batterij dynamisch contract 2027
+- Sessy zonder zonnepanelen
+- Tibber thuisbatterij
+- thuisbatterij terugverdientijd
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Heeft een thuisbatterij zonder zonnepanelen zin?"
-    a: "Ja, mits je een dynamisch energiecontract hebt. Door 's nachts of op spotmarkt-laagtepunten goedkoop te laden en te ontladen op dure uren, bespaar je €200-€600 per jaar afhankelijk van je verbruik en de marktvariatie. Zonder dynamisch contract is de besparing minimaal."
-  - q: "Wat is een dynamisch energiecontract?"
-    a: "Bij een dynamisch energiecontract betaal je per uur de actuele groothandelsprijs (EPEX-spotprijs) plus een vaste opslag van de leverancier. De prijs varieert sterk: 's nachts en bij veel wind/zon is stroom soms bijna gratis of zelfs negatief geprijsd; in de avondspits is hij het duurst."
-  - q: "Wat verdien je terug met een thuisbatterij zonder zonnepanelen?"
-    a: "Bij een Sessy (5 kWh, ca. €4.200) en een dynamisch contract is de jaarlijkse besparing €300-€600 afhankelijk van prijsvariatie. De terugverdientijd is daarmee 7-14 jaar. Dat is langer dan bij combinatie met zonnepanelen (5-9 jaar)."
-  - q: "Welke thuisbatterij werkt het beste met een dynamisch contract?"
-    a: "De Sessy is specifiek ontworpen voor dynamische contracten — het algoritme koopt en verkoopt automatisch op EPEX-spotprijzen. Marstek heeft ook een dynamische ladingsstrategie. Systemen zoals Huawei Luna en Tesla Powerwall zijn minder geoptimaliseerd voor pure spotmarkt-arbitrage."
-  - q: "Wat zijn de beste dynamische energieproviders in Nederland?"
-    a: "De bekendste zijn Tibber, ANWB Energie (dynamisch), Zonneplan en ENGIE. Tibber heeft een actieve community en apps voor thuisbatterij-integratie. ANWB Energie heeft soms gunstigere vaste opslagen. Vergelijk altijd de totale jaarverwachting, niet alleen de opslag per kWh."
-  - q: "Kan ik terugleveren aan het net met een thuisbatterij zonder zonnepanelen?"
-    a: "Technisch gezien kun je ontladen naar het net (arbitrage), maar dat is juridisch ingewikkeld in Nederland. Feedin (terugleveren zonder eigen opwekking) is niet standaard toegestaan voor particulieren. De meeste batterijsystemen ontladen alleen voor eigen gebruik, niet voor teruglevering zonder zonnepanelen."
-  - q: "Zijn er negatieve uren bij dynamische contracten waarbij stroom gratis is?"
-    a: "Ja. In 2025 waren er in Nederland ruim 180 uren met een negatieve EPEX-spotprijs, voornamelijk in de zomer bij veel zon en wind gecombineerd met laag verbruik. Bij een dynamisch contract betaal je dan niets of ontvang je zelfs een kleine vergoeding per kWh. Een thuisbatterij laadt automatisch in die uren."
-  - q: "Wat verandert er in 2027 dat relevant is voor thuisbatterijen?"
-    a: "De salderingsregeling wordt in 2027 volledig afgebouwd. Voor huishoudens zonder zonnepanelen heeft dat geen directe impact. Maar het maakt thuisbatterijen interessanter voor de bredere markt, wat kan leiden tot lagere prijzen. Verwacht wordt dat thuisbatterijprijzen in 2027-2028 verder dalen door schaalvoordelen."
+- q: Heeft een thuisbatterij zonder zonnepanelen zin?
+  a: Ja, mits je een dynamisch energiecontract hebt. Door 's nachts of op spotmarkt-laagtepunten goedkoop te laden en te ontladen op dure uren, bespaar je €200-€600 per jaar afhankelijk van je verbruik en de marktvariatie. Zonder dynamisch contract is de besparing minimaal.
+- q: Wat is een dynamisch energiecontract?
+  a: 'Bij een dynamisch energiecontract betaal je per uur de actuele groothandelsprijs (EPEX-spotprijs) plus een vaste opslag van de leverancier. De prijs varieert sterk: ''s nachts en bij veel wind/zon is stroom soms bijna gratis of zelfs negatief geprijsd; in de avondspits is hij het duurst.'
+- q: Wat verdien je terug met een thuisbatterij zonder zonnepanelen?
+  a: Bij een Sessy (5 kWh, ca. €4.200) en een dynamisch contract is de jaarlijkse besparing €300-€600 afhankelijk van prijsvariatie. De terugverdientijd is daarmee 7-14 jaar. Dat is langer dan bij combinatie met zonnepanelen (5-9 jaar).
+- q: Welke thuisbatterij werkt het beste met een dynamisch contract?
+  a: De Sessy is specifiek ontworpen voor dynamische contracten — het algoritme koopt en verkoopt automatisch op EPEX-spotprijzen. Marstek heeft ook een dynamische ladingsstrategie. Systemen zoals Huawei Luna en Tesla Powerwall zijn minder geoptimaliseerd voor pure spotmarkt-arbitrage.
+- q: Wat zijn de beste dynamische energieproviders in Nederland?
+  a: De bekendste zijn Tibber, ANWB Energie (dynamisch), Zonneplan en ENGIE. Tibber heeft een actieve community en apps voor thuisbatterij-integratie. ANWB Energie heeft soms gunstigere vaste opslagen. Vergelijk altijd de totale jaarverwachting, niet alleen de opslag per kWh.
+- q: Kan ik terugleveren aan het net met een thuisbatterij zonder zonnepanelen?
+  a: Technisch gezien kun je ontladen naar het net (arbitrage), maar dat is juridisch ingewikkeld in Nederland. Feedin (terugleveren zonder eigen opwekking) is niet standaard toegestaan voor particulieren. De meeste batterijsystemen ontladen alleen voor eigen gebruik, niet voor teruglevering zonder zonnepanelen.
+- q: Zijn er negatieve uren bij dynamische contracten waarbij stroom gratis is?
+  a: Ja. In 2025 waren er in Nederland ruim 180 uren met een negatieve EPEX-spotprijs, voornamelijk in de zomer bij veel zon en wind gecombineerd met laag verbruik. Bij een dynamisch contract betaal je dan niets of ontvang je zelfs een kleine vergoeding per kWh. Een thuisbatterij laadt automatisch in die uren.
+- q: Wat verandert er in 2027 dat relevant is voor thuisbatterijen?
+  a: De salderingsregeling wordt in 2027 volledig afgebouwd. Voor huishoudens zonder zonnepanelen heeft dat geen directe impact. Maar het maakt thuisbatterijen interessanter voor de bredere markt, wat kan leiden tot lagere prijzen. Verwacht wordt dat thuisbatterijprijzen in 2027-2028 verder dalen door schaalvoordelen.
 products:
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "4499"
-  - name: "Marstek thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/marstek"
-    price: "3999"
-  - name: "Tibber dynamisch energiecontract"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "variabel"
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '4499'
+- name: Marstek thuisbatterij
+  url: https://go.duurzaamthuislab.nl/marstek
+  price: '3999'
+- name: Tibber dynamisch energiecontract
+  url: https://go.duurzaamthuislab.nl/tibber
+  price: variabel
+schema_type: Article
 ---
 
 Mijn buurman stelde me vorige maand een eerlijke vraag: "Mark, ik heb geen zonnepanelen en ga die ook niet nemen want mijn dak is op het noorden. Heeft een thuisbatterij dan nog enig zin?" Ik moest even nadenken. Want het eerlijke antwoord is: ja, maar met een kanttekening die aardig wat gewicht heeft.

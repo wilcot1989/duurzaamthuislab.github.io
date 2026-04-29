@@ -1,37 +1,52 @@
 ---
-title: "Echte Aansluitkosten Zonnepanelen 2026"
-date: 2026-06-08T09:00:00+01:00
-lastmod: 2026-06-08T09:00:00+01:00
-description: "Wat betaal je echt aan aansluitkosten voor zonnepanelen? Dakdoos, netbeheerderskosten en verborgen posten bij Liander, Stedin en Enexis eerlijk uitgelegd."
-categories: ["zonne-energie"]
-tags: ["aansluitkosten zonnepanelen", "dakdoos", "netbeheerder", "Liander", "Stedin", "Enexis", "verborgen kosten"]
-keywords: ["aansluitkosten zonnepanelen", "dakdoos kosten", "Liander aansluitkosten", "Stedin zonnepanelen kosten", "Enexis teruglevering kosten", "verborgen kosten zonnepanelen"]
+title: Echte Aansluitkosten Zonnepanelen 2026
+date: 2026-06-08 09:00:00+01:00
+lastmod: 2026-06-08 09:00:00+01:00
+description: Wat betaal je echt aan aansluitkosten voor zonnepanelen? Dakdoos, netbeheerderskosten en verborgen posten bij Liander, Stedin en Enexis eerlijk uitgelegd.
+categories:
+- zonne-energie
+tags:
+- aansluitkosten zonnepanelen
+- dakdoos
+- netbeheerder
+- Liander
+- Stedin
+- Enexis
+- verborgen kosten
+keywords:
+- aansluitkosten zonnepanelen
+- dakdoos kosten
+- Liander aansluitkosten
+- Stedin zonnepanelen kosten
+- Enexis teruglevering kosten
+- verborgen kosten zonnepanelen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Wat zijn de aansluitkosten voor zonnepanelen bij Liander?"
-    a: "Bij Liander betaal je voor een standaard enkelfasige teruglevering niets extra als je aansluiting al voldoende capaciteit heeft. Bij een verzwaring (naar 3x25A of hoger) rekent Liander €300-€1.200 afhankelijk van de werkzaamheden. Grote installaties boven 800 Wp enkelfasig moeten verplicht 3-fase aansluiting hebben."
-  - q: "Wat is een dakdoos en wat kost die?"
-    a: "Een dakdoos (ook wel dakdoorvoer of dakdoorboring) is de waterproof doorvoer waarmee de kabels van de zonnepanelen naar binnen worden geleid. De kostprijs is €80-€250 per doorvoer, afhankelijk van het daktype (schuin, plat, pannen, bitumen). Dit is een installatiekosten-post die zelden in de hoofdofferte staat."
-  - q: "Moet ik mijn aansluiting laten verzwaren voor zonnepanelen?"
-    a: "Niet altijd. Een aansluiting van 1x25A (enkelfase) mag maximaal 800 Wp (0,8 kWp) terugleveren zonder 3-fase aansluiting. Bij meer panelen is een 3x25A aansluiting verplicht. Bij een 3x25A aansluiting kun je tot 5-6 kWp leveren zonder extra verzwaring."
-  - q: "Rekent Enexis iets voor het registreren van mijn teruglevering?"
-    a: "Enexis rekent geen eenmalige registratievergoeding voor teruglevering. Wel kun je als je jaarlijks meer dan 10.000 kWh teruglevert te maken krijgen met terugleverstapeling, waarbij de vergoeding per kWh lager wordt. Check de actuele tarieven op de Enexis-website."
-  - q: "Zijn er verborgen kosten bij zonnepanelen die ik moet kennen?"
-    a: "Ja. De meest voorkomende verborgen kosten zijn: dakdoos/doorvoer (€80-€250), kabelgoot binnenwerk (€50-€300), omvormer-vervanging na 10-15 jaar (€500-€1.500), netaansluitingsverzwaring (€300-€4.800), en inspectiekosten na installatie door een elektriciënsbedrijf (optioneel, €100-€200)."
-  - q: "Wat als mijn netbeheerder zegt dat de capaciteit onvoldoende is?"
-    a: "Als je netbeheerder aangeeft dat het net in jouw wijk overbelast is (net congestie), kan hij je verzoek tot verzwaring of teruglevering weigeren of op een wachtlijst plaatsen. Dit is een groeiend probleem in Nederland, met name in Flevoland, Noord-Brabant en Utrecht."
-  - q: "Hoe lang duurt het voordat mijn aansluiting is aangepast door de netbeheerder?"
-    a: "Bij enkelvoudige registratie van teruglevering (geen fysieke aanpassing): 1-4 weken. Bij een verzwaring van de aansluiting: 4-16 weken, afhankelijk van de drukte bij de netbeheerder. In 2026 zijn wachttijden door hoge vraag opgelopen tot soms 6 maanden in bepaalde regio's."
+- q: Wat zijn de aansluitkosten voor zonnepanelen bij Liander?
+  a: Bij Liander betaal je voor een standaard enkelfasige teruglevering niets extra als je aansluiting al voldoende capaciteit heeft. Bij een verzwaring (naar 3x25A of hoger) rekent Liander €300-€1.200 afhankelijk van de werkzaamheden. Grote installaties boven 800 Wp enkelfasig moeten verplicht 3-fase aansluiting hebben.
+- q: Wat is een dakdoos en wat kost die?
+  a: Een dakdoos (ook wel dakdoorvoer of dakdoorboring) is de waterproof doorvoer waarmee de kabels van de zonnepanelen naar binnen worden geleid. De kostprijs is €80-€250 per doorvoer, afhankelijk van het daktype (schuin, plat, pannen, bitumen). Dit is een installatiekosten-post die zelden in de hoofdofferte staat.
+- q: Moet ik mijn aansluiting laten verzwaren voor zonnepanelen?
+  a: Niet altijd. Een aansluiting van 1x25A (enkelfase) mag maximaal 800 Wp (0,8 kWp) terugleveren zonder 3-fase aansluiting. Bij meer panelen is een 3x25A aansluiting verplicht. Bij een 3x25A aansluiting kun je tot 5-6 kWp leveren zonder extra verzwaring.
+- q: Rekent Enexis iets voor het registreren van mijn teruglevering?
+  a: Enexis rekent geen eenmalige registratievergoeding voor teruglevering. Wel kun je als je jaarlijks meer dan 10.000 kWh teruglevert te maken krijgen met terugleverstapeling, waarbij de vergoeding per kWh lager wordt. Check de actuele tarieven op de Enexis-website.
+- q: Zijn er verborgen kosten bij zonnepanelen die ik moet kennen?
+  a: 'Ja. De meest voorkomende verborgen kosten zijn: dakdoos/doorvoer (€80-€250), kabelgoot binnenwerk (€50-€300), omvormer-vervanging na 10-15 jaar (€500-€1.500), netaansluitingsverzwaring (€300-€4.800), en inspectiekosten na installatie door een elektriciënsbedrijf (optioneel, €100-€200).'
+- q: Wat als mijn netbeheerder zegt dat de capaciteit onvoldoende is?
+  a: Als je netbeheerder aangeeft dat het net in jouw wijk overbelast is (net congestie), kan hij je verzoek tot verzwaring of teruglevering weigeren of op een wachtlijst plaatsen. Dit is een groeiend probleem in Nederland, met name in Flevoland, Noord-Brabant en Utrecht.
+- q: Hoe lang duurt het voordat mijn aansluiting is aangepast door de netbeheerder?
+  a: 'Bij enkelvoudige registratie van teruglevering (geen fysieke aanpassing): 1-4 weken. Bij een verzwaring van de aansluiting: 4-16 weken, afhankelijk van de drukte bij de netbeheerder. In 2026 zijn wachttijden door hoge vraag opgelopen tot soms 6 maanden in bepaalde regio''s.'
 products:
-  - name: "Tibber"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "0"
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "5995"
+- name: Tibber
+  url: https://go.duurzaamthuislab.nl/tibber
+  price: '0'
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '5995'
+schema_type: Article
 ---
 
 Toen mijn buren vorig jaar zonnepanelen lieten plaatsen, kregen ze een offerte van €8.400 voor een systeem van 18 panelen. Uiteindelijk betaalden ze €10.200. De extra €1.800 zat in kosten die de installateur niet had vermeld: een dakdoorvoer, een kabelgoot door de kruipruimte, en een aansluiting-verzwaring die de netbeheerder in rekening bracht.

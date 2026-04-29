@@ -1,40 +1,54 @@
 ---
-title: "Tesla Powerwall Review 2026: Waard voor Nederlandse Huizen?"
-date: 2026-03-21T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Uitgebreide Tesla Powerwall 3 review voor Nederland. Specs, installatie, prijzen, terugverdientijd en vergelijking met Huawei Luna 2000 en BYD HVS."
-categories: ["thuisbatterijen"]
-tags: ["Tesla", "Powerwall", "thuisbatterij", "thuisaccu", "energieopslag", "Tesla Powerwall 3", "noodstroom"]
-keywords: ["tesla powerwall review", "tesla thuisbatterij nederland", "tesla powerwall 3 prijs", "tesla powerwall ervaringen", "tesla powerwall nederland 2026"]
+title: 'Tesla Powerwall Review 2026: Waard voor Nederlandse Huizen?'
+date: 2026-03-21 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Uitgebreide Tesla Powerwall 3 review voor Nederland. Specs, installatie, prijzen, terugverdientijd en vergelijking met Huawei Luna 2000 en BYD HVS.
+categories:
+- thuisbatterijen
+tags:
+- Tesla
+- Powerwall
+- thuisbatterij
+- thuisaccu
+- energieopslag
+- Tesla Powerwall 3
+- noodstroom
+keywords:
+- tesla powerwall review
+- tesla thuisbatterij nederland
+- tesla powerwall 3 prijs
+- tesla powerwall ervaringen
+- tesla powerwall nederland 2026
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kost een Tesla Powerwall 3 in Nederland inclusief installatie?"
-    a: "De Tesla Powerwall 3 kost in Nederland circa €8.500 - €9.500 voor het apparaat zelf. Inclusief installatie, bekabeling en configuratie moet je rekenen op €10.000 - €13.000 voor een compleet systeem."
-  - q: "Is de Tesla Powerwall beschikbaar in Nederland?"
-    a: "Ja, de Tesla Powerwall 3 is beschikbaar in Nederland via Tesla-gecertificeerde installateurs. De beschikbaarheid is verbeterd ten opzichte van eerdere jaren, maar levertijden van 4-8 weken zijn nog steeds gebruikelijk."
-  - q: "Hoe lang duurt het voordat een Tesla Powerwall zichzelf terugverdient?"
-    a: "Met de huidige salderingsregeling (2026) is de terugverdientijd circa 11-14 jaar. Na de afbouw van de salderingsregeling (2027-2031) daalt dit naar circa 8-10 jaar. Met ISDE-subsidie kun je uitkomen op 7-9 jaar."
-  - q: "Kan ik meerdere Tesla Powerwalls koppelen?"
-    a: "Ja, je kunt tot 4 Tesla Powerwalls parallel koppelen voor een totale capaciteit van 54 kWh en 20 kW continu vermogen. Dit is interessant voor grotere woningen of bij hoog energieverbruik."
-  - q: "Werkt de Tesla Powerwall bij stroomuitval?"
-    a: "Ja, de Powerwall 3 schakelt automatisch over bij een stroomstoring. De omschakeling gebeurt zo snel dat je apparaten niet worden onderbroken. Dit is een van de sterkste punten van de Powerwall."
-  - q: "Heb ik een Tesla-auto nodig voor een Tesla Powerwall?"
-    a: "Nee, je hebt geen Tesla-auto nodig. De Powerwall werkt volledig onafhankelijk met je zonnepanelen en het elektriciteitsnet. Heb je wel een Tesla? Dan kun je via de Tesla-app zowel je auto als je thuisenergie beheren."
-  - q: "Is de Tesla Powerwall beter dan de Huawei Luna 2000?"
-    a: "Beide zijn uitstekende thuisbatterijen. De Powerwall biedt een ingebouwde omvormer, grotere capaciteit (13,5 kWh) en automatische noodstroom. De Huawei Luna 2000 is modulair, goedkoper per kWh en breder beschikbaar in Nederland. De beste keuze hangt af van je situatie en budget."
+- q: Wat kost een Tesla Powerwall 3 in Nederland inclusief installatie?
+  a: De Tesla Powerwall 3 kost in Nederland circa €8.500 - €9.500 voor het apparaat zelf. Inclusief installatie, bekabeling en configuratie moet je rekenen op €10.000 - €13.000 voor een compleet systeem.
+- q: Is de Tesla Powerwall beschikbaar in Nederland?
+  a: Ja, de Tesla Powerwall 3 is beschikbaar in Nederland via Tesla-gecertificeerde installateurs. De beschikbaarheid is verbeterd ten opzichte van eerdere jaren, maar levertijden van 4-8 weken zijn nog steeds gebruikelijk.
+- q: Hoe lang duurt het voordat een Tesla Powerwall zichzelf terugverdient?
+  a: Met de huidige salderingsregeling (2026) is de terugverdientijd circa 11-14 jaar. Na de afbouw van de salderingsregeling (2027-2031) daalt dit naar circa 8-10 jaar. Met ISDE-subsidie kun je uitkomen op 7-9 jaar.
+- q: Kan ik meerdere Tesla Powerwalls koppelen?
+  a: Ja, je kunt tot 4 Tesla Powerwalls parallel koppelen voor een totale capaciteit van 54 kWh en 20 kW continu vermogen. Dit is interessant voor grotere woningen of bij hoog energieverbruik.
+- q: Werkt de Tesla Powerwall bij stroomuitval?
+  a: Ja, de Powerwall 3 schakelt automatisch over bij een stroomstoring. De omschakeling gebeurt zo snel dat je apparaten niet worden onderbroken. Dit is een van de sterkste punten van de Powerwall.
+- q: Heb ik een Tesla-auto nodig voor een Tesla Powerwall?
+  a: Nee, je hebt geen Tesla-auto nodig. De Powerwall werkt volledig onafhankelijk met je zonnepanelen en het elektriciteitsnet. Heb je wel een Tesla? Dan kun je via de Tesla-app zowel je auto als je thuisenergie beheren.
+- q: Is de Tesla Powerwall beter dan de Huawei Luna 2000?
+  a: Beide zijn uitstekende thuisbatterijen. De Powerwall biedt een ingebouwde omvormer, grotere capaciteit (13,5 kWh) en automatische noodstroom. De Huawei Luna 2000 is modulair, goedkoper per kWh en breder beschikbaar in Nederland. De beste keuze hangt af van je situatie en budget.
 products:
-  - name: "Tesla Powerwall 3"
-    url: "https://www.tesla.com/nl_nl/powerwall"
-    price: "9500"
-  - name: "Huawei Luna 2000"
-    url: "https://solar.huawei.com/eu/residential/luna"
-    price: "6000"
-  - name: "EcoFlow PowerOcean"
-    url: "https://nl.ecoflow.com/products/power-ocean"
-    price: "7500"
+- name: Tesla Powerwall 3
+  url: https://www.tesla.com/nl_nl/powerwall
+  price: '9500'
+- name: Huawei Luna 2000
+  url: https://solar.huawei.com/eu/residential/luna
+  price: '6000'
+- name: EcoFlow PowerOcean
+  url: https://nl.ecoflow.com/products/power-ocean
+  price: '7500'
+schema_type: Review
 ---
 
 Ik heb zelf voor de Huawei Luna 2000 gekozen in plaats van de Tesla Powerwall, en mensen vragen me regelmatig waarom. Het antwoord: prijs per kWh. Maar de Powerwall 3 heeft wel degelijk sterke punten die mijn Luna mist — met name de ingebouwde omvormer en de automatische noodstroomfunctie. In deze review vergelijk ik de Tesla eerlijk met mijn eigen ervaring en de alternatieven op de Nederlandse markt.

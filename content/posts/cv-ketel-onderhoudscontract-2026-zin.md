@@ -1,39 +1,58 @@
 ---
-title: "Cv-ketel onderhoudscontract 2026: heb je het echt nodig?"
-date: 2026-05-21T08:00:00+02:00
-lastmod: 2026-05-21T08:00:00+02:00
-description: "Is een cv-ketel onderhoudscontract de moeite waard? Ik bereken wat het echt kost versus eenmalige reparatie en wanneer het wel of niet loont."
-categories: ["energie"]
-tags: ["cv-ketel onderhoud", "onderhoudscontract", "servicecontract", "cv-ketel reparatie", "verwarmingskosten", "cv-ketel storing", "Vaillant", "Intergas", "Remeha", "CV onderhoud"]
-keywords: ["cv-ketel onderhoudscontract 2026", "cv-ketel onderhoud kosten", "servicecontract cv-ketel zin", "cv-ketel onderhoud ja of nee", "cv-ketel storing reparatie kosten", "jaarlijks cv onderhoud", "cv-ketel onderhoudscontract vergelijken"]
+title: 'Cv-ketel onderhoudscontract 2026: heb je het echt nodig?'
+date: 2026-05-21 08:00:00+02:00
+lastmod: 2026-05-21 08:00:00+02:00
+description: Is een cv-ketel onderhoudscontract de moeite waard? Ik bereken wat het echt kost versus eenmalige reparatie en wanneer het wel of niet loont.
+categories:
+- energie
+tags:
+- cv-ketel onderhoud
+- onderhoudscontract
+- servicecontract
+- cv-ketel reparatie
+- verwarmingskosten
+- cv-ketel storing
+- Vaillant
+- Intergas
+- Remeha
+- CV onderhoud
+keywords:
+- cv-ketel onderhoudscontract 2026
+- cv-ketel onderhoud kosten
+- servicecontract cv-ketel zin
+- cv-ketel onderhoud ja of nee
+- cv-ketel storing reparatie kosten
+- jaarlijks cv onderhoud
+- cv-ketel onderhoudscontract vergelijken
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Hoe vaak moet een cv-ketel worden onderhouden?"
-    a: "Een cv-ketel moet minimaal eens per twee jaar worden onderhouden, en bij voorkeur jaarlijks. De fabrikant schrijft dit doorgaans voor om de garantie te behouden. Bij jaarlijks onderhoud wordt de brander gereinigd, de verbrandingslucht gecontroleerd en de waterdruk gecheckt. Dat verlengt de levensduur en voorkomt storingen."
-  - q: "Wat kost een cv-ketel onderhoudscontract per jaar?"
-    a: "Een basiscontract (alleen jaarlijks onderhoud) kost €80–€140 per jaar. Een all-in contract (onderhoud + reparaties + 24/7 storingsdienst) kost €200–€350 per jaar. Sommige leveranciers zoals Vaillant en Remeha bieden eigen contracten; ook Essent, Eneco en Vattenfall verkopen servicecontracten via hun energie-abonnementen."
-  - q: "Wat kost een gemiddelde cv-ketel reparatie zonder contract?"
-    a: "Een storingsvijst inclusief voorrijkosten en eerste uur arbeid kost gemiddeld €150–€250. Een nieuwe printplaat: €300–€600. Een nieuwe brander: €200–€400. Een warmtewisselaar: €400–€700. Totale revisie: €600–€1.000. Maar: de meeste storingen zijn eenvoudig en kosten slechts één bezoek."
-  - q: "Is een onderhoudscontract verplicht bij garantie?"
-    a: "Fabrikanten eisen doorgaans bewijs van regelmatig onderhoud om garantie te kunnen claimen. Dit hoeft niet per se via een contract te lopen — een factuur van een erkend installateur volstaat in de meeste gevallen. Lees de garantievoorwaarden van jouw ketel zorgvuldig."
-  - q: "Wanneer is een onderhoudscontract de moeite waard?"
-    a: "Een onderhoudscontract loont als: je ketel ouder is dan 8 jaar, je een complex of duur model hebt (premiumketels van Vaillant, Bosch, Remeha), je een huurder bent met onzekere kosten, of je simpelweg gemoedsrust wilt zonder financiële verrassingen. Bij een nieuwe ketel (0–5 jaar) is een contract economisch vaak niet logisch."
-  - q: "Kan ik cv-ketel onderhoud zelf doen?"
-    a: "Beperkt. Je kunt zelf de waterdruk controleren en bijvullen (staat in de handleiding), de pomp ontluchten en de filters reinigen. Maar de jaarlijkse servicekeur — gasverbranding meten, CO-test, afdichting controleren — moet door een erkend installateur worden gedaan. Dat is ook wettelijk vereist in huurwoningen."
-  - q: "Wat is het verschil tussen een onderhoudscontract en een garantieplan?"
-    a: "Een onderhoudscontract betaal je jaarlijks voor preventief en/of correctief onderhoud door een installateur. Een garantieplan (van de fabrikant) dekt fabrieksfouten gedurende een bepaalde periode, maar doorgaans niet slijtage-onderdelen of gebruikersfouten. Beide zijn geen vervangers van elkaar."
-  - q: "Wat als mijn cv-ketel al 15 jaar oud is — onderhoud of vervangen?"
-    a: "Een cv-ketel heeft gemiddeld 15–20 jaar levensduur. Bij een ketel van 15 jaar oud die goed heeft gedraaid is de keuze: nog 2–4 jaar aanhouden met minimaal onderhoud, of nu vervangen door een hybride warmtepomp. Investeer geen groot onderhoudscontract meer in een ketel die waarschijnlijk over 3 jaar toch vervangen wordt."
+- q: Hoe vaak moet een cv-ketel worden onderhouden?
+  a: Een cv-ketel moet minimaal eens per twee jaar worden onderhouden, en bij voorkeur jaarlijks. De fabrikant schrijft dit doorgaans voor om de garantie te behouden. Bij jaarlijks onderhoud wordt de brander gereinigd, de verbrandingslucht gecontroleerd en de waterdruk gecheckt. Dat verlengt de levensduur en voorkomt storingen.
+- q: Wat kost een cv-ketel onderhoudscontract per jaar?
+  a: Een basiscontract (alleen jaarlijks onderhoud) kost €80–€140 per jaar. Een all-in contract (onderhoud + reparaties + 24/7 storingsdienst) kost €200–€350 per jaar. Sommige leveranciers zoals Vaillant en Remeha bieden eigen contracten; ook Essent, Eneco en Vattenfall verkopen servicecontracten via hun energie-abonnementen.
+- q: Wat kost een gemiddelde cv-ketel reparatie zonder contract?
+  a: 'Een storingsvijst inclusief voorrijkosten en eerste uur arbeid kost gemiddeld €150–€250. Een nieuwe printplaat: €300–€600. Een nieuwe brander: €200–€400. Een warmtewisselaar: €400–€700. Totale revisie: €600–€1.000. Maar: de meeste storingen zijn eenvoudig en kosten slechts één bezoek.'
+- q: Is een onderhoudscontract verplicht bij garantie?
+  a: Fabrikanten eisen doorgaans bewijs van regelmatig onderhoud om garantie te kunnen claimen. Dit hoeft niet per se via een contract te lopen — een factuur van een erkend installateur volstaat in de meeste gevallen. Lees de garantievoorwaarden van jouw ketel zorgvuldig.
+- q: Wanneer is een onderhoudscontract de moeite waard?
+  a: 'Een onderhoudscontract loont als: je ketel ouder is dan 8 jaar, je een complex of duur model hebt (premiumketels van Vaillant, Bosch, Remeha), je een huurder bent met onzekere kosten, of je simpelweg gemoedsrust wilt zonder financiële verrassingen. Bij een nieuwe ketel (0–5 jaar) is een contract economisch vaak niet logisch.'
+- q: Kan ik cv-ketel onderhoud zelf doen?
+  a: Beperkt. Je kunt zelf de waterdruk controleren en bijvullen (staat in de handleiding), de pomp ontluchten en de filters reinigen. Maar de jaarlijkse servicekeur — gasverbranding meten, CO-test, afdichting controleren — moet door een erkend installateur worden gedaan. Dat is ook wettelijk vereist in huurwoningen.
+- q: Wat is het verschil tussen een onderhoudscontract en een garantieplan?
+  a: Een onderhoudscontract betaal je jaarlijks voor preventief en/of correctief onderhoud door een installateur. Een garantieplan (van de fabrikant) dekt fabrieksfouten gedurende een bepaalde periode, maar doorgaans niet slijtage-onderdelen of gebruikersfouten. Beide zijn geen vervangers van elkaar.
+- q: Wat als mijn cv-ketel al 15 jaar oud is — onderhoud of vervangen?
+  a: 'Een cv-ketel heeft gemiddeld 15–20 jaar levensduur. Bij een ketel van 15 jaar oud die goed heeft gedraaid is de keuze: nog 2–4 jaar aanhouden met minimaal onderhoud, of nu vervangen door een hybride warmtepomp. Investeer geen groot onderhoudscontract meer in een ketel die waarschijnlijk over 3 jaar toch vervangen wordt.'
 products:
-  - name: "Tibber"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "0"
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "5995"
+- name: Tibber
+  url: https://go.duurzaamthuislab.nl/tibber
+  price: '0'
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '5995'
+schema_type: Article
 ---
 
 Twee jaar geleden belde ik een installateur voor de jaarlijkse servicebeurt van mijn Remeha Tzerra. Aan het einde van het gesprek vroeg hij of ik interesse had in een servicecontract. "€220 per jaar, alles inclusief." Ik vroeg wat dat betekende. "Onderhoud, reparaties, voorrijkosten, storingsdienst 24/7." Hij voegde eraan toe: "Dat is echt een koopje. Je weet toch nooit wanneer hij het begeeft."

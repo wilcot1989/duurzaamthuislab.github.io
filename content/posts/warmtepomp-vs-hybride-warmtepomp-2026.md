@@ -1,35 +1,47 @@
 ---
-title: "Warmtepomp vs hybride warmtepomp: wat is slimmer in 2026?"
-date: 2026-05-15T08:00:00+02:00
-lastmod: 2026-05-15T08:00:00+02:00
-description: "Warmtepomp of hybride warmtepomp? Vergelijking op COP, ISDE-subsidie, terugverdientijd en geschiktheid. Met rekenvoorbeelden voor jouw situatie."
-categories: ["warmtepompen"]
-tags: ["warmtepomp", "hybride warmtepomp", "ISDE", "COP", "terugverdientijd", "vergelijking"]
-keywords: ["warmtepomp vs hybride warmtepomp", "full electric warmtepomp vs hybride", "warmtepomp vergelijken 2026", "hybride warmtepomp rendement"]
+title: 'Warmtepomp vs hybride warmtepomp: wat is slimmer in 2026?'
+date: 2026-05-15 08:00:00+02:00
+lastmod: 2026-05-15 08:00:00+02:00
+description: Warmtepomp of hybride warmtepomp? Vergelijking op COP, ISDE-subsidie, terugverdientijd en geschiktheid. Met rekenvoorbeelden voor jouw situatie.
+categories:
+- warmtepompen
+tags:
+- warmtepomp
+- hybride warmtepomp
+- ISDE
+- COP
+- terugverdientijd
+- vergelijking
+keywords:
+- warmtepomp vs hybride warmtepomp
+- full electric warmtepomp vs hybride
+- warmtepomp vergelijken 2026
+- hybride warmtepomp rendement
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het verschil tussen een warmtepomp en een hybride warmtepomp?"
-    a: "Een full-electric warmtepomp verwarmt je woning volledig zonder gas. Een hybride warmtepomp combineert een warmtepomp met je bestaande cv-ketel: de warmtepomp werkt bij milde temperaturen, de ketel neemt het over bij vriesweer. De hybride variant is minder efficiënt maar goedkoper en geschikter voor minder goed geïsoleerde woningen."
-  - q: "Hoeveel ISDE-subsidie krijg ik in 2026?"
-    a: "De ISDE-subsidie voor een full-electric warmtepomp bedraagt in 2026 tot €3.762 voor lucht-water warmtepompen. Hybride warmtepompen ontvangen circa €2.000-€3.000 afhankelijk van het type en vermogen."
-  - q: "Wat is de COP en waarom is het belangrijk?"
-    a: "De COP (Coefficient of Performance) geeft aan hoeveel warmte een warmtepomp produceert per kWh elektriciteit. Een COP van 3,5 betekent dat je voor €0,10 aan stroom €0,35 aan warmte produceert. Hoe hoger de COP, hoe goedkoper het verwarmen."
-  - q: "Heb ik vloerverwarming nodig voor een warmtepomp?"
-    a: "Voor een full-electric warmtepomp is vloerverwarming of lagetemperatuur-radiatoren sterk aanbevolen (aanvoer 35-45°C). Een hybride warmtepomp werkt ook prima met bestaande radiatoren, omdat de ketel bijspringt als de aanvoertemperatuur hoger moet zijn."
-  - q: "Wat is de terugverdientijd van een warmtepomp?"
-    a: "Een full-electric warmtepomp heeft na ISDE-subsidie een investering van €8.000-€14.000 en een jaarlijkse besparing van €800-€1.400. Terugverdientijd: 6-12 jaar. Een hybride warmtepomp kost netto €1.500-€4.000 en bespaart €500-€900/jaar: terugverdientijd 2-5 jaar."
-  - q: "Welke warmtepomp past bij mijn woning?"
-    a: "Is je woning goed geïsoleerd (label A of B) met vloerverwarming? Kies full-electric. Is je woning matig geïsoleerd (label C of D) met hoge-temperatuur radiatoren en een gasaansluiting? Kies hybride als tussenstap."
+- q: Wat is het verschil tussen een warmtepomp en een hybride warmtepomp?
+  a: 'Een full-electric warmtepomp verwarmt je woning volledig zonder gas. Een hybride warmtepomp combineert een warmtepomp met je bestaande cv-ketel: de warmtepomp werkt bij milde temperaturen, de ketel neemt het over bij vriesweer. De hybride variant is minder efficiënt maar goedkoper en geschikter voor minder goed geïsoleerde woningen.'
+- q: Hoeveel ISDE-subsidie krijg ik in 2026?
+  a: De ISDE-subsidie voor een full-electric warmtepomp bedraagt in 2026 tot €3.762 voor lucht-water warmtepompen. Hybride warmtepompen ontvangen circa €2.000-€3.000 afhankelijk van het type en vermogen.
+- q: Wat is de COP en waarom is het belangrijk?
+  a: De COP (Coefficient of Performance) geeft aan hoeveel warmte een warmtepomp produceert per kWh elektriciteit. Een COP van 3,5 betekent dat je voor €0,10 aan stroom €0,35 aan warmte produceert. Hoe hoger de COP, hoe goedkoper het verwarmen.
+- q: Heb ik vloerverwarming nodig voor een warmtepomp?
+  a: Voor een full-electric warmtepomp is vloerverwarming of lagetemperatuur-radiatoren sterk aanbevolen (aanvoer 35-45°C). Een hybride warmtepomp werkt ook prima met bestaande radiatoren, omdat de ketel bijspringt als de aanvoertemperatuur hoger moet zijn.
+- q: Wat is de terugverdientijd van een warmtepomp?
+  a: 'Een full-electric warmtepomp heeft na ISDE-subsidie een investering van €8.000-€14.000 en een jaarlijkse besparing van €800-€1.400. Terugverdientijd: 6-12 jaar. Een hybride warmtepomp kost netto €1.500-€4.000 en bespaart €500-€900/jaar: terugverdientijd 2-5 jaar.'
+- q: Welke warmtepomp past bij mijn woning?
+  a: Is je woning goed geïsoleerd (label A of B) met vloerverwarming? Kies full-electric. Is je woning matig geïsoleerd (label C of D) met hoge-temperatuur radiatoren en een gasaansluiting? Kies hybride als tussenstap.
 products:
-  - name: "Atag warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "op aanvraag"
-  - name: "Quatt hybride warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/quatt"
-    price: "3500"
+- name: Atag warmtepomp
+  url: https://go.duurzaamthuislab.nl/atag
+  price: op aanvraag
+- name: Quatt hybride warmtepomp
+  url: https://go.duurzaamthuislab.nl/quatt
+  price: '3500'
+schema_type: Article
 ---
 
 Twee jaar geleden stond ik voor dezelfde keuze die nu veel huiseigenaren bezighoudt: ga ik full-electric met een warmtepomp, of kies ik de hybride variant als tussenstap? Mijn woning heeft energielabel C, deels dubbel glas en radiatoren — niet de ideale omstandigheden voor een full-electric warmtepomp. Ik koos uiteindelijk voor hybride en bespaar sindsdien €820 per jaar op gas, met een netto investering van €3.900 na ISDE-subsidie.

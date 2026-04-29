@@ -1,42 +1,59 @@
 ---
-title: "Daikin Altherma 3 review 2026: marktleider verdient die"
-date: 2026-07-17T08:00:00+02:00
-lastmod: 2026-07-17T08:00:00+02:00
-description: "Daikin Altherma 3 is de bestverkochte lucht-water warmtepomp van Nederland. Maar is hij ook de beste keuze voor jouw situatie? Mijn eerlijke test."
-categories: ["warmtepompen"]
-tags: ["Daikin", "Altherma 3", "warmtepomp", "lucht-water warmtepomp", "ISDE subsidie", "review", "modulerende warmtepomp", "R32"]
-keywords: ["Daikin Altherma 3 review", "Daikin Altherma 3 ervaringen", "Daikin warmtepomp prijs", "Daikin Altherma 3 SCOP", "Daikin vs ATAG warmtepomp", "Daikin Altherma 3 installatie", "beste warmtepomp 2026"]
+title: 'Daikin Altherma 3 review 2026: marktleider verdient die'
+date: 2026-07-17 08:00:00+02:00
+lastmod: 2026-07-17 08:00:00+02:00
+description: Daikin Altherma 3 is de bestverkochte lucht-water warmtepomp van Nederland. Maar is hij ook de beste keuze voor jouw situatie? Mijn eerlijke test.
+categories:
+- warmtepompen
+tags:
+- Daikin
+- Altherma 3
+- warmtepomp
+- lucht-water warmtepomp
+- ISDE subsidie
+- review
+- modulerende warmtepomp
+- R32
+keywords:
+- Daikin Altherma 3 review
+- Daikin Altherma 3 ervaringen
+- Daikin warmtepomp prijs
+- Daikin Altherma 3 SCOP
+- Daikin vs ATAG warmtepomp
+- Daikin Altherma 3 installatie
+- beste warmtepomp 2026
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kost een Daikin Altherma 3 in 2026?"
-    a: "De adviesprijs van een Daikin Altherma 3 H/M lucht-water warmtepomp ligt op €8.000 tot €13.000 inclusief 0% btw, exclusief montage. Montagekosten liggen doorgaans op €1.200 tot €2.000. Inclusief ISDE-subsidie (€2.500 tot €4.500 afhankelijk van vermogen) betaal je netto €7.000 tot €11.500 all-in."
-  - q: "Wat is de SCOP van de Daikin Altherma 3?"
-    a: "De Daikin Altherma 3 H/M heeft een SCOP van circa 4,8 bij standaardmeting (A7/W35). Dat is in de top van de markt. In de praktijk, afhankelijk van aanvoertemperatuur en klimaatzone, halen gebruikers in Nederland SCOP-waarden tussen 4,2 en 5,1 over een stookseizoen."
-  - q: "Welke modellen zijn er van de Daikin Altherma 3?"
-    a: "De Altherma 3 H/M serie is beschikbaar in 4 kW, 6 kW, 8 kW, 11 kW en 14 kW. Voor een gemiddeld Nederlands rijtjeshuis of tussenwoning volstaat 6 of 8 kW. De 11 en 14 kW zijn bedoeld voor grotere of slecht geïsoleerde woningen. Het M-model heeft een monobloc-uitvoering (geen koepmiddel in huis)."
-  - q: "Is de Daikin Altherma 3 geschikt voor oudere woningen?"
-    a: "De Altherma 3 H HT (high temperature) versie kan aanvoertemperaturen tot 70°C leveren — daarmee is hij inzetbaar in woningen met oudere, niet-gewijzigde radiatoren. Voor woningen met label D of slechter is de hybride versie (Altherma 3 R) een alternatief waarbij de warmtepomp samenwerkt met een cv-ketel."
-  - q: "Kan ik ISDE-subsidie krijgen voor een Daikin Altherma 3?"
-    a: "Ja. Alle gangbare Altherma 3 H/M modellen staan op de ISDE-erkende productenlijst van RVO. De subsidie bedraagt €2.500 tot €4.500 afhankelijk van het nominale warmtevermogen. De aanvraag moet vóór installatie worden ingediend — je installateur regelt dit in de meeste gevallen."
-  - q: "Hoe stil is de Daikin Altherma 3?"
-    a: "In stille modus draait de Altherma 3 op 35 dB(A) — vergelijkbaar met een gefluister. In normale bedrijfsmodus ligt het geluid op 40-48 dB(A) afhankelijk van belasting en model. Dat is acceptabel bij een afstand van twee meter of meer tot een slaapkamerraam."
-  - q: "Hoe lang zijn de levertijden?"
-    a: "In 2025 en begin 2026 lagen de levertijden op 6 tot 14 weken voor de populaire 6 en 8 kW modellen. Daikin heeft de productiecapaciteit uitgebreid, maar vraag altijd naar de actuele levertijd bij je installateur voordat je tekent. Zeker in het voor- en naseizoen is de drukte groot."
-  - q: "Wat is het verschil tussen Daikin Altherma 3 H en H HT?"
-    a: "De standaard Altherma 3 H levert aanvoertemperaturen tot 60°C. De H HT (High Temperature) variant kan tot 70°C — relevant als je niet-gewijzigde oudere radiatoren hebt die hogere temperaturen nodig hebben. HT-modellen zijn iets duurder en hebben een iets lagere SCOP doordat ze op hogere temperatuur werken."
+- q: Wat kost een Daikin Altherma 3 in 2026?
+  a: De adviesprijs van een Daikin Altherma 3 H/M lucht-water warmtepomp ligt op €8.000 tot €13.000 inclusief 0% btw, exclusief montage. Montagekosten liggen doorgaans op €1.200 tot €2.000. Inclusief ISDE-subsidie (€2.500 tot €4.500 afhankelijk van vermogen) betaal je netto €7.000 tot €11.500 all-in.
+- q: Wat is de SCOP van de Daikin Altherma 3?
+  a: De Daikin Altherma 3 H/M heeft een SCOP van circa 4,8 bij standaardmeting (A7/W35). Dat is in de top van de markt. In de praktijk, afhankelijk van aanvoertemperatuur en klimaatzone, halen gebruikers in Nederland SCOP-waarden tussen 4,2 en 5,1 over een stookseizoen.
+- q: Welke modellen zijn er van de Daikin Altherma 3?
+  a: De Altherma 3 H/M serie is beschikbaar in 4 kW, 6 kW, 8 kW, 11 kW en 14 kW. Voor een gemiddeld Nederlands rijtjeshuis of tussenwoning volstaat 6 of 8 kW. De 11 en 14 kW zijn bedoeld voor grotere of slecht geïsoleerde woningen. Het M-model heeft een monobloc-uitvoering (geen koepmiddel in huis).
+- q: Is de Daikin Altherma 3 geschikt voor oudere woningen?
+  a: De Altherma 3 H HT (high temperature) versie kan aanvoertemperaturen tot 70°C leveren — daarmee is hij inzetbaar in woningen met oudere, niet-gewijzigde radiatoren. Voor woningen met label D of slechter is de hybride versie (Altherma 3 R) een alternatief waarbij de warmtepomp samenwerkt met een cv-ketel.
+- q: Kan ik ISDE-subsidie krijgen voor een Daikin Altherma 3?
+  a: Ja. Alle gangbare Altherma 3 H/M modellen staan op de ISDE-erkende productenlijst van RVO. De subsidie bedraagt €2.500 tot €4.500 afhankelijk van het nominale warmtevermogen. De aanvraag moet vóór installatie worden ingediend — je installateur regelt dit in de meeste gevallen.
+- q: Hoe stil is de Daikin Altherma 3?
+  a: In stille modus draait de Altherma 3 op 35 dB(A) — vergelijkbaar met een gefluister. In normale bedrijfsmodus ligt het geluid op 40-48 dB(A) afhankelijk van belasting en model. Dat is acceptabel bij een afstand van twee meter of meer tot een slaapkamerraam.
+- q: Hoe lang zijn de levertijden?
+  a: In 2025 en begin 2026 lagen de levertijden op 6 tot 14 weken voor de populaire 6 en 8 kW modellen. Daikin heeft de productiecapaciteit uitgebreid, maar vraag altijd naar de actuele levertijd bij je installateur voordat je tekent. Zeker in het voor- en naseizoen is de drukte groot.
+- q: Wat is het verschil tussen Daikin Altherma 3 H en H HT?
+  a: De standaard Altherma 3 H levert aanvoertemperaturen tot 60°C. De H HT (High Temperature) variant kan tot 70°C — relevant als je niet-gewijzigde oudere radiatoren hebt die hogere temperaturen nodig hebben. HT-modellen zijn iets duurder en hebben een iets lagere SCOP doordat ze op hogere temperatuur werken.
 products:
-  - name: "Daikin Altherma 3 H/M 6 kW"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "8500"
-  - name: "Daikin Altherma 3 H/M 8 kW"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "10000"
-  - name: "Daikin Altherma 3 H HT 11 kW"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "12500"
+- name: Daikin Altherma 3 H/M 6 kW
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '8500'
+- name: Daikin Altherma 3 H/M 8 kW
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '10000'
+- name: Daikin Altherma 3 H HT 11 kW
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '12500'
+schema_type: Review
 ---
 
 Een klant belde me vorig jaar november. Thomas, eigenaar van een jaren-negentig vrijstaande woning in Zeist, had drie offertes gekregen en alle drie stuurden ze aan op dezelfde warmtepomp: Daikin Altherma 3. "Is dat niet verdacht?" vroeg hij. "Dat ze allemaal hetzelfde adviseren?"

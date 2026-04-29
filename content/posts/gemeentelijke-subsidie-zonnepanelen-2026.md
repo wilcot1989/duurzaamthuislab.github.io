@@ -1,39 +1,55 @@
 ---
-title: "Gemeentelijke subsidie zonnepanelen 2026: per provincie"
-date: 2026-06-14T08:00:00+02:00
-lastmod: 2026-06-14T08:00:00+02:00
-description: "Welke gemeenten en provincies geven nog subsidie op zonnepanelen in 2026? Volledig overzicht plus aanvraagvolgorde."
-categories: ["zonne-energie"]
-tags: ["subsidie zonnepanelen", "gemeentelijke subsidie", "provinciale subsidie", "ISDE", "duurzaamheidslening", "zonnepanelen 2026", "Zonneplan"]
-keywords: ["gemeentelijke subsidie zonnepanelen 2026", "subsidie zonnepanelen gemeente", "duurzaamheidslening zonnepanelen", "zonnepanelen subsidie provincie", "salderingsregeling 2027", "SCE subsidie", "zonnepanelen goedkoper 2026"]
+title: 'Gemeentelijke subsidie zonnepanelen 2026: per provincie'
+date: 2026-06-14 08:00:00+02:00
+lastmod: 2026-06-14 08:00:00+02:00
+description: Welke gemeenten en provincies geven nog subsidie op zonnepanelen in 2026? Volledig overzicht plus aanvraagvolgorde.
+categories:
+- zonne-energie
+tags:
+- subsidie zonnepanelen
+- gemeentelijke subsidie
+- provinciale subsidie
+- ISDE
+- duurzaamheidslening
+- zonnepanelen 2026
+- Zonneplan
+keywords:
+- gemeentelijke subsidie zonnepanelen 2026
+- subsidie zonnepanelen gemeente
+- duurzaamheidslening zonnepanelen
+- zonnepanelen subsidie provincie
+- salderingsregeling 2027
+- SCE subsidie
+- zonnepanelen goedkoper 2026
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Welke nationale subsidie is er nog voor zonnepanelen in 2026?"
-    a: "Op nationaal niveau zijn er in 2026 geen directe subsidies meer voor particulieren die zonnepanelen aanschaffen. De salderingsregeling loopt door tot 2027, maar die is geen subsidie — het is een verrekening van teruggeleverde stroom. De BTW op zonnepanelen is 0% voor particulieren (geïntroduceerd in 2023 en verlengd). Verder: geen ISDE voor zonnepanelen, geen nationale aanschafsubsidie."
-  - q: "Geeft mijn gemeente subsidie op zonnepanelen?"
-    a: "Dat verschilt per gemeente. Een aantal gemeenten heeft een eigen subsidieregeling (€200 tot €1.500 per woning), maar de meeste zijn in 2024-2025 gestopt of opgebruikt. Meer gemeenten bieden een duurzaamheidslening aan: rente van 0% tot 3% voor verduurzaming inclusief zonnepanelen. Check de website van uw gemeente of gebruik het SVn-loket (svn.nl)."
-  - q: "Wat is de salderingsregeling en loopt die door in 2026?"
-    a: "De salderingsregeling betekent dat u teruggeleverde zonnestroom 1-op-1 verrekent met uw stroomverbruik. In 2026 loopt de regeling door: u saldeert 100% van uw teruglevering. In 2027 stopt de saldering: dan wordt u beloond met een terugleververgoeding van de energieleverancier (circa €0,06 tot €0,12/kWh) in plaats van de volledige stroomprijs. Zonnepanelen zijn nu dus waardevoller dan na 2027."
-  - q: "Is er nog een subsidie voor collectieve zonnepanelen (VvE of buurtproject)?"
-    a: "Ja. De SCE-subsidie (Stimulering Duurzame Energieproductie en Klimaattransitie — coöperatief) is bedoeld voor energiecoöperaties en VvE's. De vergoeding is per kWh geproduceerde stroom, gedurende 15 jaar. In 2026 bedraagt de subsidie circa €0,08 tot €0,11 per kWh. Aanvragen via RVO.nl."
-  - q: "Hoeveel BTW betaal ik over zonnepanelen in 2026?"
-    a: "0% BTW. Particuliere huiseigenaren betalen geen BTW over zonnepanelen, inclusief installatiemateriaal en arbeidskosten, mits geïnstalleerd door een erkend installateur. Dit geldt voor zonnepanelen op een woonhuis. Bedrijven en verhuurders betalen normaal 21% BTW."
-  - q: "Welke provincie geeft de meeste steun voor zonnepanelen?"
-    a: "Noord-Holland en Gelderland zijn relatief actief met provinciale regelingen voor duurzame energie, maar de meeste provinciale steun gaat naar grotere projecten (coöperaties, agrariërs) of via subsidies aan gemeenten. Voor particulieren is de gemeente het beste aanvangspunt. Overijssel en Drenthe hebben in 2026 actieve gemeentelijke programma's via de regionale energie-strategie (RES)."
-  - q: "Legt de energieleverancier geld toe bij zonnepanelen in 2026?"
-    a: "Indirect: sommige leveranciers bieden een gratis of goedkoop zonnepanelen-abonnement aan (Zonneplan, Vandebron), waarbij u geen eigenaar bent maar wel profiteert van lagere stroomkosten. Zonneplan plaatst panelen gratis op uw dak; u betaalt een maandelijks abonnement dat lager is dan uw huidige energierekening. Handig als u de aanschapkosten wilt vermijden."
-  - q: "Hoe vraag ik een duurzaamheidslening aan?"
-    a: "Via uw gemeente of via SVn (Stimuleringsfonds Volkshuisvesting). Veel gemeenten werken samen met SVn voor de uitvoering. Stap 1: check gemeentewebsite op 'duurzaamheidslening' of 'energielening'. Stap 2: aanvraagformulier invullen met kostenraming van de installateur. Stap 3: SVn verstrekt de lening, u betaalt terug over 7-15 jaar. Rente is doorgaans 0% of laag (1-3%)."
+- q: Welke nationale subsidie is er nog voor zonnepanelen in 2026?
+  a: 'Op nationaal niveau zijn er in 2026 geen directe subsidies meer voor particulieren die zonnepanelen aanschaffen. De salderingsregeling loopt door tot 2027, maar die is geen subsidie — het is een verrekening van teruggeleverde stroom. De BTW op zonnepanelen is 0% voor particulieren (geïntroduceerd in 2023 en verlengd). Verder: geen ISDE voor zonnepanelen, geen nationale aanschafsubsidie.'
+- q: Geeft mijn gemeente subsidie op zonnepanelen?
+  a: 'Dat verschilt per gemeente. Een aantal gemeenten heeft een eigen subsidieregeling (€200 tot €1.500 per woning), maar de meeste zijn in 2024-2025 gestopt of opgebruikt. Meer gemeenten bieden een duurzaamheidslening aan: rente van 0% tot 3% voor verduurzaming inclusief zonnepanelen. Check de website van uw gemeente of gebruik het SVn-loket (svn.nl).'
+- q: Wat is de salderingsregeling en loopt die door in 2026?
+  a: 'De salderingsregeling betekent dat u teruggeleverde zonnestroom 1-op-1 verrekent met uw stroomverbruik. In 2026 loopt de regeling door: u saldeert 100% van uw teruglevering. In 2027 stopt de saldering: dan wordt u beloond met een terugleververgoeding van de energieleverancier (circa €0,06 tot €0,12/kWh) in plaats van de volledige stroomprijs. Zonnepanelen zijn nu dus waardevoller dan na 2027.'
+- q: Is er nog een subsidie voor collectieve zonnepanelen (VvE of buurtproject)?
+  a: Ja. De SCE-subsidie (Stimulering Duurzame Energieproductie en Klimaattransitie — coöperatief) is bedoeld voor energiecoöperaties en VvE's. De vergoeding is per kWh geproduceerde stroom, gedurende 15 jaar. In 2026 bedraagt de subsidie circa €0,08 tot €0,11 per kWh. Aanvragen via RVO.nl.
+- q: Hoeveel BTW betaal ik over zonnepanelen in 2026?
+  a: 0% BTW. Particuliere huiseigenaren betalen geen BTW over zonnepanelen, inclusief installatiemateriaal en arbeidskosten, mits geïnstalleerd door een erkend installateur. Dit geldt voor zonnepanelen op een woonhuis. Bedrijven en verhuurders betalen normaal 21% BTW.
+- q: Welke provincie geeft de meeste steun voor zonnepanelen?
+  a: Noord-Holland en Gelderland zijn relatief actief met provinciale regelingen voor duurzame energie, maar de meeste provinciale steun gaat naar grotere projecten (coöperaties, agrariërs) of via subsidies aan gemeenten. Voor particulieren is de gemeente het beste aanvangspunt. Overijssel en Drenthe hebben in 2026 actieve gemeentelijke programma's via de regionale energie-strategie (RES).
+- q: Legt de energieleverancier geld toe bij zonnepanelen in 2026?
+  a: 'Indirect: sommige leveranciers bieden een gratis of goedkoop zonnepanelen-abonnement aan (Zonneplan, Vandebron), waarbij u geen eigenaar bent maar wel profiteert van lagere stroomkosten. Zonneplan plaatst panelen gratis op uw dak; u betaalt een maandelijks abonnement dat lager is dan uw huidige energierekening. Handig als u de aanschapkosten wilt vermijden.'
+- q: Hoe vraag ik een duurzaamheidslening aan?
+  a: 'Via uw gemeente of via SVn (Stimuleringsfonds Volkshuisvesting). Veel gemeenten werken samen met SVn voor de uitvoering. Stap 1: check gemeentewebsite op ''duurzaamheidslening'' of ''energielening''. Stap 2: aanvraagformulier invullen met kostenraming van de installateur. Stap 3: SVn verstrekt de lening, u betaalt terug over 7-15 jaar. Rente is doorgaans 0% of laag (1-3%).'
 products:
-  - name: "Zonneplan zonnepanelen-abonnement"
-    url: "https://go.duurzaamthuislab.nl/zonneplan"
-    price: "0"
-  - name: "Zonneplan One (combinatie stroom + panelen)"
-    url: "https://go.duurzaamthuislab.nl/zonneplan"
-    price: "0"
+- name: Zonneplan zonnepanelen-abonnement
+  url: https://go.duurzaamthuislab.nl/zonneplan
+  price: '0'
+- name: Zonneplan One (combinatie stroom + panelen)
+  url: https://go.duurzaamthuislab.nl/zonneplan
+  price: '0'
+schema_type: Article
 ---
 
 Vorig jaar belde een vriend me op nadat hij gehoord had dat er "duizenden euros subsidie" te halen waren voor zonnepanelen. Ik moest hem de nuchtere waarheid vertellen: op nationaal niveau is die trein voor een groot deel vertrokken. Geen ISDE voor zonnepanelen, geen aanschafsubsidie. Wel 0% BTW — dat scheelt voor een gemiddeld systeem van 10 panelen nog altijd €700 tot €900.

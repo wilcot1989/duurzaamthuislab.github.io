@@ -1,37 +1,51 @@
 ---
-title: "Zonnepanelen dakcoating en reflectie 2026"
-date: 2026-06-26T10:00:00+01:00
-lastmod: 2026-06-26T10:00:00+01:00
-description: "Witte vs zwarte daken, reflectiecoating en albedo-effect op zonnepanelen-opbrengst — wat werkt voor Nederland."
-categories: ["zonne-energie"]
-tags: ["dakcoating zonnepanelen", "witte dakcoating", "zonnepanelen reflectie", "PV opbrengst verbeteren", "albedo zonnepanelen", "Cool Roof"]
-keywords: ["witte dakcoating zonnepanelen opbrengst", "dakcoating reflectie zonnepanelen", "cool roof nederland zonnepanelen", "zwart dak vs wit dak zonnepanelen", "zonnepanelen temperatuur opbrengst", "bifaciale zonnepanelen dakcoating"]
+title: Zonnepanelen dakcoating en reflectie 2026
+date: 2026-06-26 10:00:00+01:00
+lastmod: 2026-06-26 10:00:00+01:00
+description: Witte vs zwarte daken, reflectiecoating en albedo-effect op zonnepanelen-opbrengst — wat werkt voor Nederland.
+categories:
+- zonne-energie
+tags:
+- dakcoating zonnepanelen
+- witte dakcoating
+- zonnepanelen reflectie
+- PV opbrengst verbeteren
+- albedo zonnepanelen
+- Cool Roof
+keywords:
+- witte dakcoating zonnepanelen opbrengst
+- dakcoating reflectie zonnepanelen
+- cool roof nederland zonnepanelen
+- zwart dak vs wit dak zonnepanelen
+- zonnepanelen temperatuur opbrengst
+- bifaciale zonnepanelen dakcoating
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Verhoogt een witte dakcoating de opbrengst van zonnepanelen?"
-    a: "Ja, op twee manieren. Ten eerste reflecteert een wit dak meer zonlicht terug op de achterkant van bifaciale panelen (tot 5-15% extra opbrengst). Ten tweede blijft het dak koeler, waardoor de zonnepanelen zelf minder opwarmen en beter presteren. Zwarte en donkere daken kunnen zonnepanelen 10-20°C warmer maken, wat 5-10% opbrengstverlies veroorzaakt."
-  - q: "Welke kleur dak is het beste voor zonnepanelen?"
-    a: "Wit of lichtgrijs. Een hoog albedo (reflectievermogen) van 0,65-0,85 geeft de beste combinatie van lage paneltemperatuur en extra reflectielicht voor bifaciale panelen. Traditionele zwarte bitumen daken hebben een albedo van slechts 0,05-0,15."
-  - q: "Zijn bifaciale zonnepanelen beter op een wit dak?"
-    a: "Ja, bifaciale panelen profiteren significant meer van een witte dakcoating dan monofaciale panelen. De achterkant van bifaciale panelen kan 10-30% extra opbrengst leveren als de ondergrond goed reflecteert (albedo >0,5). Op een donkere ondergrond is het voordeel verwaarloosbaar."
-  - q: "Wat kost een witte dakcoating?"
-    a: "Voor een standaard plat dak van 80-120 m² liggen de kosten van een professionele witte dakcoating (elastomeer of acrylaat) tussen €1.500 en €4.000 inclusief arbeidskosten. Een doe-het-zelf dakcoating (rol-op systeem) kost €300-€800 voor materialen. De levensduur is 10-15 jaar."
-  - q: "Kan ik dakcoating aanbrengen als er al zonnepanelen liggen?"
-    a: "Dat is ingewikkeld en meestal niet aan te raden. De dakcoating moet aangebracht worden vóór de installatie van zonnepanelen, of de panelen moeten tijdelijk verwijderd worden. Rondom de verankeringspunten is voorzichtigheid geboden om de dakdichting niet aan te tasten."
-  - q: "Werkt een cool roof ook in het Nederlandse klimaat?"
-    a: "In mindere mate dan in Zuid-Europa of de VS. Nederlandse zomers hebben minder hittegolven, maar de voordelen zijn er wel: op warme zomerdagen (>25°C) stijgt de paneltemperatuur minder snel. De impact op het binnenklimaat (minder opwarming van de zolder/woonruimte) is in Nederland mogelijk even relevant als de extra PV-opbrengst."
-  - q: "Heeft de kleur van de dakpannen invloed op zonnepanelen?"
-    a: "Bij opgaande daken (schuine daken) met panelen op montagerail is de afstand tussen paneel en dak doorgaans 5-15 cm. De dakkleur heeft dan minder effect dan bij vlakke opstelling op een plat dak. Bij bifaciale panelen met horizontale opstelling of tracking-systemen is de dakkleur relevanter."
+- q: Verhoogt een witte dakcoating de opbrengst van zonnepanelen?
+  a: Ja, op twee manieren. Ten eerste reflecteert een wit dak meer zonlicht terug op de achterkant van bifaciale panelen (tot 5-15% extra opbrengst). Ten tweede blijft het dak koeler, waardoor de zonnepanelen zelf minder opwarmen en beter presteren. Zwarte en donkere daken kunnen zonnepanelen 10-20°C warmer maken, wat 5-10% opbrengstverlies veroorzaakt.
+- q: Welke kleur dak is het beste voor zonnepanelen?
+  a: Wit of lichtgrijs. Een hoog albedo (reflectievermogen) van 0,65-0,85 geeft de beste combinatie van lage paneltemperatuur en extra reflectielicht voor bifaciale panelen. Traditionele zwarte bitumen daken hebben een albedo van slechts 0,05-0,15.
+- q: Zijn bifaciale zonnepanelen beter op een wit dak?
+  a: Ja, bifaciale panelen profiteren significant meer van een witte dakcoating dan monofaciale panelen. De achterkant van bifaciale panelen kan 10-30% extra opbrengst leveren als de ondergrond goed reflecteert (albedo >0,5). Op een donkere ondergrond is het voordeel verwaarloosbaar.
+- q: Wat kost een witte dakcoating?
+  a: Voor een standaard plat dak van 80-120 m² liggen de kosten van een professionele witte dakcoating (elastomeer of acrylaat) tussen €1.500 en €4.000 inclusief arbeidskosten. Een doe-het-zelf dakcoating (rol-op systeem) kost €300-€800 voor materialen. De levensduur is 10-15 jaar.
+- q: Kan ik dakcoating aanbrengen als er al zonnepanelen liggen?
+  a: Dat is ingewikkeld en meestal niet aan te raden. De dakcoating moet aangebracht worden vóór de installatie van zonnepanelen, of de panelen moeten tijdelijk verwijderd worden. Rondom de verankeringspunten is voorzichtigheid geboden om de dakdichting niet aan te tasten.
+- q: Werkt een cool roof ook in het Nederlandse klimaat?
+  a: 'In mindere mate dan in Zuid-Europa of de VS. Nederlandse zomers hebben minder hittegolven, maar de voordelen zijn er wel: op warme zomerdagen (>25°C) stijgt de paneltemperatuur minder snel. De impact op het binnenklimaat (minder opwarming van de zolder/woonruimte) is in Nederland mogelijk even relevant als de extra PV-opbrengst.'
+- q: Heeft de kleur van de dakpannen invloed op zonnepanelen?
+  a: Bij opgaande daken (schuine daken) met panelen op montagerail is de afstand tussen paneel en dak doorgaans 5-15 cm. De dakkleur heeft dan minder effect dan bij vlakke opstelling op een plat dak. Bij bifaciale panelen met horizontale opstelling of tracking-systemen is de dakkleur relevanter.
 products:
-  - name: "Beste zonnepanelen 2026"
-    url: "https://go.duurzaamthuislab.nl/zonneplan"
-    price: "250"
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3999"
+- name: Beste zonnepanelen 2026
+  url: https://go.duurzaamthuislab.nl/zonneplan
+  price: '250'
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '3999'
+schema_type: Article
 ---
 
 Ik stond vorig jaar op het dak van een bedrijfspand in Rotterdam — een plat bitumen dak, zwart als de nacht, met 80 zonnepanelen erop. De installateur naast me vertelde dat die panelen 's zomers regelmatig 72°C bereiken. Ik had gelezen dat er bij 72°C al significant opbrengstverlies optreedt. Dat bracht me op de vraag: wat als dat dak wit was?

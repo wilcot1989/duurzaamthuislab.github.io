@@ -1,37 +1,52 @@
 ---
-title: "Zonneschapen en zonnepanelen 2026: agri-PV"
-date: 2026-06-30T10:00:00+01:00
-lastmod: 2026-06-30T10:00:00+01:00
-description: "Agri-PV op kleine schaal — zonnepanelen combineren met dieren of moestuin in NL — werkt het en wat zijn de regels."
-categories: ["zonne-energie"]
-tags: ["agri-PV", "zonnepanelen tuin", "agrivoltaïca", "zonnepanelen groenten", "kippen onder zonnepanelen", "zonnepanelen combineren", "bifaciale zonnepanelen tuin"]
-keywords: ["agri-PV tuin", "agrivoltaics particulier", "zonnepanelen combineren met tuin", "groenten kweken onder zonnepanelen", "zonneschapen onder zonnepanelen", "agrivoltaics nederland 2026"]
+title: 'Zonneschapen en zonnepanelen 2026: agri-PV'
+date: 2026-06-30 10:00:00+01:00
+lastmod: 2026-06-30 10:00:00+01:00
+description: Agri-PV op kleine schaal — zonnepanelen combineren met dieren of moestuin in NL — werkt het en wat zijn de regels.
+categories:
+- zonne-energie
+tags:
+- agri-PV
+- zonnepanelen tuin
+- agrivoltaïca
+- zonnepanelen groenten
+- kippen onder zonnepanelen
+- zonnepanelen combineren
+- bifaciale zonnepanelen tuin
+keywords:
+- agri-PV tuin
+- agrivoltaics particulier
+- zonnepanelen combineren met tuin
+- groenten kweken onder zonnepanelen
+- zonneschapen onder zonnepanelen
+- agrivoltaics nederland 2026
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is agri-PV en kan ik het in mijn tuin toepassen?"
-    a: "Agri-PV (agrivoltaïca) combineert zonnepaneel-installaties met landbouw of tuinbouw op dezelfde grond. Op particuliere schaal betekent dit: zonnepanelen op verhoogde constructies boven een moestuin of grasland, zodat zowel gewassen/dieren als zonnestroom kunnen profiteren. Het is technisch haalbaar voor grotere tuinen (>100 m²), maar vereist een specifieke constructie en planning."
-  - q: "Welke planten groeien goed onder zonnepanelen?"
-    a: "Schaduwtolerante groenten en kruiden presteren het beste onder de gedeeltelijke beschaduwing van zonnepanelen. Goede keuzes: sla, spinazie, postelein, kruiden (peterselie, munt, koriander), aardbeien, courgette (met voldoende ruimte), kool en boerenkool. Tomaten, paprika en komkommer hebben meer direct licht nodig en zijn minder geschikt."
-  - q: "Mag ik een agri-PV constructie in mijn tuin plaatsen zonder vergunning?"
-    a: "Vergunningsvrij bouwen is mogelijk voor constructies tot 1 meter hoogte. Voor hogere constructies (2-3 meter, nodig voor agri-PV) is in de meeste gevallen een omgevingsvergunning nodig. Controleer altijd de lokale regels via het Omgevingsloket. In sommige gemeenten gelden afwijkende regels voor tuinconstructies."
-  - q: "Hoeveel zonnepanelen passen er op een agri-PV constructie van 50 m²?"
-    a: "Op een agri-PV-constructie van 50 m² passen doorgaans 10-15 zonnepanelen van 400Wp (afhankelijk van de afstand tussen de panelen). Dit levert een systeem van 4-6 kWp, goed voor 3.500-5.000 kWh per jaar. De tussenruimte is essentieel: panelen mogen niet dichtopeengepakt staan om voldoende licht door te laten."
-  - q: "Zijn kippen of schapen geschikt voor combinatie met zonnepanelen?"
-    a: "Kippen zijn populair in agri-PV op boerderijen: ze grazen het gras onder de panelen weg, houden onkruid bij en geven mest. In een grotere tuin (500 m+) is dit ook particulier haalbaar, mits de constructie hoog genoeg is (min. 1,8 m voor toegang en bewegingsruimte). Schapen zijn minder geschikt voor kleinere percelen maar worden op boerderijniveau al breed ingezet."
-  - q: "Levert agri-PV minder stroom dan gewone dakpanelen?"
-    a: "Ja. Een agri-PV-systeem met opzettelijk vergroot tussenruimte levert per geïnstalleerde Wp minder stroom dan een optimaal georiënteerd dakpaneel, om twee redenen: de hoek is niet altijd optimaal en er gaat meer licht verloren. Maar de grond onder de panelen levert aanvullende waarde (gewassen, gras, dieren), waardoor de totale opbrengst per m² grond hoger is dan bij louter zonnepanelen of louter landbouw."
-  - q: "Wat kost een agri-PV constructie voor de tuin?"
-    a: "Een maatwerk agri-PV-frame voor 50-100 m² tuin kost €3.000-€8.000 voor de staalconstructie exclusief zonnepanelen. Kant-en-klare systemen zijn schaars; de meeste particuliere agri-PV-projecten zijn maatwerk. De totale investering (frame + 12 panelen + installatie) ligt doorgaans op €8.000-€14.000."
+- q: Wat is agri-PV en kan ik het in mijn tuin toepassen?
+  a: 'Agri-PV (agrivoltaïca) combineert zonnepaneel-installaties met landbouw of tuinbouw op dezelfde grond. Op particuliere schaal betekent dit: zonnepanelen op verhoogde constructies boven een moestuin of grasland, zodat zowel gewassen/dieren als zonnestroom kunnen profiteren. Het is technisch haalbaar voor grotere tuinen (>100 m²), maar vereist een specifieke constructie en planning.'
+- q: Welke planten groeien goed onder zonnepanelen?
+  a: 'Schaduwtolerante groenten en kruiden presteren het beste onder de gedeeltelijke beschaduwing van zonnepanelen. Goede keuzes: sla, spinazie, postelein, kruiden (peterselie, munt, koriander), aardbeien, courgette (met voldoende ruimte), kool en boerenkool. Tomaten, paprika en komkommer hebben meer direct licht nodig en zijn minder geschikt.'
+- q: Mag ik een agri-PV constructie in mijn tuin plaatsen zonder vergunning?
+  a: Vergunningsvrij bouwen is mogelijk voor constructies tot 1 meter hoogte. Voor hogere constructies (2-3 meter, nodig voor agri-PV) is in de meeste gevallen een omgevingsvergunning nodig. Controleer altijd de lokale regels via het Omgevingsloket. In sommige gemeenten gelden afwijkende regels voor tuinconstructies.
+- q: Hoeveel zonnepanelen passen er op een agri-PV constructie van 50 m²?
+  a: 'Op een agri-PV-constructie van 50 m² passen doorgaans 10-15 zonnepanelen van 400Wp (afhankelijk van de afstand tussen de panelen). Dit levert een systeem van 4-6 kWp, goed voor 3.500-5.000 kWh per jaar. De tussenruimte is essentieel: panelen mogen niet dichtopeengepakt staan om voldoende licht door te laten.'
+- q: Zijn kippen of schapen geschikt voor combinatie met zonnepanelen?
+  a: 'Kippen zijn populair in agri-PV op boerderijen: ze grazen het gras onder de panelen weg, houden onkruid bij en geven mest. In een grotere tuin (500 m+) is dit ook particulier haalbaar, mits de constructie hoog genoeg is (min. 1,8 m voor toegang en bewegingsruimte). Schapen zijn minder geschikt voor kleinere percelen maar worden op boerderijniveau al breed ingezet.'
+- q: Levert agri-PV minder stroom dan gewone dakpanelen?
+  a: 'Ja. Een agri-PV-systeem met opzettelijk vergroot tussenruimte levert per geïnstalleerde Wp minder stroom dan een optimaal georiënteerd dakpaneel, om twee redenen: de hoek is niet altijd optimaal en er gaat meer licht verloren. Maar de grond onder de panelen levert aanvullende waarde (gewassen, gras, dieren), waardoor de totale opbrengst per m² grond hoger is dan bij louter zonnepanelen of louter landbouw.'
+- q: Wat kost een agri-PV constructie voor de tuin?
+  a: Een maatwerk agri-PV-frame voor 50-100 m² tuin kost €3.000-€8.000 voor de staalconstructie exclusief zonnepanelen. Kant-en-klare systemen zijn schaars; de meeste particuliere agri-PV-projecten zijn maatwerk. De totale investering (frame + 12 panelen + installatie) ligt doorgaans op €8.000-€14.000.
 products:
-  - name: "Beste zonnepanelen 2026"
-    url: "https://go.duurzaamthuislab.nl/zonneplan"
-    price: "250"
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3999"
+- name: Beste zonnepanelen 2026
+  url: https://go.duurzaamthuislab.nl/zonneplan
+  price: '250'
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '3999'
+schema_type: Article
 ---
 
 Mijn buurvrouw heeft vier Soay-schapen in haar achtertuin. Vorig jaar vroeg ze mij: "Mark, ik heb die grote tuin, ik heb schapen die gras eten, en ik wil zonnepanelen. Kan dat gewoon samen?" Het antwoord verraste haar: ja, dat kan. Sterker nog — het idee heeft een naam, een wetenschappelijke onderbouwing en duizenden hectares bewezen praktijk achter zich. Alleen niet op de schaal van haar tuin, althans nog niet eenvoudig.

@@ -1,45 +1,56 @@
 ---
-title: "Thuisbatterij kopen of leasen 2026"
-date: 2026-05-12T08:00:00+02:00
-lastmod: 2026-05-12T08:00:00+02:00
-description: "Thuisbatterij kopen of leasen? Volledig rekenmodel over 10 jaar voor Sessy, Zonneplan en Marstek. Voor wie wel, voor wie niet."
-categories: ["thuisbatterijen"]
-tags: ["thuisbatterij kopen", "thuisbatterij leasen", "Zonneplan lease", "financieel"]
-keywords: ["thuisbatterij kopen vs leasen", "thuisbatterij lease", "zonneplan lease review", "thuisbatterij financieren", "is thuisbatterij lease verstandig"]
+title: Thuisbatterij kopen of leasen 2026
+date: 2026-05-12 08:00:00+02:00
+lastmod: 2026-05-12 08:00:00+02:00
+description: Thuisbatterij kopen of leasen? Volledig rekenmodel over 10 jaar voor Sessy, Zonneplan en Marstek. Voor wie wel, voor wie niet.
+categories:
+- thuisbatterijen
+tags:
+- thuisbatterij kopen
+- thuisbatterij leasen
+- Zonneplan lease
+- financieel
+keywords:
+- thuisbatterij kopen vs leasen
+- thuisbatterij lease
+- zonneplan lease review
+- thuisbatterij financieren
+- is thuisbatterij lease verstandig
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Is leasen of kopen voordeliger?"
-    a: "Bij gemiddeld gebruik over 10 jaar is kopen €600-€1.200 voordeliger dan leasen. Maar lease beschermt je tegen technologische veroudering, defectrisico en heeft geen grote eenmalige investering. Voor mensen met cashflow-zorgen: lease is rationeel."
-  - q: "Welke leveranciers bieden lease aan?"
-    a: "Zonneplan is de hoofdspeler in Nederland (€34/mnd 5 kWh, €54/mnd 10 kWh). EnergyZero biedt batterij-as-service voor selecte gebieden. Tesla en Sessy bieden geen lease in 2026 — alleen koop."
-  - q: "Wat zijn de leasevoorwaarden?"
-    a: "Bij Zonneplan: minimaal 1 jaar opzegtermijn, daarna maandelijks opzegbaar. Bij opzegging neemt Zonneplan de batterij terug — geen koopoptie. Defect = vervangen door Zonneplan binnen 5 werkdagen, geen kosten."
-  - q: "Kan ik later van lease naar koop overgaan?"
-    a: "Bij Zonneplan niet — lease blijft lease. Wel kun je opzeggen en separaat een nieuwe batterij kopen, maar de oude moet terug. Bij EnergyZero soms wel: na 5 jaar lease kun je restwaarde overnemen voor ~30% van originele prijs."
-  - q: "Wie is verantwoordelijk voor onderhoud bij lease?"
-    a: "De leasegever (Zonneplan, EnergyZero). Geen kosten voor jou bij defect, software-update, of vervanging. Bij koop ben je zelf verantwoordelijk maar binnen 10 jaar garantie krijgt fabrikant het meestal opgelost."
-  - q: "Is lease fiscaal aftrekbaar?"
-    a: "Voor particulieren niet. Maandelijks bedrag is consumptiekosten. Voor ZZP'ers/MKB met thuiswerken: deel van de lease (in verhouding tot werkruimte) kan zakelijke kost zijn — overleg met je accountant."
-  - q: "Wat als de lease-leverancier failliet gaat?"
-    a: "Bij Zonneplan failliet: de batterij blijft eigendom van Zonneplan, dus curator zou hem kunnen opeisen. Praktisch is dit risico klein voor Zonneplan (groot bedrijf), maar wel iets om mee te wegen vs koop (waarbij batterij van jou is)."
-  - q: "Heeft lease invloed op verzekering?"
-    a: "Nee niet direct — Zonneplan zorgt voor verzekering van de hardware. Bij koop moet je het apparaat eventueel onder je inboedelverzekering laten registreren (bij batterij >€2.000)."
+- q: Is leasen of kopen voordeliger?
+  a: 'Bij gemiddeld gebruik over 10 jaar is kopen €600-€1.200 voordeliger dan leasen. Maar lease beschermt je tegen technologische veroudering, defectrisico en heeft geen grote eenmalige investering. Voor mensen met cashflow-zorgen: lease is rationeel.'
+- q: Welke leveranciers bieden lease aan?
+  a: Zonneplan is de hoofdspeler in Nederland (€34/mnd 5 kWh, €54/mnd 10 kWh). EnergyZero biedt batterij-as-service voor selecte gebieden. Tesla en Sessy bieden geen lease in 2026 — alleen koop.
+- q: Wat zijn de leasevoorwaarden?
+  a: 'Bij Zonneplan: minimaal 1 jaar opzegtermijn, daarna maandelijks opzegbaar. Bij opzegging neemt Zonneplan de batterij terug — geen koopoptie. Defect = vervangen door Zonneplan binnen 5 werkdagen, geen kosten.'
+- q: Kan ik later van lease naar koop overgaan?
+  a: 'Bij Zonneplan niet — lease blijft lease. Wel kun je opzeggen en separaat een nieuwe batterij kopen, maar de oude moet terug. Bij EnergyZero soms wel: na 5 jaar lease kun je restwaarde overnemen voor ~30% van originele prijs.'
+- q: Wie is verantwoordelijk voor onderhoud bij lease?
+  a: De leasegever (Zonneplan, EnergyZero). Geen kosten voor jou bij defect, software-update, of vervanging. Bij koop ben je zelf verantwoordelijk maar binnen 10 jaar garantie krijgt fabrikant het meestal opgelost.
+- q: Is lease fiscaal aftrekbaar?
+  a: 'Voor particulieren niet. Maandelijks bedrag is consumptiekosten. Voor ZZP''ers/MKB met thuiswerken: deel van de lease (in verhouding tot werkruimte) kan zakelijke kost zijn — overleg met je accountant.'
+- q: Wat als de lease-leverancier failliet gaat?
+  a: 'Bij Zonneplan failliet: de batterij blijft eigendom van Zonneplan, dus curator zou hem kunnen opeisen. Praktisch is dit risico klein voor Zonneplan (groot bedrijf), maar wel iets om mee te wegen vs koop (waarbij batterij van jou is).'
+- q: Heeft lease invloed op verzekering?
+  a: Nee niet direct — Zonneplan zorgt voor verzekering van de hardware. Bij koop moet je het apparaat eventueel onder je inboedelverzekering laten registreren (bij batterij >€2.000).
 products:
-  - name: "Zonneplan thuisbatterij koop 10 kWh"
-    url: "https://www.zonneplan.nl/thuisbatterij"
-    price: "6995"
-  - name: "Zonneplan thuisbatterij lease 10 kWh"
-    url: "https://www.zonneplan.nl/thuisbatterij/lease"
-    price: "54"
-  - name: "Sessy 10 kWh (alternatief koop)"
-    url: "https://sessy.nl/"
-    price: "5995"
-  - name: "Marstek Venus E (alternatief koop)"
-    url: "https://marstekenergy.com/venus-e"
-    price: "2299"
+- name: Zonneplan thuisbatterij koop 10 kWh
+  url: https://www.zonneplan.nl/thuisbatterij
+  price: '6995'
+- name: Zonneplan thuisbatterij lease 10 kWh
+  url: https://www.zonneplan.nl/thuisbatterij/lease
+  price: '54'
+- name: Sessy 10 kWh (alternatief koop)
+  url: https://sessy.nl/
+  price: '5995'
+- name: Marstek Venus E (alternatief koop)
+  url: https://marstekenergy.com/venus-e
+  price: '2299'
+schema_type: Article
 ---
 
 "Mark, mijn vrouw wil een thuisbatterij maar ik heb geen zin om €7.000 cash neer te leggen. Is leasen een goed idee?" Mijn buurman vroeg me dit in oktober. Ik heb voor hem het rekensommetje gemaakt over 10 jaar. Hier is wat ik vond — eerlijk, met cijfers, niet met "lease is altijd slechter" of "kopen is altijd beter".

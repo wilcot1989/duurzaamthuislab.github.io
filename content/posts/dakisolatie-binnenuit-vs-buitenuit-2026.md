@@ -1,39 +1,52 @@
 ---
-title: "Dakisolatie Binnenuit vs Buitenuit 2026"
-date: 2026-06-18T09:00:00+01:00
-lastmod: 2026-06-18T09:00:00+01:00
-description: "Dakisolatie van binnenuit of buitenuit? PUR, glaswol en EPS vergeleken. Wanneer kies je welke methode, en wat zijn de echte kosten in 2026?"
-categories: ["isolatie"]
-tags: ["dakisolatie", "isolatie binnenuit", "isolatie buitenuit", "PUR isolatie", "glaswol", "EPS dakisolatie"]
-keywords: ["dakisolatie binnenuit vs buitenuit", "dakisolatie PUR glaswol EPS", "dakisolatie kosten 2026", "schuine dak isoleren", "plat dak isoleren"]
+title: Dakisolatie Binnenuit vs Buitenuit 2026
+date: 2026-06-18 09:00:00+01:00
+lastmod: 2026-06-18 09:00:00+01:00
+description: Dakisolatie van binnenuit of buitenuit? PUR, glaswol en EPS vergeleken. Wanneer kies je welke methode, en wat zijn de echte kosten in 2026?
+categories:
+- isolatie
+tags:
+- dakisolatie
+- isolatie binnenuit
+- isolatie buitenuit
+- PUR isolatie
+- glaswol
+- EPS dakisolatie
+keywords:
+- dakisolatie binnenuit vs buitenuit
+- dakisolatie PUR glaswol EPS
+- dakisolatie kosten 2026
+- schuine dak isoleren
+- plat dak isoleren
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is beter: dakisolatie van binnenuit of buitenuit?"
-    a: "Buitenisolatie geeft thermisch betere resultaten (geen koudebruggen, behoud van dakvorm), maar is duurder en geschikt voor renovatie bij dakvervanging. Binnenisolatie is goedkoper en minder ingrijpend, maar vermindert het woonoppervlak licht en is gevoeliger voor vochtproblemen als het niet goed wordt uitgevoerd."
-  - q: "Wat kost dakisolatie van binnenuit per m²?"
-    a: "Dakisolatie van binnenuit kost €20-€60 per m², afhankelijk van het materiaal (glaswol, PUR, EPS) en de uitvoering (zelf doen of aannemer). Inclusief dampscherm en afwerking kom je al snel op €50-€90 per m² bij een aannemer."
-  - q: "Wat kost dakisolatie van buitenuit per m²?"
-    a: "Dakisolatie van buitenuit (bij vervanging van het dak) kost €80-€200 per m² inclusief nieuwe dakbedekking. Alleen de isolatielaag toevoegen op een bestaand dak (PIR-platen op plat dak) kost €40-€80 per m² voor de platen, plus dakdekkerswerkzaamheden."
-  - q: "Welk materiaal isoleert het beste: PUR, glaswol of EPS?"
-    a: "PUR/PIR heeft de beste isolatiewaarde per centimeter dikte (lambda ≈ 0,022-0,026 W/mK), gevolgd door EPS (lambda ≈ 0,032-0,038) en glaswol (lambda ≈ 0,030-0,044). PUR is ideaal als de ruimte beperkt is; glaswol is goedkoper en ademend voor hellende daken."
-  - q: "Hoe dik moet dakisolatie zijn om aan de bouwbesluit-eisen te voldoen?"
-    a: "Het Bouwbesluit eist voor daken een Rc-waarde van minimaal 6,0 m²K/W bij nieuwbouw en ≥3,5 m²K/W bij renovatie. Voor glaswol (lambda 0,040) betekent dat minimaal 24 cm bij nieuwbouw. Met PUR (lambda 0,024) is 14-15 cm voldoende voor dezelfde Rc-waarde."
-  - q: "Kan ik dakisolatie zelf aanbrengen?"
-    a: "Deels. Glaswolrollen in een hellend dak zelf plaatsen is haalbaar voor een doe-het-zelver met enige ervaring. Spuitschuim (PUR) moet altijd door een gecertificeerd bedrijf worden aangebracht vanwege de chemische reactie en de noodzaak van gelijke dikte. Bij een plat dak is professionele dakdekkersinzet noodzakelijk."
-  - q: "Heeft dakisolatie gevolgen voor de ventilatie in huis?"
-    a: "Ja. Betere dakisolatie betekent een luchtdichter huis. Zonder aanpassing van de ventilatie kan dit leiden tot vochtproblemen, condens en ongezonde lucht. Zorg altijd voor mechanische ventilatie (WTW of CO₂-gestuurde ventilatie) bij grootschalige isolatie."
-  - q: "Is er subsidie voor dakisolatie in 2026?"
-    a: "Ja. Via de ISDE (Investeringssubsidie Duurzame Energie) is er subsidie beschikbaar voor dakisolatie met Rc ≥ 3,5 m²K/W. In 2026 bedraagt de subsidie €30 per m² tot een maximum van 30% van de investering. Vraag aan via RVO.nl. Sommige gemeenten hebben aanvullende subsidies."
+- q: 'Wat is beter: dakisolatie van binnenuit of buitenuit?'
+  a: Buitenisolatie geeft thermisch betere resultaten (geen koudebruggen, behoud van dakvorm), maar is duurder en geschikt voor renovatie bij dakvervanging. Binnenisolatie is goedkoper en minder ingrijpend, maar vermindert het woonoppervlak licht en is gevoeliger voor vochtproblemen als het niet goed wordt uitgevoerd.
+- q: Wat kost dakisolatie van binnenuit per m²?
+  a: Dakisolatie van binnenuit kost €20-€60 per m², afhankelijk van het materiaal (glaswol, PUR, EPS) en de uitvoering (zelf doen of aannemer). Inclusief dampscherm en afwerking kom je al snel op €50-€90 per m² bij een aannemer.
+- q: Wat kost dakisolatie van buitenuit per m²?
+  a: Dakisolatie van buitenuit (bij vervanging van het dak) kost €80-€200 per m² inclusief nieuwe dakbedekking. Alleen de isolatielaag toevoegen op een bestaand dak (PIR-platen op plat dak) kost €40-€80 per m² voor de platen, plus dakdekkerswerkzaamheden.
+- q: 'Welk materiaal isoleert het beste: PUR, glaswol of EPS?'
+  a: PUR/PIR heeft de beste isolatiewaarde per centimeter dikte (lambda ≈ 0,022-0,026 W/mK), gevolgd door EPS (lambda ≈ 0,032-0,038) en glaswol (lambda ≈ 0,030-0,044). PUR is ideaal als de ruimte beperkt is; glaswol is goedkoper en ademend voor hellende daken.
+- q: Hoe dik moet dakisolatie zijn om aan de bouwbesluit-eisen te voldoen?
+  a: Het Bouwbesluit eist voor daken een Rc-waarde van minimaal 6,0 m²K/W bij nieuwbouw en ≥3,5 m²K/W bij renovatie. Voor glaswol (lambda 0,040) betekent dat minimaal 24 cm bij nieuwbouw. Met PUR (lambda 0,024) is 14-15 cm voldoende voor dezelfde Rc-waarde.
+- q: Kan ik dakisolatie zelf aanbrengen?
+  a: Deels. Glaswolrollen in een hellend dak zelf plaatsen is haalbaar voor een doe-het-zelver met enige ervaring. Spuitschuim (PUR) moet altijd door een gecertificeerd bedrijf worden aangebracht vanwege de chemische reactie en de noodzaak van gelijke dikte. Bij een plat dak is professionele dakdekkersinzet noodzakelijk.
+- q: Heeft dakisolatie gevolgen voor de ventilatie in huis?
+  a: Ja. Betere dakisolatie betekent een luchtdichter huis. Zonder aanpassing van de ventilatie kan dit leiden tot vochtproblemen, condens en ongezonde lucht. Zorg altijd voor mechanische ventilatie (WTW of CO₂-gestuurde ventilatie) bij grootschalige isolatie.
+- q: Is er subsidie voor dakisolatie in 2026?
+  a: Ja. Via de ISDE (Investeringssubsidie Duurzame Energie) is er subsidie beschikbaar voor dakisolatie met Rc ≥ 3,5 m²K/W. In 2026 bedraagt de subsidie €30 per m² tot een maximum van 30% van de investering. Vraag aan via RVO.nl. Sommige gemeenten hebben aanvullende subsidies.
 products:
-  - name: "Tibber"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "0"
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "5995"
+- name: Tibber
+  url: https://go.duurzaamthuislab.nl/tibber
+  price: '0'
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '5995'
+schema_type: Article
 ---
 
 Vorig jaar liet ik de dakisolatie van mijn jaren-vijftig rijtjeswoning aanpakken. De keuze die me het meeste hoofdbrekens kostte: ga ik het van binnenuit of van buitenuit isoleren? Na twee avonden rekenen en drie offertegesprekken kom ik je dat nu eerlijk vertellen — inclusief wat ik gekozen heb en waarom.

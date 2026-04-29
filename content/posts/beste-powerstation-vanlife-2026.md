@@ -1,40 +1,53 @@
 ---
-title: "Beste Powerstation voor Vanlife 2026: Top 5 voor Campers"
-date: 2026-03-31T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "De 5 beste powerstations voor vanlife en campers in 2026. Vergelijk capaciteit, vermogen, zonneladen en prijs voor de ultieme camperbus-setup."
-categories: ["powerstations"]
-tags: ["powerstation camper", "powerstation vanlife", "accu camperbus", "camper stroom", "zonnepaneel camper", "off-grid"]
-keywords: ["powerstation camper", "powerstation vanlife", "accu camperbus", "beste powerstation camper", "stroom camperbus"]
+title: 'Beste Powerstation voor Vanlife 2026: Top 5 voor Campers'
+date: 2026-03-31 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: De 5 beste powerstations voor vanlife en campers in 2026. Vergelijk capaciteit, vermogen, zonneladen en prijs voor de ultieme camperbus-setup.
+categories:
+- powerstations
+tags:
+- powerstation camper
+- powerstation vanlife
+- accu camperbus
+- camper stroom
+- zonnepaneel camper
+- off-grid
+keywords:
+- powerstation camper
+- powerstation vanlife
+- accu camperbus
+- beste powerstation camper
+- stroom camperbus
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel Wh powerstation heb ik nodig voor vanlife?"
-    a: "Voor basaal vanlife-gebruik (telefoon, laptop, verlichting, kleine koelbox) is 500-1000 Wh voldoende. Voor uitgebreider gebruik (koelkast, koken, haardroger) heb je minimaal 1500-2000 Wh nodig. Full-time vanlifers met hoog verbruik kiezen vaak voor 2000-4000 Wh."
-  - q: "Kan ik een powerstation opladen met zonnepanelen op mijn bus?"
-    a: "Ja, vrijwel alle moderne powerstations ondersteunen opladen via zonnepanelen. De meeste accepteren 100-400W aan zonne-input. Met 200W aan zonnepanelen op je dak kun je een 1000 Wh powerstation in 5-7 uur opladen bij goede zon."
-  - q: "Is een powerstation beter dan een vaste camperaccu?"
-    a: "Een powerstation is flexibeler: je kunt het meenemen, verplaatsen en in meerdere voertuigen gebruiken. Een vaste camperaccu (zoals een lithium-systeem met omvormer) biedt meer capaciteit en is onzichtbaar geintegreerd. Voor geconverteerde camperbussen is een powerstation vaak eenvoudiger en sneller te installeren."
-  - q: "Kan ik een inductiekookplaat gebruiken met een powerstation?"
-    a: "Sommige powerstations ondersteunen een kleine inductiekookplaat (1000-1500W) dankzij hoge piekvermogen. De EcoFlow Delta 2 Max (2400W) en Bluetti AC200Max (2200W) kunnen dit. Let op: koken verbruikt veel stroom en put je batterij snel uit."
-  - q: "Hoe lang kan ik een koelkast draaien op een powerstation?"
-    a: "Een compressorkoelkast voor campers verbruikt gemiddeld 40-60W continu. Op een 1000 Wh powerstation kun je zo'n koelkast circa 15-20 uur draaien. Op een 2000 Wh station is dat 30-40 uur. Met zonnepanelen erbij kun je vrijwel continu koelen."
-  - q: "Kan ik een powerstation opladen terwijl ik rijd?"
-    a: "Ja, alle powerstations in dit artikel kunnen worden opgeladen via de 12V sigarettenaanstekeruitgang van je bus (of via een directe aansluiting op de startaccu). De laadsnelheid is beperkt (doorgaans 100-200W), dus het duurt langer dan via netstroom."
-  - q: "Is een powerstation veilig in een camperbus?"
-    a: "Ja, moderne powerstations met LiFePO4-batterijen zijn veilig in een camperbus. Ze zijn BMS-beschermd (Battery Management System) tegen overladen, te diep ontladen, kortsluiting en oververhitting. Zorg wel voor voldoende ventilatie en zet het station niet in direct zonlicht bij hoge temperaturen."
+- q: Hoeveel Wh powerstation heb ik nodig voor vanlife?
+  a: Voor basaal vanlife-gebruik (telefoon, laptop, verlichting, kleine koelbox) is 500-1000 Wh voldoende. Voor uitgebreider gebruik (koelkast, koken, haardroger) heb je minimaal 1500-2000 Wh nodig. Full-time vanlifers met hoog verbruik kiezen vaak voor 2000-4000 Wh.
+- q: Kan ik een powerstation opladen met zonnepanelen op mijn bus?
+  a: Ja, vrijwel alle moderne powerstations ondersteunen opladen via zonnepanelen. De meeste accepteren 100-400W aan zonne-input. Met 200W aan zonnepanelen op je dak kun je een 1000 Wh powerstation in 5-7 uur opladen bij goede zon.
+- q: Is een powerstation beter dan een vaste camperaccu?
+  a: 'Een powerstation is flexibeler: je kunt het meenemen, verplaatsen en in meerdere voertuigen gebruiken. Een vaste camperaccu (zoals een lithium-systeem met omvormer) biedt meer capaciteit en is onzichtbaar geintegreerd. Voor geconverteerde camperbussen is een powerstation vaak eenvoudiger en sneller te installeren.'
+- q: Kan ik een inductiekookplaat gebruiken met een powerstation?
+  a: 'Sommige powerstations ondersteunen een kleine inductiekookplaat (1000-1500W) dankzij hoge piekvermogen. De EcoFlow Delta 2 Max (2400W) en Bluetti AC200Max (2200W) kunnen dit. Let op: koken verbruikt veel stroom en put je batterij snel uit.'
+- q: Hoe lang kan ik een koelkast draaien op een powerstation?
+  a: Een compressorkoelkast voor campers verbruikt gemiddeld 40-60W continu. Op een 1000 Wh powerstation kun je zo'n koelkast circa 15-20 uur draaien. Op een 2000 Wh station is dat 30-40 uur. Met zonnepanelen erbij kun je vrijwel continu koelen.
+- q: Kan ik een powerstation opladen terwijl ik rijd?
+  a: Ja, alle powerstations in dit artikel kunnen worden opgeladen via de 12V sigarettenaanstekeruitgang van je bus (of via een directe aansluiting op de startaccu). De laadsnelheid is beperkt (doorgaans 100-200W), dus het duurt langer dan via netstroom.
+- q: Is een powerstation veilig in een camperbus?
+  a: Ja, moderne powerstations met LiFePO4-batterijen zijn veilig in een camperbus. Ze zijn BMS-beschermd (Battery Management System) tegen overladen, te diep ontladen, kortsluiting en oververhitting. Zorg wel voor voldoende ventilatie en zet het station niet in direct zonlicht bij hoge temperaturen.
 products:
-  - name: "EcoFlow Delta 2 Max"
-    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
-    price: "1899"
-  - name: "Jackery Explorer 1500 Pro"
-    url: "https://www.jackery.com/products/explorer-1500-pro-portable-power-station"
-    price: "1599"
-  - name: "Bluetti AC200MAX"
-    url: "https://www.bluettipower.eu/products/ac200max"
-    price: "1899"
+- name: EcoFlow Delta 2 Max
+  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  price: '1899'
+- name: Jackery Explorer 1500 Pro
+  url: https://www.jackery.com/products/explorer-1500-pro-portable-power-station
+  price: '1599'
+- name: Bluetti AC200MAX
+  url: https://www.bluettipower.eu/products/ac200max
+  price: '1899'
+schema_type: Article
 ---
 
 Een vriend van mij bouwde vorig jaar zijn VW Crafter om tot camperbus en vroeg mijn advies over de stroomvoorziening. Ik heb zijn verbruik doorgerekend: koelkast (45W continu), laptop, verlichting en af en toe de inductieplaat — dat is al snel 1.500 Wh per dag. Na weken vergelijken en testen heb ik de 5 beste powerstations voor vanlife op een rij gezet.

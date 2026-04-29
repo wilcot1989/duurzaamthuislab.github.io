@@ -1,34 +1,47 @@
 ---
-title: "Sessy Radar 2026: software-update + dynamisch"
-date: 2026-06-06T08:00:00+01:00
-lastmod: 2026-06-06T08:00:00+01:00
-description: "Deep-dive Sessy Radar algoritme — hoe Sessy de marktprijzen volgt, wat de update brengt, en koppeling met dynamisch contract."
-categories: ["thuisbatterijen"]
-tags: ["Sessy", "Sessy Radar", "thuisbatterij algoritme", "dynamisch contract", "EPEX optimalisatie", "Sessy software update 2026"]
-keywords: ["sessy radar algoritme 2026", "sessy software update 2026", "sessy thuisbatterij review", "sessy vs andere thuisbatterij", "sessy EPEX optimalisatie"]
+title: 'Sessy Radar 2026: software-update + dynamisch'
+date: 2026-06-06 08:00:00+01:00
+lastmod: 2026-06-06 08:00:00+01:00
+description: Deep-dive Sessy Radar algoritme — hoe Sessy de marktprijzen volgt, wat de update brengt, en koppeling met dynamisch contract.
+categories:
+- thuisbatterijen
+tags:
+- Sessy
+- Sessy Radar
+- thuisbatterij algoritme
+- dynamisch contract
+- EPEX optimalisatie
+- Sessy software update 2026
+keywords:
+- sessy radar algoritme 2026
+- sessy software update 2026
+- sessy thuisbatterij review
+- sessy vs andere thuisbatterij
+- sessy EPEX optimalisatie
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is Sessy Radar?"
-    a: "Sessy Radar is het geïntegreerde optimalisatie-algoritme in de Sessy thuisbatterij. Het analyseert de EPEX day-ahead prijzen voor de komende 24–48 uur en bepaalt automatisch wanneer de batterij laadt (goedkope uren) en ontlaadt (dure uren). Je hoeft zelf niets in te stellen."
-  - q: "Werkt Sessy Radar ook zonder Tibber of ander dynamisch contract?"
-    a: "Sessy Radar is het meest effectief met een dynamisch contract waarbij de uurprijzen worden doorgegeven. Zonder dynamisch contract heeft Radar geen actuele prijsdata en valt het terug op een standaard dag/nacht-profiel. Voor optimale werking is een dynamisch contract (Tibber, ANWB Energie, Frank Energie) aanbevolen."
-  - q: "Wat is er veranderd in de Sessy software-update van begin 2026?"
-    a: "De 2026-updates bevatten: verbeterde voorspelkwaliteit van gebruikspatronen (machine learning op huishoudprofiel), betere integratie met P1-meterdata voor nauwkeuriger net-export-anticipatie, en een nieuwe 'combi-modus' die zonne-energie en EPEX-optimalisatie combineert zonder conflicten."
-  - q: "Hoe koppel ik Sessy aan Tibber?"
-    a: "In de Sessy-app ga je naar Instellingen > Energiecontract > Tibber. Je logt in met je Tibber-account en geeft Sessy toestemming om de uurprijsdata te lezen. Sessy Radar begint direct met het plannen van laad- en ontlaadcycli op basis van de gepubliceerde day-ahead prijzen."
-  - q: "Wat is het verschil tussen Sessy Radar en concurrenten zoals Huawei Luna optimalisatie?"
-    a: "Sessy Radar is specifiek ontworpen voor EPEX-prijsoptimalisatie met open API-koppeling. Huawei Luna optimaliseert primair voor eigenverbruik van zonne-energie. Huawei heeft geen native EPEX-koppeling voor uurprijsoptimalisatie. Sessy is daarmee sterker voor zuivere arbitrage op de spotmarkt."
-  - q: "Hoeveel verdient Sessy Radar me per jaar extra ten opzichte van geen optimalisatie?"
-    a: "Op basis van gebruikersdata en backtests: Sessy Radar levert gemiddeld €180–€350 extra per jaar ten opzichte van een Sessy zonder EPEX-koppeling (alleen eigenverbruiksoptimalisatie). De exacte waarde hangt af van de volatiliteit van de EPEX-markt dat jaar en je verbruiksprofiel."
-  - q: "Kan Sessy ook terugleveren aan het net bij hoge prijzen?"
-    a: "Ja. Als je netbeheerder teruglevering toestaat (de meeste doen dat) en je dynamische leverancier teruglevering vergoedt op het live tarief, kan Sessy actief terugleveren bij hoge EPEX-prijzen. Niet alle leveranciers vergoeden dit op het spotmarkt-tarief — check je contract."
+- q: Wat is Sessy Radar?
+  a: Sessy Radar is het geïntegreerde optimalisatie-algoritme in de Sessy thuisbatterij. Het analyseert de EPEX day-ahead prijzen voor de komende 24–48 uur en bepaalt automatisch wanneer de batterij laadt (goedkope uren) en ontlaadt (dure uren). Je hoeft zelf niets in te stellen.
+- q: Werkt Sessy Radar ook zonder Tibber of ander dynamisch contract?
+  a: Sessy Radar is het meest effectief met een dynamisch contract waarbij de uurprijzen worden doorgegeven. Zonder dynamisch contract heeft Radar geen actuele prijsdata en valt het terug op een standaard dag/nacht-profiel. Voor optimale werking is een dynamisch contract (Tibber, ANWB Energie, Frank Energie) aanbevolen.
+- q: Wat is er veranderd in de Sessy software-update van begin 2026?
+  a: 'De 2026-updates bevatten: verbeterde voorspelkwaliteit van gebruikspatronen (machine learning op huishoudprofiel), betere integratie met P1-meterdata voor nauwkeuriger net-export-anticipatie, en een nieuwe ''combi-modus'' die zonne-energie en EPEX-optimalisatie combineert zonder conflicten.'
+- q: Hoe koppel ik Sessy aan Tibber?
+  a: In de Sessy-app ga je naar Instellingen > Energiecontract > Tibber. Je logt in met je Tibber-account en geeft Sessy toestemming om de uurprijsdata te lezen. Sessy Radar begint direct met het plannen van laad- en ontlaadcycli op basis van de gepubliceerde day-ahead prijzen.
+- q: Wat is het verschil tussen Sessy Radar en concurrenten zoals Huawei Luna optimalisatie?
+  a: Sessy Radar is specifiek ontworpen voor EPEX-prijsoptimalisatie met open API-koppeling. Huawei Luna optimaliseert primair voor eigenverbruik van zonne-energie. Huawei heeft geen native EPEX-koppeling voor uurprijsoptimalisatie. Sessy is daarmee sterker voor zuivere arbitrage op de spotmarkt.
+- q: Hoeveel verdient Sessy Radar me per jaar extra ten opzichte van geen optimalisatie?
+  a: 'Op basis van gebruikersdata en backtests: Sessy Radar levert gemiddeld €180–€350 extra per jaar ten opzichte van een Sessy zonder EPEX-koppeling (alleen eigenverbruiksoptimalisatie). De exacte waarde hangt af van de volatiliteit van de EPEX-markt dat jaar en je verbruiksprofiel.'
+- q: Kan Sessy ook terugleveren aan het net bij hoge prijzen?
+  a: Ja. Als je netbeheerder teruglevering toestaat (de meeste doen dat) en je dynamische leverancier teruglevering vergoedt op het live tarief, kan Sessy actief terugleveren bij hoge EPEX-prijzen. Niet alle leveranciers vergoeden dit op het spotmarkt-tarief — check je contract.
 products:
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3999"
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '3999'
+schema_type: Article
 ---
 
 Ik heb de Sessy nu ruim een jaar aan de muur hangen. En in die tijd heeft Dutch New Energy minstens zes software-updates uitgerold die het systeem substantieel hebben veranderd. De meest recente updates van begin 2026 hebben de Sessy Radar zo verbeterd dat ik er een apart artikel aan wijd.

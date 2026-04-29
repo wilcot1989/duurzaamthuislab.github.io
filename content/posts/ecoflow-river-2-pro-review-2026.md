@@ -1,40 +1,53 @@
 ---
-title: "EcoFlow River 2 Pro Review 2026: Beste Budget Powerstation?"
-date: 2026-03-26T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Uitgebreide review van de EcoFlow River 2 Pro in 2026. Capaciteit, prestaties, laadsnelheid en onze eerlijke ervaringen met dit budget powerstation."
-categories: ["powerstations"]
-tags: ["ecoflow river 2 pro", "ecoflow", "powerstation review", "budget powerstation", "draagbaar powerstation", "camping powerstation"]
-keywords: ["ecoflow river 2 pro review", "river 2 pro test", "ecoflow river 2 pro ervaringen", "river 2 pro specs", "ecoflow river 2 pro kopen"]
+title: 'EcoFlow River 2 Pro Review 2026: Beste Budget Powerstation?'
+date: 2026-03-26 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Uitgebreide review van de EcoFlow River 2 Pro in 2026. Capaciteit, prestaties, laadsnelheid en onze eerlijke ervaringen met dit budget powerstation.
+categories:
+- powerstations
+tags:
+- ecoflow river 2 pro
+- ecoflow
+- powerstation review
+- budget powerstation
+- draagbaar powerstation
+- camping powerstation
+keywords:
+- ecoflow river 2 pro review
+- river 2 pro test
+- ecoflow river 2 pro ervaringen
+- river 2 pro specs
+- ecoflow river 2 pro kopen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel kost de EcoFlow River 2 Pro?"
-    a: "De EcoFlow River 2 Pro heeft een adviesprijs van circa €400-470. Tijdens acties is het toestel regelmatig verkrijgbaar voor €350-400. Hiermee is het een van de meest betaalbare powerstations met 768 Wh capaciteit op de markt."
-  - q: "Hoe snel laadt de EcoFlow River 2 Pro op?"
-    a: "De River 2 Pro laadt via netstroom op van 0 tot 100% in circa 70 minuten dankzij EcoFlow's X-Stream snellaadtechnologie. Via zonnepanelen (maximaal 220W input) duurt het 4-6 uur afhankelijk van de panelen en zonnestand. Via de auto-adapter duurt het circa 4-5 uur."
-  - q: "Kan de EcoFlow River 2 Pro een koelkast draaiien?"
-    a: "Ja, de River 2 Pro kan een kleine koelkast voeden dankzij het uitgangsvermogen van 800W (1600W piek via X-Boost). Een standaard camping-koelkast (50-80W continu) kan circa 8-12 uur draaien op een volle lading. Een standaard huishoudkoelkast (100-150W) kan enkele uren draaien."
-  - q: "Is de EcoFlow River 2 Pro geschikt voor camping?"
-    a: "Ja, de River 2 Pro is een van de populairste powerstations voor camping. Het gewicht van 7,8 kg maakt het draagbaar, de capaciteit van 768 Wh is voldoende voor een weekend en het snelladen is handig als je kort bij een stopcontact bent. Voor langere trips kun je uitbreiden met een zonnepaneel."
-  - q: "Hoeveel keer kan ik mijn telefoon opladen met de River 2 Pro?"
-    a: "Met een capaciteit van 768 Wh kun je een gemiddelde smartphone (circa 15 Wh per lading) ongeveer 40-50 keer opladen. Een laptop (circa 50-60 Wh) kun je ongeveer 10-12 keer volledig opladen."
-  - q: "Kan ik de River 2 Pro uitbreiden met een extra batterij?"
-    a: "Ja, de River 2 Pro ondersteunt een extra EcoFlow River 2 Pro Extra Battery (768 Wh) waarmee je de totale capaciteit verdubbelt naar 1536 Wh. De extra batterij wordt direct op het station aangesloten en is snel gekoppeld."
-  - q: "Hoe lang gaat de batterij van de EcoFlow River 2 Pro mee?"
-    a: "EcoFlow garandeert dat de batterij na 3000 laadcycli nog minimaal 80% van de oorspronkelijke capaciteit behoudt. Bij dagelijks gebruik komt dit neer op meer dan 8 jaar. Bij wekelijks gebruik (camping, weekend) gaat de batterij effectief 10-15 jaar of langer mee."
+- q: Hoeveel kost de EcoFlow River 2 Pro?
+  a: De EcoFlow River 2 Pro heeft een adviesprijs van circa €400-470. Tijdens acties is het toestel regelmatig verkrijgbaar voor €350-400. Hiermee is het een van de meest betaalbare powerstations met 768 Wh capaciteit op de markt.
+- q: Hoe snel laadt de EcoFlow River 2 Pro op?
+  a: De River 2 Pro laadt via netstroom op van 0 tot 100% in circa 70 minuten dankzij EcoFlow's X-Stream snellaadtechnologie. Via zonnepanelen (maximaal 220W input) duurt het 4-6 uur afhankelijk van de panelen en zonnestand. Via de auto-adapter duurt het circa 4-5 uur.
+- q: Kan de EcoFlow River 2 Pro een koelkast draaiien?
+  a: Ja, de River 2 Pro kan een kleine koelkast voeden dankzij het uitgangsvermogen van 800W (1600W piek via X-Boost). Een standaard camping-koelkast (50-80W continu) kan circa 8-12 uur draaien op een volle lading. Een standaard huishoudkoelkast (100-150W) kan enkele uren draaien.
+- q: Is de EcoFlow River 2 Pro geschikt voor camping?
+  a: Ja, de River 2 Pro is een van de populairste powerstations voor camping. Het gewicht van 7,8 kg maakt het draagbaar, de capaciteit van 768 Wh is voldoende voor een weekend en het snelladen is handig als je kort bij een stopcontact bent. Voor langere trips kun je uitbreiden met een zonnepaneel.
+- q: Hoeveel keer kan ik mijn telefoon opladen met de River 2 Pro?
+  a: Met een capaciteit van 768 Wh kun je een gemiddelde smartphone (circa 15 Wh per lading) ongeveer 40-50 keer opladen. Een laptop (circa 50-60 Wh) kun je ongeveer 10-12 keer volledig opladen.
+- q: Kan ik de River 2 Pro uitbreiden met een extra batterij?
+  a: Ja, de River 2 Pro ondersteunt een extra EcoFlow River 2 Pro Extra Battery (768 Wh) waarmee je de totale capaciteit verdubbelt naar 1536 Wh. De extra batterij wordt direct op het station aangesloten en is snel gekoppeld.
+- q: Hoe lang gaat de batterij van de EcoFlow River 2 Pro mee?
+  a: EcoFlow garandeert dat de batterij na 3000 laadcycli nog minimaal 80% van de oorspronkelijke capaciteit behoudt. Bij dagelijks gebruik komt dit neer op meer dan 8 jaar. Bij wekelijks gebruik (camping, weekend) gaat de batterij effectief 10-15 jaar of langer mee.
 products:
-  - name: "EcoFlow River 2 Pro"
-    url: "https://nl.ecoflow.com/products/river-2-pro-portable-power-station"
-    price: "649"
-  - name: "Jackery Explorer 700 Plus"
-    url: "https://www.jackery.com/products/explorer-700-plus-portable-power-station"
-    price: "699"
-  - name: "Anker SOLIX C800"
-    url: "https://www.anker.com/eu-en/products/a1751"
-    price: "599"
+- name: EcoFlow River 2 Pro
+  url: https://nl.ecoflow.com/products/river-2-pro-portable-power-station
+  price: '649'
+- name: Jackery Explorer 700 Plus
+  url: https://www.jackery.com/products/explorer-700-plus-portable-power-station
+  price: '699'
+- name: Anker SOLIX C800
+  url: https://www.anker.com/eu-en/products/a1751
+  price: '599'
+schema_type: Review
 ---
 
 Voor onder de €450 krijg je 768 Wh, razendsnelle X-Stream oplaadtechnologie en een gewicht van maar 7,8 kg — de EcoFlow River 2 Pro is mijn vaste metgezel op campingtrips. Ik heb hem een heel weekend mijn koelbox, telefoons en LED-lampjes laten voeden, en hij hield het ruimschoots vol. In deze review deel ik mijn praktijkervaringen en de cijfers die erbij horen.

@@ -1,35 +1,46 @@
 ---
-title: "ISDE Subsidie 2026: Complete Gids voor Warmtepompen &"
-date: 2026-04-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Alles over de ISDE subsidie in 2026: bedragen voor warmtepompen en isolatie, hoe aanvragen, voorwaarden en combinatie met andere subsidies."
-categories: ["warmtepompen"]
-tags: ["ISDE", "subsidie", "warmtepomp", "isolatie", "verduurzaming"]
-keywords: ["ISDE subsidie", "subsidie warmtepomp 2026", "ISDE aanvragen", "warmtepomp subsidie Nederland"]
+title: 'ISDE Subsidie 2026: Complete Gids voor Warmtepompen &'
+date: 2026-04-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Alles over de ISDE subsidie in 2026: bedragen voor warmtepompen en isolatie, hoe aanvragen, voorwaarden en combinatie met andere subsidies.'
+categories:
+- warmtepompen
+tags:
+- ISDE
+- subsidie
+- warmtepomp
+- isolatie
+- verduurzaming
+keywords:
+- ISDE subsidie
+- subsidie warmtepomp 2026
+- ISDE aanvragen
+- warmtepomp subsidie Nederland
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel ISDE subsidie krijg ik voor een warmtepomp?"
-    a: "De ISDE subsidie voor een warmtepomp varieert van €3.000 tot €5.800 afhankelijk van het type. Een hybride warmtepomp levert circa €3.000 op, een lucht-water warmtepomp €3.000-€3.500, en een bodem-water warmtepomp €4.500-€5.800. Het exacte bedrag hangt af van het vermogen en de SCOP-waarde."
-  - q: "Hoe vraag ik ISDE subsidie aan?"
-    a: "Je vraagt ISDE subsidie aan via mijn.rvo.nl na installatie van de maatregel. Je hebt nodig: eHerkenning of DigiD, de factuur van de installateur, bewijs van betaling en de productspecificaties. De aanvraag moet binnen 12 maanden na installatie worden ingediend."
-  - q: "Kan ik ISDE subsidie combineren met andere subsidies?"
-    a: "Ja, de ISDE is te combineren met gemeentelijke subsidies en de SEEH (Subsidie Energiebesparing Eigen Huis) voor isolatie. Je kunt ook gebruik maken van het Nationaal Warmtefonds voor een lening met lage rente."
-  - q: "Hoe lang duurt het voordat ik de ISDE subsidie ontvang?"
-    a: "Na het indienen van een complete aanvraag duurt het gemiddeld 8-13 weken voordat de subsidie wordt uitbetaald. In drukke perioden kan dit oplopen tot 16 weken. Zorg dat alle documenten compleet zijn om vertragingen te voorkomen."
-  - q: "Geldt ISDE subsidie ook voor huurwoningen?"
-    a: "De ISDE subsidie voor warmtepompen is beschikbaar voor eigenaar-bewoners van bestaande woningen. Huurders kunnen geen ISDE aanvragen, maar verhuurders en woningcorporaties kunnen dit wel doen voor hun bezit."
-  - q: "Is er een budget limiet voor ISDE in 2026?"
-    a: "Ja, het totale ISDE budget voor 2026 bedraagt circa €328 miljoen. In voorgaande jaren was het budget ruim voldoende, maar door de groeiende vraag is het verstandig om niet te lang te wachten met je aanvraag."
+- q: Hoeveel ISDE subsidie krijg ik voor een warmtepomp?
+  a: De ISDE subsidie voor een warmtepomp varieert van €3.000 tot €5.800 afhankelijk van het type. Een hybride warmtepomp levert circa €3.000 op, een lucht-water warmtepomp €3.000-€3.500, en een bodem-water warmtepomp €4.500-€5.800. Het exacte bedrag hangt af van het vermogen en de SCOP-waarde.
+- q: Hoe vraag ik ISDE subsidie aan?
+  a: 'Je vraagt ISDE subsidie aan via mijn.rvo.nl na installatie van de maatregel. Je hebt nodig: eHerkenning of DigiD, de factuur van de installateur, bewijs van betaling en de productspecificaties. De aanvraag moet binnen 12 maanden na installatie worden ingediend.'
+- q: Kan ik ISDE subsidie combineren met andere subsidies?
+  a: Ja, de ISDE is te combineren met gemeentelijke subsidies en de SEEH (Subsidie Energiebesparing Eigen Huis) voor isolatie. Je kunt ook gebruik maken van het Nationaal Warmtefonds voor een lening met lage rente.
+- q: Hoe lang duurt het voordat ik de ISDE subsidie ontvang?
+  a: Na het indienen van een complete aanvraag duurt het gemiddeld 8-13 weken voordat de subsidie wordt uitbetaald. In drukke perioden kan dit oplopen tot 16 weken. Zorg dat alle documenten compleet zijn om vertragingen te voorkomen.
+- q: Geldt ISDE subsidie ook voor huurwoningen?
+  a: De ISDE subsidie voor warmtepompen is beschikbaar voor eigenaar-bewoners van bestaande woningen. Huurders kunnen geen ISDE aanvragen, maar verhuurders en woningcorporaties kunnen dit wel doen voor hun bezit.
+- q: Is er een budget limiet voor ISDE in 2026?
+  a: Ja, het totale ISDE budget voor 2026 bedraagt circa €328 miljoen. In voorgaande jaren was het budget ruim voldoende, maar door de groeiende vraag is het verstandig om niet te lang te wachten met je aanvraag.
 products:
-  - name: "Vaillant aroTHERM plus"
-    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
-    price: "8000"
-  - name: "Daikin Altherma 3"
-    url: "https://www.daikin.nl/nl_nl/producten.html"
-    price: "9000"
+- name: Vaillant aroTHERM plus
+  url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/
+  price: '8000'
+- name: Daikin Altherma 3
+  url: https://www.daikin.nl/nl_nl/producten.html
+  price: '9000'
+schema_type: Article
 ---
 
 Voor mijn Vaillant hybride warmtepomp ontving ik €3.000 ISDE-subsidie — dat was bijna de helft van de netto investering. Het aanvraagproces via mijn.rvo.nl duurde 20 minuten en na 11 weken stond het geld op mijn rekening. In deze gids leg ik stap voor stap uit welke bedragen je kunt verwachten, hoe je de aanvraag doet en hoe je de ISDE combineert met gemeentelijke subsidies voor maximaal voordeel.

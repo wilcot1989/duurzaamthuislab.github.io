@@ -1,45 +1,56 @@
 ---
-title: "Thuisbatterij subsidie 2026: volledig overzicht per"
-date: 2026-05-10T08:00:00+02:00
-lastmod: 2026-05-10T08:00:00+02:00
-description: "Welke subsidies bestaan er voor thuisbatterijen in 2026? Per provincie en gemeente uitgesplitst. Plus BTW-regels, ISDE-status en wanneer subsidie aanvragen."
-categories: ["thuisbatterijen"]
-tags: ["thuisbatterij subsidie", "subsidie 2026", "ISDE", "BTW thuisbatterij"]
-keywords: ["thuisbatterij subsidie 2026", "subsidie thuisbatterij flevoland", "subsidie thuisbatterij utrecht", "BTW thuisbatterij", "thuisbatterij ISDE"]
+title: 'Thuisbatterij subsidie 2026: volledig overzicht per'
+date: 2026-05-10 08:00:00+02:00
+lastmod: 2026-05-10 08:00:00+02:00
+description: Welke subsidies bestaan er voor thuisbatterijen in 2026? Per provincie en gemeente uitgesplitst. Plus BTW-regels, ISDE-status en wanneer subsidie aanvragen.
+categories:
+- thuisbatterijen
+tags:
+- thuisbatterij subsidie
+- subsidie 2026
+- ISDE
+- BTW thuisbatterij
+keywords:
+- thuisbatterij subsidie 2026
+- subsidie thuisbatterij flevoland
+- subsidie thuisbatterij utrecht
+- BTW thuisbatterij
+- thuisbatterij ISDE
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Is er een landelijke subsidie voor thuisbatterijen?"
-    a: "Niet via ISDE in 2026. De ISDE (Investeringssubsidie duurzame energie) dekt zonneboilers, warmtepompen en pelletketels — maar nog geen thuisbatterijen. De overheid heeft aangekondigd dat dit per 2027 gaat veranderen, maar dat is nog niet zeker."
-  - q: "Welke gemeenten/provincies hebben wél subsidie?"
-    a: "Provincie Flevoland (€500-€750), gemeente Utrecht (tot €500), Apeldoorn (€400), Eindhoven (€300), enkele Noord-Hollandse gemeenten (€200-€400). Allemaal beperkte budgetten — vaak op = op binnen weken na opening."
-  - q: "Geldt het lage BTW-tarief voor thuisbatterijen?"
-    a: "Sinds 2024 geldt 0% BTW op thuisbatterijen (en zonnepanelen) bij installatie aan een woning. Dat scheelt 21% — concreet €1.260 op een €6.000 batterij. Dit geldt automatisch via de installateur, je hoeft niets aan te vragen."
-  - q: "Hoe vraag ik subsidie aan?"
-    a: "Verschilt per gemeente. Algemene werkwijze: (1) check of je gemeente een subsidie heeft, (2) reserveer subsidie ONLINE voordat je de batterij koopt, (3) koop + installatie binnen 6-12 maanden, (4) stuur factuur + bewijs in. Veel mensen kopen eerst — dat werkt meestal niet."
-  - q: "Komt er per 2027 een landelijke subsidie?"
-    a: "Waarschijnlijk wel, maar niet zeker. In het regeerakkoord 2026 staat een passage over uitbreiding van ISDE met thuisbatterijen, maar geen concrete bedragen of startdatum. Verwachting: €500-€1.000 per huishouden, beperkt budget."
-  - q: "Kan ik EU-subsidies krijgen?"
-    a: "Niet direct als consument. EU-fondsen lopen via Nederlandse instanties die ze doorzetten via ISDE of provinciale regelingen. Geen aparte EU-aanvraag mogelijk."
-  - q: "Geldt de subsidie ook bij lease?"
-    a: "Vrijwel altijd nee. Subsidies zijn voor eigenaren/installatie. Bij Zonneplan-lease behoort de batterij toe aan Zonneplan, dus geen subsidie. Bij koop wel."
-  - q: "Wanneer kan ik het beste kopen voor maximale subsidie?"
-    a: "Wacht tot je gemeente/provincie de regeling voor 2026 opent (vaak januari, april of september). Reserveer online de subsidie. Koop dan pas de batterij. Wachten op een hypothetische landelijke 2027-regeling is risicovol — die kan kleiner zijn dan de huidige lokale opties."
+- q: Is er een landelijke subsidie voor thuisbatterijen?
+  a: Niet via ISDE in 2026. De ISDE (Investeringssubsidie duurzame energie) dekt zonneboilers, warmtepompen en pelletketels — maar nog geen thuisbatterijen. De overheid heeft aangekondigd dat dit per 2027 gaat veranderen, maar dat is nog niet zeker.
+- q: Welke gemeenten/provincies hebben wél subsidie?
+  a: Provincie Flevoland (€500-€750), gemeente Utrecht (tot €500), Apeldoorn (€400), Eindhoven (€300), enkele Noord-Hollandse gemeenten (€200-€400). Allemaal beperkte budgetten — vaak op = op binnen weken na opening.
+- q: Geldt het lage BTW-tarief voor thuisbatterijen?
+  a: Sinds 2024 geldt 0% BTW op thuisbatterijen (en zonnepanelen) bij installatie aan een woning. Dat scheelt 21% — concreet €1.260 op een €6.000 batterij. Dit geldt automatisch via de installateur, je hoeft niets aan te vragen.
+- q: Hoe vraag ik subsidie aan?
+  a: 'Verschilt per gemeente. Algemene werkwijze: (1) check of je gemeente een subsidie heeft, (2) reserveer subsidie ONLINE voordat je de batterij koopt, (3) koop + installatie binnen 6-12 maanden, (4) stuur factuur + bewijs in. Veel mensen kopen eerst — dat werkt meestal niet.'
+- q: Komt er per 2027 een landelijke subsidie?
+  a: 'Waarschijnlijk wel, maar niet zeker. In het regeerakkoord 2026 staat een passage over uitbreiding van ISDE met thuisbatterijen, maar geen concrete bedragen of startdatum. Verwachting: €500-€1.000 per huishouden, beperkt budget.'
+- q: Kan ik EU-subsidies krijgen?
+  a: Niet direct als consument. EU-fondsen lopen via Nederlandse instanties die ze doorzetten via ISDE of provinciale regelingen. Geen aparte EU-aanvraag mogelijk.
+- q: Geldt de subsidie ook bij lease?
+  a: Vrijwel altijd nee. Subsidies zijn voor eigenaren/installatie. Bij Zonneplan-lease behoort de batterij toe aan Zonneplan, dus geen subsidie. Bij koop wel.
+- q: Wanneer kan ik het beste kopen voor maximale subsidie?
+  a: Wacht tot je gemeente/provincie de regeling voor 2026 opent (vaak januari, april of september). Reserveer online de subsidie. Koop dan pas de batterij. Wachten op een hypothetische landelijke 2027-regeling is risicovol — die kan kleiner zijn dan de huidige lokale opties.
 products:
-  - name: "Sessy thuisbatterij 5 kWh"
-    url: "https://sessy.nl/"
-    price: "3795"
-  - name: "Sessy thuisbatterij 10 kWh"
-    url: "https://sessy.nl/"
-    price: "5995"
-  - name: "Marstek Venus E 8,2 kWh"
-    url: "https://marstekenergy.com/venus-e"
-    price: "2299"
-  - name: "Zonneplan thuisbatterij 10 kWh"
-    url: "https://www.zonneplan.nl/thuisbatterij"
-    price: "6995"
+- name: Sessy thuisbatterij 5 kWh
+  url: https://sessy.nl/
+  price: '3795'
+- name: Sessy thuisbatterij 10 kWh
+  url: https://sessy.nl/
+  price: '5995'
+- name: Marstek Venus E 8,2 kWh
+  url: https://marstekenergy.com/venus-e
+  price: '2299'
+- name: Zonneplan thuisbatterij 10 kWh
+  url: https://www.zonneplan.nl/thuisbatterij
+  price: '6995'
+schema_type: Article
 ---
 
 Subsidie-vraag is in 2026 de tweede meest gestelde vraag van mijn klanten (na "is een batterij wel rendabel"). Het antwoord is rommelig: er is **geen** landelijke subsidie, maar er **zijn** gemeentelijke en provinciale regelingen. Plus de 0% BTW-regel die iedereen vergeet.

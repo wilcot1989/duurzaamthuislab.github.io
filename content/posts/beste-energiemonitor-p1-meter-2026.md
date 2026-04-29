@@ -1,38 +1,49 @@
 ---
-title: "Beste Energiemonitor 2026: P1 Meter Vergelijking"
-date: 2026-06-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "De beste energiemonitoren en P1-meters van 2026 vergeleken. HomeWizard, Tibber Pulse, Iungo en Youless. Real-time inzicht in je stroom- en gasverbruik."
-categories: ["energie"]
-tags: ["energiemonitor", "P1 meter", "HomeWizard", "slimme meter", "energieverbruik"]
-keywords: ["beste energiemonitor", "P1 meter vergelijking", "HomeWizard P1", "energieverbruik meten"]
+title: 'Beste Energiemonitor 2026: P1 Meter Vergelijking'
+date: 2026-06-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: De beste energiemonitoren en P1-meters van 2026 vergeleken. HomeWizard, Tibber Pulse, Iungo en Youless. Real-time inzicht in je stroom- en gasverbruik.
+categories:
+- energie
+tags:
+- energiemonitor
+- P1 meter
+- HomeWizard
+- slimme meter
+- energieverbruik
+keywords:
+- beste energiemonitor
+- P1 meter vergelijking
+- HomeWizard P1
+- energieverbruik meten
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is een P1-meter / energiemonitor?"
-    a: "Een P1-meter (of energiemonitor) sluit je aan op de P1-poort van je slimme meter. Het leest real-time je stroom- en gasverbruik en toont dit in een app op je telefoon. Zo zie je exact hoeveel stroom en gas je verbruikt, wat het kost, en welke apparaten de grootste verbruikers zijn."
-  - q: "Welke energiemonitor is het beste?"
-    a: "De HomeWizard P1 Meter is het beste voor de meeste huishoudens: €30, eenvoudigste installatie (5 minuten), uitstekende app en Home Assistant integratie. De Tibber Pulse is het beste als je Tibber-klant bent (per-seconde meting). De Iungo is het beste voor uitgebreide analyses per apparaat."
-  - q: "Hoeveel bespaar je met een energiemonitor?"
-    a: "Onderzoek toont aan dat real-time inzicht in energieverbruik leidt tot 5-15% besparing door gedragsverandering. Bij een gemiddelde energierekening van €200/maand is dat €120-€360 per jaar. De monitor verdient zich dus in 1-3 maanden terug."
-  - q: "Heb ik een slimme meter nodig voor een P1-meter?"
-    a: "Ja, een P1-meter werkt alleen met een slimme meter (DSMR 4.0 of hoger). Meer dan 90% van de Nederlandse huishoudens heeft een slimme meter. Heb je er geen? Vraag er gratis een aan bij je netbeheerder (Liander, Stedin of Enexis)."
-  - q: "Kan ik ook zonnepanelen monitoren met een energiemonitor?"
-    a: "Een P1-meter toont je netto verbruik en teruglevering, maar niet de totale productie van je zonnepanelen. Daarvoor heb je een extra sensor nodig (bijv. HomeWizard kWh Meter op je omvormer) of je leest de productie uit via de omvormer-app (SolarEdge, Enphase, Growatt)."
-  - q: "Werkt een energiemonitor met Home Assistant?"
-    a: "Ja, de HomeWizard P1 Meter en Youless hebben uitstekende Home Assistant integraties. Ze worden automatisch gedetecteerd en bieden real-time verbruiksdata voor automatisering, zoals de wasmachine starten bij zonne-overschot of de warmtepomp uitschakelen bij dure stroom."
+- q: Wat is een P1-meter / energiemonitor?
+  a: Een P1-meter (of energiemonitor) sluit je aan op de P1-poort van je slimme meter. Het leest real-time je stroom- en gasverbruik en toont dit in een app op je telefoon. Zo zie je exact hoeveel stroom en gas je verbruikt, wat het kost, en welke apparaten de grootste verbruikers zijn.
+- q: Welke energiemonitor is het beste?
+  a: 'De HomeWizard P1 Meter is het beste voor de meeste huishoudens: €30, eenvoudigste installatie (5 minuten), uitstekende app en Home Assistant integratie. De Tibber Pulse is het beste als je Tibber-klant bent (per-seconde meting). De Iungo is het beste voor uitgebreide analyses per apparaat.'
+- q: Hoeveel bespaar je met een energiemonitor?
+  a: Onderzoek toont aan dat real-time inzicht in energieverbruik leidt tot 5-15% besparing door gedragsverandering. Bij een gemiddelde energierekening van €200/maand is dat €120-€360 per jaar. De monitor verdient zich dus in 1-3 maanden terug.
+- q: Heb ik een slimme meter nodig voor een P1-meter?
+  a: Ja, een P1-meter werkt alleen met een slimme meter (DSMR 4.0 of hoger). Meer dan 90% van de Nederlandse huishoudens heeft een slimme meter. Heb je er geen? Vraag er gratis een aan bij je netbeheerder (Liander, Stedin of Enexis).
+- q: Kan ik ook zonnepanelen monitoren met een energiemonitor?
+  a: Een P1-meter toont je netto verbruik en teruglevering, maar niet de totale productie van je zonnepanelen. Daarvoor heb je een extra sensor nodig (bijv. HomeWizard kWh Meter op je omvormer) of je leest de productie uit via de omvormer-app (SolarEdge, Enphase, Growatt).
+- q: Werkt een energiemonitor met Home Assistant?
+  a: Ja, de HomeWizard P1 Meter en Youless hebben uitstekende Home Assistant integraties. Ze worden automatisch gedetecteerd en bieden real-time verbruiksdata voor automatisering, zoals de wasmachine starten bij zonne-overschot of de warmtepomp uitschakelen bij dure stroom.
 products:
-  - name: "HomeWizard P1 Meter"
-    url: "https://www.homewizard.com/nl/p1-meter/"
-    price: "30"
-  - name: "Youless LS120"
-    url: "https://www.youless.nl/energiemonitor/"
-    price: "70"
-  - name: "Shelly Pro 3EM"
-    url: "https://www.shelly.com/nl/products/shop/shelly-pro-3-em-400"
-    price: "120"
+- name: HomeWizard P1 Meter
+  url: https://www.homewizard.com/nl/p1-meter/
+  price: '30'
+- name: Youless LS120
+  url: https://www.youless.nl/energiemonitor/
+  price: '70'
+- name: Shelly Pro 3EM
+  url: https://www.shelly.com/nl/products/shop/shelly-pro-3-em-400
+  price: '120'
+schema_type: Article
 ---
 
 Mijn HomeWizard P1 meter was letterlijk de beste €30 die ik ooit heb uitgegeven. Binnen een week ontdekte ik dat mijn oude vriezer 's nachts 180W trok — vervangen, en ik bespaar nu €90 per jaar op dat ene apparaat. In combinatie met mijn Tibber dynamisch contract en 16 zonnepanelen zie ik per seconde wat er binnenkomt en wat het kost. In dit artikel vergelijk ik de beste energiemonitoren op de markt.

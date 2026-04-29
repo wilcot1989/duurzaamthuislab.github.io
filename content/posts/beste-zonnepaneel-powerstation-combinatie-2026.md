@@ -1,40 +1,54 @@
 ---
-title: "Beste Zonnepaneel + Powerstation Combinatie 2026"
-date: 2026-03-10T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "De beste zonnepaneel en powerstation combinaties van 2026 vergeleken. EcoFlow, Jackery en Bluetti bundels op vermogen, laadtijd en prijs."
-categories: ["zonne-energie"]
-tags: ["zonnepaneel", "powerstation", "solar generator", "EcoFlow", "Jackery", "Bluetti", "draagbaar zonnepaneel"]
-keywords: ["zonnepaneel powerstation", "solar generator", "powerstation met zonnepaneel", "draagbaar zonnepaneel powerstation", "zonnepaneel powerstation set"]
+title: Beste Zonnepaneel + Powerstation Combinatie 2026
+date: 2026-03-10 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: De beste zonnepaneel en powerstation combinaties van 2026 vergeleken. EcoFlow, Jackery en Bluetti bundels op vermogen, laadtijd en prijs.
+categories:
+- zonne-energie
+tags:
+- zonnepaneel
+- powerstation
+- solar generator
+- EcoFlow
+- Jackery
+- Bluetti
+- draagbaar zonnepaneel
+keywords:
+- zonnepaneel powerstation
+- solar generator
+- powerstation met zonnepaneel
+- draagbaar zonnepaneel powerstation
+- zonnepaneel powerstation set
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel watt zonnepaneel heb ik nodig voor mijn powerstation?"
-    a: "Als vuistregel wil je een zonnepaneel dat minimaal 15-20% van de batterijcapaciteit in watt levert. Voor een 1000Wh powerstation is een 200W paneel een goed startpunt; voor 2000Wh mik je op 350-400W."
-  - q: "Hoe lang duurt het om een powerstation op te laden met een zonnepaneel?"
-    a: "Dat hangt af van het paneel-vermogen en de zonneomstandigheden. Met een 400W paneel en volle zon laad je een 2000Wh station in ongeveer 6-7 uur. In Nederland is de werkelijke output gemiddeld 60-75% van het nominale vermogen."
-  - q: "Werken draagbare zonnepanelen ook bij bewolkt weer?"
-    a: "Ja, maar het rendement daalt aanzienlijk. Bij lichte bewolking produceer je nog 25-50% van het nominale vermogen. Bij zwaar bewolkt weer zakt dit naar 5-15%. Monocrystallijne panelen presteren het best bij weinig licht."
-  - q: "Kan ik een zonnepaneel van een ander merk gebruiken bij mijn powerstation?"
-    a: "In principe ja, mits de spanning (VOC) en het vermogen binnen de specificaties van je powerstation vallen. Wij adviseren echter om bij hetzelfde merk te blijven voor optimale compatibiliteit en garantie."
-  - q: "Wat is het verschil tussen een draagbaar en een vast zonnepaneel?"
-    a: "Draagbare zonnepanelen zijn opvouwbaar, lichter en makkelijk mee te nemen. Vaste panelen op je dak hebben een hoger rendement en langere levensduur. Voor gebruik met een powerstation kies je meestal een draagbaar paneel."
-  - q: "Hoeveel kost een complete zonnepaneel-powerstation set?"
-    a: "Een instapset (500-800Wh station + 100-200W paneel) kost €700-1.100. Een middenklasse set (1000-1500Wh + 200-400W) kost €1.200-2.000. Een premium set (2000Wh+ met 350-400W) kost €2.100-2.800."
-  - q: "Kan ik meerdere zonnepanelen op een powerstation aansluiten?"
-    a: "Ja, de meeste powerstations ondersteunen meerdere panelen in serie of parallel, zolang je de maximale solar-input niet overschrijdt. Controleer altijd de specificaties van je powerstation voor de maximale VOC en het maximale wattage."
+- q: Hoeveel watt zonnepaneel heb ik nodig voor mijn powerstation?
+  a: Als vuistregel wil je een zonnepaneel dat minimaal 15-20% van de batterijcapaciteit in watt levert. Voor een 1000Wh powerstation is een 200W paneel een goed startpunt; voor 2000Wh mik je op 350-400W.
+- q: Hoe lang duurt het om een powerstation op te laden met een zonnepaneel?
+  a: Dat hangt af van het paneel-vermogen en de zonneomstandigheden. Met een 400W paneel en volle zon laad je een 2000Wh station in ongeveer 6-7 uur. In Nederland is de werkelijke output gemiddeld 60-75% van het nominale vermogen.
+- q: Werken draagbare zonnepanelen ook bij bewolkt weer?
+  a: Ja, maar het rendement daalt aanzienlijk. Bij lichte bewolking produceer je nog 25-50% van het nominale vermogen. Bij zwaar bewolkt weer zakt dit naar 5-15%. Monocrystallijne panelen presteren het best bij weinig licht.
+- q: Kan ik een zonnepaneel van een ander merk gebruiken bij mijn powerstation?
+  a: In principe ja, mits de spanning (VOC) en het vermogen binnen de specificaties van je powerstation vallen. Wij adviseren echter om bij hetzelfde merk te blijven voor optimale compatibiliteit en garantie.
+- q: Wat is het verschil tussen een draagbaar en een vast zonnepaneel?
+  a: Draagbare zonnepanelen zijn opvouwbaar, lichter en makkelijk mee te nemen. Vaste panelen op je dak hebben een hoger rendement en langere levensduur. Voor gebruik met een powerstation kies je meestal een draagbaar paneel.
+- q: Hoeveel kost een complete zonnepaneel-powerstation set?
+  a: Een instapset (500-800Wh station + 100-200W paneel) kost €700-1.100. Een middenklasse set (1000-1500Wh + 200-400W) kost €1.200-2.000. Een premium set (2000Wh+ met 350-400W) kost €2.100-2.800.
+- q: Kan ik meerdere zonnepanelen op een powerstation aansluiten?
+  a: Ja, de meeste powerstations ondersteunen meerdere panelen in serie of parallel, zolang je de maximale solar-input niet overschrijdt. Controleer altijd de specificaties van je powerstation voor de maximale VOC en het maximale wattage.
 products:
-  - name: "EcoFlow 400W Solar Panel"
-    url: "https://nl.ecoflow.com/products/400w-solar-panel"
-    price: "799"
-  - name: "Jackery SolarSaga 200W"
-    url: "https://www.jackery.com/products/solarsaga-200w-solar-panel"
-    price: "499"
-  - name: "Bluetti PV200"
-    url: "https://www.bluettipower.eu/products/pv200-solar-panel"
-    price: "399"
+- name: EcoFlow 400W Solar Panel
+  url: https://nl.ecoflow.com/products/400w-solar-panel
+  price: '799'
+- name: Jackery SolarSaga 200W
+  url: https://www.jackery.com/products/solarsaga-200w-solar-panel
+  price: '499'
+- name: Bluetti PV200
+  url: https://www.bluettipower.eu/products/pv200-solar-panel
+  price: '399'
+schema_type: Article
 ---
 
 Met 16 zonnepanelen op mijn dak wek ik thuis genoeg op, maar onderweg was ik altijd afhankelijk van stopcontacten. Tot ik een draagbaar zonnepaneel koppelde aan een powerstation — inmiddels mijn vaste campingsetup. Ik heb de beste combinaties van EcoFlow, Jackery en Bluetti vergeleken op laadtijd, rendement bij bewolking en prijs per opgewekte Wh.

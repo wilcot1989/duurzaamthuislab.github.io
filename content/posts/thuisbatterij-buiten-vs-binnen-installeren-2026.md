@@ -1,37 +1,52 @@
 ---
-title: "Thuisbatterij binnen of buiten plaatsen: veilig 2026"
-date: 2026-06-21T10:00:00+01:00
-lastmod: 2026-06-21T10:00:00+01:00
-description: "Thuisbatterij buiten of binnen installeren? Ik leg uit wat veiliger is, welke locaties werken (garage, schuur, woonkamer) en wat de installateur-eisen zijn."
-categories: ["thuisbatterijen"]
-tags: ["thuisbatterij installeren", "thuisbatterij buiten", "thuisbatterij garage", "Sessy", "Marstek", "batterij plaatsing", "LiFePO4 veiligheid"]
-keywords: ["thuisbatterij buiten of binnen installeren", "thuisbatterij garage installeren", "thuisbatterij veiligheid", "thuisbatterij plaatsing", "sessy installatie", "marstek installatie"]
+title: 'Thuisbatterij binnen of buiten plaatsen: veilig 2026'
+date: 2026-06-21 10:00:00+01:00
+lastmod: 2026-06-21 10:00:00+01:00
+description: Thuisbatterij buiten of binnen installeren? Ik leg uit wat veiliger is, welke locaties werken (garage, schuur, woonkamer) en wat de installateur-eisen zijn.
+categories:
+- thuisbatterijen
+tags:
+- thuisbatterij installeren
+- thuisbatterij buiten
+- thuisbatterij garage
+- Sessy
+- Marstek
+- batterij plaatsing
+- LiFePO4 veiligheid
+keywords:
+- thuisbatterij buiten of binnen installeren
+- thuisbatterij garage installeren
+- thuisbatterij veiligheid
+- thuisbatterij plaatsing
+- sessy installatie
+- marstek installatie
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Mag een thuisbatterij buiten staan?"
-    a: "Ja, maar alleen als de batterij specifiek gecertificeerd is voor buitenopstelling (IP55 of hoger). Niet elke thuisbatterij is geschikt voor directe blootstelling aan regen, vorst of hitte. Controleer altijd de IP-classificatie van het specifieke model."
-  - q: "Is een LiFePO4 thuisbatterij veilig in huis?"
-    a: "LiFePO4-batterijen (lithium-ijzerfosfaat) zijn aanzienlijk veiliger dan oudere lithium-ion-types. Ze zijn niet brandbaar bij normale bedrijfstemperaturen en kennen geen thermische runaway onder gewone omstandigheden. De brandweer en verzekeraars accepteren LiFePO4 in woonruimtes, mits correct geïnstalleerd."
-  - q: "Welke temperatuur heeft een thuisbatterij nodig?"
-    a: "De meeste thuisbatterijen presteren optimaal tussen 10°C en 35°C. Onder 5°C daalt de laadcapaciteit en sommige systemen weigeren te laden om degradatie te voorkomen. Boven 40°C schakelt het BMS naar beschermmodus. Een onverwarmde buitenruimte kan in de winter problemen geven."
-  - q: "Hoever moet een thuisbatterij van brandbare materialen staan?"
-    a: "De Nederlandse installatienorm (NEN 1010) schrijft minimaal 0,5 meter vrije ruimte rondom de batterijkast voor. Voor buitenopstelling adviseert de brandweer minimaal 1 meter afstand van brandbare gevels of opslagmateriaal."
-  - q: "Kan ik mijn Sessy of Marstek buiten plaatsen?"
-    a: "De Sessy heeft IP21-classificatie en is niet geschikt voor buitenopstelling. De Marstek B5000 heeft IP55 en kan in een overdekte buitenruimte staan. Raadpleeg altijd de installatiehandleiding en bespreek de locatie met je installateur."
-  - q: "Vervalt mijn garantie als ik de batterij verkeerd plaatst?"
-    a: "Ja. Beide fabrikanten (Sessy en Marstek) stellen duidelijke eisen aan de installatieomgeving in hun garantievoorwaarden. Plaatsing buiten de opgegeven temperatuur- of IP-klasse kan leiden tot garantieverval."
-  - q: "Wat kost installatie van een thuisbatterij gemiddeld?"
-    a: "De installatiekosten liggen doorgaans tussen €500 en €1.500, afhankelijk van de locatie, kabellengte naar de meterkast en of er aanpassingen aan de groepenkast nodig zijn. Plaatsing dicht bij de meterkast spaart kosten."
+- q: Mag een thuisbatterij buiten staan?
+  a: Ja, maar alleen als de batterij specifiek gecertificeerd is voor buitenopstelling (IP55 of hoger). Niet elke thuisbatterij is geschikt voor directe blootstelling aan regen, vorst of hitte. Controleer altijd de IP-classificatie van het specifieke model.
+- q: Is een LiFePO4 thuisbatterij veilig in huis?
+  a: LiFePO4-batterijen (lithium-ijzerfosfaat) zijn aanzienlijk veiliger dan oudere lithium-ion-types. Ze zijn niet brandbaar bij normale bedrijfstemperaturen en kennen geen thermische runaway onder gewone omstandigheden. De brandweer en verzekeraars accepteren LiFePO4 in woonruimtes, mits correct geïnstalleerd.
+- q: Welke temperatuur heeft een thuisbatterij nodig?
+  a: De meeste thuisbatterijen presteren optimaal tussen 10°C en 35°C. Onder 5°C daalt de laadcapaciteit en sommige systemen weigeren te laden om degradatie te voorkomen. Boven 40°C schakelt het BMS naar beschermmodus. Een onverwarmde buitenruimte kan in de winter problemen geven.
+- q: Hoever moet een thuisbatterij van brandbare materialen staan?
+  a: De Nederlandse installatienorm (NEN 1010) schrijft minimaal 0,5 meter vrije ruimte rondom de batterijkast voor. Voor buitenopstelling adviseert de brandweer minimaal 1 meter afstand van brandbare gevels of opslagmateriaal.
+- q: Kan ik mijn Sessy of Marstek buiten plaatsen?
+  a: De Sessy heeft IP21-classificatie en is niet geschikt voor buitenopstelling. De Marstek B5000 heeft IP55 en kan in een overdekte buitenruimte staan. Raadpleeg altijd de installatiehandleiding en bespreek de locatie met je installateur.
+- q: Vervalt mijn garantie als ik de batterij verkeerd plaatst?
+  a: Ja. Beide fabrikanten (Sessy en Marstek) stellen duidelijke eisen aan de installatieomgeving in hun garantievoorwaarden. Plaatsing buiten de opgegeven temperatuur- of IP-klasse kan leiden tot garantieverval.
+- q: Wat kost installatie van een thuisbatterij gemiddeld?
+  a: De installatiekosten liggen doorgaans tussen €500 en €1.500, afhankelijk van de locatie, kabellengte naar de meterkast en of er aanpassingen aan de groepenkast nodig zijn. Plaatsing dicht bij de meterkast spaart kosten.
 products:
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3999"
-  - name: "Marstek B5000"
-    url: "https://go.duurzaamthuislab.nl/marstek"
-    price: "3499"
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '3999'
+- name: Marstek B5000
+  url: https://go.duurzaamthuislab.nl/marstek
+  price: '3499'
+schema_type: Article
 ---
 
 Ik heb de afgelopen maanden vier installateurs gevraagd om hun eerlijkste mening over thuisbatterij-plaatsing. Het antwoord varieerde van "gewoon in de meterkast" tot "absoluut niet in de woonruimte". De waarheden liggen ergens in het midden — en de details zijn crucialer dan de meeste fabrieksbrochures je laten geloven.

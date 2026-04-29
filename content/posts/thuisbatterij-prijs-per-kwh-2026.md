@@ -1,42 +1,53 @@
 ---
-title: "Thuisbatterij prijs per kWh 2026: complete prijsanalyse +"
-date: 2026-05-11T08:00:00+02:00
-lastmod: 2026-05-11T08:00:00+02:00
-description: "Wat betaal je per kWh thuisbatterijcapaciteit in 2026? Volledige prijsanalyse van alle merken plus prognose voor 2027 en advies wanneer kopen."
-categories: ["thuisbatterijen"]
-tags: ["thuisbatterij prijs", "prijs per kwh", "thuisbatterij vergelijking", "marktanalyse"]
-keywords: ["thuisbatterij prijs per kwh", "thuisbatterij prijs 2026", "prijsontwikkeling thuisbatterij", "thuisbatterij prijs evolutie", "wanneer thuisbatterij kopen"]
+title: 'Thuisbatterij prijs per kWh 2026: complete prijsanalyse +'
+date: 2026-05-11 08:00:00+02:00
+lastmod: 2026-05-11 08:00:00+02:00
+description: Wat betaal je per kWh thuisbatterijcapaciteit in 2026? Volledige prijsanalyse van alle merken plus prognose voor 2027 en advies wanneer kopen.
+categories:
+- thuisbatterijen
+tags:
+- thuisbatterij prijs
+- prijs per kwh
+- thuisbatterij vergelijking
+- marktanalyse
+keywords:
+- thuisbatterij prijs per kwh
+- thuisbatterij prijs 2026
+- prijsontwikkeling thuisbatterij
+- thuisbatterij prijs evolutie
+- wanneer thuisbatterij kopen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is de gemiddelde prijs per kWh in 2026?"
-    a: "Voor LFP-thuisbatterijen ligt de prijs in 2026 tussen €326/kWh (Marstek, prijs-leider) en €704/kWh (Tesla Powerwall 3, premium). Gemiddeld zit je rond €500-€600/kWh inclusief installatie. Vorig jaar (2025) was dat ~€670/kWh — daling van 12-15% per jaar is normaal."
-  - q: "Welke is goedkoper per kWh?"
-    a: "Marstek Venus E (€326/kWh) is de prijs-kampioen. Tesla Powerwall (€704/kWh) is duurst. Sessy (€600/kWh), Zonneplan (€700/kWh), EcoFlow PowerOcean (€680/kWh), Huawei Luna (€550/kWh) zitten ertussenin. Prijs/kWh is niet alles — service, garantie en automation tellen ook."
-  - q: "Wanneer is de beste tijd om te kopen?"
-    a: "Eind 2026 of 2027 is gunstig timing-technisch. Prijzen dalen 12-15% per jaar, maar saldering stopt 1-1-2027 dus je mist 12 maanden besparing als je nog langer wacht. Mijn rekenregel: lever je >3000 kWh terug? → nu kopen. <2000 kWh? → wacht tot eind 2027."
-  - q: "Daalt de prijs nog meer?"
-    a: "Ja. China-overcapaciteit voor LFP-cellen + EU-import stimuleert prijsdaling. Verwachting: 2027 nog 10-12% lager dan 2026, vanaf 2028 vlakker (~5-8% jaarlijks). Bodem rond €200-€250/kWh in 2030."
-  - q: "Is goedkoop per kWh altijd beter?"
-    a: "Nee. Marstek (€326/kWh) is goedkoop maar heeft tragere service en geen Nederlandse marktintegratie. Sessy (€600/kWh) kost dubbel maar bespaart je 50+ uur tweaken. Voor de meeste gebruikers: middenklasse (€500-€600/kWh) is sweet spot."
-  - q: "Wat verklaart de prijsverschillen?"
-    a: "Drie factoren: (1) batterij-cellen — Tesla gebruikt premium NMC, Marstek goedkopere LFP, (2) automation/software — Sessy heeft eigen NL-trading-algoritme dat €100-€200/kWh extra waard is, (3) garantie + service — Tesla heeft 10 jaar wereldwijde dealer-netwerk, Marstek lokale distributeurs."
-  - q: "Hebben prijzen impact van saldering-stop in 2027?"
-    a: "Ja, mogelijk omhoog. In aanloop naar 1-1-2027 wordt vraag explosief. Begin 2027 verwacht ik tijdelijk +5-10% prijsstijging door tekort. Daarna normaliseert het. Wachten tot 2028 is dus niet automatisch goedkoper."
-  - q: "Hoe vergelijk ik appels met appels?"
-    a: "Reken altijd: (1) prijs per usable kWh (sommige systemen claimen 10 kWh maar leveren maar 9), (2) inclusief installatie, (3) inclusief garantie-jaren, (4) bekijk vermogen (kW) niet alleen capaciteit (kWh). Hogere kW = duurder maar beter voor groot huishouden."
+- q: Wat is de gemiddelde prijs per kWh in 2026?
+  a: Voor LFP-thuisbatterijen ligt de prijs in 2026 tussen €326/kWh (Marstek, prijs-leider) en €704/kWh (Tesla Powerwall 3, premium). Gemiddeld zit je rond €500-€600/kWh inclusief installatie. Vorig jaar (2025) was dat ~€670/kWh — daling van 12-15% per jaar is normaal.
+- q: Welke is goedkoper per kWh?
+  a: Marstek Venus E (€326/kWh) is de prijs-kampioen. Tesla Powerwall (€704/kWh) is duurst. Sessy (€600/kWh), Zonneplan (€700/kWh), EcoFlow PowerOcean (€680/kWh), Huawei Luna (€550/kWh) zitten ertussenin. Prijs/kWh is niet alles — service, garantie en automation tellen ook.
+- q: Wanneer is de beste tijd om te kopen?
+  a: 'Eind 2026 of 2027 is gunstig timing-technisch. Prijzen dalen 12-15% per jaar, maar saldering stopt 1-1-2027 dus je mist 12 maanden besparing als je nog langer wacht. Mijn rekenregel: lever je >3000 kWh terug? → nu kopen. <2000 kWh? → wacht tot eind 2027.'
+- q: Daalt de prijs nog meer?
+  a: 'Ja. China-overcapaciteit voor LFP-cellen + EU-import stimuleert prijsdaling. Verwachting: 2027 nog 10-12% lager dan 2026, vanaf 2028 vlakker (~5-8% jaarlijks). Bodem rond €200-€250/kWh in 2030.'
+- q: Is goedkoop per kWh altijd beter?
+  a: 'Nee. Marstek (€326/kWh) is goedkoop maar heeft tragere service en geen Nederlandse marktintegratie. Sessy (€600/kWh) kost dubbel maar bespaart je 50+ uur tweaken. Voor de meeste gebruikers: middenklasse (€500-€600/kWh) is sweet spot.'
+- q: Wat verklaart de prijsverschillen?
+  a: 'Drie factoren: (1) batterij-cellen — Tesla gebruikt premium NMC, Marstek goedkopere LFP, (2) automation/software — Sessy heeft eigen NL-trading-algoritme dat €100-€200/kWh extra waard is, (3) garantie + service — Tesla heeft 10 jaar wereldwijde dealer-netwerk, Marstek lokale distributeurs.'
+- q: Hebben prijzen impact van saldering-stop in 2027?
+  a: Ja, mogelijk omhoog. In aanloop naar 1-1-2027 wordt vraag explosief. Begin 2027 verwacht ik tijdelijk +5-10% prijsstijging door tekort. Daarna normaliseert het. Wachten tot 2028 is dus niet automatisch goedkoper.
+- q: Hoe vergelijk ik appels met appels?
+  a: 'Reken altijd: (1) prijs per usable kWh (sommige systemen claimen 10 kWh maar leveren maar 9), (2) inclusief installatie, (3) inclusief garantie-jaren, (4) bekijk vermogen (kW) niet alleen capaciteit (kWh). Hogere kW = duurder maar beter voor groot huishouden.'
 products:
-  - name: "Marstek Venus E (cheapest)"
-    url: "https://marstekenergy.com/venus-e"
-    price: "2299"
-  - name: "Sessy 10 kWh (mid)"
-    url: "https://sessy.nl/"
-    price: "5995"
-  - name: "Tesla Powerwall 3 (premium)"
-    url: "https://www.tesla.com/nl_nl/powerwall"
-    price: "9500"
+- name: Marstek Venus E (cheapest)
+  url: https://marstekenergy.com/venus-e
+  price: '2299'
+- name: Sessy 10 kWh (mid)
+  url: https://sessy.nl/
+  price: '5995'
+- name: Tesla Powerwall 3 (premium)
+  url: https://www.tesla.com/nl_nl/powerwall
+  price: '9500'
+schema_type: Article
 ---
 
 In de afgelopen 18 maanden heb ik 12 thuisbatterijen geanalyseerd op prijs/kWh. De spreiding is enorm: van €326 tot €704 per kWh. Het scheelt €4.000 verschil over een 10 kWh systeem.

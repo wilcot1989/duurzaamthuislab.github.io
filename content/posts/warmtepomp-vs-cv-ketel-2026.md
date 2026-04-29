@@ -1,35 +1,46 @@
 ---
-title: "Warmtepomp vs CV-ketel 2026: Wat is Voordeliger?"
-date: 2026-05-01T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Warmtepomp vs CV-ketel vergeleken op kosten, besparing, comfort en duurzaamheid. Ontdek wanneer een warmtepomp rendabel is en wanneer een CV-ketel de betere."
-categories: ["warmtepompen"]
-tags: ["warmtepomp", "CV-ketel", "verwarming", "gasloos", "verduurzaming"]
-keywords: ["warmtepomp vs CV-ketel", "warmtepomp kosten", "CV-ketel vervangen", "warmtepomp rendabel"]
+title: 'Warmtepomp vs CV-ketel 2026: Wat is Voordeliger?'
+date: 2026-05-01 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Warmtepomp vs CV-ketel vergeleken op kosten, besparing, comfort en duurzaamheid. Ontdek wanneer een warmtepomp rendabel is en wanneer een CV-ketel de betere.
+categories:
+- warmtepompen
+tags:
+- warmtepomp
+- CV-ketel
+- verwarming
+- gasloos
+- verduurzaming
+keywords:
+- warmtepomp vs CV-ketel
+- warmtepomp kosten
+- CV-ketel vervangen
+- warmtepomp rendabel
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Is een warmtepomp goedkoper dan een CV-ketel?"
-    a: "Een warmtepomp is duurder in aanschaf (€4.000-€15.000 vs €1.500-€2.500 voor een CV-ketel), maar de gebruikskosten zijn 40-70% lager. Over 15 jaar gerekend is een warmtepomp vrijwel altijd goedkoper, vooral met de ISDE-subsidie van €3.000-€5.500 en stijgende gasprijzen."
-  - q: "Wanneer is een warmtepomp niet rendabel?"
-    a: "Een warmtepomp is minder rendabel bij: slecht geïsoleerde woningen (label E of lager zonder verbeterplannen), zeer laag gasverbruik (<1.000 m³/jaar), een recente CV-ketel (<5 jaar oud), of als je binnen 5 jaar gaat verhuizen. In deze gevallen is een hybride warmtepomp of eerst isoleren de betere keuze."
-  - q: "Kan een warmtepomp mijn huis warm genoeg verwarmen?"
-    a: "Ja, een goed gedimensioneerde warmtepomp verwarmt je huis tot 20-21°C, zelfs bij -10°C buiten. Bij full-electric warmtepompen werkt dit het beste met lage temperatuur verwarming (vloerverwarming of LT-radiatoren). Een hybride warmtepomp schakelt bij extreme kou over naar de CV-ketel."
-  - q: "Heb ik vloerverwarming nodig voor een warmtepomp?"
-    a: "Voor een full-electric warmtepomp is vloerverwarming of LT-radiatoren ideaal maar niet strikt noodzakelijk. Moderne hoge-temperatuur warmtepompen kunnen watertemperaturen tot 65-75°C leveren. Een hybride warmtepomp werkt met je bestaande radiatoren zonder aanpassingen."
-  - q: "Hoeveel CO2 bespaar je met een warmtepomp?"
-    a: "Een full-electric warmtepomp bespaart 60-80% CO2 ten opzichte van een gasgestookte CV-ketel. Een hybride warmtepomp bespaart 40-60% CO2. Met zonnepanelen op je dak kan de besparing oplopen tot 90-100%."
-  - q: "Hoe lang gaat een warmtepomp mee?"
-    a: "Een warmtepomp gaat gemiddeld 15-20 jaar mee, vergelijkbaar met een goede CV-ketel. De compressor is het onderdeel dat het eerst slijt. Regelmatig onderhoud (jaarlijkse check) verlengt de levensduur. De meeste fabrikanten bieden 5-7 jaar garantie."
+- q: Is een warmtepomp goedkoper dan een CV-ketel?
+  a: Een warmtepomp is duurder in aanschaf (€4.000-€15.000 vs €1.500-€2.500 voor een CV-ketel), maar de gebruikskosten zijn 40-70% lager. Over 15 jaar gerekend is een warmtepomp vrijwel altijd goedkoper, vooral met de ISDE-subsidie van €3.000-€5.500 en stijgende gasprijzen.
+- q: Wanneer is een warmtepomp niet rendabel?
+  a: 'Een warmtepomp is minder rendabel bij: slecht geïsoleerde woningen (label E of lager zonder verbeterplannen), zeer laag gasverbruik (<1.000 m³/jaar), een recente CV-ketel (<5 jaar oud), of als je binnen 5 jaar gaat verhuizen. In deze gevallen is een hybride warmtepomp of eerst isoleren de betere keuze.'
+- q: Kan een warmtepomp mijn huis warm genoeg verwarmen?
+  a: Ja, een goed gedimensioneerde warmtepomp verwarmt je huis tot 20-21°C, zelfs bij -10°C buiten. Bij full-electric warmtepompen werkt dit het beste met lage temperatuur verwarming (vloerverwarming of LT-radiatoren). Een hybride warmtepomp schakelt bij extreme kou over naar de CV-ketel.
+- q: Heb ik vloerverwarming nodig voor een warmtepomp?
+  a: Voor een full-electric warmtepomp is vloerverwarming of LT-radiatoren ideaal maar niet strikt noodzakelijk. Moderne hoge-temperatuur warmtepompen kunnen watertemperaturen tot 65-75°C leveren. Een hybride warmtepomp werkt met je bestaande radiatoren zonder aanpassingen.
+- q: Hoeveel CO2 bespaar je met een warmtepomp?
+  a: Een full-electric warmtepomp bespaart 60-80% CO2 ten opzichte van een gasgestookte CV-ketel. Een hybride warmtepomp bespaart 40-60% CO2. Met zonnepanelen op je dak kan de besparing oplopen tot 90-100%.
+- q: Hoe lang gaat een warmtepomp mee?
+  a: Een warmtepomp gaat gemiddeld 15-20 jaar mee, vergelijkbaar met een goede CV-ketel. De compressor is het onderdeel dat het eerst slijt. Regelmatig onderhoud (jaarlijkse check) verlengt de levensduur. De meeste fabrikanten bieden 5-7 jaar garantie.
 products:
-  - name: "Vaillant aroTHERM plus"
-    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
-    price: "8000"
-  - name: "Daikin Altherma 3"
-    url: "https://www.daikin.nl/nl_nl/producten.html"
-    price: "9000"
+- name: Vaillant aroTHERM plus
+  url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/
+  price: '8000'
+- name: Daikin Altherma 3
+  url: https://www.daikin.nl/nl_nl/producten.html
+  price: '9000'
+schema_type: Article
 ---
 
 Ik heb anderhalf jaar geleden mijn CV-ketel aangevuld met een Vaillant hybride warmtepomp en mijn gasverbruik is van 1.400 m3 naar 580 m3 gedaald. Netto besparing: bijna €900 per jaar. Maar een warmtepomp is niet voor iedereen de juiste keuze — bij een slecht geisoleerd huis of laag gasverbruik kan de terugverdientijd oplopen tot 15 jaar. In dit artikel reken ik het voor je door.

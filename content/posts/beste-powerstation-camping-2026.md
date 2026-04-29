@@ -1,40 +1,54 @@
 ---
-title: "Beste Powerstation voor Camping 2026: Top 5 Getest"
-date: 2026-03-03T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "De 5 beste powerstations voor camping in 2026. Vergelijk gewicht, vermogen, draagbaarheid en zonnepaneel-opladen voor kampeerders."
-categories: ["powerstations"]
-tags: ["powerstation camping", "draagbaar powerstation", "kamperen", "EcoFlow", "Jackery", "Bluetti", "Anker"]
-keywords: ["powerstation camping", "beste powerstation kamperen", "draagbare accu camping", "powerstation voor kamperen", "camping stroomvoorziening"]
+title: 'Beste Powerstation voor Camping 2026: Top 5 Getest'
+date: 2026-03-03 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: De 5 beste powerstations voor camping in 2026. Vergelijk gewicht, vermogen, draagbaarheid en zonnepaneel-opladen voor kampeerders.
+categories:
+- powerstations
+tags:
+- powerstation camping
+- draagbaar powerstation
+- kamperen
+- EcoFlow
+- Jackery
+- Bluetti
+- Anker
+keywords:
+- powerstation camping
+- beste powerstation kamperen
+- draagbare accu camping
+- powerstation voor kamperen
+- camping stroomvoorziening
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
-  - q: "Welk powerstation is het beste voor camping?"
-    a: "De EcoFlow River 2 Pro biedt de beste balans tussen capaciteit (768Wh), gewicht (7,8 kg) en laadsnelheid. Voor grotere gezinnen of langere trips is de Jackery Explorer 1000 Plus een betere keuze."
-  - q: "Hoeveel Wh heb ik nodig voor camping?"
-    a: "Voor een weekend met telefoon, verlichting en een kleine koelbox volstaat 500-800Wh. Voor een week kamperen met meer apparaten adviseren we minimaal 1000Wh of een powerstation met zonnepaneel."
-  - q: "Kan ik een koelbox draaien op een powerstation?"
-    a: "Ja. Een compressorkoelbox verbruikt gemiddeld 30-60W. Een powerstation van 500Wh kan een koelbox 8-16 uur voeden, een station van 1000Wh tot wel 24-30 uur."
-  - q: "Hoe laad ik een powerstation op tijdens het kamperen?"
-    a: "De meest populaire methode is opladen met een draagbaar zonnepaneel. Daarnaast kun je opladen via een auto-aansluiting (12V) of, op campings met stroomaansluiting, via een normaal stopcontact."
-  - q: "Is een powerstation beter dan een aggregaat voor camping?"
-    a: "Voor de meeste kampeerders wel. Een powerstation is stil, produceert geen uitlaatgassen, is lichter en vereist geen brandstof. Een aggregaat levert meer vermogen maar is luidruchtig en niet toegestaan op veel campings."
-  - q: "Mag je een powerstation meenemen op een camping?"
-    a: "Ja, powerstations zijn op vrijwel alle campings toegestaan, in tegenstelling tot aggregaten die vaak verboden zijn vanwege geluidsoverlast. Powerstations zijn stil en produceren geen uitstoot."
-  - q: "Hoeveel watt zonnepaneel heb ik nodig voor camping?"
-    a: "Een opvouwbaar paneel van 100-200W is voor de meeste kampeerders ideaal. Hiermee laad je een middelgroot powerstation in 4-8 uur op, afhankelijk van de zonnestand en bewolking."
+- q: Welk powerstation is het beste voor camping?
+  a: De EcoFlow River 2 Pro biedt de beste balans tussen capaciteit (768Wh), gewicht (7,8 kg) en laadsnelheid. Voor grotere gezinnen of langere trips is de Jackery Explorer 1000 Plus een betere keuze.
+- q: Hoeveel Wh heb ik nodig voor camping?
+  a: Voor een weekend met telefoon, verlichting en een kleine koelbox volstaat 500-800Wh. Voor een week kamperen met meer apparaten adviseren we minimaal 1000Wh of een powerstation met zonnepaneel.
+- q: Kan ik een koelbox draaien op een powerstation?
+  a: Ja. Een compressorkoelbox verbruikt gemiddeld 30-60W. Een powerstation van 500Wh kan een koelbox 8-16 uur voeden, een station van 1000Wh tot wel 24-30 uur.
+- q: Hoe laad ik een powerstation op tijdens het kamperen?
+  a: De meest populaire methode is opladen met een draagbaar zonnepaneel. Daarnaast kun je opladen via een auto-aansluiting (12V) of, op campings met stroomaansluiting, via een normaal stopcontact.
+- q: Is een powerstation beter dan een aggregaat voor camping?
+  a: Voor de meeste kampeerders wel. Een powerstation is stil, produceert geen uitlaatgassen, is lichter en vereist geen brandstof. Een aggregaat levert meer vermogen maar is luidruchtig en niet toegestaan op veel campings.
+- q: Mag je een powerstation meenemen op een camping?
+  a: Ja, powerstations zijn op vrijwel alle campings toegestaan, in tegenstelling tot aggregaten die vaak verboden zijn vanwege geluidsoverlast. Powerstations zijn stil en produceren geen uitstoot.
+- q: Hoeveel watt zonnepaneel heb ik nodig voor camping?
+  a: Een opvouwbaar paneel van 100-200W is voor de meeste kampeerders ideaal. Hiermee laad je een middelgroot powerstation in 4-8 uur op, afhankelijk van de zonnestand en bewolking.
 products:
-  - name: "EcoFlow River 2 Pro"
-    url: "https://nl.ecoflow.com/products/river-2-pro-portable-power-station"
-    price: "649"
-  - name: "Jackery Explorer 500"
-    url: "https://www.jackery.com/products/explorer-500-portable-power-station"
-    price: "499"
-  - name: "Anker SOLIX C300"
-    url: "https://www.anker.com/eu-en/products/a1722"
-    price: "349"
+- name: EcoFlow River 2 Pro
+  url: https://nl.ecoflow.com/products/river-2-pro-portable-power-station
+  price: '649'
+- name: Jackery Explorer 500
+  url: https://www.jackery.com/products/explorer-500-portable-power-station
+  price: '499'
+- name: Anker SOLIX C300
+  url: https://www.anker.com/eu-en/products/a1722
+  price: '349'
+schema_type: Article
 ---
 
 Vorig jaar heb ik op de camping mijn compressorkoelbox, telefoons en LED-verlichting drie dagen gevoed met een enkel powerstation en een opvouwbaar zonnepaneel. Geen aggregaat, geen lawaai, geen gedoe. Ik heb daarna nog vier andere modellen getest en precies bijgehouden hoeveel Wh ik per campingdag verbruikte (gemiddeld 420 Wh). Dit zijn de 5 powerstations die ik zou aanraden voor kampeerders.

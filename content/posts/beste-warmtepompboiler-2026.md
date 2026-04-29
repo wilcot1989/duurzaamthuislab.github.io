@@ -1,49 +1,68 @@
 ---
-title: "Beste warmtepompboiler 2026: vergelijking van 6 modellen"
-date: 2026-07-27T08:00:00+02:00
-lastmod: 2026-07-27T08:00:00+02:00
-description: "Op zoek naar de beste warmtepompboiler van 2026? Ik vergelijk 6 modellen op COP, inhoud, prijs en ISDE-subsidie."
-categories: ["warmtepompboilers"]
-tags: ["warmtepompboiler", "ATAG E-HP", "Daikin EKHWP", "Itho Daalderop", "Inventum Ecolution", "Bosch Compress", "ARISTON Lydos", "ISDE subsidie", "zonnepanelen", "warmwater"]
-keywords: ["beste warmtepompboiler 2026", "warmtepompboiler vergelijking", "warmtepompboiler ISDE subsidie", "warmtepompboiler COP", "warmtepompboiler zonnepanelen", "warmtepompboiler prijs", "elektrische boiler vervangen warmtepompboiler"]
+title: 'Beste warmtepompboiler 2026: vergelijking van 6 modellen'
+date: 2026-07-27 08:00:00+02:00
+lastmod: 2026-07-27 08:00:00+02:00
+description: Op zoek naar de beste warmtepompboiler van 2026? Ik vergelijk 6 modellen op COP, inhoud, prijs en ISDE-subsidie.
+categories:
+- warmtepompboilers
+tags:
+- warmtepompboiler
+- ATAG E-HP
+- Daikin EKHWP
+- Itho Daalderop
+- Inventum Ecolution
+- Bosch Compress
+- ARISTON Lydos
+- ISDE subsidie
+- zonnepanelen
+- warmwater
+keywords:
+- beste warmtepompboiler 2026
+- warmtepompboiler vergelijking
+- warmtepompboiler ISDE subsidie
+- warmtepompboiler COP
+- warmtepompboiler zonnepanelen
+- warmtepompboiler prijs
+- elektrische boiler vervangen warmtepompboiler
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het verschil tussen een warmtepompboiler en een gewone warmtepomp?"
-    a: "Een warmtepompboiler maakt alleen warm water voor de douche en kraan — hij verwarmt je huis niet. Een 'gewone' warmtepomp (lucht-water) doet dat wél: die verwarmt zowel tapwater als de woning via radiatoren of vloerverwarming. Een warmtepompboiler is een stuk goedkoper (€1.500–€3.500 versus €8.000–€15.000) en is geschikt als je je cv-ketel wilt houden maar minder gas wil verbruiken voor warm tapwater."
-  - q: "Hoeveel bespaar ik met een warmtepompboiler per jaar?"
-    a: "Een gemiddeld huishouden verbruikt circa 1.800 kWh elektriciteit per jaar voor warm tapwater via een elektrische boiler. Een warmtepompboiler met COP 3,0 doet hetzelfde met 600 kWh. Bij €0,23/kWh is dat €276 besparing per jaar. Ten opzichte van een gasgeiser met 1.500 kWh aardgasequivalent (circa €160 aan gas) is de besparing kleiner, maar dan lever je ook de CO2-uitstoot in."
-  - q: "Kan ik ISDE-subsidie krijgen voor een warmtepompboiler?"
-    a: "Ja. Warmtepompboilers staan op de ISDE-lijst van RVO. De subsidie in 2026 loopt van €725 tot €1.500, afhankelijk van het model en het COP-niveau. De aanvraag gaat vóór installatie. Je installateur regelt dit doorgaans, maar controleer altijd of het specifieke model op de actuele RVO-lijst staat."
-  - q: "Werkt een warmtepompboiler goed samen met zonnepanelen?"
-    a: "Dat is eigenlijk de ideale combinatie. Overdag heb je zonne-overschot — in plaats van dat terug te leveren aan het net (met lage terugleververgoeding), laad je de boiler op. De meeste moderne warmtepompboilers hebben een PV-koppeling of slimme timer waarmee je dit automatiseert. Je effectieve COP wordt daardoor nog hoger, want je gebruikt stroom die je anders weggeeft."
-  - q: "Wat is de levensduur van een warmtepompboiler?"
-    a: "Gemiddeld 12 tot 15 jaar. De compressor is het meest gevoelige onderdeel — vergelijkbaar met een koelkast of airconditioner. De meeste fabrikanten geven 2 tot 5 jaar garantie op de compressor. Goed onderhoud (jaarlijkse check van de anode, geen kalk in hard-water gebieden) verlengt de levensduur."
-  - q: "Welke warmtepompboiler is het meest geschikt voor een gezin van vier?"
-    a: "Voor een gezin van vier adviseer ik minimaal 200 liter inhoud — liever 270 liter als er meerdere mensen 's ochtends douchen. De Itho Daalderop HP Cube (270L), de Daikin EKHWP (270L) of de ARISTON Lydos Hybrid (250L) zijn dan goede keuzes. De 150-liter modellen zijn geschikt voor een- of tweepersoonshuishoudens."
-  - q: "Heeft een warmtepompboiler een speciale elektriciteitsaansluiting nodig?"
-    a: "Nee, de meeste warmtepompboilers draaien op een gewone 230V/16A groep — dezelfde als een wasmachine. Er is geen 3-fasen aansluiting nodig. Wel heb je voldoende ruimte nodig voor de buitenluchtaansluiting: de boiler trekt warme lucht aan en blaast koude lucht uit. Dat kan via een rooster in de muur of via luchtkanaaltjes naar buiten."
+- q: Wat is het verschil tussen een warmtepompboiler en een gewone warmtepomp?
+  a: 'Een warmtepompboiler maakt alleen warm water voor de douche en kraan — hij verwarmt je huis niet. Een ''gewone'' warmtepomp (lucht-water) doet dat wél: die verwarmt zowel tapwater als de woning via radiatoren of vloerverwarming. Een warmtepompboiler is een stuk goedkoper (€1.500–€3.500 versus €8.000–€15.000) en is geschikt als je je cv-ketel wilt houden maar minder gas wil verbruiken voor warm tapwater.'
+- q: Hoeveel bespaar ik met een warmtepompboiler per jaar?
+  a: Een gemiddeld huishouden verbruikt circa 1.800 kWh elektriciteit per jaar voor warm tapwater via een elektrische boiler. Een warmtepompboiler met COP 3,0 doet hetzelfde met 600 kWh. Bij €0,23/kWh is dat €276 besparing per jaar. Ten opzichte van een gasgeiser met 1.500 kWh aardgasequivalent (circa €160 aan gas) is de besparing kleiner, maar dan lever je ook de CO2-uitstoot in.
+- q: Kan ik ISDE-subsidie krijgen voor een warmtepompboiler?
+  a: Ja. Warmtepompboilers staan op de ISDE-lijst van RVO. De subsidie in 2026 loopt van €725 tot €1.500, afhankelijk van het model en het COP-niveau. De aanvraag gaat vóór installatie. Je installateur regelt dit doorgaans, maar controleer altijd of het specifieke model op de actuele RVO-lijst staat.
+- q: Werkt een warmtepompboiler goed samen met zonnepanelen?
+  a: Dat is eigenlijk de ideale combinatie. Overdag heb je zonne-overschot — in plaats van dat terug te leveren aan het net (met lage terugleververgoeding), laad je de boiler op. De meeste moderne warmtepompboilers hebben een PV-koppeling of slimme timer waarmee je dit automatiseert. Je effectieve COP wordt daardoor nog hoger, want je gebruikt stroom die je anders weggeeft.
+- q: Wat is de levensduur van een warmtepompboiler?
+  a: Gemiddeld 12 tot 15 jaar. De compressor is het meest gevoelige onderdeel — vergelijkbaar met een koelkast of airconditioner. De meeste fabrikanten geven 2 tot 5 jaar garantie op de compressor. Goed onderhoud (jaarlijkse check van de anode, geen kalk in hard-water gebieden) verlengt de levensduur.
+- q: Welke warmtepompboiler is het meest geschikt voor een gezin van vier?
+  a: Voor een gezin van vier adviseer ik minimaal 200 liter inhoud — liever 270 liter als er meerdere mensen 's ochtends douchen. De Itho Daalderop HP Cube (270L), de Daikin EKHWP (270L) of de ARISTON Lydos Hybrid (250L) zijn dan goede keuzes. De 150-liter modellen zijn geschikt voor een- of tweepersoonshuishoudens.
+- q: Heeft een warmtepompboiler een speciale elektriciteitsaansluiting nodig?
+  a: 'Nee, de meeste warmtepompboilers draaien op een gewone 230V/16A groep — dezelfde als een wasmachine. Er is geen 3-fasen aansluiting nodig. Wel heb je voldoende ruimte nodig voor de buitenluchtaansluiting: de boiler trekt warme lucht aan en blaast koude lucht uit. Dat kan via een rooster in de muur of via luchtkanaaltjes naar buiten.'
 products:
-  - name: "ATAG E-HP warmtepompboiler"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "2200"
-  - name: "Daikin EKHWP warmtepompboiler"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "2500"
-  - name: "Itho Daalderop HP Cube"
-    url: "https://go.duurzaamthuislab.nl/itho-daalderop"
-    price: "2800"
-  - name: "Inventum Ecolution Solo"
-    url: "https://go.duurzaamthuislab.nl/inventum"
-    price: "1699"
-  - name: "Bosch Compress 5000DW"
-    url: "https://go.duurzaamthuislab.nl/bosch"
-    price: "2100"
-  - name: "ARISTON Lydos Hybrid"
-    url: "https://go.duurzaamthuislab.nl/ariston"
-    price: "1950"
+- name: ATAG E-HP warmtepompboiler
+  url: https://go.duurzaamthuislab.nl/atag
+  price: '2200'
+- name: Daikin EKHWP warmtepompboiler
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '2500'
+- name: Itho Daalderop HP Cube
+  url: https://go.duurzaamthuislab.nl/itho-daalderop
+  price: '2800'
+- name: Inventum Ecolution Solo
+  url: https://go.duurzaamthuislab.nl/inventum
+  price: '1699'
+- name: Bosch Compress 5000DW
+  url: https://go.duurzaamthuislab.nl/bosch
+  price: '2100'
+- name: ARISTON Lydos Hybrid
+  url: https://go.duurzaamthuislab.nl/ariston
+  price: '1950'
+schema_type: Article
 ---
 
 Mijn neef Joost belde me vorig jaar met een simpele vraag: "Ik heb zonnepanelen, maar in de zomer lever ik veel terug aan het net. Krijg ik maar €0,03 per kWh. Kan ik die stroom ergens anders voor gebruiken?" Hij had een gasgeiser voor warm water, een redelijk geïsoleerde jaren-negentig tussenwoning, en geen zin in een complete warmtepompinstallatie van €12.000.

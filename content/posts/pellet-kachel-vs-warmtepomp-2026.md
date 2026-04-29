@@ -1,37 +1,51 @@
 ---
-title: "Pelletkachel of warmtepomp 2026: nog rendabel?"
-date: 2026-06-01T08:00:00+01:00
-lastmod: 2026-06-01T08:00:00+01:00
-description: "Houtstook in 2026 — wettelijk kader, fijnstof-regels, kosten en CO2-impact vergeleken met warmtepomp."
-categories: ["warmtepompen"]
-tags: ["pelletkachel", "warmtepomp", "houtstook", "biomassa", "ISDE", "luchtkwaliteit", "verwarmingskosten 2026"]
-keywords: ["pelletkachel vs warmtepomp 2026", "pelletkachel rendabel", "houtstook verbod 2026", "biomassa subsidie ISDE", "warmtepomp of pelletkachel"]
+title: 'Pelletkachel of warmtepomp 2026: nog rendabel?'
+date: 2026-06-01 08:00:00+01:00
+lastmod: 2026-06-01 08:00:00+01:00
+description: Houtstook in 2026 — wettelijk kader, fijnstof-regels, kosten en CO2-impact vergeleken met warmtepomp.
+categories:
+- warmtepompen
+tags:
+- pelletkachel
+- warmtepomp
+- houtstook
+- biomassa
+- ISDE
+- luchtkwaliteit
+- verwarmingskosten 2026
+keywords:
+- pelletkachel vs warmtepomp 2026
+- pelletkachel rendabel
+- houtstook verbod 2026
+- biomassa subsidie ISDE
+- warmtepomp of pelletkachel
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Is een pelletkachel nog legaal in 2026 in Nederland?"
-    a: "Ja, pelletkachels zijn in 2026 nog legaal in Nederland. Er gelden wel emissie-eisen (Ecodesign 2022 certificering verplicht) en lokale gemeenten kunnen stookverboden instellen bij slechte luchtkwaliteit. Er is geen landelijk verbod op pelletkachels."
-  - q: "Geeft de ISDE-subsidie ook geld terug op een pelletkachel in 2026?"
-    a: "In 2026 is biomassa (inclusief pelletkachels) niet langer subsidiabel via ISDE voor particulieren. De ISDE-subsidie is gericht op warmtepompen, zonneboilers en warmtepompen voor warmwater. Pelletkachels kwamen daarvoor al eerder te vervallen uit de lijst."
-  - q: "Wat kost een pelletkachel per jaar aan stookkosten in 2026?"
-    a: "Een gemiddeld pelletkachelsysteem voor ruimteverwarming verbruikt 1,5–3 ton pellets per stookseizoen. Bij een pelletprijs van €350–€420 per ton in 2026 kost dat €525–€1.260 per jaar aan brandstof, exclusief elektriciteit voor de pellettoevoer en pomp (circa €80–€150/jaar)."
-  - q: "Wat kost een warmtepomp per jaar vergeleken met een pelletkachel?"
-    a: "Een lucht/water warmtepomp met COP 3,5 en een warmtebehoefte van 12.000 kWh/jaar verbruikt circa 3.430 kWh elektriciteit. Bij €0,26/kWh = €892/jaar. Vergelijkbaar met pellets bij lage stookintensiteit, maar de warmtepomp heeft 0 gram fijnstofuitstoot."
-  - q: "Zijn pellets duurzamer dan aardgas?"
-    a: "Op CO2-basis wordt hout als biomassa in EU-regelgeving als klimaatneutraal beschouwd (cyclische koolstof). Maar pellets produceren fijnstof (PM2.5) en stikstofoxiden — significant meer dan aardgas of warmtepompen. Lokale luchtkwaliteit is het grootste nadeel."
-  - q: "Kan een pelletkachel een warmtepomp volledig vervangen?"
-    a: "Alleen als je ook tapwater verwarmt via een apart systeem (bijv. warmtepompboiler of zonneboiler). Een pelletkachel verwarmt alleen ruimten, geen tapwater. Voor een volledig gasloze woning heb je dus altijd een aanvullend systeem nodig naast een pelletkachel."
-  - q: "Welke gemeenten hebben een stookverbod voor hout in 2026?"
-    a: "In 2026 zijn er in Nederland meerdere gemeenten die bij code rood of oranje luchtkwaliteitswaarschuwingen een informeel stookadvies uitvaardigen. Een wettelijk gemeentelijk stookverbod voor pelletkachels is zeldzaam maar juridisch mogelijk. Controleer de regels van jouw gemeente via omgevingsloket.nl."
+- q: Is een pelletkachel nog legaal in 2026 in Nederland?
+  a: Ja, pelletkachels zijn in 2026 nog legaal in Nederland. Er gelden wel emissie-eisen (Ecodesign 2022 certificering verplicht) en lokale gemeenten kunnen stookverboden instellen bij slechte luchtkwaliteit. Er is geen landelijk verbod op pelletkachels.
+- q: Geeft de ISDE-subsidie ook geld terug op een pelletkachel in 2026?
+  a: In 2026 is biomassa (inclusief pelletkachels) niet langer subsidiabel via ISDE voor particulieren. De ISDE-subsidie is gericht op warmtepompen, zonneboilers en warmtepompen voor warmwater. Pelletkachels kwamen daarvoor al eerder te vervallen uit de lijst.
+- q: Wat kost een pelletkachel per jaar aan stookkosten in 2026?
+  a: Een gemiddeld pelletkachelsysteem voor ruimteverwarming verbruikt 1,5–3 ton pellets per stookseizoen. Bij een pelletprijs van €350–€420 per ton in 2026 kost dat €525–€1.260 per jaar aan brandstof, exclusief elektriciteit voor de pellettoevoer en pomp (circa €80–€150/jaar).
+- q: Wat kost een warmtepomp per jaar vergeleken met een pelletkachel?
+  a: Een lucht/water warmtepomp met COP 3,5 en een warmtebehoefte van 12.000 kWh/jaar verbruikt circa 3.430 kWh elektriciteit. Bij €0,26/kWh = €892/jaar. Vergelijkbaar met pellets bij lage stookintensiteit, maar de warmtepomp heeft 0 gram fijnstofuitstoot.
+- q: Zijn pellets duurzamer dan aardgas?
+  a: Op CO2-basis wordt hout als biomassa in EU-regelgeving als klimaatneutraal beschouwd (cyclische koolstof). Maar pellets produceren fijnstof (PM2.5) en stikstofoxiden — significant meer dan aardgas of warmtepompen. Lokale luchtkwaliteit is het grootste nadeel.
+- q: Kan een pelletkachel een warmtepomp volledig vervangen?
+  a: Alleen als je ook tapwater verwarmt via een apart systeem (bijv. warmtepompboiler of zonneboiler). Een pelletkachel verwarmt alleen ruimten, geen tapwater. Voor een volledig gasloze woning heb je dus altijd een aanvullend systeem nodig naast een pelletkachel.
+- q: Welke gemeenten hebben een stookverbod voor hout in 2026?
+  a: In 2026 zijn er in Nederland meerdere gemeenten die bij code rood of oranje luchtkwaliteitswaarschuwingen een informeel stookadvies uitvaardigen. Een wettelijk gemeentelijk stookverbod voor pelletkachels is zeldzaam maar juridisch mogelijk. Controleer de regels van jouw gemeente via omgevingsloket.nl.
 products:
-  - name: "Beste hybride warmtepomp 2026"
-    url: "/posts/beste-hybride-warmtepomp-2026"
-    price: "zie artikel"
-  - name: "ATAG warmtepomp"
-    url: "/posts/atag-warmtepomp-review-2026"
-    price: "zie artikel"
+- name: Beste hybride warmtepomp 2026
+  url: /posts/beste-hybride-warmtepomp-2026
+  price: zie artikel
+- name: ATAG warmtepomp
+  url: /posts/atag-warmtepomp-review-2026
+  price: zie artikel
+schema_type: Article
 ---
 
 Een lezer stuurde mij vorige winter een foto van zijn verwarmingsrekening: €1.840 gas, €0 warmtepomp. Hij overweegt een pelletkachel als tussenoplossing op weg naar volledig gasloos. Slim of niet? Dat is precies de vraag die ik in dit artikel beantwoord.

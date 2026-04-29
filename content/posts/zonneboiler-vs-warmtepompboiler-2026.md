@@ -1,36 +1,54 @@
 ---
-title: "Zonneboiler vs warmtepompboiler 2026: welke levert meer op?"
-date: 2026-05-19T08:00:00+02:00
-lastmod: 2026-05-19T08:00:00+02:00
-description: "Zonneboiler of warmtepompboiler? Ik vergelijk kosten, subsidie, terugverdientijd en praktische geschiktheid voor jouw situatie."
-categories: ["warmtepompen"]
-tags: ["zonneboiler", "warmtepompboiler", "ATAG", "warm tapwater", "ISDE subsidie", "verduurzaming", "zonnepanelen", "gasvrij", "vergelijking"]
-keywords: ["zonneboiler vs warmtepompboiler", "zonneboiler of warmtepompboiler", "warmtepompboiler rendabel", "zonneboiler subsidie 2026", "warmwater verduurzamen", "zonneboiler terugverdientijd", "warmtepompboiler ISDE"]
+title: 'Zonneboiler vs warmtepompboiler 2026: welke levert meer op?'
+date: 2026-05-19 08:00:00+02:00
+lastmod: 2026-05-19 08:00:00+02:00
+description: Zonneboiler of warmtepompboiler? Ik vergelijk kosten, subsidie, terugverdientijd en praktische geschiktheid voor jouw situatie.
+categories:
+- warmtepompen
+tags:
+- zonneboiler
+- warmtepompboiler
+- ATAG
+- warm tapwater
+- ISDE subsidie
+- verduurzaming
+- zonnepanelen
+- gasvrij
+- vergelijking
+keywords:
+- zonneboiler vs warmtepompboiler
+- zonneboiler of warmtepompboiler
+- warmtepompboiler rendabel
+- zonneboiler subsidie 2026
+- warmwater verduurzamen
+- zonneboiler terugverdientijd
+- warmtepompboiler ISDE
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het verschil tussen een zonneboiler en een warmtepompboiler?"
-    a: "Een zonneboiler gebruikt zonnecollectoren op het dak om direct warmte op te vangen en daarmee water te verwarmen. Een warmtepompboiler staat binnenshuis en pompt omgevingswarmte uit de lucht naar het water — vergelijkbaar met een koelkast omgekeerd. De zonneboiler is afhankelijk van zonlicht, de warmtepompboiler werkt ook 's nachts en in de winter, zij het minder efficiënt."
-  - q: "Welke optie levert meer subsidie op in 2026?"
-    a: "De warmtepompboiler staat op de ISDE-lijst van RVO met subsidies tussen €725 en €1.500. De zonneboiler valt in 2026 niet meer onder de ISDE — die regeling is eind 2023 afgebouwd voor zonneboilers. Daarmee heeft de warmtepompboiler momenteel een duidelijk subsidie-voordeel."
-  - q: "Hoe lang is de terugverdientijd van een warmtepompboiler?"
-    a: "Afhankelijk van het model, de energieprijs en of je zonnepanelen hebt: gemiddeld 5 tot 9 jaar zonder subsidie, 3 tot 6 jaar mét ISDE-subsidie. Met zonnepanelen en slim opladen overdag kan de terugverdientijd naar 3 tot 4 jaar zakken."
-  - q: "Heeft een zonneboiler nog zin als ik al zonnepanelen heb?"
-    a: "Zelden. Zonnepanelen dekken ook de elektriciteitsbehoefte van een warmtepompboiler. Bovendien kosten zonnecollectoren extra installatiewerk en dakruimte die je dan beter kunt benutten met extra zonnepanelen. In de meeste gevallen is een warmtepompboiler gevoeden door zonnepanelen de betere keuze."
-  - q: "Kan een warmtepompboiler de cv-ketel volledig vervangen voor warm tapwater?"
-    a: "Ja, een warmtepompboiler verzorgt uitsluitend het warm tapwater (douche, kraan, afwas). Hij vervangt de tapwaterfunctie van de cv-ketel. De cv-ketel blijft dan nog beschikbaar voor ruimteverwarming. Wil je de cv-ketel volledig vervangen, dan heb je een lucht-water warmtepomp nodig — een andere, duurdere categorie."
-  - q: "Welke is stiller: een zonneboiler of een warmtepompboiler?"
-    a: "De zonneboiler heeft geen geluidmakende compressor — hij is vrijwel geruisloos buiten de circulatiepomp. De warmtepompboiler heeft een compressor vergelijkbaar met een koelkast: 40–50 dB, merkbaar in een stille keukenkast of bijkeuken. Installeer hem niet direct naast een slaapkamer."
-  - q: "Wat als mijn dak niet op het zuiden ligt?"
-    a: "Een zonneboiler verliest al snel 15–25% opbrengst op oost- of westgericht dak en werkt slecht op een noorddak. De warmtepompboiler is dakvorm-onafhankelijk — hij staat gewoon in de berging of bijkeuken en heeft geen dakvlak nodig. Op een suboptimaal dak is de warmtepompboiler vrijwel altijd de betere keuze."
-  - q: "Hoe zit het met onderhoud?"
-    a: "Een zonneboiler vereist jaarlijkse controle van de vloeistof in de collector (glycolmenging), de expansievaten en eventuele lekken. Dat kost €100–€200 per jaar. Een warmtepompboiler heeft nauwelijks onderhoud nodig: af en toe de anode controleren en de luchtroosters schoon houden is voldoende."
+- q: Wat is het verschil tussen een zonneboiler en een warmtepompboiler?
+  a: Een zonneboiler gebruikt zonnecollectoren op het dak om direct warmte op te vangen en daarmee water te verwarmen. Een warmtepompboiler staat binnenshuis en pompt omgevingswarmte uit de lucht naar het water — vergelijkbaar met een koelkast omgekeerd. De zonneboiler is afhankelijk van zonlicht, de warmtepompboiler werkt ook 's nachts en in de winter, zij het minder efficiënt.
+- q: Welke optie levert meer subsidie op in 2026?
+  a: De warmtepompboiler staat op de ISDE-lijst van RVO met subsidies tussen €725 en €1.500. De zonneboiler valt in 2026 niet meer onder de ISDE — die regeling is eind 2023 afgebouwd voor zonneboilers. Daarmee heeft de warmtepompboiler momenteel een duidelijk subsidie-voordeel.
+- q: Hoe lang is de terugverdientijd van een warmtepompboiler?
+  a: 'Afhankelijk van het model, de energieprijs en of je zonnepanelen hebt: gemiddeld 5 tot 9 jaar zonder subsidie, 3 tot 6 jaar mét ISDE-subsidie. Met zonnepanelen en slim opladen overdag kan de terugverdientijd naar 3 tot 4 jaar zakken.'
+- q: Heeft een zonneboiler nog zin als ik al zonnepanelen heb?
+  a: Zelden. Zonnepanelen dekken ook de elektriciteitsbehoefte van een warmtepompboiler. Bovendien kosten zonnecollectoren extra installatiewerk en dakruimte die je dan beter kunt benutten met extra zonnepanelen. In de meeste gevallen is een warmtepompboiler gevoeden door zonnepanelen de betere keuze.
+- q: Kan een warmtepompboiler de cv-ketel volledig vervangen voor warm tapwater?
+  a: Ja, een warmtepompboiler verzorgt uitsluitend het warm tapwater (douche, kraan, afwas). Hij vervangt de tapwaterfunctie van de cv-ketel. De cv-ketel blijft dan nog beschikbaar voor ruimteverwarming. Wil je de cv-ketel volledig vervangen, dan heb je een lucht-water warmtepomp nodig — een andere, duurdere categorie.
+- q: 'Welke is stiller: een zonneboiler of een warmtepompboiler?'
+  a: 'De zonneboiler heeft geen geluidmakende compressor — hij is vrijwel geruisloos buiten de circulatiepomp. De warmtepompboiler heeft een compressor vergelijkbaar met een koelkast: 40–50 dB, merkbaar in een stille keukenkast of bijkeuken. Installeer hem niet direct naast een slaapkamer.'
+- q: Wat als mijn dak niet op het zuiden ligt?
+  a: Een zonneboiler verliest al snel 15–25% opbrengst op oost- of westgericht dak en werkt slecht op een noorddak. De warmtepompboiler is dakvorm-onafhankelijk — hij staat gewoon in de berging of bijkeuken en heeft geen dakvlak nodig. Op een suboptimaal dak is de warmtepompboiler vrijwel altijd de betere keuze.
+- q: Hoe zit het met onderhoud?
+  a: 'Een zonneboiler vereist jaarlijkse controle van de vloeistof in de collector (glycolmenging), de expansievaten en eventuele lekken. Dat kost €100–€200 per jaar. Een warmtepompboiler heeft nauwelijks onderhoud nodig: af en toe de anode controleren en de luchtroosters schoon houden is voldoende.'
 products:
-  - name: "ATAG E-HP warmtepompboiler"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "2200"
+- name: ATAG E-HP warmtepompboiler
+  url: https://go.duurzaamthuislab.nl/atag
+  price: '2200'
+schema_type: Article
 ---
 
 Vorig jaar belde een buurvrouw me op — Sandra, eigenaar van een jaren-zeventig rijtjeswoning in Amersfoort. Ze had negen jaar geleden een zonneboiler laten installeren, en nu was de collector aan vervanging toe. De installateur bood haar twee opties: een nieuwe zonneboiler voor €3.400 of een warmtepompboiler voor €2.200 vóór subsidie. Ze vroeg mij wat ze moest kiezen.

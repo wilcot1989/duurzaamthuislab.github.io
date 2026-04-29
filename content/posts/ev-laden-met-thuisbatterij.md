@@ -1,42 +1,56 @@
 ---
-title: "EV laden met thuisbatterij: levert het geld op?"
-date: 2026-07-08T08:00:00+02:00
-lastmod: 2026-07-08T08:00:00+02:00
-description: "Slim je elektrische auto laden via een thuisbatterij: wanneer verdien je er echt aan? Rekenvoorbeelden met dynamisch contract, Sessy."
-categories: ["elektrische-auto"]
-tags: ["EV laden thuisbatterij", "slim laden elektrische auto", "V2H bidirectioneel laden", "dynamisch energiecontract", "thuisbatterij saldering"]
-keywords: ["EV laden met thuisbatterij", "elektrische auto thuisbatterij combinatie", "V2H laden", "bidirectioneel laden Nederland", "slim laden dynamisch contract", "Sessy EV laden", "thuisbatterij EV combinatie rentabel"]
+title: 'EV laden met thuisbatterij: levert het geld op?'
+date: 2026-07-08 08:00:00+02:00
+lastmod: 2026-07-08 08:00:00+02:00
+description: 'Slim je elektrische auto laden via een thuisbatterij: wanneer verdien je er echt aan? Rekenvoorbeelden met dynamisch contract, Sessy.'
+categories:
+- elektrische-auto
+tags:
+- EV laden thuisbatterij
+- slim laden elektrische auto
+- V2H bidirectioneel laden
+- dynamisch energiecontract
+- thuisbatterij saldering
+keywords:
+- EV laden met thuisbatterij
+- elektrische auto thuisbatterij combinatie
+- V2H laden
+- bidirectioneel laden Nederland
+- slim laden dynamisch contract
+- Sessy EV laden
+- thuisbatterij EV combinatie rentabel
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1671785253964-bdb43087ed99&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1671785253964-bdb43087ed99&w=1200&output=webp&q=70
 faq:
-  - q: "Kan ik mijn elektrische auto laden via mijn thuisbatterij?"
-    a: "Ja, technisch kan dat. Je thuisbatterij laadt overdag met zonne-energie en 's avonds laad je je auto via de thuisbatterij of rechtstreeks uit het net. Met bidirectionele technologie (V2H) kun je de auto-accu ook als thuisbatterij gebruiken."
-  - q: "Wat is het verschil tussen V2L, V2H en V2G?"
-    a: "V2L (Vehicle to Load) is een stopcontact in de auto voor kleine apparaten. V2H (Vehicle to Home) voedt het hele huis via een omvormer. V2G (Vehicle to Grid) verkoopt energie terug aan het net. In Nederland is V2G nog niet op schaal beschikbaar."
-  - q: "Welke elektrische auto's ondersteunen bidirectioneel laden?"
-    a: "In Nederland zijn dit in 2026: Hyundai Ioniq 5 en 6, Kia EV6 en EV9, Nissan Leaf (ouder model), Volvo EX30 (V2L), BYD Atto 3, en Renault 5 E-Tech. Tesla en Volkswagen ID-serie zijn nog niet bidirectioneel."
-  - q: "Heb ik een speciale laadpaal nodig voor V2H?"
-    a: "Ja. Een standaard 11 kW laadpaal laadt alleen van net naar auto. Voor V2H heb je een bidirectionele omvormer/laadpaal nodig, zoals de Wallbox Quasar 2 of de Huawei LUNA2000 met EV-module. Kosten: €2.000-€5.000 extra boven de laadpaal."
-  - q: "Is een thuisbatterij of EV-accu voordeliger als opslagoptie?"
-    a: "De EV-accu wint op kosten per kWh: een Ioniq 5 heeft 77 kWh voor €45.000 (€584/kWh), een Sessy 10 kWh kost €5.995 (€600/kWh). Maar de EV staat niet altijd thuis. Een thuisbatterij is betrouwbaarder als continue buffer."
-  - q: "Wat levert een dynamisch contract op bij slim laden?"
-    a: "Met Frank Energie of Tibber laad je 's nachts voor €0,08-€0,12/kWh en gebruik je overdag zonnestroom gratis. Verschil met vast contract (€0,26-€0,28/kWh): €0,14-€0,18/kWh. Bij 4.000 km/jaar en 18 kWh/100 km = 720 kWh = €100-€130 besparing per jaar."
-  - q: "Wordt de combinatie EV + thuisbatterij rendabeler na 2027?"
-    a: "Ja, significant. De saldering stopt per 1 januari 2027. Dan daalt de terugverdiening op zonne-energie en wordt opslag in thuisbatterij of EV-accu veel aantrekkelijker. Wie nu investeert, profiteert direct na de salderings-stop."
-  - q: "Wat kost een complete setup: zonnepanelen + thuisbatterij + bidirectionele laadpaal?"
-    a: "Globale indicatie voor doorsnee rijtushuis: zonnepanelen 16 panelen ±€6.000, thuisbatterij Sessy 10 kWh €5.995, bidirectionele laadpaal Wallbox Quasar 2 €3.500 incl. installatie. Totaal: ±€15.500. Terugverdientijd bij huidige energieprijzen: 10-14 jaar."
+- q: Kan ik mijn elektrische auto laden via mijn thuisbatterij?
+  a: Ja, technisch kan dat. Je thuisbatterij laadt overdag met zonne-energie en 's avonds laad je je auto via de thuisbatterij of rechtstreeks uit het net. Met bidirectionele technologie (V2H) kun je de auto-accu ook als thuisbatterij gebruiken.
+- q: Wat is het verschil tussen V2L, V2H en V2G?
+  a: V2L (Vehicle to Load) is een stopcontact in de auto voor kleine apparaten. V2H (Vehicle to Home) voedt het hele huis via een omvormer. V2G (Vehicle to Grid) verkoopt energie terug aan het net. In Nederland is V2G nog niet op schaal beschikbaar.
+- q: Welke elektrische auto's ondersteunen bidirectioneel laden?
+  a: 'In Nederland zijn dit in 2026: Hyundai Ioniq 5 en 6, Kia EV6 en EV9, Nissan Leaf (ouder model), Volvo EX30 (V2L), BYD Atto 3, en Renault 5 E-Tech. Tesla en Volkswagen ID-serie zijn nog niet bidirectioneel.'
+- q: Heb ik een speciale laadpaal nodig voor V2H?
+  a: 'Ja. Een standaard 11 kW laadpaal laadt alleen van net naar auto. Voor V2H heb je een bidirectionele omvormer/laadpaal nodig, zoals de Wallbox Quasar 2 of de Huawei LUNA2000 met EV-module. Kosten: €2.000-€5.000 extra boven de laadpaal.'
+- q: Is een thuisbatterij of EV-accu voordeliger als opslagoptie?
+  a: 'De EV-accu wint op kosten per kWh: een Ioniq 5 heeft 77 kWh voor €45.000 (€584/kWh), een Sessy 10 kWh kost €5.995 (€600/kWh). Maar de EV staat niet altijd thuis. Een thuisbatterij is betrouwbaarder als continue buffer.'
+- q: Wat levert een dynamisch contract op bij slim laden?
+  a: 'Met Frank Energie of Tibber laad je ''s nachts voor €0,08-€0,12/kWh en gebruik je overdag zonnestroom gratis. Verschil met vast contract (€0,26-€0,28/kWh): €0,14-€0,18/kWh. Bij 4.000 km/jaar en 18 kWh/100 km = 720 kWh = €100-€130 besparing per jaar.'
+- q: Wordt de combinatie EV + thuisbatterij rendabeler na 2027?
+  a: Ja, significant. De saldering stopt per 1 januari 2027. Dan daalt de terugverdiening op zonne-energie en wordt opslag in thuisbatterij of EV-accu veel aantrekkelijker. Wie nu investeert, profiteert direct na de salderings-stop.
+- q: 'Wat kost een complete setup: zonnepanelen + thuisbatterij + bidirectionele laadpaal?'
+  a: 'Globale indicatie voor doorsnee rijtushuis: zonnepanelen 16 panelen ±€6.000, thuisbatterij Sessy 10 kWh €5.995, bidirectionele laadpaal Wallbox Quasar 2 €3.500 incl. installatie. Totaal: ±€15.500. Terugverdientijd bij huidige energieprijzen: 10-14 jaar.'
 products:
-  - name: "Sessy thuisbatterij 10 kWh"
-    url: "https://sessy.nl/"
-    price: "5995"
-  - name: "Marstek Venus E 8,2 kWh"
-    url: "https://marstekenergy.com/venus-e"
-    price: "2299"
-  - name: "Zonneplan thuisbatterij 10 kWh"
-    url: "https://www.zonneplan.nl/thuisbatterij"
-    price: "6995"
+- name: Sessy thuisbatterij 10 kWh
+  url: https://sessy.nl/
+  price: '5995'
+- name: Marstek Venus E 8,2 kWh
+  url: https://marstekenergy.com/venus-e
+  price: '2299'
+- name: Zonneplan thuisbatterij 10 kWh
+  url: https://www.zonneplan.nl/thuisbatterij
+  price: '6995'
+schema_type: Article
 ---
 
 Mijn klant Jeroen reed vorig jaar zijn eerste volle jaar in een Ioniq 5. Zonnepanelen op het dak, een Sessy in de meterkast, en een 11 kW laadpaal in de garage. Hij was ervan overtuigd dat hij slim bezig was: zonnestroom opslaan in de batterij, auto laden als de zon schijnt, 's avonds de rest uit de batterij halen.

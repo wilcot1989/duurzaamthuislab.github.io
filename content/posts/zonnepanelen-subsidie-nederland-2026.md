@@ -1,37 +1,49 @@
 ---
-title: "Zonnepanelen Subsidie Nederland 2026: Complete Gids"
-date: 2026-02-24T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Alles over zonnepanelen subsidies in 2026: ISDE-subsidie, salderingsregeling, BTW-teruggave en lokale regelingen. Inclusief stap-voor-stap aanvraagproces."
-categories: ["zonne-energie"]
-tags: ["zonnepanelen subsidie", "ISDE", "salderingsregeling", "BTW teruggave", "energiebelasting"]
-keywords: ["zonnepanelen subsidie 2026", "isde subsidie", "salderingsregeling 2026", "zonnepanelen subsidie aanvragen", "btw zonnepanelen terugvragen"]
+title: 'Zonnepanelen Subsidie Nederland 2026: Complete Gids'
+date: 2026-02-24 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Alles over zonnepanelen subsidies in 2026: ISDE-subsidie, salderingsregeling, BTW-teruggave en lokale regelingen. Inclusief stap-voor-stap aanvraagproces.'
+categories:
+- zonne-energie
+tags:
+- zonnepanelen subsidie
+- ISDE
+- salderingsregeling
+- BTW teruggave
+- energiebelasting
+keywords:
+- zonnepanelen subsidie 2026
+- isde subsidie
+- salderingsregeling 2026
+- zonnepanelen subsidie aanvragen
+- btw zonnepanelen terugvragen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Welke subsidies zijn er voor zonnepanelen in 2026?"
-    a: "In 2026 kun je gebruikmaken van de ISDE-subsidie (voor thuisbatterijen en warmtepompen), de salderingsregeling (nog volledig in 2026), BTW-teruggave op zonnepanelen en in sommige gemeenten lokale subsidies."
-  - q: "Hoeveel ISDE-subsidie krijg ik voor een thuisbatterij?"
-    a: "De ISDE-subsidie voor thuisbatterijen bedraagt maximaal €900 per kWh opslagcapaciteit, met een totaalmaximum van €5.400. De batterij moet wel gekoppeld zijn aan zonnepanelen."
-  - q: "Wat gebeurt er met de salderingsregeling in 2026?"
-    a: "In 2026 is de salderingsregeling nog volledig van kracht. De afbouw begint per 1 januari 2027, waarna je elk jaar een kleiner percentage van je teruggeleverde stroom mag salderen. Volledige afbouw is voorzien in 2031."
-  - q: "Kan ik BTW terugvragen op mijn zonnepanelen?"
-    a: "Sinds 2023 geldt een 0% BTW-tarief op de levering en installatie van zonnepanelen op of nabij woningen. Je hoeft dus geen BTW meer terug te vragen -- je betaalt deze simpelweg niet. Dit geldt voor de panelen, omvormer en installatie."
-  - q: "Is er subsidie voor een thuisbatterij in 2026?"
-    a: "Ja, via de ISDE-regeling kun je subsidie aanvragen voor een thuisbatterij. Het bedrag is maximaal €900 per kWh met een maximum van €5.400. De batterij moet gecombineerd worden met zonnepanelen."
-  - q: "Hoe vraag ik ISDE-subsidie aan?"
-    a: "Je vraagt ISDE-subsidie aan via mijn.rvo.nl. Je hebt een offerte of factuur nodig, de specificaties van de batterij, en een bewijs dat je zonnepanelen hebt. De aanvraag moet binnen 6 maanden na installatie ingediend worden."
-  - q: "Loont het nog om zonnepanelen te kopen in 2026?"
-    a: "Ja, absoluut. Ondanks de aankomende afbouw van de salderingsregeling zijn zonnepanelen nog steeds een van de beste investeringen voor je woning. Met het 0% BTW-tarief, de ISDE-subsidie voor een thuisbatterij en de stijgende energieprijzen verdien je zonnepanelen doorgaans binnen 5-7 jaar terug."
+- q: Welke subsidies zijn er voor zonnepanelen in 2026?
+  a: In 2026 kun je gebruikmaken van de ISDE-subsidie (voor thuisbatterijen en warmtepompen), de salderingsregeling (nog volledig in 2026), BTW-teruggave op zonnepanelen en in sommige gemeenten lokale subsidies.
+- q: Hoeveel ISDE-subsidie krijg ik voor een thuisbatterij?
+  a: De ISDE-subsidie voor thuisbatterijen bedraagt maximaal €900 per kWh opslagcapaciteit, met een totaalmaximum van €5.400. De batterij moet wel gekoppeld zijn aan zonnepanelen.
+- q: Wat gebeurt er met de salderingsregeling in 2026?
+  a: In 2026 is de salderingsregeling nog volledig van kracht. De afbouw begint per 1 januari 2027, waarna je elk jaar een kleiner percentage van je teruggeleverde stroom mag salderen. Volledige afbouw is voorzien in 2031.
+- q: Kan ik BTW terugvragen op mijn zonnepanelen?
+  a: Sinds 2023 geldt een 0% BTW-tarief op de levering en installatie van zonnepanelen op of nabij woningen. Je hoeft dus geen BTW meer terug te vragen -- je betaalt deze simpelweg niet. Dit geldt voor de panelen, omvormer en installatie.
+- q: Is er subsidie voor een thuisbatterij in 2026?
+  a: Ja, via de ISDE-regeling kun je subsidie aanvragen voor een thuisbatterij. Het bedrag is maximaal €900 per kWh met een maximum van €5.400. De batterij moet gecombineerd worden met zonnepanelen.
+- q: Hoe vraag ik ISDE-subsidie aan?
+  a: Je vraagt ISDE-subsidie aan via mijn.rvo.nl. Je hebt een offerte of factuur nodig, de specificaties van de batterij, en een bewijs dat je zonnepanelen hebt. De aanvraag moet binnen 6 maanden na installatie ingediend worden.
+- q: Loont het nog om zonnepanelen te kopen in 2026?
+  a: Ja, absoluut. Ondanks de aankomende afbouw van de salderingsregeling zijn zonnepanelen nog steeds een van de beste investeringen voor je woning. Met het 0% BTW-tarief, de ISDE-subsidie voor een thuisbatterij en de stijgende energieprijzen verdien je zonnepanelen doorgaans binnen 5-7 jaar terug.
 products:
-  - name: "Zonneplan"
-    url: "https://zonneplan.nl/zonnepanelen"
-    price: "5000"
-  - name: "Coolblue Zonnepanelen"
-    url: "https://www.coolblue.nl/zonnepanelen"
-    price: "5500"
+- name: Zonneplan
+  url: https://zonneplan.nl/zonnepanelen
+  price: '5000'
+- name: Coolblue Zonnepanelen
+  url: https://www.coolblue.nl/zonnepanelen
+  price: '5500'
+schema_type: Article
 ---
 
 Toen ik mijn 16 zonnepanelen kocht, betaalde ik 0% BTW en kon ik via de ISDE subsidie voor mijn thuisbatterij €5.400 terugkrijgen. Samen met de salderingsregeling die in 2026 nog volledig geldt, was de terugverdientijd verrassend kort. In deze gids zet ik alle financiele voordelen op een rij die je in 2026 kunt benutten — van rijkssubsidies tot gemeentelijke regelingen.

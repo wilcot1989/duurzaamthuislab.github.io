@@ -1,35 +1,46 @@
 ---
-title: "Vloerverwarming en Warmtepomp: De Perfecte Combinatie (2026)"
-date: 2026-05-12T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Waarom vloerverwarming en een warmtepomp de ideale combinatie zijn. Kosten, besparing, installatietips en wanneer het wel en niet rendabel is."
-categories: ["warmtepompen"]
-tags: ["vloerverwarming", "warmtepomp", "lage temperatuur", "energiebesparing", "verduurzaming"]
-keywords: ["vloerverwarming warmtepomp", "vloerverwarming kosten", "LT verwarming", "warmtepomp vloerverwarming"]
+title: 'Vloerverwarming en Warmtepomp: De Perfecte Combinatie (2026)'
+date: 2026-05-12 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Waarom vloerverwarming en een warmtepomp de ideale combinatie zijn. Kosten, besparing, installatietips en wanneer het wel en niet rendabel is.
+categories:
+- warmtepompen
+tags:
+- vloerverwarming
+- warmtepomp
+- lage temperatuur
+- energiebesparing
+- verduurzaming
+keywords:
+- vloerverwarming warmtepomp
+- vloerverwarming kosten
+- LT verwarming
+- warmtepomp vloerverwarming
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Waarom is vloerverwarming ideaal voor een warmtepomp?"
-    a: "Vloerverwarming werkt op lage watertemperatuur (30-40°C) terwijl radiatoren 60-70°C nodig hebben. Een warmtepomp is het efficiëntst bij lage temperaturen: de COP stijgt van 2,5-3,0 (bij 60°C) naar 4,0-5,0 (bij 35°C). Dit betekent 30-50% lagere energiekosten."
-  - q: "Wat kost vloerverwarming installeren?"
-    a: "Natte vloerverwarming (in dekvloer) kost €40-€70/m² inclusief installatie. Droge vloerverwarming (op bestaande vloer) kost €50-€90/m². Voor een gemiddelde woning (80 m² verwarmd) kom je uit op €3.200-€7.200. In een nieuwbouwwoning is vloerverwarming €1.500-€3.000 goedkoper dan bij renovatie."
-  - q: "Kan ik vloerverwarming achteraf installeren?"
-    a: "Ja, maar het is ingrijpender en duurder dan bij nieuwbouw. Er zijn twee opties: natte vloerverwarming (nieuwe dekvloer nodig, 7-8 cm vloerhoogte) of droge vloerverwarming (dunner systeem van 2-3 cm op bestaande vloer). Droge systemen zijn specifiek ontworpen voor renovatie."
-  - q: "Hoe snel verwarmt vloerverwarming een kamer?"
-    a: "Vloerverwarming reageert langzamer dan radiatoren: het duurt 30-60 minuten om een kamer op te warmen (vs 10-15 minuten met radiatoren). Dit is geen probleem als je de verwarming consistent aanlaat op een lagere temperatuur. Met een slimme thermostaat wordt dit automatisch geregeld."
-  - q: "Kan ik vloerverwarming combineren met radiatoren?"
-    a: "Ja, dit is een veel voorkomende oplossing bij renovatie. Vloerverwarming in de woonkamer en keuken (waar je het meeste profijt hebt), en radiatoren in slaapkamers en badkamer. Je hebt dan een menggroep nodig om de watertemperatuur voor de vloerverwarming te verlagen."
-  - q: "Is vloerverwarming gezonder dan radiatoren?"
-    a: "Ja, vloerverwarming biedt een gelijkmatiger warmteverdeling (warm bij de voeten, koeler bij het hoofd — ideaal comfort). Er is minder luchtcirculatie, wat minder stof opwervelt en beter is voor mensen met allergieën. Radiatoren creëren meer temperatuurverschillen en luchtstromen."
+- q: Waarom is vloerverwarming ideaal voor een warmtepomp?
+  a: 'Vloerverwarming werkt op lage watertemperatuur (30-40°C) terwijl radiatoren 60-70°C nodig hebben. Een warmtepomp is het efficiëntst bij lage temperaturen: de COP stijgt van 2,5-3,0 (bij 60°C) naar 4,0-5,0 (bij 35°C). Dit betekent 30-50% lagere energiekosten.'
+- q: Wat kost vloerverwarming installeren?
+  a: Natte vloerverwarming (in dekvloer) kost €40-€70/m² inclusief installatie. Droge vloerverwarming (op bestaande vloer) kost €50-€90/m². Voor een gemiddelde woning (80 m² verwarmd) kom je uit op €3.200-€7.200. In een nieuwbouwwoning is vloerverwarming €1.500-€3.000 goedkoper dan bij renovatie.
+- q: Kan ik vloerverwarming achteraf installeren?
+  a: 'Ja, maar het is ingrijpender en duurder dan bij nieuwbouw. Er zijn twee opties: natte vloerverwarming (nieuwe dekvloer nodig, 7-8 cm vloerhoogte) of droge vloerverwarming (dunner systeem van 2-3 cm op bestaande vloer). Droge systemen zijn specifiek ontworpen voor renovatie.'
+- q: Hoe snel verwarmt vloerverwarming een kamer?
+  a: 'Vloerverwarming reageert langzamer dan radiatoren: het duurt 30-60 minuten om een kamer op te warmen (vs 10-15 minuten met radiatoren). Dit is geen probleem als je de verwarming consistent aanlaat op een lagere temperatuur. Met een slimme thermostaat wordt dit automatisch geregeld.'
+- q: Kan ik vloerverwarming combineren met radiatoren?
+  a: Ja, dit is een veel voorkomende oplossing bij renovatie. Vloerverwarming in de woonkamer en keuken (waar je het meeste profijt hebt), en radiatoren in slaapkamers en badkamer. Je hebt dan een menggroep nodig om de watertemperatuur voor de vloerverwarming te verlagen.
+- q: Is vloerverwarming gezonder dan radiatoren?
+  a: Ja, vloerverwarming biedt een gelijkmatiger warmteverdeling (warm bij de voeten, koeler bij het hoofd — ideaal comfort). Er is minder luchtcirculatie, wat minder stof opwervelt en beter is voor mensen met allergieën. Radiatoren creëren meer temperatuurverschillen en luchtstromen.
 products:
-  - name: "Vaillant aroTHERM plus"
-    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
-    price: "8000"
-  - name: "Daikin Altherma 3"
-    url: "https://www.daikin.nl/nl_nl/producten.html"
-    price: "9000"
+- name: Vaillant aroTHERM plus
+  url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/
+  price: '8000'
+- name: Daikin Altherma 3
+  url: https://www.daikin.nl/nl_nl/producten.html
+  price: '9000'
+schema_type: Article
 ---
 
 Mijn Vaillant hybride warmtepomp draait het efficients op de vloerverwarming in mijn woonkamer — daar haalt hij een COP van 4,5 bij 35°C watertemperatuur. Op de radiatoren in de slaapkamers (60°C nodig) zakt de COP naar 2,8. Dat verschil is bijna 40% meer stroomverbruik. Als je overweegt een warmtepomp te nemen, is vloerverwarming de investering die het rendement maakt of breekt.

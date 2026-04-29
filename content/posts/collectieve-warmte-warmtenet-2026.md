@@ -1,37 +1,52 @@
 ---
-title: "Warmtenet of eigen warmtepomp 2026: keuze maken"
-date: 2026-06-25T10:00:00+01:00
-lastmod: 2026-06-25T10:00:00+01:00
-description: "Warmtenet of toch een eigen warmtepomp? Ik leg uit wanneer een warmtenet slim is, wat de kosten zijn en hoe je de keuze maakt als jouw wijk het aanbiedt."
-categories: ["warmtepompen"]
-tags: ["warmtenet", "collectieve warmte", "warmtepomp", "stadsverwarming", "aardgasvrij", "wijkwarmte", "warmtelevering"]
-keywords: ["warmtenet of warmtepomp", "aansluiten op warmtenet", "warmtenet kosten", "collectieve warmte voor- en nadelen", "warmtenet nederland 2026", "warmtepomp vs warmtenet"]
+title: 'Warmtenet of eigen warmtepomp 2026: keuze maken'
+date: 2026-06-25 10:00:00+01:00
+lastmod: 2026-06-25 10:00:00+01:00
+description: Warmtenet of toch een eigen warmtepomp? Ik leg uit wanneer een warmtenet slim is, wat de kosten zijn en hoe je de keuze maakt als jouw wijk het aanbiedt.
+categories:
+- warmtepompen
+tags:
+- warmtenet
+- collectieve warmte
+- warmtepomp
+- stadsverwarming
+- aardgasvrij
+- wijkwarmte
+- warmtelevering
+keywords:
+- warmtenet of warmtepomp
+- aansluiten op warmtenet
+- warmtenet kosten
+- collectieve warmte voor- en nadelen
+- warmtenet nederland 2026
+- warmtepomp vs warmtenet
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het verschil tussen een warmtenet en stadsverwarming?"
-    a: "Stadsverwarming is de oudere term voor hetzelfde concept: warmte via buizen naar woningen leveren. Moderne warmtenetten zijn technisch geavanceerder en kunnen warmte op lagere temperaturen leveren (laagtemperatuurwarmtenetten), wat efficiënter is maar hogere eisen stelt aan woningisolatie."
-  - q: "Ben ik verplicht aan te sluiten op het warmtenet?"
-    a: "Dat hangt af van de gemeente en het specifieke project. In nieuwbouwgebieden is aansluiting vaak verplicht. In bestaande bouw bij transformatiewijken kun je in veel gevallen nog kiezen voor een eigen warmtepomp. Controleer de gemeentelijke Transitievisie Warmte voor jouw gemeente."
-  - q: "Wat kost aansluiting op een warmtenet?"
-    a: "De aansluitbijdrage loopt sterk uiteen: van €0 (bij verplichte aansluiting in nieuwbouw, inbegrepen in de woningprijs) tot €4.000-€10.000 bij vrijwillige aansluiting in bestaande bouw. Bovenop het aansluitbedrag betaal je een vast abonnementstarief (€100-€200/maand) en een variabel tarief per GJ geleverde warmte."
-  - q: "Hoe hoog is de warmteprijs bij een warmtenet?"
-    a: "In Nederland is de warmteprijs voor consumenten gebonden aan het wettelijk maximum (NMDA-tarief, 'Niet Meer Dan Anders'). In 2026 ligt dit op circa €40-€44 per GJ, inclusief vastrecht. Dit is de politiek bepaalde grens die vergelijkbaar moet zijn met de kosten van een gasgestookte cv-ketel."
-  - q: "Kan ik zonnepanelen combineren met een warmtenet?"
-    a: "Ja. Zonnepanelen leveren elektriciteit; het warmtenet levert warmte. Dit zijn twee onafhankelijke systemen. Je hebt bij een warmtenet geen eigen warmtepomp of cv-ketel nodig, dus je hebt minder eigen elektriciteitsverbruik voor verwarming. Zonnepanelen dekken dan je huishoudelijk stroomverbruik."
-  - q: "Wat gebeurt er als de warmteleverancier failliet gaat?"
-    a: "Dit is een reëel risico dat recent actueler werd met de problemen rondom Vattenfall Warmte en andere leveranciers. Bij faillissement heeft de gemeente een leveringsplicht en moet doorlevering worden gegarandeerd. In de Warmtewet zijn regels voor continuïteit, maar in de praktijk zijn de opties beperkt als je verplicht bent aangesloten."
-  - q: "Is een warmtenet duurzamer dan een eigen warmtepomp?"
-    a: "Dat hangt af van de warmtebron van het net. Een warmtenet op geothermie, restwarmte of aquathermie is aanzienlijk duurzamer. Een warmtenet op aardgas is niet duurzamer dan een moderne warmtepomp op groene stroom. Vraag altijd naar de duurzaamheidsscore (CO2-uitstoot per GJ) van je lokale warmteleverancier."
+- q: Wat is het verschil tussen een warmtenet en stadsverwarming?
+  a: 'Stadsverwarming is de oudere term voor hetzelfde concept: warmte via buizen naar woningen leveren. Moderne warmtenetten zijn technisch geavanceerder en kunnen warmte op lagere temperaturen leveren (laagtemperatuurwarmtenetten), wat efficiënter is maar hogere eisen stelt aan woningisolatie.'
+- q: Ben ik verplicht aan te sluiten op het warmtenet?
+  a: Dat hangt af van de gemeente en het specifieke project. In nieuwbouwgebieden is aansluiting vaak verplicht. In bestaande bouw bij transformatiewijken kun je in veel gevallen nog kiezen voor een eigen warmtepomp. Controleer de gemeentelijke Transitievisie Warmte voor jouw gemeente.
+- q: Wat kost aansluiting op een warmtenet?
+  a: 'De aansluitbijdrage loopt sterk uiteen: van €0 (bij verplichte aansluiting in nieuwbouw, inbegrepen in de woningprijs) tot €4.000-€10.000 bij vrijwillige aansluiting in bestaande bouw. Bovenop het aansluitbedrag betaal je een vast abonnementstarief (€100-€200/maand) en een variabel tarief per GJ geleverde warmte.'
+- q: Hoe hoog is de warmteprijs bij een warmtenet?
+  a: In Nederland is de warmteprijs voor consumenten gebonden aan het wettelijk maximum (NMDA-tarief, 'Niet Meer Dan Anders'). In 2026 ligt dit op circa €40-€44 per GJ, inclusief vastrecht. Dit is de politiek bepaalde grens die vergelijkbaar moet zijn met de kosten van een gasgestookte cv-ketel.
+- q: Kan ik zonnepanelen combineren met een warmtenet?
+  a: Ja. Zonnepanelen leveren elektriciteit; het warmtenet levert warmte. Dit zijn twee onafhankelijke systemen. Je hebt bij een warmtenet geen eigen warmtepomp of cv-ketel nodig, dus je hebt minder eigen elektriciteitsverbruik voor verwarming. Zonnepanelen dekken dan je huishoudelijk stroomverbruik.
+- q: Wat gebeurt er als de warmteleverancier failliet gaat?
+  a: Dit is een reëel risico dat recent actueler werd met de problemen rondom Vattenfall Warmte en andere leveranciers. Bij faillissement heeft de gemeente een leveringsplicht en moet doorlevering worden gegarandeerd. In de Warmtewet zijn regels voor continuïteit, maar in de praktijk zijn de opties beperkt als je verplicht bent aangesloten.
+- q: Is een warmtenet duurzamer dan een eigen warmtepomp?
+  a: Dat hangt af van de warmtebron van het net. Een warmtenet op geothermie, restwarmte of aquathermie is aanzienlijk duurzamer. Een warmtenet op aardgas is niet duurzamer dan een moderne warmtepomp op groene stroom. Vraag altijd naar de duurzaamheidsscore (CO2-uitstoot per GJ) van je lokale warmteleverancier.
 products:
-  - name: "Daikin Altherma 3 warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "4500"
-  - name: "Bosch Compress 7000i warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/bosch"
-    price: "3900"
+- name: Daikin Altherma 3 warmtepomp
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '4500'
+- name: Bosch Compress 7000i warmtepomp
+  url: https://go.duurzaamthuislab.nl/bosch
+  price: '3900'
+schema_type: Article
 ---
 
 Mijn buurman belde me opgewonden op: "De gemeente wil ons op een warmtenet aansluiten! Is dat goed nieuws of gaat dit me geld kosten?" Het was een vraag die ik inmiddels tientallen keren heb gekregen. En het eerlijke antwoord is: het hangt er van af.

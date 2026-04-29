@@ -1,40 +1,52 @@
 ---
-title: "Afbouw Salderingsregeling 2026: Wat Betekent Het voor Jou?"
-date: 2026-03-04T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Alles over de afbouw van de salderingsregeling vanaf 2027. Bekijk de impact op je zonnepanelen en ontdek waarom een thuisbatterij nu slim is."
-categories: ["zonne-energie"]
-tags: ["salderingsregeling", "zonnepanelen", "teruglevering", "thuisbatterij", "energiebeleid"]
-keywords: ["salderingsregeling 2026", "salderingsregeling afbouw", "saldering zonnepanelen", "salderingsregeling afgeschaft", "terugleverkosten zonnepanelen"]
+title: 'Afbouw Salderingsregeling 2026: Wat Betekent Het voor Jou?'
+date: 2026-03-04 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Alles over de afbouw van de salderingsregeling vanaf 2027. Bekijk de impact op je zonnepanelen en ontdek waarom een thuisbatterij nu slim is.
+categories:
+- zonne-energie
+tags:
+- salderingsregeling
+- zonnepanelen
+- teruglevering
+- thuisbatterij
+- energiebeleid
+keywords:
+- salderingsregeling 2026
+- salderingsregeling afbouw
+- saldering zonnepanelen
+- salderingsregeling afgeschaft
+- terugleverkosten zonnepanelen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is de salderingsregeling precies?"
-    a: "De salderingsregeling houdt in dat je stroom die je met zonnepanelen opwekt en teruglevert aan het net, mag wegstrepen tegen stroom die je afneemt. Je betaalt dus alleen over het verschil (het saldo)."
-  - q: "Wanneer wordt de salderingsregeling afgebouwd?"
-    a: "De afbouw start naar verwachting per 1 januari 2027. Vanaf dat moment kun je jaarlijks een steeds kleiner percentage van je teruggeleverde stroom salderen, tot de regeling in 2031 volledig is afgebouwd."
-  - q: "Zijn zonnepanelen nog rendabel zonder saldering?"
-    a: "Ja, zonnepanelen blijven rendabel. Je bespaart nog steeds op de stroom die je direct zelf verbruikt. De terugverdientijd wordt wel langer. Een thuisbatterij kan helpen om meer eigen stroom te benutten."
-  - q: "Wat krijg ik straks nog voor teruggeleverde stroom?"
-    a: "Na volledige afbouw ontvang je de terugleververgoeding van je energieleverancier. Deze bedraagt doorgaans 5-8 cent per kWh, aanzienlijk minder dan het reguliere leveringstarief van 25-35 cent per kWh."
-  - q: "Is een thuisbatterij de oplossing voor het wegvallen van saldering?"
-    a: "Een thuisbatterij kan een groot deel van het verlies compenseren door overdag opgewekte zonnestroom op te slaan voor gebruik 's avonds. Of het financieel interessant is, hangt af van je verbruiksprofiel en de kosten van de batterij."
-  - q: "Heeft de afbouw invloed op bestaande zonnepanelen?"
-    a: "Ja, de afbouw geldt voor alle zonnepanelen-bezitters, ook als je ze al jaren hebt. Er is geen overgangsregeling voor bestaande installaties."
-  - q: "Moet ik nu nog snel zonnepanelen aanschaffen?"
-    a: "Zonnepanelen zijn nog steeds een goede investering, maar de urgentie om ze specifiek voor de salderingsregeling aan te schaffen is verminderd. Focus op een systeem dat past bij je eigen verbruik, eventueel met een thuisbatterij."
+- q: Wat is de salderingsregeling precies?
+  a: De salderingsregeling houdt in dat je stroom die je met zonnepanelen opwekt en teruglevert aan het net, mag wegstrepen tegen stroom die je afneemt. Je betaalt dus alleen over het verschil (het saldo).
+- q: Wanneer wordt de salderingsregeling afgebouwd?
+  a: De afbouw start naar verwachting per 1 januari 2027. Vanaf dat moment kun je jaarlijks een steeds kleiner percentage van je teruggeleverde stroom salderen, tot de regeling in 2031 volledig is afgebouwd.
+- q: Zijn zonnepanelen nog rendabel zonder saldering?
+  a: Ja, zonnepanelen blijven rendabel. Je bespaart nog steeds op de stroom die je direct zelf verbruikt. De terugverdientijd wordt wel langer. Een thuisbatterij kan helpen om meer eigen stroom te benutten.
+- q: Wat krijg ik straks nog voor teruggeleverde stroom?
+  a: Na volledige afbouw ontvang je de terugleververgoeding van je energieleverancier. Deze bedraagt doorgaans 5-8 cent per kWh, aanzienlijk minder dan het reguliere leveringstarief van 25-35 cent per kWh.
+- q: Is een thuisbatterij de oplossing voor het wegvallen van saldering?
+  a: Een thuisbatterij kan een groot deel van het verlies compenseren door overdag opgewekte zonnestroom op te slaan voor gebruik 's avonds. Of het financieel interessant is, hangt af van je verbruiksprofiel en de kosten van de batterij.
+- q: Heeft de afbouw invloed op bestaande zonnepanelen?
+  a: Ja, de afbouw geldt voor alle zonnepanelen-bezitters, ook als je ze al jaren hebt. Er is geen overgangsregeling voor bestaande installaties.
+- q: Moet ik nu nog snel zonnepanelen aanschaffen?
+  a: Zonnepanelen zijn nog steeds een goede investering, maar de urgentie om ze specifiek voor de salderingsregeling aan te schaffen is verminderd. Focus op een systeem dat past bij je eigen verbruik, eventueel met een thuisbatterij.
 products:
-  - name: "Huawei Luna 2000"
-    url: "https://solar.huawei.com/eu/residential/luna"
-    price: "6000"
-  - name: "Tesla Powerwall 3"
-    url: "https://www.tesla.com/nl_nl/powerwall"
-    price: "9500"
-  - name: "Tibber"
-    url: "https://tibber.com/nl"
-    price: "6"
+- name: Huawei Luna 2000
+  url: https://solar.huawei.com/eu/residential/luna
+  price: '6000'
+- name: Tesla Powerwall 3
+  url: https://www.tesla.com/nl_nl/powerwall
+  price: '9500'
+- name: Tibber
+  url: https://tibber.com/nl
+  price: '6'
+schema_type: Article
 ---
 
 Met mijn 16 panelen (5,6 kWp) lever ik jaarlijks zo'n 2.800 kWh terug aan het net. Dankzij de salderingsregeling krijg ik daar nu het volle tarief voor — maar vanaf 2027 verandert dat. Ik heb uitgerekend dat de afbouw mij zonder maatregelen €450 per jaar zou kosten. Daarom heb ik alvast een Huawei Luna thuisbatterij geplaatst. In dit artikel leg ik uit wat de afbouw precies inhoudt en hoe jij je kunt voorbereiden.

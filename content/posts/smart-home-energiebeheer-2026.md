@@ -1,38 +1,49 @@
 ---
-title: "Smart Home Energiebeheer 2026: Bespaar met Slimme"
-date: 2026-05-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Bespaar tot 30% op je energierekening met smart home technologie. Slimme thermostaten, energiemonitoring, automatisering en de beste systemen vergeleken."
-categories: ["energie"]
-tags: ["smart home", "energiebeheer", "slimme thermostaat", "Home Assistant", "domotica"]
-keywords: ["smart home energiebeheer", "slimme thermostaat", "energiebesparing domotica", "Home Assistant energie"]
+title: 'Smart Home Energiebeheer 2026: Bespaar met Slimme'
+date: 2026-05-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Bespaar tot 30% op je energierekening met smart home technologie. Slimme thermostaten, energiemonitoring, automatisering en de beste systemen vergeleken.
+categories:
+- energie
+tags:
+- smart home
+- energiebeheer
+- slimme thermostaat
+- Home Assistant
+- domotica
+keywords:
+- smart home energiebeheer
+- slimme thermostaat
+- energiebesparing domotica
+- Home Assistant energie
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel bespaar je met smart home energiebeheer?"
-    a: "Met een slimme thermostaat bespaar je 15-20% op verwarming (€200-€400/jaar). Slim laden van een EV bespaart €200-€500/jaar. Energiemonitoring + gedragsverandering bespaart nog eens 5-10%. Totaal kun je met een volledig slim systeem 20-30% besparen op je energierekening."
-  - q: "Welke slimme thermostaat is het beste?"
-    a: "De Google Nest Learning Thermostat is het beste voor eenvoud (leert automatisch je schema). De Tado is het beste voor multi-zone besturing en weersafhankelijke regeling. De Homey of Home Assistant thermostaat is het beste als je een uitgebreid smart home hebt met dynamische energietarieven."
-  - q: "Wat is Home Assistant en heb ik het nodig?"
-    a: "Home Assistant is gratis open-source software die al je slimme apparaten centraal bestuurt en automatiseert. Het draait op een Raspberry Pi of mini-PC en werkt met 2.000+ merken. Je hebt het nodig als je geavanceerde automatisering wilt, zoals verwarmen op basis van dynamische stroomtarieven."
-  - q: "Kan ik mijn warmtepomp slim aansturen?"
-    a: "Ja, veel moderne warmtepompen (Daikin, Remeha, Vaillant) zijn koppelbaar met slimme thermostaten en Home Assistant. Je kunt de warmtepomp laten draaien wanneer stroom goedkoop is (dynamisch contract) en stoppen wanneer stroom duur is, zonder comfortverlies dankzij het thermische buffereffect van je woning."
-  - q: "Welke apparaten verbruiken het meeste stroom in huis?"
-    a: "Top energieverbruikers: warmtepomp/CV-ketel (40-50%), warm water (15-20%), koelkast/vriezer (8-10%), wasmachine/droger (5-8%), koken (5-7%), verlichting (3-5%), standby-verbruik (5-10%). Een energiemonitor als de P1-meter of Homewizard maakt dit inzichtelijk per apparaat."
-  - q: "Is een smart home systeem moeilijk te installeren?"
-    a: "Slimme thermostaten en plugs kun je zelf installeren in 15-30 minuten. Een compleet Home Assistant systeem vereist meer technische kennis (1-2 dagen opzet). Er zijn ook kant-en-klare systemen als Tado en Google Nest die zonder technische kennis werken."
+- q: Hoeveel bespaar je met smart home energiebeheer?
+  a: Met een slimme thermostaat bespaar je 15-20% op verwarming (€200-€400/jaar). Slim laden van een EV bespaart €200-€500/jaar. Energiemonitoring + gedragsverandering bespaart nog eens 5-10%. Totaal kun je met een volledig slim systeem 20-30% besparen op je energierekening.
+- q: Welke slimme thermostaat is het beste?
+  a: De Google Nest Learning Thermostat is het beste voor eenvoud (leert automatisch je schema). De Tado is het beste voor multi-zone besturing en weersafhankelijke regeling. De Homey of Home Assistant thermostaat is het beste als je een uitgebreid smart home hebt met dynamische energietarieven.
+- q: Wat is Home Assistant en heb ik het nodig?
+  a: Home Assistant is gratis open-source software die al je slimme apparaten centraal bestuurt en automatiseert. Het draait op een Raspberry Pi of mini-PC en werkt met 2.000+ merken. Je hebt het nodig als je geavanceerde automatisering wilt, zoals verwarmen op basis van dynamische stroomtarieven.
+- q: Kan ik mijn warmtepomp slim aansturen?
+  a: Ja, veel moderne warmtepompen (Daikin, Remeha, Vaillant) zijn koppelbaar met slimme thermostaten en Home Assistant. Je kunt de warmtepomp laten draaien wanneer stroom goedkoop is (dynamisch contract) en stoppen wanneer stroom duur is, zonder comfortverlies dankzij het thermische buffereffect van je woning.
+- q: Welke apparaten verbruiken het meeste stroom in huis?
+  a: 'Top energieverbruikers: warmtepomp/CV-ketel (40-50%), warm water (15-20%), koelkast/vriezer (8-10%), wasmachine/droger (5-8%), koken (5-7%), verlichting (3-5%), standby-verbruik (5-10%). Een energiemonitor als de P1-meter of Homewizard maakt dit inzichtelijk per apparaat.'
+- q: Is een smart home systeem moeilijk te installeren?
+  a: Slimme thermostaten en plugs kun je zelf installeren in 15-30 minuten. Een compleet Home Assistant systeem vereist meer technische kennis (1-2 dagen opzet). Er zijn ook kant-en-klare systemen als Tado en Google Nest die zonder technische kennis werken.
 products:
-  - name: "HomeWizard P1 Meter"
-    url: "https://www.homewizard.com/nl/p1-meter/"
-    price: "30"
-  - name: "Shelly Pro 3EM"
-    url: "https://www.shelly.com/nl/products/shop/shelly-pro-3-em-400"
-    price: "120"
-  - name: "Tibber Pulse"
-    url: "https://tibber.com/nl/pulse"
-    price: "99"
+- name: HomeWizard P1 Meter
+  url: https://www.homewizard.com/nl/p1-meter/
+  price: '30'
+- name: Shelly Pro 3EM
+  url: https://www.shelly.com/nl/products/shop/shelly-pro-3-em-400
+  price: '120'
+- name: Tibber Pulse
+  url: https://tibber.com/nl/pulse
+  price: '99'
+schema_type: Article
 ---
 
 Mijn huis draait ondertussen bijna volledig automatisch. Mijn HomeWizard P1 meter ziet dat de zon schijnt, mijn Huawei Luna batterij laadt op tot de zonnestroom op is, en mijn Vaillant warmtepomp draait alleen als mijn Tibber-tarief onder de €0,10/kWh zakt. Dat klinkt ingewikkeld, maar het kostte me een middag instellen en bespaart me 25% op mijn energierekening. In dit artikel leg ik uit hoe je zo'n slim systeem zelf opzet.

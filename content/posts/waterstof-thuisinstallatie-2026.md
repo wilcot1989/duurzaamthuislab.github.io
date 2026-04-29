@@ -1,37 +1,51 @@
 ---
-title: "Waterstof thuisinstallatie 2026: realistisch of hype?"
-date: 2026-06-24T10:00:00+01:00
-lastmod: 2026-06-24T10:00:00+01:00
-description: "Waterstof thuis in 2026: eerlijke hype-check. Wat kun je nu echt kopen? Wat kost een waterstof thuissysteem? En wanneer wordt het interessant?"
-categories: ["energie"]
-tags: ["waterstof thuis", "waterstof thuisinstallatie", "groene waterstof", "electrolyzer thuis", "waterstof opslag", "energieopslag"]
-keywords: ["waterstof thuisinstallatie 2026", "waterstof thuis haalbaar", "waterstof energieopslag", "electrolyzer thuis kopen", "waterstof vs thuisbatterij", "groene waterstof woning"]
+title: 'Waterstof thuisinstallatie 2026: realistisch of hype?'
+date: 2026-06-24 10:00:00+01:00
+lastmod: 2026-06-24 10:00:00+01:00
+description: 'Waterstof thuis in 2026: eerlijke hype-check. Wat kun je nu echt kopen? Wat kost een waterstof thuissysteem? En wanneer wordt het interessant?'
+categories:
+- energie
+tags:
+- waterstof thuis
+- waterstof thuisinstallatie
+- groene waterstof
+- electrolyzer thuis
+- waterstof opslag
+- energieopslag
+keywords:
+- waterstof thuisinstallatie 2026
+- waterstof thuis haalbaar
+- waterstof energieopslag
+- electrolyzer thuis kopen
+- waterstof vs thuisbatterij
+- groene waterstof woning
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Kan ik in 2026 al waterstof thuis opslaan?"
-    a: "Technisch gezien wel: er zijn kleine elektrolyseurs beschikbaar (o.a. LAVO-systeem uit Australië, Picea van HPS). Maar de prijs (€30.000-€50.000+ voor een compleet systeem), beperkingen op thuisopslag van waterstof en het gebrek aan gecertificeerde installateurs in Nederland maken het in 2026 onpraktisch voor de gemiddelde particulier."
-  - q: "Wanneer wordt waterstof thuis betaalbaar?"
-    a: "Optimistische schattingen van fabrikanten liggen op 2028-2030 voor systemen onder €15.000. Meer realistische industrie-analyses spreken van 2032-2035 voor brede betaalbare markttoegang. De leercurve voor elektrolyseurs is steiler dan voor zonnepanelen, waardoor prijsdaling trager gaat."
-  - q: "Wat is het verschil tussen een waterstofboiler en een waterstofthuisbatterij?"
-    a: "Een waterstofboiler verbrandt waterstof voor warmte en warm water, als vervanging van de cv-ketel. Een waterstof-energieopslagsysteem slaat overtollige zonnestroom op als waterstof (via elektrolyse) en zet het 's nachts of in de winter terug om in elektriciteit (via brandstofcel). Het zijn fundamenteel verschillende toepassingen."
-  - q: "Is het veilig om waterstof thuis op te slaan?"
-    a: "Waterstof is een brandbaar gas met een brede ontvlammingsgrens (4-75% concentratie in lucht). Thuisopslag in gecertificeerde drukvaten is technisch mogelijk, maar vereist strenge veiligheidsmaatregelen: explosieveilige ruimte, gasdetectie, afstandsbediening en gecertificeerde installatie. In Nederland is de regelgeving voor thuisopslag nog niet volledig uitgewerkt."
-  - q: "Kan mijn bestaande cv-ketel op waterstof draaien?"
-    a: "De meeste huidige cv-ketels kunnen op maximaal 20% waterstofmengsel draaien ('H20-ready'). Volledig waterstof vereist aanpassingen aan branders en afdichtingen. Diverse fabrikanten (Bosch, Vaillant, Remeha) hebben waterstof-ready ketels in hun gamma, maar het gasnet levert in Nederland in 2026 geen waterstof."
-  - q: "Wat is beter voor energieopslag: een thuisbatterij of waterstof?"
-    a: "In 2026 is een thuisbatterij (LiFePO4) op vrijwel alle vlakken beter: goedkoper, efficiënter (90%+ round-trip vs 30-40% voor waterstof), makkelijker te installeren en breder beschikbaar. Waterstof heeft theoretisch voordeel bij seizoensopslag (zomer naar winter), maar is voor de gemiddelde huiseigenaar in 2026 geen praktische keuze."
-  - q: "Zijn er subsidies voor waterstof thuisinstallaties in Nederland?"
-    a: "Nee, in 2026 zijn er geen specifieke subsidies voor waterstof thuisinstallaties in Nederland. De ISDE-subsidie geldt niet voor waterstof-opslagsystemen. Wel zijn er zakelijke subsidies (SDE++, waterstofpilotprogramma's) voor bedrijven en pilots."
+- q: Kan ik in 2026 al waterstof thuis opslaan?
+  a: 'Technisch gezien wel: er zijn kleine elektrolyseurs beschikbaar (o.a. LAVO-systeem uit Australië, Picea van HPS). Maar de prijs (€30.000-€50.000+ voor een compleet systeem), beperkingen op thuisopslag van waterstof en het gebrek aan gecertificeerde installateurs in Nederland maken het in 2026 onpraktisch voor de gemiddelde particulier.'
+- q: Wanneer wordt waterstof thuis betaalbaar?
+  a: Optimistische schattingen van fabrikanten liggen op 2028-2030 voor systemen onder €15.000. Meer realistische industrie-analyses spreken van 2032-2035 voor brede betaalbare markttoegang. De leercurve voor elektrolyseurs is steiler dan voor zonnepanelen, waardoor prijsdaling trager gaat.
+- q: Wat is het verschil tussen een waterstofboiler en een waterstofthuisbatterij?
+  a: Een waterstofboiler verbrandt waterstof voor warmte en warm water, als vervanging van de cv-ketel. Een waterstof-energieopslagsysteem slaat overtollige zonnestroom op als waterstof (via elektrolyse) en zet het 's nachts of in de winter terug om in elektriciteit (via brandstofcel). Het zijn fundamenteel verschillende toepassingen.
+- q: Is het veilig om waterstof thuis op te slaan?
+  a: 'Waterstof is een brandbaar gas met een brede ontvlammingsgrens (4-75% concentratie in lucht). Thuisopslag in gecertificeerde drukvaten is technisch mogelijk, maar vereist strenge veiligheidsmaatregelen: explosieveilige ruimte, gasdetectie, afstandsbediening en gecertificeerde installatie. In Nederland is de regelgeving voor thuisopslag nog niet volledig uitgewerkt.'
+- q: Kan mijn bestaande cv-ketel op waterstof draaien?
+  a: De meeste huidige cv-ketels kunnen op maximaal 20% waterstofmengsel draaien ('H20-ready'). Volledig waterstof vereist aanpassingen aan branders en afdichtingen. Diverse fabrikanten (Bosch, Vaillant, Remeha) hebben waterstof-ready ketels in hun gamma, maar het gasnet levert in Nederland in 2026 geen waterstof.
+- q: 'Wat is beter voor energieopslag: een thuisbatterij of waterstof?'
+  a: 'In 2026 is een thuisbatterij (LiFePO4) op vrijwel alle vlakken beter: goedkoper, efficiënter (90%+ round-trip vs 30-40% voor waterstof), makkelijker te installeren en breder beschikbaar. Waterstof heeft theoretisch voordeel bij seizoensopslag (zomer naar winter), maar is voor de gemiddelde huiseigenaar in 2026 geen praktische keuze.'
+- q: Zijn er subsidies voor waterstof thuisinstallaties in Nederland?
+  a: Nee, in 2026 zijn er geen specifieke subsidies voor waterstof thuisinstallaties in Nederland. De ISDE-subsidie geldt niet voor waterstof-opslagsystemen. Wel zijn er zakelijke subsidies (SDE++, waterstofpilotprogramma's) voor bedrijven en pilots.
 products:
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3999"
-  - name: "Marstek B5000"
-    url: "https://go.duurzaamthuislab.nl/marstek"
-    price: "3499"
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '3999'
+- name: Marstek B5000
+  url: https://go.duurzaamthuislab.nl/marstek
+  price: '3499'
+schema_type: Article
 ---
 
 Twee jaar geleden kreeg ik een vraag van een buurman: "Mark, ik heb gehoord dat je straks gewoon waterstof thuis kunt opslaan. Is dat wat voor mij?" Ik gaf hem toen een voorzichtig antwoord. Nu, twee jaar later, kan ik een eerlijker antwoord geven: waterstof thuis is in 2026 grotendeels nog steeds toekomstmuziek voor particulieren. Maar het klopt wel dat de technologie vordert.

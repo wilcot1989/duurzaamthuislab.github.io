@@ -1,40 +1,52 @@
 ---
-title: "EcoFlow Delta 2 Max Review 2026: De Ultieme Powerstation?"
-date: 2026-03-01T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Uitgebreide EcoFlow Delta 2 Max review. Bekijk specs, prestaties, voor- en nadelen en ontdek of dit het beste powerstation van 2026 is."
-categories: ["powerstations"]
-tags: ["EcoFlow", "Delta 2 Max", "powerstation review", "draagbaar powerstation", "X-Stream"]
-keywords: ["ecoflow delta 2 max review", "delta 2 max test", "ecoflow review", "ecoflow delta 2 max ervaringen", "ecoflow delta 2 max specs"]
+title: 'EcoFlow Delta 2 Max Review 2026: De Ultieme Powerstation?'
+date: 2026-03-01 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Uitgebreide EcoFlow Delta 2 Max review. Bekijk specs, prestaties, voor- en nadelen en ontdek of dit het beste powerstation van 2026 is.
+categories:
+- powerstations
+tags:
+- EcoFlow
+- Delta 2 Max
+- powerstation review
+- draagbaar powerstation
+- X-Stream
+keywords:
+- ecoflow delta 2 max review
+- delta 2 max test
+- ecoflow review
+- ecoflow delta 2 max ervaringen
+- ecoflow delta 2 max specs
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
-  - q: "Is de EcoFlow Delta 2 Max de moeite waard in 2026?"
-    a: "Ja. Met 2048Wh capaciteit, 2400W continu vermogen, razendsnel X-Stream opladen en een uitstekende app is de Delta 2 Max nog steeds een van de beste allround powerstations op de markt."
-  - q: "Hoe snel laadt de EcoFlow Delta 2 Max op?"
-    a: "Via een stopcontact laadt de Delta 2 Max dankzij X-Stream technologie op van 0 naar 80% in ongeveer 65 minuten. Een volledige lading duurt circa 80 minuten."
-  - q: "Kan ik de Delta 2 Max opladen met zonnepanelen?"
-    a: "Ja, de Delta 2 Max ondersteunt tot 500W solar-input via XT60-aansluiting. Met twee 220W EcoFlow-zonnepanelen laad je het station in 3-6 uur volledig op, afhankelijk van de zonnestand."
-  - q: "Is de EcoFlow Delta 2 Max geschikt als noodstroom thuis?"
-    a: "Absoluut. De Delta 2 Max heeft een UPS-functie (automatische omschakeling in minder dan 30 milliseconden) en kan je belangrijkste apparaten urenlang van stroom voorzien bij een stroomstoring."
-  - q: "Hoe zwaar is de EcoFlow Delta 2 Max?"
-    a: "De Delta 2 Max weegt 23 kg. Dat is stevig, maar dankzij de twee handgrepen is het station door één persoon te tillen en te verplaatsen."
-  - q: "Wat is het verschil tussen de EcoFlow Delta 2 Max en de Jackery Explorer 2000 Plus?"
-    a: "De Delta 2 Max laadt sneller op en is lichter. De Jackery 2000 Plus biedt meer continu vermogen (3000W vs 2400W) en is uitbreidbaar tot 24kWh. Lees onze uitgebreide EcoFlow vs Jackery vergelijking voor meer details."
-  - q: "Hoe lang gaat de batterij van de Delta 2 Max mee?"
-    a: "De LFP-batterij (LiFePO4) gaat circa 3000 laadcycli mee voordat de capaciteit naar 80% daalt. Bij wekelijks gebruik is dat meer dan 10 jaar."
+- q: Is de EcoFlow Delta 2 Max de moeite waard in 2026?
+  a: Ja. Met 2048Wh capaciteit, 2400W continu vermogen, razendsnel X-Stream opladen en een uitstekende app is de Delta 2 Max nog steeds een van de beste allround powerstations op de markt.
+- q: Hoe snel laadt de EcoFlow Delta 2 Max op?
+  a: Via een stopcontact laadt de Delta 2 Max dankzij X-Stream technologie op van 0 naar 80% in ongeveer 65 minuten. Een volledige lading duurt circa 80 minuten.
+- q: Kan ik de Delta 2 Max opladen met zonnepanelen?
+  a: Ja, de Delta 2 Max ondersteunt tot 500W solar-input via XT60-aansluiting. Met twee 220W EcoFlow-zonnepanelen laad je het station in 3-6 uur volledig op, afhankelijk van de zonnestand.
+- q: Is de EcoFlow Delta 2 Max geschikt als noodstroom thuis?
+  a: Absoluut. De Delta 2 Max heeft een UPS-functie (automatische omschakeling in minder dan 30 milliseconden) en kan je belangrijkste apparaten urenlang van stroom voorzien bij een stroomstoring.
+- q: Hoe zwaar is de EcoFlow Delta 2 Max?
+  a: De Delta 2 Max weegt 23 kg. Dat is stevig, maar dankzij de twee handgrepen is het station door één persoon te tillen en te verplaatsen.
+- q: Wat is het verschil tussen de EcoFlow Delta 2 Max en de Jackery Explorer 2000 Plus?
+  a: De Delta 2 Max laadt sneller op en is lichter. De Jackery 2000 Plus biedt meer continu vermogen (3000W vs 2400W) en is uitbreidbaar tot 24kWh. Lees onze uitgebreide EcoFlow vs Jackery vergelijking voor meer details.
+- q: Hoe lang gaat de batterij van de Delta 2 Max mee?
+  a: De LFP-batterij (LiFePO4) gaat circa 3000 laadcycli mee voordat de capaciteit naar 80% daalt. Bij wekelijks gebruik is dat meer dan 10 jaar.
 products:
-  - name: "EcoFlow Delta 2 Max"
-    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
-    price: "1899"
-  - name: "Jackery Explorer 2000 Plus"
-    url: "https://www.jackery.com/products/explorer-2000-plus-portable-power-station"
-    price: "2299"
-  - name: "Bluetti AC200MAX"
-    url: "https://www.bluettipower.eu/products/ac200max"
-    price: "1899"
+- name: EcoFlow Delta 2 Max
+  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  price: '1899'
+- name: Jackery Explorer 2000 Plus
+  url: https://www.jackery.com/products/explorer-2000-plus-portable-power-station
+  price: '2299'
+- name: Bluetti AC200MAX
+  url: https://www.bluettipower.eu/products/ac200max
+  price: '1899'
+schema_type: Review
 ---
 
 De EcoFlow Delta 2 Max was het eerste grote powerstation dat ik thuis testte — en hij heeft de lat hoog gelegd. Van 0 naar 80% in 65 minuten, een solide app met real-time monitoring, en 2048Wh die mijn koelkast, router en verlichting bij een stroomuitval ruim 14 uur draaiende hield. Maar is hij in 2026 nog steeds de beste keuze? Dit is mijn eerlijke oordeel na maanden gebruik.

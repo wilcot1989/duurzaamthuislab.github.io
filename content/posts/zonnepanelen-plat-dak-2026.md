@@ -1,35 +1,45 @@
 ---
-title: "Zonnepanelen op Plat Dak 2026: Opbrengst"
-date: 2026-06-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Alles over zonnepanelen op een plat dak in 2026. Opbrengst, kosten, ballast vs doorgedrukt systeem, optimale hoek en de beste systemen vergeleken."
-categories: ["zonnepanelen"]
-tags: ["zonnepanelen plat dak", "ballast systeem", "opbrengst zonnepanelen", "plat dak montage"]
-keywords: ["zonnepanelen plat dak", "plat dak zonnepanelen kosten", "opbrengst plat dak", "zonnepanelen plaatsen plat dak"]
+title: 'Zonnepanelen op Plat Dak 2026: Opbrengst'
+date: 2026-06-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Alles over zonnepanelen op een plat dak in 2026. Opbrengst, kosten, ballast vs doorgedrukt systeem, optimale hoek en de beste systemen vergeleken.
+categories:
+- zonnepanelen
+tags:
+- zonnepanelen plat dak
+- ballast systeem
+- opbrengst zonnepanelen
+- plat dak montage
+keywords:
+- zonnepanelen plat dak
+- plat dak zonnepanelen kosten
+- opbrengst plat dak
+- zonnepanelen plaatsen plat dak
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Kan ik zonnepanelen op een plat dak leggen?"
-    a: "Ja, zonnepanelen werken uitstekend op een plat dak. Ze worden op schuine frames geplaatst (10-15° hoek, richting zuiden) voor optimale opbrengst. Voordeel: je kiest zelf de optimale richting en hoek. Nadeel: de opbrengst is 5-10% lager dan op een schuin dak op het zuiden, en je hebt meer dakoppervlak nodig vanwege de tussenruimte."
-  - q: "Hoeveel kosten zonnepanelen op een plat dak?"
-    a: "Zonnepanelen op een plat dak kosten €150-€250 meer per paneel dan op een schuin dak vanwege het montagesysteem (frames, ballast). Totaal voor 10 panelen: €4.500-€7.000 inclusief installatie. Het montagesysteem (ballast of doorgedrukt) kost €30-€80 per paneel extra."
-  - q: "Hoeveel opbrengst leveren zonnepanelen op een plat dak?"
-    a: "Op een plat dak met frames op 10-15° richting zuiden leveren zonnepanelen 85-95% van de maximale opbrengst (vergeleken met 35° schuin dak op zuiden). Per paneel van 400 Wp: 340-380 kWh/jaar. Een oost-west opstelling levert 80-90% maar is efficiënter qua dakruimte."
-  - q: "Wat is beter: zuiden of oost-west opstelling?"
-    a: "Zuid levert de hoogste opbrengst per paneel (85-95%). Oost-west levert minder per paneel (80-90%) maar je kunt meer panelen plaatsen (minder tussenruimte) en de opbrengst is beter verdeeld over de dag (ochtend + middag). Oost-west is vaak slimmer als je maximaal wilt opwekken op een beperkt dak."
-  - q: "Heb ik toestemming nodig voor zonnepanelen op een plat dak?"
-    a: "Voor woningen meestal niet (vergunningsvrij). Uitzonderingen: monumentale panden, beschermde stadsgezichten, of als het montagesysteem hoger is dan de dakrand. Bij VvE's (appartementen) heb je toestemming van de vergadering nodig. Bij huurwoningen: toestemming van de verhuurder."
-  - q: "Kan mijn platte dak het gewicht van zonnepanelen dragen?"
-    a: "De meeste platte daken kunnen zonnepanelen dragen. Gewicht per paneel + frame + ballast: 15-25 kg/m². Standaard platte daken zijn berekend op 100+ kg/m² (sneeuwlast). Bij oudere daken of twijfel: laat een constructeur of de installateur de draagkracht controleren. Kosten check: €100-€300."
+- q: Kan ik zonnepanelen op een plat dak leggen?
+  a: 'Ja, zonnepanelen werken uitstekend op een plat dak. Ze worden op schuine frames geplaatst (10-15° hoek, richting zuiden) voor optimale opbrengst. Voordeel: je kiest zelf de optimale richting en hoek. Nadeel: de opbrengst is 5-10% lager dan op een schuin dak op het zuiden, en je hebt meer dakoppervlak nodig vanwege de tussenruimte.'
+- q: Hoeveel kosten zonnepanelen op een plat dak?
+  a: 'Zonnepanelen op een plat dak kosten €150-€250 meer per paneel dan op een schuin dak vanwege het montagesysteem (frames, ballast). Totaal voor 10 panelen: €4.500-€7.000 inclusief installatie. Het montagesysteem (ballast of doorgedrukt) kost €30-€80 per paneel extra.'
+- q: Hoeveel opbrengst leveren zonnepanelen op een plat dak?
+  a: 'Op een plat dak met frames op 10-15° richting zuiden leveren zonnepanelen 85-95% van de maximale opbrengst (vergeleken met 35° schuin dak op zuiden). Per paneel van 400 Wp: 340-380 kWh/jaar. Een oost-west opstelling levert 80-90% maar is efficiënter qua dakruimte.'
+- q: 'Wat is beter: zuiden of oost-west opstelling?'
+  a: Zuid levert de hoogste opbrengst per paneel (85-95%). Oost-west levert minder per paneel (80-90%) maar je kunt meer panelen plaatsen (minder tussenruimte) en de opbrengst is beter verdeeld over de dag (ochtend + middag). Oost-west is vaak slimmer als je maximaal wilt opwekken op een beperkt dak.
+- q: Heb ik toestemming nodig voor zonnepanelen op een plat dak?
+  a: 'Voor woningen meestal niet (vergunningsvrij). Uitzonderingen: monumentale panden, beschermde stadsgezichten, of als het montagesysteem hoger is dan de dakrand. Bij VvE''s (appartementen) heb je toestemming van de vergadering nodig. Bij huurwoningen: toestemming van de verhuurder.'
+- q: Kan mijn platte dak het gewicht van zonnepanelen dragen?
+  a: 'De meeste platte daken kunnen zonnepanelen dragen. Gewicht per paneel + frame + ballast: 15-25 kg/m². Standaard platte daken zijn berekend op 100+ kg/m² (sneeuwlast). Bij oudere daken of twijfel: laat een constructeur of de installateur de draagkracht controleren. Kosten check: €100-€300.'
 products:
-  - name: "Zonneplan"
-    url: "https://zonneplan.nl/zonnepanelen"
-    price: "5000"
-  - name: "Coolblue Zonnepanelen"
-    url: "https://www.coolblue.nl/zonnepanelen"
-    price: "5500"
+- name: Zonneplan
+  url: https://zonneplan.nl/zonnepanelen
+  price: '5000'
+- name: Coolblue Zonnepanelen
+  url: https://www.coolblue.nl/zonnepanelen
+  price: '5500'
+schema_type: Article
 ---
 
 Mijn eigen panelen liggen op een schuin dak richting zuidwest, maar ik heb een buurman geholpen met de planning voor zijn plat dak. Het voordeel: je kiest zelf de optimale hoek (10-15 graden) en richting. Het nadeel: je hebt 30-50% meer dakruimte nodig en het montagesysteem kost €30-€80 extra per paneel. In dit artikel deel ik de berekeningen, de beste opstellingen en de valkuilen.

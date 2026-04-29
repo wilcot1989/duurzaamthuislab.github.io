@@ -1,34 +1,52 @@
 ---
-title: "Vaillant aroTHERM plus review 2026"
-date: 2026-08-01T08:00:00+02:00
-lastmod: 2026-08-01T08:00:00+02:00
-description: "De Vaillant aroTHERM plus is een van de meest besproken warmtepompen van 2026. Ik bekeek drie installaties van dichtbij."
-categories: ["warmtepompen"]
-tags: ["Vaillant aroTHERM plus", "warmtepomp", "R290", "lucht-water warmtepomp", "ISDE subsidie", "SCOP", "review", "Vaillant"]
-keywords: ["Vaillant aroTHERM plus review", "Vaillant aroTHERM plus ervaringen", "Vaillant aroTHERM plus prijs", "Vaillant warmtepomp 2026", "R290 warmtepomp", "Vaillant vs Daikin", "aroTHERM plus SCOP", "Vaillant aroTHERM plus ISDE"]
+title: Vaillant aroTHERM plus review 2026
+date: 2026-08-01 08:00:00+02:00
+lastmod: 2026-08-01 08:00:00+02:00
+description: De Vaillant aroTHERM plus is een van de meest besproken warmtepompen van 2026. Ik bekeek drie installaties van dichtbij.
+categories:
+- warmtepompen
+tags:
+- Vaillant aroTHERM plus
+- warmtepomp
+- R290
+- lucht-water warmtepomp
+- ISDE subsidie
+- SCOP
+- review
+- Vaillant
+keywords:
+- Vaillant aroTHERM plus review
+- Vaillant aroTHERM plus ervaringen
+- Vaillant aroTHERM plus prijs
+- Vaillant warmtepomp 2026
+- R290 warmtepomp
+- Vaillant vs Daikin
+- aroTHERM plus SCOP
+- Vaillant aroTHERM plus ISDE
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kost een Vaillant aroTHERM plus warmtepomp in 2026?"
-    a: "Een Vaillant aroTHERM plus kost €9.500 tot €14.000 inclusief 0% btw, exclusief montage. De prijs hangt af van het vermogen (3,5 kW tot 12 kW) en de binnenunit die erbij geleverd wordt. Montage kost doorgaans €1.500 tot €3.000 extra, afhankelijk van de complexiteit. Na ISDE-subsidie (€2.500 tot €4.500) kom je netto op €8.500 tot €12.500 inclusief alles."
-  - q: "Wat is de SCOP van de Vaillant aroTHERM plus?"
-    a: "De Vaillant aroTHERM plus heeft een SCOP van 5,0 tot 5,4, afhankelijk van het vermogensmodel en de aanvoertemperatuur. SCOP A7/W35 (het meest gebruikte vergelijkingspunt) is voor de 7 kW variant circa 5,1 — dat behoort tot de beste in zijn klasse. Bij hogere aanvoertemperaturen (55°C voor oudere radiatoren) daalt de SCOP naar circa 3,8."
-  - q: "Waarom gebruikt de Vaillant aroTHERM plus R290 als koudemiddel?"
-    a: "R290 is propaan — een natuurlijk koudemiddel met een GWP (Global Warming Potential) van slechts 3, tegenover 675 voor R32 en 2.088 voor R410A. Dat maakt R290 aanzienlijk milieuvriendelijker bij eventuele lekkage. Het nadeel is dat propaan licht ontvlambaar is, wat extra installatievereisten meebrengt (buiten plaatsing van de buitenunit, geen installatie in besloten ruimtes). In de praktijk is dit veilig mits correct geïnstalleerd."
-  - q: "Kan ik ISDE-subsidie aanvragen voor de Vaillant aroTHERM plus?"
-    a: "Ja. De Vaillant aroTHERM plus staat op de ISDE-lijst van RVO. De subsidie is €2.500 tot €4.500, afhankelijk van het vermogen. De aanvraag moet vóór start van de installatie worden ingediend door een erkende installateur. Vaillant-installateurs zijn doorgaans gecertificeerd voor ISDE-aanvragen."
-  - q: "Hoe stil is de Vaillant aroTHERM plus?"
-    a: "De aroTHERM plus is een van de stilste warmtepompen in zijn klasse: 33 dB(A) bij volledige belasting, gemeten op 1 meter afstand van de buitenunit. Ter vergelijking: een normaal gesprek is circa 60 dB(A). 's Nachts moduleert het systeem naar zeer lage belasting, wat het geluid verder reduceert. In de praktijk hoor je hem nauwelijks als de buurman hem niet actief zoekt."
-  - q: "Werkt de Vaillant aroTHERM plus in een slecht geïsoleerde woning?"
-    a: "Dat hangt af van het model en de bestaande radiatorengroep. De aroTHERM plus werkt het efficiëntst bij aanvoertemperaturen van 35–45°C (vloerverwarming of lage-temperatuur radiatoren). Bij slecht geïsoleerde woningen met hoge-temperatuur radiatoren (70°C) zakt de efficiëntie sterk. Vaillant biedt ook hybride configuraties aan waarbij een cv-ketel bijspringt — maar dat is een aparte installatie, niet de aroTHERM plus als standalone."
-  - q: "Wat is het verschil tussen de Vaillant aroTHERM plus en de aroTHERM exclusive?"
-    a: "De aroTHERM plus (R290) is de nieuwste generatie met het milieuvriendelijkere koudemiddel en hogere SCOP. De aroTHERM exclusive (oudere lijn, R32) is iets goedkoper maar heeft een lagere milieuscore. In 2026 is de plus-lijn de standaardaanbeveling."
+- q: Wat kost een Vaillant aroTHERM plus warmtepomp in 2026?
+  a: Een Vaillant aroTHERM plus kost €9.500 tot €14.000 inclusief 0% btw, exclusief montage. De prijs hangt af van het vermogen (3,5 kW tot 12 kW) en de binnenunit die erbij geleverd wordt. Montage kost doorgaans €1.500 tot €3.000 extra, afhankelijk van de complexiteit. Na ISDE-subsidie (€2.500 tot €4.500) kom je netto op €8.500 tot €12.500 inclusief alles.
+- q: Wat is de SCOP van de Vaillant aroTHERM plus?
+  a: De Vaillant aroTHERM plus heeft een SCOP van 5,0 tot 5,4, afhankelijk van het vermogensmodel en de aanvoertemperatuur. SCOP A7/W35 (het meest gebruikte vergelijkingspunt) is voor de 7 kW variant circa 5,1 — dat behoort tot de beste in zijn klasse. Bij hogere aanvoertemperaturen (55°C voor oudere radiatoren) daalt de SCOP naar circa 3,8.
+- q: Waarom gebruikt de Vaillant aroTHERM plus R290 als koudemiddel?
+  a: R290 is propaan — een natuurlijk koudemiddel met een GWP (Global Warming Potential) van slechts 3, tegenover 675 voor R32 en 2.088 voor R410A. Dat maakt R290 aanzienlijk milieuvriendelijker bij eventuele lekkage. Het nadeel is dat propaan licht ontvlambaar is, wat extra installatievereisten meebrengt (buiten plaatsing van de buitenunit, geen installatie in besloten ruimtes). In de praktijk is dit veilig mits correct geïnstalleerd.
+- q: Kan ik ISDE-subsidie aanvragen voor de Vaillant aroTHERM plus?
+  a: Ja. De Vaillant aroTHERM plus staat op de ISDE-lijst van RVO. De subsidie is €2.500 tot €4.500, afhankelijk van het vermogen. De aanvraag moet vóór start van de installatie worden ingediend door een erkende installateur. Vaillant-installateurs zijn doorgaans gecertificeerd voor ISDE-aanvragen.
+- q: Hoe stil is de Vaillant aroTHERM plus?
+  a: 'De aroTHERM plus is een van de stilste warmtepompen in zijn klasse: 33 dB(A) bij volledige belasting, gemeten op 1 meter afstand van de buitenunit. Ter vergelijking: een normaal gesprek is circa 60 dB(A). ''s Nachts moduleert het systeem naar zeer lage belasting, wat het geluid verder reduceert. In de praktijk hoor je hem nauwelijks als de buurman hem niet actief zoekt.'
+- q: Werkt de Vaillant aroTHERM plus in een slecht geïsoleerde woning?
+  a: Dat hangt af van het model en de bestaande radiatorengroep. De aroTHERM plus werkt het efficiëntst bij aanvoertemperaturen van 35–45°C (vloerverwarming of lage-temperatuur radiatoren). Bij slecht geïsoleerde woningen met hoge-temperatuur radiatoren (70°C) zakt de efficiëntie sterk. Vaillant biedt ook hybride configuraties aan waarbij een cv-ketel bijspringt — maar dat is een aparte installatie, niet de aroTHERM plus als standalone.
+- q: Wat is het verschil tussen de Vaillant aroTHERM plus en de aroTHERM exclusive?
+  a: De aroTHERM plus (R290) is de nieuwste generatie met het milieuvriendelijkere koudemiddel en hogere SCOP. De aroTHERM exclusive (oudere lijn, R32) is iets goedkoper maar heeft een lagere milieuscore. In 2026 is de plus-lijn de standaardaanbeveling.
 products:
-  - name: "Vaillant aroTHERM plus warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/vaillant"
-    price: "11500"
+- name: Vaillant aroTHERM plus warmtepomp
+  url: https://go.duurzaamthuislab.nl/vaillant
+  price: '11500'
+schema_type: Review
 ---
 
 De eerste keer dat ik de naam Vaillant hoorde was bij mijn vader. Hij had een Vaillant cv-ketel in de jaren tachtig — "een Duitse trots", zei hij. Die ketel draaide ruim twintig jaar. Sindsdien is Vaillant een gevestigde naam bij installateurs, maar in de warmtepompwereld moesten ze de Japanse merken (Daikin, Mitsubishi) en ook ATAG inhalen.

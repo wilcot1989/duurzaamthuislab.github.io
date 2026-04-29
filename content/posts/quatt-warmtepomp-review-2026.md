@@ -1,39 +1,54 @@
 ---
-title: "Quatt warmtepomp review 2026: slim abonnement of dure"
-date: 2026-07-03T08:00:00+02:00
-lastmod: 2026-07-03T08:00:00+02:00
-description: "Quatt biedt een warmtepomp als abonnement: geen aanbetaling, all-in service. Maar is het goedkoper dan gewoon kopen? Mijn eerlijke berekening over 10 jaar."
-categories: ["warmtepompen"]
-tags: ["Quatt", "warmtepomp abonnement", "hybride warmtepomp", "lucht-water warmtepomp", "Quatt Connect", "review"]
-keywords: ["Quatt warmtepomp review", "Quatt ervaringen", "Quatt Connect", "Quatt warmtepomp prijs", "Quatt vs kopen", "warmtepomp abonnement", "Quatt nadelen"]
+title: 'Quatt warmtepomp review 2026: slim abonnement of dure'
+date: 2026-07-03 08:00:00+02:00
+lastmod: 2026-07-03 08:00:00+02:00
+description: 'Quatt biedt een warmtepomp als abonnement: geen aanbetaling, all-in service. Maar is het goedkoper dan gewoon kopen? Mijn eerlijke berekening over 10 jaar.'
+categories:
+- warmtepompen
+tags:
+- Quatt
+- warmtepomp abonnement
+- hybride warmtepomp
+- lucht-water warmtepomp
+- Quatt Connect
+- review
+keywords:
+- Quatt warmtepomp review
+- Quatt ervaringen
+- Quatt Connect
+- Quatt warmtepomp prijs
+- Quatt vs kopen
+- warmtepomp abonnement
+- Quatt nadelen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kost Quatt per maand?"
-    a: "Quatt Connect kost €59 per maand voor het basis-abonnement, €79 voor het standaard-abonnement en €99 voor premium (inclusief meer monitoring en onderhoud). De contractduur is minimaal 10 jaar. Er is geen aanbetaling vereist — Quatt installeert de warmtepomp kosteloos en rekent alles in via de maandelijkse fee."
-  - q: "Hoeveel bespaar ik met Quatt ten opzichte van gas?"
-    a: "Quatt claimit een gasbesparing van 50 tot 70% voor een gemiddeld huishouden. Bij 2.000 m³ gasverbruik en een gasprijs van €1,05/m³ betekent dat €1.050 tot €1.470 bruto besparing per jaar. Trek daar de abonnementskosten (€708–€1.188/jaar) en de extra elektriciteitskosten af, dan houd je circa €0 tot €400 netto per jaar over — afhankelijk van je abonnement en verbruik."
-  - q: "Is Quatt goedkoper dan een warmtepomp kopen?"
-    a: "Over 10 jaar betaal je met Quatt Connect Standaard (€79/mnd) in totaal €9.480 aan abonnementskosten, exclusief eventuele extra kosten. Een vergelijkbare ATAG of Daikin hybride warmtepomp kost €5.000–€6.500 netto na ISDE-subsidie, met een jaarlijks onderhoudscontract van €150–€250. Kopen is bijna altijd goedkoper over 10 jaar."
-  - q: "Kan ik Quatt vroegtijdig opzeggen?"
-    a: "Ja, maar er zijn exitkosten. Quatt hanteert een afkoopregeling die afloopt naarmate het contract ouder is. In het eerste jaar zijn de kosten het hoogst — volgens ervaringen van gebruikers is dat circa €2.000 tot €3.500 afhankelijk van het moment. Lees het contract goed door voor je tekent."
-  - q: "Werkt Quatt in een slecht geïsoleerde woning?"
-    a: "Quatt is een hybride warmtepomp: hij werkt samen met de bestaande cv-ketel. De ketel springt bij als het buiten heel koud is of de vraag hoog is. Daardoor werkt Quatt ook in matig geïsoleerde woningen (label C en D). Quatt beoordeelt zelf of jouw woning geschikt is bij de intake."
-  - q: "Hoe snel is Quatt geïnstalleerd?"
-    a: "Quatt claimt installatie op één dag. Op basis van ervaringen van gebruikers klopt dat voor de meeste woningen. De buitenunit wordt geplaatst, de binnenunit (warmtewisselaar) wordt gekoppeld aan de cv-ketel, en alles wordt digitaal ingeregeld. Je hebt direct warm water en verwarming."
-  - q: "Wat gebeurt er als Quatt failliet gaat?"
-    a: "Dit is een reëel risico bij een jong bedrijf. Quatt is opgericht in 2020 en heeft investeringen opgehaald, maar is nog niet winstgevend. Als het bedrijf failliet gaat terwijl jij een actief abonnement hebt, hangt het van de curator af wat er met de hardware en het contract gebeurt. Vraag dit expliciet na voor je tekent."
-  - q: "Krijg ik ISDE-subsidie bij een Quatt abonnement?"
-    a: "Nee. Omdat jij de warmtepomp niet koopt maar huurt, is de eigendom niet van jou — Quatt is de eigenaar. Daardoor kom je niet in aanmerking voor de ISDE-subsidie van RVO. Dit is een concreet financieel nadeel ten opzichte van kopen."
+- q: Wat kost Quatt per maand?
+  a: Quatt Connect kost €59 per maand voor het basis-abonnement, €79 voor het standaard-abonnement en €99 voor premium (inclusief meer monitoring en onderhoud). De contractduur is minimaal 10 jaar. Er is geen aanbetaling vereist — Quatt installeert de warmtepomp kosteloos en rekent alles in via de maandelijkse fee.
+- q: Hoeveel bespaar ik met Quatt ten opzichte van gas?
+  a: Quatt claimit een gasbesparing van 50 tot 70% voor een gemiddeld huishouden. Bij 2.000 m³ gasverbruik en een gasprijs van €1,05/m³ betekent dat €1.050 tot €1.470 bruto besparing per jaar. Trek daar de abonnementskosten (€708–€1.188/jaar) en de extra elektriciteitskosten af, dan houd je circa €0 tot €400 netto per jaar over — afhankelijk van je abonnement en verbruik.
+- q: Is Quatt goedkoper dan een warmtepomp kopen?
+  a: Over 10 jaar betaal je met Quatt Connect Standaard (€79/mnd) in totaal €9.480 aan abonnementskosten, exclusief eventuele extra kosten. Een vergelijkbare ATAG of Daikin hybride warmtepomp kost €5.000–€6.500 netto na ISDE-subsidie, met een jaarlijks onderhoudscontract van €150–€250. Kopen is bijna altijd goedkoper over 10 jaar.
+- q: Kan ik Quatt vroegtijdig opzeggen?
+  a: Ja, maar er zijn exitkosten. Quatt hanteert een afkoopregeling die afloopt naarmate het contract ouder is. In het eerste jaar zijn de kosten het hoogst — volgens ervaringen van gebruikers is dat circa €2.000 tot €3.500 afhankelijk van het moment. Lees het contract goed door voor je tekent.
+- q: Werkt Quatt in een slecht geïsoleerde woning?
+  a: 'Quatt is een hybride warmtepomp: hij werkt samen met de bestaande cv-ketel. De ketel springt bij als het buiten heel koud is of de vraag hoog is. Daardoor werkt Quatt ook in matig geïsoleerde woningen (label C en D). Quatt beoordeelt zelf of jouw woning geschikt is bij de intake.'
+- q: Hoe snel is Quatt geïnstalleerd?
+  a: Quatt claimt installatie op één dag. Op basis van ervaringen van gebruikers klopt dat voor de meeste woningen. De buitenunit wordt geplaatst, de binnenunit (warmtewisselaar) wordt gekoppeld aan de cv-ketel, en alles wordt digitaal ingeregeld. Je hebt direct warm water en verwarming.
+- q: Wat gebeurt er als Quatt failliet gaat?
+  a: Dit is een reëel risico bij een jong bedrijf. Quatt is opgericht in 2020 en heeft investeringen opgehaald, maar is nog niet winstgevend. Als het bedrijf failliet gaat terwijl jij een actief abonnement hebt, hangt het van de curator af wat er met de hardware en het contract gebeurt. Vraag dit expliciet na voor je tekent.
+- q: Krijg ik ISDE-subsidie bij een Quatt abonnement?
+  a: Nee. Omdat jij de warmtepomp niet koopt maar huurt, is de eigendom niet van jou — Quatt is de eigenaar. Daardoor kom je niet in aanmerking voor de ISDE-subsidie van RVO. Dit is een concreet financieel nadeel ten opzichte van kopen.
 products:
-  - name: "Quatt Connect abonnement"
-    url: "https://go.duurzaamthuislab.nl/quatt"
-    price: "79"
-  - name: "ATAG ENERGION hybride (vergelijking)"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "7500"
+- name: Quatt Connect abonnement
+  url: https://go.duurzaamthuislab.nl/quatt
+  price: '79'
+- name: ATAG ENERGION hybride (vergelijking)
+  url: https://go.duurzaamthuislab.nl/atag
+  price: '7500'
+schema_type: Review
 ---
 
 Vorige zomer spraken mijn vrouw en ik onze vrienden Tom en Petra bij. Tom had net een warmtepomp laten installeren — hij straalde. "Geen aanbetaling, alles geregeld, en ze monitoren hem zelf op afstand. Ik heb er geen omkijken naar." Hij betaalde €79 per maand. Quatt.

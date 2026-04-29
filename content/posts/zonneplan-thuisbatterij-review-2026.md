@@ -1,45 +1,59 @@
 ---
-title: "Zonneplan thuisbatterij review 2026"
-date: 2026-05-06T08:00:00+02:00
-lastmod: 2026-05-06T08:00:00+02:00
-description: "Zonneplan biedt thuisbatterijen via lease en koop. Volledige review van het systeem, app, kosten en service na 6 maanden testen. Wel of niet kiezen?"
-categories: ["thuisbatterijen", "zonne-energie"]
-tags: ["Zonneplan", "thuisbatterij", "review", "lease", "Zonneplan radar"]
-keywords: ["zonneplan review", "zonneplan thuisbatterij", "zonneplan lease", "zonneplan ervaringen", "zonneplan radar", "zonneplan batterij prijs"]
+title: Zonneplan thuisbatterij review 2026
+date: 2026-05-06 08:00:00+02:00
+lastmod: 2026-05-06 08:00:00+02:00
+description: Zonneplan biedt thuisbatterijen via lease en koop. Volledige review van het systeem, app, kosten en service na 6 maanden testen. Wel of niet kiezen?
+categories:
+- thuisbatterijen
+- zonne-energie
+tags:
+- Zonneplan
+- thuisbatterij
+- review
+- lease
+- Zonneplan radar
+keywords:
+- zonneplan review
+- zonneplan thuisbatterij
+- zonneplan lease
+- zonneplan ervaringen
+- zonneplan radar
+- zonneplan batterij prijs
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is Zonneplan?"
-    a: "Zonneplan is een Nederlands energie-abonnement-bedrijf opgericht in 2019. Ze verkopen of leasen zonnepanelen, thuisbatterijen, laadpalen en hebben een eigen energiecontract met dynamische tarieven. Hun kracht: alle componenten in één pakket, met één abonnement en één app."
-  - q: "Wat kost een Zonneplan thuisbatterij?"
-    a: "Bij koop: vanaf €4.495 voor 5 kWh, €6.995 voor 10 kWh, €9.995 voor 15 kWh — inclusief installatie. Bij lease: €34/maand voor 5 kWh, €54/maand voor 10 kWh — inclusief installatie, onderhoud, garantie 10 jaar en abonnement op Radar (handelsalgoritme)."
-  - q: "Werkt de batterij zelfstandig zoals Sessy?"
-    a: "Ja, via 'Zonneplan Radar' — hun handelsalgoritme dat automatisch koopt als stroom goedkoop is en verkoopt als duur. Werkt alleen op een Zonneplan dynamisch contract. Vergelijkbaar met Sessy, maar dan binnen Zonneplan's ecosysteem."
-  - q: "Is Zonneplan lease verstandig?"
-    a: "Soms ja, soms nee. Voordelen: geen grote investering, alles inclusief, makkelijk opzegbaar (na min. 1 jaar). Nadelen: over 10 jaar betaal je €4.080 voor 10 kWh — duurder dan koop (€6.995). Maar lease beschermt je tegen technologische veroudering en je hebt geen risico bij defect. Voor mensen die niet €7.000 in één keer willen uitgeven: prima oplossing."
-  - q: "Hoe verhoudt Zonneplan zich tot Sessy of Tesla Powerwall?"
-    a: "Zonneplan biedt een geïntegreerd pakket (panelen + batterij + contract + app) terwijl Sessy en Tesla losse producten zijn. Voor wie alles van één partij wil: Zonneplan is logisch. Voor wie zelf wil samenstellen: kies Sessy + Tibber, of Tesla + losse leverancier. Pure batterij-kwaliteit per euro: Sessy iets beter."
-  - q: "Wat is Zonneplan Radar?"
-    a: "Radar is Zonneplan's handelsalgoritme dat namens jou de thuisbatterij stuurt op de dynamische energiemarkt. Het laadt op bij lage prijzen, ontlaadt bij hoge. Verdient gemiddeld €60-€120 per maand bovenop normale eigen-verbruik-besparing. Vereist Zonneplan's eigen dynamisch contract."
-  - q: "Krijg ik garantie?"
-    a: "10 jaar productgarantie op de batterij, 10 jaar capaciteitsgarantie (80% behoud na 10 jaar). Bij lease: alles geregeld, defect = vervangen door Zonneplan binnen 5 werkdagen. Bij koop: zelf garantie claimen, maar Zonneplan handelt het af voor je."
-  - q: "Wat zijn de nadelen van Zonneplan?"
-    a: "Drie hoofdnadelen: (1) lock-in in Zonneplan's ecosysteem (overstappen naar andere leverancier vereist dat Radar wordt uitgeschakeld, halveert je voordeel), (2) duurder dan losse oplossing als je zelf samenstelt, (3) minder fijn-tunbaar dan zelf bouwen met Home Assistant."
+- q: Wat is Zonneplan?
+  a: 'Zonneplan is een Nederlands energie-abonnement-bedrijf opgericht in 2019. Ze verkopen of leasen zonnepanelen, thuisbatterijen, laadpalen en hebben een eigen energiecontract met dynamische tarieven. Hun kracht: alle componenten in één pakket, met één abonnement en één app.'
+- q: Wat kost een Zonneplan thuisbatterij?
+  a: 'Bij koop: vanaf €4.495 voor 5 kWh, €6.995 voor 10 kWh, €9.995 voor 15 kWh — inclusief installatie. Bij lease: €34/maand voor 5 kWh, €54/maand voor 10 kWh — inclusief installatie, onderhoud, garantie 10 jaar en abonnement op Radar (handelsalgoritme).'
+- q: Werkt de batterij zelfstandig zoals Sessy?
+  a: Ja, via 'Zonneplan Radar' — hun handelsalgoritme dat automatisch koopt als stroom goedkoop is en verkoopt als duur. Werkt alleen op een Zonneplan dynamisch contract. Vergelijkbaar met Sessy, maar dan binnen Zonneplan's ecosysteem.
+- q: Is Zonneplan lease verstandig?
+  a: 'Soms ja, soms nee. Voordelen: geen grote investering, alles inclusief, makkelijk opzegbaar (na min. 1 jaar). Nadelen: over 10 jaar betaal je €4.080 voor 10 kWh — duurder dan koop (€6.995). Maar lease beschermt je tegen technologische veroudering en je hebt geen risico bij defect. Voor mensen die niet €7.000 in één keer willen uitgeven: prima oplossing.'
+- q: Hoe verhoudt Zonneplan zich tot Sessy of Tesla Powerwall?
+  a: 'Zonneplan biedt een geïntegreerd pakket (panelen + batterij + contract + app) terwijl Sessy en Tesla losse producten zijn. Voor wie alles van één partij wil: Zonneplan is logisch. Voor wie zelf wil samenstellen: kies Sessy + Tibber, of Tesla + losse leverancier. Pure batterij-kwaliteit per euro: Sessy iets beter.'
+- q: Wat is Zonneplan Radar?
+  a: Radar is Zonneplan's handelsalgoritme dat namens jou de thuisbatterij stuurt op de dynamische energiemarkt. Het laadt op bij lage prijzen, ontlaadt bij hoge. Verdient gemiddeld €60-€120 per maand bovenop normale eigen-verbruik-besparing. Vereist Zonneplan's eigen dynamisch contract.
+- q: Krijg ik garantie?
+  a: '10 jaar productgarantie op de batterij, 10 jaar capaciteitsgarantie (80% behoud na 10 jaar). Bij lease: alles geregeld, defect = vervangen door Zonneplan binnen 5 werkdagen. Bij koop: zelf garantie claimen, maar Zonneplan handelt het af voor je.'
+- q: Wat zijn de nadelen van Zonneplan?
+  a: 'Drie hoofdnadelen: (1) lock-in in Zonneplan''s ecosysteem (overstappen naar andere leverancier vereist dat Radar wordt uitgeschakeld, halveert je voordeel), (2) duurder dan losse oplossing als je zelf samenstelt, (3) minder fijn-tunbaar dan zelf bouwen met Home Assistant.'
 products:
-  - name: "Zonneplan thuisbatterij 10 kWh"
-    url: "https://www.zonneplan.nl/thuisbatterij"
-    price: "6995"
-  - name: "Zonneplan lease 10 kWh"
-    url: "https://www.zonneplan.nl/thuisbatterij/lease"
-    price: "54"
-  - name: "Sessy 10 kWh (alternatief)"
-    url: "https://sessy.nl/"
-    price: "5995"
-  - name: "Tibber dynamisch (alternatief contract)"
-    url: "https://tibber.com/nl"
-    price: "6"
+- name: Zonneplan thuisbatterij 10 kWh
+  url: https://www.zonneplan.nl/thuisbatterij
+  price: '6995'
+- name: Zonneplan lease 10 kWh
+  url: https://www.zonneplan.nl/thuisbatterij/lease
+  price: '54'
+- name: Sessy 10 kWh (alternatief)
+  url: https://sessy.nl/
+  price: '5995'
+- name: Tibber dynamisch (alternatief contract)
+  url: https://tibber.com/nl
+  price: '6'
+schema_type: Review
 ---
 
 Mijn schoonzus belde me in september. "Mark, zou je een keer naar Zonneplan willen kijken? Ze stuurden me een offerte voor een thuisbatterij + paneel-uitbreiding voor €450/maand lease. Klinkt veel."

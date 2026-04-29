@@ -1,37 +1,42 @@
 ---
-title: "Energiekosten calculator 2027: bereken jouw saldering-impact"
-date: 2026-04-29T10:00:00+02:00
-lastmod: 2026-04-29T10:00:00+02:00
-description: "Hoeveel kost de saldering-stop jou? Vul jouw kWh-verbruik en zonnepanelen-capaciteit in en zie het €/jaar verschil 2026 vs 2027 direct."
-categories: ["tools", "zonne-energie", "besparen"]
-tags: ["saldering calculator", "energiebesparing berekenen", "saldering 2027", "thuisbatterij rendabel", "zonnepanelen kosten 2027"]
-keywords: ["energiebesparing calculator 2027", "saldering stop berekenen", "saldering 2027 hoeveel", "thuisbatterij rendabel berekenen", "zonnepanelen verlies 2027 calculator"]
+title: 'Energiekosten calculator 2027: bereken jouw saldering-impact'
+date: 2026-04-29 10:00:00+02:00
+lastmod: 2026-04-29 10:00:00+02:00
+description: Hoeveel kost de saldering-stop jou? Vul jouw kWh-verbruik en zonnepanelen-capaciteit in en zie het €/jaar verschil 2026 vs 2027 direct.
+categories:
+- tools
+- zonne-energie
+- besparen
+tags:
+- saldering calculator
+- energiebesparing berekenen
+- saldering 2027
+- thuisbatterij rendabel
+- zonnepanelen kosten 2027
+keywords:
+- energiebesparing calculator 2027
+- saldering stop berekenen
+- saldering 2027 hoeveel
+- thuisbatterij rendabel berekenen
+- zonnepanelen verlies 2027 calculator
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1580893246395-52aead8960dc&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1580893246395-52aead8960dc&w=1200&output=webp&q=70
 faq:
-  - q: "Hoe nauwkeurig is deze calculator?"
-    a: "De calculator gebruikt gemiddelde percentages voor eigen verbruik en teruglevering op basis van Nederlandse huishoudprofielen. Jouw werkelijke verhouding kan afwijken — je vindt de exacte getallen in jouw slimme meter of energieapp. Vul die in voor de meest accurate uitkomst."
-  - q: "Wat is een realistisch terugleveringspercentage?"
-    a: "Voor een gemiddeld gezin dat overdag thuis is, gaat circa 30-40% van de zonne-opbrengst direct naar eigen gebruik. De rest (60-70%) wordt teruggeleverd. Werkt iedereen overdag buiten de deur? Dan kan dat 70-80% teruglevering zijn. Kinderen thuis, warmtepomp aan overdag? Dan eerder 40-50%."
-  - q: "Wat zijn de terugleverkosten die ik ook mee moet tellen?"
-    a: "Grote leveranciers rekenen in 2026 al €5-€30 per maand extra als je terugleverd boven een drempel. Deze kosten zitten niet in de calculator — voeg ze handmatig toe als je weet wat jouw leverancier rekent. Dat maakt het werkelijke verschil 2026 vs 2027 nog groter."
-  - q: "Is de thuisbatterij-aanbeveling altijd correct?"
-    a: "De calculator hanteert een vereenvoudigde ROI-berekening. Een thuisbatterij is interessant als de terugverdientijd onder de 12 jaar ligt — maar dat hangt ook af van je specifieke gebruik, energieprijsontwikkeling en of je ISDE-subsidie kunt aanvragen. Zie de tabel in het artikel voor meer scenario's."
+- q: Wat zijn de belangrijkste voordelen?
+  a: De voordelen staan in detail uitgelegd in de bovenstaande secties.
 products:
-  - name: "Sessy 5 kWh thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3795"
-  - name: "Marstek Venus thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/marstek"
-    price: "3200"
-  - name: "Tibber dynamisch contract"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "6"
-faq:
-  - q: "Wat zijn de belangrijkste voordelen?"
-    a: "De voordelen staan in detail uitgelegd in de bovenstaande secties."
+- name: Sessy 5 kWh thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '3795'
+- name: Marstek Venus thuisbatterij
+  url: https://go.duurzaamthuislab.nl/marstek
+  price: '3200'
+- name: Tibber dynamisch contract
+  url: https://go.duurzaamthuislab.nl/tibber
+  price: '6'
+schema_type: Article
 ---
 
 De saldering stopt per 1 januari 2027. Maar hoeveel kost dat jou specifiek? Dat hangt af van hoeveel zonnepanelen je hebt, hoeveel je terugleverd en of je een dynamisch contract hebt. Vul hieronder jouw gegevens in en je ziet het verschil in seconden.

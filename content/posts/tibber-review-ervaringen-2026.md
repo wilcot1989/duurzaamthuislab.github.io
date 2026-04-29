@@ -1,42 +1,55 @@
 ---
-title: "Tibber review 2026: mijn ervaringen na 18 maanden dynamisch"
-date: 2026-05-04T08:00:00+02:00
-lastmod: 2026-05-04T08:00:00+02:00
-description: "Volledige Tibber review na 18 maanden gebruik in een Nederlands huishouden met zonnepanelen. App, slim laden, klantenservice, cijfers."
-categories: ["energie"]
-tags: ["Tibber", "dynamisch contract", "review", "energieleverancier", "smart EV charging"]
-keywords: ["tibber review", "tibber ervaringen", "tibber nederland", "tibber dynamisch contract", "tibber app", "is tibber goed"]
+title: 'Tibber review 2026: mijn ervaringen na 18 maanden dynamisch'
+date: 2026-05-04 08:00:00+02:00
+lastmod: 2026-05-04 08:00:00+02:00
+description: Volledige Tibber review na 18 maanden gebruik in een Nederlands huishouden met zonnepanelen. App, slim laden, klantenservice, cijfers.
+categories:
+- energie
+tags:
+- Tibber
+- dynamisch contract
+- review
+- energieleverancier
+- smart EV charging
+keywords:
+- tibber review
+- tibber ervaringen
+- tibber nederland
+- tibber dynamisch contract
+- tibber app
+- is tibber goed
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is Tibber precies?"
-    a: "Tibber is een Noorse energieleverancier die actief is in Nederland sinds 2021. Ze leveren stroom op een dynamisch contract — je betaalt elk uur de actuele marktprijs in plaats van een vast tarief. Tibber rekent geen marge bovenop de marktprijs maar verdient via een vast servicegeld van €5,99/maand."
-  - q: "Hoe werkt slim laden bij Tibber?"
-    a: "Tibber's app verbindt met je EV (direct via API, of via een Tibber Pulse + slimme laadpaal). De app laadt automatisch wanneer de stroomprijs het laagst is in een door jou gekozen tijdvenster. Voor een EV-bezitter levert dit vaak €30-€60 per maand op vergeleken met laden op pieke avond-uren."
-  - q: "Is Tibber duurder dan een vast contract?"
-    a: "In 2024 niet, in 2025 niet, in 2026 ook niet — gemiddeld is Tibber 15-25% goedkoper dan een vergelijkbaar vast contract. Wel pieken: tijdens een winterstorm kan het 4u lang €0,80/kWh zijn. Met smart-home automation merk je daar weinig van."
-  - q: "Wat zijn de nadelen van Tibber?"
-    a: "Drie nadelen: (1) servicegeld €5,99/mnd zelfs als je weinig verbruikt, (2) klantenservice vooral via chat — geen telefonisch contact behalve voor noodgevallen, (3) geen vaste tarieven — onvoorspelbaarheid in dure maanden kan stressen voor wie strakke budgetcontrole wil."
-  - q: "Werkt Tibber met zonnepanelen?"
-    a: "Ja, perfect. Tibber rekent geen aparte terugleverkosten zoals Eneco of Vattenfall doen. Bij teruglevering krijg je het uurtarief — vaak €0,15-€0,25/kWh in normale uren, maar soms negatief tijdens zonneoverschot. De app houdt alles bij en je ziet realtime wat je verdient."
-  - q: "Heb ik een Pulse nodig?"
-    a: "De Tibber Pulse (€90 eenmalig) is een sensor op je slimme meter die realtime data leest. Niet verplicht — de app werkt ook zonder via dagelijkse uitlezingen via netbeheerder. Wel beperkt slim laden zonder Pulse: realtime sturing op verbruik werkt alleen mét Pulse."
-  - q: "Hoe overstap ik?"
-    a: "Via de Tibber app of website. Vul postcode + huisnummer in, kies start-datum (meestal 1e van volgende maand). Tibber regelt opzegging bij vorige leverancier automatisch. Ben je in een lopend vast contract? Check eerst de boete — bij Eneco/Vattenfall vaak €100-€150 voor vroegtijdig stoppen."
-  - q: "Hoe stop ik met Tibber als het me niet bevalt?"
-    a: "Eenvoudig: via de app of email. Opzegtermijn 1 maand. Geen boete. Je servicegeld stopt direct, je leveringsovereenkomst eindigt aan het einde van die maand."
+- q: Wat is Tibber precies?
+  a: Tibber is een Noorse energieleverancier die actief is in Nederland sinds 2021. Ze leveren stroom op een dynamisch contract — je betaalt elk uur de actuele marktprijs in plaats van een vast tarief. Tibber rekent geen marge bovenop de marktprijs maar verdient via een vast servicegeld van €5,99/maand.
+- q: Hoe werkt slim laden bij Tibber?
+  a: Tibber's app verbindt met je EV (direct via API, of via een Tibber Pulse + slimme laadpaal). De app laadt automatisch wanneer de stroomprijs het laagst is in een door jou gekozen tijdvenster. Voor een EV-bezitter levert dit vaak €30-€60 per maand op vergeleken met laden op pieke avond-uren.
+- q: Is Tibber duurder dan een vast contract?
+  a: 'In 2024 niet, in 2025 niet, in 2026 ook niet — gemiddeld is Tibber 15-25% goedkoper dan een vergelijkbaar vast contract. Wel pieken: tijdens een winterstorm kan het 4u lang €0,80/kWh zijn. Met smart-home automation merk je daar weinig van.'
+- q: Wat zijn de nadelen van Tibber?
+  a: 'Drie nadelen: (1) servicegeld €5,99/mnd zelfs als je weinig verbruikt, (2) klantenservice vooral via chat — geen telefonisch contact behalve voor noodgevallen, (3) geen vaste tarieven — onvoorspelbaarheid in dure maanden kan stressen voor wie strakke budgetcontrole wil.'
+- q: Werkt Tibber met zonnepanelen?
+  a: Ja, perfect. Tibber rekent geen aparte terugleverkosten zoals Eneco of Vattenfall doen. Bij teruglevering krijg je het uurtarief — vaak €0,15-€0,25/kWh in normale uren, maar soms negatief tijdens zonneoverschot. De app houdt alles bij en je ziet realtime wat je verdient.
+- q: Heb ik een Pulse nodig?
+  a: 'De Tibber Pulse (€90 eenmalig) is een sensor op je slimme meter die realtime data leest. Niet verplicht — de app werkt ook zonder via dagelijkse uitlezingen via netbeheerder. Wel beperkt slim laden zonder Pulse: realtime sturing op verbruik werkt alleen mét Pulse.'
+- q: Hoe overstap ik?
+  a: Via de Tibber app of website. Vul postcode + huisnummer in, kies start-datum (meestal 1e van volgende maand). Tibber regelt opzegging bij vorige leverancier automatisch. Ben je in een lopend vast contract? Check eerst de boete — bij Eneco/Vattenfall vaak €100-€150 voor vroegtijdig stoppen.
+- q: Hoe stop ik met Tibber als het me niet bevalt?
+  a: 'Eenvoudig: via de app of email. Opzegtermijn 1 maand. Geen boete. Je servicegeld stopt direct, je leveringsovereenkomst eindigt aan het einde van die maand.'
 products:
-  - name: "Tibber dynamisch contract"
-    url: "https://tibber.com/nl"
-    price: "6"
-  - name: "Tibber Pulse"
-    url: "https://tibber.com/nl/store/product/pulse"
-    price: "90"
-  - name: "Frank Energie (alternatief)"
-    url: "https://www.frankenergie.nl/"
-    price: "0"
+- name: Tibber dynamisch contract
+  url: https://tibber.com/nl
+  price: '6'
+- name: Tibber Pulse
+  url: https://tibber.com/nl/store/product/pulse
+  price: '90'
+- name: Frank Energie (alternatief)
+  url: https://www.frankenergie.nl/
+  price: '0'
+schema_type: Review
 ---
 
 In oktober 2024 stapte ik over naar Tibber. Mijn Frank Energie-contract liep af, en ik wilde testen of Tibber's slim-laden-feature voor EV's en smart home echt het verschil maakte dat de marketing belooft. Achttien maanden later kan ik een eerlijk oordeel vellen.

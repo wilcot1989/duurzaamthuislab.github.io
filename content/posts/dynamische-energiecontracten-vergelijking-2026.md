@@ -1,41 +1,53 @@
 ---
-title: "Dynamische Energiecontracten Vergelijking 2026"
-date: 2026-04-14T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Vergelijking van de beste dynamische energiecontracten in 2026. Tibber, ANWB Energie, Frank Energie en meer. Kosten, apps en bespaarpotentieel."
-categories: ["energie"]
-tags: ["dynamisch energiecontract", "Tibber", "Frank Energie", "ANWB Energie", "energieleverancier"]
-keywords: ["dynamisch energiecontract", "Tibber review", "ANWB Energie", "Frank Energie", "dynamische stroom"]
+title: Dynamische Energiecontracten Vergelijking 2026
+date: 2026-04-14 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Vergelijking van de beste dynamische energiecontracten in 2026. Tibber, ANWB Energie, Frank Energie en meer. Kosten, apps en bespaarpotentieel.
+categories:
+- energie
+tags:
+- dynamisch energiecontract
+- Tibber
+- Frank Energie
+- ANWB Energie
+- energieleverancier
+keywords:
+- dynamisch energiecontract
+- Tibber review
+- ANWB Energie
+- Frank Energie
+- dynamische stroom
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is een dynamisch energiecontract?"
-    a: "Bij een dynamisch energiecontract betaal je de actuele uurprijs voor stroom op de Europese energiebeurs (EPEX). De prijs wisselt elk uur en kan zelfs negatief worden (dan krijg je geld toe). Je ziet een dag van tevoren wat de prijzen per uur worden."
-  - q: "Hoeveel bespaar je met een dynamisch energiecontract?"
-    a: "Gemiddeld bespaar je 10-25% ten opzichte van een vast contract, mits je je verbruik aanpast aan de prijzen. Met een thuisbatterij of elektrische auto kan de besparing oplopen tot 30-40%. Bij een gemiddeld huishouden is dat €200-€500 per jaar."
-  - q: "Is een dynamisch contract geschikbaar voor iedereen?"
-    a: "Een dynamisch contract is vooral voordelig als je flexibel bent in wanneer je stroom verbruikt en als je een slimme meter hebt. Het is minder geschikt als je een vast budget wilt en niet bereid bent je verbruik aan te passen."
-  - q: "Welke dynamische energieleverancier is het goedkoopst?"
-    a: "De goedkoopste leverancier hangt af van de maandelijkse vaste kosten en opslag per kWh. EasyEnergy en Zonneplan rekenen geen opslag maar hogere vaste kosten. Tibber en Frank Energie rekenen een kleine opslag maar lagere vaste kosten. Op jaarbasis scheelt het €50-€150 tussen leveranciers."
-  - q: "Heb ik een slimme meter nodig voor een dynamisch contract?"
-    a: "Ja, een slimme meter is verplicht voor een dynamisch energiecontract. Netbeheerders zoals Liander, Stedin en Enexis plaatsen slimme meters gratis. Als je nog een oude meter hebt, kun je via je netbeheerder een slimme meter aanvragen."
-  - q: "Kan ik met een dynamisch contract en thuisbatterij geld verdienen?"
-    a: "In theorie ja. Door stroom te kopen wanneer de prijs laag of negatief is en te gebruiken (of terug te leveren) wanneer de prijs hoog is, kun je het prijsverschil benutten. In de praktijk levert dit met een thuisbatterij €100-€300 extra per jaar op, afhankelijk van de batterijcapaciteit en de prijsschommelingen."
+- q: Wat is een dynamisch energiecontract?
+  a: Bij een dynamisch energiecontract betaal je de actuele uurprijs voor stroom op de Europese energiebeurs (EPEX). De prijs wisselt elk uur en kan zelfs negatief worden (dan krijg je geld toe). Je ziet een dag van tevoren wat de prijzen per uur worden.
+- q: Hoeveel bespaar je met een dynamisch energiecontract?
+  a: Gemiddeld bespaar je 10-25% ten opzichte van een vast contract, mits je je verbruik aanpast aan de prijzen. Met een thuisbatterij of elektrische auto kan de besparing oplopen tot 30-40%. Bij een gemiddeld huishouden is dat €200-€500 per jaar.
+- q: Is een dynamisch contract geschikbaar voor iedereen?
+  a: Een dynamisch contract is vooral voordelig als je flexibel bent in wanneer je stroom verbruikt en als je een slimme meter hebt. Het is minder geschikt als je een vast budget wilt en niet bereid bent je verbruik aan te passen.
+- q: Welke dynamische energieleverancier is het goedkoopst?
+  a: De goedkoopste leverancier hangt af van de maandelijkse vaste kosten en opslag per kWh. EasyEnergy en Zonneplan rekenen geen opslag maar hogere vaste kosten. Tibber en Frank Energie rekenen een kleine opslag maar lagere vaste kosten. Op jaarbasis scheelt het €50-€150 tussen leveranciers.
+- q: Heb ik een slimme meter nodig voor een dynamisch contract?
+  a: Ja, een slimme meter is verplicht voor een dynamisch energiecontract. Netbeheerders zoals Liander, Stedin en Enexis plaatsen slimme meters gratis. Als je nog een oude meter hebt, kun je via je netbeheerder een slimme meter aanvragen.
+- q: Kan ik met een dynamisch contract en thuisbatterij geld verdienen?
+  a: In theorie ja. Door stroom te kopen wanneer de prijs laag of negatief is en te gebruiken (of terug te leveren) wanneer de prijs hoog is, kun je het prijsverschil benutten. In de praktijk levert dit met een thuisbatterij €100-€300 extra per jaar op, afhankelijk van de batterijcapaciteit en de prijsschommelingen.
 products:
-  - name: "Tibber"
-    url: "https://tibber.com/nl"
-    price: "6"
-  - name: "Frank Energie"
-    url: "https://www.frankenergie.nl/"
-    price: "5"
-  - name: "ANWB Energie"
-    url: "https://www.anwb.nl/huis/energie"
-    price: "6"
-  - name: "Zonneplan ONE"
-    url: "https://zonneplan.nl/energie"
-    price: "6"
+- name: Tibber
+  url: https://tibber.com/nl
+  price: '6'
+- name: Frank Energie
+  url: https://www.frankenergie.nl/
+  price: '5'
+- name: ANWB Energie
+  url: https://www.anwb.nl/huis/energie
+  price: '6'
+- name: Zonneplan ONE
+  url: https://zonneplan.nl/energie
+  price: '6'
+schema_type: Article
 ---
 
 Ik ben zelf Frank Energie-klant (overgegaan van Tibber in mei 2025) en betaal inmiddels gemiddeld €0,18/kWh — inclusief de uren dat ik bewust mijn wasmachine en Huawei Luna thuisbatterij laat draaien op goedkope nachtstroom. Maar is Tibber echt de beste keuze, of laat ik geld liggen bij Frank Energie of ANWB Energie? Ik heb de tarieven, apps en functies van de belangrijkste dynamische leveranciers naast elkaar gelegd.

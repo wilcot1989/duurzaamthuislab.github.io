@@ -1,40 +1,52 @@
 ---
-title: "Jackery Explorer 2000 Plus Review 2026"
-date: 2026-03-02T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Uitgebreide Jackery Explorer 2000 Plus review. LiFePO4, 3000W output, uitbreidbaar tot 24kWh. Specs, test en eerlijk oordeel."
-categories: ["powerstations"]
-tags: ["Jackery", "Explorer 2000 Plus", "powerstation review", "LiFePO4", "uitbreidbaar powerstation"]
-keywords: ["jackery explorer 2000 plus review", "jackery 2000 plus test", "jackery review", "jackery explorer 2000 plus ervaringen", "jackery 2000 plus specs"]
+title: Jackery Explorer 2000 Plus Review 2026
+date: 2026-03-02 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Uitgebreide Jackery Explorer 2000 Plus review. LiFePO4, 3000W output, uitbreidbaar tot 24kWh. Specs, test en eerlijk oordeel.
+categories:
+- powerstations
+tags:
+- Jackery
+- Explorer 2000 Plus
+- powerstation review
+- LiFePO4
+- uitbreidbaar powerstation
+keywords:
+- jackery explorer 2000 plus review
+- jackery 2000 plus test
+- jackery review
+- jackery explorer 2000 plus ervaringen
+- jackery 2000 plus specs
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
-  - q: "Is de Jackery Explorer 2000 Plus een goed powerstation?"
-    a: "Ja. Met 2042Wh, 3000W continu vermogen, LiFePO4-batterij en uitbreidbaarheid tot 24kWh is het een van de krachtigste en meest flexibele powerstations op de markt."
-  - q: "Hoe breid je de Jackery 2000 Plus uit?"
-    a: "Je kunt maximaal vijf Jackery Battery Pack 2000 Plus modules aansluiten op de Explorer 2000 Plus. Elke module voegt 2042Wh toe, waardoor je totaal op 12.252Wh (ruim 12kWh) komt. Met twee Explorer units en extra batterijen bereik je 24kWh."
-  - q: "Wat is ChargeShield technologie?"
-    a: "ChargeShield is Jackery's geavanceerde batterijmanagementsysteem dat de laadsnelheid, temperatuur en spanning continu bewaakt en optimaliseert. Dit verlengt de levensduur van de batterij aanzienlijk."
-  - q: "Hoe zwaar is de Jackery Explorer 2000 Plus?"
-    a: "De Explorer 2000 Plus weegt 27,9 kg. Dat is aan de zware kant, maar dankzij de robuuste inklapbare handgreep en de wielen (optionele accessoire) is transport goed te doen."
-  - q: "Kan de Jackery 2000 Plus een airco aansturen?"
-    a: "Dat hangt af van de airco. Met 3000W continu vermogen en 6000W piekvermogen kan de Explorer 2000 Plus veel draagbare airco-units aan. Controleer altijd het vereiste vermogen van je specifieke model."
-  - q: "Hoe verhoudt de Jackery 2000 Plus zich tot de EcoFlow Delta 2 Max?"
-    a: "De Jackery biedt meer vermogen (3000W vs 2400W) en grotere uitbreidbaarheid (tot 24kWh). De EcoFlow laadt sneller op en is lichter. Lees onze uitgebreide vergelijking in het artikel EcoFlow vs Jackery."
-  - q: "Hoe lang gaat de Jackery Explorer 2000 Plus mee?"
-    a: "De LiFePO4-batterij is geschikt voor 4000 laadcycli tot 70% restcapaciteit. Bij dagelijks gebruik is dat meer dan 10 jaar levensduur."
+- q: Is de Jackery Explorer 2000 Plus een goed powerstation?
+  a: Ja. Met 2042Wh, 3000W continu vermogen, LiFePO4-batterij en uitbreidbaarheid tot 24kWh is het een van de krachtigste en meest flexibele powerstations op de markt.
+- q: Hoe breid je de Jackery 2000 Plus uit?
+  a: Je kunt maximaal vijf Jackery Battery Pack 2000 Plus modules aansluiten op de Explorer 2000 Plus. Elke module voegt 2042Wh toe, waardoor je totaal op 12.252Wh (ruim 12kWh) komt. Met twee Explorer units en extra batterijen bereik je 24kWh.
+- q: Wat is ChargeShield technologie?
+  a: ChargeShield is Jackery's geavanceerde batterijmanagementsysteem dat de laadsnelheid, temperatuur en spanning continu bewaakt en optimaliseert. Dit verlengt de levensduur van de batterij aanzienlijk.
+- q: Hoe zwaar is de Jackery Explorer 2000 Plus?
+  a: De Explorer 2000 Plus weegt 27,9 kg. Dat is aan de zware kant, maar dankzij de robuuste inklapbare handgreep en de wielen (optionele accessoire) is transport goed te doen.
+- q: Kan de Jackery 2000 Plus een airco aansturen?
+  a: Dat hangt af van de airco. Met 3000W continu vermogen en 6000W piekvermogen kan de Explorer 2000 Plus veel draagbare airco-units aan. Controleer altijd het vereiste vermogen van je specifieke model.
+- q: Hoe verhoudt de Jackery 2000 Plus zich tot de EcoFlow Delta 2 Max?
+  a: De Jackery biedt meer vermogen (3000W vs 2400W) en grotere uitbreidbaarheid (tot 24kWh). De EcoFlow laadt sneller op en is lichter. Lees onze uitgebreide vergelijking in het artikel EcoFlow vs Jackery.
+- q: Hoe lang gaat de Jackery Explorer 2000 Plus mee?
+  a: De LiFePO4-batterij is geschikt voor 4000 laadcycli tot 70% restcapaciteit. Bij dagelijks gebruik is dat meer dan 10 jaar levensduur.
 products:
-  - name: "Jackery Explorer 2000 Plus"
-    url: "https://www.jackery.com/products/explorer-2000-plus-portable-power-station"
-    price: "2299"
-  - name: "EcoFlow Delta 2 Max"
-    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
-    price: "1899"
-  - name: "Bluetti AC200MAX"
-    url: "https://www.bluettipower.eu/products/ac200max"
-    price: "1899"
+- name: Jackery Explorer 2000 Plus
+  url: https://www.jackery.com/products/explorer-2000-plus-portable-power-station
+  price: '2299'
+- name: EcoFlow Delta 2 Max
+  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  price: '1899'
+- name: Bluetti AC200MAX
+  url: https://www.bluettipower.eu/products/ac200max
+  price: '1899'
+schema_type: Review
 ---
 
 3000W continu vermogen uit een draagbaar apparaat — de Jackery Explorer 2000 Plus is het krachtigste powerstation dat ik heb getest. Ik heb er een volledige dag mijn tuinhuis mee gevoed: cirkelzaag, verlichting en een bouwradio, en hij had nog 38% over. Met de optionele batterijpakketten kun je uitbreiden tot 24 kWh, waarmee je in de buurt komt van mijn vaste Huawei Luna thuisbatterij. Dit is mijn eerlijke oordeel.

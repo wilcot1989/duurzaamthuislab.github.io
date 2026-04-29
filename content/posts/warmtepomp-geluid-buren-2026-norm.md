@@ -1,37 +1,50 @@
 ---
-title: "Warmtepomp geluid buren 2026: 40dB norm"
-date: 2026-06-09T08:00:00+01:00
-lastmod: 2026-06-09T08:00:00+01:00
-description: "40dB regel, plaatsing erfgrens, juridische geschillen. Praktijkvoorbeelden van rechtszaken plus oplossingen."
-categories: ["warmtepompen"]
-tags: ["warmtepomp geluid", "40 dB norm", "erfgrens warmtepomp", "geluidsoverlast buren", "ATAG warmtepomp", "warmtepomp plaatsing"]
-keywords: ["warmtepomp geluid buren 2026", "warmtepomp 40 dB norm", "warmtepomp erfgrens afstand", "geluidsoverlast warmtepomp juridisch", "stille warmtepomp buiten unit"]
+title: 'Warmtepomp geluid buren 2026: 40dB norm'
+date: 2026-06-09 08:00:00+01:00
+lastmod: 2026-06-09 08:00:00+01:00
+description: 40dB regel, plaatsing erfgrens, juridische geschillen. Praktijkvoorbeelden van rechtszaken plus oplossingen.
+categories:
+- warmtepompen
+tags:
+- warmtepomp geluid
+- 40 dB norm
+- erfgrens warmtepomp
+- geluidsoverlast buren
+- ATAG warmtepomp
+- warmtepomp plaatsing
+keywords:
+- warmtepomp geluid buren 2026
+- warmtepomp 40 dB norm
+- warmtepomp erfgrens afstand
+- geluidsoverlast warmtepomp juridisch
+- stille warmtepomp buiten unit
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is de 40 dB-norm voor warmtepompen in Nederland?"
-    a: "De 40 dB(A)-norm is de maximale geluidsnorm die een warmtepomp-buitenunit mag produceren op de erfgrens of bij de gevel van het naburige perceel. Deze norm is vastgelegd in het Activiteitenbesluit en geldt specifiek voor warmtepompen bij woningen. Overschrijding kan juridisch worden aangevochten door buren."
-  - q: "Hoeveel dB maakt een moderne warmtepomp buitenunit?"
-    a: "Moderne warmtepompen (2023-2026) produceren bij vollas tussen 42 en 58 dB(A) op 1 meter afstand. Op grotere afstand neemt het geluid af met circa 6 dB per verdubbeling van de afstand. Op 3 meter afstand is een 52 dB(A)-unit circa 44 dB(A). Op 5 meter: circa 38 dB(A)."
-  - q: "Op welke afstand van de erfgrens moet ik mijn warmtepomp plaatsen?"
-    a: "Er is geen wettelijk vastgestelde minimale erfgrensafstand voor warmtepompen. Maar om te voldoen aan de 40 dB(A)-norm op de erfgrens, moet je de afstand berekenen op basis van het geluidsvermogen van je specifieke model. Als vuistregel: bij een unit van 52 dB(A) op 1 meter, heb je minimaal 3–4 meter afstand tot de erfgrens nodig om aan de norm te voldoen."
-  - q: "Mag de buur bezwaar maken als mijn warmtepomp te luid is?"
-    a: "Ja. Als de warmtepomp op de erfgrens meer dan 40 dB(A) produceert, kan de buur een klacht indienen bij de gemeente (handhaving Activiteitenbesluit). De gemeente kan een maatwerkbesluit opleggen waarbij je de warmtepomp stiller moet maken of verplaatsen. In extreme gevallen kan de rechter worden ingeschakeld."
-  - q: "Welke warmtepompen zijn het stilst in 2026?"
-    a: "De stilste buitenunits in 2026 zijn de ATAG Energion i (40–44 dB(A) bij normaal gebruik), Mitsubishi Ecodan Zubadan (44 dB(A)), Daikin Altherma 3 (45 dB(A)) en Vaillant aroTHERM plus (45 dB(A)). ATAG is hiermee een van de stilste opties voor een rijtjeshuis met beperkte tuin."
-  - q: "Hoe kan ik de warmtepomp stiller maken zonder hem te verplaatsen?"
-    a: "Effectieve maatregelen: anti-vibratiemat onder de buitenunit (vermindert geleidingsgeluid), geluidswerende schermen rondom de unit (3–8 dB reductie), richtingverandering van de uitblaasrichting weg van de erfgrens, en software-instellingen om het maximale geluidsvermogen te beperken (op kosten van COP)."
-  - q: "Geldt de 40 dB-norm ook voor warmtepompen in een appartement?"
-    a: "Voor appartementen gelden de normen van het Bouwbesluit voor luchtgeluid tussen woningen. Een warmtepomp die via structuurgeluid trillingen doorgeeft aan aangrenzende woningen valt onder geluidsoverlast-regelgeving. De 40 dB-norm is specifiek voor buitenruimten; binnenshuis gelden strengere normen (35 dB(A) in slaapkamers)."
+- q: Wat is de 40 dB-norm voor warmtepompen in Nederland?
+  a: De 40 dB(A)-norm is de maximale geluidsnorm die een warmtepomp-buitenunit mag produceren op de erfgrens of bij de gevel van het naburige perceel. Deze norm is vastgelegd in het Activiteitenbesluit en geldt specifiek voor warmtepompen bij woningen. Overschrijding kan juridisch worden aangevochten door buren.
+- q: Hoeveel dB maakt een moderne warmtepomp buitenunit?
+  a: 'Moderne warmtepompen (2023-2026) produceren bij vollas tussen 42 en 58 dB(A) op 1 meter afstand. Op grotere afstand neemt het geluid af met circa 6 dB per verdubbeling van de afstand. Op 3 meter afstand is een 52 dB(A)-unit circa 44 dB(A). Op 5 meter: circa 38 dB(A).'
+- q: Op welke afstand van de erfgrens moet ik mijn warmtepomp plaatsen?
+  a: 'Er is geen wettelijk vastgestelde minimale erfgrensafstand voor warmtepompen. Maar om te voldoen aan de 40 dB(A)-norm op de erfgrens, moet je de afstand berekenen op basis van het geluidsvermogen van je specifieke model. Als vuistregel: bij een unit van 52 dB(A) op 1 meter, heb je minimaal 3–4 meter afstand tot de erfgrens nodig om aan de norm te voldoen.'
+- q: Mag de buur bezwaar maken als mijn warmtepomp te luid is?
+  a: Ja. Als de warmtepomp op de erfgrens meer dan 40 dB(A) produceert, kan de buur een klacht indienen bij de gemeente (handhaving Activiteitenbesluit). De gemeente kan een maatwerkbesluit opleggen waarbij je de warmtepomp stiller moet maken of verplaatsen. In extreme gevallen kan de rechter worden ingeschakeld.
+- q: Welke warmtepompen zijn het stilst in 2026?
+  a: De stilste buitenunits in 2026 zijn de ATAG Energion i (40–44 dB(A) bij normaal gebruik), Mitsubishi Ecodan Zubadan (44 dB(A)), Daikin Altherma 3 (45 dB(A)) en Vaillant aroTHERM plus (45 dB(A)). ATAG is hiermee een van de stilste opties voor een rijtjeshuis met beperkte tuin.
+- q: Hoe kan ik de warmtepomp stiller maken zonder hem te verplaatsen?
+  a: 'Effectieve maatregelen: anti-vibratiemat onder de buitenunit (vermindert geleidingsgeluid), geluidswerende schermen rondom de unit (3–8 dB reductie), richtingverandering van de uitblaasrichting weg van de erfgrens, en software-instellingen om het maximale geluidsvermogen te beperken (op kosten van COP).'
+- q: Geldt de 40 dB-norm ook voor warmtepompen in een appartement?
+  a: Voor appartementen gelden de normen van het Bouwbesluit voor luchtgeluid tussen woningen. Een warmtepomp die via structuurgeluid trillingen doorgeeft aan aangrenzende woningen valt onder geluidsoverlast-regelgeving. De 40 dB-norm is specifiek voor buitenruimten; binnenshuis gelden strengere normen (35 dB(A) in slaapkamers).
 products:
-  - name: "ATAG warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "op aanvraag"
-  - name: "Beste hybride warmtepomp 2026"
-    url: "/posts/beste-hybride-warmtepomp-2026"
-    price: "zie artikel"
+- name: ATAG warmtepomp
+  url: https://go.duurzaamthuislab.nl/atag
+  price: op aanvraag
+- name: Beste hybride warmtepomp 2026
+  url: /posts/beste-hybride-warmtepomp-2026
+  price: zie artikel
+schema_type: Article
 ---
 
 De buurvrouw klopte twee weken na de installatie op mijn deur. Vriendelijk, maar duidelijk: "Die unit zoemt elke nacht. Ik slaap er niet van." Ik had mijn warmtepomp vlak naast de schutting geplaatst, 1,2 meter van haar slaapkamerraam. Slecht idee.

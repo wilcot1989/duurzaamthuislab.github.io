@@ -1,36 +1,48 @@
 ---
-title: "Warmtepomp Onderhoud 2026: Wat Moet Wanneer en Wat Kost Het?"
-date: 2026-06-13T09:00:00+01:00
-lastmod: 2026-06-13T09:00:00+01:00
-description: "Welk onderhoud heeft een warmtepomp jaarlijks nodig, wat kost het 5-jaarlijkse onderhoud."
-categories: ["warmtepompen"]
-tags: ["warmtepomp onderhoud", "warmtepomp kosten", "warmtepomp service", "warmtepomp storing", "ATAG warmtepomp"]
-keywords: ["warmtepomp onderhoud kosten", "warmtepomp jaarlijks onderhoud", "warmtepomp service kosten", "warmtepomp storing", "warmtepomp 5 jaarlijks"]
+title: 'Warmtepomp Onderhoud 2026: Wat Moet Wanneer en Wat Kost Het?'
+date: 2026-06-13 09:00:00+01:00
+lastmod: 2026-06-13 09:00:00+01:00
+description: Welk onderhoud heeft een warmtepomp jaarlijks nodig, wat kost het 5-jaarlijkse onderhoud.
+categories:
+- warmtepompen
+tags:
+- warmtepomp onderhoud
+- warmtepomp kosten
+- warmtepomp service
+- warmtepomp storing
+- ATAG warmtepomp
+keywords:
+- warmtepomp onderhoud kosten
+- warmtepomp jaarlijks onderhoud
+- warmtepomp service kosten
+- warmtepomp storing
+- warmtepomp 5 jaarlijks
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Hoe vaak moet een warmtepomp onderhoud hebben?"
-    a: "Een warmtepomp heeft jaarlijks een basiscontrole nodig (filters, kondensaat, druk) en elke 3-5 jaar een uitgebreid service-beurt inclusief controle van het koudemiddel, de elektrische aansluitingen en het verwarmingssysteem. Raadpleeg altijd de handleiding van jouw model."
-  - q: "Wat kost het jaarlijkse onderhoud van een warmtepomp?"
-    a: "Een jaarlijkse onderhoudsbeurt kost gemiddeld €150-€350 bij een erkend installateur. Sommige fabrikanten bieden een servicecontract aan van €150-€250 per jaar dat meerdere beurten en voorrijdkosten dekt."
-  - q: "Wat kost het 5-jaarlijkse onderhoud van een warmtepomp?"
-    a: "Een uitgebreide 5-jaarlijkse beurt kost doorgaans €350-€700, afhankelijk van het merk, de omvang van het systeem en eventueel te vervangen onderdelen. Het vervangen van het koudemiddel (R32 of R410A) valt onder een gecertificeerde monteur en kost €150-€400 extra."
-  - q: "Kan ik warmtepomp-onderhoud zelf doen?"
-    a: "Deels. Sommige taken kun je zelf doen: filters reinigen, de buitenunit vrij van bladeren houden, de druk in het leidingnet controleren. Maar werkzaamheden aan het koudemiddelcircuit (F-gassen) zijn wettelijk voorbehouden aan gecertificeerde monteurs. Doe dit nooit zelf."
-  - q: "Wat zijn de meest voorkomende storingen bij warmtepompen?"
-    a: "De meest voorkomende storingen zijn: te lage druk in het leidingnet (ontlucht of bijvullen nodig), bevroren buitenunit in extreme kou (ontdooicyclus actief?), vuile filters die de luchtstroom beperken, foutcodes door een thermostaat-mismatch, en lekkage in het warmtapwater-circuit."
-  - q: "Moet ik een servicecontract afsluiten voor mijn warmtepomp?"
-    a: "Dat hangt af van je situatie. Een servicecontract biedt zekerheid en predictable kosten, maar is niet altijd de goedkoopste optie. Reken het uit: als de jaarlijkse onderhoudskosten zonder contract vergelijkbaar zijn met het contract, is het contract handig vanwege de garantie op responstijd."
-  - q: "Wat is het verschil in onderhoud tussen een hybride en een volledige warmtepomp?"
-    a: "Een hybride warmtepomp (combinatie met cv-ketel) heeft onderhoud nodig voor zowel de warmtepomp als de ketel. De ketel vraagt jaarlijks een APK-keuring (wettelijk verplicht voor cv-ketels). Dat maakt het onderhoud iets duurder dan bij een volledige warmtepomp alleen."
-  - q: "Hoe herken ik dat mijn warmtepomp storing heeft?"
-    a: "Signalen zijn: foutcodes op het display, hoorbare trillingen of piepen die er normaal niet zijn, hogere energierekening zonder duidelijke reden, onvoldoende warmte in huis ondanks dat het systeem draait, of tapwater dat minder warm is dan normaal."
+- q: Hoe vaak moet een warmtepomp onderhoud hebben?
+  a: Een warmtepomp heeft jaarlijks een basiscontrole nodig (filters, kondensaat, druk) en elke 3-5 jaar een uitgebreid service-beurt inclusief controle van het koudemiddel, de elektrische aansluitingen en het verwarmingssysteem. Raadpleeg altijd de handleiding van jouw model.
+- q: Wat kost het jaarlijkse onderhoud van een warmtepomp?
+  a: Een jaarlijkse onderhoudsbeurt kost gemiddeld €150-€350 bij een erkend installateur. Sommige fabrikanten bieden een servicecontract aan van €150-€250 per jaar dat meerdere beurten en voorrijdkosten dekt.
+- q: Wat kost het 5-jaarlijkse onderhoud van een warmtepomp?
+  a: Een uitgebreide 5-jaarlijkse beurt kost doorgaans €350-€700, afhankelijk van het merk, de omvang van het systeem en eventueel te vervangen onderdelen. Het vervangen van het koudemiddel (R32 of R410A) valt onder een gecertificeerde monteur en kost €150-€400 extra.
+- q: Kan ik warmtepomp-onderhoud zelf doen?
+  a: 'Deels. Sommige taken kun je zelf doen: filters reinigen, de buitenunit vrij van bladeren houden, de druk in het leidingnet controleren. Maar werkzaamheden aan het koudemiddelcircuit (F-gassen) zijn wettelijk voorbehouden aan gecertificeerde monteurs. Doe dit nooit zelf.'
+- q: Wat zijn de meest voorkomende storingen bij warmtepompen?
+  a: 'De meest voorkomende storingen zijn: te lage druk in het leidingnet (ontlucht of bijvullen nodig), bevroren buitenunit in extreme kou (ontdooicyclus actief?), vuile filters die de luchtstroom beperken, foutcodes door een thermostaat-mismatch, en lekkage in het warmtapwater-circuit.'
+- q: Moet ik een servicecontract afsluiten voor mijn warmtepomp?
+  a: 'Dat hangt af van je situatie. Een servicecontract biedt zekerheid en predictable kosten, maar is niet altijd de goedkoopste optie. Reken het uit: als de jaarlijkse onderhoudskosten zonder contract vergelijkbaar zijn met het contract, is het contract handig vanwege de garantie op responstijd.'
+- q: Wat is het verschil in onderhoud tussen een hybride en een volledige warmtepomp?
+  a: Een hybride warmtepomp (combinatie met cv-ketel) heeft onderhoud nodig voor zowel de warmtepomp als de ketel. De ketel vraagt jaarlijks een APK-keuring (wettelijk verplicht voor cv-ketels). Dat maakt het onderhoud iets duurder dan bij een volledige warmtepomp alleen.
+- q: Hoe herken ik dat mijn warmtepomp storing heeft?
+  a: 'Signalen zijn: foutcodes op het display, hoorbare trillingen of piepen die er normaal niet zijn, hogere energierekening zonder duidelijke reden, onvoldoende warmte in huis ondanks dat het systeem draait, of tapwater dat minder warm is dan normaal.'
 products:
-  - name: "ATAG warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "op aanvraag"
+- name: ATAG warmtepomp
+  url: https://go.duurzaamthuislab.nl/atag
+  price: op aanvraag
+schema_type: Article
 ---
 
 Twee jaar geleden liet ik een ATAG warmtepomp installeren. In het eerste jaar hoorde ik vrijwel niets — het systeem draaide stil en efficiënt. In het tweede jaar begon de druk in het leidingnet te dalen, en ik wist niet hoe ik het zelf moest bijvullen. Dat kostte me een service-bezoek van €180.

@@ -1,40 +1,55 @@
 ---
-title: "Dynamische Energiecontracten + Thuisbatterij"
-date: 2026-04-02T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Ontdek hoe je met een dynamisch energiecontract en thuisbatterij geld verdient in 2026. Slim laden."
-categories: ["thuisbatterijen"]
-tags: ["dynamisch energiecontract", "thuisbatterij", "energie arbitrage", "slim laden", "tibber", "zonneplan", "ANWB energie", "dynamische tarieven"]
-keywords: ["dynamisch energiecontract thuisbatterij", "geld verdienen thuisbatterij", "energie arbitrage", "slim laden thuisbatterij", "dynamisch tarief batterij"]
+title: Dynamische Energiecontracten + Thuisbatterij
+date: 2026-04-02 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Ontdek hoe je met een dynamisch energiecontract en thuisbatterij geld verdient in 2026. Slim laden.
+categories:
+- thuisbatterijen
+tags:
+- dynamisch energiecontract
+- thuisbatterij
+- energie arbitrage
+- slim laden
+- tibber
+- zonneplan
+- ANWB energie
+- dynamische tarieven
+keywords:
+- dynamisch energiecontract thuisbatterij
+- geld verdienen thuisbatterij
+- energie arbitrage
+- slim laden thuisbatterij
+- dynamisch tarief batterij
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is een dynamisch energiecontract?"
-    a: "Bij een dynamisch energiecontract betaal je per uur een wisselende prijs voor stroom, gebaseerd op de EPEX-spotmarktprijs. Als er veel aanbod is (veel wind of zon), is stroom goedkoop of zelfs negatief. Bij hoge vraag (koud, weinig wind, 's avonds) is stroom duur. Je kunt hiervan profiteren door je verbruik te verschuiven naar goedkope uren."
-  - q: "Hoeveel kun je besparen met een dynamisch contract en thuisbatterij?"
-    a: "De extra besparing door energie-arbitrage (goedkoop laden, duur ontladen) bedraagt gemiddeld €150-300 per jaar bovenop de besparing door zonne-opslag. In gunstige jaren met veel prijsschommelingen kan dit oplopen tot €300-500. De totale besparing (zonne-opslag plus arbitrage) ligt tussen €600 en €1.100 per jaar."
-  - q: "Welke dynamische energieleveranciers zijn er in Nederland?"
-    a: "De bekendste dynamische energieleveranciers in Nederland zijn Tibber, Zonneplan, ANWB Energie, EasyEnergy, Frank Energie, Vandebron (dynamisch) en Eneco (dynamisch). Tibber en Zonneplan worden het meest gekozen vanwege hun gebruiksvriendelijke apps en thuisbatterij-integraties."
-  - q: "Kan elke thuisbatterij automatisch laden en ontladen op dynamische tarieven?"
-    a: "Niet elke thuisbatterij ondersteunt dit automatisch. Je hebt een slim energiemanagementsysteem nodig (HEMS) dat de batterij aanstuurt op basis van de dynamische prijzen. Huawei, SolarEdge en sommige Victron-systemen bieden dit via hun eigen platform of via integraties met Tibber en Home Assistant."
-  - q: "Is het legaal om stroom uit je thuisbatterij terug te leveren aan het net?"
-    a: "Ja, in Nederland is het legaal om stroom uit je thuisbatterij terug te leveren aan het net. Je ontvangt hiervoor de terugleververgoeding van je energieleverancier. Let op: bij de meeste dynamische contracten is de terugleververgoeding lager dan de afnameprijs (door belastingen en leveringskosten), dus direct eigen verbruik is altijd voordeliger dan terugleveren."
-  - q: "Wat is energie-arbitrage?"
-    a: "Energie-arbitrage betekent stroom inkopen wanneer de prijs laag is en deze opslaan in je thuisbatterij, om vervolgens te gebruiken (of terugleveren) wanneer de prijs hoog is. Het verschil tussen de lage inkoopprijs en de hoge gebruiksprijs is je winst. Met een thuisbatterij en dynamisch contract kun je dit automatisch doen."
-  - q: "Heb ik zonnepanelen nodig voor energie-arbitrage?"
-    a: "Nee, energie-arbitrage werkt ook zonder zonnepanelen. Je laadt de batterij dan uitsluitend op goedkope momenten van het net en gebruikt de opgeslagen stroom op dure momenten. Echter, de combinatie van zonnepanelen plus een thuisbatterij plus een dynamisch contract levert de hoogste besparing op."
+- q: Wat is een dynamisch energiecontract?
+  a: Bij een dynamisch energiecontract betaal je per uur een wisselende prijs voor stroom, gebaseerd op de EPEX-spotmarktprijs. Als er veel aanbod is (veel wind of zon), is stroom goedkoop of zelfs negatief. Bij hoge vraag (koud, weinig wind, 's avonds) is stroom duur. Je kunt hiervan profiteren door je verbruik te verschuiven naar goedkope uren.
+- q: Hoeveel kun je besparen met een dynamisch contract en thuisbatterij?
+  a: De extra besparing door energie-arbitrage (goedkoop laden, duur ontladen) bedraagt gemiddeld €150-300 per jaar bovenop de besparing door zonne-opslag. In gunstige jaren met veel prijsschommelingen kan dit oplopen tot €300-500. De totale besparing (zonne-opslag plus arbitrage) ligt tussen €600 en €1.100 per jaar.
+- q: Welke dynamische energieleveranciers zijn er in Nederland?
+  a: De bekendste dynamische energieleveranciers in Nederland zijn Tibber, Zonneplan, ANWB Energie, EasyEnergy, Frank Energie, Vandebron (dynamisch) en Eneco (dynamisch). Tibber en Zonneplan worden het meest gekozen vanwege hun gebruiksvriendelijke apps en thuisbatterij-integraties.
+- q: Kan elke thuisbatterij automatisch laden en ontladen op dynamische tarieven?
+  a: Niet elke thuisbatterij ondersteunt dit automatisch. Je hebt een slim energiemanagementsysteem nodig (HEMS) dat de batterij aanstuurt op basis van de dynamische prijzen. Huawei, SolarEdge en sommige Victron-systemen bieden dit via hun eigen platform of via integraties met Tibber en Home Assistant.
+- q: Is het legaal om stroom uit je thuisbatterij terug te leveren aan het net?
+  a: 'Ja, in Nederland is het legaal om stroom uit je thuisbatterij terug te leveren aan het net. Je ontvangt hiervoor de terugleververgoeding van je energieleverancier. Let op: bij de meeste dynamische contracten is de terugleververgoeding lager dan de afnameprijs (door belastingen en leveringskosten), dus direct eigen verbruik is altijd voordeliger dan terugleveren.'
+- q: Wat is energie-arbitrage?
+  a: Energie-arbitrage betekent stroom inkopen wanneer de prijs laag is en deze opslaan in je thuisbatterij, om vervolgens te gebruiken (of terugleveren) wanneer de prijs hoog is. Het verschil tussen de lage inkoopprijs en de hoge gebruiksprijs is je winst. Met een thuisbatterij en dynamisch contract kun je dit automatisch doen.
+- q: Heb ik zonnepanelen nodig voor energie-arbitrage?
+  a: Nee, energie-arbitrage werkt ook zonder zonnepanelen. Je laadt de batterij dan uitsluitend op goedkope momenten van het net en gebruikt de opgeslagen stroom op dure momenten. Echter, de combinatie van zonnepanelen plus een thuisbatterij plus een dynamisch contract levert de hoogste besparing op.
 products:
-  - name: "Tibber"
-    url: "https://tibber.com/nl"
-    price: "6"
-  - name: "Frank Energie"
-    url: "https://www.frankenergie.nl/"
-    price: "5"
-  - name: "ANWB Energie"
-    url: "https://www.anwb.nl/huis/energie"
-    price: "6"
+- name: Tibber
+  url: https://tibber.com/nl
+  price: '6'
+- name: Frank Energie
+  url: https://www.frankenergie.nl/
+  price: '5'
+- name: ANWB Energie
+  url: https://www.anwb.nl/huis/energie
+  price: '6'
+schema_type: Article
 ---
 
 Sinds ik mijn Huawei Luna 10 kWh koppelde aan mijn Frank Energie dynamisch contract, verdien ik gemiddeld €22 extra per maand door energie-arbitrage — bovenop de besparing van mijn zonnepanelen. Mijn batterij laadt automatisch op wanneer stroom onder de €0,05/kWh zakt (vaak 's nachts) en ontlaadt wanneer de prijs boven €0,30 stijgt. In dit artikel leg ik precies uit hoe dit werkt en wat het oplevert.

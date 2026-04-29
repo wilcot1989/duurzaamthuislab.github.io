@@ -1,37 +1,53 @@
 ---
-title: "Beste thuisbatterij eengezinswoning 2026"
-date: 2026-04-29T08:00:00+02:00
-lastmod: 2026-04-29T08:00:00+02:00
-description: "Welke thuisbatterij past echt bij een NL-eengezinswoning met 4-5 personen? Ik vergelijk Sessy, Marstek en meer — inclusief terugverdientijd en eerlijke haakjes."
-categories: ["thuisbatterijen"]
-tags: ["thuisbatterij", "eengezinswoning", "Sessy", "Marstek", "saldering 2027", "thuis energie opslaan", "zonnepanelen opslag"]
-keywords: ["beste thuisbatterij eengezinswoning", "thuisbatterij 4 personen", "thuisbatterij 2026", "Sessy review", "Marstek Venus review", "thuisbatterij kosten", "zonnepanelen plus batterij"]
+title: Beste thuisbatterij eengezinswoning 2026
+date: 2026-04-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
+description: Welke thuisbatterij past echt bij een NL-eengezinswoning met 4-5 personen? Ik vergelijk Sessy, Marstek en meer — inclusief terugverdientijd en eerlijke haakjes.
+categories:
+- thuisbatterijen
+tags:
+- thuisbatterij
+- eengezinswoning
+- Sessy
+- Marstek
+- saldering 2027
+- thuis energie opslaan
+- zonnepanelen opslag
+keywords:
+- beste thuisbatterij eengezinswoning
+- thuisbatterij 4 personen
+- thuisbatterij 2026
+- Sessy review
+- Marstek Venus review
+- thuisbatterij kosten
+- zonnepanelen plus batterij
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel kWh heeft een thuisbatterij voor een eengezinswoning nodig?"
-    a: "Een 4-5 persoons huishouden verbruikt gemiddeld 3.500–4.500 kWh per jaar, ofwel 9–12 kWh per dag. Een batterij van 5–10 kWh kan 40–80% van de dagproductie opslaan. Voor de meeste gezinnen is 5 kWh een prima startpunt; pas bij een warmtepomp of laadpaal is 10 kWh zinvoller."
-  - q: "Verdient een thuisbatterij zichzelf terug?"
-    a: "Bij een aanschaf van €3.000–€6.000 en een besparing van €400–€700 per jaar (afhankelijk van stroomprijs en zelfconsumptie) is de terugverdientijd 5–12 jaar. Dat is lang, maar na 2027 valt de saldering weg, waardoor elk teruggevoerd kWh minder waard wordt. De batterij pakt dan meer waarde."
-  - q: "Wat is het verschil tussen Sessy en Marstek?"
-    a: "Sessy (5 kWh, €5.995) is plug & play, heeft een vaste app-koppeling en wordt in Nederland geleverd met Nederlandse support. Marstek Venus (5 kWh, €2.299) is aanzienlijk goedkoper, vereist meer eigen installatie-kennis en heeft een iets kleiner service-netwerk. Sessy scoort beter op gemak; Marstek op prijs."
-  - q: "Kan ik een thuisbatterij zelf installeren?"
-    a: "Marstek Venus kan door een doe-het-zelver worden aangesloten als je de basiskennis van groepskasten hebt en niet valt onder de netaansluiting van een distributienet dat een erkend installateur vereist. Sessy vereist een installatiepartner. In beide gevallen raad ik een erkend elektrotechnisch installateur aan."
-  - q: "Werkt een thuisbatterij ook zonder zonnepanelen?"
-    a: "Ja, als zogenoemde 'nacht-laadbatterij': opladen op nachtstroomtarief (bij dynamisch contract) en overdag gebruiken. Zonder zonnepanelen is het rendement lager en afhankelijker van de prijsspreiding. Met dynamisch contract (Tibber, etc.) is het toch interessant."
-  - q: "Hoelang gaat een thuisbatterij mee?"
-    a: "Fabrikanten geven doorgaans 10 jaar garantie met minimaal 70–80% restcapaciteit. In de praktijk gaan lithium-ijzerfosfaat (LFP) batterijen — het type dat Sessy en Marstek gebruiken — 15–20 jaar mee bij normale cyclusfrequentie (1x laden/ontladen per dag)."
-  - q: "Wat is de beste manier om een offerte te vergelijken?"
-    a: "Vraag altijd: welk batterijtype (LFP vs NMC), netto bruikbare capaciteit (niet de bruto), garantievoorwaarden per jaar, omvormer inbegrepen of apart, softwareupdates inbegrepen, en welke kosten er na 10 jaar komen. Vergelijk op prijs per bruikbare kWh."
+- q: Hoeveel kWh heeft een thuisbatterij voor een eengezinswoning nodig?
+  a: Een 4-5 persoons huishouden verbruikt gemiddeld 3.500–4.500 kWh per jaar, ofwel 9–12 kWh per dag. Een batterij van 5–10 kWh kan 40–80% van de dagproductie opslaan. Voor de meeste gezinnen is 5 kWh een prima startpunt; pas bij een warmtepomp of laadpaal is 10 kWh zinvoller.
+- q: Verdient een thuisbatterij zichzelf terug?
+  a: Bij een aanschaf van €3.000–€6.000 en een besparing van €400–€700 per jaar (afhankelijk van stroomprijs en zelfconsumptie) is de terugverdientijd 5–12 jaar. Dat is lang, maar na 2027 valt de saldering weg, waardoor elk teruggevoerd kWh minder waard wordt. De batterij pakt dan meer waarde.
+- q: Wat is het verschil tussen Sessy en Marstek?
+  a: Sessy (5 kWh, €5.995) is plug & play, heeft een vaste app-koppeling en wordt in Nederland geleverd met Nederlandse support. Marstek Venus (5 kWh, €2.299) is aanzienlijk goedkoper, vereist meer eigen installatie-kennis en heeft een iets kleiner service-netwerk. Sessy scoort beter op gemak; Marstek op prijs.
+- q: Kan ik een thuisbatterij zelf installeren?
+  a: Marstek Venus kan door een doe-het-zelver worden aangesloten als je de basiskennis van groepskasten hebt en niet valt onder de netaansluiting van een distributienet dat een erkend installateur vereist. Sessy vereist een installatiepartner. In beide gevallen raad ik een erkend elektrotechnisch installateur aan.
+- q: Werkt een thuisbatterij ook zonder zonnepanelen?
+  a: 'Ja, als zogenoemde ''nacht-laadbatterij'': opladen op nachtstroomtarief (bij dynamisch contract) en overdag gebruiken. Zonder zonnepanelen is het rendement lager en afhankelijker van de prijsspreiding. Met dynamisch contract (Tibber, etc.) is het toch interessant.'
+- q: Hoelang gaat een thuisbatterij mee?
+  a: Fabrikanten geven doorgaans 10 jaar garantie met minimaal 70–80% restcapaciteit. In de praktijk gaan lithium-ijzerfosfaat (LFP) batterijen — het type dat Sessy en Marstek gebruiken — 15–20 jaar mee bij normale cyclusfrequentie (1x laden/ontladen per dag).
+- q: Wat is de beste manier om een offerte te vergelijken?
+  a: 'Vraag altijd: welk batterijtype (LFP vs NMC), netto bruikbare capaciteit (niet de bruto), garantievoorwaarden per jaar, omvormer inbegrepen of apart, softwareupdates inbegrepen, en welke kosten er na 10 jaar komen. Vergelijk op prijs per bruikbare kWh.'
 products:
-  - name: "Sessy thuisbatterij (5 kWh)"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "5995"
-  - name: "Marstek Venus (5 kWh)"
-    url: "https://go.duurzaamthuislab.nl/marstek"
-    price: "2299"
+- name: Sessy thuisbatterij (5 kWh)
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '5995'
+- name: Marstek Venus (5 kWh)
+  url: https://go.duurzaamthuislab.nl/marstek
+  price: '2299'
+schema_type: Article
 ---
 
 Mijn buurman Joost heeft een gezin van vijf. Twee dochters op de middelbare school, een zoon die thuis werkt, een vrouw die drie ochtenden per week van huis is en een hond die veel wasmachines vuil maakt. Zijn jaarverbruik is 4.700 kWh. Hij heeft 16 zonnepanelen op het dak — 6,24 kWp — en levert elk jaar zo'n 2.100 kWh terug aan het net.

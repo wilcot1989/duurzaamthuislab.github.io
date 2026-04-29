@@ -1,35 +1,47 @@
 ---
-title: "SolarEdge vs Enphase 2026: Welke Omvormer is Beter?"
-date: 2026-04-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "SolarEdge vs Enphase vergeleken: technologie, prijs, monitoring en betrouwbaarheid. Ontdek welke omvormer het beste past bij jouw zonnepanelen-installatie."
-categories: ["zonnepanelen"]
-tags: ["SolarEdge", "Enphase", "omvormer", "micro-omvormer", "zonnepanelen"]
-keywords: ["SolarEdge vs Enphase", "omvormer vergelijking", "micro-omvormer", "power optimizer", "beste omvormer zonnepanelen"]
+title: 'SolarEdge vs Enphase 2026: Welke Omvormer is Beter?'
+date: 2026-04-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'SolarEdge vs Enphase vergeleken: technologie, prijs, monitoring en betrouwbaarheid. Ontdek welke omvormer het beste past bij jouw zonnepanelen-installatie.'
+categories:
+- zonnepanelen
+tags:
+- SolarEdge
+- Enphase
+- omvormer
+- micro-omvormer
+- zonnepanelen
+keywords:
+- SolarEdge vs Enphase
+- omvormer vergelijking
+- micro-omvormer
+- power optimizer
+- beste omvormer zonnepanelen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het verschil tussen SolarEdge en Enphase?"
-    a: "SolarEdge gebruikt een centrale string-omvormer met power optimizers per paneel. Enphase gebruikt micro-omvormers die elk paneel individueel omzetten. SolarEdge is goedkoper, Enphase is flexibeler en heeft geen single point of failure."
-  - q: "Welke omvormer is goedkoper: SolarEdge of Enphase?"
-    a: "SolarEdge is doorgaans 20-30% goedkoper dan Enphase voor een vergelijkbare installatie. Voor 10 panelen kost SolarEdge circa €1.000-€1.800, terwijl Enphase €1.500-€2.500 kost. Het prijsverschil wordt kleiner bij grotere installaties."
-  - q: "Welke omvormer is betrouwbaarder?"
-    a: "Enphase micro-omvormers hebben geen single point of failure: als één micro-omvormer uitvalt, werken de andere gewoon door. Bij SolarEdge kan een defecte centrale omvormer je hele systeem platleggen. Enphase heeft een gemiddelde uitvalrate van minder dan 0,05% per jaar."
-  - q: "Kan ik een thuisbatterij koppelen aan SolarEdge en Enphase?"
-    a: "Ja, beide merken bieden eigen batterijoplossingen. SolarEdge heeft de Home Battery (4,6-23 kWh) en Enphase de IQ Battery (3,36-42 kWh). Beide integreren naadloos met hun eigen omvormersysteem."
-  - q: "Welke omvormer is beter bij schaduw?"
-    a: "Beide presteren goed bij gedeeltelijke schaduw omdat ze op paneelniveau optimaliseren. SolarEdge power optimizers zorgen ervoor dat schaduw op één paneel niet de hele string beïnvloedt. Enphase micro-omvormers werken volledig onafhankelijk, wat bij complexe schaduwsituaties een licht voordeel geeft."
-  - q: "Hoe lang is de garantie op SolarEdge en Enphase?"
-    a: "SolarEdge biedt 12 jaar garantie op de omvormer (verlengbaar tot 25 jaar) en 25 jaar op de power optimizers. Enphase biedt standaard 25 jaar garantie op alle micro-omvormers. Enphase heeft daarmee de langste standaardgarantie."
+- q: Wat is het verschil tussen SolarEdge en Enphase?
+  a: SolarEdge gebruikt een centrale string-omvormer met power optimizers per paneel. Enphase gebruikt micro-omvormers die elk paneel individueel omzetten. SolarEdge is goedkoper, Enphase is flexibeler en heeft geen single point of failure.
+- q: 'Welke omvormer is goedkoper: SolarEdge of Enphase?'
+  a: SolarEdge is doorgaans 20-30% goedkoper dan Enphase voor een vergelijkbare installatie. Voor 10 panelen kost SolarEdge circa €1.000-€1.800, terwijl Enphase €1.500-€2.500 kost. Het prijsverschil wordt kleiner bij grotere installaties.
+- q: Welke omvormer is betrouwbaarder?
+  a: 'Enphase micro-omvormers hebben geen single point of failure: als één micro-omvormer uitvalt, werken de andere gewoon door. Bij SolarEdge kan een defecte centrale omvormer je hele systeem platleggen. Enphase heeft een gemiddelde uitvalrate van minder dan 0,05% per jaar.'
+- q: Kan ik een thuisbatterij koppelen aan SolarEdge en Enphase?
+  a: Ja, beide merken bieden eigen batterijoplossingen. SolarEdge heeft de Home Battery (4,6-23 kWh) en Enphase de IQ Battery (3,36-42 kWh). Beide integreren naadloos met hun eigen omvormersysteem.
+- q: Welke omvormer is beter bij schaduw?
+  a: Beide presteren goed bij gedeeltelijke schaduw omdat ze op paneelniveau optimaliseren. SolarEdge power optimizers zorgen ervoor dat schaduw op één paneel niet de hele string beïnvloedt. Enphase micro-omvormers werken volledig onafhankelijk, wat bij complexe schaduwsituaties een licht voordeel geeft.
+- q: Hoe lang is de garantie op SolarEdge en Enphase?
+  a: SolarEdge biedt 12 jaar garantie op de omvormer (verlengbaar tot 25 jaar) en 25 jaar op de power optimizers. Enphase biedt standaard 25 jaar garantie op alle micro-omvormers. Enphase heeft daarmee de langste standaardgarantie.
 products:
-  - name: "SolarEdge HD-Wave"
-    url: "https://www.solaredge.com/nl/products/residential/inverters"
-    price: "1500"
-  - name: "Enphase IQ8"
-    url: "https://enphase.com/nl/homeowners/microinverters-iq8"
-    price: "1800"
+- name: SolarEdge HD-Wave
+  url: https://www.solaredge.com/nl/products/residential/inverters
+  price: '1500'
+- name: Enphase IQ8
+  url: https://enphase.com/nl/homeowners/microinverters-iq8
+  price: '1800'
+schema_type: Article
 ---
 
 Ik heb zelf voor een Huawei omvormer gekozen, maar als mensen mij vragen naar de premium markt komt het altijd neer op SolarEdge of Enphase. Beide optimaliseren elk paneel individueel, maar de technologie erachter verschilt fundamenteel. Ik heb installateurs gesproken, storingsdata vergeleken en de totaalkosten voor een installatie van 16 panelen doorgerekend. Hier is mijn conclusie.

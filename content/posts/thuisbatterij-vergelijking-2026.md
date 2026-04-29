@@ -1,38 +1,49 @@
 ---
-title: "Thuisbatterij Vergelijking 2026: Top 5 Modellen Getest"
-date: 2026-05-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "De 5 beste thuisbatterijen van 2026 vergeleken op capaciteit, prijs, levensduur en rendement. Tesla Powerwall, BYD, Huawei, SolarEdge en Enphase."
-categories: ["thuisbatterij"]
-tags: ["thuisbatterij", "Tesla Powerwall", "BYD", "energieopslag", "zonnepanelen"]
-keywords: ["thuisbatterij vergelijking", "beste thuisbatterij 2026", "Tesla Powerwall prijs", "thuisbatterij zonnepanelen"]
+title: 'Thuisbatterij Vergelijking 2026: Top 5 Modellen Getest'
+date: 2026-05-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: De 5 beste thuisbatterijen van 2026 vergeleken op capaciteit, prijs, levensduur en rendement. Tesla Powerwall, BYD, Huawei, SolarEdge en Enphase.
+categories:
+- thuisbatterij
+tags:
+- thuisbatterij
+- Tesla Powerwall
+- BYD
+- energieopslag
+- zonnepanelen
+keywords:
+- thuisbatterij vergelijking
+- beste thuisbatterij 2026
+- Tesla Powerwall prijs
+- thuisbatterij zonnepanelen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Welke thuisbatterij is de beste in 2026?"
-    a: "De Tesla Powerwall 3 biedt de beste combinatie van capaciteit (13,5 kWh), ingebouwde omvormer en gebruiksgemak. De BYD HVS biedt de beste schaalbaarheid (5,1-12,8 kWh modulair). Voor SolarEdge-gebruikers is de SolarEdge Home Battery de meest efficiënte optie dankzij DC-koppeling."
-  - q: "Wat kost een thuisbatterij in 2026?"
-    a: "Thuisbatterijen kosten €4.000-€10.000 inclusief installatie, afhankelijk van de capaciteit. Per kWh betaal je €500-€800. De Tesla Powerwall 3 (13,5 kWh) kost circa €8.000-€10.000 geïnstalleerd. Een BYD HVS 5.1 kWh begint vanaf €3.500-€4.500."
-  - q: "Is een thuisbatterij rendabel?"
-    a: "De terugverdientijd van een thuisbatterij is 10-15 jaar, afhankelijk van je stroomverbruik, energiecontract en zonnepanelen. Met een dynamisch energiecontract kan de terugverdientijd dalen tot 8-12 jaar. Een thuisbatterij wordt rendabeler naarmate de salderingsregeling wordt afgebouwd."
-  - q: "Hoe lang gaat een thuisbatterij mee?"
-    a: "Moderne lithium-ijzerfosfaat (LFP) batterijen gaan 6.000-10.000 cycli mee, wat overeenkomt met 15-25 jaar bij dagelijks gebruik. Na de levensduur behoudt de batterij nog 60-70% van de originele capaciteit. De meeste fabrikanten geven 10 jaar garantie."
-  - q: "Kan een thuisbatterij mijn huis voorzien bij stroomuitval?"
-    a: "Sommige thuisbatterijen bieden backup-functionaliteit (Tesla Powerwall, Enphase IQ Battery). Bij stroomuitval schakelt de batterij automatisch over en voedt je huis tot de batterij leeg is. Niet alle batterijen ondersteunen dit — check of backup een vereiste is bij je keuze."
-  - q: "Hoeveel kWh thuisbatterij heb ik nodig?"
-    a: "Voor een gemiddeld huishouden is 5-10 kWh voldoende om het avond- en nachtverbruik te dekken. Met een warmtepomp of EV heb je 10-15 kWh nodig. Bereken je dagelijkse avond/nacht verbruik: dat is de ideale batterijcapaciteit."
+- q: Welke thuisbatterij is de beste in 2026?
+  a: De Tesla Powerwall 3 biedt de beste combinatie van capaciteit (13,5 kWh), ingebouwde omvormer en gebruiksgemak. De BYD HVS biedt de beste schaalbaarheid (5,1-12,8 kWh modulair). Voor SolarEdge-gebruikers is de SolarEdge Home Battery de meest efficiënte optie dankzij DC-koppeling.
+- q: Wat kost een thuisbatterij in 2026?
+  a: Thuisbatterijen kosten €4.000-€10.000 inclusief installatie, afhankelijk van de capaciteit. Per kWh betaal je €500-€800. De Tesla Powerwall 3 (13,5 kWh) kost circa €8.000-€10.000 geïnstalleerd. Een BYD HVS 5.1 kWh begint vanaf €3.500-€4.500.
+- q: Is een thuisbatterij rendabel?
+  a: De terugverdientijd van een thuisbatterij is 10-15 jaar, afhankelijk van je stroomverbruik, energiecontract en zonnepanelen. Met een dynamisch energiecontract kan de terugverdientijd dalen tot 8-12 jaar. Een thuisbatterij wordt rendabeler naarmate de salderingsregeling wordt afgebouwd.
+- q: Hoe lang gaat een thuisbatterij mee?
+  a: Moderne lithium-ijzerfosfaat (LFP) batterijen gaan 6.000-10.000 cycli mee, wat overeenkomt met 15-25 jaar bij dagelijks gebruik. Na de levensduur behoudt de batterij nog 60-70% van de originele capaciteit. De meeste fabrikanten geven 10 jaar garantie.
+- q: Kan een thuisbatterij mijn huis voorzien bij stroomuitval?
+  a: Sommige thuisbatterijen bieden backup-functionaliteit (Tesla Powerwall, Enphase IQ Battery). Bij stroomuitval schakelt de batterij automatisch over en voedt je huis tot de batterij leeg is. Niet alle batterijen ondersteunen dit — check of backup een vereiste is bij je keuze.
+- q: Hoeveel kWh thuisbatterij heb ik nodig?
+  a: 'Voor een gemiddeld huishouden is 5-10 kWh voldoende om het avond- en nachtverbruik te dekken. Met een warmtepomp of EV heb je 10-15 kWh nodig. Bereken je dagelijkse avond/nacht verbruik: dat is de ideale batterijcapaciteit.'
 products:
-  - name: "Huawei Luna 2000"
-    url: "https://solar.huawei.com/eu/residential/luna"
-    price: "6000"
-  - name: "Tesla Powerwall 3"
-    url: "https://www.tesla.com/nl_nl/powerwall"
-    price: "9500"
-  - name: "EcoFlow PowerOcean"
-    url: "https://nl.ecoflow.com/products/power-ocean"
-    price: "7500"
+- name: Huawei Luna 2000
+  url: https://solar.huawei.com/eu/residential/luna
+  price: '6000'
+- name: Tesla Powerwall 3
+  url: https://www.tesla.com/nl_nl/powerwall
+  price: '9500'
+- name: EcoFlow PowerOcean
+  url: https://nl.ecoflow.com/products/power-ocean
+  price: '7500'
+schema_type: Article
 ---
 
 Na een jaar met mijn Huawei Luna 2000 weet ik precies waar je op moet letten bij een thuisbatterij: round-trip efficientie, prijs per kWh, en of het systeem overweg kan met dynamische tarieven. Ik heb de 5 populairste modellen op de Nederlandse markt vergeleken op basis van echte data, installateursfeedback en mijn eigen rekenmodellen.

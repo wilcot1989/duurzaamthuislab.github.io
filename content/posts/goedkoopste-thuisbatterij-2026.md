@@ -1,34 +1,48 @@
 ---
-title: "Goedkoopste thuisbatterij 2026: welke opties zijn er onder"
-date: 2026-04-29T08:00:00+02:00
-lastmod: 2026-04-29T08:00:00+02:00
-description: "Welke thuisbatterij geeft je de meeste waarde onder €3.000? Ik vergelijk Marstek Venus, BYD Battery-Box en meer."
-categories: ["thuisbatterijen"]
-tags: ["goedkoopste thuisbatterij", "Marstek Venus", "thuisbatterij budget", "thuisbatterij onder 3000 euro", "thuisbatterij 2026", "betaalbare batterij"]
-keywords: ["goedkoopste thuisbatterij 2026", "thuisbatterij budget", "Marstek Venus prijs", "thuisbatterij onder 3000 euro", "goedkope thuisbatterij NL", "beste prijs thuisbatterij"]
+title: 'Goedkoopste thuisbatterij 2026: welke opties zijn er onder'
+date: 2026-04-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
+description: Welke thuisbatterij geeft je de meeste waarde onder €3.000? Ik vergelijk Marstek Venus, BYD Battery-Box en meer.
+categories:
+- thuisbatterijen
+tags:
+- goedkoopste thuisbatterij
+- Marstek Venus
+- thuisbatterij budget
+- thuisbatterij onder 3000 euro
+- thuisbatterij 2026
+- betaalbare batterij
+keywords:
+- goedkoopste thuisbatterij 2026
+- thuisbatterij budget
+- Marstek Venus prijs
+- thuisbatterij onder 3000 euro
+- goedkope thuisbatterij NL
+- beste prijs thuisbatterij
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Zijn goedkope thuisbatterijen betrouwbaar?"
-    a: "Dat hangt af van het type. LFP (lithiumijzerfosfaat) batterijen zijn inherent veiliger dan NMC. Marstek gebruikt LFP-cellen van BYD — dezelfde technologie als in dure systemen. De lagere prijs zit hem in een kleinere marge, minder premium verpakking en minder uitgebreide service, niet in inferieure cellen."
-  - q: "Wat is de minimale capaciteit die ik nodig heb?"
-    a: "Voor een 2-3 persoonshuishouden met beperkte avondvraag: 3–5 kWh. Voor een 4-5 persoonshuishouden: 5 kWh. Voor een huishouden met een laadpaal of warmtepomp: 10 kWh. Een batterij van 3 kWh is te klein voor de meeste gezinnen; de besparing is te gering om de aanschaf te rechtvaardigen."
-  - q: "Kan ik een goedkope thuisbatterij zelf installeren?"
-    a: "Marstek Venus kan in theorie door een bekwame doe-het-zelver worden aangesloten. In de praktijk raden we altijd een erkend elektrotechnisch installateur aan — ook voor budgetsystemen. Foutieve aansluiting kan de garantie doen vervallen en is veiligheidsrisico."
-  - q: "Wat is de terugverdientijd van Marstek Venus?"
-    a: "Bij aanschaf- en installatiekosten van €2.800–€3.200 en een jaarlijkse besparing van €400–€600 (afhankelijk van stroomprijs en zelfconsumptie): terugverdientijd 5–8 jaar. Na 2027 stijgt de besparing door wegvallen van saldering, wat de terugverdientijd iets verkort."
-  - q: "Hoeveel kost een installatiedag voor een budget-thuisbatterij?"
-    a: "Installatie van een AC-gekoppelde batterij (zoals Marstek Venus) kost doorgaans €400–€700 bij een erkend installateur. Als ook de groepenkast of omvormer moet worden aangepast, kom je op €700–€1.200. Vraag altijd een specificeerde offerte."
-  - q: "Wat zijn de verborgen kosten van een goedkope thuisbatterij?"
-    a: "Let op: sommige budget-systemen vereisen een apart energie-management systeem (EMS) of aparte omvormer. Dat kost €300–€600 extra. Ook garantieclaimprocessen kunnen tijdrovend zijn als de fabrikant buiten NL zit. Reken dit mee in de totaalprijs."
-  - q: "Wat is het verschil tussen een AC-gekoppelde en DC-gekoppelde batterij?"
-    a: "AC-gekoppeld (zoals Marstek Venus): de batterij slaat netspanning op. Werkt met elke bestaande omvormer. Ideaal voor uitbreiding van bestaande installaties. DC-gekoppeld: sluit aan vóór de omvormer, efficiënter maar vereist een hybride omvormer. Als je al panelen hebt: AC is eenvoudiger en goedkoper."
+- q: Zijn goedkope thuisbatterijen betrouwbaar?
+  a: Dat hangt af van het type. LFP (lithiumijzerfosfaat) batterijen zijn inherent veiliger dan NMC. Marstek gebruikt LFP-cellen van BYD — dezelfde technologie als in dure systemen. De lagere prijs zit hem in een kleinere marge, minder premium verpakking en minder uitgebreide service, niet in inferieure cellen.
+- q: Wat is de minimale capaciteit die ik nodig heb?
+  a: 'Voor een 2-3 persoonshuishouden met beperkte avondvraag: 3–5 kWh. Voor een 4-5 persoonshuishouden: 5 kWh. Voor een huishouden met een laadpaal of warmtepomp: 10 kWh. Een batterij van 3 kWh is te klein voor de meeste gezinnen; de besparing is te gering om de aanschaf te rechtvaardigen.'
+- q: Kan ik een goedkope thuisbatterij zelf installeren?
+  a: Marstek Venus kan in theorie door een bekwame doe-het-zelver worden aangesloten. In de praktijk raden we altijd een erkend elektrotechnisch installateur aan — ook voor budgetsystemen. Foutieve aansluiting kan de garantie doen vervallen en is veiligheidsrisico.
+- q: Wat is de terugverdientijd van Marstek Venus?
+  a: 'Bij aanschaf- en installatiekosten van €2.800–€3.200 en een jaarlijkse besparing van €400–€600 (afhankelijk van stroomprijs en zelfconsumptie): terugverdientijd 5–8 jaar. Na 2027 stijgt de besparing door wegvallen van saldering, wat de terugverdientijd iets verkort.'
+- q: Hoeveel kost een installatiedag voor een budget-thuisbatterij?
+  a: Installatie van een AC-gekoppelde batterij (zoals Marstek Venus) kost doorgaans €400–€700 bij een erkend installateur. Als ook de groepenkast of omvormer moet worden aangepast, kom je op €700–€1.200. Vraag altijd een specificeerde offerte.
+- q: Wat zijn de verborgen kosten van een goedkope thuisbatterij?
+  a: 'Let op: sommige budget-systemen vereisen een apart energie-management systeem (EMS) of aparte omvormer. Dat kost €300–€600 extra. Ook garantieclaimprocessen kunnen tijdrovend zijn als de fabrikant buiten NL zit. Reken dit mee in de totaalprijs.'
+- q: Wat is het verschil tussen een AC-gekoppelde en DC-gekoppelde batterij?
+  a: 'AC-gekoppeld (zoals Marstek Venus): de batterij slaat netspanning op. Werkt met elke bestaande omvormer. Ideaal voor uitbreiding van bestaande installaties. DC-gekoppeld: sluit aan vóór de omvormer, efficiënter maar vereist een hybride omvormer. Als je al panelen hebt: AC is eenvoudiger en goedkoper.'
 products:
-  - name: "Marstek Venus (5 kWh)"
-    url: "https://go.duurzaamthuislab.nl/marstek"
-    price: "2299"
+- name: Marstek Venus (5 kWh)
+  url: https://go.duurzaamthuislab.nl/marstek
+  price: '2299'
+schema_type: Article
 ---
 
 Ik krijg elke week mails van mensen die eigenlijk wel willen investeren in een thuisbatterij, maar het budget voor een Sessy of Tesla Powerwall er niet voor hebben. "Mark, bestaat er zoiets als een goede batterij onder de €3.000?"

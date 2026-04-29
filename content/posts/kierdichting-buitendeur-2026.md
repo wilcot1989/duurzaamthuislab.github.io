@@ -1,39 +1,55 @@
 ---
-title: "Kierdichting buitendeur 2026: tochtstrip + sleutelgat"
-date: 2026-06-16T08:00:00+02:00
-lastmod: 2026-06-16T08:00:00+02:00
-description: "Specifiek deurkieren — sleutelgaten, brievenbussen, dichtkasten. Materialen, kosten, energiebesparing per type."
-categories: ["isolatie"]
-tags: ["kierdichting", "buitendeur", "tochten", "brievenbus isolatie", "sleutelgat afdichten", "deur kierdichting", "tochtstrips"]
-keywords: ["kierdichting buitendeur", "buitendeur tochtstrip", "brievenbus tochtdichting", "sleutelgat afdichten", "deur kieren afdichten", "tochtstrip voordeur", "isolatie buitendeur 2026"]
+title: 'Kierdichting buitendeur 2026: tochtstrip + sleutelgat'
+date: 2026-06-16 08:00:00+02:00
+lastmod: 2026-06-16 08:00:00+02:00
+description: Specifiek deurkieren — sleutelgaten, brievenbussen, dichtkasten. Materialen, kosten, energiebesparing per type.
+categories:
+- isolatie
+tags:
+- kierdichting
+- buitendeur
+- tochten
+- brievenbus isolatie
+- sleutelgat afdichten
+- deur kierdichting
+- tochtstrips
+keywords:
+- kierdichting buitendeur
+- buitendeur tochtstrip
+- brievenbus tochtdichting
+- sleutelgat afdichten
+- deur kieren afdichten
+- tochtstrip voordeur
+- isolatie buitendeur 2026
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel energie verlies ik via kieren in de voordeur?"
-    a: "Dat hangt af van de omvang van de kieren. Een kier van 2 mm rondom een voordeur van 200 × 90 cm is ruim 1.000 mm² doorsnede — dat staat gelijk aan een gat van circa 3 × 3 cm. Via zo'n opening verliest een gemiddeld huis 5 tot 15% van zijn warmte door ventilatie. Kieren in de buitendeur zijn verantwoordelijk voor een aanzienlijk deel hiervan, zeker bij een oudere voordeur."
-  - q: "Wat is de beste tochtstrip voor een buitendeur?"
-    a: "Voor de zijkanten en bovenkant van de deur is een zelfklevende EPDM-tochtstrip of een opleggende borstelstrip het best. Voor de onderkant van de deur is een automatische tochtstrip (die omhoog gaat als de deur open is) de duurzaamste oplossing. Vermijd goedkope schuimtochtstrips — die slijten snel en verliezen hun veerkracht na 1 à 2 jaar."
-  - q: "Hoe dicht ik een sleutelgat af?"
-    a: "Er zijn drie opties: (1) een sleutelgatrozet met veer-dekplaatje (€3-€8) die het gat automatisch afdekt als er geen sleutel inzit; (2) een escutcheon met geborsteld metalen dekplaatje voor esthetischer resultaat; (3) een cilinderslot vervangen door een sleutelgatloos slot (€60-€120), geschikt als u toch al wil renoveren. Optie 1 is de eenvoudigste en goedkoopste."
-  - q: "Hoe isoleer ik een brievenbus in de buitendeur?"
-    a: "Meerdere opties: (1) brievenbusklep met borstelstrip aan de binnenkant (€15-€30) — de borstelstrip blokkeert tocht terwijl post nog doorkan; (2) een dubbele brievenbuskleppen systeem met binnenklep (€20-€45); (3) brievenbus verplaatsen naar de gevel of een vrijstaande brievenbus buiten — dan sluit u de deuropening helemaal. Optie 3 is de meest effectieve maar vereist meer werk."
-  - q: "Wat is een dichtkast bij een voordeur?"
-    a: "Een dichtkast (ook: tochtportaal of sas) is een kleine ruimte tussen de voordeur en de eigenlijke binnendeur. Historisch gebouwd als buffer tegen tocht. In veel oudere woningen is de dichtkast slecht geïsoleerd: kieren rondom de binnendeur, ongeïsoleerde wanden, en soms zelfs glas dat niet dubbelglas is. Door de dichtkast goed aan te pakken verlaag je het warmteverlies van de voordeur aanzienlijk."
-  - q: "Hoeveel kost kierdichting van een buitendeur?"
-    a: "Een complete kierdichting van een buitendeur (zijkanten, bovenzijde, onderkant, brievenbus, sleutelgat) kost €30 tot €100 aan materiaal, afhankelijk van de kwaliteit van de tochtstrips en of u een automatische bodemafdichting kiest. Inclusief arbeidsuren als u het zelf doet: €0 extra. Bij een installateur: €100 tot €200 inclusief materiaal."
-  - q: "Hoe weet ik of mijn buitendeur tochtert?"
-    a: "Drie tests: (1) Kaarstest: houd een brandende kaars of aansteker op 5 cm van het randje van de gesloten deur. Als de vlam beweegt, is er tocht. (2) Papiertest: leg een vel A4-papier in de deurnaad en sluit de deur. Trek het papier eruit. Als het zonder weerstand glijdt, is de kier te groot. (3) Warmtebeeldcamera: via een energie-adviesrapport of een thermometer-app op bepaalde smartphones."
-  - q: "Mag ik zomaar mijn brievenbus dichtmaken?"
-    a: "Dat hangt af van uw situatie. Als woningeigenaar mag u uw eigen brievenbus aanpassen of verplaatsen — zolang post bezorgd kan worden. PostNL en DHL vereisen een brievenbus die bereikbaar is. Als u de brievenbusopening in de deur wil dichtmaken, plaatst u een alternatieve brievenbus op de gevel of een vrijstaande paal. Huurders moeten toestemming vragen aan de verhuurder voor permanente wijzigingen."
+- q: Hoeveel energie verlies ik via kieren in de voordeur?
+  a: Dat hangt af van de omvang van de kieren. Een kier van 2 mm rondom een voordeur van 200 × 90 cm is ruim 1.000 mm² doorsnede — dat staat gelijk aan een gat van circa 3 × 3 cm. Via zo'n opening verliest een gemiddeld huis 5 tot 15% van zijn warmte door ventilatie. Kieren in de buitendeur zijn verantwoordelijk voor een aanzienlijk deel hiervan, zeker bij een oudere voordeur.
+- q: Wat is de beste tochtstrip voor een buitendeur?
+  a: Voor de zijkanten en bovenkant van de deur is een zelfklevende EPDM-tochtstrip of een opleggende borstelstrip het best. Voor de onderkant van de deur is een automatische tochtstrip (die omhoog gaat als de deur open is) de duurzaamste oplossing. Vermijd goedkope schuimtochtstrips — die slijten snel en verliezen hun veerkracht na 1 à 2 jaar.
+- q: Hoe dicht ik een sleutelgat af?
+  a: 'Er zijn drie opties: (1) een sleutelgatrozet met veer-dekplaatje (€3-€8) die het gat automatisch afdekt als er geen sleutel inzit; (2) een escutcheon met geborsteld metalen dekplaatje voor esthetischer resultaat; (3) een cilinderslot vervangen door een sleutelgatloos slot (€60-€120), geschikt als u toch al wil renoveren. Optie 1 is de eenvoudigste en goedkoopste.'
+- q: Hoe isoleer ik een brievenbus in de buitendeur?
+  a: 'Meerdere opties: (1) brievenbusklep met borstelstrip aan de binnenkant (€15-€30) — de borstelstrip blokkeert tocht terwijl post nog doorkan; (2) een dubbele brievenbuskleppen systeem met binnenklep (€20-€45); (3) brievenbus verplaatsen naar de gevel of een vrijstaande brievenbus buiten — dan sluit u de deuropening helemaal. Optie 3 is de meest effectieve maar vereist meer werk.'
+- q: Wat is een dichtkast bij een voordeur?
+  a: 'Een dichtkast (ook: tochtportaal of sas) is een kleine ruimte tussen de voordeur en de eigenlijke binnendeur. Historisch gebouwd als buffer tegen tocht. In veel oudere woningen is de dichtkast slecht geïsoleerd: kieren rondom de binnendeur, ongeïsoleerde wanden, en soms zelfs glas dat niet dubbelglas is. Door de dichtkast goed aan te pakken verlaag je het warmteverlies van de voordeur aanzienlijk.'
+- q: Hoeveel kost kierdichting van een buitendeur?
+  a: 'Een complete kierdichting van een buitendeur (zijkanten, bovenzijde, onderkant, brievenbus, sleutelgat) kost €30 tot €100 aan materiaal, afhankelijk van de kwaliteit van de tochtstrips en of u een automatische bodemafdichting kiest. Inclusief arbeidsuren als u het zelf doet: €0 extra. Bij een installateur: €100 tot €200 inclusief materiaal.'
+- q: Hoe weet ik of mijn buitendeur tochtert?
+  a: 'Drie tests: (1) Kaarstest: houd een brandende kaars of aansteker op 5 cm van het randje van de gesloten deur. Als de vlam beweegt, is er tocht. (2) Papiertest: leg een vel A4-papier in de deurnaad en sluit de deur. Trek het papier eruit. Als het zonder weerstand glijdt, is de kier te groot. (3) Warmtebeeldcamera: via een energie-adviesrapport of een thermometer-app op bepaalde smartphones.'
+- q: Mag ik zomaar mijn brievenbus dichtmaken?
+  a: Dat hangt af van uw situatie. Als woningeigenaar mag u uw eigen brievenbus aanpassen of verplaatsen — zolang post bezorgd kan worden. PostNL en DHL vereisen een brievenbus die bereikbaar is. Als u de brievenbusopening in de deur wil dichtmaken, plaatst u een alternatieve brievenbus op de gevel of een vrijstaande paal. Huurders moeten toestemming vragen aan de verhuurder voor permanente wijzigingen.
 products:
-  - name: "EPDM tochtstrip buitendeur (set voor 1 deur)"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "18"
-  - name: "Automatische tochtdrempel voor buitendeur"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "45"
+- name: EPDM tochtstrip buitendeur (set voor 1 deur)
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '18'
+- name: Automatische tochtdrempel voor buitendeur
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '45'
+schema_type: Article
 ---
 
 Ik krijg regelmatig de vraag: "Mark, ik heb alles al geïsoleerd — spouwmuur, dak, vloer — maar het blijft tochten. Waar zit het?"

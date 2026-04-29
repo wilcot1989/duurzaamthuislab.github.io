@@ -1,38 +1,49 @@
 ---
-title: "Groene Stroom vs Grijze Stroom 2026"
-date: 2026-06-17T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Het verschil tussen groene en grijze stroom uitgelegd. Kosten vergeleken, is groene stroom echt duurzamer, en welk energiecontract past bij jou in 2026?"
-categories: ["energie"]
-tags: ["groene stroom", "grijze stroom", "energiecontract", "duurzame energie", "certificaten"]
-keywords: ["groene stroom vs grijze stroom", "verschil groene grijze stroom", "is groene stroom duurder", "groene stroom contract"]
+title: Groene Stroom vs Grijze Stroom 2026
+date: 2026-06-17 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Het verschil tussen groene en grijze stroom uitgelegd. Kosten vergeleken, is groene stroom echt duurzamer, en welk energiecontract past bij jou in 2026?
+categories:
+- energie
+tags:
+- groene stroom
+- grijze stroom
+- energiecontract
+- duurzame energie
+- certificaten
+keywords:
+- groene stroom vs grijze stroom
+- verschil groene grijze stroom
+- is groene stroom duurder
+- groene stroom contract
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het verschil tussen groene en grijze stroom?"
-    a: "Groene stroom is opgewekt uit hernieuwbare bronnen: wind, zon, water of biomassa. Grijze stroom komt uit fossiele bronnen: aardgas, kolen of kernenergie. Fysiek komt dezelfde stroom uit je stopcontact — het verschil zit in de Garanties van Oorsprong (GvO's): certificaten die bewijzen dat er ergens groene stroom is opgewekt."
-  - q: "Is groene stroom duurder dan grijze stroom?"
-    a: "Nauwelijks. Het prijsverschil is €0-€50/jaar voor een gemiddeld huishouden. Sommige groene aanbieders zijn zelfs goedkoper dan grijze. Dat komt doordat de kosten van wind- en zonne-energie fors zijn gedaald. De energiebelasting en netkosten (80% van je rekening) zijn hetzelfde voor groen en grijs."
-  - q: "Is groene stroom echt groen?"
-    a: "Dat hangt af van de leverancier. Sommige kopen goedkope GvO-certificaten uit het buitenland (bijv. Noorse waterkracht) zonder dat er extra groene stroom wordt opgewekt — dat is 'greenwashing'. Betere leveranciers investeren in nieuwe Nederlandse wind- en zonneparken. Check het energielabel van je leverancier bij de ACM."
-  - q: "Welke energieleverancier is het groenst?"
-    a: "De groenste leveranciers investeren in nieuwe Nederlandse opwek: Vandebron (direct van Nederlandse windmolens en zonneparken), Greenchoice (100% Nederlands groen + investeringen), en Pure Energie (eigen windparken). Check het ACM energielabel: leveranciers met >90% Nederlands groen scoren het best."
-  - q: "Maakt het uit of ik groene stroom kies?"
-    a: "Ja, indirect. Door groene stroom te kiezen, creëer je vraag naar GvO-certificaten, wat de businesscase voor nieuwe groene projecten verbetert. Het directe effect is beperkt als je leverancier alleen buitenlandse certificaten koopt. Het grootste effect heb je door zelf zonnepanelen te plaatsen of een leverancier te kiezen die investeert in nieuwe opwek."
-  - q: "Wat zijn Garanties van Oorsprong (GvO's)?"
-    a: "GvO's zijn certificaten die bewijzen dat er per MWh hernieuwbare stroom is opgewekt. Leveranciers kopen GvO's om hun stroom 'groen' te labelen. Probleem: GvO's uit Noorwegen (waterkracht) kosten slechts €0,20-€1,00/MWh — zo goedkoop dat het geen prikkel geeft voor nieuwe opwek. Nederlandse GvO's (wind/zon) zijn duurder en stimuleren wel nieuwe projecten."
+- q: Wat is het verschil tussen groene en grijze stroom?
+  a: 'Groene stroom is opgewekt uit hernieuwbare bronnen: wind, zon, water of biomassa. Grijze stroom komt uit fossiele bronnen: aardgas, kolen of kernenergie. Fysiek komt dezelfde stroom uit je stopcontact — het verschil zit in de Garanties van Oorsprong (GvO''s): certificaten die bewijzen dat er ergens groene stroom is opgewekt.'
+- q: Is groene stroom duurder dan grijze stroom?
+  a: Nauwelijks. Het prijsverschil is €0-€50/jaar voor een gemiddeld huishouden. Sommige groene aanbieders zijn zelfs goedkoper dan grijze. Dat komt doordat de kosten van wind- en zonne-energie fors zijn gedaald. De energiebelasting en netkosten (80% van je rekening) zijn hetzelfde voor groen en grijs.
+- q: Is groene stroom echt groen?
+  a: Dat hangt af van de leverancier. Sommige kopen goedkope GvO-certificaten uit het buitenland (bijv. Noorse waterkracht) zonder dat er extra groene stroom wordt opgewekt — dat is 'greenwashing'. Betere leveranciers investeren in nieuwe Nederlandse wind- en zonneparken. Check het energielabel van je leverancier bij de ACM.
+- q: Welke energieleverancier is het groenst?
+  a: 'De groenste leveranciers investeren in nieuwe Nederlandse opwek: Vandebron (direct van Nederlandse windmolens en zonneparken), Greenchoice (100% Nederlands groen + investeringen), en Pure Energie (eigen windparken). Check het ACM energielabel: leveranciers met >90% Nederlands groen scoren het best.'
+- q: Maakt het uit of ik groene stroom kies?
+  a: Ja, indirect. Door groene stroom te kiezen, creëer je vraag naar GvO-certificaten, wat de businesscase voor nieuwe groene projecten verbetert. Het directe effect is beperkt als je leverancier alleen buitenlandse certificaten koopt. Het grootste effect heb je door zelf zonnepanelen te plaatsen of een leverancier te kiezen die investeert in nieuwe opwek.
+- q: Wat zijn Garanties van Oorsprong (GvO's)?
+  a: 'GvO''s zijn certificaten die bewijzen dat er per MWh hernieuwbare stroom is opgewekt. Leveranciers kopen GvO''s om hun stroom ''groen'' te labelen. Probleem: GvO''s uit Noorwegen (waterkracht) kosten slechts €0,20-€1,00/MWh — zo goedkoop dat het geen prikkel geeft voor nieuwe opwek. Nederlandse GvO''s (wind/zon) zijn duurder en stimuleren wel nieuwe projecten.'
 products:
-  - name: "Tibber"
-    url: "https://tibber.com/nl"
-    price: "6"
-  - name: "Frank Energie"
-    url: "https://www.frankenergie.nl/"
-    price: "5"
-  - name: "Vattenfall Groene Stroom"
-    url: "https://www.vattenfall.nl/producten/stroom-en-gas/"
-    price: "7"
+- name: Tibber
+  url: https://tibber.com/nl
+  price: '6'
+- name: Frank Energie
+  url: https://www.frankenergie.nl/
+  price: '5'
+- name: Vattenfall Groene Stroom
+  url: https://www.vattenfall.nl/producten/stroom-en-gas/
+  price: '7'
+schema_type: Article
 ---
 
 Met 16 zonnepanelen op mijn dak wek ik zelf zo'n 5.200 kWh per jaar op — dat is echt groene stroom. Maar de stroom die ik 's winters van het net aftrek, hoe groen is die eigenlijk? Ik dook in de wereld van GvO-certificaten en ontdekte dat veel "groene" contracten in de praktijk nauwelijks iets bijdragen. In dit artikel leg ik het verschil uit en help ik je een echte keuze maken.

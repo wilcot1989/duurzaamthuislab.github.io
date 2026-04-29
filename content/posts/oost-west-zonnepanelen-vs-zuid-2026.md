@@ -1,32 +1,44 @@
 ---
-title: "Oost-west zonnepanelen vs. zuidsysteem"
-date: 2026-05-18T08:00:00+02:00
-lastmod: 2026-05-18T08:00:00+02:00
-description: "Oost-west of zuidopstelling voor zonnepanelen? Vergelijking van opbrengst, zelfverbruik en rendement na saldering-afbouw 2027. Met rekenvoorbeelden."
-categories: ["zonne-energie"]
-tags: ["zonnepanelen", "oost-west", "zuidopstelling", "saldering 2027", "oriëntatie", "opbrengst"]
-keywords: ["oost-west zonnepanelen", "zonnepanelen oriëntatie", "zuidsysteem vs oost-west", "zonnepanelen opbrengst oriëntatie"]
+title: Oost-west zonnepanelen vs. zuidsysteem
+date: 2026-05-18 08:00:00+02:00
+lastmod: 2026-05-18 08:00:00+02:00
+description: Oost-west of zuidopstelling voor zonnepanelen? Vergelijking van opbrengst, zelfverbruik en rendement na saldering-afbouw 2027. Met rekenvoorbeelden.
+categories:
+- zonne-energie
+tags:
+- zonnepanelen
+- oost-west
+- zuidopstelling
+- saldering 2027
+- oriëntatie
+- opbrengst
+keywords:
+- oost-west zonnepanelen
+- zonnepanelen oriëntatie
+- zuidsysteem vs oost-west
+- zonnepanelen opbrengst oriëntatie
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Levert een oost-west systeem minder op dan een zuidsysteem?"
-    a: "Een oost-west systeem levert 80-85% van de opbrengst van een optimaal zuidsysteem. Maar door de betere spreiding over de dag (minder piekoverschot) is het zelfverbruikspercentage hoger: 45-55% vs 25-35% bij zuidsysteem zonder batterij."
-  - q: "Wat verandert er na de saldering-afbouw in 2027?"
-    a: "Vanaf 2027 wordt de salderingsregeling stapsgewijs afgebouwd. In 2027 ontvang je nog 64% van de leveringstarief voor teruggeleverde stroom, in 2031 nog 0%. Dit maakt een hoog zelfverbruikspercentage steeds belangrijker — en dat is precies het voordeel van oost-west."
-  - q: "Hoeveel panelen kun je kwijt op een oost-west dak?"
-    a: "Op een zadeldak met oost en west oriëntatie kun je typisch 30-50% meer panelen kwijt dan op een enkelsysteem, omdat beide dakvlakken worden benut. Dit leidt tot een hogere totale productie ondanks de lagere opbrengst per paneel."
-  - q: "Is een oost-west systeem geschikt voor mijn plat dak?"
-    a: "Ja, platte daken zijn bij uitstek geschikt voor oost-west opstelling. Panelen worden op schragen geplaatst met 10-15° helling en oost-west oriëntatie. Dit maximaliseer de benutting van de dakoppervlakte."
-  - q: "Wat is de invloed van schaduw op oost-west systemen?"
-    a: "Bij oost-west systemen belichten oost-panelen 's ochtends en west-panelen 's middags. Schaduw op één vlak beïnvloedt het andere vlak niet. Met micro-omvormers of power optimizers is schade door schaduw verder te minimaliseren."
-  - q: "Heb ik een grotere omvormer nodig bij oost-west?"
-    a: "Nee, juist kleiner. De piekproductie bij oost-west is lager dan bij zuidsystemen, omdat oost en west nooit tegelijk op volle capaciteit zitten. Dit vermindert de oversizing van de omvormer. Een 5 kW omvormer kan prima 8-10 kWp aan panelen aan bij oost-west."
+- q: Levert een oost-west systeem minder op dan een zuidsysteem?
+  a: 'Een oost-west systeem levert 80-85% van de opbrengst van een optimaal zuidsysteem. Maar door de betere spreiding over de dag (minder piekoverschot) is het zelfverbruikspercentage hoger: 45-55% vs 25-35% bij zuidsysteem zonder batterij.'
+- q: Wat verandert er na de saldering-afbouw in 2027?
+  a: Vanaf 2027 wordt de salderingsregeling stapsgewijs afgebouwd. In 2027 ontvang je nog 64% van de leveringstarief voor teruggeleverde stroom, in 2031 nog 0%. Dit maakt een hoog zelfverbruikspercentage steeds belangrijker — en dat is precies het voordeel van oost-west.
+- q: Hoeveel panelen kun je kwijt op een oost-west dak?
+  a: Op een zadeldak met oost en west oriëntatie kun je typisch 30-50% meer panelen kwijt dan op een enkelsysteem, omdat beide dakvlakken worden benut. Dit leidt tot een hogere totale productie ondanks de lagere opbrengst per paneel.
+- q: Is een oost-west systeem geschikt voor mijn plat dak?
+  a: Ja, platte daken zijn bij uitstek geschikt voor oost-west opstelling. Panelen worden op schragen geplaatst met 10-15° helling en oost-west oriëntatie. Dit maximaliseer de benutting van de dakoppervlakte.
+- q: Wat is de invloed van schaduw op oost-west systemen?
+  a: Bij oost-west systemen belichten oost-panelen 's ochtends en west-panelen 's middags. Schaduw op één vlak beïnvloedt het andere vlak niet. Met micro-omvormers of power optimizers is schade door schaduw verder te minimaliseren.
+- q: Heb ik een grotere omvormer nodig bij oost-west?
+  a: Nee, juist kleiner. De piekproductie bij oost-west is lager dan bij zuidsystemen, omdat oost en west nooit tegelijk op volle capaciteit zitten. Dit vermindert de oversizing van de omvormer. Een 5 kW omvormer kan prima 8-10 kWp aan panelen aan bij oost-west.
 products:
-  - name: "Zonneplan zonnepanelen"
-    url: "https://go.duurzaamthuislab.nl/zonneplan"
-    price: "op aanvraag"
+- name: Zonneplan zonnepanelen
+  url: https://go.duurzaamthuislab.nl/zonneplan
+  price: op aanvraag
+schema_type: Article
 ---
 
 Mijn buurman installeerde twee jaar geleden een perfect zuidgericht systeem van 10 panelen. Ik koos voor 14 panelen in oost-west opstelling op mijn zadeldak. Hij lacht om mijn "niet-optimale" oriëntatie. Maar als ik mijn jaarrekening en de salderingscontext van 2027 erbij pak, lach ik terug.

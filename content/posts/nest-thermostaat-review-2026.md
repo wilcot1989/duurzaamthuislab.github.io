@@ -1,36 +1,48 @@
 ---
-title: "Slimme thermostaat review 2026: Nest"
-date: 2026-05-16T08:00:00+02:00
-lastmod: 2026-05-16T08:00:00+02:00
-description: "Nest Learning Thermostat, Tado en Honeywell T6 vergeleken op energiebesparing, gebruiksgemak en terugverdientijd. Eerlijke review na 18 maanden gebruik."
-categories: ["smart-home"]
-tags: ["slimme thermostaat", "Nest thermostaat", "Tado", "Honeywell", "energiebesparing", "smart home"]
-keywords: ["nest thermostaat review", "slimme thermostaat energiebesparing", "tado vs nest", "beste slimme thermostaat", "thermostaat energiebesparing 2026"]
+title: 'Slimme thermostaat review 2026: Nest'
+date: 2026-05-16 08:00:00+02:00
+lastmod: 2026-05-16 08:00:00+02:00
+description: Nest Learning Thermostat, Tado en Honeywell T6 vergeleken op energiebesparing, gebruiksgemak en terugverdientijd. Eerlijke review na 18 maanden gebruik.
+categories:
+- smart-home
+tags:
+- slimme thermostaat
+- Nest thermostaat
+- Tado
+- Honeywell
+- energiebesparing
+- smart home
+keywords:
+- nest thermostaat review
+- slimme thermostaat energiebesparing
+- tado vs nest
+- beste slimme thermostaat
+- thermostaat energiebesparing 2026
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel bespaar je echt met een slimme thermostaat?"
-    a: "De claims van fabrikanten (Tado: 31%, Nest: 20-30%) zijn optimistisch. In de praktijk bespaar je realistisch 10-20% op je gasrekening als je al bewust met temperatuur omgaat, of 20-30% als je een niet-geprogrammeerde thermostaat had. In euro's: €80-€200 per jaar voor een gemiddeld huishouden."
-  - q: "Is een Nest thermostaat compatibel met mijn cv-ketel?"
-    a: "De Nest Learning Thermostat is compatibel met de meeste Nederlandse cv-ketels (Intergas, Remeha, Nefit, ATAG, Bosch, Vaillant). Check de Nest-compatibiliteitschecker op de Google-website met het model van je ketel voor zekerheid."
-  - q: "Heeft een slimme thermostaat internet nodig?"
-    a: "Ja, voor de meeste functies (afstandsbediening, leergedrag, weersdata) is wifi nodig. Tado werkt ook als de verbinding weg is: het terugvalt op de lokaal ingestelde temperatuur. Nest zonder internet verliest de meeste smart-functies."
-  - q: "Wat is OpenTherm en waarom maakt het uit?"
-    a: "OpenTherm is een communicatieprotocol waarmee een thermostaat de ketel fijner kan aansturen: modulerend in plaats van aan/uit. Dit verbetert het rendement van de ketel met 5-15%. Niet alle ketels en thermostataten ondersteunen OpenTherm — controleer dit vooraf."
-  - q: "Kan ik een slimme thermostaat zelf installeren?"
-    a: "In de meeste gevallen ja. Vervangen van een bestaande thermostaat door een Nest of Tado is een klusje van 30-60 minuten. Je hoeft de ketel niet te raken. Bij twijfel over de bedrading: bel een installateur."
-  - q: "Heeft Tado een maandelijkse abonnementskosten?"
-    a: "De basisversie van Tado werkt zonder abonnement. De 'Auto-Assist' functie (automatisch thuisdetectie en weerscompensatie) kost €3,99/maand of €39,99/jaar. Nest heeft geen abonnementskosten voor basisfuncties."
-products: []
+- q: Hoeveel bespaar je echt met een slimme thermostaat?
+  a: 'De claims van fabrikanten (Tado: 31%, Nest: 20-30%) zijn optimistisch. In de praktijk bespaar je realistisch 10-20% op je gasrekening als je al bewust met temperatuur omgaat, of 20-30% als je een niet-geprogrammeerde thermostaat had. In euro''s: €80-€200 per jaar voor een gemiddeld huishouden.'
+- q: Is een Nest thermostaat compatibel met mijn cv-ketel?
+  a: De Nest Learning Thermostat is compatibel met de meeste Nederlandse cv-ketels (Intergas, Remeha, Nefit, ATAG, Bosch, Vaillant). Check de Nest-compatibiliteitschecker op de Google-website met het model van je ketel voor zekerheid.
+- q: Heeft een slimme thermostaat internet nodig?
+  a: 'Ja, voor de meeste functies (afstandsbediening, leergedrag, weersdata) is wifi nodig. Tado werkt ook als de verbinding weg is: het terugvalt op de lokaal ingestelde temperatuur. Nest zonder internet verliest de meeste smart-functies.'
+- q: Wat is OpenTherm en waarom maakt het uit?
+  a: 'OpenTherm is een communicatieprotocol waarmee een thermostaat de ketel fijner kan aansturen: modulerend in plaats van aan/uit. Dit verbetert het rendement van de ketel met 5-15%. Niet alle ketels en thermostataten ondersteunen OpenTherm — controleer dit vooraf.'
+- q: Kan ik een slimme thermostaat zelf installeren?
+  a: 'In de meeste gevallen ja. Vervangen van een bestaande thermostaat door een Nest of Tado is een klusje van 30-60 minuten. Je hoeft de ketel niet te raken. Bij twijfel over de bedrading: bel een installateur.'
+- q: Heeft Tado een maandelijkse abonnementskosten?
+  a: De basisversie van Tado werkt zonder abonnement. De 'Auto-Assist' functie (automatisch thuisdetectie en weerscompensatie) kost €3,99/maand of €39,99/jaar. Nest heeft geen abonnementskosten voor basisfuncties.
 products:
-  - name: "Tibber Pulse"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "249"
-  - name: "Tado V3+ thermostaat"
-    url: "https://tado.com"
-    price: "199"
+- name: Tibber Pulse
+  url: https://go.duurzaamthuislab.nl/tibber
+  price: '249'
+- name: Tado V3+ thermostaat
+  url: https://tado.com
+  price: '199'
+schema_type: Review
 ---
 
 Achtien maanden geleden had ik een gewone programmathermostaat die ik zelden aanpaste. De verwarming ging aan om 7:00 en uit om 22:30, ongeacht of ik thuis was. Energieverbruik: 1.680 m³ gas per jaar.

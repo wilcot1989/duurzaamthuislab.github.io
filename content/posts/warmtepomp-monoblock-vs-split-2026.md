@@ -1,42 +1,58 @@
 ---
-title: "Warmtepomp monoblock vs split 2026: keuze gids"
-date: 2026-06-20T08:00:00+02:00
-lastmod: 2026-06-20T08:00:00+02:00
-description: "Configuratie-keuze warmtepomp: geluid, plaatsing, prijs en installatie vergeleken voor de Nederlandse situatie."
-categories: ["warmtepompen"]
-tags: ["monoblock warmtepomp", "split warmtepomp", "warmtepomp configuratie", "Daikin Altherma", "ATAG ENERGION", "warmtepomp plaatsing", "geluid warmtepomp"]
-keywords: ["monoblock warmtepomp", "split warmtepomp verschil", "warmtepomp monoblock vs split", "warmtepomp buitenunit geluid", "Daikin monoblock", "ATAG split warmtepomp", "warmtepomp configuratie 2026"]
+title: 'Warmtepomp monoblock vs split 2026: keuze gids'
+date: 2026-06-20 08:00:00+02:00
+lastmod: 2026-06-20 08:00:00+02:00
+description: 'Configuratie-keuze warmtepomp: geluid, plaatsing, prijs en installatie vergeleken voor de Nederlandse situatie.'
+categories:
+- warmtepompen
+tags:
+- monoblock warmtepomp
+- split warmtepomp
+- warmtepomp configuratie
+- Daikin Altherma
+- ATAG ENERGION
+- warmtepomp plaatsing
+- geluid warmtepomp
+keywords:
+- monoblock warmtepomp
+- split warmtepomp verschil
+- warmtepomp monoblock vs split
+- warmtepomp buitenunit geluid
+- Daikin monoblock
+- ATAG split warmtepomp
+- warmtepomp configuratie 2026
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het verschil tussen een monoblock en een split-warmtepomp?"
-    a: "Bij een monoblock-warmtepomp zit de compressor en de warmtewisselaar volledig in de buitenunit. Water stroomt van de buitenunit naar binnenshuis via gewone leidingen. Bij een split-systeem is de compressor in de buitenunit, maar de warmtewisselaar (refrigerant-naar-water) zit in de binnenunit. Het koudemiddel loopt dus tussen buiten- en binnenunit. Een monoblock heeft geen koudemiddelleiding naar binnenshuis."
-  - q: "Welke warmtepomp is goedkoper: monoblock of split?"
-    a: "Monoblock-warmtepompen zijn doorgaans €500 tot €1.500 goedkoper in aanschaf dan vergelijkbare split-systemen. De installatie is ook eenvoudiger (geen koudemiddelleiding naar binnen, geen F-gassen-gecertificeerde monteur verplicht voor het binnensysteem). Totale kostenbesparing: €1.000 tot €2.500. Maar dit voordeel verdwijnt als de buitenunit extra bescherming nodig heeft (koudebestendigheid bij strenge vorst)."
-  - q: "Maakt een monoblock warmtepomp meer of minder geluid dan een split?"
-    a: "Beide systemen hebben een buitenunit die geluid maakt (ventilator + compressor). De hoeveelheid geluid hangt meer af van het merk en model dan van monoblock vs. split. Een monoblock heeft soms een iets hogere geluidsniveau omdat de compressor in de buitenunit zit en niet gedempt kan worden door de binnenwand. Een split-systeem kan de binnenunit dichter bij de geluidsabsorberende muur plaatsen. Verschil in de praktijk: 1-3 dB(A), nauwelijks merkbaar."
-  - q: "Werkt een monoblock warmtepomp bij strenge vorst?"
-    a: "Dat is de zwakste plek van een monoblock. Bij een monoblock stroomt er water in de buitenunit. Bij een lekke leiding of stroomuitval bij -10°C kan het water bevriezen en de pomp beschadigen. Kwalitatieve monoblock-systemen hebben vorstbescherming (antivriesvloeistof in de leidingen of een elektrisch verwarmingselement). Controleer dit bij de aanschaf. Split-systemen hebben dit probleem niet: er stroomt geen water in de buitenunit."
-  - q: "Heb ik voor een monoblock warmtepomp een F-gassen-gecertificeerde installateur nodig?"
-    a: "Niet altijd. Bij een monoblock-systeem zijn de koudemiddelleidingen volledig in de buitenunit afgesloten. De installateur hoeft geen koudemiddel te koppelen of vullen aan de binnenzijde. Alleen de waterleidingen worden aangesloten. Voor een split-systeem is een F-gassen-gecertificeerde monteur wettelijk verplicht voor de koudemiddelkoppeling. Dit kan de keuze van installateur (en daarmee de prijs) beïnvloeden."
-  - q: "Welke configuratie kiest Daikin: monoblock of split?"
-    a: "Daikin's Altherma-serie is beschikbaar in beide varianten. De Altherma 3 R is het split-systeem (meest verkocht). De Altherma 3 H HT Mono is de monoblock-variant voor hogere aanvoertemperaturen. Daikin adviseert split voor de meeste woningtoepassingen vanwege de betere koudebestendigheid. De monoblock is meer gericht op renovatieprojecten waar vereenvoudigde installatie prioriteit heeft."
-  - q: "Welke configuratie kiest ATAG: monoblock of split?"
-    a: "ATAG's ENERGION-serie is uitsluitend als split-systeem beschikbaar. ATAG heeft bewust geen monoblock in de consumentenlijn, omdat de Nederlandse markt (met gure winters) naar hun visie beter bediend is met een split-configuratie waarbij geen water in de buitenunit circuleert. Dit is een duidelijk standpunt dat ze onderbouwen met installateurservaringen."
-  - q: "Kan ik zelf kiezen waar ik de buitenunit van mijn warmtepomp plaatst?"
-    a: "Gedeeltelijk. De buitenunit heeft beperkingen: minimale afstand tot perceelgrens (vaak 3 meter in de gemeente-APV), minimale vrije ruimte rondom de unit voor luchtcirculatie (30-60 cm), en geluidseisen. De unit mag niet in een gesloten ruimte staan. Bij twijfel: vraag uw gemeente naar de plaatsingsregels en vraag de installateur om een geluidsberekening als uw buren dicht bij de geplande locatie wonen."
+- q: Wat is het verschil tussen een monoblock en een split-warmtepomp?
+  a: Bij een monoblock-warmtepomp zit de compressor en de warmtewisselaar volledig in de buitenunit. Water stroomt van de buitenunit naar binnenshuis via gewone leidingen. Bij een split-systeem is de compressor in de buitenunit, maar de warmtewisselaar (refrigerant-naar-water) zit in de binnenunit. Het koudemiddel loopt dus tussen buiten- en binnenunit. Een monoblock heeft geen koudemiddelleiding naar binnenshuis.
+- q: 'Welke warmtepomp is goedkoper: monoblock of split?'
+  a: 'Monoblock-warmtepompen zijn doorgaans €500 tot €1.500 goedkoper in aanschaf dan vergelijkbare split-systemen. De installatie is ook eenvoudiger (geen koudemiddelleiding naar binnen, geen F-gassen-gecertificeerde monteur verplicht voor het binnensysteem). Totale kostenbesparing: €1.000 tot €2.500. Maar dit voordeel verdwijnt als de buitenunit extra bescherming nodig heeft (koudebestendigheid bij strenge vorst).'
+- q: Maakt een monoblock warmtepomp meer of minder geluid dan een split?
+  a: 'Beide systemen hebben een buitenunit die geluid maakt (ventilator + compressor). De hoeveelheid geluid hangt meer af van het merk en model dan van monoblock vs. split. Een monoblock heeft soms een iets hogere geluidsniveau omdat de compressor in de buitenunit zit en niet gedempt kan worden door de binnenwand. Een split-systeem kan de binnenunit dichter bij de geluidsabsorberende muur plaatsen. Verschil in de praktijk: 1-3 dB(A), nauwelijks merkbaar.'
+- q: Werkt een monoblock warmtepomp bij strenge vorst?
+  a: 'Dat is de zwakste plek van een monoblock. Bij een monoblock stroomt er water in de buitenunit. Bij een lekke leiding of stroomuitval bij -10°C kan het water bevriezen en de pomp beschadigen. Kwalitatieve monoblock-systemen hebben vorstbescherming (antivriesvloeistof in de leidingen of een elektrisch verwarmingselement). Controleer dit bij de aanschaf. Split-systemen hebben dit probleem niet: er stroomt geen water in de buitenunit.'
+- q: Heb ik voor een monoblock warmtepomp een F-gassen-gecertificeerde installateur nodig?
+  a: Niet altijd. Bij een monoblock-systeem zijn de koudemiddelleidingen volledig in de buitenunit afgesloten. De installateur hoeft geen koudemiddel te koppelen of vullen aan de binnenzijde. Alleen de waterleidingen worden aangesloten. Voor een split-systeem is een F-gassen-gecertificeerde monteur wettelijk verplicht voor de koudemiddelkoppeling. Dit kan de keuze van installateur (en daarmee de prijs) beïnvloeden.
+- q: 'Welke configuratie kiest Daikin: monoblock of split?'
+  a: Daikin's Altherma-serie is beschikbaar in beide varianten. De Altherma 3 R is het split-systeem (meest verkocht). De Altherma 3 H HT Mono is de monoblock-variant voor hogere aanvoertemperaturen. Daikin adviseert split voor de meeste woningtoepassingen vanwege de betere koudebestendigheid. De monoblock is meer gericht op renovatieprojecten waar vereenvoudigde installatie prioriteit heeft.
+- q: 'Welke configuratie kiest ATAG: monoblock of split?'
+  a: ATAG's ENERGION-serie is uitsluitend als split-systeem beschikbaar. ATAG heeft bewust geen monoblock in de consumentenlijn, omdat de Nederlandse markt (met gure winters) naar hun visie beter bediend is met een split-configuratie waarbij geen water in de buitenunit circuleert. Dit is een duidelijk standpunt dat ze onderbouwen met installateurservaringen.
+- q: Kan ik zelf kiezen waar ik de buitenunit van mijn warmtepomp plaatst?
+  a: 'Gedeeltelijk. De buitenunit heeft beperkingen: minimale afstand tot perceelgrens (vaak 3 meter in de gemeente-APV), minimale vrije ruimte rondom de unit voor luchtcirculatie (30-60 cm), en geluidseisen. De unit mag niet in een gesloten ruimte staan. Bij twijfel: vraag uw gemeente naar de plaatsingsregels en vraag de installateur om een geluidsberekening als uw buren dicht bij de geplande locatie wonen.'
 products:
-  - name: "Daikin Altherma 3 R split warmtepomp (8 kW)"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "10500"
-  - name: "ATAG ENERGION hybride warmtepomp (split)"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "8200"
-  - name: "Daikin Altherma 3 H HT Mono (monoblock)"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "9800"
+- name: Daikin Altherma 3 R split warmtepomp (8 kW)
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '10500'
+- name: ATAG ENERGION hybride warmtepomp (split)
+  url: https://go.duurzaamthuislab.nl/atag
+  price: '8200'
+- name: Daikin Altherma 3 H HT Mono (monoblock)
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '9800'
+schema_type: Article
 ---
 
 Drie maanden geleden vergeleek ik twee offertes voor een warmtepomp-installatie in een vrijstaande woning. Beide offertes waren van kwalitatieve installateurs. Het eerste systeem: een monoblock. Het tweede: een split. Prijsverschil: €1.800 in het voordeel van de monoblock.

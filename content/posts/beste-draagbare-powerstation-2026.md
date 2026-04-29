@@ -1,43 +1,56 @@
 ---
-title: "Beste Draagbare Powerstation 2026: Top 7 Vergeleken"
-date: 2026-02-24T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "De 7 beste draagbare powerstations van 2026 vergeleken op capaciteit, vermogen, prijs en functies. Vind het perfecte powerstation voor jouw situatie."
-categories: ["powerstations"]
-tags: ["powerstation vergelijking", "draagbaar powerstation", "EcoFlow", "Jackery", "Bluetti", "Anker"]
-keywords: ["beste powerstation", "draagbare powerstation vergelijken", "powerstation kopen", "beste powerstation 2026", "draagbaar powerstation test"]
+title: 'Beste Draagbare Powerstation 2026: Top 7 Vergeleken'
+date: 2026-02-24 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: De 7 beste draagbare powerstations van 2026 vergeleken op capaciteit, vermogen, prijs en functies. Vind het perfecte powerstation voor jouw situatie.
+categories:
+- powerstations
+tags:
+- powerstation vergelijking
+- draagbaar powerstation
+- EcoFlow
+- Jackery
+- Bluetti
+- Anker
+keywords:
+- beste powerstation
+- draagbare powerstation vergelijken
+- powerstation kopen
+- beste powerstation 2026
+- draagbaar powerstation test
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het beste draagbare powerstation van 2026?"
-    a: "De EcoFlow Delta 2 Max biedt de beste combinatie van capaciteit (2048Wh), vermogen (2400W) en laadsnelheid. Voor een kleiner budget is de Anker SOLIX C1000 een uitstekend alternatief."
-  - q: "Hoeveel watt heb ik nodig in een powerstation?"
-    a: "Dat hangt af van je gebruik. Voor telefoons en laptops volstaat 500-800W. Wil je een koelkast, koffiezetapparaat of elektrische barbecue aansluiten, kies dan minimaal 1500-2000W."
-  - q: "Hoe lang gaat een powerstation mee?"
-    a: "Moderne LiFePO4-powerstations gaan 3000 tot 3500 laadcycli mee voordat de capaciteit naar 80% daalt. Bij dagelijks gebruik is dat ongeveer 10 jaar."
-  - q: "Kan ik een powerstation opladen met zonnepanelen?"
-    a: "Ja, alle powerstations in dit overzicht ondersteunen opladen via zonnepanelen. De laadsnelheid hangt af van het zonnepaneel-vermogen en de maximale solar-input van het powerstation."
-  - q: "Is een powerstation geschikt als noodstroomvoorziening thuis?"
-    a: "Absoluut. Een powerstation met minimaal 1000Wh kan bij een stroomstoring je verlichting, wifi-router en telefoon urenlang van stroom voorzien. Grotere modellen kunnen ook je koelkast draaiende houden."
-  - q: "Wat is het verschil tussen een powerstation en een thuisbatterij?"
-    a: "Een powerstation is draagbaar en heeft ingebouwde stopcontacten. Een thuisbatterij wordt vast geinstalleerd, gekoppeld aan je zonnepanelen en het elektriciteitsnet. Lees onze gids over de beste thuisbatterijen voor meer informatie."
-  - q: "Mag ik een powerstation meenemen in het vliegtuig?"
-    a: "Dat hangt af van de capaciteit. De meeste luchtvaartmaatschappijen staan batterijen tot 100Wh toe in handbagage. Powerstations overschrijden deze limiet ruimschoots en mogen daarom niet mee het vliegtuig in."
+- q: Wat is het beste draagbare powerstation van 2026?
+  a: De EcoFlow Delta 2 Max biedt de beste combinatie van capaciteit (2048Wh), vermogen (2400W) en laadsnelheid. Voor een kleiner budget is de Anker SOLIX C1000 een uitstekend alternatief.
+- q: Hoeveel watt heb ik nodig in een powerstation?
+  a: Dat hangt af van je gebruik. Voor telefoons en laptops volstaat 500-800W. Wil je een koelkast, koffiezetapparaat of elektrische barbecue aansluiten, kies dan minimaal 1500-2000W.
+- q: Hoe lang gaat een powerstation mee?
+  a: Moderne LiFePO4-powerstations gaan 3000 tot 3500 laadcycli mee voordat de capaciteit naar 80% daalt. Bij dagelijks gebruik is dat ongeveer 10 jaar.
+- q: Kan ik een powerstation opladen met zonnepanelen?
+  a: Ja, alle powerstations in dit overzicht ondersteunen opladen via zonnepanelen. De laadsnelheid hangt af van het zonnepaneel-vermogen en de maximale solar-input van het powerstation.
+- q: Is een powerstation geschikt als noodstroomvoorziening thuis?
+  a: Absoluut. Een powerstation met minimaal 1000Wh kan bij een stroomstoring je verlichting, wifi-router en telefoon urenlang van stroom voorzien. Grotere modellen kunnen ook je koelkast draaiende houden.
+- q: Wat is het verschil tussen een powerstation en een thuisbatterij?
+  a: Een powerstation is draagbaar en heeft ingebouwde stopcontacten. Een thuisbatterij wordt vast geinstalleerd, gekoppeld aan je zonnepanelen en het elektriciteitsnet. Lees onze gids over de beste thuisbatterijen voor meer informatie.
+- q: Mag ik een powerstation meenemen in het vliegtuig?
+  a: Dat hangt af van de capaciteit. De meeste luchtvaartmaatschappijen staan batterijen tot 100Wh toe in handbagage. Powerstations overschrijden deze limiet ruimschoots en mogen daarom niet mee het vliegtuig in.
 products:
-  - name: "EcoFlow Delta 2"
-    url: "https://nl.ecoflow.com/products/delta-2-portable-power-station"
-    price: "999"
-  - name: "Jackery Explorer 1000 Plus"
-    url: "https://www.jackery.com/products/explorer-1000-plus-portable-power-station"
-    price: "1199"
-  - name: "Anker SOLIX C1000"
-    url: "https://www.anker.com/eu-en/products/a1761"
-    price: "999"
-  - name: "Bluetti AC180"
-    url: "https://www.bluettipower.eu/products/ac180"
-    price: "1299"
+- name: EcoFlow Delta 2
+  url: https://nl.ecoflow.com/products/delta-2-portable-power-station
+  price: '999'
+- name: Jackery Explorer 1000 Plus
+  url: https://www.jackery.com/products/explorer-1000-plus-portable-power-station
+  price: '1199'
+- name: Anker SOLIX C1000
+  url: https://www.anker.com/eu-en/products/a1761
+  price: '999'
+- name: Bluetti AC180
+  url: https://www.bluettipower.eu/products/ac180
+  price: '1299'
+schema_type: Article
 ---
 
 Naast mijn vaste Huawei Luna thuisbatterij van 10 kWh heb ik ook altijd een draagbaar powerstation in huis — voor noodstroom, de camping of klussen in de tuin. Ik heb er de afgelopen maanden meerdere getest en uitgerekend welke de beste prijs per Wh biedt, het snelst laadt en het langst meegaat. Dit zijn mijn 7 favorieten.

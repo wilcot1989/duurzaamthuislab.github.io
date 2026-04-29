@@ -1,42 +1,56 @@
 ---
-title: "Saldering calculator 2027: jaar-voor-jaar impact bereken"
-date: 2026-04-29T08:00:00+02:00
-lastmod: 2026-04-29T08:00:00+02:00
-description: "Vul kWh-verbruik, zonnepanelen en thuisbatterij in. Krijg complete jaar-voor-jaar berekening 2026-2030."
-categories: ["zonne-energie"]
-tags: ["saldering", "saldering 2027", "calculator", "thuisbatterij", "zonnepanelen", "rekenmodel", "energie"]
-keywords: ["saldering calculator", "saldering 2027 berekenen", "saldering thuisbatterij rekenmodel", "zonnepanelen rendement na 2027", "saldering afbouw bereken"]
+title: 'Saldering calculator 2027: jaar-voor-jaar impact bereken'
+date: 2026-04-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
+description: Vul kWh-verbruik, zonnepanelen en thuisbatterij in. Krijg complete jaar-voor-jaar berekening 2026-2030.
+categories:
+- zonne-energie
+tags:
+- saldering
+- saldering 2027
+- calculator
+- thuisbatterij
+- zonnepanelen
+- rekenmodel
+- energie
+keywords:
+- saldering calculator
+- saldering 2027 berekenen
+- saldering thuisbatterij rekenmodel
+- zonnepanelen rendement na 2027
+- saldering afbouw bereken
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Hoe nauwkeurig is deze calculator?"
-    a: "De calculator gebruikt de afbouw-percentages uit het concept-wetsvoorstel saldering 2027 (juli 2024 versie). De werkelijke afbouw kan afwijken — vooral als de Eerste Kamer wijzigingen voorstelt. Reken met deze cijfers als richtbedrag, niet als hard contract."
-  - q: "Wat zijn de standaard aannames?"
-    a: "Stroomprijs €0.32/kWh inkoop (2026 gemiddeld), terugleverprijs €0.08/kWh in afbouw-jaren (huidige marktwaarde grootverbruiker), eigen verbruik 30% zonder batterij, 75% met 5 kWh batterij, 90% met 10 kWh."
-  - q: "Geldt dit ook voor mijn dynamisch contract?"
-    a: "Met een dynamisch contract verandert de berekening. Saldering geldt nog tot 2027, dan komt de afbouw. Maar bij dynamisch contract verdien je extra door piek-uren-laden uit batterij. Dit voordeel is NIET in deze calculator verwerkt — kijk daarvoor naar onze dynamisch-contract-rekenmodel."
-  - q: "Wat verandert er precies in 2027 en 2028?"
-    a: "Per 1-1-2027: salderingspercentage daalt van 100% naar 64%. 1-1-2028: naar 28%. 1-1-2029: naar 0%. Vanaf 2029 krijg je alleen nog terugleverprijs (~€0.07-€0.09/kWh) voor overschot."
-  - q: "Wanneer is een thuisbatterij echt rendabel?"
-    a: "Vuistregel uit deze calculator: bij >2.500 kWh overschot/jaar wordt 5 kWh batterij rendabel binnen 8-10 jaar. Bij <1.500 kWh overschot is een batterij financieel zelden de moeite. De calculator toont per scenario de exacte break-even."
-  - q: "Wat als ik MEER verbruik dan opwek?"
-    a: "Dan zit je sowieso onder saldering-limiet en verandert er voor jou minder. Je kleine overschot wordt iets minder waard, maar de grootste impact zit bij netto-leveranciers (mensen die meer opwekken dan verbruiken)."
-  - q: "Hebben zonnepanelen nog zin na 2027?"
-    a: "Ja, absoluut. Zonnepanelen besparen je primair op INKOOP (€0.32/kWh) — niet op TERUGLEVERING (€0.08). Eigen verbruik blijft volledig rendabel. Een installatie met goede oost-west-oriëntatie en hoog eigen verbruik (warmtepomp, EV-laden, batterij) blijft sterk rendabel."
-  - q: "Kan ik via een dynamisch contract de saldering-stop omzeilen?"
-    a: "Niet direct, maar wel slim arbitreren. Met dynamisch contract + thuisbatterij verkoop je niet meer aan vaste terugleverprijs maar aan dagelijkse piek-prijs (kan €0.40-€0.60 zijn op zomeravonden). Dat compenseert deels het saldering-verlies."
+- q: Hoe nauwkeurig is deze calculator?
+  a: De calculator gebruikt de afbouw-percentages uit het concept-wetsvoorstel saldering 2027 (juli 2024 versie). De werkelijke afbouw kan afwijken — vooral als de Eerste Kamer wijzigingen voorstelt. Reken met deze cijfers als richtbedrag, niet als hard contract.
+- q: Wat zijn de standaard aannames?
+  a: Stroomprijs €0.32/kWh inkoop (2026 gemiddeld), terugleverprijs €0.08/kWh in afbouw-jaren (huidige marktwaarde grootverbruiker), eigen verbruik 30% zonder batterij, 75% met 5 kWh batterij, 90% met 10 kWh.
+- q: Geldt dit ook voor mijn dynamisch contract?
+  a: Met een dynamisch contract verandert de berekening. Saldering geldt nog tot 2027, dan komt de afbouw. Maar bij dynamisch contract verdien je extra door piek-uren-laden uit batterij. Dit voordeel is NIET in deze calculator verwerkt — kijk daarvoor naar onze dynamisch-contract-rekenmodel.
+- q: Wat verandert er precies in 2027 en 2028?
+  a: 'Per 1-1-2027: salderingspercentage daalt van 100% naar 64%. 1-1-2028: naar 28%. 1-1-2029: naar 0%. Vanaf 2029 krijg je alleen nog terugleverprijs (~€0.07-€0.09/kWh) voor overschot.'
+- q: Wanneer is een thuisbatterij echt rendabel?
+  a: 'Vuistregel uit deze calculator: bij >2.500 kWh overschot/jaar wordt 5 kWh batterij rendabel binnen 8-10 jaar. Bij <1.500 kWh overschot is een batterij financieel zelden de moeite. De calculator toont per scenario de exacte break-even.'
+- q: Wat als ik MEER verbruik dan opwek?
+  a: Dan zit je sowieso onder saldering-limiet en verandert er voor jou minder. Je kleine overschot wordt iets minder waard, maar de grootste impact zit bij netto-leveranciers (mensen die meer opwekken dan verbruiken).
+- q: Hebben zonnepanelen nog zin na 2027?
+  a: Ja, absoluut. Zonnepanelen besparen je primair op INKOOP (€0.32/kWh) — niet op TERUGLEVERING (€0.08). Eigen verbruik blijft volledig rendabel. Een installatie met goede oost-west-oriëntatie en hoog eigen verbruik (warmtepomp, EV-laden, batterij) blijft sterk rendabel.
+- q: Kan ik via een dynamisch contract de saldering-stop omzeilen?
+  a: Niet direct, maar wel slim arbitreren. Met dynamisch contract + thuisbatterij verkoop je niet meer aan vaste terugleverprijs maar aan dagelijkse piek-prijs (kan €0.40-€0.60 zijn op zomeravonden). Dat compenseert deels het saldering-verlies.
 products:
-  - name: "Sessy thuisbatterij 5 kWh"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3795"
-  - name: "Sessy thuisbatterij 10 kWh"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "5995"
-  - name: "Marstek Venus E 8.2 kWh"
-    url: "https://go.duurzaamthuislab.nl/marstek"
-    price: "2299"
+- name: Sessy thuisbatterij 5 kWh
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '3795'
+- name: Sessy thuisbatterij 10 kWh
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '5995'
+- name: Marstek Venus E 8.2 kWh
+  url: https://go.duurzaamthuislab.nl/marstek
+  price: '2299'
+schema_type: Article
 ---
 
 Vorige week zat een klant met een spreadsheet aan mijn tafel. "Mark, mijn zonnepaneleninstallateur belde dat ik €1.800 per jaar ga verliezen vanaf 2027. Klopt dat?" Ik keek naar zijn cijfers: 12 panelen, 4.5 kWp, 4.200 kWh verbruik per jaar. Hij wekt 4.000 kWh op. Saldering staat op de tocht. Wat gaat er werkelijk gebeuren?

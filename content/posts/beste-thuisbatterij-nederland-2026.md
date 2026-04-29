@@ -1,43 +1,57 @@
 ---
-title: "Beste Thuisbatterij 2026: Top 5 voor Nederlandse Huishoudens"
-date: 2026-02-24T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "De 5 beste thuisbatterijen voor Nederland vergeleken. Inclusief terugverdientijd, subsidies, compatibiliteit en advies over de salderingsregeling."
-categories: ["thuisbatterijen"]
-tags: ["thuisbatterij", "huisbatterij", "Huawei Luna", "BYD", "Tesla Powerwall", "Enphase", "SolarEdge"]
-keywords: ["beste thuisbatterij", "thuisbatterij kopen", "thuisbatterij vergelijken nederland", "thuisbatterij 2026", "thuisbatterij salderingsregeling"]
+title: 'Beste Thuisbatterij 2026: Top 5 voor Nederlandse Huishoudens'
+date: 2026-02-24 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: De 5 beste thuisbatterijen voor Nederland vergeleken. Inclusief terugverdientijd, subsidies, compatibiliteit en advies over de salderingsregeling.
+categories:
+- thuisbatterijen
+tags:
+- thuisbatterij
+- huisbatterij
+- Huawei Luna
+- BYD
+- Tesla Powerwall
+- Enphase
+- SolarEdge
+keywords:
+- beste thuisbatterij
+- thuisbatterij kopen
+- thuisbatterij vergelijken nederland
+- thuisbatterij 2026
+- thuisbatterij salderingsregeling
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kost een thuisbatterij in Nederland in 2026?"
-    a: "Een thuisbatterij kost in Nederland tussen de €4.000 en €12.000, afhankelijk van de capaciteit en het merk. Inclusief installatie moet je rekenen op €5.500 tot €14.000 voor een compleet systeem."
-  - q: "Hoe lang duurt het voordat een thuisbatterij zichzelf terugverdient?"
-    a: "Met de afbouw van de salderingsregeling en huidige energieprijzen ligt de terugverdientijd in 2026 tussen de 7 en 12 jaar. Dit wordt korter naarmate de salderingsregeling verder wordt afgebouwd."
-  - q: "Heb ik een thuisbatterij nodig als ik zonnepanelen heb?"
-    a: "Met de afbouw van de salderingsregeling wordt een thuisbatterij steeds interessanter. Zonder thuisbatterij lever je overdag opgewekte stroom terug tegen een steeds lagere vergoeding. Met een batterij sla je die stroom op voor eigen gebruik in de avond."
-  - q: "Welke thuisbatterij is het beste voor een gemiddeld Nederlands huishouden?"
-    a: "Voor een gemiddeld Nederlands huishouden met zonnepanelen raden wij de Huawei Luna 2000 (5-15 kWh) of de BYD Battery-Box (5-12,8 kWh) aan. Beide bieden een goede balans tussen capaciteit, prijs en compatibiliteit."
-  - q: "Kan ik ISDE-subsidie krijgen voor een thuisbatterij?"
-    a: "Ja, via de ISDE-regeling (Investeringssubsidie Duurzame Energie) kun je subsidie aanvragen voor een thuisbatterij. In 2026 bedraagt de subsidie maximaal €900 per kWh opslagcapaciteit, met een maximum van €5.400 voor een 6 kWh systeem. Lees onze complete gids over zonnepanelen subsidies voor alle details."
-  - q: "Moet de thuisbatterij van hetzelfde merk zijn als mijn omvormer?"
-    a: "Niet altijd, maar het wordt sterk aanbevolen. Een thuisbatterij van hetzelfde merk als je omvormer werkt naadloos samen en biedt de beste prestaties. Sommige combinaties van verschillende merken werken ook, maar vragen om een extra interface of hybride omvormer."
-  - q: "Hoe lang gaat een thuisbatterij mee?"
-    a: "De meeste thuisbatterijen hebben een levensduur van 10 tot 15 jaar, oftewel 6000 tot 10.000 laadcycli. Na die periode heeft de batterij nog steeds circa 60-70% van de oorspronkelijke capaciteit."
+- q: Wat kost een thuisbatterij in Nederland in 2026?
+  a: Een thuisbatterij kost in Nederland tussen de €4.000 en €12.000, afhankelijk van de capaciteit en het merk. Inclusief installatie moet je rekenen op €5.500 tot €14.000 voor een compleet systeem.
+- q: Hoe lang duurt het voordat een thuisbatterij zichzelf terugverdient?
+  a: Met de afbouw van de salderingsregeling en huidige energieprijzen ligt de terugverdientijd in 2026 tussen de 7 en 12 jaar. Dit wordt korter naarmate de salderingsregeling verder wordt afgebouwd.
+- q: Heb ik een thuisbatterij nodig als ik zonnepanelen heb?
+  a: Met de afbouw van de salderingsregeling wordt een thuisbatterij steeds interessanter. Zonder thuisbatterij lever je overdag opgewekte stroom terug tegen een steeds lagere vergoeding. Met een batterij sla je die stroom op voor eigen gebruik in de avond.
+- q: Welke thuisbatterij is het beste voor een gemiddeld Nederlands huishouden?
+  a: Voor een gemiddeld Nederlands huishouden met zonnepanelen raden wij de Huawei Luna 2000 (5-15 kWh) of de BYD Battery-Box (5-12,8 kWh) aan. Beide bieden een goede balans tussen capaciteit, prijs en compatibiliteit.
+- q: Kan ik ISDE-subsidie krijgen voor een thuisbatterij?
+  a: Ja, via de ISDE-regeling (Investeringssubsidie Duurzame Energie) kun je subsidie aanvragen voor een thuisbatterij. In 2026 bedraagt de subsidie maximaal €900 per kWh opslagcapaciteit, met een maximum van €5.400 voor een 6 kWh systeem. Lees onze complete gids over zonnepanelen subsidies voor alle details.
+- q: Moet de thuisbatterij van hetzelfde merk zijn als mijn omvormer?
+  a: Niet altijd, maar het wordt sterk aanbevolen. Een thuisbatterij van hetzelfde merk als je omvormer werkt naadloos samen en biedt de beste prestaties. Sommige combinaties van verschillende merken werken ook, maar vragen om een extra interface of hybride omvormer.
+- q: Hoe lang gaat een thuisbatterij mee?
+  a: De meeste thuisbatterijen hebben een levensduur van 10 tot 15 jaar, oftewel 6000 tot 10.000 laadcycli. Na die periode heeft de batterij nog steeds circa 60-70% van de oorspronkelijke capaciteit.
 products:
-  - name: "Huawei Luna 2000"
-    url: "https://solar.huawei.com/eu/residential/luna"
-    price: "6000"
-  - name: "Tesla Powerwall 3"
-    url: "https://www.tesla.com/nl_nl/powerwall"
-    price: "9500"
-  - name: "EcoFlow PowerOcean"
-    url: "https://nl.ecoflow.com/products/power-ocean"
-    price: "7500"
-  - name: "Enphase IQ Battery 5P"
-    url: "https://enphase.com/nl/homeowners/storage/iq-battery-5p"
-    price: "5500"
+- name: Huawei Luna 2000
+  url: https://solar.huawei.com/eu/residential/luna
+  price: '6000'
+- name: Tesla Powerwall 3
+  url: https://www.tesla.com/nl_nl/powerwall
+  price: '9500'
+- name: EcoFlow PowerOcean
+  url: https://nl.ecoflow.com/products/power-ocean
+  price: '7500'
+- name: Enphase IQ Battery 5P
+  url: https://enphase.com/nl/homeowners/storage/iq-battery-5p
+  price: '5500'
+schema_type: Article
 ---
 
 Toen ik vorig jaar een thuisbatterij kocht, heb ik wekenlang zitten rekenen. Welk merk, welke capaciteit, en verdien ik het uberhaupt terug? Na maanden onderzoek en inmiddels een jaar ervaring met mijn eigen Huawei Luna 2000 van 10 kWh, deel ik hier welke 5 thuisbatterijen ik zou aanraden — en waarom.

@@ -1,40 +1,53 @@
 ---
-title: "Powerstation vs Thuisbatterij: Wat is het Verschil en Wat"
-date: 2026-03-14T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Powerstation of thuisbatterij? Ontdek de verschillen in capaciteit, kosten, installatie en gebruik. Met helder keuzekader voor jouw situatie."
-categories: ["powerstations"]
-tags: ["powerstation", "thuisbatterij", "energieopslag", "vergelijking", "thuisaccu", "draagbaar powerstation"]
-keywords: ["powerstation of thuisbatterij", "verschil powerstation thuisbatterij", "thuisaccu vergelijken", "powerstation vs thuisbatterij", "energieopslag thuis"]
+title: 'Powerstation vs Thuisbatterij: Wat is het Verschil en Wat'
+date: 2026-03-14 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Powerstation of thuisbatterij? Ontdek de verschillen in capaciteit, kosten, installatie en gebruik. Met helder keuzekader voor jouw situatie.
+categories:
+- powerstations
+tags:
+- powerstation
+- thuisbatterij
+- energieopslag
+- vergelijking
+- thuisaccu
+- draagbaar powerstation
+keywords:
+- powerstation of thuisbatterij
+- verschil powerstation thuisbatterij
+- thuisaccu vergelijken
+- powerstation vs thuisbatterij
+- energieopslag thuis
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het verschil tussen een powerstation en een thuisbatterij?"
-    a: "Een powerstation is draagbaar, heeft ingebouwde stopcontacten en werkt direct uit de doos. Een thuisbatterij wordt vast geïnstalleerd, is gekoppeld aan je zonnepanelen en het elektriciteitsnet, en vereist een professionele installatie."
-  - q: "Is een powerstation goedkoper dan een thuisbatterij?"
-    a: "Per kWh capaciteit is een powerstation duurder (€600-900/kWh) dan een thuisbatterij (€450-700/kWh inclusief installatie). Maar de totale aanschafprijs van een powerstation is lager omdat je minder capaciteit koopt."
-  - q: "Kan een powerstation mijn huis van stroom voorzien bij een stroomstoring?"
-    a: "Ja, maar beperkt. Een powerstation van 2000Wh kan je basisbehoeften (verlichting, wifi, telefoon, koelkast) 8-12 uur van stroom voorzien. Een thuisbatterij van 10kWh kan een volledig huishouden een dag lang draaien."
-  - q: "Heb ik zonnepanelen nodig voor een thuisbatterij?"
-    a: "Technisch niet, maar financieel wel. Zonder zonnepanelen laad je de thuisbatterij alleen met netstroom, wat de terugverdientijd sterk verlengt. De combinatie met zonnepanelen maakt een thuisbatterij pas echt rendabel."
-  - q: "Kan ik een powerstation opladen met mijn dakzonnepanelen?"
-    a: "Niet direct. Een powerstation laad je op met draagbare zonnepanelen of via een stopcontact. Dakzonnepanelen zijn gekoppeld aan een omvormer en het net, niet aan een los powerstation."
-  - q: "Mag ik zelf een thuisbatterij installeren?"
-    a: "Nee, een thuisbatterij moet geïnstalleerd worden door een gecertificeerde installateur. Het systeem wordt aangesloten op je elektrische installatie en het net, wat vakkennis vereist. Zelf installeren is gevaarlijk en niet toegestaan."
-  - q: "Kan ik een powerstation en thuisbatterij combineren?"
-    a: "Ja, dat is een slimme combinatie. Gebruik een thuisbatterij als vaste energieopslag voor je zonnepanelen thuis en een powerstation als draagbare back-up of voor onderweg. Veel huishoudens kiezen voor beide."
+- q: Wat is het verschil tussen een powerstation en een thuisbatterij?
+  a: Een powerstation is draagbaar, heeft ingebouwde stopcontacten en werkt direct uit de doos. Een thuisbatterij wordt vast geïnstalleerd, is gekoppeld aan je zonnepanelen en het elektriciteitsnet, en vereist een professionele installatie.
+- q: Is een powerstation goedkoper dan een thuisbatterij?
+  a: Per kWh capaciteit is een powerstation duurder (€600-900/kWh) dan een thuisbatterij (€450-700/kWh inclusief installatie). Maar de totale aanschafprijs van een powerstation is lager omdat je minder capaciteit koopt.
+- q: Kan een powerstation mijn huis van stroom voorzien bij een stroomstoring?
+  a: Ja, maar beperkt. Een powerstation van 2000Wh kan je basisbehoeften (verlichting, wifi, telefoon, koelkast) 8-12 uur van stroom voorzien. Een thuisbatterij van 10kWh kan een volledig huishouden een dag lang draaien.
+- q: Heb ik zonnepanelen nodig voor een thuisbatterij?
+  a: Technisch niet, maar financieel wel. Zonder zonnepanelen laad je de thuisbatterij alleen met netstroom, wat de terugverdientijd sterk verlengt. De combinatie met zonnepanelen maakt een thuisbatterij pas echt rendabel.
+- q: Kan ik een powerstation opladen met mijn dakzonnepanelen?
+  a: Niet direct. Een powerstation laad je op met draagbare zonnepanelen of via een stopcontact. Dakzonnepanelen zijn gekoppeld aan een omvormer en het net, niet aan een los powerstation.
+- q: Mag ik zelf een thuisbatterij installeren?
+  a: Nee, een thuisbatterij moet geïnstalleerd worden door een gecertificeerde installateur. Het systeem wordt aangesloten op je elektrische installatie en het net, wat vakkennis vereist. Zelf installeren is gevaarlijk en niet toegestaan.
+- q: Kan ik een powerstation en thuisbatterij combineren?
+  a: Ja, dat is een slimme combinatie. Gebruik een thuisbatterij als vaste energieopslag voor je zonnepanelen thuis en een powerstation als draagbare back-up of voor onderweg. Veel huishoudens kiezen voor beide.
 products:
-  - name: "EcoFlow Delta 2 Max"
-    url: "https://nl.ecoflow.com/products/delta-2-max-portable-power-station"
-    price: "1899"
-  - name: "Huawei Luna 2000"
-    url: "https://solar.huawei.com/eu/residential/luna"
-    price: "6000"
-  - name: "Tesla Powerwall 3"
-    url: "https://www.tesla.com/nl_nl/powerwall"
-    price: "9500"
+- name: EcoFlow Delta 2 Max
+  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  price: '1899'
+- name: Huawei Luna 2000
+  url: https://solar.huawei.com/eu/residential/luna
+  price: '6000'
+- name: Tesla Powerwall 3
+  url: https://www.tesla.com/nl_nl/powerwall
+  price: '9500'
+schema_type: Article
 ---
 
 Ik heb ze allebei in huis: een Huawei Luna 2000 van 10 kWh als vaste thuisbatterij aan mijn zonnepanelen, en een draagbaar EcoFlow powerstation voor noodstroom en de camping. Twee totaal verschillende producten, maar ik krijg regelmatig de vraag welke je moet kiezen. In dit artikel leg ik het verschil uit op basis van mijn eigen ervaring met beide systemen.

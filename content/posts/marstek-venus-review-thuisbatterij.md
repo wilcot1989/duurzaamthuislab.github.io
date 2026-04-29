@@ -1,45 +1,60 @@
 ---
-title: "Marstek Venus review 2026: de goedkoopste slimme"
-date: 2026-05-07T08:00:00+02:00
-lastmod: 2026-05-07T08:00:00+02:00
-description: "Marstek Venus is de goedkoopste plug-and-play thuisbatterij van Nederland. Eerlijke review na 4 maanden testen — werkt het écht zo simpel als beloofd?"
-categories: ["thuisbatterijen"]
-tags: ["Marstek", "Venus", "thuisbatterij", "review", "plug and play", "betaalbaar"]
-keywords: ["marstek review", "marstek venus review", "marstek venus a", "marstek venus e", "marstek thuisbatterij", "marstek venus prijs", "marstek venus aanbieding"]
+title: 'Marstek Venus review 2026: de goedkoopste slimme'
+date: 2026-05-07 08:00:00+02:00
+lastmod: 2026-05-07 08:00:00+02:00
+description: Marstek Venus is de goedkoopste plug-and-play thuisbatterij van Nederland. Eerlijke review na 4 maanden testen — werkt het écht zo simpel als beloofd?
+categories:
+- thuisbatterijen
+tags:
+- Marstek
+- Venus
+- thuisbatterij
+- review
+- plug and play
+- betaalbaar
+keywords:
+- marstek review
+- marstek venus review
+- marstek venus a
+- marstek venus e
+- marstek thuisbatterij
+- marstek venus prijs
+- marstek venus aanbieding
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is Marstek Venus?"
-    a: "Marstek Venus is een plug-and-play thuisbatterij van Chinese fabrikant Marstek Energy. Verkrijgbaar als Venus A (5,12 kWh, eenfasig) en Venus E (8,2 kWh, modulair tot 24 kWh). Het bijzondere: je plugt 'm in een normaal stopcontact (Venus A) of in je meterkast (Venus E) — geen complexe installatie nodig."
-  - q: "Wat kost Marstek Venus in 2026?"
-    a: "Venus A 5,12 kWh: vanaf €1.799 (zonder installatie nodig). Venus E 8,2 kWh: vanaf €2.299 + ~€350 installatie. Modulaire uitbreiding: €1.099 per extra 8,2 kWh module. Veruit de goedkoopste serieuze thuisbatterij in NL."
-  - q: "Werkt Marstek met dynamisch contract?"
-    a: "Ja, via Home Assistant integratie of via Marstek's eigen app met EnergyZero koppeling. Je kunt opladen instellen op goedkope uren en ontladen op piekuren. Niet zo geautomatiseerd als Sessy, maar werkt prima na initiële setup van 1-2 uur."
-  - q: "Hoe simpel is plug-and-play echt?"
-    a: "Voor Venus A: letterlijk plugin. 5 minuten klaar. Voor Venus E: vereist een installatie achter de meter (1,5 uur door erkend installateur), kan niet zelf — maar veel simpeler dan een Tesla Powerwall."
-  - q: "Wat is het verschil met Sessy?"
-    a: "Sessy is 1,5-2× duurder maar heeft veel betere automation, NL-support, ingebouwde Nederlandse marktintegratie. Marstek is goedkoper, maar je moet zelf meer tweaken (Home Assistant aanbevolen). Marstek voor de doe-het-zelver, Sessy voor de gemak-zoeker."
-  - q: "Krijg ik garantie?"
-    a: "10 jaar productgarantie via Marstek (Chinees, EU-distributie via Frankfurt). Voor garantie-claims contact je de NL-distributeur (vaak via aankoop-website). In de praktijk: defecten worden afgehandeld, maar het kost wat tijd (4-8 weken vs 3-5 dagen bij Sessy of Zonneplan)."
-  - q: "Werkt Marstek met Home Assistant?"
-    a: "Ja, native HA integratie sinds maart 2026. Volledig instelbaar via HA dashboard: laden/ontladen schema's, dynamic pricing automation, self-consumption optimization. Open API. Zeer geschikt voor smart-home liefhebbers."
-  - q: "Welke is beter: Venus A of Venus E?"
-    a: "Venus A (5,12 kWh, plug-in stopcontact): voor klein gezin, wil snel resultaat zonder installateur. Venus E (8,2 kWh, modulair): voor groter verbruik, meer toekomstbestendig, betere prijs/kWh. Voor 90% van de Nederlandse huishoudens met zonnepanelen: Venus E."
+- q: Wat is Marstek Venus?
+  a: 'Marstek Venus is een plug-and-play thuisbatterij van Chinese fabrikant Marstek Energy. Verkrijgbaar als Venus A (5,12 kWh, eenfasig) en Venus E (8,2 kWh, modulair tot 24 kWh). Het bijzondere: je plugt ''m in een normaal stopcontact (Venus A) of in je meterkast (Venus E) — geen complexe installatie nodig.'
+- q: Wat kost Marstek Venus in 2026?
+  a: 'Venus A 5,12 kWh: vanaf €1.799 (zonder installatie nodig). Venus E 8,2 kWh: vanaf €2.299 + ~€350 installatie. Modulaire uitbreiding: €1.099 per extra 8,2 kWh module. Veruit de goedkoopste serieuze thuisbatterij in NL.'
+- q: Werkt Marstek met dynamisch contract?
+  a: Ja, via Home Assistant integratie of via Marstek's eigen app met EnergyZero koppeling. Je kunt opladen instellen op goedkope uren en ontladen op piekuren. Niet zo geautomatiseerd als Sessy, maar werkt prima na initiële setup van 1-2 uur.
+- q: Hoe simpel is plug-and-play echt?
+  a: 'Voor Venus A: letterlijk plugin. 5 minuten klaar. Voor Venus E: vereist een installatie achter de meter (1,5 uur door erkend installateur), kan niet zelf — maar veel simpeler dan een Tesla Powerwall.'
+- q: Wat is het verschil met Sessy?
+  a: Sessy is 1,5-2× duurder maar heeft veel betere automation, NL-support, ingebouwde Nederlandse marktintegratie. Marstek is goedkoper, maar je moet zelf meer tweaken (Home Assistant aanbevolen). Marstek voor de doe-het-zelver, Sessy voor de gemak-zoeker.
+- q: Krijg ik garantie?
+  a: '10 jaar productgarantie via Marstek (Chinees, EU-distributie via Frankfurt). Voor garantie-claims contact je de NL-distributeur (vaak via aankoop-website). In de praktijk: defecten worden afgehandeld, maar het kost wat tijd (4-8 weken vs 3-5 dagen bij Sessy of Zonneplan).'
+- q: Werkt Marstek met Home Assistant?
+  a: 'Ja, native HA integratie sinds maart 2026. Volledig instelbaar via HA dashboard: laden/ontladen schema''s, dynamic pricing automation, self-consumption optimization. Open API. Zeer geschikt voor smart-home liefhebbers.'
+- q: 'Welke is beter: Venus A of Venus E?'
+  a: 'Venus A (5,12 kWh, plug-in stopcontact): voor klein gezin, wil snel resultaat zonder installateur. Venus E (8,2 kWh, modulair): voor groter verbruik, meer toekomstbestendig, betere prijs/kWh. Voor 90% van de Nederlandse huishoudens met zonnepanelen: Venus E.'
 products:
-  - name: "Marstek Venus E 8,2 kWh"
-    url: "https://marstekenergy.com/venus-e"
-    price: "2299"
-  - name: "Marstek Venus A 5,12 kWh"
-    url: "https://marstekenergy.com/venus-a"
-    price: "1799"
-  - name: "Sessy 5 kWh (alternatief)"
-    url: "https://sessy.nl/"
-    price: "3795"
-  - name: "Tibber dynamisch contract"
-    url: "https://tibber.com/nl"
-    price: "6"
+- name: Marstek Venus E 8,2 kWh
+  url: https://marstekenergy.com/venus-e
+  price: '2299'
+- name: Marstek Venus A 5,12 kWh
+  url: https://marstekenergy.com/venus-a
+  price: '1799'
+- name: Sessy 5 kWh (alternatief)
+  url: https://sessy.nl/
+  price: '3795'
+- name: Tibber dynamisch contract
+  url: https://tibber.com/nl
+  price: '6'
+schema_type: Review
 ---
 
 In januari 2026 kocht een collega van mij een Marstek Venus E 8,2 kWh voor €2.299. Hij had geen zin in €5.500 voor een Sessy, en wilde gewoon snel resultaat. Vier maanden later vroeg ik hem of ik zijn data mocht analyseren. Hier is mijn rapport — en de eerlijke conclusie of Marstek écht het bedrag waard is dat het prijsverschil suggereert.

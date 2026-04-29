@@ -1,36 +1,47 @@
 ---
-title: "Kierdichting, glaswol en tochtstrip in 2026"
-date: 2026-05-25T08:00:00+02:00
-lastmod: 2026-05-25T08:00:00+02:00
-description: "Met €100 aan kierdichting, tochtstrips en glaswol bespaar je tot €300 per jaar. DIY-gids voor de gemiddelde Nederlandse woning met materiaallijst en."
-categories: ["isolatie"]
-tags: ["kierdichting", "tochtstrip", "glaswol", "DIY isolatie", "goedkope isolatie", "energiebesparing"]
-keywords: ["kierdichting zelf doen", "tochtstrip installeren", "goedkope isolatie tips", "kieren dichten woning besparing"]
+title: Kierdichting, glaswol en tochtstrip in 2026
+date: 2026-05-25 08:00:00+02:00
+lastmod: 2026-05-25 08:00:00+02:00
+description: Met €100 aan kierdichting, tochtstrips en glaswol bespaar je tot €300 per jaar. DIY-gids voor de gemiddelde Nederlandse woning met materiaallijst en.
+categories:
+- isolatie
+tags:
+- kierdichting
+- tochtstrip
+- glaswol
+- DIY isolatie
+- goedkope isolatie
+- energiebesparing
+keywords:
+- kierdichting zelf doen
+- tochtstrip installeren
+- goedkope isolatie tips
+- kieren dichten woning besparing
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel kan ik besparen met kierdichting?"
-    a: "Luchtlekkage via kieren en naden is verantwoordelijk voor 10-20% van het totale warmteverlies in een woning. Met €50-€100 aan tochtstrips, kitstof en glaswol-strips kun je €100-€300 per jaar besparen afhankelijk van de staat van de woning."
-  - q: "Hoe weet ik waar de kieren in mijn woning zitten?"
-    a: "De grootste kieren bevinden zich onder en rondom deuren (voordeur, achterdeur, tussendeur), rondom raamkozijnen, bij doorvoeringen van leidingen en kabels, bij de overgang van muren naar vloeren, en bij ventilatieopeningen. Houd op een koude dag een aansteker of wierrookstokje bij verdachte plekken — as je vlam of rookje beweegt, is er een lek."
-  - q: "Wat is het verschil tussen EPDM-strip en schuimstrip voor deuren?"
-    a: "EPDM-rubber strips zijn duurzamer (15-25 jaar) en beter bestand tegen temperatuurwisselingen dan goedkope schuimstrip (polyethyleen schuim). EPDM kost 2-3x meer maar gaat 5-6x zo lang mee. Voor een voordeur die dagelijks opengaat, is EPDM de betere investering."
-  - q: "Kan ik ook kierdichting aanvragen via subsidie?"
-    a: "Kierdichting als afzonderlijke maatregel valt niet onder de SEEH-subsidie. Maar als je kierdichting combineert met andere isolatiemaatregelen (spouwmuur, vloer, dak), telt het soms mee als onderdeel van een totaalpakket. Informeer bij je gemeente of een erkende installateur."
-  - q: "Is kitten rondom kozijnen eenvoudig zelf te doen?"
-    a: "Ja. Met een kitpistool, acrylaatkit of siliconenkit en wat voorbereidingstijd is dit een goede DIY-klus. Verwijder de oude kit, ontvetten de ondergrond, breng de kit aan in een soepele beweging en strijk glad met een natte vinger of kitspaan. Droogtijd: 24 uur."
-  - q: "Welke plekken vergeten mensen vaak bij kierdichting?"
-    a: "Elektrische stopcontacten en schakelkasten aan buitenmuren (koudluchtlekken), de overgang van plinten naar de vloer, doorvoeringen van stroom- en waterleidingen in buitenmuren, de kap van de cv-ketel-schoorsteen, en het deksel van het kruipluik."
-products: []
+- q: Hoeveel kan ik besparen met kierdichting?
+  a: Luchtlekkage via kieren en naden is verantwoordelijk voor 10-20% van het totale warmteverlies in een woning. Met €50-€100 aan tochtstrips, kitstof en glaswol-strips kun je €100-€300 per jaar besparen afhankelijk van de staat van de woning.
+- q: Hoe weet ik waar de kieren in mijn woning zitten?
+  a: De grootste kieren bevinden zich onder en rondom deuren (voordeur, achterdeur, tussendeur), rondom raamkozijnen, bij doorvoeringen van leidingen en kabels, bij de overgang van muren naar vloeren, en bij ventilatieopeningen. Houd op een koude dag een aansteker of wierrookstokje bij verdachte plekken — as je vlam of rookje beweegt, is er een lek.
+- q: Wat is het verschil tussen EPDM-strip en schuimstrip voor deuren?
+  a: EPDM-rubber strips zijn duurzamer (15-25 jaar) en beter bestand tegen temperatuurwisselingen dan goedkope schuimstrip (polyethyleen schuim). EPDM kost 2-3x meer maar gaat 5-6x zo lang mee. Voor een voordeur die dagelijks opengaat, is EPDM de betere investering.
+- q: Kan ik ook kierdichting aanvragen via subsidie?
+  a: Kierdichting als afzonderlijke maatregel valt niet onder de SEEH-subsidie. Maar als je kierdichting combineert met andere isolatiemaatregelen (spouwmuur, vloer, dak), telt het soms mee als onderdeel van een totaalpakket. Informeer bij je gemeente of een erkende installateur.
+- q: Is kitten rondom kozijnen eenvoudig zelf te doen?
+  a: 'Ja. Met een kitpistool, acrylaatkit of siliconenkit en wat voorbereidingstijd is dit een goede DIY-klus. Verwijder de oude kit, ontvetten de ondergrond, breng de kit aan in een soepele beweging en strijk glad met een natte vinger of kitspaan. Droogtijd: 24 uur.'
+- q: Welke plekken vergeten mensen vaak bij kierdichting?
+  a: Elektrische stopcontacten en schakelkasten aan buitenmuren (koudluchtlekken), de overgang van plinten naar de vloer, doorvoeringen van stroom- en waterleidingen in buitenmuren, de kap van de cv-ketel-schoorsteen, en het deksel van het kruipluik.
 products:
-  - name: "TONZON kierdicht (set)"
-    url: "https://tonzon.nl"
-    price: "49"
-  - name: "Kärcher SC2 stoomreiniger"
-    url: "https://karcher.com"
-    price: "139"
+- name: TONZON kierdicht (set)
+  url: https://tonzon.nl
+  price: '49'
+- name: Kärcher SC2 stoomreiniger
+  url: https://karcher.com
+  price: '139'
+schema_type: Article
 ---
 
 In de winter van 2021 deed ik een eenvoudige test: ik liep met een wierrookstokje langs alle ramen, deuren en plinten van mijn woning. Het resultaat was onthutsend. Bij mijn voordeur stond de rook horizontaal. Bij de achterdeur bewoog hij hevig. Rondom drie raamkozijnen was er duidelijke luchtbeweging. En bij de overgang van de begane grondvloer naar de muur bewoog de rook op meerdere plekken merkbaar.

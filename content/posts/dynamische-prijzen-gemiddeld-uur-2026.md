@@ -1,37 +1,51 @@
 ---
-title: "Dynamische stroomprijzen per uur in 2026: goedkoopste"
-date: 2026-05-26T08:00:00+01:00
-lastmod: 2026-05-26T08:00:00+01:00
-description: "Wat is de gemiddelde EPEX-spotprijs per uur in 2026? Ik analyseer de goedkoopste en duurste uren en leg uit hoe je met een thuisbatterij maximaal."
-categories: ["energie"]
-tags: ["dynamische prijzen", "EPEX", "thuisbatterij", "Tibber", "uurprijzen", "spotmarkt", "energiekosten"]
-keywords: ["dynamische stroomprijzen uur 2026", "EPEX spotprijs gemiddeld", "goedkoopste uren stroom", "thuisbatterij dynamisch contract", "tibber uurprijzen"]
+title: 'Dynamische stroomprijzen per uur in 2026: goedkoopste'
+date: 2026-05-26 08:00:00+01:00
+lastmod: 2026-05-26 08:00:00+01:00
+description: Wat is de gemiddelde EPEX-spotprijs per uur in 2026? Ik analyseer de goedkoopste en duurste uren en leg uit hoe je met een thuisbatterij maximaal.
+categories:
+- energie
+tags:
+- dynamische prijzen
+- EPEX
+- thuisbatterij
+- Tibber
+- uurprijzen
+- spotmarkt
+- energiekosten
+keywords:
+- dynamische stroomprijzen uur 2026
+- EPEX spotprijs gemiddeld
+- goedkoopste uren stroom
+- thuisbatterij dynamisch contract
+- tibber uurprijzen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Wat zijn de gemiddeld goedkoopste uren op de EPEX-spotmarkt in 2026?"
-    a: "Gemiddeld zijn de goedkoopste uren tussen 01:00 en 06:00 's nachts en rond 13:00-15:00 op zonnige dagen wanneer er veel zonne-energie op het net staat. In die uren zijn spotprijzen regelmatig onder de 3 ct/kWh, soms zelfs negatief."
-  - q: "Wat zijn de duurste uren voor stroom in 2026?"
-    a: "De piekprijzen vallen doorgaans in de ochtend (07:00-09:00) en avond (17:00-20:00), de zogenaamde morgenpiek en avondpiek. In die uren loopt de spotprijs regelmatig op tot 20-35 ct/kWh of meer bij koude of windstille dagen."
-  - q: "Hoeveel kan ik besparen met een dynamisch contract in 2026?"
-    a: "Met slim gebruik — grote verbruikers verplaatsen naar goedkope uren, opladen in dalen — bespaar je realistisch €150-€400 per jaar ten opzichte van een vast contract. Met een thuisbatterij die automatisch goedkoop koopt en duur verkoopt kan dit oplopen tot €600-€1.000 per jaar."
-  - q: "Hoe werkt de Sessy thuisbatterij met dynamische tarieven?"
-    a: "Sessy heeft een ingebouwde optimizer genaamd Sessy Radar die realtime EPEX-prijsdata analyseert en de batterij automatisch laadt in goedkope uren en ontlaadt (teruglevering of eigenverbruik) in dure uren. Je hoeft zelf niets in te stellen."
-  - q: "Is Tibber het beste dynamische contract voor thuisbatterij-eigenaren?"
-    a: "Tibber is populair omdat het live EPEX-prijzen doorgeeft en een open API heeft waarmee slimme apparaten (waaronder Sessy) direct kunnen communiceren. Voor thuisbatterij-eigenaren is Tibber momenteel een van de meest geschikte aanbieders in Nederland."
-  - q: "Zijn negatieve stroomprijzen gunstig voor mij als thuisbatterij-eigenaar?"
-    a: "Ja. Bij negatieve prijzen word je betaald voor het afnemen van stroom. Je thuisbatterij laadt dan op terwijl je ook nog een kleine vergoeding ontvangt. Als je battery daarna ontlaadt bij positieve prijzen, is het rendement maximaal. Negatieve prijzen kwamen in 2025 op meer dan 200 uur voor."
-  - q: "Wat is het verschil tussen EPEX-spotprijs en het tarief dat ik betaal bij Tibber?"
-    a: "De EPEX-spotprijs is de inkoopprijs op de groothandelsmarkt. Tibber voegt hier transportkosten, energiebelasting, btw en een kleine vaste marge aan toe. Je eindtarief is dus altijd hoger dan de kale spotprijs, maar de uurfluctuaties zijn gelijk."
+- q: Wat zijn de gemiddeld goedkoopste uren op de EPEX-spotmarkt in 2026?
+  a: Gemiddeld zijn de goedkoopste uren tussen 01:00 en 06:00 's nachts en rond 13:00-15:00 op zonnige dagen wanneer er veel zonne-energie op het net staat. In die uren zijn spotprijzen regelmatig onder de 3 ct/kWh, soms zelfs negatief.
+- q: Wat zijn de duurste uren voor stroom in 2026?
+  a: De piekprijzen vallen doorgaans in de ochtend (07:00-09:00) en avond (17:00-20:00), de zogenaamde morgenpiek en avondpiek. In die uren loopt de spotprijs regelmatig op tot 20-35 ct/kWh of meer bij koude of windstille dagen.
+- q: Hoeveel kan ik besparen met een dynamisch contract in 2026?
+  a: Met slim gebruik — grote verbruikers verplaatsen naar goedkope uren, opladen in dalen — bespaar je realistisch €150-€400 per jaar ten opzichte van een vast contract. Met een thuisbatterij die automatisch goedkoop koopt en duur verkoopt kan dit oplopen tot €600-€1.000 per jaar.
+- q: Hoe werkt de Sessy thuisbatterij met dynamische tarieven?
+  a: Sessy heeft een ingebouwde optimizer genaamd Sessy Radar die realtime EPEX-prijsdata analyseert en de batterij automatisch laadt in goedkope uren en ontlaadt (teruglevering of eigenverbruik) in dure uren. Je hoeft zelf niets in te stellen.
+- q: Is Tibber het beste dynamische contract voor thuisbatterij-eigenaren?
+  a: Tibber is populair omdat het live EPEX-prijzen doorgeeft en een open API heeft waarmee slimme apparaten (waaronder Sessy) direct kunnen communiceren. Voor thuisbatterij-eigenaren is Tibber momenteel een van de meest geschikte aanbieders in Nederland.
+- q: Zijn negatieve stroomprijzen gunstig voor mij als thuisbatterij-eigenaar?
+  a: Ja. Bij negatieve prijzen word je betaald voor het afnemen van stroom. Je thuisbatterij laadt dan op terwijl je ook nog een kleine vergoeding ontvangt. Als je battery daarna ontlaadt bij positieve prijzen, is het rendement maximaal. Negatieve prijzen kwamen in 2025 op meer dan 200 uur voor.
+- q: Wat is het verschil tussen EPEX-spotprijs en het tarief dat ik betaal bij Tibber?
+  a: De EPEX-spotprijs is de inkoopprijs op de groothandelsmarkt. Tibber voegt hier transportkosten, energiebelasting, btw en een kleine vaste marge aan toe. Je eindtarief is dus altijd hoger dan de kale spotprijs, maar de uurfluctuaties zijn gelijk.
 products:
-  - name: "Tibber dynamisch contract"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "variabel"
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3999"
+- name: Tibber dynamisch contract
+  url: https://go.duurzaamthuislab.nl/tibber
+  price: variabel
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '3999'
+schema_type: Article
 ---
 
 Vorig jaar betaalde ik op een dinsdagavond in januari €0,42 per kWh voor stroom. Dezelfde week, op woensdagnacht om 03:00, kostte stroom €0,02 per kWh. Dat is een verschil van factor 21 — binnen 48 uur, hetzelfde net, hetzelfde huis. Wie dat verschil niet benut, laat simpelweg geld liggen.

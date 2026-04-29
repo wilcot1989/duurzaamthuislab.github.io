@@ -1,39 +1,58 @@
 ---
-title: "Energieleverancier overstappen 2026"
-date: 2026-05-20T08:00:00+02:00
-lastmod: 2026-05-20T08:00:00+02:00
-description: "Overstappen naar een dynamisch energiecontract in 2026? Ik vergelijk Tibber, Frank Energie en ANWB Energie en leg stap voor stap uit hoe het werkt."
-categories: ["energie"]
-tags: ["energieleverancier overstappen", "dynamisch contract", "Tibber", "Frank Energie", "ANWB Energie", "spotprijzen", "slimme meter", "energiebesparing", "thuisbatterij"]
-keywords: ["energieleverancier overstappen 2026", "dynamisch energiecontract", "Tibber review", "Frank Energie review", "ANWB Energie dynamisch", "overstappen stap voor stap", "spotprijzen energie", "slimme meter dynamisch contract"]
+title: Energieleverancier overstappen 2026
+date: 2026-05-20 08:00:00+02:00
+lastmod: 2026-05-20 08:00:00+02:00
+description: Overstappen naar een dynamisch energiecontract in 2026? Ik vergelijk Tibber, Frank Energie en ANWB Energie en leg stap voor stap uit hoe het werkt.
+categories:
+- energie
+tags:
+- energieleverancier overstappen
+- dynamisch contract
+- Tibber
+- Frank Energie
+- ANWB Energie
+- spotprijzen
+- slimme meter
+- energiebesparing
+- thuisbatterij
+keywords:
+- energieleverancier overstappen 2026
+- dynamisch energiecontract
+- Tibber review
+- Frank Energie review
+- ANWB Energie dynamisch
+- overstappen stap voor stap
+- spotprijzen energie
+- slimme meter dynamisch contract
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is een dynamisch energiecontract?"
-    a: "Bij een dynamisch contract betaal je elk uur een andere prijs voor elektriciteit — de zogenaamde spotprijs op de Europese energiemarkt (EPEX). Die prijs wisselt per uur: overdag bij veel wind- of zonne-energie kan de prijs dalen naar 0 of zelfs negatief worden; op koude, windstille avonden piekt hij. Een vaste leverancier zoals Vattenfall of Eneco rekent een vaste prijs per kWh, ongeacht het uur. Met een dynamisch contract profiteer je van goedkope uren."
-  - q: "Heb ik een slimme meter nodig voor een dynamisch contract?"
-    a: "Ja, zonder uitzondering. Een slimme meter registreert je verbruik per kwartier of per uur en stuurt die data door naar de leverancier. Zonder slimme meter kan je verbruik niet per uur worden afgerekend. Controleer of jij al een slimme meter hebt — in Nederland is die voor de meeste huishoudens al gratis geplaatst door de netbeheerder. Heb je nog geen slimme meter? Vraag hem gratis aan bij jouw netbeheerder."
-  - q: "Hoeveel kan ik besparen met een dynamisch contract?"
-    a: "Dat varieert sterk. Huishoudens zonder slimme apparaten of thuisbatterij besparen gemiddeld 5–15% ten opzichte van een vast contract. Huishoudens die actief verbruik verschuiven — wasmachine 's nachts, laadpaal 's middags bij lage prijs — besparen 20–35%. Met een thuisbatterij en automatische sturing kan de besparing oplopen tot 40–50% op elektriciteitskosten."
-  - q: "Is een dynamisch contract risicovol bij hoge spotprijzen?"
-    a: "Er is risico op dure uren, dat klopt. In de winter van 2022-2023 zijn er uren geweest boven €0,80/kWh netto. Maar in de praktijk zijn die piekuren zeldzaam en kortdurend. Tibber en Frank Energie geven beiden realtime prijswaarschuwingen via de app zodat je grote verbruikers kunt uitstellen. Wie kritische verbruikers kan verschuiven, profiteert per saldo van de goedkope uren."
-  - q: "Wat is het verschil tussen Tibber en Frank Energie?"
-    a: "Tibber is een Noors bedrijf met een sterke app en slimme integraties (Pluggy, P1-meter, Homey, laadpalen). Frank Energie is een Nederlandse challenger met een transparante tariefstructuur en lagere abonnementskosten. Tibber rekent €5,99/maand abonnementskosten; Frank Energie heeft geen abonnement maar een iets hogere opslag per kWh. Voor kleine verbruikers is Frank Energie vaak goedkoper; voor grotere huishoudens met veel automatiseringsmogelijkheden wint Tibber."
-  - q: "Kan ik tussentijds overstappen als de prijzen tegenvallen?"
-    a: "Ja. Dynamische contracten hebben geen vaste looptijd en geen opzegboete. Je kunt maandelijks opzeggen of overstappen naar een andere leverancier. Dat maakt het veel flexibeler dan een 1- of 2-jarig vast contract."
-  - q: "Hoe lang duurt het overstappen?"
-    a: "Het overstapproces duurt doorgaans 2–4 weken. De nieuwe leverancier regelt de opzegging bij de oude leverancier; jij hoeft niets te doen. Er is geen stroomonderbreking — de netbeheerder blijft dezelfde, alleen de leverancier wijzigt."
-  - q: "Wat gebeurt er als ik vergeet mijn verbruik te verschuiven?"
-    a: "Dan betaal je gewoon de marktprijs van dat uur — soms hoog, soms laag. Je bent niet verplicht om te optimaliseren. Maar zonder enige aanpassing is de gemiddelde jaarprijs van een dynamisch contract vergelijkbaar met een vast contract. De winst zit in de bewuste verschuiving."
+- q: Wat is een dynamisch energiecontract?
+  a: 'Bij een dynamisch contract betaal je elk uur een andere prijs voor elektriciteit — de zogenaamde spotprijs op de Europese energiemarkt (EPEX). Die prijs wisselt per uur: overdag bij veel wind- of zonne-energie kan de prijs dalen naar 0 of zelfs negatief worden; op koude, windstille avonden piekt hij. Een vaste leverancier zoals Vattenfall of Eneco rekent een vaste prijs per kWh, ongeacht het uur. Met een dynamisch contract profiteer je van goedkope uren.'
+- q: Heb ik een slimme meter nodig voor een dynamisch contract?
+  a: Ja, zonder uitzondering. Een slimme meter registreert je verbruik per kwartier of per uur en stuurt die data door naar de leverancier. Zonder slimme meter kan je verbruik niet per uur worden afgerekend. Controleer of jij al een slimme meter hebt — in Nederland is die voor de meeste huishoudens al gratis geplaatst door de netbeheerder. Heb je nog geen slimme meter? Vraag hem gratis aan bij jouw netbeheerder.
+- q: Hoeveel kan ik besparen met een dynamisch contract?
+  a: Dat varieert sterk. Huishoudens zonder slimme apparaten of thuisbatterij besparen gemiddeld 5–15% ten opzichte van een vast contract. Huishoudens die actief verbruik verschuiven — wasmachine 's nachts, laadpaal 's middags bij lage prijs — besparen 20–35%. Met een thuisbatterij en automatische sturing kan de besparing oplopen tot 40–50% op elektriciteitskosten.
+- q: Is een dynamisch contract risicovol bij hoge spotprijzen?
+  a: Er is risico op dure uren, dat klopt. In de winter van 2022-2023 zijn er uren geweest boven €0,80/kWh netto. Maar in de praktijk zijn die piekuren zeldzaam en kortdurend. Tibber en Frank Energie geven beiden realtime prijswaarschuwingen via de app zodat je grote verbruikers kunt uitstellen. Wie kritische verbruikers kan verschuiven, profiteert per saldo van de goedkope uren.
+- q: Wat is het verschil tussen Tibber en Frank Energie?
+  a: Tibber is een Noors bedrijf met een sterke app en slimme integraties (Pluggy, P1-meter, Homey, laadpalen). Frank Energie is een Nederlandse challenger met een transparante tariefstructuur en lagere abonnementskosten. Tibber rekent €5,99/maand abonnementskosten; Frank Energie heeft geen abonnement maar een iets hogere opslag per kWh. Voor kleine verbruikers is Frank Energie vaak goedkoper; voor grotere huishoudens met veel automatiseringsmogelijkheden wint Tibber.
+- q: Kan ik tussentijds overstappen als de prijzen tegenvallen?
+  a: Ja. Dynamische contracten hebben geen vaste looptijd en geen opzegboete. Je kunt maandelijks opzeggen of overstappen naar een andere leverancier. Dat maakt het veel flexibeler dan een 1- of 2-jarig vast contract.
+- q: Hoe lang duurt het overstappen?
+  a: Het overstapproces duurt doorgaans 2–4 weken. De nieuwe leverancier regelt de opzegging bij de oude leverancier; jij hoeft niets te doen. Er is geen stroomonderbreking — de netbeheerder blijft dezelfde, alleen de leverancier wijzigt.
+- q: Wat gebeurt er als ik vergeet mijn verbruik te verschuiven?
+  a: Dan betaal je gewoon de marktprijs van dat uur — soms hoog, soms laag. Je bent niet verplicht om te optimaliseren. Maar zonder enige aanpassing is de gemiddelde jaarprijs van een dynamisch contract vergelijkbaar met een vast contract. De winst zit in de bewuste verschuiving.
 products:
-  - name: "Tibber dynamisch contract"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "0"
-  - name: "Frank Energie dynamisch contract"
-    url: "https://go.duurzaamthuislab.nl/frank-energie"
-    price: "0"
+- name: Tibber dynamisch contract
+  url: https://go.duurzaamthuislab.nl/tibber
+  price: '0'
+- name: Frank Energie dynamisch contract
+  url: https://go.duurzaamthuislab.nl/frank-energie
+  price: '0'
+schema_type: Article
 ---
 
 In januari 2024 schakelde ik zelf over van een vast Vattenfall-contract naar Tibber. Mijn motivatie was simpel: ik had net een thuisbatterij geïnstalleerd en een laadpaal voor de auto. Met een vast contract betaal ik altijd hetzelfde, ongeacht of de zon schijnt of de windmolens op volle toeren draaien. Met een dynamisch contract kan ik die momenten benutten.

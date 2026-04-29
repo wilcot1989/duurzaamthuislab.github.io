@@ -1,35 +1,47 @@
 ---
-title: "Energielabel Verbeteren: Stappenplan van G naar A (2026)"
-date: 2026-04-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Compleet stappenplan om je energielabel te verbeteren. Van G naar A met de juiste maatregelen, kosten, subsidies en terugverdientijden in 2026."
-categories: ["isolatie"]
-tags: ["energielabel", "isolatie", "verduurzaming", "woningverbetering", "subsidie"]
-keywords: ["energielabel verbeteren", "energielabel huis", "van G naar A", "energielabel kosten", "energielabel subsidie"]
+title: 'Energielabel Verbeteren: Stappenplan van G naar A (2026)'
+date: 2026-04-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Compleet stappenplan om je energielabel te verbeteren. Van G naar A met de juiste maatregelen, kosten, subsidies en terugverdientijden in 2026.
+categories:
+- isolatie
+tags:
+- energielabel
+- isolatie
+- verduurzaming
+- woningverbetering
+- subsidie
+keywords:
+- energielabel verbeteren
+- energielabel huis
+- van G naar A
+- energielabel kosten
+- energielabel subsidie
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kost het om je energielabel te verbeteren?"
-    a: "De kosten hangen af van je huidige label en je doellabel. Van G naar C kost gemiddeld €8.000-€15.000 (isolatie dakkapel + vloer + glas). Van C naar A kost nog eens €10.000-€20.000 (warmtepomp + zonnepanelen). Met subsidies kun je 30-50% terugkrijgen."
-  - q: "Hoeveel bespaart een beter energielabel?"
-    a: "Gemiddeld bespaar je €200-€500 per labelstap per jaar op energiekosten. Van G naar A kan de besparing oplopen tot €1.500-€2.500 per jaar. Daarnaast stijgt je woningwaarde met 2-5% per labelstap."
-  - q: "Welke maatregelen leveren het meeste op?"
-    a: "De meest rendabele maatregelen zijn: 1) Dakisolatie (besparing tot €600/jaar), 2) Vloerisolatie (besparing tot €200/jaar), 3) HR++ glas (besparing tot €300/jaar), 4) Hybride warmtepomp (besparing tot €800/jaar). Start altijd met isolatie voordat je een warmtepomp installeert."
-  - q: "Hoe lang duurt het om een energielabel te verbeteren?"
-    a: "Een energielabel aanvragen kost 1-2 weken. De verduurzamingsmaatregelen zelf kosten 1-6 maanden, afhankelijk van de omvang. Isolatie van dak en vloer kan in 1-2 weken. Een volledige renovatie van G naar A kan 3-6 maanden duren."
-  - q: "Is een energielabel verplicht?"
-    a: "Een energielabel is verplicht bij verkoop of verhuur van een woning. Zonder geldig label riskeer je een boete tot €435. Voor huurwoningen geldt een minimaal energielabel van D (sinds 2023) en dit wordt aangescherpt naar C in 2030."
-  - q: "Welke subsidies zijn er voor energielabel verbetering?"
-    a: "De belangrijkste subsidies zijn: ISDE (€1.500-€5.500 voor isolatie + warmtepomp), SEEH (voor VvE's en verhuurders), gemeentelijke subsidies (€500-€3.000), en het Nationaal Warmtefonds (lening tegen 0% rente). Totaal kun je 30-50% van de kosten terugkrijgen."
+- q: Wat kost het om je energielabel te verbeteren?
+  a: De kosten hangen af van je huidige label en je doellabel. Van G naar C kost gemiddeld €8.000-€15.000 (isolatie dakkapel + vloer + glas). Van C naar A kost nog eens €10.000-€20.000 (warmtepomp + zonnepanelen). Met subsidies kun je 30-50% terugkrijgen.
+- q: Hoeveel bespaart een beter energielabel?
+  a: Gemiddeld bespaar je €200-€500 per labelstap per jaar op energiekosten. Van G naar A kan de besparing oplopen tot €1.500-€2.500 per jaar. Daarnaast stijgt je woningwaarde met 2-5% per labelstap.
+- q: Welke maatregelen leveren het meeste op?
+  a: 'De meest rendabele maatregelen zijn: 1) Dakisolatie (besparing tot €600/jaar), 2) Vloerisolatie (besparing tot €200/jaar), 3) HR++ glas (besparing tot €300/jaar), 4) Hybride warmtepomp (besparing tot €800/jaar). Start altijd met isolatie voordat je een warmtepomp installeert.'
+- q: Hoe lang duurt het om een energielabel te verbeteren?
+  a: Een energielabel aanvragen kost 1-2 weken. De verduurzamingsmaatregelen zelf kosten 1-6 maanden, afhankelijk van de omvang. Isolatie van dak en vloer kan in 1-2 weken. Een volledige renovatie van G naar A kan 3-6 maanden duren.
+- q: Is een energielabel verplicht?
+  a: Een energielabel is verplicht bij verkoop of verhuur van een woning. Zonder geldig label riskeer je een boete tot €435. Voor huurwoningen geldt een minimaal energielabel van D (sinds 2023) en dit wordt aangescherpt naar C in 2030.
+- q: Welke subsidies zijn er voor energielabel verbetering?
+  a: 'De belangrijkste subsidies zijn: ISDE (€1.500-€5.500 voor isolatie + warmtepomp), SEEH (voor VvE''s en verhuurders), gemeentelijke subsidies (€500-€3.000), en het Nationaal Warmtefonds (lening tegen 0% rente). Totaal kun je 30-50% van de kosten terugkrijgen.'
 products:
-  - name: "Zonneplan"
-    url: "https://zonneplan.nl/zonnepanelen"
-    price: "5000"
-  - name: "Vaillant aroTHERM plus"
-    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
-    price: "8000"
+- name: Zonneplan
+  url: https://zonneplan.nl/zonnepanelen
+  price: '5000'
+- name: Vaillant aroTHERM plus
+  url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/
+  price: '8000'
+schema_type: Article
 ---
 
 Mijn woning had label C toen ik begon met verduurzamen. Na vloerisolatie, 16 zonnepanelen, een Vaillant hybride warmtepomp en een Huawei Luna thuisbatterij zit ik op label A — en mijn energierekening is van €2.400 naar €680 per jaar gedaald. In dit stappenplan laat ik zien welke maatregelen ik in welke volgorde heb genomen, wat het kostte, en welke subsidies ik heb ontvangen.

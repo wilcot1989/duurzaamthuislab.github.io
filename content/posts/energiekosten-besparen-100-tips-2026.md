@@ -1,35 +1,46 @@
 ---
-title: "Energiekosten besparen: 100 praktische tips voor 2026"
-date: 2026-05-14T08:00:00+02:00
-lastmod: 2026-05-14T08:00:00+02:00
-description: "100 bewezen manieren om je energierekening te verlagen in 2026. Van gratis gedragsverandering tot grote investeringen."
-categories: ["energie"]
-tags: ["energiebesparing", "energierekening", "besparen", "verduurzaming", "tips"]
-keywords: ["energiekosten besparen", "energierekening verlagen", "energie besparen tips", "goedkoper energie 2026"]
+title: 'Energiekosten besparen: 100 praktische tips voor 2026'
+date: 2026-05-14 08:00:00+02:00
+lastmod: 2026-05-14 08:00:00+02:00
+description: 100 bewezen manieren om je energierekening te verlagen in 2026. Van gratis gedragsverandering tot grote investeringen.
+categories:
+- energie
+tags:
+- energiebesparing
+- energierekening
+- besparen
+- verduurzaming
+- tips
+keywords:
+- energiekosten besparen
+- energierekening verlagen
+- energie besparen tips
+- goedkoper energie 2026
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel kan ik gemiddeld besparen op mijn energierekening?"
-    a: "Een gemiddeld huishouden geeft €2.400-€3.200 per jaar uit aan energie. Met een combinatie van gedragsverandering, kleine ingrepen en grote maatregelen is besparing van 30-60% realistisch — dat is €720-€1.920 per jaar."
-  - q: "Wat zijn de goedkoopste manieren om energie te besparen?"
-    a: "Kierdichting (€10-€50), verwarmingsthermostaat een graad lager (€70/jaar besparing), LED verlichting (€50 investering, €150/jaar besparing) en radiatorfolie (€15) geven de beste verhouding tussen investering en rendement."
-  - q: "Is een dynamisch energiecontract echt goedkoper?"
-    a: "Voor huishoudens met zonnepanelen en/of een thuisbatterij is een dynamisch contract gemiddeld €300-€600/jaar goedkoper. Zonder flexibel verbruik is het voordeel kleiner en soms zelfs nadelig bij hoge piekmomenten."
-  - q: "Wanneer is een warmtepomp financieel interessant?"
-    a: "Een hybride warmtepomp is financieel interessant bij een gasverbruik van meer dan 1.500 m3/jaar en een woning met minimaal energielabel C. Na ISDE-subsidie van ~€3.000 ligt de terugverdientijd vaak onder de 5 jaar."
-  - q: "Wat levert zonnepanelen gemiddeld op in Nederland?"
-    a: "Een systeem van 10 panelen (3.300 Wp) levert circa 2.800-3.000 kWh per jaar op. Bij een stroomprijs van €0,32/kWh bespaar je €896-€960 per jaar, exclusief de saldering-afbouw na 2027."
-  - q: "Welke subsidies zijn beschikbaar in 2026?"
-    a: "De ISDE-regeling geeft subsidie op warmtepompen (tot €3.762) en zonneboilers. Isolatiemaatregelen zijn subsidieerbaar via het Warmtefonds (lening) of via gemeentelijke regelingen. Het SEEH-programma voor isolatie is in 2026 nog beschikbaar."
+- q: Hoeveel kan ik gemiddeld besparen op mijn energierekening?
+  a: Een gemiddeld huishouden geeft €2.400-€3.200 per jaar uit aan energie. Met een combinatie van gedragsverandering, kleine ingrepen en grote maatregelen is besparing van 30-60% realistisch — dat is €720-€1.920 per jaar.
+- q: Wat zijn de goedkoopste manieren om energie te besparen?
+  a: Kierdichting (€10-€50), verwarmingsthermostaat een graad lager (€70/jaar besparing), LED verlichting (€50 investering, €150/jaar besparing) en radiatorfolie (€15) geven de beste verhouding tussen investering en rendement.
+- q: Is een dynamisch energiecontract echt goedkoper?
+  a: Voor huishoudens met zonnepanelen en/of een thuisbatterij is een dynamisch contract gemiddeld €300-€600/jaar goedkoper. Zonder flexibel verbruik is het voordeel kleiner en soms zelfs nadelig bij hoge piekmomenten.
+- q: Wanneer is een warmtepomp financieel interessant?
+  a: Een hybride warmtepomp is financieel interessant bij een gasverbruik van meer dan 1.500 m3/jaar en een woning met minimaal energielabel C. Na ISDE-subsidie van ~€3.000 ligt de terugverdientijd vaak onder de 5 jaar.
+- q: Wat levert zonnepanelen gemiddeld op in Nederland?
+  a: Een systeem van 10 panelen (3.300 Wp) levert circa 2.800-3.000 kWh per jaar op. Bij een stroomprijs van €0,32/kWh bespaar je €896-€960 per jaar, exclusief de saldering-afbouw na 2027.
+- q: Welke subsidies zijn beschikbaar in 2026?
+  a: De ISDE-regeling geeft subsidie op warmtepompen (tot €3.762) en zonneboilers. Isolatiemaatregelen zijn subsidieerbaar via het Warmtefonds (lening) of via gemeentelijke regelingen. Het SEEH-programma voor isolatie is in 2026 nog beschikbaar.
 products:
-  - name: "Tibber dynamisch energiecontract"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "variabel"
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3999"
+- name: Tibber dynamisch energiecontract
+  url: https://go.duurzaamthuislab.nl/tibber
+  price: variabel
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '3999'
+schema_type: Article
 ---
 
 Ik heb de afgelopen drie jaar mijn energierekening van €3.100 naar €1.050 teruggebracht — een besparing van meer dan €2.000 per jaar. Niet door één grote ingreep, maar door tientallen kleine en middelgrote maatregelen die samen een enorm verschil maken. In dit artikel deel ik 100 concrete tips, gesorteerd van gratis naar duurder, met voor elke categorie de werkelijke besparingen in euro's en kWh.

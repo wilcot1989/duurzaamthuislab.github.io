@@ -1,42 +1,54 @@
 ---
-title: "Huawei Luna vs Tesla Powerwall vs Sessy 2026"
-date: 2026-06-04T09:00:00+01:00
-lastmod: 2026-06-04T09:00:00+01:00
-description: "Huawei Luna 2000, Tesla Powerwall 3 en Sessy naast elkaar: prijs, capaciteit, slimheid en terugverdientijd vergeleken voor de Nederlandse markt in 2026."
-categories: ["thuisbatterijen"]
-tags: ["Huawei Luna", "Tesla Powerwall", "Sessy", "thuisbatterij vergelijking", "thuisbatterij 2026"]
-keywords: ["Huawei Luna vs Tesla Powerwall", "Sessy thuisbatterij", "beste thuisbatterij 2026", "thuisbatterij vergelijken", "Huawei Luna 2000 review"]
+title: Huawei Luna vs Tesla Powerwall vs Sessy 2026
+date: 2026-06-04 09:00:00+01:00
+lastmod: 2026-06-04 09:00:00+01:00
+description: 'Huawei Luna 2000, Tesla Powerwall 3 en Sessy naast elkaar: prijs, capaciteit, slimheid en terugverdientijd vergeleken voor de Nederlandse markt in 2026.'
+categories:
+- thuisbatterijen
+tags:
+- Huawei Luna
+- Tesla Powerwall
+- Sessy
+- thuisbatterij vergelijking
+- thuisbatterij 2026
+keywords:
+- Huawei Luna vs Tesla Powerwall
+- Sessy thuisbatterij
+- beste thuisbatterij 2026
+- thuisbatterij vergelijken
+- Huawei Luna 2000 review
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Welke thuisbatterij is het goedkoopst in 2026: Huawei Luna, Tesla Powerwall of Sessy?"
-    a: "De Huawei Luna 2000 begint het goedkoopst per kWh (€570-€760/kWh), gevolgd door de Sessy (ca. €750/kWh). De Tesla Powerwall 3 is het duurst in aanschaf (€8.500-€9.500) maar heeft wel de grootste vaste capaciteit van 13,5 kWh."
-  - q: "Werkt de Sessy ook zonder zonnepanelen?"
-    a: "Ja, de Sessy is specifiek ontworpen voor gebruik met een dynamisch energiecontract. Je laadt goedkoop op bij lage stroomtarieven (nacht, windpiek) en verbruikt wanneer het duurder is. Dit maakt de Sessy interessant voor huishoudens zonder zonnepanelen."
-  - q: "Hoe lang duurt installatie van een Tesla Powerwall 3?"
-    a: "Een Tesla Powerwall 3 installatie duurt gemiddeld 4-8 uur voor een gecertificeerd installateur. De wachttijd voor een installateur kan langer zijn — reken in drukke periodes op 4-8 weken na bestelling."
-  - q: "Is de Huawei Luna compatibel met alle omvormers?"
-    a: "Nee. De Huawei Luna 2000 werkt het beste in combinatie met een Huawei SUN2000 hybride omvormer. Gebruik je een andere omvormer, dan heb je een compatibiliteitschecker nodig of een extra interface-apparaat. Controleer dit altijd bij je installateur."
-  - q: "Wat is het verschil tussen de Sessy en andere thuisbatterijen?"
-    a: "De Sessy onderscheidt zich door zijn slimme handelsstrategie: de batterij kijkt naar de EPEX-spotprijzen en besluit automatisch wanneer te laden en ontladen voor maximale besparing. Dit maakt hem bij uitstek geschikt voor dynamische energiecontracten."
-  - q: "Welke thuisbatterij heeft de langste garantie?"
-    a: "De Tesla Powerwall 3 en Huawei Luna 2000 bieden beide 10 jaar garantie met een minimale eindcapaciteit van 70%. De Sessy biedt 7 jaar garantie. Voor oudere systemen met meer laadcycli is de 10-jaarsgarantie een relevant voordeel."
-  - q: "Kan ik een thuisbatterij ook gebruiken als back-up bij stroomuitval?"
-    a: "Dat hangt af van het model. De Tesla Powerwall 3 heeft een ingebouwde back-up functie (off-grid capable). De Huawei Luna heeft dit ook met de juiste omvormer-configuratie. De Sessy biedt in de huidige versie geen standaard back-up bij stroomuitval."
-  - q: "Wat is de terugverdientijd van een thuisbatterij in 2026?"
-    a: "Zonder saldering (vanaf 2027) en met een dynamisch contract ligt de terugverdientijd op 8-12 jaar voor de meeste systemen. De Sessy scoort iets beter bij actief gebruik met dynamische tarieven: sommige gebruikers rapporteren €600-€900 besparing per jaar."
+- q: 'Welke thuisbatterij is het goedkoopst in 2026: Huawei Luna, Tesla Powerwall of Sessy?'
+  a: De Huawei Luna 2000 begint het goedkoopst per kWh (€570-€760/kWh), gevolgd door de Sessy (ca. €750/kWh). De Tesla Powerwall 3 is het duurst in aanschaf (€8.500-€9.500) maar heeft wel de grootste vaste capaciteit van 13,5 kWh.
+- q: Werkt de Sessy ook zonder zonnepanelen?
+  a: Ja, de Sessy is specifiek ontworpen voor gebruik met een dynamisch energiecontract. Je laadt goedkoop op bij lage stroomtarieven (nacht, windpiek) en verbruikt wanneer het duurder is. Dit maakt de Sessy interessant voor huishoudens zonder zonnepanelen.
+- q: Hoe lang duurt installatie van een Tesla Powerwall 3?
+  a: Een Tesla Powerwall 3 installatie duurt gemiddeld 4-8 uur voor een gecertificeerd installateur. De wachttijd voor een installateur kan langer zijn — reken in drukke periodes op 4-8 weken na bestelling.
+- q: Is de Huawei Luna compatibel met alle omvormers?
+  a: Nee. De Huawei Luna 2000 werkt het beste in combinatie met een Huawei SUN2000 hybride omvormer. Gebruik je een andere omvormer, dan heb je een compatibiliteitschecker nodig of een extra interface-apparaat. Controleer dit altijd bij je installateur.
+- q: Wat is het verschil tussen de Sessy en andere thuisbatterijen?
+  a: 'De Sessy onderscheidt zich door zijn slimme handelsstrategie: de batterij kijkt naar de EPEX-spotprijzen en besluit automatisch wanneer te laden en ontladen voor maximale besparing. Dit maakt hem bij uitstek geschikt voor dynamische energiecontracten.'
+- q: Welke thuisbatterij heeft de langste garantie?
+  a: De Tesla Powerwall 3 en Huawei Luna 2000 bieden beide 10 jaar garantie met een minimale eindcapaciteit van 70%. De Sessy biedt 7 jaar garantie. Voor oudere systemen met meer laadcycli is de 10-jaarsgarantie een relevant voordeel.
+- q: Kan ik een thuisbatterij ook gebruiken als back-up bij stroomuitval?
+  a: Dat hangt af van het model. De Tesla Powerwall 3 heeft een ingebouwde back-up functie (off-grid capable). De Huawei Luna heeft dit ook met de juiste omvormer-configuratie. De Sessy biedt in de huidige versie geen standaard back-up bij stroomuitval.
+- q: Wat is de terugverdientijd van een thuisbatterij in 2026?
+  a: 'Zonder saldering (vanaf 2027) en met een dynamisch contract ligt de terugverdientijd op 8-12 jaar voor de meeste systemen. De Sessy scoort iets beter bij actief gebruik met dynamische tarieven: sommige gebruikers rapporteren €600-€900 besparing per jaar.'
 products:
-  - name: "Sessy thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "4499"
-  - name: "Tesla Powerwall 3"
-    url: "https://go.duurzaamthuislab.nl/tesla-powerwall"
-    price: "9500"
-  - name: "Huawei Luna 2000"
-    url: "https://go.duurzaamthuislab.nl/huawei-luna"
-    price: "6000"
+- name: Sessy thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '4499'
+- name: Tesla Powerwall 3
+  url: https://go.duurzaamthuislab.nl/tesla-powerwall
+  price: '9500'
+- name: Huawei Luna 2000
+  url: https://go.duurzaamthuislab.nl/huawei-luna
+  price: '6000'
+schema_type: Article
 ---
 
 Drie jaar geleden had je amper keus als je een thuisbatterij wilde in Nederland. Nu is de markt vol, en zijn de drie namen die telkens terugkomen de Huawei Luna 2000, de Tesla Powerwall 3 en de Nederlandse nieuwkomer Sessy. Ik heb met alle drie gewerkt — als adviseur, en in het geval van de Huawei Luna ook thuis. In dit artikel geef ik je een eerlijk beeld van de verschillen, de kosten en de vraag: welke past bij jouw situatie?

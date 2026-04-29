@@ -1,40 +1,53 @@
 ---
-title: "Anker SOLIX C1000 Review 2026: Compact Krachtpatser"
-date: 2026-03-17T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Uitgebreide Anker SOLIX C1000 review. Bekijk specs, LiFePO4 batterij, laadtijden, app-bediening en vergelijking met EcoFlow Delta 2."
-categories: ["powerstations"]
-tags: ["Anker", "SOLIX C1000", "powerstation review", "draagbaar powerstation", "LiFePO4", "compact powerstation"]
-keywords: ["anker solix c1000 review", "anker powerstation review", "anker solix c1000 ervaringen", "anker solix c1000 test", "anker c1000 specs"]
+title: 'Anker SOLIX C1000 Review 2026: Compact Krachtpatser'
+date: 2026-03-17 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Uitgebreide Anker SOLIX C1000 review. Bekijk specs, LiFePO4 batterij, laadtijden, app-bediening en vergelijking met EcoFlow Delta 2.
+categories:
+- powerstations
+tags:
+- Anker
+- SOLIX C1000
+- powerstation review
+- draagbaar powerstation
+- LiFePO4
+- compact powerstation
+keywords:
+- anker solix c1000 review
+- anker powerstation review
+- anker solix c1000 ervaringen
+- anker solix c1000 test
+- anker c1000 specs
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
-  - q: "Is de Anker SOLIX C1000 het waard in 2026?"
-    a: "Ja. De Anker SOLIX C1000 biedt 1056Wh capaciteit en 1800W continu vermogen in een compact en licht ontwerp. Met LiFePO4-technologie, een uitstekende app en snelle laadtijden is het een van de beste powerstations in de 1000Wh-klasse."
-  - q: "Hoe snel laadt de Anker SOLIX C1000 op?"
-    a: "Via een stopcontact laadt de C1000 op van 0 naar 80% in ongeveer 43 minuten dankzij Anker's HyperFlash technologie. Een volledige lading duurt circa 58 minuten."
-  - q: "Kan de Anker SOLIX C1000 een koelkast draaiende houden?"
-    a: "Ja. Een gemiddelde koelkast verbruikt 80-120W. Met de 1056Wh capaciteit van de C1000 kun je een koelkast circa 8-12 uur draaiende houden op een volledige lading."
-  - q: "Hoe zwaar is de Anker SOLIX C1000?"
-    a: "De Anker SOLIX C1000 weegt 12,9 kg. Dat maakt het een van de lichtere powerstations in de 1000Wh-klasse en goed draagbaar voor camping en buitengebruik."
-  - q: "Heeft de Anker SOLIX C1000 een UPS-functie?"
-    a: "Ja, de C1000 heeft een UPS-functie (Uninterruptible Power Supply) die binnen 20 milliseconden overschakelt bij stroomuitval. Dat is snel genoeg om computers en routers zonder onderbreking draaiende te houden."
-  - q: "Wat is het verschil tussen de Anker SOLIX C1000 en de EcoFlow Delta 2?"
-    a: "De C1000 biedt iets meer capaciteit (1056Wh vs 1024Wh) en laadt sneller op. De EcoFlow Delta 2 heeft een hogere solar-input (500W vs 300W) en meer uitgangen. Beide zijn uitstekende keuzes in deze klasse."
-  - q: "Hoe lang gaat de batterij van de Anker SOLIX C1000 mee?"
-    a: "De LiFePO4-batterij gaat circa 3000 laadcycli mee voordat de capaciteit naar 80% daalt. Bij wekelijks gebruik is dat meer dan 10 jaar."
+- q: Is de Anker SOLIX C1000 het waard in 2026?
+  a: Ja. De Anker SOLIX C1000 biedt 1056Wh capaciteit en 1800W continu vermogen in een compact en licht ontwerp. Met LiFePO4-technologie, een uitstekende app en snelle laadtijden is het een van de beste powerstations in de 1000Wh-klasse.
+- q: Hoe snel laadt de Anker SOLIX C1000 op?
+  a: Via een stopcontact laadt de C1000 op van 0 naar 80% in ongeveer 43 minuten dankzij Anker's HyperFlash technologie. Een volledige lading duurt circa 58 minuten.
+- q: Kan de Anker SOLIX C1000 een koelkast draaiende houden?
+  a: Ja. Een gemiddelde koelkast verbruikt 80-120W. Met de 1056Wh capaciteit van de C1000 kun je een koelkast circa 8-12 uur draaiende houden op een volledige lading.
+- q: Hoe zwaar is de Anker SOLIX C1000?
+  a: De Anker SOLIX C1000 weegt 12,9 kg. Dat maakt het een van de lichtere powerstations in de 1000Wh-klasse en goed draagbaar voor camping en buitengebruik.
+- q: Heeft de Anker SOLIX C1000 een UPS-functie?
+  a: Ja, de C1000 heeft een UPS-functie (Uninterruptible Power Supply) die binnen 20 milliseconden overschakelt bij stroomuitval. Dat is snel genoeg om computers en routers zonder onderbreking draaiende te houden.
+- q: Wat is het verschil tussen de Anker SOLIX C1000 en de EcoFlow Delta 2?
+  a: De C1000 biedt iets meer capaciteit (1056Wh vs 1024Wh) en laadt sneller op. De EcoFlow Delta 2 heeft een hogere solar-input (500W vs 300W) en meer uitgangen. Beide zijn uitstekende keuzes in deze klasse.
+- q: Hoe lang gaat de batterij van de Anker SOLIX C1000 mee?
+  a: De LiFePO4-batterij gaat circa 3000 laadcycli mee voordat de capaciteit naar 80% daalt. Bij wekelijks gebruik is dat meer dan 10 jaar.
 products:
-  - name: "Anker SOLIX C1000"
-    url: "https://www.anker.com/eu-en/products/a1761"
-    price: "999"
-  - name: "EcoFlow Delta 2"
-    url: "https://nl.ecoflow.com/products/delta-2-portable-power-station"
-    price: "999"
-  - name: "Jackery Explorer 1000 Plus"
-    url: "https://www.jackery.com/products/explorer-1000-plus-portable-power-station"
-    price: "1199"
+- name: Anker SOLIX C1000
+  url: https://www.anker.com/eu-en/products/a1761
+  price: '999'
+- name: EcoFlow Delta 2
+  url: https://nl.ecoflow.com/products/delta-2-portable-power-station
+  price: '999'
+- name: Jackery Explorer 1000 Plus
+  url: https://www.jackery.com/products/explorer-1000-plus-portable-power-station
+  price: '1199'
+schema_type: Review
 ---
 
 Ik heb inmiddels zes powerstations door mijn handen laten gaan, maar de Anker SOLIX C1000 verraste me het meest. Met 12,9 kg til je hem moeiteloos de auto in, terwijl hij met 1056Wh en 1800W wél serieus vermogen levert. Ik heb hem een week als noodstroom achter mijn HomeWizard P1 meter gehangen en daarna meegenomen op een kampeertripje — dit is wat ik ervan vond.

@@ -1,39 +1,55 @@
 ---
-title: "Aardwarmte warmtepomp bodembron 2026: kosten + ROI"
-date: 2026-06-15T08:00:00+02:00
-lastmod: 2026-06-15T08:00:00+02:00
-description: "Bodembron- vs lucht-water warmtepompen vergeleken: kosten, COP, terugverdientijd en wanneer aardwarmte rendabel wordt in NL 2026."
-categories: ["warmtepompen"]
-tags: ["bodembron", "bodemwarmtepomp", "aardwarmte", "grondwarmtepomp", "lucht-water vergelijking", "warmtepomp prijzen 2026", "ISDE subsidie"]
-keywords: ["bodembron warmtepomp", "aardwarmte warmtepomp", "bodemwarmtepomp prijs 2026", "bodembron vs lucht water warmtepomp", "grondwarmtepomp kosten", "warmtepomp bodembron installatie", "aardwarmte thuis"]
+title: 'Aardwarmte warmtepomp bodembron 2026: kosten + ROI'
+date: 2026-06-15 08:00:00+02:00
+lastmod: 2026-06-15 08:00:00+02:00
+description: 'Bodembron- vs lucht-water warmtepompen vergeleken: kosten, COP, terugverdientijd en wanneer aardwarmte rendabel wordt in NL 2026.'
+categories:
+- warmtepompen
+tags:
+- bodembron
+- bodemwarmtepomp
+- aardwarmte
+- grondwarmtepomp
+- lucht-water vergelijking
+- warmtepomp prijzen 2026
+- ISDE subsidie
+keywords:
+- bodembron warmtepomp
+- aardwarmte warmtepomp
+- bodemwarmtepomp prijs 2026
+- bodembron vs lucht water warmtepomp
+- grondwarmtepomp kosten
+- warmtepomp bodembron installatie
+- aardwarmte thuis
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is het verschil tussen een bodembron en een lucht-water warmtepomp?"
-    a: "Een lucht-water warmtepomp haalt warmte uit buitenlucht; een bodembron-warmtepomp haalt warmte uit de bodem (aarde). De bodemtemperatuur is het hele jaar stabiel (10-12°C in Nederland), terwijl buitenlucht in de winter koud is. Resultaat: een bodembron-warmtepomp heeft een hogere en stabielere COP, verbruikt minder stroom in de winter, en heeft geen buitenunit die geluid maakt."
-  - q: "Hoeveel kost een bodembron-warmtepomp in 2026?"
-    a: "Een complete bodembron-warmtepomp (inclusief boren, leidingen, warmtepomp en installatie) kost €18.000 tot €35.000. Een lucht-water warmtepomp (complete installatie) kost €8.000 tot €14.000. Het verschil is €10.000 tot €25.000. De hogere jaarlijkse besparing door een hogere COP compenseert dit verschil pas na 15 tot 25 jaar — afhankelijk van uw situatie."
-  - q: "Hoe diep moet een bodembron worden geboord?"
-    a: "In Nederland zijn twee types gebruikelijk: ondiepe bodembronnen (50-150 meter diep, voor grondwaterwinning) en gesloten bodemlussen (horizontaal op 1-2 meter diepte, of verticaal als bodemkollektoren op 20-100 meter). De keuze hangt af van uw grondtype, beschikbaar oppervlak en lokale regelgeving. Boren voor een verticale bodemkollector kost €4.000 tot €8.000 per boring."
-  - q: "Heb ik een vergunning nodig voor een bodembron?"
-    a: "Voor een open bodembron (grondwater onttrekken en terugpompen) is een Waterwetvergunning nodig van het waterschap. Voor gesloten bodemkollektoren is doorgaans alleen een melding bij de gemeente vereist. Bij horizontale bodemlussen op eigen terrein is geen vergunning nodig. Vraag uw installateur welk type het meest geschikt is voor uw perceel en wat de vergunningseisen zijn."
-  - q: "Wat is de SCOP van een bodembronwarmtepomp versus lucht-water?"
-    a: "Een bodembron-warmtepomp heeft in Nederland een SCOP van 4,0 tot 5,5, afhankelijk van het type en de installatie. Een lucht-water warmtepomp heeft een SCOP van 3,0 tot 4,5. In de winter (bij -5°C buiten) heeft een bodembron-warmtepomp een COP van 3,5 tot 4,5, terwijl een lucht-water warmtepomp dan daalt naar 2,0 tot 3,0. Het verschil is het grootst in koude perioden."
-  - q: "Is er subsidie voor een bodembronwarmtepomp?"
-    a: "Ja. ISDE-subsidie van RVO geldt ook voor grondwaterwarmtepompen en warmtepompen met bodemkollektoren. De subsidie is €5.000 tot €7.000 afhankelijk van het type en het nominale vermogen. Dit is hoger dan de ISDE voor lucht-water warmtepompen (€2.500 tot €4.000). Aanvragen vóór installatie bij RVO.nl."
-  - q: "Hoe groot moet mijn tuin zijn voor een horizontale bodembron?"
-    a: "Een horizontale bodemkollector (op 1-2 meter diepte) vereist circa 2 tot 3 keer het te verwarmen oppervlak aan tuinoppervlak. Voor een woning van 100 m² woonoppervlak heeft u circa 200-300 m² tuin nodig. In een rijtjeshuis of appartement is dit zelden beschikbaar. Dan is een verticale bodemkollector (boringen) of lucht-water warmtepomp de alternatieve optie."
-  - q: "Maakt een bodembronwarmtepomp ook geluid?"
-    a: "Veel minder dan een lucht-water warmtepomp. Er is geen buitenunit. De warmtepomp zelf (binnenshuis) maakt een zacht compressorgeluid (35-45 dB(A)) — vergelijkbaar met een koelkast. Dit is een groot voordeel in situaties waar geluidsoverlast speelt: kleine tuinen, appartementen of bewoners die gevoelig zijn voor geluid van buren."
+- q: Wat is het verschil tussen een bodembron en een lucht-water warmtepomp?
+  a: 'Een lucht-water warmtepomp haalt warmte uit buitenlucht; een bodembron-warmtepomp haalt warmte uit de bodem (aarde). De bodemtemperatuur is het hele jaar stabiel (10-12°C in Nederland), terwijl buitenlucht in de winter koud is. Resultaat: een bodembron-warmtepomp heeft een hogere en stabielere COP, verbruikt minder stroom in de winter, en heeft geen buitenunit die geluid maakt.'
+- q: Hoeveel kost een bodembron-warmtepomp in 2026?
+  a: Een complete bodembron-warmtepomp (inclusief boren, leidingen, warmtepomp en installatie) kost €18.000 tot €35.000. Een lucht-water warmtepomp (complete installatie) kost €8.000 tot €14.000. Het verschil is €10.000 tot €25.000. De hogere jaarlijkse besparing door een hogere COP compenseert dit verschil pas na 15 tot 25 jaar — afhankelijk van uw situatie.
+- q: Hoe diep moet een bodembron worden geboord?
+  a: 'In Nederland zijn twee types gebruikelijk: ondiepe bodembronnen (50-150 meter diep, voor grondwaterwinning) en gesloten bodemlussen (horizontaal op 1-2 meter diepte, of verticaal als bodemkollektoren op 20-100 meter). De keuze hangt af van uw grondtype, beschikbaar oppervlak en lokale regelgeving. Boren voor een verticale bodemkollector kost €4.000 tot €8.000 per boring.'
+- q: Heb ik een vergunning nodig voor een bodembron?
+  a: Voor een open bodembron (grondwater onttrekken en terugpompen) is een Waterwetvergunning nodig van het waterschap. Voor gesloten bodemkollektoren is doorgaans alleen een melding bij de gemeente vereist. Bij horizontale bodemlussen op eigen terrein is geen vergunning nodig. Vraag uw installateur welk type het meest geschikt is voor uw perceel en wat de vergunningseisen zijn.
+- q: Wat is de SCOP van een bodembronwarmtepomp versus lucht-water?
+  a: Een bodembron-warmtepomp heeft in Nederland een SCOP van 4,0 tot 5,5, afhankelijk van het type en de installatie. Een lucht-water warmtepomp heeft een SCOP van 3,0 tot 4,5. In de winter (bij -5°C buiten) heeft een bodembron-warmtepomp een COP van 3,5 tot 4,5, terwijl een lucht-water warmtepomp dan daalt naar 2,0 tot 3,0. Het verschil is het grootst in koude perioden.
+- q: Is er subsidie voor een bodembronwarmtepomp?
+  a: Ja. ISDE-subsidie van RVO geldt ook voor grondwaterwarmtepompen en warmtepompen met bodemkollektoren. De subsidie is €5.000 tot €7.000 afhankelijk van het type en het nominale vermogen. Dit is hoger dan de ISDE voor lucht-water warmtepompen (€2.500 tot €4.000). Aanvragen vóór installatie bij RVO.nl.
+- q: Hoe groot moet mijn tuin zijn voor een horizontale bodembron?
+  a: Een horizontale bodemkollector (op 1-2 meter diepte) vereist circa 2 tot 3 keer het te verwarmen oppervlak aan tuinoppervlak. Voor een woning van 100 m² woonoppervlak heeft u circa 200-300 m² tuin nodig. In een rijtjeshuis of appartement is dit zelden beschikbaar. Dan is een verticale bodemkollector (boringen) of lucht-water warmtepomp de alternatieve optie.
+- q: Maakt een bodembronwarmtepomp ook geluid?
+  a: 'Veel minder dan een lucht-water warmtepomp. Er is geen buitenunit. De warmtepomp zelf (binnenshuis) maakt een zacht compressorgeluid (35-45 dB(A)) — vergelijkbaar met een koelkast. Dit is een groot voordeel in situaties waar geluidsoverlast speelt: kleine tuinen, appartementen of bewoners die gevoelig zijn voor geluid van buren.'
 products:
-  - name: "Daikin Altherma bodemwarmtepomp"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "22000"
-  - name: "Daikin Altherma lucht-water warmtepomp (vergelijking)"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "11000"
+- name: Daikin Altherma bodemwarmtepomp
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '22000'
+- name: Daikin Altherma lucht-water warmtepomp (vergelijking)
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '11000'
+schema_type: Article
 ---
 
 In mijn werk als energieadviseur krijg ik regelmatig vragen over bodembronnen. De vragensteller heeft altijd dezelfde verwachting: "Een bodembron is toch veel efficiënter? Dan is het toch de beste keuze?"

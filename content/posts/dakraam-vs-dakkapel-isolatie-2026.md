@@ -1,34 +1,48 @@
 ---
-title: "Dakraam vs dakkapel isolatie 2026: warmteverlies"
-date: 2026-06-05T08:00:00+01:00
-lastmod: 2026-06-05T08:00:00+01:00
-description: "Warmteverlies dakraam en dakkapel, energielabel-impact, kosten van isolatie en welke methode wanneer."
-categories: ["isolatie"]
-tags: ["dakraam isolatie", "dakkapel isolatie", "warmteverlies dak", "U-waarde", "energielabel", "ISDE subsidie isolatie", "dakvlak isolatie"]
-keywords: ["dakraam vs dakkapel isolatie 2026", "dakraam warmteverlies", "dakkapel U-waarde", "isolatie dakoverstekken", "energielabel dak verbeteren"]
+title: 'Dakraam vs dakkapel isolatie 2026: warmteverlies'
+date: 2026-06-05 08:00:00+01:00
+lastmod: 2026-06-05 08:00:00+01:00
+description: Warmteverlies dakraam en dakkapel, energielabel-impact, kosten van isolatie en welke methode wanneer.
+categories:
+- isolatie
+tags:
+- dakraam isolatie
+- dakkapel isolatie
+- warmteverlies dak
+- U-waarde
+- energielabel
+- ISDE subsidie isolatie
+- dakvlak isolatie
+keywords:
+- dakraam vs dakkapel isolatie 2026
+- dakraam warmteverlies
+- dakkapel U-waarde
+- isolatie dakoverstekken
+- energielabel dak verbeteren
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel warmte verlies je via een dakraam vergeleken met een dakkapel?"
-    a: "Een dakraam met HR++-glas (U-waarde 1,1 W/m²K) verliest bij -5°C buiten en +20°C binnen circa 28 W/m². Een goed geïsoleerde dakkapel met triple glas (U-waarde 0,7 W/m²K) verliest circa 18 W/m². Maar een dakkapel heeft ook wanden en een dak, die bij slechte isolatie meer verliezen kunnen veroorzaken dan het raam zelf."
-  - q: "Wat is de gemiddelde U-waarde van een standaard dakraam?"
-    a: "Moderne Velux en Fakro dakramen (2022-heden) hebben een U-waarde van 1,0–1,3 W/m²K met standaard HR++-glas. Met triple glas dalen ze naar 0,55–0,75 W/m²K. Oudere dakramen (pre-2010) hebben vaak U-waarden van 2,5–3,5 W/m²K."
-  - q: "Verbetert een nieuwe dakkapel je energielabel?"
-    a: "Een dakkapel op zich verbetert het energielabel niet automatisch — dat hangt af van de isolatiewaarde van het aangebrachte constructiedeel. Een goed geïsoleerde dakkapel (Rc ≥ 3,5 m²K/W voor wanden en dak, triple glas voor de ramen) telt positief mee bij de energieprestatieberekening. Slecht geïsoleerde dakkapellen kunnen het label verslechteren."
-  - q: "Welke subsidie is er in 2026 voor dakraam-isolatie?"
-    a: "De ISDE-subsidie is in 2026 niet van toepassing op individuele dakramen of dakkapellen. Wel kom je in aanmerking voor de Subsidie Verduurzaming en Onderhoud Huurwoningen (SVOH) als verhuurder, of voor de energie-investeringsaftrek (EIA) als ondernemer. Particuliere eigenaar-bewoners kunnen via de warmtefonds financiering regelen maar ontvangen geen directe subsidie voor ramen."
-  - q: "Hoeveel bespaar ik door mijn oude dakraam te vervangen door een HR++-model?"
-    a: "Bij vervanging van een oud enkel-glas dakraam (U-waarde 3,5) naar HR++ (U-waarde 1,1) op 1 m² bespaar je circa 63 kWh per stookseizoen. Bij €0,27/kWh is dat €17 per jaar per m² raam. Een Velux M04 (78x98 cm = 0,76 m²) bespaar je circa €13/jaar — terugverdientijd is bij kosten van €400–€600 ongeveer 30–45 jaar."
-  - q: "Wat kost het om een dakraam te isoleren met rolluik of isolatiedeken?"
-    a: "Een Velux isolatierolluik (zwart-out met thermische laag) kost €120–€250 per dakraam en verlaagt de U-waarde effectief met 30–40%. Dit is financieel aantrekkelijker dan raamvervanging. Een thermische dakraamdeken (tijdelijke oplossing) kost €30–€80 per stuk."
-  - q: "Heeft een dakkapel invloed op de constructieve veiligheid van het dak?"
-    a: "Ja. Een dakkapel vereist constructief inpassen in de dakstructuur. In de meeste gevallen is een constructieberekening verplicht bij een bouwvergunning. De spanten moeten worden doorbroken en herbegrensd. Dit werk moet door een erkend aannemer worden uitgevoerd."
+- q: Hoeveel warmte verlies je via een dakraam vergeleken met een dakkapel?
+  a: Een dakraam met HR++-glas (U-waarde 1,1 W/m²K) verliest bij -5°C buiten en +20°C binnen circa 28 W/m². Een goed geïsoleerde dakkapel met triple glas (U-waarde 0,7 W/m²K) verliest circa 18 W/m². Maar een dakkapel heeft ook wanden en een dak, die bij slechte isolatie meer verliezen kunnen veroorzaken dan het raam zelf.
+- q: Wat is de gemiddelde U-waarde van een standaard dakraam?
+  a: Moderne Velux en Fakro dakramen (2022-heden) hebben een U-waarde van 1,0–1,3 W/m²K met standaard HR++-glas. Met triple glas dalen ze naar 0,55–0,75 W/m²K. Oudere dakramen (pre-2010) hebben vaak U-waarden van 2,5–3,5 W/m²K.
+- q: Verbetert een nieuwe dakkapel je energielabel?
+  a: Een dakkapel op zich verbetert het energielabel niet automatisch — dat hangt af van de isolatiewaarde van het aangebrachte constructiedeel. Een goed geïsoleerde dakkapel (Rc ≥ 3,5 m²K/W voor wanden en dak, triple glas voor de ramen) telt positief mee bij de energieprestatieberekening. Slecht geïsoleerde dakkapellen kunnen het label verslechteren.
+- q: Welke subsidie is er in 2026 voor dakraam-isolatie?
+  a: De ISDE-subsidie is in 2026 niet van toepassing op individuele dakramen of dakkapellen. Wel kom je in aanmerking voor de Subsidie Verduurzaming en Onderhoud Huurwoningen (SVOH) als verhuurder, of voor de energie-investeringsaftrek (EIA) als ondernemer. Particuliere eigenaar-bewoners kunnen via de warmtefonds financiering regelen maar ontvangen geen directe subsidie voor ramen.
+- q: Hoeveel bespaar ik door mijn oude dakraam te vervangen door een HR++-model?
+  a: Bij vervanging van een oud enkel-glas dakraam (U-waarde 3,5) naar HR++ (U-waarde 1,1) op 1 m² bespaar je circa 63 kWh per stookseizoen. Bij €0,27/kWh is dat €17 per jaar per m² raam. Een Velux M04 (78x98 cm = 0,76 m²) bespaar je circa €13/jaar — terugverdientijd is bij kosten van €400–€600 ongeveer 30–45 jaar.
+- q: Wat kost het om een dakraam te isoleren met rolluik of isolatiedeken?
+  a: Een Velux isolatierolluik (zwart-out met thermische laag) kost €120–€250 per dakraam en verlaagt de U-waarde effectief met 30–40%. Dit is financieel aantrekkelijker dan raamvervanging. Een thermische dakraamdeken (tijdelijke oplossing) kost €30–€80 per stuk.
+- q: Heeft een dakkapel invloed op de constructieve veiligheid van het dak?
+  a: Ja. Een dakkapel vereist constructief inpassen in de dakstructuur. In de meeste gevallen is een constructieberekening verplicht bij een bouwvergunning. De spanten moeten worden doorbroken en herbegrensd. Dit werk moet door een erkend aannemer worden uitgevoerd.
 products:
-  - name: "Isolatiematerialen vergelijking"
-    url: "/posts/dakisolatie-materialen-vergelijking-2026"
-    price: "zie artikel"
+- name: Isolatiematerialen vergelijking
+  url: /posts/dakisolatie-materialen-vergelijking-2026
+  price: zie artikel
+schema_type: Article
 ---
 
 Mijn zolderkamer was in januari een ijskast. Ik had twee Velux dakramen uit 2003 — enkel glas, grofweg U-waarde 3,0 — en een dakkapel aan de voorzijde die ooit "goed geïsoleerd" was maar waarvan de kierdichting al jaren tekortschoot. Mijn gasverbruik voor die etage lag minstens 30% hoger dan bij de rest van het huis.

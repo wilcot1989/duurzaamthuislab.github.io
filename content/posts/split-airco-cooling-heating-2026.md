@@ -1,39 +1,55 @@
 ---
-title: "Split-airco als warmtepomp: wanneer wel, wanneer niet?"
-date: 2026-06-10T08:00:00+02:00
-lastmod: 2026-06-10T08:00:00+02:00
-description: "Reverse-cycle airco als budget-warmtepomp: wanneer wel, wanneer niet. COP, geluid, plaatsing en prijs vergeleken voor 2026."
-categories: ["warmtepompen"]
-tags: ["split-airco", "airco warmtepomp", "reverse cycle", "Daikin", "koelen verwarmen", "budget warmtepomp", "lucht-lucht warmtepomp"]
-keywords: ["split airco als warmtepomp", "reverse cycle airco", "airco verwarmen winter", "split airco COP", "lucht lucht warmtepomp", "airco warmtepomp verschil", "split airco kosten 2026"]
+title: 'Split-airco als warmtepomp: wanneer wel, wanneer niet?'
+date: 2026-06-10 08:00:00+02:00
+lastmod: 2026-06-10 08:00:00+02:00
+description: 'Reverse-cycle airco als budget-warmtepomp: wanneer wel, wanneer niet. COP, geluid, plaatsing en prijs vergeleken voor 2026.'
+categories:
+- warmtepompen
+tags:
+- split-airco
+- airco warmtepomp
+- reverse cycle
+- Daikin
+- koelen verwarmen
+- budget warmtepomp
+- lucht-lucht warmtepomp
+keywords:
+- split airco als warmtepomp
+- reverse cycle airco
+- airco verwarmen winter
+- split airco COP
+- lucht lucht warmtepomp
+- airco warmtepomp verschil
+- split airco kosten 2026
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Kan een split-airco ook verwarmen in de winter?"
-    a: "Ja. De meeste moderne split-airco's zijn reverse-cycle: ze kunnen warmte uit de buitenlucht halen en naar binnen brengen, ook bij temperaturen tot -15°C (bij sommige modellen). Bij -7°C buitentemperatuur haalt een goede split-airco nog altijd een COP van 1,5 tot 2,5 — veel efficiënter dan een elektrisch kacheltje."
-  - q: "Wat is het verschil tussen een split-airco en een lucht-water warmtepomp?"
-    a: "Een split-airco (lucht-lucht) blaast verwarmde lucht direct in de ruimte. Een lucht-water warmtepomp verwarmt water voor radiatoren of vloerverwarming. Lucht-water is beter voor een volledig verwarmingssysteem; een split-airco is geschikter voor één of twee kamers, of als aanvulling op een bestaand systeem."
-  - q: "Hoeveel kost een split-airco inclusief installatie in 2026?"
-    a: "Een kwalitatieve split-airco van Daikin, Mitsubishi of LG kost €1.200 tot €2.500 voor de unit. Inclusief installatie door een erkend monteur rekent u €1.800 tot €3.500 voor één binnenunit. Multi-split systemen (meerdere ruimtes, één buitenunit) kosten €3.000 tot €7.000 afhankelijk van het aantal units."
-  - q: "Krijg ik ISDE-subsidie voor een split-airco?"
-    a: "Nee. ISDE-subsidie geldt alleen voor lucht-water warmtepompen, bodemwarmtepompen en warmtepompen voor tapwater. Een split-airco (lucht-lucht) komt niet in aanmerking. Controleer of uw gemeente een lokale duurzaamheidslening of subsidie aanbiedt — sommige gemeenten hebben bredere regels."
-  - q: "Hoeveel bespaar ik als ik een split-airco gebruik voor verwarming?"
-    a: "Bij gebruik als hoofdverwarming voor één kamer van 25 m²: circa €200 tot €400 per jaar ten opzichte van een elektrisch kacheltje. Ten opzichte van gas is de vergelijking complexer; bij een gasprijs van €1,20/m³ en een elektriciteitsprijs van €0,30/kWh is een split-airco (COP 3) even duur als gas bij een cv-ketel met rendement van 95%. Echt goedkoper wordt het bij zonnestroom of dynamisch tarief."
-  - q: "Welk merk split-airco raad je aan voor verwarming?"
-    a: "Daikin en Mitsubishi Electric zijn de best bewezen merken voor winterverwarming in Nederland. Daikin's Emura en Perfera-serie hebben SCOP-waarden van 4,6 tot 5,1 en werken betrouwbaar tot -15°C. LG en Panasonic zijn goede alternatieven in het middensegment. Vermijd onbekende budget-merken voor verwarmen — de prestaties bij lage buitentemperaturen lopen sterk uiteen."
-  - q: "Is een split-airco geschikt als enige verwarming?"
-    a: "Dat hangt af van uw woning. In een goed geïsoleerd appartement of studio (label A of B) kan één split-airco als hoofdverwarming functioneren. In een vrijstaande woning of een slecht geïsoleerd huis is een split-airco te beperkt: de luchtcirculatie reikt niet overal, en vochtige kelders of badkamers worden niet bereikt. Gebruik het als aanvulling op een bestaand systeem, of wees realistisch over de beperkingen."
-  - q: "Hoe werkt een reverse-cycle airco?"
-    a: "Een reverse-cycle airco werkt als een warmtepomp: een compressor comprimeert koudemiddel, dat warmte opneemt uit de buitenlucht en die warmte binnenshuis afgeeft via de binnenunit. Door de stroomrichting om te draaien (via een 4-wegsventiel) koelt de unit in de zomer. Hetzelfde principe als een gewone warmtepomp, maar dan met lucht als distributiemiddel in plaats van water."
+- q: Kan een split-airco ook verwarmen in de winter?
+  a: 'Ja. De meeste moderne split-airco''s zijn reverse-cycle: ze kunnen warmte uit de buitenlucht halen en naar binnen brengen, ook bij temperaturen tot -15°C (bij sommige modellen). Bij -7°C buitentemperatuur haalt een goede split-airco nog altijd een COP van 1,5 tot 2,5 — veel efficiënter dan een elektrisch kacheltje.'
+- q: Wat is het verschil tussen een split-airco en een lucht-water warmtepomp?
+  a: Een split-airco (lucht-lucht) blaast verwarmde lucht direct in de ruimte. Een lucht-water warmtepomp verwarmt water voor radiatoren of vloerverwarming. Lucht-water is beter voor een volledig verwarmingssysteem; een split-airco is geschikter voor één of twee kamers, of als aanvulling op een bestaand systeem.
+- q: Hoeveel kost een split-airco inclusief installatie in 2026?
+  a: Een kwalitatieve split-airco van Daikin, Mitsubishi of LG kost €1.200 tot €2.500 voor de unit. Inclusief installatie door een erkend monteur rekent u €1.800 tot €3.500 voor één binnenunit. Multi-split systemen (meerdere ruimtes, één buitenunit) kosten €3.000 tot €7.000 afhankelijk van het aantal units.
+- q: Krijg ik ISDE-subsidie voor een split-airco?
+  a: Nee. ISDE-subsidie geldt alleen voor lucht-water warmtepompen, bodemwarmtepompen en warmtepompen voor tapwater. Een split-airco (lucht-lucht) komt niet in aanmerking. Controleer of uw gemeente een lokale duurzaamheidslening of subsidie aanbiedt — sommige gemeenten hebben bredere regels.
+- q: Hoeveel bespaar ik als ik een split-airco gebruik voor verwarming?
+  a: 'Bij gebruik als hoofdverwarming voor één kamer van 25 m²: circa €200 tot €400 per jaar ten opzichte van een elektrisch kacheltje. Ten opzichte van gas is de vergelijking complexer; bij een gasprijs van €1,20/m³ en een elektriciteitsprijs van €0,30/kWh is een split-airco (COP 3) even duur als gas bij een cv-ketel met rendement van 95%. Echt goedkoper wordt het bij zonnestroom of dynamisch tarief.'
+- q: Welk merk split-airco raad je aan voor verwarming?
+  a: Daikin en Mitsubishi Electric zijn de best bewezen merken voor winterverwarming in Nederland. Daikin's Emura en Perfera-serie hebben SCOP-waarden van 4,6 tot 5,1 en werken betrouwbaar tot -15°C. LG en Panasonic zijn goede alternatieven in het middensegment. Vermijd onbekende budget-merken voor verwarmen — de prestaties bij lage buitentemperaturen lopen sterk uiteen.
+- q: Is een split-airco geschikt als enige verwarming?
+  a: 'Dat hangt af van uw woning. In een goed geïsoleerd appartement of studio (label A of B) kan één split-airco als hoofdverwarming functioneren. In een vrijstaande woning of een slecht geïsoleerd huis is een split-airco te beperkt: de luchtcirculatie reikt niet overal, en vochtige kelders of badkamers worden niet bereikt. Gebruik het als aanvulling op een bestaand systeem, of wees realistisch over de beperkingen.'
+- q: Hoe werkt een reverse-cycle airco?
+  a: 'Een reverse-cycle airco werkt als een warmtepomp: een compressor comprimeert koudemiddel, dat warmte opneemt uit de buitenlucht en die warmte binnenshuis afgeeft via de binnenunit. Door de stroomrichting om te draaien (via een 4-wegsventiel) koelt de unit in de zomer. Hetzelfde principe als een gewone warmtepomp, maar dan met lucht als distributiemiddel in plaats van water.'
 products:
-  - name: "Daikin Perfera split-airco (3,5 kW)"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "1899"
-  - name: "Daikin Emura split-airco (2,5 kW)"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "2299"
+- name: Daikin Perfera split-airco (3,5 kW)
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '1899'
+- name: Daikin Emura split-airco (2,5 kW)
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: '2299'
+schema_type: Article
 ---
 
 Mijn buurman Henk koopt dit jaar een warmtepomp. Budget: €5.000. Zijn huis: een doorzonwoning uit 1978, label D, radiatoren op de begane grond die aanvoertemperaturen van 70°C nodig hebben. Ik moest hem teleurstellen: voor die situatie en dat budget is een volwaardige lucht-water warmtepomp óf te duur, óf ongeschikt.

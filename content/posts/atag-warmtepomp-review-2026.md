@@ -1,39 +1,55 @@
 ---
-title: "ATAG warmtepomp review 2026: eerlijke test van een"
-date: 2026-06-28T08:00:00+02:00
-lastmod: 2026-06-28T08:00:00+02:00
-description: "ATAG maakt warmtepompen in Nederland — maar zijn ze ook goed? Mijn eerlijke review van de ENERGION hybride warmtepomp."
-categories: ["warmtepompen"]
-tags: ["ATAG", "ENERGION", "warmtepomp", "hybride warmtepomp", "lucht-water warmtepomp", "ISDE subsidie", "review"]
-keywords: ["ATAG warmtepomp review", "ATAG ENERGION review", "ATAG warmtepomp ervaringen", "ATAG hybride warmtepomp", "ATAG warmtepomp prijs", "ATAG vs Daikin", "Nederlandse warmtepomp"]
+title: 'ATAG warmtepomp review 2026: eerlijke test van een'
+date: 2026-06-28 08:00:00+02:00
+lastmod: 2026-06-28 08:00:00+02:00
+description: ATAG maakt warmtepompen in Nederland — maar zijn ze ook goed? Mijn eerlijke review van de ENERGION hybride warmtepomp.
+categories:
+- warmtepompen
+tags:
+- ATAG
+- ENERGION
+- warmtepomp
+- hybride warmtepomp
+- lucht-water warmtepomp
+- ISDE subsidie
+- review
+keywords:
+- ATAG warmtepomp review
+- ATAG ENERGION review
+- ATAG warmtepomp ervaringen
+- ATAG hybride warmtepomp
+- ATAG warmtepomp prijs
+- ATAG vs Daikin
+- Nederlandse warmtepomp
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kost een ATAG ENERGION warmtepomp in 2026?"
-    a: "Een ATAG ENERGION hybride warmtepomp kost circa €6.500 tot €9.500 inclusief 0% btw. De all-electric variant ligt aan de bovenkant. Inclusief ISDE-subsidie (€2.500 tot €4.000 afhankelijk van het model en vermogen) kom je netto op €4.000 tot €6.500. Montagekosten variëren per installateur: reken op €800 tot €1.500 extra."
-  - q: "Wat is de COP van een ATAG warmtepomp?"
-    a: "ATAG ENERGION heeft een seizoensprestatiefactor (SCOP) van circa 4,0 tot 4,7 afhankelijk van het model en de omstandigheden. Dat betekent: per kilowattuur elektriciteit levert de pomp 4 tot 4,7 kWh warmte. Op kouder water (lage aanvoertemperatuur) presteert elk model beter."
-  - q: "Kan ik ISDE-subsidie krijgen voor een ATAG warmtepomp?"
-    a: "Ja. ATAG ENERGION modellen staan op de ISDE-lijst van RVO. De subsidie is €2.500 tot €4.000 per warmtepomp, afhankelijk van het type en het nominale vermogen. Je moet de aanvraag doen vóór installatie — de installateur regelt dit doorgaans."
-  - q: "Werkt een ATAG warmtepomp in een oudere woning?"
-    a: "De hybride variant (ENERGION hybride) werkt uitstekend in slecht geïsoleerde woningen. De cv-ketel springt bij als de warmtepomp het alleen niet redt. Voor een goed geïsoleerde woning (label A of beter) is de all-electric variant zinvoller. ATAG raadt zelf aan eerst te kijken naar isolatie als je woning label D of lager heeft."
-  - q: "Hoeveel bespaar ik per jaar met een ATAG warmtepomp?"
-    a: "Bij een gemiddeld rijtjeshuis met 2.000 m³ gasverbruik en de hybride variant: circa €600 tot €900 per jaar, afhankelijk van gas- en elektriciteitsprijs. Bij all-electric (mits goed geïsoleerd): tot €1.200 per jaar. Terugverdientijd: 6 tot 11 jaar inclusief subsidie."
-  - q: "Is de service van ATAG goed?"
-    a: "ATAG heeft een uitgebreid netwerk van erkende installateurs in Nederland en een eigen technische dienst. Garantie is 5 jaar op de warmtepomp zelf, 2 jaar op onderdelen. Storingen worden doorgaans binnen 24-48 uur opgepakt. Dat is een sterk punt ten opzichte van internationale merken."
-  - q: "Wat is het verschil tussen ATAG ENERGION hybride en all-electric?"
-    a: "De hybride variant combineert de warmtepomp met een bestaande cv-ketel. Geschikt voor matig geïsoleerde woningen. De all-electric variant vervangt de cv-ketel volledig. Goedkoper in gebruik, maar vereist goede isolatie (label B of beter) en lage aanvoertemperatuur (max. 55°C)."
-  - q: "Maakt ATAG de warmtepompen zelf?"
-    a: "ATAG is onderdeel van de Italiaanse groep IRSAP (sinds 2019), maar de engineering en eindmontage van ENERGION-modellen vindt grotendeels in Nederland plaats (Lichtenvoorde, Gelderland). De compressor komt van Mitsubishi Electric — een gangbare keuze in de industrie. ATAG's toegevoegde waarde zit in de NL-specifieke regelapparatuur en integratie met hun cv-ketels."
+- q: Wat kost een ATAG ENERGION warmtepomp in 2026?
+  a: 'Een ATAG ENERGION hybride warmtepomp kost circa €6.500 tot €9.500 inclusief 0% btw. De all-electric variant ligt aan de bovenkant. Inclusief ISDE-subsidie (€2.500 tot €4.000 afhankelijk van het model en vermogen) kom je netto op €4.000 tot €6.500. Montagekosten variëren per installateur: reken op €800 tot €1.500 extra.'
+- q: Wat is de COP van een ATAG warmtepomp?
+  a: 'ATAG ENERGION heeft een seizoensprestatiefactor (SCOP) van circa 4,0 tot 4,7 afhankelijk van het model en de omstandigheden. Dat betekent: per kilowattuur elektriciteit levert de pomp 4 tot 4,7 kWh warmte. Op kouder water (lage aanvoertemperatuur) presteert elk model beter.'
+- q: Kan ik ISDE-subsidie krijgen voor een ATAG warmtepomp?
+  a: Ja. ATAG ENERGION modellen staan op de ISDE-lijst van RVO. De subsidie is €2.500 tot €4.000 per warmtepomp, afhankelijk van het type en het nominale vermogen. Je moet de aanvraag doen vóór installatie — de installateur regelt dit doorgaans.
+- q: Werkt een ATAG warmtepomp in een oudere woning?
+  a: De hybride variant (ENERGION hybride) werkt uitstekend in slecht geïsoleerde woningen. De cv-ketel springt bij als de warmtepomp het alleen niet redt. Voor een goed geïsoleerde woning (label A of beter) is de all-electric variant zinvoller. ATAG raadt zelf aan eerst te kijken naar isolatie als je woning label D of lager heeft.
+- q: Hoeveel bespaar ik per jaar met een ATAG warmtepomp?
+  a: 'Bij een gemiddeld rijtjeshuis met 2.000 m³ gasverbruik en de hybride variant: circa €600 tot €900 per jaar, afhankelijk van gas- en elektriciteitsprijs. Bij all-electric (mits goed geïsoleerd): tot €1.200 per jaar. Terugverdientijd: 6 tot 11 jaar inclusief subsidie.'
+- q: Is de service van ATAG goed?
+  a: ATAG heeft een uitgebreid netwerk van erkende installateurs in Nederland en een eigen technische dienst. Garantie is 5 jaar op de warmtepomp zelf, 2 jaar op onderdelen. Storingen worden doorgaans binnen 24-48 uur opgepakt. Dat is een sterk punt ten opzichte van internationale merken.
+- q: Wat is het verschil tussen ATAG ENERGION hybride en all-electric?
+  a: De hybride variant combineert de warmtepomp met een bestaande cv-ketel. Geschikt voor matig geïsoleerde woningen. De all-electric variant vervangt de cv-ketel volledig. Goedkoper in gebruik, maar vereist goede isolatie (label B of beter) en lage aanvoertemperatuur (max. 55°C).
+- q: Maakt ATAG de warmtepompen zelf?
+  a: ATAG is onderdeel van de Italiaanse groep IRSAP (sinds 2019), maar de engineering en eindmontage van ENERGION-modellen vindt grotendeels in Nederland plaats (Lichtenvoorde, Gelderland). De compressor komt van Mitsubishi Electric — een gangbare keuze in de industrie. ATAG's toegevoegde waarde zit in de NL-specifieke regelapparatuur en integratie met hun cv-ketels.
 products:
-  - name: "ATAG ENERGION hybride warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "7500"
-  - name: "ATAG ENERGION all-electric warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "9000"
+- name: ATAG ENERGION hybride warmtepomp
+  url: https://go.duurzaamthuislab.nl/atag
+  price: '7500'
+- name: ATAG ENERGION all-electric warmtepomp
+  url: https://go.duurzaamthuislab.nl/atag
+  price: '9000'
+schema_type: Review
 ---
 
 Mijn buurvrouw Riet belde me in februari. "Mark, ik heb een offerte gekregen van een installateur voor een ATAG warmtepomp. Dertienduizend euro. Is dat normaal?" Ik vroeg haar de offerte door te sturen. Het was inclusief vloerverwarming, 6 jaar onderhoudscontract en een compleet nieuwe groepenkast — dus de warmtepomp zelf stond op €8.200. Dat is realistisch.

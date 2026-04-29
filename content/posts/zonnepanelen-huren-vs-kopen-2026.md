@@ -1,35 +1,46 @@
 ---
-title: "Zonnepanelen Huren vs Kopen 2026: Wat is Voordeliger?"
-date: 2026-05-17T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Zonnepanelen huren of kopen? Vergelijking van kosten, opbrengst, flexibiliteit en rendement. Ontdek welke optie het beste bij jouw situatie past."
-categories: ["zonnepanelen"]
-tags: ["zonnepanelen huren", "zonnepanelen kopen", "lease", "Solarwatt", "zonne-energie"]
-keywords: ["zonnepanelen huren vs kopen", "zonnepanelen lease", "zonnepanelen huren kosten", "zonnepanelen kopen rendement"]
+title: 'Zonnepanelen Huren vs Kopen 2026: Wat is Voordeliger?'
+date: 2026-05-17 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Zonnepanelen huren of kopen? Vergelijking van kosten, opbrengst, flexibiliteit en rendement. Ontdek welke optie het beste bij jouw situatie past.
+categories:
+- zonnepanelen
+tags:
+- zonnepanelen huren
+- zonnepanelen kopen
+- lease
+- Solarwatt
+- zonne-energie
+keywords:
+- zonnepanelen huren vs kopen
+- zonnepanelen lease
+- zonnepanelen huren kosten
+- zonnepanelen kopen rendement
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Is het voordeliger om zonnepanelen te huren of te kopen?"
-    a: "Kopen is op de lange termijn altijd voordeliger. Over 25 jaar verdien je €10.000-€20.000 meer met kopen dan met huren. Huren is voordeliger als je geen spaargeld hebt, binnen 5-7 jaar wilt verhuizen, of geen risico wilt nemen op onderhoud en reparatie."
-  - q: "Wat kost het om zonnepanelen te huren?"
-    a: "Huurprijzen liggen tussen €30-€80 per maand voor 8-12 panelen, afhankelijk van de aanbieder en het pakket. De huurperiode is meestal 10-15 jaar. Inclusief installatie, onderhoud en monitoring. Na de huurperiode kun je de panelen vaak overnemen voor een symbolisch bedrag."
-  - q: "Wie is eigenaar van gehuurde zonnepanelen?"
-    a: "Bij huur blijft de leverancier eigenaar van de zonnepanelen gedurende het contract. Jij betaalt een maandelijkse huurprijs en gebruikt de opgewekte stroom. Na afloop van het contract kun je de panelen overnemen (soms gratis, soms voor een restwaarde) of laten verwijderen."
-  - q: "Kan ik gehuurde zonnepanelen meenemen bij verhuizing?"
-    a: "Dit hangt af van het contract. Sommige aanbieders bieden contractoverdracht aan de nieuwe bewoner. Anderen laten je de panelen verwijderen en op je nieuwe woning herinstalleren (tegen kosten). Lees het contract goed door vóór ondertekening."
-  - q: "Zijn gehuurde zonnepanelen rendabel?"
-    a: "Gehuurde panelen leveren minder rendement op dan gekochte panelen. De maandelijkse huurbetaling eet een groot deel van de stroombesparing op. Typisch bespaar je €10-€30/maand netto bij huur, vs €60-€100/maand bij koop (na terugverdientijd). Huren is rendabel, maar minder dan kopen."
-  - q: "Wat gebeurt er als de huurder van zonnepanelen failliet gaat?"
-    a: "Als de huuraanbieder failliet gaat, blijven de panelen op je dak functioneren. De eigendom gaat over naar de curator. In de praktijk neemt een andere partij het contract over. Dit is een risico, maar tot nu toe zeldzaam bij grote aanbieders."
+- q: Is het voordeliger om zonnepanelen te huren of te kopen?
+  a: Kopen is op de lange termijn altijd voordeliger. Over 25 jaar verdien je €10.000-€20.000 meer met kopen dan met huren. Huren is voordeliger als je geen spaargeld hebt, binnen 5-7 jaar wilt verhuizen, of geen risico wilt nemen op onderhoud en reparatie.
+- q: Wat kost het om zonnepanelen te huren?
+  a: Huurprijzen liggen tussen €30-€80 per maand voor 8-12 panelen, afhankelijk van de aanbieder en het pakket. De huurperiode is meestal 10-15 jaar. Inclusief installatie, onderhoud en monitoring. Na de huurperiode kun je de panelen vaak overnemen voor een symbolisch bedrag.
+- q: Wie is eigenaar van gehuurde zonnepanelen?
+  a: Bij huur blijft de leverancier eigenaar van de zonnepanelen gedurende het contract. Jij betaalt een maandelijkse huurprijs en gebruikt de opgewekte stroom. Na afloop van het contract kun je de panelen overnemen (soms gratis, soms voor een restwaarde) of laten verwijderen.
+- q: Kan ik gehuurde zonnepanelen meenemen bij verhuizing?
+  a: Dit hangt af van het contract. Sommige aanbieders bieden contractoverdracht aan de nieuwe bewoner. Anderen laten je de panelen verwijderen en op je nieuwe woning herinstalleren (tegen kosten). Lees het contract goed door vóór ondertekening.
+- q: Zijn gehuurde zonnepanelen rendabel?
+  a: Gehuurde panelen leveren minder rendement op dan gekochte panelen. De maandelijkse huurbetaling eet een groot deel van de stroombesparing op. Typisch bespaar je €10-€30/maand netto bij huur, vs €60-€100/maand bij koop (na terugverdientijd). Huren is rendabel, maar minder dan kopen.
+- q: Wat gebeurt er als de huurder van zonnepanelen failliet gaat?
+  a: Als de huuraanbieder failliet gaat, blijven de panelen op je dak functioneren. De eigendom gaat over naar de curator. In de praktijk neemt een andere partij het contract over. Dit is een risico, maar tot nu toe zeldzaam bij grote aanbieders.
 products:
-  - name: "Zonneplan"
-    url: "https://zonneplan.nl/zonnepanelen"
-    price: "5000"
-  - name: "Coolblue Zonnepanelen"
-    url: "https://www.coolblue.nl/zonnepanelen"
-    price: "5500"
+- name: Zonneplan
+  url: https://zonneplan.nl/zonnepanelen
+  price: '5000'
+- name: Coolblue Zonnepanelen
+  url: https://www.coolblue.nl/zonnepanelen
+  price: '5500'
+schema_type: Article
 ---
 
 Ik heb mijn 16 zonnepanelen gekocht voor €4.800 en ze in 6 jaar terugverdiend. Een huurconstructie had me over 25 jaar meer dan €8.000 extra gekost. Toch kan huren voor sommige situaties de betere keuze zijn — bijvoorbeeld als je binnen 5 jaar wilt verhuizen of geen spaargeld hebt. Ik heb beide opties doorgerekend en leg hier het verschil uit.

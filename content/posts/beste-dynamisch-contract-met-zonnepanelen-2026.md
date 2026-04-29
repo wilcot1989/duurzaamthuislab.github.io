@@ -1,45 +1,58 @@
 ---
-title: "Beste dynamisch contract met zonnepanelen 2026"
-date: 2026-05-13T08:00:00+02:00
-lastmod: 2026-05-13T08:00:00+02:00
-description: "Welke dynamische energieleverancier is het voordeligst voor zonnepaneel-bezitters? Tibber vs Frank vs ANWB vs Eneco Dynamisch vergeleken."
-categories: ["energie", "zonne-energie"]
-tags: ["dynamisch contract", "zonnepanelen", "Tibber", "Frank Energie", "vergelijking"]
-keywords: ["beste dynamisch contract met zonnepanelen", "dynamisch contract zonnepanelen", "tibber vs frank vs anwb", "welk dynamisch contract", "dynamisch contract teruglevering"]
+title: Beste dynamisch contract met zonnepanelen 2026
+date: 2026-05-13 08:00:00+02:00
+lastmod: 2026-05-13 08:00:00+02:00
+description: Welke dynamische energieleverancier is het voordeligst voor zonnepaneel-bezitters? Tibber vs Frank vs ANWB vs Eneco Dynamisch vergeleken.
+categories:
+- energie
+- zonne-energie
+tags:
+- dynamisch contract
+- zonnepanelen
+- Tibber
+- Frank Energie
+- vergelijking
+keywords:
+- beste dynamisch contract met zonnepanelen
+- dynamisch contract zonnepanelen
+- tibber vs frank vs anwb
+- welk dynamisch contract
+- dynamisch contract teruglevering
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Welk dynamisch contract is het beste voor zonnepaneel-bezitters?"
-    a: "Frank Energie voor de gemiddelde gebruiker (laagste totaalkosten). Tibber voor EV-bezitters of smart-home liefhebbers (beste automation). ANWB Dynamisch voor mensen die prijspiekvrees hebben (prijsdemping vangnet). Voor wie geen marge bovenop EPEX wil betalen: Frank of Tibber."
-  - q: "Hoeveel meer bespaar ik vergeleken met vast?"
-    a: "Voor zonnepaneel-bezitters in 2026: gemiddeld €600-€1.000/jaar dynamisch vs vast contract bij Eneco/Vattenfall. Vanaf 2027 (saldering-stop) loopt voordeel op naar €900-€1.500/jaar omdat dynamisch geen aparte terugleverkosten rekent."
-  - q: "Hebben dynamische contracten extra kosten voor zonnepaneel-eigenaars?"
-    a: "Tibber, Frank, ANWB en Eneco Dynamisch rekenen GEEN aparte terugleverkosten zoals vaste contracten doen. Dat scheelt €120-€420/jaar afhankelijk van teruglevervolume."
-  - q: "Wat als prijzen pieken? Stel een winterstorm met €1+/kWh?"
-    a: "Bij Tibber/Frank betaal je dat ook. Voor zonnepaneel-bezitters is dat minder erg dan voor anderen — overdag in zomer betaalt jou veel terug, dus over jaar gemiddeld is het voordelig. ANWB Dynamisch heeft prijsdemping (max €0,40/kWh in piek-uren) als je dat liever hebt."
-  - q: "Welke werkt het best met saldering-stop in 2027?"
-    a: "Allen. De saldering-stop maakt vaste contracten dramatisch slechter (verlies €500-€800/jaar bovenop bestaande kosten). Dynamisch absorbeert dat grotendeels — je terugleverenergie wordt tegen marktprijs verkocht, vaak tegen lagere maar redelijke €0,10-€0,15/kWh."
-  - q: "Heb ik een thuisbatterij nodig om dynamisch te benutten?"
-    a: "Niet absoluut, maar het maximaliseert wel het effect. Zonder batterij bespaar je 60-70% van het potentieel. Met 10 kWh batterij + dynamisch contract benut je arbitrage volledig: €700-€900/jaar extra voordeel."
-  - q: "Welke heeft de beste app voor zonnepaneel-data?"
-    a: "Tibber heeft de polished beste app, met realtime productie+verbruik+marktprijs in één view. Frank's app is functioneel. ANWB is iets minder rijk. EnergyZero (gebruikt door Frank) is open en werkt met Home Assistant."
-  - q: "Kan ik mijn vast contract doorbreken om naar dynamisch te gaan?"
-    a: "Soms. Bij Eneco/Vattenfall vast contract is opzeggboete €100-€150 voor laatste jaar. Bereken: jaarbesparing dynamisch (~€700) > opzegboete (€150)? Ja, dus de overstap loont — zelfs met boete."
+- q: Welk dynamisch contract is het beste voor zonnepaneel-bezitters?
+  a: 'Frank Energie voor de gemiddelde gebruiker (laagste totaalkosten). Tibber voor EV-bezitters of smart-home liefhebbers (beste automation). ANWB Dynamisch voor mensen die prijspiekvrees hebben (prijsdemping vangnet). Voor wie geen marge bovenop EPEX wil betalen: Frank of Tibber.'
+- q: Hoeveel meer bespaar ik vergeleken met vast?
+  a: 'Voor zonnepaneel-bezitters in 2026: gemiddeld €600-€1.000/jaar dynamisch vs vast contract bij Eneco/Vattenfall. Vanaf 2027 (saldering-stop) loopt voordeel op naar €900-€1.500/jaar omdat dynamisch geen aparte terugleverkosten rekent.'
+- q: Hebben dynamische contracten extra kosten voor zonnepaneel-eigenaars?
+  a: Tibber, Frank, ANWB en Eneco Dynamisch rekenen GEEN aparte terugleverkosten zoals vaste contracten doen. Dat scheelt €120-€420/jaar afhankelijk van teruglevervolume.
+- q: Wat als prijzen pieken? Stel een winterstorm met €1+/kWh?
+  a: Bij Tibber/Frank betaal je dat ook. Voor zonnepaneel-bezitters is dat minder erg dan voor anderen — overdag in zomer betaalt jou veel terug, dus over jaar gemiddeld is het voordelig. ANWB Dynamisch heeft prijsdemping (max €0,40/kWh in piek-uren) als je dat liever hebt.
+- q: Welke werkt het best met saldering-stop in 2027?
+  a: Allen. De saldering-stop maakt vaste contracten dramatisch slechter (verlies €500-€800/jaar bovenop bestaande kosten). Dynamisch absorbeert dat grotendeels — je terugleverenergie wordt tegen marktprijs verkocht, vaak tegen lagere maar redelijke €0,10-€0,15/kWh.
+- q: Heb ik een thuisbatterij nodig om dynamisch te benutten?
+  a: 'Niet absoluut, maar het maximaliseert wel het effect. Zonder batterij bespaar je 60-70% van het potentieel. Met 10 kWh batterij + dynamisch contract benut je arbitrage volledig: €700-€900/jaar extra voordeel.'
+- q: Welke heeft de beste app voor zonnepaneel-data?
+  a: Tibber heeft de polished beste app, met realtime productie+verbruik+marktprijs in één view. Frank's app is functioneel. ANWB is iets minder rijk. EnergyZero (gebruikt door Frank) is open en werkt met Home Assistant.
+- q: Kan ik mijn vast contract doorbreken om naar dynamisch te gaan?
+  a: 'Soms. Bij Eneco/Vattenfall vast contract is opzeggboete €100-€150 voor laatste jaar. Bereken: jaarbesparing dynamisch (~€700) > opzegboete (€150)? Ja, dus de overstap loont — zelfs met boete.'
 products:
-  - name: "Frank Energie"
-    url: "https://www.frankenergie.nl/"
-    price: "0"
-  - name: "Tibber"
-    url: "https://tibber.com/nl"
-    price: "6"
-  - name: "ANWB Energie Dynamisch"
-    url: "https://www.anwb.nl/energie"
-    price: "0"
-  - name: "Eneco Dynamisch (alternatief)"
-    url: "https://www.eneco.nl/"
-    price: "0"
+- name: Frank Energie
+  url: https://www.frankenergie.nl/
+  price: '0'
+- name: Tibber
+  url: https://tibber.com/nl
+  price: '6'
+- name: ANWB Energie Dynamisch
+  url: https://www.anwb.nl/energie
+  price: '0'
+- name: Eneco Dynamisch (alternatief)
+  url: https://www.eneco.nl/
+  price: '0'
+schema_type: Article
 ---
 
 Voor zonnepaneel-bezitters is "welk dynamisch contract" een belangrijke financiële vraag. Het antwoord heeft grote impact: het verschil tussen de beste en de slechtste dynamische keuze is €100-€200 per jaar. Over 5 jaar is dat €500-€1.000.

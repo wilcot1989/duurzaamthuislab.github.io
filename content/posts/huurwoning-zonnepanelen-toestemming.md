@@ -1,39 +1,51 @@
 ---
-title: "Zonnepanelen in huurwoning in 2026"
-date: 2026-05-29T08:00:00+02:00
-lastmod: 2026-05-29T08:00:00+02:00
-description: "Mag je als huurder zonnepanelen plaatsen? Wat zegt de wet, hoe vraag je toestemming en welke subsidies en verzekeringen gelden? Alles wat huurders moeten weten."
-categories: ["zonne-energie"]
-tags: ["zonnepanelen huurwoning", "huurder zonnepanelen", "verhuurder toestemming", "postcoderoos", "subsidie huurder"]
-keywords: ["zonnepanelen huurwoning", "huurder zonnepanelen plaatsen", "toestemming verhuurder zonnepanelen", "subsidie zonnepanelen huurder", "balkon zonnepanelen huurwoning"]
+title: Zonnepanelen in huurwoning in 2026
+date: 2026-05-29 08:00:00+02:00
+lastmod: 2026-05-29 08:00:00+02:00
+description: Mag je als huurder zonnepanelen plaatsen? Wat zegt de wet, hoe vraag je toestemming en welke subsidies en verzekeringen gelden? Alles wat huurders moeten weten.
+categories:
+- zonne-energie
+tags:
+- zonnepanelen huurwoning
+- huurder zonnepanelen
+- verhuurder toestemming
+- postcoderoos
+- subsidie huurder
+keywords:
+- zonnepanelen huurwoning
+- huurder zonnepanelen plaatsen
+- toestemming verhuurder zonnepanelen
+- subsidie zonnepanelen huurder
+- balkon zonnepanelen huurwoning
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Mag ik als huurder zonnepanelen plaatsen zonder toestemming van de verhuurder?"
-    a: "Nee. Voor vaste installaties op het dak of gevel heb je altijd schriftelijke toestemming van de verhuurder nodig. Voor draagbare balkonpanelen (plug-in) is het juridisch grijs: ze zijn niet vast bevestigd aan de woning, maar een verhuurder kan ze toch verbieden. Vraag altijd toestemming vooraf om conflicten bij vertrek te voorkomen."
-  - q: "Wat zijn mijn rechten als huurder als de verhuurder weigert?"
-    a: "De verhuurder mag toestemming weigeren, maar niet zonder reden als de maatregel het woongenot verbetert en de woning niet beschadigt. Via de Huurcommissie kun je bezwaar maken. Bij sociale huurwoningen verplicht de Wet betaalbare huur (2024) verhuurders om energiebesparende maatregelen toe te staan als ze de structurele integriteit niet aantasten."
-  - q: "Welke subsidie kan ik als huurder krijgen voor zonnepanelen?"
-    a: "Directe ISDE-subsidie voor dakpanelen kun je als huurder niet aanvragen (dat kan alleen de eigenaar). Wel beschikbaar: Postcoderoosregeling (SCE-subsidie), waarbij je deelneemt in een lokale energiecoöperatie en salderingskorting ontvangt. Sommige gemeenten bieden ook huurder-specifieke energievouchers."
-  - q: "Wat zijn balkonzonnepanelen (plug-in panelen)?"
-    a: "Balkonzonnepanelen zijn losstaande panelen die je op een balkon of terras plaatst en via een schukosteker op een binnenlands stopcontact aansluit. Maximaal vermogen in Nederland: 800Wp. Jaarlijkse opbrengst (Amsterdam): 600-750 kWh. Kosten: €200-400. Besparing: €150-225/jaar. Geen netmeteraanpassing nodig bij <800Wp."
-  - q: "Wat gebeurt er met de zonnepanelen als ik de woning verlaat?"
-    a: "Dat hangt van de afspraken af. Vaste dakinstallaties: de verhuurder mag ze overnemen (soms tegen vergoeding). Sommige verhuurders eisen verwijdering en herstel van het dak op jouw kosten. Balkonpanelen neem je altijd mee. Leg dit altijd vast in de toestemmingsbrief vóór plaatsing."
-  - q: "Hoe verzeker ik mijn zonnepanelen als huurder?"
-    a: "Vaste dakinstallaties: via een aanvullende inboedelverzekering of een aparte opstalverzekering (die normaal bij de eigenaar ligt). Overleg met je verzekeraar. Balkonpanelen vallen doorgaans onder de inboedelverzekering. Check of jouw polis 'elektronica buiten de woning' dekt."
-  - q: "Wat is de Postcoderoosregeling en hoe werkt het voor huurders?"
-    a: "De SCE (Stimulering Coöperatieve Energieopwekking) is de opvolger van de Postcoderoosregeling. Je investeert in zonnepanelen van een coöperatie binnen 2 postcode-afstand. De geproduceerde stroom wordt verrekend met je energierekening. Voordeel: geen toestemming verhuurder nodig. Nadeel: je hebt geen directe controle over de installatie."
-  - q: "Kan mijn verhuurder de huur verhogen als hij zonnepanelen plaatst?"
-    a: "Ja. Als een verhuurder zonnepanelen plaatst als verduurzaming, kan hij een huurverhoging doorvoeren. Bij sociale huur geldt een maximale huurverhoging van €10/mnd per energielabel-stap verbetering. Bij vrije sector: contractueel vastgelegd. De energierekening-besparing moet groter zijn dan de huurverhoging om voordelig te zijn."
+- q: Mag ik als huurder zonnepanelen plaatsen zonder toestemming van de verhuurder?
+  a: 'Nee. Voor vaste installaties op het dak of gevel heb je altijd schriftelijke toestemming van de verhuurder nodig. Voor draagbare balkonpanelen (plug-in) is het juridisch grijs: ze zijn niet vast bevestigd aan de woning, maar een verhuurder kan ze toch verbieden. Vraag altijd toestemming vooraf om conflicten bij vertrek te voorkomen.'
+- q: Wat zijn mijn rechten als huurder als de verhuurder weigert?
+  a: De verhuurder mag toestemming weigeren, maar niet zonder reden als de maatregel het woongenot verbetert en de woning niet beschadigt. Via de Huurcommissie kun je bezwaar maken. Bij sociale huurwoningen verplicht de Wet betaalbare huur (2024) verhuurders om energiebesparende maatregelen toe te staan als ze de structurele integriteit niet aantasten.
+- q: Welke subsidie kan ik als huurder krijgen voor zonnepanelen?
+  a: 'Directe ISDE-subsidie voor dakpanelen kun je als huurder niet aanvragen (dat kan alleen de eigenaar). Wel beschikbaar: Postcoderoosregeling (SCE-subsidie), waarbij je deelneemt in een lokale energiecoöperatie en salderingskorting ontvangt. Sommige gemeenten bieden ook huurder-specifieke energievouchers.'
+- q: Wat zijn balkonzonnepanelen (plug-in panelen)?
+  a: 'Balkonzonnepanelen zijn losstaande panelen die je op een balkon of terras plaatst en via een schukosteker op een binnenlands stopcontact aansluit. Maximaal vermogen in Nederland: 800Wp. Jaarlijkse opbrengst (Amsterdam): 600-750 kWh. Kosten: €200-400. Besparing: €150-225/jaar. Geen netmeteraanpassing nodig bij <800Wp.'
+- q: Wat gebeurt er met de zonnepanelen als ik de woning verlaat?
+  a: 'Dat hangt van de afspraken af. Vaste dakinstallaties: de verhuurder mag ze overnemen (soms tegen vergoeding). Sommige verhuurders eisen verwijdering en herstel van het dak op jouw kosten. Balkonpanelen neem je altijd mee. Leg dit altijd vast in de toestemmingsbrief vóór plaatsing.'
+- q: Hoe verzeker ik mijn zonnepanelen als huurder?
+  a: 'Vaste dakinstallaties: via een aanvullende inboedelverzekering of een aparte opstalverzekering (die normaal bij de eigenaar ligt). Overleg met je verzekeraar. Balkonpanelen vallen doorgaans onder de inboedelverzekering. Check of jouw polis ''elektronica buiten de woning'' dekt.'
+- q: Wat is de Postcoderoosregeling en hoe werkt het voor huurders?
+  a: 'De SCE (Stimulering Coöperatieve Energieopwekking) is de opvolger van de Postcoderoosregeling. Je investeert in zonnepanelen van een coöperatie binnen 2 postcode-afstand. De geproduceerde stroom wordt verrekend met je energierekening. Voordeel: geen toestemming verhuurder nodig. Nadeel: je hebt geen directe controle over de installatie.'
+- q: Kan mijn verhuurder de huur verhogen als hij zonnepanelen plaatst?
+  a: 'Ja. Als een verhuurder zonnepanelen plaatst als verduurzaming, kan hij een huurverhoging doorvoeren. Bij sociale huur geldt een maximale huurverhoging van €10/mnd per energielabel-stap verbetering. Bij vrije sector: contractueel vastgelegd. De energierekening-besparing moet groter zijn dan de huurverhoging om voordelig te zijn.'
 products:
-  - name: "Zonneplan zonnepanelen"
-    url: "https://go.duurzaamthuislab.nl/zonneplan"
-    price: "0"
-  - name: "Balkonzonnepanelen (plug-in)"
-    url: "https://www.praxis.nl/elektrisch-rijden-smart-home/zonne-energie/balkon-zonnepanelen"
-    price: "299"
+- name: Zonneplan zonnepanelen
+  url: https://go.duurzaamthuislab.nl/zonneplan
+  price: '0'
+- name: Balkonzonnepanelen (plug-in)
+  url: https://www.praxis.nl/elektrisch-rijden-smart-home/zonne-energie/balkon-zonnepanelen
+  price: '299'
+schema_type: Article
 ---
 
 Ik huur al vijf jaar een appartement op de tweede verdieping. Toen ik drie jaar geleden vroeg of ik zonnepanelen mocht plaatsen, zei mijn verhuurder "laat maar horen wat je wil." Twee maanden later lagen er vier panelen op het dak — met een schriftelijke overeenkomst dat ze bij vertrek zijn of mijn eigendom zijn, of ik ze mag overdragen aan de volgende huurder.
@@ -221,3 +233,11 @@ Huren is geen reden om niet te verduurzamen. Het vraagt alleen een andere aanpak
 
 
 <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
+
+## Gerelateerde artikelen
+
+- [Thuisbatterij Zonder Zonnepanelen: Heeft Het Zin in 2027?](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/)
+- [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+- [Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken](/posts/beste-omvormer-zonnepanelen-2026/)
+- [Beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/)
+- [Beste Zonnepanelen 2026: Top 5 Merken Vergeleken](/posts/beste-zonnepanelen-2026/)

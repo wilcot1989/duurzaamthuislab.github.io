@@ -1,35 +1,46 @@
 ---
-title: "Ventilatie met Warmteterugwinning (WTW) 2026"
-date: 2026-06-12T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Alles over ventilatie met warmteterugwinning (WTW) in 2026. Kosten €3.000-€6.000, werking, besparing op energierekening en de beste WTW units vergeleken."
-categories: ["isolatie"]
-tags: ["ventilatie", "WTW", "warmteterugwinning", "binnenluchtkwaliteit", "energiebesparing"]
-keywords: ["ventilatie warmteterugwinning", "WTW unit kosten", "balansventilatie", "mechanische ventilatie"]
+title: Ventilatie met Warmteterugwinning (WTW) 2026
+date: 2026-06-12 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Alles over ventilatie met warmteterugwinning (WTW) in 2026. Kosten €3.000-€6.000, werking, besparing op energierekening en de beste WTW units vergeleken.
+categories:
+- isolatie
+tags:
+- ventilatie
+- WTW
+- warmteterugwinning
+- binnenluchtkwaliteit
+- energiebesparing
+keywords:
+- ventilatie warmteterugwinning
+- WTW unit kosten
+- balansventilatie
+- mechanische ventilatie
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is ventilatie met warmteterugwinning (WTW)?"
-    a: "Een WTW-systeem (balansventilatie) haalt warme, vochtige lucht uit je woning en blaast schone buitenlucht naar binnen. Het bijzondere: een warmtewisselaar haalt 80-95% van de warmte uit de afgevoerde lucht en geeft die af aan de verse lucht. Zo ventileer je zonder warmteverlies."
-  - q: "Hoeveel kost een WTW-systeem?"
-    a: "Een compleet WTW-systeem kost €3.000-€6.000 inclusief installatie voor een tussenwoning. De WTW-unit zelf kost €1.500-€3.000 en de installatie (kanalen, roosters, elektra) €1.500-€3.000. Bij nieuwbouw of grote renovatie is het goedkoper (€2.000-€4.000) omdat kanalen in de constructie worden opgenomen."
-  - q: "Hoeveel bespaar je met een WTW-systeem?"
-    a: "Een WTW-systeem bespaart 15-25% op je verwarmingskosten doordat de warmte uit de afgevoerde lucht wordt teruggewonnen. Bij een gemiddeld gasverbruik van 1.200 m³/jaar is dat €250-€500 per jaar. De terugverdientijd is 8-15 jaar, maar je wint ook fors aan comfort en luchtkwaliteit."
-  - q: "Is een WTW-systeem luid?"
-    a: "Moderne WTW-units produceren 25-35 dB(A), vergelijkbaar met gefluister. De unit wordt meestal op zolder geplaatst. Bij goede installatie (geluidsisolatie, juiste kanaaldiameter) hoor je het systeem nauwelijks. Let bij aanschaf op het geluidsniveau in de specificaties — onder 30 dB(A) is ideaal."
-  - q: "Moet ik een WTW-systeem onderhouden?"
-    a: "Ja, minimaal onderhoud: filters vervangen elke 3-6 maanden (€20-€40 per set), warmtewisselaar jaarlijks reinigen (zelf te doen), en elke 2-3 jaar een professionele controle (€100-€150). Totale onderhoudskosten: €80-€150 per jaar. Verwaarlozing leidt tot slecht werkend systeem en hogere energiekosten."
-  - q: "Kan ik een WTW-systeem combineren met een warmtepomp?"
-    a: "Ja, en dat is een uitstekende combinatie. De WTW voorkomt warmteverlies door ventilatie, waardoor de warmtepomp minder hoeft te werken. Sommige WTW-units hebben een ingebouwde warmtepomp die de afgevoerde lucht extra benut. De combinatie bespaart 25-40% op verwarmingskosten."
+- q: Wat is ventilatie met warmteterugwinning (WTW)?
+  a: 'Een WTW-systeem (balansventilatie) haalt warme, vochtige lucht uit je woning en blaast schone buitenlucht naar binnen. Het bijzondere: een warmtewisselaar haalt 80-95% van de warmte uit de afgevoerde lucht en geeft die af aan de verse lucht. Zo ventileer je zonder warmteverlies.'
+- q: Hoeveel kost een WTW-systeem?
+  a: Een compleet WTW-systeem kost €3.000-€6.000 inclusief installatie voor een tussenwoning. De WTW-unit zelf kost €1.500-€3.000 en de installatie (kanalen, roosters, elektra) €1.500-€3.000. Bij nieuwbouw of grote renovatie is het goedkoper (€2.000-€4.000) omdat kanalen in de constructie worden opgenomen.
+- q: Hoeveel bespaar je met een WTW-systeem?
+  a: Een WTW-systeem bespaart 15-25% op je verwarmingskosten doordat de warmte uit de afgevoerde lucht wordt teruggewonnen. Bij een gemiddeld gasverbruik van 1.200 m³/jaar is dat €250-€500 per jaar. De terugverdientijd is 8-15 jaar, maar je wint ook fors aan comfort en luchtkwaliteit.
+- q: Is een WTW-systeem luid?
+  a: Moderne WTW-units produceren 25-35 dB(A), vergelijkbaar met gefluister. De unit wordt meestal op zolder geplaatst. Bij goede installatie (geluidsisolatie, juiste kanaaldiameter) hoor je het systeem nauwelijks. Let bij aanschaf op het geluidsniveau in de specificaties — onder 30 dB(A) is ideaal.
+- q: Moet ik een WTW-systeem onderhouden?
+  a: 'Ja, minimaal onderhoud: filters vervangen elke 3-6 maanden (€20-€40 per set), warmtewisselaar jaarlijks reinigen (zelf te doen), en elke 2-3 jaar een professionele controle (€100-€150). Totale onderhoudskosten: €80-€150 per jaar. Verwaarlozing leidt tot slecht werkend systeem en hogere energiekosten.'
+- q: Kan ik een WTW-systeem combineren met een warmtepomp?
+  a: Ja, en dat is een uitstekende combinatie. De WTW voorkomt warmteverlies door ventilatie, waardoor de warmtepomp minder hoeft te werken. Sommige WTW-units hebben een ingebouwde warmtepomp die de afgevoerde lucht extra benut. De combinatie bespaart 25-40% op verwarmingskosten.
 products:
-  - name: "Zehnder ComfoAir Q"
-    url: "https://www.zehnder.nl/producten-en-systemen/comfortabele-ventilatie/comfoair-q"
-    price: "3500"
-  - name: "Brink Renovent Excellent"
-    url: "https://www.brinkclimatesystems.nl/producten/ventilatie/renovent-excellent"
-    price: "3000"
+- name: Zehnder ComfoAir Q
+  url: https://www.zehnder.nl/producten-en-systemen/comfortabele-ventilatie/comfoair-q
+  price: '3500'
+- name: Brink Renovent Excellent
+  url: https://www.brinkclimatesystems.nl/producten/ventilatie/renovent-excellent
+  price: '3000'
+schema_type: Article
 ---
 
 Na het isoleren van mijn vloer en het plaatsen van mijn Vaillant warmtepomp merkte ik dat ik via de ventilatieroosters alsnog veel warmte verloor. Een WTW-systeem haalt 90% van die warmte terug uit de afgevoerde lucht. Ik heb het laten doorrekenen: bij mijn gasverbruik scheelt het €350 per jaar, en de luchtkwaliteit in huis is fors verbeterd. Hier deel ik alles wat je moet weten.

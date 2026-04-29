@@ -1,38 +1,49 @@
 ---
-title: "Laadpaal Thuis Plaatsen 2026: Kosten"
-date: 2026-06-02T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Alles over een laadpaal thuis plaatsen in 2026. Kosten €800-€2.500, subsidie tot €600, beste merken vergeleken en slim laden met dynamische tarieven."
-categories: ["energie"]
-tags: ["laadpaal", "elektrische auto", "thuisladen", "slim laden", "EV"]
-keywords: ["laadpaal thuis kosten", "laadpaal subsidie 2026", "beste laadpaal thuis", "thuisladen elektrische auto"]
+title: 'Laadpaal Thuis Plaatsen 2026: Kosten'
+date: 2026-06-02 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Alles over een laadpaal thuis plaatsen in 2026. Kosten €800-€2.500, subsidie tot €600, beste merken vergeleken en slim laden met dynamische tarieven.
+categories:
+- energie
+tags:
+- laadpaal
+- elektrische auto
+- thuisladen
+- slim laden
+- EV
+keywords:
+- laadpaal thuis kosten
+- laadpaal subsidie 2026
+- beste laadpaal thuis
+- thuisladen elektrische auto
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Hoeveel kost een laadpaal thuis?"
-    a: "Een thuislaadpaal kost €800-€2.500 inclusief installatie. De laadpaal zelf kost €500-€1.500 en de installatie €300-€1.000 (afhankelijk van afstand meterkast tot laadpunt en grondwerk). Met subsidie (tot €600) betaal je effectief €200-€1.900."
-  - q: "Welke subsidie is er voor een thuislaadpaal?"
-    a: "Via de SEEH-regeling kun je tot €600 subsidie krijgen voor een thuislaadpaal bij een eigen woning. Sommige gemeenten bieden aanvullende subsidie (€200-€500). Als je werkgever de laadpaal vergoedt, is dat tot €1.800 onbelast (werkkostenregeling). Subsidieregelingen kunnen per jaar veranderen."
-  - q: "Welke laadpaal is het beste voor thuis?"
-    a: "De Easee Home is de beste alleskunner: compact, slim laden, dynamische tarieven en zonnepaneel-integratie. De Alfen Eve Single S-Line is de beste Nederlandse keuze met uitstekende kwaliteit. De Wallbox Pulsar Plus is het beste budget-alternatief. Alle drie laden met 11 kW (3-fase) of 7,4 kW (1-fase)."
-  - q: "Heb ik 3-fase stroom nodig voor een laadpaal?"
-    a: "Niet per se. Met 1-fase laad je op 7,4 kW (ca. 40 km range per uur). Met 3-fase laad je op 11 kW (ca. 60 km range per uur). Voor de meeste thuisgebruikers is 1-fase voldoende (je laadt 's nachts). 3-fase is fijn als je snel moet laden of een hoog dagelijks verbruik hebt."
-  - q: "Kan ik mijn laadpaal koppelen aan zonnepanelen?"
-    a: "Ja, met een slimme laadpaal en energiemanager kun je je auto laden met zonneoverschot. Laadpalen als Easee, Alfen en Wallbox ondersteunen dit. Je bespaart €0,10-€0,25/kWh door eigen stroom te gebruiken in plaats van terugleveren. Met Home Assistant of de Tibber-app automatiseer je dit volledig."
-  - q: "Hoeveel stroom verbruikt een elektrische auto per jaar?"
-    a: "Bij 15.000 km/jaar en 18 kWh/100 km verbruikt een elektrische auto ca. 2.700 kWh per jaar. Kosten thuis laden: €675-€950/jaar (€0,25-€0,35/kWh). Met slim laden op dynamische tarieven of eigen zonnestroom: €350-€600/jaar. Ter vergelijking: een benzineauto kost €1.800-€2.500/jaar aan brandstof."
+- q: Hoeveel kost een laadpaal thuis?
+  a: Een thuislaadpaal kost €800-€2.500 inclusief installatie. De laadpaal zelf kost €500-€1.500 en de installatie €300-€1.000 (afhankelijk van afstand meterkast tot laadpunt en grondwerk). Met subsidie (tot €600) betaal je effectief €200-€1.900.
+- q: Welke subsidie is er voor een thuislaadpaal?
+  a: Via de SEEH-regeling kun je tot €600 subsidie krijgen voor een thuislaadpaal bij een eigen woning. Sommige gemeenten bieden aanvullende subsidie (€200-€500). Als je werkgever de laadpaal vergoedt, is dat tot €1.800 onbelast (werkkostenregeling). Subsidieregelingen kunnen per jaar veranderen.
+- q: Welke laadpaal is het beste voor thuis?
+  a: 'De Easee Home is de beste alleskunner: compact, slim laden, dynamische tarieven en zonnepaneel-integratie. De Alfen Eve Single S-Line is de beste Nederlandse keuze met uitstekende kwaliteit. De Wallbox Pulsar Plus is het beste budget-alternatief. Alle drie laden met 11 kW (3-fase) of 7,4 kW (1-fase).'
+- q: Heb ik 3-fase stroom nodig voor een laadpaal?
+  a: Niet per se. Met 1-fase laad je op 7,4 kW (ca. 40 km range per uur). Met 3-fase laad je op 11 kW (ca. 60 km range per uur). Voor de meeste thuisgebruikers is 1-fase voldoende (je laadt 's nachts). 3-fase is fijn als je snel moet laden of een hoog dagelijks verbruik hebt.
+- q: Kan ik mijn laadpaal koppelen aan zonnepanelen?
+  a: Ja, met een slimme laadpaal en energiemanager kun je je auto laden met zonneoverschot. Laadpalen als Easee, Alfen en Wallbox ondersteunen dit. Je bespaart €0,10-€0,25/kWh door eigen stroom te gebruiken in plaats van terugleveren. Met Home Assistant of de Tibber-app automatiseer je dit volledig.
+- q: Hoeveel stroom verbruikt een elektrische auto per jaar?
+  a: 'Bij 15.000 km/jaar en 18 kWh/100 km verbruikt een elektrische auto ca. 2.700 kWh per jaar. Kosten thuis laden: €675-€950/jaar (€0,25-€0,35/kWh). Met slim laden op dynamische tarieven of eigen zonnestroom: €350-€600/jaar. Ter vergelijking: een benzineauto kost €1.800-€2.500/jaar aan brandstof.'
 products:
-  - name: "Alfen Eve Single Pro-Line"
-    url: "https://alfen.com/nl/ev-laadoplossingen/eve-single-pro-line"
-    price: "1200"
-  - name: "Wallbox Pulsar Plus"
-    url: "https://wallbox.com/nl_nl/pulsar-plus"
-    price: "900"
-  - name: "EVBox Elvi"
-    url: "https://evbox.com/nl-nl/elvi"
-    price: "1100"
+- name: Alfen Eve Single Pro-Line
+  url: https://alfen.com/nl/ev-laadoplossingen/eve-single-pro-line
+  price: '1200'
+- name: Wallbox Pulsar Plus
+  url: https://wallbox.com/nl_nl/pulsar-plus
+  price: '900'
+- name: EVBox Elvi
+  url: https://evbox.com/nl-nl/elvi
+  price: '1100'
+schema_type: Article
 ---
 
 Zodra ik een elektrische auto koop — en dat wordt dit jaar — wil ik die laden met de overschotstroom van mijn 16 zonnepanelen. Ik heb uitgerekend dat thuisladen op eigen zonnestroom me €0,05/kWh kost, tegenover €0,75 bij een snellader. Reden genoeg om de laadpaalmarkt grondig te onderzoeken. In dit artikel deel ik alles: kosten, subsidie, de beste merken en hoe je slim laadt op dynamische tarieven.

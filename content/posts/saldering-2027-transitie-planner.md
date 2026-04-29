@@ -1,54 +1,72 @@
 ---
-title: "Saldering 2027 transitie-planner: 5 stappen om"
-date: 2026-04-29T09:00:00+02:00
-lastmod: 2026-04-29T09:00:00+02:00
-description: "Per 1 januari 2027 stopt saldering. Ik reken door hoe jij €500 tot €2.000 per jaar kunt veiligstellen met dynamisch contract, thuisbatterij of warmtepomp."
-categories: ["zonne-energie", "energie", "besparen"]
-tags: ["saldering 2027", "saldering stopt", "thuisbatterij", "dynamisch contract", "warmtepomp", "ISDE 2026", "zonnepanelen na 2027"]
-keywords: ["saldering 2027 transitie", "saldering stopt wat nu", "saldering afbouw 2027 aanpak", "thuisbatterij saldering 2027", "dynamisch contract saldering", "ISDE subsidie 2026", "eigen verbruik verhogen zonnepanelen"]
+title: 'Saldering 2027 transitie-planner: 5 stappen om'
+date: 2026-04-29 09:00:00+02:00
+lastmod: 2026-04-29 09:00:00+02:00
+description: Per 1 januari 2027 stopt saldering. Ik reken door hoe jij €500 tot €2.000 per jaar kunt veiligstellen met dynamisch contract, thuisbatterij of warmtepomp.
+categories:
+- zonne-energie
+- energie
+- besparen
+tags:
+- saldering 2027
+- saldering stopt
+- thuisbatterij
+- dynamisch contract
+- warmtepomp
+- ISDE 2026
+- zonnepanelen na 2027
+keywords:
+- saldering 2027 transitie
+- saldering stopt wat nu
+- saldering afbouw 2027 aanpak
+- thuisbatterij saldering 2027
+- dynamisch contract saldering
+- ISDE subsidie 2026
+- eigen verbruik verhogen zonnepanelen
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Wanneer stopt de saldering precies en geldt er een uitzondering voor bestaande systemen?"
-    a: "De salderingsregeling stopt per 1 januari 2027 voor iedereen tegelijk. Er is geen uitzondering voor mensen die al jaren saldeerden — het kabinet heeft dit expliciet bevestigd. Na die datum krijg je uitsluitend de terugleververgoeding van je energieleverancier, die in 2026 gemiddeld tussen 7 en 9 cent per kWh ligt."
-  - q: "Hoeveel geld ben ik kwijt als ik niets doe?"
-    a: "Voor een gemiddeld huishouden met 3,5 kWp zonnepanelen en 2.400 kWh teruglevering per jaar loopt de teruggang op tot €480-€576 per jaar. Voor een groter systeem van 6 kWp met 4.000 kWh teruglevering kan dat €800-€960 per jaar zijn — afhankelijk van de terugleververgoeding die jouw leverancier biedt."
-  - q: "Wat levert een dynamisch contract mij op na 2027?"
-    a: "Met een dynamisch contract kun je teruggeleverde stroom op het beste moment 'verhandelen'. Zomerse piekuren leveren soms 15-25 cent per kWh op versus de vaste terugleververgoeding van 7-9 cent. Gemiddeld genomen bespaar je daarmee €150-€300 per jaar extra ten opzichte van een vast contract, maar dat varieert sterk per jaar en seizoen."
-  - q: "Is een thuisbatterij nu al rendabel?"
-    a: "Voor huishoudens met meer dan 2.500 kWh teruglevering per jaar en een groot avondverbruik begint een thuisbatterij rendabel te worden — met name als je ook een EV opladt. De terugverdientijd ligt in 2026 op 9-13 jaar voor een instapmodel als de Sessy of Marstek Venus. Met ISDE-subsidie van ca. €900/kWh gaat dat richting 7-11 jaar."
-  - q: "Moet ik nu al iets regelen of kan ik wachten?"
-    a: "Idealiter regel je een dynamisch contract nu al — dat kost je niets en levert per direct voordeel op. Een thuisbatterij of warmtepomp hoef je niet morgen te kopen, maar de ISDE-subsidie 2026 heeft een budget dat op kan raken. Vóór eind 2026 aanvragen is verstandig als je serieus overweegt te investeren."
-  - q: "Werkt V2H (vehicle-to-home) al in Nederland?"
-    a: "V2H is in 2026 nog beperkt beschikbaar in Nederland. De Volvo EX30, EX40, EC40 en de Hyundai Ioniq 5/6 en Kia EV6 ondersteunen V2H met de juiste wallbox (bijv. Wallbox Quasar 2). De technologie werkt, maar vereist een extra investering van €2.000-€4.000 voor de bidirectionele laadpaal en niet alle netbeheerders staan het toe."
-  - q: "Wat is het verschil tussen V2H en V2G?"
-    a: "V2H (vehicle-to-home) stuurt energie van je EV terug naar je eigen woning. V2G (vehicle-to-grid) stuurt energie terug naar het elektriciteitsnet — daarvoor heb je een speciale concessie nodig van je netbeheerder en dat is in 2026 in Nederland voor particulieren nog niet breed uitgerold. V2H is nu al praktisch inzetbaar."
-  - q: "Welke warmtepomp combineert het beste met zonnepanelen na 2027?"
-    a: "Een hybride warmtepomp is voor de meeste woningen het meest praktisch — hij schakelt automatisch over op gas als de elektriciteitskosten te hoog zijn. Modellen van Daikin (Altherma 3 H HT), ATAG (One Smart) en Quatt werken goed met slim laden. Volledig elektrische lucht-water warmtepompen zijn efficiënter maar vereisen een goed geïsoleerde woning."
-  - q: "Hoeveel ISDE-subsidie kan ik verwachten in 2026?"
-    a: "In 2026 bedraagt de ISDE voor warmtepompen €1.500-€3.500 afhankelijk van het type en vermogen. Voor thuisbatterijen is dat ca. €900 per kWh opslagcapaciteit, met een maximum van €5.400. Het totale ISDE-budget is eindig — historisch raakt dat tussen augustus en november op."
-  - q: "Heeft een slimme warmwaterboiler echt nut?"
-    a: "Ja, zeker als je overdag veel teruglevering hebt. Een slimme warmwaterboiler (bijv. van Atlantic of Cliché) laadt zichzelf op tijdens piekopwekking en gebruikt daarmee goedkope of 'gratis' zonnestroom. Dat is 2-3 kWh per dag die je niet meer terugleverd voor 8 cent maar zelf gebruikt ter waarde van 30 cent — een besparing van €130-€200 per jaar."
-  - q: "Is het nog zinvol om extra zonnepanelen bij te plaatsen na 2026?"
-    a: "Dat hangt sterk af van je situatie. Extra panelen vergroten de teruglevering, maar als je die stroom toch al niet kwijt kunt voor een goede prijs, voeg je verliespost toe. De vuistregel: extra panelen zijn zinvol als je tegelijk investeert in extra eigen verbruik — via batterij, EV of warmtepomp. Zonder die combinatie is bijplaatsen na 2026 minder interessant dan vóór 2026."
+- q: Wanneer stopt de saldering precies en geldt er een uitzondering voor bestaande systemen?
+  a: De salderingsregeling stopt per 1 januari 2027 voor iedereen tegelijk. Er is geen uitzondering voor mensen die al jaren saldeerden — het kabinet heeft dit expliciet bevestigd. Na die datum krijg je uitsluitend de terugleververgoeding van je energieleverancier, die in 2026 gemiddeld tussen 7 en 9 cent per kWh ligt.
+- q: Hoeveel geld ben ik kwijt als ik niets doe?
+  a: Voor een gemiddeld huishouden met 3,5 kWp zonnepanelen en 2.400 kWh teruglevering per jaar loopt de teruggang op tot €480-€576 per jaar. Voor een groter systeem van 6 kWp met 4.000 kWh teruglevering kan dat €800-€960 per jaar zijn — afhankelijk van de terugleververgoeding die jouw leverancier biedt.
+- q: Wat levert een dynamisch contract mij op na 2027?
+  a: Met een dynamisch contract kun je teruggeleverde stroom op het beste moment 'verhandelen'. Zomerse piekuren leveren soms 15-25 cent per kWh op versus de vaste terugleververgoeding van 7-9 cent. Gemiddeld genomen bespaar je daarmee €150-€300 per jaar extra ten opzichte van een vast contract, maar dat varieert sterk per jaar en seizoen.
+- q: Is een thuisbatterij nu al rendabel?
+  a: Voor huishoudens met meer dan 2.500 kWh teruglevering per jaar en een groot avondverbruik begint een thuisbatterij rendabel te worden — met name als je ook een EV opladt. De terugverdientijd ligt in 2026 op 9-13 jaar voor een instapmodel als de Sessy of Marstek Venus. Met ISDE-subsidie van ca. €900/kWh gaat dat richting 7-11 jaar.
+- q: Moet ik nu al iets regelen of kan ik wachten?
+  a: Idealiter regel je een dynamisch contract nu al — dat kost je niets en levert per direct voordeel op. Een thuisbatterij of warmtepomp hoef je niet morgen te kopen, maar de ISDE-subsidie 2026 heeft een budget dat op kan raken. Vóór eind 2026 aanvragen is verstandig als je serieus overweegt te investeren.
+- q: Werkt V2H (vehicle-to-home) al in Nederland?
+  a: V2H is in 2026 nog beperkt beschikbaar in Nederland. De Volvo EX30, EX40, EC40 en de Hyundai Ioniq 5/6 en Kia EV6 ondersteunen V2H met de juiste wallbox (bijv. Wallbox Quasar 2). De technologie werkt, maar vereist een extra investering van €2.000-€4.000 voor de bidirectionele laadpaal en niet alle netbeheerders staan het toe.
+- q: Wat is het verschil tussen V2H en V2G?
+  a: V2H (vehicle-to-home) stuurt energie van je EV terug naar je eigen woning. V2G (vehicle-to-grid) stuurt energie terug naar het elektriciteitsnet — daarvoor heb je een speciale concessie nodig van je netbeheerder en dat is in 2026 in Nederland voor particulieren nog niet breed uitgerold. V2H is nu al praktisch inzetbaar.
+- q: Welke warmtepomp combineert het beste met zonnepanelen na 2027?
+  a: Een hybride warmtepomp is voor de meeste woningen het meest praktisch — hij schakelt automatisch over op gas als de elektriciteitskosten te hoog zijn. Modellen van Daikin (Altherma 3 H HT), ATAG (One Smart) en Quatt werken goed met slim laden. Volledig elektrische lucht-water warmtepompen zijn efficiënter maar vereisen een goed geïsoleerde woning.
+- q: Hoeveel ISDE-subsidie kan ik verwachten in 2026?
+  a: In 2026 bedraagt de ISDE voor warmtepompen €1.500-€3.500 afhankelijk van het type en vermogen. Voor thuisbatterijen is dat ca. €900 per kWh opslagcapaciteit, met een maximum van €5.400. Het totale ISDE-budget is eindig — historisch raakt dat tussen augustus en november op.
+- q: Heeft een slimme warmwaterboiler echt nut?
+  a: Ja, zeker als je overdag veel teruglevering hebt. Een slimme warmwaterboiler (bijv. van Atlantic of Cliché) laadt zichzelf op tijdens piekopwekking en gebruikt daarmee goedkope of 'gratis' zonnestroom. Dat is 2-3 kWh per dag die je niet meer terugleverd voor 8 cent maar zelf gebruikt ter waarde van 30 cent — een besparing van €130-€200 per jaar.
+- q: Is het nog zinvol om extra zonnepanelen bij te plaatsen na 2026?
+  a: 'Dat hangt sterk af van je situatie. Extra panelen vergroten de teruglevering, maar als je die stroom toch al niet kwijt kunt voor een goede prijs, voeg je verliespost toe. De vuistregel: extra panelen zijn zinvol als je tegelijk investeert in extra eigen verbruik — via batterij, EV of warmtepomp. Zonder die combinatie is bijplaatsen na 2026 minder interessant dan vóór 2026.'
 products:
-  - name: "Sessy 5 kWh thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3795"
-  - name: "Marstek Venus thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/marstek"
-    price: "3200"
-  - name: "Tibber dynamisch contract"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "6"
-  - name: "Frank Energie dynamisch"
-    url: "https://go.duurzaamthuislab.nl/frank-energie"
-    price: "0"
-  - name: "Zonneplan thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/zonneplan"
-    price: "0"
+- name: Sessy 5 kWh thuisbatterij
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '3795'
+- name: Marstek Venus thuisbatterij
+  url: https://go.duurzaamthuislab.nl/marstek
+  price: '3200'
+- name: Tibber dynamisch contract
+  url: https://go.duurzaamthuislab.nl/tibber
+  price: '6'
+- name: Frank Energie dynamisch
+  url: https://go.duurzaamthuislab.nl/frank-energie
+  price: '0'
+- name: Zonneplan thuisbatterij
+  url: https://go.duurzaamthuislab.nl/zonneplan
+  price: '0'
+schema_type: Article
 ---
 
 Per 1 januari 2027 stopt de saldering. Ik hoef je dat waarschijnlijk niet meer te vertellen — maar wat er daarna gebeurt met jouw jaarlijkse zonnepanelenvoordeel, dat is een ander verhaal. Ik zie in mijn adviespraktijk elke week mensen die wachten en hopen dat het meevalt. Het valt niet mee. Maar er is genoeg te doen — als je weet welke stap bij jouw situatie past.

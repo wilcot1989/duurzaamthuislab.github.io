@@ -1,36 +1,55 @@
 ---
-title: "Vloerverwarming aanleggen in bestaande woning"
-date: 2026-05-24T08:00:00+02:00
-lastmod: 2026-05-24T08:00:00+02:00
-description: "Vloerverwarming in een bestaande woning: wat zijn de kosten in 2026? Ik vergelijk frees-, dry- en natsystemen en hoe je het combineert met een warmtepomp."
-categories: ["warmtepompen"]
-tags: ["vloerverwarming", "vloerverwarming kosten", "freessysteem", "dry floor system", "natsysteem", "warmtepomp combinatie", "bestaande woning verduurzamen", "ATAG warmtepomp", "lage temperatuur verwarming"]
-keywords: ["vloerverwarming aanleggen bestaande woning", "vloerverwarming kosten 2026", "vloerverwarming methodes vergelijking", "freessysteem vloerverwarming", "dry system vloerverwarming", "natsysteem vloerverwarming", "vloerverwarming warmtepomp combinatie", "vloerverwarming prijs per m2"]
+title: Vloerverwarming aanleggen in bestaande woning
+date: 2026-05-24 08:00:00+02:00
+lastmod: 2026-05-24 08:00:00+02:00
+description: 'Vloerverwarming in een bestaande woning: wat zijn de kosten in 2026? Ik vergelijk frees-, dry- en natsystemen en hoe je het combineert met een warmtepomp.'
+categories:
+- warmtepompen
+tags:
+- vloerverwarming
+- vloerverwarming kosten
+- freessysteem
+- dry floor system
+- natsysteem
+- warmtepomp combinatie
+- bestaande woning verduurzamen
+- ATAG warmtepomp
+- lage temperatuur verwarming
+keywords:
+- vloerverwarming aanleggen bestaande woning
+- vloerverwarming kosten 2026
+- vloerverwarming methodes vergelijking
+- freessysteem vloerverwarming
+- dry system vloerverwarming
+- natsysteem vloerverwarming
+- vloerverwarming warmtepomp combinatie
+- vloerverwarming prijs per m2
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kost vloerverwarming aanleggen per m² in 2026?"
-    a: "Dat hangt sterk af van de methode. Een freessysteem kost inclusief installatie €70–€110 per m². Een dry-systeem (droogbouw) kost €65–€100 per m². Een natsysteem (betonvloer) kost €50–€80 per m² maar vereist extra opbouwhoogte. Bijkomende kosten zoals een verdeler, pompengroep, thermostaten en de aansluiting op de ketel of warmtepomp komen daar nog bovenop: gemiddeld €1.200–€2.500 voor een woning van 80 m²."
-  - q: "Kan ik vloerverwarming combineren met mijn bestaande cv-ketel?"
-    a: "Ja, dat kan. Een cv-ketel kan vloerverwarming aansturen via een mengventiel dat de aanvoertemperatuur verlaagt van de gebruikelijke 70–80°C naar de gewenste 35–45°C voor vloerverwarming. Wel is vloerverwarming op hoge aanvoertemperatuur minder efficiënt. De echte meerwaarde ontstaat in combinatie met een warmtepomp, die van nature lage aanvoertemperaturen levert."
-  - q: "Hoeveel bouwhoogte verlies ik met vloerverwarming?"
-    a: "Dat hangt af van de methode. Een freessysteem verliest 0–5 mm (leidingen liggen in de vloer gefreesd). Een dry-systeem verliest 18–35 mm afhankelijk van de systeemplaat. Een natsysteem verliest 60–90 mm voor de complete opbouw. In bestaande woningen is de freesmethode of dry-systeem het meest populair vanwege de geringe opbouwhoogte."
-  - q: "Is vloerverwarming geschikt voor alle vloertypes?"
-    a: "Nee, niet alle vloermaterialen zijn geschikt. Massief parket werkt slecht — het krimpt en scheurt bij temperatuurwisselingen. Engineered hout (minimaal 3 mm toplaag), tegels, laminaat met vloerverwarmingskeurmerk en vinyl/PVC zijn geschikt. Controleer altijd het vloerverwarmingskeurmerk (weerstandswaarde Rλ ≤ 0,15 m²K/W) van het gewenste materiaal."
-  - q: "Hoe lang duurt de installatie van vloerverwarming in een bestaande woning?"
-    a: "Een freessysteem in één verdieping (±80 m²) duurt 3–5 werkdagen. Een dry-systeem is iets sneller. Een natsysteem kost meer tijd door de drogingstijd van het beton: minimaal 28 dagen voordat je de vloer kunt belasten en geleidelijk kunt opwarmen. Plan dus bij een natsysteem minimaal 5–6 weken voor de volledige installatie tot ingebruikname."
-  - q: "Wat is het verschil tussen een freessysteem en een dry-systeem?"
-    a: "Bij een freessysteem worden sleuven gefreesd in de bestaande betonvloer, waarna de leidingen erin worden gelegd en afgedekt met een egalisatielaag. Voordeel: nauwelijks opbouwhoogte verlies. Nadeel: stofoverlast tijdens frezen en de vloer moet van beton zijn. Bij een dry-systeem worden systeemplaten (van geëxtrudeerd polystyreen of gips) op de bestaande vloer gelegd met voorgemaakte kanalen voor de leidingen. Voordeel: werkt op alle vloertypes, minder stof. Nadeel: enige opbouwhoogte (18–35 mm)."
-  - q: "Waarom is vloerverwarming zo geschikt voor een warmtepomp?"
-    a: "Een warmtepomp werkt het efficiëntst bij lage aanvoertemperaturen (30–45°C). Radiatoren hebben doorgaans 60–75°C nodig; vloerverwarming slechts 35–45°C. Bij 35°C aanvoertemperatuur haalt een moderne lucht-water warmtepomp een SCOP van 4,0–5,0, tegenover 2,5–3,0 bij 55°C aanvoertemperatuur. Dat betekent letterlijk: met vloerverwarming haalt je warmtepomp het dubbele rendement."
-  - q: "Kan ik vloerverwarming in een bestaande woning doen zonder verbouwing?"
-    a: "Volledig verbouwingsvrij is lastig, maar met een dry-systeem is de impact minimaal: geen zaagwerk in de vloer, geen opbrekende beton. Je legt de systeemplaten op de bestaande vloer, sluit de leidingen aan op een kleine verdeler en verbindt die met de ketel of warmtepomp. De deuren moeten mogelijk iets worden ingekort vanwege de extra opbouwhoogte."
+- q: Wat kost vloerverwarming aanleggen per m² in 2026?
+  a: 'Dat hangt sterk af van de methode. Een freessysteem kost inclusief installatie €70–€110 per m². Een dry-systeem (droogbouw) kost €65–€100 per m². Een natsysteem (betonvloer) kost €50–€80 per m² maar vereist extra opbouwhoogte. Bijkomende kosten zoals een verdeler, pompengroep, thermostaten en de aansluiting op de ketel of warmtepomp komen daar nog bovenop: gemiddeld €1.200–€2.500 voor een woning van 80 m².'
+- q: Kan ik vloerverwarming combineren met mijn bestaande cv-ketel?
+  a: Ja, dat kan. Een cv-ketel kan vloerverwarming aansturen via een mengventiel dat de aanvoertemperatuur verlaagt van de gebruikelijke 70–80°C naar de gewenste 35–45°C voor vloerverwarming. Wel is vloerverwarming op hoge aanvoertemperatuur minder efficiënt. De echte meerwaarde ontstaat in combinatie met een warmtepomp, die van nature lage aanvoertemperaturen levert.
+- q: Hoeveel bouwhoogte verlies ik met vloerverwarming?
+  a: Dat hangt af van de methode. Een freessysteem verliest 0–5 mm (leidingen liggen in de vloer gefreesd). Een dry-systeem verliest 18–35 mm afhankelijk van de systeemplaat. Een natsysteem verliest 60–90 mm voor de complete opbouw. In bestaande woningen is de freesmethode of dry-systeem het meest populair vanwege de geringe opbouwhoogte.
+- q: Is vloerverwarming geschikt voor alle vloertypes?
+  a: Nee, niet alle vloermaterialen zijn geschikt. Massief parket werkt slecht — het krimpt en scheurt bij temperatuurwisselingen. Engineered hout (minimaal 3 mm toplaag), tegels, laminaat met vloerverwarmingskeurmerk en vinyl/PVC zijn geschikt. Controleer altijd het vloerverwarmingskeurmerk (weerstandswaarde Rλ ≤ 0,15 m²K/W) van het gewenste materiaal.
+- q: Hoe lang duurt de installatie van vloerverwarming in een bestaande woning?
+  a: 'Een freessysteem in één verdieping (±80 m²) duurt 3–5 werkdagen. Een dry-systeem is iets sneller. Een natsysteem kost meer tijd door de drogingstijd van het beton: minimaal 28 dagen voordat je de vloer kunt belasten en geleidelijk kunt opwarmen. Plan dus bij een natsysteem minimaal 5–6 weken voor de volledige installatie tot ingebruikname.'
+- q: Wat is het verschil tussen een freessysteem en een dry-systeem?
+  a: 'Bij een freessysteem worden sleuven gefreesd in de bestaande betonvloer, waarna de leidingen erin worden gelegd en afgedekt met een egalisatielaag. Voordeel: nauwelijks opbouwhoogte verlies. Nadeel: stofoverlast tijdens frezen en de vloer moet van beton zijn. Bij een dry-systeem worden systeemplaten (van geëxtrudeerd polystyreen of gips) op de bestaande vloer gelegd met voorgemaakte kanalen voor de leidingen. Voordeel: werkt op alle vloertypes, minder stof. Nadeel: enige opbouwhoogte (18–35 mm).'
+- q: Waarom is vloerverwarming zo geschikt voor een warmtepomp?
+  a: 'Een warmtepomp werkt het efficiëntst bij lage aanvoertemperaturen (30–45°C). Radiatoren hebben doorgaans 60–75°C nodig; vloerverwarming slechts 35–45°C. Bij 35°C aanvoertemperatuur haalt een moderne lucht-water warmtepomp een SCOP van 4,0–5,0, tegenover 2,5–3,0 bij 55°C aanvoertemperatuur. Dat betekent letterlijk: met vloerverwarming haalt je warmtepomp het dubbele rendement.'
+- q: Kan ik vloerverwarming in een bestaande woning doen zonder verbouwing?
+  a: 'Volledig verbouwingsvrij is lastig, maar met een dry-systeem is de impact minimaal: geen zaagwerk in de vloer, geen opbrekende beton. Je legt de systeemplaten op de bestaande vloer, sluit de leidingen aan op een kleine verdeler en verbindt die met de ketel of warmtepomp. De deuren moeten mogelijk iets worden ingekort vanwege de extra opbouwhoogte.'
 products:
-  - name: "ATAG lucht-water warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "9500"
+- name: ATAG lucht-water warmtepomp
+  url: https://go.duurzaamthuislab.nl/atag
+  price: '9500'
+schema_type: Article
 ---
 
 Drie jaar geleden besloot ik de woonkamer van mijn jaren-zeventig rijtjeswoning te verduurzamen. De woning had een gasketel en ouderwetse radiatoren, en ik wilde overstappen naar een warmtepomp. Maar mijn installateur was eerlijk: "Een warmtepomp op radiatoren? Dat werkt, maar pas nadat je ze allemaal hebt vergroot of vervangen. Kost je €4.000 aan radiatoren alleen al. Vloerverwarming is een betere investering."

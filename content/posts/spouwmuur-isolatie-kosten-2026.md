@@ -1,42 +1,58 @@
 ---
-title: "Spouwmuur isolatie kosten 2026: wat betaal je per m²?"
-date: 2026-07-12T08:00:00+02:00
-lastmod: 2026-07-12T08:00:00+02:00
-description: "Spouwmuur isolatie kosten 2026: prijs per m², EPS vs glasvlokken vs PUR, 0% BTW, ISDE-subsidie en terugverdientijd. Rekenvoorbeeld voor doorzon-tussenwoning."
-categories: ["isolatie"]
-tags: ["spouwmuur isolatie kosten", "spouwmuurisolatie 2026", "EPS parels spouwmuur", "glaswol spouwmuur", "ISDE isolatie subsidie", "0% BTW isolatie"]
-keywords: ["spouwmuur isolatie kosten 2026", "spouwmuurisolatie prijs per m2", "EPS parels kosten", "glaswolvlokken spouwmuur", "PUR schuim spouwmuur", "ISDE subsidie spouwmuur", "terugverdientijd spouwmuurisolatie", "energielabel na spouwmuur isolatie"]
+title: 'Spouwmuur isolatie kosten 2026: wat betaal je per m²?'
+date: 2026-07-12 08:00:00+02:00
+lastmod: 2026-07-12 08:00:00+02:00
+description: 'Spouwmuur isolatie kosten 2026: prijs per m², EPS vs glasvlokken vs PUR, 0% BTW, ISDE-subsidie en terugverdientijd. Rekenvoorbeeld voor doorzon-tussenwoning.'
+categories:
+- isolatie
+tags:
+- spouwmuur isolatie kosten
+- spouwmuurisolatie 2026
+- EPS parels spouwmuur
+- glaswol spouwmuur
+- ISDE isolatie subsidie
+- 0% BTW isolatie
+keywords:
+- spouwmuur isolatie kosten 2026
+- spouwmuurisolatie prijs per m2
+- EPS parels kosten
+- glaswolvlokken spouwmuur
+- PUR schuim spouwmuur
+- ISDE subsidie spouwmuur
+- terugverdientijd spouwmuurisolatie
+- energielabel na spouwmuur isolatie
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kost spouwmuurisolatie gemiddeld in 2026?"
-    a: "Voor een doorzon-tussenwoning met circa 80 m² spouwmuur betaal je €1.600-€2.400, inclusief 0% BTW en inkl. ISDE-subsidie. Zonder subsidie: €2.000-€3.200. Prijs hangt af van materiaal (EPS-parels, glasvlokken of PUR) en bereikbaarheid van de spouwmuur."
-  - q: "Geldt 0% BTW voor spouwmuurisolatie?"
-    a: "Ja. Sinds 1 april 2023 geldt 0% BTW op isolatie van woningen, inclusief spouwmuurisolatie, dakisolatie en vloerisolatie. Je betaalt het lagere bedrag direct bij de installateur — geen aanvraag nodig."
-  - q: "Hoeveel ISDE-subsidie krijg ik voor spouwmuurisolatie?"
-    a: "Via ISDE (RVO) ontvang je in 2026 €5,00-€7,40 per m², afhankelijk van de isolatiewaarde (Rc). Bij 80 m² en EPS (Rc ≥ 1,1): €5,00/m² = €400 subsidie. Bij PUR/glasvlokken met hogere Rc: tot €7,40/m² = €592. Aanvragen vóór installatie via RVO.nl."
-  - q: "Wat is het verschil tussen EPS-parels, glasvlokken en PUR-schuim?"
-    a: "EPS-parels zijn goedkoop (€15-€20/m²) maar hebben lagere isolatiewaarde (Rc ≈ 1,1). Glasvlokken (Knauf Supafil) zitten in de middenklasse (€20-€28/m², Rc ≈ 1,3). PUR-schuim is het duurst (€25-€40/m², Rc ≈ 1,5) maar vult holtes het best. PUR is de voorkeur bij smalle spouwmuren (<50 mm)."
-  - q: "Welk energielabel krijg ik na spouwmuurisolatie?"
-    a: "Afhankelijk van de beginsituatie. Een tussenwoning van 1970 gaat van label D/E naar label C, soms B als ook andere maatregelen zijn genomen. Label B geeft recht op een lager hypotheekrentepercentage bij veel banken. Laat een EPA-adviseur meten voor en na."
-  - q: "Hoelang duurt de installatie van spouwmuurisolatie?"
-    a: "Voor een gemiddelde tussenwoning van 80 m² duurt de installatie een halve werkdag: 3-5 uur. Er worden kleine gaatjes (16-25 mm) geboord in de buitengevel, het isolatiemateriaal wordt ingeblazen of ingespoten, en de gaten worden gedicht. Geen sloopwerk nodig."
-  - q: "Werkt spouwmuurisolatie ook bij een vochtige of smalle spouw?"
-    a: "Vochtige spouw: laat eerst de vochtbron oplossen (lekkage, spouwankers), anders niks doen. Smalle spouw (<50 mm): EPS-parels passen niet altijd; glasvlokken of PUR zijn beter. Spouw <40 mm: laat altijd een voorinspectie doen met spouwcamera."
-  - q: "Kan ik spouwmuurisolatie zelf doen?"
-    a: "Nee, praktisch gezien niet. Je hebt professionele inblaasmachines nodig en de ISDE-subsidie vereist een gecertificeerd installateur. Bovendien is een bewijs van installatie nodig voor je EPA-label. Huur altijd een KOMO-gecertificeerd bedrijf in."
+- q: Wat kost spouwmuurisolatie gemiddeld in 2026?
+  a: 'Voor een doorzon-tussenwoning met circa 80 m² spouwmuur betaal je €1.600-€2.400, inclusief 0% BTW en inkl. ISDE-subsidie. Zonder subsidie: €2.000-€3.200. Prijs hangt af van materiaal (EPS-parels, glasvlokken of PUR) en bereikbaarheid van de spouwmuur.'
+- q: Geldt 0% BTW voor spouwmuurisolatie?
+  a: Ja. Sinds 1 april 2023 geldt 0% BTW op isolatie van woningen, inclusief spouwmuurisolatie, dakisolatie en vloerisolatie. Je betaalt het lagere bedrag direct bij de installateur — geen aanvraag nodig.
+- q: Hoeveel ISDE-subsidie krijg ik voor spouwmuurisolatie?
+  a: 'Via ISDE (RVO) ontvang je in 2026 €5,00-€7,40 per m², afhankelijk van de isolatiewaarde (Rc). Bij 80 m² en EPS (Rc ≥ 1,1): €5,00/m² = €400 subsidie. Bij PUR/glasvlokken met hogere Rc: tot €7,40/m² = €592. Aanvragen vóór installatie via RVO.nl.'
+- q: Wat is het verschil tussen EPS-parels, glasvlokken en PUR-schuim?
+  a: EPS-parels zijn goedkoop (€15-€20/m²) maar hebben lagere isolatiewaarde (Rc ≈ 1,1). Glasvlokken (Knauf Supafil) zitten in de middenklasse (€20-€28/m², Rc ≈ 1,3). PUR-schuim is het duurst (€25-€40/m², Rc ≈ 1,5) maar vult holtes het best. PUR is de voorkeur bij smalle spouwmuren (<50 mm).
+- q: Welk energielabel krijg ik na spouwmuurisolatie?
+  a: Afhankelijk van de beginsituatie. Een tussenwoning van 1970 gaat van label D/E naar label C, soms B als ook andere maatregelen zijn genomen. Label B geeft recht op een lager hypotheekrentepercentage bij veel banken. Laat een EPA-adviseur meten voor en na.
+- q: Hoelang duurt de installatie van spouwmuurisolatie?
+  a: 'Voor een gemiddelde tussenwoning van 80 m² duurt de installatie een halve werkdag: 3-5 uur. Er worden kleine gaatjes (16-25 mm) geboord in de buitengevel, het isolatiemateriaal wordt ingeblazen of ingespoten, en de gaten worden gedicht. Geen sloopwerk nodig.'
+- q: Werkt spouwmuurisolatie ook bij een vochtige of smalle spouw?
+  a: 'Vochtige spouw: laat eerst de vochtbron oplossen (lekkage, spouwankers), anders niks doen. Smalle spouw (<50 mm): EPS-parels passen niet altijd; glasvlokken of PUR zijn beter. Spouw <40 mm: laat altijd een voorinspectie doen met spouwcamera.'
+- q: Kan ik spouwmuurisolatie zelf doen?
+  a: Nee, praktisch gezien niet. Je hebt professionele inblaasmachines nodig en de ISDE-subsidie vereist een gecertificeerd installateur. Bovendien is een bewijs van installatie nodig voor je EPA-label. Huur altijd een KOMO-gecertificeerd bedrijf in.
 products:
-  - name: "Spouwmuurisolatie offerte aanvragen"
-    url: "/posts/isolatie-subsidie-nederland-2026/"
-    price: "vanaf €18/m²"
-  - name: "Tonzon spouwmuur EPS-parels"
-    url: "https://www.tonzon.nl/"
-    price: "info op website"
-  - name: "Knauf Supafil glasvlokken"
-    url: "https://www.knauf.nl/"
-    price: "info op website"
+- name: Spouwmuurisolatie offerte aanvragen
+  url: /posts/isolatie-subsidie-nederland-2026/
+  price: vanaf €18/m²
+- name: Tonzon spouwmuur EPS-parels
+  url: https://www.tonzon.nl/
+  price: info op website
+- name: Knauf Supafil glasvlokken
+  url: https://www.knauf.nl/
+  price: info op website
+schema_type: Article
 ---
 
 De meest rendabele isolatiemaatregel voor Nederlandse woningen gebouwd vóór 1990 is niet vloerisolatie, niet dakisolatie, maar spouwmuurisolatie. Weinig overlast, geen sloopwerk, klaar in een halve dag, terugverdientijd 6-10 jaar.

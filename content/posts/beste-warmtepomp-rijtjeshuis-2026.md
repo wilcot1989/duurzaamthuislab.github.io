@@ -1,37 +1,52 @@
 ---
-title: "Beste warmtepomp rijtjeshuis 2026: alles wat je moet weten"
-date: 2026-04-29T08:00:00+02:00
-lastmod: 2026-04-29T08:00:00+02:00
-description: "Een warmtepomp in een rijtjeshuis is een andere opgave dan in een vrijstaande woning. Ik bespreek geluid, plaatsing, buurman-regels."
-categories: ["warmtepompen"]
-tags: ["warmtepomp rijtjeshuis", "ATAG warmtepomp", "Quatt warmtepomp", "warmtepomp geluid buren", "ISDE subsidie", "lucht-water warmtepomp"]
-keywords: ["beste warmtepomp rijtjeshuis", "warmtepomp rijtjeshuis buren", "warmtepomp geluid", "warmtepomp 2026", "ATAG rijtjeshuis", "Quatt rijtjeshuis", "warmtepomp plaatsing"]
+title: 'Beste warmtepomp rijtjeshuis 2026: alles wat je moet weten'
+date: 2026-04-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
+description: Een warmtepomp in een rijtjeshuis is een andere opgave dan in een vrijstaande woning. Ik bespreek geluid, plaatsing, buurman-regels.
+categories:
+- warmtepompen
+tags:
+- warmtepomp rijtjeshuis
+- ATAG warmtepomp
+- Quatt warmtepomp
+- warmtepomp geluid buren
+- ISDE subsidie
+- lucht-water warmtepomp
+keywords:
+- beste warmtepomp rijtjeshuis
+- warmtepomp rijtjeshuis buren
+- warmtepomp geluid
+- warmtepomp 2026
+- ATAG rijtjeshuis
+- Quatt rijtjeshuis
+- warmtepomp plaatsing
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Mag ik een warmtepomp plaatsen als mijn buren op 1 meter afstand wonen?"
-    a: "Dat hangt af van het geluidsniveau van de buitenunit. Gemeente-verordeningen eisen doorgaans dat het geluid op de perceelgrens maximaal 40–45 dB(A) overdag bedraagt (BAL en Activiteitenbesluit). De meeste moderne lucht-water warmtepompen produceren op 5 meter afstand 40–50 dB(A). Laat de leverancier een geluidssimulatie maken voor jouw situatie."
-  - q: "Heb ik een vergunning nodig voor een warmtepomp in een rijtjeshuis?"
-    a: "In de meeste gevallen niet — een lucht-water warmtepomp is vergunningsvrij als de buitenunit aan de achterzijde geplaatst wordt. Uitzonderingen: beschermd stadsgezicht, beschermd monument, of plaatsing aan voorzijde. Controleer bij je gemeente of je bestemmingsplan."
-  - q: "Welke warmtepomp is het stilste?"
-    a: "Op dit moment zijn de stilste opties: Daikin Altherma 3 R (40 dB(A) op 1 meter), Mitsubishi Ecodan (42 dB(A)), en ATAG ENERGION (44 dB(A)). Quatt's buitenunit scoort 42 dB(A). Vraag altijd naar de geluidsspecificaties bij het nominale vermogen dat je nodig hebt — geluid loopt op bij hogere vermogens."
-  - q: "Werkt een warmtepomp in een slecht geïsoleerd rijtjeshuis?"
-    a: "Een hybride warmtepomp werkt ook in een slecht geïsoleerd huis (label D/E). De cv-ketel springt bij als de warmtepomp het niet redt bij extreme kou. All-electric werkt alleen goed bij label B of beter en aanvoertemperaturen onder de 55°C. Laat je situatie beoordelen door een installateur."
-  - q: "Hoeveel ISDE-subsidie krijg ik voor een warmtepomp?"
-    a: "In 2026 is de ISDE-subsidie €2.500–€4.000 voor een lucht-water warmtepomp, afhankelijk van het type en het nominale thermische vermogen. Hybride: €1.500–€2.500. Je moet de aanvraag vóór installatie doen via de RVO-website. De installateur regelt dit meestal."
-  - q: "Wat is het verschil tussen ATAG en Quatt voor een rijtjeshuis?"
-    a: "ATAG ENERGION is een hybride lucht-water warmtepomp: hij combineert met je bestaande cv-ketel. Ideaal voor woningen met label C/D. Quatt is een compact all-in-one systeem dat cv-ketel vervangt of hybride werkt, en de nadruk legt op een eenvoudig installatieproces met begeleiding. Quatt is populairder bij huurders-to-buyers die minder technische regie willen."
-  - q: "Wat zijn de gemiddelde energiekosten na installatie van een warmtepomp?"
-    a: "In een gemiddeld rijtjeshuis (1.800 m³ gas per jaar, label C) bespaar je na installatie van een hybride warmtepomp €600–€1.000 per jaar. All-electric in een goed geïsoleerde tussenwoning: €1.000–€1.500. Terugverdientijd: 6–10 jaar inclusief ISDE-subsidie."
+- q: Mag ik een warmtepomp plaatsen als mijn buren op 1 meter afstand wonen?
+  a: Dat hangt af van het geluidsniveau van de buitenunit. Gemeente-verordeningen eisen doorgaans dat het geluid op de perceelgrens maximaal 40–45 dB(A) overdag bedraagt (BAL en Activiteitenbesluit). De meeste moderne lucht-water warmtepompen produceren op 5 meter afstand 40–50 dB(A). Laat de leverancier een geluidssimulatie maken voor jouw situatie.
+- q: Heb ik een vergunning nodig voor een warmtepomp in een rijtjeshuis?
+  a: 'In de meeste gevallen niet — een lucht-water warmtepomp is vergunningsvrij als de buitenunit aan de achterzijde geplaatst wordt. Uitzonderingen: beschermd stadsgezicht, beschermd monument, of plaatsing aan voorzijde. Controleer bij je gemeente of je bestemmingsplan.'
+- q: Welke warmtepomp is het stilste?
+  a: 'Op dit moment zijn de stilste opties: Daikin Altherma 3 R (40 dB(A) op 1 meter), Mitsubishi Ecodan (42 dB(A)), en ATAG ENERGION (44 dB(A)). Quatt''s buitenunit scoort 42 dB(A). Vraag altijd naar de geluidsspecificaties bij het nominale vermogen dat je nodig hebt — geluid loopt op bij hogere vermogens.'
+- q: Werkt een warmtepomp in een slecht geïsoleerd rijtjeshuis?
+  a: Een hybride warmtepomp werkt ook in een slecht geïsoleerd huis (label D/E). De cv-ketel springt bij als de warmtepomp het niet redt bij extreme kou. All-electric werkt alleen goed bij label B of beter en aanvoertemperaturen onder de 55°C. Laat je situatie beoordelen door een installateur.
+- q: Hoeveel ISDE-subsidie krijg ik voor een warmtepomp?
+  a: 'In 2026 is de ISDE-subsidie €2.500–€4.000 voor een lucht-water warmtepomp, afhankelijk van het type en het nominale thermische vermogen. Hybride: €1.500–€2.500. Je moet de aanvraag vóór installatie doen via de RVO-website. De installateur regelt dit meestal.'
+- q: Wat is het verschil tussen ATAG en Quatt voor een rijtjeshuis?
+  a: 'ATAG ENERGION is een hybride lucht-water warmtepomp: hij combineert met je bestaande cv-ketel. Ideaal voor woningen met label C/D. Quatt is een compact all-in-one systeem dat cv-ketel vervangt of hybride werkt, en de nadruk legt op een eenvoudig installatieproces met begeleiding. Quatt is populairder bij huurders-to-buyers die minder technische regie willen.'
+- q: Wat zijn de gemiddelde energiekosten na installatie van een warmtepomp?
+  a: 'In een gemiddeld rijtjeshuis (1.800 m³ gas per jaar, label C) bespaar je na installatie van een hybride warmtepomp €600–€1.000 per jaar. All-electric in een goed geïsoleerde tussenwoning: €1.000–€1.500. Terugverdientijd: 6–10 jaar inclusief ISDE-subsidie.'
 products:
-  - name: "ATAG ENERGION warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "8500"
-  - name: "Quatt warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/quatt"
-    price: "7500"
+- name: ATAG ENERGION warmtepomp
+  url: https://go.duurzaamthuislab.nl/atag
+  price: '8500'
+- name: Quatt warmtepomp
+  url: https://go.duurzaamthuislab.nl/quatt
+  price: '7500'
+schema_type: Article
 ---
 
 Ik woon zelf in een rijtjeshuis. Mijn buurman links heeft een terras op anderhalve meter van mijn buitenunit. Mijn buurman rechts klaagde al over de pomp van zijn andere buurman, vijf huizen verder, die hij kon horen 's nachts.

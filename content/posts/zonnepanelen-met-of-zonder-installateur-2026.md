@@ -1,34 +1,48 @@
 ---
-title: "Zonnepanelen zelf installeren of via installateur 2026"
-date: 2026-05-31T08:00:00+01:00
-lastmod: 2026-05-31T08:00:00+01:00
-description: "DIY of professional? Wettelijke eisen, garantie, certificering en kostenvergelijking voor zonnepaneel-installatie in 2026."
-categories: ["zonne-energie"]
-tags: ["zonnepanelen installeren", "DIY zonnepanelen", "installateur", "certificering", "NEN1010", "garantie zonnepanelen", "Zonneplan"]
-keywords: ["zonnepanelen zelf installeren 2026", "zonnepanelen installateur kosten", "DIY zonnepanelen wettelijk", "zonnepanelen certificering NEN1010", "zonneplan review"]
+title: Zonnepanelen zelf installeren of via installateur 2026
+date: 2026-05-31 08:00:00+01:00
+lastmod: 2026-05-31 08:00:00+01:00
+description: DIY of professional? Wettelijke eisen, garantie, certificering en kostenvergelijking voor zonnepaneel-installatie in 2026.
+categories:
+- zonne-energie
+tags:
+- zonnepanelen installeren
+- DIY zonnepanelen
+- installateur
+- certificering
+- NEN1010
+- garantie zonnepanelen
+- Zonneplan
+keywords:
+- zonnepanelen zelf installeren 2026
+- zonnepanelen installateur kosten
+- DIY zonnepanelen wettelijk
+- zonnepanelen certificering NEN1010
+- zonneplan review
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Mag je zonnepanelen in Nederland zelf installeren zonder installateur?"
-    a: "Panelen op het dak plaatsen mag je zelf doen. Maar het aansluiten op het elektriciteitsnet (de omvormer op de meterkast aansluiten) valt onder de NEN1010-norm en moet in de meeste gevallen door een erkende elektricien worden uitgevoerd. Doe je dat zelf zonder de vereiste diploma's, kan je verzekeraar bij schade weigeren uit te keren."
-  - q: "Wat kost een installateur voor zonnepanelen in 2026?"
-    a: "Installatiekosten liggen in 2026 gemiddeld tussen €800 en €1.500 voor een standaardinstallatie van 6-12 panelen op een schuin dak. Inclusief panelen betaal je voor een compleet systeem van 4 kWp gemiddeld €5.500–€7.500 via een installateur."
-  - q: "Vervalt de garantie als ik zonnepanelen zelf installeer?"
-    a: "Dat hangt af van de fabrikant. Veel paneelfabrikanten vereisen installatie door een gecertificeerd bedrijf voor de productgarantie (15–25 jaar). Omvormerfabrikanten als SolarEdge en Huawei vereisen doorgaans een installateur met hun certificering. Controleer altijd de garantievoorwaarden vóór aankoop."
-  - q: "Heb je een vergunning nodig voor zonnepanelen?"
-    a: "In de meeste gevallen niet. Zonnepanelen op een schuin dak zijn in Nederland vergunningvrij, mits ze niet uitsteken boven de daknok. Bij plat dak, monument of beschermd stads/dorpsgezicht gelden aanvullende regels. Controleer altijd bij je gemeente."
-  - q: "Welke certificering heeft een goede installateur nodig?"
-    a: "Zoek op certificeringen van Vakbekwaamheidspaspoort PV (VP PV), erkend installateur SEIA, of MCS-certificering bij Brits werk. Zorg dat de installateur erkend staat bij de netbeheerder voor het aanmelden van de installatie (SDE++, teruglevering)."
-  - q: "Wat is het voordeel van Zonneplan ten opzichte van losse installateurs?"
-    a: "Zonneplan werkt met een netwerk van gecertificeerde installateurs en biedt prijstransparantie via een online offerte-tool. Ze regelen zelf de aanmelding bij de netbeheerder en de subsidieaanvraag (ISDE). Handig als je niet wilt onderhandelen met meerdere aanbieders."
-  - q: "Loont DIY zonnepanelen financieel?"
-    a: "Op papier spaar je €800–€1.500 installatiekosten. Maar je bent zelf verantwoordelijk voor de netaanmelding, riskeert garantieverlies op omvormer en panelen, en draagt alle aansprakelijkheid bij fouten. Voor de meeste huiseigenaren wegen de voordelen niet op tegen de risico's."
+- q: Mag je zonnepanelen in Nederland zelf installeren zonder installateur?
+  a: Panelen op het dak plaatsen mag je zelf doen. Maar het aansluiten op het elektriciteitsnet (de omvormer op de meterkast aansluiten) valt onder de NEN1010-norm en moet in de meeste gevallen door een erkende elektricien worden uitgevoerd. Doe je dat zelf zonder de vereiste diploma's, kan je verzekeraar bij schade weigeren uit te keren.
+- q: Wat kost een installateur voor zonnepanelen in 2026?
+  a: Installatiekosten liggen in 2026 gemiddeld tussen €800 en €1.500 voor een standaardinstallatie van 6-12 panelen op een schuin dak. Inclusief panelen betaal je voor een compleet systeem van 4 kWp gemiddeld €5.500–€7.500 via een installateur.
+- q: Vervalt de garantie als ik zonnepanelen zelf installeer?
+  a: Dat hangt af van de fabrikant. Veel paneelfabrikanten vereisen installatie door een gecertificeerd bedrijf voor de productgarantie (15–25 jaar). Omvormerfabrikanten als SolarEdge en Huawei vereisen doorgaans een installateur met hun certificering. Controleer altijd de garantievoorwaarden vóór aankoop.
+- q: Heb je een vergunning nodig voor zonnepanelen?
+  a: In de meeste gevallen niet. Zonnepanelen op een schuin dak zijn in Nederland vergunningvrij, mits ze niet uitsteken boven de daknok. Bij plat dak, monument of beschermd stads/dorpsgezicht gelden aanvullende regels. Controleer altijd bij je gemeente.
+- q: Welke certificering heeft een goede installateur nodig?
+  a: Zoek op certificeringen van Vakbekwaamheidspaspoort PV (VP PV), erkend installateur SEIA, of MCS-certificering bij Brits werk. Zorg dat de installateur erkend staat bij de netbeheerder voor het aanmelden van de installatie (SDE++, teruglevering).
+- q: Wat is het voordeel van Zonneplan ten opzichte van losse installateurs?
+  a: Zonneplan werkt met een netwerk van gecertificeerde installateurs en biedt prijstransparantie via een online offerte-tool. Ze regelen zelf de aanmelding bij de netbeheerder en de subsidieaanvraag (ISDE). Handig als je niet wilt onderhandelen met meerdere aanbieders.
+- q: Loont DIY zonnepanelen financieel?
+  a: Op papier spaar je €800–€1.500 installatiekosten. Maar je bent zelf verantwoordelijk voor de netaanmelding, riskeert garantieverlies op omvormer en panelen, en draagt alle aansprakelijkheid bij fouten. Voor de meeste huiseigenaren wegen de voordelen niet op tegen de risico's.
 products:
-  - name: "Zonneplan zonnepanelen"
-    url: "https://go.duurzaamthuislab.nl/zonneplan"
-    price: "op aanvraag"
+- name: Zonneplan zonnepanelen
+  url: https://go.duurzaamthuislab.nl/zonneplan
+  price: op aanvraag
+schema_type: Article
 ---
 
 Ik heb mijn eigen zonnepanelen laten installeren door een erkend bedrijf. Maar ik begrijp de DIY-verleiding: je leest hoe relatief eenvoudig het lijkt, de panelen zijn tegenwoordig plug-and-play marketingmateriaal, en het scheelt misschien wel €1.200. Dus ik heb me de afgelopen maanden verdiept in wat er wettelijk is, wat er financieel speelt en waar mensen de fout ingaan.

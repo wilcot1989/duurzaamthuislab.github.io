@@ -1,50 +1,66 @@
 ---
-title: "Saldering stopt in 2027: de volledige gids voor"
-date: 2026-04-29T08:00:00+02:00
-lastmod: 2026-04-29T08:00:00+02:00
-description: "Per 1 januari 2027 stopt de salderingsregeling. Wat betekent dat concreet voor je zonnepanelen."
-categories: ["zonne-energie", "energie"]
-tags: ["saldering 2027", "salderingsregeling", "saldering stopt", "zonnepanelen na 2027", "thuisbatterij", "dynamisch contract"]
-keywords: ["saldering 2027", "saldering stopt 2027", "salderingsregeling 2027", "afschaffing saldering 2027", "zonnepanelen na 2027", "saldering stopt wat nu", "salderingsregeling afgeschaft"]
+title: 'Saldering stopt in 2027: de volledige gids voor'
+date: 2026-04-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
+description: Per 1 januari 2027 stopt de salderingsregeling. Wat betekent dat concreet voor je zonnepanelen.
+categories:
+- zonne-energie
+- energie
+tags:
+- saldering 2027
+- salderingsregeling
+- saldering stopt
+- zonnepanelen na 2027
+- thuisbatterij
+- dynamisch contract
+keywords:
+- saldering 2027
+- saldering stopt 2027
+- salderingsregeling 2027
+- afschaffing saldering 2027
+- zonnepanelen na 2027
+- saldering stopt wat nu
+- salderingsregeling afgeschaft
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - q: "Wanneer stopt de saldering precies?"
-    a: "De salderingsregeling stopt per 1 januari 2027. Het kabinet heeft het wetsvoorstel definitief aangenomen — er is geen geleidelijke afbouw meer over meerdere jaren, het wordt een 'cold turkey' stop op die datum."
-  - q: "Wat krijg ik dan nog voor mijn teruggeleverde stroom?"
-    a: "Vanaf 2027 krijg je de terugleververgoeding van je energieleverancier. In 2026 ligt die meestal tussen 5 en 12 cent per kWh, terwijl je voor afgenomen stroom 28-35 cent betaalt. Het verschil is dus ongeveer 20-25 cent per kWh teruggeleverd."
-  - q: "Is mijn investering in zonnepanelen nog rendabel?"
-    a: "Ja, zonnepanelen blijven rendabel — alleen wordt de terugverdientijd langer. Voor een gemiddeld systeem van 10 panelen schuift de terugverdientijd van 6-7 jaar op naar 10-12 jaar zonder maatregelen. Met een thuisbatterij of dynamisch contract kun je dat tot 8-9 jaar terugbrengen."
-  - q: "Moet ik nu een thuisbatterij kopen?"
-    a: "Niet per se direct. De prijzen van thuisbatterijen dalen ongeveer 8-12% per jaar. Voor wie veel teruglevert (>2500 kWh/jaar) en flink eigen verbruik heeft 's avonds kan een batterij rendabel zijn. Voor een klein systeem (<1500 kWh teruglevering) is het verstandiger om eerst een dynamisch contract te overwegen."
-  - q: "Mag mijn energieleverancier terugleverkosten rekenen?"
-    a: "Ja, en dat doen ze ook al. In april 2026 rekenen Eneco, Vattenfall, Essent en Greenchoice extra terugleverkosten — vaak €5 tot €30 per maand bovenop het reguliere tarief, gestaffeld naar de hoeveelheid teruglevering. Vanaf 2027 wordt dat de norm voor alle leveranciers."
-  - q: "Wat is het verschil met dynamisch contract na 2027?"
-    a: "Bij een vast contract krijg je vaste tarieven en een vaste terugleververgoeding (bijv. 8 cent/kWh). Bij een dynamisch contract betaal je per uur de actuele marktprijs. In de zomerse middag is die soms negatief — dan moet je betalen om terug te leveren. Maar in de avond als jij stroom afneemt, zijn de tarieven hoog. Met een batterij kun je arbitragen op die prijsschommelingen."
-  - q: "Zijn er overgangsregelingen voor bestaande zonnepanelen?"
-    a: "Nee, de stop geldt voor iedereen tegelijk per 1-1-2027. Het kabinet heeft expliciet besloten geen uitzondering te maken voor mensen die al jaren saldeerden — de juridische argumentatie is dat de salderingsregeling altijd al een tijdelijke stimuleringsmaatregel was."
-  - q: "Hoeveel kost dit mij concreet per jaar?"
-    a: "Voor een gemiddeld huishouden met 10 panelen (3,5 kWp) en 2500 kWh teruglevering: ongeveer €450-€625 per jaar minder voordeel vanaf 2027. Voor een groot systeem (16 panelen, 5,5 kWp, 4000 kWh teruglevering): €700-€1.000 per jaar."
-  - q: "Wat is de beste oplossing als ik nu zonnepanelen heb?"
-    a: "De beste oplossing hangt af van je profiel. Globaal: (1) klein verbruik + klein PV-systeem: niets doen, accepteer langere terugverdientijd. (2) Gemiddeld systeem + thuis overdag: dynamisch contract overwegen. (3) Groot systeem + verbruik 's avonds: thuisbatterij wordt interessant. (4) Groot systeem + EV: combinatie van slim laden + thuisbatterij. Ik leg elk scenario verderop uit."
+- q: Wanneer stopt de saldering precies?
+  a: De salderingsregeling stopt per 1 januari 2027. Het kabinet heeft het wetsvoorstel definitief aangenomen — er is geen geleidelijke afbouw meer over meerdere jaren, het wordt een 'cold turkey' stop op die datum.
+- q: Wat krijg ik dan nog voor mijn teruggeleverde stroom?
+  a: Vanaf 2027 krijg je de terugleververgoeding van je energieleverancier. In 2026 ligt die meestal tussen 5 en 12 cent per kWh, terwijl je voor afgenomen stroom 28-35 cent betaalt. Het verschil is dus ongeveer 20-25 cent per kWh teruggeleverd.
+- q: Is mijn investering in zonnepanelen nog rendabel?
+  a: Ja, zonnepanelen blijven rendabel — alleen wordt de terugverdientijd langer. Voor een gemiddeld systeem van 10 panelen schuift de terugverdientijd van 6-7 jaar op naar 10-12 jaar zonder maatregelen. Met een thuisbatterij of dynamisch contract kun je dat tot 8-9 jaar terugbrengen.
+- q: Moet ik nu een thuisbatterij kopen?
+  a: Niet per se direct. De prijzen van thuisbatterijen dalen ongeveer 8-12% per jaar. Voor wie veel teruglevert (>2500 kWh/jaar) en flink eigen verbruik heeft 's avonds kan een batterij rendabel zijn. Voor een klein systeem (<1500 kWh teruglevering) is het verstandiger om eerst een dynamisch contract te overwegen.
+- q: Mag mijn energieleverancier terugleverkosten rekenen?
+  a: Ja, en dat doen ze ook al. In april 2026 rekenen Eneco, Vattenfall, Essent en Greenchoice extra terugleverkosten — vaak €5 tot €30 per maand bovenop het reguliere tarief, gestaffeld naar de hoeveelheid teruglevering. Vanaf 2027 wordt dat de norm voor alle leveranciers.
+- q: Wat is het verschil met dynamisch contract na 2027?
+  a: Bij een vast contract krijg je vaste tarieven en een vaste terugleververgoeding (bijv. 8 cent/kWh). Bij een dynamisch contract betaal je per uur de actuele marktprijs. In de zomerse middag is die soms negatief — dan moet je betalen om terug te leveren. Maar in de avond als jij stroom afneemt, zijn de tarieven hoog. Met een batterij kun je arbitragen op die prijsschommelingen.
+- q: Zijn er overgangsregelingen voor bestaande zonnepanelen?
+  a: Nee, de stop geldt voor iedereen tegelijk per 1-1-2027. Het kabinet heeft expliciet besloten geen uitzondering te maken voor mensen die al jaren saldeerden — de juridische argumentatie is dat de salderingsregeling altijd al een tijdelijke stimuleringsmaatregel was.
+- q: Hoeveel kost dit mij concreet per jaar?
+  a: 'Voor een gemiddeld huishouden met 10 panelen (3,5 kWp) en 2500 kWh teruglevering: ongeveer €450-€625 per jaar minder voordeel vanaf 2027. Voor een groot systeem (16 panelen, 5,5 kWp, 4000 kWh teruglevering): €700-€1.000 per jaar.'
+- q: Wat is de beste oplossing als ik nu zonnepanelen heb?
+  a: 'De beste oplossing hangt af van je profiel. Globaal: (1) klein verbruik + klein PV-systeem: niets doen, accepteer langere terugverdientijd. (2) Gemiddeld systeem + thuis overdag: dynamisch contract overwegen. (3) Groot systeem + verbruik ''s avonds: thuisbatterij wordt interessant. (4) Groot systeem + EV: combinatie van slim laden + thuisbatterij. Ik leg elk scenario verderop uit.'
 products:
-  - name: "Huawei Luna 2000"
-    url: "https://solar.huawei.com/eu/residential/luna"
-    price: "6000"
-  - name: "Tesla Powerwall 3"
-    url: "https://www.tesla.com/nl_nl/powerwall"
-    price: "9500"
-  - name: "Sessy 5 kWh"
-    url: "https://sessy.nl/"
-    price: "3795"
-  - name: "Tibber dynamisch contract"
-    url: "https://tibber.com/nl"
-    price: "6"
-  - name: "Frank Energie"
-    url: "https://www.frankenergie.nl/"
-    price: "0"
+- name: Huawei Luna 2000
+  url: https://solar.huawei.com/eu/residential/luna
+  price: '6000'
+- name: Tesla Powerwall 3
+  url: https://www.tesla.com/nl_nl/powerwall
+  price: '9500'
+- name: Sessy 5 kWh
+  url: https://sessy.nl/
+  price: '3795'
+- name: Tibber dynamisch contract
+  url: https://tibber.com/nl
+  price: '6'
+- name: Frank Energie
+  url: https://www.frankenergie.nl/
+  price: '0'
+schema_type: Article
 ---
 
 Vorig jaar leverde ik met mijn 16 panelen 4.100 kWh terug aan het net. Dankzij de salderingsregeling kreeg ik daar het volledige leveringstarief voor — netjes weggestreept tegen mijn afname. Vanaf **1 januari 2027 is dat voorbij**. Volgens mijn doorrekening zou dat me zonder maatregelen €820 per jaar gaan kosten.

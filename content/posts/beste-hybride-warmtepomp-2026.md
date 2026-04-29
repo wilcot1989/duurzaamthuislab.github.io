@@ -1,38 +1,50 @@
 ---
-title: "Beste Hybride Warmtepomp 2026: Top 5 Vergeleken"
-date: 2026-04-10T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "De 5 beste hybride warmtepompen van 2026 vergeleken op prijs, COP-waarde, geluid en subsidie. Remeha, Daikin, Quatt, Bosch en Vaillant naast elkaar."
-categories: ["warmtepompen"]
-tags: ["hybride warmtepomp", "warmtepomp", "Remeha", "Daikin", "Quatt", "verduurzaming"]
-keywords: ["hybride warmtepomp", "beste hybride warmtepomp", "warmtepomp vergelijking", "hybride warmtepomp kosten"]
+title: 'Beste Hybride Warmtepomp 2026: Top 5 Vergeleken'
+date: 2026-04-10 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: De 5 beste hybride warmtepompen van 2026 vergeleken op prijs, COP-waarde, geluid en subsidie. Remeha, Daikin, Quatt, Bosch en Vaillant naast elkaar.
+categories:
+- warmtepompen
+tags:
+- hybride warmtepomp
+- warmtepomp
+- Remeha
+- Daikin
+- Quatt
+- verduurzaming
+keywords:
+- hybride warmtepomp
+- beste hybride warmtepomp
+- warmtepomp vergelijking
+- hybride warmtepomp kosten
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kost een hybride warmtepomp inclusief installatie?"
-    a: "Een hybride warmtepomp kost inclusief installatie gemiddeld €4.000-€7.000. De aanschafprijs ligt tussen €3.000-€5.500, installatiekosten bedragen €1.000-€2.000. Na aftrek van ISDE subsidie (circa €3.000) kom je uit op €1.000-€4.000 netto."
-  - q: "Hoeveel bespaar je met een hybride warmtepomp?"
-    a: "Een hybride warmtepomp bespaart gemiddeld 40-60% op je gasverbruik, wat neerkomt op €500-€900 per jaar. De exacte besparing hangt af van je woningisolatie, het huidige gasverbruik en de COP-waarde."
-  - q: "Is een hybride warmtepomp geschikt voor mijn woning?"
-    a: "Een hybride warmtepomp is geschikt voor de meeste bestaande woningen, zelfs als ze niet optimaal geïsoleerd zijn. De cv-ketel springt bij als het buiten koud is. Ideaal voor woningen met energielabel C tot en met A."
-  - q: "Wat is het verschil tussen een hybride en een full-electric warmtepomp?"
-    a: "Een hybride warmtepomp combineert een warmtepomp met je bestaande cv-ketel. Bij milde temperaturen verwarmt de warmtepomp, bij kou neemt de cv-ketel het over. Een full-electric warmtepomp verwarmt volledig zonder gas, maar vereist betere isolatie en vaak vloerverwarming."
-  - q: "Welke hybride warmtepomp is het beste?"
-    a: "De Remeha Elga Ace HT scoort het beste vanwege de hoge COP-waarde en het brede werkbereik tot -20°C. De Quatt is het interessantst qua prijs-kwaliteit dankzij het unieke abonnementsmodel."
-  - q: "Krijg ik subsidie voor een hybride warmtepomp?"
-    a: "Ja, via de ISDE-regeling ontvang je circa €3.000 subsidie. Daarnaast bieden veel gemeenten aanvullende subsidies van €500-€1.500. De subsidie vraag je aan na installatie via mijn.rvo.nl."
+- q: Wat kost een hybride warmtepomp inclusief installatie?
+  a: Een hybride warmtepomp kost inclusief installatie gemiddeld €4.000-€7.000. De aanschafprijs ligt tussen €3.000-€5.500, installatiekosten bedragen €1.000-€2.000. Na aftrek van ISDE subsidie (circa €3.000) kom je uit op €1.000-€4.000 netto.
+- q: Hoeveel bespaar je met een hybride warmtepomp?
+  a: Een hybride warmtepomp bespaart gemiddeld 40-60% op je gasverbruik, wat neerkomt op €500-€900 per jaar. De exacte besparing hangt af van je woningisolatie, het huidige gasverbruik en de COP-waarde.
+- q: Is een hybride warmtepomp geschikt voor mijn woning?
+  a: Een hybride warmtepomp is geschikt voor de meeste bestaande woningen, zelfs als ze niet optimaal geïsoleerd zijn. De cv-ketel springt bij als het buiten koud is. Ideaal voor woningen met energielabel C tot en met A.
+- q: Wat is het verschil tussen een hybride en een full-electric warmtepomp?
+  a: Een hybride warmtepomp combineert een warmtepomp met je bestaande cv-ketel. Bij milde temperaturen verwarmt de warmtepomp, bij kou neemt de cv-ketel het over. Een full-electric warmtepomp verwarmt volledig zonder gas, maar vereist betere isolatie en vaak vloerverwarming.
+- q: Welke hybride warmtepomp is het beste?
+  a: De Remeha Elga Ace HT scoort het beste vanwege de hoge COP-waarde en het brede werkbereik tot -20°C. De Quatt is het interessantst qua prijs-kwaliteit dankzij het unieke abonnementsmodel.
+- q: Krijg ik subsidie voor een hybride warmtepomp?
+  a: Ja, via de ISDE-regeling ontvang je circa €3.000 subsidie. Daarnaast bieden veel gemeenten aanvullende subsidies van €500-€1.500. De subsidie vraag je aan na installatie via mijn.rvo.nl.
 products:
-  - name: "Vaillant aroTHERM plus"
-    url: "https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/"
-    price: "8000"
-  - name: "Daikin Altherma 3 H HT"
-    url: "https://www.daikin.nl/nl_nl/producten/product.html/EPRA-DV.html"
-    price: "9000"
-  - name: "Remeha Mercuria"
-    url: "https://www.remeha.nl/producten/warmtepompen/mercuria-ace"
-    price: "8500"
+- name: Vaillant aroTHERM plus
+  url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/
+  price: '8000'
+- name: Daikin Altherma 3 H HT
+  url: https://www.daikin.nl/nl_nl/producten/product.html/EPRA-DV.html
+  price: '9000'
+- name: Remeha Mercuria
+  url: https://www.remeha.nl/producten/warmtepompen/mercuria-ace
+  price: '8500'
+schema_type: Article
 ---
 
 Mijn Vaillant hybride warmtepomp draait inmiddels anderhalf jaar en ik heb mijn gasverbruik van 1.400 m3 naar 580 m3 teruggebracht — een besparing van bijna €900 per jaar. Na aftrek van de ISDE-subsidie van €3.000 zit ik op een terugverdientijd van nog geen 4 jaar. Maar als ik nu opnieuw zou kiezen, zou ik dan weer voor Vaillant gaan? Ik heb de 5 beste hybride warmtepompen van 2026 naast elkaar gezet.

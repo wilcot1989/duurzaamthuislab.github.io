@@ -1,37 +1,50 @@
 ---
-title: "Thuisbatterij Terugverdientijd Berekenen: Complete Gids 2026"
-date: 2026-03-28T12:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Leer hoe je de terugverdientijd van een thuisbatterij berekent. Inclusief rekenvoorbeelden, invloed van salderingsregeling, subsidies en dynamische tarieven."
-categories: ["thuisbatterijen"]
-tags: ["thuisbatterij terugverdientijd", "thuisbatterij rendabel", "thuisbatterij berekenen", "salderingsregeling", "ISDE subsidie", "zonnepanelen opslag"]
-keywords: ["thuisbatterij terugverdientijd", "thuisbatterij rendabel", "terugverdientijd berekenen thuisbatterij", "thuisbatterij kosten baten", "thuisbatterij investering"]
+title: 'Thuisbatterij Terugverdientijd Berekenen: Complete Gids 2026'
+date: 2026-03-28 12:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Leer hoe je de terugverdientijd van een thuisbatterij berekent. Inclusief rekenvoorbeelden, invloed van salderingsregeling, subsidies en dynamische tarieven.
+categories:
+- thuisbatterijen
+tags:
+- thuisbatterij terugverdientijd
+- thuisbatterij rendabel
+- thuisbatterij berekenen
+- salderingsregeling
+- ISDE subsidie
+- zonnepanelen opslag
+keywords:
+- thuisbatterij terugverdientijd
+- thuisbatterij rendabel
+- terugverdientijd berekenen thuisbatterij
+- thuisbatterij kosten baten
+- thuisbatterij investering
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Hoe lang is de terugverdientijd van een thuisbatterij in 2026?"
-    a: "De terugverdientijd van een thuisbatterij ligt in 2026 gemiddeld tussen de 7 en 13 jaar, afhankelijk van je energieverbruik, zonnepanelen-opbrengst, energieprijzen en of je subsidie ontvangt. Na afbouw van de salderingsregeling (2027-2031) wordt de terugverdientijd aanzienlijk korter."
-  - q: "Is een thuisbatterij rendabel in 2026?"
-    a: "Een thuisbatterij is in 2026 al rendabel voor huishoudens die veel zelf opgewekte stroom verbruiken en profiteren van de ISDE-subsidie. De rendabiliteit stijgt de komende jaren door de afbouw van de salderingsregeling. Met een dynamisch energiecontract en slim laden/ontladen kan de terugverdientijd verder worden verkort."
-  - q: "Welke factoren beinvloeden de terugverdientijd?"
-    a: "De belangrijkste factoren zijn: aanschafprijs van de batterij, capaciteit (kWh), je energieverbruiksprofiel, de opbrengst van je zonnepanelen, de huidige en toekomstige energieprijzen, de afbouw van saldering, ISDE-subsidie, en of je een dynamisch energiecontract hebt."
-  - q: "Hoeveel bespaar ik per jaar met een thuisbatterij?"
-    a: "De jaarlijkse besparing hangt af van je situatie. Gemiddeld bespaar je €400-800 per jaar door zelf opgewekte stroom op te slaan in plaats van terug te leveren tegen een lage vergoeding. Met een dynamisch energiecontract en slim laden kan dit oplopen tot €600-1100 per jaar."
-  - q: "Verbetert de ISDE-subsidie de terugverdientijd?"
-    a: "Ja, de ISDE-subsidie kan de terugverdientijd met 1-3 jaar verkorten. In 2026 bedraagt de subsidie maximaal €900 per kWh opslagcapaciteit, met een maximum van €5.400. Voor een 6 kWh thuisbatterij ontvang je tot €5.400, wat een aanzienlijk deel van de investering dekt."
-  - q: "Heeft de afbouw van de salderingsregeling invloed op de terugverdientijd?"
-    a: "Ja, enorm. Zolang je volledig mag salderen, krijg je evenveel voor teruggeleverde stroom als je betaalt voor afgenomen stroom. Zodra de saldering afneemt (vanaf 2027), wordt de vergoeding voor teruglevering lager en wordt opslag in een thuisbatterij financieel aantrekkelijker."
-  - q: "Moet ik nu een thuisbatterij kopen of wachten?"
-    a: "Als je al zonnepanelen hebt en de ISDE-subsidie nog beschikbaar is, is 2026 een goed moment. Batterijprijzen dalen, maar de subsidie is niet onbeperkt beschikbaar. Vanaf 2027 begint de afbouw van de salderingsregeling, waardoor een batterij rendabeler wordt. Wachten op nog lagere prijzen is een optie, maar je mist dan subsidie en besparingen in de tussentijd."
+- q: Hoe lang is de terugverdientijd van een thuisbatterij in 2026?
+  a: De terugverdientijd van een thuisbatterij ligt in 2026 gemiddeld tussen de 7 en 13 jaar, afhankelijk van je energieverbruik, zonnepanelen-opbrengst, energieprijzen en of je subsidie ontvangt. Na afbouw van de salderingsregeling (2027-2031) wordt de terugverdientijd aanzienlijk korter.
+- q: Is een thuisbatterij rendabel in 2026?
+  a: Een thuisbatterij is in 2026 al rendabel voor huishoudens die veel zelf opgewekte stroom verbruiken en profiteren van de ISDE-subsidie. De rendabiliteit stijgt de komende jaren door de afbouw van de salderingsregeling. Met een dynamisch energiecontract en slim laden/ontladen kan de terugverdientijd verder worden verkort.
+- q: Welke factoren beinvloeden de terugverdientijd?
+  a: 'De belangrijkste factoren zijn: aanschafprijs van de batterij, capaciteit (kWh), je energieverbruiksprofiel, de opbrengst van je zonnepanelen, de huidige en toekomstige energieprijzen, de afbouw van saldering, ISDE-subsidie, en of je een dynamisch energiecontract hebt.'
+- q: Hoeveel bespaar ik per jaar met een thuisbatterij?
+  a: De jaarlijkse besparing hangt af van je situatie. Gemiddeld bespaar je €400-800 per jaar door zelf opgewekte stroom op te slaan in plaats van terug te leveren tegen een lage vergoeding. Met een dynamisch energiecontract en slim laden kan dit oplopen tot €600-1100 per jaar.
+- q: Verbetert de ISDE-subsidie de terugverdientijd?
+  a: Ja, de ISDE-subsidie kan de terugverdientijd met 1-3 jaar verkorten. In 2026 bedraagt de subsidie maximaal €900 per kWh opslagcapaciteit, met een maximum van €5.400. Voor een 6 kWh thuisbatterij ontvang je tot €5.400, wat een aanzienlijk deel van de investering dekt.
+- q: Heeft de afbouw van de salderingsregeling invloed op de terugverdientijd?
+  a: Ja, enorm. Zolang je volledig mag salderen, krijg je evenveel voor teruggeleverde stroom als je betaalt voor afgenomen stroom. Zodra de saldering afneemt (vanaf 2027), wordt de vergoeding voor teruglevering lager en wordt opslag in een thuisbatterij financieel aantrekkelijker.
+- q: Moet ik nu een thuisbatterij kopen of wachten?
+  a: Als je al zonnepanelen hebt en de ISDE-subsidie nog beschikbaar is, is 2026 een goed moment. Batterijprijzen dalen, maar de subsidie is niet onbeperkt beschikbaar. Vanaf 2027 begint de afbouw van de salderingsregeling, waardoor een batterij rendabeler wordt. Wachten op nog lagere prijzen is een optie, maar je mist dan subsidie en besparingen in de tussentijd.
 products:
-  - name: "Huawei Luna 2000"
-    url: "https://solar.huawei.com/eu/residential/luna"
-    price: "6000"
-  - name: "Tesla Powerwall 3"
-    url: "https://www.tesla.com/nl_nl/powerwall"
-    price: "9500"
+- name: Huawei Luna 2000
+  url: https://solar.huawei.com/eu/residential/luna
+  price: '6000'
+- name: Tesla Powerwall 3
+  url: https://www.tesla.com/nl_nl/powerwall
+  price: '9500'
+schema_type: Article
 ---
 
 Voordat ik mijn Huawei Luna 10 kWh kocht, heb ik een uitgebreide spreadsheet gemaakt met alle variabelen: mijn zonnepaneelopbrengst (5.200 kWh/jaar), verbruiksprofiel dag/nacht, Tibber-tarieven, ISDE-subsidie en de afbouw van de salderingsregeling. Mijn conclusie: terugverdientijd van 9 jaar, en na de afbouw van saldering zelfs sneller. In deze gids deel ik precies hoe je die berekening zelf maakt.

@@ -1,45 +1,59 @@
 ---
-title: "Sessy review 2026: eerlijke test van de Nederlandse"
-date: 2026-05-03T08:00:00+02:00
-lastmod: 2026-05-03T08:00:00+02:00
-description: "Sessy is een Nederlandse thuisbatterij van Charged. Maandenlange test van de 5 kWh en 10 kWh: prestaties, app, dynamisch laden, voor- en nadelen."
-categories: ["thuisbatterijen"]
-tags: ["Sessy", "thuisbatterij", "Charged", "Nederlandse thuisbatterij", "review"]
-keywords: ["sessy review", "sessy thuisbatterij", "sessy 5 kwh", "sessy 10 kwh", "sessy ervaringen", "charged thuisbatterij", "sessy prijs"]
+title: 'Sessy review 2026: eerlijke test van de Nederlandse'
+date: 2026-05-03 08:00:00+02:00
+lastmod: 2026-05-03 08:00:00+02:00
+description: 'Sessy is een Nederlandse thuisbatterij van Charged. Maandenlange test van de 5 kWh en 10 kWh: prestaties, app, dynamisch laden, voor- en nadelen.'
+categories:
+- thuisbatterijen
+tags:
+- Sessy
+- thuisbatterij
+- Charged
+- Nederlandse thuisbatterij
+- review
+keywords:
+- sessy review
+- sessy thuisbatterij
+- sessy 5 kwh
+- sessy 10 kwh
+- sessy ervaringen
+- charged thuisbatterij
+- sessy prijs
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is Sessy?"
-    a: "Sessy is een thuisbatterij van het Nederlandse bedrijf Charged. Het is een AC-gekoppelde batterij in 5 kWh en 10 kWh varianten, die zelfstandig handelt op de dynamische energiemarkt om geld voor je te verdienen."
-  - q: "Wat kost Sessy in 2026?"
-    a: "Sessy 5 kWh kost €3.795 inclusief installatie. Sessy 10 kWh kost €5.995. Modulair uit te breiden tot 20 kWh. Prijzen zijn inclusief installatie binnen 30 km van een installatiepartner; verder weg komt er €150-€350 bij."
-  - q: "Werkt Sessy zonder zonnepanelen?"
-    a: "Ja, juist. Sessy werkt het beste op een dynamisch energiecontract en verdient geld door arbitrage: laadt op als de stroom goedkoop is, levert af als die duur is. Met zonnepanelen erbij is het effect groter, maar zonder panelen werkt het ook (vereist wel slimme meter en dynamisch contract)."
-  - q: "Hoeveel verdient Sessy gemiddeld per jaar?"
-    a: "Charged claimt €600-€900/jaar bij standaard gebruik (10 kWh model). In mijn 4 maanden test extrapoleerde dat naar €840/jaar, dus dat klopt redelijk. Voor 5 kWh model: €350-€500/jaar."
-  - q: "Hoe groot is een Sessy?"
-    a: "5 kWh model: 60 × 50 × 25 cm, 65 kg. 10 kWh model: 60 × 70 × 30 cm, 100 kg. Wandmontage of staand. Voor binneninstallatie (garage, bijkeuken, meterkast). Werkt tussen -10°C en +40°C."
-  - q: "Heb ik onderhoud nodig?"
-    a: "Nee, behalve de jaarlijkse software-update via de app. Geen ventilatie nodig (lithium-ijzer-fosfaat = veilig en stil). Garantie 10 jaar."
-  - q: "Wat is het verschil met Tesla Powerwall?"
-    a: "Sessy is kleiner (5 of 10 kWh vs 13,5 kWh), goedkoper (€3.795 vs €9.500), en specifiek ontworpen voor de Nederlandse markt + dynamische contracten. Powerwall heeft hogere piek-vermogen (5 kW vs 2,5 kW), grotere capaciteit en betere noodstroomfunctie. Voor de meeste huishoudens is Sessy de slimmere keus."
-  - q: "Is Sessy noodstroom?"
-    a: "Ja, sinds firmware-update januari 2026 heeft Sessy backup-functie via een aparte stroomgroep. Niet automatisch — je moet handmatig overschakelen via een keuzeschakelaar (bijgeleverd) bij stroomuitval. Capaciteit beperkt tot één groep (bijv. koelkast, lampen, modem)."
+- q: Wat is Sessy?
+  a: Sessy is een thuisbatterij van het Nederlandse bedrijf Charged. Het is een AC-gekoppelde batterij in 5 kWh en 10 kWh varianten, die zelfstandig handelt op de dynamische energiemarkt om geld voor je te verdienen.
+- q: Wat kost Sessy in 2026?
+  a: Sessy 5 kWh kost €3.795 inclusief installatie. Sessy 10 kWh kost €5.995. Modulair uit te breiden tot 20 kWh. Prijzen zijn inclusief installatie binnen 30 km van een installatiepartner; verder weg komt er €150-€350 bij.
+- q: Werkt Sessy zonder zonnepanelen?
+  a: 'Ja, juist. Sessy werkt het beste op een dynamisch energiecontract en verdient geld door arbitrage: laadt op als de stroom goedkoop is, levert af als die duur is. Met zonnepanelen erbij is het effect groter, maar zonder panelen werkt het ook (vereist wel slimme meter en dynamisch contract).'
+- q: Hoeveel verdient Sessy gemiddeld per jaar?
+  a: 'Charged claimt €600-€900/jaar bij standaard gebruik (10 kWh model). In mijn 4 maanden test extrapoleerde dat naar €840/jaar, dus dat klopt redelijk. Voor 5 kWh model: €350-€500/jaar.'
+- q: Hoe groot is een Sessy?
+  a: '5 kWh model: 60 × 50 × 25 cm, 65 kg. 10 kWh model: 60 × 70 × 30 cm, 100 kg. Wandmontage of staand. Voor binneninstallatie (garage, bijkeuken, meterkast). Werkt tussen -10°C en +40°C.'
+- q: Heb ik onderhoud nodig?
+  a: Nee, behalve de jaarlijkse software-update via de app. Geen ventilatie nodig (lithium-ijzer-fosfaat = veilig en stil). Garantie 10 jaar.
+- q: Wat is het verschil met Tesla Powerwall?
+  a: Sessy is kleiner (5 of 10 kWh vs 13,5 kWh), goedkoper (€3.795 vs €9.500), en specifiek ontworpen voor de Nederlandse markt + dynamische contracten. Powerwall heeft hogere piek-vermogen (5 kW vs 2,5 kW), grotere capaciteit en betere noodstroomfunctie. Voor de meeste huishoudens is Sessy de slimmere keus.
+- q: Is Sessy noodstroom?
+  a: Ja, sinds firmware-update januari 2026 heeft Sessy backup-functie via een aparte stroomgroep. Niet automatisch — je moet handmatig overschakelen via een keuzeschakelaar (bijgeleverd) bij stroomuitval. Capaciteit beperkt tot één groep (bijv. koelkast, lampen, modem).
 products:
-  - name: "Sessy 5 kWh"
-    url: "https://sessy.nl/"
-    price: "3795"
-  - name: "Sessy 10 kWh"
-    url: "https://sessy.nl/"
-    price: "5995"
-  - name: "Tibber dynamisch contract"
-    url: "https://tibber.com/nl"
-    price: "6"
-  - name: "Frank Energie"
-    url: "https://www.frankenergie.nl/"
-    price: "0"
+- name: Sessy 5 kWh
+  url: https://sessy.nl/
+  price: '3795'
+- name: Sessy 10 kWh
+  url: https://sessy.nl/
+  price: '5995'
+- name: Tibber dynamisch contract
+  url: https://tibber.com/nl
+  price: '6'
+- name: Frank Energie
+  url: https://www.frankenergie.nl/
+  price: '0'
+schema_type: Review
 ---
 
 Mijn buurman Bas vroeg me in oktober: "Mark, wat vind je van die Sessy? Ze adverteren overal dat het zichzelf terugverdient." Ik kende de specs maar had hem niet zelf getest. Toen heb ik hem gevraagd of ik er één in zijn meterkast mocht plaatsen om vier maanden mee te draaien.

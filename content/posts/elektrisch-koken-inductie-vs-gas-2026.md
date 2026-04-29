@@ -1,35 +1,46 @@
 ---
-title: "Elektrisch Koken 2026: Inductie vs Gas"
-date: 2026-06-27T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Inductie koken vs gas vergeleken in 2026. Kosten overstappen, energieverbruik, kookervaring en besparing. Alles over van gas naar inductie in je keuken."
-categories: ["energie"]
-tags: ["inductie koken", "gasloos koken", "inductiekookplaat", "van gas af", "elektrisch koken"]
-keywords: ["inductie vs gas koken", "inductiekookplaat kosten", "overstappen inductie", "gasloos koken 2026"]
+title: 'Elektrisch Koken 2026: Inductie vs Gas'
+date: 2026-06-27 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Inductie koken vs gas vergeleken in 2026. Kosten overstappen, energieverbruik, kookervaring en besparing. Alles over van gas naar inductie in je keuken.
+categories:
+- energie
+tags:
+- inductie koken
+- gasloos koken
+- inductiekookplaat
+- van gas af
+- elektrisch koken
+keywords:
+- inductie vs gas koken
+- inductiekookplaat kosten
+- overstappen inductie
+- gasloos koken 2026
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Is inductie koken goedkoper dan gas?"
-    a: "Ja, inductie koken is goedkoper. Energiekosten per jaar: gas koken €80-€120, inductie koken €40-€70. Maar de echte besparing zit in het afsluiten van je gasaansluiting: dat bespaart €200-€250 per jaar aan vastrecht. Totale besparing van gas naar inductie (bij volledig gasloos): €250-€350/jaar."
-  - q: "Hoeveel kost het om over te stappen naar inductie?"
-    a: "Kosten overstap: inductiekookplaat (€300-€1.500), nieuwe groep in meterkast (€150-€300), eventueel nieuwe pannen (€100-€300). Totaal: €550-€2.100. Bij volledige gasloos (ook warmtepomp): hogere investering maar bespaart vastrecht gas (€200-€250/jaar)."
-  - q: "Is inductie beter dan gas koken?"
-    a: "Qua kookprestatie is inductie gelijkwaardig of beter: sneller koken (water kookt 50% sneller), preciezere temperatuurregeling, veiliger (plaat wordt niet heet), makkelijker schoonmaken. Het enige nadeel: je moet inductie-geschikte pannen gebruiken (bodem met ijzer/staal). Wokken op hoge vlam is anders maar goed mogelijk met een wokbrander-zone."
-  - q: "Heb ik nieuwe pannen nodig voor inductie?"
-    a: "Mogelijk. Inductie werkt alleen met pannen met een magnetische bodem (ijzer, staal, gietijzer). Test je pannen: als een magneet aan de bodem plakt, werken ze op inductie. Aluminium en koperen pannen werken niet. Een goede set inductiepannen kost €100-€300."
-  - q: "Kan ik mijn gasaansluiting laten afsluiten?"
-    a: "Ja, als je geen gas meer nodig hebt (ook niet voor verwarming en warm water). Afsluiten kost eenmalig €100-€200, maar bespaart €200-€250 per jaar aan vastrecht (aansluitkosten). Bedenk: als je later weer gas wilt, kost heraansluiting €500-€1.000. Stap pas af als je ook verwarming en warm water elektrisch hebt."
-  - q: "Welke inductiekookplaat is het beste?"
-    a: "Beste alleskunner: Siemens/Bosch flexInduction (vrij plaatsbare zones, €800-€1.200). Beste budget: IKEA HOOFDSAKLIG of Etna KIF880DS (€300-€500). Beste voor koks: AEG Bridge-functie of Miele KM7000 (flexibele zones, timer per zone). Let op: kies minimaal 7.2 kW aansluitwaarde voor comfortabel koken."
+- q: Is inductie koken goedkoper dan gas?
+  a: 'Ja, inductie koken is goedkoper. Energiekosten per jaar: gas koken €80-€120, inductie koken €40-€70. Maar de echte besparing zit in het afsluiten van je gasaansluiting: dat bespaart €200-€250 per jaar aan vastrecht. Totale besparing van gas naar inductie (bij volledig gasloos): €250-€350/jaar.'
+- q: Hoeveel kost het om over te stappen naar inductie?
+  a: 'Kosten overstap: inductiekookplaat (€300-€1.500), nieuwe groep in meterkast (€150-€300), eventueel nieuwe pannen (€100-€300). Totaal: €550-€2.100. Bij volledige gasloos (ook warmtepomp): hogere investering maar bespaart vastrecht gas (€200-€250/jaar).'
+- q: Is inductie beter dan gas koken?
+  a: 'Qua kookprestatie is inductie gelijkwaardig of beter: sneller koken (water kookt 50% sneller), preciezere temperatuurregeling, veiliger (plaat wordt niet heet), makkelijker schoonmaken. Het enige nadeel: je moet inductie-geschikte pannen gebruiken (bodem met ijzer/staal). Wokken op hoge vlam is anders maar goed mogelijk met een wokbrander-zone.'
+- q: Heb ik nieuwe pannen nodig voor inductie?
+  a: 'Mogelijk. Inductie werkt alleen met pannen met een magnetische bodem (ijzer, staal, gietijzer). Test je pannen: als een magneet aan de bodem plakt, werken ze op inductie. Aluminium en koperen pannen werken niet. Een goede set inductiepannen kost €100-€300.'
+- q: Kan ik mijn gasaansluiting laten afsluiten?
+  a: 'Ja, als je geen gas meer nodig hebt (ook niet voor verwarming en warm water). Afsluiten kost eenmalig €100-€200, maar bespaart €200-€250 per jaar aan vastrecht (aansluitkosten). Bedenk: als je later weer gas wilt, kost heraansluiting €500-€1.000. Stap pas af als je ook verwarming en warm water elektrisch hebt.'
+- q: Welke inductiekookplaat is het beste?
+  a: 'Beste alleskunner: Siemens/Bosch flexInduction (vrij plaatsbare zones, €800-€1.200). Beste budget: IKEA HOOFDSAKLIG of Etna KIF880DS (€300-€500). Beste voor koks: AEG Bridge-functie of Miele KM7000 (flexibele zones, timer per zone). Let op: kies minimaal 7.2 kW aansluitwaarde voor comfortabel koken.'
 products:
-  - name: "Coolblue Inductie"
-    url: "https://www.coolblue.nl/kookplaten/inductie"
-    price: "800"
-  - name: "Bosch Inductie"
-    url: "https://www.bosch-home.nl/productoverzicht/kookplaten/inductiekookplaten"
-    price: "900"
+- name: Coolblue Inductie
+  url: https://www.coolblue.nl/kookplaten/inductie
+  price: '800'
+- name: Bosch Inductie
+  url: https://www.bosch-home.nl/productoverzicht/kookplaten/inductiekookplaten
+  price: '900'
+schema_type: Article
 ---
 
 Toen ik mijn Vaillant hybride warmtepomp liet installeren, heb ik meteen de stap naar inductie gezet. Mijn gasaansluiting wil ik uiteindelijk helemaal opzeggen — dat scheelt €230 per jaar aan vastrecht alleen al. Na een jaar inductie koken kan ik zeggen: water kookt in 3 minuten, de plaat is makkelijker schoon te houden, en mijn energiekosten voor koken zijn gehalveerd. Hier deel ik de volledige vergelijking.

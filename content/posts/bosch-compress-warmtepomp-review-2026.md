@@ -1,39 +1,56 @@
 ---
-title: "Bosch Compress warmtepomp review 2026"
-date: 2026-07-22T08:00:00+02:00
-lastmod: 2026-07-22T08:00:00+02:00
-description: "De Bosch Compress 5800 en 7800i zijn lucht-water warmtepompen die speciaal goed werken in matig geïsoleerde woningen."
-categories: ["warmtepompen"]
-tags: ["Bosch", "Compress", "warmtepomp", "hybride warmtepomp", "lucht-water warmtepomp", "ISDE subsidie", "review", "label D woning"]
-keywords: ["Bosch Compress warmtepomp review", "Bosch Compress 5800 review", "Bosch Compress 7800i ervaringen", "Bosch warmtepomp prijs", "Bosch hybride warmtepomp", "Bosch vs Daikin warmtepomp", "warmtepomp label D woning"]
+title: Bosch Compress warmtepomp review 2026
+date: 2026-07-22 08:00:00+02:00
+lastmod: 2026-07-22 08:00:00+02:00
+description: De Bosch Compress 5800 en 7800i zijn lucht-water warmtepompen die speciaal goed werken in matig geïsoleerde woningen.
+categories:
+- warmtepompen
+tags:
+- Bosch
+- Compress
+- warmtepomp
+- hybride warmtepomp
+- lucht-water warmtepomp
+- ISDE subsidie
+- review
+- label D woning
+keywords:
+- Bosch Compress warmtepomp review
+- Bosch Compress 5800 review
+- Bosch Compress 7800i ervaringen
+- Bosch warmtepomp prijs
+- Bosch hybride warmtepomp
+- Bosch vs Daikin warmtepomp
+- warmtepomp label D woning
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-  - q: "Wat kost een Bosch Compress warmtepomp in 2026?"
-    a: "De Bosch Compress 5800 kost circa €7.500 tot €9.500 inclusief 0% btw, exclusief montage. De Compress 7800i ligt op €9.000 tot €11.000. Montagkosten bedragen doorgaans €1.000 tot €1.800. Inclusief ISDE-subsidie (€2.500 tot €4.000 afhankelijk van model en vermogen) betaal je netto €6.000 tot €9.500 all-in."
-  - q: "Wat is het verschil tussen de Bosch Compress 5800 en 7800i?"
-    a: "De Compress 5800 is de instapvariant: solide, goed voor woningen met label B tot D. De 7800i is de premiumlijn met hogere SCOP (tot 4,5 versus 4,0-4,2 bij de 5800), slimmere modulatie en betere app-integratie. De 7800i is ook beschikbaar als hybride variant die samenwerkt met een Bosch cv-ketel."
-  - q: "Is de Bosch Compress geschikt voor een slecht geïsoleerde woning?"
-    a: "De hybride versie van de Compress 7800i is speciaal geschikt voor woningen met energielabel D of slechter. De warmtepomp levert het merendeel van de warmte; bij piekbelasting in de winter springt de cv-ketel bij. Je hoeft de woning niet eerst te isoleren, al is dat op termijn wel rendabeler."
-  - q: "Kan ik ISDE-subsidie aanvragen voor een Bosch Compress?"
-    a: "Ja. De Bosch Compress 5800 en 7800i staan op de ISDE-erkende productenlijst van RVO. De subsidie bedraagt €2.500 tot €4.000 afhankelijk van het nominale vermogen. Aanvraag moet vóór de installatie worden ingediend — de installateur verzorgt dit doorgaans."
-  - q: "Hoe werkt de Bosch Easy Control app?"
-    a: "De Bosch Easy Control app geeft inzicht in verbruik, temperatuurinstellingen en bedrijfsmodus. Je kunt de warmtepomp op afstand instellen, programmeren en storingen uitlezen. De app wordt regelmatig bijgewerkt en werkt stabiel. Minder visueel verfijnd dan de Daikin One app, maar functioneel compleet."
-  - q: "Wat zijn de levertijden van Bosch Compress?"
-    a: "Bosch heeft een sterk NL-dealernet via Bosch ABZ Water Comfort en gecertificeerde installateurs. Levertijden voor de Compress 5800 en 7800i lagen in 2025-2026 op 3 tot 8 weken voor de standaard modellen — korter dan bij Daikin. De R290-propaan modellen (nieuwe generatie) kennen wel wachtlijsten."
-  - q: "Is de buitenunit van Bosch Compress groot?"
-    a: "Ja, de buitenunit van de Compress 7800i is iets groter dan vergelijkbare modellen van Daikin en Mitsubishi. Dat speelt met name een rol bij kleine tuinen of strakke erfgrenssituaties. De breedte is circa 10-15 cm meer dan bij de concurrentie in dezelfde vermogensklasse."
-  - q: "Wat is het koudemiddel van de Bosch Compress?"
-    a: "De gangbare Compress 5800 en 7800i gebruiken R32 (GWP 675). Bosch brengt ook nieuwe R290-modellen (propaan, GWP 3) op de markt, maar die zijn in 2026 nog beperkt leverbaar in Nederland. R290 is duurzamer maar vereist extra installatieveiligheidsmaatregelen."
+- q: Wat kost een Bosch Compress warmtepomp in 2026?
+  a: De Bosch Compress 5800 kost circa €7.500 tot €9.500 inclusief 0% btw, exclusief montage. De Compress 7800i ligt op €9.000 tot €11.000. Montagkosten bedragen doorgaans €1.000 tot €1.800. Inclusief ISDE-subsidie (€2.500 tot €4.000 afhankelijk van model en vermogen) betaal je netto €6.000 tot €9.500 all-in.
+- q: Wat is het verschil tussen de Bosch Compress 5800 en 7800i?
+  a: 'De Compress 5800 is de instapvariant: solide, goed voor woningen met label B tot D. De 7800i is de premiumlijn met hogere SCOP (tot 4,5 versus 4,0-4,2 bij de 5800), slimmere modulatie en betere app-integratie. De 7800i is ook beschikbaar als hybride variant die samenwerkt met een Bosch cv-ketel.'
+- q: Is de Bosch Compress geschikt voor een slecht geïsoleerde woning?
+  a: De hybride versie van de Compress 7800i is speciaal geschikt voor woningen met energielabel D of slechter. De warmtepomp levert het merendeel van de warmte; bij piekbelasting in de winter springt de cv-ketel bij. Je hoeft de woning niet eerst te isoleren, al is dat op termijn wel rendabeler.
+- q: Kan ik ISDE-subsidie aanvragen voor een Bosch Compress?
+  a: Ja. De Bosch Compress 5800 en 7800i staan op de ISDE-erkende productenlijst van RVO. De subsidie bedraagt €2.500 tot €4.000 afhankelijk van het nominale vermogen. Aanvraag moet vóór de installatie worden ingediend — de installateur verzorgt dit doorgaans.
+- q: Hoe werkt de Bosch Easy Control app?
+  a: De Bosch Easy Control app geeft inzicht in verbruik, temperatuurinstellingen en bedrijfsmodus. Je kunt de warmtepomp op afstand instellen, programmeren en storingen uitlezen. De app wordt regelmatig bijgewerkt en werkt stabiel. Minder visueel verfijnd dan de Daikin One app, maar functioneel compleet.
+- q: Wat zijn de levertijden van Bosch Compress?
+  a: Bosch heeft een sterk NL-dealernet via Bosch ABZ Water Comfort en gecertificeerde installateurs. Levertijden voor de Compress 5800 en 7800i lagen in 2025-2026 op 3 tot 8 weken voor de standaard modellen — korter dan bij Daikin. De R290-propaan modellen (nieuwe generatie) kennen wel wachtlijsten.
+- q: Is de buitenunit van Bosch Compress groot?
+  a: Ja, de buitenunit van de Compress 7800i is iets groter dan vergelijkbare modellen van Daikin en Mitsubishi. Dat speelt met name een rol bij kleine tuinen of strakke erfgrenssituaties. De breedte is circa 10-15 cm meer dan bij de concurrentie in dezelfde vermogensklasse.
+- q: Wat is het koudemiddel van de Bosch Compress?
+  a: De gangbare Compress 5800 en 7800i gebruiken R32 (GWP 675). Bosch brengt ook nieuwe R290-modellen (propaan, GWP 3) op de markt, maar die zijn in 2026 nog beperkt leverbaar in Nederland. R290 is duurzamer maar vereist extra installatieveiligheidsmaatregelen.
 products:
-  - name: "Bosch Compress 5800 lucht-water warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/bosch"
-    price: "8500"
-  - name: "Bosch Compress 7800i hybride warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/bosch"
-    price: "10000"
+- name: Bosch Compress 5800 lucht-water warmtepomp
+  url: https://go.duurzaamthuislab.nl/bosch
+  price: '8500'
+- name: Bosch Compress 7800i hybride warmtepomp
+  url: https://go.duurzaamthuislab.nl/bosch
+  price: '10000'
+schema_type: Review
 ---
 
 Vorig jaar zomer had ik een adviesgesprek met Anja en haar man Pieter. Vrijstaand huis uit 1969 in Apeldoorn, energielabel D, deels dubbel glas, spouwmuur niet geïsoleerd. Hun vraag was simpel: "Kunnen we gewoon een warmtepomp zetten of moeten we eerst alles verbouwen?"

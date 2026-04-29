@@ -1,42 +1,52 @@
 ---
-title: "ANWB Energie review 2026: dynamisch contract met vangnet"
-date: 2026-05-09T08:00:00+02:00
-lastmod: 2026-05-09T08:00:00+02:00
-description: "ANWB Energie is een dynamisch contract met prijsdemping. Volledige review na 8 maanden testen — voor wie wel én wie niet."
-categories: ["energie"]
-tags: ["ANWB Energie", "dynamisch contract", "review", "energieleverancier"]
-keywords: ["anwb energie review", "anwb dynamisch", "anwb energie ervaringen", "anwb dynamisch contract"]
+title: 'ANWB Energie review 2026: dynamisch contract met vangnet'
+date: 2026-05-09 08:00:00+02:00
+lastmod: 2026-05-09 08:00:00+02:00
+description: ANWB Energie is een dynamisch contract met prijsdemping. Volledige review na 8 maanden testen — voor wie wel én wie niet.
+categories:
+- energie
+tags:
+- ANWB Energie
+- dynamisch contract
+- review
+- energieleverancier
+keywords:
+- anwb energie review
+- anwb dynamisch
+- anwb energie ervaringen
+- anwb dynamisch contract
 affiliate: true
-author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
+author: Mark Bakker
+author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - q: "Wat is ANWB Energie Dynamisch?"
-    a: "ANWB Energie biedt sinds 2024 een dynamisch energiecontract waarbij je per uur de actuele EPEX-marktprijs betaalt, plus een kleine marge en een servicegeld van €5,95/maand. ANWB voegt een 'vangnet' toe: extreme prijspieken (>€0,40/kWh) worden tot 1u afgevlakt om budget-shocks te voorkomen."
-  - q: "Wat is het verschil met Tibber of Frank?"
-    a: "ANWB rekent een marge van €0,015/kWh bovenop EPEX (Tibber en Frank rekenen €0). En heeft een prijsdempingsmechanisme. Daardoor is ANWB ~€60-€90/jaar duurder dan Frank/Tibber, maar veiliger bij extreme markt. Ook: telefonische klantenservice door een NL-organisatie met grote naamsbekendheid."
-  - q: "Voor wie is ANWB Energie geschikt?"
-    a: "Voor wie de besparing van dynamisch contract wil maar mentaal niet aan kan dat de prijs 4× kan zijn van een vast contract in extreme uren. De prijsdemping geeft rust. Ook voor mensen die liever bij een grote NL-naam zitten — ANWB is geen onbekend bedrijf."
-  - q: "Werkt ANWB met zonnepanelen?"
-    a: "Ja. Geen aparte terugleverkosten. Bij teruglevering krijg je het uurtarief — soms negatief in zonzomer-uren maar gemiddeld voordeliger dan vast contract met staffel-terugleverkosten."
-  - q: "Hoe goed is de app?"
-    a: "Functioneel, niet spectaculair. Toont uurprijzen, verbruik, voorspellingen 24u vooruit. Geen smart-EV-charging features zoals Tibber, geen open API. Voor wie alleen wil weten wat hij betaalt: voldoende. Voor automation-fans: te beperkt."
-  - q: "Wat als ik wil overstappen?"
-    a: "Eenvoudig. ANWB regelt opzegging vorige leverancier. Geen contractduur, maandelijks opzegbaar. Ben je in een lopend vast contract: check eerst de boete (vaak €100-€150 bij Eneco/Vattenfall)."
-  - q: "Wat is de jaarbesparing vs vast contract?"
-    a: "In 2026 gemiddeld €350-€600/jaar voor een huishouden met zonnepanelen. Iets minder dan Tibber/Frank (€450-€800) door de €60-€90 marge bij ANWB. Vergeleken met Eneco/Vattenfall vast: ruim voordeliger."
-  - q: "Wat zijn de nadelen?"
-    a: "Drie zaken: (1) marge bovenop EPEX (€0,015/kWh) maakt het iets duurder dan Frank/Tibber, (2) geen smart automation features voor EV/smart home, (3) prijsdempingsmechanisme betekent dat je bij extreme negatieve prijzen niet maximaal profiteert."
+- q: Wat is ANWB Energie Dynamisch?
+  a: 'ANWB Energie biedt sinds 2024 een dynamisch energiecontract waarbij je per uur de actuele EPEX-marktprijs betaalt, plus een kleine marge en een servicegeld van €5,95/maand. ANWB voegt een ''vangnet'' toe: extreme prijspieken (>€0,40/kWh) worden tot 1u afgevlakt om budget-shocks te voorkomen.'
+- q: Wat is het verschil met Tibber of Frank?
+  a: 'ANWB rekent een marge van €0,015/kWh bovenop EPEX (Tibber en Frank rekenen €0). En heeft een prijsdempingsmechanisme. Daardoor is ANWB ~€60-€90/jaar duurder dan Frank/Tibber, maar veiliger bij extreme markt. Ook: telefonische klantenservice door een NL-organisatie met grote naamsbekendheid.'
+- q: Voor wie is ANWB Energie geschikt?
+  a: Voor wie de besparing van dynamisch contract wil maar mentaal niet aan kan dat de prijs 4× kan zijn van een vast contract in extreme uren. De prijsdemping geeft rust. Ook voor mensen die liever bij een grote NL-naam zitten — ANWB is geen onbekend bedrijf.
+- q: Werkt ANWB met zonnepanelen?
+  a: Ja. Geen aparte terugleverkosten. Bij teruglevering krijg je het uurtarief — soms negatief in zonzomer-uren maar gemiddeld voordeliger dan vast contract met staffel-terugleverkosten.
+- q: Hoe goed is de app?
+  a: 'Functioneel, niet spectaculair. Toont uurprijzen, verbruik, voorspellingen 24u vooruit. Geen smart-EV-charging features zoals Tibber, geen open API. Voor wie alleen wil weten wat hij betaalt: voldoende. Voor automation-fans: te beperkt.'
+- q: Wat als ik wil overstappen?
+  a: 'Eenvoudig. ANWB regelt opzegging vorige leverancier. Geen contractduur, maandelijks opzegbaar. Ben je in een lopend vast contract: check eerst de boete (vaak €100-€150 bij Eneco/Vattenfall).'
+- q: Wat is de jaarbesparing vs vast contract?
+  a: 'In 2026 gemiddeld €350-€600/jaar voor een huishouden met zonnepanelen. Iets minder dan Tibber/Frank (€450-€800) door de €60-€90 marge bij ANWB. Vergeleken met Eneco/Vattenfall vast: ruim voordeliger.'
+- q: Wat zijn de nadelen?
+  a: 'Drie zaken: (1) marge bovenop EPEX (€0,015/kWh) maakt het iets duurder dan Frank/Tibber, (2) geen smart automation features voor EV/smart home, (3) prijsdempingsmechanisme betekent dat je bij extreme negatieve prijzen niet maximaal profiteert.'
 products:
-  - name: "ANWB Energie Dynamisch"
-    url: "https://www.anwb.nl/energie"
-    price: "0"
-  - name: "Tibber (alternatief)"
-    url: "https://tibber.com/nl"
-    price: "6"
-  - name: "Frank Energie (alternatief)"
-    url: "https://www.frankenergie.nl/"
-    price: "0"
+- name: ANWB Energie Dynamisch
+  url: https://www.anwb.nl/energie
+  price: '0'
+- name: Tibber (alternatief)
+  url: https://tibber.com/nl
+  price: '6'
+- name: Frank Energie (alternatief)
+  url: https://www.frankenergie.nl/
+  price: '0'
+schema_type: Review
 ---
 
 Een vriend van mij belde in juli 2025: "Mark, ik wil overstappen naar dynamisch maar mijn vrouw vindt het eng. Ze is bang voor stormpieken. Wat denk jij van ANWB?" Ik heb hem geadviseerd ANWB Dynamisch te proberen — het prijsdempingsmechanisme zou haar zorgen moeten verlichten.
