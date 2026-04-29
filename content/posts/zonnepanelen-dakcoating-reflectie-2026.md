@@ -27,7 +27,7 @@ faq:
     a: "Bij opgaande daken (schuine daken) met panelen op montagerail is de afstand tussen paneel en dak doorgaans 5-15 cm. De dakkleur heeft dan minder effect dan bij vlakke opstelling op een plat dak. Bij bifaciale panelen met horizontale opstelling of tracking-systemen is de dakkleur relevanter."
 products:
   - name: "Beste zonnepanelen 2026"
-    url: "/go/zonnepanelen"
+    url: "/go/zonneplan"
     price: "250"
   - name: "Sessy thuisbatterij"
     url: "/go/sessy"
@@ -415,7 +415,7 @@ Sommige gemeenten (Rotterdam, Amsterdam) experimenteren met "koele daken"-progra
 
 ---
 
-<a href="/go/zonnepanelen" class="cta-affiliate" rel="sponsored noopener">Bekijk de beste zonnepanelen van 2026</a>
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk de beste zonnepanelen van 2026</a>
 
 ## Gerelateerde artikelen
 

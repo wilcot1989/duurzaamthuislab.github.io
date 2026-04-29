@@ -27,7 +27,7 @@ faq:
     a: "Een maatwerk agri-PV-frame voor 50-100 m² tuin kost €3.000-€8.000 voor de staalconstructie exclusief zonnepanelen. Kant-en-klare systemen zijn schaars; de meeste particuliere agri-PV-projecten zijn maatwerk. De totale investering (frame + 12 panelen + installatie) ligt doorgaans op €8.000-€14.000."
 products:
   - name: "Beste zonnepanelen 2026"
-    url: "/go/zonnepanelen"
+    url: "/go/zonneplan"
     price: "250"
   - name: "Sessy thuisbatterij"
     url: "/go/sessy"
@@ -450,7 +450,7 @@ Als alle drie aanwezig zijn: ga ervoor. Het is een van de meest satisfying verdu
 
 ---
 
-<a href="/go/zonnepanelen" class="cta-affiliate" rel="sponsored noopener">Bekijk de beste zonnepanelen voor een agri-PV project</a>
+<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk de beste zonnepanelen voor een agri-PV project</a>
 
 <a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Combineer je agri-PV met een Sessy thuisbatterij</a>
 

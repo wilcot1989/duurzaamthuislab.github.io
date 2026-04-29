@@ -27,10 +27,10 @@ faq:
     a: "Dat hangt af van de warmtebron van het net. Een warmtenet op geothermie, restwarmte of aquathermie is aanzienlijk duurzamer. Een warmtenet op aardgas is niet duurzamer dan een moderne warmtepomp op groene stroom. Vraag altijd naar de duurzaamheidsscore (CO2-uitstoot per GJ) van je lokale warmteleverancier."
 products:
   - name: "Daikin Altherma 3 warmtepomp"
-    url: "/go/daikin-altherma"
+    url: "/go/daikin"
     price: "4500"
   - name: "Bosch Compress 7000i warmtepomp"
-    url: "/go/bosch-warmtepomp"
+    url: "/go/bosch"
     price: "3900"
 ---
 
@@ -267,7 +267,7 @@ Een van de meest verkochte warmtepompen in Nederland. Betrouwbaar, breed beschik
 - Beschikbaar in 4-16 kW
 - Ingebouwde 230-liter boiler voor warm tapwater
 
-[Bekijk de Daikin Altherma 3](/go/daikin-altherma)
+[Bekijk de Daikin Altherma 3](/go/daikin)
 
 ### Bosch Compress 7000i
 
@@ -277,7 +277,7 @@ Bekende merknaam, breed service-netwerk, goede prijs-kwaliteitverhouding.
 - Modbus-integratie voor slimme energiesystemen
 - Geschikt voor monovalent en hybride gebruik
 
-[Bekijk de Bosch Compress warmtepomp](/go/bosch-warmtepomp)
+[Bekijk de Bosch Compress warmtepomp](/go/bosch)
 
 ---
 
@@ -381,9 +381,9 @@ Dit is een lastig vraagstuk. Een lucht-water warmtepomp vereist een buitenunit, 
 
 ---
 
-<a href="/go/daikin-altherma" class="cta-affiliate" rel="sponsored noopener">Bekijk de Daikin Altherma 3 warmtepomp</a>
+<a href="/go/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk de Daikin Altherma 3 warmtepomp</a>
 
-<a href="/go/bosch-warmtepomp" class="cta-affiliate" rel="sponsored noopener">Bekijk de Bosch Compress warmtepomp</a>
+<a href="/go/bosch" class="cta-affiliate" rel="sponsored noopener">Bekijk de Bosch Compress warmtepomp</a>
 
 ## Gerelateerde artikelen
 
