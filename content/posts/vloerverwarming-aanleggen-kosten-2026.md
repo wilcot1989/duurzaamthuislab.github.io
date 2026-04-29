@@ -29,7 +29,7 @@ faq:
     a: "Volledig verbouwingsvrij is lastig, maar met een dry-systeem is de impact minimaal: geen zaagwerk in de vloer, geen opbrekende beton. Je legt de systeemplaten op de bestaande vloer, sluit de leidingen aan op een kleine verdeler en verbindt die met de ketel of warmtepomp. De deuren moeten mogelijk iets worden ingekort vanwege de extra opbouwhoogte."
 products:
   - name: "ATAG lucht-water warmtepomp"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "9500"
 ---
 
@@ -210,7 +210,7 @@ Alle lucht-water warmtepompen zijn geschikt voor vloerverwarming, maar let op he
 
 **Minimale aanvoertemperatuur.** De meeste moderne warmtepompen kunnen 35°C aanvoertemperatuur leveren. Voor goed geïsoleerde woningen (label A of B) is 35–40°C voldoende. Bij label C of slechter heb je 45–50°C nodig — controleer of de warmtepomp dat efficiënt kan leveren.
 
-**Hybride of volledig elektrisch?** Een hybride warmtepomp (warmtepomp + cv-ketel) is een goede tussenstap voor woningen die nog niet volledig verduurzaamd zijn. De warmtepomp doet het gros van het werk bij lagere buitentemperaturen; de cv-ketel springt bij op de koudste dagen. [ATAG biedt een hybride systeem](/go/atag) dat goed integreert met vloerverwarming en geschikt is voor bestaande woningen.
+**Hybride of volledig elektrisch?** Een hybride warmtepomp (warmtepomp + cv-ketel) is een goede tussenstap voor woningen die nog niet volledig verduurzaamd zijn. De warmtepomp doet het gros van het werk bij lagere buitentemperaturen; de cv-ketel springt bij op de koudste dagen. [ATAG biedt een hybride systeem](https://go.duurzaamthuislab.nl/atag) dat goed integreert met vloerverwarming en geschikt is voor bestaande woningen.
 
 **Buffervat of direct.** Vloerverwarming heeft een grote thermische massa — het systeem reageert traag. Sommige warmtepompen werken beter met een buffervat van 80–200 liter. Dat vermindert het aantal starts en stops van de compressor en verhoogt de levensduur.
 
@@ -260,7 +260,7 @@ Prijsverschillen van 20–40% zijn normaal. Zorg dat de offertes vergelijkbaar z
 Als je vloerverwarming aanlegt zonder tegelijk een warmtepomp te installeren, betaal je straks een tweede keer voor de aansluiting en loodgieterswerk. Plan beide tegelijk — de besparing op arbeidskosten kan €1.000–€2.000 bedragen.
 
 **Stap 5: Controleer subsidie**
-Voor een lucht-water warmtepomp in combinatie met vloerverwarming is ISDE-subsidie beschikbaar: €1.500–€4.000 afhankelijk van het model. [ATAG warmtepompen](/go/atag) staan op de actuele RVO-lijst.
+Voor een lucht-water warmtepomp in combinatie met vloerverwarming is ISDE-subsidie beschikbaar: €1.500–€4.000 afhankelijk van het model. [ATAG warmtepompen](https://go.duurzaamthuislab.nl/atag) staan op de actuele RVO-lijst.
 
 ---
 

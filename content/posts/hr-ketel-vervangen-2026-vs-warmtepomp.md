@@ -25,10 +25,10 @@ faq:
     a: "Een hybride warmtepomp is een compact buitenunit die warmte uit de lucht haalt en je woning verwarmt. Bij milde temperaturen (boven 0°C) doet de warmtepomp al het werk. Bij vriesweer neemt de cv-ketel automatisch over. Een slim regelalgoritme kiest altijd de goedkoopste energiebron."
 products:
   - name: "Atag warmtepomp"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "op aanvraag"
   - name: "Quatt hybride warmtepomp"
-    url: "/go/quatt"
+    url: "https://go.duurzaamthuislab.nl/quatt"
     price: "3500"
 ---
 
@@ -168,7 +168,7 @@ Als je toch voor een HR-ketel kiest, zijn dit de huidige prijzen:
 
 ## De hybride warmtepomp in detail
 
-### [Quatt hybride warmtepomp](/go/quatt)
+### [Quatt hybride warmtepomp](https://go.duurzaamthuislab.nl/quatt)
 
 Quatt is een Nederlandse startup die de hybride warmtepomp als dienst aanbiedt. In plaats van €5.000-€6.000 ineens te betalen, betaal je maandelijks een abonnement (€49-€89/maand). Quatt regelt installatie, onderhoud en monitoring.
 
@@ -184,7 +184,7 @@ Quatt is een Nederlandse startup die de hybride warmtepomp als dienst aanbiedt. 
 
 **Mijn observatie:** voor mensen die de grote investering willen vermijden maar wel willen verduurzamen, is Quatt een aantrekkelijk alternatief. De maandlasten zijn vergelijkbaar met de gasbesparing in de meeste situaties.
 
-### [Atag hybride warmtepomp](/go/atag)
+### [Atag hybride warmtepomp](https://go.duurzaamthuislab.nl/atag)
 
 Atag (eigendom van ORAS Group, Nederlands merk) biedt een traditioneel aankoopmodel voor hun hybride warmtepomp. De Atag Elga Ace is ontworpen om met Atag cv-ketels te werken en heeft een uitgebreid dealernetwerk in Nederland.
 

@@ -29,7 +29,7 @@ faq:
     a: "Een zonneboiler vereist jaarlijkse controle van de vloeistof in de collector (glycolmenging), de expansievaten en eventuele lekken. Dat kost €100–€200 per jaar. Een warmtepompboiler heeft nauwelijks onderhoud nodig: af en toe de anode controleren en de luchtroosters schoon houden is voldoende."
 products:
   - name: "ATAG E-HP warmtepompboiler"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "2200"
 ---
 
@@ -319,7 +319,7 @@ Als je besluit voor een warmtepompboiler te gaan:
 
 **5. Vraag offertes bij drie installateurs.** Installatiekosten variëren enorm — van €500 tot €1.200 voor dezelfde klus. Een tweede mening loont altijd.
 
-De [ATAG E-HP warmtepompboiler](/go/atag) is in de meeste gangbare situaties een solide keuze: goed COP, stille compressor, ISDE-goedgekeurd en leverbaar in 150, 200 en 270 liter. ATAG biedt ook ondersteuning voor PV-koppeling via een timer-instelling die overdag de boiler voorrang geeft op zonne-overschot — dat is precies de functie die het verschil maakt bij een terugverdientijd van 3 versus 6 jaar. Vraag bij de offerte altijd of de PV-prioriteitsmodus kosteloos kan worden geconfigureerd: de meeste installateurs kennen de instelling, maar activeren hem niet standaard.
+De [ATAG E-HP warmtepompboiler](https://go.duurzaamthuislab.nl/atag) is in de meeste gangbare situaties een solide keuze: goed COP, stille compressor, ISDE-goedgekeurd en leverbaar in 150, 200 en 270 liter. ATAG biedt ook ondersteuning voor PV-koppeling via een timer-instelling die overdag de boiler voorrang geeft op zonne-overschot — dat is precies de functie die het verschil maakt bij een terugverdientijd van 3 versus 6 jaar. Vraag bij de offerte altijd of de PV-prioriteitsmodus kosteloos kan worden geconfigureerd: de meeste installateurs kennen de instelling, maar activeren hem niet standaard.
 
 ---
 

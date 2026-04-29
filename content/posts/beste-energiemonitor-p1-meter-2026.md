@@ -273,7 +273,7 @@ De **HomeWizard P1 Meter** is de beste keuze voor vrijwel iedereen: €30, 5 min
 Ben je Tibber-klant? Dan is de **Tibber Pulse** een logische keuze voor maximale integratie. Home Assistant-enthousiastelingen kiezen de **Youless LS120** voor de beste lokale API.
 
 
-<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
 ## Vijf dingen die ik wilde weten voordat ik een P1-meter kocht
 

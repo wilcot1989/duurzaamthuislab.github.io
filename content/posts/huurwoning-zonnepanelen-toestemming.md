@@ -29,7 +29,7 @@ faq:
     a: "Ja. Als een verhuurder zonnepanelen plaatst als verduurzaming, kan hij een huurverhoging doorvoeren. Bij sociale huur geldt een maximale huurverhoging van €10/mnd per energielabel-stap verbetering. Bij vrije sector: contractueel vastgelegd. De energierekening-besparing moet groter zijn dan de huurverhoging om voordelig te zijn."
 products:
   - name: "Zonneplan zonnepanelen"
-    url: "/go/zonneplan"
+    url: "https://go.duurzaamthuislab.nl/zonneplan"
     price: "0"
   - name: "Balkonzonnepanelen (plug-in)"
     url: "https://www.praxis.nl/elektrisch-rijden-smart-home/zonne-energie/balkon-zonnepanelen"
@@ -217,4 +217,4 @@ Als jouw verhuurder positief staat tegenover verduurzaming maar niet zelf wil in
 Huren is geen reden om niet te verduurzamen. Het vraagt alleen een andere aanpak.
 
 
-<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>

@@ -424,4 +424,4 @@ Als je budget onder €6.000 is en je wilt NL-service: kies Huawei LUNA2000 of S
 *Laatst bijgewerkt: mei 2026.*
 
 
-<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

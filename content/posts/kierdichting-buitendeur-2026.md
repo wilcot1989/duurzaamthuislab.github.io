@@ -29,10 +29,10 @@ faq:
     a: "Dat hangt af van uw situatie. Als woningeigenaar mag u uw eigen brievenbus aanpassen of verplaatsen — zolang post bezorgd kan worden. PostNL en DHL vereisen een brievenbus die bereikbaar is. Als u de brievenbusopening in de deur wil dichtmaken, plaatst u een alternatieve brievenbus op de gevel of een vrijstaande paal. Huurders moeten toestemming vragen aan de verhuurder voor permanente wijzigingen."
 products:
   - name: "EPDM tochtstrip buitendeur (set voor 1 deur)"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "18"
   - name: "Automatische tochtdrempel voor buitendeur"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "45"
 ---
 
@@ -275,7 +275,7 @@ Nee, kierdichting alleen is niet aftrekbaar. Maar als onderdeel van een grotere 
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 
-<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk verduurzamen →</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk verduurzamen →</a>
 
 ## Gerelateerde artikelen
 

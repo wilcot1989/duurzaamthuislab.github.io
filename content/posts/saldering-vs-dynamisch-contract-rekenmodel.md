@@ -192,7 +192,7 @@ De drie populairste in 2026:
 
 **Voor wie**: EV-bezitters, smart-home liefhebbers, mensen die graag automatiseren.
 
-[Lees mijn Tibber review →](/posts/tibber-review-ervaringen-2026/) · <a href="/go/tibber" class="cta-affiliate">Bekijk Tibber</a>
+[Lees mijn Tibber review →](/posts/tibber-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate">Bekijk Tibber</a>
 
 ### Frank Energie
 
@@ -202,7 +202,7 @@ De drie populairste in 2026:
 
 **Voor wie**: Mensen die zelf hun verbruik prima sturen en de laagste prijs willen.
 
-[Lees mijn Frank Energie review →](/posts/frank-energie-review-ervaringen-2026/) · <a href="/go/frank-energie" class="cta-affiliate">Bekijk Frank Energie</a>
+[Lees mijn Frank Energie review →](/posts/frank-energie-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate">Bekijk Frank Energie</a>
 
 ### ANWB Energie Dynamisch
 

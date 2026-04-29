@@ -402,7 +402,7 @@ Ik heb een eenvoudig keuzemodel gemaakt voor wie twijfelt. Beantwoord deze vijf 
 
 [Volledige Sessy review →](/posts/sessy-review-thuisbatterij-nederland/) · [Marstek review →](/posts/marstek-venus-review-thuisbatterij/) · [Zonneplan review →](/posts/zonneplan-thuisbatterij-review-2026/)
 
-<a href="/go/sessy" class="cta-affiliate">Bekijk Sessy</a> · <a href="/go/zonneplan" class="cta-affiliate">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate">Bekijk Zonneplan</a>
 
 ---
 

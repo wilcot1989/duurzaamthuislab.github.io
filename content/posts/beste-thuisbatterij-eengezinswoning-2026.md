@@ -27,10 +27,10 @@ faq:
     a: "Vraag altijd: welk batterijtype (LFP vs NMC), netto bruikbare capaciteit (niet de bruto), garantievoorwaarden per jaar, omvormer inbegrepen of apart, softwareupdates inbegrepen, en welke kosten er na 10 jaar komen. Vergelijk op prijs per bruikbare kWh."
 products:
   - name: "Sessy thuisbatterij (5 kWh)"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "5995"
   - name: "Marstek Venus (5 kWh)"
-    url: "/go/marstek"
+    url: "https://go.duurzaamthuislab.nl/marstek"
     price: "2299"
 ---
 
@@ -74,7 +74,7 @@ Voordat ik systemen bespreek, is het nuttig te weten wat het typische energiepro
 
 ### Sessy thuisbatterij — de zekere keuze
 
-[Sessy](/go/sessy) is een Nederlands bedrijf (Amsterdam) dat de markt betrad met één doel: de thuisbatterij toegankelijk maken voor gewone huizenbezitters zonder technische kennis.
+[Sessy](https://go.duurzaamthuislab.nl/sessy) is een Nederlands bedrijf (Amsterdam) dat de markt betrad met één doel: de thuisbatterij toegankelijk maken voor gewone huizenbezitters zonder technische kennis.
 
 **Capaciteit:** 5 kWh netto bruikbaar (5,2 kWh bruto)  
 **Type:** lithium-ijzerfosfaat (LFP) — veiligste chemie, geen brand- of explosierisico  
@@ -100,7 +100,7 @@ Ook: Sessy heeft slechts 5 kWh. Voor een groot huishouden met een laadpaal of wa
 
 ### Marstek Venus — de verstandige keuze voor kopers met installatiekennis
 
-[Marstek](/go/marstek) is een Chinese fabrikant (gelieerd aan BYD-technologie) die de europese markt heeft betreden met een duidelijk onderscheidende propositie: maximale specificaties voor een lage prijs.
+[Marstek](https://go.duurzaamthuislab.nl/marstek) is een Chinese fabrikant (gelieerd aan BYD-technologie) die de europese markt heeft betreden met een duidelijk onderscheidende propositie: maximale specificaties voor een lage prijs.
 
 **Capaciteit:** 5,12 kWh netto bruikbaar  
 **Type:** LFP  
@@ -215,9 +215,9 @@ Elke batterij heeft een round-trip efficiency van 90–95%. Dat betekent: 5 kWh 
 
 Voor een Nederlands eengezinshuis met 4-5 personen, 8–20 zonnepanelen en gemiddeld verbruik:
 
-**Kies [Marstek Venus](/go/marstek) als** je bereid bent een goede installateur te vinden en prijs belangrijk is. Beste waarde-per-kWh op de markt.
+**Kies [Marstek Venus](https://go.duurzaamthuislab.nl/marstek) als** je bereid bent een goede installateur te vinden en prijs belangrijk is. Beste waarde-per-kWh op de markt.
 
-**Kies [Sessy](/go/sessy) als** je gemak en NL-support zwaarder laat wegen dan prijs, en bereid bent €3.500–€4.000 meer te betalen voor dat comfort.
+**Kies [Sessy](https://go.duurzaamthuislab.nl/sessy) als** je gemak en NL-support zwaarder laat wegen dan prijs, en bereid bent €3.500–€4.000 meer te betalen voor dat comfort.
 
 **Wacht nog even als** je niet zeker bent of je huis volgend jaar verbeterd gaat worden (dakisolatie, warmtepomp), want dan verandert je energieprofiel en dus de ideale batterijomvang.
 

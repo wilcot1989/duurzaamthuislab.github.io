@@ -27,7 +27,7 @@ faq:
     a: "Op papier spaar je €800–€1.500 installatiekosten. Maar je bent zelf verantwoordelijk voor de netaanmelding, riskeert garantieverlies op omvormer en panelen, en draagt alle aansprakelijkheid bij fouten. Voor de meeste huiseigenaren wegen de voordelen niet op tegen de risico's."
 products:
   - name: "Zonneplan zonnepanelen"
-    url: "/go/zonneplan"
+    url: "https://go.duurzaamthuislab.nl/zonneplan"
     price: "op aanvraag"
 ---
 
@@ -201,7 +201,7 @@ Kleine systemen tot 600 W (EU-norm) die rechtstreeks via een schuko-stekker word
 
 ## Wat Zonneplan anders doet dan een losse installateur
 
-[Zonneplan](/go/zonneplan) werkt met een platform-model: je vraagt online een offerte aan, je dak wordt beoordeeld via satellietdata en je ontvangt een gedetailleerd voorstel. Daarna wordt een gecertificeerde lokale installateur ingeschakeld.
+[Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) werkt met een platform-model: je vraagt online een offerte aan, je dak wordt beoordeeld via satellietdata en je ontvangt een gedetailleerd voorstel. Daarna wordt een gecertificeerde lokale installateur ingeschakeld.
 
 **Voordelen:**
 - Prijstransparantie vóór afspraak
@@ -265,11 +265,11 @@ Beantwoord de volgende vragen:
 
 Na alles uitgerekend en afgewogen: voor de gemiddelde huiseigenaar zonder technische achtergrond raad ik een gecertificeerde installateur aan. Het verschil in terugverdientijd is circa 2 jaar op een systeem van 25 jaar. De risico's — garantieverlies, verzekeringsuitsluitingen, dakschade, stroom- en valgevaar — zijn disproportioneel groot ten opzichte van die besparing.
 
-Als je wil vergelijken wat een professionele installatie bij jou kost, is [Zonneplan](/go/zonneplan) een transparante eerste stap voor een vrijblijvende offerte.
+Als je wil vergelijken wat een professionele installatie bij jou kost, is [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) een transparante eerste stap voor een vrijblijvende offerte.
 
 Als je toch DIY overweegt: begin in elk geval met een plug-and-play balkonpaneel (max 600W, schuko-stekker, netaanmelding via formulier netbeheerder) om het systeem te leren kennen. En huur altijd een erkend elektricien in voor de definitieve netaansluiting.
 
-**[Vraag een offerte aan bij Zonneplan](/go/zonneplan)**
+**[Vraag een offerte aan bij Zonneplan](https://go.duurzaamthuislab.nl/zonneplan)**
 
 ---
 

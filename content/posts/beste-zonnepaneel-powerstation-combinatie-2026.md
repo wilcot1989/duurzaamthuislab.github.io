@@ -352,4 +352,4 @@ Welke set je ook kiest: met een solar generator heb je altijd en overal stroom, 
 Wil je meer weten over de individuele powerstations? Bekijk dan onze uitgebreide [vergelijking van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/). Twijfel je tussen een draagbaar systeem en een vaste thuisbatterij? Lees dan [Powerstation vs Thuisbatterij: Wat is het Verschil?](/posts/powerstation-vs-thuisbatterij-2026/).
 
 
-<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

@@ -29,7 +29,7 @@ faq:
     a: "Ja, Zonneplan heeft een specifiek VvE-aanbod met collectieve inkoop, begeleiding bij vergaderingen en postcoderoos-registratie. Ze werken met een vast jaarlijks servicecontract waardoor je als VvE geen eigen onderhoud hoeft te regelen."
 products:
   - name: "Zonneplan VvE"
-    url: "/go/zonneplan"
+    url: "https://go.duurzaamthuislab.nl/zonneplan"
     price: "op aanvraag"
 ---
 
@@ -223,7 +223,7 @@ Wat ik had willen weten vooraf:
 
 ## Zonneplan als VvE-partner
 
-Als ik nu opnieuw zou beginnen, zou ik serieus kijken naar [Zonneplan's VvE-aanbod](/go/zonneplan). Ze begeleiden het hele traject — van informatieavond tot SDE++-aanvraag — en hebben specifieke ervaring met appartementencomplexen. Ze werken met een all-in servicecontract, waardoor de VvE geen eigen onderhoud hoeft te regelen.
+Als ik nu opnieuw zou beginnen, zou ik serieus kijken naar [Zonneplan's VvE-aanbod](https://go.duurzaamthuislab.nl/zonneplan). Ze begeleiden het hele traject — van informatieavond tot SDE++-aanvraag — en hebben specifieke ervaring met appartementencomplexen. Ze werken met een all-in servicecontract, waardoor de VvE geen eigen onderhoud hoeft te regelen.
 
 Dat maakt het bestuurlijk een stuk eenvoudiger, ook voor VvE's zonder technische kennis in het bestuur.
 
@@ -257,7 +257,7 @@ Zonnepanelen op een VvE-complex is haalbaar, maar vraagt geduld, goede communica
 
 Het eindresultaat is een lager gemeenschappelijk energieverbruik, lagere servicekosten en een verduurzaamd complex dat aantrekkelijker is op de woningmarkt. Voor een VvE van gemiddelde omvang is de terugverdientijd 8-12 jaar — wat voor een collectieve investering acceptabel is.
 
-Heb je vragen over jouw specifieke situatie? Laat het me weten in de reacties, of vraag een vrijblijvend adviesgesprek aan via [Zonneplan](/go/zonneplan).
+Heb je vragen over jouw specifieke situatie? Laat het me weten in de reacties, of vraag een vrijblijvend adviesgesprek aan via [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan).
 
 ---
 
@@ -331,7 +331,7 @@ Het VvE-traject voor zonnepanelen duurt lang, vraagt geduld en soms oefening in 
 
 Begin klein: peiling, informatieavond, één offerte aanvragen. Zet die eerste stap vandaag. In de meeste VvE's die ik ken, was de grootste drempel niet de techniek of het geld — maar de eerste stap zetten.
 
-Wil je daarbij geholpen worden? [Zonneplan](/go/zonneplan) heeft specifieke ervaring met VvE-trajecten en kan je begeleiden van de eerste informatieavond tot de SDE++-aanvraag.
+Wil je daarbij geholpen worden? [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) heeft specifieke ervaring met VvE-trajecten en kan je begeleiden van de eerste informatieavond tot de SDE++-aanvraag.
 
 ---
 

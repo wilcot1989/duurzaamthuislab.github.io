@@ -408,4 +408,4 @@ De afbouw van saldering markeert een verschuiving in hoe we omgaan met zonne-ene
 Wil je je voorbereiden op de nieuwe situatie? Lees ook onze artikelen over de [beste thuisbatterijen](/posts/beste-thuisbatterij-nederland-2026/) en [beschikbare subsidies voor zonnepanelen](/posts/zonnepanelen-subsidie-nederland-2026/).
 
 
-<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

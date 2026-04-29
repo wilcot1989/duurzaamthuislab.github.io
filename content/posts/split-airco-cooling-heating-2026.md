@@ -29,10 +29,10 @@ faq:
     a: "Een reverse-cycle airco werkt als een warmtepomp: een compressor comprimeert koudemiddel, dat warmte opneemt uit de buitenlucht en die warmte binnenshuis afgeeft via de binnenunit. Door de stroomrichting om te draaien (via een 4-wegsventiel) koelt de unit in de zomer. Hetzelfde principe als een gewone warmtepomp, maar dan met lucht als distributiemiddel in plaats van water."
 products:
   - name: "Daikin Perfera split-airco (3,5 kW)"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "1899"
   - name: "Daikin Emura split-airco (2,5 kW)"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "2299"
 ---
 
@@ -322,7 +322,7 @@ Als u overweegt een split-airco aan te schaffen als verwarmings- en koeloplossin
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 
-<a href="/go/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin →</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="sponsored noopener">Bekijk Daikin →</a>
 
 ## Gerelateerde artikelen
 

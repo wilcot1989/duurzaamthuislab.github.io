@@ -231,7 +231,7 @@ Voor de gemiddelde Nederlandse zonnepaneelbezitter is Frank Energie in 2026 de s
 
 Voor EV-bezitters: kies Tibber. De native EV-integratie is €30-€60/maand waard.
 
-<a href="/go/frank-energie" class="cta-affiliate">Bekijk Frank Energie</a> · [Tibber review →](/posts/tibber-review-ervaringen-2026/)
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate">Bekijk Frank Energie</a> · [Tibber review →](/posts/tibber-review-ervaringen-2026/)
 
 ---
 

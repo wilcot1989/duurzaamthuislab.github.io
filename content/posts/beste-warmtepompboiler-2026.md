@@ -27,22 +27,22 @@ faq:
     a: "Nee, de meeste warmtepompboilers draaien op een gewone 230V/16A groep — dezelfde als een wasmachine. Er is geen 3-fasen aansluiting nodig. Wel heb je voldoende ruimte nodig voor de buitenluchtaansluiting: de boiler trekt warme lucht aan en blaast koude lucht uit. Dat kan via een rooster in de muur of via luchtkanaaltjes naar buiten."
 products:
   - name: "ATAG E-HP warmtepompboiler"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "2200"
   - name: "Daikin EKHWP warmtepompboiler"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "2500"
   - name: "Itho Daalderop HP Cube"
-    url: "/go/itho-daalderop"
+    url: "https://go.duurzaamthuislab.nl/itho-daalderop"
     price: "2800"
   - name: "Inventum Ecolution Solo"
-    url: "/go/inventum"
+    url: "https://go.duurzaamthuislab.nl/inventum"
     price: "1699"
   - name: "Bosch Compress 5000DW"
-    url: "/go/bosch"
+    url: "https://go.duurzaamthuislab.nl/bosch"
     price: "2100"
   - name: "ARISTON Lydos Hybrid"
-    url: "/go/ariston"
+    url: "https://go.duurzaamthuislab.nl/ariston"
     price: "1950"
 ---
 
@@ -411,7 +411,7 @@ Wat ik Joost uiteindelijk heb geadviseerd: de Itho Daalderop HP Cube 200L, mede 
 *Vragen over jouw specifieke situatie — welk model past bij jouw woning, zonnepanelen of huishoudgrootte? Laat een reactie achter, ik beantwoord ze graag.*
 
 
-<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

@@ -27,10 +27,10 @@ faq:
     a: "Nee, niet als je nu concrete energiebehoefte hebt. LiFePO4-thuisbatterijen zijn volwassen, betrouwbaar en worden met ISDE-subsidie ondersteund. De kans dat de volgende generatie (solid-state, natrium-ion) significant goedkoper is binnen 2-3 jaar is klein. Wacht niet op perfectie als de huidige technologie al uitstekend is."
 products:
   - name: "Sessy thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "3999"
   - name: "Marstek B5000"
-    url: "/go/marstek"
+    url: "https://go.duurzaamthuislab.nl/marstek"
     price: "3499"
 ---
 
@@ -406,9 +406,9 @@ De ISDE-subsidie is gebonden aan de erkende-typenlijst van de RVO, die jaarlijks
 
 ---
 
-<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk de Sessy thuisbatterij (LiFePO4)</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk de Sessy thuisbatterij (LiFePO4)</a>
 
-<a href="/go/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk de Marstek B5000 (LiFePO4)</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk de Marstek B5000 (LiFePO4)</a>
 
 ## Gerelateerde artikelen
 

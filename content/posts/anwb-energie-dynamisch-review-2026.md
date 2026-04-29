@@ -430,7 +430,7 @@ ANWB Energie Dynamisch is een **goede middelenoplossing**. Niet de scherpste pri
 
 Voor mijn vriend was het de juiste keus omdat zijn vrouw mentaal niet aan kon dat de prijs 4× kon worden. Zonder dempingsmechanisme had hij waarschijnlijk Frank gekozen en gemiddeld €100 extra per jaar bespaard.
 
-<a href="/go/anwb-energie" class="cta-affiliate">Bekijk ANWB Energie</a>
+<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta-affiliate">Bekijk ANWB Energie</a>
 
 *Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 

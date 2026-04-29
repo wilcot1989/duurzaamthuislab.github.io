@@ -21,13 +21,13 @@ faq:
     a: "De calculator hanteert een vereenvoudigde ROI-berekening. Een thuisbatterij is interessant als de terugverdientijd onder de 12 jaar ligt — maar dat hangt ook af van je specifieke gebruik, energieprijsontwikkeling en of je ISDE-subsidie kunt aanvragen. Zie de tabel in het artikel voor meer scenario's."
 products:
   - name: "Sessy 5 kWh thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "3795"
   - name: "Marstek Venus thuisbatterij"
-    url: "/go/marstek"
+    url: "https://go.duurzaamthuislab.nl/marstek"
     price: "3200"
   - name: "Tibber dynamisch contract"
-    url: "/go/tibber"
+    url: "https://go.duurzaamthuislab.nl/tibber"
     price: "6"
 faq:
   - q: "Wat zijn de belangrijkste voordelen?"
@@ -209,14 +209,14 @@ function berekenSaldering() {
     batterijDiv.innerHTML = '<div style="background:#f0f7f4; border-radius:8px; padding:1rem; border:1px solid #2d7d46;">' +
       '<strong>Thuisbatterij is voor jou rendabel</strong> — terugverdientijd ~' + fmtJr(terugverdienJaar) + ' (na ISDE-subsidie).<br>' +
       'Een 5 kWh batterij kan ~' + Math.round(opvangbaar) + ' kWh/jaar extra zelf verbruiken → besparing ' + fmt(batterijBesparing) + '/jaar.<br><br>' +
-      '<a href="/go/sessy" style="background:#2d7d46; color:white; padding:.5rem 1rem; border-radius:6px; text-decoration:none; margin-right:.5rem; display:inline-block; margin-bottom:.3rem;">Sessy 5 kWh bekijken →</a> ' +
-      '<a href="/go/marstek" style="background:#1a5276; color:white; padding:.5rem 1rem; border-radius:6px; text-decoration:none; display:inline-block; margin-bottom:.3rem;">Marstek Venus bekijken →</a>' +
+      '<a href="https://go.duurzaamthuislab.nl/sessy" style="background:#2d7d46; color:white; padding:.5rem 1rem; border-radius:6px; text-decoration:none; margin-right:.5rem; display:inline-block; margin-bottom:.3rem;">Sessy 5 kWh bekijken →</a> ' +
+      '<a href="https://go.duurzaamthuislab.nl/marstek" style="background:#1a5276; color:white; padding:.5rem 1rem; border-radius:6px; text-decoration:none; display:inline-block; margin-bottom:.3rem;">Marstek Venus bekijken →</a>' +
       '</div>';
   } else {
     batterijDiv.style.display = 'block';
     batterijDiv.innerHTML = '<div style="background:#f9f9f9; border-radius:8px; padding:1rem; border:1px solid #ddd;">' +
       '<strong>Thuisbatterij is nu nog niet rendabel</strong> voor jouw situatie — terugverdientijd ~' + fmtJr(terugverdienJaar) + '.<br>' +
-      'Tip: een dynamisch contract (<a href="/go/tibber">Tibber</a>) is voor jou de betere eerste stap. Wacht op verdere prijsdaling van batterijen.' +
+      'Tip: een dynamisch contract (<a href="https://go.duurzaamthuislab.nl/tibber">Tibber</a>) is voor jou de betere eerste stap. Wacht op verdere prijsdaling van batterijen.' +
       '</div>';
   }
 
@@ -290,13 +290,13 @@ De calculator geeft je een richting, geen perfect antwoord. Zo ga je ermee om:
 
 Dynamisch contract — de makkelijkste stap die per direct helpt:
 
-- [Tibber](/go/tibber) — beste app, P1-meter integratie, €6,99/mnd
-- [Frank Energie](/go/frank-energie) — geen vaste kosten, solide app
+- [Tibber](https://go.duurzaamthuislab.nl/tibber) — beste app, P1-meter integratie, €6,99/mnd
+- [Frank Energie](https://go.duurzaamthuislab.nl/frank-energie) — geen vaste kosten, solide app
 
 Thuisbatterij — als de calculator groen licht geeft:
 
-- [Sessy 5 kWh](/go/sessy) — Nederlandse kwaliteit, eenvoudige installatie
-- [Marstek Venus](/go/marstek) — scherpe prijs, goede specs
+- [Sessy 5 kWh](https://go.duurzaamthuislab.nl/sessy) — Nederlandse kwaliteit, eenvoudige installatie
+- [Marstek Venus](https://go.duurzaamthuislab.nl/marstek) — scherpe prijs, goede specs
 
 Heb je vragen over de uitkomst of wil je dat ik meekijk bij jouw specifieke situatie? Laat een reactie achter.
 

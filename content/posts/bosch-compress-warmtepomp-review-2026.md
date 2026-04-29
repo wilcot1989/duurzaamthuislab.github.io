@@ -29,10 +29,10 @@ faq:
     a: "De gangbare Compress 5800 en 7800i gebruiken R32 (GWP 675). Bosch brengt ook nieuwe R290-modellen (propaan, GWP 3) op de markt, maar die zijn in 2026 nog beperkt leverbaar in Nederland. R290 is duurzamer maar vereist extra installatieveiligheidsmaatregelen."
 products:
   - name: "Bosch Compress 5800 lucht-water warmtepomp"
-    url: "/go/bosch"
+    url: "https://go.duurzaamthuislab.nl/bosch"
     price: "8500"
   - name: "Bosch Compress 7800i hybride warmtepomp"
-    url: "/go/bosch"
+    url: "https://go.duurzaamthuislab.nl/bosch"
     price: "10000"
 ---
 
@@ -323,7 +323,7 @@ De SCOP van 4,5 is niet de absolute top, maar voor een hybride die ook prima fun
 
 Heb je een Bosch cv-ketel, een woning met label D of slechter, en wil je nu beginnen met besparen zonder te wachten op een complete renovatie? Dan is de Compress 7800i hybride een van de sterkste opties op de markt.
 
-<a href="/go/bosch" class="cta-affiliate">Bekijk de Bosch Compress warmtepompen</a>
+<a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate">Bekijk de Bosch Compress warmtepompen</a>
 
 ---
 

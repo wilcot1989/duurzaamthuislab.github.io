@@ -25,10 +25,10 @@ faq:
     a: "De ISDE-regeling geeft subsidie op warmtepompen (tot €3.762) en zonneboilers. Isolatiemaatregelen zijn subsidieerbaar via het Warmtefonds (lening) of via gemeentelijke regelingen. Het SEEH-programma voor isolatie is in 2026 nog beschikbaar."
 products:
   - name: "Tibber dynamisch energiecontract"
-    url: "/go/tibber"
+    url: "https://go.duurzaamthuislab.nl/tibber"
     price: "variabel"
   - name: "Sessy thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "3999"
 ---
 
@@ -232,7 +232,7 @@ Een slimme thermostaat (Tado, Netatmo, Bosch EasyControl) leert je stookpatroon,
 
 ### 42. Tibber of ander dynamisch stroomcontract
 
-Met een [dynamisch energiecontract via Tibber](/go/tibber) betaal je de actuele marktprijs per uur. Door grote verbruikers (wasmachine, vaatwasser, EV-lader) in de goedkope uren te draaien, bespaar je **€150-€400 per jaar** afhankelijk van verbruik en flexibiliteit.
+Met een [dynamisch energiecontract via Tibber](https://go.duurzaamthuislab.nl/tibber) betaal je de actuele marktprijs per uur. Door grote verbruikers (wasmachine, vaatwasser, EV-lader) in de goedkope uren te draaien, bespaar je **€150-€400 per jaar** afhankelijk van verbruik en flexibiliteit.
 
 ### 43. Automatiseer je apparaten op goedkope uren
 
@@ -268,11 +268,11 @@ Een omvormer met monitoring (SolarEdge, Enphase) toont welk paneel minder preste
 
 ### 51. Thuisbatterij voor zelfverbruik overdag (€3.000-€6.000)
 
-Een [thuisbatterij zoals de Sessy](/go/sessy) slaat overdag opgewekte zonnestroom op voor gebruik 's avonds. Zelfverbruikspercentage stijgt van 30-35% naar 70-80%. Bij 3.000 kWh productie en €0,32/kWh tarief: **€400-€600 extra besparing per jaar**.
+Een [thuisbatterij zoals de Sessy](https://go.duurzaamthuislab.nl/sessy) slaat overdag opgewekte zonnestroom op voor gebruik 's avonds. Zelfverbruikspercentage stijgt van 30-35% naar 70-80%. Bij 3.000 kWh productie en €0,32/kWh tarief: **€400-€600 extra besparing per jaar**.
 
 ### 52. Virtuele batterij via Tibber
 
-[Tibber](/go/tibber) biedt via sommige partners een virtueel batterij-systeem waarbij je credits verdient bij teruglevering en inzet bij hoge prijzen. Geen hardware nodig — werkt met je slimme meter.
+[Tibber](https://go.duurzaamthuislab.nl/tibber) biedt via sommige partners een virtueel batterij-systeem waarbij je credits verdient bij teruglevering en inzet bij hoge prijzen. Geen hardware nodig — werkt met je slimme meter.
 
 ### 53. Zonnepanelen schoonmaken
 
@@ -416,9 +416,9 @@ Overproductie van zonnepanelen kun je inzetten via de boiler, EV of thuisbatteri
 
 ### 85. Thuisbatterij als buffer voor piekverbruik (€3.000-€6.000)
 
-Een [Sessy thuisbatterij](/go/sessy) slaat overdag goedkope stroom op en levert dit 's avonds. Besparing in combinatie met dynamisch contract: **€400-€800 per jaar**.
+Een [Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy) slaat overdag goedkope stroom op en levert dit 's avonds. Besparing in combinatie met dynamisch contract: **€400-€800 per jaar**.
 
-### 86. Virtuele batterij via [Tibber](/go/tibber)
+### 86. Virtuele batterij via [Tibber](https://go.duurzaamthuislab.nl/tibber)
 
 Tibber biedt via sommige partners een virtueel batterij-systeem waarbij je credits verdient bij teruglevering en inzet bij hoge prijzen. Geen hardware nodig.
 
@@ -456,7 +456,7 @@ Prijsverschillen tussen leveranciers kunnen oplopen tot €300-€500 per jaar. 
 
 ### 94. Kies een dynamisch contract met zonnepanelen
 
-Met zonnepanelen is een [dynamisch contract via Tibber](/go/tibber) bijna altijd voordeliger dan een vast contract. Je verkoopt overdag bij hoge prijzen en koopt 's nachts goedkoop in.
+Met zonnepanelen is een [dynamisch contract via Tibber](https://go.duurzaamthuislab.nl/tibber) bijna altijd voordeliger dan een vast contract. Je verkoopt overdag bij hoge prijzen en koopt 's nachts goedkoop in.
 
 ### 95. Onderhandel over je teruglevertarief
 

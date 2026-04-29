@@ -27,10 +27,10 @@ faq:
     a: "Bij enkelvoudige registratie van teruglevering (geen fysieke aanpassing): 1-4 weken. Bij een verzwaring van de aansluiting: 4-16 weken, afhankelijk van de drukte bij de netbeheerder. In 2026 zijn wachttijden door hoge vraag opgelopen tot soms 6 maanden in bepaalde regio's."
 products:
   - name: "Tibber"
-    url: "/go/tibber"
+    url: "https://go.duurzaamthuislab.nl/tibber"
     price: "0"
   - name: "Sessy thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "5995"
 ---
 
@@ -430,7 +430,7 @@ Neem de tijd. Vraag drie offertes. Gebruik de checklist uit dit artikel. Laat je
 Een zonnepaneel-installatie is een investering van €7.000-€12.000 die 25 jaar meegaat. Doe je huiswerk voor je tekent, en het zal een van de beste financiële beslissingen van je leven zijn.
 
 
-<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

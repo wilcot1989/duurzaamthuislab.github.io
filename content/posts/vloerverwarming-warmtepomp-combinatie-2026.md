@@ -335,7 +335,7 @@ Ja. Je kunt vloerverwarming leggen met tijdelijk een menggroep die de aanvoertem
 Slaapkamers met vloerverwarming zijn comfortabel maar niet altijd zinvol. De meeste mensen slapen goed bij een lager gestookte slaapkamer (17-18°C), waarvoor je minder dan 30 W/m² warmtevermogen nodig hebt — dat halen zelfs LT-radiatoren zonder extra kosten. Op de begane grond, waar je veel tijd doorbrengt op blote voeten, is het effect het meest merkbaar. Bij een verbouwing op de verdieping: leg de infrastructuur wel aan (leidingen, verdeler), maar de kosten zijn dan laag — later beslissen of je het activeert.
 
 
-<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
 ## Lees ook
 

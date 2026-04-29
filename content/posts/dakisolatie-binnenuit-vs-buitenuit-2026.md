@@ -29,10 +29,10 @@ faq:
     a: "Ja. Via de ISDE (Investeringssubsidie Duurzame Energie) is er subsidie beschikbaar voor dakisolatie met Rc ≥ 3,5 m²K/W. In 2026 bedraagt de subsidie €30 per m² tot een maximum van 30% van de investering. Vraag aan via RVO.nl. Sommige gemeenten hebben aanvullende subsidies."
 products:
   - name: "Tibber"
-    url: "/go/tibber"
+    url: "https://go.duurzaamthuislab.nl/tibber"
     price: "0"
   - name: "Sessy thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "5995"
 ---
 
@@ -466,7 +466,7 @@ Een luchtdicht aangebracht dampscherm reduceert ook tochtgevoelens. Koude lucht 
 Dakisolatie is de verduurzamingsmaatregel met de beste prijs-prestatieverhouding voor woningen met een ongeïsoleerd of slecht geïsoleerd dak. Begin hier, vóórdat je nadenkt over warmtepompen of zonnepanelen.
 
 
-<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

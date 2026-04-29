@@ -29,13 +29,13 @@ faq:
     a: "De salderingsregeling wordt in 2027 volledig afgebouwd. Voor huishoudens zonder zonnepanelen heeft dat geen directe impact. Maar het maakt thuisbatterijen interessanter voor de bredere markt, wat kan leiden tot lagere prijzen. Verwacht wordt dat thuisbatterijprijzen in 2027-2028 verder dalen door schaalvoordelen."
 products:
   - name: "Sessy thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "4499"
   - name: "Marstek thuisbatterij"
-    url: "/go/marstek"
+    url: "https://go.duurzaamthuislab.nl/marstek"
     price: "3999"
   - name: "Tibber dynamisch energiecontract"
-    url: "/go/tibber"
+    url: "https://go.duurzaamthuislab.nl/tibber"
     price: "variabel"
 ---
 
@@ -119,7 +119,7 @@ Op het Sessy-gebruikersforum en Reddit rapporteren gebruikers zonder zonnepanele
 
 **Mijn oordeel:** De Sessy is de meest logische keuze als je geen zonnepanelen hebt en een dynamisch contract wil afsluiten. Het systeem is specifiek voor dit doel gebouwd.
 
-[Bekijk de Sessy thuisbatterij](/go/sessy)
+[Bekijk de Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy)
 
 ---
 
@@ -139,7 +139,7 @@ Marstek is een relatief nieuw merk op de Nederlandse markt (Chinees, maar met Eu
 
 **Mijn oordeel:** Interessant als je de Sessy te duur vindt en bereid bent iets meer zelf te monitoren. Voor de meeste mensen is het prijsverschil van €300-€500 de verminderde software-kwaliteit niet waard, maar het is een legitieme optie.
 
-[Bekijk de Marstek thuisbatterij](/go/marstek)
+[Bekijk de Marstek thuisbatterij](https://go.duurzaamthuislab.nl/marstek)
 
 ---
 
@@ -157,7 +157,7 @@ Een thuisbatterij voor arbitrage is zinloos zonder een dynamisch energiecontract
 
 **Let op:** Bij dynamische contracten is de totale energieprijs onzeker. In een duur jaar (koud, weinig wind) zijn je energiekosten hoger dan bij een vast contract. Dinamische contracten lonen het meest als je actief en bewust energie stuurt.
 
-[Bekijk Tibber dynamisch contract](/go/tibber)
+[Bekijk Tibber dynamisch contract](https://go.duurzaamthuislab.nl/tibber)
 
 ---
 
@@ -361,7 +361,7 @@ Gebruik deze checklist om je beslissing te onderbouwen:
 
 Scoor je 8 of meer punten van de 12? Dan is een thuisbatterij zonder zonnepanelen het overwegen waard. Scoor je minder dan 6? Wacht dan nog even — investeer eerst in isolatie of ander laaghangende fruit.
 
-[Sessy thuisbatterij bekijken](/go/sessy) | [Marstek thuisbatterij bekijken](/go/marstek) | [Tibber dynamisch contract](/go/tibber)
+[Sessy thuisbatterij bekijken](https://go.duurzaamthuislab.nl/sessy) | [Marstek thuisbatterij bekijken](https://go.duurzaamthuislab.nl/marstek) | [Tibber dynamisch contract](https://go.duurzaamthuislab.nl/tibber)
 
 ---
 

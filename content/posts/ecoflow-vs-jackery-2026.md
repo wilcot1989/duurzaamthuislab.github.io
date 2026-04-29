@@ -442,4 +442,4 @@ Overweeg je een vast systeem voor thuis? Bekijk dan onze gids over de [beste thu
 **[Bekijk bij Jackery >>>](https://www.jackery.com/nl/)**
 
 
-<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

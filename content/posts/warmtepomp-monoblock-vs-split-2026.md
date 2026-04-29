@@ -29,13 +29,13 @@ faq:
     a: "Gedeeltelijk. De buitenunit heeft beperkingen: minimale afstand tot perceelgrens (vaak 3 meter in de gemeente-APV), minimale vrije ruimte rondom de unit voor luchtcirculatie (30-60 cm), en geluidseisen. De unit mag niet in een gesloten ruimte staan. Bij twijfel: vraag uw gemeente naar de plaatsingsregels en vraag de installateur om een geluidsberekening als uw buren dicht bij de geplande locatie wonen."
 products:
   - name: "Daikin Altherma 3 R split warmtepomp (8 kW)"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "10500"
   - name: "ATAG ENERGION hybride warmtepomp (split)"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "8200"
   - name: "Daikin Altherma 3 H HT Mono (monoblock)"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "9800"
 ---
 
@@ -357,7 +357,7 @@ Veel gemeenten bieden leningen van 0-2% rente voor warmtepompen. Gecombineerd me
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 
-<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepomp →</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepomp →</a>
 
 ## Gerelateerde artikelen
 

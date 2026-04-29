@@ -414,4 +414,4 @@ De afbouw van de [salderingsregeling](/posts/salderingsregeling-afbouw-wat-betek
 Benieuwd naar alle opties? Lees ons complete overzicht van de [beste thuisbatterijen voor Nederland in 2026](/posts/beste-thuisbatterij-nederland-2026/).
 
 
-<a href="/go/tesla-powerwall" class="cta-affiliate" rel="sponsored noopener">Bekijk Tesla Powerwall</a>
+<a href="https://go.duurzaamthuislab.nl/tesla-powerwall" class="cta-affiliate" rel="sponsored noopener">Bekijk Tesla Powerwall</a>

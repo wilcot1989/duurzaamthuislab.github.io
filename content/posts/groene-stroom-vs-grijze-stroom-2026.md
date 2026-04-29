@@ -261,7 +261,7 @@ Het prijsverschil tussen groen en grijs is verwaarloosbaar (€0-€50/jaar). Ki
 Maar vergeet niet: het grootste effect heb je met eigen zonnepanelen, een warmtepomp en slim energiegebruik.
 
 
-<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
 ## Groene stroom voor bedrijven: andere spelregels
 

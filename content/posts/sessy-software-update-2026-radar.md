@@ -27,7 +27,7 @@ faq:
     a: "Ja. Als je netbeheerder teruglevering toestaat (de meeste doen dat) en je dynamische leverancier teruglevering vergoedt op het live tarief, kan Sessy actief terugleveren bij hoge EPEX-prijzen. Niet alle leveranciers vergoeden dit op het spotmarkt-tarief — check je contract."
 products:
   - name: "Sessy thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "3999"
 ---
 
@@ -59,7 +59,7 @@ De Sessy is een Nederlandse thuisbatterij, ontwikkeld door Dutch New Energy (ond
 | Connectiviteit | Wifi, P1-poort |
 | Prijs 2026 | **€3.999** |
 
-**[Bekijk Sessy thuisbatterij](/go/sessy)**
+**[Bekijk Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy)**
 
 ---
 
@@ -310,7 +310,7 @@ De salderingsregeling vervalt per 2027. Dit verandert de waarde van een thuisbat
 
 Bij een netto Sessy-prijs van €3.999 geeft dit een terugverdientijd na 2027 van **6,4–8,6 jaar** — significant beter dan vandaag. De Sessy wordt financieel aantrekkelijker naarmate de saldering afbouwt.
 
-**[Bekijk Sessy thuisbatterij](/go/sessy)**
+**[Bekijk Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy)**
 
 ## Gerelateerde artikelen
 

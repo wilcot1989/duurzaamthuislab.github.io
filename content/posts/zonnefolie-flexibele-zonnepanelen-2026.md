@@ -29,10 +29,10 @@ faq:
     a: "Technisch ja, maar het vereist zorgvuldigheid. U kunt een aparte string aanleggen voor de flexibele panelen met een eigen micro-omvormer of een aparte ingang op een multi-string omvormer. Combineer flexibele en rigide panelen niet in dezelfde string — de elektrische kenmerken verschillen te veel. Een installateur kan u helpen met de configuratie."
 products:
   - name: "Flexibele zonnepanelen set (4× 100W voor camper/caravan)"
-    url: "/go/zonneplan"
+    url: "https://go.duurzaamthuislab.nl/zonneplan"
     price: "380"
   - name: "Zonneplan thuisinstallatie met aangepast systeem"
-    url: "/go/zonneplan"
+    url: "https://go.duurzaamthuislab.nl/zonneplan"
     price: "0"
 ---
 
@@ -321,7 +321,7 @@ Bij een investering van €600 is de terugverdientijd 4,8 jaar. Bescheiden, maar
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 
-<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan →</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan →</a>
 
 ## Gerelateerde artikelen
 

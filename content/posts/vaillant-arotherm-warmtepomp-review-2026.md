@@ -27,7 +27,7 @@ faq:
     a: "De aroTHERM plus (R290) is de nieuwste generatie met het milieuvriendelijkere koudemiddel en hogere SCOP. De aroTHERM exclusive (oudere lijn, R32) is iets goedkoper maar heeft een lagere milieuscore. In 2026 is de plus-lijn de standaardaanbeveling."
 products:
   - name: "Vaillant aroTHERM plus warmtepomp"
-    url: "/go/vaillant"
+    url: "https://go.duurzaamthuislab.nl/vaillant"
     price: "11500"
 ---
 
@@ -344,7 +344,7 @@ Frank in Apeldoorn zei het het scherpst: "Ik had hem ook met Daikin kunnen doen 
 
 Als je een goed geïsoleerde woning hebt, waarde hecht aan stilte en duurzaamheid, en bereid bent de meerprijs te betalen: de aroTHERM plus is uitstekend. Als je puur wilt optimaliseren op prijs of PV-koppeling: kijk ook naar Daikin.
 
-<a href="/go/vaillant" class="cta-affiliate">Bekijk de Vaillant aroTHERM plus</a>
+<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate">Bekijk de Vaillant aroTHERM plus</a>
 
 ---
 

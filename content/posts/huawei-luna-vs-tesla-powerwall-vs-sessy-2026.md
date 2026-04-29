@@ -29,13 +29,13 @@ faq:
     a: "Zonder saldering (vanaf 2027) en met een dynamisch contract ligt de terugverdientijd op 8-12 jaar voor de meeste systemen. De Sessy scoort iets beter bij actief gebruik met dynamische tarieven: sommige gebruikers rapporteren €600-€900 besparing per jaar."
 products:
   - name: "Sessy thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "4499"
   - name: "Tesla Powerwall 3"
-    url: "/go/tesla-powerwall"
+    url: "https://go.duurzaamthuislab.nl/tesla-powerwall"
     price: "9500"
   - name: "Huawei Luna 2000"
-    url: "/go/huawei-luna"
+    url: "https://go.duurzaamthuislab.nl/huawei-luna"
     price: "6000"
 ---
 
@@ -216,9 +216,9 @@ Is dat verstandig? Financieel gezien heeft het een terugverdientijd van 10-12 ja
 
 Bekijk de opties via de onderstaande links:
 
-- [Sessy thuisbatterij](/go/sessy)
-- [Tesla Powerwall 3](/go/tesla-powerwall)
-- [Huawei Luna 2000](/go/huawei-luna)
+- [Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy)
+- [Tesla Powerwall 3](https://go.duurzaamthuislab.nl/tesla-powerwall)
+- [Huawei Luna 2000](https://go.duurzaamthuislab.nl/huawei-luna)
 
 ---
 
@@ -356,7 +356,7 @@ Na alles wat ik heb onderzocht en ervaren, zou ik de drie batterijen rangschikke
 
 Er is geen universele winnaar. De beste thuisbatterij is de batterij die past bij jouw omvormer, jouw budget, jouw gebruik en jouw risicotolerantie. Laat je niet verleiden door marketingtaal — reken je eigen situatie door.
 
-[Sessy thuisbatterij](/go/sessy) | [Tesla Powerwall 3](/go/tesla-powerwall) | [Huawei Luna 2000](/go/huawei-luna)
+[Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy) | [Tesla Powerwall 3](https://go.duurzaamthuislab.nl/tesla-powerwall) | [Huawei Luna 2000](https://go.duurzaamthuislab.nl/huawei-luna)
 
 ---
 

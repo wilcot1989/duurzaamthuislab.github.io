@@ -25,7 +25,7 @@ faq:
     a: "Nee, juist kleiner. De piekproductie bij oost-west is lager dan bij zuidsystemen, omdat oost en west nooit tegelijk op volle capaciteit zitten. Dit vermindert de oversizing van de omvormer. Een 5 kW omvormer kan prima 8-10 kWp aan panelen aan bij oost-west."
 products:
   - name: "Zonneplan zonnepanelen"
-    url: "/go/zonneplan"
+    url: "https://go.duurzaamthuislab.nl/zonneplan"
     price: "op aanvraag"
 ---
 
@@ -179,7 +179,7 @@ Met micro-omvormers (Enphase) of power optimizers (SolarEdge) is het effect van 
 
 ---
 
-## Wat [Zonneplan](/go/zonneplan) adviseert
+## Wat [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) adviseert
 
 Zonneplan is een van de Nederlandse installateurs die actief adviseert over de juiste oriëntatie op basis van je specifieke dak, verbruiksprofiel en de salderingscontext. Ze bieden gratis dakscans aan waarbij ze de exacte opbrengst per oriëntatie berekenen.
 
@@ -212,7 +212,7 @@ In 2026 (volledige saldering) heeft mijn buurman een marginaal voordeel: zijn ho
 De mythe dat zuidsystemen altijd beter zijn, klopt niet meer in de context van de salderingsafbouw. Voor zadeldaken met beschikbare oost- en westdakvlakken is oost-west in 2026 vrijwel altijd de slimmere keuze — zeker als je niet direct een thuisbatterij installeert.
 
 **Mijn aanbeveling:**
-1. Laat een dakscan uitvoeren door [Zonneplan](/go/zonneplan) met berekening voor beide opties
+1. Laat een dakscan uitvoeren door [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) met berekening voor beide opties
 2. Bereken de situatie specifiek voor 2027-2030 op basis van je eigen verbruiksprofiel
 3. Overweeg in combinatie met een thuisbatterij: dan stijgt het zelfverbruik voor beide systemen naar 65-75%
 
@@ -323,7 +323,7 @@ Bij een zuidsysteem is teruglevering hoog (60-70% van de productie). De salderin
 
 ---
 
-## Wat [Zonneplan](/go/zonneplan) mij heeft geleerd over oriëntatie
+## Wat [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) mij heeft geleerd over oriëntatie
 
 Ik heb een adviesgesprek gevoerd met een Zonneplan-adviseur over mijn specifieke dakovergave. Wat mij opviel:
 
@@ -383,7 +383,7 @@ Na twee jaar met mijn oost-west systeem en de berekeningen voor 2027-2030 is mij
 
 **Voor platte daken:** oost-west is bijna altijd de slimste keuze vanwege de hogere paneeldichtheid en het betere dagprofiel.
 
-Laat een gespecialiseerde installateur zoals [Zonneplan](/go/zonneplan) een PVGIS-berekening maken voor beide opties in jouw specifieke situatie. Die berekening kost niets en geeft concrete cijfers voor jouw dak, verbruiksprofiel en salderingscontext.
+Laat een gespecialiseerde installateur zoals [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) een PVGIS-berekening maken voor beide opties in jouw specifieke situatie. Die berekening kost niets en geeft concrete cijfers voor jouw dak, verbruiksprofiel en salderingscontext.
 
 ---
 

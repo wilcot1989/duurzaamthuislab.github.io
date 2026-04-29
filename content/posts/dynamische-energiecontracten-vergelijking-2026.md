@@ -412,4 +412,4 @@ Ongeacht welke leverancier je kiest: hier zijn de stappen die ik elke lezer advi
 
 **Mijn bottomline na 18 maanden**: overstap naar dynamisch contract is de beste gratis stap die je kunt zetten in energiebesparing. Het kost niets, het levert €200-€900/jaar op afhankelijk van je situatie, en het is de basis voor alles wat daarna komt (batterij, slim laden, home automation). Wie dat nog niet heeft gedaan: doe het vandaag.
 
-<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>

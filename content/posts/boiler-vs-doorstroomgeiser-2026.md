@@ -29,10 +29,10 @@ faq:
     a: "Raming op basis van 200 liter warm water per dag (gezin van 4), aanvoer vanuit 12°C koud water naar 55°C: circa 4.200 kWh per jaar benodigd. Elektrische boiler (weerstand): 4.200 kWh × €0,30 = €1.260/jaar. Doorstroomgeiser: iets lager door geen standby-verlies, circa €1.150/jaar. Warmtepompboiler (COP 2,8): 4.200 / 2,8 × €0,30 = €450/jaar."
 products:
   - name: "Warmtepompboiler (200L) — ISDE-subsidie mogelijk"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "1800"
   - name: "Elektrische boiler 150L — instapmodel"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "450"
 ---
 
@@ -331,7 +331,7 @@ Vermijd onbekende merken zonder ISDE-certificering — de subsidie is een signif
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 
-<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmwater</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmwater</a>
 
 ## Gerelateerde artikelen
 

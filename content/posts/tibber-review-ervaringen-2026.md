@@ -193,7 +193,7 @@ Beide bieden dynamisch contract zonder marge op stroomprijs. Verschillen:
 
 Voor de gemiddelde duurzame Nederlander in 2026: **Tibber als je EV hebt, anders Frank Energie**. Beide zijn dynamisch zonder marge — het verschil zit in features.
 
-Voor wie net verhuist of saldering-stop voorbereidt: switch nu, geen reden om te wachten. Bespaar maandelijks vanaf de eerste dag. <a href="/go/tibber" class="cta-affiliate">Bekijk Tibber</a>
+Voor wie net verhuist of saldering-stop voorbereidt: switch nu, geen reden om te wachten. Bespaar maandelijks vanaf de eerste dag. <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate">Bekijk Tibber</a>
 
 [Vergelijk dynamische contracten →](/posts/dynamische-energiecontracten-vergelijking-2026/)
 

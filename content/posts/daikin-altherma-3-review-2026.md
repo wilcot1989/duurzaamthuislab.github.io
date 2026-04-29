@@ -29,13 +29,13 @@ faq:
     a: "De standaard Altherma 3 H levert aanvoertemperaturen tot 60°C. De H HT (High Temperature) variant kan tot 70°C — relevant als je niet-gewijzigde oudere radiatoren hebt die hogere temperaturen nodig hebben. HT-modellen zijn iets duurder en hebben een iets lagere SCOP doordat ze op hogere temperatuur werken."
 products:
   - name: "Daikin Altherma 3 H/M 6 kW"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "8500"
   - name: "Daikin Altherma 3 H/M 8 kW"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "10000"
   - name: "Daikin Altherma 3 H HT 11 kW"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "12500"
 ---
 
@@ -337,7 +337,7 @@ Maar hij is niet automatisch de beste keuze voor jou. Als je woning label D of s
 
 Thomas in Zeist is inmiddels negen maanden verder. Hij bespaart meer dan verwacht, zijn woning is altijd aangenaam warm en de pomp draait zo stil dat hij hem soms vergeet te checken. Dat is eigenlijk het beste compliment voor een verwarmingssysteem.
 
-<a href="/go/daikin" class="cta-affiliate">Bekijk de Daikin Altherma 3 warmtepompen</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate">Bekijk de Daikin Altherma 3 warmtepompen</a>
 
 ---
 

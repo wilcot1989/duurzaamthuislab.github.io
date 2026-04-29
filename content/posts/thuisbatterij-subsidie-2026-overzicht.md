@@ -512,7 +512,7 @@ Om niets te vergeten, hier een praktische checklist die ik ook aan mijn klanten 
 
 Voor Flevoland-bewoners: direct €500-€750 extra korting bovenop 0% BTW. Dat is significant.
 
-<a href="/go/sessy" class="cta-affiliate">Bekijk Sessy</a> · <a href="/go/marstek" class="cta-affiliate">Bekijk Marstek</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate">Bekijk Marstek</a>
 
 ---
 

@@ -29,10 +29,10 @@ faq:
     a: "ATAG is onderdeel van de Italiaanse groep IRSAP (sinds 2019), maar de engineering en eindmontage van ENERGION-modellen vindt grotendeels in Nederland plaats (Lichtenvoorde, Gelderland). De compressor komt van Mitsubishi Electric — een gangbare keuze in de industrie. ATAG's toegevoegde waarde zit in de NL-specifieke regelapparatuur en integratie met hun cv-ketels."
 products:
   - name: "ATAG ENERGION hybride warmtepomp"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "7500"
   - name: "ATAG ENERGION all-electric warmtepomp"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "9000"
 ---
 
@@ -332,7 +332,7 @@ Als je de absolute top wilt op SCOP-prestaties, ga dan naar Daikin. Als je wilt 
 
 Wat ik Riet uiteindelijk heb geadviseerd: neem ATAG, maar laat de installateur ook een Intergas-offerte maken. De €1.200 die ze eventueel bespaart, kan ze in extra isolatie steken — wat op den duur meer oplevert dan een hogere SCOP op papier.
 
-<a href="/go/atag" class="cta-affiliate">Bekijk ATAG ENERGION warmtepompen</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate">Bekijk ATAG ENERGION warmtepompen</a>
 
 ## Levensduur en vervanging na 15 jaar
 

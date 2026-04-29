@@ -27,7 +27,7 @@ faq:
     a: "Voor appartementen gelden de normen van het Bouwbesluit voor luchtgeluid tussen woningen. Een warmtepomp die via structuurgeluid trillingen doorgeeft aan aangrenzende woningen valt onder geluidsoverlast-regelgeving. De 40 dB-norm is specifiek voor buitenruimten; binnenshuis gelden strengere normen (35 dB(A) in slaapkamers)."
 products:
   - name: "ATAG warmtepomp"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "op aanvraag"
   - name: "Beste hybride warmtepomp 2026"
     url: "/posts/beste-hybride-warmtepomp-2026"
@@ -124,7 +124,7 @@ Een unit van 52 dB(A) zou dus theoretisch 7 meter van de erfgrens moeten staan v
 
 **Dit is waarom stille warmtepompen zoals de ATAG cruciaal zijn voor dichtbebouwde wijken.**
 
-**[Bekijk ATAG warmtepomp](/go/atag)**
+**[Bekijk ATAG warmtepomp](https://go.duurzaamthuislab.nl/atag)**
 
 ---
 
@@ -259,13 +259,13 @@ Dit klinkt als veel werk, maar het voorkomt maandenlange juridische procedures e
 
 ## ATAG Energion: de stille keuze voor Nederlandse rijtjeshuizen
 
-Voor wie in een rijtjeshuis woont met een tuin van 6–10 meter en buren die dichtbij zijn, is de [ATAG Energion i](/go/atag) mijn eerste aanbeveling. ATAG is een Nederlands merk (fabriek in Ulft, Gelderland) dat zijn warmtepompen specifiek ontwikkelt voor de Nederlandse marktsituatie: kleinere tuinen, aangrenzende bebouwing, strenge geluidsnormen.
+Voor wie in een rijtjeshuis woont met een tuin van 6–10 meter en buren die dichtbij zijn, is de [ATAG Energion i](https://go.duurzaamthuislab.nl/atag) mijn eerste aanbeveling. ATAG is een Nederlands merk (fabriek in Ulft, Gelderland) dat zijn warmtepompen specifiek ontwikkelt voor de Nederlandse marktsituatie: kleinere tuinen, aangrenzende bebouwing, strenge geluidsnormen.
 
 De ATAG Energion i scoort 40–44 dB(A) op 1 meter — dat is 8–12 dB stiller dan een gemiddeld Aziatisch budget-model. In de praktijk betekent dit dat je bij 3 meter van de erfgrens in de meeste situaties aan de nachtperiode-norm voldoet, zelfs zonder extra maatregelen.
 
 Andere troeven van de ATAG: ISDE-gecertificeerd, Nederlandse onderdelen- en servicenetwerk, en de R290-koelmiddel-variant (propaan) die milieuvriendelijker is dan de gangbare R32 en R410A.
 
-**[Bekijk ATAG warmtepomp](/go/atag)**
+**[Bekijk ATAG warmtepomp](https://go.duurzaamthuislab.nl/atag)**
 
 ---
 

@@ -25,10 +25,10 @@ faq:
     a: "Is je woning goed geïsoleerd (label A of B) met vloerverwarming? Kies full-electric. Is je woning matig geïsoleerd (label C of D) met hoge-temperatuur radiatoren en een gasaansluiting? Kies hybride als tussenstap."
 products:
   - name: "Atag warmtepomp"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "op aanvraag"
   - name: "Quatt hybride warmtepomp"
-    url: "/go/quatt"
+    url: "https://go.duurzaamthuislab.nl/quatt"
     price: "3500"
 ---
 
@@ -159,7 +159,7 @@ Een full-electric warmtepomp is financieel het meest aantrekkelijk als:
 
 ### Merken voor full-electric
 
-**[Atag warmtepomp](/go/atag)** is een Nederlands merk dat bekendstaat om stille modellen en een uitgebreid servicenetwerk. De Atag lucht-water warmtepomp heeft een COP van 4,1-4,5 bij A7/W35 en een geluidsniveau van 45-48 dB(A) buitenzijde.
+**[Atag warmtepomp](https://go.duurzaamthuislab.nl/atag)** is een Nederlands merk dat bekendstaat om stille modellen en een uitgebreid servicenetwerk. De Atag lucht-water warmtepomp heeft een COP van 4,1-4,5 bij A7/W35 en een geluidsniveau van 45-48 dB(A) buitenzijde.
 
 **Daikin Altherma 3** scoort goed op betrouwbaarheid en heeft een van de langste werkbereiken (tot -28°C buitentemperatuur). COP: 4,0-4,6. Prijs excl. installatie: €6.000-€9.000.
 
@@ -177,13 +177,13 @@ Een hybride warmtepomp is financieel het meest aantrekkelijk als:
 4. **Je wilt van gasafhankelijkheid verminderen** zonder volledig te elimineren
 5. **Je hebt plannen voor isolatie later** — de hybride kan dan doorgroeien naar full-electric
 
-### [Quatt hybride warmtepomp](/go/quatt)
+### [Quatt hybride warmtepomp](https://go.duurzaamthuislab.nl/quatt)
 
 Quatt biedt een innovatief all-in model: geen grote investering vooraf maar een maandelijks abonnement. De Quatt warmtepomp werkt met een COP van 3,5-4,0 en heeft een slim AI-algoritme dat bepaalt wanneer de warmtepomp of de ketel goedkoper is om te gebruiken.
 
 Quatt geeft garantie op de volledige installatie en monitort het systeem op afstand. Voor mensen die geen grote som ineens willen uitgeven, is dit model aantrekkelijk.
 
-**[Atag hybride warmtepomp](/go/atag)** biedt als voordeel de integratie met Atag cv-ketels (één merk, één interface) en is beschikbaar via veel traditionele installateurs.
+**[Atag hybride warmtepomp](https://go.duurzaamthuislab.nl/atag)** biedt als voordeel de integratie met Atag cv-ketels (één merk, één interface) en is beschikbaar via veel traditionele installateurs.
 
 ---
 

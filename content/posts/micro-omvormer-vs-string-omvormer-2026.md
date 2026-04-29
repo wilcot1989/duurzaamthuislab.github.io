@@ -27,7 +27,7 @@ faq:
     a: "APsystems (voorheen APS) maakt betrouwbare micro-omvormers in de middenklasse die goed presteren op Nederlandse daken. Ze zijn populair als goedkoper alternatief voor Enphase. De garantie is 10–15 jaar, app-kwaliteit is iets minder dan Enphase maar functioneel."
 products:
   - name: "Huawei Luna thuisbatterij"
-    url: "/go/huawei-luna"
+    url: "https://go.duurzaamthuislab.nl/huawei-luna"
     price: "op aanvraag"
   - name: "Beste omvormers zonnepanelen 2026"
     url: "/posts/beste-omvormer-zonnepanelen-2026"
@@ -142,7 +142,7 @@ Bij micro-omvormers zit er bij elk paneel een eigen kleine omvormer. Elk paneel 
 **De LUNA2000 batterij:**
 De Huawei Luna is een van de best beoordeelde thuisbatterijen in Nederland in 2026. Koppeling met de SUN2000-omvormer is naadloos — geen extra gateway nodig. De LUNA2000 heeft een hoog round-trip rendement (>95%) en uitstekende app-integratie.
 
-**[Bekijk Huawei Luna](/go/huawei-luna)**
+**[Bekijk Huawei Luna](https://go.duurzaamthuislab.nl/huawei-luna)**
 
 **Wanneer Huawei kiezen?**
 - Je wil panelen + batterij als geïntegreerd systeem
@@ -220,7 +220,7 @@ SolarEdge biedt per paneel optimalisatie zonder de hoge kosten van echte micro-o
 
 Als je nu al een thuisbatterij wilt of dat zeker plant voor de saldering-afbouw in 2027, dan is het Huawei-ecosysteem de meest geïntegreerde keuze. De SUN2000 hybride omvormer heeft twee onafhankelijke MPPT-trackers voor twee dakvlakken, en de koppeling met LUNA2000 werkt zonder extra hardware.
 
-**[Bekijk Huawei Luna thuisbatterij](/go/huawei-luna)**
+**[Bekijk Huawei Luna thuisbatterij](https://go.duurzaamthuislab.nl/huawei-luna)**
 
 ### Scenario 4: Complex dak, maximale betrouwbaarheid prioriteit
 
@@ -287,7 +287,7 @@ Na drie jaar met SolarEdge en na het analyseren van tientallen installaties als 
 
 Lees ook mijn vergelijking van de [beste omvormers voor zonnepanelen in 2026](/posts/beste-omvormer-zonnepanelen-2026/) voor aanvullende modellen en prijsoverzichten.
 
-**[Meer over Huawei Luna thuisbatterij](/go/huawei-luna)**
+**[Meer over Huawei Luna thuisbatterij](https://go.duurzaamthuislab.nl/huawei-luna)**
 
 ---
 

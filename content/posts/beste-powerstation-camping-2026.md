@@ -399,4 +399,4 @@ Welk model je ook kiest, een goed powerstation maakt kamperen comfortabeler zond
 Overweeg je een groter model voor zowel camping als thuisgebruik? Lees dan ook onze diepgaande reviews van de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) en de [Jackery Explorer 2000 Plus](/posts/jackery-explorer-2000-plus-review-2026/).
 
 
-<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

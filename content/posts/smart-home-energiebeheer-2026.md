@@ -254,7 +254,7 @@ Smart home energiebeheer is de meest rendabele verduurzamingsinvestering die je 
 Begin met de basis (P1-meter + slimme thermostaat) en breid stap voor stap uit. De technologie wordt elk jaar toegankelijker en de besparingen worden groter naarmate energieprijzen stijgen.
 
 
-<a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Bekijk Tibber</a>
 
 ## Domotica merken vergeleken: mijn eerlijke oordeel
 

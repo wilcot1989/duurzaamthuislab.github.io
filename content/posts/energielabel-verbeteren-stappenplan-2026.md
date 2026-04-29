@@ -288,7 +288,7 @@ Het verbeteren van je energielabel is een investering die zichzelf terugverdient
 3. Vraag altijd minimaal 3 offertes aan
 
 
-<a href="/go/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
+<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="sponsored noopener">Bekijk Vaillant</a>
 
 ## Rekenmodel: van G naar A in 7 jaar — kan dat?
 

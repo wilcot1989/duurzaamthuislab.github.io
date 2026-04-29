@@ -27,10 +27,10 @@ faq:
     a: "De installatiekosten liggen doorgaans tussen €500 en €1.500, afhankelijk van de locatie, kabellengte naar de meterkast en of er aanpassingen aan de groepenkast nodig zijn. Plaatsing dicht bij de meterkast spaart kosten."
 products:
   - name: "Sessy thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "3999"
   - name: "Marstek B5000"
-    url: "/go/marstek"
+    url: "https://go.duurzaamthuislab.nl/marstek"
     price: "3499"
 ---
 
@@ -260,7 +260,7 @@ De Sessy is ontworpen als woonkamerunit. De fabrikant stelt de volgende eisen:
 
 De Sessy weegt 68 kg. Wandmontage vereist een draagmuur of extra verstevigde wand.
 
-[Bekijk de Sessy op onze productpagina](/go/sessy)
+[Bekijk de Sessy op onze productpagina](https://go.duurzaamthuislab.nl/sessy)
 
 ---
 
@@ -277,7 +277,7 @@ De Marstek B5000 is een meer robuste unit met bredere installatietolerantie:
 
 De Marstek biedt meer flexibiliteit in plaatsing, maar heeft minder verfijnd design voor woonruimtegebruik.
 
-[Bekijk de Marstek B5000 op onze productpagina](/go/marstek)
+[Bekijk de Marstek B5000 op onze productpagina](https://go.duurzaamthuislab.nl/marstek)
 
 ---
 
@@ -518,9 +518,9 @@ Een woning in Nijmegen met een droge, geventileerde garage direct naast de meter
 
 ---
 
-<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk de Sessy thuisbatterij</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk de Sessy thuisbatterij</a>
 
-<a href="/go/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk de Marstek B5000</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk de Marstek B5000</a>
 
 ## Gerelateerde artikelen
 

@@ -29,10 +29,10 @@ faq:
     a: "Nee. Omdat jij de warmtepomp niet koopt maar huurt, is de eigendom niet van jou — Quatt is de eigenaar. Daardoor kom je niet in aanmerking voor de ISDE-subsidie van RVO. Dit is een concreet financieel nadeel ten opzichte van kopen."
 products:
   - name: "Quatt Connect abonnement"
-    url: "/go/quatt"
+    url: "https://go.duurzaamthuislab.nl/quatt"
     price: "79"
   - name: "ATAG ENERGION hybride (vergelijking)"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "7500"
 ---
 
@@ -354,7 +354,7 @@ Maar financieel is het suboptimaal. Je mist de ISDE-subsidie, je betaalt over 10
 
 Kies Quatt als cashflow en ontzorging het zwaarste wegen. Koop als de totale kosten over 10 jaar jouw kompas zijn.
 
-<a href="/go/quatt" class="cta-affiliate">Bekijk Quatt Connect abonnementen</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate">Bekijk Quatt Connect abonnementen</a>
 
 ## De toekomst van Quatt: scenario's
 

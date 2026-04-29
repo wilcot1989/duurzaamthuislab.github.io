@@ -27,10 +27,10 @@ faq:
     a: "Dat hangt af van je omvormer. Een string-omvormer kan uitgebreid worden als er nog input-capaciteit vrij is. Een micro-omvormer-setup is het makkelijkst uit te breiden paneel voor paneel. Voor een hybride batterij moet de omvormer of uitbreid-inverter compatibel zijn. Laat dit altijd beoordelen door een installateur."
 products:
   - name: "Zonneplan zonnepanelen installatie"
-    url: "/go/zonneplan"
+    url: "https://go.duurzaamthuislab.nl/zonneplan"
     price: ""
   - name: "Sessy thuisbatterij (5 kWh)"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "5995"
 ---
 
@@ -110,7 +110,7 @@ Voor de meeste NL-huishoudens: **Jinko Tiger Neo** of **Longi Hi-MO 6** bieden d
 
 ## Zonneplan — de installateur die ik aanbeveel
 
-[Zonneplan](/go/zonneplan) heeft in mijn omgeving de meest positieve feedback van klanten die ik spreek. Wat hen onderscheidt:
+[Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) heeft in mijn omgeving de meest positieve feedback van klanten die ik spreek. Wat hen onderscheidt:
 
 **Transparante vaste prijs.** Geen verborgen kosten voor de groepenkast, geen extra rekening achteraf voor "meer werk dan verwacht". Je krijgt vooraf één prijs.
 
@@ -132,8 +132,8 @@ Als je prijs de doorslaggevende factor is, zijn er goedkopere installateurs. Maa
 
 De meest waardevolle opstelling post-2027 voor een gemiddeld huishouden:
 
-1. **Zonnepanelen via [Zonneplan](/go/zonneplan):** passend bij je dagverbruik + batterijcapaciteit
-2. **Thuisbatterij via [Sessy](/go/sessy):** 5 kWh plug & play, slimme lading
+1. **Zonnepanelen via [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan):** passend bij je dagverbruik + batterijcapaciteit
+2. **Thuisbatterij via [Sessy](https://go.duurzaamthuislab.nl/sessy):** 5 kWh plug & play, slimme lading
 
 Deze twee zijn expliciet compatible. Sessy integreert met Zonneplan's monitoring. De gecombineerde opbrengst:
 
@@ -198,8 +198,8 @@ Bekijk of je bestaande omvormer hybride-compatibel is. Veel installateurs van pr
 
 Zonnepanelen zijn na 2027 nog zinvol — maar alleen als je de strategie aanpast. De combi-aanpak (panelen + thuisbatterij + dynamisch contract) is de manier om post-2027 maximaal te profiteren.
 
-**Installateur:** [Zonneplan](/go/zonneplan) — transparant, gegarandeerde opbrengst, batterij-integratie.  
-**Thuisbatterij:** [Sessy](/go/sessy) — beste gebruiksgemak, Zonneplan-compatible, NL-support.
+**Installateur:** [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) — transparant, gegarandeerde opbrengst, batterij-integratie.  
+**Thuisbatterij:** [Sessy](https://go.duurzaamthuislab.nl/sessy) — beste gebruiksgemak, Zonneplan-compatible, NL-support.
 
 Overweeg je panelen zónder batterij? Dan is het raadzaam de omvormer al hybride-compatibel te kiezen, zodat je de batterij later kunt toevoegen zonder de hele omvormer te hoeven vervangen.
 

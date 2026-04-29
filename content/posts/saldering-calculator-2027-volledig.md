@@ -29,13 +29,13 @@ faq:
     a: "Niet direct, maar wel slim arbitreren. Met dynamisch contract + thuisbatterij verkoop je niet meer aan vaste terugleverprijs maar aan dagelijkse piek-prijs (kan €0.40-€0.60 zijn op zomeravonden). Dat compenseert deels het saldering-verlies."
 products:
   - name: "Sessy thuisbatterij 5 kWh"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "3795"
   - name: "Sessy thuisbatterij 10 kWh"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "5995"
   - name: "Marstek Venus E 8.2 kWh"
-    url: "/go/marstek"
+    url: "https://go.duurzaamthuislab.nl/marstek"
     price: "2299"
 ---
 
@@ -350,7 +350,7 @@ Lees [10 kWh thuisbatterij vergelijking 2026](/posts/thuisbatterij-10-kwh-vergel
 **Stap 3 — Schakel naar dynamisch contract**
 Met dynamisch contract verkoop je overschot tegen marktprijs (€0.40-€0.60 op zomeravonden) i.p.v. vaste terugleverprijs. Lees [Tibber review](/posts/tibber-review-ervaringen-2026/) en [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/).
 
-<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy →</a> · <a href="/go/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk Marstek →</a> · <a href="/go/tibber" class="cta-affiliate" rel="sponsored noopener">Probeer Tibber →</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy →</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="sponsored noopener">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="sponsored noopener">Probeer Tibber →</a>
 
 ---
 

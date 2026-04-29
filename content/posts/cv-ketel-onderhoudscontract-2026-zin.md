@@ -29,10 +29,10 @@ faq:
     a: "Een cv-ketel heeft gemiddeld 15–20 jaar levensduur. Bij een ketel van 15 jaar oud die goed heeft gedraaid is de keuze: nog 2–4 jaar aanhouden met minimaal onderhoud, of nu vervangen door een hybride warmtepomp. Investeer geen groot onderhoudscontract meer in een ketel die waarschijnlijk over 3 jaar toch vervangen wordt."
 products:
   - name: "Tibber"
-    url: "/go/tibber"
+    url: "https://go.duurzaamthuislab.nl/tibber"
     price: "0"
   - name: "Sessy thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "5995"
 ---
 
@@ -371,7 +371,7 @@ Niet elke installateur die "cv-onderhoud" aanbiedt is even betrouwbaar. Hier zij
 *Disclosure: ik heb geen commerciële relatie met serviceverleners op deze pagina. De genoemde prijzen zijn indicatief en gebaseerd op gangbare markttarieven in 2026.*
 
 
-<a href="/go/bosch" class="cta-affiliate" rel="sponsored noopener">Bekijk Bosch</a>
+<a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate" rel="sponsored noopener">Bekijk Bosch</a>
 
 ## Gerelateerde artikelen
 

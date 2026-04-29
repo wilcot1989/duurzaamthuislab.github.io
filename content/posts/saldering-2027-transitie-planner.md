@@ -35,19 +35,19 @@ faq:
     a: "Dat hangt sterk af van je situatie. Extra panelen vergroten de teruglevering, maar als je die stroom toch al niet kwijt kunt voor een goede prijs, voeg je verliespost toe. De vuistregel: extra panelen zijn zinvol als je tegelijk investeert in extra eigen verbruik — via batterij, EV of warmtepomp. Zonder die combinatie is bijplaatsen na 2026 minder interessant dan vóór 2026."
 products:
   - name: "Sessy 5 kWh thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "3795"
   - name: "Marstek Venus thuisbatterij"
-    url: "/go/marstek"
+    url: "https://go.duurzaamthuislab.nl/marstek"
     price: "3200"
   - name: "Tibber dynamisch contract"
-    url: "/go/tibber"
+    url: "https://go.duurzaamthuislab.nl/tibber"
     price: "6"
   - name: "Frank Energie dynamisch"
-    url: "/go/frank-energie"
+    url: "https://go.duurzaamthuislab.nl/frank-energie"
     price: "0"
   - name: "Zonneplan thuisbatterij"
-    url: "/go/zonneplan"
+    url: "https://go.duurzaamthuislab.nl/zonneplan"
     price: "0"
 ---
 
@@ -152,8 +152,8 @@ Het grote voordeel: met de juiste apps stuur je slim op prijzen. Tibber en Frank
 
 | Aanbieder | Maandkosten | App | Teruglevering | Bijzonder |
 |-----------|------------|-----|----------------|-----------|
-| [Tibber](/go/tibber) | €6,99/mnd | ★★★★★ | Marktprijs EPEX | Pulse (P1-meter) voor realtime inzicht |
-| [Frank Energie](/go/frank-energie) | €0/mnd | ★★★★☆ | Marktprijs EPEX | Goedkoopste vaste kosten |
+| [Tibber](https://go.duurzaamthuislab.nl/tibber) | €6,99/mnd | ★★★★★ | Marktprijs EPEX | Pulse (P1-meter) voor realtime inzicht |
+| [Frank Energie](https://go.duurzaamthuislab.nl/frank-energie) | €0/mnd | ★★★★☆ | Marktprijs EPEX | Goedkoopste vaste kosten |
 | ANWB Energie | €0/mnd | ★★★☆☆ | Marktprijs EPEX | Betrouwbaar merk, minder functies |
 | Vandebron | €0/mnd | ★★★☆☆ | Marktprijs EPEX | Focus op hernieuwbaar |
 
@@ -188,13 +188,13 @@ Een thuisbatterij slaat overdag opgewekte zonnestroom op zodat je die 's avonds 
 
 **Thuisbatterijen die ik aanbeveel:**
 
-**[Sessy 5 kWh](/go/sessy) — beste keuze voor starters**
+**[Sessy 5 kWh](https://go.duurzaamthuislab.nl/sessy) — beste keuze voor starters**
 Prijs: ca. €3.795 exclusief installatie. De Sessy is ontworpen voor de Nederlandse markt en heeft een van de eenvoudigste installaties. Compatibel met vrijwel alle omvormers via de Sessy app. Ik heb hem bij drie klanten laten installeren — allemaal tevreden. Nadeel: 5 kWh is voor grote systemen (>5 kWp) aan de kleine kant.
 
-**[Marstek Venus](/go/marstek) — beste prijs-kwaliteit**
+**[Marstek Venus](https://go.duurzaamthuislab.nl/marstek) — beste prijs-kwaliteit**
 Prijs: ca. €3.200 exclusief installatie. Nieuwkomer op de Nederlandse markt maar met goede specificaties. 5 kWh, 3 kW laadvermogen, 10 jaar garantie. Ik ken de Marstek nog niet persoonlijk uit de praktijk — maar de technische specs zijn solide en de prijs is scherp.
 
-**[Zonneplan thuisbatterij](/go/zonneplan) — lease-alternatief**
+**[Zonneplan thuisbatterij](https://go.duurzaamthuislab.nl/zonneplan) — lease-alternatief**
 Zonneplan biedt een lease-constructie waarbij je geen grote investering vooraf doet. Maandelijkse kosten zijn hoger, maar je loopt minder risico. Interessant als je de €5.000-€10.000 liever niet vastzet.
 
 **Wat als ik nu al een dynamisch contract heb?**

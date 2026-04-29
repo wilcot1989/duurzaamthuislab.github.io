@@ -29,10 +29,10 @@ faq:
     a: "Veel minder dan een lucht-water warmtepomp. Er is geen buitenunit. De warmtepomp zelf (binnenshuis) maakt een zacht compressorgeluid (35-45 dB(A)) — vergelijkbaar met een koelkast. Dit is een groot voordeel in situaties waar geluidsoverlast speelt: kleine tuinen, appartementen of bewoners die gevoelig zijn voor geluid van buren."
 products:
   - name: "Daikin Altherma bodemwarmtepomp"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "22000"
   - name: "Daikin Altherma lucht-water warmtepomp (vergelijking)"
-    url: "/go/daikin"
+    url: "https://go.duurzaamthuislab.nl/daikin"
     price: "11000"
 ---
 
@@ -340,7 +340,7 @@ Sommige gemeenten vergoeden dit advies gedeeltelijk of volledig via het duurzaam
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 
-<a href="/go/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepompen →</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="sponsored noopener">Bekijk ATAG warmtepompen →</a>
 
 ## Gerelateerde artikelen
 

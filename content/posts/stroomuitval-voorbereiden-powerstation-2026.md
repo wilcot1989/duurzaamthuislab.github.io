@@ -413,4 +413,4 @@ Als een netbeheerder een spanningspiek veroorzaakt die jouw apparaat beschadigt,
 
 ---
 
-<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

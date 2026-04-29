@@ -27,10 +27,10 @@ faq:
     a: "Nee, in 2026 zijn er geen specifieke subsidies voor waterstof thuisinstallaties in Nederland. De ISDE-subsidie geldt niet voor waterstof-opslagsystemen. Wel zijn er zakelijke subsidies (SDE++, waterstofpilotprogramma's) voor bedrijven en pilots."
 products:
   - name: "Sessy thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "3999"
   - name: "Marstek B5000"
-    url: "/go/marstek"
+    url: "https://go.duurzaamthuislab.nl/marstek"
     price: "3499"
 ---
 
@@ -180,7 +180,7 @@ De garantieduur van de meeste systemen is 10-15 jaar. De terugverdientijd is lan
 
 ### Vergelijking met thuisbatterij
 
-Een Sessy thuisbatterij (5 kWh) kost circa €4.000-€5.000 inclusief installatie. Terugverdientijd: 6-10 jaar bij normaal gebruik en dynamisch tariefcontract. Zie onze [Sessy review](/go/sessy).
+Een Sessy thuisbatterij (5 kWh) kost circa €4.000-€5.000 inclusief installatie. Terugverdientijd: 6-10 jaar bij normaal gebruik en dynamisch tariefcontract. Zie onze [Sessy review](https://go.duurzaamthuislab.nl/sessy).
 
 Een thuisbatterij wint de financiële vergelijking nu met gemak. Waterstof heeft pas voordeel als de kostprijs daalt tot onder €10.000 voor een compleet systeem.
 
@@ -401,7 +401,7 @@ De eenvoudigste handeling die je nu kunt doen: installeer een bewezen thuisbatte
 
 ---
 
-<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk de Sessy thuisbatterij — de slimme keuze voor 2026</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk de Sessy thuisbatterij — de slimme keuze voor 2026</a>
 
 ## Gerelateerde artikelen
 

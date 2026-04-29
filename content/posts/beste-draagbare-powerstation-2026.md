@@ -474,4 +474,4 @@ Heb je liever een vast systeem dat gekoppeld is aan je zonnepanelen? Bekijk dan 
 Wil je weten welke merken het beste scoren? Lees onze diepgaande [EcoFlow vs Jackery vergelijking](/posts/ecoflow-vs-jackery-2026/).
 
 
-<a href="/go/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="sponsored noopener">Bekijk Ecoflow</a>

@@ -27,10 +27,10 @@ faq:
     a: "In een gemiddeld rijtjeshuis (1.800 m³ gas per jaar, label C) bespaar je na installatie van een hybride warmtepomp €600–€1.000 per jaar. All-electric in een goed geïsoleerde tussenwoning: €1.000–€1.500. Terugverdientijd: 6–10 jaar inclusief ISDE-subsidie."
 products:
   - name: "ATAG ENERGION warmtepomp"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "8500"
   - name: "Quatt warmtepomp"
-    url: "/go/quatt"
+    url: "https://go.duurzaamthuislab.nl/quatt"
     price: "7500"
 ---
 
@@ -76,7 +76,7 @@ Praktisch advies: laat bij de offerte een geluidsrapport maken. De meeste gereno
 
 ### ATAG ENERGION — de hybride keuze voor de meeste rijtjeshuizen
 
-[ATAG](/go/atag) is een Nederlands merk met productie (deels) in Lichtenvoorde, Gelderland. Hun ENERGION-serie is specifiek ontwikkeld voor de Nederlandse markt — inclusief de hybride variant die combineert met een bestaande cv-ketel.
+[ATAG](https://go.duurzaamthuislab.nl/atag) is een Nederlands merk met productie (deels) in Lichtenvoorde, Gelderland. Hun ENERGION-serie is specifiek ontwikkeld voor de Nederlandse markt — inclusief de hybride variant die combineert met een bestaande cv-ketel.
 
 **Waarom dit goed werkt voor rijtjeshuizen:**
 
@@ -101,7 +101,7 @@ ATAG ENERGION 6-8 kW: 44–46 dB(A) op 1 meter afstand bij vol vermogen. Op 3–
 
 ### Quatt — de modernere keuze voor de doe-het-overstapper
 
-[Quatt](/go/quatt) is een relatief nieuw Nederlands bedrijf dat de warmtepompinstallatie wil vereenvoudigen. Ze leveren een compacte binneneenheid ("Quatt-box") die je cv-ketel vervangt of hybride aanvult, gecombineerd met een slanke buitenunit.
+[Quatt](https://go.duurzaamthuislab.nl/quatt) is een relatief nieuw Nederlands bedrijf dat de warmtepompinstallatie wil vereenvoudigen. Ze leveren een compacte binneneenheid ("Quatt-box") die je cv-ketel vervangt of hybride aanvult, gecombineerd met een slanke buitenunit.
 
 **Waarom dit goed werkt voor rijtjeshuizen:**
 
@@ -208,8 +208,8 @@ Een warmtepomp in een rijtjeshuis is in 2026 een realistische, terugverdienbare 
 
 Mijn aanbeveling voor het gemiddelde Nederlandse rijtjeshuis (label C, radiatoren, geen vloerverwarming):
 
-1. **[ATAG ENERGION hybride](/go/atag)** — betrouwbaar, Nederlands service-netwerk, bewezen in NL-klima
-2. **[Quatt Duo](/go/quatt)** — stiller, compacter, modern systeem met begeleide installatie
+1. **[ATAG ENERGION hybride](https://go.duurzaamthuislab.nl/atag)** — betrouwbaar, Nederlands service-netwerk, bewezen in NL-klima
+2. **[Quatt Duo](https://go.duurzaamthuislab.nl/quatt)** — stiller, compacter, modern systeem met begeleide installatie
 
 Vraag altijd drie offertes, inclusief geluidsberekening. En informeer je buren vóór je begint.
 

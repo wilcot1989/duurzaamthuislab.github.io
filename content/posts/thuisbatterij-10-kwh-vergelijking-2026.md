@@ -237,7 +237,7 @@ Sessy en Marstek scoren gelijk totaal (24/30) maar op heel andere criteria. Dat 
 
 **Rendement:** Bij dynamisch contract en goed profiel: €750-€900/jr besparing → terugverdientijd 7-9 jaar.
 
-[Lees mijn volledige Sessy review →](/posts/sessy-review-thuisbatterij-nederland/) · <a href="/go/sessy" class="cta-affiliate">Bekijk Sessy</a>
+[Lees mijn volledige Sessy review →](/posts/sessy-review-thuisbatterij-nederland/) · <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate">Bekijk Sessy</a>
 
 ## 2. Marstek Venus E 8,2 kWh — beste prijs-kwaliteit
 
@@ -257,7 +257,7 @@ Sessy en Marstek scoren gelijk totaal (24/30) maar op heel andere criteria. Dat 
 
 **Rendement:** €700-€840/jr → terugverdientijd 3-4 jaar.
 
-[Lees mijn Marstek Venus review →](/posts/marstek-venus-review-thuisbatterij/) · <a href="/go/marstek" class="cta-affiliate">Bekijk Marstek</a>
+[Lees mijn Marstek Venus review →](/posts/marstek-venus-review-thuisbatterij/) · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate">Bekijk Marstek</a>
 
 ## 3. Zonneplan 10 kWh — beste alles-in-één
 
@@ -278,7 +278,7 @@ Sessy en Marstek scoren gelijk totaal (24/30) maar op heel andere criteria. Dat 
 
 **Rendement:** Lease-pakket netto €30-€100/maand voordeel afhankelijk van profiel. Koop: €700-€900/jr besparing → terugverdientijd 8-10 jaar.
 
-[Lees mijn Zonneplan review →](/posts/zonneplan-thuisbatterij-review-2026/) · <a href="/go/zonneplan" class="cta-affiliate">Bekijk Zonneplan</a>
+[Lees mijn Zonneplan review →](/posts/zonneplan-thuisbatterij-review-2026/) · <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate">Bekijk Zonneplan</a>
 
 ## 4. Tesla Powerwall 3 — beste voor groot verbruik + Tesla EV
 
@@ -321,7 +321,7 @@ Sessy en Marstek scoren gelijk totaal (24/30) maar op heel andere criteria. Dat 
 
 **Rendement:** €750-€950/jr → terugverdientijd 8-9 jaar.
 
-<a href="/go/ecoflow" class="cta-affiliate">Bekijk EcoFlow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate">Bekijk EcoFlow</a>
 
 ## 6. Huawei Luna 2000 (10 kWh) — beste DC-gekoppelde optie
 

@@ -504,4 +504,4 @@ Met de afbouw van de salderingsregeling die in 2027 begint, is 2026 het ideale m
 Zoek je een draagbare oplossing in plaats van een vast systeem? Bekijk dan ons overzicht van de [beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/).
 
 
-<a href="/go/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="sponsored noopener">Bekijk Sessy</a>

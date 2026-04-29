@@ -29,10 +29,10 @@ faq:
     a: "Dan betaal je gewoon de marktprijs van dat uur — soms hoog, soms laag. Je bent niet verplicht om te optimaliseren. Maar zonder enige aanpassing is de gemiddelde jaarprijs van een dynamisch contract vergelijkbaar met een vast contract. De winst zit in de bewuste verschuiving."
 products:
   - name: "Tibber dynamisch contract"
-    url: "/go/tibber"
+    url: "https://go.duurzaamthuislab.nl/tibber"
     price: "0"
   - name: "Frank Energie dynamisch contract"
-    url: "/go/frank-energie"
+    url: "https://go.duurzaamthuislab.nl/frank-energie"
     price: "0"
 ---
 
@@ -340,8 +340,8 @@ Dan daalt je gasverbruik drastisch. Dat maakt het minder zinvol om je gas vast t
 
 Voor de meeste huishoudens met een slimme meter, zonnepanelen of een laadpaal is overstappen naar een dynamisch contract een logische stap in 2026. De energiemarkt is structureel aan het veranderen: meer hernieuwbaar, meer uurfluctuaties, meer kansen voor slimme verbruikers.
 
-Heb je thuisbatterij of laadpaal én wil je maximaal automatiseren → [Tibber](/go/tibber)
-Ben je een kleine verbruiker of wil je geen maandabonnement → [Frank Energie](/go/frank-energie)
+Heb je thuisbatterij of laadpaal én wil je maximaal automatiseren → [Tibber](https://go.duurzaamthuislab.nl/tibber)
+Ben je een kleine verbruiker of wil je geen maandabonnement → [Frank Energie](https://go.duurzaamthuislab.nl/frank-energie)
 Wil je gemak en een vertrouwde naam → ANWB Energie Dynamisch
 
 Overstappen kost je twee uur en nul euro opzegkosten (als je geen vast contract hebt). De potentiële besparing loopt bij slimme gebruikers op tot honderden euro's per jaar.

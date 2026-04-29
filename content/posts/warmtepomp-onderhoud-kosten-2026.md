@@ -29,7 +29,7 @@ faq:
     a: "Signalen zijn: foutcodes op het display, hoorbare trillingen of piepen die er normaal niet zijn, hogere energierekening zonder duidelijke reden, onvoldoende warmte in huis ondanks dat het systeem draait, of tapwater dat minder warm is dan normaal."
 products:
   - name: "ATAG warmtepomp"
-    url: "/go/atag"
+    url: "https://go.duurzaamthuislab.nl/atag"
     price: "op aanvraag"
 ---
 
@@ -312,7 +312,7 @@ Ik werk zelf met een ATAG warmtepomp en heb positieve ervaringen. ATAG is een Ne
 - Onderhoud vereist een ATAG-gecertificeerde installateur voor garantiebehoud
 - De buitenunits zijn aan de grotere kant — niet altijd geschikt voor krappe tuinen
 
-Voor onderhoud en service via ATAG: [bekijk het ATAG-serviceaanbod](/go/atag).
+Voor onderhoud en service via ATAG: [bekijk het ATAG-serviceaanbod](https://go.duurzaamthuislab.nl/atag).
 
 ---
 
@@ -356,7 +356,7 @@ Zet dit in je agenda:
 - Verwarmingscircuit volledig ontluchten
 - Overweeg omvormer/regelaar update als technologie is verbeterd
 
-Met dit schema haal je het maximale uit je warmtepomp — zowel in efficiëntie als in levensduur. En als je op zoek bent naar een betrouwbare warmtepomp met goed serviceaanbod: [bekijk de ATAG-modellen via deze link](/go/atag).
+Met dit schema haal je het maximale uit je warmtepomp — zowel in efficiëntie als in levensduur. En als je op zoek bent naar een betrouwbare warmtepomp met goed serviceaanbod: [bekijk de ATAG-modellen via deze link](https://go.duurzaamthuislab.nl/atag).
 
 ---
 

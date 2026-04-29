@@ -27,7 +27,7 @@ faq:
     a: "AC-gekoppeld (zoals Marstek Venus): de batterij slaat netspanning op. Werkt met elke bestaande omvormer. Ideaal voor uitbreiding van bestaande installaties. DC-gekoppeld: sluit aan vóór de omvormer, efficiënter maar vereist een hybride omvormer. Als je al panelen hebt: AC is eenvoudiger en goedkoper."
 products:
   - name: "Marstek Venus (5 kWh)"
-    url: "/go/marstek"
+    url: "https://go.duurzaamthuislab.nl/marstek"
     price: "2299"
 ---
 
@@ -61,7 +61,7 @@ Het prijsverschil zit hem in:
 
 ## Marstek Venus: mijn aanbeveling onder €3.000
 
-[Marstek Venus](/go/marstek) is mijn top pick in het budgetsegment. Hier is waarom.
+[Marstek Venus](https://go.duurzaamthuislab.nl/marstek) is mijn top pick in het budgetsegment. Hier is waarom.
 
 **Specificaties:**
 - Capaciteit: 5,12 kWh netto bruikbaar
@@ -195,13 +195,13 @@ Niet "alles inbegrepen €2.999" maar: materiaalkost batterij, installatieuren, 
 
 Voor huishoudens die een betrouwbare, budgetvriendelijke thuisbatterij zoeken en bereid zijn een beetje eigen regie te nemen:
 
-**[Marstek Venus](/go/marstek)** — €2.299, 5 kWh LFP, 10 jaar garantie, bewezen cellen.
+**[Marstek Venus](https://go.duurzaamthuislab.nl/marstek)** — €2.299, 5 kWh LFP, 10 jaar garantie, bewezen cellen.
 
 Laat hem installeren door een erkend elektrotechnisch installateur. Totaal: €2.800–€3.200. Terugverdientijd post-2027: 5–7 jaar.
 
 Als je meer capaciteit wilt en een compatibele omvormer hebt: kijk naar **Pylontech Force H2** (7,1 kWh, circa €2.700).
 
-En als service en gemak zwaarder wegen dan prijs: ga dan voor [Sessy](/go/sessy). Maar als €6.000 te veel is, is Marstek geen concessie in veiligheid of celkwaliteit.
+En als service en gemak zwaarder wegen dan prijs: ga dan voor [Sessy](https://go.duurzaamthuislab.nl/sessy). Maar als €6.000 te veel is, is Marstek geen concessie in veiligheid of celkwaliteit.
 
 ---
 
@@ -430,7 +430,7 @@ Gaat dit door? Waarschijnlijk wel, maar trager:
 
 ## Mijn complete aanbeveling
 
-Voor huishoudens met een beperkt budget is [Marstek Venus](/go/marstek) de meest doordachte keuze in 2026:
+Voor huishoudens met een beperkt budget is [Marstek Venus](https://go.duurzaamthuislab.nl/marstek) de meest doordachte keuze in 2026:
 
 - 5,12 kWh LFP — veilige chemie, dezelfde cellen als dure systemen
 - €2.299 inclusief app en ingebouwde omvormer

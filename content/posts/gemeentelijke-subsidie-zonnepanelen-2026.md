@@ -29,10 +29,10 @@ faq:
     a: "Via uw gemeente of via SVn (Stimuleringsfonds Volkshuisvesting). Veel gemeenten werken samen met SVn voor de uitvoering. Stap 1: check gemeentewebsite op 'duurzaamheidslening' of 'energielening'. Stap 2: aanvraagformulier invullen met kostenraming van de installateur. Stap 3: SVn verstrekt de lening, u betaalt terug over 7-15 jaar. Rente is doorgaans 0% of laag (1-3%)."
 products:
   - name: "Zonneplan zonnepanelen-abonnement"
-    url: "/go/zonneplan"
+    url: "https://go.duurzaamthuislab.nl/zonneplan"
     price: "0"
   - name: "Zonneplan One (combinatie stroom + panelen)"
-    url: "/go/zonneplan"
+    url: "https://go.duurzaamthuislab.nl/zonneplan"
     price: "0"
 ---
 
@@ -355,7 +355,7 @@ Als u serieus bent over zonnepanelen: vraag drie offertes aan in de komende vier
 *Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
 
 
-<a href="/go/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="sponsored noopener">Bekijk Zonneplan</a>
 
 ## Gerelateerde artikelen
 

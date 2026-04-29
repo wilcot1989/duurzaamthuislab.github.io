@@ -27,16 +27,16 @@ faq:
     a: "De EPEX-spotprijs is de inkoopprijs op de groothandelsmarkt. Tibber voegt hier transportkosten, energiebelasting, btw en een kleine vaste marge aan toe. Je eindtarief is dus altijd hoger dan de kale spotprijs, maar de uurfluctuaties zijn gelijk."
 products:
   - name: "Tibber dynamisch contract"
-    url: "/go/tibber"
+    url: "https://go.duurzaamthuislab.nl/tibber"
     price: "variabel"
   - name: "Sessy thuisbatterij"
-    url: "/go/sessy"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "3999"
 ---
 
 Vorig jaar betaalde ik op een dinsdagavond in januari €0,42 per kWh voor stroom. Dezelfde week, op woensdagnacht om 03:00, kostte stroom €0,02 per kWh. Dat is een verschil van factor 21 — binnen 48 uur, hetzelfde net, hetzelfde huis. Wie dat verschil niet benut, laat simpelweg geld liggen.
 
-In dit artikel duik ik diep in de EPEX-spotprijsdata van 2026, analyseer ik de patronen per uur en leg ik uit hoe je met een dynamisch contract en een thuisbatterij als de [Sessy](/go/sessy) systematisch kunt profiteren van deze prijsverschillen.
+In dit artikel duik ik diep in de EPEX-spotprijsdata van 2026, analyseer ik de patronen per uur en leg ik uit hoe je met een dynamisch contract en een thuisbatterij als de [Sessy](https://go.duurzaamthuislab.nl/sessy) systematisch kunt profiteren van deze prijsverschillen.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
@@ -162,7 +162,7 @@ Dezelfde warmte bewaren voorkomt 3 kW × 2 uur draaien bij 22 ct/kWh = €1,32
 
 ## Thuisbatterij + dynamisch contract: de combinatie die het meeste oplevert
 
-Een thuisbatterij als de [Sessy](/go/sessy) haalt het maximale uit een dynamisch contract doordat het systeem automatisch inkoopt en verkoopt op basis van de EPEX-prijs.
+Een thuisbatterij als de [Sessy](https://go.duurzaamthuislab.nl/sessy) haalt het maximale uit een dynamisch contract doordat het systeem automatisch inkoopt en verkoopt op basis van de EPEX-prijs.
 
 ### Hoe werkt de Sessy met Tibber?
 
@@ -204,7 +204,7 @@ Voeg daarbij de besparing op zomerpieken (negatieve prijzen), het verminderen va
 | **Vandebron** | EPEX + marge | ⭐⭐⭐ | Geen | Dinamisch |
 | **Eneco (flex)** | EPEX + opslag | ⭐⭐⭐ | Geen | Vaste marge |
 
-Voor thuisbatterij-eigenaren is [Tibber](/go/tibber) op dit moment de duidelijkste keuze. De open API maakt integratie met Sessy, Tesla Powerwall, SolarEdge Home Battery en andere systemen mogelijk zonder extra hardware.
+Voor thuisbatterij-eigenaren is [Tibber](https://go.duurzaamthuislab.nl/tibber) op dit moment de duidelijkste keuze. De open API maakt integratie met Sessy, Tesla Powerwall, SolarEdge Home Battery en andere systemen mogelijk zonder extra hardware.
 
 ### Wat kost Tibber?
 
@@ -284,13 +284,13 @@ De waarde van een thuisbatterij bij dynamisch contract neemt eerder toe dan af i
 
 De EPEX-spotmarkt biedt in 2026 structureel prijsverschillen van 15–25 ct/kWh tussen de goedkoopste uren (02:00–05:00 's nachts, zonnige middaguren in de zomer) en de duurste uren (17:00–20:00). Wie die spreiding benut met een dynamisch contract en slimme apparaten, bespaart realistisch €150–€600 per jaar.
 
-Een thuisbatterij als de [Sessy](/go/sessy) in combinatie met [Tibber](/go/tibber) is de meest geautomatiseerde manier om die besparing structureel te realiseren — zonder dat je er dagelijks zelf bij hoeft na te denken. De optimizer koopt goedkoop, ontlaadt duur, en past zich automatisch aan het wisselende aanbod van zon en wind aan.
+Een thuisbatterij als de [Sessy](https://go.duurzaamthuislab.nl/sessy) in combinatie met [Tibber](https://go.duurzaamthuislab.nl/tibber) is de meest geautomatiseerde manier om die besparing structureel te realiseren — zonder dat je er dagelijks zelf bij hoeft na te denken. De optimizer koopt goedkoop, ontlaadt duur, en past zich automatisch aan het wisselende aanbod van zon en wind aan.
 
 Wil je weten of een Sessy bij jouw situatie past? Lees dan ook mijn [uitgebreide Sessy review](/posts/sessy-home-battery-review-2026/) en het artikel over [de beste thuisbatterijen voor Nederland](/posts/beste-thuisbatterij-nederland-2026/).
 
-**[Bekijk Tibber dynamisch contract](/go/tibber)**
+**[Bekijk Tibber dynamisch contract](https://go.duurzaamthuislab.nl/tibber)**
 
-**[Bekijk Sessy thuisbatterij](/go/sessy)**
+**[Bekijk Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy)**
 
 ---
 
