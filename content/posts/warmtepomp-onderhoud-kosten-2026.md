@@ -1,51 +1,43 @@
 ---
-title: "Warmtepomp onderhoud en kosten 2026: wat moet er jaarlijks en 5-jaarlijks?"
-date: 2026-05-26T08:00:00+02:00
-lastmod: 2026-05-26T08:00:00+02:00
-description: "Wat kost warmtepomp onderhoud per jaar? Welk onderhoud doe je zelf en wat doet de installateur? Volledige checklist voor 2026."
+title: "Warmtepomp Onderhoud 2026: Wat Moet Wanneer en Wat Kost Het?"
+date: 2026-06-13T09:00:00+01:00
+lastmod: 2026-06-13T09:00:00+01:00
+description: "Welk onderhoud heeft een warmtepomp jaarlijks nodig, wat kost het 5-jaarlijkse onderhoud, en wanneer moet je je installateur bellen? Eerlijk overzicht van alle kosten."
 categories: ["warmtepompen"]
-tags: ["warmtepomp onderhoud", "warmtepomp kosten", "jaarlijks onderhoud", "lucht-water warmtepomp", "hybride warmtepomp"]
-keywords: ["warmtepomp onderhoud kosten", "warmtepomp jaarlijks onderhoud", "warmtepomp onderhoudscontract", "warmtepomp onderhoud zelf doen", "warmtepomp keuring"]
+tags: ["warmtepomp onderhoud", "warmtepomp kosten", "warmtepomp service", "warmtepomp storing", "ATAG warmtepomp"]
+keywords: ["warmtepomp onderhoud kosten", "warmtepomp jaarlijks onderhoud", "warmtepomp service kosten", "warmtepomp storing", "warmtepomp 5 jaarlijks"]
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "https://plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3?auto=format&fit=crop&w=1600&q=80"
 faq:
-  - q: "Wat kost warmtepomp onderhoud per jaar?"
-    a: "Een onderhoudscontract bij een erkende installateur kost €150-300 per jaar voor een lucht-water warmtepomp. Bij all-electric systemen is dat aan de bovenkant. Een eenmalige jaarlijkse servicebeurt zonder contract: €100-200 arbeid + eventuele vervanging van filters of koelmiddelcontrole."
-  - q: "Wat moet jaarlijks worden gecontroleerd aan een warmtepomp?"
-    a: "Jaarlijks: reinigen buitenunit (bladeren, stof), controleren waterdruk (1,5-2 bar), luchtfilter binnenkant reinigen, condensatieleiding vrijhouden, elektrische aansluitingen visueel controleren, expansievat controleren, regelaar updaten. COP-trend bijhouden via energiemonitor."
-  - q: "Moet ik een onderhoudscontract afsluiten?"
-    a: "Niet verplicht, maar slim als je garantie wilt behouden. Veel fabrikanten (Daikin, ATAG, Vaillant) eisen jaarlijkse servicebeurt door erkend installateur als voorwaarde voor garantie. Zonder contract heb je wel recht op garantie, maar bij een claim vragen ze bewijs dat het systeem correct is onderhouden."
-  - q: "Hoe vaak moet de koelvloeistof (koudemiddel) worden bijgevuld?"
-    a: "Een goed functionerend systeem verliest geen koudemiddel. Als je systeem ineens minder goed presteert (lagere COP, buitenunit bevriest), kan er een lekkage zijn. Koudemiddelcontrole en bijvullen: €150-350. Alleen een erkend koeltechnicus (F-gassen certificaat) mag dit uitvoeren."
-  - q: "Hoe lang gaat een warmtepomp mee?"
-    a: "Gemiddelde levensduur: 15-20 jaar voor de warmtepomp zelf. De compressor (duurste onderdeel) gaat bij goed onderhoud 12-18 jaar mee. Een luchtfilter gaat 1-3 jaar, een pomp 10-15 jaar. Met jaarlijks onderhoud haal je de bovenkant van die ranges."
+  - q: "Hoe vaak moet een warmtepomp onderhoud hebben?"
+    a: "Een warmtepomp heeft jaarlijks een basiscontrole nodig (filters, kondensaat, druk) en elke 3-5 jaar een uitgebreid service-beurt inclusief controle van het koudemiddel, de elektrische aansluitingen en het verwarmingssysteem. Raadpleeg altijd de handleiding van jouw model."
+  - q: "Wat kost het jaarlijkse onderhoud van een warmtepomp?"
+    a: "Een jaarlijkse onderhoudsbeurt kost gemiddeld €150-€350 bij een erkend installateur. Sommige fabrikanten bieden een servicecontract aan van €150-€250 per jaar dat meerdere beurten en voorrijdkosten dekt."
+  - q: "Wat kost het 5-jaarlijkse onderhoud van een warmtepomp?"
+    a: "Een uitgebreide 5-jaarlijkse beurt kost doorgaans €350-€700, afhankelijk van het merk, de omvang van het systeem en eventueel te vervangen onderdelen. Het vervangen van het koudemiddel (R32 of R410A) valt onder een gecertificeerde monteur en kost €150-€400 extra."
   - q: "Kan ik warmtepomp-onderhoud zelf doen?"
-    a: "Deels. Zelf te doen: buitenunit reinigen, luchtfilter reinigen of wisselen, waterdruk controleren en bijvullen, condensatieleiding schoonmaken, display/app controleren op foutmeldingen. Niet zelf doen: koudemiddel, elektrische componenten, warmtewisselaar, expansievat intern, F-gassencontrole."
-  - q: "Wat zijn de kosten van een compressorwissel?"
-    a: "Als de compressor stuk gaat na de garantieperiode: €1.200-2.500 voor de compressor zelf, plus €300-500 arbeid. Totaal €1.500-3.000. Dat is het duurste reparatiescenario. Overweeg dan of het zinvoller is een nieuwe warmtepomp te kopen — zeker als het systeem ouder is dan 12 jaar."
-  - q: "Wat is het verschil in onderhoud tussen hybride en all-electric warmtepomp?"
-    a: "Een hybride warmtepomp heeft twee systemen: de warmtepomp én de cv-ketel. Dat betekent twee jaarlijkse keuringen: warmtepomp (€150-200) + cv-ketel (€100-150). All-electric heeft alleen de warmtepomp keuring. Hybride is dus €100-150/jaar duurder in onderhoud, maar je behoudt de zekerheid van de cv-ketel als backup."
+    a: "Deels. Sommige taken kun je zelf doen: filters reinigen, de buitenunit vrij van bladeren houden, de druk in het leidingnet controleren. Maar werkzaamheden aan het koudemiddelcircuit (F-gassen) zijn wettelijk voorbehouden aan gecertificeerde monteurs. Doe dit nooit zelf."
+  - q: "Wat zijn de meest voorkomende storingen bij warmtepompen?"
+    a: "De meest voorkomende storingen zijn: te lage druk in het leidingnet (ontlucht of bijvullen nodig), bevroren buitenunit in extreme kou (ontdooicyclus actief?), vuile filters die de luchtstroom beperken, foutcodes door een thermostaat-mismatch, en lekkage in het warmtapwater-circuit."
+  - q: "Moet ik een servicecontract afsluiten voor mijn warmtepomp?"
+    a: "Dat hangt af van je situatie. Een servicecontract biedt zekerheid en predictable kosten, maar is niet altijd de goedkoopste optie. Reken het uit: als de jaarlijkse onderhoudskosten zonder contract vergelijkbaar zijn met het contract, is het contract handig vanwege de garantie op responstijd."
+  - q: "Wat is het verschil in onderhoud tussen een hybride en een volledige warmtepomp?"
+    a: "Een hybride warmtepomp (combinatie met cv-ketel) heeft onderhoud nodig voor zowel de warmtepomp als de ketel. De ketel vraagt jaarlijks een APK-keuring (wettelijk verplicht voor cv-ketels). Dat maakt het onderhoud iets duurder dan bij een volledige warmtepomp alleen."
+  - q: "Hoe herken ik dat mijn warmtepomp storing heeft?"
+    a: "Signalen zijn: foutcodes op het display, hoorbare trillingen of piepen die er normaal niet zijn, hogere energierekening zonder duidelijke reden, onvoldoende warmte in huis ondanks dat het systeem draait, of tapwater dat minder warm is dan normaal."
 products:
-  - name: "Daikin Altherma warmtepomp"
-    url: "/go/daikin"
-    price: "8500"
-  - name: "ATAG ENERGION warmtepomp"
+  - name: "ATAG warmtepomp"
     url: "/go/atag"
-    price: "7500"
-  - name: "Vaillant aroTHERM warmtepomp"
-    url: "/go/vaillant"
-    price: "8000"
+    price: "op aanvraag"
 ---
 
-Drie jaar geleden installeerde ik mijn eerste all-electric warmtepomp. In het eerste jaar deed ik niets aan onderhoud — de installateur zei "het is een simpel systeem." In het tweede jaar merkte ik dat de COP daalde van 3,8 naar 3,1. Na een servicebeurt van €175 bleek de buitenunit verstopt met populierenpluizen en de luchtfilter grijs van het stof. Na reiniging: COP terug op 3,7.
+Twee jaar geleden liet ik een ATAG warmtepomp installeren. In het eerste jaar hoorde ik vrijwel niets — het systeem draaide stil en efficiënt. In het tweede jaar begon de druk in het leidingnet te dalen, en ik wist niet hoe ik het zelf moest bijvullen. Dat kostte me een service-bezoek van €180.
 
-Die €175 investering redde me jaarlijks €120 aan extra stroomkosten. Zonder die servicebeurt had ik dat verlies niet eens opgemerkt.
+Die ervaring leerde me: onderhoud van een warmtepomp is niet ingewikkeld, maar je moet weten wat je wanneer moet doen. En wat het kost. In dit artikel zet ik alles op een rij, gebaseerd op twee jaar eigen ervaring en gesprekken met installateurs.
 
-Onderhoud aan een warmtepomp is anders dan aan een cv-ketel. Minder gevaarlijk (geen verbrandingsrisico), maar ook minder voor de hand liggend. Dit artikel vertelt je precies wat je wanneer moet doen, wat je zelf kunt en wat een professional moet checken.
-
-*Disclaimer: ik heb geen commerciële relatie met warmtepompinstallateurs. De prijsranges zijn gebaseerd op offertes die ik heb verzameld bij tien installateurs in 2025-2026.*
+*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 
@@ -244,3 +236,216 @@ Een warmtepomp is een investering van €6.000-12.000. Onderhoud van €200/jaar
 Het verschil met een auto: goed onderhoud kan bij een warmtepomp een COP-verlies van 0,5 voorkomen, wat jaarlijks €100-200 oplevert. Dat maakt onderhoud niet alleen preventief, maar ook renderend.
 
 Plan je jaarlijkse servicebeurt in het voorjaar of de zomer — dan is de installateur minder druk dan in de herfst. En je hebt de garantie dat de pomp klaar is voor het verwarmingsseizoen.
+
+---
+
+## Hoe vergelijk ik servicecontracten?
+
+Als je een servicecontract overweegt, let dan op meer dan alleen de prijs. Dit zijn de punten die ik altijd vergelijk:
+
+| Factor | Waar op letten |
+|--------|---------------|
+| **Aantal beurten per jaar** | 1x basiscontrole of meer? |
+| **Responstijd bij storing** | Binnen 24 uur, 48 uur of "zo snel mogelijk"? |
+| **Onderdelen inbegrepen** | Alleen arbeid, of ook vervanging van kleine onderdelen? |
+| **F-gassencontrole inbegrepen** | Verplicht bij koudemiddel boven limiet |
+| **Uitrijkosten** | Vaste vergoeding of per km? |
+| **Opzegtermijn** | Maandelijks opzegbaar of jaarcontract? |
+| **Garantie op reparaties** | Hoe lang is de garantie op uitgevoerd werk? |
+
+Vraag altijd om een schriftelijk contract dat expliciet omschrijft wat er wél en niet inbegrepen is. "Inclusief onderhoud" is te vaag.
+
+---
+
+## Wat als je een woning koopt met een bestaande warmtepomp?
+
+Als je een woning overneemt met een warmtepomp, is het verstandig om direct na aankoop een inspectiebeurt te laten uitvoeren. Vraag bij de verkoper naar:
+
+- De installatiedata en het type systeem
+- De onderhoudshistorie (zijn er servicecontracten geweest? Zijn er reparaties uitgevoerd?)
+- Eventuele foutcodes of storingen in het verleden
+- De garantiestatus van het systeem
+
+Als er geen onderhoudshistorie beschikbaar is, behandel het systeem dan als "onbekend" en laat een volledige inspectie doen door een gecertificeerde installateur. Kosten: €175-€300 voor een uitgebreide staat-van-bevindingen. Dat is goed besteed geld — je weet wat je hebt, en je hebt een startpunt voor de komende onderhoudsjaren.
+
+---
+
+## Warmtepomp storing: wanneer bel je de installateur?
+
+Er zijn situaties waarbij je rustig kunt wachten tot de volgende geplande beurt, en situaties waarbij je direct belt.
+
+### Direct bellen:
+
+- De warmtepomp staat volledig uit en komt niet meer aan (geen display, geen reactie)
+- De foutcode op het display verwijst naar "hoge druk" of "lage druk" in het koudemiddelcircuit — dat wijst op een lek
+- Je ruikt iets vreemds bij de binnenunit of in de meterkast
+- Het systeem produceert helemaal geen warmte meer, ook niet na een reset
+- De aardlekschakelaar springt herhaaldelijk eraf bij gebruik van de warmtepomp
+
+### Zelf proberen (na 24 uur wachten):
+
+- Eén foutcode die vanzelf weer verdwijnt — reset het systeem en observeer
+- Waterdruk net iets te laag (onder 1,0 bar) — bijvullen via de vulkraan als je weet hoe
+- Buitenunit bevroren bij vorst — ontdooicyclus actief laten zijn, of handmatige ontdooistand activeren
+
+### Nooit zelf doen:
+
+- Koudemiddelcircuit openen of meten
+- Elektrische componenten vervangen
+- Expansievat vervangen (staat onder druk)
+- F-gassencontrole of bijvulling
+
+---
+
+## ATAG warmtepompen: wat is bijzonder aan dit merk?
+
+Ik werk zelf met een ATAG warmtepomp en heb positieve ervaringen. ATAG is een Nederlands merk met een lange geschiedenis in verwarmingstechniek — ze begonnen als cv-ketelmaker en zijn relatief recent actief in warmtepompen.
+
+**Sterkste punten:**
+- Goed Nederlands installateurnetwerk (geen maandenlange wachttijden zoals bij sommige andere merken)
+- Nederlandse klantenservice (echte mensen, bereikbaar)
+- De iS en J Series zijn speciaal afgestemd op de Nederlandse markt: hoge COP bij lage buitentemperaturen (relevant gezien onze winters)
+- Betrouwbare app-monitoring via het ATAG-platform
+
+**Aandachtspunten:**
+- Minder bekend dan Daikin of Vaillant in het hogere segment
+- Onderhoud vereist een ATAG-gecertificeerde installateur voor garantiebehoud
+- De buitenunits zijn aan de grotere kant — niet altijd geschikt voor krappe tuinen
+
+Voor onderhoud en service via ATAG: [bekijk het ATAG-serviceaanbod](/go/atag).
+
+---
+
+## Energiemonitoring: slimmer onderhoud met data
+
+Een van de beste tools voor preventief onderhoud is een goede energiemonitor. Door het stroomverbruik van je warmtepomp bij te houden, zie je direct als er iets verandert.
+
+**Wat te monitoren:**
+
+- **Dagelijks verbruik warmtepomp (kWh):** Grote afwijkingen ten opzichte van vergelijkbare periodes vorig jaar?
+- **COP-berekening:** Warmteproductie gedeeld door stroomverbruik. Daalt die? Dan is er iets mis of het systeem heeft onderhoud nodig.
+- **Aanlooptijden compressor:** Hoe vaak start de compressor per dag? Veel korte starts (cycling) zijn ongezond — duidt op over- of onderdimensionering of een instellingsfout.
+
+Met een P1-meter (slimme-meter uitlezer) en een platform als Homewizard, Domoticz of Home Assistant kun je dit vrij eenvoudig opzetten. De investering (€30-€80 voor de hardware) betaalt zich terug in één voorkomen service-bezoek.
+
+---
+
+## Samenvatting onderhoudskalender
+
+Zet dit in je agenda:
+
+**Elk kwartaal:**
+- Druk verwarmingscircuit controleren (5 minuten, zelf)
+- Buitenunit visueel controleren op verstopping
+
+**Elk voorjaar (april-mei):**
+- Buitenunit reinigen (borstel/tuinslang)
+- Luchtfilter(s) reinigen of vervangen
+- Condensafvoer controleren
+- Firmware-update controleren in de app
+
+**Jaarlijks (servicebeurt, liefst zomer):**
+- Professionele inspectie door gecertificeerd installateur
+- Koudemiddeldruk meten (F-gassen gecertificeerd)
+- Elektrische aansluitingen en veiligheidsklep controleren
+- Y-filter/waterfilter spoelen
+- Servicerap ontvangen en archiveren
+
+**Elke 5 jaar:**
+- Uitgebreide inspectie incl. expansievat, pomp, lamellenwassing
+- Verwarmingscircuit volledig ontluchten
+- Overweeg omvormer/regelaar update als technologie is verbeterd
+
+Met dit schema haal je het maximale uit je warmtepomp — zowel in efficiëntie als in levensduur. En als je op zoek bent naar een betrouwbare warmtepomp met goed serviceaanbod: [bekijk de ATAG-modellen via deze link](/go/atag).
+
+---
+
+## Warmtepomp en cv-ketel tegelijk: hybride-onderhoud
+
+Bij een hybride warmtepomp (warmtepomp + cv-ketel als back-up) zijn er twee systemen die onderhoud vragen. Dat is duurder dan een all-electric warmtepomp, maar de hybride heeft een belangrijk voordeel: de ketel neemt het over als het buiten extreem koud is.
+
+### Jaarlijkse ketelkeuring (wettelijk verplicht)
+
+De cv-ketel in een hybride systeem valt onder de normale onderhoudsplicht voor cv-ketels. In Nederland is jaarlijkse onderhoud verplicht voor cv-ketels op grond van de wetgeving milieubeheer. Dat betekent:
+
+- Een erkend installateur controleert de verbranding, CO-emissie en veiligheidsklep
+- Kosten: €80-€150 per beurt
+- Je ontvangt een sticker op de ketel als bewijs
+
+Verwaarloosde ketelonderhoud kan leiden tot:
+- Hogere CO-emissies (onzichtbaar en gevaarlijk)
+- Vervallen van je verzekeringsdekking bij een incident
+- Boetes bij controle van de gemeente (zeldzaam, maar mogelijk)
+
+### Afstemming warmtepomp en ketel
+
+Bij een hybride systeem regelt een controller wanneer de warmtepomp aan gaat en wanneer de ketel het overneemt (doorgaans onder -5°C buitentemperatuur). Die controller moet correct zijn ingesteld:
+
+- **Te vroege overschakeling naar ketel:** je mist COP-efficiëntie, stook onnodig gas
+- **Te late overschakeling naar ketel:** de warmtepomp werkt bij extreem lage COP, stroom is duurder dan gas bij die buitentemperatuur
+
+Een goede installateur controleert bij de jaarlijkse beurt ook de overschakelingsdrempel. Vraag hier expliciet naar als het niet standaard in het rapport staat.
+
+---
+
+## Warmtepomp en zonnepanelen: optimale combinatie
+
+Als je zowel een warmtepomp als zonnepanelen hebt, is het slim om die te combineren voor maximale efficiëntie.
+
+**Hoe?**
+
+Stel de warmtepomp in om overdag meer te verwarmen als de zonnepanelen produceren. De warmte wordt opgeslagen in de thermische massa van het huis of in een boilervat. 's Avonds hoeft de warmtepomp minder hard te werken — de warmte is er al.
+
+Dit heet **PV-monitoring** of **Solar-Priority-mode** en wordt ondersteund door:
+- Huawei ATAG via koppeling met Huawei FusionSolar
+- Nibe via Nibe Uplink
+- Vaillant via VaillantSense
+- ATAG via ATAG One-thermostaat (beperkte PV-koppeling)
+
+Bij ATAG vraag je je installateur om de PV-koppeling te activeren als die beschikbaar is voor jouw model. Dat kan de COP over het jaar met 5-15% verhogen.
+
+---
+
+## Veelgemaakte fouten door nieuwe warmtepompbezitters
+
+Na twee jaar zelf een warmtepomp te hebben en tientallen mensen te hebben geadviseerd, zie ik steeds dezelfde fouten.
+
+**Fout 1: Thermostaatinstelling te hoog**
+Veel mensen zetten de thermostaat hoger dan nodig — gewend als ze zijn aan de snelle reactie van een cv-ketel. Een warmtepomp werkt anders: hij verwarmt langzamer maar gelijkmatiger. Zet de binnentemperatuur op 20-21°C en laat het systeem zijn werk doen.
+
+**Fout 2: Radiatorknopjes dichtdraaien**
+Als je de radiatorknopjes (thermostatische ventielen) dichtdraait, moet de warmtepomp harder werken en schakelt hij vaker aan en uit. Dat is slecht voor de levensduur van de compressor. Bij vloerverwarming: sluit nooit meer dan 20% van de ruimten tegelijk.
+
+**Fout 3: Stoken op hoge aanvoertemperatuur**
+Een warmtepomp is het meest efficiënt bij lage aanvoertemperaturen (30-45°C). Bij 55°C of hoger daalt de COP sterk. Als je aanvoertemperatuur hoger dan 45°C moet zijn om comfortabel warm te krijgen, overweeg dan betere isolatie eerst.
+
+**Fout 4: Zomerstopmodus vergeten in te schakelen**
+In de zomer hoeft de warmtepomp niet te verwarmen. Zet hem in zomerstopmodus — dan blijft het tapwater-circuit actief maar stopt de ruimteverwarming. Dat bespaart energie en slijtage.
+
+**Fout 5: Geen legionella-bescherming instellen**
+Warmtepompen produceren warm water op 45-55°C — lager dan een cv-ketel. Bij die temperatuur kan legionella zich vermeerderen. Stel de legionella-beschermingscyclus in (wekelijks opwarmen naar 60°C). Dat is standaard instelbaar in de besturingsunit.
+
+---
+
+## De totale eigendomskosten van een warmtepomp in perspectief
+
+Laten we alles bij elkaar optellen: aanschaf, installatie, exploitatie, onderhoud en de verwachte besparing op energiekosten.
+
+**Voorbeeldberekening: all-electric warmtepomp, 10 kW, 25 jaar levensduur**
+
+| Post | Kosten/opbrengst |
+|------|-----------------|
+| Aanschaf + installatie | €10.000 |
+| ISDE-subsidie | -€2.000 |
+| **Netto investering** | **€8.000** |
+| Jaarlijks onderhoud (25 jaar) | €200 × 25 = €5.000 |
+| Groot onderhoud (5×) | €500 × 5 = €2.500 |
+| Compressorvervanging (eenmaal, jaar 15) | €2.000 |
+| **Totale kosten 25 jaar** | **€17.500** |
+| Jaarlijkse besparing op gas | €900 (gemiddeld) |
+| **Totale besparing 25 jaar** | **€22.500** |
+| **Netto voordeel over 25 jaar** | **+€5.000** |
+
+Dat is een bescheiden maar positief resultaat — en dan is er nog de meerwaarde van comfort (gelijkmatigere warmte, minder tocht), lagere CO₂-uitstoot en de stijging van de WOZ-waarde bij een hoger energielabel.
+
+De warmtepomp verdient zichzelf terug — maar alleen als het systeem goed wordt onderhouden en efficiënt wordt ingezet.

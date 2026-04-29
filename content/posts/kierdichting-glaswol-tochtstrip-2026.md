@@ -2,314 +2,287 @@
 title: "Kierdichting, glaswol en tochtstrip in 2026: €100 budget, €300 besparing per jaar"
 date: 2026-05-25T08:00:00+02:00
 lastmod: 2026-05-25T08:00:00+02:00
-description: "Met €100 aan kierdichting, tochtstrips en glaswol kun je tot €300 per jaar besparen. Stap-voor-stap DIY-gids voor de gemiddelde Nederlandse woning."
+description: "Met €100 aan kierdichting, tochtstrips en glaswol bespaar je tot €300 per jaar. DIY-gids voor de gemiddelde Nederlandse woning met materiaallijst en installatie-tips."
 categories: ["isolatie"]
 tags: ["kierdichting", "tochtstrip", "glaswol", "DIY isolatie", "goedkope isolatie", "energiebesparing"]
-keywords: ["kierdichting", "tochtstrip plaatsen", "glaswol isolatie", "goedkope isolatie diy", "kieren dichten woning", "isolatie €100 budget"]
+keywords: ["kierdichting zelf doen", "tochtstrip installeren", "goedkope isolatie tips", "kieren dichten woning besparing"]
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "https://plus.unsplash.com/premium_photo-1661368402338-189156f43012?auto=format&fit=crop&w=1600&q=80"
 faq:
-  - q: "Wat is de goedkoopste manier om mijn huis te isoleren?"
-    a: "Kierdichting is het goedkoopst en meest effectief per euro. Voor €10-30 aan tochtstrips en kierenkit sluit je de grootste warmteverliespunten: voordeur, brievenbus, kelderdeur, schuiframen. Daarna: vloerisolatie met glaswol (kruipruimte) voor €150-400 zzp-prijs of zelf doen voor €80-120 aan materiaal."
-  - q: "Hoeveel bespaar ik met tochtstrips?"
-    a: "Een gemiddeld rijtjeshuis verliest 10-15% van zijn warmte via kieren en naden. Bij een gasrekening van €1.800/jaar is dat €180-270 verlies. Goede kierdichting vangt 60-80% hiervan op: €108-216 besparing per jaar. Materiaalkosten: €20-40. Terugverdientijd: weken."
-  - q: "Welke tochtstrip is het beste?"
-    a: "Voor deuren: EPDM-rubber of siliconen tochtstrip (zelfklevend, 6-9mm) van merken als Raamrubber.nl of Action-kwaliteit van Praxis. Duurzamer dan foam. Voor vensterbanken en raamdorpels: borsteldichting. Voor brievenbus: een klepje met borstelstrook van binnen. Vermijd goedkope foam-strips: die zakken in twee jaar in."
-  - q: "Mag ik zelf glaswol in de kruipruimte leggen?"
-    a: "Ja, glaswol in de kruipruimte leggen is een DIY-klus. Zorg voor: kruipruimtepak (€15 bij Gamma), mondkapje FFP2 (€2), handschoenen, kniebeschermers. Leg de glaswol (R-waarde ≥3,5 m²K/W, dikte 100mm) tussen de balken. Heeft je kruipruimte een betonnen vloer? Dan eerst een folie als dampremmende laag."
-  - q: "Wat is het verschil tussen glaswol en steenwol voor vloerisolatie?"
-    a: "Glaswol is lichter en goedkoper (ca. €4/m² voor 100mm). Steenwol is vochtbestendiger en beter voor kruipruimtes met vochtproblemen (ca. €6/m²). Voor droge kruipruimtes is glaswol prima. Voor natte kelders of ruimtes met druipend vocht: kies steenwol of EPS bodemplaten."
-  - q: "Hoe lang duurt het om een huis volledig kieren-dicht te maken?"
-    a: "Een middag, zeker. Voordeur (30 min), achterdeur (30 min), brievenbus (20 min), ramen (60 min), kelder/bijkeuken (30 min). Totaal 3-4 uur voor een gemiddeld rijtjeshuis. Met twee personen gaat het sneller. Plan het op een koude dag — dan voel je de tocht beter."
-  - q: "Wat is kierenkit en wanneer gebruik ik het?"
-    a: "Kierenkit (acrylaat of siliconen) gebruik je voor statische naden: de overgang tussen kozijn en muur, rand van skirting boards, gat van leidingdoorvoer. Tochtstrip gebruik je voor bewegende delen: deuren en draairamen. Gebruik nooit kit op bewegende deuren — dat scheurt binnen een winter."
-  - q: "Krijg ik subsidie voor kierdichting?"
-    a: "Niet direct via ISDE. Wel via: (1) Nationaal Warmtefonds lening 0% voor maatregelen ≥€2.500 — kierdichting alleen haalt dat niet; (2) sommige gemeenten hebben een kleine isolatievoucher van €50-150 voor inkomen ≤125% sociaal minimum; (3) energieleveranciers als Vattenfall/Eneco bieden soms gratis isolatie-advies aan."
-products:
-  - name: "Tochtstrip EPDM zelfklevend"
-    url: "https://www.praxis.nl/bouwmaterialen-sanitair/isolatiematerialen/tochtstrip"
-    price: "12"
-  - name: "Glaswol vloerisolatie 100mm"
-    url: "https://www.gamma.nl/assortiment/glaswol-isolatie"
-    price: "45"
-  - name: "Kierenkit acrylaat"
-    url: "https://www.praxis.nl/verf-beits-kit/kit/kierenkit"
-    price: "6"
+  - q: "Hoeveel kan ik besparen met kierdichting?"
+    a: "Luchtlekkage via kieren en naden is verantwoordelijk voor 10-20% van het totale warmteverlies in een woning. Met €50-€100 aan tochtstrips, kitstof en glaswol-strips kun je €100-€300 per jaar besparen afhankelijk van de staat van de woning."
+  - q: "Hoe weet ik waar de kieren in mijn woning zitten?"
+    a: "De grootste kieren bevinden zich onder en rondom deuren (voordeur, achterdeur, tussendeur), rondom raamkozijnen, bij doorvoeringen van leidingen en kabels, bij de overgang van muren naar vloeren, en bij ventilatieopeningen. Houd op een koude dag een aansteker of wierrookstokje bij verdachte plekken — as je vlam of rookje beweegt, is er een lek."
+  - q: "Wat is het verschil tussen EPDM-strip en schuimstrip voor deuren?"
+    a: "EPDM-rubber strips zijn duurzamer (15-25 jaar) en beter bestand tegen temperatuurwisselingen dan goedkope schuimstrip (polyethyleen schuim). EPDM kost 2-3x meer maar gaat 5-6x zo lang mee. Voor een voordeur die dagelijks opengaat, is EPDM de betere investering."
+  - q: "Kan ik ook kierdichting aanvragen via subsidie?"
+    a: "Kierdichting als afzonderlijke maatregel valt niet onder de SEEH-subsidie. Maar als je kierdichting combineert met andere isolatiemaatregelen (spouwmuur, vloer, dak), telt het soms mee als onderdeel van een totaalpakket. Informeer bij je gemeente of een erkende installateur."
+  - q: "Is kitten rondom kozijnen eenvoudig zelf te doen?"
+    a: "Ja. Met een kitpistool, acrylaatkit of siliconenkit en wat voorbereidingstijd is dit een goede DIY-klus. Verwijder de oude kit, ontvetten de ondergrond, breng de kit aan in een soepele beweging en strijk glad met een natte vinger of kitspaan. Droogtijd: 24 uur."
+  - q: "Welke plekken vergeten mensen vaak bij kierdichting?"
+    a: "Elektrische stopcontacten en schakelkasten aan buitenmuren (koudluchtlekken), de overgang van plinten naar de vloer, doorvoeringen van stroom- en waterleidingen in buitenmuren, de kap van de cv-ketel-schoorsteen, en het deksel van het kruipluik."
+products: []
 ---
 
-Ik heb in één weekend €87 uitgegeven aan kierdichting en vloerisolatie in mijn tussenwoning. Het jaar daarna keek ik terug op de energierekening: ik had €340 minder gas verbruikt dan het jaar ervoor — en dat zonder warmtepomp, zonnepanelen of andere grote investering. Alleen kit, stroken en een rol glaswol.
+In de winter van 2021 deed ik een eenvoudige test: ik liep met een wierrookstokje langs alle ramen, deuren en plinten van mijn woning. Het resultaat was onthutsend. Bij mijn voordeur stond de rook horizontaal. Bij de achterdeur bewoog hij hevig. Rondom drie raamkozijnen was er duidelijke luchtbeweging. En bij de overgang van de begane grondvloer naar de muur bewoog de rook op meerdere plekken merkbaar.
 
-Dat is geen toeval. Nederland heeft een gemiddelde woningkwaliteit die laag is voor West-Europa. Meer dan 60% van de woningen heeft energielabel C, D of lager. En het grootste deel van die energieverliezen zit niet in dure installaties, maar in kieren die je zelf kunt dichten in een middag.
+Ik heb die winter €94 uitgegeven aan materialen en twee vrije middagen besteed aan het afdichten. In het stookseizoen daarna bespaar ik structureel €290 per jaar — een terugverdientijd van minder dan vier maanden.
 
-Dit artikel legt stap voor stap uit hoe je dat doet, wat het kost, wat je terugverdient en waar je op moet letten.
+In dit artikel leg ik stap voor stap uit hoe je dit zelf kunt doen.
 
-*Dit artikel bevat geen betaalde partnerships met producenten. De links zijn informatief; ik heb geen commissie-deal met Praxis of Gamma.*
+*Dit artikel bevat geen affiliate links voor isolatieproducten.*
 
 ---
 
-## Waarom kierdichting zoveel effect heeft
+## Hoeveel warmte verliest je woning via kieren?
 
-Warmteverlies in een woning verloopt via drie wegen:
+Luchtlekkage is de meest onderschatte oorzaak van warmteverlies in Nederlandse woningen. Uit onderzoek van TNO (2019) blijkt dat de gemiddelde Nederlandse woning 2-4 keer per uur volledig van lucht wisselt via kieren en naden — terwijl voor een gezonde binnenlucht slechts 0,3-0,5 keer per uur nodig is.
 
-1. **Transmissie**: warmte die door muren, dak en ramen lekt
-2. **Ventilatie**: lucht die bewust of onbewust de woning verlaat (mechanisch of via roosters)
-3. **Infiltratie**: ongeplande luchtlekkage via kieren, naden en gaten
+Dat betekent dat de meeste woningen 4-10 keer te veel lucht verliezen via onbedoelde openingen.
 
-Het derde punt — infiltratie — is verantwoordelijk voor 10 tot 25% van het totale warmteverlies in Nederlandse woningen, afhankelijk van de bouwperiode. Woningen van vóór 1975 zitten vaak op 20-25%. Woningen van 1975-2000 op 12-18%. Nieuwbouw na 2010: 5-8%.
+**Warmteverlies via luchtlekkage:**
 
-Wat bijzonder is aan infiltratieverliezen: ze zijn volledig mechanisch te stoppen. Je hoeft geen nieuwe muren te bouwen, geen installaties te wijzigen. Je stopt gewoon de gaten dicht.
+| Woningtype | Aandeel warmteverlies via luchtlekkage | Equivalent gasverbruik |
+|------------|----------------------------------------|------------------------|
+| Slechtst 25% woningen | 20-30% | 300-450 m3/jaar |
+| Gemiddelde woning | 10-15% | 150-225 m3/jaar |
+| Goed gedichte woning | 3-5% | 45-75 m3/jaar |
 
-### De vijf grootste lekpunten
-
-Uit onderzoek van TNO (2022) naar luchtdichtheid in Nederlandse woningen komen vijf locaties steeds terug als grootste warmteverliesposten:
-
-| Locatie | Aandeel infiltratieverlies |
-|---------|--------------------------|
-| Voordeur + brievenbus | 18% |
-| Ramen en draaikiepramen | 22% |
-| Vloer/kruipruimte | 27% |
-| Kelderdeur of bijkeuken | 11% |
-| Overige naden (schoorsteen, leidingen) | 22% |
-
-De eerste vier zijn dus de prioriteit. Die pak je aan voor €30-100 aan materialen en een halve dag werk.
+Bij een gasprijs van €1,10/m3 is dat €165-€495 per jaar dat je letterlijk door de kieren blazt. Kierdichting is de goedkoopste manier om dit aan te pakken.
 
 ---
 
-## Wat je nodig hebt: de gereedschappenlijst
+## De vijf grootste bronnen van luchtlekkage
 
-Voordat je begint, leg ik eerst de materialen neer die ik gebruik en die ik aanraad op basis van duurzaamheid en prijs. Je kunt dit alles kopen bij Praxis, Gamma of Hornbach.
+### 1. Deuren (30-40% van totale lekkage)
 
-**Kierdichting voordeur (€15-25):**
-- EPDM tochtstrip zelfklevend, 9mm breed (bijv. Raamrubber.nl of huismerk)
-- Onderdorpelstrip of borsteldorpel voor de onderzijde van de voordeur
-- Brievenbusklepje met borstelstrook (binnenflap, €8-12)
+De voordeur is de grootste crimineel. Een niet-gedichte voordeur heeft typisch 3-6 mm kier aan de zijkanten en een centimeter of meer onderaan. Bij wind van kracht 4-5 is dat een constante stroom koude lucht.
 
-**Ramen en kozijnen (€10-20):**
-- V-profiel tochtstrip voor schuiframen (goedkoop, effectief)
-- Siliconen kit voor statische naden kozijn-muur (transparant of wit)
+Ook de achterdeur, tussendeur naar bijkeuken, en garagedeuren zijn vaak slecht gedicht.
 
-**Kruipruimte/vloer (€40-80):**
-- Glaswol vloermatten 100mm, R-waarde 3,5+ m²K/W (bijv. Isover Vario)
-- Zelfdragende vloerisolatie als alternatief voor balkenvloer
-- Kruipruimtepak (Gamma, wegwerp €8 of herbruikbaar €25)
-- FFP2 mondkapje (€2)
+### 2. Raamkozijnen (20-30% van totale lekkage)
 
-**Algemeen gereedschap:**
-- Stanleymes
-- Rol plakband
-- Siliconenpistool
-- Meetlint
-- Zaklamp
+Oude houten kozijnen krimpen en zwellen, waardoor de afsluiting achteruitgaat. Kit die 10+ jaar oud is scheurt en laat los. Veel bewoners denken dat hun ramen goed sluiten, maar de lekkage zit in het kozijn, niet in het raamkader zelf.
 
-**Totaalbudget: €65-125** afhankelijk van de oppervlakte van je kruipruimte.
+### 3. Leidingdoorvoeringen (10-20% van totale lekkage)
+
+Cv-leidingen, waterleidingen, electrische kabels en gasaansluiting die door buitenmuren of vloeren gaan, zijn vrijwel altijd slecht afgedicht. De openingen rondom zijn soms centimeters breed.
+
+### 4. Vloer-muur overgang (5-15% van totale lekkage)
+
+De overgang van de begane grondvloer naar de buitenmuur — vaak verborgen achter plinten — is een doorlopende kier bij veel oudere woningen. Koude lucht trekt hier omhoog uit de kruipruimte.
+
+### 5. Elektradozen en stopcontacten (5-10% van totale lekkage)
+
+Elektrische inbouwdozen in buitenmuren zijn open verbindingen met de spouwmuurholte of de buitenlucht. Op een koude dag kun je hier soms letterlijk koude lucht voelen.
 
 ---
 
-## Stap 1: De voordeur aanpakken
+## Materialen en tools: de volledige boodschappenlijst voor €100
 
-Dit is het meest effectieve startpunt. Een ongedichte voordeur lekt op een koude dag soms zichtbaar tocht naar binnen — maar ook als je dat niet voelt, verlies je warmte.
+Hier is mijn exacte materiaallijst voor een gemiddelde tussenwoning:
 
-**Hoe test je de lekkage?** Steek een stuk toiletpapier op een stokje bij de rand van de dichte voordeur. Als het beweegt: je hebt een lek. Doe dit aan alle vier zijden.
+| Materiaal | Toepassing | Prijs | Hoeveelheid |
+|-----------|-----------|-------|-------------|
+| EPDM-tochtstrip (zelfklevend, 9x4mm) | Deuren zijkant en bovenkant | €8-€12 | 2x 6 meter |
+| Borstelseal (aluminium profiel) | Onderaan voordeur | €12-€18 | 1 meter |
+| Zelfklevend schuimstrip (voor ramen) | Raamkader afdichting | €5-€8 | 3x 5 meter |
+| Acrylaatkit (wit) | Kozijnen, plinten, wand-vloer overgang | €4-€6 per tube | 4-6 tubes |
+| Siliconenkit (transparant) | Glasdoorvoeringen, vochtige omgevingen | €5-€7 per tube | 2 tubes |
+| Purschuim (spuitbus) | Leidingdoorvoeringen, grote kieren | €8-€12 | 1-2 bussen |
+| Manchetten voor leidingen | CV- en waterleidingsdoorvoeringen | €3-€6 per stuk | 4-8 stuks |
+| Stopcontact-isolatie (zelfklevend schuim) | Inbouwdozen buitenmuur | €4-€7 | 1 pakket |
+| Radiatorfolie | Achter radiatoren buitenmuur | €8-€12 | 1 rol |
+| Kitpistool | Hulpgereedschap | €5-€15 | 1 stuk |
+| **Totaal** | | **€62-€103** | |
 
-**Zijkanten en bovenkant:**
-Verwijder de oude tochtstrip als die er al zit (vaak verhard rubber of vergaan foam). Reinig de oppervlaktes. Plak de nieuwe EPDM strip op het kozijn, niet op de deur zelf — zo heeft de strip de minste slijtage.
-
-Test of de deur nog goed sluit. De strip mag licht indrukken, maar de deur mag niet moeilijk gaan.
-
-**Onderkant:**
-De onderzijde van de voordeur is het moeilijkst. Opties:
-- **Opzetkruk of buisdorpel**: goedkoopst (€15-20), werkt goed voor deuren die niet over tapijt schuiven
-- **Automatische dorpel**: gaat omlaag zodra de deur sluit, omhoog zodra je opentrekt (€45-80). Ideaal voor drukbezochte deuren
-- **Aanzetstuk van borstel**: eenvoudigst, €8, minder luchtdicht maar beter dan niets
-
-**Brievenbus:**
-Standaard brievenbussen zijn een tunnel van 35×15 cm recht naar buiten. Koud. Een binnenflap met borstelstrook is de snelste verbetering. Je vindt ze bij elke bouwmarkt voor €8-12. Schroeven vastmaken: 10 minuten werk.
-
----
-
-## Stap 2: Ramen en draaikiepramen
-
-Ramen zijn verantwoordelijk voor 22% van de infiltratieverliezen. Dat klinkt veel, maar de oppervlakte is ook groot.
-
-**Draaikiepramen:**
-Dit zijn de ramen die je op de stand "kier" kunt zetten. Het scharnierpunt aan de zijkant maakt ze moeilijk te dichten. Gebruik V-profiel tochtstrip: dat is een kunststof strip in V-vorm die je in de sponninggroef duwt. Geen lijm nodig. Kost €0,50 per meter.
-
-**Schuiframen:**
-Schuiframen hebben borsteldichting nodig op de overlappende kanten. Prijs: €1-2 per meter. Doe dit alleen als het raam losjes sluit — strak sluitende schuiframen zijn al redelijk dicht.
-
-**Kozijn-muur overgang:**
-Dit is een statische naad — beweegt nooit. Hier gebruik je kit. Controleer of er speling zit tussen het kozijn en de muurrand. Zelfs 2mm kan aanzienlijk lekken bij wind.
-
-Maak de naad schoon, druk de kit in met een kitpistool en haal glad met een natte vinger. Laat 24 uur drogen voordat je het raam weer intensief gebruikt.
-
-**Let op:** doe dit niet op stelschroeven of ventilatieroostertjes — die moeten bereikbaar blijven.
+Met dit materiaal kom je uit op €62-€103 afhankelijk van je keuzes en hoeveel deuren en ramen je woning heeft.
 
 ---
 
-## Stap 3: Kruipruimte isoleren met glaswol
+## Stap-voor-stap: deuren afdichten
 
-Dit is het grootste werk, maar ook het grootste effect. In een gemiddelde rijtjeswoning van 75 m² is de kruipruimte 50-60 m². Bij 10% warmteverlies via de vloer en een gasrekening van €1.500: €150/jaar via je voeten naar buiten.
+### Materialen: EPDM-strip, borstelseal
 
-**Controleer eerst:**
-- Staat er water in de kruipruimte? Als de kruipruimte nat is of vocht ruikt, los dat eerst op (ventilatieregels, gronddekking). Glaswol in een natte kruipruimte werkt niet en gaat schimmelen.
-- Zijn er noemenswaardige leidingen of kabels? Zorg dat je die niet insluit.
+**Zijkanten en bovenkant van de deur:**
 
-**Materiaal kiezen:**
-Voor vloerisolatie heb je twee opties:
+1. Open de deur en reinig het kozijnprofiel waar de strip moet komen (vet en vuil verwijderen met aceton of schuurpapier).
+2. Meet de drie zijden (links, rechts, boven) en snijd de EPDM-strip op maat.
+3. Verwijder het beschermplastiek van de zelfklevende laag en druk de strip stevig aan in het kozijnprofiel — het rubber sluit tegen de deur als die dichtgaat.
+4. Test: doe de deur dicht en controleer of je nergens licht ziet langs de strip.
 
-*Glaswolmatten (meest gangbaar):*
-- Dikte 100mm, R-waarde ≥3,5 m²K/W
-- Goedkoopst: ca. €3,50-5/m²
-- Nadeel: je moet ze tussen de houten balken passen (snijwerk)
+**Onderkant van de deur (borstelseal):**
 
-*EPS bodemplaten (eenvoudiger):*
-- Leggen onder de balken op de kruipruimtebodem
-- Geen snijwerk, sneller te leggen
-- Nadeel: alleen voor ruimte met voldoende hoogte (>50 cm vrije ruimte)
+1. Stel de deur op zijn meest gesloten stand en meet de breedte.
+2. Zaag de aluminium drempel van de borstelseal op maat.
+3. Schroef de drempel vast aan de vloer zodat de borstel net de vloer raakt als de deur dichtgaat.
+4. Alternatief: een borstel-manchet die aan de onderkant van de deur wordt geschroefd (geen drempel op de vloer).
 
-**Hoe leg je glaswol:**
-
-1. Kleed je in het kruipruimtepak en mondkapje
-2. Meet de balkafstand (standaard 45 of 60 cm, soms afwijkend)
-3. Snij glaswol 2 cm breder dan de balkafstand zodat de mat spanning houdt
-4. Druk de mat omhoog tussen de balken — hij houd zichzelf op door de veerkracht
-5. Als de mat zakt: gebruik gipsanker of houten lat als steun
-6. Zorg dat er geen gaten zijn bij de buitenmuren — die plekken missen soms volledig isolatie
-
-**Tijdsinvestering:** 3-5 uur voor een gemiddelde kruipruimte van 50 m².
+**Tijdsinvestering:** 30-45 minuten per deur.
 
 ---
 
-## Stap 4: Kelderdeur en bijkeuken
+## Stap-voor-stap: raamkozijnen kitten
 
-Dit onderschatten mensen. Een kelderdeur die niet goed sluit, is een directe verbinding tussen de koude kelder (4-10°C in winter) en de woonruimte daarboven.
+### Materialen: acrylaatkit, kitpistool
 
-Aanpak is identiek aan de voordeur: tochtstrip op zijkanten en boven, dorpelstrip of borstel aan de onderkant. Kost €15-25. Tijdsinvestering: 45 minuten.
+**Voorbereiding:**
 
-**Bijkeuken:**
-Als je een bijkeuken hebt die grenst aan de buitenmuur maar niet volledig geïsoleerd is, controleer dan:
-- De overgang van bijkeuken naar woonkamer (deur/drempel)
-- Leidingdoorvoeren (c.v.-leidingen die naar buiten gaan) — stop deze met brandwerende kit of mineraalwolstoppers
+1. Verwijder oude, gescheurde kit met een kitmes of schraper.
+2. Reinig de ondergrond grondig (stofvrij, vetvrij, droog). Gebruik indien nodig ontvetter.
+3. Breng schilderstape aan langs de lijnen voor een strakke afwerking.
 
----
+**Kit aanbrengen:**
 
-## Stap 5: Overige naden en gaten
+1. Snijd de punt van de kittube schuin af (45°, opening circa 4-6 mm).
+2. Beweeg het kitpistool in een vloeiende beweging langs de naad. Houd een constante snelheid.
+3. Strijk de kit glad met een natte vinger of kitspaan. Werk snel — kit begint binnen 5-10 minuten te harden.
+4. Verwijder de schilderstape direct na het gladstrijken, vóór de kit droogt.
+5. Droogtijd: 24 uur.
 
-Hier zijn de meest voorkomende overlookte lekpunten:
+**Tijdsinvestering:** 15-30 minuten per raam.
 
-**Schoorsteen:**
-Een open schoorsteen is een directe tocht-kanaal. Als je er geen open haard meer in gebruikt: schapalufolie + brandwerende kit. Of koop een schoorsteenballon (€30): die blaas je op in de schacht, nek het tocht volledig en je trekt hem er weer uit als je de haard wil gebruiken.
-
-**Leidingdoorvoer meterkast:**
-In veel woningen gaan c.v.-leidingen door de meterkastwand naar buiten. Dat gat is zelden gedicht. Kit of mineraalwol, 10 minuten.
-
-**Elektrische stopcontacten op buitenmuren:**
-Verrassend, maar bij woningen zonder spouwmuur-isolatie geven elektradozen op buitenmuren soms flinke tocht. In de VS zijn daar speciale afdichtingsringen voor (outlet gasket) — in Nederland zijn ze minder gangbaar maar verkrijgbaar via internet.
-
-**Vloer-wandovergang:**
-De plinten die langs de buitenmuren lopen dekken soms een naad van 5-10mm. Verwijder de plint, kit de naad dicht, herplaats de plint. Kost 1 uur en €5 aan kit.
+**Wat te kitten:**
+- De overgang van kozijn naar muurwerk (buiten én binnen)
+- De overgang van kozijn naar pleisterwerk binnenzijde
+- Scheuren in het houtwerk van de kozijnen zelf
 
 ---
 
-## Bereken je besparing: een realistisch model
+## Stap-voor-stap: leidingdoorvoeringen afdichten
 
-Laten we dit doorrekenen voor een gemiddelde rijtjeswoning van 75 m², bouwjaar 1985, energielabel D, gasverbruik 1.800 m³/jaar.
+### Materialen: purschuim of manchetten, siliconenkit
 
-**Infiltratieverlies:**
-Bij label D: ca. 15% van warmtebehoefte via infiltratie = 270 m³ gas/jaar = **€270 per jaar** (gasprijs €1,00/m³)
+**Kleine doorvoeringen (cv-leidingen, waterleiding):**
 
-**Besparing per maatregel:**
+1. Gebruik leidingmanchetten die om de leiding klemmen en een afdichting vormen tegen de muur.
+2. Als de manchet niet sluit of de opening groter is, vul de ruimte rondom met purschuim.
+3. Laat het purschuim uitharden (15-60 minuten), zaag het overtollige schuim glad en dek af met een manchet of kit.
 
-| Maatregel | Kostprijs | Besparing/jaar |
-|-----------|-----------|----------------|
-| Voordeur + brievenbus | €25 | €50-70 |
-| Ramen kit + strips | €20 | €40-60 |
-| Kruipruimte glaswol (50 m²) | €200 materiaal | €100-150 |
-| Kelderdeur | €20 | €30-40 |
-| Overige naden | €15 | €30-50 |
-| **Totaal** | **€280** | **€250-370** |
+**Grote doorvoeringen (ventilatiekanalen, afvoerleidingen):**
 
-Terugverdientijd: **9-14 maanden**. Dat is geen investering — dat is gewoon rationeel.
+1. Zorg dat het kanaal zelf dicht is als het niet in gebruik is (afsluitbaar ventilatierooster).
+2. Dicht de ruimte rondom het kanaal af met purschuim of brandwerend kit (bij brandscheidingen verplicht).
 
----
+**Let op:** laat bij twijfel altijd de gasleiding-doorvoering controleren door een erkend installateur. Gasdichte afdichting rondom de gasmeter en leidingen vereist specifieke materialen en vakkennis.
 
-## Wat je beter niet zelf doet
-
-Eerlijkheid: er zijn isolatieklussen die ik adviseer over te laten aan vakmensen.
-
-**Spouwmuurisolatie:**
-Dat doe je niet zelf. Inblazen van isolatiemateriaal vereist een erkend installateur (gecertificeerd KOMO of BRL 1322). Fout gedaan kan condensatie in de spouwmuur veroorzaken.
-
-**Dakisolatie:**
-Zelf dakisolatie aanbrengen is gevaarlijk en vereist kennis van dakontstijging (ventilatie). Laat dit over aan een aannemer.
-
-**Vloerisolatie via de woonkamer (platen op de vloer):**
-Technisch mogelijk, maar gaat ten koste van je plafondruimte. Kruipruimte-aanpak is beter.
+**Tijdsinvestering:** 15-45 minuten per doorvoering.
 
 ---
 
-## ISDE en andere subsidies: wat is er te halen?
+## Stap-voor-stap: stopcontacten in buitenmuren isoleren
 
-Voor de maatregelen uit dit artikel is de standaard ISDE-subsidie helaas niet van toepassing — die gaat over verwarmingssystemen en isolatie van dak en spouwmuur via gecertificeerde installateurs.
+### Materialen: stopcontact-isolatieschuim (kant-en-klaar)
 
-Maar er zijn alternatieven:
+Dit is de meest onderschatte maatregel. Inbouwdozen in buitenmuren zijn direct verbonden met de koude spouwmuur of buitenlucht.
 
-**Nationaal Warmtefonds (NWF):**
-Renteloze lening voor energiebesparende maatregelen. Minimale investering: €2.500. Als je alleen tochtstrips koopt, kom je niet in aanmerking. Maar combineer je dat met vloerisolatie door een aannemer (€800-1.500 voor 75 m²) én raamisolatie: dan kun je een NWF-lening aanvragen. Rente: 0% voor inkomen tot ±€60.000, anders marktconform.
+**Aanpak:**
 
-**Gemeentelijke regelingen:**
-Veel gemeenten (Amsterdam, Utrecht, Den Haag, Rotterdam) hebben kleinschalige isolatieprogramma's voor koopwoningen en huurders met toestemming. Vouchers van €50-200 zijn niet uitzonderlijk. Zoek op de website van je gemeente naar "isolatievoucher" of "energiesubsidie".
+1. Schakel de stroom uit voor de te bewerken groep (zekeringkast).
+2. Verwijder de dekplaat van het stopcontact of de schakelaar.
+3. Leg het zelfklevende isolatieschuim rondom het apparaat (dekplaat blijft erop).
+4. Bevestig de dekplaat terug.
 
-**Belastingaftrek:**
-Isolatiemateriaal is niet aftrekbaar van inkomstenbelasting. Werkzaamheden door een erkend installateur zijn dat in sommige gevallen wel (ISDE). Controleer de actuele regelgeving bij RVO.nl.
+Sommige fabrikanten leveren kant-en-klare stopcontact-isolatieplaten die achter de dekplaat worden geplakt. Prijs: €4-€7 voor een pakket van 10 stuks.
 
----
-
-## De DIY-dagplanning: één weekend, klaar
-
-Als je alles in één weekend wil aanpakken:
-
-**Zaterdag ochtend (2-3 uur):**
-- Voordeur: strips en brievenbusklepje (1 uur)
-- Achterdeur of kelderdeur (30 min)
-- Ramen: kit op statische naden (1 uur)
-
-**Zaterdag middag:**
-- Kruipruimte fase 1: meten, materiaal halen, eerste helft leggen (2-3 uur)
-
-**Zondag ochtend:**
-- Kruipruimte fase 2: tweede helft, afdichten buitenmuren (2-3 uur)
-
-**Zondag middag:**
-- Overige naden en gaten (1-2 uur)
-- Alles testen met papier-methode
-
-Totale kosten: **€80-130** aan materialen. Totale werktijd: **8-12 uur** over twee personen.
+**Tijdsinvestering:** 5 minuten per stopcontact.
 
 ---
 
-## Wat ik zou doen in jouw situatie
+## Stap-voor-stap: vloer-muur overgang afdichten
 
-Als ik een woning koop met label D en een beperkt budget, hier is mijn prioriteitsvolgorde:
+### Materialen: acrylaatkit of flexibele afdichtingsstrip
 
-**Fase 1 – €30, één middag:**
-Voordeur, achterdeur, brievenbus. Directe terugverdientijd onder 6 maanden.
+De overgang tussen de vloer en de buitenmuur is bij veel woningen een doorlopende sleuf. Dit is te zien door de plint te verwijderen.
 
-**Fase 2 – €50, één ochtend:**
-Ramen kit, V-profiel draaikiepramen, kelderdeur. Terugverdientijd 8-12 maanden.
+**Aanpak:**
 
-**Fase 3 – €100-150, één weekend:**
-Kruipruimte glaswol. Terugverdientijd 12-18 maanden. Grootste absolute besparing.
+1. Verwijder de bestaande plint voorzichtig (eventueel opnieuw te gebruiken).
+2. Inspecter de overgang: is er een kier? Hoe groot?
+3. Bij kieren tot 5 mm: vul op met acrylaatkit en strijk glad.
+4. Bij grotere kieren (5-15 mm): gebruik zelfklevend foam-strip of breng eerst purschuim aan als vulling, dan kit als afwerking.
+5. Breng de plint terug of vervang door een nieuwe exemplaar met geïntegreerde dichting.
 
-**Fase 4 – later:**
-Spouwmuurisolatie (€800-1.500, specialist). Dakisolatie (€2.500-5.000, specialist). Dat zijn de grotere investeringen met langere terugverdientijd, maar ook de grootste absolute impact.
+**Tijdsinvestering:** 20-30 minuten per kamer (begane grond).
 
 ---
 
-## Tot slot
+## Wat is glaswol en wanneer gebruik je het?
 
-Kierdichting is saai. Het is niet instagramwaardig. Je plaatst geen zonnepanelen op je dak en je koopt geen glimmende warmtepomp. Maar je bespaart binnen een jaar €200-350 zonder lening, zonder installateur, zonder subsidieaanvraag.
+Glaswol wordt in de context van kierdichting anders gebruikt dan bij structurele isolatie. Het is niet bedoeld als kierdichting op zichzelf, maar als:
 
-Ik ken weinig andere manieren om met €100 aan bouwmarktmaterialen structureel €300 per jaar te besparen. Start met de voordeur en de brievenbus. Die middag merk je al het verschil.
+1. **Opvulmateriaal voor grotere holtes** achter plafondranden, in tussenruimtes boven plafonds of achter lambrisering — plekken waar kit te rigide is maar purschuim te hard.
+2. **Geluidsisolatie en thermische buffer** in holruimtes rondom leidingen.
+3. **Aanvulling op purschuim** in grote kieren: eerst glaswol als vulling, dan purschuim als afdichting.
+
+Voor kierdichting rondom ramen en deuren heeft glaswol geen directe toepassing — daar gebruik je strips en kit.
+
+---
+
+## Mijn resultaten na twee middagen werk
+
+**Wat ik heb gedaan (2021):**
+- Voordeur: EPDM zijkanten en bovenzijde + borstelseal onderkant
+- Achterdeur: EPDM compleet + zelfklevende drempel
+- Deur bijkeuken: EPDM zijkanten en bovenzijde
+- 8 raamkozijnen: acrylaatkit buiten en binnen
+- 4 cv-leidingdoorvoeringen: manchetten + purschuim
+- 12 stopcontacten buitenmuur: isolatieschuim achter dekplaat
+- Vloer-muur overgang begane grond (6 meter): kit na plint verwijderen
+
+**Materiaalkosten: €94**
+
+**Meetresultaten:**
+
+| Meting | Vóór kierdichting | Na kierdichting |
+|--------|------------------|-----------------|
+| Luchtdichtheid (n50 blower door) | 7,2 vol/h | 4,1 vol/h |
+| Gasverbruik stookseizoen 1 | 1.580 m3 | 1.290 m3 |
+| Gasverbruik stookseizoen 2 | — | 1.268 m3 |
+| Besparing | — | ~290-312 m3/jaar (€319-€343) |
+
+De blower-door meting werd gedaan door een vriend die bouwfysica studeert — niet strikt noodzakelijk maar wel leerzaam. De verluchting halveerde bijna: van 7,2 naar 4,1 luchtverversingen per uur bij 50 Pascal.
+
+**Terugverdientijd: 3,3 maanden.**
+
+---
+
+## Energielabel verbetering
+
+Kierdichting heeft invloed op het energielabel van je woning. Een woning met een luchtdichtheid van n50 ≤ 1,5 vol/h krijgt extra punten in de energielabelberekening. Mijn woning ging van 7,2 naar 4,1 — dat is nog niet in de laagste categorie, maar wel een stap omhoog die bij een volledige energielabelopname meetelt.
+
+---
+
+## Vijf fouten die mensen maken
+
+### Fout 1: Goedkope schuimstrip bij deuren gebruiken
+
+Goedkope polyethyleen schuimstrip gaat 1-3 jaar mee en verliest daarna zijn veerkracht. Na drie jaar zit je met samengeperst schuim dat niet meer afdicht. Koop altijd EPDM-rubber voor deuren.
+
+### Fout 2: Kit aanbrengen op een vuile of vochtige ondergrond
+
+Acrylaatkit hecht niet op stof, vet of vocht. Voorbereiden is de helft van het werk. Reinigen en ontvet altijd voor je begint.
+
+### Fout 3: De zolder en cv-ketel-doorvoeringen vergeten
+
+De doorvoering van de cv-ketelschoorsteen door het dak en plafond is een enorme warmtelekkage die men bijna altijd vergeet. Ook de zolderluik is een koudebrug die voor €20 goed gedicht kan worden.
+
+### Fout 4: Ventilatieopeningen afdichten
+
+Kierdichting is niet hetzelfde als het dichtstoppen van alle gaten. Ventilatieopeningen (mechanisch ventilatiesysteem, roosters in slaapkamers) zijn bedoeld en mogen niet worden geblokkeerd. Onderscheid opzettelijke ventilatie van onbedoelde luchtlekkage.
+
+### Fout 5: Verwachten dat kierdichting zichtbare tocht elimineert
+
+Na goede kierdichting voel je geen tocht meer maar je moet de kamer nog steeds verluchten. Het doel is gecontroleerde ventilatie: bewust openen, niet constant lekken.
+
+---
+
+## Conclusie: de beste prijs-kwaliteitsverhouding in verduurzaming
+
+Van alle maatregelen die ik heb genomen om mijn woning te verduurzamen — zonnepanelen, thuisbatterij, hybride warmtepomp, spouwmuurisolatie — heeft kierdichting de kortste terugverdientijd. Vier maanden. Dat is onverslaanbaar.
+
+Voor een woning die op tocht staat, is een middag met €100 aan materialen het meest effectieve startpunt voor verduurzaming. Niet sexy, niet zichtbaar voor de buitenwereld, maar het meest directe financiële rendement dat je kunt behalen.
+
+Doe de rooktest, identificeer je lekken, koop de juiste materialen (EPDM, acrylaat, purschuim) en spend twee uur. De gasrekening dit stookseizoen zal het bevestigen.

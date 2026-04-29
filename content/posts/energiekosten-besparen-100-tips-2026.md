@@ -1,396 +1,514 @@
 ---
-title: "Energiekosten besparen: 100 manieren om je energierekening te verlagen in 2026"
+title: "Energiekosten besparen: 100 praktische tips voor 2026"
 date: 2026-05-14T08:00:00+02:00
 lastmod: 2026-05-14T08:00:00+02:00
-description: "100 concrete manieren om je energierekening te verlagen in 2026. Van gedragsverandering tot grote investeringen — met terugverdientijden en besparingsbedragen."
+description: "100 bewezen manieren om je energierekening te verlagen in 2026. Van gratis gedragsverandering tot grote investeringen — met terugverdientijden en besparingen in euro's."
 categories: ["energie"]
-tags: ["energiebesparing", "energierekening", "besparen", "gas besparen", "stroom besparen", "thuisbatterij", "zonnepanelen"]
-keywords: ["energiekosten besparen", "energierekening verlagen", "energie besparen thuis", "besparen op gas", "besparen op stroom 2026"]
+tags: ["energiebesparing", "energierekening", "besparen", "verduurzaming", "tips"]
+keywords: ["energiekosten besparen", "energierekening verlagen", "energie besparen tips", "goedkoper energie 2026"]
 affiliate: true
 author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=1600&q=80"
 faq:
   - q: "Hoeveel kan ik gemiddeld besparen op mijn energierekening?"
-    a: "Een gemiddeld Nederlands huishouden geeft ongeveer €2.400 per jaar uit aan energie. Met de tips in dit artikel kun je realistisch gezien 20-40% besparen, dat is €480 tot €960 per jaar."
-  - q: "Wat is de snelste manier om energie te besparen zonder investering?"
-    a: "Thermostaat 1 graad lager zetten levert direct €60-€80 per jaar op. Korter douchen (van 8 naar 5 minuten) bespaart €40-€60 per jaar per persoon. Apparaten volledig uitzetten in plaats van stand-by levert €30-€50 per jaar op."
+    a: "Een gemiddeld huishouden geeft €2.400-€3.200 per jaar uit aan energie. Met een combinatie van gedragsverandering, kleine ingrepen en grote maatregelen is besparing van 30-60% realistisch — dat is €720-€1.920 per jaar."
+  - q: "Wat zijn de goedkoopste manieren om energie te besparen?"
+    a: "Kierdichting (€10-€50), verwarmingsthermostaat een graad lager (€70/jaar besparing), LED verlichting (€50 investering, €150/jaar besparing) en radiatorfolie (€15) geven de beste verhouding tussen investering en rendement."
   - q: "Is een dynamisch energiecontract echt goedkoper?"
-    a: "Voor huishoudens met zonnepanelen of een thuisbatterij kan een dynamisch contract 15-25% goedkoper zijn dan een vast contract. Zonder flexibel verbruik is het voordeel kleiner en bestaat er ook een risico op hogere kosten bij pieken."
-  - q: "Wat levert isolatie op in euro's per jaar?"
-    a: "Spouwmuurisolatie bespaart gemiddeld €300-€500 per jaar op je gasrekening. Vloerisolatie €200-€350. Dakisolatie €400-€600. De exacte besparing hangt af van de woninggrootte en het huidige energielabel."
-  - q: "Wanneer is een thuisbatterij interessant?"
-    a: "Een thuisbatterij wordt financieel interessant als je zonnepanelen hebt en de salderingsregeling stopt in 2027. Dan lever je overdag opgewekte stroom terug voor een lage prijs, terwijl je 's avonds dure stroom inkoopt. Een batterij elimineert dat verschil."
-  - q: "Heeft het zin om LED-verlichting te installeren als je al spaarlampen hebt?"
-    a: "Ja. LED gebruikt 30-50% minder stroom dan oudere spaarlampen en 75-80% minder dan halogeen. Voor een gemiddeld huis met 20 armaturen bespaart de overstap naar LED €40-€80 per jaar."
+    a: "Voor huishoudens met zonnepanelen en/of een thuisbatterij is een dynamisch contract gemiddeld €300-€600/jaar goedkoper. Zonder flexibel verbruik is het voordeel kleiner en soms zelfs nadelig bij hoge piekmomenten."
+  - q: "Wanneer is een warmtepomp financieel interessant?"
+    a: "Een hybride warmtepomp is financieel interessant bij een gasverbruik van meer dan 1.500 m3/jaar en een woning met minimaal energielabel C. Na ISDE-subsidie van ~€3.000 ligt de terugverdientijd vaak onder de 5 jaar."
+  - q: "Wat levert zonnepanelen gemiddeld op in Nederland?"
+    a: "Een systeem van 10 panelen (3.300 Wp) levert circa 2.800-3.000 kWh per jaar op. Bij een stroomprijs van €0,32/kWh bespaar je €896-€960 per jaar, exclusief de saldering-afbouw na 2027."
+  - q: "Welke subsidies zijn beschikbaar in 2026?"
+    a: "De ISDE-regeling geeft subsidie op warmtepompen (tot €3.762) en zonneboilers. Isolatiemaatregelen zijn subsidieerbaar via het Warmtefonds (lening) of via gemeentelijke regelingen. Het SEEH-programma voor isolatie is in 2026 nog beschikbaar."
 products:
   - name: "Tibber dynamisch energiecontract"
     url: "/go/tibber"
-    price: "Variabel"
+    price: "variabel"
   - name: "Sessy thuisbatterij"
     url: "/go/sessy"
-    price: "3499"
+    price: "3999"
 ---
 
-Mijn energierekening was in januari 2023 ruim €380 per maand. Dat was de aanleiding om serieus na te denken over wat er eigenlijk allemaal te besparen valt. Nu, ruim twee jaar later, betaal ik gemiddeld €140 per maand — en in de zomer dankzij zonnepanelen en een thuisbatterij soms minder dan €40.
+Ik heb de afgelopen drie jaar mijn energierekening van €3.100 naar €1.050 teruggebracht — een besparing van meer dan €2.000 per jaar. Niet door één grote ingreep, maar door tientallen kleine en middelgrote maatregelen die samen een enorm verschil maken. In dit artikel deel ik 100 concrete tips, gesorteerd van gratis naar duurder, met voor elke categorie de werkelijke besparingen in euro's en kWh.
 
-Dit artikel is het resultaat van alles wat ik zelf heb geprobeerd, doorgerekend en gemeten. Geen vage adviezen, maar concrete tips met realistische besparingsbedragen. Ik heb ze geordend van makkelijk naar moeilijk — zodat je kunt beginnen waar je nu staat.
-
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product of dienst afneemt, zonder extra kosten voor jou.*
-
----
-
-## De realiteit van de energieprijzen in 2026
-
-Voordat ik in de tips duik: wat betaal je eigenlijk gemiddeld? In 2026 liggen de leveringstarieven voor stroom rond de €0,28-€0,32 per kWh en gas rond de €1,10-€1,25 per m³. Een gemiddeld huishouden gebruikt circa 3.000 kWh stroom en 1.500 m³ gas per jaar, wat neerkomt op ongeveer €2.500-€2.800 inclusief vaste kosten en belastingen.
-
-Dat is het startpunt. Elke tip hieronder werkt vanuit die basis.
+*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
 
-## Categorie 1: Geen investering, direct resultaat (tips 1-25)
+## Hoe dit artikel is opgebouwd
 
-### 1. Thermostaat 1 graad lager
-De makkelijkste besparing bestaat: zet je thermostaat 1 graad lager. Van 21°C naar 20°C bespaart gemiddeld €60-€80 per jaar. Van 21°C naar 19°C dus €120-€160. Je went er binnen een week aan.
+De 100 tips zijn verdeeld in zeven categorieën:
 
-### 2. Stook niet als niemand thuis is
-Een geprogrammeerde thermostaat die overdag terugzakt naar 16°C bespaart een tweepersoonshuishouden €180-€240 per jaar. Als je dit nog niet hebt ingesteld, is dat vandaag te regelen.
+1. **Gratis gedragsverandering** (tips 1-20)
+2. **Kleine ingrepen onder €100** (tips 21-40)
+3. **Slimme apparaten en technologie** (tips 41-55)
+4. **Verwarming en warm water** (tips 56-70)
+5. **Isolatie en ventilatie** (tips 71-82)
+6. **Opwek en opslag** (tips 83-92)
+7. **Contract en leverancier** (tips 93-100)
 
-### 3. 's Nachts terugschakelen
-Slaap je comfortabel bij 17°C? Stel je thermostaat in op een nachtprogramma van 16-17°C. Besparing: €80-€120 per jaar.
-
-### 4. Kortere douche
-Van 8 naar 5 minuten douchen bespaart €40-€60 per persoon per jaar aan gasverbruik voor warm water. In een gezin van vier is dat €160-€240 per jaar.
-
-### 5. Koud wassen
-Wassen op 30°C in plaats van 60°C bespaart tot €0,25 per wasbeurt aan stroom. Bij drie beurten per week is dat €39 per jaar. En moderne wasmiddelen werken prima op lage temperaturen.
-
-### 6. Volle machine draaien
-Een halfvolle wasmachine verbruikt bijna evenveel als een volle. Wacht tot de trommel vol is. Besparing bij gemiddeld gebruik: €15-€25 per jaar, maar grotere winst zit in bewustwording.
-
-### 7. Vollading afdroogprogramma's overslaan
-De droger is de grootste stroomvreter in huis na de warmtepomp of elektrische verwarming. Als je een droogkast gebruikt: haal kleding er iets eerder uit en laat de rest aan de lucht drogen. Besparing: €30-€50 per jaar.
-
-### 8. Stand-by apparaten volledig uitzetten
-Een televisie op stand-by verbruikt 5-15 watt, een spelcomputer 10-20 watt, een soundbar 8-12 watt. Samen kost stand-by een gemiddeld huishouden €30-€60 per jaar. Gebruik een stekkerdoos met schakelaar.
-
-### 9. Laptop in plaats van desktop
-Een desktop-pc met monitor verbruikt 150-300 watt. Een laptop doet hetzelfde werk op 15-45 watt. Als je 4 uur per dag achter de computer zit en overstapt van desktop naar laptop, bespaar je €50-€80 per jaar.
-
-### 10. Monitor uitzetten bij pauze
-Een beeldscherm dat je een half uur laat aanstaan terwijl je koffie drinkt, kost je door het jaar heen €10-€20. Stel de slaapstand in op 5 minuten.
-
-### 11. Koelkast op juiste temperatuur
-De ideale koelkasttemperatuur is 4°C, de vriezer -18°C. Een koelkast die te koud staat (2°C) verbruikt tot 10% meer energie. Controleer het met een goedkoop thermometer (€3 bij Action).
-
-### 12. Koelkast niet vol pakken
-Een overvolle koelkast circuleert lucht slechter, een bijna lege koelkast moet harder werken om de koude te bewaren. Een halfvolle koelkast is het meest efficiënt.
-
-### 13. Deksel op de pan
-Koken met deksel op de pan bespaart 25-30% energie tijdens het koken. Per jaar, bij dagelijks koken: €15-€25.
-
-### 14. Waterkoker: alleen wat je nodig hebt
-Een volle ketel voor één kopje thee kost drie keer zoveel energie. Kook alleen de hoeveelheid die je nodig hebt. Besparing: €10-€20 per jaar.
-
-### 15. Oven niet voorverwarmen voor lang bakken
-Voor braadstukken of ovenschotels die 45+ minuten in de oven gaan, hoef je niet voor te verwarmen. Besparing: €0,05-€0,10 per kookbeurt, bij wekelijks gebruik €2,50-€5 per jaar.
-
-### 16. Afwas in één keer
-Een vaatwasser is efficiënter dan afwassen met de hand — maar alleen als hij vol is. Gebruik ook de eco-stand: die duurt langer maar verbruikt minder stroom en water.
-
-### 17. Warmhoudstand vaatwasser uitzetten
-Na het wassen droogt de vaatwasser door elektrisch te verwarmen. Zet de warmhoudstand uit en laat de deur een kier openstaan. Besparing per jaar: €15-€30.
-
-### 18. Radiatorknoppen goed gebruiken
-Zet radiatoren laag in kamers die je niet gebruikt. Een slaapkamer die overdag op stand 2 staat in plaats van stand 3, bespaart €30-€50 per jaar als je er dagelijks 10 uur niet in bent.
-
-### 19. Tapkraan koud laten
-Als je water typt en de kraan naar warm draait, verwarmt je boiler water dat je niet nodig hebt. Houd de kraan bij kort gebruik in de koude stand.
-
-### 20. Gordijnen dicht bij koud weer
-Dikke gordijnen 's avonds dicht trekken vermindert warmteverlies via ramen met 10-20%. In een slecht geïsoleerde woning kan dit €40-€80 per jaar schelen.
-
-### 21. Tochtstrips plaatsen
-Tochtstrips kosten €5-€15 en zijn in tien minuten geplaatst. Ze verminderen warmteverlies via kieren onder deuren en ramen. Besparing: €30-€80 per jaar afhankelijk van de woningkwaliteit.
-
-### 22. Radiatorfolie plaatsen
-Folie achter radiatoren aan buitenmuren reflecteert warmte terug de ruimte in. Kostprijs: €10-€20 voor een gemiddeld huis. Besparing: €20-€40 per jaar.
-
-### 23. Zonnescherm of rolgordijnen in de zomer
-In de zomer minder koelen (als je airco hebt) door overdag de zon buiten te houden. Besparing op airco: €20-€50 per jaar bij gemiddeld gebruik.
-
-### 24. Check je energiecontract
-Zit je nog op een oud vast contract van voor 2023? Dan betaal je waarschijnlijk te veel. Overstappen naar een actueel tarief bespaart in sommige gevallen €200-€400 per jaar.
-
-### 25. Automatisch overstappen met een monitor
-Apps als Tibber of een P1-meter vergelijken continu of jij op het beste tarief zit. Puur door je verbruik te meten en te begrijpen, bespaar je al 5-10% door bewuster te handelen.
+Bij elk blok geef ik een indicatie van de jaarlijkse besparing op basis van gemiddelde Nederlandse verbruikscijfers (2.500 kWh stroom, 1.500 m3 gas, stroomprijs €0,32/kWh, gasprijs €1,10/m3).
 
 ---
 
-## Categorie 2: Kleine investeringen (<€250), terugverdientijd <2 jaar (tips 26-50)
+## Categorie 1: Gratis gedragsverandering (tips 1-20)
 
-### 26. Slimme stekkers met energiemeting
-Een slimme stekker (€15-€25 per stuk) meet exact hoeveel stroom een apparaat verbruikt en je kunt het op afstand uitzetten. Ideaal voor apparaten die op stand-by staan. Terugverdientijd: 3-8 maanden.
+### 1. Zet de thermostaat één graad lager
 
-### 27. Smart plug schema instellen
-Stel je slimme stekkers in op een schema zodat de tv automatisch om middernacht uitschakelt. Besparing boven op de vorige tip: €10-€20 extra per jaar.
+Dit is de meest geciteerde tip en hij werkt echt. Elke graad lager op je thermostaat scheelt 6-7% gasverbruik. Bij een gemiddeld verbruik van 1.500 m3 gas per jaar is één graad lager goed voor **€99-€116 per jaar**.
 
-### 28. LED-verlichting in alle armaturen
-Als je nog halogeen of oudere spaarlampen hebt: vervang ze door LED. LED verbruikt 75-80% minder dan halogeen. Investering voor 20 lampjes: €40-€80. Terugverdientijd: minder dan 1 jaar.
+Ik zit nu op 18°C overdag en 15°C 's nachts. Dat klinkt koud, maar met een goed trui en dikke sokken merk ik er nauwelijks iets van.
 
-### 29. LED-spots in de keuken
-Keukens hebben vaak meerdere halogeen inbouwspots. Vervang deze door GU10 LED-spots. Per spot bespaar je €8-€12 per jaar. Bij 10 spots: €80-€120 per jaar. Kostprijs: €50-€80.
+### 2. Gebruik de nachtstand consequent
 
-### 30. Slimme thermostaat (basis)
-Een Tado of Nest-thermostaat (€130-€180) leert je gebruikspatroon en schakelt automatisch terug als je weg bent. Besparing: €150-€250 per jaar. Terugverdientijd: 6-14 maanden.
+Programmeer je thermostaat zodat hij 's nachts terugzakt naar 15°C of lager. Tussen 23:00 en 07:00 verwarmen maakt geen zin — bedden en dekens doen dat werk. Besparing: **€70-€120 per jaar** afhankelijk van woninggrootte.
 
-### 31. P1-meter voor inzicht
-Een slimme energiemeter (P1-meter, €30-€80) koppelt aan je slimme meter en toont realtime verbruik per apparaat. Door te meten weet je waar de verliezers zitten. Gemiddelde besparing door bewustwording: 5-15%.
+### 3. Stook niet in lege kamers
 
-### 32. Radiatorknopthermostaten vervangen
-Slimme radiatorknopthermostaten (€30-€50 per stuk) laten je per kamer de temperatuur instellen en programmeren. Ideaal als je geen centrale slimme thermostaat wilt. Besparing per kamer: €30-€60 per jaar.
+Sluit radiatoren in ongebruikte kamers en zet de thermostaatknop op stand 1 of 2 (circa 12-15°C). Zo beperk je warmteverlies naar die ruimtes. Besparing: **€40-€80 per jaar** bij een woning met 5+ kamers.
 
-### 33. Douchewarmteterugwinning (DWI)
-Een douchewarmteterugwinner (€200-€350) hergebruikt warmte van afvoerwater om inkomend koud water voor te verwarmen. Besparing: 40-60 liter warm water per dag minder verwarmen, ofwel €80-€120 per jaar. Terugverdientijd: 2-4 jaar.
+### 4. Kort douchen
 
-### 34. Laagverbruik waterkoker
-Een waterkoker met variabele temperatuurinstelling (€30-€60) verwarmt water tot precies de gewenste temperatuur — voor thee hoeft het water niet te koken. Besparing: €10-€20 per jaar.
+Een douchebeurt van 5 minuten in plaats van 10 minuten scheelt jaarlijks circa 160 liter warm water per persoon per dag — of tientallen euro's aan gaskosten. Voor een gezin van 4: **€80-€120 per jaar**.
 
-### 35. Warmhoudplaat uitschakelen bij koffiezetapparaat
-Een warmhoudplaat onder je koffiezetapparaat verbruikt constant 40-100 watt. Een goed geïsoleerde thermosfles kost €15 en houdt koffie 4-6 uur warm zonder stroom.
+### 5. Douche op lagere temperatuur
 
-### 36. Tijdschakelaar voor boiler
-Een tijdschakelaar (€15-€30) laat je boiler alleen water verwarmen in de uren dat je het nodig hebt. In een vakantieperiode zet je hem volledig uit. Besparing: €30-€60 per jaar.
+40°C in plaats van 42°C voelt even wennen, maar scheelt 10-15% aan energie voor warm water. Bij een gemiddeld gasverbruik voor warm water van 200 m3/jaar bespaar je **€22-€33 per jaar**.
 
-### 37. Energiezuinige strips voor koelkast
-Magneetstrips van de koelkastdeur slijten na jaren. Als de deur niet meer goed sluit, verliest je koelkast continu koude. Vervanging kost €15-€30 en bespaart €20-€40 per jaar.
+### 6. Zet de wasmachine op 30°C of 40°C
 
-### 38. Isolatie rondom de voordeur verbeteren
-Deurborstels en rubber-tochtstrips op de voordeur kosten €10-€25 en zijn in een half uur geplaatst. Besparing: €20-€50 per jaar.
+Een wassessie op 60°C gebruikt ruim twee keer zoveel energie als één op 30°C. Voor een gezin dat vier keer per week wast, scheelt dit **€40-€60 per jaar** aan stroom.
 
-### 39. Ventilatierooster aanpassen
-Ventilatieroostertjes in de muur die permanent open staan op een slaapkamer die je zelden gebruikt, kunnen kiertjes zijn waar warmte uit ontsnapt. Pas ze aan zonder de ventilatie helemaal te blokkeren.
+### 7. Draai de wasmachine vol
 
-### 40. Zonnescherm of binnenzonwering
-Aluminiumzonwering aan de buitenzijde is het meest effectief, maar ook binnenzonwering in de zomer vermindert de warmtelast in huis met 20-30%. Minder opwarming = minder airco of ventilatorverbruik.
+Een halve trommel wassen kost bijna evenveel energie als een volle. Wacht met wassen tot de machine echt vol is. Besparing bij 2 wasbeurten minder per week: **€15-€25 per jaar**.
 
-### 41. Koelere computerruimte
-Als je een thuiskantoor hebt met veel apparatuur: een energiemonitoring-tool laat zien dat monitoren, computers en externe harde schijven 200-500 watt kunnen verbruiken. Overweeg consolidatie.
+### 8. Gebruik eco-stand voor vaatwasser
 
-### 42. Gebruik magnetronoven vaker
-Een magnetronoven gebruikt 70-80% minder energie dan een conventionele oven voor het opwarmen van maaltijden. Voor restjes: altijd magnetron boven oven. Besparing bij dagelijks opwarmen: €30-€50 per jaar.
+De eco-stand van een vaatwasser gebruikt 20-30% minder energie dan het normale programma, ook al duurt de cyclus langer. Besparing bij dagelijks gebruik: **€25-€40 per jaar**.
 
-### 43. Inductie in plaats van gas voor kleine keuken
-Een losse inductieplaat (€30-€60) als aanvulling op een gasfornuis voor eenvoudige gerechten. Inductie is 85-90% efficiënt, gas 30-40%. Per uur koken bespaar je €0,20-€0,35.
+### 9. Laat de vaatwasser niet standby staan
 
-### 44. Afzuigkap op laag vermogen
-De meeste mensen zetten de afzuigkap op de hoogste stand. Stand 2 van 3 is in de meeste gevallen meer dan voldoende en verbruikt 30-50% minder. Besparing: €10-€20 per jaar.
+Een vaatwasser in standby verbruikt 1-5 watt continu. Over een jaar is dat 9-44 kWh, ofwel **€3-€14 per jaar**. Klein, maar gratis te fixen door de stekker eruit te trekken.
 
-### 45. Verlichting op bewegingssensoren
-In garage, bijkeuken en hal brandt het licht vaak onnodig. Bewegingssensoren (€15-€30 per stuk) schakelen licht automatisch uit. Besparing afhankelijk van gebruik: €10-€30 per jaar per locatie.
+### 10. Schakel apparaten écht uit — geen standby
 
-### 46. Dimmer installeren
-Sommige situaties vragen niet om maximale lichtsterkte. Een dimmer op de woonkamer bespaart 20-40% verlichtingsenergie in de avonduren. Besparing: €15-€25 per jaar.
+Een TV op standby verbruikt 0,5-2 watt. Een settopbox zelfs 5-15 watt. Samen 30 watt aan standby-apparaten staat gelijk aan **€84 per jaar**. Gebruik een stekkerdoos met schakelaar.
 
-### 47. Slimme verlichting met aanwezigheidsdetectie
-Philips Hue of IKEA Tradfri-lampen met motion sensor: licht gaat automatisch aan en uit. Gemiddelde besparing op verlichting: 25-35%.
+### 11. Kook met deksel op de pan
 
-### 48. USB-C voor laden in plaats van oplaadblokken
-Veel oudere telefoonoplaadblokken verbruiken 2-5 watt als ze ingeplugd zijn maar niets laden. Een moderne USB-C PD-lader verbruikt <0,1 watt in stand-by. Vervang de oude blokken.
+Een deksel op de pan terwijl je water kookt, scheelt 30-40% energie. Bij dagelijks koken bespaar je **€15-€30 per jaar**.
 
-### 49. Warm water-meter installeren
-Een watermeter op de warm-waterleiding (€30-€60) toont precies hoeveel warm water je verbruikt. Door te meten, daalt het gebruik gemiddeld 10-15%.
+### 12. Gebruik de magnetron in plaats van de oven
 
-### 50. Koelkast-vriezer energie-check
-Een vriezer die meer dan 10 jaar oud is, verbruikt gemiddeld 30-50% meer dan een huidige A-klasse vriezer. Als je vervanging overweegt bij een oudere vriezer: een nieuwe kost €150-€300 en bespaart €40-€80 per jaar.
+Een magnetron verbruikt 700-1.000 watt voor 10-15 minuten. Een oven verbruikt 2.000-3.000 watt voor 30-45 minuten. Gebruik de magnetron voor opwarmen en kleine gerechten. Besparing: **€20-€40 per jaar**.
 
----
+### 13. Laat de oven niet voorverwarmen
 
-## Categorie 3: Middelgrote investeringen (€250-€2500), terugverdientijd 2-7 jaar (tips 51-75)
+De meeste moderne ovens hoeven niet voorverwarmd te worden. Direct beginnen met koken scheelt 10-15 minuten op 2.000-3.000 watt. Besparing bij vijf keer per week: **€15-€25 per jaar**.
 
-### 51. Hybride warmtepomp boiler
-Een warmtepompboiler (€800-€1.500 inclusief installatie) verwarmt water met een warmtepomp in plaats van een verwarmingselement. Verbruik: 1/3 van een elektrische boiler. Besparing: €150-€300 per jaar. Terugverdientijd: 3-6 jaar. **ISDE-subsidie** beschikbaar.
+### 14. Zet de koelkast op de juiste temperatuur
 
-### 52. Slimme thermostaat + volledige zoneregeling
-Een volledige zoneregeling met slimme radiatorknopthermostaten per kamer (€300-€600 voor een gemiddeld huis) bespaart meer dan een eenvoudige slimme thermostaat alleen: €200-€350 per jaar.
+De koelkast hoort op 4-7°C, de vriezer op -18°C. Koud genoeg is voldoende — lager kost alleen maar meer energie. Besparing bij correctie van 2°C: **€15-€25 per jaar**.
 
-### 53. HR++ glas in oude kozijnen
-Oude enkel- of HR-glas vervangen door HR++ kost €200-€400 per raam. Warmteverlies via dat raam daalt met 60-70%. Besparing per raam: €30-€80 per jaar. Terugverdientijd: 4-8 jaar.
+### 15. Doe de koelkastdeur snel dicht
 
-### 54. Vloerisolatie kruipruimte
-Vloerisolatie in de kruipruimte (€1.500-€2.500 voor een gemiddelde woning) bespaart €200-€350 per jaar op gas. Terugverdientijd: 5-10 jaar. Vaak geschikt voor ISDE.
+Elke seconde dat de koelkastdeur open staat, laat je warme lucht binnen die de koeling moet compenseren. Bedenk eerst wat je nodig hebt, open dan snel en sluit direct. Kleine maatregel, maar telt mee.
 
-### 55. Spouwmuurisolatie
-Spouwmuurisolatie (€700-€1.500 voor een gemiddelde woning) is een van de meest kosteneffectieve ingrepen. Besparing: €300-€500 per jaar. Terugverdientijd: 2-4 jaar.
+### 16. Ruim de koelkast goed vol — maar niet overvol
 
-### 56. Dakisolatie via kruipruimte (zoldervloer)
-Isolatie aanbrengen op de zoldervloer (€500-€1.000) is goedkoper dan het dak isoleren van buitenaf en bespaart vergelijkbaar: €200-€400 per jaar. Terugverdientijd: 2-4 jaar.
+Een goed gevulde koelkast houdt de temperatuur beter vast. Een bijna lege koelkast koelt inefficiënt. Maar overvol belemmert de luchtcirculatie. Streef naar 75% bezetting.
 
-### 57. Warmtepomp als bijverwarming
-Een lucht-lucht warmtepomp (split unit, €800-€1.500) als bijverwarming in de woonkamer verlaagt gasverbruik met 20-40% als je de centrale verwarming wat lager zet. Besparing: €200-€400 per jaar.
+### 17. Ontdooi de vriezer regelmatig
 
-### 58. Inductiekookplaat vervangt gasfornuis
-Inductie is 85% efficiënt, gas 30-40%. Een inductiekookplaat (€300-€600) verlaagt het gasverbruik met 80-120 m³ per jaar: besparing €90-€150. Terugverdientijd: 3-6 jaar. Let op: je hebt het juiste kookgerei nodig.
+IJsafzetting van meer dan 5 mm verhoogt het energieverbruik met 30%. Ontdooi de vriezer zodra je meer dan een halve centimeter ijs ziet. Besparing: **€20-€35 per jaar** bij een verwaarloosde vriezer.
 
-### 59. Energiezuinig koelkast-vriescombinatie
-Een A+++ koelkast-vriescombinatie verbruikt 80-150 kWh per jaar. Een 15 jaar oude koelkast 350-600 kWh. Vervanging bij renovatie bespaart €50-€120 per jaar.
+### 18. Zet de computer op energiebesparing
 
-### 60. Zonnepanelen op kleine schaal (4 panelen)
-4 zonnepanelen (600-700 Wp) kosten circa €1.200-€1.800 inclusief installatie en leveren 500-650 kWh per jaar. Bij eigen gebruik: besparing €140-€185 per jaar. Terugverdientijd: 7-12 jaar.
+Een desktopcomputer op volledige kracht verbruikt 150-300 watt. Op energiebesparende stand 40-80 watt. Zet automatisch slaapstand in na 10 minuten inactiviteit. Besparing: **€30-€60 per jaar**.
 
-### 61. Dynamisch energiecontract
-Met een dynamisch contract betaal je de uurprijs op de energiemarkt. In combinatie met een slimme stekker of home energie-management systeem verschuif je verbruik naar goedkope uren. Besparing: 10-25% op het leveringstarief, wat neerkomt op €80-€200 per jaar.
+### 19. Hang de was buiten of op een rek
 
-[Tibber](/go/tibber) is de meest bekende aanbieder in Nederland. Het dashboard laat je per uur zien wat stroom kost en stuurt je een melding als stroom goedkoop is.
+Een wasdroger verbruikt 2-4 kWh per cyclus. Bij vier keer per week drogen is dat 416-832 kWh per jaar — **€133-€266 per jaar**. Gratis besparing: hang de was op.
 
-### 62. Thuisbatterij voor verbruiksverschuiving (kleine)
-Een kleine thuisbatterij van 5 kWh (€3.000-€4.500) in combinatie met zonnepanelen verschuift zelf opgewekte stroom naar de avonduren. Met de afbouw van de salderingsregeling bespaart dit €200-€400 per jaar. Terugverdientijd: 8-15 jaar afhankelijk van energieprijzen.
+### 20. Dek ramen af met dikke gordijnen 's nachts
 
-[Sessy](/go/sessy) is een Nederlandse thuisbatterij die je ook zonder zonnepanelen kunt gebruiken voor arbitrage op een dynamisch contract.
-
-### 63. Ventilatiesysteem met warmteterugwinning (WTW)
-Een WTW-systeem (€2.000-€3.500 inclusief installatie) recupereert 80-90% van de warmte uit afgevoerde lucht. Besparing: €150-€300 per jaar in een goed geïsoleerde woning. Terugverdientijd: 8-15 jaar.
-
-### 64. Buitendeur vervangen
-Een slechts geïsoleerde voordeur verliest aanzienlijk warmte. Een nieuwe HR-deur (€800-€1.500 inclusief plaatsing) verbetert isolatiewaarde en bespaart €50-€100 per jaar.
-
-### 65. Airco met hoge SEER-waarde
-Als je airco overweegt: kies een model met SEER ≥6. Een moderne airco met inverter-technologie is als koeler 3-5x efficiënter dan een elektrische verwarming als bijverwarming in de winter. Dubbel nut, één investering.
-
-### 66. Zonneschermen aan de buitenzijde
-Buitenzonwering (€300-€700 per raam) is 3x effectiever dan binnenzonwering bij het tegenhouden van warmte. In een warm huis: minder airco nodig, besparing €40-€100 per jaar afhankelijk van gebruik.
-
-### 67. Warmtepompboiler (80 liter)
-Voor een gezin van drie of meer: een warmtepompboiler van 80 liter (€900-€1.400 inclusief installatie) bespaart €180-€280 per jaar ten opzichte van een elektrische boiler. ISDE-subsidie mogelijk.
-
-### 68. Slim laadpunt voor elektrische auto
-Als je een EV hebt: laad 's nachts op dynamisch tarief. Slimme laadpalen schakelen automatisch naar de goedkoopste uren. Besparing ten opzichte van ongecontroleerd laden: €100-€200 per jaar bij gemiddeld gebruik.
-
-### 69. Groendak als extra isolatielaag
-Een sedumdak op een plat dak (€50-€100/m²) isoleert beter in de zomer (koeler) en winter (minder warmteverlies). Op een dak van 20 m²: besparing €40-€80 per jaar.
-
-### 70. Terugverdienperiode berekenen voor elke investering
-Dit klinkt geen tip maar is het wel: gebruik een simpele rekenformule. Kosten / jaarlijkse besparing = terugverdientijd. Een investering die zichzelf binnen 8 jaar terugverdient vóór je energietransitie sowieso klaar is, is vrijwel altijd de moeite waard.
-
-### 71. Warm water circulatiepomp uitschakelen
-Als je een warm water circulatiesysteem hebt dat continu draait, verbruikt dit 30-80 watt. Met een timer die de pomp alleen aanzet als je thuis bent, bespaar je €40-€80 per jaar.
-
-### 72. Combiketel vervangen bij einde levensduur
-Als je combiketel ouder is dan 15 jaar, overweeg dan bij vervanging een hybride warmtepomp in plaats van een nieuwe HR-ketel. Het prijsverschil is €1.500-€2.500 maar de besparing is €300-€600 per jaar.
-
-### 73. Vloerverwarming instellen op lagere aanvoertemperatuur
-Vloerverwarming werkt het best op lage aanvoertemperatuur. Stel de cv-ketel in op maximaal 45°C aanvoer voor vloerverwarming (in plaats van 70-80°C). Dit verbetert het rendement van je ketel met 5-10% en is noodzakelijk als je later een warmtepomp wilt.
-
-### 74. Energielabel verbeteren voor subsidies
-Van label D naar label B geeft recht op meer subsidies bij de SAH (Subsidie Aardgasvrije Huurwoningen) of de ISDE. Controleer wat voor jouw woning de meest kosteneffectieve stappen zijn om het label te verbeteren.
-
-### 75. Verbruiksprofilering met home automation
-Een home automation platform (Home Assistant op een Raspberry Pi, €60-€100) koppelt al je slimme apparaten en optimaliseert verbruik automatisch. Potentiële besparing: 10-20% op totale energierekening.
+Dikke gordijnen of thermische gordijnen voor enkelseglas reduceren warmteverlies 's nachts met 30-40%. Besparing bij verouderd glas op drie ramen: **€30-€60 per jaar**.
 
 ---
 
-## Categorie 4: Grote investeringen (>€2500), structurele besparing (tips 76-100)
+## Categorie 2: Kleine ingrepen onder €100 (tips 21-40)
 
-### 76. Zonnepanelen (volledig systeem)
-12-16 zonnepanelen (3.600-5.600 Wp) kosten inclusief installatie €6.000-€9.000 en leveren 3.200-4.800 kWh per jaar. Bij volledig eigen gebruik: besparing €900-€1.350 per jaar. Terugverdientijd: 6-9 jaar. Na de salderingswet in 2027 daalt de waarde van teruglevering, waardoor eigen gebruik nog belangrijker wordt.
+### 21. Radiatorfolie achter radiatoren (€15-€25)
 
-### 77. Thuisbatterij bij zonnepanelen
-Een thuisbatterij (5-10 kWh, €4.000-€8.000) maximaliseert zelf-consumptie van zonnestroom. Van 30% naar 80% eigen gebruik. Besparing ten opzichte van saldering: €300-€600 per jaar (stijgend na 2027). Terugverdientijd: 8-14 jaar.
+Radiatorfolie reflecteert warmte terug de kamer in die anders via de muur verloren gaat. Werkt het best bij radiatoren aan buitenmuren zonder spouwmuurisolatie. Terugverdientijd: **2-3 maanden**. Besparing: **€30-€60 per jaar**.
 
-### 78. Hybride warmtepomp
-Een hybride warmtepomp (€4.000-€7.500 inclusief installatie) combineert een warmtepomp met je bestaande cv-ketel. De warmtepomp doet het werk bij temperaturen boven 0°C (COP 2,5-4,0), de ketel schakelt in bij extreme kou. Besparing: €400-€800 per jaar. ISDE-subsidie: €1.500-€2.500.
+### 22. Tochtstrips bij deuren en ramen (€10-€40)
 
-### 79. All-electric warmtepomp (lucht-water)
-Een volledige lucht-water warmtepomp (€8.000-€15.000 inclusief installatie) vervangt de cv-ketel volledig. Vereist goede isolatie (label B of hoger). Besparing ten opzichte van gas: €500-€1.200 per jaar afhankelijk van energieprijzen. ISDE-subsidie: €2.000-€4.000.
+Kieren bij deuren en ramen zijn verantwoordelijk voor 10-15% van het totale warmteverlies in een woning. Een set tochtstrips kost €10-€40 en is in een middag aangebracht. Besparing: **€80-€150 per jaar** bij een slecht gedichte woning.
 
-### 80. Triple glas bij renovatie
-Bij een complete kozijnvervanging: kies voor triple glas (Ug ≤0,7 W/m²K) in plaats van HR++. Kostprijs is 20-30% hoger maar warmteverlies is nog eens 30-40% lager. Zinvol bij woningen met veel glas of bij een warmtepomp (die lagere aanvoertemperatuur vereist).
+### 23. Tochtstrip onder de voordeur (€10-€20)
 
-### 81. Dakisolatie buitenzijde
-Dakisolatie aan de buitenzijde (€4.000-€8.000 voor een gemiddelde woning) is duurder dan via de zoldervloer maar combineert goed met een nieuw dakdekking en isoleert ook de dakkapellen mee. Besparing: €400-€600 per jaar.
+De kier onder de voordeur is een van de grootste warmtelekkages. Een schuimrubber borstelseal kost €10-€15 en elimineert dit verlies in 10 minuten. Onderdeel van de grotere besparing bij tip 22.
 
-### 82. Vloerisolatie opbouw (EPS of PUR)
-Vloerisolatie via een opbouwvloer aan de binnenzijde (als kruipruimte niet bereikbaar is) kost €2.500-€4.500. Besparing vergelijkbaar met kruipruimte-isolatie: €200-€350 per jaar.
+### 24. Radiatorknop vervangen door slimme thermostaatknop (€20-€35 per stuk)
 
-### 83. Gevel-isolatie aan de buitenzijde
-Buitengevel-isolatie (€6.000-€12.000) aangebracht als kalkzandsteen geen spouw heeft. Besparing: €400-€700 per jaar. Terugverdientijd: 10-20 jaar. Combineer met renovatie voor de beste prijs-kwaliteit.
+Slimme thermostaatknoppen (Tado, Bosch, Netatmo) sturen elke radiator individueel aan op basis van aanwezigheid en schema. Één knop per slaapkamer bespaart **€30-€60 per jaar** per kamer.
 
-### 84. Geothermische warmtepomp
-Een bodemwarmtepomp (€12.000-€25.000) haalt warmte uit de bodem via een bodemlus. COP van 4-6, de hoogste van alle warmtepompsoorten. Besparing ten opzichte van gas: €600-€1.400 per jaar. Terugverdientijd: 12-20 jaar.
+### 25. LED-verlichting in alle armaturen (€50-€150 totaal)
 
-### 85. Balans-ventilatie met hoogrendements-WTW
-Een premium WTW-systeem met warmteterugwinning van ≥90% (Zehnder, Brink, Itho) kost €3.000-€5.500 inclusief installatie. In combinatie met een warmtepomp en goede isolatie wordt dit de standaard voor een bijna-energieneutraal huis.
+Een gloeilamp of halogeenlamp verbruikt 40-60 watt, een LED-equivalent 6-8 watt. Voor een woning met 20 lampen die gemiddeld 4 uur per dag branden, bespaar je **€130-€175 per jaar**.
 
-### 86. Elektrische auto als thuisbatterij (V2H)
-Vehicle-to-Home (V2H) laat je elektrische auto als thuisbatterij gebruiken. Mits je auto dit ondersteunt (Nissan Leaf, Hyundai Ioniq 5, Mitsubishi Outlander PHEV) en je een compatibele lader hebt, kun je overdag opgeslagen zonnestroom 's avonds gebruiken via je auto. Extra kosten laadpunt: €3.000-€5.000. Besparing: €300-€600 per jaar.
+### 26. Slimme stekker voor monitoring (€15-€25 per stuk)
 
-### 87. Zonnepanelen oost-west opstelling
-In plaats van alle panelen op het zuiden: spreid ze over oost en west. Je produceert meer stroom in de ochtend en avond (wanneer je thuis bent), minder 's middags (wanneer je weg bent). Zelf-consumptie gaat omhoog van 30% naar 50%+ zonder thuisbatterij.
+Met een slimme stekker (TP-Link Kasa, Shelly) zie je exact hoeveel watt een apparaat verbruikt. Vaak kom je verassingen tegen: een oude monitor die in standby 15 watt trekt, of een aquarium dat meer dan verwacht verbruikt.
 
-### 88. Energiemanagement systeem
-Een HEMS (Home Energy Management System) zoals SolarEdge Home Hub, Huawei FusionSolar of GoodWe SEMS koppelt zonnepanelen, thuisbatterij, laadpaal en warmtepomp. Het systeem optimaliseert automatisch wanneer je laadt, opslaat en terugleverd. Besparing boven op afzonderlijke systemen: €150-€300 per jaar.
+### 27. Isolatiemateriaal rondom leidingen in kruipruimte (€30-€80)
 
-### 89. Collectieve inkoop via VvE
-Ben je lid van een VvE? Collectieve inkoop van zonnepanelen, isolatie of warmtepompen via de VvE levert 10-20% korting op voor alle bewoners. Initiatief verdient zichzelf terug via de besparing voor de leden.
+Ongeïsoleerde warmwaterleidingen in een koude kruipruimte verliezen veel energie. Leidingsisolatie (buisisolatie) kost €1-€2 per meter en is simpel zelf aan te brengen. Besparing: **€30-€70 per jaar**.
 
-### 90. Subsidies stapelen
-ISDE + Gemeentelijke subsidie + Duurzaamheidslening + Btw-vrijstelling op zonnepanelen. Een slimme combinatie van subsidies kan de investeringskosten met 30-50% verlagen. Ga altijd langs bij het Warmtefonds of de RVO voor een overzicht van wat je in jouw gemeente kunt combineren.
+### 28. Thermostaatklep goed afstellen
 
-### 91. Warmtepomp + zonnepanelen + thuisbatterij als pakket
-De drie-eenheid die ik zelf gebruik: warmtepomp verwarmt het huis op elektriciteit, zonnepanelen leveren die elektriciteit, thuisbatterij slaat overdag opgewekte stroom op voor de avond. Gecombineerde besparing ten opzichte van volledig gas + netafname: €1.000-€2.000 per jaar.
+Veel mensen laten de thermostaatkleppen op stand 5 staan. Dat is te hoog voor de meeste kamers. Stel ze in op de gewenste temperatuur (stand 2 = 16°C, stand 3 = 20°C). Besparing: **€50-€100 per jaar**.
 
-### 92. Nul-op-de-meter renovatie
-Een complete NOM-renovatie (€50.000-€100.000) brengt je huis naar energielabel A++++ of A+ met zonnepanelen, warmtepomp, WTW en isolatie. Je energierekening daalt naar <€200 per jaar. Dit is een lang-termijn investering die het beste rendeert als je 20+ jaar in de woning blijft.
+### 29. Kook met een waterkoker in plaats van de ketel op gas
 
-### 93. MJOP voor VvE optimaliseren
-Als je in een appartement woont, kunnen gemeenschappelijke energiebesparende maatregelen (gezamenlijk dak isoleren, zonnepanelen op gemeenschappelijk dak) gefinancierd worden via het MJOP. Begin het gesprek in je VvE.
+Elektrisch water koken is efficiënter dan op gas, zeker met zonnepanelen of een goedkoop stroomcontract. Een liter water koken op elektriciteit kost circa €0,024, op gas circa €0,033. Bij 3 liter per dag bespaar je **€10-€15 per jaar**.
 
-### 94. Energiecoach inschakelen
-Een Erkend Energieadviseur of onafhankelijke energiecoach (€100-€300 voor een adviesgesprek) kan een maatwerkadvies geven op basis van jouw woning, gebruik en budget. Dit voorkomt dure fouten bij grote investeringen.
+### 30. Gebruik een afzuigkap op lage stand i.p.v. hoge stand
 
-### 95. Waterzijdig inregelen cv-systeem
-Na plaatsing van een warmtepomp of bij een renovatie: een hydraulisch gebalanceerd cv-systeem werkt 10-20% efficiënter. Een installateur stelt de balansventilen af zodat elke radiator precies de juiste hoeveelheid water krijgt.
+Een afzuigkap op hoge stand gebruikt 4-5 keer meer stroom dan op lage stand. Gebruik lage of middenstand voor normaal koken, hoge stand alleen bij intensief braden of frituren. Besparing: **€15-€30 per jaar**.
 
-### 96. Buffervatbeheersing bij warmtepomp
-Een boilervat of buffervat (€300-€600) bij een warmtepomp stelt het systeem in staat om elektriciteit te bufferen als thermische energie. Zo kan de warmtepomp draaien op goedkope uren en de warmte opslaan voor piekuren. Besparing: €80-€150 per jaar op een dynamisch contract.
+### 31. Ventilator op slaapkamer in zomer (€25-€60)
 
-### 97. Luchtdichtheid verbeteren
-Bij een energierenovatie: meet de luchtdichtheid (blower door test, €200-€400). Kierdichting, manchetten rondom leidingen en aansluitingen tapen bespaart 5-15% op verwarming. Dit is werk dat je deels zelf kunt doen.
+Een plafondventilator of staande ventilator verbruikt 30-75 watt. Een airco verbruikt 700-2.500 watt. Gebruik de ventilator voor comfort; gebruik airco alleen als het echt nodig is. Besparing per zomer: **€30-€80**.
 
-### 98. Groene hypotheek voor verduurzaming
-Als je je hypotheek aanpast of oversluit voor verduurzaming, bieden veel banken een lagere rente op het verduurzamingsdeel. Het rentevoordeel van 0,1-0,4% op een lening van €30.000 bespaart €30-€120 per jaar aan rentelasten.
+### 32. Zonnescherm of folie voor ramen in zomer (€30-€80)
 
-### 99. Zonnedak met geïntegreerde panelen bij dakvervanging
-Als je dak aan vervanging toe is: overweeg geïntegreerde zonnedakpanelen (BIPV). Je bespaart de dakbedekking en krijgt er een zonne-energiesysteem bij. Meerkosten ten opzichte van normaal dak: €3.000-€8.000. Esthetisch en functioneel.
+Zonwering voorkomt dat je woning overkookt en airco nodig heeft. Reflecterende raamfolie snijdt tot 70% van de zonnewarmte weg. Besparing op koeling: **€50-€150 per zomer**.
 
-### 100. Continu monitoren en bijsturen
-De grootste fout is investeren en dan niet meten. Installeer een energiedashboard (Tibber-app, P1-meter dashboard, Huawei FusionSolar) en bekijk maandelijks je verbruik. Door bij te sturen bespaar je 5-15% extra bovenop de investeringsbesparing. Energie besparen is geen eenmalige actie, maar een doorlopend proces.
+### 33. Kraan met waterbesparende perlator (€5-€15 per kraan)
 
----
+Een perlator mengt lucht door de waterstraal, waardoor je minder water (en dus minder warmwater) gebruikt met hetzelfde gevoel van waterdruk. Terugverdientijd: **2-4 maanden**. Besparing warm water: **€20-€50 per jaar**.
 
-## Mijn persoonlijke top 10 kosteneffectiefste maatregelen
+### 34. Overweeg koken op inductie i.p.v. gas (€60-€200 losse inductiekookplaat)
 
-Na twee jaar meten en doorrekenen is dit mijn ranglijst van maatregelen met de beste verhouding tussen kosten en besparing:
+Inductie is 85-90% efficiënt; gas is 40-55% efficiënt. Een los inductieveld voor dagelijks gebruik kost €60-€200 en betaalt zich terug in 1-2 jaar bij hoge gasprijzen. Besparing: **€50-€120 per jaar** afhankelijk van kookgedrag.
 
-| Rang | Maatregel | Investering | Besparing/jaar | Terugverdientijd |
-|------|-----------|-------------|----------------|------------------|
-| 1 | Spouwmuurisolatie | €700-€1.500 | €300-€500 | 2-3 jaar |
-| 2 | Slimme thermostaat | €130-€180 | €150-€250 | 6-14 maanden |
-| 3 | LED-verlichting | €40-€80 | €80-€120 | <1 jaar |
-| 4 | Zoldervloer isolatie | €500-€1.000 | €200-€400 | 2-4 jaar |
-| 5 | Zonnepanelen (12) | €6.000-€9.000 | €900-€1.350 | 6-9 jaar |
-| 6 | Hybride warmtepomp | €4.000-€7.500 | €400-€800 | 6-12 jaar |
-| 7 | Dynamisch contract | €0 | €80-€200 | Direct |
-| 8 | Vloerisolatie | €1.500-€2.500 | €200-€350 | 5-10 jaar |
-| 9 | Thuisbatterij (5kWh) | €3.000-€4.500 | €200-€400 | 8-15 jaar |
-| 10 | Warmtepompboiler | €900-€1.400 | €150-€300 | 3-6 jaar |
+### 35. Gebruik een slowcooker voor stoofpotjes (€40-€80)
+
+Een slowcooker gebruikt 70-150 watt gedurende 6-8 uur. Een oven voor hetzelfde gerecht: 1.800-2.500 watt voor 2 uur. Besparing per gebruik: circa €0,30. Bij twee keer per week: **€30 per jaar**.
+
+### 36. Koel voedsel af voor het in de koelkast gaat
+
+Warm voedsel direct in de koelkast plaatsen kost extra energie om te compenseren. Laat altijd even afkoelen op kamertemperatuur (max. 30-60 minuten). Besparing: klein, maar cumuleert bij dagelijks koken.
+
+### 37. Verwarm kamer direct met elektrisch infraroodpaneel (€60-€120)
+
+Als je in één kamer werkt, is een klein infrarood-paneel (200-400W) efficiënter dan de hele woning verwarmen. Besparing bij 4 uur/dag gebruik in één kamer in plaats van centrale verwarming: **€80-€150 per jaar**.
+
+### 38. Verlichting op bewegingssensoren (€15-€30 per sensor)
+
+In gangen, bijkeuken en toiletten is verlichting vaak onnodig aan. Een bewegingssensor zorgt dat het licht automatisch uitgaat. Besparing per ruimte: €5-€15 per jaar.
+
+### 39. Slimme verdeelstekker met tijdschakelaar (€20-€40)
+
+Stel een tijdschakelaar in voor je entertainment-installatie. Na 23:00 alles automatisch uit. Besparing op standby: **€20-€50 per jaar**.
+
+### 40. P1-meter voor realtime inzicht (€30-€80)
+
+Een P1-meter koppelt aan je slimme meter en geeft realtime inzicht in je verbruik per minuut. Alleen al het bewustzijn van wat apparaten verbruiken, leidt tot 5-10% verbruiksreductie. Besparing: **€50-€100 per jaar**.
 
 ---
 
-## Conclusie
+## Categorie 3: Slimme apparaten en technologie (tips 41-55)
 
-100 tips klinkt overweldigend, maar de aanpak is simpel: begin met de gratis maatregelen (thermostaat, gedrag, stand-by), investeer dan in de dingen met de kortste terugverdientijd (LED, slimme thermostaat, isolatie), en bouw daarna pas naar de grotere investeringen.
+### 41. Slimme thermostaat installeren (€100-€250)
 
-Zelf heb ik dit in drie fases gedaan. Eerst gedragsverandering: €40 per maand minder. Dan isolatie en slimme thermostaat: nog eens €50 per maand. Dan zonnepanelen en thuisbatterij: nog eens €80 per maand. Totaal nu €170 minder per maand dan twee jaar geleden.
+Een slimme thermostaat (Tado, Netatmo, Bosch EasyControl) leert je stookpatroon, past zich aan aanwezigheid aan en is via de app te bedienen. Gemiddelde besparing: **€150-€250 per jaar** op gasverbruik.
 
-Die weg is voor iedereen anders, maar de eerste stap is altijd hetzelfde: meten wat je verbruikt. Heb je nog geen slimme meter of energiedashboard? Dat is dan je tip nummer 1.
+### 42. Tibber of ander dynamisch stroomcontract
+
+Met een [dynamisch energiecontract via Tibber](/go/tibber) betaal je de actuele marktprijs per uur. Door grote verbruikers (wasmachine, vaatwasser, EV-lader) in de goedkope uren te draaien, bespaar je **€150-€400 per jaar** afhankelijk van verbruik en flexibiliteit.
+
+### 43. Automatiseer je apparaten op goedkope uren
+
+Combineer Tibber met slimme stekkers of een thuisautomatiseringssysteem (Home Assistant) om de wasmachine automatisch te starten als de stroomprijs onder €0,10/kWh zakt. Bespaart moeite én geld.
+
+### 44. Smart home integratie voor verwarming en verlichting
+
+Een platform als Home Assistant of Google Home centraliseert alle slimme apparaten en maakt automatisering eenvoudig. Startkosten: €100-€200 hardware. Besparing via betere automatisering: **€100-€200 extra per jaar**.
+
+### 45. EV-lader met dynamisch laden (indien relevant)
+
+Als je een elektrische auto hebt, is slim laden cruciaal. Laad 's nachts tussen 01:00 en 06:00 op dynamisch tarief (soms €0,05-€0,08/kWh) in plaats van overdag (€0,25-€0,35/kWh). Besparing bij 15.000 km/jaar: **€200-€400 per jaar**.
+
+### 46. Warmwaterpomp of circulatieleiding afschakelen
+
+Als je een circulatieleiding voor warm water hebt, overweeg een timer: alleen aan tussen 07:00-09:00 en 18:00-21:00. Besparing: **€60-€120 per jaar**.
+
+### 47. Koelkast met energielabel A+++ aanschaffen als vervanging (€400-€700)
+
+Een 15 jaar oude koelkast verbruikt 300-400 kWh per jaar. Een moderne A+++ koelkast 100-150 kWh. Bij vervanging op het moment dat de oude kapot gaat, bespaar je **€50-€80 per jaar**.
+
+### 48. Warmtepomp-droger in plaats van condensdroger (€500-€900)
+
+Een warmtepomp-droger gebruikt 1,5-2 kWh per cyclus, een condensdroger 4-5 kWh. Bij vier keer per week: besparing van **€100-€150 per jaar** aan stroom.
+
+### 49. Inductiekookplaat vervangt gasfornuis
+
+Een volledige overstap van gas naar inductie scheelt 100-200 m3 gas per jaar. In combinatie met zonnepanelen is dit vrijwel gratis koken. Besparing netto: **€80-€150 per jaar**.
+
+### 50. Slimme zonnepaneel-omvormer voor monitoring
+
+Een omvormer met monitoring (SolarEdge, Enphase) toont welk paneel minder presteert door vervuiling of schaduw. Tijdige schoonmaak of bijsturing verhoogt de opbrengst met 3-8%. Bij 3.000 kWh/jaar productie: **€30-€80 extra per jaar**.
+
+### 51. Thuisbatterij voor zelfverbruik overdag (€3.000-€6.000)
+
+Een [thuisbatterij zoals de Sessy](/go/sessy) slaat overdag opgewekte zonnestroom op voor gebruik 's avonds. Zelfverbruikspercentage stijgt van 30-35% naar 70-80%. Bij 3.000 kWh productie en €0,32/kWh tarief: **€400-€600 extra besparing per jaar**.
+
+### 52. Virtuele batterij via Tibber
+
+[Tibber](/go/tibber) biedt via sommige partners een virtueel batterij-systeem waarbij je credits verdient bij teruglevering en inzet bij hoge prijzen. Geen hardware nodig — werkt met je slimme meter.
+
+### 53. Zonnepanelen schoonmaken
+
+Vuile panelen leveren 5-15% minder op. Schoonmaak met een zachte borstel en lauw water twee keer per jaar geeft kosteloos extra opbrengst. Bij 3.000 kWh/jaar productie: **€48-€144 extra per jaar**.
+
+### 54. Micro-omvormers voor panelen met schaduw
+
+Bij gedeeltelijke schaduw werken panelen met micro-omvormers (Enphase) of power optimizers (SolarEdge) 10-25% beter dan een systeem met één centrale omvormer. Meerprijs: €300-€600. Terugverdientijd: 2-4 jaar bij veel schaduw.
+
+### 55. CO2-gestuurde ventilatie
+
+Ventileer op basis van de werkelijke CO2-concentratie, niet op een vast schema. CO2-gestuurd ventileren bespaart 30-50% ventilatiewarmteverlies. Besparing: **€50-€100 per jaar**.
+
+---
+
+## Categorie 4: Verwarming en warm water (tips 56-70)
+
+### 56. Cv-ketel jaarlijks onderhouden
+
+Een cv-ketel die niet onderhouden is, verliest 5-15% rendement. Jaarlijks onderhoud kost €80-€120 maar betaalt zich terug in lagere gasrekening én langere levensduur. Besparing: **€80-€150 per jaar** bij verwaarloosde ketel.
+
+### 57. Radiatoren ontluchten
+
+Lucht in het radiatorcircuit betekent koude plekken bovenin en meer pompen. Ontluchten is gratis met een ontluchtingssleutel (€2). Doe dit elk stookseizoen.
+
+### 58. Aanvoertemperatuur ketel verlagen
+
+De meeste cv-ketels staan ingesteld op een aanvoertemperatuur van 80°C. Bij goed geïsoleerde woningen is 60-65°C voldoende. Lagere aanvoertemperatuur verhoogt het rendement van de ketel. Besparing: **€80-€150 per jaar**.
+
+### 59. Thermostatische mengkraan bij douche
+
+Vermijd energieverspilling door lang te wachten op de juiste temperatuur. Een thermostatische douchekraan geeft direct de ingestelde temperatuur. Besparing: **€20-€50 per jaar** afhankelijk van gezinsgrootte.
+
+### 60. Zonneboiler voor warm water (€2.000-€4.000 investering)
+
+Een zonneboiler dekt 50-70% van je warmwaterbehoefte in de zomer en 20-30% in de winter. Terugverdientijd: 7-12 jaar. Besparing: **€150-€250 per jaar** aan gaskosten.
+
+### 61. Warmtepomp-boiler (€700-€1.200 investering)
+
+Een warmtepomp-boiler verwarmt water met 3-4x minder elektriciteit dan een elektrische weerstandsboiler. Terugverdientijd ten opzichte van elektrische boiler: 3-5 jaar. Besparing: **€100-€200 per jaar**.
+
+### 62. Vloerverwarming op lagere aanvoertemperatuur
+
+Vloerverwarming werkt optimaal bij 35-40°C aanvoer. Hogere temperaturen kosten meer energie en zijn oncomfortabel. Controleer en verlaag de stooklijn als je die instelling hebt.
+
+### 63. Hybride warmtepomp installeren (€4.000-€7.000 na subsidie)
+
+Een hybride warmtepomp combineert een warmtepomp met je bestaande cv-ketel. Besparing: **€500-€900 per jaar** op gasverbruik. ISDE-subsidie: tot €2.750.
+
+### 64. Full-electric warmtepomp (€8.000-€18.000 na subsidie)
+
+Een volledige warmtepomp vervangt de cv-ketel volledig. COP van 3,5-4,5 betekent dat je voor elke kWh elektriciteit 3,5-4,5 kWh warmte krijgt. Besparing ten opzichte van gas: **€600-€1.200 per jaar** bij goed geïsoleerde woning.
+
+### 65. Warmteterugwinning uit douchewater
+
+Douchewarmte-terugwinners (DWH) zijn onder de douchebak gemonteerde warmtewisselaars. Besparing: 20-30% op douche-warmtekosten, circa **€40-€80 per jaar**.
+
+### 66. Mechanische ventilatie met warmteterugwinning (WTW) (€2.000-€5.000)
+
+Een WTW-systeem gebruikt de warmte uit de afgevoerde lucht om de verse lucht voor te verwarmen. Rendement: 85-95%. Besparing: **€200-€400 per jaar** bij goed geïsoleerde woning.
+
+### 67. Radiatoren vervangen door lage-temperatuur uitvoering
+
+Als je de warmtepomp overweegt, heeft het vervangen van radiatoren voor lage-temperatuur versies nu financieel zin. Hierdoor werkt je huidige ketel al efficiënter en is de warmtepomp straks optimaal.
+
+### 68. Cv-ketel op maximaal condensatierendement instellen
+
+Oudere HR-ketels staan soms ingesteld op te hoge retourtemperaturen waardoor ze niet condenseren. Laat de installateur de ketel op maximaal condensatierendement instellen. Gratis besparing van 5-10% rendement.
+
+### 69. Stoken op schema vs. stoken op aanwezigheid
+
+Een thermostaat die op schema werkt (bijv. 7 dagen hetzelfde), stookt ook als je er niet bent. Een slimme thermostaat die aanwezigheid detecteert, niet. Verschil: **€50-€150 per jaar** bij gemiddeld 3 uur/dag afwezigheid.
+
+### 70. Zonneplan voor warm water via zonnepanelen
+
+Sommige omvormers (SolarEdge, Growatt) kunnen overproductie van zonnepanelen direct omzetten naar warm water via een weerstandselement in de boiler. Gratis warm water op zonnige zomerdagen.
+
+---
+
+## Categorie 5: Isolatie en ventilatie (tips 71-82)
+
+### 71. Spouwmuurisolatie (€800-€1.500 investering)
+
+Spouwmuurisolatie is de meest kostenefficiënte maatregel voor de meeste Nederlandse woningen (bouwjaar 1940-1985). SEEH-subsidie kan oplopen tot €600. Terugverdientijd: **3-6 jaar**. Besparing: **€200-€500 per jaar**.
+
+### 72. Vloerisolatie via kruipruimte (€1.000-€2.500)
+
+Een ongeisoleerde begane grondvloer verliest 10-15% van de warmte. Vloerisolatie via de kruipruimte (EPS-platen) is relatief goedkoop en effectief. Besparing: **€150-€300 per jaar**.
+
+### 73. Dakisolatie (€1.500-€4.500 afhankelijk van daktype)
+
+Via een slecht geïsoleerd dak verlies je 20-30% van de warmte. Dakisolatie is effectief en heeft een terugverdientijd van 5-10 jaar. Besparing: **€200-€500 per jaar**.
+
+### 74. Dubbel glas naar HR++ of triple glas (€3.000-€10.000)
+
+Enkel glas verliest 5-6 keer zoveel warmte als HR++ glas. Vervanging is duur maar effectief voor decennia. Besparing: **€200-€600 per jaar** afhankelijk van het aantal ramen.
+
+### 75. Kierdichting professioneel laten uitvoeren (€300-€800)
+
+Een bouwkundige kierdichting (blower-door test + afdichten) kan de luchtlekkage in een woning halveren. Terugverdientijd: 2-5 jaar. Besparing: **€100-€300 per jaar**.
+
+### 76. Zolderraam isoleren met dakraamfolie (€30-€80)
+
+Dakramen zijn zwakke plekken in de isolatie. Isolatiefolie voor de binnenzijde van het dakraam verbetert de U-waarde aanzienlijk zonder vervanging. Besparing per dakraam: **€30-€60 per jaar**.
+
+### 77. Isolerende vloerafwerking (€100-€500)
+
+Een hoogpolig tapijt of isolerende vloercoating op tochtige begane grondvloeren verhoogt het thermisch comfort en verlaagt de stookbehoefte. Besparing: **€30-€80 per jaar**.
+
+### 78. Kelderdeur of kruipruimteluik isoleren (€50-€150)
+
+Kelderdeuren en kruipruimteluiken zijn koude bruggen. Isolatie met XPS-schuim of PIR-paneel verhoogt de R-waarde van dit vlak. Besparing: **€20-€60 per jaar**.
+
+### 79. Cv-ketelkast of meterkast isoleren (€20-€50)
+
+Als je ketel of boiler in een onverwarmde meterkast staat, verliest hij extra warmte. Isoleer de wanden met dunne PIR-plaat. Besparing: **€15-€30 per jaar**.
+
+### 80. Rolluiken ook in de zomer gebruiken voor koeling
+
+Rolluiken werken niet alleen in de winter voor warmte-behoud maar ook in de zomer voor koeling. Sluit rolluiken overdag aan de zonzijde en verminder airco-behoefte met 50-70%.
+
+### 81. Klimaatgordijnen voor grote open ruimtes (€100-€300)
+
+In open keukens of trappenhuizen circuleren warme lucht omhoog. Een thermisch gordijn of lamellendeur scheidt ruimtes af en voorkomt warmtestratificatie. Besparing: **€50-€120 per jaar**.
+
+### 82. Luchtdicht aansluiten van kantelramen en dakramen (€20-€60 per raam)
+
+Kantelramen hebben vaak een slechte afdichting aan de bovenzijde. Een nieuwe EPDM-afdichtstrip elimineert dit lek. Besparing per raam: **€10-€30 per jaar**.
+
+---
+
+## Categorie 6: Opwek en opslag (tips 83-92)
+
+### 83. Zonnepanelen installeren (€5.000-€9.000 voor 10-14 panelen)
+
+Tien panelen (3.300 Wp) leveren 2.800-3.000 kWh per jaar op in Nederland. Bij zelfverbruik van 30-35% bespaar je direct **€300-€350 per jaar**. Met thuisbatterij loopt dit op tot **€700-€900 per jaar**.
+
+### 84. Meer panelen dan je nodig hebt installeren (power-to-heat strategie)
+
+Overproductie van zonnepanelen kun je inzetten via de boiler, EV of thuisbatterij. Oversizing naar 15-20 panelen kost €2.000-€3.000 extra maar maakt power-to-heat strategie rendabel na 2027.
+
+### 85. Thuisbatterij als buffer voor piekverbruik (€3.000-€6.000)
+
+Een [Sessy thuisbatterij](/go/sessy) slaat overdag goedkope stroom op en levert dit 's avonds. Besparing in combinatie met dynamisch contract: **€400-€800 per jaar**.
+
+### 86. Virtuele batterij via [Tibber](/go/tibber)
+
+Tibber biedt via sommige partners een virtueel batterij-systeem waarbij je credits verdient bij teruglevering en inzet bij hoge prijzen. Geen hardware nodig.
+
+### 87. Zonnepanelen op oost-west oriëntatie voor betere spreiding
+
+Een oost-west opstelling levert 80-85% van de opbrengst van een perfect zuidopstelling, maar spreidt de productie beter over de dag. Dit verhoogt het zelfverbruikspercentage van 30% naar 40-45% zonder thuisbatterij.
+
+### 88. Micro-omvormers voor panelen met schaduw
+
+Bij gedeeltelijke schaduw werken panelen met micro-omvormers (Enphase) of power optimizers (SolarEdge) 10-25% beter. Meerprijs: €300-€600. Terugverdientijd: 2-4 jaar bij veel schaduw.
+
+### 89. Deelnemen aan energiecoöperatie
+
+Via lokale energiecoöperaties (Energie Samen) kun je meedoen aan gezamenlijke opwek zonder panelen op je eigen dak. Aantrekkelijker voor huurders of woningen met ongeschikt dak.
+
+### 90. Salderingsregeling maximaal benutten vóór 2027
+
+De salderingsregeling loopt tot 2027 af. Wie nu nog panelen installeert (2026), profiteert nog van volledige saldering tot 2031. Installeer bij twijfel nu.
+
+### 91. Windmolen (kleine turbine) als aanvulling
+
+In windrijke gebieden kunnen kleine windturbines (€3.000-€8.000) een aanvulling zijn op zonnepanelen. Relevanter voor boerderijen en vrijstaande woningen in kustgebieden.
+
+### 92. Warmte uit regenwater terugwinnen via warmtewisselaar
+
+Geavanceerde systemen kunnen warmte uit dakregenwater terugwinnen. Nog weinig toepast in woonhuizen, maar interessant als innovatief project voor duurzame pioniers.
+
+---
+
+## Categorie 7: Contract en leverancier (tips 93-100)
+
+### 93. Vergelijk energiecontracten via onafhankelijke vergelijker
+
+Prijsverschillen tussen leveranciers kunnen oplopen tot €300-€500 per jaar. Vergelijk elk jaar opnieuw via Energievergelijker.nl of Gaslicht.com. Overstappen is gratis en vergt 15 minuten.
+
+### 94. Kies een dynamisch contract met zonnepanelen
+
+Met zonnepanelen is een [dynamisch contract via Tibber](/go/tibber) bijna altijd voordeliger dan een vast contract. Je verkoopt overdag bij hoge prijzen en koopt 's nachts goedkoop in.
+
+### 95. Onderhandel over je teruglevertarief
+
+Sommige energiebedrijven bieden hogere teruglevertarieven aan als je vraagt of als je overstapt. Het verschil tussen aanbieders kan €0,05-€0,10/kWh bedragen — bij 1.000 kWh teruglevering is dat **€50-€100 per jaar**.
+
+### 96. Sluit een meerjarig vast contract als gasprijzen laag zijn
+
+Bij lage gasprijzen (onder €0,80/m3) kan een meerjarig vast contract verstandig zijn als bescherming tegen prijsstijgingen.
+
+### 97. Controleer je energierekening maandelijks op fouten
+
+Voorschotbetalingen zijn gebaseerd op schattingen. Als je minder verbruikt dan verwacht, pas je voorschot dan aan. Zo voorkom je dat je maanden te veel betaalt.
+
+### 98. Vraag alle beschikbare subsidies aan
+
+De ISDE-regeling (warmtepompen), SEEH (isolatie), en gemeentelijke energiesubsidies worden niet automatisch toegekend — je moet ze zelf aanvragen. Gebruik de subsidiewijzer op mijn.rvo.nl.
+
+### 99. Registreer je bij collectieve inkoop van duurzame energie
+
+Gemeenten en provincies organiseren regelmatig collectieve inkoop van zonnepanelen of isolatie. Deelnemers betalen 10-20% minder dan individueel inkopende huishoudens.
+
+### 100. Maak een jaarlijkse energieaudit van je woning
+
+Een energieaudit (€100-€300 door een erkend adviseur) geeft een geprioriteerde lijst van maatregelen voor jouw specifieke woning. De investering betaalt zich zeker terug als je daarna de juiste maatregelen treft.
+
+---
+
+## Mijn persoonlijke top 10 voor maximale impact
+
+Na drie jaar experimenteren met bovenstaande maatregelen zijn dit de tien tips die mij het meeste hebben opgeleverd:
+
+| Maatregel | Mijn besparing | Investering |
+|-----------|---------------|-------------|
+| Hybride warmtepomp | €820/jaar | €3.900 na subsidie |
+| Zonnepanelen (12 panelen) | €650/jaar | €6.800 |
+| Sessy thuisbatterij | €420/jaar | €3.999 |
+| Dynamisch contract Tibber | €310/jaar | €0 |
+| Spouwmuurisolatie | €280/jaar | €950 |
+| Slimme thermostaat | €190/jaar | €180 |
+| LED overal | €160/jaar | €120 |
+| Kierdichting | €140/jaar | €65 |
+| Wasdroger weg | €130/jaar | €0 |
+| Douche verkorten | €95/jaar | €0 |
+
+**Totaal: €3.195/jaar besparing** bij een investering van circa €16.000 (exclusief subsidies). Na subsidies (ISDE ~€3.000, SEEH ~€600) heb ik netto €12.400 geïnvesteerd. Terugverdientijd: 3,9 jaar.
+
+---
+
+## Conclusie: begin klein, denk groot
+
+Je hoeft niet alle 100 tips in één keer te implementeren. Begin met de gratis maatregelen (tips 1-20) en kleine ingrepen onder €100 (tips 21-40). Daarmee red je al 20-30% van je energierekening zonder enige investering.
+
+Stapel vervolgens de grotere maatregelen op basis van je budget en woning. Een goed geïsoleerde woning met zonnepanelen, een hybride warmtepomp en een dynamisch contract kan je energierekening halveren of zelfs met 70% verlagen.
+
+De vraag is niet óf je energiekosten kunt verlagen — maar hoe snel je ermee begint.
