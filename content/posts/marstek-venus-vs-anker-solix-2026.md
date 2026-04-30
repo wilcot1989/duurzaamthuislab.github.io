@@ -382,3 +382,32 @@ In mijn 10 maanden parallel-test verdiende Marstek (10 kWh) gemiddeld €88/maan
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
 - [Powerstation vs thuisbatterij](/posts/powerstation-vs-thuisbatterij-2026/)
 - [Beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+
+## Mini case-study — twee gezinnen, twee batterijen, dezelfde wijk Veldhoven
+
+Twee gezinnen in Veldhoven — vergelijkbare verbruikspatronen, identieke 12-panelen-installatie. Gezin A koos Marstek Venus 5 kWh (€2.890), gezin B koos Anker Solix Smart Home Battery 5 kWh (€3.190). 9 maanden 2025:
+
+- Marstek: cycles 287, capaciteit constant 5,12 kWh, geen storingen, app 95 procent uptime
+- Anker Solix: cycles 269, capaciteit constant 5,08 kWh, één firmware-rollback, app 99 procent uptime
+
+Conclusie: praktisch gelijk. Marstek wint €300 op aanschaf. Anker Solix wint op app-stabiliteit en garantie (10 vs 8 jaar). Voor gemiddelde NL-gebruiker is Marstek financieel slimmer; voor gebruikers die maximum gemak zoeken, weegt Anker Solix-app op tegen €300 prijsverschil.
+
+## Veelgemaakte fouten in deze keuze
+
+1. **Op opslagcapaciteit alleen letten.** Roundtrip-efficiency, ontlaadvermogen en garantieduur vaak doorslaggevender.
+2. **Marstek zonder Modbus-toegang.** Lokale sturing vereist ingeschakelde Modbus-poort — fabriekstand vaak uit.
+3. **Anker Solix alleen via cloud.** Bij internet-uitval geen sturing — beperkter dan Marstek met lokale modus.
+4. **Stack-uitbreiding negeren.** Marstek tot 25 kWh, Anker Solix tot 16 kWh — bij EV-eigenaars relevant.
+5. **Garantie-overdracht bij verhuizing.** Marstek dragelijk via formulier, Anker Solix vereist nieuw account-link — soms gedoe.
+
+## Wanneer geen van beide passend is
+
+Voor zwaar 3-fase-belast huis (warmtepomp + EV + oven gelijktijdig piek) zijn 1-fase 5 kW-batterijen te beperkt. Kies dan Sungrow SBR of BYD Battery-Box met 3-fase omvormer (€5.500-€8.500).
+
+## Extra FAQ
+
+**Welke heeft betere arbitrage-modus?**
+Anker Solix integreert native met Tibber Charge sinds firmware 2025.06. Marstek vereist EVCC of HA-tussenlaag. Voor non-tech gebruikers wint Anker Solix.
+
+**Kan ik later switchen?**
+Hardware niet uitwisselbaar (verschillende omvormer-protocols). Bij verkoop tweedehands marktwaarde 2 jaar oud: Marstek €1.200-€1.400, Anker Solix €1.400-€1.600.

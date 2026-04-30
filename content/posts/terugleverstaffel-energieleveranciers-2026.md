@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/tibber
   price: '0'
 schema_type: Article
-last_updated: '2026-09-07'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,30 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/dynamisch-vs-vast-contract-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — Vandebron-klant met 5.200 kWh teruglevering
+
+Een lezer uit Eindhoven heeft 14 panelen, levert jaarlijks 5.200 kWh terug en verbruikt 3.100 kWh. Saldo van 2.100 kWh netto-teruglevering. Bij Vandebron stafel 2025: 0-2.500 kWh tegen 4 cent, 2.501-5.000 kWh tegen 2 cent, boven 5.000 kWh tegen 0 cent. Voor hem leverde dat €54 per jaar op (oude regeling: €0 omdat hij salderingsklant was). Bij overstap naar Tibber zonder staffel maar met EPEX-prijzen: gemiddeld 8 cent over alle teruggeleverde kWh = €416 per jaar — een verschil van €362 per jaar bij overstap.
+
+## Veelgemaakte fouten met staffels
+
+1. **Staffel verwarren met dynamisch tarief.** Een staffel is vast en stappen-gewijs, dynamisch is per uur op basis van EPEX.
+2. **Niet rekenen met netto-teruglevering.** Veel staffels gelden over bruto-export, niet netto. Dat scheelt fors.
+3. **Geen jaarafrekening checken op staffel-toepassing.** Regelmatig fouten in toewijzing, vooral bij grenzen tussen staffels.
+4. **Vaste contracten met lock-in tot 2028 nemen.** Markt na 1 januari 2027 kantelt naar dynamisch — vastgezet zit je vast.
+5. **Salderen verwarren met staffel.** Tot 2027 saldeer je nog tegen leveringstarief — dat gaat staffels in 2027 voorbij.
+
+## Wanneer een staffel slechter is dan dynamisch
+
+Bij teruglevering boven 2.500 kWh per jaar is dynamisch (EPEX-volgend) bijna altijd voordeliger, mits je flexibel kunt verbruiken (laadtijd EV, warmtepomp-buffer). Onder 1.500 kWh teruglevering is staffel rustiger en voorspelbaar.
+
+## Extra FAQ
+
+**Verandert de staffel jaarlijks?**
+Ja, leveranciers passen elke 12 maanden aan. Sommige (Eneco, Essent) doen halfjaarlijks. Check voorwaarden bij contractverlenging.
+
+**Mag de leverancier de staffel midden in het contract aanpassen?**
+Bij vaste contracten nee (tenzij wettelijk verplicht). Bij variabele contracten ja, met 30 dagen aankondiging.
 
 ---
 

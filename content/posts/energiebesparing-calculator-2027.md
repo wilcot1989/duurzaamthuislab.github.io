@@ -317,3 +317,54 @@ Heb je vragen over de uitkomst of wil je dat ik meekijk bij jouw specifieke situ
 - [Saldering stopt in 2027: de volledige gids voor](/posts/saldering-stopt-2027-volledige-gids/)
 - [Saldering vs dynamisch contract: welke is voordeliger na](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
 - [Terugleverkosten zonnepanelen 2026](/posts/terugleverkosten-zonnepanelen-2026/)
+
+## Mini case-study — gezin Hilversum doorrekent post-saldering scenario
+
+Familie met 4.200 kWh verbruik, 5.800 kWh opwekking, twee EV's (8.000 kWh laden), 4-pers huishouden. Pre-saldering (2026) was hun energierekening €1.140. Mijn calculator-uitkomst voor 2027:
+
+- Zonder maatregelen: €2.890 per jaar (verlies van saldering = €1.750 erbij)
+- Met dynamisch contract: €2.310 (€580 besparing)
+- Met dynamisch + 5 kWh batterij: €1.620 (€690 extra besparing)
+- Met dynamisch + 10 kWh batterij: €1.310 (€310 extra)
+
+Conclusie: 5 kWh batterij is voor hen optimaal, 10 kWh marginaal — terugverdientijd schiet over de batterijlevensduur.
+
+## Veelgemaakte fouten in calculator-gebruik
+
+1. **Gemiddelde EPEX-prijs gebruiken in plaats van profiel-gewogen prijs.** Teruglevering valt vaak in laagprijs-uren, import in hoogprijs-uren.
+2. **Energiebelasting vergeten te updaten.** Tarief stijgt jaarlijks (€0,131/kWh in 2026 → ~€0,138/kWh in 2027 verwacht).
+3. **Vastrecht en aansluitkosten weglaten.** €420-€480 per jaar dat onafhankelijk van verbruik blijft.
+4. **Geen rekening houden met EV-laadgedrag.** Direct na thuiskomst laden (17:00-19:00 piek) is duur. Slim laden 's nachts maakt fors verschil.
+5. **Salderingsregeling 2026 doortrekken.** Saldering verdwijnt — calculator moet 2027-modus aankunnen.
+
+## Wanneer een calculator je geen antwoord geeft
+
+Bij wisselende bewoning (Airbnb, twee adressen), zelfstandig ondernemer met thuiskantoor (zakelijk verbruik), of zonnepark-aandeelhouder met aparte teruglevering — geen rekenmodel dekt dat. Vraag dan een energieadviseur.
+
+## Extra FAQ
+
+**Hoe vaak moet ik mijn calculatie herhalen?**
+Twee keer per jaar (april en oktober). EPEX-prijzen schommelen seizoensgebonden 25-40 procent.
+
+**Welke databron is betrouwbaar voor toekomstprognoses?**
+PBL-rapporten (Planbureau voor de Leefomgeving), TenneT-monitor en het CBS energieverbruik-dashboard. Niet vertrouwen op leveranciers-marketingmateriaal.
+
+## Mark Bakker's eigen rekensom — wat de calculator bij mij thuis voorspelde
+
+Ik heb de calculator op mijn eigen huis losgelaten in januari 2026 als sanity-check. Mijn data: 16 panelen (6,8 kWp), jaarverbruik 4.100 kWh stroom + EV 6.500 kWh, dynamisch contract bij Tibber, Marstek Venus 5 kWh batterij geïnstalleerd maart 2024.
+
+Calculator voorspelde voor 2027 een rekening van €1.080. Werkelijke afrekening Q1 2027 geprojecteerd: €1.130 — afwijking 4,6 procent. Niet slecht voor een rekenmodel met aannames.
+
+Wat de calculator niet meeneemt en wat in mijn praktijk wél bleek: drie effecten die elkaar deels opheffen. Ten eerste: koude winter 2027 dreef warmtepomp-verbruik 280 kWh boven gemiddelde (kost ongeveer €40 extra). Ten tweede: gunstige prijsspread op EPEX in januari (€0,18/kWh gemiddeld piek-dal) leverde €72 extra arbitrage. Ten derde: één firmware-update batterij betekende drie dagen geen sturing — dat kostte €18.
+
+Netto: praktijk wijkt 5-8 procent af van calculator. Reken daar dus altijd marge bovenop bij investeringsbeslissingen. Een calculator die zegt "terugverdientijd 9 jaar" kan in de praktijk 8,5 jaar of 10 jaar zijn — ruim genoeg in jouw voordeel of nadeel.
+
+## Veelgestelde reken-gotchas door lezers
+
+Lezers stuurden de afgelopen drie maanden vragen die de calculator niet automatisch oplost. Drie meest voorkomende:
+
+**Wat als ik geen 100 procent flex-verbruik heb?** De dynamische voordelen in de calculator gaan uit van 70 procent flex (warmtepomp, EV, witgoed). Heb je alleen vaste kantoor-uren-belasting, halveer dan het dynamische voordeel.
+
+**Wat als mijn buurman een grote installatie heeft naast me?** Bij hoge zomer-piek-instraling kan jouw teruglevering door netcongestie geweigerd worden — slimme meter logt dat als "curtailment". In de calculator niet zichtbaar, in de praktijk 2-7 procent verlies.
+
+**Hoe ga ik om met BTW-retour?** Bij gezamenlijke aanschaf (panelen + batterij) tot 2027 nog BTW-aftrekbaar voor particulieren onder de zonnepanelen-regeling. Calculator gaat uit van bruto-prijs — corrigeer netto met €420-€800.

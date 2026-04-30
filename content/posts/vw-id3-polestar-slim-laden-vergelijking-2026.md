@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/frank-energie
   price: '0'
 schema_type: Article
-last_updated: '2026-08-10'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,36 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/tesla-powerwall-review-nederland-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — twee gezinnen, twee EV's, dezelfde wallbox
+
+Twee buurgezinnen in Tilburg hebben begin 2025 dezelfde Alfen Eve Single Pro-Line wallbox geïnstalleerd, beide op Tibber. Auto's: VW ID.3 Pro S (77 kWh) en Polestar 2 Long Range (78 kWh). Beide rijden ~17.000 km/jaar.
+
+Resultaat na 9 maanden:
+- ID.3: laadt thuis 2.940 kWh, gemiddeld 11,8 cent/kWh, jaarkosten €347
+- Polestar 2: laadt thuis 3.180 kWh, gemiddeld 12,4 cent/kWh, jaarkosten €394
+
+Verschil van €47 zit in laadgedrag-flexibiliteit. ID.3 is via We Connect ID iets stugger met scheduled charging, Polestar 2 (op Android Automotive) integreert directer met Tibber Charge.
+
+## Veelgemaakte fouten
+
+1. **Schedule alleen in auto-app, niet wallbox.** Auto en wallbox kunnen ruzie maken — kies één scheduler.
+2. **VW We Connect ID app op gratis-tier.** Premium-functies vereisen abonnement (€69/jaar) anders niet alle data.
+3. **Polestar Plus niet opzeggen.** Veel Polestar-eigenaren betalen €9/maand voor functies die ze niet gebruiken.
+4. **Geen pre-conditioning meeschakelen.** Auto warm/koud maken eet 2-4 kWh ongeplande stroom.
+5. **Wallbox-firmware verouderd.** Alfen patcht 2x/jaar; updates verbeteren laadprofiel-precisie.
+
+## Wanneer slim laden marginaal blijft
+
+Rij je <8.000 km/jaar of laad je 70 procent publiek? Dan blijft thuislaadbesparing onder €120/jaar. Investering in wallbox + Tibber niet snel terug te verdienen.
+
+## Extra FAQ
+
+**Welke heeft betere bidirectional-laad ondersteuning?**
+Polestar 2 (vanaf MY24) ondersteunt V2L native; ID.3 alleen V2H via Wallbox Quasar 2 met software-update vanaf 2026.
+
+**Kan ik beide auto's via dezelfde wallbox slim laden?**
+Ja, met OCPP-scheduling en RFID-pasjes. Tibber-app onderscheidt sessies via auto-vehicle-API.
 
 ---
 

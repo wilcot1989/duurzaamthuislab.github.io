@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/sessy
   price: '0'
 schema_type: Article
-last_updated: '2026-08-03'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,32 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/beste-thuisbatterij-nederland-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — overstap van Domoticz naar Home Assistant
+
+Een klant in Utrecht draaide vier jaar Domoticz op een Raspberry Pi 3. Werkte stabiel maar miste integraties met zijn nieuwe Tesla Wall Connector en Tibber. We hebben in een avond Home Assistant geïnstalleerd op een Pi 4 (8 GB) met SSD. Migratie kostte 6 uur: 23 sensoren overgezet, 12 automatiseringen herschreven, dashboard opnieuw opgebouwd. Conclusie na 3 maanden: 30 procent meer inzicht (ApexCharts toont historie scherper), maar wel 3x zoveel CPU-load. Op een Pi 3 had hij dat niet getrokken.
+
+## Veelgemaakte fouten in de keuze
+
+1. **Hardware onderschatten.** Home Assistant op een Pi 3 is traag en frustrerend. Minimaal Pi 4 of liever NUC.
+2. **Domoticz afschrijven om de UI.** Onder de motorkap is Domoticz light en stabiel — voor een eenvoudige setup met 10-15 sensoren is het prima.
+3. **Add-ons en HACS verwarren met core-functionaliteit.** Veel HA-tutorials gebruiken HACS-only componenten die in productie minder stabiel zijn.
+4. **Geen backups instellen.** Een corrupte SD-card kost je in beide systemen alle historie. SSD-boot is verplicht.
+5. **Direct met YAML beginnen.** Beide systemen hebben GUI-flows — leer eerst die vóór code.
+
+## Wanneer geen van beide nodig is
+
+Heb je alleen panelen, een dynamisch contract en een EV? Dan doet EVCC (open source, lichtgewicht) alles wat nodig is zonder de complexiteit van een full home-automation stack. Loopt op een Pi Zero 2.
+
+Wil je puur energiemonitoring zonder sturing? Dan is een P1-monitor met Home Wizard cloud genoeg — kost €69 en je hebt direct grafieken in een app, zonder onderhoud.
+
+## Extra FAQ
+
+**Kan ik beide tegelijk draaien?**
+Technisch ja, via MQTT als doorgeefluik. Praktisch is dat onderhouds-hel: twee systemen updaten, twee dashboards, twee logbestanden.
+
+**Welke is energiezuiniger om 24/7 te draaien?**
+Domoticz op een Pi Zero 2: ongeveer 1,5 watt continu, 13 kWh per jaar (€4). Home Assistant op een NUC: 8-12 watt, 80-105 kWh per jaar (€25-€32).
 
 ---
 

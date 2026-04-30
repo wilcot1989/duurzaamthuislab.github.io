@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/frank-energie
   price: '0'
 schema_type: Article
-last_updated: '2026-09-11'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,32 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/dynamisch-vs-vast-contract-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — week met €0,00 EPEX-prijs en wat dat in praktijk betekent
+
+In juni 2025 zakte EPEX 4 dagen achter elkaar onder €0,00 tussen 12:00-15:00. Mijn batterij (Marstek Venus 5 kWh) werd betaald om te laden — €0,034/kWh negatieve prijs maal 5 kWh = €0,17 per dag inkomsten naast de stroom. Klein geld, maar over een jaar gerekend bij 30-40 negatieve uren: €30-€60 extra omzet.
+
+Praktisch betekent dit: bij negatieve prijzen is het slim om alles aan te zetten — wasmachine, vaatwasser, droger, EV laden — niet om te stallen.
+
+## Veelgemaakte misverstanden over EPEX
+
+1. **EPEX = mijn tarief.** Nee. Op EPEX-prijs komt belasting (€0,131), netbeheer (€0,02-€0,04) en marge leverancier (€0,015) erbij.
+2. **Day-ahead = real-time.** EPEX day-ahead vastgesteld om 12:42 voor de volgende dag. Real-time is intraday-markt — alleen leveranciers handelen daar.
+3. **Hoge EPEX = energiecrisis.** Pieken ontstaan bij windstilte + lage zon + hoge vraag — kortdurend, niet structureel.
+4. **Negatieve prijs = systeem stuk.** Gewoon overschot bij hoge wind/zon en lage vraag. Markt-mechanisme werkt zoals bedoeld.
+5. **EPEX in andere landen identiek.** Nee. EPEX-DE, EPEX-FR, EPEX-NL hebben eigen prijszones door capaciteitsbeperking (interconnect).
+
+## Wanneer EPEX-volgen niet nuttig is
+
+Bij vast verbruik op kantoor-uren (niet flexibel), oude apparaten zonder timer, of hoog basisverbruik (oude vrieskast, zwembadpomp). Dan win je hoogstens €60-€120 per jaar — minder dan dynamisch contract switch-fee in eerste jaar.
+
+## Extra FAQ
+
+**Kan ik EPEX zelf opvragen?**
+Ja, gratis via ENTSO-E Transparency Platform. Tibber, Frank, ANWB Energie tonen het in apps voor klanten.
+
+**Waarom is Nederlandse EPEX vaak hoger dan Duitse?**
+Gascentrales bepalen vaker de marginale prijs in NL door minder windcapaciteit. Bij veel wind in DE zakt EPEX-DE terwijl NL hoog blijft.
 
 ---
 

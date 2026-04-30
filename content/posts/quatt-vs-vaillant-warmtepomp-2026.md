@@ -335,3 +335,35 @@ Beide keuzes zijn goed — als je ze maar maakt voor de juiste situatie.
 - [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)
 - [Warmtepomp geluid en buren](/posts/warmtepomp-geluid-buren-2026-norm/)
 - [Hybride warmtepomp vergelijking](/posts/warmtepomp-vs-hybride-warmtepomp-2026/)
+
+## Mini case-study — Quatt versus Vaillant in twee bijna-identieke huizen Tilburg
+
+Twee jaren-70 rijwoningen, beide label C na isolatie, beide 110 m². Identieke ligging, identieke gezinsgrootte. Eén buurman koos Quatt Hybrid (€7.500 inclusief installatie en abonnement), andere Vaillant aroTHERM plus 5 kW vol-elektrisch (€16.400 inclusief).
+
+12-maands resultaat 2025:
+- Quatt-buur: 1.840 kWh stroom + 580 m³ gas. Stookrekening €1.420.
+- Vaillant-buur: 3.020 kWh stroom + 0 m³ gas. Stookrekening €936.
+
+Vaillant wint €484 per jaar exploitatie. Maar Quatt is €8.900 goedkoper. Terugverdientijd op meer-investering Vaillant: 18 jaar (zonder discontering). Met saldering-effect en post-2027 dynamische voordelen: 13 jaar.
+
+Conclusie voor deze huizen: Quatt is financieel slimmer omdat verbouwing voor lage-temperatuur (radiatoren, vloer) niet nodig was. Vaillant pas zinvol bij geplande uitgebreide renovatie.
+
+## Veelgemaakte fouten in deze keuze
+
+1. **Quatt-abonnement onderschatten.** €25/maand = €300/jaar — over 15 jaar €4.500.
+2. **Vaillant zonder weersafhankelijke regeling.** COP zakt 15-20 procent.
+3. **Buffer-vat te klein bij Vaillant.** 60 liter is te weinig — 200 liter optimaal.
+4. **Vergeten radiatoren te checken.** Vaillant vereist lage-temperatuur radiatoren of vloerverwarming.
+5. **Quatt zonder gascontract houden.** Vastrecht gas blijft staan — €240/jaar.
+
+## Wanneer geen van beide past
+
+Bij oudere woning (label E of slechter) zonder isolatieplan. Investeer eerst €4.000-€8.000 in isolatie, dan komt elke warmtepomp pas tot zijn recht.
+
+## Extra FAQ
+
+**Wie heeft betere service?**
+Quatt: snelle ticket-respons (24u), vaste partner-installateurs. Vaillant: traditioneel kanaal, kwaliteit hangt af van lokaal bedrijf — vraag referenties.
+
+**Kan ik Quatt later upgraden naar vol-elektrisch?**
+Niet zonder hardware-vervanging. Quatt is hybride-only. Plan dit vooraf in.

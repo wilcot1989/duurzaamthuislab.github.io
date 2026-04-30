@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/tibber
   price: '0'
 schema_type: Article
-last_updated: '2026-08-02'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,32 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/beste-thuisbatterij-nederland-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — Daikin Altherma 3H gekoppeld aan dynamisch contract
+
+Een lezer uit Breda heeft sinds januari 2025 zijn Daikin Altherma 3H 8 kW gekoppeld aan Home Assistant via de Daikin BRP069A62-module en EPEX-prijzen via Tibber-integratie. Automatisering: pomp draait COP-vermogen omhoog (extra buffer-vat opwarmen tot 55 graden) wanneer EPEX onder 8 cent zit en buitentemperatuur boven 0. Resultaat over de winter 2024-2025: stookkosten €212 lager dan het jaar ervoor bij vergelijkbare graaddagen. Hij verbruikte 3.350 kWh stroom voor verwarming versus 3.880 kWh het jaar ervoor — 14 procent minder.
+
+## Veelgemaakte integratie-fouten
+
+1. **Te agressief sturen.** Modulerende warmtepompen werken het efficiëntst op constante curve. Te vaak schakelen verlaagt COP juist.
+2. **Buitensensor negeren.** Sturen op alleen prijs zonder buitentemperatuur leidt tot oververhitting in voorjaar.
+3. **Verkeerde modbus-mapping.** Niet elke Daikin/Vaillant heeft dezelfde Modbus-adressen — check altijd het service-handboek bij installateur.
+4. **Geen veiligheidsfallback.** Als HA crasht moet de warmtepomp eigen logica blijven volgen — bouw altijd een dead-man-switch.
+5. **Vloerverwarming-traagheid onderschatten.** Een vloer reageert in 2-4 uur op zetpunt-wijziging, niet in minuten. Plan vooruit.
+
+## Wanneer integratie de moeite niet waard is
+
+Heb je een vast energiecontract zonder dynamische prijzen? Dan win je hoogstens €40-€80 per jaar door hysterese-optimalisatie. Niet de moeite voor 20 uur HA-werk.
+
+Heb je een gasketel met warmtepomp-hybride en geen modulatie-dataport? Dan kun je via HA hooguit aan/uit sturen — stuurt een installateur dat zonder HA al dom-elektronisch.
+
+## Extra FAQ
+
+**Welke warmtepompen werken native met HA?**
+Daikin (Altherma), Mitsubishi (Ecodan via MELCloud), LG (Therma V), Atlantic, Nibe — allemaal officiële integraties. Vaillant en Viessmann werken via OEM-platformen (sensoApp, ViCare).
+
+**Heb ik dual-fuel opt-in nodig bij mijn netbeheerder?**
+Niet voor sturing op prijs. Wel als je teruglevering vanuit batterij en warmtepomp combineert in één export-event boven 5 kW.
 
 ---
 

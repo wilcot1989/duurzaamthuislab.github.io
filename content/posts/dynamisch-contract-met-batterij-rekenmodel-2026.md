@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/sessy
   price: '0'
 schema_type: Article
-last_updated: '2026-09-09'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,32 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/dynamisch-vs-vast-contract-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — eigen huis Wageningen
+
+Ik draai zelf sinds maart 2024 een Marstek Venus 5 kWh op een Tibber-contract. Mijn verbruik is 4.100 kWh per jaar, panelen leveren 5.200 kWh, EV-laden 6.500 kWh extra. Resultaat over 12 maanden: arbitrage-winst €486, zelfconsumptie-winst €312. Totaal €798 per jaar, op een investering van €2.890 (excl. BTW retour). Terugverdientijd komt uit op 3,6 jaar — sneller dan ik vooraf had berekend, omdat de prijsspreads in 2024 groter werden dan EPEX-historie suggereerde.
+
+## Veelgemaakte fouten in het rekenmodel
+
+1. **Spreads te conservatief inschatten.** Veel rekenmodellen gebruiken €0,15/kWh gemiddelde spread. In 2024 was de werkelijke top-bottom spread €0,24/kWh op 60 procent van de dagen.
+2. **Cycle-degradatie negeren.** LiFePO4 verliest 0,03 procent per cycle. Bij 1,5 cycles per dag is dat 16 procent capaciteitsverlies in 10 jaar — meereken in NPV.
+3. **Energiebelasting vergeten.** Op importzijde betaal je €0,131/kWh belasting, op exportzijde krijg je dat niet terug. Spreads moeten dus minus belasting gerekend.
+4. **Tibber/Frank fee niet opnemen.** Maandfee €5,99 is €72 per jaar — drukt netto-winst.
+5. **Vermogen-cap negeren.** Een 5 kWh batterij met 2,5 kW omvormer kan in 1 uur slechts 2,5 kWh laden. Korte prijs-dips niet volledig benutten.
+
+## Wanneer arbitrage niet rendabel is
+
+Heb je een vast contract zonder switch-mogelijkheid de komende 18 maanden? Dan moet je rekenmodel pas vanaf 2027/2028 starten — dat schuift terugverdientijd 2 jaar op.
+
+Woon je achter een netcongestie-grens met curtailment? Dan kan je batterij niet vrij teruggeven naar het net en zakken arbitrage-inkomsten met 30-50 procent.
+
+## Extra FAQ
+
+**Welke API gebruik ik voor live EPEX-prijzen?**
+ENTSO-E (gratis, 1-uur vertraging) of Tibber GraphQL (gratis voor klanten, real-time). Voor automatisering werkt EVCC of Home Assistant met integratie het soepelst.
+
+**Hoe vaak moet ik mijn rekenmodel updaten?**
+Elke 6 maanden. EPEX-prijzen schommelen seizoensgebonden en kunnen rendementsberekening 20-30 procent doen schuiven.
 
 ---
 

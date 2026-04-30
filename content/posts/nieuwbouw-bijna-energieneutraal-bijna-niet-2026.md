@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/sessy
   price: '0'
 schema_type: Article
-last_updated: '2026-09-19'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,32 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/sessy-review-thuisbatterij-nederland/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — nieuwbouw 2024 versus mijn eigen renovatie
+
+Een collega kocht in 2024 een nieuwbouw rijwoning in Almere, BENG-1 score 28 kWh/m². Op papier bijna-energieneutraal. Werkelijke energierekening over 12 maanden: €1.640 (3.200 kWh stroom + €420 vastrecht). Mijn eigen huis (1978, geïsoleerd in 2019, eigen panelen + warmtepomp): €890 over hetzelfde jaar.
+
+Hoe kan dat? Zijn nieuwbouw heeft kleinere panelen (10 stuks, 4,2 kWp) en standaard installatie zonder optimalisatie. Mijn renovatie heeft 16 panelen (6,8 kWp), thuisbatterij en dynamisch contract. BENG-norm meet alleen gebouw-gebonden energie — niet huishoudelijk verbruik (koken, wassen, drogen).
+
+## Veelgemaakte misverstanden bij nieuwbouwkopers
+
+1. **BENG = €0 energierekening.** BENG meet kWh per m² gebouw-gebonden. Een gemiddeld huishouden verbruikt 1.500-2.500 kWh aan apparaten — daar zegt BENG niets over.
+2. **Verplichte zonnepanelen = optimaal aantal.** Bouwers leggen het minimum dat de norm haalt, niet wat economisch optimaal is.
+3. **Lucht-water-warmtepomp = laag verbruik.** Slecht ingeregelde warmtepomp in nieuwbouw met te lage temperatuurzetting blaast COP terug naar 2,5-3,0 — net boven gas.
+4. **Geen ventilatie-optimalisatie.** Mechanische ventilatie met WTW kan slecht ingesteld zijn (bypass uit, filters dicht), gigantisch verlies.
+5. **Vergeten te monitoren.** Zonder slimme meter of P1-monitor zie je verspilling pas op de jaarafrekening.
+
+## Wanneer BENG-nieuwbouw wel klopt
+
+Bij gecertificeerde passiefhuis-bouwers (BBA, Stroomversnelling) klopt BENG meestal wel. Verschil zit in inregeling, kierdichting en monitoring tijdens oplevering. Vraag actief naar n50-luchtdichtheidstest en blower-door-resultaat.
+
+## Extra FAQ
+
+**Kan ik mijn nieuwbouw alsnog energieneutraal maken?**
+Ja, met 4-6 extra panelen (€2.000-€3.000), thuisbatterij (€3.500-€5.500) en herinregeling warmtepomp (€350-€600 installateur). Totaal €6.000-€9.000.
+
+**Wie is verantwoordelijk bij hoger verbruik dan beloofd?**
+Niemand juridisch. BENG is een rekenmethode, geen prestatiegarantie. Privaatrechtelijk kun je alleen klagen als de installatie aantoonbaar afwijkt van bestek.
 
 ---
 

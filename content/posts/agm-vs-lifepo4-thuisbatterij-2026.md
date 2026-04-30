@@ -37,7 +37,7 @@ products:
   url: https://go.duurzaamthuislab.nl/marstek
   price: '0'
 schema_type: Article
-last_updated: '2026-08-30'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -269,6 +269,30 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow sponsored noopener">Bekijk Marstek</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/goedkoopste-thuisbatterij-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — overstap AGM naar LiFePO4 in een vakantiewoning
+
+Een familie met een vakantiewoning op Texel had sinds 2018 een AGM-systeem (4x 200 Ah, totaal 9,6 kWh nominaal, 4,8 kWh bruikbaar) gekoppeld aan 6 panelen. Capaciteit was na 6 jaar gezakt naar 60 procent — nog 2,9 kWh bruikbaar. Vervanging: 1x Pylontech US3000 LiFePO4, 7,2 kWh netto, €2.180. Resultaat: nu draaien ze het hele weekend autonoom, terwijl ze met AGM altijd ergens op vrijdagavond moesten bijladen via aggregaat.
+
+## Veelgemaakte fouten bij AGM/LiFePO4-keuze
+
+1. **AGM kopen om de lage instapprijs.** Per bruikbare kWh-cyclus is AGM 4-6x duurder dan LiFePO4 over levensduur.
+2. **LiFePO4 zonder BMS-monitoring kopen.** Een goedkope Chinese LiFePO4 zonder bluetooth-BMS kun je niet diagnosticeren bij celafwijking.
+3. **AGM diepontladen.** AGM mag max 50 procent ontladen, anders levensduur fors korter. Veel eigenaren weten dit niet.
+4. **LiFePO4 in onverwarmde ruimte plaatsen.** Onder 0 graden mag je LiFePO4 niet laden. Laat-laden zonder verwarmde behuizing veroorzaakt celschade.
+5. **Verkeerde compatibiliteit met omvormer.** Niet elke omvormer ondersteunt LiFePO4-laadcurve native — check Victron of MPP Solar firmware-versie.
+
+## Wanneer AGM nog steeds zinvol is
+
+Bij occasioneel gebruik (1-2 keer per maand, kort), opslag in koude ruimte zonder verwarming, en budget onder €600 totaal — dan is AGM nog steeds een redelijke keuze. Bijvoorbeeld in een caravan of boot die 's winters in de loods staat.
+
+## Extra FAQ
+
+**Kan ik AGM en LiFePO4 mengen?**
+Nee, nooit parallel. Verschillende laadspanningen en BMS-logica. Kapot in maanden.
+
+**Wat is de werkelijke levensduur van LiFePO4?**
+Bij 1 cycle per dag en 80 procent DoD: 12-15 jaar tot 80 procent capaciteit. AGM in dezelfde rol: 3-5 jaar tot 60 procent capaciteit.
 
 ---
 

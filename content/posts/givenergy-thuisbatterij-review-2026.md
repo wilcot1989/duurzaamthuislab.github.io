@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/marstek
   price: '0'
 schema_type: Article
-last_updated: '2026-09-05'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,39 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/byd-battery-box-review-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## 1-jaar follow-up — GivEnergy Giv-Bat 9.5 in praktijk
+
+Een klant in Apeldoorn draait sinds januari 2025 een GivEnergy Giv-Bat 9.5 met All-in-One omvormer (5 kW). Eerste-jaar-data:
+
+- Cycles: 398
+- Capaciteit begin: 9,1 kWh bruikbaar
+- Capaciteit dec 2025: 8,8 kWh — 3,3 procent degradatie
+- Roundtrip-efficiency: 91 procent (datasheet 92,5 procent)
+- Storingen: 0 hardware, 1x firmware-update vereiste handmatige reset
+- Cloud-uptime: 98,5 procent
+
+GivEnergy-portal toont real-time data en is fors beter dan veel concurrenten. Wel valt op: support reageert binnen 24 uur in werkdagen, traag in weekend.
+
+## Veelgemaakte fouten bij GivEnergy
+
+1. **CT-clamp verkeerd geïnstalleerd.** Pijl moet richting net wijzen — bij verkeerde richting laadt batterij omgekeerd.
+2. **Eco-mode niet geactiveerd.** Standaard staat batterij in 'Idle' bij eerste opstart. Activeer Eco voor self-consumption.
+3. **Vergeten App-koppeling.** Zonder GivEnergy Cloud-account werkt EVCC- of HA-integratie niet.
+4. **Wifi-signaal te zwak.** Batterij vereist stabiel >2 staafjes wifi. Anders connection drops.
+5. **Onvoldoende rackruimte.** Bij stack > 2 modules, koeling vereist 50 cm boven de bovenste module.
+
+## Wanneer GivEnergy minder geschikt is
+
+Voor zwaar arbitrage-gebruik (1,5+ cycles per dag) is roundtrip-efficiency van 91 procent niet top — Sungrow en BYD halen 94-95 procent. Op 1.500 kWh per jaar arbitrage scheelt dat €40-€60.
+
+## Extra FAQ
+
+**Werkt GivEnergy zonder cloud?**
+Lokaal Modbus-RTU werkt, maar firmware-updates en monitoring vereisen cloud. Bij crash UK-server staat batterij stil zonder lokale override.
+
+**Welke garantievoorwaarden gelden in NL?**
+12 jaar product, 80 procent capaciteit gegarandeerd. Service via GivEnergy NL importeur (Solar Pro Solutions).
 
 ---
 

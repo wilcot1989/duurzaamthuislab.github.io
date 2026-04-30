@@ -37,7 +37,7 @@ products:
   url: https://go.duurzaamthuislab.nl/huawei-luna
   price: '0'
 schema_type: Article
-last_updated: '2026-08-18'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -269,6 +269,32 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/garantie-zonnepanelen-uitleg-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — F47-foutcode bij SMA Sunny Boy in Zeist
+
+Een lezer kreeg in maart 2025 herhaaldelijk F47 (Grid undervoltage) op zijn SMA Sunny Boy 4.0. Eerst dacht hij aan een defecte omvormer. Bij meting bleek netspanning structureel rond 252-254V — Liander piek-belasting in zijn straat. Oplossing: Liander gebeld, transformator aanpassing aangevraagd. Na 6 weken liet Liander tap-stand veranderen — netspanning zakte naar 235-238V. F47 verdween, opbrengst steeg met 4 procent omdat omvormer minder vaak afschakelde.
+
+Les: voor je een nieuwe omvormer koopt, controleer eerst je netspanning via slimme meter (P1-poort, sensor "voltage"). 80 procent van de omvormer-storingen in 2024-2025 was netgerelateerd, niet hardware.
+
+## Veelgemaakte fouten bij foutcodes-diagnose
+
+1. **Direct installateur bellen voor F-codes.** Bekijk eerst handleiding-bijlage — 60 procent zelf op te lossen.
+2. **Reset zonder reden.** Bij F35/F47 bestaat probleem nog steeds; reset maskeert het.
+3. **Geen logbestand bewaren.** Voor garantie-claim heb je vaak 30 dagen historie nodig.
+4. **Firmware niet checken.** Veel "storingen" zijn known-bugs in oudere firmware.
+5. **Verkeerde aarding bij metingen.** Spanningsmeting tussen L en N vereist correcte referentie — anders foutieve waardes.
+
+## Wanneer een omvormer écht vervangen?
+
+Bij isolatie-fouten (F23/F27/Riso) na 8+ jaar gebruik. Bij capacitor-bulging (zichtbaar opzwellen) — direct aanraadbaar voor brandveiligheid. Bij MPPT-tracker-defect waarbij één string niet meer werkt en reparatie >€600 kost terwijl tweedehands omvormer €450 doet.
+
+## Extra FAQ
+
+**Welke 3 foutcodes zien we het meest in NL?**
+F47 (Grid undervoltage), F35 (Permanent failure), F11 (DC overvoltage). Eerste twee zijn netgerelateerd, laatste vaak strings te lang.
+
+**Hoe maak ik een goed support-ticket?**
+Voeg toe: serienummer, firmware-versie, foutcode + tijdstip, foto datalogger-display, schermafdruk app, en netspanning op moment van fout. Spaart 3-5 dagen mailheen-en-weer.
 
 ---
 

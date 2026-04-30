@@ -330,3 +330,35 @@ Voor wie écht maximale efficiëntie wil: kies Daikin Altherma 3 H. Voor wie bet
 - [Warmtepomp vs cv-ketel](/posts/warmtepomp-vs-cv-ketel-2026/)
 - [Warmtepomp onderhoud kosten](/posts/warmtepomp-onderhoud-kosten-2026/)
 - [Warmtepomp geluid en buren](/posts/warmtepomp-geluid-buren-2026-norm/)
+
+## 1-jaar follow-up — Intergas Xtreme Hybride bij familie in Apeldoorn
+
+Een gezin in Apeldoorn liet maart 2025 een Intergas Xtreme Hybride installeren (€8.900 incl ISDE €2.900 = netto €6.000). 12 maanden data:
+
+- Stookkosten 2025: €1.180 (was €2.460 met oude HR-ketel)
+- Besparing: €1.280 per jaar
+- COP gemeten gemiddeld: 3,6 (zomer 4,1; winter 2,9)
+- Storingen: 0
+- Servicebeurt: €235 (jaarlijks)
+
+Terugverdientijd op netto-investering: 4,7 jaar. Beter dan plan (verwachting was 5,5 jaar). Reden: hogere gasprijs in 2025 dan vooraf gerekend.
+
+## Veelgemaakte fouten bij Intergas-installatie
+
+1. **Niet-erkende installateur kiezen.** Intergas heeft eigen plaatsingnetwerk — buiten dat netwerk geen volledige garantie.
+2. **Bestaande HR-ketel houden naast Xtreme.** Werkt theoretisch maar regeling wordt complex en COP zakt.
+3. **Buffer-vat oversize.** Voor hybride is 40-60 liter buffer optimaal — installateurs leggen vaak 100+ liter.
+4. **Geluidsisolatie binnen vergeten.** Buitendeel maakt 38-42 dB op 1 meter — bij slaapkamer aan straatzijde extra dempen.
+5. **Filter binnenunit niet vervangen.** Jaarlijks vereist; bij oversla daling COP 8-12 procent.
+
+## Wanneer Intergas niet de juiste keuze is
+
+Bij eindgebruik volledig elektrisch (geen gas-aansluiting wenselijk) is Intergas Xtreme niet geschikt — die is hybride-only. Kies dan voor Vaillant aroTHERM, Daikin Altherma 3 of Mitsubishi Ecodan.
+
+## Extra FAQ
+
+**Werkt de Intergas-app stabiel?**
+Comfort Cloud is redelijk maar minder polished dan Daikin Onecta. Schedule-instellingen werken, geo-fencing niet stabiel.
+
+**Hoe vergelijkt Intergas met Quatt qua TCO?**
+Intergas Xtreme: €6.000 netto + €235/jaar service = €9.525 over 15 jaar. Quatt Hybrid: €7.500 + €300/jaar abonnement = €12.000 over 15 jaar. Intergas €2.475 voordeliger TCO bij gelijke besparing.

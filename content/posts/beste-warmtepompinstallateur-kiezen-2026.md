@@ -375,3 +375,32 @@ Mijn 5 hoofdpunten: warmteverlies-berekening eisen, drie offertes vergelijken, s
 - [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/)
 - [Daikin Altherma 3 review](/posts/daikin-altherma-3-review-2026/)
 - [Vloerverwarming aanleggen kosten](/posts/vloerverwarming-aanleggen-kosten-2026/)
+
+## Mini case-study — slechte versus goede installateur in dezelfde wijk
+
+Twee buren in een rijtje in Zwolle hebben in 2024 dezelfde warmtepomp laten installeren (Vaillant aroTHERM plus 5 kW). Buurman A liet ISDE-erkend installateur komen (€11.800 inclusief), buurman B koos goedkoopste online aanbieder (€9.300 inclusief). Resultaat na een winter:
+
+- Buurman A: COP gemeten 4,1, jaarverbruik 2.840 kWh
+- Buurman B: COP gemeten 3,2, jaarverbruik 3.650 kWh
+
+Verschil 810 kWh per jaar = €255 per jaar bij €0,31/kWh. Over 15 jaar levensduur: €3.825 verschil. De goedkope installatie kost over 15 jaar dus €1.325 méér. Oorzaak: te kleine buffer, te hoge stooktemperatuur, geen weersafhankelijke regeling.
+
+## Veelgemaakte fouten bij installateur-keuze
+
+1. **Alleen op prijs vergelijken.** Goedkoopste offerte heeft vaak geen geluidsmeting, geen warmtebehoeftberekening, geen weersafhankelijke curve.
+2. **Geen ISDE-registratie checken.** ISDE-subsidie vereist erkende installateur. Achteraf nooit terug te vragen.
+3. **Niet vragen naar warmtebehoeftberekening.** Een goede installateur maakt EN12831-berekening. Slecht installateur kijkt naar gasverbruik en gokt.
+4. **Geen referenties opvragen.** Vraag 3 adressen van klanten van afgelopen 12 maanden — bel ze.
+5. **Onderhoudscontract niet afspreken vooraf.** Zonder jaarlijks onderhoud (€175-€275) gaat fabrieksgarantie verloren.
+
+## Wanneer een installateur niet zinvol is
+
+Plan je verhuizing binnen 5 jaar? Een warmtepomp verdien je niet terug en de woningwaardestijging dekt zelden de installatiekosten in een rijwoning onder energielabel C.
+
+## Extra FAQ
+
+**Welke certificering is doorslaggevend?**
+ISDE-erkenning + lid van NVI (Nederlandse Vereniging Installateurs) of Techniek Nederland. F-gassen-certificaat verplicht voor installateurs van split-units.
+
+**Hoe lang duurt een goede installatie?**
+Hybride: 1 dag. Vol-elektrisch met radiatorvervanging: 3-5 dagen. Vraag bij minder dan 1 dag voor vol-elektrisch een second opinion.

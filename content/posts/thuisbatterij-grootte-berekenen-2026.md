@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/marstek
   price: '0'
 schema_type: Article
-last_updated: '2026-08-28'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,37 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/goedkoopste-thuisbatterij-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — gezin van vier in Zoetermeer
+
+Familie met dynamisch contract, 14 panelen (5,9 kWp), gemiddeld verbruik 3.800 kWh per jaar, EV (Volkswagen ID.4, laadt thuis 7.000 kWh). Ze twijfelden tussen 5 kWh en 10 kWh batterij. Ik heb hun smart-meter data van 2024 doorgerekend.
+
+Bij 5 kWh batterij: zelfconsumptie steeg van 32 procent naar 56 procent. Besparing: €620 per jaar. Terugverdientijd 8,5 jaar.
+Bij 10 kWh batterij: zelfconsumptie steeg naar 71 procent. Besparing: €840 per jaar. Terugverdientijd 9,8 jaar.
+
+Verschil: voor €220 extra per jaar moeten ze €4.000 extra investeren. Conclusie: 5 kWh was voor hen optimaal, want EV-laden gebeurt 's nachts op goedkope dynamische uren — daar helpt de batterij niet bij. Veel eigenaren overdimensioneren omdat ze alle pieken willen opvangen.
+
+## Veelgemaakte rekenfouten
+
+1. **Vergeten dat batterij niet 100 procent laad-/ontlaadbaar is.** LiFePO4 levert 90-95 procent bruikbare capaciteit, lood-zuur slechts 50 procent.
+2. **Pieken meenemen die zelden voorkomen.** Een wasdroger die 1x per week 3 kWh trekt rechtvaardigt geen 3 kWh extra batterij.
+3. **EV-verbruik in zelfconsumptie meerekenen.** Een EV laadt te snel en te veel om door een kleine batterij gedekt te worden.
+4. **Geen rekening houden met efficiencyverlies in de winter.** Bij 5 graden zakt LiFePO4-capaciteit met 8-12 procent.
+5. **Op nameplate-vermogen rekenen in plaats van op AC-output.** 5 kWh DC = ongeveer 4,5 kWh AC bruikbaar.
+
+## Wanneer een batterij overbodig is
+
+Heb je verbruik onder 2.000 kWh per jaar en geen EV? Dan haalt een batterij zelden de terugverdientijd onder de levensduur (15 jaar). Dynamisch contract en slim verbruiken levert dan meer op dan opslag.
+
+Werk je doordeweeks van huis? Dan verbruik je overdag direct uit panelen — zelfconsumptie zit dan al rond 60 procent zonder batterij. Een batterij voegt nog 10-15 procent toe, te weinig voor terugverdienen.
+
+## Extra FAQ
+
+**Kan ik later uitbreiden?**
+Bij modulair systeem (Marstek, Anker Solix, Sungrow) wel — bij Tesla Powerwall en LG niet zonder extra omvormer.
+
+**Wat als mijn verbruik de komende 5 jaar verandert?**
+Een EV koop je gemiddeld na 4-6 jaar bij batterij-aanschaf. Reken dan met +5.000 kWh per jaar en 1-2 kWh extra capaciteit voor laadpieken.
 
 ---
 

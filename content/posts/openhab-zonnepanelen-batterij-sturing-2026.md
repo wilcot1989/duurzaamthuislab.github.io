@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/marstek
   price: '0'
 schema_type: Article
-last_updated: '2026-08-04'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,32 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/beste-thuisbatterij-nederland-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — openHAB-installatie met SMA en BYD
+
+Een lezer in Hengelo draait sinds 2023 openHAB 4.1 op een Synology NAS met SMA Sunny Boy 5.0, BYD Battery-Box HVS 7.7 en EV (Hyundai Kona). Hij koppelt EPEX via Tibber-binding en stuurt zowel batterij-laden als EV-laden via slimme regels. Resultaat: zelfconsumptie van 84 procent, jaarlijkse besparing €920 vs vast contract.
+
+Belangrijke setup-keuze: hij draait openHAB i.p.v. Home Assistant omdat hij al 5 jaar Smart Home Bus had en de migratie te complex vond. Voor industrieel-gestuurde Modbus is openHAB stabieler dan HA in zijn ervaring.
+
+## Veelgemaakte fouten in openHAB-energiestack
+
+1. **Modbus-binding te oud.** v3.0 was buggy met BYD; minimaal v4.1 vereist.
+2. **Persistence niet ingesteld.** Zonder InfluxDB+Grafana mis je grafieken — tekst-only logs zijn ondoorzoekbaar.
+3. **Rules in JavaScript zonder typecheck.** Run-time errors die op middernacht stuk gaan.
+4. **EPEX-prijs niet gecached.** Bij rate-limit Tibber-API blokkeer je je hele sturing.
+5. **Geen failsafe voor batterij-soc.** Bij rule-bug kan batterij naar 0 procent zakken — bouw min-SOC=20 procent altijd in.
+
+## Wanneer openHAB minder geschikt is
+
+Beginners zonder Java/Linux-kennis komen vaker in problemen dan met Home Assistant. Voor pure energie-sturing zonder bredere domotica is EVCC eenvoudiger en doelgerichter.
+
+## Extra FAQ
+
+**Kan ik openHAB en HA naast elkaar?**
+Via MQTT-bridge ja, maar dubbel onderhoud. Ik raad aan: kies één.
+
+**Welke hardware draait openHAB stabiel 24/7?**
+Synology DS220+ of nieuwer, of een NUC met Linux. Pi 4 met SSD werkt voor kleine setups (10-20 things).
 
 ---
 

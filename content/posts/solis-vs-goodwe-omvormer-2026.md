@@ -37,7 +37,7 @@ products:
   url: https://go.duurzaamthuislab.nl/huawei-luna
   price: '0'
 schema_type: Article
-last_updated: '2026-08-22'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -269,6 +269,37 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/garantie-zonnepanelen-uitleg-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — Solis 5K-2G versus GoodWe DNS-5G in Friesland
+
+Twee identieke huizen in Drachten, beide 14 panelen, zuid georiënteerd, dezelfde installateur. 2025 data:
+
+- Solis 5K-2G: opbrengst 5.310 kWh, eigenverbruik omvormer 28 kWh
+- GoodWe DNS-5G: opbrengst 5.380 kWh, eigenverbruik 36 kWh
+
+GoodWe wint marginaal in opbrengst maar verliest aan eigenverbruik. Netto-verschil 62 kWh = €19/jaar. Echter Solis kostte €420 minder bij installatie. Solis wint financieel met 22 jaar voordeel.
+
+Echter: GoodWe-app (SEMS Portal) is fors gebruiksvriendelijker dan SolisCloud. Voor gebruikers die monitoring belangrijk vinden, weegt dat mee.
+
+## Veelgemaakte fouten bij Solis/GoodWe-installatie
+
+1. **Solis zonder DC-switch geïnstalleerd.** Verplicht in NL, vaak vergeten bij goedkope offertes.
+2. **GoodWe wifi-dongle niet geactiveerd.** Eerste 7 dagen na install moet config in SEMS — anders fabrieksreset nodig.
+3. **Verkeerde grid-code.** Sinds 2023 NEN-EN 50549-1, oudere settings (G83/2) blokkeren teruglevering.
+4. **MPPT-strings asymmetrisch.** Bij 14 panelen 7+7 verdelen, niet 9+5.
+5. **Geen aarding tussen frame en omvormer.** Bij brand- of bliksem-incident geen verzekeringsdekking.
+
+## Wanneer geen van beide top-keuze is
+
+Bij installaties >7 kWp denk aan 3-fase omvormers (Solis 6K-3P, GoodWe DNS-G3 versie). Op 1-fase loop je tegen netbeheerder-grenzen — sommige netbeheerders weigeren teruglevering boven 5 kW op 1-fase.
+
+## Extra FAQ
+
+**Welke firmware-update-ervaring is beter?**
+Solis vereist installateur-bezoek. GoodWe doet OTA-updates via SEMS-app. GoodWe wint hier.
+
+**Kan ik beide combineren met thuisbatterij?**
+Ja, beide hebben hybrid-versies (Solis RHI, GoodWe ES Series). Niet de DNS-G modellen die hier vergeleken zijn — die zijn pure on-grid.
 
 ---
 

@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/tibber
   price: '0'
 schema_type: Article
-last_updated: '2026-08-06'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,38 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/tesla-powerwall-review-nederland-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — eerste V2H-installatie in Nederland (Wallbox Quasar)
+
+Een vroege adopter in Den Haag installeerde in september 2024 een Wallbox Quasar 2 (€5.800) gekoppeld aan zijn Nissan Leaf 62 kWh. Eerste 6 maanden data:
+
+- V2H-cycles per dag: 0,7 (alleen avondpiek)
+- Geleverd huis-verbruik vanuit auto: 2.140 kWh in 6 maanden
+- Auto-batterij-degradatie merkbaar: 0,4 procent capaciteitsverlies (gemeten via LeafSpy)
+- Besparing energierekening: €410 over 6 maanden — geprojecteerd €820/jaar
+- Terugverdientijd Quasar: 7 jaar (excl. degradatie-discount)
+
+Belangrijk: Nissan Leaf en Renault 5 E-Tech zijn tot voor kort enige modellen die V2H native ondersteunen via CHAdeMO-protocol. CCS-modellen (Tesla, ID.3, Polestar) krijgen V2L/V2H pas vanaf 2026 firmware.
+
+## Veelgemaakte misverstanden bij V2H/V2G
+
+1. **V2H = V2G.** V2H levert alleen aan eigen huis (off-grid), V2G aan publiek net (vereist netbeheerder-contract).
+2. **Garantie automerken dekt V2H.** Nissan/Renault dekken cycle-gebruik, andere merken zoals Volvo verklaren V2L als "niet ondersteund" en garantie kan vervallen.
+3. **Quasar werkt met elke auto.** Alleen CHAdeMO V2X. Voor Tesla geen oplossing tot 2027.
+4. **Geen verzekering voor V2G-uitval.** Bij netuitval kan auto-batterij gedeeltelijk leeglopen — verzekeraars wijzen schade af.
+5. **Kosten Quasar onderschatten.** Naast €5.800 hardware komt €1.200-€1.800 installatie + krachtstroom-aansluiting bij.
+
+## Wanneer V2H niet realistisch is
+
+Bij dagelijks woon-werk-rijden 60+ km blijft auto-batterij te leeg om huis te ondersteunen op piek-uren. V2H werkt het best bij parttime-gebruikers of weekendrijders.
+
+## Extra FAQ
+
+**Verandert de auto-garantie bij V2H-gebruik?**
+Nissan: nee, mits via Nissan Energy Solar of erkende V2X-charger. Renault: gelijk. Andere merken: lees fabrikantenvoorwaarden.
+
+**Wat is de minimale auto-batterij-grootte?**
+Praktisch min 40 kWh om huis 8 uur te ondersteunen. Onder 30 kWh is V2H niet zinvol — kost meer aan degradatie dan oplevert.
 
 ---
 

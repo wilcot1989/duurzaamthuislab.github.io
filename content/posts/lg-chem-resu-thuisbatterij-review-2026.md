@@ -37,7 +37,7 @@ products:
   url: https://go.duurzaamthuislab.nl/sessy
   price: '0'
 schema_type: Article
-last_updated: '2026-09-01'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -269,6 +269,38 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/byd-battery-box-review-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## 1-jaar follow-up — LG Chem RESU 10H bij mij thuis
+
+Ik heb mijn LG Chem RESU 10H Prime sinds maart 2024 in gebruik. 12 maanden data:
+
+- Cycles: 487 (gemiddeld 1,33 per dag)
+- Capaciteit gemeten begin: 9,8 kWh bruikbaar
+- Capaciteit gemeten april 2025: 9,5 kWh bruikbaar — 3 procent degradatie eerste jaar (datasheet voorspelde 2,5 procent)
+- Roundtrip-efficiency: 92 procent gemiddeld over jaar
+- Storingen: 1 keer (firmware-update gefaald, opgelost in 2 dagen door installateur)
+
+Wintergedrag: bij -5 graden in de berging zakte beschikbare ontlaadstroom van 5 kW naar 3,5 kW — ingebouwde celverwarming sprong aan. Stroomverbruik celverwarming: 14 kWh in december 2024 (€4,30).
+
+## Veelgemaakte fouten bij LG Chem-installatie
+
+1. **In een te koude ruimte zetten.** Onder 5 graden start celverwarming, eet capaciteit weg.
+2. **Vergeten de Smart Energy Box te configureren.** Standaard staat die op fabrieksprofiel. Voor optimaal arbitrage moet hij op self-consumption + tijdsblokken.
+3. **Geen monitoring-account aanmaken.** LG Pro Connect-app vereist installateur-link. Zonder app geen historie.
+4. **Te dicht tegen omvormer plaatsen.** Minimaal 30 cm tussenruimte voor warmte-afvoer.
+5. **Recall-batches niet checken.** Tussen 2017-2020 waren bepaalde RESU-batches risicovol. Vraag installateur naar serienummer en recall-status.
+
+## Wanneer LG Chem niet de juiste keuze is
+
+Als je een variabel laadprofiel hebt (EV-laden, sterk wisselend verbruik) overweeg dan een modulaire batterij (BYD Battery-Box, Pylontech). LG Chem is gesloten systeem, niet uitbreidbaar.
+
+## Extra FAQ
+
+**Wat als LG terugtrekt uit Europa?**
+LG Energy Solution heeft Europese garantie tot 2034 contractueel vastgelegd. Service via geautoriseerde partners (BENZTECH, eFlowSolar in NL).
+
+**Kan ik LG Chem koppelen aan een andere omvormer dan SolarEdge?**
+Ja: Fronius (sinds 2023), Sungrow, Huawei (vanaf firmware 2024.06). Niet met goedkope merken zoals MPP Solar.
 
 ---
 

@@ -37,7 +37,7 @@ products:
   url: https://go.duurzaamthuislab.nl/zonneplan
   price: '0'
 schema_type: Article
-last_updated: '2026-08-24'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -269,6 +269,34 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Bekijk Zonneplan</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/goedkoopste-zonnepanelen-pakket-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## 15. Mini case-study — familie uit Apeldoorn (12 panelen Trina)
+
+Een lezer uit Apeldoorn liet ik begin 2025 helpen met een keuze. Pannendak op zuidwest, 12 panelen pasten erop, budget €5.500 inclusief installatie. Hij twijfelde tussen JinkoSolar Tiger Neo 440Wp en Trina Vertex S+ 440Wp. Prijsverschil: €280 voor het hele systeem (Trina goedkoper).
+
+Resultaat na een jaar (2025): Trina-installatie draaide 4.840 kWh, JinkoSolar-buur in dezelfde straat met identieke ligging draaide 4.910 kWh. Verschil van 70 kWh op jaarbasis is bij 22 cent terugleververgoeding zo'n 15 euro per jaar — over de €280 prijsverschil verdiend in 18 jaar. Voor hem was Trina dus de juiste keuze, voor mij persoonlijk zou ik bij gelijke prijs JinkoSolar pakken vanwege de 5 jaar extra productgarantie.
+
+## 16. Veelgemaakte fouten bij merk-keuze
+
+1. **Alleen op vermogen letten.** Een 450Wp paneel van merk X is niet automatisch beter dan 430Wp van merk Y. Kijk naar Wp per vierkante meter en temperatuurcoefficient.
+2. **Garantie negeren.** Productgarantie en vermogensgarantie zijn twee verschillende dingen. Veel installateurs noemen alleen het hoogste getal.
+3. **Tier-2 panelen kopen voor €50 korting.** Bij faillissement van de fabrikant is je garantie waardeloos. Bij JinkoSolar en Trina is dat risico klein, bij obscure merken niet.
+4. **Vergeten naar de omvormer-match te kijken.** Sommige hybride omvormers ondersteunen niet alle MPPT-spanningen van bepaalde panelen optimaal.
+5. **Esthetiek onderschatten.** Full-black panelen kosten €15-€25 per stuk extra maar verhogen de woningwaarde meetbaar bij verkoop.
+
+## 17. Wanneer geen van beide de juiste keuze is
+
+Heb je een dak kleiner dan 15 vierkante meter? Dan is een high-efficiency paneel zoals SunPower Maxeon 6 (440Wp op 1,8 m²) waarschijnlijk slimmer ondanks de prijspremie van €120-€180 per paneel. Je perst er meer Wp uit per vierkante meter.
+
+Woon je in een monumentaal pand of dorpsgezicht? Dan zijn JinkoSolar en Trina beide te zichtbaar. Kijk dan naar geïntegreerde panelen (Solarwatt, Triple Solar) die in het dakvlak verzonken liggen.
+
+## 18. Extra FAQ
+
+**Wat doet de temperatuurcoefficient in de praktijk?**
+Bij 60 graden paneeltemperatuur (zomerse middag) verlies je bij JinkoSolar -0,29 procent/Kelvin x 35 graden = ongeveer 10 procent vermogen. Bij Trina (-0,30) zit je op 10,5 procent. Verwaarloosbaar in de praktijk.
+
+**Kan ik JinkoSolar en Trina mengen op één string?**
+Technisch kan het als de spanning- en stroom-specificaties matchen. Praktisch raad ik het af: één zwakker paneel trekt de hele string omlaag. Houd merk en model gelijk per MPPT-ingang.
 
 ---
 

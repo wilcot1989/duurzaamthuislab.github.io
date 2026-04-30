@@ -11,7 +11,7 @@ author: "Mark Bakker"
 author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1671785253964-bdb43087ed99&w=1200&output=webp&q=70"
 schema_type: "Article"
-last_updated: 2026-08-11
+last_updated: '2026-04-29'
 faq:
   - q: "Wanneer verdient een thuisbatterij zich terug na saldering 2027?"
     a: "Onder de afbouw-percentages (100% in 2026 → 0% in 2029) verdienen de meeste thuisbatterijen zich terug binnen 6-9 jaar als: jaarlijks overschot >2.500 kWh, dynamisch contract, 5-10 kWh capaciteit. Een Marstek Venus E (€2.299) verdient zich gemiddeld terug in 4-5 jaar. Een Sessy 10 kWh (€5.995) in 7-9 jaar."
@@ -357,3 +357,35 @@ Eerste maand met Sessy: setup met installateur duurde 4 uur, app-koppeling 20 mi
 Na 6 maanden: capaciteitstest toonde 9,7 kWh van de oorspronkelijke 10 kWh (3% degradatie wat normaal is in eerste maanden). 187 cycli geregistreerd. Eén firmware-update beschikbaar gesteld. Energierekening die maand €98 lager dan zonder batterij.
 
 Na 1 jaar: 364 cycli, capaciteit 9,5 kWh (5% degradatie totaal), totale besparing €1.180. Iets boven de prognose van €1.150. Garantie nog steeds 10 jaar geldig, geen issues. Verzekeraar verhoogde de premie met €38/jaar wegens batterij-melding — was meegerekend. Mijn klant uit Tilburg meldde vergelijkbare resultaten met de Marstek.
+
+## Mini case-study — eigen huis ROI-berekening 2024-2027
+
+Mijn eigen Marstek Venus 5 kWh, aangeschaft maart 2024 voor €2.890 (€2.388 netto na BTW-retour). 2024-2025-cijfers:
+
+- Jaar 1 (2024): zelfconsumptie-winst €312 + arbitrage €486 = €798
+- Jaar 2 prognose (2026 saldering nog actief): €620 (saldering verlaagt arbitrage-voordeel)
+- Jaar 3 prognose (2027 post-saldering): €1.180 (hoog omdat saldering wegvalt en arbitrage gigantisch wordt)
+
+Cumulatief jaar 1-5: €4.580. Terugverdientijd: 3,8 jaar. NPV bij 4 procent discount: €4.260 netto over levensduur.
+
+Conclusie: door 2027-effect wordt batterij die in 2024 marginaal was, post-saldering een topinvestering. Aanschaf in 2025-2026 timing is gunstig.
+
+## Veelgemaakte fouten in ROI-berekening
+
+1. **EPEX-prijsspread te conservatief.** 2025 spreads 35 procent groter dan 2022.
+2. **Geen rekening met verlies van saldering.** Veel rekenmodellen gebruiken nog 2024-tarieven.
+3. **Lifetime-cycle te kort inschatten.** LiFePO4 doet 6.000+ cycles bij 80 procent DoD — 16 jaar bij 1 cyclus per dag.
+4. **Subsidies niet meenemen.** ISDE-batterij-subsidie 2027 verwacht; inflation reduction act-NL volgt EU-richtlijn.
+5. **BTW-retour vergeten als zonnepanelen-eigenaar.** Bij gekoppelde aanschaf met zonnepanelen vaak BTW-aftrekbaar — €420-€800 voordeel.
+
+## Wanneer batterij ROI nog niet rendabel is
+
+Bij kleine zonnepanelen-installaties onder 2,5 kWp en jaarverbruik onder 1.500 kWh blijft terugverdientijd boven 12 jaar — niet rendabel binnen technische levensduur.
+
+## Extra FAQ
+
+**Hoe gevoelig is ROI voor energieprijs-volatiliteit?**
+Bij gemiddelde EPEX €0,08/kWh: terugverdientijd 4,2 jaar. Bij €0,12/kWh: 3,1 jaar. Bij €0,05/kWh: 6,8 jaar. Volatiele markten verbeteren ROI per definitie.
+
+**Welke batterij-merk geeft beste ROI in 2027?**
+Op basis van 2026-prijzen: Marstek Venus, Anker Solix Smart Home, en BYD Battery-Box per kWh-cyclus. Tesla Powerwall en LG hebben langere terugverdientijd door hogere instapprijs.

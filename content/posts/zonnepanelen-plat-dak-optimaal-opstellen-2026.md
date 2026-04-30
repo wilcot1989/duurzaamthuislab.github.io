@@ -371,3 +371,33 @@ Mijn advies: rekenen voor jouw eigen situatie, niet de installateur z'n standaar
 - [Zonneplan thuisbatterij review](/posts/zonneplan-thuisbatterij-review-2026/)
 - [Zonneboiler vs warmtepompboiler](/posts/zonneboiler-vs-warmtepompboiler-2026/)
 - [Saldering stopt 2027 volledige gids](/posts/saldering-stopt-2027-volledige-gids/)
+
+## Mini case-study — Oost-West vs Zuid op plat dak in Almere
+
+Een bedrijfspand in Almere wilde 24 panelen op plat dak (90 m² beschikbaar). Optie A: 12 panelen Zuid 30 graden. Optie B: 24 panelen Oost-West 12 graden. Optie A wint per paneel maar Optie B wint totaal door dubbele panelen op zelfde oppervlakte.
+
+Werkelijke 12-maands data 2025:
+- Optie A (gerealiseerd op buurpand): 4.620 kWh per kWp, totaal 5.060 kWh op 11 kWp
+- Optie B (eigen pand): 4.040 kWh per kWp, totaal 9.300 kWh op 23 kWp
+
+Optie B levert 4.240 kWh meer op zelfde oppervlakte — €890 per jaar meer (bij terugleververgoeding van 11 cent gemiddeld). Investering Optie B was wel €4.800 hoger. Terugverdientijd op meer-investering: 5,4 jaar.
+
+## Veelgemaakte fouten bij plat-dak-installaties
+
+1. **Te grote helling kiezen.** 30 graden op plat dak vereist groot ballast en grote rij-afstand. Daarmee passen veel minder panelen.
+2. **Ballast onderschatten.** 30-50 kg per paneel-positie nodig — controleer eerst dakconstructie-belasting.
+3. **Geen onderhoudspad.** Panelen tot tegen rand leggen blokkeert toegang voor schoonmaak en reparatie.
+4. **Daklast-berekening overslaan.** EPDM-dakbedekking heeft beperkte puntbelasting — schade aan dakbedekking is duur.
+5. **Bliksem-afleiding vergeten.** Bij plat dak moet aarding via dakbeugels worden gewaarborgd.
+
+## Wanneer plat dak niet geschikt is
+
+Bij dakbedekking ouder dan 15 jaar, of bij vermoeden van vocht in isolatie. Eerst dak-inspectie met thermische camera. Renovatie van dakbedekking moet vooraf gebeuren — anders moet alles eraf na 5-7 jaar.
+
+## Extra FAQ
+
+**Welk merk montagesysteem voor NL?**
+Schletter (Duits, hoogste belasting), Esdec FlatFix (Nederlands, lichtere optie), Van der Valk (Nederlands, all-round). Esdec is meest gekozen door installateurs voor woonhuis-platte-daken.
+
+**Hoeveel rij-afstand bij Oost-West?**
+Standaard 60-80 cm tussen rijen om schaduw 's middags te minimaliseren. Bij 12 graden helling kan 50 cm — minder dan dat, wel rendementsverlies door schaduw.

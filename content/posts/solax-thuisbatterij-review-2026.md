@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/marstek
   price: '0'
 schema_type: Article
-last_updated: '2026-09-03'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,38 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/byd-battery-box-review-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## 1-jaar follow-up — Solax Triple Power 5.8 in Veenendaal
+
+Een klant uit Veenendaal draait sinds januari 2025 een Solax Triple Power 5.8 kWh aan een Solax X1 Hybrid 5.0 omvormer. Cijfers na 12 maanden:
+
+- Cycles: 412
+- Capaciteit gemeten begin: 5,5 kWh bruikbaar
+- Capaciteit gemeten dec 2025: 5,3 kWh bruikbaar — 3,6 procent degradatie
+- Roundtrip-efficiency: 88 procent (lager dan beloofde 92 procent)
+- Storingen: 2 keer (BMS-disconnect bij -3 graden in carport)
+
+Conclusie: Solax doet wat hij belooft maar plaatsing in onverwarmde ruimte was suboptimaal. Voor 2026 verhuist hij de batterij naar de garage met basisverwarming.
+
+## Veelgemaakte fouten bij Solax-installatie
+
+1. **Verkeerde firmware-versie van omvormer.** Vóór firmware 1.34 communiceerde Triple Power slecht met X1-Hybrid. Update is verplicht.
+2. **Te lage CAN-bus terminator.** Solax vereist 120 ohm-eind, vaak vergeten.
+3. **Geen aarde tussen batterijmodules.** Bij stacking moet PE-rail correct doorlopend zijn — vaak fout.
+4. **Solax Cloud zonder local fallback.** Bij internet-uitval verliest systeem rekenfunctie. Inschakelen "local mode" via installateur.
+5. **Verkeerd dimensioneren omvormer.** X1 Hybrid 3.0 kan slechts 3 kW ontladen — bij grote pieken te beperkt.
+
+## Wanneer Solax niet de juiste keuze is
+
+Als je een EV laadt aan dezelfde fase, dan kan Solax X1 Hybrid 3.0 / 5.0 in piek-uren overbelast raken. Kies dan Solax X3-Hybrid (3-fase) of een ander merk met meer reserve.
+
+## Extra FAQ
+
+**Kan ik later modules toevoegen?**
+Tot 11,6 kWh totaal (2 modules van 5,8 kWh). Boven die grens nieuw rack nodig.
+
+**Wat doet Solax Pocket Wifi/4G dongle?**
+Geeft monitoring via Solax Cloud-app. Werkt redelijk maar logging is beperkt tot 30 dagen — voor jaaranalyse exporteer maandelijks naar CSV.
 
 ---
 

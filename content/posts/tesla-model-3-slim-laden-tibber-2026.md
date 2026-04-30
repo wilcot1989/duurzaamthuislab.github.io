@@ -40,7 +40,7 @@ products:
   url: https://go.duurzaamthuislab.nl/tesla-powerwall
   price: '0'
 schema_type: Article
-last_updated: '2026-08-08'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -272,6 +272,38 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/tesla-powerwall-review-nederland-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — eigen Tesla Model 3 op Tibber Pulse (2024-2025)
+
+Ik heb mijn eigen Tesla Model 3 sinds maart 2024 op Tibber via Tessie-integratie. 12 maanden data:
+
+- Totaal geladen: 6.420 kWh thuis
+- Gemiddelde tarief: 11,3 cent per kWh (incl. belasting)
+- Vergelijkbare laadkosten op vast contract (€0,31): €1.990
+- Werkelijke kosten: €726
+- Besparing: €1.264 per jaar
+
+Top-tip uit de praktijk: laat Tibber niet alleen op prijs sturen. Combineer met SOC-target via Tessie: minimaal 60 procent om 7:00 ongeacht prijs. Anders sta je een ochtend met 22 procent als de prijs te lang hoog blijft.
+
+## Veelgemaakte fouten bij slim laden
+
+1. **Tibber alleen op prijs configureren.** Bij meerdaagse hoge prijzen kun je leeglopen.
+2. **Geen kortste laad-window opgeven.** Tibber kiest dan in dipjes van 30 min — minder efficiënt voor de batterij.
+3. **Tesla Mobile Connector op stopcontact.** 1,8 kW laden duurt te lang om profielen te benutten — installeer een wallbox van min 7,4 kW.
+4. **Tessie-fee onderschatten.** €54 per jaar — kleine kosten maar reken het mee.
+5. **Tibber Charge zonder Pulse-meter.** Dan mist Tibber je live verbruik en laadt niet optimaal samen met andere belasting.
+
+## Wanneer slim laden niet de moeite is
+
+Laad je minder dan 200 kWh per maand thuis (kortere ritten of veel publiek laden)? Dan is besparing €100-€150 per jaar — niet de moeite voor opzet en onderhoud.
+
+## Extra FAQ
+
+**Werkt het ook met Tesla Powerwall?**
+Ja, en dan kan Tibber gecombineerd auto + huis-batterij optimaliseren. Daadwerkelijke besparing stijgt 25-40 procent.
+
+**Hoe gaat het bij stroomuitval?**
+Tibber Pulse logt offline 12 uur. Tesla laadt door op laatste setting tot connectie hersteld is.
 
 ---
 

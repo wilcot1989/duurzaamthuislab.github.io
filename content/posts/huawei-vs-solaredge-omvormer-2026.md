@@ -37,7 +37,7 @@ products:
   url: https://go.duurzaamthuislab.nl/huawei-luna
   price: '0'
 schema_type: Article
-last_updated: '2026-08-26'
+last_updated: '2026-04-29'
 ---
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
@@ -269,6 +269,38 @@ Volgorde die ik aanhoud:
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/garantie-zonnepanelen-uitleg-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
+
+## Mini case-study — twee daken, twee omvormers in dezelfde straat
+
+Twee installaties in Goes, identiek 12 panelen Trina 440Wp, ZW-georiënteerd, geen schaduw. Verschil: huis A heeft Huawei SUN2000-5KTL-M1, huis B heeft SolarEdge SE5000H met optimizers.
+
+12-maandsdata 2025:
+- Huawei: 4.760 kWh opbrengst, omvormerverbruik 32 kWh/jaar
+- SolarEdge: 4.840 kWh opbrengst, omvormerverbruik 48 kWh/jaar
+
+Verschil 80 kWh/jaar voordeel SolarEdge — bij volledige levensduur 20 jaar = 1.600 kWh = €350. Maar Huawei was €620 goedkoper. Conclusie voor deze installatie: Huawei wint financieel.
+
+Bij gedeeltelijke schaduw (huis B heeft ochtendschaduw van schoorsteen) zou SolarEdge fors meer opleveren — daar maakt module-level MPPT verschil. Optimizer-voordeel was hier afwezig dus zonde van het geld.
+
+## Veelgemaakte fouten bij omvormer-keuze
+
+1. **SolarEdge kopen zonder schaduw-issue.** €600-€900 extra zonder rendementswinst.
+2. **Huawei zonder Smart Dongle.** Monitoring werkt niet zonder FusionSolar-app.
+3. **Verkeerde MPPT-aantal.** Twee dakvlakken op één MPPT verlaagt opbrengst 6-9 procent.
+4. **Generiek 5 kW nemen op 6,8 kWp installatie.** Oversizing tot 30 procent is normaal — geen probleem.
+5. **Garantie verwarren.** Huawei 10 jaar standaard verlengbaar tot 20 jaar (€180). SolarEdge 12 jaar standaard.
+
+## Wanneer geen van beide passend is
+
+Bij een installatie kleiner dan 2,5 kWp is een micro-inverter setup (Enphase IQ8) flexibeler en betrouwbaarder, ondanks 15-25 procent hogere prijs.
+
+## Extra FAQ
+
+**Welke heeft betere Modbus-integratie?**
+Huawei Modbus-RTU is open en gedocumenteerd. SolarEdge Modbus-TCP vereist soms extra licenties bij commerciële installaties.
+
+**Hoe gaat het bij defect na 8 jaar?**
+Huawei: vervanging via lokaal kanaal binnen 4-6 weken. SolarEdge: vaak ruil-omvormer binnen 2 weken via dealernet — beter service-track-record op dit moment.
 
 ---
 

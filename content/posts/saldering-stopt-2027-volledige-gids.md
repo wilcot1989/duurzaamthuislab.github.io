@@ -329,3 +329,34 @@ Voor de meeste huishoudens is **dynamisch contract + gedragsverandering** de sli
 - [Thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)
 - [Beste energiemonitor met P1-meter](/posts/beste-energiemonitor-p1-meter-2026/)
 - [Smart home energiebeheer](/posts/smart-home-energiebeheer-2026/)
+
+## Mini case-study — gezin Roosendaal anticipeert op 2027
+
+Familie van 4, 14 panelen, 5.600 kWh opwek, 3.900 kWh verbruik, EV (Hyundai Kona). In 2026 nog volledige saldering — energierekening €620 per jaar. Hun 2027-prognose zonder maatregelen: €2.180 per jaar (saldering valt weg, leveranciers geven 4-8 cent terug).
+
+Maatregelen die ze in 2026 al treffen:
+- Marstek Venus 5 kWh batterij: €2.890 (BTW-retour €502, netto €2.388)
+- Switch naar Tibber dynamisch: €0
+- Slim laden EV via Tibber: €0
+
+Geprojecteerde 2027-rekening met deze maatregelen: €1.040. Besparing €1.140/jaar. Terugverdientijd batterij: 2,1 jaar. Aanvankelijk twijfelden ze — nu spijt dat ze niet in 2024 al begonnen.
+
+## Veelgemaakte fouten in 2027-voorbereiding
+
+1. **Wachten tot januari 2027.** Levertijden batterijen lopen op tot 8-12 weken. Boekt installateurs vol vanaf zomer 2026.
+2. **Geen contract switchen.** Een vast contract tot 2028 met saldering klinkt veilig maar kost geld na januari 2027.
+3. **Te veel panelen bijbestellen.** Vanaf 2027 is grote opwek juist nadeel zonder batterij — kleinere installatie + batterij beter.
+4. **Niet kijken naar staffel-leveranciers.** Eneco, Vandebron en Greenchoice bieden teruglever-staffels die gunstig zijn voor middelgrote opwek.
+5. **EV-laden niet flexibel maken.** Slim laden levert 2027 €400-€800/jaar op — gratis te realiseren met Tibber Pulse.
+
+## Wanneer 2027-voorbereiding minder dringend is
+
+Bij kleine installatie (< 2,5 kWp) en jaarverbruik > 5.000 kWh: 95 procent van opwek wordt direct gebruikt, je profiteert nauwelijks van saldering. Wegval saldering raakt jou minder.
+
+## Extra FAQ
+
+**Wat als ik geen ruimte heb voor batterij?**
+Buitenopstelling Marstek Venus IP65 mogelijk (overdekt). Anders: alleen dynamisch contract + slim verbruiken levert €300-€600/jaar op.
+
+**Wordt saldering nog uitgesteld?**
+In april 2026 stemde de Eerste Kamer voor afschaffing per 1 januari 2027. Uitstel door demissionair kabinet onwaarschijnlijk maar niet uitgesloten.
