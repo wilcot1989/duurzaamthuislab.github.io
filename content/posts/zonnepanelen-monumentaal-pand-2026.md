@@ -381,3 +381,21 @@ Niet elke opstalverzekering dekt geïntegreerde systemen automatisch. Centraal B
 ## Extra praktijkpunt: bouwfysische risico's bij monumenten
 
 Een aspect dat veel installateurs onderschatten is de bouwfysica van oude daken. Een rietendak ademt anders dan moderne dakplaten; een leiendak met bitumineus onderdak houdt vocht vast bij verkeerde plaatsing. Ik heb een geval gezien in Maastricht waar 6 panelen op een 19e-eeuws pand binnen 3 jaar tot houtrot in het tengelwerk leidden, omdat de luchtcirculatie onder de panelen niet was gegarandeerd. Reparatiekosten: €8.500. Les: vraag altijd om dampopen montagesysteem en minimaal 8 cm vrije ruimte tussen paneel en dakhuid.
+
+## Total cost of ownership monumentaal vs standaard
+
+Monumentaal pand: 8 SunStyle dakleien-tegels op een Maastrichts woonhuis, 1.260 Wp totaal. Investering 18.400 euro inclusief monument-verklaring. Productie 1.020 kWh per jaar. Standaardpanelen op een vergelijkbare niet-monumentale woning: 12 panelen, 5.400 Wp, 6.800 euro investering, productie 4.620 kWh per jaar. Per geïnvesteerde euro produceert het monumentale dak 70 procent minder rendement. Toch verdient het zich terug in 28-32 jaar bij huidige stroomprijzen, omdat de panelen 30+ jaar mee gaan en de subsidiebodem (gemeentelijke + provinciale + Rijksdienst) tot 35 procent kan oplopen op het meerprijs-deel. Voor pand-eigenaren is dit primair een esthetische plus duurzaamheidskeuze, niet een rendementsoverweging.
+
+## Mini case 2: hoeve in Limburg met rietgedekt deel
+
+Klant met L-vormige hoeve in Mheer, een deel rietgedekt (oudste vleugel, 18e eeuw) en een deel pantegels. Plan: 14 panelen op pantegel-vleugel, niets op rietdak. Toch geclassificeerd als rijksmonument met "totaalbescherming". Welstand keurde panelen alleen goed mits niet zichtbaar vanaf openbare weg en mits matzwart frame. Kost 2.400 euro extra t.o.v. standaard zilver-frame. Subsidie van Rijksdienst Cultureel Erfgoed compenseerde 1.800 euro daarvan. Klant bovenop 12 procent provinciale subsidie. Netto meerprijs 600 euro. Productie wel iets lager (matzwart absorbeert 1-2 procent meer warmte = 1 procent rendementsverlies).
+
+## Wanneer panelen NIET op een monument plaatsen
+
+Vier situaties waarin ik klanten adviseer alternatief te kiezen. Een: rietgedekte daken — brandrisico door verminderde luchtcirculatie en thermische opbouw. Twee: monumenten met smeedijzeren tengelwerk dat niet meer beschikbaar is — bevestiging beschadigt onomkeerbaar. Drie: panden met dakhellingen onder 25 graden waar panelen vanaf elke straat zichtbaar zijn — krijg je niet door welstand. Vier: panden waar de kap binnen 10 jaar gerenoveerd moet worden — eerst kap, dan panelen, anders dubbel werk.
+
+**Krijg ik gemeentelijke subsidie bovenop Rijksdienst?**
+Bij monumenten in Amsterdam, Utrecht, Den Haag en Maastricht: ja, stapelbaar tot circa 50-55 procent totaal subsidie op meerprijs. Andere gemeenten variabel — vraag eerst aan voor je opdracht geeft, sommige subsidies zijn op-volgorde-binnenkomst.
+
+**Mag ik geintegreerde dakpan-panelen zelf plaatsen als ervaren doe-het-zelver?**
+Bij monumenten: nee, vrijwel nooit. Vergunning eist gecertificeerd installateur met monument-ervaring. Eigen werk leidt tot afwijzing en bestuursdwang.

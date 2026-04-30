@@ -1,7 +1,7 @@
 ---
 title: 'Vergunning zonnepanelen 2026: monument, beschermd dorpsgezicht, VVE'
 date: '2026-09-15 08:00:00+02:00'
-lastmod: '2026-09-15 08:00:00+02:00'
+lastmod: 2026-04-29 08:00:00+02:00
 draft: false
 description: Wanneer heb je vergunning nodig voor zonnepanelen? Monumenten, beschermd dorpsgezicht, VvE en plat dak met dakopbouw — per situatie uitgewerkt.
 categories:
@@ -267,6 +267,26 @@ Volgorde die ik aanhoud:
 6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
 
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
+
+## Total cost of ownership monumentaal vs VVE
+
+Twee verschillende contexten met dezelfde rode draad: de "papieren werkelijkheid" kost geld. Bij monumentaal pand reken op 8-15 procent meerprijs voor monumentvriendelijke panelen plus 1.200-2.800 euro vergunningskosten over 25 jaar. Bij VVE komt daar de besluitvormingstijd bovenop — gemiddelde doorlooptijd 7-9 maanden, in 18 procent van de gevallen meer dan 14 maanden. Tijdens die wachttijd produceer je geen kWh, wat in directe besparing 800-1.400 euro misgelopen is. Dat is real cost. Reken het mee in je investeringsplaatje.
+
+## Mini case: VVE Utrecht-Noord 1932-bouw
+
+VVE met 14 appartementen, gemeenschappelijk dak. Bewoner trok plan 11 maanden door bestuur en welstand, kosten 4.200 euro extern advies plus 1.840 euro architectplanning. Uiteindelijk goedgekeurd voor 36 panelen verdeeld over collectieve installatie. Investering 28.500 euro. Subsidies (gemeentelijk 6.000 + provinciaal 2.400 + collectief energiebespaarlening) brachten netto-investering naar 14.800 euro. Productie 14.200 kWh per jaar, opbrengst per appartement gemiddeld 92 euro per jaar besparing op stroomrekening + 18 euro per jaar VVE-bijdrage-verlaging. Terugverdientijd individueel 8,4 jaar.
+
+## Veelgemaakte fouten
+
+Drie hardnekkige fouten. Een: aannemen dat "vergunningvrij" hetzelfde betekent als "geen welstandstoetsing" — bij monumenten en beschermd stadsgezicht klopt dat niet. Twee: VVE-besluit nemen via WhatsApp-poll zonder formele vergaderprocedure — besluit niet rechtsgeldig. Drie: subsidieaanvraag indienen voor de offerte-ondertekening — bij sommige regelingen ongeldig. Lees voorwaarden eerst.
+
+**Hoe lang duurt traject van idee tot operationele panelen?**
+Rijksmonument: 8-14 maanden. Beschermd stadsgezicht: 6-9 maanden. VVE zonder monument: 5-8 maanden. Goed planning werkt: dien aanvraag in najaar, dan installatie volgend voorjaar.
+
+**Mag ik bij weigering naar de rechter?**
+Ja, bestuursrechtelijk via bezwaar (6 weken termijn) en daarna beroep bij rechtbank (6 weken). Doorlooptijd totaal 9-15 maanden. Slagingskans bij goede voorbereiding 30-45 procent.
+
+
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Bekijk Zonneplan</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/energiekosten-besparen-100-tips-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Energietransitie 2030: wat verandert er voor jouw huis?'
 date: '2026-09-13 08:00:00+02:00'
-lastmod: '2026-09-13 08:00:00+02:00'
+lastmod: 2026-04-29 08:00:00+02:00
 draft: false
 description: Saldering stopt 2027, gasaansluitplicht weg, label C verplicht voor verhuur. Tijdlijn 2026-2030 met wat dit voor eigenaar-bewoners betekent.
 categories:
@@ -270,6 +270,34 @@ Volgorde die ik aanhoud:
 6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
 
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
+
+## Tijdlijn 2026-2030 — wat moet wanneer
+
+| Jaar | Wettelijke eis | Praktische impact |
+|------|----------------|-------------------|
+| 2026 | EPBD label-eis huur kantoor | Verhuurder moet C of beter bij nieuwe huur |
+| 2027 | Salderingsregeling stopt | Terugleververgoeding daalt naar 0,06-0,12 €/kWh |
+| 2028 | Verbod cv-ketel-only renovatie | Bij ketel-vervanging hybride/volledig verplicht |
+| 2029 | Wijkaanpak aardgasvrij gemeenten 50% | Helft NL gemeenten met concreet wijkplan |
+| 2030 | Zero-emissie nieuwbouw 100% | Geen aardgasaansluiting nieuwbouw |
+
+Voor particuliere eigenaren betekent dit: handel voor 2027-2028 om de gunstigste subsidies te pakken. Wachten kost geld via duurder energie en weg-vallende subsidies.
+
+## Mini case: gezin Amersfoort transitieplan 2026-2029
+
+Klant vroeg me een 4-jaarsplan op te stellen. Stappen: 2026 isolatie + zonnepanelen (12.000 euro netto), 2027 hybride warmtepomp (5.500 euro netto), 2028 thuisbatterij 10 kWh (5.200 euro netto), 2029 EV met laadpaal (35.000 incl. subsidie). Totaal investering over 4 jaar 57.700 euro. Verwachte energiekosten: van 4.200 euro/jaar in 2025 naar 850 euro/jaar in 2029. Cumulatieve besparing 2026-2030: 12.400 euro. Volledige TCO over 15 jaar: positief vanaf jaar 9.
+
+## Wanneer transitie NIET volledig zinvol
+
+Drie situaties. Een: ouderen 75+ in eigen woning waar verhuizing waarschijnlijk over 5-8 jaar — alleen quick wins zoals zonnepanelen interessant. Twee: huurders zonder corporatie-akkoord — invloed beperkt. Drie: monumenten waar volledige all-electric onmogelijk is — focus op gas-besparing via isolatie en hybride.
+
+**Wat als ik niets doe?**
+Energiekosten stijgen vermoedelijk 35-55 procent tussen 2025 en 2030 door CO2-toeslag, leveringsschaarste gas, salderingsverlies. Een gemiddeld huishouden gaat van 2.800 euro naar 3.800-4.300 euro per jaar. Verduurzamen is dus geen "nice-to-have" meer, maar financieel rationeel.
+
+**Krijgt mijn woning waardevermeerdering?**
+Onderzoek Brainbay 2025: woningen van label A vergeleken met label E haalden gemiddeld 8,4 procent hogere verkoopprijs. Op 400.000 euro woning is dat 33.600 euro waardevermeerdering — vaak de complete verduurzaming-investering terug bij verkoop.
+
+
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/energiekosten-besparen-100-tips-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
 

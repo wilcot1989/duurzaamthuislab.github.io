@@ -469,3 +469,14 @@ EMS-systeem prioriteert: eerst eigen verbruik, dan laadpalen, dan terugleveren. 
 
 **Welke verzekering voor commerciële batterij?**
 Bedrijfspolis bij Centraal Beheer, Klaverblad of NN dekt batterijen vrijwel altijd, mits NEN 1010 + IEC 62619 conform. Brandrisico-clausules: vraag specifiek voor LiFePO4 i.p.v. NMC, want LiFePO4 is door verzekeraars beter ingeschat.
+
+## Mini case 2: bakkerij Maastricht 24 uur productie
+
+Klant runt warme bakkerij met ovens vanaf 02:00, koffiebar vanaf 06:30. Pieken: 35 kW tussen 02:00-04:00 (bakcyclus), 18 kW tussen 06:30-08:30 (toestellen aan), 8-12 kW de rest van de dag. Met dynamisch contract betaalde hij in 2024 nog 18.400 euro per jaar aan stroom. In maart 2025 30 kWh BYD HVS-batterij geinstalleerd plus 24 panelen op pannendak (10,8 kWp). EMS van Solis stuurt vraagsturing — laden op nacht-laagtarief, ontladen tijdens bakcyclus. Werkelijk verbruik vanuit grid 2026 (eerste 6 maanden): 4.840 kWh op piek-tarief, rest op kale dagtarief. Jaarprognose stroomkosten: 9.200 euro. Besparing 9.200 euro per jaar bij investering 38.000 euro = terugverdientijd 4,1 jaar.
+
+## Wanneer commerciele batterij NIET de moeite waard
+
+Drie scenario's. Een: bedrijf met regelmatig vast verbruik (kantoor 9-17 zonder grote pieken) — geen arbitragevoordeel mogelijk. Twee: huurpand zonder lange-termijn-zekerheid — afschrijving niet mogelijk binnen huurperiode. Drie: bedrijven onder 30 MWh jaarverbruik — KIA/EIA-voordeel beperkt, schaalvoordeel onder break-even.
+
+**Hoe beïnvloedt netcongestie mijn batterij-keuze?**
+In 2026 hebben grote delen van Brabant, Noord-Holland en Limburg netcongestie — netbeheerder geeft GEEN nieuwe grote teruglever-aansluitingen meer. Een batterij is dan niet alleen besparingsinstrument maar voorwaarde om panelen überhaupt aangesloten te krijgen. Vraag bij netbeheerder of jouw locatie congestiegebied is.

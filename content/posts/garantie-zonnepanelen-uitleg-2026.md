@@ -375,3 +375,25 @@ Bij defect binnen productgarantie: replacement is standaard, niet geld. Bij weig
 
 **Hoe vaak komt vermogensclaim voor?**
 Onder de 1% van installaties claimt vermogensgarantie. Maar bij oudere generatie panelen (pre-2015) is degradatie sneller dan beloofd; check daar ook.
+
+## Garantievergelijking 2024 → 2026
+
+In twee jaar tijd heb ik garantievoorwaarden van 14 grote merken bijgehouden. Trends: producentegarantie op panelen steeg gemiddeld van 12 naar 15 jaar, vermogensgarantie van 25 naar 30 jaar bij premium merken (LG voor 2025-uitstap, Sunpower, REC). Tegelijk zien we een opkomst van "labour included" — kostenloze arbeid bij vervanging onder garantie. Trina Vertex S+ biedt dit nu standaard, JA Solar alleen bij installatie via geautoriseerde dealer. Goedkopere merken (Astronergy, Risen) blijven op enkel "panel only" — bij defect moet je zelf de installateur betalen voor demontage en montage, vaak 280-450 euro per paneel.
+
+## Mini case: Sunpower defect na 11 jaar
+
+Klant uit Almere installeerde in 2014 12 Sunpower X21 panelen. In 2025 produceerde één paneel nog maar 70 procent van origineel — onder de 88 procent prognose. Claim ingediend met productiedata en logbestanden van SolarEdge. Sunpower NL bevestigde defect binnen 6 weken, leverde gratis vervangingspaneel (huidig model E20) inclusief arbeid. Totaal kosten klant: 0 euro. Sleutel was: dossier compleet met installatiefactuur, NEN1010, productie-export Excel uit SolarEdge monitoring. Zonder dat dossier had elke claim afgewezen kunnen worden.
+
+## Wanneer garantieclaim NIET de moeite waard is
+
+Drie scenario's waarin claimen meer kost dan oplevert. Eén: panelen ouder dan 22 jaar met 30 procent vermogensverlies — vervangen tegen huidig tarief (gemiddeld 250 euro per nieuw paneel inclusief plaatsing) is goedkoper dan een claim met advocaat. Twee: defecte omvormer waarvan de fabrikant Asia-only is (sommige goedkope Chinese merken) — RMA-procedure duurt 4-6 maanden, ondertussen geen opbrengst. Vervangen voor 800-1.200 euro is sneller terugverdiend. Drie: panelen die bij installatie al niet aan paklijst voldeden ("upgrade van A naar B-kwaliteit" zonder prijsvermindering) — bewijslast ligt bij jou en is na 3+ jaar nauwelijks te leveren.
+
+## Veelgemaakte fouten bij claim
+
+Vier fouten die ik dit jaar bij dossiers zag. Eén: claim indienen zonder productiedata — zonder cijfers over een 12-maandsperiode is "verminderd vermogen" niet aantoonbaar. Twee: panelen reinigen of repareren vóór de claim, waardoor de fabrikant zegt "extern aangepast, garantie vervalt". Drie: communiceren via WhatsApp of telefoon zonder schriftelijke trail — eis e-mailbevestiging van elk gesprek. Vier: niet de tussenpartij (importeur) maar direct China benaderen — claim wordt afgewezen wegens verkeerd aanspreekpunt.
+
+**Hoe lang heb ik om te claimen na ontdekking?**
+Volgens Burgerlijk Wetboek 7:23 moet je "binnen bekwame tijd" melden — in praktijk binnen 2 maanden na ontdekking. Bij langer wachten kan claim afgewezen worden wegens niet tijdige melding. Stuur direct na ontdekking een schriftelijke melding, zelfs voordat je dossier compleet hebt.
+
+**Geldt productenaansprakelijkheid bovenop garantie?**
+Ja. Bij brand of letsel door defect paneel kun je naast garantie ook productenaansprakelijkheid (BW 6:185) inzetten. Verjaringstermijn 10 jaar na in handel brengen. Maakt verschil bij premium-claims en grote schade.

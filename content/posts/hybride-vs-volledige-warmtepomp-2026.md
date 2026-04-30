@@ -364,3 +364,23 @@ Vrijwel altijd niet zonder uitbreiding. Lage-temperatuur warmtepomp wil 35-45 °
 
 **Hoe luid is een warmtepomp 's nachts in stadse omgeving?**
 Moderne units 35-42 dB op 1 m. Op perceelgrens 30-37 dB. Praktisch onhoorbaar in slaapkamer als unit op normale afstand. Lees [warmtepomp geluid buren norm](/posts/warmtepomp-geluid-buren-2026-norm/).
+
+## Vervolg-tabel: total cost of ownership 15 jaar
+
+Voor wie nog twijfelt op de cijfers, hier een TCO-vergelijking over 15 jaar bij dezelfde rijtjeswoning (label C, 1.500 m3 gas pre-warmtepomp, 8 panelen):
+
+| Component | Hybride | Volledig elektrisch |
+|-----------|---------|---------------------|
+| Aanschaf + plaatsing | 5.800 | 13.200 |
+| ISDE 2026 | -2.000 | -3.500 |
+| Gemiddeld jaarverbruik | 850 m3 gas + 1.400 kWh | 4.200 kWh |
+| Energiekosten 15 jr (incl. inflatie 2,5%) | 23.400 | 25.800 |
+| Onderhoud 15 jr | 1.500 | 2.250 |
+| Eindwaarde jaar 15 | 800 | 1.600 |
+| **Netto TCO 15 jaar** | **28.900** | **34.150** |
+
+Hybride wint op TCO, maar bij volledig elektrisch ben je in jaar 16-25 spekkoper omdat aardgas tegen die tijd vermoedelijk 2,80-3,40 euro per m3 kost (CO2-toeslag + leveringsschaarste). Bij die prijzen draait hybride binnen 5 jaar minder gunstig. Wie 20+ jaar in zijn huis verwacht te blijven, verdient volledig elektrisch terug rond jaar 18-19.
+
+## Niche-use-case: hybride met houtkachel als piekvoorziening
+
+Een onderzochte combinatie die ik in 2026 vaker zie bij klanten in Drenthe en Friesland: hybride warmtepomp plus efficiente houtkachel (8 kW Rocket-mass-stove of pelletkachel) als piekvoorziening op vorstdagen onder -8 graden. Dat haalt 5-8 procent gasverbruik weg t.o.v. zuiver hybride, omdat de cv-ketel niet bijspringt op de koudste dagen. Bewustzijn vereist: pelletkachel kost 4.500-7.000 euro plus 6 m3 opslag, alleen interessant als je toch al hout-affiniteit hebt. Voor stedelijke gevallen blijft dit uitgesloten wegens fijnstof-regelgeving.

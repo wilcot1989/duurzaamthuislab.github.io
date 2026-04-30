@@ -1,7 +1,7 @@
 ---
 title: 'ISDE-subsidie aanvragen 2026: complete stappen + screenshots'
 date: '2026-08-12 08:00:00+02:00'
-lastmod: '2026-08-12 08:00:00+02:00'
+lastmod: 2026-04-29 08:00:00+02:00
 draft: false
 description: ISDE-subsidie voor warmtepomp of zonneboiler aanvragen via RVO. Volledig stappenplan met screenshots, benodigde documenten en doorlooptijd uit eigen ervaring.
 categories:
@@ -270,6 +270,26 @@ Volgorde die ik aanhoud:
 6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
 
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
+
+## ISDE 2026 versus 2025 — verschillen
+
+Belangrijke wijzigingen die je moet kennen voor je aanvraag indient. Subsidiebedragen warmtepomp: ongewijzigd, 30 procent (max 5.000 euro). Subsidie isolatieglas: gestegen van 60 naar 65 euro per m2 voor triple, ongewijzigd 45 euro voor HR++. Nieuwe categorie 2026: vloerisolatie kruipruimte EPS-pa rels (4 euro per m2 extra). Verdwenen: subsidie pelletkachel (uitgefaseerd door fijnstof-zorgen). Aanvragingstermijn nu 12 maanden na uitvoering (was 6) — meer flexibiliteit. Maximaal beschikbaar 2026-budget: 525 miljoen euro, naar verwachting uitgeput rond december.
+
+## Mini case: gezin Eindhoven — ISDE-traject volledig doorlopen
+
+Klant deed isolatie + hybride warmtepomp tegelijk. Opdracht 8 maart 2026, uitvoering klaar 12 mei. ISDE-aanvraag ingediend 14 mei (eis: maximaal 12 maanden na laatste uitvoering). Documenten: factuur isolatie 4.200 euro, factuur warmtepomp 9.500 euro, woninginspectierapport. Beschikking ontvangen 2 juli — 7 weken na aanvraag. Bedrag: 4.200 euro (isolatie 1.260 + warmtepomp 2.940). Banktransfer 9 juli. Tip uit deze case: voeg foto's bij van apparatuur op locatie — versnelt beoordeling.
+
+## Veelgemaakte fouten 2026
+
+Vier nieuwe valkuilen. Een: aannemen dat ISDE 2025-tarieven nog gelden — sommige tarieven gewijzigd. Check actuele bedragen op rvo.nl. Twee: factuur op partner-naam terwijl jij eigenaar bent — uitbetaling alleen aan factuur-naam = vraag aanpassing van factuur. Drie: aanvraag indienen voor maatregel klaar is — automatisch afwijzing. Vier: vergeten woningchecker-rapport te bewaren — moet bij aanvraag bijgeleverd. Geen rapport = geen subsidie.
+
+**Mag ik ISDE stapelen met gemeentelijke subsidie?**
+Ja, ISDE is rijkssubsidie en stapelbaar met gemeentelijke en provinciale regelingen. Wel let op: gemeentelijk maximaal 35 procent van investering, ISDE 30 procent — zorg dat totaal niet boven 65 procent komt anders verlagen sommige gemeenten hun bijdrage.
+
+**Wat als mijn aanvraag afgewezen wordt?**
+Bezwaartermijn 6 weken vanaf beschikking. Vraag eerst gemotiveerde afwijzing op. Vaak ligt het aan ontbrekende documenten of niet-gecertificeerde installateur. In veel gevallen kun je dat herstellen en opnieuw indienen.
+
+
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/warmtepomp-installatie-kosten-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
 

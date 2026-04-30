@@ -485,3 +485,33 @@ Bij collectief project: VVE als geheel (kan via reservefonds of opslag op laadta
 
 **Hoeveel kost een VVE-laadpaal-traject totaal?**
 Klein traject (1-2 palen): €1.800-€3.500. Middel (4-8 palen): €12.000-€25.000. Groot (16-30 palen + capaciteitsmgmt): €45.000-€120.000.
+
+## TCO 10 jaar voor VVE met 12 laadpalen
+
+Een MT-buurtgaragecomplex met 30 plekken plant 12 laadpalen. Drie scenario's:
+
+| Scenario | Investering | Onderhoud 10 jr | Totaal 10 jr |
+|----------|-------------|-----------------|--------------|
+| Individuele aansluitingen 12x 3,7 kW | 38.400 | 7.200 | 45.600 |
+| Gedeelde infra 22 kW backbone + 12 sub-palen | 58.000 | 8.800 | 66.800 |
+| Smart laadpaal-systeem met load balancing | 49.000 | 6.600 | 55.600 |
+
+Smart load-balancing wint over de looptijd, vooral omdat geen netverzwaring nodig is. Individuele aansluitingen zijn aanvankelijk goedkoper maar leiden vaak in jaar 4-7 tot capaciteitsproblemen en gedwongen verzwaring (15.000-30.000 euro extra).
+
+## Mini case 2: Amsterdam VVE 16 appartementen
+
+Klant betrokken bij VVE in Amsterdam-Oost, 16 appartementen met gemeenschappelijke parkeergarage onder. Aanvraag liep van januari tot juni 2026 (5 maanden). Investering 24.500 euro voor 8 laadpalen (sommige bewoners zonder auto). VVE-bijdrage 1.530 euro per appartement, terug te betalen via servicekosten over 8 jaar à 19 euro per maand. Bewoners zonder auto kregen vrijstelling van bijdrage maar betaalden mee aan elektrische infrastructuur (470 euro). Subsidie gemeente Amsterdam dekte 6.000 euro. Eerste meetcijfers na 4 maanden: gemiddeld gebruik 14 kWh per laadbeurt, totaal 11 EV's actief.
+
+## Wanneer NIET gezamenlijk via VVE
+
+Drie scenario's. Een: complex onder 8 appartementen — proces te zwaar voor klein aantal stakeholders, individuele oplossing efficienter. Twee: parkeerplekken niet in VVE-eigendom maar individueel apparte registratie — coordinatie wordt fiscaal-juridisch te complex. Drie: VVE's met chronische besluiteloosheid waar al jaren conflicten lopen — laadpaal-discussie maakt het erger. In zulke gevallen: individuele paal op eigen parkeerplek met eigen meter via netbeheerder (kost 850-1.400 euro extra netaansluiting).
+
+## Veelgemaakte fouten
+
+Vier blunders bij VVE-laadpaaltrajecten. Een: niet vooraf netcapaciteit laten meten — achteraf blijkt dat je netverzwaring nodig hebt voor 18.000 euro. Twee: kiezen voor goedkoopste merk zonder OCPP-protocol — over 4 jaar kun je niet meer schakelen tussen aanbieders. Drie: geen gebruiksregels in akte vastleggen — leidt tot ruzie over wie welke paal mag gebruiken. Vier: vergeten BTW-route uit te zoeken — bij grote VVE's is BTW-aftrek over commerciele tarieven mogelijk.
+
+**Wat als één bewoner weigert mee te betalen?**
+Bij voldoende VVE-meerderheid (minimaal 50 procent + 1) is besluit bindend. Weigeraar moet meebetalen. Bij blokkering kan kwesties via Huurcommissie of kantonrechter, gemiddelde doorlooptijd 4-6 maanden.
+
+**Mag ik mijn laadpaal verhuren aan derden?**
+Bij gedeelde VVE-infrastructuur: alleen met VVE-akkoord. Inkomsten moeten dan in VVE-kas, niet privé. Bij eigen aansluiting wel privé verhuurbaar via apps zoals Plugsurfing of Shell Recharge — opbrengst gemiddeld 0,12-0,18 euro per kWh netto.

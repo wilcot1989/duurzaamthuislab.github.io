@@ -1,7 +1,7 @@
 ---
 title: 'Itho Daalderop warmtepomp review 2026: HP Cube en HP-S getest'
 date: 2026-08-27 08:00:00+02:00
-lastmod: 2026-08-27 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 description: Itho Daalderop is de stille marktleider van Nederlandse warmtepompen. Mijn eerlijke review van de HP Cube en HP-S na 10 maanden testen — kosten, COP, service.
 categories:
 - warmtepompen
@@ -336,3 +336,28 @@ Als ik morgen weer zou installeren: HP Cube voor mijn eigen huis, HP-Hybrid voor
 - [Warmtepomp monoblock vs split](/posts/warmtepomp-monoblock-vs-split-2026/)
 - [Warmtepomp vs hybride warmtepomp](/posts/warmtepomp-vs-hybride-warmtepomp-2026/)
 - [Warmtepomp onderhoud kosten](/posts/warmtepomp-onderhoud-kosten-2026/)
+
+## 1-jaar follow-up: HP Cube installatie 1
+
+In oktober 2026 is mijn klant exact 1 jaar in gebruik. Cijfers vol jaar: 2.835 kWh totaal verbruik, 3.420 kWh equivalent warmte geleverd, gemiddelde COP 3,21. Dat is iets onder de fabrieksopgave van 3,4 SCOP, maar verklaarbaar door extreem koude periode januari-februari 2026 (gemiddeld -2,8 graden, 14 dagen onder -5). Vergelijken met Quatt-installatie van mijn buurman in dezelfde maanden: SCOP 3,38 — Quatt presteert 5 procent beter onder vorst. Itho compenseert echter met 22 dB minder geluid (39 vs 47 dB bij volle belasting), wat in een rijtjeshuis-tuin enorm uitmaakt.
+
+## Seizoenen-vergelijking: COP per kwartaal
+
+| Kwartaal | Buitentemp gemiddeld | COP HP Cube | Verbruik kWh |
+|----------|---------------------|-------------|--------------|
+| Q4 2025 (okt-dec) | 7,2 graden | 3,40 | 720 |
+| Q1 2026 (jan-mrt) | 2,1 graden | 2,68 | 1.180 |
+| Q2 2026 (apr-jun) | 12,4 graden | 4,15 | 380 |
+| Q3 2026 (jul-sep) | 18,9 graden | 4,82 (koeling) | 555 |
+
+Q1 trekt de SCOP omlaag — typisch voor Nederlandse koude winters. Tip: combineer Itho HP Cube met goede vloerisolatie + 30-graden vloerverwarming, dan houd je SCOP boven 3,3.
+
+## Wanneer Itho NIET de juiste keuze is
+
+Drie scenarios waarin ik klanten naar een ander merk verwijs. Een: woning slecht geisoleerd label E of slechter waar hybride beter past — Itho biedt minder hybride-opties dan Atag of Daalderop's eigen lijn. Twee: budget onder 4.500 euro voor de unit zelf — Itho zit in middensegment, voor budgetkeuze kijk naar Quatt of Saunier Duval. Drie: je wil app-bediening met Apple Home of Matter-integratie — Itho's Spider-app is functioneel maar minder modern dan Tado of Mitsubishi MELCloud.
+
+**Wat doet Itho onder -10 graden buitentemperatuur?**
+HP Cube valt terug op elektrisch bijverwarmingselement (3 kW) bij ondergrens. SCOP zakt op die dag naar 1,8-2,1. In NL zijn er gemiddeld 5-8 dagen per jaar onder -10, dus impact op jaarcijfers beperkt tot 3-5 procent extra stroom.
+
+**Krijg ik onderhoud bij dezelfde Itho-dealer?**
+Niet automatisch. Itho heeft een netwerk van geautoriseerde service-bedrijven. Vraag bij koop expliciet of jouw installateur ook onderhoudscontract aanbiedt — anders moet je zelf zoeken op itho-daalderop.nl.

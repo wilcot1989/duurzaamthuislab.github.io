@@ -1,7 +1,7 @@
 ---
 title: 'Verduurzamingshypotheek 2026: ABN, ING en Rabobank vergeleken'
 date: '2026-08-14 08:00:00+02:00'
-lastmod: '2026-08-14 08:00:00+02:00'
+lastmod: 2026-04-29 08:00:00+02:00
 draft: false
 description: Extra lenen voor zonnepanelen of warmtepomp? Ik vergelijk de verduurzamingshypotheek bij ABN, ING, Rabobank en SNS op rente, voorwaarden en maximum bedrag.
 categories:
@@ -270,6 +270,34 @@ Volgorde die ik aanhoud:
 6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
 
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
+
+## Aanbieder-vergelijking 2026 — actuele tarieven
+
+| Bank | Energie-rente extra | Maximale meerprijs | EnergieKortingsrating |
+|------|---------------------|--------------------|-----------------------|
+| ABN AMRO | -0,15% bij label A | 25.000 boven NHG | A++ certif |
+| ING | -0,20% bij label A+ | 30.000 boven NHG | Internal scoring |
+| Rabobank | -0,10% bij label B | 27.000 boven NHG | EnergiePas |
+| Triodos | -0,30% bij ECO-Hyp | 40.000 boven NHG | LEED of BREEAM |
+| Aegon | -0,25% bij label A | 30.000 boven NHG | EnergiePas |
+
+Triodos blijft scherpst voor echte verduurzamers, mits je certificering rond hebt. ABN en ING zijn middenmoot. Rabobank het zwakst voor verduurzaming maar sterk voor traditionele constructies.
+
+## Mini case 2: oversluiting Hypotheek 2026 voor warmtepomp + dakisolatie
+
+Klant met bestaande hypotheek 280.000 euro bij ING op 3,9 procent rente vast tot 2027. Wilde 18.000 euro verduurzamen bovenop. Drie opties: (1) Energiebespaarlening 1,8 procent over 18.000 = totaal rente 1.620 over 8 jaar. (2) Hypotheek-uitbreiding bij ING op 4,1 procent over 18.000 = rente 5.760 over 20 jaar. (3) Volledig oversluiten naar Triodos op 3,7 procent met -0,3 procent groene korting = 3,4 procent. Optie 1 won met factor 3,5x lagere rentekosten. Klant koos EBL.
+
+## Wanneer NIET voor verduurzamingshypotheek kiezen
+
+Drie situaties. Een: bestaande hypotheek met lage rente (onder 3,5 procent vast nog 5+ jaar) — oversluitkosten meer dan voordeel. Twee: investering onder 8.000 euro — overheadkosten van hypotheek-aanpassing eten voordeel op. Drie: korte resterende verblijfsverwachting (verhuizing binnen 4 jaar) — afsluitkosten niet terug te verdienen.
+
+**Telt een hybride warmtepomp ook voor groene-rente?**
+Bij ABN, ING en Rabobank: alleen als woning met hybride op label B of beter komt. Triodos accepteert hybride op label C bij combinatie met andere maatregelen. Vraag schriftelijk bevestiging vóór ondertekenen.
+
+**Mag ik later overstappen naar betere groene rente?**
+Ja, maar vrijwel altijd alleen bij rentevast-einde of via vrijwillige aflossing met bijbetaling. Sommige banken (Triodos, ASN) bieden gratis omzetting naar lagere groene rente bij behaald label-upgrade.
+
+
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/beste-zonnepanelen-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
 

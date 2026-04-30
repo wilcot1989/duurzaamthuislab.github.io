@@ -396,3 +396,25 @@ Bij verhuizing met behoud onderneming: panelen kunnen meeverhuizen of overgaan o
 
 **Telt een thuisbatterij ook als zakelijk?**
 Ja, naar evenredigheid van zakelijk gebruik. Een thuisbatterij die voornamelijk overdag laadt voor avond-thuisgebruik komt in de praktijk vaker uit op 5-15% zakelijk dan zonnepanelen (die juist overdag produceren als kantoor draait — dus 20-30% zakelijk).
+
+## Total cost of ownership ZZP versus particulier
+
+Een ZZP'er met kantoor aan huis kijkt naar dezelfde panelen anders dan een privé-eigenaar. Voorbeeld: 14 panelen 6,3 kWp, totaalprijs 8.500 euro inclusief BTW. Privé-eigenaar betaalt 8.500 euro, eventueel BTW terug via teruggaaf-regeling = netto 7.020 euro. ZZP'er met 25 procent zakelijk kantoor: BTW 21 procent volledig terugvorderbaar over zakelijk deel = 446 euro extra terug. Plus EIA 45,5 procent over zakelijke 25 procent = 798 euro fiscale aftrek (resulteert in 280-330 euro lagere belasting bij gemiddeld tarief). Effectieve nettoprijs ZZP: 6.410 euro. Verschil tegenover particulier: 610 euro voordeel — en dat is exclusief de jaarlijks aftrekbare 25 procent van energiekosten en afschrijving.
+
+## Mini case 2: kapper-aan-huis Eindhoven
+
+Klant met 18 m2 salonruimte in haar woning (totaal 105 m2, dus 17 procent zakelijk). 12 panelen 5,4 kWp geïnstalleerd voor 7.200 euro. BTW-aftrek 17 procent zakelijk = 257 euro terug. EIA over 17 procent zakelijk = 555 euro fiscale aftrek (235 euro belastingvoordeel). Jaarlijkse opbrengst zakelijk deel: 760 kWh op 0,38 euro besparing = 289 euro per jaar als bedrijfskosten aftrekbaar. Plus afschrijving 17 procent zakelijk over 25 jaar = 49 euro per jaar lineair. Totaal jaarlijkse fiscale winst: circa 130 euro per jaar belastingvoordeel bovenop de stroombesparing. Terugverdientijd op zakelijk deel: 5,8 jaar. Investering rendeert.
+
+## Veelgemaakte fouten bij ZZP-aangifte
+
+Vier fouten uit mijn eigen praktijk en die van collega's. Eén: alle BTW willen terugvorderen terwijl het zakelijk gebruik hoogstens 30 procent is — krijg je later naheffing met boete. Twee: vergeten EIA aan te vragen vóór 1 maart van het jaar na investering — onomkeerbaar, geld weg. Drie: zonnepanelen op 100 procent zakelijk balans plaatsen "voor maximaal voordeel", maar dan moet je bij verkoop privégebruik bijtellen — meestal verlies. Vier: geen schriftelijke vastlegging van de m2-verdeling, waardoor de Belastingdienst bij controle de aftrek schrapt.
+
+## Wanneer ZZP-route NIET de moeite waard is
+
+Als je werkruimte minder dan 8 m2 is óf minder dan 10 procent van de woning, valt het rekenwerk vrijwel altijd nadelig uit. De accountantkosten (gemiddeld 150-250 euro per jaar voor de extra administratie) eten het belastingvoordeel op. Dan ben je beter af met enkel de privé BTW-teruggaaf. Ook als je salaris al onder 10 procent box-1-tarief valt is de aftrek niet aantrekkelijk omdat je het voordeel pas haalt bij 37+ procent marginaal tarief.
+
+**Wat als ik mijn ZZP-onderneming staak?**
+Dan moet je het zakelijk deel van de panelen "uitnemen" naar privé tegen restwaarde. De Belastingdienst hanteert hiervoor lineaire afschrijving: na 8 jaar is 32 procent van originele waarde nog op de balans. Die uitneming is een fiscaal feit waar je IB over betaalt. Plan dit dus goed bij staking.
+
+**Telt een carport met panelen ook als zakelijk?**
+Alleen als je de carport voor zakelijke voertuigen gebruikt, of als laadlocatie voor klantenauto's. Een privé-auto die occasioneel zakelijk wordt gebruikt telt niet — dat valt onder de 19 procent forfaitaire bijtelling.

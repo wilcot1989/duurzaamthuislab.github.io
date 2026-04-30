@@ -1,7 +1,7 @@
 ---
 title: 'Financiering warmtepomp en zonnepanelen 2026: alle opties'
 date: '2026-08-16 08:00:00+02:00'
-lastmod: '2026-08-16 08:00:00+02:00'
+lastmod: 2026-04-29 08:00:00+02:00
 draft: false
 description: Energiebespaarlening, Warmtefonds, hypotheek of consumptief krediet? Ik reken alle financieringsopties door op een typisch verduurzamingsbudget van €25.000.
 categories:
@@ -270,6 +270,35 @@ Volgorde die ik aanhoud:
 6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
 
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
+
+## TCO-vergelijking financieringsvormen 10 jaar
+
+Voor een investering van 14.000 euro (combinatie warmtepomp + 8 panelen) over 10 jaar:
+
+| Vorm | Totale kosten 10 jr | Restschuld jaar 10 |
+|------|--------------------|--------------------|
+| Eigen vermogen | 14.000 | 0 |
+| Energiebespaarlening 1,8% | 15.260 (rente 1.260) | 0 |
+| Hypotheek-uitbreiding 4,2% | 17.180 (rente 3.180) | 0 |
+| Persoonlijke lening 7,5% | 19.840 (rente 5.840) | 0 |
+
+Energiebespaarlening blijft de winnaar voor wie geen eigen middelen heeft. Hypotheek alleen logisch als je tóch oversluit en de rente al meetekent. Persoonlijke lening is laatste keus — alleen bij snelle implementatie en hoge urgentie.
+
+## Mini case: gezin Tilburg met EBL
+
+Klant met rijtjeswoning, label C, ouder cv-ketel die in januari 2026 stuk ging. Plan: hybride warmtepomp + 10 panelen, totaal 11.200 euro. Eigen middelen 4.000 euro. Restbedrag 7.200 euro via EBL op 1,8 procent rente, 8 jaar. Maandlast 81 euro. Energiebesparing per maand: gemiddeld 95 euro (gas-besparing + zonnestroom). Netto cashflow positief vanaf maand 1: +14 euro per maand. Plus 4.500 euro ISDE retour binnen 8 weken — daarmee EBL extra afgelost. Reele terugverdientijd 6,3 jaar.
+
+## Veelgemaakte fouten
+
+Vier kostbare blunders bij financiering. Een: ondertekenen voor zon én warmtepomp tegelijk terwijl ISDE alleen warmtepomp dekt — financierbare bedrag verkeerd ingeschat. Twee: niet checken of EBL nog beschikbaar is in jouw gemeente — vergaar uitgeput in december. Drie: hypotheek oversluiten enkel voor verduurzaming bij oversluitkosten 3.500+ — netto verlies. Vier: vergeten dat NHG-grens invloed heeft op rente — onder NHG-grens vaak 0,4-0,6 procent gunstiger.
+
+**Wat is de actuele rente voor de Energiebespaarlening 2026?**
+Per april 2026: 1,8 procent voor maatregelen tot 25.000 euro, 2,2 procent voor leningen tot 65.000 euro. Looptijd 7-15 jaar. Aanvraag via SVN-energiebespaarlening.nl, voorwaarden per gemeente verschillen.
+
+**Mag ik EBL combineren met ISDE?**
+Ja, beide regelingen zijn stapelbaar. EBL financiert het netto-investeringsbedrag, ISDE komt achteraf als subsidie binnen 6-10 weken na installatie. Veel banken accepteren ISDE-toezegging als deel van financieringsbasis.
+
+
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/beste-zonnepanelen-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
 

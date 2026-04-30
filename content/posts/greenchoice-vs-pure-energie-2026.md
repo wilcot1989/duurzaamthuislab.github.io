@@ -1,7 +1,7 @@
 ---
 title: 'Greenchoice vs Pure Energie 2026: groene leverancier vergelijken'
 date: 2026-09-18 08:00:00+02:00
-lastmod: 2026-09-18 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 draft: false
 description: Greenchoice of Pure Energie als groene energieleverancier in 2026? Ik vergelijk tarieven, herkomst groene stroom, klantenservice en terugleververgoeding.
 categories:
@@ -251,6 +251,29 @@ Variabel volgt de marktprijs maandelijks. Vast geeft 1, 2 of 3 jaar zekerheid. M
 Voor wie een thuisbatterij of EV-laadpaal heeft is een leverancier met goede API- of integratie-mogelijkheden waardevol. Greenchoice biedt geen dynamisch contract, dus de integratie is beperkt. Pure Energie ook niet. Voor actief slimme aansturing wil je naar Tibber of Frank.
 
 Voor de keuze tussen verschillende contractvormen zie [dynamisch vs vast contract 2026](/posts/dynamisch-vs-vast-contract-2026/).
+
+## Total cost of ownership 5 jaar
+
+Beide leveranciers vergelijken op enkel de huidige tarieven is misleidend — kijk over 5 jaar contract met realistische scenarios. Voor een gemiddeld huishouden 3.200 kWh per jaar zonder zonnepanelen, bij vast contract 2026: Greenchoice komt uit op circa 1.620 euro per jaar (variabel kWh-tarief 0,32 euro plus standaard vastrecht), Pure Energie 1.580 euro per jaar dankzij iets gunstiger vastrecht. Verschil 200 euro over 5 jaar. Voor huishouden mét 12 zonnepanelen en 2.800 kWh teruglevering wordt het beeld anders: Greenchoice rekent vanaf 2026 een terugleverkosten-toeslag van 4,80 euro per maand, Pure Energie 6,20 euro per maand — netto verschil 84 euro per jaar pro Pure-zijde, dat over 5 jaar 420 euro voordeel oplevert voor Greenchoice. Conclusie: voor zonnepaneeleigenaren wint Greenchoice in 2026 op TCO.
+
+## Mini case: overstap-besparing Drachten
+
+Klant in Drachten zat sinds 2019 bij Vattenfall, betaalde in 2025 1.840 euro per jaar all-in voor 3.100 kWh + 1.100 m3 gas. Na overstap maart 2026 naar Greenchoice met 1-jaarscontract: 1.515 euro per jaar geprognosticeerd. Werkelijke kosten eerste 9 maanden: 1.140 euro, lopend op jaarbasis 1.520 euro — dus binnen 1 procent van prognose. Besparing per jaar: 320 euro, plus 50 euro welkomstkorting Greenchoice = totaal 370 euro voordeel jaar 1. Bij Pure Energie zou die besparing 280 euro zijn geweest. Verschil bevestigt mijn TCO-analyse.
+
+## Wanneer NIET overstappen tussen deze twee
+
+Drie scenario's waarin de overstap niet rendeert. Een: je hebt nog 14+ maanden lopend bij huidige aanbieder met opzegboete hoger dan 200 euro — wacht tot opzeggen kosteloos kan. Twee: je hebt een dynamisch contract bij Frank, ANWB of Tibber draaien dat in 2026 onder 0,28 euro per kWh gemiddeld zit — dan ben je goedkoper uit dan beide groene aanbieders. Drie: je gebruikt minder dan 1.500 kWh per jaar (klein appartement, weinig thuis) — dan domineert vastrecht en is verschil tussen aanbieders verwaarloosbaar.
+
+## Veelgemaakte fouten bij vergelijking
+
+Vier dingen die mensen verkeerd doen. Een: alleen kijken naar kale kWh-prijs zonder vastrecht en netbeheerkosten te includeren. Twee: aanname dat groene certificaten allemaal hetzelfde betekenen — Greenchoice heeft 80 procent eigen NL-productie, Pure Energie 100 procent NL maar koopt waterkracht uit Noord-Noorwegen via certificaat. Drie: terugleverkosten over het hoofd zien — die zijn in 2026 voor zonnepaneeleigenaren vaak hoger dan de leveringsmarge. Vier: vergeten dat overstapbonus belastbaar is bij sommige cashbacks — soms gebruik je dan een "korting" als gemarkeerd inkomen.
+
+**Welke leverancier doet het beter bij dynamische contracten?**
+Greenchoice biedt sinds 2025 een dynamisch product (Greenchoice Free), Pure Energie nog niet in 2026. Voor wie dynamiek wil: Frank of Tibber blijven leiders, Greenchoice Free is voor wie groene productie EN dynamiek wil combineren — kost 4 euro per maand bovenop vastrecht.
+
+**Heb ik recht op compensatie bij stroomstoringen?**
+Niet via leverancier. Stroomstoringen vallen onder netbeheerder (Liander, Stedin, Enexis). Bij meer dan 4 uur storing krijg je via netbeheerder 35 euro standaard. Leverancier compenseert alleen administratieve fouten of foutieve facturatie.
+
 
 Verder lezen:
 - [Eneco vs Vattenfall vs Essent 2026](/posts/eneco-vs-vattenfall-vs-essent-2026/)

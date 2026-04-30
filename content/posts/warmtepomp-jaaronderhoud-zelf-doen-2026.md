@@ -1,7 +1,7 @@
 ---
 title: 'Warmtepomp jaaronderhoud: wat doe ik zelf, wat de monteur?'
 date: '2026-08-20 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: 2026-04-29 08:00:00+02:00
 draft: false
 description: Welk warmtepomp-onderhoud doe je zelf en wat hoort bij de jaarservice? Checklist, kosten, en wat installateurs vergeten te vertellen.
 categories:
@@ -270,6 +270,35 @@ Volgorde die ik aanhoud:
 6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
 
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
+
+## Onderhoudsdiagram per merk
+
+| Merk | DIY mogelijk | Service-interval | Onderhoudscontract verstandig |
+|------|--------------|-------------------|-------------------------------|
+| Atag MaXi | Ja, basis | 18 mnd | Bij hybride wel, all-electric niet noodzakelijk |
+| Quatt | Ja, app-geleid | 24 mnd | Niet, app-monitoring vervangt |
+| Itho HP Cube | Beperkt | 12 mnd | Aanbevolen jaar 1-2 |
+| Daikin Altherma | Beperkt | 12 mnd | Sterk aanbevolen |
+| Mitsubishi Ecodan | Beperkt | 18 mnd | Aanbevolen voor garantiebehoud |
+| Vaillant aroTHERM | Niet aanbevolen | 12 mnd | Verplicht voor garantie |
+
+Verschil zit in de "service-mode" interface. Quatt en Atag bieden uitgebreide DIY-instructies, Vaillant werkt met geblokkeerde menu's die alleen monteurs kunnen ontgrendelen.
+
+## Mini case 2: zelf-onderhoud Atag rijtjeshuis Hoorn
+
+Klant doet sinds 2024 zelf jaarlijks onderhoud op Atag MaXi 4 kW. Tijd per beurt: 90-120 minuten. Werkzaamheden: filter buitenunit blazen, condensaatafvoer doorspoelen, vlakheidstest fundering, app-readout draaiuren en foutcodes, fysieke inspectie buitenunit op corrosie. Kosten 0 euro voor materialen na initiele aanschaf borstel-set 35 euro. Tot dusver geen issues gehad in 2,5 jaar. Tip: maak foto's van elk inspectiepunt en bewaar in een mapje — bij garantieclaim kun je het systematisch werk aantonen.
+
+## Wanneer DIY-onderhoud NIET zinvol is
+
+Vier scenarios waar professional voordeliger uitkomt. Een: woning waar je niet veilig zelf op het dak kunt. Twee: warmtepomp boven 12 kW (commerciele installaties) waar koudemiddelcheck verplicht is — alleen STEK-erkend. Drie: bij garantie-eis "jaarlijks onderhoud door erkende monteur" — DIY breekt garantievoorwaarde. Vier: storingen die zich elk jaar herhalen — er is dan iets fundamenteels mis, monteur nodig.
+
+**Hoe vaak moet ik koudemiddel laten checken?**
+Voor consumenten-warmtepompen tot 12 kW thermisch is jaarlijkse koudemiddelcheck NIET wettelijk verplicht (sinds wijziging 2022 F-gassenregeling). Wel 1x per 5 jaar lekdichtheidstest verplicht. Boven 12 kW jaarlijks plus uitgebreide log.
+
+**Krijg ik een melding als er een fout optreedt?**
+Bij Quatt, Atag, Daikin via app real-time. Bij oudere Itho/Mitsubishi alleen via lokaal display. Maak gewoonte 1x per maand display checken op storingscodes — voorkomt grotere schade.
+
+
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/garantie-zonnepanelen-uitleg-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
 

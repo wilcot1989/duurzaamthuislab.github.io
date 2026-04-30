@@ -435,3 +435,21 @@ Als je een verbouwing financiert via hypotheek (energiebespaarbudget tot €9.00
 
 **Bouwbesluit-eisen bij hybride warmtepomp**
 Sinds 2026 geldt voor nieuwe ketelvervanging in Rotterdam de hybride-warmtepomp-norm uit het Bouwbesluit. Dat betekent: bij vervanging van een cv-ketel ouder dan 12 jaar moet er een hybride of volledige warmtepomp komen, tenzij het pand isolatietechnisch echt ongeschikt is (label G zonder mogelijkheid tot verbetering). De Aardgasvrij-bonus combineert hier prima mee.
+
+## Vervolg case: Bospolder-Tussendijken vs Hillegersberg
+
+Twee Rotterdamse wijken vergeleken op werkelijke subsidie-stapeling. Bospolder-Tussendijken (BoTu, jaren-30 woningvoorraad, label E-G dominant) krijgt voorrang in de wijkaanpak Aardgasvrij — bewoners kregen in 2025-2026 gemiddeld 8.200 euro subsidie per woning bovenop ISDE. Hillegersberg (jaren-50 villa's, vaak label C-D) viel buiten wijkaanpak, alleen reguliere ISDE plus gemeentelijke duurzaamheidslening tot 25.000 euro op 1,8 procent rente. Conclusie: voor BoTu is verduurzamen netto goedkoper dan in Hillegersberg, ondanks vergelijkbare investering. Wijken met SVN-stempel (Sociale-Vraag-Nu) hebben voorrang bij subsidie-aanvragen.
+
+## Wanneer Rotterdam-subsidies NIET genoeg zijn
+
+Drie scenario's waarin alleen subsidie ontoereikend is. Een: monumentaal pand in Delfshaven zonder eigenaarsbijdrage — meerprijs voor monumentvriendelijke installatie wordt slechts deels gecompenseerd, eigenaar moet 8.000-15.000 euro extra opbrengen. Twee: VVE met meer dan 24 appartementen waar besluitvorming traag is — subsidie-deadlines worden gemist. Drie: huurders zonder corporatie-akkoord — komen niet in aanmerking voor de hoogste subsidies. Voor die situaties: wacht op de wijkaanpak of stap over naar particulier-eigenaar-route.
+
+## Veelgemaakte fouten bij Rotterdam-aanvragen
+
+Vier dingen die mensen verkeerd doen. Een: alleen één subsidie aanvragen terwijl er stapeling mogelijk is — mis je 30-40 procent van het bedrag. Twee: aanvraag pas indienen na opdrachtverlening — sommige Rotterdamse subsidies eisen aanvraag vóór factuurdatum. Drie: maatwerkadvies overslaan terwijl je daarvoor 100 procent vergoeding krijgt — gratis geld onbenut. Vier: niet checken of installateur op de Rotterdamse certificeringslijst staat — anders subsidie afgewezen.
+
+**Hoe lang loopt een Rotterdamse subsidie-aanvraag?**
+ISDE: 8 weken na complete aanvraag. Gemeentelijke duurzaamheidslening: 4-6 weken. Wijkaanpak Aardgasvrij: 12-16 weken (collectief proces). Provinciale Zuid-Holland: 6-8 weken.
+
+**Wat als mijn aanvraag wordt afgewezen?**
+Bezwaartermijn 6 weken. Vraag eerst om gemotiveerde afwijzingsbrief. Vaak ligt het aan ontbrekende documenten — repareer en dien opnieuw in. Bij definitieve afwijzing: wijkambtenaar vragen om alternatieven.

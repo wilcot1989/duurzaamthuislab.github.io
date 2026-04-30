@@ -389,3 +389,21 @@ EPV telt niet mee voor huurtoeslag-berekening (ander criterium). De totale woonl
 
 **Wat als de corporatie alleen panelen voor zonneboiler aanbiedt, geen elektriciteit?**
 Dat is een PVT-paneel of zonneboiler. Die geeft geen stroom maar warm water. Voor douchen is dat winst, maar voor huishoudelijke stroom blijft je rekening hetzelfde. Vraag specifiek naar PV-panelen (elektriciteit).
+
+## Vervolg case: appartement Rotterdam-Zuid
+
+Klant in flat Rotterdam-Zuid (corporatie Vestia), 4-kamer 86 m2 op 7e van 11. Eigen-investering-route gevolgd. Hindernissen: dak gemeenschappelijk eigendom van VVE, individuele panelen niet toegestaan. Oplossing: een Plug-in zonnepaneel-set (4 panelen 1.640 Wp) op het balkon, formele aanvraag bij VVE met geluidsnota en zichtbaarheidsfoto's. VVE-vergadering oktober 2025, akkoord met 76 procent meerderheid. Installatie december 2025. Productie eerste 6 maanden: 380 kWh, jaarprognose 820 kWh. Investering 2.150 euro, terugverdientijd 6,8 jaar bij huidige stroomtarief. Bij verhuizing nemen klanten de set mee — uniek voordeel van plug-in versus geintegreerd.
+
+## Wanneer corporatie-route NIET de moeite waard is
+
+Drie situaties die ik regelmatig tegenkom. Een: tijdelijk huurcontract korter dan 5 jaar — terugverdientijd op huurverhoging haal je niet. Twee: woningen waarvan corporatie binnen 8 jaar grootonderhoud of sloop plant — verlies van investering. Drie: hofjes en oude huurcomplexen waar dak gedeeld is met meerdere woningen — coordinatie tussen 4-12 huishoudens werkt zelden. Wacht in dat geval tot corporatie zelf met collectief plan komt, of kies plug-in panelen op balkon/tuin.
+
+## Veelgemaakte fouten bij sociale huur
+
+Vier valkuilen. Een: huurverlaging eisen op basis van besparing zonder schriftelijke vastlegging — corporatie kan na 1-2 jaar ineens huurverhoging vragen die de besparing tenietdoet. Twee: zelf panelen plaatsen op corporatie-dak zonder schriftelijke akkoord — risico op gedwongen verwijdering en boete. Drie: tekenen op een AAR-overeenkomst (Aanvullend Akkoord Renovatie) zonder de financiele gevolgen door huurkommer of Aedes te laten checken. Vier: verzuimen om huurtoeslag-impact te berekenen — bij kale-huur-verhoging boven 808 euro vervalt soms huurtoeslag, wat de besparing volledig tenietdoet.
+
+**Wat als mijn corporatie weigert?**
+Sinds mei 2025 mag een woningcorporatie een redelijk verzoek tot panelen-plaatsing op eigen kosten niet zomaar weigeren. Bij weigering: schriftelijk bezwaar, daarna naar de Huurcommissie. Toetsingstermijn 8-12 weken. Succespercentage huurder: circa 65 procent.
+
+**Krijg ik een terugleververgoeding als individuele huurder?**
+Ja, mits eigen meter en eigen leveringscontract. Bij blokverwarming of gedeelde meters niet. Vraag bij corporatie of individuele aansluiting mogelijk is — vaak ja tegen 200-450 euro netbeheerkosten.

@@ -429,3 +429,21 @@ Ja, na 1 schade typisch 5-10% verhoging. Bij 2 schades binnen 5 jaar: kans op op
 
 **Is een thuisbatterij apart verzekerd?**
 Vrijwel altijd ja, soms onder inboedel ipv opstal. Vraag specifiek voor LiFePO4-batterij of brandschade door batterij-defect gedekt is.
+
+## Vergelijking premie 2024 vs 2026
+
+In twee jaar tijd zijn de premies voor verduurzaamde woningen niet gedaald, ondanks lagere brandrisico's. Reden: verzekeraars factoren stormschade en hagel zwaarder mee na de 2023 hagelramp in Brabant. Concreet zag ik bij eigen klanten: in 2024 betaalde een rijtjeshuis met 12 panelen gemiddeld 28 euro per maand voor opstal. Diezelfde polis in 2026: 34 euro. Verschil 21 procent. Wel daalden de eigen risico's bij sommige verzekeraars (Aegon, Centraal Beheer) van 250 naar 150 euro voor zonnestroomschade. Voor batterijen zie ik tegenovergesteld effect: premies stijgen 35 procent omdat brandverzekeraars terughoudender worden bij LFP-batterijen boven 10 kWh.
+
+## Mini case 2: storm Eunice nasleep IJsselmuiden
+
+Klant in IJsselmuiden, dak met 18 panelen Trina 405W, schade na storm februari 2026. Drie panelen losgewaaid, één door buurmans dakkapel. Eigen schade: 1.350 euro panelen + 600 euro montagesysteem + 480 euro arbeid = 2.430 euro. Schade buurman: 4.200 euro dakkapel. Verzekering opstal vergoedde eigen panelenschade volledig, aansprakelijkheidsdeel betaalde buurmans schade — eigen risico in totaal 250 euro. Maar: claim was alleen mogelijk omdat klant een gecertificeerd montagesysteem had en NEN1010-keuringsrapport. Bij een ander dossier zonder rapport werd 30 procent eigen aandeel toegekend. Les: documentatie bewaren is gratis verzekeringsvoordeel.
+
+## Wanneer een doorlopende reisverzekering NIET dekt
+
+Veel mensen denken dat hun "uitgebreide woonhuispolis" alles dekt. Vier situaties waarin je vrijwel altijd een aanvullende clausule nodig hebt. Eén: panelen op een berging of carport apart van het hoofdgebouw — die tellen als "bijgebouw" en hebben vaak eigen dekkingslimiet. Twee: zelf-geinstalleerde panelen zonder NEN1010 worden door 80 procent van verzekeraars uitgesloten van brandschade. Drie: panelen ouder dan 20 jaar — dan dalen vergoedingen naar 50 procent dagwaarde. Vier: schade door dieren (steenmarters die kabels doorbijten) wordt vaak alleen gedekt onder uitgebreide opstal.
+
+**Hoe meld ik schade als mijn installateur failliet is gegaan?**
+Verzekering staat los van installateur — meld bij eigen verzekeraar binnen 48 uur na ontdekking. Voor reparatie zoek je een nieuwe Zonnekeur-installateur, factuur direct naar verzekeraar via expertbureau. Bewaar de oorspronkelijke installatiefactuur en NEN1010 — die heb je nodig.
+
+**Heeft groene stroom contract invloed op mijn verzekering?**
+Geen invloed op opstaldekking. Wel relevant: een dynamisch contract met thuisbatterij kan extra slijtage veroorzaken (meer cycli per dag), wat bij sommige verzekeraars als "commercieel gebruik" gezien wordt en lagere dekking betekent. Vraag dit altijd schriftelijk na voor je een batterij installeert in combinatie met dynamisch tarief.

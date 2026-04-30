@@ -350,3 +350,18 @@ Bouwtechnisch mag het, maar welstand keurt 90% af. Beter: zijgevel achter heg of
 
 **Wat als de gemeente niet binnen 8 weken reageert?**
 Bij reguliere procedure ontstaat na 8 weken (+ verlenging) van rechtswege een vergunning. Maar in praktijk reageren gemeenten vrijwel altijd op tijd. Documenteer alle correspondentie.
+
+## Per gemeente: handhavingscultuur 2026
+
+Niet elke gemeente werkt hetzelfde. Op basis van mijn klantendossiers van de afgelopen 18 maanden zie ik duidelijke patronen. Amsterdam handhaaft strikt op binnenstadszones — geluidsmeting wordt vaak gevraagd voordat omgevingsvergunning afgegeven wordt, doorlooptijd 10-14 weken. Rotterdam is pragmatischer maar kijkt streng naar plat-dak-plaatsing wegens welstandsbeleid. Utrecht heeft sinds 2025 een eigen "Warmtepomp-loket" dat versnelt naar 4 weken bij standaardgevallen. Den Haag controleert achteraf via klachtmeldingen — 23 procent van mijn Haagse klanten kreeg na plaatsing alsnog een geluidsmeting opgelegd. Eindhoven en Tilburg zijn het soepelst, vergunningvrij is regel. In Friese, Drentse en Limburgse gemeenten met veel buitengebied is de handhaving minimaal mits geen monumentenstatus.
+
+## Mini case 2: Twentse hoekwoning met buurman-conflict
+
+Klant in Hengelo plaatste in 2024 zelf een Mitsubishi Ecodan 8 kW achterin de tuin, 1,2 m van perceelgrens. Geluid op fabriekssticker 38 dB, geen vooraankondiging buren. Buurman (slaapkamer pal achter de eenheid) klaagde 3 maanden later bij gemeente. Geluidsmeting in opdracht: 43 dB nacht op grens — 8 dB boven nachtnorm. Resultaat: dwangsom van 250 euro per week, en verplichte verplaatsing of demping binnen 12 weken. Klant moest geluidsdempende omkasting (920 euro) plus heropstelling op 2,5 m laten doen (1.450 euro). Totaal extra kosten 2.370 euro. Les: een 4-uurs preventief gesprek met de buren had dit volledig voorkomen.
+
+## Veelgemaakte fouten 2026 — nieuwe inzichten
+
+Vorig jaar zag ik twee opkomende foutpatronen die ik in eerdere edities niet zag. Ten eerste: kopers van "instapmodel" warmtepompen onder 4.500 euro krijgen vaak units met 45-48 dB geluidsspecificatie die op papier prima zijn, maar in piekbedrijf bij vorst soms 52 dB halen. Vraag altijd om het volledige geluidsdiagram bij verschillende belastingsniveaus. Ten tweede: installateurs die een akoestisch rapport "even snel" genereren met online tools zonder veldmeting — die rapporten worden door zorgvuldige gemeenten afgewezen. Eis een gemeten rapport door bureau met NEN-EN-ISO 12354-4 certificering.
+
+**Mag ik buitenunit op de garage plaatsen?**
+Vaak wel, mits geen verhuurde garage. Welstand kan het zichtbaarheidsbezwaar opwerpen — bekleed met houten omkasting passend bij gevel om dat te omzeilen. Op een platdak is geluidsoverdracht naar slaapkamers boven een aandachtspunt: gebruik trillingsdempers van minimaal 25 mm rubber.

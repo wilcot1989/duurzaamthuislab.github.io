@@ -1,7 +1,7 @@
 ---
 title: 'Huurwoning verduurzamen 2026: zo krijg ik mijn huisbaas mee'
 date: '2026-09-17 08:00:00+02:00'
-lastmod: '2026-09-17 08:00:00+02:00'
+lastmod: 2026-04-29 08:00:00+02:00
 draft: false
 description: Huurder en huis tochten? Ik leg uit welke rechten je hebt, hoe je je verhuurder of corporatie meekrijgt en welke kleine ingrepen je zelf kunt doen.
 categories:
@@ -270,6 +270,33 @@ Volgorde die ik aanhoud:
 6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
 
 Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
+
+## TCO 8 jaar voor verschillende huurroutes
+
+| Route | Jouw investering | Cumulatieve besparing 8 jr | Netto resultaat |
+|-------|------------------|---------------------------|-----------------|
+| Corporatie initiatief (huurverhoging 8/mnd) | 0 | 1.920 (besparing minus extra huur) | +1.920 |
+| Eigen plug-in panelen 4-set | 1.800 | 3.600 | +1.800 |
+| Eigen warmtepomp-vraag aan corporatie | 0 | onbekend (afhankelijk van jaar uitvoer) | variabel |
+| Particuliere huur, eigenaar betaalt | 0 | 800-1.400 | +800-1.400 |
+
+Eigen plug-in panelen winnen op netto-resultaat per geinvesteerde euro, mits je minimaal 6-7 jaar in de woning woont. Bij sociale huur is corporatie-route vaak passender wegens geen eigen investeringsbehoefte.
+
+## Mini case: gezin Almere sociale huur
+
+Klant, alleenstaand met kind, woont 9 jaar in eengezinswoning corporatie De Alliantie. In 2026 deed corporatie wijkaanpak: extern muurisolatie + HR++ glas + nieuwe ketel + zonnepanelen 8 stuks gratis. Huurverhoging 12 euro per maand. Energiebesparing op gas: 380 m3 per jaar = 425 euro. Stroombesparing: 1.860 kWh per jaar = 595 euro. Totale jaarbesparing 1.020 euro. Netto na huurverhoging 144/jaar = 876 euro per jaar voordeel. Klant vrolijk.
+
+## Veelgemaakte fouten huurder-route
+
+Drie kostbare missers. Een: investeren in apparaten die niet meegenomen kunnen worden bij verhuizing zonder afspraken — bij vertrek moet je kosten afschrijven. Twee: huurverhoging accepteren zonder schriftelijke vastlegging dat verbetering blijvend is — corporatie kan later aanvullend verhogen. Drie: zelf installeren zonder verhuurder-akkoord — bij ontdekking gedwongen verwijderen plus boete.
+
+**Mag verhuurder me weigeren bij eigen-investering-route?**
+Sinds mei 2025 mag een redelijk verzoek tot eigen verduurzaming op eigen kosten niet zomaar geweigerd worden. Bij weigering: schriftelijk bezwaar, daarna Huurcommissie. Doorlooptijd 8-12 weken. Slagingskans circa 65 procent.
+
+**Wat gebeurt bij verkoop pand door verhuurder?**
+Nieuwe eigenaar treedt in rechten van oude verhuurder. Eerder gemaakte afspraken over verbetering en huur blijven geldig. Bewaar schriftelijke vastlegging voor het geval van conflict.
+
+
 
 Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> voor concrete prijzen, en lees [mijn aanvullende guide](/posts/tibber-review-ervaringen-2026/) voor verdieping. Vragen? Mail me — ik kies maandelijks 5 lezers uit voor een gratis 30-minuten consult.
 

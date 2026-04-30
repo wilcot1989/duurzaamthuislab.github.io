@@ -380,3 +380,25 @@ Technisch ja, maar je verliest doorgaans de productgarantie (alleen geldig bij e
 
 **Hoe lang gaat een aluminium rail mee?**
 Bij A2 RVS bouten en gepoedercoat aluminium: 30+ jaar in Nederlandse omstandigheden. In zoutwaterzone (eerste 1 km kust): 20-25 jaar voordat eerste corrosie zichtbaar wordt.
+
+## TCO over 25 jaar per merk
+
+Wat veel mensen vergeten: het montagesysteem gaat langer mee dan vaak één paneelgeneratie. Concreet: K2 SolidRail kost 18 procent meer dan Renusol VarioSole, maar is in mijn praktijkbeoordeling na 12 jaar nog steeds zonder corrosie. VarioSole vertoont na 8 jaar zichtbare witte oxidatie op aluminium. Reken de TCO over 25 jaar: K2 kost circa 280 euro per kWp inclusief plaatsing, Renusol 230 euro. Maar bij paneelvervanging na jaar 22-25 zit het oude systeem nog goed bij K2, dus geen extra arbeidsuren bij Renusol moet je vaak het hele systeem ook vervangen (450 euro per kWp). Over 25 jaar wint K2 met 80-120 euro per kWp.
+
+## Mini case 2: Zeeuws kustdak 800 m van zee
+
+Klant in Goes plaatste in 2018 een Esdec FlatFix Wave systeem op rietendak. Materiaal: standaard aluminium AlMg3, A2 RVS bouten. Na 6 jaar ontdekte ik bij inspectie eerste pitting-corrosie op de rails aan windzijde. Voorzichtige conclusie: in zoute lucht moet je voor A4 RVS bouten kiezen plus geanodiseerd of duplex-gecoat aluminium. Esdec ProLine is hierin sterker dan FlatFix. Voor klanten binnen 3 km van zee adviseer ik nu standaard A4 RVS plus 60 micrometer poederlaag. Meerprijs 8-12 procent op materiaal, levensduurwinst 8-12 jaar.
+
+## Wanneer montagesysteem-keuze NIET kritiek is
+
+Eerlijk gezegd: voor een rechttoe-rechtaan zuid-georiënteerd asfaltdak van een rijtjeshuis 50 km landinwaarts, met 6-12 panelen, is het verschil tussen K2, Esdec en Renusol marginaal. Alle drie systemen zijn KOMO-gecertificeerd, alle drie houden 25+ jaar mee onder die omstandigheden. Tijdens offertevergelijking is het zonde om hier 4-6 weken extra over te dubben. Kies wat de installateur het beste in voorraad heeft en op het dak wil monteren — verschil in eindprijs is meestal 80-150 euro op een totaal van 7.500 euro. Anders ligt het bij plat dak, monumentaal pand, kustomgeving of ongebruikelijke daksoort.
+
+## Veelgemaakte fouten
+
+Drie kostbare blunders. Een: dakhaken aanbrengen zonder onderdakfolie controle — bij oude folies trek je ze stuk en krijg je lekkage na 2-3 jaar. Twee: ballast-systeem op plat dak zonder dakkundige berekening — bij sneeuwlast plus eigen gewicht zit je in 1 op 8 gevallen boven de toelaatbare belasting van het dakpakket. Drie: verschillende profielen van verschillende fabrikanten combineren — garantie vervalt en thermisch werk-verschil leidt tot trekkracht op bouten.
+
+**Welk montagesysteem past op een groendak?**
+Speciale ballast-systemen zoals Renusol MetaSole Green of K2 D-Dome combineren een onderlaag-folie met grindbed, zodat je vegetatiebak rondom open blijft. Reken op 30 procent meerprijs t.o.v. standaard plat-dak-systeem.
+
+**Mag ik panelen later toevoegen aan bestaand systeem?**
+Alleen bij modulaire systemen (K2 SingleRail, Esdec FlatFix) en mits oorspronkelijke ballast/bouten verlengbaar. Vraag bij installatie altijd om "uitbreidingsruimte 30 procent" zodat je later 4-6 extra panelen kunt bijplaatsen zonder volledig herbouwen.

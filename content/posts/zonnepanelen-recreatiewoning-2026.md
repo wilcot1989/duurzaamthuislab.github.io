@@ -456,3 +456,29 @@ Ja, mits Victron MultiPlus II of vergelijkbare hybride-omvormer met aggregaat-in
 
 **Wat te doen bij langdurige afwezigheid (winter)?**
 LiFePO4 op 50% lading achterlaten, verwarming uit, batterij vorstvrij. Lichte panelen blijven functioneren maar hoeven niet vol te laden.
+
+## Total cost of ownership 15 jaar — recreatie-setups
+
+Drie scenario's vergeleken voor een vakantiewoning op de Veluwe (gemiddeld 8 weken per jaar bewoond):
+
+| Setup | Investering | Onderhoud 15 jr | Totaal 15 jr |
+|-------|-------------|-----------------|--------------|
+| On-grid 8 panelen netaansluiting | 6.200 | 800 | 8.400 (incl. nettarief) |
+| Hybride 6 panelen + 5 kWh batterij | 8.400 | 1.450 | 12.150 |
+| Off-grid 8 panelen + 10 kWh + diesel-bijset | 13.200 | 4.200 | 22.300 |
+
+On-grid wint duidelijk waar netaansluiting beschikbaar is. Off-grid zinvol bij meer dan 1.500 euro netaansluitingskosten (kabel langer dan 200 m). Hybride is de tussenweg: enige onafhankelijkheid bij stroomstoring, betaalbaar.
+
+## Mini case 2: chalet Belgisch grenspark
+
+Klant met chalet in Heesselt-Eindhoven, gebruikt 9-10 weken per jaar verspreid over zomer en herfstvakantie. Off-grid setup uit 2023: 6 panelen 1.680 Wp, 8 kWh LiFePO4, 3 kVA omvormer, totale investering 9.800 euro. Werkelijk verbruik: 145 kWh per verblijf (TV + koelkast + LED-verlichting + soms warmwater via gas). Setup voldoet 95 procent van het jaar, alleen in december bij volledige bewolking moet klant op gas-warmwater terugvallen. Belangrijkste les: koop genoeg buffer (minimaal 2x dagverbruik) anders gaat de batterij elke avond leeg en heb je 's nachts geen koeling.
+
+## Wanneer recreatie-zonnepanelen NIET interessant zijn
+
+Drie heldere afwegingen. Een: gehuurde stacaravan zonder toestemming van parkeigenaar — vrijwel altijd verboden. Twee: chalets in beschermd natuurgebied met bouwbeperkingen — vergunning vaak afgewezen. Drie: zomerhuizen die je verkoopt over 3-5 jaar — investering haalt terugverdientijd niet, beter geld in dak-isolatie steken. Vraag altijd eerst aan parkbestuur of er een collectieve route is — soms biedt een park gemeenschappelijke zonneweide tegen 6-8 cent per kWh.
+
+**Mag ik panelen plaatsen op mijn caravan of camper?**
+Op jouw eigen caravan of camper: ja, geen vergunning nodig. Op een stacaravan in een park: vrijwel altijd toestemming parkbestuur nodig, soms aparte vergunning gemeente. Camper-panelen vallen onder "voertuigen" en zijn vrij plaatsbaar.
+
+**Hoe dek ik diefstal van mobiele panelen?**
+Inboedelverzekering met "buitenshuis"-clausule of een speciale recreatiewoning-polis. Standaard opstal dekt panelen op caravan vrijwel nooit.

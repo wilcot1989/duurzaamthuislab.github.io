@@ -390,3 +390,32 @@ Gemiddeld 12-15 jaar voor stringomvormer (eenmaal vervangen tijdens 25-jaars pan
 
 **Moet ik DC-isolator toevoegen?**
 Wettelijk verplicht volgens NEN 1010. Kosten €60-€120 los of inbegrepen bij installatie. Geen onderhandeling — dit moet erbij.
+
+## Total cost of ownership 25 jaar — omvormertypes
+
+| Type | Aanschaf 8 panelen | Vervangingen 25 jr | Onderhoud 25 jr | TCO |
+|------|-------------------|-------------------|------------------|-----|
+| Single string SolarEdge HD-Wave | 1.450 | 1x bij jaar 14 (1.250) | 200 | 2.900 |
+| Micro-omvormer Enphase IQ8+ | 2.800 | 0 (25-jaar garantie) | 0 | 2.800 |
+| Hybride Huawei SUN2000 | 2.150 | 1x bij jaar 12 (1.850) | 280 | 4.280 |
+| String Solis 5G (budget) | 1.080 | 2x bij jaar 9, 18 (totaal 1.760) | 350 | 3.190 |
+
+Enphase wint over 25 jaar dankzij geen-vervanging-nodig en lange garantie. SolarEdge HD-Wave is bij standaardinstallatie zonder schaduw nog steeds aantrekkelijk. Hybride Huawei alleen interessant als je vandaag of binnen 2 jaar batterij koppelt — anders te duur.
+
+## Mini case 2: oost-west dak Zoetermeer met dakkapel
+
+Klant met 14 panelen verdeeld over oost (8 panelen) en west (6 panelen) plus een dakkapel die een paneel 's middags 1,5 uur beschaduwt. Eerste offerte: SolarEdge string-omvormer met optimizers 14x = 2.890 euro. Tweede offerte: Enphase IQ8+ micro-omvormers = 3.420 euro. Verschil 530 euro. Mijn advies: Enphase wegens schaduw + verschillende oriëntatie + 25-jaars-garantie. Klant koos Enphase. Productie eerste jaar 5.140 kWh — 8 procent boven offerte-prognose. Dezelfde dakopstelling met goedkope string-omvormer zonder optimizer zou 12-18 procent verlies hebben gegeven.
+
+## Wanneer NIET een micro-omvormer kiezen
+
+Drie scenarios. Een: budget onder 6.000 euro totaal, eenvoudig zuiddak zonder schaduw — meerprijs micro lonend slechts marginaal. Twee: WLAN-coverage op zolder slecht — micro's communiceren elk apart en kunnen connectie-issues veroorzaken. Drie: woning gepland te verkopen binnen 5 jaar — eindwaarde van micro-systeem niet hoger dan string-systeem.
+
+## Veelgemaakte fouten 2026
+
+Vier valkuilen. Een: omvormer kiezen die 30 procent groter is dan paneelvermogen "voor de zekerheid" — kost 200-350 euro extra zonder rendementsvoordeel. Twee: omvormer in onverwarmde garage zonder ventilatie — leeftijd halveert door temperatuurschommelingen. Drie: combineren van merken (panelen merk A, optimizers merk B) — garantie afhankelijkheid wordt vaag. Vier: vergeten te controleren dat omvormer compliant is met Wet Salderingsverlaging 2027 — sommige oudere modellen rapporteren niet correct aan netbeheerder.
+
+**Hoe lang gaat een gemiddelde omvormer mee in NL?**
+String-omvormers: 12-15 jaar (premium 14-18 jaar). Micro-omvormers: 22-25 jaar (Enphase garantie). Hybride: 10-13 jaar wegens hogere thermische belasting van omvormer-electronica.
+
+**Mag ik een tweedehands omvormer kopen?**
+Technisch ja, maar garantie is meestal niet overdraagbaar. Bovendien is firmware-update soms niet meer mogelijk bij oudere modellen. Mijn advies: alleen bij uiterst gunstige prijs en mits laatste model van fabrikant.

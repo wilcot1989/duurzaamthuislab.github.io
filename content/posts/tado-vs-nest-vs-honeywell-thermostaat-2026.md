@@ -416,3 +416,28 @@ Ja, voor low-voltage thermostaat-aansluiting (24V) is dat veilig. Voor hoogspann
 
 **Wat is het verschil tussen Tado V3+ en Tado X?**
 X is nieuwer (2024), gebruikt Matter (universele smart home protocol), heeft betere processor en directe lokale bediening. V3+ is voldoende voor 90% gebruikers en goedkoper.
+
+## TCO 10 jaar met all-electric warmtepomp
+
+| Thermostaat | Aanschaf | Energiebesparing 10 jr | Onderhoud 10 jr | Netto besparing |
+|-------------|----------|-----------------------|------------------|------------------|
+| Tado V3+ | 219 | 2.400 | 100 | 2.081 |
+| Tado X | 279 | 2.520 | 60 | 2.181 |
+| Nest Learning 4 | 279 | 2.280 | 80 | 1.921 |
+| Honeywell Evohome | 489 (multi-zone) | 3.200 | 120 | 2.591 |
+
+Honeywell wint bij meer-zone woningen (4+ kamers gescheiden gestookt). Tado X is winnaar voor enkel-zone all-electric met sterke Matter-integratie. Nest valt iets achter omdat Google's algoritme minder agressief opwarmt — fijn voor comfort, suboptimaal voor besparing.
+
+## Mini case 2: 1 jaar Tado X jaren-90 villa Apeldoorn
+
+Klant met 240 m2 villa, hybride warmtepomp Atag + 4 vloerverwarmingszones. Geinstalleerd Tado X met 5 slimme radiatorknoppen, april 2025. Eerste jaar verbruik: 8.420 kWh + 280 m3 gas. Vergeleken met jaar voor installatie (zonder slimme thermostaat): 9.180 kWh + 410 m3 gas. Besparing eerste jaar 760 kWh + 130 m3 gas = circa 480 euro. Comfort-effect: woon-werkkamer pas opwarmen 30 min voor aankomst, slaapkamers vroege ochtend automatisch lager. Afschrijving Tado X complete set + radiatorknoppen 660 euro = terugverdientijd 1,4 jaar.
+
+## Wanneer NIET een slimme thermostaat aanschaffen
+
+Vier scenario's. Een: huur waar verhuurder geen wijziging toestaat aan thermostaat-bekabeling. Twee: blokverwarming of stadsverwarming met collectieve thermostaat — geen individuele invloed. Drie: goedkope ketel zonder OpenTherm — communicatie beperkt tot aan/uit, mist 60 procent van besparing. Vier: huishouden waar bewoners chronisch handmatig overschrijven — automatisering werkt niet. In die situaties bespaart een eenvoudige Honeywell-klok-thermostaat (49 euro) net zoveel als premium smart-modellen.
+
+**Werken deze drie merken met dynamische tarieven?**
+Tado V3+ en X: ja, via Tado Energy IQ + integratie Frank Energie of Tibber. Nest: nee, geen native dynamisch-tariefbewustzijn. Honeywell Evohome: ja via IFTTT-koppeling, maar geen native interface.
+
+**Wat gebeurt er bij internetstoring?**
+Tado V3+ blijft basaal werken (laatste schema), bediening via fysieke knoppen. Tado X heeft volledige lokale bediening via Matter. Nest verlaat valt terug op laatst bekende setting. Honeywell Evohome werkt volledig lokaal — beste keus voor offline-betrouwbaarheid.

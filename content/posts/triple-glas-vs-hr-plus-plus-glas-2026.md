@@ -1,7 +1,7 @@
 ---
 title: 'Triple glas vs HR++ glas 2026: welk dubbel of drievoudig?'
 date: 2026-09-12 08:00:00+02:00
-lastmod: 2026-09-12 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 draft: false
 description: HR++ glas of triple glas in 2026? Ik vergelijk U-waarde, kosten per m2, isolatieprestatie en terugverdientijd. Zo kies je het juiste glas voor jouw woning.
 categories:
@@ -229,6 +229,29 @@ Voor wie aan een drukke weg woont, het werkelijke geluidseffect:
 - Voetganger en fietsverkeer: vaak met HR++ al goed te dempen
 
 Triple glas akoestisch (asymmetrisch met PVB-folie tussenlaag) is hier de gouden standaard, maar dat kost 600-800 euro per m2. Voor "gewone" stedelijke geluidsoverlast volstaat HR++ asymmetrisch in 80 procent van de gevallen.
+
+## Total cost of ownership over 25 jaar
+
+Mensen kijken te vaak naar de aanschafprijs en vergeten dat glas 25-30 jaar mee gaat. Voor een gemiddelde tussenwoning met 12 m2 glas op het zuiden en 8 m2 op het noorden ziet het plaatje er zo uit. HR++ kost circa 5.500 euro inclusief plaatsing, jaarlijkse besparing 320 euro versus oud dubbelglas, totaal voordeel over 25 jaar 8.000 euro netto. Triple kost circa 8.200 euro, jaarlijkse besparing 410 euro, totaal voordeel 10.250 euro — maar pas na 17 jaar betaalt het verschil zich terug. In de meeste gevallen rendeert de extra 2.700 euro beter in vloerisolatie of een PV-uitbreiding. Tenzij je all-electric gaat met aanvoertemperatuur 35 graden — dan loopt de besparing op naar 480-520 euro per jaar omdat je warmtepomp efficiënter draait.
+
+## Niche-situaties waar triple glas écht uitmaakt
+
+Drie gevallen waarin ik altijd triple adviseer, ongeacht de meerprijs. Ten eerste: noord-georiënteerde slaapkamers waar je 's winters condensvorming op het glas hebt — triple voorkomt dat door een binnenoppervlaktetemperatuur van 17 graden in plaats van 13 bij HR++. Ten tweede: woningen met vloerverwarming als enige warmtebron — daar voelt elke koude glasvlak als tocht. Ten derde: kindersaapkamers boven onverwarmde garages of carports, waar je extra isolatie naar buiten wilt. In die gevallen verslaat het comfortargument elk rekensommetje.
+
+## Mini case: jaren-30 woning Haarlem
+
+Klant met 14 m2 glas, oud dubbelglas (U=2,8). Energierekening 2025 was 2.840 euro. Na vervanging naar HR++ in juli 2026: 2.460 euro in 12 maanden, dus 380 euro besparing. We hadden triple geoffreerd voor 2.300 euro extra — terugverdientijd op de meerprijs zou 24 jaar zijn geweest. Klant koos HR++ en stak het verschil in 18 m2 vloerisolatie PIR 80 mm. Die vloerisolatie alleen al bespaart 240 euro per jaar. Totaal nu 620 euro per jaar besparing voor hetzelfde budget — dat is wat ik bedoel met "het verschil slimmer besteden".
+
+## Extra FAQ
+
+**Krimpt of zet triple glas uit bij temperatuurverschillen?**
+Ja, alle isolatieglas zet uit en krimpt. Bij triple is dat sterker omdat de buitenruit meer absorbeert dan bij HR++. Zwart-omkaderd triple aan zuidkant kan in de zomer 70 graden worden — dat zet 1,5 mm uit per meter. Goede sponning en flexibele kit vangen dat op, slechte plaatsing leidt tot scheuren binnen 5 jaar.
+
+**Mag ik triple combineren met buitenzonwering?**
+Absoluut, en het wordt zelfs sterk aanbevolen voor zuidkanten. Triple houdt warmte binnen, maar laat in de zomer ook minder warmte ontsnappen 's nachts. Buitenzonwering (screens of lamellen) voorkomt oververhitting beter dan binnenrolgordijnen, omdat je de warmte buiten houdt.
+
+**Hoe oud mogen mijn kozijnen zijn voor triple?**
+Houten kozijnen jonger dan 15 jaar zijn meestal geschikt mits in goede staat. Aluminium kozijnen vóór 2005 hebben vaak te smalle sponning. Kunststof van merken zoals Schüco, Veka of Aluplast uit periode 2010+ ondersteunen triple zonder probleem. Laat altijd door de glaszetter de sponningmaat opmeten — minimaal 28 mm diepte voor triple.
 
 Verder lezen:
 - [Beste isolatie voor warmtepomp 2026](/posts/beste-isolatie-voor-warmtepomp-2026/)

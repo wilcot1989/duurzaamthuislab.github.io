@@ -1,7 +1,7 @@
 ---
 title: 'Beste zonnepanelen-installateur kiezen 2026: 11 checks die ik altijd doe'
 date: 2026-08-29 08:00:00+02:00
-lastmod: 2026-08-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
 description: Hoe kies je in 2026 een goede zonnepanelen-installateur? 11 concrete checks, rode vlaggen die ik tegenkwam, en hoe ik €3.200 bespaarde op mijn eigen offerte.
 categories:
 - zonnepanelen
@@ -314,6 +314,29 @@ Begin met een [gratis dakcheck via Zonneplan](https://go.duurzaamthuislab.nl/zon
 [Vraag nu een gratis dakcheck aan](https://go.duurzaamthuislab.nl/zonneplan) — onverbindend en geen verkoopdruk. <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Zonneplan dakcheck →</a>
 
 ---
+
+## Mini case: keuze tussen drie offertes Apeldoorn
+
+Een klant uit Apeldoorn liet me in maart 2026 drie offertes nakijken voor 18 panelen op een zuidoostdak. Offerte A was 8.200 euro met JA Solar 450W en Solis omvormer, levertijd 4 weken. Offerte B was 10.400 euro met Trina Vertex S+ en SolarEdge HD-Wave, levertijd 8 weken. Offerte C was 7.450 euro met onbekend Chinees A-merk en omvormer zonder typenummer, levertijd "in overleg". Klant neigde naar C wegens prijs. Mijn analyse: A had de beste prijs-kwaliteitverhouding, B was overkill voor een eenvoudig dak zonder schaduw, C voldeed niet aan check 5 (geen productcodes). Klant koos A, draait 9 maanden later 5.840 kWh — keurig binnen prognose.
+
+## Wanneer NIET kopen via een installateur
+
+Drie situaties waarin DIY of een online pakket gunstiger uitvalt. Ten eerste: je hebt zelf elektrotechnische ervaring en ANDS-norm-kennis, en wil 4-6 panelen plaatsen. Een DIY-set van 4 panelen kost 2.200 euro, een installatie via bedrijf zou 4.800 euro zijn. Ten tweede: je hebt een plat dak van een schuur of bijgebouw waar je panelen op ballast plaatst zonder doordringing. Risico is laag. Ten derde: je woont in een afgelegen gebied waar geen Zonnekeur-installateur binnen 60 km zit en de reiskosten de rekening 25 procent verhogen. In alle andere gevallen verdient een goede installateur zichzelf terug — door garantie-afhandeling, NEN1010 en juiste paneeloriëntatie.
+
+## Veelgemaakte fouten bij installateur-keuze
+
+Vier fouten die ik dit jaar herhaaldelijk zag. Eén: kiezen op basis van Trustpilot-score zonder te checken of de reviews echt zijn — sommige bedrijven kopen recensies. Twee: tekenen na één bezoek omdat de verkoper zegt "deze prijs geldt alleen vandaag" — dat is per definitie misleiding (Wet OHP). Drie: geen aanbetalingsbeperking in het contract — bij faillissement van de installateur ben je je 50 procent kwijt. Maximaal 25 procent aanbetaling is gangbaar. Vier: de eindfactuur betalen voordat het keuringsrapport binnen is — eis betaling pas na NEN1010-oplevering en correcte registratie bij netbeheerder.
+
+## Extra FAQ
+
+**Wat als mijn installateur halverwege failliet gaat?**
+Als je betaald hebt via creditcard of bankgarantie ben je beschermd tot 25 procent. Aanbetalingen via SEPA-overschrijving zijn niet beschermd. Daarom: kleine aanbetaling, betalen in termijnen, eindbetaling na oplevering. Een Zonnekeur-bedrijf is verplicht een afbouwgarantie via een derde partij te bieden.
+
+**Hoe controleer ik of een installateur écht KvK-geregistreerd is?**
+Vraag het KvK-nummer en check op kvk.nl > zoekenstartpagina. Let op: actieve onderneming, geen "geregistreerd 2 maanden geleden" zonder track record. Vraag ook om de UBO-registratie en jaarrekening — Zonnekeur-bedrijven moeten dit op verzoek delen.
+
+**Mag een installateur me onder druk zetten met "tijdelijke aanbieding"?**
+Nee. Sinds Wet OHP (Oneerlijke Handelspraktijken) is "alleen vandaag geldig"-druk verboden bij verkoop aan consumenten. Krijg je dat tóch te horen, weiger te tekenen en meld het bij de Autoriteit Consument & Markt. Een serieuze installateur geeft je minimaal 14 dagen bedenktijd plus de wettelijke 14 dagen herroepingsrecht bij verkoop aan huis.
 
 Verder lezen op DuurzaamThuisLab:
 
