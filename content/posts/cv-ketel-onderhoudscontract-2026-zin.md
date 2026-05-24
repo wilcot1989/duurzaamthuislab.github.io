@@ -54,7 +54,6 @@ products:
   price: '5995'
 schema_type: Article
 ---
-
 Twee jaar geleden belde ik een installateur voor de jaarlijkse servicebeurt van mijn Remeha Tzerra. Aan het einde van het gesprek vroeg hij of ik interesse had in een servicecontract. "€220 per jaar, alles inclusief." Ik vroeg wat dat betekende. "Onderhoud, reparaties, voorrijkosten, storingsdienst 24/7." Hij voegde eraan toe: "Dat is echt een koopje. Je weet toch nooit wanneer hij het begeeft."
 
 Ik heb nee gezegd. En ik heb er geen spijt van gehad — maar niet iedereen heeft dezelfde situatie.
@@ -62,6 +61,11 @@ Ik heb nee gezegd. En ik heb er geen spijt van gehad — maar niet iedereen heef
 Dit artikel is voor iedereen die die vraag kent: moet ik een onderhoudscontract nemen of niet? Ik ga de rekensommetjes eerlijk maken, de kleine lettertjes doorlopen en je helpen een beslissing te nemen die past bij jouw ketel, jouw woning en jouw risicobereidheid.
 
 ---
+
+
+> **Kort antwoord:** Is een cv-ketel onderhoudscontract de moeite waard? Ik bereken wat het echt kost versus eenmalige reparatie en wanneer het wel of niet loont.
+>
+> Een cv-ketel moet minimaal eens per twee jaar worden onderhouden, en bij voorkeur jaarlijks. De fabrikant schrijft dit doorgaans voor om de garantie te behouden. Bij jaarlijks onderhoud wordt de brander gereinigd, de verbrandingslucht gecontroleerd en de waterdruk gecheckt. Dat verlengt de levensduur en voorkomt storingen.
 
 ## Wat zit er precies in een onderhoudscontract?
 
@@ -402,3 +406,7 @@ Niet elke installateur die "cv-onderhoud" aanbiedt is even betrouwbaar. Hier zij
 - [Beste Energiemonitor 2026: P1 Meter Vergelijking](/posts/beste-energiemonitor-p1-meter-2026/)
 - [Dynamische Energiecontracten Vergelijking 2026](/posts/dynamische-energiecontracten-vergelijking-2026/)
 - [Dynamische stroomprijzen per uur in 2026: goedkoopste](/posts/dynamische-prijzen-gemiddeld-uur-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

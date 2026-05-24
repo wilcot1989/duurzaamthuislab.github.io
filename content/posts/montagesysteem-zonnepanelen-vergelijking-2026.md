@@ -51,12 +51,16 @@ products:
   url: https://www.vdvsolarsystems.com/
   price: '38'
 ---
-
 Een installateur uit Zwolle vroeg me afgelopen voorjaar mee voor een dakinspectie. Een klant had 3 jaar geleden 14 zonnepanelen laten plaatsen door een budget-installateur, en nu zaten de panelen los. Het hele systeem moest op het dak vervangen — kosten €1.800 voor het juiste montagesysteem. De originele besparing van €350 op een goedkope Chinese montagekit had de klant uiteindelijk €2.150 gekost.
 
 Het montagesysteem is het meest onderschatte onderdeel van een zonnepanelinstallatie. Het hangt of valt letterlijk met je dak. Hieronder mijn complete vergelijking van de top-merken in 2026 — wat te kiezen voor welk type dak.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Welk montagesysteem voor zonnepanelen kies je? Vergelijking van schroefsystemen, klemsystemen, ballast voor plat dak. Mijn ervaring met K2, Esdec, Van der Valk en Mounting Systems.
+>
+> Voor een schuin dak: €25-€45 per paneel inclusief montagebeugels, rails en kleinmateriaal. Voor plat dak met ballast: €40-€80 per paneel. Specialistische dakhaken voor leien of riet: €60-€120 per paneel.
 
 ## Wat is een montagesysteem?
 
@@ -402,3 +406,7 @@ Speciale ballast-systemen zoals Renusol MetaSole Green of K2 D-Dome combineren e
 
 **Mag ik panelen later toevoegen aan bestaand systeem?**
 Alleen bij modulaire systemen (K2 SingleRail, Esdec FlatFix) en mits oorspronkelijke ballast/bouten verlengbaar. Vraag bij installatie altijd om "uitbreidingsruimte 30 procent" zodat je later 4-6 extra panelen kunt bijplaatsen zonder volledig herbouwen.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

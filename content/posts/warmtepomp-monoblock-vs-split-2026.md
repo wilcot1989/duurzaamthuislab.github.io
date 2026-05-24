@@ -54,7 +54,6 @@ products:
   price: '9800'
 schema_type: Article
 ---
-
 Drie maanden geleden vergeleek ik twee offertes voor een warmtepomp-installatie in een vrijstaande woning. Beide offertes waren van kwalitatieve installateurs. Het eerste systeem: een monoblock. Het tweede: een split. Prijsverschil: €1.800 in het voordeel van de monoblock.
 
 De eigenaar belde me: "Monoblock is goedkoper. Dan neem ik toch die?" Ik antwoordde: "Dat hangt ervan af. Vertel me eerst waar u de buitenunit wilt plaatsen en hoe oud uw huis is."
@@ -64,6 +63,9 @@ Want de keuze tussen monoblock en split is geen technische trivialiteit. Het hee
 In dit artikel leg ik het verschil uit en wanneer elk systeem de betere keuze is.
 
 ---
+
+
+> **Kort antwoord:** Configuratie-keuze warmtepomp: geluid, plaatsing, prijs en installatie vergeleken voor de Nederlandse situatie.
 
 ## Wat is een monoblock en wat is een split?
 
@@ -385,3 +387,7 @@ Veel gemeenten bieden leningen van 0-2% rente voor warmtepompen. Gecombineerd me
 - [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
 - [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

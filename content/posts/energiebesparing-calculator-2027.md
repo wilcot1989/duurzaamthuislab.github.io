@@ -38,8 +38,12 @@ products:
   price: '6'
 schema_type: Article
 ---
-
 De saldering stopt per 1 januari 2027. Maar hoeveel kost dat jou specifiek? Dat hangt af van hoeveel zonnepanelen je hebt, hoeveel je terugleverd en of je een dynamisch contract hebt. Vul hieronder jouw gegevens in en je ziet het verschil in seconden.
+
+
+> **Kort antwoord:** Hoeveel kost de saldering-stop jou? Vul jouw kWh-verbruik en zonnepanelen-capaciteit in en zie het €/jaar verschil 2026 vs 2027 direct.
+>
+> De voordelen staan in detail uitgelegd in de bovenstaande secties.
 
 ## Saldering impact calculator 2027
 
@@ -368,3 +372,7 @@ Lezers stuurden de afgelopen drie maanden vragen die de calculator niet automati
 **Wat als mijn buurman een grote installatie heeft naast me?** Bij hoge zomer-piek-instraling kan jouw teruglevering door netcongestie geweigerd worden — slimme meter logt dat als "curtailment". In de calculator niet zichtbaar, in de praktijk 2-7 procent verlies.
 
 **Hoe ga ik om met BTW-retour?** Bij gezamenlijke aanschaf (panelen + batterij) tot 2027 nog BTW-aftrekbaar voor particulieren onder de zonnepanelen-regeling. Calculator gaat uit van bruto-prijs — corrigeer netto met €420-€800.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -52,7 +52,6 @@ products:
   price: '6995'
 schema_type: Article
 ---
-
 Mijn klant Jeroen reed vorig jaar zijn eerste volle jaar in een Ioniq 5. Zonnepanelen op het dak, een Sessy in de meterkast, en een 11 kW laadpaal in de garage. Hij was ervan overtuigd dat hij slim bezig was: zonnestroom opslaan in de batterij, auto laden als de zon schijnt, 's avonds de rest uit de batterij halen.
 
 Zijn rekening na een jaar: de verwachte besparing bleef €400 achter op de berekening.
@@ -67,6 +66,11 @@ In dit artikel reken ik uit wanneer EV laden via een thuisbatterij wél loont, w
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Slim je elektrische auto laden via een thuisbatterij: wanneer verdien je er echt aan? Rekenvoorbeelden met dynamisch contract, Sessy.
+>
+> Ja, technisch kan dat. Je thuisbatterij laadt overdag met zonne-energie en 's avonds laad je je auto via de thuisbatterij of rechtstreeks uit het net. Met bidirectionele technologie (V2H) kun je de auto-accu ook als thuisbatterij gebruiken.
+
 ## Hoe werkt de combinatie eigenlijk?
 
 Een thuisbatterij slaat energie op en geeft die af. Een elektrische auto heeft ook een accu — in veel gevallen groter dan de thuisbatterij. De vraag is hoe je die twee op elkaar afstemt.
@@ -395,3 +399,7 @@ En als je een Ioniq 5 of EV6 wilt kopen: de bidirectionele functie is gratis mee
 - [Saldering stopt 2027: wat moet je nu doen?](/posts/saldering-stopt-2027-volledige-gids/)
 - [Thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)
 - [Thuisbatterij subsidie 2026: volledig overzicht](/posts/thuisbatterij-subsidie-2026-overzicht/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -51,7 +51,6 @@ products:
   price: '10500'
 schema_type: Article
 ---
-
 Vorig jaar belden twee buren me binnen één maand. De ene wilde Quatt, de andere had offerte van Vaillant. Beiden vroegen: "Mark, wat zou jij kiezen?" In plaats van een mening te geven, vroeg ik of ik een jaar mocht meekijken. Ze zijn akkoord gegaan en ik heb 12 maanden lang COP, stroomverbruik, geluid en servicemomenten genoteerd.
 
 *Disclosure: ik heb geen affiliate-relatie met Quatt of Vaillant. Cijfers komen uit echte huishoudens in mijn straat.*
@@ -59,6 +58,11 @@ Vorig jaar belden twee buren me binnen één maand. De ene wilde Quatt, de ander
 ---
 
 💡 *Twijfel je over warmtepomp of cv-ketel houden? Lees [warmtepomp vs cv-ketel 2026](/posts/warmtepomp-vs-cv-ketel-2026/) voor de basis-rekening.*
+
+
+> **Kort antwoord:** Quatt of Vaillant warmtepomp in 2026? Ik vergeleek beide systemen bij twee buren — COP, geluid, kosten en service. Eerlijke conclusie en advies.
+>
+> Quatt hybride pakket: €4.495 inclusief installatie en eerste jaar service-abonnement. Vaillant aroTHERM Plus 5 kW met buffervat en installatie: €8.500-€11.500 afhankelijk van bestaande situatie. Quatt is ongeveer 40-55% goedkoper bij start, maar Vaillant gaat 18-22 jaar mee versus 12-15 jaar bij Quatt.
 
 ## De twee huishoudens
 
@@ -367,3 +371,7 @@ Quatt: snelle ticket-respons (24u), vaste partner-installateurs. Vaillant: tradi
 
 **Kan ik Quatt later upgraden naar vol-elektrisch?**
 Niet zonder hardware-vervanging. Quatt is hybride-only. Plan dit vooraf in.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

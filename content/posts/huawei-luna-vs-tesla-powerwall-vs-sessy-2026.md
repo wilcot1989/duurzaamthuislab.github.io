@@ -50,12 +50,16 @@ products:
   price: '6000'
 schema_type: Article
 ---
-
 Drie jaar geleden had je amper keus als je een thuisbatterij wilde in Nederland. Nu is de markt vol, en zijn de drie namen die telkens terugkomen de Huawei Luna 2000, de Tesla Powerwall 3 en de Nederlandse nieuwkomer Sessy. Ik heb met alle drie gewerkt — als adviseur, en in het geval van de Huawei Luna ook thuis. In dit artikel geef ik je een eerlijk beeld van de verschillen, de kosten en de vraag: welke past bij jouw situatie?
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Huawei Luna 2000, Tesla Powerwall 3 en Sessy naast elkaar: prijs, capaciteit, slimheid en terugverdientijd vergeleken voor de Nederlandse markt in 2026.
+>
+> De Huawei Luna 2000 begint het goedkoopst per kWh (€570-€760/kWh), gevolgd door de Sessy (ca. €750/kWh). De Tesla Powerwall 3 is het duurst in aanschaf (€8.500-€9.500) maar heeft wel de grootste vaste capaciteit van 13,5 kWh.
 
 ## Snelle vergelijking op hoofdpunten
 
@@ -457,3 +461,7 @@ Als toekomstbestendigheid jouw hoogste prioriteit is: Tesla Powerwall 3. Als pri
 - [Sessy review 2026: eerlijke test van de Nederlandse](/posts/sessy-review-thuisbatterij-nederland/)
 - [Sessy Radar 2026: software-update + dynamisch](/posts/sessy-software-update-2026-radar/)
 - [Thuisbatterij Zonder Zonnepanelen: Heeft Het Zin in 2027?](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

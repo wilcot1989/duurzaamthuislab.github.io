@@ -47,7 +47,6 @@ products:
   price: '3499'
 schema_type: Article
 ---
-
 Twee jaar geleden kreeg ik een vraag van een buurman: "Mark, ik heb gehoord dat je straks gewoon waterstof thuis kunt opslaan. Is dat wat voor mij?" Ik gaf hem toen een voorzichtig antwoord. Nu, twee jaar later, kan ik een eerlijker antwoord geven: waterstof thuis is in 2026 grotendeels nog steeds toekomstmuziek voor particulieren. Maar het klopt wel dat de technologie vordert.
 
 Dit artikel is een eerlijke hype-check. Geen verkoopverhalen, geen pessimisme — gewoon wat de stand van zaken is, wat er concreet beschikbaar is, en wanneer je waterstof thuis serieus kunt overwegen.
@@ -55,6 +54,11 @@ Dit artikel is een eerlijke hype-check. Geen verkoopverhalen, geen pessimisme �
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Waterstof thuis in 2026: eerlijke hype-check. Wat kun je nu echt kopen? Wat kost een waterstof thuissysteem? En wanneer wordt het interessant?
+>
+> Technisch gezien wel: er zijn kleine elektrolyseurs beschikbaar (o.a. LAVO-systeem uit Australië, Picea van HPS). Maar de prijs (€30.000-€50.000+ voor een compleet systeem), beperkingen op thuisopslag van waterstof en het gebrek aan gecertificeerde installateurs in Nederland maken het in 2026 onpraktisch voor de gemiddelde particulier.
 
 ## Wat bedoelen we eigenlijk met "waterstof thuis"?
 
@@ -427,3 +431,7 @@ De eenvoudigste handeling die je nu kunt doen: installeer een bewezen thuisbatte
 - [Beste Energiemonitor 2026: P1 Meter Vergelijking](/posts/beste-energiemonitor-p1-meter-2026/)
 - [Cv-ketel onderhoudscontract 2026: heb je het echt nodig?](/posts/cv-ketel-onderhoudscontract-2026-zin/)
 - [Dynamische Energiecontracten Vergelijking 2026](/posts/dynamische-energiecontracten-vergelijking-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

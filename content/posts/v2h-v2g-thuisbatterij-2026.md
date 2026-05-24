@@ -42,10 +42,14 @@ products:
 schema_type: Article
 last_updated: '2026-04-29'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "V2H en V2G in Nederland? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** V2H (vehicle-to-home) en V2G (vehicle-to-grid) komen op gang. Welke autos kunnen het, welke laadpalen ondersteunen het en wanneer is het rendabel?
+>
+> V2H (vehicle-to-home) levert stroom uit je auto naar je huis, V2G ook naar het net. V2G heeft contract met netbeheerder nodig, V2H niet. In Nederland is V2H technisch al mogelijk, V2G is in pilotfase.
 
 ## Korte conclusie
 
@@ -308,3 +312,7 @@ Praktisch min 40 kWh om huis 8 uur te ondersteunen. Onder 30 kWh is V2H niet zin
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-08-06 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

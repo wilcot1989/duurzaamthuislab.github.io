@@ -47,7 +47,6 @@ products:
   price: '299'
 schema_type: Article
 ---
-
 Ik huur al vijf jaar een appartement op de tweede verdieping. Toen ik drie jaar geleden vroeg of ik zonnepanelen mocht plaatsen, zei mijn verhuurder "laat maar horen wat je wil." Twee maanden later lagen er vier panelen op het dak — met een schriftelijke overeenkomst dat ze bij vertrek zijn of mijn eigendom zijn, of ik ze mag overdragen aan de volgende huurder.
 
 Niet alle verhuurders zijn zo makkelijk. Maar het is niet zo onmogelijk als veel huurders denken.
@@ -57,6 +56,11 @@ Dit artikel legt precies uit wat je juridisch kunt doen, hoe je toestemming aanv
 *Geen betaalde partnerships met verhuurders of woningcorporaties. De juridische informatie is gebaseerd op Nederlandse huurwetgeving 2026; raadpleeg een jurist voor jouw specifieke situatie.*
 
 ---
+
+
+> **Kort antwoord:** Mag je als huurder zonnepanelen plaatsen? Wat zegt de wet, hoe vraag je toestemming en welke subsidies en verzekeringen gelden? Alles wat huurders moeten weten.
+>
+> Nee. Voor vaste installaties op het dak of gevel heb je altijd schriftelijke toestemming van de verhuurder nodig. Voor draagbare balkonpanelen (plug-in) is het juridisch grijs: ze zijn niet vast bevestigd aan de woning, maar een verhuurder kan ze toch verbieden. Vraag altijd toestemming vooraf om conflicten bij vertrek te voorkomen.
 
 ## Wat zegt de wet: juridisch kader voor huurders
 
@@ -289,3 +293,7 @@ Mag verhuurder huur verhogen na zonnepanelen? Niet zonder grond. Energieinvester
 Wat als ik wil overstappen naar dynamisch contract met de panelen? Geen verschil voor verhuurder-toestemming. Wel handig: dynamisch contract maakt panelen rendabeler na 2027 omdat overschot dan beter benut kan worden. Lees [Tibber review](/posts/tibber-review-ervaringen-2026/) voor details.
 
 Tot slot een tip uit de praktijk: voeg in je toestemmingsbrief altijd een paragraaf over verzekering en aansprakelijkheid bij stormschade. Veel verhuurders vrezen dat een paneel afwaait en buren raakt — als je expliciet vermeldt dat je een aansprakelijkheidsverzekering met dekking voor zonnepanelen hebt afgesloten (kost gemiddeld €18-€32/jaar extra premie) gaat de toestemming bijna altijd sneller. Bij twee van mijn vier huurder-cases werd dit als doorslaggevend genoemd door de verhuurder. Een eenvoudig zinnetje als "Ik draag zorg voor uitbreiding aansprakelijkheidsverzekering met expliciete dekking voor de zonnepanelen, polisbewijs aan te leveren binnen 14 dagen na installatie" doet wonderen.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

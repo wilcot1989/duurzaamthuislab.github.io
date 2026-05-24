@@ -42,7 +42,6 @@ products:
   price: '9000'
 schema_type: Article
 ---
-
 Mijn Vaillant hybride warmtepomp draait het efficients op de vloerverwarming in mijn woonkamer — daar haalt hij een COP van 4,5 bij 35°C watertemperatuur. Op de radiatoren in de slaapkamers (60°C nodig) zakt de COP naar 2,8. Dat verschil is bijna 40% meer stroomverbruik. Als je overweegt een warmtepomp te nemen, is vloerverwarming de investering die het rendement maakt of breekt.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -51,6 +50,11 @@ Zoek je een warmtepomp? Lees onze [top 5 hybride warmtepompen](/posts/beste-hybr
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Waarom vloerverwarming en een warmtepomp de ideale combinatie zijn. Kosten, besparing, installatietips en wanneer het wel en niet rendabel is.
+>
+> Vloerverwarming werkt op lage watertemperatuur (30-40°C) terwijl radiatoren 60-70°C nodig hebben. Een warmtepomp is het efficiëntst bij lage temperaturen: de COP stijgt van 2,5-3,0 (bij 60°C) naar 4,0-5,0 (bij 35°C). Dit betekent 30-50% lagere energiekosten.
+
 ## Waarom deze combinatie zo goed werkt
 
 ### Het COP-effect
@@ -362,3 +366,7 @@ Slaapkamers met vloerverwarming zijn comfortabel maar niet altijd zinvol. De mee
 ---
 
 *Laatst bijgewerkt: mei 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

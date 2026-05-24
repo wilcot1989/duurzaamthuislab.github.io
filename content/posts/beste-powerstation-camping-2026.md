@@ -50,7 +50,6 @@ products:
   price: '349'
 schema_type: Article
 ---
-
 Vorig jaar heb ik op de camping mijn compressorkoelbox, telefoons en LED-verlichting drie dagen gevoed met een enkel powerstation en een opvouwbaar zonnepaneel. Geen aggregaat, geen lawaai, geen gedoe. Ik heb daarna nog vier andere modellen getest en precies bijgehouden hoeveel Wh ik per campingdag verbruikte (gemiddeld 420 Wh). Dit zijn de 5 powerstations die ik zou aanraden voor kampeerders.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
@@ -59,6 +58,11 @@ Vorig jaar heb ik op de camping mijn compressorkoelbox, telefoons en LED-verlich
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De 5 beste powerstations voor camping in 2026. Vergelijk gewicht, vermogen, draagbaarheid en zonnepaneel-opladen voor kampeerders.
+>
+> De EcoFlow River 2 Pro biedt de beste balans tussen capaciteit (768Wh), gewicht (7,8 kg) en laadsnelheid. Voor grotere gezinnen of langere trips is de Jackery Explorer 1000 Plus een betere keuze.
+
 ## Waar moet je op letten bij een camping-powerstation?
 
 Voordat we de modellen vergelijken, is het belangrijk om te weten welke eigenschappen er echt toe doen voor campinggebruik:

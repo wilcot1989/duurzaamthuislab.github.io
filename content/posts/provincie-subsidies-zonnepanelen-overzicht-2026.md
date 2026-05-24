@@ -50,12 +50,16 @@ products:
   url: https://www.quatt.nl/
   price: '8500'
 ---
-
 Een buurman uit Apeldoorn vroeg mij vorig jaar of er buiten ISDE en BTW-teruggave nog wat te halen viel. "Ik dacht alle subsidies waren al benut." Na 30 minuten onderzoek bleek hij recht te hebben op €1.250 Gelderse provinciale subsidie via "Stimuleringsregeling Duurzame Initiatieven Gelderland" — gecombineerd met een gemeente-subsidie Apeldoorn van €450. Plus zijn nationale Energiebespaarlening tegen 1,9% rente. Totaal extra voordeel: €1.700 + lage rente.
 
 Veel mensen weten niet wat hun provincie biedt. Hieronder een overzicht voor 2026, plus stappenplan om optimaal te benutten.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Provincie-subsidies voor zonnepanelen in 2026: overzicht per provincie. Welke fondsen zijn beschikbaar, hoe vraag je aan, en welke combineren met landelijke regelingen.
+>
+> In 2026: Gelderland, Noord-Holland, Zuid-Holland, Limburg, Friesland en Overijssel hebben actieve fondsen. Bedragen variëren €250-€2.500 per huishouden afhankelijk van regeling en pand-type.
 
 ## Overzicht per provincie (peildatum april 2026)
 

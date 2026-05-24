@@ -39,10 +39,14 @@ products:
 schema_type: Article
 last_updated: '2026-04-29'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "AGM vs LiFePO4 voor thuisgebruik 2026? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** AGM (loodzuur) is goedkoop, LiFePO4 (lithium-ijzer-fosfaat) is veilig en gaat lang mee. Ik vergelijk beide voor off-grid en netgekoppelde thuisbatterijen.
+>
+> Vuistregel: 1 kWh per MWh jaarverbruik bij dynamisch contract zonder zon, of 1 kWh per 1.000 kWh teruglevering. Voor doorsnee gezin (3.500 kWh) is 5-10 kWh meestal optimaal.
 
 ## Korte conclusie
 
@@ -297,3 +301,7 @@ Bij 1 cycle per dag en 80 procent DoD: 12-15 jaar tot 80 procent capaciteit. AGM
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-08-30 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

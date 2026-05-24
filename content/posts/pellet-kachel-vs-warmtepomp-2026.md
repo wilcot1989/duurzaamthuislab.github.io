@@ -47,7 +47,6 @@ products:
   price: zie artikel
 schema_type: Article
 ---
-
 Een lezer stuurde mij vorige winter een foto van zijn verwarmingsrekening: €1.840 gas, €0 warmtepomp. Hij overweegt een pelletkachel als tussenoplossing op weg naar volledig gasloos. Slim of niet? Dat is precies de vraag die ik in dit artikel beantwoord.
 
 Want de discussie pelletkachel vs. warmtepomp is complexer dan veel verduurzaamde-huis-blogs doen voorkomen. Het gaat niet alleen om centen per kWh, maar ook om luchtkwaliteitswetgeving, subsidies die er niet meer zijn, en de vraag of hout stoken in 2026 überhaupt nog verantwoord is.
@@ -55,6 +54,11 @@ Want de discussie pelletkachel vs. warmtepomp is complexer dan veel verduurzaamd
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Houtstook in 2026 — wettelijk kader, fijnstof-regels, kosten en CO2-impact vergeleken met warmtepomp.
+>
+> Ja, pelletkachels zijn in 2026 nog legaal in Nederland. Er gelden wel emissie-eisen (Ecodesign 2022 certificering verplicht) en lokale gemeenten kunnen stookverboden instellen bij slechte luchtkwaliteit. Er is geen landelijk verbod op pelletkachels.
 
 ## De energietransitie en houtstook: waar staan we in 2026?
 
@@ -408,3 +412,7 @@ Een pelletkachel is in 2026 legaal, maar niet meer subsidiabel en financieel min
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
 - [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
 - [Vaillant aroTHERM plus review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -51,7 +51,6 @@ products:
   price: '2299'
 schema_type: Article
 ---
-
 Mijn buurman Henk koopt dit jaar een warmtepomp. Budget: €5.000. Zijn huis: een doorzonwoning uit 1978, label D, radiatoren op de begane grond die aanvoertemperaturen van 70°C nodig hebben. Ik moest hem teleurstellen: voor die situatie en dat budget is een volwaardige lucht-water warmtepomp óf te duur, óf ongeschikt.
 
 Maar er was een andere optie die ik hem kon aanraden: een split-airco met reverse-cycle technologie. Voor €2.200 geïnstalleerd verwarmde zijn woonkamer van 35 m² de hele winter op €180 aan stroom — en in de zomer koelt hij ermee. Zijn gasrekening daalde met €320.
@@ -59,6 +58,11 @@ Maar er was een andere optie die ik hem kon aanraden: een split-airco met revers
 Is dat een warmtepomp? Technisch gezien: ja. Praktisch: het is een tussenoplossing. En die tussenoplossing is voor veel mensen precies wat ze nodig hebben.
 
 ---
+
+
+> **Kort antwoord:** Reverse-cycle airco als budget-warmtepomp: wanneer wel, wanneer niet. COP, geluid, plaatsing en prijs vergeleken voor 2026.
+>
+> Ja. De meeste moderne split-airco's zijn reverse-cycle: ze kunnen warmte uit de buitenlucht halen en naar binnen brengen, ook bij temperaturen tot -15°C (bij sommige modellen). Bij -7°C buitentemperatuur haalt een goede split-airco nog altijd een COP van 1,5 tot 2,5 — veel efficiënter dan een elektrisch kacheltje.
 
 ## Wat is een reverse-cycle split-airco?
 
@@ -350,3 +354,7 @@ Als u overweegt een split-airco aan te schaffen als verwarmings- en koeloplossin
 - [Warmtepomp monoblock vs split 2026: keuze gids](/posts/warmtepomp-monoblock-vs-split-2026/)
 - [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
 - [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

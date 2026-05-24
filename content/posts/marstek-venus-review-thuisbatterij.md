@@ -56,7 +56,6 @@ products:
   price: '6'
 schema_type: Review
 ---
-
 In januari 2026 kocht een collega van mij een Marstek Venus E 8,2 kWh voor €2.299. Hij had geen zin in €5.500 voor een Sessy, en wilde gewoon snel resultaat. Vier maanden later vroeg ik hem of ik zijn data mocht analyseren. Hier is mijn rapport — en de eerlijke conclusie of Marstek écht het bedrag waard is dat het prijsverschil suggereert.
 
 *Disclosure: ik heb geen affiliate-relatie met Marstek (April 2026). Mijn analyse is gebaseerd op data van een collega, en op publieke specificaties.*
@@ -65,6 +64,11 @@ In januari 2026 kocht een collega van mij een Marstek Venus E 8,2 kWh voor €2.
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Marstek Venus is de goedkoopste plug-and-play thuisbatterij van Nederland. Eerlijke review na 4 maanden testen — werkt het écht zo simpel als beloofd?
+>
+> Marstek Venus is een plug-and-play thuisbatterij van Chinese fabrikant Marstek Energy. Verkrijgbaar als Venus A (5,12 kWh, eenfasig) en Venus E (8,2 kWh, modulair tot 24 kWh). Het bijzondere: je plugt 'm in een normaal stopcontact (Venus A) of in je meterkast (Venus E) — geen complexe installatie nodig.
+
 ## Waarom Marstek zo interessant is — en waarom ik sceptisch begon
 
 Toen mijn collega me in januari 2026 vertelde dat hij een €2.299 Chinese thuisbatterij had besteld, was mijn eerste reactie: "Goedkoop is duurkoop." Ik associeerde Chinese energieproducten met korte levensduur, slechte service en verdachte veiligheidscertificaten.
@@ -474,3 +478,7 @@ Voor wie dat extra €3.000-€4.000 voor service en NL-support wil betalen: kie
 - [Beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/)
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
 - [Tibber review](/posts/tibber-review-ervaringen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -42,12 +42,16 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Vorig najaar belde een vriendin me: "Mark, ik heb in een Facebookgroep gelezen dat infrarood panelen 50 procent goedkoper zijn dan een warmtepomp. Klopt dat?" Ik kreeg de link doorgestuurd. Het verhaal kwam van een verkoper van IR-panelen die zelf ook IR-panelen verkocht. Verrassend genoeg adviseerde hij IR-panelen. Dit artikel is mijn eerlijke beoordeling — wel met de voorbehoud dat infrarood in een paar specifieke situaties echt goed werkt.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
+
+
+> **Kort antwoord:** Infrarood panelen of warmtepomp in 2026? Ik vergelijk verbruik, kosten, comfort en terugverdientijd. Voor wie is infrarood echt slim, en wanneer kies je toch warmtepomp?
+>
+> In de meeste woningen is een warmtepomp veel goedkoper in gebruik. Een warmtepomp heeft een COP van 3,5-4,5 — per kWh stroom levert hij 3,5-4,5 kWh warmte. Een infraroodpaneel heeft een rendement van 1,0 — 1 kWh stroom is 1 kWh warmte. Voor dezelfde warmte verbruikt infrarood dus 3-4 keer zoveel stroom.
 
 ## Hoe werkt infrarood verwarming?
 
@@ -280,3 +284,7 @@ Verder lezen:
 - [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)
 - [Pellet kachel vs warmtepomp 2026](/posts/pellet-kachel-vs-warmtepomp-2026/)
 - [Smart home energiebeheer 2026](/posts/smart-home-energiebeheer-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

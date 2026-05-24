@@ -39,7 +39,6 @@ products:
   price: '8000'
 schema_type: Article
 ---
-
 Mijn vloerisolatie kostte €2.800, maar na de ISDE-subsidie van €1.200 en een gemeentelijke bijdrage van €500 betaalde ik effectief €1.100. Terugverdientijd: 2,5 jaar. Isolatie is verreweg de snelst rendabele verduurzamingsmaatregel die ik heb gedaan — en ik raad iedereen aan om eerst te isoleren voordat je een warmtepomp overweegt. Hier vind je alle subsidies van 2026 op een rij.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -48,6 +47,11 @@ Wil je weten welke isolatiemaatregelen het meest opleveren voor jouw woning? Lee
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Compleet overzicht van alle isolatiesubsidies in 2026. ISDE, gemeentelijke subsidies, energiebespaarlening en subsidie per isolatiemaatregel.
+>
+> De belangrijkste subsidie is de ISDE (Investeringssubsidie Duurzame Energie): €900-€3.800 per isolatiemaatregel afhankelijk van oppervlakte en Rc-waarde. Daarnaast zijn er gemeentelijke subsidies (€500-€2.500), de Energiebespaarlening (2,6% rente), en soms provinciale regelingen. Je kunt meerdere subsidies combineren.
+
 ## Overzicht Isolatiesubsidies 2026
 
 | Subsidie | Bedrag | Voor wie | Aanvragen via |

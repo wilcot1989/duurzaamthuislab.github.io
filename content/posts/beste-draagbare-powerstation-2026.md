@@ -52,13 +52,17 @@ products:
   price: '1299'
 schema_type: Article
 ---
-
 Naast mijn vaste Huawei Luna thuisbatterij van 10 kWh heb ik ook altijd een draagbaar powerstation in huis — voor noodstroom, de camping of klussen in de tuin. Ik heb er de afgelopen maanden meerdere getest en uitgerekend welke de beste prijs per Wh biedt, het snelst laadt en het langst meegaat. Dit zijn mijn 7 favorieten.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De 7 beste draagbare powerstations van 2026 vergeleken op capaciteit, vermogen, prijs en functies. Vind het perfecte powerstation voor jouw situatie.
+>
+> De EcoFlow Delta 2 Max biedt de beste combinatie van capaciteit (2048Wh), vermogen (2400W) en laadsnelheid. Voor een kleiner budget is de Anker SOLIX C1000 een uitstekend alternatief.
+
 ## Snelle vergelijkingstabel
 
 | Powerstation | Capaciteit | Vermogen (cont.) | Gewicht | Laadtijd (AC) | Prijs (ca.) |

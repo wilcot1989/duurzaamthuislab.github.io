@@ -40,7 +40,6 @@ products:
   price: op aanvraag
 schema_type: Article
 ---
-
 Mijn buurman installeerde twee jaar geleden een perfect zuidgericht systeem van 10 panelen. Ik koos voor 14 panelen in oost-west opstelling op mijn zadeldak. Hij lacht om mijn "niet-optimale" oriëntatie. Maar als ik mijn jaarrekening en de salderingscontext van 2027 erbij pak, lach ik terug.
 
 In dit artikel leg ik uit waarom de traditionele voorkeur voor zuidsystemen achterhaald raakt — en wanneer oost-west de slimmere keuze is.
@@ -48,6 +47,11 @@ In dit artikel leg ik uit waarom de traditionele voorkeur voor zuidsystemen acht
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Oost-west of zuidopstelling voor zonnepanelen? Vergelijking van opbrengst, zelfverbruik en rendement na saldering-afbouw 2027. Met rekenvoorbeelden.
+>
+> Een oost-west systeem levert 80-85% van de opbrengst van een optimaal zuidsysteem. Maar door de betere spreiding over de dag (minder piekoverschot) is het zelfverbruikspercentage hoger: 45-55% vs 25-35% bij zuidsysteem zonder batterij.
 
 ## De basis: hoe oriëntatie de opbrengst beïnvloedt
 

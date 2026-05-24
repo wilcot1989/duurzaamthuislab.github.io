@@ -43,12 +43,16 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Vorig jaar moest ik kiezen: Greenchoice waar ik al zes jaar zat, of overstappen op Pure Energie waar mijn zus zo enthousiast over was. Ik ben uiteindelijk overgestapt — niet vanwege de prijs, maar vanwege een principekwestie. In dit artikel deel ik wat ik heb geleerd over beide leveranciers, hoe ze echt verschillen op herkomst van groene stroom, en welke je moet kiezen in 2026.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
+
+
+> **Kort antwoord:** Greenchoice of Pure Energie als groene energieleverancier in 2026? Ik vergelijk tarieven, herkomst groene stroom, klantenservice en terugleververgoeding.
+>
+> Greenchoice levert sinds 2001 groene stroom, vooral via Nederlandse wind- en zonprojecten en biogas. Pure Energie (sinds 2010) levert uitsluitend stroom uit eigen Nederlandse windparken en zonneparken — de strengste herkomstgarantie. Pure Energie wint op transparantie, Greenchoice op bredere productlijn (gas, isolatie-advies, zonnepanelen).
 
 ## Wie is Greenchoice?
 
@@ -284,3 +288,7 @@ Verder lezen:
 - [Dynamisch vs vast contract 2026](/posts/dynamisch-vs-vast-contract-2026/)
 - [Terugleverkosten zonnepanelen 2026](/posts/terugleverkosten-zonnepanelen-2026/)
 - [Salderingsregeling afbouw 2026](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -55,7 +55,6 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Twee jaar geleden zat ik op een vast contract bij Eneco voor €0,32/kWh. Mijn buurman Gerrit haalde een dynamisch contract bij Frank Energie en deed niets anders dan zijn wasmachine 's nachts aanzetten. Eind 2024 vergeleken we onze jaarrekeningen: hij betaalde **€780 minder dan ik** met identiek verbruik (3.300 kWh + 1.150 m³). In maart 2025 ben ik overgestapt — en sinds toen 18 maanden ervaring met dynamisch. Hieronder mijn eerlijke vergelijking, inclusief de momenten dat ik dacht "had ik maar vast genomen".
 
 *Disclosure: ik werk samen met Tibber, Frank Energie en ANWB Energie via DuurzaamThuisLab. Cijfers hieronder komen uit mijn echte rekeningen, niet uit reclame.*
@@ -63,6 +62,9 @@ Twee jaar geleden zat ik op een vast contract bij Eneco voor €0,32/kWh. Mijn b
 ---
 
 💡 *Twijfel je tussen aanbieders? Lees [Eneco vs Vattenfall vs Essent 2026](/posts/eneco-vs-vattenfall-vs-essent-2026/) voor vaste contracten en [Frank Energie vs Tibber](/posts/frank-energie-vs-tibber-2026/) voor dynamisch.*
+
+
+> **Kort antwoord:** Dynamisch of vast energiecontract in 2026? Mijn 24 maanden ervaring met beide, eerlijke besparingscijfers en wanneer welk contract het beste past.
 
 ## Hoe werkt elk contract precies?
 
@@ -347,3 +349,7 @@ Eerste maand dynamisch: ik (Mark) betaalde in januari 2024 €298 i.p.v. verwach
 Na 6 maanden: zomerperiode liet werkelijke voordeel zien. Gemiddelde stroomkosten €68/maand t.o.v. €128 op vast contract bij Vattenfall. Pulse-data verslavend — ik checkte 3x per dag de prijscurve.
 
 Na 24 maanden: totaal €1.420 bespaard t.o.v. extrapolatie vast contract. Twee keer een spike-week (jan 2024 koudegolf, dec 2025 windstilte) waar maand-totaal even hoog was als vast — maar gemiddelde over jaar 27% lager. Geen serieuze app-storingen, één firmware-update Pulse die 18 minuten duurde. Voor mij geen weg terug naar vast.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

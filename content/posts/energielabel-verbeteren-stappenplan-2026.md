@@ -43,7 +43,6 @@ products:
   price: '8000'
 schema_type: Article
 ---
-
 Mijn woning had label C toen ik begon met verduurzamen. Na vloerisolatie, 16 zonnepanelen, een Vaillant hybride warmtepomp en een Huawei Luna thuisbatterij zit ik op label A — en mijn energierekening is van €2.400 naar €680 per jaar gedaald. In dit stappenplan laat ik zien welke maatregelen ik in welke volgorde heb genomen, wat het kostte, en welke subsidies ik heb ontvangen.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -52,6 +51,11 @@ Overweeg je een warmtepomp? Lees eerst ons artikel over de [beste hybride warmte
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Compleet stappenplan om je energielabel te verbeteren. Van G naar A met de juiste maatregelen, kosten, subsidies en terugverdientijden in 2026.
+>
+> De kosten hangen af van je huidige label en je doellabel. Van G naar C kost gemiddeld €8.000-€15.000 (isolatie dakkapel + vloer + glas). Van C naar A kost nog eens €10.000-€20.000 (warmtepomp + zonnepanelen). Met subsidies kun je 30-50% terugkrijgen.
+
 ## Energielabels uitgelegd
 
 | Label | Energieprestatie | Gemiddelde energiekosten/jaar | Percentage woningen NL |

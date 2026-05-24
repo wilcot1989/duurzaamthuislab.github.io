@@ -49,7 +49,6 @@ products:
   price: '6'
 schema_type: Article
 ---
-
 Ik ben zelf Frank Energie-klant (overgegaan van Tibber in mei 2025) en betaal inmiddels gemiddeld €0,18/kWh — inclusief de uren dat ik bewust mijn wasmachine en Huawei Luna thuisbatterij laat draaien op goedkope nachtstroom. Maar is Tibber echt de beste keuze, of laat ik geld liggen bij Frank Energie of ANWB Energie? Ik heb de tarieven, apps en functies van de belangrijkste dynamische leveranciers naast elkaar gelegd.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -58,6 +57,11 @@ Heb je een thuisbatterij? Lees dan ook ons artikel over [dynamische energiecontr
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Vergelijking van de beste dynamische energiecontracten in 2026. Tibber, ANWB Energie, Frank Energie en meer. Kosten, apps en bespaarpotentieel.
+>
+> Bij een dynamisch energiecontract betaal je de actuele uurprijs voor stroom op de Europese energiebeurs (EPEX). De prijs wisselt elk uur en kan zelfs negatief worden (dan krijg je geld toe). Je ziet een dag van tevoren wat de prijzen per uur worden.
+
 ## Mijn 18 maanden met drie leveranciers: eerlijke terugblik
 
 In oktober 2024 begon ik bij Tibber. In mei 2025 stapte ik over naar Frank Energie. Tussendoor heb ik voor een vriend ANWB Dynamisch bijgehouden. Drie leveranciers, drie ervaringen, één conclusie: het verschil zit in de details.
@@ -428,3 +432,7 @@ Ongeacht welke leverancier je kiest: hier zijn de stappen die ik elke lezer advi
 
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

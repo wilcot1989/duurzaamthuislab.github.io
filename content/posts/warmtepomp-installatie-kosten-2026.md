@@ -42,12 +42,16 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Mijn buurman Henk kreeg in maart drie offertes voor een warmtepomp. De goedkoopste was 11.500 euro, de duurste 19.800 euro. Hetzelfde merk warmtepomp. "Hoe kan dat?" vroeg hij me. We zijn samen gaan rekenen, en het antwoord was simpel: de goedkope offerte sloot vier essentiele posten uit. Toen we die erbij optelden kwam ook die op 16.500 euro. Dit artikel is wat ik wou dat ik had gehad toen ik mijn eigen warmtepomp aanschafte.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
+
+
+> **Kort antwoord:** Wat kost een warmtepomp installatie in 2026? Volledige uitsplitsing per onderdeel — apparaat, montage, elektra, sloop, leidingen — plus subsidies en piekvalkuilen.
+>
+> Een complete all-electric installatie ligt tussen 13.000 en 22.000 euro inclusief apparaat, montage, elektra en aanpassingen. Hybride is goedkoper: 7.500-12.000 euro. Met ISDE-subsidie (2.500-5.000 euro afhankelijk van type) en eventuele gemeentesubsidie kom je netto op 9.000-17.000 (all-electric) of 4.500-9.000 (hybride).
 
 ## De volledige uitsplitsing — alles wat een installatie kost
 
@@ -302,3 +306,7 @@ Eerste maand: 1 dag installatie, leercurve thermostaat, eerste week onderkoeling
 Na 6 maanden: 1.490 kWh verbruikt (winter), comfort consistent. Gas-aansluiting opgezegd, vastrecht-besparing €280/jaar extra. Wifi-app stabiel.
 
 Na 1 jaar: 3.180 kWh totaal, SCOP 3,52 gemeten (fabrieksopgave 3,5). Onderhoudsbeurt €160 in oktober. Geen onderdelen vervangen. Bij vergelijking met cv-ketel-buren €1.300 minder energiekosten — zichtbaar verschil. Lees voor merk-keuze [beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/).
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

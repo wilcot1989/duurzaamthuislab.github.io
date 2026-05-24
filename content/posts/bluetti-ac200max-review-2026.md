@@ -48,7 +48,6 @@ products:
   price: '2299'
 schema_type: Review
 ---
-
 De Bluetti AC200MAX stond een maand in mijn garage als back-up naast mijn Huawei Luna thuisbatterij. Met 2048Wh en 2200W continu is het eigenlijk een mini-thuisbatterij die je ook nog kunt meenemen. Wat ik bijzonder vind: je kunt hem uitbreiden tot 8192Wh met extra B300-pakketten. Ik heb hem uitgebreid getest — dit zijn mijn eerlijke bevindingen.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
@@ -57,6 +56,11 @@ De Bluetti AC200MAX stond een maand in mijn garage als back-up naast mijn Huawei
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Uitgebreide Bluetti AC200MAX review: 2048Wh, 2200W, LiFePO4 en uitbreidbaar met B230/B300. Lees onze ervaringen, specs en testresultaten.
+>
+> Ja, met 2048Wh capaciteit en 2200W continu vermogen kun je bij een stroomstoring je koelkast, verlichting, wifi-router en telefoons urenlang van stroom voorzien. Breidt je het systeem uit met B300-batterijen, dan houd je het zelfs een hele dag vol.
+
 ## Bluetti AC200MAX in het kort
 
 De AC200MAX positioneert zich als het werkpaard in het Bluetti-assortiment. Het is geen lichtgewicht campingstation en ook geen vast geinstalleerde thuisbatterij, maar zit er precies tussenin. Het toestel biedt genoeg vermogen en capaciteit voor serieus thuisgebruik, terwijl het technisch gezien nog steeds verplaatsbaar is -- al is 27,5 kg niet iets wat je even optilt.

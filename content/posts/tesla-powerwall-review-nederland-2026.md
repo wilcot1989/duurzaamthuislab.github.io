@@ -50,7 +50,6 @@ products:
   price: '7500'
 schema_type: Review
 ---
-
 Ik heb zelf voor de Huawei Luna 2000 gekozen in plaats van de Tesla Powerwall, en mensen vragen me regelmatig waarom. Het antwoord: prijs per kWh. Maar de Powerwall 3 heeft wel degelijk sterke punten die mijn Luna mist — met name de ingebouwde omvormer en de automatische noodstroomfunctie. In deze review vergelijk ik de Tesla eerlijk met mijn eigen ervaring en de alternatieven op de Nederlandse markt.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
@@ -59,6 +58,11 @@ Ik heb zelf voor de Huawei Luna 2000 gekozen in plaats van de Tesla Powerwall, e
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Uitgebreide Tesla Powerwall 3 review voor Nederland. Specs, installatie, prijzen, terugverdientijd en vergelijking met Huawei Luna 2000 en BYD HVS.
+>
+> De Tesla Powerwall 3 kost in Nederland circa €8.500 - €9.500 voor het apparaat zelf. Inclusief installatie, bekabeling en configuratie moet je rekenen op €10.000 - €13.000 voor een compleet systeem.
+
 ## Specificaties op een rij
 
 De Tesla Powerwall 3 is een flinke stap vooruit ten opzichte van zijn voorgangers. Hier de belangrijkste technische gegevens:
@@ -432,3 +436,7 @@ Benieuwd naar alle opties? Lees ons complete overzicht van de [beste thuisbatter
 
 
 <a href="https://go.duurzaamthuislab.nl/tesla-powerwall" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tesla Powerwall</a>
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

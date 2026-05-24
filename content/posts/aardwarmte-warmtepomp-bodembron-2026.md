@@ -51,7 +51,6 @@ products:
   price: '11000'
 schema_type: Article
 ---
-
 In mijn werk als energieadviseur krijg ik regelmatig vragen over bodembronnen. De vragensteller heeft altijd dezelfde verwachting: "Een bodembron is toch veel efficiënter? Dan is het toch de beste keuze?"
 
 Het antwoord is genuanceerder dan dat. Een bodembron-warmtepomp presteert inderdaad beter dan lucht-water. Maar het kost €10.000 tot €25.000 meer. En in de meeste situaties verdient die extra investering zichzelf niet terug binnen een redelijke termijn.
@@ -59,6 +58,11 @@ Het antwoord is genuanceerder dan dat. Een bodembron-warmtepomp presteert inderd
 Tegelijkertijd zijn er situaties waar een bodembron wél de juiste keuze is. In dit artikel leg ik uit wanneer dat is.
 
 ---
+
+
+> **Kort antwoord:** Bodembron- vs lucht-water warmtepompen vergeleken: kosten, COP, terugverdientijd en wanneer aardwarmte rendabel wordt in NL 2026.
+>
+> Een lucht-water warmtepomp haalt warmte uit buitenlucht; een bodembron-warmtepomp haalt warmte uit de bodem (aarde). De bodemtemperatuur is het hele jaar stabiel (10-12°C in Nederland), terwijl buitenlucht in de winter koud is. Resultaat: een bodembron-warmtepomp heeft een hogere en stabielere COP, verbruikt minder stroom in de winter, en heeft geen buitenunit die geluid maakt.
 
 ## Hoe werkt aardwarmte voor thuis?
 
@@ -368,3 +372,7 @@ Sommige gemeenten vergoeden dit advies gedeeltelijk of volledig via het duurzaam
 - [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
 - [Vaillant aroTHERM plus review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)
 - [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

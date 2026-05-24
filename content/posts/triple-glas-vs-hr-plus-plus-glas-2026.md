@@ -43,12 +43,16 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Toen ik in 2022 mijn ramen liet vervangen had ik dezelfde discussie als de meeste lezers van dit artikel: ga ik voor HR++ of triple glas? De glaszetter zei "voor de meerprijs van 1.800 euro krijg je triple, dat is veel beter geisoleerd". De energieadviseur zei "voor jouw woning is dat overdreven, kies HR++ en stop het verschil in vloerisolatie". Ik heb na lang rekenen voor HR++ gekozen, en achteraf gezien was dat de juiste keuze. In dit artikel leg ik uit waarom — en wanneer triple glas wel de moeite is.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
+
+
+> **Kort antwoord:** HR++ glas of triple glas in 2026? Ik vergelijk U-waarde, kosten per m2, isolatieprestatie en terugverdientijd. Zo kies je het juiste glas voor jouw woning.
+>
+> HR++ glas heeft twee glasplaten met argon ertussen en een coating, U-waarde 1,1. Triple glas (HR+++) heeft drie glasplaten met twee argon-spouwen, U-waarde 0,5-0,8. Triple isoleert dus circa 35 procent beter, maar is 60-80 procent duurder per m2. De winst per jaar is meestal 30-60 euro per raam.
 
 ## Wat is HR++ glas precies?
 
@@ -262,3 +266,7 @@ Verder lezen:
 - [Kierdichting glaswol tochtstrip 2026](/posts/kierdichting-glaswol-tochtstrip-2026/)
 - [Hybride vs volledige warmtepomp 2026](/posts/hybride-vs-volledige-warmtepomp-2026/)
 - [Vloer isolatie vs spouwmuur isolatie 2026](/posts/vloer-isolatie-vs-spouwmuur-isolatie-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

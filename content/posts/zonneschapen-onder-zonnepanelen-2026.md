@@ -48,7 +48,6 @@ products:
   price: '3999'
 schema_type: Article
 ---
-
 Mijn buurvrouw heeft vier Soay-schapen in haar achtertuin. Vorig jaar vroeg ze mij: "Mark, ik heb die grote tuin, ik heb schapen die gras eten, en ik wil zonnepanelen. Kan dat gewoon samen?" Het antwoord verraste haar: ja, dat kan. Sterker nog — het idee heeft een naam, een wetenschappelijke onderbouwing en duizenden hectares bewezen praktijk achter zich. Alleen niet op de schaal van haar tuin, althans nog niet eenvoudig.
 
 Agrivoltaïca — de combinatie van zonnepanelen en landbouw op dezelfde grond — is een van de meest interessante duurzame innovaties van de afgelopen jaren. In dit artikel onderzoek ik wat het is, wat wetenschappelijk bewezen werkt, en hoe ver de vertaling naar een particuliere tuin realistisch is.
@@ -56,6 +55,11 @@ Agrivoltaïca — de combinatie van zonnepanelen en landbouw op dezelfde grond �
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Agri-PV op kleine schaal — zonnepanelen combineren met dieren of moestuin in NL — werkt het en wat zijn de regels.
+>
+> Agri-PV (agrivoltaïca) combineert zonnepaneel-installaties met landbouw of tuinbouw op dezelfde grond. Op particuliere schaal betekent dit: zonnepanelen op verhoogde constructies boven een moestuin of grasland, zodat zowel gewassen/dieren als zonnestroom kunnen profiteren. Het is technisch haalbaar voor grotere tuinen (>100 m²), maar vereist een specifieke constructie en planning.
 
 ## Wat is agrivoltaïca?
 
@@ -479,3 +483,7 @@ Als alle drie aanwezig zijn: ga ervoor. Het is een van de meest satisfying verdu
 - [Echte Aansluitkosten Zonnepanelen 2026](/posts/dakdoos-aansluitkosten-zonnepanelen-2026/)
 - [Gemeentelijke subsidie zonnepanelen 2026: per provincie](/posts/gemeentelijke-subsidie-zonnepanelen-2026/)
 - [Zonnepanelen in huurwoning in 2026](/posts/huurwoning-zonnepanelen-toestemming/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

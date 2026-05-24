@@ -49,7 +49,6 @@ products:
   price: '1199'
 schema_type: Review
 ---
-
 Ik heb inmiddels zes powerstations door mijn handen laten gaan, maar de Anker SOLIX C1000 verraste me het meest. Met 12,9 kg til je hem moeiteloos de auto in, terwijl hij met 1056Wh en 1800W wél serieus vermogen levert. Ik heb hem een week als noodstroom achter mijn HomeWizard P1 meter gehangen en daarna meegenomen op een kampeertripje — dit is wat ik ervan vond.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
@@ -58,6 +57,11 @@ Ik heb inmiddels zes powerstations door mijn handen laten gaan, maar de Anker SO
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Uitgebreide Anker SOLIX C1000 review. Bekijk specs, LiFePO4 batterij, laadtijden, app-bediening en vergelijking met EcoFlow Delta 2.
+>
+> Ja. De Anker SOLIX C1000 biedt 1056Wh capaciteit en 1800W continu vermogen in een compact en licht ontwerp. Met LiFePO4-technologie, een uitstekende app en snelle laadtijden is het een van de beste powerstations in de 1000Wh-klasse.
+
 ## Specificaties op een rij
 
 Voordat we dieper duiken, hier de belangrijkste technische gegevens van de Anker SOLIX C1000:

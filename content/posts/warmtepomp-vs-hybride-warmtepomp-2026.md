@@ -43,7 +43,6 @@ products:
   price: '3500'
 schema_type: Article
 ---
-
 Twee jaar geleden stond ik voor dezelfde keuze die nu veel huiseigenaren bezighoudt: ga ik full-electric met een warmtepomp, of kies ik de hybride variant als tussenstap? Mijn woning heeft energielabel C, deels dubbel glas en radiatoren — niet de ideale omstandigheden voor een full-electric warmtepomp. Ik koos uiteindelijk voor hybride en bespaar sindsdien €820 per jaar op gas, met een netto investering van €3.900 na ISDE-subsidie.
 
 Maar was dat de slimste keuze? En wat is in 2026 de beste optie voor jou?
@@ -51,6 +50,11 @@ Maar was dat de slimste keuze? En wat is in 2026 de beste optie voor jou?
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Warmtepomp of hybride warmtepomp? Vergelijking op COP, ISDE-subsidie, terugverdientijd en geschiktheid. Met rekenvoorbeelden voor jouw situatie.
+>
+> Een full-electric warmtepomp verwarmt je woning volledig zonder gas. Een hybride warmtepomp combineert een warmtepomp met je bestaande cv-ketel: de warmtepomp werkt bij milde temperaturen, de ketel neemt het over bij vriesweer. De hybride variant is minder efficiënt maar goedkoper en geschikter voor minder goed geïsoleerde woningen.
 
 ## Wat is een warmtepomp?
 
@@ -420,3 +424,7 @@ Zou ik het opnieuw doen? Ja. Zonder twijfel.
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
 - [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
 - [Pelletkachel of warmtepomp 2026: nog rendabel?](/posts/pellet-kachel-vs-warmtepomp-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

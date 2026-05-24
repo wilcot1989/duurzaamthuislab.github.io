@@ -49,12 +49,16 @@ products:
   url: https://www.daikin.nl/
   price: '13500'
 ---
-
 Een buurman van mij in Zwolle plaatste eind 2024 een warmtepomp zonder na te denken over geluid. Twee maanden later stonden zijn buren bij de gemeente. Resultaat: gemeente kwam meten, bevond 44 dB(A) op erfgrens (4 dB boven norm), en buurman moest binnen 6 maanden geluidskap (€1.200) plaatsen of pomp verplaatsen (€2.500). Het had hem allemaal kunnen besparen met 2 uur planning vooraf.
 
 Hieronder mijn complete gids voor vergunningen en geluidsregels rond warmtepompen in 2026. Wat is verplicht, wat is wijs, en hoe voorkom je problemen met buren of gemeente.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Heb ik vergunning nodig voor mijn warmtepomp? Geluidsnorm 40 dB op buurtgrens, vergunningvrij of WABO-procedure. Stappenplan en kosten voor 2026 in Nederland.
+>
+> In de meeste gevallen niet, mits je voldoet aan de geluidsnorm van 40 dB(A) op de erfgrens. Bij overschrijding of plaatsing in beschermd stadsgezicht/monument: wel vergunning nodig.
 
 ## Wat verandert er met de Omgevingswet?
 

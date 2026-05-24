@@ -43,7 +43,6 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Toen ik mijn warmtepomp liet installeren had ik mezelf voorgenomen: eerst alles isoleren, dan pas overstappen. Het werd het beste advies dat ik mezelf ooit heb gegeven. Twee buurmannen die wel direct overstapten zonder eerst de spouw te laten vullen, hebben nu een SCOP onder de 3,2 en stookkosten van 1.800 euro per jaar. Mijn pomp draait op 4,4 en kost me 950 euro. Het verschil zit niet in het merk — het zit in de isolatieschil.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -51,6 +50,11 @@ Toen ik mijn warmtepomp liet installeren had ik mezelf voorgenomen: eerst alles 
 In dit artikel vergelijk ik de vier hoofdvormen van isolatie — vloer, spouw, dak en glas — op kosten, rendement en de impact die ze hebben op de prestaties van je warmtepomp. Ik leg ook uit in welke volgorde je het beste kunt aanpakken, en welke fouten ik bij vrienden en buren steeds weer zie terugkomen.
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
+
+
+> **Kort antwoord:** Welke isolatie geeft de meeste winst voor je warmtepomp? Ik vergelijk vloerisolatie, spouwmuur, dakisolatie en HR++/triple glas op rendement, kosten en terugverdientijd.
+>
+> Voor de meeste rijtjes- en tussenwoningen is dakisolatie het hoogste rendement (Rd 6,0+), gevolgd door spouwmuurisolatie (Rd 1,3+) en vloerisolatie (Rd 3,5+). HR++ of triple glas komt daarna. De volgorde verschilt per woning: laat altijd een warmteverliesberekening doen voordat je een warmtepomp koopt.
 
 ## Waarom isolatie cruciaal is voor een warmtepomp
 
@@ -277,3 +281,7 @@ Verder lezen:
 - [Energielabel verbeteren stappenplan 2026](/posts/energielabel-verbeteren-stappenplan-2026/)
 - [Warmtepomp installateur checklist 2026](/posts/warmtepomp-installateur-checklist-2026/)
 - [Vloerverwarming warmtepomp combinatie 2026](/posts/vloerverwarming-warmtepomp-combinatie-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

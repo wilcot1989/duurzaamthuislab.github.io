@@ -42,13 +42,17 @@ products:
   price: '900'
 schema_type: Article
 ---
-
 Toen ik mijn Vaillant hybride warmtepomp liet installeren, heb ik meteen de stap naar inductie gezet. Mijn gasaansluiting wil ik uiteindelijk helemaal opzeggen — dat scheelt €230 per jaar aan vastrecht alleen al. Na een jaar inductie koken kan ik zeggen: water kookt in 3 minuten, de plaat is makkelijker schoon te houden, en mijn energiekosten voor koken zijn gehalveerd. Hier deel ik de volledige vergelijking.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Inductie koken vs gas vergeleken in 2026. Kosten overstappen, energieverbruik, kookervaring en besparing. Alles over van gas naar inductie in je keuken.
+>
+> Ja, inductie koken is goedkoper. Energiekosten per jaar: gas koken €80-€120, inductie koken €40-€70. Maar de echte besparing zit in het afsluiten van je gasaansluiting: dat bespaart €200-€250 per jaar aan vastrecht. Totale besparing van gas naar inductie (bij volledig gasloos): €250-€350/jaar.
+
 ## Inductie vs Gas: De Vergelijking
 
 | Aspect | Inductie | Gas |
@@ -385,3 +389,7 @@ Mijn advies: begin met de kookplaat als eerste stap. Je oefent meteen met het le
 ---
 
 *Laatst bijgewerkt: juni 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -44,7 +44,6 @@ products:
   price: '199'
 schema_type: Review
 ---
-
 Achtien maanden geleden had ik een gewone programmathermostaat die ik zelden aanpaste. De verwarming ging aan om 7:00 en uit om 22:30, ongeacht of ik thuis was. Energieverbruik: 1.680 m³ gas per jaar.
 
 Nu gebruik ik een Tado slimme thermostaat met zes radiatorknopthermostaten. Gasverbruik het afgelopen jaar: 1.190 m³. Dat is 490 m³ minder — een besparing van €564 bij €1,15/m³.
@@ -54,6 +53,11 @@ Maar is dat allemaal de thermostaat? Of speelt isolatie, gedrag en het zachte wi
 *Dit artikel bevat geen affiliate links naar thermostaten omdat ik geen actieve partnerschappen heb met deze fabrikanten. De review is puur op basis van mijn eigen ervaring en testresultaten.*
 
 ---
+
+
+> **Kort antwoord:** Nest Learning Thermostat, Tado en Honeywell T6 vergeleken op energiebesparing, gebruiksgemak en terugverdientijd. Eerlijke review na 18 maanden gebruik.
+>
+> De claims van fabrikanten (Tado: 31%, Nest: 20-30%) zijn optimistisch. In de praktijk bespaar je realistisch 10-20% op je gasrekening als je al bewust met temperatuur omgaat, of 20-30% als je een niet-geprogrammeerde thermostaat had. In euro's: €80-€200 per jaar voor een gemiddeld huishouden.
 
 ## De drie kanshebbers
 
@@ -331,3 +335,7 @@ OpenTherm is open standaard, eBus is propriëtair (Vaillant en Bosch). Bij Vaill
 - [Energieleverancier overstappen 2026](/posts/energieleverancier-overstappen-2026-stappenplan/)
 - [Kierdichting, glaswol en tochtstrip in 2026](/posts/kierdichting-glaswol-tochtstrip-2026/)
 - [Ventilatie met Warmteterugwinning (WTW) 2026](/posts/ventilatie-warmteterugwinning-wtw-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

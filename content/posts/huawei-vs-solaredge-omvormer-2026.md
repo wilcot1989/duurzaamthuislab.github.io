@@ -39,10 +39,14 @@ products:
 schema_type: Article
 last_updated: '2026-04-29'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "Huawei vs SolarEdge 2026? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** Huawei SUN2000 met optimizers of SolarEdge HD-Wave? Beide hebben optimizers per paneel. Vergelijking op prijs, app, batterij-koppeling en geluid.
+>
+> Beide tier-2 budgetmerken. Goodwe heeft betere reputatie qua firmware-stabiliteit en SEMS-app. Solis is goedkoper (~10 procent) en heeft eenvoudigere bediening, maar minder consistente updates.
 
 ## Korte conclusie
 
@@ -305,3 +309,7 @@ Huawei: vervanging via lokaal kanaal binnen 4-6 weken. SolarEdge: vaak ruil-omvo
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-08-26 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

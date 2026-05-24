@@ -49,7 +49,6 @@ products:
   url: https://www.sunstyle.com/
   price: '18000'
 ---
-
 Een eigenaar van een 17e-eeuws grachtenpand in Utrecht vroeg mij vorig jaar of ze überhaupt zonnepanelen konden krijgen. Het stadsdeel is beschermd stadsgezicht, het pand is rijksmonument, en de welstandscommissie staat bekend als streng. Niemand in de buurt heeft openlijk zichtbare panelen.
 
 We zijn er toch in geslaagd 18 panelen geïnstalleerd te krijgen — onzichtbaar vanaf de gracht, deels op het hofdak en deels op een aangebouwd bijgebouw. Procedure duurde 7 maanden, maar ze besparen nu €1.450/jaar op energiekosten en hebben 100% groene stroom.
@@ -57,6 +56,11 @@ We zijn er toch in geslaagd 18 panelen geïnstalleerd te krijgen — onzichtbaar
 Hieronder mijn complete gids voor monument-eigenaren die willen verduurzamen. Wat mag, wat is wijs, en hoe doe je het.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Zonnepanelen op monumentaal pand: wat mag wel en niet? Vergunning, welstandsregels, geintegreerde systemen en alternatieven. Mijn ervaring met monument-eigenaren.
+>
+> In principe niet zichtbaar vanaf openbare weg, en altijd met vergunning. Veel monumenten hebben wel ruimte op aangebouwd bijgebouw of binnenhof-zijde. Onderzoek mogelijkheden bij gemeentelijke monumentencommissie.
 
 ## Drie soorten beschermde panden
 
@@ -399,3 +403,7 @@ Bij monumenten in Amsterdam, Utrecht, Den Haag en Maastricht: ja, stapelbaar tot
 
 **Mag ik geintegreerde dakpan-panelen zelf plaatsen als ervaren doe-het-zelver?**
 Bij monumenten: nee, vrijwel nooit. Vergunning eist gecertificeerd installateur met monument-ervaring. Eigen werk leidt tot afwijzing en bestuursdwang.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

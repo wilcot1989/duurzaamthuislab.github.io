@@ -51,7 +51,6 @@ products:
   price: '45'
 schema_type: Article
 ---
-
 Ik krijg regelmatig de vraag: "Mark, ik heb alles al geïsoleerd — spouwmuur, dak, vloer — maar het blijft tochten. Waar zit het?"
 
 Negen van de tien keer zit het aan de voordeur. En dan niet aan de voor de hand liggende plek (de deurkier onderaan), maar aan drie plekken die mensen stelselmatig over het hoofd zien: het sleutelgat, de brievenbus, en de dichtkast of het tochtportaal.
@@ -59,6 +58,11 @@ Negen van de tien keer zit het aan de voordeur. En dan niet aan de voor de hand 
 Dit artikel is specifiek over die vergeten plekken. Ik behandel ze één voor één, inclusief de oplossingen die ik zelf heb toegepast in mijn eigen verduurzaamde huis.
 
 ---
+
+
+> **Kort antwoord:** Specifiek deurkieren — sleutelgaten, brievenbussen, dichtkasten. Materialen, kosten, energiebesparing per type.
+>
+> Dat hangt af van de omvang van de kieren. Een kier van 2 mm rondom een voordeur van 200 × 90 cm is ruim 1.000 mm² doorsnede — dat staat gelijk aan een gat van circa 3 × 3 cm. Via zo'n opening verliest een gemiddeld huis 5 tot 15% van zijn warmte door ventilatie. Kieren in de buitendeur zijn verantwoordelijk voor een aanzienlijk deel hiervan, zeker bij een oudere voordeur.
 
 ## Waarom een buitendeur zo'n grote kier-bron is
 
@@ -303,3 +307,7 @@ Nee, kierdichting alleen is niet aftrekbaar. Maar als onderdeel van een grotere 
 - [Dakraam vs dakkapel isolatie 2026: warmteverlies](/posts/dakraam-vs-dakkapel-isolatie-2026/)
 - [Energielabel Verbeteren: Stappenplan van G naar A (2026)](/posts/energielabel-verbeteren-stappenplan-2026/)
 - [Isolatie Subsidie Nederland 2026: Alle Regelingen en](/posts/isolatie-subsidie-nederland-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

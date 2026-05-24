@@ -40,7 +40,6 @@ products:
     url: "https://go.duurzaamthuislab.nl/tibber"
     price: "6"
 ---
-
 *Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvang ik mogelijk een commissie zonder dat jij meer betaalt. Mijn analyse is gebaseerd op offertes verzameld bij 14 Nederlandse installateurs in juli-augustus 2026.*
 
 Een buurman vroeg me vorige maand: "Mark, wat is het goedkoopste pakket dat ik kan kopen zonder later spijt?" Hij had een offerte van €4.500 voor 8 panelen. Te duur, dacht hij. Klopt — voor 8 standaard panelen betaal je in 2026 zo'n €3.200-€3.800 incl. plaatsing. Hij had €700-€1.300 te veel offerte gekregen.
@@ -48,6 +47,11 @@ Een buurman vroeg me vorige maand: "Mark, wat is het goedkoopste pakket dat ik k
 Maar onder €2.500 voor 6+ panelen zit risico. In dit artikel rangschik ik 7 daadwerkelijk verkrijgbare budget-pakketten van augustus 2026, met de échte prijzen die ik in offertes vond. Plus: hoe je verkooppraatjes herkent en wat je MOET checken voordat je tekent.
 
 ---
+
+
+> **Kort antwoord:** Goedkoopste zonnepanelen pakket in 2026: 7 budget-opties van €1.499 tot €4.999 incl. installatie. Welke is écht een koopje?
+>
+> Voor doe-het-zelf: 4 panelen plug-in (Solarrun) vanaf €1.499 incl. micro-omvormers. Met installatie: 6 panelen pakket (Zonneplan, Zonneplan Compact) vanaf €2.999 incl. plaatsing. Onder €1.500 incl. installatie bestaat in 2026 niet voor serieuze pakketten.
 
 ## Top 7 goedkoopste pakketten
 
@@ -341,3 +345,7 @@ Combineer een budget-paneelpakket met een Marstek thuisbatterij (€2.299) voor 
 - [Gemeentelijke subsidie zonnepanelen 2026](/posts/gemeentelijke-subsidie-zonnepanelen-2026/)
 - [Oost west zonnepanelen vs zuid 2026](/posts/oost-west-zonnepanelen-vs-zuid-2026/)
 - [Micro omvormer vs string omvormer 2026](/posts/micro-omvormer-vs-string-omvormer-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

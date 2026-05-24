@@ -40,7 +40,6 @@ products:
     url: "https://go.duurzaamthuislab.nl/frank-energie"
     price: "0"
 ---
-
 *Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvang ik mogelijk een commissie zonder dat jij meer betaalt. Mijn ervaring is gebaseerd op 14 maanden ANWB en 9 maanden Tibber in mijn eigen huis.*
 
 Twee jaar terug stapte ik over van Vattenfall (vast contract, €0,38/kWh) naar Tibber. Acht maanden later switchten 6 vrienden naar ANWB Energie omdat ze geen €5,99/maand wilden betalen voor een app. Resultaat: ik bespaarde €640 over die 8 maanden, zij gemiddeld €420. Verschil: ik had EV + batterij, zij niet.
@@ -48,6 +47,11 @@ Twee jaar terug stapte ik over van Vattenfall (vast contract, €0,38/kWh) naar 
 Dat is precies de kern. Tibber en ANWB Energie zijn allebei goede dynamische contracten, maar ze zijn voor totaal verschillende klanten. In dit artikel reken ik per profiel uit wie wint, met echte cijfers uit augustus 2026.
 
 ---
+
+
+> **Kort antwoord:** Tibber vs ANWB Energie dynamisch in 2026 vergeleken op prijs, app, opslagkosten en service. Welke is goedkoper voor jouw verbruik?
+>
+> Voor de stroomprijs zijn beide identiek (volgen EPEX day-ahead). Het verschil zit in vaste kosten en opslagen. Tibber: €5,99/maand abonnement, €0,015/kWh opslag. ANWB Energie: geen abonnement, €0,025/kWh opslag. Bij <2.500 kWh/jaar is ANWB goedkoper. Bij >2.500 kWh wint Tibber.
 
 ## Snelle samenvatting
 
@@ -324,3 +328,7 @@ Na 6 maanden: zomermaanden lieten echte voordeel zien — gemiddeld €68/maand 
 Na 1 jaar Tibber + 14 maanden ANWB-vergelijking via vrienden: Tibber-bespaart €620 t.o.v. vast en €280 t.o.v. ANWB voor mijn 8.500 kWh-profiel. Vrienden met ANWB en 2.000 kWh besparen €120 t.o.v. vast — minder absolute winst maar relatief netjes. Geen van beide leveranciers heeft in dat jaar een serieuze storing gehad.
 
 Een laatste praktijktip: zet bij Tibber direct na inloggen je vertrekprijs voor je EV in op realistische 80% i.p.v. 100% — laden van 80 naar 100% kost in winter vaak twee keer zoveel als 0-80% omdat het vaak in de duurste uren valt. Bij ANWB moet je dit handmatig blijven inschatten via je laadpaal-app, wat na 2 weken vaak weer vergeten wordt. Wie dat consequent volhoudt kan met ANWB bijna evenveel besparen als met Tibber, maar de meeste mensen zakken na een paar weken terug naar standaardgedrag — en dan wint de automatisering van Tibber alsnog.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

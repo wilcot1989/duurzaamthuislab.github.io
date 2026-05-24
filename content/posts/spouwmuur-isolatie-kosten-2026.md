@@ -54,7 +54,6 @@ products:
   price: info op website
 schema_type: Article
 ---
-
 De meest rendabele isolatiemaatregel voor Nederlandse woningen gebouwd vóór 1990 is niet vloerisolatie, niet dakisolatie, maar spouwmuurisolatie. Weinig overlast, geen sloopwerk, klaar in een halve dag, terugverdientijd 6-10 jaar.
 
 En toch zie ik in mijn werk als energieadviseur veel huishoudens die het uitstellen, omdat ze bang zijn voor hoge kosten. Die angst is onterecht. Met 0% BTW en ISDE-subsidie kost spouwmuurisolatie voor een doorsnee tussenwoning €1.600-€2.400.
@@ -67,6 +66,11 @@ In dit artikel reken ik het volledig voor: wat je betaalt, welk materiaal het be
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Spouwmuur isolatie kosten 2026: prijs per m², EPS vs glasvlokken vs PUR, 0% BTW, ISDE-subsidie en terugverdientijd. Rekenvoorbeeld voor doorzon-tussenwoning.
+>
+> Voor een doorzon-tussenwoning met circa 80 m² spouwmuur betaal je €1.600-€2.400, inclusief 0% BTW en inkl. ISDE-subsidie. Zonder subsidie: €2.000-€3.200. Prijs hangt af van materiaal (EPS-parels, glasvlokken of PUR) en bereikbaarheid van de spouwmuur.
+
 ## Waarom spouwmuurisolatie de eerste stap is
 
 Een ongeïsoleerde spouwmuur verliest gemiddeld 25-30% van alle warmte die een huis uitstraalt. In absolute cijfers:

@@ -49,7 +49,6 @@ products:
   price: '9500'
 schema_type: Article
 ---
-
 In de afgelopen 18 maanden heb ik 12 thuisbatterijen geanalyseerd op prijs/kWh. De spreiding is enorm: van €326 tot €704 per kWh. Het scheelt €4.000 verschil over een 10 kWh systeem.
 
 Maar wat verklaart die spread? Welke is het waard? En wanneer is de beste tijd om te kopen? Hier is mijn complete prijsanalyse.
@@ -60,6 +59,11 @@ Maar wat verklaart die spread? Welke is het waard? En wanneer is de beste tijd o
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Wat betaal je per kWh thuisbatterijcapaciteit in 2026? Volledige prijsanalyse van alle merken plus prognose voor 2027 en advies wanneer kopen.
+>
+> Voor LFP-thuisbatterijen ligt de prijs in 2026 tussen €326/kWh (Marstek, prijs-leider) en €704/kWh (Tesla Powerwall 3, premium). Gemiddeld zit je rond €500-€600/kWh inclusief installatie. Vorig jaar (2025) was dat ~€670/kWh — daling van 12-15% per jaar is normaal.
+
 ## Hoe ik aan deze cijfers kom
 
 Ik vergelijk niet alleen brochures. In de afgelopen 18 maanden heb ik aankoopprijzen nagevraagd bij twaalf installateurs verspreid over Nederland, offertes verzameld voor dezelfde postcode en productspecificaties naast elkaar gelegd. Resultaat: een gevoel voor de werkelijke marktprijzen inclusief installatie, BTW-vrij (0% BTW geldt automatisch voor alle thuisbatterijen gecombineerd met zonnepanelen, per 2024).
@@ -425,3 +429,7 @@ Uiteindelijk is €/kWh een hulpmiddel — gebruik het, maar combineer het met j
 - [Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/)
 - [Thuisbatterij subsidie 2026](/posts/thuisbatterij-subsidie-2026-overzicht/)
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

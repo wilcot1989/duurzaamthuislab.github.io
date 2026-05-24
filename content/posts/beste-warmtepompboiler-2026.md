@@ -64,7 +64,6 @@ products:
   price: '1950'
 schema_type: Article
 ---
-
 Mijn neef Joost belde me vorig jaar met een simpele vraag: "Ik heb zonnepanelen, maar in de zomer lever ik veel terug aan het net. Krijg ik maar €0,03 per kWh. Kan ik die stroom ergens anders voor gebruiken?" Hij had een gasgeiser voor warm water, een redelijk geïsoleerde jaren-negentig tussenwoning, en geen zin in een complete warmtepompinstallatie van €12.000.
 
 Het antwoord was: een warmtepompboiler. €2.200, ISDE-subsidie van €1.050, terugverdientijd van iets meer dan drie jaar. Hij heeft hem inmiddels een jaar draaien en is tevreden.
@@ -77,6 +76,9 @@ Maar welke warmtepompboiler is de beste? Dat is een eerlijke vraag — en het an
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Op zoek naar de beste warmtepompboiler van 2026? Ik vergelijk 6 modellen op COP, inhoud, prijs en ISDE-subsidie.
+
 ## Wat is een warmtepompboiler, en voor wie is hij geschikt?
 
 Een warmtepompboiler is geen warmtepomp die je huis verwarmt. Dat is een veelgehoord misverstand. Hij doet maar één ding: warm tapwater maken voor de douche, kraan en afwasmachine.

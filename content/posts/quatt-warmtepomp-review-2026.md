@@ -50,7 +50,6 @@ products:
   price: '7500'
 schema_type: Review
 ---
-
 Vorige zomer spraken mijn vrouw en ik onze vrienden Tom en Petra bij. Tom had net een warmtepomp laten installeren — hij straalde. "Geen aanbetaling, alles geregeld, en ze monitoren hem zelf op afstand. Ik heb er geen omkijken naar." Hij betaalde €79 per maand. Quatt.
 
 Ik kende Quatt al. Jong bedrijf, Amsterdam, 2020 opgericht. Het businessmodel is slim: geen grote rekening vooraf, maar een langlopend abonnement. Voor mensen die hun cashflow willen beschermen en nul technische zorgen willen hebben, klinkt het aantrekkelijk.
@@ -65,6 +64,11 @@ In dit artikel: een eerlijke analyse van Quatt Connect. Wat het kost, wat het op
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Quatt biedt een warmtepomp als abonnement: geen aanbetaling, all-in service. Maar is het goedkoper dan gewoon kopen? Mijn eerlijke berekening over 10 jaar.
+>
+> Quatt Connect kost €59 per maand voor het basis-abonnement, €79 voor het standaard-abonnement en €99 voor premium (inclusief meer monitoring en onderhoud). De contractduur is minimaal 10 jaar. Er is geen aanbetaling vereist — Quatt installeert de warmtepomp kosteloos en rekent alles in via de maandelijkse fee.
+
 ## Wie is Quatt?
 
 **Quatt BV** is opgericht in 2020 in Amsterdam door Hidde Kamst en Roel Huisman. Het bedrijf heeft meerdere investeringsrondes opgehaald en is actief in Nederland en België. Ze zijn niet winstgevend, maar groeien snel.
@@ -400,3 +404,7 @@ Mijn advies: als je voor Quatt kiest, vraag dan expliciet in het contract: "Wat 
 - [Vaillant aroTHERM plus review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)
 - [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
 - [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

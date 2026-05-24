@@ -42,7 +42,6 @@ products:
   price: '9000'
 schema_type: Article
 ---
-
 Ik heb anderhalf jaar geleden mijn CV-ketel aangevuld met een Vaillant hybride warmtepomp en mijn gasverbruik is van 1.400 m3 naar 580 m3 gedaald. Netto besparing: bijna €900 per jaar. Maar een warmtepomp is niet voor iedereen de juiste keuze — bij een slecht geisoleerd huis of laag gasverbruik kan de terugverdientijd oplopen tot 15 jaar. In dit artikel reken ik het voor je door.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -51,6 +50,11 @@ Al besloten dat je een warmtepomp wilt? Bekijk onze [top 5 hybride warmtepompen]
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Warmtepomp vs CV-ketel vergeleken op kosten, besparing, comfort en duurzaamheid. Ontdek wanneer een warmtepomp rendabel is en wanneer een CV-ketel de betere.
+>
+> Een warmtepomp is duurder in aanschaf (€4.000-€15.000 vs €1.500-€2.500 voor een CV-ketel), maar de gebruikskosten zijn 40-70% lager. Over 15 jaar gerekend is een warmtepomp vrijwel altijd goedkoper, vooral met de ISDE-subsidie van €3.000-€5.500 en stijgende gasprijzen.
+
 ## Vijf concrete vragen om te beantwoorden voor je besluit
 
 Voordat je een aannemer belt, stel jezelf deze vijf vragen. De antwoorden bepalen grotendeels welke keuze rationeel is.
@@ -394,3 +398,7 @@ Ter referentie: een onderhoudscontract voor de warmtepomp + ketel kost gemiddeld
 ---
 
 *Laatst bijgewerkt: mei 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

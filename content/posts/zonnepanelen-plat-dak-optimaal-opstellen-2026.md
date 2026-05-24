@@ -54,7 +54,6 @@ products:
   price: '5995'
 schema_type: Article
 ---
-
 In de afgelopen 12 maanden heb ik vier installaties op plat dak van dichtbij gevolgd: twee zuid 15°, twee oost-west 10°. Bij elke installatie heb ik kWh-opbrengst, zelfconsumptie-percentage en kosten per kWp gemeten. De verschillen zijn groter dan ik dacht — en het advies dat de meeste installateurs geven (altijd zuid) blijkt niet voor iedereen optimaal.
 
 In dit artikel deel ik de cijfers en geef advies per profiel.
@@ -64,6 +63,11 @@ In dit artikel deel ik de cijfers en geef advies per profiel.
 ---
 
 💡 *Voor de basisvergelijking plat vs schuin dak: lees [zonnepanelen plat dak vs schuin dak](/posts/zonnepanelen-plat-dak-vs-schuin-dak-2026/) eerst.*
+
+
+> **Kort antwoord:** Hoe stel je zonnepanelen op een plat dak optimaal op in 2026? Zuid 15° of oost-west 10°? Cijfers, rekenvoorbeelden en eerlijk advies post-saldering.
+>
+> Het hangt af van je doel. Voor maximaal kWh per jaar (saldering): zuid 15° helling. Voor maximale zelfconsumptie en post-2027 rendement: oost-west 10° helling. Verschil in opbrengst: zuid levert 7-12% meer kWh, oost-west levert 30-40% meer zelfconsumptie. Voor wie thuisbatterij heeft: zuid is iets gunstiger; voor wie geen batterij heeft maar wel EV of warmtepomp: oost-west.
 
 ## De vier installaties
 
@@ -401,3 +405,7 @@ Schletter (Duits, hoogste belasting), Esdec FlatFix (Nederlands, lichtere optie)
 
 **Hoeveel rij-afstand bij Oost-West?**
 Standaard 60-80 cm tussen rijen om schaduw 's middags te minimaliseren. Bij 12 graden helling kan 50 cm — minder dan dat, wel rendementsverlies door schaduw.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

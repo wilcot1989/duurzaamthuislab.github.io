@@ -42,10 +42,14 @@ products:
 schema_type: Article
 last_updated: '2026-04-29'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "Dynamisch contract + thuisbatterij? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** Wat verdient een 10 kWh thuisbatterij echt op een dynamisch contract? Ik draai 12 maanden Tibber+Sessy data en bouw een rekenmodel met realistische cijfers.
+>
+> Een prijssysteem waarbij je hoger tarief voor teruglevering betaalt naarmate je meer teruglevert. Bijvoorbeeld 0-1.500 kWh gratis, 1.501-3.000 kWh kost 6 cent per kWh extra.
 
 ## Korte conclusie
 
@@ -302,3 +306,7 @@ Elke 6 maanden. EPEX-prijzen schommelen seizoensgebonden en kunnen rendementsber
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-09-09 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

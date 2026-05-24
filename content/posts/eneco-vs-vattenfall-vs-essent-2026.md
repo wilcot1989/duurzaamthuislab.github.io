@@ -55,7 +55,6 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 In maart 2025 stond ik voor een keuze: mijn 2-jarige vaste contract bij Eneco liep af. Mijn vrouw zei: "Ga gewoon naar de goedkoopste." Ik wilde zeker weten welke het écht was. Dus heb ik 12 maanden lang Eneco, Vattenfall en Essent vergeleken — niet alleen op tarief, maar op service, app, duurzaamheid en klantenervaring. Zelfs een tijdelijk dubbelaccount aangemaakt om de Vattenfall-app te testen.
 
 *Disclosure: ik heb geen affiliate-deal met deze drie. Ze zijn de drie grootste energieleveranciers in Nederland en ik wilde een eerlijke vergelijking. Mijn keuze staat onderaan.*
@@ -63,6 +62,11 @@ In maart 2025 stond ik voor een keuze: mijn 2-jarige vaste contract bij Eneco li
 ---
 
 💡 *Overweeg je dynamisch contract in plaats van vast? Lees [dynamisch contract vs vast contract 2026](/posts/dynamisch-vs-vast-contract-2026/).*
+
+
+> **Kort antwoord:** Eneco, Vattenfall of Essent in 2026? Ik vergeleek 12 maanden lang energietarieven, klantenservice, app en duurzaamheid. Eerlijke conclusie en mijn keuze.
+>
+> Op vast contract 2 jaar in mei 2026: Essent gemiddeld €1.842/jaar (3.500 kWh + 1.200 m³), Vattenfall €1.875, Eneco €1.918. Verschil €76/jaar — niet groot, maar Essent wint puur op tarief. Bij dynamisch contract draait alles om de uurprijzen, dan is energiehandel-snelheid belangrijker dan merknaam.
 
 ## Marktaandeel en context 2026
 
@@ -344,3 +348,7 @@ Eneco's klantenservice werkt sinds januari 2026 met een nieuwe AI-eerstelijn die
 Tarieftransparantie verschilt ook: Eneco toont alle componenten (kale prijs, transport, belasting, BTW) direct in de app. Vattenfall pas na inloggen op de website. Essent stuurt het pas in een PDF-bijlage bij de jaarrekening. Voor wie zijn werkelijke kostprijs per kWh wil weten — bijvoorbeeld om te beslissen of een thuisbatterij rendabel is — werkt Eneco veruit het prettigst.
 
 Tot slot: alle drie hebben sinds 2025 verplichte tweemaandelijkse termijnnota's afgeschaft en zijn over op maandelijks. Dat scheelt liquiditeit maar betekent ook dat je per maand schommelingen ziet. Wie liever vast wil betalen kan een vast termijnbedrag aanvragen — bij Eneco kan dat in de app, bij Vattenfall en Essent moet je bellen of mailen.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

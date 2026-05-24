@@ -51,7 +51,6 @@ products:
   price: variabel
 schema_type: Article
 ---
-
 Mijn buurman stelde me vorige maand een eerlijke vraag: "Mark, ik heb geen zonnepanelen en ga die ook niet nemen want mijn dak is op het noorden. Heeft een thuisbatterij dan nog enig zin?" Ik moest even nadenken. Want het eerlijke antwoord is: ja, maar met een kanttekening die aardig wat gewicht heeft.
 
 In dit artikel reken ik je eerlijk voor wat je kunt verwachten, welke batterijen het beste werken zonder zonnepanelen, en of het financieel verstandig is om nu al te investeren of beter te wachten op 2027.
@@ -59,6 +58,11 @@ In dit artikel reken ik je eerlijk voor wat je kunt verwachten, welke batterijen
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Heeft een thuisbatterij zonder zonnepanelen zin in 2027? Met een dynamisch energiecontract en slimme thuisbatterij kun je toch besparen op je energierekening.
+>
+> Ja, mits je een dynamisch energiecontract hebt. Door 's nachts of op spotmarkt-laagtepunten goedkoop te laden en te ontladen op dure uren, bespaar je €200-€600 per jaar afhankelijk van je verbruik en de marktvariatie. Zonder dynamisch contract is de besparing minimaal.
 
 ## Het fundamentele principe: arbitrage
 
@@ -479,3 +483,7 @@ Wachten is dus een legitieme strategie. Maar als je nu al de voordelen wilt en d
 - [Thuisbatterij binnen of buiten plaatsen: veilig 2026](/posts/thuisbatterij-buiten-vs-binnen-installeren-2026/)
 - [Marstek Venus review 2026: de goedkoopste slimme](/posts/marstek-venus-review-thuisbatterij/)
 - [Sessy review 2026: eerlijke test van de Nederlandse](/posts/sessy-review-thuisbatterij-nederland/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -42,10 +42,14 @@ products:
 schema_type: Article
 last_updated: '2026-04-29'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "EPEX spot-prijzen uitleg 2026? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** EPEX spot bepaalt je uurprijs bij Tibber, Frank en ANWB. Hoe komt de prijs tot stand, wat zijn negatieve uren, en hoe stuur je erop?
+>
+> Een prijssysteem waarbij je hoger tarief voor teruglevering betaalt naarmate je meer teruglevert. Bijvoorbeeld 0-1.500 kWh gratis, 1.501-3.000 kWh kost 6 cent per kWh extra.
 
 ## Korte conclusie
 
@@ -302,3 +306,7 @@ Gascentrales bepalen vaker de marginale prijs in NL door minder windcapaciteit. 
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-09-11 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

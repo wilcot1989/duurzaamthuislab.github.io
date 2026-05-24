@@ -52,7 +52,6 @@ products:
   price: '180'
 schema_type: Article
 ---
-
 In mijn straat staan twee identieke jaren-90 woningen naast elkaar. Beide met 18 zonnepanelen, beide gemonteerd in 2024 met dezelfde Trina-panelen en SolarEdge-omvormer. Het verschil: nummer 14 heeft een schuin dak (35° zuid), nummer 16 heeft een platdakaanbouw met oost-west opgesteld systeem.
 
 Twee jaar lang heb ik (met toestemming) hun cijfers naast elkaar gelegd. Dit is wat de data laat zien — en wat ik raad voor wie kiezen moet.
@@ -62,6 +61,11 @@ Twee jaar lang heb ik (met toestemming) hun cijfers naast elkaar gelegd. Dit is 
 ---
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+
+> **Kort antwoord:** Plat dak of schuin dak voor zonnepanelen? Mijn meting van twee buurhuizen met identieke kit. Opbrengst, kosten en eerlijke aanbeveling 2026.
+>
+> Per kWp paneelvermogen: een schuin dak op zuid (35° helling) levert gemiddeld 950-1000 kWh/kWp/jaar in Nederland. Een plat dak met opgesteld systeem op 15° zuid levert 880-940 kWh/kWp/jaar. Een plat dak oost-west levert 800-880 kWh/kWp/jaar. Schuin dak wint per kWp, MAAR een plat dak heeft vaak meer ruimte voor panelen, dus totale opbrengst kan hoger uitvallen.
 
 ## De twee opstellingen
 
@@ -372,3 +376,7 @@ Welk daktype heeft de minste onderhoud? Schuin dak doorgaans minder, panelen bli
 Hoe zit het met zonnefolie of leipannen-PV op schuin dak? Sinds 2025 verkrijgbaar in NL via SunStyle en Solarix. Esthetisch beter (geen "zonnepaneel-look") maar 15-25% duurder per kWp. Voor monumentenpanden vaak enige optie. Levensduur en rendement vergelijkbaar met standaard panelen.
 
 Mag ik panelen plaatsen tot tegen dakrand? Bouwbesluit eist 30 cm vrij houden van dakrand voor brand- en valveiligheid. Bij overschrijding: keuring afgewezen, verzekering ongeldig. Ervaren installateur weet dit, maar check zelf de offerte-tekening.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -49,7 +49,6 @@ products:
   url: https://www.frankenergie.nl/
   price: '0'
 ---
-
 Een buurvrouw van mijn moeder woont al 22 jaar in een corporatiewoning. Ze betaalt €820/maand huur, €290/maand energie. Toen ik haar in 2024 vertelde dat ze zonnepanelen kon laten plaatsen via haar corporatie, geloofde ze het niet. "Dat geldt toch alleen voor mensen met een eigen huis?" Toen we contact opnamen met haar corporatie, bleek het ze al een verduurzamingsplan hadden lopen — alleen ze had het nooit ontvangen.
 
 Resultaat: 8 maanden later waren 9 panelen geplaatst. Servicekosten +€8/maand. Energiebesparing -€42/maand. Netto +€34/maand in haar portemonnee. Plus een woning die over 10 jaar nog energiezuiniger is.
@@ -57,6 +56,11 @@ Resultaat: 8 maanden later waren 9 panelen geplaatst. Servicekosten +€8/maand.
 Hieronder mijn complete stappenplan voor huurders in sociale huur die zonnepanelen willen.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Zonnepanelen op je sociale huurwoning: wat zijn je rechten, hoe vraag je het aan, en wat zijn alternatieven? Stappenplan voor huurders bij woningcorporaties in 2026.
+>
+> Sinds 1 januari 2024 mag een corporatie zonnepanelen niet meer weigeren bij gezamenlijk eigen-financiering of bij investeringsverzoek van huurders, mits het pand technisch geschikt is. Wel kan procedure 6-12 maanden duren.
 
 ## Wat zijn je rechten als huurder?
 
@@ -407,3 +411,7 @@ Sinds mei 2025 mag een woningcorporatie een redelijk verzoek tot panelen-plaatsi
 
 **Krijg ik een terugleververgoeding als individuele huurder?**
 Ja, mits eigen meter en eigen leveringscontract. Bij blokverwarming of gedeelde meters niet. Vraag bij corporatie of individuele aansluiting mogelijk is — vaak ja tegen 200-450 euro netbeheerkosten.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

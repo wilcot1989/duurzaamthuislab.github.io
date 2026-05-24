@@ -44,7 +44,6 @@ products:
   price: '2299'
 schema_type: Article
 ---
-
 Ik krijg elke week mails van mensen die eigenlijk wel willen investeren in een thuisbatterij, maar het budget voor een Sessy of Tesla Powerwall er niet voor hebben. "Mark, bestaat er zoiets als een goede batterij onder de €3.000?"
 
 Het antwoord is: ja. Maar met de juiste verwachtingen.
@@ -54,6 +53,11 @@ In dit artikel bespreek ik de beste opties onder €3.000, waarom de prijs lager
 *Disclosure: ik heb een affiliaterelatie met Marstek.*
 
 ---
+
+
+> **Kort antwoord:** Welke thuisbatterij geeft je de meeste waarde onder €3.000? Ik vergelijk Marstek Venus, BYD Battery-Box en meer.
+>
+> Dat hangt af van het type. LFP (lithiumijzerfosfaat) batterijen zijn inherent veiliger dan NMC. Marstek gebruikt LFP-cellen van BYD — dezelfde technologie als in dure systemen. De lagere prijs zit hem in een kleinere marge, minder premium verpakking en minder uitgebreide service, niet in inferieure cellen.
 
 ## Waarom zijn sommige thuisbatterijen zo veel goedkoper?
 
@@ -465,3 +469,7 @@ Als je geen zonnepanelen hebt en er ook geen plant: wacht nog even. Een thuisbat
 - [Beste thuisbatterij eengezinswoning 2026](/posts/beste-thuisbatterij-eengezinswoning-2026/)
 - [Beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/)
 - [Saldering stopt 2027 — wat nu?](/posts/saldering-stopt-2027-volledige-gids/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

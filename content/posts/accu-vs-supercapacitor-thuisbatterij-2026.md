@@ -47,7 +47,6 @@ products:
   price: '3499'
 schema_type: Article
 ---
-
 Een technisch onderlegde kennis stuurde me vorig jaar een link naar een Kickstarter-project: "Mark, ze beloven een thuisbatterij op basis van supercapacitors. 1.000.000 laadcycli! Moet ik wachten?" Ik keek naar de specificaties, deed mijn rekenwerk en stuurde hem terug: nee, dit is niet wat het lijkt.
 
 Het is een terugkerende vraag die ik stel aan mezelf en anderen: moet je wachten op de volgende generatie batterij-technologie, of is de huidige LiFePO4-technologie al goed genoeg? Dit artikel geeft een eerlijk antwoord.
@@ -55,6 +54,11 @@ Het is een terugkerende vraag die ik stel aan mezelf en anderen: moet je wachten
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Lithium vs nieuwe accu-technologieën — wanneer relevant, wat is hype, wat werkt nu al voor Nederlandse huishoudens.
+>
+> Nee, voor thuisopslag zijn supercapacitors in 2026 geen beter alternatief. Supercapacitors hebben uitstekende snelle laad-/ontlaadprestaties maar een energiedichtheid die 10-50 keer lager ligt dan lithium. Een bruikbare thuisbatterij van 10 kWh zou in supercapacitor-technologie onpraktisch groot en duur worden.
 
 ## Hoe energieopslag werkt: drie fundamentele mechanismes
 
@@ -434,3 +438,7 @@ De ISDE-subsidie is gebonden aan de erkende-typenlijst van de RVO, die jaarlijks
 - [Marstek Venus review 2026: de goedkoopste slimme](/posts/marstek-venus-review-thuisbatterij/)
 - [Sessy review 2026: eerlijke test van de Nederlandse](/posts/sessy-review-thuisbatterij-nederland/)
 - [Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

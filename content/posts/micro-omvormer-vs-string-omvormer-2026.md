@@ -48,7 +48,6 @@ products:
   price: zie artikel
 schema_type: Article
 ---
-
 Ik weet nog goed hoe de installateur mij uitlegde waarom hij SolarEdge aanbeval boven een standaard string-omvormer. "Je dak heeft drie takken van die beuk aan de westkant die 's ochtends schaduwen. Met een gewone string-omvormer verlies je dan opbrengst van het hele dak." Hij had gelijk, maar het kostte me ook €700 extra.
 
 Tegenwoordig zijn de keuzes nog complexer. Naast SolarEdge en Enphase zijn er nu goedkopere micro-omvormer-merken (APsystems) en het Huawei FusionSolar-systeem dat steeds populairder wordt. En dan is er nog de vraag over thuisbatterij-integratie.
@@ -58,6 +57,11 @@ In dit artikel zet ik alle opties naast elkaar, zodat jij de juiste keuze maakt 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** SolarEdge, Enphase, Huawei en APsystems vergeleken — wanneer micro-omvormer slim, wanneer string-omvormer voldoende voor jouw NL-dak.
+>
+> Een string-omvormer zit centraal en converteert de DC-stroom van alle panelen samen naar AC. Een micro-omvormer zit per paneel en converteert per paneel individueel. Bij micro-omvormers heeft schaduw of vervuiling op één paneel geen invloed op de andere panelen.
 
 ## De basisprincipes: hoe werken omvormers?
 
@@ -400,3 +404,7 @@ Meerkosten optimizers ten opzichte van gewone string: €1.400. Terugverdientijd
 - [Oost-west zonnepanelen vs. zuidsysteem](/posts/oost-west-zonnepanelen-vs-zuid-2026/)
 - [Saldering calculator 2027: jaar-voor-jaar impact bereken](/posts/saldering-calculator-2027-volledig/)
 - [Afbouw Salderingsregeling 2026: Wat Betekent Het voor Jou?](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

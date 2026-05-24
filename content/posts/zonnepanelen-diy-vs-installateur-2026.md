@@ -50,12 +50,16 @@ products:
   url: https://www.coolblue.nl/zonnepanelen
   price: '5800'
 ---
-
 Ik krijg deze vraag vaak: "Mark, kan ik mijn zonnepanelen niet gewoon zelf op mijn dak leggen? €5.500 voor een setje voelt te veel." Ik begrijp het. Maar het antwoord is genuanceerd — het hangt af van wat je verstaat onder "zelf doen", wat voor dak je hebt, en hoeveel risico je wilt nemen.
 
 In de afgelopen jaren heb ik 30+ DIY-installaties begeleid (deels of volledig). Sommigen succesvol met €2.000 besparing. Andere eindigden in ellende: lekkende daken, weggewaaide panelen, geweigerde verzekeringsclaims. Hieronder de eerlijke afweging.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Zelf zonnepanelen plaatsen vs installateur inhuren: kosten, risico, garantie, verzekering. Mijn analyse op basis van 30+ DIY-projecten in Nederland.
+>
+> Ja, zelf monteren mag. Maar de elektrische aansluiting op het net moet door een gecertificeerde installateur (NEN-1010, Liander/Stedin/Enexis-aansluiteis). Volledig DIY tot en met netaansluiting is illegaal voor on-grid installaties.
 
 ## Wat mag wel en niet?
 
@@ -405,3 +409,7 @@ K2 is duitse kwaliteit met fijne afwerking en goede klembereik. Esdec (FlatFix F
 Ja, mits je het juiste type vervangt. Bij Q.CELLS, JA Solar, LONGi en Trina is paneel-vervanging door eigenaar geen probleem voor garantie. Bij Sunpower en LG vervalt de hele systeemgarantie als je een onderdeel zonder gecertificeerde installateur vervangt.
 
 Voor verdere lezing: [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/), [omvormer kiezen](/posts/omvormer-kiezen-welke-past-2026/), [montagesysteem vergelijking](/posts/montagesysteem-zonnepanelen-vergelijking-2026/), [zonnepanelen onderhoud](/posts/zonnepanelen-onderhoud-schoonmaken-2026/) en [zonnepanelen installateur kiezen](/posts/beste-zonnepanelen-installateur-kiezen-2026/).
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

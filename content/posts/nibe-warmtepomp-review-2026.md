@@ -51,7 +51,6 @@ products:
   price: '21500'
 schema_type: Review
 ---
-
 Een vriend in Friesland heeft sinds 2024 een Nibe S2125-8 draaien op zijn jaren-30 gerenoveerde boerderij. Toen ik hem vroeg of ik mocht meekijken voor een review, was hij meteen bereid: hij had zelf een uitgebreide vergelijking gedaan voordat hij koos.
 
 In dit artikel deel ik zijn ervaring na 18 maanden + mijn eigen onafhankelijke metingen tijdens drie bezoeken.
@@ -61,6 +60,11 @@ In dit artikel deel ik zijn ervaring na 18 maanden + mijn eigen onafhankelijke m
 ---
 
 💡 *Twijfel je tussen lucht-water en bodemwarmtepomp? Lees [aardwarmte warmtepomp bodembron](/posts/aardwarmte-warmtepomp-bodembron-2026/) voor de basis.*
+
+
+> **Kort antwoord:** Volledige review van Nibe warmtepompen in Nederland 2026. COP, kosten, geluid en service na een jaar testen. Past Nibe bij een Nederlandse woning?
+>
+> Nibe S2125-8 lucht-water 8 kW: €11.800-€14.500 inclusief installatie en buffervat. Nibe S1255 bodemwarmtepomp 6 kW: €18.500-€26.000 inclusief bodemlus. ISDE-subsidie: €2.450-€4.150 afhankelijk van model. Netto: €9.000-€10.500 voor lucht-water, €15.000-€22.000 voor bodem. Premium prijssegment.
 
 ## Wie is Nibe?
 
@@ -438,3 +442,7 @@ Niet voor iedereen geschikt. Wel voor wie weet wat hij wil en bereid is een prem
 - [Warmtepomp geluid en buren](/posts/warmtepomp-geluid-buren-2026-norm/)
 - [ISDE subsidie 2026](/posts/isde-subsidie-warmtepompen-2026/)
 - [Hoe kies je een installateur](/posts/beste-warmtepompinstallateur-kiezen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

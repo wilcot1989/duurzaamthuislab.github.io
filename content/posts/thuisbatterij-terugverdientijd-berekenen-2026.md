@@ -46,13 +46,17 @@ products:
   price: '9500'
 schema_type: Article
 ---
-
 Voordat ik mijn Huawei Luna 10 kWh kocht, heb ik een uitgebreide spreadsheet gemaakt met alle variabelen: mijn zonnepaneelopbrengst (5.200 kWh/jaar), verbruiksprofiel dag/nacht, Tibber-tarieven, ISDE-subsidie en de afbouw van de salderingsregeling. Mijn conclusie: terugverdientijd van 9 jaar, en na de afbouw van saldering zelfs sneller. In deze gids deel ik precies hoe je die berekening zelf maakt.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Leer hoe je de terugverdientijd van een thuisbatterij berekent. Inclusief rekenvoorbeelden, invloed van salderingsregeling, subsidies en dynamische tarieven.
+>
+> De terugverdientijd van een thuisbatterij ligt in 2026 gemiddeld tussen de 7 en 13 jaar, afhankelijk van je energieverbruik, zonnepanelen-opbrengst, energieprijzen en of je subsidie ontvangt. Na afbouw van de salderingsregeling (2027-2031) wordt de terugverdientijd aanzienlijk korter.
+
 ## Waarom de standaard "7-12 jaar" onzin is voor jou persoonlijk
 
 Je leest overal terugverdientijden van "7 tot 12 jaar". Die zijn gemiddelden over duizenden huishoudens met verschillende setups. Jouw situatie is specifieker:
@@ -472,3 +476,7 @@ De terugverdientijd is geen garantie maar een verwachting. Energieprijzen fluctu
 
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -49,13 +49,17 @@ products:
   price: '599'
 schema_type: Review
 ---
-
 Voor onder de €450 krijg je 768 Wh, razendsnelle X-Stream oplaadtechnologie en een gewicht van maar 7,8 kg — de EcoFlow River 2 Pro is mijn vaste metgezel op campingtrips. Ik heb hem een heel weekend mijn koelbox, telefoons en LED-lampjes laten voeden, en hij hield het ruimschoots vol. In deze review deel ik mijn praktijkervaringen en de cijfers die erbij horen.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Uitgebreide review van de EcoFlow River 2 Pro in 2026. Capaciteit, prestaties, laadsnelheid en onze eerlijke ervaringen met dit budget powerstation.
+>
+> De EcoFlow River 2 Pro heeft een adviesprijs van circa €400-470. Tijdens acties is het toestel regelmatig verkrijgbaar voor €350-400. Hiermee is het een van de meest betaalbare powerstations met 768 Wh capaciteit op de markt.
+
 ## EcoFlow River 2 Pro: Specificaties
 
 | Specificatie | Waarde |

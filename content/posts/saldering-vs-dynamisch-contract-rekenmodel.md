@@ -54,7 +54,6 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 In oktober 2025 stond ik voor de keus. Mijn vaste contract bij een grote leverancier liep af. Hernieuwen voor 2 jaar tegen 32 cent per kWh, of overstappen naar dynamisch waar ik geen idee had wat ik zou betalen. Mijn vrouw vond het een gok.
 
 Acht maanden later weet ik het zeker: de overstap was de beste financiële beslissing van vorig jaar. Ik bespaar gemiddeld €40 per maand — €480 per jaar — vergeleken met wat ik bij vast had betaald. En dat is met saldering nog actief. Vanaf 2027, als de saldering wegvalt, wordt het verschil **nog veel groter**.
@@ -67,6 +66,11 @@ In dit artikel reken ik door wat de keus tussen vast en dynamisch concreet betek
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Concrete vergelijking tussen vast contract met saldering-stop en dynamisch contract na 2027. Per huishoudprofiel doorgerekend met actuele cijfers.
+>
+> Bij een vast contract betaal je een vast tarief per kWh, contractueel afgesproken voor 1-3 jaar. Bij dynamisch contract verandert het tarief per uur op basis van de groothandelsmarkt. In zonzomer-uren kunnen prijzen negatief zijn (jij krijgt geld voor afnemen), in piekuren 's avonds kunnen ze 4× hoger zijn dan een vast tarief.
+
 ## Het rekenmodel: hoe ga ik te werk?
 
 Voor een eerlijke vergelijking heb ik een rekenmodel gemaakt dat per huishoudprofiel berekent:
@@ -467,3 +471,7 @@ Wachten tot 2027 om over te stappen levert je niets op behalve gemiste besparing
 - [Tibber review en ervaringen](/posts/tibber-review-ervaringen-2026/)
 - [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/)
 - [Beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

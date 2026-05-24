@@ -44,7 +44,6 @@ products:
   price: op aanvraag
 schema_type: Article
 ---
-
 Twee jaar geleden liet ik een ATAG warmtepomp installeren. In het eerste jaar hoorde ik vrijwel niets — het systeem draaide stil en efficiënt. In het tweede jaar begon de druk in het leidingnet te dalen, en ik wist niet hoe ik het zelf moest bijvullen. Dat kostte me een service-bezoek van €180.
 
 Die ervaring leerde me: onderhoud van een warmtepomp is niet ingewikkeld, maar je moet weten wat je wanneer moet doen. En wat het kost. In dit artikel zet ik alles op een rij, gebaseerd op twee jaar eigen ervaring en gesprekken met installateurs.
@@ -52,6 +51,11 @@ Die ervaring leerde me: onderhoud van een warmtepomp is niet ingewikkeld, maar j
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Welk onderhoud heeft een warmtepomp jaarlijks nodig, wat kost het 5-jaarlijkse onderhoud.
+>
+> Een warmtepomp heeft jaarlijks een basiscontrole nodig (filters, kondensaat, druk) en elke 3-5 jaar een uitgebreid service-beurt inclusief controle van het koudemiddel, de elektrische aansluitingen en het verwarmingssysteem. Raadpleeg altijd de handleiding van jouw model.
 
 ## Waarom warmtepomp-onderhoud anders is dan cv-ketelonderhoud
 
@@ -472,3 +476,7 @@ De warmtepomp verdient zichzelf terug — maar alleen als het systeem goed wordt
 - [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
 - [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
 - [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

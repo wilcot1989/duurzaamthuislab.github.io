@@ -43,7 +43,6 @@ products:
     url: "https://go.duurzaamthuislab.nl/tibber"
     price: "6"
 ---
-
 *Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvang ik mogelijk een commissie zonder dat jij meer betaalt. Ik test producten zelf en deel ook nadelen — geen advertorial.*
 
 Vorige maand belde een buurman me. "Mark, ik wil een thuisbatterij. Sessy of Marstek?" Hij had 4.200 kWh verbruik, 14 zonnepanelen en geen verstand van Home Assistant. Ik gaf hem hetzelfde advies als ik aan honderd anderen heb gegeven: het ligt aan wie je bent. Sessy en Marstek lossen hetzelfde probleem op, maar verkopen aan totaal verschillende klanten.
@@ -51,6 +50,11 @@ Vorige maand belde een buurman me. "Mark, ik wil een thuisbatterij. Sessy of Mar
 In dit artikel vergelijk ik beide systemen op de 8 punten die er werkelijk toe doen: prijs per kWh, automation, software, NL-support, terugverdientijd met dynamisch contract, garantie, schaalbaarheid en de menselijke factor (wil je geknutsel of wil je rust?). Aan het eind weet je welke past.
 
 ---
+
+
+> **Kort antwoord:** Sessy vs Marstek vergeleken op prijs, automation, software en terugverdientijd. Welke thuisbatterij past bij jouw huishouden in 2026?
+>
+> Sessy wint op gebruiksgemak en NL-integratie (out-of-the-box met EnergyZero, Frank, Tibber). Marstek wint op prijs (€2.299 voor 8,2 kWh tegen €5.995 voor 10 kWh Sessy) en flexibiliteit via Home Assistant. Voor doe-het-zelvers: Marstek. Voor mensen die willen dat het gewoon werkt: Sessy.
 
 ## Snelle samenvatting
 
@@ -371,3 +375,7 @@ Sessy: 60×40×35 cm per unit, 65 kg. Past in een meterkast of bijkeuken. Marste
 - [Thuisbatterij kopen vs leasen 2026](/posts/thuisbatterij-kopen-vs-leasen-2026/)
 - [Saldering calculator 2027 volledig](/posts/saldering-calculator-2027-volledig/)
 - [Dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

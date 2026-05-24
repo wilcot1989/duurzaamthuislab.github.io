@@ -50,7 +50,6 @@ products:
   price: '2200'
 schema_type: Article
 ---
-
 Vorig jaar belde een buurvrouw me op — Sandra, eigenaar van een jaren-zeventig rijtjeswoning in Amersfoort. Ze had negen jaar geleden een zonneboiler laten installeren, en nu was de collector aan vervanging toe. De installateur bood haar twee opties: een nieuwe zonneboiler voor €3.400 of een warmtepompboiler voor €2.200 vóór subsidie. Ze vroeg mij wat ze moest kiezen.
 
 Ik heb haar geholpen met de afweging. Maar het was geen simpel antwoord — want de situatie van negen jaar geleden is niet meer de situatie van 2026. Subsidieregels zijn veranderd, energieprijzen zijn gestegen, zonnepanelen zijn goedkoper geworden. En de warmtepompboiler heeft een serieuze technologische sprong gemaakt.
@@ -58,6 +57,11 @@ Ik heb haar geholpen met de afweging. Maar het was geen simpel antwoord — want
 In dit artikel leg ik de vergelijking volledig bloot: kosten, opbrengst, subsidie, onderhoudslasten en geschiktheid voor jouw specifieke situatie. Geen marketingverhaal — gewoon de cijfers en eerlijke conclusies.
 
 ---
+
+
+> **Kort antwoord:** Zonneboiler of warmtepompboiler? Ik vergelijk kosten, subsidie, terugverdientijd en praktische geschiktheid voor jouw situatie.
+>
+> Een zonneboiler gebruikt zonnecollectoren op het dak om direct warmte op te vangen en daarmee water te verwarmen. Een warmtepompboiler staat binnenshuis en pompt omgevingswarmte uit de lucht naar het water — vergelijkbaar met een koelkast omgekeerd. De zonneboiler is afhankelijk van zonlicht, de warmtepompboiler werkt ook 's nachts en in de winter, zij het minder efficiënt.
 
 ## Wat doen ze allebei, eigenlijk?
 
@@ -376,3 +380,7 @@ De gemiddelde installatie inclusief ISDE-voorbereiding neemt 3–5 weken van bes
 - [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
 - [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
 - [Beste warmtepompboiler 2026: vergelijking van 6 modellen](/posts/beste-warmtepompboiler-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

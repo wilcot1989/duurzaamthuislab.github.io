@@ -51,7 +51,6 @@ products:
   price: '9500'
 schema_type: Article
 ---
-
 Toen mijn zwager naar mijn advies vroeg over zijn cv-vervanging, hadden we drie offertes op tafel: Quatt €4.495, Atag iC Hybrid €6.800 en Atag Energion all-electric €10.200 voor zijn jaren-90 woning. We zijn drie maanden bezig geweest met dit samen uit te zoeken — installateurs gebeld, dealers bezocht, COP-tabellen vergeleken.
 
 In dit artikel deel ik wat we vonden en welke keuze hij uiteindelijk maakte (en waarom).
@@ -61,6 +60,11 @@ In dit artikel deel ik wat we vonden en welke keuze hij uiteindelijk maakte (en 
 ---
 
 💡 *Wil je het basisverschil tussen warmtepomp-typen begrijpen? Lees [warmtepomp monoblock vs split](/posts/warmtepomp-monoblock-vs-split-2026/) eerst.*
+
+
+> **Kort antwoord:** Quatt hybride of Atag all-electric in 2026? Eerlijke vergelijking op prijs, COP, geluid en service met cijfers uit echte huishoudens.
+>
+> Quatt is een hybride warmtepomp die samenwerkt met je bestaande cv-ketel — dus je houdt gas voor koude piekdagen. Atag biedt zowel hybride (Atag iC Hybrid) als full-electric warmtepompen (Atag Energion). Atag is een traditioneel cv-merk dat overstapt op warmtepompen, Quatt is een digital-first startup met service-abonnement model.
 
 ## De situatie van mijn zwager
 
@@ -357,3 +361,7 @@ Mijn zwager is na een jaar tevreden met zijn keuze. Geen storingen, halvering ga
 - [Warmtepomp onderhoud kosten](/posts/warmtepomp-onderhoud-kosten-2026/)
 - [ISDE subsidie 2026](/posts/isde-subsidie-warmtepompen-2026/)
 - [Hoe kies je een installateur](/posts/beste-warmtepompinstallateur-kiezen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

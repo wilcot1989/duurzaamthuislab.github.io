@@ -46,7 +46,6 @@ products:
   price: zie artikel
 schema_type: Article
 ---
-
 De buurvrouw klopte twee weken na de installatie op mijn deur. Vriendelijk, maar duidelijk: "Die unit zoemt elke nacht. Ik slaap er niet van." Ik had mijn warmtepomp vlak naast de schutting geplaatst, 1,2 meter van haar slaapkamerraam. Slecht idee.
 
 Na een gesprek, een geluidsmeting door een installateur en een andere plaatsing is het probleem opgelost. Maar die situatie had ik kunnen voorkomen als ik vooraf beter was geïnformeerd over de 40 dB-norm, erfgrenzen en hoe geluid van een warmtepomp-buitenunit zich gedraagt.
@@ -56,6 +55,11 @@ Dit artikel is wat ik destijds nodig had.
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** 40dB regel, plaatsing erfgrens, juridische geschillen. Praktijkvoorbeelden van rechtszaken plus oplossingen.
+>
+> De 40 dB(A)-norm is de maximale geluidsnorm die een warmtepomp-buitenunit mag produceren op de erfgrens of bij de gevel van het naburige perceel. Deze norm is vastgelegd in het Activiteitenbesluit en geldt specifiek voor warmtepompen bij woningen. Overschrijding kan juridisch worden aangevochten door buren.
 
 ## De wettelijke basis: Activiteitenbesluit en de 40 dB-norm
 
@@ -415,3 +419,7 @@ Dit rapport is het document dat je nodig hebt als je bij de gemeente een klacht 
 - [Vloerverwarming aanleggen in bestaande woning](/posts/vloerverwarming-aanleggen-kosten-2026/)
 - [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

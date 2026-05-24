@@ -51,7 +51,6 @@ products:
   price: '10500'
 schema_type: Article
 ---
-
 In 2025 heb ik 14 mensen begeleid bij het kiezen van een warmtepompinstallateur — vrienden, familie, lezers van duurzaamthuislab. Daarvan hadden er 6 een slechte ervaring: hogere kosten dan offerte, slechte service, of een verkeerd-gekozen capaciteit.
 
 In dit artikel deel ik een 28-punten checklist die ik nu standaard gebruik om miskoop te vermijden. Daarmee zou ik mijn 6 problemen-cases hebben kunnen voorkomen.
@@ -61,6 +60,11 @@ In dit artikel deel ik een 28-punten checklist die ik nu standaard gebruik om mi
 ---
 
 💡 *Twijfel je nog over warmtepomp of cv-ketel? Lees [warmtepomp vs cv-ketel](/posts/warmtepomp-vs-cv-ketel-2026/) voor de basisbeslissing.*
+
+
+> **Kort antwoord:** 28-punten checklist voor het kiezen van een warmtepompinstallateur in 2026. Vermijd verborgen kosten, slechte service en miskoop met deze gids.
+>
+> Vraag minimaal: (1) Bent u ISSO 75-aangetekend? (2) Hoe berekent u de capaciteit voor mijn woning? (3) Wat is de garantietermijn op installatie? (4) Welke service-contracten biedt u? (5) Is een geluidsanalyse inbegrepen? (6) Wie is verantwoordelijk bij storing — u of de fabrikant? (7) Wat zijn de jaarlijkse onderhoudskosten? (8) Bent u erkend voor ISDE-subsidie aanvraag?
 
 ## Stap 1: Voorbereiding (vóór je überhaupt belt)
 
@@ -420,3 +424,7 @@ Het loont om hier even goed bij stil te staan. Een warmtepomp is een 20-jaar-inv
 - [Quatt vs Vaillant](/posts/quatt-vs-vaillant-warmtepomp-2026/)
 - [Mitsubishi Ecodan review](/posts/mitsubishi-ecodan-warmtepomp-review-2026/)
 - [Nibe warmtepomp review](/posts/nibe-warmtepomp-review-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

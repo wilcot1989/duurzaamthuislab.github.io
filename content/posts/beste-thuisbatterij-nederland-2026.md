@@ -53,13 +53,17 @@ products:
   price: '5500'
 schema_type: Article
 ---
-
 Toen ik vorig jaar een thuisbatterij kocht, heb ik wekenlang zitten rekenen. Welk merk, welke capaciteit, en verdien ik het uberhaupt terug? Na maanden onderzoek en inmiddels een jaar ervaring met mijn eigen Huawei Luna 2000 van 10 kWh, deel ik hier welke 5 thuisbatterijen ik zou aanraden — en waarom.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De 5 beste thuisbatterijen voor Nederland vergeleken. Inclusief terugverdientijd, subsidies, compatibiliteit en advies over de salderingsregeling.
+>
+> Een thuisbatterij kost in Nederland tussen de €4.000 en €12.000, afhankelijk van de capaciteit en het merk. Inclusief installatie moet je rekenen op €5.500 tot €14.000 voor een compleet systeem.
+
 ## Snelle vergelijkingstabel
 
 | Thuisbatterij | Capaciteit | Vermogen | Garantie | Prijs (excl. installatie) | Prijs per kWh |
@@ -522,3 +526,7 @@ Zoek je een draagbare oplossing in plaats van een vast systeem? Bekijk dan ons o
 
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

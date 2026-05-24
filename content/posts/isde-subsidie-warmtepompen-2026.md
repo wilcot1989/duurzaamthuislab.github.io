@@ -42,13 +42,17 @@ products:
   price: '9000'
 schema_type: Article
 ---
-
 Voor mijn Vaillant hybride warmtepomp ontving ik €3.000 ISDE-subsidie — dat was bijna de helft van de netto investering. Het aanvraagproces via mijn.rvo.nl duurde 20 minuten en na 11 weken stond het geld op mijn rekening. In deze gids leg ik stap voor stap uit welke bedragen je kunt verwachten, hoe je de aanvraag doet en hoe je de ISDE combineert met gemeentelijke subsidies voor maximaal voordeel.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Alles over de ISDE subsidie in 2026: bedragen voor warmtepompen en isolatie, hoe aanvragen, voorwaarden en combinatie met andere subsidies.
+>
+> De ISDE subsidie voor een warmtepomp varieert van €3.000 tot €5.800 afhankelijk van het type. Een hybride warmtepomp levert circa €3.000 op, een lucht-water warmtepomp €3.000-€3.500, en een bodem-water warmtepomp €4.500-€5.800. Het exacte bedrag hangt af van het vermogen en de SCOP-waarde.
+
 ## Wat is de ISDE?
 
 De ISDE is een rijkssubsidie van de Rijksdienst voor Ondernemend Nederland (RVO) die eigenaar-bewoners stimuleert om hun woning te verduurzamen. De subsidie is beschikbaar voor twee categorieën maatregelen:
@@ -406,3 +410,7 @@ De trend wijst op verdere dalingen in aanschafprijs naarmate de productie schaal
 
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

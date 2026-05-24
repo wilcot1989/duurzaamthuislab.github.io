@@ -52,7 +52,6 @@ products:
   price: '6995'
 schema_type: Article
 ---
-
 Subsidie-vraag is in 2026 de tweede meest gestelde vraag van mijn klanten (na "is een batterij wel rendabel"). Het antwoord is rommelig: er is **geen** landelijke subsidie, maar er **zijn** gemeentelijke en provinciale regelingen. Plus de 0% BTW-regel die iedereen vergeet.
 
 Hier is het volledige overzicht — wat bestaat, hoe je het aanvraagt, en wat er waarschijnlijk verandert in 2027.
@@ -63,6 +62,11 @@ Hier is het volledige overzicht — wat bestaat, hoe je het aanvraagt, en wat er
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Welke subsidies bestaan er voor thuisbatterijen in 2026? Per provincie en gemeente uitgesplitst. Plus BTW-regels, ISDE-status en wanneer subsidie aanvragen.
+>
+> Niet via ISDE in 2026. De ISDE (Investeringssubsidie duurzame energie) dekt zonneboilers, warmtepompen en pelletketels — maar nog geen thuisbatterijen. De overheid heeft aangekondigd dat dit per 2027 gaat veranderen, maar dat is nog niet zeker.
+
 ## Waarom dit onderwerp zo verwarrend is
 
 Er zijn drie bronnen van verwarring die ik keer op keer tegenkom.

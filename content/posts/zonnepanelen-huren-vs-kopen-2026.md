@@ -42,7 +42,6 @@ products:
   price: '5500'
 schema_type: Article
 ---
-
 Ik heb mijn 16 zonnepanelen gekocht voor €4.800 en ze in 6 jaar terugverdiend. Een huurconstructie had me over 25 jaar meer dan €8.000 extra gekost. Toch kan huren voor sommige situaties de betere keuze zijn — bijvoorbeeld als je binnen 5 jaar wilt verhuizen of geen spaargeld hebt. Ik heb beide opties doorgerekend en leg hier het verschil uit.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -51,6 +50,11 @@ Wil je kopen? Bekijk onze [beste zonnepanelen vergelijking](/posts/beste-zonnepa
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Zonnepanelen huren of kopen? Vergelijking van kosten, opbrengst, flexibiliteit en rendement. Ontdek welke optie het beste bij jouw situatie past.
+>
+> Kopen is op de lange termijn altijd voordeliger. Over 25 jaar verdien je €10.000-€20.000 meer met kopen dan met huren. Huren is voordeliger als je geen spaargeld hebt, binnen 5-7 jaar wilt verhuizen, of geen risico wilt nemen op onderhoud en reparatie.
+
 ## Huren vs Kopen: overzicht
 
 | Aspect | Kopen | Huren |
@@ -422,3 +426,7 @@ Kortom: de subsidie-voordelen zijn bijna altijd aan de kant van de koper.
 ---
 
 *Laatst bijgewerkt: mei 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

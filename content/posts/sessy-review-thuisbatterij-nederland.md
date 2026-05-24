@@ -55,7 +55,6 @@ products:
   price: '0'
 schema_type: Review
 ---
-
 Mijn buurman Bas vroeg me in oktober: "Mark, wat vind je van die Sessy? Ze adverteren overal dat het zichzelf terugverdient." Ik kende de specs maar had hem niet zelf getest. Toen heb ik hem gevraagd of ik er één in zijn meterkast mocht plaatsen om vier maanden mee te draaien.
 
 Bas zei ja. Ik heb in november 2025 een Sessy 10 kWh geïnstalleerd in zijn schuur, gekoppeld aan zijn Frank Energie dynamisch contract en zijn 14 zonnepanelen. Vier maanden later (eind februari 2026) heb ik de cijfers geanalyseerd en die zijn... interessant.
@@ -68,6 +67,11 @@ In dit artikel: de complete review. Wat doet Sessy goed, waar liggen de zwaktes,
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Sessy is een Nederlandse thuisbatterij van Charged. Maandenlange test van de 5 kWh en 10 kWh: prestaties, app, dynamisch laden, voor- en nadelen.
+>
+> Sessy is een thuisbatterij van het Nederlandse bedrijf Charged. Het is een AC-gekoppelde batterij in 5 kWh en 10 kWh varianten, die zelfstandig handelt op de dynamische energiemarkt om geld voor je te verdienen.
+
 ## Wie of wat is Sessy?
 
 Sessy is een product van **Charged BV**, een Nederlandse startup uit Amsterdam, opgericht in 2017 door Wouter Voskuil en Frans Voskuil. Het is dus geen Chinese rebrand, geen geïmporteerd Amerikaans product — gewoon Nederlandse engineering, gemaakt voor het Nederlandse net en de Nederlandse markt.
@@ -404,3 +408,7 @@ Voor wie meer wil (V2H, hoog vermogen, automatische backup): kijk naar Tesla Pow
 - [Tesla Powerwall review Nederland](/posts/tesla-powerwall-review-nederland-2026/)
 - [Saldering stopt: volledige gids](/posts/saldering-stopt-2027-volledige-gids/)
 - [Dynamisch contract vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

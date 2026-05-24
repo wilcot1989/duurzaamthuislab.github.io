@@ -43,7 +43,6 @@ products:
     url: "https://go.duurzaamthuislab.nl/quatt"
     price: "6500"
 ---
-
 *Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvang ik mogelijk een commissie zonder dat jij meer betaalt. Mijn analyse is gebaseerd op eigen tests, klant-installaties en data uit installateurs-rapportages.*
 
 Twee weken terug zat ik bij een familie in Houten. Hun cv-ketel uit 2007 was eindelijk stuk. "Welke warmtepomp moeten we kopen, Mark?" Ze hadden 4 offertes: Atag €8.200, Daikin €15.500, Vaillant €13.800, Quatt €6.500/€100 maand. Vier compleet verschillende systemen, vier compleet verschillende verkooppraatjes. Welke is écht de beste?
@@ -51,6 +50,11 @@ Twee weken terug zat ik bij een familie in Houten. Hun cv-ketel uit 2007 was ein
 Geen enkel merk wint op alles. In dit artikel rangschik ik 8 grote merken op de criteria die ertoe doen: SCOP-rendement, prijs, geluid, app, service en geschiktheid per huistype. Aan het eind weet je welk merk bij jou past.
 
 ---
+
+
+> **Kort antwoord:** Welk warmtepomp merk is in 2026 het beste? Ik vergelijk Daikin, Atag, Vaillant, Quatt en 4 anderen op COP, prijs, geluid en service.
+>
+> Voor de gemiddelde rijtjeswoning: Atag (Nederlandse service, COP 4.6, prijs/kwaliteit). Voor luxe villa: Daikin Altherma 3 (silentste, beste app). Voor budget: Quatt (€6.500 all-in, 5 jaar abonnement). Geen enkel merk wint op alles — het ligt aan je huis, budget en service-voorkeur.
 
 ## Top 8 warmtepomp merken 2026
 
@@ -373,3 +377,7 @@ Eerste maand: leercurve thermostaat, eerste week haalt unit niet op temperatuur 
 Na 6 maanden: 1.580 kWh verbruikt (winterperiode), geen storingen. Mitsubishi Wifi-app stabiel, app-update in maand 4. Onderhoudsbeurt €160 in oktober (jaarlijkse keuring).
 
 Na 1 jaar: 3.420 kWh totaal, SCOP 3,95 zoals fabrieksopgave. Geen onderdelen vervangen, alleen filterreiniging. Vergeleken met buurman op Daikin (SCOP 3,5): €280/jaar voordeel voor Mitsubishi. Geluid op terras 36 dB, geen klacht buurman.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

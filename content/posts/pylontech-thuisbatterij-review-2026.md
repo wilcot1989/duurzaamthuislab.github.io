@@ -49,12 +49,16 @@ products:
   url: https://tibber.com/nl
   price: '6'
 ---
-
 Een DIY-installateur uit Nijmegen vroeg mij vorig jaar of Pylontech ook iets is voor zijn klanten. Hij installeert vooral off-grid systemen op recreatiewoningen en boerderijen, en wilde weten of de US5000 ook op een gewoon huis met dynamisch contract werkt. Ik heb in oktober 2025 een Pylontech US5000 setup gevolgd op een woonboerderij in Beuningen, vier maanden lang.
 
 Hieronder mijn eerlijke bevindingen: prestaties, vergelijking met Sessy en BYD, en voor wie deze populaire Chinese batterij echt geschikt is.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Pylontech US5000 review: ik testte de populaire DIY-vriendelijke thuisbatterij. Capaciteit, prijs, betrouwbaarheid en alternatieven voor de Nederlandse markt.
+>
+> De Pylontech US5000 (4,8 kWh nominaal, 4,56 kWh bruikbaar) kost €1.350-€1.500 per module. Inclusief installatie en hybride omvormer kom je op €4.500-€7.500 voor 9,6 kWh setup.
 
 ## Wat is Pylontech?
 
@@ -323,3 +327,7 @@ Hoe lang gaan Pylontech-modules werkelijk mee? In de praktijk zie ik bij agraris
 Met Victron + Tibber-integratie via Home Assistant kan een Pylontech-stack volledig automatisch arbitreren. Configuratie kost 6-8 uur, leercurve 2 weken. Bij klant in Drenthe levert dit €380/jaar extra besparing — verdient 4 dagen werk binnen anderhalf jaar terug.
 
 Tot slot een eerlijk woord over de keuze: Pylontech is geen "wow" batterij. Geen mooie app, geen marketing-glamour, geen selfie-waardige industrieel design. Wat je krijgt is een rotsstabiele batterij die jaar na jaar zijn werk doet. Voor mij persoonlijk is dat aantrekkelijker dan een trendy gadget die over 5 jaar geen firmware-updates meer krijgt. Maar ik begrijp dat het niet voor iedereen is.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

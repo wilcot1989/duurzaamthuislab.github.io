@@ -52,7 +52,6 @@ products:
   price: '2299'
 schema_type: Article
 ---
-
 Vorige week zat een klant met een spreadsheet aan mijn tafel. "Mark, mijn zonnepaneleninstallateur belde dat ik €1.800 per jaar ga verliezen vanaf 2027. Klopt dat?" Ik keek naar zijn cijfers: 12 panelen, 4.5 kWp, 4.200 kWh verbruik per jaar. Hij wekt 4.000 kWh op. Saldering staat op de tocht. Wat gaat er werkelijk gebeuren?
 
 Ik heb de berekening uitgevoerd. Antwoord: hij verliest niet €1.800 maar €580 per jaar tegen 2029 — als hij niets doet. En met een 5 kWh thuisbatterij draait hij dat verlies om naar een netto winst van €120/jaar.
@@ -60,6 +59,11 @@ Ik heb de berekening uitgevoerd. Antwoord: hij verliest niet €1.800 maar €58
 Dat soort exacte cijfers wil je hebben. Daarom heb ik deze calculator gebouwd.
 
 ---
+
+
+> **Kort antwoord:** Vul kWh-verbruik, zonnepanelen en thuisbatterij in. Krijg complete jaar-voor-jaar berekening 2026-2030.
+>
+> De calculator gebruikt de afbouw-percentages uit het concept-wetsvoorstel saldering 2027 (juli 2024 versie). De werkelijke afbouw kan afwijken — vooral als de Eerste Kamer wijzigingen voorstelt. Reken met deze cijfers als richtbedrag, niet als hard contract.
 
 ## Calculator: bereken jouw saldering-impact
 
@@ -390,3 +394,7 @@ Gebruik de calculator hierboven met je eigen cijfers. En kom over een paar maand
 - [Thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)
 - [Beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/)
 - [Dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

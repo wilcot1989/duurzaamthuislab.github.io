@@ -48,7 +48,6 @@ products:
   price: '0'
 schema_type: Review
 ---
-
 Een vriend van mij belde in juli 2025: "Mark, ik wil overstappen naar dynamisch maar mijn vrouw vindt het eng. Ze is bang voor stormpieken. Wat denk jij van ANWB?" Ik heb hem geadviseerd ANWB Dynamisch te proberen — het prijsdempingsmechanisme zou haar zorgen moeten verlichten.
 
 Acht maanden later heb ik zijn cijfers geanalyseerd. Hier is mijn eerlijke review: ANWB is een goede tussenoplossing maar niet de scherpste keus.
@@ -59,6 +58,11 @@ Acht maanden later heb ik zijn cijfers geanalyseerd. Hier is mijn eerlijke revie
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** ANWB Energie is een dynamisch contract met prijsdemping. Volledige review na 8 maanden testen — voor wie wel én wie niet.
+>
+> ANWB Energie biedt sinds 2024 een dynamisch energiecontract waarbij je per uur de actuele EPEX-marktprijs betaalt, plus een kleine marge en een servicegeld van €5,95/maand. ANWB voegt een 'vangnet' toe: extreme prijspieken (>€0,40/kWh) worden tot 1u afgevlakt om budget-shocks te voorkomen.
+
 ## ANWB Energie in context: hoe groot is dit bedrijf eigenlijk?
 
 ANWB is met ~5 miljoen leden een van de grootste consumentenorganisaties van Nederland. De energiedivisie is relatief jong (scale-up 2024), maar profiteert van enorme naamsbekendheid. In tegenstelling tot pure energiestartups als Tibber (Noors) of Frank Energie (kleiner NL-bedrijf), heeft ANWB een decennialang opgebouwde vertrouwensrelatie met hun leden.
@@ -455,3 +459,7 @@ Voor mijn vriend was het de juiste keus omdat zijn vrouw mentaal niet aan kon da
 - [Tibber review en ervaringen](/posts/tibber-review-ervaringen-2026/)
 - [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/)
 - [Saldering stopt 2027: volledige gids](/posts/saldering-stopt-2027-volledige-gids/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

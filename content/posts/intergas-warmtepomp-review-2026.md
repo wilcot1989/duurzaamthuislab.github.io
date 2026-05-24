@@ -53,7 +53,6 @@ products:
   price: '7500'
 schema_type: Review
 ---
-
 Mijn vader belde me afgelopen mei. "Mark, mijn cv-ketel uit 2008 is op zijn end. Installateur biedt me een hele Intergas-installatie aan: nieuwe ketel én warmtepomp samen. Is Intergas wel goed?"
 
 Ik kende Intergas-cv-ketels (mijn vader heeft er 16 jaar zonder klacht een gehad), maar hun warmtepompen waren nieuw voor me. Dus ben ik samen met hem de installateur gaan ontmoeten, ben ik diep in de specs gedoken, en heb ik 8 maanden zijn data en de twee andere installaties (een neef in Drenthe en een collega-energieadviseur) kunnen volgen.
@@ -65,6 +64,11 @@ Dit is mijn eerlijke review. Niet betaald, niet gestuurd door Intergas — gewoo
 ---
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+
+> **Kort antwoord:** Intergas maakt al jaren cv-ketels, sinds 2023 ook warmtepompen. Mijn eerlijke test van de Xtreme Hybrid na 8 maanden — kosten, COP, app en advies 2026.
+>
+> Intergas Xtreme Hybrid: €5.500-€7.500 inclusief installatie en 0% btw. All-electric Intergas Xtreme: nog niet leverbaar in 2026 (verwacht 2027). Met ISDE-subsidie (€2.500-€3.500): netto €3.000-€5.000. Dat is iets onder het marktgemiddelde voor een hybride installatie, vergelijkbaar met ATAG ENERGION.
 
 ## Wie is Intergas?
 
@@ -362,3 +366,7 @@ Comfort Cloud is redelijk maar minder polished dan Daikin Onecta. Schedule-inste
 
 **Hoe vergelijkt Intergas met Quatt qua TCO?**
 Intergas Xtreme: €6.000 netto + €235/jaar service = €9.525 over 15 jaar. Quatt Hybrid: €7.500 + €300/jaar abonnement = €12.000 over 15 jaar. Intergas €2.475 voordeliger TCO bij gelijke besparing.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

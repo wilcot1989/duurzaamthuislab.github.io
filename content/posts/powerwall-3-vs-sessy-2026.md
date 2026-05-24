@@ -45,12 +45,16 @@ products:
   price: '10000'
 schema_type: Article
 ---
-
 Een vriend van me had vorig jaar een Powerwall 3 laten installeren. Trots als een pauw — "10.500 euro met montage, 13,5 kWh, supersleek aan de muur". Een halfjaar later belde een andere kennis: "Mark, ik heb voor 4.500 euro een Sessy, en ik verdien 1.200 euro per jaar terug op dynamische tarieven. Wat had jij gekozen?" In dit artikel zet ik beide systemen tegen elkaar — niet alleen op specs, maar op wat ze in de Nederlandse markt daadwerkelijk opleveren.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
+
+
+> **Kort antwoord:** Tesla Powerwall 3 of Sessy als thuisbatterij in 2026? Ik vergelijk capaciteit, prijs per kWh, dynamische trading, app en geschiktheid voor Nederlandse woningen.
+>
+> Powerwall 3 is een grote batterij van 13,5 kWh met geintegreerde omvormer, geschikt voor zelfvoorziening en backup. Sessy is een modulaire batterij van 5,2 kWh per unit, ontworpen voor handel op dynamische energiemarkt (Tibber, Frank, ANWB). Powerwall is voor "off-grid"-mentaliteit, Sessy voor maximale opbrengst via slim laden en ontladen.
 
 ## Wat is de Tesla Powerwall 3?
 
@@ -326,3 +330,7 @@ Verder lezen:
 - [Thuisbatterij vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/)
 - [Dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/)
 - [ROI thuisbatterij na saldering 2027 berekening](/posts/roi-thuisbatterij-na-saldering-2027-berekening/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

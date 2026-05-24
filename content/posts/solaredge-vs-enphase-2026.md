@@ -43,7 +43,6 @@ products:
   price: '1800'
 schema_type: Article
 ---
-
 Ik heb zelf voor een Huawei omvormer gekozen, maar als mensen mij vragen naar de premium markt komt het altijd neer op SolarEdge of Enphase. Beide optimaliseren elk paneel individueel, maar de technologie erachter verschilt fundamenteel. Ik heb installateurs gesproken, storingsdata vergeleken en de totaalkosten voor een installatie van 16 panelen doorgerekend. Hier is mijn conclusie.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -52,6 +51,11 @@ Bekijk ook ons overzicht van de [beste omvormers voor zonnepanelen](/posts/beste
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** SolarEdge vs Enphase vergeleken: technologie, prijs, monitoring en betrouwbaarheid. Ontdek welke omvormer het beste past bij jouw zonnepanelen-installatie.
+>
+> SolarEdge gebruikt een centrale string-omvormer met power optimizers per paneel. Enphase gebruikt micro-omvormers die elk paneel individueel omzetten. SolarEdge is goedkoper, Enphase is flexibeler en heeft geen single point of failure.
+
 ## Technologie: hoe werken ze?
 
 ### SolarEdge: String-omvormer + Power Optimizers
@@ -446,3 +450,7 @@ Beide zijn uitstekende keuzes — je kunt met geen van beide een verkeerde besli
 ---
 
 *Laatst bijgewerkt: april 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

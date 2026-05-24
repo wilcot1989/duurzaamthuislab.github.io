@@ -45,13 +45,17 @@ products:
   price: '7'
 schema_type: Article
 ---
-
 Met 16 zonnepanelen op mijn dak wek ik zelf zo'n 5.200 kWh per jaar op — dat is echt groene stroom. Maar de stroom die ik 's winters van het net aftrek, hoe groen is die eigenlijk? Ik dook in de wereld van GvO-certificaten en ontdekte dat veel "groene" contracten in de praktijk nauwelijks iets bijdragen. In dit artikel leg ik het verschil uit en help ik je een echte keuze maken.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Het verschil tussen groene en grijze stroom uitgelegd. Kosten vergeleken, is groene stroom echt duurzamer, en welk energiecontract past bij jou in 2026?
+>
+> Groene stroom is opgewekt uit hernieuwbare bronnen: wind, zon, water of biomassa. Grijze stroom komt uit fossiele bronnen: aardgas, kolen of kernenergie. Fysiek komt dezelfde stroom uit je stopcontact — het verschil zit in de Garanties van Oorsprong (GvO's): certificaten die bewijzen dat er ergens groene stroom is opgewekt.
+
 ## Groene vs Grijze Stroom: De Feiten
 
 | Aspect | Groene stroom | Grijze stroom |
@@ -411,3 +415,7 @@ Beide zijn nagenoeg CO₂-vrij in gebruik. Over de hele levenscyclus (productie 
 ---
 
 *Laatst bijgewerkt: juni 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

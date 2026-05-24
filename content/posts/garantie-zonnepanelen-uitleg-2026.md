@@ -49,12 +49,16 @@ products:
   url: https://www.aon.nl/
   price: '150'
 ---
-
 Een klant uit Tilburg belde mij in paniek: na 4 jaar werken bleek hun zonnepaneelinstallatie 22% minder rendement op te leveren dan beloofd. De installateur was failliet. De fabrikant verwees naar de installateur. De installateur naar de fabrikant. Wat nu?
 
 Dit verhaal komt te vaak voor. Garantie op zonnepanelen is een van de meest verkeerd begrepen onderwerpen in de duurzame markt. Hieronder leg ik elk type garantie uit, met praktijkvoorbeelden en stappenplannen voor het claimen.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Productgarantie, vermogensgarantie en installateursgarantie: ik leg het verschil uit met praktijkvoorbeelden. Wat te doen bij defect en hoe je garantie veilig stelt.
+>
+> Productgarantie dekt fabrieksfouten (haarbaren, delaminatie, defecte aansluitingen): typisch 12-25 jaar. Vermogensgarantie dekt rendementsverlies bovenop normale degradatie: typisch 25-30 jaar tot 80-90% van origineel vermogen.
 
 ## De drie soorten garantie
 
@@ -397,3 +401,7 @@ Volgens Burgerlijk Wetboek 7:23 moet je "binnen bekwame tijd" melden — in prak
 
 **Geldt productenaansprakelijkheid bovenop garantie?**
 Ja. Bij brand of letsel door defect paneel kun je naast garantie ook productenaansprakelijkheid (BW 6:185) inzetten. Verjaringstermijn 10 jaar na in handel brengen. Maakt verschil bij premium-claims en grote schade.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

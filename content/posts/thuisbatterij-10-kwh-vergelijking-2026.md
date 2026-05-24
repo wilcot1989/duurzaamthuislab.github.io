@@ -61,7 +61,6 @@ products:
   price: '5500'
 schema_type: Article
 ---
-
 In het afgelopen jaar heb ik bij 12 huishoudens een 10 kWh thuisbatterij geïnstalleerd of meegekeken. Telkens stelde de eigenaar dezelfde vraag: "Welke is nu écht de beste?" Het antwoord is: dat hangt af van wie je bent.
 
 Dit is mijn complete vergelijking van de 7 belangrijkste 10 kWh-spelers in 2026, met praktijktest waar mogelijk en eerlijke conclusie per profiel.
@@ -72,6 +71,11 @@ Dit is mijn complete vergelijking van de 7 belangrijkste 10 kWh-spelers in 2026,
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Welke 10 kWh thuisbatterij past bij jouw huishouden? Eerlijke vergelijking van Sessy, Marstek, Zonneplan, Tesla, EcoFlow.
+>
+> 10 kWh is ideaal voor huishoudens met 3.500-6.500 kWh jaarverbruik en zonnepanelen-overschot van 1.500-4.000 kWh per jaar. Te klein voor groot huis met warmtepomp + EV, te groot voor 1-persoonshuishouden zonder substantieel verbruik 's avonds.
+
 ## Mijn beoordelingsmethode
 
 Ik beoordeel elk systeem op zes criteria, elk 1-5 sterren:
@@ -509,3 +513,7 @@ De saldering-stop maakt deze keuze **kritisch** — wie tot 2027 wacht, betaalt 
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
 - [Beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/)
 - [Thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

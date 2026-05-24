@@ -50,12 +50,16 @@ products:
   url: https://www.greenchoice.nl/
   price: '0'
 ---
-
 Een familie in Amsterdam-Noord vroeg me vorig jaar om hen te helpen bij verduurzaming van hun rijtjeshuis. Eerste vraag: "Hoeveel subsidie kunnen we eigenlijk krijgen?" Ik heb 30 minuten besteed aan onderzoek per regeling. Eindresultaat: €4.350 aan combineerbare gemeente + provincie + nationale subsidies. Daarvan was €2.150 specifiek Amsterdams.
 
 Hieronder mijn complete overzicht van Amsterdam-subsidies voor verduurzaming in 2026. Welke regelingen, hoe combineren, en hoe vraag je aan.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Amsterdam subsidies voor zonnepanelen, warmtepomp en isolatie in 2026. Wat zijn de regelingen, hoe vraag je aan, en welke bedragen zijn beschikbaar voor Amsterdammers.
+>
+> Subsidie Verduurzaming Woning (€500-€2.500), Energiebox voor lage inkomens (€500), Amsterdam Energieleningen (renteloos tot €15.000), monument-verduurzamingsfonds (extra €1.500), VVE-aanjaagregeling (tot €25.000 per VVE).
 
 ## Amsterdam-specifieke regelingen 2026
 

@@ -50,7 +50,6 @@ products:
   price: '0'
 schema_type: Review
 ---
-
 In 2023 stapte ik over naar Frank Energie. Ik had genoeg van Eneco's onverklaarbare maandbedragen die telkens herzien werden ("voorschotaanpassing"). Frank beloofde transparantie: pure marktprijs zonder marge, vast servicegeld, opzegbaar wanneer ik wil.
 
 Twee jaar later kan ik zeggen: **die belofte hebben ze waargemaakt**. Frank is de meest no-nonsense energieleverancier in Nederland in 2026, en in pure euro's ook nog eens de goedkoopste — al is het verschil met Tibber klein.
@@ -63,6 +62,11 @@ In dit artikel: 24 maanden Frank in cijfers, voor- en nadelen, en wanneer Tibber
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Frank Energie is de oudste NL dynamische leverancier. Volledige review na 24 maanden testen.
+>
+> Frank Energie is een Nederlandse energieleverancier opgericht in 2018 door Frank van Boekel. Ze leveren stroom en gas op een dynamisch contract — je betaalt elk uur de actuele EPEX-marktprijs zonder opslag, plus een vast servicegeld van €5,00/maand. Eén van de pioniers van dynamische tarieven in Nederland.
+
 ## Wat is Frank Energie?
 
 Frank Energie is een Nederlandse energieleverancier opgericht in 2018 door Frank van Boekel — een ex-trader die merkte dat traditionele leveranciers consumenten een opslag rekenen op stroomprijs. Hij begon Frank om dat te elimineren.
@@ -444,3 +448,7 @@ Frank heeft een zakelijk contract maar de rapportage en facturatie zijn minder u
 - [Saldering stopt 2027: volledige gids](/posts/saldering-stopt-2027-volledige-gids/)
 - [Saldering vs dynamisch contract: rekenmodel](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
 - [Beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

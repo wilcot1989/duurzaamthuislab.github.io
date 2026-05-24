@@ -45,13 +45,17 @@ products:
   price: '120'
 schema_type: Article
 ---
-
 Mijn HomeWizard P1 meter was letterlijk de beste €30 die ik ooit heb uitgegeven. Binnen een week ontdekte ik dat mijn oude vriezer 's nachts 180W trok — vervangen, en ik bespaar nu €90 per jaar op dat ene apparaat. In combinatie met mijn Tibber dynamisch contract en 16 zonnepanelen zie ik per seconde wat er binnenkomt en wat het kost. In dit artikel vergelijk ik de beste energiemonitoren op de markt.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De beste energiemonitoren en P1-meters van 2026 vergeleken. HomeWizard, Tibber Pulse, Iungo en Youless. Real-time inzicht in je stroom- en gasverbruik.
+>
+> Een P1-meter (of energiemonitor) sluit je aan op de P1-poort van je slimme meter. Het leest real-time je stroom- en gasverbruik en toont dit in een app op je telefoon. Zo zie je exact hoeveel stroom en gas je verbruikt, wat het kost, en welke apparaten de grootste verbruikers zijn.
+
 ## Snelle vergelijking
 
 | Monitor | Prijs | Meting | App | Home Assistant | Beste voor |
@@ -437,3 +441,7 @@ Verschil tussen 25% en 50% eigen verbruik: €190 per jaar. Een energiemonitor v
 ---
 
 *Laatst bijgewerkt: juni 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

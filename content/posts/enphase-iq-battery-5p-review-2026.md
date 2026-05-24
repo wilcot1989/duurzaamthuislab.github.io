@@ -49,12 +49,16 @@ products:
   url: https://tibber.com/nl
   price: '6'
 ---
-
 In oktober 2025 werd ik gebeld door een klant in Soest die zijn 18 zonnepanelen wilde uitbreiden met opslag. Hij twijfelde tussen Sessy, Tesla Powerwall en de relatief nieuwe Enphase IQ Battery 5P. We kozen voor de Enphase, en ik mocht de installatie en monitoring vier maanden volgen.
 
 Hieronder mijn eerlijke bevindingen: wat werkt goed, waar de zwaktes liggen, en voor wie deze batterij echt geschikt is.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Enphase IQ Battery 5P review: ik testte de modulaire AC-batterij van 5 kWh op een Nederlands dak. Prestaties, prijs, app, voor- en nadelen na 4 maanden gebruik.
+>
+> De adviesprijs ligt rond €4.200 inclusief installatie voor één 5 kWh module. Twee modules (10 kWh) kost ongeveer €7.800. Prijzen exclusief eventuele extra bedrading of een nieuwe groepenkast.
 
 ## Wat is de Enphase IQ Battery 5P?
 
@@ -305,3 +309,7 @@ Combinatie met Tesla auto? Enphase Enlighten-app heeft Tesla-integratie sinds 20
 ## Service en garantie in NL
 
 Enphase werkt via Krannich en Solar123 als Nederlandse distributeurs. Garantieafhandeling via mail, gemiddelde reactietijd 2 dagen, vervanging 3-5 weken. Significant sneller dan BYD of Pylontech. 10 jaar garantie standaard, uitbreidbaar tot 15 jaar via Enphase Care (€280). Voor wie service-snelheid prioriteit heeft: Enphase wint van veel concurrenten in NL.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

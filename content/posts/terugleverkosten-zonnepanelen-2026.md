@@ -39,7 +39,6 @@ products:
     url: "https://sessy.nl/"
     price: "3795"
 ---
-
 Vorige maand kreeg ik post van mijn moeder. Eneco-rekening, en ze begreep niet waarom haar maandbedrag met €18 omhoog ging zonder dat ze meer was gaan verbruiken. Ze had vorig jaar 14 zonnepanelen laten installeren en leverde nu netjes terug. Wat ze niet wist: per 1 maart 2026 rekent Eneco terugleverkosten gestaffeld naar volume.
 
 Ik heb voor haar uitgezocht wat alle leveranciers in 2026 rekenen. Hier is het volledige overzicht — eerlijk en zonder leverancier-loyaliteit.
@@ -50,6 +49,11 @@ Ik heb voor haar uitgezocht wat alle leveranciers in 2026 rekenen. Hier is het v
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Welke energieleveranciers rekenen terugleverkosten in 2026, hoe hoog zijn ze en hoe vermijd je verrassingen op je rekening? Per leverancier uitgesplitst.
+>
+> Terugleverkosten zijn extra kosten die energieleveranciers in rekening brengen voor klanten met zonnepanelen. Ze worden gerechtvaardigd als compensatie voor het verlies dat de leverancier maakt op teruggeleverde stroom (negatieve marktprijzen, onbalans-kosten). De hoogte varieert van €5 tot €40 per maand afhankelijk van leverancier en hoeveelheid teruglevering.
+
 ## Wat zijn terugleverkosten?
 
 Terugleverkosten zijn een extra heffing die je energieleverancier in rekening brengt **alleen aan klanten met zonnepanelen**. Ze worden meestal als maandbedrag of staffelbedrag berekend, gekoppeld aan de hoeveelheid teruggeleverde kWh per jaar.
@@ -462,3 +466,7 @@ Per jaar verschilt het voordeel van een goede keuze al snel €150-€350 — bo
 - [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/)
 - [Beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/)
 - [Thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -49,12 +49,16 @@ products:
   url: https://tibber.com/nl
   price: '6'
 ---
-
 Een familie in Friesland vroeg me vorig jaar of een Victron-systeem zinvol was voor hun afgelegen woning met soms wankele netaansluiting. Ze wilden zekerheid bij stroomstoringen en off-grid optie als reserve. Ik heb in oktober 2025 hun installatie begeleid en daarna 4 maanden de prestaties gevolgd.
 
 Hieronder mijn eerlijke review van Victron MultiPlus II + Lynx Smart BMS + 2x 5,1 kWh LFP setup. Wat doet het goed, waar zit de leercurve, en voor wie is een Victron-systeem echt geschikt.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Victron Energy thuisbatterij review: ik testte de MultiPlus II + Lynx Smart BMS combinatie. Voor- en nadelen, prijs, betrouwbaarheid en geschikt voor wie?
+>
+> Victron Energy is een Nederlands bedrijf uit Almere, sinds 1975. Specialist in stroomvoorziening voor boten, campers, off-grid woningen en backup-systemen. Hun thuisbatterij-oplossingen bestaan uit MultiPlus omvormer + LFP batterij + Lynx Smart BMS.
 
 ## Wat is Victron Energy?
 
@@ -337,3 +341,7 @@ Hoe stevig is Victron? Geleverd in metalen behuizing, IP21 standaard. Voor buite
 ## Combinatie met EV-laden en grid-services
 
 Victron biedt als enige NL-merk standaard ondersteuning voor V2G (vehicle-to-grid) en grid-services zoals balanceringsdiensten. Bij klant in Limburg met Renault Megane E-Tech V2G levert grid-balancing nu €380/jaar extra inkomsten. Voor wie aan de top van smart-grid wil staan: alleen Victron biedt deze functionaliteit volledig in 2026.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

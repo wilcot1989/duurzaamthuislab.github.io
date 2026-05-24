@@ -55,7 +55,6 @@ products:
   price: '1150'
 schema_type: Article
 ---
-
 Vorig jaar kreeg ik een Hyundai Ioniq 5 op de oprit en moest ik kiezen: welke laadpaal? Ik heb drie maanden lang Easee Charge Lite, Wallbox Pulsar Plus en Alfen Eve in de praktijk getest — bij mij thuis, bij mijn schoonzus en bij een collega. Drie verschillende installaties, drie verschillende ervaringen, één duidelijke winnaar voor mijn situatie.
 
 *Disclosure: ik heb Easee zelf gekocht. Wallbox en Alfen heb ik geleend voor een test-week. Geen affiliate-relatie met deze drie merken.*
@@ -63,6 +62,11 @@ Vorig jaar kreeg ik een Hyundai Ioniq 5 op de oprit en moest ik kiezen: welke la
 ---
 
 💡 *Overweeg je ook een thuisbatterij naast je laadpaal? Lees [EV laden met thuisbatterij](/posts/ev-laden-met-thuisbatterij/) voor de slimste combinatie.*
+
+
+> **Kort antwoord:** Welke thuislaadpaal is in 2026 de beste keuze? Easee Charge Lite, Wallbox Pulsar Plus en Alfen Eve vergeleken op prijs, smart features, app en installatie.
+>
+> Easee Charge Lite €549, Wallbox Pulsar Plus €699, Alfen Eve Single Pro-line €1.150. Installatie tussen €450-€850 afhankelijk van afstand meterkast tot laadpaal. Met ISDE/MIA aftrek voor zakelijke leasers nog 14% korting. Totaal voor particulier: €1.000-€2.000 inclusief installatie.
 
 ## Wat ik wilde testen
 
@@ -371,3 +375,7 @@ Eerste maand met de Easee: laadcurve perfect, app stuurt push bij vol-aan, eerst
 Na 6 maanden: 1 firmware-update over OTA, geen storingen, kabel-stekker-mechanisme werkt soepel ondanks vorst. De Easee app haalde inmiddels alle data op binnen 2 seconden. Mijn buurman met dezelfde Easee had op dat moment al €380 bespaard via dynamisch laden.
 
 Na 1 jaar: 4.790 kWh geladen, totaal €850 bespaard t.o.v. publiek. Behuizing toont lichte verkleuring door UV maar elektronica perfect. Garantie nooit nodig gehad. Bij twee buren ondertussen ook Easee aanbevolen — hun feedback identiek positief. Wallbox-collega had na 9 maanden één softwareprobleem dat na firmware-update opgelost was. Alfen-collega: zero issues, 5-sterren-betrouwbaarheid maar inderdaad veel minder feature-rijk.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -42,10 +42,14 @@ products:
 schema_type: Article
 last_updated: '2026-09-17'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "Huurwoning verduurzamen 2026? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** Huurder en huis tochten? Ik leg uit welke rechten je hebt, hoe je je verhuurder of corporatie meekrijgt en welke kleine ingrepen je zelf kunt doen.
+>
+> Alleen met schriftelijke toestemming van verhuurder. Bij corporaties hebben velen een collectieve regeling. Bij particuliere verhuurder: schriftelijke afspraak over wie betaalt en wat er gebeurt bij verhuizing.
 
 ## Korte conclusie
 
@@ -303,3 +307,7 @@ Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/tibber
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-09-17 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

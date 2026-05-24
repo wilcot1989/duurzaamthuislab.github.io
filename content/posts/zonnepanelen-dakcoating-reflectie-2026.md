@@ -47,7 +47,6 @@ products:
   price: '3999'
 schema_type: Article
 ---
-
 Ik stond vorig jaar op het dak van een bedrijfspand in Rotterdam — een plat bitumen dak, zwart als de nacht, met 80 zonnepanelen erop. De installateur naast me vertelde dat die panelen 's zomers regelmatig 72°C bereiken. Ik had gelezen dat er bij 72°C al significant opbrengstverlies optreedt. Dat bracht me op de vraag: wat als dat dak wit was?
 
 Dit artikel is het resultaat van maanden lezen, vragen stellen aan PV-onderzoekers en meetdata bekijken. Want er is meer aan dit verhaal dan de marketing van dakcoatingfabrikanten wil laten geloven.
@@ -55,6 +54,11 @@ Dit artikel is het resultaat van maanden lezen, vragen stellen aan PV-onderzoeke
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Witte vs zwarte daken, reflectiecoating en albedo-effect op zonnepanelen-opbrengst — wat werkt voor Nederland.
+>
+> Ja, op twee manieren. Ten eerste reflecteert een wit dak meer zonlicht terug op de achterkant van bifaciale panelen (tot 5-15% extra opbrengst). Ten tweede blijft het dak koeler, waardoor de zonnepanelen zelf minder opwarmen en beter presteren. Zwarte en donkere daken kunnen zonnepanelen 10-20°C warmer maken, wat 5-10% opbrengstverlies veroorzaakt.
 
 ## Waarom zonnepanelen warmte vrezen
 
@@ -441,3 +445,7 @@ Sommige gemeenten (Rotterdam, Amsterdam) experimenteren met "koele daken"-progra
 - [Echte Aansluitkosten Zonnepanelen 2026](/posts/dakdoos-aansluitkosten-zonnepanelen-2026/)
 - [Gemeentelijke subsidie zonnepanelen 2026: per provincie](/posts/gemeentelijke-subsidie-zonnepanelen-2026/)
 - [Zonnepanelen in huurwoning in 2026](/posts/huurwoning-zonnepanelen-toestemming/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

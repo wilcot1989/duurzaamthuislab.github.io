@@ -54,11 +54,15 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Voor zonnepaneel-bezitters is "welk dynamisch contract" een belangrijke financiële vraag. Het antwoord heeft grote impact: het verschil tussen de beste en de slechtste dynamische keuze is €100-€200 per jaar. Over 5 jaar is dat €500-€1.000.
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Welke dynamische energieleverancier is het voordeligst voor zonnepaneel-bezitters? Tibber vs Frank vs ANWB vs Eneco Dynamisch vergeleken.
+>
+> Frank Energie voor de gemiddelde gebruiker (laagste totaalkosten). Tibber voor EV-bezitters of smart-home liefhebbers (beste automation). ANWB Dynamisch voor mensen die prijspiekvrees hebben (prijsdemping vangnet). Voor wie geen marge bovenop EPEX wil betalen: Frank of Tibber.
+
 ## Hoe teruglevering werkt bij dynamische contracten: het mechanisme
 
 Voordat ik de leveranciers vergelijk, is het essentieel om te begrijpen hoe teruglevering technisch werkt bij dynamische contracten — want hier missen de meeste mensen geld.
@@ -446,3 +450,7 @@ Ik heb Tibber en Frank Energie beiden een jaar lang gebruikt. Mijn eerlijke conc
 - [ANWB Energie review](/posts/anwb-energie-dynamisch-review-2026/)
 - [Saldering vs dynamisch contract](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -55,7 +55,6 @@ products:
   price: '12500'
 schema_type: Review
 ---
-
 Een klant belde me vorig jaar november. Thomas, eigenaar van een jaren-negentig vrijstaande woning in Zeist, had drie offertes gekregen en alle drie stuurden ze aan op dezelfde warmtepomp: Daikin Altherma 3. "Is dat niet verdacht?" vroeg hij. "Dat ze allemaal hetzelfde adviseren?"
 
 Ik snapte zijn achterdocht. Als iedereen hetzelfde zegt, kan het zijn dat ze allemaal gelijk hebben. Maar het kan ook zijn dat installateurs simpelweg het merk pushen waarop ze de beste marges of de snelste opleiding hebben.
@@ -68,6 +67,11 @@ In dit geval was het antwoord genuanceerd. De Altherma 3 is inderdaad veelal de 
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Daikin Altherma 3 is de bestverkochte lucht-water warmtepomp van Nederland. Maar is hij ook de beste keuze voor jouw situatie? Mijn eerlijke test.
+>
+> De adviesprijs van een Daikin Altherma 3 H/M lucht-water warmtepomp ligt op €8.000 tot €13.000 inclusief 0% btw, exclusief montage. Montagekosten liggen doorgaans op €1.200 tot €2.000. Inclusief ISDE-subsidie (€2.500 tot €4.500 afhankelijk van vermogen) betaal je netto €7.000 tot €11.500 all-in.
+
 ## Waarom Daikin marktleider is
 
 Daikin is een Japans bedrijf, opgericht in 1924, dat airconditioning en warmtepomptechnologie in de vingers heeft zoals weinig anderen. Ze produceren hun compressoren zelf — een cruciaal onderscheid met merken die componenten inkopen. De Swing-compressor in de Altherma-serie is volledig van eigen makelij.

@@ -45,7 +45,6 @@ products:
   price: '1100'
 schema_type: Article
 ---
-
 Zodra ik een elektrische auto koop — en dat wordt dit jaar — wil ik die laden met de overschotstroom van mijn 16 zonnepanelen. Ik heb uitgerekend dat thuisladen op eigen zonnestroom me €0,05/kWh kost, tegenover €0,75 bij een snellader. Reden genoeg om de laadpaalmarkt grondig te onderzoeken. In dit artikel deel ik alles: kosten, subsidie, de beste merken en hoe je slim laadt op dynamische tarieven.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -54,6 +53,11 @@ Heb je een dynamisch energiecontract? Slim laden bespaart extra. Lees onze [verg
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Alles over een laadpaal thuis plaatsen in 2026. Kosten €800-€2.500, subsidie tot €600, beste merken vergeleken en slim laden met dynamische tarieven.
+>
+> Een thuislaadpaal kost €800-€2.500 inclusief installatie. De laadpaal zelf kost €500-€1.500 en de installatie €300-€1.000 (afhankelijk van afstand meterkast tot laadpunt en grondwerk). Met subsidie (tot €600) betaal je effectief €200-€1.900.
+
 ## Kosten Overzicht
 
 | Component | Kosten | Toelichting |
@@ -452,3 +456,7 @@ Extra: door slim te laden op Tibber (vermijden van piekmomenten 17:00-19:00) lag
 ---
 
 *Laatst bijgewerkt: juni 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

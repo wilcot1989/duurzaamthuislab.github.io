@@ -51,12 +51,14 @@ products:
   price: '9500'
 schema_type: Article
 ---
-
 Drie jaar geleden besloot ik de woonkamer van mijn jaren-zeventig rijtjeswoning te verduurzamen. De woning had een gasketel en ouderwetse radiatoren, en ik wilde overstappen naar een warmtepomp. Maar mijn installateur was eerlijk: "Een warmtepomp op radiatoren? Dat werkt, maar pas nadat je ze allemaal hebt vergroot of vervangen. Kost je €4.000 aan radiatoren alleen al. Vloerverwarming is een betere investering."
 
 Dat was het begin van een zoektocht. Want vloerverwarming in een bestaande woning aanleggen — dat klinkt ingrijpend. En dat is het ook, maar minder dan ik dacht. In dit artikel leg ik de drie methodes uit, bereken ik de kosten realistisch, en licht ik toe waarom de combinatie van vloerverwarming en warmtepomp zo krachtig is.
 
 ---
+
+
+> **Kort antwoord:** Vloerverwarming in een bestaande woning: wat zijn de kosten in 2026? Ik vergelijk frees-, dry- en natsystemen en hoe je het combineert met een warmtepomp.
 
 ## Waarom vloerverwarming in bestaande woningen populairder wordt
 
@@ -448,3 +450,7 @@ Vloerverwarming in een bestaande woning is geen sciencefiction meer. De dry-syst
 - [Warmtepomp geluid buren 2026: 40dB norm](/posts/warmtepomp-geluid-buren-2026-norm/)
 - [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
 - [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

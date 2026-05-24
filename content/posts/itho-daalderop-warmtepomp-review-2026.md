@@ -54,7 +54,6 @@ products:
   price: '6500'
 schema_type: Review
 ---
-
 In de zomer van 2025 vroeg een collega-energieadviseur me om mee te kijken bij een verbouwing. Hij wilde een warmtepomp in een vrijstaande woning uit 1992 (label B na isolatie-renovatie) en de installateur stelde Itho Daalderop HP Cube voor. Mijn collega twijfelde — was Itho wel goed genoeg voor een 180 m² huis?
 
 Wat volgde was 10 maanden detailmonitoring van zijn HP Cube, plus drie andere Itho-installaties (een HP-S split bij een collega in Friesland, een HP-Hybrid bij een familielid in Breda, en een tweede HP Cube bij een nieuwbouwwoning in Almere die ik begeleidde).
@@ -66,6 +65,11 @@ Vier echte installaties, 10 maanden data, drie verschillende toepassingen. Tijd 
 ---
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+
+> **Kort antwoord:** Itho Daalderop is de stille marktleider van Nederlandse warmtepompen. Mijn eerlijke review van de HP Cube en HP-S na 10 maanden testen — kosten, COP, service.
+>
+> Itho HP Cube (compact lucht-water all-electric): €11.000-€15.000 inclusief installatie en 0% btw. Itho HP-S (split-systeem): €10.500-€14.000. Met ISDE-subsidie €3.500-€4.500: netto €7.000-€11.000. Voor de hybride variant Itho HP-Hybrid: €5.500-€7.500 incl btw, na ISDE €3.000-€4.500. Iets boven gemiddelde van de Nederlandse markt — Itho is geen budget-merk.
 
 ## Wie is Itho Daalderop?
 
@@ -361,3 +365,7 @@ HP Cube valt terug op elektrisch bijverwarmingselement (3 kW) bij ondergrens. SC
 
 **Krijg ik onderhoud bij dezelfde Itho-dealer?**
 Niet automatisch. Itho heeft een netwerk van geautoriseerde service-bedrijven. Vraag bij koop expliciet of jouw installateur ook onderhoudscontract aanbiedt — anders moet je zelf zoeken op itho-daalderop.nl.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

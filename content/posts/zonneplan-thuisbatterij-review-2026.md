@@ -55,7 +55,6 @@ products:
   price: '6'
 schema_type: Review
 ---
-
 Mijn schoonzus belde me in september. "Mark, zou je een keer naar Zonneplan willen kijken? Ze stuurden me een offerte voor een thuisbatterij + paneel-uitbreiding voor €450/maand lease. Klinkt veel."
 
 Ik ben gaan zitten met haar offerte, en daarna ben ik bij haar geïnstalleerd om het systeem 6 maanden te observeren. Dit is mijn eerlijke verhaal: wat doet Zonneplan goed, wat doet het minder, en voor wie is het een slimme keus.
@@ -66,6 +65,11 @@ Ik ben gaan zitten met haar offerte, en daarna ben ik bij haar geïnstalleerd om
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Zonneplan biedt thuisbatterijen via lease en koop. Volledige review van het systeem, app, kosten en service na 6 maanden testen. Wel of niet kiezen?
+>
+> Zonneplan is een Nederlands energie-abonnement-bedrijf opgericht in 2019. Ze verkopen of leasen zonnepanelen, thuisbatterijen, laadpalen en hebben een eigen energiecontract met dynamische tarieven. Hun kracht: alle componenten in één pakket, met één abonnement en één app.
+
 ## Wat is Zonneplan?
 
 Zonneplan is een Nederlands bedrijf, opgericht in 2019 door Daan Beijer. Ze hebben in 6 jaar tijd een opvallend complete propositie opgebouwd:
@@ -393,3 +397,7 @@ Voor de tech-nerd die zelf wil samenstellen: minder geschikt — kies Sessy + Ti
 - [Tibber review](/posts/tibber-review-ervaringen-2026/)
 - [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/)
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

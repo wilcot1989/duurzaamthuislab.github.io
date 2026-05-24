@@ -68,10 +68,14 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Per 1 januari 2027 stopt de saldering. Ik hoef je dat waarschijnlijk niet meer te vertellen — maar wat er daarna gebeurt met jouw jaarlijkse zonnepanelenvoordeel, dat is een ander verhaal. Ik zie in mijn adviespraktijk elke week mensen die wachten en hopen dat het meevalt. Het valt niet mee. Maar er is genoeg te doen — als je weet welke stap bij jouw situatie past.
 
 In dit artikel reken ik concreet door wat de impact is, maak ik een decision tree op basis van jouw huistype, en beschrijf ik 5 strategieën waarmee je €500 tot €2.000 per jaar kunt veiligstellen. Inclusief echte getallen, subsidie-informatie en een stappenplan voor de komende kwartalen.
+
+
+> **Kort antwoord:** Per 1 januari 2027 stopt saldering. Ik reken door hoe jij €500 tot €2.000 per jaar kunt veiligstellen met dynamisch contract, thuisbatterij of warmtepomp.
+>
+> De salderingsregeling stopt per 1 januari 2027 voor iedereen tegelijk. Er is geen uitzondering voor mensen die al jaren saldeerden — het kabinet heeft dit expliciet bevestigd. Na die datum krijg je uitsluitend de terugleververgoeding van je energieleverancier, die in 2026 gemiddeld tussen 7 en 9 cent per kWh ligt.
 
 ## Wat verandert er precies per 1 januari 2027?
 
@@ -508,3 +512,7 @@ Heb je vragen over jouw specifieke situatie? Laat een reactie achter — ik reag
 
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

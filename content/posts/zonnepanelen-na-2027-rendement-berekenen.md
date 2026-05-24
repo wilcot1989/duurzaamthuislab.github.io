@@ -54,7 +54,6 @@ products:
   price: '3795'
 schema_type: Article
 ---
-
 "Hoor eens, ik twijfel of ik nog wel zonnepanelen moet aanschaffen — saldering stopt toch?" Dit is de vraag die ik de afgelopen maanden minstens twintig keer heb gekregen. En het is een terechte vraag.
 
 Het korte antwoord: ja, in de meeste gevallen zijn zonnepanelen na 2027 nog steeds rendabel. Maar je moet anders rekenen dan voorheen — en je moet kritisch zijn op systeemomvang.
@@ -67,6 +66,11 @@ In dit artikel reken ik door wat zonnepanelen voor jou opleveren in een wereld z
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Zijn zonnepanelen nog rendabel na de saldering-stop? Concrete berekening per huishoudprofiel met en zonder thuisbatterij. Met formule en voorbeelden.
+>
+> Ja, voor de meeste huishoudens. De terugverdientijd schuift wel op van 6-7 jaar naar 9-12 jaar zonder maatregelen. Met een dynamisch contract kom je rond 8-10 jaar uit, met een thuisbatterij erbij 7-9 jaar. Een installatie levensduur van 25 jaar betekent dat je daarna 15+ jaar pure winst maakt.
+
 ## De formule die je moet kennen
 
 Het rendement van zonnepanelen na 2027 is geen mysterie. Het komt neer op één formule:
@@ -485,3 +489,7 @@ Over 25 jaar: €550-€1.700 extra opbrengst. De meerkosten van micro-omvormers
 - [Beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/)
 - [Smart home energiebeheer](/posts/smart-home-energiebeheer-2026/)
 - [Tibber review](/posts/tibber-review-ervaringen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

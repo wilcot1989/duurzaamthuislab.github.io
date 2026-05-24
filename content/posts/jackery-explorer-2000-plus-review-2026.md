@@ -48,7 +48,6 @@ products:
   price: '1899'
 schema_type: Review
 ---
-
 3000W continu vermogen uit een draagbaar apparaat — de Jackery Explorer 2000 Plus is het krachtigste powerstation dat ik heb getest. Ik heb er een volledige dag mijn tuinhuis mee gevoed: cirkelzaag, verlichting en een bouwradio, en hij had nog 38% over. Met de optionele batterijpakketten kun je uitbreiden tot 24 kWh, waarmee je in de buurt komt van mijn vaste Huawei Luna thuisbatterij. Dit is mijn eerlijke oordeel.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
@@ -57,6 +56,11 @@ schema_type: Review
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Uitgebreide Jackery Explorer 2000 Plus review. LiFePO4, 3000W output, uitbreidbaar tot 24kWh. Specs, test en eerlijk oordeel.
+>
+> Ja. Met 2042Wh, 3000W continu vermogen, LiFePO4-batterij en uitbreidbaarheid tot 24kWh is het een van de krachtigste en meest flexibele powerstations op de markt.
+
 ## Specificaties op een rij
 
 | Specificatie | Waarde |

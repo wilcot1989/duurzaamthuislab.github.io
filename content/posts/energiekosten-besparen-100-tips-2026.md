@@ -42,12 +42,16 @@ products:
   price: '3999'
 schema_type: Article
 ---
-
 Ik heb de afgelopen drie jaar mijn energierekening van €3.100 naar €1.050 teruggebracht — een besparing van meer dan €2.000 per jaar. Niet door één grote ingreep, maar door tientallen kleine en middelgrote maatregelen die samen een enorm verschil maken. In dit artikel deel ik 100 concrete tips, gesorteerd van gratis naar duurder, met voor elke categorie de werkelijke besparingen in euro's en kWh.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** 100 bewezen manieren om je energierekening te verlagen in 2026. Van gratis gedragsverandering tot grote investeringen.
+>
+> Een gemiddeld huishouden geeft €2.400-€3.200 per jaar uit aan energie. Met een combinatie van gedragsverandering, kleine ingrepen en grote maatregelen is besparing van 30-60% realistisch — dat is €720-€1.920 per jaar.
 
 ## Hoe dit artikel is opgebouwd
 
@@ -534,3 +538,7 @@ De vraag is niet óf je energiekosten kunt verlagen — maar hoe snel je ermee b
 - [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
 - [Beste Energiemonitor 2026: P1 Meter Vergelijking](/posts/beste-energiemonitor-p1-meter-2026/)
 - [Cv-ketel onderhoudscontract 2026: heb je het echt nodig?](/posts/cv-ketel-onderhoudscontract-2026-zin/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

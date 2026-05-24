@@ -39,10 +39,14 @@ products:
 schema_type: Article
 last_updated: '2026-04-29'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "LG Chem RESU thuisbatterij review 2026? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** LG Chem RESU Prime werd jarenlang aanbevolen, daarna kwam de recall. Wat is de status in 2026, prijs, en welke alternatieven zijn beter?
+>
+> Goede prijs-kwaliteit, robuuste behuizing, en (bij sommige merken) ondersteuning voor dynamische contracten via API. Lokale support in Nederland is wisselend per merk.
 
 ## Korte conclusie
 
@@ -305,3 +309,7 @@ Ja: Fronius (sinds 2023), Sungrow, Huawei (vanaf firmware 2024.06). Niet met goe
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-09-01 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

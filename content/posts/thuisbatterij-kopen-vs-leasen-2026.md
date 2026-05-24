@@ -52,13 +52,17 @@ products:
   price: '2299'
 schema_type: Article
 ---
-
 "Mark, mijn vrouw wil een thuisbatterij maar ik heb geen zin om €7.000 cash neer te leggen. Is leasen een goed idee?" Mijn buurman vroeg me dit in oktober. Ik heb voor hem het rekensommetje gemaakt over 10 jaar. Hier is wat ik vond — eerlijk, met cijfers, niet met "lease is altijd slechter" of "kopen is altijd beter".
 
 ---
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Thuisbatterij kopen of leasen? Volledig rekenmodel over 10 jaar voor Sessy, Zonneplan en Marstek. Voor wie wel, voor wie niet.
+>
+> Bij gemiddeld gebruik over 10 jaar is kopen €600-€1.200 voordeliger dan leasen. Maar lease beschermt je tegen technologische veroudering, defectrisico en heeft geen grote eenmalige investering. Voor mensen met cashflow-zorgen: lease is rationeel.
+
 ## Waarom de koop/lease-keuze niet zo simpel is als die lijkt
 
 Op het eerste gezicht lijkt kopen altijd beter: je bent eigenaar, geen maandelijkse verplichtingen, restwaarde na jaren. Maar vier factoren maken het genuanceerder:
@@ -439,3 +443,7 @@ Voor 70% van Nederlandse huishoudens met een gezond cashflow en geen verhuisplan
 - [Sessy review](/posts/sessy-review-thuisbatterij-nederland/)
 - [Zonneplan review](/posts/zonneplan-thuisbatterij-review-2026/)
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

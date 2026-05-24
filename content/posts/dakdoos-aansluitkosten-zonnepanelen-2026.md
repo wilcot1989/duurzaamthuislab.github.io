@@ -48,12 +48,16 @@ products:
   price: '5995'
 schema_type: Article
 ---
-
 Toen mijn buren vorig jaar zonnepanelen lieten plaatsen, kregen ze een offerte van €8.400 voor een systeem van 18 panelen. Uiteindelijk betaalden ze €10.200. De extra €1.800 zat in kosten die de installateur niet had vermeld: een dakdoorvoer, een kabelgoot door de kruipruimte, en een aansluiting-verzwaring die de netbeheerder in rekening bracht.
 
 Dat is geen uitzondering. Het is de norm. In dit artikel leg ik je uit wat de echte kosten zijn — alles wat je moét weten voordat je tekent.
 
 ---
+
+
+> **Kort antwoord:** Wat betaal je echt aan aansluitkosten voor zonnepanelen? Dakdoos, netbeheerderskosten en verborgen posten bij Liander, Stedin en Enexis eerlijk uitgelegd.
+>
+> Bij Liander betaal je voor een standaard enkelfasige teruglevering niets extra als je aansluiting al voldoende capaciteit heeft. Bij een verzwaring (naar 3x25A of hoger) rekent Liander €300-€1.200 afhankelijk van de werkzaamheden. Grote installaties boven 800 Wp enkelfasig moeten verplicht 3-fase aansluiting hebben.
 
 ## Het probleem met zonnepaneel-offertes
 
@@ -457,3 +461,7 @@ Een zonnepaneel-installatie is een investering van €7.000-€12.000 die 25 jaa
 - [Gemeentelijke subsidie zonnepanelen 2026: per provincie](/posts/gemeentelijke-subsidie-zonnepanelen-2026/)
 - [Zonnepanelen in huurwoning in 2026](/posts/huurwoning-zonnepanelen-toestemming/)
 - [Oost-west zonnepanelen vs. zuidsysteem](/posts/oost-west-zonnepanelen-vs-zuid-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

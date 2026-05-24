@@ -51,7 +51,6 @@ products:
   price: '450'
 schema_type: Article
 ---
-
 Toen mijn neef Arjan vorig jaar zijn gasaansluiting liet afsluiten, had hij één ding niet goed geregeld: warmwater. Zijn nieuwe warmtepomp verwarmde het huis prima, maar de cv-ketel die ook zijn tapwater maakte, was weg. Hij eindigde met een noodoplossing: een goedkope elektrische doorstroomgeiser van €180, op één groep aangesloten. Resultaat: de zekering sloeg eruit elke keer dat zijn vrouw en hij tegelijkertijd wilden douchen.
 
 Dat was vermijdbaar geweest. Tapwaterverwarming in een all-electric huis vereist een bewuste keuze — niet een last-minute aankoop bij de bouwmarkt.
@@ -59,6 +58,9 @@ Dat was vermijdbaar geweest. Tapwaterverwarming in een all-electric huis vereist
 In dit artikel loop ik door alle opties. Ik maak de rekening voor een gezin van vier, en ik leg uit welke optie ik zelf zou kiezen.
 
 ---
+
+
+> **Kort antwoord:** Wat doe je met je warmwater als de cv-ketel weg gaat? Boiler, doorstroomgeiser, warmtepompboiler of zonneboiler.
 
 ## Waarom tapwater een apart probleem is
 
@@ -359,3 +361,7 @@ Vermijd onbekende merken zonder ISDE-certificering — de subsidie is een signif
 - [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
 - [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

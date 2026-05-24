@@ -56,7 +56,6 @@ products:
   price: '950'
 schema_type: Article
 ---
-
 Toen ik mijn cv-ketel ging vervangen door een warmtepomp, kreeg ik van drie installateurs het advies "alle radiatoren vervangen, dat is verplicht." Totaalkosten van die offertes: €11.500-€14.000 alleen voor radiatoren. Ik had het gevoel dat dat overdreven was. Na onderzoek, eigen tests en advies van een onafhankelijke energie-adviseur heb ik **uiteindelijk slechts 3 van mijn 9 radiatoren vervangen** — totaalkosten €3.150. Resultaat: warmtepomp werkt perfect, woning is comfortabel, **bespaard ongeveer €4.200**.
 
 *Disclosure: ik heb geen affiliate-relatie met Vaillant, Daikin, Jaga of Vasco. Onderstaande tips komen uit eigen ervaring.*
@@ -64,6 +63,11 @@ Toen ik mijn cv-ketel ging vervangen door een warmtepomp, kreeg ik van drie inst
 ---
 
 💡 *Twijfel je nog tussen vloerverwarming en radiatoren? Lees [vloerverwarming en warmtepomp combinatie](/posts/vloerverwarming-warmtepomp-combinatie-2026/) voor de afweging.*
+
+
+> **Kort antwoord:** Moeten radiatoren vervangen worden bij overstap naar warmtepomp? Wanneer LT-radiatoren nodig zijn, wat het kost en hoe ik bij mij thuis €4.200 bespaarde.
+>
+> Nee, niet altijd. Bij goed geïsoleerde woningen (label A/B) en redelijk grote radiatoren werkt een warmtepomp prima op 45-50°C aanvoer. Pas bij slecht geïsoleerde woningen of kleine radiatoren in een grote ruimte heb je LT-radiatoren of vloerverwarming nodig. Ik heb in mijn eigen huis (label B na isolatie) alleen 3 van de 9 radiatoren vervangen — niet alle.
 
 ## Mijn eigen meting: drie winters later
 
@@ -344,3 +348,7 @@ Verder lezen op DuurzaamThuisLab:
 - [Dakisolatie binnenuit vs buitenuit](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/)
 - [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)
 - [Beste warmtepomp installateur kiezen](/posts/beste-warmtepompinstallateur-kiezen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

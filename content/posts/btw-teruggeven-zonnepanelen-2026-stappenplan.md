@@ -50,7 +50,6 @@ products:
   url: https://www.frankenergie.nl/
   price: '0'
 ---
-
 Een klant uit Hilversum belde mij vorig jaar: "Ik heb in 2019 zonnepanelen gekocht voor €6.800 inclusief BTW. Ik dacht altijd dat ik te laat was voor BTW-teruggaaf. Klopt dat?"
 
 Antwoord: nee, niet per se. Veel mensen denken dat BTW-teruggave op zonnepanelen verloopt na 5 jaar. Dat is een mythe. Ik heb deze klant alsnog €1.180 BTW kunnen laten terugvragen — 6 jaar na aanschaf. Procedure: 6 weken werk, opbrengst €1.180.
@@ -58,6 +57,11 @@ Antwoord: nee, niet per se. Veel mensen denken dat BTW-teruggave op zonnepanelen
 Hieronder mijn complete stappenplan voor wie nog BTW heeft openstaan op een oudere zonnepaneelinstallatie. Plus uitleg waarom dit voor nieuwe installaties (na 2023) niet meer geldt.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** BTW teruggeven zonnepanelen 2026: ondanks 0% BTW kun je oude installaties nog claimen. Stappenplan voor aanmelding KOR, kleineondernemersregeling en aangifte bij de Belastingdienst.
+>
+> Sinds 1 januari 2023 geldt 0% BTW op zonnepanelen voor woningen — dus geen BTW meer terug te vragen op nieuwe installaties. Wel kun je oudere installaties (gekocht vóór 2023) nog steeds via KOR-procedure claimen mits je nog niet bent aangemeld als ondernemer.
 
 ## Waarom mag een particulier BTW terugvragen?
 

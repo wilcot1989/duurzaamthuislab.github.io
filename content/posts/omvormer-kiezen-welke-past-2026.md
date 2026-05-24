@@ -49,7 +49,6 @@ products:
   url: https://www.fronius.com/
   price: '1450'
 ---
-
 Een klant uit Den Bosch belde mij vorig jaar in paniek: hij had online 14 zonnepanelen besteld zonder eerst de omvormer-keuze te maken. De installateur kwam de volgende week en stelde een Goodwe MS 6 kW voor — maar hij wist niet of dat de juiste keuze was. Schaduw van een grote eik 's middags maakte het complex.
 
 We hebben samen de keuze gemaakt: SolarEdge met optimizers in plaats van pure string-omvormer. Eindrendement: 12% hoger dan met string-only. Verschil in aanschafkosten: €450 extra. Terugverdiend in 4 jaar.
@@ -57,6 +56,11 @@ We hebben samen de keuze gemaakt: SolarEdge met optimizers in plaats van pure st
 Hieronder mijn complete gids voor de juiste omvormer-keuze. Per situatie de beste optie, met realistische kosten en valkuilen.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Welke omvormer past bij mijn zonnepanelen? Stappenplan voor de keuze tussen string-omvormer, micro-omvormers, hybride en optimizers. Mijn aanbeveling per situatie.
+>
+> Reken op 80-90% van je totale paneelvermogen. Heb je 12 panelen × 425 Wp = 5,1 kWp, kies dan een 4-4,5 kW omvormer. Lichte ondermaat is normaal en juist efficiënter.
 
 ## Wat doet een omvormer eigenlijk?
 
@@ -419,3 +423,7 @@ String-omvormers: 12-15 jaar (premium 14-18 jaar). Micro-omvormers: 22-25 jaar (
 
 **Mag ik een tweedehands omvormer kopen?**
 Technisch ja, maar garantie is meestal niet overdraagbaar. Bovendien is firmware-update soms niet meer mogelijk bij oudere modellen. Mijn advies: alleen bij uiterst gunstige prijs en mits laatste model van fabrikant.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

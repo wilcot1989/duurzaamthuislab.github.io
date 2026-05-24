@@ -47,7 +47,6 @@ products:
   price: '3999'
 schema_type: Article
 ---
-
 Vorig jaar betaalde ik op een dinsdagavond in januari €0,42 per kWh voor stroom. Dezelfde week, op woensdagnacht om 03:00, kostte stroom €0,02 per kWh. Dat is een verschil van factor 21 — binnen 48 uur, hetzelfde net, hetzelfde huis. Wie dat verschil niet benut, laat simpelweg geld liggen.
 
 In dit artikel duik ik diep in de EPEX-spotprijsdata van 2026, analyseer ik de patronen per uur en leg ik uit hoe je met een dynamisch contract en een thuisbatterij als de [Sessy](https://go.duurzaamthuislab.nl/sessy) systematisch kunt profiteren van deze prijsverschillen.
@@ -55,6 +54,11 @@ In dit artikel duik ik diep in de EPEX-spotprijsdata van 2026, analyseer ik de p
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Wat is de gemiddelde EPEX-spotprijs per uur in 2026? Ik analyseer de goedkoopste en duurste uren en leg uit hoe je met een thuisbatterij maximaal.
+>
+> Gemiddeld zijn de goedkoopste uren tussen 01:00 en 06:00 's nachts en rond 13:00-15:00 op zonnige dagen wanneer er veel zonne-energie op het net staat. In die uren zijn spotprijzen regelmatig onder de 3 ct/kWh, soms zelfs negatief.
 
 ## Wat is de EPEX-spotmarkt?
 
@@ -405,3 +409,7 @@ Tibber werkt goed via de app, maar als je geen smartphone-app wil bijhouden of n
 - [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
 - [Saldering 2027 transitie-planner: 5 stappen om](/posts/saldering-2027-transitie-planner/)
 - [Saldering stopt in 2027: de volledige gids voor](/posts/saldering-stopt-2027-volledige-gids/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

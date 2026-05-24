@@ -43,7 +43,6 @@ products:
     url: "https://go.duurzaamthuislab.nl/quatt"
     price: "6500"
 ---
-
 *Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvang ik mogelijk een commissie zonder dat jij meer betaalt. Mijn vergelijking is gebaseerd op installaties bij 23 klanten in 2024-2026 en eigen tests.*
 
 In juli 2026 mocht ik bij twee buurhuizen tegelijk de installaties zien. Nummer 47 had een Daikin Altherma 3 H 11 kW gekocht voor €17.200. Nummer 49 een Atag Energion M 11 kW voor €9.800. Zelfde type huis (twee-onder-een-kap, 140 m²), zelfde isolatie, zelfde verbruik (1.450 m³ gas vroeger). Verschil: €7.400.
@@ -51,6 +50,11 @@ In juli 2026 mocht ik bij twee buurhuizen tegelijk de installaties zien. Nummer 
 Dat is een serieus bedrag voor wat in essentie hetzelfde apparaat is. Wint Daikin het ergens met €7.400? Of is Atag gewoon de slimmere koop voor 95% van NL? Laten we het uitrekenen.
 
 ---
+
+
+> **Kort antwoord:** Daikin Altherma 3 vs Atag Energion vergeleken op SCOP, geluid, app, prijs en NL-service. Welke warmtepomp is in 2026 de slimme keuze?
+>
+> Daikin wint op stilte (32 dB vs 35 dB), app-kwaliteit (Onecta vs Atag One) en SCOP (4.7 vs 4.6). Atag wint op prijs (€8.500 vs €15.500), Nederlandse service (Lichtenvoorde) en installateurs-netwerk. Voor 80% van NL-huishoudens is Atag de slimmere keuze; voor 20% (luxe, strikte buurnorm, prestige) Daikin.
 
 ## Snelle vergelijking
 
@@ -355,3 +359,7 @@ Na 1 jaar: SCOP gemeten zoals fabrieksopgave, beide tussen 3,4 en 3,6. Onderhoud
 Hoe lang duurt het verschil in installatie? Daikin Altherma vraagt gemiddeld 2 dagen voor monoblock, 3 dagen voor split-systeem. Atag Energion meestal 1,5 dag dankzij voorgemonteerde unit. Het verschil van een halve dag vertaalt zich in €240-€360 lagere arbeidskosten bij Atag.
 
 Welke heeft de langere garantie? Atag biedt standaard 5 jaar fabrieksgarantie op compressor en 2 jaar op overige onderdelen. Daikin geeft 3 jaar standaard, uit te breiden tot 7 jaar bij contract via Comfort Expert. Voor wie zekerheid wil zonder extra contract: Atag.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

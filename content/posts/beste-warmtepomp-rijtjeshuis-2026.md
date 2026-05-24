@@ -48,7 +48,6 @@ products:
   price: '7500'
 schema_type: Article
 ---
-
 Ik woon zelf in een rijtjeshuis. Mijn buurman links heeft een terras op anderhalve meter van mijn buitenunit. Mijn buurman rechts klaagde al over de pomp van zijn andere buurman, vijf huizen verder, die hij kon horen 's nachts.
 
 Dat is de realiteit van een warmtepomp in een rijtjeshuis: het gaat niet alleen over rendement en subsidie. Het gaat ook over decibellen, perceelgrenzen, gemeentelijke regels en de vraag of je buren je nog groeten nadat je hem geïnstalleerd hebt.
@@ -58,6 +57,11 @@ Ik vertel je in dit artikel precies waar je op moet letten, welke systemen ik aa
 *Disclosure: ik heb affiliaterelaties met ATAG en Quatt. Mijn aanbevelingen zijn gebaseerd op technische specificaties, installatie-ervaringen en eigenaarsfeedback in mijn netwerk.*
 
 ---
+
+
+> **Kort antwoord:** Een warmtepomp in een rijtjeshuis is een andere opgave dan in een vrijstaande woning. Ik bespreek geluid, plaatsing, buurman-regels.
+>
+> Dat hangt af van het geluidsniveau van de buitenunit. Gemeente-verordeningen eisen doorgaans dat het geluid op de perceelgrens maximaal 40–45 dB(A) overdag bedraagt (BAL en Activiteitenbesluit). De meeste moderne lucht-water warmtepompen produceren op 5 meter afstand 40–50 dB(A). Laat de leverancier een geluidssimulatie maken voor jouw situatie.
 
 ## De rijtjeshuis-situatie is anders dan vrijstaand
 
@@ -438,3 +442,7 @@ Bij een hybride warmtepomp behoudt de cv-ketel zijn functie. Bij all-electric ve
 - [ATAG warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/)
 - [Beste thuisbatterij eengezinswoning 2026](/posts/beste-thuisbatterij-eengezinswoning-2026/)
 - [Saldering stopt 2027 — wat nu?](/posts/saldering-stopt-2027-volledige-gids/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

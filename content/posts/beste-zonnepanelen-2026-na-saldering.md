@@ -48,7 +48,6 @@ products:
   price: '5995'
 schema_type: Article
 ---
-
 In 2021 deed ik een rekensom voor mijn eigen dak. 14 panelen, 5,46 kWp. Terugverdientijd met saldering: 7 jaar. Zonder saldering: 11 jaar. Mijn conclusie destijds: installeer nu, profiteer van saldering zolang het nog geldt.
 
 Die rekensom klopt nog steeds — maar de wereld erna is anders dan ik dacht. Want niet alleen het rendement verandert na 2027. De hele strategie verandert.
@@ -58,6 +57,11 @@ Wie in 2026 zonnepanelen overweegt, of wie er al heeft en nu een batterij overwe
 *Disclosure: ik heb affiliaterelaties met Zonneplan en Sessy.*
 
 ---
+
+
+> **Kort antwoord:** Saldering stopt in 2027. Welke zonnepanelen zijn dan nog zinvol, hoe maximaliseer je zelfconsumptie, en welke combinatie met een batterij werkt het beste?
+>
+> Ja, maar de rekensomme verandert. Na 2027 is elk kWh die je zelf verbruikt €0,25–€0,32 waard (vermeden afname), maar elk kWh die je teruglevert slechts €0,04–€0,10. De strategie verschuift van 'zoveel mogelijk terugleveren' naar 'zoveel mogelijk zelf verbruiken'. Dat doe je met een thuisbatterij, een dynamisch tarief of een energieslurpende apparaten overdag aanzetten.
 
 ## Wat verandert er op 1 januari 2027?
 
@@ -420,3 +424,7 @@ Gebruik deze lijst om een offerte te beoordelen:
 - [Saldering stopt 2027 — de volledige gids](/posts/saldering-stopt-2027-volledige-gids/)
 - [Beste thuisbatterij eengezinswoning 2026](/posts/beste-thuisbatterij-eengezinswoning-2026/)
 - [Goedkoopste thuisbatterij 2026](/posts/goedkoopste-thuisbatterij-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

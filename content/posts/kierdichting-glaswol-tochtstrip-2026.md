@@ -43,7 +43,6 @@ products:
   price: '139'
 schema_type: Article
 ---
-
 In de winter van 2021 deed ik een eenvoudige test: ik liep met een wierrookstokje langs alle ramen, deuren en plinten van mijn woning. Het resultaat was onthutsend. Bij mijn voordeur stond de rook horizontaal. Bij de achterdeur bewoog hij hevig. Rondom drie raamkozijnen was er duidelijke luchtbeweging. En bij de overgang van de begane grondvloer naar de muur bewoog de rook op meerdere plekken merkbaar.
 
 Ik heb die winter €94 uitgegeven aan materialen en twee vrije middagen besteed aan het afdichten. In het stookseizoen daarna bespaar ik structureel €290 per jaar — een terugverdientijd van minder dan vier maanden.
@@ -53,6 +52,11 @@ In dit artikel leg ik stap voor stap uit hoe je dit zelf kunt doen.
 *Dit artikel bevat geen affiliate links voor isolatieproducten.*
 
 ---
+
+
+> **Kort antwoord:** Met €100 aan kierdichting, tochtstrips en glaswol bespaar je tot €300 per jaar. DIY-gids voor de gemiddelde Nederlandse woning met materiaallijst en.
+>
+> Luchtlekkage via kieren en naden is verantwoordelijk voor 10-20% van het totale warmteverlies in een woning. Met €50-€100 aan tochtstrips, kitstof en glaswol-strips kun je €100-€300 per jaar besparen afhankelijk van de staat van de woning.
 
 ## Hoeveel warmte verliest je woning via kieren?
 
@@ -486,3 +490,7 @@ De incrementele besparing per extra €50 investering daalt naarmate de makkelij
 - [Ventilatie met Warmteterugwinning (WTW) 2026](/posts/ventilatie-warmteterugwinning-wtw-2026/)
 - [Vloerisolatie vs spouwmuurisolatie](/posts/vloer-isolatie-vs-spouwmuur-isolatie-2026/)
 - [Dakraam vs dakkapel isolatie 2026: warmteverlies](/posts/dakraam-vs-dakkapel-isolatie-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -54,7 +54,6 @@ products:
   price: '999'
 schema_type: Article
 ---
-
 Vorig jaar had ik een stroomstoring van 4 uur. Mijn Huawei Luna thuisbatterij nam het naadloos over, maar mijn buurman zat in het donker met een lege telefoon en een ontdooiende vriezer. Dat hoeft niet — een powerstation van €500-€900 had hem gered. Ik heb berekend hoeveel Wh je nodig hebt voor de basisapparaten (router, koelkast, verlichting, telefoon = circa 250W continu) en welk powerstation bij welk budget past.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
@@ -63,6 +62,11 @@ Vorig jaar had ik een stroomstoring van 4 uur. Mijn Huawei Luna thuisbatterij na
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Praktische gids voor noodstroom thuis met een powerstation. Bereken hoeveel Wh je nodig hebt.
+>
+> In Nederland duurt de gemiddelde stroomstoring circa 20-30 minuten per jaar. Maar langdurige storingen (meerdere uren tot een dag) komen steeds vaker voor, onder meer door extreme weersomstandigheden en netbelasting. In 2024 en 2025 waren er meerdere grote stroomstoringen die duizenden huishoudens raakten.
+
 ## Waarom voorbereid zijn op stroomuitval?
 
 ### Stroomuitval in Nederland: de cijfers

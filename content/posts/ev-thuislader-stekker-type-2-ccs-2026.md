@@ -56,12 +56,16 @@ products:
   url: https://alfen.com/
   price: '1500'
 ---
-
 Mijn klant in Hilversum kocht zijn eerste elektrische auto en stond bij de installateur met de vraag: "Type 2 of CCS thuislader?" De verkoper had hem geadviseerd om "voor de zekerheid" een dure CCS-installatie te overwegen. €15.000. Ik heb hem moeten uitleggen waarom dat een verschrikkelijke beslissing zou zijn voor zijn situatie.
 
 Stekkers en laadtypes verwarren veel mensen. Hieronder mijn complete uitleg: wat is het verschil, wat heb je echt nodig, en waarom 99% van Nederlandse EV-eigenaars met Type 2 prima af is.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Type 2 of CCS voor je EV thuislader? Verschil uitgelegd, welke past bij jouw auto, en welke laadpaal je hier voor nodig hebt. Mijn ervaring met EV-laden in 2026.
+>
+> Type 2 (Mennekes) is voor wisselstroom (AC) tot 22 kW: thuisladen en publiek AC. CCS (Combined Charging System) heeft Type 2 + 2 grote DC-pinnen voor snelladen tot 350 kW. Voor thuis: Type 2 is voldoende; CCS-snelladen vergt enorme stroom.
 
 ## Stekkertypes uitgelegd
 
@@ -406,3 +410,7 @@ Mijn aanbevelingen:
 6. **Verzwaring overwegen** bij twee auto's of warmtepomp + EV
 
 Voor verdere lezing: [beste laadpaal thuis](/posts/beste-laadpaal-thuis-2026/), [laadpaal thuis kosten subsidie](/posts/laadpaal-thuis-kosten-subsidie-2026/), [laadpaal VVE installatie](/posts/laadpaal-vve-installatie-2026/), [EV laden met thuisbatterij](/posts/ev-laden-met-thuisbatterij/) en [smart home energiebeheer](/posts/smart-home-energiebeheer-2026/).
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

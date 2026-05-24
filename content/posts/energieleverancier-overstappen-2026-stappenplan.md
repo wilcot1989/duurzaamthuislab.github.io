@@ -54,7 +54,6 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 In januari 2024 schakelde ik zelf over van een vast Vattenfall-contract naar Tibber. Mijn motivatie was simpel: ik had net een thuisbatterij geïnstalleerd en een laadpaal voor de auto. Met een vast contract betaal ik altijd hetzelfde, ongeacht of de zon schijnt of de windmolens op volle toeren draaien. Met een dynamisch contract kan ik die momenten benutten.
 
 Het eerste jaar: ik betaalde gemiddeld €0,19/kWh in plaats van de vaste prijs van €0,28/kWh die ik eerder had. Dat is een besparing van €320 op jaarbasis — alleen al door de wasmachine en vaatwasser naar goedkope uren te verschuiven, en de thuisbatterij automatisch op te laden tussen 1:00 en 6:00 uur.
@@ -62,6 +61,9 @@ Het eerste jaar: ik betaalde gemiddeld €0,19/kWh in plaats van de vaste prijs 
 Maar dynamisch is niet voor iedereen geschikt — en het overstappen vraagt wat voorbereiding. In dit artikel leg ik stap voor stap uit hoe het werkt, vergelijk ik de drie grootste spelers (Tibber, Frank Energie en ANWB Energie), en help ik je bepalen of dynamisch ook voor jou de betere keuze is.
 
 ---
+
+
+> **Kort antwoord:** Overstappen naar een dynamisch energiecontract in 2026? Ik vergelijk Tibber, Frank Energie en ANWB Energie en leg stap voor stap uit hoe het werkt.
 
 ## Hoe werkt een dynamisch energiecontract?
 
@@ -398,3 +400,7 @@ Als je nu al nadenkt over een warmtepomp, is het kiezen van een dynamisch contra
 - [Saldering vs dynamisch contract: welke is voordeliger na](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
 - [ANWB Energie review 2026: dynamisch contract met vangnet](/posts/anwb-energie-dynamisch-review-2026/)
 - [Dynamische stroomprijzen per uur in 2026: goedkoopste](/posts/dynamische-prijzen-gemiddeld-uur-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

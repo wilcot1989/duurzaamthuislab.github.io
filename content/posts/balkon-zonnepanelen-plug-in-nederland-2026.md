@@ -54,7 +54,6 @@ products:
   url: https://www.hoymiles.com/
   price: '180'
 ---
-
 Een student in Groningen vroeg me vorig jaar of plug-in balkon zonnepanelen voor haar 3-hoog appartement een goede investering waren. Ze had €450 over uit haar studentenfonds en wilde iets duurzaams doen. Ze had het concept gezien op TikTok (Duitse "Balkonkraftwerk" hype) en vroeg zich af of dit ook in Nederland mocht.
 
 Antwoord: ja, sinds eind 2024 expliciet toegestaan. We hebben een 800W EcoFlow PowerStream systeem gekocht, in een avond geïnstalleerd op haar balkonhek (zuidwest gericht), en de eerste 4 maanden produceerde het 220 kWh = €55 besparing. Op jaarbasis: €175-€220.
@@ -62,6 +61,11 @@ Antwoord: ja, sinds eind 2024 expliciet toegestaan. We hebben een 800W EcoFlow P
 Hieronder mijn complete gids voor plug-in balkon zonnepanelen in Nederland in 2026. Wat mag wel, wat mag niet, en hoe maak je het zelf.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Plug-in balkon zonnepanelen in Nederland 2026: wat mag wel en niet, kosten, opbrengst, juridische status. Mijn vergelijking met Duitse "Balkonkraftwerk" markt.
+>
+> Sinds 2024 toegestaan, mits totaal vermogen onder 800W (1-fase) en aangesloten op een gewone Schuko via gecertificeerde stekkerset met automatische uitschakeling. Boven 800W: gecertificeerde installatie verplicht.
 
 ## Wat zijn plug-in balkon zonnepanelen?
 
@@ -460,3 +464,7 @@ Mijn aanbevelingen:
 7. **Combineer met dynamisch contract** voor extra besparing
 
 Voor verdere lezing: [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/), [zonnepanelen huurder toestemming](/posts/huurwoning-zonnepanelen-toestemming/), [zonnefolie flexibele panelen](/posts/zonnefolie-flexibele-zonnepanelen-2026/), [zonnepanelen sociale huur stappenplan](/posts/zonnepanelen-sociale-huur-stappenplan-2026/) en [omvormer kiezen](/posts/omvormer-kiezen-welke-past-2026/).
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

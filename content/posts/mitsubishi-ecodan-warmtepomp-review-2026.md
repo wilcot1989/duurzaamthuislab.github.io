@@ -51,7 +51,6 @@ products:
   price: '15500'
 schema_type: Review
 ---
-
 Mijn buurman aan de overkant heeft sinds maart 2025 een Mitsubishi Ecodan PUZ-WM 5 kW draaien. Hij heeft me toegang gegeven tot zijn appdata, energierekeningen en service-bezoeken voor 14 maanden. Eerlijke review op basis van echte cijfers — geen fabrikant-gegevens.
 
 *Disclosure: ik heb geen affiliate-relatie met Mitsubishi Electric. De CTA-link verwijst naar de algemene productpagina. Cijfers in dit artikel komen van mijn buurman + onafhankelijke metingen.*
@@ -59,6 +58,11 @@ Mijn buurman aan de overkant heeft sinds maart 2025 een Mitsubishi Ecodan PUZ-WM
 ---
 
 💡 *Twijfel je over warmtepomp-type? Lees [warmtepomp monoblock vs split](/posts/warmtepomp-monoblock-vs-split-2026/) eerst — Ecodan is een monoblock-systeem.*
+
+
+> **Kort antwoord:** Ik test de Mitsubishi Ecodan warmtepomp na 14 maanden bij een buurman. COP, geluid, kosten en eerlijke conclusie over deze Japanse premium warmtepomp.
+>
+> Mitsubishi Ecodan PUZ-WM 5 kW met installatie en buffervat: €9.500-€11.800 inclusief btw. Ecodan 8 kW: €11.500-€14.500. Daar gaat ISDE-subsidie €1.450-€2.700 vanaf. Netto investering: €7.000-€11.800. Iets duurder dan Vaillant aroTHERM en Atag Energion, maar lagere onderhoudskosten op lange termijn.
 
 ## De setup van mijn buurman
 
@@ -407,3 +411,7 @@ Voor 80% van de Nederlandse markt is Vaillant of Daikin pragmatischer. Voor de 2
 - [Warmtepomp geluid en buren](/posts/warmtepomp-geluid-buren-2026-norm/)
 - [Hoe kies je een installateur](/posts/beste-warmtepompinstallateur-kiezen-2026/)
 - [ISDE subsidie 2026](/posts/isde-subsidie-warmtepompen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -58,7 +58,6 @@ products:
   price: '11500'
 schema_type: Article
 ---
-
 In mijn straat staan acht warmtepompen: vier hybride, vier volledig elektrisch. Ik heb ze 18 maanden gevolgd — verbruik, gemak, comfort, kosten. Wat ik geleerd heb: er bestaat geen "beste" warmtepomp, alleen de juiste keuze voor jouw woning. Soms is hybride €5.000 goedkoper en logischer. Soms verdient volledige warmtepomp zich in 9 jaar terug. Hieronder de eerlijke vergelijking met cijfers uit echte huizen.
 
 *Disclosure: ik heb geen affiliate-deal met deze warmtepomp-merken. Ik ben wel partner van Quatt en Vaillant via DuurzaamThuisLab. De analyse is gebaseerd op metingen bij buren, niet op brochure-data.*
@@ -66,6 +65,11 @@ In mijn straat staan acht warmtepompen: vier hybride, vier volledig elektrisch. 
 ---
 
 💡 *Twijfel je of je radiatoren wel geschikt zijn? Lees [radiatoren vervangen voor warmtepomp 2026](/posts/radiatoren-vervangen-warmtepomp-2026/).*
+
+
+> **Kort antwoord:** Hybride of volledige warmtepomp in 2026? Investering, COP, gasverbruik en terugverdientijd vergeleken voor 4 verschillende huizen. Eerlijke beslisboom.
+>
+> Hybride warmtepomp werkt samen met een cv-ketel: warmtepomp doet 70-85% van de warmtevraag, cv-ketel springt bij koud weer of warmwater bij. Volledige warmtepomp (all-electric) doet alles zelf: ruimteverwarming én warmtap-water. Hybride is goedkoper in aanschaf (€4.500-€7.500) maar verbruikt nog gas (~250-450 m³/jaar). Volledig elektrisch kost €8.500-€14.000 maar is gasvrij.
 
 ## Wat is het verschil precies?
 
@@ -384,3 +388,7 @@ Hybride wint op TCO, maar bij volledig elektrisch ben je in jaar 16-25 spekkoper
 ## Niche-use-case: hybride met houtkachel als piekvoorziening
 
 Een onderzochte combinatie die ik in 2026 vaker zie bij klanten in Drenthe en Friesland: hybride warmtepomp plus efficiente houtkachel (8 kW Rocket-mass-stove of pelletkachel) als piekvoorziening op vorstdagen onder -8 graden. Dat haalt 5-8 procent gasverbruik weg t.o.v. zuiver hybride, omdat de cv-ketel niet bijspringt op de koudste dagen. Bewustzijn vereist: pelletkachel kost 4.500-7.000 euro plus 6 m3 opslag, alleen interessant als je toch al hout-affiniteit hebt. Voor stedelijke gevallen blijft dit uitgesloten wegens fijnstof-regelgeving.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

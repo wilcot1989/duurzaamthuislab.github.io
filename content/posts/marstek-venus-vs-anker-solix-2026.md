@@ -56,7 +56,6 @@ products:
   price: '5999'
 schema_type: Article
 ---
-
 Een huurder uit mijn dorp belde me afgelopen winter. Hij heeft geen mogelijkheid om zonnepanelen te installeren (huurwoning) en geen ruimte voor een grote batterij in de meterkast. "Mark, kun je me helpen kiezen tussen Marstek en Anker Solix? Ik wil gewoon een batterij stekkerklaar in mijn schuur, die opladen wanneer stroom goedkoop is en aflaten als duur."
 
 Goeie vraag. Ik kende beide systemen — Marstek had ik bij mijn eigen huis als testopstelling staan sinds april 2025, Anker Solix had ik via de buren van mijn schoonmoeder in Brabant kunnen volgen sinds juli 2025. Tien maanden parallel data. Tijd voor een eerlijke vergelijking.
@@ -66,6 +65,11 @@ Goeie vraag. Ik kende beide systemen — Marstek had ik bij mijn eigen huis als 
 ---
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+
+> **Kort antwoord:** Marstek Venus of Anker Solix als thuisbatterij? Ik test beide naast elkaar — prijs, app, arbitrage en eerlijke aanbeveling voor Nederland 2026.
+>
+> Marstek Venus 5 kWh: €1.999 stekkerklaar. Anker Solix Solarbank 2 Pro 5 kWh (vergelijkbaar segment): €1.799-€2.099 afhankelijk van bundle. Voor de instap-balkonbatterij is Anker iets goedkoper, voor de uitgebreide all-in installatie (vanaf 10 kWh + omvormer + slim handelen) is Marstek voordeliger. Reken op €100-€200 verschil per kWh capaciteit.
 
 ## Wie zijn Marstek en Anker?
 
@@ -411,3 +415,7 @@ Anker Solix integreert native met Tibber Charge sinds firmware 2025.06. Marstek 
 
 **Kan ik later switchen?**
 Hardware niet uitwisselbaar (verschillende omvormer-protocols). Bij verkoop tweedehands marktwaarde 2 jaar oud: Marstek €1.200-€1.400, Anker Solix €1.400-€1.600.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -43,7 +43,6 @@ products:
   price: '20'
 schema_type: Article
 ---
-
 Mijn woning had drie isolatiezwakke plekken die ik achtereenvolgens heb aangepakt: spouwmuren, begane grondvloer en het dak. Nu ik alle drie heb gedaan én de rekeningen van de afgelopen drie jaar naast elkaar heb gelegd, kan ik met zekerheid zeggen welke maatregel per geïnvesteerde euro het meeste heeft opgeleverd.
 
 In dit artikel leg ik de vergelijking vast: spouwmuurisolatie versus vloerisolatie via de kruipruimte. Beide zijn populaire en relatief goedkope ingrepen voor woningen met een kruipruimte en spouwmuren — de standaard situatie bij Nederlandse rijtjeswoningen en twee-onder-een-kapwoningen van bouwjaar 1930-1985.
@@ -51,6 +50,11 @@ In dit artikel leg ik de vergelijking vast: spouwmuurisolatie versus vloerisolat
 *Dit artikel bevat geen affiliate links voor isolatieproducten. Ik noem merken puur als referentie.*
 
 ---
+
+
+> **Kort antwoord:** Vloerisolatie of spouwmuurisolatie: wat geeft het meeste rendement per geïnvesteerde euro? Vergelijking op besparing, kosten.
+>
+> Spouwmuurisolatie is doorgaans goedkoper: €800-€1.500 voor een gemiddelde tussenwoning tegenover €1.000-€2.500 voor vloerisolatie via de kruipruimte. Beide hebben echter vergelijkbare terugverdientijden.
 
 ## Waarom vergelijken met spouwmuur- en vloerisolatie?
 
@@ -513,3 +517,7 @@ De volgorde is bewust: isolatie eerst. Een warmtepomp op een slecht geïsoleerde
 - [Spouwmuur isolatie kosten 2026: wat betaal je per m²?](/posts/spouwmuur-isolatie-kosten-2026/)
 - [Ventilatie met Warmteterugwinning (WTW) 2026](/posts/ventilatie-warmteterugwinning-wtw-2026/)
 - [Dakraam vs dakkapel isolatie 2026: warmteverlies](/posts/dakraam-vs-dakkapel-isolatie-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

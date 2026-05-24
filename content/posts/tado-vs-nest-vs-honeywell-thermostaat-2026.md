@@ -49,12 +49,16 @@ products:
   url: https://www.honeywellhome.com/
   price: '349'
 ---
-
 Een buurman in Zwolle vroeg me afgelopen najaar welke slimme thermostaat hij moest kiezen. Hij had net een hybride warmtepomp van Quatt geïnstalleerd en wilde verder besparen. Drie merken op tafel: Tado, Nest, Honeywell evohome. Drie heel verschillende filosofieën.
 
 Ik heb in oktober 2025 alle drie geïnstalleerd in mijn eigen huis (Tado op begane grond, Nest op eerste verdieping als test, Honeywell evohome bij de vakantiewoning). Vier maanden later kan ik gefundeerd zeggen welke voor welke situatie wint.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Tado, Nest en Honeywell slimme thermostaten vergeleken in 2026. Prijzen, app, integratie met warmtepomp, energiebesparing en mijn 4 maanden testervaring.
+>
+> Tado V3+: €199-€249. Nest Learning 4e gen: €249. Honeywell evohome: €349 starter set, €99 per radiatorkop extra. Plus eventueel €60-€120 installatiekosten als je het niet zelf doet.
 
 ## De drie merken in het kort
 
@@ -441,3 +445,7 @@ Tado V3+ en X: ja, via Tado Energy IQ + integratie Frank Energie of Tibber. Nest
 
 **Wat gebeurt er bij internetstoring?**
 Tado V3+ blijft basaal werken (laatste schema), bediening via fysieke knoppen. Tado X heeft volledige lokale bediening via Matter. Nest verlaat valt terug op laatst bekende setting. Honeywell Evohome werkt volledig lokaal — beste keus voor offline-betrouwbaarheid.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

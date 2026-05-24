@@ -45,7 +45,6 @@ products:
   price: '99'
 schema_type: Article
 ---
-
 Mijn huis draait ondertussen bijna volledig automatisch. Mijn HomeWizard P1 meter ziet dat de zon schijnt, mijn Huawei Luna batterij laadt op tot de zonnestroom op is, en mijn Vaillant warmtepomp draait alleen als mijn Tibber-tarief onder de €0,10/kWh zakt. Dat klinkt ingewikkeld, maar het kostte me een middag instellen en bespaart me 25% op mijn energierekening. In dit artikel leg ik uit hoe je zo'n slim systeem zelf opzet.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -54,6 +53,11 @@ Heb je een dynamisch energiecontract? Slim energiebeheer maakt de besparing nog 
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Bespaar tot 30% op je energierekening met smart home technologie. Slimme thermostaten, energiemonitoring, automatisering en de beste systemen vergeleken.
+>
+> Met een slimme thermostaat bespaar je 15-20% op verwarming (€200-€400/jaar). Slim laden van een EV bespaart €200-€500/jaar. Energiemonitoring + gedragsverandering bespaart nog eens 5-10%. Totaal kun je met een volledig slim systeem 20-30% besparen op je energierekening.
+
 ## De Smart Home Energie Stack
 
 | Component | Besparing/jaar | Kosten | Terugverdientijd |
@@ -412,3 +416,7 @@ Ik heb de vier meest verkochte slimme thermostaten in Nederland vergeleken op de
 ---
 
 *Laatst bijgewerkt: mei 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

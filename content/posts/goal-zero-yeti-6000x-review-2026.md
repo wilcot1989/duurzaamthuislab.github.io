@@ -49,12 +49,16 @@ products:
   url: https://www.bluettipower.eu/
   price: '4299'
 ---
-
 Een ondernemer in Brabant vroeg me afgelopen najaar om zijn back-up situatie door te lichten. Hij heeft een data-recovery bedrijf en kan zich geen stroomstoring veroorloven. Een vaste UPS van 5 kVA stond op zijn kantoor maar gaf maar 30 minuten autonomie. Hij wilde echt 8+ uur back-up zonder de complexiteit van een Victron-installatie. Goal Zero Yeti 6000X kwam in beeld.
 
 Ik heb in oktober 2025 een Yeti 6000X bij hem geplaatst en 4 maanden gevolgd. Hieronder mijn eerlijke review: prestaties, vergelijking met EcoFlow Delta Pro Ultra en Bluetti AC500, en voor wie dit premium powerstation echt zinnig is.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Goal Zero Yeti 6000X review: ik testte het 6 kWh powerstation als off-grid backup. Vergelijking met EcoFlow Delta Pro Ultra, prestaties, prijs en alternatieven.
+>
+> De Goal Zero Yeti 6000X kost €4.999 in Nederland (importprijs varieert). Met de Yeti Link voor backup-aansluiting €5.499. Met Boulder 200 zonnepaneel €5.799.
 
 ## Wat is Goal Zero Yeti 6000X?
 
@@ -267,3 +271,7 @@ Voor automatische start bij stroomuitval moet je de Link Module configureren op 
 Een benzine-aggregaat van 3 kVA kost €700 en levert in theorie oneindige autonomie zolang je brandstof hebt. Klinkt aantrekkelijk vergeleken met €5.000 voor een Yeti. In de praktijk: een aggregaat maakt 75 dB lawaai (Yeti 45 dB), produceert uitlaatgassen (mag niet binnen), heeft jaarlijks onderhoud nodig (€80) en levert vieze sinusgolf die gevoelige elektronica schaadt. Voor servers, medische apparatuur of audiosystemen is een aggregaat ronduit gevaarlijk zonder dubbele filtering.
 
 De combinatie die ik vaakst aanraad voor MKB-locaties: Yeti 6000X voor de eerste 8-12 uur (stille, schone stroom) plus een klein aggregaat als reserve voor stroomuitval boven de 12 uur. Die combinatie kost ongeveer €5.700 maar dekt ieder realistisch scenario in Nederland — ook de zeer zeldzame regionale storingen van een hele dag zoals in Diemen-Zuid in februari 2025.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

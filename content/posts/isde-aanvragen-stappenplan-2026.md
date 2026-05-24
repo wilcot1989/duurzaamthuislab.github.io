@@ -42,10 +42,14 @@ products:
 schema_type: Article
 last_updated: '2026-08-12'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "ISDE-subsidie aanvragen 2026? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** ISDE-subsidie voor warmtepomp of zonneboiler aanvragen via RVO. Volledig stappenplan met screenshots, benodigde documenten en doorlooptijd uit eigen ervaring.
+>
+> Voor een lucht-water warmtepomp 2.250-3.750 euro afhankelijk van vermogen en COP. Voor een zonneboiler 700-2.500 euro. Hybride warmtepomp valt sinds 2025 niet meer onder ISDE.
 
 ## Korte conclusie
 
@@ -296,3 +300,7 @@ Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/quatt"
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-08-12 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

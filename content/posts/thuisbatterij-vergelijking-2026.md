@@ -45,7 +45,6 @@ products:
   price: '7500'
 schema_type: Article
 ---
-
 Na een jaar met mijn Huawei Luna 2000 weet ik precies waar je op moet letten bij een thuisbatterij: round-trip efficientie, prijs per kWh, en of het systeem overweg kan met dynamische tarieven. Ik heb de 5 populairste modellen op de Nederlandse markt vergeleken op basis van echte data, installateursfeedback en mijn eigen rekenmodellen.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -54,6 +53,11 @@ Heb je al een dynamisch energiecontract? Lees dan hoe je een [thuisbatterij comb
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De 5 beste thuisbatterijen van 2026 vergeleken op capaciteit, prijs, levensduur en rendement. Tesla Powerwall, BYD, Huawei, SolarEdge en Enphase.
+>
+> De Tesla Powerwall 3 biedt de beste combinatie van capaciteit (13,5 kWh), ingebouwde omvormer en gebruiksgemak. De BYD HVS biedt de beste schaalbaarheid (5,1-12,8 kWh modulair). Voor SolarEdge-gebruikers is de SolarEdge Home Battery de meest efficiënte optie dankzij DC-koppeling.
+
 ## Waarom ik juist deze 5 koos
 
 De Nederlandse markt heeft inmiddels tientallen thuisbatterij-merken. Ik beperkte me tot de vijf die het meest worden geïnstalleerd door gecertificeerde installateurs én waarbij ik voldoende data kon vergaren: eigenaarsreviews, installateursfeedback, en technische specificaties. Merken als Victron, Alpha-ESS of Pylontech heb ik bewust buiten beschouwing gelaten — interessant voor gevorderden, maar te complex voor de gemiddelde consument.
@@ -439,3 +443,7 @@ Als je budget onder €6.000 is en je wilt NL-service: kies Huawei LUNA2000 of S
 
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

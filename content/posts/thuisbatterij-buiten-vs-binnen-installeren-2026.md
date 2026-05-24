@@ -48,7 +48,6 @@ products:
   price: '3499'
 schema_type: Article
 ---
-
 Ik heb de afgelopen maanden vier installateurs gevraagd om hun eerlijkste mening over thuisbatterij-plaatsing. Het antwoord varieerde van "gewoon in de meterkast" tot "absoluut niet in de woonruimte". De waarheden liggen ergens in het midden — en de details zijn crucialer dan de meeste fabrieksbrochures je laten geloven.
 
 Dit artikel is gebaseerd op mijn eigen Sessy-installatie, gesprekken met installateurs, de NEN 1010-norm en de garantievoorwaarden van de belangrijkste merken. Want de vraag "buiten of binnen?" is niet alleen een ruimtekwestie — het gaat over veiligheid, prestaties en garantie.
@@ -56,6 +55,11 @@ Dit artikel is gebaseerd op mijn eigen Sessy-installatie, gesprekken met install
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Thuisbatterij buiten of binnen installeren? Ik leg uit wat veiliger is, welke locaties werken (garage, schuur, woonkamer) en wat de installateur-eisen zijn.
+>
+> Ja, maar alleen als de batterij specifiek gecertificeerd is voor buitenopstelling (IP55 of hoger). Niet elke thuisbatterij is geschikt voor directe blootstelling aan regen, vorst of hitte. Controleer altijd de IP-classificatie van het specifieke model.
 
 ## Waarom de plaatsingskeuze er echt toe doet
 
@@ -547,3 +551,7 @@ Een woning in Nijmegen met een droge, geventileerde garage direct naast de meter
 - [Marstek Venus review 2026: de goedkoopste slimme](/posts/marstek-venus-review-thuisbatterij/)
 - [Sessy review 2026: eerlijke test van de Nederlandse](/posts/sessy-review-thuisbatterij-nederland/)
 - [Huawei Luna vs Tesla Powerwall vs Sessy 2026](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -48,7 +48,6 @@ products:
   price: '11500'
 schema_type: Review
 ---
-
 De eerste keer dat ik de naam Vaillant hoorde was bij mijn vader. Hij had een Vaillant cv-ketel in de jaren tachtig — "een Duitse trots", zei hij. Die ketel draaide ruim twintig jaar. Sindsdien is Vaillant een gevestigde naam bij installateurs, maar in de warmtepompwereld moesten ze de Japanse merken (Daikin, Mitsubishi) en ook ATAG inhalen.
 
 Dat lijken ze gedaan te hebben met de aroTHERM plus.
@@ -61,6 +60,11 @@ Ik bekeek drie installaties in mijn regio van dichtbij, sprak met de bewoners na
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De Vaillant aroTHERM plus is een van de meest besproken warmtepompen van 2026. Ik bekeek drie installaties van dichtbij.
+>
+> Een Vaillant aroTHERM plus kost €9.500 tot €14.000 inclusief 0% btw, exclusief montage. De prijs hangt af van het vermogen (3,5 kW tot 12 kW) en de binnenunit die erbij geleverd wordt. Montage kost doorgaans €1.500 tot €3.000 extra, afhankelijk van de complexiteit. Na ISDE-subsidie (€2.500 tot €4.500) kom je netto op €8.500 tot €12.500 inclusief alles.
+
 ## Vaillant: 150 jaar cv-ervaring, nu in warmtepompen
 
 Vaillant is opgericht in 1874 in Remscheid, Duitsland. Ze begonnen met geisers en cv-ketels en zijn inmiddels actief in meer dan 60 landen. In Nederland zijn ze bekend via hun cv-ketelnetwerk — elke loodgieter kent het merk.

@@ -49,12 +49,16 @@ products:
   url: https://alfen.com/
   price: '1500'
 ---
-
 Een eigenaresse uit Utrecht-Noord vroeg me vorig jaar om hulp: ze had een Tesla Model Y besteld maar haar VVE blokkeerde een laadpaal. "We willen het niet", zei voorzitter, "stoort het zicht en geluid." Drie maanden later, na inzet van de Wet VVE-laadpalen 2024, had ze haar laadpaal — en 3 mede-bewoners volgden. Totaal kosten verdeeld over 4 deelnemers: €5.800.
 
 Hieronder mijn complete stappenplan voor wie een laadpaal wil in een appartement-complex of woon-werk gebouw met gemeenschappelijke parkeerinfrastructuur.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Laadpaal in een VVE: hoe regel je dat? Wettelijk recht, kosten, technische opties en stappenplan voor laadpalen op gemeenschappelijke parkeerplekken in 2026.
+>
+> Sinds april 2024: ja, mits je een eigen parkeerplaats hebt en de installatie technisch mogelijk is. VVE mag niet onredelijk weigeren. Procedure via VVE-vergadering met agendapunt indienen.
 
 ## Wat zegt de wet?
 
@@ -515,3 +519,7 @@ Bij voldoende VVE-meerderheid (minimaal 50 procent + 1) is besluit bindend. Weig
 
 **Mag ik mijn laadpaal verhuren aan derden?**
 Bij gedeelde VVE-infrastructuur: alleen met VVE-akkoord. Inkomsten moeten dan in VVE-kas, niet privé. Bij eigen aansluiting wel privé verhuurbaar via apps zoals Plugsurfing of Shell Recharge — opbrengst gemiddeld 0,12-0,18 euro per kWh netto.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

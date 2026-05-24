@@ -42,10 +42,14 @@ products:
 schema_type: Article
 last_updated: '2026-04-29'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "Tesla Model 3 slim laden met Tibber? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** Mijn Tesla Model 3 laadt automatisch op de goedkoopste uren via Tibber + Tesla API. Setup, kosten, valkuilen en een jaar besparingsdata.
+>
+> V2H (vehicle-to-home) levert stroom uit je auto naar je huis, V2G ook naar het net. V2G heeft contract met netbeheerder nodig, V2H niet. In Nederland is V2H technisch al mogelijk, V2G is in pilotfase.
 
 ## Korte conclusie
 
@@ -308,3 +312,7 @@ Tibber Pulse logt offline 12 uur. Tesla laadt door op laatste setting tot connec
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-08-08 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

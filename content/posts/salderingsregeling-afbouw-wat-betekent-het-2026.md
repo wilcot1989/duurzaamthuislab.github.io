@@ -48,7 +48,6 @@ products:
   price: '6'
 schema_type: Article
 ---
-
 Met mijn 16 panelen (5,6 kWp) lever ik jaarlijks zo'n 2.800 kWh terug aan het net. Dankzij de salderingsregeling krijg ik daar nu het volle tarief voor — maar vanaf 2027 verandert dat. Ik heb uitgerekend dat de afbouw mij zonder maatregelen €450 per jaar zou kosten. Daarom heb ik alvast een Huawei Luna thuisbatterij geplaatst. In dit artikel leg ik uit wat de afbouw precies inhoudt en hoe jij je kunt voorbereiden.
 
 *Dit artikel is informatief van aard en bevat geen financieel advies. De genoemde bedragen en percentages zijn gebaseerd op de meest recente informatie beschikbaar in maart 2026.*
@@ -57,6 +56,11 @@ Met mijn 16 panelen (5,6 kWp) lever ik jaarlijks zo'n 2.800 kWh terug aan het ne
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Alles over de afbouw van de salderingsregeling vanaf 2027. Bekijk de impact op je zonnepanelen en ontdek waarom een thuisbatterij nu slim is.
+>
+> De salderingsregeling houdt in dat je stroom die je met zonnepanelen opwekt en teruglevert aan het net, mag wegstrepen tegen stroom die je afneemt. Je betaalt dus alleen over het verschil (het saldo).
+
 ## Wat is de salderingsregeling?
 
 De salderingsregeling (ook wel 'salderen' of 'netto-metering' genoemd) is een Nederlandse regeling die het bezit van zonnepanelen financieel aantrekkelijk maakt. Het principe is eenvoudig:
@@ -424,3 +428,7 @@ Wil je je voorbereiden op de nieuwe situatie? Lees ook onze artikelen over de [b
 
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

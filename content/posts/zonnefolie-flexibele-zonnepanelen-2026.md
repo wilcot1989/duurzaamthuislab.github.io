@@ -51,7 +51,6 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Mijn buurman heeft een dakkapel die hij al jaren wil benutten voor zonne-energie. Probleem: de constructie is van hout uit 1965. Een structuurdeskundige heeft hem verteld dat de dakkapel maximaal 10 kg/m² extra mag dragen. Gewone zonnepanelen — gemiddeld 13 kg/m² — zijn daarmee uitgesloten.
 
 Hij vroeg me of flexibele zonnepanelen een optie waren. Mijn antwoord: ja, met nuances.
@@ -59,6 +58,9 @@ Hij vroeg me of flexibele zonnepanelen een optie waren. Mijn antwoord: ja, met n
 Dit artikel legt uit wat zonnefolie en flexibele zonnepanelen zijn, wanneer ze zinnig zijn, en wanneer u beter kunt wachten totdat uw dak meer aankan.
 
 ---
+
+
+> **Kort antwoord:** Voor dakkapellen, caravans en daken die geen zware panelen aankunnen — opbrengst, prijs en levensduur vergeleken.
 
 ## Wat zijn flexibele zonnepanelen en zonnefolie?
 
@@ -349,3 +351,7 @@ Bij een investering van €600 is de terugverdientijd 4,8 jaar. Bescheiden, maar
 - [Echte Aansluitkosten Zonnepanelen 2026](/posts/dakdoos-aansluitkosten-zonnepanelen-2026/)
 - [Gemeentelijke subsidie zonnepanelen 2026: per provincie](/posts/gemeentelijke-subsidie-zonnepanelen-2026/)
 - [Zonnepanelen in huurwoning in 2026](/posts/huurwoning-zonnepanelen-toestemming/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -42,7 +42,6 @@ products:
   price: '3000'
 schema_type: Article
 ---
-
 Na het isoleren van mijn vloer en het plaatsen van mijn Vaillant warmtepomp merkte ik dat ik via de ventilatieroosters alsnog veel warmte verloor. Een WTW-systeem haalt 90% van die warmte terug uit de afgevoerde lucht. Ik heb het laten doorrekenen: bij mijn gasverbruik scheelt het €350 per jaar, en de luchtkwaliteit in huis is fors verbeterd. Hier deel ik alles wat je moet weten.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -51,6 +50,11 @@ Overweeg je je woning volledig te verduurzamen? Lees ons [stappenplan energielab
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Alles over ventilatie met warmteterugwinning (WTW) in 2026. Kosten €3.000-€6.000, werking, besparing op energierekening en de beste WTW units vergeleken.
+>
+> Een WTW-systeem (balansventilatie) haalt warme, vochtige lucht uit je woning en blaast schone buitenlucht naar binnen. Het bijzondere: een warmtewisselaar haalt 80-95% van de warmte uit de afgevoerde lucht en geeft die af aan de verse lucht. Zo ventileer je zonder warmteverlies.
+
 ## Hoe Werkt een WTW-systeem?
 
 ### Het principe
@@ -393,3 +397,7 @@ Een WTW-systeem is de logische volgende stap na isolatie. Het voorkomt dat je du
 ---
 
 *Laatst bijgewerkt: juni 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

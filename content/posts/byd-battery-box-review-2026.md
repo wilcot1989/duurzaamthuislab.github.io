@@ -49,12 +49,16 @@ products:
   url: https://www.frankenergie.nl/
   price: '0'
 ---
-
 Een installateur waarmee ik samenwerk in Apeldoorn vroeg me afgelopen najaar of ik een BYD Battery-Box wilde reviewen. Hij installeert er gemiddeld vijf per maand, maar wist niet of het ook voor de Nederlandse particuliere markt de beste keuze is. Ik heb in november 2025 een BYD HVS 10.2 gevolgd bij een familie in Twello, vier maanden lang.
 
 Hieronder mijn bevindingen na 4 maanden: prestaties, vergelijking met Sessy en Powerwall, en voor wie deze Chinese batterij echt geschikt is.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** BYD Battery-Box Premium HVS review: ik testte de Chinese hoogvolt-thuisbatterij. Capaciteit, prijs, betrouwbaarheid en alternatieven voor de Nederlandse markt.
+>
+> BYD Battery-Box is een modulaire DC-gekoppelde thuisbatterij van het Chinese BYD (Build Your Dreams). Verkrijgbaar in HVS (hoogvolt 5,1 kWh modules) en LVS (laagvolt 4 kWh modules) varianten, modulair tot 22+ kWh.
 
 ## Wat is BYD Battery-Box?
 
@@ -317,3 +321,7 @@ Hoe loopt support in NL? Via Europese distributeur (meestal Memodo of Krannich).
 ## Combinatie met EV-laden
 
 Bij gezin met EV en Tesla Powerwall is de keuze duidelijk Tesla, maar bij niet-Tesla EV's wordt BYD interessant. Een klant in Amersfoort met BMW iX en BYD HVS 11,5 kWh laadt overdag op 5 kW zonne-overschot, batterij vult zich rest van de dag, 's avonds laadt EV uit batterij. Werkt zonder issues. Tesla Powerwall zou €3.500 duurder zijn voor vergelijkbare functie.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

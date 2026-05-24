@@ -48,10 +48,14 @@ products:
   price: '5995'
 schema_type: Article
 ---
-
 Vorig jaar liet ik de dakisolatie van mijn jaren-vijftig rijtjeswoning aanpakken. De keuze die me het meeste hoofdbrekens kostte: ga ik het van binnenuit of van buitenuit isoleren? Na twee avonden rekenen en drie offertegesprekken kom ik je dat nu eerlijk vertellen — inclusief wat ik gekozen heb en waarom.
 
 ---
+
+
+> **Kort antwoord:** Dakisolatie van binnenuit of buitenuit? PUR, glaswol en EPS vergeleken. Wanneer kies je welke methode, en wat zijn de echte kosten in 2026?
+>
+> Buitenisolatie geeft thermisch betere resultaten (geen koudebruggen, behoud van dakvorm), maar is duurder en geschikt voor renovatie bij dakvervanging. Binnenisolatie is goedkoper en minder ingrijpend, maar vermindert het woonoppervlak licht en is gevoeliger voor vochtproblemen als het niet goed wordt uitgevoerd.
 
 ## Het fundamentele verschil
 
@@ -491,3 +495,7 @@ Dakisolatie is de verduurzamingsmaatregel met de beste prijs-prestatieverhouding
 - [Dakraam vs dakkapel isolatie 2026: warmteverlies](/posts/dakraam-vs-dakkapel-isolatie-2026/)
 - [Energielabel Verbeteren: Stappenplan van G naar A (2026)](/posts/energielabel-verbeteren-stappenplan-2026/)
 - [Kierdichting buitendeur 2026: tochtstrip + sleutelgat](/posts/kierdichting-buitendeur-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

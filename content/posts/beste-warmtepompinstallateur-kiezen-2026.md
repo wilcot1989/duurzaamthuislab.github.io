@@ -53,7 +53,6 @@ products:
   price: '10500'
 schema_type: HowTo
 ---
-
 Mijn buurvrouw Riet heeft me afgelopen winter een tweede keer ingeschakeld. Haar warmtepomp, in 2024 geïnstalleerd door een installateur die ze via een goedkope offerte had gevonden, draaide sinds december 2025 niet goed meer. Aanvoertemperatuur 65°C, COP onder de 2,5, energierekening hoger dan met haar oude cv-ketel. De installateur had verkeerd gedimensioneerd, geen warmteverlies-berekening gemaakt en zonder enige software-instelling de pomp aangezet. Resultaat: €1.400 herstelwerk, twee nieuwe radiatoren in slaapkamer (te kleine warmtelichamen) en een tweede meting.
 
 Riet's verhaal is helaas niet uniek. Ik kom dit elk jaar tegen. Een goedkope installateur lijkt aantrekkelijk maar kost je vaak meer in jaren energie + herstelwerk + frustratie.
@@ -65,6 +64,11 @@ Dit artikel is mijn complete stappenplan om de juiste warmtepompinstallateur te 
 ---
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+
+> **Kort antwoord:** Een slechte warmtepompinstallateur kost je €3.000+ aan herstelwerk. Mijn complete stappenplan om de juiste te kiezen, met red flags en checklist 2026.
+>
+> Drie vereiste kenmerken: (1) gecertificeerd via Techniek Nederland of BDA Keur, (2) doet altijd een warmteverlies-berekening (Vabi of vergelijkbaar) vóór het bepalen van het vermogen, (3) is bereid een meetset achter te laten of inzage te geven na 6 maanden. Vraag concreet: "kunt u me drie referenties van het laatste half jaar in mijn regio geven?" — bij twijfel: weglopen.
 
 ## Waarom de installateur belangrijker is dan het merk
 
@@ -404,3 +408,7 @@ ISDE-erkenning + lid van NVI (Nederlandse Vereniging Installateurs) of Techniek 
 
 **Hoe lang duurt een goede installatie?**
 Hybride: 1 dag. Vol-elektrisch met radiatorvervanging: 3-5 dagen. Vraag bij minder dan 1 dag voor vol-elektrisch een second opinion.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -62,7 +62,6 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Vorig jaar leverde ik met mijn 16 panelen 4.100 kWh terug aan het net. Dankzij de salderingsregeling kreeg ik daar het volledige leveringstarief voor — netjes weggestreept tegen mijn afname. Vanaf **1 januari 2027 is dat voorbij**. Volgens mijn doorrekening zou dat me zonder maatregelen €820 per jaar gaan kosten.
 
 Dit is geen klein detail. Het is de grootste verandering in de Nederlandse energiemarkt voor huishoudens sinds de invoering van zonnepanelen. In dit artikel leg ik uit:
@@ -78,6 +77,11 @@ Dit is geen klein detail. Het is de grootste verandering in de Nederlandse energ
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Per 1 januari 2027 stopt de salderingsregeling. Wat betekent dat concreet voor je zonnepanelen.
+>
+> De salderingsregeling stopt per 1 januari 2027. Het kabinet heeft het wetsvoorstel definitief aangenomen — er is geen geleidelijke afbouw meer over meerdere jaren, het wordt een 'cold turkey' stop op die datum.
+
 ## Wat verandert er precies per 1 januari 2027?
 
 De **salderingsregeling** mocht je tot nu toe je teruggeleverde zonnestroom volledig wegstrepen tegen je afname. Lever je 100 kWh terug en neem je 100 kWh af? Dan betaal je niets, alleen netbeheerkosten en vaste lasten.
@@ -360,3 +364,7 @@ Buitenopstelling Marstek Venus IP65 mogelijk (overdekt). Anders: alleen dynamisc
 
 **Wordt saldering nog uitgesteld?**
 In april 2026 stemde de Eerste Kamer voor afschaffing per 1 januari 2027. Uitstel door demissionair kabinet onwaarschijnlijk maar niet uitgesloten.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

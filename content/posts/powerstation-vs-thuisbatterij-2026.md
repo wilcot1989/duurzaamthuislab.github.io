@@ -49,7 +49,6 @@ products:
   price: '9500'
 schema_type: Article
 ---
-
 Ik heb ze allebei in huis: een Huawei Luna 2000 van 10 kWh als vaste thuisbatterij aan mijn zonnepanelen, en een draagbaar EcoFlow powerstation voor noodstroom en de camping. Twee totaal verschillende producten, maar ik krijg regelmatig de vraag welke je moet kiezen. In dit artikel leg ik het verschil uit op basis van mijn eigen ervaring met beide systemen.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
@@ -58,6 +57,11 @@ Ik heb ze allebei in huis: een Huawei Luna 2000 van 10 kWh als vaste thuisbatter
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Powerstation of thuisbatterij? Ontdek de verschillen in capaciteit, kosten, installatie en gebruik. Met helder keuzekader voor jouw situatie.
+>
+> Een powerstation is draagbaar, heeft ingebouwde stopcontacten en werkt direct uit de doos. Een thuisbatterij wordt vast geïnstalleerd, is gekoppeld aan je zonnepanelen en het elektriciteitsnet, en vereist een professionele installatie.
+
 ## Wat is een powerstation?
 
 Een **draagbaar powerstation** is een grote, oplaadbare batterij met ingebouwde omvormer en stopcontacten. Je kunt het vergelijken met een enorme powerbank, maar dan voor huishoudelijke apparaten. De belangrijkste kenmerken:

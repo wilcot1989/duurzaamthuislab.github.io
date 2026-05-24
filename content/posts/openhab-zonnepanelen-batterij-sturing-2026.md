@@ -42,10 +42,14 @@ products:
 schema_type: Article
 last_updated: '2026-04-29'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "OpenHAB voor zonnepanelen + batterij? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** OpenHAB als open-source alternatief voor Home Assistant. Mijn werkende config voor Sessy + zonnepanelen + dynamisch tarief, met regels en sitemap-voorbeelden.
+>
+> De meeste merken (Quatt, Daikin, Mitsubishi, Atag) hebben Modbus TCP of een open API. Quatt heeft een officiele HA-integratie sinds 2025, Daikin Onecta werkt via cloud-API. Volledig lokale sturing vereist meestal Modbus en een EVOK-relais.
 
 ## Korte conclusie
 
@@ -302,3 +306,7 @@ Synology DS220+ of nieuwer, of een NUC met Linux. Pi 4 met SSD werkt voor kleine
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-08-04 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

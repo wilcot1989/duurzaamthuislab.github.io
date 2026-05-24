@@ -49,7 +49,6 @@ products:
   price: '2299'
 schema_type: Article
 ---
-
 Mijn buurman Joost heeft een gezin van vijf. Twee dochters op de middelbare school, een zoon die thuis werkt, een vrouw die drie ochtenden per week van huis is en een hond die veel wasmachines vuil maakt. Zijn jaarverbruik is 4.700 kWh. Hij heeft 16 zonnepanelen op het dak — 6,24 kWp — en levert elk jaar zo'n 2.100 kWh terug aan het net.
 
 Tot voor kort was dat terugleveringsbeleid niet zo'n probleem. Saldering betekende: alles wat je teruglevert, trek je af van wat je afneemt. Netto nul, netto paar honderd euro voordeel. Maar Joost las ergens dat saldering in 2027 stopt. Hij belde me op een maandagochtend: "Mark, moet ik nu een batterij kopen?"
@@ -61,6 +60,11 @@ In dit artikel zet ik uiteen wat een thuisbatterij voor een eengezinswoning (4-5
 *Disclosure: ik heb commerciële relaties met Sessy en Marstek via affiliatelinks. Dat beïnvloedt mijn aanbevelingen niet — ik schrijf al jaren over thuisbatterijen vóór ik ook maar één affiliatelink had.*
 
 ---
+
+
+> **Kort antwoord:** Welke thuisbatterij past echt bij een NL-eengezinswoning met 4-5 personen? Ik vergelijk Sessy, Marstek en meer — inclusief terugverdientijd en eerlijke haakjes.
+>
+> Een 4-5 persoons huishouden verbruikt gemiddeld 3.500–4.500 kWh per jaar, ofwel 9–12 kWh per dag. Een batterij van 5–10 kWh kan 40–80% van de dagproductie opslaan. Voor de meeste gezinnen is 5 kWh een prima startpunt; pas bij een warmtepomp of laadpaal is 10 kWh zinvoller.
 
 ## Waarom 2027 de rekening verandert
 
@@ -381,3 +385,7 @@ Na die eerste 3–4 jaar is elke opgeslagen kWh klimaatpositief. Dat maakt thuis
 - [Saldering stopt 2027 — wat nu?](/posts/saldering-stopt-2027-volledige-gids/)
 - [Beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/)
 - [Goedkoopste thuisbatterij 2026](/posts/goedkoopste-thuisbatterij-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -49,12 +49,16 @@ products:
   url: https://www.coolblue.nl/zonnepanelen
   price: '100'
 ---
-
 Mijn buurman Hendrik vroeg me afgelopen herfst of ik zijn zonnepanelen ook eens wilde checken. "Ze hebben sinds 2018 niets meer gehad. Doen ze het nog?" Hij dacht dat zonnepanelen onderhoudsvrij waren. Toch klopte zijn opbrengst voor 2025 niet — die was 18% lager dan in 2019. Toen ik zijn dak inspecteerde, vond ik de oorzaak: 6 jaar mosgroei rond de panelen, één paneel volledig overdekt met vogelpoep, en een omvormer die in foutmelding stond.
 
 Conclusie: zonnepanelen zijn niet onderhoudsvrij. Wel weinig onderhoud, maar enige aandacht is nodig. Hieronder mijn complete gids op basis van 8 jaar eigen ervaring en regelmatige inspecties bij klanten.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Zonnepanelen onderhoud: hoe vaak schoonmaken, wat kost het, en doe je het zelf? Mijn 8 jaar ervaring met schoonmaakroutines, inspectie en kosten in Nederland.
+>
+> In Nederland is regen meestal voldoende om panelen schoon te houden. Eens per 2-3 jaar grondig schoonmaken is voldoende voor schuine daken. Op platte daken (mindere zelfreiniging) eens per jaar.
 
 ## Hoe vies worden zonnepanelen eigenlijk?
 
@@ -380,3 +384,7 @@ Bij dakhellingen boven 30 graden, bij meer dan 16 panelen waar je arbeidstijd ho
 
 **Is er garantie-impact bij zelf onderhoud?**
 Bij correcte methode (zacht borstel, neutraal water, vanaf grond) geen impact. Bij gebruik van schoonmaakmiddelen die niet door fabrikant goedgekeurd zijn (azijn, ammoniak, citroenzuur) vervalt de coating-garantie. Lees voorschrift voor je begint.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

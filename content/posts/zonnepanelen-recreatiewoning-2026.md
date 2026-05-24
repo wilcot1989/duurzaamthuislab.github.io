@@ -49,7 +49,6 @@ products:
   url: https://www.bluettipower.eu/
   price: '4299'
 ---
-
 Een echtpaar uit Den Bosch met een vakantiewoning op een park in Drenthe vroeg me afgelopen voorjaar om advies. Ze gebruikten het chalet 14 weken per jaar, energierekening: €680. Park stond positief tegenover zonnepanelen, maar het systeem moet "passend in landschap" zijn. Park heeft geen meterkast-aansluiting voor on-grid; alle woningen lopen via gemeenschappelijke meter.
 
 We kozen voor een hybride aanpak: 6 panelen op het schuine dak (met park-akkoord), 1 omvormer in technische kast, 5 kWh batterij voor avonden. Off-grid voor het chalet zelf, geen aansluiting nodig op park-net. Investering €7.200. Eigen kosten in 2 jaar terugverdiend dankzij wegval €680 jaarrekening — en park hoeft niet langer factureren.
@@ -57,6 +56,11 @@ We kozen voor een hybride aanpak: 6 panelen op het schuine dak (met park-akkoord
 Hieronder mijn gids voor zonnepanelen op recreatiewoningen, vakantiehuizen en chalets in 2026.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Zonnepanelen op je vakantiewoning of recreatiewoning: on-grid of off-grid? Ik leg de keuzes uit, kosten en speciale aandachtspunten voor parken in Nederland 2026.
+>
+> Op eigen grond met netaansluiting: meestal vergunningvrij. Op een park: vraag toestemming parkbeheer en check parkreglement. Soms apart vergunning­plichtig wegens beschermd landschap.
 
 ## Drie scenario's
 
@@ -482,3 +486,7 @@ Op jouw eigen caravan of camper: ja, geen vergunning nodig. Op een stacaravan in
 
 **Hoe dek ik diefstal van mobiele panelen?**
 Inboedelverzekering met "buitenshuis"-clausule of een speciale recreatiewoning-polis. Standaard opstal dekt panelen op caravan vrijwel nooit.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

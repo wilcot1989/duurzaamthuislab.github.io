@@ -52,7 +52,6 @@ products:
   price: '10000'
 schema_type: Review
 ---
-
 Vorig jaar zomer had ik een adviesgesprek met Anja en haar man Pieter. Vrijstaand huis uit 1969 in Apeldoorn, energielabel D, deels dubbel glas, spouwmuur niet geïsoleerd. Hun vraag was simpel: "Kunnen we gewoon een warmtepomp zetten of moeten we eerst alles verbouwen?"
 
 De eerlijke versie van het antwoord: het kan, maar de keuze van de pomp bepaalt of het slim is. Met een all-electric Daikin op 65°C aanvoer kun je in theorie ook een label D-woning verwarmen — maar je SCOP daalt naar 2,5 tot 3,0, en dan is het twijfelachtig of de investering ooit terugverdient.
@@ -65,6 +64,11 @@ Ik wees ze op de Bosch Compress 7800i hybride. Niet het meest bekende merk als j
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De Bosch Compress 5800 en 7800i zijn lucht-water warmtepompen die speciaal goed werken in matig geïsoleerde woningen.
+>
+> De Bosch Compress 5800 kost circa €7.500 tot €9.500 inclusief 0% btw, exclusief montage. De Compress 7800i ligt op €9.000 tot €11.000. Montagkosten bedragen doorgaans €1.000 tot €1.800. Inclusief ISDE-subsidie (€2.500 tot €4.000 afhankelijk van model en vermogen) betaal je netto €6.000 tot €9.500 all-in.
+
 ## Bosch als warmtepompmerk: wat je moet weten
 
 Bosch Thermotechnology is onderdeel van de Robert Bosch GmbH — een van de grootste technologiebedrijven ter wereld. In Nederland is Bosch Thermotechnology actief via het dealernetwerk van **Bosch ABZ Water Comfort**, een specifiek kanaal voor verwarmings- en koelingsinstallaties.

@@ -39,10 +39,14 @@ products:
 schema_type: Article
 last_updated: '2026-04-29'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "JinkoSolar vs Trina Solar 2026? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** JinkoSolar Tiger Neo of Trina Vertex S+? Beide tier-1, beide rond €0,32/Wp. Ik leg de echte verschillen uit: temperatuurcoefficient, garantie en degradatie.
+>
+> Beide zijn tier-1. JinkoSolar Tiger Neo gebruikt N-type TOPCon-cellen, hoger rendement (22,8 procent), 30 jaar garantie. Trina Vertex S+ ook N-type, vergelijkbaar rendement, 25 jaar garantie maar iets goedkoper.
 
 ## Korte conclusie
 
@@ -301,3 +305,7 @@ Technisch kan het als de spanning- en stroom-specificaties matchen. Praktisch ra
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-08-24 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

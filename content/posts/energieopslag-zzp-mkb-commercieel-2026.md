@@ -49,7 +49,6 @@ products:
   url: https://en.pylontech.com.cn/
   price: '12000'
 ---
-
 Een MKB-er met een lasbedrijf in Veenendaal vroeg me vorig jaar om advies. Hij had 80 zonnepanelen op zijn loods (24 kWp), verbruik 38.000 kWh/jaar, contract Eneco zakelijk. Energiekosten 2024: €11.500. Hij had gelezen dat een batterij hem zou kunnen helpen, maar wist niet of het de moeite waard was.
 
 We hebben doorgerekend: 30 kWh BYD Battery-Box LV + smart laden op dynamisch contract = jaarlijkse besparing €4.200. Plus EIA-aftrek 45,5% × €18.500 = €8.418 belastingvoordeel. Plus KIA 28% van investering: nog eens €5.180.
@@ -59,6 +58,11 @@ Eindresultaat: €18.500 investering, met €13.598 fiscale voordelen + €4.200
 Hieronder mijn complete gids voor energieopslag in commerciele context: ZZP, MKB en kleine bedrijven in 2026.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Energieopslag voor ZZP en MKB in 2026: ROI, investeringssubsidies (EIA, KIA), commerciële batterij­opties en wanneer een industriële opslag rendabel is.
+>
+> Ja, vaak rendabeler dan voor particulieren. ZZP/MKB krijgt EIA-aftrek (45,5%) bovenop KIA, en heeft vaak hogere energieverbruik = grotere besparing. Terugverdientijd typisch 4-7 jaar.
 
 ## Waarom energieopslag voor bedrijven anders rendabel is
 
@@ -480,3 +484,7 @@ Drie scenario's. Een: bedrijf met regelmatig vast verbruik (kantoor 9-17 zonder 
 
 **Hoe beïnvloedt netcongestie mijn batterij-keuze?**
 In 2026 hebben grote delen van Brabant, Noord-Holland en Limburg netcongestie — netbeheerder geeft GEEN nieuwe grote teruglever-aansluitingen meer. Een batterij is dan niet alleen besparingsinstrument maar voorwaarde om panelen überhaupt aangesloten te krijgen. Vraag bij netbeheerder of jouw locatie congestiegebied is.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

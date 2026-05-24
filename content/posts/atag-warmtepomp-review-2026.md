@@ -51,7 +51,6 @@ products:
   price: '9000'
 schema_type: Review
 ---
-
 Mijn buurvrouw Riet belde me in februari. "Mark, ik heb een offerte gekregen van een installateur voor een ATAG warmtepomp. Dertienduizend euro. Is dat normaal?" Ik vroeg haar de offerte door te sturen. Het was inclusief vloerverwarming, 6 jaar onderhoudscontract en een compleet nieuwe groepenkast — dus de warmtepomp zelf stond op €8.200. Dat is realistisch.
 
 Maar haar vraag was eigenlijk een andere: is ATAG goed? Ze had gezien dat het een Nederlands merk is. "Ik wil niet weer zo'n ding kopen waarvan de fabrikant niet eens een Nederlandstalig telefoonnummer heeft."
@@ -64,6 +63,11 @@ Ik kende de ENERGION-serie al van papier, maar had hem nog niet in de praktijk g
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** ATAG maakt warmtepompen in Nederland — maar zijn ze ook goed? Mijn eerlijke review van de ENERGION hybride warmtepomp.
+>
+> Een ATAG ENERGION hybride warmtepomp kost circa €6.500 tot €9.500 inclusief 0% btw. De all-electric variant ligt aan de bovenkant. Inclusief ISDE-subsidie (€2.500 tot €4.000 afhankelijk van het model en vermogen) kom je netto op €4.000 tot €6.500. Montagekosten variëren per installateur: reken op €800 tot €1.500 extra.
+
 ## Wie is ATAG eigenlijk?
 
 ATAG is opgericht in 1936 in Ulft, Gelderland — als fabrikant van fornuizen. Cv-ketels kwamen er later bij. Tegenwoordig zijn ze onderdeel van de Italiaanse IRSAP-groep, maar de naam, het servicenetwerk en de engineering in Nederland zijn behouden gebleven.

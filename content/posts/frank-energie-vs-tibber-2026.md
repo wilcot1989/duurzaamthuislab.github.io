@@ -53,7 +53,6 @@ products:
   price: '129'
 schema_type: Article
 ---
-
 Mijn buurman Bas heeft een grappige hobby: hij wisselt elke twee jaar van energieleverancier. Niet uit ontevredenheid, maar omdat hij het leuk vindt om te vergelijken. In juni 2024 stapte hij over van Eneco naar Tibber. Een jaar later vroeg hij me of hij naar Frank moest. Ik kon hem geen eerlijk antwoord geven — ik had Tibber wel zelf gebruikt, maar Frank niet uitgebreid genoeg.
 
 Dus heb ik gedaan wat ik vaker doe: bij hem op de bank gaan zitten met zijn data, en zelf overgestapt naar Frank op één pand (mijn werkkamer-aansluiting) terwijl ik thuis op Tibber bleef. Veertien maanden later heb ik twee parallelle datasets, twee facturenstapels en een eerlijke mening.
@@ -63,6 +62,9 @@ Dus heb ik gedaan wat ik vaker doe: bij hem op de bank gaan zitten met zijn data
 ---
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+
+> **Kort antwoord:** Frank of Tibber? Ik draai beide naast elkaar al 14 maanden — dit is mijn eerlijke vergelijking met cijfers, app-test en strategie voor 2026.
 
 ## Korte conclusie vooraf
 
@@ -372,3 +374,7 @@ In mijn 14 maanden parallel-test eindigde Frank met €175 voordeel op stroom, T
 - [Sessy thuisbatterij review](/posts/sessy-review-thuisbatterij-nederland/)
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
 - [Laadpaal thuis kosten en subsidie](/posts/laadpaal-thuis-kosten-subsidie-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

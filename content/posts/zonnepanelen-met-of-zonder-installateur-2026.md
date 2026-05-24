@@ -44,7 +44,6 @@ products:
   price: op aanvraag
 schema_type: Article
 ---
-
 Ik heb mijn eigen zonnepanelen laten installeren door een erkend bedrijf. Maar ik begrijp de DIY-verleiding: je leest hoe relatief eenvoudig het lijkt, de panelen zijn tegenwoordig plug-and-play marketingmateriaal, en het scheelt misschien wel €1.200. Dus ik heb me de afgelopen maanden verdiept in wat er wettelijk is, wat er financieel speelt en waar mensen de fout ingaan.
 
 Dit is mijn eerlijke analyse.
@@ -52,6 +51,11 @@ Dit is mijn eerlijke analyse.
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** DIY of professional? Wettelijke eisen, garantie, certificering en kostenvergelijking voor zonnepaneel-installatie in 2026.
+>
+> Panelen op het dak plaatsen mag je zelf doen. Maar het aansluiten op het elektriciteitsnet (de omvormer op de meterkast aansluiten) valt onder de NEN1010-norm en moet in de meeste gevallen door een erkende elektricien worden uitgevoerd. Doe je dat zelf zonder de vereiste diploma's, kan je verzekeraar bij schade weigeren uit te keren.
 
 ## De twee keuzes uitgelegd
 
@@ -409,3 +413,7 @@ Een installatie die goed wordt gemonitord gaat aantoonbaar langer mee en levert 
 - [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
 - [Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken](/posts/beste-omvormer-zonnepanelen-2026/)
 - [Echte Aansluitkosten Zonnepanelen 2026](/posts/dakdoos-aansluitkosten-zonnepanelen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

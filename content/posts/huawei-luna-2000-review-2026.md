@@ -49,7 +49,6 @@ products:
   price: '7500'
 schema_type: Review
 ---
-
 Dit is de thuisbatterij die ik zelf in huis heb: de Huawei Luna 2000, 10 kWh, gekoppeld aan mijn Huawei SUN2000 omvormer en 16 zonnepanelen. Na een jaar ervaring kan ik zeggen dat deze batterij mijn eigenverbruik van 35% naar 82% heeft gebracht. In deze review deel ik mijn echte cijfers, de installatie-ervaringen en waar je op moet letten voordat je investeert.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
@@ -58,6 +57,11 @@ Dit is de thuisbatterij die ik zelf in huis heb: de Huawei Luna 2000, 10 kWh, ge
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Uitgebreide Huawei Luna 2000 review: modulair 5-15kWh, compatibiliteit met Huawei omvormers, terugverdientijd en ervaringen in Nederland.
+>
+> De totale kosten inclusief installatie variëren van circa €4.500 voor de 5kWh-versie tot €11.000 voor de 15kWh-versie. Dit is inclusief de Huawei omvormer als je die nog niet hebt.
+
 ## Waarom een thuisbatterij in 2026?
 
 De opkomst van thuisbatterijen in Nederland hangt direct samen met twee ontwikkelingen:

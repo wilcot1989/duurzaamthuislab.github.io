@@ -52,7 +52,6 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Drie jaar geleden tekende mijn buurvrouw bij de eerste installateur die haar belde. Veertien panelen, omvormer, alles voor €9.450. Ik vroeg of ik de offerte mocht zien. De omvormer was een single-phase op een drie-fasen meterkast, de panelen B-grade Trina, en het bedrijf bestond pas drie maanden. Ze heeft geannuleerd, ik heb haar geholpen vijf nieuwe offertes op te halen. Eindprijs: €6.890 voor betere panelen en een correcte omvormer. **Verschil: €2.560 bespaard, betere kwaliteit gekregen.**
 
 *Affiliate-disclosure: ik werk samen met Zonneplan. Als je via mijn link een dakcheck aanvraagt krijg ik commissie, maar je betaalt geen cent meer. De 11 checks hieronder zijn onafhankelijk — ik adviseer ook installateurs zonder affiliate.*
@@ -60,6 +59,9 @@ Drie jaar geleden tekende mijn buurvrouw bij de eerste installateur die haar bel
 ---
 
 💡 *Nog twijfels of zonnepanelen anno 2026 nog wel rendabel zijn? Lees [beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) voor de cijfers.*
+
+
+> **Kort antwoord:** Hoe kies je in 2026 een goede zonnepanelen-installateur? 11 concrete checks, rode vlaggen die ik tegenkwam, en hoe ik €3.200 bespaarde op mijn eigen offerte.
 
 ## Waarom 2026 het lastigste jaar ooit is om te kiezen
 

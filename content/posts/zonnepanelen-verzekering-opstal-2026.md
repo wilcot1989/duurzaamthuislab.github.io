@@ -49,12 +49,16 @@ products:
   url: https://www.aon.nl/
   price: '150'
 ---
-
 Een klant uit Goeree-Overflakkee belde mij na storm Eunice in 2023: 6 van zijn 14 zonnepanelen waren weggewaaid. Schade €4.200. Hij had 5 jaar lang braaf premie betaald maar wist niet of zonnepanelen meeverzekerd waren. Resultaat: gelukkig wel — uitkering binnen 8 weken. Maar de 4 weken angst had hem heel veel kunnen besparen.
 
 Veel mensen weten niet precies wat verzekerd is en wat niet. Hieronder mijn complete uitleg van zonnepanelen verzekering in 2026: opstal, inboedel, garantie, en welke aanvullende polissen verstandig zijn.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Zonnepanelen verzekering: wat dekt opstal- en inboedelpolis? Premies, schade-types en welke aanvullende dekking nodig is bij hagel, storm en brand in 2026.
+>
+> Bij meeste opstalverzekeringen sinds 2020 ja, mits gecertificeerde installatie. Bij oudere polissen vóór 2018: vaak aparte aanmelding nodig. Bel je verzekeraar om te checken.
 
 ## Drie soorten dekking
 
@@ -447,3 +451,7 @@ Verzekering staat los van installateur — meld bij eigen verzekeraar binnen 48 
 
 **Heeft groene stroom contract invloed op mijn verzekering?**
 Geen invloed op opstaldekking. Wel relevant: een dynamisch contract met thuisbatterij kan extra slijtage veroorzaken (meer cycli per dag), wat bij sommige verzekeraars als "commercieel gebruik" gezien wordt en lagere dekking betekent. Vraag dit altijd schriftelijk na voor je een batterij installeert in combinatie met dynamisch tarief.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

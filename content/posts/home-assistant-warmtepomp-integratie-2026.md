@@ -42,10 +42,14 @@ products:
 schema_type: Article
 last_updated: '2026-04-29'
 ---
-
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
 
 Ik kreeg vorige maand een vraag van een lezer: "Home Assistant + warmtepomp? Werkt dat in de praktijk?" Eerlijk antwoord: ik heb het zelf moest uitzoeken voordat ik er iets zinnigs over kon zeggen. Dit artikel is het resultaat van die zoektocht — geen marketingverhaal, gewoon wat werkt en wat niet.
+
+
+> **Kort antwoord:** Ik koppelde mijn Quatt warmtepomp aan Home Assistant via Modbus. Stappenplan, YAML voorbeeld, automatiseringen voor dynamische tarieven en valkuilen.
+>
+> De meeste merken (Quatt, Daikin, Mitsubishi, Atag) hebben Modbus TCP of een open API. Quatt heeft een officiele HA-integratie sinds 2025, Daikin Onecta werkt via cloud-API. Volledig lokale sturing vereist meestal Modbus en een EVOK-relais.
 
 ## Korte conclusie
 
@@ -302,3 +306,7 @@ Niet voor sturing op prijs. Wel als je teruglevering vanuit batterij en warmtepo
 ---
 
 *Dit artikel is voor het laatst bijgewerkt op 2026-08-02 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

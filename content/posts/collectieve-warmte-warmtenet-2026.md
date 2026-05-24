@@ -48,7 +48,6 @@ products:
   price: '3900'
 schema_type: Article
 ---
-
 Mijn buurman belde me opgewonden op: "De gemeente wil ons op een warmtenet aansluiten! Is dat goed nieuws of gaat dit me geld kosten?" Het was een vraag die ik inmiddels tientallen keren heb gekregen. En het eerlijke antwoord is: het hangt er van af.
 
 Warmtenetten zijn complexe infrastructurele projecten die je energiehuishouding voor decennia vastleggen. De keuze tussen aansluiten op het warmtenet of investeren in een eigen warmtepomp is een van de moeilijkste energiebeslissingen die een huiseigenaar in 2026 kan maken.
@@ -58,6 +57,11 @@ In dit artikel geef ik je het kader om die keuze te maken — zonder politieke s
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Warmtenet of toch een eigen warmtepomp? Ik leg uit wanneer een warmtenet slim is, wat de kosten zijn en hoe je de keuze maakt als jouw wijk het aanbiedt.
+>
+> Stadsverwarming is de oudere term voor hetzelfde concept: warmte via buizen naar woningen leveren. Moderne warmtenetten zijn technisch geavanceerder en kunnen warmte op lagere temperaturen leveren (laagtemperatuurwarmtenetten), wat efficiënter is maar hogere eisen stelt aan woningisolatie.
 
 ## Hoe werkt een warmtenet?
 
@@ -410,3 +414,7 @@ Dit is een lastig vraagstuk. Een lucht-water warmtepomp vereist een buitenunit, 
 - [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)
 - [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
 - [ISDE Subsidie 2026: Complete Gids voor Warmtepompen &](/posts/isde-subsidie-warmtepompen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

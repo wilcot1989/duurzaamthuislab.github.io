@@ -52,13 +52,17 @@ products:
   price: '1200'
 schema_type: Article
 ---
-
 Toen ik mijn 16 zonnepanelen (5,6 kWp) liet installeren, heb ik bewust gekozen voor een Huawei SUN2000 hybride omvormer — zodat ik later probleemloos mijn Luna thuisbatterij kon aansluiten. Die keuze heeft me duizenden euro's bespaard vergeleken met achteraf een omvormer moeten vervangen. In dit overzicht vergelijk ik de 5 beste omvormers van 2026, zodat jij die afweging goed kunt maken.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De 5 beste omvormers voor zonnepanelen in 2026 vergeleken. String-omvormers vs micro-omvormers, rendement, monitoring en prijs-kwaliteitverhouding.
+>
+> Een string-omvormer is een centraal apparaat dat alle zonnepanelen aanstuurt. Micro-omvormers zitten onder elk individueel paneel. Micro-omvormers presteren beter bij schaduw en bieden monitoring per paneel, maar zijn duurder. String-omvormers zijn goedkoper en hebben een bewezen trackrecord.
+
 ## Snelle vergelijkingstabel
 
 | Omvormer | Type | Vermogen | Rendement | Garantie | Prijsindicatie | Batterij-ready |
@@ -473,3 +477,7 @@ Benieuwd welke thuisbatterij het beste bij jouw omvormer past? Lees ons complete
 
 
 <a href="https://go.duurzaamthuislab.nl/huawei-luna" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Huawei Luna</a>
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -49,7 +49,6 @@ products:
   url: https://www.frankenergie.nl/zakelijk
   price: '0'
 ---
-
 Een ZZP-er uit Den Haag belde mij vorig jaar: ze runt een grafisch ontwerpbureau vanuit haar zolderkamer, 25 uur per week. Ze investeerde €5.800 in zonnepanelen. Haar boekhouder zei: "Privé, niet aftrekbaar." Ik dacht: dat klopt niet helemaal.
 
 Na overleg met een fiscalist: 18% van haar woning was kantoor (zolder + opslag). Daarmee €1.044 zakelijk. KIA-aftrek 28%: €292 belastingvoordeel. Plus jaarlijks 1,8% van investering aftrekbaar als afschrijving (€104/jaar voor 10 jaar). Totaal extra fiscaal voordeel over 10 jaar: ~€1.250.
@@ -57,6 +56,11 @@ Na overleg met een fiscalist: 18% van haar woning was kantoor (zolder + opslag).
 Hieronder mijn complete gids voor ZZP-ers en freelancers met kantoor aan huis. Wat is fiscaal mogelijk, wat zijn de regels, en hoe pak je het aan.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** ZZP met kantoor aan huis: hoe verdeel je zonnepanelen-investering tussen privé en zakelijk? Belastingen, BTW en KIA voor freelancers in 2026 uitgelegd.
+>
+> Alleen als je officieel kantoor aan huis hebt en voldoet aan de eisen (zelfstandige opgang, eigen ingang, of administratief gescheiden ruimte). Anders zijn de panelen onder privé en niet zakelijk aftrekbaar.
 
 ## Voorwaarden voor kantoor aan huis
 
@@ -418,3 +422,7 @@ Dan moet je het zakelijk deel van de panelen "uitnemen" naar privé tegen restwa
 
 **Telt een carport met panelen ook als zakelijk?**
 Alleen als je de carport voor zakelijke voertuigen gebruikt, of als laadlocatie voor klantenauto's. Een privé-auto die occasioneel zakelijk wordt gebruikt telt niet — dat valt onder de 19 procent forfaitaire bijtelling.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

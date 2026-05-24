@@ -51,13 +51,17 @@ products:
   price: '6'
 schema_type: Article
 ---
-
 Sinds ik mijn Huawei Luna 10 kWh koppelde aan mijn Frank Energie dynamisch contract, verdien ik gemiddeld €22 extra per maand door energie-arbitrage — bovenop de besparing van mijn zonnepanelen. Mijn batterij laadt automatisch op wanneer stroom onder de €0,05/kWh zakt (vaak 's nachts) en ontlaadt wanneer de prijs boven €0,30 stijgt. In dit artikel leg ik precies uit hoe dit werkt en wat het oplevert.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Ontdek hoe je met een dynamisch energiecontract en thuisbatterij geld verdient in 2026. Slim laden.
+>
+> Bij een dynamisch energiecontract betaal je per uur een wisselende prijs voor stroom, gebaseerd op de EPEX-spotmarktprijs. Als er veel aanbod is (veel wind of zon), is stroom goedkoop of zelfs negatief. Bij hoge vraag (koud, weinig wind, 's avonds) is stroom duur. Je kunt hiervan profiteren door je verbruik te verschuiven naar goedkope uren.
+
 ## Waarom de combinatie batterij + dynamisch zoveel beter is dan elk afzonderlijk
 
 Ik heb in mijn netwerk mensen met alleen zonnepanelen, mensen met alleen een dynamisch contract, mensen met een batterij op vast contract, en mensen met de volledige combinatie. De cijfers spreken voor zich:
@@ -474,3 +478,7 @@ Lees ook onze artikelen over de [thuisbatterij terugverdientijd berekenen](/post
 
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

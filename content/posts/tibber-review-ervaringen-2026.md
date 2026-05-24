@@ -51,7 +51,6 @@ products:
   price: '0'
 schema_type: Review
 ---
-
 In oktober 2024 stapte ik over naar Tibber. Mijn Frank Energie-contract liep af, en ik wilde testen of Tibber's slim-laden-feature voor EV's en smart home echt het verschil maakte dat de marketing belooft. Achttien maanden later kan ik een eerlijk oordeel vellen.
 
 Korte versie: Tibber is in 2026 de **beste keus** voor wie een EV heeft of smart home wil bouwen. Voor een gewoon huishouden zonder die ambities is **Frank Energie** een tikje voordeliger. In dit artikel leg ik uit waarom, met cijfers uit mijn eigen rekening.
@@ -62,6 +61,11 @@ Korte versie: Tibber is in 2026 de **beste keus** voor wie een EV heeft of smart
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Volledige Tibber review na 18 maanden gebruik in een Nederlands huishouden met zonnepanelen. App, slim laden, klantenservice, cijfers.
+>
+> Tibber is een Noorse energieleverancier die actief is in Nederland sinds 2021. Ze leveren stroom op een dynamisch contract — je betaalt elk uur de actuele marktprijs in plaats van een vast tarief. Tibber rekent geen marge bovenop de marktprijs maar verdient via een vast servicegeld van €5,99/maand.
+
 ## Wat is Tibber?
 
 Tibber is een Noorse fintech-energieleverancier, opgericht in 2016. In Nederland actief sinds 2021. Hun propositie verschilt fundamenteel van traditionele leveranciers:
@@ -435,3 +439,7 @@ Als je overweegt een EV te kopen én je wil maximaal profiteren van Tibber: kies
 - [Saldering vs dynamisch contract: rekenmodel](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
 - [Beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/)
 - [Smart home energiebeheer](/posts/smart-home-energiebeheer-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

@@ -49,13 +49,17 @@ products:
   price: '1899'
 schema_type: Article
 ---
-
 Een vriend van mij bouwde vorig jaar zijn VW Crafter om tot camperbus en vroeg mijn advies over de stroomvoorziening. Ik heb zijn verbruik doorgerekend: koelkast (45W continu), laptop, verlichting en af en toe de inductieplaat — dat is al snel 1.500 Wh per dag. Na weken vergelijken en testen heb ik de 5 beste powerstations voor vanlife op een rij gezet.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De 5 beste powerstations voor vanlife en campers in 2026. Vergelijk capaciteit, vermogen, zonneladen en prijs voor de ultieme camperbus-setup.
+>
+> Voor basaal vanlife-gebruik (telefoon, laptop, verlichting, kleine koelbox) is 500-1000 Wh voldoende. Voor uitgebreider gebruik (koelkast, koken, haardroger) heb je minimaal 1500-2000 Wh nodig. Full-time vanlifers met hoog verbruik kiezen vaak voor 2000-4000 Wh.
+
 ## Vergelijkingstabel: Beste Powerstations voor Vanlife 2026
 
 | Powerstation | Capaciteit | AC-vermogen | Zonne-input | Gewicht | Prijs | Beste voor |

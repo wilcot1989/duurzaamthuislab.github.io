@@ -51,7 +51,6 @@ products:
   price: '0'
 schema_type: Article
 ---
-
 Vorig jaar belde een vriend me op nadat hij gehoord had dat er "duizenden euros subsidie" te halen waren voor zonnepanelen. Ik moest hem de nuchtere waarheid vertellen: op nationaal niveau is die trein voor een groot deel vertrokken. Geen ISDE voor zonnepanelen, geen aanschafsubsidie. Wel 0% BTW — dat scheelt voor een gemiddeld systeem van 10 panelen nog altijd €700 tot €900.
 
 Maar gemeenten en provincies zijn een ander verhaal. Ik heb de subsidiepagina's van alle 12 provincies en een selectie van 40 gemeenten doorgespit. De verschillen zijn enorm.
@@ -59,6 +58,11 @@ Maar gemeenten en provincies zijn een ander verhaal. Ik heb de subsidiepagina's 
 Dit artikel geeft u een eerlijk beeld van wat er in 2026 daadwerkelijk beschikbaar is, per regio — zonder de rooskleurige taal die installateurssites soms gebruiken.
 
 ---
+
+
+> **Kort antwoord:** Welke gemeenten en provincies geven nog subsidie op zonnepanelen in 2026? Volledig overzicht plus aanvraagvolgorde.
+>
+> Op nationaal niveau zijn er in 2026 geen directe subsidies meer voor particulieren die zonnepanelen aanschaffen. De salderingsregeling loopt door tot 2027, maar die is geen subsidie — het is een verrekening van teruggeleverde stroom. De BTW op zonnepanelen is 0% voor particulieren (geïntroduceerd in 2023 en verlengd). Verder: geen ISDE voor zonnepanelen, geen nationale aanschafsubsidie.
 
 ## Het nationale beeld: wat is er in 2026?
 
@@ -383,3 +387,7 @@ Als u serieus bent over zonnepanelen: vraag drie offertes aan in de komende vier
 - [Zonneplan thuisbatterij review 2026](/posts/zonneplan-thuisbatterij-review-2026/)
 - [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
 - [Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken](/posts/beste-omvormer-zonnepanelen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

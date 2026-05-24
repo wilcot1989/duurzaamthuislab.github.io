@@ -43,7 +43,6 @@ products:
   price: '3999'
 schema_type: Article
 ---
-
 Ik heb de Sessy nu ruim een jaar aan de muur hangen. En in die tijd heeft Dutch New Energy minstens zes software-updates uitgerold die het systeem substantieel hebben veranderd. De meest recente updates van begin 2026 hebben de Sessy Radar zo verbeterd dat ik er een apart artikel aan wijd.
 
 Want "algoritme" klinkt als een zwart hokje dat je maar moet vertrouwen. Ik wilde begrijpen wat er achter het scherm speelt, hoe Radar beslissingen maakt, en of de nieuwste updates dat daadwerkelijk beter doen. Dit is wat ik ontdekte.
@@ -51,6 +50,11 @@ Want "algoritme" klinkt als een zwart hokje dat je maar moet vertrouwen. Ik wild
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Deep-dive Sessy Radar algoritme — hoe Sessy de marktprijzen volgt, wat de update brengt, en koppeling met dynamisch contract.
+>
+> Sessy Radar is het geïntegreerde optimalisatie-algoritme in de Sessy thuisbatterij. Het analyseert de EPEX day-ahead prijzen voor de komende 24–48 uur en bepaalt automatisch wanneer de batterij laadt (goedkope uren) en ontlaadt (dure uren). Je hoeft zelf niets in te stellen.
 
 ## Wat is de Sessy thuisbatterij in 2026?
 
@@ -335,3 +339,7 @@ Bij een netto Sessy-prijs van €3.999 geeft dit een terugverdientijd na 2027 va
 - [Thuisbatterij Zonder Zonnepanelen: Heeft Het Zin in 2027?](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/)
 - [Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
 - [Thuisbatterij binnen of buiten plaatsen: veilig 2026](/posts/thuisbatterij-buiten-vs-binnen-installeren-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

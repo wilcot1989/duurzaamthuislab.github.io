@@ -44,7 +44,6 @@ products:
   price: zie artikel
 schema_type: Article
 ---
-
 Mijn zolderkamer was in januari een ijskast. Ik had twee Velux dakramen uit 2003 — enkel glas, grofweg U-waarde 3,0 — en een dakkapel aan de voorzijde die ooit "goed geïsoleerd" was maar waarvan de kierdichting al jaren tekortschoot. Mijn gasverbruik voor die etage lag minstens 30% hoger dan bij de rest van het huis.
 
 Ik heb de renovatie stap voor stap aangepakt, met telkens de vraag: is dit de investering waard? In dit artikel deel ik de berekeningen en het kader.
@@ -52,6 +51,11 @@ Ik heb de renovatie stap voor stap aangepakt, met telkens de vraag: is dit de in
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Warmteverlies dakraam en dakkapel, energielabel-impact, kosten van isolatie en welke methode wanneer.
+>
+> Een dakraam met HR++-glas (U-waarde 1,1 W/m²K) verliest bij -5°C buiten en +20°C binnen circa 28 W/m². Een goed geïsoleerde dakkapel met triple glas (U-waarde 0,7 W/m²K) verliest circa 18 W/m². Maar een dakkapel heeft ook wanden en een dak, die bij slechte isolatie meer verliezen kunnen veroorzaken dan het raam zelf.
 
 ## Het fundamentele probleem: warmteverlies via dakoverstekken
 
@@ -437,3 +441,7 @@ Dat is aanzienlijk beter dan de 30-jarige terugverdientijd van een enkel dakraam
 - [Spouwmuur isolatie kosten 2026: wat betaal je per m²?](/posts/spouwmuur-isolatie-kosten-2026/)
 - [Vloerisolatie vs spouwmuurisolatie](/posts/vloer-isolatie-vs-spouwmuur-isolatie-2026/)
 - [Dakisolatie Binnenuit vs Buitenuit 2026](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

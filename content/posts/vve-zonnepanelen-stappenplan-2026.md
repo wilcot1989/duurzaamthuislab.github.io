@@ -44,12 +44,16 @@ products:
   price: op aanvraag
 schema_type: Article
 ---
-
 Ik heb de afgelopen twee jaar meegedaan aan het zonnepanelentraject van onze VvE. We hebben een flatgebouw met 32 appartementen, een groot plat dak, en — totdat we begonnen — geen enkel idee hoe je zoiets aanpakt. In dit artikel leg ik stap voor stap uit wat je kunt verwachten, wat het kost, en waar je tegenaan loopt. Want laten we eerlijk zijn: een VvE-besluit is nooit simpel.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een aanvraag doet, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Zonnepanelen op je VvE-appartementencomplex? Dit stappenplan legt uit hoe je het VvE-besluit doorloopt, deelnemers betrekt en kosten eerlijk verdeelt.
+>
+> Voor zonnepanelen als groot onderhoud of investering is doorgaans een gewone meerderheid (meer dan 50%) vereist. Sommige splitsingsaktes vereisen een twee-derde of drie-kwart meerderheid voor grote investeringen — controleer altijd je eigen akte.
 
 ## Waarom zonnepanelen op een VvE-complex steeds interessanter wordt
 
@@ -430,3 +434,7 @@ Als je zelf initiatief wilt nemen in een nieuwe VvE: bouw eerst relaties op met 
 - [Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken](/posts/beste-omvormer-zonnepanelen-2026/)
 - [Echte Aansluitkosten Zonnepanelen 2026](/posts/dakdoos-aansluitkosten-zonnepanelen-2026/)
 - [Gemeentelijke subsidie zonnepanelen 2026: per provincie](/posts/gemeentelijke-subsidie-zonnepanelen-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

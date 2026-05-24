@@ -46,7 +46,6 @@ products:
   price: '8500'
 schema_type: Article
 ---
-
 Mijn Vaillant hybride warmtepomp draait inmiddels anderhalf jaar en ik heb mijn gasverbruik van 1.400 m3 naar 580 m3 teruggebracht — een besparing van bijna €900 per jaar. Na aftrek van de ISDE-subsidie van €3.000 zit ik op een terugverdientijd van nog geen 4 jaar. Maar als ik nu opnieuw zou kiezen, zou ik dan weer voor Vaillant gaan? Ik heb de 5 beste hybride warmtepompen van 2026 naast elkaar gezet.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -55,6 +54,11 @@ Bekijk ook onze gids over de [ISDE subsidie](/posts/isde-subsidie-warmtepompen-2
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De 5 beste hybride warmtepompen van 2026 vergeleken op prijs, COP-waarde, geluid en subsidie. Remeha, Daikin, Quatt, Bosch en Vaillant naast elkaar.
+>
+> Een hybride warmtepomp kost inclusief installatie gemiddeld €4.000-€7.000. De aanschafprijs ligt tussen €3.000-€5.500, installatiekosten bedragen €1.000-€2.000. Na aftrek van ISDE subsidie (circa €3.000) kom je uit op €1.000-€4.000 netto.
+
 ## Snelle vergelijking
 
 | Warmtepomp | Prijs (excl. install.) | COP (A7/W35) | Geluid buiten | Werkbereik | Subsidie |
@@ -412,3 +416,7 @@ Vergeet niet dat je circa **€3.000 ISDE-subsidie** kunt ontvangen, plus eventu
 ---
 
 *Laatst bijgewerkt: april 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

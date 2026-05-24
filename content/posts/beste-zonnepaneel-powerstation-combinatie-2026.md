@@ -50,7 +50,6 @@ products:
   price: '399'
 schema_type: Article
 ---
-
 Met 16 zonnepanelen op mijn dak wek ik thuis genoeg op, maar onderweg was ik altijd afhankelijk van stopcontacten. Tot ik een draagbaar zonnepaneel koppelde aan een powerstation — inmiddels mijn vaste campingsetup. Ik heb de beste combinaties van EcoFlow, Jackery en Bluetti vergeleken op laadtijd, rendement bij bewolking en prijs per opgewekte Wh.
 
 *Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
@@ -59,6 +58,11 @@ Met 16 zonnepanelen op mijn dak wek ik thuis genoeg op, maar onderweg was ik alt
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De beste zonnepaneel en powerstation combinaties van 2026 vergeleken. EcoFlow, Jackery en Bluetti bundels op vermogen, laadtijd en prijs.
+>
+> Als vuistregel wil je een zonnepaneel dat minimaal 15-20% van de batterijcapaciteit in watt levert. Voor een 1000Wh powerstation is een 200W paneel een goed startpunt; voor 2000Wh mik je op 350-400W.
+
 ## Waarom een zonnepaneel + powerstation combinatie?
 
 Een los powerstation is al handig, maar in combinatie met een draagbaar zonnepaneel wordt het een **zelfvoorzienend energiesysteem**. De voordelen:

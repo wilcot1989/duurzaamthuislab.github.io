@@ -49,7 +49,6 @@ products:
   url: https://www.greenchoice.nl/
   price: '0'
 ---
-
 Een collega-energieadviseur uit Rotterdam vroeg mij vorig jaar mee te denken bij een case in IJsselmonde. Klant wilde verduurzamen maar had €0 spaargeld en €60.000 jaarinkomen. "Onmogelijk", dacht ze. Niet in Rotterdam.
 
 Wat we voor elkaar kregen:
@@ -65,6 +64,11 @@ Maandelijkse besparing energie: €115. Maandlast lening: €83. Netto +€32/ma
 Hieronder mijn complete overzicht van Rotterdam-subsidies in 2026.
 
 *Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+
+
+> **Kort antwoord:** Rotterdam subsidies voor zonnepanelen, warmtepomp en isolatie in 2026. Alle gemeentelijke regelingen, voorwaarden en hoe je ze combineert met provinciale en landelijke subsidies.
+>
+> Subsidie Verduurzaming Eigen Woning (€500-€3.000), Energietransitiefonds Rotterdam (renteloze leningen tot €25.000), Aardgasvrij-bonus (€1.000-€4.000), VVE Verduurzamingsregeling, en specifieke wijkregelingen voor Hoogvliet, Pernis en Bospolder-Tussendijken.
 
 ## Rotterdam-specifieke regelingen 2026
 

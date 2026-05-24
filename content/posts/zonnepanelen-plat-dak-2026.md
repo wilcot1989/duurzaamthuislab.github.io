@@ -41,13 +41,17 @@ products:
   price: '5500'
 schema_type: Article
 ---
-
 Mijn eigen panelen liggen op een schuin dak richting zuidwest, maar ik heb een buurman geholpen met de planning voor zijn plat dak. Het voordeel: je kiest zelf de optimale hoek (10-15 graden) en richting. Het nadeel: je hebt 30-50% meer dakruimte nodig en het montagesysteem kost €30-€80 extra per paneel. In dit artikel deel ik de berekeningen, de beste opstellingen en de valkuilen.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** Alles over zonnepanelen op een plat dak in 2026. Opbrengst, kosten, ballast vs doorgedrukt systeem, optimale hoek en de beste systemen vergeleken.
+>
+> Ja, zonnepanelen werken uitstekend op een plat dak. Ze worden op schuine frames geplaatst (10-15° hoek, richting zuiden) voor optimale opbrengst. Voordeel: je kiest zelf de optimale richting en hoek. Nadeel: de opbrengst is 5-10% lager dan op een schuin dak op het zuiden, en je hebt meer dakoppervlak nodig vanwege de tussenruimte.
+
 ## Plat Dak vs Schuin Dak
 
 | Aspect | Plat dak | Schuin dak (zuiden) |

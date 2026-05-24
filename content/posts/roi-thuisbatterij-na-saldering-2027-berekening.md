@@ -43,7 +43,6 @@ products:
     url: "https://go.duurzaamthuislab.nl/frank-energie"
     price: "0"
 ---
-
 *Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvang ik mogelijk een commissie zonder dat jij meer betaalt. De berekeningen hieronder zijn gebaseerd op publieke EPEX-data en eigen metingen uit 2024-2026.*
 
 In juni 2026 belde een vroegere klant me op. "Mark, ik heb getwijfeld een jaar lang, maar ik koop nu een batterij. Maar wel: gaat dit me ECHT geld opleveren of doe ik het uit principe?" Goede vraag. Want een batterij is geen klein bedrag — €2.300 tot €6.000. En het rekenwerk dat de meeste installateurs laten zien is, eerlijk gezegd, optimistisch tot misleidend.
@@ -51,6 +50,11 @@ In juni 2026 belde een vroegere klant me op. "Mark, ik heb getwijfeld een jaar l
 In dit artikel laat ik je een eerlijk rekenmodel zien. Met echte cijfers, realistische aannames, en 4 doorgerekende scenario's. Aan het eind weet je: hoe lang duurt het voor mijn batterij zichzelf terugverdient onder de saldering-afbouw, en is het echt slim?
 
 ---
+
+
+> **Kort antwoord:** Bereken stap-voor-stap de ROI van een thuisbatterij na saldering 2027. Met 4 voorbeelden en exact rekenmodel voor jouw situatie.
+>
+> Onder de afbouw-percentages (100% in 2026 → 0% in 2029) verdienen de meeste thuisbatterijen zich terug binnen 6-9 jaar als: jaarlijks overschot >2.500 kWh, dynamisch contract, 5-10 kWh capaciteit. Een Marstek Venus E (€2.299) verdient zich gemiddeld terug in 4-5 jaar. Een Sessy 10 kWh (€5.995) in 7-9 jaar.
 
 ## De drie inkomsten van een thuisbatterij
 
@@ -389,3 +393,7 @@ Bij gemiddelde EPEX €0,08/kWh: terugverdientijd 4,2 jaar. Bij €0,12/kWh: 3,1
 
 **Welke batterij-merk geeft beste ROI in 2027?**
 Op basis van 2026-prijzen: Marstek Venus, Anker Solix Smart Home, en BYD Battery-Box per kWh-cyclus. Tesla Powerwall en LG hebben langere terugverdientijd door hogere instapprijs.
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

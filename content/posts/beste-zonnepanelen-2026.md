@@ -45,7 +45,6 @@ products:
   price: '5000'
 schema_type: Article
 ---
-
 Mijn 16 panelen (5,6 kWp) leveren nu ruim anderhalf jaar stroom en ik heb ze in 6 jaar terugverdiend — sneller dan de installateur beloofde. Het verschil tussen panelen van €0,80/Wp en €1,40/Wp lijkt klein, maar over 25 jaar praat je over duizenden euro's meer of minder opbrengst. Ik heb de 5 beste merken op de Nederlandse markt naast elkaar gelegd.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
@@ -54,6 +53,11 @@ Kies je omvormer zorgvuldig — lees onze [SolarEdge vs Enphase vergelijking](/p
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+> **Kort antwoord:** De 5 beste zonnepanelen van 2026 vergeleken op rendement, prijs, garantie en duurzaamheid. SunPower, REC, Longi, JA Solar en Trina Solar.
+>
+> Zonnepanelen kosten in 2026 gemiddeld €250-€500 per paneel inclusief installatie, afhankelijk van het merk en vermogen. Een complete installatie van 10 panelen (4.000 Wp) kost €2.500-€5.000 inclusief omvormer en installatie. Premiummerken als SunPower zijn duurder maar leveren meer op.
+
 ## Snelle vergelijking
 
 | Merk & Model | Vermogen | Rendement | Garantie product | Garantie vermogen | Prijs/Wp | Segment |
@@ -453,3 +457,7 @@ Alle merken presteren **beter dan hun garantienorm**. Dit is een patroon in de i
 
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.

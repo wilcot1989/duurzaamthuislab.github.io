@@ -43,7 +43,6 @@ products:
   price: '3500'
 schema_type: Article
 ---
-
 Vorig jaar stond ik bij mijn buurvrouw in de keuken terwijl een monteur haar 17 jaar oude Remeha Avanta Plus bekeek. Het verdict: de warmtewisselaar was kapot. Reparatie: €620. Nieuwe ketel: €2.100 inclusief installatie. Of een hybride warmtepomp: €5.400, maar na ISDE-subsidie €2.900.
 
 Ze had precies 20 minuten om te beslissen voordat de monteur weg zou gaan. Ze besloot op basis van gevoel voor de nieuwe HR-ketel. Twee maanden later hoorde ik dat ze er spijt van had — niet omdat de keuze fout was, maar omdat ze niet genoeg informatie had om een weloverwogen beslissing te nemen.
@@ -53,6 +52,11 @@ Dit artikel helpt je die beslissing wél goed te nemen — ook als je monteur vo
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
+
+
+> **Kort antwoord:** Je HR-ketel is aan vervanging toe. Wat is slim in 2026: een hybride warmtepomp, all-electric of toch een nieuwe HR-ketel? Eerlijke afweging met cijfers en.
+>
+> Ja, een nieuwe HR-ketel is in 2026 nog gewoon te koop en te installeren. Er is geen verbod op nieuwe HR-ketels in 2026. Wel kondigt de EU aan dat gasketels voor nieuwbouw vanaf 2029-2033 niet meer als primair verwarmingssysteem mogen worden geplaatst. Voor bestaande bouw zijn de exacte regels nog in discussie.
 
 ## De drie keuzes bij een defecte of oude HR-ketel
 
@@ -443,3 +447,7 @@ De grootste fout die mensen maken: te lang wachten. De ISDE-subsidie is beschikb
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
 - [Warmtepomp vs CV-ketel 2026: Wat is Voordeliger?](/posts/warmtepomp-vs-cv-ketel-2026/)
 - [Vaillant aroTHERM plus review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
