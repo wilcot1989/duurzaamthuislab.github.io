@@ -49,7 +49,7 @@ products:
   url: https://www.vaillant.nl/
   price: '8500'
 - name: Quatt hybride warmtepomp
-  url: https://www.quatt.io/
+  url: https://go.duurzaamthuislab.nl/quatt
   price: '4495'
 - name: Jaga Strada Hybrid LT-radiator
   url: https://www.jaga.nl/

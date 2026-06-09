@@ -42,16 +42,16 @@ faq:
   a: 'Drie hoofdnadelen: (1) lock-in in Zonneplan''s ecosysteem (overstappen naar andere leverancier vereist dat Radar wordt uitgeschakeld, halveert je voordeel), (2) duurder dan losse oplossing als je zelf samenstelt, (3) minder fijn-tunbaar dan zelf bouwen met Home Assistant.'
 products:
 - name: Zonneplan thuisbatterij 10 kWh
-  url: https://www.zonneplan.nl/thuisbatterij
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '6995'
 - name: Zonneplan lease 10 kWh
-  url: https://www.zonneplan.nl/thuisbatterij/lease
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '54'
 - name: Sessy 10 kWh (alternatief)
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '5995'
 - name: Tibber dynamisch (alternatief contract)
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 schema_type: Review
 ---

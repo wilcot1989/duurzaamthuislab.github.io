@@ -41,7 +41,7 @@ faq:
   a: 'Atag biedt 5 jaar volledige garantie + tot 10 jaar uitgebreid via dealer (€450-€650). Quatt biedt 10 jaar service-abonnement waarin alle vervangingen inbegrepen zijn — ook compressor. Quatt is "alles inbegrepen" tegen vaste maandkosten. Atag is goedkoper als er weinig stuk gaat, duurder bij grote storing.'
 products:
 - name: Quatt hybride warmtepomp
-  url: https://www.quatt.io/
+  url: https://go.duurzaamthuislab.nl/quatt
   price: '4495'
 - name: Atag iC Hybrid
   url: https://www.atag.nl/

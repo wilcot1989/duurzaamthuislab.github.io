@@ -42,7 +42,7 @@ products:
   url: https://marstekenergy.com/venus-e
   price: '2299'
 - name: Sessy 10 kWh (mid)
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '5995'
 - name: Tesla Powerwall 3 (premium)
   url: https://www.tesla.com/nl_nl/powerwall

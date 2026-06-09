@@ -41,7 +41,7 @@ faq:
   a: In 2026 lopen Trina Vertex S+, Jinko Tiger Neo, en LG Neon V voorop op 22-23% efficiëntie. Voor de meeste huishoudens is het vermogen-per-paneel minder belangrijk dan de installatie zelf — een goede installateur en optimalisatie (oost-west, optimizers) maken meer verschil dan 1-2% extra paneel-rendement.
 products:
 - name: Tibber dynamisch contract
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 - name: Frank Energie
   url: https://www.frankenergie.nl/
@@ -50,7 +50,7 @@ products:
   url: https://solar.huawei.com/eu/residential/luna
   price: '6000'
 - name: Sessy 5 kWh
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '3795'
 schema_type: Article
 ---

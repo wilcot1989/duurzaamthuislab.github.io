@@ -41,7 +41,7 @@ faq:
   a: 'Ja, je registreert je bij KvK als kleinondernemer (eenmanszaak) met SBI-code voor energieleverancier (35.11). Geen kosten voor inschrijving. Daarna meld je je aan bij Belastingdienst voor BTW-doeleinden.'
 products:
 - name: Zonneplan installatie
-  url: https://zonneplan.nl/
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5500'
 - name: Coolblue zonnepanelen
   url: https://www.coolblue.nl/zonnepanelen

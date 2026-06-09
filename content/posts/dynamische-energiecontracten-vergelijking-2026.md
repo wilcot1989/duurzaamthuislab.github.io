@@ -36,7 +36,7 @@ faq:
   a: In theorie ja. Door stroom te kopen wanneer de prijs laag of negatief is en te gebruiken (of terug te leveren) wanneer de prijs hoog is, kun je het prijsverschil benutten. In de praktijk levert dit met een thuisbatterij €100-€300 extra per jaar op, afhankelijk van de batterijcapaciteit en de prijsschommelingen.
 products:
 - name: Tibber
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 - name: Frank Energie
   url: https://www.frankenergie.nl/
@@ -45,7 +45,7 @@ products:
   url: https://www.anwb.nl/huis/energie
   price: '6'
 - name: Zonneplan ONE
-  url: https://zonneplan.nl/energie
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '6'
 schema_type: Article
 ---

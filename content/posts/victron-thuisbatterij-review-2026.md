@@ -46,7 +46,7 @@ products:
   url: https://www.victronenergy.nl/
   price: '1800'
 - name: Tibber dynamisch
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 ---
 Een familie in Friesland vroeg me vorig jaar of een Victron-systeem zinvol was voor hun afgelegen woning met soms wankele netaansluiting. Ze wilden zekerheid bij stroomstoringen en off-grid optie als reserve. Ik heb in oktober 2025 hun installatie begeleid en daarna 4 maanden de prestaties gevolgd.

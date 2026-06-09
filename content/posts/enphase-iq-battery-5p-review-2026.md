@@ -43,10 +43,10 @@ products:
   url: https://enphase.com/nl/homeowners/iq-battery
   price: '4200'
 - name: Sessy 5 kWh
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '3795'
 - name: Tibber dynamisch contract
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 ---
 In oktober 2025 werd ik gebeld door een klant in Soest die zijn 18 zonnepanelen wilde uitbreiden met opslag. Hij twijfelde tussen Sessy, Tesla Powerwall en de relatief nieuwe Enphase IQ Battery 5P. We kozen voor de Enphase, en ik mocht de installatie en monitoring vier maanden volgen.

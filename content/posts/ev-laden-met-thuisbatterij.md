@@ -42,13 +42,13 @@ faq:
   a: 'Globale indicatie voor doorsnee rijtushuis: zonnepanelen 16 panelen ±€6.000, thuisbatterij Sessy 10 kWh €5.995, bidirectionele laadpaal Wallbox Quasar 2 €3.500 incl. installatie. Totaal: ±€15.500. Terugverdientijd bij huidige energieprijzen: 10-14 jaar.'
 products:
 - name: Sessy thuisbatterij 10 kWh
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '5995'
 - name: Marstek Venus E 8,2 kWh
   url: https://marstekenergy.com/venus-e
   price: '2299'
 - name: Zonneplan thuisbatterij 10 kWh
-  url: https://www.zonneplan.nl/thuisbatterij
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '6995'
 schema_type: Article
 ---

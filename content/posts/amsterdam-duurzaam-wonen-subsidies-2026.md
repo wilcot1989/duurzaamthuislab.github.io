@@ -41,7 +41,7 @@ faq:
   a: 'Begin elk jaar (januari-februari) en bij begrotingsbesluiten in het najaar. Houd amsterdam.nl in de gaten.'
 products:
 - name: Zonneplan zonnepanelen
-  url: https://zonneplan.nl/
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5500'
 - name: Quatt warmtepomp
   url: https://www.quatt.nl/

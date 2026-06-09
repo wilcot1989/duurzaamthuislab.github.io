@@ -44,7 +44,7 @@ products:
   url: https://www.tesla.com/nl_nl/powerwall
   price: '9500'
 - name: Tibber
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 schema_type: Article
 ---

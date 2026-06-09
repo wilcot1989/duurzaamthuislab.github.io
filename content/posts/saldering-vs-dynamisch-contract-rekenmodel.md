@@ -41,7 +41,7 @@ faq:
   a: Ja, altijd. Tibber heeft maandelijkse opzegtermijn, Frank ook. Als dynamisch toch niet bij je past kun je probleemloos terug — al verlies je bij overstap soms een welkomstbonus.
 products:
 - name: Tibber
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 - name: Frank Energie
   url: https://www.frankenergie.nl/

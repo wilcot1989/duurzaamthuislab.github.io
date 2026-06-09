@@ -41,10 +41,10 @@ faq:
   a: 'Eenvoudig: via de app of email. Opzegtermijn 1 maand. Geen boete. Je servicegeld stopt direct, je leveringsovereenkomst eindigt aan het einde van die maand.'
 products:
 - name: Tibber dynamisch contract
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 - name: Tibber Pulse
-  url: https://tibber.com/nl/store/product/pulse
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '90'
 - name: Frank Energie (alternatief)
   url: https://www.frankenergie.nl/

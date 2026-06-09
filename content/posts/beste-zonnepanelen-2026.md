@@ -35,7 +35,7 @@ faq:
   a: 'Er zijn twee typen: string-omvormers met optimizers (SolarEdge, goedkoper) en micro-omvormers (Enphase, betrouwbaarder). Bij schaduw of een complex dak is Enphase beter. Bij een standaard dak zonder schaduw biedt SolarEdge de beste prijs-kwaliteit. Lees onze SolarEdge vs Enphase vergelijking.'
 products:
 - name: Zonneplan
-  url: https://zonneplan.nl/zonnepanelen
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5000'
 - name: Coolblue Zonnepanelen
   url: https://www.coolblue.nl/zonnepanelen

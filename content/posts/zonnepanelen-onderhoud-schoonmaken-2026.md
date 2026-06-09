@@ -43,7 +43,7 @@ products:
   url: https://www.bol.com/nl/p/zonnepanelen-borstel/
   price: '95'
 - name: Zonneplan onderhoudscontract
-  url: https://zonneplan.nl/
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '90'
 - name: Coolblue zonnepanelen onderhoud
   url: https://www.coolblue.nl/zonnepanelen

@@ -40,7 +40,7 @@ faq:
   a: 'Begin elk jaar (januari) en bij begrotingsbesluiten in najaar. Houd rotterdam.nl in de gaten of meld je aan voor de duurzaamheid-nieuwsbrief.'
 products:
 - name: Zonneplan zonnepanelen
-  url: https://zonneplan.nl/
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5500'
 - name: Quatt warmtepomp
   url: https://www.quatt.nl/

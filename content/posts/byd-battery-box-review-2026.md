@@ -43,7 +43,7 @@ products:
   url: https://www.bydbatterybox.com/
   price: '5500'
 - name: Sessy 10 kWh
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '5995'
 - name: Frank Energie dynamisch
   url: https://www.frankenergie.nl/

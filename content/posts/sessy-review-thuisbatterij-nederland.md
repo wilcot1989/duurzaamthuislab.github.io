@@ -42,13 +42,13 @@ faq:
   a: Ja, sinds firmware-update januari 2026 heeft Sessy backup-functie via een aparte stroomgroep. Niet automatisch — je moet handmatig overschakelen via een keuzeschakelaar (bijgeleverd) bij stroomuitval. Capaciteit beperkt tot één groep (bijv. koelkast, lampen, modem).
 products:
 - name: Sessy 5 kWh
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '3795'
 - name: Sessy 10 kWh
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '5995'
 - name: Tibber dynamisch contract
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 - name: Frank Energie
   url: https://www.frankenergie.nl/

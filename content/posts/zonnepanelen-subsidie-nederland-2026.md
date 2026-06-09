@@ -38,7 +38,7 @@ faq:
   a: Ja, absoluut. Ondanks de aankomende afbouw van de salderingsregeling zijn zonnepanelen nog steeds een van de beste investeringen voor je woning. Met het 0% BTW-tarief, de ISDE-subsidie voor een thuisbatterij en de stijgende energieprijzen verdien je zonnepanelen doorgaans binnen 5-7 jaar terug.
 products:
 - name: Zonneplan
-  url: https://zonneplan.nl/zonnepanelen
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5000'
 - name: Coolblue Zonnepanelen
   url: https://www.coolblue.nl/zonnepanelen

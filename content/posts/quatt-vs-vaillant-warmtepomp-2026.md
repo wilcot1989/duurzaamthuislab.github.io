@@ -41,7 +41,7 @@ faq:
   a: 'Bij nieuwbouw met label A++ en vloerverwarming: Vaillant aroTHERM Plus zonder twijfel. Hogere COP, langere levensduur, betere integratie met smart grid. Bij nieuwbouw is COP-voordeel cumulatief 25 jaar lang. Quatt heeft daar weinig zin omdat de cv-ketel overbodig is.'
 products:
 - name: Quatt hybride warmtepomp
-  url: https://www.quatt.io/
+  url: https://go.duurzaamthuislab.nl/quatt
   price: '4495'
 - name: Vaillant aroTHERM Plus 5 kW
   url: https://www.vaillant.nl/

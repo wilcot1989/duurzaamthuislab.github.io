@@ -43,7 +43,7 @@ products:
   url: https://www.bydbatterybox.com/
   price: '15000'
 - name: Sessy commercieel
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '8000'
 - name: Pylontech Force-H2
   url: https://en.pylontech.com.cn/

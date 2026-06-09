@@ -41,7 +41,7 @@ products:
   url: https://www.shelly.com/nl/products/shop/shelly-pro-3-em-400
   price: '120'
 - name: Tibber Pulse
-  url: https://tibber.com/nl/pulse
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '99'
 schema_type: Article
 ---

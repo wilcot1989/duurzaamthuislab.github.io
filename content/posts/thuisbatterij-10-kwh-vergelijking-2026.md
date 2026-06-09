@@ -42,13 +42,13 @@ faq:
   a: 'Met dynamisch contract en 10 kWh batterij: €700-€1.100/jaar besparing in 2026. Vanaf 2027 (saldering-stop): €1.000-€1.500/jaar omdat je teruglevering-verlies wordt geëlimineerd.'
 products:
 - name: Sessy 10 kWh
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '5995'
 - name: Marstek Venus E 8,2 kWh
   url: https://marstekenergy.com/venus-e
   price: '2299'
 - name: Zonneplan thuisbatterij 10 kWh
-  url: https://www.zonneplan.nl/thuisbatterij
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '6995'
 - name: Tesla Powerwall 3 (13,5 kWh)
   url: https://www.tesla.com/nl_nl/powerwall

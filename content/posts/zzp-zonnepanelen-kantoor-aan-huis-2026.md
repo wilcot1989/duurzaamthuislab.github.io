@@ -40,7 +40,7 @@ faq:
   a: 'Lineaire afschrijving over 10 jaar (10% per jaar). Voor de zakelijk gebruikte deel — bij 15% kantoor: 15% × 10% = 1,5% per jaar van totale investering aftrekbaar.'
 products:
 - name: Zonneplan zakelijk
-  url: https://zonneplan.nl/
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5500'
 - name: Coolblue zonnepanelen
   url: https://www.coolblue.nl/zonnepanelen

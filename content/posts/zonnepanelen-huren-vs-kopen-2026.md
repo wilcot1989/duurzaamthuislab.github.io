@@ -35,7 +35,7 @@ faq:
   a: Als de huuraanbieder failliet gaat, blijven de panelen op je dak functioneren. De eigendom gaat over naar de curator. In de praktijk neemt een andere partij het contract over. Dit is een risico, maar tot nu toe zeldzaam bij grote aanbieders.
 products:
 - name: Zonneplan
-  url: https://zonneplan.nl/zonnepanelen
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5000'
 - name: Coolblue Zonnepanelen
   url: https://www.coolblue.nl/zonnepanelen

@@ -40,7 +40,7 @@ faq:
   a: 'Bij corporatie-investering: panelen blijven in pand. Bij eigen investering: vaak terugkoopregeling met corporatie tegen restwaarde, of overdracht aan nieuwe huurder met bijbehorende vergoeding.'
 products:
 - name: Zonneplan zonnepanelen
-  url: https://zonneplan.nl/
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5500'
 - name: Coolblue zonnepanelen
   url: https://www.coolblue.nl/zonnepanelen

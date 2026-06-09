@@ -41,7 +41,7 @@ products:
   url: https://www.anwb.nl/energie
   price: '0'
 - name: Tibber (alternatief)
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 - name: Frank Energie (alternatief)
   url: https://www.frankenergie.nl/

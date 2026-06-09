@@ -41,7 +41,7 @@ faq:
   a: 'Plat dak ballastsysteem: €1.300-€1.700/kWp inclusief btw — 10-25% duurder dan schuin dak (€1.100-€1.400/kWp). Voor 6 kWp installatie: €1.000-€1.800 meerprijs. Kostenverschil zit in: ballastblokken, montage-arbeid (langer), eventuele dakberekening, optionele dakvoeten.'
 products:
 - name: Trina Vertex S+ paneel 440Wp
-  url: https://www.zonneplan.nl/zonnepanelen
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '180'
 - name: Esdec Flatfix Wave (oost-west systeem)
   url: https://www.esdec.com/
@@ -50,7 +50,7 @@ products:
   url: https://www.vdvalksolarsystems.com/
   price: '110'
 - name: Sessy thuisbatterij 10 kWh (combinatie)
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '5995'
 schema_type: Article
 ---

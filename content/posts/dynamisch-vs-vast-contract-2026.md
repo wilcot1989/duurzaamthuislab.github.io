@@ -45,7 +45,7 @@ faq:
   a: 'Ja, maar je hebt wel opzegtermijn van je huidige contract. Bij vast: na afloop contract direct over te stappen. Bij dynamisch: meestal maandelijks opzegbaar. Mijn advies: probeer dynamisch 12 maanden, evalueer januari + juli (extreme maanden). Past het niet: ga terug naar vast. Risico is laag omdat opzegbaar.'
 products:
 - name: Tibber
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '0'
 - name: Frank Energie
   url: https://www.frankenergie.nl/

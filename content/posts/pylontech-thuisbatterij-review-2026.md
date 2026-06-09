@@ -43,10 +43,10 @@ products:
   url: https://en.pylontech.com.cn/
   price: '1450'
 - name: Sessy 5 kWh
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '3795'
 - name: Tibber dynamisch
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 ---
 Een DIY-installateur uit Nijmegen vroeg mij vorig jaar of Pylontech ook iets is voor zijn klanten. Hij installeert vooral off-grid systemen op recreatiewoningen en boerderijen, en wilde weten of de US5000 ook op een gewoon huis met dynamisch contract werkt. Ik heb in oktober 2025 een Pylontech US5000 setup gevolgd op een woonboerderij in Beuningen, vier maanden lang.

@@ -35,7 +35,7 @@ faq:
   a: 'GvO''s zijn certificaten die bewijzen dat er per MWh hernieuwbare stroom is opgewekt. Leveranciers kopen GvO''s om hun stroom ''groen'' te labelen. Probleem: GvO''s uit Noorwegen (waterkracht) kosten slechts €0,20-€1,00/MWh — zo goedkoop dat het geen prikkel geeft voor nieuwe opwek. Nederlandse GvO''s (wind/zon) zijn duurder en stimuleren wel nieuwe projecten.'
 products:
 - name: Tibber
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 - name: Frank Energie
   url: https://www.frankenergie.nl/

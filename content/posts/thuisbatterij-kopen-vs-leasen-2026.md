@@ -39,13 +39,13 @@ faq:
   a: Nee niet direct — Zonneplan zorgt voor verzekering van de hardware. Bij koop moet je het apparaat eventueel onder je inboedelverzekering laten registreren (bij batterij >€2.000).
 products:
 - name: Zonneplan thuisbatterij koop 10 kWh
-  url: https://www.zonneplan.nl/thuisbatterij
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '6995'
 - name: Zonneplan thuisbatterij lease 10 kWh
-  url: https://www.zonneplan.nl/thuisbatterij/lease
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '54'
 - name: Sessy 10 kWh (alternatief koop)
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '5995'
 - name: Marstek Venus E (alternatief koop)
   url: https://marstekenergy.com/venus-e

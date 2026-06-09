@@ -40,7 +40,7 @@ faq:
   a: '0,4-0,8% per jaar door cel-degradatie. Na 25 jaar dus 80-90% van origineel vermogen. Verlies van 1,5%+ per jaar is een teken van defect en valt onder vermogensgarantie.'
 products:
 - name: Zonneplan zonnepanelen
-  url: https://zonneplan.nl/
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5000'
 - name: Coolblue zonnepanelen
   url: https://www.coolblue.nl/zonnepanelen

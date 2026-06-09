@@ -34,7 +34,7 @@ faq:
   a: 'De meeste platte daken kunnen zonnepanelen dragen. Gewicht per paneel + frame + ballast: 15-25 kg/m². Standaard platte daken zijn berekend op 100+ kg/m² (sneeuwlast). Bij oudere daken of twijfel: laat een constructeur of de installateur de draagkracht controleren. Kosten check: €100-€300.'
 products:
 - name: Zonneplan
-  url: https://zonneplan.nl/zonnepanelen
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5000'
 - name: Coolblue Zonnepanelen
   url: https://www.coolblue.nl/zonnepanelen

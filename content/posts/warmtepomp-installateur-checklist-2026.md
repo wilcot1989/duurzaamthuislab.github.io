@@ -41,7 +41,7 @@ faq:
   a: 'Eerste stap: schriftelijk klagen met klacht-omschrijving en gewenste oplossing. Bij geen reactie: meld bij InstallQ (geschillencommissie installateurs) of stichting Garantiefonds. Bij ernstige veiligheidskwesties: meld bij gemeente of Arbeidsinspectie. ISSO 75-installateurs zijn aangesloten bij geschillenregeling — extra zekerheid.'
 products:
 - name: Quatt hybride (vaste prijs all-in)
-  url: https://www.quatt.io/
+  url: https://go.duurzaamthuislab.nl/quatt
   price: '4495'
 - name: Vaillant aroTHERM Plus (premium dealer)
   url: https://www.vaillant.nl/

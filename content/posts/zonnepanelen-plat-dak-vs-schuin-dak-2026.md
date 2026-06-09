@@ -42,7 +42,7 @@ faq:
   a: 'Op zuidopstelling 15°: ongeveer 16-20 panelen door benodigde ruimte tussen rijen (vermijd schaduw op achterliggende rij). Op oost-west 10°: ongeveer 22-28 panelen want rug-aan-rug montage spaart ruimte. Een schuin dak van 50 m² (zuidkant): 24-30 panelen. Op een plat dak verlies je dus 25-30% capaciteit per m² t.o.v. een schuin dak met optimale orientatie.'
 products:
 - name: Trina Vertex S+ paneel 440Wp (typisch op platdak)
-  url: https://www.zonneplan.nl/zonnepanelen
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '180'
 - name: SolarEdge omvormer (geschikt voor plat + schuin)
   url: https://www.solaredge.com/nl

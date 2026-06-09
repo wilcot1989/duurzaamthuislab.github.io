@@ -27,7 +27,7 @@ faq:
     a: "Ja, vrijwel zeker. De leveranciers verwachten meer onbalans-kosten omdat saldering wegvalt en negatieve prijzen vaker voorkomen. Marktanalyse: tarieven gaan in 2027 ongeveer 30-50% omhoog ten opzichte van 2026 niveau."
 products:
   - name: "Tibber dynamisch contract"
-    url: "https://tibber.com/nl"
+    url: "https://go.duurzaamthuislab.nl/tibber"
     price: "6"
   - name: "Frank Energie"
     url: "https://www.frankenergie.nl/"
@@ -36,7 +36,7 @@ products:
     url: "https://www.anwb.nl/energie"
     price: "0"
   - name: "Sessy 5 kWh thuisbatterij"
-    url: "https://sessy.nl/"
+    url: "https://go.duurzaamthuislab.nl/sessy"
     price: "3795"
 ---
 Vorige maand kreeg ik post van mijn moeder. Eneco-rekening, en ze begreep niet waarom haar maandbedrag met €18 omhoog ging zonder dat ze meer was gaan verbruiken. Ze had vorig jaar 14 zonnepanelen laten installeren en leverde nu netjes terug. Wat ze niet wist: per 1 maart 2026 rekent Eneco terugleverkosten gestaffeld naar volume.

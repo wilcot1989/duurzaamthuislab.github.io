@@ -41,7 +41,7 @@ faq:
   a: 'Ja, veel provinciale regelingen omvatten meerdere maatregelen: zonnepanelen, thuisbatterij, warmtepomp, isolatie. Combineer voor maximaal voordeel.'
 products:
 - name: Zonneplan zonnepanelen
-  url: https://zonneplan.nl/
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5500'
 - name: Coolblue zonnepanelen
   url: https://www.coolblue.nl/zonnepanelen

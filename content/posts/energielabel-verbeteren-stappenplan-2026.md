@@ -36,7 +36,7 @@ faq:
   a: 'De belangrijkste subsidies zijn: ISDE (€1.500-€5.500 voor isolatie + warmtepomp), SEEH (voor VvE''s en verhuurders), gemeentelijke subsidies (€500-€3.000), en het Nationaal Warmtefonds (lening tegen 0% rente). Totaal kun je 30-50% van de kosten terugkrijgen.'
 products:
 - name: Zonneplan
-  url: https://zonneplan.nl/zonnepanelen
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5000'
 - name: Vaillant aroTHERM plus
   url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/

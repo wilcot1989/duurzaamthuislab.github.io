@@ -41,7 +41,7 @@ faq:
   a: Nee, energie-arbitrage werkt ook zonder zonnepanelen. Je laadt de batterij dan uitsluitend op goedkope momenten van het net en gebruikt de opgeslagen stroom op dure momenten. Echter, de combinatie van zonnepanelen plus een thuisbatterij plus een dynamisch contract levert de hoogste besparing op.
 products:
 - name: Tibber
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 - name: Frank Energie
   url: https://www.frankenergie.nl/

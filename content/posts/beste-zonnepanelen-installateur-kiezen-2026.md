@@ -45,10 +45,10 @@ faq:
   a: 'Eerst aangetekend brief sturen met deadline 14 dagen. Daarna naar Stichting Geschillencommissie (alleen bij Zonnekeur-leden) of Consumentenbond. Bij verzekerde garantie via SolarTOTAL of HollandSolar: contact opnemen met de garantieverzekeraar. Bij faillissement: curator aanmelden binnen 6 maanden. Voor elektrotechnische storingen: NEN1010-keurmeester inschakelen voor objectieve beoordeling.'
 products:
 - name: Zonneplan dakcheck
-  url: https://www.zonneplan.nl/
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '0'
 - name: Vergelijking installateurs (gratis quickscan)
-  url: https://www.zonneplan.nl/
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '0'
 schema_type: Article
 ---

@@ -41,7 +41,7 @@ faq:
   a: 'Dak-werk is ernstig: vallen van een dak >2,5m geeft levensbedreigende verwondingen. Werk altijd met dakveiligheidslijn, niet alleen, niet bij wind/regen, en gebruik goede ladders.'
 products:
 - name: Zonneplan installatie
-  url: https://zonneplan.nl/
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '5500'
 - name: DIY zonnepaneel pakket Memodo
   url: https://www.memodo.nl/

@@ -44,7 +44,7 @@ products:
   url: https://www.frankenergie.nl/
   price: '0'
 - name: Tibber
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 - name: ANWB Energie Dynamisch
   url: https://www.anwb.nl/energie

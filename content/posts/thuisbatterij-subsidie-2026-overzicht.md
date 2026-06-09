@@ -39,16 +39,16 @@ faq:
   a: Wacht tot je gemeente/provincie de regeling voor 2026 opent (vaak januari, april of september). Reserveer online de subsidie. Koop dan pas de batterij. Wachten op een hypothetische landelijke 2027-regeling is risicovol — die kan kleiner zijn dan de huidige lokale opties.
 products:
 - name: Sessy thuisbatterij 5 kWh
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '3795'
 - name: Sessy thuisbatterij 10 kWh
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '5995'
 - name: Marstek Venus E 8,2 kWh
   url: https://marstekenergy.com/venus-e
   price: '2299'
 - name: Zonneplan thuisbatterij 10 kWh
-  url: https://www.zonneplan.nl/thuisbatterij
+  url: https://go.duurzaamthuislab.nl/zonneplan
   price: '6995'
 schema_type: Article
 ---

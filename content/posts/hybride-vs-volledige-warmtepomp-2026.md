@@ -45,7 +45,7 @@ faq:
   a: 'Ja, dat is een goede strategie. Eerst hybride installeren (€4.500-€7.500), na isolatie-renovatie eventueel cv-ketel verwijderen en warmtepomp upgraden naar groter model met warmwater-functie. Extra kosten omschakeling: €3.500-€6.000. Voordeel: gespreide investering, eerste deel werkt direct, tweede stap pas als woning gereed is. Nadeel: totaal duurder dan in één keer volledig.'
 products:
 - name: Quatt hybride warmtepomp
-  url: https://www.quatt.io/
+  url: https://go.duurzaamthuislab.nl/quatt
   price: '4495'
 - name: Atag Hybrid warmtepomp
   url: https://www.atag.nl/

@@ -52,10 +52,10 @@ products:
   url: https://www.tesla.com/nl_nl/powerwall
   price: '9500'
 - name: Sessy 5 kWh
-  url: https://sessy.nl/
+  url: https://go.duurzaamthuislab.nl/sessy
   price: '3795'
 - name: Tibber dynamisch contract
-  url: https://tibber.com/nl
+  url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 - name: Frank Energie
   url: https://www.frankenergie.nl/
