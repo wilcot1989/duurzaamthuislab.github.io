@@ -31,7 +31,7 @@ products:
   url: https://go.duurzaamthuislab.nl/sessy
   price: '2495'
 schema_type: Article
-last_updated: '2026-11-01'
+last_updated: '2026-06-15'
 faq:
 - q: 'Wat mag ik als huurder absoluut doen zonder toestemming?'
   a: 'Alles wat je bij verhuizing zonder schade kunt meenemen of terugdraaien. Dus slimme stekkers, P1-meter, plug-in batterij, slimme radiatorknoppen op bestaande radiatoren, infraroodpanelen die je later weghaalt, slimme thermostaat als je de oude bewaart. Niets aan de muur boren of vaste installatie wijzigen.'
@@ -310,6 +310,10 @@ Voor lokale subsidies: in 2025 hadden Amsterdam, Utrecht, Rotterdam en Den Haag 
 ## 18. Wat als je gaat verhuizen?
 
 Plan je binnen 1-2 jaar verhuizen? Dan adviseer ik:
+
+### Verhuistaken-planning
+
+Een verhuizing brengt tientallen taken mee — ook op het gebied van energie en verduurzaming. Denk aan het overzetten van je energiecontract, het opnemen van meterstanden, het meenemen of achterlaten van plug-in apparaten en het regelen van adreswijzigingen. Ik gebruik [verhuisplanner.app](https://verhuisplanner.app) om dit soort taken gestructureerd bij te houden, zodat je niets vergeet op de verhuisdag. Zeker handig als je ook je Tibber- of Frank Energie-contract wil overzetten naar het nieuwe adres.
 
 - **HomeWizard P1, slimme stekkers, plug-in batterij** — meenemen, werkt direct in nieuwe woning.
 - **Slimme radiatorknoppen** — oude knoppen terugzetten (5 minuten werk), nieuwe meenemen.

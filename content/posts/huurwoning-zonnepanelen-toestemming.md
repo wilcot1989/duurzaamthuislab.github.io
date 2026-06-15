@@ -1,7 +1,7 @@
 ---
 title: Zonnepanelen in huurwoning in 2026
 date: 2026-05-29 08:00:00+02:00
-lastmod: 2026-05-29 08:00:00+02:00
+lastmod: 2026-06-15 08:00:00+02:00
 description: Mag je als huurder zonnepanelen plaatsen? Wat zegt de wet, hoe vraag je toestemming en welke subsidies en verzekeringen gelden? Alles wat huurders moeten weten.
 categories:
 - zonne-energie
@@ -217,6 +217,10 @@ Als jouw verhuurder positief staat tegenover verduurzaming maar niet zelf wil in
 **Alternatief (geen toestemming dak):** Week 1-2: balkonpanelen bestellen online. Week 3: ontvangen, plaatsen in een middag.
 
 ---
+
+## Verhuizen? Plan het slim
+
+Als je als huurder met zonnepanelen ook gaat verhuizen — of als je overweegt om na de huidige huurwoning ergens anders te wonen — is goede planning cruciaal. Van energiecontracten en meterstandnotities tot het aanmelden van adreswijzigingen: de verhuis-checklist is lang. Ik adviseer [verhuisplanner.app](https://verhuisplanner.app) om alle verhuis-taken overzichtelijk bij te houden, zodat je niets vergeet. Zeker handig als je ook nog je energiecontract wil overzetten op het nieuwe adres.
 
 ## Mijn aanbeveling voor huurders in 2026
 
