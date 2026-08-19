@@ -1,7 +1,7 @@
 ---
 title: Oost-west zonnepanelen vs. zuidsysteem
 date: 2026-05-18 08:00:00+02:00
-lastmod: 2026-05-18 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Oost-west of zuidopstelling voor zonnepanelen? Vergelijking van opbrengst, zelfverbruik en rendement na saldering-afbouw 2027. Met rekenvoorbeelden.
 categories:
 - zonne-energie
@@ -40,9 +40,9 @@ products:
   price: op aanvraag
 schema_type: Article
 ---
-Mijn buurman installeerde twee jaar geleden een perfect zuidgericht systeem van 10 panelen. Ik koos voor 14 panelen in oost-west opstelling op mijn zadeldak. Hij lacht om mijn "niet-optimale" oriëntatie. Maar als ik mijn jaarrekening en de salderingscontext van 2027 erbij pak, lach ik terug.
+"Zuid is optimaal" is decennialang het standaardadvies geweest, en op één punt is dat nog steeds waar: een zuidgericht paneel levert per Wp de hoogste jaaropbrengst. Maar met de afbouw van de saldering is de vraag verschoven van "hoeveel wek ik op?" naar "hoeveel gebruik ik zelf?" — en op dat tweede punt verliest zuid van oost-west.
 
-In dit artikel leg ik uit waarom de traditionele voorkeur voor zuidsystemen achterhaald raakt — en wanneer oost-west de slimmere keuze is.
+In dit artikel leggen wij uit waarom de traditionele voorkeur voor zuidsystemen achterhaald raakt, en wanneer oost-west de slimmere keuze is.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
@@ -199,27 +199,27 @@ Met micro-omvormers (Enphase) of power optimizers (SolarEdge) is het effect van 
 
 Zonneplan is een van de Nederlandse installateurs die actief adviseert over de juiste oriëntatie op basis van je specifieke dak, verbruiksprofiel en de salderingscontext. Ze bieden gratis dakscans aan waarbij ze de exacte opbrengst per oriëntatie berekenen.
 
-Hun aanbeveling sluit aan bij wat ik in de praktijk zie: voor zadeldaken met beide dakvlakken beschikbaar, adviseren ze steeds vaker oost-west — zeker voor huishoudens die nu of later een thuisbatterij overwegen.
+Hun advieslijn sluit aan bij de rekenkundige logica hierboven: voor zadeldaken met beide dakvlakken beschikbaar adviseren zij steeds vaker oost-west, zeker voor huishoudens die nu of later een thuisbatterij overwegen.
 
 ---
 
-## Mijn zadeldak in de praktijk: twee jaar meetdata
+## Twee systemen doorgerekend
 
-Mijn situatie: 7 panelen oost (200Wp elk, 1.400 Wp totaal) + 7 panelen west (200Wp, 1.400 Wp), totaal 2.800 Wp. Oudere panelen, maar representatief.
+Onderstaand een **modelvergelijking** op basis van PVGIS-uitgangspunten voor Nederland, voor een zadeldak van 2.800 Wp in oost-west tegenover een zuidsysteem van vergelijkbaar vermogen. De opbrengstverhouding komt uit de PVGIS-tabellen; het zelfverbruikpercentage volgt uit het verbruiksprofiel van een gemiddeld huishouden dat 's ochtends en 's avonds piekt.
 
-**Meetdata 2024:**
-- Totale productie: 2.260 kWh
-- Zelfverbruik: 1.070 kWh (47,3%)
-- Teruglevering: 1.190 kWh
-- Inkoop: 2.930 kWh
+**Oost-west, 2.800 Wp:**
+- Jaaropbrengst: circa 5 tot 15 procent lager dan zuid bij gelijk vermogen (PVGIS, afhankelijk van dakhoek)
+- Zelfverbruik: hoger, doordat de opbrengstcurve twee bredere pieken heeft die samenvallen met de ochtend- en avondpiek van het huishouden
+- Teruglevering: lager
 
-**Vergelijkbaar zuidsysteem (buurman, 8 panelen, 2.640 Wp, optimale oriëntatie):**
-- Totale productie: 2.380 kWh (5% meer)
-- Zelfverbruik: 730 kWh (30,7%)
-- Teruglevering: 1.650 kWh
-- Inkoop: 3.270 kWh
+**Zuid, gelijk vermogen:**
+- Jaaropbrengst: hoogste van de twee
+- Zelfverbruik: lager, doordat de opbrengst zich concentreert rond het middaguur — precies wanneer de meeste huishoudens het minst verbruiken
+- Teruglevering: hoger
 
-In 2026 (volledige saldering) heeft mijn buurman een marginaal voordeel: zijn hogere teruglevering wordt goed gecompenseerd. In 2030 heeft mijn systeem een duidelijk voordeel door het hogere zelfverbruik.
+Zolang de saldering volledig geldt, wint zuid: elke teruggeleverde kWh is dan net zoveel waard als een afgenomen kWh, en dan telt alleen de totale opbrengst. Zodra de saldering is afgebouwd, kantelt dat: dan bepaalt het zelfverbruikpercentage het financiële resultaat, en daarop is oost-west structureel sterker.
+
+Concrete kWh-cijfers voor een specifiek dak noemen wij hier niet: die zijn zonder de dakhoek, de locatie en het schaduwprofiel niet te geven. Laat een PVGIS-simulatie maken voor jouw exacte situatie — dat is gratis en het is de enige berekening die voor jouw dak geldt.
 
 ---
 
@@ -227,7 +227,7 @@ In 2026 (volledige saldering) heeft mijn buurman een marginaal voordeel: zijn ho
 
 De mythe dat zuidsystemen altijd beter zijn, klopt niet meer in de context van de salderingsafbouw. Voor zadeldaken met beschikbare oost- en westdakvlakken is oost-west in 2026 vrijwel altijd de slimmere keuze — zeker als je niet direct een thuisbatterij installeert.
 
-**Mijn aanbeveling:**
+**Onze aanbeveling:**
 1. Laat een dakscan uitvoeren door [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) met berekening voor beide opties
 2. Bereken de situatie specifiek voor 2027-2030 op basis van je eigen verbruiksprofiel
 3. Overweeg in combinatie met een thuisbatterij: dan stijgt het zelfverbruik voor beide systemen naar 65-75%
@@ -244,7 +244,7 @@ Als je een offerte aanvraagt voor zonnepanelen, zijn dit de vragen die je moet s
 
 Een serieuze installateur gebruikt PVsyst, PVGIS (Europees tool) of vergelijkbare software om de jaaropbrengst per dakvlak te berekenen op basis van jouw exacte locatie, dakhoek, oriëntatie en eventuele schaduw. Vraag om een simulatie voor zowel zuidsysteem als oost-west.
 
-**Wat is het verwachte zelfverbruikspercentage voor mijn situatie?**
+**Wat is het verwachte zelfverbruikspercentage in mijn situatie?**
 
 Dit hangt af van je dagprofiel (thuis of niet overdag), het type contract en of je een batterij overweegt. Een goede installateur berekent dit specifiek voor jou.
 
@@ -339,9 +339,9 @@ Bij een zuidsysteem is teruglevering hoog (60-70% van de productie). De salderin
 
 ---
 
-## Wat [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) mij heeft geleerd over oriëntatie
+## Waar een goede installateur op let bij oriëntatie
 
-Ik heb een adviesgesprek gevoerd met een Zonneplan-adviseur over mijn specifieke dakovergave. Wat mij opviel:
+Vier punten die in een serieus oriëntatie-advies horen terug te komen. Gebruik ze als toets op de offerte die je krijgt:
 
 1. Ze berekenen standaard PVGIS-simulaties voor meerdere configuraties en laten zien wat de financiële impact is na de salderingsafbouw.
 
@@ -389,9 +389,9 @@ Verschil in 2030: €321/jaar in het voordeel van oost-west.
 
 ---
 
-## Conclusie: mijn definitieve aanbeveling
+## Conclusie: onze aanbeveling
 
-Na twee jaar met mijn oost-west systeem en de berekeningen voor 2027-2030 is mijn aanbeveling helder:
+Op basis van de PVGIS-opbrengstverhoudingen en de financiële logica van de salderingsafbouw voor 2027-2030:
 
 **Voor zadeldaken:** kies oost-west als beide dakvlakken beschikbaar zijn. De extra productie en het hogere zelfverbruik wegen op tegen de lagere opbrengst per paneel. Na 2027 is dit systeem financieel structureel beter.
 
@@ -475,25 +475,15 @@ Als je nu 14 panelen oost-west installeert maar later wil uitbreiden, moet de om
 
 ---
 
-## Interview met een Zonneplan-klant
+## Wat kopers van oost-west-systemen terugkoppelen
 
-Om dit artikel te verrijken met een echte klantervaring, heb ik gesproken met Johan (50, Arnhem) die vorig jaar een oost-west systeem liet installeren door Zonneplan.
+Uit gebruikersreviews en installateursvoorlichting komen drie punten steeds terug bij wie voor oost-west koos:
 
-**Waarom oost-west gekozen?**
+**Het comfortvoordeel wordt onderschat.** Bij een zuidsysteem verschuift het advies naar "gebruik je apparaten rond het middaguur". Bij oost-west valt de opbrengst deels samen met de ochtend- en avondpiek van een normaal huishouden, waardoor je je gewoontes minder hoeft aan te passen. Voor wie 's ochtends de wasmachine aanzet of 's avonds thuis de auto laadt, is dat een reëel verschil.
 
-"Mijn buurman had een zuidsysteem. Maar ons zadeldak heeft een perfect oost-west oriëntatie — geen zuiddakvlak. Ik kon dus kiezen: één richting of beide. Zonneplan legde me de extra kosten en de hogere zelfverbruiksvoordelen uit. Ik koos voor beide richtingen: 8 oost + 8 west."
+**De omvormerconfiguratie is het punt waar het misgaat.** Oost en west moeten op twee aparte MPPT-ingangen of strings. Wordt alles op één string gezet, dan trekt de zwakst presterende richting de hele string omlaag en verlies je een deel van het voordeel dat je juist koopt. Dit is de eerste vraag die je aan een installateur moet stellen, en het is de fout die kopers achteraf het vaakst noemen.
 
-**Wat is je ervaring na een jaar?**
-
-"De productie is precies zoals beloofd — we zitten op 3.800 kWh voor een 16-paneelsysteem. Wat me het meest verraste: mijn vrouw heeft haar gewoonte van 's ochtends wasmachine draaien niet hoeven veranderen, terwijl dat bij een zuidsysteem 's middags handiger was geweest. De auto laden 's avonds pakt ook beter uit dan ik verwacht had."
-
-**Wat had je anders willen weten?**
-
-"De kwestie van de omvormer-configuratie. Ik had geen idee dat twee aparte strings zo belangrijk zijn. Zonneplan had dit goed geregeld, maar ik weet niet of dat bij elke installateur zo was gegaan."
-
-**Zou je het aanbevelen?**
-
-"Absoluut. Voor een zadeldak zonder zuidoostdakvlak is dit de enige logische keuze. Maar ook als je een zuiddakvlak hebt, zou ik serieus overwegen om beide vlakken te benutten."
+**Bij een zadeldak zonder zuidvlak is er geen discussie.** Dan gaat de keuze niet over zuid versus oost-west maar over één richting versus twee, en twee richtingen levert vrijwel altijd meer bruikbare stroom op.
 
 ## Gerelateerde artikelen
 

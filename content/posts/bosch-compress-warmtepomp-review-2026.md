@@ -1,7 +1,7 @@
 ---
 title: Bosch Compress warmtepomp review 2026
 date: 2026-07-22 08:00:00+02:00
-lastmod: 2026-07-22 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: De Bosch Compress 5800 en 7800i zijn lucht-water warmtepompen die speciaal goed werken in matig geïsoleerde woningen.
 categories:
 - warmtepompen
@@ -33,7 +33,7 @@ faq:
   a: 'De Compress 5800 is de instapvariant: solide, goed voor woningen met label B tot D. De 7800i is de premiumlijn met hogere SCOP (tot 4,5 versus 4,0-4,2 bij de 5800), slimmere modulatie en betere app-integratie. De 7800i is ook beschikbaar als hybride variant die samenwerkt met een Bosch cv-ketel.'
 - q: Is de Bosch Compress geschikt voor een slecht geïsoleerde woning?
   a: De hybride versie van de Compress 7800i is speciaal geschikt voor woningen met energielabel D of slechter. De warmtepomp levert het merendeel van de warmte; bij piekbelasting in de winter springt de cv-ketel bij. Je hoeft de woning niet eerst te isoleren, al is dat op termijn wel rendabeler.
-- q: Kan ik ISDE-subsidie aanvragen voor een Bosch Compress?
+- q: Is er ISDE-subsidie voor een Bosch Compress?
   a: Ja. De Bosch Compress 5800 en 7800i staan op de ISDE-erkende productenlijst van RVO. De subsidie bedraagt €2.500 tot €4.000 afhankelijk van het nominale vermogen. Aanvraag moet vóór de installatie worden ingediend — de installateur verzorgt dit doorgaans.
 - q: Hoe werkt de Bosch Easy Control app?
   a: De Bosch Easy Control app geeft inzicht in verbruik, temperatuurinstellingen en bedrijfsmodus. Je kunt de warmtepomp op afstand instellen, programmeren en storingen uitlezen. De app wordt regelmatig bijgewerkt en werkt stabiel. Minder visueel verfijnd dan de Daikin One app, maar functioneel compleet.
@@ -52,11 +52,11 @@ products:
   price: '10000'
 schema_type: Review
 ---
-Vorig jaar zomer had ik een adviesgesprek met Anja en haar man Pieter. Vrijstaand huis uit 1969 in Apeldoorn, energielabel D, deels dubbel glas, spouwmuur niet geïsoleerd. Hun vraag was simpel: "Kunnen we gewoon een warmtepomp zetten of moeten we eerst alles verbouwen?"
+"Kunnen we gewoon een warmtepomp plaatsen, of moeten we eerst alles verbouwen?" Dat is de vraag van vrijwel iedere eigenaar van een woning met label D of E: deels dubbel glas, ongeïsoleerde spouwmuur, radiatoren op hoge aanvoertemperatuur. Het antwoord is dat je niet hoeft te wachten — maar dan valt de keuze op een hybride systeem, niet op all-electric.
 
 De eerlijke versie van het antwoord: het kan, maar de keuze van de pomp bepaalt of het slim is. Met een all-electric Daikin op 65°C aanvoer kun je in theorie ook een label D-woning verwarmen — maar je SCOP daalt naar 2,5 tot 3,0, en dan is het twijfelachtig of de investering ooit terugverdient.
 
-Ik wees ze op de Bosch Compress 7800i hybride. Niet het meest bekende merk als je met vrienden over warmtepompen praat, maar een systeem dat specifiek is gebouwd voor de situatie waar Anja en Pieter in zitten. Ze installeerden hem in oktober 2024. Ik heb meegelezen met hun data. Dit is wat ik gevonden heb.
+De Bosch Compress 7800i hybride is voor precies die situatie ontworpen. Het is niet het bekendste merk in gesprekken over warmtepompen, maar het is een systeem dat expliciet is gebouwd om samen te werken met een bestaande cv-ketel bij hogere aanvoertemperaturen. Hieronder onze analyse: wat de specificaties zeggen, wat de hybride werking oplevert, hoe het merk zich verhoudt tot ATAG en Daikin, en welke installatiefouten je moet uitsluiten.
 
 *Disclosure: geen commerciële relatie met Bosch of hun installateurs. De informatie hieronder is gebaseerd op eigenaarservaringen, technische documentatie en praktijkmetingen.*
 
@@ -123,34 +123,24 @@ Dit bivalentpunt is cruciaal: stel je het te vroeg in, dan draait de cv-ketel me
 
 ---
 
-## Praktijkresultaten: Anja en Pieter in Apeldoorn
+## Rekenvoorbeeld: vrijstaand huis label D
 
-**Installatie — Vrijstaand huis 1969, label D, Compress 7800i hybride 8 kW**
+Onderstaand een **modelberekening**, geen meting. Uitgangspunten: vrijstaand huis uit 1969 van circa 148 m², label D, ongeïsoleerde spouwmuur, radiatoren op 60°C aanvoer, gasverbruik voor installatie 2.950 m³ per jaar, en een Compress 7800i hybride van 8 kW. Prijzen: gas €1,05/m³, elektriciteit €0,23/kWh.
 
-Woning: 148 m², spouwmuur niet geïsoleerd, vloer deels geïsoleerd, radiatoren op 60°C aanvoer. Gasverbruik voor installatie: 2.950 m³/jaar. Installatie oktober 2024.
+De bepalende aanname is welk deel van de warmtevraag de warmtepomp overneemt. Bij een hybride met een correct ingesteld bivalentpunt draait de warmtepomp op het overgrote deel van de Nederlandse stookdagen, simpelweg omdat die boven het vriespunt liggen; de ketel springt alleen bij tijdens de koudepiek.
 
-Data over het stookseizoen oktober 2024 – april 2025 (7 maanden, dus niet een volledig jaar):
+- Resterend gasverbruik: circa 600 m³ per jaar, inclusief koken en zomers warmwater
+- Gasbesparing: circa 2.350 m³ × €1,05 = **circa €2.470**
+- Extra elektriciteitsverbruik warmtepomp: circa 3.600 kWh × €0,23 = **circa €830**
+- **Netto besparing in dit model: circa €1.640 per jaar**
 
-- Elektriciteitsverbruik warmtepomp: 2.100 kWh over 7 maanden
-- Gasverbruik warmtepomp + ketel over zelfde periode: 420 m³ (was 2.050 m³ seizoensschatting vóór installatie)
-- Gasverbruik rest van jaar (zomer, koken): 180 m³
-
-Extrapolatie naar een vol jaar:
-- Geschat elektriciteitsverbruik warmtepomp: ~3.600 kWh
-- Geschat gasverbruik: 420 + 180 = 600 m³/jaar (was 2.950 m³)
-- Gasbesparing: 2.350 m³ × €1,05 = **€2.468**
-- Extra elektriciteitskosten: 3.600 kWh × €0,23 = **€828**
-- Netto besparing geschat jaar 1: **€1.640**
-
-Dat is opvallend goed voor een label D-woning. De hybride werking is de verklaring: de warmtepomp levert het gros van de warmte bij temperaturen boven 0°C (wat in Nederland de meeste stookdagen betreft), en de ketel springt er alleen bij tijdens de koudepiek van januari.
-
-Anja: "We hadden eigenlijk verwacht dat we meer zouden bijstoken dan het apparaat zei. Maar we hebben de ketel eigenlijk nauwelijks gehoord, behalve in die ene ijskoude week in januari."
+Dat is voor een label D-woning een sterk resultaat, en de verklaring zit volledig in de hybride werking: de warmtepomp draait op de milde dagen waar de COP hoog is, en de ketel neemt de dagen over waar de COP zou instorten. Precies daarom is het bivalentpunt de belangrijkste instelling van dit systeem — zie de installatiefouten verderop.
 
 ---
 
 ## Besparingsberekening over 10 jaar
 
-Ik gebruik de situatie van Anja en Pieter als representatieve casus voor een matig geïsoleerde vrijstaande woning (label D, hybride installatie):
+Onderstaand het bovenstaande rekenvoorbeeld uitgezet over tien jaar, als representatief geval voor een matig geïsoleerde vrijstaande woning met label D en een hybride installatie:
 
 | Jaar | Jaarlijkse besparing | Cumulatief | Cumulatieve kosten |
 |---|---|---|---|
@@ -192,7 +182,7 @@ Als je de komende jaren ook nog isoleert (spouwmuur, vloer), stijgt de besparing
 | Sterk punt | Hybride + label D-woningen | NL-service, cv-integratie | SCOP, geluid, modulatie |
 | Zwak punt | Grote buitenunit, R290 wachtlijst | Hogere aanvoertemp. HT ontbreekt | Prijs, levertijden |
 
-**Mijn lezing van de vergelijking:**
+**Onze lezing van de vergelijking:**
 
 - **Bosch** is de sterkste keuze als hybride toepassing de prioriteit heeft en je woning label D of slechter heeft. De integratie met Bosch cv-ketels is doordacht en het dealernetwerk is in Nederland goed gedekt.
 - **ATAG** presteert vergelijkbaar in hybride context, maar is goedkoper als je al een ATAG-ketel hebt. Max. aanvoertemperatuur bij ATAG is 65°C (HT), wat voor sommige oudere radiatoren noodzakelijk is.
@@ -256,11 +246,11 @@ Ten opzichte van Daikin zijn de levertijden van Bosch gunstig: 3 tot 8 weken voo
 
 ## Veelgemaakte fouten bij de Bosch Compress-installatie
 
-Na het volgen van Anja en Pieter en gesprekken met Bosch ABZ Water Comfort installateurs, zie ik dezelfde fouten terugkomen.
+Bij de installatie van dit systeem komen steeds dezelfde vijf fouten terug. Alle vijf zijn vóór ondertekening of bij oplevering uit te sluiten.
 
 ### 1. Bivalentpunt te hoog instellen
 
-Bij de Compress 7800i hybride is het bivalentpunt standaard ingesteld op 0°C. Dat is conservatief. In een gemiddelde label D-woning kun je het bivalentpunt veilig verlagen naar -5°C, waardoor de warmtepomp meer uren draait en de ketel minder bijstookt. Bij Anja en Pieter was het bivalentpunt initieel op +2°C ingesteld — na aanpassing naar -4°C daalde het gasverbruik met nog eens 65 m³/jaar extra.
+Bij de Compress 7800i hybride staat het bivalentpunt standaard op 0°C, en dat is conservatief. In een gemiddelde label D-woning kan het veilig omlaag naar circa -5°C, waardoor de warmtepomp meer uren draait en de ketel minder bijstookt. Dit is de instelling die bij oplevering het vaakst op de fabriekswaarde blijft staan — of zelfs te hoog wordt gezet. Vraag je installateur expliciet welk bivalentpunt is ingesteld en laat het aanpassen. Het is de goedkoopste manier om je gasverbruik verder te verlagen: elke graad lager betekent extra stookuren op de warmtepomp in plaats van op gas.
 
 ### 2. Buitenunit zonder fundament plaatsen
 
@@ -276,7 +266,7 @@ Bosch brengt in 2026 R290-propaan modellen op de markt — milieuvriendelijker (
 
 ### 5. De grote buitenunit niet meten voor de offerteacceptatie
 
-Ik heb situaties gezien waarbij een eigenaar een offerte accepteerde, de installateur langskwam en concludeerde dat de buitenunit niet paste tussen de erfgrens en de muur van het huis. De Compress 7800i 8 kW heeft een breedte van circa 117 cm — meet dit altijd zelf na vóór je tekent.
+Dit gaat regelmatig mis: de offerte is geaccepteerd, de installateur komt langs en concludeert dat de buitenunit niet tussen de erfgrens en de muur past. De Compress 7800i 8 kW is volgens de specificaties circa 117 cm breed, en dat is breder dan de meeste concurrenten. Meet de beschikbare ruimte zelf na vóórdat je ondertekent, en houd rekening met de vrije ruimte rondom die de fabrikant voorschrijft voor de luchtstroom.
 
 ## Onderhoudskosten over 10 jaar
 
@@ -294,15 +284,15 @@ Bosch ABZ Water Comfort biedt onderhoudscontracten via zijn dealer-netwerk. Een 
 
 Bosch biedt garantieverlenging tot 7 jaar via servicecontracten (€240-€290/jaar, inclusief beide systemen). Voor eigenaren die ontzorgd willen zijn, is dat een redelijke deal.
 
-Vergelijking: bij Anja en Pieter kost het onderhoudscontract €265/jaar. Hun jaarlijkse besparing is €1.640. Netto, na onderhoud: **€1.375/jaar**. De terugverdientijd verschuift van 6 naar 6,5 jaar — nog steeds solide.
+In het rekenvoorbeeld hierboven kost een onderhoudscontract circa €265 per jaar tegenover een jaarlijkse besparing van circa €1.640. Netto blijft dan rond de €1.375 per jaar over, waardoor de terugverdientijd van ongeveer zes naar zes en een half jaar verschuift — nog steeds solide, maar reken deze post altijd mee.
 
 ## Combinatie met zonnepanelen: de berekening voor label D
 
-Anja en Pieter overwegen in 2027 zonnepanelen. Ik heb de berekening voor hen gemaakt.
+Wat voegen zonnepanelen toe aan een hybride warmtepomp? Minder dan veel mensen verwachten, en de reden is een timingprobleem.
 
-**Aanname:** 10 panelen, opwek 3.200 kWh/jaar.
+**Aanname in dit model:** 10 panelen met een jaaropbrengst van circa 3.200 kWh, bij een warmtepomp die circa 3.600 kWh per jaar verbruikt.
 
-Hun warmtepomp verbruikt circa 3.600 kWh/jaar (extrapolatie). Op basis van tijdgebruik: warmtepomp draait voornamelijk 's ochtends vroeg en vroeg in de avond, met name in de winter. In de winter is de opwek van de panelen laag. Het eigenverbruik van de warmtepomp via de panelen schat ik op circa 35%: 3.600 × 0,35 = 1.260 kWh/jaar.
+Het knelpunt: een warmtepomp draait vooral in de winter, en dan vroeg in de ochtend en aan het begin van de avond. Precies in die maanden en op die uren is de opbrengst van je panelen minimaal. Het deel van het warmtepompverbruik dat je daadwerkelijk uit eigen opwek kunt dekken, blijft daarom beperkt tot ergens rond een derde — in dit model circa 1.260 kWh per jaar.
 
 **Besparing:**
 - Via eigenverbruik: 1.260 kWh × €0,23 = €290/jaar
@@ -336,7 +326,7 @@ Voor de R32-modellen (7800i 6/8/10 kW): 3-7 weken bij de meeste Bosch ABZ Water 
 
 ## Conclusie: de verstandige keuze voor wie niet wil wachten op renovatie
 
-De Bosch Compress 7800i hybride is de warmtepomp die ik Anja en Pieter aanraadde, en die aanbeveling heb ik niet te betreuren. Ze besparen meer dan verwacht, het systeem werkt probleemloos en het geeft hen de ruimte om later, op hun eigen tempo, te isoleren en de ketel definitief uit te zetten.
+De Bosch Compress 7800i hybride is voor een woning met label D of slechter een van de sterkste keuzes op de markt. De hybride opzet levert bij een goed ingesteld bivalentpunt een aanzienlijke gasbesparing op, terwijl je de ruimte houdt om later, op je eigen tempo, te isoleren en de ketel definitief uit te zetten.
 
 Dat is precies wat de hybride variant biedt: een realistisch pad naar verduurzaming zonder de druk van "eerst alles aanpakken of niets". Voor woningbezitters met label D of slechter — en dat zijn er in Nederland nog heel wat — is dit vaak een veel verstandiger instappunt dan een dure all-electric installatie in een huis dat daar nog niet klaar voor is.
 
@@ -348,7 +338,7 @@ Heb je een Bosch cv-ketel, een woning met label D of slechter, en wil je nu begi
 
 ---
 
-*Vragen over jouw specifieke situatie — type woning, bestaande ketel, isolatieplannen of ISDE-aanvraag? Laat het hieronder weten, ik lees mee.*
+*Vragen over jouw specifieke situatie — type woning, bestaande ketel, isolatieplannen of ISDE-aanvraag? Laat het hieronder weten; wij lezen mee.*
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Tibber Pulse P1-meter review 2026 — concurrent voor HomeWizard P1
 date: 2026-11-17 08:00:00+01:00
-lastmod: 2026-11-17 08:00:00+01:00
-description: De Tibber Pulse leest je slimme meter uit en geeft realtime verbruiksinzicht. Volledige review na 6 maanden testen — vergelijking met HomeWizard P1.
+lastmod: '2026-08-19 08:00:00+02:00'
+description: De Tibber Pulse leest je slimme meter uit en geeft realtime verbruiksinzicht. Volledige review op basis van specificaties, app-functies en gebruikersreviews — met vergelijking tegen HomeWizard P1.
 categories:
 - energiemonitoring
 - slimme meter
@@ -34,7 +34,7 @@ faq:
 - q: 'Werkt de Pulse met andere energieleveranciers?'
   a: 'Beperkt. De Pulse zelf leest gewoon je meter uit, maar de Tibber-app vereist een Tibber-contract om alle features te tonen. Voor wie geen Tibber wil: kies HomeWizard P1 of Youless.'
 - q: 'Is mijn meter compatibel?'
-  a: 'Vrijwel alle Nederlandse slimme meters geplaatst na 2015 hebben een P1-poort. Check: kijk onderaan je meterkast of er een RJ12-aansluiting met "P1" label zit. Bij twijfel: foto sturen naar Tibber-support, antwoord binnen 24 uur.'
+  a: 'Vrijwel alle Nederlandse slimme meters geplaatst na 2015 hebben een P1-poort. Check: kijk onderaan je meterkast of er een RJ12-aansluiting met "P1" label zit. Bij twijfel kun je een foto naar Tibber-support sturen.'
 - q: 'Hoe moeilijk is de installatie?'
   a: 'Plug-and-play. Stekker in P1-poort, voeding via meegeleverde USB-stroomadapter (sommige modellen werken zonder externe voeding), wifi-koppeling via app. Totale installatie: 5-10 minuten. Geen monteur nodig.'
 - q: 'Wat zie ik in de app?'
@@ -54,11 +54,11 @@ products:
 schema_type: Review
 ---
 
-*Disclosure: dit artikel bevat affiliate links. Sluit je via mijn link een Tibber-contract af, dan krijg ik een commissie zonder dat het jou iets extra kost. Mijn oordeel verandert daar niet door — ik adviseer alleen wat ik zelf gebruik.*
+*Disclosure: dit artikel bevat affiliate links. Sluit je via onze link een Tibber-contract af, dan ontvangen wij een commissie zonder dat het jou iets extra kost. Ons oordeel verandert daar niet door: wij beoordelen op specificaties, handleidingen, app-functies, geverifieerde gebruikersreviews en publieke data.*
 
-In mei 2026 heb ik mijn eigen meterkast omgebouwd: drie apparaatjes naast elkaar geprikt in een P1-splitter. HomeWizard P1, Youless en Tibber Pulse. Zes maanden lang dezelfde meter, drie verschillende apps. Wie wint?
+Er zijn in Nederland drie P1-meters die je serieus tegen elkaar afweegt: HomeWizard P1, Youless en de Tibber Pulse. Ze doen technisch hetzelfde — je slimme meter uitlezen — maar verschillen sterk in wat de bijbehorende app ermee doet, en in hoe vrij je blijft in je keuze van energieleverancier.
 
-Dit is geen marketing-vergelijking. Dit zijn cijfers, ergernissen en eerlijke conclusies van iemand die zes maanden lang écht gebruik heeft gemaakt van alle drie.
+Dit is geen marketing-vergelijking. Wij zetten de fabrieksspecificaties, de app-functies, de voorwaarden en wat gebruikers erover rapporteren naast elkaar, en benoemen expliciet waar geen betrouwbare cijfers over bestaan.
 
 ---
 
@@ -78,28 +78,30 @@ De Tibber Pulse is een klein draadloos apparaatje dat in de P1-poort van je slim
 
 Tibber positioneert het apparaat als noodzakelijk onderdeel van hun dynamisch contract. Zonder Pulse: geen realtime spotmarkt-koppeling, geen Tibber Charger automatisering, geen Tibber Battery Control.
 
-## Mijn meterkast-experiment
+## De drie kandidaten naast elkaar
 
-Ik heb sinds mei 2026 een P1-splitter (€18 op Amazon) in mijn meter geprikt. Drie apparaten parallel:
+Wil je meerdere P1-meters tegelijk gebruiken, dan kan dat via een P1-splitter (rond de 18 euro). Dat is nuttig als je bijvoorbeeld de app van je leverancier én een lokale integratie wilt draaien. De drie apparaten die in Nederland het meest gekozen worden:
 
 1. **HomeWizard P1** (€69) — Nederlandse standaard, lokale API
-2. **Youless LS120** (€89) — oude vertrouwde optie, lokale data
-3. **Tibber Pulse** (€119 los, €0 bij Tibber-contract) — voor Tibber dynamisch contract
+2. **Youless LS120** (€89) — de oudere optie, lokale data via ethernet
+3. **Tibber Pulse** (€119 los, €0 bij Tibber-contract) — gericht op het Tibber dynamisch contract
 
-Doel: zes maanden lang vergelijken op data-kwaliteit, app-ervaring, integratie en betrouwbaarheid.
+## Specificaties vergeleken
 
-## Zes maanden in cijfers
+Onderstaande waarden komen uit de fabrieksspecificaties en de documentatie van de fabrikanten:
 
 | Aspect | HomeWizard P1 | Youless LS120 | Tibber Pulse |
 |---|---|---|---|
-| Uptime (van 4380 uren) | 4378 | 4365 | 4372 |
-| Datalek (gemiste seconden) | 0,05% | 0,35% | 0,18% |
-| App-stabiliteit | Stabiel | Stabiel | Heel stabiel |
-| Realtime delay | 1-2 sec | 5-10 sec | <1 sec |
-| Energie-inzicht (1-10) | 8 | 6 | 9 |
-| Integratie ecosystem (1-10) | 9 | 5 | 8 |
+| Update-interval (opgegeven) | 1 seconde | 10 seconden | 1 seconde (Pulse 2) |
+| Verbinding | wifi + lokale API | ethernet | wifi, via Tibber-cloud |
+| Lokale uitlezing zonder cloud | ja | ja | nee |
+| Spotmarkt-prijzen in eigen app | nee | nee | ja, met Tibber-contract |
+| Gasmeter via P1 | ja | ja | ja (Pulse 2) |
+| Prijs los | €69 | €89 | €119 |
 
-Tibber Pulse is technisch de scherpste — laagste realtime delay, beste data-kwaliteit op spotmarkt-koppeling. HomeWizard wint op ecosystem (lokale API, breedte van integraties). Youless verliest op alle fronten in 2026.
+Wat de specificaties laten zien: de Tibber Pulse en de HomeWizard P1 zijn qua meetfrequentie gelijkwaardig, de Youless loopt met 10 seconden achter. Het echte verschil zit niet in de hardware maar in de software: de Pulse koppelt native aan spotmarktprijzen, de HomeWizard biedt een lokale API en daarmee de bredere integratiemogelijkheden.
+
+Over uptime en datakwaliteit in de praktijk publiceert geen van de drie fabrikanten cijfers, en er bestaat geen onafhankelijke Nederlandse test die dit gemeten heeft. Cijfers daarover die online circuleren, zijn niet te herleiden — wij nemen ze daarom niet over.
 
 ## Wat Tibber Pulse goed doet
 
@@ -107,7 +109,7 @@ Tibber Pulse is technisch de scherpste — laagste realtime delay, beste data-kw
 
 Dit is het hoofdvoordeel. De Tibber-app toont realtime: "nu kost stroom €0,12/kWh, om 15:00 €0,38/kWh, om 02:00 vannacht €0,03/kWh". Niet alleen je verbruik, maar wat het je nu en straks gaat kosten.
 
-In mijn praktijk: ik plan vaatwasser, droger en oven nu volledig op basis van Tibber-prijzen. Bespaar daarmee ~€15-€20 per maand vergeleken met onbewust gebruik.
+Praktisch nut: je kunt vaatwasser, droger en oven plannen op de goedkoopste uren van de dag. Hoeveel dat oplevert, hangt volledig af van je eigen verbruikspatroon en van de prijsspreiding op je contract — reken het door met je eigen kWh-aantallen in plaats van met een gemiddelde.
 
 ### 2. Voorspellingen
 
@@ -117,7 +119,7 @@ De app toont 24 uur vooruit wat je kunt verwachten. Inclusief weer-correctie (zo
 
 Als je een [Tibber-compatibele laadpaal](/posts/tesla-model-3-slim-laden-tibber-2026/) hebt: de Pulse + Tibber-app stuurt automatisch je auto-laden op de goedkoopste uren. Geen handmatige planning nodig.
 
-In mijn praktijk: bespaar €40-€50 per maand op EV-laden door automatisering.
+Dit is doorgaans de grootste besparingspost, simpelweg omdat een EV-laadsessie veel kWh bevat: het verschil tussen je gemiddelde uurtarief en het nachttarief werkt direct door in de laadkosten.
 
 ### 4. Battery Control integratie
 
@@ -151,7 +153,7 @@ Als je later overstapt naar Frank Energie of ANWB Energie: de Pulse blijft je me
 
 ### 4. Wifi-afhankelijk
 
-Pulse heeft een stabiele wifi-verbinding nodig. In meterkast in de kelder waar wifi marginaal is: kan problemen geven. Ik moest een wifi-repeater plaatsen.
+Pulse heeft een stabiele wifi-verbinding nodig. In een meterkast in de kelder, waar het wifi-signaal vaak marginaal is, kan dat problemen geven. Reken in dat geval op een extra wifi-repeater of accesspoint.
 
 HomeWizard P1 werkt ook lokaal — minder wifi-kritisch.
 
@@ -209,20 +211,20 @@ Voor wie nog twijfelt over de oude Youless:
 
 ## Concrete jaarberekening: wat levert de Pulse op?
 
-**Mijn eigen verbruik 2026** met Tibber + Pulse + dynamisch contract + slim apparaatgebruik:
+Onderstaande tabel is een **modelberekening**, geen meting: het zijn de rekenregels waarmee je je eigen situatie kunt doorrekenen. De genoemde bedragen horen bij de aannames in de kolom rechts — vul je eigen aantallen in.
 
-| Bron van besparing | Schatting jaar | Toelichting |
+| Bron van besparing | Modelbedrag | Aanname in het model |
 |---|---|---|
-| Slim wasmachine/droger plannen | €180/jaar | 200 wasbeurten × €0,90 besparing |
-| Vaatwasser op goedkope uren | €60/jaar | Avond/nacht in plaats van piek |
-| Slim EV-laden (Tibber Charger) | €600/jaar | 10.000 km × €0,06/km bespaard |
-| Bewust verbruik door inzicht | €120/jaar | Sluipverbruik weg, vampire devices uit |
-| Spotmarkt-arbitrage zonder batterij | €40/jaar | Beperkt zonder batterij, wel iets |
-| **Totaal jaar 2026** | **€1.000/jaar** | |
+| Slim wasmachine/droger plannen | €180/jaar | 200 wasbeurten × €0,90 verschil tussen piek- en daluur |
+| Vaatwasser op goedkope uren | €60/jaar | 250 beurten, nacht in plaats van avondpiek |
+| Slim EV-laden (Tibber Charger) | €600/jaar | 10.000 km, €0,06/km verschil tussen gemiddeld en nachttarief |
+| Bewust verbruik door inzicht | €120/jaar | 400 kWh minder sluipverbruik |
+| Spotmarkt-arbitrage zonder batterij | €40/jaar | beperkt zonder batterij, wel verschuiving mogelijk |
+| **Totaal in dit model** | **circa €1.000/jaar** | staat of valt met bovenstaande aannames |
 
-Voor Tibber-klanten: Pulse is gratis bij contract, dus alle besparing is pure winst. **Terugverdientijd**: meteen.
+Belangrijk: dit bedrag geldt alleen bij een EV die thuis laadt en bij een flinke prijsspreiding op je contract. Zonder EV valt de grootste post weg en blijft er in dit model een paar honderd euro over. Wie geen dynamisch contract heeft, haalt van deze posten niets.
 
-Voor niet-Tibber-klanten die €119 betalen + €0 abonnement: terugverdientijd ~6 weken. Klein, want voor non-Tibber-gebruikers werkt 70% van de Pulse-functies niet (spotmarkt-arbitrage, Tibber Charger, Battery Control).
+Voor Tibber-klanten is de Pulse gratis bij contract, dus is er niets terug te verdienen. Wie €119 los betaalt zonder Tibber-contract, koopt in feite alleen de monitoringfunctie: de spotmarkt-arbitrage, Tibber Charger en Battery Control werken dan niet.
 
 ## Voor wie is de Tibber Pulse slim?
 
@@ -240,11 +242,9 @@ Voor niet-Tibber-klanten die €119 betalen + €0 abonnement: terugverdientijd 
 - Iemand die €119 wil besparen door HomeWizard te kiezen (€50 verschil)
 - Wifi-onstabiele meterkast
 
-## Installatie-ervaring
+## Installatie
 
-Mijn eigen installatie: 8 minuten van uitpakken tot werkend.
-
-**Stappen**:
+Tibber geeft voor de installatie een indicatie van 5 tot 10 minuten op; gebruikersreviews melden overwegend dat dat realistisch is. De stappen volgens de handleiding:
 1. Doosje openen, Pulse + USB-C kabel + voeding eruit (Pulse 1) of alleen Pulse (Pulse 2)
 2. Stekker in P1-poort van meter
 3. USB-C in stopcontact (alleen Pulse 1)
@@ -255,11 +255,11 @@ Mijn eigen installatie: 8 minuten van uitpakken tot werkend.
 
 Geen monteur, geen technische kennis, geen meterkast aanpassen. Tibber stelt deze stappen bewust laagdrempelig in.
 
-## Software-ervaring
+## De Tibber-app: wat hij wel en niet doet
 
-Zes maanden Tibber-app:
+Op basis van de functiebeschrijving van Tibber en wat gebruikers in reviews terugkoppelen:
 
-**Wat werkt fantastisch:**
+**Sterke punten:**
 - "Vandaag verdiend €X" of "vandaag bespaard €X" feel-good cijfer
 - Spotmarkt-prijzen 24u vooruit
 - Push-notificaties bij grote prijs-stijgingen
@@ -267,11 +267,11 @@ Zes maanden Tibber-app:
 - Multi-meter weergave (als je meerdere panden hebt)
 - Eenvoudige facturatie-export
 
-**Wat minder werkt:**
-- Geen geavanceerde rapportages (uur-CSV bestaat niet)
-- Beperkte tagging van apparaten (kun je niet zeggen "dit is de droger")
-- Voorspellingen kloppen 85% van de tijd — niet altijd
-- Home Assistant integratie via cloud (geen lokale fallback)
+**Aandachtspunten:**
+- Geen geavanceerde rapportages (een CSV-export op uurniveau ontbreekt)
+- Beperkte tagging van apparaten (je kunt niet aangeven "dit is de droger")
+- De prijsvoorspelling voor de volgende dag is een verwachting, geen zekerheid — hoe verder vooruit, hoe groter de afwijking
+- Home Assistant-integratie loopt via de cloud, zonder lokale fallback
 
 ## Beveiliging en privacy
 
@@ -306,7 +306,7 @@ Ja, in dezelfde Tibber-account kun je meerdere Pulses koppelen. Handig voor woni
 
 ## Tibber als bedrijf en je P1-data
 
-Tibber is een Noors bedrijf (opgericht 2016 in Oslo) actief in 6 Europese landen waaronder NL sinds 2018. Beursgenoteerd in Noorwegen, revenu in 2025 ~€450 miljoen. Stabiel en groeiend.
+Tibber is een Noors bedrijf, opgericht in 2016 in Oslo, en sinds 2018 actief in Nederland. Het bedrijf is in meerdere Europese landen actief. Een actuele omzet noemen wij niet: Tibber publiceert die niet consistent, en de bedragen die op vergelijkingssites rondgaan zijn niet naar een jaarrekening te herleiden.
 
 **Wat ze met je P1-data doen**:
 - Aggregeren voor spotmarkt-handel optimalisatie
@@ -336,33 +336,19 @@ Voor wie nu een Pulse aanschaft: je krijgt automatisch Pulse 2. Voor wie al Puls
 
 ## Slim apparaatgebruik op basis van Pulse-data
 
-Wat doe ik concreet anders sinds ik de Pulse heb? Hier mijn gewoontes:
+Wat verandert er concreet in je huishouden zodra je op prijs kunt plannen? De vier verschuivingen die het meeste opleveren, met de rekenregel erbij:
 
-**Vaatwasser**:
-- Voor Pulse: aanzetten na avondeten, ~19:00 piek-uur
-- Met Pulse: aanzetten op timer 02:00-04:00 (vaak <€0,05/kWh)
-- Besparing: ~€60/jaar
+**Vaatwasser** — van na het avondeten (rond 19:00, piekuur) naar de timer tussen 02:00 en 04:00. Winst per beurt: het verschil tussen piek- en nachttarief maal circa 1 kWh.
 
-**Wasdroger**:
-- Voor Pulse: gebruiken wanneer wasje klaar was
-- Met Pulse: alleen tussen 11:00-15:00 (zonne-overproductie) of nacht
-- Besparing: ~€80/jaar
+**Wasdroger** — van "wanneer het wasje klaar is" naar het middagvenster 11:00-15:00 (bij zonneoverschot vaak de goedkoopste uren) of de nacht. Een droger trekt 2 tot 4 kWh per beurt, dus het tariefverschil weegt hier zwaarder dan bij de vaatwasser.
 
-**Inductiekookplaat**:
-- Geen verandering — moet meestal direct gebruikt worden
-- Wel: koken op spotmarkt-dieptes (lunch ipv vroeg-avond) bespaart €20/jaar
+**EV-laden** — van laden zodra je thuiskomt naar automatisch laden in het nachtvenster. Dit is de grootste post: reken je jaarkilometers × ongeveer 0,18 kWh/km × het tariefverschil per kWh.
 
-**EV-laden**:
-- Voor Pulse: aanzetten als ik thuiskwam, vaak in piek
-- Met Pulse + Tibber Charger: automatisch 02:00-05:00
-- Besparing: €600/jaar bij 10.000 km
+**Warmtepomp** — van pure regeling op binnentemperatuur naar prijsbewust vooruit opwarmen bij goedkope uren. De winst hangt af van hoeveel thermische massa je woning heeft; in een slecht geïsoleerd huis lekt het voordeel snel weg.
 
-**Warmtepomp**:
-- Voor Pulse: standaard regeling op binnentemperatuur
-- Met Pulse: spotmarkt-aware (extra opwarmen bij goedkope uren, terugschakelen bij dure uren)
-- Besparing: €120/jaar
+**Inductiekoken** verschuift in de praktijk niet: koken moet op het moment dat je eet.
 
-**Totaal**: ongeveer €880/jaar besparing puur door beter gepland verbruik. Plus arbitrage als je een batterij hebt.
+Een totaalbedrag noemen wij hier bewust niet — dat is precies de plek waar reviews de mist ingaan. De uitkomst wordt volledig bepaald door je jaarverbruik, of je een EV hebt en hoe groot de prijsspreiding op jouw contract is.
 
 ## P1-meter zonder Tibber: 3 alternatieven
 
@@ -388,7 +374,7 @@ Voor wie niet voor Tibber kiest maar wel realtime inzicht wil:
 
 Voor 95% van de lezers: HomeWizard P1 als je geen Tibber wilt.
 
-## Wat als ik een batterij + Tibber + Pulse combineer?
+## Batterij plus Tibber plus Pulse: wat voegt dat toe?
 
 Dit is de optimale setup in 2026 voor maximale energie-arbitrage:
 
@@ -398,39 +384,36 @@ Dit is de optimale setup in 2026 voor maximale energie-arbitrage:
 - Sessy / Marstek / Anker thuisbatterij (€5.000-€13.500)
 - Eventueel EV-laadpaal Tibber-compatibel
 
-**Effectieve opbrengst**: 
-- €1.500-€2.500/jaar arbitrage batterij
-- €600-€900/jaar EV-laden besparing
-- €800-€1.000/jaar slim huishoudverbruik
-- **Totaal**: €2.900-€4.400/jaar besparing
+Wat deze combinatie oplevert, wordt bepaald door één variabele: de dagelijkse prijsspreiding op de EPEX day-ahead-markt. Hoe groter het verschil tussen het goedkoopste en het duurste uur, hoe meer een batterij per cyclus verdient. Die spreiding verschilt sterk per seizoen en per jaar, en niemand kan die voor de komende tien jaar hard maken.
 
-Voor wie alle elementen heeft: terugverdientijd hardware in 4-6 jaar, daarna pure winst.
+De rekenregel voor batterij-arbitrage: bruikbare capaciteit in kWh × het aantal cycli per jaar × de gemiddelde spreiding per kWh, minus de omzetverliezen (round-trip rendement is bij LiFePO4-systemen doorgaans 85 tot 90 procent volgens de specificaties). Vul daar je eigen batterijcapaciteit en de spreiding van het afgelopen jaar in.
+
+Wij noemen hier geen totaalbedrag en geen terugverdientijd: met een spreiding die per jaar verandert, zou elk getal een schijnzekerheid zijn. Reken zelf door met een pessimistisch en een optimistisch scenario, en kijk of de investering in het pessimistische scenario nog acceptabel is.
 
 ## Tibber Pulse voorspellingen: hoe accuraat?
 
-Tibber-app toont 24 uur vooruit verwachte spotmarkt-prijzen. Ik heb 6 maanden de voorspellingen vergeleken met daadwerkelijke prijzen:
+De Tibber-app toont 24 uur vooruit de verwachte prijzen. Hoe hard die zijn, verschilt per deel van dat venster, en dat komt niet door de app maar door de markt zelf.
 
-| Voorspelling | Werkelijke afwijking |
-|---|---|
-| 0-6 uur vooruit | <5% |
-| 6-12 uur vooruit | 5-10% |
-| 12-24 uur vooruit | 10-20% |
+De EPEX day-ahead-veiling stelt de uurprijzen voor de volgende dag rond 13:00 definitief vast. Alles wat de app tot dat moment laat zien, is een verwachting; daarna zijn de prijzen tot het einde van de volgende dag een vaststaand gegeven. Dat betekent in de praktijk:
 
-Voor dagelijkse planning (vaatwasser vanavond? droger morgenochtend?): voorspelling is betrouwbaar genoeg. Voor lange-termijn arbitrage strategie: alleen de eerste 12 uur betrouwbaar.
+- **Tot de veiling van 13:00**: de prijzen voor morgen zijn een voorspelling en kunnen nog schuiven.
+- **Na de veiling**: de prijzen voor de rest van vandaag en de hele dag van morgen staan vast — daarop plannen is exact.
+
+Voor dagelijkse planning (vaatwasser vanavond, droger morgenochtend) is dat ruim voldoende. Een percentage voor de afwijking van de voorspelling vóór de veiling noemen wij niet: Tibber publiceert die accuraatheid niet, en er is geen openbare meting van.
 
 ## Onderhoud Pulse
 
-Niets. Echt niets. Sinds installatie (mei 2026) heb ik de Pulse niet aangeraakt. Geen firmware-updates handmatig, geen reset, geen kabel-wiebelen. Bij wifi-uitval: zodra wifi terug is, Pulse hervat zelf binnen 30 seconden.
+Er is geen periodiek onderhoud voorzien. Firmware-updates gaan volgens Tibber automatisch over de lucht, er zijn geen bewegende delen en geen filters. Bij een wifi-storing herstelt het apparaat de verbinding zelf zodra het netwerk terug is.
 
-Twee jaar later (volgens Tibber-data): nog steeds geen onderhoud nodig. Een van de weinige tech-apparaten met écht zero maintenance.
+Het enige praktische aandachtspunt dat in gebruikersreviews terugkomt, is de wifi-dekking in de meterkast: is die marginaal, dan zie je gaten in je data. Dat is een netwerkprobleem, geen onderhoudspunt van de Pulse.
 
 ---
 
-## Mijn aanbeveling
+## Onze aanbeveling
 
-Voor mijn eigen meterkast heb ik de Pulse, HomeWizard P1 en Youless zes maanden naast elkaar gehad. De Pulse wint qua spotmarkt-integratie en gebruiksgemak, mits je een Tibber-contract hebt.
+Zet je de drie naast elkaar op specificaties en functies, dan wint de Pulse op spotmarkt-integratie en gebruiksgemak — maar alleen als je een Tibber-contract hebt of wil.
 
-Voor wie geen Tibber-contract heeft of wil: kies HomeWizard P1. Goedkoper, lokale API, breder ecosystem. De Pulse is dan €50 te duur voor 30% van zijn functies.
+Voor wie geen Tibber-contract heeft of wil: kies de HomeWizard P1. Goedkoper, lokale API, breder ecosysteem. De Pulse kost dan €50 meer terwijl de functies waarvoor je hem koopt (spotmarktprijzen, Charger, Battery Control) niet werken.
 
 Voor Tibber-klanten: Pulse is gratis en de meest geïntegreerde optie. No-brainer.
 

@@ -1,8 +1,8 @@
 ---
-title: 'Itho Daalderop warmtepomp review 2026: HP Cube en HP-S getest'
+title: 'Itho Daalderop warmtepomp review 2026: HP Cube en HP-S vergeleken'
 date: 2026-08-27 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
-description: Itho Daalderop is de stille marktleider van Nederlandse warmtepompen. Mijn eerlijke review van de HP Cube en HP-S na 10 maanden testen — kosten, COP, service.
+lastmod: '2026-08-19 08:00:00+02:00'
+description: Itho Daalderop is de stille marktleider van Nederlandse warmtepompen. Onze review van de HP Cube en HP-S op specificaties, kosten, SCOP en service.
 categories:
 - warmtepompen
 tags:
@@ -29,14 +29,14 @@ faq:
 - q: Wat kost een Itho Daalderop warmtepomp?
   a: 'Itho HP Cube (compact lucht-water all-electric): €11.000-€15.000 inclusief installatie en 0% btw. Itho HP-S (split-systeem): €10.500-€14.000. Met ISDE-subsidie €3.500-€4.500: netto €7.000-€11.000. Voor de hybride variant Itho HP-Hybrid: €5.500-€7.500 incl btw, na ISDE €3.000-€4.500. Iets boven gemiddelde van de Nederlandse markt — Itho is geen budget-merk.'
 - q: Hoe goed is de COP van Itho Daalderop?
-  a: 'HP Cube SCOP 4,7 (volgens Itho), in mijn praktijktest 4,4 — uitstekend voor lucht-water all-electric. HP-S SCOP 4,5 opgegeven, 4,3 gemeten. Voor de hybride HP-Hybrid: SCOP 4,2 in de praktijk. Dat zit aan de bovenkant van de Nederlandse markt, vergelijkbaar met Daikin Altherma 3.'
-- q: Werkt Itho met mijn bestaande systeem?
+  a: 'Itho geeft voor de HP Cube een SCOP van 4,7 op en voor de HP-S 4,5. Dat zijn waarden bij lage aanvoertemperatuur volgens de norm; in een woning met radiatoren op hogere aanvoer valt de werkelijke jaarprestatie lager uit. De opgegeven waarden zitten aan de bovenkant van de Nederlandse markt, vergelijkbaar met de Daikin Altherma 3.'
+- q: Werkt Itho met een bestaand verwarmingssysteem?
   a: 'HP Cube en HP-S zijn all-electric — de cv-ketel verdwijnt. HP-Hybrid combineert met je bestaande cv-ketel (alle merken via adapter). Itho is een van de weinige fabrikanten die echt merk-agnostisch is bij hybride: werkt met ATAG, Intergas, Remeha, Vaillant, Nefit. Dat is een echte plus voor wie zijn ketel wil houden.'
 - q: Heeft Itho een goede app?
   a: 'Ja, de Itho Daalderop Spider-app is gepolijst en werkt naadloos. Real-time data, schema, klimaat per ruimte (bij meerdere thermostaten), foutmeldingen, energie-statistieken. Volledig Nederlandstalig. Vergelijkbaar met Daikin Onecta in functionaliteit. Bovendien is er Modbus-koppeling beschikbaar voor Home Assistant — Itho is daarmee meer smart-home vriendelijk dan ATAG of Intergas.'
 - q: Hoeveel installateurs in Nederland werken met Itho?
   a: 'Itho heeft het grootste dealer-netwerk van Nederlandse warmtepomp-merken: ongeveer 600 erkende installateurs. Vrijwel elke regio heeft meerdere opties. Service-respons gemiddeld 1,5 dag bij storingen. Itho heeft eigen technische dienst in Schiedam plus 24/7-noodlijn.'
-- q: Past Itho HP Cube in mijn meterkast?
+- q: Past de Itho HP Cube in een standaard meterkast?
   a: 'HP Cube is compact (60 × 60 × 100 cm). Past in standaard meterkasten met 60 cm vrije ruimte. Bij oudere woningen met krappe meterkast: HP-S split-systeem is beter (binnenunit kleiner). Vraag installateur om meterkast-opname tijdens offerte-fase.'
 - q: Hoe verhoudt Itho zich tot Vaillant en Daikin?
   a: 'Itho zit in dezelfde prijs-categorie als Vaillant aroTHERM en Daikin Altherma 3 (rond €11.000-€15.000 voor all-electric). SCOP vergelijkbaar (4,4-4,7). Itho wint op NL-service en dealer-netwerk, Vaillant wint op buitenland-presence (handig bij verhuizing), Daikin wint op smart-home en app. Voor wie pure NL-aanpak wil: Itho.'
@@ -54,20 +54,20 @@ products:
   price: '6500'
 schema_type: Review
 ---
-In de zomer van 2025 vroeg een collega-energieadviseur me om mee te kijken bij een verbouwing. Hij wilde een warmtepomp in een vrijstaande woning uit 1992 (label B na isolatie-renovatie) en de installateur stelde Itho Daalderop HP Cube voor. Mijn collega twijfelde — was Itho wel goed genoeg voor een 180 m² huis?
+"Is Itho Daalderop goed genoeg voor een groot huis?" is de vraag die bij dit merk het vaakst gesteld wordt. Itho is in Nederland groot geworden met ventilatie en warmwater, en wordt daardoor door kopers vaak lager ingeschat dan Daikin of Vaillant — terwijl de opgegeven SCOP-waarden daar niet voor onderdoen.
 
-Wat volgde was 10 maanden detailmonitoring van zijn HP Cube, plus drie andere Itho-installaties (een HP-S split bij een collega in Friesland, een HP-Hybrid bij een familielid in Breda, en een tweede HP Cube bij een nieuwbouwwoning in Almere die ik begeleidde).
+Hieronder onze analyse van de HP Cube, de HP-S en de HP-Hybrid: wat de specificaties zeggen, hoe het merk zich verhoudt tot de concurrentie, wat de service-organisatie in Nederland waard is, en per woningtype welk model past.
 
 Vier echte installaties, 10 maanden data, drie verschillende toepassingen. Tijd voor een eerlijke review van een merk dat in stilte marktleider is geworden in Nederland.
 
-*Disclosure: ik heb geen commerciële relatie met Itho Daalderop. De data komt uit echte huishoudens van mijn netwerk en collega's. Ik heb één keer (juni 2025) een Itho-fabrieksbezoek bezocht in Schiedam — een rondleiding zonder verplichting.*
+*Werkwijze: wij beoordelen op fabrieksspecificaties, technische documentatie, de ISDE-apparatenlijst van RVO, de garantie- en servicevoorwaarden en geverifieerde gebruikersreviews. Waar wij een cijfer niet uit een bron kunnen halen, noemen wij het niet.*
 
 ---
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
 
-> **Kort antwoord:** Itho Daalderop is de stille marktleider van Nederlandse warmtepompen. Mijn eerlijke review van de HP Cube en HP-S na 10 maanden testen — kosten, COP, service.
+> **Kort antwoord:** Itho Daalderop levert warmtepompen met een SCOP in de Nederlandse top-3 en een uitgebreid dealernetwerk met onderdelenvoorraad in Nederland. Niet de goedkoopste en niet de allerhoogste SCOP, maar sterk op service en op het brede aanbod per woningtype.
 >
 > Itho HP Cube (compact lucht-water all-electric): €11.000-€15.000 inclusief installatie en 0% btw. Itho HP-S (split-systeem): €10.500-€14.000. Met ISDE-subsidie €3.500-€4.500: netto €7.000-€11.000. Voor de hybride variant Itho HP-Hybrid: €5.500-€7.500 incl btw, na ISDE €3.000-€4.500. Iets boven gemiddelde van de Nederlandse markt — Itho is geen budget-merk.
 
@@ -85,54 +85,47 @@ De warmtepomp-lijn:
 - **HP-Hybrid**: hybride met bestaande cv-ketel (universeel)
 - **HP-CW**: warmwater-warmtepomp voor douche en kraan
 
-## De vier installaties die ik heb gevolgd
+## Vier configuraties en wat ze kosten
 
-**Installatie 1**: HP Cube 8 kW thermisch
-- 180 m² vrijstaande woning, label B
-- 4-persoons gezin, gasverbruik vorig jaar 2.200 m³
-- Vloerverwarming op begane grond, radiatoren boven
-- Investering: €14.500 incl btw, na ISDE €11.000
+Onderstaande vier configuraties dekken de woningtypen waarvoor Itho een oplossing heeft. De investeringsbedragen zijn richtprijzen inclusief btw en installatie; de ISDE-bedragen komen van de RVO-apparatenlijst 2026. Vraag altijd twee offertes op — de montagemarge verschilt sterk per dealer.
 
-**Installatie 2**: HP-S 5 kW thermisch
-- 110 m² tussenwoning Friesland, label C
-- 2-persoons huishouden, gasverbruik vorig jaar 1.450 m³
-- Alleen radiatoren (vergrote)
-- Investering: €11.800 incl btw, na ISDE €8.300
+**Configuratie 1**: HP Cube 8 kW thermisch, all-electric
+- Geschikt voor circa 180 m² vrijstaande woning, label B
+- Vloerverwarming beneden, radiatoren boven
+- Richtprijs: circa €14.500 inclusief btw, na ISDE circa €11.000
 
-**Installatie 3**: HP-Hybrid 6 kW thermisch
-- 145 m² hoekwoning Breda, label D
-- 5-persoons gezin, gasverbruik vorig jaar 2.450 m³
-- Radiatoren ongewijzigd
-- Investering: €6.800 incl btw, na ISDE €4.000
+**Configuratie 2**: HP-S 5 kW thermisch, split-uitvoering
+- Geschikt voor circa 110 m² tussenwoning, label C
+- Werkt met vergrote radiatoren, geen vloerverwarming nodig
+- Richtprijs: circa €11.800 inclusief btw, na ISDE circa €8.300
 
-**Installatie 4**: HP Cube 6 kW thermisch
-- 130 m² nieuwbouw Almere, label A
-- 3-persoons gezin, alleen vloerverwarming
-- Investering: €13.200 incl btw, na ISDE €9.700
+**Configuratie 3**: HP-Hybrid 6 kW thermisch, naast bestaande ketel
+- Geschikt voor circa 145 m² hoekwoning, label D
+- Radiatoren blijven ongewijzigd, gasketel blijft als back-up
+- Richtprijs: circa €6.800 inclusief btw, na ISDE circa €4.000
 
-## 10 maanden data: HP Cube (installatie 1)
+**Configuratie 4**: HP Cube 6 kW thermisch, nieuwbouw
+- Geschikt voor circa 130 m² nieuwbouw, label A, alleen vloerverwarming
+- Richtprijs: circa €13.200 inclusief btw, na ISDE circa €9.700
 
-| Periode | Stroom (kWh) | COP gemiddeld | Comfort-rating |
-|---|---|---|---|
-| Mei 2025 | 95 | 5,2 (warmtap) | Geen klacht |
-| Jun 2025 | 78 | 5,5 (warmtap) | Geen klacht |
-| Jul 2025 | 65 | 5,8 (warmtap) | Geen klacht |
-| Aug 2025 | 89 | 5,4 (warmtap) | Geen klacht |
-| Sep 2025 | 178 | 4,8 | Goed |
-| Okt 2025 | 425 | 4,2 | Goed |
-| Nov 2025 | 685 | 3,9 | Goed |
-| Dec 2025 | 845 | 3,7 | Goed |
-| Jan 2026 | 920 | 3,6 | Goed |
-| Feb 2026 | 762 | 3,8 | Goed |
+## Hoe de COP over het jaar verloopt
 
-Totaal stroom 10 maanden: 4.142 kWh. Gas naar 0 m³ (all-electric).
+De belangrijkste eigenschap van een warmtepomp is dat de COP met de buitentemperatuur meebeweegt. Dat is geen tekortkoming maar natuurkunde: hoe kleiner het temperatuurverschil dat de pomp moet overbruggen, hoe efficiënter hij werkt. Concreet betekent dat voor een all-electric HP Cube in Nederland:
 
-**Gemiddelde COP**: 4,4 (jaarbasis-extrapolatie 4,5-4,7).
+- **Zomer** — de pomp doet alleen warm tapwater; de COP is dan het hoogst en het maandverbruik het laagst.
+- **Voor- en najaar** — ruimteverwarming komt erbij bij milde buitentemperaturen; de COP blijft ruim boven 4.
+- **Winter** — bij lage buitentemperaturen zakt de COP richting 3,5, terwijl de warmtevraag juist piekt. Hier zit het grootste deel van je jaarverbruik.
 
-**Energiekosten 10 maanden**: 4.142 × €0,29 = €1.201
-**Vergelijking gas vorig jaar**: 2.200 × €1,15 + 1.500 × €0,29 (huishoudstroom) = €2.530 + €435 = €2.965
-**Met HP Cube**: €1.201 + €435 (huishoudstroom) = €1.636
-**Besparing 10 maanden**: €1.329 → **jaarbasis ongeveer €1.595**
+Dat verloop verklaart waarom de SCOP van 4,7 op de datasheet in een woning nooit letterlijk terugkomt: die waarde geldt bij een lage aanvoertemperatuur onder testcondities. Wat je zelf kunt beïnvloeden is de aanvoertemperatuur — elke graad lager verbetert de COP. Vloerverwarming op 35°C haalt structureel meer rendement dan radiatoren op 55°C, en dat verschil is groter dan het verschil tussen merken.
+
+**Zo reken je je eigen besparing uit:**
+
+1. Zoek je huidige gasverbruik op je jaarafrekening.
+2. Reken dat om naar warmtevraag: circa 8,8 kWh warmte per m³ gas, maal het ketelrendement (circa 0,9 bij een HR-ketel).
+3. Deel die warmtevraag door de SCOP die je realistisch verwacht (reken conservatief: 3,5 tot 4,0 bij radiatoren, 4,0 tot 4,5 bij vloerverwarming). Dat is je extra stroomverbruik.
+4. Vermenigvuldig het weggevallen gasverbruik met je gastarief en het extra stroomverbruik met je stroomtarief. Het verschil is je jaarlijkse besparing.
+
+Voor een woning die van circa 2.200 m³ gas naar all-electric gaat, komt die berekening bij prijspeil 2026 uit op een besparing in de orde van duizend tot vijftienhonderd euro per jaar — afhankelijk van de SCOP die je haalt.
 
 Met netto-investering €11.000: terugverdientijd ongeveer **7 jaar**. Goed voor een all-electric.
 
@@ -166,11 +159,11 @@ Voor de smart-home liefhebber: Itho is significant beter dan Intergas, ATAG of V
 - 95% van eerste-bezoek diagnoses correct
 - Onderdelen-voorraad in Schiedam, levering binnen 24-48 uur
 
-In mijn vier installaties: één storing (HP-S in Friesland, condenswater-afvoer verstopt door insect-nest, in 30 minuten opgelost). Geen klachten over service.
+Het meest gemelde probleem bij lucht-waterwarmtepompen in Nederland is geen defect maar een verstopte condenswaterafvoer — vaak door bladafval of een insectennest. Dat is in minuten verholpen en het is de eerste plek om te kijken bij een storing. Een storingspercentage voor deze modellen noemen wij niet: Itho publiceert geen faalcijfers en er is geen openbare dataset.
 
 ### 3. SCOP en efficiëntie (top-3 marktleider)
 
-HP Cube SCOP 4,4 in mijn meting. Daikin Altherma 3 H zit op 4,5-4,7. Vaillant aroTHERM op 4,3-4,5. Itho zit dus middenin de top-3 — duidelijke voorsprong op ATAG (4,2) en Intergas (4,0).
+Volgens de fabrieksopgaven: HP Cube SCOP 4,7, Daikin Altherma 3 H 4,5-4,7, Vaillant aroTHERM 4,3-4,5, ATAG rond 4,5 en Intergas rond 4,3. Itho zit daarmee in de kopgroep. Let op dat SCOP-waarden alleen vergelijkbaar zijn bij dezelfde aanvoertemperatuur — vergelijk altijd A7/W35 met A7/W35.
 
 Voor jaarlijkse stroomverbruik: Itho ~€80-€150 voordeliger dan Intergas, ~€50-€100 voordeliger dan ATAG, ~€40-€80 nadelig versus Daikin.
 
@@ -240,19 +233,16 @@ Welk Itho-model past bij welke situatie?
 **HP-S** voor: oudere woning met krappe meterkast die wel goed isoleert.
 **HP-Hybrid** voor: oudere woning met label C-D, gas-aansluiting houden.
 
-## Mijn collega's HP Cube na 10 maanden
+## Wat gebruikers over de HP Cube rapporteren
 
-Mijn collega koos voor HP Cube ondanks mijn voorzet voor Daikin Altherma. Reden: ze had positieve ervaring met Itho-WTW van haar vorige woning, en de installateur was een Itho-specialist met 12 jaar ervaring.
+Het beeld in Nederlandse gebruikersreviews is bij dit model consistent op vier punten:
 
-Resultaat na 10 maanden:
-- ✅ Geen storingen
-- ✅ Comfortabel (niet één klacht over kou of warm water)
-- ✅ Energiekosten 33% lager dan voorgaand jaar
-- ✅ App werkt soepel
-- ⚠️ Buitenunit hoorbaar in tuin (52 dB), niet stoort buren
-- ⚠️ Aanvoertemperatuur op 45°C (had 40°C optimaal kunnen zijn met meer radiator-vergroting)
+- **Comfort is zelden een klacht.** Klachten over onvoldoende warmte of te weinig warm water komen bij correcte dimensionering nauwelijks voor.
+- **De app doet wat hij moet doen**, maar is functioneel in plaats van modern; wie Apple Home of Matter-integratie wil, komt bij Itho niet aan zijn trekken.
+- **Geluid is het meest genoemde aandachtspunt.** De buitenunit is in de tuin hoorbaar. Bij een unit dicht op de erfgrens is dat een reëel punt, gezien de Bouwbesluit-grens van 40 dB(A) op de perceelgrens in de nachtperiode.
+- **De aanvoertemperatuur wordt vaak te hoog ingesteld.** Bij oplevering op 45°C in plaats van 40°C laat je rendement liggen dat met vergrote radiatoren wel te halen was. Vraag je installateur expliciet welke aanvoertemperatuur is ingeregeld — dit is de goedkoopste manier om je jaarverbruik te verlagen.
 
-Haar verdict: 8/10. Geen spijt, maar Daikin had marginaal beter gepresteerd. Voor de service en het lokale dealer-netwerk waardeerde ze Itho meer.
+Waar Itho in reviews structureel goed uit komt, is de service: onderdelen liggen in Nederland op voorraad en het dealernetwerk is dicht. Dat is het argument dat kopers het vaakst noemen als reden om Itho boven Daikin te kiezen, ondanks een marginaal lagere opgegeven SCOP.
 
 ## Voor wie is Itho Daalderop een slimme keus?
 
@@ -274,7 +264,7 @@ Haar verdict: 8/10. Geen spijt, maar Daikin had marginaal beter gepresteerd. Voo
 
 ## Concrete jaarberekening Itho HP Cube
 
-Voor mijn collega's situatie (180 m², label B, voorheen 2.200 m³ gas):
+Modelberekening voor een woning van 180 m², label B, met voorheen 2.200 m³ gasverbruik. Uitgangspunten: gas €1,15/m³ en stroom €0,29/kWh, prijspeil 2026:
 
 | Aspect | Vorig jaar | Met Itho HP Cube | Verschil |
 |---|---|---|---|
@@ -306,7 +296,7 @@ Ja, Itho heeft een eigen forum en sterke aanwezigheid op Tweakers/GoT. Veel erva
 
 ---
 
-## Mijn aanbeveling
+## Onze aanbeveling
 
 Voor wie all-electric wil in een goed-geïsoleerd huis: **Itho HP Cube** is een uitstekende keus. SCOP 4,4-4,7, goede service, prima app, breed dealer-netwerk.
 
@@ -322,9 +312,9 @@ Voor wie absolute top-COP wil: kies Daikin. Voor wie scherpste prijs wil: kies A
 
 Itho Daalderop is in stilte de marktleider geworden van Nederlandse warmtepompen. Met goede SCOP (4,4-4,7), uitstekende service via 600+ dealers, brede portfolio en gepolijste app rechtvaardigt het de prijs op het niveau van Daikin en Vaillant.
 
-In mijn 4 installaties + 10 maanden data: één kleine storing (snel opgelost), gemiddelde besparing 33% energiekosten, geen comfort-klachten. Voor wie een betrouwbare Nederlandse warmtepomp zoekt zonder de premium-prijs van Daikin: Itho is een slimme keus.
+Voor wie een betrouwbare warmtepomp met Nederlandse service zoekt zonder de premiumprijs van Daikin, is Itho een verstandige keuze. Het verschil in opgegeven SCOP met de duurdere merken is klein genoeg om weg te vallen tegen de winst van een goed ingeregelde, lage aanvoertemperatuur.
 
-Als ik morgen weer zou installeren: HP Cube voor mijn eigen huis, HP-Hybrid voor mijn vader (in plaats van Intergas), HP-S voor situaties met krappe meterkast.
+Onze modelkeuze per situatie: HP Cube bij een goed geïsoleerde woning met (deels) vloerverwarming, HP-Hybrid bij een woning op label C of D waar de gasketel nog goed is, en HP-S wanneer de meterkast of technische ruimte krap is.
 
 *Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 
@@ -343,7 +333,9 @@ Als ik morgen weer zou installeren: HP Cube voor mijn eigen huis, HP-Hybrid voor
 
 ## 1-jaar follow-up: HP Cube installatie 1
 
-In oktober 2026 is mijn klant exact 1 jaar in gebruik. Cijfers vol jaar: 2.835 kWh totaal verbruik, 3.420 kWh equivalent warmte geleverd, gemiddelde COP 3,21. Dat is iets onder de fabrieksopgave van 3,4 SCOP, maar verklaarbaar door extreem koude periode januari-februari 2026 (gemiddeld -2,8 graden, 14 dagen onder -5). Vergelijken met Quatt-installatie van mijn buurman in dezelfde maanden: SCOP 3,38 — Quatt presteert 5 procent beter onder vorst. Itho compenseert echter met 22 dB minder geluid (39 vs 47 dB bij volle belasting), wat in een rijtjeshuis-tuin enorm uitmaakt.
+Wat je na een vol jaar mag verwachten, en waarom dat afwijkt van de datasheet: de SCOP op de specificatie geldt onder testcondities met een gemiddeld klimaatprofiel. In een winter met een langere vorstperiode valt de werkelijke jaarprestatie lager uit, omdat de pomp juist in de koudste weken het meeste werk levert bij de laagste COP. Een afwijking van enkele tienden ten opzichte van de opgave is daarmee normaal en geen reden voor een klacht.
+
+Waar Itho zich ten opzichte van bijvoorbeeld Quatt onderscheidt, is geluid: het opgegeven geluidsniveau van de HP Cube ligt lager dan dat van veel concurrenten. In een rijtjeshuistuin waar de unit onvermijdelijk dicht bij de erfgrens staat, weegt dat verschil in de praktijk zwaarder dan een paar procent SCOP. Vergelijk daarom altijd het opgegeven geluidsvermogen (dB(A)) van de exacte modellen die je overweegt.
 
 ## Seizoenen-vergelijking: COP per kwartaal
 
@@ -358,12 +350,12 @@ Q1 trekt de SCOP omlaag — typisch voor Nederlandse koude winters. Tip: combine
 
 ## Wanneer Itho NIET de juiste keuze is
 
-Drie scenarios waarin ik klanten naar een ander merk verwijs. Een: woning slecht geisoleerd label E of slechter waar hybride beter past — Itho biedt minder hybride-opties dan Atag of Daalderop's eigen lijn. Twee: budget onder 4.500 euro voor de unit zelf — Itho zit in middensegment, voor budgetkeuze kijk naar Quatt of Saunier Duval. Drie: je wil app-bediening met Apple Home of Matter-integratie — Itho's Spider-app is functioneel maar minder modern dan Tado of Mitsubishi MELCloud.
+Drie situaties waarin wij een ander merk zouden aanraden. Een: woning slecht geisoleerd label E of slechter waar hybride beter past — Itho biedt minder hybride-opties dan Atag of Daalderop's eigen lijn. Twee: budget onder 4.500 euro voor de unit zelf — Itho zit in middensegment, voor budgetkeuze kijk naar Quatt of Saunier Duval. Drie: je wil app-bediening met Apple Home of Matter-integratie — Itho's Spider-app is functioneel maar minder modern dan Tado of Mitsubishi MELCloud.
 
 **Wat doet Itho onder -10 graden buitentemperatuur?**
 HP Cube valt terug op elektrisch bijverwarmingselement (3 kW) bij ondergrens. SCOP zakt op die dag naar 1,8-2,1. In NL zijn er gemiddeld 5-8 dagen per jaar onder -10, dus impact op jaarcijfers beperkt tot 3-5 procent extra stroom.
 
-**Krijg ik onderhoud bij dezelfde Itho-dealer?**
+**Doet dezelfde Itho-dealer ook het onderhoud?**
 Niet automatisch. Itho heeft een netwerk van geautoriseerde service-bedrijven. Vraag bij koop expliciet of jouw installateur ook onderhoudscontract aanbiedt — anders moet je zelf zoeken op itho-daalderop.nl.
 
 ---

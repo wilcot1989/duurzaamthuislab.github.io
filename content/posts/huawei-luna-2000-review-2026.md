@@ -1,7 +1,7 @@
 ---
 title: 'Huawei Luna 2000 Review 2026: De Populairste Thuisbatterij'
 date: 2026-03-12 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: 'Uitgebreide Huawei Luna 2000 review: modulair 5-15kWh, compatibiliteit met Huawei omvormers, terugverdientijd en ervaringen in Nederland.'
 categories:
 - thuisbatterijen
@@ -20,7 +20,7 @@ keywords:
 - thuisbatterij nederland
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een Huawei Luna 2000 thuisbatterij inclusief installatie?
@@ -49,9 +49,11 @@ products:
   price: '7500'
 schema_type: Review
 ---
-Dit is de thuisbatterij die ik zelf in huis heb: de Huawei Luna 2000, 10 kWh, gekoppeld aan mijn Huawei SUN2000 omvormer en 16 zonnepanelen. Na een jaar ervaring kan ik zeggen dat deze batterij mijn eigenverbruik van 35% naar 82% heeft gebracht. In deze review deel ik mijn echte cijfers, de installatie-ervaringen en waar je op moet letten voordat je investeert.
+De Huawei Luna 2000 is een DC-gekoppelde thuisbatterij die alleen werkt in combinatie met een Huawei SUN2000-omvormer. Dat is de belangrijkste eigenschap van dit systeem: heb je die omvormer al, dan is de Luna een van de efficiëntste opties in de markt; heb je hem niet, dan komt de prijs van een omvormer erbij en kantelt de rekensom.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+In deze review lopen we de specificaties, de installatie-eisen, de TOU-sturing en de garantievoorwaarden door, met rekenvoorbeelden waarin alle aannames zichtbaar zijn.
+
+*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via die links een product aanschaft, zonder extra kosten voor jou. Deze review is gebaseerd op specificaties, handleidingen, garantievoorwaarden, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 
@@ -289,11 +291,11 @@ Op basis van reviews en ervaringen uit de Nederlandse markt komen de volgende pu
 
 ---
 
-## Mijn eigen jaarberekening: Huawei Luna 2000 in de praktijk
+## Rekenvoorbeeld: Luna 2000 10 kWh op een dynamisch contract
 
-Ik heb nu een jaar data. Hier zijn de echte cijfers van mijn eigen Luna 2000 10 kWh, gekoppeld aan mijn Huawei SUN2000 omvormer, 16 panelen en Tibber dynamisch contract.
+Een rekenvoorbeeld met expliciete aannames (fictief, geen meting), voor een Luna 2000 10 kWh op een Huawei SUN2000-omvormer met een dynamisch contract.
 
-**Mijn profiel:**
+**Uitgangssituatie:**
 - 16 zonnepanelen, 5,7 kWp, oost-west
 - Verbruik: 4.100 kWh/jaar
 - Zonne-opbrengst: 5.200 kWh/jaar (oost-west = gespreider dan vol-zuiden)
@@ -304,69 +306,64 @@ Ik heb nu een jaar data. Hier zijn de echte cijfers van mijn eigen Luna 2000 10 
 | Minder netto-afname | €390/jaar | 1.300 kWh minder van het net × €0,30 |
 | Dynamische arbitrage | €280/jaar | Laden goedkoop, ontladen duur via TOU-modus |
 | Minder teruglevering (saldering) | €330/jaar | 1.100 kWh minder terug × €0,30 |
-| **Totaal 2025/2026** | **€1.000/jaar** | |
+| **Totaal in dit model** | **€1.000/jaar** | |
 
-Netto-investering: €7.000 (batterij + installatie inclusief nieuwe omvormer).
-**Terugverdientijd: 7 jaar**. Na 2027 met saldering-stop: stijgt besparing naar ~€1.200/jaar → terugverdientijd 5,8 jaar.
+Netto-investering: €7.000 (batterij plus installatie inclusief omvormer).
+**Terugverdientijd in dit model: 7 jaar.** Na het einde van de saldering wordt zelf verbruiken meer waard, waardoor de modelbesparing stijgt en de terugverdientijd korter wordt.
 
-Had ik Marstek Venus E (€2.679) genomen, was de terugverdientijd 2,7 jaar geweest. Maar ik had al een Huawei-omvormer — de Luna was de efficiënte keus voor mijn situatie.
+Belangrijke relativering: een goedkopere AC-gekoppelde batterij (bijvoorbeeld een Marstek Venus rond €2.700) komt in hetzelfde model op een aanzienlijk kortere terugverdientijd, simpelweg omdat de investering lager is. De Luna is voordelig als je de Huawei-omvormer al hebt; moet die er nog bij, dan is dat het eerste dat je in je berekening moet meenemen.
 
-## Saldering stopt 2027: waarom Luna-bezitters goed zitten
+## Waarom een batterij aantrekkelijker wordt na het einde van de saldering
 
-Met mijn Luna absorbeert 80% van mijn zonne-overschot direct in huis. Ik lever nog maar 600 kWh terug per jaar (van de 5.200 kWh opwekking). Na saldering-stop verlies ik: 600 × (€0,31 − €0,06) = **€150/jaar**.
+De rekensom is eenvoudig, en het is dezelfde voor elke batterij. Stel: 5.200 kWh opwekking, waarvan zonder batterij 2.800 kWh wordt teruggeleverd. Als het verschil tussen wat je voor teruglevering krijgt en wat je voor inkoop betaalt €0,25/kWh is, dan is de waarde die je op die teruglevering misloopt 2.800 × €0,25 = €700 per jaar.
 
-Zonder batterij zou ik 2.800 kWh terugleveren en na 2027 **€700/jaar verlies** incasseren. De Luna scheelt mij €550/jaar in saldering-bescherming alleen al.
+Absorbeert een batterij het grootste deel van dat overschot, waardoor je nog maar 600 kWh teruglevert, dan zakt dat verlies naar 600 × €0,25 = €150 per jaar. Het verschil van circa €550 per jaar is de waarde van zelfconsumptie — bovenop de arbitragewinst.
 
-Klant Hanneke uit Haarlem vroeg mij in januari: "Mark, ik heb Huawei-panelen en overweeg de Luna. Heeft het zin om te wachten op 2027 ISDE-subsidie?" Mijn antwoord: nee. Ze levert 3.200 kWh terug per jaar. Elke maand wachten kost haar €65 in gemiste besparing + saldering-verlies dat opbouwt. Ze heeft nu een Luna 10 kWh — tevreden.
+Levert je installatie meer terug dan in dit voorbeeld, dan valt dat bedrag hoger uit; lever je nu al weinig terug omdat je veel zelf verbruikt, dan is de winst kleiner. Dat is het getal om als eerste in je eigen berekening te zetten.
+
+**Is het zinvol om te wachten op een eventuele batterijsubsidie?** Er is op dit moment geen landelijke subsidie voor thuisbatterijen en er is geen zekerheid dat die er komt. Wachten op een regeling die er misschien niet komt, kost intussen elk jaar de besparing die je had kunnen maken.
 
 ## Luna 2000 met warmtepomp: de ideale combinatie
 
-De Luna 2000 is de enige thuisbatterij in dit segment die ik zonder voorbehoud aanraad voor warmtepomp-huishoudens.
+Voor warmtepomp-huishoudens is de Luna 2000 in dit segment een van de sterkste opties — om twee redenen die uit de specificaties volgen.
 
 **Waarom:**
 - 5 kW continu vermogen (bij 10 kWh of 15 kWh toren)
 - Warmtepompen verbruiken 1-3 kW bij normaal gebruik
 - Luna + warmtepomp kunnen tegelijk werken zonder overbelasting
 
-In mijn installaties zie ik consistent: warmtepomp loopt 2-4 uur per dag (CV-seizoen), verbruikt 8-12 kWh. Een 10 kWh Luna dekt 80-100% van dat verbruik vanuit zonne-opslag of goedkope nachtlading.
+Rekenvoorbeeld: een lucht-water warmtepomp die in het stookseizoen 2-4 uur per dag op 2-3 kW draait, verbruikt 8-12 kWh per etmaal. Een 10 kWh batterij kan dat verbruik dus grotendeels dekken uit zonne-opslag of goedkoop geladen nachtstroom — mits het vermogen van de batterij hoog genoeg is om de warmtepomp te voeden zonder bijvoeding uit het net.
 
-**TOU-modus voor warmtepomp**: via FusionSolar stel je in dat Luna 's nachts (Tibber-laagtarief 01:00-06:00) vollaadt en overdag de warmtepomp voedt. Dat geeft €120-€180 extra besparing per jaar.
+**TOU-modus voor warmtepomp**: via FusionSolar stel je in dat de Luna 's nachts in de laagtarief-uren vollaadt en overdag de warmtepomp voedt. Wat dat oplevert, is het verschil tussen nacht- en dagtarief maal het aantal verschoven kWh — bij 8 kWh per etmaal in het stookseizoen en een verschil van 10 cent gaat het om ruwweg €120 per jaar.
 
 **DC-koppeling voordeel**: warmtepomp verbruikt AC-stroom. Zonnepanelen leveren DC. Via Huawei SUN2000 omvormer → Luna (DC) → warmtepomp (AC). Slechts één omzettingsstap. Efficiëntie: 95-97%. Dat is beter dan een AC-gekoppeld systeem zoals Sessy (twee omzettingen, 89-93% efficiëntie).
 
-## Degradatie en levensduur: mijn verwachting
+## Degradatie en levensduur
 
-Na één jaar: geen meetbare degradatie. FusionSolar-app toont "State of Health: 100%".
-
-**Theoretisch verloop:**
-- 6.000 cycli tot 70% (garantie-grens)
-- Bij 1 cyclus/dag: 16,4 jaar
-- Maar ik doe gemiddeld 0,75 cycli/dag (niet altijd volledig) → 21+ jaar
+**Wat de specificaties zeggen:**
+- 6.000 cycli tot 70% restcapaciteit (garantiegrens)
+- Bij één volledige cyclus per dag komt dat neer op ruim 16 jaar
+- Bij minder dan één volledige cyclus per dag — wat in de praktijk gebruikelijker is, omdat de batterij niet elke dag helemaal leeg en vol gaat — loopt de theoretische levensduur verder op
 
 **Degradatiecurve LFP:**
-LFP degradeert anders dan NMC. De eerste 1.000 cycli zijn relatief stabiel (94-98% capaciteit). Daarna lineaire daling ~0,002% per cyclus. Na 6.000 cycli: 70% gegarandeerd, maar in de praktijk typisch 73-78%.
+LFP-cellen degraderen anders dan NMC: de eerste duizend cycli verlopen relatief vlak, daarna volgt een geleidelijke daling. De exacte curve staat in het datasheet van Huawei; gebruik die curve in je NPV-berekening in plaats van een lineaire aanname.
 
-**Capaciteitsgarantie Huawei:** 10 jaar, 70% capaciteitsretentie. Als batterij onder 70% zakt voor jaar 10 → vervanging door Huawei (via dealer). In de praktijk zie ik dit zelden: Luna's zijn over-engineered voor hun garantie-eis.
+**Capaciteitsgarantie Huawei:** 10 jaar bij 70% restcapaciteit. Zakt de batterij binnen die periode onder 70%, dan volgt vervanging via de dealer. Wil je daar aanspraak op kunnen maken, log dan vanaf de installatie de bruikbare capaciteit per volledige cyclus — zonder eigen gegevens is zo'n claim moeilijk te onderbouwen.
 
-**Financieel**: na jaar 10 heeft mijn Luna nog 8-9 kWh bruikbaar. Besparing daalt van €1.000/jaar naar ~€850. Over 15 jaar cumulatief: ~€13.500 bespaard op €7.000 investering = **€6.500 nettoprofit**.
+**Financieel gevolg:** bij circa 80-90% restcapaciteit na tien jaar daalt de jaarlijkse besparing proportioneel mee. In het rekenvoorbeeld hierboven zakt €1.000 per jaar dan naar ruwweg €850. Over vijftien jaar cumulatief levert dat in het model een veelvoud van de investering op — met alle onzekerheid die een aanname over vijftien jaar energieprijzen met zich meebrengt.
 
-## Installatie-details: wat ik heb geleerd
+## Installatie-details
 
-Mijn eigen installatie duurde 4 uur. Hier zijn de details die ik heb bijgehouden en die voor jou relevant zijn.
+Reken op ongeveer een halve dag werk voor een standaardinstallatie waarbij de Huawei-omvormer al aanwezig is. De stappen uit de installatiehandleiding:
 
-**Mijn situatie:**
-- Al Huawei SUN2000 5K-TL omvormer aanwezig
-- Meterkast: modern, 3-fase, 3× 25A
-- Locatie batterij: meterkast-gang (ruimte 80 × 200 cm)
-
-**Stap 1: Module-plaatsing (1u)**
+**Stap 1: Module-plaatsing (circa 1 uur)**
 Twee 5 kWh-modules gestapeld op wandbeugel. Zwaar (2× 63,8 kg = 127 kg totaal) — twee personen nodig. Wandbevestiging met chemische ankers in beton.
 
-**Stap 2: Bekabeling (1u)**
+**Stap 2: Bekabeling (circa 1 uur)**
 DC-kabel van omvormer naar modules. Communicatiekabel (CAN-bus) voor BMS-communicatie. Aarding conform NEN 1010.
 
-**Stap 3: Configuratie (1u)**
-FusionSolar-app koppelen, TOU-schema instellen, netbeheerder aanmelden (Stedin vereist melding bij systemen >5 kW).
+**Stap 3: Configuratie (circa 1 uur)**
+FusionSolar-app koppelen, TOU-schema instellen en het systeem aanmelden bij je netbeheerder — voor opslagsystemen boven een bepaald vermogen is dat verplicht; check de actuele drempel bij jouw netbeheerder.
 
 **Vereisten voor jouw installatie:**
 - Huawei SUN2000 omvormer (verplicht — geen andere merken)
@@ -376,19 +373,19 @@ FusionSolar-app koppelen, TOU-schema instellen, netbeheerder aanmelden (Stedin v
 
 **Geluid**: Luna maakt vrijwel geen geluid. Omvormer zoemt licht bij hoge belasting. Nooit hoorbaar buiten de installatieruimte.
 
-## FusionSolar vs Tibber: hoe ik de TOU-modus gebruik
+## FusionSolar en TOU-sturing: hoe je het inricht
 
-FusionSolar is functioneel maar minder mooi dan Tibber of Sessy's app. Hier is hoe ik het gebruik:
+FusionSolar is functioneel maar minder afgewerkt dan de apps van Tibber of Sessy. De sturing gaat via TOU-blokken (time-of-use) die je zelf instelt. Een werkbaar schema:
 
-**TOU (time-of-use) instellingen in mijn systeem:**
+**Voorbeeld TOU-schema:**
 - 01:00-06:00: laden (Tibber-nacht, gemiddeld €0,09-€0,14/kWh)
 - 06:00-17:00: prioriteit zonne-opladen, ontladen verboden
 - 17:00-22:00: ontladen (avondpiek, gemiddeld €0,28-€0,45/kWh)
 - 22:00-01:00: houden (reserve voor nacht)
 
-Dit schema geeft me de beste arbitrage. Op extreme piek-dagen (€0,60-€1,20/kWh 's avonds) is de dagopbrengst van de batterij €3-€7.
+Dit type schema haalt het meeste uit de dagelijkse cyclus. Op dagen met extreme avondpieken loopt de dagopbrengst van de batterij op tot enkele euro's; op dagen met een smalle spread levert hij bijna niets op.
 
-**Automatische herziening**: FusionSolar heeft geen automatische Tibber-koppeling. Ik check handmatig 1× per week of het schema nog klopt met het Tibber-seizoensprofiel. Een alternatief: de EnergyFlip-app die Luna en Tibber combineert (community-project, werkt maar is niet officieel).
+**De belangrijkste beperking**: FusionSolar heeft geen directe koppeling met dynamische leveranciers. Je stelt de blokken dus met de hand in en moet ze periodiek herzien wanneer het seizoenspatroon van de prijzen verschuift — reken op één keer per week of maand controleren. Er bestaan community-projecten die de Luna aan dynamische prijzen koppelen; die zijn niet officieel ondersteund, dus gebruik ze met dat in gedachten.
 
 ## Veelgemaakte fouten bij de Luna-keuze
 
@@ -422,7 +419,7 @@ De **terugverdientijd** is het grootste aandachtspunt. In een basisscenario met 
 
 Voor wie al een Huawei-omvormer heeft of bereid is om over te stappen, is de Luna 2000 de **meest verstandige keuze** in het thuisbatterij-segment van 2026. Heb je geen zonnepanelen en zoek je vooral een flexibele, draagbare oplossing? Bekijk dan onze [Bluetti AC200MAX review](/posts/bluetti-ac200max-review-2026/) of ons overzicht van de [beste draagbare powerstations](/posts/beste-draagbare-powerstation-2026/).
 
-**Mijn score: 8/10**
+**Onze beoordeling: 8/10**
 
 **[Bekijk de Huawei Luna 2000 >>>](https://solar.huawei.com/nl/residential/luna2000)**
 

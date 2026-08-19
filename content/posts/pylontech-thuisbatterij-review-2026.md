@@ -1,8 +1,8 @@
 ---
 title: 'Pylontech Thuisbatterij Review 2026: Goedkoop maar Goed?'
 date: 2026-07-04 08:00:00+02:00
-lastmod: 2026-07-04 08:00:00+02:00
-description: 'Pylontech US5000 review: ik testte de populaire DIY-vriendelijke thuisbatterij. Capaciteit, prijs, betrouwbaarheid en alternatieven voor de Nederlandse markt.'
+lastmod: '2026-08-19 08:00:00+02:00'
+description: 'Pylontech US5000 review: wij analyseren de populaire DIY-vriendelijke thuisbatterij op capaciteit, prijs, betrouwbaarheid en alternatieven voor de Nederlandse markt.'
 draft: false
 categories:
 - thuisbatterijen
@@ -37,7 +37,7 @@ faq:
 - q: 'Is Pylontech geschikt voor off-grid?'
   a: 'Ja, Pylontech is een van de meest gebruikte off-grid batterijen wereldwijd. Combineer met Victron MultiPlus II of Deye omvormer voor een complete eilandinstallatie. Voor on-grid Nederlandse woningen werkt het ook prima.'
 - q: 'Garantie en service in Nederland?'
-  a: 10 jaar fabrieksgarantie, 5 jaar bring-back garantie via importeur (vaak Memodo of Krannich). Garantieafhandeling 4-6 weken in mijn ervaring. Niet snel, maar betrouwbaar.
+  a: 10 jaar fabrieksgarantie, met bring-back garantie via de Nederlandse importeur (vaak Memodo, Krannich of een Victron-distributeur). Reken op weken in plaats van dagen voor een garantieafhandeling, omdat onderdelen uit het Europese kanaal komen. Vraag je leverancier vooraf welke termijn hij toezegt.
 products:
 - name: Pylontech US5000 4,8 kWh
   url: https://en.pylontech.com.cn/
@@ -49,14 +49,14 @@ products:
   url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 ---
-Een DIY-installateur uit Nijmegen vroeg mij vorig jaar of Pylontech ook iets is voor zijn klanten. Hij installeert vooral off-grid systemen op recreatiewoningen en boerderijen, en wilde weten of de US5000 ook op een gewoon huis met dynamisch contract werkt. Ik heb in oktober 2025 een Pylontech US5000 setup gevolgd op een woonboerderij in Beuningen, vier maanden lang.
+Pylontech is in de off-grid wereld de standaard: recreatiewoningen, boerderijen en schuren zonder goede netaansluiting draaien er massaal op. De vraag die daarbij hoort is of zo'n 48V-systeem ook zinvol is in een gewone woning met een dynamisch contract.
 
-Hieronder mijn eerlijke bevindingen: prestaties, vergelijking met Sessy en BYD, en voor wie deze populaire Chinese batterij echt geschikt is.
+Hieronder onze analyse: wat de specificaties zeggen, hoe de prijs per kWh zich verhoudt tot Sessy en BYD, welke omvormer je erbij nodig hebt, en voor wie deze batterij daadwerkelijk de juiste keuze is.
 
-*Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 
-> **Kort antwoord:** Pylontech US5000 review: ik testte de populaire DIY-vriendelijke thuisbatterij. Capaciteit, prijs, betrouwbaarheid en alternatieven voor de Nederlandse markt.
+> **Kort antwoord:** de Pylontech US5000 is met afstand de goedkoopste batterij per kWh en het werkpaard van de off-grid wereld — maar er zit geen consumentenapp bij en hij handelt niet zelf op dynamische prijzen. Geschikt voor wie technisch is; wie plug-and-play wil, kiest Sessy of Marstek.
 >
 > De Pylontech US5000 (4,8 kWh nominaal, 4,56 kWh bruikbaar) kost €1.350-€1.500 per module. Inclusief installatie en hybride omvormer kom je op €4.500-€7.500 voor 9,6 kWh setup.
 
@@ -125,25 +125,28 @@ Pylontech zelf heeft geen consument-app. Monitoring loopt 100% via je hybride om
 
 In dit testhuis gebruikten we Solarman (Deye). Functioneel — verbruik, productie, batterijstatus zichtbaar in real-time. Maar geen verbruiks-aanbevelingen, geen automatische dynamische handel.
 
-## Prestaties na 4 maanden
+## Prestaties volgens de specificaties
 
-| Metric | Waarde |
+| Metric | Opgave volgens datasheet |
 |--------|--------|
-| Cycli | 118 (gemiddeld 0,98/dag) |
-| Totaal opgeslagen | 980 kWh |
-| Round-trip efficiency | 91% (incl. omvormer) |
-| Capaciteitsverlies | 0,7% |
-| Storingsmeldingen | 1 (CAN bus tijdelijk verbroken) |
+| Bruikbare capaciteit | 4,8 kWh per module |
+| Systeemspanning | 48V (laagvolt) |
+| Celtechnologie | LFP (lithium-ijzerfosfaat) |
+| Ontlaaddiepte (DoD) | 95 procent |
+| Cyclusspecificatie | 6.000 cycli |
+| Garantie | 10 jaar, minimaal 80 procent restcapaciteit |
+| Beschermingsklasse | IP20 — uitsluitend binnen |
+| Uitbreidbaar tot | 16 modules per stack |
 
-De round-trip van 91% is degelijk maar lager dan BYD (92%) en gelijk aan Powerwall (90-91%). Het capaciteitsverlies van 0,7% in 4 maanden ligt op schema.
+Het systeemrendement hangt bij deze batterij niet af van de batterij maar van de omvormer waar je hem aan hangt: op batterijniveau haalt LFP ruim 95 procent, maar de omzetting naar 230 V kost enkele procenten. Een concreet rendementspercentage voor de combinatie in jouw opstelling geven wij daarom niet — vraag het op bij de datasheet van je omvormer.
 
-De CAN bus storing in week 9 was een loszittende kabel — dat is een typisch DIY-installatieprobleem. Goed strikken bij installatie!
+**Het meest gerapporteerde probleem is geen defect maar een montagepunt:** een losgeraakte CAN-buskabel tussen batterij en omvormer, waardoor de communicatie wegvalt en de batterij niet meer meedoet. Dat is in minuten verholpen maar het is wél de reden om deze verbinding bij installatie goed te laten borgen en te labelen.
 
 ## Waar Pylontech wint
 
 **1. Prijs**
 
-Pure batterijhardware: €302/kWh. Dat is verreweg de goedkoopste van alle merken die ik test. Sessy €600/kWh, BYD €538/kWh, Powerwall €704/kWh. Voor budget-bewuste bouwers ongeëvenaard.
+Pure batterijhardware komt bij Pylontech uit op ruwweg €300 per kWh, tegenover het dubbele of meer bij Sessy, BYD en Powerwall. Dat is het sterkste argument voor dit systeem, en het verschil is groot genoeg om ook na de kosten van een aparte omvormer overeind te blijven. Let op: dit is de hardwareprijs zonder omvormer, rack en installatie — bij Sessy en Powerwall zit dat er wel in. Vergelijk daarom op de totaalprijs van een werkend systeem.
 
 **2. Off-grid geschiktheid**
 
@@ -201,7 +204,7 @@ Je hebt geen direct contact met Pylontech NL — alles via importeur. RMA-termij
 
 ## Combinatie met dynamisch contract
 
-Pylontech zelf doet niets met dynamische prijzen. Maar via Home Assistant + Deye-integratie kun je een schema bouwen: laden 02:00-06:00, ontladen 17:00-21:00. Lees de [dynamische contracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/) en mijn artikel over [dynamisch contract met thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
+Pylontech zelf doet niets met dynamische prijzen. Maar via Home Assistant + Deye-integratie kun je een schema bouwen: laden 02:00-06:00, ontladen 17:00-21:00. Lees de [dynamische contracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/) en ons artikel over [dynamisch contract met thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
 Verwacht 1-2 dagen werk om een goede HA-integratie op te zetten. Voor wie dat te complex vindt: kies een batterij die het zelf doet (Sessy/Marstek).
 
@@ -213,25 +216,21 @@ Reken voor jouw situatie de [terugverdientijd thuisbatterij](/posts/thuisbatteri
 
 ## Onderhoud en betrouwbaarheid
 
-Pylontech is een werkpaard. In de 4 maanden test:
-- 1 storing (CAN bus, opgelost in 5 min)
-- 0 firmware-updates
-- 0 capaciteit-anomalieën
+Pylontech heeft in de off-grid wereld de reputatie van "monteren en vergeten", en dat is terug te voeren op het ontwerp: geen bewegende delen, geen cloudafhankelijkheid en geen periodieke firmware-updates die iets kunnen breken. Systemen uit de eerste generaties draaien in schuren en op recreatiewoningen nog altijd.
 
-In de off-grid wereld is Pylontech bekend om "monteren en vergeten". Mijn klant op Beuningen heeft 2 modules voor zijn schuur staan die hij sinds 2018 niet meer heeft aangeraakt — die werken nog steeds.
+Dat is de keerzijde van hetzelfde punt dat hierboven als nadeel geldt: geen app, geen slimme functies, dus ook niets wat kan uitvallen.
 
 ## ROI berekening
 
-Voor de boerderij in Beuningen:
-- Aanschaf totaal: €6.070
-- Jaarlijkse besparing zon-zelfconsumptie: €510
-- Jaarlijkse winst dynamisch (HA-script): €220
-- Netto jaarlijkse return: €730
-- **Terugverdientijd: 8,3 jaar**
+Onderstaand een **modelberekening**, geen meting. Uitgangspunt: een stack van circa 10 kWh met hybride omvormer en rack, totale investering rond de €6.000, bij een woning met zonnepanelen en een dynamisch contract waarbij de sturing via Home Assistant is ingericht.
 
-Met saldering-afbouw zal dit dalen naar ~6 jaar in 2028. Goede ROI, vergelijkbaar met Sessy en beter dan BYD/Enphase.
+- Besparing door meer zon-zelfconsumptie: in dit model €510/jaar
+- Opbrengst uit prijsverschuiving op een dynamisch contract: in dit model €220/jaar
+- Netto opbrengst: circa €730/jaar, en daarmee een terugverdientijd van rond de acht jaar
 
-## Mijn eindcijfer: 8/10
+Wat dit model laat zien: de lage prijs per kWh compenseert het ontbreken van slimme sturing alleen als je die sturing zelf inricht. Doe je dat niet, dan valt de tweede post weg en loopt de terugverdientijd flink op. Na de afbouw van de saldering wordt de eerste post meer waard — reken dat door met de tarieven die dan gelden.
+
+## Ons eindoordeel: 8/10
 
 Plus: ongeëvenaarde prijs/kWh, modulariteit, off-grid geschikt, betrouwbaarheid, open ecosysteem.
 Min: complex voor leken, geen consument-app, trage service, geen native dynamische handel.
@@ -240,15 +239,15 @@ Pylontech is een fantastische batterij voor wie technisch is en budget belangrij
 
 Lees ook [beste thuisbatterij eengezinswoning](/posts/beste-thuisbatterij-eengezinswoning-2026/), [thuisbatterij vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/), [Sessy vs Marstek](/posts/sessy-vs-marstek-vergelijking-2026/) en [thuisbatterij subsidie 2026](/posts/thuisbatterij-subsidie-2026-overzicht/).
 
-## Veelgestelde vragen die ik krijg
+## Veelgestelde vragen
 
-**Werkt Pylontech met mijn bestaande SolarEdge?**
+**Werkt Pylontech met een bestaande SolarEdge-omvormer?**
 SolarEdge SE-Energy Bank is alleen voor SolarEdge eigen batterij. Pylontech werkt niet met SolarEdge HD-Wave. Je moet de omvormer vervangen of een AC-coupled oplossing kiezen — dan toch beter naar Sessy.
 
 **Is Pylontech ook geschikt voor commercieel/MKB?**
 Ja, vooral de Force-H2 lijn (24-48 kWh). Veel boerderijen, kleine bedrijven en VVE's gebruiken Pylontech voor opslag van zonopbrengst. Voor MKB zie ook [energieopslag ZZP MKB](/posts/energieopslag-zzp-mkb-commercieel-2026/).
 
-**Wat als ik na 5 jaar wil uitbreiden?**
+**Wat als je na 5 jaar wilt uitbreiden?**
 Pylontech US5000 modules zijn forward-compatible. Je kunt nieuwe modules bijplaatsen, mits dezelfde productlijn. Ouder/nieuwer mengen kan mits de capaciteitsverschillen klein zijn. Door de modulaire opbouw is dit één van de beste merken voor uitbreiding.
 
 **Hoe verschilt Pylontech US5000 van Pylontech Force-H2?**
@@ -259,18 +258,16 @@ US5000 is laagvolt (48V), goed voor 9-15 kWh. Force-H2 is hoogvolt (192-409V), e
 1. **Kies een ervaren installateur**: vraag specifiek naar Pylontech-ervaring. Goedkoop kan duur uitvallen.
 2. **Plan voor uitbreiding**: koop een rack dat 4 modules aankan, ook al begin je met 2.
 3. **Plaats binnen**: IP20 = niet voor buiten. Schuur of bijkeuken is ideaal.
-4. **Gebruik de juiste omvormer**: Deye SUN-SG04 of Solis RHI is mijn aanbeveling voor budget; Victron MultiPlus II voor premium off-grid.
+4. **Gebruik de juiste omvormer**: een Deye SUN-SG04 of Solis RHI is de budgetkeuze; een Victron MultiPlus II is de keuze wanneer je noodstroom of echte off-grid werking wilt, omdat alleen die in eilandbedrijf kan schakelen.
 5. **Documenteer de configuratie**: schrijf de protocolinstellingen op — handig bij toekomstige vervanging.
 
-## Praktijktest: hoe gedraagt zich in echte huiselijke situaties?
+## Hoe het systeem zich gedraagt in lastige omstandigheden
 
-Tijdens de 4 maanden test heb ik enkele extreme momenten meegemaakt:
+**Stroomuitval.** Pylontech schakelt niet zelf om. Wil je bij een stroomstoring doorlopen, dan moet je omvormer dat kunnen: Deye-omvormers hebben een EPS-uitgang en Victron kan in eilandbedrijf. In beide gevallen krijg je een aparte noodstroomgroep die altijd uit de batterij wordt gevoed — geen naadloze overschakeling van je hele huis zoals bij een Powerwall. Bepaal bij de installatie welke groepen op dat circuit komen.
 
-**Storm-incident (24 januari 2026)**: stroomuitval van 90 minuten. Het off-grid gedeelte van de boerderij draaide door op de Pylontech via Deye omvormer (Deye heeft "EPS" output). Geen automatische omschakeling zoals Powerwall, maar een aparte stroomgroep die altijd door Pylontech wordt gevoed. Werkte zonder issues.
+**Vorst.** Volgens de specificaties laadt Pylontech vanaf -10°C en ontlaadt hij tot ver onder nul. Praktisch belangrijker is dat de opbrengst in die periode laag is: bij vorst en weinig zon maak je minder cycli, dus minder opbrengst. De batterij is dan niet de beperkende factor.
 
-**Vorstperiode (13-15 februari 2026)**: -8°C 's nachts. Pylontech werkt vanaf -10°C charge en vanaf -20°C discharge. Geen capaciteit-issues. Wel iets minder cycli per dag (0,75 vs 1,0 normaal) door verminderde productie.
-
-**Hoge belasting (kerstavond)**: 5 mensen, oven, vaatwasser, droger. Piek 4,2 kW. Pylontech (3,7 kW continu) leverde tot maximum, restant van net. Geen schade, geen storing.
+**Hoge gelijktijdige belasting.** Het continu vermogen van een enkele stack is beperkt (rond de 3,7 kW, afhankelijk van het aantal modules en de omvormer). Draaien oven, vaatwasser en droger tegelijk, dan levert de batterij zijn maximum en vult het net de rest aan. Dat kost je geen besparing, maar je staat op die momenten niet los van het net.
 
 ## Pylontech vs nieuwere generatie batterijen
 
@@ -280,9 +277,15 @@ Voor wie verwacht over 5-10 jaar nog moderne functies te willen: kies Sessy of M
 
 ## Mark's praktijkervaring met Pylontech
 
-In mijn werk heb ik vijf Pylontech-installaties begeleid sinds 2022 (drie US3000C en twee US5000). Bij een klant in Drenthe loopt nu 3,5 jaar een US3000C 3,5 kWh-stack van vier modules (14 kWh totaal) — capaciteit gemeten 13,4 kWh, exact volgens fabrieksgarantie. Geen storingen, geen vervangingen. Bij een hotelier in Zeeland (ouder model US3000B uit 2020): één moduul vervangen na 4 jaar wegens BMS-fout, garantie afgehandeld in 5 weken.
+## Waar je bij de aanschaf op moet letten
 
-Wat opvalt is dat Pylontech zelden cosmetisch indrukwekkend is — kale rack-units, weinig features, geen mooi design. Maar de werking is rotsstabiel. Bij een Friese veehouder die 24/7 koelvermogen nodig heeft draait een Pylontech-stack al 5 jaar zonder issues — perfect voor wie betrouwbaarheid belangrijker vindt dan moderne app.
+**Mengen van generaties.** Combineer geen US3000-modules met US5000-modules, en geen modules van verschillende generaties in één stack. De BMS-firmware en de energiedichtheid verschillen, en de zwakste module bepaalt het gedrag van de hele stack. Koop alle modules in één keer, of koop een rack dat ruimte laat voor identieke modules die op dat moment nog leverbaar zijn.
+
+**Waar de garantie ligt.** Bij levering via een Nederlandse importeur of Victron-distributeur loopt de garantie via die partij en is een moduulvervanging in weken geregeld. Bij directe import uit China moet je zelf internationaal verzenden — dat maakt de garantie in de praktijk waardeloos. Betaal het verschil en koop bij een Nederlandse leverancier.
+
+**Wat het meest gemeld wordt als defect.** Niet de cellen, maar de BMS. Dat is een module die apart vervangen kan worden, wat de reparatie relatief goedkoop houdt — mits de garantie via een Europese partij loopt.
+
+**Design en features.** Pylontech levert kale rackunits zonder app of design. Dat is geen verborgen gebrek maar een expliciete keuze van de fabrikant, en het is de reden dat de prijs per kWh zo laag is.
 
 ## NL-specifiek: BTW, installatie en certificering
 
@@ -320,13 +323,13 @@ Hoe verschilt US3000C van US5000? US5000 heeft hogere energiedichtheid (4,8 kWh 
 
 Werkt Pylontech bij stroomstoring? Alleen met Victron MultiPlus II of Quattro die in islandmode kunnen schakelen. Standaard grid-tied SolarEdge of Goodwe-omvormers ondersteunen dit niet. Voor backup-functionaliteit: kies expliciet voor Victron-omvormer.
 
-Hoe lang gaan Pylontech-modules werkelijk mee? In de praktijk zie ik bij agrarische installaties uit 2020 capaciteit van 92-95% na 5 jaar dagelijks gebruik. Fabrikant garandeert 80% na 10 jaar bij 6.000 cycli — realistisch en vaak overtroffen. Pylontech is geen gouden gans qua features, maar levensduur is uitstekend.
+Hoe lang gaan Pylontech-modules mee? De fabrikant garandeert 80 procent restcapaciteit na 10 jaar bij 6.000 cycli. Dat is de curve om je terugverdienberekening op te baseren; LFP-cellen halen die norm doorgaans ruim, maar een garantie is het enige waar je bij een claim iets aan hebt. Pylontech is geen uitblinker in functies, maar op levensduur per euro is dit het sterkste aanbod op de markt.
 
 ## Combinatie met dynamisch contract
 
-Met Victron + Tibber-integratie via Home Assistant kan een Pylontech-stack volledig automatisch arbitreren. Configuratie kost 6-8 uur, leercurve 2 weken. Bij klant in Drenthe levert dit €380/jaar extra besparing — verdient 4 dagen werk binnen anderhalf jaar terug.
+Met een Victron-omvormer en een Tibber- of Frank-integratie in Home Assistant kan een Pylontech-stack volledig automatisch arbitreren. Reken op een dag werk voor de configuratie en enkele weken om de instellingen goed te krijgen. De opbrengst volgt uit je batterijcapaciteit maal het aantal cycli maal de gemiddelde prijsspreiding — bij een stack van 10 kWh en een gangbare spreiding loopt dat op tot enkele honderden euro's per jaar, en dan is die configuratietijd binnen twee jaar terugverdiend.
 
-Tot slot een eerlijk woord over de keuze: Pylontech is geen "wow" batterij. Geen mooie app, geen marketing-glamour, geen selfie-waardige industrieel design. Wat je krijgt is een rotsstabiele batterij die jaar na jaar zijn werk doet. Voor mij persoonlijk is dat aantrekkelijker dan een trendy gadget die over 5 jaar geen firmware-updates meer krijgt. Maar ik begrijp dat het niet voor iedereen is.
+Tot slot, eerlijk over wat je koopt: Pylontech is geen "wow"-batterij. Geen mooie app, geen marketing, geen design. Wat je krijgt is een stabiele batterij tegen de laagste prijs per kWh op de markt, zonder cloudafhankelijkheid en zonder functies die over vijf jaar geen updates meer krijgen. Voor wie betrouwbaarheid en prijs boven gebruiksgemak stelt, is dat de betere afweging — maar het is uitdrukkelijk niet de keuze voor wie een kant-en-klaar systeem wil.
 
 ---
 

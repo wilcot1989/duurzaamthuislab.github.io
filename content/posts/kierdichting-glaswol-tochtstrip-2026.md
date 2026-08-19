@@ -1,7 +1,7 @@
 ---
 title: Kierdichting, glaswol en tochtstrip in 2026
 date: 2026-05-25 08:00:00+02:00
-lastmod: 2026-05-25 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: Met €100 aan kierdichting, tochtstrips en glaswol bespaar je tot €300 per jaar. DIY-gids voor de gemiddelde Nederlandse woning met materiaallijst en.
 categories:
 - isolatie
@@ -19,7 +19,7 @@ keywords:
 - kieren dichten woning besparing
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel kan ik besparen met kierdichting?
@@ -43,11 +43,11 @@ products:
   price: '139'
 schema_type: Article
 ---
-In de winter van 2021 deed ik een eenvoudige test: ik liep met een wierrookstokje langs alle ramen, deuren en plinten van mijn woning. Het resultaat was onthutsend. Bij mijn voordeur stond de rook horizontaal. Bij de achterdeur bewoog hij hevig. Rondom drie raamkozijnen was er duidelijke luchtbeweging. En bij de overgang van de begane grondvloer naar de muur bewoog de rook op meerdere plekken merkbaar.
+De goedkoopste energiebesparende maatregel die bestaat, kost geen duizenden euro's maar ongeveer honderd: kieren dichten. En je kunt in een half uur zelf vaststellen of het bij jou iets oplevert — met een wierookstokje langs ramen, deuren en plinten. Staat de rook horizontaal bij de voordeur of beweegt hij bij de plint, dan stook je op dat moment naar buiten.
 
-Ik heb die winter €94 uitgegeven aan materialen en twee vrije middagen besteed aan het afdichten. In het stookseizoen daarna bespaar ik structureel €290 per jaar — een terugverdientijd van minder dan vier maanden.
+In een tochtige woning is de rekensom vrijwel altijd gunstig: reken op €80-€120 aan materiaal en twee middagen werk, tegenover een besparing die in de meeste gevallen in de honderden euro's per jaar loopt. Dat is een terugverdientijd van maanden in plaats van jaren.
 
-In dit artikel leg ik stap voor stap uit hoe je dit zelf kunt doen.
+In dit artikel staat stap voor stap hoe je het aanpakt, met een volledige materiaallijst en de fouten die je moet vermijden.
 
 *Dit artikel bevat geen affiliate links voor isolatieproducten.*
 
@@ -104,7 +104,7 @@ Elektrische inbouwdozen in buitenmuren zijn open verbindingen met de spouwmuurho
 
 ## Materialen en tools: de volledige boodschappenlijst voor €100
 
-Hier is mijn exacte materiaallijst voor een gemiddelde tussenwoning:
+Een complete materiaallijst voor een gemiddelde tussenwoning, met indicatieve winkelprijzen:
 
 | Materiaal | Toepassing | Prijs | Hoeveelheid |
 |-----------|-----------|-------|-------------|
@@ -243,9 +243,9 @@ Voor kierdichting rondom ramen en deuren heeft glaswol geen directe toepassing �
 
 ---
 
-## Mijn resultaten na twee middagen werk
+## Rekenvoorbeeld: wat twee middagen werk oplevert
 
-**Wat ik heb gedaan (2021):**
+**Het werkpakket voor een gemiddelde tussenwoning:**
 - Voordeur: EPDM zijkanten en bovenzijde + borstelseal onderkant
 - Achterdeur: EPDM compleet + zelfklevende drempel
 - Deur bijkeuken: EPDM zijkanten en bovenzijde
@@ -254,26 +254,30 @@ Voor kierdichting rondom ramen en deuren heeft glaswol geen directe toepassing �
 - 12 stopcontacten buitenmuur: isolatieschuim achter dekplaat
 - Vloer-muur overgang begane grond (6 meter): kit na plint verwijderen
 
-**Materiaalkosten: €94**
+**Materiaalkosten: circa €95**
 
-**Meetresultaten:**
+**Wat dat aan besparing oplevert (rekenvoorbeeld, aannames expliciet):**
 
-| Meting | Vóór kierdichting | Na kierdichting |
-|--------|------------------|-----------------|
-| Luchtdichtheid (n50 blower door) | 7,2 vol/h | 4,1 vol/h |
-| Gasverbruik stookseizoen 1 | 1.580 m3 | 1.290 m3 |
-| Gasverbruik stookseizoen 2 | — | 1.268 m3 |
-| Besparing | — | ~290-312 m3/jaar (€319-€343) |
+Bij een tochtige woning uit de jaren 70-80 ligt de luchtdichtheid vaak rond n50 = 6-8 luchtverversingen per uur bij 50 Pascal; met een grondige kierdichtingsronde is een verbetering naar circa 4 vol/h haalbaar. In bouwfysische literatuur wordt het aandeel van ventilatie- en infiltratieverlies in het totale warmteverlies van zulke woningen op grofweg 15-25% gesteld.
 
-De blower-door meting werd gedaan door een vriend die bouwfysica studeert — niet strikt noodzakelijk maar wel leerzaam. De verluchting halveerde bijna: van 7,2 naar 4,1 luchtverversingen per uur bij 50 Pascal.
+Reken dat door voor een woning met 1.580 m³ gasverbruik:
 
-**Terugverdientijd: 3,3 maanden.**
+| | Waarde |
+|---|---|
+| Gasverbruik vóór | 1.580 m³ |
+| Aanname besparing op infiltratieverlies | 15-20% van het verbruik |
+| Besparing | circa 240-320 m³ per jaar |
+| Bij €1,15/m³ | circa €275-€365 per jaar |
+| Materiaalkosten | circa €95 |
+| **Terugverdientijd** | **3-4 maanden** |
+
+Wil je weten waar jij werkelijk staat, laat dan een blower-door-meting doen (kosten enkele honderden euro's) of vergelijk simpelweg je gasverbruik over twee stookseizoenen, gecorrigeerd voor graaddagen. Zonder die correctie zegt een vergelijking tussen twee winters weinig.
 
 ---
 
 ## Energielabel verbetering
 
-Kierdichting heeft invloed op het energielabel van je woning. Een woning met een luchtdichtheid van n50 ≤ 1,5 vol/h krijgt extra punten in de energielabelberekening. Mijn woning ging van 7,2 naar 4,1 — dat is nog niet in de laagste categorie, maar wel een stap omhoog die bij een volledige energielabelopname meetelt.
+Luchtdichtheid is een van de kenmerken die in de energielabelbepaling (NTA 8800) meeweegt. In de praktijk brengt een DIY-kierdichtingsronde je van een slechte naar een matige luchtdichtheid — een verbetering, maar niet genoeg om de laagste (beste) categorie te halen; daarvoor is een integrale aanpak van de gebouwschil nodig. Hoeveel het in jouw geval op het label scheelt, bepaalt de energieadviseur op basis van de hele woning, niet op basis van de kierdichting alleen.
 
 ---
 
@@ -303,11 +307,11 @@ Na goede kierdichting voel je geen tocht meer maar je moet de kamer nog steeds v
 
 ## Conclusie: de beste prijs-kwaliteitsverhouding in verduurzaming
 
-Van alle maatregelen die ik heb genomen om mijn woning te verduurzamen — zonnepanelen, thuisbatterij, hybride warmtepomp, spouwmuurisolatie — heeft kierdichting de kortste terugverdientijd. Vier maanden. Dat is onverslaanbaar.
+Zet je alle verduurzamingsmaatregelen naast elkaar — zonnepanelen, thuisbatterij, warmtepomp, spouwmuurisolatie — dan heeft kierdichting met afstand de kortste terugverdientijd: maanden in plaats van jaren. Dat komt niet doordat de besparing zo groot is, maar doordat de investering zo klein is.
 
-Voor een woning die op tocht staat, is een middag met €100 aan materialen het meest effectieve startpunt voor verduurzaming. Niet sexy, niet zichtbaar voor de buitenwereld, maar het meest directe financiële rendement dat je kunt behalen.
+Voor een woning die op tocht staat is een middag met €100 aan materialen daarom het logische startpunt. Niet zichtbaar en niet indrukwekkend, maar in verhouding tot de kosten het hoogste rendement dat er te halen valt.
 
-Doe de rooktest, identificeer je lekken, koop de juiste materialen (EPDM, acrylaat, purschuim) en spend twee uur. De gasrekening dit stookseizoen zal het bevestigen.
+Doe de rooktest, breng je lekken in kaart, koop de juiste materialen (EPDM, acrylaat, purschuim) en trek er twee middagen voor uit. Vergelijk daarna je gasverbruik over een volledig stookseizoen — gecorrigeerd voor graaddagen — om te zien wat het werkelijk heeft opgeleverd.
 
 ---
 
@@ -351,7 +355,7 @@ In woningen met geluidsoverlast van buiten (verkeer, buren) is akoestische kit (
 
 ## Seizoensgebonden kierdichting: wintercheck
 
-Kierdichting is niet eenmalig. Elk jaar voor het stookseizoen doe ik een korte check:
+Kierdichting is niet eenmalig: strips worden samengeperst en kit scheurt door temperatuurwisselingen. Doe daarom elk jaar vóór het stookseizoen een korte check.
 
 **Oktober-checklist kierdichting:**
 
@@ -361,13 +365,13 @@ Kierdichting is niet eenmalig. Elk jaar voor het stookseizoen doe ik een korte c
 - [ ] Doorvoeringen leidingen: zijn er nieuwe scheurvorming door temperatuurwisseling?
 - [ ] Stopcontacten buitenmuur: zijn de isolatieschijfjes nog aanwezig?
 
-Gemiddeld heb ik jaarlijks €15-€30 aan bijwerking nodig (nieuwe kit hier en daar, vervanging van een versleten tochtstrip). De jaarlijkse besparing van €290 staat hier ruimschoots tegenover.
+Reken op €15-€30 per jaar aan bijwerken (een tube kit, een vervangen tochtstrip). Tegenover een besparing die in de honderden euro's per jaar loopt, is dat een verwaarloosbare onderhoudspost — maar sla je het over, dan loopt de luchtdichtheid in een paar jaar terug naar de oude situatie.
 
 ---
 
 ## Kierdichting in combinatie met mechanische ventilatie
 
-Een veelgestelde vraag: als ik de woning dichter maak, wordt de lucht dan niet ongezond?
+Een veelgestelde en terechte vraag: wordt de lucht niet ongezond als je de woning dichter maakt?
 
 Dit is een terechte zorg. Een luchtdichte woning moet bewust geventileerd worden, anders stijgen de CO2-concentratie en luchtvochtigheid.
 
@@ -432,7 +436,7 @@ Een thermografische camera (warmtebeeldcamera) maakt de koude plekken in je woni
 - Huur van een camera: €50-€100/dag (online te huren via bijv. Loxam of Boels)
 - Professionele thermografische inspectie: €200-€500 inclusief rapport
 
-Ik heb een thermografische camera één dag gehuurd voor €60 en daarmee precies gezien welke stopcontacten en kozijnnaden nog lekken had na mijn eerste kierdichtingsronde. De tweede ronde was daardoor efficiënter.
+Een dag een camera huren is de moeite waard ná je eerste kierdichtingsronde, niet ervoor: de grote lekken vind je met een wierookstokje, en de camera laat vervolgens zien welke stopcontacten en kozijnnaden nog resteren. Zo maak je de tweede ronde gericht in plaats van dat je op gevoel opnieuw alles nagaat.
 
 ---
 
@@ -466,7 +470,7 @@ Als je overstapt van ongecontroleerde ventilatie (kieren) naar een mechanisch ve
 - Kitpistool: €8
 - Verwachte besparing: €120-€180/jaar
 
-**Budget €100 (mijn aanpak):**
+**Budget €100 (de volledige aanpak):**
 - Alle deuren volledig gedicht (EPDM + borstelseal)
 - Acht kozijnen gekitted
 - Vier leidingdoorvoeringen afgedicht

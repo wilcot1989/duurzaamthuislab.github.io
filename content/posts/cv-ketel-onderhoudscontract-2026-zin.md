@@ -1,8 +1,8 @@
 ---
 title: 'Cv-ketel onderhoudscontract 2026: heb je het echt nodig?'
 date: 2026-05-21 08:00:00+02:00
-lastmod: 2026-05-21 08:00:00+02:00
-description: Is een cv-ketel onderhoudscontract de moeite waard? Ik bereken wat het echt kost versus eenmalige reparatie en wanneer het wel of niet loont.
+lastmod: 2026-08-19 08:00:00+02:00
+description: Is een cv-ketel onderhoudscontract de moeite waard? Wat het kost versus losse reparaties, en wanneer het wel en niet loont.
 categories:
 - energie
 tags:
@@ -26,7 +26,7 @@ keywords:
 - cv-ketel onderhoudscontract vergelijken
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Hoe vaak moet een cv-ketel worden onderhouden?
@@ -54,16 +54,16 @@ products:
   price: '5995'
 schema_type: Article
 ---
-Twee jaar geleden belde ik een installateur voor de jaarlijkse servicebeurt van mijn Remeha Tzerra. Aan het einde van het gesprek vroeg hij of ik interesse had in een servicecontract. "€220 per jaar, alles inclusief." Ik vroeg wat dat betekende. "Onderhoud, reparaties, voorrijkosten, storingsdienst 24/7." Hij voegde eraan toe: "Dat is echt een koopje. Je weet toch nooit wanneer hij het begeeft."
+"€220 per jaar, alles inclusief: onderhoud, reparaties, voorrijkosten en 24/7 storingsdienst." Zo klinkt het aanbod dat vrijwel elke installateur na een servicebeurt doet, meestal met de toevoeging dat je nooit weet wanneer de ketel het begeeft.
 
-Ik heb nee gezegd. En ik heb er geen spijt van gehad — maar niet iedereen heeft dezelfde situatie.
+Dat argument werkt, want het speelt in op de angst voor een koud huis in januari. Maar een onderhoudscontract is in de kern een verzekering, en of een verzekering rendeert, is een rekensom: de premie tegenover de kans op schade maal de omvang van die schade.
 
-Dit artikel is voor iedereen die die vraag kent: moet ik een onderhoudscontract nemen of niet? Ik ga de rekensommetjes eerlijk maken, de kleine lettertjes doorlopen en je helpen een beslissing te nemen die past bij jouw ketel, jouw woning en jouw risicobereidheid.
+Hieronder maken we die rekensom, lopen we de kleine lettertjes van dit soort contracten door, en zetten we op een rij bij welke ketel, welke woning en welke risicobereidheid een contract wel of niet past.
 
 ---
 
 
-> **Kort antwoord:** Is een cv-ketel onderhoudscontract de moeite waard? Ik bereken wat het echt kost versus eenmalige reparatie en wanneer het wel of niet loont.
+> **Kort antwoord:** Een all-in onderhoudscontract kost al snel €250-€300 per jaar, terwijl losse onderhoudsbeurten en de gemiddelde reparatiekosten daar in de meeste jaren onder blijven. Een contract is vooral verzekering tegen één duur incident — zinvol bij een oudere ketel of zonder financiële buffer, minder zinvol bij een jonge ketel met garantie.
 >
 > Een cv-ketel moet minimaal eens per twee jaar worden onderhouden, en bij voorkeur jaarlijks. De fabrikant schrijft dit doorgaans voor om de garantie te behouden. Bij jaarlijks onderhoud wordt de brander gereinigd, de verbrandingslucht gecontroleerd en de waterdruk gecheckt. Dat verlengt de levensduur en voorkomt storingen.
 
@@ -107,7 +107,7 @@ Kosten: **€220–€380 per jaar**
 
 ## Wat kosten reparaties zonder contract?
 
-Om een goede afweging te maken, moet je weten wat reparaties los kosten. Ik heb de gangbare tarieven van installateurs in 2026 op een rij gezet.
+Om de afweging te maken moet je weten wat reparaties los kosten. Hieronder de gangbare tarieven van installateurs in 2026; het zijn marktindicaties, geen vaste prijzen — vraag altijd een specificatie vooraf.
 
 ### Voorrijkosten en eerste uur
 
@@ -182,7 +182,7 @@ Remeha Avanta van 13 jaar oud. Meerdere reparaties gehad. Warmtewisselaar is ori
 
 ## Kleine lettertjes: waar je op moet letten
 
-Dit is het deel dat de meeste mensen overslaan. Ik heb een aantal contracts doorgelezen en dit zijn de valkuilen:
+Dit is het deel dat de meeste mensen overslaan. Uit de voorwaarden van gangbare servicecontracten komen deze valkuilen naar voren:
 
 **1. Maximale reparatiekosten per jaar**
 Veel contracten dekken reparaties tot €500 of €750 per jaar. Een warmtewisselaar van €700 valt er dan deels buiten. Lees het maximum goed na.
@@ -204,22 +204,26 @@ Een Vaillant-servicecontract dekt alleen Vaillant-ketels. Als je de ketel vervan
 
 ---
 
-## Mijn persoonlijke aanpak
+## Rekenvoorbeeld: zeven jaar met en zonder contract
 
-Ik heb de afgelopen 12 jaar drie cv-ketels meegemaakt (twee huurwoningen en mijn eigen koopwoning). Mijn aanpak:
+Een rekenvoorbeeld met expliciete aannames (fictief), voor een ketel uit 2018 in een koopwoning:
 
-**Koopwoning, eigen ketel (Remeha Tzerra, 2018):**
-- Eerste 5 jaar: geen contract, tweejaarlijks onderhoud bij lokale installateur (€110 per beurt)
-- Na jaar 5: jaarlijks onderhoud zonder contract (€120 per jaar)
-- Tot nu toe: één kleine storing (cv-pomp, €290) in zeven jaar
-- Totale kosten onderhoud + reparatie: €840
-- Als ik een all-in contract had gehad: €280 × 7 = €1.960
+**Zonder contract:**
+- Jaar 1-5: tweejaarlijkse onderhoudsbeurt bij een lokale installateur, circa €110 per beurt
+- Jaar 6-7: jaarlijks onderhoud, circa €120 per jaar
+- Eén storing in die periode (bijvoorbeeld een cv-pomp, circa €290)
+- Totaal over zeven jaar: ongeveer €840
 
-Het contract zou mij €1.120 extra hebben gekost over zeven jaar. Maar dat is achteraf redeneren. Als ik in jaar 4 een printplaat van €500 had gehad, was het contract goedkoper geweest.
+**Met een all-in contract:**
+- €280 per jaar × 7 = €1.960
 
-**Mijn advies voor jouw situatie:**
+In dit scenario is het contract circa €1.120 duurder. Maar dat is achteraf redeneren: was er in jaar 4 een printplaat van €500 en in jaar 6 een warmtewisselaar gesneuveld, dan was het contract goedkoper geweest.
 
-| Situatie | Mijn aanbeveling |
+De juiste vraag is dus niet "wat had ik bespaard", maar: hoe groot is de kans op een duur defect bij een ketel van deze leeftijd, en kun je zo'n rekening in één keer opvangen? Bij een jonge ketel is die kans klein en de garantie loopt nog; bij een ketel boven de tien jaar loopt de kans op een grotere reparatie zichtbaar op.
+
+**Onze aanbeveling per situatie:**
+
+| Situatie | Onze aanbeveling |
 |---|---|
 | Nieuwe ketel (0–5 jaar), in garantie | Geen contract of alleen basisonderhoud |
 | Middenoude ketel (5–10 jaar), stabiel | Onderhoud + storingsdekking (niveau 2) als je gemoedsrust wilt |
@@ -262,7 +266,7 @@ Nadelen:
 - Als het bedrijf stopt of failliet gaat, ben je je contract kwijt
 - Minder formele SLA
 
-**Mijn voorkeur** voor een middenoude ketel in een bewoonde woning: een contract bij een vertrouwd lokaal installatiebedrijf. Je betaalt €100–€160 per jaar voor onderhoud + storingsprioriteit, en je krijgt dezelfde monteur die jouw ketel al jaren kent.
+**Onze inschatting** voor een middenoude ketel in een bewoonde woning: een contract bij een vertrouwd lokaal installatiebedrijf is de gunstigste verhouding. Je betaalt €100–€160 per jaar voor onderhoud plus storingsprioriteit, en je krijgt dezelfde monteur die de ketel al kent — dat scheelt diagnosetijd bij een storing.
 
 ---
 
@@ -285,9 +289,9 @@ Als de ketel 14+ jaar oud is en de warmtewisselaar of de printplaat kapot gaat, 
 
 ## Cv-ketel of hybride warmtepomp: wanneer overstappen?
 
-Dit is de vraag die ik het meest krijg van mensen die hun ketel laten onderhouden: "Moet ik hem vervangen?"
+De vraag die hier onvermijdelijk bij hoort: moet je hem vervangen?
 
-Mijn vuistregel: als de ketel ouder is dan 12 jaar en een grotere reparatie nodig heeft (>€400), is het de moeite waard de transitie naar een hybride warmtepomp te berekenen.
+Een bruikbare vuistregel: is de ketel ouder dan twaalf jaar én heeft hij een reparatie nodig van meer dan €400, reken dan door wat de overstap naar een hybride warmtepomp oplevert. Je betaalt dan namelijk een aanzienlijk bedrag voor een toestel dat je binnen enkele jaren toch vervangt.
 
 **Waarom hybride en niet volledig elektrisch?**
 Een hybride warmtepomp combineert een lucht-water warmtepomp met een compacte cv-ketel. De warmtepomp verzorgt 80–90% van de warmtebehoefte; de ketel springt bij op de koudste dagen (onder -5°C buiten). Dit maakt de investering lager (€6.000–€10.000) dan een volledig elektrisch systeem, en de installatie is compatibel met bestaande radiatoren.
@@ -337,26 +341,26 @@ Als je ketel 12+ jaar oud is, overweeg dan om hem te vervangen door een hybride 
 Dit is de angst die mensen ertoe brengt een duur all-in contract te nemen. Dat is menselijk — niemand wil een koud huis in januari. Maar de realiteit is:
 
 - De meeste installateurs hebben een spoedtarief: €150–€250 voor een avond- of weekendbezoek boven het normale tarief. Dat is pijnlijk, maar eenmalig.
-- Bij een cv-ketel storing die het warm water lamlegde, kon mijn buurman zijn ketel in 48 uur laten repareren, ook zonder contract.
+- Ook zonder contract is een reparatie bij een reguliere storing doorgaans binnen enkele werkdagen te regelen; contracthouders krijgen prioriteit, geen exclusiviteit.
 - Kritieke onderdelen (gasventiel, ontsteker) zijn veelal op voorraad bij installateurs. Langere vertraging treedt op bij specifieke printplaten van oude ketels.
 
-Mijn tip: bewaar het nummer van een betrouwbare, lokale installateur op je telefoon. Bouw een buffer van €500–€700 op. Dat is goedkoper dan jarenlang een duur contract betalen.
+Praktisch alternatief: zet het nummer van een betrouwbare lokale installateur in je telefoon en bouw een buffer van €500–€700 op. Bij de meeste ketels is dat over meerdere jaren goedkoper dan een duur all-in contract — het verschil is dat je het risico zelf draagt.
 
 ---
 
-## Wat ik zelf doe: mijn cv-ketel aanpak
+## De praktische aanpak zonder contract
 
-Ik heb een Remeha Tzerra van 2018 draaien, nu 8 jaar oud. Mijn eigen aanpak is praktisch:
+Wil je geen contract, dan is dit de opzet die het meeste risico wegneemt tegen de laagste kosten — voor een ketel van rond de acht jaar oud:
 
-**Onderhoud:** ik laat hem elke 2 jaar nakijken door dezelfde lokale installateur. Kosten: €120 per beurt. Dat is €60 per jaar gemiddeld. Geen contract.
+**Onderhoud.** Laat hem elke één tot twee jaar nakijken door dezelfde lokale installateur; reken op circa €120 per beurt. Bij tweejaarlijks onderhoud is dat gemiddeld €60 per jaar. Let op: sommige fabrieksgaranties eisen jaarlijks onderhoud — check dat in je garantievoorwaarden voordat je overstapt op tweejaarlijks.
 
-**Zelf monitoren:** ik check maandelijks de waterdruk op de manometer (moet 1,5–2 bar zijn). Als hij daalt, vul ik zelf bij — dat staat in de handleiding. Ik luister ook of de ketel anders klinkt dan normaal. Een veranderd geluid of langere opstarttijden zijn vroege signalen van een probleem.
+**Zelf monitoren.** Controleer maandelijks de waterdruk op de manometer (bij de meeste ketels 1,5–2 bar volgens de handleiding) en vul bij als hij daalt; de handleiding beschrijft hoe. Let daarnaast op verandering: een ander geluid of langere opstarttijden zijn vroege signalen van een probleem en geven je de kans om een storing vóór de winter te laten verhelpen.
 
-**Buffer:** ik heb €700 op een aparte spaarrekening staan voor huisonderhoud. Als de ketel een onverwachte storing krijgt, betaal ik die rekening van die buffer.
+**Buffer.** Zet €500–€700 apart voor onderhoud aan huis. Daarmee dek je een gemiddelde reparatie inclusief voorrijkosten zonder dat het je begroting verstoort.
 
-**Verduurzaming:** over 2–3 jaar plan ik een hybride warmtepomp. Dan gaat de Remeha eruit — hij is dan 10–11 jaar oud en nog prima werkend. Ik ga dus geen duur servicecontract afsluiten voor een ketel die ik over 2 jaar toch vervang.
+**Timing van verduurzaming.** Ben je van plan binnen enkele jaren over te stappen op een hybride warmtepomp, sluit dan geen langdurig servicecontract meer af voor de bestaande ketel — je betaalt dan premie voor een toestel dat je toch vervangt.
 
-Dit is de aanpak die ik ook anderen aanbeveel. Hij is niet spectaculair, maar hij is goedkoper dan welk servicecontract dan ook — en hij dwingt me om mijn installatie te kennen.
+Deze aanpak is niet spectaculair, maar hij is in de meeste jaren goedkoper dan een all-in contract, met als prijs dat je het risico van één duur incident zelf draagt.
 
 ---
 
@@ -375,7 +379,7 @@ De energiesector beweegt richting warmtepompen. Elke euro die je steekt in het o
 
 ## Hoe herken je een goede installateur voor cv-onderhoud?
 
-Niet elke installateur die "cv-onderhoud" aanbiedt is even betrouwbaar. Hier zijn de criteria die ik gebruik om een goede keuze te maken.
+Niet elke installateur die "cv-onderhoud" aanbiedt is even betrouwbaar. Dit zijn de criteria waarop je kunt selecteren.
 
 **Keurmerk en certificering.** Een erkend installateur heeft het STEK-certificaat (voor koudemiddelen, relevant voor warmtepompen) of een Gastec-keurmerk voor gasapparaten. Voor cv-ketels specifiek: het KIWA- of CITO-keurmerk. Vraag er naar bij de eerste offerte.
 
@@ -391,7 +395,7 @@ Niet elke installateur die "cv-onderhoud" aanbiedt is even betrouwbaar. Hier zij
 
 ---
 
-*Disclosure: ik heb geen commerciële relatie met serviceverleners op deze pagina. De genoemde prijzen zijn indicatief en gebaseerd op gangbare markttarieven in 2026.*
+*Disclosure: wij hebben geen commerciële relatie met serviceverleners op deze pagina. De genoemde prijzen zijn indicatief en gebaseerd op gangbare markttarieven in 2026.*
 
 
 <a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Bosch</a>

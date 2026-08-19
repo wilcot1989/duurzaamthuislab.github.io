@@ -2,7 +2,7 @@
 title: 'Marstek Venus vs Anker Solix 2026: welke thuisbatterij wint?'
 date: 2026-08-19 08:00:00+02:00
 lastmod: 2026-08-19 08:00:00+02:00
-description: Marstek Venus of Anker Solix als thuisbatterij? Ik test beide naast elkaar — prijs, app, arbitrage en eerlijke aanbeveling voor Nederland 2026.
+description: Marstek Venus of Anker Solix als thuisbatterij? Vergelijking op prijs per kWh, app, spotprijs-integratie en garantie voor Nederland 2026.
 categories:
 - thuisbatterijen
 - batterij-vergelijking
@@ -22,7 +22,7 @@ keywords:
 - anker solix x1 vergelijking
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1581094288338-2314dddb7ece&w=1200&output=webp&q=70
 faq:
 - q: Wat is goedkoper, Marstek Venus of Anker Solix?
@@ -38,7 +38,7 @@ faq:
 - q: Werken ze met mijn bestaande zonnepanelen?
   a: 'Ja, beide kunnen aansluiten op DC-input van bestaande paneel-omvormer of via AC-koppeling. Voor optimale werking: AC-gekoppelde installatie (achter de meter), zodat de batterij ook van het net laadt bij goedkope uren. Werkt met SolarEdge, Enphase, Huawei, Goodwe en alle gangbare omvormers in NL.'
 - q: Hoeveel kun je verdienen met arbitrage?
-  a: 'Op een 5 kWh systeem in 2026: €30-€60/maand bij Marstek (automatisch), €20-€40/maand bij Anker (vereist eigen sturing of Home Assistant). Op een 10 kWh systeem: €70-€110/maand bij Marstek, €50-€80/maand bij Anker. Verschil komt door spotprijs-integratie en strategie-algoritme.'
+  a: 'Dat hangt volledig af van de prijsspread op de EPEX-markt en van hoeveel cycli je per dag haalt. Vuistregel: capaciteit × cycli per dag × spread na belasting × rendement. Bij een 5 kWh batterij, één cyclus per dag en een bruikbare spread van €0,18/kWh kom je op circa €25 per maand; bij bredere spreads of twee cycli loopt dat op. Systemen met ingebouwde spotprijs-sturing halen doorgaans meer cycli op de juiste momenten dan systemen die je zelf moet inrichten.'
 - q: Welke is uitbreidbaar?
   a: 'Marstek Venus: modulair tot 30 kWh (zes 5 kWh-modules). Anker Solix: modulair tot 25 kWh in nieuwste systeem (X1 Home). Beide zijn schaalbaar maar Marstek heeft langere ervaring met multi-module installaties. Voor wie klein wil starten en later uitbreiden: beide werken, Marstek heeft ietsje vlottere upgrade-pad.'
 products:
@@ -56,18 +56,18 @@ products:
   price: '5999'
 schema_type: Article
 ---
-Een huurder uit mijn dorp belde me afgelopen winter. Hij heeft geen mogelijkheid om zonnepanelen te installeren (huurwoning) en geen ruimte voor een grote batterij in de meterkast. "Mark, kun je me helpen kiezen tussen Marstek en Anker Solix? Ik wil gewoon een batterij stekkerklaar in mijn schuur, die opladen wanneer stroom goedkoop is en aflaten als duur."
+Voor wie geen zonnepanelen kan plaatsen — bijvoorbeeld in een huurwoning — en geen ruimte heeft voor een grote installatie in de meterkast, is een stekkerklare batterij het interessantste product van dit moment: opladen als stroom goedkoop is, ontladen als hij duur is. Marstek Venus en Anker Solix zijn in dat segment de twee bekendste namen.
 
-Goeie vraag. Ik kende beide systemen — Marstek had ik bij mijn eigen huis als testopstelling staan sinds april 2025, Anker Solix had ik via de buren van mijn schoonmoeder in Brabant kunnen volgen sinds juli 2025. Tien maanden parallel data. Tijd voor een eerlijke vergelijking.
+Hieronder vergelijken we ze op de punten die de keuze bepalen: prijs per kWh, capaciteit en uitbreidbaarheid, spotprijs-integratie, app, IP-classificatie en garantievoorwaarden. Alle gegevens komen uit datasheets, garantievoorwaarden en prijslijsten van beide fabrikanten.
 
-*Disclosure: ik heb geen affiliate-relatie met Marstek of Anker (april 2026). Marstek heeft mij een testunit geleend voor 2 maanden (5 kWh), die heb ik daarna teruggegeven. De cijfers hieronder zijn van mijn echte aankoop (Marstek 10 kWh) en buurman's Anker (5 kWh).*
+*Disclosure: wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data. Waar wij een affiliate-relatie met een leverancier hebben, staat dat bij de betreffende links.*
 
 ---
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
 
-> **Kort antwoord:** Marstek Venus of Anker Solix als thuisbatterij? Ik test beide naast elkaar — prijs, app, arbitrage en eerlijke aanbeveling voor Nederland 2026.
+> **Kort antwoord:** In het 5 kWh-segment liggen Marstek Venus en Anker Solix qua prijs per kWh dicht bij elkaar; boven de 5 kWh is Marstek per kWh duidelijk goedkoper. Marstek heeft ingebouwde spotprijs-sturing, Anker de meer afgewerkte app en de hogere IP-classificatie.
 >
 > Marstek Venus 5 kWh: €1.999 stekkerklaar. Anker Solix Solarbank 2 Pro 5 kWh (vergelijkbaar segment): €1.799-€2.099 afhankelijk van bundle. Voor de instap-balkonbatterij is Anker iets goedkoper, voor de uitgebreide all-in installatie (vanaf 10 kWh + omvormer + slim handelen) is Marstek voordeliger. Reken op €100-€200 verschil per kWh capaciteit.
 
@@ -111,14 +111,14 @@ Per kWh capaciteit (incl btw, excl installatie):
 
 Voor 5 kWh segment: Anker iets goedkoper. Voor 10 kWh+ segment: Marstek significant goedkoper.
 
-Voor de huurder uit mijn dorp die zoekt naar 5 kWh stekkerklaar: Anker. Voor wie meer wil en opschaalmogelijkheid wil: Marstek.
+Zoek je 5 kWh stekkerklaar, dan is Anker de goedkoopste route. Wil je meer capaciteit of later kunnen uitbreiden, dan is Marstek per kWh duidelijk voordeliger.
 
-## App-ervaring: 4 maanden gebruikt
+## App: wat de twee apps kunnen
 
-Ik heb beide apps dagelijks gebruikt. Dit is mijn eerlijke samenvatting.
+Onderstaande functievergelijking is gebaseerd op de app-documentatie van beide fabrikanten en op wat gebruikers in reviews rapporteren.
 
-**Marstek-app (versie 4.2):**
-- Functioneel maar onaantrekkelijk
+**Marstek-app:**
+- Functioneel, minder afgewerkt in vormgeving
 - Spotprijs-integratie standaard zichtbaar
 - Werkt out-of-the-box met Frank en Tibber
 - Statistieken duidelijk, maar grafieken zijn lelijk
@@ -133,7 +133,7 @@ Ik heb beide apps dagelijks gebruikt. Dit is mijn eerlijke samenvatting.
 - Volledig Nederlandstalig
 - Push-notificaties uitgebreid configureerbaar
 
-**Mijn observatie**: Anker-app is "consumer-grade", Marstek-app is "engineer-grade". Voor wie wil tweaken: Marstek. Voor wie wil dat het mooi en simpel is: Anker.
+**Onze inschatting**: de Anker-app is consumer-grade, de Marstek-app engineer-grade. Wil je zelf instellen en fijnregelen: Marstek. Wil je dat het er mooi en eenvoudig uitziet: Anker.
 
 ## Spotprijs-integratie: hier zit het echte verschil
 
@@ -153,9 +153,9 @@ Dit is waar het over gaat in 2026 en zeker post-2027. Een batterij die niet auto
 - Werkt sinds Q2 2025 maar tweakerige setup
 - Anker heeft "Smart Optimization" beloofd voor 2026 maar nog niet gelanceerd
 
-In mijn 10 maanden test: Marstek leverde gemiddeld €88/maand op via arbitrage (10 kWh, automatisch), Anker bij buurman gemiddeld €52/maand (5 kWh, met Home Assistant maar minder geoptimaliseerd).
+Wat dat verschil in euro's waard is, hangt af van de prijsspreads in dat jaar. De rekenwijze: capaciteit × cycli per dag × bruikbare spread na belasting × round-trip rendement. Het structurele voordeel van ingebouwde sturing zit niet in een hoger rendement per cyclus, maar in het aantal cycli dat op de juiste momenten wordt gemaakt — een handmatig of half geautomatiseerd systeem mist dips en pieken die een native algoritme wel pakt.
 
-Bij gelijke capaciteit (5 kWh) is Marstek ongeveer **€20-€30/maand productiever** door snellere en aggressievere arbitrage.
+Onze inschatting: bij gelijke capaciteit levert de ingebouwde sturing van Marstek een merkbaar hoger aantal nuttige cycli op dan een zelf ingerichte Anker-opstelling, tenzij je die laatste zorgvuldig in Home Assistant configureert.
 
 Lees ook: [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/) en [Beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/).
 
@@ -164,16 +164,16 @@ Lees ook: [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-vergelijking-2
 Voor stekkerklaar systemen is plaatsing cruciaal — als het ding zoemt is dat een dealbreaker.
 
 **Marstek Venus 5 kWh:**
-- 32 dB op 1 meter (fluisterstil)
-- Ventilator alleen actief bij laden/ontladen >2 kW
-- Geschikt voor woonkamer, kelder, schuur
+- Fabrieksopgave circa 32 dB op 1 meter
+- Ventilator actief bij hogere laad- en ontlaadvermogens
+- Volgens de handleiding geschikt voor woonruimte, kelder of schuur
 
 **Anker Solix Solarbank 2 Pro:**
-- 28 dB op 1 meter (vrijwel niet hoorbaar)
-- Passief gekoeld onder 1 kW
-- Geschikt voor woonkamer, schuur, garage
+- Fabrieksopgave circa 28 dB op 1 meter
+- Passief gekoeld bij lagere vermogens
+- Geschikt voor woonruimte, schuur of garage
 
-Anker wint hier marginaal. Beide zijn stiller dan een koelkast.
+Op papier is Anker marginaal stiller. Beide zitten volgens de opgaven onder het geluidsniveau van een koelkast.
 
 ## Werkt het buiten?
 
@@ -218,32 +218,29 @@ Voor wie zekerheid wil: Anker heeft iets meer certificering. Voor de praktijk ma
 - 10 jaar product-garantie
 - 80% capaciteit-garantie na 10 jaar
 - Service via lokale NL-dealer
-- Vervanging gemiddeld 2-3 weken
-- Engelstalig support, NL-dealer doet vertaling
+- Afhandeling via de dealer; reken op enkele weken bij vervanging
+- Support in het Engels, met de Nederlandse dealer als tussenpersoon
 
 **Anker:**
 - 10 jaar product-garantie
 - 70% capaciteit-garantie na 10 jaar (lager dan Marstek)
 - Service direct via Anker EU
-- Vervanging gemiddeld 1-2 weken
-- Volledig Nederlandstalig support
+- Afhandeling direct via Anker EU
+- Nederlandstalige support
 
-Voor capaciteit-behoud: Marstek wint. Voor service-snelheid en taal: Anker wint.
+Op capaciteitsgarantie staat Marstek voor (80% versus 70% na 10 jaar). Op supporttaal en directe afhandeling staat Anker voor.
 
 ## Met de saldering-stop in 2027: wat is slimmer?
 
-Saldering stopt 1 januari 2027. Vanaf dan krijg je voor terug-geleverde stroom alleen de spotprijs (gemiddeld €0,06/kWh) in plaats van de huidige saldering (€0,30/kWh).
+Met het einde van de salderingsregeling verdwijnt de vergoeding van het volle leveringstarief voor teruggeleverde stroom; wat je terugkrijgt zakt naar de terugleververgoeding die je leverancier biedt. Voor wie zonnepanelen heeft, wordt zelf verbruiken daarmee aantrekkelijker dan terugleveren — en dat is precies wat een batterij mogelijk maakt.
 
-Voor wie zonnepanelen heeft: een batterij wordt economisch logisch — je gebruikt liever je eigen stroom dan terug te leveren.
+Een rekenvoorbeeld met expliciete aannames (fictief): 5.000 kWh paneelproductie, nu 800 kWh teruglevering, en een verschil van €0,24/kWh tussen wat je voor teruglevering krijgt en wat je voor inkoop betaalt.
 
-**Voor 5.000 kWh paneelproductie en 800 kWh teruglevering nu:**
-- Inkomstenverlies post-2027 zonder batterij: 800 × €0,24 = **€192/jaar**
-- Met 5 kWh batterij (Marstek of Anker): teruglevering naar 200 kWh, eigen verbruik +600 kWh
-- Besparing: 600 × €0,24 = **€144/jaar bovenop arbitrage**
+- Zonder batterij verlies je op die 800 kWh circa €190 per jaar aan waarde.
+- Met een 5 kWh batterij verschuif je een groot deel daarvan naar eigen gebruik: bij 600 kWh extra zelfconsumptie is dat circa €145 per jaar.
+- Daar bovenop komt arbitrage, waarvan de opbrengst afhangt van de spread — zie de rekenwijze hierboven.
 
-In 5 jaar tijd: €720 saldering-besparing + €4.800-€6.600 arbitrage = **€5.500-€7.300 totaal** op een Marstek 5 kWh van €1.999. Terugverdientijd: 1,5-2 jaar.
-
-Anker doet bijna hetzelfde, maar met handmatige sturing valt €1.000 minder voordeel weg over 5 jaar.
+Belangrijk: de terugverdientijd die je hieruit krijgt, is zo betrouwbaar als je aanname over de spread en over het aantal cycli. Reken minstens twee scenario's door (smalle en brede spread) voordat je een investeringsbeslissing neemt.
 
 ## Wanneer kies je Marstek?
 
@@ -277,54 +274,45 @@ Anker doet bijna hetzelfde, maar met handmatige sturing valt €1.000 minder voo
 
 ## Concrete keuzehulp per scenario
 
+De opbrengsten hieronder zijn modeluitkomsten bij een bruikbare spread van circa €0,18/kWh na belasting en één tot twee cycli per dag — geen gemeten waarden. Bij smallere spreads vallen ze lager uit.
+
 **Scenario 1: huurwoning, geen panelen, alleen arbitrage**
 → Anker Solarbank 2 Pro 5 kWh, AC-gekoppeld
-- Eenvoudige opstelling, mooie app
-- Verdient ~€30-€50/maand bij dynamisch contract
-- Terugverdientijd: 4-6 jaar
+- Eenvoudige opstelling, afgewerkte app
+- Modelopbrengst in de orde van enkele tientjes per maand bij een dynamisch contract
+- Terugverdientijd in het model: 4-6 jaar
 
-**Scenario 2: koopwoning, panelen, EV, ambitieus**
-→ Marstek Venus 10 kWh, AC + DC-gekoppeld
-- Maximale arbitrage automatisch
-- Werkt naadloos met Frank/Tibber
-- Verdient ~€100-€140/maand combineerd met saldering-besparing
-- Terugverdientijd: 3-4 jaar
+**Scenario 2: koopwoning, panelen, EV**
+→ Marstek Venus 10 kWh, AC en DC-gekoppeld
+- Ingebouwde spotprijs-sturing, werkt met Frank en Tibber
+- Modelopbrengst ruwweg het dubbele van scenario 1, plus de winst uit hogere zelfconsumptie
+- Terugverdientijd in het model: 3-5 jaar
 
-**Scenario 3: balkon, kleine startup**
-→ Anker Solarbank 2 Pro 5 kWh + 2x 400W panelen
+**Scenario 3: balkon, klein beginnen**
+→ Anker Solarbank 2 Pro 5 kWh met twee panelen van 400W
 - IP65, water- en stofdicht
 - Plug-and-play installatie
-- Verdient ~€20-€40/maand
-- Voor wie wil starten klein
+- Modelopbrengst het laagst van de vier, maar ook de laagste investering
 
-**Scenario 4: groot huishouden, 30+ panelen, warmtepomp**
+**Scenario 4: groot huishouden, veel panelen, warmtepomp**
 → Marstek Venus 15-20 kWh modulair
-- Schaalbaar, beste prijs/kWh
-- 3-fase output standaard
-- Verdient ~€150-€220/maand
-- Lange termijn perspectief
+- Schaalbaar, beste prijs per kWh
+- 3-fase output
+- Hoogste absolute opbrengst, mits je die capaciteit dagelijks daadwerkelijk benut
 
-## Geluiden uit mijn ervaring (10 maanden)
+## Wat gebruikers rapporteren over betrouwbaarheid
 
-**Marstek Venus 10 kWh thuis bij mij:**
-- 270 cycli in 10 maanden
-- Capaciteit-behoud: 99,4% (gemeten)
-- Stroomstoringen: 0
-- Firmware-updates: 4 (Marstek werkt actief aan verbeteringen)
-- Klantenservice: 1 vraag, beantwoord binnen 24 uur (Engelstalig via dealer)
+Uit gebruikersreviews en fabrikant-releasenotes komt bij beide merken hetzelfde beeld: de hardware is stabiel en de klachten die er zijn, gaan bijna altijd over software en configuratie, niet over cellen of omvormers.
 
-**Anker Solix Solarbank 2 Pro 5 kWh bij buurman:**
-- 245 cycli in 10 maanden
-- Capaciteit-behoud: 98,8%
-- Stroomstoringen: 1 (firmware-bug, opgelost na update)
-- Firmware-updates: 6 (Anker is actiever in updates)
-- Klantenservice: 2 vragen, beantwoord binnen 12 uur (NL-talig)
+Wat er per merk uit naar voren komt:
 
-Beide systemen functioneren betrouwbaar. De firmware-updates van Anker komen frequenter, wat goed nieuws is voor toekomstige features.
+- **Firmware-frequentie.** Anker brengt vaker updates uit dan Marstek. Dat is gunstig voor nieuwe functies, maar betekent ook dat je af en toe een release met een regressie kunt treffen — bij beide merken zijn firmware-gerelateerde storingen gemeld die met een volgende update verholpen werden.
+- **Cloud versus lokaal.** Anker leunt zwaarder op de cloud; bij internetuitval valt de sturing weg. Marstek biedt een lokale modus via Modbus, maar die staat standaard uit.
+- **Degradatie in het eerste jaar.** Beide fabrikanten geven aan dat het capaciteitsverlies in de eerste jaren beperkt is en pas later in de garantiecurve oploopt. Wil je dat zelf volgen, log dan vanaf dag één de bruikbare capaciteit per volledige cyclus — dat is de enige manier om later een garantieclaim te onderbouwen.
 
 ## De 2027-uitkomst: welk systeem doet het beter?
 
-Als ik moet voorspellen wat over 5 jaar de winnaar is:
+Onze verwachting voor de komende jaren, op basis van de huidige positie van beide merken — geen zekerheid:
 
 **Marstek wint waarschijnlijk op:**
 - Algoritme-volwassenheid (al 2 jaar arbitrage)
@@ -354,13 +342,13 @@ Voor een Marstek of Anker tot 5 kWh: 1-fase is genoeg. Voor 10 kWh+ met EV-laden
 
 ---
 
-## Mijn aanbeveling
+## Onze aanbeveling
 
-Voor de huurder uit mijn dorp die de aanleiding was: **Anker Solix Solarbank 2 Pro 5 kWh**. Stekkerklaar, IP65, mooie app, NL-talig support. €1.899-€2.099 afhankelijk van bundle.
+**Huurwoning of balkon, 5 kWh stekkerklaar nodig:** Anker Solix Solarbank 2 Pro. Stekkerklaar, IP65, afgewerkte app en Nederlandstalige support, €1.899-€2.099 afhankelijk van de bundel.
 
-Voor mijn buurman Bas die al panelen heeft en EV: **Marstek Venus 10 kWh**. Beste arbitrage automatisch, schaalbaar, beste prijs/kWh.
+**Koopwoning met panelen en eventueel een EV:** Marstek Venus 10 kWh. Ingebouwde spotprijs-sturing, uitbreidbaar en de beste prijs per kWh in dat segment.
 
-Voor wie écht twijfelt: ga naar prijs/kWh kijken. <5 kWh nodig: Anker. >5 kWh: Marstek. Simpel.
+Twijfel je nog: kijk naar prijs per kWh en naar of je zelf wilt inrichten. Tot 5 kWh en zonder inrichtwerk: Anker. Boven 5 kWh of met automatisering: Marstek.
 
 <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a> · <a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Anker Solix</a>
 
@@ -370,7 +358,7 @@ Voor wie écht twijfelt: ga naar prijs/kWh kijken. <5 kWh nodig: Anker. >5 kWh: 
 
 Marstek en Anker Solix zijn beide solide thuisbatterijen voor 2026. Marstek wint op automatisering, prijs/kWh bij grote systemen en arbitrage-volwassenheid. Anker wint op app, NL-service, IP-rating en consumer-friendliness.
 
-In mijn 10 maanden parallel-test verdiende Marstek (10 kWh) gemiddeld €88/maand via arbitrage, Anker (5 kWh) €52/maand. Per kWh capaciteit dus vrijwel gelijk maar Marstek's automation maakt het verschil bij grotere systemen.
+Per kWh capaciteit presteren de cellen van beide merken vergelijkbaar — het zijn dezelfde soort LiFePO4-cellen. Het verschil in opbrengst ontstaat door de sturing: een systeem dat automatisch op spotprijs handelt, maakt meer nuttige cycli dan een systeem dat je zelf moet configureren.
 
 *Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 
@@ -387,21 +375,22 @@ In mijn 10 maanden parallel-test verdiende Marstek (10 kWh) gemiddeld €88/maan
 - [Powerstation vs thuisbatterij](/posts/powerstation-vs-thuisbatterij-2026/)
 - [Beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
 
-## Mini case-study — twee gezinnen, twee batterijen, dezelfde wijk Veldhoven
+## Waar de keuze in de praktijk op neerkomt
 
-Twee gezinnen in Veldhoven — vergelijkbare verbruikspatronen, identieke 12-panelen-installatie. Gezin A koos Marstek Venus 5 kWh (€2.890), gezin B koos Anker Solix Smart Home Battery 5 kWh (€3.190). 9 maanden 2025:
+Zet je twee 5 kWh-systemen naast elkaar bij hetzelfde verbruikprofiel, dan is de technische uitkomst vrijwel gelijk: dezelfde celchemie, vergelijkbare bruikbare capaciteit, vergelijkbaar aantal cycli. Het verschil zit in drie dingen die je vooraf kunt controleren:
 
-- Marstek: cycles 287, capaciteit constant 5,12 kWh, geen storingen, app 95 procent uptime
-- Anker Solix: cycles 269, capaciteit constant 5,08 kWh, één firmware-rollback, app 99 procent uptime
+1. **Aanschafprijs per kWh** — bij 5 kWh liggen ze dicht bij elkaar, boven 5 kWh loopt het uiteen.
+2. **App en sturing** — afgewerkte consumentenapp versus ingebouwde spotprijs-sturing.
+3. **Garantievoorwaarden** — let op het gegarandeerde capaciteitspercentage én op de looptijd; die twee verschillen per merk en per model, dus lees de garantieverklaring die bij jouw exacte model hoort.
 
-Conclusie: praktisch gelijk. Marstek wint €300 op aanschaf. Anker Solix wint op app-stabiliteit en garantie (10 vs 8 jaar). Voor gemiddelde NL-gebruiker is Marstek financieel slimmer; voor gebruikers die maximum gemak zoeken, weegt Anker Solix-app op tegen €300 prijsverschil.
+Er is geen technische reden om voor het duurdere systeem te kiezen als je de extra functies niet gebruikt.
 
 ## Veelgemaakte fouten in deze keuze
 
 1. **Op opslagcapaciteit alleen letten.** Roundtrip-efficiency, ontlaadvermogen en garantieduur vaak doorslaggevender.
 2. **Marstek zonder Modbus-toegang.** Lokale sturing vereist ingeschakelde Modbus-poort — fabriekstand vaak uit.
 3. **Anker Solix alleen via cloud.** Bij internet-uitval geen sturing — beperkter dan Marstek met lokale modus.
-4. **Stack-uitbreiding negeren.** Marstek tot 25 kWh, Anker Solix tot 16 kWh — bij EV-eigenaars relevant.
+4. **Stack-uitbreiding negeren.** Beide merken zijn modulair uitbreidbaar, maar tot verschillende maxima; controleer het maximum van jouw exacte model als je later wilt opschalen — voor EV-eigenaren is dat vaak het beslissende punt.
 5. **Garantie-overdracht bij verhuizing.** Marstek dragelijk via formulier, Anker Solix vereist nieuw account-link — soms gedoe.
 
 ## Wanneer geen van beide passend is
@@ -410,11 +399,11 @@ Voor zwaar 3-fase-belast huis (warmtepomp + EV + oven gelijktijdig piek) zijn 1-
 
 ## Extra FAQ
 
-**Welke heeft betere arbitrage-modus?**
-Anker Solix integreert native met Tibber Charge sinds firmware 2025.06. Marstek vereist EVCC of HA-tussenlaag. Voor non-tech gebruikers wint Anker Solix.
+**Welke heeft de betere arbitrage-modus?**
+Marstek heeft spotprijs-sturing in de firmware zitten en werkt daarmee zonder tussenlaag met leveranciers als Frank en Tibber. Bij Anker richt je dynamische sturing in via de eigen app in combinatie met Home Assistant of een EMS. Voor wie niets wil configureren is Marstek daarmee de directere route; controleer wel de actuele firmwarefuncties bij aanschaf, want beide merken breiden dit uit.
 
 **Kan ik later switchen?**
-Hardware niet uitwisselbaar (verschillende omvormer-protocols). Bij verkoop tweedehands marktwaarde 2 jaar oud: Marstek €1.200-€1.400, Anker Solix €1.400-€1.600.
+De hardware is niet uitwisselbaar: beide merken gebruiken hun eigen omvormer en protocol, dus modules van het ene merk werken niet in het systeem van het andere. Wil je tweedehands verkopen, houd er dan rekening mee dat de restwaarde sterk afhangt van de resterende garantietermijn — die is bij de meeste kopers het belangrijkste argument.
 
 ---
 

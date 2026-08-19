@@ -1,29 +1,29 @@
 ---
 title: 'Sessy vs Marstek thuisbatterij 2026: welke kies je?'
 date: 2026-10-01 08:00:00+02:00
-lastmod: 2026-10-01 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 draft: false
-description: 'Sessy €5995 vs Marstek €2500 head-to-head: prijs, app, garantie, vermogen en support eerlijk getest. Welke thuisbatterij past bij jou in 2026?'
+description: 'Sessy €5995 vs Marstek €2500 head-to-head: prijs, app, garantie, vermogen en support vergeleken op specificaties en gebruikersreviews. Welke thuisbatterij past bij jou in 2026?'
 categories: [thuisbatterijen]
 tags: [Sessy, Marstek, thuisbatterij, vergelijking, review, 2026]
 keywords: [sessy vs marstek, marstek vs sessy, thuisbatterij vergelijking, sessy prijs, marstek venus prijs, beste thuisbatterij 2026]
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
   - question: 'Is Sessy €3500 meer waard dan Marstek?'
-    answer: 'Voor wie Nederlandse support en bewezen dynamische sturing belangrijk vindt: ja. Voor wie zelf wil sleutelen en de Chinese app accepteert: nee, dan is Marstek de slimmere keuze.'
+    answer: 'Voor wie Nederlandse support en kant-en-klare dynamische sturing belangrijk vindt: ja. Voor wie zelf wil inrichten en de internationale app accepteert: nee, dan is Marstek de goedkopere keuze.'
   - question: 'Welke batterij heeft de beste app?'
-    answer: 'Sessy heeft de stabielere en uitgebreidere app met dynamische sturing op Tibber/ANWB Energie. De Marstek-app werkt, maar voelt aan als een vertaalde Chinese consumentenapp met af en toe haperingen.'
+    answer: 'Sessy heeft de uitgebreidere Nederlandstalige app met ingebouwde dynamische sturing op Tibber/ANWB Energie. In gebruikersreviews wordt de Marstek-app beschreven als functioneel maar minder afgewerkt, met een gedeeltelijke Nederlandse vertaling.'
   - question: 'Hoe lang is de garantie op Sessy vs Marstek?'
-    answer: 'Sessy geeft 10 jaar garantie op de cel en heeft Nederlandse servicepunten. Marstek hanteert 5 jaar standaard (uit te breiden naar 10 tegen meerprijs), met support via een Europees callcenter.'
+    answer: 'Sessy geeft volgens de garantievoorwaarden 10 jaar op de cel en heeft Nederlandse servicepunten. Marstek hanteert 5 jaar standaard (uit te breiden naar 10 tegen meerprijs), met support via een Europees callcenter.'
   - question: 'Kan ik met Marstek ook dynamisch handelen op de energieprijs?'
-    answer: 'Ja, sinds firmware 2.5 koppelt Marstek met Home Assistant en EMS-systemen zoals HomeWizard. Maar het werkt niet plug-and-play zoals Sessy het doet.'
+    answer: 'Ja, Marstek koppelt via Modbus TCP met Home Assistant en met EMS-systemen zoals HomeWizard. Het werkt niet plug-and-play zoals bij Sessy; je richt de sturing zelf in.'
   - question: 'Welke batterij heeft het hoogste vermogen?'
-    answer: 'Marstek Venus levert 2,5 kW continu en 5 kW piek. Sessy levert 2,2 kW continu en 3,3 kW piek. Marstek wint op piekvermogen, Sessy op consistentie tijdens lange ontladingen.'
+    answer: 'Volgens de specificaties levert Marstek Venus 2,5 kW continu en 5 kW piek; Sessy 2,2 kW continu en 3,3 kW piek. Marstek staat dus hoger op piekvermogen.'
   - question: 'Werken beide batterijen zonder zonnepanelen?'
-    answer: 'Ja, beiden kun je puur op dynamische tarieven inzetten. Sessy doet dit out-of-the-box, bij Marstek moet je het zelf instellen via een EMS of Home Assistant-integratie.'
+    answer: 'Ja, beide kun je puur op dynamische tarieven inzetten. Sessy doet dit uit de doos, bij Marstek stel je het zelf in via een EMS of Home Assistant-integratie.'
 products:
   - name: Sessy thuisbatterij 5 kWh
     url: https://go.duurzaamthuislab.nl/sessy
@@ -35,19 +35,19 @@ products:
     url: https://go.duurzaamthuislab.nl/tibber
     price: '6'
 schema_type: Article
-last_updated: '2026-10-01'
+last_updated: '2026-08-19'
 category: thuisbatterijen
 ---
 
-Vorige maand stond ik bij Jeroen in de schuur, ergens aan de rand van Coevorden. Hij had op zijn aanrecht twee A4'tjes liggen: offerte Sessy €5995 inclusief installatie, en een dropshipper-printout van een Marstek Venus voor €2500 plus zelf-aan-de-muur. "Mark, je bent eerlijk: wat zou jij doen?" Hij had 14 zonnepanelen, een Tibber-contract sinds april, en een vrouw die hem die ochtend had gezegd dat ze "niet meer dan 4000 euro" wilde uitgeven. Hij wilde de saldering van 2027 voor zijn. Ik heb daar twee uur gezeten, koffie gedronken, en zelf moeten toegeven dat het antwoord niet zo simpel is als de Sessy-fans op Tweakers doen voorkomen.
+Twee offertes naast elkaar: een Sessy voor €5995 inclusief installatie, en een Marstek Venus voor €2500 die je zelf ophangt. Dat prijsverschil van ruim €3000 maakt dit de meestgestelde keuzevraag in de Nederlandse thuisbatterijmarkt — en het antwoord is minder eenduidig dan de aanhangers van beide kampen doen voorkomen.
 
-*Disclosure: dit artikel bevat affiliate links naar Sessy, Marstek en Tibber. Als je via mijn link koopt krijg ik commissie zonder dat het jou iets extra kost. Ik heb beide systemen zelf draaien (Sessy bij mij thuis sinds 2024, Marstek bij twee klanten) en geef mijn eerlijke mening — ook waar dat één van de twee niet uitkomt.*
+*Disclosure: dit artikel bevat affiliate links naar Sessy, Marstek en Tibber. Als je via zo'n link koopt ontvangen wij commissie zonder dat het jou iets extra kost. Wij vergelijken op basis van specificaties, garantievoorwaarden, handleidingen, geverifieerde gebruikersreviews en publieke data — ook waar dat één van de twee niet uitkomt.*
 
-> **Kort antwoord:** Sessy (€5995) is de premium NL-keuze met de beste app, 10 jaar garantie en out-of-the-box dynamische sturing. Marstek Venus (€2500) is technisch een prima batterij voor meer dan de helft van de prijs, maar je betaalt in tijd en frustratie: Chinese support, een minder polished app en zelf-installatie. Wil je gemak: Sessy. Wil je rendement per euro: Marstek.
+> **Kort antwoord:** Sessy (€5995) is de premium NL-keuze met de meest afgewerkte app, 10 jaar garantie en kant-en-klare dynamische sturing. Marstek Venus (€2500) is op papier een prima batterij voor minder dan de helft van de prijs, maar je betaalt in tijd: internationale support, een minder afgewerkte app en zelf-installatie. Wil je gemak: Sessy. Wil je rendement per euro: Marstek.
 
 ## De vergelijking in één tabel
 
-Voordat ik dimensie voor dimensie de diepte in ga, hier het complete plaatje. Ik heb prijs, installatie en alle relevante specs naast elkaar gezet zoals ik ze bij mijn eigen test (en bij Jeroen) heb opgemeten in september 2026.
+Alle specificaties komen uit de datasheets, garantievoorwaarden en prijslijsten van beide fabrikanten (stand 2026).
 
 | Specificatie | Sessy (5 kWh) | Marstek Venus (5,12 kWh) |
 |---|---|---|
@@ -61,171 +61,163 @@ Voordat ik dimensie voor dimensie de diepte in ga, hier het complete plaatje. Ik
 | Cycli (rated) | 6000 @ 80% DoD | 6000 @ 90% DoD |
 | App | Sessy-app (NL) | Marstek-app (EN/NL beta) |
 | Dynamische sturing | Plug-and-play (Tibber, ANWB, EnergyZero) | Via EMS/Home Assistant |
-| Made in | Made in Nederland (montage), Chinese cellen | China (Hangzhou) |
-| Support | NL-callcenter (Utrecht) | EU-callcenter (Polen, EN) |
+| Made in | Montage Nederland, Chinese cellen | China (Hangzhou) |
+| Support | NL-callcenter | EU-callcenter (EN) |
 | Backup-functie | Nee (alleen netparallel) | Ja, 3 kW EPS-poort |
 | Modulair uitbreidbaar | Ja (per 5 kWh) | Ja (per 5,12 kWh) |
 | Gewicht | 47 kg | 51 kg |
 
-Wat opvalt: Marstek geeft je technisch méér batterij (capaciteit, vermogen, backup) voor minder dan de helft van de prijs. Maar specs zijn maar de helft van het verhaal — en juist die andere helft is waar Sessy z'n meerprijs verdedigt.
+Wat opvalt: Marstek geeft je op papier méér batterij (capaciteit, vermogen, backup) voor minder dan de helft van de prijs. Maar specificaties zijn maar de helft van het verhaal — en juist die andere helft is waar Sessy zijn meerprijs verdedigt.
 
-## Prijs per kWh: Marstek wint, maar niet zo veel als je denkt
+## Prijs per kWh: Marstek wint duidelijk
 
-Even rekenen. Sessy is €5995 voor 5 kWh, dat is €1199 per kWh geïnstalleerd. Marstek Venus is €2499 plus stel €450 voor een elektricien die het netjes ophangt en koppelt aan je groepenkast — dan zit je op €2949 / 5,12 kWh = €576 per kWh. Marstek is dus ongeveer **52% goedkoper per kWh** geïnstalleerd.
+Even rekenen. Sessy is €5995 voor 5 kWh, dat is €1199 per kWh geïnstalleerd. Marstek Venus is €2499 plus circa €450 voor een elektricien die het ophangt en koppelt aan de groepenkast — dan zit je op €2949 / 5,12 kWh = €576 per kWh. Marstek is dus ongeveer **52% goedkoper per kWh** geïnstalleerd.
 
-Maar — en dit is waar het misgaat in veel YouTube-reviews — die rekensom houdt geen rekening met levensduur en degradatie. Sessy garandeert 70% capaciteit na 10 jaar. Marstek garandeert 70% na 5 jaar (of 70% na 10 als je de uitbreiding koopt). In de praktijk zijn de cellen vergelijkbaar (beide CATL of EVE LiFePO4), maar de garantieclaim heeft juridisch waarde. Bij Marstek moet je hopen dat hun NL-importeur in jaar 8 nog bestaat. Bij Sessy stuurt Utrecht een monteur.
+Wat die rekensom niet meeneemt, is levensduur en garantie. Sessy garandeert volgens de voorwaarden 70% capaciteit na 10 jaar. Marstek garandeert 70% na 5 jaar (of na 10 jaar als je de uitbreiding koopt). De cellen zijn in beide gevallen LiFePO4 van grote Chinese celproducenten, dus technisch vergelijkbaar — het verschil zit in de juridische waarde van de garantieclaim en in wie hem in jaar 8 nog kan uitvoeren.
 
-Voor wie het écht om geld draait: lees ook mijn [berekening van de ROI van een thuisbatterij na saldering 2027](/posts/roi-thuisbatterij-na-saldering-2027-berekening/) — daar zie je dat de terugverdientijd van Marstek 4-5 jaar is en van Sessy 8-9 jaar, puur door dat prijsverschil.
+Voor wie het om geld draait: zie ook de [berekening van de ROI van een thuisbatterij na saldering 2027](/posts/roi-thuisbatterij-na-saldering-2027-berekening/). Door het prijsverschil ligt de terugverdientijd van Marstek in die berekening ruwweg op de helft van die van Sessy.
 
 <div style="background: #f4f1e8; border-left: 4px solid #c97a4a; padding: 20px; margin: 30px 0; border-radius: 6px;">
   <p style="margin: 0 0 12px 0; font-weight: 600; color: #2a2a2a;">Goedkoper kiezen: Marstek Venus</p>
-  <p style="margin: 0 0 16px 0; color: #4a4a4a;">5,12 kWh voor €2499. Hoog piekvermogen, backup-poort, en met Home Assistant volledig stuurbaar op dynamische tarieven. Voor wie zelf wil sleutelen en niet te veel betaalt voor een sticker.</p>
+  <p style="margin: 0 0 16px 0; color: #4a4a4a;">5,12 kWh voor €2499. Hoog piekvermogen, backup-poort, en met Home Assistant volledig stuurbaar op dynamische tarieven. Voor wie zelf wil inrichten.</p>
   <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="sponsored noopener" style="display: inline-block; background: #c97a4a; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: 600;">Bekijk Marstek Venus prijs</a>
 </div>
 
-## App-ervaring: hier zit het grootste verschil
+## App: hier zit het grootste verschil
 
-Dit is waar ik bij Jeroen het langst over praatte. Ik heb beide apps op mijn telefoon. De Sessy-app voelt aan als een Nederlandse fintech-app: strakke grafieken, "vandaag bespaard: €1,82", duidelijke uitleg waarom de batterij nu laadt en wanneer ze gaat ontladen. Push-notificaties wanneer er iets is, en gewoon Nederlandse taal die niet door Google Translate is geweest.
+De Sessy-app is Nederlandstalig en opgezet als consumentenapp: grafieken per dag, een bespaard-bedrag, en uitleg waarom de batterij op dat moment laadt of ontlaadt. Push-notificaties zijn gericht en de teksten zijn in het Nederlands geschreven, niet vertaald.
 
-De Marstek-app... werkt. Maar het is wel duidelijk dat-ie in Hangzhou ontworpen is. Pictogrammen zijn soms onlogisch ("battery storage status" voor wat eigenlijk SoC is), de vertaling is half NL/half EN, en de pushnotificaties komen op willekeurige tijden. Tijdens mijn testweek crashte de app drie keer bij het wijzigen van het laadschema. Niet fataal — de batterij draait gewoon door — maar wel irritant.
+De Marstek-app is functioneel maar duidelijk internationaal opgezet. In gebruikersreviews komen dezelfde punten steeds terug: een gedeeltelijke Nederlandse vertaling, terminologie die uit het Engelse datasheet komt ("battery storage status" waar SoC bedoeld wordt), en notificaties die minder gericht zijn. Ook worden incidentele app-haperingen bij het wijzigen van laadschema's genoemd — de batterij zelf blijft daarbij doorwerken.
 
 | App-feature | Sessy | Marstek |
 |---|---|---|
-| Taal | Nederlands | EN + NL (beta, half af) |
-| Crashes (in 30 dagen testen) | 0 | 4 |
-| Notificaties relevant | Ja, gericht | Veel ruis |
-| Dynamische sturing zichtbaar | Ja, "waarom laadt mijn batterij?" | Nee, alleen schema |
+| Taal | Nederlands | EN + NL (beta) |
+| Stabiliteit volgens gebruikersreviews | weinig klachten | incidentele haperingen gemeld |
+| Notificaties relevant | Ja, gericht | Minder gericht |
+| Dynamische sturing zichtbaar | Ja, met uitleg | Nee, alleen schema |
 | API/Home Assistant | Officieel via REST | Officieel via Modbus TCP |
-| Update-frequentie firmware | 6-8x per jaar | 3-4x per jaar |
+| Update-frequentie firmware | hoog | lager |
 
-Vorige maand schreef ik nog [een uitgebreid stuk over de Sessy software-update van september 2026](/posts/sessy-software-update-2026-radar/) waar de "radar"-functie (voorspellen wanneer dynamische prijzen pieken) live ging. Marstek heeft hier geen equivalent van — je moet het zelf bouwen in Home Assistant.
+Zie ook [de analyse van de Sessy software-update van 2026](/posts/sessy-software-update-2026-radar/), waarin de functie voor het voorspellen van prijspieken wordt beschreven. Marstek heeft hier geen ingebouwd equivalent van — dat bouw je zelf in Home Assistant.
 
-## Garantie en support: NL versus China
+## Garantie en support: NL versus internationaal
 
-Ik heb in september bewust beide supportkanalen getest. Bij Sessy belde ik met een vraag over een groep die continu bijschakelt: binnen 3 minuten een Nederlandse engineer aan de lijn, die met me meekeek via de app en het probleem in 20 minuten opgelost had (config-issue van mijn kant).
-
-Bij Marstek mailde ik (er is geen Nederlands telefoonnummer) over een SoC-aflezing die afweek van de werkelijke capaciteit. Reactie binnen 48 uur, in begrijpelijk Engels, met een firmware-link die het probleem oploste. Vier dagen later opnieuw mail om te vragen of het werkte. Dus eerlijk: niet slecht. Maar wel anders.
+Het verschil in supportmodel is structureel en goed te controleren aan de hand van wat beide partijen zelf aanbieden.
 
 | Support-aspect | Sessy | Marstek |
 |---|---|---|
 | Nederlandstalig | Ja | Nee |
-| Telefoon | Ja, 088-nummer | Nee, alleen e-mail/chat |
-| Reactietijd (mijn ervaring) | <5 min telefoon | 24-48 uur mail |
-| Service-engineer op locatie | Ja, binnen 5 werkdagen | Nee, ruil-unit via post |
+| Telefoon | Ja | Nee, e-mail/chat |
+| Service-engineer op locatie | Ja | Nee, ruil-unit via post |
 | Garantieafhandeling | Sessy zelf | Via NL-importeur |
 | Garantie cel | 10 jaar | 5 jaar (10 tegen meerprijs) |
 
-Voor de duidelijkheid: ik heb bij geen van beide écht een defect gehad. Maar de **psychologische geruststelling** van een NL-callcenter dat met een busje langskomt is voor veel mensen €1500-2000 waard. Voor Jeroen niet — hij is loodgieter, vindt het leuk om zelf te sleutelen, en zag in een ruil-unit-systeem geen probleem.
+Voor de duidelijkheid: bij beide merken zijn geen structurele veiligheids- of betrouwbaarheidsproblemen bekend. Het verschil is de afhandeling áls er iets is. De geruststelling van een Nederlands servicenummer met een monteur die langskomt, is voor een deel van de kopers het prijsverschil waard; voor iemand die zelf sleutelt en een ruil-unit geen probleem vindt, niet.
 
 ## Vermogen en backup: Marstek heeft een kaart die Sessy mist
 
-Sessy laadt en ontlaadt op 2,2 kW continu. In de praktijk genoeg voor 95% van de huishoudens. Marstek doet 2,5 kW continu en piekt naar 5 kW. Voor de meeste mensen relevant op één moment: als de inductiekookplaat én de wasdroger én de waterkoker tegelijk aan gaan. Sessy zal dan deels bijladen vanuit het net, Marstek dekt het volledig zelf af.
+Sessy laadt en ontlaadt volgens de specificaties op 2,2 kW continu — voldoende voor het overgrote deel van de huishoudens. Marstek doet 2,5 kW continu en piekt naar 5 kW. Dat verschil wordt merkbaar op het moment dat inductiekookplaat, wasdroger en waterkoker samenvallen: Sessy vult dan deels bij vanuit het net, Marstek dekt zo'n piek verder zelf af.
 
-Het echte verschil: **Marstek heeft een backup-poort (EPS)** die 3 kW levert als het stroomnet uitvalt. Sessy heeft dit niet — bij netuitval gaat Sessy ook uit (omdat hij netparallel werkt, niet eilandbedrijf). Voor wie op het platteland woont waar de stroom in winter af en toe een uur wegvalt: dit is een serieus argument voor Marstek.
+Het echte verschil: **Marstek heeft een backup-poort (EPS)** die volgens de specificaties 3 kW levert bij netuitval. Sessy heeft dit niet — die werkt netparallel en valt bij netuitval mee uit. Voor wie in een gebied woont met regelmatige stroomstoringen is dat een serieus argument voor Marstek.
 
 | Vermogensaspect | Sessy | Marstek |
 |---|---|---|
 | Continu laden/ontladen | 2,2 kW | 2,5 kW |
 | Piek (10-30s) | 3,3 kW | 5,0 kW |
 | Backup bij stroomuitval | Nee | Ja, 3 kW via EPS-poort |
-| Geluid (1m afstand) | 28 dB (stil) | 34 dB (hoorbaar) |
-| Werkt bij -10°C | Ja, met heating | Ja, met heating |
+| Geluidsniveau (fabrieksopgave) | circa 28 dB | circa 34 dB |
+| Werkt bij -10°C | Ja, met verwarming | Ja, met verwarming |
 
-Dat geluidsverschil is trouwens niet niks. Mijn Sessy hangt in de bijkeuken en ik hoor 'm pas als ik er met mijn oor tegenaan ga zitten. De Marstek bij een klant in Borger hangt in de garage — en daar hoor je 'm bij volle belasting wel degelijk zoemen.
+Dat geluidsverschil is niet triviaal. Bij circa 28 dB is de unit in een bijkeuken praktisch onhoorbaar; rond 34 dB is bij volle belasting een zoemend geluid hoorbaar in een stille ruimte. Hang de Marstek dus liever niet naast een slaapkamerwand.
 
-## Software en dynamische sturing: Sessy's koninkrijk
+## Software en dynamische sturing: Sessy's sterkste punt
 
-Hier wordt Sessy z'n €3500 meerprijs voor 60% verdiend. Out-of-the-box koppelt Sessy met:
+Hier verdient Sessy het grootste deel van zijn meerprijs. Uit de doos koppelt Sessy volgens de fabrikant met:
 
 - Tibber (volautomatisch)
 - ANWB Energie (volautomatisch)
 - EnergyZero (volautomatisch)
-- Frank Energie (sinds firmware 4.2)
+- Frank Energie
 - Vandebron Slim (beta)
 
-Je zet je provider in de app, geeft API-toegang, en Sessy doet vanaf dat moment zelf het werk: laden als stroom goedkoop is (of negatieve prijzen), ontladen tijdens de avondpiek. Dat heeft mij in 2025 ongeveer €840 opgeleverd bij een [Tibber-contract](/posts/tibber-review-ervaringen-2026/) — zie ook mijn aparte analyse over hoe dat werkt.
+Je kiest je leverancier in de app, geeft API-toegang, en de sturing gaat vanaf dat moment automatisch: laden bij lage of negatieve prijzen, ontladen tijdens de avondpiek. Wat dat oplevert, hangt af van de prijsspreads in dat jaar — zie de [analyse van dynamische contracten](/posts/tibber-review-ervaringen-2026/) voor de rekenwijze.
 
-Marstek kan dit óók. Maar je moet het zelf bouwen. Optie 1: koppel Marstek aan Home Assistant via Modbus TCP en schrijf (of download) een automation. Optie 2: koop een HomeWizard EMS (€399 extra) die het voor je doet. Optie 3: doe het via een EVCC- of OpenEMS-implementatie. Werkt allemaal, maar je bent een weekend kwijt aan inrichten en daarna nog een paar avonden tweaken.
+Marstek kan dit ook, maar je bouwt het zelf. Optie 1: koppel Marstek via Modbus TCP aan Home Assistant en gebruik een automation. Optie 2: koop een HomeWizard EMS (circa €399 extra) die het regelt. Optie 3: EVCC of OpenEMS. Alle drie werken, maar reken op een weekend inrichten en daarna nog wat bijstellen.
 
-Voor de tinkerers onder ons: heerlijk. Voor Jeroens vrouw die wil dat het "gewoon werkt": niet de bedoeling.
+Voor wie dat leuk vindt is dat een voordeel. Voor wie wil dat het gewoon werkt, niet.
 
 <div style="background: #f4f1e8; border-left: 4px solid #4a7a4a; padding: 20px; margin: 30px 0; border-radius: 6px;">
   <p style="margin: 0 0 12px 0; font-weight: 600; color: #2a2a2a;">Gemak kiezen: Sessy</p>
-  <p style="margin: 0 0 16px 0; color: #4a4a4a;">5 kWh, plug-and-play dynamische sturing op Tibber/ANWB, NL-support en 10 jaar garantie. Voor wie wil dat het zonder gepriegel gewoon geld bespaart vanaf dag 1.</p>
+  <p style="margin: 0 0 16px 0; color: #4a4a4a;">5 kWh, plug-and-play dynamische sturing op Tibber/ANWB, NL-support en 10 jaar garantie. Voor wie wil dat het zonder inrichtwerk werkt.</p>
   <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="sponsored noopener" style="display: inline-block; background: #4a7a4a; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: 600;">Bekijk Sessy prijs en levertijd</a>
 </div>
 
 ## Installatie: niet onderschatten
 
-Sessy hangt binnen 3 uur. Een gecertificeerde installateur (vaak via Zonneplan, Sungevity of Sessy zelf) komt langs, hangt het ding aan de muur, klemt de slimme-meter-P1 aan, koppelt aan WiFi, en draait. Klaar. Garantie blijft staan.
+Sessy wordt geïnstalleerd door een gecertificeerde installateur: unit ophangen, P1-poort van de slimme meter aansluiten, koppelen aan wifi. Volgens de installatiedocumentatie is dat een halve dag werk, en de garantie blijft intact.
 
-Marstek vereist meer planning. Dit zijn de stappen:
+Marstek vereist meer planning. De stappen uit de handleiding:
 
-1. Geschikte plek vinden (niet in vochtige ruimte, 51 kg dragen)
+1. Geschikte plek vinden (niet in een vochtige ruimte, 51 kg dragen)
 2. Aparte groep van 16A laten aanleggen (verplicht, anders geen garantie)
 3. CT-clamp om de hoofdleiding klemmen voor dynamische sturing
-4. Eerst-firmware updaten (Marstek levert vaak met oudere firmware)
-5. App koppelen via 2,4 GHz WiFi (niet 5 GHz, klassieke valkuil)
-6. Optioneel: Home Assistant integratie
+4. Firmware updaten (units worden vaak met oudere firmware geleverd)
+5. App koppelen via 2,4 GHz wifi (niet 5 GHz — een veelgemaakte fout)
+6. Optioneel: Home Assistant-integratie
 
-Als je zelf installeert verlies je strikt genomen je garantie. Daarom raad ik altijd een elektricien aan — reken op €350-€500. In mijn vergelijkingstabel zit dat erin verwerkt.
+Zelf installeren kan strikt genomen je garantie kosten. Daarom is een elektricien aan te raden — reken op €350-€500. Dat bedrag zit in de vergelijkingstabel hierboven verwerkt.
 
-Voor een uitgebreidere kijk op alleen Sessy lees [mijn complete Sessy-review](/posts/sessy-review-thuisbatterij-nederland/), en voor Marstek heb ik [een aparte Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/) waar ik dieper inga op de spec sheets en installatieprocedure.
+Voor een uitgebreidere kijk op alleen Sessy: [de complete Sessy-review](/posts/sessy-review-thuisbatterij-nederland/). Voor Marstek: [de Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/), met de spec sheets en installatieprocedure.
 
-## Reële opbrengst in mijn test (juni-september 2026)
+## Wat je aan opbrengst kunt verwachten
 
-Genoeg theorie. Hier zijn de cijfers die ik bij mijzelf (Sessy, 5 kWh) en bij twee klanten (Marstek 5 kWh, beide aan Tibber via HomeWizard EMS) heb gemeten over 90 dagen.
+Wij hebben geen eigen metingen aan deze systemen gedaan; onderstaande verschillen volgen uit de specificaties en zijn dus richtinggevend, geen gemeten waarden.
 
-| Metric | Sessy (mijn huis) | Marstek (klant Borger) | Marstek (klant Dwingeloo) |
-|---|---|---|---|
-| Cycli in 90 dagen | 142 | 138 | 144 |
-| Round-trip efficiëntie | 91,2% | 89,4% | 89,8% |
-| Besparing via Tibber/dyn | €218 | €201 | €207 |
-| Eigen verbruik PV gestegen | +24% | +26% | +25% |
-| Downtime (uren) | 0 | 6 (firmware-update) | 3 |
+| Aspect | Sessy | Marstek Venus |
+|---|---|---|
+| Round-trip rendement (fabrieksopgave) | circa 90-92% | circa 89-90% |
+| Cycli tot 80% (rated) | 6000 @ 80% DoD | 6000 @ 90% DoD |
+| Bruikbare energie per cyclus | 4,0 kWh | 4,6 kWh |
+| Sturing op dynamisch tarief | ingebouwd | via EMS/HA |
 
-Sessy is ongeveer 2% efficiënter (heel relevant op lange termijn) en had geen downtime. Marstek heeft een paar uur stilgelegen voor firmware-updates. De besparing zit binnen 10% van elkaar — wat logisch is, want beide volgen dezelfde dynamische prijzen.
+Praktische consequentie: omdat beide systemen dezelfde EPEX-prijzen volgen, ligt de jaaropbrengst van arbitrage bij een vergelijkbare instelling dicht bij elkaar. Het rendementsverschil van één tot twee procentpunt telt over tien jaar mee, maar is klein naast het verschil in aanschafprijs. Marstek kan per cyclus meer energie verschuiven doordat hij op hogere DoD is gespecificeerd.
 
 ## Schaalbaarheid en toekomstvastheid
 
-Beide systemen zijn modulair uitbreidbaar. Bij Sessy hang je gewoon een tweede unit ernaast en de app pakt het op. Bij Marstek werkt het ook, maar je moet de master-slave configuratie zelf doen in de app (handleiding is in het Engels en niet altijd duidelijk).
+Beide systemen zijn modulair uitbreidbaar. Bij Sessy hang je een tweede unit ernaast en de app pakt het op. Bij Marstek werkt uitbreiden ook, maar de master-slave configuratie stel je zelf in; de handleiding daarvoor is Engelstalig.
 
-Voor de [bredere vergelijking met andere merken zoals Zonneplan](/posts/zonneplan-thuisbatterij-review-2026/) of als je nog twijfelt over de timing rond [de afschaffing van de salderingsregeling in 2027](/posts/saldering-stopt-2027-volledige-gids/) — beide gelinkte stukken geven extra context over wanneer en waarom je überhaupt een batterij wilt.
+Voor de [bredere vergelijking met andere merken zoals Zonneplan](/posts/zonneplan-thuisbatterij-review-2026/) en voor de timing rond [de afschaffing van de salderingsregeling in 2027](/posts/saldering-stopt-2027-volledige-gids/) geven die twee artikelen extra context over wanneer een batterij zinvol is.
 
-Even voor wie verder vergelijkt: ik schreef vorig kwartaal ook een [Sessy vs Marstek-vergelijking specifiek vanuit de prijs-invalshoek](/posts/sessy-vs-marstek-vergelijking-2026/) — dit artikel zoomt meer op de gebruikerservaring. En als je puur op [prijs per kWh wilt vergelijken over het hele marktaanbod](/posts/thuisbatterij-prijs-per-kwh-2026/) heb ik daar een aparte tabel met 14 systemen.
+Zie verder de [Sessy vs Marstek-vergelijking vanuit de prijs-invalshoek](/posts/sessy-vs-marstek-vergelijking-2026/) — dit artikel richt zich meer op gebruik en support. En voor een marktbrede vergelijking op [prijs per kWh](/posts/thuisbatterij-prijs-per-kwh-2026/) staat daar een tabel met 14 systemen.
 
 ## Veiligheid en certificering
 
-Beide gebruiken LiFePO4 (lithium-ijzerfosfaat) cellen. Dat is anno 2026 de standaard en is **veel veiliger dan NMC** (geen thermal runaway bij doorboring). Beide hebben CE, RoHS en VDE-AR-N 4105 (Duitse netcode, ook in NL geldend). Sessy heeft daarnaast de Nederlandse NTA 8800-keuring voor BENG-berekening, wat handig is bij verbouwingen.
+Beide gebruiken LiFePO4 (lithium-ijzerfosfaat) cellen. Dat is anno 2026 de standaard voor thuisbatterijen en volgens de literatuur thermisch stabieler dan NMC. Beide hebben CE, RoHS en VDE-AR-N 4105 (netcode die ook in Nederland wordt toegepast). Sessy vermeldt daarnaast gegevens voor de NTA 8800-berekening, wat handig is bij verbouwingen en energielabels.
 
-De [Consumentenbond en ACM](https://www.consuwijzer.nl/energie) hebben in 2026 beide merken in hun overzicht opgenomen als "geen klachten op productveiligheid" — wat een lage drempel is maar wel relevant: de markt zit vol met Chinese knock-offs die deze certificering niet hebben. Marstek Venus heeft die certificeringen wél, andere "Marstek-achtige" modellen op AliExpress vaak niet.
+Belangrijk bij de aanschaf: controleer de certificering van het exacte model. De markt zit vol met vergelijkbaar uitziende batterijen zonder VDE- of CE-documentatie. Marstek Venus heeft die certificering wel; goedkopere look-alikes vaak niet. Consumenteninformatie over energieproducten staat op [ConsuWijzer](https://www.consuwijzer.nl/energie).
 
 ## Eindoordeel per profiel
 
-Na 2 uur bij Jeroen, een week test in mijn eigen huis en metingen bij twee klanten kom ik tot dit:
-
 ### Kies Sessy als:
-- Je technisch niet wilt sleutelen
+- Je technisch niet wilt inrichten of sleutelen
 - Je Nederlandse support belangrijk vindt
-- Je nu al een Tibber/ANWB Energie/EnergyZero contract hebt en het direct wilt laten draaien
-- Je in een rijtjeshuis woont waar het ding zichtbaar hangt (stiller, mooier)
-- Je het ziet als een 10-jarige investering en risico wilt minimaliseren
+- Je al een Tibber/ANWB Energie/EnergyZero-contract hebt en het direct wilt laten draaien
+- De unit zichtbaar hangt in een woonruimte (stiller volgens de opgaven)
+- Je het ziet als een 10-jarige investering en het risico wilt minimaliseren
 
 ### Kies Marstek Venus als:
-- Je het verschil van €3000-3500 belangrijker vindt dan gemak
+- Het prijsverschil van €3000 zwaarder weegt dan gemak
 - Je al Home Assistant draait of het leuk vindt om te leren
-- Je een backup-poort wilt (off-grid bij stroomuitval)
-- Je sleutelen oké vindt of een goede elektricien hebt
-- Je een snelle terugverdientijd wilt (4-5 jaar vs 8-9 jaar)
+- Je een backup-poort wilt voor stroomuitval
+- Je een goede elektricien hebt of zelf mag installeren
+- Je de kortste terugverdientijd wilt
 
-Jeroen koos uiteindelijk de Marstek. Hij is loodgieter, vond het project leuk, en zijn vrouw kreeg de €3000 verschil als "haar nieuwe fiets en weekendje Berlijn". Bij hem werkt het sinds oktober probleemloos. Mijn buurvrouw in Coevorden — 68, weduwe, "wil het gewoon goed gedaan hebben" — koos vorige maand een Sessy. Ook prima keuze. Geen verkeerde, eigenlijk.
-
-Wat je niét moet doen: een derde optie op AliExpress kopen omdat het "ook LiFePO4 is voor €1800". Garantie waardeloos, certificering twijfelachtig, app onbetaalbaar in tijd. Sessy en Marstek zijn allebei serieuze opties — kies tussen die twee.
+Beide zijn verdedigbare keuzes; welke beter is, hangt af van hoeveel je eigen tijd waard is. Wat wij niet zouden doen: een naamloos alternatief kopen omdat het "ook LiFePO4 is voor €1800". De garantie is dan in de praktijk moeilijk uitvoerbaar en de certificering vaak niet aantoonbaar.
 
 <div style="background: #f4f1e8; border-left: 4px solid #5a5a8a; padding: 20px; margin: 30px 0; border-radius: 6px;">
   <p style="margin: 0 0 12px 0; font-weight: 600; color: #2a2a2a;">Sluit dynamisch contract af</p>
-  <p style="margin: 0 0 16px 0; color: #4a4a4a;">Zonder dynamisch energiecontract verdient een thuisbatterij zich niet zo snel terug. Tibber is in mijn test de stabielste partij gebleken — werkt direct met Sessy en met Marstek via HomeWizard.</p>
+  <p style="margin: 0 0 16px 0; color: #4a4a4a;">Zonder dynamisch energiecontract verdient een thuisbatterij zich veel langzamer terug. Tibber koppelt direct met Sessy en via HomeWizard met Marstek.</p>
   <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="sponsored noopener" style="display: inline-block; background: #5a5a8a; color: white; padding: 12px 24px; text-decoration: none; border-radius: 4px; font-weight: 600;">Sluit Tibber-contract af</a>
 </div>
 
-Vragen over jouw specifieke situatie? Mail me gerust — ik antwoord meestal binnen een dag en geef geen verkooppraatjes. En als je nog twijfelt of een batterij überhaupt al rendabel is voor jou, lees dan eerst even de [ROI-berekening na saldering 2027](/posts/roi-thuisbatterij-na-saldering-2027-berekening/). Soms is het antwoord: wacht nog een jaar.
+Twijfel je of een batterij in jouw situatie al rendabel is? Lees dan eerst de [ROI-berekening na saldering 2027](/posts/roi-thuisbatterij-na-saldering-2027-berekening/). Soms is het antwoord: nog even wachten.

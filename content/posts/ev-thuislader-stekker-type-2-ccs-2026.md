@@ -1,9 +1,9 @@
 ---
 title: 'EV Thuislader Stekker: Type 2 vs CCS Uitgelegd 2026'
 date: 2026-07-28 08:00:00+02:00
-lastmod: 2026-07-28 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 last_updated: 2026-04-29
-description: 'Type 2 of CCS voor je EV thuislader? Verschil uitgelegd, welke past bij jouw auto, en welke laadpaal je hier voor nodig hebt. Mijn ervaring met EV-laden in 2026.'
+description: 'Type 2 of CCS voor je EV thuislader? Het verschil uitgelegd, welke past bij jouw auto, en welke laadpaal je daarvoor nodig hebt.'
 draft: false
 categories:
 - laadpaal
@@ -29,21 +29,21 @@ affiliate: true
 faq:
 - q: 'Wat is het verschil tussen Type 2 en CCS?'
   a: 'Type 2 (Mennekes) is voor wisselstroom (AC) tot 22 kW: thuisladen en publiek AC. CCS (Combined Charging System) heeft Type 2 + 2 grote DC-pinnen voor snelladen tot 350 kW. Voor thuis: Type 2 is voldoende; CCS-snelladen vergt enorme stroom.'
-- q: 'Welke stekker heb ik thuis nodig?'
+- q: 'Welke stekker heb je thuis nodig?'
   a: 'Voor 99% van Nederlandse situaties: Type 2 (Mennekes). Alle EVs in Europa hebben deze. Thuis sneller dan 22 kW laden vereist 3-fase 32A aansluiting — vrijwel geen woning heeft dat.'
-- q: 'Kan ik thuis snelladen met CCS?'
+- q: 'Kun je thuis snelladen met CCS?'
   a: 'Technisch ja, maar economisch en praktisch nee. Een 50 kW DC-snellader thuis kost €15.000+ aan apparatuur en netaansluiting. Voor 99,5% van EV-eigenaars onnodig — auto staat ''s nachts toch.'
 - q: 'Hoe snel laadt 11 kW thuis?'
   a: "Een 60 kWh batterij wordt vol in 5,5 uur bij 11 kW laden. Tesla Model Y (75 kWh): 7 uur. Voldoende voor 's nachts laden van 0% naar 100%."
 - q: 'Wat is het verschil tussen 1-fase en 3-fase laden?'
   a: '1-fase laden: max 7,4 kW (32A). 3-fase laden: 11-22 kW. Heb je 3-fase aansluiting? Kies 11 kW lader — laadt 50% sneller voor zelfde investering.'
-- q: 'Welke kabel heb ik nodig?'
+- q: 'Welke kabel heb je nodig?'
   a: 'Bij vaste laadpaal: kabel zit eraan. Bij ''mode 3'' open laadpunt: jouw eigen Type 2 kabel (€120-€280). Voor onderweg: krullenbol Type 2 met 5m kabel.'
-- q: 'Mag ik zelf mijn laadpaal installeren?'
+- q: 'Mag je zelf een laadpaal installeren?'
   a: 'Nee. Volgens de NEN1010 en de eisen van Liander, Stedin en Enexis moet de aansluiting door een erkend installateur gebeuren met een aansluitmelding bij de netbeheerder. Zelf installeren is technisch mogelijk maar maakt je verzekering ongeldig en is bij brand een serieus probleem.'
 - q: 'Hoeveel kost laden thuis vergeleken met snelladen?'
   a: 'Thuisladen op vast contract: €0,28-€0,32 per kWh. Op dynamisch ''s nachts: €0,08-€0,18. Snelladen onderweg: €0,55-€0,79 per kWh. Voor 15.000 km/jaar betekent dat €600-€1.400 verschil per jaar tussen consequent thuisladen en alleen snelladen.'
-- q: 'Wat als ik geen eigen oprit heb?'
+- q: 'Wat als je geen eigen oprit hebt?'
   a: 'Vraag bij gemeente een laadpaal in de openbare ruimte aan (Vattenfall InCharge, Allego, EVnetNL leveren). Wachttijd 3-9 maanden. Alternatief: laadpaal aan de gevel op eigen erf met kabelgoot — toegestaan in 80% van Nederlandse gemeenten mits geen obstakel op stoep.'
 products:
 - name: Easee Home Type 2
@@ -56,14 +56,14 @@ products:
   url: https://alfen.com/
   price: '1500'
 ---
-Mijn klant in Hilversum kocht zijn eerste elektrische auto en stond bij de installateur met de vraag: "Type 2 of CCS thuislader?" De verkoper had hem geadviseerd om "voor de zekerheid" een dure CCS-installatie te overwegen. €15.000. Ik heb hem moeten uitleggen waarom dat een verschrikkelijke beslissing zou zijn voor zijn situatie.
+"Type 2 of CCS voor mijn thuislader?" is een van de meest gestelde vragen bij een eerste elektrische auto, en er wordt regelmatig op ingespeeld met het advies om "voor de zekerheid" een CCS-installatie te overwegen. Dat kost tienduizenden euro's en is voor een woning technisch zinloos.
 
-Stekkers en laadtypes verwarren veel mensen. Hieronder mijn complete uitleg: wat is het verschil, wat heb je echt nodig, en waarom 99% van Nederlandse EV-eigenaars met Type 2 prima af is.
+Hieronder de volledige uitleg: wat het verschil is, wat je werkelijk nodig hebt, en waarom praktisch elke Nederlandse EV-eigenaar met Type 2 prima uit is.
 
-*Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 
-> **Kort antwoord:** Type 2 of CCS voor je EV thuislader? Verschil uitgelegd, welke past bij jouw auto, en welke laadpaal je hier voor nodig hebt. Mijn ervaring met EV-laden in 2026.
+> **Kort antwoord:** thuis laad je met Type 2. CCS is een gelijkstroom-aansluiting voor snelladers onderweg; thuis is dat technisch overbodig en financieel onverantwoord. Kies 11 kW als je 3-fase hebt en 7,4 kW bij 1-fase.
 >
 > Type 2 (Mennekes) is voor wisselstroom (AC) tot 22 kW: thuisladen en publiek AC. CCS (Combined Charging System) heeft Type 2 + 2 grote DC-pinnen voor snelladen tot 350 kW. Voor thuis: Type 2 is voldoende; CCS-snelladen vergt enorme stroom.
 
@@ -293,28 +293,28 @@ Een 5×6mm² kabel van 25 meter door je tuin moet beschermd zijn (mantelbuis of 
 
 ## Wanneer NIET investeren in een eigen thuislader
 
-Niet voor iedereen is een vaste thuislader de juiste keuze. Eerlijk verhaal: in deze situaties zou ik het uitstellen of skippen.
+Niet voor iedereen is een vaste thuislader de juiste keuze. In deze vier situaties zouden wij het uitstellen of overslaan:
 
 - **Je rijdt minder dan 8.000 km/jaar.** Bij dit verbruik kun je toe met een schuko-noodlader (€250) en af en toe een publieke 11 kW paal in de buurt. Terugverdientijd van een €1.800 thuisinstallatie wordt 8+ jaar.
 - **Je verhuist binnen 2 jaar.** Een vaste laadpaal verhoogt woningwaarde maar zelden met meer dan €500-€800. Bij verhuizing investeer je opnieuw. Verstandiger: krullenbol kabel + publiek laden tot je definitief gevestigd bent.
 - **Je woont in een huurwoning zonder toestemming verhuurder.** Boren in gevel of meterkast verzwaren zonder schriftelijke toestemming geeft gedoe bij oplevering. Vraag eerst, en regel dat de paal kan blijven of verwijderbaar is.
 - **Je hebt een leasecombinatie met laadpas-only-vergoeding.** Sommige werkgevers vergoeden alleen publiek laden via de laadpas, niet thuis. Dan kost thuisladen jou geld in plaats van te besparen — eerst de leaseregeling controleren.
 
-## Mini case-study: Mark in Apeldoorn
+## Rekenvoorbeeld: is verzwaren naar 3-fase nodig?
 
-Een klant van mij in Apeldoorn (rijtjeshuis bouwjaar 2008, 1-fase 1×40A aansluiting) belde mij eind 2025 in paniek: zijn nieuwe Hyundai Kona EV (64 kWh, 11 kW onboard) was geleverd, maar zijn installateur stelde direct een verzwaring naar 3-fase voor à €2.700 plus €1.450 voor een 11 kW Wallbox.
+De meest voorkomende onnodige kostenpost bij een thuislader is een verzwaring naar 3-fase "voor de zekerheid". Reken het uit voordat je akkoord gaat. Modelvoorbeeld: rijtjeshuis met een 1-fase 1×40A aansluiting, 2.800 kWh jaarverbruik zonder warmtepomp, en een EV van 64 kWh met 11 kW onboard-lader.
 
-Ik ben langs gegaan, jaarverbruik bekeken (2.800 kWh — geen warmtepomp, gasketel) en zijn rijgedrag in kaart gebracht (gemiddeld 35 km per dag, max 80 km). Conclusie: zelfs op 1-fase 7,4 kW laadt hij in 4 uur weer vol. Verzwaring overbodig.
+**De rekensom:**
 
-Wat hij uiteindelijk koos:
-- Easee Home 1-fase 32A: €1.190
-- Installatie zonder verzwaring: €395
-- SEEH-subsidie: -€350
-- **Netto: €1.235**
+1. **Hoeveel kWh heb je per dag nodig?** Bij een gemiddelde van 35 km per dag en circa 0,18 kWh/km is dat ruim 6 kWh, met een uitschieter naar circa 15 kWh op een lange dag.
+2. **Wat kan een 1-fase laadpaal leveren?** Op 1×32A is dat 7,4 kW. In vier uur laad je daarmee bijna 30 kWh bij — een veelvoud van de dagelijkse behoefte.
+3. **Conclusie:** een verzwaring naar 3-fase levert in dit scenario geen enkele praktische winst op. Je laadt 's nachts alsnog ruim voldoende bij.
 
-Besparing: €2.915 vergeleken met installateur-voorstel. Een jaar later (april 2026) is er nooit een laadbeurt te kort geweest. Toen hij in januari ook een warmtepomp installeerde, hebben we wél verzwaard — toen pas was 3-fase nodig vanwege gelijktijdig vermogen.
+**Het kostenverschil:** een 1-fase laadpaal plus installatie zonder verzwaring komt uit op grofweg €1.500 tot €1.600, waar een verzwaring naar 3-fase plus een 11 kW paal het dubbele of meer kost. Met de SEEH-subsidie eraf is het verschil in de orde van enkele duizenden euro's.
 
-Les: laat je niet bang maken voor "voor de zekerheid" verzwaringen. Bereken het op basis van jouw aansluiting en rijprofiel.
+**Wanneer verzwaren wél nodig is:** zodra je gelijktijdig vermogen krijgt dat niet meer op één fase past — typisch bij een warmtepomp naast een EV, bij inductiekoken met een warmtepomp, of bij twee elektrische auto's. Dan is verzwaren geen luxe maar noodzaak.
+
+Les: laat je niet bang maken met "voor de zekerheid"-verzwaringen. Reken het door op basis van jouw aansluiting en rijprofiel.
 
 ## Smart laden
 
@@ -344,19 +344,17 @@ EV-eigenaars met zonnepanelen halen 30-60% van laadbeurten gratis uit eigen zon.
 
 Smart laden essentieel hiervoor. Lees [EV laden met thuisbatterij](/posts/ev-laden-met-thuisbatterij/).
 
-## Praktijktest: mijn eigen 11 kW Easee na 18 maanden
+## Wat je van een 11 kW laadpaal kunt verwachten
 
-Sinds eind 2024 heb ik thuis een Easee Home 11 kW staan, gevoed vanaf een 3-fase 16A groep. Mijn ervaring per fase.
+**Installatie.** Reken op een halve dag werk. De aanmelding bij de netbeheerder verzorgt de installateur; controleer zelf of die melding is doorgekomen.
 
-**Eerste maand.** Installatie liep vlot (4,5 uur), netbeheerder-aanmelding via de installateur. Direct gekoppeld aan zonnepanelen via de Easee-app. Wat tegenviel: de fabrieks-firmware had een bug waardoor "alleen op zonneoverschot" niet werkte met variabele wolkendekking — laadde dan om de 3 minuten aan en uit. Update na 6 weken loste het op.
+**Smart laden op een dynamisch contract.** Dit is de post waar de winst zit, en de rekenregel is eenvoudig: je jaarkilometers × circa 0,18 kWh/km × het verschil tussen je gemiddelde uurtarief en je nachttarief. Bij een tariefverschil van ongeveer 18 cent per kWh en 12.000 km per jaar loopt dat op tot enkele honderden euro's — voldoende om de laadpaal binnen enkele jaren terug te verdienen.
 
-**Na 6 maanden.** Smart laden op dynamisch contract werkt vlekkeloos. Ik laad gemiddeld op €0,11/kWh ('s nachts) tegen €0,29/kWh statisch. Op een laadbeurt van 50 kWh scheelt dat €9. In een jaar tijd ruim €600 besparing.
+**Laden op zonneoverschot.** Vrijwel alle moderne laadpalen ondersteunen dit, maar het is de functie waar in gebruikersreviews het vaakst problemen over gemeld worden: bij wisselende bewolking schakelt de paal aan en uit omdat het overschot rond de startdrempel schommelt. Controleer of de paal een instelbare vertraging of hysterese heeft, en houd firmware-updates bij — deze problemen worden meestal in software opgelost.
 
-**Na 1 jaar.** Eén storing gehad: na een stroomstoring bleef de paal in foutmelding. Reset via app loste het op. Geen hardwaredefect, geen onderhoud.
+**Onderhoud.** Geen. De meest gemelde storing is dat de paal na een stroomstoring in foutmelding blijft staan; een reset via de app lost dat op.
 
-**Na 18 maanden.** Nog steeds 100% uptime sinds de firmware-fix. Zonneoverschot-laden levert in zomer ~40% gratis kilometers op. Investering (€1.190 + €395 = €1.585 minus €350 SEEH = €1.235 netto) is binnen 14 maanden terugverdiend door dynamisch + zonnelading.
-
-Wat ik zou veranderen: een Wallbox Pulsar Plus is 15% goedkoper en doet hetzelfde. Voor wie geen design-fan is, prima alternatief.
+**Merkkeuze.** Easee en Wallbox zitten functioneel dicht bij elkaar; Wallbox Pulsar Plus is doorgaans goedkoper en biedt dezelfde functies. Alfen geeft de langste hardwaregarantie. Vergelijk op garantietermijn en op of het smart laden zonder abonnement werkt.
 
 ## Combinatie met thuisbatterij
 
@@ -377,7 +375,7 @@ Lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/
 
 ## Garantie en NL-specifieke aandachtspunten
 
-Drie zaken die op fora regelmatig misgaan, en waar ik klanten op wijs voordat ze tekenen.
+Drie zaken die op fora regelmatig misgaan, en die je moet controleren voordat je ondertekent:
 
 **Garantie laadpaal versus garantie installatie.** De fabrikant geeft 3 jaar (Easee, Wallbox) tot 5 jaar (Alfen) op de hardware. De installateur geeft typisch 1-2 jaar op het werk. Dat zijn losse zaken: bij een defect na 3 jaar is hardware mogelijk nog gedekt, maar arbeidsuren betaal je zelf. Vraag dus expliciet wie wat dekt.
 
@@ -401,7 +399,7 @@ Lees [batterij na 2027 zonder zonnepanelen](/posts/batterij-na-2027-zonder-zonne
 
 Voor 99,5% van Nederlandse EV-eigenaars: Type 2 thuislader (11 kW als je 3-fase hebt, 7 kW als 1-fase). Geen CCS nodig — die gebruik je alleen onderweg op publieke snelladers.
 
-Mijn aanbevelingen:
+Onze aanbevelingen:
 1. **Type 2 (Mennekes) thuislader**: Easee Home of Wallbox Pulsar Plus
 2. **11 kW als 3-fase, 7 kW als 1-fase**: match je auto en aansluiting
 3. **Smart features benutten**: tijdgebaseerd, zonneoverschot, dynamisch
