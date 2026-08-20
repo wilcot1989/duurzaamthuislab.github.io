@@ -20,8 +20,8 @@ keywords:
 - biomassa subsidie ISDE
 - warmtepomp of pelletkachel
 affiliate: true
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Is een pelletkachel nog legaal in 2026 in Nederland?

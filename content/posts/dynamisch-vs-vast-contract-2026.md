@@ -19,8 +19,8 @@ keywords:
 - dynamisch contract risico
 - vast contract zekerheid
 affiliate: true
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497435334941-8c899ee9e8e9&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is in 2026 het verschil tussen dynamisch en vast contract?'

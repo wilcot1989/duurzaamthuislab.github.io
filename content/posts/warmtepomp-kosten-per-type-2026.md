@@ -8,8 +8,8 @@ categories: [warmtepompen]
 tags: [warmtepomp, kosten, ISDE, Atag, Daikin, Quatt, hybride]
 keywords: [warmtepomp kosten, warmtepomp prijs 2026, lucht water warmtepomp prijs, hybride warmtepomp kosten, ISDE warmtepomp, quatt prijs]
 affiliate: true
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1631545308456-15ef38d5a1f4&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een warmtepomp gemiddeld in 2026?

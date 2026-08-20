@@ -20,8 +20,8 @@ keywords:
 - warmtepomp montage prijs
 - warmtepomp inclusief installatie
 affiliate: true
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1517490232338-06b912a786b5&w=1200&output=webp&q=70
 faq:
 - q: 'Wat kost een complete warmtepomp installatie in 2026?'

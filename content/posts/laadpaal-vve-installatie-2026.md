@@ -20,8 +20,8 @@ keywords:
 - VVE recht laadpaal
 - laadpaal collectief
 - VVE elektrisch rijden
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1593941707882-a5bba14938c7&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true

@@ -21,8 +21,8 @@ keywords:
 - btw teruggave aanvragen
 - zonnepanelen ondernemer btw
 - btw aangifte zonnepanelen
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1554224155-1696413565d3&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true

@@ -8,8 +8,8 @@ categories: [energie]
 tags: [dynamisch-contract, Tibber, Frank-Energie, besparing, rekenmodel, EPEX]
 keywords: [dynamisch contract besparing, tibber besparing berekenen, frank energie rekenmodel, vast vs dynamisch, dynamisch contract 2026]
 affiliate: true
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
   - question: 'Hoeveel kan ik besparen met een dynamisch contract in 2026?'

@@ -2,8 +2,8 @@
 title: "Dynamische energiecontracten vergelijken (alle aanbieders)"
 description: "Alle Nederlandse aanbieders van dynamische energiecontracten naast elkaar: wat ze onderscheidt, welke tarieven ze wél publiceren, opzegbaarheid en waar je moet opletten."
 layout: "single"
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 lastmod: 2026-08-20
 faq:
 - q: 'Wat is een dynamisch energiecontract precies?'

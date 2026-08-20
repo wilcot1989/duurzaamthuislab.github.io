@@ -2,8 +2,8 @@
 title: "Dynamische stroomprijzen vandaag en morgen (per uur)"
 description: "Actuele dynamische stroomprijzen per uur, vandaag en morgen — kale EPEX-beursprijs incl. btw, automatisch ververst. Zie direct de goedkoopste en duurste uren."
 layout: "single"
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 lastmod: 2026-08-20
 ---
 

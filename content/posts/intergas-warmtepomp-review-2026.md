@@ -21,8 +21,8 @@ keywords:
 - intergas vs atag
 - nederlandse warmtepomp
 affiliate: true
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1631545806609-ee85b1b1e5cf&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een Intergas Xtreme warmtepomp in 2026?

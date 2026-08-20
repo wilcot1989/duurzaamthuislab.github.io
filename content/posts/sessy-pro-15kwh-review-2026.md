@@ -20,8 +20,8 @@ keywords:
 - sessy pro vs sessy
 - grote thuisbatterij review
 affiliate: true
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509395176047-4a66953fd231&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is het verschil tussen Sessy Pro en gewone Sessy?'

@@ -10,7 +10,7 @@ keywords:
   - saldering overdracht nieuwe eigenaar
   - zonnepanelen achterlaten verkoop
   - zonnepanelen demontage kosten
-author: Wilco Terlouw
+author: Team DuurzaamThuisLab
 featured_image: "/images/zonnepanelen-verhuizen.jpg"
 category: "Zonnepanelen"
 tags:

@@ -11,8 +11,8 @@ keywords:
 - infraroodpaneel appartement
 - plug-in batterij appartement
 - HomeWizard appartement
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1545324418-cc1a3fa10c00&w=1200&output=webp&q=70
 category: appartement
 tags:

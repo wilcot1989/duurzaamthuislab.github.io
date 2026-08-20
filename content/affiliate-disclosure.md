@@ -29,10 +29,10 @@ De volledige lijst van partners staat in onze artikelen — elke productlink is 
 
 ### Hoe we toch onafhankelijk blijven
 Onze reviewbeoordelingen zijn gebaseerd op:
-1. Eigen testperiode (4-12 weken handmatig getest)
-2. Lezersfeedback (mailwisseling met klanten)
-3. Publieke gegevens (prijzen, specs, transparency reports)
-4. Vergelijkingsmatrix met concurrenten
+1. Fabrieksspecificaties en handleidingen (met bronvermelding)
+2. Publieke gegevens (prijzen, garantievoorwaarden, transparency reports)
+3. Geverifieerde gebruikersreviews uit openbare bronnen
+4. Narekenbare modelberekeningen met expliciete aannames
 
 We hebben producten in artikelen die we KUNNEN aanbevelen tegenover producten waarvan we zeggen "koop dit niet" — beide leveren ons evenveel commissie. Dat geeft ons de vrijheid om eerlijk te zijn.
 

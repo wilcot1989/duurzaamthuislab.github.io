@@ -2,8 +2,8 @@
 title: "Zonnepanelen- of warmtepomp-installateur kiezen: keuzehulp"
 description: "Interactieve keuzehulp: vink af wat je installateur aantoonbaar op orde heeft en zie direct waar het risico zit. Zeven criteria die je allemaal zelf kunt controleren."
 layout: "single"
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 lastmod: 2026-08-20
 ---
 

@@ -21,8 +21,8 @@ keywords:
 - ecoflow delta pro ultra ervaringen
 - noodstroom huis
 affiliate: true
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1542601906990-b4d3fb778b09&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is de EcoFlow Delta Pro Ultra?'

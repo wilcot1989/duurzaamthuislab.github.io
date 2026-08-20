@@ -20,8 +20,8 @@ keywords:
 - omvormer 4 kw 5 kw 6 kw
 - beste omvormer 2026
 - zonnepanelen omvormer keuze
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1559302995-f1d7e5c1b8e7&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true

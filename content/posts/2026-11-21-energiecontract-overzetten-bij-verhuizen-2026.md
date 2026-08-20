@@ -11,7 +11,7 @@ keywords:
   - slimme meter verhuizing uitlezen
   - eindafrekening energie verhuizen
   - dynamisch contract nieuw adres
-author: Wilco Terlouw
+author: Team DuurzaamThuisLab
 featured_image: "/images/energiecontract-verhuizen.jpg"
 category: "Energie"
 tags:

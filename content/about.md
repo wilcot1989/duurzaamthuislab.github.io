@@ -4,9 +4,9 @@ description: "DuurzaamThuisLab is de datagedreven gids voor verduurzaming: narek
 layout: "single"
 ---
 
-## Hoi, ik ben Wilco
+## Wie zit hierachter?
 
-Ik ben Wilco Terlouw, en ik bouw vergelijkingssites die op data draaien in plaats van op verkoopgeblaat. DuurzaamThuisLab is mijn antwoord op een frustratie die veel huiseigenaren zullen herkennen: bijna alle informatie over zonnepanelen, thuisbatterijen en warmtepompen is geschreven door partijen die je iets willen verkopen.
+DuurzaamThuisLab wordt geleid door **Wilco Terlouw**, bouwer van vergelijkingssites die op data draaien in plaats van op verkoopgeblaat. De artikelen verschijnen onder redactie van Team DuurzaamThuisLab. De site is ons antwoord op een frustratie die veel huiseigenaren zullen herkennen: bijna alle informatie over zonnepanelen, thuisbatterijen en warmtepompen is geschreven door partijen die je iets willen verkopen.
 
 ## Hoe wij werken: alles narekenbaar
 

@@ -18,8 +18,8 @@ keywords:
 - Frank Energie
 - dynamische stroom
 affiliate: true
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Wat is een dynamisch energiecontract?
@@ -55,6 +55,8 @@ Dynamische contracten liggen inmiddels dicht bij elkaar op prijs, maar niet op f
 
 Heb je een thuisbatterij? Lees dan ook ons artikel over [dynamische energiecontracten in combinatie met een thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
+
+💡 *Alle actuele aanbieders met tarieven en go-links staan in onze [vergelijker dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/), en de [live uurprijzen](/stroomprijzen/) verversen elk kwartier.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
@@ -229,7 +231,7 @@ EasyEnergy was een van de eerste dynamische leveranciers in Nederland en focust 
 |-----------|--------------------------|---------------------------|
 | Stroomkosten | €1.050 | €770 |
 | Opslag leverancier | €0 | €35-€70 |
-| Vaste kosten | €0-€5/mnd | €3-€6/mnd |
+| Vaste kosten | €6-€9/mnd (peildatum aug 2026: Frank €7,25, Tibber €5,99, ANWB €8,50) | €3-€6/mnd |
 | Energiebelasting | €403 | €403 |
 | **Totaal per jaar** | **~€1.500** | **~€1.250-€1.300** |
 | **Besparing** | — | **€200-€250/jaar** |

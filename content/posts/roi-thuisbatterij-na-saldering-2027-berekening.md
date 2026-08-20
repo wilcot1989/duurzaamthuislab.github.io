@@ -7,8 +7,8 @@ categories: ["thuisbatterijen"]
 tags: ["thuisbatterij", "ROI", "saldering 2027", "rendement", "berekening", "terugverdientijd"]
 keywords: ["roi thuisbatterij 2027", "thuisbatterij rendement na saldering", "thuisbatterij berekening 2027", "terugverdientijd batterij saldering", "rendement thuisbatterij"]
 affiliate: true
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1671785253964-bdb43087ed99&w=1200&output=webp&q=70"
 schema_type: "Article"
 last_updated: '2026-04-29'

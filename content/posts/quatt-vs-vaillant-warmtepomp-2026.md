@@ -19,8 +19,8 @@ keywords:
 - hybride warmtepomp vergelijken
 - quatt of vaillant kiezen
 affiliate: true
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1605152276897-4f618f831968&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een Quatt warmtepomp vs Vaillant in 2026?

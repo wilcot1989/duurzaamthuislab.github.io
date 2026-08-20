@@ -2,8 +2,8 @@
 title: "Terugverdientijd thuisbatterij berekenen (rekentool)"
 description: "Bereken de terugverdientijd van je thuisbatterij op basis van capaciteit, aanschafprijs, cycli, prijsspread, rendement en degradatie. Alle aannames zelf aanpasbaar."
 layout: "single"
-author: Wilco Terlouw
-author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+author: Team DuurzaamThuisLab
+author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 lastmod: 2026-08-20
 ---
 
