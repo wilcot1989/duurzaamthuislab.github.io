@@ -1,7 +1,7 @@
 ---
 title: 'Bluetti AC180 review 2026 — 1152Wh powerstation'
 date: 2026-10-10 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 draft: false
 description: "Bluetti AC180 review: 1152Wh LiFePO4, 1800W output, laden in 1 uur. Wat de specificaties betekenen voor zzp-gebruik en thuisbackup."
 categories:
@@ -206,31 +206,6 @@ Wil je een groter systeem voor thuisopslag vergelijken? Kijk dan naar het rekenm
 <a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk de actuele prijs van de Bluetti AC180</a>
 
 ---
-
-## Veelgestelde vragen
-
-**Hoe lang gaat de Bluetti AC180 mee op één lading?**
-
-Dat hangt sterk af van wat je aansluit. Met een laptop van 60W en een externe monitor van 30W (totaal 90W) red je ruim 8 uur aaneengesloten werken. Als je thuis een koelkast van 150W, een CV-pomp van 80W en een router van 15W aansluit — samen 245W — kom je uit op circa 4 uur autonomie. Reken op iets minder dan de theoretische waarde door omvormerverliezen van 10-12%.
-
-**Is de Bluetti AC180 geschikt als UPS voor mijn desktop-pc?**
-
-Niet zonder een extra UPS ertussen. De AC180 heeft een switchover van 20 milliseconden bij stroomuitval. Voor de meeste apparaten — laptops, NAS, koelkasten, CV-pompen — is dat prima. Een desktop-pc is gevoeliger en kan bij die 20ms even resettten. Heb je echte UPS-functionaliteit nodig, kijk dan naar de [Bluetti AC200Max](/posts/bluetti-ac200max-review-2026/), die volgens de specificaties wel een volwaardige UPS-modus heeft.
-
-**Kan ik de Bluetti AC180 opladen met zonnepanelen?**
-
-Ja, en dat werkt goed. De AC180 accepteert tot 500W via DC-ingang bij een spanning van 12-60V. Met een 200W zonnepaneel duurt volledig opladen circa 6 uur bij goed zonlicht. Met twee 200W panelen in de juiste configuratie kom je op 3 tot 3,5 uur. Meer details over paneel-combinaties staan in het overzicht van [zonnepaneel-powerstation combinaties](/posts/beste-zonnepaneel-powerstation-combinatie-2026/).
-
-**Hoeveel laadcycli gaat de LiFePO4 batterij mee?**
-
-3500 cycli tot 80% restcapaciteit. Bij dagelijks gebruik kom je op bijna 10 jaar. LiFePO4-chemie is stabieler en veiliger dan regulier lithium-ion, ook bij hogere temperaturen. De kans op thermische problemen is bij LiFePO4 significant lager — relevant als je het apparaat in een warme auto of afgesloten ruimte gebruikt.
-
-**Wat is het verschil tussen de Bluetti AC180 en de AC200Max?**
-
-De AC200Max heeft 2048Wh capaciteit (bijna dubbel), een wifi-app naast Bluetooth, een echte UPS-modus met kortere switchover en uitbreidbare capaciteit via extra batterijmodules. De AC180 is compacter, lichter en goedkoper. Voor mobiel gebruik en kortdurende thuisbackup is de AC180 meer dan voldoende. Voor een vaste installatie als primaire thuisbatterij of voor gevoelige apparatuur is de AC200Max of een volledig thuisbatterijsysteem de logischer keuze. Zie ook de vergelijking van [thuisbatterij prijzen](/posts/thuisbatterij-prijzen-vergelijking-2026/).
-
----
-
 *Disclosure: wij hebben affiliate-partnerships met Bluetti, Jackery en EcoFlow via AWIN. Deze review is gebaseerd op specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 ---

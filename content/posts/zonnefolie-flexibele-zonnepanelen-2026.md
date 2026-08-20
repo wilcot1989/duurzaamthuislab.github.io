@@ -1,7 +1,7 @@
 ---
 title: Zonnefolie en flexibele zonnepanelen 2026
 date: 2026-06-19 08:00:00+02:00
-lastmod: 2026-06-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Voor dakkapellen, caravans en daken die geen zware panelen aankunnen — opbrengst, prijs en levensduur vergeleken.
 categories:
 - zonne-energie
@@ -42,6 +42,14 @@ faq:
   a: 'De meest gebruikte methode: zelfklevende backing van het paneel (adhesive) direct op het dakoppervlak geplakt. Alternatief: bevestigingsgaten aan de rand met schroeven en afkit. Zorg altijd voor een luchtspleet van minimaal 5-10 mm onder het paneel voor koeling — direct opgeplakte panelen worden flink warm, wat de efficiëntie verlaagt. Gebruik voor de bekabeling marine-grade connectors (MC4) en voer de kabel door een waterdichte doorvoer naar binnen.'
 - q: Kan ik zonnefolie combineren met mijn bestaande zonnepaneel-installatie?
   a: Technisch ja, maar het vereist zorgvuldigheid. U kunt een aparte string aanleggen voor de flexibele panelen met een eigen micro-omvormer of een aparte ingang op een multi-string omvormer. Combineer flexibele en rigide panelen niet in dezelfde string — de elektrische kenmerken verschillen te veel. Een installateur kan u helpen met de configuratie.
+- q: 'Mijn flexibele panelen produceren na 3 jaar nauwelijks nog iets. Wat is er mis?'
+  a: 'Grote kans dat de PET-toplaag geel is geworden door UV-degradatie. Dat vermindert de lichtdoorval en daalt de efficiëntie snel. Dit is een bekend probleem bij goedkope panelen met PET-backing. Duurdere panelen met ETFE-toplaag hebben dit probleem minder. Helaas is dit niet te repareren — de panelen zijn versleten.'
+- q: 'Kan ik flexibele panelen oprollen voor opslag in de winter?'
+  a: 'Sommige modellen zijn ontworpen om opgerold te worden (rollable solar). Maar niet alle flexibele panelen zijn daarvoor geschikt — sommige worden beschadigd bij rollen. Controleer de specificaties van uw model. Voor camperpanelen die seizoensmatig worden opgeslagen: bewaar ze opgerold (bij modellen die het ondersteunen) in een droge, niet te warme ruimte.'
+- q: 'Zijn flexibele zonnepanelen ook te gebruiken op water (drijvend)?'
+  a: 'Drijvende zonnepanelen (floating PV) is een groeiende toepassing. Voor vijvers en kleine watervlakken op particulier terrein zijn er speciale drijvende frames. Flexibele panelen zijn hier niet voor ontworpen — de onderste laag is niet waterdicht voor langdurig contact. Gebruik hiervoor specifieke waterproof zonnepanelen of standaard rigide modellen op een drijvend frame.'
+- q: 'Welke omvormer past bij flexibele panelen?'
+  a: 'Dezelfde typen omvormers als bij rigide panelen: micro-omvormer (per paneel), string-omvormer (voor meerdere panelen in serie), of laadregelaar (voor off-grid accu-systemen). Controleer het maximale ingangsvermogen van de omvormer versus het vermogen van uw panelen. Micro-omvormers van Enphase (IQ7 series) zijn breed compatibel met flexibele panelen.'
 products:
 - name: Flexibele zonnepanelen set (4× 100W voor camper/caravan)
   url: https://go.duurzaamthuislab.nl/zonneplan
@@ -297,22 +305,6 @@ Voor een caravan of camper gelden geen bouwvergunningen — het is een voertuig,
 ---
 
 Flexibele technologie heeft zijn niche. Het is niet de toekomst van alle daken, maar het is wél de enige optie voor specifieke situaties.
-
----
-
-## Veelgestelde praktijkvragen
-
-**Mijn flexibele panelen produceren na 3 jaar nauwelijks nog iets. Wat is er mis?**
-Grote kans dat de PET-toplaag geel is geworden door UV-degradatie. Dat vermindert de lichtdoorval en daalt de efficiëntie snel. Dit is een bekend probleem bij goedkope panelen met PET-backing. Duurdere panelen met ETFE-toplaag hebben dit probleem minder. Helaas is dit niet te repareren — de panelen zijn versleten.
-
-**Kan ik flexibele panelen oprollen voor opslag in de winter?**
-Sommige modellen zijn ontworpen om opgerold te worden (rollable solar). Maar niet alle flexibele panelen zijn daarvoor geschikt — sommige worden beschadigd bij rollen. Controleer de specificaties van uw model. Voor camperpanelen die seizoensmatig worden opgeslagen: bewaar ze opgerold (bij modellen die het ondersteunen) in een droge, niet te warme ruimte.
-
-**Zijn flexibele zonnepanelen ook te gebruiken op water (drijvend)?**
-Drijvende zonnepanelen (floating PV) is een groeiende toepassing. Voor vijvers en kleine watervlakken op particulier terrein zijn er speciale drijvende frames. Flexibele panelen zijn hier niet voor ontworpen — de onderste laag is niet waterdicht voor langdurig contact. Gebruik hiervoor specifieke waterproof zonnepanelen of standaard rigide modellen op een drijvend frame.
-
-**Welke omvormer past bij flexibele panelen?**
-Dezelfde typen omvormers als bij rigide panelen: micro-omvormer (per paneel), string-omvormer (voor meerdere panelen in serie), of laadregelaar (voor off-grid accu-systemen). Controleer het maximale ingangsvermogen van de omvormer versus het vermogen van uw panelen. Micro-omvormers van Enphase (IQ7 series) zijn breed compatibel met flexibele panelen.
 
 ---
 

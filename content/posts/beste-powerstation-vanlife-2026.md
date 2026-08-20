@@ -39,13 +39,13 @@ faq:
   a: Ja, moderne powerstations met LiFePO4-batterijen zijn veilig in een camperbus. Ze zijn BMS-beschermd (Battery Management System) tegen overladen, te diep ontladen, kortsluiting en oververhitting. Zorg wel voor voldoende ventilatie en zet het station niet in direct zonlicht bij hoge temperaturen.
 products:
 - name: EcoFlow Delta 2 Max
-  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '1899'
 - name: Jackery Explorer 1500 Pro
-  url: https://www.jackery.com/products/explorer-1500-pro-portable-power-station
+  url: https://go.duurzaamthuislab.nl/jackery
   price: '1599'
 - name: Bluetti AC200MAX
-  url: https://www.bluettipower.eu/products/ac200max
+  url: https://go.duurzaamthuislab.nl/bluetti-eu
   price: '1899'
 schema_type: Article
 ---
@@ -142,7 +142,7 @@ De Delta 2 Max kan vrijwel elk apparaat in je bus voeden: koelkast, inductiekook
 - Ventilator is hoorbaar bij zware belasting
 - Neemt flinke ruimte in beslag
 
-[Bekijk de EcoFlow Delta 2 Max](https://www.ecoflow.com/nl/delta-2-max-portable-power-station)
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-powerstation-vanlife-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow Delta 2 Max</a>
 
 ---
 
@@ -181,7 +181,7 @@ De 900W zonne-input betekent dat je met 3-4 panelen op je dak het station overda
 - Grotere afmetingen
 - App minder verfijnd dan EcoFlow
 
-[Bekijk de Bluetti AC200Max](https://www.bluettipower.nl/products/ac200max)
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-powerstation-vanlife-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Bluetti AC200Max</a>
 
 ---
 
@@ -219,7 +219,7 @@ Het 3000W vermogen kan zelfs zware apparaten voeden: grote inductiekookplaten, k
 - Overkill voor basaal vanlife-gebruik
 - Groot en moeilijk te positioneren in kleine bussen
 
-[Bekijk de Jackery Explorer 2000 Plus](https://www.jackery.com/nl/explorer-2000-plus-portable-power-station)
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-powerstation-vanlife-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 2000 Plus</a>
 
 ---
 
@@ -258,7 +258,7 @@ Licht (7,8 kg), compact en betaalbaar. De River 2 Pro kan je telefoons laden, ve
 - Maximaal 220W zonne-input
 - Geen koelkast langer dan een dag draaien zonder bijladen
 
-[Bekijk de EcoFlow River 2 Pro](https://www.ecoflow.com/nl/river-2-pro-portable-power-station)
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-powerstation-vanlife-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow River 2 Pro</a>
 
 ---
 
@@ -297,7 +297,7 @@ De Anker Solix C1000 is de ideale middenweg. Genoeg capaciteit voor 1-2 dagen au
 - Minder bekend merk in de powerstation-markt
 - Beperktere community en accessoire-aanbod
 
-[Bekijk de Anker Solix C1000](https://www.anker.com/eu-nl/products/a1761-solix-c1000-portable-power-station)
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-powerstation-vanlife-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker Solix C1000</a>
 
 ---
 
@@ -471,11 +471,11 @@ Bijna alle moderne powerstations kunnen laden via de 12V-sigarettenaansteker. Ma
 
 Het beste powerstation voor vanlife hangt af van je reissstijl, budget en stroombehoeften:
 
-- **Full-time vanlife**: [EcoFlow Delta 2 Max](https://www.ecoflow.com/nl/delta-2-max-portable-power-station) -- de beste combinatie van capaciteit, vermogen en uitbreidbaarheid.
-- **Maximaal off-grid**: [Bluetti AC200Max](https://www.bluettipower.nl/products/ac200max) -- de hoogste zonne-input voor langere periodes zonder netstroom.
-- **Maximaal vermogen**: [Jackery Explorer 2000 Plus](https://www.jackery.com/nl/explorer-2000-plus-portable-power-station) -- 3000W voor de zwaarste apparaten.
-- **Weekend en budget**: [EcoFlow River 2 Pro](https://www.ecoflow.com/nl/river-2-pro-portable-power-station) -- licht, snel en betaalbaar.
-- **Beste allround**: [Anker Solix C1000](https://www.anker.com/eu-nl/products/a1761-solix-c1000-portable-power-station) -- de slimste keuze voor de meeste vanlifers.
+- **Full-time vanlife**: <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-powerstation-vanlife-2026/" target="_blank" rel="noopener nofollow sponsored">EcoFlow Delta 2 Max</a> -- de beste combinatie van capaciteit, vermogen en uitbreidbaarheid.
+- **Maximaal off-grid**: <a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-powerstation-vanlife-2026/" target="_blank" rel="noopener nofollow sponsored">Bluetti AC200Max</a> -- de hoogste zonne-input voor langere periodes zonder netstroom.
+- **Maximaal vermogen**: <a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-powerstation-vanlife-2026/" target="_blank" rel="noopener nofollow sponsored">Jackery Explorer 2000 Plus</a> -- 3000W voor de zwaarste apparaten.
+- **Weekend en budget**: <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-powerstation-vanlife-2026/" target="_blank" rel="noopener nofollow sponsored">EcoFlow River 2 Pro</a> -- licht, snel en betaalbaar.
+- **Beste allround**: <a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-powerstation-vanlife-2026/" target="_blank" rel="noopener nofollow sponsored">Anker Solix C1000</a> -- de slimste keuze voor de meeste vanlifers.
 
 Bekijk ook ons overzicht van de [beste draagbare powerstations 2026](/posts/beste-draagbare-powerstation-2026/) en het [beste powerstation voor camping](/posts/beste-powerstation-camping-2026/) voor meer opties.
 

@@ -39,6 +39,20 @@ faq:
   a: 'BTW-teruggave kan nog steeds, mits je nooit bent aangemeld als ondernemer voor zonnepanelen. Geen wettelijke verjaring zoals soms gezegd wordt — dit is een misvatting. Belastingdienst hanteert wel administratieve termijnen.'
 - q: 'Heb ik een KvK nummer nodig?'
   a: 'Ja, je registreert je bij KvK als kleinondernemer (eenmanszaak) met SBI-code voor energieleverancier (35.11). Geen kosten voor inschrijving. Daarna meld je je aan bij Belastingdienst voor BTW-doeleinden.'
+- q: 'Mag ik BTW terugvragen op een tweede installatie?'
+  a: 'Ja, mits je oorspronkelijke installatie voor de tweede uitbreiding al was afgemeld onder KOR. Je heropent dan tijdelijk je BTW-status, doet aangifte over de tweede installatie, en valt daarna weer terug onder KOR.'
+- q: 'Wat als ik mijn zonnepanelen op een dakkapel of carport heb?'
+  a: 'Geen verschil. De Belastingdienst kijkt naar netaansluiting, niet naar locatie van de panelen. Wel handig: als je de carport later verhuurt aan een buurman voor zijn auto, blijven de panelen "jouw" zakelijke goed.'
+- q: 'Werkt deze procedure ook voor balkonpanelen?'
+  a: 'Sinds 2024 explicieter geregeld: ja, mits je ze voor 2023 hebt aangeschaft (zeldzaam — balkonpanelen werden pas mainstream in 2023-2024). Voor latere aanschaf: 0% BTW, niets terug. Lees [balkon zonnepanelen plug-in](/posts/balkon-zonnepanelen-plug-in-nederland-2026/).'
+- q: 'Hoe lang moet ik mijn KvK-inschrijving aanhouden?'
+  a: 'Minimaal 3 jaar onder KOR. Daarna mag je je gratis uitschrijven via KvK.nl/uitschrijven. Geen lopende verplichtingen meer.'
+- q: 'Wat als ik tussentijds verhuis?'
+  a: 'Inschrijving KvK verhuist mee, BTW-status blijft. Geen extra actie. Wel het nieuwe energiecontract op je naam laten zetten als bewijs van eigendom panelen.'
+- q: 'Heb ik een aparte bankrekening nodig voor de teruggave?'
+  a: 'Nee. Belastingdienst stort op je privérekening, mits die bij hen bekend is via Mijn Belastingdienst. Wel: gebruik bij voorkeur dezelfde rekening waarvan je destijds de installatie hebt betaald, dat scheelt eventuele controlevragen.'
+- q: 'Telt schade aan panelen mee?'
+  a: 'Als panelen door storm of brand defect raken na de teruggave, behoud je je teruggave. Wel: vervangende panelen na 2023 vallen onder 0% BTW, dus daar is niets meer terug te vragen.'
 products:
 - name: Zonneplan installatie
   url: https://go.duurzaamthuislab.nl/zonneplan
@@ -321,22 +335,6 @@ Als je toch de hele procedure doorloopt, pak gelijk mee:
 - **Energiebelasting-vermindering** via je leverancier (automatisch, geen actie)
 - **Saldering benutten** zolang het nog kan — lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/)
 - **Dynamisch contract** voor extra verdienst op overschot — zie [dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/)
-
-## Veelgestelde vragen die niet in de FAQ staan
-
-**Mag ik BTW terugvragen op een tweede installatie?** Ja, mits je oorspronkelijke installatie voor de tweede uitbreiding al was afgemeld onder KOR. Je heropent dan tijdelijk je BTW-status, doet aangifte over de tweede installatie, en valt daarna weer terug onder KOR.
-
-**Wat als ik mijn zonnepanelen op een dakkapel of carport heb?** Geen verschil. De Belastingdienst kijkt naar netaansluiting, niet naar locatie van de panelen. Wel handig: als je de carport later verhuurt aan een buurman voor zijn auto, blijven de panelen "jouw" zakelijke goed.
-
-**Werkt deze procedure ook voor balkonpanelen?** Sinds 2024 explicieter geregeld: ja, mits je ze voor 2023 hebt aangeschaft (zeldzaam — balkonpanelen werden pas mainstream in 2023-2024). Voor latere aanschaf: 0% BTW, niets terug. Lees [balkon zonnepanelen plug-in](/posts/balkon-zonnepanelen-plug-in-nederland-2026/).
-
-**Hoe lang moet ik mijn KvK-inschrijving aanhouden?** Minimaal 3 jaar onder KOR. Daarna mag je je gratis uitschrijven via KvK.nl/uitschrijven. Geen lopende verplichtingen meer.
-
-**Wat als ik tussentijds verhuis?** Inschrijving KvK verhuist mee, BTW-status blijft. Geen extra actie. Wel het nieuwe energiecontract op je naam laten zetten als bewijs van eigendom panelen.
-
-**Heb ik een aparte bankrekening nodig voor de teruggave?** Nee. Belastingdienst stort op je privérekening, mits die bij hen bekend is via Mijn Belastingdienst. Wel: gebruik bij voorkeur dezelfde rekening waarvan je destijds de installatie hebt betaald, dat scheelt eventuele controlevragen.
-
-**Telt schade aan panelen mee?** Als panelen door storm of brand defect raken na de teruggave, behoud je je teruggave. Wel: vervangende panelen na 2023 vallen onder 0% BTW, dus daar is niets meer terug te vragen.
 
 ## Conclusie: het loont vaak nog
 

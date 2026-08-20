@@ -38,6 +38,14 @@ faq:
   a: 'Ja, Pylontech is een van de meest gebruikte off-grid batterijen wereldwijd. Combineer met Victron MultiPlus II of Deye omvormer voor een complete eilandinstallatie. Voor on-grid Nederlandse woningen werkt het ook prima.'
 - q: 'Garantie en service in Nederland?'
   a: 10 jaar fabrieksgarantie, met bring-back garantie via de Nederlandse importeur (vaak Memodo, Krannich of een Victron-distributeur). Reken op weken in plaats van dagen voor een garantieafhandeling, omdat onderdelen uit het Europese kanaal komen. Vraag je leverancier vooraf welke termijn hij toezegt.
+- q: 'Werkt Pylontech met een bestaande SolarEdge-omvormer?'
+  a: 'SolarEdge SE-Energy Bank is alleen voor SolarEdge eigen batterij. Pylontech werkt niet met SolarEdge HD-Wave. Je moet de omvormer vervangen of een AC-coupled oplossing kiezen — dan toch beter naar Sessy.'
+- q: 'Is Pylontech ook geschikt voor commercieel/MKB?'
+  a: 'Ja, vooral de Force-H2 lijn (24-48 kWh). Veel boerderijen, kleine bedrijven en VVE''s gebruiken Pylontech voor opslag van zonopbrengst. Voor MKB zie ook [energieopslag ZZP MKB](/posts/energieopslag-zzp-mkb-commercieel-2026/).'
+- q: 'Wat als je na 5 jaar wilt uitbreiden?'
+  a: 'Pylontech US5000 modules zijn forward-compatible. Je kunt nieuwe modules bijplaatsen, mits dezelfde productlijn. Ouder/nieuwer mengen kan mits de capaciteitsverschillen klein zijn. Door de modulaire opbouw is dit één van de beste merken voor uitbreiding.'
+- q: 'Hoe verschilt Pylontech US5000 van Pylontech Force-H2?'
+  a: 'US5000 is laagvolt (48V), goed voor 9-15 kWh. Force-H2 is hoogvolt (192-409V), efficiënter voor grotere setups (15+ kWh). Voor woningen met grotere energiebehoefte (>10 kWh) wordt Force-H2 aantrekkelijker.'
 products:
 - name: Pylontech US5000 4,8 kWh
   url: https://en.pylontech.com.cn/
@@ -238,20 +246,6 @@ Min: complex voor leken, geen consument-app, trage service, geen native dynamisc
 Pylontech is een fantastische batterij voor wie technisch is en budget belangrijk vindt. Voor de doorsnee Nederlander die een plug-en-play oplossing wil: Sessy of Marstek.
 
 Lees ook [beste thuisbatterij eengezinswoning](/posts/beste-thuisbatterij-eengezinswoning-2026/), [thuisbatterij vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/), [Sessy vs Marstek](/posts/sessy-vs-marstek-vergelijking-2026/) en [thuisbatterij subsidie 2026](/posts/thuisbatterij-subsidie-2026-overzicht/).
-
-## Veelgestelde vragen
-
-**Werkt Pylontech met een bestaande SolarEdge-omvormer?**
-SolarEdge SE-Energy Bank is alleen voor SolarEdge eigen batterij. Pylontech werkt niet met SolarEdge HD-Wave. Je moet de omvormer vervangen of een AC-coupled oplossing kiezen — dan toch beter naar Sessy.
-
-**Is Pylontech ook geschikt voor commercieel/MKB?**
-Ja, vooral de Force-H2 lijn (24-48 kWh). Veel boerderijen, kleine bedrijven en VVE's gebruiken Pylontech voor opslag van zonopbrengst. Voor MKB zie ook [energieopslag ZZP MKB](/posts/energieopslag-zzp-mkb-commercieel-2026/).
-
-**Wat als je na 5 jaar wilt uitbreiden?**
-Pylontech US5000 modules zijn forward-compatible. Je kunt nieuwe modules bijplaatsen, mits dezelfde productlijn. Ouder/nieuwer mengen kan mits de capaciteitsverschillen klein zijn. Door de modulaire opbouw is dit één van de beste merken voor uitbreiding.
-
-**Hoe verschilt Pylontech US5000 van Pylontech Force-H2?**
-US5000 is laagvolt (48V), goed voor 9-15 kWh. Force-H2 is hoogvolt (192-409V), efficiënter voor grotere setups (15+ kWh). Voor woningen met grotere energiebehoefte (>10 kWh) wordt Force-H2 aantrekkelijker.
 
 ## Tips voor wie Pylontech overweegt
 

@@ -38,6 +38,14 @@ faq:
   a: 15 jaar fabrieksgarantie op de batterij (capaciteitsbehoud minimaal 60% na 15 jaar bij dagelijkse cyclus). Dat is langer dan Sessy (10 jaar) en vergelijkbaar met Tesla Powerwall (10 jaar).
 - q: 'Hoeveel cycli haalt de batterij?'
   a: 'Enphase specificeert 6.000 cycli bij 100 procent DoD. Bij één cyclus per dag komt dat op ruim 16 jaar. De garantie loopt tot 15 jaar met een gegarandeerde restcapaciteit; die garantiecurve is het cijfer om mee te rekenen, niet een degradatiemeting over enkele maanden.'
+- q: 'Kun je later modules bijplaatsen?'
+  a: 'Ja, dat is juist het sterke punt. Eerste module €4.200 inclusief installatie, extra modules €3.400 per stuk (alleen hardware, installatie 2 uur).'
+- q: 'Werkt Enphase met een SolarEdge omvormer?'
+  a: 'Ja, want het is AC-gekoppeld. De Envoy-monitoring werkt dan beperkt (alleen verbruik en batterij, geen panelen-data). Lees [SolarEdge vs Enphase](/posts/solaredge-vs-enphase-2026/) voor meer.'
+- q: 'Is er ISDE-subsidie op deze batterij?'
+  a: 'Op dit moment niet, want ISDE geldt voor warmtepompen en zonneboilers, niet voor thuisbatterijen. Sommige gemeentes hebben wel een aparte batterijsubsidie. Zie [thuisbatterij subsidie 2026](/posts/thuisbatterij-subsidie-2026-overzicht/).'
+- q: 'Wat als Enphase Nederland verlaat?'
+  a: 'Onwaarschijnlijk maar mogelijk. Dan blijft de batterij werken (lokale werking), maar de app stopt en garantie wordt lastiger te claimen. Sessy is een Nederlands bedrijf — daar heb je dat risico minder.'
 products:
 - name: Enphase IQ Battery 5P
   url: https://enphase.com/nl/homeowners/iq-battery
@@ -256,15 +264,6 @@ Min: prijs te hoog, geen native dynamische handel, System Controller verplicht v
 
 Voor 90% van Nederlandse huishoudens is Sessy of Marstek een betere keuze. Voor de 10% die premium en monitoring willen, is Enphase een uitstekende batterij. Combineer hem met een dynamisch contract van [Tibber](/posts/tibber-review-ervaringen-2026/) of [Frank Energie](/posts/frank-energie-review-ervaringen-2026/) voor het maximale rendement.
 
-## Veelgestelde vragen
-
-**Kun je later modules bijplaatsen?** Ja, dat is juist het sterke punt. Eerste module €4.200 inclusief installatie, extra modules €3.400 per stuk (alleen hardware, installatie 2 uur).
-
-**Werkt Enphase met een SolarEdge omvormer?** Ja, want het is AC-gekoppeld. De Envoy-monitoring werkt dan beperkt (alleen verbruik en batterij, geen panelen-data). Lees [SolarEdge vs Enphase](/posts/solaredge-vs-enphase-2026/) voor meer.
-
-**Is er ISDE-subsidie op deze batterij?** Op dit moment niet, want ISDE geldt voor warmtepompen en zonneboilers, niet voor thuisbatterijen. Sommige gemeentes hebben wel een aparte batterijsubsidie. Zie [thuisbatterij subsidie 2026](/posts/thuisbatterij-subsidie-2026-overzicht/).
-
-**Wat als Enphase Nederland verlaat?** Onwaarschijnlijk maar mogelijk. Dan blijft de batterij werken (lokale werking), maar de app stopt en garantie wordt lastiger te claimen. Sessy is een Nederlands bedrijf — daar heb je dat risico minder.
 
 Voor verdere context lees ook [thuisbatterij prijs per kWh 2026](/posts/thuisbatterij-prijs-per-kwh-2026/) en [batterij na 2027 zonder zonnepanelen zin](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/).
 

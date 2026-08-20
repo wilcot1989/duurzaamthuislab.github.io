@@ -38,13 +38,13 @@ faq:
   a: De AC200MAX heeft een LiFePO4-batterij (langer leven, veiliger), is uitbreidbaar met B230/B300-batterijen en heeft een hogere solar-input (900W vs 700W). De AC200P gebruikt een NMC-batterij en is niet uitbreidbaar.
 products:
 - name: Bluetti AC200MAX
-  url: https://www.bluettipower.eu/products/ac200max
+  url: https://go.duurzaamthuislab.nl/bluetti-eu
   price: '1899'
 - name: EcoFlow Delta 2 Max
-  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '1899'
 - name: Jackery Explorer 2000 Plus
-  url: https://www.jackery.com/products/explorer-2000-plus-portable-power-station
+  url: https://go.duurzaamthuislab.nl/jackery
   price: '2299'
 schema_type: Review
 ---
@@ -261,7 +261,7 @@ De Bluetti AC200MAX is verkrijgbaar vanaf **circa €1.699**. Dat maakt het het 
 | Bluetti B230 uitbreidingsbatterij | €1.299 |
 | Bluetti B300 uitbreidingsbatterij | €1.799 |
 
-**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/bluetti-ac200max-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij Bluetti →</a>
 
 ---
 
@@ -395,7 +395,7 @@ De mogelijkheid om het systeem uit te breiden tot 8192Wh maakt het bovendien een
 
 **Ons redactionele oordeel: 8,5/10** — op basis van specificaties, prijs-kwaliteitverhouding, garantievoorwaarden en geverifieerde gebruikersreviews.
 
-**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/bluetti-ac200max-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij Bluetti →</a>
 
 
 <a href="https://go.duurzaamthuislab.nl/bluetti" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Bluetti</a>

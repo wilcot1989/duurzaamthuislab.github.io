@@ -44,13 +44,13 @@ faq:
   a: Ja, dat is een van de grote voordelen van een powerstation. Met een opvouwbaar zonnepaneel (100-400W) kun je het station overdag opladen, waardoor je in theorie onbeperkt stroom hebt zolang de zon schijnt. Dit maakt je volledig onafhankelijk van het net.
 products:
 - name: EcoFlow Delta 2 Max
-  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '1899'
 - name: Jackery Explorer 2000 Plus
-  url: https://www.jackery.com/products/explorer-2000-plus-portable-power-station
+  url: https://go.duurzaamthuislab.nl/jackery
   price: '2299'
 - name: Anker SOLIX C1000
-  url: https://www.anker.com/eu-en/products/a1761
+  url: https://go.duurzaamthuislab.nl/anker-solix
   price: '999'
 schema_type: Article
 ---
@@ -218,9 +218,9 @@ Beide stations zijn geschikt voor **scenario 2** (comfortabel). Met ruim 1000Wh 
 
 De Anker SOLIX C1000 laadt iets sneller op en is compacter. De EcoFlow Delta 2 biedt meer solar-input voor off-grid opladen. Lees onze uitgebreide [Anker SOLIX C1000 review](/posts/anker-solix-c1000-review-2026/) voor meer details.
 
-**[Bekijk de Anker SOLIX C1000 >>>](https://www.anker.com/eu-nl/collections/anker-solix)**
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker SOLIX C1000 →</a>
 
-**[Bekijk de EcoFlow Delta 2 >>>](https://www.ecoflow.com/nl/delta-2-portable-power-station)**
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow Delta 2 →</a>
 
 ### Premium: €1.500+ -- EcoFlow Delta 2 Max of Jackery Explorer 2000 Plus
 
@@ -240,9 +240,9 @@ Met ruim 2000Wh ben je voorbereid op **scenario 3** (volledig comfort). Je kunt 
 
 De EcoFlow Delta 2 Max wint op laadsnelheid en gewicht. De Jackery 2000 Plus biedt meer continu vermogen en enorme uitbreidbaarheid. Lees onze uitgebreide reviews: [EcoFlow Delta 2 Max review](/posts/ecoflow-delta-2-max-review-2026/) en [Jackery Explorer 2000 Plus review](/posts/jackery-explorer-2000-plus-review-2026/).
 
-**[Bekijk de EcoFlow Delta 2 Max >>>](https://www.ecoflow.com/nl)**
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow Delta 2 Max →</a>
 
-**[Bekijk de Jackery Explorer 2000 Plus >>>](https://www.jackery.com/nl/)**
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 2000 Plus →</a>
 
 ---
 

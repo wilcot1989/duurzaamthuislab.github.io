@@ -18,7 +18,7 @@ keywords:
 - thuisaccu vergelijken
 - powerstation vs thuisbatterij
 - energieopslag thuis
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
@@ -39,7 +39,7 @@ faq:
   a: Ja, dat is een slimme combinatie. Gebruik een thuisbatterij als vaste energieopslag voor je zonnepanelen thuis en een powerstation als draagbare back-up of voor onderweg. Veel huishoudens kiezen voor beide.
 products:
 - name: EcoFlow Delta 2 Max
-  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '1899'
 - name: Huawei Luna 2000
   url: https://solar.huawei.com/eu/residential/luna
@@ -51,7 +51,7 @@ schema_type: Article
 ---
 Een thuisbatterij en een powerstation worden vaak in één adem genoemd, maar het zijn twee totaal verschillende producten: het ene is vast geïnstalleerde opslag achter je omvormer, het andere een draagbaar apparaat met eigen stopcontacten. Toch is "welke van de twee moet ik hebben?" een van de meestgestelde vragen. Hieronder het verschil op basis van specificaties, installatievoorwaarden en publieke marktprijzen.
 
-*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Sessy, Huawei en Tesla in dit artikel zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie. De links naar EcoFlow en Bluetti zijn affiliate-links via het AWIN-netwerk: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 
@@ -210,9 +210,9 @@ Thuisbatterijen gaan langer mee:
 
 **Onze inschatting**: de [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) voor maximale veelzijdigheid, of de [EcoFlow River 2 Pro](/posts/beste-draagbare-powerstation-2026/) voor maximale draagbaarheid.
 
-**[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/powerstation-vs-thuisbatterij-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij EcoFlow →</a>
 
-**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/powerstation-vs-thuisbatterij-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij Bluetti →</a>
 
 ### Kies een thuisbatterij als je:
 

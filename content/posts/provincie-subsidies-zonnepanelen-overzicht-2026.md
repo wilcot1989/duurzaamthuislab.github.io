@@ -1,7 +1,7 @@
 ---
 title: 'Provincie Subsidies Zonnepanelen Overzicht 2026'
 date: 2026-07-20 08:00:00+02:00
-lastmod: 2026-07-20 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 last_updated: 2026-04-29
 description: 'Provincie-subsidies voor zonnepanelen in 2026: overzicht per provincie. Welke fondsen zijn beschikbaar, hoe vraag je aan, en welke combineren met landelijke regelingen.'
 draft: false
@@ -39,6 +39,16 @@ faq:
   a: 'Provincies kondigen nieuwe regelingen meestal aan in januari (begin begrotingsjaar) of september (najaarsbegroting). Houd provincie-website in gaten.'
 - q: 'Kan ik ook subsidie krijgen voor warmtepomp of isolatie?'
   a: 'Ja, veel provinciale regelingen omvatten meerdere maatregelen: zonnepanelen, thuisbatterij, warmtepomp, isolatie. Combineer voor maximaal voordeel.'
+- q: 'Mag ik provinciale subsidie ontvangen als ik in een andere provincie werk?'
+  a: 'Ja, het gaat om je woonadres, niet werkadres. Wel je BSN-adres bij gemeente moet kloppen.'
+- q: 'Wat als ik tijdens de aanvraagprocedure verhuis?'
+  a: 'Dan vervalt de aanvraag bij de oorspronkelijke provincie. Mits de uitvoering nog niet plaats heeft gevonden, kun je opnieuw aanvragen bij nieuwe provincie. Houd hier 4-6 maanden vertraging op.'
+- q: 'Tellen aankopen via webshops als ''investering''?'
+  a: 'Ja, mits factuur op je naam en panelen geïnstalleerd op vergunde manier. Coolblue, Zonneplan en lokale installateurs leveren altijd correcte facturen. Klusresultaten via Marktplaats accepteren provincies vaak niet.'
+- q: 'Kan ik subsidie krijgen voor een tweede installatie?'
+  a: 'Ja, mits onafhankelijk pand of nieuw onderdeel woning (bijv. uitbouw). Niet voor uitbreiding bestaande installatie tenzij regeling dat expliciet noemt.'
+- q: 'Hoe zit het met BTW op de subsidie zelf?'
+  a: 'Geen BTW op de subsidie. Wel op de investering — die mag je voor pre-2023 panelen alsnog terugvragen via Belastingdienst, los van subsidie. Lees [BTW teruggeven zonnepanelen](/posts/btw-teruggeven-zonnepanelen-2026-stappenplan/).'
 products:
 - name: Zonneplan zonnepanelen
   url: https://go.duurzaamthuislab.nl/zonneplan
@@ -431,18 +441,6 @@ Sinds eind 2025 een paar belangrijke wijzigingen die de meeste websites nog niet
 - **Limburg LiVe** introduceerde een "tweede ronde" in september voor wie in maart afgewezen werd.
 
 Check altijd de actuele provincie-website voor de laatste status — deze regelingen muteren snel.
-
-## Veelgestelde vragen die niet in de FAQ staan
-
-**Mag ik provinciale subsidie ontvangen als ik in een andere provincie werk?** Ja, het gaat om je woonadres, niet werkadres. Wel je BSN-adres bij gemeente moet kloppen.
-
-**Wat als ik tijdens de aanvraagprocedure verhuis?** Dan vervalt de aanvraag bij de oorspronkelijke provincie. Mits de uitvoering nog niet plaats heeft gevonden, kun je opnieuw aanvragen bij nieuwe provincie. Houd hier 4-6 maanden vertraging op.
-
-**Tellen aankopen via webshops als 'investering'?** Ja, mits factuur op je naam en panelen geïnstalleerd op vergunde manier. Coolblue, Zonneplan en lokale installateurs leveren altijd correcte facturen. Klusresultaten via Marktplaats accepteren provincies vaak niet.
-
-**Kan ik subsidie krijgen voor een tweede installatie?** Ja, mits onafhankelijk pand of nieuw onderdeel woning (bijv. uitbouw). Niet voor uitbreiding bestaande installatie tenzij regeling dat expliciet noemt.
-
-**Hoe zit het met BTW op de subsidie zelf?** Geen BTW op de subsidie. Wel op de investering — die mag je voor pre-2023 panelen alsnog terugvragen via Belastingdienst, los van subsidie. Lees [BTW teruggeven zonnepanelen](/posts/btw-teruggeven-zonnepanelen-2026-stappenplan/).
 
 ## Conclusie: laat €1.000-€3.000 niet liggen
 

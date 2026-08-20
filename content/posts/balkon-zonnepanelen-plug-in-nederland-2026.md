@@ -1,7 +1,7 @@
 ---
 title: 'Balkon Zonnepanelen Plug-in Nederland 2026: Wat Mag?'
 date: 2026-07-31 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 last_updated: 2026-04-29
 description: 'Plug-in balkon zonnepanelen in Nederland 2026: wat mag wel en niet, kosten, opbrengst, juridische status. Inclusief vergelijking met de Duitse "Balkonkraftwerk"-markt.'
 draft: false
@@ -25,7 +25,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: false
+affiliate: true
 faq:
 - q: 'Mag ik plug-in zonnepanelen in Nederland gebruiken?'
   a: 'Sinds 2024 toegestaan, mits totaal vermogen onder 800W (1-fase) en aangesloten op een gewone Schuko via gecertificeerde stekkerset met automatische uitschakeling. Boven 800W: gecertificeerde installatie verplicht.'
@@ -45,10 +45,10 @@ faq:
   a: 'Nee. NEN-EN 50549 vereist anti-eilandwerking: bij netuitval schakelt de wisselrichter binnen 0,2 seconde uit. Dat is bewust — anders werken monteurs aan een "dood" net dat tóch onder spanning staat. Voor noodstroom heb je een aparte powerstation met accu nodig.'
 products:
 - name: EcoFlow PowerStream 800W
-  url: https://nl.ecoflow.com/
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '599'
 - name: Anker SOLIX Solarbank 2
-  url: https://www.anker.com/
+  url: https://go.duurzaamthuislab.nl/anker-solix
   price: '799'
 - name: Hoymiles HM-800
   url: https://www.hoymiles.com/
@@ -60,7 +60,7 @@ Het korte antwoord: ja, sinds eind 2024 expliciet toegestaan tot 800W. Een compl
 
 Hieronder de complete gids voor plug-in balkon zonnepanelen in Nederland in 2026. Wat mag wel, wat mag niet, en hoe pak je het zelf aan.
 
-*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
+*Disclosure: dit artikel bevat affiliate-links naar EcoFlow en Anker (via het AWIN-netwerk). Koop je via zo'n link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Met de overige genoemde merken hebben wij geen affiliate- of commissierelatie; die links zijn gewone verwijzingen. Onze vergelijking is gebaseerd op specificaties, publieke data en narekenbare berekeningen.*
 
 
 > **Kort antwoord:** Plug-in balkon zonnepanelen in Nederland 2026: wat mag wel en niet, kosten, opbrengst, juridische status. Inclusief vergelijking met de Duitse "Balkonkraftwerk"-markt.

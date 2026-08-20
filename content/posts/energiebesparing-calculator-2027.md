@@ -26,6 +26,12 @@ featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1580893246395-52a
 faq:
 - q: Wat zijn de belangrijkste voordelen?
   a: De voordelen staan in detail uitgelegd in de bovenstaande secties.
+- q: 'Wat als ik geen 100 procent flex-verbruik heb?'
+  a: 'De dynamische voordelen in de calculator gaan uit van 70 procent flex (warmtepomp, EV, witgoed). Heb je alleen vaste kantoor-uren-belasting, halveer dan het dynamische voordeel.'
+- q: 'Wat als mijn buurman een grote installatie heeft naast me?'
+  a: 'Bij hoge zomer-piek-instraling kan jouw teruglevering door netcongestie geweigerd worden — slimme meter logt dat als "curtailment". In de calculator niet zichtbaar, in de praktijk 2-7 procent verlies.'
+- q: 'Hoe zit het met btw op de batterij?'
+  a: 'Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. De calculator rekent daarom met de prijs inclusief btw en zonder btw-correctie. Alleen wie als btw-ondernemer stroom teruglevert kan de btw in specifieke gevallen terugvragen; de voorwaarden (waaronder een energiemanagementsysteem en een dynamisch contract) staan op belastingdienst.nl.'
 products:
 - name: Sessy 5 kWh thuisbatterij
   url: https://go.duurzaamthuislab.nl/sessy
@@ -365,15 +371,6 @@ Elk rekenmodel is een vereenvoudiging. Drie factoren verklaren het grootste deel
 
 Houd daarom rekening met een bandbreedte in plaats van één getal. Een uitkomst van "terugverdientijd 9 jaar" moet je lezen als grofweg 8 tot 10 jaar.
 
-## Veelgestelde reken-gotchas door lezers
-
-Lezers stuurden de afgelopen drie maanden vragen die de calculator niet automatisch oplost. Drie meest voorkomende:
-
-**Wat als ik geen 100 procent flex-verbruik heb?** De dynamische voordelen in de calculator gaan uit van 70 procent flex (warmtepomp, EV, witgoed). Heb je alleen vaste kantoor-uren-belasting, halveer dan het dynamische voordeel.
-
-**Wat als mijn buurman een grote installatie heeft naast me?** Bij hoge zomer-piek-instraling kan jouw teruglevering door netcongestie geweigerd worden — slimme meter logt dat als "curtailment". In de calculator niet zichtbaar, in de praktijk 2-7 procent verlies.
-
-**Hoe zit het met btw op de batterij?** Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. De calculator rekent daarom met de prijs inclusief btw en zonder btw-correctie. Alleen wie als btw-ondernemer stroom teruglevert kan de btw in specifieke gevallen terugvragen; de voorwaarden (waaronder een energiemanagementsysteem en een dynamisch contract) staan op belastingdienst.nl.
 
 ---
 

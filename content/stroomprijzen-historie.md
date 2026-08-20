@@ -4,6 +4,13 @@ description: "Historie van de dynamische stroomprijzen: maandgemiddelden van het
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+faq:
+- q: 'Tot hoe ver terug kan ik prijzen opzoeken?'
+  a: 'De datumkiezer gaat terug tot 1 januari 2014. Voor oudere jaren kan de dekking per dag verschillen; is er niets beschikbaar, dan meldt de tool dat.'
+- q: 'Waarom wijkt het maandgemiddelde af van wat ik bij mijn leverancier zie?'
+  a: 'Omdat hier de kale beursprijs staat: inclusief btw, maar zonder energiebelasting, inkoopvergoeding en vaste kosten. Je leverancier telt die er bovenop, en rekent bovendien met jouw eigen verbruiksprofiel in plaats van een ongewogen uurgemiddelde.'
+- q: 'Kan ik uit deze historie afleiden wat stroom volgend jaar kost?'
+  a: 'Nee. De historie toont patronen, geen voorspelling — prijzen uit het verleden bieden geen indicatie voor toekomstige prijzen. Wil je weten wat er nu speelt, kijk dan op [actuele stroomprijzen](/stroomprijzen/) met de uurprijzen voor vandaag en morgen.'
 lastmod: 2026-08-20
 ---
 
@@ -183,14 +190,3 @@ Historie helpt bij die keuze op één manier: het laat zien hoe *beweeglijk* de 
 Een vast contract ruilt dat risico in voor zekerheid, tegen een opslag die de leverancier daarvoor rekent. Welke van de twee gunstiger uitpakt, weet je pas achteraf; wat je vóóraf wél kunt doen is de tariefopbouw vergelijken — per aanbieder naast elkaar in onze [vergelijking van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/). Zie je veel dagen met een heel laag gemiddelde, kijk dan ook naar [negatieve stroomprijzen](/negatieve-stroomprijzen/).
 
 <a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/stroomprijzen-historie/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Frank Energie (dynamisch contract) →</a>
-
-## Veelgestelde vragen
-
-**Tot hoe ver terug kan ik prijzen opzoeken?**
-De datumkiezer gaat terug tot 1 januari 2014. Voor oudere jaren kan de dekking per dag verschillen; is er niets beschikbaar, dan meldt de tool dat.
-
-**Waarom wijkt het maandgemiddelde af van wat ik bij mijn leverancier zie?**
-Omdat hier de kale beursprijs staat: inclusief btw, maar zonder energiebelasting, inkoopvergoeding en vaste kosten. Je leverancier telt die er bovenop, en rekent bovendien met jouw eigen verbruiksprofiel in plaats van een ongewogen uurgemiddelde.
-
-**Kan ik uit deze historie afleiden wat stroom volgend jaar kost?**
-Nee. De historie toont patronen, geen voorspelling — prijzen uit het verleden bieden geen indicatie voor toekomstige prijzen. Wil je weten wat er nu speelt, kijk dan op [actuele stroomprijzen](/stroomprijzen/) met de uurprijzen voor vandaag en morgen.

@@ -39,13 +39,13 @@ faq:
   a: EcoFlow garandeert dat de batterij na 3000 laadcycli nog minimaal 80% van de oorspronkelijke capaciteit behoudt. Bij dagelijks gebruik komt dit neer op meer dan 8 jaar. Bij wekelijks gebruik (camping, weekend) gaat de batterij effectief 10-15 jaar of langer mee.
 products:
 - name: EcoFlow River 2 Pro
-  url: https://nl.ecoflow.com/products/river-2-pro-portable-power-station
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '649'
 - name: Jackery Explorer 700 Plus
-  url: https://www.jackery.com/products/explorer-700-plus-portable-power-station
+  url: https://go.duurzaamthuislab.nl/jackery
   price: '699'
 - name: Anker SOLIX C800
-  url: https://www.anker.com/eu-en/products/a1751
+  url: https://go.duurzaamthuislab.nl/anker-solix
   price: '599'
 schema_type: Review
 ---
@@ -355,7 +355,7 @@ Voor eenvoudige thuiswerkscenario's (laptop, router, lamp) is de River 2 Pro als
 - **Bol.com**: Beschikbaar via diverse verkopers
 - **Coolblue**: Met uitstekende klantenservice
 
-[Bekijk de EcoFlow River 2 Pro](https://www.ecoflow.com/nl/river-2-pro-portable-power-station)
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-river-2-pro-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow River 2 Pro</a>
 
 ---
 
@@ -376,7 +376,7 @@ De EcoFlow River 2 Pro verdient zijn populariteit. Het is een uitstekend powerst
 
 Als je meer capaciteit nodig hebt, bekijk dan de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) of ons overzicht van de [beste draagbare powerstations 2026](/posts/beste-draagbare-powerstation-2026/). Voor een vergelijking van alle zonnepaneel-powerstation combinaties, lees ons artikel over de [beste zonnepaneel-powerstation combinatie](/posts/beste-zonnepaneel-powerstation-combinatie-2026/).
 
-[Bekijk de EcoFlow River 2 Pro](https://www.ecoflow.com/nl/river-2-pro-portable-power-station)
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-river-2-pro-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow River 2 Pro</a>
 
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>

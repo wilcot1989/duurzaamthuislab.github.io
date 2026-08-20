@@ -4,6 +4,17 @@ description: "Live check op negatieve stroomprijzen vandaag en morgen, plus uitl
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+faq:
+- q: 'Krijg ik echt geld toe bij een negatieve stroomprijs?'
+  a: 'Alleen als de kale beursprijs zo diep onder nul staat dat de energiebelasting en de inkoopvergoeding van je leverancier erdoor gecompenseerd worden. Bij een licht negatieve beursprijs betaal je nog steeds iets per kWh, alleen minder dan gebruikelijk.'
+- q: 'Wanneer komen negatieve uren het vaakst voor?'
+  a: 'Vooral rond het middaguur op zonnige dagen met een lage vraag — weekenden en feestdagen in het voor- en najaar — en soms ''s nachts bij veel wind. Of het vandaag speelt, zie je in het blok bovenaan deze pagina.'
+- q: 'Moet ik mijn zonnepanelen uitzetten bij negatieve prijzen?'
+  a: 'Handmatig uitschakelen is zelden nodig en zelden verstandig. Effectiever is de stroom zelf gebruiken of opslaan; wie het invoeden echt wil beperken, regelt dat via de instellingen van de omvormer of een terugleverbegrenzing in plaats van via de schakelaar.'
+- q: 'Hoeveel negatieve uren zijn er per jaar eigenlijk?'
+  a: 'In ons eigen archief van day-ahead-uurdata komen in 2025 in totaal 212 negatieve uren voor, met mei als drukste maand (59 uur). Vrijwel alles valt tussen maart en september; van oktober tot en met februari staat de teller op nul. De actuele maandtelling staat in de grafiek [hierboven](#negatieve-uren-per-maand-ons-archief) en loopt met elke nieuwe dag mee.'
+- q: 'Betalen alle dynamische leveranciers hetzelfde bij negatieve uren?'
+  a: 'De uurprijs zelf is voor iedereen dezelfde beursprijs, en alle acht leveranciers in de tabel hierboven geven die in beide richtingen door. Het verschil zit in de opslagen: de inkoop- en verkoopvergoeding per kWh, en of de aanbieder je omvormer automatisch kan uitschakelen bij negatieve uren (Frank Energie en Zonneplan bieden daar een dienst voor). Dat laatste bepaalt in de praktijk meer dan het tarief.'
 lastmod: 2026-08-20
 ---
 
@@ -168,20 +179,3 @@ Daar komt bij dat de salderingsregeling verdwijnt. Vanaf dat moment bepaalt niet
 **Contractvorm heroverwegen.** Een dynamisch contract maakt negatieve uren zichtbaar en bruikbaar, maar legt het uurrisico wel bij jou. Zonder automatisering (batterij, slimme laadsessies, apparaten die je echt verschuift) is het voordeel klein. De aanbieders en hun opbouw staan naast elkaar in onze [vergelijker van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/).
 
 <a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/negatieve-stroomprijzen/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Frank Energie (dynamisch contract) →</a>
-
-## Veelgestelde vragen
-
-**Krijg ik echt geld toe bij een negatieve stroomprijs?**
-Alleen als de kale beursprijs zo diep onder nul staat dat de energiebelasting en de inkoopvergoeding van je leverancier erdoor gecompenseerd worden. Bij een licht negatieve beursprijs betaal je nog steeds iets per kWh, alleen minder dan gebruikelijk.
-
-**Wanneer komen negatieve uren het vaakst voor?**
-Vooral rond het middaguur op zonnige dagen met een lage vraag — weekenden en feestdagen in het voor- en najaar — en soms 's nachts bij veel wind. Of het vandaag speelt, zie je in het blok bovenaan deze pagina.
-
-**Moet ik mijn zonnepanelen uitzetten bij negatieve prijzen?**
-Handmatig uitschakelen is zelden nodig en zelden verstandig. Effectiever is de stroom zelf gebruiken of opslaan; wie het invoeden echt wil beperken, regelt dat via de instellingen van de omvormer of een terugleverbegrenzing in plaats van via de schakelaar.
-
-**Hoeveel negatieve uren zijn er per jaar eigenlijk?**
-In ons eigen archief van day-ahead-uurdata komen in 2025 in totaal 212 negatieve uren voor, met mei als drukste maand (59 uur). Vrijwel alles valt tussen maart en september; van oktober tot en met februari staat de teller op nul. De actuele maandtelling staat in de grafiek [hierboven](#negatieve-uren-per-maand-ons-archief) en loopt met elke nieuwe dag mee.
-
-**Betalen alle dynamische leveranciers hetzelfde bij negatieve uren?**
-De uurprijs zelf is voor iedereen dezelfde beursprijs, en alle acht leveranciers in de tabel hierboven geven die in beide richtingen door. Het verschil zit in de opslagen: de inkoop- en verkoopvergoeding per kWh, en of de aanbieder je omvormer automatisch kan uitschakelen bij negatieve uren (Frank Energie en Zonneplan bieden daar een dienst voor). Dat laatste bepaalt in de praktijk meer dan het tarief.

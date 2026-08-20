@@ -38,6 +38,18 @@ faq:
   a: LiFePO4 (lithium-ijzerfosfaat) heeft een langere levensduur (3.000-6.000 cycli vs 1.000-2.000 voor NMC), is thermisch stabieler (minder brandgevaar), degradeert langzamer en is minder afhankelijk van kobalt (betere leveringszekerheid). Het nadeel is een lagere energiedichtheid, wat echter voor stationaire opslag geen praktisch probleem is.
 - q: Moet ik wachten op nieuwe batterij-technologie voordat ik een thuisbatterij koop?
   a: Nee, niet als je nu concrete energiebehoefte hebt. LiFePO4-thuisbatterijen zijn volwassen en betrouwbaar. Let wel op dat de ISDE volgens RVO geen thuisbatterijen dekt — reken dus niet op rijkssubsidie, ongeacht welke celchemie je kiest. De kans dat de volgende generatie (solid-state, natrium-ion) significant goedkoper is binnen 2-3 jaar is klein. Wacht niet op perfectie als de huidige technologie al uitstekend is.
+- q: 'Ik heb gelezen dat grafeen-supercapacitors alles gaan veranderen. Klopt dat?'
+  a: 'Grafeen-supercapacitors zijn een actief onderzoeksgebied. Grafeen heeft theoretisch uitstekende eigenschappen: hoge geleidbaarheid en groot oppervlak per gewichtseenheid. De meest veelbelovende grafeen-supercapacitor-prototypes halen energiedichtheden van 30-60 Wh/kg — beter dan traditionele EDLC, maar nog steeds 3-5 keer lager dan LiFePO4. Het produceren van grafeen in voldoende kwaliteit en kwantiteit voor commerciële energieopslag is in 2026 nog geen opgelost productievraagstuk. Voor thuisopslag is dit niet relevant op korte termijn.'
+- q: 'Zijn er thuisbatterijen met geïntegreerde supercapacitor voor piekbelasting?'
+  a: 'Nee, niet als consumentenproduct in Nederland in 2026. Er zijn industriële hybriden, maar die zijn niet beschikbaar voor residentiële aansluiting. Sommige omvormers (bijv. SolarEdge, Fronius) hebben interne condensatoren voor het opvangen van micro-pieken, maar dat is iets anders dan een energieopslagsysteem met betekenisvolle capaciteit.'
+- q: 'Ik hoor veel over ''flow batteries'' — is dat voor thuis geschikt?'
+  a: 'Redox-flow-batterijen (vanadium, ijzer-chroom, zink-broom) zijn interessant voor grootschalige netopslag op MWh-schaal. Voor thuisgebruik zijn ze te groot, te complex en te duur. Kleinere flow-batterijen voor thuis bestaan in pilots, maar zijn in 2026 niet beschikbaar als consumentenproduct bij Nederlandse installateurs.'
+- q: 'Mijn installateur raadde een NMC-batterij aan. Is dat slecht?'
+  a: 'NMC is minder wenselijk dan LiFePO4 voor thuisopslag: kortere levensduur, iets minder thermisch stabiel, en hogere degradatie bij intensief gebruik. Als een installateur NMC aanraadt in 2026, vraag dan waarom en vergelijk de specificaties kritisch. In de meeste gevallen is LiFePO4 de betere langetermijnkeuze.'
+- q: 'Kan ik mijn thuisbatterij later uitbreiden met extra capaciteit?'
+  a: 'Dat hangt af van het systeem. Modulaire systemen zoals BYD HVS, Huawei LUNA 2000 en Pylontech ondersteunen uitbreiding door extra modules toe te voegen (zolang de omvormer het aankan). De Sessy en Marstek zijn in 2026 minder eenvoudig uit te breiden. Bespreek dit bij aanschaf als je verwacht in de toekomst meer capaciteit nodig te hebben.'
+- q: 'Is er subsidie op nieuwe technologieën zoals natrium-ion?'
+  a: 'Niet via de ISDE. Die regeling geldt voor woningeigenaren uitsluitend voor isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — batterijopslag valt er niet onder, welke celchemie het ook betreft. Kijk wel naar gemeentelijke of provinciale regelingen; die verschillen per regio.'
 products:
 - name: Sessy thuisbatterij
   url: https://go.duurzaamthuislab.nl/sessy
@@ -395,39 +407,9 @@ De markt voor thuisbatterijen in Nederland is de afgelopen 3 jaar sterk gegroeid
 Alle bovengenoemde producten gebruiken LiFePO4-chemie. NMC-thuisbatterijen zijn vrijwel verdwenen uit de Nederlandse markt.
 
 ---
-
-## Veelgestelde vragen over batterij-technologie
-
-**"Ik heb gelezen dat grafeen-supercapacitors alles gaan veranderen. Klopt dat?"**
-
-Grafeen-supercapacitors zijn een actief onderzoeksgebied. Grafeen heeft theoretisch uitstekende eigenschappen: hoge geleidbaarheid en groot oppervlak per gewichtseenheid. De meest veelbelovende grafeen-supercapacitor-prototypes halen energiedichtheden van 30-60 Wh/kg — beter dan traditionele EDLC, maar nog steeds 3-5 keer lager dan LiFePO4. Het produceren van grafeen in voldoende kwaliteit en kwantiteit voor commerciële energieopslag is in 2026 nog geen opgelost productievraagstuk. Voor thuisopslag is dit niet relevant op korte termijn.
-
-**"Zijn er thuisbatterijen met geïntegreerde supercapacitor voor piekbelasting?"**
-
-Nee, niet als consumentenproduct in Nederland in 2026. Er zijn industriële hybriden, maar die zijn niet beschikbaar voor residentiële aansluiting. Sommige omvormers (bijv. SolarEdge, Fronius) hebben interne condensatoren voor het opvangen van micro-pieken, maar dat is iets anders dan een energieopslagsysteem met betekenisvolle capaciteit.
-
-**"Ik hoor veel over 'flow batteries' — is dat voor thuis geschikt?"**
-
-Redox-flow-batterijen (vanadium, ijzer-chroom, zink-broom) zijn interessant voor grootschalige netopslag op MWh-schaal. Voor thuisgebruik zijn ze te groot, te complex en te duur. Kleinere flow-batterijen voor thuis bestaan in pilots, maar zijn in 2026 niet beschikbaar als consumentenproduct bij Nederlandse installateurs.
-
-**"Mijn installateur raadde een NMC-batterij aan. Is dat slecht?"**
-
-NMC is minder wenselijk dan LiFePO4 voor thuisopslag: kortere levensduur, iets minder thermisch stabiel, en hogere degradatie bij intensief gebruik. Als een installateur NMC aanraadt in 2026, vraag dan waarom en vergelijk de specificaties kritisch. In de meeste gevallen is LiFePO4 de betere langetermijnkeuze.
-
-**"Kan ik mijn thuisbatterij later uitbreiden met extra capaciteit?"**
-
-Dat hangt af van het systeem. Modulaire systemen zoals BYD HVS, Huawei LUNA 2000 en Pylontech ondersteunen uitbreiding door extra modules toe te voegen (zolang de omvormer het aankan). De Sessy en Marstek zijn in 2026 minder eenvoudig uit te breiden. Bespreek dit bij aanschaf als je verwacht in de toekomst meer capaciteit nodig te hebben.
-
-**"Is er subsidie op nieuwe technologieën zoals natrium-ion?"**
-
-Niet via de ISDE. Die regeling geldt voor woningeigenaren uitsluitend voor isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — batterijopslag valt er niet onder, welke celchemie het ook betreft. Kijk wel naar gemeentelijke of provinciale regelingen; die verschillen per regio.
-
----
-
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Sessy thuisbatterij (LiFePO4)</a>
 
 <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Marstek B5000 (LiFePO4)</a>
-
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 

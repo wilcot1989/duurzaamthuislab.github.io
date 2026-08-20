@@ -19,7 +19,7 @@ keywords:
 - tesla powerwall 3 prijs
 - tesla powerwall ervaringen
 - tesla powerwall nederland 2026
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -46,13 +46,13 @@ products:
   url: https://solar.huawei.com/eu/residential/luna
   price: '6000'
 - name: EcoFlow PowerOcean
-  url: https://nl.ecoflow.com/products/power-ocean
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '7500'
 schema_type: Review
 ---
 Waarom kiezen veel Nederlandse huishoudens een Huawei Luna 2000 in plaats van een Tesla Powerwall? Het antwoord is bijna altijd prijs per kWh. Toch heeft de Powerwall 3 sterke punten die de Luna mist, met name de ingebouwde omvormer en de automatische noodstroomfunctie. In deze review vergelijken wij de Powerwall op basis van specificaties, handleidingen en publieke prijzen met de alternatieven op de Nederlandse markt.
 
-*Disclosure: de links naar Tesla in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: de links naar Tesla en Huawei in dit artikel zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie. De links naar EcoFlow zijn affiliate-links via het AWIN-netwerk: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
 

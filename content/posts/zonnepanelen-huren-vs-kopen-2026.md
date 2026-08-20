@@ -33,6 +33,12 @@ faq:
   a: Gehuurde panelen leveren minder rendement op dan gekochte panelen. De maandelijkse huurbetaling eet een groot deel van de stroombesparing op. Typisch bespaar je €10-€30/maand netto bij huur, vs €60-€100/maand bij koop (na terugverdientijd). Huren is rendabel, maar minder dan kopen.
 - q: Wat gebeurt er als de huurder van zonnepanelen failliet gaat?
   a: Als de huuraanbieder failliet gaat, blijven de panelen op je dak functioneren. De eigendom gaat over naar de curator. In de praktijk neemt een andere partij het contract over. Dit is een risico, maar tot nu toe zeldzaam bij grote aanbieders.
+- q: 'Mijn dak is niet ideaal — is huren dan veiliger?'
+  a: 'Nee, integendeel. Als je dak slecht is of je dakbedekking oud, zal een verhuurder de installatie weigeren of een lagere garantie geven. En mocht het dak problemen geven na installatie, ben jij verantwoordelijk voor het dak — ook bij huur. De verhuurder installeert de panelen, niet het dak. Bij een noodzakelijke dakrenovatie moet je de huurpanelen laten verwijderen en herplaatsen, voor jouw rekening.'
+- q: 'Wat als de energieprijzen dalen?'
+  a: 'Dalende energieprijzen verlengen de terugverdientijd bij kopen. Maar bij huren daalt je nettobesparing ook. Het verschil tussen huren en kopen blijft proportioneel hetzelfde. Bovendien: over de lange termijn (25 jaar) is de gemiddelde energieprijs structureel gestegen, niet gedaald.'
+- q: 'Zijn er goede huurcontracten in 2026?'
+  a: 'Er zijn serieuze aanbieders, maar het aanbod van huurcontracten is kleiner geworden. Meerdere aanbieders hebben hun huuractiviteiten afgebouwd na de onzekerheid rondom de saldering-stop. Kijk naar Solarwatt en Sungevity als je huur overweegt — zij hebben de contracten aangepast voor de post-saldering situatie.'
 products:
 - name: Zonneplan
   url: https://go.duurzaamthuislab.nl/zonneplan
@@ -354,22 +360,6 @@ De verhoogde WOZ-waarde heeft een keerzijde: hogere OZB-belasting. Bij een WOZ-v
 | **Huren** | N.v.t. | €40-80/maand (15 jaar) | Nooit (of na 15 jaar voor symbolisch bedrag) | Geen eigen investering, onderhoud inbegrepen |
 
 Het Nationaal Warmtefonds is de duidelijke winnaar voor wie geen spaargeld heeft maar toch wil kopen. De 0% rente lening voor inkomens tot ~€60.000 bruto maakt het financieel gelijkwaardig aan kopen met spaargeld, minus de kapitaalopbrengst die je op je spaargeld had kunnen maken (maar die staat momenteel ook laag).
-
----
-
-## Veelgestelde vragen uitgebreid
-
-**"Mijn dak is niet ideaal — is huren dan veiliger?"**
-
-Nee, integendeel. Als je dak slecht is of je dakbedekking oud, zal een verhuurder de installatie weigeren of een lagere garantie geven. En mocht het dak problemen geven na installatie, ben jij verantwoordelijk voor het dak — ook bij huur. De verhuurder installeert de panelen, niet het dak. Bij een noodzakelijke dakrenovatie moet je de huurpanelen laten verwijderen en herplaatsen, voor jouw rekening.
-
-**"Wat als de energieprijzen dalen?"**
-
-Dalende energieprijzen verlengen de terugverdientijd bij kopen. Maar bij huren daalt je nettobesparing ook. Het verschil tussen huren en kopen blijft proportioneel hetzelfde. Bovendien: over de lange termijn (25 jaar) is de gemiddelde energieprijs structureel gestegen, niet gedaald.
-
-**"Zijn er goede huurcontracten in 2026?"**
-
-Er zijn serieuze aanbieders, maar het aanbod van huurcontracten is kleiner geworden. Meerdere aanbieders hebben hun huuractiviteiten afgebouwd na de onzekerheid rondom de saldering-stop. Kijk naar Solarwatt en Sungevity als je huur overweegt — zij hebben de contracten aangepast voor de post-saldering situatie.
 
 ---
 

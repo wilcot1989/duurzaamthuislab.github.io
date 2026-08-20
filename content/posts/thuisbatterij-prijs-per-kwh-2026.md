@@ -37,6 +37,14 @@ faq:
   a: Ja, mogelijk omhoog. In aanloop naar 1-1-2027 loopt de vraag hard op. Begin 2027 verwachten wij tijdelijk +5-10% prijsstijging door tekort. Daarna normaliseert het. Wachten tot 2028 is dus niet automatisch goedkoper.
 - q: Hoe vergelijk ik appels met appels?
   a: 'Reken altijd: (1) prijs per usable kWh (sommige systemen claimen 10 kWh maar leveren maar 9), (2) inclusief installatie, (3) inclusief garantie-jaren, (4) bekijk vermogen (kW) niet alleen capaciteit (kWh). Hogere kW = duurder maar beter voor groot huishouden.'
+- q: 'Hoe bereken ik zelf de prijs per kWh van een offerte?'
+  a: 'Neem de totale offerteprijs (inclusief installatie, inclusief eventuele omvormer-kosten, exclusief gemeentelijke subsidies). Deel dit door de usable kWh van de batterij. Vergelijk dat getal met de tabel hierboven. Let op: controleer of de offerte inclusief of exclusief btw is — op een thuisbatterij geldt 21%, dus een prijs exclusief btw ziet er ruim een vijfde gunstiger uit dan hij is.'
+- q: 'Maakt het uit of ik leas of koop voor de prijs/kWh-vergelijking?'
+  a: 'Ja. Bij lease betaal je geen vaste prijs/kWh maar een maandelijks bedrag. Omgerekend: Zonneplan lease €54/mnd × 120 maanden = €6.480 totaal voor 10 kWh = €648/kWh over de looptijd. Duurder per kWh dan koop, maar met service inbegrepen.'
+- q: 'Is er een minimum prijs/kWh waaronder ik serieuze kwaliteit kan verwachten?'
+  a: 'In 2026: €250-€300/kWh is de ondergrens voor serieuze LFP-batterijen met garantie. Goedkoper dan €250/kWh zijn meestal onbekende merken zonder NL-distributienetwerk, zonder CE-keurmerk of met beperkte garantie. Marstek op €326/kWh zit net boven die grens en is inmiddels breed verkrijgbaar via Nederlandse webshops.'
+- q: 'Waarom zijn sommige batterijen zo veel duurder per kWh?'
+  a: 'Drie hoofdoorzaken: (1) hogere NMC-celkosten bij Tesla, (2) software-ontwikkelingskosten voor automatische NL-markt-integratie bij Sessy/Zonneplan, (3) hogere servicekosten voor NL-support netwerk. Allemaal hebben ze waarde — de vraag is of die waarde voor jou specifiek het prijsverschil rechtvaardigt.'
 products:
 - name: Marstek Venus E (cheapest)
   url: https://marstekenergy.com/venus-e
@@ -373,22 +381,6 @@ In dit model levert Marstek over 10 jaar circa €2.000 meer op dan Sessy en cir
 
 ### Voor groot huis + EV (€704/kWh)
 **Tesla Powerwall 3** voor €9.500. Hogere capaciteit (13,5 kWh) en V2H integratie met Tesla auto.
-
----
-
-## Veelgestelde vragen over prijs per kWh
-
-**Hoe bereken ik zelf de prijs per kWh van een offerte?**
-Neem de totale offerteprijs (inclusief installatie, inclusief eventuele omvormer-kosten, exclusief gemeentelijke subsidies). Deel dit door de usable kWh van de batterij. Vergelijk dat getal met de tabel hierboven. Let op: controleer of de offerte inclusief of exclusief btw is — op een thuisbatterij geldt 21%, dus een prijs exclusief btw ziet er ruim een vijfde gunstiger uit dan hij is.
-
-**Maakt het uit of ik leas of koop voor de prijs/kWh-vergelijking?**
-Ja. Bij lease betaal je geen vaste prijs/kWh maar een maandelijks bedrag. Omgerekend: Zonneplan lease €54/mnd × 120 maanden = €6.480 totaal voor 10 kWh = €648/kWh over de looptijd. Duurder per kWh dan koop, maar met service inbegrepen.
-
-**Is er een minimum prijs/kWh waaronder ik serieuze kwaliteit kan verwachten?**
-In 2026: €250-€300/kWh is de ondergrens voor serieuze LFP-batterijen met garantie. Goedkoper dan €250/kWh zijn meestal onbekende merken zonder NL-distributienetwerk, zonder CE-keurmerk of met beperkte garantie. Marstek op €326/kWh zit net boven die grens en is inmiddels breed verkrijgbaar via Nederlandse webshops.
-
-**Waarom zijn sommige batterijen zo veel duurder per kWh?**
-Drie hoofdoorzaken: (1) hogere NMC-celkosten bij Tesla, (2) software-ontwikkelingskosten voor automatische NL-markt-integratie bij Sessy/Zonneplan, (3) hogere servicekosten voor NL-support netwerk. Allemaal hebben ze waarde — de vraag is of die waarde voor jou specifiek het prijsverschil rechtvaardigt.
 
 ---
 

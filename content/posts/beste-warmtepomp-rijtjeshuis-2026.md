@@ -1,7 +1,7 @@
 ---
 title: 'Beste warmtepomp voor een rijtjeshuis 2026'
 date: 2026-09-23 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
 description: 'Welke warmtepomp past in een Nederlands rijtjeshuis? Vergelijking Quatt, Atag, Daikin, Mitsubishi en Vaillant — geluid, COP, kosten, ISDE 2026.'
 categories:
@@ -37,6 +37,16 @@ faq:
   a: "Voor een rijtjeshuis met goede isolatie (label B of beter) zoek je een SCOP van minimaal 4,0. De Quatt Duo haalt 4,3, Daikin Altherma 3 M zit op 4,5 en Atag Energion Pro op 4,1. Bij slechtere isolatie zakt de praktijk-COP altijd — reken dan op 3,0-3,5 in plaats van de fabriekswaarde."
 - q: "Mag een buurman bezwaar maken tegen een warmtepomp?"
   a: "Ja. Per 1 april 2021 geldt een wettelijke geluidsnorm: maximaal 40 dB(A) op de erfgrens overdag en 30 dB(A) 's nachts. Als jouw buitenunit die norm overschrijdt kan de buurman een handhavingsverzoek bij de gemeente indienen. Daarom is plaatsing en model-keuze in een rijtjeshuis cruciaal."
+- q: 'Is een warmtepomp in een tussenwoning wel rendabel?'
+  a: 'Ja, mits je realistische verwachtingen hebt. Hybride bespaart €600-€900/jaar op gas, terugverdientijd 4-7 jaar na ISDE. Full electric bespaart €900-€1.400/jaar maar kost meer aanschaf, terugverdientijd 7-10 jaar.'
+- q: 'Is een buffervat nodig?'
+  a: 'Bij vloerverwarming meestal niet (de vloer is het buffervat). Bij alleen radiatoren is een 50-100 liter buffervat verstandig voor minder aan/uit-schakelen. Kosten €700-€1.200.'
+- q: 'Wat als de buren al een warmtepomp hebben?'
+  a: 'Twee warmtepomp-units aan dezelfde gevel kunnen elkaar versterken. Plaats jouw unit minimaal 3 meter van die van de buren, of plaats hem aan de andere zijde van de tuin.'
+- q: 'Is 3-fase nodig?'
+  a: 'Voor warmtepompen tot 8 kW meestal niet — 1-fase 35A volstaat. Boven 8 kW of bij combinatie met EV-laadpaal: ja, dan 3-fase aanvragen (€500-€1.500 via netbeheerder).'
+- q: 'Wat is het verschil tussen hybride en full electric?'
+  a: 'Hybride: warmtepomp doet 70-90% van de verwarming, cv-ketel springt in op koude dagen of bij hoge piekvraag. Full electric: warmtepomp doet alles, geen gas meer nodig. Hybride is goedkoper, simpeler, geschikt voor slechter geïsoleerde huizen.'
 products:
 - name: Quatt All-In hybride warmtepomp
   url: https://go.duurzaamthuislab.nl/quatt
@@ -321,23 +331,6 @@ Modelberekening voor het profiel dat bij rijtjeshuizen het vaakst voorkomt: tuss
 Op een dynamisch contract valt het extra stroomverbruik lager uit, omdat je de warmtepomp naar de goedkope uren kunt verschuiven. Reken die winst apart door met je eigen tariefspreiding.
 
 **En de buren?** Een unit met een opgegeven nachtstand rond de 31 dB(A) blijft ook op de perceelgrens onder de norm. Laat die berekening vóór installatie maken en bewaar hem — dat is je bewijs als er ooit een klacht komt.
-
-## Veelgestelde vragen
-
-**Is een warmtepomp in een tussenwoning wel rendabel?**
-Ja, mits je realistische verwachtingen hebt. Hybride bespaart €600-€900/jaar op gas, terugverdientijd 4-7 jaar na ISDE. Full electric bespaart €900-€1.400/jaar maar kost meer aanschaf, terugverdientijd 7-10 jaar.
-
-**Is een buffervat nodig?**
-Bij vloerverwarming meestal niet (de vloer is het buffervat). Bij alleen radiatoren is een 50-100 liter buffervat verstandig voor minder aan/uit-schakelen. Kosten €700-€1.200.
-
-**Wat als de buren al een warmtepomp hebben?**
-Twee warmtepomp-units aan dezelfde gevel kunnen elkaar versterken. Plaats jouw unit minimaal 3 meter van die van de buren, of plaats hem aan de andere zijde van de tuin.
-
-**Is 3-fase nodig?**
-Voor warmtepompen tot 8 kW meestal niet — 1-fase 35A volstaat. Boven 8 kW of bij combinatie met EV-laadpaal: ja, dan 3-fase aanvragen (€500-€1.500 via netbeheerder).
-
-**Wat is het verschil tussen hybride en full electric?**
-Hybride: warmtepomp doet 70-90% van de verwarming, cv-ketel springt in op koude dagen of bij hoge piekvraag. Full electric: warmtepomp doet alles, geen gas meer nodig. Hybride is goedkoper, simpeler, geschikt voor slechter geïsoleerde huizen.
 
 ## Conclusie
 

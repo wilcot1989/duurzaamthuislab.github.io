@@ -35,6 +35,18 @@ faq:
   a: 'De EV-charger (bijv. Zaptec, Easee) communiceert met je omvormer of energiemanager. Zodra zonnepanelen meer produceren dan het huis verbruikt, gaat het overschot naar de auto. In zomer kun je zo 15-25 kWh/dag gratis laden — dat is 80-150 km gratis rijden.'
 - q: Wat is het verschil tussen autarkie en zelfconsumptie?
   a: 'Zelfconsumptie = hoeveel van je opgewekte stroom je zelf direct gebruikt (zonder batterij meestal 30-35%, met batterij 65-85%). Autarkie = welk percentage van je totale verbruik je zelf opwekt + opslaat. Twee verschillende getallen die vaak door elkaar worden gebruikt.'
+- q: 'Hoeveel m² dak heb ik nodig voor 90% autarkie?'
+  a: 'Voor 6.500-8.000 Wp reken je op 30-40 m² dakoppervlak (afhankelijk van panel-vermogen). Bij 400W-panelen passen 16-20 panelen op een gemiddeld rijtjeshuis-zuiddak.'
+- q: 'Werkt autarkie ook met oost-west dak?'
+  a: 'Ja, vaak zelfs beter voor zelfconsumptie omdat je opbrengst gespreid is over de dag. Totale jaaropbrengst is wel 10-15% lager dan zuid, maar autarkie-percentage komt vaak hoger uit.'
+- q: 'Mag ik mijn batterij zelf installeren?'
+  a: 'Nee. Sinds 2024 vereist elke thuisbatterij installatie door een gecertificeerd vakman (NEN1010-keuring + verzekeringseis). Wie het zelf doet, riskeert dekking van opstalverzekering te verliezen.'
+- q: 'Hoe verhoudt autarkie zich tot een warmtepomp?'
+  a: 'Een warmtepomp is verreweg de grootste winterverbruiker. Zonder warmtepomp haal je makkelijker 85% autarkie. Met warmtepomp realistisch 70-75%. Toch is de combinatie superieur — je vervangt gas door eigen stroom.'
+- q: 'Wat als de batterij stuk gaat na 8 jaar?'
+  a: 'Tesla, Sessy en Marstek geven 10 jaar garantie op 60-80% restcapaciteit. Marstek module-vervangen kost ~€2.000, Tesla Powerwall hele unit ±€8.000. Reken er voor de zekerheid op dat je in jaar 12-15 een vervanging hebt.'
+- q: 'Is salderen of autarkie beter na 2027?'
+  a: 'Saldering vervalt in 2027 stapsgewijs. Daarna is autarkie (= eigen opslag) de enige manier om panelen rendabel te houden. Wie nu zonnepanelen heeft zonder batterij gaat richting 2028-2029 zwaar inleveren.'
 products:
 - name: Sessy thuisbatterij
   url: https://go.duurzaamthuislab.nl/sessy
@@ -198,25 +210,6 @@ Eerlijk: voor 95% van de Nederlanders is "75-85% autarkie" de slimste keuze. Maa
 
 Voor verreweg de meeste situaties — gewoon huis in gewone wijk — geldt: **streef naar 75-85% autarkie, accepteer dat je dec/jan blijft inkopen, optimaliseer met dynamisch contract.** Lees voor de panelen-kant [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/).
 
-## Veelgestelde vragen
-
-**Hoeveel m² dak heb ik nodig voor 90% autarkie?**
-Voor 6.500-8.000 Wp reken je op 30-40 m² dakoppervlak (afhankelijk van panel-vermogen). Bij 400W-panelen passen 16-20 panelen op een gemiddeld rijtjeshuis-zuiddak.
-
-**Werkt autarkie ook met oost-west dak?**
-Ja, vaak zelfs beter voor zelfconsumptie omdat je opbrengst gespreid is over de dag. Totale jaaropbrengst is wel 10-15% lager dan zuid, maar autarkie-percentage komt vaak hoger uit.
-
-**Mag ik mijn batterij zelf installeren?**
-Nee. Sinds 2024 vereist elke thuisbatterij installatie door een gecertificeerd vakman (NEN1010-keuring + verzekeringseis). Wie het zelf doet, riskeert dekking van opstalverzekering te verliezen.
-
-**Hoe verhoudt autarkie zich tot een warmtepomp?**
-Een warmtepomp is verreweg de grootste winterverbruiker. Zonder warmtepomp haal je makkelijker 85% autarkie. Met warmtepomp realistisch 70-75%. Toch is de combinatie superieur — je vervangt gas door eigen stroom.
-
-**Wat als de batterij stuk gaat na 8 jaar?**
-Tesla, Sessy en Marstek geven 10 jaar garantie op 60-80% restcapaciteit. Marstek module-vervangen kost ~€2.000, Tesla Powerwall hele unit ±€8.000. Reken er voor de zekerheid op dat je in jaar 12-15 een vervanging hebt.
-
-**Is salderen of autarkie beter na 2027?**
-Saldering vervalt in 2027 stapsgewijs. Daarna is autarkie (= eigen opslag) de enige manier om panelen rendabel te houden. Wie nu zonnepanelen heeft zonder batterij gaat richting 2028-2029 zwaar inleveren.
 
 ---
 

@@ -42,6 +42,14 @@ faq:
   a: 'Vochtige spouw: laat eerst de vochtbron oplossen (lekkage, spouwankers), anders niks doen. Smalle spouw (<50 mm): EPS-parels passen niet altijd; glasvlokken of PUR zijn beter. Spouw <40 mm: laat altijd een voorinspectie doen met spouwcamera.'
 - q: Kan ik spouwmuurisolatie zelf doen?
   a: Nee, praktisch gezien niet. Je hebt professionele inblaasmachines nodig en de ISDE-subsidie vereist een gecertificeerd installateur. Bovendien is een bewijs van installatie nodig voor je EPA-label. Huur altijd een KOMO-gecertificeerd bedrijf in.
+- q: 'Kan mijn buurman mij dwingen om mee te doen?'
+  a: 'Bij rijtjeshuizen heeft iedere eigenaar zijn eigen buitenmuur. Je kunt dus onafhankelijk van je buren spouwmuurisolatie laten plaatsen. Je hebt wel toestemming van je buurman nodig als de installateur tijdelijk op diens terrein moet werken (bijv. voor een steiger).'
+- q: 'Wat als de spouwmuur al deels geïsoleerd is?'
+  a: 'Sommige woningen uit 1975-1985 hebben een gedeeltelijk geïsoleerde spouwmuur: isolatie in de bovenverdiepiing maar niet op de begane grond, of andersom. Een endoscoop-inspectie maakt dit direct zichtbaar. Kosten endoscoop: €0-€50 bij de meeste installateurs (gratis bij offerte-aanvraag).'
+- q: 'Hoeveel geluid dempt spouwmuurisolatie?'
+  a: 'Geluidsdemping is een bijproduct van spouwmuurisolatie, maar niet het doel. EPS-parels dempen geluidsoverdracht via de gevel licht (3-5 dB verbetering). PUR-schuim iets meer. Dit is merkbaar bij straat- of burenlawaai maar niet dramatisch. Als geluidsdemping het hoofddoel is, zijn akoestische voorzieningen (extra spouw, geluidsabsorberende materialen) een betere keuze.'
+- q: 'Moet ik de spouw laten inspecteren bij aankoop van een woning?'
+  a: 'Absoluut. Vraag bij de notaris of er een rapport over de spouwmuur beschikbaar is. Als de vorige eigenaar isolatie heeft laten plaatsen, is er (hopelijk) een installatierapport met bewijs van KOMO-certificering. Ontbreekt dat, dan is de kans aanwezig dat de isolatie niet correct is uitgevoerd of niet voor ISDE in aanmerking komt.'
 products:
 - name: Spouwmuurisolatie offerte aanvragen
   url: /posts/isolatie-subsidie-nederland-2026/
@@ -384,7 +392,6 @@ Voor een tussenwoning uit de jaren zeventig met 82 m² spouwoppervlak komt glasv
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 
-
 ## Hoe lang duurt spouwmuurisolatie? Het verloop van de dag
 
 Zo verloopt een standaard inblaasklus bij een tussenwoning met circa 82 m² spouwoppervlak, volgens de werkwijze die gecertificeerde inblaasbedrijven in hun uitvoeringsvoorschriften beschrijven.
@@ -402,22 +409,6 @@ Zo verloopt een standaard inblaasklus bij een tussenwoning met circa 82 m² spou
 **Totale overlast:** minimaal. De uitvoering duurt bij dit oppervlak circa 2,5 uur en je kunt gewoon thuis blijven werken.
 
 **Wat het oplevert (modelberekening):** bij een uitgangsverbruik van circa 1.700 m³ gas en 82 m² ongeïsoleerde spouw ligt de berekende besparing rond 350 tot 450 m³ per jaar. Tegen €1,10/m³ is dat €385 tot €495 per jaar. Bij een netto investering van €1.380 na ISDE komt de rekenkundige terugverdientijd op circa 3 jaar. Let op: dit is een berekening op basis van Rc-waarden en graaddagen, geen gemeten resultaat — een zachte winter of ander stookgedrag verandert de uitkomst.
-
----
-
-## Veelgestelde vragen over spouwmuurisolatie
-
-**"Kan mijn buurman mij dwingen om mee te doen?"**
-Bij rijtjeshuizen heeft iedere eigenaar zijn eigen buitenmuur. Je kunt dus onafhankelijk van je buren spouwmuurisolatie laten plaatsen. Je hebt wel toestemming van je buurman nodig als de installateur tijdelijk op diens terrein moet werken (bijv. voor een steiger).
-
-**"Wat als de spouwmuur al deels geïsoleerd is?"**
-Sommige woningen uit 1975-1985 hebben een gedeeltelijk geïsoleerde spouwmuur: isolatie in de bovenverdiepiing maar niet op de begane grond, of andersom. Een endoscoop-inspectie maakt dit direct zichtbaar. Kosten endoscoop: €0-€50 bij de meeste installateurs (gratis bij offerte-aanvraag).
-
-**"Hoeveel geluid dempt spouwmuurisolatie?"**
-Geluidsdemping is een bijproduct van spouwmuurisolatie, maar niet het doel. EPS-parels dempen geluidsoverdracht via de gevel licht (3-5 dB verbetering). PUR-schuim iets meer. Dit is merkbaar bij straat- of burenlawaai maar niet dramatisch. Als geluidsdemping het hoofddoel is, zijn akoestische voorzieningen (extra spouw, geluidsabsorberende materialen) een betere keuze.
-
-**"Moet ik de spouw laten inspecteren bij aankoop van een woning?"**
-Absoluut. Vraag bij de notaris of er een rapport over de spouwmuur beschikbaar is. Als de vorige eigenaar isolatie heeft laten plaatsen, is er (hopelijk) een installatierapport met bewijs van KOMO-certificering. Ontbreekt dat, dan is de kans aanwezig dat de isolatie niet correct is uitgevoerd of niet voor ISDE in aanmerking komt.
 
 ---
 

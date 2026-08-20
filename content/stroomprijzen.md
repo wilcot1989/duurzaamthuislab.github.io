@@ -4,6 +4,19 @@ description: "Actuele dynamische stroomprijzen per uur (vandaag en morgen), de g
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+faq:
+- q: 'Waarom zijn de morgenprijzen er pas rond 15:00?'
+  a: 'De day-ahead-veiling van de EPEX-beurs sluit rond het middaguur; de uitslag voor de volgende dag wordt in de loop van de middag gepubliceerd.'
+- q: 'Zijn dit de prijzen van mijn leverancier?'
+  a: 'Bijna: alle dynamische leveranciers gebruiken dezelfde beursprijzen, maar tellen er hun eigen inkoopvergoeding en de energiebelasting bij op. De úúrpatronen (goedkoop/duur) zijn wel identiek.'
+- q: 'Hoe komt de gasprijs tot stand?'
+  a: 'De dagprijs volgt de gasbeurs (LEBA/TTF-day-ahead). Dynamische leveranciers geven die één-op-één door met een vaste opslag; bij vaste contracten zit het beursrisico in het tarief verwerkt.'
+- q: 'Wat betekent "opbrengst per kWp"?'
+  a: 'kWp is het piekvermogen van je installatie. Heb je bijvoorbeeld 10 panelen van 400 Wp (= 4 kWp) en staat er 3,0 kWh per kWp, dan is de verwachte dagopbrengst circa 12 kWh — bij gemiddelde oriëntatie en zonder schaduw (modelberekening).'
+- q: 'Wat is de beste tijd om de wasmachine aan te zetten?'
+  a: 'Met een dynamisch contract: het goedkoopste 2-uursblok van de dag — dat staat live (met het blok van morgen) op [beste tijd wasmachine](/beste-tijd-wasmachine/). Met een vast contract maakt het tijdstip voor je kWh-prijs niet uit.'
+- q: 'Wanneer is stroom meestal het goedkoopst?'
+  a: 'Structureel rond het middaguur op zonnige dagen (veel zonnestroom) en ''s nachts; het duurst in de ochtend- en avondpiek. Uitzonderingen komen voor — daarom staat deze pagina er.'
 lastmod: 2026-08-20
 ---
 
@@ -158,23 +171,3 @@ De kale prijs bepaalt dus je *besparingskansen* (verschuiven naar goedkope uren)
 ## Deze prijzen op jouw website?
 
 Wij bieden een gratis embed-widget met de actuele uurprijzen — handig voor blogs, VvE-sites of installateurs. De embed-code staat op de [embed-pagina](/embed-codes/); de enige voorwaarde is dat de bronvermelding blijft staan.
-
-## Veelgestelde vragen
-
-**Waarom zijn de morgenprijzen er pas rond 15:00?**
-De day-ahead-veiling van de EPEX-beurs sluit rond het middaguur; de uitslag voor de volgende dag wordt in de loop van de middag gepubliceerd.
-
-**Zijn dit de prijzen van mijn leverancier?**
-Bijna: alle dynamische leveranciers gebruiken dezelfde beursprijzen, maar tellen er hun eigen inkoopvergoeding en de energiebelasting bij op. De úúrpatronen (goedkoop/duur) zijn wel identiek.
-
-**Hoe komt de gasprijs tot stand?**
-De dagprijs volgt de gasbeurs (LEBA/TTF-day-ahead). Dynamische leveranciers geven die één-op-één door met een vaste opslag; bij vaste contracten zit het beursrisico in het tarief verwerkt.
-
-**Wat betekent "opbrengst per kWp"?**
-kWp is het piekvermogen van je installatie. Heb je bijvoorbeeld 10 panelen van 400 Wp (= 4 kWp) en staat er 3,0 kWh per kWp, dan is de verwachte dagopbrengst circa 12 kWh — bij gemiddelde oriëntatie en zonder schaduw (modelberekening).
-
-**Wat is de beste tijd om de wasmachine aan te zetten?**
-Met een dynamisch contract: het goedkoopste 2-uursblok van de dag — dat staat live (met het blok van morgen) op [beste tijd wasmachine](/beste-tijd-wasmachine/). Met een vast contract maakt het tijdstip voor je kWh-prijs niet uit.
-
-**Wanneer is stroom meestal het goedkoopst?**
-Structureel rond het middaguur op zonnige dagen (veel zonnestroom) en 's nachts; het duurst in de ochtend- en avondpiek. Uitzonderingen komen voor — daarom staat deze pagina er.

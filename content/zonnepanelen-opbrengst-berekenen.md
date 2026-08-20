@@ -4,6 +4,13 @@ description: "Bereken de opbrengst van je zonnepanelen: systeemgrootte in kWp, d
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+faq:
+- q: 'Hoeveel levert 1 kWp per jaar op?'
+  a: 'Als vuistregel wordt in Nederland ongeveer 875 tot 950 kWh per kWp per jaar gerekend bij een gunstige oriëntatie zonder schaduw. De tool hierboven gebruikt 900 kWh per kWp als middenwaarde. Het is een vuistregel, geen norm: locatie, hellingshoek, schaduw en de staat van de installatie bepalen waar je binnen (of buiten) die bandbreedte uitkomt.'
+- q: 'Waarom wijkt de dagverwachting soms sterk af van wat mijn omvormer laat zien?'
+  a: 'De verwachting gebruikt één landelijk instralingscijfer en een vaste performance ratio. Lokale bewolking, schaduw op jouw dak en de dimensionering van je omvormer zorgen voor afwijkingen in beide richtingen. Over een langere periode lopen model en werkelijkheid doorgaans dichter bij elkaar dan op een enkele dag.'
+- q: 'Kan ik met deze tool berekenen of zonnepanelen zich terugverdienen?'
+  a: 'Niet direct: de tool rekent opbrengst in kWh, geen euro''s. Wat een kWh je waard is, hangt af van je contractvorm, hoeveel je zelf verbruikt, eventuele terugleverkosten en de afbouw van de saldering. Voor de financiële kant zijn de pagina''s over [terugleverkosten](/posts/terugleverkosten-zonnepanelen-2026/) en [het einde van de saldering](/posts/saldering-stopt-2027-volledige-gids/) het startpunt.'
 lastmod: 2026-08-20
 ---
 
@@ -126,14 +133,3 @@ Dat weegt zwaarder sinds de vergoeding voor teruglevering onder druk staat. Veel
 Tegelijk drukt veel zonnestroom de beursprijs. Op zonnige middagen zakken de uurtarieven, soms tot onder nul. Wie een dynamisch contract heeft, kan de [actuele stroomprijzen per uur](/stroomprijzen/) naast deze verwachting leggen: goedkope of negatieve uren zijn juist de momenten om extra te verbruiken of een thuisbatterij te laden. Op de pagina [dynamische energiecontracten vergelijken](/dynamisch-energiecontract-vergelijken/) staat welke aanbieders die uurprijzen doorgeven en welke voorwaarden daarbij horen.
 
 Overweeg je nog panelen bij te leggen of anders te plaatsen? Dan is de dakrichting belangrijker dan de factor in de tool suggereert: een [oost-west-opstelling levert over de dag een vlakker profiel](/posts/oost-west-zonnepanelen-vs-zuid-2026/) dan zuid, met een lagere piek maar een langere productieperiode — wat bij minder gunstige terugleververgoedingen anders uitpakt dan puur op jaartotaal kijken.
-
-## Veelgestelde vragen
-
-**Hoeveel levert 1 kWp per jaar op?**
-Als vuistregel wordt in Nederland ongeveer 875 tot 950 kWh per kWp per jaar gerekend bij een gunstige oriëntatie zonder schaduw. De tool hierboven gebruikt 900 kWh per kWp als middenwaarde. Het is een vuistregel, geen norm: locatie, hellingshoek, schaduw en de staat van de installatie bepalen waar je binnen (of buiten) die bandbreedte uitkomt.
-
-**Waarom wijkt de dagverwachting soms sterk af van wat mijn omvormer laat zien?**
-De verwachting gebruikt één landelijk instralingscijfer en een vaste performance ratio. Lokale bewolking, schaduw op jouw dak en de dimensionering van je omvormer zorgen voor afwijkingen in beide richtingen. Over een langere periode lopen model en werkelijkheid doorgaans dichter bij elkaar dan op een enkele dag.
-
-**Kan ik met deze tool berekenen of zonnepanelen zich terugverdienen?**
-Niet direct: de tool rekent opbrengst in kWh, geen euro's. Wat een kWh je waard is, hangt af van je contractvorm, hoeveel je zelf verbruikt, eventuele terugleverkosten en de afbouw van de saldering. Voor de financiële kant zijn de pagina's over [terugleverkosten](/posts/terugleverkosten-zonnepanelen-2026/) en [het einde van de saldering](/posts/saldering-stopt-2027-volledige-gids/) het startpunt.

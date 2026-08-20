@@ -1,7 +1,7 @@
 ---
 title: Oost-west zonnepanelen vs. zuidsysteem
 date: 2026-05-18 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Oost-west of zuidopstelling voor zonnepanelen? Vergelijking van opbrengst, zelfverbruik en rendement na saldering-afbouw 2027. Met rekenvoorbeelden.
 categories:
 - zonne-energie
@@ -34,6 +34,12 @@ faq:
   a: Bij oost-west systemen belichten oost-panelen 's ochtends en west-panelen 's middags. Schaduw op één vlak beïnvloedt het andere vlak niet. Met micro-omvormers of power optimizers is schade door schaduw verder te minimaliseren.
 - q: Heb ik een grotere omvormer nodig bij oost-west?
   a: Nee, juist kleiner. De piekproductie bij oost-west is lager dan bij zuidsystemen, omdat oost en west nooit tegelijk op volle capaciteit zitten. Dit vermindert de oversizing van de omvormer. Een 5 kW omvormer kan prima 8-10 kWp aan panelen aan bij oost-west.
+- q: 'Hoe berekenen jullie de opbrengst per oriëntatie?'
+  a: 'Een serieuze installateur gebruikt PVsyst, PVGIS (Europees tool) of vergelijkbare software om de jaaropbrengst per dakvlak te berekenen op basis van jouw exacte locatie, dakhoek, oriëntatie en eventuele schaduw. Vraag om een simulatie voor zowel zuidsysteem als oost-west.'
+- q: 'Wat is het verwachte zelfverbruikspercentage in mijn situatie?'
+  a: 'Dit hangt af van je dagprofiel (thuis of niet overdag), het type contract en of je een batterij overweegt. Een goede installateur berekent dit specifiek voor jou.'
+- q: 'Welk omvormertype adviseren jullie bij oost-west?'
+  a: 'Bij oost-west systemen is het technisch mogelijk één centrale string-omvormer te gebruiken (goedkoper) of twee aparte strings (één voor oost, één voor west). Twee strings geven meer opbrengst bij schaduw op één vlak. Micro-omvormers per paneel geven de meeste flexibiliteit.'
 products:
 - name: Zonneplan zonnepanelen
   url: https://go.duurzaamthuislab.nl/zonneplan
@@ -233,24 +239,6 @@ De mythe dat zuidsystemen altijd beter zijn, klopt niet meer in de context van d
 3. Overweeg in combinatie met een thuisbatterij: dan stijgt het zelfverbruik voor beide systemen naar 65-75%
 
 De extra panelen van een oost-west systeem kosten €600-€1.200 meer, maar leveren na 2027 structureel meer op dan een kleinere zuidsysteem — puur doordat je minder afgeeft aan het net.
-
----
-
-## Veelgestelde vragen over oriëntatie bij installateurs
-
-Als je een offerte aanvraagt voor zonnepanelen, zijn dit de vragen die je moet stellen over oriëntatie:
-
-**Hoe berekenen jullie de opbrengst per oriëntatie?**
-
-Een serieuze installateur gebruikt PVsyst, PVGIS (Europees tool) of vergelijkbare software om de jaaropbrengst per dakvlak te berekenen op basis van jouw exacte locatie, dakhoek, oriëntatie en eventuele schaduw. Vraag om een simulatie voor zowel zuidsysteem als oost-west.
-
-**Wat is het verwachte zelfverbruikspercentage in mijn situatie?**
-
-Dit hangt af van je dagprofiel (thuis of niet overdag), het type contract en of je een batterij overweegt. Een goede installateur berekent dit specifiek voor jou.
-
-**Welk omvormertype adviseren jullie bij oost-west?**
-
-Bij oost-west systemen is het technisch mogelijk één centrale string-omvormer te gebruiken (goedkoper) of twee aparte strings (één voor oost, één voor west). Twee strings geven meer opbrengst bij schaduw op één vlak. Micro-omvormers per paneel geven de meeste flexibiliteit.
 
 ---
 

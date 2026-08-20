@@ -39,6 +39,12 @@ faq:
   a: Dit is een reëel risico dat recent actueler werd met de problemen rondom Vattenfall Warmte en andere leveranciers. Bij faillissement heeft de gemeente een leveringsplicht en moet doorlevering worden gegarandeerd. In de Warmtewet zijn regels voor continuïteit, maar in de praktijk zijn de opties beperkt als je verplicht bent aangesloten.
 - q: Is een warmtenet duurzamer dan een eigen warmtepomp?
   a: Dat hangt af van de warmtebron van het net. Een warmtenet op geothermie, restwarmte of aquathermie is aanzienlijk duurzamer. Een warmtenet op aardgas is niet duurzamer dan een moderne warmtepomp op groene stroom. Vraag altijd naar de duurzaamheidsscore (CO2-uitstoot per GJ) van je lokale warmteleverancier.
+- q: 'Mijn CV-ketel is pas 3 jaar oud. Moet ik hem vervangen voor een warmtepomp?'
+  a: 'Nee. Een hybride warmtepomp werkt samen met je bestaande cv-ketel. Je ketels hoeft niet vervangen te worden. Na 10-12 jaar (het einde van de gemiddelde ketellevensduur) kun je volledig overstappen.'
+- q: 'Mijn huis is slecht geïsoleerd. Moet ik eerst isoleren voordat ik een warmtepomp kan?'
+  a: 'Voor een volledige warmtepomp: ideaal wel, maar een hybride warmtepomp werkt ook zonder grondige isolatie. Bij slechte isolatie is de gas-besparing kleiner (40-50% i.p.v. 70-85%), maar de investering loont al bij gemiddelde isolatieniveaus.'
+- q: 'Ik woon in een VvE-appartement. Kan ik individueel een warmtepomp nemen?'
+  a: 'Dit is een lastig vraagstuk. Een lucht-water warmtepomp vereist een buitenunit, wat bij appartementen toestemming van de VvE vereist. Lucht-lucht-systemen zijn eenvoudiger te installeren maar verwarmen minder efficiënt. Laat een installateur beoordelen wat technisch mogelijk is in jouw situatie.'
 products:
 - name: Daikin Altherma 3 warmtepomp
   url: https://go.duurzaamthuislab.nl/daikin
@@ -383,27 +389,9 @@ Als massaal mensen overschakelen op warmtepompen, stelt dit eisen aan het elektr
 Een warmtepomp met een slim energiemanagementsysteem — gecombineerd met zonnepanelen en een thuisbatterij — kan zelfs netondersteunend zijn door flexibel te laden op overschotmomenten.
 
 ---
-
-## Veelgestelde vragen van bewoners
-
-**"Mijn CV-ketel is pas 3 jaar oud. Moet ik hem vervangen voor een warmtepomp?"**
-
-Nee. Een hybride warmtepomp werkt samen met je bestaande cv-ketel. Je ketels hoeft niet vervangen te worden. Na 10-12 jaar (het einde van de gemiddelde ketellevensduur) kun je volledig overstappen.
-
-**"Mijn huis is slecht geïsoleerd. Moet ik eerst isoleren voordat ik een warmtepomp kan?"**
-
-Voor een volledige warmtepomp: ideaal wel, maar een hybride warmtepomp werkt ook zonder grondige isolatie. Bij slechte isolatie is de gas-besparing kleiner (40-50% i.p.v. 70-85%), maar de investering loont al bij gemiddelde isolatieniveaus.
-
-**"Ik woon in een VvE-appartement. Kan ik individueel een warmtepomp nemen?"**
-
-Dit is een lastig vraagstuk. Een lucht-water warmtepomp vereist een buitenunit, wat bij appartementen toestemming van de VvE vereist. Lucht-lucht-systemen zijn eenvoudiger te installeren maar verwarmen minder efficiënt. Laat een installateur beoordelen wat technisch mogelijk is in jouw situatie.
-
----
-
 <a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Daikin Altherma 3 warmtepomp</a>
 
 <a href="https://go.duurzaamthuislab.nl/bosch" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Bosch Compress warmtepomp</a>
-
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 

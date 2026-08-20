@@ -34,6 +34,16 @@ faq:
   a: 'Een full-electric warmtepomp heeft na ISDE-subsidie een investering van €8.000-€14.000 en een jaarlijkse besparing van €800-€1.400. Terugverdientijd: 6-12 jaar. Een hybride warmtepomp kost netto €1.500-€4.000 en bespaart €500-€900/jaar: terugverdientijd 2-5 jaar.'
 - q: Welke warmtepomp past bij mijn woning?
   a: Is je woning goed geïsoleerd (label A of B) met vloerverwarming? Kies full-electric. Is je woning matig geïsoleerd (label C of D) met hoge-temperatuur radiatoren en een gasaansluiting? Kies hybride als tussenstap.
+- q: 'Wat is de SCOP van dit systeem voor mijn specifieke woning en klimaatzone?'
+  a: 'De SCOP (Seasonal Coefficient of Performance) is de gemiddelde COP over een heel stookseizoen. Vraag niet naar de COP bij A7/W35 (standaard testcondities) maar naar de SCOP voor het klimaat in jouw regio. In kustgebieden is de gemiddelde buitentemperatuur hoger dan in het oosten van Nederland.'
+- q: 'Wat is de bivalentpunttemperatuur?'
+  a: 'Dit is de buitentemperatuur waarbij de warmtepomp de volledige warmtevraag niet meer kan leveren en de ketel (bij hybride) of elektrische back-up (bij full-electric) moet bijspringen. Doorgaans ligt dit bij full-electric op -7°C tot -15°C. Hoe lager dit punt, hoe beter de warmtepomp presteert bij koud weer.'
+- q: 'Hoe lang is de installatiewachttijd?'
+  a: 'In 2026 is de vraag naar warmtepompen groot. Veel installateurs hebben wachttijden van 6-16 weken. Plan de installatie ruim voor het stookseizoen.'
+- q: 'Is de warmtepomp op de ISDE-productlijst van RVO?'
+  a: 'Controleer dit zelf op mijn.rvo.nl — niet alle warmtepompen staan op de lijst, ook al zijn het kwalitatief goede modellen.'
+- q: 'Wie vraagt de ISDE-subsidie aan?'
+  a: 'Doorgaans doet de installateur dit namens jou. Controleer in het contract wie de verantwoordelijkheid draagt en wanneer het geld wordt teruggestort.'
 products:
 - name: Atag warmtepomp
   url: https://go.duurzaamthuislab.nl/atag
@@ -278,32 +288,6 @@ Op basis van de scenario's hierboven komen wij tot deze stelregel:
 De hybride is geen compromis — voor de meeste Nederlandse woningen is het de rationele keuze. Pas als de woning goed geïsoleerd is en lagetemperatuurverwarming heeft, levert full-electric het grootste financiële voordeel.
 
 Vraag altijd offertes aan bij meerdere installateurs en vergelijk de specifieke COP-waardes voor jouw situatie — niet de marketingwaarden bij A7/W35 maar de verwachte jaargemiddelde SCOP voor jouw klimaatzone.
-
----
-
-## Veelgestelde vragen bij de installateur
-
-Als je offertes aanvraagt voor een warmtepomp, zijn dit de vragen die je de installateur moet stellen:
-
-**1. Wat is de SCOP van dit systeem voor mijn specifieke woning en klimaatzone?**
-
-De SCOP (Seasonal Coefficient of Performance) is de gemiddelde COP over een heel stookseizoen. Vraag niet naar de COP bij A7/W35 (standaard testcondities) maar naar de SCOP voor het klimaat in jouw regio. In kustgebieden is de gemiddelde buitentemperatuur hoger dan in het oosten van Nederland.
-
-**2. Wat is de bivalentpunttemperatuur?**
-
-Dit is de buitentemperatuur waarbij de warmtepomp de volledige warmtevraag niet meer kan leveren en de ketel (bij hybride) of elektrische back-up (bij full-electric) moet bijspringen. Doorgaans ligt dit bij full-electric op -7°C tot -15°C. Hoe lager dit punt, hoe beter de warmtepomp presteert bij koud weer.
-
-**3. Hoe lang is de installatiewachttijd?**
-
-In 2026 is de vraag naar warmtepompen groot. Veel installateurs hebben wachttijden van 6-16 weken. Plan de installatie ruim voor het stookseizoen.
-
-**4. Is de warmtepomp op de ISDE-productlijst van RVO?**
-
-Controleer dit zelf op mijn.rvo.nl — niet alle warmtepompen staan op de lijst, ook al zijn het kwalitatief goede modellen.
-
-**5. Wie vraagt de ISDE-subsidie aan?**
-
-Doorgaans doet de installateur dit namens jou. Controleer in het contract wie de verantwoordelijkheid draagt en wanneer het geld wordt teruggestort.
 
 ---
 

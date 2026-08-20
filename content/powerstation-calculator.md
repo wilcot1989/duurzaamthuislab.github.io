@@ -4,6 +4,15 @@ description: "Bereken hoe lang een powerstation je apparaten voedt en of het pie
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+faq:
+- q: 'Waarom haal ik in de praktijk een kortere runtime dan de tool aangeeft?'
+  a: 'De uitkomst is een modelberekening met een vast omvormer-rendement van 0,85. In werkelijkheid speelt meer mee: bij lage belasting verbruikt de omvormer zelf relatief veel (een station dat aan staat met alleen een telefoon eraan, verliest een merkbaar deel aan zichzelf), koude verlaagt de bruikbare capaciteit, en de meeste fabrikanten laten de accu niet volledig leeglopen. Reken op een marge en niet op de exacte uitkomst.'
+- q: 'Kan ik een waterkoker of airfryer op een powerstation gebruiken?'
+  a: 'Dat hangt volledig af van het continu vermogen, niet van de capaciteit. Een waterkoker van 2.000 W vraagt een model dat minstens 2.000 W continu levert; een R600 (600 W) of een EB70S (800 W) redt dat niet, ongeacht hoe vol de accu is. Vul het echte wattage van het apparaat in blok 1 in en lees in blok 2 af welke modellen het halen.'
+- q: 'Wat betekent de aanloopfactor precies, en waar komt hij vandaan?'
+  a: 'Het is onze vuistregel-modelaanname voor de inschakelstroom: het wattage van het apparaat maal 3 bij een compressor, maal 2,5 bij elektrisch gereedschap, maal 1 bij elektronica en laders. Het is geen fabrieksopgave en geen meting. De exacte startstroom van jouw apparaat staat op het typeplaatje of in de handleiding; gebruik de factor om te zien of je marge nodig hebt, niet als getal om op te bouwen.'
+- q: 'Zijn de vermelde capaciteiten, vermogens en prijzen actueel?'
+  a: 'De capaciteiten en continu vermogens komen uit de fabrieksspecificaties, en de prijzen zijn adviesprijzen met peildatum augustus 2026. Waar "zie site" staat, wisselt de prijs te vaak om hier zinvol te noemen. Fabrikanten brengen regelmatig nieuwe generaties uit onder een vrijwel identieke naam — met andere Wh en W. Controleer bij aanschaf altijd de specificatie van de variant die je in je mandje hebt.'
 lastmod: 2026-08-20
 ---
 
@@ -267,17 +276,3 @@ Twijfel je of een powerstation überhaupt het juiste product is, dan is het onde
 ## Deze tool op jouw website
 
 Er is een compacte embed-versie van de runtime-calculator beschikbaar voor blogs, kampeersites, vanlife-pagina's en installateurs. De embed-code staat op de [embed-codes-pagina](/embed-codes/); de enige voorwaarde is dat de bronvermelding blijft staan.
-
-## Veelgestelde vragen
-
-**Waarom haal ik in de praktijk een kortere runtime dan de tool aangeeft?**
-De uitkomst is een modelberekening met een vast omvormer-rendement van 0,85. In werkelijkheid speelt meer mee: bij lage belasting verbruikt de omvormer zelf relatief veel (een station dat aan staat met alleen een telefoon eraan, verliest een merkbaar deel aan zichzelf), koude verlaagt de bruikbare capaciteit, en de meeste fabrikanten laten de accu niet volledig leeglopen. Reken op een marge en niet op de exacte uitkomst.
-
-**Kan ik een waterkoker of airfryer op een powerstation gebruiken?**
-Dat hangt volledig af van het continu vermogen, niet van de capaciteit. Een waterkoker van 2.000 W vraagt een model dat minstens 2.000 W continu levert; een R600 (600 W) of een EB70S (800 W) redt dat niet, ongeacht hoe vol de accu is. Vul het echte wattage van het apparaat in blok 1 in en lees in blok 2 af welke modellen het halen.
-
-**Wat betekent de aanloopfactor precies, en waar komt hij vandaan?**
-Het is onze vuistregel-modelaanname voor de inschakelstroom: het wattage van het apparaat maal 3 bij een compressor, maal 2,5 bij elektrisch gereedschap, maal 1 bij elektronica en laders. Het is geen fabrieksopgave en geen meting. De exacte startstroom van jouw apparaat staat op het typeplaatje of in de handleiding; gebruik de factor om te zien of je marge nodig hebt, niet als getal om op te bouwen.
-
-**Zijn de vermelde capaciteiten, vermogens en prijzen actueel?**
-De capaciteiten en continu vermogens komen uit de fabrieksspecificaties, en de prijzen zijn adviesprijzen met peildatum augustus 2026. Waar "zie site" staat, wisselt de prijs te vaak om hier zinvol te noemen. Fabrikanten brengen regelmatig nieuwe generaties uit onder een vrijwel identieke naam — met andere Wh en W. Controleer bij aanschaf altijd de specificatie van de variant die je in je mandje hebt.

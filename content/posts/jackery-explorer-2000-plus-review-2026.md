@@ -38,13 +38,13 @@ faq:
   a: De LiFePO4-batterij is geschikt voor 4000 laadcycli tot 70% restcapaciteit. Bij dagelijks gebruik is dat meer dan 10 jaar levensduur.
 products:
 - name: Jackery Explorer 2000 Plus
-  url: https://www.jackery.com/products/explorer-2000-plus-portable-power-station
+  url: https://go.duurzaamthuislab.nl/jackery
   price: '2299'
 - name: EcoFlow Delta 2 Max
-  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '1899'
 - name: Bluetti AC200MAX
-  url: https://www.bluettipower.eu/products/ac200max
+  url: https://go.duurzaamthuislab.nl/bluetti-eu
   price: '1899'
 schema_type: Review
 ---
@@ -286,7 +286,7 @@ Praktisch advies: zet zware apparaten aan het station buiten of in een aparte ru
 
 De Jackery Explorer 2000 Plus heeft een adviesprijs van **€1.899**. Battery Pack 2000 Plus uitbreidingsmodules kosten circa **€1.499** per stuk. Jackery biedt regelmatig bundelaanbiedingen aan met zonnepanelen en extra batterijen.
 
-**[Bekijk de Jackery Explorer 2000 Plus >>>](https://www.jackery.com/nl/)**
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/jackery-explorer-2000-plus-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 2000 Plus →</a>
 
 Overweeg een bundel met SolarSaga-zonnepanelen als je het station veel off-grid wilt gebruiken -- dat is vrijwel altijd voordeliger dan losse aanschaf.
 
@@ -403,7 +403,7 @@ Is het perfect? Nee. Het gewicht van bijna 28 kg, de iets tragere laadtijd via s
 
 De modulaire aanpak maakt het bijzonder aantrekkelijk: begin met het basisstation en breid uit wanneer je budget en behoeften dat toelaten. En met 1200W solar-input is het de beste keuze voor wie maximaal wil profiteren van zonne-energie -- zeker nu de [salderingsregeling wordt afgebouwd](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) en eigen opslag steeds waardevoller wordt.
 
-**[Bestel de Jackery Explorer 2000 Plus via onze link >>>](https://www.jackery.com/nl/)**
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/jackery-explorer-2000-plus-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bestel de Jackery Explorer 2000 Plus via onze link →</a>
 
 Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor meer opties.
 

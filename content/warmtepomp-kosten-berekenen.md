@@ -4,6 +4,17 @@ description: "Bereken met je eigen gasverbruik, SCOP en offertebedrag wat een hy
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+faq:
+- q: 'Waarom vullen jullie geen aanschafprijs in?'
+  a: 'Omdat elk bedrag dat wij zouden noemen een verzinsel is. Prijzen hangen af van merk, vermogen, het benodigde leidingwerk, radiatoren, elektrawerk en de installateur. Een offertebedrag is het enige getal dat klopt voor jouw situatie — daarom is dat veld leeg.'
+- q: 'Waar staat mijn SCOP?'
+  a: 'Op het energielabel van het toestel en in het technische datasheet, altijd bij een opgegeven temperatuurregime (bijvoorbeeld 35 °C of 55 °C afgiftetemperatuur). Rekent je installateur met een ander cijfer, vraag dan bij welk regime dat hoort. Vul in de tool het cijfer in dat bij jóúw afgiftetemperatuur past, niet de mooiste waarde uit de brochure.'
+- q: 'Waarom 9,77 kWh per m³ gas?'
+  a: 'Dat is de gangbare Nederlandse rekenwaarde om een kubieke meter aardgas naar kWh om te rekenen: de bovenwaarde van Gronings aardgas is circa 35,17 MJ/m³, en 35,17 MJ is 9,77 kWh. Het blijft een vuistregel — de exacte energie-inhoud van het gas in je meter varieert licht per regio en per moment, en wie met de onderwaarde rekent (circa 31,65 MJ/m³, ongeveer 8,8 kWh) komt lager uit. Heb je een preciezer getal van je netbeheerder, dan verandert alleen stap 3 en 4 van de berekening.'
+- q: 'Moet ik het rendement van mijn oude ketel niet meerekenen?'
+  a: 'De tool rekent met je feitelijke gasverbruik, en daarin zit het ketelrendement al verwerkt: die m³ heb je nodig gehad om je huis warm te krijgen. De vermeden m³ vertegenwoordigen dus geleverde warmte inclusief ketelverlies — dat is de eerlijke vergelijking, omdat de warmtepomp precies diezelfde warmtebehoefte moet dekken.'
+- q: 'De uitkomst is negatief. Doe ik iets verkeerd?'
+  a: 'Niet noodzakelijk. Bij een lage SCOP, een hoge stroomprijs en een relatief lage gasprijs kan de rekening op jaarbasis inderdaad slechter uitpakken. Dat is precies de informatie waarvoor de tool bedoeld is. Kijk dan eerst naar isolatie en afgiftetemperatuur — die verhogen de SCOP — voordat je een toestel bestelt.'
 lastmod: 2026-08-20
 ---
 
@@ -232,20 +243,3 @@ De tool laat één ding meteen zien: de netto besparing staat of valt bij de ver
 **4. De offerte zelf.** Het investeringsbedrag is de variabele met de grootste spreiding en tegelijk de enige die je hard kunt maken. Vraag meerdere offertes op met dezelfde uitgangspunten (gewenste dekking, afgiftetemperatuur, geluidseisen) zodat je ze kunt vergelijken. Waar je op moet letten staat in [installateur kiezen](/installateur-kiezen/).
 
 Verandert de energieprijsverhouding, dan kantelt de uitkomst. Wie een dynamisch contract heeft, kan de stroomkosten van een warmtepomp verlagen door in goedkope uren te verwarmen of te bufferen — de actuele uurprijzen staan op [stroomprijzen vandaag](/stroomprijzen/).
-
-## Veelgestelde vragen
-
-**Waarom vullen jullie geen aanschafprijs in?**
-Omdat elk bedrag dat wij zouden noemen een verzinsel is. Prijzen hangen af van merk, vermogen, het benodigde leidingwerk, radiatoren, elektrawerk en de installateur. Een offertebedrag is het enige getal dat klopt voor jouw situatie — daarom is dat veld leeg.
-
-**Waar staat mijn SCOP?**
-Op het energielabel van het toestel en in het technische datasheet, altijd bij een opgegeven temperatuurregime (bijvoorbeeld 35 °C of 55 °C afgiftetemperatuur). Rekent je installateur met een ander cijfer, vraag dan bij welk regime dat hoort. Vul in de tool het cijfer in dat bij jóúw afgiftetemperatuur past, niet de mooiste waarde uit de brochure.
-
-**Waarom 9,77 kWh per m³ gas?**
-Dat is de gangbare Nederlandse rekenwaarde om een kubieke meter aardgas naar kWh om te rekenen: de bovenwaarde van Gronings aardgas is circa 35,17 MJ/m³, en 35,17 MJ is 9,77 kWh. Het blijft een vuistregel — de exacte energie-inhoud van het gas in je meter varieert licht per regio en per moment, en wie met de onderwaarde rekent (circa 31,65 MJ/m³, ongeveer 8,8 kWh) komt lager uit. Heb je een preciezer getal van je netbeheerder, dan verandert alleen stap 3 en 4 van de berekening.
-
-**Moet ik het rendement van mijn oude ketel niet meerekenen?**
-De tool rekent met je feitelijke gasverbruik, en daarin zit het ketelrendement al verwerkt: die m³ heb je nodig gehad om je huis warm te krijgen. De vermeden m³ vertegenwoordigen dus geleverde warmte inclusief ketelverlies — dat is de eerlijke vergelijking, omdat de warmtepomp precies diezelfde warmtebehoefte moet dekken.
-
-**De uitkomst is negatief. Doe ik iets verkeerd?**
-Niet noodzakelijk. Bij een lage SCOP, een hoge stroomprijs en een relatief lage gasprijs kan de rekening op jaarbasis inderdaad slechter uitpakken. Dat is precies de informatie waarvoor de tool bedoeld is. Kijk dan eerst naar isolatie en afgiftetemperatuur — die verhogen de SCOP — voordat je een toestel bestelt.

@@ -43,10 +43,10 @@ products:
   url: https://www.goalzero.com/
   price: '4999'
 - name: EcoFlow Delta Pro Ultra
-  url: https://nl.ecoflow.com/
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '4499'
 - name: Bluetti AC500 + B300S
-  url: https://www.bluettipower.eu/
+  url: https://go.duurzaamthuislab.nl/bluetti-eu
   price: '4299'
 ---
 De Goal Zero Yeti 6000X wordt vooral gezocht door mensen met een concrete back-up vraag: een UPS overbrugt doorgaans niet meer dan een half uur, terwijl je bij kritische apparatuur acht uur of langer wilt overbruggen zonder de complexiteit van een Victron-installatie.

@@ -38,6 +38,14 @@ faq:
   a: Dat hangt af van het model. De Tesla Powerwall 3 heeft een ingebouwde back-up functie (off-grid capable). De Huawei Luna heeft dit ook met de juiste omvormer-configuratie. De Sessy biedt in de huidige versie geen standaard back-up bij stroomuitval.
 - q: Wat is de terugverdientijd van een thuisbatterij in 2026?
   a: 'Zonder saldering (vanaf 2027) en met een dynamisch contract komen de meeste rekenmodellen uit op 8-12 jaar. De Sessy scoort in die modellen iets beter bij actief gebruik met dynamische tarieven, omdat de batterij ook op prijsverschillen handelt. De uitkomst hangt sterk af van de prijsspreiding op de spotmarkt.'
+- q: 'Kan ik mijn Huawei Luna 2000 later uitbreiden?'
+  a: 'Ja. De Luna 2000 is modulair — je kunt beginnen met 5 kWh en later uitbreiden naar 10 of 15 kWh door extra modules toe te voegen. Dat maakt de instapdrempel lager: begin klein en breid uit als de investering zich bewijst.'
+- q: 'Werkt de Tesla Powerwall 3 met mijn bestaande SolarEdge omvormer?'
+  a: 'Nee, niet naadloos. De Powerwall 3 heeft een ingebouwde DC-omvormer en is primair ontworpen als standalone systeem. Voor gebruik met een bestaande omvormer is een gateway nodig, en sommige functionaliteiten (zoals back-up) werken dan beperkt. Tesla raadt aan om bij een volledige omvormer-vervanging de Powerwall 3 te kiezen.'
+- q: 'Hoe ver laad ik de Sessy op bij een dynamisch contract?'
+  a: 'De Sessy laadt standaard tot 90-95% capaciteit op de goedkoopste uren. Je kunt in de app handmatig grenzen instellen, maar dat is zelden nodig — het algoritme optimaliseert automatisch op basis van de volgende dag''s prijscurve.'
+- q: 'Kan ik meerdere Sessy''s naast elkaar plaatsen?'
+  a: 'Ja. Je kunt meerdere Sessy-units in parallel plaatsen voor meer capaciteit. De units werken dan gecoördineerd via hetzelfde algoritme. Twee Sessy''s van elk 5 kWh geven 10 kWh capaciteit voor ca. €8.000-€8.500 — iets duurder per kWh dan de Huawei Luna 10 kWh, maar AC-gekoppeld en dus omvormer-onafhankelijk.'
 products:
 - name: Sessy thuisbatterij
   url: https://go.duurzaamthuislab.nl/sessy
@@ -397,26 +405,6 @@ Voor zonnepanelen voor woningen geldt het nultarief: 0% btw op levering en insta
 De Belastingdienst stelt expliciet dat de levering en installatie van een accupakket en thuisbatterij daar buiten valt. Op de batterij betaal je dus 21% btw, ook als je hem gelijktijdig met de panelen koopt en op dezelfde factuur laat zetten. Staat er in een offerte 0% btw over de accu, dan is dat een fout die je laat corrigeren.
 
 Eén uitzondering ligt bij ondernemerschap: wie als btw-ondernemer stroom teruglevert, kan de btw op de installatie in specifieke gevallen terugvragen. De Belastingdienst stelt daar voorwaarden aan, waaronder een energiemanagementsysteem en een dynamisch contract. Bekijk de actuele voorwaarden op belastingdienst.nl of leg het voor aan je boekhouder — het is geen automatisch voordeel.
-
----
-
-## Veelgestelde vragen over de drie batterijen
-
-### "Kan ik mijn Huawei Luna 2000 later uitbreiden?"
-
-Ja. De Luna 2000 is modulair — je kunt beginnen met 5 kWh en later uitbreiden naar 10 of 15 kWh door extra modules toe te voegen. Dat maakt de instapdrempel lager: begin klein en breid uit als de investering zich bewijst.
-
-### "Werkt de Tesla Powerwall 3 met mijn bestaande SolarEdge omvormer?"
-
-Nee, niet naadloos. De Powerwall 3 heeft een ingebouwde DC-omvormer en is primair ontworpen als standalone systeem. Voor gebruik met een bestaande omvormer is een gateway nodig, en sommige functionaliteiten (zoals back-up) werken dan beperkt. Tesla raadt aan om bij een volledige omvormer-vervanging de Powerwall 3 te kiezen.
-
-### "Hoe ver laad ik de Sessy op bij een dynamisch contract?"
-
-De Sessy laadt standaard tot 90-95% capaciteit op de goedkoopste uren. Je kunt in de app handmatig grenzen instellen, maar dat is zelden nodig — het algoritme optimaliseert automatisch op basis van de volgende dag's prijscurve.
-
-### "Kan ik meerdere Sessy's naast elkaar plaatsen?"
-
-Ja. Je kunt meerdere Sessy-units in parallel plaatsen voor meer capaciteit. De units werken dan gecoördineerd via hetzelfde algoritme. Twee Sessy's van elk 5 kWh geven 10 kWh capaciteit voor ca. €8.000-€8.500 — iets duurder per kWh dan de Huawei Luna 10 kWh, maar AC-gekoppeld en dus omvormer-onafhankelijk.
 
 ---
 

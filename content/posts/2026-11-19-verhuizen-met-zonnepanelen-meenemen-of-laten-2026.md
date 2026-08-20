@@ -29,20 +29,30 @@ schema_type: "Article"
 last_updated: 2026-06-12
 lastmod: 2026-08-20
 faq:
-  - question: "Mag ik mijn zonnepanelen meenemen bij verkoop van mijn woning?"
-    answer: "Ja, in principe wel — maar dat moet je vastleggen in de verkoopakte. Standaard gaan roerende zaken die aan de woning zijn bevestigd mee in de verkoop. Zonnepanelen vallen juridisch vaak onder 'onroerend goed' zodra ze op het dak zijn bevestigd. Spreek dit expliciet af met de koper en notaris."
-  - question: "Wat kost het om zonnepanelen te demonteren en opnieuw te installeren?"
-    answer: "Demontage kost €300–€600 voor een gemiddeld systeem van 10 panelen. Transport €50–€150. Herinstallatie op het nieuwe dak €600–€1.200, afhankelijk van daktype en omvormer-compatibiliteit. Totaal: €950–€1.950. Bij panelen jonger dan 3 jaar is herinstallatie soms rendabel; bij oudere systemen zelden."
-  - question: "Hoeveel meerwaarde geven zonnepanelen aan een woning?"
-    answer: "Onderzoek van Milieu Centraal en de NVM wijst op €1.000–€3.000 meerwaarde per geïnstalleerd kWp. Bij een systeem van 6 kWp: €6.000–€18.000 extra verkoopwaarde. In de praktijk varieert dit sterk per regio en woningtype. Een hoger energielabel (A of A+) door de panelen verhoogt ook de gemiddelde vraagprijs."
-  - question: "Hoe werkt de overdracht van een salderingscontract bij verhuizing?"
-    answer: "Een salderingscontract (of energiecontract met teruglevering) is gekoppeld aan het EAN-nummer van de aansluiting, niet aan de eigenaar. Bij verkoop vervalt jouw contract automatisch. De nieuwe eigenaar sluit een eigen contract af. Zorg dat je de meterstanden opneemt op de leveringsdatum en laat dit vastleggen in de akte."
-  - question: "Wat gebeurt er met de garantie van zonnepanelen bij demontage en herinstallatie?"
-    answer: "De productgarantie op de panelen zelf (25 jaar) blijft geldig — die zit op het paneel, niet op de locatie. De performantiegarantie (productiegarantie) kan vervallen als de herinstallatie niet door een gecertificeerde installateur wordt gedaan. Check dit altijd bij de fabrikant of importeur."
-  - question: 'Kan ik saldering overdragen aan de nieuwe koper?'
-    answer: "Nee, de salderingsregeling is persoonsgebonden en loopt via jouw energiecontract op jouw aansluiting. Bij verkoop vervalt jouw contract. De nieuwe eigenaar kan zijn eigen dynamisch contract of vaste contract kiezen. Wel kun je de feitelijke installatie achterlaten — die levert de nieuwe eigenaar gewoon terug aan het net via zijn eigen contract."
-  - question: "Lonen balkonsystemen bij verhuizing anders dan vaste dakinstallaties?"
-    answer: "Ja — plug-in balkonsystemen en draagbare panelen neem je altijd mee. Dat is hun grote voordeel. Ze zijn niet aan de woning bevestigd, vallen niet onder 'onroerend goed' en kunnen in een nieuwe woning direct opnieuw in gebruik worden genomen. Geen demontagekosten, geen garantie-issues."
+- q: "Mag ik mijn zonnepanelen meenemen bij verkoop van mijn woning?"
+  a: "Ja, in principe wel — maar dat moet je vastleggen in de verkoopakte. Standaard gaan roerende zaken die aan de woning zijn bevestigd mee in de verkoop. Zonnepanelen vallen juridisch vaak onder 'onroerend goed' zodra ze op het dak zijn bevestigd. Spreek dit expliciet af met de koper en notaris."
+- q: "Wat kost het om zonnepanelen te demonteren en opnieuw te installeren?"
+  a: "Demontage kost €300–€600 voor een gemiddeld systeem van 10 panelen. Transport €50–€150. Herinstallatie op het nieuwe dak €600–€1.200, afhankelijk van daktype en omvormer-compatibiliteit. Totaal: €950–€1.950. Bij panelen jonger dan 3 jaar is herinstallatie soms rendabel; bij oudere systemen zelden."
+- q: "Hoeveel meerwaarde geven zonnepanelen aan een woning?"
+  a: "Onderzoek van Milieu Centraal en de NVM wijst op €1.000–€3.000 meerwaarde per geïnstalleerd kWp. Bij een systeem van 6 kWp: €6.000–€18.000 extra verkoopwaarde. In de praktijk varieert dit sterk per regio en woningtype. Een hoger energielabel (A of A+) door de panelen verhoogt ook de gemiddelde vraagprijs."
+- q: "Hoe werkt de overdracht van een salderingscontract bij verhuizing?"
+  a: "Een salderingscontract (of energiecontract met teruglevering) is gekoppeld aan het EAN-nummer van de aansluiting, niet aan de eigenaar. Bij verkoop vervalt jouw contract automatisch. De nieuwe eigenaar sluit een eigen contract af. Zorg dat je de meterstanden opneemt op de leveringsdatum en laat dit vastleggen in de akte."
+- q: "Wat gebeurt er met de garantie van zonnepanelen bij demontage en herinstallatie?"
+  a: "De productgarantie op de panelen zelf (25 jaar) blijft geldig — die zit op het paneel, niet op de locatie. De performantiegarantie (productiegarantie) kan vervallen als de herinstallatie niet door een gecertificeerde installateur wordt gedaan. Check dit altijd bij de fabrikant of importeur."
+- q: 'Kan ik saldering overdragen aan de nieuwe koper?'
+  a: "Nee, de salderingsregeling is persoonsgebonden en loopt via jouw energiecontract op jouw aansluiting. Bij verkoop vervalt jouw contract. De nieuwe eigenaar kan zijn eigen dynamisch contract of vaste contract kiezen. Wel kun je de feitelijke installatie achterlaten — die levert de nieuwe eigenaar gewoon terug aan het net via zijn eigen contract."
+- q: "Lonen balkonsystemen bij verhuizing anders dan vaste dakinstallaties?"
+  a: "Ja — plug-in balkonsystemen en draagbare panelen neem je altijd mee. Dat is hun grote voordeel. Ze zijn niet aan de woning bevestigd, vallen niet onder 'onroerend goed' en kunnen in een nieuwe woning direct opnieuw in gebruik worden genomen. Geen demontagekosten, geen garantie-issues."
+- q: 'Hoe verhuizen met zonnepanelen?'
+  a: 'Begin 6 maanden van tevoren met de afweging meenemen of achterlaten. Haal in beide gevallen offertes op en laat de panelen taxeren als onderdeel van de woningtaxatie. Leg alles vast in de verkoopakte.'
+- q: 'Wat als de koper de zonnepanelen niet wil?'
+  a: 'Zeldzaam, maar het komt voor. In dat geval: laat de panelen demonteer-offertes opvragen en trek die kosten af van de vraagprijs. Of regel demontage zelf en neem de panelen mee — dan heb je ten minste de restwaarde.'
+- q: 'Hoe meld ik de zonnepanelen aan bij de nieuwe eigenaar?'
+  a: 'Lever de garantiedocumenten, de monitoring-inloggegevens en het installatiedossier over aan de koper. Noteer alle inloggegevens schriftelijk — de koper zal ze nodig hebben als er ooit een storing is.'
+- q: 'Kan ik mijn Zonneplan-contract overdragen?'
+  a: '<a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Zonneplan</a> biedt bij verhuizing de mogelijkheid om het contract over te dragen aan de nieuwe eigenaar of op te zeggen. Neem contact op met hun klantenservice ten minste 8 weken voor de verhuisdatum.'
+- q: 'Wat zijn de beste zonnepanelen voor wie net nieuw gaat kopen?'
+  a: 'Als je in de nieuwe woning opnieuw panelen wilt, lees dan [beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) en [zonnepanelen met of zonder installateur](/posts/zonnepanelen-met-of-zonder-installateur-2026/).'
 ---
 
 *Disclosure: de links naar Frank Energie, Sessy, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
@@ -250,30 +260,6 @@ Aannames: 8 panelen (3,2 kWp), 2 jaar oud; vergelijkbaar schuin zuiddak op de ni
 Uitkomst: achterlaten levert in dit model nog steeds meer op (€2.800 tegen €1.100 kosten voor meenemen). Meenemen wordt pas verdedigbaar als de meerwaarde in de onderhandeling niet of nauwelijks wordt vergoed — bijvoorbeeld doordat de koper de panelen niet meeweegt in zijn bod. Dan resteert de restwaarde van een nog jong systeem met vrijwel volledige garantie, en zijn de €1.100 aan verhuiskosten relatief snel terugverdiend.
 
 **Onze inschatting:** de leeftijd van het systeem en de vergelijkbaarheid van het nieuwe dak zijn de twee factoren die de uitkomst bepalen. Onder ongeveer drie jaar oud én bij een gelijkwaardig dak is meenemen een reële optie; in alle andere gevallen weegt de meerwaardeclaim zwaarder.
-
----
-
-## Veelgestelde vragen
-
-### Hoe verhuizen met zonnepanelen?
-
-Begin 6 maanden van tevoren met de afweging meenemen of achterlaten. Haal in beide gevallen offertes op en laat de panelen taxeren als onderdeel van de woningtaxatie. Leg alles vast in de verkoopakte.
-
-### Wat als de koper de zonnepanelen niet wil?
-
-Zeldzaam, maar het komt voor. In dat geval: laat de panelen demonteer-offertes opvragen en trek die kosten af van de vraagprijs. Of regel demontage zelf en neem de panelen mee — dan heb je ten minste de restwaarde.
-
-### Hoe meld ik de zonnepanelen aan bij de nieuwe eigenaar?
-
-Lever de garantiedocumenten, de monitoring-inloggegevens en het installatiedossier over aan de koper. Noteer alle inloggegevens schriftelijk — de koper zal ze nodig hebben als er ooit een storing is.
-
-### Kan ik mijn Zonneplan-contract overdragen?
-
-<a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Zonneplan</a> biedt bij verhuizing de mogelijkheid om het contract over te dragen aan de nieuwe eigenaar of op te zeggen. Neem contact op met hun klantenservice ten minste 8 weken voor de verhuisdatum.
-
-### Wat zijn de beste zonnepanelen voor wie net nieuw gaat kopen?
-
-Als je in de nieuwe woning opnieuw panelen wilt, lees dan [beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) en [zonnepanelen met of zonder installateur](/posts/zonnepanelen-met-of-zonder-installateur-2026/).
 
 ---
 

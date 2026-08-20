@@ -1,7 +1,7 @@
 ---
 title: 'Elektrisch Koken 2026: Inductie vs Gas'
 date: 2026-06-27 10:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Inductie koken vs gas vergeleken in 2026. Kosten overstappen, energieverbruik, kookervaring en besparing. Alles over van gas naar inductie in je keuken.
 categories:
 - energie
@@ -33,6 +33,14 @@ faq:
   a: 'Ja, als je geen gas meer nodig hebt (ook niet voor verwarming en warm water). Afsluiten kost eenmalig €100-€200, maar bespaart €200-€250 per jaar aan vastrecht (aansluitkosten). Bedenk: als je later weer gas wilt, kost heraansluiting €500-€1.000. Stap pas af als je ook verwarming en warm water elektrisch hebt.'
 - q: Welke inductiekookplaat is het beste?
   a: 'Beste alleskunner: Siemens/Bosch flexInduction (vrij plaatsbare zones, €800-€1.200). Beste budget: IKEA HOOFDSAKLIG of Etna KIF880DS (€300-€500). Beste voor koks: AEG Bridge-functie of Miele KM7000 (flexibele zones, timer per zone). Let op: kies minimaal 7.2 kW aansluitwaarde voor comfortabel koken.'
+- q: 'Kan ik mijn gasaansluiting opzeggen als ik huur?'
+  a: 'Dat hangt van je huurcontract af. De gasaansluiting is in principe van de netbeheerder (Liander, Stedin etc.), niet van de verhuurder. Maar als je huurwoning een cv-ketel op gas heeft, mag je die niet zomaar vervangen. Overleg altijd met je verhuurder bij huurwoningen. Bij koopwoningen: je beslist zelf.'
+- q: 'Moet ik een aardlekschakelaar bijplaatsen?'
+  a: 'De meeste moderne meterkast al een aardlekschakelaar (differentiaalschakelaar). Inductiekookplaten vragen geen extra aardlek boven wat al aanwezig is, maar wél een eigen groep van 16A of 32A. Laat dit door een erkend elektricien beoordelen.'
+- q: 'Werkt inductie met een generator bij stroomuitval?'
+  a: 'Afhankelijk van de generator. Een goedkope aggregaat (< 2.000 W) is te zwak voor de boost-stand van een inductieplaat. Een generator van 3.500+ watt werkt wel, maar inductie heeft ook exact de juiste frequentie (50 Hz) nodig. Een goedkope aggregaat geeft soms een instabiele frequentie, wat de inductieplaat kan beschadigen. De simpelste en goedkoopste back-up bij stroomuitval is dan ook geen aggregaat maar een campinggasbrander.'
+- q: 'Heeft inductie invloed op een pacemaker?'
+  a: 'Ja, er is een theoretisch risico. Fabrikanten adviseren een afstand van minimaal 60 cm van het inductieveld voor mensen met een pacemaker. In de praktijk staat een kok nooit op 60 cm van de kookplaat — maar het is een serieus aandachtspunt voor mensen met een implantaat. Raadpleeg altijd je cardioloog.'
 products:
 - name: Coolblue Inductie
   url: https://www.coolblue.nl/kookplaten/inductie
@@ -329,26 +337,6 @@ Gietijzer met emaillelaag (Le Creuset en vergelijkbaar, €80-€120 per pan) is
 - wokpan van 24 cm
 
 Uit het middensegment komt zo'n set rond de €250 uit, met een verwachte gebruiksduur van tien tot vijftien jaar. Reken die kosten mee in je overstapberekening als je huidige pannen de magneettest niet doorstaan.
-
-## Veelgestelde vragen over de overstap
-
-Naast de FAQ hierboven zijn dit de vragen die lezers het vaakst stellen:
-
-**"Kan ik mijn gasaansluiting opzeggen als ik huur?"**
-
-Dat hangt van je huurcontract af. De gasaansluiting is in principe van de netbeheerder (Liander, Stedin etc.), niet van de verhuurder. Maar als je huurwoning een cv-ketel op gas heeft, mag je die niet zomaar vervangen. Overleg altijd met je verhuurder bij huurwoningen. Bij koopwoningen: je beslist zelf.
-
-**"Moet ik een aardlekschakelaar bijplaatsen?"**
-
-De meeste moderne meterkast al een aardlekschakelaar (differentiaalschakelaar). Inductiekookplaten vragen geen extra aardlek boven wat al aanwezig is, maar wél een eigen groep van 16A of 32A. Laat dit door een erkend elektricien beoordelen.
-
-**"Werkt inductie met een generator bij stroomuitval?"**
-
-Afhankelijk van de generator. Een goedkope aggregaat (< 2.000 W) is te zwak voor de boost-stand van een inductieplaat. Een generator van 3.500+ watt werkt wel, maar inductie heeft ook exact de juiste frequentie (50 Hz) nodig. Een goedkope aggregaat geeft soms een instabiele frequentie, wat de inductieplaat kan beschadigen. De simpelste en goedkoopste back-up bij stroomuitval is dan ook geen aggregaat maar een campinggasbrander.
-
-**"Heeft inductie invloed op een pacemaker?"**
-
-Ja, er is een theoretisch risico. Fabrikanten adviseren een afstand van minimaal 60 cm van het inductieveld voor mensen met een pacemaker. In de praktijk staat een kok nooit op 60 cm van de kookplaat — maar het is een serieus aandachtspunt voor mensen met een implantaat. Raadpleeg altijd je cardioloog.
 
 ## Conclusie kookplaatkeuze per type huishouden
 

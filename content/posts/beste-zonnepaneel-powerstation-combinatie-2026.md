@@ -40,13 +40,13 @@ faq:
   a: Ja, de meeste powerstations ondersteunen meerdere panelen in serie of parallel, zolang je de maximale solar-input niet overschrijdt. Controleer altijd de specificaties van je powerstation voor de maximale VOC en het maximale wattage.
 products:
 - name: EcoFlow 400W Solar Panel
-  url: https://nl.ecoflow.com/products/400w-solar-panel
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '799'
 - name: Jackery SolarSaga 200W
-  url: https://www.jackery.com/products/solarsaga-200w-solar-panel
+  url: https://go.duurzaamthuislab.nl/jackery
   price: '499'
 - name: Bluetti PV200
-  url: https://www.bluettipower.eu/products/pv200-solar-panel
+  url: https://go.duurzaamthuislab.nl/bluetti-eu
   price: '399'
 schema_type: Article
 ---
@@ -156,7 +156,7 @@ Het 400W-paneel is wel het **zwaarste en grootste** in deze vergelijking. Openge
 - 400W-paneel is groot en onhandig om te vervoeren
 - Hogere investering vereist
 
-**[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-zonnepaneel-powerstation-combinatie-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij EcoFlow →</a>
 
 ---
 
@@ -198,7 +198,7 @@ Het nadeel is dat een enkel 200W-paneel relatief **lang** doet over het volledig
 - Hogere kosten bij uitbreiding naar meerdere panelen
 - Station is zwaar (27,9 kg)
 
-**[Bekijk bij Jackery >>>](https://www.jackery.com/nl/)**
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-zonnepaneel-powerstation-combinatie-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij Jackery →</a>
 
 ---
 
@@ -242,7 +242,7 @@ Lees onze uitgebreide [Bluetti AC200MAX review](/posts/bluetti-ac200max-review-2
 - Iets lagere solar-input dan concurrenten (900W max)
 - Station laadt langzamer via stopcontact
 
-**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-zonnepaneel-powerstation-combinatie-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij Bluetti →</a>
 
 ---
 
@@ -284,7 +284,7 @@ De solar-input is beperkt tot 220W, wat precies overeenkomt met het paneel. Er i
 - Niet uitbreidbaar met extra panelen of batterijen
 - Onvoldoende voor langdurig off-grid gebruik
 
-**[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-zonnepaneel-powerstation-combinatie-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij EcoFlow →</a>
 
 ---
 
@@ -326,7 +326,7 @@ Met een **totaalprijs van circa €899** is dit de goedkoopste complete solar ge
 
 Bekijk ook onze [top 7 draagbare powerstations](/posts/beste-draagbare-powerstation-2026/) voor meer opties in het budgetsegment.
 
-**[Bekijk bij Bluetti >>>](https://www.bluettipower.nl/)**
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-zonnepaneel-powerstation-combinatie-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij Bluetti →</a>
 
 ---
 

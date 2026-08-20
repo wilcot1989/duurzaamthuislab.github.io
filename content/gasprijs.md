@@ -4,6 +4,15 @@ description: "De actuele gasprijs per m³ van vandaag en morgen, plus een grafie
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+faq:
+- q: 'Wat is de gasprijs vandaag per m³?'
+  a: 'Die staat live bovenaan deze pagina, automatisch bijgewerkt uit de beursdata. Let op wat het getal is: de kale day-ahead-beursprijs inclusief btw. Wat jij per m³ aan je leverancier betaalt, is dat bedrag plus de energiebelasting en de inkoopvergoeding — dus altijd hoger.'
+- q: 'Wat is de gasprijs verwachting?'
+  a: 'De enige harde prijs vooruit is de day-ahead-prijs van morgen, en die staat bovenaan zodra hij gepubliceerd is. Verder vooruit doen wij geen voorspellingen: vulgraden van de opslagen, temperatuur, LNG-aanvoer en geopolitiek bepalen de prijs, en die zijn niet betrouwbaar te voorspellen.'
+- q: 'Waarom staat de prijs voor morgen er nog niet?'
+  a: 'De day-ahead-prijs voor de volgende gasdag komt in de loop van de dag beschikbaar. Staat er nog niets, kom dan later op de dag terug — de pagina haalt de data bij elk bezoek opnieuw op.'
+- q: 'Waarom heeft gas één prijs per dag en stroom een prijs per uur?'
+  a: 'De gasdag is de handelseenheid op de day-ahead-gasmarkt: één afrekenprijs van 06:00 tot 06:00. Stroom wordt per uur verhandeld, omdat vraag en aanbod van elektriciteit binnen de dag sterk wisselen. Verbruik verschuiven binnen de dag heeft bij gas dus geen prijseffect; bij stroom wel — zie [stroomprijzen](/stroomprijzen/).'
 lastmod: 2026-08-20
 ---
 
@@ -87,20 +96,6 @@ Daarna komt de warmtevraag zelf. Een **(hybride) warmtepomp** neemt een deel van
 Pas als je verbruik op orde is, loont het om het contract onder de loep te nemen. In onze [vergelijker van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/) staan de aanbieders naast elkaar op opslag en vaste kosten.
 
 <a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/gasprijs/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Frank Energie (dynamisch contract) →</a>
-
-## Veelgestelde vragen
-
-**Wat is de gasprijs vandaag per m³?**
-Die staat live bovenaan deze pagina, automatisch bijgewerkt uit de beursdata. Let op wat het getal is: de kale day-ahead-beursprijs inclusief btw. Wat jij per m³ aan je leverancier betaalt, is dat bedrag plus de energiebelasting en de inkoopvergoeding — dus altijd hoger.
-
-**Wat is de gasprijs verwachting?**
-De enige harde prijs vooruit is de day-ahead-prijs van morgen, en die staat bovenaan zodra hij gepubliceerd is. Verder vooruit doen wij geen voorspellingen: vulgraden van de opslagen, temperatuur, LNG-aanvoer en geopolitiek bepalen de prijs, en die zijn niet betrouwbaar te voorspellen.
-
-**Waarom staat de prijs voor morgen er nog niet?**
-De day-ahead-prijs voor de volgende gasdag komt in de loop van de dag beschikbaar. Staat er nog niets, kom dan later op de dag terug — de pagina haalt de data bij elk bezoek opnieuw op.
-
-**Waarom heeft gas één prijs per dag en stroom een prijs per uur?**
-De gasdag is de handelseenheid op de day-ahead-gasmarkt: één afrekenprijs van 06:00 tot 06:00. Stroom wordt per uur verhandeld, omdat vraag en aanbod van elektriciteit binnen de dag sterk wisselen. Verbruik verschuiven binnen de dag heeft bij gas dus geen prijseffect; bij stroom wel — zie [stroomprijzen](/stroomprijzen/).
 
 <script>
 var gpData = null, gpMorgen = null;

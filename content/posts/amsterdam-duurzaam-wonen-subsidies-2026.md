@@ -39,6 +39,24 @@ faq:
   a: 'Beperkt. Hoofdzakelijk voor eigenaren-bewoners. Voor huurders zijn er energiebox-regeling en huurder-corporatie programma''s.'
 - q: 'Wanneer worden nieuwe regelingen aangekondigd?'
   a: 'Begin elk jaar (januari-februari) en bij begrotingsbesluiten in het najaar. Houd amsterdam.nl in de gaten.'
+- q: 'Werkt Amsterdam-subsidie ook voor ZZP''er met BV?'
+  a: 'Beperkt. Voor woondeel ja, voor zakelijk deel komt KIA en EIA via Belastingdienst — niet via gemeente. Lees [ZZP zonnepanelen kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/).'
+- q: 'Kan ik Amsterdam Energielening combineren met hypotheekverhoging?'
+  a: 'Ja. Hypotheekverhoging tot 106% loan-to-value mag voor verduurzaming. Energielening vult restant. Twee verschillende kredieten, geen onderling beletsel.'
+- q: 'Wat als mijn aanvraag wordt afgewezen?'
+  a: 'Bezwaar is mogelijk binnen 6 weken. Een deel van de afwijzingen berust op formele gronden — een ontbrekend document of een verkeerde aanvraagvolgorde — en die zijn na bezwaar te herstellen. Vraag altijd om een schriftelijke motivering en controleer of er een vormfout in het spel is.'
+- q: 'Telt een tweede investering twee jaar later mee?'
+  a: 'Ja, mits andere maatregel. Twee keer warmtepomp-subsidie binnen 5 jaar wordt geblokkeerd. Twee keer zonnepanelen-subsidie (uitbreiding) afhankelijk van regeling.'
+- q: 'Krijg ik subsidie als ik mijn huis verhuur?'
+  a: 'Voor commerciële verhuur: nee (val je onder ondernemersregelingen). Voor verhuur aan familie of kostgangers: ja, mits jij eigenaar-bewoner bent en hoofdverblijf daar hebt.'
+- q: 'Werkt de Amsterdam Energielening voor een woonboot?'
+  a: 'Ja — sinds 2024 expliciet opgenomen, mits ligplaatsvergunning bestaat. Bedrag tot €10.000 voor woonboten. Specifieke maatregelen: isolatie casco, zonnepanelen op dak, warmtepomp op water (zeldzaam maar mogelijk).'
+- q: 'Mag ik subsidie ontvangen voor zonnepanelen op een dakopbouw die ik nog moet vergunnen?'
+  a: 'De volgorde is cruciaal: eerst dakopbouw vergund laten worden (3-6 maanden), dan offerte zonnepanelen, dan subsidieaanvraag. Aanvragen in de tussentijd worden afgewezen omdat de panelen nog niet in vergund pand vallen.'
+- q: 'Telt een groendak mee voor Amsterdam-subsidies?'
+  a: 'Apart fonds: Amsterdam Rainproof + Stadsdeel-subsidies voor groendaken (€30-€50 per m²). Combineerbaar met zonnepanelen mits constructie het draagt. Specialist nodig: gewicht groendak + zonnepanelen plus accumulatie water bij hevige regen kan dakconstructie overschrijden.'
+- q: 'Kan ik subsidie krijgen voor laadpaal in Amsterdam?'
+  a: 'Niet direct via verduurzamingsfonds. Wel via aparte regeling Mobility Hub-subsidie of werkgever-laadpaal-regeling. Lees [laadpaal VVE installatie](/posts/laadpaal-vve-installatie-2026/).'
 products:
 - name: Zonneplan zonnepanelen
   url: https://go.duurzaamthuislab.nl/zonneplan
@@ -414,26 +432,6 @@ Maximaal aan te vragen bedragen bij dit pakket:
 Totale subsidie in dit model: €81.100, ofwel 45,6% van de investering. Resterende eigen investering per woning: €6.920. Maandlast van de lening bij deze aannames: €52 per woning over 12 jaar. Aangenomen maandbesparing per woning: €78, uitgaande van het wegvallen van gas en directe consumptie van de zonnestroom na de salderingsstop.
 
 Reken voor een VVE-traject van deze omvang op ruim een jaar tussen het eerste VVE-besluit en de oplevering: de besluitvorming met 2/3 meerderheid, de vergunningen in beschermd stadsgezicht en de subsidiebeschikkingen lopen achtereenvolgens.
-
-## Veelgestelde vragen die niet in de FAQ staan
-
-**Werkt Amsterdam-subsidie ook voor ZZP'er met BV?** Beperkt. Voor woondeel ja, voor zakelijk deel komt KIA en EIA via Belastingdienst — niet via gemeente. Lees [ZZP zonnepanelen kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/).
-
-**Kan ik Amsterdam Energielening combineren met hypotheekverhoging?** Ja. Hypotheekverhoging tot 106% loan-to-value mag voor verduurzaming. Energielening vult restant. Twee verschillende kredieten, geen onderling beletsel.
-
-**Wat als mijn aanvraag wordt afgewezen?** Bezwaar is mogelijk binnen 6 weken. Een deel van de afwijzingen berust op formele gronden — een ontbrekend document of een verkeerde aanvraagvolgorde — en die zijn na bezwaar te herstellen. Vraag altijd om een schriftelijke motivering en controleer of er een vormfout in het spel is.
-
-**Telt een tweede investering twee jaar later mee?** Ja, mits andere maatregel. Twee keer warmtepomp-subsidie binnen 5 jaar wordt geblokkeerd. Twee keer zonnepanelen-subsidie (uitbreiding) afhankelijk van regeling.
-
-**Krijg ik subsidie als ik mijn huis verhuur?** Voor commerciële verhuur: nee (val je onder ondernemersregelingen). Voor verhuur aan familie of kostgangers: ja, mits jij eigenaar-bewoner bent en hoofdverblijf daar hebt.
-
-**Werkt de Amsterdam Energielening voor een woonboot?** Ja — sinds 2024 expliciet opgenomen, mits ligplaatsvergunning bestaat. Bedrag tot €10.000 voor woonboten. Specifieke maatregelen: isolatie casco, zonnepanelen op dak, warmtepomp op water (zeldzaam maar mogelijk).
-
-**Mag ik subsidie ontvangen voor zonnepanelen op een dakopbouw die ik nog moet vergunnen?** De volgorde is cruciaal: eerst dakopbouw vergund laten worden (3-6 maanden), dan offerte zonnepanelen, dan subsidieaanvraag. Aanvragen in de tussentijd worden afgewezen omdat de panelen nog niet in vergund pand vallen.
-
-**Telt een groendak mee voor Amsterdam-subsidies?** Apart fonds: Amsterdam Rainproof + Stadsdeel-subsidies voor groendaken (€30-€50 per m²). Combineerbaar met zonnepanelen mits constructie het draagt. Specialist nodig: gewicht groendak + zonnepanelen plus accumulatie water bij hevige regen kan dakconstructie overschrijden.
-
-**Kan ik subsidie krijgen voor laadpaal in Amsterdam?** Niet direct via verduurzamingsfonds. Wel via aparte regeling Mobility Hub-subsidie of werkgever-laadpaal-regeling. Lees [laadpaal VVE installatie](/posts/laadpaal-vve-installatie-2026/).
 
 ## Aanbevolen werkwijze in zes stappen
 

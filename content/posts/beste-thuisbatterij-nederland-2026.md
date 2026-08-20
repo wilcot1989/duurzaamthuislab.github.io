@@ -19,7 +19,7 @@ keywords:
 - thuisbatterij vergelijken nederland
 - thuisbatterij 2026
 - thuisbatterij salderingsregeling
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -46,7 +46,7 @@ products:
   url: https://www.tesla.com/nl_nl/powerwall
   price: '9500'
 - name: EcoFlow PowerOcean
-  url: https://nl.ecoflow.com/products/power-ocean
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '7500'
 - name: Enphase IQ Battery 5P
   url: https://enphase.com/nl/homeowners/storage/iq-battery-5p
@@ -55,7 +55,7 @@ schema_type: Article
 ---
 Welk merk, welke capaciteit, en verdien je het überhaupt terug? Dat zijn de drie vragen waar elke thuisbatterij-aankoop op neerkomt, en het antwoord verandert nu de salderingsregeling vanaf 2027 wordt afgebouwd. In dit overzicht vergelijken we vijf thuisbatterijen die in Nederland breed worden geïnstalleerd op specificaties, garantie, compatibiliteit en prijs per kWh, met een doorgerekend rendementsmodel per systeem.
 
-*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: de links naar Sessy, Huawei, Tesla en Enphase in dit artikel zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie. De links naar EcoFlow zijn affiliate-links via het AWIN-netwerk: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dat verandert niets aan de vergelijking: die is gebaseerd op specificaties, publieke data en narekenbare berekeningen.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*

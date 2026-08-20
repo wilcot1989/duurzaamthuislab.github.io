@@ -36,6 +36,10 @@ faq:
   a: Via mijn.rvo.nl met DigiD. Je hebt de factuur en de apparaatgegevens nodig, en het toestel moet op de erkende-apparatenlijst van RVO staan. Dit geldt voor de maatregelen die onder de ISDE vallen, zoals een warmtepomp of zonneboiler — niet voor zonnepanelen of een thuisbatterij.
 - q: Loont het nog om zonnepanelen te kopen in 2026?
   a: Voor de meeste woningen wel. Met het 0% btw-tarief op panelen en de salderingsregeling die in 2026 nog van kracht is, komt de terugverdientijd in onze modelberekening op circa 4 tot 5 jaar uit. Vanaf 2027 verschuift het rendement richting eigen verbruik in plaats van teruglevering.
+- q: 'Kan ik zonnepanelen financieren?'
+  a: 'Ja, er zijn meerdere opties: (1) **Groene lening** — bij banken als ASN, Triodos en Rabobank tegen gunstige rente (vaak 2-4%); (2) **Persoonlijke lening** — bij je eigen bank; (3) **Huurkoop/lease** — sommige installateurs bieden huurkoop aan; (4) **Warmtefonds** — voor huiseigenaren met een laag inkomen (rente vanaf 0%).'
+- q: 'Is het verstandig om te lenen voor zonnepanelen?'
+  a: 'Met een terugverdientijd van 4-5 jaar in onze modelberekening en een verwachte panellevensduur van 25-30 jaar zijn zonnepanelen voor de meeste woningen een verdedigbare investering. Bij financiering zijn de maandlasten vaak lager dan de besparing op de energierekening — reken dat wel na met je eigen rente en verbruik, want dat verschilt per situatie.'
 products:
 - name: Zonneplan
   url: https://go.duurzaamthuislab.nl/zonneplan
@@ -286,23 +290,6 @@ De keuze hangt af van je omvormer en installatie. De meest gangbare combinaties 
 - **Enphase micro-omvormers + Enphase IQ Battery** -- voor AC-koppeling
 
 Lees onze uitgebreide vergelijking in het artikel [Beste Thuisbatterij 2026: Top 5 voor Nederlandse Huishoudens](/posts/beste-thuisbatterij-nederland-2026/).
-
----
-
-## Veelgestelde Vragen over Financiering
-
-### Kan ik zonnepanelen financieren?
-
-Ja, er zijn meerdere opties:
-
-1. **Groene lening** -- Bij banken als ASN, Triodos en Rabobank tegen gunstige rente (vaak 2-4%)
-2. **Persoonlijke lening** -- Bij je eigen bank
-3. **Huurkoop/lease** -- Sommige installateurs bieden huurkoop aan
-4. **Warmtefonds** -- Voor huiseigenaren met een laag inkomen (rente vanaf 0%)
-
-### Is het verstandig om te lenen voor zonnepanelen?
-
-Met een terugverdientijd van 4-5 jaar in onze modelberekening en een verwachte panellevensduur van 25-30 jaar zijn zonnepanelen voor de meeste woningen een verdedigbare investering. Bij financiering zijn de maandlasten vaak lager dan de besparing op de energierekening — reken dat wel na met je eigen rente en verbruik, want dat verschilt per situatie.
 
 ---
 

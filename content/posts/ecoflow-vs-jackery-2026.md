@@ -37,10 +37,10 @@ faq:
   a: In het topsegment liggen de prijzen dicht bij elkaar. In het middensegment is Jackery doorgaans iets duurder. EcoFlow biedt vaker kortingen en bundels aan, waardoor de effectieve prijs lager kan uitvallen.
 products:
 - name: EcoFlow Delta 2 Max
-  url: https://nl.ecoflow.com/products/delta-2-max-portable-power-station
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '1899'
 - name: Jackery Explorer 2000 Plus
-  url: https://www.jackery.com/products/explorer-2000-plus-portable-power-station
+  url: https://go.duurzaamthuislab.nl/jackery
   price: '2299'
 schema_type: Article
 ---
@@ -133,9 +133,9 @@ Dit is de vergelijking waar het echt om draait: de twee vlaggenschepen van beide
 
 De **EcoFlow Delta 2 Max** wint deze vergelijking op punten dankzij de snellere oplaadtijd, het lagere gewicht, de betere app en de scherpere prijs. Kies je voor de **Jackery Explorer 2000 Plus** als je maximale uitbreidbaarheid of het hoogste continu vermogen nodig hebt.
 
-**[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-vs-jackery-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij EcoFlow →</a>
 
-**[Bekijk bij Jackery >>>](https://www.jackery.com/nl/)**
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/ecoflow-vs-jackery-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij Jackery →</a>
 
 ---
 
@@ -176,9 +176,9 @@ Deze vergelijking is minder eenduidig omdat de producten verschillende marktsegm
 - Je met zonnepanelen wilt laden (800W vs 220W solar-input)
 - Je het powerstation ook als noodstroom thuis wilt gebruiken
 
-**[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-vs-jackery-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij EcoFlow →</a>
 
-**[Bekijk bij Jackery >>>](https://www.jackery.com/nl/)**
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/ecoflow-vs-jackery-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij Jackery →</a>
 
 ---
 
@@ -443,9 +443,9 @@ Wil je een breder overzicht van de markt, inclusief Bluetti en Anker? Lees dan o
 
 Overweeg je een vast systeem voor thuis? Bekijk dan onze gids over de [beste thuisbatterijen voor Nederland](/posts/beste-thuisbatterij-nederland-2026/).
 
-**[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-vs-jackery-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij EcoFlow →</a>
 
-**[Bekijk bij Jackery >>>](https://www.jackery.com/nl/)**
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/ecoflow-vs-jackery-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij Jackery →</a>
 
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>

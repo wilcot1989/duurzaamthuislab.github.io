@@ -4,6 +4,13 @@ description: "Wanneer is het goedkoopst om je wasmachine te draaien? Hieronder h
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+faq:
+- q: 'Is ''s nachts wassen altijd het goedkoopst?'
+  a: 'Nee. Op zonnige dagen is het middaguur vaak goedkoper dan de nacht, en op stille winterdagen kan het omgekeerd zijn. Daarom staat het goedkoopste blok van vandaag bovenaan deze pagina in plaats van een vast tijdstip.'
+- q: 'Loont het om mijn wasmachine te verschuiven bij een vast contract?'
+  a: 'Voor je stroomkosten niet: bij één tarief betaal je elk uur dezelfde prijs per kWh. Heb je een dubbele meter met nachttarief, dan kan verschuiven wél iets opleveren — check de twee tarieven in je eigen contract.'
+- q: 'Kan ik geld terugkrijgen als de prijs negatief is?'
+  a: 'Bij een dynamisch contract wordt een negatieve beursprijs doorgegeven, maar energiebelasting en inkoopvergoeding blijven staan. Je totale kWh-prijs kan dan heel laag worden en in uitzonderlijke gevallen negatief; hoe dat in jouw contract wordt afgerekend, verschilt per leverancier.'
 lastmod: 2026-08-20
 ---
 
@@ -107,14 +114,3 @@ Wassen is het bekendste voorbeeld, maar de rekenregel is identiek voor de vaatwa
 Alle uurprijzen van vandaag en morgen, plus de actiemomenten voor die langere blokken, staan op onze pagina [stroomprijzen vandaag](/stroomprijzen/). Overweeg je de overstap naar een dynamisch contract, dan zetten we de aanbieders naast elkaar in de [vergelijking van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/).
 
 <a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/beste-tijd-wasmachine/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Frank Energie (dynamisch contract) →</a>
-
-## Veelgestelde vragen
-
-**Is 's nachts wassen altijd het goedkoopst?**
-Nee. Op zonnige dagen is het middaguur vaak goedkoper dan de nacht, en op stille winterdagen kan het omgekeerd zijn. Daarom staat het goedkoopste blok van vandaag bovenaan deze pagina in plaats van een vast tijdstip.
-
-**Loont het om mijn wasmachine te verschuiven bij een vast contract?**
-Voor je stroomkosten niet: bij één tarief betaal je elk uur dezelfde prijs per kWh. Heb je een dubbele meter met nachttarief, dan kan verschuiven wél iets opleveren — check de twee tarieven in je eigen contract.
-
-**Kan ik geld terugkrijgen als de prijs negatief is?**
-Bij een dynamisch contract wordt een negatieve beursprijs doorgegeven, maar energiebelasting en inkoopvergoeding blijven staan. Je totale kWh-prijs kan dan heel laag worden en in uitzonderlijke gevallen negatief; hoe dat in jouw contract wordt afgerekend, verschilt per leverancier.

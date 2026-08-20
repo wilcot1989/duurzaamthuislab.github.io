@@ -38,6 +38,14 @@ faq:
   a: Reken op 6 tot 18 maanden. De besluitvorming (vergadering, offerte-aanvraag, tweede vergadering) duurt soms al een jaar. De fysieke installatie zelf is in 2-5 dagen klaar voor een gemiddeld complex.
 - q: Maakt Zonneplan ook VvE-projecten?
   a: Ja, Zonneplan heeft een specifiek VvE-aanbod met collectieve inkoop, begeleiding bij vergaderingen en postcoderoos-registratie. Ze werken met een vast jaarlijks servicecontract waardoor je als VvE geen eigen onderhoud hoeft te regelen.
+- q: 'Onze VvE heeft geen reservefonds. Kunnen we toch zonnepanelen nemen?'
+  a: 'Ja, maar je hebt een financieringsoplossing nodig. Het Nationaal Warmtefonds biedt leningen specifiek voor VvE''s die verduurzamingsinvesteringen willen doen, ook als het reservefonds onvoldoende is. De voorwaarden: minimaal 60% van de leden moet instemmen, en de lening loopt via de VvE (niet per individueel lid). De rente is doorgaans lager dan bij een reguliere banklening. Andere opties: sommige installateurs bieden een leaseconstructie waarbij de VvE geen upfront investering hoeft te doen. Je betaalt dan een maandelijks bedrag, lager dan de gemiddelde energiebesparing.'
+- q: 'Onze splitsingsakte is van 1968 en onduidelijk. Wat nu?'
+  a: 'Oudere aktes zijn soms vaag over besluitvorming bij investeringen. In dat geval zijn er twee routes: (1) **Juridisch advies:** laat een VvE-jurist de akte interpreteren — veel VvE-beheerders hebben juristen in hun netwerk; (2) **Statutenwijziging:** als de akte echt niet aansluit bij de huidige praktijk, kun je als vergadering besluiten de akte te wijzigen. Dit vereist een notariële akte en doorgaans unanimiteit of een drie-kwart meerderheid. Als je niet zeker weet hoe de akte gelezen moet worden, ga dan voor de veilige route: vraag een twee-derde meerderheid in de vergadering. Dat is formeel misschien meer dan nodig, maar het voorkomt juridische discussies achteraf.'
+- q: 'Eén lid weigert mee te betalen. Wat kunnen we doen?'
+  a: 'Als de vergadering rechtsgeldig heeft besloten tot de investering, is elk lid gebonden aan het besluit en de bijbehorende servicekosten-verhoging. Weigert een lid te betalen? Dan kan de VvE via de kantonrechter incasso instellen. In de praktijk: communiceer goed vóór de vergadering, zodat bezwaren worden geuit en besproken, en niet achteraf worden omgezet in een betalingsweigering. Mensen die het gevoel hebben gehoord te zijn, betalen zelden dwars.'
+- q: 'Kunnen we ook een gedeeltelijk systeem installeren — alleen voor de gemeenschappelijke ruimtes?'
+  a: 'Absoluut, en dat is zelfs de meest voorkomende aanpak voor VvE''s die voor het eerst beginnen. Een systeem dat alleen de gemeenschappelijke meterkast bedient (lift, verlichting, installaties) is administratief het eenvoudigst: alle stroom gaat naar de gemeenschappelijke meter, de besparing is direct zichtbaar in de servicekosten, en er zijn geen individuele verrekeningen nodig. Als je later wilt uitbreiden naar individuele appartementen via de postcoderoos, kan dat als tweede stap.'
 products:
 - name: Zonneplan VvE
   url: https://go.duurzaamthuislab.nl/zonneplan
@@ -274,38 +282,6 @@ Zonnepanelen op een VvE-complex is haalbaar, maar vraagt geduld, goede communica
 Het eindresultaat is een lager gemeenschappelijk energieverbruik, lagere servicekosten en een verduurzaamd complex dat aantrekkelijker is op de woningmarkt. Voor een VvE van gemiddelde omvang is de terugverdientijd 8-12 jaar — wat voor een collectieve investering acceptabel is.
 
 Heb je vragen over jouw specifieke situatie? Laat een reactie achter, of vraag een vrijblijvend adviesgesprek aan via [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan).
-
----
-
-## Veelgestelde vragen van VvE-bestuurders
-
-Dit zijn de vragen die VvE-bestuurders en -leden het vaakst stellen over zo'n traject.
-
-### "Onze VvE heeft geen reservefonds. Kunnen we toch zonnepanelen nemen?"
-
-Ja, maar je hebt een financieringsoplossing nodig. Het Nationaal Warmtefonds biedt leningen specifiek voor VvE's die verduurzamingsinvesteringen willen doen, ook als het reservefonds onvoldoende is. De voorwaarden: minimaal 60% van de leden moet instemmen, en de lening loopt via de VvE (niet per individueel lid). De rente is doorgaans lager dan bij een reguliere banklening.
-
-Andere opties: sommige installateurs bieden een leaseconstructie waarbij de VvE geen upfront investering hoeft te doen. Je betaalt dan een maandelijks bedrag, lager dan de gemiddelde energiebesparing.
-
-### "Onze splitsingsakte is van 1968 en onduidelijk. Wat nu?"
-
-Oudere aktes zijn soms vaag over besluitvorming bij investeringen. In dat geval zijn er twee routes:
-- **Juridisch advies:** Laat een VvE-jurist de akte interpreteren. Veel VvE-beheerders hebben juristen in hun netwerk.
-- **Statutenwijziging:** Als de akte echt niet aansluit bij de huidige praktijk, kun je als vergadering besluiten de akte te wijzigen. Dit vereist een notariële akte en doorgaans unanimiteit of een drie-kwart meerderheid.
-
-Als je niet zeker weet hoe de akte gelezen moet worden, ga dan voor de veilige route: vraag een twee-derde meerderheid in de vergadering. Dat is formeel misschien meer dan nodig, maar het voorkomt juridische discussies achteraf.
-
-### "Eén lid weigert mee te betalen. Wat kunnen we doen?"
-
-Als de vergadering rechtsgeldig heeft besloten tot de investering, is elk lid gebonden aan het besluit en de bijbehorende servicekosten-verhoging. Weigert een lid te betalen? Dan kan de VvE via de kantonrechter incasso instellen.
-
-In de praktijk: communiceer goed vóór de vergadering, zodat bezwaren worden geuit en besproken, en niet achteraf worden omgezet in een betalingsweigering. Mensen die het gevoel hebben gehoord te zijn, betalen zelden dwars.
-
-### "Kunnen we ook een gedeeltelijk systeem installeren — alleen voor de gemeenschappelijke ruimtes?"
-
-Absoluut, en dat is zelfs de meest voorkomende aanpak voor VvE's die voor het eerst beginnen. Een systeem dat alleen de gemeenschappelijke meterkast bedient (lift, verlichting, installaties) is administratief het eenvoudigst: alle stroom gaat naar de gemeenschappelijke meter, de besparing is direct zichtbaar in de servicekosten, en er zijn geen individuele verrekeningen nodig.
-
-Als je later wilt uitbreiden naar individuele appartementen via de postcoderoos, kan dat als tweede stap.
 
 ---
 

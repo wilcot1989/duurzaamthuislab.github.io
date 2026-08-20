@@ -4,6 +4,15 @@ description: "Terugverdientijd van Sessy, Zonneplan, HomeWizard, EcoFlow STREAM 
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+faq:
+- q: 'Waarom komt de terugverdientijd hier hoger uit dan bij de fabrikant?'
+  a: 'Omdat wij alleen de handelsopbrengst rekenen, met de spread uit ons eigen archief en een benutting van 70%. Verkooprekenvoorbeelden tellen vaak ook de waarde van opgeslagen zonnestroom mee, rekenen met een hogere benutting en soms met een hogere spread. Beide kunnen kloppen — het verschil zit in de aannames, niet in de rekenkunde.'
+- q: 'Kan ik de prijzen in de tabel zomaar naast elkaar leggen?'
+  a: 'Nee, en daarom staat er per rij een voetnoot. De prijzen van Sessy, EcoFlow, HomeWizard en Zendure zijn exclusief installatie; die van Zonneplan zijn na btw-teruggave en inclusief installatie. Wil je echt appels met appels vergelijken, tel dan bij de eerste groep je eigen installatiekosten op.'
+- q: 'Waarom rekent de tool bij Zonneplan met 90% rendement en bij de rest met 85%?'
+  a: 'Zonneplan geeft zelf een round-trip-rendement tot 90% op. Wij nemen die vendorwaarde over en benoemen hem als vendorclaim; we hebben het niet zelf gemeten. Voor de andere modellen gebruiken we 85%, de waarde die onder andere Sessy in zijn specificaties noemt.'
+- q: 'Is een kleine plug-in-batterij dan altijd de beste keuze?'
+  a: 'Op terugverdientijd per euro scoort een goedkope plug-in-batterij vaak gunstig, maar met 2 kWh dek je je avondpiek niet en kun je nauwelijks zonnestroom opslaan. De vraag is dus niet alleen wat het snelst is terugverdiend, maar ook hoeveel van je verbruik je wilt afdekken. Voor de keuze op basis van je eigen profiel is de [generieke rekentool](/terugverdientijd-thuisbatterij/) plus de [installateurskeuze](/installateur-kiezen/) het betere vertrekpunt.'
 lastmod: 2026-08-20
 ---
 
@@ -181,17 +190,3 @@ De verdienende link hieronder is die van EcoFlow; de rest zijn gewone verwijzing
 <a href="https://go.duurzaamthuislab.nl/zendure?ref=/thuisbatterij-terugverdientijd-vergelijken/" target="_blank" rel="noopener nofollow" class="cta">Bekijk Zendure SolarFlow →</a>
 
 Losse reviews per model: [Sessy](/posts/sessy-review-thuisbatterij-nederland/), [Zonneplan](/posts/zonneplan-thuisbatterij-review-2026/), [Zendure SolarFlow](/posts/zendure-solarflow-review-2026/) en de [vergelijking van 10 kWh-batterijen](/posts/thuisbatterij-10-kwh-vergelijking-2026/).
-
-## Veelgestelde vragen
-
-**Waarom komt de terugverdientijd hier hoger uit dan bij de fabrikant?**
-Omdat wij alleen de handelsopbrengst rekenen, met de spread uit ons eigen archief en een benutting van 70%. Verkooprekenvoorbeelden tellen vaak ook de waarde van opgeslagen zonnestroom mee, rekenen met een hogere benutting en soms met een hogere spread. Beide kunnen kloppen — het verschil zit in de aannames, niet in de rekenkunde.
-
-**Kan ik de prijzen in de tabel zomaar naast elkaar leggen?**
-Nee, en daarom staat er per rij een voetnoot. De prijzen van Sessy, EcoFlow, HomeWizard en Zendure zijn exclusief installatie; die van Zonneplan zijn na btw-teruggave en inclusief installatie. Wil je echt appels met appels vergelijken, tel dan bij de eerste groep je eigen installatiekosten op.
-
-**Waarom rekent de tool bij Zonneplan met 90% rendement en bij de rest met 85%?**
-Zonneplan geeft zelf een round-trip-rendement tot 90% op. Wij nemen die vendorwaarde over en benoemen hem als vendorclaim; we hebben het niet zelf gemeten. Voor de andere modellen gebruiken we 85%, de waarde die onder andere Sessy in zijn specificaties noemt.
-
-**Is een kleine plug-in-batterij dan altijd de beste keuze?**
-Op terugverdientijd per euro scoort een goedkope plug-in-batterij vaak gunstig, maar met 2 kWh dek je je avondpiek niet en kun je nauwelijks zonnestroom opslaan. De vraag is dus niet alleen wat het snelst is terugverdiend, maar ook hoeveel van je verbruik je wilt afdekken. Voor de keuze op basis van je eigen profiel is de [generieke rekentool](/terugverdientijd-thuisbatterij/) plus de [installateurskeuze](/installateur-kiezen/) het betere vertrekpunt.

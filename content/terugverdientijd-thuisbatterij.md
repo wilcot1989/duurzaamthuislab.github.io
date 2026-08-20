@@ -4,6 +4,15 @@ description: "Bereken de terugverdientijd van je thuisbatterij op basis van capa
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+faq:
+- q: 'Waarom komt de terugverdientijd hier langer uit dan in reclames van leveranciers?'
+  a: 'Omdat deze tool alleen de arbitrageopbrengst rekent en degradatie meeneemt. Verkooprekenvoorbeelden tellen vaak ook de opslag van eigen zonnestroom mee en rekenen met een constante capaciteit.'
+- q: 'Moet ik subsidie van de aanschafprijs aftrekken?'
+  a: 'Ja, vul de prijs in die je uiteindelijk zelf betaalt. Subsidieregelingen en hun voorwaarden veranderen per jaar; controleer de actuele stand bij RVO voordat je een bedrag invult.'
+- q: 'Hoeveel cycli kan een batterij aan?'
+  a: 'Dat staat in het datasheet als aantal volledige cycli of als restcapaciteit na een aantal jaren. Rekent de tool een terugverdientijd uit die langer is dan de gegarandeerde levensduur, dan is dat het signaal: het systeem verdient zich in dit scenario niet terug.'
+- q: 'Kan de spread ook negatief uitpakken?'
+  a: 'Op een dag met een volledig vlak prijsverloop levert een cyclus door het rendementsverlies netto geld op *kosten*. Een goede sturing slaat zulke dagen over — dat is precies waarom het aantal bruikbare cycli lager ligt dan 365.'
 lastmod: 2026-08-20
 ---
 
@@ -178,17 +187,3 @@ Handelen op uurprijzen kan alleen als je batterij extern aanstuurbaar is — via
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/terugverdientijd-thuisbatterij/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk EcoFlow thuisbatterijen →</a>
 
 Vergelijk vóór aankoop altijd de bruikbare capaciteit (niet de bruto), het round-trip-rendement en de garantievoorwaarden op restcapaciteit — dat zijn precies de drie velden die deze rekentool nodig heeft. Onze [vergelijking van 10 kWh-thuisbatterijen](/posts/thuisbatterij-10-kwh-vergelijking-2026/) zet die specificaties naast elkaar.
-
-## Veelgestelde vragen
-
-**Waarom komt de terugverdientijd hier langer uit dan in reclames van leveranciers?**
-Omdat deze tool alleen de arbitrageopbrengst rekent en degradatie meeneemt. Verkooprekenvoorbeelden tellen vaak ook de opslag van eigen zonnestroom mee en rekenen met een constante capaciteit.
-
-**Moet ik subsidie van de aanschafprijs aftrekken?**
-Ja, vul de prijs in die je uiteindelijk zelf betaalt. Subsidieregelingen en hun voorwaarden veranderen per jaar; controleer de actuele stand bij RVO voordat je een bedrag invult.
-
-**Hoeveel cycli kan een batterij aan?**
-Dat staat in het datasheet als aantal volledige cycli of als restcapaciteit na een aantal jaren. Rekent de tool een terugverdientijd uit die langer is dan de gegarandeerde levensduur, dan is dat het signaal: het systeem verdient zich in dit scenario niet terug.
-
-**Kan de spread ook negatief uitpakken?**
-Op een dag met een volledig vlak prijsverloop levert een cyclus door het rendementsverlies netto geld op *kosten*. Een goede sturing slaat zulke dagen over — dat is precies waarom het aantal bruikbare cycli lager ligt dan 365.

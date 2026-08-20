@@ -33,6 +33,14 @@ faq:
   a: De ISDE subsidie voor warmtepompen is beschikbaar voor eigenaar-bewoners van bestaande woningen. Huurders kunnen geen ISDE aanvragen, maar verhuurders en woningcorporaties kunnen dit wel doen voor hun bezit.
 - q: Is er een budget limiet voor ISDE in 2026?
   a: Ja, het totale ISDE budget voor 2026 bedraagt circa €328 miljoen. In voorgaande jaren was het budget ruim voldoende, maar door de groeiende vraag is het verstandig om niet te lang te wachten met je aanvraag.
+- q: 'Mijn installateur zegt dat hij de ISDE voor mij aanvraagt. Mag dat?'
+  a: 'Ja, dat kan. De installateur kan namens jou een machtiging aanvragen en de ISDE indienen. De uitbetaling gaat dan ofwel naar jou, ofwel — als jullie dat afspraken — wordt het bedrag verrekend in de factuur. Leg dit schriftelijk vast in de opdracht.'
+- q: 'Ik heb de warmtepomp al drie maanden geleden laten installeren en nog geen ISDE aangevraagd. Kan dat nog?'
+  a: 'Ja. De deadline is 12 maanden na de factuurdatum. Maar wacht niet te lang: ontbrekende documenten of een uitgeput budget kunnen je verrassen. Ons advies is om binnen drie maanden aan te vragen.'
+- q: 'De factuur staat op naam van mijn partner maar het huis is van mij. Probleem?'
+  a: 'Dat kan een probleem zijn. De ISDE-aanvraag moet op naam van de eigenaar-bewoner staan. Zorg dat de factuur op naam staat van de persoon die eigenaar-bewoner is (staat in het kadaster). Als dit niet klopt, is naherstel mogelijk maar tijdrovend.'
+- q: 'Ik heb via Quatt een warmtepomp als abonnement. Kan ik ISDE aanvragen?'
+  a: 'Nee. Bij een abonnement is Quatt de eigenaar van de warmtepomp, niet jij. Eigendom is een vereiste voor de ISDE. Dit is een concreet financieel nadeel van het abonnementsmodel.'
 products:
 - name: Vaillant aroTHERM plus
   url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/
@@ -258,24 +266,6 @@ Dat laatste punt is waar de meeste aanvragen vertraging oplopen. Je naam op de f
 
 **Daarna wachten.** Op de goedkeuringsbeschikking wacht je in de praktijk enkele maanden; RVO betaalt binnen een paar werkdagen na de beschikking uit. Reageer direct als RVO om aanvullende informatie vraagt — elke dag vertraging in je antwoord schuift de uitbetaling op.
 
-### Veelgestelde praktijkvragen
-
-**"Mijn installateur zegt dat hij de ISDE voor mij aanvraagt. Mag dat?"** (deze en de volgende vragen komen het vaakst terug)
-
-Ja, dat kan. De installateur kan namens jou een machtiging aanvragen en de ISDE indienen. De uitbetaling gaat dan ofwel naar jou, ofwel — als jullie dat afspraken — wordt het bedrag verrekend in de factuur. Leg dit schriftelijk vast in de opdracht.
-
-**"Ik heb de warmtepomp al drie maanden geleden laten installeren en nog geen ISDE aangevraagd. Kan dat nog?"**
-
-Ja. De deadline is 12 maanden na de factuurdatum. Maar wacht niet te lang: ontbrekende documenten of een uitgeput budget kunnen je verrassen. Ons advies is om binnen drie maanden aan te vragen.
-
-**"De factuur staat op naam van mijn partner maar het huis is van mij. Probleem?"**
-
-Dat kan een probleem zijn. De ISDE-aanvraag moet op naam van de eigenaar-bewoner staan. Zorg dat de factuur op naam staat van de persoon die eigenaar-bewoner is (staat in het kadaster). Als dit niet klopt, is naherstel mogelijk maar tijdrovend.
-
-**"Ik heb via Quatt een warmtepomp als abonnement. Kan ik ISDE aanvragen?"**
-
-Nee. Bij een abonnement is Quatt de eigenaar van de warmtepomp, niet jij. Eigendom is een vereiste voor de ISDE. Dit is een concreet financieel nadeel van het abonnementsmodel.
-
 ## Budgetplafond ISDE 2026: wanneer zijn aanvragen op?
 
 Het totale ISDE-budget voor 2026 bedraagt circa €328 miljoen. In de jaren 2022 en 2023 was het budget vroeg in het jaar uitgeput, waarna aanvragen werden aangehouden. In 2024 en 2025 was het budget ruimer, mede door extra middelen vanuit het klimaatakkoord.
@@ -403,7 +393,6 @@ De trend wijst op verdere dalingen in aanschafprijs naarmate de productie schaal
 
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
-
 
 
 ---

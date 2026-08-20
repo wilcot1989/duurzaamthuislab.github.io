@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1487730116645-74489c95b41b&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: false
+affiliate: true
 faq:
 - q: 'Mag ik zonnepanelen op mijn recreatiewoning?'
   a: 'Op eigen grond met netaansluiting: meestal vergunningvrij. Op een park: vraag toestemming parkbeheer en check parkreglement. Soms apart vergunning­plichtig wegens beschermd landschap.'
@@ -46,16 +46,16 @@ products:
   url: https://en.pylontech.com.cn/
   price: '1450'
 - name: Bluetti AC500 + B300S
-  url: https://www.bluettipower.eu/
+  url: https://go.duurzaamthuislab.nl/bluetti-eu
   price: '4299'
 ---
-Een echtpaar uit Den Bosch met een vakantiewoning op een park in Drenthe vroeg me afgelopen voorjaar om advies. Ze gebruikten het chalet 14 weken per jaar, energierekening: €680. Park stond positief tegenover zonnepanelen, maar het systeem moet "passend in landschap" zijn. Park heeft geen meterkast-aansluiting voor on-grid; alle woningen lopen via gemeenschappelijke meter.
+**Modelcasus** (fictief rekenvoorbeeld met expliciete aannames — geen klantcase): een vakantiewoning op een park, 14 weken per jaar in gebruik, jaarlijkse energiekosten via de gemeenschappelijke parkmeter €680. Het park staat zonnepanelen toe mits "passend in het landschap", maar er is geen eigen netaansluiting per chalet — on-grid met saldering valt dus af.
 
-We kozen voor een hybride aanpak: 6 panelen op het schuine dak (met park-akkoord), 1 omvormer in technische kast, 5 kWh batterij voor avonden. Off-grid voor het chalet zelf, geen aansluiting nodig op park-net. Investering €7.200. Eigen kosten in 2 jaar terugverdiend dankzij wegval €680 jaarrekening — en park hoeft niet langer factureren.
+Een hybride aanpak past dan: 6 panelen op het schuine dak (met park-akkoord), een omvormer in de technische kast en een batterij van circa 5 kWh voor de avonden — off-grid voor het chalet zelf, zonder aansluiting op het parknet. Stel de investering op circa €7.200 (indicatie, vraag offertes): bij het wegvallen van €680 aan jaarkosten is de rekenkundige terugverdientijd ruim tien jaar. Dat is dus geen snelle besparing — de winst zit vooral in onafhankelijkheid van de parkmeter en de discussies daarover, niet in het rendement.
 
 Hieronder de gids voor zonnepanelen op recreatiewoningen, vakantiehuizen en chalets in 2026.
 
-*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
+*Disclosure: de link naar Bluetti is een affiliate-link via het AWIN-netwerk: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Met de overige genoemde merken (Victron, Pylontech) hebben wij geen affiliate- of commissierelatie; die links zijn gewone verwijzingen.*
 
 
 > **Kort antwoord:** Zonnepanelen op je vakantiewoning of recreatiewoning: on-grid of off-grid? Wij leggen de keuzes uit, met kosten en de speciale aandachtspunten voor parken in Nederland 2026.

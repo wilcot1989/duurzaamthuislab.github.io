@@ -38,6 +38,16 @@ faq:
   a: Ja, vaak zo geregeld bij corporatie-installaties. €5-€15/maand servicekosten erbij, €30-€50/maand besparing op energie. Netto positief voor huurder.
 - q: 'Bij verhuizing: wat gebeurt er?'
   a: 'Bij corporatie-investering: panelen blijven in pand. Bij eigen investering: vaak terugkoopregeling met corporatie tegen restwaarde, of overdracht aan nieuwe huurder met bijbehorende vergoeding.'
+- q: 'Mijn corporatie zegt: niet in dit kalenderjaar'
+  a: 'Acceptabel als bij overzichtelijke planning. Niet acceptabel als oneindig uitgesteld. Vraag concrete jaarsplanning.'
+- q: 'Mijn dak is nog niet geïsoleerd'
+  a: 'Combineer aanvragen. Vaak wordt isolatie + zonnepanelen samen aangepakt door corporatie.'
+- q: 'Ik wil over 2 jaar verhuizen'
+  a: 'HBI vaak niet rendabel bij korte resterende huurperiode. Wel rendabel als corporatie het oplost (geen voorinvestering).'
+- q: 'Mijn huurinkomen is laag'
+  a: 'Energiebespaarlening 0% van Warmtefonds heeft inkomensgrens. Onder die grens dus 0% rente — extra gunstig.'
+- q: 'Mijn complex is een rijksmonument'
+  a: 'Lees [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/). Speciale procedure nodig.'
 products:
 - name: Zonneplan zonnepanelen
   url: https://go.duurzaamthuislab.nl/zonneplan
@@ -275,28 +285,6 @@ Lees [Amsterdam duurzaam wonen subsidies](/posts/amsterdam-duurzaam-wonen-subsid
 ### Energiezuinig huren-traject corporaties
 
 Veel corporaties bieden 0% rente leningen aan huurders voor verduurzaming. Vraag bij eigen corporatie!
-
-## Veelgestelde vragen
-
-### "Mijn corporatie zegt: niet in dit kalenderjaar"
-
-Acceptabel als bij overzichtelijke planning. Niet acceptabel als oneindig uitgesteld. Vraag concrete jaarsplanning.
-
-### "Mijn dak is nog niet geïsoleerd"
-
-Combineer aanvragen. Vaak wordt isolatie + zonnepanelen samen aangepakt door corporatie.
-
-### "Ik wil over 2 jaar verhuizen"
-
-HBI vaak niet rendabel bij korte resterende huurperiode. Wel rendabel als corporatie het oplost (geen voorinvestering).
-
-### "Mijn huurinkomen is laag"
-
-Energiebespaarlening 0% van Warmtefonds heeft inkomensgrens. Onder die grens dus 0% rente — extra gunstig.
-
-### "Mijn complex is een rijksmonument"
-
-Lees [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/). Speciale procedure nodig.
 
 ## Combinatie met dynamisch contract
 

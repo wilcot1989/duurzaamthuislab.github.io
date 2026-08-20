@@ -1,7 +1,7 @@
 ---
 title: 'Boiler of doorstroomgeiser: warmwater opties na het gas'
 date: 2026-06-11 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Wat doe je met je warmwater als de cv-ketel weg gaat? Boiler, doorstroomgeiser, warmtepompboiler of zonneboiler.
 categories:
 - warmtepompen
@@ -42,6 +42,14 @@ faq:
   a: Voor een gezin van 4 personen adviseren wij minimaal 150 liter, liefst 200 liter. Reken op circa 40-50 liter warm water per persoon per dag voor douchen, koken en afwassen. Een 150-liter boiler kan bij herlaadtijd van 2 tot 3 uur een gezin van 4 bedienen. Een warmtepompboiler heeft door de langere verwarmingstijd (4-8 uur bij lage omgevingstemperatuur) idealiter 200-250 liter inhoud.
 - q: Wat is de jaarlijkse kostenpost van warm water voor een gezin van 4?
   a: 'Raming op basis van 200 liter warm water per dag (gezin van 4), aanvoer vanuit 12°C koud water naar 55°C: circa 4.200 kWh per jaar benodigd. Elektrische boiler (weerstand): 4.200 kWh × €0,30 = €1.260/jaar. Doorstroomgeiser: iets lager door geen standby-verlies, circa €1.150/jaar. Warmtepompboiler (COP 2,8): 4.200 / 2,8 × €0,30 = €450/jaar.'
+- q: 'Kan ik een warmtepompboiler buiten plaatsen?'
+  a: 'Technisch is het mogelijk als de unit voor buiten-gebruik is gecertificeerd. Maar buiten-installaties zijn zeldzaam en hebben nadelen: de omgevingstemperatuur is ''s winters laag (COP daalt sterk), er zijn beschermingsmaatregelen nodig, en de unit is kwetsbaarder voor weersinvloeden. Standaard: binnenshuis plaatsen.'
+- q: 'Mijn waterdruk is laag — welke optie past bij mij?'
+  a: 'Een lage waterdruk (minder dan 1,5 bar) is problematisch voor doorstroomgeisers die een minimumdruk nodig hebben om te activeren. Elektrische boilers werken bij iedere waterdruk. Overweeg bij lage druk een drukverhogende pomp (€150-€300) of kies een elektrische boiler.'
+- q: 'Heeft mijn warmtepompboiler ook koeling nodig?'
+  a: 'De warmtepompboiler koelt de omgevingslucht licht af. Bij een kleine ruimte kan dit aangenaam zijn in de zomer (de ruimte wordt koeler). Bij een al koele ruimte (onverwarmde kelder) kan de prestatie terugvallen als de omgevingstemperatuur daalt onder 10°C. Veel modellen hebben een elektrisch back-up verwarmingselement dat inspringt als de warmtepomp het niet redt.'
+- q: 'Kan ik de warmtepompboiler combineren met mijn zonneboiler?'
+  a: 'Dat kan, maar het vereist een goed geïntegreerde installatie. Uw installateur moet bepalen hoe de prioriteiten liggen: zonnecollector heeft voorrang, warmtepompboiler vult aan. Dit gaat via een slim regelventiel (thermostaat of driewegventiel). Vraag hier expliciet naar bij de offerte.'
 products:
 - name: Warmtepompboiler (200L) — ISDE-subsidie mogelijk
   url: https://go.duurzaamthuislab.nl/daikin
@@ -301,22 +309,6 @@ ISDE voor warmtepompboilers moet vóór installatie worden aangevraagd. Niet ern
 ---
 
 De keuze voor tapwaterverwarming wordt te vaak overgelaten aan de installateur die de warmste koffie aanlevert. Neem de tijd, maak de rekening, en kijk dan pas wat er bij uw huis past.
-
----
-
-## Veelgestelde vragen uit de praktijk
-
-**Kan ik een warmtepompboiler buiten plaatsen?**
-Technisch is het mogelijk als de unit voor buiten-gebruik is gecertificeerd. Maar buiten-installaties zijn zeldzaam en hebben nadelen: de omgevingstemperatuur is 's winters laag (COP daalt sterk), er zijn beschermingsmaatregelen nodig, en de unit is kwetsbaarder voor weersinvloeden. Standaard: binnenshuis plaatsen.
-
-**Mijn waterdruk is laag — welke optie past bij mij?**
-Een lage waterdruk (minder dan 1,5 bar) is problematisch voor doorstroomgeisers die een minimumdruk nodig hebben om te activeren. Elektrische boilers werken bij iedere waterdruk. Overweeg bij lage druk een drukverhogende pomp (€150-€300) of kies een elektrische boiler.
-
-**Heeft mijn warmtepompboiler ook koeling nodig?**
-De warmtepompboiler koelt de omgevingslucht licht af. Bij een kleine ruimte kan dit aangenaam zijn in de zomer (de ruimte wordt koeler). Bij een al koele ruimte (onverwarmde kelder) kan de prestatie terugvallen als de omgevingstemperatuur daalt onder 10°C. Veel modellen hebben een elektrisch back-up verwarmingselement dat inspringt als de warmtepomp het niet redt.
-
-**Kan ik de warmtepompboiler combineren met mijn zonneboiler?**
-Dat kan, maar het vereist een goed geïntegreerde installatie. Uw installateur moet bepalen hoe de prioriteiten liggen: zonnecollector heeft voorrang, warmtepompboiler vult aan. Dit gaat via een slim regelventiel (thermostaat of driewegventiel). Vraag hier expliciet naar bij de offerte.
 
 ---
 

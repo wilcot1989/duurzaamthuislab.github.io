@@ -16,7 +16,7 @@ keywords:
 - beste thuisbatterij 2026
 - Tesla Powerwall prijs
 - thuisbatterij zonnepanelen
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -41,13 +41,13 @@ products:
   url: https://www.tesla.com/nl_nl/powerwall
   price: '9500'
 - name: EcoFlow PowerOcean
-  url: https://nl.ecoflow.com/products/power-ocean
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '7500'
 schema_type: Article
 ---
 Bij een thuisbatterij bepalen drie dingen of de investering uitpakt: round-trip efficiëntie, prijs per kWh en of het systeem overweg kan met dynamische tarieven. Hieronder vergelijken wij de vijf populairste modellen op de Nederlandse markt op basis van fabrieksspecificaties, garantievoorwaarden, publieke prijzen en geverifieerde gebruikersreviews.
 
-*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: de links naar Sessy, Huawei en Tesla in dit artikel zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie. De links naar EcoFlow zijn affiliate-links via het AWIN-netwerk: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 Heb je al een dynamisch energiecontract? Lees dan hoe je een [thuisbatterij combineert met dynamische prijzen](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 

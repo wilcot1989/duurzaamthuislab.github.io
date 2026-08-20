@@ -37,6 +37,12 @@ faq:
   a: 'Een modelberekening met 4,2 kWh bruikbare capaciteit per cyclus, circa 200 productieve cycli per jaar en een all-in prijsverschil van €0,10 tot €0,18 per kWh komt uit op ruwweg €85 tot €190 per jaar uit zuivere EPEX-arbitrage, bovenop de besparing uit eigenverbruik van zonnestroom. De werkelijke opbrengst hangt sterk af van de volatiliteit van de EPEX-markt in dat jaar en van je verbruiksprofiel.'
 - q: Kan Sessy ook terugleveren aan het net bij hoge prijzen?
   a: Ja. Als je netbeheerder teruglevering toestaat (de meeste doen dat) en je dynamische leverancier teruglevering vergoedt op het live tarief, kan Sessy actief terugleveren bij hoge EPEX-prijzen. Niet alle leveranciers vergoeden dit op het spotmarkt-tarief — check je contract.
+- q: 'Mijn Sessy laadt niet in de nacht terwijl de EPEX-prijs laag was — waarom?'
+  a: 'Sessy Radar kijkt niet alleen naar de huidige prijs maar naar de geoptimaliseerde spread over de komende 24 uur. Als er ''s ochtends vroeg een nog lagere prijs wordt verwacht, kan Radar besluiten te wachten. Ook: als de batterij al deels vol is, is het niet altijd optimaal om extra te laden op een lage prijs als er de volgende dag geen hoge piekprijs wordt verwacht.'
+- q: 'De Sessy-app toont een negatieve besparing deze week — is dat normaal?'
+  a: 'De besparing in de app is berekend op basis van wat er zonder de batterij gekost zou hebben. In weken met weinig EPEX-volatiliteit en weinig zonne-energie is de besparing inderdaad klein of zelfs negatief — dat is normaal en zegt weinig over het jaarresultaat. Beoordeel de opbrengst daarom nooit op een week of maand, maar over minimaal een volledig jaar.'
+- q: 'Kan ik Sessy ook handmatig overschrijven?'
+  a: 'Ja. In de Sessy-app kun je via "Manueel instellen" de batterij forceren te laden of ontladen op een moment dat jij kiest. Na het handmatige commando valt de Sessy terug op automatische Radar-planning.'
 products:
 - name: Sessy thuisbatterij
   url: https://go.duurzaamthuislab.nl/sessy
@@ -286,22 +292,6 @@ Dit is de kernvraag bij de Sessy, want een batterij zonder EPEX-koppeling optima
 *Met EPEX-koppeling:* de batterij kan daarnaast dagelijks een netcyclus draaien op het prijsverschil tussen nacht en avondpiek. Bij circa 70 productieve cycli in een winterkwartaal, 4,2 kWh effectief per cyclus en een all-in spread van €0,12/kWh: **circa €35 extra in het kwartaal**.
 
 **Modelmatig verschil: de EPEX-koppeling voegt in een winterkwartaal ruwweg €35 toe** — meer dan een verdubbeling van de kwartaalwaarde. Over een heel jaar is het verschil relatief kleiner, omdat de zomer juist het omgekeerde patroon geeft: veel eigenverbruikswaarde, lage volatiliteit. Wie geen dynamisch contract heeft of niet wil, laat deze component volledig liggen — dan is de meerwaarde van Radar boven een gewone batterij beperkt tot de eigenverbruiksoptimalisatie die de concurrentie ook biedt.
-
----
-
-## Veelgestelde vragen van Sessy-gebruikers
-
-**"Mijn Sessy laadt niet in de nacht terwijl de EPEX-prijs laag was — waarom?"**
-
-Sessy Radar kijkt niet alleen naar de huidige prijs maar naar de geoptimaliseerde spread over de komende 24 uur. Als er 's ochtends vroeg een nog lagere prijs wordt verwacht, kan Radar besluiten te wachten. Ook: als de batterij al deels vol is, is het niet altijd optimaal om extra te laden op een lage prijs als er de volgende dag geen hoge piekprijs wordt verwacht.
-
-**"De Sessy-app toont een negatieve besparing deze week — is dat normaal?"**
-
-De besparing in de app is berekend op basis van wat er zonder de batterij gekost zou hebben. In weken met weinig EPEX-volatiliteit en weinig zonne-energie is de besparing inderdaad klein of zelfs negatief — dat is normaal en zegt weinig over het jaarresultaat. Beoordeel de opbrengst daarom nooit op een week of maand, maar over minimaal een volledig jaar.
-
-**"Kan ik Sessy ook handmatig overschrijven?"**
-
-Ja. In de Sessy-app kun je via "Manueel instellen" de batterij forceren te laden of ontladen op een moment dat jij kiest. Na het handmatige commando valt de Sessy terug op automatische Radar-planning.
 
 ---
 

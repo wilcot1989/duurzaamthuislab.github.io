@@ -1,7 +1,7 @@
 ---
 title: 'HR-ketel vervangen in 2026: warmtepomp'
 date: 2026-05-28 08:00:00+02:00
-lastmod: 2026-05-28 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: 'Je HR-ketel is aan vervanging toe. Wat is slim in 2026: een hybride warmtepomp, all-electric of toch een nieuwe HR-ketel? Eerlijke afweging met cijfers en.'
 categories:
 - warmtepompen
@@ -34,6 +34,14 @@ faq:
   a: Nee, er is geen subsidie voor een nieuwe (stand-alone) HR-ketel. De ISDE-subsidie geldt alleen voor warmtepompen, zonneboilers en andere hernieuwbare energiesystemen. Dit is bewust beleid om de transitie naar gasvrij verwarmen te stimuleren.
 - q: Wat is een hybride warmtepomp en hoe werkt die samen met de bestaande ketel?
   a: Een hybride warmtepomp is een compact buitenunit die warmte uit de lucht haalt en je woning verwarmt. Bij milde temperaturen (boven 0°C) doet de warmtepomp al het werk. Bij vriesweer neemt de cv-ketel automatisch over. Een slim regelalgoritme kiest altijd de goedkoopste energiebron.
+- q: 'Moet ik mijn bestaande ketel weggooien als ik een hybride warmtepomp kies?'
+  a: 'Nee. Bij een hybride warmtepomp blijft de bestaande cv-ketel als back-up actief. De hybride warmtepomp werkt samen met je ketel. Alleen bij full-electric wordt de ketel verwijderd.'
+- q: 'Kan ik een hybride warmtepomp gebruiken als mijn ketel al 10 jaar oud is?'
+  a: 'Ja, mits de ketel nog goed functioneert. De meeste hybride warmtepompen zijn te koppelen aan ketels van de gangbare merken (Remeha, Vaillant, Intergas, Bosch). Sommige fabrikanten (Quatt, Atag) koppelen de warmtepomp specifiek aan hun eigen ketelmodellen.'
+- q: 'Wat als de ketel kapot gaat terwijl ik de warmtepomp gebruik?'
+  a: 'Dan verwarmt de warmtepomp door (zolang het niet te koud is) en is reparatie of vervanging van de ketel minder urgent dan zonder warmtepomp. Je zit nooit volledig zonder verwarming.'
+- q: 'Hoe hoog is de stroom-extra-verbruik bij een hybride warmtepomp?'
+  a: 'Typisch 800-1.500 kWh per jaar extra stroom (afhankelijk van gasverbruik en isolatiegraad). Bij een stroomprijs van €0,32/kWh is dat €256-€480 extra stroom per jaar. De gasbesparing (€500-€1.100/jaar) overtreft dit ruimschoots.'
 products:
 - name: Atag warmtepomp
   url: https://go.duurzaamthuislab.nl/atag
@@ -392,26 +400,6 @@ Installatie omvat:
 ### Eerste maand
 
 De eerste maand is een inregelperiode. Het algoritme leert het stookpatroon van de woning. Soms is bijstelling nodig van de stooklijn-instellingen. Houd de app in de gaten en raporteer afwijkingen aan de installateur.
-
----
-
-## Veelgestelde vragen bij warmtepomp vs HR-ketel beslissing
-
-**Moet ik mijn bestaande ketel weggooien als ik een hybride warmtepomp kies?**
-
-Nee. Bij een hybride warmtepomp blijft de bestaande cv-ketel als back-up actief. De hybride warmtepomp werkt samen met je ketel. Alleen bij full-electric wordt de ketel verwijderd.
-
-**Kan ik een hybride warmtepomp gebruiken als mijn ketel al 10 jaar oud is?**
-
-Ja, mits de ketel nog goed functioneert. De meeste hybride warmtepompen zijn te koppelen aan ketels van de gangbare merken (Remeha, Vaillant, Intergas, Bosch). Sommige fabrikanten (Quatt, Atag) koppelen de warmtepomp specifiek aan hun eigen ketelmodellen.
-
-**Wat als de ketel kapot gaat terwijl ik de warmtepomp gebruik?**
-
-Dan verwarmt de warmtepomp door (zolang het niet te koud is) en is reparatie of vervanging van de ketel minder urgent dan zonder warmtepomp. Je zit nooit volledig zonder verwarming.
-
-**Hoe hoog is de stroom-extra-verbruik bij een hybride warmtepomp?**
-
-Typisch 800-1.500 kWh per jaar extra stroom (afhankelijk van gasverbruik en isolatiegraad). Bij een stroomprijs van €0,32/kWh is dat €256-€480 extra stroom per jaar. De gasbesparing (€500-€1.100/jaar) overtreft dit ruimschoots.
 
 ---
 

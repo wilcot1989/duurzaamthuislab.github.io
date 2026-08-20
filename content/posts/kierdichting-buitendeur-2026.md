@@ -42,6 +42,14 @@ faq:
   a: 'Drie tests: (1) Kaarstest: houd een brandende kaars of aansteker op 5 cm van het randje van de gesloten deur. Als de vlam beweegt, is er tocht. (2) Papiertest: leg een vel A4-papier in de deurnaad en sluit de deur. Trek het papier eruit. Als het zonder weerstand glijdt, is de kier te groot. (3) Warmtebeeldcamera: via een energie-adviesrapport of een thermometer-app op bepaalde smartphones.'
 - q: Mag ik zomaar mijn brievenbus dichtmaken?
   a: Dat hangt af van uw situatie. Als woningeigenaar mag u uw eigen brievenbus aanpassen of verplaatsen — zolang post bezorgd kan worden. PostNL en DHL vereisen een brievenbus die bereikbaar is. Als u de brievenbusopening in de deur wil dichtmaken, plaatst u een alternatieve brievenbus op de gevel of een vrijstaande paal. Huurders moeten toestemming vragen aan de verhuurder voor permanente wijzigingen.
+- q: 'Hoe lang gaat EPDM-tochtstrip mee?'
+  a: 'Een goede EPDM-strip gaat 10 tot 15 jaar mee bij normale gebruik. Schuim-strips van goedkope kwaliteit gaan 1 tot 3 jaar mee. Investeer in EPDM van 3-4 mm dikte — dat veert beter terug en sluit beter af bij scheve of ongelijke deurstijlen.'
+- q: 'Mijn deur sluit niet meer goed na het plaatsen van de tochtstrip. Wat doe ik?'
+  a: 'De strip is te dik of te breed geplaatst. Pas de positie aan: de strip moet in de sponning (de groef) zitten, niet op de rand. Als de deur echt klem zit, slijp de strip iets bij of gebruik een dunnere uitvoering (2 mm).'
+- q: 'Wat is het verschil tussen borstelstrip en rubberen strip?'
+  a: 'Borstelstrips (nylonharen) zijn beter voor plekken met veel beweging (onderkant van een schuifdeur, brievenbus) en bij oneffen oppervlakken. Rubberen EPDM-strip is beter voor stijlen en kozijnen die goed aansluiten. Combineer beide: EPDM voor zijkanten en bovenkant, borstelstrip voor de onderkant als een automatische tochtdrempel te duur is.'
+- q: 'Is kierdichting aftrekbaar van de belasting?'
+  a: 'Nee, kierdichting alleen is niet aftrekbaar. Maar als onderdeel van een grotere energierenovatie (isolatie + zonnepanelen + warmtepomp) kunt u in sommige gevallen profiteren van de energiebespaarlening met belastingvoordeel. Vraag uw belastingadviseur of gemeente.'
 products:
 - name: EPDM tochtstrip buitendeur (set voor 1 deur)
   url: https://go.duurzaamthuislab.nl/daikin
@@ -275,28 +283,9 @@ Met een investering van €75 tot €150 en twee uur werk elimineert u het meren
 Kierdichting is de goedkoopste verduurzaming die er bestaat. Voor €50 aan materiaal en twee uur werk haalt u tocht weg die u misschien al jaren heeft geaccepteerd als "normaal". Er is niets normaal aan een koude hal in de winter. Pak het aan.
 
 ---
-
-## Veelgestelde vragen
-
-**Hoe lang gaat EPDM-tochtstrip mee?**
-Een goede EPDM-strip gaat 10 tot 15 jaar mee bij normale gebruik. Schuim-strips van goedkope kwaliteit gaan 1 tot 3 jaar mee. Investeer in EPDM van 3-4 mm dikte — dat veert beter terug en sluit beter af bij scheve of ongelijke deurstijlen.
-
-**Mijn deur sluit niet meer goed na het plaatsen van de tochtstrip. Wat doe ik?**
-De strip is te dik of te breed geplaatst. Pas de positie aan: de strip moet in de sponning (de groef) zitten, niet op de rand. Als de deur echt klem zit, slijp de strip iets bij of gebruik een dunnere uitvoering (2 mm).
-
-**Wat is het verschil tussen borstelstrip en rubberen strip?**
-Borstelstrips (nylonharen) zijn beter voor plekken met veel beweging (onderkant van een schuifdeur, brievenbus) en bij oneffen oppervlakken. Rubberen EPDM-strip is beter voor stijlen en kozijnen die goed aansluiten. Combineer beide: EPDM voor zijkanten en bovenkant, borstelstrip voor de onderkant als een automatische tochtdrempel te duur is.
-
-**Is kierdichting aftrekbaar van de belasting?**
-Nee, kierdichting alleen is niet aftrekbaar. Maar als onderdeel van een grotere energierenovatie (isolatie + zonnepanelen + warmtepomp) kunt u in sommige gevallen profiteren van de energiebespaarlening met belastingvoordeel. Vraag uw belastingadviseur of gemeente.
-
----
-
 *DuurzaamThuisLab schrijft datagedreven over verduurzaming: fabrieksspecificaties, publieke data en narekenbare modelberekeningen, met expliciete aannames.*
 
-
 <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk verduurzamen →</a>
-
 
 <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
 

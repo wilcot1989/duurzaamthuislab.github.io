@@ -36,6 +36,22 @@ faq:
   a: Ja, de afbouw geldt voor alle zonnepanelen-bezitters, ook als je ze al jaren hebt. Er is geen overgangsregeling voor bestaande installaties.
 - q: Moet ik nu nog snel zonnepanelen aanschaffen?
   a: Zonnepanelen zijn nog steeds een goede investering, maar de urgentie om ze specifiek voor de salderingsregeling aan te schaffen is verminderd. Focus op een systeem dat past bij je eigen verbruik, eventueel met een thuisbatterij.
+- q: 'Mijn zonnepanelen worden waardeloos'
+  a: '**Onjuist.** Zonnepanelen besparen altijd op de stroom die je direct zelf verbruikt. Dat deel verandert niet. Alleen de waarde van teruggeleverde stroom daalt.'
+- q: 'Ik moet mijn zonnepanelen nu snel kopen voor de saldering stopt'
+  a: '**Genuanceerd.** Als je toch al zonnepanelen wilde, is eerder installeren inderdaad voordeliger vanwege de resterende saldeerperiode. Maar de panelen zijn ook na 2031 nog rendabel -- de terugverdientijd wordt alleen langer.'
+- q: 'Een thuisbatterij verdient zichzelf nooit terug'
+  a: '**Verschuift.** Nu de salderingsregeling wordt afgebouwd, wordt het financiele plaatje voor thuisbatterijen gunstiger. Bovendien dalen de batterijprijzen en stijgen de stroomprijzen, waardoor de terugverdientijd afneemt.'
+- q: 'De salderingsregeling wordt misschien toch niet afgebouwd'
+  a: '**Onwaarschijnlijk.** Hoewel de exacte timing en invulling nog kunnen veranderen, is de richting duidelijk: afbouw komt eraan. Het is verstandig om je hierop voor te bereiden.'
+- q: '"Mijn zonnepanelen zijn nu waardeloos"'
+  a: 'Niet waar. De waarde van direct eigen verbruik verandert niet. Als je overdag de wasmachine draait en die stroom direct van je dak komt, bespaar je nog steeds €0,30/kWh. Die waarde verdwijnt nergens. Wat verdwijnt is de gesubsidieerde waarde van teruggeleverde stroom.'
+- q: '"Ik had nooit panelen moeten kopen"'
+  a: 'Genuanceerder. Als je in 2023 panelen hebt gekocht op basis van de toenmalige saldering, dan was dat een rationele beslissing met de informatie van dat moment. De terugverdientijd loopt op, maar bij de meeste installaties is 10-12 jaar nog steeds binnen de levensduur van 25 jaar. Je maakt gewoon geen 15-20 jaar pure winst meer, maar wel 13-15 jaar.'
+- q: '"Ik moet nu snel een batterij kopen"'
+  a: 'Niet per se. De batterijprijzen dalen 8-12% per jaar. Als je teruglevering beperkt is (<1.500 kWh/jaar), is een batterij nu nog niet rendabel — de terugverdientijd van de batterij zelf loopt dan op naar 15+ jaar. Wachten op verdere prijsdaling of beginnen met een kleine 5 kWh batterij is dan verstandiger. Reken daarbij niet op landelijke subsidie: die is er voor batterijen niet.'
+- q: '"Het kabinet gaat hier nog op terugkomen"'
+  a: 'Onwaarschijnlijk. Het politieke draagvlak voor saldering is weg in 2026. Alle grote partijen zijn het eens over de noodzaak tot afschaffing vanwege netcongestie en kosten. De juridische argumentatie is ook ingebakken: saldering was altijd een tijdelijke stimuleringsmaatregel, geen permanent recht.'
 products:
 - name: Huawei Luna 2000
   url: https://solar.huawei.com/eu/residential/luna
@@ -261,22 +277,6 @@ Voor zonnepanelen geldt het btw-nultarief, en gemeenten en provincies hebben eig
 
 ---
 
-## Veelgestelde misverstanden over de salderingsregeling
-
-### "Mijn zonnepanelen worden waardeloos"
-**Onjuist.** Zonnepanelen besparen altijd op de stroom die je direct zelf verbruikt. Dat deel verandert niet. Alleen de waarde van teruggeleverde stroom daalt.
-
-### "Ik moet mijn zonnepanelen nu snel kopen voor de saldering stopt"
-**Genuanceerd.** Als je toch al zonnepanelen wilde, is eerder installeren inderdaad voordeliger vanwege de resterende saldeerperiode. Maar de panelen zijn ook na 2031 nog rendabel -- de terugverdientijd wordt alleen langer.
-
-### "Een thuisbatterij verdient zichzelf nooit terug"
-**Verschuift.** Nu de salderingsregeling wordt afgebouwd, wordt het financiele plaatje voor thuisbatterijen gunstiger. Bovendien dalen de batterijprijzen en stijgen de stroomprijzen, waardoor de terugverdientijd afneemt.
-
-### "De salderingsregeling wordt misschien toch niet afgebouwd"
-**Onwaarschijnlijk.** Hoewel de exacte timing en invulling nog kunnen veranderen, is de richting duidelijk: afbouw komt eraan. Het is verstandig om je hierop voor te bereiden.
-
----
-
 ## De bredere context: waarom wordt saldering afgebouwd?
 
 De afbouw van de salderingsregeling heeft meerdere redenen:
@@ -383,24 +383,6 @@ Wat er voor batterijen wél speelt:
 - **Btw.** Op de batterij betaal je 21% btw. Lever je als btw-ondernemer stroom terug, dan kun je in specifieke gevallen btw terugvragen — de Belastingdienst stelt daarbij voorwaarden, waaronder een energiemanagementsysteem en een dynamisch contract. Zie belastingdienst.nl; behandel dit niet als een voordeel waar iedere particulier op kan rekenen.
 
 Reken een batterij dus door op de kale aanschafprijs, inclusief btw en installatie. Dat is de eerlijke basis.
-
-## Veelgestelde vragen en misverstanden
-
-### "Mijn zonnepanelen zijn nu waardeloos"
-
-Niet waar. De waarde van direct eigen verbruik verandert niet. Als je overdag de wasmachine draait en die stroom direct van je dak komt, bespaar je nog steeds €0,30/kWh. Die waarde verdwijnt nergens. Wat verdwijnt is de gesubsidieerde waarde van teruggeleverde stroom.
-
-### "Ik had nooit panelen moeten kopen"
-
-Genuanceerder. Als je in 2023 panelen hebt gekocht op basis van de toenmalige saldering, dan was dat een rationele beslissing met de informatie van dat moment. De terugverdientijd loopt op, maar bij de meeste installaties is 10-12 jaar nog steeds binnen de levensduur van 25 jaar. Je maakt gewoon geen 15-20 jaar pure winst meer, maar wel 13-15 jaar.
-
-### "Ik moet nu snel een batterij kopen"
-
-Niet per se. De batterijprijzen dalen 8-12% per jaar. Als je teruglevering beperkt is (<1.500 kWh/jaar), is een batterij nu nog niet rendabel — de terugverdientijd van de batterij zelf loopt dan op naar 15+ jaar. Wachten op verdere prijsdaling of beginnen met een kleine 5 kWh batterij is dan verstandiger. Reken daarbij niet op landelijke subsidie: die is er voor batterijen niet.
-
-### "Het kabinet gaat hier nog op terugkomen"
-
-Onwaarschijnlijk. Het politieke draagvlak voor saldering is weg in 2026. Alle grote partijen zijn het eens over de noodzaak tot afschaffing vanwege netcongestie en kosten. De juridische argumentatie is ook ingebakken: saldering was altijd een tijdelijke stimuleringsmaatregel, geen permanent recht.
 
 ## Conclusie
 

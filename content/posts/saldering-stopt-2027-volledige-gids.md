@@ -268,7 +268,7 @@ Om te laten zien hoe de drie maatregelen samen uitpakken, rekenen we een complee
 
 Uitkomsten in de praktijk wijken af door tarieven, weer en gedrag. Reken daarom altijd met je eigen jaarafrekening.
 
-## Veelgestelde fouten en valkuilen
+## Vijf valkuilen bij de saldering-stop
 
 Vijf fouten die volgens installateurs en gebruikersreviews het vaakst voorkomen:
 

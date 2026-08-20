@@ -1,7 +1,7 @@
 ---
 title: 'Huawei Luna 2000 Review 2026: De Populairste Thuisbatterij'
 date: 2026-03-12 12:00:00+01:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: 'Uitgebreide Huawei Luna 2000 review: modulair 5-15kWh, compatibiliteit met Huawei omvormers, terugverdientijd en ervaringen in Nederland.'
 categories:
 - thuisbatterijen
@@ -18,7 +18,7 @@ keywords:
 - luna 2000 ervaringen
 - huawei luna 2000 prijs
 - thuisbatterij nederland
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -45,7 +45,7 @@ products:
   url: https://www.tesla.com/nl_nl/powerwall
   price: '9500'
 - name: EcoFlow PowerOcean
-  url: https://nl.ecoflow.com/products/power-ocean
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '7500'
 schema_type: Review
 ---
@@ -53,7 +53,7 @@ De Huawei Luna 2000 is een DC-gekoppelde thuisbatterij die alleen werkt in combi
 
 In deze review lopen we de specificaties, de installatie-eisen, de TOU-sturing en de garantievoorwaarden door, met rekenvoorbeelden waarin alle aannames zichtbaar zijn.
 
-*Disclosure: de links naar Huawei in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie. Deze review is gebaseerd op specificaties, handleidingen, garantievoorwaarden, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Huawei en Tesla in dit artikel zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie. De links naar EcoFlow zijn affiliate-links via het AWIN-netwerk: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Deze review is gebaseerd op specificaties, handleidingen, garantievoorwaarden, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 

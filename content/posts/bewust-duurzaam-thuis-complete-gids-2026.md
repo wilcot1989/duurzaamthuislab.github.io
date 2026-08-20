@@ -35,6 +35,18 @@ faq:
   a: 'Nee. Een lucht-water-warmtepomp werkt het beste bij aanvoertemperatuur 35-45 graden — dat haal je alleen met label B of beter. Eerst isoleren, dan warmtepomp. Een hybride opstelling kan een tussenstap zijn.'
 - q: Hoeveel is er per jaar te besparen op energie?
   a: 'Gemiddeld €2.500 tot €4.500 per jaar voor een gezin in een goed verduurzaamd huis (was €4.500 gas + €1.800 stroom). Met dynamisch contract en thuisbatterij komt er nog €400-€800 per jaar bij.'
+- q: 'Hoeveel CO2 bespaar je met een complete verduurzaming?'
+  a: 'Een gemiddeld rijtjeshuis stoot 6,5 ton CO2 per jaar uit voor verwarming en elektriciteit. Na volledige verduurzaming (label A+ + zon + warmtepomp + groene stroom) blijft daar ongeveer 1,2 ton van over — een reductie van 82%. Inclusief EV in plaats van benzineauto kom je op netto 0,4 ton CO2 per jaar.'
+- q: 'Wat is het verschil tussen label B en A++?'
+  a: 'Label B betekent in 2026 een netto energiebehoefte van 110-160 kWh/m²/jaar, label A++ duidt op een passiefhuis-niveau van onder 30 kWh/m²/jaar. Voor de meeste bestaande huizen is label A realistisch en kostenefficiënt — A++ vereist vaak triple glas, 30 cm gevelisolatie en mechanische ventilatie met warmteterugwinning. Daarvoor moet de investering omhoog naar €70.000+.'
+- q: 'Moet je de gasaansluiting echt schrappen?'
+  a: 'Niet automatisch. Een aansluiting kost €150-€250 per jaar vast. Schrappen levert dus pas geld op als je vrijwel nul m³ gas gebruikt. Schrappen kost eenmalig €700-€1.300. Bij verkoop zien sommige kopers het als pluspunt, anderen als beperking. Ons advies: schrap pas als je structureel onder de 100 m³ per jaar zit.'
+- q: 'Wat doet de Wet betaalbare huur met verduurzaming?'
+  a: 'Verhuurders zijn vanaf 2026 verplicht woningen met label E/F/G aan te pakken — of huurverlaging te verstrekken. Voor huurders betekent dit dat je kunt aankloppen bij je verhuurder voor isolatie of warmtepomp. Voor particuliere verhuurders: investeer NU want over twee jaar verlies je verhuurinkomsten.'
+- q: 'Hoe vind je een betrouwbare installateur?'
+  a: 'Drie checks: 1) erkend bij InstallQ, Techniek Nederland of Holland Solar, 2) minimaal 5 jaar bedrijfsregistratie KvK, 3) Google reviews boven 4,4 met minstens 50 beoordelingen. Vraag altijd drie offertes op. Een aanbieding die "alleen vandaag" geldig is, is het duidelijkste alarmsignaal dat er is.'
+- q: 'Wat als je in een appartement woont?'
+  a: 'Binnen een VvE kun je zelf alleen klein werk doen: HR++ glas (indien toegestaan), balkonpanelen (in 2026 in 80% van VvE''s toegestaan), inductie koken, water besparen. Voor zonnedak en warmtepomp moet de VvE besluiten — daar zijn aparte subsidies voor (SCE). Spreek je VvE aan en wijs ze op de wettelijke verplichting tot een meerjaren-onderhoudsplan inclusief verduurzaming.'
 products:
 - name: Sessy thuisbatterij
   url: https://go.duurzaamthuislab.nl/sessy
@@ -294,25 +306,6 @@ Verder zijn er **vermijdbare valkuilen**: te dure aanbiedingen via deur-aan-deur
 
 En ten slotte: bewust duurzaam wonen betekent ook **minder kopen**. Een tweede tv, derde laptop, vierde apparaat — elke nieuwe aankoop heeft een CO2-rugzak. Soms is geen aanschaf de duurzaamste keuze.
 
-## Veelgestelde vragen
-
-**Hoeveel CO2 bespaar je met een complete verduurzaming?**
-Een gemiddeld rijtjeshuis stoot 6,5 ton CO2 per jaar uit voor verwarming en elektriciteit. Na volledige verduurzaming (label A+ + zon + warmtepomp + groene stroom) blijft daar ongeveer 1,2 ton van over — een reductie van 82%. Inclusief EV in plaats van benzineauto kom je op netto 0,4 ton CO2 per jaar.
-
-**Wat is het verschil tussen label B en A++?**
-Label B betekent in 2026 een netto energiebehoefte van 110-160 kWh/m²/jaar, label A++ duidt op een passiefhuis-niveau van onder 30 kWh/m²/jaar. Voor de meeste bestaande huizen is label A realistisch en kostenefficiënt — A++ vereist vaak triple glas, 30 cm gevelisolatie en mechanische ventilatie met warmteterugwinning. Daarvoor moet de investering omhoog naar €70.000+.
-
-**Moet je de gasaansluiting echt schrappen?**
-Niet automatisch. Een aansluiting kost €150-€250 per jaar vast. Schrappen levert dus pas geld op als je vrijwel nul m³ gas gebruikt. Schrappen kost eenmalig €700-€1.300. Bij verkoop zien sommige kopers het als pluspunt, anderen als beperking. Ons advies: schrap pas als je structureel onder de 100 m³ per jaar zit.
-
-**Wat doet de Wet betaalbare huur met verduurzaming?**
-Verhuurders zijn vanaf 2026 verplicht woningen met label E/F/G aan te pakken — of huurverlaging te verstrekken. Voor huurders betekent dit dat je kunt aankloppen bij je verhuurder voor isolatie of warmtepomp. Voor particuliere verhuurders: investeer NU want over twee jaar verlies je verhuurinkomsten.
-
-**Hoe vind je een betrouwbare installateur?**
-Drie checks: 1) erkend bij InstallQ, Techniek Nederland of Holland Solar, 2) minimaal 5 jaar bedrijfsregistratie KvK, 3) Google reviews boven 4,4 met minstens 50 beoordelingen. Vraag altijd drie offertes op. Een aanbieding die "alleen vandaag" geldig is, is het duidelijkste alarmsignaal dat er is.
-
-**Wat als je in een appartement woont?**
-Binnen een VvE kun je zelf alleen klein werk doen: HR++ glas (indien toegestaan), balkonpanelen (in 2026 in 80% van VvE's toegestaan), inductie koken, water besparen. Voor zonnedak en warmtepomp moet de VvE besluiten — daar zijn aparte subsidies voor (SCE). Spreek je VvE aan en wijs ze op de wettelijke verplichting tot een meerjaren-onderhoudsplan inclusief verduurzaming.
 
 ---
 

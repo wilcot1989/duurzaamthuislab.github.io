@@ -1,7 +1,7 @@
 ---
 title: 'Split-airco als warmtepomp: wanneer wel, wanneer niet?'
 date: 2026-06-10 08:00:00+02:00
-lastmod: 2026-06-10 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: 'Reverse-cycle airco als budget-warmtepomp: wanneer wel, wanneer niet. COP, geluid, plaatsing en prijs vergeleken voor 2026.'
 categories:
 - warmtepompen
@@ -42,6 +42,16 @@ faq:
   a: 'Dat hangt af van uw woning. In een goed geïsoleerd appartement of studio (label A of B) kan één split-airco als hoofdverwarming functioneren. In een vrijstaande woning of een slecht geïsoleerd huis is een split-airco te beperkt: de luchtcirculatie reikt niet overal, en vochtige kelders of badkamers worden niet bereikt. Gebruik het als aanvulling op een bestaand systeem, of wees realistisch over de beperkingen.'
 - q: Hoe werkt een reverse-cycle airco?
   a: 'Een reverse-cycle airco werkt als een warmtepomp: een compressor comprimeert koudemiddel, dat warmte opneemt uit de buitenlucht en die warmte binnenshuis afgeeft via de binnenunit. Door de stroomrichting om te draaien (via een 4-wegsventiel) koelt de unit in de zomer. Hetzelfde principe als een gewone warmtepomp, maar dan met lucht als distributiemiddel in plaats van water.'
+- q: 'Mijn airco maakt een gorgelend geluid als hij opstart — normaal?'
+  a: 'Ja, dat is het ontdooien van de buitenunit. Als de buitentemperatuur dicht bij het vriespunt is, vormt er ijs op de verdamper. De unit ontdooit automatisch door de stroom om te keren. Daarbij klinkt een gorgelend geluid — dat is normaal en duurt 2 tot 10 minuten.'
+- q: 'Kan ik de airco op de slaapkamer gebruiken voor nachtkoeling in de zomer?'
+  a: 'Ja. Stel hem in op een aangename nachttemperatuur (22-24°C) en gebruik de "stille modus" (lagere ventilatorsnelheid). Moderne split-airco''s van Daikin en Mitsubishi hebben een nachtmodus die het geluid terugbrengt tot 19-22 dB(A) — nauwelijks hoorbaar.'
+- q: 'Moet ik de airco uitzetten als ik een week op vakantie ben?'
+  a: 'Nee, maar zet hem op een standby-setpoint (20°C in de winter, 28°C in de zomer). De unit houdt de woning dan op een acceptabele temperatuur zonder overveel stroom te verbruiken. Vochtschade door extreme kou of hitte wordt zo voorkomen.'
+- q: 'Mijn split-airco ruikt muf als hij opstaat. Wat doe ik?'
+  a: 'Muffe geur komt van schimmel in het verdampercircuit of op de filters. Reinig de filters grondig. Als de geur aanhoudt: laat een professionele reinigingsbeurt uitvoeren waarbij de verdamper wordt gereinigd met een antistatisch middel. Kosten: €80-€150.'
+- q: 'Is het zuiniger om de airco continu op een lagere stand te laten draaien of hem aan- en uit te zetten?'
+  a: 'Continu op een lagere stand is in de meeste gevallen zuiniger. Een inverter-compressor is optimaal efficiënt bij een gelijkmatige, lage belasting. Herhaaldelijk opstarten kost meer energie dan doordraaien.'
 products:
 - name: Daikin Perfera split-airco (3,5 kW)
   url: https://go.duurzaamthuislab.nl/daikin
@@ -299,27 +309,6 @@ Maar het is wél de meest betaalbare manier om één of twee ruimtes efficiënt 
 Als ik opnieuw moest beginnen — voor mijn eigen verduurzaming stap voor stap — zou ik beginnen met een split-airco in de woonkamer en pas daarna kijken naar een volledige warmtepomp. De split-airco leert u hoe een warmtepomp werkt, wat uw comfort-eisen zijn, en biedt direct rendement.
 
 Bij Daikin vind ik persoonlijk de beste combinatie van kwaliteit, garantie en service-netwerk. Vraag een offerte aan bij een erkende Daikin-dealer in uw regio.
-
----
-
-## Veelgestelde vragen uit de praktijk
-
-In mijn werk krijg ik regelmatig aanvullende vragen die ik hier kort behandel.
-
-**Mijn airco maakt een gorgelend geluid als hij opstart — normaal?**
-Ja, dat is het ontdooien van de buitenunit. Als de buitentemperatuur dicht bij het vriespunt is, vormt er ijs op de verdamper. De unit ontdooit automatisch door de stroom om te keren. Daarbij klinkt een gorgelend geluid — dat is normaal en duurt 2 tot 10 minuten.
-
-**Kan ik de airco op de slaapkamer gebruiken voor nachtkoeling in de zomer?**
-Ja. Stel hem in op een aangename nachttemperatuur (22-24°C) en gebruik de "stille modus" (lagere ventilatorsnelheid). Moderne split-airco's van Daikin en Mitsubishi hebben een nachtmodus die het geluid terugbrengt tot 19-22 dB(A) — nauwelijks hoorbaar.
-
-**Moet ik de airco uitzetten als ik een week op vakantie ben?**
-Nee, maar zet hem op een standby-setpoint (20°C in de winter, 28°C in de zomer). De unit houdt de woning dan op een acceptabele temperatuur zonder overveel stroom te verbruiken. Vochtschade door extreme kou of hitte wordt zo voorkomen.
-
-**Mijn split-airco ruikt muf als hij opstaat. Wat doe ik?**
-Muffe geur komt van schimmel in het verdampercircuit of op de filters. Reinig de filters grondig. Als de geur aanhoudt: laat een professionele reinigingsbeurt uitvoeren waarbij de verdamper wordt gereinigd met een antistatisch middel. Kosten: €80-€150.
-
-**Is het zuiniger om de airco continu op een lagere stand te laten draaien of hem aan- en uit te zetten?**
-Continu op een lagere stand is in de meeste gevallen zuiniger. Een inverter-compressor is optimaal efficiënt bij een gelijkmatige, lage belasting. Herhaaldelijk opstarten kost meer energie dan doordraaien.
 
 ---
 

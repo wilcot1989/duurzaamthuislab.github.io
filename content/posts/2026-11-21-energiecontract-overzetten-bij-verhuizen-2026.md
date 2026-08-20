@@ -32,20 +32,30 @@ schema_type: "Article"
 last_updated: 2026-06-12
 lastmod: 2026-08-20
 faq:
-  - question: "Hoe zeg ik mijn energiecontract op bij verhuizing?"
-    answer: "Meld je verhuizing aan bij je huidige energieleverancier, minimaal 4 weken van tevoren. Je hebt nodig: de verhuisdatum, het nieuwe adres en de EAN-nummers van zowel de oude als de nieuwe aansluiting. De leverancier regelt de opzegging en de eindafrekening op de leveringsdatum."
-  - question: "Kan ik mijn Tibber-contract meenemen naar mijn nieuwe woning?"
-    answer: "Ja. Tibber maakt het relatief eenvoudig om te verhuizen binnen hun systeem. Log in op de app, ga naar 'Verhuizen' en voer het nieuwe adres en EAN-nummer in. Tibber regelt de aansluiting op het nieuwe adres. Je behoudt je app-instellingen en historische data."
-  - question: "Wat is een eindafrekening bij verhuizing?"
-    answer: "Een eindafrekening is de afsluitende jaarrekening van je energieleverancier op de datum dat jij de woning verlaat. De netbeheerder neemt op die datum de meterstand op. Op basis daarvan berekent de leverancier wat je nog moet bijbetalen of terugkrijgt over het lopende jaar."
-  - question: "Moet ik bij verhuizing overstappen naar een ander energiecontract?"
-    answer: "Niet verplicht, maar het is een goed moment om dit te evalueren. Als je geen dynamisch contract had en de nieuwe woning heeft een slimme meter en zonnepanelen, is een overstap naar Tibber of Frank Energie nu extra interessant. Bovendien: bij verhuizing geldt bij de meeste aanbieders geen opzegboete."
-  - question: "Hoe lees ik de slimme meter uit bij oplevering?"
-    answer: "Noteer de P1-meterstand (elektriciteit dag en nacht, en gas) direct op de opleveringsdatum. Maak een foto van het meter-display. De netbeheerder doet dit ook automatisch, maar jouw eigen documentatie is een back-up bij eventuele geschillen over de eindafrekening."
-  - question: "Hoe lang duurt het aansluiten van een nieuw energiecontract na verhuizing?"
-    answer: "Bij een bestaande aansluiting met slimme meter: 1–5 werkdagen. De netbeheerder registreert de eigendomsoverdracht en de nieuwe leverancier activeert het contract. Zonder slimme meter kan dit langer duren. In nieuwbouwwoningen duurt de eerste aansluiting soms 4–8 weken."
-  - question: "Kan ik bij verhuizing meteen overstappen naar een dynamisch contract?"
-    answer: "Ja, en dat is zelfs een goed moment. Verhuizing geldt als nieuw contract — geen opzegboete van een oud vast contract. Je kunt direct bij Tibber of Frank Energie een dynamisch contract afsluiten voor het nieuwe adres."
+- q: "Hoe zeg ik mijn energiecontract op bij verhuizing?"
+  a: "Meld je verhuizing aan bij je huidige energieleverancier, minimaal 4 weken van tevoren. Je hebt nodig: de verhuisdatum, het nieuwe adres en de EAN-nummers van zowel de oude als de nieuwe aansluiting. De leverancier regelt de opzegging en de eindafrekening op de leveringsdatum."
+- q: "Kan ik mijn Tibber-contract meenemen naar mijn nieuwe woning?"
+  a: "Ja. Tibber maakt het relatief eenvoudig om te verhuizen binnen hun systeem. Log in op de app, ga naar 'Verhuizen' en voer het nieuwe adres en EAN-nummer in. Tibber regelt de aansluiting op het nieuwe adres. Je behoudt je app-instellingen en historische data."
+- q: "Wat is een eindafrekening bij verhuizing?"
+  a: "Een eindafrekening is de afsluitende jaarrekening van je energieleverancier op de datum dat jij de woning verlaat. De netbeheerder neemt op die datum de meterstand op. Op basis daarvan berekent de leverancier wat je nog moet bijbetalen of terugkrijgt over het lopende jaar."
+- q: "Moet ik bij verhuizing overstappen naar een ander energiecontract?"
+  a: "Niet verplicht, maar het is een goed moment om dit te evalueren. Als je geen dynamisch contract had en de nieuwe woning heeft een slimme meter en zonnepanelen, is een overstap naar Tibber of Frank Energie nu extra interessant. Bovendien: bij verhuizing geldt bij de meeste aanbieders geen opzegboete."
+- q: "Hoe lees ik de slimme meter uit bij oplevering?"
+  a: "Noteer de P1-meterstand (elektriciteit dag en nacht, en gas) direct op de opleveringsdatum. Maak een foto van het meter-display. De netbeheerder doet dit ook automatisch, maar jouw eigen documentatie is een back-up bij eventuele geschillen over de eindafrekening."
+- q: "Hoe lang duurt het aansluiten van een nieuw energiecontract na verhuizing?"
+  a: "Bij een bestaande aansluiting met slimme meter: 1–5 werkdagen. De netbeheerder registreert de eigendomsoverdracht en de nieuwe leverancier activeert het contract. Zonder slimme meter kan dit langer duren. In nieuwbouwwoningen duurt de eerste aansluiting soms 4–8 weken."
+- q: "Kan ik bij verhuizing meteen overstappen naar een dynamisch contract?"
+  a: "Ja, en dat is zelfs een goed moment. Verhuizing geldt als nieuw contract — geen opzegboete van een oud vast contract. Je kunt direct bij Tibber of Frank Energie een dynamisch contract afsluiten voor het nieuwe adres."
+- q: 'Energiecontract overzetten bij verhuizen: hoe lang van tevoren?'
+  a: 'Minimaal 4 weken. Idealiter 6–8 weken als je van dynamisch naar vast overgaat of vice versa. Heb je nog geen slimme meter in de nieuwe woning? Meld dat direct bij het nieuwe contract — dan kan de netbeheerder hem voor de verhuisdatum installeren.'
+- q: 'Wat als de nieuwe woning al een dynamisch contract heeft?'
+  a: 'Het contract van de vorige eigenaar vervalt op de leveringsdatum. Jij sluit een eigen contract af. Er is geen overdracht van contracten — alleen de installaties (panelen, warmtepomp, batterij) kunnen worden overgenomen.'
+- q: 'Moet ik bij verhuizing het energiecontract opzeggen?'
+  a: 'Je hoeft het niet altijd expliciet op te zeggen — bij verhuizing eindigt het contract van rechtswege op de leveringsdatum. Maar je leverancier informeren (met de leveringsdatum en nieuwe adres) is verplicht voor een correcte eindafrekening.'
+- q: 'Kan ik bij verhuizing zonder boete overstappen?'
+  a: 'Ja. Verhuizing wordt door vrijwel alle energieleveranciers erkend als gegronde reden voor opzegging zonder boete, ook bij een vast contract met resterende looptijd. Vraag dit expliciet na bij jouw leverancier.'
+- q: 'Hoe zit het met energiecontracten bij tijdelijk verblijf tussen twee woningen?'
+  a: 'Als je in een overgangsperiode een tijdelijke huurwoning betrekt: sluit geen langdurig vast contract. Kies voor een dynamisch contract zonder abonnement (Frank Energie) of maand-tot-maand. Zo zit je nergens aan vast.'
 ---
 
 *Disclosure: de links naar Frank Energie, Sessy, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
@@ -229,30 +239,6 @@ Alles elektrisch (warmtepomp, inductiekookplaat). Je verbruik van elektriciteit 
 ### Thuisbatterij als buffer
 
 Overweeg je een plug-in thuisbatterij zoals <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a> of de Marstek Venus? Met een dynamisch contract laad je die op in de goedkoopste uren (doorgaans 's nachts) en ontlaad je tijdens de dure avonduren. Wat dat oplevert, hangt volledig af van de batterijcapaciteit, het aantal cycli per jaar en het dagelijkse prijsverschil op de spotmarkt — er is geen vast bedrag te noemen. Een doorrekening met expliciete aannames staat in [dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
-
----
-
-## Veelgestelde vragen
-
-### Energiecontract overzetten bij verhuizen: hoe lang van tevoren?
-
-Minimaal 4 weken. Idealiter 6–8 weken als je van dynamisch naar vast overgaat of vice versa. Heb je nog geen slimme meter in de nieuwe woning? Meld dat direct bij het nieuwe contract — dan kan de netbeheerder hem voor de verhuisdatum installeren.
-
-### Wat als de nieuwe woning al een dynamisch contract heeft?
-
-Het contract van de vorige eigenaar vervalt op de leveringsdatum. Jij sluit een eigen contract af. Er is geen overdracht van contracten — alleen de installaties (panelen, warmtepomp, batterij) kunnen worden overgenomen.
-
-### Moet ik bij verhuizing het energiecontract opzeggen?
-
-Je hoeft het niet altijd expliciet op te zeggen — bij verhuizing eindigt het contract van rechtswege op de leveringsdatum. Maar je leverancier informeren (met de leveringsdatum en nieuwe adres) is verplicht voor een correcte eindafrekening.
-
-### Kan ik bij verhuizing zonder boete overstappen?
-
-Ja. Verhuizing wordt door vrijwel alle energieleveranciers erkend als gegronde reden voor opzegging zonder boete, ook bij een vast contract met resterende looptijd. Vraag dit expliciet na bij jouw leverancier.
-
-### Hoe zit het met energiecontracten bij tijdelijk verblijf tussen twee woningen?
-
-Als je in een overgangsperiode een tijdelijke huurwoning betrekt: sluit geen langdurig vast contract. Kies voor een dynamisch contract zonder abonnement (Frank Energie) of maand-tot-maand. Zo zit je nergens aan vast.
 
 ---
 

@@ -38,6 +38,16 @@ faq:
   a: Ja, MultiPlus II met de "ESS Assistant" werkt prima on-grid. Houd er rekening mee dat de configuratie complex is — niet voor leken. Voor 90% van Nederlandse rijtjeshuizen is Sessy een eenvoudigere keuze.
 - q: 'Welke garantie geeft Victron?'
   a: 5 jaar standaard op MultiPlus, 5 jaar op LFP-batterijen. Na betaalde uitbreiding tot 10 jaar. Lokale Nederlandse service via Victron-dealers — snel en goed georganiseerd.
+- q: 'Werkt Victron met Pylontech batterijen?'
+  a: 'Ja, MultiPlus II ondersteunt Pylontech US-serie via CAN-bus. Dit is een populaire combinatie: Victron omvormer voor de programmeerbaarheid, Pylontech voor goedkopere batterijopslag. Je hebt geen Lynx Smart BMS nodig dan.'
+- q: 'Wat is het verschil tussen MultiPlus II en Quattro?'
+  a: 'MultiPlus II heeft één AC-input (grid). Quattro heeft twee AC-inputs (grid + generator) — handig voor off-grid met dieselgenerator als backup. Voor 90% van de Nederlandse situaties is MultiPlus II voldoende.'
+- q: 'Hoe groot moet de MultiPlus II zijn?'
+  a: 'Dat hangt af van het huishouden: 3 kVA voor een huishouden van 1-2 personen zonder warmtepomp; 5 kVA voor een standaard rijtjeshuis (voor de meeste woningen de juiste maat); 8 kVA voor een grotere woning of een warmtepomp-aansluiting; 10 kVA voor een groot huis of agrarisch bedrijf. Voor systemen van 30 kVA en meer plaats je meerdere units parallel.'
+- q: 'Kan ik ESS Assistant zelf installeren?'
+  a: 'Technisch ja, maar je hebt VictronConnect kennis nodig en moet je netcode-instellingen weten. Voor on-grid is een gecertificeerde Victron-installateur verplicht volgens Liander/Stedin reglement.'
+- q: 'Hoe stabiel is VRM?'
+  a: 'Zeer stabiel. In 4 maanden test 0 uitval van VRM-cloud. Wel afhankelijk van je internet — bij internet-uitval blijft je systeem draaien maar zie je geen data. Dit is hetzelfde als bij andere merken.'
 products:
 - name: Victron MultiPlus II 5kVA
   url: https://www.victronenergy.nl/
@@ -251,27 +261,6 @@ Min: prijs, complexiteit, niet plug-and-play, hoge installatiekosten.
 Victron Energy is de Rolls-Royce van thuisbatterij-systemen. Voor wie de juiste use-case heeft (backup-kritisch, off-grid optie, technisch onderlegd) is het een uitstekende investering. Voor de meeste Nederlanders: te complex en te duur.
 
 Lees ook [beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/), [thuisbatterij vergelijking](/posts/thuisbatterij-vergelijking-2026/), [Sessy vs Marstek](/posts/sessy-vs-marstek-vergelijking-2026/) en [thuisbatterij subsidie 2026](/posts/thuisbatterij-subsidie-2026-overzicht/).
-
-## Veelgestelde vragen
-
-**Werkt Victron met Pylontech batterijen?**
-Ja, MultiPlus II ondersteunt Pylontech US-serie via CAN-bus. Dit is een populaire combinatie: Victron omvormer voor de programmeerbaarheid, Pylontech voor goedkopere batterijopslag. Je hebt geen Lynx Smart BMS nodig dan.
-
-**Wat is het verschil tussen MultiPlus II en Quattro?**
-MultiPlus II heeft één AC-input (grid). Quattro heeft twee AC-inputs (grid + generator) — handig voor off-grid met dieselgenerator als backup. Voor 90% van de Nederlandse situaties is MultiPlus II voldoende.
-
-**Hoe groot moet de MultiPlus II zijn?**
-- 3 kVA: 1-2 personen huishouden, geen warmtepomp
-- 5 kVA: standaard rijtjeshuis (voor de meeste woningen de juiste maat)
-- 8 kVA: grotere woning of warmtepomp aansluiting
-- 10 kVA: groot huis, agrarisch bedrijf
-- Parallel meerdere units voor 30 kVA+ systemen
-
-**Kan ik ESS Assistant zelf installeren?**
-Technisch ja, maar je hebt VictronConnect kennis nodig en moet je netcode-instellingen weten. Voor on-grid is een gecertificeerde Victron-installateur verplicht volgens Liander/Stedin reglement.
-
-**Hoe stabiel is VRM?**
-Zeer stabiel. In 4 maanden test 0 uitval van VRM-cloud. Wel afhankelijk van je internet — bij internet-uitval blijft je systeem draaien maar zie je geen data. Dit is hetzelfde als bij andere merken.
 
 ## Tips voor wie Victron overweegt
 

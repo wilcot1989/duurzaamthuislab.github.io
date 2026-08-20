@@ -25,6 +25,12 @@ faq:
     a: "Voor een huishouden met 2.500 kWh teruglevering: bij Eneco €17/maand, Vattenfall €22/maand, Essent €15/maand, Greenchoice €12/maand. Op jaarbasis: €144 tot €264 extra. Vanaf 2027 (saldering-stop) komt daar nog €450-€800 verlies bij."
   - q: "Worden de terugleverkosten in 2027 hoger?"
     a: "Ja, vrijwel zeker. De leveranciers verwachten meer onbalans-kosten omdat saldering wegvalt en negatieve prijzen vaker voorkomen. Marktanalyse: tarieven gaan in 2027 ongeveer 30-50% omhoog ten opzichte van 2026 niveau."
+  - q: '"Ik blijf wel bij mijn vaste contract, dat is veiliger"'
+    a: 'In 2026 nog: ja, dat is voorspelbaarder. In 2027: nee, want dan komen extra terugleverkosten erbij. Wacht niet tot je de eerste rekening met de nieuwe tarieven krijgt.'
+  - q: '"Dynamisch is te risicovol"'
+    a: 'Klopte tot 2024. Sinds 2025 zijn de prijsschommelingen meer voorspelbaar geworden door grotere batterijen op het net. Voor zonnepaneel-bezitters is het risico bovendien beperkt tot uren waarin je verbruikt — het overgrote deel van de tijd lever je terug, en dat gaat tegen marktprijs.'
+  - q: '"Ik wacht tot 2027 om te zien wat er gebeurt"'
+    a: 'Wachten kost je 8-12 maanden besparing. Nu overstappen levert al voordeel op vóór de saldering-stop ingaat.'
 products:
   - name: "Tibber dynamisch contract"
     url: "https://go.duurzaamthuislab.nl/tibber"
@@ -229,17 +235,6 @@ Met de saldering-stop per 1-1-2027 verandert ook de terugleverkosten-markt:
 4. **Meer subsidies voor batterij**: De overheid heeft aangekondigd dat de SDE++-subsidie voor thuisbatterijen wordt uitgebreid in 2027.
 
 Ons advies: kies nu een leverancier die past bij jouw profiel **en** die ook in 2027 redelijk blijft. De drie dynamische aanbieders (Tibber, Frank, ANWB) zijn de veiligste keuzes voor zonnepaneel-bezitters.
-
-## Veelgestelde fouten
-
-**1. "Ik blijf wel bij mijn vaste contract, dat is veiliger"**
-In 2026 nog: ja, dat is voorspelbaarder. In 2027: nee, want dan komen extra terugleverkosten erbij. Wacht niet tot je de eerste rekening met de nieuwe tarieven krijgt.
-
-**2. "Dynamisch is te risicovol"**
-Klopte tot 2024. Sinds 2025 zijn de prijsschommelingen meer voorspelbaar geworden door grotere batterijen op het net. Voor zonnepaneel-bezitters is het risico bovendien beperkt tot uren waarin je verbruikt — het overgrote deel van de tijd lever je terug, en dat gaat tegen marktprijs.
-
-**3. "Ik wacht tot 2027 om te zien wat er gebeurt"**
-Wachten kost je 8-12 maanden besparing. Nu overstappen levert al voordeel op vóór de saldering-stop ingaat.
 
 ## Rekenvoorbeeld: wat de keuze van leverancier concreet kost
 

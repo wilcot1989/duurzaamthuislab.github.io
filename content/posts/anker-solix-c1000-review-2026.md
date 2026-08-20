@@ -39,13 +39,13 @@ faq:
   a: De LiFePO4-batterij gaat circa 3000 laadcycli mee voordat de capaciteit naar 80% daalt. Bij wekelijks gebruik is dat meer dan 10 jaar.
 products:
 - name: Anker SOLIX C1000
-  url: https://www.anker.com/eu-en/products/a1761
+  url: https://go.duurzaamthuislab.nl/anker-solix
   price: '999'
 - name: EcoFlow Delta 2
-  url: https://nl.ecoflow.com/products/delta-2-portable-power-station
+  url: https://go.duurzaamthuislab.nl/ecoflow
   price: '999'
 - name: Jackery Explorer 1000 Plus
-  url: https://www.jackery.com/products/explorer-1000-plus-portable-power-station
+  url: https://go.duurzaamthuislab.nl/jackery
   price: '1199'
 schema_type: Review
 ---
@@ -313,7 +313,7 @@ Het station is minder geschikt als je heel veel apparaten tegelijk wilt draaien 
 
 De Anker SOLIX C1000 heeft een adviesprijs van **€899**. Regelmatig zijn er acties en kortingen, vooral tijdens Prime Day, Black Friday en via de officiële Anker-webshop.
 
-**[Bekijk de Anker SOLIX C1000 >>>](https://www.anker.com/eu-nl/collections/anker-solix)**
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/anker-solix-c1000-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker SOLIX C1000 →</a>
 
 Anker biedt ook bundelaanbiedingen aan met bijpassende zonnepanelen. Wil je de C1000 combineren met een zonnepaneel? Lees dan ook ons artikel over de [beste zonnepaneel-powerstation combinaties van 2026](/posts/beste-zonnepaneel-powerstation-combinatie-2026/).
 
@@ -327,7 +327,7 @@ De LiFePO4-batterij met 3000 cycli levensduur, de betrouwbare UPS-functie en de 
 
 Ja, de solar-input van 300W is beperkter dan sommige concurrenten en het aantal uitgangen is niet het hoogste in de klasse. Maar als je prioriteit geeft aan compactheid, snelheid en gebruiksgemak, dan is de Anker SOLIX C1000 een uitstekende keuze in 2026.
 
-**[Bestel de Anker SOLIX C1000 via onze link >>>](https://www.anker.com/eu-nl/collections/anker-solix)**
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/anker-solix-c1000-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bestel de Anker SOLIX C1000 via onze link →</a>
 
 Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor een bredere vergelijking.
 

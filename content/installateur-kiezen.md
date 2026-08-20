@@ -4,6 +4,15 @@ description: "Interactieve keuzehulp: vink af wat je installateur aantoonbaar op
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
+faq:
+- q: 'Is een erkenning wettelijk verplicht?'
+  a: 'Erkenningsregelingen zijn in de regel vrijwillig, maar niet zonder gevolgen: verzekeraars en subsidieregelingen kunnen als voorwaarde stellen dat het werk door een erkend bedrijf is uitgevoerd. Controleer daarom vóór de opdracht welke eis er in jouw geval geldt — bij de subsidieverstrekker en bij je woonverzekering.'
+- q: 'Wat als een installateur geen referentieadressen wil geven?'
+  a: 'Dat mag hij weigeren met een beroep op privacy van klanten. Vraag dan om een geanonimiseerd opleveringsdossier of foto''s van vergelijkbare projecten met datum. Wie helemaal niets kan laten zien, geeft daarmee zelf het antwoord.'
+- q: 'Hoeveel aanbetaling is te veel?'
+  a: 'Er is geen wettelijk maximum voor particuliere opdrachten van dit type, dus het is een onderhandelpunt. Het principe dat je vasthoudt: het bedrag dat je vooruitbetaalt is het bedrag dat je kunt kwijtraken. Zorg dat een substantieel deel pas na oplevering wordt betaald.'
+- q: 'Moet ik de installatie zelf opleveren?'
+  a: 'Ja, en leg vast wat "opgeleverd" betekent: systeem werkt, monitoring gekoppeld en uitleesbaar, documentatie en garantiebewijzen overhandigd, en bij een warmtepomp de inregelgegevens vastgelegd. Zonder die laatste heb je later geen referentiepunt als het rendement tegenvalt.'
 lastmod: 2026-08-20
 ---
 
@@ -156,17 +165,3 @@ De criteria hierboven gelden voor beide technieken. De techniekspecifieke vragen
 - [Beste zonnepanelen-installateur kiezen](/posts/beste-zonnepanelen-installateur-kiezen-2026/) — dakschouw, omvormerkeuze en wat er in een pv-offerte thuishoort
 - [Een goede warmtepomp-installateur vinden](/posts/best-warmtepomp-installateur-vinden-2026/) — warmteverliesberekening, dimensionering en inregelen
 - [Warmtepomp-installateur checklist](/posts/warmtepomp-installateur-checklist-2026/) — de volledige vragenlijst voor het gesprek aan tafel
-
-## Veelgestelde vragen
-
-**Is een erkenning wettelijk verplicht?**
-Erkenningsregelingen zijn in de regel vrijwillig, maar niet zonder gevolgen: verzekeraars en subsidieregelingen kunnen als voorwaarde stellen dat het werk door een erkend bedrijf is uitgevoerd. Controleer daarom vóór de opdracht welke eis er in jouw geval geldt — bij de subsidieverstrekker en bij je woonverzekering.
-
-**Wat als een installateur geen referentieadressen wil geven?**
-Dat mag hij weigeren met een beroep op privacy van klanten. Vraag dan om een geanonimiseerd opleveringsdossier of foto's van vergelijkbare projecten met datum. Wie helemaal niets kan laten zien, geeft daarmee zelf het antwoord.
-
-**Hoeveel aanbetaling is te veel?**
-Er is geen wettelijk maximum voor particuliere opdrachten van dit type, dus het is een onderhandelpunt. Het principe dat je vasthoudt: het bedrag dat je vooruitbetaalt is het bedrag dat je kunt kwijtraken. Zorg dat een substantieel deel pas na oplevering wordt betaald.
-
-**Moet ik de installatie zelf opleveren?**
-Ja, en leg vast wat "opgeleverd" betekent: systeem werkt, monitoring gekoppeld en uitleesbaar, documentatie en garantiebewijzen overhandigd, en bij een warmtepomp de inregelgegevens vastgelegd. Zonder die laatste heb je later geen referentiepunt als het rendement tegenvalt.

@@ -46,7 +46,7 @@ products:
   url: https://go.duurzaamthuislab.nl/jackery
   price: '499'
 - name: Anker SOLIX C300
-  url: https://www.anker.com/eu-en/products/a1722
+  url: https://go.duurzaamthuislab.nl/anker-solix
   price: '349'
 schema_type: Article
 ---
@@ -283,7 +283,7 @@ De snelle AC-laadtijd van **58 minuten tot 80%** en de hogere solar-input van 30
 
 De Anker SOLIX C800 biedt een indrukwekkende prijs-prestatieverhouding. Meer vermogen dan de River 2 Pro, sneller opladen dan de EB70S, en een prijs die voor de meeste kampeerders bereikbaar is. Een uitstekende keuze als je net iets meer wilt dan het absolute instapniveau.
 
-[Bekijk de Anker SOLIX C800 bij Anker](https://www.anker.com/eu-nl/collections/portable-power-stations) — met dit merk hebben wij geen commissie-afspraak, de link is een gewone verwijzing.
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-powerstation-camping-2026/" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker SOLIX C800 bij Anker</a> — dit is een affiliatelink via AWIN: koop je via deze link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.
 
 ---
 
