@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Stroomprijzen vandaag — DuurzaamThuisLab</title>
+<style>
+  body { margin:0; font:14px/1.5 system-ui,sans-serif; background:#faf7f0; color:#1a2b1f; }
+  .w { padding:12px 14px; }
+  .kop { display:flex; justify-content:space-between; align-items:baseline; gap:8px; margin-bottom:8px; }
+  .kop strong { font-size:.85rem; }
+  .kop span { font-size:.7rem; color:#777; }
+  .cijfers { display:flex; gap:14px; font-size:.8rem; margin-bottom:8px; flex-wrap:wrap; }
+  .cijfers b.min { color:#1a7a4a; } .cijfers b.max { color:#b03a3a; }
+  #wg-chart { display:flex; align-items:flex-end; gap:1.5px; height:56px; }
+  .voet { margin-top:8px; font-size:.7rem; }
+  .voet a { color:#c66e3f; text-decoration:none; font-weight:600; }
+</style>
+</head>
+<body>
+<div class="w">
+  <div class="kop"><strong>⚡ Stroomprijzen vandaag (per uur)</strong><span id="wg-gem">—</span></div>
+  <div class="cijfers"><span>Goedkoopst <b class="min" id="wg-min">—</b></span><span>Duurst <b class="max" id="wg-max">—</b></span></div>
+  <div id="wg-chart"></div>
+  <div class="voet">Bron: <a href="https://duurzaamthuislab.nl/stroomprijzen/?utm_source=widget" target="_blank" rel="noopener">DuurzaamThuisLab.nl — live stroomprijzen</a></div>
+</div>
+<script>
+fetch('https://beheer.wtdigital.nl/api/public/stroomprijzen').then(function(r){return r.json();}).then(function(d){
+  if(!d.uren||!d.uren.length)return;
+  function nl(u){var dt=new Date(d.datum+'T'+String(u).padStart(2,'0')+':00:00Z');return dt.toLocaleTimeString('nl-NL',{timeZone:'Europe/Amsterdam',hour:'2-digit',minute:'2-digit'});}
+  var p=d.uren.map(function(u){return u.prijs;});
+  var min=Math.min.apply(null,p),max=Math.max.apply(null,p),gem=p.reduce(function(a,b){return a+b;},0)/p.length;
+  var minU=d.uren.filter(function(u){return u.prijs===min;})[0],maxU=d.uren.filter(function(u){return u.prijs===max;})[0];
+  document.getElementById('wg-gem').textContent='gem. € '+gem.toFixed(3)+'/kWh';
+  document.getElementById('wg-min').textContent='€ '+min.toFixed(3)+' ('+nl(minU.uur)+')';
+  document.getElementById('wg-max').textContent='€ '+max.toFixed(3)+' ('+nl(maxU.uur)+')';
+  var span=(max-min)||1;
+  document.getElementById('wg-chart').innerHTML=d.uren.map(function(u){
+    var h=15+((u.prijs-min)/span)*85;
+    var k=u.prijs===min?'#1a7a4a':(u.prijs===max?'#b03a3a':'#0e7490');
+    return '<div title="'+nl(u.uur)+' — € '+u.prijs.toFixed(3)+'" style="flex:1;height:'+h.toFixed(0)+'%;background:'+k+';border-radius:1px;"></div>';
+  }).join('');
+}).catch(function(){});
+</script>
+</body>
+</html>

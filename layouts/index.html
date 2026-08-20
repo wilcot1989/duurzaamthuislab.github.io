@@ -24,6 +24,48 @@
   </div>
 </section>
 
+<!-- LIVE STROOMPRIJZEN-STRIP -->
+<section style="background:var(--ink);color:var(--cream);padding:1.1rem 0;border-bottom:1px solid rgba(250,247,240,.12);">
+  <div class="container wide" style="display:flex;flex-wrap:wrap;align-items:center;gap:1.25rem;justify-content:space-between;">
+    <div style="display:flex;align-items:center;gap:.9rem;min-width:0;">
+      <span id="hp-nu-dot" style="width:10px;height:10px;border-radius:50%;background:#888;flex-shrink:0;box-shadow:0 0 0 3px rgba(255,255,255,.08);"></span>
+      <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:rgba(250,247,240,.65);">Stroomprijs nu</div>
+      <div id="hp-nu" style="font-family:var(--display);font-size:1.35rem;font-weight:500;">—</div>
+      <div id="hp-nu-label" style="font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;padding:.2rem .6rem;border-radius:999px;background:rgba(250,247,240,.12);">laden…</div>
+    </div>
+    <div id="hp-spark" style="display:flex;align-items:flex-end;gap:1.5px;height:34px;flex:1;min-width:180px;max-width:420px;"></div>
+    <div style="display:flex;gap:1.5rem;font-size:.85rem;flex-wrap:wrap;">
+      <div><span style="color:rgba(250,247,240,.55);">Goedkoopst</span> <strong id="hp-min" style="color:#7ed6a5;">—</strong></div>
+      <div><span style="color:rgba(250,247,240,.55);">Duurst</span> <strong id="hp-max" style="color:#f2a1a1;">—</strong></div>
+    </div>
+    <a href="/stroomprijzen/" style="font-family:var(--mono);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--terracotta);white-space:nowrap;">Alle uurprijzen →</a>
+  </div>
+  <div id="hp-negatief" style="display:none;" class="container wide"><div style="margin-top:.8rem;background:var(--terracotta);color:var(--cream);padding:.6rem 1rem;border-radius:2px;font-weight:600;font-size:.9rem;">⚡ Vandaag negatieve stroomprijzen — je krijgt geld toe voor verbruik in de goedkoopste uren. <a href="/stroomprijzen/" style="color:var(--cream);text-decoration:underline;">Bekijk de uren</a></div></div>
+</section>
+<script>
+(function(){
+  fetch('https://beheer.wtdigital.nl/api/public/stroomprijzen').then(function(r){return r.json();}).then(function(d){
+    if(!d.uren||!d.uren.length)return;
+    var uurNu=parseInt(new Date().toLocaleString('nl-NL',{timeZone:'Europe/Amsterdam',hour:'2-digit',hour12:false}),10);
+    function nl(u){var dt=new Date(d.datum+'T'+String(u).padStart(2,'0')+':00:00Z');return dt.toLocaleTimeString('nl-NL',{timeZone:'Europe/Amsterdam',hour:'2-digit',minute:'2-digit'});}
+    var prijzen=d.uren.map(function(u){return u.prijs;});
+    var min=Math.min.apply(null,prijzen),max=Math.max.apply(null,prijzen),gem=prijzen.reduce(function(a,b){return a+b;},0)/prijzen.length;
+    var nu=null;d.uren.forEach(function(u){var lokaal=parseInt(nl(u.uur).split(':')[0],10);if(lokaal===uurNu)nu=u.prijs;});
+    if(nu===null)nu=prijzen[prijzen.length-1];
+    var el=function(id){return document.getElementById(id);};
+    el('hp-nu').textContent='€ '+nu.toFixed(3);
+    var band=nu<=min+(max-min)*0.33?['goedkoop','#1a7a4a','#7ed6a5']:(nu>=min+(max-min)*0.66?['duur','#8a2f2f','#f2a1a1']:['gemiddeld','#7a6a2f','#e8d48a']);
+    el('hp-nu-label').textContent='nu '+band[0];el('hp-nu-label').style.background=band[1];el('hp-nu-dot').style.background=band[2];
+    var minU=d.uren.filter(function(u){return u.prijs===min;})[0],maxU=d.uren.filter(function(u){return u.prijs===max;})[0];
+    el('hp-min').textContent='€ '+min.toFixed(3)+' ('+nl(minU.uur)+')';
+    el('hp-max').textContent='€ '+max.toFixed(3)+' ('+nl(maxU.uur)+')';
+    var span=(max-min)||1;
+    el('hp-spark').innerHTML=d.uren.map(function(u){var h=20+((u.prijs-min)/span)*80;var k=u.prijs===min?'#7ed6a5':(u.prijs===max?'#f2a1a1':'rgba(250,247,240,.45)');return '<div title="'+nl(u.uur)+' — € '+u.prijs.toFixed(3)+'" style="flex:1;height:'+h.toFixed(0)+'%;background:'+k+';border-radius:1px;"></div>';}).join('');
+    if(min<0){el('hp-negatief').style.display='block';}
+  }).catch(function(){});
+})();
+</script>
+
 <!-- STATS BAND -->
 {{ $allPosts := where .Site.RegularPages "Type" "posts" }}
 <section style="background:var(--forest);color:var(--cream);padding:clamp(3rem,8vh,5rem) 0;position:relative;overflow:hidden;">

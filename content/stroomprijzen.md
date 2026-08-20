@@ -18,6 +18,7 @@ Op deze pagina zie je de **dynamische stroomprijzen per uur** voor vandaag en (n
     <span id="sp-status" style="align-self:center;color:#666;font-size:.9rem;"></span>
   </div>
   <div id="sp-samenvatting" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.8rem;margin-bottom:1.2rem;"></div>
+  <div id="sp-acties" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.8rem;margin-bottom:1.2rem;"></div>
   <div id="sp-chart" style="display:flex;align-items:flex-end;gap:2px;height:180px;"></div>
   <div style="display:flex;justify-content:space-between;color:#888;font-size:.8rem;margin-top:.3rem;"><span>00:00</span><span>12:00</span><span>23:00</span></div>
   <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Kale EPEX-prijs incl. btw, excl. energiebelasting en de inkoopvergoeding van je leverancier. Bron: day-ahead-veiling, elk kwartier ververst.</p>
@@ -50,6 +51,22 @@ async function spLaad(dag){
       '<div style="background:#fff;border-radius:8px;padding:.8rem;border:1px solid #e0e0e0;"><div style="font-size:.8rem;color:#666;">Gemiddeld</div><div style="font-size:1.3rem;font-weight:700;">€ ' + gem.toFixed(3) + '</div><div style="font-size:.75rem;color:#888;">per kWh</div></div>' +
       '<div style="background:#e8f5ee;border-radius:8px;padding:.8rem;border:1px solid #b7dfc9;"><div style="font-size:.8rem;color:#1a7a4a;">Goedkoopste uur</div><div style="font-size:1.3rem;font-weight:700;">€ ' + min.toFixed(3) + '</div><div style="font-size:.75rem;color:#1a7a4a;">' + goedkoop + '</div></div>' +
       '<div style="background:#fdeeee;border-radius:8px;padding:.8rem;border:1px solid #f0c4c4;"><div style="font-size:.8rem;color:#b03a3a;">Duurste uur</div><div style="font-size:1.3rem;font-weight:700;">€ ' + max.toFixed(3) + '</div><div style="font-size:.75rem;color:#b03a3a;">' + duur + '</div></div>';
+    // Beste actiemomenten: goedkoopste blokken van 2 (was/droger) en 4 (EV) aaneengesloten uren
+    function goedkoopsteBlok(n){
+      var best = null, bestSom = Infinity;
+      for (var i = 0; i + n <= d.uren.length; i++){
+        var som = 0;
+        for (var j = i; j < i + n; j++) som += d.uren[j].prijs;
+        if (som < bestSom){ bestSom = som; best = i; }
+      }
+      return best === null ? null : { van: uurNL(d.uren[best].uur), tot: uurNL(d.uren[Math.min(best+n, d.uren.length-1)].uur), gem: bestSom / n };
+    }
+    var was = goedkoopsteBlok(2), ev = goedkoopsteBlok(4);
+    var actiesHtml = '';
+    if (was) actiesHtml += '<div style="background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:.8rem;"><div style="font-size:.8rem;color:#666;">🧺 Wasmachine / vaatwasser</div><div style="font-weight:700;">' + was.van + ' – ' + was.tot + '</div><div style="font-size:.75rem;color:#888;">goedkoopste 2 uur (gem. € ' + was.gem.toFixed(3) + ')</div></div>';
+    if (ev) actiesHtml += '<div style="background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:.8rem;"><div style="font-size:.8rem;color:#666;">🚗 EV / thuisbatterij laden</div><div style="font-weight:700;">' + ev.van + ' – ' + ev.tot + '</div><div style="font-size:.75rem;color:#888;">goedkoopste 4 uur (gem. € ' + ev.gem.toFixed(3) + ')</div></div>';
+    if (min < 0) actiesHtml += '<div style="background:#0e7490;color:#fff;border-radius:8px;padding:.8rem;"><div style="font-size:.8rem;opacity:.85;">⚡ Negatieve prijzen</div><div style="font-weight:700;">Je krijgt geld toe op ' + goedkoop + '</div><div style="font-size:.75rem;opacity:.85;">verschuif zoveel mogelijk verbruik</div></div>';
+    document.getElementById('sp-acties').innerHTML = actiesHtml;
     var span = (max - min) || 1;
     document.getElementById('sp-chart').innerHTML = d.uren.map(function(u){
       var h = 15 + ((u.prijs - min) / span) * 85;
@@ -72,6 +89,10 @@ De prijzen hierboven zijn de **kale inkoopprijzen** van de stroombeurs. Je lever
 De kale prijs bepaalt dus je *besparingskansen* (verschuiven naar goedkope uren), maar vergelijk aanbieders altijd op de totale opbouw. In onze [vergelijking van dynamische energiecontracten](/posts/dynamische-energiecontracten-vergelijking-2026/) zetten we de aanbieders naast elkaar; wie een thuisbatterij overweegt om op deze uurverschillen te handelen, vindt het rekenmodel in [dynamisch contract + thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
 <a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/stroomprijzen/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Frank Energie (dynamisch contract) →</a>
+
+## Deze prijzen op jouw website?
+
+Wij bieden een gratis embed-widget met de actuele uurprijzen — handig voor blogs, VvE-sites of installateurs. De embed-code staat op de [embed-pagina](/embed-codes/); de enige voorwaarde is dat de bronvermelding blijft staan.
 
 ## Veelgestelde vragen
 

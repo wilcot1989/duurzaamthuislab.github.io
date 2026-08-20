@@ -56,3 +56,16 @@ We tracken geen embeds. Je hoeft niets aan te vragen — gewoon embedden + credi
 ## Contact
 
 [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl)
+
+
+## Live stroomprijzen-widget (nieuw)
+
+Toon de actuele dynamische stroomprijzen per uur op je eigen site — automatisch elke dag ververst:
+
+```html
+<iframe src="https://duurzaamthuislab.nl/widget-stroomprijzen/"
+  width="100%" height="200" frameborder="0" loading="lazy"
+  title="Stroomprijzen vandaag — DuurzaamThuisLab"></iframe>
+```
+
+Voorwaarde voor gebruik: de bronvermelding met link naar duurzaamthuislab.nl blijft zichtbaar.
