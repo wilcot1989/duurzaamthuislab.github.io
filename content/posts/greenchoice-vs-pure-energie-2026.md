@@ -113,7 +113,7 @@ Voor een gemiddeld huishouden (3.000 kWh stroom, 1.200 m3 gas):
 
 Pure Energie zit gemiddeld 30-100 euro per jaar lager — niet wereldschokkend, maar wel structureel.
 
-Belangrijk: deze tarieven zijn momentopnames van 2026. Marktontwikkelingen, gascrisis-effecten en duurzaamheidsbelasting kunnen ze in beide richtingen bijstellen. Vraag altijd actuele tarieven op via <a href="https://go.duurzaamthuislab.nl/greenchoice" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">de Greenchoice-website</a> of de Pure Energie-website.
+Belangrijk: deze tarieven zijn momentopnames van 2026. Marktontwikkelingen, gascrisis-effecten en duurzaamheidsbelasting kunnen ze in beide richtingen bijstellen. Vraag altijd actuele tarieven op via <a href="https://go.duurzaamthuislab.nl/greenchoice" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">de Greenchoice-website</a> of de Pure Energie-website.
 
 ## Stroomherkomst — het echte verhaal
 
@@ -199,7 +199,7 @@ Voor een huishouden dat net een warmtepomp heeft laten plaatsen, valt de weegsch
 
 **Opzeggen bij oude leverancier hoeft niet.** De nieuwe leverancier neemt dat over. Ja, soms krijg je een lokservice-belletje van de oude leverancier. Een kort "de keuze is gemaakt, dank u" is voldoende.
 
-**Aanmeldbonus.** Beide leveranciers werken soms met aanmeldcadeaus (50-100 euro tegoed bij doorlopen jaar). Check de actuele actie via <a href="https://go.duurzaamthuislab.nl/greenchoice" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Greenchoice</a> en de Pure Energie-website.
+**Aanmeldbonus.** Beide leveranciers werken soms met aanmeldcadeaus (50-100 euro tegoed bij doorlopen jaar). Check de actuele actie via <a href="https://go.duurzaamthuislab.nl/greenchoice" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Greenchoice</a> en de Pure Energie-website.
 
 Voor de complete overstapprocedure zie [energieleverancier overstappen 2026 stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/).
 
@@ -226,7 +226,7 @@ Greenchoice en Pure Energie zijn allebei legitieme groene leveranciers. Greencho
 
 Voor de meeste consumenten is het prijsverschil te klein om doorslaggevend te zijn — kies op herkomstprincipe of servicebehoefte. Voor warmtepomp-bezitters met hoog verbruik kan het Greenchoice warmtepomp-tarief de doorslag geven; voor zonnepanelenbezitters met veel teruglevering wint Pure Energie meestal net.
 
-Bekijk de actuele tarieven en voorwaarden via <a href="https://go.duurzaamthuislab.nl/greenchoice" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Greenchoice</a> of de Pure Energie-website voor je definitieve keuze.
+Bekijk de actuele tarieven en voorwaarden via <a href="https://go.duurzaamthuislab.nl/greenchoice" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Greenchoice</a> of de Pure Energie-website voor je definitieve keuze.
 
 ## Wat te checken bij overweging
 

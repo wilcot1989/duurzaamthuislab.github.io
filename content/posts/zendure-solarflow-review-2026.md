@@ -131,7 +131,7 @@ Zendure verkoopt in Nederland meer dan alleen de SolarFlow 800. De relevante var
 
 De SolarFlow 2400 AC+ is het model dat het dichtst bij een echte thuisbatterij komt: die kan naast netgekoppeld werken ook 2400 W off-grid leveren, en dat is de functie die je bij een stroomstoring nodig hebt. De 800 W netgekoppelde grens blijft echter staan, want die komt uit de regelgeving en niet uit de hardware.
 
-<a href="https://go.duurzaamthuislab.nl/zendure?ref=/posts/zendure-solarflow-review-2026/" class="cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk het Zendure-assortiment</a> (gewone verwijzing, wij hebben met Zendure geen commissie-afspraak)
+<a href="https://go.duurzaamthuislab.nl/zendure?ref=/posts/zendure-solarflow-review-2026/" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk het Zendure-assortiment</a> (gewone verwijzing, wij hebben met Zendure geen commissie-afspraak)
 
 ## Wat levert het op? Twee modellen
 
@@ -199,4 +199,4 @@ Onze inschatting: voor huurders, appartementen en balkons is dit in 2026 de logi
 
 Overweeg je hetzelfde concept van de andere grote speler? Dan is de directe afweging te vinden in [Zendure SolarFlow versus EcoFlow PowerStream](/posts/zendure-vs-ecoflow-powerstream-2026/). En zoek je juist een verplaatsbaar station voor camping en noodstroom in plaats van vaste opslag, dan is de [EcoFlow Delta 2 review](/posts/ecoflow-delta-2-review-2026/) het andere uiterste van dit spectrum.
 
-<a href="https://go.duurzaamthuislab.nl/zendure?ref=/posts/zendure-solarflow-review-2026/" class="cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zendure SolarFlow</a> (gewone verwijzing, geen commissie-afspraak)
+<a href="https://go.duurzaamthuislab.nl/zendure?ref=/posts/zendure-solarflow-review-2026/" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zendure SolarFlow</a> (gewone verwijzing, geen commissie-afspraak)

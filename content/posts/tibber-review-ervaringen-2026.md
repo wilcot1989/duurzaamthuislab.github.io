@@ -265,7 +265,7 @@ De scores in de kolom App-kwaliteit zijn ons redactionele oordeel op basis van d
 
 Voor de gemiddelde duurzame Nederlander in 2026: **Tibber als je EV hebt, anders Frank Energie**. Beide zijn dynamisch zonder marge — het verschil zit in features.
 
-Voor wie net verhuist of zich op de saldering-stop voorbereidt: een dynamisch contract is maandelijks opzegbaar, dus je zit er niet aan vast. Of het in jouw geval voordeliger uitpakt, hangt af van je verbruikspatroon en van de prijzen in dat jaar — een besparing is geen gegeven. <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
+Voor wie net verhuist of zich op de saldering-stop voorbereidt: een dynamisch contract is maandelijks opzegbaar, dus je zit er niet aan vast. Of het in jouw geval voordeliger uitpakt, hangt af van je verbruikspatroon en van de prijzen in dat jaar — een besparing is geen gegeven. <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
 
 [Vergelijk dynamische contracten →](/posts/dynamische-energiecontracten-vergelijking-2026/)
 
@@ -397,7 +397,7 @@ Wat de ervaringen van gebruikers en de modelberekening samen laten zien: het voo
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
 ## Tibber in de winter: wat een koudegolf doet met je rekening
 

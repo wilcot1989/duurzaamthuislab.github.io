@@ -75,7 +75,7 @@ Dat is bewust: bij powerstations is de looptijd volledig te herleiden uit capaci
 
 De LiFePO4-chemie is belangrijk. Vergeleken met NMC-accu's (die je ziet in goedkopere modellen) is LiFePO4 stabieler bij hitte, minder brandgevoelig en houdt hij capaciteit veel beter over de jaren. 4000 cycli tot 70% betekent bij dagelijks gebruik ruim tien jaar, wat overeenkomt met de tienjaarsgarantie die Jackery erop geeft. Dat is een contractuele toezegging, geen marketingclaim — lees wel de garantievoorwaarden na op de uitzonderingen.
 
-<a href="https://go.duurzaamthuislab.nl/jackery" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk de huidige prijs van de Jackery 2000 Plus</a>
+<a href="https://go.duurzaamthuislab.nl/jackery" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk de huidige prijs van de Jackery 2000 Plus</a>
 
 ---
 
@@ -126,7 +126,7 @@ Bij camperbusgebruik draait het om de balans tussen dagverbruik en wat je zonnep
 
 Volgens de specificaties en gebruikersreviews is de unit bij lage belasting vrijwel onhoorbaar; de koelventilator wordt merkbaar bij hogere vermogens en is bij vol vermogen duidelijk hoorbaar — nog altijd stiller dan een brandstofaggregaat. Voor gebruik op een stille camping betekent dat: zware verbruikers overdag, niet 's nachts.
 
-<a href="https://go.duurzaamthuislab.nl/jackery" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Jackery 2000 Plus bestellen — bekijk aanbiedingen</a>
+<a href="https://go.duurzaamthuislab.nl/jackery" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Jackery 2000 Plus bestellen — bekijk aanbiedingen</a>
 
 ---
 
@@ -235,7 +235,7 @@ Rekenvoorbeeld: met 400W aan panelen haal je onder Nederlandse omstandigheden ni
 
 Zie de [vergelijking van zonnepaneel-powerstation combinaties 2026](/posts/beste-zonnepaneel-powerstation-combinatie-2026/) voor welke panelen bij welke ingang passen.
 
-<a href="https://go.duurzaamthuislab.nl/jackery" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Jackery 2000 Plus — bekijk bundels met zonnepanelen</a>
+<a href="https://go.duurzaamthuislab.nl/jackery" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Jackery 2000 Plus — bekijk bundels met zonnepanelen</a>
 
 ---
 
@@ -249,7 +249,7 @@ Voor camping, vanlife en noodstroom thuis is dit een verdedigbare keuze. Voor da
 
 Is X-Boost voor jou essentieel (vaatwasser of inductieplaat op vol vermogen), dan is de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) de betere keuze. Wegen levensduur en garantie zwaarder, dan de Jackery.
 
-<a href="https://go.duurzaamthuislab.nl/jackery" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Controleer de actuele prijs van de Jackery 2000 Plus</a>
+<a href="https://go.duurzaamthuislab.nl/jackery" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Controleer de actuele prijs van de Jackery 2000 Plus</a>
 
 ---
 

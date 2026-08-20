@@ -406,7 +406,7 @@ Als je 4 kWh nodig hebt, overweeg ook de Jackery Explorer 2000 Plus (2.042 Wh ba
 
 De EcoFlow Delta 2 Max heeft een adviesprijs van **€1.799**. Regelmatig zijn er acties waarbij je het station goedkoper kunt vinden, vooral tijdens Black Friday, Prime Day of via de officiële EcoFlow-webshop.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow Delta 2 Max</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow Delta 2 Max</a>
 
 Wil je het station combineren met zonnepanelen? EcoFlow biedt bundelaanbiedingen aan met hun opvouwbare zonnepanelen, wat vaak voordeliger is dan losse aanschaf.
 
@@ -420,11 +420,11 @@ Ja, de prijs is stevig. Maar je krijgt er een premium product voor terug dat dan
 
 Is het de *complete* powerstation? Bijna. De beperkte solar-input van 500W en het niet-waterbestendige ontwerp laten nog ruimte voor verbetering. Maar als je op zoek bent naar de beste balans tussen prestaties, snelheid en draagbaarheid, dan is de EcoFlow Delta 2 Max een uitstekende keuze.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow Delta 2 Max bij EcoFlow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow Delta 2 Max bij EcoFlow</a>
 
 Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor een bredere vergelijking.
 
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk EcoFlow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk EcoFlow</a>
 
 Twijfel je nog tussen de modellen? Lees de [EcoFlow Delta 2 review](/posts/ecoflow-delta-2-review-2026/) of de bredere gids [beste draagbare powerstation 2026](/posts/beste-draagbare-powerstation-2026/).

@@ -117,7 +117,7 @@ Het grote voordeel: 5 kWh voor €2.500 is **€500/kWh**. Sessy doet €5.500 v
 
 Lees ook: [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/) voor een grondigere technische analyse.
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek Venus →</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek Venus →</a>
 
 ## Alternatief 2: EcoFlow Delta Pro Ultra — backup-stroom in premium jasje
 
@@ -149,7 +149,7 @@ Het grootste nadeel: **5 jaar garantie** versus Sessy's 10 jaar. Voor een appara
 
 **Voor wie:** Gezin dat ook backup wil bij stroomuitval, of mensen die het apparaat soms meenemen. Niet de keuze als je puur op prijs/kWh optimaliseert.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk EcoFlow Delta Pro Ultra →</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk EcoFlow Delta Pro Ultra →</a>
 
 ## Alternatief 3: Anker SOLIX X1 — voor de Home Assistant-gebruiker
 
@@ -182,7 +182,7 @@ Bekijk ook: [Marstek Venus vs Anker SOLIX vergelijking](/posts/marstek-venus-vs-
 
 **Voor wie:** Tech-enthousiasten met Home Assistant, die zelf willen sturen op energieprijzen via een open platform. Niet voor wie een out-of-the-box ervaring zoekt.
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Anker SOLIX X1 →</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Anker SOLIX X1 →</a>
 
 ## Alternatief 4: Jackery — portable powerstation als instap
 
@@ -388,7 +388,7 @@ En als je toch twijfelt: lees dan eerst de volledige [Sessy review](/posts/sessy
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek Venus →</a> · <a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Anker SOLIX →</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek Venus →</a> · <a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Anker SOLIX →</a>
 
 ## Gerelateerde artikelen
 

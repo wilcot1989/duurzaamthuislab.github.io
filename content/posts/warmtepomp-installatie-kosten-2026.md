@@ -150,7 +150,7 @@ Via ISDE krijg je per warmtepomp 2.500-5.500 euro terug, afhankelijk van type en
 - Aanvraag binnen 24 maanden na installatie
 - Minimaal twee jaar in eigendom houden
 
-Veel installateurs nemen de aanvraag voor je over. Check de actuele bedragen via <a href="https://go.duurzaamthuislab.nl/isde" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">RVO ISDE-pagina</a> of lees [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/).
+Veel installateurs nemen de aanvraag voor je over. Check de actuele bedragen via <a href="https://go.duurzaamthuislab.nl/isde" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">RVO ISDE-pagina</a> of lees [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/).
 
 ## Voorbeeld-offerte gemiddeld rijtjeshuis
 

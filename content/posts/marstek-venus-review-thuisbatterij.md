@@ -449,7 +449,7 @@ Voor wie zonder installateur wil starten: Venus A is de enige plug-and-play opti
 
 Vergelijk zelf verder: [thuisbatterij-vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/) · [beste thuisbatterij 10 kWh](/posts/thuisbatterij-10-kwh-vergelijking-2026/) · [goedkoopste thuisbatterij](/posts/goedkoopste-thuisbatterij-2026/) · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/) · [Zonneplan alternatief →](/posts/zonneplan-thuisbatterij-review-2026/)
 
-Zoek je een vergelijkbaar modulair systeem van een fabrikant die wél een Nederlandse webshop en Nederlandstalige support heeft, dan is Zendure het dichtstbijzijnde alternatief in dit prijssegment: <a href="https://go.duurzaamthuislab.nl/zendure" class="cta-affiliate" rel="nofollow noopener" target="_blank">bekijk Zendure</a> (gewone verwijzing, wij hebben ook met Zendure geen commissie-afspraak).
+Zoek je een vergelijkbaar modulair systeem van een fabrikant die wél een Nederlandse webshop en Nederlandstalige support heeft, dan is Zendure het dichtstbijzijnde alternatief in dit prijssegment: <a href="https://go.duurzaamthuislab.nl/zendure" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">bekijk Zendure</a> (gewone verwijzing, wij hebben ook met Zendure geen commissie-afspraak).
 
 Omdat het arbitrage-voordeel van elke thuisbatterij volledig afhangt van de spread tussen de goedkoopste en duurste uren: die spread staat live op onze pagina met [dynamische stroomprijzen per uur](/stroomprijzen/).
 

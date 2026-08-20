@@ -289,7 +289,7 @@ ANBI-stichtingen en duurzaamheidsfondsen kunnen leningen verstrekken voor 0-1% r
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> · <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> · <a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Atag</a>
 
 ## Buurland-vergelijking: hoe scoren beide in België en Duitsland?
 

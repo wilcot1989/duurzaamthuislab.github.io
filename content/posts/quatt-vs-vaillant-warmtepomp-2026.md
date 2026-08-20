@@ -257,7 +257,7 @@ Praktische conclusie: met 38-42 dB heeft Quatt weinig marge tot de norm van 40 d
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Vaillant</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Vaillant</a>
 
 ## Wat gebruikers over storingen melden
 

@@ -207,7 +207,7 @@ De drie populairste in 2026:
 
 **Voor wie**: EV-bezitters, smart-home liefhebbers, mensen die graag automatiseren.
 
-[Lees onze Tibber review →](/posts/tibber-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Tibber</a>
+[Lees onze Tibber review →](/posts/tibber-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Tibber</a>
 
 ### Frank Energie
 
@@ -217,7 +217,7 @@ De drie populairste in 2026:
 
 **Voor wie**: Mensen die zelf hun verbruik prima sturen en de laagste prijs willen.
 
-[Lees onze Frank Energie review →](/posts/frank-energie-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
+[Lees onze Frank Energie review →](/posts/frank-energie-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
 
 ### ANWB Energie Dynamisch
 
@@ -459,7 +459,7 @@ Wachten tot 2027 om over te stappen levert je niets op behalve gemiste besparing
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 

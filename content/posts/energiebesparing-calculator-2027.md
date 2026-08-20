@@ -312,7 +312,7 @@ Heb je vragen over de uitkomst of mis je een variabele in het model? Laat een re
 *de redactie van DuurzaamThuisLab — april 2026*
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 

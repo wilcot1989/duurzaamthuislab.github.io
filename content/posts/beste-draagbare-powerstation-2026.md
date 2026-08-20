@@ -153,7 +153,7 @@ De **EcoFlow Delta 2 Max** is onze nummer 1 keuze voor 2026. Dit powerstation co
 
 De EcoFlow Delta 2 Max is verkrijgbaar vanaf **circa €1.799**.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-draagbare-powerstation-2026/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow Delta 2 Max</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow Delta 2 Max</a>
 
 ---
 
@@ -193,7 +193,7 @@ De **Jackery Explorer 2000 Plus** onderscheidt zich met een indrukwekkend contin
 
 De Jackery Explorer 2000 Plus is verkrijgbaar vanaf **circa €1.899**.
 
-<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-draagbare-powerstation-2026/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 2000 Plus</a>
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 2000 Plus</a>
 
 ---
 
@@ -233,7 +233,7 @@ De **Bluetti AC200MAX** biedt een sterke combinatie van capaciteit en functional
 
 De Bluetti AC200MAX is verkrijgbaar vanaf **circa €1.699**.
 
-<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-draagbare-powerstation-2026/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Bluetti AC200MAX</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Bluetti AC200MAX</a>
 
 ---
 
@@ -273,7 +273,7 @@ De **Anker SOLIX C1000** is een uitstekende keuze voor wie een betrouwbaar power
 
 De Anker SOLIX C1000 is verkrijgbaar vanaf **circa €899**.
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-draagbare-powerstation-2026/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker SOLIX C1000</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker SOLIX C1000</a>
 
 ---
 
@@ -313,7 +313,7 @@ Zoek je een powerstation dat je moeiteloos meeneemt op weekendtrips of als noods
 
 De EcoFlow River 2 Pro is verkrijgbaar vanaf **circa €649**.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-draagbare-powerstation-2026/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow River 2 Pro</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow River 2 Pro</a>
 
 ---
 
@@ -353,7 +353,7 @@ De **Jackery Explorer 1000 Plus** zit precies in het segment waar capaciteit en 
 
 De Jackery Explorer 1000 Plus is verkrijgbaar vanaf **circa €1.099**.
 
-<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-draagbare-powerstation-2026/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 1000 Plus</a>
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 1000 Plus</a>
 
 ---
 
@@ -394,7 +394,7 @@ De **Bluetti EB70S** bewijst dat een goed powerstation niet duur hoeft te zijn. 
 
 De Bluetti EB70S is verkrijgbaar vanaf **circa €549**.
 
-<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-draagbare-powerstation-2026/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Bluetti EB70S</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Bluetti EB70S</a>
 
 ---
 
@@ -543,4 +543,4 @@ Heb je liever een vast systeem dat gekoppeld is aan je zonnepanelen? Bekijk dan 
 Wil je weten welke merken het beste scoren? Lees onze diepgaande [EcoFlow vs Jackery vergelijking](/posts/ecoflow-vs-jackery-2026/).
 
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-draagbare-powerstation-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de EcoFlow-powerstations</a> · <a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-draagbare-powerstation-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de Jackery-powerstations</a> · <a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-draagbare-powerstation-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de Bluetti-powerstations</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de EcoFlow-powerstations</a> · <a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de Jackery-powerstations</a> · <a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de Bluetti-powerstations</a>

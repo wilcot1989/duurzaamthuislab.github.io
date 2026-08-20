@@ -381,10 +381,9 @@ Voor een tussenwoning uit de jaren zeventig met 82 m² spouwoppervlak komt glasv
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 ## Hoe lang duurt spouwmuurisolatie? Het verloop van de dag
 

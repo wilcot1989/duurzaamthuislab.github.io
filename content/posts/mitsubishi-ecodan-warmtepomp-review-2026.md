@@ -292,7 +292,7 @@ Voor wie haast heeft (cv-ketel kapot in winter): Mitsubishi minder geschikt. Voo
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/mitsubishi" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Mitsubishi Ecodan</a> · [Vaillant alternatief →](/posts/vaillant-arotherm-warmtepomp-review-2026/)
+<a href="https://go.duurzaamthuislab.nl/mitsubishi" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Mitsubishi Ecodan</a> · [Vaillant alternatief →](/posts/vaillant-arotherm-warmtepomp-review-2026/)
 
 ## Tapwater-prestaties
 

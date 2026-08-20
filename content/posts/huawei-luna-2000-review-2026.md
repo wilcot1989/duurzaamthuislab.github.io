@@ -424,7 +424,6 @@ Voor wie al een Huawei-omvormer heeft of bereid is om over te stappen, is de Lun
 **[Bekijk de Huawei Luna 2000 >>>](https://solar.huawei.com/nl/residential/luna2000)**
 
 
-<a href="https://go.duurzaamthuislab.nl/huawei-luna" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Huawei Luna</a>
+<a href="https://go.duurzaamthuislab.nl/huawei-luna" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Huawei Luna</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/huawei-luna" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Huawei Luna</a>

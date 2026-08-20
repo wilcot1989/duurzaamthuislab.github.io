@@ -404,7 +404,7 @@ Laat een gespecialiseerde installateur zoals [Zonneplan](https://go.duurzaamthui
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## De rol van de omvormer bij oost-west systemen
 

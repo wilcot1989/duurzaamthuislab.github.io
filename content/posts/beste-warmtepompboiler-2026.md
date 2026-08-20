@@ -432,10 +432,9 @@ Voor het scenario uit de inleiding — bestaande cv-ketel, zonnepanelen, veel te
 *Vragen over jouw specifieke situatie — welk model past bij jouw woning, zonnepanelen of huishoudgrootte? Laat een reactie achter.*
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

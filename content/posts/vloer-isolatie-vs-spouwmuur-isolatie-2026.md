@@ -263,10 +263,9 @@ Wie beide kan combineren, laat ze het beste in hetzelfde traject uitvoeren: bij 
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Meer isolatiemaatregelen en hun rendement
 

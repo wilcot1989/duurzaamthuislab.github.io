@@ -94,7 +94,7 @@ De buitenunit maakt geluid. Niet veel — moderne units zitten op 35-45 dB(A) op
 
 Een hybride combineert een kleinere lucht/water warmtepomp met een bestaande cv-ketel. De warmtepomp doet 70-85% van het werk; de cv-ketel springt bij op koude dagen en levert het warme tapwater. Voor de meeste Nederlandse rijtjeshuizen is dit het meest realistische instappunt.
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt vanaf €4.995</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt vanaf €4.995</a>
 
 ### Prijsopbouw hybride 2026
 
@@ -183,7 +183,7 @@ Hieronder de vijf merken die in Nederland het meest worden aangeboden. Bedragen 
 | Vaillant (aroTHERM plus) | €7.000 - €10.500 | €11.500 - €15.500 | Gebruikt R290 (propaan), zeer hoge SCOP | Beperkt installateursnetwerk |
 | Mitsubishi (Ecodan) | €6.000 - €9.000 | €11.000 - €14.000 | Betrouwbaar, lange staat van dienst | Iets gedateerd interface |
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Vraag Quatt-offerte aan</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Vraag Quatt-offerte aan</a>
 
 ### Welk merk voor wie?
 
@@ -235,6 +235,6 @@ Wat je werkelijk betaalt aan een warmtepomp in 2026 hangt van het type af, niet 
 
 Belangrijker dan het kiezen van een merk is het kiezen van het juiste type voor jouw woning, en het kritisch lezen van de offerte op verborgen kosten. Een goede installateur legt je dat uit zonder dat je erom hoeft te vragen. Doet hij dat niet — vraag een tweede offerte.
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Start met Quatt vanaf €4.995</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Start met Quatt vanaf €4.995</a>
 
 Voor de actuele ISDE-tarieven en aanvraagprocedure: [RVO ISDE subsidie](https://www.rvo.nl/subsidies-financiering/isde). Daar staan ook de geldige meldcodes en de exacte vermogenscategorieën per merk.

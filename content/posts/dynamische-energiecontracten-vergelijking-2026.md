@@ -415,10 +415,9 @@ Ongeacht welke leverancier je kiest: dit is de volgorde die wij aanraden.
 
 **Ons oordeel**: voor huishoudens die hun verbruik kunnen verschuiven — en zeker met zonnepanelen, een batterij of een elektrische auto — is een dynamisch contract een van de weinige stappen die geen investering vragen. De modelberekeningen in dit artikel komen bij de daar genoemde aannames uit op enkele honderden euro's verschil per jaar — een uitkomst van het model, geen belofte — en een dynamisch contract is de basis waarop slim laden en batterijsturing pas rendabel worden. Ben je niet bereid je verbruik aan te passen of wil je maandelijkse zekerheid, dan blijft een vast contract de rustiger keuze.
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 ---
 

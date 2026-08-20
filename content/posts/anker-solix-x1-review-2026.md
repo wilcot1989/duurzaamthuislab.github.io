@@ -388,7 +388,7 @@ Voor Tesla-rijders specifiek: kijk eerst naar Powerwall 3 + Tesla Wall Connector
 
 Voor mensen zonder EV: skip de X1. €4.000 te veel betalen voor functionaliteit die je nooit gebruikt is geen kunst.
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Anker Solix X1</a> · [Sessy Pro alternatief →](/posts/sessy-pro-15kwh-review-2026/)
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Anker Solix X1</a> · [Sessy Pro alternatief →](/posts/sessy-pro-15kwh-review-2026/)
 
 ---
 
@@ -402,7 +402,7 @@ Modulariteit en 12 kW vermogen zijn unieke voordelen. Software is goed, niet uit
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="nofollow sponsored noopener" target="_blank">Bekijk Anker Solix X1</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" rel="nofollow sponsored noopener" target="_blank">Bekijk Anker Solix X1</a>
 
 ## Gerelateerde artikelen
 

@@ -316,10 +316,9 @@ Doe de rooktest, breng je lekken in kaart, koop de juiste materialen (EPDM, acry
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Aanvullende materialen en gevorderde technieken
 

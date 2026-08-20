@@ -101,7 +101,7 @@ Easee is een Noors merk, opgericht in 2018, marktleider in Scandinavië en sinds
 
 **Solar-only laden**: met de Easee Equalizer aan de meter kun je instellen dat de paal pas inschakelt als je minstens 1,4 kW overschot hebt (1-fase) of 4,2 kW (3-fase). Werkt betrouwbaar, ook bij wisselende bewolking.
 
-<a href="https://go.duurzaamthuislab.nl/easee" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Easee</a>
+<a href="https://go.duurzaamthuislab.nl/easee" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Easee</a>
 
 ## Wallbox Pulsar Max review: design en bouwkwaliteit
 
@@ -298,7 +298,7 @@ Het profiel dat wij het vaakst tegenkomen: een woning met 1-fase aansluiting, zo
 
 Voor wie zelf overweegt: kijk eerst naar je situatie (aansluiting, kilometers, contract), dan pas naar het merk. Hardware-keuze is in 2026 secundair geworden aan de software-keten erachter.
 
-<a href="https://go.duurzaamthuislab.nl/easee" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Easee</a>
+<a href="https://go.duurzaamthuislab.nl/easee" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Easee</a>
 
 *Vragen over je eigen situatie? Stuur een mail naar [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 

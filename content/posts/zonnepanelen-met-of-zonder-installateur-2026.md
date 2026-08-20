@@ -296,7 +296,7 @@ Als je toch DIY overweegt: begin in elk geval met een plug-and-play balkonpaneel
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
 
 ## Welke DIY-fouten installateurs achteraf moeten herstellen
 

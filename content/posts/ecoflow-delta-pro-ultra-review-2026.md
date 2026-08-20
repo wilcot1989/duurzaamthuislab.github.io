@@ -380,7 +380,7 @@ Voor mensen in stedelijk NL met betrouwbare netaansluiting: skip de Delta Pro Ul
 
 Voor (semi-)off-grid situaties of recreatiewoningen: dit is in 2026 de beste keus op de markt. Multi-input, modulariteit en generator-integratie zijn unieke voordelen.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk EcoFlow Delta Pro Ultra</a> · [Sessy Pro alternatief →](/posts/sessy-pro-15kwh-review-2026/)
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk EcoFlow Delta Pro Ultra</a> · [Sessy Pro alternatief →](/posts/sessy-pro-15kwh-review-2026/)
 
 ---
 
@@ -394,7 +394,7 @@ Voor pure thuisbatterij-arbitrage: andere merken zijn 30-50% efficiënter. Voor 
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow sponsored noopener" target="_blank">Bekijk EcoFlow Delta Pro Ultra</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow sponsored noopener" target="_blank">Bekijk EcoFlow Delta Pro Ultra</a>
 
 ## Gerelateerde artikelen
 

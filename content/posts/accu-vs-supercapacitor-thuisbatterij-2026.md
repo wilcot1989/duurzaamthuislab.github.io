@@ -424,12 +424,12 @@ Niet via de ISDE. Die regeling geldt voor woningeigenaren uitsluitend voor isola
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Sessy thuisbatterij (LiFePO4)</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Sessy thuisbatterij (LiFePO4)</a>
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Marstek B5000 (LiFePO4)</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Marstek B5000 (LiFePO4)</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

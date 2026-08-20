@@ -273,7 +273,7 @@ Wel een kanttekening bij het rendement: op de modelmatige €85 tot €190 per j
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Wat voegt de EPEX-koppeling toe boven pure eigenverbruiksoptimalisatie?
 

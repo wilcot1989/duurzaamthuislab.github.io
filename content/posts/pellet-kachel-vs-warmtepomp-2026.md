@@ -400,10 +400,10 @@ Als de pelletkachel aan vervanging toe is: ga er dan niet in investeren. Laat he
 Een pelletkachel is in 2026 legaal, maar niet meer subsidiabel en financieel minder aantrekkelijk dan een warmtepomp over de levensduur. De luchtkwaliteitsimpact (fijnstof) en het groeiende wettelijke risico op stookbeperkingen maken het op de lange termijn een kwetsbare keuze. Voor een woning die klaar is voor een warmtepomp is de hybride warmtepomp in 2026 altijd de betere investering — met ISDE-subsidie, lagere totale kosten en nul gram fijnstof.
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk ATAG warmtepomp</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk ATAG warmtepomp</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

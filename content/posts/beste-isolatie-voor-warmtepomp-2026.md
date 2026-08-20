@@ -154,7 +154,7 @@ Voor een gemiddeld rijtjeshuis (label D, geen isolatie) kom ik op:
 
 Met ISDE-subsidie (30 procent terug op twee of meer maatregelen, max grensbedragen) en eventuele gemeentesubsidie kom je netto op 6.500-7.500 euro. De combinatie haalt je woning van label D naar label A of B, waardoor een warmtepomp daadwerkelijk efficient werkt.
 
-Bekijk je subsidiemogelijkheden via <a href="https://go.duurzaamthuislab.nl/isde" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">ISDE-subsidie checken</a> of lees [isolatie subsidie nederland 2026](/posts/isolatie-subsidie-nederland-2026/).
+Bekijk je subsidiemogelijkheden via <a href="https://go.duurzaamthuislab.nl/isde" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">ISDE-subsidie checken</a> of lees [isolatie subsidie nederland 2026](/posts/isolatie-subsidie-nederland-2026/).
 
 ## Mijn advies per woningtype
 

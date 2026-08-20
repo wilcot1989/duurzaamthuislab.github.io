@@ -311,7 +311,7 @@ Voor klein plat dak (30-40 m²) met 2-3 dakopeningen: bruikbaar oppervlak vaak s
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Zonneplan</a> · <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy thuisbatterij</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Zonneplan</a> · <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy thuisbatterij</a>
 
 ## Drainage en lekkage-risico
 

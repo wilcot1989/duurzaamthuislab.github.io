@@ -419,9 +419,9 @@ Voor mensen die al zonnepanelen hebben + dynamisch contract: kies een losse batt
 
 Twee dingen om vooraf op te vragen: het bedrag vóór btw-teruggave, en hoe de opbrengst uit de aansturing tussen jou en Zonneplan wordt verdeeld. Dat tweede staat niet op hun site.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan</a> (gewone verwijzing, geen commissie) · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/) · [thuisbatterij-vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/) · [beste thuisbatterij 10 kWh](/posts/thuisbatterij-10-kwh-vergelijking-2026/) · [goedkoopste thuisbatterij](/posts/goedkoopste-thuisbatterij-2026/)
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan</a> (gewone verwijzing, geen commissie) · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/) · [thuisbatterij-vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/) · [beste thuisbatterij 10 kWh](/posts/thuisbatterij-10-kwh-vergelijking-2026/) · [goedkoopste thuisbatterij](/posts/goedkoopste-thuisbatterij-2026/)
 
-Wil je de losse route — batterij zelf kiezen, dynamisch contract apart — dan is Zendure een modulair alternatief in het lagere prijssegment: <a href="https://go.duurzaamthuislab.nl/zendure" class="cta-affiliate" rel="nofollow noopener" target="_blank">bekijk Zendure</a> (ook hier geen commissie-afspraak). Hoeveel arbitrage zo'n opstelling oplevert, hangt volledig af van de dagspread: die staat live op onze pagina met [dynamische stroomprijzen per uur](/stroomprijzen/).
+Wil je de losse route — batterij zelf kiezen, dynamisch contract apart — dan is Zendure een modulair alternatief in het lagere prijssegment: <a href="https://go.duurzaamthuislab.nl/zendure" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">bekijk Zendure</a> (ook hier geen commissie-afspraak). Hoeveel arbitrage zo'n opstelling oplevert, hangt volledig af van de dagspread: die staat live op onze pagina met [dynamische stroomprijzen per uur](/stroomprijzen/).
 
 ---
 
@@ -436,7 +436,7 @@ Waar je scherp op moet zijn, is de opbrengstkant. Die is de motor van de busines
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan</a>
 
 ## Gerelateerde artikelen
 

@@ -236,10 +236,9 @@ Op basis van specificaties, prijzen en wat gebruikers rapporteren:
 Slimme thermostaten zijn een van de kleinste investeringen in de verduurzaming van een woning, met een van de kortste terugverdientijden — mits je uitgangssituatie ruimte laat voor winst. Wie nog een niet-geprogrammeerde thermostaat heeft, heeft hier de eerste stap te zetten.
 
 
-<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin</a>
 
 ---
 

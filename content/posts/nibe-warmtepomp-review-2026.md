@@ -368,7 +368,7 @@ Verzekering: Nibe-installatie is automatisch gedekt onder opstal-verzekering ("v
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/nibe" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Nibe</a> · [Mitsubishi Ecodan alternatief →](/posts/mitsubishi-ecodan-warmtepomp-review-2026/)
+<a href="https://go.duurzaamthuislab.nl/nibe" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Nibe</a> · [Mitsubishi Ecodan alternatief →](/posts/mitsubishi-ecodan-warmtepomp-review-2026/)
 
 ## Nibe Uplink en data-toegang
 

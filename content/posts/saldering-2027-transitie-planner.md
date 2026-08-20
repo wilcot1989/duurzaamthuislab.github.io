@@ -515,7 +515,7 @@ Heb je vragen over jouw specifieke situatie? Laat een reactie achter — wij rea
 *de redactie van DuurzaamThuisLab — april 2026*
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 ---
 

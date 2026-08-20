@@ -151,7 +151,7 @@ De **X-Boost technologie** verhoogt het effectieve vermogen tot 1600W, waarmee j
 
 De EcoFlow River 2 Pro is de ideale middenweg: licht genoeg om mee te nemen, krachtig genoeg voor alle standaard camping-apparaten, en met de snelste laadtijd in zijn klasse.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow River 2 Pro</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow River 2 Pro</a>
 
 ---
 
@@ -196,7 +196,7 @@ De **uitbreidbaarheid** is een uniek voordeel: met een extra Battery Pack vergro
 
 De Jackery Explorer 1000 Plus is ideaal als je langere kampeerperiodes plant, met een groter gezin kampeert, of de mogelijkheid wilt om uit te breiden. Het hogere gewicht is de trade-off voor significant meer capaciteit en vermogen.
 
-<a href="https://go.duurzaamthuislab.nl/jackery" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Jackery Explorer 1000 Plus</a>
+<a href="https://go.duurzaamthuislab.nl/jackery" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Jackery Explorer 1000 Plus</a>
 
 ---
 
@@ -239,7 +239,7 @@ De laadsnelheid via AC is met 100 minuten tot 80% niet de snelste, en de solar-i
 
 De Bluetti EB70S biedt uitstekende waar voor je geld. Het mist de snelle laadtijden en geavanceerde functies van duurdere modellen, maar voor de prijs is het een solide, betrouwbare camping-metgezel.
 
-<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Bluetti EB70S</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Bluetti EB70S</a>
 
 ---
 
@@ -326,7 +326,7 @@ De **X-Boost functie** verhoogt het effectieve vermogen naar 600W, waarmee je in
 
 De EcoFlow River 2 is geen krachtpatser, maar dat is ook niet de bedoeling. Het is het ideale powerstation voor kampeerders die licht willen reizen en voornamelijk kleine elektronica moeten opladen. Met een prijs van slechts **€249** is het bovendien de meest betaalbare optie.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow River 2</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow River 2</a>
 
 ---
 
@@ -419,4 +419,4 @@ Welk model je ook kiest, een goed powerstation maakt kamperen comfortabeler zond
 Overweeg je een groter model voor zowel camping als thuisgebruik? Lees dan ook onze diepgaande reviews van de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) en de [Jackery Explorer 2000 Plus](/posts/jackery-explorer-2000-plus-review-2026/).
 
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk EcoFlow</a> · <a href="https://go.duurzaamthuislab.nl/jackery" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Jackery</a> · <a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Bluetti</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk EcoFlow</a> · <a href="https://go.duurzaamthuislab.nl/jackery" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Jackery</a> · <a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Bluetti</a>

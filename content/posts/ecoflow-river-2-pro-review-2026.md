@@ -379,7 +379,6 @@ Als je meer capaciteit nodig hebt, bekijk dan de [EcoFlow Delta 2 Max](/posts/ec
 [Bekijk de EcoFlow River 2 Pro](https://www.ecoflow.com/nl/river-2-pro-portable-power-station)
 
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>

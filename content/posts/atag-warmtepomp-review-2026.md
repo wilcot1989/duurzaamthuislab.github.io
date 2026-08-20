@@ -354,10 +354,10 @@ Als je de absolute top wilt op SCOP-prestaties, ga dan naar Daikin. Als je wilt 
 
 Onze aanbeveling bij twijfel: kies ATAG, maar laat de installateur er ook een Intergas-offerte naast leggen. Valt het prijsverschil richting de duizend euro of meer, steek dat bedrag dan liever in extra isolatie — dat verlaagt de warmtevraag zelf, en dat levert op de lange termijn meer op dan een iets hogere SCOP op papier.
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ATAG ENERGION warmtepompen</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ATAG ENERGION warmtepompen</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 ## Levensduur en vervanging na 15 jaar
 

@@ -331,7 +331,7 @@ Op basis van profiel:
 
 **Klein huishouden, <1.500 kWh teruglevering**: Engie of Greenchoice. Lage vaste lasten, geen of beperkte terugleverkosten.
 
-**Gemiddeld, 1.500-3.500 kWh teruglevering**: **Tibber** of **Frank Energie**. Dynamisch contract = geen aparte terugleverkosten + arbitragevoordeel. <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Tibber</a> · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
+**Gemiddeld, 1.500-3.500 kWh teruglevering**: **Tibber** of **Frank Energie**. Dynamisch contract = geen aparte terugleverkosten + arbitragevoordeel. <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Tibber</a> · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
 
 **Groot, 3.500+ kWh teruglevering**: Frank Energie + thuisbatterij plannen. De combinatie is de enige die zowel terugleverkosten als saldering-pijn elimineert.
 
@@ -455,7 +455,7 @@ Per jaar verschilt het voordeel van een goede keuze al snel €150-€350 — bo
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 

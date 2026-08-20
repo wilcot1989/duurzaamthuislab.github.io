@@ -382,10 +382,9 @@ Een labelverbetering heeft ook financieel effect: woningen met een beter energie
 Een WTW-systeem is de logische volgende stap na isolatie. Het voorkomt dat je dure warmte verliest door ventilatie, verbetert je luchtkwaliteit en verhoogt je comfort. De investering is hoger dan isolatie (€3.000-€6.000), maar de combinatie van energiebesparing, gezondheid en comfort maakt het een waardevolle investering — vooral bij nieuwbouw of grote renovatie.
 
 
-<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant</a>
+<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant</a>
 
 ## Lees ook
 

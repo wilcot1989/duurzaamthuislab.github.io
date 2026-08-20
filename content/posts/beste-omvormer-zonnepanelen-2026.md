@@ -472,10 +472,9 @@ Het belangrijkste advies: kies een omvormer die past bij je huidige situatie en 
 Benieuwd welke thuisbatterij het beste bij jouw omvormer past? Lees ons complete overzicht van de [beste thuisbatterijen voor Nederland in 2026](/posts/beste-thuisbatterij-nederland-2026/).
 
 
-<a href="https://go.duurzaamthuislab.nl/huawei-luna" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Huawei Luna</a>
+<a href="https://go.duurzaamthuislab.nl/huawei-luna" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Huawei Luna</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/huawei-luna" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Huawei Luna</a>
 
 ---
 

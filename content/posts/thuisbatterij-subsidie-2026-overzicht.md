@@ -517,7 +517,7 @@ Om niets te vergeten, hier een praktische checklist:
 
 Voor Flevoland-bewoners is €500-€750 provinciale subsidie het enige echte kortingsinstrument dat nu bestaat — en daarmee ook het enige dat je niet moet laten liggen.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a>
 
 ---
 
@@ -535,7 +535,7 @@ Onze vuistregel: een batterij moet uit zichzelf rond te rekenen zijn. Lokale sub
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

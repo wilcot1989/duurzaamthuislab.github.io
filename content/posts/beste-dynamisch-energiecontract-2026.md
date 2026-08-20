@@ -109,7 +109,7 @@ Wat Tibber uniek maakt is de native auto-API. Bij een Tesla, Polestar, BMW i-ser
 
 Dit is een modelberekening: uitkomsten verschillen per verbruiksprofiel, en met gas erbij komt er nog €5,99/maand bij.
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a>
 
 ## Frank Energie — de Nederlandse no-nonsense optie
 
@@ -141,7 +141,7 @@ Wat Frank wél heeft: telefonische klantenservice. Voor wie 60-plus is of geen z
 
 Dit is een modelberekening. Twee posten ontbreken bewust omdat wij ze niet publiek konden verifiëren: Franks vaste kosten en de terugleverkosten volgens hun staffel (geldig vanaf 1 juni 2025). Vul die van frankenergie.nl in voordat je de besparing hard maakt.
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>
 
 ## ANWB Energie Dynamisch — de variant met vlakke maandlasten
 
@@ -307,7 +307,7 @@ Onze inschatting: met twee elektrische auto's in huis is de auto-API van Tibber 
 
 Wat je ook kiest: stap nú over. Elke maand uitstel kost je gemiddeld €40-€80. Vergelijk op de [Autoriteit Consument & Markt ConsuWijzer](https://www.consuwijzer.nl/energie) onafhankelijke informatie over je rechten bij overstap.
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> &nbsp; <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> &nbsp; <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>
 
 *Vragen over jouw specifieke situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 

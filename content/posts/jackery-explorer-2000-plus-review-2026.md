@@ -408,7 +408,6 @@ De modulaire aanpak maakt het bijzonder aantrekkelijk: begin met het basisstatio
 Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor meer opties.
 
 
-<a href="https://go.duurzaamthuislab.nl/jackery" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Jackery</a>
+<a href="https://go.duurzaamthuislab.nl/jackery" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Jackery</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/jackery" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Jackery</a>

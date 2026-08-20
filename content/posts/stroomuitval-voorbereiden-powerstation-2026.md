@@ -355,7 +355,7 @@ Bekijk ons complete [overzicht van de beste draagbare powerstations van 2026](/p
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>
 
 ## Wanneer is een aggregaat beter dan een powerstation?
 
@@ -438,4 +438,4 @@ Als een netbeheerder een spanningspiek veroorzaakt die jouw apparaat beschadigt,
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>

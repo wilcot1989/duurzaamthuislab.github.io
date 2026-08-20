@@ -441,7 +441,7 @@ Vloerverwarming in een bestaande woning is geen sciencefiction meer. De dry-syst
 *Disclosure: wij hebben geen affiliate- of commissierelatie met ATAG (stand augustus 2026); de links naar ATAG zijn gewone verwijzingen. Prijzen zijn indicatief en gebaseerd op publieke marktinformatie van begin 2026.*
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

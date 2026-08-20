@@ -449,10 +449,9 @@ Neem de tijd. Vraag drie offertes. Gebruik de checklist uit dit artikel. Laat je
 Een zonnepaneel-installatie is een investering van €7.000-€12.000 die 25 jaar meegaat. Doe je huiswerk voor je tekent, en het zal een van de beste financiële beslissingen van je leven zijn.
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

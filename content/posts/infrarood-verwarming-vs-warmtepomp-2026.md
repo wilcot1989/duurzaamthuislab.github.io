@@ -154,7 +154,7 @@ Lees [dynamisch vs vast contract 2026](/posts/dynamisch-vs-vast-contract-2026/) 
 
 ## Subsidies en financiering
 
-Voor een warmtepomp krijg je 2.500-5.500 euro ISDE-subsidie en vaak nog gemeentelijke aanvullingen. Bekijk je opties via <a href="https://go.duurzaamthuislab.nl/isde" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">RVO ISDE-pagina</a>.
+Voor een warmtepomp krijg je 2.500-5.500 euro ISDE-subsidie en vaak nog gemeentelijke aanvullingen. Bekijk je opties via <a href="https://go.duurzaamthuislab.nl/isde" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">RVO ISDE-pagina</a>.
 
 Voor infrarood is geen ISDE beschikbaar. Sommige gemeentes hebben een algemene duurzaamheidslening waarmee je IR-panelen kunt financieren tegen 1,5-2,5 procent rente. Maar lenen om dure stroom te verbruiken is geen goede strategie.
 

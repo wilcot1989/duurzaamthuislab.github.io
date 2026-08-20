@@ -192,7 +192,7 @@ Prijspeil augustus 2026 op de Nederlandse EcoFlow-webshop:
 
 De bundel met de extra accu is rekenkundig de interessantste: €350 voor 1024 Wh extra komt op €0,34 per Wh, ruim onder de €0,58 per Wh van het losse station. Wie twijfelt tussen de Delta 2 Max en de Delta 2, kan met die bundel op 2048 Wh uitkomen voor ruim de helft van de adviesprijs van de Max — met als verschil dat het continu vermogen op 1800 W blijft staan.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-delta-2-review-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow Delta 2</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-delta-2-review-2026/" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow Delta 2</a>
 
 ## Conclusie
 
@@ -202,4 +202,4 @@ De grenzen zijn even duidelijk: een koelkast een etmaal laten doorlopen lukt nie
 
 Zoek je juist die tweede route — zonne-overschot opslaan in plaats van stroom meenemen — dan is een plug-in-systeem met batterij de vergelijking die je moet maken. Die staat in onze [Zendure SolarFlow review](/posts/zendure-solarflow-review-2026/) en in de directe vergelijking [Zendure SolarFlow versus EcoFlow PowerStream](/posts/zendure-vs-ecoflow-powerstream-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-delta-2-review-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk het EcoFlow-assortiment</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-delta-2-review-2026/" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk het EcoFlow-assortiment</a>

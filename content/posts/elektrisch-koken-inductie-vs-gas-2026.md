@@ -373,10 +373,10 @@ De overstap van gas naar inductie is een van de makkelijkste verduurzamingsstapp
 Ons advies: begin met de kookplaat. Het is de kleinste investering met het snelste resultaat, je merkt direct dat gasloos koken geen belemmering is, en het is de stap die de volgende stappen (warmtepomp, gasaansluiting opzeggen) mogelijk maakt.
 
 
-<a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Bosch</a>
+<a href="https://go.duurzaamthuislab.nl/bosch" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Bosch</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 ## Lees ook
 

@@ -287,7 +287,7 @@ Slechte dakkapel-isolatie kan het energielabel actief verslechteren. Een dakkape
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk verduurzamen →</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk verduurzamen →</a>
 
 ## Conclusie: het verschil tussen dakraam en dakkapel als isolatieproject
 
@@ -302,7 +302,7 @@ En als je toch een nieuwe dakkapel laat plaatsen: bestel de houtnerf-HSB-variant
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
 
 ## Energielabel-verbetering in de praktijk: wat levert dit op?
 

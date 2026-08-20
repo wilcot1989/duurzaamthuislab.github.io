@@ -334,7 +334,7 @@ Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
 
 ## Vier toepassingen die vaak worden vergeten
 
@@ -424,4 +424,4 @@ De app voegt echte waarde toe: op afstand laadstatus bekijken, laadsnelheid verl
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>

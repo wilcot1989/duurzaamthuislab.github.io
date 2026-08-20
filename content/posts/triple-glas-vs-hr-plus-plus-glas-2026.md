@@ -144,7 +144,7 @@ Voor een woning met 14 m2 te vervangen glas:
 
 Veel gemeentes geven daar bovenop nog 5-15 procent extra. Check je gemeentelijke subsidies — soms maakt het de meerprijs voor triple alsnog rendabel.
 
-Voor de complete subsidiegids zie [isolatie subsidie nederland 2026](/posts/isolatie-subsidie-nederland-2026/) en bekijk de actuele <a href="https://go.duurzaamthuislab.nl/isde" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">ISDE-subsidievoorwaarden</a>.
+Voor de complete subsidiegids zie [isolatie subsidie nederland 2026](/posts/isolatie-subsidie-nederland-2026/) en bekijk de actuele <a href="https://go.duurzaamthuislab.nl/isde" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">ISDE-subsidievoorwaarden</a>.
 
 ## Praktische aandachtspunten bij vervanging
 

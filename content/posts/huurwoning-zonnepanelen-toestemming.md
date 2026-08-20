@@ -237,10 +237,9 @@ Als je als huurder met zonnepanelen ook gaat verhuizen — of als je overweegt o
 Huren is geen reden om niet te verduurzamen. Het vraagt alleen een andere aanpak.
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
 
 ## Gerelateerde artikelen
 

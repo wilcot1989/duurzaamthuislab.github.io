@@ -304,7 +304,7 @@ Voor wie zijn cv-ketel wil houden: **Itho HP-Hybrid** is van alle Nederlandse hy
 
 Voor wie absolute top-COP wil: kies Daikin. Voor wie scherpste prijs wil: kies ATAG of Intergas. Voor wie complete NL-pakket wil met service: Itho is moeilijk te verslaan.
 
-<a href="https://go.duurzaamthuislab.nl/itho-daalderop" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Itho Daalderop warmtepompen</a> · <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ATAG (alternatief)</a>
+<a href="https://go.duurzaamthuislab.nl/itho-daalderop" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Itho Daalderop warmtepompen</a> · <a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ATAG (alternatief)</a>
 
 ---
 

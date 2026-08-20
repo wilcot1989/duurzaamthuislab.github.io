@@ -280,7 +280,7 @@ Sessy en Marstek komen op hetzelfde totaal (24/30) maar via heel andere criteria
 
 **Rendement:** Bij dynamisch contract en goed profiel: €750-€900/jr besparing → terugverdientijd 7-9 jaar.
 
-[Lees de volledige Sessy review →](/posts/sessy-review-thuisbatterij-nederland/) · <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a>
+[Lees de volledige Sessy review →](/posts/sessy-review-thuisbatterij-nederland/) · <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a>
 
 ## 2. Marstek Venus E 8,2 kWh — beste prijs-kwaliteit
 
@@ -300,7 +300,7 @@ Sessy en Marstek komen op hetzelfde totaal (24/30) maar via heel andere criteria
 
 **Rendement:** €700-€840/jr → terugverdientijd 3-4 jaar.
 
-[Lees de Marstek Venus review →](/posts/marstek-venus-review-thuisbatterij/) · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a>
+[Lees de Marstek Venus review →](/posts/marstek-venus-review-thuisbatterij/) · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a>
 
 ## 3. Zonneplan 10 kWh — beste alles-in-één
 
@@ -321,7 +321,7 @@ Sessy en Marstek komen op hetzelfde totaal (24/30) maar via heel andere criteria
 
 **Rendement:** Lease-pakket netto €30-€100/maand voordeel afhankelijk van profiel. Koop: €700-€900/jr besparing → terugverdientijd 8-10 jaar.
 
-[Lees de Zonneplan review →](/posts/zonneplan-thuisbatterij-review-2026/) · <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Zonneplan</a>
+[Lees de Zonneplan review →](/posts/zonneplan-thuisbatterij-review-2026/) · <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Zonneplan</a>
 
 ## 4. Tesla Powerwall 3 — beste voor groot verbruik + Tesla EV
 
@@ -364,7 +364,7 @@ Sessy en Marstek komen op hetzelfde totaal (24/30) maar via heel andere criteria
 
 **Rendement:** €750-€950/jr → terugverdientijd 8-9 jaar.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk EcoFlow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk EcoFlow</a>
 
 ## 6. Huawei Luna 2000 (10 kWh) — beste DC-gekoppelde optie
 
@@ -525,7 +525,7 @@ De saldering-stop maakt deze keuze **kritisch** — wie tot 2027 wacht, betaalt 
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

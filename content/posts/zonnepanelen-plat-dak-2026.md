@@ -443,10 +443,9 @@ Als de ruimte onder het dak geconditioneerd is (kantoor, woonruimte), leidt een 
 Zonnepanelen op een plat dak zijn een goede investering: in de modelberekeningen hierboven komt de terugverdientijd uit tussen vier en zes jaar, afhankelijk van je eigen verbruik en de energieprijzen. Kies oost-west als je maximaal wilt opwekken op een beperkt dak, of zuid als opbrengst per paneel prioriteit heeft. Een ballastsysteem is voor de meeste daken de veiligste en voordeligste keuze.
 
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
 
 ## Lees ook
 

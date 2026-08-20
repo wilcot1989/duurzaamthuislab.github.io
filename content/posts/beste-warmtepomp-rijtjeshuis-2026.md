@@ -119,7 +119,7 @@ Voor wie zijn cv-ketel helemaal eruit wil. 8 kW vermogen, SCOP 4,3, geluidsnivea
 - App heeft beperkte data-export (geen CSV, geen API)
 - Bij vroege storingen soms 5-10 dagen wachttijd op monteur
 
-Voor 80% van de rijtjeshuizen is Quatt All-In het verstandigste startpunt. <a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a>
+Voor 80% van de rijtjeshuizen is Quatt All-In het verstandigste startpunt. <a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a>
 
 ## Atag review: degelijk Nederlands alternatief
 
@@ -233,7 +233,7 @@ Bij een gemiddelde gasrekening van €1.800/jaar (1.500 m³ × €1,20) en stroo
 
 Meer details over de subsidie? [ISDE 2026 complete uitleg →](/posts/isde-subsidie-warmtepompen-2026/)
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a>
 
 ## Voor wie is welke warmtepomp slim?
 
@@ -347,7 +347,7 @@ Vermijd Mitsubishi Ecodan in tussenwoningen — te luid op de erfgrens. Mijd ook
 
 Combineer je warmtepomp met een dynamisch energiecontract zoals [Tibber](/posts/tibber-review-ervaringen-2026/), dan kun je hem laten draaien op goedkope uren en bespaar je nog eens €100-€200 per jaar extra.
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a>
 
 *Vragen over jouw specifieke situatie? Mail ons op [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl) met je huistype, bouwjaar en gasverbruik — dan denken wij graag mee.*
 

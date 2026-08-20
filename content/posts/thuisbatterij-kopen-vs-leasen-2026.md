@@ -410,7 +410,7 @@ Een eenvoudig keuzemodel voor wie twijfelt. Beantwoord deze vijf vragen eerlijk:
 
 [Volledige Sessy review →](/posts/sessy-review-thuisbatterij-nederland/) · [Marstek review →](/posts/marstek-venus-review-thuisbatterij/) · [Zonneplan review →](/posts/zonneplan-thuisbatterij-review-2026/)
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Zonneplan</a>
 
 ---
 
@@ -427,7 +427,7 @@ Voor 70% van Nederlandse huishoudens met een gezond cashflow en geen verhuisplan
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

@@ -358,7 +358,7 @@ Bespaart gemiddeld €1.500-€3.500 + voorkomt service-stress. Effectief loon: 
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt vaste-prijs</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Vraag Vaillant offerte</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt vaste-prijs</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Vraag Vaillant offerte</a>
 
 ## Vragen die je nooit moet vergeten
 

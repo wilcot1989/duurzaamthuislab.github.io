@@ -400,12 +400,12 @@ Dit is een lastig vraagstuk. Een lucht-water warmtepomp vereist een buitenunit, 
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Daikin Altherma 3 warmtepomp</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Daikin Altherma 3 warmtepomp</a>
 
-<a href="https://go.duurzaamthuislab.nl/bosch" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Bosch Compress warmtepomp</a>
+<a href="https://go.duurzaamthuislab.nl/bosch" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Bosch Compress warmtepomp</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

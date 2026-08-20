@@ -391,7 +391,7 @@ Als je nu al nadenkt over een warmtepomp, is het kiezen van een dynamisch contra
 *Disclosure: deze pagina bevat affiliate-links. Onze beoordeling is gebaseerd op de publieke tariefbladen en voorwaarden van de aanbieders, de EPEX day-ahead-marktdata en geverifieerde gebruikersreviews. Prijzen en tarieven zijn gebaseerd op publieke informatie van begin 2026 en kunnen zijn gewijzigd.*
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 

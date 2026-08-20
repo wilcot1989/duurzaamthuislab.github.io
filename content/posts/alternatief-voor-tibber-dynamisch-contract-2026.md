@@ -113,7 +113,7 @@ Overweeg je een thuisbatterij? Lees dan ook onze [Sessy review — thuisbatterij
 - Je hebt geen EV of een EV-merk dat niet native met Tibber integreert
 - Je wil een Nederlands bedrijf steunen
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie dynamisch →</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie dynamisch →</a>
 
 Wil je de twee direct naast elkaar? [Frank Energie vs Tibber — volledige vergelijking](/posts/frank-energie-vs-tibber-2026/)
 
@@ -146,7 +146,7 @@ ANWB Energie heeft een basisintegratie met laadpalen, maar geen native auto-API-
 - Je woont in een koude regio (Groningen, Drenthe) waar koudegolven vaker voorkomen
 - Je bent ouder en prefereert een vertrouwd Nederlands bedrijf met breed klantenservicenetwerk
 
-<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ANWB Energie dynamisch →</a>
+<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ANWB Energie dynamisch →</a>
 
 Uitgebreide vergelijking: [Tibber vs ANWB Energie dynamisch](/posts/tibber-vs-anwb-energie-dynamisch-2026/) en [ANWB Energie dynamisch review](/posts/anwb-energie-dynamisch-review-2026/)
 
@@ -325,7 +325,7 @@ Voor iedereen die twijfelt: de ACM's [ConsuWijzer energievergelijker](https://ww
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Ga naar Frank Energie — het beste Tibber-alternatief →</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Ga naar Frank Energie — het beste Tibber-alternatief →</a>
 
 *Vragen over je eigen situatie? Stuur een mail naar [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 

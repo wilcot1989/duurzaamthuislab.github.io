@@ -147,7 +147,7 @@ Marstek is in 2025 in NL gelanceerd via Coolblue en is direct de prijs-disruptor
 
 Lees de [Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/) voor de volledige specificatie-analyse.
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek Venus E</a> · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/)
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek Venus E</a> · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/)
 
 ## Tesla Powerwall 3 — €11.000 voor 13,5 kWh
 
@@ -257,9 +257,9 @@ Op basis van de prijsanalyse hierboven:
 - **Wil je alles van één partij + geen cash uitleg?** → **Zonneplan lease**.
 - **Heb je Tesla auto + groot huis + €11.000 budget?** → **Tesla Powerwall 3**.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy (€5.500, 10 kWh, excl. installatie)</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy (€5.500, 10 kWh, excl. installatie)</a>
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek Venus E (vanaf €2.500)</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek Venus E (vanaf €2.500)</a>
 
 ## Een woord over wisselende prijzen
 
@@ -287,7 +287,7 @@ Terug naar de vier offertes uit de inleiding. Voor 80 procent van de Nederlandse
 
 *Vragen over jouw situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a>
 
 ## Gerelateerde artikelen
 

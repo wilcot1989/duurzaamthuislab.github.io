@@ -78,7 +78,7 @@ Eerst de technische specificaties (fabrieksopgave):
 
 De 2700W power-lift modus is bedoeld voor weerstandsbelasting met een hoge aanloopstroom; de harde limiet voor continue belasting is 1800W. Dat verschil is belangrijk bij de keuze: een koelkast trekt bij het aanslaan van de compressor kortdurend veel meer dan zijn nominale vermogen.
 
-<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Bluetti AC180 prijs</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Bluetti AC180 prijs</a>
 
 ---
 
@@ -106,7 +106,7 @@ De USB-C PD-poort levert volgens de specificaties 100W en kan daarmee een modern
 
 Het gewicht van 17 kg is de belangrijkste praktische beperking bij mobiel gebruik: er zijn geen wielen en er is één draaggreep. Bij de [beste powerstation voor vanlife](/posts/beste-powerstation-vanlife-2026/) staan grotere modellen met rolwielen, maar die zijn zwaarder en duurder.
 
-<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bestel de Bluetti AC180 bij Bluetti EU</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bestel de Bluetti AC180 bij Bluetti EU</a>
 
 ---
 
@@ -152,7 +152,7 @@ Drie modellen die in dit segment het vaakst tegen elkaar worden afgezet. Alle wa
 
 **Onze inschatting:** op laadsnelheid en opgegeven cyclusaantal staat de Bluetti AC180 voorop, op gewicht de Jackery, en op app-functionaliteit en UPS de EcoFlow. Zoek je in dit capaciteitssegment de snelste lader en is een Bluetooth-app voldoende, dan is de AC180 de sterkste keuze.
 
-<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Vergelijk de Bluetti AC180 prijzen</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Vergelijk de Bluetti AC180 prijzen</a>
 
 ---
 
@@ -203,7 +203,7 @@ De beperkingen zijn eveneens duidelijk: geen echte UPS-modus, geen wifi, en 17 k
 
 Wil je een groter systeem voor thuisopslag vergelijken? Kijk dan naar het rekenmodel voor [dynamisch contract met thuisbatterij](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/) of de vergelijking van de [Anker Solix C1000](/posts/anker-solix-c1000-review-2026/) en de [Goal Zero Yeti 6000X](/posts/goal-zero-yeti-6000x-review-2026/) als je grotere capaciteit nodig hebt.
 
-<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk de actuele prijs van de Bluetti AC180</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk de actuele prijs van de Bluetti AC180</a>
 
 ---
 

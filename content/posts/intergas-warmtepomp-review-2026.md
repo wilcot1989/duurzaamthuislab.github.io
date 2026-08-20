@@ -293,7 +293,7 @@ Voor wie een andere ketel heeft die nog goed werkt: **wacht of kies anders**. Sw
 
 In de referentiesituatie is de keuze verdedigbaar: de 16 jaar oude ketel was sowieso aan vervanging toe, waardoor de all-in oplossing van €4.000 netto logisch uitpakt. Het model komt uit op €350 tot €450 besparing per jaar bij een geïntegreerd systeem dat volgens de fabrikant 10 jaar of langer meegaat.
 
-<a href="https://go.duurzaamthuislab.nl/intergas" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Intergas warmtepompen</a> · <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ATAG (alternatief)</a>
+<a href="https://go.duurzaamthuislab.nl/intergas" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Intergas warmtepompen</a> · <a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ATAG (alternatief)</a>
 
 ## FAQ extra
 

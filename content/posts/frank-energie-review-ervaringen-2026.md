@@ -308,7 +308,7 @@ Voor de gemiddelde Nederlandse zonnepaneelbezitter is Frank Energie in 2026 de s
 
 Voor EV-bezitters die niet zelf willen instellen: kies Tibber. Hoeveel de native EV-integratie oplevert, hangt af van je jaarkilometers en de spreiding tussen nacht- en dagtarief; reken dat uit met je eigen verbruik in plaats van met een standaardbedrag.
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/posts/frank-energie-review-ervaringen-2026/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk het dynamische tarief van Frank Energie</a> · [Tibber review →](/posts/tibber-review-ervaringen-2026/)
+<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/posts/frank-energie-review-ervaringen-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk het dynamische tarief van Frank Energie</a> · [Tibber review →](/posts/tibber-review-ervaringen-2026/)
 
 ---
 
@@ -421,7 +421,7 @@ Voor wie zonnepanelen heeft en zich op de afbouw van de saldering voorbereidt, i
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/posts/frank-energie-review-ervaringen-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk Frank Energie</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/posts/frank-energie-review-ervaringen-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk Frank Energie</a>
 
 ## Onze aanbeveling voor specifieke huishoudprofielen
 

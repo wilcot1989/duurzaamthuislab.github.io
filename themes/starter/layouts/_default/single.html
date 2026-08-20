@@ -81,7 +81,7 @@
       {{ range .Params.faq }}
       <details class="faq-item">
         <summary>{{ .q }}</summary>
-        <p>{{ .a }}</p>
+        <div>{{ .a | markdownify }}</div>
       </details>
       {{ end }}
     </div>

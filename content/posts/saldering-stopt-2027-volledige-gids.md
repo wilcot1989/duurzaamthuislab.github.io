@@ -293,9 +293,9 @@ Als je nu zonnepanelen hebt en geen actie onderneemt, kost de saldering-stop je 
 
 **Onze drie aanbevelingen, in volgorde van impact-per-euro:**
 
-1. **Overweeg een dynamisch contract.** Tibber of Frank Energie. Geen investering nodig; bij een gunstig verbruiksprofiel is 10-25% lagere stroomkosten haalbaar. Frank Energie vinden wij sterk op transparantie van de prijsopbouw, Tibber op app-gemak en slim laden. <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
+1. **Overweeg een dynamisch contract.** Tibber of Frank Energie. Geen investering nodig; bij een gunstig verbruiksprofiel is 10-25% lagere stroomkosten haalbaar. Frank Energie vinden wij sterk op transparantie van de prijsopbouw, Tibber op app-gemak en slim laden. <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
 
-2. **Bij groot teruglevervolume: thuisbatterij.** Huawei Luna 2000 en Tesla Powerwall zijn de bekendste internationale opties; Sessy is een Nederlands alternatief met Nederlandse service. Welke past, hangt af van je teruglevering en avondverbruik. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy thuisbatterij</a>
+2. **Bij groot teruglevervolume: thuisbatterij.** Huawei Luna 2000 en Tesla Powerwall zijn de bekendste internationale opties; Sessy is een Nederlands alternatief met Nederlandse service. Welke past, hangt af van je teruglevering en avondverbruik. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy thuisbatterij</a>
 
 3. **Verlaag je teruglevering door slim verbruik.** Vaatwasser overdag, EV overdag laden, boiler op zon-uren. Gratis, gemiddeld 15-25% effect. Met een [P1-monitor](/posts/beste-energiemonitor-p1-meter-2026/) krijg je inzicht.
 
@@ -323,7 +323,7 @@ Voor de meeste huishoudens is **dynamisch contract + gedragsverandering** de sli
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 

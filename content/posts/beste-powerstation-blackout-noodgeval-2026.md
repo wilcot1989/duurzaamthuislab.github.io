@@ -124,7 +124,7 @@ Het meest onderscheidende kenmerk: de Delta Pro heeft een Smart Home Panel waarm
 
 **Voor wie:** Gezinnen met CV-ketel en inductie die 12+ uur willen overbruggen, of mensen die de powerstation ook als semi-permanente home-backup willen gebruiken.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk EcoFlow Delta Pro prijs</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk EcoFlow Delta Pro prijs</a>
 
 Zie ook onze uitgebreide [EcoFlow Delta 2 Max review](/posts/ecoflow-delta-2-max-review-2026/) en de [EcoFlow vs Jackery vergelijking](/posts/ecoflow-vs-jackery-2026/) als je twijfelt tussen de merken.
 
@@ -149,7 +149,7 @@ De 4000 cycli zijn bij LiFePO4-standaard erg goed — beter dan de meeste NMC-co
 
 **Voor wie:** Huishoudens zonder inductie die nu klein willen starten maar op termijn misschien uitbreiden. Ook interessant als je de unit ook voor [camping](/posts/beste-powerstation-camping-2026/) of [vanlife](/posts/beste-powerstation-vanlife-2026/) wilt gebruiken.
 
-<a href="https://go.duurzaamthuislab.nl/jackery" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Jackery Explorer 2000 Plus prijs</a>
+<a href="https://go.duurzaamthuislab.nl/jackery" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Jackery Explorer 2000 Plus prijs</a>
 
 ---
 
@@ -172,7 +172,7 @@ Als je thuis werkt met een desktopcomputer en twee beeldschermen, of als je een 
 
 **Voor wie:** Thuiskantoren met servers, NAS of gevoelige apparatuur. Grotere huishoudens die op termijn 6–18 kWh willen. Mensen die dagelijks energie-arbitrage willen doen naast noodstroom.
 
-<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Bluetti AC500 + B300S prijs</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Bluetti AC500 + B300S prijs</a>
 
 Zie ook onze [Bluetti AC200Max review](/posts/bluetti-ac200max-review-2026/) voor het kleinere model als de AC500 te groot is.
 
@@ -195,7 +195,7 @@ Anker heeft GaN-technologie verwerkt in de laadelectronica, wat zorgt voor minde
 
 **Voor wie:** Huishoudens die snel willen kunnen opladen en geen behoefte hebben aan schaalbaarheid. Ook interessant als tweede unit naast een grotere powerstation, voor extra laadcapaciteit voor apparaten.
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Anker Solix F2000 prijs</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Anker Solix F2000 prijs</a>
 
 Zie ook onze [Anker Solix C1000 review](/posts/anker-solix-c1000-review-2026/) voor het kleinere model.
 
@@ -218,7 +218,7 @@ Toch is er een duidelijk minpunt: de Goal Zero heeft de slechtste prijs-per-kWh-
 
 **Voor wie:** Wie absoluut de meeste capaciteit wil zonder modulaire constructie, en niet elke jaar de accu tot op de bodem rijdt. Of voor vakantiehuizen en cabins zonder netstroom.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk alternatief: EcoFlow Delta Pro prijs</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk alternatief: EcoFlow Delta Pro prijs</a>
 
 Zie ook onze [Goal Zero Yeti 6000X review](/posts/goal-zero-yeti-6000x-review-2026/) voor meer detail over dit model.
 
