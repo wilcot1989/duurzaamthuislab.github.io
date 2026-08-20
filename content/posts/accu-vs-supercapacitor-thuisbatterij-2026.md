@@ -1,7 +1,7 @@
 ---
 title: Accu vs supercapacitor thuisbatterij 2026
 date: 2026-06-29 10:00:00+01:00
-lastmod: 2026-06-29 10:00:00+01:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Lithium vs nieuwe accu-technologieën — wanneer relevant, wat is hype, wat werkt nu al voor Nederlandse huishoudens.
 categories:
 - thuisbatterijen
@@ -21,7 +21,7 @@ keywords:
 - nieuwe batterij technologie thuisopslag
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Zijn supercapacitors beter dan lithium-batterijen voor thuis?
@@ -47,11 +47,11 @@ products:
   price: '3499'
 schema_type: Article
 ---
-Een technisch onderlegde kennis stuurde me vorig jaar een link naar een Kickstarter-project: "Mark, ze beloven een thuisbatterij op basis van supercapacitors. 1.000.000 laadcycli! Moet ik wachten?" Ik keek naar de specificaties, deed mijn rekenwerk en stuurde hem terug: nee, dit is niet wat het lijkt.
+Crowdfundingprojecten die een thuisbatterij op basis van supercapacitors beloven — met een miljoen laadcycli — duiken elk jaar opnieuw op. De vraag die daarbij hoort: moet je wachten op de volgende generatie opslagtechnologie, of is de huidige LiFePO4-techniek al goed genoeg?
 
-Het is een terugkerende vraag die ik stel aan mezelf en anderen: moet je wachten op de volgende generatie batterij-technologie, of is de huidige LiFePO4-technologie al goed genoeg? Dit artikel geeft een eerlijk antwoord.
+Het antwoord zit in de specificaties, en die vallen bij supercapacitors precies verkeerd uit voor thuisgebruik. Dit artikel legt uit waarom.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via deze links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 
@@ -276,7 +276,7 @@ Producten die dit doen: Qucik (Duits bedrijf) werkt aan supercapacitor-buffered 
 
 ## Praktisch advies voor 2026
 
-Mijn aanbevelingen:
+Onze aanbevelingen:
 
 **Als je nu een thuisbatterij wilt:** Kies LiFePO4 (Sessy, Marstek, BYD HVS, Pylontech). Dit is de bewezen, veilige, gesubsidieerde keuze met een uitgebreid installateurnetwerk.
 
@@ -314,7 +314,7 @@ In de praktijk doen de meeste thuisbatterijen niet elke dag een volledige cyclus
 
 ### Hoe levensduur te maximaliseren
 
-De beste praktijken die ik zelf toepas en adviseer:
+De praktijken die wij aanbevelen:
 
 1. **Laad niet boven 90%** tenzij je de volledige capaciteit nodig hebt
 2. **Ontlaad niet onder 10-15%** bij regelmatig gebruik
@@ -396,7 +396,7 @@ Alle bovengenoemde producten gebruiken LiFePO4-chemie. NMC-thuisbatterijen zijn 
 
 ---
 
-## Vragen die ik regelmatig krijg over batterij-technologie
+## Veelgestelde vragen over batterij-technologie
 
 **"Ik heb gelezen dat grafeen-supercapacitors alles gaan veranderen. Klopt dat?"**
 

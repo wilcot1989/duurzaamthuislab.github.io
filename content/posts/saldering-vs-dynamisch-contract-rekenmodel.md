@@ -1,7 +1,7 @@
 ---
 title: 'Saldering vs dynamisch contract: welke is voordeliger na'
 date: 2026-05-01 08:00:00+02:00
-lastmod: 2026-05-01 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Concrete vergelijking tussen vast contract met saldering-stop en dynamisch contract na 2027. Per huishoudprofiel doorgerekend met actuele cijfers.
 categories:
 - energie
@@ -20,7 +20,7 @@ keywords:
 - rekenmodel dynamisch contract
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Wat is het belangrijkste verschil tussen vast en dynamisch contract?
@@ -54,11 +54,9 @@ products:
   price: '0'
 schema_type: Article
 ---
-In oktober 2025 stond ik voor de keus. Mijn vaste contract bij een grote leverancier liep af. Hernieuwen voor 2 jaar tegen 32 cent per kWh, of overstappen naar dynamisch waar ik geen idee had wat ik zou betalen. Mijn vrouw vond het een gok.
+Een vast contract verlengen tegen 32 cent per kWh, of overstappen naar dynamisch zonder te weten wat je gaat betalen? Voor huishoudens met zonnepanelen is dat sinds de aangekondigde saldering-stop de belangrijkste financiële keuze van het jaar. Het verschil loopt bij gangbare profielen op tot enkele honderden euro's per jaar — en na 2027 wordt dat verschil groter, niet kleiner.
 
-Acht maanden later weet ik het zeker: de overstap was de beste financiële beslissing van vorig jaar. Ik bespaar gemiddeld €40 per maand — €480 per jaar — vergeleken met wat ik bij vast had betaald. En dat is met saldering nog actief. Vanaf 2027, als de saldering wegvalt, wordt het verschil **nog veel groter**.
-
-In dit artikel reken ik door wat de keus tussen vast en dynamisch concreet betekent voor zes verschillende huishoudprofielen, na 2027.
+Dit artikel rekent door wat de keus tussen vast en dynamisch concreet betekent voor zes verschillende huishoudprofielen, vóór en na 2027.
 
 *Cijfers gebaseerd op gemiddelde marktprijzen 2025-2026 en projecties voor 2027 op basis van energieagenda RVO.*
 
@@ -71,9 +69,9 @@ In dit artikel reken ik door wat de keus tussen vast en dynamisch concreet betek
 >
 > Bij een vast contract betaal je een vast tarief per kWh, contractueel afgesproken voor 1-3 jaar. Bij dynamisch contract verandert het tarief per uur op basis van de groothandelsmarkt. In zonzomer-uren kunnen prijzen negatief zijn (jij krijgt geld voor afnemen), in piekuren 's avonds kunnen ze 4× hoger zijn dan een vast tarief.
 
-## Het rekenmodel: hoe ga ik te werk?
+## Het rekenmodel: de aannames op tafel
 
-Voor een eerlijke vergelijking heb ik een rekenmodel gemaakt dat per huishoudprofiel berekent:
+Voor een eerlijke vergelijking rekent het model hieronder per huishoudprofiel:
 
 1. **Verbruikspatroon** per uur van de dag (wanneer wordt stroom gebruikt?)
 2. **Productiepatroon** zonnepanelen (zonuren, oost-west of zuid)
@@ -81,9 +79,9 @@ Voor een eerlijke vergelijking heb ik een rekenmodel gemaakt dat per huishoudpro
 4. **Vaste contract** met saldering tot eind 2026, daarna terugleververgoeding
 5. **Terugleverkosten** verschillen per leverancier
 
-Voor de **dynamische berekening** gebruik ik 2025 marktdata van EPEX day-ahead prijzen Nederland, omgerekend naar 2026 verwachting. De prijzen kennen seizoenspatroon (zomer goedkoper) en uurpatroon (middag laag, avond hoog).
+Voor de **dynamische berekening** is 2025-marktdata gebruikt van de EPEX day-ahead prijzen voor Nederland, omgerekend naar 2026-verwachting. De prijzen kennen seizoenspatroon (zomer goedkoper) en uurpatroon (middag laag, avond hoog).
 
-Voor **2027 projectie** ga ik uit van:
+Voor de **2027-projectie** gelden deze aannames:
 - Saldering volledig weg
 - Terugleververgoeding gemiddeld €0,10/kWh bij vast contract
 - Terugleverkosten bij vaste contracten +30% vs 2026 (Eneco, Vattenfall, Essent)
@@ -165,7 +163,7 @@ Voor **2027 projectie** ga ik uit van:
 
 **Conclusie**: Dit is het enige profiel waar in 2026 vast contract goedkoper is — door lage afname in dure piekuren weinig effect en weinig zonneoverschot. Vanaf 2027 keert het om door wegvallende saldering.
 
-### Profiel 6: Mijn eigen huis (Mark, voor referentie)
+### Profiel 6: warmtepompwoning met oost-west-panelen
 
 - **Verbruik**: 4.500 kWh/jr (warmtepomp + 2 personen)
 - **Patroon**: spreiding overdag (thuiswerker), pieken avond
@@ -175,10 +173,10 @@ Voor **2027 projectie** ga ik uit van:
 |---|---|---|
 | Vast contract Eneco | €1.040 | €1.880 |
 | Vast contract Greenchoice | €980 | €1.760 |
-| Dynamisch Frank Energie (mijn keus) | €620 | €1.040 |
+| Dynamisch Frank Energie | €620 | €1.040 |
 | **Voordeel dynamisch** | **€360-420** | **€720-840** |
 
-**Conclusie**: In 2026 al €420 verschil. Vanaf 2027 (zonder maatregelen) €840 verschil. Met thuisbatterij die ik in november 2025 plaatste, scheelt het nog meer.
+**Conclusie**: in 2026 al €420 verschil, vanaf 2027 (zonder maatregelen) €840 verschil. Met een thuisbatterij erbij loopt dat verder op — zie de gecombineerde berekening verderop.
 
 ## De rekensom op één regel
 
@@ -195,7 +193,7 @@ Eerlijk: er zijn drie situaties waarin een vast contract slimmer kan zijn:
 2. **Onmogelijk om verbruik te sturen** — bijvoorbeeld bij medische apparatuur die continu draait, ongeacht tarief
 3. **Risicoavers + budget streng** — als €30 verschil in een dure maand mentaal veel doet, geeft een vast contract gemoedsrust
 
-Voor profielen 1, 3 en 5 zou ik in alle scenario's dynamisch aanraden. Voor profiel 2 en 4 ook. Profiel 5 enkel vanaf 2027.
+Voor de profielen 1 tot en met 4 komt dynamisch in alle scenario's als goedkoopste uit het model. Profiel 5 pas vanaf 2027.
 
 ## Welk dynamisch contract kies je?
 
@@ -209,7 +207,7 @@ De drie populairste in 2026:
 
 **Voor wie**: EV-bezitters, smart-home liefhebbers, mensen die graag automatiseren.
 
-[Lees mijn Tibber review →](/posts/tibber-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Tibber</a>
+[Lees onze Tibber review →](/posts/tibber-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Tibber</a>
 
 ### Frank Energie
 
@@ -219,7 +217,7 @@ De drie populairste in 2026:
 
 **Voor wie**: Mensen die zelf hun verbruik prima sturen en de laagste prijs willen.
 
-[Lees mijn Frank Energie review →](/posts/frank-energie-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
+[Lees onze Frank Energie review →](/posts/frank-energie-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
 
 ### ANWB Energie Dynamisch
 
@@ -319,7 +317,7 @@ Het sterkste scenario is combineren:
 - Besparing bovenop dynamisch contract: ~€450/jaar extra
 - Totale besparing vs vast contract zonder batterij: **€900+/jaar**
 
-Dit is het scenario waarvoor ik zelf gekozen heb. Dynamisch contract + batterij is voor grote installaties de gouden combinatie.
+Dynamisch contract plus batterij is bij grote installaties de combinatie die in dit model het meeste oplevert.
 
 ## Hoe je de overstap naar dynamisch aanpakt: stap voor stap
 
@@ -342,7 +340,7 @@ Na 4-8 weken is de overstap afgerond. De eerste rekening bij dynamisch kan verra
 
 **Valkuil:** Als je een lopend vast contract hebt dat nog 8 maanden loopt, betaal je bij vroegtijdige opzegging soms een boete (€50-€200). In dat geval: opzeggingsdatum markeren in agenda en dan op dat moment direct overstappen.
 
-## Mijn aanbeveling
+## Onze aanbeveling
 
 Op basis van je profiel:
 
@@ -362,20 +360,19 @@ Op basis van je profiel:
 
 Het echte voordeel van dynamisch zit niet alleen in de tarieven, maar in de combinatie met slimme apparaten. Elke keer dat je een apparaat automatisch laat draaien op het goedkoopste moment, pik je extra waarde.
 
-**Mijn eigen setup (referentie):**
-- **Tibber-account** gekoppeld aan slimme meter via P1-kabel + HomeWizard Energy
+**Een voorbeeldopzet (referentie):**
+- **Tibber-account** gekoppeld aan de slimme meter via P1-kabel + HomeWizard Energy
 - **Vaatwasser**: start via slimme stekker (Shelly Plug S) als zonnepanelen meer leveren dan het huis verbruikt — automatisch getriggerd door HomeAssistant
 - **EV (plug-in hybrid)**: laadt via Tibber smart charging 's nachts, nooit tussen 17:00 en 21:00
 - **Warmtepomp-boiler**: timer 11:30-14:00 actief in de zomer (zon-piek)
 - **Thuisbatterij (Huawei Luna)**: modus "maximaal eigen verbruik overdag", valt 's avonds terug naar netlevering
 
-**Mijn gemiddelde maandkosten (november 2025 - maart 2026, 5 maanden gemiddeld):**
-- Afname van net: 180 kWh/maand
-- Effectief betaald: €42/maand energiecomponent (exclusief netbeheer)
-- Mijn vaste tarief zou zijn geweest: 180 × €0,32 = €57,60/maand
-- **Besparing door automatisering**: €15,60/maand = €187/jaar
+**Wat zo'n opzet in het model doet** (winterhalfjaar, 180 kWh netafname per maand):
+- Effectief betaald bij dynamisch: circa €42/maand energiecomponent (exclusief netbeheer)
+- Bij een vast tarief van €0,32/kWh: 180 × €0,32 = €57,60/maand
+- **Verschil door verschuiven van verbruik**: circa €15,60/maand = €187/jaar
 
-Bovenop het basissvoordeel van dynamisch (geen terugleverkosten) dus. Kleine moeite: HomeAssistant instellen kostte me twee zondagen.
+Dat komt bovenop het basisvoordeel van dynamisch (geen aparte terugleverkosten). De inspanning zit vooral in de eenmalige configuratie van de automatisering — reken op een paar avonden werk.
 
 ---
 
@@ -410,7 +407,7 @@ Stel nooit een apparaat in om onbeperkt te laden. Gebruik een tijdsvenster: "Laa
 Koelkast, verlichting, router — die lopen altijd door. Dat zijn 150-300 Wh per uur bij een gemiddeld huishouden. Zelfs bij €1,50/kWh kost dat €0,23-€0,45/uur. Eén uur dure stroom voegt €0,20 extra toe aan je maandrekening — verwaarloosbaar.
 
 **Bescherming 3: Thuisbatterij als buffer**
-Met een thuisbatterij laad je overdag goedkoop op (zon of lage marktprijs) en ontlaad je 's avonds bij hogere prijzen. Je raakt nooit de piekprijzen voor je basisverbruik. Dat is precies hoe mijn Huawei Luna werkt.
+Met een thuisbatterij laad je overdag goedkoop op (zon of lage marktprijs) en ontlaad je 's avonds bij hogere prijzen. Je raakt nooit de piekprijzen voor je basisverbruik. Dat is precies waarvoor de laad-/ontlaadlogica van systemen als de Huawei Luna of Sessy is gemaakt.
 
 **Bescherming 4: Prijsmelding-app**
 Tibber en Frank sturen push-notificaties als de prijs boven een door jou ingesteld niveau gaat. Zo weet je altijd wanneer het duur is en kun je aanpassen.
@@ -419,7 +416,7 @@ Tibber en Frank sturen push-notificaties als de prijs boven een door jou ingeste
 
 ## De combinatie: dynamisch + batterij = maximaal rendement
 
-Ik heb eerder het individuele voordeel van dynamisch (per profiel) en de stapsgewijze opbrengst van een batterij apart doorgerekend. Laten we ze combineren.
+Hierboven zijn het individuele voordeel van dynamisch (per profiel) en de opbrengst van een batterij apart doorgerekend. Hieronder de combinatie.
 
 **Situatie:** Profiel 2 (gezin, 12 panelen, 4.200 kWh verbruik, 1.400 kWh teruglevering per jaar)
 
@@ -457,7 +454,7 @@ De keus tussen Tibber en Frank is vooral een kwestie van of je wel of geen autom
 
 Wachten tot 2027 om over te stappen levert je niets op behalve gemiste besparingen. Stap nu over en pak nog 8 maanden besparing voor de saldering-stop ingaat.
 
-*Specifieke berekening voor jouw profiel? Stuur me je verbruik (jaarcijfer + paneelvermogen) en ik reken het door voor je: [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Specifieke berekening voor jouw profiel? Stuur je verbruik (jaarcijfer + paneelvermogen) naar [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl) — wij rekenen het door.*
 
 ---
 

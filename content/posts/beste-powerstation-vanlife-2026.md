@@ -1,7 +1,7 @@
 ---
 title: 'Beste Powerstation voor Vanlife 2026: Top 5 voor Campers'
 date: 2026-03-31 12:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: De 5 beste powerstations voor vanlife en campers in 2026. Vergelijk capaciteit, vermogen, zonneladen en prijs voor de ultieme camperbus-setup.
 categories:
 - powerstations
@@ -20,7 +20,7 @@ keywords:
 - stroom camperbus
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Redactie Duurzaam Thuislab. Wij vergelijken zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel Wh powerstation heb ik nodig voor vanlife?
@@ -49,9 +49,11 @@ products:
   price: '1899'
 schema_type: Article
 ---
-Een vriend van mij bouwde vorig jaar zijn VW Crafter om tot camperbus en vroeg mijn advies over de stroomvoorziening. Ik heb zijn verbruik doorgerekend: koelkast (45W continu), laptop, verlichting en af en toe de inductieplaat — dat is al snel 1.500 Wh per dag. Na weken vergelijken en testen heb ik de 5 beste powerstations voor vanlife op een rij gezet.
+Wie een bus ombouwt tot camper, loopt vroeg of laat tegen dezelfde rekensom aan. Een compressorkoelkast (45W), een laptop, verlichting en af en toe een inductieplaat: dan zit je al snel rond de 1.500 Wh per dag. Dat getal bepaalt welk powerstation je nodig hebt — en of je in de winter zelfvoorzienend blijft of niet.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+In dit overzicht vergelijken wij de vijf powerstations die het meest worden gekozen voor vanlife, op capaciteit, vermogen, zonne-input, gewicht en prijs. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data, en rekenen de verbruiksscenario's door.
+
+*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
@@ -224,7 +226,7 @@ Het 3000W vermogen kan zelfs zware apparaten voeden: grote inductiekookplaten, k
 
 De **EcoFlow River 2 Pro** is de perfecte keuze voor weekendvanlifers en budget-bewuste campers. Met 768 Wh capaciteit en 800W vermogen dekt het de basisbehoeften tegen een fractie van de prijs.
 
-Lees onze [EcoFlow River 2 Pro review](/posts/ecoflow-river-2-pro-review-2026/) voor onze volledige testresultaten.
+Lees onze [EcoFlow River 2 Pro review](/posts/ecoflow-river-2-pro-review-2026/) voor de volledige analyse.
 
 ### Belangrijkste specs voor vanlife
 
@@ -336,7 +338,7 @@ Voor full-time vanlife in de winter in Nederland: reken op minimaal 2.000 Wh bas
 
 ## Kosten per kWh: de echte economie van vanlife-stroom
 
-Een vraag die ik vaak krijg: "Is een powerstation voor vanlife economisch zinvol vergeleken met campingnetstroom?"
+Een veelgestelde vraag: is een powerstation voor vanlife economisch zinvol vergeleken met campingnetstroom?
 
 **Campingstroomaansluiting:**
 Typisch: €3-€8 per dag voor netstroom op een camping. Bij 60 campingdagen per jaar: €180-€480.
@@ -371,11 +373,11 @@ Voor verlichting en de koelkast kun je een eenvoudig 12V-systeem overwegen naast
 
 ---
 
-## Praktijktest: mijn vriend zijn VW Crafter omgebouwd
+## Rekenvoorbeeld: bestelbus met Delta 2 Max en 440W solar
 
-Mijn vriend Tom bouwde vorig jaar zijn VW Crafter om tot camperbus. Na weken vergelijken koos hij de EcoFlow Delta 2 Max als primaire stroombron, aangevuld met twee EcoFlow 220W-zonnepanelen op het dak (totaal 440W).
+Onderstaande doorrekening is een **modelberekening** voor een veelvoorkomende setup: een omgebouwde bestelbus met de EcoFlow Delta 2 Max als primaire stroombron en twee 220W-zonnepanelen op het dak (samen 440W). De verbruikscijfers komen uit de gangbare specificaties van de genoemde apparaten; de zonopbrengst uit de standaard vuistregel voor effectieve zonuren.
 
-**Zijn dagelijks verbruik:**
+**Dagelijks verbruik in dit profiel:**
 - Compressorkoelkast (45W continu, maar met 30% actieve tijd = gemiddeld 14W per uur = 336 Wh/dag)
 - Laptop (thuiswerken, 65W, 8 uur = 520 Wh)
 - LED-verlichting (twee lampen, 12W totaal, 4 uur = 48 Wh)
@@ -388,11 +390,11 @@ Mijn vriend Tom bouwde vorig jaar zijn VW Crafter om tot camperbus. Na weken ver
 - Na omvormerverlies (~10%): 1.980 Wh/dag
 - Verschil (surplus): +879 Wh/dag
 
-**Conclusie voor Tom's situatie:** in de zomer ruimschoots zelfvoorzienend. Hij rijdt elke dag en laadt het station ook bij via de 12V-aansluiting onderweg (circa 150W = 600 Wh bij 4 uur rijden). Zijn echte situatie in juni 2025 was dat hij twee weken zonder camping of netstroom door Oostenrijk reed en nooit onder 40% batterij zat.
+**Uitkomst zomer:** met een surplus van bijna 900 Wh per dag is deze setup in de zomermaanden ruimschoots zelfvoorzienend. Wie ook dagelijks rijdt, laadt bovendien bij via de 12V-aansluiting: bij circa 150W laadvermogen en vier uur rijden komt daar nog eens ongeveer 600 Wh bij.
 
-**In de winter (bewolkt, weinig zon):** 440W × 2 effectieve zonuren = 880 Wh/dag. Dat is minder dan zijn dagverbruik van 1.101 Wh. Hij compenseert dan door rijden (12V laden) en af en toe een camping met stroomaansluiting.
+**Uitkomst winter:** 440W × 2 effectieve zonuren = 880 Wh per dag. Dat is minder dan het dagverbruik van 1.101 Wh, dus je loopt structureel achter. Compenseren kan via rijladen (12V, of via een directe accukabel met hoger vermogen) en af en toe een camping met netstroom.
 
-**Zijn oordeel na 8 maanden:** "Ik had misschien toch de Jackery 2000 Plus moeten nemen voor de hogere solar-input. Op bewolkte dagen in de winter mis ik die extra 700W solar-capaciteit. Maar voor zomergebruik is de Delta 2 Max perfect."
+**Ons oordeel bij dit profiel:** de Delta 2 Max heeft ruim voldoende capaciteit, maar de solar-input van 500W is de beperkende factor zodra je ook in het winterhalfjaar off-grid wilt staan. Wie dat van plan is, kan beter kiezen voor een model met een hogere maximale zonne-input — de Bluetti AC200Max (900W) of de Jackery Explorer 2000 Plus (1400W) — of het dakvermogen combineren met een alternator-laadoplossing.
 
 ---
 
@@ -416,20 +418,20 @@ Powerstations produceren warmte bij gebruik en opladen. In een kleine bus kan di
 
 ### 3. Geluidsoverlast bij het kamperen
 
-De ventilator van een 2000 Wh-powerstation bij zwaar gebruik (>1500W belasting) haalt 45-50 dB. Op een stille bosbouwkamping 's avonds is dat hoorbaar voor buren. Oplossingen:
+Bij zware belasting (boven ongeveer 1500W) draait de ventilator van een 2000 Wh-powerstation op volle kracht. Fabrikanten geven daar geen decibelwaarden voor op, maar in gebruikersreviews is dit een terugkerend punt: op een stille natuurkamping is het 's avonds hoorbaar voor de buren. Oplossingen:
 - Gebruik zware apparaten (inductiekookplaat, haardroger) alleen overdag
 - Stel een maximale laadsnelheid in via de app voor nachtelijk laden (EcoFlow-app: "stille modus")
 - Kies voor 12V-apparaten (koelbox, LED-verlichting) — die zijn stiller omdat ze geen omvormer activeren
 
 ### 4. 12V-systeem versus powerstation
 
-Een vraag die ik veel krijg: "Is een dedicated 12V-systeem (lithiumaccu + DC-DC charger) beter dan een powerstation?"
+Een veelgestelde vraag: is een dedicated 12V-systeem (lithiumaccu + DC-DC charger) beter dan een powerstation?
 
 Voor **koelkast en verlichting** is een 12V-systeem efficiënter — geen omvormerverlies. Een 200 Ah lithiumaccu (2.400 Wh bij 12V) kost €400-600 en laadt via solar of de alternator.
 
 Voor **thuis-achtig gebruik** (laptop, inductiekookplaat, haardroger) is een powerstation handiger — de ingebouwde omvormer is van hoge kwaliteit en de plug-and-play bediening scheelt engineering.
 
-**Mijn aanbeveling**: combineer beide. Een 12V-systeem voor koelkast en verlichting (efficiënt), een powerstation voor comfort-apparaten en noodstroom. Veel vanlifers met een groter budget kiezen precies dit.
+**Onze aanbeveling**: combineer beide. Een 12V-systeem voor koelkast en verlichting (efficiënt), een powerstation voor comfort-apparaten en noodstroom. Veel vanlifers met een groter budget kiezen precies dit.
 
 ---
 

@@ -8,7 +8,7 @@ tags: ["warmtepomp", "merken", "vergelijking", "Daikin", "Atag", "Vaillant", "Qu
 keywords: ["beste warmtepomp merk 2026", "welk merk warmtepomp", "warmtepomp merken vergelijken", "top warmtepomp 2026", "betrouwbare warmtepomp"]
 affiliate: true
 author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1580893246395-52aead8960dc&w=1200&output=webp&q=70"
 schema_type: "Article"
 last_updated: 2026-08-09

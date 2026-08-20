@@ -1,7 +1,7 @@
 ---
 title: 'Thuisbatterij Terugverdientijd Berekenen: Complete Gids 2026'
 date: 2026-03-28 12:00:00+01:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Leer hoe je de terugverdientijd van een thuisbatterij berekent. Inclusief rekenvoorbeelden, invloed van salderingsregeling, subsidies en dynamische tarieven.
 categories:
 - thuisbatterijen
@@ -46,9 +46,9 @@ products:
   price: '9500'
 schema_type: Article
 ---
-Voordat ik mijn Huawei Luna 10 kWh kocht, heb ik een uitgebreide spreadsheet gemaakt met alle variabelen: mijn zonnepaneelopbrengst (5.200 kWh/jaar), verbruiksprofiel dag/nacht, Tibber-tarieven, ISDE-subsidie en de afbouw van de salderingsregeling. Mijn conclusie: terugverdientijd van 9 jaar, en na de afbouw van saldering zelfs sneller. In deze gids deel ik precies hoe je die berekening zelf maakt.
+De terugverdientijd van een thuisbatterij hangt af van een handvol variabelen: je zonnepaneelopbrengst, je verbruiksprofiel over dag en nacht, je energiecontract, eventuele subsidie en het einde van de salderingsregeling. Vul die in een eenvoudig rekenblad in en je komt afhankelijk van je profiel op iets tussen 5 en 13 jaar uit. In deze gids laten wij zien hoe je die berekening zelf maakt, met drie uitgewerkte rekenvoorbeelden.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
@@ -289,28 +289,16 @@ De financiele waarde van noodstroom is moeilijk te kwantificeren, maar voor stee
 
 ---
 
-## Praktijkjaarberekening: mijn eigen situatie na 14 maanden
+## Waarom je jaarrendement geen vast getal is
 
-Ik heb een Huawei Luna 2000 10 kWh + 16 zonnepanelen + Tibber dynamisch contract. Hier zijn mijn gemeten cijfers na 14 maanden (februari 2025 - april 2026):
+Wie de besparing per kwartaal uitsplitst, ziet dat de twee inkomstenbronnen van een batterij tegen elkaar in bewegen — en dat verklaart waarom één goed of slecht jaar je terugverdientijd flink kan verschuiven:
 
-| Periode | Zonne-opslag besparing | Arbitrage-opbrengst | Totaal |
-|---|---|---|---|
-| Feb-Apr 2025 (lente) | €122 | €54 | **€176** |
-| Mei-Jul 2025 (zomer) | €204 | €33 | **€237** |
-| Aug-Okt 2025 (nazomer) | €113 | €67 | **€180** |
-| Nov 2025 - Jan 2026 (winter) | €27 | €94 | **€121** |
-| Feb-Apr 2026 (lente) | €107 | €71 | **€178** |
+- **Zonne-opslag** is het hoogst in het late voorjaar en de zomer: dan is er dagelijks overschot om op te slaan. In de winter is er nauwelijks overschot, dus die post valt bijna weg.
+- **Arbitrage op een dynamisch contract** werkt precies omgekeerd: het levert het meest op in de winter, wanneer de spreiding tussen dag- en nachtprijzen en tussen piek en dal het grootst is. In een zomer met veel zon zijn de middagprijzen juist laag en vlak.
 
-**14-maanden totaal**: €892
-**Geannualiseerd**: ~€764/jaar
+Het gevolg: in een winter met veel prijsvolatiliteit valt de opbrengst hoger uit dan in een rustig marktjaar, terwijl een bewolkte zomer de zonne-opslagpost drukt. De totale jaaropbrengst schommelt daardoor makkelijk 15 tot 20 procent rond het gemiddelde, zonder dat er iets aan je installatie verandert.
 
-Mijn netto investering was €3.600 (na ISDE-subsidie die gold voor mijn installatie in 2025 — die regeling is inmiddels aangepast).
-
-**Mijn persoonlijke terugverdientijd**: €3.600 / €764 = **4,7 jaar**
-
-Dat is beter dan mijn oorspronkelijke prognose van 5,5 jaar. De hogere volatiliteit in winter 2025-2026 stuwde de arbitrage-opbrengst op. In rustige jaren (stabiele markt) schat ik €650-€700/jaar besparing.
-
-**Les**: reken conservatief in je prognose (€650/jaar), wees blij als het €750+ wordt.
+**Praktische conclusie:** reken conservatief. Neem in je eigen berekening de onderkant van de bandbreedte voor jouw profiel, en beschouw een beter jaar als meevaller in plaats van als uitgangspunt. Een terugverdientijd die alleen uitkomt bij de meest gunstige aannames, is geen terugverdientijd maar een best-case scenario.
 
 ---
 
@@ -389,7 +377,7 @@ Een energieprijsstijging van 20% — wat de afgelopen 5 jaar bepaald niet ondenk
 
 ## Vergelijking: batterij kopen vs dynamisch contract (zonder batterij)
 
-Een vraag die ik regelmatig krijg: "Is een dynamisch contract niet voldoende? Waarom ook een batterij?"
+Een vraag die vaak terugkomt: is een dynamisch contract niet voldoende — waarom dan ook nog een batterij?
 
 | Situatie | Jaarlijkse besparing vs vast | Investering |
 |---|---|---|
@@ -415,11 +403,11 @@ Bij Marstek (€2.679) en €350 meerwaarde per jaar (batterij vs alleen dynamis
 
 ---
 
-## Praktijkgeval: een lezer mailt — ik reken uit
+## Uitgewerkte lezersvraag: doorrekening van een concreet profiel
 
-Een lezer uit Dordrecht schreef me: "Mark, ik heb 14 zonnepanelen, gebruik 4.800 kWh/jaar, lever 3.100 kWh terug. Frank Energie dynamisch. Denk erover Sessy 10 kWh te kopen voor €5.995. Logisch?"
+Een lezer uit Dordrecht stelde deze vraag: "Ik heb 14 zonnepanelen, gebruik 4.800 kWh/jaar, lever 3.100 kWh terug en heb een dynamisch contract. Denk erover een Sessy 10 kWh te kopen voor €5.995. Is dat logisch?"
 
-Mijn berekening:
+De doorrekening (modelberekening op basis van de opgegeven cijfers):
 
 **Stap 1 — Netto investering:**
 - Sessy 10 kWh: €5.995
@@ -429,15 +417,15 @@ Mijn berekening:
 - Netto investering: **€5.995**
 
 **Stap 2 — Jaarlijkse besparing:**
-- Teruglevering 3.100 kWh → met 10 kWh batterij absorbeert hij ~2.300 kWh als eigenverbruik
+- Teruglevering 3.100 kWh → met een 10 kWh batterij wordt naar schatting ~2.300 kWh alsnog zelf verbruikt
 - Eigenverbruiksbesparing: 2.300 kWh × €0,22 (afname min teruglever) = €506
-- Arbitrage op Frank Energie dynamisch: ~€180/jaar
+- Aangenomen arbitragevoordeel op een dynamisch contract: ~€180/jaar
 - **Totaal 2026: €686/jaar**
 
 **Stap 3 — Post-2027 saldering-stop:**
-- Nu teruglevert hij 3.100 kWh × €0,30 (saldering) = €930 via saldering
-- Na 2027: die 800 kWh restteruglevering × €0,07 = €56 — verlies van €874
-- Maar zijn batterij absorbeert al 2.300 kWh — dus verlies is slechts: 800 kWh × €0,23 = €184
+- Nu levert dit profiel 3.100 kWh × €0,30 (saldering) = €930 aan waarde op via saldering
+- Na 2027 zonder batterij: 800 kWh restteruglevering × €0,07 = €56 — een verlies van €874
+- Met batterij wordt 2.300 kWh alsnog zelf verbruikt, dus het verlies beperkt zich tot 800 kWh × €0,23 = €184
 - Netto extra besparing post-2027: €184 + voordeel arbitrage-verbetering = **~€250/jaar extra**
 
 **Stap 4 — Terugverdientijd:**
@@ -447,7 +435,7 @@ Mijn berekening:
 
 **Terugverdientijd: €5.995 / €870 = 6,9 jaar**
 
-Mijn antwoord aan hem: ja, Sessy is logisch voor zijn profiel. Marstek zou sneller terugverdienen (3,5 jaar), maar hij heeft geen affiniteit met Home Assistant.
+Ons oordeel bij dit profiel: een Sessy is een verdedigbare keuze. Puur op terugverdientijd komt een Marstek Venus E gunstiger uit door de veel lagere aanschafprijs, maar die vraagt meer eigen configuratie (bijvoorbeeld via Home Assistant). Wie dat niet wil, betaalt bij Sessy in feite voor gemak en Nederlandse service.
 
 ---
 
@@ -465,11 +453,11 @@ Met ISDE-subsidie en een dynamisch contract kun je een terugverdientijd van **5-
 
 Zonder subsidie is de terugverdientijd aanzienlijk langer (13-17 jaar) en moet je afwegen of de bijkomende voordelen (noodstroom, onafhankelijkheid, toekomstbestendigheid) de investering rechtvaardigen.
 
-**Mijn aanbeveling**: vraag vandaag offertes aan bij minimaal drie installateurs. Vraag hen expliciet om de terugverdientijdberekening op basis van jouw verbruiksdata — een goede installateur heeft dat direct paraat. Vergelijk hun berekening met het model in dit artikel: als ze meer dan 1 jaar van elkaar afwijken, vraag dan om toelichting op de aannames.
+**Onze aanbeveling**: vraag offertes aan bij minimaal drie installateurs. Vraag hen expliciet om de terugverdientijdberekening op basis van jouw verbruiksdata — een goede installateur heeft dat direct paraat. Vergelijk hun berekening met het model in dit artikel: als ze meer dan 1 jaar van elkaar afwijken, vraag dan om toelichting op de aannames.
 
 De terugverdientijd is geen garantie maar een verwachting. Energieprijzen fluctueren, saldering stopt in 2027, en jouw verbruikspatroon kan veranderen. Maar voor wie 5.000+ kWh/jaar verbruikt en 1.500+ kWh teruglevert: de kans dat een thuisbatterij rendabel is over 10 jaar is groot. Dat maakt het meer dan speculatie — het is een berekende investering.
 
-**Mijn aanbeveling**: vraag vandaag nog offertes aan bij minimaal drie installateurs en dien je ISDE-subsidieaanvraag in zodra de installatie gereed is. Bekijk ons overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatterij-nederland-2026/) om de juiste batterij voor jouw situatie te kiezen.
+**Onze aanbeveling**: vraag offertes aan bij minimaal drie installateurs en dien je ISDE-subsidieaanvraag in zodra de installatie gereed is. Bekijk ons overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatterij-nederland-2026/) om de juiste batterij voor jouw situatie te kiezen.
 
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>

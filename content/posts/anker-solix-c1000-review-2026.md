@@ -1,7 +1,7 @@
 ---
 title: 'Anker SOLIX C1000 Review 2026: Compact Krachtpatser'
 date: 2026-03-17 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-20 10:00:00+01:00
 description: Uitgebreide Anker SOLIX C1000 review. Bekijk specs, LiFePO4 batterij, laadtijden, app-bediening en vergelijking met EcoFlow Delta 2.
 categories:
 - powerstations
@@ -20,7 +20,7 @@ keywords:
 - anker c1000 specs
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Redactie Duurzaam Thuislab. Wij vergelijken zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
 - q: Is de Anker SOLIX C1000 het waard in 2026?
@@ -49,9 +49,9 @@ products:
   price: '1199'
 schema_type: Review
 ---
-Ik heb inmiddels zes powerstations door mijn handen laten gaan, maar de Anker SOLIX C1000 verraste me het meest. Met 12,9 kg til je hem moeiteloos de auto in, terwijl hij met 1056Wh en 1800W wél serieus vermogen levert. Ik heb hem een week als noodstroom achter mijn HomeWizard P1 meter gehangen en daarna meegenomen op een kampeertripje — dit is wat ik ervan vond.
+De Anker SOLIX C1000 valt op in de 1000Wh-klasse: met 12,9 kg is hij een van de lichtste van zijn categorie, terwijl hij volgens de specificaties 1056Wh capaciteit en 1800W continu vermogen levert. In deze review zetten wij die specificaties naast die van de directe concurrenten, rekenen wij de draaitijden voor concrete gebruiksscenario's door en beschrijven wij wat gebruikersreviews melden over de app en het dagelijks gebruik.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 
@@ -159,25 +159,25 @@ De **Anker-app** (beschikbaar voor iOS en Android) biedt uitgebreide controle ov
 - **UPS-modus configureren** en schakelinstellingen aanpassen
 - **Laadtimers instellen** voor gepland opladen
 
-De Anker-app werkt over het algemeen betrouwbaar en responsief. De interface is overzichtelijk en intuïtief, ook voor minder technische gebruikers. Verbinding via Wi-Fi is stabiel en snel. Via Bluetooth merkten we af en toe een korte vertraging bij het eerste verbinden, maar eenmaal verbonden werkte alles vlot.
+In gebruikersreviews komt de Anker-app er goed uit: overzichtelijke interface, ook voor minder technische gebruikers, en een stabiele Wi-Fi-verbinding. Het meest terugkerende minpunt is een korte vertraging bij het eerste verbinden via Bluetooth; daarna verloopt de bediening vlot.
 
 Een handige functie is de mogelijkheid om het station op afstand te beheren als het verbonden is met je thuisnetwerk. Zo kun je de status controleren wanneer je niet thuis bent.
 
 ---
 
-## Prestaties in de praktijk
+## Wat kun je ermee draaien? Berekende scenario's
 
-We hebben de Anker SOLIX C1000 in verschillende scenario's getest:
+De draaitijden hieronder zijn **berekend** uit de opgegeven capaciteit van 1056 Wh en het typische verbruik van elk apparaat, met een marge voor omvormerverlies. Het zijn dus geen gemeten waarden; het werkelijke verbruik van jouw apparaat kan afwijken.
 
 ### Camping en outdoor
 
-Op de camping presteert de C1000 uitstekend. Dankzij het compacte formaat en lage gewicht past het makkelijk in de kofferbak of campingbus. We draaiden een **compressorkoelbox** (45W gemiddeld verbruik) ruim 20 uur op een volledige lading, terwijl we tegelijkertijd telefoons en een bluetooth-speaker oplaadden. Bekijk ook ons overzicht van de [beste powerstations voor camping](/posts/beste-powerstation-camping-2026/) voor meer opties.
+Door het compacte formaat en het lage gewicht past de C1000 in vrijwel elke kofferbak of campingbus. Een **compressorkoelbox** met een gemiddeld verbruik van 45W komt op circa 20 uur op één volledige lading (1056 Wh / 45W, minus omvormerverlies) — genoeg voor bijna een etmaal, met ruimte over voor het opladen van telefoons. Bekijk ook ons overzicht van de [beste powerstations voor camping](/posts/beste-powerstation-camping-2026/) voor meer opties.
 
 ### Noodstroom thuis
 
-Dankzij de **UPS-functie** schakelt de C1000 binnen 20 milliseconden over bij een stroomstoring. Dat is snel genoeg om je computer en router draaiende te houden. In onze tests kon het station de volgende apparaten tegelijk voeden:
+Volgens de specificaties schakelt de **UPS-functie** binnen 20 milliseconden over bij een stroomstoring. Dat is snel genoeg om een computer en router zonder onderbreking draaiende te houden. Op basis van de capaciteit van 1056 Wh komen de draaitijden per apparaat uit op:
 
-| Apparaat | Vermogen | Draaitijd op volle lading |
+| Apparaat | Vermogen | Berekende draaitijd op volle lading |
 |---|---|---|
 | Wi-Fi router | 15 W | ~55 uur |
 | LED-verlichting (4 lampen) | 40 W | ~22 uur |
@@ -199,7 +199,7 @@ De **SurgePad technologie** is Anker's antwoord op EcoFlow's X-Boost. Het verhoo
 
 ## Geluidsniveau
 
-De C1000 is opvallend stil tijdens normaal gebruik. Bij lage belasting (<200W) zijn de ventilatoren nauwelijks hoorbaar (<30 dB). Tijdens het snelladen via HyperFlash loopt het geluid op tot circa 40-45 dB. Via de app kun je de laadsnelheid verlagen om het geluid te beperken -- een handige optie voor nachtelijk gebruik op de camping.
+Bij lage belasting draaien de ventilatoren volgens gebruikersreviews nauwelijks merkbaar. Het geluid komt vooral op tijdens snelladen via HyperFlash: dat is het moment waarop de koeling hoorbaar aanslaat. Via de app kun je de laadsnelheid verlagen om dat te beperken — een handige optie voor nachtelijk gebruik op de camping of in een slaapkamer. Harde decibelwaarden geeft Anker niet op, en wij meten zelf niet.
 
 ---
 
@@ -284,7 +284,7 @@ De LiFePO4-celchemie is inherent veiliger dan lithium-ion (NMC) cellen die in so
 - **Uitstekende app** -- intuïtief, responsief en functioneel
 - **SurgePad** -- effectief vermogen tot 2400W voor zwaardere apparaten
 - **5 jaar garantie** -- vertrouwen in het product
-- **Stil bij normaal gebruik** -- <30 dB bij lage belasting
+- **Stil bij normaal gebruik** -- de koeling slaat pas hoorbaar aan bij snelladen
 
 ### Nadelen
 
@@ -336,21 +336,21 @@ Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026
 
 <a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
 
-## Alternatieve toepassingen die ik niet had verwacht
+## Vier toepassingen die vaak worden vergeten
 
-Na een jaar met de Anker SOLIX C1000 zijn er een paar toepassingen die ik zelf niet had bedacht maar nu regelmatig gebruik.
+Naast camping en noodstroom zijn er gebruiksscenario's die minder in het oog springen. De draaitijden hieronder volgen uit de capaciteit van 1.056 Wh gedeeld door het typische verbruik van de genoemde apparaten.
 
-**Thuiswerken bij stroomstoring op het werk**
-Tijdens een stroomstoring in mijn buurt in november 2024 (3,5 uur) kon ik gewoon doorwerken. Laptop (65W) + externe monitor (30W) + router (15W) + telefoon opladen = 110W totaal. Op de C1000: 1.056 Wh / 110W = 9,6 uur werkcontinu. Geen verloren werkdag.
+**Doorwerken tijdens een stroomstoring**
+Een thuiswerkplek met laptop (65W), externe monitor (30W), router (15W) en een telefoonlader komt op circa 110W. Dat geeft 1.056 Wh / 110W ≈ 9,6 uur — ruim een werkdag. Voor wie thuiswerkt in een gebied met een ouder net is dat het verschil tussen doorwerken en een verloren dag.
 
-**Stille stroom op een locatie zonder outlet**
-Als energieadviseur doe ik regelmatig inspecties in panden zonder elektriciteitsaansluiting (leegstand, nieuwbouw, monumenten). De C1000 draait mijn meetapparatuur, laptop en werklamp een volledige dag. Geen generator nodig, geen lawaai.
+**Stroom op een locatie zonder aansluiting**
+Bij werk in leegstaande panden, nieuwbouw of monumenten zonder actieve aansluiting kan de C1000 meetapparatuur, laptop en een LED-werklamp een dag lang voeden. Voordeel boven een aggregaat: geen geluid, geen uitlaatgassen, dus ook binnen te gebruiken.
 
-**Kerstmarkt en buiten-evenementen**
-Mijn buren organiseerden een buurtbarbecue met een DJ-set (mixertafel 50W, actieve speakers 2× 80W = 210W totaal). De C1000 draaide dit systeem bijna 4 uur zonder opladen. Schone stroom, geen dieselaggregaat in de tuin.
+**Buitenevenementen en geluidsapparatuur**
+Een kleine DJ- of pa-set — mixer (50W) plus twee actieve speakers (2× 80W) — trekt ongeveer 210W. Dat geeft bijna 4 uur op één lading. Genoeg voor een buurtbarbecue of straatmarkt zonder dieselaggregaat.
 
-**Koelapparaten bij een verhuis**
-Bij een verhuizing van een familielid waren de koelkast en vriezer 6 uur niet aangesloten (verhuiswagen rijdt naar nieuwe locatie). De C1000 hield de vriezer al die tijd op temperatuur (-4°C). Geen foodverlies.
+**Koelapparaten overbruggen bij een verhuizing**
+Een vriezer die tijdens een verhuizing enkele uren van het net moet, verbruikt gemiddeld 100-130W. De C1000 overbrugt daarmee circa 8 uur — genoeg om de inhoud op temperatuur te houden tijdens het transport. Sluit de vriezer wel aan vóór het rijden en houd hem gesloten: elke keer openen kost extra energie.
 
 ---
 
@@ -371,13 +371,13 @@ Een elektrische rolstoel heeft doorgaans een accu van 24V 20Ah = 480Wh. Via de 2
 
 ---
 
-## Jaarberekening: wat levert de Anker SOLIX C1000 echt op?
+## Jaarberekening: wat levert de Anker SOLIX C1000 op?
 
-Ik reken twee concrete scenario's door.
+Twee **modelberekeningen** met expliciete aannames. Geen metingen — bij een ander verbruiksprofiel of andere tarieven verandert de uitkomst.
 
 **Scenario 1: Noodstroom bij stroomuitval**
 
-Jaarlijkse kans op stroomstoring in Nederland: statistisch 2-3 storingen per jaar van meer dan 30 minuten (netbeheerder-rapportage 2025). Eén langdurige storing per jaar van 4-8 uur is realistisch voor woningen in ouder netgebied.
+Aanname over storingsfrequentie: volgens de jaarrapportages van de Nederlandse netbeheerders gaat het om enkele storingen per jaar van meer dan 30 minuten; één langere storing van 4-8 uur per jaar is een realistische aanname voor woningen in ouder netgebied.
 
 - Vrieserkast (130W gemiddeld): 8 uur = 1.040 Wh
 - Koelkast (80W gemiddeld): 8 uur = 640 Wh

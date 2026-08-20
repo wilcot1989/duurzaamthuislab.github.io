@@ -1,7 +1,7 @@
 ---
 title: 'Afbouw Salderingsregeling 2026: Wat Betekent Het voor Jou?'
 date: 2026-03-04 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Alles over de afbouw van de salderingsregeling vanaf 2027. Bekijk de impact op je zonnepanelen en ontdek waarom een thuisbatterij nu slim is.
 categories:
 - zonne-energie
@@ -19,7 +19,7 @@ keywords:
 - terugleverkosten zonnepanelen
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Wat is de salderingsregeling precies?
@@ -48,7 +48,7 @@ products:
   price: '6'
 schema_type: Article
 ---
-Met mijn 16 panelen (5,6 kWp) lever ik jaarlijks zo'n 2.800 kWh terug aan het net. Dankzij de salderingsregeling krijg ik daar nu het volle tarief voor — maar vanaf 2027 verandert dat. Ik heb uitgerekend dat de afbouw mij zonder maatregelen €450 per jaar zou kosten. Daarom heb ik alvast een Huawei Luna thuisbatterij geplaatst. In dit artikel leg ik uit wat de afbouw precies inhoudt en hoe jij je kunt voorbereiden.
+Een gangbaar systeem van 16 panelen (5,6 kWp) levert jaarlijks zo'n 2.800 kWh terug aan het net. Dankzij de salderingsregeling geldt daarvoor nu nog het volle tarief — maar vanaf 2027 verandert dat. Doorgerekend met de vastgestelde terugleververgoedingen kost dat een huishouden met zo'n systeem zonder maatregelen rond de €450 per jaar. In dit artikel staat wat de afbouw precies inhoudt en welke maatregelen dat verlies opvangen.
 
 *Dit artikel is informatief van aard en bevat geen financieel advies. De genoemde bedragen en percentages zijn gebaseerd op de meest recente informatie beschikbaar in maart 2026.*
 
@@ -150,7 +150,7 @@ De afbouw van de salderingsregeling heeft direct gevolgen voor de terugverdienti
 | **Totale jaarlijkse besparing** | | **€1.140** |
 | **Terugverdientijd** | €6.500 / €1.140 | **~5,7 jaar** |
 
-*Opmerking: ik laat zien ervan uit dat de afname na saldering neerkomt op 3.800 - 1.290 - 2.510 = 0 kWh. De resterende 500 kWh teruglevering boven afname wordt vergoed tegen terugleververgoeding.*
+*Opmerking: in deze berekening is aangenomen dat de afname na saldering neerkomt op 3.800 - 1.290 - 2.510 = 0 kWh. De resterende 500 kWh teruglevering boven afname wordt vergoed tegen terugleververgoeding.*
 
 ### Scenario 2: Gedeeltelijke saldering (2028, 55%)
 
@@ -307,9 +307,9 @@ De afbouw treft niet elk huishouden even hard. Hieronder een overzicht:
 
 ## Praktijkvoorbeeld: jaarberekening 2027 vs 2026
 
-Laten we de impact concreet maken. Ik neem een huishouden dat ik ken: Sandra en Joost, twee inkomens, beide deels thuis werkend. Ze hebben 12 panelen (4,5 kWp) geïnstalleerd in 2023.
+Laten we de impact concreet maken met een modelprofiel: een tweeverdienershuishouden dat deels thuiswerkt, met 12 panelen (4,5 kWp) uit 2023.
 
-**Hun situatie:**
+**Het profiel:**
 - Jaarverbruik: 3.800 kWh
 - Jaaropwekking: 3.950 kWh
 - Direct eigen verbruik: 35% van opwekking = 1.380 kWh
@@ -343,7 +343,7 @@ Dat is de harde waarheid voor een doorsnee-installatie van 12 panelen bij een ac
 
 ## Wat verandert er specifiek per 1 januari 2027?
 
-**Let op:** het meest recente politieke besluit (maart 2026) is een harde stop, geen geleidelijke afbouw. Het afbouwschema in dit artikel (73%, 55%, etc.) is het *oorspronkelijke* plan. De actuele wetgeving gaat naar een volledige stop in één keer per 1-1-2027. Ik houd dit artikel bijgewerkt als er nieuwe informatie is.
+**Let op:** het meest recente politieke besluit (maart 2026) is een harde stop, geen geleidelijke afbouw. Het afbouwschema in dit artikel (73%, 55%, etc.) is het *oorspronkelijke* plan. De actuele wetgeving gaat naar een volledige stop in één keer per 1-1-2027. Dit artikel wordt bijgewerkt zodra er nieuwe informatie is.
 
 Wat concreet verandert:
 

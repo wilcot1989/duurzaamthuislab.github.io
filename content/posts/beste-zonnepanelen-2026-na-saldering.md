@@ -1,7 +1,7 @@
 ---
 title: Beste zonnepanelen 2026 na saldering
 date: 2026-04-29 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Saldering stopt in 2027. Welke zonnepanelen zijn dan nog zinvol, hoe maximaliseer je zelfconsumptie, en welke combinatie met een batterij werkt het beste?
 categories:
 - zonne-energie
@@ -22,7 +22,7 @@ keywords:
 - Sessy zonnepanelen combinatie
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Zijn zonnepanelen na 2027 nog zinvol?
@@ -48,13 +48,13 @@ products:
   price: '5995'
 schema_type: Article
 ---
-In 2021 deed ik een rekensom voor mijn eigen dak. 14 panelen, 5,46 kWp. Terugverdientijd met saldering: 7 jaar. Zonder saldering: 11 jaar. Mijn conclusie destijds: installeer nu, profiteer van saldering zolang het nog geldt.
+Een standaardrekensom voor een dak met 14 panelen (5,46 kWp) kwam er jarenlang zo uit: terugverdientijd met saldering circa 7 jaar, zonder saldering circa 11 jaar. De gangbare conclusie was dan ook: installeer zolang de saldering nog geldt.
 
-Die rekensom klopt nog steeds — maar de wereld erna is anders dan ik dacht. Want niet alleen het rendement verandert na 2027. De hele strategie verandert.
+Die rekensom klopt nog steeds, maar hij vertelt niet het hele verhaal. Want na 2027 verandert niet alleen het rendement — de hele strategie verandert.
 
-Wie in 2026 zonnepanelen overweegt, of wie er al heeft en nu een batterij overweegt, moet begrijpen wat er post-2027 anders is. Ik leg het hier zo helder mogelijk uit.
+Wie in 2026 zonnepanelen overweegt, of wie er al heeft en nu een batterij overweegt, moet begrijpen wat er post-2027 anders is. Wij zetten het hieronder zo helder mogelijk op een rij.
 
-*Disclosure: ik heb affiliaterelaties met Zonneplan en Sessy.*
+*Disclosure: wij hebben affiliaterelaties met Zonneplan en Sessy.*
 
 ---
 
@@ -127,9 +127,9 @@ Voor de meeste NL-huishoudens: **Jinko Tiger Neo** of **Longi Hi-MO 6** bieden d
 
 ---
 
-## Zonneplan — de installateur die ik aanbeveel
+## Zonneplan — de installateur die wij aanbevelen
 
-[Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) heeft in mijn omgeving de meest positieve feedback van klanten die ik spreek. Wat hen onderscheidt:
+[Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) komt in publieke klantreviews consistent positief naar voren. Wat hen onderscheidt:
 
 **Transparante vaste prijs.** Geen verborgen kosten voor de groepenkast, geen extra rekening achteraf voor "meer werk dan verwacht". Je krijgt vooraf één prijs.
 
@@ -139,11 +139,11 @@ Voor de meeste NL-huishoudens: **Jinko Tiger Neo** of **Longi Hi-MO 6** bieden d
 
 **Monitoring-app.** Realtimedata, historische productie per paneel, en waarschuwingen bij uitval.
 
-**Wat ik minder goed vind:**
+**Wat wij minder goed vinden:**
 - Niet de goedkoopste. Je betaalt voor service en garantie.
 - Niet overal in Nederland even snel beschikbaar.
 
-Als je prijs de doorslaggevende factor is, zijn er goedkopere installateurs. Maar voor de langetermijn combinatie (panelen + batterij + service) is Zonneplan mijn aanbeveling.
+Als je prijs de doorslaggevende factor is, zijn er goedkopere installateurs. Maar voor de langetermijn combinatie (panelen + batterij + service) is Zonneplan onze aanbeveling.
 
 ---
 
@@ -192,7 +192,7 @@ Kanttekeningen:
 
 Als je voor 2027 al panelen hebt geïnstalleerd zonder batterij, is de strategische vraag: wanneer voeg je een batterij toe?
 
-**Mijn advies:** doe dit in 2026 of vroeg in 2027. Redenen:
+**Ons advies:** doe dit in 2026 of vroeg in 2027. Redenen:
 1. Installatiekosten voor batterijen dalen langzaam maar continu
 2. Je profiteert van de laatste maanden saldering zolang dat loopt
 3. Na 2027 is de vraag naar batterijen waarschijnlijk hoog, wat de wacht- en levertijden verlengt
@@ -213,7 +213,7 @@ Bekijk of je bestaande omvormer hybride-compatibel is. Veel installateurs van pr
 
 ---
 
-## Mijn eindoordeel
+## Ons eindoordeel
 
 Zonnepanelen zijn na 2027 nog zinvol — maar alleen als je de strategie aanpast. De combi-aanpak (panelen + thuisbatterij + dynamisch contract) is de manier om post-2027 maximaal te profiteren.
 
@@ -234,13 +234,13 @@ In de politieke discussie over de saldering-afbouw heeft een deel van de Kamer g
 
 **Dynamisch stroom:** de ACM (Autoriteit Consument & Markt) heeft netbeheerders gevraagd om post-2027 een standaard dynamisch terugleveringstarief aan te bieden. Dit is nog geen realiteit maar wordt verwacht in 2026–2027.
 
-**Mijn inschatting:** de stop gaat gewoon door. Er is geen politieke meerderheid voor uitstel of herstel van de saldering. Wie in 2026 installeert zonder batterij, moet rekenen met de post-2027-wereld.
+**Onze inschatting:** de stop gaat gewoon door. Er is geen politieke meerderheid voor uitstel of herstel van de saldering. Wie in 2026 installeert zonder batterij, moet rekenen met de post-2027-wereld.
 
 ---
 
 ## De installateur kiezen: wat onderscheidt een goede van een matige?
 
-De panelen zijn misschien het meest zichtbare onderdeel, maar de installateur maakt of breekt de kwaliteit. Ik heb in de afgelopen jaren tientallen installaties gezien — goede en slechte. Dit onderscheidt ze.
+De panelen zijn misschien het meest zichtbare onderdeel, maar de installateur maakt of breekt de kwaliteit. Uit klachtdossiers van de Geschillencommissie en uit gebruikersreviews komt telkens hetzelfde beeld: het verschil zit in de voorbereiding en de service. Dit onderscheidt een goede van een matige installateur.
 
 **Wat een goede installateur doet:**
 
@@ -266,7 +266,7 @@ Zonneplan werkt met een vaste installatieprijs per kWp, specificeert alle compon
 
 ## Concreet vergelijkend overzicht: welk paneel voor welke situatie?
 
-Ik krijg vaak de vraag: "Welk paneel is het beste?" Dat hangt af van je situatie. Hier is een overzicht per type woning.
+"Welk paneel is het beste?" is een van de meestgestelde vragen. Het antwoord hangt af van je situatie. Hieronder een overzicht per type woning.
 
 ### Situatie 1: Groot dakoppervlak, budget-gericht
 **Dak:** ≥25 m² beschikbaar, geen schaduwproblemen  
@@ -337,7 +337,7 @@ De meeste kopers denken uitvoerig na over welk paneel ze kopen, maar nauwelijks 
 
 **Hybride omvormer:** combineert omvormer en batterijlader in één unit. Als je zeker weet dat je later een batterij wilt, is een hybride omvormer nu aanschaffen slimmer dan later vervangen.
 
-**Mijn aanbeveling voor post-2027 installaties:** kies een hybride omvormer als je ook een batterij plant. Dat bespaart je €500–€1.200 aan omvormervervanging later.
+**Onze aanbeveling voor post-2027 installaties:** kies een hybride omvormer als je ook een batterij plant. Dat bespaart je €500–€1.200 aan omvormervervanging later.
 
 ---
 

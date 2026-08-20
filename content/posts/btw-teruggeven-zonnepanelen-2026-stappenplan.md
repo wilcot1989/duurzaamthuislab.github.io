@@ -1,7 +1,7 @@
 ---
 title: 'BTW Teruggeven Zonnepanelen 2026: Stappenplan'
 date: 2026-07-13 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 last_updated: 2026-04-29
 description: 'BTW teruggeven zonnepanelen 2026: ondanks 0% BTW kun je oude installaties nog claimen. Stappenplan voor aanmelding KOR, kleineondernemersregeling en aangifte bij de Belastingdienst.'
 draft: false
@@ -31,7 +31,7 @@ faq:
   a: 'Sinds 1 januari 2023 geldt 0% BTW op zonnepanelen voor woningen — dus geen BTW meer terug te vragen op nieuwe installaties. Wel kun je oudere installaties (gekocht vóór 2023) nog steeds via KOR-procedure claimen mits je nog niet bent aangemeld als ondernemer.'
 - q: 'Wat is de KOR (kleineondernemersregeling)?'
   a: 'De KOR is een belastingregeling voor kleine ondernemers met omzet onder €20.000/jaar. Je hoeft geen BTW te rekenen of af te dragen. Voor zonnepaneelhouders praktisch: meld je éénmaal als ondernemer aan, vraag BTW terug, dan automatisch onder KOR — geen jaarlijkse aangifte meer.'
-- q: 'Hoeveel BTW krijg ik terug?'
+- q: 'Hoeveel BTW krijgen wij terug?'
   a: '21% van de aanschafprijs van panelen + omvormer + montage + installatie. Bij een installatie van €5.500 (oude prijs incl. BTW): €953 terug. Bij €8.000: €1.388 terug. Geldt alleen voor installaties vóór 2023.'
 - q: 'Hoelang duurt de procedure?'
   a: '4-8 weken. Je meldt je aan als ondernemer (formulier KvK + Belastingdienst), doet eenmalig BTW-aangifte, krijgt na verwerking de teruggave. Daarna kun je je afmelden als ondernemer of onder KOR vallen.'

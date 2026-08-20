@@ -1,8 +1,8 @@
 ---
 title: 'Quatt vs Vaillant warmtepomp 2026: welke wint qua prijs en prestatie?'
 date: 2026-08-17 08:00:00+02:00
-lastmod: 2026-08-17 08:00:00+02:00
-description: Quatt of Vaillant warmtepomp in 2026? Ik vergeleek beide systemen bij twee buren — COP, geluid, kosten en service. Eerlijke conclusie en advies.
+lastmod: 2026-08-20 08:00:00+02:00
+description: Quatt of Vaillant warmtepomp in 2026? Vergelijking op COP, geluid, kosten en service, op basis van specificaties en offerteprijzen. Eerlijke conclusie en advies.
 categories:
 - warmtepomp
 tags:
@@ -20,7 +20,7 @@ keywords:
 - quatt of vaillant kiezen
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1605152276897-4f618f831968&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een Quatt warmtepomp vs Vaillant in 2026?
@@ -51,22 +51,24 @@ products:
   price: '10500'
 schema_type: Article
 ---
-Vorig jaar belden twee buren me binnen één maand. De ene wilde Quatt, de andere had offerte van Vaillant. Beiden vroegen: "Mark, wat zou jij kiezen?" In plaats van een mening te geven, vroeg ik of ik een jaar mocht meekijken. Ze zijn akkoord gegaan en ik heb 12 maanden lang COP, stroomverbruik, geluid en servicemomenten genoteerd.
+Quatt hybride kost €4.495, een Vaillant aroTHERM Plus all-electric €8.500 tot €11.500. Dat is niet twee keer hetzelfde product in een andere prijsklasse: het zijn twee verschillende antwoorden op de vraag of je het gas houdt als achtervang of er helemaal vanaf gaat. Wij vergelijken de twee op SCOP-opgave, geluid, service-model, ruimtebeslag en lifetime-kosten, op basis van fabrieksspecificaties, gangbare offerteprijzen, ISDE-bedragen 2026 en geverifieerde gebruikersreviews.
 
-*Disclosure: ik heb geen affiliate-relatie met Quatt of Vaillant. Cijfers komen uit echte huishoudens in mijn straat.*
+*Disclosure: DuurzaamThuisLab heeft op het moment van schrijven geen affiliate-relatie met Quatt of Vaillant; de links verwijzen naar de productpagina's van de fabrikanten.*
 
 ---
 
 💡 *Twijfel je over warmtepomp of cv-ketel houden? Lees [warmtepomp vs cv-ketel 2026](/posts/warmtepomp-vs-cv-ketel-2026/) voor de basis-rekening.*
 
 
-> **Kort antwoord:** Quatt of Vaillant warmtepomp in 2026? Ik vergeleek beide systemen bij twee buren — COP, geluid, kosten en service. Eerlijke conclusie en advies.
+> **Kort antwoord:** Quatt of Vaillant warmtepomp in 2026? Vergelijking op COP, geluid, kosten en service, op basis van specificaties en offerteprijzen. Eerlijke conclusie en advies.
 >
 > Quatt hybride pakket: €4.495 inclusief installatie en eerste jaar service-abonnement. Vaillant aroTHERM Plus 5 kW met buffervat en installatie: €8.500-€11.500 afhankelijk van bestaande situatie. Quatt is ongeveer 40-55% goedkoper bij start, maar Vaillant gaat 18-22 jaar mee versus 12-15 jaar bij Quatt.
 
-## De twee huishoudens
+## Twee referentieprofielen
 
-| | Buurman A (Quatt) | Buurman B (Vaillant) |
+Om de vergelijking concreet te maken rekenen wij met twee woningprofielen die typisch bij elk systeem passen. Het zijn rekenvoorbeelden, geen gemeten praktijkgevallen.
+
+| | Profiel A (Quatt) | Profiel B (Vaillant) |
 |---|---|---|
 | Bouwjaar | 1978, label C na isolatie | 1995, label B |
 | Woonoppervlak | 132 m² | 118 m² |
@@ -78,7 +80,7 @@ Vorig jaar belden twee buren me binnen één maand. De ene wilde Quatt, de ander
 
 ## Investering en terugverdientijd
 
-Buurman A betaalde voor zijn Quatt €4.495 inclusief plaatsing, eerste jaar service en alle ombouwwerk. Buurman B betaalde €9.800 voor zijn Vaillant — daarvan was €1.450 ISDE-subsidie waardoor de netto investering €8.350 werd.
+Het Quatt-pakket kost €4.495 inclusief plaatsing, het eerste jaar service en het ombouwwerk. Een Vaillant-installatie met buffervat komt in profiel B op circa €9.800; daarvan gaat €1.450 ISDE af, wat de netto investering op €8.350 brengt.
 
 Verschil in netto-investering: **€3.855 in voordeel van Quatt**.
 
@@ -94,52 +96,38 @@ Op jaarbasis bespaart Quatt 35-45% gas (afhankelijk van seizoen en COP-verloop).
 
 Na jaar 1 is Quatt €4.155 goedkoper. Op pure cashflow over 10 jaar wint Quatt met ongeveer €2.800-€3.200 voordeel. Pas na jaar 14-16 zou Vaillant terugverdienen — maar dan is een Quatt-systeem aan vervanging toe.
 
-## COP en efficiency in de praktijk
+## COP: wat de specificaties zeggen
 
-Ik heb 12 maanden lang COP-cijfers verzameld via beide apps. Ruwe data per maand:
+De fabrieksopgaven, niet onze metingen:
 
-| Maand | Quatt SCOP | Vaillant SCOP |
+| | Quatt hybride | Vaillant aroTHERM Plus |
 |---|---|---|
-| januari | 2,8 (ketel deelt mee) | 3,4 |
-| februari | 3,1 | 3,8 |
-| maart | 3,9 | 4,5 |
-| april | 4,4 | 5,1 |
-| mei | 4,8 | 5,4 |
-| juni-aug | 4,5-4,9 | 5,2-5,6 (warm tapwater) |
-| september | 4,4 | 5,0 |
-| oktober | 4,1 | 4,7 |
-| november | 3,5 | 4,1 |
-| december | 2,9 | 3,5 |
-| **Jaargemiddelde** | **3,8** | **4,6** |
+| SCOP-opgave | 3,9-4,2 | 4,8-5,1 (vloerverwarming, 35°C aanvoer) |
+| Bij radiatoren 50°C | n.v.t. (ketel neemt over) | circa 4,0-4,3 |
+| Bij vorst | cv-ketel neemt over onder het bivalentpunt | blijft draaien, COP zakt naar circa 2,8-3,0 |
 
-Vaillant haalt structureel 0,7-0,9 hogere COP. Op een warmtevraag van 12.000 kWh per jaar betekent dat circa 580-700 kWh minder stroomverbruik per jaar bij Vaillant. Tegen €0,32/kWh = €185-€225 voordeel per jaar voor Vaillant.
+Het verschil in jaargemiddelde ligt daarmee ergens tussen 0,7 en 0,9 COP-punt. Twee dingen zijn hierbij belangrijk. Ten eerste: de hoge Vaillant-opgave geldt bij 35°C aanvoertemperatuur — heb je gewone radiatoren, dan verdampt een groot deel van dat voordeel. Ten tweede: de Quatt-SCOP is per definitie een gemengd getal, omdat de cv-ketel meedraait; je vergelijkt dus geen twee warmtepompen maar een warmtepomp met een warmtepomp-plus-ketel.
 
-## Geluid: zachter dan ik dacht
+Op een warmtevraag van 12.000 kWh per jaar komt het COP-verschil neer op circa 580-700 kWh minder stroom bij Vaillant, ofwel €185-€225 per jaar bij €0,32/kWh. Daar staat bij Quatt een resterende gasrekening tegenover — de volledige rekensom staat verderop.
 
-Beide buurmannen hebben mijn geluidmeting toegestaan. Op 1 meter afstand bij volle belasting (-5°C buiten):
+## Geluid volgens de fabrieksopgaven
 
-- **Quatt buitenunit**: 41 dB
-- **Vaillant aroTHERM Plus**: 38 dB normaal, 32 dB in nachtmodus
+| | Quatt | Vaillant aroTHERM Plus |
+|---|---|---|
+| Normaal bedrijf (1 m) | 38-42 dB | 35-40 dB |
+| Nachtmodus | niet beschikbaar | 31 dB |
 
-Voor de erfgrens-norm (40 dB nacht) is Vaillant veiliger. Quatt zit op de grens — bij dichte plaatsing tegen schutting kan het problematisch worden. Bij <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Quatt installatie</a> hoort tegenwoordig een geluidsanalyse, dus je weet vooraf of het past.
+Voor de erfgrens-norm van 40 dB in de nachtperiode is Vaillant de veiligere keuze, vooral doordat er een echte nachtmodus is. Quatt zit met 38-42 dB tegen de norm aan: bij ruime plaatsing geen probleem, bij plaatsing dicht tegen een schutting of in een smalle tuin wél een risico, omdat geluid dan reflecteert. Bij een <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Quatt installatie</a> hoort een geluidsanalyse, dus je weet vooraf of het past — vraag daar expliciet naar en laat je de uitkomst schriftelijk geven.
 
 Lees ook [warmtepomp geluid en buren 2026](/posts/warmtepomp-geluid-buren-2026-norm/) voor de norm-uitleg.
 
-## Service en betrouwbaarheid
+## Service en betrouwbaarheid: twee modellen
 
-In 12 maanden:
+Het echte verschil zit niet in de hardware maar in het service-model.
 
-**Quatt-installatie buurman A**:
-- 1 storing (sensor), opgelost binnen 6 uur, geen kosten
-- 1 ingepland onderhoud, kosteloos in abonnement
-- App-uitval 2 dagen in juni, geen invloed op werking
+**Quatt** werkt met één partij voor alles: één telefoonnummer, één app, en storingen en onderhoud die onder het abonnement van €19 per maand vallen. Je koopt daarmee voorspelbaarheid: geen factuurdiscussies, geen dealerkeuze. De keerzijde is afhankelijkheid — als de dienst wegvalt, valt ook je service weg.
 
-**Vaillant-installatie buurman B**:
-- Geen storingen
-- Onderhoud €165 (Vaillant-dealer)
-- Eén firmware-update vereiste reset
-
-Quatt heeft één partij voor alles: bel je Quatt, ze regelen het. Vaillant gaat via een dealer — kwaliteit van service hangt sterk af van welke installateur je kiest. Lees [hoe kies je een warmtepompinstallateur](/posts/beste-warmtepompinstallateur-kiezen-2026/) voor de checklist.
+**Vaillant** loopt via een dealer-netwerk. De hardware krijgt in gebruikersreviews consistent goede beoordelingen; wat varieert is de installatie- en servicekwaliteit per dealer. Je koopt hier dus geen gegarandeerd serviceniveau maar een keuzevrijheid — en die keuze moet je zelf goed maken. Lees [hoe kies je een warmtepompinstallateur](/posts/beste-warmtepompinstallateur-kiezen-2026/) voor de checklist.
 
 ## Ruimte en plaatsing
 
@@ -185,9 +173,9 @@ Over 25 jaar: Quatt-bezitter koopt 2x een systeem (totaal €9.000), Vaillant-be
 - Veel zonnepaneel-productie (smart-grid voordeel)
 - Lange-termijn investering (15+ jaar) met focus op COP
 
-## Concrete jaarrekening 2026
+## Modelberekening: jaarrekening bij 12.000 kWh warmtebehoefte
 
-Voor het gemiddelde Nederlandse huishouden (12.000 kWh warmtebehoefte, label C):
+Aannames: label C, stroom €0,32/kWh, gas €1,40/m³, SCOP-opgaven zoals hierboven.
 
 **Quatt**:
 - Investering jaar 0: €4.495
@@ -203,9 +191,9 @@ Voor het gemiddelde Nederlandse huishouden (12.000 kWh warmtebehoefte, label C):
 - Onderhoud: €165/jaar
 - **Jaarkosten exploitatie: €1.000**
 
-Vaillant bespaart €565/jaar exploitatie. Investering-verschil €3.855. Pure terugverdientijd: 6,8 jaar — gerekend op huidige tarieven. Bij saldering-stop en duurdere stroom: 8-10 jaar.
+In dit model bespaart Vaillant circa €565 per jaar aan exploitatie bij een investeringsverschil van €3.855 — een terugverdientijd van ongeveer 7 jaar op huidige tarieven. Let op de belangrijkste gevoeligheid: die uitkomst geldt alleen als de woning geschikt is voor lage aanvoertemperatuur. Moet je daarvoor eerst radiatoren vervangen of vloerverwarming aanleggen, dan komt daar een investering van enkele duizenden euro's bij en verdubbelt de terugverdientijd bijna.
 
-## Mijn aanbeveling
+## Ons oordeel
 
 Voor 7 op de 10 Nederlanders met een bestaand huis: **Quatt**. Goedkoper, eenvoudiger, lagere drempel. Het is niet de beste warmtepomp — het is de slimste eerste stap.
 
@@ -213,11 +201,11 @@ Voor goed-geïsoleerde woningen of nieuwbouw: **Vaillant aroTHERM Plus**. Hoger 
 
 Voor wie nu twijfelt: bereken eerst je [warmtepomp onderhoud en kosten](/posts/warmtepomp-onderhoud-kosten-2026/) en kijk naar [warmtepomp vs hybride](/posts/warmtepomp-vs-hybride-warmtepomp-2026/) keuze.
 
-## Installatie-ervaring: hoe verschillen ze in de praktijk?
+## Installatie: hoeveel werk is het?
 
-Mijn buurman A's Quatt-installatie verliep zo: één team van 2 monteurs, één dag, al het werk inclusief verwijderen oude cv-ketel. Geen voorbereidende tekenwerk nodig — Quatt heeft een vast installatiepakket. De software werkt out-of-the-box; binnen 2 uur na oplevering draaide alles via de app.
+**Quatt** werkt met een vast installatiepakket: doorgaans één dag met twee monteurs, inclusief het aansluiten op de bestaande cv-ketel. Er is geen voorbereidend ontwerpwerk nodig, en de configuratie is grotendeels vooringesteld.
 
-Buurman B's Vaillant-installatie was complexer: drie dagen totaal. Dag 1 voorbereidend werk (leidingen, elektrisch). Dag 2 plaatsing buitenunit + binnen-unit + buffervat. Dag 3 inregeling stooklijn en koppeling met smart-grid. Hij koos een gecertificeerde Vaillant-dealer met goede reviews op Werkspot en die professionaliteit was de €1.500 meerprijs (vs goedkoopste dealer) waard.
+**Vaillant** all-electric is een aanzienlijk grotere ingreep: reken op twee tot drie dagen. Er komt voorbereidend leiding- en elektrawerk bij, de plaatsing van buitenunit, binnenunit én buffervat, en tot slot het inregelen van de stooklijn en de smart-grid-koppeling. Dat laatste onderdeel bepaalt in de praktijk een groot deel van het rendement — een verkeerd ingeregelde stooklijn kost volgens installateurs zo 15 tot 20 procent rendement. Kies daarom niet op laagste prijs maar op referenties.
 
 **Inregeling stooklijn** is bij Vaillant veel preciezer instelbaar dan bij Quatt. Je kunt aanvoer-temperatuur per buitentemperatuur fijn-tunen. Voor wie graag optimaliseert: groot voordeel. Voor wie het niet boeit: Quatt's automatische standaardwaarden zijn prima.
 
@@ -259,39 +247,31 @@ Quatt heeft geen smart-grid functie. Hij draait op vraag, ongeacht tarief. Bij d
 
 Voor wie dynamisch contract heeft: Vaillant pakt €100-€180/jaar extra besparing dat Quatt mist.
 
-## Geluidsproblemen met buren: hoe vaak?
+## Geluidsklachten met buren: waar het misgaat
 
-In een rondvraag onder 18 collega's en buren met warmtepomp:
+Wij hebben geen eigen cijfers over hoe vaak geluidsklachten voorkomen, en betrouwbare landelijke statistiek daarover is er niet. Wat uit klachtenprocedures en de normstelling wél consistent volgt, is waar het misgaat: bijna nooit door het toestel zelf, bijna altijd door de plaatsing.
 
-| Merk | Aantal | Geluidsklacht buren |
-|---|---|---|
-| Quatt | 5 | 1 (op te dichte plaatsing schutting) |
-| Vaillant aroTHERM | 7 | 0 |
-| Andere | 6 | 1 |
+De drie terugkerende oorzaken: de unit staat te dicht op de erfgrens, hij staat in een nauwe ruimte waar het geluid tussen twee muren reflecteert, of hij draait 's nachts op vol vermogen zonder nachtmodus.
 
-Quatt zit op de geluidsgrens — bij correcte plaatsing geen probleem, bij afwijkende plaatsing risico. Vaillant heeft meer marge. Voor wie kleine tuin heeft of dichte plaatsing nodig: kies Vaillant of laat Quatt geluidsanalyse vooraf doen.
+Praktische conclusie: met 38-42 dB heeft Quatt weinig marge tot de norm van 40 dB, Vaillant met een nachtmodus van 31 dB veel. Heb je een kleine tuin of moet de unit dicht bij de erfgrens: laat vóór de opdracht een geluidsberekening maken. Dat is de enige manier om zekerheid te krijgen — schattingen achteraf helpen niemand.
 
 ---
 
 <a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Vaillant</a>
 
-## Wat zegt de praktijk over storingen?
+## Wat gebruikers over storingen melden
 
-Uit een rondvraag onder 12 collega's en lezers van duurzaamthuislab.nl:
+Wij baseren ons hier op wat terugkomt in geverifieerde gebruikersreviews, niet op een eigen steekproef — die zou bij deze aantallen ook niets betekenen.
 
-| | Quatt eigenaars | Vaillant eigenaars |
-|---|---|---|
-| Aantal in steekproef | 5 | 7 |
-| Storingen jaar 1-2 | 2 (sensor, watercirculatie) | 1 (firmware) |
-| Storingen jaar 3-5 | nog niet bekend | 2 (compressor 1x, ventilator 1x) |
-| Gemiddelde reparatietijd | 1,2 dagen | 2,4 dagen |
-| Tevredenheid (10-schaal) | 8,4 | 8,1 |
+Bij **Quatt** gaan de meldingen over de eerste jaren en zijn ze vooral gericht op sensoren en de watercirculatie; wat consistent positief scoort is de reactiesnelheid, omdat storingen onder het abonnement vallen en er geen kostendiscussie is. Wat je bij Quatt nog niet weet: het merk bestaat sinds 2021, dus over het gedrag na jaar vijf tot tien is simpelweg nog geen data.
 
-Quatt scoort iets hoger op tevredenheid door snellere service-respons. Vaillant scoort hoger op betrouwbaarheid op lange termijn (minder storingen jaar 3+). Voor een 5-jaars-horizon: Quatt iets sneller bij storingen, Vaillant minder vaak storingen.
+Bij **Vaillant** is het beeld omgekeerd: minder meldingen, maar tragere en duurdere afhandeling zodra de garantietermijn voorbij is, en een sterke afhankelijkheid van welke dealer je hebt. Het aroTHERM-platform bestaat lang genoeg om iets over de levensduur te kunnen zeggen.
+
+Ons oordeel: voor een horizon van vijf jaar zijn ze op betrouwbaarheid vergelijkbaar en is het serviceverschil vooral een kwestie van voorkeur. Voor een horizon van vijftien jaar of langer weegt de bewezen levensduur van Vaillant zwaarder dan een abonnement dat zo lang moet blijven bestaan.
 
 ## Investeringsfasering: stap voor stap upgraden?
 
-Een interessant scenario dat ik vaak adviseer: **start met Quatt hybride, upgrade later naar Vaillant all-electric**.
+Een scenario dat de moeite van het narekenen waard is: **start met Quatt hybride, stap later over naar all-electric**.
 
 Logica: bij start (2026, label C, beperkt budget) Quatt nemen voor €4.500. In 8 jaar tijd het huis verder isoleren naar label B+. Dan in 2034 cv-ketel en Quatt verwijderen, Vaillant aroTHERM Plus plaatsen.
 
@@ -323,9 +303,9 @@ Voor wie zekerheid voor 20+ jaar wil: kies nu all-electric (Vaillant). Voor wie 
 
 Quatt en Vaillant spelen op verschillende niveaus. Quatt is de pragmatische keus voor de bestaande Nederlandse woningvoorraad — snel, betaalbaar, zonder ingrijpende verbouwing. Vaillant is de premium keus voor wie zijn huis al klaar heeft of nieuwbouw oplevert.
 
-Mijn buurman A is na een jaar tevreden Quatt-bezitter; zijn gasrekening is gehalveerd en hij merkt geen verschil in comfort. Mijn buurman B is tevreden Vaillant-bezitter; hij draait volledig elektrisch en zijn jaarkosten liggen €565 lager dan vroeger met cv.
+Wat de keuze werkelijk bepaalt, is niet het merk maar één vraag: welke aanvoertemperatuur heeft jouw woning op de koudste dag nodig? Zit dat onder de 45°C, dan is all-electric verdedigbaar en verdient Vaillant zich in het model binnen zeven tot tien jaar terug. Zit het daarboven, dan is een hybride geen halve maatregel maar de juiste techniek voor die woning — en halveert het gasverbruik zonder voorafgaande renovatie.
 
-Beide keuzes zijn goed — als je ze maar maakt voor de juiste situatie.
+Beide keuzes zijn goed, mits ze bij de situatie passen. Laat daarom eerst een warmteverliesberekening maken, en kies daarna pas een merk.
 
 *Vragen over jouw woning? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 
@@ -340,21 +320,20 @@ Beide keuzes zijn goed — als je ze maar maakt voor de juiste situatie.
 - [Warmtepomp geluid en buren](/posts/warmtepomp-geluid-buren-2026-norm/)
 - [Hybride warmtepomp vergelijking](/posts/warmtepomp-vs-hybride-warmtepomp-2026/)
 
-## Mini case-study — Quatt versus Vaillant in twee bijna-identieke huizen Tilburg
+## Rekenvoorbeeld: wat als de renovatie wél nodig is?
 
-Twee jaren-70 rijwoningen, beide label C na isolatie, beide 110 m². Identieke ligging, identieke gezinsgrootte. Eén buurman koos Quatt Hybrid (€7.500 inclusief installatie en abonnement), andere Vaillant aroTHERM plus 5 kW vol-elektrisch (€16.400 inclusief).
+De berekening hierboven ging uit van een woning die al geschikt is voor lage aanvoertemperatuur. Nu het andere scenario: een jaren-70 rijwoning van 110 m², label C na isolatie, met gewone radiatoren. Modelberekening, geen praktijkgeval.
 
-12-maands resultaat 2025:
-- Quatt-buur: 1.840 kWh stroom + 580 m³ gas. Stookrekening €1.420.
-- Vaillant-buur: 3.020 kWh stroom + 0 m³ gas. Stookrekening €936.
+- **Quatt hybride**: circa €4.500 investering, geen aanpassing aan het afgiftesysteem nodig. Resterend gasverbruik in het model circa 580 m³ per jaar, plus ruwweg 1.800 kWh extra stroom.
+- **Vaillant all-electric**: circa €9.800 voor de installatie, plus €4.000-€6.000 voor het geschikt maken van het afgiftesysteem (radiatoren vergroten of vloerverwarming aanleggen). Stroomverbruik in het model circa 3.000 kWh, gasverbruik nul.
 
-Vaillant wint €484 per jaar exploitatie. Maar Quatt is €8.900 goedkoper. Terugverdientijd op meer-investering Vaillant: 18 jaar (zonder discontering). Met saldering-effect en post-2027 dynamische voordelen: 13 jaar.
+Het exploitatievoordeel van Vaillant blijft in dit scenario rond de €450-€500 per jaar, maar het investeringsverschil loopt op naar €9.000 of meer. Terugverdientijd op dat verschil: ruim vijftien jaar, en dan is een Quatt-systeem al aan vervanging toe.
 
-Conclusie voor deze huizen: Quatt is financieel slimmer omdat verbouwing voor lage-temperatuur (radiatoren, vloer) niet nodig was. Vaillant pas zinvol bij geplande uitgebreide renovatie.
+Conclusie voor dit type woning: hybride is de financieel verstandigste keuze zolang de afgifterenovatie niet toch al op de planning staat. Staat die renovatie er wél, dan kantelt de rekening — doe het dan in één keer goed.
 
 ## Veelgemaakte fouten in deze keuze
 
-1. **Quatt-abonnement onderschatten.** €25/maand = €300/jaar — over 15 jaar €4.500.
+1. **Quatt-abonnement onderschatten.** €19/maand = €228/jaar — over 15 jaar ruim €3.400, en dat bedrag staat in geen enkele offerte-vergelijking op de eerste pagina.
 2. **Vaillant zonder weersafhankelijke regeling.** COP zakt 15-20 procent.
 3. **Buffer-vat te klein bij Vaillant.** 60 liter is te weinig — 200 liter optimaal.
 4. **Vergeten radiatoren te checken.** Vaillant vereist lage-temperatuur radiatoren of vloerverwarming.

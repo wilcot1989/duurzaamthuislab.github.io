@@ -2,7 +2,7 @@
 title: "Verhuizen met zonnepanelen: meenemen of achterlaten in 2026?"
 date: 2026-11-19
 draft: false
-description: "Zonnepanelen bij verhuizing meenemen of achterlaten? Ik leg uit wanneer demontage loont, hoe je meerwaarde claimt en hoe contractoverdracht werkt."
+description: "Zonnepanelen bij verhuizing meenemen of achterlaten? Wij zetten op een rij wanneer demontage loont, hoe je meerwaarde claimt en hoe contractoverdracht werkt."
 keywords:
   - zonnepanelen verhuizen
   - zonnepanelen meenemen bij verhuizing
@@ -27,6 +27,7 @@ products:
   - marstek
 schema_type: "Article"
 last_updated: 2026-06-12
+lastmod: 2026-08-20
 faq:
   - question: "Mag ik mijn zonnepanelen meenemen bij verkoop van mijn woning?"
     answer: "Ja, in principe wel — maar dat moet je vastleggen in de verkoopakte. Standaard gaan roerende zaken die aan de woning zijn bevestigd mee in de verkoop. Zonnepanelen vallen juridisch vaak onder 'onroerend goed' zodra ze op het dak zijn bevestigd. Spreek dit expliciet af met de koper en notaris."
@@ -44,11 +45,11 @@ faq:
     answer: "Ja — plug-in balkonsystemen en draagbare panelen neem je altijd mee. Dat is hun grote voordeel. Ze zijn niet aan de woning bevestigd, vallen niet onder 'onroerend goed' en kunnen in een nieuwe woning direct opnieuw in gebruik worden genomen. Geen demontagekosten, geen garantie-issues."
 ---
 
-Dit artikel bevat affiliate-links. Als jij via mijn link iets afsluit krijg ik mogelijk een kleine vergoeding zonder dat het jou extra kost.
+Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.
 
-Toen ik twee jaar geleden verhuisde van mijn rijtjeshuis in Amersfoort naar een grotere woning in Nijmegen, stond ik voor precies die vraag: wat doe ik met de tien zonnepanelen op mijn dak? Ik had ze vier jaar eerder laten installeren voor €7.200. Ze werkten nog prima. Demontage en herinstallatie zou mij zeker €1.600 kosten. En dan wist ik nog niet of de dakconstructie van de nieuwe woning überhaupt geschikt was.
+Wie verhuist met zonnepanelen op het dak, staat voor een concrete afweging: meenemen of achterlaten? Aan de ene kant staan de kosten van demontage, transport en herinstallatie, plus de vraag of het nieuwe dak qua constructie en oriëntatie überhaupt geschikt is. Aan de andere kant staat de meerwaarde die een werkend systeem aan de woning geeft bij verkoop.
 
-Uiteindelijk liet ik de panelen achter — en ik berekende hoe ik dat in de verkoopprijs kon verwerken. In dit artikel leg ik uit hoe ik die afweging heb gemaakt, en hoe jij dat in 2026 het best aanpakt.
+In dit artikel zetten wij die afweging op een rij op basis van installateurstarieven, taxatie- en marktonderzoek en de regels rond energiecontracten en saldering. Wij vergelijken op basis van specificaties, publieke prijsindicaties en openbare data — niet op basis van eigen installaties.
 
 > **Kort antwoord:** Zonnepanelen meenemen bij verhuizing loont zelden. Demontage en herinstallatie kosten €950–€1.950 en kunnen de garantie aantasten. Achterlaten met meerwaardeclaim of via een vastgelegde verrekenafspraak in de verkoopakte is in de meeste gevallen voordeliger.
 
@@ -56,7 +57,7 @@ Uiteindelijk liet ik de panelen achter — en ik berekende hoe ik dat in de verk
 
 ## Waarom meenemen bijna nooit de moeite waard is
 
-Ik hoor het regelmatig van lezers: "Ik neem gewoon mijn zonnepanelen mee, ze zijn van mij." Op zich logisch — maar de praktijk is een stuk minder simpel.
+Een veelgehoorde reactie is: "ik neem mijn zonnepanelen gewoon mee, ze zijn van mij." Op zich logisch — maar de praktijk is een stuk minder simpel.
 
 ### De kosten van demontage en herinstallatie
 
@@ -72,7 +73,7 @@ Een gemiddeld systeem van 10 panelen (3,5–4 kWp) kost het volgende bij demonte
 
 Dat zijn geen kleine bedragen. En dan zijn er nog twee additionele risico's.
 
-**Risico 1: Incompatibiliteit met het nieuwe dak.** Als je nieuwe woning een plat dak heeft in plaats van een schuin dak, of als de daköri­entatie anders is, renderen dezelfde panelen mogelijk 20–35% minder. Wat altijd goed werkte in Amersfoort, werkt misschien matig in de nieuwe situatie.
+**Risico 1: Incompatibiliteit met het nieuwe dak.** Als je nieuwe woning een plat dak heeft in plaats van een schuin dak, of als de daköri­entatie anders is, renderen dezelfde panelen mogelijk 20–35% minder (indicatie op basis van de gangbare opbrengsttabellen voor dakoriëntatie en hellingshoek). Een systeem dat op de oude woning goed presteerde, kan in de nieuwe situatie dus flink minder opleveren.
 
 **Risico 2: Omvormerproblematiek.** Een omvormer is ingesteld op de specifieke configuratie van jouw panelen en dak. Bij herinstallatie moet een elektricien de omvormer opnieuw configureren en keuren. Bij sommige merken (SolarEdge, Enphase) is dit redelijk eenvoudig; bij andere systemen kost het extra tijd.
 
@@ -85,13 +86,13 @@ Er is een smalle situatie waarin demontage en herinstallatie rendabel is:
 - De installatiekosten op het nieuwe dak zijn **lager dan gebruikelijk** (bijv. nieuwbouw met al voorbereide dakdoorvoeren)
 - De demontage wordt gedaan door **dezelfde installateur** die later ook herinstalleert (lagere combinatieprijs)
 
-In dat geval: haal minimaal drie offertes op en vergelijk de totaalkostprijs met de meerwaardeclaim die ik hieronder beschrijf.
+In dat geval: haal minimaal drie offertes op en vergelijk de totaalkostprijs met de meerwaardeclaim die hieronder wordt beschreven.
 
 ---
 
 ## Achterlaten: hoe claim je meerwaarde?
 
-Dit is de route die ik zelf heb gekozen — en die voor de meeste verkopers gunstiger uitpakt.
+Op basis van de kostenposten hierboven en de taxatiecijfers hieronder is dit voor de meeste verkopers de gunstigste route.
 
 ### Wat zijn de panelen waard voor de koper?
 
@@ -154,7 +155,7 @@ Dan zijn dit je opties voor de tussenperiode:
 
 **Optie 3: Dinamisch contract nu al afsluiten.** Zelfs zonder zonnepanelen profiteer je van goedkope nachturen voor de wasmachine, vaatwasser en eventuele thuisbatterij. <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a> heeft geen abonnementskosten en is daarvoor een goede tussenstap.
 
-Voor de overige verhuis-taken adviseer ik [verhuisplanner.app](https://verhuisplanner.app) — handig om alle praktische zaken overzichtelijk bij te houden, van energie-overstap tot adreswijzigingen.
+Voor de overige verhuis-taken kan een tool als [verhuisplanner.app](https://verhuisplanner.app) helpen — handig om alle praktische zaken overzichtelijk bij te houden, van energie-overstap tot adreswijzigingen.
 
 ---
 
@@ -174,7 +175,7 @@ Lees ook [beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederla
 
 ## Stappenplan: verhuizing met zonnepanelen
 
-Hier is het praktische stappenplan dat ik zelf heb gevolgd en adviseer.
+Onderstaand stappenplan volgt de formele momenten in een verkooptraject: taxatie, verkoopovereenkomst, leveringsdatum en de contractwissel daarna.
 
 ### 6 maanden voor verhuizing
 
@@ -207,9 +208,9 @@ Hier is het praktische stappenplan dat ik zelf heb gevolgd en adviseer.
 
 ---
 
-## Rekensom: meenemen vs. achterlaten
+## Modelberekening: meenemen vs. achterlaten
 
-Stel: je hebt een systeem van 10 panelen (4 kWp, 3 jaar oud, geïnstalleerd voor €7.200). De actuele restwaarde op de markt is ca. €4.000. Opbrengst: 3.600 kWh/jaar.
+Onderstaande berekening is een **modelberekening**, geen meting. Aannames: een systeem van 10 panelen (4 kWp, 3 jaar oud, aanschaf €7.200), een geschatte marktrestwaarde van circa €4.000, een jaaropbrengst van 3.600 kWh (ca. 900 kWh per kWp, de gangbare vuistregel voor Nederland) en een meerwaarde van €1.000 per kWp — de onderkant van de bandbreedte uit het taxatieonderzoek hierboven. Andere aannames geven een andere uitkomst.
 
 **Scenario A: meenemen**
 - Demontage + herinstallatie: €1.600
@@ -218,33 +219,37 @@ Stel: je hebt een systeem van 10 panelen (4 kWp, 3 jaar oud, geïnstalleerd voor
 - Nadeel: je vraagprijs gaat niet omhoog, je betaalt €1.600 extra, risico op garantieverlies
 
 **Scenario B: achterlaten met meerwaardeclaim**
-- Taxateur schat meerwaarde op €1.000 per kWp = €4.000
+- Aangenomen meerwaarde: €1.000 per kWp = €4.000
 - Jij verwerkt €4.000 in de vraagprijs (of onderhandelt daartoe)
 - Kosten voor jou: €0
 - Netto voordeel t.o.v. meenemen: €4.000 – €0 = €4.000 vs. €1.600 demontage
 
-In dit scenario is achterlaten €5.600 voordeliger (€4.000 meerwaarde + €1.600 besparing op demontage).
+In dit rekenvoorbeeld is achterlaten €5.600 voordeliger (€4.000 meerwaarde + €1.600 besparing op demontage).
 
-De rekensom valt anders uit als:
+De uitkomst valt anders uit als:
 - De koper de meerwaarde niet erkent (krappe markt, onwillige koper)
 - De panelen slechts 1 jaar oud zijn en de demontage goedkoop is
 - Het nieuwe dak dezelfde oriëntatie en constructie heeft
 
 ---
 
-## Praktijkervaring: twee cases uit mijn netwerk
+## Twee scenario's uitgerekend
 
-### Case 1: Sandra verhuist van Utrecht naar Zwolle
+Ook onderstaande twee scenario's zijn **modelberekeningen** met expliciete aannames, geen beschreven praktijkgevallen. Ze laten zien hoe de afweging kantelt bij verschillende uitgangssituaties.
 
-Sandra had 12 panelen (4,8 kWp, 5 jaar oud). Ze overwoog ze mee te nemen. Na het opvragen van offertes: demontage + herinstallatie €1.780. De nieuwe woning had een oost-west dak in plaats van een zuiddak — verwachte productie 22% lager.
+### Scenario 1: ouder systeem, ongunstiger nieuw dak
 
-Ze koos voor achterlaten. Taxateur schatte meerwaarde €4.200. In de verkoop behaalde ze €3.600 extra boven de oorspronkelijke vraagprijs (koper onderhandelde iets). Netto voordeel: €3.600 vs. €1.780 kosten = €5.380 beter af.
+Aannames: 12 panelen (4,8 kWp), 5 jaar oud; opgevraagde combinatieprijs voor demontage plus herinstallatie €1.780; het nieuwe dak is oost-west in plaats van zuid, wat volgens de standaard opbrengsttabellen ongeveer 20% minder productie geeft; aangenomen meerwaarde €875 per kWp (€4.200 totaal), waarvan in de onderhandeling ruwweg 85% wordt gerealiseerd (€3.600).
 
-### Case 2: Thomas neemt zijn 2 jaar oude systeem mee
+Uitkomst: achterlaten levert €3.600 op tegen €0 kosten; meenemen kost €1.780 en levert bovendien structureel minder stroom op. Het verschil tussen beide routes bedraagt in dit model €5.380. Bij een systeem van deze leeftijd en een ongunstiger dakoriëntatie is achterlaten dus vrijwel altijd de betere route.
 
-Thomas had een nieuw systeem van 8 panelen (3,2 kWp), net 2 jaar oud. Zijn nieuwe woning had een vergelijkbaar schuin zuiddak. Installateur bood combinatieprijs demontage + herinstallatie voor €1.100.
+### Scenario 2: jong systeem, vergelijkbaar nieuw dak
 
-Meerwaardeclaim was €2.800 bij taxateur. Thomas besloot mee te nemen: hij hecht waarde aan het complete systeem (eigen monitoring-data, vertrouwde installateur) en wilde de garantie niet riskeren via taxatieonzekerheid. In zijn geval: een verdedigbare keuze.
+Aannames: 8 panelen (3,2 kWp), 2 jaar oud; vergelijkbaar schuin zuiddak op de nieuwe woning, dus geen opbrengstverlies; combinatieprijs van één installateur voor demontage plus herinstallatie €1.100; aangenomen meerwaarde €875 per kWp (€2.800 totaal).
+
+Uitkomst: achterlaten levert in dit model nog steeds meer op (€2.800 tegen €1.100 kosten voor meenemen). Meenemen wordt pas verdedigbaar als de meerwaarde in de onderhandeling niet of nauwelijks wordt vergoed — bijvoorbeeld doordat de koper de panelen niet meeweegt in zijn bod. Dan resteert de restwaarde van een nog jong systeem met vrijwel volledige garantie, en zijn de €1.100 aan verhuiskosten relatief snel terugverdiend.
+
+**Onze inschatting:** de leeftijd van het systeem en de vergelijkbaarheid van het nieuwe dak zijn de twee factoren die de uitkomst bepalen. Onder ongeveer drie jaar oud én bij een gelijkwaardig dak is meenemen een reële optie; in alle andere gevallen weegt de meerwaardeclaim zwaarder.
 
 ---
 

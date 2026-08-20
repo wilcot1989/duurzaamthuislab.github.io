@@ -1,7 +1,7 @@
 ---
 title: Tibber vs Frank Energie vergelijking 2026
 date: 2026-10-03 08:00:00+02:00
-lastmod: 2026-10-03 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
 description: 'Tibber of Frank Energie? Eerlijke head-to-head vergelijking: servicegeld, app, EV laden, batterij-integratie en klantenservice vergeleken.'
 categories:
@@ -21,7 +21,7 @@ keywords:
   - beste dynamisch contract
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1473341304170-971dccb5ac1e&w=1200&output=webp&q=70
 faq:
   - q: Wat is goedkoper, Tibber of Frank Energie?
@@ -56,13 +56,13 @@ last_updated: '2026-10-03'
 category: energiecontracten
 ---
 
-Vorig jaar belde Jeroen uit Drenthe me op. Hij had net zonnepanelen laten installeren, overwoog een tweedehands Kia EV6 en vroeg me: "Mark, Tibber of Frank — wat zou jij kiezen?" Hij had allebei de websites bekeken, allebei de apps gedownload, en was er niet uit. "Ze lijken zo op elkaar," zei hij. "Maar er moet toch een verschil zijn?"
+Tibber of Frank Energie? Wie beide websites bekijkt en beide apps download, komt er meestal niet uit: op papier lijken ze sterk op elkaar. Twee dynamische leveranciers zonder marge op de kWh-prijs, beide maandelijks opzegbaar.
 
-Er is een verschil. Meerdere zelfs. En dat verschil hangt af van wat jij thuis hebt staan en wat je ermee wil. Dit artikel geeft je het eerlijke antwoord — geen marketing, geen opgeblazen claims, maar de punten die Jeroen en honderden anderen willen weten.
+Er is wel verschil. Meerdere zelfs. En dat verschil hangt af van wat jij thuis hebt staan: een EV, een thuisbatterij, of alleen een gewoon huishouden. Dit artikel zet de tarieven, voorwaarden en app-functies naast elkaar en rekent per profiel door wat het verschil in euro's betekent.
 
 ---
 
-*Disclosure: dit artikel bevat affiliate-links. Ik verdien een kleine commissie als je via mijn link iets koopt, zonder meerkosten voor jou. Mijn aanbevelingen zijn gebaseerd op eigen tests en klantcases.*
+*Disclosure: dit artikel bevat affiliate-links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder meerkosten voor jou. Onze beoordeling is gebaseerd op de gepubliceerde tarieven en voorwaarden van beide leveranciers, de app-functionaliteit en geverifieerde gebruikersreviews.*
 
 ---
 
@@ -97,7 +97,7 @@ Ja, één cent per maand. Twaalf cent per jaar. Op een totale jaarrekening van �
 
 Beide leveranciers verdienen uitsluitend aan dit servicegeld. Ze pakken geen marge op de stroomprijs — hun businessmodel is dat ze je met slimme features aan zich binden en volume draaien. Vandaar de lage prijs.
 
-Voor huishoudens met een laag verbruik (< 1.500 kWh/jaar) kan dit servicegeld wél pijn doen. Iemand die 1.200 kWh per jaar verbruikt en €72/jaar aan servicegeld betaalt: dat is al €6 per 100 kWh overhead. Bij die profielen kijk ik liever naar Engie (€3/mnd) of Greenchoice (€4/mnd).
+Voor huishoudens met een laag verbruik (< 1.500 kWh/jaar) kan dit servicegeld wél pijn doen. Iemand die 1.200 kWh per jaar verbruikt en €72/jaar aan servicegeld betaalt: dat is al €6 per 100 kWh overhead. Bij die profielen zijn Engie (€3/mnd) of Greenchoice (€4/mnd) doorgaans gunstiger.
 
 ---
 
@@ -107,7 +107,7 @@ Dit is waar Tibber en Frank Energie fundamenteel uit elkaar lopen.
 
 ### Tibber app
 
-De Tibber-app is het beste energiedashboard dat ik ken in Nederland. Ik heb de apps van Eneco, Vattenfall, ANWB, Frank en Tibber naast elkaar gebruikt — Tibber is een klasse apart:
+De Tibber-app geldt breed als het beste energiedashboard op de Nederlandse markt; in app-store-beoordelingen en gebruikersreviews scoort hij structureel hoger dan de apps van Eneco, Vattenfall, ANWB en Frank. Wat hij biedt:
 
 - **Realtime verbruik** (met Tibber Pulse): je ziet per seconde wat er binnenkomt en weggaat
 - **Prijsverwachting 24-36 uur vooruit**: ideaal voor het plannen van wasmachine, vaatwasser, EV
@@ -129,7 +129,7 @@ Frank's app is functioneel en no-frills. Je ziet:
 
 Dat is alles wat de meeste mensen nodig hebben. Geen Pulse-integratie, geen native EV-laden, geen smart home API. Frank heeft hier bewust voor gekozen: simpel product, lage kosten.
 
-Voor iemand als Jeroen uit Drenthe die straks een EV rijdt en al nadenkt over een thuisbatterij: de Frank-app gaat hem niet ver genoeg helpen. Voor zijn buurman die alleen thuis wil zien wat stroom kost: prima.
+Voor wie straks een EV rijdt en al nadenkt over een thuisbatterij, schiet de Frank-app functioneel tekort. Voor wie alleen wil zien wat stroom op dit moment kost: prima.
 
 **App-score: Tibber 9/10, Frank Energie 6/10**
 
@@ -200,7 +200,7 @@ Dit is een van de weinige punten waar Frank Energie duidelijk beter scoort.
 - Chat-reactietijd gemiddeld 5-15 minuten overdag
 - Goede FAQ en helpcenter
 
-Voor de meeste gebruikers is het verschil klein. Chattende millennial? Bij Tibber prima geholpen. Maar ik zie in mijn klantcases een patroon: oudere gebruikers (55+) en mensen die minder digitaal vaardig zijn vinden het prettig om te kunnen bellen. Die groep kiest beter voor Frank.
+Voor de meeste gebruikers is het verschil klein: wie gewend is te chatten wordt bij Tibber snel geholpen. Het onderscheid telt vooral als telefonisch contact belangrijk voor je is — Frank biedt dat wel, Tibber in beginsel niet. Dat is een reëel punt voor wie minder digitaal vaardig is of liever iemand aan de lijn heeft.
 
 Voor de ACM ConsuWijzer-toets zijn beide leveranciers gecertificeerd en voldoen ze aan de informatieplicht voor energieleveranciers. Meer info: [ACM ConsuWijzer energieleveranciers](https://www.consuwijzer.nl/energie).
 
@@ -285,7 +285,7 @@ Frank Energie is de betere keus als je:
 
 ## Rekenvoorbeeld: wat betaal je per jaar?
 
-Ik werk met twee huishoudprofielen om het concreet te maken.
+Om het concreet te maken, twee doorgerekende huishoudprofielen.
 
 **Profiel A: basishuishouden (geen EV, geen batterij)**
 
@@ -315,7 +315,7 @@ Nu telt slim laden mee.
 | **Totaal EV + huishoud** | **€882** | **€1.301,88** |
 | **Verschil** | | **€419,88/jaar voordeel Tibber** |
 
-Dit is de reden waarom ik Jeroen uit Drenthe adviseerde: koop die EV6, neem Tibber. De besparing op laadkosten dekt zijn Tibber Pulse (€90 eenmalig) in minder dan 3 maanden terug.
+Dat verschil is de kern van de keuze: heb je een EV, dan verdient de Tibber Pulse (€90 eenmalig) zich uit de besparing op laadkosten in minder dan drie maanden terug.
 
 ---
 
@@ -331,9 +331,9 @@ Lees de volledige strategie in [saldering stopt 2027: volledige gids](/posts/sal
 
 ---
 
-## Mijn aanbeveling
+## Onze aanbeveling
 
-Na twee jaar werken met klanten die dynamische contracten hebben — en na het testen van zowel Tibber als Frank Energie in de praktijk — kom ik altijd op dezelfde conclusie:
+Op basis van de tarieven, voorwaarden en de doorrekening hierboven:
 
 **Tibber als je een EV hebt of serieus overweegt om er een te kopen.** De slim-laden-feature is zo waardevol dat alle andere vergelijkingspunten erbij verbleken. €400-€650 extra besparing per jaar, zonder moeite.
 
@@ -341,7 +341,7 @@ Na twee jaar werken met klanten die dynamische contracten hebben — en na het t
 
 **ANWB Energie Dynamisch als je piekspreiding wil.** Die leverancier dekt pieken af tot €0,40/kWh — handig voor wie angstig wordt van winterprijspieken. Lees de vergelijking in [Tibber vs ANWB Energie Dynamisch](/posts/tibber-vs-anwb-energie-dynamisch-2026/).
 
-Geen van beide is "fout". Dynamisch contract zonder marge is in 2026 altijd beter dan een vast contract — dat is de echte keuze die je moet maken. Over [dynamisch vs vast contract](/posts/dynamisch-vs-vast-contract-2026/) schreef ik eerder al een uitgebreid artikel.
+Geen van beide is "fout". Dynamisch contract zonder marge is in 2026 altijd beter dan een vast contract — dat is de echte keuze die je moet maken. Over [dynamisch vs vast contract](/posts/dynamisch-vs-vast-contract-2026/) staat een uitgebreider artikel op de site.
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Overstappen naar Tibber</a> &nbsp;|&nbsp; <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Overstappen naar Frank Energie</a>
 
@@ -349,7 +349,7 @@ Geen van beide is "fout". Dynamisch contract zonder marge is in 2026 altijd bete
 
 ## Gerelateerde artikelen
 
-- [Tibber review en ervaringen 2026](/posts/tibber-review-ervaringen-2026/) — mijn 18 maanden met Tibber
+- [Tibber review en ervaringen 2026](/posts/tibber-review-ervaringen-2026/) — verzamelde gebruikerservaringen en voorwaarden
 - [Frank Energie review en ervaringen 2026](/posts/frank-energie-review-ervaringen-2026/) — eerlijke Frank-analyse
 - [ANWB Energie Dynamisch review 2026](/posts/anwb-energie-dynamisch-review-2026/) — het derde grote dynamische contract
 - [Tibber vs ANWB Energie Dynamisch 2026](/posts/tibber-vs-anwb-energie-dynamisch-2026/) — als piekspreiding telt
@@ -361,6 +361,6 @@ Geen van beide is "fout". Dynamisch contract zonder marge is in 2026 altijd bete
 
 ---
 
-*Heb je vragen over jouw specifieke situatie — EV-merk, bestaand contract, of thuisbatterij? Mail me via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl). Ik reageer normaal binnen 1-2 werkdagen.*
+*Heb je vragen over jouw specifieke situatie — EV-merk, bestaand contract, of thuisbatterij? Mail naar [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl); wij reageren normaal binnen 1-2 werkdagen.*
 
 **Externe bron:** [ACM ConsuWijzer — energieleverancier vergelijken](https://www.consuwijzer.nl/energie) — onafhankelijke consumenteninformatie over energiecontracten in Nederland.

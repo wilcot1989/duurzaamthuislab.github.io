@@ -1,7 +1,7 @@
 ---
 title: 'Thuisbatterij Vergelijking 2026: Top 5 Modellen Getest'
 date: 2026-05-07 10:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: 2026-08-20 08:00:00+02:00
 description: De 5 beste thuisbatterijen van 2026 vergeleken op capaciteit, prijs, levensduur en rendement. Tesla Powerwall, BYD, Huawei, SolarEdge en Enphase.
 categories:
 - thuisbatterij
@@ -18,7 +18,7 @@ keywords:
 - thuisbatterij zonnepanelen
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Welke thuisbatterij is de beste in 2026?
@@ -68,7 +68,7 @@ De vijf gekozen systemen zijn representatief voor het volledige marktspectrum: v
 
 ## Praktijkjaarberekening: tussenwoning Arnhem
 
-Laat me concreet doorrekenen voor een profiel dat ik regelmatig tegenkom:
+Rekenvoorbeeld voor een profiel dat veel voorkomt:
 
 **Gezin in een tussenwoning in Arnhem**
 - Jaarverbruik: 4.200 kWh
@@ -177,11 +177,11 @@ Voor wie op een dynamisch contract zit of dat overweegt: hoe goed stuurt elke ba
 
 *SolarEdge biedt backup via de Backup Interface (apart product)
 
-## Wat ik test en hoe ik scoor
+## Hoe wij vergelijken en scoren
 
-Voor elk systeem kijk ik naar: (1) specificaties vs. geclaimde waarden, (2) installateursfeedback uit mijn netwerk, (3) echte eigenaarservaringen, (4) software-kwaliteit en update-frequentie. Tesla en Enphase zijn gebaseerd op internationale data; Huawei en BYD op NL-installaties; SolarEdge op een vriendin die 's avonds de terugverdientijd bijhoudt.
+Per systeem kijken wij naar vier dingen: (1) de fabrieksspecificaties, en of de geclaimde waarden onderling consistent zijn, (2) wat de installatiehandleiding vraagt aan meterkast en ruimte, (3) geverifieerde eigenaarsreviews, en (4) de kwaliteit en updatefrequentie van de software.
 
-Mijn scorecriteria: prijs/kWh (1-5), automation (1-5), NL-service (1-5), flexibiliteit (1-5).
+Onze scorecriteria: prijs/kWh (1-5), automatisering (1-5), NL-service (1-5), flexibiliteit (1-5).
 
 ---
 
@@ -402,9 +402,9 @@ De thuisbatterij-markt is snel. Drie dingen die dit jaar anders zijn dan in 2025
 
 **Conclusie:** Een thuisbatterij is het meest rendabel in combinatie met een [dynamisch energiecontract](/posts/dynamische-energiecontracten-vergelijking-2026/) en wordt steeds rendabeler naarmate de salderingsregeling wordt afgebouwd.
 
-## Mijn totaalscore per batterij
+## Totaalscore per batterij
 
-Na alles afgewogen: hier is mijn persoonlijke rangschikking in 2026.
+Alles afgewogen komen wij tot deze rangschikking voor 2026.
 
 **1. Huawei LUNA2000** — beste overall voor wie een Huawei-omvormer heeft of nieuw bouwt. Hoge efficiëntie, goede prijs, native integraties, backup mogelijk.
 
@@ -428,9 +428,9 @@ Na alles afgewogen: hier is mijn persoonlijke rangschikking in 2026.
 
 ---
 
-## Mijn eindadvies in drie zinnen
+## Ons eindadvies in drie zinnen
 
-De thuisbatterij-markt in Nederland in 2026 is volwassener dan ooit. De grote vijf systemen die ik in dit artikel bespreek zijn stuk voor stuk serieuze producten met bewezen track record, 10+ jaar garantie en een groeiend NL-installatienetwerk. De tijden dat thuisbatterijen experimenteel waren, liggen achter ons. Elke keuze in de top vijf is verantwoord — het gaat erom welke het best bij jouw situatie past.
+De thuisbatterij-markt in Nederland in 2026 is volwassener dan ooit. De grote vijf systemen in dit artikel zijn stuk voor stuk serieuze producten met bewezen track record, 10+ jaar garantie en een groeiend NL-installatienetwerk. De tijden dat thuisbatterijen experimenteel waren, liggen achter ons. Elke keuze in de top vijf is verantwoord — het gaat erom welke het best bij jouw situatie past.
 
 Als je budget onder €6.000 is en je wilt NL-service: kies Huawei LUNA2000 of Sessy (buiten dit artikel, maar sterk aanbevolen). Als je een groot huis hebt met EV en backup als harde eis: kies Tesla Powerwall 3. Als je maximale efficiëntie wil bij een bestaande SolarEdge-installatie: kies SolarEdge Home Battery. Voor alle andere situaties: BYD HVS of Enphase bieden bewezen kwaliteit voor specifieke niches.
 

@@ -1,7 +1,7 @@
 ---
 title: Vloerisolatie vs spouwmuurisolatie
 date: 2026-05-23 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Vloerisolatie of spouwmuurisolatie: wat geeft het meeste rendement per geïnvesteerde euro? Vergelijking op besparing, kosten.'
 categories:
 - isolatie
@@ -19,7 +19,7 @@ keywords:
 - spouwmuur of vloer isoleren
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is goedkoper: vloer- of spouwmuurisolatie?'
@@ -45,7 +45,7 @@ schema_type: Article
 ---
 Een typische Nederlandse woning van voor 1985 heeft drie isolatiezwakke plekken: de spouwmuren, de begane grondvloer en het dak. De vraag die daarbij hoort is welke maatregel per geïnvesteerde euro het meeste oplevert — en dat is niet de maatregel die het meeste kost.
 
-In dit artikel leg ik de vergelijking vast: spouwmuurisolatie versus vloerisolatie via de kruipruimte. Beide zijn populaire en relatief goedkope ingrepen voor woningen met een kruipruimte en spouwmuren — de standaard situatie bij Nederlandse rijtjeswoningen en twee-onder-een-kapwoningen van bouwjaar 1930-1985.
+Dit artikel zet de vergelijking op een rij: spouwmuurisolatie versus vloerisolatie via de kruipruimte. Beide zijn populaire en relatief goedkope ingrepen voor woningen met een kruipruimte en spouwmuren — de standaard situatie bij Nederlandse rijtjeswoningen en twee-onder-een-kapwoningen van bouwjaar 1930-1985.
 
 *Deze pagina bevat geen affiliate-links voor isolatieproducten. Merken worden alleen als referentie genoemd.*
 
@@ -93,7 +93,7 @@ Spouwmuurisolatie wordt aangebracht door kleine gaten (circa 12 mm) te boren in 
 | Hoekwoning | 80-100 m2 | €960-€1.400 | €600-€800 | **€1.560-€2.200** |
 | Vrijstaande woning | 120-160 m2 | €1.440-€2.240 | €800-€1.200 | **€2.240-€3.440** |
 
-Mijn tussenwoning heeft 55 m2 geveloppervlak. Ik betaalde in 2022 €1.100 voor EPS inblaasisolatie — een prijs die nu licht gestegen is maar nog steeds in dit bereik valt.
+Ter oriëntatie: een tussenwoning met circa 55 m2 geveloppervlak komt bij EPS-inblaasisolatie uit rond €1.100 tot €1.400 — de onderkant van de bandbreedte in de tabel hierboven.
 
 ### Besparing spouwmuurisolatie
 
@@ -132,7 +132,7 @@ Vloerisolatie via de kruipruimte wordt aangebracht op de onderzijde van de began
 | Gespoten PUR | €20-€30 | +1,5-2,5 m2K/W | €1.400-€2.100 |
 | Glaswol ophangsysteem | €25-€40 | +2,5-4,5 m2K/W | €1.750-€2.800 |
 
-Mijn vloeroppervlak is 68 m2. Ik koos in 2023 voor EPS-platen door een vakman: €1.250 totaal.
+Ter oriëntatie: voor een vloeroppervlak van circa 68 m2 komen EPS-platen, aangebracht door een vakman, uit rond €1.250 tot €1.600.
 
 ### Besparing vloerisolatie
 
@@ -144,7 +144,7 @@ Het warmteverlies via de begane grondvloer bedraagt voor een tussenwoning met on
 - Besparing na isolatie (85% reductie via vloer): circa 133 m3/jaar
 - **Jaarlijkse besparing: €145-€200**
 
-Bovenop de directe energiebesparing biedt vloerisolatie een sterk bijkomend voordeel: **comfortverbetering**. Een koude vloer is één van de meest gevoelde oorzaken van koudeklachten en tochtigheid. Na vloerisolatie hoef ik geen dikke sokken meer te dragen in de winter — dat is moeilijk in euro's uit te drukken maar merkbaar in het dagelijks comfort.
+Bovenop de directe energiebesparing biedt vloerisolatie een sterk bijkomend voordeel: **comfortverbetering**. Een koude vloer is één van de meest gevoelde oorzaken van koudeklachten en tochtigheid. Het verdwijnen van een koude vloer is moeilijk in euro's uit te drukken, maar het is het effect dat in gebruikersreviews van isolatiebedrijven het vaakst als grootste winst wordt genoemd.
 
 ---
 
@@ -256,7 +256,7 @@ In dit model levert spouwmuurisolatie ruim twee keer zoveel op als vloerisolatie
 
 ## Conclusie: spouwmuurisolatie wint op rendement
 
-Als ik moet kiezen tussen spouwmuurisolatie en vloerisolatie bij een beperkt budget, is de keuze duidelijk: **spouwmuurisolatie geeft het beste rendement per geïnvesteerde euro**.
+Moet je bij een beperkt budget kiezen tussen spouwmuurisolatie en vloerisolatie, dan is de uitkomst van de vergelijking duidelijk: **spouwmuurisolatie geeft het beste rendement per geïnvesteerde euro**.
 
 - Hogere jaarlijkse besparing (€300-€400 vs €150-€200)
 - Kortere terugverdientijd (2-3 jaar na SEEH vs 5-7 jaar)
@@ -335,7 +335,7 @@ Vloerisolatie en kruipruimtevocht zijn nauw met elkaar verbonden. Wie vloerisola
 
 4. **Drainage:** als water letterlijk in de kruipruimte staat na regen, is drainage (afvoergoot + pompje) noodzakelijk voor elk ander werk zinvol is.
 
-Ik raad aan nooit vloerisolatie aan te brengen zonder eerst de vochtproblematiek te onderzoeken. Een droge kruipruimte is de basis voor effectieve en langdurige vloerisolatie.
+Breng nooit vloerisolatie aan zonder eerst de vochtproblematiek te onderzoeken. Een droge kruipruimte is de basis voor effectieve en langdurige vloerisolatie.
 
 ---
 
@@ -397,7 +397,7 @@ Op basis van de bovenstaande rekenvoorbeelden en de rendementscijfers per maatre
 
 Wie dit pad volgt kan het gasverbruik in enkele jaren ongeveer halveren zonder volledig van het gas af te gaan en zonder een investering in één keer.
 
-De combinatie spouwmuur + vloerisolatie + kierdichting heeft mij €628/jaar besparing opgeleverd bij een totale investering van €2.444 (inclusief materialen kierdichting). Netto rendement na SEEH-subsidie: terugverdientijd 2,8 jaar. Daarna: puur winst.
+De combinatie spouwmuur + vloerisolatie + kierdichting komt bij een tussenwoning in de berekening uit op circa €600 tot €650 besparing per jaar bij een totale investering van rond €2.450 (inclusief materiaal voor kierdichting). Na SEEH-subsidie levert dat een rekenkundige terugverdientijd van circa 3 jaar op.
 
 ---
 
@@ -407,7 +407,7 @@ De combinatie spouwmuur + vloerisolatie + kierdichting heeft mij €628/jaar bes
 
 Tussenwoningen (rijwoningen) hebben maar twee buitenmuren: voor en achter. De zijmuren zijn gemeenschappelijke scheidingsmuren die geen warmte naar buiten verliezen. Dit betekent dat spouwmuurisolatie bij een tussenwoning minder effect heeft dan bij een hoekwoning of vrijstaande woning — de blootstelling aan buitenlucht is kleiner.
 
-Toch is spouwmuurisolatie ook bij tussenwoningen zinvol. De voor- en achtergevel zijn buitenmuren die significant warmte verliezen. Mijn tussenwoning (1974) haalde een besparing van €340/jaar — nog steeds de beste maatregel per euro.
+Toch is spouwmuurisolatie ook bij tussenwoningen zinvol. De voor- en achtergevel zijn buitenmuren die significant warmte verliezen. Voor een tussenwoning uit de jaren zeventig komt de berekende besparing van spouwmuurisolatie uit rond €300 tot €400 per jaar — nog steeds de beste maatregel per geïnvesteerde euro.
 
 ### Hoekwoning
 

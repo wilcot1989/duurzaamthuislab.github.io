@@ -1,7 +1,7 @@
 ---
 title: 'Warmtepomp Onderhoud 2026: Wat Moet Wanneer en Wat Kost Het?'
 date: 2026-06-13 09:00:00+01:00
-lastmod: 2026-06-13 09:00:00+01:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Welk onderhoud heeft een warmtepomp jaarlijks nodig, wat kost het 5-jaarlijkse onderhoud.
 categories:
 - warmtepompen
@@ -19,7 +19,7 @@ keywords:
 - warmtepomp 5 jaarlijks
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Hoe vaak moet een warmtepomp onderhoud hebben?
@@ -44,11 +44,11 @@ products:
   price: op aanvraag
 schema_type: Article
 ---
-Twee jaar geleden liet ik een ATAG warmtepomp installeren. In het eerste jaar hoorde ik vrijwel niets — het systeem draaide stil en efficiënt. In het tweede jaar begon de druk in het leidingnet te dalen, en ik wist niet hoe ik het zelf moest bijvullen. Dat kostte me een service-bezoek van €180.
+Een warmtepomp vraagt in de eerste jaren vrijwel geen aandacht — en juist daar gaat het mis. De meest voorkomende oorzaak van een onnodig servicebezoek is een gedaalde waterdruk in het leidingnet: iets wat je zelf kunt bijvullen, maar wat zonder kennis van de procedure een bezoek van €150 tot €200 kost.
 
-Die ervaring leerde me: onderhoud van een warmtepomp is niet ingewikkeld, maar je moet weten wat je wanneer moet doen. En wat het kost. In dit artikel zet ik alles op een rij, gebaseerd op twee jaar eigen ervaring en gesprekken met installateurs.
+Onderhoud van een warmtepomp is niet ingewikkeld, maar je moet weten wat je wanneer moet doen — en wat het kost. Dit artikel zet dat op een rij, op basis van de onderhoudsvoorschriften van de fabrikanten en de tarieven die installateurs en fabrikanten voor 2026 publiceren.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
 
@@ -75,7 +75,7 @@ De meeste onderhoudsproblemen zijn niet gevaarlijk, maar verlagen wél de presta
 
 ## Jaarlijks onderhoud: wat doe je zelf, wat doe je niet
 
-Ik splits dit bewust op in twee categorieën. Wat je zelf kunt doen, doe je zelf — dat scheelt €50-100 aan arbeid.
+De onderhoudstaken vallen bewust in twee categorieën uiteen. Wat je zelf kunt doen, doe je zelf — dat scheelt €50 tot €100 aan arbeid per beurt.
 
 ### Zelf te doen (kwartaaltaak of jaarlijks)
 
@@ -126,7 +126,7 @@ Een goede installateur geeft je na elke beurt een rapportje: gemeten COP, waterd
 
 ## Kosten servicebeurt per leverancier (2026)
 
-Ik heb tien installateurs gevraagd naar hun onderhoudskosten. Dit is wat ik vond:
+Onderstaande bedragen zijn de tarieven die installateurs en fabrikanten voor 2026 publiceren voor onderhoud aan lucht-water warmtepompen:
 
 | Type onderhoud | Kosten |
 |---------------|--------|
@@ -170,7 +170,7 @@ In een verwarmingssysteem accumuleert lucht. Na 5 jaar: volledig ontluchten via 
 
 ## Wat kost een warmtepomp in totaal over 15 jaar?
 
-Ik maak graag een eerlijk totaalplaatje, want te veel mensen vergeten de onderhoudskosten mee te rekenen bij de investering.
+Een eerlijk totaalplaatje is belangrijk, want de onderhoudskosten worden bij de investeringsbeslissing vaak vergeten.
 
 **Aanschaf + installatie:**
 - Hybride warmtepomp: €5.000-8.000 na ISDE-subsidie
@@ -198,7 +198,7 @@ De warmtepomp wint op energiebesparing: bij een goed systeem en redelijke isolat
 ## Veelgemaakte fouten in warmtepomp-onderhoud
 
 **Fout 1: Niks doen tot het stuk gaat**
-Ik zie dit regelmatig. Installateur zegt "weinig onderhoud nodig" en eigenaar legt dat uit als "geen onderhoud nodig." Een COP-verlies van 0,5 kost je bij een systeem van 5.000 kWh/jaar verbruik zo'n €150-200 extra per jaar.
+Dit gaat vaak mis: de installateur zegt "weinig onderhoud nodig" en de eigenaar leest dat als "geen onderhoud nodig". Een COP-verlies van 0,5 kost je bij een systeem van 5.000 kWh/jaar verbruik zo'n €150-200 extra per jaar.
 
 **Fout 2: Buitenunit dichtzetten in winter**
 Sommige mensen dekken de buitenunit af met een kap als hij niet draait. Slecht idee: de warmtepomp kan toch aanspringen voor ontdooicycli, en een afgedekte unit kan overblazen of corroderen.
@@ -255,9 +255,9 @@ Plan je jaarlijkse servicebeurt in het voorjaar of de zomer — dan is de instal
 
 ---
 
-## Hoe vergelijk ik servicecontracten?
+## Servicecontracten vergelijken
 
-Als je een servicecontract overweegt, let dan op meer dan alleen de prijs. Dit zijn de punten die ik altijd vergelijk:
+Als je een servicecontract overweegt, let dan op meer dan alleen de prijs. Dit zijn de punten die het verschil maken:
 
 | Factor | Waar op letten |
 |--------|---------------|
@@ -315,7 +315,7 @@ Er zijn situaties waarbij je rustig kunt wachten tot de volgende geplande beurt,
 
 ## ATAG warmtepompen: wat is bijzonder aan dit merk?
 
-Ik werk zelf met een ATAG warmtepomp en heb positieve ervaringen. ATAG is een Nederlands merk met een lange geschiedenis in verwarmingstechniek — ze begonnen als cv-ketelmaker en zijn relatief recent actief in warmtepompen.
+ATAG scoort in gebruikersreviews structureel goed op service en bereikbaarheid. Het is een Nederlands merk met een lange geschiedenis in verwarmingstechniek — ze begonnen als cv-ketelmaker en zijn relatief recent actief in warmtepompen.
 
 **Sterkste punten:**
 - Goed Nederlands installateurnetwerk (geen maandenlange wachttijden zoals bij sommige andere merken)
@@ -424,7 +424,7 @@ Bij ATAG vraag je je installateur om de PV-koppeling te activeren als die beschi
 
 ## Veelgemaakte fouten door nieuwe warmtepompbezitters
 
-Na twee jaar zelf een warmtepomp te hebben en tientallen mensen te hebben geadviseerd, zie ik steeds dezelfde fouten.
+In storingsmeldingen en forumdiscussies komen steeds dezelfde beginnersfouten terug.
 
 **Fout 1: Thermostaatinstelling te hoog**
 Veel mensen zetten de thermostaat hoger dan nodig — gewend als ze zijn aan de snelle reactie van een cv-ketel. Een warmtepomp werkt anders: hij verwarmt langzamer maar gelijkmatiger. Zet de binnentemperatuur op 20-21°C en laat het systeem zijn werk doen.

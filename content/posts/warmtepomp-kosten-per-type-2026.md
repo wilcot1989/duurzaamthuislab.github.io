@@ -1,7 +1,7 @@
 ---
 title: Warmtepomp kosten per type 2026 — wat betaal je echt?
 date: 2026-09-27 08:00:00+02:00
-lastmod: 2026-09-27 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 draft: false
 description: 'Wat kost een warmtepomp echt in 2026? Eerlijke prijzen per type (lucht/water, hybride, bodem), ISDE-bedragen en Atag/Daikin/Quatt vergeleken.'
 categories: [warmtepompen]
@@ -9,7 +9,7 @@ tags: [warmtepomp, kosten, ISDE, Atag, Daikin, Quatt, hybride]
 keywords: [warmtepomp kosten, warmtepomp prijs 2026, lucht water warmtepomp prijs, hybride warmtepomp kosten, ISDE warmtepomp, quatt prijs]
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Analyseert zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1631545308456-15ef38d5a1f4&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een warmtepomp gemiddeld in 2026?
@@ -42,13 +42,13 @@ last_updated: '2026-09-27'
 category: warmtepompen
 ---
 
-Mijn buurman Henk belde me in december, een week na de eerste echte vorst. "Mark, ik heb vier offertes voor een warmtepomp en ze lopen van zesduizend tot achtentwintigduizend euro. Wat is hier in vredesnaam aan de hand?" Henk woont in een rijtjeshuis uit 1978 in Drenthe, label C, vloerverwarming alleen beneden. Hij had drie installateurs in huis gehad en één online aanbieder.
+Vier offertes voor "een warmtepomp" die uiteenlopen van zesduizend tot achtentwintigduizend euro: het is een van de meest gestelde vragen rond verwarmen. Hoe kan het verschil zo groot zijn?
 
-De offertes klopten allemaal — alleen ging het over vier compleet verschillende systemen. Een hybride van €5.800, een all-electric lucht/water van €13.200, een lucht/lucht systeem van €4.900 en een bodemwarmtepomp van €27.500 inclusief grondboring. Niemand had Henk uitgelegd dat dat vier verschillende producten waren.
+Meestal klopt elke offerte afzonderlijk — alleen gaan ze over compleet verschillende systemen. Een hybride rond €5.800, een all-electric lucht/water rond €13.200, een lucht/lucht systeem rond €4.900 en een bodemwarmtepomp van €27.500 inclusief grondboring liggen niet in dezelfde categorie. Wie dat niet uitgelegd krijgt, vergelijkt appels met peren.
 
-Dit is precies waar de meeste mensen vastlopen. "Warmtepomp" is geen product. Het is een categorie met vier hoofdtypes die wezenlijk verschillen in prijs, prestaties en geschiktheid. In dit artikel zet ik per type op een rij wat je werkelijk betaalt, wat de ISDE-subsidie voor je doet en welke merken (Atag, Daikin, Quatt, Vaillant, Mitsubishi) waar zitten. Met data uit installaties die ik zelf heb gevolgd.
+Dit is precies waar de meeste mensen vastlopen. "Warmtepomp" is geen product. Het is een categorie met vier hoofdtypes die wezenlijk verschillen in prijs, prestaties en geschiktheid. In dit artikel zetten wij per type op een rij wat je werkelijk betaalt, wat de ISDE-subsidie voor je doet en welke merken (Atag, Daikin, Quatt, Vaillant, Mitsubishi) waar zitten.
 
-*Disclosure: ik heb geen commerciële afspraken met de merken in dit artikel. Wel verdien ik een kleine vergoeding als je via mijn link een Quatt aanvraagt — dat helpt deze site overeind te houden. De prijsindicaties komen uit offertes die klanten me hebben doorgestuurd en publieke prijslijsten.*
+*Disclosure: wij hebben geen commerciële afspraken met de merken in dit artikel. Wel ontvangen wij een vergoeding als je via onze link een Quatt aanvraagt, zonder extra kosten voor jou. De prijsindicaties komen uit publieke prijslijsten en door leveranciers gecommuniceerde vanaf-prijzen; de prestatiecijfers uit fabrieksspecificaties en de ISDE-apparatenlijst van RVO.*
 
 ---
 
@@ -56,7 +56,7 @@ Dit is precies waar de meeste mensen vastlopen. "Warmtepomp" is geen product. He
 
 ## De vier types warmtepomp — in één tabel
 
-Voordat ik per type inzoom, hier de vergelijking op één rij. Alle bedragen zijn inclusief 0% btw en inclusief standaardinstallatie. ISDE-bedrag is afgetrokken in de "netto" kolom.
+Voordat we per type inzoomen, hier de vergelijking op één rij. Alle bedragen zijn inclusief 0% btw en inclusief standaardinstallatie. ISDE-bedrag is afgetrokken in de "netto" kolom.
 
 | Type | Aanschaf + installatie | ISDE 2026 | Netto na ISDE | SCOP | Geschikt voor |
 |------|-----------------------|-----------|---------------|------|----------------|
@@ -84,7 +84,7 @@ Dit is wat veel mensen bedoelen als ze "een warmtepomp" zeggen. Een buitenunit h
 | ISDE-subsidie 2026 | **-€3.000 tot -€4.500** |
 | **Netto** | **€8.000 - €11.500** |
 
-Voor wie geschikt: woningen met energielabel B of beter, lage aanvoertemperatuur (vloerverwarming of grote convector-radiatoren), en een huishouden dat de cv-ketel definitief wil wegdoen. Bij label C kan het ook, maar de SCOP zakt dan naar 3,0-3,5 wat je terugziet in een hogere stroomrekening. Lees ook mijn artikel over [de beste isolatie voor warmtepomp](/posts/beste-isolatie-voor-warmtepomp-2026/) als je hier nog werk te doen hebt.
+Voor wie geschikt: woningen met energielabel B of beter, lage aanvoertemperatuur (vloerverwarming of grote convector-radiatoren), en een huishouden dat de cv-ketel definitief wil wegdoen. Bij label C kan het ook, maar de SCOP zakt dan naar 3,0-3,5 wat je terugziet in een hogere stroomrekening. Lees ook ons artikel over [de beste isolatie voor warmtepomp](/posts/beste-isolatie-voor-warmtepomp-2026/) als je hier nog werk te doen hebt.
 
 ### Eerlijke nadelen
 
@@ -108,7 +108,7 @@ Een hybride combineert een kleinere lucht/water warmtepomp met een bestaande cv-
 | ISDE-subsidie 2026 | **-€2.500 tot -€3.000** |
 | **Netto** | **€3.000 - €6.500** |
 
-Quatt zit aan de onderkant van die range door direct-to-consumer model en gestandaardiseerde installatie. Atag en Daikin zitten in het middensegment. Vaillant en Bosch aan de bovenkant. Zie ook mijn [overzicht van de beste hybride warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/) waar ik vier modellen heb getest.
+Quatt zit aan de onderkant van die range door direct-to-consumer model en gestandaardiseerde installatie. Atag en Daikin zitten in het middensegment. Vaillant en Bosch aan de bovenkant. Zie ook ons [overzicht van de beste hybride warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/), waarin vier modellen naast elkaar staan.
 
 ### Eerlijke nadelen
 
@@ -150,7 +150,7 @@ De warmtepomp haalt warmte uit de bodem via verticale boringen (60-150 meter die
 
 ### Eerlijke nadelen
 
-De grondboring is het zwakke punt. Je hebt minimaal 3-4 meter ruimte rond de boorlocatie nodig en een vergunning bij de provincie (waterwet). In stedelijk gebied is dat vaak een no-go. Bovendien: als je over 10 jaar verhuist, krijg je die boring niet mee. Voor vrijstaande woningen met grote tuin op het platteland is een bodemwarmtepomp echter de stilste en zuinigste optie. Ik beschrijf dit dieper in [aardwarmte warmtepomp bodembron](/posts/aardwarmte-warmtepomp-bodembron-2026/).
+De grondboring is het zwakke punt. Je hebt minimaal 3-4 meter ruimte rond de boorlocatie nodig en een vergunning bij de provincie (waterwet). In stedelijk gebied is dat vaak een no-go. Bovendien: als je over 10 jaar verhuist, krijg je die boring niet mee. Voor vrijstaande woningen met grote tuin op het platteland is een bodemwarmtepomp echter de stilste en zuinigste optie. Meer hierover in [aardwarmte warmtepomp bodembron](/posts/aardwarmte-warmtepomp-bodembron-2026/).
 
 ## ISDE-subsidie 2026 per type — exacte bedragen
 
@@ -173,7 +173,7 @@ Belangrijk: de subsidie vraag je aan **na** installatie, binnen 12 maanden, via 
 
 ## Prijsindicaties per merk 2026
 
-Hier vergelijk ik de vijf merken die ik in de praktijk het meest tegenkom. Bedragen zijn richtprijzen inclusief installatie en 0% btw, gebaseerd op offertes die klanten me hebben doorgestuurd in 2025-2026.
+Hieronder de vijf merken die in Nederland het meest worden aangeboden. Bedragen zijn richtprijzen inclusief installatie en 0% btw, gebaseerd op publieke prijslijsten en door leveranciers gecommuniceerde vanaf-prijzen (peildatum 2026).
 
 | Merk | Hybride | All-electric lucht/water | Sterke punt | Zwakke punt |
 |------|---------|--------------------------|-------------|--------------|
@@ -188,15 +188,15 @@ Hier vergelijk ik de vijf merken die ik in de praktijk het meest tegenkom. Bedra
 ### Welk merk voor wie?
 
 - **Krap budget, snelle hybride**: Quatt. Vaste prijs, installatie binnen 2 weken, app werkt goed.
-- **Hybride met Nederlandse service**: Atag. Iets duurder maar het servicenetwerk is unaniem geprezen door de klanten die ik gevolgd heb.
-- **Maximaal rendement, all-electric**: Vaillant aroTHERM plus met R290-koudemiddel. SCOP van 4,7 in mijn metingen.
-- **Stilste werking**: Daikin Altherma 3 H HT. 35 dB(A) op 3 meter — meetbaar stiller dan concurrentie.
+- **Hybride met Nederlandse service**: Atag. Iets duurder, maar het Nederlandse servicenetwerk komt in gebruikersreviews consequent goed naar voren.
+- **Maximaal rendement, all-electric**: Vaillant aroTHERM plus met R290-koudemiddel. Volgens de fabrieksspecificatie haalt die een SCOP rond 4,7 bij 35 °C aanvoertemperatuur — de hoogste in dit rijtje.
+- **Stilste werking**: Daikin Altherma 3 H HT, met een opgegeven geluidsniveau van 35 dB(A) op 3 meter volgens de productdocumentatie.
 
-Zie ook [Daikin vs Atag warmtepomp](/posts/daikin-vs-atag-warmtepomp-2026/) waar ik die twee head-to-head heb gezet en [Atag warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/) voor mijn diepere test van de ENERGION-serie.
+Zie ook [Daikin vs Atag warmtepomp](/posts/daikin-vs-atag-warmtepomp-2026/) voor die twee head-to-head en [Atag warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/) voor een uitgebreidere analyse van de ENERGION-serie.
 
 ## Rekenvoorbeeld: rijtjeshuis Drenthe, label C
 
-Terug naar Henk uit de inleiding. Rijtjeshuis 1978, 110 m², label C, gasverbruik 1.950 m³/jaar (€2.340 bij gasprijs van €1,20/m³), bewoners 2 volwassenen. Hier zijn vier scenario's wat hij zou betalen en besparen — eerlijk uitgerekend, dus inclusief het feit dat hij elektriciteit terug moet kopen die hij eerst van gas had.
+Om de vier types op één profiel te vergelijken, hieronder een **modelberekening**. Uitgangspunt: rijtjeshuis uit 1978, 110 m², label C, gasverbruik 1.950 m³/jaar (€2.340 bij een gasprijs van €1,20/m³), twee bewoners, vloerverwarming alleen op de begane grond. De besparing is netto gerekend: de extra elektriciteit die het systeem verbruikt, is van de gasbesparing afgetrokken.
 
 | Scenario | Investering netto | Jaarlijkse besparing | Terugverdientijd |
 |----------|-------------------|---------------------|-------------------|
@@ -205,7 +205,7 @@ Terug naar Henk uit de inleiding. Rijtjeshuis 1978, 110 m², label C, gasverbrui
 | All-electric Vaillant + isolatie naar label B (€8.000) | €17.000 totaal | €1.450 | 11,7 jaar |
 | Bodemwarmtepomp + isolatie | €23.000 totaal | €1.700 | 13,5 jaar |
 
-Voor Henk is de hybride van Quatt of Atag verreweg de slimste eerste stap. Niet omdat all-electric of bodem slechter is — maar omdat de meerinvestering pas na een decennium terugverdient. Als hij weet dat hij minimaal 15 jaar blijft wonen en zijn isolatie alsnog wil aanpakken, wordt all-electric weer logisch. Ik help hem bij die afweging in mijn [HR-ketel vervangen of warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/) artikel.
+Bij dit profiel is een hybride (Quatt of Atag) volgens ons verreweg de slimste eerste stap. Niet omdat all-electric of bodem slechter is — maar omdat de meerinvestering zich pas na een decennium terugverdient. Wie zeker weet dat hij minimaal 15 jaar blijft wonen en de isolatie alsnog aanpakt, komt bij all-electric weer uit. Die afweging werken wij verder uit in [HR-ketel vervangen of warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/).
 
 ## Verborgen kosten waar offertes vaag over zijn
 
@@ -227,7 +227,7 @@ Drie tips uit de praktijk:
 - **Vraag naar SCOP-berekening voor jouw woning**. Niet een algemene SCOP van het apparaat, maar de specifieke berekening voor jouw aanvoertemperatuur en isolatie. Goede installateurs leveren die standaard.
 - **Check de garantievoorwaarden**. Standaard 2 jaar bij Daikin/Mitsubishi, 5 jaar bij Atag, 10 jaar fabrieksgarantie bij Quatt mits onderhoud via hen. Onderhoud kost €180-€280 per jaar.
 
-Voor verdere selectiecriteria: [beste warmtepompinstallateur kiezen 2026](/posts/beste-warmtepompinstallateur-kiezen-2026/) en mijn algemene [beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/) overzicht.
+Voor verdere selectiecriteria: [beste warmtepompinstallateur kiezen 2026](/posts/beste-warmtepompinstallateur-kiezen-2026/) en ons algemene [beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/) overzicht.
 
 ## Conclusie
 

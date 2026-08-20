@@ -9,7 +9,7 @@ tags: [Tibber alternatief, Frank Energie, ANWB Energie, Greenchoice, dynamisch c
 keywords: [alternatief tibber, tibber te duur, frank energie, anwb energie dynamisch, greenchoice dynamisch]
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497435334941-8c899ee9e8e9&w=1200&output=webp&q=70
 faq:
 - q: 'Is Frank Energie echt goedkoper dan Tibber?'

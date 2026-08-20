@@ -1,7 +1,7 @@
 ---
 title: 'Dakraam vs dakkapel isolatie 2026: warmteverlies'
 date: 2026-06-05 08:00:00+01:00
-lastmod: 2026-06-05 08:00:00+01:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Warmteverlies dakraam en dakkapel, energielabel-impact, kosten van isolatie en welke methode wanneer.
 categories:
 - isolatie
@@ -21,7 +21,7 @@ keywords:
 - energielabel dak verbeteren
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel warmte verlies je via een dakraam vergeleken met een dakkapel?
@@ -44,11 +44,11 @@ products:
   price: zie artikel
 schema_type: Article
 ---
-Mijn zolderkamer was in januari een ijskast. Ik had twee Velux dakramen uit 2003 — enkel glas, grofweg U-waarde 3,0 — en een dakkapel aan de voorzijde die ooit "goed geïsoleerd" was maar waarvan de kierdichting al jaren tekortschoot. Mijn gasverbruik voor die etage lag minstens 30% hoger dan bij de rest van het huis.
+Een zolderkamer die in januari niet warm te krijgen is: vaak zitten de oorzaken in de dakramen en de dakkapel. Dakramen uit begin deze eeuw hebben doorgaans een U-waarde rond 3,0 W/m²K, en dakkapellen die ooit "goed geïsoleerd" waren verliezen hun prestatie zodra de kierdichting het opgeeft. Zo'n etage verbruikt merkbaar meer dan de rest van de woning.
 
-Ik heb de renovatie stap voor stap aangepakt, met telkens de vraag: is dit de investering waard? In dit artikel deel ik de berekeningen en het kader.
+De vraag is telkens dezelfde: is de ingreep de investering waard? In dit artikel zetten wij de berekeningen en het afwegingskader op een rij, op basis van U-waarden uit productdocumentatie en gangbare aannemersprijzen.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via deze links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 
@@ -403,7 +403,7 @@ Asbestverwijdering bij een dakkapel of rondom dakramen: **€500–€2.500 afha
 
 ## Praktisch rekenmodel: jouw dakkapel doorgerekend
 
-Ik geef je een rekenformat waarmee je jouw eigen situatie kunt doorrekenen.
+Hieronder een rekenformat waarmee je jouw eigen situatie kunt doorrekenen.
 
 **Input:**
 - Dakkapelbreedte: __ m
@@ -425,7 +425,7 @@ Warmteverlies wanden (slechte isolatie, U=3,5):
 **Stap 3: Terugverdientijd**
 - Isolatiekosten ÷ jaarlijkse besparing = terugverdientijd in jaren
 
-Ik heb deze berekening gedaan voor een gemiddelde dakkapel van 2,5 × 1 m, wandoppervlak 3,0 m², dakoppervlak 2,5 m²:
+Uitgewerkt rekenvoorbeeld voor een gemiddelde dakkapel van 2,5 × 1 m, wandoppervlak 3,0 m², dakoppervlak 2,5 m² (modeluitkomsten met de aannames hierboven):
 - Totaal warmteverlies slecht: 655 kWh/jaar (wanden) + 546 kWh/jaar (dak) = 1.201 kWh/jaar
 - Totaal warmteverlies goed: 55 kWh/jaar (wanden) + 45 kWh/jaar (dak) = 100 kWh/jaar
 - Besparing: 1.101 kWh/jaar × €0,27 = **€297/jaar**

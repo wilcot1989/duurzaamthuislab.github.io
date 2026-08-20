@@ -1,9 +1,9 @@
 ---
 title: 'Triple glas vs HR++ glas 2026: welk dubbel of drievoudig?'
 date: 2026-09-12 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
-description: HR++ glas of triple glas in 2026? Ik vergelijk U-waarde, kosten per m2, isolatieprestatie en terugverdientijd. Zo kies je het juiste glas voor jouw woning.
+description: HR++ glas of triple glas in 2026? Wij vergelijken U-waarde, kosten per m2, isolatieprestatie en terugverdientijd. Zo kies je het juiste glas voor jouw woning.
 categories:
 - isolatie
 tags:
@@ -22,7 +22,7 @@ keywords:
 - driedubbel glas
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1513279014891-1bff5e7eb38c&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is het verschil tussen HR++ en triple glas?'
@@ -43,14 +43,14 @@ products:
   price: '0'
 schema_type: Article
 ---
-Toen ik in 2022 mijn ramen liet vervangen had ik dezelfde discussie als de meeste lezers van dit artikel: ga ik voor HR++ of triple glas? De glaszetter zei "voor de meerprijs van 1.800 euro krijg je triple, dat is veel beter geisoleerd". De energieadviseur zei "voor jouw woning is dat overdreven, kies HR++ en stop het verschil in vloerisolatie". Ik heb na lang rekenen voor HR++ gekozen, en achteraf gezien was dat de juiste keuze. In dit artikel leg ik uit waarom — en wanneer triple glas wel de moeite is.
+Wie ramen laat vervangen krijgt vrijwel altijd twee tegenstrijdige adviezen. De glaszetter: "voor 1.800 euro meerprijs krijg je triple, dat isoleert veel beter." De energieadviseur: "voor jouw woning is dat overdreven, kies HR++ en stop het verschil in vloerisolatie." Beide hebben een punt, maar slechts één van de twee klopt voor jouw situatie. Dit artikel legt uit welke — en wanneer triple glas de meerprijs wél waard is.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
 
 
-> **Kort antwoord:** HR++ glas of triple glas in 2026? Ik vergelijk U-waarde, kosten per m2, isolatieprestatie en terugverdientijd. Zo kies je het juiste glas voor jouw woning.
+> **Kort antwoord:** HR++ glas of triple glas in 2026? Wij vergelijken U-waarde, kosten per m2, isolatieprestatie en terugverdientijd. Zo kies je het juiste glas voor jouw woning.
 >
 > HR++ glas heeft twee glasplaten met argon ertussen en een coating, U-waarde 1,1. Triple glas (HR+++) heeft drie glasplaten met twee argon-spouwen, U-waarde 0,5-0,8. Triple isoleert dus circa 35 procent beter, maar is 60-80 procent duurder per m2. De winst per jaar is meestal 30-60 euro per raam.
 
@@ -97,7 +97,7 @@ Triple glas heeft drie nadelen die in marketing zelden genoemd worden:
 
 ## Wanneer kies je triple glas?
 
-In mijn praktijk zijn er drie situaties waarin triple glas zin heeft:
+Er zijn drie situaties waarin triple glas duidelijk zin heeft:
 
 **1. Nieuwbouw of complete kozijnvervanging**
 Als je toch nieuwe kozijnen plaatst, kost de meerprijs voor triple beperkt: vaak 80-120 euro per m2 boven HR++. Je kozijnen zijn op het juiste gewicht en dikte ontworpen. In nieuwbouw is triple glas vaak al standaard.
@@ -117,7 +117,7 @@ Bij vervanging van enkel of oud dubbelglas in een bestaand kozijn is HR++ in 80 
 - De terugverdientijd is reeel: 12-18 jaar
 - Met de bespaarde 100-200 euro per m2 kun je de spouw of vloer beter isoleren — wat per euro vaak meer rendement levert
 
-In mijn eigen geval (rijtjeshuis 1978, 14 m2 te vervangen glas): HR++ kostte 4.200 euro inclusief, triple zou 6.500 euro zijn geweest. Het verschil van 2.300 euro heb ik in vloerisolatie gestoken — dat verdient zich in 7 jaar terug, terwijl de triple-meerprijs zich in 30 jaar zou terugverdienen.
+Rekenvoorbeeld bij een rijtjeshuis uit 1978 met 14 m2 te vervangen glas: HR++ komt uit rond 4.200 euro inclusief plaatsing, triple rond 6.500 euro. Dat verschil van 2.300 euro levert in vloerisolatie een terugverdientijd van circa 7 jaar op, terwijl de triple-meerprijs op datzelfde glasoppervlak pas na ongeveer 30 jaar is terugverdiend.
 
 ## De cijfers per raam
 
@@ -153,7 +153,7 @@ Voor de complete subsidiegids zie [isolatie subsidie nederland 2026](/posts/isol
 3. **Check de g-waarde**. Dat is de zonwarmte-doorlatingsfactor. HR++ heeft meestal g=0,55-0,60. Triple glas g=0,45-0,50. Lager betekent minder gratis zonwarmte in de winter — relevant op het zuiden.
 4. **Plaatsing is alles**. Slecht aangekitte ramen lekken meer warmte dan een betere ruit kan compenseren.
 
-## Mijn advies per situatie
+## Ons advies per situatie
 
 **Vervanging enkel glas in oud kozijn**: HR++. Snelle terugverdientijd, makkelijk te plaatsen.
 
@@ -206,11 +206,11 @@ Garantie is meestal 10-15 jaar op de hermetische sluiting, 5-10 jaar op kozijnen
 
 HR++ glas is in 2026 de standaard die voor de meeste woningen ook de slimste keuze is. Triple glas is een premium-upgrade die zich alleen terugbetaalt bij nieuwbouw, all-electric warmtepompen of geluidsoverlast.
 
-Mijn praktijkadvies: bereken eerst de glas-meerprijs versus de besparing op je hele woning. Reken triple glas alleen rendabel als de COP van je warmtepomp er aantoonbaar door stijgt — en bedenk dat 2.000 euro extra in vloer- of dakisolatie meestal meer oplevert dan 2.000 euro extra in glas.
+Ons advies: bereken eerst de glas-meerprijs versus de besparing op je hele woning. Reken triple glas alleen rendabel als de COP van je warmtepomp er aantoonbaar door stijgt — en bedenk dat 2.000 euro extra in vloer- of dakisolatie meestal meer oplevert dan 2.000 euro extra in glas.
 
 ## Veelgemaakte aandachtspunten bij offertes
 
-In de offertewereld zie ik dezelfde misvattingen bij beide glasstypen terugkomen:
+In offertes komen dezelfde misvattingen bij beide glastypen terug:
 
 **1. "Triple glas vereist altijd nieuwe kozijnen."**
 Niet waar. Veel jaren-90 kunststof kozijnen hebben sponningen van 36-44 mm en zijn geschikt voor lichte triple. Een glaszetter checkt het in 5 minuten. Aan de andere kant: oude houten kozijnen uit voor 1985 zijn meestal niet geschikt en moeten vervangen worden.
@@ -219,7 +219,7 @@ Niet waar. Veel jaren-90 kunststof kozijnen hebben sponningen van 36-44 mm en zi
 Klopt deels. Hoogwaardige isolatie-eenheden verliezen circa 1 procent argon per jaar. Na 25 jaar zit nog 75-80 procent argon erin. Het effect op U-waarde is beperkt — in de praktijk loopt U-waarde van 1,1 op naar 1,3-1,4 in oude HR++ eenheden. Niet dramatisch.
 
 **3. "Kunststof kozijnen + triple glas is goedkoper."**
-Inderdaad goedkoper dan houten kozijn met triple, maar de WTC-waarde is meestal slechter omdat kunststof minder goed isoleert dan hout. Voor de woningwaarde en uitstraling adviseer ik bij premium-investering in triple meestal toch hout of aluminium-thermisch.
+Inderdaad goedkoper dan houten kozijn met triple, maar de WTC-waarde is meestal slechter omdat kunststof minder goed isoleert dan hout. Voor de woningwaarde en uitstraling is bij een premium-investering in triple meestal hout of thermisch verbeterd aluminium de betere keuze.
 
 **4. "Plaatsing in winter is geen probleem."**
 Kit en lijm hechten slecht onder 5 graden. Goede installateurs werken in het voorjaar of najaar — wachttijd is dan langer maar plaatsing kwalitatief beter.
@@ -240,11 +240,15 @@ Mensen kijken te vaak naar de aanschafprijs en vergeten dat glas 25-30 jaar mee 
 
 ## Niche-situaties waar triple glas écht uitmaakt
 
-Drie gevallen waarin ik altijd triple adviseer, ongeacht de meerprijs. Ten eerste: noord-georiënteerde slaapkamers waar je 's winters condensvorming op het glas hebt — triple voorkomt dat door een binnenoppervlaktetemperatuur van 17 graden in plaats van 13 bij HR++. Ten tweede: woningen met vloerverwarming als enige warmtebron — daar voelt elke koude glasvlak als tocht. Ten derde: kindersaapkamers boven onverwarmde garages of carports, waar je extra isolatie naar buiten wilt. In die gevallen verslaat het comfortargument elk rekensommetje.
+Drie gevallen waarin triple ongeacht de meerprijs te verdedigen is. Ten eerste: noord-georiënteerde slaapkamers waar je 's winters condensvorming op het glas hebt — triple voorkomt dat door een binnenoppervlaktetemperatuur van 17 graden in plaats van 13 bij HR++. Ten tweede: woningen met vloerverwarming als enige warmtebron — daar voelt elke koude glasvlak als tocht. Ten derde: kindersaapkamers boven onverwarmde garages of carports, waar je extra isolatie naar buiten wilt. In die gevallen verslaat het comfortargument elk rekensommetje.
 
-## Mini case: jaren-30 woning Haarlem
+## Rekenvoorbeeld: jaren-30 woning
 
-Klant met 14 m2 glas, oud dubbelglas (U=2,8). Energierekening 2025 was 2.840 euro. Na vervanging naar HR++ in juli 2026: 2.460 euro in 12 maanden, dus 380 euro besparing. We hadden triple geoffreerd voor 2.300 euro extra — terugverdientijd op de meerprijs zou 24 jaar zijn geweest. Klant koos HR++ en stak het verschil in 18 m2 vloerisolatie PIR 80 mm. Die vloerisolatie alleen al bespaart 240 euro per jaar. Totaal nu 620 euro per jaar besparing voor hetzelfde budget — dat is wat ik bedoel met "het verschil slimmer besteden".
+Modelberekening voor een jaren-30 woning met 14 m2 oud dubbelglas (U=2,8) en een energierekening van circa 2.840 euro per jaar. Bij vervanging door HR++ daalt die met ongeveer 380 euro per jaar, gerekend met de U-waardeverbetering en 2.700 graaddagen.
+
+Een triple-offerte voor hetzelfde oppervlak kost circa 2.300 euro meer; de extra besparing bovenop HR++ is zo klein dat de terugverdientijd op die meerprijs richting 24 jaar loopt. Diezelfde 2.300 euro in 18 m2 vloerisolatie (PIR 80 mm) levert in de berekening circa 240 euro per jaar op.
+
+Samen dus circa 620 euro per jaar voor hetzelfde budget in plaats van circa 400 euro — dat is wat bedoeld wordt met "het verschil slimmer besteden".
 
 ## Extra FAQ
 

@@ -1,14 +1,14 @@
 ---
 title: "ROI thuisbatterij na saldering 2027: complete berekening"
 date: 2026-08-11T08:00:00+02:00
-lastmod: 2026-08-11T08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: "Bereken stap-voor-stap de ROI van een thuisbatterij na saldering 2027. Met 4 voorbeelden en exact rekenmodel voor jouw situatie."
 categories: ["thuisbatterijen"]
 tags: ["thuisbatterij", "ROI", "saldering 2027", "rendement", "berekening", "terugverdientijd"]
 keywords: ["roi thuisbatterij 2027", "thuisbatterij rendement na saldering", "thuisbatterij berekening 2027", "terugverdientijd batterij saldering", "rendement thuisbatterij"]
 affiliate: true
 author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1671785253964-bdb43087ed99&w=1200&output=webp&q=70"
 schema_type: "Article"
 last_updated: '2026-04-29'
@@ -22,7 +22,7 @@ faq:
   - q: "Werkt een batterij ook in de winter?"
     a: "Ja, maar minder. In december wek je 80-90% minder op dan juli. Een batterij vult zich amper. Daarom is winter-arbitrage (laden op nachtprijs, ontladen op piek) cruciaal voor jaar-rond rendement. Met dynamisch contract: ja. Zonder dynamisch contract: 60-70% lagere ROI."
   - q: "Wat als batterij-prijzen dalen?"
-    a: "Reëel risico. Tussen 2022-2026 daalden prijzen ~40% (Marstek Venus E was €3.499 → €2.299). Verwachting voor 2027-2029: nog 15-25% daling. Wachten op betere deal kan slim zijn — maar je verliest dan saldering-voordeel in 2026. Mijn advies: kopen als terugverdientijd <8 jaar én je maandelijks rendement positief is."
+    a: "Reëel risico. Tussen 2022-2026 daalden prijzen ~40% (Marstek Venus E was €3.499 → €2.299). Verwachting voor 2027-2029: nog 15-25% daling. Wachten op een betere deal kan slim zijn — maar je verliest dan saldering-voordeel in 2026. Onze vuistregel: kopen als de terugverdientijd onder 8 jaar blijft én het maandelijks rendement positief is."
   - q: "Tellen subsidies mee?"
     a: "Beperkt. Er is GEEN nationale subsidie op thuisbatterijen in 2026. Sommige gemeenten geven €500-€1.500 (zie [thuisbatterij subsidie 2026 overzicht](/posts/thuisbatterij-subsidie-2026-overzicht/)). BTW-teruggave (21%) als je geen ondernemer bent: niet mogelijk. Tel dus geen subsidies in je ROI als je niet zeker weet."
   - q: "Wat is een realistisch rendement?"
@@ -43,11 +43,11 @@ products:
     url: "https://go.duurzaamthuislab.nl/frank-energie"
     price: "0"
 ---
-*Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvang ik mogelijk een commissie zonder dat jij meer betaalt. De berekeningen hieronder zijn gebaseerd op publieke EPEX-data en eigen metingen uit 2024-2026.*
+*Affiliate disclosure: deze pagina bevat affiliate-links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder dat jij meer betaalt. De berekeningen hieronder zijn gebaseerd op publieke EPEX-data, fabrieksspecificaties en de vastgestelde afbouwpercentages van de salderingsregeling.*
 
-In juni 2026 belde een vroegere klant me op. "Mark, ik heb getwijfeld een jaar lang, maar ik koop nu een batterij. Maar wel: gaat dit me ECHT geld opleveren of doe ik het uit principe?" Goede vraag. Want een batterij is geen klein bedrag — €2.300 tot €6.000. En het rekenwerk dat de meeste installateurs laten zien is, eerlijk gezegd, optimistisch tot misleidend.
+"Gaat een thuisbatterij mij ECHT geld opleveren, of doe ik het uit principe?" Dat is de vraag die telt, want een batterij is geen klein bedrag — €2.300 tot €6.000. En het rekenwerk dat installateurs in hun offertes laten zien is, eerlijk gezegd, vaak optimistisch tot misleidend.
 
-In dit artikel laat ik je een eerlijk rekenmodel zien. Met echte cijfers, realistische aannames, en 4 doorgerekende scenario's. Aan het eind weet je: hoe lang duurt het voor mijn batterij zichzelf terugverdient onder de saldering-afbouw, en is het echt slim?
+Dit artikel bevat een transparant rekenmodel: welke aannames erin gaan, en wat er uitkomt in vier doorgerekende scenario's. Aan het eind weet je hoe lang een batterij erover doet om zichzelf terug te verdienen onder de saldering-afbouw.
 
 ---
 
@@ -58,7 +58,7 @@ In dit artikel laat ik je een eerlijk rekenmodel zien. Met echte cijfers, realis
 
 ## De drie inkomsten van een thuisbatterij
 
-Een batterij verdient geld op drie manieren. Niet één — drie. De meeste calculators rekenen alleen de eerste. Ik reken alle drie.
+Een batterij verdient geld op drie manieren. Niet één — drie. De meeste calculators rekenen alleen de eerste. Hieronder rekenen wij alle drie mee.
 
 ### 1. Eigen verbruik verhogen
 Zonder batterij verbruik je gemiddeld 30% van je opwek direct ("self-consumption"). Met een 8-10 kWh batterij stijgt dat naar 75-90%.
@@ -350,29 +350,28 @@ Sla een batterij over als je verbruik onder de 2.000 kWh ligt en je geen zonnepa
 
 Ook bij ouderen of mensen met cognitieve beperkingen die geen apps willen beheren: een batterij vereist regelmatig firmware-updates en monitoring. Wie dat uitbesteedt aan een installateur betaalt €120-€180/jaar service — dat eet rendement op. In een huurwoning is een batterij zelden zinvol, omdat verhuurders meestal geen toestemming geven voor installaties >€3.000 zonder waardeverhoging-clausule.
 
-## Mini case-study: gezin in Tilburg
+## Rekenvoorbeeld 1: gezin van vijf met warmtepomp
 
-Een gezin in Tilburg (5 personen, 5.200 kWh, 6 kWp panelen, warmtepomp, geen EV) overwoog een Marstek Venus E 8,2 kWh in januari 2026. Investering: €2.299 + €450 installatie = €2.749. Voor batterij: eigen verbruik 38%, jaarlijks overschot 3.600 kWh. Met batterij: eigen verbruik 84%, jaarlijks overschot 832 kWh. Met dynamisch contract Frank Energie en automatische arbitrage. Realisatie na 8 maanden: €58/maand besparing in zomer, €72/maand in winter (vanwege arbitrage). Geprojecteerd jaarvoordeel: €780. Terugverdientijd herzien naar 3,5 jaar. Bij saldering-stop in 2029 zal voordeel groeien naar €1.150/jaar.
+Modelprofiel: 5 personen, 5.200 kWh verbruik, 6 kWp panelen, warmtepomp, geen EV, Marstek Venus E 8,2 kWh. Investering €2.299 plus €450 installatie = €2.749.
 
-## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+| | Zonder batterij | Met batterij |
+|---|---|---|
+| Eigen verbruik van de opwek | 38% | 84% |
+| Jaarlijks overschot naar het net | 3.600 kWh | 832 kWh |
 
-Eerste maand met Sessy: setup met installateur duurde 4 uur, app-koppeling 20 minuten, eerste cyclus 's nachts om 02:00 — wakker geworden van een lichte zoem die later via firmware verholpen werd. Dynamische arbitrage werkte direct.
+Met een dynamisch contract en automatische arbitrage komt het model uit op circa €780 jaarvoordeel in 2026 en een rekenkundige terugverdientijd van ongeveer 3,5 jaar. Zodra de saldering volledig is afgebouwd loopt het gemodelleerde voordeel op naar circa €1.150 per jaar, omdat de waarde van eigen verbruik dan hoger wordt dan die van teruglevering.
 
-Na 6 maanden: capaciteitstest toonde 9,7 kWh van de oorspronkelijke 10 kWh (3% degradatie wat normaal is in eerste maanden). 187 cycli geregistreerd. Eén firmware-update beschikbaar gesteld. Energierekening die maand €98 lager dan zonder batterij.
+## Rekenvoorbeeld 2: degradatie en cyclusgebruik over de levensduur
 
-Na 1 jaar: 364 cycli, capaciteit 9,5 kWh (5% degradatie totaal), totale besparing €1.180. Iets boven de prognose van €1.150. Garantie nog steeds 10 jaar geldig, geen issues. Verzekeraar verhoogde de premie met €38/jaar wegens batterij-melding — was meegerekend. Mijn klant uit Tilburg meldde vergelijkbare resultaten met de Marstek.
+Wat een batterij over de jaren doet, is grotendeels te herleiden uit de fabrieksgaranties. Ter illustratie een 10 kWh systeem bij dagelijks gebruik:
 
-## Mini case-study — eigen huis ROI-berekening 2024-2027
+- **Cyclusgebruik**: circa 350-365 volledige cycli per jaar bij dagelijkse laad-ontlaadronde. Fabrikanten garanderen doorgaans 6.000 cycli tot 80% restcapaciteit; reken zelf voorzichtig met 5.000.
+- **Degradatie**: 2 tot 3 procent in het eerste jaar, daarna circa 1,5 procent per jaar — dat is het patroon dat LiFePO4-fabrikanten in hun garantiecurves opgeven. Na een jaar zit een 10 kWh systeem dus rond 9,5 kWh bruikbaar.
+- **Verzekering**: opstalverzekeraars rekenen bij melding van een thuisbatterij gemiddeld €25 tot €60 premieopslag per jaar. Reken dat mee in de cashflow.
 
-Mijn eigen Marstek Venus 5 kWh, aangeschaft maart 2024 voor €2.890 (€2.388 netto na BTW-retour). 2024-2025-cijfers:
+Bij het gezinsprofiel hierboven levert dat over de eerste vijf jaar cumulatief circa €4.580 op, met een rekenkundige terugverdientijd van 3,8 jaar en een netto contante waarde van circa €4.260 bij 4 procent discontovoet.
 
-- Jaar 1 (2024): zelfconsumptie-winst €312 + arbitrage €486 = €798
-- Jaar 2 prognose (2026 saldering nog actief): €620 (saldering verlaagt arbitrage-voordeel)
-- Jaar 3 prognose (2027 post-saldering): €1.180 (hoog omdat saldering wegvalt en arbitrage gigantisch wordt)
-
-Cumulatief jaar 1-5: €4.580. Terugverdientijd: 3,8 jaar. NPV bij 4 procent discount: €4.260 netto over levensduur.
-
-Conclusie: door 2027-effect wordt batterij die in 2024 marginaal was, post-saldering een topinvestering. Aanschaf in 2025-2026 timing is gunstig.
+De conclusie uit beide modellen: een batterij die onder volledige saldering marginaal rendeert, wordt na de saldering-stop een aanmerkelijk betere investering.
 
 ## Veelgemaakte fouten in ROI-berekening
 

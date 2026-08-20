@@ -1,8 +1,8 @@
 ---
 title: Vloerverwarming aanleggen in bestaande woning
 date: 2026-05-24 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: 'Vloerverwarming in een bestaande woning: wat zijn de kosten in 2026? Ik vergelijk frees-, dry- en natsystemen en hoe je het combineert met een warmtepomp.'
+lastmod: 2026-08-20 08:00:00+02:00
+description: 'Vloerverwarming in een bestaande woning: wat zijn de kosten in 2026? Wij vergelijken frees-, dry- en natsystemen en hoe je het combineert met een warmtepomp.'
 categories:
 - warmtepompen
 tags:
@@ -26,7 +26,7 @@ keywords:
 - vloerverwarming prijs per m2
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Wat kost vloerverwarming aanleggen per m² in 2026?
@@ -51,14 +51,14 @@ products:
   price: '9500'
 schema_type: Article
 ---
-Drie jaar geleden besloot ik de woonkamer van mijn jaren-zeventig rijtjeswoning te verduurzamen. De woning had een gasketel en ouderwetse radiatoren, en ik wilde overstappen naar een warmtepomp. Maar mijn installateur was eerlijk: "Een warmtepomp op radiatoren? Dat werkt, maar pas nadat je ze allemaal hebt vergroot of vervangen. Kost je €4.000 aan radiatoren alleen al. Vloerverwarming is een betere investering."
+Wie in een jaren-zeventig rijtjeswoning van gas af wil, krijgt van een eerlijke installateur vaak hetzelfde te horen: een warmtepomp werkt ook op radiatoren, maar alleen nadat die vergroot of vervangen zijn — en dan kost dat al snel €4.000 aan radiatoren alleen. Vloerverwarming is in dat geval vaak de betere investering, omdat het de aanvoertemperatuur structureel verlaagt.
 
-Dat was het begin van een zoektocht. Want vloerverwarming in een bestaande woning aanleggen — dat klinkt ingrijpend. En dat is het ook, maar minder dan ik dacht. In dit artikel leg ik de drie methodes uit, bereken ik de kosten realistisch, en licht ik toe waarom de combinatie van vloerverwarming en warmtepomp zo krachtig is.
+Vloerverwarming aanleggen in een bestaande woning klinkt ingrijpend, en dat is het ook, maar minder dan de meeste mensen denken. In dit artikel zetten wij de drie methodes naast elkaar, rekenen wij de kosten realistisch door, en leggen wij uit waarom de combinatie met een warmtepomp zo krachtig is.
 
 ---
 
 
-> **Kort antwoord:** Vloerverwarming in een bestaande woning: wat zijn de kosten in 2026? Ik vergelijk frees-, dry- en natsystemen en hoe je het combineert met een warmtepomp.
+> **Kort antwoord:** Vloerverwarming in een bestaande woning: wat zijn de kosten in 2026? Wij vergelijken frees-, dry- en natsystemen en hoe je het combineert met een warmtepomp.
 
 ## Waarom vloerverwarming in bestaande woningen populairder wordt
 
@@ -254,15 +254,15 @@ Nuttig als doorgangsruimte, maar de thermische efficiëntie is lager omdat je er
 
 ---
 
-## Wat ik heb gedaan in mijn eigen woning
+## Uitgewerkt voorbeeld: gemengde aanpak per verdieping
 
-In mijn woning heb ik gekozen voor het freessysteem op de begane grond (60 m², betonnen vloer) en het dry-systeem op de eerste etage (alleen de badkamer, 8 m²). De rest van de eerste etage heeft grotere radiatoren gekregen.
+Een aanpak die in rijtjeswoningen vaak het beste uitpakt: het freessysteem op de begane grond (bijvoorbeeld 60 m² massief beton) en het droogsysteem alleen in de badkamer op de eerste etage (circa 8 m²), met grotere radiatoren voor de rest van de verdieping.
 
-De reden: de begane grond was ideaal voor frezen (massief beton, geen bewoning nodig want we zijn er tijdelijk uit geweest). De eerste etage heeft een houten balkenvloer — daar was frezen niet mogelijk.
+De reden om per verdieping te kiezen is bouwtechnisch. Een massief betonnen vloer is ideaal om te frezen; een houten balkenvloer op de verdieping is dat niet — daar valt alleen een droogsysteem of een grotere radiator te plaatsen.
 
-Combinatie: ATAG Elga hybride warmtepomp. Aanvoertemperatuur begane grond: 38°C. Aanvoertemperatuur eerste etage (radiatoren): 55°C op de koudste dagen. Gemeten SCOP over het eerste jaar: 3,8 gemiddeld over het hele systeem.
+Rekenvoorbeeld met de volgende aannames: hybride warmtepomp, aanvoertemperatuur 38°C op de begane grond en 55°C op de radiatoren tijdens de koudste dagen, gasverbruik voor de ingreep 1.650 m³ per jaar, gasprijs €1,15/m³ en stroomprijs €0,29/kWh.
 
-Gasverbruik voor verwarming vóór installatie: 1.650 m³/jaar. Ná installatie: 210 m³/jaar (alleen de koudste weken). Elektriciteitsverbruik warmtepomp: 2.400 kWh/jaar. Per saldo: besparing van circa €1.100 per jaar op energiekosten.
+**Uitkomst van het model:** een systeem-SCOP van rond de 3,8, een restgasverbruik van circa 200 m³ voor de koudste weken en een stroomverbruik van ongeveer 2.400 kWh voor de warmtepomp. Netto komt dat neer op een besparing in de orde van €1.000 per jaar. De uitkomst is sterk afhankelijk van het isolatieniveau: bij een slechter geïsoleerde woning valt de winst lager uit.
 
 ---
 
@@ -332,7 +332,7 @@ De meeste lucht-water warmtepompen hebben een eigen regelsysteem (ATAG heeft de 
 
 ## Vloerverwarming en isolatie: de logische volgorde
 
-Ik zie het regelmatig: mensen investeren in vloerverwarming zonder eerst de isolatie op orde te hebben. Dat is energie weggooien.
+Het gebeurt regelmatig: mensen investeren in vloerverwarming zonder eerst de isolatie op orde te hebben. Dat is energie weggooien.
 
 **Waarom isolatie eerst?**
 Een slecht geïsoleerde vloer verliest de helft van de warmte naar de kruipruimte of fundering. Dan werkt je vloerverwarming harder dan nodig, verbruikt meer energie en de installateur moet hogere aanvoertemperaturen instellen — wat je COP-voordeel met de warmtepomp deels tenietdoet.
@@ -412,7 +412,7 @@ Het verschil tussen de twee scenario's is klein in totale terugverdientijd, maar
 
 ## Veelgemaakte fouten bij vloerverwarming in bestaande woningen
 
-Na gesprekken met tientallen huiseigenaren die vloerverwarming hebben laten aanleggen, zijn dit de fouten die ik het vaakst zie:
+Dit zijn de fouten die in klachtdossiers en installatieforums het vaakst terugkomen:
 
 **Fout 1: Geen isolatie onder de vloer.**
 De vloerverwarming verwarmt dan ook de kruipruimte of de fundering. Warmteverlies naar beneden kan 30–50% bedragen zonder vloerisolatie. Leg altijd eerst isolatie, dan pas het verwarmingssysteem.

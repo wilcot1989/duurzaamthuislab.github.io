@@ -1,8 +1,8 @@
 ---
 title: 'ANWB Energie review 2026: dynamisch contract met vangnet'
 date: 2026-05-09 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: ANWB Energie is een dynamisch contract met prijsdemping. Volledige review na 8 maanden testen — voor wie wel én wie niet.
+lastmod: '2026-08-20 08:00:00+02:00'
+description: ANWB Energie is een dynamisch contract met prijsdemping. Volledige review op basis van tariefbladen, voorwaarden en EPEX-data — voor wie wel én wie niet.
 categories:
 - energie
 tags:
@@ -17,7 +17,7 @@ keywords:
 - anwb dynamisch contract
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Redactie Duurzaam Thuislab. Wij vergelijken zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Wat is ANWB Energie Dynamisch?
@@ -59,7 +59,7 @@ Onze conclusie vooraf: ANWB is daarmee een goede tussenoplossing, maar niet de s
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
-> **Kort antwoord:** ANWB Energie is een dynamisch contract met prijsdemping. Volledige review na 8 maanden testen — voor wie wel én wie niet.
+> **Kort antwoord:** ANWB Energie is een dynamisch contract met prijsdemping. Volledige review op basis van tariefbladen, voorwaarden en EPEX-data — voor wie wel én wie niet.
 >
 > ANWB Energie biedt sinds 2024 een dynamisch energiecontract waarbij je per uur de actuele EPEX-marktprijs betaalt, plus een kleine marge en een servicegeld van €5,95/maand. ANWB voegt een 'vangnet' toe: extreme prijspieken (>€0,40/kWh) worden tot 1u afgevlakt om budget-shocks te voorkomen.
 
@@ -154,9 +154,9 @@ Over een heel jaar valt het voordeel van dynamisch bij dit profiel in de orde va
 
 ### 1. Het prijsdempingsmechanisme is psychologisch belangrijk
 
-Op 23 januari 2026 (winterstorm met geen wind, koudegolf) ging de EPEX-piekprijs bij Frank-gebruikers naar €1,18/kWh voor 4 uur. Bij ANWB werd dat afgevlakt naar €0,52/kWh. Concrete impact: ~€8 voor die 4 uur ipv €18.
+Reken het effect van de demping eens door bij een fors piekscenario: stel dat de uurprijs vier uur achtereen op €1,00/kWh staat — bij windstil, koud winterweer is dat geen ondenkbaar niveau op de day-ahead-markt. Zonder demping betaal je bij 2 kWh afname per uur circa €8 voor die vier uur. Met de dempingsregeling van ANWB, die het bedrag boven €0,40/kWh voor het grootste deel afvlakt, blijft daar een fractie van over.
 
-In euro's klein, in mentale rust groot. Mensen onthouden zo'n piek lang.
+In euro's over een heel jaar is dat verschil beperkt. Het effect zit vooral in de gemoedsrust: een enkele extreme piek op de factuur blijft lang hangen, en dat is precies de reden waarom veel mensen niet aan een dynamisch contract beginnen.
 
 ### 2. Telefonische klantenservice
 
@@ -299,23 +299,23 @@ Het verschil tussen ANWB en Frank komt in dit model uit op een kleine honderd eu
 
 Onze inschatting: wie zelf actief op prijs stuurt en een winternota met uitschieters kan opvangen, is bij Frank beter uit en spaart dat bedrag. Wie het vooruitzicht van een viervoudige uurprijs niet wil, koopt met ANWB rust voor een bedrag dat verdedigbaar is. Geen van beide keuzes is verkeerd — het is een keuze tussen prijs en gemoedsrust, en die maak je zelf.
 
-## Hoe ANWB omgaat met extreme prijspieken: drie casussen
+## Hoe de demping uitwerkt: drie rekenvoorbeelden
 
-Het prijsdempingsmechanisme is het onderscheidende kenmerk van ANWB. In de afgelopen 12 maanden zijn er drie momenten geweest waarbij het echt uitmaakte:
+Het prijsdempingsmechanisme is het onderscheidende kenmerk van ANWB. Om te zien wat het waard is, rekenen wij drie **markttypes** door die op de EPEX day-ahead-markt regelmatig voorkomen. De prijsniveaus zijn aannames die passen bij zulke situaties, geen weergave van een specifieke handelsdag.
 
-**Casus 1: Storm Pia, december 2025**
+**Situatie 1: matige avondpiek na een stormdag**
 
-Op 21 december 2025 trok storm Pia over Nederland. Windenergie-overschot drukte de EPEX-prijs tot -€0,08/kWh op bepaalde uren — en steeg daarna snel naar €0,74/kWh toen de storm afnam. Bij Frank-gebruikers piekte de factuur op die uren naar €0,74 + netkosten. Bij ANWB werd de piek afgevlakt tot €0,42/kWh. Concreet verschil voor dat uur: gemiddeld €0,06/kWh minder. Bij een avondverbruik van 2 kWh: €0,12 bespaard. Klein, maar het geeft rust.
+Na een windrijke dag met tijdelijk negatieve prijzen loopt de uurprijs bij het wegvallen van de wind op naar zo'n €0,70/kWh. Zonder demping betaal je dat volle tarief; bij ANWB wordt het bedrag boven €0,40/kWh grotendeels afgevlakt, wat op zo'n uur ongeveer €0,06/kWh scheelt. Bij 2 kWh avondverbruik gaat het om enkele dubbeltjes. Het effect is klein in geld.
 
-**Casus 2: Koudegolf januari 2026**
+**Situatie 2: koudegolf, meerdere dure uren achter elkaar**
 
-23 januari 2026, Siberische kou, -12°C in het noorden. EPEX daggemiddelde: €0,62/kWh voor 6 uur. Bij Frank betaalden klanten €0,62 + netkosten op die uren. Bij ANWB werd het boven €0,40 gedempt. Impact over 6 uur bij 3 kWh verbruik: Frank-klant betaalde ~€5,60 voor die uren, ANWB-klant ~€3,80. Verschil: €1,80.
+Bij aanhoudende kou en weinig wind kunnen de uurprijzen zes uur achtereen rond €0,60/kWh liggen. Bij 3 kWh verbruik per uur betaal je zonder demping zo'n €5,60 voor die uren; met demping van het deel boven €0,40/kWh blijft dat rond €3,80. Verschil: circa €1,80 voor die ene periode. Zulke periodes komen enkele keren per winter voor.
 
-**Casus 3: Negatieve prijzen, juni 2025 zonnig weekend**
+**Situatie 3: negatieve prijzen op een zonnig weekend**
 
-Op 14 juni 2025 daalden de EPEX-prijzen op zonnige middaguren tot -€0,12/kWh. Bij Frank kregen klanten €0,12 terug per kWh die ze afnamen. Bij ANWB werd de negatieve prijs ook afgevlakt — je verdiende iets minder dan bij Frank. Concreet: Frank-klant verdiende €0,18/kWh, ANWB-klant €0,12/kWh op die uren. Verschil: €0,06/kWh. Bij 4 kWh afname: €0,24 minder inkomsten.
+Op zonnige, windrijke weekenddagen zakken de middagprijzen regelmatig onder nul. Wie dan juist afneemt, krijgt bij een ongedempt contract geld terug per afgenomen kWh. De demping van ANWB werkt hier tegen je: het voordeel wordt afgevlakt, waardoor je op zulke uren enkele centen per kWh minder overhoudt dan bij Frank of Tibber.
 
-**Balans over het jaar:** Het dempingsmechanisme beschermt je iets beter bij pieken, maar kost je ook iets bij negatieve prijzen. Per saldo is het effect licht negatief voor de scherpste bespaarder, maar positief voor wie rust wil.
+**Balans over het jaar:** de demping beschermt je iets beter bij pieken, maar kost je iets bij negatieve prijzen. Voor de scherpste bespaarder valt dat per saldo licht negatief uit; voor wie rust boven de laatste euro's stelt, positief.
 
 ## Overstapproces: hoe werkt het in de praktijk?
 
@@ -404,7 +404,7 @@ In 2026 bedraagt de ledenkorting €0,003/kWh op het servicegeld-equivalent, plu
 - Korting autoverzekering-bundel: €60/jaar
 - Totaal extra voordeel: **€70,50/jaar**
 
-Dat is niet spectaculair maar het telt op. Voor bestaande ANWB-leden met autoverzekering verkleint dit het prijsverschil met Frank Energie van ~€90 naar ~€20/jaar. Dan is ANWB vrijwel gelijkwaardig aan Frank, met het extra voordeel van het dempingsmechanisme en de telefonische klantenservice. Voor die groep is ANWB Dynamisch dus simpelweg de meest logische en kosteneffectieve keuze die er is.
+Dat is niet spectaculair maar het telt op. Voor bestaande ANWB-leden met autoverzekering verkleint dit het prijsverschil met Frank Energie van ~€90 naar ~€20/jaar. Dan is ANWB vrijwel gelijkwaardig aan Frank, met het dempingsmechanisme en de telefonische klantenservice als extra. Voor die groep is ANWB Dynamisch naar onze inschatting een van de meest logische keuzes — controleer de actuele kortingsvoorwaarden wel zelf, want ANWB past die periodiek aan.
 
 ## Onze aanbeveling
 

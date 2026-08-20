@@ -1,8 +1,8 @@
 ---
 title: 'Warmtenet of eigen warmtepomp 2026: keuze maken'
 date: 2026-06-25 10:00:00+01:00
-lastmod: 2026-06-25 10:00:00+01:00
-description: Warmtenet of toch een eigen warmtepomp? Ik leg uit wanneer een warmtenet slim is, wat de kosten zijn en hoe je de keuze maakt als jouw wijk het aanbiedt.
+lastmod: '2026-08-20 08:00:00+02:00'
+description: Warmtenet of toch een eigen warmtepomp? Wij leggen uit wanneer een warmtenet slim is, wat de kosten zijn en hoe je de keuze maakt als jouw wijk het aanbiedt.
 categories:
 - warmtepompen
 tags:
@@ -22,7 +22,7 @@ keywords:
 - warmtepomp vs warmtenet
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Wat is het verschil tussen een warmtenet en stadsverwarming?
@@ -48,18 +48,18 @@ products:
   price: '3900'
 schema_type: Article
 ---
-Mijn buurman belde me opgewonden op: "De gemeente wil ons op een warmtenet aansluiten! Is dat goed nieuws of gaat dit me geld kosten?" Het was een vraag die ik inmiddels tientallen keren heb gekregen. En het eerlijke antwoord is: het hangt er van af.
+"De gemeente wil ons op een warmtenet aansluiten — is dat goed nieuws of gaat dit mij geld kosten?" Het is een van de meest gestelde vragen rond de wijkaanpak. Het eerlijke antwoord is: het hangt er van af.
 
 Warmtenetten zijn complexe infrastructurele projecten die je energiehuishouding voor decennia vastleggen. De keuze tussen aansluiten op het warmtenet of investeren in een eigen warmtepomp is een van de moeilijkste energiebeslissingen die een huiseigenaar in 2026 kan maken.
 
-In dit artikel geef ik je het kader om die keuze te maken — zonder politieke slogans, zonder verkooppraatjes.
+Dit artikel geeft het kader om die keuze te maken — zonder politieke slogans, zonder verkooppraatjes. Wij baseren ons op de Warmtewet, gepubliceerde ACM-tarieven en de specificaties van de besproken systemen.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
 
 
-> **Kort antwoord:** Warmtenet of toch een eigen warmtepomp? Ik leg uit wanneer een warmtenet slim is, wat de kosten zijn en hoe je de keuze maakt als jouw wijk het aanbiedt.
+> **Kort antwoord:** Warmtenet of toch een eigen warmtepomp? Wij leggen uit wanneer een warmtenet slim is, wat de kosten zijn en hoe je de keuze maakt als jouw wijk het aanbiedt.
 >
 > Stadsverwarming is de oudere term voor hetzelfde concept: warmte via buizen naar woningen leveren. Moderne warmtenetten zijn technisch geavanceerder en kunnen warmte op lagere temperaturen leveren (laagtemperatuurwarmtenetten), wat efficiënter is maar hogere eisen stelt aan woningisolatie.
 
@@ -276,7 +276,7 @@ Gebruik dit beslisschema als je de keuze moet maken.
 
 ## Populaire warmtepompen voor de keuze naar eigen installatie
 
-Als je na de afweging kiest voor een eigen warmtepomp, zijn dit de modellen die ik het vaakst adviseer bij goed geïsoleerde rijtjeswoningen:
+Als je na de afweging kiest voor een eigen warmtepomp, zijn dit de modellen die op basis van specificaties en prijs-kwaliteit het meest in aanmerking komen bij goed geïsoleerde rijtjeswoningen:
 
 ### Daikin Altherma 3
 
@@ -316,7 +316,7 @@ Zie ook ons artikel over de [beste hybride warmtepomp van 2026](/posts/beste-hyb
 
 ---
 
-## Mijn conclusie
+## Onze conclusie
 
 Het warmtenet is niet per definitie goed of slecht. Het is een infrastructurele oplossing die goed past bij specifieke situaties — dichte stedelijke omgeving, slecht isoleerbare woningen, duurzame warmtebronnen — en minder goed bij andere.
 
@@ -324,13 +324,13 @@ De grote zwakte van het warmtenet in 2026 is de **afhankelijkheidsrelatie**: je 
 
 Een eigen warmtepomp geeft controle, lagere operationele kosten in een goed geïsoleerde woning, en de vrijheid om je energiesysteem aan te passen. De investering is hoger, maar over 15-20 jaar is de eigen warmtepomp doorgaans goedkoper.
 
-Als je de keuze krijgt tussen warmtenet en eigen warmtepomp — en je woning is goed geïsoleerd — zou ik bijna altijd voor de eigen warmtepomp gaan. Tenzij het warmtenet aantoonbaar duurzamere bronnen gebruikt en de tarieven significant gunstiger zijn.
+Als je de keuze krijgt tussen warmtenet en eigen warmtepomp — en je woning is goed geïsoleerd — is onze inschatting dat de eigen warmtepomp bijna altijd de betere keuze is. Tenzij het warmtenet aantoonbaar duurzamere bronnen gebruikt en de tarieven significant gunstiger zijn.
 
 ---
 
 ## Hoe voer je het gesprek met de gemeente?
 
-Als de gemeente jouw wijk aanwijst voor warmtenet-transitie, word je uitgenodigd voor bewonersavonden of informatiebrieven. Hier zijn de vragen die ik altijd stel namens bewoners:
+Als de gemeente jouw wijk aanwijst voor warmtenet-transitie, word je uitgenodigd voor bewonersavonden of informatiebrieven. Dit zijn de vragen die bewoners in zo'n avond zouden moeten stellen:
 
 **Vraag 1: Wat is de primaire warmtebron?**
 Aardgas, geothermie, restwarmte of aquathermie? Dit bepaalt de duurzaamheidscore en de toekomstbestendigheid.

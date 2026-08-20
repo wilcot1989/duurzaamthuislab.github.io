@@ -1,7 +1,7 @@
 ---
 title: Beste Zonnepaneel + Powerstation Combinatie 2026
 date: 2026-03-10 12:00:00+01:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: De beste zonnepaneel en powerstation combinaties van 2026 vergeleken. EcoFlow, Jackery en Bluetti bundels op vermogen, laadtijd en prijs.
 categories:
 - zonne-energie
@@ -50,9 +50,9 @@ products:
   price: '399'
 schema_type: Article
 ---
-Met 16 zonnepanelen op mijn dak wek ik thuis genoeg op, maar onderweg was ik altijd afhankelijk van stopcontacten. Tot ik een draagbaar zonnepaneel koppelde aan een powerstation — inmiddels mijn vaste campingsetup. Ik heb de beste combinaties van EcoFlow, Jackery en Bluetti vergeleken op laadtijd, rendement bij bewolking en prijs per opgewekte Wh.
+Thuis heb je een dak vol panelen, maar onderweg ben je afhankelijk van stopcontacten. Een draagbaar zonnepaneel gekoppeld aan een powerstation lost dat op — mits paneel en station bij elkaar passen. Wij vergelijken de combinaties van EcoFlow, Jackery en Bluetti op basis van fabrieksspecificaties, handleidingen en gebruikersreviews: laadtijd, rendement bij bewolking en prijs per opgewekte Wh.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via deze links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen Verzekering Opstal 2026: Wat is Gedekt?'
 date: 2026-07-24 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Zonnepanelen verzekering: wat dekt opstal- en inboedelpolis? Premies, schade-types en welke aanvullende dekking nodig is bij hagel, storm en brand in 2026.'
 draft: false
 categories:
@@ -21,7 +21,7 @@ keywords:
 - zonnepanelen claim verzekering
 - zonnepanelen schade
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1542621334-a254cf47733d&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true
@@ -349,7 +349,7 @@ Lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/
 
 ## Conclusie: ondervraag je polis
 
-Zonnepanelen-verzekering is meestal goed geregeld via opstal — maar niet automatisch. Mijn aanbevelingen:
+Zonnepanelen-verzekering is meestal goed geregeld via opstal — maar niet automatisch. Onze aanbevelingen:
 
 1. **Bel je verzekeraar binnen 14 dagen na installatie**
 2. **Vraag schriftelijke bevestiging dekking**
@@ -363,11 +363,11 @@ Een uurtje werk vooraf bespaart in slecht-geval-scenario's tienduizenden euro's.
 
 Voor verdere lezing: [garantie zonnepanelen uitleg](/posts/garantie-zonnepanelen-uitleg-2026/), [zonnepanelen onderhoud](/posts/zonnepanelen-onderhoud-schoonmaken-2026/), [montagesysteem vergelijking](/posts/montagesysteem-zonnepanelen-vergelijking-2026/), [omvormer kiezen](/posts/omvormer-kiezen-welke-past-2026/) en [zonnepanelen DIY vs installateur](/posts/zonnepanelen-diy-vs-installateur-2026/).
 
-## Mijn eigen verzekering — wat ik veranderde na installatie
+## De valkuil die het vaakst tot onderverzekering leidt
 
-Toen ik in 2022 panelen liet plaatsen, belde ik dezelfde middag mijn opstalverzekeraar (Centraal Beheer). De medewerker zei: "Geen meerpremie, panelen vallen onder bestaande dekking." Een jaar later belde ik opnieuw na een hagelbui in Apeldoorn — toen kwam de aap uit de mouw. Mijn polis dekte panelen tot een herbouwwaarde van €15.000 boven de woning, mits aangemeld. De eerste medewerker had ze nooit geregistreerd. Bij schade had ik dus zonder die tweede telefoontje een fikse onderverzekering kunnen hebben.
+De meest voorkomende fout is een telefonische toezegging vertrouwen. Een medewerker die zegt "geen meerpremie, panelen vallen onder de bestaande dekking" heeft formeel gelijk bij veel polissen — maar in de polisvoorwaarden staat vaak óók dat de panelen aangemeld moeten zijn om onder de dekking te vallen, met een maximum aan herbouwwaarde (bij de grote verzekeraars tussen €10.000 en €25.000, zie de tabel hieronder). Wordt de aanmelding niet daadwerkelijk in het dossier vastgelegd, dan blijkt dat pas bij de schadeafhandeling.
 
-Les: laat schriftelijk bevestigen dat de panelen zijn opgenomen in de polis, met expliciete vermelding van investeringsbedrag en aantal panelen. Telefonische toezegging is in de praktijk niet voldoende.
+Daarom: laat schriftelijk bevestigen dat de panelen zijn opgenomen in de polis, met expliciete vermelding van het investeringsbedrag en het aantal panelen. Een telefonische toezegging is bij een geschil geen bewijs.
 
 ## Diepgang per verzekeraar (NL-markt 2026)
 
@@ -392,9 +392,13 @@ In 2023 hadden delen van Brabant en Limburg zware hagelschade — sommige panele
 - **Sneeuwbelasting**: in NL zelden schade, maar zone-2 (Drenthe, Twente) kan in extreme winter relevant zijn
 - **Bliksem**: meestal gedekt mits via aardingssysteem volgens NEN 1010
 
-## Mini case: hagelschade Tilburg
+## Hoe een hagelschadeclaim in de praktijk verloopt
 
-Klant 2023: 12 panelen, hagelbui van 4 cm korrels. Bij eerste inspectie zichtbaar 3 panelen met scheurglas. Verzekeraar (Klaverblad) wilde alleen die 3 vervangen. Met thermografisch rapport (€280 zelf betaald) bleek dat 7 panelen micro-fractures hadden met productieverlies 8-15%. Na bezwaar via Kifid: alle 12 panelen vervangen + €280 expertkosten vergoed. Doorlooptijd: 11 maanden.
+Het patroon dat uit Kifid-uitspraken over hagelschade aan zonnepanelen naar voren komt, is telkens hetzelfde. Bij de eerste inspectie worden alleen de panelen met zichtbaar scheurglas afgekeurd. Micro-fracturen in het glas zijn met het oog niet te zien, maar geven wel structureel productieverlies — doorgaans 8 tot 15 procent per aangetast paneel.
+
+Wie een thermografisch of elektroluminescentierapport laat opstellen (reken op €250 tot €350) kan die onzichtbare schade aantonen. In geschillen waarin dat rapport werd overgelegd, kende Kifid de aanvullende vervanging vaak toe, inclusief vergoeding van de expertkosten. Reken wel op een lange doorlooptijd: zulke procedures duren maanden.
+
+Praktisch: laat na een zware hagelbui altijd de volledige installatie doormeten, niet alleen de zichtbaar beschadigde panelen, en bewaar de opbrengstdata van vóór en na de bui.
 
 ## Veelgemaakte fouten
 

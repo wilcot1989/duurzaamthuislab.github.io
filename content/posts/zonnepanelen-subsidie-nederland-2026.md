@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen Subsidie Nederland 2026: Complete Gids'
 date: 2026-02-24 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Alles over zonnepanelen subsidies in 2026: ISDE-subsidie, salderingsregeling, BTW-teruggave en lokale regelingen. Inclusief stap-voor-stap aanvraagproces.'
 categories:
 - zonne-energie
@@ -19,7 +19,7 @@ keywords:
 - btw zonnepanelen terugvragen
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Welke subsidies zijn er voor zonnepanelen in 2026?
@@ -357,7 +357,7 @@ Met een terugverdientijd van 4-5 jaar en een panellevensduur van 25-30 jaar zijn
 
 ## Jaarberekening: volledig gesubsidieerd systeem
 
-Ik reken door wat een gemiddeld systeem kost als je álle beschikbare subsidies en voordelen optimaal benut.
+Hieronder doorgerekend wat een gemiddeld systeem kost als je álle beschikbare subsidies en voordelen optimaal benut.
 
 **Installatie: 12 panelen + 5 kWh thuisbatterij, gemiddeld gezin**
 
@@ -409,7 +409,7 @@ De subsidies zijn dus veel waardevoller dan hun nominale bedrag suggereert. De I
 
 ## Hoe werkt de ISDE exact — stappenplan
 
-Ik beschrijf dit uit eigen ervaring. Ik heb zelf de ISDE aangevraagd voor mijn Huawei Luna 2000 10 kWh.
+Onderstaand stappenplan volgt de procedure zoals RVO die voorschrijft voor een ISDE-aanvraag voor een thuisbatterij.
 
 **Stap 1: Check of de batterij op de ISDE-apparatenlijst staat**
 Ga naar rvo.nl → Subsidies → ISDE → Apparatenlijst. Staat jouw exacte model (inclusief serienummer-range) niet op de lijst? Dan krijg je geen subsidie, hoe goed het apparaat ook is. Sommige modellen staan er pas op na een aanvraag door de fabrikant.
@@ -424,7 +424,7 @@ Zorg voor een gedetailleerde factuur met: merk, model, serienummer, capaciteit i
 Inloggen met DigiD. Formulier invullen: adres, datum installatie, specificaties, factuurupload. Termijn: **binnen 6 maanden na installatie**. Dit is een harde deadline.
 
 **Stap 5: Wachten**
-RVO beslist binnen 8-13 weken. In mijn geval duurde het 9 weken. Uitbetaling volgt daarna snel (2-3 weken).
+RVO noemt zelf een beslistermijn van 8 tot 13 weken. Uitbetaling volgt daarna binnen enkele weken.
 
 **Veelgemaakte fouten:**
 - Aanvragen buiten de 6-maanden termijn

@@ -1,7 +1,7 @@
 ---
 title: 'Beste powerstation 2026: top 7 draagbare powerstations vergeleken'
 date: 2026-02-24 12:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: 2026-08-20 08:00:00+02:00
 description: 'Beste powerstation 2026: 7 draagbare powerstations vergeleken op capaciteit, vermogen, gewicht en prijs (€549-€1.899). Met keuzehulp per situatie.'
 categories:
 - powerstations
@@ -20,7 +20,7 @@ keywords:
 - draagbaar powerstation test
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
 - q: Wat is het beste powerstation van 2026?

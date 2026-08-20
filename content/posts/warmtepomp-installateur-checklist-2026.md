@@ -1,7 +1,7 @@
 ---
 title: 'Warmtepomp installateur checklist 2026: zo voorkom je miskoop'
 date: 2026-08-25 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: 2026-08-20 08:00:00+02:00
 description: 28-punten checklist voor het kiezen van een warmtepompinstallateur in 2026. Vermijd verborgen kosten, slechte service en miskoop met deze gids.
 categories:
 - warmtepomp
@@ -20,7 +20,7 @@ keywords:
 - warmtepomp installatie controleren
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1504328345606-18bbc8c9d7d1&w=1200&output=webp&q=70
 faq:
 - q: Welke vragen moet je stellen aan een warmtepompinstallateur?

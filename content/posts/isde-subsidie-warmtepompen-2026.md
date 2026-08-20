@@ -1,7 +1,7 @@
 ---
 title: 'ISDE Subsidie 2026: Complete Gids voor Warmtepompen &'
 date: 2026-04-06 10:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: 2026-08-20 08:00:00+02:00
 description: 'Alles over de ISDE subsidie in 2026: bedragen voor warmtepompen en isolatie, hoe aanvragen, voorwaarden en combinatie met andere subsidies.'
 categories:
 - warmtepompen
@@ -18,7 +18,7 @@ keywords:
 - warmtepomp subsidie Nederland
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel ISDE-subsidie krijg je voor een warmtepomp?

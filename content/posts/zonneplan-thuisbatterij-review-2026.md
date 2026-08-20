@@ -1,8 +1,8 @@
 ---
 title: Zonneplan thuisbatterij review 2026
 date: 2026-05-06 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: Zonneplan biedt thuisbatterijen via lease en koop. Volledige review van het systeem, app, kosten en service na 6 maanden testen. Wel of niet kiezen?
+lastmod: 2026-08-20 08:00:00+02:00
+description: Zonneplan biedt thuisbatterijen via lease en koop. Volledige review van het systeem, app, kosten en service op basis van specificaties en gebruikersreviews. Wel of niet kiezen?
 categories:
 - thuisbatterijen
 - zonne-energie
@@ -21,7 +21,7 @@ keywords:
 - zonneplan batterij prijs
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Wat is Zonneplan?
@@ -66,7 +66,7 @@ Hieronder de review op basis van de openbare voorwaarden en tarieven van Zonnepl
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
-> **Kort antwoord:** Zonneplan biedt thuisbatterijen via lease en koop. Volledige review van het systeem, app, kosten en service na 6 maanden testen. Wel of niet kiezen?
+> **Kort antwoord:** Zonneplan biedt thuisbatterijen via lease en koop. Volledige review van het systeem, app, kosten en service op basis van specificaties en gebruikersreviews. Wel of niet kiezen?
 >
 > Zonneplan is een Nederlands energie-abonnement-bedrijf opgericht in 2019. Ze verkopen of leasen zonnepanelen, thuisbatterijen, laadpalen en hebben een eigen energiecontract met dynamische tarieven. Hun kracht: alle componenten in één pakket, met één abonnement en één app.
 

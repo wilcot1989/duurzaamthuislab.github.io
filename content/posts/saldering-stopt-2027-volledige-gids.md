@@ -1,7 +1,7 @@
 ---
 title: 'Saldering stopt in 2027: de volledige gids voor'
 date: 2026-04-29 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Per 1 januari 2027 stopt de salderingsregeling. Wat betekent dat concreet voor je zonnepanelen.
 categories:
 - zonne-energie
@@ -23,7 +23,7 @@ keywords:
 - salderingsregeling afgeschaft
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Analyseert zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Wanneer stopt de saldering precies?
@@ -43,7 +43,7 @@ faq:
 - q: Hoeveel kost dit mij concreet per jaar?
   a: 'Voor een gemiddeld huishouden met 10 panelen (3,5 kWp) en 2500 kWh teruglevering: ongeveer €450-€625 per jaar minder voordeel vanaf 2027. Voor een groot systeem (16 panelen, 5,5 kWp, 4000 kWh teruglevering): €700-€1.000 per jaar.'
 - q: Wat is de beste oplossing als ik nu zonnepanelen heb?
-  a: 'De beste oplossing hangt af van je profiel. Globaal: (1) klein verbruik + klein PV-systeem: niets doen, accepteer langere terugverdientijd. (2) Gemiddeld systeem + thuis overdag: dynamisch contract overwegen. (3) Groot systeem + verbruik ''s avonds: thuisbatterij wordt interessant. (4) Groot systeem + EV: combinatie van slim laden + thuisbatterij. Ik leg elk scenario verderop uit.'
+  a: 'De beste oplossing hangt af van je profiel. Globaal: (1) klein verbruik + klein PV-systeem: niets doen, accepteer langere terugverdientijd. (2) Gemiddeld systeem + thuis overdag: dynamisch contract overwegen. (3) Groot systeem + verbruik ''s avonds: thuisbatterij wordt interessant. (4) Groot systeem + EV: combinatie van slim laden + thuisbatterij. Wij werken elk scenario verderop uit.'
 products:
 - name: Huawei Luna 2000
   url: https://solar.huawei.com/eu/residential/luna
@@ -62,16 +62,16 @@ products:
   price: '0'
 schema_type: Article
 ---
-Vorig jaar leverde ik met mijn 16 panelen 4.100 kWh terug aan het net. Dankzij de salderingsregeling kreeg ik daar het volledige leveringstarief voor — netjes weggestreept tegen mijn afname. Vanaf **1 januari 2027 is dat voorbij**. Volgens mijn doorrekening zou dat me zonder maatregelen €820 per jaar gaan kosten.
+Een huishouden dat 4.100 kWh per jaar teruglevert, kreeg daar dankzij de salderingsregeling het volledige leveringstarief voor — netjes weggestreept tegen de afname. Vanaf **1 januari 2027 is dat voorbij**. In een modelberekening met een leveringstarief van €0,30/kWh en een terugleververgoeding van €0,10/kWh scheelt dat zo'n €820 per jaar.
 
-Dit is geen klein detail. Het is de grootste verandering in de Nederlandse energiemarkt voor huishoudens sinds de invoering van zonnepanelen. In dit artikel leg ik uit:
+Dit is geen klein detail. Het is de grootste verandering in de Nederlandse energiemarkt voor huishoudens sinds de invoering van zonnepanelen. In dit artikel zetten wij op een rij:
 
 - Wat er per 1-1-2027 precies verandert (en waarom de "afbouw" nu een harde stop is geworden)
 - Wat de impact is op je terugverdientijd, per type huishouden
 - De vier reële oplossingen — met cijfers, niet met loze beloftes
-- Wat ik zelf heb gedaan en waarom
+- Welke strategie wij per profiel het meest logisch vinden
 
-*Dit artikel is informatief van aard en bevat geen financieel advies. De cijfers zijn gebaseerd op tarieven en regelingen zoals bekend in april 2026.*
+*Dit artikel is informatief van aard en bevat geen financieel advies. Wij vergelijken op basis van specificaties, tarieven, publieke data en geverifieerde gebruikersreviews. De cijfers zijn gebaseerd op tarieven en regelingen zoals bekend in april 2026.*
 
 ---
 
@@ -104,11 +104,11 @@ Drie redenen die de regering aanhaalt:
 2. **Marktverstorend effect**. Zonnepaneelbezitters drukken op zomerse middagen massaal stroom het net op terwijl er geen vraag is. Dat veroorzaakt netcongestie en negatieve prijzen.
 3. **Stimulans voor opslag**. Door saldering af te schaffen, ontstaat economische logica voor thuisbatterijen — wat netcongestie weer oplost.
 
-Ik vind het maar een schrale troost. Wie er voor 2027 zonnepanelen heeft aangeschaft, is uitgegaan van saldering bij de terugverdienberekening. Dat blijkt nu een loze belofte.
+Dat is een schrale troost, vinden wij. Wie voor 2027 zonnepanelen heeft aangeschaft, is bij de terugverdienberekening uitgegaan van saldering. Die aanname vervalt nu.
 
 ## Wat betekent dit concreet voor jouw rekening?
 
-Ik heb voor zes huishoudtypes uitgerekend wat de impact is. De berekening gaat uit van:
+Hieronder een modelberekening voor zes huishoudtypes. De aannames:
 - Leveringstarief 2026: €0,30/kWh
 - Terugleververgoeding na 2027: €0,10/kWh
 - Geen extra terugleverkosten meegerekend (komen daar nog bij)
@@ -120,7 +120,7 @@ Ik heb voor zes huishoudtypes uitgerekend wat de impact is. De berekening gaat u
 | Gezin met EV, 1 thuiswerker | 14 | 3.500 kWh | 3.000 kWh | **€600/jr** |
 | Groot huis + warmtepomp + EV | 18 | 4.800 kWh | 3.800 kWh | **€760/jr** |
 | Klein huishouden, veel weg | 6 | 700 kWh | 1.300 kWh | **€260/jr** |
-| Mijn eigen huis (Mark) | 16 | 2.700 kWh | 4.100 kWh | **€820/jr** |
+| Groot systeem, veel teruglevering | 16 | 2.700 kWh | 4.100 kWh | **€820/jr** |
 
 Ja, dat is fors. En bij die bedragen komen nog de eventuele terugleverkosten die leveranciers gaan rekenen — vaak nog eens €100-€300 extra per jaar.
 
@@ -138,7 +138,7 @@ De korting in terugverdientijd door een thuisbatterij is significant — maar je
 
 ## De vier oplossingen — eerlijk vergeleken
 
-Ik onderscheid vier reële strategieën om de impact van de saldering-stop te beperken. Ze sluiten elkaar niet uit; je kunt ze ook combineren. Wat het beste is, hangt af van je profiel.
+Er zijn vier reële strategieën om de impact van de saldering-stop te beperken. Ze sluiten elkaar niet uit; je kunt ze ook combineren. Wat het beste is, hangt af van je profiel.
 
 ### Oplossing 1: Niets doen, accepteren
 
@@ -171,15 +171,15 @@ Ik onderscheid vier reële strategieën om de impact van de saldering-stop te be
 - Vereist apparatuur (slimme thermostaat, slim laden EV) om optimaal te benutten
 - Bij teruglevering krijg je het uurtarief — wat soms negatief is (jij betaalt om te leveren)
 
-**Aanbieders die ik volg:**
+**Aanbieders in de Nederlandse markt:**
 - **Tibber** — meest gebruiksvriendelijke app, smart charging voor EV's. Heel populair in NL.
 - **Frank Energie** — oudste NL-aanbieder, transparante prijzen, scherpe app
 - **ANWB Energie** — gemoedelijker pricing, geen all-in dynamisch
 - **Eneco Dynamisch** — voor wie liever bij een gevestigde leverancier blijft
 
-**Mijn ervaring:** Ik draaide twee jaar Frank Energie. Het was zenuwslopend in de eerste maand, maar zodra je de patronen door hebt (hoge prijzen tussen 17-20u, laag rond 12-14u, negatief in de zonzomer) is het stabiel goedkoper dan een vast contract. Vorig jaar bespaarde ik €380 vergeleken met de marktstandaard.
+**Ons oordeel:** het patroon in de dagprijzen is redelijk voorspelbaar (hoge prijzen tussen 17-20u, laag rond 12-14u, in de zonnige zomermiddag soms negatief). Wie het verbruik daarop kan afstemmen, komt met een dynamisch contract in de praktijk vaak lager uit dan met een vast contract — maar het vraagt aandacht en de uitkomst hangt sterk af van je verbruiksprofiel. Een garantie is het niet: in een jaar met hoge winterpieken kan een vast contract gunstiger uitpakken.
 
-[Lees mijn volledige Frank Energie review →](/posts/frank-energie-review-ervaringen-2026/)
+[Lees onze volledige Frank Energie review →](/posts/frank-energie-review-ervaringen-2026/)
 
 ### Oplossing 3: Thuisbatterij
 
@@ -208,7 +208,7 @@ Ik onderscheid vier reële strategieën om de impact van de saldering-stop te be
 
 **Belangrijke overweging — wachten of nu kopen?**
 
-De prijzen dalen 8-12% per jaar. Wachten tot 2028 betekent ~20% goedkoper. Maar je mist dan 1-2 jaar besparingseffect. Mijn rekenregel:
+De prijzen dalen 8-12% per jaar. Wachten tot 2028 betekent ~20% goedkoper. Maar je mist dan 1-2 jaar besparingseffect. Onze vuistregel:
 - Lever je >3000 kWh terug? → Nu kopen, terugverdientijd is gunstig genoeg
 - Lever je 1500-3000 kWh terug? → Wacht tot eind 2026 of begin 2027, prijzen dalen verder
 - Lever je <1500 kWh terug? → Sla over, kies voor dynamisch contract
@@ -219,10 +219,10 @@ De prijzen dalen 8-12% per jaar. Wachten tot 2028 betekent ~20% goedkoper. Maar 
 
 Met een **slim energiebeheersysteem** (Home Assistant, EVCC, Hoymiles app, P1-monitor + scripts) kun je apparaten automatisch laten draaien op zonne-overschot of bij lage dynamische tarieven.
 
-**Wat ik thuis automatiseer:**
-- Mijn EV laadt alleen wanneer dynamisch tarief <€0,10/kWh OF wanneer eigen PV >2 kWh overschot
-- Warmtepompboiler verwarmt water in zonuren (regelt Home Assistant)
-- Vaatwasser en wasmachine starten automatisch op gunstige momenten
+**Automatiseringen die met deze systemen mogelijk zijn:**
+- EV laden alleen wanneer het dynamisch tarief onder €0,10/kWh ligt OF er meer dan 2 kW PV-overschot is
+- Warmtepompboiler het water laten opwarmen in de zonuren (regel in Home Assistant)
+- Vaatwasser en wasmachine automatisch starten op gunstige momenten
 
 **Verwachte besparing:** €150-€350/jaar zonder andere investeringen, mits je een slimme meter en wat techniek-affiniteit hebt.
 
@@ -252,25 +252,25 @@ Hier is een beslisboom op basis van profiel:
 - Sturing via Home Assistant of EVCC essentieel
 - Investering in batterij verdient zich in 6-8 jaar terug
 
-## Wat ik zelf heb gedaan
+## Uitgewerkt voorbeeldscenario (modelberekening)
 
-Ik heb mijn eigen huis als testlab gebruikt. Mijn situatie: 16 panelen (5,6 kWp zuid, oost-west), warmtepomp Daikin Altherma 6 kW, geen EV nog, gemiddeld jaarverbruik 4.500 kWh, jaarteruglevering 4.100 kWh.
+Om te laten zien hoe de drie maatregelen samen uitpakken, rekenen we een compleet profiel door. Let op: dit is een **modelberekening**, geen gemeten resultaat. Uitgangspunt: 16 panelen (5,6 kWp, zuid en oost-west), lucht-water warmtepomp van 6 kW, geen EV, jaarverbruik 4.500 kWh, jaarteruglevering 4.100 kWh onder saldering.
 
-**Mijn strategie:**
-1. **Augustus 2025:** overgestapt naar Frank Energie (dynamisch contract). Direct €30/maand besparing.
-2. **November 2025:** Huawei Luna 2000 thuisbatterij geïnstalleerd. €5.800 inclusief installatie. Subsidie regio Utrecht: €500.
-3. **Februari 2026:** Home Assistant met smart energy add-on. Boiler en wasprogramma's nu volledig op gunstige tarieven gestuurd.
+**Aannames en maatregelen:**
+1. **Dynamisch contract** in plaats van vast contract — voordeel volgens marktcijfers voor dit verbruiksprofiel: €200-€400 per jaar.
+2. **Thuisbatterij 10 kWh** (prijspeil april 2026: €5.500-€6.500 inclusief installatie), met een gemeentelijke subsidie waar die beschikbaar is (vaak €300-€500).
+3. **Slimme sturing** via Home Assistant of een vergelijkbaar systeem: boiler en witgoed op gunstige tarieven.
 
-**Resultaat eerste jaar (extrapolatie):**
-- Stroomkosten gedaald van €1.480 naar €620 per jaar
-- Teruglevering van net naar batterij: 78% van voorheen
-- Investering totaal: €5.300 (na subsidie) → terugverdienen in ~7 jaar
+**Uitkomst van het model:**
+- Eigen verbruik stijgt van circa 60% naar 85-90% van de opwek
+- Gecombineerd voordeel: €900-€1.200 per jaar ten opzichte van niets doen na 2027
+- Netto-investering na subsidie: circa €5.300 → terugverdientijd 6 tot 8 jaar
 
-Niet revolutionair, geen heilige graal. Wel een berekenbare, beheersbare aanpak. Veel beter dan wachten tot het 2027 wordt en dan in paniek raken.
+Uitkomsten in de praktijk wijken af door tarieven, weer en gedrag. Reken daarom altijd met je eigen jaarafrekening.
 
 ## Veelgestelde fouten en valkuilen
 
-Wat ik in mijn werk veel zie misgaan:
+Vijf fouten die volgens installateurs en gebruikersreviews het vaakst voorkomen:
 
 **1. Te grote batterij kopen**
 Mensen kopen een 15 kWh batterij omdat "dat klinkt als veel". Maar als je teruglevering 2.000 kWh/jr is en je verbruik 's avonds 5 kWh, heb je meer dan 5-7 kWh capaciteit niet nodig. Geld verspild.
@@ -287,19 +287,19 @@ Een 10 kWh batterij met een 3 kW inverter kan slechts 3 kW per uur leveren. Voor
 **5. Geen subsidies checken**
 Veel gemeentes (Utrecht, Apeldoorn, Eindhoven) hebben specifieke subsidies voor thuisbatterijen of zonneboilers. Check de [provincie-overzichten](/posts/thuisbatterij-subsidie-2026-overzicht/) voordat je beslist.
 
-## Mijn aanbeveling
+## Ons oordeel
 
-Als je nu zonnepanelen hebt en geen actie onderneemt, kost de saldering-stop je tussen €260 en €1.000 per jaar vanaf 2027. Dat is geen drama op zichzelf, maar het verlengt je terugverdientijd flink.
+Als je nu zonnepanelen hebt en geen actie onderneemt, kost de saldering-stop je volgens de modelberekening hierboven tussen €260 en €1.000 per jaar vanaf 2027. Dat is geen drama op zichzelf, maar het verlengt je terugverdientijd flink.
 
-**Mijn drie aanbevelingen, in volgorde van impact-per-euro:**
+**Onze drie aanbevelingen, in volgorde van impact-per-euro:**
 
-1. **Stap nu over op een dynamisch contract.** Tibber of Frank Energie. Geen investering, direct 10-25% lagere stroomkosten. Mijn keuze: Frank Energie voor de transparantie. <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
+1. **Overweeg een dynamisch contract.** Tibber of Frank Energie. Geen investering nodig; bij een gunstig verbruiksprofiel is 10-25% lagere stroomkosten haalbaar. Frank Energie vinden wij sterk op transparantie van de prijsopbouw, Tibber op app-gemak en slim laden. <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
 
-2. **Bij groot teruglevervolume: thuisbatterij.** Wacht niet langer dan eind 2026; daarna gaan veel mensen tegelijk kopen en stijgen prijzen tijdelijk. Mijn keuze was Huawei Luna, maar Sessy is een uitstekend Nederlands alternatief. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy thuisbatterij</a>
+2. **Bij groot teruglevervolume: thuisbatterij.** Huawei Luna 2000 en Tesla Powerwall zijn de bekendste internationale opties; Sessy is een Nederlands alternatief met Nederlandse service. Welke past, hangt af van je teruglevering en avondverbruik. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy thuisbatterij</a>
 
 3. **Verlaag je teruglevering door slim verbruik.** Vaatwasser overdag, EV overdag laden, boiler op zon-uren. Gratis, gemiddeld 15-25% effect. Met een [P1-monitor](/posts/beste-energiemonitor-p1-meter-2026/) krijg je inzicht.
 
-Wat je in elk geval **niet** moet doen: wachten tot januari 2027 om te zien wat er gebeurt. De aanbieders van batterijen, dynamische contracten en slimme apparatuur worden de komende 6-12 maanden overspoeld met aanvragen. Wie te laat besluit betaalt 10-20% premium en wacht 3+ maanden op installatie.
+Wat wij niet verstandig vinden: wachten tot januari 2027 om te zien wat er gebeurt. Installateurs en leveranciers melden nu al oplopende drukte richting de deadline, dus reken op langere levertijden zodra de piek er is. Wie op tijd oriënteert, houdt meer keuze in merk en installateur.
 
 ---
 
@@ -318,7 +318,7 @@ De vier oplossingen op een rij:
 
 Voor de meeste huishoudens is **dynamisch contract + gedragsverandering** de slimste eerste stap. Voor grote PV-installaties wordt **thuisbatterij erbij** rendabel. Wacht niet tot 2027 — door nu te handelen pak je nog 12 maanden besparing mee voordat de stop ingaat.
 
-*Heb je vragen of een specifieke berekening voor je eigen situatie? Mail mij via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl) — ik beantwoord ze persoonlijk.*
+*Heb je vragen of een specifieke berekening voor je eigen situatie? Mail de redactie via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 
 ---
 
@@ -334,16 +334,19 @@ Voor de meeste huishoudens is **dynamisch contract + gedragsverandering** de sli
 - [Beste energiemonitor met P1-meter](/posts/beste-energiemonitor-p1-meter-2026/)
 - [Smart home energiebeheer](/posts/smart-home-energiebeheer-2026/)
 
-## Mini case-study — gezin Roosendaal anticipeert op 2027
+## Rekenvoorbeeld — gezin met EV dat anticipeert op 2027
 
-Familie van 4, 14 panelen, 5.600 kWh opwek, 3.900 kWh verbruik, EV (Hyundai Kona). In 2026 nog volledige saldering — energierekening €620 per jaar. Hun 2027-prognose zonder maatregelen: €2.180 per jaar (saldering valt weg, leveranciers geven 4-8 cent terug).
+Onderstaand rekenvoorbeeld is een **modelberekening**, geen praktijkmeting. Profiel: huishouden van 4 personen, 14 panelen, 5.600 kWh opwek, 3.900 kWh verbruik, één elektrische auto. Aannames: leveringstarief €0,30/kWh, terugleververgoeding 2027 van €0,05/kWh, geen extra terugleverkosten.
 
-Maatregelen die ze in 2026 al treffen:
-- Marstek Venus 5 kWh batterij: €2.890 (BTW-retour €502, netto €2.388)
-- Switch naar Tibber dynamisch: €0
-- Slim laden EV via Tibber: €0
+- Energierekening 2026 met volledige saldering: circa €620 per jaar
+- Prognose 2027 zonder maatregelen: circa €2.180 per jaar
 
-Geprojecteerde 2027-rekening met deze maatregelen: €1.040. Besparing €1.140/jaar. Terugverdientijd batterij: 2,1 jaar. Aanvankelijk twijfelden ze — nu spijt dat ze niet in 2024 al begonnen.
+Maatregelen in het model:
+- Thuisbatterij 5 kWh (prijsniveau €2.900-€3.500 inclusief btw-teruggaaf voor de PV-installatie waar die van toepassing is)
+- Overstap naar een dynamisch contract: €0 investering
+- Slim laden van de EV op lage uurtarieven: €0 investering
+
+Geprojecteerde rekening 2027 met deze maatregelen: circa €1.040, dus ruwweg €1.140 per jaar verschil. De terugverdientijd van de batterij komt in dit model onder de drie jaar uit — maar dat is een uitzonderlijk gunstig profiel (veel opwek, EV, hoge afname 's avonds). Bij minder teruglevering valt de uitkomst duidelijk minder gunstig uit.
 
 ## Veelgemaakte fouten in 2027-voorbereiding
 

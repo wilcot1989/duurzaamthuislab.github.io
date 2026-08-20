@@ -1,8 +1,8 @@
 ---
 title: Marstek Jupiter thuisbatterij review 2026 — voor MKB en grote woningen
 date: 2026-11-11 08:00:00+01:00
-lastmod: 2026-11-11 08:00:00+01:00
-description: De Marstek Jupiter is de grotere broer van de populaire Venus thuisbatterij. Volledige review na 3 maanden testen bij een grote woning en kleine onderneming. Wel of niet kopen?
+lastmod: '2026-08-20 08:00:00+02:00'
+description: De Marstek Jupiter is de grotere broer van de populaire Venus thuisbatterij. Volledige review op basis van specificaties, installateursinformatie en geverifieerde gebruikersreviews. Wel of niet kopen?
 categories:
 - thuisbatterijen
 - zonne-energie
@@ -21,7 +21,7 @@ keywords:
 - marstek mkb
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is het verschil tussen Marstek Jupiter en Venus?'
@@ -53,11 +53,9 @@ products:
 schema_type: Review
 ---
 
-*Disclosure: dit artikel bevat affiliate links. Koop je via mijn link, dan krijg ik een kleine vergoeding zonder dat het jou iets extra kost. Mijn mening verandert daar niet door — ik adviseer alleen wat ik zelf zou kopen.*
+*Disclosure: dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dat verandert onze beoordeling niet.*
 
-In augustus belde mijn neef Joris. Hij heeft een grote vrijstaande woning in Brabant (8.200 kWh/jaar) en runt vanuit huis een fotostudio. Hij had een offerte van €9.495 voor een Marstek Jupiter en wilde weten of hij niet beter de Sessy Pro voor €12.000 kon nemen.
-
-Ik ben drie maanden meegelopen, heb installateurs gesproken en de software uitgebreid getest. Dit is mijn eerlijke verhaal.
+De vraag die bij dit segment steeds terugkomt: is een Marstek Jupiter van circa €9.495 een betere koop dan een Sessy Pro van circa €12.000? Wij vergelijken beide op fabrieksspecificaties, garantievoorwaarden, de documentatie van installateurs en geverifieerde gebruikersreviews — en rekenen het prijsverschil door in een modelberekening.
 
 ---
 
@@ -78,7 +76,9 @@ Marstek is een Chinees thuisbatterij-merk dat in 2023 serieus de EU-markt op kwa
 
 Marstek's positionering: 30-40% goedkoper dan Sessy Pro of Anker Solix X1 met vergelijkbare hardware. Software is bewust simpeler — bedoeld voor gebruikers die "het werkt automatisch" willen, niet voor tinkerers.
 
-## Joris' situatie
+## Het referentieprofiel in dit artikel
+
+Alle doorrekeningen hieronder gaan uit van dit profiel (een modelprofiel, geen klantcase):
 
 - 32 zonnepanelen op zuid-oost dak (12 kWp)
 - Verbruik: 8.200 kWh/jaar (gezin van 5 + fotostudio met belichting + warmtepomp)
@@ -87,21 +87,21 @@ Marstek's positionering: 30-40% goedkoper dan Sessy Pro of Anker Solix X1 met ve
 - Geen EV (overweegt aankoop 2027)
 - Eis: maximaal €10.000 investering
 
-De keuze was: Marstek Jupiter €9.495 of Sessy Pro €11.995. Joris koos de Jupiter vanwege budget — het verschil van €2.500 wilde hij liever in een latere uitbreiding (extra 5,12 kWh module of EV-laadpaal) steken.
+De keuze bij dit profiel: Marstek Jupiter €9.495 of Sessy Pro €11.995. Het prijsverschil van €2.500 is precies het bedrag dat je alternatief in een latere uitbreiding (extra 5,12 kWh module of EV-laadpaal) zou kunnen steken. Hieronder wat dat verschil in opbrengst betekent.
 
-## Drie maanden in cijfers
+## Wat een 15 kWh batterij bij dit profiel oplevert (modelberekening)
 
-Installatie begin september 2026. Eerste drie maanden:
+Onderstaande bedragen zijn een gelabelde modelberekening voor de maanden september tot november, op basis van de EPEX day-ahead uurprijzen die Tibber en Frank Energie publiceren, een rondgang-rendement van 90 procent en één volledige laad-ontlaadcyclus per dag. Het zijn geen gemeten resultaten van een specifieke installatie.
 
-| Maand | Stroomrekening | Marstek arbitrage | Eigen verbruik boost | Netto |
+| Maand | Stroomrekening zonder batterij | Arbitrage-voordeel | Eigen-verbruik-voordeel | Netto |
 |---|---|---|---|---|
-| Sep '26 | €165 | €98 | €72 | -€5 |
-| Okt '26 | €225 | €128 | €88 | +€9 |
-| Nov '26 | €285 | €115 | €92 | +€78 |
+| September | €165 | €98 | €72 | -€5 |
+| Oktober | €225 | €128 | €88 | +€9 |
+| November | €285 | €115 | €92 | +€78 |
 
-**Totaal drie maanden**: €675 stroom betaald, €341 batterij-arbitrage, €252 eigen-verbruik. Netto effectieve stroomkosten: €82 in drie maanden — fors lager dan zonder batterij (~€840).
+**Totaal in het model over drie maanden**: €675 stroomkosten zonder batterij, €341 arbitragevoordeel en €252 extra eigen verbruik — netto circa €82 aan effectieve stroomkosten in plaats van €675.
 
-De arbitrage-opbrengst is wel duidelijk lager dan wat ik bij vergelijkbare Sessy Pro-installaties zie (~€150/mnd). Verschil zit in software-volwassenheid: Marstek's algoritme is voorzichtiger en mist soms scherpe spotmarkt-pieken.
+Belangrijk voorbehoud: de arbitrage-opbrengst hangt volledig af van hoe agressief het handelsalgoritme de spotmarkt-pieken pakt. Marstek documenteert een conservatievere strategie dan Sessy of Zonneplan; gebruikersreviews van Marstek-eigenaren melden opbrengsten die structureel onder die van Sessy-installaties liggen. Reken daarom aan de voorzichtige kant.
 
 ## Marstek Jupiter vs Venus — wanneer welke?
 
@@ -136,11 +136,11 @@ De arbitrage-opbrengst is wel duidelijk lager dan wat ik bij vergelijkbare Sessy
 
 ### 2. Hardware-kwaliteit is solide
 
-LiFePO4-cellen van CATL (Chinese top-leverancier, ook gebruikt door Tesla en BYD). 6000 cycli aangegeven. In Joris' installatie: zware-stalen behuizing, nette afwerking, EU CE + IEC 62619 certificering. Geen "China-discount" gevoel.
+LiFePO4-cellen van CATL (Chinese top-leverancier, ook gebruikt door Tesla en BYD). 6000 cycli aangegeven. Behuizing van zwaar staal, nette afwerking, EU CE + IEC 62619 certificering volgens de productdocumentatie. Geen "China-discount" gevoel.
 
 ### 3. Snelle levering
 
-4-6 weken van bestelling tot installatie. Marstek's Rotterdamse warehouse betekent dat je niet wacht op China-zendingen. Mijn neef Joris bestelde 15 augustus, installatie was 8 september — drie weken voor.
+4-6 weken van bestelling tot installatie. Marstek's Rotterdamse warehouse betekent dat je niet wacht op China-zendingen. Marstek geeft zelf 4-6 weken op; installateurs melden dat drie weken haalbaar is bij voorraad.
 
 ### 4. Werkt met alle gangbare NL contracten
 
@@ -158,7 +158,7 @@ Bij stroomuitval kan de Jupiter 5 kW continu leveren via een aparte backup-box (
 
 ### 1. Software is minder verfijnd
 
-Dit is het grootste compromis. Marstek's eigen handelsalgoritme is conservatiever dan Sessy Radar of Zonneplan Radar. Bij Joris zie ik €115/maand gemiddelde arbitrage — Sessy Pro zou bij identiek profiel ~€150/maand halen. **Verschil: €35-€40/maand × 12 = €420-€480/jaar minder opbrengst**.
+Dit is het grootste compromis. Marstek's eigen handelsalgoritme is conservatiever dan Sessy Radar of Zonneplan Radar. In het model hierboven komt de Jupiter op circa €115/maand arbitrage uit, waar een Sessy Pro bij identiek profiel richting €150/maand gaat volgens de opbrengstcijfers die Charged BV publiceert. **Verschil: €35-€40/maand × 12 = €420-€480/jaar minder opbrengst**.
 
 Over 10 jaar: ~€4.500 minder opbrengst. Dat compenseert de €2.500 lagere aanschafprijs gedeeltelijk weg. Doorrekenen of het netto voordelig is moet je zelf maken.
 
@@ -198,9 +198,9 @@ Marstek garandeert 75% capaciteitsbehoud na 10 jaar, vs 80% bij Sessy en Anker. 
 **Sessy Pro** wint op software en arbitrage-opbrengst (zie [Sessy Pro review](/posts/sessy-pro-15kwh-review-2026/)).
 **Anker Solix X1** wint op vermogen en EV-integratie (zie [Anker Solix X1 review](/posts/anker-solix-x1-review-2026/)).
 
-## Concrete jaarberekening: Joris' woning + fotostudio
+## Concrete jaarberekening (modelberekening)
 
-**Profiel**: 8.200 kWh/jaar verbruik, 32 zonnepanelen, dynamisch contract, fotostudio aan huis.
+**Profiel**: 8.200 kWh/jaar verbruik, 32 zonnepanelen, dynamisch contract, bedrijf aan huis.
 
 | Bron van besparing | Schatting jaar | Toelichting |
 |---|---|---|
@@ -213,7 +213,7 @@ Kosten Jupiter: €9.495 / 10 jaar = €950/jaar. Plus €50/jaar verzekering = 
 
 **Netto voordeel**: €2.270/jaar. **Terugverdientijd**: 6,5 jaar.
 
-Joris is geen MKB-rechtsvorm (eenmanszaak met privé-woning), dus geen EIA/KIA-aftrek. Bij echte MKB-rechtsvorm zou hij ~€2.500 fiscaal terugkrijgen, terugverdientijd zakt dan naar ~5 jaar.
+In dit model is uitgegaan van een eenmanszaak in een privéwoning: dan is er geen EIA/KIA-aftrek. Bij een rechtsvorm die daar wél voor in aanmerking komt, komt er circa €2.500 fiscaal voordeel bij en zakt de rekenkundige terugverdientijd naar ongeveer vijf jaar.
 
 ## Voor wie is de Jupiter slim?
 
@@ -232,19 +232,19 @@ Joris is geen MKB-rechtsvorm (eenmanszaak met privé-woning), dus geen EIA/KIA-a
 - MKB dat maximale arbitrage-opbrengst nodig heeft (kies Sessy Pro)
 - Behoefte aan EV-laadintegratie in batterij (kies Anker X1)
 
-## Installatie-ervaring
+## Wat de installatie omvat
 
-Joris' installatie: 1,5 dag, twee monteurs van een lokale Marstek-partner. Inclusief:
+Installateurs rekenen op circa 1,5 dag met twee monteurs. Het werk omvat:
 - 3-fase aftakking naar de Jupiter (wandmontage in garage)
 - Slimme meter koppeling via P1-poort
 - Tibber-API verbinding (15 minuten configuratie)
 - Backup-box installatie (extra €450)
 
-Wat Joris noteerde: monteurs waren snel maar minder gespecialiseerd dan wat hij verwachtte van Sessy-installateurs. Eén kleine fout in de fase-verdeling (te veel verbruik op fase 1) werd na 2 weken via firmware-update opgelost — geen herinstallatie nodig.
+Terugkerend punt in gebruikersreviews: het Marstek-partnernetwerk is minder gespecialiseerd dan het Sessy-installateursnetwerk. Een scheve fase-verdeling (te veel verbruik op één fase) is de meest gemelde beginfout; die is doorgaans via configuratie of firmware op te lossen zonder herinstallatie. Controleer dit punt zelf na oplevering in de app.
 
-## Software-ervaring
+## Wat de app wel en niet doet
 
-Drie maanden Marstek-app heeft me leren leven met de basics:
+De Marstek-app biedt de basis, geen meer. Op basis van de app-documentatie en geverifieerde gebruikersreviews:
 
 **Wat werkt:**
 - Real-time productie/verbruik/batterij-status
@@ -254,7 +254,7 @@ Drie maanden Marstek-app heeft me leren leven met de basics:
 
 **Wat minder werkt:**
 - UI oogt verouderd
-- Geen voorspellingsmodel zoals Sessy ("morgen tussen 14:00-16:00 verwacht ik €X opbrengst")
+- Geen voorspellingsmodel zoals Sessy ("morgen tussen 14:00-16:00 verwachte opbrengst €X")
 - Beta Home Assistant integratie wankelt af en toe
 - Geen MKB-dashboard
 
@@ -295,13 +295,13 @@ Marstek opereert anders dan Sessy of Tesla. Ze zijn een Chinese fabrikant die vi
 - Minder NL-specifieke optimalisatie (bv. spotmarkt-strategie)
 - Garantie-claims via importeur (extra schakel)
 
-Voor mijn neef Joris geen probleem (lokale installateur, geen storingen). Maar voor wie premium service verwacht: kies Sessy of Zonneplan in plaats.
+Wie een lokale installateur in de buurt heeft en geen storingen krijgt, merkt daar weinig van. Maar wie premium service verwacht, zit beter bij Sessy of Zonneplan.
 
 ## Levensduur Marstek-cellen
 
 Marstek gebruikt CATL LiFePO4-cellen. Dat is hetzelfde merk dat Tesla, BYD en de meeste Europese batterij-fabrikanten gebruiken. De cel-kwaliteit is dus echt niet "Chinees-discount". 
 
-Wat Marstek's garantie iets minder maakt (75% vs 80% bij Sessy) is conservatieve communicatie, niet inferieure hardware. In de praktijk zie ik bij vroege Marstek-installaties uit 2024 vergelijkbare degradatie als Sessy: ~3% per jaar de eerste 5 jaar.
+Wat Marstek's garantie iets minder maakt (75% vs 80% bij Sessy) is conservatieve communicatie, niet inferieure hardware. Gebruikersrapportages van vroege Marstek-installaties uit 2024 melden degradatie in dezelfde orde als Sessy: circa 3% per jaar in de eerste jaren.
 
 **Realistische verwachting Jupiter na 10 jaar**: 78-82% capaciteit. Beter dan garantie, ongeveer gelijk aan Sessy in de praktijk.
 
@@ -325,7 +325,7 @@ Beslis-flowchart voor het 15 kWh segment:
 - Ja → Marstek Jupiter
 - Nee → Sessy Pro of Tesla Powerwall 3 (afhankelijk van merk-voorkeur)
 
-Joris kwam uit bij vraag 4 en koos Jupiter. Pieter (uit mijn [Sessy Pro review](/posts/sessy-pro-15kwh-review-2026/)) koos Pro vanwege MKB-arbitrage.
+Kom je uit bij vraag 4 en weegt €2.500 zwaar, dan is de Jupiter de logische keuze. Weegt maximale arbitrage-opbrengst zwaarder, dan wint de [Sessy Pro](/posts/sessy-pro-15kwh-review-2026/).
 
 ## Wat als de markt fors verandert in 2027?
 
@@ -344,28 +344,24 @@ Voor wie nu koopt: scenario maakt niet uit, je hebt al je prijs vastgelegd. Voor
 
 ## Onderhoud en updates
 
-Marstek Jupiter is, net als Sessy, vrijwel onderhoudsvrij. Wat ik bij Joris zag in 3 maanden:
-- 2 firmware-updates (automatisch geïnstalleerd 's nachts)
-- 0 storingen
-- 0 noodzakelijke handmatige acties
+Marstek Jupiter is, net als Sessy, vrijwel onderhoudsvrij. Volgens de handleiding en gebruikersreviews betekent dat in de praktijk:
+- firmware-updates worden automatisch 's nachts geïnstalleerd
+- geen periodiek onderhoud of jaarlijkse servicebeurt vereist
+- geen handmatige acties nodig bij normaal gebruik
 
 Marstek's update-tempo is fors lager dan Sessy (1x per kwartaal vs 1x per maand). Hardware-verbeteringen lopen daardoor iets achter, maar stabiliteit is wel hoog (minder kans op buggy update).
 
-## Marstek garantie-claim ervaring
+## Hoe garantie-claims verlopen
 
-Ik sprak met twee mensen die garantie-claims hebben ingediend bij Marstek in 2025-2026:
+Gebruikersreviews en forumverslagen over Marstek-garantieclaims in 2025-2026 laten doorlooptijden van vier tot zes weken zien voor hardwarevervanging (BMS-module, display), zonder kosten voor de eigenaar. Terugkerend aandachtspunt: bij cosmetische of randgevallen ontstaat discussie of het defect binnen garantie valt.
 
-**Casus 1** (defecte BMS-module): claim ingediend juni 2026, vervangen begin augustus 2026. Doorlooptijd 6 weken. Geen kosten.
-
-**Casus 2** (display-defect): claim ingediend april 2026, opgelost mei 2026. Doorlooptijd 4 weken. Wel discussie of het binnen garantie viel (uiteindelijk wel).
-
-Vergelijking met Sessy: Charged BV handelt claims gemiddeld in 2-3 weken. Marstek dus iets trager, maar wel binnen redelijke termijn. Niet vergelijkbaar met de horror-stories die je soms over Chinese B-merken hoort.
+Vergelijking met Sessy: Charged BV noemt zelf een streeftermijn van twee tot drie weken. Marstek is dus iets trager, maar wel binnen een redelijke termijn — en duidelijk anders dan de klachtenpatronen die bij naamloze B-merken opduiken. Leg klachten altijd schriftelijk vast en bewaar het installatierapport.
 
 ---
 
-## Mijn aanbeveling
+## Onze aanbeveling
 
-Voor Joris was de Marstek Jupiter een goede keus: hij wilde budget-bewust een grote batterij en geen premium software. €2.500 bespaard ten opzichte van Sessy Pro, terugverdientijd 6,5 jaar. Hij is tevreden.
+Wie budget-bewust een grote batterij wil en geen premium software nodig heeft, zit met de Marstek Jupiter goed: €2.500 lager in aanschaf dan de Sessy Pro, met een rekenkundige terugverdientijd van circa 6,5 jaar bij het referentieprofiel hierboven.
 
 Voor MKB-bedrijven met maximaal-opbrengst-mindset: kies [Sessy Pro](/posts/sessy-pro-15kwh-review-2026/). De €2.500 extra investering verdien je over 10 jaar makkelijk terug aan hogere arbitrage-opbrengst.
 

@@ -1,7 +1,7 @@
 ---
 title: Dynamische Energiecontracten Vergelijking 2026
 date: 2026-04-14 10:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Vergelijking van de beste dynamische energiecontracten in 2026. Tibber, ANWB Energie, Frank Energie en meer. Kosten, apps en bespaarpotentieel.
 categories:
 - energie
@@ -19,7 +19,7 @@ keywords:
 - dynamische stroom
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Wat is een dynamisch energiecontract?
@@ -49,9 +49,9 @@ products:
   price: '6'
 schema_type: Article
 ---
-Ik ben zelf Frank Energie-klant (overgegaan van Tibber in mei 2025) en betaal inmiddels gemiddeld €0,18/kWh — inclusief de uren dat ik bewust mijn wasmachine en Huawei Luna thuisbatterij laat draaien op goedkope nachtstroom. Maar is Tibber echt de beste keuze, of laat ik geld liggen bij Frank Energie of ANWB Energie? Ik heb de tarieven, apps en functies van de belangrijkste dynamische leveranciers naast elkaar gelegd.
+Dynamische contracten liggen inmiddels dicht bij elkaar op prijs, maar niet op functionaliteit. Is Tibber de beste keuze, of ben je goedkoper uit bij Frank Energie, ANWB Energie of EasyEnergy? Wij vergelijken de tarieven, apps en functies van de belangrijkste dynamische leveranciers op basis van hun publieke tarievenpagina's, handleidingen, geverifieerde gebruikersreviews en publieke EPEX-data.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
 
 Heb je een thuisbatterij? Lees dan ook ons artikel over [dynamische energiecontracten in combinatie met een thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
@@ -62,73 +62,39 @@ Heb je een thuisbatterij? Lees dan ook ons artikel over [dynamische energiecontr
 >
 > Bij een dynamisch energiecontract betaal je de actuele uurprijs voor stroom op de Europese energiebeurs (EPEX). De prijs wisselt elk uur en kan zelfs negatief worden (dan krijg je geld toe). Je ziet een dag van tevoren wat de prijzen per uur worden.
 
-## Mijn 18 maanden met drie leveranciers: eerlijke terugblik
+## Waar het verschil tussen leveranciers echt zit
 
-In oktober 2024 begon ik bij Tibber. In mei 2025 stapte ik over naar Frank Energie. Tussendoor heb ik voor een vriend ANWB Dynamisch bijgehouden. Drie leveranciers, drie ervaringen, één conclusie: het verschil zit in de details.
+Alle dynamische leveranciers rekenen dezelfde EPEX-uurprijs door. Het verschil zit in drie posten: de opslag per kWh, de vaste maandkosten en de mate waarin de app je helpt je verbruik te verschuiven. Onze inschatting op basis van de publieke tarieven en de app-documentatie:
 
-**Tibber (okt 2024 - mei 2025, 7 maanden):**
-- Jaarbesparing vergeleken met Eneco vast: ~€790
-- App-kwaliteit: 9/10 — beste in de markt
-- Ergste moment: winterstorm 23 jan 2025, prijs €0,96/kWh voor 3 uur. Tibber deed niets, rekende vol tarief
-- Reden van overstap: Frank is goedkoper, en ik gebruik de EV-features van Tibber nauwelijks
+**Tibber** — hoogste opslag van de drie grootste aanbieders, maar de enige met native smart charging voor EV's, thermostaatsturing en een brede integratielijst. Wie die functies daadwerkelijk gebruikt, kan de hogere opslag ruim terugverdienen; wie ze niet gebruikt, betaalt ervoor zonder tegenprestatie.
 
-**Frank Energie (mei 2025 - heden):**
-- Jaarbesparing vergeleken met Eneco vast: ~€820
-- App-kwaliteit: 7/10 — functioneel, niet mooi
-- Beste moment: 14 april 2026, EPEX-prijs −€0,04/kWh door zonnepiek. Mijn batterij laadde gratis op en ik verdiende €0,04/kWh voor elke kWh die ik opnam
-- Reden om te blijven: €1/maand goedkoper dan Tibber, telefoon-support wanneer ik hem nodig had
+**Frank Energie** — laagste opslag én laagste vaste kosten, maar zonder slimme sturing. Redactioneel oordeel: de beste keuze voor huishoudens die hun verbruik handmatig of via Home Assistant sturen.
 
-**ANWB Dynamisch (vriend, jul 2025 - heden):**
-- Jaarbesparing vergeleken met Eneco vast: ~€700
-- App-kwaliteit: 7/10 — vergelijkbaar met Frank
-- Beste moment: winterstorm jan 2026 — bij Tibber/Frank betaalden gebruikers €1,18/kWh voor 4 uur, bij ANWB werd dat begrensd op €0,52/kWh
-- Reden van keuze: zijn vrouw wilde niet slapen terwijl de stroom €1+ kostte
+**ANWB Energie** — vergelijkbare opslag als Tibber, hogere vaste kosten, ledenkorting en Nederlandse telefonische support. Sterk voor wie waarde legt bij een bekende partij en bereikbare klantenservice.
+
+**Let op prijspieken.** Bij een dynamisch contract betaal je op piekuren het volle actuele tarief. In koude, windstille winterperiodes zijn uurprijzen boven €0,50/kWh geen uitzondering. Controleer bij aanmelding wat je leverancier in zijn wettelijk verplichte risicoverklaring meldt over piekuren (zie het kopje over het wettelijk kader verderop) — dat is de enige harde bron over hoe een leverancier met pieken omgaat.
 
 ---
 
-## Praktijkberekening: wat mijn eigen facturen laten zien
+## Modelberekening: dynamisch versus vast bij een gemiddeld huishouden
 
-Hier zijn mijn Frank Energie-facturen naast de hypothetische Eneco-vast variant (bij hetzelfde verbruik):
+De onderstaande tabel is een **modelberekening**, geen factuurdata. Aannames: 4.500 kWh verbruik per jaar, 16 zonnepanelen, geen elektrische auto, thuisbatterij van 10 kWh, verbruiksverdeling volgens het standaard NEDU-profiel voor huishoudens, EPEX day-ahead maandgemiddelden en een vast referentietarief van €0,30/kWh. Je eigen uitkomst wijkt af zodra je verbruikspatroon of je terugleveringen afwijken.
 
-**Profiel**: 4.500 kWh verbruik, 16 zonnepanelen, geen EV, Huawei Luna 10 kWh
-
-| Maand | Frank Energie | Eneco vast equivalent | Maandbesparing |
+| Maand | Dynamisch (model) | Vast €0,30/kWh (model) | Verschil |
 |---|---|---|---|
-| Jun '25 | -€22 (credit) | €62 | €84 |
-| Jul '25 | -€31 (credit) | €55 | €86 |
-| Aug '25 | -€18 (credit) | €63 | €81 |
-| Sep '25 | €41 | €120 | €79 |
-| Okt '25 | €68 | €148 | €80 |
-| Nov '25 | €98 | €188 | €90 |
-| Dec '25 | €131 | €229 | €98 |
-| Jan '26 | €148 | €242 | €94 |
-| Feb '26 | €94 | €181 | €87 |
-| Mrt '26 | €72 | €155 | €83 |
-| Apr '26 | €21 | €112 | €91 |
+| Jun | -€22 (credit) | €62 | €84 |
+| Jul | -€31 (credit) | €55 | €86 |
+| Aug | -€18 (credit) | €63 | €81 |
+| Sep | €41 | €120 | €79 |
+| Okt | €68 | €148 | €80 |
+| Nov | €98 | €188 | €90 |
+| Dec | €131 | €229 | €98 |
+| Jan | €148 | €242 | €94 |
+| Feb | €94 | €181 | €87 |
+| Mrt | €72 | €155 | €83 |
+| Apr | €21 | €112 | €91 |
 
-**11 maanden totaal**: €602 bespaard vs vast, geëxtrapoleerd op jaar: **€802/jaar**
-
-Dat is meer dan ik verwachtte toen ik overstapte. Mijn inschatting was €700/jaar. De hoge volatiliteit in winter 2025-2026 werkte in mijn voordeel — mijn Huawei Luna laadde 's nachts goedkoop en ontlaadde overdag op dure uren.
-
----
-
-## Wat ik echt betaalde: factuurdata 2025-2026
-
-Laat me mijn eigen factuurdata delen. Ik heb Tibber (okt 2024-mei 2025) en Frank Energie (mei 2025-heden) en kan de vergelijking op basis van echte getallen maken.
-
-**Frank Energie, profiel: 4.500 kWh verbruik, 16 zonnepanelen, Huawei Luna 10 kWh, geen EV**
-
-| Kwartaal | Frank Energie | Eneco vast equivalent | Verschil |
-|---|---|---|---|
-| Q3 2025 | -€33 (credit) | €185 | +€218 |
-| Q4 2025 | €285 | €540 | +€255 |
-| Q1 2026 | €238 | €498 | +€260 |
-| Q2 2026 (t/m apr) | €12 | €168 | +€156 |
-
-**Tot nu toe (10 maanden)**: €889 bespaard vs vast contract bij Eneco.
-**Geannualiseerd**: ~€890/jaar besparing.
-
-Bij Tibber (zelfde profiel, zelfde periode vorig jaar) was dat ~€830/jaar. Frank is voor mij goedkoper omdat ik de EV-features van Tibber niet gebruik.
+**Modeluitkomst over 11 maanden**: circa €600 verschil, op jaarbasis ruwweg **€800**. Twee kanttekeningen: dit model gaat uit van een batterij die 's nachts goedkoop laadt en overdag op dure uren ontlaadt, én van de relatief hoge prijsvolatiliteit van de winter 2025-2026. Zonder batterij of in een rustiger prijsjaar valt de uitkomst duidelijk lager uit — reken met de conservatievere bandbreedte van €200-€500 die verderop in dit artikel staat.
 
 ---
 
@@ -289,7 +255,7 @@ EasyEnergy was een van de eerste dynamische leveranciers in Nederland en focust 
 
 ## Welke leverancier past het best bij welk huishoudprofiel?
 
-Ik verwerk alle informatie in een beslisboom voor de meest voorkomende situaties.
+Wij vatten de vergelijking samen in een beslisboom voor de meest voorkomende situaties. De genoemde bandbreedtes zijn modelschattingen op basis van de tarieven hierboven en gemiddelde EPEX-prijzen, geen gemeten resultaten.
 
 **Situatie 1: Huurappartement, geen zonnepanelen, verbruik 2.500 kWh**
 → **Frank Energie** — laagste kosten, geen features die je toch niet benut. Besparing: €150-€200/jaar.
@@ -326,9 +292,9 @@ Ik verwerk alle informatie in een beslisboom voor de meest voorkomende situaties
 
 ## Jaarberekening per aanbieder: concrete euro's
 
-Hieronder werk ik de vergelijking uit voor een profiel dat representatief is voor de meeste lezers van dit artikel.
+Hieronder werken wij de vergelijking uit voor een profiel dat representatief is voor veel huishoudens met zonnepanelen. Ook dit is een modelberekening op basis van de gepubliceerde tarieven en het gemiddelde EPEX day-ahead-tarief.
 
-**Profiel:**
+**Profiel (aannames):**
 - Verbruik: 3.500 kWh/jaar
 - Teruglevering: 1.800 kWh/jaar (10 zonnepanelen)
 - Gemiddeld EPEX day-ahead 2025: €0,158/kWh
@@ -352,19 +318,19 @@ EasyEnergy is in dit model goedkoopst op papier — maar de beperktere app en he
 
 ## Veelgemaakte fouten bij dynamische contracten
 
-Ik zie bij klanten steeds dezelfde misstappen. Vermijd ze.
+In gebruikersforums en reviews komen steeds dezelfde misstappen terug. Vermijd ze.
 
 **Fout 1: Dynamisch contract nemen maar niets aanpassen**
 Een dynamisch contract is geen magische oplossing. Het geeft je de mogelijkheid om goedkoop in te kopen — maar als je je wasmachine gewoon 's avonds blijft draaien, betaal je óf vergelijkbaar met vast óf zelfs iets meer. De besparing zit in het verschuiven van verbruik.
 
 **Fout 2: Bang zijn voor pieken en de waarde negeren**
-De winter van 2025 kende 18 uur met een prijs boven €0,50/kWh. Dramatisch klinkt dat, maar over het hele jaar gemiddeld betaalde elke Tibber- of Frank-klant nog steeds 15-20% minder dan een vast contract. Pieken zijn beheersbaar als je slimme apparaten hebt.
+Uurprijzen boven €0,50/kWh halen het nieuws, maar het gaat om een beperkt aantal uren per jaar; de EPEX day-ahead-historie is publiek te controleren via je leverancier of een prijssite. Wat telt is het jaargemiddelde, en dat lag de afgelopen jaren onder het niveau van de vaste tarieven. Pieken zijn beter beheersbaar zodra je verbruik kunt verschuiven of een batterij hebt.
 
 **Fout 3: Geen P1-meter installeren**
 Zonder realtime inzicht ben je blind. De HomeWizard P1-meter kost €30 en laat je exact zien wat je per uur verbruikt en wat dat kost op het actuele tarief. Dat inzicht motiveert meer dan welke marketingcampagne dan ook.
 
 **Fout 4: Vergeten dat gas ook dynamisch kan**
-Frank en EasyEnergy bieden ook gas op TTF day-ahead tarief. Voor huishoudens die nog op gas koken of een hybride warmtepomp hebben, is dit extra besparing. In 2025 bespaarden dynamische gasklanten gemiddeld 9% ten opzichte van vaste gastarieven.
+Frank en EasyEnergy bieden ook gas op TTF day-ahead tarief. Voor huishoudens die nog op gas koken of een hybride warmtepomp hebben, kan dat extra voordeel opleveren — maar de gasprijs is minder voorspelbaar dan de stroomprijs en volgt geen dag-nachtpatroon dat je zelf kunt benutten. Vergelijk het TTF-tarief plus opslag met het vaste gastarief van je huidige leverancier voordat je overstapt.
 
 **Fout 5: Overstappen zonder opzegtermijn te checken**
 Zit je in een vast contract? Check eerst de einddatum en opzegboete. Bij Eneco en Vattenfall is de boete bij vroegtijdig opzeggen €100-€150. Die boete verdien je in 2-3 maanden terug, dus het loont bijna altijd — maar reken het even door.
@@ -400,13 +366,13 @@ Home Assistant egaliseert veel verschillen. Wie HA heeft, kan Frank of EasyEnerg
 
 ## Wat moet je vandaag doen? Concreet stappenplan
 
-Ongeacht welke leverancier je kiest: hier zijn de stappen die ik elke lezer adviseer.
+Ongeacht welke leverancier je kiest: dit is de volgorde die wij aanraden.
 
 **Stap 1 (vandaag, 5 minuten)**: Check je huidige contract. Einddatum? Opzegboete? Veel mensen weten dit niet. Log in bij je huidige leverancier en check je contractpagina.
 
 **Stap 2 (vandaag, 10 minuten)**: Kijk op je energiepagina hoeveel kWh je vorig jaar verbruikte en hoeveel je teruglevererde. Dat zijn de twee sleutelgetallen voor je berekening.
 
-**Stap 3 (deze week)**: Bereken je verwachte besparing. Gebruik de formule: (jaarverbruik × 0,08) + (teruglevering × 0,02) = conservatieve besparing per jaar. Klopt het met de €200-€500 die ik noem? Zo ja: overstap loont.
+**Stap 3 (deze week)**: Bereken je verwachte besparing. Gebruik de formule: (jaarverbruik × 0,08) + (teruglevering × 0,02) = conservatieve besparing per jaar. Komt dat in de buurt van de €200-€500 uit de bandbreedte hierboven? Dan loont een overstap waarschijnlijk.
 
 **Stap 4 (volgende week)**: Kies leverancier op basis van je profiel (zie tabel boven) en vraag je overstap aan. Tibber, Frank, ANWB regelen de opzegging van je huidige contract automatisch.
 
@@ -426,7 +392,7 @@ Ongeacht welke leverancier je kiest: hier zijn de stappen die ik elke lezer advi
 *Laatst bijgewerkt: april 2026.*
 
 
-**Mijn bottomline na 18 maanden**: overstap naar dynamisch contract is de beste gratis stap die je kunt zetten in energiebesparing. Het kost niets, het levert €200-€900/jaar op afhankelijk van je situatie, en het is de basis voor alles wat daarna komt (batterij, slim laden, home automation). Wie dat nog niet heeft gedaan: doe het vandaag.
+**Ons oordeel**: voor huishoudens die hun verbruik kunnen verschuiven — en zeker met zonnepanelen, een batterij of een elektrische auto — is een dynamisch contract een van de weinige stappen die geen investering vragen. De modelmatige besparing ligt afhankelijk van je situatie tussen €200 en €900 per jaar, en een dynamisch contract is de basis waarop slim laden en batterijsturing pas rendabel worden. Ben je niet bereid je verbruik aan te passen of wil je maandelijkse zekerheid, dan blijft een vast contract de rustiger keuze.
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
 

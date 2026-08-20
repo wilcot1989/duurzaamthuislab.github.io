@@ -1,7 +1,7 @@
 ---
 title: 'ATAG warmtepomp review 2026: eerlijke test van een'
 date: 2026-06-28 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: 2026-08-20 08:00:00+02:00
 description: ATAG maakt warmtepompen in Nederland — maar zijn ze ook goed? Onze review van de ENERGION hybride warmtepomp op basis van specificaties, ISDE-lijst en gebruikersreviews.
 categories:
 - warmtepompen
@@ -23,7 +23,7 @@ keywords:
 - Nederlandse warmtepomp
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een ATAG ENERGION warmtepomp in 2026?

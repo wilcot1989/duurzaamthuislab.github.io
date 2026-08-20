@@ -1,7 +1,7 @@
 ---
-title: 'Beste Powerstation voor Camping 2026: Top 5 Getest'
+title: 'Beste Powerstation voor Camping 2026: Top 5 Vergeleken'
 date: 2026-03-03 12:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: De 5 beste powerstations voor camping in 2026. Vergelijk gewicht, vermogen, draagbaarheid en zonnepaneel-opladen voor kampeerders.
 categories:
 - powerstations
@@ -21,7 +21,7 @@ keywords:
 - camping stroomvoorziening
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
 - q: Welk powerstation is het beste voor camping?
@@ -50,9 +50,9 @@ products:
   price: '349'
 schema_type: Article
 ---
-Vorig jaar heb ik op de camping mijn compressorkoelbox, telefoons en LED-verlichting drie dagen gevoed met een enkel powerstation en een opvouwbaar zonnepaneel. Geen aggregaat, geen lawaai, geen gedoe. Ik heb daarna nog vier andere modellen getest en precies bijgehouden hoeveel Wh ik per campingdag verbruikte (gemiddeld 420 Wh). Dit zijn de 5 powerstations die ik zou aanraden voor kampeerders.
+Een compressorkoelbox, telefoons en LED-verlichting: dat is voor de meeste kampeerders het hele stroomverbruik. Reken op grofweg 350 tot 500 Wh per campingdag voor die combinatie — een bandbreedte die volgt uit de opgegeven verbruikscijfers van gangbare 12V-koelboxen (30-45 W tijdens compressorloop, circa 8 uur effectief per etmaal) plus laadverliezen. Wij vergelijken hieronder vijf powerstations op fabrieksspecificaties, handleidingen en geverifieerde gebruikersreviews, en geven per model aan voor welk kampeerprofiel het past.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
 

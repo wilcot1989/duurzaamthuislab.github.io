@@ -1,7 +1,7 @@
 ---
 title: 'Waterstof thuisinstallatie 2026: realistisch of hype?'
 date: 2026-06-24 10:00:00+01:00
-lastmod: 2026-06-24 10:00:00+01:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Waterstof thuis in 2026: eerlijke hype-check. Wat kun je nu echt kopen? Wat kost een waterstof thuissysteem? En wanneer wordt het interessant?'
 categories:
 - energie
@@ -21,7 +21,7 @@ keywords:
 - groene waterstof woning
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Kan ik in 2026 al waterstof thuis opslaan?
@@ -47,11 +47,11 @@ products:
   price: '3499'
 schema_type: Article
 ---
-Twee jaar geleden kreeg ik een vraag van een buurman: "Mark, ik heb gehoord dat je straks gewoon waterstof thuis kunt opslaan. Is dat wat voor mij?" Ik gaf hem toen een voorzichtig antwoord. Nu, twee jaar later, kan ik een eerlijker antwoord geven: waterstof thuis is in 2026 grotendeels nog steeds toekomstmuziek voor particulieren. Maar het klopt wel dat de technologie vordert.
+"Je kunt straks gewoon waterstof thuis opslaan" — die belofte circuleert al jaren. De stand van zaken in 2026: waterstof thuis is voor particulieren nog grotendeels toekomstmuziek. De technologie vordert wel, en er staan de eerste tientallen installaties in Nederland, maar de kosten en de regelgeving maken het voor een gewone woning nog geen verstandige keuze.
 
 Dit artikel is een eerlijke hype-check. Geen verkoopverhalen, geen pessimisme — gewoon wat de stand van zaken is, wat er concreet beschikbaar is, en wanneer je waterstof thuis serieus kunt overwegen.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
 
@@ -80,7 +80,7 @@ Dit scenario is afhankelijk van de infrastructuur: er moet waterstof via het net
 
 Een **micro-WKK** (warmtekrachtkoppeling) op basis van waterstof of aardgas die tegelijkertijd stroom en warmte produceert voor de woning. Al langer beschikbaar (Viessmann, Bosch), maar duur en beperkt marktaandeel.
 
-In dit artikel focus ik op scenario 1 — de meest besproken variant.
+Dit artikel richt zich op scenario 1 — de meest besproken variant.
 
 ---
 
@@ -173,7 +173,7 @@ Dit is een ander product, maar relevant als vergelijking voor de technologie.
 
 ## De kostenanalyse: wat betaal je echt?
 
-Ik doe een realistische calculatie voor een Picea-achtig systeem in Nederland in 2026.
+Hieronder een realistische calculatie voor een Picea-achtig systeem in Nederland in 2026, op basis van de gepubliceerde systeemprijzen en rendementscijfers.
 
 ### Investeringskosten
 
@@ -233,7 +233,7 @@ Bij plannen voor waterstof via het gasnet moet je in overleg met de regionale ne
 
 ## Wanneer wordt waterstof thuis realistisch?
 
-Ik geef de eerlijke tijdlijn op basis van industrie-analyses en mijn eigen beoordeling.
+Onderstaande tijdlijn is gebaseerd op industrie-analyses, de Nederlandse waterstofplannen en de huidige kostenontwikkeling.
 
 ### 2026-2028: Pioniersfase (nu)
 
@@ -275,7 +275,7 @@ De waterstofboiler (cv-ketel op 100% waterstof) is een ander segment. Vaillant, 
 
 **Alternatieve routes:** Warmtepompen worden goedkoper en efficiënter. De noodzaak van een waterstofboiler als alternatief neemt daarmee af.
 
-Mijn verwachting: waterstofboilers voor particulieren in Nederland worden pas relevant na 2035, als en wanneer regionale waterstofnetten operationeel zijn.
+Onze inschatting: waterstofboilers voor particulieren in Nederland worden pas relevant na 2035, als en wanneer regionale waterstofnetten operationeel zijn.
 
 ---
 
@@ -311,9 +311,9 @@ Voorbeeldprojecten: pilot in Stad aan 't Haringvliet (gemeente Goeree-Overflakke
 
 ---
 
-## Wat ik adviseer in 2026
+## Ons advies voor 2026
 
-Ik houd waterstof thuis nauwlettend in de gaten. Maar ik raad het niemand in mijn omgeving aan als praktische investering dit jaar.
+Waterstof thuis is technologisch interessant om te volgen, maar als praktische investering dit jaar niet te verdedigen: de kosten per opgeslagen kWh liggen een orde van grootte boven die van een thuisbatterij.
 
 **Als je energieopslag wilt:**
 1. Begin met een thuisbatterij — proven technology, betaalbaar, subsidie beschikbaar
@@ -377,7 +377,7 @@ Nederland heeft een Nationaal Waterstofprogramma met specifieke clusters (Rotter
 
 ## Energieopslag thuis: de keuze in 2026 en de keuze in 2032
 
-Ik stel graag twee tijdframes naast elkaar:
+Twee tijdframes naast elkaar:
 
 ### Nu (2026)
 

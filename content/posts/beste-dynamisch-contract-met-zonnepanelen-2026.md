@@ -1,7 +1,7 @@
 ---
 title: Beste dynamisch contract met zonnepanelen 2026
 date: 2026-05-13 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: 2026-08-20 08:00:00+02:00
 description: Welke dynamische energieleverancier is het voordeligst voor zonnepaneel-bezitters? Tibber vs Frank vs ANWB vs Eneco Dynamisch vergeleken.
 categories:
 - energie
@@ -20,7 +20,7 @@ keywords:
 - dynamisch contract teruglevering
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Welk dynamisch contract is het beste voor zonnepaneel-bezitters?

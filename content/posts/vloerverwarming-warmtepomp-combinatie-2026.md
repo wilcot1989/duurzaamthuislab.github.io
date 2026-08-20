@@ -1,7 +1,7 @@
 ---
 title: 'Vloerverwarming en Warmtepomp: De Perfecte Combinatie (2026)'
 date: 2026-05-12 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Waarom vloerverwarming en een warmtepomp de ideale combinatie zijn. Kosten, besparing, installatietips en wanneer het wel en niet rendabel is.
 categories:
 - warmtepompen
@@ -18,7 +18,7 @@ keywords:
 - warmtepomp vloerverwarming
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Waarom is vloerverwarming ideaal voor een warmtepomp?
@@ -42,7 +42,7 @@ products:
   price: '9000'
 schema_type: Article
 ---
-Mijn Vaillant hybride warmtepomp draait het efficients op de vloerverwarming in mijn woonkamer — daar haalt hij een COP van 4,5 bij 35°C watertemperatuur. Op de radiatoren in de slaapkamers (60°C nodig) zakt de COP naar 2,8. Dat verschil is bijna 40% meer stroomverbruik. Als je overweegt een warmtepomp te nemen, is vloerverwarming de investering die het rendement maakt of breekt.
+Een warmtepomp haalt bij 35°C aanvoertemperatuur volgens de fabrieksspecificaties een COP rond de 4,5; bij 60°C — wat klassieke radiatoren vragen — zakt diezelfde pomp naar ongeveer 2,8. Dat is bijna 40 procent meer stroom voor dezelfde warmte. Wie een warmtepomp overweegt, moet daarom eerst naar het afgiftesysteem kijken: vloerverwarming is de investering die het rendement maakt of breekt.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
@@ -128,7 +128,7 @@ De COP (Coefficient of Performance) van een warmtepomp geeft aan hoeveel warmte 
 
 ## Hoeveel kWh bespaart vloerverwarming per jaar in de praktijk?
 
-Dit is een vraag die ik moeilijk met één getal kan beantwoorden, maar ik kan het illustreren met Leons situatie (tussenwoning, 120 m², label B na renovatie, combinatie vloerverwarming begane grond + radiatoren verdieping).
+Op die vraag past geen enkel getal, maar een rekenvoorbeeld maakt het concreet. Aannames: tussenwoning van 120 m², label B na renovatie, vloerverwarming op de begane grond en radiatoren op de verdieping, stroomprijs €0,23/kWh.
 
 **Zonder vloerverwarming (alleen radiatoren, 52°C aanvoer):**
 - SCOP warmtepomp: 3,7
@@ -144,7 +144,7 @@ Verschil: **€46/jaar**. Op het eerste gezicht teleurstellend voor een invester
 
 Maar dat is de directe energiebesparing op de warmtepomp. De bredere winst is: (a) het comfort van de begane grond is fundamenteel beter — egale warmte, geen tochtige radiatoren; (b) de woning haalt een beter energielabel (A+ in plaats van A), goed voor €8.000-€15.000 woningwaarde; (c) de warmtepomp heeft een langere levensduur door minder extreme temperatuurcycli.
 
-Leon zelf: "Die €46 per jaar maakt me niet rijk, maar ik heb de vloerverwarming ook niet voor het geld genomen. We werken thuis, de woonkamer is ons kantoor — dat verschil in comfortgevoel is tastbaar elke ochtend."
+Kortom: reken vloerverwarming niet terug op de energierekening alleen. Wie de investering puur financieel beoordeelt, komt bij een bestaande, redelijk geïsoleerde woning bijna altijd op een te lange terugverdientijd. De comfortwinst en het effect op het energielabel zijn de argumenten die de doorslag geven.
 
 ## Alternatief: LT-radiatoren
 
@@ -184,7 +184,7 @@ Bij bestaande bouw is de keuze tussen droog en nat vloerverwarmingssysteem bepal
 - Technisch veeleisend, maar no-nonsense resultaat
 - Kosten: €75-€110/m² inclusief freeswerk en afwerking
 
-**Mijn advies:** bij een verbouwing waarbij de vloer toch op de schop gaat (nieuwe tegels, nieuw parket): kies voor nat. Bij een bestaande vloer die in goede staat is en je niet wilt slopen: droog. Het freessysteem is de beste keuze als je een betonnen begane grond hebt en geen opbouwhoogte wilt.
+**Ons advies:** bij een verbouwing waarbij de vloer toch op de schop gaat (nieuwe tegels, nieuw parket): kies voor nat. Bij een bestaande vloer die in goede staat is en je niet wilt slopen: droog. Het freessysteem is de beste keuze als je een betonnen begane grond hebt en geen opbouwhoogte wilt.
 
 ## Tips voor de installatie
 
@@ -208,7 +208,7 @@ De zonnepanelen wekken overdag stroom op die de warmtepomp aandrijft. Met een [d
 
 ## Praktijkvoorbeeld: de complete berekening voor een renovatiewoning
 
-Mijn neef Leon heeft in 2024 een tussenwoning uit 1988 (label D, 115 m²) ingrijpend gerenoveerd. Nieuwe badkamer, nieuwe keuken — en hij besloot tegelijk vloerverwarming te leggen op de begane grond en een Daikin Altherma 3 H/M 8 kW te installeren. Ik heb zijn cijfers meegekregen.
+Rekenvoorbeeld met de volgende aannames: tussenwoning uit 1988 (label D, 115 m²) die ingrijpend gerenoveerd wordt, waarbij tegelijk vloerverwarming op de begane grond wordt gelegd en een Daikin Altherma 3 H/M 8 kW wordt geplaatst. Gasprijs €1,05/m³, stroomprijs €0,23/kWh.
 
 **De investering:**
 - Droog vloerverwarmingssysteem begane grond (48 m²): €3.360 (€70/m² inclusief installatie)
@@ -217,8 +217,8 @@ Mijn neef Leon heeft in 2024 een tussenwoning uit 1988 (label D, 115 m²) ingrij
 - Netto totaalinvestering: **€9.460**
 
 **Het energieverbruik na installatie:**
-- Begane grond (vloerverwarming, aanvoer 37°C): COP gemeten 4,6
-- Eerste verdieping (bestaande radiatoren, aanvoer 52°C): COP gemeten 3,7
+- Begane grond (vloerverwarming, aanvoer 37°C): COP volgens fabrieksopgave circa 4,6
+- Eerste verdieping (bestaande radiatoren, aanvoer 52°C): COP volgens fabrieksopgave circa 3,7
 - Gemiddelde COP over het jaar: circa 4,1
 - Jaarlijks stroomverbruik warmtepomp: 3.850 kWh
 - Jaarlijks stroomkosten: 3.850 × €0,23 = **€886**
@@ -226,7 +226,7 @@ Mijn neef Leon heeft in 2024 een tussenwoning uit 1988 (label D, 115 m²) ingrij
 - Netto besparing: **€1.319/jaar**
 - Terugverdientijd: 9.460 / 1.319 = **7,2 jaar**
 
-Leon had kunnen besparen door alleen LT-radiatoren te nemen in plaats van vloerverwarming. Maar hij koos bewust voor vloerverwarming vanwege het comfort — zijn vrouw heeft last van koude voeten, en de open woonkamer van 32 m² bleef met radiatoren altijd ongelijkmatig warm. "De eerste winterochtend lopen we op die warme vloer — dat had ik eerder moeten doen."
+In dit model had de investering lager gekund met alleen LT-radiatoren in plaats van vloerverwarming. Het verschil in energiekosten tussen die twee opties is klein; het verschil in comfort niet. Bij een open woonkamer met een groot vloeroppervlak is de warmteverdeling met radiatoren structureel ongelijkmatiger — dat is de reden dat veel huishoudens alsnog voor vloerverwarming kiezen.
 
 ## Veelgemaakte fouten bij vloerverwarming + warmtepomp
 

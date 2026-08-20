@@ -1,7 +1,7 @@
 ---
 title: 'Energieopslag ZZP & MKB 2026: Commercieel Doorgerekend'
 date: 2026-07-30 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Energieopslag voor ZZP en MKB in 2026: ROI, investeringssubsidies (EIA, KIA), commerciële batterij­opties en wanneer een industriële opslag rendabel is.'
 draft: false
 categories:
@@ -21,7 +21,7 @@ keywords:
 - batterij opslag onderneming
 - industrial battery storage Nederland
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1518709268805-4e9042af2176&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true
@@ -49,15 +49,13 @@ products:
   url: https://en.pylontech.com.cn/
   price: '12000'
 ---
-Een MKB-er met een lasbedrijf in Veenendaal vroeg me vorig jaar om advies. Hij had 80 zonnepanelen op zijn loods (24 kWp), verbruik 38.000 kWh/jaar, contract Eneco zakelijk. Energiekosten 2024: €11.500. Hij had gelezen dat een batterij hem zou kunnen helpen, maar wist niet of het de moeite waard was.
+**Modelberekening (rekenvoorbeeld, geen klantcase):** een lasbedrijf met 80 zonnepanelen op de loods (24 kWp), 38.000 kWh verbruik per jaar en circa €11.500 energiekosten. Met een 30 kWh BYD Battery-Box LV plus smart laden op een dynamisch contract komt de gemodelleerde jaarbesparing uit op €4.200. Daar bovenop: EIA-aftrek 45,5% × €18.500 = €8.418 belastingvoordeel en KIA 28% van de investering = €5.180.
 
-We hebben doorgerekend: 30 kWh BYD Battery-Box LV + smart laden op dynamisch contract = jaarlijkse besparing €4.200. Plus EIA-aftrek 45,5% × €18.500 = €8.418 belastingvoordeel. Plus KIA 28% van investering: nog eens €5.180.
+Uitkomst van het model: €18.500 investering, €13.598 fiscale voordelen en €4.200/jaar besparing — rekenkundig terugverdiend in ruim een jaar. Let op: de fiscale voordelen zijn eenmalig en gelden alleen bij voldoende winst; de aannames over laadpatroon en prijsspreiding bepalen het resultaat sterk.
 
-Eindresultaat: €18.500 investering, met €13.598 fiscale voordelen + €4.200/jaar besparing = terugverdiend in 1,2 jaar.
+Hieronder de complete gids voor energieopslag in commerciële context: ZZP, MKB en kleine bedrijven in 2026.
 
-Hieronder mijn complete gids voor energieopslag in commerciele context: ZZP, MKB en kleine bedrijven in 2026.
-
-*Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 
 > **Kort antwoord:** Energieopslag voor ZZP en MKB in 2026: ROI, investeringssubsidies (EIA, KIA), commerciële batterij­opties en wanneer een industriële opslag rendabel is.
@@ -195,9 +193,9 @@ Meet ROI, optimaliseer waar nodig. Bij contract-renew dynamisch overwegen.
 
 ## Voorbeelden uit de praktijk
 
-### Casus 1: Lasbedrijf Veenendaal
+### Voorbeeld 1: metaalbedrijf met 24 kWp op de loods
 
-Mijn opening-verhaal:
+Het rekenvoorbeeld uit de inleiding, uitgewerkt:
 - 80 panelen, 24 kWp
 - 38.000 kWh/jaar verbruik
 - 30 kWh BYD Battery-Box LV
@@ -352,13 +350,13 @@ Industriële schaal opslag (>200 kWh). Groeit explosief in NL — 2025-2030 verd
 
 Elektrische bedrijfswagens als opslag. In 2026 nog vroeg, maar Tesla, Hyundai, BYD bieden eerste oplossingen.
 
-Voor MKB met EV-vloot: monitor deze ontwikkeling. Tegen 2028 verwacht ik V2X-integratie standaard.
+Voor MKB met EV-vloot: monitor deze ontwikkeling. Op basis van de aangekondigde modelplanningen van fabrikanten is standaard V2X-ondersteuning richting 2028 aannemelijk.
 
 ## Conclusie: ZZP/MKB-opslag verdient zich snel terug
 
 Met EIA, KIA, BTW-teruggave en saldering-vrij rekenen is MKB-batterijopslag in 2026 vaak al na 2-5 jaar rendabel. Aanmerkelijk sneller dan particulier.
 
-Mijn aanbevelingen:
+Aanbevelingen op basis van bovenstaande doorrekeningen:
 1. **Doe energie-analyse** (verbruikspatroon, pieken, contract)
 2. **Investeer eerst in dynamisch contract** voor optimale arbitrage
 3. **Plan investering binnen één belastingjaar** voor max KIA
@@ -369,13 +367,18 @@ Mijn aanbevelingen:
 
 Voor verdere lezing: [thuisbatterij vergelijking](/posts/thuisbatterij-vergelijking-2026/), [BYD Battery-Box review](/posts/byd-battery-box-review-2026/), [Pylontech review](/posts/pylontech-thuisbatterij-review-2026/), [Victron review](/posts/victron-thuisbatterij-review-2026/) en [ZZP zonnepanelen kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/).
 
-## Mijn ervaring met een MKB-batterij in een autogarage
+## Rekenvoorbeeld: waarom overdimensioneren duur uitpakt
 
-In 2024 begeleidde ik de business-case voor een autogarage in Apeldoorn (4 medewerkers, 480 m² werkplaats, jaarverbruik 38.000 kWh). Eigenaar wilde 60 panelen op het dak (24 kWp) plus een batterij. Eerste offerte was voor een 30 kWh BYD Battery-Box Premium HVS commercial unit van €19.800. Doorgerekend op werkelijk laadpatroon: bedrijfsbezetting alleen 7-18 uur, weekend gesloten — batterij zou alleen vrijdag opladen voor maandag, zelden volledig benut.
+Onderstaande vergelijking is een modelberekening voor een fictief autogaragebedrijf (4 medewerkers, 480 m² werkplaats, 38.000 kWh per jaar, 60 panelen van in totaal 24 kWp). Uitgangspunt is een bedrijfsprofiel van 7-18 uur op werkdagen en een gesloten weekend.
 
-Aangepast advies: 15 kWh Pylontech rack-systeem voor €11.200, gecombineerd met EMS dat ook EV-laadpaal (klantenparkeerplek) en de werkplaats-airco aanstuurt. Resultaat: 73% van zonneoverschot zelf benut (ipv 41% zonder batterij), terugverdientijd 6,2 jaar incl. EIA + KIA. De grotere unit had pas in 9,5 jaar break-even gehaald.
+| Variant | Investering | Zelfverbruik zonneoverschot | Rekenkundige terugverdientijd |
+|---|---|---|---|
+| 30 kWh BYD Battery-Box Premium HVS | €19.800 | Beperkt: capaciteit zelden volledig benut door weekendsluiting | circa 9,5 jaar |
+| 15 kWh Pylontech rack + EMS (laadpaal + airco) | €11.200 | Aanzienlijk hoger doordat de capaciteit dagelijks rondgaat | circa 6,2 jaar |
 
-Les: voor MKB is "groter = beter" zelden waar. Match capaciteit aan werkelijk dagprofiel.
+Beide varianten zijn gerekend inclusief EIA en KIA en met de tarieven van 2026. De conclusie die uit dit model volgt: voor MKB is "groter = beter" zelden waar. De capaciteit moet passen bij het werkelijke dagprofiel — een batterij die alleen in het weekend vol staat, verdient zich niet terug.
+
+Onze inschatting: laat een installateur altijd doorrekenen op je eigen kwartierdata uit de slimme meter, niet op een jaartotaal.
 
 ## Diepgang per merk: commerciële energieopslag NL 2026
 

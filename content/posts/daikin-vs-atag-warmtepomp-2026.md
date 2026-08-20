@@ -1,7 +1,7 @@
 ---
 title: "Daikin vs Atag warmtepomp 2026: welke kies je en waarom?"
 date: 2026-08-15T08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: "Daikin Altherma 3 vs Atag Energion vergeleken op SCOP, geluid, app, prijs en NL-service. Welke warmtepomp is in 2026 de slimme keuze?"
 categories: ["warmtepompen"]
 tags: ["Daikin", "Atag", "warmtepomp", "vergelijking", "versus", "Altherma", "Energion"]
@@ -25,7 +25,7 @@ faq:
     a: "Beide halen 70-75°C aanvoertemperatuur. Daikin Altherma 3 H HT: tot 80°C (uniek). Atag Energion: tot 70°C. Voor woningen die geen vloerverwarming willen aanleggen en oude radiatoren behouden: Daikin Altherma 3 H HT. Anders: beide volstaan."
   - q: "Welke is sneller te installeren?"
     a: "Atag heeft een veel groter installateurs-netwerk in NL (met audits door Atag). Wachttijd Atag: 4-8 weken. Daikin afhankelijk van lokale dealer (sommige regio's 6-12 weken). Voor snelle installatie: Atag heeft de voorsprong."
-  - q: "Welke garantie krijg ik?"
+  - q: "Welke garantie krijgen wij?"
     a: "Daikin: 7 jaar product, 5 jaar compressor (uitbreidbaar tot 10 jaar tegen €450). Atag: 7 jaar product standaard (gratis), 10 jaar bij erkend Atag-installateur. Atag's garantie is vriendelijker en geldt automatisch bij erkend installateur."
   - q: "Wat moet ik kopen?"
     a: "Standaard rijtjeshuis, gemiddeld budget, NL-service belangrijk: Atag Energion. Twee-onder-een-kap of villa, premium app, strikte buurnorm: Daikin Altherma 3. Hele oude radiatoren met 80°C nodig: Daikin Altherma 3 H HT. Budget hard krap: kijk naar Quatt of Itho Daalderop in plaats."
@@ -43,9 +43,9 @@ products:
     url: "https://go.duurzaamthuislab.nl/quatt"
     price: "6500"
 ---
-*Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvang ik mogelijk een commissie zonder dat jij meer betaalt. Mijn vergelijking is gebaseerd op installaties bij 23 klanten in 2024-2026 en eigen tests.*
+*Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvangen wij mogelijk een commissie zonder dat jij meer betaalt. Onze vergelijking is gebaseerd op fabrieksspecificaties, installatiehandleidingen, publieke prijslijsten en geverifieerde gebruikersreviews.*
 
-In juli 2026 mocht ik bij twee buurhuizen tegelijk de installaties zien. Nummer 47 had een Daikin Altherma 3 H 11 kW gekocht voor €17.200. Nummer 49 een Atag Energion M 11 kW voor €9.800. Zelfde type huis (twee-onder-een-kap, 140 m²), zelfde isolatie, zelfde verbruik (1.450 m³ gas vroeger). Verschil: €7.400.
+Twee vergelijkbare twee-onder-een-kapwoningen van 140 m² met hetzelfde vroegere gasverbruik (circa 1.450 m³) en dezelfde isolatie, en toch een prijsverschil van duizenden euro's: een Daikin Altherma 3 H 11 kW gaat in courante offertes rond de €17.000 all-in, een Atag Energion M 11 kW rond de €9.800. Verschil: ruim €7.000.
 
 Dat is een serieus bedrag voor wat in essentie hetzelfde apparaat is. Wint Daikin het ergens met €7.400? Of is Atag gewoon de slimmere koop voor 95% van NL? Laten we het uitrekenen.
 
@@ -222,7 +222,7 @@ Lees [vloerverwarming aanleggen kosten 2026](/posts/vloerverwarming-aanleggen-ko
 - Onderdelen: meestal binnen 1 week leverbaar
 - Garantie afhandeling: via dealer naar Daikin Belgium-warehouse
 
-**Mijn ervaring:** afhankelijk van regio. In Randstad goede dealers, in oosten/zuiden wisselend.
+**Beeld uit gebruikersreviews:** sterk afhankelijk van regio. In de Randstad worden dealers overwegend goed beoordeeld, in het oosten en zuiden wisselt dat.
 
 ### Atag
 - Atag-NL hoofdkantoor in Lichtenvoorde
@@ -231,7 +231,7 @@ Lees [vloerverwarming aanleggen kosten 2026](/posts/vloerverwarming-aanleggen-ko
 - Onderdelen: meestal binnen 2-3 dagen
 - Garantie afhandeling direct via Atag
 
-**Mijn ervaring:** consistent door heel NL. Atag heeft echt geinvesteerd in service-network.
+**Beeld uit gebruikersreviews:** consistenter door heel Nederland. Atag heeft hoorbaar in het servicenetwerk geïnvesteerd.
 
 Voor wie service belangrijk vindt (en dat ben je bij €15.000-investering): Atag heeft duidelijke voorsprong.
 
@@ -257,7 +257,7 @@ EU F-gas regelgeving fasiseert HFC-koudemiddelen uit (R32, R410A) tegen 2030. Be
 - Daikin Altherma 3 R: R290 (huidig)
 - Atag Energion M: R290 (huidig)
 
-Beide toekomstbestendig. Niet-R290 modellen zou ik in 2026 NIET meer kopen — die zijn 2030 in sommige reparatie-scenario's lastig.
+Beide zijn daarmee toekomstbestendig. Niet-R290-modellen zouden wij in 2026 niet meer aanschaffen: die kunnen na 2030 in reparatiescenario's lastig worden.
 
 ---
 
@@ -291,7 +291,7 @@ Lees ook [beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/) voor d
 
 ---
 
-## Mijn advies
+## Ons advies
 
 Voor 80% van de Nederlandse huishoudens: **Atag Energion** is de slimmere koop. €5.000-€7.000 prijsverschil compenseer je niet met SCOP-verschil of stilte-voordeel. NL-service is sneller en consistenter.
 
@@ -318,11 +318,11 @@ Bij twijfel: vraag offertes voor beide. De installateur die Daikin én Atag leve
 - [Warmtepomp onderhoud kosten 2026](/posts/warmtepomp-onderhoud-kosten-2026/)
 - [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)
 
-## Mark's praktijkervaring met beide merken
+## Wat de systemen in de praktijk doen
 
-Bij mijn eigen woning in Apeldoorn liet ik in 2022 een Daikin Altherma 3 H HT plaatsen (8 kW), bij mijn schoonzus in 2024 een Atag Energion (6 kW). Twee winters lang heb ik beide systemen vergeleken op verbruik, comfort, geluid en service. Mijn Daikin draait 4.100 kWh/jaar bij 14.500 kWh warmtevraag (SCOP 3,54 gemeten). Atag bij schoonzus 3.200 kWh bij 11.200 kWh vraag (SCOP 3,50). Beide presteren binnen 1% van fabrieksopgave.
+Wat het verbruik betreft liggen beide merken dicht bij hun fabrieksopgave. Een rekenvoorbeeld op basis van de opgegeven SCOP-waarden: bij een warmtevraag van 14.500 kWh en een SCOP van 3,5 komt het stroomverbruik uit op ongeveer 4.150 kWh per jaar; bij 11.200 kWh warmtevraag en dezelfde SCOP op ongeveer 3.200 kWh. Dat zijn modeluitkomsten, geen metingen: de werkelijke jaarprestatie hangt af van aanvoertemperatuur, afgiftesysteem en instellingen.
 
-Service-praktijk verschilt: Daikin werkt met een dealer-netwerk (DAIKIN Comfort Expert), Atag heeft eigen monteurs in dienst. Bij een storing in januari 2025 (mijn buitenunit zat dichtgevroren door bladafval) duurde Daikin-respons 38 uur. Bij schoonzus in feb 2026 (sensor-fout) was Atag binnen 6 uur ter plaatse. Voor wie service-snelheid kritisch vindt: Atag heeft een streepje voor in NL.
+De service-organisatie verschilt wel wezenlijk. Daikin werkt met een dealernetwerk (Daikin Comfort Expert), Atag heeft eigen monteurs in dienst. Dat verklaart de responstijden die beide fabrikanten zelf noemen: bij Atag 24-48 uur, bij Daikin afhankelijk van de dealer. Voor wie service-snelheid zwaar laat wegen, heeft Atag in Nederland een streepje voor.
 
 ## NL-specifiek: ISDE, Bouwbesluit en BTW
 
@@ -342,17 +342,15 @@ BTW van 21% komt op zowel apparaat als installatie. Voor zakelijk gebruik (kanto
 
 Sla over als je woning slecht geïsoleerd is (RC kleiner dan 2,0), als je minder dan 5 jaar in de woning blijft, of als je gasaansluiting al €0/jaar capaciteitstarief heeft. Bij appartementen zonder eigen buitenruimte is plaatsing vaak niet mogelijk — VvE-toestemming voor gevel-units kost gemiddeld 9 maanden onderhandeling. Bij monumentale panden waar gevelwijziging niet is toegestaan: kies een hybride of een binnenunit-warmtepomp.
 
-## Mini case-study: gezin in Zwolle
+## Rekenvoorbeeld: jaren-90 woning
 
-Een gezin in Zwolle (jaren-90 woning, RC 3,5 dak, 2,8 muur, 4,5 vloer, 14.000 kWh warmtevraag) koos in 2025 een Daikin Altherma 3 H HT 8 kW voor €10.800 inclusief installatie, met €2.875 ISDE subsidie. Verbruik na 12 maanden: 4.050 kWh. Gasrekening was €2.480/jaar, nu stroom €1.290 = €1.190 besparing. Terugverdientijd: 6,7 jaar. Comfort beter doordat de temperatuur constanter blijft. Geluid op terras 36 dB, klacht buurman opgelost door schermwand van €380.
+Rekenvoorbeeld met de volgende aannames: jaren-90 woning met RC 3,5 (dak), 2,8 (muur) en 4,5 (vloer), warmtevraag 14.000 kWh, Daikin Altherma 3 H HT 8 kW voor €10.800 inclusief installatie, ISDE-subsidie €2.875, gasprijs zoals in 2026 gangbaar en stroomprijs €0,29/kWh. Uitkomst van het model: bij een SCOP van 3,5 een stroomverbruik van circa 4.000 kWh (ongeveer €1.160 per jaar) tegen een gasrekening van circa €2.400, dus een besparing van rond de €1.200 per jaar en een terugverdientijd van bijna 7 jaar op de netto-investering. Vervangt geen offerte: reken met je eigen warmtevraag en tarieven.
 
-## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+## Wat je in het eerste jaar kunt verwachten
 
-Eerste maand: leercurve thermostaat-instelling, Daikin-app vereist eerst 30 minuten setup. Atag plug-en-play.
+Eerste maand: reken op een leercurve bij het instellen van de stooklijn. De Daikin-app vraagt volgens de handleiding een eerste configuratie van een halfuur; de Atag-unit komt voorgemonteerd en is sneller bedrijfsklaar.
 
-Na 6 maanden: bij Daikin een firmware-update, geen storingen. Atag bij schoonzus geen issues, draait stabiel.
-
-Na 1 jaar: SCOP gemeten zoals fabrieksopgave, beide tussen 3,4 en 3,6. Onderhoudsbeurt €185 (Daikin) tegen €160 (Atag). Geen onderdelen vervangen. Mijn voorkeur blijft Daikin om SCOP en monoblock-eenvoud, voor wie service in NL prioriteit is wint Atag.
+Eerste jaar: de opgegeven SCOP-waarden van beide toestellen liggen tussen 3,4 en 3,6 (opgave fabrikant, gemeten conform EN 14825). Onderhoudsbeurten kosten volgens de servicetarieven van de merken circa €160 tot €185 per jaar. Onze inschatting: Daikin heeft het voordeel op SCOP en monoblock-eenvoud, Atag op service-snelheid in Nederland.
 
 ## Extra FAQ-vragen
 

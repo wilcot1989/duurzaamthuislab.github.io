@@ -1,8 +1,8 @@
 ---
 title: 'Saldering 2027 transitie-planner: 5 stappen om'
 date: 2026-04-29 09:00:00+02:00
-lastmod: 2026-04-29 09:00:00+02:00
-description: Per 1 januari 2027 stopt saldering. Ik reken door hoe jij €500 tot €2.000 per jaar kunt veiligstellen met dynamisch contract, thuisbatterij of warmtepomp.
+lastmod: '2026-08-20 08:00:00+02:00'
+description: Per 1 januari 2027 stopt saldering. Wij rekenen door hoe jij €500 tot €2.000 per jaar kunt veiligstellen met dynamisch contract, thuisbatterij of warmtepomp.
 categories:
 - zonne-energie
 - energie
@@ -25,7 +25,7 @@ keywords:
 - eigen verbruik verhogen zonnepanelen
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Wanneer stopt de saldering precies en geldt er een uitzondering voor bestaande systemen?
@@ -68,12 +68,12 @@ products:
   price: '0'
 schema_type: Article
 ---
-Per 1 januari 2027 stopt de saldering. Ik hoef je dat waarschijnlijk niet meer te vertellen — maar wat er daarna gebeurt met jouw jaarlijkse zonnepanelenvoordeel, dat is een ander verhaal. Ik zie in mijn adviespraktijk elke week mensen die wachten en hopen dat het meevalt. Het valt niet mee. Maar er is genoeg te doen — als je weet welke stap bij jouw situatie past.
+Per 1 januari 2027 stopt de saldering. Dat is inmiddels breed bekend — maar wat er daarna gebeurt met jouw jaarlijkse zonnepanelenvoordeel is een ander verhaal. Veel huishoudens wachten af en hopen dat het meevalt. Dat valt het niet: bij een gemiddeld teruglevervolume zakt het jaarvoordeel met honderden euro's. Maar er is genoeg te doen — als je weet welke stap bij jouw situatie past.
 
-In dit artikel reken ik concreet door wat de impact is, maak ik een decision tree op basis van jouw huistype, en beschrijf ik 5 strategieën waarmee je €500 tot €2.000 per jaar kunt veiligstellen. Inclusief echte getallen, subsidie-informatie en een stappenplan voor de komende kwartalen.
+Dit artikel rekent concreet door wat de impact is, bevat een beslisboom op basis van jouw huistype, en beschrijft 5 strategieën waarmee je €500 tot €2.000 per jaar kunt veiligstellen. Met uitgewerkte rekenvoorbeelden, subsidie-informatie en een stappenplan voor de komende kwartalen.
 
 
-> **Kort antwoord:** Per 1 januari 2027 stopt saldering. Ik reken door hoe jij €500 tot €2.000 per jaar kunt veiligstellen met dynamisch contract, thuisbatterij of warmtepomp.
+> **Kort antwoord:** Per 1 januari 2027 stopt saldering. Wij rekenen door hoe jij €500 tot €2.000 per jaar kunt veiligstellen met dynamisch contract, thuisbatterij of warmtepomp.
 >
 > De salderingsregeling stopt per 1 januari 2027 voor iedereen tegelijk. Er is geen uitzondering voor mensen die al jaren saldeerden — het kabinet heeft dit expliciet bevestigd. Na die datum krijg je uitsluitend de terugleververgoeding van je energieleverancier, die in 2026 gemiddeld tussen 7 en 9 cent per kWh ligt.
 
@@ -93,11 +93,11 @@ Let ook op: veel leveranciers rekenen in 2026 al terugleverkosten. Eneco, Vatten
 
 ---
 
-## Persoonlijk doorgerekend: van €2.400 voordeel naar €600
+## Doorgerekend: van €2.400 voordeel naar €600
 
-Laten we een concreet voorbeeld doorrekenen. Dit is het profiel van Jan, een typische klant die ik in mijn praktijk tegenkom:
+Laten we een concreet voorbeeld doorrekenen. Onderstaand modelprofiel staat voor een veelvoorkomende Nederlandse situatie:
 
-**Jan's situatie:**
+**Het referentieprofiel:**
 - 14 zonnepanelen, 4,9 kWp
 - Jaarproductie: ~4.300 kWh
 - Eigen verbruik overdag: 1.900 kWh
@@ -179,7 +179,7 @@ Het grote voordeel: met de juiste apps stuur je slim op prijzen. Tibber en Frank
 | ANWB Energie | €0/mnd | ★★★☆☆ | Marktprijs EPEX | Betrouwbaar merk, minder functies |
 | Vandebron | €0/mnd | ★★★☆☆ | Marktprijs EPEX | Focus op hernieuwbaar |
 
-**Mijn advies:** Tibber heeft de beste app-integratie en werkt naadloos samen met thuisbatterijen, EV-laders en slimme apparaten. De €6,99 per maand verdien je snel terug met slim sturen. Frank Energie is een goed alternatief als je geen extra maandkosten wil.
+**Onze inschatting:** Tibber heeft de beste app-integratie en werkt naadloos samen met thuisbatterijen, EV-laders en slimme apparaten. De €6,99 per maand verdien je snel terug met slim sturen. Frank Energie is een goed alternatief als je geen extra maandkosten wil.
 
 **Jaarlijkse extra besparing:** €150-€300 ten opzichte van vast contract (bij goed gebruik van app).
 
@@ -197,7 +197,7 @@ Een dynamisch contract werkt het beste als je:
 
 ### Strategie 2: Thuisbatterij plaatsen
 
-Een thuisbatterij slaat overdag opgewekte zonnestroom op zodat je die 's avonds gebruikt. Dat scheelt in de theoretische situatie van Jan (uit het voorbeeld hierboven) 2.400 kWh teruglevering à 22 cent verschil = €528 per jaar — als je de hele teruglevering kunt opslaan. In de praktijk is 60-75% van de teruglevering opvangbaar met een 5-10 kWh batterij.
+Een thuisbatterij slaat overdag opgewekte zonnestroom op zodat je die 's avonds gebruikt. Dat scheelt in het referentieprofiel hierboven 2.400 kWh teruglevering à 22 cent verschil = €528 per jaar — als je de hele teruglevering kunt opslaan. In de praktijk is 60-75% van de teruglevering opvangbaar met een 5-10 kWh batterij.
 
 **ROI-berekening per scenario (2026):**
 
@@ -208,13 +208,13 @@ Een thuisbatterij slaat overdag opgewekte zonnestroom op zodat je die 's avonds 
 | 6 kWp, 4.000 kWh teruglevering | 10 kWh | €9.500 (na ISDE ~€6.800) | €650-€800 | 9-11 jaar |
 | 6 kWp + EV + dynamisch contract | 10 kWh | €9.500 (na ISDE ~€6.800) | €900-€1.200 | 6-8 jaar |
 
-**Thuisbatterijen die ik aanbeveel:**
+**Thuisbatterijen die op specificaties en prijs-kwaliteit het beste scoren:**
 
 **[Sessy 5 kWh](https://go.duurzaamthuislab.nl/sessy) — beste keuze voor starters**
-Prijs: ca. €3.795 exclusief installatie. De Sessy is ontworpen voor de Nederlandse markt en heeft een van de eenvoudigste installaties. Compatibel met vrijwel alle omvormers via de Sessy app. Ik heb hem bij drie klanten laten installeren — allemaal tevreden. Nadeel: 5 kWh is voor grote systemen (>5 kWp) aan de kleine kant.
+Prijs: ca. €3.795 exclusief installatie. De Sessy is ontworpen voor de Nederlandse markt en heeft een van de eenvoudigste installaties. Compatibel met vrijwel alle omvormers via de Sessy app, en het installateursnetwerk in Nederland is het dichtste van alle merken. Nadeel: 5 kWh is voor grote systemen (>5 kWp) aan de kleine kant.
 
 **[Marstek Venus](https://go.duurzaamthuislab.nl/marstek) — beste prijs-kwaliteit**
-Prijs: ca. €3.200 exclusief installatie. Nieuwkomer op de Nederlandse markt maar met goede specificaties. 5 kWh, 3 kW laadvermogen, 10 jaar garantie. Ik ken de Marstek nog niet persoonlijk uit de praktijk — maar de technische specs zijn solide en de prijs is scherp.
+Prijs: ca. €3.200 exclusief installatie. Nieuwkomer op de Nederlandse markt maar met goede specificaties. 5 kWh, 3 kW laadvermogen, 10 jaar garantie. De technische specs zijn solide en de prijs is scherp; het servicenetwerk is wel dunner dan bij Sessy.
 
 **[Zonneplan thuisbatterij](https://go.duurzaamthuislab.nl/zonneplan) — lease-alternatief**
 Zonneplan biedt een lease-constructie waarbij je geen grote investering vooraf doet. Maandelijkse kosten zijn hoger, maar je loopt minder risico. Interessant als je de €5.000-€10.000 liever niet vastzet.
@@ -241,7 +241,7 @@ Stap twee — V2H (vehicle-to-home) — gaat verder: je EV levert energie terug 
 
 De Wallbox Quasar 2 kost inclusief installatie ca. €3.500-€4.500. Dat is duurder dan een thuisbatterij — maar je hebt ook een rijdende auto. Als je toch een EV wil, is dit de meest efficiënte investering.
 
-**Mijn berekening voor Jan met een EV:**
+**Rekenvoorbeeld: het referentieprofiel met een EV:**
 - 2.400 kWh teruglevering → 70% zelf gebruiken via EV = 1.680 kWh besparing
 - 1.680 kWh × €0,22 = **€370 extra besparing per jaar**
 
@@ -260,7 +260,7 @@ Het slimme spel: programmeer je warmtepomp om extra te laden op zonnige middag-u
 | Quatt | All-electric | €6.500-€8.500 | €2.500-€3.500 | 3,8 |
 | Vaillant Arotherm Plus | All-electric | €5.000-€7.000 | €2.000-€3.000 | 4,0 |
 
-Lees mijn [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/) en [Daikin Altherma 3 review](/posts/daikin-altherma-3-review-2026/) voor de praktijkervaring.
+Lees onze [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/) en [Daikin Altherma 3 review](/posts/daikin-altherma-3-review-2026/) voor de details per model.
 
 **Hoe programmeer ik een warmtepomp op zonne-uren?**
 
@@ -318,7 +318,7 @@ Zelfs zonder EV kun je met boiler + wasmachine + vaatwasser dagelijks 5-8 kWh ve
 
 1. **Analyseer je teruglevering.** Log in op Mijn Eneco, Mijn Vattenfall of de app van jouw leverancier. Hoeveel kWh lever jij per jaar terug? Dat is je uitgangspunt.
 
-2. **Switch naar dynamisch contract.** Als je dat nog niet hebt, stap dan over naar Tibber of Frank Energie. Dit kost niets en levert direct voordeel op. Lees mijn [vergelijking van dynamische contracten](/posts/dynamische-energiecontracten-vergelijking-2026/) voor meer details.
+2. **Switch naar dynamisch contract.** Als je dat nog niet hebt, stap dan over naar Tibber of Frank Energie. Dit kost niets en levert direct voordeel op. Lees onze [vergelijking van dynamische contracten](/posts/dynamische-energiecontracten-vergelijking-2026/) voor meer details.
 
 3. **Vraag een offerte aan voor thuisbatterij.** Contacteer 2-3 installateurs. Vraag specifiek naar ISDE-aanvraag — de installateur doet dat doorgaans voor je.
 
@@ -344,7 +344,7 @@ Zelfs zonder EV kun je met boiler + wasmachine + vaatwasser dagelijks 5-8 kWh ve
 
 ## Combinaties vergelijken: wat levert het meeste op?
 
-Het is nuttig om de strategieën niet alleen los maar ook in combinatie te bekijken. Hieronder een overzicht van reële scenario's voor Jan (4,9 kWp, 2.400 kWh teruglevering):
+Het is nuttig om de strategieën niet alleen los maar ook in combinatie te bekijken. Hieronder een overzicht van reële scenario's voor het referentieprofiel (4,9 kWp, 2.400 kWh teruglevering):
 
 | Strategie | Jaarlijkse extra besparing | Investering | Terugverdientijd |
 |-----------|---------------------------|-------------|-----------------|
@@ -360,7 +360,7 @@ Het is nuttig om de strategieën niet alleen los maar ook in combinatie te bekij
 
 *Aannames: energieprijzen stabiel op 2026-niveau, ISDE-subsidie ontvangen, installatie inbegrepen.*
 
-### Mijn persoonlijke aanbevelingen per budget
+### Aanbevelingen per budget
 
 **Budget €0:** Dynamisch contract nu. Dat is de enige keuze die letterlijk niets kost en per direct effect heeft.
 
@@ -374,7 +374,7 @@ Het is nuttig om de strategieën niet alleen los maar ook in combinatie te bekij
 
 ### Wat als de energieprijzen dalen?
 
-Dat risico bestaat. Als de elektriciteitsprijs in 2027 daalt naar €0,22 per kWh (wat mogelijk is bij veel hernieuwbare opwek), verandert de businesscase. Dan is het verschil tussen afname en teruglevering kleiner — en de besparing per verschoven kWh ook. Mijn advies: rekende niet op prijsdaling, maar zie het als bonus.
+Dat risico bestaat. Als de elektriciteitsprijs in 2027 daalt naar €0,22 per kWh (wat mogelijk is bij veel hernieuwbare opwek), verandert de businesscase. Dan is het verschil tussen afname en teruglevering kleiner — en de besparing per verschoven kWh ook. Ons advies: reken niet op een prijsdaling, maar zie die als bonus.
 
 Wat niet verandert: de wettelijke salderingstop. Zelfs bij lagere energieprijzen verlies je structureel het voordeel van 1:1-verrekening. De richting is helder, alleen de omvang is onzeker.
 
@@ -405,7 +405,7 @@ Het nieuwe kabinet heeft nog geen definitieve plannen gepubliceerd voor ISDE 202
 
 **Scenario B:** Aanpassing naar een andere subsidievorm (bijv. via gemeenten of via energieleveranciers). Dit is politiek afhankelijk.
 
-**Mijn advies:** Vertrouw niet op ISDE 2027 voor je planning. Gebruik 2026 om ISDE-aanvragen te doen voor de investeringen die je toch al overweegt.
+**Ons advies:** vertrouw niet op ISDE 2027 voor je planning. Gebruik 2026 om ISDE-aanvragen te doen voor de investeringen die je toch al overweegt.
 
 ### Hoe vraag ik ISDE aan?
 
@@ -482,7 +482,7 @@ Nee, die besparing blijft hetzelfde. Elke kWh die je direct zelf verbruikt bespa
 
 ### Hoe check ik hoeveel ik precies terugleverd?
 
-Kijk op je jaarafrekening — daar staat apart de teruggeleverde stroom in kWh. Of installeer een P1-meter (bijv. van Homewizard of Shelly): die laat realtime én historisch zien wat je produceert, verbruikt en teruglevert. Met Tibber's Pulse-meter heb je dit direct inzichtelijk in de app. Lees meer in mijn [gids over energiemonitoring](/posts/beste-energiemonitor-p1-meter-2026/).
+Kijk op je jaarafrekening — daar staat apart de teruggeleverde stroom in kWh. Of installeer een P1-meter (bijv. van Homewizard of Shelly): die laat realtime én historisch zien wat je produceert, verbruikt en teruglevert. Met Tibber's Pulse-meter heb je dit direct inzichtelijk in de app. Lees meer in onze [gids over energiemonitoring](/posts/beste-energiemonitor-p1-meter-2026/).
 
 ### Maakt het uit of mijn energieleverancier groot of klein is?
 
@@ -490,7 +490,7 @@ Voor de salderingstop niet — die geldt voor iedereen. Wél maakt het uit voor 
 
 ### Is een zonneboiler (warm water op zonne-energie) nog zinvol?
 
-Ja, sterker nog: een zonneboiler wordt na 2027 relatief interessanter. Een zonneboiler zet zonlicht direct om in warm water zonder het net op te gaan. Dat bespaart gasverbruik én elektriciteitsverlies via teruglevering. ISDE-subsidie bedraagt €500-€1.000. De terugverdientijd ligt op 7-10 jaar, afhankelijk van gasverbruik en warmwaterbehoefte. Ik beschrijf dit uitgebreider in de warmtepompboiler gids.
+Ja, sterker nog: een zonneboiler wordt na 2027 relatief interessanter. Een zonneboiler zet zonlicht direct om in warm water zonder het net op te gaan. Dat bespaart gasverbruik én elektriciteitsverlies via teruglevering. ISDE-subsidie bedraagt €500-€1.000. De terugverdientijd ligt op 7-10 jaar, afhankelijk van gasverbruik en warmwaterbehoefte. Wij beschrijven dit uitgebreider in de warmtepompboiler gids.
 
 ---
 
@@ -506,7 +506,7 @@ Je hoeft niet alles tegelijk te doen. Maar niks doen is ook een keuze — en die
 
 Wil je precies berekenen hoeveel jij verliest en of een thuisbatterij voor jou rendabel is? Gebruik dan onze [energiekosten calculator 2027](/posts/energiebesparing-calculator-2027/) — je ziet in twee minuten wat jouw persoonlijke situatie oplevert.
 
-Heb je vragen over jouw specifieke situatie? Laat een reactie achter — ik reageer op elk bericht.
+Heb je vragen over jouw specifieke situatie? Laat een reactie achter — wij reageren op elk bericht.
 
 *Mark Bakker — april 2026*
 

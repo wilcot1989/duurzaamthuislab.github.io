@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen DIY vs Installateur 2026: Eerlijk Vergeleken'
 date: 2026-07-15 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 last_updated: 2026-04-29
 description: 'Zelf zonnepanelen plaatsen of een installateur inhuren? Kosten, risico, garantie en verzekering op een rij, met de fouten die bij DIY het vaakst misgaan.'
 draft: false
@@ -22,7 +22,7 @@ keywords:
 - zonnepanelen installeren legal
 - DIY zonnepanelen NL
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1559302995-f1d7e5c1b8e7&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true
@@ -50,7 +50,7 @@ products:
   url: https://www.coolblue.nl/zonnepanelen
   price: '5800'
 ---
-"Kan ik die panelen niet gewoon zelf op mijn dak leggen? Vijfduizend euro voor een setje voelt te veel." Het is een terechte vraag, en het antwoord is genuanceerd: het hangt af van wat je onder "zelf doen" verstaat, wat voor dak je hebt en hoeveel risico je wilt dragen.
+"Kan ik die panelen niet gewoon zelf op mijn dak leggen? Vijfduizend euro voor een setje voelt te veel." Het is een terechte vraag — en een die vaak gesteld wordt. Het antwoord is genuanceerd: het hangt af van wat je onder "zelf doen" verstaat, wat voor dak je hebt en hoeveel risico je wilt dragen.
 
 De uitkomsten lopen sterk uiteen. Bij een standaard pannendak en genoeg handigheid loopt de besparing op tot een paar duizend euro. Gaat het mis, dan gaat het meestal fout op dezelfde drie punten: een lekkend dak door een verkeerd geplaatste dakhaak, panelen die bij een najaarsstorm losraken, en een verzekeraar die een claim afwijst omdat de installatie niet aantoonbaar volgens NEN 1010 is uitgevoerd. Hieronder de eerlijke afweging.
 

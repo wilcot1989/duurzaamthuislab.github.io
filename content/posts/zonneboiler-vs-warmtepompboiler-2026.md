@@ -1,8 +1,8 @@
 ---
 title: 'Zonneboiler vs warmtepompboiler 2026: welke levert meer op?'
 date: 2026-05-19 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: Zonneboiler of warmtepompboiler? Ik vergelijk kosten, subsidie, terugverdientijd en praktische geschiktheid voor jouw situatie.
+lastmod: '2026-08-20 08:00:00+02:00'
+description: Zonneboiler of warmtepompboiler? Wij vergelijken kosten, subsidie, terugverdientijd en praktische geschiktheid voor jouw situatie.
 categories:
 - warmtepompen
 tags:
@@ -25,7 +25,7 @@ keywords:
 - warmtepompboiler ISDE
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Analyseert zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Wat is het verschil tussen een zonneboiler en een warmtepompboiler?
@@ -50,22 +50,22 @@ products:
   price: '2200'
 schema_type: Article
 ---
-Vorig jaar belde een buurvrouw me op — Sandra, eigenaar van een jaren-zeventig rijtjeswoning in Amersfoort. Ze had negen jaar geleden een zonneboiler laten installeren, en nu was de collector aan vervanging toe. De installateur bood haar twee opties: een nieuwe zonneboiler voor €3.400 of een warmtepompboiler voor €2.200 vóór subsidie. Ze vroeg mij wat ze moest kiezen.
+Wie een zonneboiler uit de periode 2008-2018 heeft, komt vroeg of laat bij dezelfde keuze uit: de collector is aan vervanging toe, en de installateur legt twee opties op tafel. Een nieuwe zonneboiler voor rond de €3.400, of een warmtepompboiler voor rond de €2.200 vóór subsidie. Wat is dan de verstandige keuze?
 
-Ik heb haar geholpen met de afweging. Maar het was geen simpel antwoord — want de situatie van negen jaar geleden is niet meer de situatie van 2026. Subsidieregels zijn veranderd, energieprijzen zijn gestegen, zonnepanelen zijn goedkoper geworden. En de warmtepompboiler heeft een serieuze technologische sprong gemaakt.
+Het antwoord van tien jaar geleden geldt niet meer in 2026. Subsidieregels zijn veranderd — de zonneboiler viel eind 2023 uit de ISDE, de warmtepompboiler zit er nog wel in. Energieprijzen zijn gestegen, zonnepanelen zijn goedkoper geworden, en de warmtepompboiler heeft een technologische sprong gemaakt.
 
-In dit artikel leg ik de vergelijking volledig bloot: kosten, opbrengst, subsidie, onderhoudslasten en geschiktheid voor jouw specifieke situatie. Geen marketingverhaal — gewoon de cijfers en eerlijke conclusies.
+In dit artikel leggen wij de vergelijking volledig bloot: kosten, opbrengst, subsidie, onderhoudslasten en geschiktheid per situatie. Wij baseren ons op fabrieksspecificaties, de ISDE-voorwaarden van RVO en publieke prijs- en tariefgegevens.
 
 ---
 
 
-> **Kort antwoord:** Zonneboiler of warmtepompboiler? Ik vergelijk kosten, subsidie, terugverdientijd en praktische geschiktheid voor jouw situatie.
+> **Kort antwoord:** Zonneboiler of warmtepompboiler? Wij vergelijken kosten, subsidie, terugverdientijd en praktische geschiktheid voor jouw situatie.
 >
 > Een zonneboiler gebruikt zonnecollectoren op het dak om direct warmte op te vangen en daarmee water te verwarmen. Een warmtepompboiler staat binnenshuis en pompt omgevingswarmte uit de lucht naar het water — vergelijkbaar met een koelkast omgekeerd. De zonneboiler is afhankelijk van zonlicht, de warmtepompboiler werkt ook 's nachts en in de winter, zij het minder efficiënt.
 
 ## Wat doen ze allebei, eigenlijk?
 
-Voordat ik ga vergelijken, een korte technische uitleg — want de twee systemen werken fundamenteel anders.
+Voordat we gaan vergelijken, een korte technische uitleg — want de twee systemen werken fundamenteel anders.
 
 **De zonneboiler** werkt met zonnecollectoren op het dak. Die collectoren vangen zonnewarmte op via een vloeistof (meestal water-glycolmengsel), pompen die warmte naar een warmtewisselaar in een boilervat, en verwarmen zo het tapwater. Op een zonnige zomerdag kan een zonneboiler 80–100% van de warmwaterbehoefte dekken. In de winter, bij bewolking of 's nachts: nul. Er is altijd een naverwarmer nodig (gas of elektrisch) voor de momenten dat de zon niet genoeg levert.
 
@@ -185,7 +185,7 @@ ATAG heeft in hun E-HP-lijn geïnvesteerd in geluidsdemping; hun modellen worden
 
 ## Wanneer kies je de zonneboiler?
 
-Ik wil eerlijk zijn: er zijn nog steeds situaties waarin de zonneboiler zinvol is.
+Er zijn nog steeds situaties waarin de zonneboiler zinvol is.
 
 1. **Je hebt al een zonneboiler** en de collector is nog in goede staat — dan is het soms economischer de boiler te vervangen dan het hele systeem.
 2. **Je hebt geen elektriciteitsaansluiting** in de ruimte waar de boiler moet komen (zeldzaam, maar het bestaat).
@@ -209,22 +209,24 @@ Bijna altijd, als je in Nederland woont en warm tapwater wilt verduurzamen:
 
 ---
 
-## Mijn advies voor Sandra
+## De vervangingskeuze doorgerekend
 
-Terug naar mijn buurvrouw. Sandra heeft een zuidgericht dak in Amersfoort, wel zonnepanelen (6 panelen, 2,4 kWp), en een berging van 12 m² met ventilatierooster. Ze levert in de zomer veel terug aan het net.
+Terug naar de situatie uit de inleiding: een rijtjeswoning met een dak op 35° dat licht naar het zuidoosten afwijkt, zes zonnepanelen (2,4 kWp) en een berging van 12 m² met ventilatierooster. In de zomer wordt regelmatig teruggeleverd aan het net. Onderstaande vergelijking is een **modelberekening** met de prijzen en subsidiebedragen uit dit artikel.
 
-Mijn advies: warmtepompboiler ATAG E-HP 200L.
+**Optie A — warmtepompboiler van 200 liter**
 
 - Aanschafprijs: €2.200
 - Installatie: €750
-- ISDE-subsidie: €1.050
+- ISDE-subsidie (COP-klasse 3,0-3,4): €1.050
 - Netto investering: €1.900
-- Jaarlijkse besparing via zonnepaneel-koppeling: ±€220
-- Terugverdientijd: **8–9 jaar**
+- Aangenomen jaarbesparing bij PV-koppeling: circa €220
+- Terugverdientijd: **8-9 jaar**
 
-De nieuwe zonneboiler had €3.400 + €1.500 installatie = €4.900 gekost, zonder subsidie, met vergelijkbare of lagere jaarlijkse besparing door haar suboptimale dakhoek (haar dak ligt op 35° maar heeft een lichte afwijking naar het zuidoosten). Terugverdientijd: 18–22 jaar.
+**Optie B — nieuwe zonneboiler**
 
-Sandra heeft gekozen voor de warmtepompboiler. Hij draait nu drie maanden, koppelt 's middags automatisch aan het zonne-overschot, en haar gasrekening voor tapwater is met 80% gedaald.
+€3.400 apparaat plus circa €1.500 installatie is €4.900, zonder subsidie. Door de suboptimale dakhoek valt de opbrengst lager uit dan bij een perfect zuidgericht dak, waardoor de jaarbesparing vergelijkbaar of lager is dan bij optie A. Terugverdientijd in het model: 18-22 jaar.
+
+**Wat wij bij dit profiel zouden kiezen:** optie A. Het verschil zit niet in de techniek maar in de subsidie en de aanschafprijs: bij gelijke jaarbesparing halveert een netto investering die minder dan de helft bedraagt de terugverdientijd meer dan twee keer. Aandachtspunt: laat de PV-prioriteitsmodus bij oplevering activeren — zonder die instelling laadt de boiler op willekeurige momenten en vervalt een deel van het voordeel.
 
 ---
 
@@ -234,7 +236,7 @@ Een aspect dat veel koopgidsen vergeten: hoe goed je woning is geïsoleerd, bepa
 
 Een slecht geïsoleerde woning verliest warmte snel. Als je doucht in een koude badkamer (15°C in de winter), koelt het warme water in de leidingen sneller af, en je verbruikt meer warm water om op temperatuur te komen. Een warmtepompboiler in een koude berging (onder 7°C) werkt op lagere COP dan bij 15°C.
 
-**Mijn advies:** isoleer eerst, daarna investeer je in de verwarmingsoplossing. Een goed geïsoleerde woning heeft een kleinere warmwatervraag en een warmtepompboiler presteert beter in een verwarmde ruimte. De volgorde: dakisolatie → spouwmuurisolatie → warmtepompboiler.
+**Onze aanbeveling:** isoleer eerst, daarna investeer je in de verwarmingsoplossing. Een goed geïsoleerde woning heeft een kleinere warmwatervraag en een warmtepompboiler presteert beter in een verwarmde ruimte. De volgorde: dakisolatie → spouwmuurisolatie → warmtepompboiler.
 
 ---
 
@@ -309,15 +311,15 @@ Als huurder heb je minder vrijheid, maar niet nul vrijheid. Wat geldt:
 
 ---
 
-## Vragen die ik het vaakst krijg
+## Vragen die het vaakst terugkomen
 
-Bij lezingen en in gesprekken met buren en vrienden krijg ik steeds dezelfde vragen. Hier geef ik eerlijke antwoorden.
+Rond deze keuze komen steeds dezelfde vragen langs. Hieronder de antwoorden.
 
 **"Ik heb al zonnepanelen — heb ik dan een zonneboiler nodig?"**
 Nee. Als je zonnepanelen hebt, kun je de elektriciteitsopbrengst direct gebruiken voor een warmtepompboiler. Zonnepanelen + warmtepompboiler is een betere combinatie dan zonnepanelen + zonneboiler, omdat je dakvlak efficiënter wordt benut (meer kWp per m² dak) en je geen collector hoeft te installeren.
 
 **"Mijn buurman heeft een zonneboiler en is er erg tevreden over."**
-Dat klopt, en dat zal ik ook nooit ontkennen. Een goed geïnstalleerde zonneboiler doet het werk in de zomer uitstekend. De vraag is of die tevredenheid standhoudt bij de volledige jaarrekening, de onderhoudskosten en de terugverdientijd. Veel eigenaren van een zonneboiler weten niet meer precies wat hij heeft gekost en hoeveel hij oplevert — ze zijn tevreden zonder de rekensommetjes te hebben gemaakt.
+Dat is goed mogelijk. Een goed geïnstalleerde zonneboiler doet het werk in de zomer uitstekend. De vraag is of die tevredenheid standhoudt bij de volledige jaarrekening, de onderhoudskosten en de terugverdientijd. Veel eigenaren van een zonneboiler weten niet meer precies wat hij heeft gekost en hoeveel hij oplevert — ze zijn tevreden zonder de rekensommetjes te hebben gemaakt.
 
 **"Zijn er veiligheidsrisico's bij een warmtepompboiler?"**
 Minimaal. De warmtepompboiler maakt gebruik van een kleine hoeveelheid koudemiddel (HFO of CO2 in de meest moderne modellen) die hermetisch gesloten is. Er zijn geen open verbrandingsgassen zoals bij een gasgeiser. Het enige risico is legionella als de boiler te lang op lage temperatuur wordt ingesteld — maar dat geldt voor elke warmwaterboiler. Stel de desinfectietemperatuur in op minimaal 60°C eenmaal per week (is vaak standaard ingesteld).

@@ -1,8 +1,8 @@
 ---
 title: 'Quatt vs Atag warmtepomp 2026: hybride of all-electric kiezen?'
 date: 2026-08-19 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
-description: Quatt hybride of Atag all-electric in 2026? Eerlijke vergelijking op prijs, COP, geluid en service met cijfers uit echte huishoudens.
+lastmod: 2026-08-20 08:00:00+02:00
+description: Quatt hybride of Atag all-electric in 2026? Eerlijke vergelijking op prijs, COP, geluid en service, op basis van specificaties en offerteprijzen.
 categories:
 - warmtepomp
 tags:
@@ -20,7 +20,7 @@ keywords:
 - warmtepomp vergelijking 2026
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1581094794329-c8112a89af12&w=1200&output=webp&q=70
 faq:
 - q: Wat is het kernverschil tussen Quatt en Atag?
@@ -32,7 +32,7 @@ faq:
 - q: Hoe is de service van Atag vs Quatt?
   a: 'Atag werkt via netwerk van geselecteerde dealers (~250 in NL). Service hangt af van welke dealer. Garantie 5 jaar standaard, uitbreidbaar tot 10. Quatt heeft één service-pad: hun eigen monteurs of partners. 10 jaar all-in via €19/mnd abonnement. Quatt is voorspelbaarder, Atag potentieel sneller bij dichtstbijzijnde dealer.'
 - q: Welke past bij oudere woningen?
-  a: 'Bij label D of slechter: Quatt is de veiligere keus omdat de cv-ketel back-up biedt bij koud weer of slecht-geïsoleerde delen. Atag iC Hybrid kan ook, maar duurder. Atag Energion all-electric raad ik af bij label D of E — de COP zakt te ver bij koude periodes en je krijgt comfortklachten.'
+  a: 'Bij label D of slechter: Quatt is de veiligere keus omdat de cv-ketel back-up biedt bij koud weer of slecht-geïsoleerde delen. Atag iC Hybrid kan ook, maar duurder. Atag Energion all-electric raden wij af bij label D of E — de COP zakt te ver bij koude periodes en de kans op comfortklachten is groot.'
 - q: Hoeveel maakt Atag-buitenunit lawaai?
   a: 'Atag iC Hybrid buitenunit: 39-43 dB op 1 meter. Atag Energion: 36-41 dB normaal, 33 dB nachtmodus. Quatt: 38-42 dB op 1 meter. Beide voldoen aan de erfgrens-norm 40 dB nacht bij correcte plaatsing op minimaal 2 meter van naburige slaapkamers.'
 - q: Welke is futureproof na de saldering-stop 2027?
@@ -51,22 +51,24 @@ products:
   price: '9500'
 schema_type: Article
 ---
-Toen mijn zwager naar mijn advies vroeg over zijn cv-vervanging, hadden we drie offertes op tafel: Quatt €4.495, Atag iC Hybrid €6.800 en Atag Energion all-electric €10.200 voor zijn jaren-90 woning. We zijn drie maanden bezig geweest met dit samen uit te zoeken — installateurs gebeld, dealers bezocht, COP-tabellen vergeleken.
+Wie in een jaren-90 woning zijn cv-ketel moet vervangen, krijgt in 2026 vaak drie offertes op tafel die ver uit elkaar liggen: een Quatt-hybride rond €4.495, een Atag iC Hybrid rond €6.800 en een Atag Energion all-electric rond €10.200. Dat verschil van bijna €6.000 gaat niet over kwaliteit alleen — het gaat over een ander soort keuze: gas houden als achtervang, of er helemaal vanaf.
 
-In dit artikel deel ik wat we vonden en welke keuze hij uiteindelijk maakte (en waarom).
+Wij vergelijken de drie op prijs, SCOP-opgave, geluid, service-model en lifetime-kosten, op basis van fabrieksspecificaties, gangbare offerteprijzen, de ISDE-bedragen 2026 en geverifieerde gebruikersreviews.
 
-*Disclosure: ik heb geen affiliate-relatie met Atag op het moment van schrijven (2026). Ik heb een algemene affiliate-relatie met Quatt vermeld bij de CTA. Cijfers zijn gebaseerd op offertes en datasheet-vergelijkingen, geen sponsored content.*
+*Disclosure: DuurzaamThuisLab heeft op het moment van schrijven geen affiliate-relatie met Quatt of Atag; de links verwijzen naar de productpagina's van de fabrikanten. Deze vergelijking is geen sponsored content.*
 
 ---
 
 💡 *Wil je het basisverschil tussen warmtepomp-typen begrijpen? Lees [warmtepomp monoblock vs split](/posts/warmtepomp-monoblock-vs-split-2026/) eerst.*
 
 
-> **Kort antwoord:** Quatt hybride of Atag all-electric in 2026? Eerlijke vergelijking op prijs, COP, geluid en service met cijfers uit echte huishoudens.
+> **Kort antwoord:** Quatt hybride of Atag all-electric in 2026? Eerlijke vergelijking op prijs, COP, geluid en service, op basis van specificaties en offerteprijzen.
 >
 > Quatt is een hybride warmtepomp die samenwerkt met je bestaande cv-ketel — dus je houdt gas voor koude piekdagen. Atag biedt zowel hybride (Atag iC Hybrid) als full-electric warmtepompen (Atag Energion). Atag is een traditioneel cv-merk dat overstapt op warmtepompen, Quatt is een digital-first startup met service-abonnement model.
 
-## De situatie van mijn zwager
+## Referentieprofiel voor deze vergelijking
+
+Alle bedragen in dit artikel zijn doorgerekend voor onderstaand woningprofiel. Het is een rekenvoorbeeld, geen gemeten praktijkgeval.
 
 | Eigenschap | Waarde |
 |---|---|
@@ -80,13 +82,15 @@ In dit artikel deel ik wat we vonden en welke keuze hij uiteindelijk maakte (en 
 | Stroomverbruik | 4.200 kWh/jaar |
 | Zonnepanelen | 14 stuks (oost-west) |
 
-Drie offertes naast elkaar:
+Drie gangbare offertes voor dit profiel naast elkaar:
 
 - **Quatt hybride**: €4.495 met behoud van cv-ketel (Atag Q38 vervangen door nieuwe Quatt-compatibele ketel)
 - **Atag iC Hybrid**: €6.800 met nieuwe Atag-ketel + warmtepomp
 - **Atag Energion 5 kW all-electric**: €10.200 met buffervat, geen cv-ketel meer
 
-## Investering en jaar-1 cashflow
+## Investering en jaar-1 cashflow (modelberekening)
+
+De bedragen hieronder zijn een modelberekening op basis van de offerteprijzen, het gasverbruik uit het referentieprofiel en tarieven van €0,30/kWh en €1,40/m³.
 
 | | Quatt | Atag iC Hybrid | Atag Energion |
 |---|---|---|---|
@@ -100,7 +104,7 @@ In pure cashflow termen wint Quatt jaar 1 met meer dan €2.000 voorsprong. Atag
 
 ## COP in het Nederlandse klimaat
 
-Atag publiceert SCOP-cijfers gemeten volgens EN 14825. Quatt publiceert eigen veldmetingen. Naast elkaar:
+Atag publiceert SCOP-cijfers volgens de EN 14825-norm; Quatt publiceert eigen veldcijfers. Let op dat die twee niet één op één vergelijkbaar zijn — een genormeerde meting en een fabrikants-eigen veldcijfer komen uit verschillende methodes. De onderstaande waarden zijn de opgaven van de fabrikanten, niet onze metingen:
 
 | Buitentemp | Quatt SCOP | Atag iC Hybrid | Atag Energion |
 |---|---|---|---|
@@ -111,27 +115,23 @@ Atag publiceert SCOP-cijfers gemeten volgens EN 14825. Quatt publiceert eigen ve
 
 Hybrides Quatt en Atag iC zijn vrijwel gelijk. Atag Energion all-electric is structureel een COP-punt hoger. Op 14.000 kWh warmtevraag betekent dat circa 700 kWh stroombesparing per jaar = €225-€280 voordeel voor Atag Energion.
 
-## Geluid in de praktijk
+## Geluid volgens de fabrieksopgaven
 
-Buurman heeft Atag Energion sinds vorig jaar. Op 1 meter heb ik gemeten:
+| Model | Normaal bedrijf (1 m) | Nachtmodus |
+|---|---|---|
+| Quatt hybride | 38-42 dB | niet beschikbaar |
+| Atag iC Hybrid | 39-43 dB | niet beschikbaar |
+| Atag Energion | 36-41 dB | 33 dB |
 
-- Mild draaien: 36 dB
-- Vol draaien (-3°C): 41 dB
-- Nachtmodus: 32 dB
+Tussen Quatt en Atag iC Hybrid is het verschil verwaarloosbaar. Atag Energion is de stilste van de drie, vooral door de aanwezigheid van een echte nachtmodus — en dat is het punt dat telt: de wettelijke norm van 40 dB op de erfgrens geldt juist in de nachtperiode. Zonder nachtmodus ben je afhankelijk van plaatsingsafstand en afscherming om onder die grens te blijven.
 
-Op 4 meter (slaapkamer naburig): 28 dB normaal, 24 dB nachtmodus. Net hoorbaar maar niet storend. Volgens norm-eisen ruim binnen marge.
-
-Quatt en Atag iC Hybrid zitten beide op 38-42 dB normaal. Verschil tussen hen verwaarloosbaar.
+Praktisch advies: laat de installateur de verwachte geluidsdruk op de erfgrens berekenen vóór plaatsing, niet erna. Achteraf verplaatsen van een buitenunit is duur.
 
 ## Service en garantie
 
-Atag werkt met dealer-netwerk: 250 monteurs verspreid over Nederland. Mijn zwager belde drie dealers in zijn regio:
+Atag werkt met een dealer-netwerk van ongeveer 250 partijen in Nederland. Dat is de kern van het verschil met Quatt: bij Atag bepaalt je dealer de kwaliteit van je ervaring, niet de fabrikant. Een dealer die zich in warmtepompen heeft gespecialiseerd rekent doorgaans meer dan een cv-generalist, en dat prijsverschil koop je kennis mee.
 
-- Dealer A: 5 sterren reviews, gespecialiseerd in warmtepompen, prijs hoogst
-- Dealer B: 4 sterren, generalist, prijs gemiddeld  
-- Dealer C: 3 sterren reviews, jarenlange ervaring met cv
-
-We kozen Dealer A. Ervaring zo: installatie-dag verliep vlekkeloos, eerste onderhoud na 6 maanden uitgevoerd door dezelfde monteur die de installatie deed. Goede ervaring, maar volledig afhankelijk van wie je kiest.
+Onze aanbeveling bij Atag: vraag drie offertes op bij verschillende dealers, vergelijk de reviews, en vraag expliciet om een warmteverliesberekening en een capaciteitsberekening. Een dealer die zonder berekening een standaard 5 kW-unit aanbiedt, kun je uitsluiten — ongeacht de prijs.
 
 Quatt-route: één partij, één app, één telefoonnummer. <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Quatt-installatie</a> aanvragen gebeurt online; binnen 2 weken plaatsing. Eenduidiger maar minder flexibel.
 
@@ -149,7 +149,7 @@ Bijna gelijk in lange-termijn-investering. Verschil zit in cashflow-spreiding.
 
 ## Smart grid en zonnepanelen
 
-Mijn zwager heeft 14 panelen oost-west. Met huidige saldering verkoopt hij overschot tegen €0,30/kWh. Na 2027 daalt dat naar €0,06/kWh.
+Het referentieprofiel heeft 14 panelen oost-west. Onder de huidige saldering is het overschot ongeveer €0,30/kWh waard; na 2027 zakt dat in de gangbare prognoses naar circa €0,06/kWh. De onderstaande bedragen zijn modelschattingen op basis van die aanname.
 
 **Quatt**: geen smart-grid. Draait op vraag, niet op zon. Post-2027 betekent dat ~3.000 kWh teruglevering tegen lage prijs = €720/jaar verlies aan zonneoverschot.
 
@@ -157,18 +157,17 @@ Mijn zwager heeft 14 panelen oost-west. Met huidige saldering verkoopt hij overs
 
 **Atag Energion**: volledige Smart Grid Ready. Kan buffervat op 70°C zetten bij overschot, vloerverwarming op +1°C bij overschot. Verlies beperkt tot ~€440/jaar.
 
-Verschil voor mijn zwager: €280/jaar voordeel voor Atag Energion ten opzichte van Quatt — alleen door betere zonneoverschot-benutting.
+Verschil in het model: circa €280 per jaar in het voordeel van Atag Energion ten opzichte van Quatt, alleen door betere benutting van het zonneoverschot.
 
-## Wat mijn zwager uiteindelijk koos
+## Welke keuze past bij welk budget?
 
-Na 12 weken wikken: **Atag iC Hybrid**. Reden:
+Zet de bedragen bij elkaar en er ontstaat een duidelijk patroon:
 
-- Te beperkt budget voor Atag Energion (€10.200 was buiten bereik)
-- Wens om langer dan 15 jaar mee te kunnen zonder vervanging (Quatt wegens levensduur niet geschikt)
-- Bestaande relatie met lokale dealer (jaren cv-ketel-onderhoud)
-- Zonnepanelen-overschot-voordeel was leuk maar niet genoeg om +€3.400 investering te rechtvaardigen
+**Atag iC Hybrid is voor dit profiel de middenweg.** Het verschil met Atag Energion is €3.400 extra investering, terwijl het jaarvoordeel in het model rond de €280 tot €300 blijft — een terugverdientijd van meer dan tien jaar op alleen dat verschil. En Energion vraagt bovendien een woning met beter afgiftesysteem dan label C met gewone radiatoren.
 
-Eén jaar later draait zijn Atag iC Hybrid stabiel. Gasverbruik gehalveerd. Storingen: nul. Tevreden klant.
+**Quatt is de keuze bij een hard budgetplafond.** €4.495 tegenover €6.800 is een reëel verschil, en de exploitatiekosten liggen dicht bij elkaar. De prijs die je betaalt is een kortere verwachte levensduur van het complete systeem en geen smart-grid-functie.
+
+**Atag Energion wordt de logische keuze zodra de woning er klaar voor is**: label B of beter, vloerverwarming of lage-temperatuur-radiatoren, en de intentie om lang te blijven wonen. Dan draait de lifetime-rekening om, zoals de berekening verderop laat zien.
 
 ## Wanneer Quatt?
 
@@ -194,7 +193,7 @@ Eén jaar later draait zijn Atag iC Hybrid stabiel. Gasverbruik gehalveerd. Stor
 - Wens om volledig van gas af
 - Smart-home enthousiast (Smart Grid voordeel waarderen)
 
-## Concrete jaarrekening 2026 voor 12.000 kWh warmtevraag
+## Modelberekening: jaarrekening bij 12.000 kWh warmtevraag
 
 **Quatt** (label C, geen vloerverwarming):
 - Gas: €560
@@ -223,9 +222,9 @@ Op 25 jaar gerekend (huidige tarieven, geen inflatie):
 - Atag iC Hybrid: €6.800 + €1.385 × 25 = **€41.425**
 - Atag Energion: €10.200 + €1.090 × 25 = **€37.450**
 
-Atag Energion is 25 jaar lang ongeveer **€4.000 goedkoper in lifetime kosten**, mits het huis geschikt is. Quatt en Atag iC Hybrid zijn praktisch gelijk in lifetime kosten.
+In dit model is Atag Energion over 25 jaar ongeveer **€4.000 goedkoper in lifetime-kosten**, mits het huis geschikt is. Quatt en Atag iC Hybrid komen praktisch gelijk uit. Let op twee aannames die de uitkomst dragen: er is niet gerekend met energie-inflatie (die het all-electric voordeel groter maakt zodra gas sneller stijgt dan stroom), en ook niet met vervangingskosten binnen die 25 jaar behalve de genoemde revisie.
 
-## Mijn aanbeveling
+## Ons oordeel
 
 - Krap budget + bestaand huis = Quatt
 - Middenbudget + lange termijn = Atag iC Hybrid
@@ -241,15 +240,15 @@ Atag-warmtepompen zijn productiematig deels OEM (gebaseerd op Mitsubishi-platfor
 
 Quatt is een 2021-startup. Hun hardware komt van Vaillant en Bosch (productie), software is eigen. Voor mensen die "lekker NL" willen: Quatt is digital-Nederlands, Atag is industrieel-Nederlands. Beide voldoen, andere doelgroepen.
 
-## Praktijkverhalen uit mijn omgeving
+## Wat gebruikers over beide merken melden
 
-**Geval 1**: Buurman, 68 jaar, label C bungalow. Koos Atag iC Hybrid. Tevreden na 2 jaar — geen storingen, vaste relatie met dealer, jaarbeurt voorspelbaar. Schat het systeem op 18 jaar levensduur.
+Uit geverifieerde gebruikersreviews komen twee terugkerende patronen naar voren.
 
-**Geval 2**: Vriend van vriend, 35 jaar, label C tussenwoning. Koos Quatt na vergelijking. Tevreden na 14 maanden. Storing aan watercirculatie in maand 9, opgelost binnen 24u kosteloos. Hij waardeert het abonnementsmodel.
+**Bij Quatt** waarderen gebruikers vooral de voorspelbaarheid: één partij, één app, één telefoonnummer, en storingen die onder het abonnement vallen zonder factuurdiscussie. De klachten gaan bijna nooit over de hardware maar over het gebrek aan keuzevrijheid — geen capaciteitsopties, geen externe API, en afhankelijkheid van één leverancier voor zowel software als service.
 
-**Geval 3**: Mijn schoonmoeder, 71 jaar, label B huis. Wij hebben Atag iC Hybrid gekozen — vooral omdat ze haar leven lang Atag heeft gehad en geen zin had in een nieuwe leverancier. Comfort-first beslissing.
+**Bij Atag** is het beeld gespreider, en dat is inherent aan het dealer-model: goede ervaringen bij dealers die zich in warmtepompen hebben gespecialiseerd, matige bij dealers die het als bijproduct naast cv-ketels verkopen. De hardware zelf krijgt consistent goede beoordelingen; de installatiekwaliteit varieert.
 
-In alle drie gevallen: tevreden klanten. Beide merken werken, mits je het past bij je profiel.
+Ons oordeel daarover: bij Quatt beoordeel je een product, bij Atag beoordeel je een product én een dealer. Wie geen tijd of zin heeft om dealers te screenen, kiest met Quatt de veiligere route naar een voorspelbaar resultaat.
 
 ## Verzekering en aansprakelijkheid
 
@@ -339,7 +338,7 @@ PV-T zelf is een complexe technologie met beperkte praktijk-meerwaarde — voor 
 
 **Quatt**: startup, profitable maar single-point-of-failure. Bij faillissement: app stopt mogelijk te werken, service-abonnement waardeloos. Hardware blijft draaien (Vaillant/Bosch onderhuids).
 
-Risicoanalyse: kans op Atag-faillissement <0,5% in 10 jaar. Kans op Quatt-faillissement: 5-10% in 10 jaar (typisch startup-risico). Voor wie risico-avers is: Atag zekerder.
+Wij noemen hier geen faillissementskansen — die zijn niet te onderbouwen. Wat wél vaststaat is het verschil in afhankelijkheid: bij Atag zit de continuïteit in onderdelen en dealers, bij Quatt zit een deel van de functionaliteit én het service-abonnement in de dienst van één bedrijf. Voor wie risico-avers is, is een gevestigde fabrikant met een breed dealer-netwerk de voorspelbaarder keuze.
 
 ## Conclusie
 
@@ -347,7 +346,7 @@ Quatt en Atag spelen een ander spel. Quatt is de digital-first startup met vaste
 
 Voor een typisch Nederlands gezin met label-C-woning is Atag iC Hybrid vaak de beste middenweg — qua prijs, levensduur en service. Quatt past beter bij wie snel + goedkoop wil. Atag Energion bij wie zijn huis al klaar heeft en lange-termijn rendement zoekt.
 
-Mijn zwager is na een jaar tevreden met zijn keuze. Geen storingen, halvering gasverbruik, comfortabel huis. Soms is "goed genoeg" precies wat je nodig hebt.
+Belangrijker dan de merkkeuze is de vraag of je woning klaar is voor all-electric. Is dat niet zo, dan is een hybride geen compromis maar simpelweg de juiste techniek voor die woning — en halveert het gasverbruik zonder dat je eerst een isolatie- en afgifterenovatie hoeft te doen. Soms is "goed genoeg" precies wat een woning nodig heeft.
 
 *Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 

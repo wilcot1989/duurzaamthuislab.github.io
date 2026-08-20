@@ -1,7 +1,7 @@
 ---
 title: Beste laadpaal thuis vergelijking 2026
 date: 2026-09-24 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: 2026-08-20 08:00:00+02:00
 draft: false
 description: Easee vs Wallbox vs Alfen vergeleken op prijs, app, OCPP en slim laden met Tibber of Frank Energie. Praktijktest in Drenthe met een Tesla.
 categories:
@@ -22,7 +22,7 @@ keywords:
 - slim laden EV
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1593941707882-a5bba14938c7&w=1200&output=webp&q=70
 faq:
 - q: Welke laadpaal is het beste voor slim laden met Tibber?

@@ -1,7 +1,7 @@
 ---
 title: 'Kierdichting buitendeur 2026: tochtstrip + sleutelgat'
 date: 2026-06-16 08:00:00+02:00
-lastmod: 2026-06-16 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Specifiek deurkieren — sleutelgaten, brievenbussen, dichtkasten. Materialen, kosten, energiebesparing per type.
 categories:
 - isolatie
@@ -23,7 +23,7 @@ keywords:
 - isolatie buitendeur 2026
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel energie verlies ik via kieren in de voordeur?
@@ -51,11 +51,11 @@ products:
   price: '45'
 schema_type: Article
 ---
-Ik krijg regelmatig de vraag: "Mark, ik heb alles al geïsoleerd — spouwmuur, dak, vloer — maar het blijft tochten. Waar zit het?"
+"Ik heb alles al geïsoleerd — spouwmuur, dak, vloer — maar het blijft tochten. Waar zit het?" Het is een van de meest gestelde vragen na een isolatieronde.
 
 Negen van de tien keer zit het aan de voordeur. En dan niet aan de voor de hand liggende plek (de deurkier onderaan), maar aan drie plekken die mensen stelselmatig over het hoofd zien: het sleutelgat, de brievenbus, en de dichtkast of het tochtportaal.
 
-Dit artikel is specifiek over die vergeten plekken. Ik behandel ze één voor één, inclusief de oplossingen die ik zelf heb toegepast in mijn eigen verduurzaamde huis.
+Dit artikel gaat specifiek over die vergeten plekken. Wij behandelen ze één voor één, met de gangbare oplossingen, de materiaalkosten en de aandachtspunten die fabrikanten in hun montagevoorschriften noemen.
 
 ---
 
@@ -184,7 +184,7 @@ Voor een buitendeur die u meerdere keren per dag in- en uitgaat, is een automati
 | Dichtkast binnendeur | Kieren doorgelaten | EPDM-strip binnendeur | €10 - €20 |
 | Dichtkast glas | Enkel glas warmteverlies | Raamfolie of glazen vervanging | €20 - €200 |
 
-**Totaal voor een volledige aanpak:** €95 tot €350. In mijn eigen huis kostte de complete kierdichting van de voordeur en het tochtportaal €120 aan materiaal en een halve dag werk. De tochtklachten zijn volledig verdwenen.
+**Totaal voor een volledige aanpak:** €95 tot €350 aan materiaal, plus grofweg een halve dag werk als je het zelf doet. Aan de onderkant van die bandbreedte zit een aanpak van alleen de voordeur en het tochtportaal met standaard EPDM-strips en een borstelplaat; aan de bovenkant een aanpak inclusief glasvervanging of een nieuwe deurdorpel.
 
 ---
 
@@ -248,7 +248,7 @@ Dat klopt als u alles dichtmaakt en niets terugplaatst. Maar zo werkt het niet.
 
 **De balans:** een goede kierdichting vermindert ongecontroleerde luchtstroom (tocht, warmteverlies). Ventilatie moet gecontroleerd plaatsvinden via roosters, een WTW-systeem (warmte-terugwinning) of mechanische ventilatie.
 
-Als u kierdichting uitvoert op een woning zonder enig ventilatiesysteem, adviseer ik altijd ook te kijken naar het ventilatieregime:
+Als u kierdichting uitvoert op een woning zonder enig ventilatiesysteem, is het belangrijk ook naar het ventilatieregime te kijken:
 - Heeft u zelfs maar een eenvoudige ventilatierooster in de badkamer of keuken?
 - Werkt de afzuigkap boven het fornuis naar buiten?
 - Is er een CO2-meter aanwezig (speciaal relevant bij slechte ventilatie)?

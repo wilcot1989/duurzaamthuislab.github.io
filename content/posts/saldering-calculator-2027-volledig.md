@@ -1,7 +1,7 @@
 ---
 title: 'Saldering calculator 2027: jaar-voor-jaar impact bereken'
 date: 2026-04-29 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Vul kWh-verbruik, zonnepanelen en thuisbatterij in. Krijg complete jaar-voor-jaar berekening 2026-2030.
 categories:
 - zonne-energie
@@ -21,7 +21,7 @@ keywords:
 - saldering afbouw bereken
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Hoe nauwkeurig is deze calculator?
@@ -52,11 +52,9 @@ products:
   price: '2299'
 schema_type: Article
 ---
-Vorige week zat een klant met een spreadsheet aan mijn tafel. "Mark, mijn zonnepaneleninstallateur belde dat ik €1.800 per jaar ga verliezen vanaf 2027. Klopt dat?" Ik keek naar zijn cijfers: 12 panelen, 4.5 kWp, 4.200 kWh verbruik per jaar. Hij wekt 4.000 kWh op. Saldering staat op de tocht. Wat gaat er werkelijk gebeuren?
+"Mijn installateur zegt dat ik €1.800 per jaar ga verliezen vanaf 2027 — klopt dat?" Zulke bedragen circuleren veel, en ze zijn meestal te hoog. Neem een gangbaar profiel: 12 panelen, 4,5 kWp, 4.200 kWh verbruik per jaar en 4.000 kWh opwek. Doorgerekend met de vastgestelde afbouwpercentages komt het verlies uit op circa €580 per jaar tegen 2029 — als je niets doet. Met een 5 kWh thuisbatterij slaat dat in het model om naar een netto voordeel van circa €120 per jaar.
 
-Ik heb de berekening uitgevoerd. Antwoord: hij verliest niet €1.800 maar €580 per jaar tegen 2029 — als hij niets doet. En met een 5 kWh thuisbatterij draait hij dat verlies om naar een netto winst van €120/jaar.
-
-Dat soort exacte cijfers wil je hebben. Daarom heb ik deze calculator gebouwd.
+Dat soort exacte cijfers wil je hebben voor je eigen situatie. Daarvoor is de calculator hieronder gemaakt.
 
 ---
 
@@ -357,10 +355,10 @@ Lees [thuisbatterij kopen vs leasen 2026](/posts/thuisbatterij-kopen-vs-leasen-2
 
 ---
 
-## Wat doe ik nu? 3-stappen actieplan
+## Wat nu te doen? 3-stappen actieplan
 
 **Stap 1 — Meet je werkelijke situatie**
-Vraag P1-data op via [Beste energiemonitor met P1-meter](/posts/beste-energiemonitor-p1-meter-2026/). Krijg precieze cijfers: wat is mijn werkelijke eigen verbruik, hoe ziet mijn dag-curve eruit?
+Vraag P1-data op via [Beste energiemonitor met P1-meter](/posts/beste-energiemonitor-p1-meter-2026/). Zo krijg je precieze cijfers: wat is je werkelijke eigen verbruik en hoe ziet je dagcurve eruit?
 
 **Stap 2 — Vergelijk batterij-opties**
 Lees [10 kWh thuisbatterij vergelijking 2026](/posts/thuisbatterij-10-kwh-vergelijking-2026/) en [thuisbatterij prijs per kWh 2026](/posts/thuisbatterij-prijs-per-kwh-2026/) voor exacte specs en prijzen.
@@ -378,7 +376,7 @@ De saldering-stop is GEEN apocalyps. Voor de meeste huishoudens met realistische
 
 De échte kostenbesparing zit in: **hoog eigen verbruik door batterij + warmtepomp + EV combinaties**. Een grote zonnepaneel-only-installatie zonder afnemers wordt na 2027 inderdaad een steeds magerder verhaal. Maar een geïntegreerd systeem (panelen + batterij + warmtepomp + EV) blijft rendabel — sterker nog, wordt relatief AANTREKKELIJKER omdat alternatieven (gas, fossiele stroom-inkoop) duurder worden.
 
-Gebruik de calculator hierboven met je eigen cijfers. En kom over een paar maanden terug — ik update de afbouw-percentages zodra het wetsvoorstel definitief door de Eerste Kamer is.
+Gebruik de calculator hierboven met je eigen cijfers. De afbouw-percentages in dit artikel worden bijgewerkt zodra het wetsvoorstel definitief door de Eerste Kamer is.
 
 *Vragen over je eigen berekening? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 

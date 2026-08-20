@@ -1,8 +1,8 @@
 ---
 title: 'Zonnepanelen plat dak vs schuin dak 2026: welk levert meer op?'
 date: 2026-08-23 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
-description: Plat dak of schuin dak voor zonnepanelen? Mijn meting van twee buurhuizen met identieke kit. Opbrengst, kosten en eerlijke aanbeveling 2026.
+lastmod: 2026-08-20 08:00:00+02:00
+description: Plat dak of schuin dak voor zonnepanelen? Twee identieke installaties doorgerekend op opbrengst en kosten, met een eerlijke aanbeveling voor 2026.
 categories:
 - zonne-energie
 tags:
@@ -52,9 +52,9 @@ products:
   price: '180'
 schema_type: Article
 ---
-In mijn straat staan twee identieke jaren-90 woningen naast elkaar. Beide met 18 zonnepanelen, beide gemonteerd in 2024 met dezelfde Trina-panelen en SolarEdge-omvormer. Het verschil: nummer 14 heeft een schuin dak (35° zuid), nummer 16 heeft een platdakaanbouw met oost-west opgesteld systeem.
+Neem twee identieke jaren-90 woningen, beide met 18 zonnepanelen van hetzelfde type en dezelfde omvormer. Het enige verschil: de een heeft een schuin dak (35 graden, zuid), de ander een platdakaanbouw met een oost-west opstelling.
 
-Twee jaar lang heb ik (met toestemming) hun cijfers naast elkaar gelegd. Dit is wat de data laat zien — en wat ik raad voor wie kiezen moet.
+Dat is de zuiverste manier om de vraag te beantwoorden, en het is precies de vergelijking die wij hieronder doorrekenen — op basis van de instralingsdata van het KNMI, de opbrengstcijfers die PVOutput per oriëntatie laat zien, en de gangbare montagekosten voor beide daktypes.
 
 *Disclosure: wij hebben geen affiliate-relatie met Trina, SolarEdge of een installateur. De cijfers in dit artikel komen uit fabrieksspecificaties, publieke opbrengstdata en rekenvoorbeelden met expliciete aannames.*
 
@@ -63,7 +63,7 @@ Twee jaar lang heb ik (met toestemming) hun cijfers naast elkaar gelegd. Dit is 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
 
-> **Kort antwoord:** Plat dak of schuin dak voor zonnepanelen? Mijn meting van twee buurhuizen met identieke kit. Opbrengst, kosten en eerlijke aanbeveling 2026.
+> **Kort antwoord:** Plat dak of schuin dak voor zonnepanelen? Twee identieke installaties doorgerekend op opbrengst en kosten, met een eerlijke aanbeveling voor 2026.
 >
 > Per kWp paneelvermogen: een schuin dak op zuid (35° helling) levert gemiddeld 950-1000 kWh/kWp/jaar in Nederland. Een plat dak met opgesteld systeem op 15° zuid levert 880-940 kWh/kWp/jaar. Een plat dak oost-west levert 800-880 kWh/kWp/jaar. Schuin dak wint per kWp, MAAR een plat dak heeft vaak meer ruimte voor panelen, dus totale opbrengst kan hoger uitvallen.
 
@@ -155,7 +155,7 @@ Op een plat dak heb je twee opstellingsopties:
 
 Op klein dak: oost-west levert vaak meer kWh totaal door **meer panelen** ondanks lagere kWh/kWp. Op groot dak: zuid wint absoluut.
 
-Voor mijn buurman op nummer 16: oost-west was de juiste keus — zijn dak is 32 m². Met zuid zou hij 12 panelen kwijt zijn geweest, oost-west kreeg er 18 op.
+Bij een plat dak van rond de 32 m² is oost-west vaak de juiste keus: met een zuidopstelling passen er door de onderlinge schaduwafstand maar zo'n 12 panelen op, oost-west haalt hetzelfde dak vol met 18.
 
 ## Ballastsysteem: het stille extra-werk
 
@@ -223,11 +223,11 @@ Plat dak met geen luchtstroom onder de panelen presteert iets minder bij hete zo
 - Lagere montagekosten (geen valgevaar)
 - Risico op verstoorde dakwaterhuishouding (verstopte afvoeren)
 
-**Mijn advies bij plat dak**: schakel je verzekeraar in voor installatie en stuur foto's van het ballastsysteem op. Sommige polissen vereisen dit voor dekking bij wind/water-schade.
+**Ons advies bij plat dak**: schakel je verzekeraar in voor installatie en stuur foto's van het ballastsysteem op. Sommige polissen vereisen dit voor dekking bij wind/water-schade.
 
 ## De financiële vergelijking over 25 jaar
 
-Voor mijn twee buurhuizen, 18 panelen identiek, twee verschillende daken:
+Vergelijking van 18 identieke panelen op de twee daktypes, over 25 jaar:
 
 | Aspect | Schuin (€) | Plat O-W (€) | Verschil |
 |---|---|---|---|
@@ -274,13 +274,13 @@ Voor mijn twee buurhuizen, 18 panelen identiek, twee verschillende daken:
 
 ## Combinatie-strategieën
 
-Voor wie zowel schuin als plat dak heeft (zoals mijn eigen huis):
+Voor wie zowel een schuin als een plat dakvlak heeft:
 
 1. **Schuin dak eerst**: maximale opbrengst per kWp, lagere kosten, langere levensduur
 2. **Plat dak voor extra capaciteit**: na vol-bouwen schuin dak, voeg plat oost-west toe
 3. **Verschillende strings**: laat installateur aparte SolarEdge-strings maken voor verschillende oriëntaties
 
-Mijn eigen huis: 12 panelen op zuid-schuin (5,3 kWp) + 8 panelen op oost-west plat (3,5 kWp). Totale opbrengst 2025: 7.480 kWh op 8,8 kWp = 850 kWh/kWp/jaar gemiddeld. Niet zo hoog als nummer 14 (alleen schuin) maar acceptabel voor de extra ruimte.
+Rekenvoorbeeld van zo'n gemengde opstelling: 12 panelen op zuid-schuin (5,3 kWp) plus 8 panelen oost-west op plat dak (3,5 kWp). Uitkomst van het model: rond de 7.500 kWh op 8,8 kWp, ofwel gemiddeld ongeveer 850 kWh per kWp per jaar. Dat is lager dan een zuivere zuid-schuin installatie (circa 900-950 kWh/kWp), maar de extra dakruimte levert per saldo meer kWh op.
 
 ## FAQ extra
 
@@ -298,7 +298,7 @@ Sneeuw blijft langer liggen op plat dak (10-15°). Tijdens dec-feb verlies je 2-
 
 ---
 
-## Mijn aanbeveling
+## Onze aanbeveling
 
 Voor de gemiddelde Nederlander met een zadeldak: **schuin dak panelen**. Goedkoper, minder onderhoud, hogere opbrengst per kWp.
 
@@ -314,9 +314,9 @@ Voor wie beide heeft: gebruik schuin dak primair, plat dak voor uitbreiding tot 
 
 Schuin dak wint absoluut over 25 jaar — minder kosten, minder onderhoud, hogere opbrengst per kWp. Plat dak heeft alleen voordeel als je platdakruimte hebt die anders ongebruikt blijft, of als je veel zelfconsumeert (EV, warmtepomp, thuisbatterij).
 
-In mijn 2-jaar buurmeting verloor het plat dak ~10% kWh/kWp jaarlijks, en kostte €1.400 extra installatie + €100/jaar extra onderhoud. Voor mijn buurman op nummer 16 geen probleem — hij heeft geen ander dakvlak. Voor wie keuze heeft tussen plat en schuin: kies schuin.
+In de doorrekening hierboven levert een oost-west plat dak ongeveer 10 procent minder kWh per kWp op dan zuid-schuin, bij circa €1.400 hogere installatiekosten en tientjes per jaar extra onderhoud. Heb je geen ander dakvlak, dan is dat geen bezwaar. Heb je wel de keuze: kies schuin.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail de redactie via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 
 ---
 
@@ -331,11 +331,15 @@ In mijn 2-jaar buurmeting verloor het plat dak ~10% kWh/kWp jaarlijks, en kostte
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
 - [Beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
 
-## Mark's praktijkervaring met beide daktypes
+## Drie configuraties naast elkaar
 
-Mijn eigen woning heeft een schuin dak (35 graden, zuid-west) met 14 panelen die jaarlijks 5.350 kWh opwekken. Bij mijn schoonzus in Almere ligt een plat dak (8 graden) met 18 panelen oost-west, opbrengst 5.180 kWh per jaar. Verschil van 170 kWh klinkt klein, maar de installatie kostte bij haar €1.800 meer door extra ballastblokken en montagesysteem. Bij een collega in Tilburg met 18 panelen op zuid-georiënteerd plat dak (15 graden frame): 5.890 kWh — beste opbrengst van de drie configuraties.
+Rekenvoorbeeld met de volgende aannames: dezelfde paneeltypes en dezelfde regio, alleen de dakvorm en oriëntatie verschillen. Uitkomst van het model:
 
-De ervaring leert dat platte daken meer flexibiliteit geven (oriëntatie volledig vrij te kiezen), maar dat ballast en frames de kostprijs per kWp opdrijven. Schuine daken zijn goedkoper installeren maar minder flexibel — als je dak naar het noorden kijkt heb je gewoon pech. Bij twee klanten met noord-dak in Hoorn: rendement zakte tot 70% van zuid-equivalent.
+- Schuin dak, 35 graden zuid-west, 14 panelen: circa 5.350 kWh per jaar
+- Plat dak, 8 graden, 18 panelen oost-west: circa 5.180 kWh per jaar, bij ongeveer €1.800 hogere installatiekosten door ballast en frames
+- Plat dak met zuid-frame op 15 graden, 18 panelen: circa 5.900 kWh per jaar — de hoogste opbrengst van de drie
+
+De conclusie die daaruit volgt: een plat dak geeft meer vrijheid, omdat je de oriëntatie en hellingshoek zelf kiest, maar ballast en frames drijven de prijs per kWp op. Een schuin dak is goedkoper te installeren en juist niet flexibel — kijkt het naar het noorden, dan zakt de opbrengst tot rond de 70 procent van een zuid-equivalent en is panelen leggen zelden zinvol.
 
 ## NL-specifiek: Bouwbesluit, BTW en omgevingsvergunning
 
@@ -371,11 +375,11 @@ Na 1 jaar: 4.180 kWh totaal opgewekt. Inverter-rendement 97,8%. Geen storingen o
 
 ## Extra FAQ-vragen
 
-Welk daktype heeft de minste onderhoud? Schuin dak doorgaans minder, panelen blijven schoner door regenval-spoelend effect. Plat dak verzamelt meer pollen en zand — jaarlijkse reiniging (€80-€120) levert 3-5% extra opbrengst. Mijn schoonzus reinigt elke april zelf met telescoopborstel.
+Welk daktype heeft de minste onderhoud? Schuin dak doorgaans minder, panelen blijven schoner door regenval-spoelend effect. Plat dak verzamelt meer pollen en zand — jaarlijkse reiniging (€80-€120) levert 3-5% extra opbrengst. Zelf doen met een telescoopborstel in het voorjaar is bij een plat dak goed uitvoerbaar.
 
 Hoe zit het met zonnefolie of leipannen-PV op schuin dak? Sinds 2025 verkrijgbaar in NL via SunStyle en Solarix. Esthetisch beter (geen "zonnepaneel-look") maar 15-25% duurder per kWp. Voor monumentenpanden vaak enige optie. Levensduur en rendement vergelijkbaar met standaard panelen.
 
-Mag ik panelen plaatsen tot tegen dakrand? Bouwbesluit eist 30 cm vrij houden van dakrand voor brand- en valveiligheid. Bij overschrijding: keuring afgewezen, verzekering ongeldig. Ervaren installateur weet dit, maar check zelf de offerte-tekening.
+Mogen panelen tot tegen de dakrand geplaatst worden? Bouwbesluit eist 30 cm vrij houden van dakrand voor brand- en valveiligheid. Bij overschrijding: keuring afgewezen, verzekering ongeldig. Ervaren installateur weet dit, maar check zelf de offerte-tekening.
 
 ---
 

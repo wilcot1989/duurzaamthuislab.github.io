@@ -1,7 +1,7 @@
 ---
 title: 'Zonneschapen en zonnepanelen 2026: agri-PV'
 date: 2026-06-30 10:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: 2026-08-20 08:00:00+02:00
 description: Agri-PV op kleine schaal — zonnepanelen combineren met dieren of moestuin in NL — werkt het en wat zijn de regels.
 categories:
 - zonne-energie
@@ -22,7 +22,7 @@ keywords:
 - agrivoltaics nederland 2026
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Wat is agri-PV en is het in een tuin toepasbaar?

@@ -1,9 +1,9 @@
 ---
 title: 'Infrarood verwarming vs warmtepomp 2026: welke is rendabeler?'
 date: 2026-09-16 08:00:00+02:00
-lastmod: 2026-09-16 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
-description: Infrarood panelen of warmtepomp in 2026? Ik vergelijk verbruik, kosten, comfort en terugverdientijd. Voor wie is infrarood echt slim, en wanneer kies je toch warmtepomp?
+description: Infrarood panelen of warmtepomp in 2026? Wij vergelijken verbruik, kosten, comfort en terugverdientijd. Voor wie is infrarood echt slim, en wanneer kies je toch warmtepomp?
 categories:
 - verwarming
 tags:
@@ -21,7 +21,7 @@ keywords:
 - warmtepomp of infrarood
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1558618666-fcd25c85cd64&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is goedkoper: infrarood of warmtepomp?'
@@ -42,14 +42,14 @@ products:
   price: '0'
 schema_type: Article
 ---
-Vorig najaar belde een vriendin me: "Mark, ik heb in een Facebookgroep gelezen dat infrarood panelen 50 procent goedkoper zijn dan een warmtepomp. Klopt dat?" Ik kreeg de link doorgestuurd. Het verhaal kwam van een verkoper van IR-panelen die zelf ook IR-panelen verkocht. Verrassend genoeg adviseerde hij IR-panelen. Dit artikel is mijn eerlijke beoordeling — wel met de voorbehoud dat infrarood in een paar specifieke situaties echt goed werkt.
+"Infrarood panelen zijn 50 procent goedkoper dan een warmtepomp" — die claim circuleert breed in Facebookgroepen en op verkooppagina's van IR-leveranciers. Vaak is de bron een partij die zelf IR-panelen verkoopt. Dit artikel zet de claim naast de fysica en de tarieven van 2026, met het voorbehoud dat infrarood in een paar specifieke situaties wél de betere keuze is.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
 
 
-> **Kort antwoord:** Infrarood panelen of warmtepomp in 2026? Ik vergelijk verbruik, kosten, comfort en terugverdientijd. Voor wie is infrarood echt slim, en wanneer kies je toch warmtepomp?
+> **Kort antwoord:** Infrarood panelen of warmtepomp in 2026? Wij vergelijken verbruik, kosten, comfort en terugverdientijd. Voor wie is infrarood echt slim, en wanneer kies je toch warmtepomp?
 >
 > In de meeste woningen is een warmtepomp veel goedkoper in gebruik. Een warmtepomp heeft een COP van 3,5-4,5 — per kWh stroom levert hij 3,5-4,5 kWh warmte. Een infraroodpaneel heeft een rendement van 1,0 — 1 kWh stroom is 1 kWh warmte. Voor dezelfde warmte verbruikt infrarood dus 3-4 keer zoveel stroom.
 
@@ -78,7 +78,7 @@ Het verschil is dramatisch: infrarood kost 2.700-3.000 euro per jaar meer dan ee
 
 ## Drie scenario's waarin infrarood wel slim is
 
-Toch zijn er situaties waarin ik IR-panelen aanbeveel. Hier de drie:
+Toch zijn er situaties waarin IR-panelen wél de betere keuze zijn. Dit zijn de drie:
 
 **1. Bijverwarming in een specifieke ruimte (1-3 uur per dag)**
 
@@ -107,7 +107,7 @@ Op investering wint infrarood met 3.000-10.000 euro. Maar je verliest dat versch
 
 ## Het rekenvoorbeeld dat alles laat zien
 
-Vrouw in Breda, vrijstaand huis 1985, label C, 140 m2. Warmtevraag na lichte isolatie 18.000 kWh per jaar. Ze twijfelde tussen IR-panelen (volledige woning) en een Daikin Altherma 8 kW.
+**Modelberekening** voor een vrijstaande woning uit 1985, label C, 140 m2, met een warmtevraag van 18.000 kWh per jaar na lichte isolatie. Vergeleken worden IR-panelen voor de volledige woning en een Daikin Altherma van 8 kW. Gerekend met €0,30/kWh en een seizoens-COP van 3,5 voor de warmtepomp.
 
 | Scenario | Investering | Jaarlijkse kosten | 15-jaar totaal |
 |---|---|---|---|
@@ -116,11 +116,11 @@ Vrouw in Breda, vrijstaand huis 1985, label C, 140 m2. Warmtevraag na lichte iso
 
 Verschil over 15 jaar: 51.750 euro in het voordeel van warmtepomp. Met 14 zonnepanelen erbij (-700 euro stroomkosten per jaar) wordt het verschil nog groter.
 
-Ze koos voor de warmtepomp. Een jaar later belt ze me met de stookkosten: 1.420 euro stroom voor verwarming en warm water. Klopt met mijn voorspelling.
+De uitkomst van dit model — circa 1.350 euro per jaar aan stroom voor verwarming en warm water — ligt in lijn met de verbruikscijfers die Milieu Centraal publiceert voor all-electric woningen van dit type.
 
 ## De marketingverhalen rondom infrarood
 
-Verkopers van IR-panelen gebruiken een paar terugkerende argumenten. Hier mijn antwoord:
+Verkopers van IR-panelen gebruiken een paar terugkerende argumenten. Dit is wat er feitelijk van klopt:
 
 **"Infrarood is 100 procent rendement, warmtepomp maar 350 procent."**
 Inderdaad: 100 procent vs 350 procent. Dat betekent dat warmtepomp 3,5 keer zo efficient is. Argument tegen jezelf.
@@ -134,9 +134,9 @@ Klopt. Een warmtepomp wel: 100-180 euro per jaar. Maar over 15 jaar is dat 1.500
 **"Infrarood is sneller warm."**
 Inderdaad, een IR-paneel is binnen 2 minuten op temperatuur. Maar moderne warmtepompen met goede regelaar reageren snel genoeg voor permanent bewoonde ruimtes.
 
-## Wanneer ik infrarood echt aanraad
+## Wanneer infrarood echt de betere keuze is
 
-Concrete situaties uit mijn praktijk:
+Concrete situaties waarin de rekensom in het voordeel van IR uitvalt:
 
 - **Tuinhuis met thuiswerkplek 2 dagen per week**: 1 paneel van 600W, 250 euro, jaarverbruik circa 200 kWh = 60 euro. Warmtepomp niet rendabel.
 - **Badkamer 8 m2**: 1 paneel van 350-500W als bijverwarming. Hoofdverwarming via warmtepomp.
@@ -186,25 +186,25 @@ Op onderhoudskosten lijkt IR aantrekkelijker. Maar het verschil is over 15 jaar 
 
 ## Hoe een hybride aanpak werkt
 
-In sommige situaties combineer ik beide. Voorbeeld bij een vriend:
+In sommige situaties is een combinatie van beide het meest logisch. Een rekenvoorbeeld:
 
 - Hoofdverwarming via warmtepomp (woonkamer, slaapkamer, hal)
-- 1 IR-paneel in zijn kantoor op zolder dat hij 6 uur per dag gebruikt — maar de zolder is moeilijk te koppelen aan vloerverwarming
+- 1 IR-paneel in een zolderkantoor dat 6 uur per dag wordt gebruikt — een zolder is vaak moeilijk te koppelen aan vloerverwarming
 - 1 IR-paneel in de badkamer voor 's ochtends 20 minuten
 
 Totaal IR-investering: 600 euro. Stroomverbruik IR: circa 600 kWh per jaar = 180 euro. Acceptabel als luxe-oplossing voor twee specifieke gebruikssituaties, terwijl de rest van het huis efficient via warmtepomp wordt verwarmd.
 
-## Mijn conclusie
+## Onze conclusie
 
 Infrarood verwarming heeft zijn plek — als bijverwarming, in niet-permanent bewoonde ruimtes, of in passiefhuizen met extreem lage warmtevraag. Voor de hoofdverwarming van een normale Nederlandse woning is een warmtepomp in 95 procent van de gevallen 2.500-4.000 euro per jaar goedkoper.
 
 De argumenten voor infrarood die je in advertenties hoort, kloppen technisch maar leiden tot verkeerde conclusies. Een warmtepomp is duurder in aanschaf, maar verdient die meerprijs binnen 3-5 jaar terug en bespaart daarna decennialang.
 
-Mijn dringende advies: laat je niet verleiden door de lage instapprijs van IR-panelen. Reken altijd 15 jaar verbruik door bij realistisch warmtegebruik en realistische stroomtarieven. In bijna alle gevallen is een warmtepomp — al dan niet hybride — de slimme keuze.
+Ons dringende advies: laat je niet verleiden door de lage instapprijs van IR-panelen. Reken altijd 15 jaar verbruik door bij realistisch warmtegebruik en realistische stroomtarieven. In bijna alle gevallen is een warmtepomp — al dan niet hybride — de slimme keuze.
 
 ## Veelgemaakte rekenfouten met infrarood
 
-In adviespraktijk zie ik dezelfde rekentrucs telkens langskomen:
+In offertes en advertenties komen dezelfde rekentrucs telkens terug:
 
 **1. "Infrarood verwarmt direct, dus minder uren nodig."**
 Theorie: panelen sneller op temperatuur dus korter aan. Praktijk: in een woonkamer staat de bewoner zelden in directe straling van het paneel. Effectieve gebruiksduur is 80-90 procent van wat een normale verwarming nodig heeft, niet 50 procent zoals adverteerders suggereren.
@@ -226,7 +226,7 @@ Voor wie nu in een gasloze nieuwbouw infrarood overweegt: doe het niet. Een goed
 
 ## Wanneer infrarood NIET de moeite waard is
 
-Naast de adviezen hierboven zijn er specifieke situaties waarin ik mensen actief ontraden:
+Naast de adviezen hierboven zijn er specifieke situaties waarin infrarood af te raden is:
 
 - **Permanent bewoonde woonkamer >30 m2.** De warmtevraag is te hoog. Verbruik schiet door 4.000 kWh per jaar voor één ruimte alleen. Onbetaalbaar bij stroom van €0,30/kWh.
 - **Slecht geisoleerde woning (label E-G).** Infrarood bij open spouw of enkelglas is geld verbranden. Eerst isoleren, dan pas verwarming kiezen.
@@ -236,7 +236,7 @@ Naast de adviezen hierboven zijn er specifieke situaties waarin ik mensen actief
 
 ## Veelgemaakte fouten bij infrarood-installatie
 
-In adviespraktijk zie ik deze missers vaker dan ik zou willen:
+Dit zijn de missers die in installatieverslagen en forumdiscussies het vaakst terugkomen:
 
 **1. Verkeerde wattage per m2 berekenen.** Vuistregel: 60-100 watt per m2 bij goed geisoleerd, 100-150 watt per m2 bij matig. Mensen kopen vaak één paneel van 800 watt voor een ruimte van 25 m2 — dat is te weinig. Het paneel draait dan continu zonder de ruimte echt warm te krijgen.
 

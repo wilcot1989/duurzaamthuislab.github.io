@@ -30,6 +30,7 @@ products:
   - marstek
 schema_type: "Article"
 last_updated: 2026-06-12
+lastmod: 2026-08-20
 faq:
   - question: "Hoe zeg ik mijn energiecontract op bij verhuizing?"
     answer: "Meld je verhuizing aan bij je huidige energieleverancier, minimaal 4 weken van tevoren. Je hebt nodig: de verhuisdatum, het nieuwe adres en de EAN-nummers van zowel de oude als de nieuwe aansluiting. De leverancier regelt de opzegging en de eindafrekening op de leveringsdatum."
@@ -47,11 +48,11 @@ faq:
     answer: "Ja, en dat is zelfs een goed moment. Verhuizing geldt als nieuw contract — geen opzegboete van een oud vast contract. Je kunt direct bij Tibber of Frank Energie een dynamisch contract afsluiten voor het nieuwe adres."
 ---
 
-Dit artikel bevat affiliate-links. Als jij via mijn link iets afsluit krijg ik mogelijk een kleine vergoeding zonder dat het jou extra kost.
+Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.
 
-Bij mijn verhuizing twee jaar geleden van Amersfoort naar Nijmegen dacht ik dat het energiecontract regelen wel meeviel. Dat was het ook — maar alleen omdat ik het tijdig had aangepakt. Een collega van me vergat het volkomen, liep weken op het standaard Enexis-tarief in zijn nieuwe woning, en ontdekte dat zijn slimme meter in de nieuwe woning nog niet goed was geconfigureerd voor zijn dynamisch contract. Twee maanden gedoe voor iets wat in een uurtje geregeld kan zijn.
+Het energiecontract overzetten bij een verhuizing is op zichzelf een klus van een uur. Het gaat vooral mis wanneer het te laat wordt gemeld: dan valt de nieuwe woning terug op het standaardtarief, of blijkt de slimme meter nog niet geschikt te zijn voor uurafrekening bij een dynamisch contract. Dat zijn de twee klachten die het vaakst terugkomen in gebruikersforums en in de informatie van de netbeheerders.
 
-In dit artikel leg ik stap voor stap uit hoe je je energiecontract overzet bij een verhuizing, hoe je de slimme meter uitleest, hoe de eindafrekening werkt en welk contract in 2026 de beste keuze is voor je nieuwe woning.
+In dit artikel zetten wij stap voor stap uit elkaar hoe je je energiecontract overzet bij een verhuizing, hoe je de slimme meter uitleest, hoe de eindafrekening werkt en welk contract in 2026 het best past bij je nieuwe woning. Wij baseren ons daarbij op de verhuisprocedures van de leveranciers, de informatie van netbeheerders en de regels van toezichthouder ACM.
 
 > **Kort antwoord:** Meld je verhuizing minimaal 4 weken van tevoren aan bij je leverancier. Noteer meterstand op opleveringsdag (met foto). Sluit bij voorkeur direct een dynamisch contract af voor het nieuwe adres — verhuizing is een ideaal moment omdat opzegboetes niet gelden.
 
@@ -111,9 +112,9 @@ Op de leveringsdatum (de dag dat jij de sleutels overdraagt) noteert de netbehee
 
 ### Zelf meterstand noteren: waarom belangrijk?
 
-De netbeheerder registreert automatisch — maar het systeem maakt fouten. Ik heb twee keer meegemaakt dat de automatisch geregistreerde meterstand week na de werkelijke levering lag. Dat kostte één huiseigenaar een onterechte naheffing van €140.
+De netbeheerder registreert automatisch — maar dat systeem is niet foutloos. Een geschil over de eindafrekening ontstaat vrijwel altijd doordat de geregistreerde opnamedatum niet samenvalt met de werkelijke leveringsdatum. In dat geval is een eigen, gedateerde vastlegging van de meterstand het enige tegenbewijs dat je hebt.
 
-**Mijn advies:**
+**Ons advies:**
 - Fotografeer de meterkast met digitale display op de exacte leveringsdatum
 - Noteer de standen voor elektriciteit (dag-tarief én nachttarief) én gas
 - Stuur die foto ter bevestiging naar je leverancier via e-mail
@@ -146,7 +147,7 @@ Na 2027 stopt de salderingsregeling volledig. Wie zonnepanelen heeft in de nieuw
 
 ### Tibber of Frank Energie?
 
-Ik adviseer:
+Onze inschatting, op basis van de tariefstructuur en de gedocumenteerde integraties van beide aanbieders:
 - **Tibber**: als je een laadpaal, thuisbatterij of Sessy gaat aanschaffen in de nieuwe woning. De integraties zijn beter.
 - **Frank Energie**: als je een kleinere woning betrekt, geen maandelijks abonnement wil betalen, of nog twijfelt over smart home-investeringen.
 
@@ -178,7 +179,7 @@ Oplossing: bel je netbeheerder en vraag of de communicatiemodule actief is en me
 
 ### P1-poort koppelen voor realtime monitoring
 
-Als de slimme meter actief is, is de P1-poort (de kleine RJ11-aansluiting aan de onderkant) jouw gateway naar realtime monitoring. Met een [Tibber Pulse of HomeWizard P1](/posts/tibber-pulse-p1-meter-review-2026/) koppel je jouw meter direct aan de app. Ik doe dit standaard de eerste dag in een nieuwe woning — het geeft direct inzicht in het verbruiksprofiel.
+Als de slimme meter actief is, is de P1-poort (de kleine RJ11-aansluiting aan de onderkant) jouw gateway naar realtime monitoring. Met een [Tibber Pulse of HomeWizard P1](/posts/tibber-pulse-p1-meter-review-2026/) koppel je jouw meter direct aan de app. Dit is een van de eerste dingen die je in een nieuwe woning kunt regelen: het geeft vanaf dag één inzicht in het verbruiksprofiel, wat handig is bij het instellen van een dynamisch contract.
 
 ---
 
@@ -203,7 +204,7 @@ Dit overkomt meer mensen dan je denkt. Bel direct je netbeheerder (Enexis, Liand
 
 ## Verhuistaken-planning
 
-De energieoverstap is één van de tientallen taken die bij een verhuizing komen kijken. Ik gebruik zelf en adviseer [verhuisplanner.app](https://verhuisplanner.app) om al die taken overzichtelijk bij te houden: van adreswijzigingen en energiecontracten tot het regelen van de verzekeringen en het omzetten van abonnementen. Het scheelt een hoop vergeten taken en last-minute stress.
+De energieoverstap is één van de tientallen taken die bij een verhuizing komen kijken. Een verhuisplanner zoals [verhuisplanner.app](https://verhuisplanner.app) houdt al die taken overzichtelijk bij: van adreswijzigingen en energiecontracten tot het regelen van de verzekeringen en het omzetten van abonnementen. Dat scheelt vergeten taken en last-minute stress.
 
 Specifiek voor energie: plan in de app een herinnering om het contract minimaal 4 weken voor de verhuisdatum te melden, en een herinnering voor de dag ná oplevering om de meterstand te controleren in de nieuwe woning.
 
@@ -227,7 +228,7 @@ Alles elektrisch (warmtepomp, inductiekookplaat). Je verbruik van elektriciteit 
 
 ### Thuisbatterij als buffer
 
-Overweeg je een plug-in thuisbatterij zoals <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a> of de Marstek Venus? Met een dynamisch contract laad je die op in de goedkoopste nachturen (01:00–06:00) en ontlaad je tijdens de dure avonduren. Bij een goede setup bespaart dat €280–€420 per jaar. Zie [dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
+Overweeg je een plug-in thuisbatterij zoals <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a> of de Marstek Venus? Met een dynamisch contract laad je die op in de goedkoopste uren (doorgaans 's nachts) en ontlaad je tijdens de dure avonduren. Wat dat oplevert, hangt volledig af van de batterijcapaciteit, het aantal cycli per jaar en het dagelijkse prijsverschil op de spotmarkt — er is geen vast bedrag te noemen. Een doorrekening met expliciete aannames staat in [dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
 ---
 

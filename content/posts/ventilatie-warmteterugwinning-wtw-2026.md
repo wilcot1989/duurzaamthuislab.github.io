@@ -1,7 +1,7 @@
 ---
 title: Ventilatie met Warmteterugwinning (WTW) 2026
 date: 2026-06-12 10:00:00+01:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Alles over ventilatie met warmteterugwinning (WTW) in 2026. Kosten €3.000-€6.000, werking, besparing op energierekening en de beste WTW units vergeleken.
 categories:
 - isolatie

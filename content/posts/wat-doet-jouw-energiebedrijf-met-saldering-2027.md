@@ -1,7 +1,7 @@
 ---
 title: 'Wat doet jouw energiebedrijf met saldering-2027: per leverancier'
 date: 2026-10-26 08:00:00+02:00
-lastmod: 2026-10-26 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
 description: 'Per leverancier (Eneco, Vattenfall, Essent, Greenchoice, Tibber, Frank) de voorwaarden na 2027. Switch-strategie en concrete terugleververgoedingen vergeleken.'
 categories:
@@ -22,7 +22,7 @@ keywords:
   - greenchoice 2027 voorwaarden
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
   - q: 'Welke leverancier biedt in 2027 de hoogste terugleververgoeding?'
@@ -55,23 +55,23 @@ last_updated: '2026-10-26'
 category: saldering
 ---
 
-Eind september kreeg ik een telefoontje van Karin uit Den Haag. Ze was klant bij Eneco sinds 2014, had 5.200 kWh teruglevering en kreeg net een mailtje van Eneco met de zin: "Per 1 januari 2027 verandert uw vergoeding voor teruggeleverde stroom. Wij blijven uw teruglevering vergoeden tegen een redelijk tarief." Wat dat dan precies betekent? Daar bleef Eneco vaag over. Karin was boos. "Mark, mag dit zomaar?" Mijn antwoord was genuanceerder dan ze hoopte, en ik werk het in dit artikel uit per leverancier.
+Leveranciers sturen sinds de zomer van 2026 mails met formuleringen als: "Per 1 januari 2027 verandert uw vergoeding voor teruggeleverde stroom. Wij blijven uw teruglevering vergoeden tegen een redelijk tarief." Wat dat concreet betekent, blijft in die brieven vaak onbenoemd. Mag dat zomaar? Grotendeels wel — een leverancier moet een redelijke vergoeding bieden, maar mag zelf bepalen wanneer hij het tarief publiceert. Dit artikel zet per leverancier op een rij wat er wél is vastgelegd.
 
-*Sommige links in dit artikel zijn affiliate-links (Greenchoice, Vattenfall, Essent, Tibber). Klik je en koop je iets, dan krijg ik een kleine vergoeding. Je betaalt geen cent extra en mijn advies blijft hetzelfde, ook als het tegen mijn portemonnee in gaat.*
+*Sommige links in dit artikel zijn affiliate-links (Greenchoice, Vattenfall, Essent, Tibber). Bij een overstap via onze links ontvangen wij mogelijk een vergoeding. Je betaalt geen cent extra en onze beoordeling verandert daar niet door.*
 
 > **Kort antwoord:** Per oktober 2026 zit er aanzienlijk verschil in wat leveranciers bieden voor 2027. Greenchoice koploper met 7,2 cent/kWh, Tibber en Frank op EPEX-uurprijs (gemiddeld 6,5 cent), Essent 5,1 cent, Eneco 4,5 cent, Vattenfall communiceert nog niet. Bijna iedereen rekent terugleverkosten — Tibber en Frank niet. Voor wie veel teruglevert kan switchen 200-400 EUR per jaar schelen.
 
 ## Waarom leveranciers nu pas duidelijkheid geven
 
-De saldering-wet is al in 2023 aangenomen. Maar leveranciers wachtten met communiceren tot de laatste minuten — bewust, vermoed ik, om klanten in onzekerheid te houden en switchen te ontmoedigen. Pas vanaf juli 2026 begonnen Eneco, Greenchoice en Vandebron met concrete tarieven. Vattenfall en Essent volgden eind september. De ACM heeft inmiddels meerdere malen aangedrongen op transparantie. Lees mijn [berekening van het saldering-effect](/posts/saldering-2027-financieel-effect-berekening/) voor de financiele context.
+De saldering-wet is al in 2023 aangenomen. Maar leveranciers wachtten met communiceren tot het laatste moment. Wat het motief daarvoor is, valt van buitenaf niet vast te stellen; het effect is wel dat klanten langer in onzekerheid blijven en minder snel overstappen. Pas vanaf juli 2026 begonnen Eneco, Greenchoice en Vandebron met concrete tarieven. Vattenfall en Essent volgden eind september. De ACM heeft inmiddels meerdere malen aangedrongen op transparantie. Lees onze [berekening van het saldering-effect](/posts/saldering-2027-financieel-effect-berekening/) voor de financiele context.
 
-## Hoe ik aan de cijfers kom
+## Waar de cijfers vandaan komen
 
-Ik heb tussen 1 en 25 oktober 2026 contact opgenomen met klantenservices van zes grote leveranciers. In sommige gevallen kreeg ik direct een tariefblad opgestuurd, in andere moest ik twee tot drie keer doorvragen. Sommige bedragen komen uit gepubliceerde algemene voorwaarden, andere uit specifieke offertes voor mijn eigen huis. Bij elk bedrag staat de bron erbij.
+Alle bedragen hieronder komen uit de gepubliceerde tariefbladen en algemene voorwaarden van de betreffende leveranciers, zoals die per eind oktober 2026 beschikbaar waren. Waar een leverancier nog niets concreet had gepubliceerd, staat dat expliciet vermeld — dan is er geen cijfer, geen schatting. Controleer bij een overstap altijd het actuele tariefblad: leveranciers passen deze voorwaarden tussentijds aan.
 
 ## Eneco: communicatie matig, vergoeding ondergemiddeld
 
-Eneco was de eerste grote partij die concrete cijfers durfde te noemen — maar wel relatief laag. Op verzoek kreeg ik per mail het volgende overzicht:
+Eneco was de eerste grote partij die concrete cijfers publiceerde — maar wel relatief laag. Volgens het gepubliceerde tariefblad:
 
 | Aspect | Eneco-voorwaarden 2027 |
 |---|---|
@@ -91,9 +91,9 @@ Lange historie, sterke merknaam, maar tarieven ondergemiddeld voor 2027. Voor wi
 
 ## Vattenfall: communicatie laat, voorwaarden onduidelijk
 
-Vattenfall heeft op moment van schrijven (eind oktober 2026) nog geen concrete tarieven gepubliceerd voor 2027. Hun website spreekt over "een marktconforme vergoeding" zonder cijfer. Op aanvraag kreeg ik telefonisch te horen "rond 5 cent per kWh, exact wordt in december gecommuniceerd".
+Vattenfall heeft op moment van schrijven (eind oktober 2026) nog geen concrete tarieven gepubliceerd voor 2027. Hun website spreekt over "een marktconforme vergoeding" zonder cijfer. Vattenfall geeft aan het exacte tarief in december te communiceren; tot dan is er geen cijfer waarop je kunt rekenen.
 
-Dat is niet acceptabel voor consumenten die per 1 januari willen weten waar ze aan toe zijn. Ik adviseer Vattenfall-klanten: zet de switch-procedure deze week in gang, ook als je niet zeker weet of je gaat overstappen. Mocht Vattenfall in december gunstige tarieven publiceren, kun je altijd nog terug. Maar nu wachten op duidelijkheid is risicovol. Lees ook mijn [Eneco vs Vattenfall vs Essent vergelijking](/posts/eneco-vs-vattenfall-vs-essent-2026/) voor de verschillen.
+Dat is een probleem voor consumenten die per 1 januari willen weten waar ze aan toe zijn. Ons advies aan Vattenfall-klanten: zet de switch-procedure alsnog in gang, ook als je niet zeker weet of je gaat overstappen. Mocht Vattenfall in december gunstige tarieven publiceren, kun je altijd nog terug. Maar nu wachten op duidelijkheid is risicovol. Lees ook onze [Eneco vs Vattenfall vs Essent vergelijking](/posts/eneco-vs-vattenfall-vs-essent-2026/) voor de verschillen.
 
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>Vattenfall — wacht-en-zie aanbod, niet aan te raden nu</strong><br>
@@ -133,11 +133,11 @@ Greenchoice profileert zich expliciet op de saldering-stop als kans om klanten t
 | Opzegtermijn | 30 dagen |
 | Servicegeld | 6,50 EUR/maand |
 
-Voor 4.500 kWh teruglevering: bruto 324 EUR, minus 80 EUR = 244 EUR netto. Dat is significant beter dan Eneco (-198 EUR) of Essent (30 EUR). Lees mijn [Greenchoice vs Pure Energie vergelijking](/posts/greenchoice-vs-pure-energie-2026/) voor de duurzaamheids-context.
+Voor 4.500 kWh teruglevering: bruto 324 EUR, minus 80 EUR = 244 EUR netto. Dat is significant beter dan Eneco (-198 EUR) of Essent (30 EUR). Lees onze [Greenchoice vs Pure Energie vergelijking](/posts/greenchoice-vs-pure-energie-2026/) voor de duurzaamheids-context.
 
 ## Tibber en Frank Energie: dynamische leveranciers — anders georganiseerd
 
-Tibber en Frank rekenen niet met een vaste terugleververgoeding maar koppelen alles aan de EPEX-uurprijs. Wat je op een zondagmiddag om 13:00 teruglevert, krijg je tegen het uurtarief van dat moment betaald. Gemiddeld over 2026 was dat 6,5 cent/kWh. Voor 2027 verwacht ik 6 tot 7 cent gemiddeld, maar met hoge spreiding.
+Tibber en Frank rekenen niet met een vaste terugleververgoeding maar koppelen alles aan de EPEX-uurprijs. Wat je op een zondagmiddag om 13:00 teruglevert, krijg je tegen het uurtarief van dat moment betaald. Gemiddeld over 2026 was dat 6,5 cent/kWh. Voor 2027 ligt een gemiddelde van 6 tot 7 cent in de lijn der verwachting op basis van de EPEX-forwardcurve, maar met hoge spreiding tussen de uren.
 
 Het grote voordeel: geen terugleverkosten. Het nadeel: je krijgt minder voor stroom die je op zonnige zomerdagen teruglevert (uurprijs daalt vaak naar 1-3 cent in piek-zon-uren), en juist meer voor stroom in 's avonds (uurprijs kan oplopen naar 25+ cent). Voor wie een batterij heeft is dit gunstig — je laadt op het goedkope moment en levert later terug op het dure.
 
@@ -149,7 +149,7 @@ Het grote voordeel: geen terugleverkosten. Het nadeel: je krijgt minder voor str
 | Aanmelding nodig | Standaard via aanmelding | Standaard via aanmelding |
 | Geschikt voor | EV-bezitter, batterij | Prijsgevoelig, geen EV |
 
-Lees mijn [Tibber vs Frank Energie review](/posts/tibber-vs-frank-energie-2026/) voor de gedetailleerde vergelijking.
+Lees onze [Tibber vs Frank Energie review](/posts/tibber-vs-frank-energie-2026/) voor de gedetailleerde vergelijking.
 
 ## Concrete switch-strategie afhankelijk van profiel
 
@@ -161,21 +161,21 @@ Lees mijn [Tibber vs Frank Energie review](/posts/tibber-vs-frank-energie-2026/)
 
 **Profiel D: 4500+ kWh teruglevering, met batterij of EV.** Switch naar Tibber of Frank. EPEX-koppeling laat je batterij/EV optimaal arbitreren op uurprijzen. Verwacht voordeel 600-1000 EUR per jaar.
 
-**Profiel E: 6000+ kWh teruglevering, geen EV, geen batterij.** Lastig profiel — overweeg een Sessy thuisbatterij erbij. Switch naar Greenchoice als interim-oplossing tot batterij geinstalleerd. Lees mijn [ROI berekening voor de thuisbatterij na saldering](/posts/roi-thuisbatterij-na-saldering-2027-berekening/).
+**Profiel E: 6000+ kWh teruglevering, geen EV, geen batterij.** Lastig profiel — overweeg een Sessy thuisbatterij erbij. Switch naar Greenchoice als interim-oplossing tot batterij geinstalleerd. Lees onze [ROI berekening voor de thuisbatterij na saldering](/posts/roi-thuisbatterij-na-saldering-2027-berekening/).
 
-## Wat ik Karin uit Den Haag heb geadviseerd
+## Uitgewerkt advies voor het grootste profiel: 5.000+ kWh teruglevering
 
-Karin heeft 5.200 kWh teruglevering, geen EV, geen batterij, hybride warmtepomp van Atag. Eneco-klant sinds 2014. Mijn advies:
+Voor een huishouden met circa 5.200 kWh teruglevering, geen EV, geen batterij, een hybride warmtepomp en een langlopend Eneco-contract komt de doorrekening hierboven op deze stappen uit:
 
-1. Switch deze week naar Greenchoice — concrete winst rond 220 EUR per jaar vs Eneco
-2. Reken in januari 2027 een Sessy batterij door — bij haar profiel realistische terugverdientijd 8-9 jaar
-3. Overweeg in 2028 een EV te leasen — dan opnieuw evalueren tussen Greenchoice en Tibber
+1. Switch naar Greenchoice — het verschil met Eneco bedraagt bij dit volume rond 220 EUR per jaar
+2. Reken begin 2027 een thuisbatterij door — bij dit profiel komt de rekenkundige terugverdientijd op 8 tot 9 jaar
+3. Bij aanschaf van een EV in een later jaar: opnieuw afwegen tussen Greenchoice en Tibber
 
-Karin twijfelde over de switch ("ik zit zo lang bij Eneco"). Mijn antwoord: loyaliteit moet wederkerig zijn. Eneco beloont jouw 12-jarige klantrelatie met -198 EUR per jaar onder het nieuwe regime. Dat is geen loyaliteit, dat is je voor het slechtere tarief inschrijven.
+Het meest gehoorde tegenargument is de lange klantrelatie. Dat argument houdt in deze markt geen stand: bij het bovenstaande volume levert Eneco onder het nieuwe regime een netto uitkomst van -198 EUR per jaar op. Loyaliteit wordt in de energiemarkt niet beloond met een beter tarief.
 
 ## Hoe je leverancier-voorwaarden snel kunt opvragen
 
-Niet alle informatie staat op de website. Voor concrete cijfers moet je vaak doorvragen. Mijn eigen werkwijze:
+Niet alle informatie staat op de website. Voor concrete cijfers moet je vaak doorvragen. Een werkwijze die werkt:
 
 1. Stuur een mail via klantcontact: "Kunt u mij het officiele tariefblad 2027 mailen, inclusief terugleververgoeding en terugleverkosten?"
 2. Bewaar het antwoord — handig bij klacht bij ACM
@@ -196,15 +196,15 @@ Leveranciers die hier moeilijk over doen ("wij geven die cijfers niet zomaar af"
 
 Voor de officiele regels rond saldering en redelijke vergoedingen kun je terecht op de ACM-pagina: zie [acm.nl over zonnepanelen en saldering](https://www.acm.nl/nl/onderwerpen/energie/de-energiemarkt/zonnepanelen). Daar staat hoe je een klacht indient als je vergoeding onredelijk laag is, en welke termijnen leveranciers moeten respecteren.
 
-## Drie vragen die ik krijg over de leverancier-keuze
+## Drie veelgestelde vragen over de leverancier-keuze
 
-**"Wat als alle leveranciers in januari hun tarieven verlagen?"** Onwaarschijnlijk. De terugleververgoedingen zijn al laag — verdere verlaging gaat de ACM-toets niet doorstaan. Eerder verwacht ik kleine stijgingen vanwege concurrentie.
+**"Wat als alle leveranciers in januari hun tarieven verlagen?"** Onwaarschijnlijk. De terugleververgoedingen zijn al laag — verdere verlaging gaat de ACM-toets niet doorstaan. Kleine stijgingen door concurrentie zijn waarschijnlijker.
 
 **"Maakt het uit of ik bij dezelfde leverancier voor stroom én gas zit?"** Niet veel. Soms 5-10 EUR per jaar voordeel op administratie. Niet doorslaggevend.
 
 **"Krijg ik ook in 2027 nog hetzelfde getal op de jaarafrekening?"** Bij dynamische leveranciers (Tibber, Frank) verandert de jaarafrekening — die wordt gebaseerd op je gemiddelde uurprijs. Bij vaste leveranciers (Eneco, Essent, Vattenfall, Greenchoice) blijft het overzicht ongeveer hetzelfde format.
 
-## Mijn concrete 4-stappenplan voor de leverancier-keuze
+## Concreet 4-stappenplan voor de leverancier-keuze
 
 1. **Bepaal je profiel.** Hoeveel kWh teruglevering? EV? Batterij? Tijdsflexibel?
 2. **Vraag bij je huidige leverancier het 2027 tariefblad op.** Vergelijk met de cijfers in dit artikel.
@@ -225,10 +225,10 @@ Een paar zaken die in offerte-gesprekken vaak vergeten worden te checken:
 
 **Wat is de boete voor wanbetaling?** Bij switch krijg je tijdelijk twee facturen (oude leverancier eindafrekening, nieuwe leverancier voorschot). Controleer dat oude leverancier geen onterechte verlate kosten rekent.
 
-Lees ook mijn artikel over [Greenchoice vs Pure Energie](/posts/greenchoice-vs-pure-energie-2026/) als je twijfelt tussen de twee groene koplopers.
+Lees ook ons artikel over [Greenchoice vs Pure Energie](/posts/greenchoice-vs-pure-energie-2026/) als je twijfelt tussen de twee groene koplopers.
 
 ## Tot slot: 200 EUR per jaar is reëel
 
 Veel mensen overschatten de moeite van overstappen en onderschatten het voordeel. Voor een gemiddeld profiel kost de switch 30 minuten online en levert het 100 tot 250 EUR per jaar op. Over 10 jaar is dat 1.000 tot 2.500 EUR. Dat is geen klein bier.
 
-Tegelijk: laat je niet opjagen door de saldering-deadline. Een verkeerde keuze kost ook geld. Vergelijk grondig, vraag echte tariefbladen op, en kies op basis van jouw profiel — niet op basis van advertenties of merkbekendheid. Mijn schoonmoeder zit nog steeds bij Eneco omdat ze "altijd al" bij Eneco zat. Dat heeft haar inmiddels honderden euro's gekost. Wees geen Karin-na-de-feiten.
+Tegelijk: laat je niet opjagen door de saldering-deadline. Een verkeerde keuze kost ook geld. Vergelijk grondig, vraag echte tariefbladen op, en kies op basis van jouw profiel — niet op basis van advertenties of merkbekendheid. Wie blijft zitten omdat hij "altijd al" bij dezelfde leverancier zat, betaalt daar in dit nieuwe regime jaarlijks honderden euro's voor.

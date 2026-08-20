@@ -1,8 +1,8 @@
 ---
 title: EcoFlow Delta Pro Ultra review 2026 — whole-home backup
 date: 2026-11-15 08:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: De EcoFlow Delta Pro Ultra is hun topmodel voor whole-home backup en off-grid. Volledige review na 4 maanden testen — wel of niet kopen?
+lastmod: '2026-08-20 08:00:00+02:00'
+description: De EcoFlow Delta Pro Ultra is het topmodel voor whole-home backup en off-grid. Specificaties, kosten, arbitrage-potentieel en voor wie hij wel of niet logisch is.
 categories:
 - thuisbatterijen
 - noodstroom
@@ -22,7 +22,7 @@ keywords:
 - noodstroom huis
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1542601906990-b4d3fb778b09&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is de EcoFlow Delta Pro Ultra?'
@@ -33,7 +33,7 @@ faq:
   a: 'Drie profielen: (1) mensen in stroomstoringsgevoelige regio of met medische apparatuur thuis, (2) (semi-)off-grid woningen (recreatiewoning, caravan-permanent), (3) preppers en autonomie-zoekers. Voor normaal NL huishouden: overkill — kies Sessy of Marstek.'
 - q: 'Werkt het als reguliere thuisbatterij met dynamisch contract?'
   a: 'Ja, sinds firmware 4.2 (oktober 2026) ondersteunt EcoFlow API-koppeling met Tibber en Frank. Eigen handelsalgoritme nog primitief — €60-€90/mnd verdienpotentieel bij 18 kWh. Fors minder dan Sessy of Anker. Hoofdaanbod is backup, niet arbitrage.'
-- q: 'Hoe lang houdt het systeem mijn huis draaiend bij stroomuitval?'
+- q: 'Hoe lang houdt het systeem een huis draaiend bij stroomuitval?'
   a: 'Bij 18 kWh + gemiddeld huishoudverbruik (1,5 kW continu): ongeveer 12 uur. Met zonnepanelen die overdag herladen: meerdere dagen. Voor whole-home backup tijdens lange storingen: kies 30+ kWh configuratie.'
 - q: 'Heb ik 3-fase nodig?'
   a: 'Niet verplicht. De Delta Pro Ultra werkt op 1-fase 1x35A standaard. Bij 2-3 units parallel en zware woningen: 3-fase aanbevolen. Flexibeler dan Sessy Pro of Marstek Jupiter wat aansluiting betreft.'
@@ -56,9 +56,9 @@ schema_type: Review
 
 *Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
-In juli belde mijn oom Henk vanuit Drenthe. Twee stroomstoringen achter elkaar van 8 en 14 uur. Vriezer leeg, CV uit, de warmtepomp deed het 24 uur lang niet. "Mark, hoe regel ik dat dit nooit meer gebeurt?"
+Wie in een storingsgevoelige regio woont, kent het scenario: een storing van acht of veertien uur, vriezer die ontdooit, warmtepomp die uit staat. De meeste thuisbatterijen zijn daar niet voor gebouwd — die voeden bij uitval alleen een aparte noodgroep. De EcoFlow Delta Pro Ultra is dat wel: een systeem dat primair voor whole-home backup en off-grid is ontworpen, met arbitrage als bijzaak.
 
-Ik heb hem een EcoFlow Delta Pro Ultra aangeraden — geen reguliere thuisbatterij die toevallig backup kan, maar een systeem dat speciaal voor backup is gebouwd. Vier maanden meegelopen na installatie. Dit is mijn eerlijke verhaal.
+Wij vergelijken de Delta Pro Ultra op basis van de fabrieksspecificaties, de installatie- en firmwaredocumentatie van EcoFlow, geverifieerde gebruikersreviews en publieke data van Netbeheer Nederland over storingsduur per regio.
 
 ---
 
@@ -79,30 +79,24 @@ EcoFlow is een Chinees-Amerikaanse fabrikant die in 2017 begon met portable powe
 
 EcoFlow positioneert dit niet als "thuisbatterij voor arbitrage", maar als "backup + off-grid + arbitrage als bonus". Belangrijk onderscheid.
 
-## Henks situatie
+## Referentieprofiel voor dit artikel
 
-- Vrijstaande boerderij in Drenthe (storingsgevoelige regio)
+De berekeningen verderop gaan uit van één modelprofiel. Het is een rekenvoorbeeld, geen gemeten praktijkgeval:
+
+- Vrijstaande woning in een storingsgevoelige regio (Noord-Nederland)
 - 22 zonnepanelen op zuid-dak (8 kWp)
-- Verbruik: 5.500 kWh/jaar (huishouden van 3 + warmtepomp + vriezer + computers)
-- 1-fase aansluiting 1x40A
-- Geen EV
+- Verbruik: 5.500 kWh/jaar (huishouden van 3, warmtepomp, vriezer, thuiswerkplek)
+- 1-fase aansluiting 1x40A, geen elektrische auto
 - Eis: backup van het hele huis voor minimaal 24 uur
-- Dynamisch contract bij Frank Energie
+- Dynamisch contract
 
-Hij koos de EcoFlow Delta Pro Ultra 18 kWh configuratie. Installatie oktober 2026. Vier maanden later: één stroomstoring overleefd zonder een knipperend lampje.
+Bij dit profiel is de 18 kWh-configuratie (3 × 6 kWh) de logische keuze: genoeg om een gemiddeld huishoudverbruik van circa 1,5 kW ruwweg twaalf uur te dragen, en met zonnepanelen die overdag bijladen meerdere dagen.
 
-## Vier maanden in cijfers
+## Arbitrage-potentieel: het zwakke punt
 
-| Maand | Stroomrekening | EcoFlow arbitrage | Eigen verbruik boost | Stroomstoring uren | Netto |
-|---|---|---|---|---|---|
-| Aug '26 | €115 | €65 | €48 | 0 | +€2 |
-| Sep '26 | €165 | €78 | €58 | 2 | +€29 |
-| Okt '26 | €215 | €82 | €62 | 6 | +€71 |
-| Nov '26 | €275 | €70 | €58 | 14 (!) | +€147 |
+EcoFlow noemt de Delta Pro Ultra zelf een backup- en off-gridsysteem, en dat is terug te zien in het handelsalgoritme. De "Smart Energy"-strategie is conservatief: het systeem laadt en ontlaadt op dag-nachtverschillen, maar benut de scherpe uurpieken minder agressief dan de Nederlandse concurrentie. Op basis van de door aanbieders gecommuniceerde opbrengsten en gebruikersrapportages ligt het verdienpotentieel bij 18 kWh in de orde van €60-€90 per maand, tegen €120-€180 bij Sessy Pro, Anker Solix X1 of Marstek Jupiter met vergelijkbare capaciteit.
 
-**Totaal vier maanden**: €770 stroom betaald, €295 arbitrage, €226 eigen verbruik = effectieve kosten €249.
-
-De arbitrage is duidelijk lager dan bij Sessy Pro (~€150/mnd) of Anker X1 (~€140/mnd). EcoFlow's handelsalgoritme is conservatiever en mist veel spotmarkt-kansen. **Maar**: Henk heeft in vier maanden 22 uur stroomstoring overleefd zonder enige overlast. Voor hem is dat de kern van zijn investering — niet de arbitrage.
+Dat verschil is geen detail: over tien jaar loopt het op tot enkele duizenden euro's. Wie een batterij vooral koopt om te handelen op de spotmarkt, moet hier niet zijn. Wie hem koopt om bij uitval het hele huis draaiend te houden, betaalt bewust voor iets anders.
 
 ## Wat de Delta Pro Ultra uniek maakt
 
@@ -110,7 +104,7 @@ De arbitrage is duidelijk lager dan bij Sessy Pro (~€150/mnd) of Anker X1 (~�
 
 De meeste thuisbatterijen (Sessy, Marstek, Tesla) voeden bij stroomuitval een aparte backup-groep — meestal koelkast, lampen, router. De Delta Pro Ultra kan het hele huis voeden, inclusief warmtepomp, inductie, wasdroger. Tot 7,2 kW continu.
 
-Bij Henks 14-uur stroomstoring in november: warmtepomp draaide door, vriezer bleef koud, hij heeft zelfs nog gekookt. Andere gezinnen in de straat zaten met dekens om koude koffie te bedenken.
+In de praktijk betekent dat: bij een langdurige storing blijven warmtepomp, vriezer en kookvoorziening werken, zolang je binnen de 7,2 kW piekvermogen en de beschikbare capaciteit blijft. Bij een noodgroep-oplossing van andere fabrikanten valt de verwarming meestal wel uit.
 
 ### 2. Modulair tot 270 kWh
 
@@ -136,9 +130,7 @@ Veel concurrenten vereisen een dure transferschakelaar (€800-€1.500) om een 
 
 ### 1. Arbitrage is matig
 
-Dit is de grootste limiet. EcoFlow's "Smart Energy" algoritme is conservatief. In Henks praktijk: €70-€80/maand vs Sessy Pro €150/mnd bij identiek profiel. Verlies: €70-€80/maand × 12 = €840-€960/jaar minder arbitrage-opbrengst.
-
-Over 10 jaar: €8.000-€9.600 minder opbrengst dan optimaal algoritme. Dat is fors. **Voor wie alleen arbitrage wil**: kies Sessy Pro of Marstek Jupiter.
+Dit is de grootste limiet, en de reden waarom dit systeem geen arbitrage-aankoop is. Het verschil met de Nederlandse concurrentie loopt volgens de gecommuniceerde opbrengstindicaties op tot €60-€90 per maand bij vergelijkbare capaciteit — op jaarbasis honderden euro's, over de levensduur enkele duizenden. **Voor wie alleen arbitrage wil**: kies Sessy Pro of Marstek Jupiter.
 
 ### 2. Garantie korter
 
@@ -177,13 +169,13 @@ EcoFlow-app werkt, maar mist de NL-marktintegratie van Sessy of de UI-kwaliteit 
 **Sessy Pro** wint op arbitrage en NL-marktintegratie.
 **Anker Solix X1** wint op vermogen + EV-integratie.
 
-## Concrete jaarberekening: Henks boerderij
+## Modelberekening voor het referentieprofiel
 
-**Profiel**: 5.500 kWh/jaar verbruik, 22 zonnepanelen, geen EV, in storingsgevoelige regio (~25 uur storing/jaar).
+Onderstaande tabel is een **modelberekening** met expliciete aannames, geen gemeten resultaat. Aannames: 5.500 kWh/jaar verbruik, 22 zonnepanelen, geen EV, storingsgevoelige regio, dynamisch contract, en de arbitrage-indicatie uit de vorige paragraaf.
 
-| Bron van besparing/waarde | Schatting jaar | Toelichting |
+| Bron van besparing/waarde | Modelschatting per jaar | Toelichting |
 |---|---|---|
-| EcoFlow arbitrage batterij | €840/jaar | €70/mnd gemiddeld |
+| EcoFlow arbitrage batterij | €840/jaar | gerekend met €70/mnd |
 | Eigen verbruik boost zonne | €680/jaar | 1.600 kWh meer eigen verbruik × €0,425 |
 | Saldering-stop voorkomen (2027+) | €600/jaar | 2.000 kWh teruglevering opgevangen |
 | Stroomstoring schade vermeden | €400/jaar | Voorraad redden + comfort + werk doorgang |
@@ -192,7 +184,7 @@ EcoFlow-app werkt, maar mist de NL-marktintegratie van Sessy of de UI-kwaliteit 
 
 Kosten EcoFlow 18 kWh: €8.995 / 8 jaar (conservatieve afschrijving) = €1.125/jaar. Plus €40/jaar verzekering = €1.165/jaar.
 
-**Netto voordeel**: €1.505/jaar. **Terugverdientijd**: 6 jaar. Niet de scherpste in absolute zin, maar de "stroomstoring-vermeden" waarde is moeilijk in geld te vatten — voor Henk is dat de hoofdreden.
+**Netto modeluitkomst**: circa €1.500/jaar, ofwel een terugverdientijd van ruwweg 6 jaar. Let op de zwakste posten in dit model: "stroomstoring schade vermeden" en "geen aggregaat nodig" zijn schattingen van vermeden kosten, geen harde opbrengst. Reken je die niet mee, dan loopt de terugverdientijd op naar circa 8 jaar. En de post "saldering-stop voorkomen" geldt pas vanaf 2027.
 
 ## Voor wie is de Delta Pro Ultra slim?
 
@@ -211,17 +203,17 @@ Kosten EcoFlow 18 kWh: €8.995 / 8 jaar (conservatieve afschrijving) = €1.125
 - Budget onder €7.000
 - Geen zonnepanelen (overweeg eerst panelen — zie [zonnepanelen recreatiewoning](/posts/zonnepanelen-recreatiewoning-2026/))
 
-## Installatie-ervaring
+## Installatie: wat er gebeurt
 
-Henks installatie: één hele dag, twee EcoFlow-partner monteurs. Inclusief:
+Een 18 kWh-installatie kost volgens EcoFlow-partners doorgaans één werkdag met twee monteurs. Wat daarbij hoort:
 - Modulaire opbouw 3 × 6 kWh units = 18 kWh
 - Solar input koppeling
 - Generator-input voorbereiding (zonder generator zelf)
 - 1-fase woninginstallatie
-- Frank Energie API-koppeling
+- API-koppeling met de dynamische leverancier
 - Whole-home backup-modus configuratie
 
-Wat goed ging: snel, schoon, alle functies getest. Wat minder: monteurs waren minder NL-specifiek opgeleid dan Sessy-monteurs. Vragen over Nederlandse netbeheerder-procedures kostten extra telefoontjes.
+Een terugkerend punt in gebruikersreviews: het installatienetwerk van EcoFlow is internationaal opgezet en minder ingespeeld op Nederlandse netbeheerder-procedures dan de monteursnetwerken van Sessy of Marstek. Vraag vooraf na wie de melding bij de netbeheerder verzorgt.
 
 **Aandachtspunten vooraf**:
 - 1,5-2 m² vrije ruimte voor units + ventilatie
@@ -229,18 +221,18 @@ Wat goed ging: snel, schoon, alle functies getest. Wat minder: monteurs waren mi
 - Bij solar input: bestaande omvormer compatibel checken
 - Voor generator-aansluiting: aparte aanvoer naar buiten
 
-## Software-ervaring
+## De EcoFlow-app: functies en beperkingen
 
-EcoFlow-app heb ik 4 maanden bij Henk gebruikt:
+Op basis van de app-documentatie en gebruikersreviews:
 
-**Wat werkt:**
+**Wat de app biedt:**
 - Real-time overzicht productie/verbruik/batterij
 - Multi-input dashboard (zon vs grid vs generator)
 - Stroomstoringsalert via push notificatie
-- Frank Energie API-koppeling (stabiel)
+- API-koppeling met Tibber en Frank Energie
 - Battery health monitoring per module
 
-**Wat minder werkt:**
+**Wat ontbreekt of zwakker is:**
 - Geen "wat heeft Smart Energy verdiend?" feel-good cijfer
 - Voorspellingsmodel ontbreekt
 - Geen Home Assistant native integratie (alleen via cloud API)
@@ -299,7 +291,7 @@ EcoFlow is opgericht in 2017 door ex-DJI engineers. Sterk in product-design, sne
 - Update-rollouts soms vertraagd voor NL-markt
 - Garantie-aanvragen via importeur (extra schakel)
 
-In Henks praktijk werkt het allemaal — geen klachten, geen storingen. Maar als je Sessy-niveau service verwacht: temper je verwachtingen.
+Ons oordeel: de hardware is niet het risico, de serviceketen is dat. Wie de zekerheid van een dicht Nederlands monteursnetwerk belangrijker vindt dan modulariteit en generator-input, komt bij Sessy beter uit.
 
 ## EcoFlow Pro Ultra vs eigen lijn: welk model past?
 
@@ -325,7 +317,7 @@ EcoFlow's whole-home backup is alleen relevant als je echt regelmatig stroomstor
 - Landelijk Zeeland: ~25-55 min/jaar
 - Recreatiewoningen / agrarisch: ~40-90 min/jaar
 
-Voor Henk in Drenthe: gemiddeld 50 min/jaar storing — maar in zijn specifieke dorp door verouderd net soms wel 5-8 uur per incident. Dat is precies waarom de Pro Ultra bij hem zinvol is.
+Belangrijk bij die cijfers: het gaat om gemiddelden. In dorpen met een verouderd net kan één incident 5-8 uur duren, terwijl het jaargemiddelde laag blijft. Vraag daarom bij je netbeheerder de storingshistorie van je eigen postcodegebied op — dat getal bepaalt of whole-home backup zinvol is, niet het landelijke gemiddelde.
 
 Voor stedelijk West-NL: 15 minuten storing per jaar is geen reden voor €9.000 backup-investering. Kies dan Sessy Pro of Marstek Jupiter voor de arbitrage-functie.
 
@@ -359,14 +351,14 @@ Voor wie nu koopt: je krijgt v4.2 en alle eerdere verbeteringen automatisch. Voo
 
 ## Generator-aansluiting: praktische details
 
-Henk heeft een generator-input voorbereid maar geen generator gekocht (€2.500 voor 5 kVA aggregaat). De Pro Ultra ondersteunt:
+Een generator-input voorbereiden bij de installatie kost weinig extra; de generator zelf (circa €2.500 voor 5 kVA) kun je later kopen. De Pro Ultra ondersteunt:
 - Benzine-generators (5-10 kVA aanbevolen)
 - Diesel-generators (groter MKB-segment)
 - Bi-fuel (propaan + benzine)
 
 **Auto-start**: bij langdurige stroomstoring + lege batterij + bewolkt weer kan de Pro Ultra automatisch een generator starten (via 12V signaal). Voor permanent off-grid: ideaal. Voor occasionele backup: vaak overkill.
 
-Henk's voorkeur: handmatig starten als hij na 12+ uur storing nog steeds in problemen zit. Eenvoudiger en goedkoper.
+Onze inschatting: voor incidentele backup is handmatig starten na een storing van 12 uur of langer voldoende — eenvoudiger, goedkoper en zonder het risico dat een aggregaat onbedoeld aanslaat.
 
 ## Onderhoud: wat moet je doen?
 
@@ -380,9 +372,9 @@ Vergelijking met Sessy: Sessy doet alles automatisch zonder gebruiker-input. Eco
 
 ---
 
-## Mijn aanbeveling
+## Ons oordeel
 
-Voor Henk was de EcoFlow Delta Pro Ultra de juiste keus: stroomstoringsgevoelige regio, whole-home backup nodig, geen verlangen naar maximale arbitrage. Investering van €8.995 voor 18 kWh is fors, maar terugverdientijd 6 jaar inclusief vermeden schade is redelijk.
+Voor het referentieprofiel hierboven — storingsgevoelige regio, whole-home backup als harde eis, arbitrage als bijzaak — is de Delta Pro Ultra de logische keuze. De €8.995 voor 18 kWh is een forse investering, maar in het model komt de terugverdientijd op 6 tot 8 jaar uit, afhankelijk van hoe hard je de vermeden schade meerekent.
 
 Voor mensen in stedelijk NL met betrouwbare netaansluiting: skip de Delta Pro Ultra. Het backup-voordeel weegt niet op tegen de €2.000-€3.000 minder arbitrage-opbrengst over 10 jaar. Kies Sessy Pro of Marstek Jupiter.
 

@@ -1,7 +1,7 @@
 ---
 title: 'Isolatie Subsidie Nederland 2026: Alle Regelingen en'
 date: 2026-05-27 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Compleet overzicht van alle isolatiesubsidies in 2026. ISDE, gemeentelijke subsidies, energiebespaarlening en subsidie per isolatiemaatregel.
 categories:
 - isolatie
@@ -18,12 +18,12 @@ keywords:
 - isolatie subsidie aanvragen
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: Welke isolatiesubsidies zijn er in 2026?
   a: 'De belangrijkste subsidie is de ISDE (Investeringssubsidie Duurzame Energie): €900-€3.800 per isolatiemaatregel afhankelijk van oppervlakte en Rc-waarde. Daarnaast zijn er gemeentelijke subsidies (€500-€2.500), de Energiebespaarlening (2,6% rente), en soms provinciale regelingen. Je kunt meerdere subsidies combineren.'
-- q: Hoeveel ISDE subsidie krijg ik voor isolatie?
+- q: Hoeveel ISDE subsidie krijgen wij voor isolatie?
   a: 'ISDE-bedragen in 2026: spouwmuurisolatie €900-€2.400, dakisolatie €1.200-€3.800, vloerisolatie €700-€1.800, gevelisolatie €1.500-€3.800, HR++ glas €95-€145 per m². De exacte hoogte hangt af van het geïsoleerde oppervlak en de behaalde Rc-waarde.'
 - q: Kan ik isolatiesubsidie combineren met andere subsidies?
   a: 'Ja, je kunt ISDE combineren met gemeentelijke subsidies en de Energiebespaarlening. Let op: bij sommige gemeentelijke regelingen wordt de ISDE verrekend. Combinatie met ISDE voor warmtepomp geeft een extra bonus van €500-€1.000 bovenop de individuele bedragen.'
@@ -39,7 +39,7 @@ products:
   price: '8000'
 schema_type: Article
 ---
-Mijn vloerisolatie kostte €2.800, maar na de ISDE-subsidie van €1.200 en een gemeentelijke bijdrage van €500 betaalde ik effectief €1.100. Terugverdientijd: 2,5 jaar. Isolatie is verreweg de snelst rendabele verduurzamingsmaatregel die ik heb gedaan — en ik raad iedereen aan om eerst te isoleren voordat je een warmtepomp overweegt. Hier vind je alle subsidies van 2026 op een rij.
+Vloerisolatie voor een gemiddelde tussenwoning kost rond de €2.800. Blijft er na een ISDE-subsidie van €1.200 en een gemeentelijke bijdrage van €500 nog €1.100 over, dan is de terugverdientijd bij een gasverbruik van 1.800 m³ ongeveer tweeënhalf jaar. Daarmee is isolatie de snelst rendabele verduurzamingsmaatregel die er is — en de reden dat wij aanraden eerst te isoleren en pas daarna een warmtepomp te overwegen. Hier vind je alle subsidies van 2026 op een rij.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
@@ -278,7 +278,7 @@ Appartementseigenaren kunnen via de VvE (Vereniging van Eigenaren) subsidie aanv
 
 ## Jaarberekening: concrete terugverdientijd per maatregel
 
-Ik reken dit door voor een representatieve tussenwoning uit 1975 met gasverbruik van 1.800 m³/jaar en gasprijs van €1,15/m³.
+Rekenvoorbeeld met de volgende aannames: representatieve tussenwoning uit 1975, gasverbruik 1.800 m³ per jaar, gasprijs €1,15/m³.
 
 **Gassrekening voor verduurzaming: €2.070/jaar**
 
@@ -322,7 +322,7 @@ Isolatie is geen kostenpost. Het is een investering die structureel geld oplever
 
 ## Veelgemaakte fouten (aangevuld)
 
-De fouten die ik als energieadviseur het vaakst tegenkom bij subsidieaanvragen:
+De fouten die bij subsidieaanvragen het vaakst tot afwijzing of tot een lager bedrag leiden:
 
 **Fout 7: Combinatiebonus niet combineren**
 Veel mensen voeren één maatregel uit en vragen ISDE aan. Maar de combinatiebonus (€500-€1.250) is alleen beschikbaar als je twee of meer maatregelen in dezelfde aanvraag opneemt. Plan maatregelen dus samen, ook al worden ze in twee bouwfases uitgevoerd — zolang de factuurdatums binnen 12 maanden van elkaar liggen, kun je ze combineren in één ISDE-aanvraag.
@@ -366,9 +366,9 @@ Praktijkgeval: een gezin met maximale leencapaciteit van €320.000 kan met ener
 
 ---
 
-## ISDE aanvragen: stap-voor-stap met screenshots (april 2026)
+## ISDE aanvragen: stap voor stap
 
-Ik heb mijn eigen ISDE-aanvraag voor vloerisolatie in april 2026 gedaan. Dit is het exacte proces.
+Hieronder het volledige aanvraagproces zoals RVO het voor woningeigenaren beschrijft, met de gegevens die je per stap nodig hebt.
 
 **Stap 1: Inloggen op mijn.rvo.nl**
 Ga naar rvo.nl → klik op "Mijn RVO" → log in met DigiD (of eHerkenning voor bedrijven). Je hebt minimaal DigiD betrouwbaarheidsniveau "Midden" nodig (via de DigiD app).
@@ -394,7 +394,7 @@ Verplicht te uploaden:
 **Stap 5: Indienen en bevestiging**
 Je ontvangt een bevestigingsmail met een referentienummer. Doorlooptijd: 6-13 weken voor uitbetaling. Bij goedkeuring wordt het bedrag binnen 2 weken na beslissing overgemaakt.
 
-**Mijn persoonlijke ervaring:** Het duurde 8 weken van indiening tot betaling. Geen contact nodig — het ging volledig automatisch.
+**Doorlooptijd in de praktijk:** RVO noemt zelf 6 tot 13 weken tussen indiening en uitbetaling. Aanvragen waarbij alle documenten in één keer compleet zijn, hebben geen aanvullend contact nodig en zitten aan de korte kant van die bandbreedte.
 
 ---
 
@@ -410,7 +410,7 @@ Een terugkerend punt van verwarring: ISDE aanvragen vóór of na de installatie?
 
 ---
 
-## Erkende installateurs vinden: hoe doe ik dat?
+## Erkende installateurs vinden: hoe pak je dat aan?
 
 Voor ISDE-subsidie moet de installateur bij RVO geregistreerd zijn. Maar hoe vind je er een die ook goed is?
 
@@ -466,7 +466,7 @@ Bij gelijktijdige uitvoering bespaar je op mobilisatiekosten van de aannemer. Ee
 - Totaal gecombineerd: €6.800 kosten (€1.200 bespaard op installatie), €2.400 ISDE
 - Nettokosten gecombineerd: €4.400 vs €5.600 apart
 
-Dat is bijna €1.200 extra voordeel, alleen door slim plannen. Mijn advies: laat nooit een maatregel uitvoeren als je weet dat je binnen 2 jaar een aangrenzende maatregel wil nemen.
+Dat is bijna €1.200 extra voordeel, alleen door slim plannen. Ons advies: laat nooit een maatregel uitvoeren als je weet dat je binnen 2 jaar een aangrenzende maatregel wil nemen.
 
 **Volgorde van aanvragen bij combinaties:**
 Je kunt meerdere maatregelen in één ISDE-aanvraag indienen, zolang ze op dezelfde factuur of tegelijk zijn gerealiseerd. Dit vereenvoudigt de administratie en verkleint de kans op fouten. Laat je installateur één gecombineerde factuur uitschrijven in plaats van losse facturen per maatregel — dat maakt de aanvraag stukken overzichtelijker voor de RVO-behandelaar.

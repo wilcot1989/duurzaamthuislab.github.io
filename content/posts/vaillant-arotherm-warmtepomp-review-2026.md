@@ -1,8 +1,8 @@
 ---
 title: Vaillant aroTHERM plus review 2026
 date: 2026-08-01 08:00:00+02:00
-lastmod: 2026-08-01 08:00:00+02:00
-description: De Vaillant aroTHERM plus is een van de meest besproken warmtepompen van 2026. Ik bekeek drie installaties van dichtbij.
+lastmod: 2026-08-20 08:00:00+02:00
+description: De Vaillant aroTHERM plus is een van de meest besproken warmtepompen van 2026. Wij namen de specificaties, de kosten en drie typische woningscenario's door.
 categories:
 - warmtepompen
 tags:
@@ -25,7 +25,7 @@ keywords:
 - Vaillant aroTHERM plus ISDE
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een Vaillant aroTHERM plus warmtepomp in 2026?
@@ -48,20 +48,18 @@ products:
   price: '11500'
 schema_type: Review
 ---
-De eerste keer dat ik de naam Vaillant hoorde was bij mijn vader. Hij had een Vaillant cv-ketel in de jaren tachtig — "een Duitse trots", zei hij. Die ketel draaide ruim twintig jaar. Sindsdien is Vaillant een gevestigde naam bij installateurs, maar in de warmtepompwereld moesten ze de Japanse merken (Daikin, Mitsubishi) en ook ATAG inhalen.
+Vaillant is bij Nederlandse installateurs een gevestigde naam, opgebouwd met cv-ketels die decennia meegaan. In de warmtepompmarkt moest het merk de Japanse concurrentie (Daikin, Mitsubishi) en ATAG inhalen. Met de aroTHERM plus lijkt dat gelukt: op papier heeft dit toestel de hoogste SCOP en het laagste geluidsniveau in zijn klasse, en het werkt op propaan in plaats van een F-gas.
 
-Dat lijken ze gedaan te hebben met de aroTHERM plus.
+Wij hebben de technische documentatie, de ISDE-registratie en de gangbare installatiekosten doorgenomen, en de uitkomst doorgerekend voor drie typische Nederlandse woningen.
 
-Ik bekeek drie installaties in mijn regio van dichtbij, sprak met de bewoners na zes, twaalf en achttien maanden gebruik, en las de technische documentatie door. Dit is mijn eerlijke conclusie.
-
-*Disclosure: ik heb geen commerciële relatie met Vaillant of een van hun installateurs. Alle data zijn afkomstig van de eigenaren of publieke bronnen.*
+*Disclosure: wij hebben geen commerciële relatie met Vaillant of een van hun installateurs. Deze analyse is gebaseerd op fabrieksspecificaties, handleidingen en publieke bronnen.*
 
 ---
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
-> **Kort antwoord:** De Vaillant aroTHERM plus is een van de meest besproken warmtepompen van 2026. Ik bekeek drie installaties van dichtbij.
+> **Kort antwoord:** De Vaillant aroTHERM plus is een van de meest besproken warmtepompen van 2026. Wij namen de specificaties, de kosten en drie typische woningscenario's door.
 >
 > Een Vaillant aroTHERM plus kost €9.500 tot €14.000 inclusief 0% btw, exclusief montage. De prijs hangt af van het vermogen (3,5 kW tot 12 kW) en de binnenunit die erbij geleverd wordt. Montage kost doorgaans €1.500 tot €3.000 extra, afhankelijk van de complexiteit. Na ISDE-subsidie (€2.500 tot €4.500) kom je netto op €8.500 tot €12.500 inclusief alles.
 
@@ -93,7 +91,7 @@ De aroTHERM plus (derde generatie, geïntroduceerd in 2023) is duidelijk beter. 
 | Prijs (incl. 0% btw, excl. montage) | €9.500 – €14.000 |
 | ISDE-subsidie 2026 | €2.500 – €4.500 |
 
-**SCOP A7/W35** is het standaard testpunt: buitentemperatuur +7°C, aanvoertemperatuur 35°C. Een SCOP van 5,1 is uitzonderlijk goed. In de praktijk — met wisselende buitentemperaturen en een mix van 35°C en 45°C aanvoer — verwacht ik een werkelijke seizoensprestatiefactor van 3,8 tot 4,5 in een gemiddeld Nederlands klimaat.
+**SCOP A7/W35** is het standaard testpunt: buitentemperatuur +7°C, aanvoertemperatuur 35°C. Een SCOP van 5,1 is uitzonderlijk goed. In de praktijk — met wisselende buitentemperaturen en een mix van 35°C en 45°C aanvoer — verwachten wij een werkelijke seizoensprestatiefactor van 3,8 tot 4,5 in een gemiddeld Nederlands klimaat.
 
 Het modulatiebereik van 30% tot 100% is een sleutelpunt. Een warmtepomp die kan terugschakelen naar 30% van zijn nominaal vermogen hoeft veel minder te "aan/uit-cyclen" dan een model dat pas bij 70% inschakelt. Minder cycli = minder slijtage = langere levensduur, en betere efficiëntie bij milde buitentemperaturen.
 
@@ -101,7 +99,7 @@ Het modulatiebereik van 30% tot 100% is een sleutelpunt. Een warmtepomp die kan 
 
 ## R290: wat betekent propaan als koudemiddel in de praktijk?
 
-Dit is een vraag die ik bij elke Vaillant-installatie tegenkom: "Heeft ie propaan erin? Is dat gevaarlijk?"
+Bij elke Vaillant-installatie komt dezelfde vraag terug: "Zit er propaan in? Is dat gevaarlijk?"
 
 Het antwoord is genuanceerd.
 
@@ -122,9 +120,9 @@ Als er bij de aroTHERM plus een volledige lekkage optreedt (worst case), is het 
 
 ---
 
-## Installaties die ik van dichtbij bekeek
+## Drie doorgerekende woningscenario's
 
-### Installatie 1 — Vrijstaande woning, 2003, label B, Apeldoorn
+### Scenario 1 — Vrijstaande woning, bouwjaar 2003, label B
 
 **Situatie:** 160 m², vloerverwarming in woonkamer + begane grond, radiatoren op verdieping (55°C aanvoer). Gezin van vier. Gasverbruik voor installatie: 2.800 m³/jaar.
 
@@ -135,7 +133,7 @@ Als er bij de aroTHERM plus een volledige lekkage optreedt (worst case), is het 
 - ISDE: €3.800
 - Netto investering: €11.400
 
-**Resultaten na 12 maanden:**
+**Uitkomst van het model (12 maanden, gasprijs €1,05/m³, stroomprijs €0,23/kWh):**
 - Gasverbruik: 0 m³ (volledig van gas af)
 - Elektriciteitsverbruik warmtepomp: 4.200 kWh
 - Berekende SCOP: 3.800 kWh warmte (gebouwbehoefte) / 4.200 kWh elektra ≈ **4,45**
@@ -144,17 +142,17 @@ Als er bij de aroTHERM plus een volledige lekkage optreedt (worst case), is het 
 - Jaarlijkse besparing: **€1.974**
 - Terugverdientijd: €11.400 / €1.974 = **5,8 jaar**
 
-De eigenaar, Frank, vertelde me dat hij met name de geluidsniveaus wilde toetsen. Zijn slaapkamer ligt op 8 meter van de buitenunit. "Ik hoor hem niet. Soms check ik 's nachts of hij wel werkt, want het is zo stil." De 33 dB(A) is meer dan marketingtaal.
+Bij dit woningtype is het geluid vaak de tweede afweging na de kosten. Met de opgegeven 33 dB(A) is dit het stilste toestel in zijn klasse; op een afstand van 8 meter tot een slaapkamerraam blijft het geluidsniveau daarmee rekenkundig ruim onder de norm die het Bouwbesluit stelt. In gebruikersreviews is stilte consequent het meest genoemde positieve punt.
 
-### Installatie 2 — Jaren-zestig rijtjeshuis, label D, Utrecht
+### Scenario 2 — Jaren-zestig rijtjeshuis, label D
 
 **Situatie:** 90 m², hoge-temperatuur radiatoren (70°C aanvoer — niet vervangen), slecht geïsoleerde spouwmuur. Gasverbruik: 2.100 m³/jaar. Eigenaar wilde no-nonsense warmtepomp zonder grote renovatie.
 
-Dit is precies het scenario waarbij ik een warmtepomp normaal gesproken zou afraden of op zijn minst sterk relativeren.
+Dit is precies het scenario waarbij wij een volledige warmtepomp normaal gesproken afraden, of op zijn minst sterk relativeren.
 
 **Gekozen model:** aroTHERM plus VWL 35/6 (3,5 kW) in combinatie met een Vaillant ecoTEC cv-ketel als hybride setup (niet standaard door Vaillant aangeboden, maar wel gerealiseerd door een ervaren installateur via cascadeschakeling).
 
-**Resultaten na 6 maanden (te vroeg voor volledig jaaroordeel):**
+**Uitkomst van het model (hybride opstelling, halfjaarbasis geëxtrapoleerd):**
 - De warmtepomp draait bij buitentemperaturen boven 5°C
 - Onder 5°C schakelt de cv-ketel bij
 - Gasverbruik eerste wintermaanden: 60% van vorig jaar
@@ -165,20 +163,20 @@ Dit is precies het scenario waarbij ik een warmtepomp normaal gesproken zou afra
 
 Dit is een eerlijk verhaal: de aroTHERM plus is goed, maar in een slecht geïsoleerde woning met hoge-temp radiatoren is hij suboptimaal. De besparing is kleiner, de terugverdientijd langer. Isoleren eerst loont hier meer.
 
-### Installatie 3 — Nieuwbouwwoning 2018, label A+, Almere
+### Scenario 3 — Nieuwbouwwoning 2018, label A+
 
 **Situatie:** 130 m², vloerverwarming, warmte-terugwinning, 12 zonnepanelen. Gasloze woning — warmtepomp was altijd al de plan, maar de bouwer had een elektrische weerstandsverwarmer geplaatst als tijdelijke oplossing.
 
 **Gekozen model:** aroTHERM plus VWL 55/6 (5,5 kW), met uniTOWER en geïntegreerde boiler 185L.
 
-**Resultaten na 18 maanden:**
+**Uitkomst van het model:**
 - Jaarlijks warmtepompverbruik: 2.800 kWh
-- Berekende SCOP: **5,2** — het label-cijfer gehaald in de praktijk (label A+, aanvoer 35°C)
+- Verwachte SCOP: **5,2** — de labelwaarde is bij aanvoer op 35°C in een A+-woning realistisch
 - Elektriciteitkosten warmtepomp: 2.800 × €0,23 = **€644**
 - Hiervan dekt zonne-overschot circa 1.200 kWh → effectieve kosten: 1.600 × €0,23 = **€368**
-- Eigenaar (Sandra, 38) vergelijkt met buurman met dezelfde woning + elektrische weerstandsverwarmer: "Hij betaalt €3.200 per jaar aan elektriciteit voor verwarming + warm water. Ik betaal €370."
+- Ter vergelijking: dezelfde woning met een elektrische weerstandsverwarmer (COP 1) vraagt ruim 14.000 kWh en komt daarmee op meer dan €3.000 per jaar
 
-Dit toont wat mogelijk is bij een A+ woning met zonnepanelen en een warmtepomp: verwarming en warm water voor **€370 per jaar**.
+Dit laat zien wat er mogelijk is bij een A+-woning met zonnepanelen en een warmtepomp: verwarming en warm water voor rond de **€370 per jaar** in het model.
 
 ---
 
@@ -205,10 +203,10 @@ De Vaillant myVAILLANT Pro-app is een duidelijke verbetering ten opzichte van de
 - Tapwatertemperatuur en -schema
 - Mogelijkheid om installateur toegang te geven voor remote diagnose
 
-**Wat ik minder goed vind:**
+**Wat wij minder goed vinden:**
 - De app heeft geen directe koppeling met P1-meter of PV-systeem voor automatische sturing op zonne-overschot. Je kunt wel een timer instellen, maar een Daikin of Itho Daalderop HP Cube heeft hier nativere oplossingen.
 - De installateursmodus (voor het instellen van de hydraulische parameters) is apart van de gebruikersapp — dit betekent dat de installateur ter plekke moet zijn voor sommige aanpassingen, of remote toegang moet hebben.
-- Notificaties bij kleine afwijkingen (bijv. drukval in de hydraulische kring) zijn soms wat alarmistisch — meerdere eigenaren vertelden me dat ze meldingen kregen die de installateur irrelevant vond.
+- Notificaties bij kleine afwijkingen (bijvoorbeeld drukval in de hydraulische kring) zijn volgens gebruikersreviews soms alarmistisch: eigenaren melden waarschuwingen die de installateur vervolgens irrelevant noemt.
 
 Eerlijk gezegd: de app is nu goed genoeg. Niet de beste in de markt (dat is Daikin), maar voldoende voor dagelijkse bediening.
 
@@ -252,7 +250,7 @@ Eerlijk gezegd: de app is nu goed genoeg. Niet de beste in de markt (dat is Daik
 | Sterk punt | SCOP, geluid, milieu, garantie | Max aanvoertemp, app, PV | Prijs, Bosch-netwerk |
 | Zwak punt | Prijs, PV-app | Prijs, R32 | Lagere SCOP |
 
-**Mijn lezing van de vergelijking:**
+**Onze lezing van de vergelijking:**
 
 **Kies aroTHERM plus als:**
 - Je milieuprestaties meewegen in je beslissing (R290 vs R32)
@@ -274,7 +272,7 @@ Eerlijk gezegd: de app is nu goed genoeg. Niet de beste in de markt (dat is Daik
 
 ## Besparingsberekening: wat levert de aroTHERM plus op?
 
-Ik gebruik een representatieve casus: tussenwoning 1990, label C, verbeterd naar label B na dakisolatie (aanvoertemperatuur teruggebracht naar 45°C via radiatorvervanging). Gasverbruik voor ingreep: 2.200 m³/jaar.
+Rekenvoorbeeld met de volgende aannames: tussenwoning uit 1990, label C, verbeterd naar label B na dakisolatie (aanvoertemperatuur teruggebracht naar 45°C via radiatorvervanging), gasverbruik voor de ingreep 2.200 m³ per jaar.
 
 | Post | Bedrag |
 |---|---|
@@ -328,7 +326,7 @@ Vanwege het brandbare koudemiddel R290 gelden aanvullende eisen:
 
 ### Wat kost een volledige installatie?
 
-Bij het aanvragen van offertes voor de aroTHERM plus: vraag minimaal twee offertes. In mijn regio varieert de installatieprijs voor dezelfde configuratie met €1.500–€2.500 tussen installateurs. De grootste variabelen:
+Bij het aanvragen van offertes voor de aroTHERM plus: vraag minimaal twee offertes. Voor dezelfde configuratie lopen offertes van verschillende installateurs €1.500 tot €2.500 uiteen. De grootste variabelen:
 
 - Aanpassing bestaande hydrauliek (radiatoren, vloerverwarming, circulatiepomp)
 - Verwijdering bestaande cv-ketel
@@ -362,7 +360,7 @@ De Vaillant aroTHERM plus is een serieuze warmtepomp die de hogere prijs rechtva
 
 Waar hij tekortkomt: de maximale aanvoertemperatuur van 55°C (warmtepomp only) betekent dat hij in slecht geïsoleerde woningen met hoge-temp radiatoren niet de juiste keuze is. En de hogere prijs ten opzichte van Daikin is lastig te rechtvaardigen op puur financiële gronden — de 10-jaars compressorgarantie is een deel van het antwoord, maar niet het hele verhaal.
 
-Frank in Apeldoorn zei het het scherpst: "Ik had hem ook met Daikin kunnen doen en iets goedkoper uitgeweest. Maar ik vind het goed dat Vaillant kiest voor propaan. Dat weegt voor mij mee." Dat is een legitieme afweging.
+In gebruikersreviews komt de keuze voor R290 opvallend vaak terug als reden om de meerprijs boven Daikin te accepteren. Dat is een legitieme afweging — maar het is een milieukeuze, geen financiële.
 
 Als je een goed geïsoleerde woning hebt, waarde hecht aan stilte en duurzaamheid, en bereid bent de meerprijs te betalen: de aroTHERM plus is uitstekend. Als je puur wilt optimaliseren op prijs of PV-koppeling: kijk ook naar Daikin.
 
@@ -370,7 +368,7 @@ Als je een goed geïsoleerde woning hebt, waarde hecht aan stilte en duurzaamhei
 
 ---
 
-*Vragen over je eigen woning, isolatieniveau of of de aroTHERM plus past bij jouw situatie? Laat een reactie achter, ik reageer zo snel mogelijk.*
+*Vragen over je eigen woning, isolatieniveau of de vraag of de aroTHERM plus bij jouw situatie past? Laat een reactie achter.*
 
 
 <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant</a>

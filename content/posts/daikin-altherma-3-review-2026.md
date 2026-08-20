@@ -1,8 +1,8 @@
 ---
 title: 'Daikin Altherma 3 review 2026: marktleider verdient die'
 date: 2026-07-17 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: Daikin Altherma 3 is de bestverkochte lucht-water warmtepomp van Nederland. Maar is hij ook de beste keuze voor jouw situatie? Mijn eerlijke test.
+lastmod: '2026-08-20 08:00:00+02:00'
+description: Daikin Altherma 3 is de bestverkochte lucht-water warmtepomp van Nederland. Maar is hij ook de beste keuze voor jouw situatie? Onze analyse van specs, SCOP en kosten.
 categories:
 - warmtepompen
 tags:
@@ -24,7 +24,7 @@ keywords:
 - beste warmtepomp 2026
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een Daikin Altherma 3 in 2026?
@@ -55,11 +55,9 @@ products:
   price: '12500'
 schema_type: Review
 ---
-Een klant belde me vorig jaar november. Thomas, eigenaar van een jaren-negentig vrijstaande woning in Zeist, had drie offertes gekregen en alle drie stuurden ze aan op dezelfde warmtepomp: Daikin Altherma 3. "Is dat niet verdacht?" vroeg hij. "Dat ze allemaal hetzelfde adviseren?"
+Wie in Nederland drie offertes voor een lucht-water warmtepomp opvraagt, krijgt met grote regelmaat drie keer hetzelfde advies terug: Daikin Altherma 3. Dat roept een terechte vraag op — adviseren installateurs dit toestel omdat het de beste keuze is, of omdat ze het merk het beste kennen en er de gunstigste marges op maken?
 
-Ik snapte zijn achterdocht. Als iedereen hetzelfde zegt, kan het zijn dat ze allemaal gelijk hebben. Maar het kan ook zijn dat installateurs simpelweg het merk pushen waarop ze de beste marges of de snelste opleiding hebben.
-
-In dit geval was het antwoord genuanceerd. De Altherma 3 is inderdaad veelal de juiste keuze — maar niet altijd, en niet voor iedereen. Ik heb het toestel inmiddels bij meerdere installaties gevolgd, waaronder eentje in mijn eigen regio waarbij ik acht maanden data heb bijgehouden. Dit is wat ik weet.
+Het antwoord is genuanceerd. De Altherma 3 staat op specificatieniveau aan de top van de markt, maar juist daarom is het belangrijk te weten wanneer hij níet de logische keuze is. In dit artikel zetten we de specificaties, de SCOP bij verschillende aanvoertemperaturen, de kostenopbouw en de alternatieven naast elkaar — op basis van de fabrieksdocumentatie van Daikin, de ISDE-lijsten van RVO, NEN 12831-uitgangspunten en geverifieerde gebruikersreviews.
 
 *Disclosure: wij hebben geen commerciële relatie met Daikin of hun installateurs. Deze analyse is gebaseerd op fabrieksspecificaties, handleidingen, publieke data en geverifieerde gebruikersreviews.*
 
@@ -68,7 +66,7 @@ In dit geval was het antwoord genuanceerd. De Altherma 3 is inderdaad veelal de 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
-> **Kort antwoord:** Daikin Altherma 3 is de bestverkochte lucht-water warmtepomp van Nederland. Maar is hij ook de beste keuze voor jouw situatie? Mijn eerlijke test.
+> **Kort antwoord:** Daikin Altherma 3 is de bestverkochte lucht-water warmtepomp van Nederland. Maar is hij ook de beste keuze voor jouw situatie? Onze analyse van specs, SCOP en kosten.
 >
 > De adviesprijs van een Daikin Altherma 3 H/M lucht-water warmtepomp ligt op €8.000 tot €13.000 inclusief 0% btw, exclusief montage. Montagekosten liggen doorgaans op €1.200 tot €2.000. Inclusief ISDE-subsidie (€2.500 tot €4.500 afhankelijk van vermogen) betaal je netto €7.000 tot €11.500 all-in.
 
@@ -121,63 +119,59 @@ In Nederland is Daikin marktleider in de warmtepompsector. Dat heeft voor- en na
 
 ---
 
-## Praktijkresultaten: twee installaties van dichtbij
+## Twee rekenscenario's: wat de aanvoertemperatuur doet met je rekening
 
-**Installatie 1 — Vrijstaande woning 1994, label B+, Altherma 3 H/M 8 kW (Thomas, Zeist)**
+Onderstaande twee scenario's zijn modelberekeningen, geen metingen aan bestaande installaties. Ze laten zien hoe sterk het rendement — en daarmee de besparing — afhangt van de aanvoertemperatuur die je verwarmingssysteem nodig heeft. Aannames: gasprijs €1,05/m³ all-in, stroomprijs €0,23/kWh, rendement oude cv-ketel 0,9 en een SCOP volgens de Daikin-specificaties gecorrigeerd voor de aanvoertemperatuur.
 
-Thomas besloot uiteindelijk de Daikin te nemen. Zijn woning: 185 m², na-isolatie van de vloer en spouwmuur gedaan, vloerverwarming op de begane grond, radiatoren boven (40°C aanvoer voldoende na debietoptimalisatie). Gasverbruik voor installatie: 2.800 m³/jaar.
+**Scenario 1 — Vrijstaande woning circa 1994, label B, Altherma 3 H/M 8 kW, aanvoer 40°C**
 
-Na installatie in februari 2025, stookseizoen bijgehouden tot februari 2026:
+Uitgangssituatie: 185 m², vloer en spouwmuur na-geïsoleerd, vloerverwarming beneden en radiatoren boven die na debietoptimalisatie toe kunnen met 40°C aanvoer. Gasverbruik vóór ombouw: 2.800 m³/jaar.
 
-- Jaarlijks elektriciteitsverbruik warmtepomp: 3.650 kWh
-- Gemeten SCOP over het jaar: **4,7** (Daikin-app + energiemeters)
-- Geleverde warmte: 3.650 kWh × 4,7 = 17.155 kWh thermisch
-- Restgasverbruik (kookfornuis + backup): 180 m³
+- Warmtevraag uit 2.800 m³ gas (bij ketelrendement 0,9): circa 22.100 kWh thermisch
+- Bij een SCOP van 4,7 (haalbaar volgens de specificaties bij lage aanvoertemperatuur): circa 4.700 kWh elektriciteit
 - Oude gaskosten: 2.800 m³ × €1,05 = **€2.940**
-- Nieuwe kosten: 3.650 kWh × €0,23 + 180 m³ × €1,05 = **€1.029**
-- Besparing jaar 1: **€1.911**
+- Nieuwe stroomkosten: 4.700 kWh × €0,23 = **€1.081**
+- Modelmatige besparing: circa **€1.860 per jaar**
 
-Dat is een uitzonderlijk goede situatie — vrijstaande woning, volledig all-electric, goede isolatie, lage aanvoertemperatuur. Niet representatief voor iedereen, maar het toont wat er mogelijk is.
+Dit is een gunstig scenario: goed geïsoleerd, all-electric en een lage aanvoertemperatuur. Het is bewust het bovenste eind van de bandbreedte.
 
-**Installatie 2 — Hoekwoning 1978, label C, Altherma 3 H/M 6 kW (mijn contact in Nijmegen)**
+**Scenario 2 — Hoekwoning circa 1978, label C, Altherma 3 H/M 6 kW, aanvoer 55°C**
 
-Rijtjeshoek uit de jaren zeventig, iets slechter geïsoleerd, radiatoren op 55°C aanvoertemperatuur na optimalisatie. Gasverbruik voor installatie: 2.200 m³/jaar.
+Uitgangssituatie: hoekwoning uit de jaren zeventig, matig geïsoleerd, radiatoren die na optimalisatie 55°C aanvoer nodig hebben. Gasverbruik vóór ombouw: 2.200 m³/jaar.
 
-Na één stookseizoen:
+- Warmtevraag uit 2.200 m³ gas: circa 17.400 kWh thermisch
+- Bij een SCOP van circa 3,9 — de waarde die bij 55°C aanvoer realistisch is in plaats van de 4,8 uit het datablad: circa 4.460 kWh elektriciteit
+- Oude gaskosten: 2.200 m³ × €1,05 = **€2.310**
+- Nieuwe stroomkosten: 4.460 kWh × €0,23 = **€1.026**
+- Modelmatige besparing: circa **€1.280 per jaar**
 
-- Elektriciteitsverbruik warmtepomp: 2.950 kWh
-- Gemeten SCOP: **3,9** — lager dan op papier, logisch bij 55°C aanvoer
-- Besparing op gas: 2.200 – 240 (bijstook tijdens koudegolf jan. 2025) = 1.960 m³ × €1,05 = **€2.058**
-- Extra elektra: 2.950 kWh × €0,23 = **€679**
-- Netto besparing: **€1.379**
-
-Hier zie je de keerzijde van een hogere aanvoertemperatuur: de SCOP daalt van 4,8 naar 3,9. Dat is nog steeds goed, maar de indrukwekkende Daikin-brochurewaarden zijn alleen haalbaar bij lage aanvoertemperatuur.
+Hierin zit de belangrijkste les van dit toestel: de SCOP van 4,8 uit de brochure geldt bij de standaardmeting A7/W35. Elke graad extra aanvoertemperatuur kost rendement. Wie de radiatoren niet kan of wil aanpassen, moet met een merkbaar lagere SCOP rekenen — en dus met een lagere besparing dan de brochure suggereert.
 
 ---
 
 ## Besparingsberekening over 10 jaar
 
-Ik gebruik installatie 2 als de meest representatieve situatie voor een gemiddeld Nederlands huis (label C, 2.200 m³ gasverbruik, hoekwoning):
+We nemen scenario 2 als vertrekpunt, omdat een matig geïsoleerde hoek- of tussenwoning met radiatoren de meest voorkomende Nederlandse situatie is (label C, 2.200 m³ gasverbruik). Dit is een modelberekening, geen waargenomen resultaat.
 
 | Jaar | Jaarlijkse besparing | Cumulatief | Cumulatieve kosten |
 |---|---|---|---|
 | 0 | – | – | €8.200 netto (all-in na ISDE €3.200) |
-| 1 | €1.379 | €1.379 | – |
-| 2 | €1.379 | €2.758 | – |
-| 3 | €1.379 | €4.137 | – |
-| 4 | €1.379 | €5.516 | – |
-| 5 | €1.379 | €6.895 | Onderhoud: +€250 |
-| 6 | €1.379 | €8.274 | Break-even |
-| 7 | €1.379 | €9.653 | – |
-| 8 | €1.379 | €11.032 | Onderhoud: +€250 |
-| 9 | €1.379 | €12.411 | – |
-| 10 | €1.379 | €13.790 | – |
+| 1 | €1.280 | €1.280 | – |
+| 2 | €1.280 | €2.560 | – |
+| 3 | €1.280 | €3.840 | – |
+| 4 | €1.280 | €5.120 | – |
+| 5 | €1.280 | €6.400 | Onderhoud: +€250 |
+| 6 | €1.280 | €7.680 | – |
+| 7 | €1.280 | €8.960 | Break-even |
+| 8 | €1.280 | €10.240 | Onderhoud: +€250 |
+| 9 | €1.280 | €11.520 | – |
+| 10 | €1.280 | €12.800 | – |
 
-**Na 10 jaar netto voordeel: circa €5.090** boven de investering (bij stabiele energieprijzen).
+**Na 10 jaar modelmatig netto voordeel: circa €4.100** boven de investering, bij stabiele energieprijzen.
 
-*Aannames: gas €1,05/m³ all-in, elektriciteit €0,23/kWh. ISDE €3.200 voor de 6 kW versie. Onderhoud tweejaarlijks €250. Als de gasprijs verder stijgt — wat historisch waarschijnlijk is — loopt de besparing significant op.*
+*Aannames: gas €1,05/m³ all-in, elektriciteit €0,23/kWh, SCOP 3,9 bij 55°C aanvoer, ISDE €3.200 voor de 6 kW versie, onderhoud tweejaarlijks €250. Stijgt de gasprijs, dan loopt de besparing op; daalt hij of stijgt de stroomprijs sneller, dan zakt de besparing.*
 
-Een kanttekening: de investering in isolatie (mijn Nijmegen-contact deed €4.500 aan spouwmuur + dakisolatie vóór de pomp-installatie) moet je eigenlijk ook meenemen. Die isolatie verdient zichzelf ook terug via lagere stookkosten én verhoogt het huis-label. In dit voorbeeld houd ik het alleen bij de warmtepomp.
+Een kanttekening bij dit soort berekeningen: de investering in isolatie vóór de warmtepomp (spouwmuur- en dakisolatie kost al snel €4.000-€5.000) hoort er strikt genomen bij. Die isolatie verdient zichzelf via lagere stookkosten ook terug en verhoogt het energielabel, maar staat in bovenstaande berekening niet meegerekend — het gaat hier alleen om de warmtepomp.
 
 ---
 
@@ -200,7 +194,7 @@ Een kanttekening: de investering in isolatie (mijn Nijmegen-contact deed €4.50
 | Sterk punt | SCOP, geluid, modulatie | NL-service, cv-integratie | Betrouwbaarheid, hybride optie |
 | Zwak punt | Prijs, levertijden | Minder dealers | Minder breed modulatiebereik |
 
-**Mijn lezing van deze vergelijking:**
+**Onze lezing van deze vergelijking:**
 
 - **Daikin** wint op SCOP, geluidsniveau en het brede modulatiebereik. Als vloerverwarming en maximale efficiëntie prioriteit hebben, is dit het meest afgeronde product op de markt.
 - **ATAG** is de betere keuze als je al een ATAG-ketel hebt en de hybride variant zoekt, of als je Nederlandstalige directe service boven internationale kwaliteit stelt.
@@ -257,15 +251,15 @@ De meeste 6 en 8 kW modellen werken op enkelfase (230V, 16A eigen groep). De 11 
 
 ### Leveranciers en installateurs
 
-Daikin werkt via een uitgebreid netwerk van gecertificeerde installateurs. Vraag bij offerteaanvraag specifiek naar de Daikin-certificering van de monteur — niet iedere installateur die Daikin verkoopt, heeft ook de verdiepingsopleiding afgerond. Ik heb installaties gezien waarbij de pomp bij oplevering niet goed was ingeregeld (aanvoertemperatuur te hoog ingesteld, modulatiebereik niet geconfigureerd) — dat kost je efficiëntie.
+Daikin werkt via een uitgebreid netwerk van gecertificeerde installateurs. Vraag bij offerteaanvraag specifiek naar de Daikin-certificering van de monteur — niet iedere installateur die Daikin verkoopt, heeft ook de verdiepingsopleiding afgerond. In gebruikersreviews en op installatieforums is een slecht ingeregelde pomp (aanvoertemperatuur te hoog ingesteld, modulatiebereik niet geconfigureerd) een van de meest terugkerende klachten — en dat kost direct rendement.
 
-**Mijn praktische tip:** vraag drie offertes en controleer in alle drie of de installatieprijs het inregelen en de eerste dienst bevatten. De Altherma 3 heeft een commissioning-procedure die tijd kost — installateurs die dat weglaten, leveren een slecht ingeregeld systeem op.
+**Praktische tip:** vraag drie offertes en controleer in alle drie of de installatieprijs het inregelen en de eerste dienst bevatten. De Altherma 3 heeft een commissioning-procedure die tijd kost — installateurs die dat weglaten, leveren een slecht ingeregeld systeem op.
 
 ---
 
 ## Veelgemaakte fouten bij de Daikin Altherma 3
 
-In de gesprekken die ik voer en de installaties die ik volg, zie ik steeds dezelfde dingen misgaan.
+Uit gebruikersreviews, installatieforums en de documentatie van Daikin komen steeds dezelfde vijf punten terug als oorzaak van teleurstellende resultaten.
 
 ### 1. Warmtepomp installeren zonder aanvoertemperatuur te optimaliseren
 
@@ -281,7 +275,7 @@ De Daikin Altherma 3 heeft een commissioning-procedure die gemiddeld 2-4 uur duu
 
 ### 4. Levertijd onderschatten
 
-In het voor- en naseizoen (september-november en januari-maart) lopen de levertijden op tot 10-14 weken. Ik ken mensen die eind augustus een offerte tekenden en hun pomp pas in december ontvingen — net op tijd, maar na drie koude maanden met alleen de cv-ketel. Plan je installatie in het voorjaar (april-juni) of de vroege zomer.
+In het voor- en naseizoen (september-november en januari-maart) lopen de levertijden op tot 10-14 weken. Wie in het late najaar een offerte ondertekent, loopt dus het risico de eerste koude maanden nog op de cv-ketel te moeten doorkomen. Plan een installatie daarom bij voorkeur in het voorjaar (april-juni) of de vroege zomer, en vraag altijd de actuele levertijd op voordat je tekent.
 
 ### 5. Geen driefase controleren bij grote modellen
 
@@ -309,15 +303,15 @@ Na 15 jaar: de compressor (de duurste component) is dan waarschijnlijk aan verva
 
 ## Energielabel E naar B: wat verandert er voor de Daikin?
 
-Een vraag die ik regelmatig krijg: "Ik heb nu label E. Kan ik wel een Daikin Altherma 3 nemen of moet ik eerst isoleren?"
+Een veelgestelde vraag: "Ik heb nu label E. Kan ik wel een Daikin Altherma 3 nemen of moet ik eerst isoleren?"
 
-Eerlijk antwoord: bij label E is de full-electric Daikin een risico. Hier is waarom.
+Ons antwoord: bij label E is de full-electric Daikin een risico. Hier is waarom.
 
 Een label E-woning heeft een warmteverlies van 10-15 kW bij -10°C buiten. Dat vereist een grote warmtepomp (11-14 kW) én hoge aanvoertemperaturen (65-70°C) om de bestaande radiatoren te laten functioneren. Bij die aanvoertemperatuur daalt de SCOP naar 2,8-3,2. De economische businesscase wordt dan zwak.
 
-**Alternatief bij label E:** neem eerst de hybride variant (Daikin Altherma 3 R) en isoleer parallel. Na isolatie tot label C/B schakelt u over naar all-electric. Of: isoleer eerst (1-2 jaar), koop daarna de all-electric.
+**Alternatief bij label E:** neem eerst de hybride variant (Daikin Altherma 3 R) en isoleer parallel. Na isolatie tot label C/B schakel je over naar all-electric. Of: isoleer eerst (1-2 jaar) en koop daarna de all-electric.
 
-**Bij label C/D:** de Daikin Altherma 3 H/M is goed inzetbaar als je bereid bent de aanvoertemperatuur te verlagen (via debietoptimalisatie van radiatoren of LT-radiatoren bijplaatsen). Thomas in Zeist deed dit: zijn Nijmegen-contact haalt 55°C aanvoer, Thomas zelf 40°C. Het verschil in SCOP is fors.
+**Bij label C/D:** de Daikin Altherma 3 H/M is goed inzetbaar als je bereid bent de aanvoertemperatuur te verlagen, via debietoptimalisatie van de bestaande radiatoren of door LT-radiatoren bij te plaatsen. Het verschil tussen 55°C en 40°C aanvoer is in de scenario's hierboven bijna een volle punt SCOP — en dat vertaalt zich direct in honderden euro's per jaar.
 
 ## Vergelijking label A++ nieuwbouw versus bestaande bouw label C
 
@@ -328,7 +322,7 @@ Een label E-woning heeft een warmteverlies van 10-15 kW bij -10°C buiten. Dat v
 | Bestaande bouw, 130 m², label C, radiat. 55°C | Altherma 3 H/M 8 kW | ~3,9 | ~4.000 kWh | €920 |
 | Bestaande bouw, 140 m², label D, radiat. 60°C | Altherma 3 H/M 11 kW | ~3,2 | ~5.600 kWh | €1.288 |
 
-*Stroomprijs €0,23/kWh. Warmtevraag berekend op NEN 12831.*
+*Modelberekening. Aannames: stroomprijs €0,23/kWh, warmtevraag volgens NEN 12831-uitgangspunten, SCOP geschat op basis van de datablad-SCOP (A7/W35 = 4,8) gecorrigeerd voor de genoemde aanvoertemperatuur. Geen gemeten waarden.*
 
 Het verschil tussen nieuwbouw en label D-bestaande bouw is enorm: ruim €600 per jaar in energiekosten voor een vergelijkbaar grote woning. Dit illustreert waarom isolatie altijd prioriteit moet hebben boven de warmtepomp — of waarom de hybride variant bij label D een betere keuze is.
 
@@ -356,13 +350,13 @@ De Daikin Altherma 3 is de beste all-electric lucht-water warmtepomp op de Neder
 
 Maar hij is niet automatisch de beste keuze voor jou. Als je woning label D of slechter heeft en je niet wil of kan isoleren: kijk eerst naar een hybride variant. Als prijs de doorslag geeft: ATAG of Intergas zijn goedkoper en leveren ook goede resultaten. Als levertijden een probleem zijn: Mitsubishi Ecodan is een serieus alternatief.
 
-Thomas in Zeist is inmiddels negen maanden verder. Hij bespaart meer dan verwacht, zijn woning is altijd aangenaam warm en de pomp draait zo stil dat hij hem soms vergeet te checken. Dat is eigenlijk het beste compliment voor een verwarmingssysteem.
+Wat in gebruikersreviews het meest terugkomt bij goed uitgevoerde installaties, is precies wat je van een verwarmingssysteem wil: constante warmte en zo weinig geluid dat je het toestel vergeet. Die uitkomst hangt echter minder af van het merk dan van twee dingen die jij kunt beïnvloeden: een correcte dimensionering (warmteverliesberekening volgens NEN 12831) en een zorgvuldig ingeregelde stooklijn.
 
 <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk de Daikin Altherma 3 warmtepompen</a>
 
 ---
 
-*Vragen over jouw specifieke situatie — woning-label, huidige installatie, of de ISDE-aanvraag? Stel ze hieronder, ik kijk er zo snel mogelijk naar.*
+*Vragen over jouw specifieke situatie — woning-label, huidige installatie, of de ISDE-aanvraag? Stel ze hieronder; wij kijken er zo snel mogelijk naar.*
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Energiekosten calculator 2027: bereken jouw saldering-impact'
 date: 2026-04-29 10:00:00+02:00
-lastmod: 2026-04-29 10:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Hoeveel kost de saldering-stop jou? Vul jouw kWh-verbruik en zonnepanelen-capaciteit in en zie het €/jaar verschil 2026 vs 2027 direct.
 categories:
 - tools
@@ -21,7 +21,7 @@ keywords:
 - zonnepanelen verlies 2027 calculator
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1580893246395-52aead8960dc&w=1200&output=webp&q=70
 faq:
 - q: Wat zijn de belangrijkste voordelen?
@@ -246,7 +246,7 @@ De calculator gebruikt de volgende aannames, gebaseerd op gemiddelde Nederlandse
 
 **Terugleververgoeding 2026 (saldering):** €0,31 per kWh — gelijkwaardig aan afnameprijs.
 
-**Terugleververgoeding 2027 (vast contract):** €0,08 per kWh — dit is een conservatieve schatting. Sommige leveranciers bieden in 2026 al 5-12 cent, na 2027 verwacht ik dat het gemiddelde rond de 7-9 cent zal liggen naarmate meer aanbod op het net komt.
+**Terugleververgoeding 2027 (vast contract):** €0,08 per kWh — dit is een conservatieve schatting. Sommige leveranciers bieden in 2026 al 5-12 cent, na 2027 verwachten wij dat het gemiddelde rond de 7-9 cent zal liggen naarmate meer aanbod op het net komt.
 
 **Terugleververgoeding 2027 (dynamisch contract):** €0,12 per kWh gemiddeld. Dit is het verwachte jaargemiddelde als je actief stuurt op uurprijzen. Op goede zomerse pieken kun je 20-25 cent halen, maar in de winter ligt het lager. Het langjarig gemiddelde voor proactieve gebruikers is circa 10-14 cent.
 
@@ -291,7 +291,7 @@ De calculator geeft je een richting, geen perfect antwoord. Zo ga je ermee om:
 
 **Stap 3: Vergelijk dynamische contracten.** Als je nog een vast contract hebt, bekijk dan [onze vergelijking van dynamische contracten](/posts/dynamische-energiecontracten-vergelijking-2026/). Tibber en Frank Energie zijn beide solide keuzes — de overstap kost je niets.
 
-**Stap 4: Lees de volledige transitie-planner.** In de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) beschrijf ik alle 5 strategieën uitgebreid, inclusief de decision tree per huistype en het kwartaalstappenplan.
+**Stap 4: Lees de volledige transitie-planner.** In de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) beschrijven wij alle 5 strategieën uitgebreid, inclusief de decision tree per huistype en het kwartaalstappenplan.
 
 ---
 
@@ -307,7 +307,7 @@ Thuisbatterij — als de calculator groen licht geeft:
 - [Sessy 5 kWh](https://go.duurzaamthuislab.nl/sessy) — Nederlandse kwaliteit, eenvoudige installatie
 - [Marstek Venus](https://go.duurzaamthuislab.nl/marstek) — scherpe prijs, goede specs
 
-Heb je vragen over de uitkomst of wil je dat ik meekijk bij jouw specifieke situatie? Laat een reactie achter.
+Heb je vragen over de uitkomst of mis je een variabele in het model? Laat een reactie achter.
 
 *Mark Bakker — april 2026*
 
@@ -322,9 +322,9 @@ Heb je vragen over de uitkomst of wil je dat ik meekijk bij jouw specifieke situ
 - [Saldering vs dynamisch contract: welke is voordeliger na](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
 - [Terugleverkosten zonnepanelen 2026](/posts/terugleverkosten-zonnepanelen-2026/)
 
-## Mini case-study — gezin Hilversum doorrekent post-saldering scenario
+## Rekenvoorbeeld — huishouden met twee EV's, post-saldering
 
-Familie met 4.200 kWh verbruik, 5.800 kWh opwekking, twee EV's (8.000 kWh laden), 4-pers huishouden. Pre-saldering (2026) was hun energierekening €1.140. Mijn calculator-uitkomst voor 2027:
+Rekenvoorbeeld met de volgende aannames: vierpersoonshuishouden, 4.200 kWh verbruik, 5.800 kWh opwekking, twee EV's (8.000 kWh laden per jaar), energierekening in 2026 met saldering €1.140. Uitkomst van het model voor 2027:
 
 - Zonder maatregelen: €2.890 per jaar (verlies van saldering = €1.750 erbij)
 - Met dynamisch contract: €2.310 (€580 besparing)
@@ -353,15 +353,17 @@ Twee keer per jaar (april en oktober). EPEX-prijzen schommelen seizoensgebonden 
 **Welke databron is betrouwbaar voor toekomstprognoses?**
 PBL-rapporten (Planbureau voor de Leefomgeving), TenneT-monitor en het CBS energieverbruik-dashboard. Niet vertrouwen op leveranciers-marketingmateriaal.
 
-## Mark Bakker's eigen rekensom — wat de calculator bij mij thuis voorspelde
+## Wat een calculator níét meeneemt
 
-Ik heb de calculator op mijn eigen huis losgelaten in januari 2026 als sanity-check. Mijn data: 16 panelen (6,8 kWp), jaarverbruik 4.100 kWh stroom + EV 6.500 kWh, dynamisch contract bij Tibber, Marstek Venus 5 kWh batterij geïnstalleerd maart 2024.
+Elk rekenmodel is een vereenvoudiging. Drie factoren verklaren het grootste deel van het verschil tussen uitkomst en jaarafrekening, en ze werken deels tegen elkaar in.
 
-Calculator voorspelde voor 2027 een rekening van €1.080. Werkelijke afrekening Q1 2027 geprojecteerd: €1.130 — afwijking 4,6 procent. Niet slecht voor een rekenmodel met aannames.
+**Weer.** Een koude winter verhoogt het warmtepompverbruik. Bij een woning met een warmtevraag rond de 14.000 kWh scheelt een strenge winter enkele honderden kWh — bij €0,29/kWh dus enkele tientjes tot ruim honderd euro op jaarbasis.
 
-Wat de calculator niet meeneemt en wat in mijn praktijk wél bleek: drie effecten die elkaar deels opheffen. Ten eerste: koude winter 2027 dreef warmtepomp-verbruik 280 kWh boven gemiddelde (kost ongeveer €40 extra). Ten tweede: gunstige prijsspread op EPEX in januari (€0,18/kWh gemiddeld piek-dal) leverde €72 extra arbitrage. Ten derde: één firmware-update batterij betekende drie dagen geen sturing — dat kostte €18.
+**Prijsspread.** De arbitragewinst van een batterij staat of valt met het verschil tussen dal- en piekuren op de EPEX-markt. In maanden met een brede spread valt het voordeel hoger uit dan het model aanneemt, in vlakke maanden lager. Historische EPEX-data staan publiek op de site van de beurs en bij ENTSO-E.
 
-Netto: praktijk wijkt 5-8 procent af van calculator. Reken daar dus altijd marge bovenop bij investeringsbeslissingen. Een calculator die zegt "terugverdientijd 9 jaar" kan in de praktijk 8,5 jaar of 10 jaar zijn — ruim genoeg in jouw voordeel of nadeel.
+**Stilstand van de batterij.** Firmware-updates, netonderhoud of een storing betekenen dagen zonder sturing. Dat kost direct het volledige dagvoordeel.
+
+Houd daarom rekening met een bandbreedte in plaats van één getal. Een uitkomst van "terugverdientijd 9 jaar" moet je lezen als grofweg 8 tot 10 jaar.
 
 ## Veelgestelde reken-gotchas door lezers
 

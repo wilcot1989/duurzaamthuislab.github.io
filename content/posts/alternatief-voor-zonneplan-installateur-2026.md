@@ -1,7 +1,7 @@
 ---
 title: Alternatief voor Zonneplan - 7 installateurs vergeleken 2026
 date: 2026-10-06 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 draft: false
 description: 'Op zoek naar een alternatief voor Zonneplan? Vergelijk 7 Nederlandse zonnepanelen-installateurs op prijs, garantie, lease en regiodekking.'
 categories:

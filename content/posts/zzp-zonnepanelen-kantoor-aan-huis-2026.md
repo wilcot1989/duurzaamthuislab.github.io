@@ -1,7 +1,7 @@
 ---
 title: 'ZZP Zonnepanelen Kantoor aan Huis 2026: Belasting & ROI'
 date: 2026-07-19 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'ZZP met kantoor aan huis: hoe verdeel je zonnepanelen-investering tussen privé en zakelijk? Belastingen, BTW en KIA voor freelancers in 2026 uitgelegd.'
 draft: false
 categories:
@@ -21,7 +21,7 @@ keywords:
 - zonnepanelen zzp afschrijven
 - freelance zonnepanelen
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497366811353-6870744d04b2&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true
@@ -307,7 +307,7 @@ Behandelkamer aan huis = volledig zakelijk indien gescheiden. Strikte eisen aan 
 
 ZZP-ers met kantoor aan huis hebben recht op aanzienlijke belastingvoordelen bij zonnepanelen-investering. Voor een gemiddelde freelancer met 15% kantoor: €1.000-€2.000 extra fiscaal voordeel over 10 jaar bovenop de gewone energiebesparing.
 
-Mijn aanbevelingen:
+Onze aanbevelingen:
 1. **Bepaal nauwkeurig je zakelijk percentage** (en documenteer)
 2. **Plan investeringen** om boven KIA-drempel uit te komen
 3. **Werk samen met fiscalist** bij eerste keer aanvraag
@@ -316,16 +316,16 @@ Mijn aanbevelingen:
 
 Voor verdere lezing: [BTW teruggeven zonnepanelen](/posts/btw-teruggeven-zonnepanelen-2026-stappenplan/), [zonnepanelen subsidie Nederland](/posts/zonnepanelen-subsidie-nederland-2026/), [energieopslag ZZP MKB](/posts/energieopslag-zzp-mkb-commercieel-2026/), [thuisbatterij vergelijking](/posts/thuisbatterij-vergelijking-2026/) en [provincie subsidies](/posts/provincie-subsidies-zonnepanelen-overzicht-2026/).
 
-## Mijn eigen ZZP-situatie als energieadviseur
+## Uitgewerkt rekenvoorbeeld: werkkamer van 12 m²
 
-Ik werk zelf vanuit een 12 m² werkkamer in mijn woning (totaal 142 m² gebruiksoppervlak), wat neerkomt op een zakelijk gebruikspercentage van ~8,5%. In 2023 heb ik 14 zonnepanelen laten plaatsen voor €5.940 incl BTW. De belastingafhandeling deel ik graag — niet als advies maar als illustratie.
+Onderstaande berekening is een rekenvoorbeeld, geen belastingadvies. Uitgangspunt: een werkkamer van 12 m² in een woning van 142 m² gebruiksoppervlak — een zakelijk gebruikspercentage van circa 8,5% — en 14 zonnepanelen van in totaal €5.940 inclusief BTW.
 
 - BTW privé-deel (91,5%): teruggave via kleine ondernemersregeling forfait (€100)
 - BTW zakelijk-deel (8,5%): €106 reguliere BTW-teruggave
 - KIA over zakelijk-deel (€420 investering): 28% = €117 extra aftrek
 - Energiebesparing (totaal): €71/maand gemiddeld
 
-De spreadsheet voor de belastingdienst kostte me een halve zaterdag. Geen drama, wel reden om in 2025 een gespecialiseerde boekhouder voor het zakelijk-deel in te schakelen.
+De administratie hiervoor is beperkt maar precies: je moet het zakelijke gebruikspercentage kunnen onderbouwen en de splitsing per post vastleggen. Bij twijfel over de verdeling privé/zakelijk is een boekhouder voor het zakelijke deel de veiligste route.
 
 ## Diepgang per regeling: KIA, EIA, MIA en de valkuilen
 
@@ -411,7 +411,7 @@ Klant met 18 m2 salonruimte in haar woning (totaal 105 m2, dus 17 procent zakeli
 
 ## Veelgemaakte fouten bij ZZP-aangifte
 
-Vier fouten uit mijn eigen praktijk en die van collega's. Eén: alle BTW willen terugvorderen terwijl het zakelijk gebruik hoogstens 30 procent is — krijg je later naheffing met boete. Twee: vergeten EIA aan te vragen vóór 1 maart van het jaar na investering — onomkeerbaar, geld weg. Drie: zonnepanelen op 100 procent zakelijk balans plaatsen "voor maximaal voordeel", maar dan moet je bij verkoop privégebruik bijtellen — meestal verlies. Vier: geen schriftelijke vastlegging van de m2-verdeling, waardoor de Belastingdienst bij controle de aftrek schrapt.
+Vier fouten die bij ZZP-aangiftes met zonnepanelen het vaakst terugkomen. Eén: alle BTW willen terugvorderen terwijl het zakelijk gebruik hoogstens 30 procent is — krijg je later naheffing met boete. Twee: vergeten EIA aan te vragen vóór 1 maart van het jaar na investering — onomkeerbaar, geld weg. Drie: zonnepanelen op 100 procent zakelijk balans plaatsen "voor maximaal voordeel", maar dan moet je bij verkoop privégebruik bijtellen — meestal verlies. Vier: geen schriftelijke vastlegging van de m2-verdeling, waardoor de Belastingdienst bij controle de aftrek schrapt.
 
 ## Wanneer ZZP-route NIET de moeite waard is
 

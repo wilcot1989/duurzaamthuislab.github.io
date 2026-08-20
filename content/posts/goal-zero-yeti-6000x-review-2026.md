@@ -21,7 +21,7 @@ keywords:
 - goal zero camper
 - goal zero zonnepaneel
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1473773508845-188df298d2d1&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true

@@ -1,8 +1,8 @@
 ---
 title: Sessy Pro 15 kWh review 2026 — voor MKB en grote huishoudens
 date: 2026-11-09 08:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: De Sessy Pro 15 kWh is de grotere broer van de Sessy 5,6 kWh. Volledige review na 4 maanden testen bij een MKB-bedrijf en gezin met 7.500 kWh verbruik. Wel of niet kopen?
+lastmod: '2026-08-20 08:00:00+02:00'
+description: De Sessy Pro 15 kWh is de grotere broer van de Sessy 5,6 kWh. Volledige review op basis van specificaties, garantievoorwaarden en doorrekening voor MKB en huishoudens met 7.500 kWh verbruik. Wel of niet kopen?
 categories:
 - thuisbatterijen
 - zonne-energie
@@ -21,7 +21,7 @@ keywords:
 - grote thuisbatterij review
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509395176047-4a66953fd231&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is het verschil tussen Sessy Pro en gewone Sessy?'

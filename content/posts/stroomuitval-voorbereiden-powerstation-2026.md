@@ -1,7 +1,7 @@
 ---
 title: 'Voorbereid op Stroomuitval 2026: Welke Powerstation Heb je'
 date: 2026-03-24 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Praktische gids voor noodstroom thuis met een powerstation. Bereken hoeveel Wh je nodig hebt.
 categories:
 - powerstations
@@ -25,7 +25,7 @@ keywords:
 - welk powerstation noodstroom
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
 - q: Hoe vaak komt stroomuitval voor in Nederland?
@@ -54,9 +54,9 @@ products:
   price: '999'
 schema_type: Article
 ---
-Vorig jaar had ik een stroomstoring van 4 uur. Mijn Huawei Luna thuisbatterij nam het naadloos over, maar mijn buurman zat in het donker met een lege telefoon en een ontdooiende vriezer. Dat hoeft niet — een powerstation van €500-€900 had hem gered. Ik heb berekend hoeveel Wh je nodig hebt voor de basisapparaten (router, koelkast, verlichting, telefoon = circa 250W continu) en welk powerstation bij welk budget past.
+Een stroomstoring van een paar uur betekent voor de meeste huishoudens: geen internet, een lege telefoon en een vriezer die begint te ontdooien. Een powerstation van €500 tot €900 vangt dat op. Hieronder staat doorgerekend hoeveel Wh je nodig hebt voor de basisapparaten (router, koelkast, verlichting, telefoon = circa 250 W continu) en welk powerstation bij welk budget past.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
 
@@ -185,7 +185,7 @@ Niet alle powerstations bieden een UPS-functie. En de omschakeltijd verschilt pe
 
 ## Aanbevolen powerstations per budget
 
-Op basis van onze tests en berekeningen hebben we de beste powerstations geselecteerd voor noodstroom in drie budgetcategorieën.
+Op basis van fabrieksspecificaties, geverifieerde gebruikersreviews en de rekensom hierboven hebben wij per budgetcategorie de meest geschikte powerstations geselecteerd.
 
 ### Budget: tot €600 -- Bluetti AC70
 
@@ -359,7 +359,7 @@ Bekijk ons complete [overzicht van de beste draagbare powerstations van 2026](/p
 
 ## Wanneer is een aggregaat beter dan een powerstation?
 
-Dit is een eerlijke vraag die ik regelmatig krijg. Er zijn situaties waarin een benzine-aggregaat gewoon de betere keuze is.
+Het is een terechte vraag: er zijn situaties waarin een benzine-aggregaat gewoon de betere keuze is.
 
 **Aggregaat is beter als:**
 - Je meer dan 3.000W continu vermogen nodig hebt (bijv. voor een werkplaats of boerderij)
@@ -392,7 +392,7 @@ Voor stedelijke huishoudens is een powerstation bijna altijd de betere keuze. Vo
 
 ## Jaarberekening: wat kost stroomuitval zonder voorbereiding?
 
-Ik reken de financiële schade van onvoorbereide stroomuitval door voor een gemiddeld huishouden.
+Hieronder de financiële schade van onvoorbereide stroomuitval, doorgerekend voor een gemiddeld huishouden.
 
 **Stroomuitval van 6 uur in de zomer (koelkast + vriezer + ongemak)**
 

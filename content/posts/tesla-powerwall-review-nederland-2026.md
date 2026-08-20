@@ -1,7 +1,7 @@
 ---
 title: 'Tesla Powerwall Review 2026: Waard voor Nederlandse Huizen?'
 date: 2026-03-21 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Uitgebreide Tesla Powerwall 3 review voor Nederland. Specs, installatie, prijzen, terugverdientijd en vergelijking met Huawei Luna 2000 en BYD HVS.
 categories:
 - thuisbatterijen
@@ -21,7 +21,7 @@ keywords:
 - tesla powerwall nederland 2026
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een Tesla Powerwall 3 in Nederland inclusief installatie?
@@ -50,9 +50,9 @@ products:
   price: '7500'
 schema_type: Review
 ---
-Ik heb zelf voor de Huawei Luna 2000 gekozen in plaats van de Tesla Powerwall, en mensen vragen me regelmatig waarom. Het antwoord: prijs per kWh. Maar de Powerwall 3 heeft wel degelijk sterke punten die mijn Luna mist — met name de ingebouwde omvormer en de automatische noodstroomfunctie. In deze review vergelijk ik de Tesla eerlijk met mijn eigen ervaring en de alternatieven op de Nederlandse markt.
+Waarom kiezen veel Nederlandse huishoudens een Huawei Luna 2000 in plaats van een Tesla Powerwall? Het antwoord is bijna altijd prijs per kWh. Toch heeft de Powerwall 3 sterke punten die de Luna mist, met name de ingebouwde omvormer en de automatische noodstroomfunctie. In deze review vergelijken wij de Powerwall op basis van specificaties, handleidingen en publieke prijzen met de alternatieven op de Nederlandse markt.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via deze links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 
@@ -300,7 +300,7 @@ Na configuratie werkt het systeem automatisch. De Tesla-app biedt real-time moni
 
 ## Concrete jaarberekening: Tesla Powerwall 3 in de Nederlandse context
 
-Laat me een eerlijk rekenmodel maken voor een huishouden dat de Powerwall overweegt in 2026.
+Een rekenmodel voor een huishouden dat de Powerwall in 2026 overweegt.
 
 **Profiel**: gezin met warmtepomp, Tesla Model 3, 16 zonnepanelen (6 kWp), 5.500 kWh verbruik/jaar.
 
@@ -326,7 +326,7 @@ Er is geen thuisbatterij waarvoor de saldering-stop 2027 zo weinig invloed heeft
 
 Dat betekent: saldering-stop kost je maximaal €36 extra (600 kWh × €0,06 misgelopen vergoeding). In vergelijking: een huishouden zonder batterij verliest €750+/jaar.
 
-Klant Roel uit Amersfoort, Tesla Model 3-rijder met Powerwall: "Mark, mijn energierekening gaat na 2027 nauwelijks omhoog. Ik zie het al in de data — ik lever bijna niets terug." Dat klopt. Hij levert 180 kWh/jaar terug op een opwekking van 6.200 kWh. De Powerwall slikt alles.
+Dat effect maakt de Powerwall relatief immuun voor de saldering-stop: wie een EV laadt en een warmtepomp heeft, houdt met 13,5 kWh opslag zo weinig overschot over dat de terugleververgoeding nauwelijks nog meeweegt in de jaarrekening.
 
 ## V2H en V2G: de toekomst met Tesla
 
@@ -361,7 +361,7 @@ Minimale degradatie-impact op je jaarlijkse besparing — dat is één van de st
 
 ## Installatie: wat je echt moet weten
 
-Na 3 Powerwall-installaties die ik heb begeleid, weet ik waar de valkuilen zitten.
+De valkuilen zitten bijna altijd in de meterkast en de aansluiting. Dit zijn de eisen en de veelgemaakte fouten.
 
 **Meterkast-vereisten:**
 - 3-fase aansluiting vereist (Powerwall 3 is driefasig)

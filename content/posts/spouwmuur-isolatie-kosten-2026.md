@@ -1,7 +1,7 @@
 ---
 title: 'Spouwmuur isolatie kosten 2026: wat betaal je per m²?'
 date: 2026-07-12 08:00:00+02:00
-lastmod: 2026-07-12 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Spouwmuur isolatie kosten 2026: prijs per m², EPS vs glasvlokken vs PUR, 0% BTW, ISDE-subsidie en terugverdientijd. Rekenvoorbeeld voor doorzon-tussenwoning.'
 categories:
 - isolatie
@@ -23,7 +23,7 @@ keywords:
 - energielabel na spouwmuur isolatie
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: Wat kost spouwmuurisolatie gemiddeld in 2026?
@@ -56,9 +56,9 @@ schema_type: Article
 ---
 De meest rendabele isolatiemaatregel voor Nederlandse woningen gebouwd vóór 1990 is niet vloerisolatie, niet dakisolatie, maar spouwmuurisolatie. Weinig overlast, geen sloopwerk, klaar in een halve dag, terugverdientijd 6-10 jaar.
 
-En toch zie ik in mijn werk als energieadviseur veel huishoudens die het uitstellen, omdat ze bang zijn voor hoge kosten. Die angst is onterecht. Met 0% BTW en ISDE-subsidie kost spouwmuurisolatie voor een doorsnee tussenwoning €1.600-€2.400.
+En toch stellen veel huishoudens de maatregel uit uit angst voor hoge kosten. Die angst is onterecht: met 0% BTW en ISDE-subsidie kost spouwmuurisolatie voor een doorsnee tussenwoning €1.600-€2.400.
 
-In dit artikel reken ik het volledig voor: wat je betaalt, welk materiaal het beste is voor jouw situatie, en hoe je de subsidie aanvraagt.
+Dit artikel rekent het volledig voor: wat je betaalt, welk materiaal het beste past bij jouw situatie, en hoe je de subsidie aanvraagt.
 
 *Prijzen gebaseerd op offertes april-juni 2026. Arbeidskosten kunnen per regio 10-15% afwijken. ISDE-bedragen conform RVO-beschikking 2026.*
 
@@ -81,7 +81,7 @@ Een ongeïsoleerde spouwmuur verliest gemiddeld 25-30% van alle warmte die een h
 
 Na spouwmuurisolatie daalt dit verlies met 70-85%. Jaarlijkse besparing: **€370-€560**.
 
-Dat is een simpele berekening, maar in de praktijk zie ik aansluitend gedragseffect: mensen die hun huis warmer voelen zetten de thermostaat lager. De werkelijke besparing is daardoor soms 10-15% hoger dan de berekening.
+Dat is een simpele berekening, maar er is ook een gedragseffect: wie het huis warmer ervaart, zet de thermostaat vaak lager. Milieu Centraal wijst erop dat de werkelijke besparing daardoor kan afwijken van de berekende — in beide richtingen.
 
 ---
 
@@ -231,7 +231,7 @@ Conclusie: voor brede spouwen (>60 mm) is EPS de beste keuze op rendement. Glasv
 
 Sinds 1 april 2023 geldt in Nederland 0% BTW op isolatiewerkzaamheden aan woningen, inclusief spouwmuurisolatie. Dit geldt automatisch — je hoeft niets aan te vragen.
 
-**Controleer altijd je offerte.** Sommige installateurs noemen nog een bedrag "excl. BTW" en tellen dan 0% op. Dat is correct. Maar ik zie ook offertes met 9% of 21% die dat niet zouden mogen rekenen. Vraag de installateur expliciet: "Is dit conform het 0% BTW-tarief voor woningisolatie?"
+**Controleer altijd je offerte.** Sommige installateurs noemen nog een bedrag "excl. BTW" en tellen dan 0% op. Dat is correct. Er circuleren echter ook offertes met 9% of 21% BTW, en dat mag niet voor woningisolatie aan bestaande woningen. Vraag de installateur expliciet: "Is dit conform het 0% BTW-tarief voor woningisolatie?"
 
 ### ISDE-subsidie 2026
 
@@ -266,7 +266,7 @@ Naast ISDE zijn er in 2026 lokale subsidies voor spouwmuurisolatie in:
 
 ## Wat levert het energielabel op?
 
-Na spouwmuurisolatie sprong mijn eigen tussenwoning (bouwjaar 1978) van label D naar label C. Dat lijkt klein, maar heeft concrete financiële gevolgen:
+Spouwmuurisolatie is bij een ongeïsoleerde woning uit de jaren zeventig doorgaans genoeg voor één labelstap, bijvoorbeeld van D naar C. Dat lijkt klein, maar heeft concrete financiële gevolgen:
 
 **Label-gerelateerde voordelen:**
 
@@ -339,7 +339,7 @@ Na isolatie daalt je energielabel. Vraag een EPA-adviseur om een nieuw label —
 
 ## Voor wie is spouwmuurisolatie niet de juiste keuze?
 
-Zeldzaam, maar er zijn situaties waar ik het afraden:
+Zeldzaam, maar er zijn situaties waarin spouwmuurisolatie af te raden is:
 
 **Vochtige spouw:** Als er structurele vochtproblemen zijn (scheurende gevel, defecte spouwen met optrekkend vocht), eerst de vochtbron aanpakken. Isolatie verergert het vochtprobleem in dat geval.
 
@@ -354,7 +354,7 @@ Zeldzaam, maar er zijn situaties waar ik het afraden:
 ## Veelgemaakte fouten
 
 **Fout 1: Subsidie aanvragen ná installatie**
-ISDE moet vóór de installatiedatum worden gereserveerd. Te laat = geen subsidie. Ik zie dit regelmatig misgaan bij klanten die snel willen handelen.
+ISDE moet vóór de installatiedatum worden gereserveerd. Te laat = geen subsidie. Dit gaat vooral mis bij wie snel wil handelen en de installateur al heeft ingeplanned.
 
 **Fout 2: Niet-gecertificeerde installateur kiezen**
 Goedkopere aanbieders zonder KOMO-certificaat zijn wel verleidelijk, maar je verliest het recht op ISDE-subsidie en je EPA-label wordt niet erkend.
@@ -376,7 +376,7 @@ De drie dingen die je nu moet doen:
 2. Vraag subsidie aan bij RVO.nl vóór je een afspraak maakt
 3. Haal 3 offertes op — vergelijk op materiaal, Rc-waarde en certificering
 
-Ik heb het in mijn eigen tussenwoning (1978) laten doen met glasvlokken: kosten na subsidie €1.380, gasrekening daalde €430 per jaar. Klaar in één middag.
+Voor een tussenwoning uit de jaren zeventig met 82 m² spouwoppervlak komt glasvlokken-inblaasisolatie na ISDE-subsidie uit rond €1.380, met een berekende gasbesparing van €400 tot €450 per jaar. Het werk is in één ochtend klaar.
 
 ---
 
@@ -386,27 +386,27 @@ Ik heb het in mijn eigen tussenwoning (1978) laten doen met glasvlokken: kosten 
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
 
-## Hoe lang duurt spouwmuurisolatie? Mijn eigen ervaring
+## Hoe lang duurt spouwmuurisolatie? Het verloop van de dag
 
-In mijn eigen tussenwoning (bouwjaar 1978, 82 m² spouwmuur) liet ik in september 2024 glasvlokken inblazen. Dit is hoe de dag verliep.
+Zo verloopt een standaard inblaasklus bij een tussenwoning met circa 82 m² spouwoppervlak, volgens de werkwijze die gecertificeerde inblaasbedrijven in hun uitvoeringsvoorschriften beschrijven.
 
-**08:30** — Twee man van het installatiebedrijf arriveren met een bestelauto vol materiaal. Ze inspecteren eerst de gevel met een endoscoop via een proefgaatje: spouw 65 mm, droog, geen bestaande isolatie. Groen licht.
+**08:30** — Twee monteurs arriveren. Ze inspecteren eerst de gevel met een endoscoop via een proefgaatje: spouwbreedte, vochtigheid en eventuele bestaande isolatie. Dit is een verplichte stap onder de KOMO-richtlijn.
 
-**08:45** — Ze starten met het boren van gaten (18 mm) langs de gevel op een onderlinge afstand van 50 cm. Het boren geeft meer stof dan lawaai. Ik hang een doek voor de meterkastdeur om stof binnen te houden. De buurman hoort niets.
+**08:45** — Boren van gaten (18 mm) langs de gevel op een onderlinge afstand van circa 50 cm. Het boren geeft meer stof dan lawaai; leg een doek voor de meterkastdeur.
 
-**09:30** — De inblaasmachine gaat aan. Glasvlokken worden via slangen door de gaten in de spouw geblazen. Er is een licht zoemend geluid, vergelijkbaar met een krachtige stofzuiger. Van buiten is weinig te zien.
+**09:30** — De inblaasmachine gaat aan. Glasvlokken worden via slangen door de gaten in de spouw geblazen, met een licht zoemend geluid vergelijkbaar met een krachtige stofzuiger.
 
-**10:45** — De gaten worden gedicht met mortel in de kleur van mijn gevel (ze hadden een monster genomen bij de offerte-aanvraag). Na droging zijn de gaten nauwelijks zichtbaar — ik moest echt zoeken om ze te vinden.
+**10:45** — De gaten worden gedicht met mortel in de kleur van de gevel; goede bedrijven nemen daarvoor bij de offerte-aanvraag een kleurmonster. Na droging zijn de gaten nauwelijks zichtbaar.
 
-**11:00** — Klaar. Schoonmaken duurt 15 minuten. Ze leveren een installatierapport met het KOMO-certificaatnummer, dat ik nodig heb voor de ISDE-aanvraag.
+**11:00** — Klaar. Schoonmaken duurt een kwartier. Vraag om het installatierapport met het KOMO-certificaatnummer: dat heb je nodig voor de ISDE-aanvraag.
 
-**Totale overlast:** minimaal. De installatie duurde 2,5 uur. Ik kon gewoon thuiswerken.
+**Totale overlast:** minimaal. De uitvoering duurt bij dit oppervlak circa 2,5 uur en je kunt gewoon thuis blijven werken.
 
-**Resultaat eerste winter (2024-2025):** gasverbruik daalde van 1.720 m³ (2023) naar 1.310 m³ (2024, vergelijkbare buitentemperaturen). Besparing: 410 m³ × €1,10 = **€451 per jaar**. Netto investering was €1.380 (glasvlokken, 82 m², na ISDE). Terugverdientijd: **3,1 jaar**.
+**Wat het oplevert (modelberekening):** bij een uitgangsverbruik van circa 1.700 m³ gas en 82 m² ongeïsoleerde spouw ligt de berekende besparing rond 350 tot 450 m³ per jaar. Tegen €1,10/m³ is dat €385 tot €495 per jaar. Bij een netto investering van €1.380 na ISDE komt de rekenkundige terugverdientijd op circa 3 jaar. Let op: dit is een berekening op basis van Rc-waarden en graaddagen, geen gemeten resultaat — een zachte winter of ander stookgedrag verandert de uitkomst.
 
 ---
 
-## Vragen die ik regelmatig krijg over spouwmuurisolatie
+## Veelgestelde vragen over spouwmuurisolatie
 
 **"Kan mijn buurman mij dwingen om mee te doen?"**
 Bij rijtjeshuizen heeft iedere eigenaar zijn eigen buitenmuur. Je kunt dus onafhankelijk van je buren spouwmuurisolatie laten plaatsen. Je hebt wel toestemming van je buurman nodig als de installateur tijdelijk op diens terrein moet werken (bijv. voor een steiger).
@@ -445,7 +445,7 @@ Kunststof kozijnen zijn vaak dieper dan de baksteendikte. Ze overlappen de spouw
 
 ## Vergelijking: spouwmuurisolatie vs andere maatregelen
 
-Om in perspectief te plaatsen waarom ik spouwmuurisolatie altijd als eerste adviseer, vergelijk ik de opties voor een doorsnee tussenwoning.
+Om in perspectief te plaatsen waarom spouwmuurisolatie doorgaans als eerste maatregel wordt aanbevolen, hieronder de opties voor een doorsnee tussenwoning naast elkaar.
 
 | Maatregel | Netto investering | Gasbesparing/jaar | TVT |
 |-----------|------------------|------------------|-----|

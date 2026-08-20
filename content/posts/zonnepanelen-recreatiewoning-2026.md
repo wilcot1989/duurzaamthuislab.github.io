@@ -1,8 +1,8 @@
 ---
 title: 'Zonnepanelen Recreatiewoning 2026: On-grid of Off-grid?'
 date: 2026-07-29 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
-description: 'Zonnepanelen op je vakantiewoning of recreatiewoning: on-grid of off-grid? Ik leg de keuzes uit, kosten en speciale aandachtspunten voor parken in Nederland 2026.'
+lastmod: '2026-08-20 08:00:00+02:00'
+description: 'Zonnepanelen op je vakantiewoning of recreatiewoning: on-grid of off-grid? Wij leggen de keuzes uit, met kosten en de speciale aandachtspunten voor parken in Nederland 2026.'
 draft: false
 categories:
 - zonnepanelen
@@ -21,7 +21,7 @@ keywords:
 - zonnepanelen tweede woning
 - chalet zonnepanelen
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1487730116645-74489c95b41b&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true
@@ -53,12 +53,12 @@ Een echtpaar uit Den Bosch met een vakantiewoning op een park in Drenthe vroeg m
 
 We kozen voor een hybride aanpak: 6 panelen op het schuine dak (met park-akkoord), 1 omvormer in technische kast, 5 kWh batterij voor avonden. Off-grid voor het chalet zelf, geen aansluiting nodig op park-net. Investering €7.200. Eigen kosten in 2 jaar terugverdiend dankzij wegval €680 jaarrekening — en park hoeft niet langer factureren.
 
-Hieronder mijn gids voor zonnepanelen op recreatiewoningen, vakantiehuizen en chalets in 2026.
+Hieronder de gids voor zonnepanelen op recreatiewoningen, vakantiehuizen en chalets in 2026.
 
-*Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 
-> **Kort antwoord:** Zonnepanelen op je vakantiewoning of recreatiewoning: on-grid of off-grid? Ik leg de keuzes uit, kosten en speciale aandachtspunten voor parken in Nederland 2026.
+> **Kort antwoord:** Zonnepanelen op je vakantiewoning of recreatiewoning: on-grid of off-grid? Wij leggen de keuzes uit, met kosten en de speciale aandachtspunten voor parken in Nederland 2026.
 >
 > Op eigen grond met netaansluiting: meestal vergunningvrij. Op een park: vraag toestemming parkbeheer en check parkreglement. Soms apart vergunning­plichtig wegens beschermd landschap.
 
@@ -363,7 +363,7 @@ Lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/
 
 ## Conclusie: planning bepaalt rendabiliteit
 
-Zonnepanelen op recreatiewoning zijn vaak rendabel maar vereisen specifieke planning. Mijn aanbevelingen:
+Zonnepanelen op recreatiewoning zijn vaak rendabel maar vereisen specifieke planning. Onze aanbevelingen:
 
 1. **Bepaal eerst gebruiks-intensiteit**: weinig gebruik = off-grid, vaak gebruik = on-grid
 2. **Check park-regels** vóór investering
@@ -374,11 +374,13 @@ Zonnepanelen op recreatiewoning zijn vaak rendabel maar vereisen specifieke plan
 
 Voor verdere lezing: [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/), [Victron thuisbatterij review](/posts/victron-thuisbatterij-review-2026/), [Pylontech review](/posts/pylontech-thuisbatterij-review-2026/), [zonnefolie flexibele zonnepanelen](/posts/zonnefolie-flexibele-zonnepanelen-2026/) en [zonnepanelen DIY vs installateur](/posts/zonnepanelen-diy-vs-installateur-2026/).
 
-## Mijn eigen recreatiewoning op de Veluwe
+## Rekenvoorbeeld: houten chalet van 36 m² op een park
 
-Ik heb sinds 2017 een houten chalet op een park bij Otterlo, ~36 m². Eerst alles op aansluiting van het park (€0,42/kWh inclusief vaste lasten), zelfs in winter wanneer huis leegstaat. In 2021 4 panelen op het dak, kleine 2 kWh AGM-batterij, simpele Victron MPPT-laadregelaar. Werkt prima in zomer (van mei t/m september vrijwel autonoom voor verlichting + koelkast), in winter terug op park-aansluiting.
+Onderstaande doorrekening geldt voor een veelvoorkomende situatie: een houten chalet van circa 36 m² op een vakantiepark met eigen parkaansluiting, waar het park circa €0,42/kWh rekent inclusief vaste lasten — ook in de winter, als de woning leegstaat.
 
-Wat ik leerde: voor parttime gebruik (gemiddeld 6 weekenden + 3 weken/jr) is full off-grid bijna altijd duurder dan beoogd. Hybride setup (panelen + kleine batterij + park-aansluiting) is realistischer. Investering 2021: €2.480. Park-aansluiting verbruikskosten daalden van €580 naar €165/jr. Terugverdientijd: 6,0 jaar — en levert tegelijk meer comfort op (meer aanstaan terwijl je weg bent voor koeling/condensatie-bestrijding).
+Opstelling in het model: 4 panelen op het dak, een kleine 2 kWh loodaccu of LiFePO4-pakket en een MPPT-laadregelaar. Zo'n set is in de zomermaanden (mei tot en met september) doorgaans zelfvoorzienend voor verlichting en koelkast; in de winter val je terug op de parkaansluiting.
+
+De belangrijkste les uit de rekensom: bij parttime gebruik (grofweg 6 weekenden en 3 weken per jaar) is volledig off-grid bijna altijd duurder dan verwacht, omdat je batterijcapaciteit koopt die je nauwelijks benut. Een hybride opzet — panelen plus kleine batterij plus parkaansluiting — is realistischer. Bij een investering van circa €2.480 en een daling van de verbruikskosten van €580 naar €165 per jaar komt de rekenkundige terugverdientijd rond zes jaar uit. Daarbij komt een comfortvoordeel: je kunt apparatuur tegen condensvorming laten doorlopen terwijl je er niet bent.
 
 ## Diepgang: setup-types per recreatiewoning-type
 
