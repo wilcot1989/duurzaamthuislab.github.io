@@ -84,7 +84,7 @@ Bij de meeste leveranciers kan dit via de app of het online klantenportaal. Zoek
 
 ### Tibber verhuizen: specifieke instructies
 
-<a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> maakt het afsluiten van een contract op het nieuwe adres relatief soepel. Let op:
+<a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> maakt het afsluiten van een contract op het nieuwe adres relatief soepel. Let op:
 
 1. Open de Tibber-app, ga naar je profiel en kies "Verhuizen"
 2. Voer het nieuwe adres in en laat Tibber het EAN-nummer automatisch zoeken (of voer het handmatig in)
@@ -226,11 +226,11 @@ Als je in de nieuwe woning ook zonnepanelen gaat plaatsen of een thuisbatterij o
 
 ### Scenario 1: nieuwe woning met bestaande zonnepanelen
 
-De vorige eigenaar had panelen. Jij neemt ze over. Direct dynamisch contract afsluiten — dat is de optimale keuze voor maximale teruglevering na 2027. Vergelijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> en <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>. Vraag de installatiedocumentatie en monitoring-inloggegevens op van de vorige eigenaar.
+De vorige eigenaar had panelen. Jij neemt ze over. Direct dynamisch contract afsluiten — dat is de optimale keuze voor maximale teruglevering na 2027. Vergelijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> en <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>. Vraag de installatiedocumentatie en monitoring-inloggegevens op van de vorige eigenaar.
 
 ### Scenario 2: nieuwe woning zonder panelen, jij gaat ze plaatsen
 
-Sluit eerst een dynamisch contract af. Daarna offertes aanvragen bij installateurs. Als je kiest voor <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Zonneplan</a> (betalen per kWh, geen aanschafkosten): check of Zonneplan actief is in jouw regio en of het contract samengaat met een dynamisch elektriciteitscontract.
+Sluit eerst een dynamisch contract af. Daarna offertes aanvragen bij installateurs. Als je kiest voor <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener">Zonneplan</a> (betalen per kWh, geen aanschafkosten): check of Zonneplan actief is in jouw regio en of het contract samengaat met een dynamisch elektriciteitscontract.
 
 ### Scenario 3: nieuwbouwwoning zonder gas
 
@@ -238,7 +238,7 @@ Alles elektrisch (warmtepomp, inductiekookplaat). Je verbruik van elektriciteit 
 
 ### Thuisbatterij als buffer
 
-Overweeg je een plug-in thuisbatterij zoals <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a> of de Marstek Venus? Met een dynamisch contract laad je die op in de goedkoopste uren (doorgaans 's nachts) en ontlaad je tijdens de dure avonduren. Wat dat oplevert, hangt volledig af van de batterijcapaciteit, het aantal cycli per jaar en het dagelijkse prijsverschil op de spotmarkt — er is geen vast bedrag te noemen. Een doorrekening met expliciete aannames staat in [dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
+Overweeg je een plug-in thuisbatterij zoals <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a> of de Marstek Venus? Met een dynamisch contract laad je die op in de goedkoopste uren (doorgaans 's nachts) en ontlaad je tijdens de dure avonduren. Wat dat oplevert, hangt volledig af van de batterijcapaciteit, het aantal cycli per jaar en het dagelijkse prijsverschil op de spotmarkt — er is geen vast bedrag te noemen. Een doorrekening met expliciete aannames staat in [dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
 ---
 

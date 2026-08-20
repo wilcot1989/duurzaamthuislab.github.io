@@ -61,7 +61,7 @@ Voor wie weinig tijd heeft, de samenvatting in vijf punten.
 - **Beste keuze 2026?** Hangt af van je profiel — zie [de uitgebreide uitleg](/posts/dynamische-energiecontracten-vergelijking-2026/).
 - **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
 
-> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> en bouw stapsgewijs uit — niet alles in één keer.
+> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> en bouw stapsgewijs uit — niet alles in één keer.
 
 ## 1. Wat is het probleem?
 
@@ -139,7 +139,7 @@ Voor een volledige kostenberekening: zie [de uitgebreide berekening](/posts/dyna
 ## 6. Welk product past bij wie?
 
 ### Voor budgetbewuste huishoudens
-Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a>
+Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
 
 ### Voor early adopters die alles slim willen
 Combineer de installatie met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd volgens de documentatie 2-4 uur; je krijgt er fijnmazigere sturing voor terug dan met alleen de fabrikant-app.
@@ -177,7 +177,7 @@ Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/p
 
 Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
 
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
+Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
 
 Verder lezen: [het overzichtsartikel](/posts/tibber-review-ervaringen-2026/), [de rekenmodellen](/posts/frank-energie-review-ervaringen-2026/) en [de verzamelde gebruikerservaringen](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
@@ -277,7 +277,7 @@ De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
 
 Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
 
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/dynamisch-vs-vast-contract-2026/) voor verdieping.
+Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/dynamisch-vs-vast-contract-2026/) voor verdieping.
 
 ## Wat negatieve prijzen praktisch betekenen
 

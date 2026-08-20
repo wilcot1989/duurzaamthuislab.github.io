@@ -460,7 +460,7 @@ De terugverdientijd is geen garantie maar een verwachting. Energieprijzen fluctu
 **Onze aanbeveling**: vraag offertes aan bij minimaal drie installateurs en check bij je gemeente en provincie of er een lokale batterijregeling openstaat — dat is de enige subsidie die voor een accu bestaat. Bekijk ons overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatterij-nederland-2026/) om de juiste batterij voor jouw situatie te kiezen.
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 
 

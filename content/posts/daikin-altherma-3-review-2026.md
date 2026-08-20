@@ -352,7 +352,7 @@ Maar hij is niet automatisch de beste keuze voor jou. Als je woning label D of s
 
 Wat in gebruikersreviews het meest terugkomt bij goed uitgevoerde installaties, is precies wat je van een verwarmingssysteem wil: constante warmte en zo weinig geluid dat je het toestel vergeet. Die uitkomst hangt echter minder af van het merk dan van twee dingen die jij kunt beïnvloeden: een correcte dimensionering (warmteverliesberekening volgens NEN 12831) en een zorgvuldig ingeregelde stooklijn.
 
-<a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk de Daikin Altherma 3 warmtepompen</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk de Daikin Altherma 3 warmtepompen</a>
 
 ---
 
@@ -361,7 +361,7 @@ Wat in gebruikersreviews het meest terugkomt bij goed uitgevoerde installaties, 
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Daikin</a>
 
 ## Gerelateerde artikelen
 

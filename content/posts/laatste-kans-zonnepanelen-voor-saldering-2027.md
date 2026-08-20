@@ -111,7 +111,7 @@ Totale investering: 12.500 EUR. Verwachte jaarbesparing onder nieuwe regime: 1.3
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>Zonneplan — panelen + dynamisch + batterij in één pakket</strong><br>
 Nederlandse marktleider met eigen installateurs, koppelt panelen standaard aan een dynamisch contract via Zonneplan Energie. Sterk voor wie alles uit één hand wil. De volledige <a href="/posts/zonneplan-thuisbatterij-review-2026/">Zonneplan review</a> staat hier.<br><br>
-<a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Zonneplan offerte &rarr;</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Zonneplan offerte &rarr;</a>
 </div>
 
 ## Het alternatief: batterij toevoegen aan bestaande panelen
@@ -130,7 +130,7 @@ Uitbreiden met extra panelen is in oktober 2026 financieel onverstandig: de extr
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>Sessy thuisbatterij — snelle plaatsing zonder lange wachttijd</strong><br>
 Nederlandse fabrikant, levertijd 2 tot 4 weken; de installatie wordt apart berekend. Combineert eigen verbruik met dynamisch handelen op de stroombeurs. Bij 3500+ kWh teruglevering komt de terugverdientijd in ons model op 5 tot 7 jaar. De <a href="/posts/sessy-vs-marstek-thuisbatterij-2026/">Sessy vs Marstek vergelijking</a> staat hier.<br><br>
-<a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Sessy prijzen &rarr;</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Sessy prijzen &rarr;</a>
 </div>
 
 ## Drie veelgemaakte denkfouten in Q4 2026

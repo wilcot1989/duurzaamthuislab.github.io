@@ -417,7 +417,7 @@ Gebruik deze lijst om een offerte te beoordelen:
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde gidsen
 

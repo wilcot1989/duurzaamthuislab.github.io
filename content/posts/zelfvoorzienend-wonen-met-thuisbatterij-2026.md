@@ -100,7 +100,7 @@ Totaal: **€18.300 tot €29.500**. In het midden ongeveer €24.000. Voor dat 
 
 Wil je een diepere kostenvergelijking per batterijtype, lees dan de [thuisbatterij prijzen vergelijking 2026](/posts/thuisbatterij-prijzen-vergelijking-2026/) — daar staan 14 batterijen naast elkaar op €/kWh bruikbaar.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Zonneplan zonnepanelen</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan zonnepanelen</a>
 
 ## Sessy vs Tesla Powerwall vs Marstek voor autarkie
 
@@ -116,7 +116,7 @@ Onze aanbeveling voor 90% autarkie: **Tesla Powerwall 3 als je het beste wilt en
 
 <a href="https://go.duurzaamthuislab.nl/tesla-powerwall" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tesla Powerwall 3</a>
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Marstek Venus</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek Venus</a>
 
 ## Maandelijkse autarkie-grafiek (jan t/m dec)
 
@@ -151,7 +151,7 @@ Belangrijk: doe dit *na* je thuisbatterij in de prioriteitsketen. Eerst huis, da
 
 Combineer je dit met een dynamisch contract (Tibber, Frank, ANWB), dan kun je 's winters zelfs van laag-tarief uren profiteren — soms is nachtstroom in december goedkoper dan zonnestroom in juli na terugleverkosten. Ons overzicht [beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) zet de aanbieders naast elkaar.
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber dynamisch</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber dynamisch</a>
 
 ## Het winterprobleem (dec/jan) — waarom 100% niet haalbaar is
 
@@ -196,7 +196,7 @@ Autarkie heeft serieuze nadelen die installateurs zelden noemen.
 
 **5. Verzekering en brandveiligheid.** Sommige opstalverzekeringen rekenen meerpremie voor lithium-batterijen. Vraag dit *vooraf* na bij je verzekeraar.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>
 
 ## Wanneer is volledige autarkie wel zinvol?
 

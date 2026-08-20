@@ -215,7 +215,7 @@ Houd de eerste 3 maanden COP, stroomverbruik en geluid bij. Als COP <3,5 of gelu
 
 ## Wanneer kies je voor een vaste-prijs aanbieder?
 
-Bedrijven als <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Quatt</a> bieden vaste prijs all-in: geen offerte-circus, geen onderhandeling, geen surprise-kosten. Voor wie:
+Bedrijven als <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Quatt</a> bieden vaste prijs all-in: geen offerte-circus, geen onderhandeling, geen surprise-kosten. Voor wie:
 
 - Tijd schaars heeft
 - Onderhandeling vermijden
@@ -358,7 +358,7 @@ Bespaart gemiddeld €1.500-€3.500 + voorkomt service-stress. Effectief loon: 
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt vaste-prijs</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Vraag Vaillant offerte</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Quatt vaste-prijs</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Vraag Vaillant offerte</a>
 
 ## Vragen die je nooit moet vergeten
 

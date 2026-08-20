@@ -106,7 +106,7 @@ Sessy wint op prijs/kWh voor de instap-10-kWh-configuratie. Maar als je overweeg
 
 Voor een woning met 10 zonnepanelen (circa 3 kWp) en geen uitbreidingsplannen is Sessy de scherpere deal.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy prijzen en specs</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy prijzen en specs</a>
 
 ## Omvormer-integratie: hier zit het grootste verschil
 
@@ -268,7 +268,7 @@ Een thuisbatterij is zo goed als zijn laatste software-update. Dit is een aspect
 
 Voor de [saldering-stop in 2027](/posts/saldering-stopt-2027-volledige-gids/) — die de spelregels voor thuisbatterijen opnieuw definieert — is onze inschatting dat Sessy sneller met een algoritme-update zal reageren dan Huawei.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Sessy bestellen of offerte aanvragen</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Sessy bestellen of offerte aanvragen</a>
 
 ## Voor wie is welke batterij de juiste keus?
 
@@ -378,7 +378,7 @@ De Luna 2000 is de betere keus voor wie al in het Huawei-ecosysteem zit, of voor
 
 De praktische vuistregel blijft dus simpel: kijk eerst welke omvormer er hangt en of je later wilt uitbreiden. Die twee vragen bepalen de keuze sterker dan het prijsverschil op de offerte.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy — offerte aanvragen</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy — offerte aanvragen</a>
 
 *Vragen over jouw specifieke situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 

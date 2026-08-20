@@ -123,7 +123,7 @@ De Nederlandse zonnepanelen-markt telt honderden gecertificeerde installateurs. 
 
 **Wanneer niet**: Je wilt de scherpste prijs per Wp. Dan ga je bij Coolblue iets te veel betalen voor de service-overhead.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Vergelijk ook Zonneplan offerte →</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Vergelijk ook Zonneplan offerte →</a>
 
 ---
 
@@ -235,7 +235,7 @@ De Nederlandse zonnepanelen-markt telt honderden gecertificeerde installateurs. 
 
 **Wanneer niet**: Je woont in een regio buiten hun kerngebied, of je wilt puur de laagste prijs.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Zonneplan offerte →</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan offerte →</a>
 
 ---
 
@@ -357,7 +357,7 @@ Onderstaand model rekent de prijsbandbreedtes uit de tabel hierboven door naar �
 
 De praktische conclusie: vraag drie tot vijf offertes op, reken ze allemaal om naar prijs per Wp, en beslis daarna pas of de meerprijs van een landelijke of premiumaanbieder in jouw situatie iets oplevert. Bij een eenvoudig dak in een regio met voldoende lokale concurrentie is dat vaak niet het geval; bij een complex dak of als je een compleet pakket met batterij en laadpaal wilt, juist wel.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Zonneplan offerte vergelijken →</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan offerte vergelijken →</a>
 
 ---
 

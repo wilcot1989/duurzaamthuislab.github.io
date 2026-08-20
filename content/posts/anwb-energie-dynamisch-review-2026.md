@@ -430,14 +430,14 @@ ANWB Energie Dynamisch is een **goede middelenoplossing**. Niet de scherpste pri
 
 De keuze komt neer op één vraag: kun je een uurprijs aan die tijdens een koudegolf een factor vier hoger uitvalt? Is het antwoord nee, dan is de demping van ANWB precies waarvoor je betaalt. Is het antwoord ja, dan kies je Frank of Tibber en houd je dat bedrag in eigen zak.
 
-<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ANWB Energie</a>
+<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk ANWB Energie</a>
 
 *Vragen? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anwb Energie</a>
+<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Anwb Energie</a>
 
 ## Gerelateerde artikelen
 

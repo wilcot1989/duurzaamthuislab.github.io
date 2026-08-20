@@ -127,17 +127,17 @@ Volledige merkvergelijking voor 2026 staat in [de beste zonnepanelen 2026](/post
 
 Een goedkopere instap voor huurders of mensen met klein dak: [balkon-zonnepanelen plug-in](/posts/balkon-zonnepanelen-plug-in-nederland-2026/) — vanaf €299 voor 400 Wp en geen installateur nodig.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Zonneplan offerte</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan offerte</a>
 
 **De thuisbatterij is in 2026 de logische volgende stap.** Sinds saldering verdwijnt, gaat de waarde van zelfverbruik omhoog en de waarde van terugleveren omlaag. Een goede batterij van 5-10 kWh slaat overdag overschot op en zet 's avonds in.
 
 Een batterij van 5 kWh op een dynamisch contract verdient op twee manieren: door zonneoverschot op te slaan in plaats van terug te leveren, en door prijsarbitrage (laden op de goedkoopste uren, ontladen tijdens de piek). De opbrengst volgt uit je bruikbare capaciteit maal het aantal cycli per jaar maal de gemiddelde prijsspreiding, minus de omzetverliezen. Die spreiding verschilt sterk per seizoen, dus reken met een jaargemiddelde en niet met een goede maand. Wij vergelijken [Sessy versus Marstek thuisbatterij](/posts/sessy-vs-marstek-thuisbatterij-2026/), en tegen Tesla en Huawei: [Huawei Luna vs Tesla Powerwall vs Sessy](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy thuisbatterij</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy thuisbatterij</a>
 
 Voor het goedkopere segment is Marstek een serieuze speler — lees [onze Marstek Venus E review](/posts/marstek-venus-review-thuisbatterij/) en check de [actuele thuisbatterij-prijzen vergelijking](/posts/thuisbatterij-prijzen-vergelijking-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Marstek Venus E</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek Venus E</a>
 
 Een veelgestelde vraag: heeft een [batterij na 2027 zonder zonnepanelen nog zin](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/)? Antwoord: alleen met een dynamisch contract, en dan puur op arbitrage — de terugverdientijd loopt in dat geval flink op omdat de post zonneoverschot wegvalt.
 
@@ -225,7 +225,7 @@ Geen van deze? Dan kan vast contract veiliger zijn. Lees [dynamisch versus vast 
 
 De drie grote spelers vergelijken wij in [de dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/). Onze inschatting: Tibber is het sterkst op app en API, Frank Energie op prijs en telefonische bereikbaarheid. De directe duel: [Frank Energie versus Tibber](/posts/frank-energie-vs-tibber-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber dynamisch contract</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber dynamisch contract</a>
 
 <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>
 

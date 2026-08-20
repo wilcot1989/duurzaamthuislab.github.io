@@ -125,7 +125,7 @@ Voor een typisch MKB-bedrijf met 15.000 kWh per jaar verbruik en gemiddelde flex
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>Tibber Business — zakelijk dynamisch met smart-laden</strong><br>
 EPEX-uurprijs voor de stroom, servicegeld 12 EUR/maand voor zakelijke facturatie. Goede smart-laden integratie voor zakelijke EV-vloot.<br><br>
-<a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Tibber Business &rarr;</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Tibber Business &rarr;</a>
 </div>
 
 ## Hoe ondernemers de saldering-stop kunnen omdraaien tot kans

@@ -385,7 +385,7 @@ Voor mensen met een rijtjeshuis en 4.000 kWh verbruik: blijf bij de [gewone Sess
 
 Voor wie twijfelt tussen Pro of twee gestapelde Sessys: kies de Pro als je 3-fase hebt en MKB bent. Kies stapelen als je geleidelijk wilt opbouwen of geen 3-fase hebt.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy Pro</a> · [Sessy 5,6 kWh review →](/posts/sessy-review-thuisbatterij-nederland/)
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy Pro</a> · [Sessy 5,6 kWh review →](/posts/sessy-review-thuisbatterij-nederland/)
 
 ---
 
@@ -399,7 +399,7 @@ Voor het standaard huishouden blijft de gewone Sessy 5,6 kWh de beste keus. Niet
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow sponsored noopener" target="_blank">Bekijk Sessy Pro 15 kWh</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy Pro 15 kWh</a>
 
 ## Gerelateerde artikelen
 

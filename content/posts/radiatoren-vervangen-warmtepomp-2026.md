@@ -329,7 +329,7 @@ Radiatoren vervangen voor een warmtepomp is **niet altijd nodig**, vaak **gefase
 
 Twijfel je over welke warmtepomp het beste past? Bekijk [Quatt hybride](https://go.duurzaamthuislab.nl/quatt) (geschikt voor woningen met bestaande radiatoren) of [Vaillant aroTHERM](https://go.duurzaamthuislab.nl/vaillant) (volledig elektrisch met LT-systeem).
 
-<a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt warmtepomp →</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt warmtepomp →</a>
 
 ---
 

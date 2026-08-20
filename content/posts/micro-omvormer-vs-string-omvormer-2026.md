@@ -395,7 +395,7 @@ Meerkosten optimizers ten opzichte van gewone string: €1.400. Terugverdientijd
 **Conclusie uit dit rekenvoorbeeld:** bij een schaduwrijk dak is SolarEdge verdedigbaar, ook al zit de terugverdientijd van de meerprijs aan de grens. Bij een schaduwvrij dak is de goedkopere string-omvormer de logische keuze — dat verschil van €1.400 levert meer op als je het in een thuisbatterij of extra isolatie steekt.
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

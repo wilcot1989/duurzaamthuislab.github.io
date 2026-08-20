@@ -331,10 +331,10 @@ Als u overweegt een split-airco aan te schaffen als verwarmings- en koeloplossin
 *DuurzaamThuisLab schrijft datagedreven over verduurzaming: fabrieksspecificaties, publieke data en narekenbare modelberekeningen, met expliciete aannames.*
 
 
-<a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin →</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Daikin →</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

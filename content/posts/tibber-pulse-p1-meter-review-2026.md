@@ -417,7 +417,7 @@ Voor wie geen Tibber-contract heeft of wil: kies de HomeWizard P1. Goedkoper, lo
 
 Voor Tibber-klanten: Pulse is gratis en de meest geïntegreerde optie. No-brainer.
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Sluit Tibber-contract af met gratis Pulse</a> · [HomeWizard P1 alternatief →](/posts/alternatief-voor-tibber-dynamisch-contract-2026/)
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Sluit Tibber-contract af met gratis Pulse</a> · [HomeWizard P1 alternatief →](/posts/alternatief-voor-tibber-dynamisch-contract-2026/)
 
 ---
 
@@ -431,7 +431,7 @@ Voor andere leveranciers of smart-home tinkerers: de HomeWizard P1 wint. De keuz
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow sponsored noopener" target="_blank">Sluit Tibber-contract af met gratis Pulse</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Sluit Tibber-contract af met gratis Pulse</a>
 
 ## Gerelateerde artikelen
 

@@ -134,7 +134,7 @@ Niet alle daken zijn veilig om zelf op te gaan. In dat geval drie opties:
 
 **1. Professionele schoonmaak**: €4-€8 per paneel. Ze gebruiken ladders met platforms of telescoopborstels van de grond. Voor 12 panelen: €60-€120.
 
-**2. Onderhoudscontract**: €60-€120 per jaar voor jaarlijkse schoonmaak + visuele inspectie. <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Zonneplan</a> en sommige andere installateurs bieden dit aan.
+**2. Onderhoudscontract**: €60-€120 per jaar voor jaarlijkse schoonmaak + visuele inspectie. <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener">Zonneplan</a> en sommige andere installateurs bieden dit aan.
 
 **3. Robotreinigers**: dakgemonteerde robots die maandelijks zelfstandig reinigen. Investering €1.500-€3.500. Alleen rendabel bij installaties >25 panelen of moeilijk bereikbare daken.
 

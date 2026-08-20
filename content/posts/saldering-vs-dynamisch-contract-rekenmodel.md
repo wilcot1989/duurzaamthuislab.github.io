@@ -207,7 +207,7 @@ De drie populairste in 2026:
 
 **Voor wie**: EV-bezitters, smart-home liefhebbers, mensen die graag automatiseren.
 
-[Lees onze Tibber review →](/posts/tibber-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Tibber</a>
+[Lees onze Tibber review →](/posts/tibber-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
 
 ### Frank Energie
 
@@ -459,7 +459,7 @@ Wachten tot 2027 om over te stappen levert je niets op behalve gemiste besparing
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 

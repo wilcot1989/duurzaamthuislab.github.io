@@ -48,7 +48,7 @@
           <div class="verdict-name">{{ .name }}</div>
           <div class="verdict-price">Vanaf &euro;{{ .price }}</div>
         </div>
-        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer sponsored" class="cta cta-affiliate">Bekijk {{ .name }} &rarr;</a>
+        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer{{ if $.Params.affiliate }} sponsored{{ end }}" class="cta cta-affiliate">Bekijk {{ .name }} &rarr;</a>
       </div>
     </div>
     {{ end }}{{ end }}
@@ -64,7 +64,7 @@
           <div class="product-name">{{ add $i 1 }}. {{ $p.name }}</div>
           <div class="product-price">Vanaf &euro;{{ $p.price }}</div>
         </div>
-        <a href="{{ $p.url }}" target="_blank" rel="noopener noreferrer sponsored" class="cta cta-affiliate cta-sm">Bekijk &rarr;</a>
+        <a href="{{ $p.url }}" target="_blank" rel="noopener noreferrer{{ if $.Params.affiliate }} sponsored{{ end }}" class="cta cta-affiliate cta-sm">Bekijk &rarr;</a>
       </div>
       {{ end }}
     </div>
@@ -142,7 +142,7 @@
     <div style="font-family:var(--mono);font-size:.65rem;letter-spacing:.12em;text-transform:uppercase;color:var(--terracotta,#C66E3F);margin-bottom:.1rem;">Aanbevolen</div>
     <div style="font-weight:600;font-size:.95rem;color:var(--ink,#1a2b1f);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">{{ .name }}</div>
   </div>
-  <a href="{{ .url }}" class="cta cta-affiliate cta-sm" target="_blank" rel="sponsored noopener" style="white-space:nowrap;">Bekijk →</a>
+  <a href="{{ .url }}" class="cta cta-affiliate cta-sm" target="_blank" rel="noopener{{ if $.Params.affiliate }} sponsored{{ end }}" style="white-space:nowrap;">Bekijk →</a>
 </div>
 <style>@media(max-width:768px){#mobileCta.show{display:flex !important}main,article{padding-bottom:5rem !important}}@media(min-width:769px){#mobileCta{display:none !important}}</style>
 <script>(function(){var b=document.getElementById('mobileCta');if(!b)return;var t=document.querySelector('article');if(!t)return;function c(){var r=t.getBoundingClientRect();var p=Math.max(0,Math.min(1,(window.innerHeight-r.top)/(r.height||1)));if(p>0.25&&p<0.95)b.classList.add('show');else b.classList.remove('show');}window.addEventListener('scroll',c,{passive:true});c();})();</script>

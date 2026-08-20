@@ -94,7 +94,7 @@ Branche-vereniging. Lidmaatschap zegt iets, maar niet alles. Wel: bij geschil he
 
 ### Erkenning fabrikant
 
-Sommige installateurs zijn officieel erkend door fabrikanten (ATAG, Daikin, Mitsubishi etc.). Voordeel: bij garantie-claim sneller geholpen. Bekijk <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow sponsored noopener">ATAG-erkende installateurs</a> via hun website voor warmtepomp-specifiek werk.
+Sommige installateurs zijn officieel erkend door fabrikanten (ATAG, Daikin, Mitsubishi etc.). Voordeel: bij garantie-claim sneller geholpen. Bekijk <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow noopener">ATAG-erkende installateurs</a> via hun website voor warmtepomp-specifiek werk.
 
 ## 3. Het eerste woningbezoek: wat moet er gebeuren?
 
@@ -248,7 +248,7 @@ Een onafhankelijk energieadviseur kost 350-650 euro. Bij installaties >15.000 eu
 
 Een warmtepomp verbruikt 2.400-4.800 kWh extra per jaar. Op een vast contract betaal je dat tegen middentarief. Op een dynamisch contract met slimme sturing 25-40 procent goedkoper.
 
-Onze aanbeveling: bij warmtepomp-installatie direct overstap naar <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber dynamisch contract</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>. Besparing op warmtepomp-deel alleen al 240-480 euro per jaar.
+Onze aanbeveling: bij warmtepomp-installatie direct overstap naar <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber dynamisch contract</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>. Besparing op warmtepomp-deel alleen al 240-480 euro per jaar.
 
 ## 13. Technische details: wat is SCOP en waarom is het de belangrijkste vraag?
 
@@ -320,7 +320,7 @@ Vijf stappen voor 2026:
 2. **Maak een shortlist van 4-6 installateurs.** RVO-erkend, Sterren-keurmerk minimaal 3 (of 4-5 bij complex pand).
 3. **Vraag 3-5 offertes.** Met de 12 vragen uit hoofdstuk 5.
 4. **Bel referenties.** Minimaal 3 vergelijkbare projecten van de winnaar.
-5. **Sluit dynamisch contract af** vóór installatie via <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>.
+5. **Sluit dynamisch contract af** vóór installatie via <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>.
 
 Verder lezen: [beste warmtepomp-installateur-kiezen](/posts/beste-warmtepompinstallateur-kiezen-2026/), [beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/), [beste hybride warmtepomp](/posts/beste-hybride-warmtepomp-2026/), [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/), [aardwarmte bodembron warmtepomp](/posts/aardwarmte-warmtepomp-bodembron-2026/), [beste warmtepomp rijtjeshuis](/posts/beste-warmtepomp-rijtjeshuis-2026/), [beste isolatie voor warmtepomp](/posts/beste-isolatie-voor-warmtepomp-2026/), [zonnepanelen-installateur-alternatieven](/posts/alternatief-voor-zonneplan-installateur-2026/).
 
@@ -348,7 +348,7 @@ Een goede installateur komt 4-8 weken na installatie terug voor controle. Bij ee
 
 Bij installateurs die zo n controle niet doen: na 12 maanden zelf een externe energieadviseur inschakelen (350-650 euro) om SCOP te valideren. Onder garantieperiode kun je dan nog claimen.
 
-Voor de optimalisatie via een dynamisch contract: zie ons overzicht [beste dynamisch energiecontract](/posts/beste-dynamisch-energiecontract-2026/) en [beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/). Combinatie warmtepomp + dynamisch contract via <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> bespaart vaak 240-480 euro extra per jaar.
+Voor de optimalisatie via een dynamisch contract: zie ons overzicht [beste dynamisch energiecontract](/posts/beste-dynamisch-energiecontract-2026/) en [beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/). Combinatie warmtepomp + dynamisch contract via <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> bespaart vaak 240-480 euro extra per jaar.
 
 ---
 

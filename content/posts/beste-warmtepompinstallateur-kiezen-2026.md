@@ -353,7 +353,7 @@ Voor de gemiddelde huisbezitter: drie offertes opvragen, persoonlijk huisbezoek 
 
 Voor wie geen tijd heeft: kies een gevestigde Techniek Nederland-erkende installateur in de regio, met meer dan 50 reviews op Google met gemiddelde >4,5 sterren. Niet de allergoedkoopste, niet de duurste.
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ATAG warmtepompen</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Daikin warmtepompen</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk ATAG warmtepompen</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Daikin warmtepompen</a>
 
 ---
 

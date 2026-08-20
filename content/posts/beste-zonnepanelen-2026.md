@@ -452,7 +452,7 @@ Wat je hieruit kunt halen: het verschil tussen merken zit minder in de degradati
 *Laatst bijgewerkt: april 2026.*
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 
 

@@ -224,14 +224,14 @@ function berekenSaldering() {
     batterijDiv.innerHTML = '<div style="background:#f0f7f4; border-radius:8px; padding:1rem; border:1px solid #2d7d46;">' +
       '<strong>Thuisbatterij is voor jou rendabel</strong> — terugverdientijd ~' + fmtJr(terugverdienJaar) + ' (modelberekening, incl. 21% btw, zonder rijkssubsidie).<br>' +
       'Een 5 kWh batterij kan ~' + Math.round(opvangbaar) + ' kWh/jaar extra zelf verbruiken → besparing ' + fmt(batterijBesparing) + '/jaar.<br><br>' +
-      '<a href="https://go.duurzaamthuislab.nl/sessy" style="background:#2d7d46; color:white; padding:.5rem 1rem; border-radius:6px; text-decoration:none; margin-right:.5rem; display:inline-block; margin-bottom:.3rem;" target="_blank" rel="nofollow noopener sponsored">Sessy 5 kWh bekijken →</a> ' +
-      '<a href="https://go.duurzaamthuislab.nl/marstek" style="background:#1a5276; color:white; padding:.5rem 1rem; border-radius:6px; text-decoration:none; display:inline-block; margin-bottom:.3rem;" target="_blank" rel="nofollow noopener sponsored">Marstek Venus bekijken →</a>' +
+      '<a href="https://go.duurzaamthuislab.nl/sessy" style="background:#2d7d46; color:white; padding:.5rem 1rem; border-radius:6px; text-decoration:none; margin-right:.5rem; display:inline-block; margin-bottom:.3rem;" target="_blank" rel="nofollow noopener">Sessy 5 kWh bekijken →</a> ' +
+      '<a href="https://go.duurzaamthuislab.nl/marstek" style="background:#1a5276; color:white; padding:.5rem 1rem; border-radius:6px; text-decoration:none; display:inline-block; margin-bottom:.3rem;" target="_blank" rel="nofollow noopener">Marstek Venus bekijken →</a>' +
       '</div>';
   } else {
     batterijDiv.style.display = 'block';
     batterijDiv.innerHTML = '<div style="background:#f9f9f9; border-radius:8px; padding:1rem; border:1px solid #ddd;">' +
       '<strong>Thuisbatterij is nu nog niet rendabel</strong> voor jouw situatie — terugverdientijd ~' + fmtJr(terugverdienJaar) + '.<br>' +
-      'Tip: een dynamisch contract (<a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener sponsored">Tibber</a>) is voor jou de betere eerste stap. Wacht op verdere prijsdaling van batterijen.' +
+      'Tip: een dynamisch contract (<a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a>) is voor jou de betere eerste stap. Wacht op verdere prijsdaling van batterijen.' +
       '</div>';
   }
 
@@ -318,7 +318,7 @@ Heb je vragen over de uitkomst of mis je een variabele in het model? Laat een re
 *de redactie van DuurzaamThuisLab — april 2026*
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 

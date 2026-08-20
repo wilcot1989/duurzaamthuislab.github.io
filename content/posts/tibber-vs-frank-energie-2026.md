@@ -265,7 +265,7 @@ Tibber is de beste keus als je:
 - **Inzicht wil in je verbruik** — de Pulse + app geven je data die geen andere leverancier biedt
 - **Energie bewuster wil gebruiken** — de app motiveert je met prijsnotificaties
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber — directe aanmelding</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber — directe aanmelding</a>
 
 ---
 
@@ -343,7 +343,7 @@ Op basis van de tarieven, voorwaarden en de doorrekening hierboven:
 
 Geen van beide is "fout". Dynamisch contract zonder marge is in 2026 altijd beter dan een vast contract — dat is de echte keuze die je moet maken. Over [dynamisch vs vast contract](/posts/dynamisch-vs-vast-contract-2026/) staat een uitgebreider artikel op de site.
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Overstappen naar Tibber</a> &nbsp;|&nbsp; <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Overstappen naar Frank Energie</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Overstappen naar Tibber</a> &nbsp;|&nbsp; <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Overstappen naar Frank Energie</a>
 
 ---
 

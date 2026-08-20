@@ -55,7 +55,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;">€ 0,018/kWh<br><span style="color:#666;font-size:.82rem;">peildatum aug 2026 — gastarief wijzigt per 1 sep 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 8,50/mnd stroom<br><span style="color:#666;font-size:.82rem;">gas idem, gaat per 1 sep 2026 naar € 9,75</span></td>
       <td style="padding:.7rem;vertical-align:top;">Dagelijks opzegbaar, zonder opzegboete</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/anwb-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/anwb-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
       <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/budget-thuis-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Budget Thuis</a></strong></td>
@@ -63,7 +63,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">Omzetten naar vast kan op ieder moment zonder opzegvergoeding; geen opzegtermijn in dagen gepubliceerd</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/budget-thuis-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/budget-thuis-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
       <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/coolblue-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Coolblue Energie</a></strong></td>
@@ -135,7 +135,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">Elke maand opzegbaar zonder boete</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/engie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/engie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
       <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/essent?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Essent</a></strong></td>
@@ -159,7 +159,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">Maandelijks opzegbaar; bij dynamisch wordt geen opzegboete genoemd (de 30 dagen opzegtermijn die de site noemt, hoort bij het variabele contract)</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/greenchoice?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/greenchoice?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
       <td style="padding:.7rem;vertical-align:top;"><strong>GroeneStroomLokaal</strong></td>
@@ -199,7 +199,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;">€ 0,0248/kWh<br><span style="color:#666;font-size:.82rem;">peildatum aug 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 5,99/mnd per contract<br><span style="color:#666;font-size:.82rem;">stroom en gas zijn aparte contracten</span></td>
       <td style="padding:.7rem;vertical-align:top;">Elk moment opzegbaar, zonder boete of opzegvergoeding</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/tibber?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/tibber?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
       <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/vandebron?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Vandebron</a></strong></td>
@@ -223,7 +223,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;">€ 0,02/kWh<br><span style="color:#666;font-size:.82rem;">gas € 0,08/m³, peildatum aug 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 6,25/mnd per product<br><span style="color:#666;font-size:.82rem;">stroom en gas apart</span></td>
       <td style="padding:.7rem;vertical-align:top;">Dagelijks kosteloos opzegbaar, geen opzegboetes, 14 dagen bedenktijd</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/zonneplan?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/zonneplan?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
       <td style="padding:.7rem;vertical-align:top;"><strong>Zonopnaam</strong><br><span style="color:#666;font-size:.82rem;">voorheen Vrijopnaam</span></td>

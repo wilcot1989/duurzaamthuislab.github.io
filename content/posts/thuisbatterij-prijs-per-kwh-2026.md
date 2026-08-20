@@ -371,13 +371,13 @@ In dit model levert Marstek over 10 jaar circa €2.000 meer op dan Sessy en cir
 ## Onze prijs/kwaliteit-aanbevelingen
 
 ### Beste prijs/kWh (€326/kWh)
-**Marstek Venus E 8,2 kWh** voor €2.679. Snelste terugverdientijd (3-4 jaar). Geschikt voor smart-home liefhebbers met Home Assistant. <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a>
+**Marstek Venus E 8,2 kWh** voor €2.679. Snelste terugverdientijd (3-4 jaar). Geschikt voor smart-home liefhebbers met Home Assistant. <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek</a>
 
 ### Beste prijs/kWaliteit (€550/kWh)
-**Sessy 10 kWh** voor €5.500 (incl. btw, excl. installatie). Sweet spot van NL-service, automation, en prijs. Voor de gemiddelde gebruiker. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a>
+**Sessy 10 kWh** voor €5.500 (incl. btw, excl. installatie). Sweet spot van NL-service, automation, en prijs. Voor de gemiddelde gebruiker. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>
 
 ### Beste premium ervaring (€700/kWh)
-**Zonneplan thuisbatterij** voor €6.995 of lease €54/mnd. Voor wie alles van één partij wil. <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Zonneplan</a>
+**Zonneplan thuisbatterij** voor €6.995 of lease €54/mnd. Voor wie alles van één partij wil. <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan</a>
 
 ### Voor groot huis + EV (€704/kWh)
 **Tesla Powerwall 3** voor €9.500. Hogere capaciteit (13,5 kWh) en V2H integratie met Tesla auto.
@@ -407,7 +407,7 @@ Uiteindelijk is €/kWh een hulpmiddel — gebruik het, maar combineer het met j
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

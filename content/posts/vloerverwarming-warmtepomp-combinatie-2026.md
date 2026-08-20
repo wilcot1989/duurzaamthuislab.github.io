@@ -332,7 +332,7 @@ Vloerverwarming + warmtepomp is de gouden combinatie voor maximaal comfort en mi
 **Tip:** Begin met isolatie en een hybride warmtepomp op je bestaande radiatoren. Wanneer je later toch gaat verbouwen, leg dan vloerverwarming aan en schakel over naar full-electric.
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
 
 ## Verlengde FAQ: praktische vragen over vloerverwarming en warmtepomp
 
@@ -353,7 +353,7 @@ Ja. Je kunt vloerverwarming leggen met tijdelijk een menggroep die de aanvoertem
 Slaapkamers met vloerverwarming zijn comfortabel maar niet altijd zinvol. De meeste mensen slapen goed bij een lager gestookte slaapkamer (17-18°C), waarvoor je minder dan 30 W/m² warmtevermogen nodig hebt — dat halen zelfs LT-radiatoren zonder extra kosten. Op de begane grond, waar je veel tijd doorbrengt op blote voeten, is het effect het meest merkbaar. Bij een verbouwing op de verdieping: leg de infrastructuur wel aan (leidingen, verdeler), maar de kosten zijn dan laag — later beslissen of je het activeert.
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
 
 ## Lees ook
 

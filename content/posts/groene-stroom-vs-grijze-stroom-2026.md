@@ -276,7 +276,7 @@ Het prijsverschil tussen groen en grijs is verwaarloosbaar (€0-€50/jaar). Ki
 Maar vergeet niet: het grootste effect heb je met eigen zonnepanelen, een warmtepomp en slim energiegebruik.
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
 
 

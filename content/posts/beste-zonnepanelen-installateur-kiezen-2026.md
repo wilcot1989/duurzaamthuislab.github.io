@@ -318,7 +318,7 @@ In 2026 is een goede installateur kiezen geen kwestie van "voelt goed" maar van 
 
 Begin met een [gratis dakcheck via Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) om te weten wat je dak aankan, en leg daarna deze 11 checks naast elke offerte die je krijgt.
 
-[Vraag nu een gratis dakcheck aan](https://go.duurzaamthuislab.nl/zonneplan) — onverbindend en geen verkoopdruk. <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Zonneplan dakcheck →</a>
+[Vraag nu een gratis dakcheck aan](https://go.duurzaamthuislab.nl/zonneplan) — onverbindend en geen verkoopdruk. <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener">Zonneplan dakcheck →</a>
 
 ---
 

@@ -350,7 +350,7 @@ Voor een Marstek of Anker tot 5 kWh: 1-fase is genoeg. Voor 10 kWh+ met EV-laden
 
 Twijfel je nog: kijk naar prijs per kWh en naar of je zelf wilt inrichten. Tot 5 kWh en zonder inrichtwerk: Anker. Boven 5 kWh of met automatisering: Marstek.
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a> · <a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Anker Solix</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek</a> · <a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Anker Solix</a>
 
 ---
 

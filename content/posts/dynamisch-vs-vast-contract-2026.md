@@ -294,7 +294,7 @@ Dynamisch is in 2026 voor een flexibel huishouden vrijwel altijd de voordeligste
 
 Onze redactionele lijn: dynamisch voor huishoudens met een EV, een warmtepomp of thuisbatterij en de wil om te sturen; vast voor huishoudens waar het maandbudget geen uitschieters aankan. Dat tweede geldt vaker dan de besparingsverhalen suggereren.
 
-**Probeer dynamisch:** <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie bekijken →</a> of <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber bekijken →</a>
+**Probeer dynamisch:** <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie bekijken →</a> of <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber bekijken →</a>
 
 ---
 

@@ -214,7 +214,7 @@ Geen gestroomlijnde "all-in-one" oplossing. Je bestelt 5 componenten, montage is
 **Niet kiezen als:**
 - Je een rijtjeshuis hebt zonder backup-behoefte
 - Je geen verstand hebt van techniek
-- Je primair op dynamisch handel mikt — kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a> of <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow sponsored noopener">Marstek</a>
+- Je primair op dynamisch handel mikt — kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a> of <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Marstek</a>
 - Budget belangrijker is dan kwaliteit
 
 ## Combinatie met dynamisch contract

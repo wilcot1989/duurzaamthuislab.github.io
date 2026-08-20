@@ -87,7 +87,7 @@ Sterk punt van Sessy volgens gebruikersreviews: de klantenservice communiceert d
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>Sessy — Nederlandse marktleider met groei-pijn</strong><br>
 Stabiele Nederlandse fabrikant, 10 jaar garantie, sterke app-integratie met Tibber en Frank Energie. Levertijd loopt op in Q4 maar service blijft persoonlijk. Onze <a href="/posts/marstek-venus-review-thuisbatterij/">Marstek review</a> staat hier als vergelijking.<br><br>
-<a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Sessy prijzen &rarr;</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Sessy prijzen &rarr;</a>
 </div>
 
 ## Marstek Venus: snelste leverbaar, prijsvechter
@@ -109,7 +109,7 @@ Nadeel van dat model: de kwaliteit van Marstek-installaties verschilt sterk per 
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>Marstek Venus — beste prijs-leverbaarheid in Q4</strong><br>
 1.500 EUR goedkoper dan Sessy met vergelijkbare specs en EU-garantie. Levertijd 2 tot 4 weken in Q4. Voor wie nog in 2026 geplaatst wil zijn de meest realistische optie. Lees onze <a href="/posts/sessy-vs-marstek-thuisbatterij-2026/">Sessy vs Marstek</a> head-to-head.<br><br>
-<a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Marstek prijzen &rarr;</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Marstek prijzen &rarr;</a>
 </div>
 
 ## Anker Solix Solarbank 3: nieuw maar interessant

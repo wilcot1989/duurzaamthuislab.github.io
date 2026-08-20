@@ -261,7 +261,7 @@ Tesla Powerwall 3 en Sessy zijn beide uitstekende thuisbatterijen, maar voor ver
 
 Voor 80 procent van de Nederlandse rijtjeshuizen is Sessy naar onze inschatting de slimmere keuze — je begint klein, je gebruikt het dynamische contract maximaal, en je bouwt op naar je werkelijke behoefte. Voor vrijstaande woningen met hoog verbruik en backup-wensen is Powerwall de juistere optie.
 
-Bekijk de actuele prijzen en aanbiedingen via <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Sessy</a> of <a href="https://go.duurzaamthuislab.nl/tesla-powerwall" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Tesla Powerwall</a> voor je definitieve keuze.
+Bekijk de actuele prijzen en aanbiedingen via <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Sessy</a> of <a href="https://go.duurzaamthuislab.nl/tesla-powerwall" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Tesla Powerwall</a> voor je definitieve keuze.
 
 ## Wanneer een Powerwall of Sessy NIET de moeite waard is
 

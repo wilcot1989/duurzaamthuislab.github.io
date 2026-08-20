@@ -331,10 +331,10 @@ Bij een investering van €600 is de terugverdientijd 4,8 jaar. Bescheiden, maar
 *DuurzaamThuisLab schrijft datagedreven over verduurzaming: fabrieksspecificaties, publieke data en narekenbare modelberekeningen, met expliciete aannames.*
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan →</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan →</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan</a>
 
 ## Gerelateerde artikelen
 

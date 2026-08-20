@@ -407,11 +407,11 @@ De markt voor thuisbatterijen in Nederland is de afgelopen 3 jaar sterk gegroeid
 Alle bovengenoemde producten gebruiken LiFePO4-chemie. NMC-thuisbatterijen zijn vrijwel verdwenen uit de Nederlandse markt.
 
 ---
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Sessy thuisbatterij (LiFePO4)</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Sessy thuisbatterij (LiFePO4)</a>
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Marstek B5000 (LiFePO4)</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Marstek B5000 (LiFePO4)</a>
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

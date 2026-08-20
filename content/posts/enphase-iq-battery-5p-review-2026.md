@@ -156,7 +156,7 @@ Enphase IQ Battery 5P is een goede keuze als:
 - Je een groot huis hebt met hoog piekverbruik
 
 Niet geschikt als:
-- Je primair geld wilt verdienen via dynamisch contract → kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a> of <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow sponsored noopener">Marstek</a>
+- Je primair geld wilt verdienen via dynamisch contract → kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a> of <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Marstek</a>
 - Je een strak budget hebt
 - Je een kleine woning met laag verbruik hebt
 
@@ -176,7 +176,7 @@ Voor een uitgebreidere vergelijking lees [Sessy vs Marstek](/posts/sessy-vs-mars
 
 ## Combinatie met dynamisch contract
 
-Wil je toch dynamisch handelen met Enphase, dan zijn <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> en <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a> de logische keuzes. Beide bieden een API die via Home Assistant met Enphase te koppelen is. Reken erop dat je die koppeling zelf moet inrichten en testen — het is geen plug-and-play oplossing.
+Wil je toch dynamisch handelen met Enphase, dan zijn <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> en <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a> de logische keuzes. Beide bieden een API die via Home Assistant met Enphase te koppelen is. Reken erop dat je die koppeling zelf moet inrichten en testen — het is geen plug-and-play oplossing.
 
 Lees ook onze [dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/) voor de juiste keuze.
 

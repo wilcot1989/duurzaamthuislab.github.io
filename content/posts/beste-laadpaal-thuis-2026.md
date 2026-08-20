@@ -330,7 +330,7 @@ Twee dingen die de uitkomst bepalen: het tarief van de publieke laadpalen die je
 
 In 2026 is **Easee Charge Lite** de beste consumentenlaadpaal: scherpste prijs, beste dynamisch laden, beste app, snelste solar charging respons. **Alfen Eve** wint voor zakelijk gebruik en wie 5+ jaar garantie eist. **Wallbox Pulsar Plus** zit in het midden — goed alternatief maar geen onderscheidende features.
 
-[Bekijk Easee Charge Lite →](https://go.duurzaamthuislab.nl/easee) <a href="https://go.duurzaamthuislab.nl/easee" target="_blank" rel="nofollow sponsored noopener">Easee details</a>
+[Bekijk Easee Charge Lite →](https://go.duurzaamthuislab.nl/easee) <a href="https://go.duurzaamthuislab.nl/easee" target="_blank" rel="nofollow noopener">Easee details</a>
 
 ---
 

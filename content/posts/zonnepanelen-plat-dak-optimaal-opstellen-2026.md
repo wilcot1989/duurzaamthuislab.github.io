@@ -226,7 +226,7 @@ Voor het merendeel van de Nederlandse plat-dak-bewoners komt **zuid 15° met thu
 
 Voor wie geen batterij wil/kan: **oost-west 10°** is significant beter post-2027. €150-€200/jaar voordeel zonder batterij-investering.
 
-Voor wie installateur belt: vraag specifiek beide opties op. <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Zonneplan</a> en andere grote installateurs bieden beide standaard. Vraag offerte voor zuid en oost-west — vergelijk niet alleen kWp maar ook geprojecteerde zelfconsumptie en post-2027 cashflow.
+Voor wie installateur belt: vraag specifiek beide opties op. <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener">Zonneplan</a> en andere grote installateurs bieden beide standaard. Vraag offerte voor zuid en oost-west — vergelijk niet alleen kWp maar ook geprojecteerde zelfconsumptie en post-2027 cashflow.
 
 ## Aerodynamica: ballast-systemen vergeleken
 
@@ -311,7 +311,7 @@ Voor klein plat dak (30-40 m²) met 2-3 dakopeningen: bruikbaar oppervlak vaak s
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Zonneplan</a> · <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy thuisbatterij</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan</a> · <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy thuisbatterij</a>
 
 ## Drainage en lekkage-risico
 

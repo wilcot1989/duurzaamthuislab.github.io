@@ -206,8 +206,8 @@ Je hebt geen direct contact met Pylontech NL — alles via importeur. RMA-termij
 
 **Niet kiezen als:**
 - Je geen verstand hebt van techniek
-- Je een Nederlandse helpdesk wilt — kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a>
-- Je voornamelijk dynamisch wilt handelen — kies <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow sponsored noopener">Marstek</a>
+- Je een Nederlandse helpdesk wilt — kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a>
+- Je voornamelijk dynamisch wilt handelen — kies <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Marstek</a>
 - Je een minimale installatie wilt (Sessy is plug-en-play)
 
 ## Combinatie met dynamisch contract

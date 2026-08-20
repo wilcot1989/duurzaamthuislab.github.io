@@ -461,7 +461,7 @@ Beide merken blijven relevant. SolarEdge zal groeien in de energie-arbitrage mar
 Beide zijn uitstekende keuzes — je kunt met geen van beide een verkeerde beslissing nemen. Bespreek je specifieke situatie (dakoriëntatie, schaduw, toekomstplannen) met je installateur voor een persoonlijk advies.
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 
 

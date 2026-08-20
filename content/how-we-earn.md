@@ -1,6 +1,7 @@
 ---
 title: "Hoe we geld verdienen"
 date: 2026-04-29
+lastmod: 2026-08-21
 description: "Het verdienmodel van DuurzaamThuisLab uitgelegd in 3 minuten."
 draft: false
 ---
@@ -15,12 +16,13 @@ Je ziet geen Google AdSense, banners van derden, sponsored content of pop-ups. D
 ### Wel: affiliate-commissies
 Wanneer je via een productlink op onze site iets koopt, betaalt de leverancier ons een vergoeding. Concrete voorbeelden van hoe dat eruit ziet:
 
-| Type product | Commissie | Voorbeeld |
-|--------------|-----------|-----------|
-| Boekhoudsoftware | €15-€75 per signup | Moneybird, SnelStart |
-| VPN | 30-45% van eerste jaar | NordVPN |
-| Energiecontract | €20-€50 per overstap | Tibber |
-| Verzekering | €5-€30 per lead | Independer |
+| Type product | Model | Actuele partners (aug 2026) |
+|--------------|-------|------------------------------|
+| Powerstations & thuisbatterij-hardware | percentage van de aankoop | EcoFlow, Jackery, Bluetti, Anker Solix, ALLPOWERS (via AWIN) |
+| Energiecontract | vergoeding per overstap | energiedirect (via Daisycon) |
+| Overige merken op de site | geen relatie (nog) | links naar bijv. Sessy, Marstek, Tibber, Zonneplan of Frank Energie zijn gewone verwijzingen; voor een aantal energieleveranciers lopen aanvragen |
+
+De actuele lijst verandert als er programma's bijkomen of afvallen; de disclosure bovenaan elk artikel is altijd leidend voor dát artikel.
 
 Per maand verdienen we daarmee genoeg om:
 - Hosting + domein + CDN (~€30/mnd)

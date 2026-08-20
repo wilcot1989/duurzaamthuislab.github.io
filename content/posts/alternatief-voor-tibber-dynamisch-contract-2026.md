@@ -146,7 +146,7 @@ ANWB Energie heeft een basisintegratie met laadpalen, maar geen native auto-API-
 - Je woont in een koude regio (Groningen, Drenthe) waar koudegolven vaker voorkomen
 - Je bent ouder en prefereert een vertrouwd Nederlands bedrijf met breed klantenservicenetwerk
 
-<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ANWB Energie dynamisch →</a>
+<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk ANWB Energie dynamisch →</a>
 
 Uitgebreide vergelijking: [Tibber vs ANWB Energie dynamisch](/posts/tibber-vs-anwb-energie-dynamisch-2026/) en [ANWB Energie dynamisch review](/posts/anwb-energie-dynamisch-review-2026/)
 

@@ -197,7 +197,7 @@ Vraag offertes bij minimaal 3 installateurs. Speciale aandachtspunten bij social
 - Garantie overdraagbaar
 - Lichte montage (geen ingrijpende dakvernieuwing)
 
-Aanbevolen: <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Zonneplan</a> heeft specifiek pakketten voor huurders. Coolblue ook geschikt.
+Aanbevolen: <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener">Zonneplan</a> heeft specifiek pakketten voor huurders. Coolblue ook geschikt.
 
 ### Stap 3: Financiering
 

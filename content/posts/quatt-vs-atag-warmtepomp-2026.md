@@ -133,7 +133,7 @@ Atag werkt met een dealer-netwerk van ongeveer 250 partijen in Nederland. Dat is
 
 Onze aanbeveling bij Atag: vraag drie offertes op bij verschillende dealers, vergelijk de reviews, en vraag expliciet om een warmteverliesberekening en een capaciteitsberekening. Een dealer die zonder berekening een standaard 5 kW-unit aanbiedt, kun je uitsluiten — ongeacht de prijs.
 
-Quatt-route: één partij, één app, één telefoonnummer. <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Quatt-installatie</a> aanvragen gebeurt online; binnen 2 weken plaatsing. Eenduidiger maar minder flexibel.
+Quatt-route: één partij, één app, één telefoonnummer. <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Quatt-installatie</a> aanvragen gebeurt online; binnen 2 weken plaatsing. Eenduidiger maar minder flexibel.
 
 ## Levensduur en restwaarde
 
@@ -289,7 +289,7 @@ ANBI-stichtingen en duurzaamheidsfondsen kunnen leningen verstrekken voor 0-1% r
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> · <a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Quatt</a> · <a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Atag</a>
 
 ## Buurland-vergelijking: hoe scoren beide in België en Duitsland?
 

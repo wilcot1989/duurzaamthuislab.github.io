@@ -390,7 +390,7 @@ Uit gebruikersreviews en forumverslagen van hybride-eigenaren komt een redelijk 
 **Financieel beeld:** bij een netto investering van circa €3.200-€4.000 na ISDE en een jaarbesparing van €500-€900 (zie de scenario's hierboven) komt de terugverdientijd in de meeste gevallen tussen de 4 en 7 jaar uit. Koude stookseizoenen drukken die tijd, milde winters verlengen hem — reken daarom met het midden van de bandbreedte en niet met een gunstig jaar.
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

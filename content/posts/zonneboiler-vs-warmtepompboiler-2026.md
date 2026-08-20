@@ -373,7 +373,7 @@ De gemiddelde installatie inclusief ISDE-voorbereiding neemt 3–5 weken van bes
 *Disclosure: deze pagina bevat affiliate-links. Prijzen en subsidies zijn gebaseerd op publieke bronnen van begin 2026 en kunnen zijn gewijzigd. Controleer altijd de actuele RVO-lijst en vraag meerdere offertes aan.*
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

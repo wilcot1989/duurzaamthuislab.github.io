@@ -370,7 +370,7 @@ Er is wel één particuliere situatie waarin het rond kan komen: een grote weide
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 ## Kippen onder zonnepanelen: de meest schaalbare particuliere variant
 
@@ -468,9 +468,9 @@ Zijn alle drie aanwezig, dan is dit een van de leukste verduurzamingsprojecten d
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de beste zonnepanelen voor een agri-PV project</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de beste zonnepanelen voor een agri-PV project</a>
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Combineer je agri-PV met een Sessy thuisbatterij</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Combineer je agri-PV met een Sessy thuisbatterij</a>
 
 ## Gerelateerde artikelen
 

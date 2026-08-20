@@ -406,7 +406,7 @@ Een volledig geluidsmeetrapport bevat:
 Dit rapport is het document dat je nodig hebt als je bij de gemeente een klacht indient of als bewijs in een civiele procedure.
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

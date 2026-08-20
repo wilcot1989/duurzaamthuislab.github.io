@@ -96,7 +96,7 @@ In een gemiddeld gezinsprofiel liggen de pieken rond 07:00-09:00 (douche en ontb
 
 Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden leveren al een groot deel van de winst; de batterij voegt daar arbitrage en extra zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, moet je met je eigen verbruikscijfers narekenen — bij een klein prijsverschil per jaar loopt de terugverdientijd van een batterij snel op tot ver boven de tien jaar.
 
-Reken het voor jezelf door — zie [het rekenmodel](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> voor concrete prijzen.
+Reken het voor jezelf door — zie [het rekenmodel](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> voor concrete prijzen.
 
 ### Stap 3: koop de juiste hardware
 
@@ -254,7 +254,7 @@ Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijs
 Ga voor 8-10 zonnepanelen + Frank Energie (5 kWh) + dynamisch contract. Investering €8.500. Terugverdientijd 6,5 jaar. Geen warmtepomp nodig — eerst isoleren.
 
 **Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a>.
+14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>.
 
 **Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
 20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.

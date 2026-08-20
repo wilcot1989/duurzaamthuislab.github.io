@@ -445,6 +445,6 @@ Meer weten? Bekijk onze gidsen:
 - [Beste zonnepaneel + powerstation combinatie 2026](/posts/beste-zonnepaneel-powerstation-combinatie-2026/)
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 

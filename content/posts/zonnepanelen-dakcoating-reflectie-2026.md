@@ -433,10 +433,10 @@ Sommige gemeenten (Rotterdam, Amsterdam) experimenteren met "koele daken"-progra
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de beste zonnepanelen van 2026</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de beste zonnepanelen van 2026</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan</a>
 
 ## Gerelateerde artikelen
 

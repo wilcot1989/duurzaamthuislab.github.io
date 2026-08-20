@@ -350,7 +350,7 @@ De beslissing mag een half jaar duren. Een bodembron die goed is gedimensioneerd
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
 
 ## Hulp bij de keuze: vraag eerst een energieadvies aan
 
@@ -363,7 +363,7 @@ Sommige gemeenten vergoeden dit advies gedeeltelijk of volledig via het duurzaam
 *DuurzaamThuisLab schrijft datagedreven over verduurzaming: fabrieksspecificaties, publieke data en narekenbare modelberekeningen, met expliciete aannames.*
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk ATAG warmtepompen →</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk ATAG warmtepompen →</a>
 
 ## Gerelateerde artikelen
 

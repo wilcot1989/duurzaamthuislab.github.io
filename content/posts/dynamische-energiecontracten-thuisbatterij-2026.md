@@ -452,7 +452,7 @@ Met een Huawei Luna 2000 en een dynamisch contract bij Tibber of Zonneplan komt 
 Lees ook onze artikelen over de [thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/) en de [afbouw van de salderingsregeling](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) voor meer achtergrondinformatie.
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
 
 

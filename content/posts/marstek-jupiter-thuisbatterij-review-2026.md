@@ -367,7 +367,7 @@ Voor MKB-bedrijven met maximaal-opbrengst-mindset: kies [Sessy Pro](/posts/sessy
 
 Voor wie gewoon een grote, betaalbare batterij wil zonder fratsen: Marstek Jupiter is in 2026 de prijs-prestatie winnaar in het 15 kWh segment.
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Marstek Jupiter</a> · [Marstek Venus review →](/posts/marstek-venus-review-thuisbatterij/)
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek Jupiter</a> · [Marstek Venus review →](/posts/marstek-venus-review-thuisbatterij/)
 
 ---
 
@@ -381,7 +381,7 @@ Voor wie maximale opbrengst over 10 jaar wil: Sessy Pro is netto voordeliger. Vo
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow sponsored noopener" target="_blank">Bekijk Marstek Jupiter 15 kWh</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Marstek Jupiter 15 kWh</a>
 
 ## Gerelateerde artikelen
 

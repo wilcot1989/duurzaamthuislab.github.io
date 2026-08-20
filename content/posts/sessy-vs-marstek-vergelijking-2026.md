@@ -73,7 +73,7 @@ Dit artikel vergelijkt beide systemen op de acht punten die er werkelijk toe doe
 
 **Kort advies:** Sessy als je gemak wilt en geld geen issue is. Marstek als prijs of schaal een rol speelt.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy →</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Marstek →</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy →</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Marstek →</a>
 
 ---
 
@@ -302,7 +302,7 @@ Sessy en Marstek zijn beide goede thuisbatterijen — maar voor verschillende kl
 
 Voor wie de tijd heeft om HA te leren: Marstek. Voor wie wil dat het gewoon werkt: Sessy. Voor zware verbruikers: Marstek modulair. Voor kleine verbruikers: Marstek Venus A.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy →</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Probeer Tibber →</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy →</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Probeer Tibber →</a>
 
 *Vragen over jouw specifieke situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 

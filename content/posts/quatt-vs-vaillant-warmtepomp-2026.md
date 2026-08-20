@@ -117,7 +117,7 @@ Op een warmtevraag van 12.000 kWh per jaar komt het COP-verschil neer op circa 5
 | Normaal bedrijf (1 m) | 38-42 dB | 35-40 dB |
 | Nachtmodus | niet beschikbaar | 31 dB |
 
-Voor de erfgrens-norm van 40 dB in de nachtperiode is Vaillant de veiligere keuze, vooral doordat er een echte nachtmodus is. Quatt zit met 38-42 dB tegen de norm aan: bij ruime plaatsing geen probleem, bij plaatsing dicht tegen een schutting of in een smalle tuin wél een risico, omdat geluid dan reflecteert. Bij een <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Quatt installatie</a> hoort een geluidsanalyse, dus je weet vooraf of het past — vraag daar expliciet naar en laat je de uitkomst schriftelijk geven.
+Voor de erfgrens-norm van 40 dB in de nachtperiode is Vaillant de veiligere keuze, vooral doordat er een echte nachtmodus is. Quatt zit met 38-42 dB tegen de norm aan: bij ruime plaatsing geen probleem, bij plaatsing dicht tegen een schutting of in een smalle tuin wél een risico, omdat geluid dan reflecteert. Bij een <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Quatt installatie</a> hoort een geluidsanalyse, dus je weet vooraf of het past — vraag daar expliciet naar en laat je de uitkomst schriftelijk geven.
 
 Lees ook [warmtepomp geluid en buren 2026](/posts/warmtepomp-geluid-buren-2026-norm/) voor de norm-uitleg.
 
@@ -257,7 +257,7 @@ Praktische conclusie: met 38-42 dB heeft Quatt weinig marge tot de norm van 40 d
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Vaillant</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Quatt</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Vaillant</a>
 
 ## Wat gebruikers over storingen melden
 

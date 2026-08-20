@@ -529,7 +529,7 @@ Stapel vervolgens de grotere maatregelen op basis van je budget en woning. Een g
 De vraag is niet óf je energiekosten kunt verlagen — maar hoe snel je ermee begint.
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 

@@ -14,7 +14,7 @@ keywords:
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1502672260266-1c1ef2d93688&w=1200&output=webp&q=70
-category: huurwoning
+categories: huurwoning
 tags:
 - huurwoning
 - huurder
@@ -44,6 +44,7 @@ faq:
   a: 'Alleen voor spullen die je meeneemt: P1-meter, plug-in batterij, slimme stekkers. Vaste installaties (slimme thermostaat aansluitkabel, kabelgaten) NIET. Vandaar dat de plug-and-play-route voor huurders vrijwel altijd de beste keuze is.'
 - q: 'Kan ik mijn verhuurder dwingen om te verduurzamen?'
   a: 'Bij corporaties: ja, via Huurcommissie bij label E/F/G sinds 2023. Bij particuliere verhuurder vanaf 2030 verplicht label C voor nieuwe contracten. Tot die tijd: schriftelijk verzoek, bij weigering Huurcommissie. Doorlooptijd 8-14 weken.'
+affiliate: false
 ---
 *Disclosure: de links naar Frank Energie, HomeWizard, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
@@ -89,13 +90,13 @@ Oplossing: alleen ingrepen die je kunt meenemen, en kortere terugverdientijden. 
 
 **7. Plug-in zonnepanelen voor balkon.** Sinds 2025 toegestaan tot 800 W zonder vergunning. Bij verhuizing meeneembaar. Investering 480-790 euro, productie 350-650 kWh per jaar. Wel: vraag toch even toestemming voor zichtbare montage.
 
-**8. Plug-and-play batterij (Marstek Venus E, Sessy plug-in).** Onder de 800 W aansluiting. Investering 1.490-2.700 euro, jaarbesparing 280-420 euro via dynamische arbitrage. Bij verhuizing meeneembaar. Zie [onze vergelijking](/posts/sessy-vs-marstek-thuisbatterij-2026/) en [alternatieven voor Sessy](/posts/alternatief-voor-sessy-thuisbatterij-2026/). <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a> voor de premium-route.
+**8. Plug-and-play batterij (Marstek Venus E, Sessy plug-in).** Onder de 800 W aansluiting. Investering 1.490-2.700 euro, jaarbesparing 280-420 euro via dynamische arbitrage. Bij verhuizing meeneembaar. Zie [onze vergelijking](/posts/sessy-vs-marstek-thuisbatterij-2026/) en [alternatieven voor Sessy](/posts/alternatief-voor-sessy-thuisbatterij-2026/). <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> voor de premium-route.
 
 **9. Infraroodpaneel als bijverwarming.** 145-220 euro per stuk, plug-in, plak-aan-de-wand (kleine schroefjes te dichten met sausje bij vertrek). Spot-comfort in badkamer of werkkamer.
 
 ### Categorie D: contracten en sturing (kosten 0 euro)
 
-**10. Dynamisch energiecontract.** Bij Tibber of Frank Energie. Geen verhuurder-toestemming nodig — dit is jouw contract met je leverancier. Besparing 180-310 euro per jaar bij actief gebruik. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>.
+**10. Dynamisch energiecontract.** Bij Tibber of Frank Energie. Geen verhuurder-toestemming nodig — dit is jouw contract met je leverancier. Besparing 180-310 euro per jaar bij actief gebruik. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>.
 
 **11. Slim laden EV (als je een EV hebt).** Plug-in laadbox op 230 V stopcontact, of slimme plug die laadtijd doortdrukt. Besparing 120-280 euro per jaar bij dynamisch contract.
 
@@ -275,7 +276,7 @@ Voor onafhankelijke informatie over huurder-rechten en verduurzaming: zie [Rijks
 
 Voor elke huurder in 2026: start vandaag met Pakket Light. Investering 250-380 euro, jaarbesparing 180-310 euro, terugverdientijd binnen het jaar. Geen verhuurder-gedoe, geen boren, alles meeneembaar.
 
-Onze aanbevolen start: <a href="https://go.duurzaamthuislab.nl/homewizard" target="_blank" rel="nofollow sponsored noopener">HomeWizard P1-meter</a> + <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber dynamisch contract</a> + 2-4 slimme radiatorknoppen. Vier weken later: kijk hoeveel je hebt bespaard, en beslis of je doorgaat naar Pakket Standaard of Plus.
+Onze aanbevolen start: <a href="https://go.duurzaamthuislab.nl/homewizard" target="_blank" rel="nofollow sponsored noopener">HomeWizard P1-meter</a> + <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber dynamisch contract</a> + 2-4 slimme radiatorknoppen. Vier weken later: kijk hoeveel je hebt bespaard, en beslis of je doorgaat naar Pakket Standaard of Plus.
 
 Verder lezen op deze site: [huurwoning verduurzamen via corporatie](/posts/huurwoning-verduurzamen-corporatie-particulier-2026/), [huurwoning zonnepanelen toestemming](/posts/huurwoning-zonnepanelen-toestemming/), [appartement-gids](/posts/verduurzamen-appartement-2026-complete-gids/), [P1-meter-vergelijking](/posts/beste-energiemonitor-p1-meter-2026/), [Sessy versus Marstek](/posts/sessy-vs-marstek-thuisbatterij-2026/), [alternatieven Sessy](/posts/alternatief-voor-sessy-thuisbatterij-2026/), [balkon-zonnepanelen plug-in](/posts/balkon-zonnepanelen-plug-in-nederland-2026/), [smart home energiebeheer](/posts/smart-home-energiebeheer-2026/).
 

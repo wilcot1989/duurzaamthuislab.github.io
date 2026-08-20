@@ -111,7 +111,7 @@ Praktische gevolgtrekking: twijfel je tussen 5 en 10 kWh en past het budget, dan
 
 Reken de installatie er altijd bij op voordat je met andere merken vergelijkt: bij systemen die installatie in de prijs meenemen, vergelijk je anders appels met peren.
 
-<a href="https://go.duurzaamthuislab.nl/sessy?ref=/posts/sessy-review-thuisbatterij-nederland/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de actuele Sessy-prijzen</a>
+<a href="https://go.duurzaamthuislab.nl/sessy?ref=/posts/sessy-review-thuisbatterij-nederland/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk de actuele Sessy-prijzen</a>
 
 ## Sessy en noodstroom: wat kan het wel en niet?
 
@@ -430,7 +430,7 @@ Voor de meeste Nederlandse zonnepaneelbezitters die een thuisbatterij overwegen,
 
 3. **Groot verbruik + EV + warmtepomp**: kijk verder naar Tesla Powerwall of Huawei Luna voor hogere vermogens en integratie.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy thuisbatterij</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy thuisbatterij</a>
 
 **Belangrijk**: combineer Sessy altijd met een dynamisch contract. Prijsarbitrage is de grootste van de twee opbrengstbronnen en die valt op een vast contract volledig weg — wat overblijft, is alleen het opslaan van je eigen zonneoverschot.
 
@@ -453,7 +453,7 @@ Voor wie meer wil (V2H, hoog vermogen, automatische backup): kijk naar Tesla Pow
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

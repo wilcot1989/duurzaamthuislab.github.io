@@ -188,13 +188,13 @@ Voor backup heb je een speciale "Backup Box" nodig (€800 extra) plus configura
 
 **Niet kiezen als:**
 - Je geen hybride omvormer hebt — te duur
-- Je primair op dynamisch handel mikt — kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a> of <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow sponsored noopener">Marstek</a>
+- Je primair op dynamisch handel mikt — kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a> of <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Marstek</a>
 - Je snelle service belangrijk vindt — kies een Nederlands merk
 - Je <10 kWh nodig hebt
 
 ## Combinatie met dynamisch contract
 
-Voor BYD-eigenaren adviseren wij <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> via de Home Assistant-integratie. Frank Energie kan ook, maar de API is minder volwassen voor BYD-koppeling. Verwacht 1 dag werk om HA in te richten.
+Voor BYD-eigenaren adviseren wij <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> via de Home Assistant-integratie. Frank Energie kan ook, maar de API is minder volwassen voor BYD-koppeling. Verwacht 1 dag werk om HA in te richten.
 
 Lees ook de [dynamische contracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/).
 

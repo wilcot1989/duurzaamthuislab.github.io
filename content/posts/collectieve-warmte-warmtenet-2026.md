@@ -389,11 +389,11 @@ Als massaal mensen overschakelen op warmtepompen, stelt dit eisen aan het elektr
 Een warmtepomp met een slim energiemanagementsysteem — gecombineerd met zonnepanelen en een thuisbatterij — kan zelfs netondersteunend zijn door flexibel te laden op overschotmomenten.
 
 ---
-<a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Daikin Altherma 3 warmtepomp</a>
+<a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Daikin Altherma 3 warmtepomp</a>
 
-<a href="https://go.duurzaamthuislab.nl/bosch" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Bosch Compress warmtepomp</a>
+<a href="https://go.duurzaamthuislab.nl/bosch" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Bosch Compress warmtepomp</a>
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

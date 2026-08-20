@@ -61,7 +61,7 @@ Voor wie weinig tijd heeft, de samenvatting in vijf punten.
 - **Beste keuze 2026?** Vaak Quatt warmtepomp — zie [de uitgebreide uitleg](/posts/smart-home-energiebeheer-2026/).
 - **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
 
-> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> en bouw stapsgewijs uit — niet alles in één keer.
+> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a> en bouw stapsgewijs uit — niet alles in één keer.
 
 ## 1. Wat is het probleem?
 
@@ -96,7 +96,7 @@ In een gemiddeld gezinsprofiel liggen de pieken rond 07:00-09:00 (douche en ontb
 
 Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden leveren al een groot deel van de winst; de batterij voegt daar arbitrage en extra zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, moet je met je eigen verbruikscijfers narekenen — bij een klein prijsverschil per jaar loopt de terugverdientijd van een batterij snel op tot ver boven de tien jaar.
 
-Reken het voor jezelf door — zie [het rekenmodel](/posts/dynamische-energiecontracten-thuisbatterij-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> voor concrete prijzen.
+Reken het voor jezelf door — zie [het rekenmodel](/posts/dynamische-energiecontracten-thuisbatterij-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> voor concrete prijzen.
 
 ### Stap 3: koop de juiste hardware
 
@@ -139,7 +139,7 @@ Voor een volledige kostenberekening: zie [de uitgebreide berekening](/posts/best
 ## 6. Welk product past bij wie?
 
 ### Voor budgetbewuste huishoudens
-Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a>
+Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a>
 
 ### Voor early adopters die alles slim willen
 Combineer Quatt warmtepomp met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd 2-4 uur, levert structureel 15-25 procent meer besparing.
@@ -177,7 +177,7 @@ Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/p
 
 Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
 
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
+Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
 
 Verder lezen: [het overzichtsartikel](/posts/sessy-software-update-2026-radar/), [de rekenmodellen](/posts/tibber-review-ervaringen-2026/) en [de verzamelde gebruikerservaringen](/posts/frank-energie-vs-tibber-2026/).
 
@@ -254,7 +254,7 @@ Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijs
 Ga voor 8-10 zonnepanelen + Quatt warmtepomp (5 kWh) + dynamisch contract. Investering €8.500. Terugverdientijd 6,5 jaar. Geen warmtepomp nodig — eerst isoleren.
 
 **Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a>.
+14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>.
 
 **Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
 20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.
@@ -277,7 +277,7 @@ De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
 
 Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
 
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/beste-thuisbatterij-nederland-2026/) voor verdieping.
+Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/beste-thuisbatterij-nederland-2026/) voor verdieping.
 
 ## Voorbeeldopzet: Daikin Altherma 3H op een dynamisch contract
 

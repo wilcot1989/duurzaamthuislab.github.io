@@ -373,10 +373,10 @@ Veel gemeenten bieden leningen van 0-2% rente voor warmtepompen. Gecombineerd me
 *DuurzaamThuisLab schrijft datagedreven over verduurzaming: fabrieksspecificaties, publieke data en narekenbare modelberekeningen, met expliciete aannames.*
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk ATAG warmtepomp →</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk ATAG warmtepomp →</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 

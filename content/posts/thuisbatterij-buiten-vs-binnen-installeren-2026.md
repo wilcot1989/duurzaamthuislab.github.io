@@ -533,12 +533,12 @@ Waar de norm en de fabrikant vrij zijn in de locatie, is je portemonnee dat niet
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Sessy thuisbatterij</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Sessy thuisbatterij</a>
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Marstek B5000</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Marstek B5000</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 

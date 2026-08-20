@@ -50,7 +50,7 @@ faq:
 - q: 'Hoe meld ik de zonnepanelen aan bij de nieuwe eigenaar?'
   a: 'Lever de garantiedocumenten, de monitoring-inloggegevens en het installatiedossier over aan de koper. Noteer alle inloggegevens schriftelijk — de koper zal ze nodig hebben als er ooit een storing is.'
 - q: 'Kan ik mijn Zonneplan-contract overdragen?'
-  a: '<a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Zonneplan</a> biedt bij verhuizing de mogelijkheid om het contract over te dragen aan de nieuwe eigenaar of op te zeggen. Neem contact op met hun klantenservice ten minste 8 weken voor de verhuisdatum.'
+  a: '<a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener">Zonneplan</a> biedt bij verhuizing de mogelijkheid om het contract over te dragen aan de nieuwe eigenaar of op te zeggen. Neem contact op met hun klantenservice ten minste 8 weken voor de verhuisdatum.'
 - q: 'Wat zijn de beste zonnepanelen voor wie net nieuw gaat kopen?'
   a: 'Als je in de nieuwe woning opnieuw panelen wilt, lees dan [beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) en [zonnepanelen met of zonder installateur](/posts/zonnepanelen-met-of-zonder-installateur-2026/).'
 ---
@@ -149,7 +149,7 @@ Verhuiz je ná 2027, dan geldt er al geen volledige saldering meer voor nieuwe c
 
 ### Advies aan de koper meegeven
 
-Als je de panelen achterlaat, is het vriendelijk (en verstandig voor de verkoopwaarde) om de koper te informeren over de optimale contractkeuze. Een dynamisch contract — zoals dat van <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a> — geeft de koper de hoogste terugleververgoeding na 2027. Vertel dit erbij — het maakt jouw panelen aantrekkelijker in de onderhandeling.
+Als je de panelen achterlaat, is het vriendelijk (en verstandig voor de verkoopwaarde) om de koper te informeren over de optimale contractkeuze. Een dynamisch contract — zoals dat van <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a> — geeft de koper de hoogste terugleververgoeding na 2027. Vertel dit erbij — het maakt jouw panelen aantrekkelijker in de onderhandeling.
 
 ---
 
@@ -175,7 +175,7 @@ Als je naast zonnepanelen ook een thuisbatterij hebt (Sessy, Marstek, Tesla Powe
 
 **Vaste installatiegebonden batterijen** (Sessy, Tesla Powerwall, Huawei Luna) zijn bevestigd aan de meterkast of een vaste wand. Demontage en herinstallatie kost €400–€900 extra bovenop de panelen. Maar in tegenstelling tot panelen heb je hier minder meerwaardeclaim — kopers begrijpen thuisbatterijen minder goed dan zonnepanelen.
 
-**Plug-in thuisbatterijen** (Marstek Venus E, <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a> plug-in variant) zijn meeneembaar. Ze werken op een standaard stopcontact en hoeven niet te worden gedemonteerd. Verhuizen? Gewoon meenemen.
+**Plug-in thuisbatterijen** (Marstek Venus E, <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a> plug-in variant) zijn meeneembaar. Ze werken op een standaard stopcontact en hoeven niet te worden gedemonteerd. Verhuizen? Gewoon meenemen.
 
 Bij de afweging voor een vaste thuisbatterij geldt dezelfde rekensom als bij panelen: zijn de demontage- en herinstallatie­kosten lager dan de meerwaarde die de batterij de woning geeft? In de meeste gevallen: nee. Maar bij een nieuw systeem (jonger dan 2 jaar) met lange garantie kan het anders liggen.
 
@@ -214,7 +214,7 @@ Onderstaand stappenplan volgt de formele momenten in een verkooptraject: taxatie
 ### Na de verhuizing
 
 - Sluit zo snel mogelijk een nieuw energiecontract af in de nieuwe woning — bij voorkeur een dynamisch contract als je alsnog panelen gaat plaatsen
-- Vraag bij je nieuwe installateur of de woning geschikt is voor <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow sponsored noopener">Zonneplan</a> als all-in dienst (geen aankoopkosten, betalen per kWh) — dit kan zinvol zijn als je de hoge initiaalkosten wilt vermijden in de nieuwe situatie
+- Vraag bij je nieuwe installateur of de woning geschikt is voor <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener">Zonneplan</a> als all-in dienst (geen aankoopkosten, betalen per kWh) — dit kan zinvol zijn als je de hoge initiaalkosten wilt vermijden in de nieuwe situatie
 
 ---
 

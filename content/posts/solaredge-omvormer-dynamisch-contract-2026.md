@@ -81,7 +81,7 @@ Eerst een misverstand uit de wereld helpen: **SolarEdge heeft geen native koppel
 
 Frank Energie heeft sinds 2025 een open API waarmee dezelfde routes mogelijk zijn. In de praktijk werken Tibber-klanten vaker direct via de SolarEdge ONE-cloud (omdat Tibber Pulse de communicatie versimpelt), terwijl Frank Energie-klanten meestal de Home Assistant route nemen. Welke leverancier voor jou voordeliger is leggen wij uit in [Frank Energie vs Tibber](/posts/frank-energie-vs-tibber-2026/) en het uitgebreide [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
 
 ## Tijdgestuurd laden via SetApp en mySolarEdge
 
@@ -112,7 +112,7 @@ Peak shaving is de belangrijkste functie bij een dynamisch contract. Op donkere,
 
 De vergelijking met andere batterijen leggen wij uit in [Sessy vs Marstek](/posts/sessy-vs-marstek-thuisbatterij-2026/) en het overzicht [thuisbatterij prijzen](/posts/thuisbatterij-prijzen-vergelijking-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>
 
 ## Smart EV-laden via SolarEdge EV-charger
 
@@ -217,6 +217,6 @@ In de praktijk schrijven mensen een Node-RED-flow of een HA-blueprint die elke 1
 
 Twijfel je over de keuze? Reken zelf door met ons [batterij-rekenmodel](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/), of vraag een SolarEdge-offerte aan via de [omvormer-vergelijking](/posts/beste-omvormer-zonnepanelen-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan</a>
 
 Meer over de regels rond saldering en dynamische tarieven lees je bij [Milieu Centraal: zonnepanelen en het saldeerregeling](https://www.milieucentraal.nl/energie-besparen/zonnepanelen/salderingsregeling-voor-zonnepanelen/).

@@ -14,7 +14,7 @@ keywords:
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1571055107559-3e67626fa8be&w=1200&output=webp&q=70
-category: monument
+categories: monument
 tags:
 - monument
 - erfgoed
@@ -44,6 +44,7 @@ faq:
   a: 'Instandhoudingssubsidie (SIM) via Rijksdienst voor het Cultureel Erfgoed, woonhuissubsidie monument (zelfwerkzaamheid), ISDE voor warmtepomp/zonneboiler als die binnen vergunning past, en gemeentelijke subsidies. Stapelen kan, maar elk traject vraagt aparte aanvraag.'
 - q: 'Hoeveel kost het echt om een monument te verduurzamen?'
   a: 'Realistisch 1,5-2,5x meer dan een gewone woning. Voorbeeld: een rijksmonument van 130 m2 kost 28.000-42.000 euro voor binnenisolatie + hybride warmtepomp + monumentvriendelijke ventilatie. Een vergelijkbaar niet-monumentaal pand 18.000-26.000 euro.'
+affiliate: false
 ---
 *Disclosure: de links naar ATAG, Frank Energie en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
@@ -98,7 +99,7 @@ Volledig elektrisch (lucht-water) heeft een buitenunit van 90x90x35 cm — bij m
 
 Onze inschatting van de meest geschikte toestellen voor monumenten in 2026:
 
-- **ATAG ENI hybride** — compact, stille buitenunit, goede service. Bekijk de details via <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow sponsored noopener">ATAG hybride warmtepomp</a>.
+- **ATAG ENI hybride** — compact, stille buitenunit, goede service. Bekijk de details via <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow noopener">ATAG hybride warmtepomp</a>.
 - **Daikin Altherma EHP hybride** — goedkoper, iets minder discreet.
 - **Itho-Daalderop HP-Cube hybride** — Nederlandse fabrikant, goede support.
 
@@ -110,7 +111,7 @@ Vaak vergeten maar enorm effectief bij monumenten:
 
 - **Kierdichting deuren en ramen** zonder constructieve wijziging. 320-580 euro voor een hele woning, besparing 8-14 procent.
 - **Slimme thermostaat** (Tado, Nest, Honeywell). 180-280 euro, besparing 12-18 procent op gas.
-- **P1-meter en dynamisch contract.** Zie ook [het artikel over de beste P1-meter](/posts/beste-energiemonitor-p1-meter-2026/). Bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>.
+- **P1-meter en dynamisch contract.** Zie ook [het artikel over de beste P1-meter](/posts/beste-energiemonitor-p1-meter-2026/). Bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>.
 
 ## 3. Vergunningen en wettelijke regels
 
@@ -286,7 +287,7 @@ Ook nuttig: [Rijksdienst voor het Cultureel Erfgoed — verduurzamen monumenten]
 
 Voor elke monument-eigenaar in 2026: start met advies van Monumentenwacht (95-145 euro) voor je iets koopt. Daarna vooroverleg met de gemeente over vergunningen. Pas dan een specialistische adviseur of architect-restauratie inschakelen.
 
-Voor lichte verduurzaming is de sterkste combinatie in onze inschatting een hybride warmtepomp (zie <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow sponsored noopener">ATAG hybride</a>) met voorzetramen en slimme sturing via <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber dynamisch contract</a>. Investering 15-23k, jaarbesparing 800-1.300 euro, geen onomkeerbare ingrepen.
+Voor lichte verduurzaming is de sterkste combinatie in onze inschatting een hybride warmtepomp (zie <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow noopener">ATAG hybride</a>) met voorzetramen en slimme sturing via <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber dynamisch contract</a>. Investering 15-23k, jaarbesparing 800-1.300 euro, geen onomkeerbare ingrepen.
 
 Verder lezen op deze site: [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/), [vergunning zonnepanelen monumenten VvE](/posts/vergunning-zonnepanelen-monumenten-vve-2026/), [beste hybride warmtepomp](/posts/beste-hybride-warmtepomp-2026/), [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/), [aardwarmte bodembron warmtepomp](/posts/aardwarmte-warmtepomp-bodembron-2026/), [beste isolatie voor warmtepomp](/posts/beste-isolatie-voor-warmtepomp-2026/), [P1-meter-vergelijking](/posts/beste-energiemonitor-p1-meter-2026/), [smart home energiebeheer](/posts/smart-home-energiebeheer-2026/).
 

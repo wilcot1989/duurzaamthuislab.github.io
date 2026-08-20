@@ -61,7 +61,7 @@ Voor wie weinig tijd heeft: dit artikel vergelijkt de verduurzamingshypotheek bi
 - **Beste keuze 2026?** Quatt warmtepomp — zie [onze diepere uitleg hier](/posts/zonnepanelen-huren-vs-kopen-2026/).
 - **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
 
-> **Ons advies:** start met <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> en bouw stapsgewijs uit. Niet alles in één keer.
+> **Ons advies:** start met <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a> en bouw stapsgewijs uit. Niet alles in één keer.
 
 ## 1. Wat is het probleem?
 
@@ -96,7 +96,7 @@ In een gemiddeld Nederlands huishouden liggen de pieken tussen 07:00 en 09:00 (d
 
 Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus een slimme laadpaal leveren al een flink deel van de besparing op; een thuisbatterij voegt daar bovenop iets toe, maar tegen een investering van enkele duizenden euro's. Reken dat verschil apart door: de terugverdientijd van die laatste stap is vaak fors langer dan die van de eerste.
 
-Reken het voor jezelf door — zie [ons rekenmodel](/posts/quatt-warmtepomp-review-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow sponsored noopener">Bekijk ATAG</a> voor concrete prijzen.
+Reken het voor jezelf door — zie [ons rekenmodel](/posts/quatt-warmtepomp-review-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow noopener">Bekijk ATAG</a> voor concrete prijzen.
 
 ### Stap 3: koop de juiste hardware
 
@@ -140,7 +140,7 @@ Voor een volledige kostenberekening verwijzen wij naar [onze berekening](/posts/
 ## 6. Welk product past bij wie?
 
 ### Voor budgetbewuste huishoudens
-Ga voor de basisversie van <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a>. Compact, goede app, geen vendor lock-in. Gebruikersreviews zijn over dit model overwegend positief.
+Ga voor de basisversie van <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a>. Compact, goede app, geen vendor lock-in. Gebruikersreviews zijn over dit model overwegend positief.
 
 ### Voor early adopters die alles slim willen
 Combineer Quatt warmtepomp met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd 2-4 uur, levert structureel 15-25 procent meer besparing.
@@ -174,7 +174,7 @@ Dan zijn je opties beperkter, maar niet nul. Zie [onze huurwoning-guide](/posts/
 
 Wij adviseren stapsgewijs verduurzamen: begin met meten, voeg dan een slim product toe en bouw daar het platform omheen. Niet andersom.
 
-Onze concrete aanbeveling voor 2026: start met <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> en koppel het aan je dynamisch contract. Quatt geeft geen publieke prijslijst — vraag je prijs op via de configurator op quatt.io. Voor de hardwarekant als referentie: een thuisbatterij van 5-10 kWh kost circa €3.550-€5.500 (prijspeil aug 2026, Sessy via sessy.nl, incl. btw en excl. installatie), met in modelberekeningen 6-8 jaar terugverdientijd en 15-20 jaar levensduur. Geen vendor lock-in.
+Onze concrete aanbeveling voor 2026: start met <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a> en koppel het aan je dynamisch contract. Quatt geeft geen publieke prijslijst — vraag je prijs op via de configurator op quatt.io. Voor de hardwarekant als referentie: een thuisbatterij van 5-10 kWh kost circa €3.550-€5.500 (prijspeil aug 2026, Sessy via sessy.nl, incl. btw en excl. installatie), met in modelberekeningen 6-8 jaar terugverdientijd en 15-20 jaar levensduur. Geen vendor lock-in.
 
 Verder lezen: [overzicht artikelen](/posts/energiekosten-besparen-100-tips-2026/), [gedetailleerde rekenmodellen](/posts/warmtepomp-installatie-kosten-2026/) en [praktijkervaringen](/posts/beste-warmtepomp-merk-2026/).
 
@@ -251,7 +251,7 @@ Dit is de vraag die het vaakst gesteld wordt. Hieronder onze redactionele keuze 
 Ga voor 8-10 zonnepanelen + Quatt warmtepomp (5 kWh) + dynamisch contract. Investering €8.500. Terugverdientijd 6,5 jaar. Geen warmtepomp nodig — eerst isoleren.
 
 **Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen + 10 kWh batterij + warmtepomp + slimme laadpaal. Investering €24.000. Terugverdientijd 8,2 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow sponsored noopener">Bekijk ATAG</a>.
+14 panelen + 10 kWh batterij + warmtepomp + slimme laadpaal. Investering €24.000. Terugverdientijd 8,2 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow noopener">Bekijk ATAG</a>.
 
 **Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
 20+ panelen + 15-20 kWh modulair + warmtepomp + 2 laadpalen. Investering €38.000-€45.000. Terugverdientijd 9-11 jaar maar maximaal autonoom.
@@ -310,7 +310,7 @@ Ja, maar vrijwel altijd alleen bij rentevast-einde of via vrijwillige aflossing 
 
 
 
-Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> voor concrete prijzen, en lees [onze aanvullende guide](/posts/beste-zonnepanelen-2026/) voor verdieping.
+Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a> voor concrete prijzen, en lees [onze aanvullende guide](/posts/beste-zonnepanelen-2026/) voor verdieping.
 
 ---
 

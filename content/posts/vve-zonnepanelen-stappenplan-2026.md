@@ -328,7 +328,7 @@ Wil je daarbij geholpen worden? [Zonneplan](https://go.duurzaamthuislab.nl/zonne
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan</a>
 
 ## Monitoring en beheer na installatie
 

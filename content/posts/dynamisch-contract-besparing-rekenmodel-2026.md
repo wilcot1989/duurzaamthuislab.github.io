@@ -12,18 +12,18 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-  - question: 'Hoeveel kan ik besparen met een dynamisch contract in 2026?'
-    answer: 'Bij een gemiddeld huishouden van 3500 kWh is de besparing op een dynamisch contract gemiddeld 180 tot 320 euro per jaar zonder smart-laden, en 350 tot 550 euro met EV smart-laden of een thuisbatterij. Cijfers gebaseerd op EPEX 2025 gemiddelden.'
-  - question: 'Is Tibber goedkoper dan Frank Energie?'
-    answer: 'Tibber rekent 5,99 euro per maand vaste fee, Frank rekent 4,99 euro. Op kWh-prijs zijn ze identiek (beide volgen EPEX dag-vooruit + opslag). Voor huishoudens onder 2500 kWh per jaar is Frank iets goedkoper, daarboven verschil verwaarloosbaar.'
-  - question: 'Wanneer is een vast contract beter dan dynamisch?'
-    answer: 'Vast loont alleen als je tussen 17:00 en 20:00 niet kunt schuiven met je verbruik, geen EV of warmtepomp hebt en risico-avers bent. Voor de andere 80 procent van de huishoudens is dynamisch in 2026 voordeliger.'
-  - question: 'Wat als de stroomprijs explodeert zoals in 2022?'
-    answer: 'In koude, windstille weken kan een dynamisch contract tijdelijk boven het vaste tarief uitkomen — in rekenmodellen orde van grootte 10 procent over zo''n week. Over een heel jaar wordt zo''n week uitgesmeerd over 52 weken. Wie in die uren verbruik verschuift, beperkt het effect verder.'
-  - question: 'Hoe werkt het EPEX day-ahead tarief precies?'
-    answer: 'Elke dag om 13:00 publiceert EPEX de uurprijzen voor de 24 uur erna. Je leverancier zet daar btw, energiebelasting en een kleine opslag bovenop. Je betaalt dus 24 verschillende prijzen per dag in plaats van 1.'
-  - question: 'Heb ik een slimme meter nodig?'
-    answer: 'Ja, kwartierwaarden of uurwaarden zijn verplicht. Vrijwel elke woning in Nederland heeft sinds 2020 een slimme meter; check via je netbeheerder of de P1-poort actief is.'
+  - q: 'Hoeveel kan ik besparen met een dynamisch contract in 2026?'
+    a: 'Bij een gemiddeld huishouden van 3500 kWh is de besparing op een dynamisch contract gemiddeld 180 tot 320 euro per jaar zonder smart-laden, en 350 tot 550 euro met EV smart-laden of een thuisbatterij. Cijfers gebaseerd op EPEX 2025 gemiddelden.'
+  - q: 'Is Tibber goedkoper dan Frank Energie?'
+    a: 'Tibber rekent 5,99 euro per maand vaste fee, Frank rekent 4,99 euro. Op kWh-prijs zijn ze identiek (beide volgen EPEX dag-vooruit + opslag). Voor huishoudens onder 2500 kWh per jaar is Frank iets goedkoper, daarboven verschil verwaarloosbaar.'
+  - q: 'Wanneer is een vast contract beter dan dynamisch?'
+    a: 'Vast loont alleen als je tussen 17:00 en 20:00 niet kunt schuiven met je verbruik, geen EV of warmtepomp hebt en risico-avers bent. Voor de andere 80 procent van de huishoudens is dynamisch in 2026 voordeliger.'
+  - q: 'Wat als de stroomprijs explodeert zoals in 2022?'
+    a: 'In koude, windstille weken kan een dynamisch contract tijdelijk boven het vaste tarief uitkomen — in rekenmodellen orde van grootte 10 procent over zo''n week. Over een heel jaar wordt zo''n week uitgesmeerd over 52 weken. Wie in die uren verbruik verschuift, beperkt het effect verder.'
+  - q: 'Hoe werkt het EPEX day-ahead tarief precies?'
+    a: 'Elke dag om 13:00 publiceert EPEX de uurprijzen voor de 24 uur erna. Je leverancier zet daar btw, energiebelasting en een kleine opslag bovenop. Je betaalt dus 24 verschillende prijzen per dag in plaats van 1.'
+  - q: 'Heb ik een slimme meter nodig?'
+    a: 'Ja, kwartierwaarden of uurwaarden zijn verplicht. Vrijwel elke woning in Nederland heeft sinds 2020 een slimme meter; check via je netbeheerder of de P1-poort actief is.'
 products:
 - name: Tibber dynamisch contract
   url: https://go.duurzaamthuislab.nl/tibber

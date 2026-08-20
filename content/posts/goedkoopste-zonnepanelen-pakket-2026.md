@@ -67,7 +67,7 @@ Maar onder €2.500 voor 6+ panelen zit risico. In dit artikel rangschik ik 7 da
 
 Prijzen per augustus 2026, gebaseerd op live offertes. Kunnen variëren met €100-€300.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan →</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan →</a>
 
 ---
 
@@ -112,7 +112,7 @@ Lees [zonnepanelen met of zonder installateur 2026](/posts/zonnepanelen-met-of-z
 
 Lees [Zonneplan thuisbatterij review 2026](/posts/zonneplan-thuisbatterij-review-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan →</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan →</a>
 
 ---
 
@@ -266,7 +266,7 @@ Vergelijking:
 
 Voor budget-bewuste huishoudens is de combinatie goedkoop + goedkoop dus financieel slimmer dan premium.
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan →</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan →</a>
 
 ---
 
@@ -328,7 +328,7 @@ Het goedkoopste serieuze pakket in 2026 is **Zonneplan Compact 6 voor €2.999**
 
 Combineer een budget-paneelpakket met een Marstek thuisbatterij (€2.299) voor het beste prijs/prestatie systeem in NL: €5.300 voor compleet zonnesysteem met opslag.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan →</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Probeer Tibber →</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan →</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Probeer Tibber →</a>
 
 *Vragen over een specifieke offerte? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl) en stuur 'm op.*
 

@@ -373,10 +373,10 @@ Maar financieel is het suboptimaal. Je mist de ISDE-subsidie, je betaalt over 10
 
 Kies Quatt als cashflow en ontzorging het zwaarste wegen. Koop als de totale kosten over 10 jaar jouw kompas zijn.
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Quatt Connect abonnementen</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Quatt Connect abonnementen</a>
 
 
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Quatt</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Quatt</a>
 
 ## De toekomst van Quatt: scenario's
 

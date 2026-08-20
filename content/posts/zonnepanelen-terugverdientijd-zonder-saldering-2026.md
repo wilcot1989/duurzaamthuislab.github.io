@@ -12,16 +12,16 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-  - question: 'Hoe lang is de terugverdientijd van zonnepanelen zonder saldering?'
-    answer: 'Voor een gemiddeld huishouden met 14 panelen ligt de terugverdientijd na 2027 tussen de 9 en 13 jaar, afhankelijk van het eigenverbruik. Bij 35% eigenverbruik kom je rond de 12 jaar uit, bij 60% rond de 9 jaar.'
-  - question: 'Wat is eigenverbruik en waarom is het zo belangrijk?'
-    answer: 'Eigenverbruik is het deel van je opgewekte zonnestroom dat je direct in huis gebruikt. Zonder saldering krijg je voor teruglevering nog maar 4 tot 8 cent per kWh, terwijl eigenverbruik je circa 28 tot 32 cent per kWh oplevert. Hoe meer je zelf gebruikt, hoe sneller de terugverdientijd.'
-  - question: 'Loont een thuisbatterij erbij?'
-    answer: 'Bij een eigenverbruik onder de 40% en een verbruik vanaf 3.500 kWh per jaar kan een thuisbatterij de terugverdientijd met 2 tot 3 jaar verkorten. Onder die grens is het zelden rendabel.'
-  - question: 'Is Zonneplan duurder dan een lokale installateur?'
-    answer: 'Zonneplan zit ongeveer 5 tot 10% boven de goedkoopste lokale installateur, maar levert een all-in pakket met monitoring-app, langere garanties en een eigenverbruik-coach. Voor wie weinig tijd of kennis heeft, weegt dat vaak op tegen het verschil.'
-  - question: 'Voor wie loont zonnepanelen na 2027 niet meer?'
-    answer: 'Bij een vakantiehuis, een huishouden met heel laag dagverbruik (onder 1.800 kWh) of een dak met veel schaduw zakt het rendement onder de 4%. Dan zijn isolatie of een warmtepomp meestal een betere investering.'
+  - q: 'Hoe lang is de terugverdientijd van zonnepanelen zonder saldering?'
+    a: 'Voor een gemiddeld huishouden met 14 panelen ligt de terugverdientijd na 2027 tussen de 9 en 13 jaar, afhankelijk van het eigenverbruik. Bij 35% eigenverbruik kom je rond de 12 jaar uit, bij 60% rond de 9 jaar.'
+  - q: 'Wat is eigenverbruik en waarom is het zo belangrijk?'
+    a: 'Eigenverbruik is het deel van je opgewekte zonnestroom dat je direct in huis gebruikt. Zonder saldering krijg je voor teruglevering nog maar 4 tot 8 cent per kWh, terwijl eigenverbruik je circa 28 tot 32 cent per kWh oplevert. Hoe meer je zelf gebruikt, hoe sneller de terugverdientijd.'
+  - q: 'Loont een thuisbatterij erbij?'
+    a: 'Bij een eigenverbruik onder de 40% en een verbruik vanaf 3.500 kWh per jaar kan een thuisbatterij de terugverdientijd met 2 tot 3 jaar verkorten. Onder die grens is het zelden rendabel.'
+  - q: 'Is Zonneplan duurder dan een lokale installateur?'
+    a: 'Zonneplan zit ongeveer 5 tot 10% boven de goedkoopste lokale installateur, maar levert een all-in pakket met monitoring-app, langere garanties en een eigenverbruik-coach. Voor wie weinig tijd of kennis heeft, weegt dat vaak op tegen het verschil.'
+  - q: 'Voor wie loont zonnepanelen na 2027 niet meer?'
+    a: 'Bij een vakantiehuis, een huishouden met heel laag dagverbruik (onder 1.800 kWh) of een dak met veel schaduw zakt het rendement onder de 4%. Dan zijn isolatie of een warmtepomp meestal een betere investering.'
 products:
 - name: Zonneplan zonnepanelen pakket
   url: https://go.duurzaamthuislab.nl/zonneplan

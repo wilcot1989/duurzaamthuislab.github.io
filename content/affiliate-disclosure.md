@@ -14,9 +14,9 @@ Wanneer je in een artikel op een knop klikt zoals "Bekijk Sessy" of "Probeer Tib
 
 ### Met welke partijen werken we
 We werken met affiliate-netwerken zoals Daisycon, AWIN, Impact.com en Direct (rechtstreeks bij de leverancier). Concrete voorbeelden:
-- Boekhoudsoftware (Moneybird, SnelStart, Jortt)
-- Energiecontract (Tibber, Frank Energie)
-- Privacy-tools (NordVPN, NordPass, ProtonMail)
+- Powerstations en thuisbatterij-hardware: EcoFlow, Jackery, Bluetti, Anker Solix en ALLPOWERS (via AWIN)
+- Energie: energiedirect (via Daisycon); voor diverse andere energieleveranciers lopen aanvragen — zolang die niet zijn goedgekeurd, verdienen wij niets aan die links
+- Alle overige merklinks (zoals Sessy, Marstek, Tibber, Zonneplan, Frank Energie) zijn gewone verwijzingen zonder commissierelatie
 - Banking (Wise, Revolut)
 
 De volledige lijst van partners staat in onze artikelen — elke productlink is duidelijk gemarkeerd als affiliate-link via `rel="sponsored"`.

@@ -306,7 +306,7 @@ Voor wie alleen een platdakaanbouw heeft of veel ruimte op platdak: **plat dak o
 
 Voor wie beide heeft: gebruik schuin dak primair, plat dak voor uitbreiding tot maximaal eigen verbruik.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Vraag offerte aan via Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Vraag offerte aan via Zonneplan</a>
 
 ---
 

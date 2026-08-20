@@ -117,7 +117,7 @@ Het grote voordeel: 5 kWh voor €2.500 is **€500/kWh**. Sessy doet €5.500 v
 
 Lees ook: [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/) voor een grondigere technische analyse.
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek Venus →</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek Venus →</a>
 
 ## Alternatief 2: EcoFlow Delta Pro Ultra — backup-stroom in premium jasje
 
@@ -388,7 +388,7 @@ En als je toch twijfelt: lees dan eerst de volledige [Sessy review](/posts/sessy
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek Venus →</a> · <a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Anker SOLIX →</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek Venus →</a> · <a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Anker SOLIX →</a>
 
 ## Gerelateerde artikelen
 

@@ -111,7 +111,7 @@ Sessy (van het Apeldoornse bedrijf Charged) is in 2026 de meest verkochte premiu
 
 De volledige analyse lees je in onze [Sessy review thuisbatterij Nederland](/posts/sessy-review-thuisbatterij-nederland/).
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>
 
 ## Marstek Venus review: de modulaire budget-keus
 
@@ -134,7 +134,7 @@ Marstek is een Chinees merk dat in 2025 doorbrak in Nederland via Marktplaats en
 
 Onze volledige analyse: [Marstek Venus review thuisbatterij](/posts/marstek-venus-review-thuisbatterij/).
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Marstek</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek</a>
 
 ## Huawei Luna 2000: de panelen-bundel-keus
 
@@ -341,7 +341,7 @@ Op basis van de functieomschrijvingen van de vijf apps en wat gebruikersreviews 
 
 Geen van deze vijf is objectief "de beste": ze zijn elk het beste antwoord op een andere combinatie van budget, technische affiniteit, bestaande hardware en de vraag of backup bij stroomuitval voor jou noodzakelijk is.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Marstek</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek</a>
 
 ## Conclusie
 

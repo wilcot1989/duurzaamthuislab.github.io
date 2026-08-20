@@ -375,6 +375,6 @@ De belangrijkste aandachtspunten voor 2026:
 Heb je al zonnepanelen en wil je een draagbare stroomoplossing voor onderweg of als noodstroom? Bekijk dan ons overzicht van de [beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/).
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 

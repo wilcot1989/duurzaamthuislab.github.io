@@ -61,7 +61,7 @@ Voor wie weinig tijd heeft, de samenvatting in vijf punten:
 - **Beste keuze 2026?** Zie de [vergelijking van dynamische contracten](/posts/dynamische-energiecontracten-vergelijking-2026/).
 - **Valkuilen?** Vijf rekenfouten — zie hoofdstuk 5 en de sectie over het rekenmodel.
 
-> **Onze inschatting:** begin met een dynamisch contract en meting, en bouw daarna stapsgewijs uit. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a>.
+> **Onze inschatting:** begin met een dynamisch contract en meting, en bouw daarna stapsgewijs uit. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>.
 
 ## 1. Wat is het probleem?
 
@@ -96,7 +96,7 @@ In een gemiddeld gezinsprofiel liggen die pieken rond 07:00-09:00 (douche en ont
 
 Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden zonder batterij levert al een groot deel van de winst; de batterij voegt daar arbitrage en meer zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, is precies wat het rekenmodel hieronder uitwijst.
 
-Reken het voor jezelf door — zie [het rekenmodel voor zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a> voor actuele prijzen.
+Reken het voor jezelf door — zie [het rekenmodel voor zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> voor actuele prijzen.
 
 ### Stap 3: koop de juiste hardware
 
@@ -139,7 +139,7 @@ Voor een volledige kostenberekening: zie [de vergelijking dynamisch versus vast]
 ## 6. Welk product past bij wie?
 
 ### Voor budgetbewuste huishoudens
-Een compacte AC-gekoppelde batterij met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> voor het contract dat de sturing mogelijk maakt.
+Een compacte AC-gekoppelde batterij met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> voor het contract dat de sturing mogelijk maakt.
 
 ### Voor wie alles wil automatiseren
 Combineer de batterij met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd volgens de documentatie 2-4 uur; je krijgt er fijnmazigere sturing voor terug dan met alleen de fabrikant-app.
@@ -183,7 +183,7 @@ Dan zijn je opties beperkter, maar niet nul. Zie [de vergelijking van leverancie
 
 Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
 
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a>. De batterij komt daarna, als je verbruikprofiel bekend is.
+Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>. De batterij komt daarna, als je verbruikprofiel bekend is.
 
 Verder lezen: [overzicht Tibber](/posts/tibber-review-ervaringen-2026/), [rekenmodellen Frank Energie](/posts/frank-energie-review-ervaringen-2026/) en [dynamische contracten met thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
@@ -258,7 +258,7 @@ Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijs
 8-10 zonnepanelen, 5 kWh batterij, dynamisch contract. Investering circa €8.500, terugverdientijd in het model 6-8 jaar. Warmtepomp nog niet aan de orde — eerst isoleren.
 
 **Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a>.
+14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>.
 
 **Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
 20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.
@@ -281,7 +281,7 @@ De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
 
 Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
 
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> voor actuele voorwaarden, en lees [de vergelijking dynamisch versus vast](/posts/dynamisch-vs-vast-contract-2026/) voor verdieping.
+Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> voor actuele voorwaarden, en lees [de vergelijking dynamisch versus vast](/posts/dynamisch-vs-vast-contract-2026/) voor verdieping.
 
 ## Rekenvoorbeeld: 5 kWh batterij bij een gezinswoning
 

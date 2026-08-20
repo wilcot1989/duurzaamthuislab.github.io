@@ -292,9 +292,9 @@ De les: de horizon en het isolatielabel bepalen de uitkomst, niet de voorkeur vo
 
 In 2026 is de keuze tussen hybride en volledige warmtepomp **niet absoluut**. Hybride past bij minder geïsoleerde woningen, beperkter budget, kortere horizon. Volledig elektrisch past bij goed geïsoleerde woningen, langere horizon en zonnepanelen-eigenaren.
 
-**Hybride starter**: <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Quatt hybride bekijken →</a>
+**Hybride starter**: <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Quatt hybride bekijken →</a>
 
-**Volledig elektrisch premium**: <a href="https://go.duurzaamthuislab.nl/vaillant" target="_blank" rel="nofollow sponsored noopener">Vaillant aroTHERM bekijken →</a>
+**Volledig elektrisch premium**: <a href="https://go.duurzaamthuislab.nl/vaillant" target="_blank" rel="nofollow noopener">Vaillant aroTHERM bekijken →</a>
 
 ---
 

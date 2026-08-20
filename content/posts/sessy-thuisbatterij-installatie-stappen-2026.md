@@ -63,7 +63,7 @@ Loopt een installatie uit de planning, dan zit het vrijwel altijd op een van dez
 
 Voor wie eerst overweegt: lees de [Sessy review](/posts/sessy-review-thuisbatterij-nederland/) of vergelijk met [alternatieven voor Sessy](/posts/alternatief-voor-sessy-thuisbatterij-2026/). Voor de Sessy-versus-Marstek-vergelijking zie [hier](/posts/sessy-vs-marstek-thuisbatterij-2026/).
 
-Klaar om te starten? Bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy direct</a> voor de actuele prijzen.
+Klaar om te starten? Bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy direct</a> voor de actuele prijzen.
 
 ## 1. Stap 1: bestelling en wachttijd (week 0-8)
 
@@ -117,7 +117,7 @@ Bij woningen van voor circa 1975 is de bestaande groepenkast vaak te krap voor e
 
 Een Sessy rendeert vooral op een dynamisch contract. Twee leveranciers met een directe Sessy-integratie:
 
-- <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> — uitgebreide app en directe Sessy-koppeling. Overstaptijd volgens eigen opgave 2-4 weken.
+- <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> — uitgebreide app en directe Sessy-koppeling. Overstaptijd volgens eigen opgave 2-4 weken.
 - <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a> — geen hardware-abonnement, scherpe tarieven. Overstaptijd 2-3 weken.
 
 Vraag dit aan 4-6 weken vóór installatie. Je wilt op de dag van installatie al een actief dynamisch contract hebben — anders mis je de eerste arbitrage-besparing.
@@ -321,9 +321,9 @@ Voor onafhankelijke informatie over thuisbatterijen en dynamische contracten: [M
 
 Een Sessy laten installeren is een traject van 6-14 weken — maar de voorbereiding is belangrijker dan de wachttijd. Vier kernpunten:
 
-1. **Vraag een dynamisch contract aan vóór installatie.** Met een directe Sessy-koppeling: <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>.
+1. **Vraag een dynamisch contract aan vóór installatie.** Met een directe Sessy-koppeling: <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>.
 2. **Plan een eigen groep in.** 180-320 euro extra, voorkomt storing-issues later.
-3. **Bestel <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy direct</a> of via een lokale installateur** — afhankelijk van regio en wachttijd.
+3. **Bestel <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy direct</a> of via een lokale installateur** — afhankelijk van regio en wachttijd.
 4. **Reserveer een dagdeel voor installatie en 2-4 uur voor app-setup en eerste optimalisatie.**
 
 Verder lezen: [Sessy review](/posts/sessy-review-thuisbatterij-nederland/), [Sessy vs Marstek](/posts/sessy-vs-marstek-thuisbatterij-2026/), [alternatieven Sessy](/posts/alternatief-voor-sessy-thuisbatterij-2026/), [Sessy software updates](/posts/sessy-software-update-2026-radar/), [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/), [Huawei Luna vs Tesla vs Sessy](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/), [P1-meter-vergelijking](/posts/beste-energiemonitor-p1-meter-2026/), [smart home energiebeheer](/posts/smart-home-energiebeheer-2026/).
@@ -347,7 +347,7 @@ De meest gemaakte planningsfout: het dynamische contract pas na de installatie a
 
 ## 16. Bestelling overwegen — checklist vóór je tekent
 
-Voordat je <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy bestelt</a>, doorloop deze 8 punten:
+Voordat je <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy bestelt</a>, doorloop deze 8 punten:
 
 1. Klopt mijn verbruikspatroon met de 5 of 10 kWh-keuze?
 2. Heb ik (of plan ik) een dynamisch contract bij Tibber, Frank of vergelijkbaar?

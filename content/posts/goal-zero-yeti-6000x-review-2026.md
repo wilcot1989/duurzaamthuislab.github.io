@@ -178,7 +178,7 @@ Lees ook [EcoFlow vs Jackery](/posts/ecoflow-vs-jackery-2026/) en [beste draagba
 - Je waarde hecht aan Amerikaanse merkgarantie
 
 **Niet kiezen als:**
-- Je primair een vaste thuisbatterij zoekt — kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a>
+- Je primair een vaste thuisbatterij zoekt — kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a>
 - Je modulair wilt uitbreiden naar 10+ kWh — kies <a href="https://go.duurzaamthuislab.nl/ecoflow" target="_blank" rel="nofollow sponsored noopener">EcoFlow</a>
 - Je grootste capaciteit voor minste euro wilt — kies <a href="https://go.duurzaamthuislab.nl/bluetti" target="_blank" rel="nofollow sponsored noopener">Bluetti</a>
 - Je dynamisch handelen wilt op de spotmarkt

@@ -147,7 +147,7 @@ Mijn favoriet voor wie een EV heeft. Servicegeld 6 EUR/maand, daarbij koop je st
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>Tibber — dé keuze voor EV-bezitters</strong><br>
 Beste smart-laden integratie in Nederland, EPEX-uurprijs zonder marge, app is technisch sterkste van de drie. Servicegeld 6 EUR/maand. Maandelijks opzegbaar.<br><br>
-<a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Tibber tarieven &rarr;</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Tibber tarieven &rarr;</a>
 </div>
 
 ## Frank Energie: beste voor prijsgevoelige consumenten
@@ -167,7 +167,7 @@ Servicegeld 6,95 EUR/maand — het hoogste van de drie. Maar wel sterke Nederlan
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>ANWB Energie — voor wie houvast wil bij een vertrouwd merk</strong><br>
 Hoger servicegeld maar dito serviceniveau. Telefonische klantenservice op werkdagen tot 20u, eenvoudige facturatie, geen tech-vereisten. Voor minder tech-savvy gebruikers.<br><br>
-<a href="https://go.duurzaamthuislab.nl/anwb-energie" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk ANWB Energie tarieven &rarr;</a>
+<a href="https://go.duurzaamthuislab.nl/anwb-energie" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk ANWB Energie tarieven &rarr;</a>
 </div>
 
 ## Wat ik Linda uit Hoofddorp heb geadviseerd

@@ -14,7 +14,7 @@ keywords:
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1545324418-cc1a3fa10c00&w=1200&output=webp&q=70
-category: appartement
+categories: appartement
 tags:
 - appartement
 - VvE
@@ -44,6 +44,7 @@ faq:
   a: 'In de meeste rekenmodellen komt een appartement van 70-90 m2 uit op circa 200-450 euro per jaar met een dynamisch contract, slimme thermostaat, P1-meter en een kleine plug-in batterij. Niet spectaculair, maar de terugverdientijd blijft daarmee meestal binnen 3-5 jaar.'
 - q: 'Kan ik balkonzonnepanelen gebruiken in plaats van dakpanelen?'
   a: 'Sinds 2025 mag dat in Nederland zonder vergunning tot 800 W. Wel VvE-toestemming nodig voor zichtbare montage. Productie circa 350-650 kWh per jaar bij goede ligging — zie ons artikel over balkonpanelen voor de details.'
+affiliate: false
 ---
 *Disclosure: de links naar Frank Energie, HomeWizard, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
@@ -87,7 +88,7 @@ Heb je een eigen elektriciteitsaansluiting (bij blokverwarming dus alleen stroom
 
 Voor appartement-bewoners zonder eigen warmtepomp zijn dit de logische kandidaten:
 
-- <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> — beste app voor sturing, gratis P1-koppeling.
+- <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> — beste app voor sturing, gratis P1-koppeling.
 - <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a> — geen abonnement, transparante uurprijzen.
 
 ### Stap 3: slimme thermostaat (eigen cv) of slimme radiatorknoppen (blokverwarming)
@@ -199,7 +200,7 @@ Bij grote VvE's is een externe adviseur (indicatief 1.500-3.500 euro voor het he
 HomeWizard P1 + 3-5 Tado radiatorknoppen + dynamisch contract. Investering 350-650 euro, terugverdientijd 1-2 jaar.
 
 ### Appartement-bewoner met eigen combi-ketel
-HomeWizard P1 + slimme thermostaat + plug-in batterij + dynamisch contract. Investering 2.200-2.800 euro, terugverdientijd 3-5 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a> als je later wilt uitbreiden.
+HomeWizard P1 + slimme thermostaat + plug-in batterij + dynamisch contract. Investering 2.200-2.800 euro, terugverdientijd 3-5 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a> als je later wilt uitbreiden.
 
 ### Appartement-bewoner in VvE-traject
 Wacht niet op VvE — start vandaag met de no-regret-stappen (P1, dynamisch contract, slimme thermostaat). Voer parallel het VvE-traject voor zonnepanelen of warmtepomp.
@@ -327,9 +328,9 @@ Verder lezen op deze site: [VvE-zonnepanelen-stappenplan](/posts/vve-zonnepanele
 
 ## 19. Onze aanbeveling
 
-Voor appartement-bewoners in 2026: begin klein, meet eerst, bouw daarna uit. Het startpakket dat in de meeste situaties het beste uitpakt is een HomeWizard P1-meter (circa 99 euro), een dynamisch contract via <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow sponsored noopener">Tibber</a> en een slimme thermostaat of slimme radiatorknoppen. Investering circa 350-650 euro, met in het model een jaarbesparing van 200-450 euro.
+Voor appartement-bewoners in 2026: begin klein, meet eerst, bouw daarna uit. Het startpakket dat in de meeste situaties het beste uitpakt is een HomeWizard P1-meter (circa 99 euro), een dynamisch contract via <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> en een slimme thermostaat of slimme radiatorknoppen. Investering circa 350-650 euro, met in het model een jaarbesparing van 200-450 euro.
 
-Daarna bouw je uit met een plug-in batterij (Marstek of <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Sessy</a>) zodra je dynamische arbitrage begrijpt. Pas daarna eventueel het VvE-traject voor zonnepanelen.
+Daarna bouw je uit met een plug-in batterij (Marstek of <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a>) zodra je dynamische arbitrage begrijpt. Pas daarna eventueel het VvE-traject voor zonnepanelen.
 
 Verduurzamen in een appartement is geen sprint maar een marathon — maar het kan, ook zonder dak en met blokverwarming.
 

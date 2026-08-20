@@ -377,7 +377,7 @@ Als u serieus bent over zonnepanelen: vraag drie offertes aan in de komende vier
 *Dit artikel is samengesteld door de redactie van DuurzaamThuisLab op basis van fabrieksspecificaties, publieke bronnen en geverifieerde gebruikersreviews.*
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan</a>
 
 
 

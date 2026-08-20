@@ -342,7 +342,7 @@ Voor de smart-home liefhebber, EV-bezitter of wie maximale integratie wil: **Tib
 
 Voor wie écht twijfelt: probeer Frank een jaar. Geen contractduur, geen risico. Bevalt het niet, stap je in 4 weken over naar Tibber.
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
 
 ---
 
