@@ -124,17 +124,17 @@
       "description": {{ $.Description | jsonify }}
     },
     "author": {
-      "@type": "Person",
+      "@type": "Organization",
       "name": {{ ($.Params.author | default $.Site.Params.author) | jsonify }}
     },
     "datePublished": "{{ $.Date.Format "2006-01-02" }}",
-    "reviewRating": {
+{{ with .rating_value }}    "reviewRating": {
       "@type": "Rating",
-      "ratingValue": "{{ .rating_value | default "4.5" }}",
+      "ratingValue": "{{ . }}",
       "bestRating": "5",
       "worstRating": "1"
     },
-    "publisher": {
+{{ end }}    "publisher": {
       "@type": "Organization",
       "name": {{ $.Site.Title | jsonify }}
     }

@@ -181,5 +181,3 @@ De volledige achtergrond bij deze post — hoe hij is ontstaan en hoe hij zich v
 - **Wat wij niet doen.** Geen betaalde reviews, geen gesponsorde plaatsingen, geen verborgen links. Elke commerciële link op deze pagina is gemarkeerd met `rel="sponsored"`. Meer hierover in [hoe we geld verdienen](/how-we-earn/) en de [affiliate-disclosure](/affiliate-disclosure/).
 
 De veelgestelde vragen over terugleverkosten staan hieronder.
-</content>
-</invoke>
