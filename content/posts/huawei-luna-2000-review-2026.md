@@ -18,7 +18,7 @@ keywords:
 - luna 2000 ervaringen
 - huawei luna 2000 prijs
 - thuisbatterij nederland
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -53,7 +53,7 @@ De Huawei Luna 2000 is een DC-gekoppelde thuisbatterij die alleen werkt in combi
 
 In deze review lopen we de specificaties, de installatie-eisen, de TOU-sturing en de garantievoorwaarden door, met rekenvoorbeelden waarin alle aannames zichtbaar zijn.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via die links een product aanschaft, zonder extra kosten voor jou. Deze review is gebaseerd op specificaties, handleidingen, garantievoorwaarden, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Huawei in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie. Deze review is gebaseerd op specificaties, handleidingen, garantievoorwaarden, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 

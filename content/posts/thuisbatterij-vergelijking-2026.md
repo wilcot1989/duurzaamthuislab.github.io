@@ -16,7 +16,7 @@ keywords:
 - beste thuisbatterij 2026
 - Tesla Powerwall prijs
 - thuisbatterij zonnepanelen
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -47,7 +47,7 @@ schema_type: Article
 ---
 Bij een thuisbatterij bepalen drie dingen of de investering uitpakt: round-trip efficiëntie, prijs per kWh en of het systeem overweg kan met dynamische tarieven. Hieronder vergelijken wij de vijf populairste modellen op de Nederlandse markt op basis van fabrieksspecificaties, garantievoorwaarden, publieke prijzen en geverifieerde gebruikersreviews.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 Heb je al een dynamisch energiecontract? Lees dan hoe je een [thuisbatterij combineert met dynamische prijzen](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 

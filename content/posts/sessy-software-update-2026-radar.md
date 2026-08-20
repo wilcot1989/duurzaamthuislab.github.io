@@ -18,7 +18,7 @@ keywords:
 - sessy thuisbatterij review
 - sessy vs andere thuisbatterij
 - sessy EPEX optimalisatie
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -47,7 +47,7 @@ De Sessy is een van de weinige thuisbatterijen die je in Nederland kunt kopen me
 
 Want "algoritme" klinkt als een zwarte doos die je maar moet vertrouwen. In dit artikel leggen we uit wat Radar volgens de documentatie van Dutch New Energy doet, welke beslissingen het per uur neemt, wat de updates concreet toevoegen en wat dat volgens modelberekeningen kan opleveren. Basis: de release-informatie en handleiding van Sessy, publieke EPEX-data, leveranciersvoorwaarden en geverifieerde gebruikersreviews.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 ---
 

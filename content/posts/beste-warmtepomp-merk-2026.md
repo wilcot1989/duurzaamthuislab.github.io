@@ -6,7 +6,7 @@ description: "Welk warmtepomp merk is in 2026 het beste? Ik vergelijk Daikin, At
 categories: ["warmtepompen"]
 tags: ["warmtepomp", "merken", "vergelijking", "Daikin", "Atag", "Vaillant", "Quatt", "Bosch"]
 keywords: ["beste warmtepomp merk 2026", "welk merk warmtepomp", "warmtepomp merken vergelijken", "top warmtepomp 2026", "betrouwbare warmtepomp"]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1580893246395-52aead8960dc&w=1200&output=webp&q=70"
@@ -43,7 +43,7 @@ products:
     url: "https://go.duurzaamthuislab.nl/quatt"
     price: "6500"
 ---
-*Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvang ik mogelijk een commissie zonder dat jij meer betaalt. Mijn analyse is gebaseerd op eigen tests, klant-installaties en data uit installateurs-rapportages.*
+*Disclosure: de links naar ATAG, Daikin, Quatt en Vaillant in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 Twee weken terug zat ik bij een familie in Houten. Hun cv-ketel uit 2007 was eindelijk stuk. "Welke warmtepomp moeten we kopen, Mark?" Ze hadden 4 offertes: Atag €8.200, Daikin €15.500, Vaillant €13.800, Quatt €6.500/€100 maand. Vier compleet verschillende systemen, vier compleet verschillende verkooppraatjes. Welke is écht de beste?
 

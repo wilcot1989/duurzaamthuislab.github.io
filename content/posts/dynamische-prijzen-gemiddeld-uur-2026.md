@@ -19,7 +19,7 @@ keywords:
 - goedkoopste uren stroom
 - thuisbatterij dynamisch contract
 - tibber uurprijzen
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -51,7 +51,7 @@ Vorig jaar betaalde ik op een dinsdagavond in januari €0,42 per kWh voor stroo
 
 In dit artikel duik ik diep in de EPEX-spotprijsdata van 2026, analyseer ik de patronen per uur en leg ik uit hoe je met een dynamisch contract en een thuisbatterij als de [Sessy](https://go.duurzaamthuislab.nl/sessy) systematisch kunt profiteren van deze prijsverschillen.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

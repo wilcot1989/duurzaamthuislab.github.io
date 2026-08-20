@@ -18,7 +18,7 @@ keywords:
 - terugverdientijd berekenen thuisbatterij
 - thuisbatterij kosten baten
 - thuisbatterij investering
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -48,7 +48,7 @@ schema_type: Article
 ---
 De terugverdientijd van een thuisbatterij hangt af van een handvol variabelen: je zonnepaneelopbrengst, je verbruiksprofiel over dag en nacht, je energiecontract, eventuele subsidie en het einde van de salderingsregeling. Vul die in een eenvoudig rekenblad in en je komt afhankelijk van je profiel op iets tussen 5 en 13 jaar uit. In deze gids laten wij zien hoe je die berekening zelf maakt, met drie uitgewerkte rekenvoorbeelden.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*

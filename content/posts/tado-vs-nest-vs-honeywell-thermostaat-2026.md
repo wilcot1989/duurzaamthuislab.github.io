@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1545454675-3531b543be5d&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Wat kost een slimme thermostaat in 2026?'
   a: 'Tado V3+: €199-€249. Nest Learning 4e gen: €249. Honeywell evohome: €349 starter set, €99 per radiatorkop extra. Plus eventueel €60-€120 installatiekosten als je het niet zelf doet.'
@@ -53,7 +53,7 @@ Wie net een hybride warmtepomp heeft laten installeren en verder wil besparen, k
 
 Wij vergelijken ze op specificaties, protocolondersteuning (belangrijk in Nederland vanwege OpenTherm en stadsverwarming), abonnementskosten en wat geverifieerde gebruikersreviews melden over de besparing in de praktijk.
 
-*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Tado, Nest en Honeywell slimme thermostaten vergeleken in 2026. Prijzen, app, integratie met warmtepomp, energiebesparing en geverifieerde gebruikerservaringen.

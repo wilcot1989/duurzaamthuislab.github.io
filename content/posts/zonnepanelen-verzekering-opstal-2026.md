@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1542621334-a254cf47733d&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Zijn zonnepanelen automatisch verzekerd via opstal?'
   a: 'Bij meeste opstalverzekeringen sinds 2020 ja, mits gecertificeerde installatie. Bij oudere polissen vóór 2018: vaak aparte aanmelding nodig. Bel je verzekeraar om te checken.'
@@ -53,7 +53,7 @@ Een klant uit Goeree-Overflakkee belde mij na storm Eunice in 2023: 6 van zijn 1
 
 Veel mensen weten niet precies wat verzekerd is en wat niet. Hieronder mijn complete uitleg van zonnepanelen verzekering in 2026: opstal, inboedel, garantie, en welke aanvullende polissen verstandig zijn.
 
-*Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Zonnepanelen verzekering: wat dekt opstal- en inboedelpolis? Premies, schade-types en welke aanvullende dekking nodig is bij hagel, storm en brand in 2026.

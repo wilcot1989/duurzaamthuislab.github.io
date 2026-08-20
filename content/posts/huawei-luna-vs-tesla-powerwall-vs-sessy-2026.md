@@ -17,7 +17,7 @@ keywords:
 - beste thuisbatterij 2026
 - thuisbatterij vergelijken
 - Huawei Luna 2000 review
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -52,7 +52,7 @@ schema_type: Article
 ---
 Drie jaar geleden had je amper keus als je een thuisbatterij wilde in Nederland. Nu is de markt vol, en zijn de drie namen die telkens terugkomen de Huawei Luna 2000, de Tesla Powerwall 3 en de Nederlandse nieuwkomer Sessy. Deze vergelijking is gebaseerd op de specificaties, handleidingen, garantievoorwaarden en gebruikersreviews van de drie systemen. Het doel: een eerlijk beeld van de verschillen, de kosten en de vraag welke past bij jouw situatie.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via deze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Huawei, Sessy en Tesla in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1518709268805-4e9042af2176&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Is energieopslag rendabel voor ZZP/MKB?'
   a: 'Ja, vaak rendabeler dan voor particulieren. ZZP/MKB krijgt EIA-aftrek (45,5%) bovenop KIA, en heeft vaak hogere energieverbruik = grotere besparing. Terugverdientijd typisch 4-7 jaar.'
@@ -55,7 +55,7 @@ Uitkomst van het model: €18.500 investering, €13.598 fiscale voordelen en �
 
 Hieronder de complete gids voor energieopslag in commerciële context: ZZP, MKB en kleine bedrijven in 2026.
 
-*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Energieopslag voor ZZP en MKB in 2026: ROI, investeringssubsidies (EIA, KIA), commerciële batterij­opties en wanneer een industriële opslag rendabel is.

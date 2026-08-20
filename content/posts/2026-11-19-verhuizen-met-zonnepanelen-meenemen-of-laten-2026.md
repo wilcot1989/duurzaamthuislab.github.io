@@ -45,7 +45,7 @@ faq:
     answer: "Ja — plug-in balkonsystemen en draagbare panelen neem je altijd mee. Dat is hun grote voordeel. Ze zijn niet aan de woning bevestigd, vallen niet onder 'onroerend goed' en kunnen in een nieuwe woning direct opnieuw in gebruik worden genomen. Geen demontagekosten, geen garantie-issues."
 ---
 
-Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.
+*Disclosure: de links naar Frank Energie, Sessy, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 Wie verhuist met zonnepanelen op het dak, staat voor een concrete afweging: meenemen of achterlaten? Aan de ene kant staan de kosten van demontage, transport en herinstallatie, plus de vraag of het nieuwe dak qua constructie en oriëntatie überhaupt geschikt is. Aan de andere kant staat de meerwaarde die een werkend systeem aan de woning geeft bij verkoop.
 

@@ -18,7 +18,7 @@ keywords:
 - Sessy zonder zonnepanelen
 - Tibber thuisbatterij
 - thuisbatterij terugverdientijd
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -55,7 +55,7 @@ schema_type: Article
 
 In dit artikel rekenen we door wat je kunt verwachten, welke batterijen het beste werken zonder zonnepanelen, en of het financieel verstandig is om nu te investeren of te wachten. De cijfers komen uit publieke EPEX-marktdata, leveranciersvoorwaarden en fabrieksspecificaties; de rekenvoorbeelden zijn modelberekeningen met vermelde aannames.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

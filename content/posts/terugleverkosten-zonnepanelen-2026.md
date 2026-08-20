@@ -6,7 +6,7 @@ description: "Welke energieleveranciers rekenen terugleverkosten in 2026, hoe ho
 categories: ["zonne-energie", "energie"]
 tags: ["terugleverkosten", "zonnepanelen", "saldering 2027", "energieleveranciers", "Eneco", "Vattenfall", "Greenchoice"]
 keywords: ["terugleverkosten zonnepanelen", "terugleverkosten 2026", "terugleverkosten Eneco", "terugleverkosten Vattenfall", "welke energieleverancier geen terugleverkosten"]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"

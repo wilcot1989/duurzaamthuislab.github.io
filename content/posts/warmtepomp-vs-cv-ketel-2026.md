@@ -16,7 +16,7 @@ keywords:
 - warmtepomp kosten
 - CV-ketel vervangen
 - warmtepomp rendabel
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
@@ -44,7 +44,7 @@ schema_type: Article
 ---
 Een hybride warmtepomp naast een bestaande cv-ketel neemt volgens de installatievoorschriften bij een correct ingesteld bivalentpunt 55 tot 65 procent van de warmtevraag over. Bij een gemiddeld gasverbruik betekent dat honderden euro's per jaar minder energiekosten. Maar een warmtepomp is niet voor iedereen de juiste keuze: bij een slecht geïsoleerd huis of een laag gasverbruik kan de terugverdientijd oplopen tot vijftien jaar. In dit artikel rekenen wij het voor de belangrijkste woningtypen door.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 Al besloten dat je een warmtepomp wilt? Bekijk onze [top 5 hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) en de [ISDE subsidie gids](/posts/isde-subsidie-warmtepompen-2026/).
 

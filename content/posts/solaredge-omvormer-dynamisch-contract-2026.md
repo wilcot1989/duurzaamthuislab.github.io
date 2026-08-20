@@ -18,7 +18,7 @@ keywords:
 - solaredge tibber
 - solaredge frank energie
 - solaredge home battery
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1559302504-64aae6ca6b6d&w=1200&output=webp&q=70
@@ -55,7 +55,7 @@ category: zonnepanelen
 
 Een veelvoorkomende situatie: 14 panelen op het zuiddak, een SolarEdge HD-Wave-omvormer en een dynamisch contract — en toch een besparing die rond de €280 per jaar blijft hangen. Leg de mySolarEdge-productiecurve naast de uurtarieven en het patroon is meteen duidelijk: de omvormer levert keurig terug rond 13:00, precies wanneer de beursprijs op zijn laagst is, terwijl de EV om 18:30 laadt tegen het duurste tarief van de dag. Het gat zit niet in de hardware maar in de instellingen.
 
-*Disclosure: wij hebben affiliate-partnerships met Tibber, Frank Energie, Sessy en Zonneplan. Als je via deze links een contract afsluit of een batterij koopt krijgen wij een vergoeding. Dat verandert niets aan ons advies: wij beschrijven wat volgens de documentatie en de gebruikerspraktijk werkt, niet wat het meeste oplevert.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Tibber, Frank Energie, Sessy of Zonneplan (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Dat verandert niets aan ons advies: wij beschrijven wat volgens de documentatie en de gebruikerspraktijk werkt, niet wat het meeste oplevert.*
 
 ---
 

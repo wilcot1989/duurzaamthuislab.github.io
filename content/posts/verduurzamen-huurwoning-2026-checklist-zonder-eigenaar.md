@@ -45,7 +45,7 @@ faq:
 - q: 'Kan ik mijn verhuurder dwingen om te verduurzamen?'
   a: 'Bij corporaties: ja, via Huurcommissie bij label E/F/G sinds 2023. Bij particuliere verhuurder vanaf 2030 verplicht label C voor nieuwe contracten. Tot die tijd: schriftelijk verzoek, bij weigering Huurcommissie. Doorlooptijd 8-14 weken.'
 ---
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Frank Energie, HomeWizard, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 Als huurder voel je je bij verduurzamen snel machteloos: geen eigen dak, geen toestemming voor bouwkundige ingrepen, en energieprijzen waar je niets aan kunt doen. Dat beeld is maar half waar. Een flink deel van de winst zit in apparaten en contracten waarvoor je juridisch niemand iets hoeft te vragen — en die je bij verhuizing gewoon meeneemt.
 

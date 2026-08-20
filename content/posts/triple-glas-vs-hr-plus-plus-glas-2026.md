@@ -20,7 +20,7 @@ keywords:
 - triple glas kosten
 - HR++ glas terugverdientijd
 - driedubbel glas
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1513279014891-1bff5e7eb38c&w=1200&output=webp&q=70
@@ -45,7 +45,7 @@ schema_type: Article
 ---
 Wie ramen laat vervangen krijgt vrijwel altijd twee tegenstrijdige adviezen. De glaszetter: "voor 1.800 euro meerprijs krijg je triple, dat isoleert veel beter." De energieadviseur: "voor jouw woning is dat overdreven, kies HR++ en stop het verschil in vloerisolatie." Beide hebben een punt, maar slechts één van de twee klopt voor jouw situatie. Dit artikel legt uit welke — en wanneer triple glas de meerprijs wél waard is.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
 

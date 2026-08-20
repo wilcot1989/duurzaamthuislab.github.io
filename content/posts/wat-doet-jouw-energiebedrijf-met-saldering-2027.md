@@ -20,7 +20,7 @@ keywords:
   - eneco saldering stop
   - vattenfall teruglevering 2027
   - greenchoice 2027 voorwaarden
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -57,7 +57,7 @@ category: saldering
 
 Leveranciers sturen sinds de zomer van 2026 mails met formuleringen als: "Per 1 januari 2027 verandert uw vergoeding voor teruggeleverde stroom. Wij blijven uw teruglevering vergoeden tegen een redelijk tarief." Wat dat concreet betekent, blijft in die brieven vaak onbenoemd. Mag dat zomaar? Grotendeels wel — een leverancier moet een redelijke vergoeding bieden, maar mag zelf bepalen wanneer hij het tarief publiceert. Dit artikel zet per leverancier op een rij wat er wél is vastgelegd.
 
-*Sommige links in dit artikel zijn affiliate-links (Greenchoice, Vattenfall, Essent, Tibber). Bij een overstap via onze links ontvangen wij mogelijk een vergoeding. Je betaalt geen cent extra en onze beoordeling verandert daar niet door.*
+*Disclosure: de links naar Eneco, Essent, Greenchoice, Tibber en Vattenfall in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 > **Kort antwoord:** Per oktober 2026 zit er aanzienlijk verschil in wat leveranciers bieden voor 2027. Greenchoice koploper met 7,2 cent/kWh, Tibber en Frank op EPEX-uurprijs (gemiddeld 6,5 cent), Essent 5,1 cent, Eneco 4,5 cent, Vattenfall communiceert nog niet. Bijna iedereen rekent terugleverkosten — Tibber en Frank niet. Voor wie veel teruglevert kan switchen 200-400 EUR per jaar schelen.
 

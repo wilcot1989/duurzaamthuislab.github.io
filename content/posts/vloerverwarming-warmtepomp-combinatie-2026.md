@@ -16,7 +16,7 @@ keywords:
 - vloerverwarming kosten
 - LT verwarming
 - warmtepomp vloerverwarming
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
@@ -44,7 +44,7 @@ schema_type: Article
 ---
 Een warmtepomp haalt bij 35°C aanvoertemperatuur volgens de fabrieksspecificaties een COP rond de 4,5; bij 60°C — wat klassieke radiatoren vragen — zakt diezelfde pomp naar ongeveer 2,8. Dat is bijna 40 procent meer stroom voor dezelfde warmte. Wie een warmtepomp overweegt, moet daarom eerst naar het afgiftesysteem kijken: vloerverwarming is de investering die het rendement maakt of breekt.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 Zoek je een warmtepomp? Lees onze [top 5 hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) of de vergelijking [warmtepomp vs CV-ketel](/posts/warmtepomp-vs-cv-ketel-2026/).
 

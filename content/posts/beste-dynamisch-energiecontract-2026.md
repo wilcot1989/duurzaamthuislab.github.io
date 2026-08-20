@@ -20,7 +20,7 @@ keywords:
 - ANWB dynamisch
 - spotprijs energie
 - EPEX day-ahead
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1473341304170-971dccb5ac1e&w=1200&output=webp&q=70
@@ -60,7 +60,7 @@ Een nieuwe elektrische auto naast een vast contract van €0,34/kWh: dat is de s
 
 Dit artikel legt uit wat een dynamisch contract precies is en welke van de drie grote spelers (Tibber, Frank Energie, ANWB) bij welk profiel past.
 
-*Disclosure: dit artikel bevat referral-links naar Tibber en Frank Energie. Onze vergelijking is gebaseerd op de publieke tarieven en voorwaarden van de leveranciers, EPEX-marktdata uit 2025-2026 en geverifieerde gebruikersreviews.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Tibber of Frank Energie (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Onze vergelijking is gebaseerd op de publieke tarieven en voorwaarden van de leveranciers, EPEX-marktdata uit 2025-2026 en geverifieerde gebruikersreviews.*
 
 ---
 

@@ -25,7 +25,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1554224155-1696413565d3&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Kan ik in 2026 nog BTW terugvragen op zonnepanelen?'
   a: 'Sinds 1 januari 2023 geldt 0% BTW op zonnepanelen voor woningen — dus geen BTW meer terug te vragen op nieuwe installaties. Wel kun je oudere installaties (gekocht vóór 2023) nog steeds via KOR-procedure claimen mits je nog niet bent aangemeld als ondernemer.'
@@ -56,7 +56,7 @@ Het idee dat BTW-teruggave op zonnepanelen na vijf jaar verloopt, is een misvatt
 
 Hieronder het volledige stappenplan voor wie nog BTW heeft openstaan op een oudere installatie, plus uitleg waarom dit voor installaties vanaf 2023 niet meer geldt.
 
-*Dit artikel bevat affiliate links. Bij aankoop via die links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dit artikel is geen fiscaal advies; controleer je situatie bij de Belastingdienst of een fiscalist.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie. Dit artikel is geen fiscaal advies; controleer je situatie bij de Belastingdienst of een fiscalist.*
 
 
 > **Kort antwoord:** BTW teruggeven zonnepanelen 2026: ondanks 0% BTW kun je oude installaties nog claimen. Stappenplan voor aanmelding KOR, kleineondernemersregeling en aangifte bij de Belastingdienst.

@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: Wat kost een Enphase IQ Battery 5P in Nederland?
   a: De adviesprijs ligt rond €4.200 inclusief installatie voor één 5 kWh module. Twee modules (10 kWh) kost ongeveer €7.800. Prijzen exclusief eventuele extra bedrading of een nieuwe groepenkast.
@@ -53,7 +53,7 @@ Wie zijn zonnepanelen wil uitbreiden met opslag komt in Nederland vrijwel altijd
 
 Hieronder onze analyse: wat de specificaties beloven, waar de zwaktes zitten voor de Nederlandse markt, en voor wie deze batterij daadwerkelijk de juiste keuze is.
 
-*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Frank Energie, Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** de Enphase IQ Battery 5P is uitstekende hardware met de beste monitoring van de markt, maar hij handelt niet zelfstandig op een dynamisch contract en kost aanzienlijk meer dan een Sessy of Marstek. Logisch als je al een Enphase-systeem hebt; anders niet.

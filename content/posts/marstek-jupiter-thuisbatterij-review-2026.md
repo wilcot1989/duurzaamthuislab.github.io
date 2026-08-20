@@ -19,7 +19,7 @@ keywords:
 - marstek jupiter vs venus
 - grote thuisbatterij review
 - marstek mkb
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -53,7 +53,7 @@ products:
 schema_type: Review
 ---
 
-*Disclosure: dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dat verandert onze beoordeling niet.*
+*Disclosure: de links naar Marstek en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Onze beoordeling is gebaseerd op specificaties, handleidingen, garantievoorwaarden en geverifieerde gebruikersreviews.*
 
 De vraag die bij dit segment steeds terugkomt: is een Marstek Jupiter van circa €9.495 een betere koop dan een Sessy Pro van circa €12.000? Wij vergelijken beide op fabrieksspecificaties, garantievoorwaarden, de documentatie van installateurs en geverifieerde gebruikersreviews — en rekenen het prijsverschil door in een modelberekening.
 

@@ -20,7 +20,7 @@ keywords:
 - groenten kweken onder zonnepanelen
 - zonneschapen onder zonnepanelen
 - agrivoltaics nederland 2026
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -52,7 +52,7 @@ schema_type: Article
 
 Agrivoltaïca — de combinatie van zonnepanelen en landbouw op dezelfde grond — is een van de interessantste duurzame innovaties van de afgelopen jaren. In dit artikel onderzoeken wij wat het is, wat er wetenschappelijk aantoonbaar werkt, en hoe ver de vertaling naar een particuliere tuin realistisch is.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

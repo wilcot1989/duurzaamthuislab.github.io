@@ -20,7 +20,7 @@ keywords:
 - isolatie warmtepomp 2026
 - welke isolatie eerst
 - warmtepomp voorbereiden isolatie
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1503594384566-461fe158e797&w=1200&output=webp&q=70
@@ -45,7 +45,7 @@ schema_type: Article
 ---
 Toen ik mijn warmtepomp liet installeren had ik mezelf voorgenomen: eerst alles isoleren, dan pas overstappen. Het werd het beste advies dat ik mezelf ooit heb gegeven. Twee buurmannen die wel direct overstapten zonder eerst de spouw te laten vullen, hebben nu een SCOP onder de 3,2 en stookkosten van 1.800 euro per jaar. Mijn pomp draait op 4,4 en kost me 950 euro. Het verschil zit niet in het merk — het zit in de isolatieschil.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 In dit artikel vergelijk ik de vier hoofdvormen van isolatie — vloer, spouw, dak en glas — op kosten, rendement en de impact die ze hebben op de prestaties van je warmtepomp. Ik leg ook uit in welke volgorde je het beste kunt aanpakken, en welke fouten ik bij vrienden en buren steeds weer zie terugkomen.
 

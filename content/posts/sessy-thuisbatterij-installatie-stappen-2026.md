@@ -45,7 +45,7 @@ faq:
 - q: 'Wanneer verdient Sessy zichzelf terug in 2026?'
   a: 'Dat hangt af van de prijsspreads en van je gebruik. Bij actief gebruik op een dynamisch contract komen rekenmodellen doorgaans uit op 6-9 jaar bij een verwachte levensduur van 15-20 jaar. Op een vast contract, waar alleen de hogere zelfconsumptie meetelt, loopt de terugverdientijd op tot ver boven de tien jaar — dan is het meestal niet rendabel.'
 ---
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij baseren ons op specificaties, installatievoorschriften, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Frank Energie, HomeWizard, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij baseren ons op specificaties, installatievoorschriften, geverifieerde gebruikersreviews en publieke data.*
 
 Het verschil tussen een soepele Sessy-installatie en een die vastloopt, zit vrijwel nooit in de hardware maar in de voorbereiding: de groepenkast, de locatie, het dynamische contract en de P1-poort. Hieronder staat het hele traject op een rij, met de punten waarop het volgens installatievoorschriften en gebruikersverslagen het vaakst misgaat.
 

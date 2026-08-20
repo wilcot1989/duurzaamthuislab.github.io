@@ -17,7 +17,7 @@ keywords:
 - van G naar A
 - energielabel kosten
 - energielabel subsidie
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
@@ -45,7 +45,7 @@ schema_type: Article
 ---
 Van label C naar label A is voor veel Nederlandse woningen haalbaar met een combinatie van vloerisolatie, zonnepanelen, een hybride warmtepomp en eventueel een thuisbatterij. In dit stappenplan zetten we op een rij welke maatregelen in welke volgorde het meeste effect hebben, wat ze volgens marktprijzen kosten, welke subsidies erop van toepassing zijn en hoe de terugverdientijd uitpakt. De cijfers komen uit publieke bronnen (RVO/ISDE-regelingen, Milieu Centraal, CBS) en uit prijsindicaties van installateurs; de rekenvoorbeelden zijn modelberekeningen met vermelde aannames.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Vaillant en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 Overweeg je een warmtepomp? Lees eerst ons artikel over de [beste hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) en de [ISDE subsidie](/posts/isde-subsidie-warmtepompen-2026/).
 

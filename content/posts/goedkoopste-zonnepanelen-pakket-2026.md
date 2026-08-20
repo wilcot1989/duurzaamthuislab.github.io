@@ -6,7 +6,7 @@ description: "Goedkoopste zonnepanelen pakket in 2026: 7 budget-opties van €1.
 categories: ["zonne-energie"]
 tags: ["zonnepanelen", "pakket", "goedkoopst", "budget", "prijzen", "installateur"]
 keywords: ["goedkoopste zonnepanelen pakket 2026", "zonnepanelen pakket prijs", "betaalbare zonnepanelen", "zonnepanelen budget", "zonnepanelen aanbieding"]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
@@ -40,7 +40,7 @@ products:
     url: "https://go.duurzaamthuislab.nl/tibber"
     price: "6"
 ---
-*Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvang ik mogelijk een commissie zonder dat jij meer betaalt. Mijn analyse is gebaseerd op offertes verzameld bij 14 Nederlandse installateurs in juli-augustus 2026.*
+*Disclosure: de links naar Marstek, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 Een buurman vroeg me vorige maand: "Mark, wat is het goedkoopste pakket dat ik kan kopen zonder later spijt?" Hij had een offerte van €4.500 voor 8 panelen. Te duur, dacht hij. Klopt — voor 8 standaard panelen betaal je in 2026 zo'n €3.200-€3.800 incl. plaatsing. Hij had €700-€1.300 te veel offerte gekregen.
 

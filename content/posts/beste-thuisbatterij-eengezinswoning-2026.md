@@ -20,7 +20,7 @@ keywords:
 - Huawei Luna 2000
 - Tesla Powerwall 3
 - thuisbatterij prijs kwh
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497435334941-8c899ee9e8e9&w=1200&output=webp&q=70
@@ -59,7 +59,7 @@ category: thuisbatterijen
 
 In dit artikel vergelijken wij de vijf batterijen die voor een eengezinswoning serieus in aanmerking komen — Sessy, Marstek Venus, Huawei Luna 2000, Tesla Powerwall 3 en Zonneplan — op prijs per kWh, vermogen, garantie, app en contractvrijheid. Daarna rekenen wij een representatief profiel door.
 
-*Disclosure: dit artikel bevat affiliate-links. Als je via een van deze links iets koopt, ontvangen wij een kleine commissie zonder meerkosten voor jou. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Marstek, Sessy, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 > **Kort antwoord:** Voor de meeste eengezinswoningen (3.500-4.500 kWh/jaar) is Sessy 10 kWh de beste koop in 2026: €5.995, slim handelsalgoritme, 10 jaar garantie, geen contract-lock-in. Wil je modulair en goedkoop starten? Marstek Venus 5 kWh voor €2.500. Heb je een EV plus warmtepomp en wil je backup tijdens stroomuitval? Tesla Powerwall 3 (13,5 kWh, €11.000). Zonneplan is alleen logisch als je ook hun panelen en contract neemt.
 

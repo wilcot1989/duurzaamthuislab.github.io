@@ -19,7 +19,7 @@ keywords:
 - DIY zonnepanelen wettelijk
 - zonnepanelen certificering NEN1010
 - zonneplan review
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -48,7 +48,7 @@ De DIY-verleiding is begrijpelijk: het lijkt relatief eenvoudig, panelen worden 
 
 Hieronder de wettelijke kaders, de financiële afweging en de plekken waar het in de praktijk misgaat.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via deze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 ---
 

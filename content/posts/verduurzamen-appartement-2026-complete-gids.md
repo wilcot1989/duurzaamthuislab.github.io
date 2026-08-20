@@ -45,7 +45,7 @@ faq:
 - q: 'Kan ik balkonzonnepanelen gebruiken in plaats van dakpanelen?'
   a: 'Sinds 2025 mag dat in Nederland zonder vergunning tot 800 W. Wel VvE-toestemming nodig voor zichtbare montage. Productie circa 350-650 kWh per jaar bij goede ligging — zie ons artikel over balkonpanelen voor de details.'
 ---
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Frank Energie, HomeWizard, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 "Ik woon in een appartement. Geen eigen dak, een VvE die alles tegenhoudt en blokverwarming. Kan ik überhaupt iets met verduurzamen?" Dat is een van de meest gestelde vragen over verduurzaming. Het eerlijke antwoord: ja, maar verwacht geen wonderen. Wel een paar honderd euro per jaar, en flink wat comfort.
 

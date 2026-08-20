@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1559302995-f1d7e5c1b8e7&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Welke vermogen omvormer heb ik nodig?'
   a: 'Reken op 80-90% van je totale paneelvermogen. Heb je 12 panelen × 425 Wp = 5,1 kWp, kies dan een 4-4,5 kW omvormer. Lichte ondermaat is normaal en juist efficiënter.'
@@ -53,7 +53,7 @@ De omvormer is het onderdeel waar bij zonnepanelen het vaakst achteraf spijt ove
 
 Hieronder een complete gids voor de omvormer-keuze op basis van specificaties, garantievoorwaarden en publieke marktprijzen: per situatie de beste optie, met realistische kosten en valkuilen.
 
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 
 > **Kort antwoord:** Welke omvormer past bij mijn zonnepanelen? Stappenplan voor de keuze tussen string-omvormer, micro-omvormers, hybride en optimizers, met een aanbeveling per situatie.

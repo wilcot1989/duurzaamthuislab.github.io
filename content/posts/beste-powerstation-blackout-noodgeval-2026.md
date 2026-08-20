@@ -59,7 +59,7 @@ last_updated: '2026-10-12'
 category: powerstations
 ---
 
-*Disclosure: wij hebben affiliate-partnerships met EcoFlow, Jackery, Bluetti, Anker en Goal Zero via AWIN. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: wij hebben affiliate-partnerships met EcoFlow, Jackery, Bluetti en Anker Solix via AWIN. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 

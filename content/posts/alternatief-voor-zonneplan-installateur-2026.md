@@ -17,7 +17,7 @@ keywords:
 - zonnepanelen installateur
 - beste zonnepanelen installateur
 - zonneplan vergelijking
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1508514177221-188b1cf16e9d&w=1200&output=webp&q=70
@@ -57,7 +57,7 @@ Het verschil tussen de hoogste en de laagste offerte voor dezelfde installatie l
 
 Dit artikel is voor iedereen die offertes vergelijkt en wil weten welke alternatieven voor Zonneplan serieus overwogen waard zijn.
 
-*Disclosure: dit artikel bevat affiliate-links. Als je via een van deze links iets koopt, ontvangen wij een kleine commissie zonder meerkosten voor jou. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Easee, Sessy, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 

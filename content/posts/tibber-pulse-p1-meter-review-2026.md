@@ -20,7 +20,7 @@ keywords:
 - p1 meter uitlezen
 - tibber pulse ervaringen
 - realtime stroomverbruik meten
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1473341304170-971dccb5ac1e&w=1200&output=webp&q=70
@@ -54,7 +54,7 @@ products:
 schema_type: Review
 ---
 
-*Disclosure: dit artikel bevat affiliate links. Sluit je via onze link een Tibber-contract af, dan ontvangen wij een commissie zonder dat het jou iets extra kost. Ons oordeel verandert daar niet door: wij beoordelen op specificaties, handleidingen, app-functies, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: wij hebben op het moment van publicatie geen commissie-afspraak met Tibber; de links naar Tibber zijn gewone verwijzingen. Ons oordeel verandert daar niet door: wij beoordelen op specificaties, handleidingen, app-functies, geverifieerde gebruikersreviews en publieke data.*
 
 Er zijn in Nederland drie P1-meters die je serieus tegen elkaar afweegt: HomeWizard P1, Youless en de Tibber Pulse. Ze doen technisch hetzelfde — je slimme meter uitlezen — maar verschillen sterk in wat de bijbehorende app ermee doet, en in hoe vrij je blijft in je keuze van energieleverancier.
 

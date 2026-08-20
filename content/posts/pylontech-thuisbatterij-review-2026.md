@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1507668077129-56e32842fceb&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Wat kost een Pylontech US5000 in 2026?'
   a: De Pylontech US5000 (4,8 kWh nominaal, 4,56 kWh bruikbaar) kost €1.350-€1.500 per module. Inclusief installatie en hybride omvormer kom je op €4.500-€7.500 voor 9,6 kWh setup.
@@ -53,7 +53,7 @@ Pylontech is in de off-grid wereld de standaard: recreatiewoningen, boerderijen 
 
 Hieronder onze analyse: wat de specificaties zeggen, hoe de prijs per kWh zich verhoudt tot Sessy en BYD, welke omvormer je erbij nodig hebt, en voor wie deze batterij daadwerkelijk de juiste keuze is.
 
-*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** de Pylontech US5000 is met afstand de goedkoopste batterij per kWh en het werkpaard van de off-grid wereld — maar er zit geen consumentenapp bij en hij handelt niet zelf op dynamische prijzen. Geschikt voor wie technisch is; wie plug-and-play wil, kiest Sessy of Marstek.

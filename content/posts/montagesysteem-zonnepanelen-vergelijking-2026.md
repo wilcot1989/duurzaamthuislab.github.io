@@ -25,7 +25,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Wat kost een montagesysteem voor zonnepanelen?'
   a: 'Voor een schuin dak: €25-€45 per paneel inclusief montagebeugels, rails en kleinmateriaal. Voor plat dak met ballast: €40-€80 per paneel. Specialistische dakhaken voor leien of riet: €60-€120 per paneel.'
@@ -57,7 +57,7 @@ Wat er misgaat bij een te licht systeem: bouten van een onbekende staalkwaliteit
 
 Hieronder onze complete vergelijking van de belangrijkste merken in 2026: wat te kiezen voor welk type dak.
 
-*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** vraag altijd expliciet naar merk en model van het montagesysteem in je offerte. Voor een standaard pannendak landinwaarts zijn K2, Esdec en Renusol alle drie geschikt; bij een plat dak, een kustlocatie of een bijzondere dakbedekking is de keuze wél bepalend.

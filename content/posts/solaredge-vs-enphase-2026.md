@@ -17,7 +17,7 @@ keywords:
 - micro-omvormer
 - power optimizer
 - beste omvormer zonnepanelen
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -45,7 +45,7 @@ schema_type: Article
 ---
 In het premiumsegment van de omvormermarkt komt de keuze bijna altijd neer op SolarEdge of Enphase. Beide optimaliseren elk paneel individueel, maar de technologie erachter verschilt fundamenteel: SolarEdge werkt met een centrale omvormer plus optimizers, Enphase met een micro-omvormer per paneel. In dit artikel vergelijken we specificaties, garantievoorwaarden en de totale kosten over de levensduur, met een doorgerekend model voor een installatie van 16 panelen.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 Bekijk ook ons overzicht van de [beste omvormers voor zonnepanelen](/posts/beste-omvormer-zonnepanelen-2026/) voor meer opties.
 

@@ -7,7 +7,7 @@ description: 'Bereken per profiel (1500/3500/6000 kWh teruglevering) wat je in 2
 categories: [saldering]
 tags: [saldering, 2027, calculator, Sessy, Tibber, Frank-Energie, thuisbatterij]
 keywords: [saldering 2027 berekenen, saldering stopt verlies, terugleververgoeding 2027, thuisbatterij na saldering, dynamisch contract saldering]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -41,7 +41,7 @@ category: saldering
 
 Daarom werkt dit artikel de rekensom uit voor drie profielen: 1.500, 3.500 en 6.000 kWh teruglevering per jaar. Geen vage praatjes, gewoon euro-bedragen waar je iets mee kunt.
 
-*Sommige links in dit artikel zijn affiliate-links (Sessy, Tibber, Frank Energie). Koop je iets via zo'n link, dan ontvangen wij een kleine vergoeding. Je betaalt geen cent extra en het advies verandert daar niet door — ook niet wanneer de conclusie is dat je niets moet kopen.*
+*Disclosure: de links naar Frank Energie, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 > **Kort antwoord:** Verwacht in 2027 een terugleververgoeding tussen 3 en 7 cent per kWh (nu krijg je via saldering effectief 28 tot 32 cent). Voor een gemiddeld huishouden met 3500 kWh teruglevering betekent dat ruwweg 800 tot 1000 euro minder per jaar. Een Sessy-batterij heeft pas zin bij 4000+ kWh teruglevering. Een dynamisch contract (Tibber of Frank) is voor de meeste mensen de eerste, goedkoopste stap.
 

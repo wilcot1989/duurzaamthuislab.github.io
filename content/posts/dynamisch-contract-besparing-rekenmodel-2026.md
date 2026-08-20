@@ -7,7 +7,7 @@ description: Compleet rekenmodel dynamisch contract 2026 — 3 scenario's vergel
 categories: [energie]
 tags: [dynamisch-contract, Tibber, Frank-Energie, besparing, rekenmodel, EPEX]
 keywords: [dynamisch contract besparing, tibber besparing berekenen, frank energie rekenmodel, vast vs dynamisch, dynamisch contract 2026]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -43,7 +43,7 @@ Twee offertes op de keukentafel: een vast contract van 0,33 euro per kWh met dri
 
 Neem een gezin van vier met één elektrische auto, een hybride warmtepomp en iemand die thuiswerkt: jaarverbruik circa 5.200 kWh. Rekenvoorbeeld met de tarieven verderop in dit artikel: op een vast contract van 0,33 euro per kWh komt dat uit op circa 1.716 euro. Op een dynamisch contract met wat smart-laden in de nachtelijke daluren komt hetzelfde verbruik in het model uit op circa 1.280 euro. Verschil: ruim 400 euro per jaar. In dit artikel staat stap voor stap hoe die berekening werkt, zodat je hem voor je eigen situatie kunt maken.
 
-*Disclosure: dit artikel bevat affiliate links naar Tibber, Frank Energie en ANWB Energie Dynamisch. Als je via zo'n link een contract afsluit ontvangen wij een vergoeding zonder dat jij extra betaalt. De berekeningen zijn gebaseerd op publieke EPEX day-ahead data over 2025 en op een rekenmodel met expliciete aannames (verbruiksprofiel 4.200 kWh per jaar).*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Tibber, Frank Energie of ANWB Energie (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. De berekeningen zijn gebaseerd op publieke EPEX day-ahead data over 2025 en op een rekenmodel met expliciete aannames (verbruiksprofiel 4.200 kWh per jaar).*
 
 > **Kort antwoord:** een gemiddeld huishouden (3500 kWh) bespaart in 2026 met een dynamisch contract zoals Tibber of Frank tussen 180 en 320 euro per jaar zonder ingrijpen, en tot 550 euro met smart-laden of een thuisbatterij. Een klein huishouden (2000 kWh) bespaart 90 tot 160 euro. Een groot huishouden met EV en warmtepomp (6000 kWh) bespaart 380 tot 720 euro. Vast contract loont alleen bij volledig inflexibel verbruik tussen 17:00 en 20:00.
 

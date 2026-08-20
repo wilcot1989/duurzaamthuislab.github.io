@@ -20,7 +20,7 @@ keywords:
 - frank energie review
 - tibber review nederland
 - beste dynamisch contract 2026
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1508514177221-188b1cf16e9d&w=1200&output=webp&q=70
@@ -57,7 +57,7 @@ Frank Energie en Tibber zijn de twee bekendste pure-play aanbieders van dynamisc
 
 Hieronder zetten we die verschillen op een rij op basis van de tarievenbladen en voorwaarden van beide partijen, plus een jaarberekening waarin je je eigen verbruik kunt invullen.
 
-*Disclosure: wij hebben een affiliate-relatie met Tibber via hun refer-a-friend programma. Frank heeft op moment van schrijven geen openbaar affiliate-programma; daar ontvangen wij niets voor. Deze vergelijking is gebaseerd op openbare tarieven en voorwaarden.*
+*Disclosure: wij hebben op het moment van schrijven geen affiliate- of commissierelatie met Tibber of Frank Energie; de links naar beide leveranciers zijn gewone verwijzingen. Deze vergelijking is gebaseerd op openbare tarieven en voorwaarden.*
 
 ---
 

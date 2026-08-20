@@ -6,7 +6,7 @@ description: "Bereken stap-voor-stap de ROI van een thuisbatterij na saldering 2
 categories: ["thuisbatterijen"]
 tags: ["thuisbatterij", "ROI", "saldering 2027", "rendement", "berekening", "terugverdientijd"]
 keywords: ["roi thuisbatterij 2027", "thuisbatterij rendement na saldering", "thuisbatterij berekening 2027", "terugverdientijd batterij saldering", "rendement thuisbatterij"]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1671785253964-bdb43087ed99&w=1200&output=webp&q=70"
@@ -43,7 +43,7 @@ products:
     url: "https://go.duurzaamthuislab.nl/frank-energie"
     price: "0"
 ---
-*Affiliate disclosure: deze pagina bevat affiliate-links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder dat jij meer betaalt. De berekeningen hieronder zijn gebaseerd op publieke EPEX-data, fabrieksspecificaties en de vastgestelde afbouwpercentages van de salderingsregeling.*
+*Disclosure: de links naar Frank Energie, Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. De berekeningen hieronder zijn gebaseerd op publieke EPEX-data, fabrieksspecificaties en de vastgestelde afbouwpercentages van de salderingsregeling.*
 
 "Gaat een thuisbatterij mij ECHT geld opleveren, of doe ik het uit principe?" Dat is de vraag die telt, want een batterij is geen klein bedrag — €2.300 tot €6.000. En het rekenwerk dat installateurs in hun offertes laten zien is, eerlijk gezegd, vaak optimistisch tot misleidend.
 

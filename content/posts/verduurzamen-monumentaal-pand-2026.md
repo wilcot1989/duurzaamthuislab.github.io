@@ -45,7 +45,7 @@ faq:
 - q: 'Hoeveel kost het echt om een monument te verduurzamen?'
   a: 'Realistisch 1,5-2,5x meer dan een gewone woning. Voorbeeld: een rijksmonument van 130 m2 kost 28.000-42.000 euro voor binnenisolatie + hybride warmtepomp + monumentvriendelijke ventilatie. Een vergelijkbaar niet-monumentaal pand 18.000-26.000 euro.'
 ---
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar ATAG, Frank Energie en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 "Verduurzamen kan toch niet bij ons?" Dat is de eerste reactie van veel monument-eigenaren. Toch zijn er routes die binnen de erfgoedregels passen: damp-open binnenisolatie, een hybride warmtepomp met een kleine buitenunit, vacuümglas in het originele kozijn. Geen wonderen, wel een realistisch pad. Om dat concreet te maken werken we in dit artikel met twee voorbeeldscenario's: een rijksmonument uit 1782 en een gemeentelijk monument uit 1898.
 

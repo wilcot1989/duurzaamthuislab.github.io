@@ -19,7 +19,7 @@ keywords:
   - tibber overstap
   - frank energie aanmelden
   - dynamisch contract januari 2027
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1473341304170-971dccb5ac1e&w=1200&output=webp&q=70
@@ -56,7 +56,7 @@ category: energiecontracten
 
 Begin oktober kreeg ik een berichtje van Linda uit Hoofddorp. "Mark, ik wil overstappen naar dynamisch, maar ik wil niet pas eind januari live zijn. Wanneer moet ik echt op de knop drukken?" Goede vraag, en eentje die ik in oktober tientallen keren hoor. In dit artikel werk ik het stappenplan uit zodat je per 1 januari 2027 actief bent op het nieuwe contract — precies wanneer de saldering stopt en je de besparingen nodig hebt.
 
-*Sommige links in dit artikel zijn affiliate-links (Tibber, Frank Energie, ANWB Energie, Sessy). Klik je en koop je iets, dan krijg ik een kleine vergoeding. Je betaalt geen cent extra en mijn advies blijft hetzelfde, ook als het tegen mijn portemonnee in gaat.*
+*Disclosure: de links naar ANWB Energie, Frank Energie, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 > **Kort antwoord:** Overstappen naar dynamisch duurt 4 tot 8 weken. Voor een 1 januari 2027 start moet je uiterlijk 15 november 2026 de aanvraag indienen — bij voorkeur al eind oktober. Op basis van huidige spot-prijzen verwacht ik een gemiddeld jaarvoordeel van 200 tot 700 EUR, afhankelijk van of je een EV, batterij of warmtepomp hebt. Tibber bij EV, Frank bij prijsgevoeligheid, ANWB bij voorkeur voor klantenservice.
 

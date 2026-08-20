@@ -20,7 +20,7 @@ keywords:
   - ISDE ondernemer
   - zakelijk dynamisch contract
   - mkb zonnepanelen subsidie
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497366811353-6870744d04b2&w=1200&output=webp&q=70
@@ -54,7 +54,7 @@ category: zakelijk
 
 Begin oktober kwam Mark uit Almere bij me op consult. Hij heeft een bouwbedrijf met 8 medewerkers, een werkplaats van 320 m² en een kantoor aan huis. Tot nu toe had hij saldering, kreeg ISDE voor de warmtepomp op kantoor en betaalde geen aandacht aan EIA. "Mark, ik weet dat er iets verandert in 2027, maar mijn boekhouder snapt het zelf niet. Wat moet ik nu doen?" Goede vraag. Voor ondernemers is de combinatie van saldering-stop, ISDE, EIA en zakelijk dynamisch contract complex — maar ook kansrijk. In dit artikel zet ik de regelingen naast elkaar met concrete bedragen.
 
-*Sommige links in dit artikel zijn affiliate-links (Tibber Business, Frank Zakelijk, Zonneplan). Klik je en koop je iets, dan krijg ik een kleine vergoeding. Je betaalt geen cent extra en mijn advies blijft hetzelfde, ook als het tegen mijn portemonnee in gaat.*
+*Disclosure: de links naar Frank Energie, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 > **Kort antwoord:** Voor ondernemers liggen er nu drie hefbomen klaar. EIA geeft je 40% fiscale aftrek op zonnepanelen, batterijen en EV-laadinfra. ISDE geeft cash subsidie voor warmtepompen (2.500-4.500 EUR per installatie). En een zakelijk dynamisch contract levert 500-1500 EUR jaarvoordeel op vergeleken met vast. De saldering-stop in 2027 maakt deze hefbomen extra belangrijk omdat het oude verdienmodel (terugleveren tegen volle prijs) wegvalt.
 

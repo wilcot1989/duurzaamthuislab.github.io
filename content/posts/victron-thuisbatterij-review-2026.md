@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1518709268805-4e9042af2176&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Wat is Victron Energy?'
   a: Victron Energy is een Nederlands bedrijf uit Almere, sinds 1975. Specialist in stroomvoorziening voor boten, campers, off-grid woningen en backup-systemen. Hun thuisbatterij-oplossingen bestaan uit MultiPlus omvormer + LFP batterij + Lynx Smart BMS.
@@ -53,7 +53,7 @@ Victron komt vooral in beeld bij afgelegen woningen met een kwetsbare netaanslui
 
 Hieronder de review van de combinatie Victron MultiPlus II, Lynx Smart BMS en 2x 5,1 kWh LFP, op basis van fabrieksspecificaties, handleidingen, installateursopgaven en geverifieerde gebruikersreviews. Wat doet het goed, waar zit de leercurve, en voor wie is een Victron-systeem echt geschikt.
 
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 
 > **Kort antwoord:** Victron Energy thuisbatterij review: de MultiPlus II met Lynx Smart BMS. Voor- en nadelen, prijs, betrouwbaarheid en geschikt voor wie?

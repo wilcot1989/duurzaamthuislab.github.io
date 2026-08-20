@@ -16,7 +16,7 @@ keywords:
 - slimme thermostaat
 - energiebesparing domotica
 - Home Assistant energie
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -47,7 +47,7 @@ schema_type: Article
 ---
 Een goed ingericht energiesysteem in huis werkt zonder dat je er iets voor doet: een P1-meter ziet wat er binnenkomt en uitgaat, een thuisbatterij laadt op zolang er zonneoverschot is, en de warmtepomp draait vooral op de uren dat stroom goedkoop is. Dat klinkt ingewikkeld, maar het draait om drie componenten — meten, sturen en een doel — en het is met een middag instellen op te zetten. In dit artikel leggen wij uit hoe je zo'n systeem zelf inricht, wat het kost en waar de winst werkelijk zit.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 Heb je een dynamisch energiecontract? Slim energiebeheer maakt de besparing nog groter. Lees onze [vergelijking dynamische energiecontracten](/posts/dynamische-energiecontracten-vergelijking-2026/).
 

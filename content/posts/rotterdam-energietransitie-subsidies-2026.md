@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1518709268805-4e9042af2176&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Welke subsidies heeft Rotterdam voor verduurzaming?'
   a: 'Subsidie Verduurzaming Eigen Woning (€500-€3.000), Energietransitiefonds Rotterdam (renteloze leningen tot €25.000), Aardgasvrij-bonus (€1.000-€4.000), VVE Verduurzamingsregeling, en specifieke wijkregelingen voor Hoogvliet, Pernis en Bospolder-Tussendijken.'
@@ -62,7 +62,7 @@ Maandlast van de lening: circa €83. Modelmatige maandbesparing op energie: cir
 
 Hieronder het complete overzicht van de Rotterdamse regelingen in 2026, hoe je ze stapelt en waar de aanvragen in de praktijk vastlopen.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Rotterdam subsidies voor zonnepanelen, warmtepomp en isolatie in 2026. Alle gemeentelijke regelingen, voorwaarden en hoe je ze combineert met provinciale en landelijke subsidies.

@@ -7,7 +7,7 @@ description: 'Wat kost een warmtepomp echt in 2026? Eerlijke prijzen per type (l
 categories: [warmtepompen]
 tags: [warmtepomp, kosten, ISDE, Atag, Daikin, Quatt, hybride]
 keywords: [warmtepomp kosten, warmtepomp prijs 2026, lucht water warmtepomp prijs, hybride warmtepomp kosten, ISDE warmtepomp, quatt prijs]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1631545308456-15ef38d5a1f4&w=1200&output=webp&q=70
@@ -48,7 +48,7 @@ Meestal klopt elke offerte afzonderlijk — alleen gaan ze over compleet verschi
 
 Dit is precies waar de meeste mensen vastlopen. "Warmtepomp" is geen product. Het is een categorie met vier hoofdtypes die wezenlijk verschillen in prijs, prestaties en geschiktheid. In dit artikel zetten wij per type op een rij wat je werkelijk betaalt, wat de ISDE-subsidie voor je doet en welke merken (Atag, Daikin, Quatt, Vaillant, Mitsubishi) waar zitten.
 
-*Disclosure: wij hebben geen commerciële afspraken met de merken in dit artikel. Wel ontvangen wij een vergoeding als je via onze link een Quatt aanvraagt, zonder extra kosten voor jou. De prijsindicaties komen uit publieke prijslijsten en door leveranciers gecommuniceerde vanaf-prijzen; de prestatiecijfers uit fabrieksspecificaties en de ISDE-apparatenlijst van RVO.*
+*Disclosure: wij hebben geen commerciële afspraken met de merken in dit artikel, ook niet met Quatt; de links naar Quatt zijn gewone verwijzingen. De prijsindicaties komen uit publieke prijslijsten en door leveranciers gecommuniceerde vanaf-prijzen; de prestatiecijfers uit fabrieksspecificaties en de ISDE-apparatenlijst van RVO.*
 
 ---
 

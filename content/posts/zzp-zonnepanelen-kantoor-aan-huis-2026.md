@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497366811353-6870744d04b2&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Mag ik zonnepanelen op mijn naam zakelijk afschrijven?'
   a: 'Alleen als je officieel kantoor aan huis hebt en voldoet aan de eisen (zelfstandige opgang, eigen ingang, of administratief gescheiden ruimte). Anders zijn de panelen onder privé en niet zakelijk aftrekbaar.'
@@ -55,7 +55,7 @@ Na overleg met een fiscalist: 18% van haar woning was kantoor (zolder + opslag).
 
 Hieronder mijn complete gids voor ZZP-ers en freelancers met kantoor aan huis. Wat is fiscaal mogelijk, wat zijn de regels, en hoe pak je het aan.
 
-*Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** ZZP met kantoor aan huis: hoe verdeel je zonnepanelen-investering tussen privé en zakelijk? Belastingen, BTW en KIA voor freelancers in 2026 uitgelegd.

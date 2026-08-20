@@ -19,7 +19,7 @@ keywords:
   - zonnepanelen installeren 2026 deadline
   - zonneplan wachttijd
   - panelen Q4 2026
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -53,7 +53,7 @@ category: saldering
 
 Een veelvoorkomende situatie in het najaar van 2026: huishoudens die hun beslissing over zonnepanelen maandenlang uitstelden omdat ze "eerst de saldering-stop wilden afwachten", en nu met de vraag zitten of het nog zin heeft. "Als we nu bestellen, halen we 31 december toch nooit?" Dat is de juiste vraag, en het antwoord is voor de meesten inderdaad nee. Dit artikel legt uit waarom dat geen ramp is.
 
-*Sommige links in dit artikel zijn affiliate-links (Zonneplan, Sessy, Tibber). Klik je en koop je iets, dan krijgen wij een kleine vergoeding. Je betaalt geen cent extra en ons advies blijft hetzelfde, ook als het tegen onze eigen inkomsten in gaat.*
+*Disclosure: de links naar Sessy, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 > **Kort antwoord:** Voor 90% van de mensen die in oktober 2026 nog beginnen met de installateur-selectie is 31 december niet meer haalbaar. Gemiddelde wachttijden bij grote installateurs zijn 10 tot 14 weken. Bestel je nu, dan word je begin 2027 geplaatst en mis je de volle saldering. Dat is geen ramp: met een dynamisch contract en eventueel een batterij is de terugverdientijd nog steeds 9 tot 12 jaar. Alleen niet meer de zes jaar van 2022.
 

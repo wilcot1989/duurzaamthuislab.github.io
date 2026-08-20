@@ -20,7 +20,7 @@ keywords:
 - thuisbatterij plaatsing
 - sessy installatie
 - marstek installatie
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -52,7 +52,7 @@ Over de vraag waar een thuisbatterij hoort te hangen, lopen de adviezen sterk ui
 
 Dit artikel is gebaseerd op de installatiehandleidingen en garantievoorwaarden van Sessy en Marstek, de NEN 1010-norm, de adviezen van Brandweer Nederland en de polisvoorwaarden van grote Nederlandse verzekeraars. Want "buiten of binnen?" is niet alleen een ruimtekwestie — het gaat over veiligheid, prestaties en garantie.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Marstek en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

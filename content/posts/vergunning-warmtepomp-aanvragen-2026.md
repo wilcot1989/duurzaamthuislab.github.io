@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1581094271901-8022df4466f9&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Heb ik vergunning nodig voor een warmtepomp?'
   a: 'In de meeste gevallen niet, mits je voldoet aan de geluidsnorm van 40 dB(A) op de erfgrens. Bij overschrijding of plaatsing in beschermd stadsgezicht/monument: wel vergunning nodig.'
@@ -53,7 +53,7 @@ Een buurman van mij in Zwolle plaatste eind 2024 een warmtepomp zonder na te den
 
 Hieronder mijn complete gids voor vergunningen en geluidsregels rond warmtepompen in 2026. Wat is verplicht, wat is wijs, en hoe voorkom je problemen met buren of gemeente.
 
-*Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Heb ik vergunning nodig voor mijn warmtepomp? Geluidsnorm 40 dB op buurtgrens, vergunningvrij of WABO-procedure. Stappenplan en kosten voor 2026 in Nederland.

@@ -17,7 +17,7 @@ keywords:
 - beste hybride warmtepomp
 - warmtepomp vergelijking
 - hybride warmtepomp kosten
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
@@ -48,7 +48,7 @@ schema_type: Article
 ---
 Een hybride warmtepomp neemt volgens de installatievoorschriften bij een correct ingesteld bivalentpunt 55 tot 65 procent van de warmtevraag over. Bij een gasverbruik rond de 1.500 m³ per jaar betekent dat een besparing van honderden euro's per jaar, en met de ISDE-subsidie van circa €3.000 komt de terugverdientijd voor veel woningen onder de vijf jaar. Welk merk je moet kiezen, hangt af van je bestaande ketel en je aanvoertemperatuur. Wij hebben de vijf belangrijkste hybride warmtepompen van 2026 naast elkaar gezet.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 Bekijk ook onze gids over de [ISDE subsidie](/posts/isde-subsidie-warmtepompen-2026/) om te zien hoeveel subsidie je kunt krijgen.
 

@@ -19,7 +19,7 @@ keywords:
 - IR-paneel rendabel
 - elektrisch verwarmen 2026
 - warmtepomp of infrarood
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1558618666-fcd25c85cd64&w=1200&output=webp&q=70
@@ -44,7 +44,7 @@ schema_type: Article
 ---
 "Infrarood panelen zijn 50 procent goedkoper dan een warmtepomp" — die claim circuleert breed in Facebookgroepen en op verkooppagina's van IR-leveranciers. Vaak is de bron een partij die zelf IR-panelen verkoopt. Dit artikel zet de claim naast de fysica en de tarieven van 2026, met het voorbehoud dat infrarood in een paar specifieke situaties wél de betere keuze is.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
 

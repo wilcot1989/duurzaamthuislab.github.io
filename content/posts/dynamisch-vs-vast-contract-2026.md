@@ -18,7 +18,7 @@ keywords:
 - beste energiecontract 2026
 - dynamisch contract risico
 - vast contract zekerheid
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497435334941-8c899ee9e8e9&w=1200&output=webp&q=70
@@ -59,7 +59,7 @@ De keuze tussen vast en dynamisch gaat in de kern niet over welk contract goedko
 
 Dat betekent dat dynamisch gemiddeld voordeliger uitpakt — de risicopremie vervalt — maar met een spreiding die je zelf moet kunnen opvangen. Hieronder zetten wij de prijsopbouw van beide vormen uiteen, laten wij zien waar het bij dynamisch duurder uitvalt, en geven we per situatie aan welke vorm past.
 
-*Disclosure: DuurzaamThuisLab heeft een affiliate-samenwerking met Tibber, Frank Energie en ANWB Energie. Dat verandert onze beoordeling niet: wij werken met de publieke tariefbladen, de EPEX-marktdata en de voorwaarden van de aanbieders.*
+*Disclosure: DuurzaamThuisLab heeft geen affiliate- of commissierelatie met Tibber, Frank Energie of ANWB Energie (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Dat verandert onze beoordeling niet: wij werken met de publieke tariefbladen, de EPEX-marktdata en de voorwaarden van de aanbieders.*
 
 ---
 

@@ -17,7 +17,7 @@ keywords:
 - VvE besluit zonnepanelen 2026
 - zonnepanelen appartementencomplex
 - postcoderoos regeling
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -46,7 +46,7 @@ schema_type: Article
 ---
 Een VvE met een groot plat dak en 32 appartementen: op papier de ideale kandidaat voor zonnepanelen, in de praktijk een traject van anderhalf tot twee jaar. In dit artikel zetten wij stap voor stap uiteen wat je kunt verwachten, wat het kost en waar VvE-besturen op vastlopen. Want een VvE-besluit is nooit simpel.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via deze links een aanvraag doet, zonder extra kosten voor jou.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 ---
 

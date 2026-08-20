@@ -20,7 +20,7 @@ keywords:
 - beste omvormer zonnepanelen 2026
 - APsystems micro-omvormer
 - Huawei FusionSolar omvormer
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -54,7 +54,7 @@ Tegenwoordig zijn de keuzes nog complexer. Naast SolarEdge en Enphase zijn er nu
 
 In dit artikel zetten wij alle opties naast elkaar op basis van fabrieksspecificaties, garantievoorwaarden en publieke prijsdata, zodat jij de juiste keuze maakt voor jouw dak en situatie.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Huawei en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

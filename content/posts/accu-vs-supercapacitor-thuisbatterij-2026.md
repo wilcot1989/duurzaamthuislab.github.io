@@ -19,7 +19,7 @@ keywords:
 - solid state batterij woning
 - natriumion batterij nederland
 - nieuwe batterij technologie thuisopslag
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -51,7 +51,7 @@ Crowdfundingprojecten die een thuisbatterij op basis van supercapacitors beloven
 
 Het antwoord zit in de specificaties, en die vallen bij supercapacitors precies verkeerd uit voor thuisgebruik. Dit artikel legt uit waarom.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via deze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Marstek en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

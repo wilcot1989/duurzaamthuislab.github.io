@@ -6,7 +6,7 @@ description: "Sessy vs Marstek vergeleken op prijs, automation, software en teru
 categories: ["thuisbatterijen"]
 tags: ["Sessy", "Marstek", "thuisbatterij", "vergelijking", "versus", "dynamisch contract"]
 keywords: ["sessy vs marstek", "marstek vs sessy", "thuisbatterij vergelijking 2026", "beste thuisbatterij", "sessy of marstek"]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
@@ -43,7 +43,7 @@ products:
     url: "https://go.duurzaamthuislab.nl/tibber"
     price: "6"
 ---
-*Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvangen wij mogelijk een commissie zonder dat jij meer betaalt. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data, en benoemen ook de nadelen.*
+*Disclosure: de links naar Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data, en benoemen ook de nadelen.*
 
 "Ik wil een thuisbatterij: Sessy of Marstek?" Het is een van de meest gestelde vragen over thuisbatterijen, en het antwoord hangt minder af van de techniek dan van het type gebruiker. Neem een huishouden met 4.200 kWh verbruik, veertien zonnepanelen en geen enkele ervaring met Home Assistant: dan valt de keuze heel anders uit dan bij iemand die zijn eigen automations schrijft. Sessy en Marstek lossen hetzelfde probleem op, maar richten zich op totaal verschillende kopers.
 

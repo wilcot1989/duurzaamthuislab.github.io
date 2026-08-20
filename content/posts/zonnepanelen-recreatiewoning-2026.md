@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1487730116645-74489c95b41b&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Mag ik zonnepanelen op mijn recreatiewoning?'
   a: 'Op eigen grond met netaansluiting: meestal vergunningvrij. Op een park: vraag toestemming parkbeheer en check parkreglement. Soms apart vergunning­plichtig wegens beschermd landschap.'
@@ -55,7 +55,7 @@ We kozen voor een hybride aanpak: 6 panelen op het schuine dak (met park-akkoord
 
 Hieronder de gids voor zonnepanelen op recreatiewoningen, vakantiehuizen en chalets in 2026.
 
-*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Zonnepanelen op je vakantiewoning of recreatiewoning: on-grid of off-grid? Wij leggen de keuzes uit, met kosten en de speciale aandachtspunten voor parken in Nederland 2026.

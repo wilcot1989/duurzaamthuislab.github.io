@@ -19,7 +19,7 @@ keywords:
 - thuisbatterij vergelijken nederland
 - thuisbatterij 2026
 - thuisbatterij salderingsregeling
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -55,7 +55,7 @@ schema_type: Article
 ---
 Welk merk, welke capaciteit, en verdien je het überhaupt terug? Dat zijn de drie vragen waar elke thuisbatterij-aankoop op neerkomt, en het antwoord verandert nu de salderingsregeling vanaf 2027 wordt afgebouwd. In dit overzicht vergelijken we vijf thuisbatterijen die in Nederland breed worden geïnstalleerd op specificaties, garantie, compatibiliteit en prijs per kWh, met een doorgerekend rendementsmodel per systeem.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*

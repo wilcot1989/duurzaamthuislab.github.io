@@ -25,7 +25,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497436072909-60f360e1d4b1&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Welke provincies hebben subsidie voor zonnepanelen?'
   a: 'In 2026: Gelderland, Noord-Holland, Zuid-Holland, Limburg, Friesland en Overijssel hebben actieve fondsen. Bedragen variëren €250-€2.500 per huishouden afhankelijk van regeling en pand-type.'
@@ -54,7 +54,7 @@ Een buurman uit Apeldoorn vroeg mij vorig jaar of er buiten ISDE en BTW-teruggav
 
 Veel mensen weten niet wat hun provincie biedt. Hieronder een overzicht voor 2026, plus stappenplan om optimaal te benutten.
 
-*Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Provincie-subsidies voor zonnepanelen in 2026: overzicht per provincie. Welke fondsen zijn beschikbaar, hoe vraag je aan, en welke combineren met landelijke regelingen.

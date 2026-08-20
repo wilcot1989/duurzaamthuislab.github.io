@@ -6,7 +6,7 @@ description: "Tibber vs ANWB Energie dynamisch in 2026 vergeleken op prijs, app,
 categories: ["energiecontracten"]
 tags: ["Tibber", "ANWB Energie", "dynamisch contract", "vergelijking", "versus", "energie"]
 keywords: ["tibber vs anwb", "anwb energie vs tibber", "dynamisch contract vergelijking", "beste dynamisch contract 2026", "tibber of anwb"]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
@@ -40,7 +40,7 @@ products:
     url: "https://go.duurzaamthuislab.nl/frank-energie"
     price: "0"
 ---
-*Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvangen wij mogelijk een commissie zonder dat jij meer betaalt. Deze vergelijking is gebaseerd op de publieke tarieven en voorwaarden van beide leveranciers, hun app-documentatie en geverifieerde gebruikersreviews.*
+*Disclosure: de links naar ANWB Energie, Frank Energie en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Deze vergelijking is gebaseerd op de publieke tarieven en voorwaarden van beide leveranciers, hun app-documentatie en geverifieerde gebruikersreviews.*
 
 Tibber en ANWB Energie bieden hetzelfde product — stroom tegen het uurtarief van de beurs — maar met een wezenlijk verschil in prijsmodel: Tibber rekent een maandelijks abonnement voor zijn app en automatisering, ANWB niet. Wie daarvan het meeste profiteert, hangt bijna volledig af van één vraag: heb je flexibele verbruikers (EV, thuisbatterij, warmtepomp) die de automatisering kan aansturen?
 

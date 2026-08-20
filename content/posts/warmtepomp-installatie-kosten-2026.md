@@ -19,7 +19,7 @@ keywords:
 - wat kost een warmtepomp
 - warmtepomp montage prijs
 - warmtepomp inclusief installatie
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1517490232338-06b912a786b5&w=1200&output=webp&q=70
@@ -44,7 +44,7 @@ schema_type: Article
 ---
 Mijn buurman Henk kreeg in maart drie offertes voor een warmtepomp. De goedkoopste was 11.500 euro, de duurste 19.800 euro. Hetzelfde merk warmtepomp. "Hoe kan dat?" vroeg hij me. We zijn samen gaan rekenen, en het antwoord was simpel: de goedkope offerte sloot vier essentiele posten uit. Toen we die erbij optelden kwam ook die op 16.500 euro. Dit artikel is wat ik wou dat ik had gehad toen ik mijn eigen warmtepomp aanschafte.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
 

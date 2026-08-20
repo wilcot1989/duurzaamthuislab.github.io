@@ -16,7 +16,7 @@ keywords:
 - energierekening verlagen
 - energie besparen tips
 - goedkoper energie 2026
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -44,7 +44,7 @@ schema_type: Article
 ---
 Een energierekening van ruim €3.000 terugbrengen naar rond de €1.000 lukt zelden met één grote ingreep. Het is de stapeling van tientallen kleine en middelgrote maatregelen die het verschil maakt. In dit artikel staan 100 concrete tips, gesorteerd van gratis naar duurder. De genoemde besparingen zijn richtbedragen op basis van gemiddelde Nederlandse verbruikscijfers (Milieu Centraal, Nibud) en de energietarieven van 2026 — je eigen resultaat hangt af van woning, gezinssamenstelling en contract.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

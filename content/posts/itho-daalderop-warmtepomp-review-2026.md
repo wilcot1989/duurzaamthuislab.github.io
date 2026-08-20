@@ -21,7 +21,7 @@ keywords:
 - itho warmtepomp prijs
 - itho vs vaillant
 - nederlandse warmtepomp itho
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1600585154340-be6161a56a0c&w=1200&output=webp&q=70

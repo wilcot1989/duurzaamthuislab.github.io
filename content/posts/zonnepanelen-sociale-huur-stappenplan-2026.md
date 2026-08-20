@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1542621334-a254cf47733d&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Mag mijn corporatie zonnepanelen weigeren?'
   a: 'Sinds 1 januari 2024 mag een corporatie zonnepanelen niet meer weigeren bij gezamenlijk eigen-financiering of bij investeringsverzoek van huurders, mits het pand technisch geschikt is. Wel kan procedure 6-12 maanden duren.'
@@ -55,7 +55,7 @@ De rekensom is voor huurders vaak gunstig: bij een corporatie-installatie van 8 
 
 Hieronder het complete stappenplan voor huurders in sociale huur die zonnepanelen willen: je rechten, de vier routes, de aanvraagprocedure en de valkuilen.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Zonnepanelen op je sociale huurwoning: wat zijn je rechten, hoe vraag je het aan, en wat zijn alternatieven? Stappenplan voor huurders bij woningcorporaties in 2026.

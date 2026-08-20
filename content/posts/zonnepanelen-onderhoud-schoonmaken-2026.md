@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Hoe vaak moet ik mijn zonnepanelen schoonmaken?'
   a: In Nederland is regen meestal voldoende om panelen schoon te houden. Eens per 2-3 jaar grondig schoonmaken is voldoende voor schuine daken. Op platte daken (mindere zelfreiniging) eens per jaar.
@@ -53,7 +53,7 @@ products:
 
 Conclusie: zonnepanelen zijn niet onderhoudsvrij. Wel onderhoudsarm, maar enige aandacht is nodig. Hieronder de complete gids, op basis van fabrikantenrichtlijnen, prijzen van reinigingsbedrijven en publieke opbrengstdata.
 
-*Dit artikel bevat affiliate links. Bij aankoop via deze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Zonnepanelen onderhoud: hoe vaak schoonmaken, wat kost het, en doe je het zelf? Schoonmaakroutines, inspectie en kosten in Nederland op een rij.

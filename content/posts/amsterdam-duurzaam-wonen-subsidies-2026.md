@@ -25,7 +25,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1534351590666-13e3e96c5017&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Welke subsidies geeft gemeente Amsterdam in 2026?'
   a: 'Subsidie Verduurzaming Woning (€500-€2.500), Energiebox voor lage inkomens (€500), Amsterdam Energieleningen (renteloos tot €15.000), monument-verduurzamingsfonds (extra €1.500), VVE-aanjaagregeling (tot €25.000 per VVE).'
@@ -54,7 +54,7 @@ products:
 
 Hieronder een volledig overzicht van de Amsterdam-subsidies voor verduurzaming in 2026: welke regelingen er zijn, hoe je ze combineert en hoe je aanvraagt.
 
-*Dit artikel bevat affiliate links. Bij aankoop via deze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Amsterdam subsidies voor zonnepanelen, warmtepomp en isolatie in 2026. Wat zijn de regelingen, hoe vraag je aan, en welke bedragen zijn beschikbaar voor Amsterdammers.

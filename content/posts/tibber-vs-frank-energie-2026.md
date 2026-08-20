@@ -19,7 +19,7 @@ keywords:
   - tibber review
   - dynamisch contract vergelijken
   - beste dynamisch contract
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1473341304170-971dccb5ac1e&w=1200&output=webp&q=70
@@ -62,7 +62,7 @@ Er is wel verschil. Meerdere zelfs. En dat verschil hangt af van wat jij thuis h
 
 ---
 
-*Disclosure: dit artikel bevat affiliate-links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder meerkosten voor jou. Onze beoordeling is gebaseerd op de gepubliceerde tarieven en voorwaarden van beide leveranciers, de app-functionaliteit en geverifieerde gebruikersreviews.*
+*Disclosure: de links naar ANWB Energie, Frank Energie, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Onze beoordeling is gebaseerd op de gepubliceerde tarieven en voorwaarden van beide leveranciers, de app-functionaliteit en geverifieerde gebruikersreviews.*
 
 ---
 

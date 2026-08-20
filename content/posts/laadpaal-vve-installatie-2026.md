@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1593941707882-a5bba14938c7&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Heb ik recht op een laadpaal in mijn VVE?'
   a: 'Sinds april 2024: ja, mits je een eigen parkeerplaats hebt en de installatie technisch mogelijk is. VVE mag niet onredelijk weigeren. Procedure via VVE-vergadering met agendapunt indienen.'
@@ -53,7 +53,7 @@ Een VVE die een laadpaal weigert "omdat het het zicht verstoort" staat juridisch
 
 Hieronder het complete stappenplan voor wie een laadpaal wil in een appartementencomplex of woon-werkgebouw met gemeenschappelijke parkeerinfrastructuur.
 
-*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Laadpaal in een VVE: hoe regel je dat? Wettelijk recht, kosten, technische opties en stappenplan voor laadpalen op gemeenschappelijke parkeerplekken in 2026.

@@ -18,7 +18,7 @@ keywords:
 - zelfvoorzienend wonen met tesla powerwall
 - energie autarkie nederland
 - 100 procent zelfvoorzienend
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -58,7 +58,7 @@ category: thuisbatterijen
 
 Op een zonnige zaterdag in juli kan een goed afgestemd huis uren op nul staan: geen import, geen export, alles wat de panelen opwekken gaat naar het huis, de auto en de batterij. Dat is het moment waarop zelfvoorzienend wonen tastbaar wordt. Zes maanden later, in januari, koopt datzelfde huis in één week ruim honderd kWh van het net in. Dat is de kern van autarkie in Nederland: het is geen toestand, het is een jaargemiddelde.
 
-*Disclosure: wij hebben affiliate-partnerships met Sessy, Marstek, Tesla, Zonneplan en Tibber. Als je via deze links koopt, krijgen wij een commissie zonder dat jij meer betaalt. Onze adviezen zijn gebaseerd op specificaties, kosten en gebruikersreviews — niet op marges.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Sessy, Marstek, Tesla, Zonneplan of Tibber (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Onze adviezen zijn gebaseerd op specificaties, kosten en gebruikersreviews — niet op marges.*
 
 ---
 

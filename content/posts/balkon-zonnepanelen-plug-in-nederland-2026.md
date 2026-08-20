@@ -25,7 +25,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Mag ik plug-in zonnepanelen in Nederland gebruiken?'
   a: 'Sinds 2024 toegestaan, mits totaal vermogen onder 800W (1-fase) en aangesloten op een gewone Schuko via gecertificeerde stekkerset met automatische uitschakeling. Boven 800W: gecertificeerde installatie verplicht.'
@@ -60,7 +60,7 @@ Het korte antwoord: ja, sinds eind 2024 expliciet toegestaan tot 800W. Een compl
 
 Hieronder de complete gids voor plug-in balkon zonnepanelen in Nederland in 2026. Wat mag wel, wat mag niet, en hoe pak je het zelf aan.
 
-*Dit artikel bevat affiliate links. Bij aankoop via deze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Plug-in balkon zonnepanelen in Nederland 2026: wat mag wel en niet, kosten, opbrengst, juridische status. Inclusief vergelijking met de Duitse "Balkonkraftwerk"-markt.

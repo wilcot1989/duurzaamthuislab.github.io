@@ -17,7 +17,7 @@ keywords:
 - warmtepomp filter reinigen
 - warmtepomp servicebeurt
 - warmtepomp checklist
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -42,7 +42,7 @@ products:
 schema_type: Article
 last_updated: '2026-08-20'
 ---
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar ATAG en Quatt in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 Een vraag die vaak terugkomt: "Warmtepomp jaaronderhoud? werkt dat in de praktijk?" Dit artikel geeft het antwoord op basis van fabrieksspecificaties, handleidingen, geverifieerde gebruikersreviews en publieke marktdata — geen marketingverhaal, maar wat de bronnen laten zien.
 

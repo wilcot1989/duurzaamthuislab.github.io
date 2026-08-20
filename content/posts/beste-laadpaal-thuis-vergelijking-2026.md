@@ -20,7 +20,7 @@ keywords:
 - Wallbox Pulsar
 - Alfen Eve
 - slim laden EV
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1593941707882-a5bba14938c7&w=1200&output=webp&q=70
@@ -58,7 +58,7 @@ category: elektrisch rijden
 
 Typische offertes voor een thuislaadpaal inclusief montage liggen tussen de €1.050 en €1.850, en dat verschil is grotendeels merk- en kanaalgebonden — niet technisch. Hieronder vergelijken wij de drie palen die in Nederland het meest geplaatst worden, laten wij zien waar het prijsverschil in zit, en welke afweging bij welk profiel past.
 
-*Disclosure: dit artikel bevat affiliate-links. Onze beoordeling is gebaseerd op de fabrieksspecificaties, de handleidingen, de garantievoorwaarden en geverifieerde gebruikersreviews — niet op de affiliate-vergoeding.*
+*Disclosure: de links naar Easee en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 > **Kort antwoord:** voor de meeste Nederlanders met zonnepanelen en een dynamisch contract is **Easee Home** in 2026 de beste laadpaal: €699 hardware, native OCPP 1.6, soepele Tibber-integratie en solar-only laden zonder extra module. **Wallbox Pulsar Max** is een nette tweede keus voor wie design en bouwkwaliteit belangrijk vindt. **Alfen Eve Single S-line** is de keuze voor lease-rijders en zakelijke gebruikers met MID-meterplicht.
 

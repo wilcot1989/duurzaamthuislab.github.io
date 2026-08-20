@@ -17,7 +17,7 @@ keywords:
 - zonnepanelen oriëntatie
 - zuidsysteem vs oost-west
 - zonnepanelen opbrengst oriëntatie
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -44,7 +44,7 @@ schema_type: Article
 
 In dit artikel leggen wij uit waarom de traditionele voorkeur voor zuidsystemen achterhaald raakt, en wanneer oost-west de slimmere keuze is.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

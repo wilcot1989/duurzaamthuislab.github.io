@@ -17,7 +17,7 @@ keywords:
 - ANWB Energie
 - Frank Energie
 - dynamische stroom
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -51,7 +51,7 @@ schema_type: Article
 ---
 Dynamische contracten liggen inmiddels dicht bij elkaar op prijs, maar niet op functionaliteit. Is Tibber de beste keuze, of ben je goedkoper uit bij Frank Energie, ANWB Energie of EasyEnergy? Wij vergelijken de tarieven, apps en functies van de belangrijkste dynamische leveranciers op basis van hun publieke tarievenpagina's, handleidingen, geverifieerde gebruikersreviews en publieke EPEX-data.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 Heb je een thuisbatterij? Lees dan ook ons artikel over [dynamische energiecontracten in combinatie met een thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 

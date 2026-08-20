@@ -48,7 +48,7 @@ faq:
     answer: "Ja, en dat is zelfs een goed moment. Verhuizing geldt als nieuw contract — geen opzegboete van een oud vast contract. Je kunt direct bij Tibber of Frank Energie een dynamisch contract afsluiten voor het nieuwe adres."
 ---
 
-Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.
+*Disclosure: de links naar Frank Energie, Sessy, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 Het energiecontract overzetten bij een verhuizing is op zichzelf een klus van een uur. Het gaat vooral mis wanneer het te laat wordt gemeld: dan valt de nieuwe woning terug op het standaardtarief, of blijkt de slimme meter nog niet geschikt te zijn voor uurafrekening bij een dynamisch contract. Dat zijn de twee klachten die het vaakst terugkomen in gebruikersforums en in de informatie van de netbeheerders.
 

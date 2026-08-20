@@ -18,7 +18,7 @@ keywords:
 - warmtepomp erfgrens afstand
 - geluidsoverlast warmtepomp juridisch
 - stille warmtepomp buiten unit
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
@@ -50,7 +50,7 @@ schema_type: Article
 
 Dat is grotendeels te voorkomen, mits je vóór de installatie weet hoe de geluidsnorm werkt, wat er op de erfgrens gemeten wordt en hoe het geluid van een buitenunit zich over afstand gedraagt. Dit artikel zet dat op een rij: de wettelijke norm uit het Bbl, de rekenregels en de maatregelen die daadwerkelijk effect hebben.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 ---
 

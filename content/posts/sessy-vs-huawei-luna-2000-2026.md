@@ -7,7 +7,7 @@ description: 'Sessy of Huawei Luna 2000? Eerlijke vergelijking op prijs, app, om
 categories: [thuisbatterijen]
 tags: [Sessy, Huawei Luna 2000, thuisbatterij, vergelijking, premium, omvormer]
 keywords: [sessy vs huawei, huawei luna 2000 review, sessy review, thuisbatterij vergelijking, premium thuisbatterij]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -51,7 +51,7 @@ Het antwoord is langer dan de prijskaartjes suggereren. Het verschil tussen Sess
 
 Dit artikel zet die afweging op papier.
 
-*Disclosure: dit artikel bevat affiliate-links. Als je via een van deze links iets koopt, ontvangen wij een kleine commissie zonder meerkosten voor jou. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 

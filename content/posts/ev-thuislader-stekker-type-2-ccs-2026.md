@@ -25,7 +25,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1593941707882-a5bba14938c7&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Wat is het verschil tussen Type 2 en CCS?'
   a: 'Type 2 (Mennekes) is voor wisselstroom (AC) tot 22 kW: thuisladen en publiek AC. CCS (Combined Charging System) heeft Type 2 + 2 grote DC-pinnen voor snelladen tot 350 kW. Voor thuis: Type 2 is voldoende; CCS-snelladen vergt enorme stroom.'
@@ -60,7 +60,7 @@ products:
 
 Hieronder de volledige uitleg: wat het verschil is, wat je werkelijk nodig hebt, en waarom praktisch elke Nederlandse EV-eigenaar met Type 2 prima uit is.
 
-*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** thuis laad je met Type 2. CCS is een gelijkstroom-aansluiting voor snelladers onderweg; thuis is dat technisch overbodig en financieel onverantwoord. Kies 11 kW als je 3-fase hebt en 7,4 kW bij 1-fase.

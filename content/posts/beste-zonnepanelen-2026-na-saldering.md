@@ -20,7 +20,7 @@ keywords:
 - zonnepanelen saldering stopt
 - Zonneplan review
 - Sessy zonnepanelen combinatie
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -54,7 +54,7 @@ Die rekensom klopt nog steeds, maar hij vertelt niet het hele verhaal. Want na 2
 
 Wie in 2026 zonnepanelen overweegt, of wie er al heeft en nu een batterij overweegt, moet begrijpen wat er post-2027 anders is. Wij zetten het hieronder zo helder mogelijk op een rij.
 
-*Disclosure: wij hebben affiliaterelaties met Zonneplan en Sessy.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Zonneplan, Sessy of Tibber (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen.*
 
 ---
 

@@ -18,7 +18,7 @@ keywords:
 - betrouwbare zonnepanelen installateur
 - zonnepanelen aanbieder kiezen
 - zonnepanelen installatie checklist
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -54,7 +54,7 @@ schema_type: Article
 ---
 Tekenen bij de eerste installateur die belt is nog steeds de meest gemaakte fout. Een veelvoorkomend patroon: veertien panelen en een omvormer voor rond de €9.500, waarbij bij nader inzien een 1-fase omvormer op een 3-fasen meterkast staat gepland, de panelen B-grade zijn en het bedrijf pas een paar maanden bestaat. Wie in zo'n situatie vijf nieuwe offertes ophaalt, komt vaak duizenden euro's lager uit met betere componenten. **Het verschil zit niet in geluk, maar in vergelijken.**
 
-*Affiliate-disclosure: wij werken samen met Zonneplan. Vraag je via onze link een dakcheck aan, dan ontvangen wij commissie, maar je betaalt geen cent meer. De 11 checks hieronder staan daar los van en gelden ook voor installateurs waarmee wij geen samenwerking hebben.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 ---
 

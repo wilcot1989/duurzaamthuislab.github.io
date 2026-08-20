@@ -20,7 +20,7 @@ keywords:
 - Greenchoice review
 - echte groene stroom
 - duurzaamste energieleverancier
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -45,7 +45,7 @@ schema_type: Article
 ---
 Greenchoice of Pure Energie: het is een van de meest gestelde keuzevragen onder huishoudens die echt groene stroom willen. Het prijsverschil is klein, het verschil in herkomst van de stroom juist groot. In dit artikel zetten we beide leveranciers naast elkaar op tarieven, stroomherkomst, klantenservice en de voorwaarden voor zonnepanelen, zodat je in 2026 een onderbouwde keuze maakt.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Greenchoice in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
 

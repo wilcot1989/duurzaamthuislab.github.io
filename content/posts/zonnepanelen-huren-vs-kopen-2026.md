@@ -16,7 +16,7 @@ keywords:
 - zonnepanelen lease
 - zonnepanelen huren kosten
 - zonnepanelen kopen rendement
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -44,7 +44,7 @@ schema_type: Article
 ---
 Zonnepanelen kopen levert over de volle levensduur vrijwel altijd meer op dan huren — bij een systeem van rond de €4.500 loopt het verschil over 25 jaar in de duizenden euro's. Toch kan huren in specifieke situaties de betere keuze zijn: als je binnen vijf jaar wilt verhuizen, geen spaargeld hebt of bewust geen onderhoudsrisico wilt dragen. In dit artikel rekenen we beide opties door, met modelberekeningen waarvan de aannames expliciet vermeld staan.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 Wil je kopen? Bekijk onze [beste zonnepanelen vergelijking](/posts/beste-zonnepanelen-2026/) en [omvormer gids](/posts/solaredge-vs-enphase-2026/).
 

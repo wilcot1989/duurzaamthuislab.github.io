@@ -18,7 +18,7 @@ keywords:
 - thuisaccu vergelijken
 - powerstation vs thuisbatterij
 - energieopslag thuis
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
@@ -51,7 +51,7 @@ schema_type: Article
 ---
 Een thuisbatterij en een powerstation worden vaak in één adem genoemd, maar het zijn twee totaal verschillende producten: het ene is vast geïnstalleerde opslag achter je omvormer, het andere een draagbaar apparaat met eigen stopcontacten. Toch is "welke van de twee moet ik hebben?" een van de meestgestelde vragen. Hieronder het verschil op basis van specificaties, installatievoorwaarden en publieke marktprijzen.
 
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 

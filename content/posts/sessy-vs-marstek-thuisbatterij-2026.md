@@ -7,7 +7,7 @@ description: 'Sessy €5995 vs Marstek €2500 head-to-head: prijs, app, garanti
 categories: [thuisbatterijen]
 tags: [Sessy, Marstek, thuisbatterij, vergelijking, review, 2026]
 keywords: [sessy vs marstek, marstek vs sessy, thuisbatterij vergelijking, sessy prijs, marstek venus prijs, beste thuisbatterij 2026]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -41,7 +41,7 @@ category: thuisbatterijen
 
 Twee offertes naast elkaar: een Sessy voor €5995 inclusief installatie, en een Marstek Venus voor €2500 die je zelf ophangt. Dat prijsverschil van ruim €3000 maakt dit de meestgestelde keuzevraag in de Nederlandse thuisbatterijmarkt — en het antwoord is minder eenduidig dan de aanhangers van beide kampen doen voorkomen.
 
-*Disclosure: dit artikel bevat affiliate links naar Sessy, Marstek en Tibber. Als je via zo'n link koopt ontvangen wij commissie zonder dat het jou iets extra kost. Wij vergelijken op basis van specificaties, garantievoorwaarden, handleidingen, geverifieerde gebruikersreviews en publieke data — ook waar dat één van de twee niet uitkomt.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Sessy, Marstek of Tibber (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Wij vergelijken op basis van specificaties, garantievoorwaarden, handleidingen, geverifieerde gebruikersreviews en publieke data — ook waar dat één van de twee niet uitkomt.*
 
 > **Kort antwoord:** Sessy (€5995) is de premium NL-keuze met de meest afgewerkte app, 10 jaar garantie en kant-en-klare dynamische sturing. Marstek Venus (€2500) is op papier een prima batterij voor minder dan de helft van de prijs, maar je betaalt in tijd: internationale support, een minder afgewerkte app en zelf-installatie. Wil je gemak: Sessy. Wil je rendement per euro: Marstek.
 

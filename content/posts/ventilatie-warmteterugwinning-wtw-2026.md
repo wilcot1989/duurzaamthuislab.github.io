@@ -16,7 +16,7 @@ keywords:
 - WTW unit kosten
 - balansventilatie
 - mechanische ventilatie
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
@@ -44,7 +44,7 @@ schema_type: Article
 ---
 Wie de vloer isoleert en een warmtepomp plaatst, loopt tegen hetzelfde restprobleem aan: via de ventilatieroosters verdwijnt nog steeds warmte naar buiten. Een WTW-systeem haalt volgens de fabrieksspecificaties 80 tot 95% van die warmte terug uit de afgevoerde lucht. In de rekenvoorbeelden verder in dit artikel komt dat voor een tussenwoning neer op enkele honderden euro's per jaar, plus een merkbaar betere luchtkwaliteit. Hieronder alles wat je moet weten.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Vaillant in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 Overweeg je je woning volledig te verduurzamen? Lees ons [stappenplan energielabel verbeteren](/posts/energielabel-verbeteren-stappenplan-2026/).
 

@@ -16,7 +16,7 @@ keywords:
 - zonnepanelen vergelijking
 - zonnepanelen rendement
 - zonnepanelen prijs
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -47,7 +47,7 @@ schema_type: Article
 ---
 Het verschil tussen panelen van €0,80/Wp en €1,40/Wp lijkt klein, maar over een levensduur van 25 jaar gaat het om duizenden euro's meer of minder opbrengst — en dat verschil zit niet alleen in de prijs, maar ook in rendement per m², temperatuurcoëfficiënt en degradatiegarantie. Wij hebben de vijf belangrijkste merken op de Nederlandse markt naast elkaar gelegd op basis van hun datasheets en garantievoorwaarden.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 Kies je omvormer zorgvuldig — lees onze [SolarEdge vs Enphase vergelijking](/posts/solaredge-vs-enphase-2026/) en ons overzicht van de [beste omvormers](/posts/beste-omvormer-zonnepanelen-2026/).
 

@@ -20,7 +20,7 @@ keywords:
 - Marstek prijs
 - Tesla Powerwall prijs
 - Zonneplan prijs
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -62,7 +62,7 @@ Dat verschil is grotendeels te verklaren: de goedkoopste offertes bevatten geen 
 
 Dit artikel is de complete prijsvergelijking voor 2026: wat thuisbatterijen écht kosten, wat er wel en niet bij zit, en welke de goedkoopste is per kilowattuur opgeslagen capaciteit.
 
-*Disclosure: wij hebben affiliate-partnerships met Sessy, Marstek en Zonneplan. Deze prijsanalyse is gebaseerd op de publieke prijslijsten van de leveranciers en op offertebedragen die installateurs in 2026 publiek noemen.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Sessy, Marstek of Zonneplan (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Deze prijsanalyse is gebaseerd op de publieke prijslijsten van de leveranciers en op offertebedragen die installateurs in 2026 publiek noemen.*
 
 ---
 

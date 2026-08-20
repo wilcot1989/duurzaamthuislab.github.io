@@ -21,7 +21,7 @@ keywords:
 - beste omvormer 2026
 - micro-omvormer vs string-omvormer
 - zonnepanelen omvormer kiezen
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -56,7 +56,7 @@ De omvormer is het onderdeel van een zonnepanelensysteem waar de meeste mensen h
 
 In dit overzicht vergelijken wij de vijf omvormers die in 2026 het meest worden geïnstalleerd in Nederland, op rendement, garantie, batterijcompatibiliteit, monitoring en prijs. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Huawei in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*

@@ -16,7 +16,7 @@ keywords:
 - laadpaal subsidie 2026
 - beste laadpaal thuis
 - thuisladen elektrische auto
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -47,7 +47,7 @@ schema_type: Article
 ---
 Het verschil tussen laden op je eigen zonneoverschot en laden bij een snellader is een factor tien of meer per kWh. Dat maakt een thuislaadpaal voor wie dagelijks rijdt vrijwel altijd de snelst rendabele verduurzamingsinvestering die je kunt doen. In dit artikel staat alles op een rij: kosten, subsidie, de beste merken en hoe je slim laadt op dynamische tarieven.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 Heb je een dynamisch energiecontract? Slim laden bespaart extra. Lees onze [vergelijking dynamische energiecontracten](/posts/dynamische-energiecontracten-vergelijking-2026/).
 

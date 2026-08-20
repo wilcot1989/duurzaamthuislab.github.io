@@ -19,7 +19,7 @@ keywords:
 - electrolyzer thuis kopen
 - waterstof vs thuisbatterij
 - groene waterstof woning
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -51,7 +51,7 @@ schema_type: Article
 
 Dit artikel is een eerlijke hype-check. Geen verkoopverhalen, geen pessimisme — gewoon wat de stand van zaken is, wat er concreet beschikbaar is, en wanneer je waterstof thuis serieus kunt overwegen.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar ANWB Energie, Marstek en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

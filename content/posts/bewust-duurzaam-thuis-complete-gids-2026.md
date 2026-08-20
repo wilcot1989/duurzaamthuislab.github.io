@@ -18,7 +18,7 @@ keywords:
 - duurzaam wonen 2026
 - huis verduurzamen stappenplan
 - duurzaam thuis nederland
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1518780664697-55e3ad937233&w=1200&output=webp&q=70
@@ -58,7 +58,7 @@ category: verduurzamen
 
 Een rijtjeshuis uit de jaren tachtig met energielabel F en een winterse gasrekening van honderden euro's per maand is in drie jaar volledig van het gas af te halen, zonder dat je in één keer een verbouwing van vijftig mille aangaat. Er zit geen truc achter: het gaat om de juiste volgorde van maatregelen, een paar goed onderbouwde keuzes en het geduld om niet alles tegelijk te willen. Deze gids zet die volgorde op een rij, met de rekenregels waarmee je elke stap voor je eigen woning kunt doorrekenen.
 
-*Disclosure: DuurzaamThuisLab heeft affiliate-partnerships met Sessy, Marstek, Tibber, Frank Energie en Zonneplan. Wij ontvangen een kleine vergoeding als je via onze links iets koopt — zonder extra kosten voor jou. Onze aanbevelingen blijven onafhankelijk: wij beoordelen op specificaties, subsidievoorwaarden, publieke marktdata en geverifieerde gebruikersreviews, en benoemen nadelen expliciet.*
+*Disclosure: DuurzaamThuisLab heeft geen affiliate- of commissierelatie met Sessy, Marstek, Tibber, Frank Energie of Zonneplan (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Onze aanbevelingen blijven onafhankelijk: wij beoordelen op specificaties, subsidievoorwaarden, publieke marktdata en geverifieerde gebruikersreviews, en benoemen nadelen expliciet.*
 
 ---
 

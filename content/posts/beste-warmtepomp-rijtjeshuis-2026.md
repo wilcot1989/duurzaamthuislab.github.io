@@ -20,7 +20,7 @@ keywords:
 - Atag warmtepomp
 - Daikin warmtepomp
 - ISDE subsidie 2026
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1558618666-fcd25c85cd64&w=1200&output=webp&q=70
@@ -58,7 +58,7 @@ Het tweede punt dat de keuze bepaalt: bij een label C-woning met bestaande radia
 
 We zijn die week samen het hele rijtje langs gegaan. Buitenunit-plek opgemeten (3,80 meter beschikbaar), tuin geïnspecteerd, isolatielabel doorgerekend, en uiteindelijk de geluidsfiches van vijf merken naast elkaar gelegd. Het werd geen Daikin. Wat het wel werd, en waarom, staat hieronder — net als de bredere les voor iedereen die in een rijtjeshuis een warmtepomp overweegt.
 
-*Disclosure: dit artikel bevat affiliate-links naar Quatt, ANWB Energie en Tibber. Wij ontvangen een vergoeding als je via deze links koopt of een contract afsluit. Onze beoordeling is gebaseerd op fabrieksspecificaties, de ISDE-apparatenlijst van RVO, het Bouwbesluit en geverifieerde gebruikersreviews — niet op de affiliate-partners.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Quatt, ANWB Energie of Tibber (stand augustus 2026); de links naar deze aanbieders zijn gewone verwijzingen. Onze beoordeling is gebaseerd op fabrieksspecificaties, de ISDE-apparatenlijst van RVO, het Bouwbesluit en geverifieerde gebruikersreviews.*
 
 ---
 

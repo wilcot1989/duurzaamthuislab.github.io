@@ -19,7 +19,7 @@ keywords:
 - sessy pro ervaringen
 - sessy pro vs sessy
 - grote thuisbatterij review
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509395176047-4a66953fd231&w=1200&output=webp&q=70
@@ -53,7 +53,7 @@ products:
 schema_type: Review
 ---
 
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 De Sessy Pro 15 kWh is niet bedoeld voor het gemiddelde rijtjeshuis, en juist daar gaat de vergelijking met de gewone Sessy vaak mis. De vraag die telt is of het grotere vermogen en de grotere capaciteit zichzelf terugverdienen bij jouw verbruikspatroon.
 

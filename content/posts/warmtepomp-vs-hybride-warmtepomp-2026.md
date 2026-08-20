@@ -17,7 +17,7 @@ keywords:
 - full electric warmtepomp vs hybride
 - warmtepomp vergelijken 2026
 - hybride warmtepomp rendement
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
@@ -47,7 +47,7 @@ Full-electric of hybride: het is de kernvraag voor iedere huiseigenaar die van d
 
 Hieronder vergelijken wij beide systemen op COP, kosten, ISDE-subsidie en terugverdientijd, met doorgerekende scenario's per woningtype. Wij baseren ons op fabrieksspecificaties, de ISDE-voorwaarden van RVO en publieke prijs- en tariefgegevens.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar ATAG en Quatt in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

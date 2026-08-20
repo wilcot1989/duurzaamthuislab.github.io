@@ -20,7 +20,7 @@ keywords:
 - intergas warmtepomp ervaringen
 - intergas vs atag
 - nederlandse warmtepomp
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1631545806609-ee85b1b1e5cf&w=1200&output=webp&q=70

@@ -20,7 +20,7 @@ keywords:
 - energie arbitrage
 - slim laden thuisbatterij
 - dynamisch tarief batterij
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -53,7 +53,7 @@ schema_type: Article
 ---
 Een thuisbatterij gekoppeld aan een dynamisch energiecontract kan twee keer geld opleveren: door zonnestroom op te slaan én door energie-arbitrage — laden als de uurprijs laag is, ontladen als hij hoog is. Een goed geconfigureerd systeem laadt automatisch bij een lage EPEX-prijs (vaak 's nachts) en ontlaadt tijdens de avondpiek. In dit artikel leggen we uit hoe dat mechanisme werkt, welke batterijen en leveranciers erop aansluiten en wat het volgens modelberekeningen oplevert. De cijfers komen uit publieke bronnen (EPEX-tarieven, RVO/ISDE, leveranciersvoorwaarden) en uit rekenvoorbeelden met vermelde aannames.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*

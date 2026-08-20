@@ -45,7 +45,7 @@ faq:
 - q: 'Wat zijn de drie meest voorkomende installateur-trucs?'
   a: 'Een: een te kleine warmtepomp aanbieden om de offerte goedkoper te laten lijken — werkt niet bij koudere dagen. Twee: isolatie-eisen uit het zicht houden — slechte SCOP daardoor. Drie: subsidie-aanvraag bij jou neerleggen onder voorwendsel dat ze het niet kunnen — vaak omdat hun werk niet voldoet aan eisen.'
 ---
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten en diensten die wij grondig hebben onderzocht.*
+*Disclosure: de links naar ATAG, Frank Energie en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij schrijven alleen over producten en diensten die wij grondig hebben onderzocht.*
 
 Een veelvoorkomend scenario: drie offertes voor dezelfde warmtepomp, van 11.400 tot 18.800 euro. De laagste lijkt de logische keuze, tot blijkt dat de pomp onderdimensioneerd is, constant op vol vermogen draait en de cv-ketel permanent moet bijspringen. Herstel kost dan duizenden euro's, en een schadeclaim strandt meestal op de vraag wie welke berekening had moeten maken. Het verschil tussen een goede en een slechte installateur is daarmee groter dan het verschil tussen merken warmtepomp.
 

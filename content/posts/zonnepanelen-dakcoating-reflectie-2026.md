@@ -19,7 +19,7 @@ keywords:
 - zwart dak vs wit dak zonnepanelen
 - zonnepanelen temperatuur opbrengst
 - bifaciale zonnepanelen dakcoating
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -51,7 +51,7 @@ Ik stond vorig jaar op het dak van een bedrijfspand in Rotterdam — een plat bi
 
 Dit artikel is het resultaat van maanden lezen, vragen stellen aan PV-onderzoekers en meetdata bekijken. Want er is meer aan dit verhaal dan de marketing van dakcoatingfabrikanten wil laten geloven.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Sessy en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

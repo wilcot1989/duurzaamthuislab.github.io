@@ -19,7 +19,7 @@ keywords:
 - dakkapel U-waarde
 - isolatie dakoverstekken
 - energielabel dak verbeteren
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
@@ -48,7 +48,7 @@ Een zolderkamer die in januari niet warm te krijgen is: vaak zitten de oorzaken 
 
 De vraag is telkens dezelfde: is de ingreep de investering waard? In dit artikel zetten wij de berekeningen en het afwegingskader op een rij, op basis van U-waarden uit productdocumentatie en gangbare aannemersprijzen.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via deze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 ---
 

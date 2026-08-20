@@ -17,7 +17,7 @@ keywords:
 - warmtepomp service kosten
 - warmtepomp storing
 - warmtepomp 5 jaarlijks
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
@@ -48,7 +48,7 @@ Een warmtepomp vraagt in de eerste jaren vrijwel geen aandacht — en juist daar
 
 Onderhoud van een warmtepomp is niet ingewikkeld, maar je moet weten wat je wanneer moet doen — en wat het kost. Dit artikel zet dat op een rij, op basis van de onderhoudsvoorschriften van de fabrikanten en de tarieven die installateurs en fabrikanten voor 2026 publiceren.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 ---
 

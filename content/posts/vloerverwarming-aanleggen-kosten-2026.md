@@ -24,7 +24,7 @@ keywords:
 - natsysteem vloerverwarming
 - vloerverwarming warmtepomp combinatie
 - vloerverwarming prijs per m2
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
@@ -438,7 +438,7 @@ Vloerverwarming in een bestaande woning is geen sciencefiction meer. De dry-syst
 
 ---
 
-*Disclosure: deze pagina bevat een affiliate-link naar ATAG. Prijzen zijn indicatief en gebaseerd op publieke marktinformatie van begin 2026.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met ATAG (stand augustus 2026); de links naar ATAG zijn gewone verwijzingen. Prijzen zijn indicatief en gebaseerd op publieke marktinformatie van begin 2026.*
 
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>

@@ -16,7 +16,7 @@ keywords:
 - ISDE subsidie isolatie
 - subsidie spouwmuurisolatie
 - isolatie subsidie aanvragen
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
@@ -41,7 +41,7 @@ schema_type: Article
 ---
 Vloerisolatie voor een gemiddelde tussenwoning kost rond de €2.800. Blijft er na een ISDE-subsidie van €1.200 en een gemeentelijke bijdrage van €500 nog €1.100 over, dan is de terugverdientijd bij een gasverbruik van 1.800 m³ ongeveer tweeënhalf jaar. Daarmee is isolatie de snelst rendabele verduurzamingsmaatregel die er is — en de reden dat wij aanraden eerst te isoleren en pas daarna een warmtepomp te overwegen. Hier vind je alle subsidies van 2026 op een rij.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 Wil je weten welke isolatiemaatregelen het meest opleveren voor jouw woning? Lees onze [stap-voor-stap gids energielabel verbeteren](/posts/energielabel-verbeteren-stappenplan-2026/).
 

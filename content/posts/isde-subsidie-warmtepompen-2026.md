@@ -16,7 +16,7 @@ keywords:
 - subsidie warmtepomp 2026
 - ISDE aanvragen
 - warmtepomp subsidie Nederland
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
@@ -44,7 +44,7 @@ schema_type: Article
 ---
 Voor een hybride warmtepomp bedraagt de ISDE-subsidie in 2026 doorgaans tussen de €2.500 en €3.500, afhankelijk van het type en het vermogen — vaak bijna de helft van de netto investering. Het aanvraagproces loopt via mijn.rvo.nl en de aanvraag zelf is in een half uur gedaan; op de uitbetaling wacht je enkele maanden. In deze gids staat stap voor stap welke bedragen je kunt verwachten, hoe je de aanvraag doet en hoe je de ISDE combineert met gemeentelijke subsidies.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*

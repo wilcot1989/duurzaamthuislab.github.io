@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1516192518150-0d8fee5425e3&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Wat is BYD Battery-Box?'
   a: BYD Battery-Box is een modulaire DC-gekoppelde thuisbatterij van het Chinese BYD (Build Your Dreams). Verkrijgbaar in HVS (hoogvolt 5,1 kWh modules) en LVS (laagvolt 4 kWh modules) varianten, modulair tot 22+ kWh.
@@ -53,7 +53,7 @@ De BYD Battery-Box Premium HVS is een van de meest verkochte thuisbatterijen ter
 
 Hieronder onze analyse: wat de specificaties beloven, hoe de totaalprijs uitpakt inclusief de vereiste omvormer, hoe BYD zich verhoudt tot Sessy en Powerwall, en voor wie deze batterij in de Nederlandse markt daadwerkelijk de beste keuze is.
 
-*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** de BYD Battery-Box Premium HVS is premium DC-gekoppelde hardware met een hoog rendement, maar je hebt een compatibele hybride omvormer nodig. Daardoor valt de totaalprijs voor een gemiddeld Nederlands huishouden hoger uit dan bij een AC-gekoppelde Sessy of Marstek.

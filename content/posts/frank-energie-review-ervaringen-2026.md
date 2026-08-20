@@ -17,7 +17,7 @@ keywords:
 - frank energie app
 - is frank energie goed
 - frank energie nederland
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -66,7 +66,7 @@ Frank Energie werkt met een model dat weinig ruimte laat voor discussie: de pure
 
 Hieronder de volledige review: waar de gebruikerservaringen vandaan komen, wat Frank goed en minder goed doet, wat het per jaar kost, en wanneer Tibber of ANWB een betere keus is.
 
-*Disclosure: dit artikel bevat affiliate-links. Onze beoordeling is gebaseerd op de publieke tariefbladen, de EPEX day-ahead-marktdata, de voorwaarden van de aanbieders en geverifieerde gebruikersreviews — niet op de affiliate-vergoeding.*
+*Disclosure: de links naar Frank Energie en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

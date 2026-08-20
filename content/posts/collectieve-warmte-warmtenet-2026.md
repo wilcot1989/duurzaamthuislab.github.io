@@ -20,7 +20,7 @@ keywords:
 - collectieve warmte voor- en nadelen
 - warmtenet nederland 2026
 - warmtepomp vs warmtenet
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
@@ -54,7 +54,7 @@ Warmtenetten zijn complexe infrastructurele projecten die je energiehuishouding 
 
 Dit artikel geeft het kader om die keuze te maken — zonder politieke slogans, zonder verkooppraatjes. Wij baseren ons op de Warmtewet, gepubliceerde ACM-tarieven en de specificaties van de besproken systemen.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Bosch, Daikin en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 

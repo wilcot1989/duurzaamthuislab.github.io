@@ -19,7 +19,7 @@ keywords:
 - houtstook verbod 2026
 - biomassa subsidie ISDE
 - warmtepomp of pelletkachel
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
@@ -51,7 +51,7 @@ Een lezer stuurde mij vorige winter een foto van zijn verwarmingsrekening: €1.
 
 Want de discussie pelletkachel vs. warmtepomp is complexer dan veel verduurzaamde-huis-blogs doen voorkomen. Het gaat niet alleen om centen per kWh, maar ook om luchtkwaliteitswetgeving, subsidies die er niet meer zijn, en de vraag of hout stoken in 2026 überhaupt nog verantwoord is.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 ---
 

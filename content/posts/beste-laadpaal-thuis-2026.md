@@ -18,7 +18,7 @@ keywords:
 - laadpaal vergelijken
 - easee charge lite review
 - alfen eve laadpaal
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1593941707882-a5bba14938c7&w=1200&output=webp&q=70

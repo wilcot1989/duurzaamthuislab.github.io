@@ -18,7 +18,7 @@ keywords:
 - ISSO installateur kiezen
 - warmtepomp installateur gecertificeerd
 - warmtepomp installatie controleren
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1504328345606-18bbc8c9d7d1&w=1200&output=webp&q=70
@@ -55,7 +55,7 @@ Het grootste risico bij een warmtepomp zit niet in het apparaat maar in de insta
 
 In dit artikel staat een checklist van 28 punten waarmee je offertes langs de eisen legt die in de installatievoorschriften, de ISDE-voorwaarden en het Bouwbesluit staan. Neem hem door per offerte voordat je ondertekent.
 
-*Disclosure: DuurzaamThuisLab heeft affiliate-relaties met enkele warmtepompmerken (aangegeven bij de CTA's). Deze checklist is merkonafhankelijk en gebaseerd op de installatievoorschriften, de ISDE-voorwaarden, het Bouwbesluit en klachten die in gebruikersreviews en bij de Geschillencommissie terugkomen.*
+*Disclosure: DuurzaamThuisLab heeft geen affiliate-relatie met de genoemde warmtepompmerken (stand augustus 2026); de links naar deze merken zijn gewone verwijzingen. Deze checklist is merkonafhankelijk en gebaseerd op de installatievoorschriften, de ISDE-voorwaarden, het Bouwbesluit en klachten die in gebruikersreviews en bij de Geschillencommissie terugkomen.*
 
 ---
 

@@ -16,7 +16,7 @@ keywords:
 - verschil groene grijze stroom
 - is groene stroom duurder
 - groene stroom contract
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -47,7 +47,7 @@ schema_type: Article
 ---
 Bijna elke Nederlandse energieleverancier verkoopt inmiddels "100% groene stroom". Toch verschilt de werkelijke CO₂-intensiteit tussen die contracten met een factor tien. De verklaring zit in het systeem van Garanties van Oorsprong (GvO's): certificaten die van €0,20 tot €15 per MWh kosten en enorm verschillen in wat ze feitelijk toevoegen. Wij leggen op basis van de ACM-stroometiketten, publieke GvO-prijzen en de wettelijke kaders uit waar het verschil zit — en hoe je een contract kiest dat meer is dan een label.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: de links naar Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*

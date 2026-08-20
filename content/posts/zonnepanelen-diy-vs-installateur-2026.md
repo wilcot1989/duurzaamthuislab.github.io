@@ -25,7 +25,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1559302995-f1d7e5c1b8e7&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Mag je zelf zonnepanelen op je dak leggen?'
   a: 'Ja, zelf monteren mag. Maar de elektrische aansluiting op het net moet door een gecertificeerde installateur (NEN-1010, Liander/Stedin/Enexis-aansluiteis). Volledig DIY tot en met netaansluiting is illegaal voor on-grid installaties.'
@@ -54,7 +54,7 @@ products:
 
 De uitkomsten lopen sterk uiteen. Bij een standaard pannendak en genoeg handigheid loopt de besparing op tot een paar duizend euro. Gaat het mis, dan gaat het meestal fout op dezelfde drie punten: een lekkend dak door een verkeerd geplaatste dakhaak, panelen die bij een najaarsstorm losraken, en een verzekeraar die een claim afwijst omdat de installatie niet aantoonbaar volgens NEN 1010 is uitgevoerd. Hieronder de eerlijke afweging.
 
-*Dit artikel bevat affiliate links. Bij aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** volledig zelf doen bespaart bij een standaard pannendak grofweg €1.500 tot €3.500, maar kost tientallen uren eigen tijd en raakt je garantie en verzekeringsdekking. De hybride route — zelf monteren, de netaansluiting door een installateur — is voor de meeste handige doe-het-zelvers de beste afweging.

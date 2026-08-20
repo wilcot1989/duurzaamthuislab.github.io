@@ -17,7 +17,7 @@ keywords:
 - agm batterij thuis
 - batterij chemie vergelijking
 - lithium ijzer fosfaat
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -39,7 +39,7 @@ products:
 schema_type: Article
 last_updated: '2026-04-29'
 ---
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Marstek in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 "AGM vs LiFePO4 voor thuisgebruik 2026 — werkt dat in de praktijk?" is een van de vaakst gestelde vragen over dit onderwerp. Hieronder zetten we op een rij wat de specificaties, handleidingen en publieke data zeggen, en waar de praktijk afwijkt van de brochure.
 

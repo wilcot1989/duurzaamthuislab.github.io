@@ -7,7 +7,7 @@ description: Hoe lang duurt het nog voordat zonnepanelen zichzelf terugverdienen
 categories: [zonnepanelen]
 tags: [zonnepanelen, terugverdientijd, saldering, Zonneplan, eigenverbruik, 2027]
 keywords: [zonnepanelen terugverdientijd, zonnepanelen zonder saldering, zonnepanelen 2027 rendement, eigenverbruik zonnepanelen, Zonneplan]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -41,7 +41,7 @@ Een offerte van €5.350 voor 14 panelen (5.880 Wp) inclusief omvormer en montag
 
 In dit artikel zetten wij uiteen hoe dat rekenwerk er in 2026 uitziet als je vandaag een offerte op tafel hebt liggen. Geen brochurepraat, geen "duurzaam is altijd rendabel". Gewoon de cijfers.
 
-*Disclosure: in dit artikel staan affiliate links naar onder andere Zonneplan, Sessy en Tibber. Klik je via een link en sluit je iets af, dan krijgen wij een kleine vergoeding. De prijs voor jou blijft hetzelfde en ons advies blijft eerlijk — wij adviseren regelmatig juist tegen aankopen die ons geld zouden opleveren.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Zonneplan, Sessy of Tibber (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Ons advies blijft eerlijk — wij adviseren regelmatig juist tegen aankopen die ons geld zouden opleveren.*
 
 > **Kort antwoord:** Met saldering verdien je zonnepanelen terug in 6 tot 7 jaar. Zonder saldering (vanaf 1 januari 2027) loopt dat op naar 9 tot 13 jaar, afhankelijk van je eigenverbruik. De truc zit niet meer in het aantal panelen, maar in hoeveel van je eigen stroom je direct gebruikt. Bij 55% eigenverbruik of hoger blijft het ruim rendabel; onder de 30% wordt het twijfelachtig. Een [Zonneplan all-in pakket](https://go.duurzaamthuislab.nl/zonneplan) met eigenverbruik-coaching richt zich op een eigenverbruik van rond de 50 procent.
 

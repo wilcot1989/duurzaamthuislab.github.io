@@ -16,7 +16,7 @@ keywords:
 - P1 meter vergelijking
 - HomeWizard P1
 - energieverbruik meten
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -47,7 +47,7 @@ schema_type: Article
 ---
 Een P1-meter van €30 is een van de weinige verduurzamingsaankopen die zichzelf binnen enkele maanden terugverdient. Niet omdat het kastje iets bespaart, maar omdat je ineens ziet welk apparaat stil doorloopt: een oudere vriezer in de garage verbruikt 300 tot 500 kWh per jaar, en dat is bij €0,30/kWh €90 tot €150 die je niet op je jaarrekening ziet uitgesplitst. In combinatie met een dynamisch contract zie je bovendien niet alleen hoeveel je verbruikt, maar ook wat het op dat moment kost. Dit artikel vergelijkt de beste energiemonitoren op de markt.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*

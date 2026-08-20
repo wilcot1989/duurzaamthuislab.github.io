@@ -16,7 +16,7 @@ keywords:
 - inductiekookplaat kosten
 - overstappen inductie
 - gasloos koken 2026
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -44,7 +44,7 @@ schema_type: Article
 ---
 De grootste financiële winst van elektrisch koken zit niet in het koken zelf maar in wat erna komt: pas als je gasaansluiting weg kan, verdwijnt het vastrecht van ruim tweehonderd euro per jaar. Koken op inductie is de goedkoopste en makkelijkste stap op weg daarnaartoe — en levert daarnaast een hoger rendement, een makkelijker schoon te houden plaat en betere binnenluchtkwaliteit op. Hieronder de volledige vergelijking tussen inductie, gas en keramisch.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Bosch en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*

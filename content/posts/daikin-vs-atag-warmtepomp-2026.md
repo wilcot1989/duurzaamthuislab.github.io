@@ -6,7 +6,7 @@ description: "Daikin Altherma 3 vs Atag Energion vergeleken op SCOP, geluid, app
 categories: ["warmtepompen"]
 tags: ["Daikin", "Atag", "warmtepomp", "vergelijking", "versus", "Altherma", "Energion"]
 keywords: ["daikin vs atag", "atag vs daikin warmtepomp", "altherma vs energion", "warmtepomp vergelijking 2026", "daikin of atag"]
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
@@ -43,7 +43,7 @@ products:
     url: "https://go.duurzaamthuislab.nl/quatt"
     price: "6500"
 ---
-*Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvangen wij mogelijk een commissie zonder dat jij meer betaalt. Onze vergelijking is gebaseerd op fabrieksspecificaties, installatiehandleidingen, publieke prijslijsten en geverifieerde gebruikersreviews.*
+*Disclosure: de links naar ATAG, Daikin, Quatt en Vaillant in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Onze vergelijking is gebaseerd op fabrieksspecificaties, installatiehandleidingen, publieke prijslijsten en geverifieerde gebruikersreviews.*
 
 Twee vergelijkbare twee-onder-een-kapwoningen van 140 m² met hetzelfde vroegere gasverbruik (circa 1.450 m³) en dezelfde isolatie, en toch een prijsverschil van duizenden euro's: een Daikin Altherma 3 H 11 kW gaat in courante offertes rond de €17.000 all-in, een Atag Energion M 11 kW rond de €9.800. Verschil: ruim €7.000.
 

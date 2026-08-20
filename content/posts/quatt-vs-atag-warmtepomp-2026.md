@@ -18,7 +18,7 @@ keywords:
 - hybride vs all-electric
 - atag energion review
 - warmtepomp vergelijking 2026
-affiliate: true
+affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1581094794329-c8112a89af12&w=1200&output=webp&q=70

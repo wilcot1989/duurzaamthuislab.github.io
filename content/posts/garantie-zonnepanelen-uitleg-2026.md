@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Wat is het verschil tussen productgarantie en vermogensgarantie?'
   a: 'Productgarantie dekt fabrieksfouten (haarbaren, delaminatie, defecte aansluitingen): typisch 12-25 jaar. Vermogensgarantie dekt rendementsverlies bovenop normale degradatie: typisch 25-30 jaar tot 80-90% van origineel vermogen.'
@@ -53,7 +53,7 @@ Een veelvoorkomende situatie: na vier jaar levert een zonnepaneelinstallatie tie
 
 Dat scenario komt vaker voor dan je denkt. Garantie op zonnepanelen is een van de meest verkeerd begrepen onderwerpen in de duurzame markt. Hieronder staat elk type garantie uitgelegd, met voorbeeldsituaties en stappenplannen voor het claimen.
 
-*Dit artikel bevat affiliate links. Bij aankoop via deze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Productgarantie, vermogensgarantie en installateursgarantie: het verschil uitgelegd met voorbeelden. Wat te doen bij defect en hoe je garantie veilig stelt.

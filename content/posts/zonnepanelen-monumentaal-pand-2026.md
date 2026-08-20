@@ -24,7 +24,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1494380544893-3a39f4eaa9b9&w=1200&output=webp&q=70
 schema_type: Article
-affiliate: true
+affiliate: false
 faq:
 - q: 'Mag ik zonnepanelen op een rijksmonument plaatsen?'
   a: 'In principe niet zichtbaar vanaf openbare weg, en altijd met vergunning. Veel monumenten hebben wel ruimte op aangebouwd bijgebouw of binnenhof-zijde. Onderzoek mogelijkheden bij gemeentelijke monumentencommissie.'
@@ -53,7 +53,7 @@ Eigenaren van een rijksmonument in een beschermd stadsgezicht krijgen zelden een
 
 Deze gids zet op een rij wat mag, wat wijs is en hoe de procedure verloopt. Basis: de Erfgoedwet, de werkwijze van gemeentelijke monumenten- en welstandscommissies en de Rijksdienst voor het Cultureel Erfgoed, de subsidie- en leenvoorwaarden van RVO en het Nationaal Restauratiefonds, en de productspecificaties van geïntegreerde systemen. Genoemde bedragen zijn marktindicaties, geen aanbieding.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 
 > **Kort antwoord:** Zonnepanelen op monumentaal pand: wat mag wel en niet? Vergunning, welstandsregels, geintegreerde systemen en alternatieven voor monument-eigenaren.
