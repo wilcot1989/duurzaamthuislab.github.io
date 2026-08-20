@@ -274,10 +274,10 @@ Voor Tesla-bezitters: Powerwall 3 + Tesla Wall Connector is meestal slimmer omda
 
 ## Subsidies en fiscaal
 
-Voor MKB: EIA-aftrek 45,5% van investering. Bij €13.495 = ~€2.350 fiscaal voordeel.
+Voor MKB: via de EIA is in 2026 40% van het investeringsbedrag extra aftrekbaar van de winst (bron: RVO). Het netto voordeel hangt van je belastingtarief af — bij 25,8% vpb komt dat neer op circa 10% van de investering (modelberekening), mits het systeem op de actuele Energielijst staat.
 Voor particulieren: geen rijkssubsidie op het batterij-deel. De ISDE dekt voor woningeigenaren alleen isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — batterijen en laadpalen vallen daarbuiten. Op de batterij betaal je 21% btw: het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij, ook niet bij gelijktijdige aanschaf met panelen. Op de panelen en omvormer zelf betaal je wel 0% btw, dus daar valt niets terug te vragen. Lever je als btw-ondernemer stroom terug, dan is btw-teruggaaf op de batterij in specifieke gevallen mogelijk (voorwaarden onder andere een energiemanagementsysteem en een dynamisch contract) — zie belastingdienst.nl. Soms bestaan er gemeentelijke of provinciale regelingen; check dat lokaal.
 
-[Anker-onderdelen voor laadpalen vallen sinds 2026 onder EIA voor MKB](https://www.rvo.nl/subsidies-financiering/eia) — relevant voor zakelijke EV-rijders.
+Of een specifiek systeem in aanmerking komt, bepaalt de actuele [Energielijst van RVO](https://www.rvo.nl/subsidies-financiering/eia) — check die vóór aanschaf.
 
 ## Verlengde FAQ
 

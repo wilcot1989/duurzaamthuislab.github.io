@@ -89,7 +89,7 @@ spLaad(0);
 Ook de gasprijs beweegt dagelijks mee met de beurs (LEBA/TTF). Anders dan stroom heeft gas **één prijs per dag**, die om 06:00 ingaat. Dit is de kale beursprijs inclusief btw — je leverancier telt er energiebelasting en zijn inkoopvergoeding bij op.
 
 <div id="gas-tool" style="background:#f8f9fa;border:1px solid #e0e0e0;border-radius:12px;padding:1.5rem;margin:1.5rem 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:.8rem;">
-  <div style="background:#fff;border-radius:8px;padding:.8rem;border:1px solid #e0e0e0;"><div style="font-size:.8rem;color:#666;">🔥 Gasprijs vandaag</div><div id="gas-prijs" style="font-size:1.6rem;font-weight:700;">—</div><div style="font-size:.75rem;color:#888;">per m³, kaal incl. btw</div></div>
+  <div style="background:#fff;border-radius:8px;padding:.8rem;border:1px solid #e0e0e0;"><div style="font-size:.8rem;color:#666;">🔥 Gasprijs vandaag</div><div id="gas-prijs" style="font-size:1.6rem;font-weight:700;">—</div><div id="gas-belasting" style="font-size:.78rem;color:#666;"></div><div style="font-size:.75rem;color:#888;">per m³, kaal incl. btw</div></div>
   <div style="background:#fff;border-radius:8px;padding:.8rem;border:1px solid #e0e0e0;align-self:stretch;"><div style="font-size:.8rem;color:#666;">Wat komt erbij?</div><div style="font-size:.85rem;color:#555;line-height:1.5;margin-top:.3rem;">Energiebelasting (wettelijk tarief per m³, zie Belastingdienst) + inkoopvergoeding van je leverancier.</div></div>
   <div style="grid-column:1/-1;background:#fff;border-radius:8px;padding:.8rem;border:1px solid #e0e0e0;">
     <div style="display:flex;justify-content:space-between;align-items:baseline;"><div style="font-size:.8rem;color:#666;">Gasprijs afgelopen 30 dagen</div><div id="gas-range" style="font-size:.75rem;color:#888;"></div></div>
@@ -115,7 +115,7 @@ Op zonnige middagen drukt al die zonnestroom de beursprijs — vaak tot onder nu
 
 <script>
 fetch('https://beheer.wtdigital.nl/api/public/gasprijs?historie=30').then(function(r){return r.json();}).then(function(d){
-  if (typeof d.prijs_m3 === 'number') document.getElementById('gas-prijs').textContent = '€ ' + d.prijs_m3.toFixed(3);
+  if (typeof d.prijs_m3 === 'number') { document.getElementById('gas-prijs').textContent = '€ ' + d.prijs_m3.toFixed(3); document.getElementById('gas-belasting').textContent = 'incl. belasting ± € ' + (d.prijs_m3 + 0.7268).toFixed(2); }
   var h = d.historie || [];
   if (h.length > 1) {
     var ps = h.map(function(x){return x.prijs_m3;});

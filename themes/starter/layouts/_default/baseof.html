@@ -516,6 +516,7 @@
   fetch('https://beheer.wtdigital.nl/api/public/gasprijs').then(function(r){return r.json();}).then(function(d){
     if(typeof d.prijs_m3!=='number')return;
     document.getElementById('hp-gas').textContent='€ '+d.prijs_m3.toFixed(2);
+    document.getElementById('hp-gas-wrap').title='Kale beursprijs; incl. energiebelasting 2026 (€0,727/m³ incl. btw, bron: Belastingdienst) ± € '+(d.prijs_m3+0.7268).toFixed(2)+'/m³ — inkoopvergoeding leverancier komt daar nog bij';
     document.getElementById('hp-gas-wrap').style.display='block';
   }).catch(function(){});
   fetch('https://beheer.wtdigital.nl/api/public/zonverwachting').then(function(r){return r.json();}).then(function(d){

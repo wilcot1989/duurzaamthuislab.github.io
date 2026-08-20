@@ -106,7 +106,7 @@ De meest gestelde vraag over Frank is niet "wat kost het", maar "waar bestaat he
 | Netbeheerkosten | vast bedrag per jaar, per aansluiting | je netbeheerder |
 | Vaste leveringskosten | maandelijkse vergoeding voor de dienst | Frank |
 
-Voor gas werkt het hetzelfde, met de **TTF-dagprijs** in plaats van EPEX en een energiebelasting van **€0,7268 per m³** in 2026 (bron: [leeswijzer afrekening](https://www.frankenergie.nl/nl/leeswijzer-afrekening), frankenergie.nl).
+Voor gas werkt het hetzelfde, met de **TTF-dagprijs** in plaats van EPEX en een energiebelasting van **€0,7268 per m³ incl. btw** in 2026 (€0,60066 excl. btw, schijf 1 — Belastingdienst-tarieventabel) (bron: [leeswijzer afrekening](https://www.frankenergie.nl/nl/leeswijzer-afrekening), frankenergie.nl).
 
 **Drie dingen die je hierbij moet weten:**
 

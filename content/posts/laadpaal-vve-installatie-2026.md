@@ -37,7 +37,7 @@ faq:
 - q: 'Wat als VVE weigert?'
   a: 'Sinds april 2024 kun je een rechtszaak winnen als VVE onredelijk weigert. Eerst minneschap (bemiddeling), dan kantongerecht. Procedure 3-6 maanden, kosten €500-€1.500.'
 - q: 'Subsidies voor VVE-laadpalen?'
-  a: 'SEEH-subsidie voor laadpunten op privéparkeerplaatsen (€350 per punt), gemeentelijke subsidies voor collectieve oplossingen (€2.000-€10.000 per VVE), en 0% leningen via Nationaal Warmtefonds.'
+  a: 'Voor VvE''s is de SVVE (Subsidieregeling Verduurzaming VvE''s) relevant: die kent onder meer subsidie voor oplaadpuntenadvies en basislaadinfrastructuur — actuele bedragen en voorwaarden staan bij RVO. Daarnaast hebben sommige gemeenten eigen regelingen (check je gemeente) en zijn er VvE-leningen via het Nationaal Warmtefonds.'
 products:
 - name: Easee Home laadpaal
   url: https://easee.com/nl/
@@ -219,7 +219,7 @@ Kostenverdeling:
 
 Subsidies:
 - Rotterdam Verduurzaming: €1.500 (collectief)
-- SEEH per laadpunt: €350 × 3 = €1.050
+- SVVE-subsidie (oplaadpuntenadvies/basislaadinfrastructuur): bedrag afhankelijk van de regeling — zie RVO
 
 ### Casus 3: Amsterdam-Zuid groot complex
 
@@ -256,9 +256,9 @@ Maar: kostenverdeling werd anders. Eigenaar moest 100% kosten dragen omdat geen 
 
 ## Subsidies voor VVE-laadpalen
 
-### SEEH (Subsidie Energiebesparing Eigen Huis)
+### SVVE (Subsidieregeling Verduurzaming VvE's)
 
-€350 per laadpunt, ook voor VVE-installaties.
+De SVVE kent voor VvE's onder meer subsidie voor oplaadpuntenadvies en basislaadinfrastructuur. De bedragen en voorwaarden wijzigen periodiek — check de actuele regeling op rvo.nl. (De SEEH, waar oudere artikelen naar verwijzen, is de isolatieregeling voor eigenaar-bewoners en dekt geen laadpunten.)
 
 ### Gemeentelijke regelingen
 
@@ -320,7 +320,7 @@ Met load balancing:
 - Geen overbelasting
 
 Aanbieders:
-- Easee Equalizer (€350)
+- Easee Equalizer (prijs: zie easee.com)
 - Wallbox PowerBoost (€450)
 - Alfen Smart Charging gateway (€650)
 
@@ -391,7 +391,7 @@ Aanbevelingen op basis van de wettelijke procedure en gangbare praktijk:
 1. **Verzamel mede-aanvragers** voor sterkere ALV-positie
 2. **Plan voor toekomst**: hoofdverzwaring + infrastructuur in één keer
 3. **Smart load balancing** verplicht voor schaalbaarheid
-4. **Subsidies stapelen**: gemeentelijk + SEEH + provinciaal
+4. **Subsidies stapelen**: gemeentelijk + SVVE + eventueel provinciaal (check per regeling of stapelen mag)
 5. **Schriftelijke besluiten** voor alle technische en financiële afspraken
 6. **Individuele meters** waar mogelijk (vermijdt latere conflicten)
 
@@ -433,7 +433,7 @@ Eerste paal individueel onder route 1, daarna uitbreiding via route 2. Werkt vaa
 
 ## NL-specifiek: subsidie en netcapaciteit
 
-- **SAH/SVVE-subsidie 2026**: tot €40.000 voor laadinfrastructuur op VVE-terrein
+- **SVVE-subsidie**: kent onderdelen voor oplaadpuntenadvies en basislaadinfrastructuur — actuele bedragen en plafonds op rvo.nl (de SAH is de aardgasvrij-regeling voor huurwoningen en staat hier los van)
 - **Provinciale fondsen**: Zuid-Holland €4.500/laadpaal, Noord-Holland €3.000, Utrecht €2.500
 - **Gemeente Amsterdam**: extra €1.500 per laadpunt voor VVE
 - **Net-aansluiting**: bij meer dan 4 palen vaak verzwaring nodig (kosten €4.500-€18.000)
@@ -446,7 +446,7 @@ VVE 2024: 28 appartementen, parkeerkelder, 22 parkeervakken privé + 6 gemeensch
 Aanpak gekozen: 6 palen op gemeenschappelijke vakken via collectief besluit + capaciteitsmanagement, plus optie individueel-tegen-eigen-kosten via kabelgoot.
 
 - Investering: €18.500 voor 6 palen + capaciteitsmanager + kabelinfrastructuur
-- SAH-subsidie: €9.000
+- SVVE-subsidie: bedrag afhankelijk van de actuele regeling (zie RVO; hier niet als vast bedrag mee te rekenen)
 - Provincie Utrecht: €15.000
 - Gemeente Utrecht: €3.500
 - Netto VVE-investering: -€9.000 (per saldo subsidie groter dan investering, restant ging naar reserve)

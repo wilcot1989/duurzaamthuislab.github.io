@@ -24,7 +24,8 @@ Op deze pagina staat de **gasprijs van vandaag per m³** en, zodra die gepublice
       <div id="gp-verschil" style="font-size:.75rem;color:#888;">per m³, kaal incl. btw</div>
     </div>
   </div>
-  <p style="color:#666;font-size:.85rem;margin-top:.8rem;margin-bottom:0;">Kale day-ahead-prijs (LEBA/TTF) incl. btw, excl. energiebelasting en inkoopvergoeding. Bron: EnergyZero. Aan deze informatie kunnen geen rechten worden ontleend.</p>
+  <label style="display:flex;align-items:center;gap:.4rem;color:#444;font-size:.9rem;cursor:pointer;margin-top:.8rem;"><input type="checkbox" id="gp-belasting" onchange="gpRender()"> + energiebelasting (€0,727/m³ incl. btw, 2026)</label>
+  <p style="color:#666;font-size:.85rem;margin-top:.8rem;margin-bottom:0;">Standaard tonen we de kale day-ahead-prijs (LEBA/TTF) incl. btw. Met het vinkje tellen we de energiebelasting 2026 erbij op (€0,60066/m³ excl. btw = €0,7268 incl. btw, schijf 1, bron: Belastingdienst-tarieventabel) — dat benadert wat je leverancier rekent; alleen diens inkoopvergoeding komt daar nog bovenop. Bron: EnergyZero. Aan deze informatie kunnen geen rechten worden ontleend.</p>
 </div>
 
 Anders dan bij stroom kent gas **één prijs per dag**. Die gaat om 06:00 in en geldt tot 06:00 de volgende ochtend. Er zijn dus geen goedkope en dure uren zoals bij [dynamische stroomprijzen](/stroomprijzen/) — verbruik verschuiven binnen de dag levert bij gas niets op.
@@ -102,67 +103,63 @@ De day-ahead-prijs voor de volgende gasdag komt in de loop van de dag beschikbaa
 De gasdag is de handelseenheid op de day-ahead-gasmarkt: één afrekenprijs van 06:00 tot 06:00. Stroom wordt per uur verhandeld, omdat vraag en aanbod van elektriciteit binnen de dag sterk wisselen. Verbruik verschuiven binnen de dag heeft bij gas dus geen prijseffect; bij stroom wel — zie [stroomprijzen](/stroomprijzen/).
 
 <script>
-(function(){
-  function fmt(v){ return '€ ' + v.toFixed(3); }
-  function nlDatum(s){
-    var p = String(s).split('-');
-    if (p.length !== 3) return s;
-    return new Date(Date.UTC(+p[0], +p[1]-1, +p[2])).toLocaleDateString('nl-NL',{timeZone:'UTC',day:'numeric',month:'long'});
+var gpData = null, gpMorgen = null;
+function gpFmt(v){ return '€ ' + v.toFixed(3); }
+function gpNlDatum(s){
+  var p = String(s).split('-');
+  if (p.length !== 3) return s;
+  return new Date(Date.UTC(+p[0], +p[1]-1, +p[2])).toLocaleDateString('nl-NL',{timeZone:'UTC',day:'numeric',month:'long'});
+}
+function gpRender(){
+  // Energiebelasting gas 2026 schijf 1: EUR 0,60066/m3 excl. btw = EUR 0,7268 incl. btw (Belastingdienst-tarieventabel)
+  var opslag = document.getElementById('gp-belasting').checked ? 0.7268 : 0;
+  var d = gpData;
+  if (d && typeof d.prijs_m3 === 'number') {
+    document.getElementById('gp-vandaag').textContent = gpFmt(d.prijs_m3 + opslag);
+    document.getElementById('gp-datum-vandaag').textContent = 'per m³ · ' + gpNlDatum(d.datum) + (opslag ? ' · incl. belasting' : ' · kaal incl. btw');
   }
-  var vandaagPrijs = null;
-
-  fetch('https://beheer.wtdigital.nl/api/public/gasprijs?historie=30').then(function(r){return r.json();}).then(function(d){
-    if (typeof d.prijs_m3 === 'number') {
-      vandaagPrijs = d.prijs_m3;
-      document.getElementById('gp-vandaag').textContent = fmt(d.prijs_m3);
-      document.getElementById('gp-datum-vandaag').textContent = 'per m³ · ' + nlDatum(d.datum);
-    } else {
-      document.getElementById('gp-vandaag').textContent = 'n.b.';
-    }
-    var h = d.historie || [];
-    if (h.length > 1) {
-      var ps = h.map(function(x){return x.prijs_m3;});
-      var min = Math.min.apply(null, ps), max = Math.max.apply(null, ps), span = (max - min) || 1;
-      document.getElementById('gp-range').textContent = 'laagste ' + fmt(min) + ' — hoogste ' + fmt(max);
-      document.getElementById('gp-chart').innerHTML = h.map(function(x){
-        var hh = 15 + ((x.prijs_m3 - min) / span) * 85;
-        var k = x.prijs_m3 === min ? '#1a7a4a' : (x.prijs_m3 === max ? '#b03a3a' : '#c9803f');
-        var lbl = x.prijs_m3 === min ? 'laagste' : (x.prijs_m3 === max ? 'hoogste' : '');
-        return '<div title="' + nlDatum(x.datum) + ' — ' + fmt(x.prijs_m3) + '/m³' + (lbl ? ' (' + lbl + ')' : '') + '" style="position:relative;flex:1;height:' + hh.toFixed(0) + '%;background:' + k + ';border-radius:2px 2px 0 0;min-width:4px;">' +
-          (lbl ? '<span style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%);white-space:nowrap;font-size:.7rem;color:' + k + ';">' + lbl + ' ' + fmt(x.prijs_m3) + '</span>' : '') + '</div>';
-      }).join('');
-      document.getElementById('gp-as').innerHTML = '<span>' + nlDatum(h[0].datum) + '</span><span>' + nlDatum(h[h.length-1].datum) + '</span>';
-    } else {
-      document.getElementById('gp-range').textContent = 'Historie niet beschikbaar.';
-    }
-  }).catch(function(){
-    document.getElementById('gp-vandaag').textContent = 'n.b.';
-    document.getElementById('gp-range').textContent = 'Kon de gasprijzen niet laden — probeer het later opnieuw.';
-  }).then(laadMorgen);
-
-  function laadMorgen(){
-  fetch('https://beheer.wtdigital.nl/api/public/gasprijs?dag=morgen').then(function(r){return r.json();}).then(function(d){
-    var el = document.getElementById('gp-morgen'), sub = document.getElementById('gp-verschil');
-    if (typeof d.prijs_m3 !== 'number') {
-      el.style.fontSize = '1rem';
-      el.style.fontWeight = '600';
-      el.textContent = 'De prijs voor morgen is nog niet gepubliceerd.';
-      sub.textContent = 'kom later op de dag terug';
-      return;
-    }
-    el.textContent = fmt(d.prijs_m3);
-    var basis = 'per m³ · ' + nlDatum(d.datum);
-    if (typeof vandaagPrijs === 'number' && d.prijs_m3 !== vandaagPrijs) {
-      var diff = d.prijs_m3 - vandaagPrijs;
+  var elM = document.getElementById('gp-morgen'), sub = document.getElementById('gp-verschil');
+  if (gpMorgen && typeof gpMorgen.prijs_m3 === 'number') {
+    elM.style.fontSize = ''; elM.style.fontWeight = '';
+    elM.textContent = gpFmt(gpMorgen.prijs_m3 + opslag);
+    var basis = 'per m³ · ' + gpNlDatum(gpMorgen.datum);
+    if (d && typeof d.prijs_m3 === 'number' && gpMorgen.prijs_m3 !== d.prijs_m3) {
+      var diff = gpMorgen.prijs_m3 - d.prijs_m3;
       var op = diff > 0;
-      sub.innerHTML = basis + ' · <span style="color:' + (op ? '#b03a3a' : '#1a7a4a') + ';font-weight:600;">' + (op ? '↑' : '↓') + ' ' + fmt(Math.abs(diff)) + ' t.o.v. vandaag</span>';
+      sub.innerHTML = basis + ' · <span style="color:' + (op ? '#b03a3a' : '#1a7a4a') + ';font-weight:600;">' + (op ? '↑' : '↓') + ' ' + gpFmt(Math.abs(diff)) + ' t.o.v. vandaag</span>';
     } else {
-      sub.textContent = basis + (typeof vandaagPrijs === 'number' ? ' · gelijk aan vandaag' : '');
+      sub.textContent = basis + (d && typeof d.prijs_m3 === 'number' ? ' · gelijk aan vandaag' : '');
     }
-  }).catch(function(){
-    document.getElementById('gp-morgen').style.fontSize = '1rem';
-    document.getElementById('gp-morgen').textContent = 'De prijs voor morgen is nog niet gepubliceerd.';
-  });
+  } else if (gpMorgen !== null) {
+    elM.style.fontSize = '1rem'; elM.style.fontWeight = '600';
+    elM.textContent = 'De prijs voor morgen is nog niet gepubliceerd.';
+    sub.textContent = 'kom later op de dag terug';
   }
-})();
+  var h = (d && d.historie) || [];
+  if (h.length > 1) {
+    var ps = h.map(function(x){ return x.prijs_m3 + opslag; });
+    var min = Math.min.apply(null, ps), max = Math.max.apply(null, ps), span = (max - min) || 1;
+    document.getElementById('gp-range').textContent = 'laagste ' + gpFmt(min) + ' — hoogste ' + gpFmt(max);
+    document.getElementById('gp-chart').innerHTML = h.map(function(x){
+      var v = x.prijs_m3 + opslag;
+      var hh = 15 + ((v - min) / span) * 85;
+      var k = v === min ? '#1a7a4a' : (v === max ? '#b03a3a' : '#c9803f');
+      var lbl = v === min ? 'laagste' : (v === max ? 'hoogste' : '');
+      return '<div title="' + gpNlDatum(x.datum) + ' — ' + gpFmt(v) + '/m³' + (lbl ? ' (' + lbl + ')' : '') + '" style="position:relative;flex:1;height:' + hh.toFixed(0) + '%;background:' + k + ';border-radius:2px 2px 0 0;min-width:4px;">' +
+        (lbl ? '<span style="position:absolute;bottom:100%;left:50%;transform:translateX(-50%);white-space:nowrap;font-size:.7rem;color:' + k + ';">' + lbl + ' ' + gpFmt(v) + '</span>' : '') + '</div>';
+    }).join('');
+    document.getElementById('gp-as').innerHTML = '<span>' + gpNlDatum(h[0].datum) + '</span><span>' + gpNlDatum(h[h.length-1].datum) + '</span>';
+  }
+}
+fetch('https://beheer.wtdigital.nl/api/public/gasprijs?historie=30').then(function(r){return r.json();}).then(function(d){
+  gpData = d; gpRender();
+}).catch(function(){
+  document.getElementById('gp-vandaag').textContent = 'n.b.';
+  document.getElementById('gp-range').textContent = 'Kon de gasprijzen niet laden — probeer het later opnieuw.';
+});
+fetch('https://beheer.wtdigital.nl/api/public/gasprijs?dag=morgen').then(function(r){return r.json();}).then(function(d){
+  gpMorgen = d; gpRender();
+}).catch(function(){
+  gpMorgen = {}; gpRender();
+});
 </script>

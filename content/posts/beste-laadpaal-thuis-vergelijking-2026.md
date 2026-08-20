@@ -85,7 +85,7 @@ Easee is een Noors merk, opgericht in 2018, marktleider in Scandinavië en sinds
 **Sterke punten:**
 
 - **Prijs**: €699 hardware. Goedkoopste in deze vergelijking, en zonder gevoel van besparing op kwaliteit
-- **Modulair**: de Easee Equalizer (€199 los, of €99 in een bundel) klikt op je slimme meter en geeft realtime load balancing
+- **Modulair**: de Easee Equalizer (prijs: zie easee.com — Easee publiceert geen vaste consumentenprijs) klikt op je slimme meter en geeft realtime load balancing
 - **OCPP 1.6 native**: koppelt direct met Tibber, Frank Energie, EVCC, Home Assistant
 - **Update via OTA**: firmware-updates komen automatisch binnen, geen technicus nodig
 - **Tot 3 palen op &eacute;&eacute;n groep**: handig bij twee EV's of voor de buren

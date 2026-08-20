@@ -281,7 +281,7 @@ Controleer bij een offerte ook de celchemie van de aangeboden uitvoering — die
 
 ## NL-specifiek: BTW, installatie en compatibiliteit
 
-Particulieren BTW 21%, niet terugvorderbaar. Geen ISDE-subsidie. Gemeentelijke regelingen variabel — Utrecht €1.000 in 2026, Nijmegen €750. Enphase IQ 5P levert via NL-distributeur (Krannich, Solar123) met 10 jaar fabrieksgarantie. Bij directe import uit VS: garantie alleen via importeur, soms problematisch.
+Particulieren BTW 21%, niet terugvorderbaar. Geen ISDE-subsidie. Gemeentelijke regelingen variëren sterk en wisselen per jaar — check de actuele regelingen bij je eigen gemeente. Enphase IQ 5P levert via NL-distributeur (Krannich, Solar123) met 10 jaar fabrieksgarantie. Bij directe import uit VS: garantie alleen via importeur, soms problematisch.
 
 Bouwbesluit eist aparte technische ruimte voor batterij >5 kWh. Verzekeraars vragen Scope 12 keuring. Belangrijk voor Enphase: 5P werkt alleen als primair systeem ook Enphase is — combineren met SolarEdge/Goodwe niet mogelijk.
 
