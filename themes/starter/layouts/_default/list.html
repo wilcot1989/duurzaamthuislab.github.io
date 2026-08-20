@@ -1,18 +1,35 @@
 {{ define "main" }}
-<div class="container">
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-  {{ $pageTitle := .Title }}
-  <div class="card">
-    {{ with .Params.featured_image }}<img loading="lazy" src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb">{{ end }}
-    <div class="meta">{{ .Date.Format "02-01-2006" }} &middot; {{ .ReadingTime }} min leestijd</div>
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-    <div class="tags">
-      {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
-    </div>
+{{ $paginator := .Paginate .Pages 24 }}
+<section style="background:var(--cream-soft);border-bottom:1px solid var(--ink-line);padding:clamp(2.5rem,6vh,4rem) 0;">
+  <div class="container">
+    <div style="font-family:var(--mono);font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--terracotta);margin-bottom:.75rem;">— Dossier</div>
+    <h1 style="font-family:var(--display);font-size:clamp(1.8rem,3.5vw,2.6rem);line-height:1.1;font-weight:400;letter-spacing:-.02em;color:var(--ink);margin:0 0 .5rem;">{{ .Title | humanize | title }}</h1>
+    <p style="font-family:var(--mono);font-size:.75rem;letter-spacing:.1em;color:var(--ink-soft);margin:0;">{{ len .Pages }} {{ if eq (len .Pages) 1 }}gids{{ else }}gidsen{{ end }} · Team DuurzaamThuisLab</p>
+    {{ with .Content }}<div style="font-family:var(--display);color:var(--ink-soft);font-size:1rem;max-width:44rem;margin-top:1rem;">{{ . }}</div>{{ end }}
   </div>
-  {{ end }}
-</div>
+</section>
+
+<section style="padding:clamp(2.5rem,6vh,4rem) 0;background:var(--cream);">
+  <div class="container">
+    <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:clamp(2rem,4vw,3rem) clamp(1.5rem,3vw,2.5rem);">
+      {{ range $paginator.Pages }}
+      <a href="{{ .RelPermalink }}" style="display:block;color:var(--ink);text-decoration:none;">
+        <div style="aspect-ratio:4/3;background:linear-gradient(135deg,var(--cream-soft),var(--clay));margin-bottom:1rem;position:relative;overflow:hidden;border-radius:2px;{{ with .Params.featured_image }}background-image:url('{{ . }}');background-size:cover;background-position:center;{{ end }}"></div>
+        {{ with .Params.categories }}{{ range first 1 . }}<div style="font-family:var(--mono);font-size:.68rem;letter-spacing:.15em;text-transform:uppercase;color:var(--terracotta);margin-bottom:.5rem;">{{ . | humanize | title }}</div>{{ end }}{{ end }}
+        <h2 style="font-family:var(--display);font-size:1.3rem;line-height:1.2;font-weight:500;margin:0 0 .5rem;">{{ .Title }}</h2>
+        <p style="font-size:.92rem;line-height:1.55;color:var(--ink-soft);margin:0 0 .75rem;">{{ with .Description }}{{ . | truncate 140 }}{{ else }}{{ .Summary | truncate 140 }}{{ end }}</p>
+        {{ if not .Date.IsZero }}<div style="font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;color:var(--ink-soft);">{{ .Date.Format "02 Jan 2006" }} · {{ .ReadingTime }} min</div>{{ end }}
+      </a>
+      {{ end }}
+    </div>
+
+    {{ if gt $paginator.TotalPages 1 }}
+    <div style="display:flex;justify-content:center;align-items:center;gap:1.5rem;margin-top:3rem;font-family:var(--mono);font-size:.8rem;letter-spacing:.08em;">
+      {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}" style="color:var(--terracotta);">← Nieuwer</a>{{ end }}
+      <span style="color:var(--ink-soft);">Pagina {{ $paginator.PageNumber }} van {{ $paginator.TotalPages }}</span>
+      {{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}" style="color:var(--terracotta);">Ouder →</a>{{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>
 {{ end }}
