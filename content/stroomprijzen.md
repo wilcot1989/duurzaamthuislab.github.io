@@ -85,6 +85,10 @@ Ook de gasprijs beweegt dagelijks mee met de beurs (LEBA/TTF). Anders dan stroom
 <div id="gas-tool" style="background:#f8f9fa;border:1px solid #e0e0e0;border-radius:12px;padding:1.5rem;margin:1.5rem 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:.8rem;">
   <div style="background:#fff;border-radius:8px;padding:.8rem;border:1px solid #e0e0e0;"><div style="font-size:.8rem;color:#666;">🔥 Gasprijs vandaag</div><div id="gas-prijs" style="font-size:1.6rem;font-weight:700;">—</div><div style="font-size:.75rem;color:#888;">per m³, kaal incl. btw</div></div>
   <div style="background:#fff;border-radius:8px;padding:.8rem;border:1px solid #e0e0e0;align-self:stretch;"><div style="font-size:.8rem;color:#666;">Wat komt erbij?</div><div style="font-size:.85rem;color:#555;line-height:1.5;margin-top:.3rem;">Energiebelasting (wettelijk tarief per m³, zie Belastingdienst) + inkoopvergoeding van je leverancier.</div></div>
+  <div style="grid-column:1/-1;background:#fff;border-radius:8px;padding:.8rem;border:1px solid #e0e0e0;">
+    <div style="display:flex;justify-content:space-between;align-items:baseline;"><div style="font-size:.8rem;color:#666;">Gasprijs afgelopen 30 dagen</div><div id="gas-range" style="font-size:.75rem;color:#888;"></div></div>
+    <div id="gas-chart" style="display:flex;align-items:flex-end;gap:2px;height:70px;margin-top:.5rem;"></div>
+  </div>
 </div>
 
 Wie veel gas verbruikt, bespaart structureel meer met [isoleren](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/) of een [(hybride) warmtepomp](/posts/beste-hybride-warmtepomp-2026/) dan met overstappen alleen.
@@ -98,11 +102,24 @@ Hoeveel leveren je zonnepanelen vandaag en de komende dagen op? Onderstaande ver
   <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Voorbeeld: bij een installatie van 4 kWp is de verwachte dagopbrengst 4 × het getal per kWp. Bron: Open-Meteo instraling-forecast; opbrengst = modelberekening (PR 0,85).</p>
 </div>
 
-Op zonnige middagen drukt al die zonnestroom de beursprijs — vaak tot onder nul. Precies dan loont een [thuisbatterij bij een dynamisch contract](/posts/dynamische-energiecontracten-thuisbatterij-2026/): overdag goedkoop (of met toeslag) laden, in de avondpiek gebruiken.
+Wil je weten wat dit voor jóúw installatie betekent? Gebruik de [opbrengst-calculator](/zonnepanelen-opbrengst-berekenen/) — aantal panelen en oriëntatie invullen, en je ziet de verwachting per dag.
+
+Op zonnige middagen drukt al die zonnestroom de beursprijs — vaak tot onder nul. Wat dat betekent (en wanneer je echt geld toe krijgt) staat op [negatieve stroomprijzen](/negatieve-stroomprijzen/). Precies dan loont een [thuisbatterij bij een dynamisch contract](/posts/dynamische-energiecontracten-thuisbatterij-2026/): overdag goedkoop (of met toeslag) laden, in de avondpiek gebruiken.
 
 <script>
-fetch('https://beheer.wtdigital.nl/api/public/gasprijs').then(function(r){return r.json();}).then(function(d){
+fetch('https://beheer.wtdigital.nl/api/public/gasprijs?historie=30').then(function(r){return r.json();}).then(function(d){
   if (typeof d.prijs_m3 === 'number') document.getElementById('gas-prijs').textContent = '€ ' + d.prijs_m3.toFixed(3);
+  var h = d.historie || [];
+  if (h.length > 1) {
+    var ps = h.map(function(x){return x.prijs_m3;});
+    var min = Math.min.apply(null, ps), max = Math.max.apply(null, ps), span = (max - min) || 1;
+    document.getElementById('gas-range').textContent = 'laagste € ' + min.toFixed(2) + ' — hoogste € ' + max.toFixed(2);
+    document.getElementById('gas-chart').innerHTML = h.map(function(x){
+      var hh = 15 + ((x.prijs_m3 - min) / span) * 85;
+      var k = x.prijs_m3 === min ? '#1a7a4a' : (x.prijs_m3 === max ? '#b03a3a' : '#c9803f');
+      return '<div title="' + x.datum + ' — € ' + x.prijs_m3.toFixed(3) + '/m³" style="flex:1;height:' + hh.toFixed(0) + '%;background:' + k + ';border-radius:2px 2px 0 0;min-width:3px;"></div>';
+    }).join('');
+  }
 }).catch(function(){ document.getElementById('gas-prijs').textContent = 'n.b.'; });
 fetch('https://beheer.wtdigital.nl/api/public/zonverwachting').then(function(r){return r.json();}).then(function(d){
   if (!d.dagen || !d.dagen.length) return;
@@ -146,6 +163,9 @@ De dagprijs volgt de gasbeurs (LEBA/TTF-day-ahead). Dynamische leveranciers geve
 
 **Wat betekent "opbrengst per kWp"?**
 kWp is het piekvermogen van je installatie. Heb je bijvoorbeeld 10 panelen van 400 Wp (= 4 kWp) en staat er 3,0 kWh per kWp, dan is de verwachte dagopbrengst circa 12 kWh — bij gemiddelde oriëntatie en zonder schaduw (modelberekening).
+
+**Wat is de beste tijd om de wasmachine aan te zetten?**
+Met een dynamisch contract: het goedkoopste 2-uursblok van de dag — dat staat live (met het blok van morgen) op [beste tijd wasmachine](/beste-tijd-wasmachine/). Met een vast contract maakt het tijdstip voor je kWh-prijs niet uit.
 
 **Wanneer is stroom meestal het goedkoopst?**
 Structureel rond het middaguur op zonnige dagen (veel zonnestroom) en 's nachts; het duurst in de ochtend- en avondpiek. Uitzonderingen komen voor — daarom staat deze pagina er.
