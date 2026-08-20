@@ -50,7 +50,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
   </thead>
   <tbody>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>ANWB Energie</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/anwb-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">ANWB Energie</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Uurprijzen stroom, dagprijs gas. Vermeldt geen winstmarge op het kWh-tarief. Terugleververgoeding is gelijk aan het uurtarief dat je op dat moment voor afname zou betalen. App geeft uurinzicht en actuele tarieven; je past je maandbedrag zelf aan. Geen automatische laad- of batterijsturing vermeld.</td>
       <td style="padding:.7rem;vertical-align:top;">€ 0,018/kWh<br><span style="color:#666;font-size:.82rem;">peildatum aug 2026 — gastarief wijzigt per 1 sep 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 8,50/mnd stroom<br><span style="color:#666;font-size:.82rem;">gas idem, gaat per 1 sep 2026 naar € 9,75</span></td>
@@ -58,7 +58,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/anwb-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Budget Thuis</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/budget-thuis-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Budget Thuis</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Biedt naast volledig dynamisch ook een combinatie van dynamische stroom met een vaste gasprijs. Elke middag staan de tarieven voor de volgende dag in de app, samen met verbruik en teruglevering. Waarschuwt op de eigen tarievenpagina expliciet dat de inkoopvergoeding niet in de weergegeven tarieven zit.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -66,7 +66,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/budget-thuis-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Coolblue Energie</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/coolblue-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Coolblue Energie</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Het product heet Dynamische Stroom: kwartierprijzen voor stroom, maar gecombineerd met een <em>vast</em> gastarief — gas beweegt hier dus niet mee met de dagprijs. Geen terugleverkosten; voor teruglevering krijg je het kwartiertarief van dat moment minus de inkoopvergoeding. Verbruiksinzicht per kwartier in de Coolblue App. Actie "Gratis Wassen": dagelijks tussen 12:00 en 15:00 uur een wasje zonder stroomkosten, mits je een geschikte wasmachine van Beko of Samsung hebt. Een uitleesbare slimme meter is voorwaarde.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -74,7 +74,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/coolblue-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>DELTA Energie</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/delta-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">DELTA Energie</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Uurprijzen stroom, dagprijs gas: "je stroomprijs verandert ieder uur, je gasprijs iedere dag." Je betaalt een vast maandelijks termijnbedrag, met verrekening op de jaarnota. De productpagina blijft verder summier — over app, slim laden en het terugleverbeleid staat er niets, dus dat moet je bij aanvraag zelf uitvragen.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -82,7 +82,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/delta-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>easyEnergy</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/easyenergy?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">easyEnergy</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Publiceert als enige aanbieder zowel inkoopvergoeding als vaste kosten vrij toegankelijk. Kwartierprijzen voor stroom, dagprijs gas; prijzen voor morgen om 15:00 uur. Geen terugleveropslag; de inkoopvergoeding wordt berekend over het maandelijkse saldo van levering en teruglevering. Slim laden (easyLaden) staat als test, niet als afgeronde dienst. App vraagt een aparte P1-dongle.</td>
       <td style="padding:.7rem;vertical-align:top;">2,178 ct/kWh incl. btw<br><span style="color:#666;font-size:.82rem;">peildatum aug 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 7/mnd per aansluiting<br><span style="color:#666;font-size:.82rem;">stroom + gas = € 14/mnd</span></td>
@@ -90,7 +90,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/easyenergy?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Eneco</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/eneco?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Eneco</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Product heet Eneco Dynamisch: uurprijzen stroom, dagprijs gas. Tarieven voor de volgende dag om 15:00 uur (stroom) en 19:00 uur (gas) in de app, met slimme notificaties. Slim laden laadt je auto automatisch tijdens de goedkoopste uren en kan gekoppeld worden aan je zonnepanelen. Grote leverancier met eigen servicekanalen.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -106,7 +106,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://energie.vanons.org/dynamisch-contract/" target="_blank" rel="noopener nofollow" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>energiedirect</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/energiedirect?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">energiedirect</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Uurtarieven stroom vanaf 13:00 uur en de gasprijs vanaf 18:00 uur — samen met Essent het vroegste publicatiemoment in deze tabel. De Regelneef-app geeft uurinzicht in je verbruik en prijzen, en Slim Laden laadt je auto automatisch tijdens gunstige uren. Slimme meter is voorwaarde. Let op de actievoorwaarde bij de nieuwe-klantkorting tot € 75: die geldt pas als je het dynamische contract minimaal twaalf maanden aanhoudt — dat botst met het idee dat je maandelijks vrij kunt schuiven.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -122,7 +122,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.energiek.nl/energie/dynamisch" target="_blank" rel="noopener nofollow" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>EnergyZero</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/energyzero?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">EnergyZero</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Sinds 1 januari 2026 kwartierprijzen in plaats van uurprijzen; gasdagprijs start om 06:00 uur, de prijs voor morgen komt rond 18:00 uur. Rekent geen marge, alleen beursprijs plus inkoopvergoeding. Stroometiket 2025: 66% Nederlandse zon en 34% Nederlandse wind. Let op: batterijsturing en slim laden staan op de eigen site als "binnenkort beschikbaar", net als het combipakket stroom + gas.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -130,7 +130,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/energyzero?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>ENGIE</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/engie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">ENGIE</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Uurprijzen stroom, dagprijs gas: je betaalt de marktprijs van dat moment plus een inkoopvergoeding. De prijzen van morgen staan vandaag al in de gratis energie-app. Met zonnepanelen betaal je geen terugleverkosten, maar wel een verkoopvergoeding op wat je teruglevert. Een slimme meter is verplicht. Over slim laden of batterijsturing staat op de contractpagina niets — wie automatische sturing wil, moet daar dus zelf naar vragen.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -138,7 +138,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/engie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Essent</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/essent?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Essent</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Uurtarieven stroom, zichtbaar vanaf 13:00 uur de dag ervoor — het vroegste publicatiemoment van de aanbieders in deze tabel. Tarieven te bekijken in de app, in Mijn Essent én op de website. Slim Laden activeer je zelf in de app onder "Regel zelf". Enige aanbieder die de opzegtermijn concreet in werkdagen noemt.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -146,7 +146,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/essent?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Frank Energie</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Frank Energie</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Je kiest zelf tussen uur- of kwartierprijzen. Diensten die ze zelf benoemen: Live prijzen, Prijsalerts, Slim Laden, Slim Handelen (handelen op de energiemarkt) en Slim Terugleveren, plus batterij-integratie zonder merk-lock-in. Let op: Frank heeft een aparte pagina over terugleverkosten met een staffel op basis van teruggeleverd volume — lees die als je zonnepanelen hebt.</td>
       <td style="padding:.7rem;vertical-align:top;">€ 0,0182/kWh<br><span style="color:#666;font-size:.82rem;">peildatum aug 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 7,25/mnd</td>
@@ -154,7 +154,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Greenchoice</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/greenchoice?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Greenchoice</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Kwartierprijzen stroom, dagprijs gas; de prijzen worden elke dag om 15:00 uur bekendgemaakt en zijn als kwartier- en dagprijs terug te zien in de app. Naast dynamisch heeft Greenchoice een variant Zon&amp;Wind Voordeeluren met het hele jaar lagere stroomtarieven op vaste momenten — handig als je dynamisch te onrustig vindt maar wel op tijdstip wilt schuiven. Teruglevering loopt via een verkoopvergoeding per kWh, met saldering op jaarbasis terwijl het uurtarief varieert.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -170,7 +170,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://groenestroomlokaal.nl/hoe-werkt-het" target="_blank" rel="noopener nofollow" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>NextEnergy</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/nextenergy?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">NextEnergy</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Rekent bewust met 24 uurprijzen (elk gebaseerd op vier kwartierprijzen) in plaats van 96 kwartierprijzen — overzichtelijker als je handmatig plant. Slim laden loopt via Jedlix en de auto-API, batterijstatus zit in de app, prijzen voor morgen rond 16:00 uur. Alleen een app, geen webportaal. Varianten met prijsplafond of vaste gasprijs kennen wél een opzegvergoeding.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -178,7 +178,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/nextenergy?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Oxxio</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/oxxio?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Oxxio</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Product heet Oxxio Dynamisch, met daarnaast een hybride variant: dynamische stroom gecombineerd met een vast gastarief. Uur- of kwartierprijzen voor stroom, dagprijs gas. Teruglevering krijgt het uurtarief van het moment dat je teruglevert; er zijn geen terugleverkosten, je betaalt "alleen een inkoop- of verkoopvergoeding afhankelijk van je persoonlijke situatie" — dus reken erop dat je eigen situatie het bedrag bepaalt. "Slim Seintje" stuurt pushberichten bij opvallende tarieven. Het publicatietijdstip van de dagtarieven staat niet op de pagina.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -186,7 +186,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/oxxio?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Powerpeers</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/powerpeers?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Powerpeers</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Drie varianten: Helemaal Dynamisch (stroom én gas dynamisch), Half Dynamisch (dynamische stroom met één jaar vaste gasprijs) en een vast contract. Bij Helemaal Dynamisch verandert de stroomprijs per kwartier en de gasprijs per dag; de prijzen zijn een dag vooraf bekend en staan rond 14:00 uur in de app, die ook meldt wanneer prijzen opvallend hoog of laag zijn. Geen vaste terugleverkosten — voor teruglevering krijg je de marktprijs van dat moment. Noemt de eigen inkoopvergoeding "een van de laagste inkoopvergoedingen van Nederland" zonder het bedrag te publiceren; dat is precies het soort claim dat je zelf in de aanmeldfunnel moet narekenen.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site<br><span style="color:#666;font-size:.82rem;">bedrag niet gepubliceerd</span></td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -194,7 +194,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/powerpeers?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Tibber</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/tibber?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Tibber</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Noemt het een "slim energiecontract": geen winstmarge op je verbruik, wel integraties met slimme apparaten en korting in de eigen store. App biedt live prijzen, verbruiksinzicht en automatisch laden en opslaan op het beste moment. Teruglevering krijgt de beursprijs van dat moment minus dezelfde vergoeding van € 0,0248/kWh. Slimme meter met uurmeting is vereist.</td>
       <td style="padding:.7rem;vertical-align:top;">€ 0,0248/kWh<br><span style="color:#666;font-size:.82rem;">peildatum aug 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 5,99/mnd per contract<br><span style="color:#666;font-size:.82rem;">stroom en gas zijn aparte contracten</span></td>
@@ -202,7 +202,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/tibber?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Vandebron</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/vandebron?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Vandebron</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Uurprijzen stroom vanaf 13:00 uur in de app, gasdagtarief rond 18:00 uur. Onderscheidt zich met Nederlandse herkomst: je kiest je eigen producent van wind-, zon- of bio-energie. Slim laden pauzeert en herstart je laadsessie op prijs, maar vraagt een eigen 3-fase laadpaal (10 kW) en een geschikte auto. Batterijsturing biedt Vandebron niet; ze noemen Solar Curtailment als alternatief.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -210,7 +210,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/vandebron?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Vattenfall</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/vattenfall?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Vattenfall</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Product heet FlexPrijs (FlexPrijsStroom en FlexPrijsGas). Uurprijzen stroom en de dagprijs gas staan elke dag om 15:00 uur in de Energie-app; Slim laden zit in dezelfde app en heeft eigen gebruiksvoorwaarden. Vermeldt zelf dat de inkoopvergoeding maximaal vier keer per jaar gewijzigd kan worden — relevant als je op tarief kiest.</td>
       <td style="padding:.7rem;vertical-align:top;">zie site<br><span style="color:#666;font-size:.82rem;">kan max. 4x/jaar wijzigen</span></td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
@@ -218,7 +218,7 @@ Deze pagina is de vergelijker: **23 Nederlandse aanbieders met een dynamisch con
       <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/vattenfall?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Zonneplan</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/zonneplan?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Zonneplan</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Stroomprijzen wisselen per kwartier, gas per dag; je ziet vandaag al de prijzen van morgen. App laat realtime verbruik en kosten zien, laadt slim als stroom goedkoop is en toont het percentage groene stroom per uur. Voor teruglevering: geen terugleverkosten, wel een Zonnebonus van 10% bovenop de kale marktprijs plus 2 cent per kWh extra.</td>
       <td style="padding:.7rem;vertical-align:top;">€ 0,02/kWh<br><span style="color:#666;font-size:.82rem;">gas € 0,08/m³, peildatum aug 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 6,25/mnd per product<br><span style="color:#666;font-size:.82rem;">stroom en gas apart</span></td>

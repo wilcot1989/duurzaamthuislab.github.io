@@ -56,84 +56,84 @@ Twee valkuilen in de kleine letters:
   </thead>
   <tbody>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>ANWB Energie</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/anwb-energie?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">ANWB Energie</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Dynamisch (uurprijzen)</td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Geen terugleverkosten.</strong> Eigen site: "zonder extra terugleverkosten of -boetes als je zonnepanelen hebt". Je ontvangt per uur exact het tarief dat je op dat moment voor afname zou betalen.</td>
       <td style="padding:.7rem;vertical-align:top;">20 aug 2026</td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.anwb.nl/energie/terugleverkosten-met-zonnepanelen" target="_blank" rel="noopener nofollow">anwb.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Budget Thuis</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/budget-thuis-energie?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Budget Thuis</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Vast en variabel<br><span style="color:#666;font-size:.82rem;">dynamisch apart, zie hieronder</span></td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Staffel, vast bedrag per dag</strong> op basis van jaarlijkse teruglevering. Gepubliceerde ankerpunten: schaal 1 (5–500 kWh) <strong>€ 0,07/dag</strong>, schaal 5 (2.000–2.500 kWh) <strong>€ 0,59/dag</strong>, schaal 10 (4.500–5.000 kWh) <strong>€ 1,38/dag</strong>, schaal 25 (vanaf 20.000 kWh) <strong>€ 7,73/dag</strong>. Tarieven per 16 dec 2025 gemiddeld 25% verlaagd. Vanaf 1 jan 2027 per kWh in plaats van per dag.<br><strong>Dynamisch: geen terugleverkosten</strong> ("Je betaalt geen terugleverkosten").</td>
       <td style="padding:.7rem;vertical-align:top;">20 aug 2026<br><span style="color:#666;font-size:.82rem;">tarieven per 16 dec 2025</span></td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.budgetthuis.nl/energie/terugleverkosten" target="_blank" rel="noopener nofollow">budgetthuis.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Eneco</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/eneco?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Eneco</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Variabel, vast en VoordeelMomenten</td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Vast tarief per teruggeleverde kWh</strong> — model wél gepubliceerd, bedrag niet: "In onze app en Mijn Eneco zie je de tarieven die voor jouw contract gelden". Bedrag: <em>zie site</em>.<br><strong>Eneco Dynamisch: geen terugleverkosten</strong>; je krijgt per uur hetzelfde leveringstarief als voor afname, wel een verkoopvergoeding over wat je méér teruglevert dan afneemt.</td>
       <td style="padding:.7rem;vertical-align:top;">Model 20 aug 2026<br><span style="color:#666;font-size:.82rem;">bedrag: zie site</span></td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.eneco.nl/klantenservice/terugleverkosten/" target="_blank" rel="noopener nofollow">eneco.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>energiedirect</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/energiedirect?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">energiedirect</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Variabel en vast<br><span style="color:#666;font-size:.82rem;">dynamisch apart, zie hieronder</span></td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Staffel, vast bedrag per dag.</strong> Gepubliceerde ankerpunten: 0–250 kWh <strong>€ 0,00/dag</strong>, 251–500 kWh <strong>€ 0,13367/dag</strong> (€ 4,07/mnd), 1.001–1.250 kWh <strong>€ 0,40059/dag</strong> (€ 12,19/mnd), vanaf 10.000 kWh <strong>€ 3,65069/dag</strong> (€ 111,04/mnd). Vast contract gestart vóór 1 jun 2024: pas na aflopen contract.<br><strong>Dynamisch: geen extra kosten voor teruglevering.</strong></td>
       <td style="padding:.7rem;vertical-align:top;">20 aug 2026<br><span style="color:#666;font-size:.82rem;">staffel per 1 jun / 1 jul 2024</span></td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.energiedirect.nl/klantenservice/terugleverkosten" target="_blank" rel="noopener nofollow">energiedirect.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>ENGIE</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/engie?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">ENGIE</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Vast en variabel</td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Vast bedrag per teruggeleverde kWh</strong> (niet meer per staffel). Bedrag niet publiek: "De hoogte van de terugleverkosten staat in je leveringsovereenkomst, aanbod, in MijnENGIE of in de ENGIE-app". Bedrag: <em>zie site</em>. ENGIE benoemt zelf dat terugleverkosten en terugleververgoeding los van elkaar verrekend worden.</td>
       <td style="padding:.7rem;vertical-align:top;">Model 20 aug 2026<br><span style="color:#666;font-size:.82rem;">bedrag: zie site</span></td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.engie.nl/product-advies/zonnepanelen/orientatie/terugleverkosten" target="_blank" rel="noopener nofollow">engie.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Essent</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/essent?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Essent</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Vast en variabel<br><span style="color:#666;font-size:.82rem;">wanneer je betaalt hangt af van je contractdatum</span></td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Staffel, vast bedrag per dag</strong> op basis van jaarlijkse teruglevering. Gepubliceerde ankerpunten (incl. btw): 0–250 kWh <strong>€ 0,00/dag</strong>, 251–500 kWh <strong>€ 0,13367/dag</strong> (€ 4,07/mnd), vanaf 10.000 kWh <strong>€ 3,65069/dag</strong> (€ 111,04/mnd). Terugleververgoeding <strong>€ 0,15000/kWh</strong>, verhoogd per 1 jul 2025. Vanaf 1 jan 2027 andere berekening.</td>
       <td style="padding:.7rem;vertical-align:top;">20 aug 2026<br><span style="color:#666;font-size:.82rem;">tarievenblad per 1 jan 2025</span></td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.essent.nl/zonnepanelen/kosten/terugleverkosten" target="_blank" rel="noopener nofollow">essent.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Frank Energie</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Frank Energie</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Vast en variabel</td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Staffel per jaar</strong> op basis van teruggeleverd volume, "zoals Frank Energie die vanaf 1 juni 2025 toepast bij vaste en variabele contracten". De staffeltabel staat op de eigen pagina als <strong>afbeelding</strong>, niet als tekst — daarom: <em>staffel, zie site</em>. De bedragen in de rekenvoorbeelden op die pagina zijn illustratief en nemen wij niet als tarief over.</td>
       <td style="padding:.7rem;vertical-align:top;">Model 20 aug 2026<br><span style="color:#666;font-size:.82rem;">bedragen: zie site</span></td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.frankenergie.nl/nl/terugleverkosten" target="_blank" rel="noopener nofollow">frankenergie.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Greenchoice</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/greenchoice?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Greenchoice</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Vast en variabel</td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Tarief per teruggeleverde kWh:</strong> "Je betaalt een tarief per kilowattuur (kWh) stroom die je teruglevert." Geldt voor nieuwe vaste of variabele contracten vanaf 20 jun 2024, en voor bestaande variabele contracten vanaf 1 aug 2024. Bedrag niet vrij toegankelijk gepubliceerd: <em>zie site</em>.</td>
       <td style="padding:.7rem;vertical-align:top;">Model 20 aug 2026<br><span style="color:#666;font-size:.82rem;">bedrag: zie site</span></td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.greenchoice.nl/klantenservice/terugleverkosten/" target="_blank" rel="noopener nofollow">greenchoice.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Oxxio</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/oxxio?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Oxxio</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Vast, variabel, dynamisch en hybride<br><span style="color:#666;font-size:.82rem;">eigen site noemt deze vier</span></td>
       <td style="padding:.7rem;vertical-align:top;"><strong>"Een vast bedrag per teruggeleverde kilowattuur (kWh)."</strong> Bedrag niet publiek: "Je persoonlijke tarieven en kosten vind je altijd terug in de Oxxio App of in Mijn Oxxio". Bedrag: <em>zie site</em>. Oxxio differentieert de gepubliceerde uitleg niet per contracttype.</td>
       <td style="padding:.7rem;vertical-align:top;">Model 20 aug 2026<br><span style="color:#666;font-size:.82rem;">bedrag: zie site</span></td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.oxxio.nl/klantenservice/terugleverkosten/" target="_blank" rel="noopener nofollow">oxxio.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Tibber</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/tibber?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Tibber</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Dynamisch (uur- of kwartierprijzen)</td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Geen aparte terugleverkosten, wél een verkoopvergoeding.</strong> Eigen site: je krijgt "de beursprijs voor je zonnestroom op het moment van teruglevering, minus de verkoopvergoeding van <strong>€ 0,0248 per kWh incl. btw</strong>".</td>
       <td style="padding:.7rem;vertical-align:top;">20 aug 2026</td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://tibber.com/nl/energiecontract" target="_blank" rel="noopener nofollow">tibber.com</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Vattenfall</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/vattenfall?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Vattenfall</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Variabel en vast vanaf 1 jul 2024<br><span style="color:#666;font-size:.82rem;">FlexPrijs apart, zie hieronder</span></td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Vaste terugleverkosten volgens staffel</strong>, sinds 1 jul 2024. Drempel: "Lever je minder terug dan 500 kWh, dan betaal je geen vaste terugleverkosten." Een vast contract dat vóór 1 jul 2024 startte betaalt niets zolang het loopt. De staffeltabel per 1 mei 2026 publiceert Vattenfall als los tarievendocument, niet als leesbare tekst op de pagina — daarom: <em>staffel, zie site</em>. Vanaf 1 jan 2027 gaat Vattenfall over op variabele terugleverkosten: "een bedrag per kWh".<br><strong>FlexPrijs (dynamisch): "betaal je nu geen vaste terugleverkosten".</strong></td>
       <td style="padding:.7rem;vertical-align:top;">Model 20 aug 2026<br><span style="color:#666;font-size:.82rem;">staffelbedragen: zie site (per 1 mei 2026)</span></td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.vattenfall.nl/zonnepanelen/vaste-terugleverkosten/" target="_blank" rel="noopener nofollow">vattenfall.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong>Zonneplan</strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/zonneplan?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Zonneplan</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Dynamisch (kwartierprijzen)</td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Geen terugleverkosten.</strong> Eigen site: "Duidelijk, Zonneplan rekent geen terugleverkosten" en "Nee, bij Zonneplan worden er geen kosten in rekening gebracht voor het terugleveren van zonnestroom, en dit zal ook in de toekomst zo blijven." Daarbovenop de Zonnebonus: "10% extra bovenop de kale marktprijs bij teruglevering én 2 cent extra per kWh".</td>
       <td style="padding:.7rem;vertical-align:top;">20 aug 2026</td>
