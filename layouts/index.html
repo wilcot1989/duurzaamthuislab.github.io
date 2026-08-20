@@ -136,64 +136,102 @@
 <!-- HET LAB — LIVE DATA & TOOLS -->
 <section style="padding:clamp(3rem,7vh,5rem) 0;background:var(--cream-soft);border-top:1px solid var(--ink-line);">
   <style>
-    .lab-groep { display:grid; grid-template-columns: 8.5rem 1fr; gap:0 1.5rem; border-top:2px solid var(--ink); }
-    .lab-groep + .lab-groep { margin-top:2.25rem; }
-    .lab-groeplabel { font-family:var(--mono); font-size:.68rem; letter-spacing:.24em; text-transform:uppercase; color:var(--terracotta); padding-top:1.1rem; }
-    .lab-rijen { display:block; }
-    .lab-rij { display:grid; grid-template-columns: 2.6rem 1fr auto; align-items:baseline; gap:1rem; padding:1.05rem .5rem 1.05rem 0; border-bottom:1px solid var(--ink-line); color:var(--ink); text-decoration:none; transition:background .15s; }
-    .lab-rij:hover { background:var(--cream); }
-    .lab-nr { font-family:var(--mono); font-size:.72rem; color:var(--ink-soft); letter-spacing:.06em; }
-    .lab-naam { font-family:var(--display); font-size:clamp(1.05rem,1.6vw,1.3rem); font-weight:500; letter-spacing:-.01em; }
-    .lab-naam em { font-style:italic; color:var(--terracotta); }
-    .lab-sub { display:block; font-family:var(--sans); font-size:.85rem; color:var(--ink-soft); margin-top:.25rem; line-height:1.45; }
-    .lab-pijl { font-family:var(--mono); font-size:.85rem; color:var(--ink-line); transition:color .15s, transform .15s; }
-    .lab-rij:hover .lab-pijl { color:var(--terracotta); transform:translateX(4px); }
-    .lab-live-dot { display:inline-block; width:7px; height:7px; border-radius:50%; background:var(--terracotta); margin-right:.45rem; vertical-align:2px; animation:labpuls 2.2s infinite; }
-    @keyframes labpuls { 0%,100%{opacity:1} 50%{opacity:.35} }
-    @media (max-width:640px){ .lab-groep{grid-template-columns:1fr;} .lab-groeplabel{padding:.9rem 0 .2rem;} }
+    .lab-hero { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:1.25rem; margin-bottom:1.25rem; }
+    .lab-herokaart { display:flex; flex-direction:column; justify-content:space-between; min-height:190px; padding:1.5rem 1.6rem; border-radius:3px; text-decoration:none; position:relative; overflow:hidden; transition:transform .18s, box-shadow .18s; }
+    .lab-herokaart:hover { transform:translateY(-3px); box-shadow:0 10px 30px rgba(26,26,26,.18); }
+    .lab-hero-donker { background:var(--ink); color:var(--cream); }
+    .lab-hero-groen { background:var(--forest); color:var(--cream); }
+    .lab-hero-terra { background:var(--terracotta); color:var(--cream); }
+    .lab-herochip { font-family:var(--mono); font-size:.62rem; letter-spacing:.2em; text-transform:uppercase; opacity:.75; }
+    .lab-herocijfer { font-family:var(--display); font-size:clamp(2rem,3.5vw,2.7rem); font-weight:500; line-height:1.05; margin:.5rem 0 .15rem; }
+    .lab-herocijfer small { font-size:.42em; font-weight:400; opacity:.75; }
+    .lab-heronaam { font-family:var(--sans); font-size:.95rem; font-weight:600; margin-top:auto; }
+    .lab-herosub { font-size:.82rem; opacity:.8; line-height:1.45; margin-top:.25rem; }
+    .lab-heropijl { position:absolute; top:1.3rem; right:1.4rem; font-family:var(--mono); opacity:.6; transition:transform .18s, opacity .18s; }
+    .lab-herokaart:hover .lab-heropijl { transform:translateX(4px); opacity:1; }
+    .lab-livedot { display:inline-block; width:8px; height:8px; border-radius:50%; background:#7ed6a5; margin-right:.45rem; vertical-align:1px; animation:labpuls 2.2s infinite; }
+    @keyframes labpuls { 0%,100%{opacity:1} 50%{opacity:.3} }
+    .lab-badge { position:absolute; top:1.15rem; right:1.3rem; font-family:var(--mono); font-size:.6rem; letter-spacing:.16em; text-transform:uppercase; background:rgba(250,247,240,.16); padding:.3rem .6rem; border-radius:999px; }
+    .lab-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(235px,1fr)); gap:1.25rem; }
+    .lab-blok { display:flex; flex-direction:column; gap:.5rem; background:var(--cream); border:1px solid var(--ink-line); border-left:3px solid var(--blokkleur,var(--terracotta)); border-radius:3px; padding:1.25rem 1.35rem 1.15rem; color:var(--ink); text-decoration:none; transition:transform .18s, box-shadow .18s, border-color .18s; }
+    .lab-blok:hover { transform:translateY(-3px); box-shadow:0 8px 22px rgba(26,26,26,.1); }
+    .lab-blokchip { font-family:var(--mono); font-size:.6rem; letter-spacing:.2em; text-transform:uppercase; color:var(--blokkleur,var(--terracotta)); }
+    .lab-bloknaam { font-family:var(--display); font-size:1.15rem; font-weight:500; line-height:1.2; letter-spacing:-.01em; }
+    .lab-bloksub { font-size:.85rem; color:var(--ink-soft); line-height:1.45; }
+    .lab-blokpijl { margin-top:auto; font-family:var(--mono); font-size:.8rem; color:var(--blokkleur,var(--terracotta)); opacity:0; transform:translateX(-4px); transition:opacity .18s, transform .18s; }
+    .lab-blok:hover .lab-blokpijl { opacity:1; transform:none; }
   </style>
   <div class="container">
     <div style="font-family:var(--mono);font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--terracotta);margin-bottom:.75rem;">— 02 / Het lab</div>
     <h2 style="font-family:var(--display);font-size:clamp(1.6rem,3vw,2.25rem);line-height:1.1;font-weight:400;letter-spacing:-.02em;color:var(--ink);margin-bottom:.5rem;">Live data &amp; <em style="font-style:italic;color:var(--terracotta);">rekentools</em></h2>
-    <p style="font-family:var(--display);color:var(--ink-soft);font-size:1rem;max-width:44rem;margin-bottom:2.5rem;">Wij meten en archiveren de energiemarkt elke dag in ons eigen lab-archief — beursprijzen per uur, gasprijzen en zonverwachting. Alles live, alles narekenbaar, aan niets kunnen rechten worden ontleend.</p>
+    <p style="font-family:var(--display);color:var(--ink-soft);font-size:1rem;max-width:44rem;margin-bottom:2rem;">Wij meten en archiveren de energiemarkt elke dag in ons eigen lab-archief. Alles live, alles narekenbaar — aan niets kunnen rechten worden ontleend.</p>
 
-    {{ $groepen := slice
-      (dict "label" "Meten" "tools" (slice
-        (dict "url" "/stroomprijzen/" "naam" "Stroomprijzen <em>vandaag &amp; morgen</em>" "sub" "Uurprijzen live, goedkoopste en duurste uren, actiemomenten" "live" true)
-        (dict "url" "/gasprijs/" "naam" "Gasprijs vandaag" "sub" "Dagprijs per m³ plus de prijs van morgen" "live" true)
-        (dict "url" "/stroomprijzen-historie/" "naam" "Prijshistorie" "sub" "Maand- en daggemiddelden; elke dag terug te kijken tot 2014")
-        (dict "url" "/negatieve-stroomprijzen/" "naam" "Negatieve stroomprijzen" "sub" "Live telling van uren onder nul, vandaag en morgen" "live" true)))
-      (dict "label" "Rekenen" "tools" (slice
-        (dict "url" "/beste-tijd-wasmachine/" "naam" "Beste tijd voor de wasmachine" "sub" "Goedkoopste 2-uursblok van vandaag en morgen")
-        (dict "url" "/zonnepanelen-opbrengst-berekenen/" "naam" "Opbrengst zonnepanelen" "sub" "Jouw installatie × de instralingsverwachting per dag")
-        (dict "url" "/thuisbatterij-terugverdientijd-vergelijken/" "naam" "Terugverdientijd <em>per batterij</em>" "sub" "11 modellen doorgerekend op ons eigen prijsarchief")
-        (dict "url" "/terugverdientijd-thuisbatterij/" "naam" "Terugverdientijd thuisbatterij" "sub" "Het volledige rekenmodel met aanpasbare aannames")
-        (dict "url" "/powerstation-calculator/" "naam" "Powerstation-calculator" "sub" "Runtime én piekvermogen-check per model")
-        (dict "url" "/warmtepomp-kosten-berekenen/" "naam" "Warmtepomp-besparing" "sub" "Reken met de gas- en stroomprijs van vandaag" "live" true)))
-      (dict "label" "Vergelijken" "tools" (slice
-        (dict "url" "/dynamisch-energiecontract-vergelijken/" "naam" "Dynamische contracten" "sub" "23 aanbieders naast elkaar, vendor-geverifieerd")
-        (dict "url" "/terugleverkosten-vergelijken/" "naam" "Terugleverkosten" "sub" "12 leveranciers met peildatum — nergens anders te vinden")
-        (dict "url" "/installateur-kiezen/" "naam" "Installateur kiezen" "sub" "Checklist en offertevragen")))
-      (dict "label" "Delen" "tools" (slice
-        (dict "url" "/embed-codes/" "naam" "Embed-widgets" "sub" "Onze live prijzen en rekentools gratis op jouw site")))
-    }}
-    {{ $nr := 0 }}
-    {{ range $groepen }}
-    <div class="lab-groep">
-      <div class="lab-groeplabel">{{ .label }}</div>
-      <div class="lab-rijen">
-        {{ range .tools }}{{ $nr = add $nr 1 }}
-        <a href="{{ .url }}" class="lab-rij">
-          <span class="lab-nr">{{ printf "%02d" $nr }}</span>
-          <span><span class="lab-naam">{{ if .live }}<span class="lab-live-dot"></span>{{ end }}{{ .naam | safeHTML }}</span><span class="lab-sub">{{ .sub }}</span></span>
-          <span class="lab-pijl">&rarr;</span>
-        </a>
-        {{ end }}
-      </div>
+    <div class="lab-hero">
+      <a href="/stroomprijzen/" class="lab-herokaart lab-hero-donker">
+        <span class="lab-herochip"><span class="lab-livedot"></span>Live · stroom</span>
+        <div class="lab-herocijfer" id="labhero-stroom">— <small>/kWh</small></div>
+        <div class="lab-heronaam">Stroomprijzen vandaag &amp; morgen</div>
+        <div class="lab-herosub">Uurprijzen, goedkoopste &amp; duurste uren, actiemomenten</div>
+        <span class="lab-heropijl">&rarr;</span>
+      </a>
+      <a href="/gasprijs/" class="lab-herokaart lab-hero-groen">
+        <span class="lab-herochip"><span class="lab-livedot"></span>Live · gas</span>
+        <div class="lab-herocijfer" id="labhero-gas">— <small>/m³</small></div>
+        <div class="lab-heronaam">Gasprijs vandaag</div>
+        <div class="lab-herosub">Dagprijs per m³ plus de prijs van morgen</div>
+        <span class="lab-heropijl">&rarr;</span>
+      </a>
+      <a href="/terugleverkosten-vergelijken/" class="lab-herokaart lab-hero-terra">
+        <span class="lab-badge">Nergens anders</span>
+        <span class="lab-herochip">Vergelijker</span>
+        <div class="lab-herocijfer">12 <small>leveranciers</small></div>
+        <div class="lab-heronaam">Terugleverkosten vergelijken</div>
+        <div class="lab-herosub">Vendor-geverifieerd met peildatum — dé zorgvraag richting 2027</div>
+        <span class="lab-heropijl">&rarr;</span>
+      </a>
     </div>
-    {{ end }}
+
+    <div class="lab-grid">
+      {{ $blokken := slice
+        (dict "url" "/negatieve-stroomprijzen/" "groep" "Meten" "kleur" "var(--terracotta)" "naam" "Negatieve stroomprijzen" "sub" "Live telling van uren onder nul, vandaag en morgen")
+        (dict "url" "/stroomprijzen-historie/" "groep" "Meten" "kleur" "var(--terracotta)" "naam" "Prijshistorie" "sub" "Elke dag terug te kijken tot 2014")
+        (dict "url" "/beste-tijd-wasmachine/" "groep" "Rekenen" "kleur" "var(--forest)" "naam" "Beste tijd wasmachine" "sub" "Goedkoopste 2-uursblok van vandaag en morgen")
+        (dict "url" "/zonnepanelen-opbrengst-berekenen/" "groep" "Rekenen" "kleur" "var(--forest)" "naam" "Opbrengst zonnepanelen" "sub" "Jouw installatie × de verwachting per dag")
+        (dict "url" "/thuisbatterij-terugverdientijd-vergelijken/" "groep" "Rekenen" "kleur" "var(--forest)" "naam" "Terugverdientijd per batterij" "sub" "11 modellen op ons eigen prijsarchief")
+        (dict "url" "/terugverdientijd-thuisbatterij/" "groep" "Rekenen" "kleur" "var(--forest)" "naam" "Batterij-rekenmodel" "sub" "Alle aannames zelf aanpasbaar")
+        (dict "url" "/powerstation-calculator/" "groep" "Rekenen" "kleur" "var(--forest)" "naam" "Powerstation-calculator" "sub" "Runtime én piekvermogen-check per model")
+        (dict "url" "/warmtepomp-kosten-berekenen/" "groep" "Rekenen" "kleur" "var(--forest)" "naam" "Warmtepomp-besparing" "sub" "Met de gas- en stroomprijs van vandaag")
+        (dict "url" "/dynamisch-energiecontract-vergelijken/" "groep" "Vergelijken" "kleur" "var(--terracotta)" "naam" "Dynamische contracten" "sub" "23 aanbieders naast elkaar, vendor-geverifieerd")
+        (dict "url" "/installateur-kiezen/" "groep" "Vergelijken" "kleur" "var(--terracotta)" "naam" "Installateur kiezen" "sub" "Checklist en offertevragen")
+        (dict "url" "/embed-codes/" "groep" "Delen" "kleur" "var(--ink)" "naam" "Embed-widgets" "sub" "Onze prijzen en tools gratis op jouw site")
+      }}
+      {{ range $blokken }}
+      <a href="{{ .url }}" class="lab-blok" style="--blokkleur: {{ .kleur }};">
+        <span class="lab-blokchip">{{ .groep }}</span>
+        <span class="lab-bloknaam">{{ .naam }}</span>
+        <span class="lab-bloksub">{{ .sub }}</span>
+        <span class="lab-blokpijl">Open &rarr;</span>
+      </a>
+      {{ end }}
+    </div>
   </div>
 </section>
+<script>
+(function(){
+  fetch('https://beheer.wtdigital.nl/api/public/stroomprijzen').then(function(r){return r.json();}).then(function(d){
+    if(!d.uren||!d.uren.length)return;
+    var uurNu=parseInt(new Date().toLocaleString('nl-NL',{timeZone:'Europe/Amsterdam',hour:'2-digit',hour12:false}),10);
+    var nu=null;
+    d.uren.forEach(function(u){var dt=new Date(d.datum+'T'+String(u.uur).padStart(2,'0')+':00:00Z');var lokaal=parseInt(dt.toLocaleTimeString('nl-NL',{timeZone:'Europe/Amsterdam',hour:'2-digit',hour12:false}),10);if(lokaal===uurNu)nu=u.prijs;});
+    if(nu===null)nu=d.uren[d.uren.length-1].prijs;
+    document.getElementById('labhero-stroom').innerHTML='€ '+nu.toFixed(3)+' <small>/kWh nu · kaal</small>';
+  }).catch(function(){});
+  fetch('https://beheer.wtdigital.nl/api/public/gasprijs').then(function(r){return r.json();}).then(function(d){
+    if(typeof d.prijs_m3!=='number')return;
+    document.getElementById('labhero-gas').innerHTML='€ '+d.prijs_m3.toFixed(2)+' <small>/m³ vandaag · kaal</small>';
+  }).catch(function(){});
+})();
+</script>
 
 <!-- FEATURED ARTICLE — saldering-stopt -->
 {{ $featured := where $allPosts "File.LogicalName" "saldering-stopt-2027-volledige-gids.md" }}
