@@ -35,7 +35,7 @@ faq:
 - q: Welke certificering heeft een goede installateur nodig?
   a: Zoek op certificeringen van Vakbekwaamheidspaspoort PV (VP PV), erkend installateur SEIA, of MCS-certificering bij Brits werk. Zorg dat de installateur erkend staat bij de netbeheerder voor het aanmelden van de installatie (SDE++, teruglevering).
 - q: Wat is het voordeel van Zonneplan ten opzichte van losse installateurs?
-  a: Zonneplan werkt met een netwerk van gecertificeerde installateurs en biedt prijstransparantie via een online offerte-tool. Ze regelen zelf de aanmelding bij de netbeheerder en de subsidieaanvraag (ISDE). Handig als je niet wilt onderhandelen met meerdere aanbieders.
+  a: Zonneplan werkt met een netwerk van gecertificeerde installateurs en biedt prijstransparantie via een online offerte-tool. Ze regelen zelf de aanmelding bij de netbeheerder. Let wel op dat er voor zonnepanelen geen ISDE-subsidie bestaat om aan te vragen — het financiële voordeel loopt via het btw-nultarief, dat de installateur direct in de prijs verwerkt. Handig als je niet wilt onderhandelen met meerdere aanbieders.
 - q: Loont DIY zonnepanelen financieel?
   a: Op papier spaar je €800–€1.500 installatiekosten. Maar je bent zelf verantwoordelijk voor de netaanmelding, riskeert garantieverlies op omvormer en panelen, en draagt alle aansprakelijkheid bij fouten. Voor de meeste huiseigenaren wegen de voordelen niet op tegen de risico's.
 products:
@@ -90,9 +90,13 @@ Je bent wettelijk verplicht je zonnepanelen aan te melden bij je netbeheerder (A
 
 Bij een DIY-installatie waarbij je zelf aanmeldt, riskeer je dat de netbeheerder de installatie afkeurt en ter plaatse opnieuw laat keuren door een erkende partij.
 
-### ISDE-subsidie: installateur verplicht?
+### Subsidie en btw: maakt de installateur uit?
 
-De ISDE-subsidie voor zonneboilers en warmtepompen geldt niet voor zonnepanelen (alleen voor erkende energie-opslag en warmte). De salderingsregeling vervalt per 2027, maar er geldt tot die tijd geen expliciete eis dat de installateur erkend moet zijn voor teruglevering.
+Voor zonnepanelen bestaat geen ISDE-subsidie. De ISDE dekt voor woningeigenaren isolatie, ventilatie (i.c.m. isolatie, vanaf 2026), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — geen panelen, geen thuisbatterijen, geen laadpalen. Er is dus ook geen erkenningseis vanuit de ISDE voor je paneelinstallateur.
+
+Wat wél verschil maakt, is de btw. Het nultarief geldt voor de levering én installatie van zonnepanelen op of bij een woning, inclusief de goederen en werkzaamheden die daarvoor direct nodig zijn (kabels, montagemateriaal, optimizers, omvormer, aanpassingen aan meterkast en dak). Koop je losse panelen bij een webshop en leg je ze zelf aan, dan is dat geen levering-met-installatie bij een woning en kan de verkoper 21% btw rekenen. Vraag dus vooraf hoe de verkoper het tarief toepast; dat verschil van 21% weegt zwaar mee in de DIY-versus-installateur-afweging. Voor een thuisbatterij geldt overigens altijd 21% btw — de Belastingdienst sluit accupakketten en thuisbatterijen uitdrukkelijk uit van het nultarief.
+
+De salderingsregeling vervalt per 2027, maar er geldt tot die tijd geen expliciete eis dat de installateur erkend moet zijn voor teruglevering.
 
 Wel geldt: de Milieu-investeringsaftrek (MIA) en VAMIL voor zakelijke installaties vereisen een gecertificeerde installateur.
 
@@ -418,4 +422,4 @@ Een installatie die goed wordt gemonitord gaat aantoonbaar langer mee en levert 
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE](https://www.rvo.nl/subsidies-financiering/isde) — de actuele lijst met maatregelen die onder de ISDE vallen (zonnepanelen staan er niet op).

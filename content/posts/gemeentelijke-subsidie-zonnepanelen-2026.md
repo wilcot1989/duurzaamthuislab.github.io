@@ -1,7 +1,7 @@
 ---
 title: 'Gemeentelijke subsidie zonnepanelen 2026: per provincie'
 date: 2026-06-14 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Welke gemeenten en provincies geven nog subsidie op zonnepanelen in 2026? Volledig overzicht plus aanvraagvolgorde.
 categories:
 - zonne-energie
@@ -63,6 +63,8 @@ Dit artikel geeft u een eerlijk beeld van wat er in 2026 daadwerkelijk beschikba
 > **Kort antwoord:** Welke gemeenten en provincies geven nog subsidie op zonnepanelen in 2026? Volledig overzicht plus aanvraagvolgorde.
 >
 > Op nationaal niveau zijn er in 2026 geen directe subsidies meer voor particulieren die zonnepanelen aanschaffen. De salderingsregeling loopt door tot 2027, maar die is geen subsidie — het is een verrekening van teruggeleverde stroom. De BTW op zonnepanelen is 0% voor particulieren (geïntroduceerd in 2023 en verlengd). Verder: geen ISDE voor zonnepanelen, geen nationale aanschafsubsidie.
+
+**Zoekt u het volledige subsidieoverzicht voor heel Nederland?** Deze pagina gaat over de regelingen van gemeenten en provincies. De landelijke regels — 0% btw, saldering, ISDE, en wat er per 2027 verandert — staan in onze hoofdgids: **[zonnepanelen subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/)**. Begin daar, en kom hier terug voor wat úw gemeente of provincie er nog bovenop doet.
 
 ## Het nationale beeld: wat is er in 2026?
 

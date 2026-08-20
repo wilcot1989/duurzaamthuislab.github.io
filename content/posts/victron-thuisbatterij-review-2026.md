@@ -1,7 +1,7 @@
 ---
 title: 'Victron Thuisbatterij Review 2026: Premium Off-grid'
 date: 2026-07-05 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Victron Energy thuisbatterij review: de MultiPlus II met Lynx Smart BMS. Voor- en nadelen, prijs, betrouwbaarheid en geschikt voor wie?'
 draft: false
 categories:
@@ -115,7 +115,7 @@ Totaalkosten:
 - Arbeidskosten: €1.600
 - **Totaal: €9.400 inclusief BTW**
 
-Vergelijk met Sessy 10 kWh all-in: €5.995. Victron is 56% duurder. Met Pylontech hardware in plaats van Victron LFP zou je ~€2.000 besparen.
+Vergelijk met Sessy 10 kWh: €5.500 incl. btw, exclusief installatie (prijspeil aug 2026); met een basisinstallatie met noodstroom (€1.200) kom je op circa €6.700. Victron is daarmee circa 40% duurder. Met Pylontech hardware in plaats van Victron LFP zou je ~€2.000 besparen.
 
 ## VRM portal: het beste van alle merken
 
@@ -187,7 +187,7 @@ Geen gestroomlijnde "all-in-one" oplossing. Je bestelt 5 componenten, montage is
 | Systeem | Bruikbaar | Totaal install | €/kWh | Backup | Programmeerbaar |
 |---------|-----------|---------------|-------|--------|-----------------|
 | Victron MultiPlus II + 10,2 kWh LFP | 9,6 kWh | €9.400 | €979 | Top | Maximaal |
-| Sessy 10 kWh | 9,6 kWh | €5.995 | €625 | Ja (manueel) | Beperkt |
+| Sessy 10 kWh | 9,6 kWh | €6.700 (€5.500 + €1.200 basisinstallatie) | €698 | Ja (manueel) | Beperkt |
 | BYD HVS 10.2 + omvormer | 10,24 kWh | €10.200 | €996 | Optioneel | Via HA |
 | Pylontech US5000 ×2 + Deye | 9,12 kWh | €6.070 | €665 | Ja | Via HA |
 | Tesla Powerwall 3 | 13,5 kWh | €9.500 | €704 | Geïntegreerd | Beperkt |
@@ -335,4 +335,4 @@ Victron biedt als enige NL-merk standaard ondersteuning voor V2G (vehicle-to-gri
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

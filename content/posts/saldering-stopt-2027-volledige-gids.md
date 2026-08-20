@@ -258,13 +258,13 @@ Om te laten zien hoe de drie maatregelen samen uitpakken, rekenen we een complee
 
 **Aannames en maatregelen:**
 1. **Dynamisch contract** in plaats van vast contract — voordeel volgens marktcijfers voor dit verbruiksprofiel: €200-€400 per jaar.
-2. **Thuisbatterij 10 kWh** (prijspeil april 2026: €5.500-€6.500 inclusief installatie), met een gemeentelijke subsidie waar die beschikbaar is (vaak €300-€500).
+2. **Thuisbatterij 10 kWh** (prijspeil april 2026: €5.500-€6.500 inclusief installatie en 21% btw — op een thuisbatterij geldt het btw-nultarief voor zonnepanelen niet), eventueel met een gemeentelijke subsidie waar die beschikbaar is (vaak €300-€500). Een landelijke subsidie op batterijen bestaat niet: de ISDE dekt ze niet.
 3. **Slimme sturing** via Home Assistant of een vergelijkbaar systeem: boiler en witgoed op gunstige tarieven.
 
 **Uitkomst van het model:**
 - Eigen verbruik stijgt van circa 60% naar 85-90% van de opwek
 - Gecombineerd voordeel: €900-€1.200 per jaar ten opzichte van niets doen na 2027
-- Netto-investering na subsidie: circa €5.300 → terugverdientijd 6 tot 8 jaar
+- Netto-investering na een eventuele gemeentelijke subsidie: €5.200-€6.200 → rekenkundige terugverdientijd circa 4,5 tot 7 jaar. Zonder gemeentelijke regeling schuift dat op naar 4,5 tot 7,5 jaar
 
 Uitkomsten in de praktijk wijken af door tarieven, weer en gedrag. Reken daarom altijd met je eigen jaarafrekening.
 
@@ -342,7 +342,7 @@ Onderstaand rekenvoorbeeld is een **modelberekening**, geen praktijkmeting. Prof
 - Prognose 2027 zonder maatregelen: circa €2.180 per jaar
 
 Maatregelen in het model:
-- Thuisbatterij 5 kWh (prijsniveau €2.900-€3.500 inclusief btw-teruggaaf voor de PV-installatie waar die van toepassing is)
+- Thuisbatterij 5 kWh (prijsniveau €2.900-€3.500 inclusief 21% btw, exclusief installatie; het btw-nultarief voor zonnepanelen geldt niet voor een accupakket of thuisbatterij)
 - Overstap naar een dynamisch contract: €0 investering
 - Slim laden van de EV op lage uurtarieven: €0 investering
 

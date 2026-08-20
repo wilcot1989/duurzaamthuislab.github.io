@@ -1,7 +1,7 @@
 ---
 title: 'Beste laadpaal thuis 2026: Easee vs Wallbox vs Alfen vergeleken'
 date: 2026-09-02 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Welke thuislaadpaal is in 2026 de beste keuze? Easee Charge Lite, Wallbox Pulsar Plus en Alfen Eve vergeleken op prijs, smart features, app en installatie.
 categories:
 - elektrisch rijden
@@ -24,7 +24,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1593941707882-a5bba14938c7&w=1200&output=webp&q=70
 faq:
 - q: 'Wat kost een laadpaal thuis in 2026?'
-  a: 'Easee Charge Lite €549, Wallbox Pulsar Plus €699, Alfen Eve Single Pro-line €1.150. Installatie tussen €450-€850 afhankelijk van afstand meterkast tot laadpaal. Met ISDE/MIA aftrek voor zakelijke leasers nog 14% korting. Totaal voor particulier: €1.000-€2.000 inclusief installatie.'
+  a: 'Easee Charge Lite €549, Wallbox Pulsar Plus €699, Alfen Eve Single Pro-line €1.150. Installatie tussen €450-€850 afhankelijk van afstand meterkast tot laadpaal. Voor zakelijke rijders kan fiscale aftrek (MIA/KIA) de netto kosten drukken; de ISDE geldt niet voor laadpalen. Totaal voor particulier: €1.000-€2.000 inclusief installatie.'
 - q: 'Welke laadpaal is in 2026 de slimste keuze qua prijs-kwaliteit?'
   a: 'Easee Charge Lite voor de meeste mensen: €549, automatische load balancing, dynamische tariefintegratie via Tibber/Frank Energie, 3 jaar garantie. Wallbox Pulsar Plus is vergelijkbaar maar €150 duurder. Alfen Eve is bedrijfsmatig de beste keuze (Smart Meter integratie + lokaal Nederlands merk) maar dubbel zo duur.'
 - q: 'Werken Easee, Wallbox en Alfen samen met dynamische stroomcontracten?'
@@ -68,7 +68,7 @@ Hieronder vergelijken we ze op specificaties, installatie-eisen, integratie met 
 
 > **Kort antwoord:** Welke thuislaadpaal is in 2026 de beste keuze? Easee Charge Lite, Wallbox Pulsar Plus en Alfen Eve vergeleken op prijs, smart features, app en installatie.
 >
-> Easee Charge Lite €549, Wallbox Pulsar Plus €699, Alfen Eve Single Pro-line €1.150. Installatie tussen €450-€850 afhankelijk van afstand meterkast tot laadpaal. Met ISDE/MIA aftrek voor zakelijke leasers nog 14% korting. Totaal voor particulier: €1.000-€2.000 inclusief installatie.
+> Easee Charge Lite €549, Wallbox Pulsar Plus €699, Alfen Eve Single Pro-line €1.150. Installatie tussen €450-€850 afhankelijk van afstand meterkast tot laadpaal. Voor zakelijke rijders kan fiscale aftrek (MIA/KIA) de netto kosten drukken; de ISDE geldt niet voor laadpalen. Totaal voor particulier: €1.000-€2.000 inclusief installatie.
 
 ## Waarop we vergelijken
 
@@ -345,11 +345,11 @@ Verder lezen op DuurzaamThuisLab:
 - [Thuisbatterij vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/)
 - [Beste energiemonitor P1-meter](/posts/beste-energiemonitor-p1-meter-2026/)
 
-## NL-specifiek: NEN1010, ISDE en BTW-teruggave
+## NL-specifiek: NEN1010, subsidie en BTW-teruggave
 
 Iedere laadpaal in Nederland moet voldoen aan NEN1010 (laagspanningsinstallaties) en NEN-EN-IEC 61851 (laadstations). Dat klinkt formeel, maar het komt erop neer dat je laadpaal door een gecertificeerde installateur aangesloten en gekeurd moet zijn — anders dekt je verzekering een eventuele brand niet. Bij verkoop van je woning vraagt de notaris steeds vaker om de NEN1010-VP-keuringsrapportage; zonder dat document daalt de waarde van je laadpaal-installatie naar nul.
 
-ISDE en RVO geven sinds eind 2024 geen subsidie meer op particuliere laadpalen, maar wel op zakelijke laadinfrastructuur via SEEH/SEB-regelingen. Voor zelfstandigen met een lease-EV op zaakauto kun je de laadpaal volledig aftrekken (KIA + MIA samen tot 36% fiscaal voordeel). De BTW van 21% is bovendien terug te vorderen wanneer je auto als zakelijk geregistreerd staat — bij een installatie van €1.500 betekent dat €260 directe teruggave. Veel installateurs splitsen daarom de factuur in een arbeidsdeel (waar BTW moeilijker is) en een productdeel (waar het wel kan).
+Voor particuliere laadpalen is er geen landelijke subsidie: de ISDE heeft laadpalen nooit gedekt (die regeling gaat voor woningeigenaren over isolatie, ventilatie, warmtepompen, zonneboilers, warmtenetaansluiting en elektrisch koken), en de aparte particuliere regelingen zijn gestopt. Voor zakelijke laadinfrastructuur bestaan wel aparte regelingen; check die op rvo.nl. Voor zelfstandigen met een lease-EV op zaakauto kun je de laadpaal volledig aftrekken (KIA + MIA samen tot 36% fiscaal voordeel). De BTW van 21% is bovendien terug te vorderen wanneer je auto als zakelijk geregistreerd staat — bij een installatie van €1.500 betekent dat €260 directe teruggave. Veel installateurs splitsen daarom de factuur in een arbeidsdeel (waar BTW moeilijker is) en een productdeel (waar het wel kan).
 
 Bouwbesluit eist sinds 2020 dat nieuwbouwwoningen een voorinstallatie hebben voor een laadpaal (loze leiding van meterkast naar parkeerplaats). Veel bouwers leveren dit standaard maar te dunne kabels (2,5 mm² waar 4 mm² nodig is bij 32A). Check dit bij oplevering — anders kost herstellen €600-€900 achteraf.
 
@@ -391,4 +391,4 @@ Uit installatiehandleidingen en gebruikersreviews komen drie punten die het vaak
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van wat de ISDE wel en niet dekt (laadpalen en thuisbatterijen vallen er niet onder).

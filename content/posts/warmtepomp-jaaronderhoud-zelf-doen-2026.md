@@ -1,7 +1,7 @@
 ---
 title: 'Warmtepomp jaaronderhoud: wat doe je zelf, wat de monteur?'
 date: '2026-08-20 08:00:00+02:00'
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
 description: Welk warmtepomp-onderhoud doe je zelf en wat hoort bij de jaarservice? Checklist, kosten, en wat installateurs vergeten te vertellen.
 categories:
@@ -104,7 +104,7 @@ Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is ove
 
 Onze aanbeveling per scenario:
 
-- **Klein huis, geen EV:** Quatt warmtepomp — €3.795 voor 5 kWh, in 6-8 jaar terugverdiend.
+- **Klein huis, geen EV:** een hybride warmtepomp zoals Quatt — Quatt publiceert geen vaste prijslijst, de prijs komt uit de configurator op quatt.io na een woningcheck; reken op een terugverdientijd die vooral van je gasverbruik afhangt. Voor een 5 kWh thuisbatterij als alternatief: marktprijs vanaf circa €3.550 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites).
 - **Middelgroot, 1 EV:** 10 kWh batterij + slim laden via Tibber.
 - **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg ATAG warmtepomp.
 
@@ -120,7 +120,8 @@ Realistische cijfers voor 2026, exclusief eventuele subsidies:
 
 | Onderdeel | Kosten | Terugverdientijd |
 |---|---|---|
-| Quatt warmtepomp basis | €3.795-€5.995 | 6-8 jaar |
+| Quatt warmtepomp basis | prijs via configurator quatt.io (geen publieke prijslijst) | hangt af van gasverbruik |
+| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
 | P1-meter (HomeWizard) | €99 | < 1 jaar |
 | Home Assistant Yellow | €199 | n.v.t. (tool) |
 | Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
@@ -173,7 +174,7 @@ Dan zijn je opties beperkter, maar niet nul. Zie [onze huurwoning-guide](/posts/
 
 Wij adviseren stapsgewijs verduurzamen: begin met meten, voeg dan een slim product toe en bouw daar het platform omheen. Niet andersom.
 
-Onze concrete aanbeveling voor 2026: start met <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> en koppel het aan je dynamisch contract. Investering €3.795-€5.995, terugverdientijd 6-8 jaar, levensduur 15-20 jaar. Geen vendor lock-in.
+Onze concrete aanbeveling voor 2026: start met <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a> en koppel het aan je dynamisch contract. Quatt geeft geen publieke prijslijst — vraag je prijs op via de configurator op quatt.io. Voor de hardwarekant als referentie: een thuisbatterij van 5-10 kWh kost circa €3.550-€5.500 (prijspeil aug 2026, Sessy via sessy.nl, incl. btw en excl. installatie), met in modelberekeningen 6-8 jaar terugverdientijd en 15-20 jaar levensduur. Geen vendor lock-in.
 
 Verder lezen: [overzicht artikelen](/posts/cv-ketel-onderhoudscontract-2026-zin/), [gedetailleerde rekenmodellen](/posts/beste-omvormer-zonnepanelen-2026/) en [praktijkervaringen](/posts/huawei-luna-2000-review-2026/).
 

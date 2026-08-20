@@ -237,14 +237,14 @@ Een punt dat vaak over het hoofd wordt gezien: **beide leveranciers vragen een b
 | Marge op EPEX-prijs | Geen | Geen |
 | Contractduur | Maandelijks opzegbaar | Maandelijks opzegbaar |
 | App-kwaliteit | 9/10 — best in class | 6/10 — functioneel |
-| Realtime verbruik | Ja (met Pulse €90) | Nee |
+| Realtime verbruik | Ja (met Pulse — prijs: zie Tibber Store) | Nee |
 | Prijsverwachting 24u | Ja | Ja |
 | EV slim laden native | Ja — 20+ automerken | Nee |
 | Smart home API | Uitstekend (Tibber API) | Beperkt |
 | Sessy-integratie | Direct native | Via Home Assistant |
 | Marstek-integratie | Via HA | Via HA |
 | Thuisbatterij arbitrage | Automatisch | Handmatig (HA) |
-| Tibber Pulse | Ja, €90 eenmalig | N.v.t. |
+| Tibber Pulse | Ja, los te koop (prijs: zie Tibber Store) | N.v.t. |
 | Klantenservice telefoon | Nee (alleen nood) | Ja, werkdagen |
 | Klantenservice chat | Ja | Ja |
 | Bedrijfsland | Noorwegen | Nederland |
@@ -315,7 +315,7 @@ Nu telt slim laden mee.
 | **Totaal EV + huishoud** | **€882** | **€1.301,88** |
 | **Verschil** | | **€419,88/jaar voordeel Tibber** |
 
-Dat verschil is de kern van de keuze: heb je een EV, dan verdient de Tibber Pulse (€90 eenmalig) zich uit de besparing op laadkosten in minder dan drie maanden terug.
+Dat verschil is de kern van de keuze: heb je een EV, dan verdient de Tibber Pulse (prijs: zie Tibber Store) zich doorgaans snel terug uit de besparing op laadkosten.
 
 ---
 

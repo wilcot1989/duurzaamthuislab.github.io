@@ -1,7 +1,7 @@
 ---
 title: Huawei Luna vs Tesla Powerwall vs Sessy 2026
 date: 2026-06-04 09:00:00+01:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: 'Huawei Luna 2000, Tesla Powerwall 3 en Sessy naast elkaar: prijs, capaciteit, slimheid en terugverdientijd vergeleken voor de Nederlandse markt in 2026.'
 categories:
 - thuisbatterijen
@@ -378,25 +378,25 @@ Er is geen universele winnaar. De beste thuisbatterij is de batterij die past bi
 
 ## Subsidies voor thuisbatterijen in 2026
 
-Een veelgestelde vraag: is er subsidie voor thuisbatterijen? Het antwoord is genuanceerd.
+Een veelgestelde vraag: is er subsidie voor thuisbatterijen? Het korte antwoord is nee, niet vanuit het Rijk. Wat er wel en niet geldt, zetten we hieronder op een rij.
 
-### ISDE voor thuisbatterijen
+### De ISDE dekt geen thuisbatterijen
 
-De Investeringssubsidie Duurzame Energie (ISDE) omvat thuisbatterijen die worden gecombineerd met zonnepanelen of een warmtepomp. In 2026 bedraagt de subsidie circa €300-€900 per kWh opslagcapaciteit, met een maximum. De exacte bedragen veranderen jaarlijks — check altijd RVO.nl voor de actuele tarieven.
+De Investeringssubsidie Duurzame Energie (ISDE) voor woningeigenaren dekt volgens RVO uitsluitend isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een aansluiting op een warmtenet en elektrisch koken. Thuisbatterijen staan er niet op — en zonnepanelen en laadpalen ook niet. Voor alle drie de batterijen in deze vergelijking (Huawei Luna 2000, Tesla Powerwall 3 en Sessy) geldt dus hetzelfde: geen rijkssubsidie, ook niet in combinatie met zonnepanelen of een warmtepomp.
 
-**Voorwaarden ISDE thuisbatterij:**
-- Minimale capaciteit van 2 kWh
-- Gecombineerd met een PV-systeem of warmtepomp
-- Aangevraagd via erkend installateur (je kunt zelf aanvragen, maar het gaat makkelijker via de installateur)
+**Wat er wél is:**
+- Gemeentelijke en provinciale regelingen voor thuisopslag. Die bestaan, maar verschillen per gemeente en zijn vaak snel uitgeput — check de regeling van je eigen gemeente en vraag aan vóór de installatie.
+- Het effect van de salderingsafbouw: hoe minder een teruggeleverde kWh opbrengt, hoe waardevoller opslag voor eigen gebruik wordt. Dat is geen subsidie, maar het beweegt de businesscase wel.
 
-**Geldt ISDE voor alle drie de modellen?**
-- Huawei Luna 2000: Ja, mits gecombineerd met Huawei-omvormer en PV-panelen
-- Tesla Powerwall 3: Ja, mits gecombineerd met PV-panelen
-- Sessy: Check actueel bij RVO — de Sessy staat niet altijd op de goedgekeurde productenlijst. Dit kan per publicatieronde wijzigen.
+Reken een batterij dus altijd door op de volle prijs. Wie een offerte krijgt waarin een "ISDE-subsidie op de batterij" is ingeboekt, moet daar doorvragen.
 
-### Btw-verlaging op zonnepanelen
+### Btw: 21% op de batterij, 0% op de panelen
 
-Per 2023 is het btw-tarief op zonnepanelen voor woningen verlaagd naar 0%. Dit geldt ook voor thuisbatterijen die worden verkocht als onderdeel van een geïntegreerd zonne-energiesysteem. Vraag je installateur of dit voor jouw specifieke configuratie geldt.
+Voor zonnepanelen voor woningen geldt het nultarief: 0% btw op levering en installatie van de panelen plus wat direct nodig is om ze aan te brengen en te laten functioneren — kabels, PV-verdeler, montagemateriaal, optimizers, omvormers en aanpassingen aan meterkast en dak.
+
+De Belastingdienst stelt expliciet dat de levering en installatie van een accupakket en thuisbatterij daar buiten valt. Op de batterij betaal je dus 21% btw, ook als je hem gelijktijdig met de panelen koopt en op dezelfde factuur laat zetten. Staat er in een offerte 0% btw over de accu, dan is dat een fout die je laat corrigeren.
+
+Eén uitzondering ligt bij ondernemerschap: wie als btw-ondernemer stroom teruglevert, kan de btw op de installatie in specifieke gevallen terugvragen. De Belastingdienst stelt daar voorwaarden aan, waaronder een energiemanagementsysteem en een dynamisch contract. Bekijk de actuele voorwaarden op belastingdienst.nl of leg het voor aan je boekhouder — het is geen automatisch voordeel.
 
 ---
 
@@ -464,4 +464,4 @@ Als toekomstbestendigheid jouw hoogste prioriteit is: Tesla Powerwall 3. Als pri
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

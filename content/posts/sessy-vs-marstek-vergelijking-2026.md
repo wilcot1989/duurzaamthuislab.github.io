@@ -1,7 +1,7 @@
 ---
 title: "Sessy vs Marstek thuisbatterij 2026: welke is slimmer?"
 date: 2026-08-05T08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: "Sessy vs Marstek vergeleken op prijs, automation, software en terugverdientijd. Welke thuisbatterij past bij jouw huishouden in 2026?"
 categories: ["thuisbatterijen"]
 tags: ["Sessy", "Marstek", "thuisbatterij", "vergelijking", "versus", "dynamisch contract"]
@@ -14,9 +14,9 @@ schema_type: "Article"
 last_updated: 2026-04-29
 faq:
   - q: "Welke is beter: Sessy of Marstek?"
-    a: "Sessy wint op gebruiksgemak en NL-integratie (out-of-the-box met EnergyZero, Frank, Tibber). Marstek wint op prijs (€2.299 voor 8,2 kWh tegen €5.995 voor 10 kWh Sessy) en flexibiliteit via Home Assistant. Voor doe-het-zelvers: Marstek. Voor mensen die willen dat het gewoon werkt: Sessy."
+    a: "Sessy wint op gebruiksgemak en NL-integratie (out-of-the-box met EnergyZero, Frank, Tibber). Marstek wint op prijs (€2.299 voor 8,2 kWh tegen €5.500 voor 10 kWh Sessy) en flexibiliteit via Home Assistant. Voor doe-het-zelvers: Marstek. Voor mensen die willen dat het gewoon werkt: Sessy."
   - q: "Wat kost het prijsverschil per kWh?"
-    a: "Sessy 10 kWh: €5.995 = €600/kWh. Marstek Venus E 8,2 kWh: €2.299 = €280/kWh. Marstek is bijna de helft goedkoper per kWh. Met €2.300 prijsverschil verdien je een Sessy nooit terug op pure energie-arbitrage — alleen als je extra waarde haalt uit de software."
+    a: "Sessy 10 kWh: €5.500 = €550/kWh. Marstek Venus E 8,2 kWh: €2.299 = €280/kWh. Marstek is bijna de helft goedkoper per kWh. Met circa €3.200 prijsverschil verdien je een Sessy nooit terug op pure energie-arbitrage — alleen als je extra waarde haalt uit de software."
   - q: "Werken beide met dynamisch contract?"
     a: "Ja, beide werken met Tibber, Frank Energie en EnergyZero. Sessy heeft directe API-koppeling out-of-the-box. Marstek vereist Home Assistant of de Marstek-app met EnergyZero-koppeling. Het verschil: bij Sessy klik je het aan, bij Marstek tweak je 1-2 uur."
   - q: "Hoe lang gaan de batterijen mee?"
@@ -28,14 +28,14 @@ faq:
   - q: "Welke werkt met Home Assistant?"
     a: "Marstek heeft sinds maart 2026 native HA-integratie (open API). Sessy heeft community-integratie via HACS (niet officieel). Voor smart-home enthousiastelingen: Marstek wint hier."
   - q: "Welke moet ik kopen?"
-    a: "Verbruik <3.500 kWh, geen tweaker, wil snel resultaat: Sessy 5 kWh (€3.795). Verbruik 3.500-6.000 kWh, beetje technisch, prijs belangrijk: Marstek Venus E (€2.299). Verbruik >6.000 kWh, warmtepomp + EV: Marstek modulair 16,4 kWh (€4.598)."
+    a: "Verbruik <3.500 kWh, geen tweaker, wil snel resultaat: Sessy 5 kWh (€3.550). Verbruik 3.500-6.000 kWh, beetje technisch, prijs belangrijk: Marstek Venus E (€2.299). Verbruik >6.000 kWh, warmtepomp + EV: Marstek modulair 16,4 kWh (€4.598)."
 products:
   - name: "Sessy thuisbatterij 5 kWh"
     url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3795"
+    price: "3550"
   - name: "Sessy thuisbatterij 10 kWh"
     url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "5995"
+    price: "5500"
   - name: "Marstek Venus E 8,2 kWh"
     url: "https://go.duurzaamthuislab.nl/marstek"
     price: "2299"
@@ -54,14 +54,14 @@ Dit artikel vergelijkt beide systemen op de acht punten die er werkelijk toe doe
 
 > **Kort antwoord:** Sessy vs Marstek vergeleken op prijs, automation, software en terugverdientijd. Welke thuisbatterij past bij jouw huishouden in 2026?
 >
-> Sessy wint op gebruiksgemak en NL-integratie (out-of-the-box met EnergyZero, Frank, Tibber). Marstek wint op prijs (€2.299 voor 8,2 kWh tegen €5.995 voor 10 kWh Sessy) en flexibiliteit via Home Assistant. Voor doe-het-zelvers: Marstek. Voor mensen die willen dat het gewoon werkt: Sessy.
+> Sessy wint op gebruiksgemak en NL-integratie (out-of-the-box met EnergyZero, Frank, Tibber). Marstek wint op prijs (€2.299 voor 8,2 kWh tegen €5.500 voor 10 kWh Sessy) en flexibiliteit via Home Assistant. Voor doe-het-zelvers: Marstek. Voor mensen die willen dat het gewoon werkt: Sessy.
 
 ## Snelle samenvatting
 
 | Punt | Sessy 10 kWh | Marstek Venus E 8,2 kWh |
 |------|--------------|--------------------------|
-| Prijs (incl. installatie) | €5.995 + €0 (zelf-installatie via stekker mogelijk) | €2.299 + ~€350 |
-| Prijs per kWh | €600 | €280 |
+| Prijs + installatie | €5.500 excl. installatie (zelf-installatie via stekker mogelijk) | €2.299 + ~€350 |
+| Prijs per kWh | €550 | €280 |
 | Plug-and-play | Ja (via standaard 16A) | Ja (via standaard 16A) |
 | Garantie | 10 jaar (NL) | 10 jaar (EU-distributeur) |
 | NL-support | Ja, in Amsterdam | Via webformulier (NL/EN) |
@@ -82,8 +82,9 @@ Dit artikel vergelijkt beide systemen op de acht punten die er werkelijk toe doe
 Dit is het meest concrete verschil. Sessy maakt premium hardware met premium prijs, Marstek gaat voor volume.
 
 ### Sessy prijslijst 2026
-- Sessy 5 kWh: €3.795 (€759/kWh)
-- Sessy 10 kWh: €5.995 (€600/kWh)
+- Sessy 5 kWh: €3.550 (€710/kWh)
+- Sessy 10 kWh: €5.500 (€550/kWh)
+- Alle bedragen incl. btw, exclusief installatie (prijspeil aug 2026, bron sessy.nl)
 - Installatie: €0 als je zelf in een 16A stopcontact prikt, €450-€650 als je een installateur inhuurt voor vaste aansluiting
 
 ### Marstek Venus prijslijst 2026
@@ -92,7 +93,7 @@ Dit is het meest concrete verschil. Sessy maakt premium hardware met premium pri
 - Extra Venus E module: €1.099 per 8,2 kWh
 - Installatie Venus E: €350-€450 (verplicht, erkend installateur)
 
-**Het verschil in keiharde euro's:** voor 10 kWh capaciteit betaal je bij Sessy €5.995. Bij Marstek koop je 1× Venus E 8,2 kWh voor €2.649 (incl. installatie) — dat is €3.346 minder. Met dat geld koop je een extra zonnepanelenpakket erbij.
+**Het verschil in keiharde euro's:** voor 10 kWh capaciteit betaal je bij Sessy €5.500. Bij Marstek koop je 1× Venus E 8,2 kWh voor €2.649 (incl. installatie) — dat is €2.851 minder. Met dat geld koop je een extra zonnepanelenpakket erbij.
 
 Lees [thuisbatterij prijs per kWh 2026](/posts/thuisbatterij-prijs-per-kwh-2026/) voor de volledige marktvergelijking en [goedkoopste thuisbatterij 2026](/posts/goedkoopste-thuisbatterij-2026/) voor budget-opties.
 
@@ -140,10 +141,10 @@ Onderstaande drie profielen zijn modelberekeningen, geen metingen. Aannames: str
 
 | | Sessy 5 kWh | Marstek Venus E 8,2 kWh |
 |---|---|---|
-| Investering | €3.795 | €2.649 |
+| Investering | €3.550 | €2.649 |
 | Eigen verbruik wordt | 65% | 75% |
 | Extra besparing/jaar | €405 | €521 |
-| Terugverdientijd | 9,4 jaar | 5,1 jaar |
+| Terugverdientijd | 8,8 jaar | 5,1 jaar |
 
 Marstek wint duidelijk in deze categorie. Niet alleen goedkoper, maar door grotere capaciteit ook MEER eigen verbruik.
 
@@ -151,10 +152,10 @@ Marstek wint duidelijk in deze categorie. Niet alleen goedkoper, maar door grote
 
 | | Sessy 10 kWh | Marstek 16,4 kWh (2× module) |
 |---|---|---|
-| Investering | €5.995 | €4.098 |
+| Investering | €5.500 | €4.098 |
 | Eigen verbruik wordt | 80% | 92% |
 | Extra besparing/jaar | €806 | €1.131 |
-| Terugverdientijd | 7,4 jaar | 3,6 jaar |
+| Terugverdientijd | 6,8 jaar | 3,6 jaar |
 
 Bij dit profiel is Marstek niet alleen goedkoper, maar ook beter geschaald. Sessy biedt geen 16+ kWh optie.
 
@@ -162,10 +163,10 @@ Bij dit profiel is Marstek niet alleen goedkoper, maar ook beter geschaald. Sess
 
 | | Sessy 5 kWh | Marstek Venus A 5,12 kWh |
 |---|---|---|
-| Investering | €3.795 | €1.799 |
+| Investering | €3.550 | €1.799 |
 | Eigen verbruik wordt | 70% | 70% |
 | Extra besparing/jaar | €256 | €256 |
-| Terugverdientijd | 14,8 jaar | 7,0 jaar |
+| Terugverdientijd | 13,9 jaar | 7,0 jaar |
 
 In dit segment is Sessy gewoon te duur. Marstek Venus A (de kleine plug-in versie) is hier de winnaar.
 
@@ -333,11 +334,11 @@ Terugverdientijd in dit model: 4 tot 5 jaar. Wie zwaarder gaat verbruiken (warmt
 
 ## Garantie-praktijk en BTW
 
-Beide fabrikanten geven 10 jaar garantie, maar de uitvoering verschilt. Sessy regelt vervanging via NL-rechtspersoon — een claim is binnen 5 dagen afgehandeld. Marstek werkt via EU-warehouse Frankfurt: claim duurt gemiddeld 4-8 weken. Voor een batterij die niet kritiek is voor je dagelijks leven (geen backup-functie) is dat acceptabel; voor een Powerwall-vervanging zou ik dat risico niet nemen.
+Beide fabrikanten geven 10 jaar garantie, maar de uitvoering verschilt. Sessy regelt vervanging via NL-rechtspersoon — een claim is binnen 5 dagen afgehandeld. Marstek werkt via EU-warehouse Frankfurt: claim duurt gemiddeld 4-8 weken. Voor een batterij die niet kritiek is voor je dagelijks leven (geen backup-functie) is dat acceptabel; voor een systeem met backup-functie zouden wij dat risico niet nemen.
 
-BTW: thuisbatterijen vallen onder het reguliere 21 procent BTW-tarief. Anders dan zonnepanelen (0 procent BTW sinds 2023) krijg je hier geen BTW-voordeel. Wel is de installatie onder de woning-verbouwingsregeling soms tegen 9 procent BTW belastbaar — vraag dit expliciet aan je installateur.
+BTW: op een thuisbatterij betaal je 21 procent btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Reken dus met de volle prijs inclusief btw, bij beide merken gelijk. Lever je stroom terug en ben je daarvoor btw-ondernemer, dan kun je onder voorwaarden (waaronder een energiemanagementsysteem en een dynamisch contract) btw terugvragen en draag je btw af over je terugleververgoeding; check dat op belastingdienst.nl.
 
-ISDE-subsidie geldt niet voor thuisbatterijen in 2026. Wel verwacht ik vanaf 2027 stimuleringsregelingen omdat de saldering vervalt en netcongestie een probleem wordt. Houd RVO en je gemeente in de gaten.
+Subsidie: op rijksniveau is er geen regeling voor thuisbatterijen. De ISDE voor woningeigenaren dekt isolatie, ventilatie in combinatie met isolatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — geen energieopslag. Wél hebben sommige gemeenten en provincies eigen regelingen of leningen; die verschillen per regio en vragen soms aanmelding vóór aanschaf. Check je gemeentewebsite voordat je bestelt en reken verder met de volle investering.
 
 ## Veelgemaakte fouten bij batterij-keuze
 
@@ -378,4 +379,4 @@ Sessy: 60×40×35 cm per unit, 65 kg. Past in een meterkast of bijkeuken. Marste
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

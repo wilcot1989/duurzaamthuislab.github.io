@@ -177,7 +177,7 @@ Hieronder de vijf merken die in Nederland het meest worden aangeboden. Bedragen 
 
 | Merk | Hybride | All-electric lucht/water | Sterke punt | Zwakke punt |
 |------|---------|--------------------------|-------------|--------------|
-| Quatt | €4.995 - €5.995 | n.v.t. | Vaste prijs, snelle installatie, app | Geen all-electric, weinig keuze installateur |
+| Quatt | prijs via configurator quatt.io (geen publieke prijslijst) | n.v.t. | Vaste prijs, snelle installatie, app | Geen all-electric, weinig keuze installateur |
 | Atag (ENERGION) | €6.500 - €9.500 | €11.500 - €14.500 | NL service, integratie met cv-ketel | Iets duurder dan Aziatische merken |
 | Daikin (Altherma 3) | €7.500 - €11.000 | €12.000 - €16.000 | Beste SCOP, stille buitenunit | Software soms grillig, prijs |
 | Vaillant (aroTHERM plus) | €7.000 - €10.500 | €11.500 - €15.500 | Gebruikt R290 (propaan), zeer hoge SCOP | Beperkt installateursnetwerk |

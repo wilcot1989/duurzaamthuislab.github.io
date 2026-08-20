@@ -1,7 +1,7 @@
 ---
 title: 'Dynamisch contract vs vast contract 2026: welke past bij jou?'
 date: 2026-09-08 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Dynamisch of vast energiecontract in 2026? Wij vergelijken beide contractvormen op prijsopbouw, risico en flexibiliteit — en laten zien wanneer welk contract past.
 categories:
 - energie
@@ -317,7 +317,7 @@ In Nederland bouwt elke energierekening op uit drie lagen: leveringskosten (vari
 
 ACM (Autoriteit Consument & Markt) heeft sinds 2023 strikte regels voor dynamisch: de leverancier moet 24 uur vooruit prijzen tonen, geen verborgen tariefgrenzen rekenen en bij overstap geen onredelijke boete vragen. Voor vaste contracten geldt sinds juni 2025 dat boete bij vroegtijdig opzeggen maximaal €125 is — bij combicontract gas+stroom dus 2x €125. Vraag bij twijfel altijd om de exacte boete-staffel vóór ondertekening.
 
-Bouwbesluit speelt geen rol bij contractkeuze, maar wel bij de meterkast: dynamisch vereist een slimme meter (DSMR 5.0 of hoger), bij oudbouw kun je deze gratis aanvragen. ISDE/RVO geven geen subsidie op contracttype maar wel op flexibiliteits-apparaten (warmtepomp, thuisbatterij) die dynamisch rendabel maken — die subsidie reken je dus indirect mee bij keuze voor dynamisch.
+Bouwbesluit speelt geen rol bij contractkeuze, maar wel bij de meterkast: dynamisch vereist een slimme meter (DSMR 5.0 of hoger), bij oudbouw kun je deze gratis aanvragen. ISDE/RVO geven geen subsidie op contracttype. De ISDE voor woningeigenaren dekt isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — een warmtepomp maakt een dynamisch contract dus interessanter en is subsidiabel. Een thuisbatterij valt niet onder de ISDE; die reken je in de businesscase dus zonder rijkssubsidie door.
 
 ## Veelgemaakte fouten
 

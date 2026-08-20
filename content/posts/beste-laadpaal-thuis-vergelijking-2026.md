@@ -194,7 +194,7 @@ Dit is het punt waar de hardware-keuze ineens secundair wordt. Belangrijker is w
 **Setup met Tibber:**
 
 1. Tibber-account aanmaken, contract laten ingaan (gemiddeld 2-3 weken)
-2. Tibber Pulse aanschaffen (€90) en op je slimme meter klikken — niet verplicht maar wel aangeraden
+2. Tibber Pulse aanschaffen (prijs: zie Tibber Store) en op je slimme meter klikken — niet verplicht maar wel aangeraden
 3. In de Tibber-app je auto koppelen via auto-API (Tesla, BMW, Polestar, Kia, Hyundai, VW: directe integratie)
 4. Optioneel je laadpaal koppelen via OCPP — Tibber stuurt dan via de paal, niet via de auto
 5. In de app instellen: "auto klaar om 07:30, minimum 80%, laadvenster start 22:00"
@@ -220,7 +220,7 @@ Frank Energie heeft sinds 2024 de Smart Charging-functie uitgebreid. Werkt op ee
 
 - Tibber-app is uitgebreider, vooral voor smart home-eigenaren
 - Frank heeft telefonische klantenservice op werkdagen, Tibber alleen chat
-- Frank rekent €5/maand servicegeld, Tibber €5,99
+- Tibber rekent €5,99/maand per energiesoort (stroom en gas apart); Frank publiceert zijn vaste kosten niet op de site — opvragen via frankenergie.nl
 - Tibber heeft betere auto-API-integratie, Frank heeft betere OCPP-integratie
 
 Lees [Frank Energie vs Tibber 2026](/posts/frank-energie-vs-tibber-2026/) voor een directe vergelijking, of [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/) voor de volledige test. Voor een breder beeld van dynamische leveranciers: [Dynamische energiecontracten vergelijking 2026](/posts/dynamische-energiecontracten-vergelijking-2026/).

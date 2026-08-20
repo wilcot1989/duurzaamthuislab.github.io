@@ -51,7 +51,7 @@ products:
   price: '6'
 schema_type: Article
 ---
-Een thuisbatterij gekoppeld aan een dynamisch energiecontract kan twee keer geld opleveren: door zonnestroom op te slaan én door energie-arbitrage — laden als de uurprijs laag is, ontladen als hij hoog is. Een goed geconfigureerd systeem laadt automatisch bij een lage EPEX-prijs (vaak 's nachts) en ontlaadt tijdens de avondpiek. In dit artikel leggen we uit hoe dat mechanisme werkt, welke batterijen en leveranciers erop aansluiten en wat het volgens modelberekeningen oplevert. De cijfers komen uit publieke bronnen (EPEX-tarieven, RVO/ISDE, leveranciersvoorwaarden) en uit rekenvoorbeelden met vermelde aannames.
+Een thuisbatterij gekoppeld aan een dynamisch energiecontract kan twee keer geld opleveren: door zonnestroom op te slaan én door energie-arbitrage — laden als de uurprijs laag is, ontladen als hij hoog is. Een goed geconfigureerd systeem laadt automatisch bij een lage EPEX-prijs (vaak 's nachts) en ontlaadt tijdens de avondpiek. In dit artikel leggen we uit hoe dat mechanisme werkt, welke batterijen en leveranciers erop aansluiten en wat het volgens modelberekeningen oplevert. De cijfers komen uit publieke bronnen (EPEX-tarieven, RVO, Belastingdienst, leveranciersvoorwaarden) en uit rekenvoorbeelden met vermelde aannames.
 
 *Disclosure: de links naar Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
@@ -197,7 +197,7 @@ Extra besparing door slim laden en ontladen op basis van dynamische prijzen. Dit
 | Energie-arbitrage (dynamisch contract) | €150-300 |
 | **Totaal** | **€550-900** |
 
-Met een netto investering van €3.600 (na ISDE-subsidie) levert dit een terugverdientijd op van **4-6,5 jaar**.
+Voor een thuisbatterij bestaat geen ISDE-subsidie, dus reken met de volledige investering inclusief 21% btw. Bij een modelbedrag van €5.500 voor een 10 kWh-systeem inclusief installatie komt de terugverdientijd bij deze besparing uit op **circa 6 tot 10 jaar**. Dat is een modelberekening, geen garantie: de spread op de markt en je eigen verbruikspatroon bepalen de uitkomst.
 
 ---
 
@@ -308,7 +308,7 @@ Bekijk ons overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatte
 - **Thuisbatterij**: Huawei Luna 2000, 10 kWh
 - **Zonnepanelen**: 12 stuks (4.500 Wp)
 - **Energieleverancier**: Tibber (dynamisch)
-- **Netto investering**: €3.600 (na ISDE-subsidie)
+- **Investering**: €5.500 inclusief installatie en 21% btw (modelbedrag, geen rijkssubsidie beschikbaar)
 - **Batterij-efficientie**: 90%
 - **Jaarverbruik**: 3.500 kWh
 
@@ -335,7 +335,9 @@ In gunstige marktomstandigheden (veel prijsvolatiliteit):
 | Zonne-opslag | €518 | €518 |
 | Energie-arbitrage | €135 | €300 |
 | **Totaal** | **€653** | **€818** |
-| **Terugverdientijd** | **5,5 jaar** | **4,4 jaar** |
+| **Terugverdientijd bij €5.500 investering** | **circa 8,5 jaar** | **circa 6,7 jaar** |
+
+Dit is een modelberekening met de aannames hierboven, bedoeld als indicatie. Vul je eigen investeringsbedrag en verbruik in voor een realistischer beeld.
 
 ---
 
@@ -350,8 +352,8 @@ In gunstige marktomstandigheden (veel prijsvolatiliteit):
 ### Stap 2: Kies een thuisbatterij
 Kies een batterij die compatibel is met je omvormer en die slim laden ondersteunt. De [Huawei Luna 2000](/posts/beste-thuisbatterij-nederland-2026/) is in de meeste gevallen de beste keuze voor de combinatie met een dynamisch contract.
 
-### Stap 3: Laat installeren en vraag subsidie aan
-Vraag minimaal drie offertes aan bij gecertificeerde installateurs. Na installatie vraag je de ISDE-subsidie aan via RVO.nl. Lees onze [subsidiegids](/posts/zonnepanelen-subsidie-nederland-2026/) voor het volledige proces.
+### Stap 3: Laat installeren en check gemeentelijke regelingen
+Vraag minimaal drie offertes aan bij gecertificeerde installateurs. Voor thuisbatterijen bestaat geen ISDE-subsidie; sommige gemeenten en provincies hebben wel een eigen regeling. Check dat vóór je een opdracht geeft, want zulke regelingen eisen bijna altijd aanvraag vóór installatie. Lees onze [subsidiegids](/posts/zonnepanelen-subsidie-nederland-2026/) voor wat er wél is.
 
 ### Stap 4: Stap over naar een dynamisch contract
 Meld je aan bij Tibber, Zonneplan of een andere dynamische leverancier. De overstap duurt doorgaans 2-4 weken. Er zijn geen overstapkosten.
@@ -399,16 +401,16 @@ Diep cyclen (0-100%) slijt een batterij sneller dan ondiepe cycli (20-80%). Bij 
 **Fout 4: Niet checken welk leverancier echt integreert**
 Niet elke dynamische leverancier integreert even goed met elke batterij. Zonneplan integreert specifiek met Huawei Luna. Tibber werkt breder maar vereist soms een extra API-koppeling. Frank werkt het best via Home Assistant. Check vóór aankoop of je batterijmerk en je leverancier samenwerken.
 
-**Fout 5: ISDE-subsidie mislopen door verkeerde volgorde**
-ISDE moet vóór de installatiedatum worden aangevraagd bij RVO. Een veelvoorkomende misstap: een offerte accepteren, direct laten installeren en pas daarna de ISDE aanvragen — dat is te laat en de subsidie vervalt dan. Reserveer het ISDE-budget altijd vóórdat je de installatie inplant.
+**Fout 5: rekenen met een subsidie die niet bestaat**
+De ISDE voor woningeigenaren dekt isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — geen thuisbatterijen. Wie de businesscase rond rekent met een verwachte rijkssubsidie op de accu, komt bedrogen uit. Kijk in plaats daarvan of jouw gemeente of provincie een eigen batterijregeling heeft, en vraag die dan aan vóór de installatie.
 
 ---
 
 ## Wettelijk kader 2026 voor thuisbatterijen en dynamische contracten
 
-**ISDE-subsidie thuisbatterij 2026:** De ISDE voor thuisbatterijen bedraagt in 2026 €545 voor een 5 kWh systeem, oplopend tot €1.090 voor 10 kWh. Aanvragen via RVO.nl vóór installatiedatum. Budget is beperkt — in 2025 was het in augustus uitgeput. Aanvragen in Q1/Q2 is verstandiger.
+**Geen ISDE-subsidie op thuisbatterijen:** de ISDE voor woningeigenaren dekt volgens RVO uitsluitend isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een aansluiting op een warmtenet en elektrisch koken. Thuisbatterijen staan er niet in — en zonnepanelen en laadpalen ook niet. Wat er wél kan zijn: losse gemeentelijke of provinciale batterijregelingen (per gemeente verschillend) en het financiële effect van de salderingsafbouw, die eigen gebruik van zonnestroom juist waardevoller maakt.
 
-**0% BTW op thuisbatterijen:** Thuisbatterijen die gecombineerd worden met zonnepanelen vallen per 1 april 2023 onder het 0% BTW-tarief. Let op: dit geldt voor gecombineerde installaties. Een losse batterij later bijplaatsen kan nog steeds 21% BTW dragen als er geen directe omvormer-koppeling is. Laat dit altijd controleren door de installateur.
+**Btw op een thuisbatterij: 21%.** Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst de panelen zelf plus wat direct nodig is om ze te laten werken: kabels, PV-verdeler, montagemateriaal, optimizers, omvormers en aanpassingen aan meterkast en dak. De levering en installatie van een accupakket of thuisbatterij valt daar uitdrukkelijk buiten en houdt 21% btw — ook als je de batterij samen met de panelen koopt. In specifieke gevallen kun je die btw terugvragen als je als btw-ondernemer stroom teruglevert; de Belastingdienst stelt daarbij voorwaarden, waaronder een energiemanagementsysteem en een dynamisch contract. Reken daar niet standaard op: check de actuele voorwaarden op belastingdienst.nl of vraag het je boekhouder.
 
 **Anti-eilandbeveiliging:** In Nederland is elke netgekoppelde batterij verplicht voorzien van anti-eilandbeveiliging. Bij stroomuitval schakelt de batterij automatisch af. Wil je noodstroom? Dan heb je een backup-box nodig — dat is extra hardware van €800-€1.500. Dit is wettelijk verplicht om de veiligheid van netwerkbeheerders te garanderen.
 
@@ -440,7 +442,7 @@ De combinatie van een thuisbatterij met een dynamisch energiecontract is een van
 1. **Zonne-opslag** beschermt je tegen de afbouw van de salderingsregeling
 2. **Energie-arbitrage** levert extra besparing op door slim gebruik van prijsverschillen
 
-Met ISDE-subsidie, een Huawei Luna 2000 en een dynamisch contract bij Tibber of Zonneplan bereik je een terugverdientijd van **4-6 jaar**, waarna je nog jarenlang netto bespaart.
+Met een Huawei Luna 2000 en een dynamisch contract bij Tibber of Zonneplan komt onze modelberekening uit op een terugverdientijd van **circa 6 tot 10 jaar** — zonder rijkssubsidie, want die is er voor batterijen niet, en met 21% btw op de accu.
 
 **Onze aanbeveling**:
 - **Thuisbatterij**: [Huawei Luna 2000](/posts/beste-thuisbatterij-nederland-2026/) (beste integratie met dynamische contracten)
@@ -457,4 +459,4 @@ Lees ook onze artikelen over de [thuisbatterij terugverdientijd berekenen](/post
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

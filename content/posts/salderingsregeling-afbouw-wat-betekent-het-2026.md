@@ -257,7 +257,7 @@ Als je nog geen zonnepanelen hebt, of een uitbreiding overweegt:
 
 ### 5. Maak gebruik van beschikbare subsidies
 
-Er zijn diverse subsidies beschikbaar die de investering in zonnepanelen en thuisbatterijen aantrekkelijker maken. Lees ons overzicht [Zonnepanelen subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/) voor alle actuele regelingen.
+Voor zonnepanelen geldt het btw-nultarief, en gemeenten en provincies hebben eigen regelingen en leningen — voor een thuisbatterij is er geen landelijke subsidie. Lees ons overzicht [Zonnepanelen subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/) voor de actuele regelingen.
 
 ---
 
@@ -366,29 +366,23 @@ Een systeem van 12 panelen bij een installateur:
 - Vroeger met 21% BTW: €6.250
 - Nu met 0% BTW: **€5.165**
 
-Je bespaart dus direct **€1.085** op de aanschaf van een gemiddeld systeem. Voor grotere systemen met batterij:
-- Systeem + 10 kWh thuisbatterij: €11.500 exclusief BTW
-- Vroeger: €13.915 inclusief 21%
-- Nu: **€11.500** (alleen voor het zonnepaneel-deel; de batterij valt onder 21% BTW tenzij mee-geïnstalleerd als onlosmakelijk geheel)
+Je bespaart dus direct **€1.085** op de aanschaf van een gemiddeld systeem.
 
-Dit voordeel compenseert gedeeltelijk de langere terugverdientijd door de saldering-stop. Niet volledig, maar het is een reële besparing die iedereen meepakt die in 2026 of later installeert.
+**Let op: bij een systeem met batterij valt de accu hierbuiten.** De Belastingdienst schrijft expliciet dat de levering en installatie van een accupakket of thuisbatterij (thuisaccu) niet onder het nultarief valt. Daarop betaal je 21% btw — ook als je de batterij samen met de panelen koopt. Een systeem van €9.500 aan panelen plus een 10 kWh batterij van €5.500 rekent dus: €9.500 tegen 0% btw en €5.500 inclusief 21% btw op de accu.
 
-## ISDE-subsidie: nog steeds de moeite waard
+Het nultarief op panelen compenseert gedeeltelijk de langere terugverdientijd door de saldering-stop. Niet volledig, maar het is een reële besparing die iedereen meepakt die in 2026 of later panelen installeert.
 
-De **Investeringssubsidie Duurzame Energie (ISDE)** geldt in 2026 nog voor thuisbatterijen gekoppeld aan zonnepanelen: tot €900 per kWh, maximaal €5.400 voor een 6 kWh+ systeem.
+## Subsidie op een thuisbatterij: wat er wél en niet is
 
-Voor wie nu een thuisbatterij overweegt als reactie op de saldering-stop:
+Hier gaat veel mis in de advieshoek, dus expliciet: **de ISDE dekt geen thuisbatterijen.** De ISDE voor woningeigenaren is er volgens RVO uitsluitend voor isolatie, ventilatie (in combinatie met isolatie, vanaf 2026), (hybride) warmtepompen, zonneboilers, een warmtenet-aansluiting en elektrisch koken. Batterijen, zonnepanelen en laadpalen staan er niet op — er is dus geen "€900 per kWh" of maximumbedrag voor een accu, en ook niet als je de batterij aan zonnepanelen koppelt.
 
-| Batterij | Capaciteit | ISDE-subsidie | Netto prijs na subsidie |
-|---|---|---|---|
-| Sessy 5 kWh | 5 kWh | €3.795 (max bij 5 kWh) | €0 (volledig gedekt!) |
-| Huawei Luna 5 kWh | 5 kWh | €3.795 | ~€700 eigen bijdrage |
-| Huawei Luna 10 kWh | 10 kWh | €5.400 (max) | ~€1.000 eigen bijdrage |
-| Tesla Powerwall 3 (13,5 kWh) | 13,5 kWh | €5.400 (max) | ~€4.100 eigen bijdrage |
+Wat er voor batterijen wél speelt:
 
-De subsidie maakt het voor kleine systemen (5 kWh) financieel bijna risicovrij. De Sessy 5 kWh is momenteel de enige thuisbatterij die volledig door de ISDE gedekt wordt.
+- **De salderings-afbouw zelf.** Dat is de motor achter het rendement: hoe minder je kunt salderen, hoe meer een kWh die je zelf opslaat en 's avonds verbruikt waard is. Dat rendement moet de investering dragen, niet een subsidie.
+- **Soms een gemeentelijke of provinciale regeling.** Een aantal gemeenten heeft eigen duurzaamheidssubsidies of leningen waar een batterij onder kan vallen. Dat verschilt per gemeente en verandert regelmatig; check de actuele regeling op de site van je eigen gemeente vóór je een offerte tekent.
+- **Btw.** Op de batterij betaal je 21% btw. Lever je als btw-ondernemer stroom terug, dan kun je in specifieke gevallen btw terugvragen — de Belastingdienst stelt daarbij voorwaarden, waaronder een energiemanagementsysteem en een dynamisch contract. Zie belastingdienst.nl; behandel dit niet als een voordeel waar iedere particulier op kan rekenen.
 
-**Hoe aanvragen?** Via mijn.rvo.nl, binnen 6 maanden na installatie. Je hebt de factuur, installateurgegevens en bewijs van zonnepanelen nodig.
+Reken een batterij dus door op de kale aanschafprijs, inclusief btw en installatie. Dat is de eerlijke basis.
 
 ## Veelgestelde vragen en misverstanden
 
@@ -402,7 +396,7 @@ Genuanceerder. Als je in 2023 panelen hebt gekocht op basis van de toenmalige sa
 
 ### "Ik moet nu snel een batterij kopen"
 
-Niet per se. De batterijprijzen dalen 8-12% per jaar. Als je teruglevering beperkt is (<1.500 kWh/jaar), is een batterij nu nog niet rendabel — de terugverdientijd van de batterij zelf loopt dan op naar 15+ jaar. Wacht op verdere prijsdaling en/of koop een kleine 5 kWh batterij met ISDE-subsidie.
+Niet per se. De batterijprijzen dalen 8-12% per jaar. Als je teruglevering beperkt is (<1.500 kWh/jaar), is een batterij nu nog niet rendabel — de terugverdientijd van de batterij zelf loopt dan op naar 15+ jaar. Wachten op verdere prijsdaling of beginnen met een kleine 5 kWh batterij is dan verstandiger. Reken daarbij niet op landelijke subsidie: die is er voor batterijen niet.
 
 ### "Het kabinet gaat hier nog op terugkomen"
 

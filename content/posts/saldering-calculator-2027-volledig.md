@@ -43,10 +43,10 @@ faq:
 products:
 - name: Sessy thuisbatterij 5 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '3795'
+  price: '3550'
 - name: Sessy thuisbatterij 10 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  price: '5500'
 - name: Marstek Venus E 8.2 kWh
   url: https://go.duurzaamthuislab.nl/marstek
   price: '2299'
@@ -168,7 +168,7 @@ Dat soort exacte cijfers wil je hebben voor je eigen situatie. Daarvoor is de ca
     });
 
     // Bereken break-even thuisbatterij
-    var batterijPrijs = batterij === 0 ? 0 : (batterij <= 5 ? 3795 : batterij <= 8 ? 2299 : batterij <= 10 ? 5995 : batterij * 700);
+    var batterijPrijs = batterij === 0 ? 0 : (batterij <= 5 ? 3550 : batterij <= 8 ? 2299 : batterij <= 10 ? 5500 : batterij * 700);
     var jaarlijkseExtra = batterij === 0 ? 0 : ((eigenFr - 0.30) * opwek * prijs);
     var terugverdientijd = batterij > 0 && jaarlijkseExtra > 0 ? (batterijPrijs / jaarlijkseExtra).toFixed(1) : null;
 
@@ -264,10 +264,10 @@ Hoe hoger je eigen verbruik, hoe MINDER de saldering-stop je raakt. Want eigen v
 ### Thuisbatterij break-even berekening
 
 De calculator berekent de terugverdientijd van een batterij op basis van:
-- Investering (€2.299 voor Marstek 8 kWh, €3.795 voor Sessy 5 kWh, €5.995 voor Sessy 10 kWh)
+- Investering (€2.299 voor Marstek 8 kWh, €3.550 voor Sessy 5 kWh, €5.500 voor Sessy 10 kWh — incl. btw, excl. installatie, prijspeil aug 2026)
 - Extra besparing = (nieuwe eigen verbruik fractie - 30%) × jaarlijkse opwek × stroomprijs
 
-Stel: 4 kWp panelen = 3.600 kWh opwek. Met 5 kWh batterij stijgt eigen verbruik van 30% → 65%. Dat is 35% × 3.600 = 1.260 kWh extra direct verbruikt á €0.32 = **€403/jaar extra besparing**. Sessy kost €3.795. Terugverdientijd: 9.4 jaar.
+Stel: 4 kWp panelen = 3.600 kWh opwek. Met 5 kWh batterij stijgt eigen verbruik van 30% → 65%. Dat is 35% × 3.600 = 1.260 kWh extra direct verbruikt á €0.32 = **€403/jaar extra besparing**. Sessy kost €3.550 (excl. installatie). Terugverdientijd: 8,8 jaar (modelberekening).
 
 Maar wacht — dit zijn de saldering-tijdperk-cijfers. Vanaf 2029 wordt elke kWh die je NIET zelf verbruikt 4x zo waardeloos (€0.08 i.p.v. €0.32). Dus de batterij wordt RELATIEF aantrekkelijker naarmate de saldering wegvalt.
 
@@ -311,7 +311,7 @@ Maar wacht — dit zijn de saldering-tijdperk-cijfers. Vanaf 2029 wordt elke kWh
 ### Scenario 4: warmtepomp + EV + batterij + zonnepanelen
 - Verbruik: 7.500 kWh (warmtepomp 3.000 + EV 2.500 + huishouden 2.000)
 - Zonnepanelen: 8 kWp (7.200 kWh)
-- 10 kWh Sessy (€5.995)
+- 10 kWh Sessy (€5.500)
 - Eigen verbruik: 90% (6.480 kWh)
 - Overschot: 720 kWh
 

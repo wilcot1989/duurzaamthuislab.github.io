@@ -1,7 +1,7 @@
 ---
 title: 'EV laden met thuisbatterij: levert het geld op?'
 date: 2026-07-08 08:00:00+02:00
-lastmod: 2026-07-08 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: 'Slim je elektrische auto laden via een thuisbatterij: wanneer verdien je er echt aan? Rekenvoorbeelden met dynamisch contract, Sessy.'
 categories:
 - elektrische-auto
@@ -33,17 +33,17 @@ faq:
 - q: Heb ik een speciale laadpaal nodig voor V2H?
   a: 'Ja. Een standaard 11 kW laadpaal laadt alleen van net naar auto. Voor V2H heb je een bidirectionele omvormer/laadpaal nodig, zoals de Wallbox Quasar 2 of de Huawei LUNA2000 met EV-module. Kosten: €2.000-€5.000 extra boven de laadpaal.'
 - q: Is een thuisbatterij of EV-accu voordeliger als opslagoptie?
-  a: 'De EV-accu wint op kosten per kWh: een Ioniq 5 heeft 77 kWh voor €45.000 (€584/kWh), een Sessy 10 kWh kost €5.995 (€600/kWh). Maar de EV staat niet altijd thuis. Een thuisbatterij is betrouwbaarder als continue buffer.'
+  a: 'De EV-accu wint op kosten per kWh: een Ioniq 5 heeft 77 kWh voor €45.000 (€584/kWh), een Sessy 10 kWh kost €5.500 excl. installatie (€550/kWh). Maar de EV staat niet altijd thuis. Een thuisbatterij is betrouwbaarder als continue buffer.'
 - q: Wat levert een dynamisch contract op bij slim laden?
   a: 'Met Frank Energie of Tibber laad je ''s nachts voor €0,08-€0,12/kWh en gebruik je overdag zonnestroom gratis. Verschil met vast contract (€0,26-€0,28/kWh): €0,14-€0,18/kWh. Bij 4.000 km/jaar en 18 kWh/100 km = 720 kWh = €100-€130 besparing per jaar.'
 - q: Wordt de combinatie EV + thuisbatterij rendabeler na 2027?
   a: Ja, significant. De saldering stopt per 1 januari 2027. Dan daalt de terugverdiening op zonne-energie en wordt opslag in thuisbatterij of EV-accu veel aantrekkelijker. Wie nu investeert, profiteert direct na de salderings-stop.
 - q: 'Wat kost een complete setup: zonnepanelen + thuisbatterij + bidirectionele laadpaal?'
-  a: 'Globale indicatie voor doorsnee rijtushuis: zonnepanelen 16 panelen ±€6.000, thuisbatterij Sessy 10 kWh €5.995, bidirectionele laadpaal Wallbox Quasar 2 €3.500 incl. installatie. Totaal: ±€15.500. Terugverdientijd bij huidige energieprijzen: 10-14 jaar.'
+  a: 'Globale indicatie voor doorsnee rijtushuis: zonnepanelen 16 panelen ±€6.000, thuisbatterij Sessy 10 kWh €5.500 (excl. installatie), bidirectionele laadpaal Wallbox Quasar 2 €3.500 incl. installatie. Totaal: ±€15.000. Terugverdientijd bij huidige energieprijzen: 10-14 jaar.'
 products:
 - name: Sessy thuisbatterij 10 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  price: '5500'
 - name: Marstek Venus E 8,2 kWh
   url: https://marstekenergy.com/venus-e
   price: '2299'
@@ -126,7 +126,7 @@ Stel: 16 zonnepanelen (6,4 kWp), opbrengst 5.500 kWh/jaar, eigen gebruik zonder 
 | **Totaal voordeel/jaar** | **€949** | **€1.196** |
 | Extra voordeel thuisbatterij | — | **€247/jaar** |
 
-Bij €5.995 batterijkosten en €247/jaar extra besparing: terugverdientijd **24 jaar**. Dat is nu nog niet aantrekkelijk.
+Bij €5.500 batterijkosten (excl. installatie) en €247/jaar extra besparing: terugverdientijd in dit model **22 jaar**. Dat is nu nog niet aantrekkelijk.
 
 **Maar: na de salderingsafbouw per 2027** daalt de salderingswaarde van €0,12 naar circa €0,04-€0,06/kWh. Dan schuiven de cijfers flink:
 
@@ -210,8 +210,8 @@ In 2026 is de lijst beperkt. Dit zijn de relevante modellen voor Nederlandse kop
 | | Sessy 10 kWh | Marstek Venus E 8,2 kWh | Ioniq 5 (bruikbaar deel) |
 |---|---|---|---|
 | Capaciteit bruikbaar | 10 kWh | 8 kWh | 30-40 kWh |
-| Prijs hardware | €5.995 | €2.299 | Onderdeel van auto (€45k) |
-| Kosten per kWh opslag | €600/kWh | €287/kWh | n.v.t. (auto had je al) |
+| Prijs hardware | €5.500 | €2.299 | Onderdeel van auto (€45k) |
+| Kosten per kWh opslag | €550/kWh | €287/kWh | n.v.t. (auto had je al) |
 | Altijd beschikbaar | Ja | Ja | Nee (auto kan weg zijn) |
 | Garantie cycli | 6.000 | 6.000 | ~2.000 (batterij slijt) |
 | Extra hardware nodig | Nee | Nee | Omvormer €2.000-€4.500 |
@@ -254,9 +254,9 @@ In 2026 is de lijst beperkt. Dit zijn de relevante modellen voor Nederlandse kop
 
 **Hardware:**
 - 16 zonnepanelen (6,4 kWp): €6.000
-- Sessy 10 kWh thuisbatterij: €5.995 (0% BTW)
+- Sessy 10 kWh thuisbatterij: €5.500 (incl. btw, excl. installatie, prijspeil aug 2026)
 - Easee Home 11 kW laadpaal: €899
-- Totaal: **€12.894**
+- Totaal: **€12.399**
 
 **Jaarlijkse besparing** (incl. EV laden): €1.400-€1.700  
 **Terugverdientijd**: 8-9 jaar (verbetert na salderings-stop 2027)  
@@ -300,7 +300,7 @@ Gebruik je Omnik/SolarEdge/Enphase app om te zien hoeveel je terugleverde in de 
 - Geen EV of overweeg binnenkort te kopen? Wacht tot de EV-keuze duidelijk is.
 
 **Stap 6: Check subsidies**
-Vraag je gemeente naar subsidies voor laadpaal en/of thuisbatterij. De 0% BTW op thuisbatterijen geldt automatisch — controleer je offerte.
+Vraag je gemeente naar regelingen voor een laadpaal en/of thuisbatterij; landelijk is er voor thuisbatterijen geen ISDE-subsidie. Reken op je offerte met 21% btw op de batterij — het nultarief voor zonnepanelen dekt de accu niet.
 
 ---
 
@@ -321,11 +321,11 @@ Wie nu een thuisbatterij koopt, zit goed gepositioneerd voor die omschakeling. D
 
 ## Wettelijk kader 2026: subsidies en regels voor EV + thuisbatterij
 
-**ISDE voor thuisbatterij:** In 2026 geeft de ISDE-regeling €545 subsidie voor een 5 kWh thuisbatterij en €1.090 voor 10 kWh. Aanvragen via RVO.nl vóór installatiedatum — budget is beperkt.
+**Geen ISDE voor een thuisbatterij:** de ISDE voor woningeigenaren dekt volgens RVO uitsluitend isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Thuisbatterijen, zonnepanelen en laadpalen staan er niet in. Wat er soms wel is: een gemeentelijke of provinciale regeling — die verschilt per gemeente en vraag je aan vóór de installatie.
 
-**SEEH-subsidie laadpaal:** De SEEH-regeling vergoedt tot €600 voor een thuislaadpaal. Voor bidirectionele laadpalen (V2H) geldt dezelfde regeling. Combineer met gemeentelijke subsidies voor maximale teruggave.
+**Laadpaal-subsidie:** een landelijke subsidieregeling voor een thuislaadpaal bij een koopwoning is er niet. Wel hebben diverse gemeenten en provincies een eigen regeling, met bedragen die per gemeente verschillen. Check de actuele regeling van je eigen gemeente vóór je een opdracht geeft, en ga niet uit van een rijksbijdrage.
 
-**0% BTW op thuisbatterij:** Thuisbatterijen in combinatie met zonnepanelen vallen onder 0% BTW. Dit is automatisch — je hoeft niets aan te vragen, maar controleer je offerte.
+**Btw op een thuisbatterij: 21%.** Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst de panelen plus wat direct nodig is om ze te laten werken (kabels, montagemateriaal, optimizers, omvormers, aanpassingen aan meterkast en dak). De levering en installatie van een accupakket of thuisbatterij valt daar uitdrukkelijk buiten en houdt 21% btw — ook bij aanschaf samen met panelen. Alleen wie als btw-ondernemer stroom teruglevert kan die btw in specifieke gevallen terugvragen; de voorwaarden, waaronder een energiemanagementsysteem en een dynamisch contract, staan op belastingdienst.nl.
 
 **V2G in Nederland:** Vehicle-to-Grid (energie verkopen aan het net vanuit je EV-accu) is in Nederland wettelijk toegestaan maar in de praktijk pas beschikbaar via pilots in Utrecht en Groningen. Netbeheerders Liander en Stedin werken aan generieke terugleversystemen voor EV's, verwacht 2027-2028.
 
@@ -358,9 +358,9 @@ Voor wie twijfelt welke thuisbatterij het beste werkt naast een EV-laadpaal:
 
 | | Sessy 10 kWh | Marstek Venus E 8,2 kWh | Huawei Luna 2000 10 kWh |
 |---|---|---|---|
-| Prijs (0% BTW) | €5.995 | €2.299 | ~€5.500 |
-| ISDE-subsidie | €1.090 | €900 | €1.090 |
-| Netto prijs | **€4.905** | **€1.399** | **€4.410** |
+| Prijs (incl. btw) | €5.500 | €2.299 | ~€5.500 |
+| Rijkssubsidie | Geen | Geen | Geen |
+| Prijs na subsidie | **€5.500** | **€2.299** | **~€5.500** |
 | EV-integratie | Eigen app, beperkt | Via Home Assistant | Tibber/Zonneplan direct |
 | V2H-ondersteuning | Nee | Nee | Nee (batterij-kant) |
 | Laadpaal-sturing | Ja (Sessy-app) | Via HA | Ja (FusionSolar + Tibber) |
@@ -402,4 +402,4 @@ En als je een Ioniq 5 of EV6 wilt kopen: de bidirectionele functie is gratis mee
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

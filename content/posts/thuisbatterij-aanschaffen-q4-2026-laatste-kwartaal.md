@@ -39,7 +39,7 @@ faq:
 products:
   - name: Sessy thuisbatterij 5 kWh
     url: https://go.duurzaamthuislab.nl/sessy
-    price: '5995'
+    price: '3550'
   - name: Marstek Venus 5 kWh
     url: https://go.duurzaamthuislab.nl/marstek
     price: '4499'
@@ -72,7 +72,7 @@ De levertijden hieronder zijn **indicaties**, samengesteld uit de termijnen die 
 
 ## Sessy: marktleider, oplopende wachttijd
 
-De Sessy 5 kWh kost 5.995 EUR all-in geinstalleerd. De opgegeven doorlooptijd liep in het najaar van 2026 op van circa 4 weken begin oktober naar 6 weken eind oktober, doordat de eigen montageteams volgeboekt raken. Lees onze complete [Sessy vergelijking](/posts/sessy-vs-marstek-thuisbatterij-2026/) als context.
+De Sessy 5 kWh kost 3.550 EUR incl. btw, exclusief installatie (prijspeil aug 2026); de installatie wordt apart berekend, een basisinstallatie met noodstroomvoorziening staat op 1.200 EUR. De opgegeven doorlooptijd liep in het najaar van 2026 op van circa 4 weken begin oktober naar 6 weken eind oktober, doordat de eigen montageteams volgeboekt raken. Lees onze complete [Sessy vergelijking](/posts/sessy-vs-marstek-thuisbatterij-2026/) als context.
 
 | Week van bestelling | Indicatieve installatie | Indicatieve wachttijd |
 |---|---|---|
@@ -139,7 +139,7 @@ Solide hardware met 10 jaar EU-garantie. Sterke app maar geen Nederlandse helpde
 
 | Aspect | Sessy 5 kWh | Marstek Venus 5 kWh | Anker Solix 5 kWh |
 |---|---|---|---|
-| Prijs all-in | 5.995 EUR | 4.499 EUR | 5.000 EUR |
+| Prijs (Sessy excl. installatie) | 3.550 EUR | 4.499 EUR | 5.000 EUR |
 | Levertijd okt 2026 | 4-6 weken | 2-3 weken | 3-4 weken |
 | Levertijd nov 2026 | 6-8 weken | 3-4 weken | 3-5 weken |
 | Garantie | 10 jaar | 10 jaar EU | 10 jaar EU |
@@ -148,7 +148,7 @@ Solide hardware met 10 jaar EU-garantie. Sterke app maar geen Nederlandse helpde
 | App-integratie Frank | Native | Via API | Via API |
 | Cycli-levensduur | 6000+ | 6000+ | 6000+ |
 
-De prijsverschillen liggen vooral in service en lokale aanwezigheid. Voor een rationele koper is Marstek Venus de duidelijke winnaar — 1.500 EUR goedkoper dan Sessy met praktisch gelijke specs. Voor wie waarde hecht aan Nederlandse helpdesk en gevestigde reputatie blijft Sessy de premium-keuze.
+De prijsverschillen liggen vooral in service en lokale aanwezigheid. Op de kale hardwareprijs is Sessy met 3.550 EUR (excl. installatie) juist de goedkoopste van de drie; het verschil ontstaat pas als je de installatiekosten meeneemt, en die verschillen per meterkast en per installateur. Vergelijk daarom altijd offertes inclusief installatie. Voor wie waarde hecht aan Nederlandse helpdesk en gevestigde reputatie blijft Sessy de premium-keuze.
 
 ## Voorbeeldprofiel: gezin met hoge teruglevering
 
@@ -160,7 +160,7 @@ Profiel: 4.800 kWh teruglevering, geen EV, hybride warmtepomp, gezin met 2 kinde
 4. Nu al een dynamisch contract afsluiten, zodat je in december alvast met uurtarieven leert werken
 5. De meterkast tijdens een reguliere controle in november al laten voorbereiden
 
-Investering: 5.995 EUR. In een modelberekening met 4.800 kWh teruglevering, een terugleververgoeding van €0,05/kWh en een leveringstarief van €0,30/kWh komt het jaarvoordeel op circa 880 EUR (eigen verbruik plus dynamisch handelen). Dat geeft een terugverdientijd van ongeveer 7 jaar — bij een levensduur van 10 jaar of meer acceptabel.
+Investering: 3.550 EUR voor de batterij plus circa 1.200 EUR voor een basisinstallatie met noodstroom, samen circa 4.750 EUR. In een modelberekening met 4.800 kWh teruglevering, een terugleververgoeding van €0,05/kWh en een leveringstarief van €0,30/kWh komt het jaarvoordeel op circa 880 EUR (eigen verbruik plus dynamisch handelen). Dat geeft een terugverdientijd van ongeveer 5,5 jaar — bij een levensduur van 10 jaar of meer acceptabel.
 
 ## Wat als wachten financieel verstandiger is
 

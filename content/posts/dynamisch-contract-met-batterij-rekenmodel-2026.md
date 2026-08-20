@@ -1,7 +1,7 @@
 ---
 title: 'Dynamisch contract + thuisbatterij: rekenmodel besparing 2026'
 date: '2026-09-09 08:00:00+02:00'
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
 description: Wat levert een 10 kWh thuisbatterij op een dynamisch contract op? Een transparant rekenmodel met EPEX-spreads, belastingen en degradatie — alle aannames expliciet.
 categories:
@@ -116,17 +116,17 @@ Voor batterij-sturing op dynamisch contract: zie [de uitleg over terugleverkoste
 
 ## 4. Wat kost het?
 
-Indicatieve marktprijzen voor 2026, exclusief eventuele subsidies:
+Indicatieve marktprijzen voor 2026, inclusief btw en zonder subsidie. Reken op de batterij met 21% btw: het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij, en de ISDE dekt voor woningeigenaren geen batterijopslag.
 
 | Onderdeel | Kosten | Terugverdientijd |
 |---|---|---|
-| Thuisbatterij 5-10 kWh | €3.795-€5.995 | 6-8 jaar |
+| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
 | P1-meter (HomeWizard) | €99 | < 1 jaar |
 | Home Assistant Yellow | €199 | n.v.t. (tool) |
 | Slimme laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
 | Extra sturing/accessoires | €0-€2.000 | varieert |
 
-Voor een volledige kostenberekening: zie [de vergelijking dynamisch versus vast](/posts/dynamisch-vs-vast-contract-2026/). Daar staan ook subsidies op een rij.
+Voor een volledige kostenberekening: zie [de vergelijking dynamisch versus vast](/posts/dynamisch-vs-vast-contract-2026/).
 
 ## 5. Drie valkuilen bij de aanschaf
 
@@ -287,7 +287,7 @@ Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_b
 
 Een tweede rekenvoorbeeld, kleiner gedimensioneerd (fictief, aannames expliciet):
 
-Verbruik 4.100 kWh per jaar, zonneproductie 5.200 kWh, EV-laden 6.500 kWh extra, batterij 5 kWh AC-gekoppeld. Bij een gemiddelde bruikbare spread van €0,20/kWh en 1,3 cycli per dag komt de arbitragewinst op circa €400 per jaar; extra zelfconsumptie levert in dit profiel €250-€350. Bij een investering van €2.890 exclusief BTW-teruggave is de terugverdientijd dan 4 tot 5 jaar.
+Verbruik 4.100 kWh per jaar, zonneproductie 5.200 kWh, EV-laden 6.500 kWh extra, batterij 5 kWh AC-gekoppeld. Bij een gemiddelde bruikbare spread van €0,20/kWh en 1,3 cycli per dag komt de arbitragewinst op circa €400 per jaar; extra zelfconsumptie levert in dit profiel €250-€350. Bij een investering van €2.890 inclusief 21% btw — er is geen btw-teruggaaf of subsidie op de batterij verondersteld — is de terugverdientijd in dit model 4 tot 5 jaar.
 
 De les uit dit voorbeeld: bij een klein systeem met een hoog verbruik is de batterij vrijwel altijd volledig benut, waardoor het rendement per kWh capaciteit hoger uitvalt dan bij een grote batterij die maar deels wordt gebruikt.
 
@@ -319,4 +319,4 @@ Minimaal elk half jaar. EPEX-prijzen schommelen seizoensgebonden en een andere g
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van wat de ISDE wel en niet dekt (thuisbatterijen vallen er niet onder).

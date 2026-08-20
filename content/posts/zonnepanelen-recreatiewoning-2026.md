@@ -68,7 +68,7 @@ Hieronder de gids voor zonnepanelen op recreatiewoningen, vakantiehuizen en chal
 
 Recreatiewoning op eigen grond met eigen aansluiting (Liander/Stedin/Enexis). Zelfde regels als gewone woning.
 - Saldering werkt
-- BTW-teruggave (oudere installaties)
+- Btw: het 0%-tarief voor zonnepanelen geldt voor panelen op of bij een woning — of jouw recreatiewoning kwalificeert, hangt van de woonfunctie af (check Belastingdienst)
 - Subsidies vergelijkbaar met hoofdwoning
 
 ### Scenario B: On-grid via park-meter
@@ -389,7 +389,7 @@ De belangrijkste les uit de rekensom: bij parttime gebruik (grofweg 6 weekenden 
 - Aanbevolen: 4-8 on-grid panelen + kleine batterij (2-5 kWh)
 - Investering: €2.500-€5.500
 - Saldering: meestal NIET, want park heeft vaak gemeenschappelijke meter
-- BTW-teruggave: helaas niet voor recreatiewoning zonder permanent verblijf
+- Btw: zonder woonfunctie geldt het 0%-tarief doorgaans niet en betaal je 21% — check je situatie bij de Belastingdienst
 - Aandachtspunt: park-reglement check vooraf (welstand, kabelroutes)
 
 ### Type 2: Solitair vakantiewoning eigen perceel
@@ -397,7 +397,7 @@ De belangrijkste les uit de rekensom: bij parttime gebruik (grofweg 6 weekenden 
 - Aanbevolen: 6-10 panelen on-grid + 5-10 kWh batterij
 - Investering: €4.500-€9.000
 - Subsidie ISDE: nee voor zonnepanelen, ja voor warmtepompboiler in vakantiewoning
-- BTW-teruggave: ja, want eigen aansluiting
+- Btw: 0%-tarief alleen als de vakantiewoning als woning kwalificeert; verhuur je hem, dan kan btw-terugvragen via ondernemerschap spelen — vraag een adviseur
 
 ### Type 3: Off-grid (boshuis, eiland)
 
@@ -409,7 +409,7 @@ De belangrijkste les uit de rekensom: bij parttime gebruik (grofweg 6 weekenden 
 ## NL-specifiek: regelgeving recreatiewoningen
 
 - **Recreatieve bestemming**: zonnepanelen mogen, maar gemeentelijk welstands-toezicht kan op parken streng zijn
-- **BTW-teruggave**: alleen mogelijk als woning permanent bewoonbaar is (en je het zo aangeeft) — strafbaar als je doet alsof
+- **Btw (0%-tarief)**: het nultarief voor zonnepanelen geldt voor panelen op of bij een wóning; bij een puur recreatieve bestemming geldt het doorgaans niet (21%). De grens is fiscaal precies — geef je situatie eerlijk op en raadpleeg de Belastingdienst of een adviseur
 - **ISDE warmtepomp recreatiewoning**: kan, mits woning >50% van jaar bewoonbaar
 - **Verzekering**: vraag opstal apart na voor recreatiewoning; Centraal Beheer en Klaverblad hebben vakantiewoning-polissen
 

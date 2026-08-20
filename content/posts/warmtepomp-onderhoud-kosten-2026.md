@@ -25,7 +25,7 @@ faq:
 - q: Hoe vaak moet een warmtepomp onderhoud hebben?
   a: Een warmtepomp heeft jaarlijks een basiscontrole nodig (filters, kondensaat, druk) en elke 3-5 jaar een uitgebreid service-beurt inclusief controle van het koudemiddel, de elektrische aansluitingen en het verwarmingssysteem. Raadpleeg altijd de handleiding van jouw model.
 - q: Wat kost het jaarlijkse onderhoud van een warmtepomp?
-  a: Een jaarlijkse onderhoudsbeurt kost gemiddeld €150-€350 bij een erkend installateur. Sommige fabrikanten bieden een servicecontract aan van €150-€250 per jaar dat meerdere beurten en voorrijdkosten dekt.
+  a: 'Een jaarlijkse onderhoudsbeurt kost gemiddeld €150-€350 bij een erkend installateur. Fabrikant-eigen contracten zijn er ook: Vaillant publiceert voor zijn Vaillant Care-pakketten €181,50 tot €347,27 per jaar inclusief btw bij tweejaarlijks onderhoud (prijspeil augustus 2026). Daikin, Feenstra en ATAG publiceren geen vaste prijs voor warmtepomponderhoud en werken met een aanbod op basis van jouw installatie.'
 - q: Wat kost het 5-jaarlijkse onderhoud van een warmtepomp?
   a: Een uitgebreide 5-jaarlijkse beurt kost doorgaans €350-€700, afhankelijk van het merk, de omvang van het systeem en eventueel te vervangen onderdelen. Het vervangen van het koudemiddel (R32 of R410A) valt onder een gecertificeerde monteur en kost €150-€400 extra.
 - q: Kan ik warmtepomp-onderhoud zelf doen?
@@ -135,13 +135,71 @@ Onderstaande bedragen zijn de tarieven die installateurs en fabrikanten voor 202
 | Onderhoudscontract inclusief storingsdienst | €200-350/jaar |
 | Keuring bij aankoop tweedehands woning | €175-300 |
 
-**Fabrikant-eigen onderhoudscontracten:**
-- **Daikin**: ca. €190/jaar (inclusief helpdesk)
-- **Nibe**: ca. €160-210/jaar
-- **Vaillant**: ca. €180-240/jaar
-- **ATAG**: ca. €170-220/jaar
-
 Onafhankelijke installateurs zitten soms goedkoper (€130-170/jaar), maar controleer of ze gecertificeerd zijn voor jouw merk. Een Nibe-pomp laten onderhouden door een technicus die Daikin gewend is gaat soms fout bij software-updates en koudemiddelstanden.
+
+Wat de fabrikanten en grote serviceverleners zélf aanbieden, verschilt sterk — en niet iedereen publiceert er een prijs bij. Dat zetten we hieronder per merk op een rij, uitsluitend op basis van wat er op hun eigen sites staat.
+
+---
+
+## Onderhoudscontract per merk
+
+De belangrijkste constatering vooraf: **maar één van de vijf partijen hieronder publiceert een compleet prijslijstje voor warmtepomponderhoud.** De rest werkt met een offerte, een configurator of een verwijzing naar de installateur. Dat maakt vergelijken lastig, en het is de reden dat de bedragen in de tabel eerder in dit artikel bandbreedtes zijn.
+
+| Merk | Eigen onderhoudscontract voor warmtepompen? | Onderhoudsinterval volgens de fabrikant | Prijs |
+|---|---|---|---|
+| **Vaillant** | Ja — Vaillant Care in drie pakketten | Tweejaarlijks | Gepubliceerd, zie hieronder |
+| **Daikin** | Ja — via Stand By Me, als de installateur zelf niets aanbiedt | Jaarlijkse controle aanbevolen | Niet publiek; zie site |
+| **Feenstra** | Ja — warmtepomp onderhoudsabonnement | Afhankelijk van fabrikantvoorschrift; hybride met buitenunit elke 2 jaar | Niet publiek; op basis van jouw installatie, zie site |
+| **ATAG** | Voor warmtepompen niet als kant-en-klaar abonnement gepubliceerd | Na het eerste bedrijfsjaar en vervolgens om het jaar | Niet publiek; zie site |
+| **Itho Daalderop** | Nee — verwijst naar service- en onderhoudsbedrijven per productgroep | Volgens de handleiding van het toestel | Via het servicebedrijf, zie site |
+
+### Vaillant — het enige volledig transparante aanbod
+
+Vaillant is de enige partij in dit rijtje die de prijzen voor warmtepomponderhoud gewoon op de site zet, in drie pakketten onder de naam Vaillant Care. Alle drie omvatten tweejaarlijks onderhoud aan het toestel; de verschillen zitten in wat er bij een reparatie gedekt is.
+
+| Pakket | Wat erin zit | Prijs per jaar (incl. btw) | Hybride warmtepomp |
+|---|---|---|---|
+| Essential Care | Alleen preventief onderhoud; onderdelen en arbeid bij reparatie niet inbegrepen | €181,50 | €246,84 |
+| Smart Care | Essential plus ondersteuning op afstand; arbeid en voorrijkosten bij reparatie gedekt, onderdelen met 10% korting | €284,35 | €369,05 |
+| Complete Care | Smart plus originele Vaillant-onderdelen bij reparatie inbegrepen | €347,27 | €475,53 |
+
+*Opgave Vaillant Nederland, prijspeil augustus 2026. Smart Care en Complete Care vereisen een Vaillant-gateway met een stabiele internetverbinding; Essential Care niet. Essential Care is af te sluiten tot 15 jaar na installatie, Smart en Complete tot 10 jaar.*
+
+Twee dingen om te wegen bij deze prijzen. Ten eerste is het onderhoud **tweejaarlijks**, dus je betaalt een jaarbedrag voor gemiddeld een halve beurt per jaar — de rest van het bedrag is dekking en beschikbaarheid. Ten tweede is het verschil tussen Essential en Complete circa €166 per jaar: dat is de premie die je betaalt om onderdelen en arbeid niet apart te hoeven afrekenen. Vaillant rekent buiten contract een uurtarief van €137,34 inclusief btw plus €114,35 voorrijkosten, dus één reparatiebezoek met wat onderdelen kan die premie al benaderen.
+
+### Daikin — via de installateur, en anders via Stand By Me
+
+Daikin legt het onderhoudscontract primair bij je installateur neer. Op de servicepagina's staat dat de installateur achttien maanden de tijd heeft om je een onderhoudscontract aan te bieden; doet hij dat niet, dan kun je je toestel registreren op het Stand By Me-platform van Daikin en daar zelf een onderhoudspakket aanschaffen. Daikin beveelt een jaarlijkse onderhoudscontrole door de installateur of servicepartner aan.
+
+Prijzen staan niet publiek op de site: die hangen af van het pakket en van je installatie. Vraag ze op via je installateur of via Stand By Me voordat je met andere merken vergelijkt.
+
+### Feenstra — abonnement op maat, geen vaste prijs
+
+Feenstra biedt een apart warmtepomp-onderhoudsabonnement aan, naast de bekendere cv-ketelabonnementen. Feenstra geeft zelf aan dat de prijs én de inhoud afhangen van drie dingen: het type warmtepomp, de onderhoudscyclus die de fabrikant voorschrijft, en de hoeveelheid koudemiddel in de installatie. Voor een hybride warmtepomp met buitenunit noemt Feenstra een onderhoudsbeurt elke twee jaar.
+
+Er staat dus geen kant-en-klaar maandbedrag voor warmtepompen op de site; je krijgt een prijs na het invullen van je installatiegegevens. Dat is onhandig om te vergelijken, maar wel logisch: de hoeveelheid koudemiddel bepaalt of de wettelijke F-gassencontrole erbij hoort, en dat is een echte kostenpost.
+
+### ATAG — voor cv-ketels wel een abonnement, voor warmtepompen op aanvraag
+
+Bij ATAG lopen twee dingen door elkaar die je goed moet scheiden. ATAG Verwarming (de fabrikant) adviseert onderhoud aan een warmtepomp "na het eerste bedrijfsjaar en vervolgens om het jaar", en stelt dat de onderhoudskosten van een warmtepomp vergelijkbaar zijn met die van een cv-ketel. Een onderhoudsabonnement voor warmtepompen met een gepubliceerde prijs is er niet; ATAG werkt met een aanvraagformulier voor een onderhoudsabonnement en met een dealernetwerk voor de uitvoering.
+
+ATAGwarmte, de servicetak, publiceert wél een all-in serviceabonnement — maar dat is er voor **cv-ketels**: €99 voor de technische opname bij de start en daarna €15,60 per maand, met een onderhoudsbeurt elke twee jaar. Reken dat bedrag dus niet één-op-één door naar een warmtepomp; vraag om een aanbod voor jouw toestel.
+
+### Itho Daalderop — geen eigen abonnement, wel een servicenetwerk
+
+Itho Daalderop biedt consumenten geen eigen onderhoudsabonnement voor warmtepompen aan. Het bedrijf verwijst per productgroep naar onderhouds- en servicebedrijven en houdt daarvoor een servicepunten-overzicht bij. Het onderhoudscontract sluit je dus af bij dat servicebedrijf of bij je installateur, tegen hun tarief.
+
+Wat Itho Daalderop wel zelf regelt, is de datakant: de warmtepompen worden standaard geleverd met een communicatieprint die het toestel met de cloud verbindt, wat monitoring en diagnose op afstand mogelijk maakt. Voor het onderhoud betekent dat vooral dat een servicebedrijf een storing vaak op afstand kan inschatten voordat er iemand langskomt.
+
+### Wat wij hieruit concluderen
+
+Vergelijk niet op het jaarbedrag alleen, want de merken meten niet hetzelfde. Drie vragen die het verschil maken:
+
+1. **Hoe vaak komt er iemand?** Tweejaarlijks onderhoud voor €181,50 per jaar is per beurt duurder dan het lijkt. Reken altijd om naar kosten per beurt.
+2. **Zitten onderdelen erin?** Het verschil tussen een puur preventief pakket en een all-in pakket is bij Vaillant circa €166 per jaar. Of dat de moeite is, hangt af van de leeftijd van je toestel: bij een pomp binnen de fabrieksgarantie betaal je voor dekking die je deels al hebt.
+3. **Is de F-gassencontrole inbegrepen?** Dat hangt af van de hoeveelheid koudemiddel in jouw systeem, en het is precies het punt waarop Feenstra zijn prijs laat variëren. Vraag het expliciet na.
+
+Ons oordeel: voor een toestel dat nog binnen de fabrieksgarantie valt, is een basis- of preventief pakket doorgaans genoeg. Een all-in pakket wordt pas interessant als de garantie afloopt en het toestel de leeftijd nadert waarop de circulatiepomp en het expansievat aan de beurt komen — zie de volgende sectie.
 
 ---
 

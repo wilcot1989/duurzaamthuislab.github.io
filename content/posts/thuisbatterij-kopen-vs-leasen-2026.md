@@ -1,7 +1,7 @@
 ---
 title: Thuisbatterij kopen of leasen 2026
 date: 2026-05-12 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Thuisbatterij kopen of leasen? Volledig rekenmodel over 10 jaar voor Sessy, Zonneplan en Marstek. Voor wie wel, voor wie niet.
 categories:
 - thuisbatterijen
@@ -46,7 +46,7 @@ products:
   price: '54'
 - name: Sessy 10 kWh (alternatief koop)
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  price: '5500'
 - name: Marstek Venus E (alternatief koop)
   url: https://marstekenergy.com/venus-e
   price: '2299'
@@ -67,9 +67,9 @@ schema_type: Article
 
 Op het eerste gezicht lijkt kopen altijd beter: je bent eigenaar, geen maandelijkse verplichtingen, restwaarde na jaren. Maar vier factoren maken het genuanceerder:
 
-**1. Cashflow**: €5.995 of €2.679 in één keer neerleggen is voor veel huishoudens niet triviaal. Huishoudens met een smalle marge — hypotheek, kinderopvang, auto — kiezen lease niet uit luiheid maar uit noodzaak.
+**1. Cashflow**: €5.500 of €2.679 in één keer neerleggen is voor veel huishoudens niet triviaal. Huishoudens met een smalle marge — hypotheek, kinderopvang, auto — kiezen lease niet uit luiheid maar uit noodzaak.
 
-**2. Technologische veroudering**: batterijprijzen dalen 12-15% per jaar. Een 10 kWh batterij die je in 2026 voor €5.995 koopt, kost in 2030 mogelijk €3.500. Bij lease is dit Zonneplan's probleem, niet het jouwe.
+**2. Technologische veroudering**: batterijprijzen dalen 12-15% per jaar. Een 10 kWh batterij die je in 2026 voor €5.500 koopt, kost in 2030 mogelijk €3.500. Bij lease is dit Zonneplan's probleem, niet het jouwe.
 
 **3. Verhuisrisico**: koop je een woning maar weet je niet zeker of je over 3 jaar verhuist? Een gekochte batterij meenemen kost €300-€600 herinstallatie. Een geleasede batterij laat je gewoon staan.
 
@@ -81,17 +81,15 @@ Op het eerste gezicht lijkt kopen altijd beter: je bent eigenaar, geen maandelij
 
 Laat ik koop en lease naast elkaar leggen voor de meest voorkomende Nederlandse situaties in 2026:
 
-### Aspect 1 — Belastingvoordeel (0% BTW)
+### Aspect 1 — Btw: geen voordeel, bij koop noch bij lease
 
-Wie koopt, profiteert van 0% BTW op de batterij én installatie. Dit scheelt 21% op de aankoopprijs:
-- Sessy 10 kWh: €1.249 BTW-voordeel
-- Marstek Venus E: €558 BTW-voordeel
+Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Er is dus geen btw-voordeel dat koop aantrekkelijker maakt dan lease; de prijzen die verkopers noemen zijn consumentenprijzen inclusief die 21%.
 
-Wie leaset bij Zonneplan krijgt dit voordeel indirect al verrekend in de leaseprijs (Zonneplan koopt de batterij ook BTW-vrij en verrekent dat in hun marge). Maar: jij hebt geen directe zeggenschap over hoe Zonneplan dat verwerkt.
+Eén uitzondering, en dan echt een specifieke: lever je stroom terug en ben je daarvoor btw-ondernemer, dan kun je btw op de aanschaf in bepaalde gevallen terugvragen. De Belastingdienst stelt daar voorwaarden aan, waaronder een energiemanagementsysteem en een dynamisch contract, en je draagt dan ook btw af over je terugleververgoeding. Reken hier niet standaard op — check je situatie op belastingdienst.nl of bij je adviseur.
 
 ### Aspect 2 — Subsidies
 
-Gemeentelijke en provinciale subsidies (€200-€750, afhankelijk van regio) zijn bijna altijd alleen voor kopers. Zonneplan-lease kwalificeert niet, omdat de batterij eigendom van Zonneplan blijft. Wie een Flevoland-subsidie van €750 kan pakken: kopen loont extra.
+Op rijksniveau bestaat er geen subsidie voor thuisbatterijen: de ISDE dekt isolatie, ventilatie, warmtepompen, zonneboilers, warmtenetaansluitingen en elektrisch koken, geen energieopslag. Wél hebben sommige gemeenten en provincies eigen regelingen of leningen. Die zijn bijna altijd alleen voor kopers, omdat de batterij bij Zonneplan-lease eigendom van Zonneplan blijft. Bedragen en voorwaarden verschillen per regio en per jaar, en aanmelden moet soms vóór aanschaf — check dus je gemeentewebsite voordat je bestelt.
 
 ### Aspect 3 — Waardeontwikkeling woning
 
@@ -99,7 +97,7 @@ In theorie verhoogt een thuisbatterij de woningwaarde. In de praktijk is dat moe
 
 ### Aspect 4 — Impact op hypotheek
 
-Een thuisbatterij van €5.995 kopen levert mogelijk extra hypotheekruimte op via de Nationale Hypotheek Garantie (NHG) — woningverbetering mag worden meegefinancierd. Vraag je hypotheekadviseur. Dit is bij lease niet van toepassing.
+Een thuisbatterij van €5.500 kopen levert mogelijk extra hypotheekruimte op via de Nationale Hypotheek Garantie (NHG) — woningverbetering mag worden meegefinancierd. Vraag je hypotheekadviseur. Dit is bij lease niet van toepassing.
 
 ### Aspect 5 — Einde levensduur
 
@@ -109,9 +107,9 @@ Na 10 jaar is een gekochte Sessy nog steeds van jou. Batterij presteert op ~80% 
 
 ## Het rekenmodel
 
-Ik vergelijk drie scenarios voor een 10 kWh thuisbatterij over 10 jaar:
+Wij vergelijken drie scenario's voor een 10 kWh thuisbatterij over 10 jaar. Het zijn modelberekeningen op basis van de aannames eronder, geen gemeten uitkomsten:
 
-**Scenario A — Koop Sessy 10 kWh**: €5.995 cash, eigen verzekering, klaar
+**Scenario A — Koop Sessy 10 kWh**: €5.500 cash (incl. btw, excl. installatie; prijspeil aug 2026 — een basisinstallatie met noodstroom rekent Sessy op €1.200), eigen verzekering, klaar
 **Scenario B — Lease Zonneplan 10 kWh**: €54/maand × 120 maanden = €6.480, alles inclusief
 **Scenario C — Koop Marstek Venus E 8,2 kWh**: €2.679 cash, prijs-kampioen
 
@@ -126,12 +124,12 @@ Aannames:
 
 | Jaar | Uitgave | Cumulatief |
 |---|---|---|
-| 0 (aankoop) | €5.995 + €40 verzekering = **€6.035** | €6.035 |
-| 1 | €40 verzekering | €6.075 |
-| 2 | €41 | €6.116 |
-| 3 | €42 | €6.158 |
-| 4-9 | ~€42-50/jr | tot €6.420 |
-| 10 | €100 onderhoud + €51 verz. | €6.571 |
+| 0 (aankoop) | €5.500 + €40 verzekering = **€5.540** | €5.540 |
+| 1 | €40 verzekering | €5.580 |
+| 2 | €41 | €5.621 |
+| 3 | €42 | €5.663 |
+| 4-9 | ~€42-50/jr | tot €5.925 |
+| 10 | €100 onderhoud + €51 verz. | €6.076 |
 
 **10 jaar totale uitgaven**: €6.571
 **Maandelijks gemiddeld**: €54,76
@@ -172,8 +170,8 @@ Pure euro's vertellen niet het hele verhaal:
 
 | Aspect | Sessy koop | Zonneplan lease | Marstek koop |
 |---|---|---|---|
-| Eenmalige investering | €5.995 | €0 | €2.679 |
-| 10 jaar totaal | €6.571 | €6.480 | €3.269 |
+| Eenmalige investering | €5.500 (excl. installatie) | €0 | €2.679 |
+| 10 jaar totaal | €6.076 | €6.480 | €3.269 |
 | Eigendom | Jij | Zonneplan | Jij |
 | Onderhoud | Jij regelt | Inclusief | Jij regelt |
 | Vervanging bij defect | Garantie 10jr | Direct, 5 dagen | Garantie 10jr (4-8 wkn) |
@@ -249,9 +247,9 @@ Zonneplan kan in principe de leaseprijs aanpassen bij contractverlenging. De hui
 
 Bij koop kun je de batterij meenemen naar je nieuwe huis (aanpassen en heraansluiten kost €300-€600 maar dan is hij van jou). Bij lease neem je de batterij niet mee — die blijft bij het huis of gaat terug naar Zonneplan. Dit maakt lease eigenlijk juist aantrekkelijk als je snel gaat verhuizen: je hebt geen last van de demontage, Zonneplan haalt het apparaat op.
 
-**Fout 4: Subsidies vergeten bij koop**
+**Fout 4: rekenen met een btw-voordeel dat niet bestaat**
 
-Wie koopt, heeft recht op 0% BTW en eventuele gemeentelijke subsidies. Wie leaset niet. Bij een Sessy 10 kWh van €5.995 scheelt de 0% BTW al €1.249. Dat verandert het rekenplaatje significant ten gunste van koop.
+Op een thuisbatterij betaal je 21% btw, ook bij koop en ook bij gelijktijdige aanschaf met zonnepanelen. Wie €1.000 of meer aan "btw-voordeel" in zijn koopberekening zet, maakt de koopoptie op papier goedkoper dan hij is. Wat wél alleen voor kopers geldt: eventuele gemeentelijke of provinciale regelingen. Check die vóór je bestelt en reken verder met de volle prijs inclusief btw.
 
 ## Hoe saldering-stop 2027 de koop/lease-keuze verandert
 
@@ -285,11 +283,11 @@ De vraag die over blijft: hoe ziet het over vijftien jaar uit? Hieronder de voll
 
 | Periode | Jaarlijkse kosten | Jaarlijkse besparing | Netto per jaar |
 |---|---|---|---|
-| Jaar 0 (aankoop) | €5.995 + €40 verz. | €680 | -€5.355 |
+| Jaar 0 (aankoop) | €5.500 + €40 verz. | €680 | -€4.860 |
 | Jaar 1-2 (met saldering) | €41 verz. | €694 | +€653 |
 | Jaar 3-10 (geen saldering) | €43-50 verz. | €920-€1.076 | +€870-€1.026 |
 | Jaar 11-15 | €52-55 verz. | €1.100-€1.215 | +€1.045-€1.160 |
-| **Cumulatief jaar 15** | **~€6.710 totaal kosten** | **~€14.400 totaal besparing** | **+€7.690** |
+| **Cumulatief jaar 15** | **~€6.215 totaal kosten** | **~€14.400 totaal besparing** | **+€8.185** |
 
 **Scenario B — Lease Zonneplan 10 kWh:**
 
@@ -341,7 +339,7 @@ Veel gemeenten hebben eigen duurzaamheidsleningen via het Stimuleringsfonds Volk
 
 | Financieringsoptie | Maandlast | 10 jaar totaal | Eigendom |
 |---|---|---|---|
-| Cash kopen Sessy | n.v.t. (eenmalig €5.995) | €6.571 | Jij |
+| Cash kopen Sessy | n.v.t. (eenmalig €5.500) | €6.076 | Jij |
 | Warmtefonds 0% | €50 | €6.000 | Jij |
 | Warmtefonds 1,5% | €54 | €6.480 | Jij |
 | Gemeentelijke lening 1% | €52 | €6.240 | Jij |
@@ -355,7 +353,7 @@ Hoe aanvragen: nationaalwarmtefonds.nl → "Lening aanvragen" → verduurzamings
 
 Een argument vóór lease dat ik serieus neem: het risico van technologische veroudering. Thuisbatterijen zijn een snel evoluerende technologie. In 2020 kostte een 10 kWh batterij €12.000. In 2024: €6.000. In 2026: €5.000-€6.000. De verwachting is dat de prijs verder daalt naar €3.000-€4.000 rond 2030.
 
-Als je nu €6.000 betaalt voor een Sessy 10 kWh en over 5 jaar zijn vergelijkbare batterijen €3.500, heb je relatief duur gekocht. Bij lease ben je flexibeler: je kunt opzeggen, inleveren en een nieuwe generatie leasen.
+Als je nu circa €5.500 plus installatie betaalt voor een Sessy 10 kWh en over 5 jaar zijn vergelijkbare batterijen €3.500, heb je relatief duur gekocht. Bij lease ben je flexibeler: je kunt opzeggen, inleveren en een nieuwe generatie leasen.
 
 **Hoe groot is dit risico in de praktijk?**
 
@@ -363,11 +361,11 @@ Realistisch gezien zijn de grootste prijsdalingen al achter de rug. Van €12.00
 
 | Jaar | Verwachte marktprijs 10 kWh batterij | Sessy afschrijving (lineair) |
 |---|---|---|
-| 2026 (aankoop) | €5.995 | €5.995 |
-| 2028 | ~€5.000 | ~€4.796 |
-| 2030 | ~€4.200 | ~€3.597 |
-| 2033 | ~€3.500 | ~€2.398 |
-| 2036 | ~€3.000 | ~€1.199 |
+| 2026 (aankoop) | €5.500 | €5.500 |
+| 2028 | ~€5.000 | ~€4.400 |
+| 2030 | ~€4.200 | ~€3.300 |
+| 2033 | ~€3.500 | ~€2.200 |
+| 2036 | ~€3.000 | ~€1.100 |
 
 De marktwaardedaling en de boekwaardedaling lopen min of meer gelijk. Je verliest geen extra waarde door de veroudering van de markt — jouw batterij doet ook minder waard wat hij doet.
 
@@ -395,7 +393,7 @@ Een eenvoudig keuzemodel voor wie twijfelt. Beantwoord deze vijf vragen eerlijk:
 
 **5. Is de subsidie-situatie in mijn gemeente gunstig?**
 - Ja, >€400 lokale subsidie beschikbaar → koop wordt aanzienlijk aantrekkelijker
-- Nee, alleen 0% BTW → koop is nog steeds beter maar verschil met lease wordt kleiner
+- Nee, geen lokale regeling → koop blijft over tien jaar meestal gunstiger, maar het verschil met lease is klein
 
 **Score:**
 - 4-5× koop-antwoord → kopen is duidelijk verstandiger
@@ -408,7 +406,7 @@ Een eenvoudig keuzemodel voor wie twijfelt. Beantwoord deze vijf vragen eerlijk:
 
 **Cash beschikbaar en smart-home-affiniteit**: kopen, en dan aan de onderkant van de markt. Een Marstek Venus E rond de €2.679 plus eigen automatisering via Home Assistant geeft de laagste kosten per kWh, tegen meer eigen inregelwerk.
 
-**De middenweg voor de meeste huishoudens**: een Sessy kopen rond €5.995 — service inbegrepen, eigendom, Nederlandse leverancier, geen lease-lock-in.
+**De middenweg voor de meeste huishoudens**: een Sessy kopen rond €5.500 exclusief installatie — service inbegrepen, eigendom, Nederlandse leverancier, geen lease-lock-in.
 
 [Volledige Sessy review →](/posts/sessy-review-thuisbatterij-nederland/) · [Marstek review →](/posts/marstek-venus-review-thuisbatterij/) · [Zonneplan review →](/posts/zonneplan-thuisbatterij-review-2026/)
 
@@ -441,4 +439,4 @@ Voor 70% van Nederlandse huishoudens met een gezond cashflow en geen verhuisplan
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

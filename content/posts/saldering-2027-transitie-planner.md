@@ -35,9 +35,9 @@ faq:
 - q: Wat levert een dynamisch contract mij op na 2027?
   a: Met een dynamisch contract kun je teruggeleverde stroom op het beste moment 'verhandelen'. Zomerse piekuren leveren soms 15-25 cent per kWh op versus de vaste terugleververgoeding van 7-9 cent. Gemiddeld genomen bespaar je daarmee €150-€300 per jaar extra ten opzichte van een vast contract, maar dat varieert sterk per jaar en seizoen.
 - q: Is een thuisbatterij nu al rendabel?
-  a: Voor huishoudens met meer dan 2.500 kWh teruglevering per jaar en een groot avondverbruik begint een thuisbatterij rendabel te worden — met name als je ook een EV opladt. De terugverdientijd ligt in 2026 op 9-13 jaar voor een instapmodel als de Sessy of Marstek Venus. Met ISDE-subsidie van ca. €900/kWh gaat dat richting 7-11 jaar.
+  a: Voor huishoudens met meer dan 2.500 kWh teruglevering per jaar en een groot avondverbruik begint een thuisbatterij rendabel te worden — met name als je ook een EV oplaadt. De terugverdientijd ligt in 2026 op 9-13 jaar voor een instapmodel als de Sessy of Marstek Venus. Reken daarbij niet op landelijke subsidie, want de ISDE dekt geen thuisbatterijen. Met een dynamisch contract erbij zakt de terugverdientijd wel, omdat je ook op prijsverschillen per uur kunt bijverdienen.
 - q: Moet ik nu al iets regelen of kan ik wachten?
-  a: Idealiter regel je een dynamisch contract nu al — dat kost je niets en levert per direct voordeel op. Een thuisbatterij of warmtepomp hoef je niet morgen te kopen, maar de ISDE-subsidie 2026 heeft een budget dat op kan raken. Vóór eind 2026 aanvragen is verstandig als je serieus overweegt te investeren.
+  a: Idealiter regel je een dynamisch contract nu al — dat kost je niets en levert per direct voordeel op. Een thuisbatterij of warmtepomp hoef je niet morgen te kopen. Overweeg je een warmtepomp, houd dan rekening met het eindige ISDE-budget; de aanvraagvoorwaarden staan op rvo.nl. Voor een thuisbatterij is er geen ISDE, dus daar bepaalt alleen je eigen rendement de timing.
 - q: Werkt V2H (vehicle-to-home) al in Nederland?
   a: V2H is in 2026 nog beperkt beschikbaar in Nederland. De Volvo EX30, EX40, EC40 en de Hyundai Ioniq 5/6 en Kia EV6 ondersteunen V2H met de juiste wallbox (bijv. Wallbox Quasar 2). De technologie werkt, maar vereist een extra investering van €2.000-€4.000 voor de bidirectionele laadpaal en niet alle netbeheerders staan het toe.
 - q: Wat is het verschil tussen V2H en V2G?
@@ -45,7 +45,7 @@ faq:
 - q: Welke warmtepomp combineert het beste met zonnepanelen na 2027?
   a: Een hybride warmtepomp is voor de meeste woningen het meest praktisch — hij schakelt automatisch over op gas als de elektriciteitskosten te hoog zijn. Modellen van Daikin (Altherma 3 H HT), ATAG (One Smart) en Quatt werken goed met slim laden. Volledig elektrische lucht-water warmtepompen zijn efficiënter maar vereisen een goed geïsoleerde woning.
 - q: Hoeveel ISDE-subsidie kan ik verwachten in 2026?
-  a: In 2026 bedraagt de ISDE voor warmtepompen €1.500-€3.500 afhankelijk van het type en vermogen. Voor thuisbatterijen is dat ca. €900 per kWh opslagcapaciteit, met een maximum van €5.400. Het totale ISDE-budget is eindig — historisch raakt dat tussen augustus en november op.
+  a: In 2026 bedraagt de ISDE voor warmtepompen €1.500-€3.500 afhankelijk van het type en vermogen. De regeling geldt voor isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een warmtenet-aansluiting en elektrisch koken. Thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder. Het totale ISDE-budget is eindig; de actuele bedragen en voorwaarden staan op rvo.nl.
 - q: Heeft een slimme warmwaterboiler echt nut?
   a: Ja, zeker als je overdag veel teruglevering hebt. Een slimme warmwaterboiler (bijv. van Atlantic of Cliché) laadt zichzelf op tijdens piekopwekking en gebruikt daarmee goedkope of 'gratis' zonnestroom. Dat is 2-3 kWh per dag die je niet meer terugleverd voor 8 cent maar zelf gebruikt ter waarde van 30 cent — een besparing van €130-€200 per jaar.
 - q: Is het nog zinvol om extra zonnepanelen bij te plaatsen na 2026?
@@ -53,7 +53,7 @@ faq:
 products:
 - name: Sessy 5 kWh thuisbatterij
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '3795'
+  price: '3550'
 - name: Marstek Venus thuisbatterij
   url: https://go.duurzaamthuislab.nl/marstek
   price: '3200'
@@ -138,7 +138,7 @@ Je hebt al een warmtepomp en EV, of je bent volledig elektrisch. Je verbruik is 
 
 Je hebt al de infrastructuur om slim te sturen. Een dynamisch contract geeft je de flexibiliteit om te profiteren van lage uurprijzen. Een thuisbatterij van 5-10 kWh is de logische aanvulling — je zonnestroom sla je op voor de avondpiek.
 
-**Prioriteit:** Dynamisch contract nu, thuisbatterij voor eind 2026 (ISDE!).
+**Prioriteit:** Dynamisch contract nu, thuisbatterij zodra de terugverdientijd in jouw situatie klopt (er is geen landelijke batterijsubsidie waar je op hoeft te wachten of die verloopt).
 
 ### Energielabel C of D — hybride situatie
 
@@ -199,19 +199,21 @@ Een dynamisch contract werkt het beste als je:
 
 Een thuisbatterij slaat overdag opgewekte zonnestroom op zodat je die 's avonds gebruikt. Dat scheelt in het referentieprofiel hierboven 2.400 kWh teruglevering à 22 cent verschil = €528 per jaar — als je de hele teruglevering kunt opslaan. In de praktijk is 60-75% van de teruglevering opvangbaar met een 5-10 kWh batterij.
 
-**ROI-berekening per scenario (2026):**
+**Modelberekening per scenario (2026, indicatief):**
 
-| Scenario | Batterij | Prijs incl. inst. | Jaarlijkse besparing | Terugverdientijd |
+| Scenario | Batterij | Prijs incl. inst. en 21% btw | Jaarlijkse besparing | Terugverdientijd |
 |----------|----------|-------------------|---------------------|-----------------|
-| 3 kWp, 1.500 kWh teruglevering | 5 kWh | €5.500 (na ISDE ~€4.100) | €280-€330 | 12-15 jaar |
-| 4,5 kWp, 2.500 kWh teruglevering | 7,5 kWh | €7.500 (na ISDE ~€5.700) | €420-€520 | 11-14 jaar |
-| 6 kWp, 4.000 kWh teruglevering | 10 kWh | €9.500 (na ISDE ~€6.800) | €650-€800 | 9-11 jaar |
-| 6 kWp + EV + dynamisch contract | 10 kWh | €9.500 (na ISDE ~€6.800) | €900-€1.200 | 6-8 jaar |
+| 3 kWp, 1.500 kWh teruglevering | 5 kWh | €5.500 | €280-€330 | 17-20 jaar |
+| 4,5 kWp, 2.500 kWh teruglevering | 7,5 kWh | €7.500 | €420-€520 | 14-18 jaar |
+| 6 kWp, 4.000 kWh teruglevering | 10 kWh | €9.500 | €650-€800 | 12-15 jaar |
+| 6 kWp + EV + dynamisch contract | 10 kWh | €9.500 | €900-€1.200 | 8-11 jaar |
+
+*Modelberekening op basis van de genoemde aannames, zonder subsidie: op een thuisbatterij bestaat geen landelijke regeling en de 21% btw is niet terugvorderbaar voor particulieren. Een gemeentelijke regeling kan de terugverdientijd in jouw geval verkorten; check de site van je gemeente. Zoals de tabel laat zien staat of valt het rendement bij een dynamisch contract en genoeg eigen avondverbruik.*
 
 **Thuisbatterijen die op specificaties en prijs-kwaliteit het beste scoren:**
 
 **[Sessy 5 kWh](https://go.duurzaamthuislab.nl/sessy) — beste keuze voor starters**
-Prijs: ca. €3.795 exclusief installatie. De Sessy is ontworpen voor de Nederlandse markt en heeft een van de eenvoudigste installaties. Compatibel met vrijwel alle omvormers via de Sessy app, en het installateursnetwerk in Nederland is het dichtste van alle merken. Nadeel: 5 kWh is voor grote systemen (>5 kWp) aan de kleine kant.
+Prijs: €3.550 incl. btw, exclusief installatie (prijspeil aug 2026). De Sessy is ontworpen voor de Nederlandse markt en heeft een van de eenvoudigste installaties. Compatibel met vrijwel alle omvormers via de Sessy app, en het installateursnetwerk in Nederland is het dichtste van alle merken. Nadeel: 5 kWh is voor grote systemen (>5 kWp) aan de kleine kant.
 
 **[Marstek Venus](https://go.duurzaamthuislab.nl/marstek) — beste prijs-kwaliteit**
 Prijs: ca. €3.200 exclusief installatie. Nieuwkomer op de Nederlandse markt maar met goede specificaties. 5 kWh, 3 kW laadvermogen, 10 jaar garantie. De technische specs zijn solide en de prijs is scherp; het servicenetwerk is wel dunner dan bij Sessy.
@@ -320,15 +322,15 @@ Zelfs zonder EV kun je met boiler + wasmachine + vaatwasser dagelijks 5-8 kWh ve
 
 2. **Switch naar dynamisch contract.** Als je dat nog niet hebt, stap dan over naar Tibber of Frank Energie. Dit kost niets en levert direct voordeel op. Lees onze [vergelijking van dynamische contracten](/posts/dynamische-energiecontracten-vergelijking-2026/) voor meer details.
 
-3. **Vraag een offerte aan voor thuisbatterij.** Contacteer 2-3 installateurs. Vraag specifiek naar ISDE-aanvraag — de installateur doet dat doorgaans voor je.
+3. **Vraag een offerte aan voor thuisbatterij.** Contacteer 2-3 installateurs. Vraag altijd om een prijs inclusief installatie en inclusief 21% btw — op een thuisbatterij geldt het btw-nultarief van zonnepanelen niet, en offertes verschillen daarin nogal.
 
-4. **Check ISDE-budget.** Het ISDE-budget is eindig. Aanmelden kan via RVO.nl. In 2025 was het budget in september al uitgeput.
+4. **Check de regeling van je gemeente.** Een landelijke batterijsubsidie bestaat niet, maar een deel van de gemeenten heeft een eigen duurzaamheidssubsidie of -lening. Die staan op de site van de gemeente en hebben vaak de voorwaarde dat je aanvraagt vóór installatie.
 
 ### Over 6 maanden (oktober–december 2026)
 
-5. **Installeer thuisbatterij vóór eind 2026** als de ROI klopt voor jouw situatie. Dan profiteer je nog van de ISDE 2026 en heb je de winter om te testen.
+5. **Installeer de thuisbatterij** zodra de terugverdientijd in jouw situatie klopt. Doe je dat vóór de winter, dan heb je meteen een winterseizoen om je arbitrage-instellingen te testen.
 
-6. **Overweeg warmtepomp** als je label C/D hebt en je cv-ketel aan vervanging toe is. ISDE aanvragen kost je niets en de subsidie kan flink oplopen.
+6. **Overweeg warmtepomp** als je label C/D hebt en je cv-ketel aan vervanging toe is. Voor warmtepompen bestaat ISDE wél; aanvragen kost je niets en de subsidie kan flink oplopen.
 
 7. **Installeer slimme warmwaterboiler** als je die nog niet hebt. Eenvoudig, goedkoop, direct rendement.
 
@@ -351,14 +353,14 @@ Het is nuttig om de strategieën niet alleen los maar ook in combinatie te bekij
 | Alleen dynamisch contract | +€180/jaar | €0 (wel maandkosten €7) | Direct |
 | Slimme boiler | +€154/jaar | €600 | 4 jaar |
 | Dynamisch + boiler | +€300/jaar | €600 | 2 jaar |
-| Thuisbatterij 5 kWh | +€380/jaar | €4.100 na ISDE | 10-11 jaar |
-| Thuisbatterij + dynamisch | +€520/jaar | €4.100 na ISDE | 8 jaar |
+| Thuisbatterij 5 kWh | +€380/jaar | €5.500 (incl. btw en installatie) | 14-15 jaar |
+| Thuisbatterij + dynamisch | +€520/jaar | €5.500 (incl. btw en installatie) | 10-11 jaar |
 | Hybride warmtepomp | +€280/jaar | €4.000 na ISDE | 14 jaar (+ gaswinst) |
 | Warmtepomp + dynamisch | +€430/jaar | €4.000 na ISDE | 9 jaar |
-| Batterij + warmtepomp + dynamisch | +€800/jaar | €8.000 na ISDE | 10 jaar |
+| Batterij + warmtepomp + dynamisch | +€800/jaar | €9.500 (batterij vol tarief + warmtepomp na ISDE) | 12 jaar |
 | EV + V2H-laadpaal + dynamisch | +€550/jaar | €4.500 (laadpaal) | 8 jaar |
 
-*Aannames: energieprijzen stabiel op 2026-niveau, ISDE-subsidie ontvangen, installatie inbegrepen.*
+*Modelberekening, geen individueel advies. Aannames: energieprijzen stabiel op 2026-niveau, installatie inbegrepen, ISDE alleen op de warmtepomp (batterijen vallen niet onder de ISDE en houden 21% btw).*
 
 ### Aanbevelingen per budget
 
@@ -366,7 +368,7 @@ Het is nuttig om de strategieën niet alleen los maar ook in combinatie te bekij
 
 **Budget €500-€1.000:** Dynamisch contract + slimme warmwaterboiler. Samen goed voor €280-€350 extra per jaar. Terugverdientijd: 2-3 jaar.
 
-**Budget €3.000-€5.000:** Thuisbatterij + dynamisch contract. De combinatie die voor de meeste huishoudens met >2.000 kWh teruglevering het beste rendeert.
+**Budget €3.000-€5.000:** Instap-thuisbatterij + dynamisch contract. De combinatie die voor de meeste huishoudens met >2.000 kWh teruglevering het beste rendeert. Let op: bij een batterij zit de 21% btw in de prijs en is er geen landelijke subsidie die je bedrag omlaag brengt.
 
 **Budget €5.000-€10.000:** Thuisbatterij + hybride warmtepomp + dynamisch contract. Dit is de volledige strategie — je verhoogt eigen verbruik, verlaagt gaskosten én optimaliseert teruglevering.
 
@@ -391,11 +393,13 @@ De ISDE (Investeringssubsidie Duurzame Energie en Energiebesparing) dekt in 2026
 | Warmtepomp (lucht-water) | €1.500-€3.500 | €3.500 |
 | Warmtepomp (grond-water) | €2.000-€4.500 | €4.500 |
 | Warmtepompboiler | €400-€700 | €700 |
-| Thuisbatterij | ~€900/kWh | €5.400 (max 6 kWh) |
 | Zonneboiler | €500-€1.000 | €1.000 |
 | Isolatie (spouwmuur, dak, vloer) | Variabel | Zie RVO.nl |
+| Ventilatie (alleen samen met isolatie, vanaf 2026) | Variabel | Zie RVO.nl |
+| Aansluiting op warmtenet | Variabel | Zie RVO.nl |
+| Elektrisch koken | Variabel | Zie RVO.nl |
 
-**Let op:** De ISDE voor thuisbatterijen is relatief nieuw en het budget is beperkt. In 2025 was dat budget in het najaar uitgeput. Aanvragen doe je via RVO.nl, maar je moet een goedgekeurde installateur inschakelen die de aanvraag samen met jou doet.
+**Let op — wat er níet in staat:** de ISDE voor woningeigenaren dekt géén thuisbatterijen, géén zonnepanelen en géén laadpalen. Adviezen en vergelijkers die een batterijbedrag per kWh noemen, kloppen niet. Aanvragen doe je via RVO.nl; de actuele bedragen en voorwaarden staan daar per maatregel.
 
 ### ISDE 2027 — verwachtingen
 
@@ -426,7 +430,7 @@ De doorlooptijd is 6-12 weken. Als het budget opraakt vóór jouw aanvraag verwe
 
 **1. Wachten tot 2027 om een beslissing te nemen**
 
-Hoe later je wacht, hoe kleiner het voordeel. ISDE-budget raakt op. Installateurs hebben een wachttijd. En elk kwartaal dat je een dynamisch contract mist, zijn gemiste kansen.
+Hoe later je wacht, hoe kleiner het voordeel. Installateurs hebben een wachttijd. En elk kwartaal dat je een dynamisch contract mist, zijn gemiste kansen. Overweeg je een warmtepomp, dan speelt ook het eindige ISDE-budget mee.
 
 **2. Een te grote thuisbatterij kopen**
 
@@ -500,7 +504,7 @@ De salderingstop van 2027 is reëel, maar het is geen ramp als je op tijd de jui
 
 Voor de meeste mensen is het advies simpel: **stap nu over naar een dynamisch contract** en begin te rekenen aan een thuisbatterij of warmtepomp. Dat kost je niets vandaag en geeft je inzicht voor morgen.
 
-Voor wie meer dan 2.500 kWh per jaar teruglevert en een EV of warmtepomp heeft (of overweegt), is 2026 het jaar om te handelen. De ISDE-subsidies zijn concreet, de installateurs zijn beschikbaar, en het prijsverschil dat je wint is structureel.
+Voor wie meer dan 2.500 kWh per jaar teruglevert en een EV of warmtepomp heeft (of overweegt), is 2026 het jaar om te handelen. Voor een warmtepomp of isolatie is de ISDE concreet, de installateurs zijn beschikbaar, en het prijsverschil dat je wint is structureel. Voor een thuisbatterij moet het rendement uit de saldering-afbouw en je dynamische contract komen — daar is geen landelijke subsidie voor.
 
 Je hoeft niet alles tegelijk te doen. Maar niks doen is ook een keuze — en die kost je gemiddeld €500-€800 per jaar.
 

@@ -164,9 +164,9 @@ Het hard gerekende stuk. Stel: €24.000 totale investering (panelen + batterij 
 - Dynamisch handelen batterij (gemiddeld €250/jaar)
 - **Totaal: ±€2.970 per jaar**
 
-Plus de Investeringssubsidie Duurzame Energie (ISDE 2026) voor thuisbatterij: €1.500 retour. Effectieve investering: €22.500.
+Rijkssubsidie is hier €0: de ISDE dekt isolatie, ventilatie (i.c.m. isolatie), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — geen thuisbatterijen en geen zonnepanelen. Op de batterij geldt bovendien 21% btw; het nultarief voor panelen sluit accupakketten uit. Wel mogelijk: een gemeentelijke of provinciale batterijregeling van €300-€750, afhankelijk van waar je woont. Effectieve investering blijft in dit model dus €24.000 (of €23.250-€23.700 met een lokale regeling).
 
-**Terugverdientijd: €22.500 / €2.970 = 7,6 jaar.** Met onderhoud en wat batterij-degradatie reken op 8-9 jaar. Daarna draai je 15-17 jaar gratis op je systeem (panelen 25 jaar garantie, batterij 10-15 jaar).
+**Terugverdientijd: €24.000 / €2.970 = 8,1 jaar.** Met onderhoud en wat batterij-degradatie reken op 8-9 jaar. Daarna draai je 15-17 jaar gratis op je systeem (panelen 25 jaar garantie, batterij 10-15 jaar).
 
 Belangrijk: deze cijfers gelden alleen als je *na* het einde van saldering rekent. Wie nu al zonder saldering werkt (vanaf 2027), heeft een batterij echt nodig om panelen rendabel te houden. Lees [batterij na 2027 zonder zonnepanelen zin 2026](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/) en [beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) voor de details.
 
@@ -220,4 +220,4 @@ Saldering vervalt in 2027 stapsgewijs. Daarna is autarkie (= eigen opslag) de en
 
 ---
 
-*Bronnen: [Milieu Centraal — Energie besparen](https://www.milieucentraal.nl/energie-besparen/) en [RVO ISDE-regeling 2026](https://www.rvo.nl/subsidies-financiering/isde). Eigen meetdata de redactie van DuurzaamThuisLab 2024-2025, plus data van twee klant-installaties in Gelderland en Noord-Brabant.*
+*Bronnen: [Milieu Centraal — Energie besparen](https://www.milieucentraal.nl/energie-besparen/), [RVO — ISDE](https://www.rvo.nl/subsidies-financiering/isde) (voor de maatregelen die wél subsidiabel zijn) en [Belastingdienst — btw-tarief zonnepanelen](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/tarieven_en_vrijstellingen/goederen_0_btw/btw-tarief-zonnepanelen). De rekenvoorbeelden zijn modelberekeningen op basis van KNMI-instralingscijfers, fabrikantspecificaties en publieke tariefdata.*

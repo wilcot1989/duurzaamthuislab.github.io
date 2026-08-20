@@ -49,6 +49,8 @@ products:
   price: '1899'
 schema_type: Article
 ---
+
+*Volledige vergelijking van alle typen: [beste draagbare powerstation 2026](/posts/beste-draagbare-powerstation-2026/) — deze pagina is de keuzehulp voor vanlife en campers.*
 Wie een bus ombouwt tot camper, loopt vroeg of laat tegen dezelfde rekensom aan. Een compressorkoelkast (45W), een laptop, verlichting en af en toe een inductieplaat: dan zit je al snel rond de 1.500 Wh per dag. Dat getal bepaalt welk powerstation je nodig hebt — en of je in de winter zelfvoorzienend blijft of niet.
 
 In dit overzicht vergelijken wij de vijf powerstations die het meest worden gekozen voor vanlife, op capaciteit, vermogen, zonne-input, gewicht en prijs. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data, en rekenen de verbruiksscenario's door.
@@ -73,7 +75,6 @@ In dit overzicht vergelijken wij de vijf powerstations die het meest worden geko
 | **Anker Solix C1000** | 1056 Wh | 1800W | 600W | 12,9 kg | €800-1.000 | Middenweg prijs/capaciteit |
 
 ---
-
 ## Waar let je op bij een powerstation voor vanlife?
 
 Voordat we elk product bespreken, zijn dit de criteria die voor vanlifers het belangrijkst zijn:

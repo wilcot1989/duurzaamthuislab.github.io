@@ -42,7 +42,7 @@ products:
     price: '4200'
   - name: Sessy thuisbatterij 5 kWh
     url: https://go.duurzaamthuislab.nl/sessy
-    price: '5995'
+    price: '3550'
   - name: Tibber dynamisch contract
     url: https://go.duurzaamthuislab.nl/tibber
     price: '6'
@@ -116,20 +116,20 @@ Nederlandse marktleider met eigen installateurs, koppelt panelen standaard aan e
 
 ## Het alternatief: batterij toevoegen aan bestaande panelen
 
-Heb je al panelen liggen (bijvoorbeeld sinds 2020 of 2022) en wilde je eigenlijk uitbreiden? Dan is ons advies dit Q4: vergeet uitbreiding, focus op een thuisbatterij. Een Sessy 5 kWh kost 5.995 EUR all-in geinstalleerd en kan binnen 2 tot 4 weken geplaatst worden — geen wachtlijst van maanden, want batterij-installateurs hebben veel ruimere capaciteit.
+Heb je al panelen liggen (bijvoorbeeld sinds 2020 of 2022) en wilde je eigenlijk uitbreiden? Dan is ons advies dit Q4: vergeet uitbreiding, focus op een thuisbatterij. Een Sessy 5 kWh kost 3.550 EUR incl. btw, exclusief installatie (prijspeil aug 2026; een basisinstallatie met noodstroomvoorziening rekent Sessy vanaf 1.200 EUR apart) en kan binnen 2 tot 4 weken geplaatst worden — geen wachtlijst van maanden, want batterij-installateurs hebben veel ruimere capaciteit.
 
 | Optie | Kosten | Wachttijd | Jaarvoordeel 2027 | Terugverdientijd |
 |---|---|---|---|---|
 | 6 extra panelen | 2.500 EUR | 12+ weken | 80 EUR | 31 jaar |
-| Sessy 5 kWh batterij | 5.995 EUR | 2-4 weken | 660 EUR | 9 jaar |
+| Sessy 5 kWh batterij | 3.550 EUR (excl. installatie) | 2-4 weken | 660 EUR | 5,4 jaar (model) |
 | Dynamisch contract | 0 EUR | direct | 250 EUR | direct positief |
-| Combinatie batterij + dynamisch | 5.995 EUR | 2-4 weken | 880 EUR | 7 jaar |
+| Combinatie batterij + dynamisch | 3.550 EUR (excl. installatie) | 2-4 weken | 880 EUR | 4,0 jaar (model) |
 
 Uitbreiden met extra panelen is in oktober 2026 financieel onverstandig: de extra teruglevering wordt vanaf 2027 nauwelijks vergoed. Een batterij gebruikt juist de panelen die je al hebt veel beter.
 
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>Sessy thuisbatterij — snelle plaatsing zonder lange wachttijd</strong><br>
-Nederlandse fabrikant, levertijd 2 tot 4 weken inclusief installatie. Combineert eigen verbruik met dynamisch handelen op de stroombeurs. Bij 3500+ kWh teruglevering verdien je hem in 7 tot 9 jaar terug. De <a href="/posts/sessy-vs-marstek-thuisbatterij-2026/">Sessy vs Marstek vergelijking</a> staat hier.<br><br>
+Nederlandse fabrikant, levertijd 2 tot 4 weken; de installatie wordt apart berekend. Combineert eigen verbruik met dynamisch handelen op de stroombeurs. Bij 3500+ kWh teruglevering komt de terugverdientijd in ons model op 5 tot 7 jaar. De <a href="/posts/sessy-vs-marstek-thuisbatterij-2026/">Sessy vs Marstek vergelijking</a> staat hier.<br><br>
 <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Sessy prijzen &rarr;</a>
 </div>
 

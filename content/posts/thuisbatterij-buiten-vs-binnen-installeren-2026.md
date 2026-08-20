@@ -475,23 +475,15 @@ Ons advies: zorg dat de installatie altijd binnen 30 seconden te bereiken is zon
 
 ---
 
-## Subsidie en locatievereisten: ISDE in 2026
+## Subsidie en locatievereisten: wat geldt er wel?
 
-De ISDE-subsidie (Investeringssubsidie Duurzame Energie) is in 2026 beschikbaar voor thuisbatterijen die voldoen aan de lijst van erkende typen van de RVO. Een relevante vraag: stelt de ISDE eisen aan de installatielocatie?
+Een veelgestelde vraag: stelt een subsidieregeling eisen aan de plek waar de batterij hangt? Voor thuisbatterijen is het antwoord kort, omdat er op rijksniveau geen regeling is die batterijen dekt.
 
-Het antwoord: niet direct. De ISDE stelt eisen aan:
+De ISDE voor woningeigenaren geldt volgens de [RVO](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) uitsluitend voor isolatie, ventilatie in combinatie met isolatie, (hybride) warmtepompen, zonneboilers, een aansluiting op een warmtenet en elektrisch koken. Thuisbatterijen staan daar niet bij — en ook zonnepanelen en laadpalen niet. Er is dus geen ISDE-bedrag per kWh opslag, geen erkende-typenlijst voor batterijen en geen ISDE-formulier waar je installateur voor moet tekenen.
 
-1. **Type product** (moet op de erkende-typenlijst staan)
-2. **Installateur** (erkend installatiebedrijf)
-3. **Technische uitvoering** (conform de eisen van het product)
+Wat locatie-eisen betreft is de installatie zelf de norm die telt, niet een subsidieregeling: NEN 1010, de productspecificaties van de fabrikant en de eisen van je verzekeraar. Plaats je een batterij buiten die daar niet voor gecertificeerd is, dan vervalt in de praktijk je garantie en kan je verzekeraar schade afwijzen — dat is het echte risico, niet een gemiste subsidie.
 
-Er is geen ISDE-vereiste die specifiek een binnens- of buitensopstelling voorschrijft. Maar als de installateur constateert dat de locatie niet conform de productspecificaties is (bijv. Sessy buiten geplaatst), kan hij weigeren het E-formulier te ondertekenen. Zonder E-formulier geen ISDE-subsidie.
-
-De indirecte koppeling is dus: **verkeerde locatie = geen E-formulier = geen subsidie**.
-
-### ISDE-bedragen 2026
-
-Voor thuisbatterijen geldt in 2026 een subsidiebedrag van €295 per kWh opslagcapaciteit, met een maximum van €2.500 per installatie. Een 10 kWh-systeem levert maximaal €2.500 subsidie op. Raadpleeg altijd de actuele RVO-voorwaarden, want de bedragen worden jaarlijks aangepast.
+Wat er wél kan zijn: gemeentelijke of provinciale regelingen en leningen voor energieopslag. Die verschillen per regio en per jaar, en vragen soms aanmelding vóór aanschaf. Check dus je gemeentewebsite voordat je bestelt. Btw is geen voordeelpost: op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij, ook niet bij gelijktijdige aanschaf met panelen.
 
 ---
 
@@ -558,4 +550,4 @@ Waar de norm en de fabrikant vrij zijn in de locatie, is je portemonnee dat niet
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

@@ -1,7 +1,7 @@
 ---
 title: 'Thuisbatterij Vergelijking 2026: Top 5 Modellen Getest'
 date: 2026-05-07 10:00:00+01:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: De 5 beste thuisbatterijen van 2026 vergeleken op capaciteit, prijs, levensduur en rendement. Tesla Powerwall, BYD, Huawei, SolarEdge en Enphase.
 categories:
 - thuisbatterij
@@ -57,6 +57,8 @@ Heb je al een dynamisch energiecontract? Lees dan hoe je een [thuisbatterij comb
 > **Kort antwoord:** De 5 beste thuisbatterijen van 2026 vergeleken op capaciteit, prijs, levensduur en rendement. Tesla Powerwall, BYD, Huawei, SolarEdge en Enphase.
 >
 > De Tesla Powerwall 3 biedt de beste combinatie van capaciteit (13,5 kWh), ingebouwde omvormer en gebruiksgemak. De BYD HVS biedt de beste schaalbaarheid (5,1-12,8 kWh modulair). Voor SolarEdge-gebruikers is de SolarEdge Home Battery de meest efficiënte optie dankzij DC-koppeling.
+
+**Zoek je onze algemene keuzegids?** Deze pagina is de technische vergelijking van vijf specifieke systemen. Wil je weten welke thuisbatterij in 2026 het beste bij jouw situatie past — inclusief de goedkopere en kleinere modellen die hier buiten beschouwing blijven — begin dan bij **[beste thuisbatterij 2026](/posts/beste-thuisbatterij-nederland-2026/)**. Dat is onze hoofdgids; kom hier terug voor de detailvergelijking per merk.
 
 ## Waarom juist deze vijf
 
@@ -446,4 +448,4 @@ Als je budget onder €6.000 is en je wilt NL-service: kies Huawei LUNA2000 of S
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

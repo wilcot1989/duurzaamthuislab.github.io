@@ -1,7 +1,7 @@
 ---
 title: 'Goal Zero Yeti 6000X Review 2026: Powerstation als Backup'
 date: 2026-07-06 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Goal Zero Yeti 6000X review: het 6 kWh powerstation als off-grid backup. Vergelijking met EcoFlow Delta Pro Ultra, specificaties, prijs en alternatieven.'
 draft: false
 categories:
@@ -167,7 +167,7 @@ De ventilator gaat aan boven 800 W belasting. Bij continue belasting is het gelu
 
 Voor pure capaciteit per euro is EcoFlow of Bluetti beter. Goal Zero wint op robuustheid en pure sine wave kwaliteit.
 
-Lees ook [EcoFlow vs Jackery](/posts/ecoflow-vs-jackery-2026/) en [beste draagbare powerstation](/posts/beste-draagbare-powerstation-2026/) voor mijn complete vergelijking.
+Lees ook [EcoFlow vs Jackery](/posts/ecoflow-vs-jackery-2026/) en [beste draagbare powerstation](/posts/beste-draagbare-powerstation-2026/) voor onze complete vergelijking.
 
 ## Voor wie is Goal Zero Yeti 6000X geschikt?
 
@@ -240,7 +240,7 @@ Bouwbesluit speelt geen rol omdat het apparaat los staat. Wel verstandig: meld h
 1. **Yeti als primaire energiebron behandelen.** Hij is een back-up, geen vervanging voor het net. Wie hem dagelijks ontlaadt en oplaadt haalt de 1.500-cycli grens binnen 4 jaar.
 2. **Geen Yeti Link kopen.** Zonder Link Module moet je bij stroomuitval handmatig stekkers omsteken. Bij nachtelijke storingen mis je dat moment en zijn je servers alsnog uit.
 3. **In een afgesloten meterkast plaatsen.** De ventilator heeft luchtstroom nodig. In een dichte kast loopt de temperatuur op tot boven de door Goal Zero opgegeven bedrijfsgrens en schakelt de unit naar beschermmodus — precies op het moment dat je hem nodig hebt.
-4. **Vergeten te ontladen tijdens lange opslag.** NMC-cellen lijden onder permanent 100% lading. Goal Zero adviseert 60-80% bij maandenlange opslag, ik zie veel gebruikers die dit nooit lezen.
+4. **Vergeten te ontladen tijdens lange opslag.** NMC-cellen lijden onder permanent 100% lading. Goal Zero adviseert 60-80% bij maandenlange opslag; in gebruikersforums is dit een van de meest genoemde oorzaken van vroegtijdig capaciteitsverlies.
 5. **Vol-belasten op 2.000W met inductiekookplaat.** Een inductieplaat trekt 1.800W piek én heeft een hoge inschakelstroom. De Yeti slaat dan af. Gebruik een gas- of keramische kookplaat in noodscenario's.
 
 ## Wanneer NIET de moeite waard
@@ -283,4 +283,4 @@ Onze inschatting voor MKB-locaties: een Yeti 6000X voor de eerste acht tot twaal
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

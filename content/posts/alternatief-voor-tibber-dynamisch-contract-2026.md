@@ -1,7 +1,7 @@
 ---
 title: Alternatief voor Tibber dynamisch contract 2026
 date: 2026-10-05 08:00:00+02:00
-lastmod: 2026-10-05 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 draft: false
 description: 'Tibber te duur of niet geschikt? Bekijk de 5 beste alternatieven: Frank Energie, ANWB, Greenchoice, Vattenfall en Eneco eFlex vergeleken.'
 categories: [energiecontracten]
@@ -13,17 +13,17 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497435334941-8c899ee9e8e9&w=1200&output=webp&q=70
 faq:
 - q: 'Is Frank Energie echt goedkoper dan Tibber?'
-  a: 'Frank Energie heeft hetzelfde servicegeld van €5,99/mnd en rekent net als Tibber geen marge op de EPEX-prijs. Het verschil zit in features: Tibber heeft betere EV-integratie, Frank heeft telefonische klantenservice. Op jaarbasis is het kostenplaatje nagenoeg gelijk.'
+  a: 'Frank Energie rekent net als Tibber geen marge op de EPEX-prijs; de hoogte van hun vaste kosten publiceert Frank niet op de site, dus check die op frankenergie.nl. Tibber rekent €5,99/maand per energiesoort (stroom en gas apart) plus €0,0248/kWh inkoopvergoeding. Het verschil zit vooral in features: Tibber heeft betere EV-integratie, Frank heeft telefonische klantenservice.'
 - q: 'Wat is het goedkoopste dynamische contract in 2026?'
-  a: 'Dat hangt af van je verbruiksprofiel. Frank Energie en Tibber zijn allebei marginloos en zitten op €5,99/mnd servicegeld. ANWB Energie scoort vergelijkbaar. Vattenfall Dynamisch en Eneco eFlex rekenen €0,01-€0,02/kWh marge, waardoor ze bij hoog verbruik duurder uitkomen.'
+  a: 'Dat hangt af van je verbruiksprofiel. Frank Energie en Tibber rekenen geen marge op de EPEX-prijs; hun vaste kosten verschillen (Tibber: €5,99/maand per energiesoort, Frank publiceert geen bedrag). Aanbieders met een opslag per kWh, zoals Vattenfall en Eneco eFlex, komen bij hoog verbruik duurder uit. Vergelijk altijd de actuele tarievenpagina van elke leverancier.'
 - q: 'Welk dynamisch contract is het beste voor een thuisbatterij?'
   a: 'Tibber heeft de beste native integratie voor thuisbatterijen via de Tibber API (Sessy, Huawei Luna). Frank Energie werkt via derde partijen zoals Home Assistant + EnergyZero. ANWB heeft beperkte smart-home mogelijkheden.'
 - q: 'Heeft ANWB Energie dynamisch een prijsplafond?'
-  a: 'Ja, ANWB Energie dynamisch heeft een maximumtarief van €0,40/kWh (excl. netbeheer en belasting). Dat biedt bescherming bij extreme piekprijzen, maar kost je gemiddeld €60-€90/jaar extra ten opzichte van Tibber of Frank.'
+  a: 'Een uurprijs-plafond hebben wij niet op anwb.nl kunnen verifiëren. Wat ANWB wél doet: werken met een vast maandtermijnbedrag met jaarverrekening, waardoor je maandlasten vlakken ook als de uurprijzen schommelen. ANWB rekent volgens hun tarievenpagina €0,018/kWh inkoopkosten (incl. btw, peildatum 20 augustus 2026) — dat is de post waarop je ANWB met margeloze aanbieders vergelijkt.'
 - q: 'Is Greenchoice dynamisch echt groen?'
   a: 'Greenchoice levert 100% Nederlandse groene stroom en koopt Garanties van Oorsprong in. Voor wie ook met een dynamisch contract specifiek groene energie wil steunen, is Greenchoice de enige aanbieder die dit transparant combineert.'
 - q: 'Wat zijn de nadelen van Eneco eFlex?'
-  a: 'Eneco eFlex rekent €0,015/kWh marge bovenop de EPEX-prijs, wat op 4.000 kWh/jaar neerkomt op €60 extra. De app is minder geavanceerd dan Tibber of Frank. Het voordeel is de betrouwbare klantenservice van een groot bedrijf.'
+  a: 'Eneco eFlex rekent een opslag per kWh bovenop de EPEX-prijs; de actuele hoogte daarvan staat op eneco.nl — wij vonden er geen publiek geverifieerd bedrag voor. Reken dus zelf na wat die opslag bij jouw verbruik kost. De app is minder geavanceerd dan Tibber of Frank; het voordeel is de klantenservice van een groot bedrijf.'
 - q: 'Kun je makkelijk van Tibber overstappen naar een alternatief?'
   a: 'Ja. Tibber heeft geen vaste contractduur en geen opzegboete. Opzegtermijn is 1 maand. Je nieuwe leverancier regelt de overstap automatisch zodra je een nieuw contract afsluit.'
 products:
@@ -46,7 +46,7 @@ category: energiecontracten
 
 In gebruikersreviews en forumdiscussies over Tibber komt telkens hetzelfde terug: de besparing valt goed uit, maar de app vraagt aandacht. Wie niet elke dag naar de uurtarieven wil kijken, zoekt een dynamisch contract dat even voordelig is zonder die prikkel.
 
-Dat is de reden voor dit overzicht. Tibber is niet voor iedereen de beste keus, ook al is het een sterk product. Misschien wil je betere klantenservice. Of groene stroom. Of een prijsplafond voor als de markt gekke dingen doet. Of gewoon een Nederlands bedrijf.
+Dat is de reden voor dit overzicht. Tibber is niet voor iedereen de beste keus, ook al is het een sterk product. Misschien wil je betere klantenservice. Of groene stroom. Of voorspelbare maandlasten voor als de markt gekke dingen doet. Of gewoon een Nederlands bedrijf.
 
 In dit overzicht vergelijken wij de vijf belangrijkste alternatieven voor Tibber in 2026: Frank Energie, ANWB Energie, Greenchoice dynamisch, Vattenfall Dynamisch en Eneco eFlex. Met cijfers, niet met brochure-taal.
 
@@ -54,7 +54,7 @@ In dit overzicht vergelijken wij de vijf belangrijkste alternatieven voor Tibber
 
 ---
 
-> **Kort antwoord:** Frank Energie is het beste Tibber-alternatief voor de meeste huishoudens — zelfde servicegeld (€5,99/mnd), geen marge op EPEX, Nederlandse klantenservice. ANWB Energie is de veiligste keus als je een prijsplafond wil bij extreme pieken. Greenchoice klopt als je specifiek groen wil combineren met dynamisch. Vattenfall en Eneco eFlex zijn duurder door hun marge maar bieden meer menselijke service.
+> **Kort antwoord:** Frank Energie is het beste Tibber-alternatief voor de meeste huishoudens — geen marge op EPEX, Nederlandse klantenservice, en vaste kosten die je op frankenergie.nl opvraagt. ANWB Energie is interessant als je je maandlasten wil vlakken via een vast termijnbedrag. Greenchoice klopt als je specifiek groen wil combineren met dynamisch. Vattenfall en Eneco eFlex rekenen een opslag per kWh en zijn daardoor bij hoger verbruik duurder, maar bieden meer menselijke service.
 
 ---
 
@@ -65,7 +65,7 @@ In zoekvragen en gebruikersreviews komen steeds dezelfde redenen terug om naar e
 - **Te app-intensief**: Tibber beloont bewust gedrag, maar wie niet actief met de app bezig wil zijn, laat geld liggen
 - **Klantenservice via chat only**: voor noodgevallen prima, maar voor mensen die liever bellen: frustrerend
 - **Geen prijsplafond**: een echte koudegolf kan je maandrekening verdubbelen
-- **Tibber Pulse verplicht voelen**: de €90 eenmalige investering schrikt af
+- **Tibber Pulse verplicht voelen**: de eenmalige aanschaf van de sensor schrikt af — Tibber publiceert de prijs niet, zie de Tibber Store
 - **Noors bedrijf**: sommige mensen geven bewust de voorkeur aan een Nederlandse leverancier
 - **EV-integratie onnodig**: wie geen elektrische auto heeft, gebruikt Tibber's killer-feature nooit
 
@@ -81,7 +81,7 @@ Frank Energie is de meest voor de hand liggende keuze voor wie dynamisch wil, ma
 
 ### Wat maakt Frank anders dan Tibber?
 
-Frank Energie is al actief in Nederland since 2018 — drie jaar vóór Tibber. Ze bieden hetzelfde principe: geen marge op de EPEX-spotprijs, maandelijks opzegbaar. Servicegeld: €5,99/maand.
+Frank Energie is al actief in Nederland since 2018 — drie jaar vóór Tibber. Ze bieden hetzelfde principe: geen marge op de EPEX-spotprijs, maandelijks opzegbaar. Wat de vaste kosten precies zijn publiceert Frank niet op de site; vraag het actuele bedrag op via frankenergie.nl.
 
 Het verschil zit in de uitvoering. Frank is functioneel, Tibber is premium. Frank's app toont je verbruik en tarieven, maar heeft geen ingebakken slim laden voor EV's, geen native smart-home koppeling en geen realtime P1-sensor zoals de Tibber Pulse. Wat Frank wél heeft: telefonische klantenservice op werkdagen.
 
@@ -91,18 +91,18 @@ Het verschil zit in de uitvoering. Frank is functioneel, Tibber is premium. Fran
 
 | Post | Frank Energie | Tibber |
 |---|---|---|
-| Servicegeld/mnd | €5,99 | €5,99 |
-| Marge op EPEX | €0 | €0 |
-| Realtime sensor | Via EnergyZero (gratis) | Tibber Pulse (€90 eenmalig) |
+| Vaste kosten/mnd | Zie frankenergie.nl | €5,99 per energiesoort |
+| Marge op EPEX | €0 | €0 (wel €0,0248/kWh inkoopvergoeding) |
+| Realtime sensor | Via EnergyZero (gratis) | Tibber Pulse (prijs: zie Tibber Store) |
 | Slim laden EV | Derde partij (EVCC/HA) | Native integratie |
 | Klantenservice | Telefoon + chat | Chat-only |
 | Bedrijfsland | Nederland | Noorwegen |
 
-Op pure kosten voor stroominkoop: identiek. Frank is een paar cent voordeliger als je de Pulse-kosten van Tibber meerekent over 2-3 jaar.
+Op de kale EPEX-inkoopprijs zitten beide gelijk. Het verschil zit in de vaste kosten en de inkoopvergoeding, en bij Tibber komt de eenmalige Pulse er eventueel bij. Zet daarom de actuele tarievenpagina's van beide leveranciers naast elkaar voordat je kiest.
 
 ### Frank Energie en thuisbatterijen
 
-Frank werkt goed samen met Home Assistant en EVCC voor dynamische sturing. Je koppelt je P1-meter (HomeWizard, €30) aan Home Assistant, voegt de Frank/EnergyZero-integratie toe, en je batterij of laadpaal stuurt op uurtarief. Minder plug-and-play dan Tibber, maar als je al Home Assistant hebt: even goed.
+Frank werkt goed samen met Home Assistant en EVCC voor dynamische sturing. Je koppelt je P1-meter (HomeWizard Wi-Fi P1, €24,95) aan Home Assistant, voegt de Frank/EnergyZero-integratie toe, en je batterij of laadpaal stuurt op uurtarief. Minder plug-and-play dan Tibber, maar als je al Home Assistant hebt: even goed.
 
 Overweeg je een thuisbatterij? Lees dan ook onze [Sessy review — thuisbatterij in de praktijk](/posts/sessy-review-thuisbatterij-nederland/) voor een eerlijk plaatje van de terugverdientijd.
 
@@ -119,17 +119,17 @@ Wil je de twee direct naast elkaar? [Frank Energie vs Tibber — volledige verge
 
 ---
 
-## Alternatief 2: ANWB Energie — veiligheid met een maximumtarief
+## Alternatief 2: ANWB Energie — vlakke maandlasten
 
-ANWB Energie is de meest bijzondere aanbieder in dit rijtje, omdat ze als enige een dynamisch contract aanbieden mét een prijsplafond.
+ANWB Energie onderscheidt zich in dit rijtje vooral door de manier waarop je betaalt, niet door het tarief zelf.
 
-### Het ANWB-plafond: wat houdt het in?
+### Hoe ANWB je maandlasten vlakt
 
-ANWB Energie dynamisch volgt de EPEX-spotprijs, maar begrenst die op **€0,40/kWh** (excl. netbeheer en energiebelasting). In perioden van extreme piekprijzen — denk aan de storm van januari 2025 waarbij Tibber-klanten tijdelijk €1,18/kWh betaalden — betaalden ANWB-klanten maximaal €0,40.
+In omloop is het beeld dat ANWB een uurprijs-plafond zou hanteren. Wij hebben zo'n plafond niet op anwb.nl kunnen verifiëren — vermeld het dus niet als vaststaand feit. Wat er wél staat: ANWB werkt met een vast maandtermijnbedrag met jaarverrekening. Je uurprijzen volgen de markt, maar je maandbedrag blijft gelijk tot de jaarafrekening. Dat vlakt je maandlasten en voorkomt een schrikrekening midden in een koudegolf, zonder dat het je totale jaarkosten verlaagt.
 
-Dat klinkt geweldig, maar er zit een prijs aan: ANWB verdient dat plafond terug via een **marge van €0,015/kWh** bovenop de EPEX-prijs. Op 4.000 kWh/jaar is dat €60 extra per jaar. Plus het servicegeld van €5,95/maand.
+Op de tarievenpagina van ANWB staan wel de inkoopkosten: **€0,018/kWh incl. btw** (anwb.nl/energie/actuele-tarieven, peildatum 20 augustus 2026). Dat is de post die je vergelijkt met de margeloze inkoop van Frank en met de €0,0248/kWh inkoopvergoeding van Tibber. Voor het vaste maandbedrag en het servicegeld: check anwb.nl, want die posten wijzigen per periode.
 
-**De rekensom**: je betaalt jaarlijks circa €60-€90 meer dan bij Tibber of Frank, maar je loopt nooit het risico van een extreme winterrekening.
+**Wat het je kost**: bij ANWB betaal je een opslag per kWh in ruil voor voorspelbare maandlasten. Hoeveel dat op jaarbasis scheelt, hangt volledig af van je verbruik — reken het na met je eigen kWh's in plaats van met een gemiddelde.
 
 ### ANWB-ledenkorting
 
@@ -141,7 +141,7 @@ ANWB Energie heeft een basisintegratie met laadpalen, maar geen native auto-API-
 
 ### Voor wie is ANWB de beste keus?
 
-- Je wil dynamisch maar hebt een strak maandbudget en wil nooit een rekening-shock
+- Je wil dynamisch maar hebt een strak maandbudget en wil vlakke maandlasten
 - Je bent ANWB-lid en wil de ledenkorting benutten
 - Je woont in een koude regio (Groningen, Drenthe) waar koudegolven vaker voorkomen
 - Je bent ouder en prefereert een vertrouwd Nederlands bedrijf met breed klantenservicenetwerk
@@ -160,7 +160,7 @@ Greenchoice is de enige aanbieder in dit rijtje die dynamisch contract combineer
 
 Bij Tibber, Frank en ANWB koop je stroom op de spotmarkt — dat is een mix van grijze en groene stroom. Greenchoice koopt actief **Garanties van Oorsprong (GvO)** in voor 100% Nederlandse wind- en zonne-energie. Als herkomst van je stroom je wat waard is, is Greenchoice de enige serieuze keus.
 
-**De prijs van groen**: Greenchoice dynamisch rekent **€0,02/kWh marge** bovenop de EPEX-prijs. Op 4.000 kWh/jaar is dat €80 extra per jaar. Het servicegeld ligt rond €6,50-€7,00/mnd afhankelijk van je regio en abonnement.
+**De prijs van groen**: Greenchoice dynamisch rekent een opslag per kWh bovenop de EPEX-prijs, plus een vast maandbedrag. Publiek geverifieerde bedragen hebben wij niet gevonden — kijk voor de actuele opslag en het servicegeld op greenchoice.nl en reken die door met je eigen jaarverbruik.
 
 ### Greenchoice app en smart features
 
@@ -169,7 +169,7 @@ De Greenchoice-app is functioneel maar niet spectaculair. Je ziet historisch ver
 ### Voor wie is Greenchoice dynamisch de juiste keus?
 
 - Je wil dynamisch maar het herkomst-certificaat van je stroom telt voor jou
-- Je kan €6-€8/mnd extra verantwoorden voor de groene premie
+- Je kan de groene premie op je maandbedrag verantwoorden
 - Je hebt geen EV of smart-home automatisering nodig
 - Je vindt duurzaamheid-communicatie naar je omgeving belangrijk (Greenchoice is een bekende naam)
 
@@ -183,13 +183,13 @@ Vattenfall is een Zweeds energieconcern dat in Nederland actief is via hun Neder
 
 ### Kosten Vattenfall Dynamisch
 
-Vattenfall rekent een **marge van €0,01-€0,015/kWh** bovenop de EPEX-prijs plus een servicegeld van circa €6,50-€7,00/mnd. Op jaarbasis ben je bij 4.000 kWh verbruik al snel €80-€120 duurder dan bij Tibber of Frank.
+Vattenfall rekent een opslag per kWh bovenop de EPEX-prijs plus een vast maandbedrag. Publiek geverifieerde bedragen hebben wij niet gevonden — kijk op vattenfall.nl voor de actuele tarieven. Ga er wel van uit dat je door die opslag bij hoger verbruik duurder uitkomt dan bij een margeloze aanbieder als Frank.
 
 **Wat krijg je ervoor terug?** Een groter bedrijf met bredere klantenservice. Vattenfall heeft een volledig telefonisch servicecenter, regionale storingsdienst en langere openingstijden dan pure online-spelers.
 
 ### Vattenfall en teruglevering
 
-Een punt van kritiek: Vattenfall rekent bij sommige contractvormen **terugleverkosten** voor zonnepaneel-bezitters. Dat is €0,01-€0,03/kWh die je kwijt bent bij elke kWh die je teruglevert. Bij Tibber en Frank betaal je dit niet. Voor een huishouden met 4.000 kWh teruglevering is dat €40-€120/jaar verschil.
+Een punt van kritiek: Vattenfall rekent bij sommige contractvormen **terugleverkosten** voor zonnepaneel-bezitters. Let op dat Frank sinds 1 juni 2025 óók terugleverkosten rekent volgens een staffel, dus dit is geen exclusief Vattenfall-punt meer. Vergelijk de terugleverkosten per leverancier op hun eigen tarievenpagina en reken ze door met je verwachte teruglevering — bij veel zonnepanelen is dit een grotere post dan het servicegeld.
 
 Check bij afsluiten altijd de actuele voorwaarden — Vattenfall heeft dit eerder aangepast als gevolg van concurrentiedruk.
 
@@ -209,25 +209,25 @@ Eneco is de bekendste energieleverancier van Nederland. Hun dynamische product h
 
 ### Eneco eFlex kosten 2026
 
-Eneco eFlex rekent **€0,015/kWh marge** bovenop de EPEX-prijs en een servicegeld van €4,95/mnd. Op het eerste gezicht lijkt het servicegeld laag — maar de marge op de kWh prijs is hoger. Bij 4.000 kWh verbruik: €60 extra per jaar marge vergeleken met marginloze aanbieders.
+Eneco eFlex rekent een opslag per kWh bovenop de EPEX-prijs en een vast maandbedrag. Beide bedragen staan op eneco.nl; wij hebben er geen publiek geverifieerde cijfers voor. Let bij het vergelijken op de combinatie: een laag maandbedrag met een hogere opslag per kWh pakt bij veel verbruik alsnog duurder uit.
 
-**Totaalkostenberekening** voor een huishouden met 4.000 kWh verbruik (gem. EPEX €0,16/kWh, excl. netbeheer):
+**Hoe je het zelf narekent** — pak de tarievenpagina van elke leverancier en vul deze tabel in met je eigen jaarverbruik:
 
-| Leverancier | Marge/kWh | Servicegeld/jr | Extra kosten t.o.v. Frank |
+| Leverancier | Opslag per kWh | Vaste kosten per jaar | Bron |
 |---|---|---|---|
-| Frank Energie | €0 | €71,88 | — |
-| Tibber | €0 | €71,88 | €0 |
-| ANWB Energie | €0,015 | €71,40 | +€60 |
-| Greenchoice dyn. | €0,02 | €78-€84 | +€80-€90 |
-| Vattenfall dyn. | €0,015 | €78-€84 | +€66-€80 |
-| Eneco eFlex | €0,015 | €59,40 | +€60 |
+| Frank Energie | Geen marge op EPEX | Zie site | frankenergie.nl |
+| Tibber | €0,0248/kWh inkoopvergoeding | €5,99/mnd per energiesoort | tibber.com |
+| ANWB Energie | €0,018/kWh inkoopkosten (incl. btw, 20-08-2026) | Zie site | anwb.nl |
+| Greenchoice dyn. | Zie site | Zie site | greenchoice.nl |
+| Vattenfall dyn. | Zie site | Zie site | vattenfall.nl |
+| Eneco eFlex | Zie site | Zie site | eneco.nl |
 
-Eneco eFlex is niet goedkoper ondanks het lagere servicegeld — de marge op de kWh eet het voordeel op bij normaal verbruik.
+De rekenregel is simpel: opslag per kWh × jouw jaarverbruik + vaste kosten per jaar. Dat bedrag vergelijk je, niet het maandbedrag alleen.
 
 ### Wanneer toch Eneco eFlex kiezen?
 
 - Je bent al Eneco-klant en de overstap-drempel naar een pure speler voelt hoog
-- Je verbruikt minder dan 2.000 kWh/jaar (dan is het lagere servicegeld gunstig)
+- Je verbruikt minder dan 2.000 kWh/jaar (dan weegt een lager maandbedrag zwaarder dan de opslag per kWh)
 - Je hebt Eneco's thuisbatterij-product al of bent bezig met een Eneco-installatie
 
 Voor iedereen die bewust kiest: Frank Energie of Tibber zijn rationeel de betere keus dan Eneco eFlex.
@@ -238,16 +238,16 @@ Voor iedereen die bewust kiest: Frank Energie of Tibber zijn rationeel de betere
 
 | Feature | Tibber | Frank Energie | ANWB Energie | Greenchoice dyn. | Vattenfall dyn. | Eneco eFlex |
 |---|---|---|---|---|---|---|
-| Marge op EPEX | €0 | €0 | €0,015/kWh | €0,02/kWh | €0,015/kWh | €0,015/kWh |
-| Servicegeld/mnd | €5,99 | €5,99 | €5,95 | €6,50-€7 | €6,50-€7 | €4,95 |
-| Prijsplafond | Nee | Nee | €0,40/kWh | Nee | Nee | Nee |
+| Opslag per kWh | €0,0248 inkoopvergoeding | Geen marge | €0,018 inkoopkosten (incl. btw) | Zie site | Zie site | Zie site |
+| Vaste kosten/mnd | €5,99 per energiesoort | Zie site | Zie site | Zie site | Zie site | Zie site |
+| Vlakke maandlasten | Nee | Nee | Ja (vast termijnbedrag) | Nee | Nee | Nee |
 | App-kwaliteit | 9/10 | 7/10 | 6/10 | 6/10 | 5/10 | 6/10 |
 | EV slim laden | Native top-tier | Via derde partij | Beperkt | Nee | Beperkt | Beperkt |
 | Smart home | Uitstekend | Via HA | Beperkt | Via HA | Nee | Nee |
 | Batterij-integratie | Native (Sessy etc.) | Via HA | Nee | Nee | Nee | Beperkt |
 | Klantenservice | Chat | Tel + chat | Tel + chat | Tel + chat | Tel + chat | Tel + chat |
 | 100% groen | Nee | Nee | Deels | Ja (NL-GvO) | Deels | Deels |
-| Terugleverkosten | Nee | Nee | Nee | Nee | Mogelijk | Nee |
+| Terugleverkosten | Zie site | Ja, staffel vanaf 1-6-2025 | Zie site | Zie site | Mogelijk | Zie site |
 | Bedrijfsland | Noorwegen | Nederland | Nederland | Nederland | Zweden | Nederland |
 
 ---
@@ -262,17 +262,17 @@ Blijf bij Tibber, of ga naar Frank Energie + EVCC. De native EV-integratie van T
 **Je hebt zonnepanelen maar geen EV**
 Frank Energie of Tibber — beide zonder marge en zonder terugleverkosten. Kies op basis van klantenservice voorkeur. Als je al Home Assistant hebt: Frank werkt net zo goed als Tibber voor slim verbruik sturen.
 
-**Je wil de absolute veiligheid bij koudegolven**
-ANWB Energie dynamisch. Het plafond van €0,40/kWh kost je €60-€90/jaar extra, maar je nooit een rekening van €200+ in een wintermaand. Voor mensen met een strak budget of sterk risicobewustzijn: het is de prijs waard.
+**Je wil voorspelbare maandlasten**
+ANWB Energie dynamisch. Het vaste termijnbedrag met jaarverrekening houdt je maandlasten gelijk, ook in een koudegolf — de verrekening komt later. Daar staat een opslag per kWh tegenover (€0,018/kWh inkoopkosten). Voor wie een strak budget heeft, weegt die rust vaak op tegen die opslag.
 
 **Je wil dynamisch én bewust groen steunen**
-Greenchoice dynamisch. Betaal €80-€90/jaar extra voor gecertificeerde Nederlandse groene stroom. Geen andere aanbieder in dit rijtje biedt dit niveau van groene transparantie.
+Greenchoice dynamisch. Je betaalt een premie voor gecertificeerde Nederlandse groene stroom — hoeveel, staat op greenchoice.nl. Geen andere aanbieder in dit rijtje biedt dit niveau van groene transparantie.
 
 **Je verbruikt weinig (<2.000 kWh/jaar)**
-Eneco eFlex heeft het laagste servicegeld (€4,95/mnd) — dat maakt het bij laag verbruik soms gunstig. Alternatief: check of een normaal vast goedkoop contract niet simpeler is. [Dynamisch vs vast contract](/posts/dynamisch-vs-vast-contract-2026/) helpt je die afweging maken.
+Eneco eFlex heeft in dit rijtje een relatief laag maandbedrag (zie eneco.nl) — dat maakt het bij laag verbruik soms gunstig, omdat de opslag per kWh dan minder zwaar weegt. Alternatief: check of een normaal vast goedkoop contract niet simpeler is. [Dynamisch vs vast contract](/posts/dynamisch-vs-vast-contract-2026/) helpt je die afweging maken.
 
 **Je wil het minste gedoe en gewoon goed besparen**
-Frank Energie. Dezelfde margeloze EPEX-prijs als Tibber, zonder Pulse-investering, met telefonische klantenservice en een Nederlandse app die functioneel werkt. Simpel.
+Frank Energie. Dezelfde margeloze EPEX-prijs als Tibber, zonder Pulse-aanschaf, met telefonische klantenservice en een Nederlandse app die functioneel werkt. Simpel.
 
 ---
 
@@ -315,8 +315,8 @@ Tibber is een sterk product, maar niet voor iedereen. Wie last heeft van de app-
 
 **Samenvatting van de aanbevelingen:**
 
-- **Frank Energie**: beste all-round Tibber-alternatief. Geen marge, zelfde prijs, Nederlandse service.
-- **ANWB Energie**: beste keus als je piekprijzen wil dempen. Betaal €60-€90/jaar meer voor mentale rust.
+- **Frank Energie**: beste all-round Tibber-alternatief. Geen marge op EPEX, Nederlandse service; vaste kosten opvragen via de site.
+- **ANWB Energie**: beste keus als je vlakke maandlasten wil via een vast termijnbedrag. Daar staat €0,018/kWh inkoopkosten tegenover.
 - **Greenchoice dynamisch**: als herkomst van groene stroom telt. Betaal premie voor NL GvO.
 - **Vattenfall Dynamisch**: alleen als je al klant bent of erg groot bedrijf wilt. Niet de goedkoopste optie.
 - **Eneco eFlex**: alleen interessant bij verbruik onder 2.000 kWh/jaar. Anders te duur per kWh.

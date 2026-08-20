@@ -172,8 +172,8 @@ function berekenSaldering() {
   var batterijCapaciteit = 5; // kWh standaard model
   var opvangbaar = Math.min(teruggeleverd * 0.65, batterijCapaciteit * 300); // ~300 dagen nuttig laden/jaar
   var batterijBesparing = opvangbaar * (prijsAfname - terugprijs2027);
-  var batterijPrijsNaISDE = 4100; // Sessy 3795 + inst 800 - ISDE ~500 = grofweg
-  var terugverdienJaar = batterijBesparing > 0 ? (batterijPrijsNaISDE / batterijBesparing) : 999;
+  var batterijPrijs = 4600; // Sessy ca. 3795 + installatie ca. 800, incl. 21% btw; geen rijkssubsidie op thuisbatterijen
+  var terugverdienJaar = batterijBesparing > 0 ? (batterijPrijs / batterijBesparing) : 999;
   var batterijRendabel = terugverdienJaar <= 12;
 
   // Output formatteren
@@ -202,7 +202,7 @@ function berekenSaldering() {
     adviesText = '<strong>Merkbaar verlies</strong> — €200-€500/jaar. Zeker de moeite waard om te optimaliseren. Begin met een dynamisch contract, overweeg daarna een slimme warmwaterboiler. Een thuisbatterij hangt af van je avondverbruik.';
   } else if (verschil < 900) {
     adviesKleur = '#f5c6a0';
-    adviesText = '<strong>Significant verlies</strong> — €500-€900/jaar. Dit vraagt actie. Dynamisch contract + thuisbatterij of warmtepomp zijn serieuze opties. Vraag ISDE-subsidie aan vóór eind 2026.';
+    adviesText = '<strong>Significant verlies</strong> — €500-€900/jaar. Dit vraagt actie. Dynamisch contract + thuisbatterij of warmtepomp zijn serieuze opties. Voor een warmtepomp bestaat ISDE-subsidie, voor een thuisbatterij niet.';
   } else {
     adviesKleur = '#f5b0a0';
     adviesText = '<strong>Groot verlies</strong> — meer dan €900/jaar. Jij hebt een groot systeem en veel teruglevering. Een thuisbatterij + dynamisch contract is voor jou de sterkste combinatie. Bereken ook of een EV met V2H-laden interessant is.';
@@ -216,7 +216,7 @@ function berekenSaldering() {
   if (batterijRendabel) {
     batterijDiv.style.display = 'block';
     batterijDiv.innerHTML = '<div style="background:#f0f7f4; border-radius:8px; padding:1rem; border:1px solid #2d7d46;">' +
-      '<strong>Thuisbatterij is voor jou rendabel</strong> — terugverdientijd ~' + fmtJr(terugverdienJaar) + ' (na ISDE-subsidie).<br>' +
+      '<strong>Thuisbatterij is voor jou rendabel</strong> — terugverdientijd ~' + fmtJr(terugverdienJaar) + ' (modelberekening, incl. 21% btw, zonder rijkssubsidie).<br>' +
       'Een 5 kWh batterij kan ~' + Math.round(opvangbaar) + ' kWh/jaar extra zelf verbruiken → besparing ' + fmt(batterijBesparing) + '/jaar.<br><br>' +
       '<a href="https://go.duurzaamthuislab.nl/sessy" style="background:#2d7d46; color:white; padding:.5rem 1rem; border-radius:6px; text-decoration:none; margin-right:.5rem; display:inline-block; margin-bottom:.3rem;" target="_blank" rel="nofollow noopener sponsored">Sessy 5 kWh bekijken →</a> ' +
       '<a href="https://go.duurzaamthuislab.nl/marstek" style="background:#1a5276; color:white; padding:.5rem 1rem; border-radius:6px; text-decoration:none; display:inline-block; margin-bottom:.3rem;" target="_blank" rel="nofollow noopener sponsored">Marstek Venus bekijken →</a>' +
@@ -254,24 +254,24 @@ De calculator gebruikt de volgende aannames, gebaseerd op gemiddelde Nederlandse
 
 ## Grenswaardes: wanneer is een thuisbatterij rendabel?
 
-De tabel hieronder toont bij welke teruglevering en prijs een **5 kWh thuisbatterij (Sessy of Marstek, ca. €4.100 na ISDE)** rendabel wordt. Randvoorwaarde: terugverdientijd ≤ 12 jaar.
+De tabel hieronder toont bij welke teruglevering en prijs een **5 kWh thuisbatterij (Sessy of Marstek, ca. €4.600 inclusief installatie en 21% btw)** rendabel wordt. Randvoorwaarde: terugverdientijd ≤ 12 jaar. Let op: voor thuisbatterijen bestaat geen ISDE-subsidie, dus de tabel rekent met het volle bedrag.
 
 | Jaarlijkse teruglevering | Besparing/jaar (vast) | Besparing/jaar (dynamisch) | Terugverdientijd |
 |--------------------------|----------------------|---------------------------|-----------------|
-| 1.000 kWh | €143 | €190 | **21 jaar (niet rendabel)** |
-| 1.500 kWh | €214 | €285 | **14 jaar (grens)** |
-| 2.000 kWh | €286 | €380 | **11 jaar (rendabel)** |
-| 2.500 kWh | €357 | €475 | **8-9 jaar (goed)** |
-| 3.000 kWh | €429 | €570 | **7-8 jaar (uitstekend)** |
-| 4.000 kWh | €572 | €760 | **5-7 jaar (top)** |
+| 1.000 kWh | €143 | €190 | **24-32 jaar (niet rendabel)** |
+| 1.500 kWh | €214 | €285 | **16-21 jaar (niet rendabel)** |
+| 2.000 kWh | €286 | €380 | **12-16 jaar (grens)** |
+| 2.500 kWh | €357 | €475 | **10-13 jaar (grens)** |
+| 3.000 kWh | €429 | €570 | **8-11 jaar (rendabel)** |
+| 4.000 kWh | €572 | €760 | **6-8 jaar (goed)** |
 
-*Aannames: teruglevertarief vast €0,08, dynamisch €0,12; batterij vangt 65% teruglevering op; prijs €4.100 na ISDE.*
+*Modelberekening. Aannames: teruglevertarief vast €0,08, dynamisch €0,12; batterij vangt 65% teruglevering op; prijs €4.600 inclusief installatie en 21% btw, zonder subsidie.*
 
-**Conclusie:** Lever je minder dan 1.500 kWh per jaar terug, dan is een 5 kWh thuisbatterij financieel gezien niet interessant — tenzij je ook een EV hebt die de batterij effectief groter maakt. Bij 2.000 kWh teruglevering of meer begint het te kloppen.
+**Conclusie:** Lever je minder dan 2.000 kWh per jaar terug, dan is een 5 kWh thuisbatterij financieel gezien niet interessant — tenzij je ook een EV hebt die de batterij effectief groter maakt. Vanaf circa 3.000 kWh teruglevering begint het te kloppen, en met een dynamisch contract eerder dan met een vast contract.
 
 ### Wanneer is een grotere batterij (10 kWh) beter?
 
-Een 10 kWh batterij (bijv. Huawei Luna 2000, ca. €7.500-€9.500 na installatie, minus ISDE ca. €5.400 = €2.100-€4.100 eigen bijdrage) werkt beter als:
+Een 10 kWh batterij (bijv. Huawei Luna 2000, ca. €7.500-€9.500 inclusief installatie en 21% btw — er is geen rijkssubsidie die dat bedrag verlaagt) werkt beter als:
 
 - Je meer dan 4.000 kWh per jaar terugleverd
 - Je een grote EV thuis laadt 's avonds (>15 kWh/dag)
@@ -287,7 +287,7 @@ De calculator geeft je een richting, geen perfect antwoord. Zo ga je ermee om:
 
 **Stap 1: Controleer je werkelijke teruglevering.** Log in op je energieportal (Mijn Eneco, Mijn Vattenfall, Mijn Energie etc.) of kijk in de app van je slimme meter. Het verschil tussen de rekening en de werkelijkheid kan aanzienlijk zijn.
 
-**Stap 2: Vraag een offerte aan.** Gebruik de uitkomst als gespreksbasis met een installateur. Vraag specifiek naar de ISDE-aanvraag — een goede installateur doet dat voor je.
+**Stap 2: Vraag een offerte aan.** Gebruik de uitkomst als gespreksbasis met een installateur. Vraag specifiek om een prijs inclusief 21% btw op de batterij, en check of jouw gemeente of provincie een eigen batterijregeling heeft — landelijke ISDE-subsidie is er voor thuisbatterijen niet.
 
 **Stap 3: Vergelijk dynamische contracten.** Als je nog een vast contract hebt, bekijk dan [onze vergelijking van dynamische contracten](/posts/dynamische-energiecontracten-vergelijking-2026/). Tibber en Frank Energie zijn beide solide keuzes — de overstap kost je niets.
 
@@ -373,7 +373,7 @@ Lezers stuurden de afgelopen drie maanden vragen die de calculator niet automati
 
 **Wat als mijn buurman een grote installatie heeft naast me?** Bij hoge zomer-piek-instraling kan jouw teruglevering door netcongestie geweigerd worden — slimme meter logt dat als "curtailment". In de calculator niet zichtbaar, in de praktijk 2-7 procent verlies.
 
-**Hoe ga ik om met BTW-retour?** Bij gezamenlijke aanschaf (panelen + batterij) tot 2027 nog BTW-aftrekbaar voor particulieren onder de zonnepanelen-regeling. Calculator gaat uit van bruto-prijs — corrigeer netto met €420-€800.
+**Hoe zit het met btw op de batterij?** Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. De calculator rekent daarom met de prijs inclusief btw en zonder btw-correctie. Alleen wie als btw-ondernemer stroom teruglevert kan de btw in specifieke gevallen terugvragen; de voorwaarden (waaronder een energiemanagementsysteem en een dynamisch contract) staan op belastingdienst.nl.
 
 ---
 

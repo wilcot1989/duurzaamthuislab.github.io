@@ -107,7 +107,7 @@ Een P1-meter klikt op je slimme meter en geeft real-time inzicht in je stroom- e
 | Monitor | Prijs | Functies | App kwaliteit |
 |---------|-------|---------|-------------|
 | **HomeWizard P1** | €30 | Real-time verbruik, historiek, kosten | ⭐⭐⭐⭐⭐ |
-| **Tibber Pulse** | €99 | Per-seconde verbruik, Tibber integratie | ⭐⭐⭐⭐⭐ |
+| **Tibber Pulse** | zie Tibber Store | Per-seconde verbruik, Tibber integratie | ⭐⭐⭐⭐⭐ |
 | **Iungo** | €100 | Verbruik + zonnepanelen, per apparaat | ⭐⭐⭐⭐ |
 
 **Waarom het werkt:** Uit onderzoek blijkt dat real-time inzicht in energieverbruik leidt tot 5-15% besparing door gedragsverandering. Je ziet direct welke apparaten veel verbruiken en wanneer je piekverbruik hebt.

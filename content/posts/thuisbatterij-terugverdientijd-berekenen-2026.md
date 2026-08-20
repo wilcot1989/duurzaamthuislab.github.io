@@ -24,19 +24,19 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Hoe lang is de terugverdientijd van een thuisbatterij in 2026?
-  a: De terugverdientijd van een thuisbatterij ligt in 2026 gemiddeld tussen de 7 en 13 jaar, afhankelijk van je energieverbruik, zonnepanelen-opbrengst, energieprijzen en of je subsidie ontvangt. Na afbouw van de salderingsregeling (2027-2031) wordt de terugverdientijd aanzienlijk korter.
+  a: De terugverdientijd van een thuisbatterij ligt in 2026 doorgaans tussen de 7 en 17 jaar, afhankelijk van je energieverbruik, zonnepanelen-opbrengst, energieprijzen en je contractvorm. Er is geen landelijke subsidie voor thuisbatterijen; alleen sommige gemeenten en provincies dragen bij. Na het einde van de salderingsregeling wordt de terugverdientijd korter.
 - q: Is een thuisbatterij rendabel in 2026?
-  a: Een thuisbatterij is in 2026 al rendabel voor huishoudens die veel zelf opgewekte stroom verbruiken en profiteren van de ISDE-subsidie. De rendabiliteit stijgt de komende jaren door de afbouw van de salderingsregeling. Met een dynamisch energiecontract en slim laden/ontladen kan de terugverdientijd verder worden verkort.
+  a: Een thuisbatterij is in 2026 het snelst rendabel voor huishoudens die veel zelf opgewekte stroom verbruiken en een dynamisch contract hebben. Reken zonder rijkssubsidie, want die bestaat voor batterijen niet. Met een dynamisch energiecontract en slim laden/ontladen wordt de terugverdientijd merkbaar korter.
 - q: Welke factoren beinvloeden de terugverdientijd?
-  a: 'De belangrijkste factoren zijn: aanschafprijs van de batterij, capaciteit (kWh), je energieverbruiksprofiel, de opbrengst van je zonnepanelen, de huidige en toekomstige energieprijzen, de afbouw van saldering, ISDE-subsidie, en of je een dynamisch energiecontract hebt.'
+  a: 'De belangrijkste factoren zijn: aanschafprijs van de batterij, capaciteit (kWh), je energieverbruiksprofiel, de opbrengst van je zonnepanelen, de huidige en toekomstige energieprijzen, de afbouw van saldering, een eventuele gemeentelijke of provinciale subsidie, en of je een dynamisch energiecontract hebt.'
 - q: Hoeveel bespaar ik per jaar met een thuisbatterij?
   a: De jaarlijkse besparing hangt af van je situatie. Gemiddeld bespaar je €400-800 per jaar door zelf opgewekte stroom op te slaan in plaats van terug te leveren tegen een lage vergoeding. Met een dynamisch energiecontract en slim laden kan dit oplopen tot €600-1100 per jaar.
-- q: Verbetert de ISDE-subsidie de terugverdientijd?
-  a: Ja, de ISDE-subsidie kan de terugverdientijd met 1-3 jaar verkorten. In 2026 bedraagt de subsidie maximaal €900 per kWh opslagcapaciteit, met een maximum van €5.400. Voor een 6 kWh thuisbatterij ontvang je tot €5.400, wat een aanzienlijk deel van de investering dekt.
+- q: Krijg ik ISDE-subsidie voor een thuisbatterij?
+  a: Nee. De ISDE dekt voor woningeigenaren isolatie, ventilatie (in combinatie met isolatie, vanaf 2026), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Thuisbatterijen staan niet op die lijst. Wat de investering wel kan verlagen is een gemeentelijke of provinciale regeling van €300-€750, in een deel van Nederland.
 - q: Heeft de afbouw van de salderingsregeling invloed op de terugverdientijd?
   a: Ja, enorm. Zolang je volledig mag salderen, krijg je evenveel voor teruggeleverde stroom als je betaalt voor afgenomen stroom. Zodra de saldering afneemt (vanaf 2027), wordt de vergoeding voor teruglevering lager en wordt opslag in een thuisbatterij financieel aantrekkelijker.
 - q: Moet ik nu een thuisbatterij kopen of wachten?
-  a: Als je al zonnepanelen hebt en de ISDE-subsidie nog beschikbaar is, is 2026 een goed moment. Batterijprijzen dalen, maar de subsidie is niet onbeperkt beschikbaar. Vanaf 2027 begint de afbouw van de salderingsregeling, waardoor een batterij rendabeler wordt. Wachten op nog lagere prijzen is een optie, maar je mist dan subsidie en besparingen in de tussentijd.
+  a: Als je al zonnepanelen hebt en een dynamisch contract overweegt, valt de rekening in 2026 al te maken. Batterijprijzen dalen, dus wachten kan geld schelen; daar staat tegenover dat je besparingen in de tussentijd misloopt. Reken niet op een landelijke subsidie, want die bestaat voor batterijen niet.
 products:
 - name: Huawei Luna 2000
   url: https://solar.huawei.com/eu/residential/luna
@@ -46,7 +46,7 @@ products:
   price: '9500'
 schema_type: Article
 ---
-De terugverdientijd van een thuisbatterij hangt af van een handvol variabelen: je zonnepaneelopbrengst, je verbruiksprofiel over dag en nacht, je energiecontract, eventuele subsidie en het einde van de salderingsregeling. Vul die in een eenvoudig rekenblad in en je komt afhankelijk van je profiel op iets tussen 5 en 13 jaar uit. In deze gids laten wij zien hoe je die berekening zelf maakt, met drie uitgewerkte rekenvoorbeelden.
+De terugverdientijd van een thuisbatterij hangt af van een handvol variabelen: je zonnepaneelopbrengst, je verbruiksprofiel over dag en nacht, je energiecontract, een eventuele lokale subsidie en het einde van de salderingsregeling. Vul die in een eenvoudig rekenblad in en je komt afhankelijk van je profiel op iets tussen 5 en 13 jaar uit. In deze gids laten wij zien hoe je die berekening zelf maakt, met drie uitgewerkte rekenvoorbeelden.
 
 *Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
@@ -55,7 +55,7 @@ De terugverdientijd van een thuisbatterij hangt af van een handvol variabelen: j
 
 > **Kort antwoord:** Leer hoe je de terugverdientijd van een thuisbatterij berekent. Inclusief rekenvoorbeelden, invloed van salderingsregeling, subsidies en dynamische tarieven.
 >
-> De terugverdientijd van een thuisbatterij ligt in 2026 gemiddeld tussen de 7 en 13 jaar, afhankelijk van je energieverbruik, zonnepanelen-opbrengst, energieprijzen en of je subsidie ontvangt. Na afbouw van de salderingsregeling (2027-2031) wordt de terugverdientijd aanzienlijk korter.
+> De terugverdientijd van een thuisbatterij ligt in 2026 doorgaans tussen de 7 en 17 jaar, afhankelijk van je energieverbruik, zonnepanelen-opbrengst, energieprijzen en je contractvorm. Er is geen landelijke subsidie voor thuisbatterijen en ook geen btw-voordeel: op de accu geldt 21% btw. Na het einde van de salderingsregeling wordt de terugverdientijd korter.
 
 ## Waarom de standaard "7-12 jaar" onzin is voor jou persoonlijk
 
@@ -87,14 +87,14 @@ De meeste mensen focussen op getal 1. Maar getal 2 is minstens zo relevant. Een 
 
 De terugverdientijd van een thuisbatterij wordt bepaald door een simpele formule:
 
-**Terugverdientijd = (Aanschafkosten - Subsidie) / Jaarlijkse besparing**
+**Terugverdientijd = (Aanschafkosten - eventuele lokale subsidie) / Jaarlijkse besparing**
 
 De uitdaging zit in het correct berekenen van de jaarlijkse besparing, want die hangt af van meerdere variabelen die in de loop der jaren veranderen.
 
 ### De 7 belangrijkste variabelen
 
 1. **Aanschafkosten** (inclusief installatie)
-2. **Subsidie** (ISDE-regeling)
+2. **Eventuele lokale subsidie** (gemeente of provincie; geen rijkssubsidie)
 3. **Capaciteit van de batterij** (kWh)
 4. **Je energieverbruiksprofiel** (wanneer gebruik je stroom?)
 5. **De opbrengst van je zonnepanelen** (hoeveel overschot heb je?)
@@ -121,18 +121,17 @@ De prijs per kWh opslagcapaciteit is een belangrijke maatstaf. In 2026 ligt deze
 
 ---
 
-## Variabele 2: ISDE-subsidie
+## Variabele 2: subsidie — en waarom die post vaak €0 is
 
-De **Investeringssubsidie Duurzame Energie (ISDE)** biedt een substantiele tegemoetkoming:
+Dit is de variabele waar de meeste rekenmodellen op internet de fout in gaan. Voor thuisbatterijen bestaat geen rijkssubsidie:
 
-- **Subsidie**: tot €900 per kWh opslagcapaciteit
-- **Maximum**: €5.400 (voor 6 kWh of meer)
-- **Voorwaarde**: De batterij moet gekoppeld zijn aan zonnepanelen
-- **Aanvragen**: Via RVO.nl, na installatie
+- **ISDE**: dekt voor woningeigenaren isolatie, ventilatie (i.c.m. isolatie, vanaf 2026), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Thuisbatterijen (en zonnepanelen en laadpalen) vallen er niet onder. Er is dus geen bedrag per kWh accucapaciteit. Actuele scope: rvo.nl/subsidies-financiering/isde.
+- **Btw**: op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Zet in je rekenblad dus geen btw-korting op de accu.
+- **Gemeente of provincie**: hier valt soms wel iets te halen, doorgaans €300-€750, met beperkte budgetten en aanvraag vóór aankoop.
 
-**Voorbeeld**: Een 10 kWh thuisbatterij ontvangt maximaal €5.400 subsidie (het maximum wordt al bereikt bij 6 kWh).
+Vul deze post dus in met wat je gemeente of provincie daadwerkelijk biedt — vaak is dat €0. Een uitzondering op de btw-regel bestaat wel: wie stroom teruglevert en zich als btw-ondernemer meldt, kan in specifieke gevallen de btw op de accu terugvragen (voorwaarden onder andere een energiemanagementsysteem en een dynamisch contract, met btw-afdracht over de terugleververgoeding als keerzijde). Zie belastingdienst.nl, "Thuisbatterij en btw".
 
-Lees de volledige voorwaarden in ons artikel over [zonnepanelen subsidies in Nederland](/posts/zonnepanelen-subsidie-nederland-2026/).
+Lees het volledige overzicht in ons artikel over [thuisbatterij-subsidies in 2026](/posts/thuisbatterij-subsidie-2026-overzicht/).
 
 ---
 
@@ -144,16 +143,14 @@ De salderingsregeling is de belangrijkste factor die de terugverdientijd beinvlo
 
 Met saldering verrekent je energieleverancier de stroom die je teruglevert met de stroom die je afneemt. Als je overdag 10 kWh teruglevert en 's avonds 10 kWh afneemt, betaal je netto niets. Je krijgt effectief dezelfde prijs voor teruggeleverde stroom als voor afgenomen stroom.
 
-### De afbouw (2027-2031)
+### Het einde van de saldering (per 1 januari 2027)
 
-| Jaar | Salderings-percentage | Effectieve terugleverwaarde (bij €0,30/kWh) |
+Let op: het oude wetsvoorstel met een geleidelijke afbouw tussen 2027 en 2031 is nooit wet geworden. De aangenomen wet stopt de saldering **in één keer, per 1 januari 2027**.
+
+| Periode | Saldering | Effectieve terugleverwaarde (bij €0,30/kWh afname) |
 |---|---|---|
-| **2026** | 100% | €0,30/kWh |
-| **2027** | ~73% | €0,22/kWh |
-| **2028** | ~64% | €0,19/kWh |
-| **2029** | ~55% | €0,17/kWh |
-| **2030** | ~46% | €0,14/kWh |
-| **2031** | 0% | Terugleververgoeding (€0,05-0,08/kWh) |
+| **t/m 31 dec 2026** | 100% | €0,30/kWh |
+| **vanaf 1 jan 2027** | 0% | de terugleververgoeding van je leverancier (verschilt per contract — zie je leverancier) |
 
 ### Wat betekent dit voor je thuisbatterij?
 
@@ -193,9 +190,9 @@ Een gemiddeld Nederlands huishouden met 10-14 zonnepanelen levert in de zomermaa
 ### Uitgangspunten
 
 - **Thuisbatterij**: 10 kWh (bijv. Huawei Luna 2000)
-- **Totale kosten**: €9.000 (inclusief installatie)
-- **ISDE-subsidie**: €5.400
-- **Netto investering**: €3.600
+- **Totale kosten**: €9.000 (inclusief installatie, inclusief 21% btw)
+- **Rijkssubsidie**: €0 (batterijen vallen niet onder de ISDE)
+- **Netto investering**: €9.000
 - **Zonnepanelen**: 12 stuks (4.500 Wp)
 - **Jaarverbruik**: 3.500 kWh
 - **Jaaropbrengst zonnepanelen**: 4.000 kWh
@@ -207,14 +204,14 @@ Een gemiddeld Nederlands huishouden met 10-14 zonnepanelen levert in de zomermaa
 - Opgeslagen stroom per jaar: 250 cycli x 10 kWh x 0,9 (efficientie) = **2.250 kWh**
 - Besparing per kWh: €0,30 (afname) - €0,07 (terugleververgoeding) = **€0,23**
 - Jaarlijkse besparing: 2.250 x €0,23 = **€518**
-- Terugverdientijd: €3.600 / €518 = **6,9 jaar**
+- Terugverdientijd: €9.000 / €518 = **17,4 jaar**
 
 ### Berekening (gemiddeld over 2027-2035, geleidelijke afbouw)
 
 Rekening houdend met de geleidelijke afbouw van saldering is de gemiddelde besparing over de eerste jaren lager. Realistisch:
 
 - Gemiddelde jaarlijkse besparing eerste 10 jaar: **€400-480**
-- Terugverdientijd: €3.600 / €440 = **8,2 jaar**
+- Terugverdientijd: €9.000 / €440 = **20,5 jaar**
 
 ---
 
@@ -223,9 +220,9 @@ Rekening houdend met de geleidelijke afbouw van saldering is de gemiddelde bespa
 ### Uitgangspunten
 
 - **Thuisbatterij**: 15 kWh
-- **Totale kosten**: €13.000 (inclusief installatie)
-- **ISDE-subsidie**: €5.400
-- **Netto investering**: €7.600
+- **Totale kosten**: €13.000 (inclusief installatie, inclusief 21% btw)
+- **Rijkssubsidie**: €0 (batterijen vallen niet onder de ISDE)
+- **Netto investering**: €13.000
 - **Zonnepanelen**: 18 stuks (6.750 Wp)
 - **Jaarverbruik**: 6.000 kWh (inclusief warmtepomp)
 - **Jaaropbrengst zonnepanelen**: 6.000 kWh
@@ -238,9 +235,9 @@ Rekening houdend met de geleidelijke afbouw van saldering is de gemiddelde bespa
 - Maar: maximaal bruikbaar overschot is circa 3.200 kWh (seizoenscorrectie)
 - Besparing per kWh: €0,23
 - Jaarlijkse besparing: 3.200 x €0,23 = **€736**
-- Terugverdientijd: €7.600 / €736 = **10,3 jaar**
+- Terugverdientijd: €13.000 / €736 = **17,7 jaar**
 
-Een groot systeem heeft een langere terugverdientijd door de hogere investering, maar bespaart absoluut meer per jaar.
+Een groot systeem heeft een langere terugverdientijd door de hogere investering, maar bespaart absoluut meer per jaar. Ook hier geldt: er komt geen subsidie van het rijk af, en de 21% btw op de accu zit al in de €13.000.
 
 ---
 
@@ -251,7 +248,7 @@ Een dynamisch energiecontract biedt wisselende tarieven per uur. Door slim te la
 ### Uitgangspunten
 
 - **Thuisbatterij**: 10 kWh
-- **Netto investering**: €3.600 (na subsidie)
+- **Netto investering**: €9.000 (geen rijkssubsidie beschikbaar)
 - **Zonnepanelen**: 12 stuks
 - **Dynamisch contract**: Ja (bijv. Tibber, ANWB Energie, Zonneplan)
 - **Extra besparing door slim laden**: €150-250 per jaar
@@ -261,9 +258,9 @@ Een dynamisch energiecontract biedt wisselende tarieven per uur. Door slim te la
 - Besparing door zonne-opslag: €518/jaar (zie voorbeeld 1)
 - Extra besparing dynamisch tarief: €200/jaar
 - Totale jaarlijkse besparing: **€718**
-- Terugverdientijd: €3.600 / €718 = **5,0 jaar**
+- Terugverdientijd: €9.000 / €718 = **12,5 jaar**
 
-Met een dynamisch contract daalt de terugverdientijd naar circa 5 jaar. Dit maakt een thuisbatterij al in 2026 een aantrekkelijke investering.
+Een dynamisch contract haalt in dit voorbeeld bijna vijf jaar van de terugverdientijd af. Dat is het krachtigste instrument dat je hebt — krachtiger dan welke subsidie er in Nederland voor batterijen te vinden is. Let op: deze €9.000 is een ruim gerekende all-in prijs; met een goedkopere batterij (zie de vergelijkingstabel verderop) valt de terugverdientijd flink lager uit.
 
 Lees meer over dynamische contracten en thuisbatterijen in ons artikel [Dynamische energiecontracten + thuisbatterij: zo verdien je geld](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
@@ -277,7 +274,7 @@ Als de energieprijzen stijgen, stijgt de waarde van elke opgeslagen kWh mee. Bij
 
 ### Dalende batterijprijzen
 
-Als je wacht met aanschaffen, worden batterijen goedkoper. Maar je mist in de tussentijd ook besparingen en mogelijk subsidie. De ISDE-subsidie is niet gegarandeerd voor de komende jaren.
+Als je wacht met aanschaffen, worden batterijen goedkoper. Maar je mist in de tussentijd ook besparingen. Reken niet op een toekomstige rijkssubsidie: die is voor thuisbatterijen niet aangekondigd.
 
 ### Levensduur van de batterij
 
@@ -325,8 +322,8 @@ Gebruik deze formule als basis:
 **Stap 1 — Vul je aankoopprijs in:**
 - Batterijprijs: €___
 - Installatie: €___
-- Minus 0% BTW-voordeel (automatisch): -€___ (= 17,3% van prijs incl. install.)
-- Minus gemeentelijke subsidie: -€___
+- Btw-voordeel op de accu: €0 (21% btw zit in de prijs, geen nultarief)
+- Minus gemeentelijke of provinciale subsidie: -€___ (vaak €0)
 - Netto investering: €___
 
 **Stap 2 — Bereken je jaarlijkse besparing:**
@@ -364,16 +361,16 @@ Een thuisbatterij heeft circa 10% efficientieverliezen (laden en ontladen). Van 
 
 Eén variabele die de meeste rekenmodellen te simpel behandelen: de toekomstige energieprijs. Als de energieprijs stijgt, stijgt de waarde van elke opgeslagen kWh mee — en daalt de terugverdientijd.
 
-**Gevoeligheidsanalyse voor rekenvoorbeeld 1 (10 kWh, netto €3.600):**
+**Gevoeligheidsanalyse voor rekenvoorbeeld 1 (10 kWh, netto €9.000):**
 
 | Energieprijs 2030 | Jaarlijkse besparing | Terugverdientijd |
 |---|---|---|
-| €0,24/kWh (prijsdaling) | €420 | 8,6 jaar |
-| €0,30/kWh (stabiel) | €518 | 6,9 jaar |
-| €0,36/kWh (+20%) | €622 | 5,8 jaar |
-| €0,42/kWh (+40%) | €726 | 5,0 jaar |
+| €0,24/kWh (prijsdaling) | €420 | 21,4 jaar |
+| €0,30/kWh (stabiel) | €518 | 17,4 jaar |
+| €0,36/kWh (+20%) | €622 | 14,5 jaar |
+| €0,42/kWh (+40%) | €726 | 12,4 jaar |
 
-Een energieprijsstijging van 20% — wat de afgelopen 5 jaar bepaald niet ondenkbaar was — verkort de terugverdientijd met een jaar. De energieprijsontwikkeling is buiten je controle, maar het illustreert dat een batterij ook als hedge werkt: hoe duurder stroom wordt, hoe waardevoller de investering.
+Een energieprijsstijging van 20% — wat de afgelopen 5 jaar bepaald niet ondenkbaar was — verkort de terugverdientijd met bijna drie jaar. De energieprijsontwikkeling is buiten je controle, maar het illustreert dat een batterij ook als hedge werkt: hoe duurder stroom wordt, hoe waardevoller de investering.
 
 ## Vergelijking: batterij kopen vs dynamisch contract (zonder batterij)
 
@@ -395,26 +392,29 @@ Bij Marstek (€2.679) en €350 meerwaarde per jaar (batterij vs alleen dynamis
 
 | Scenario | Netto investering | Jaarlijkse besparing | Terugverdientijd |
 |---|---|---|---|
-| Gemiddeld, na salderingsafbouw | €3.600 | ~€518 | ~7 jaar |
-| Gemiddeld, geleidelijke afbouw | €3.600 | ~€440 | ~8 jaar |
-| Groot huishouden + warmtepomp | €7.600 | ~€736 | ~10 jaar |
-| Gemiddeld + dynamisch contract | €3.600 | ~€718 | ~5 jaar |
-| Zonder subsidie, na salderingsafbouw | €9.000 | ~€518 | ~17 jaar |
+| Gemiddeld (all-in €9.000), na salderingsafbouw | €9.000 | ~€518 | ~17 jaar |
+| Gemiddeld, geleidelijke afbouw | €9.000 | ~€440 | ~21 jaar |
+| Groot huishouden + warmtepomp | €13.000 | ~€736 | ~18 jaar |
+| Gemiddeld + dynamisch contract | €9.000 | ~€718 | ~13 jaar |
+| Sessy 10 kWh los (€5.500), dynamisch contract | €5.500 | ~€850 | ~6,5 jaar |
+| Marstek Venus E (€2.679), dynamisch contract | €2.679 | ~€780 | ~3,5 jaar |
+
+De onderste twee rijen laten zien waar de winst zit: niet in subsidie, maar in de aanschafprijs en de contractvorm. De €9.000 en €13.000 zijn ruim gerekende all-in installaties met omvormerwissel; wie een AC-gekoppelde batterij plaatst bij een bestaande installatie, zit veel lager.
 
 ---
 
 ## Uitgewerkte lezersvraag: doorrekening van een concreet profiel
 
-Een lezer uit Dordrecht stelde deze vraag: "Ik heb 14 zonnepanelen, gebruik 4.800 kWh/jaar, lever 3.100 kWh terug en heb een dynamisch contract. Denk erover een Sessy 10 kWh te kopen voor €5.995. Is dat logisch?"
+Een lezer uit Dordrecht stelde deze vraag: "Ik heb 14 zonnepanelen, gebruik 4.800 kWh/jaar, lever 3.100 kWh terug en heb een dynamisch contract. Denk erover een Sessy 10 kWh te kopen voor €5.500. Is dat logisch?"
 
 De doorrekening (modelberekening op basis van de opgegeven cijfers):
 
 **Stap 1 — Netto investering:**
-- Sessy 10 kWh: €5.995
-- 0% BTW al verrekend in prijs: €0 extra
+- Sessy 10 kWh: €5.500 (incl. btw, excl. installatie; prijspeil aug 2026)
+- Btw: 21% zit in de prijs verwerkt, geen nultarief op een accu
 - Geen Flevoland-subsidie van toepassing (Dordrecht = Zuid-Holland)
 - Gemeente Dordrecht: geen specifieke thuisbatterijsubsidie in 2026
-- Netto investering: **€5.995**
+- Netto investering: **€5.500** exclusief installatiekosten (Sessy rekent die apart; een basisinstallatie met noodstroom staat op €1.200)
 
 **Stap 2 — Jaarlijkse besparing:**
 - Teruglevering 3.100 kWh → met een 10 kWh batterij wordt naar schatting ~2.300 kWh alsnog zelf verbruikt
@@ -433,7 +433,7 @@ De doorrekening (modelberekening op basis van de opgegeven cijfers):
 - 2027+: €936/jaar
 - Gewogen gemiddeld over 10 jaar: ~€870/jaar
 
-**Terugverdientijd: €5.995 / €870 = 6,9 jaar**
+**Terugverdientijd: €5.500 / €870 = 6,3 jaar** (modelberekening; met een basisinstallatie van €1.200 erbij: €6.700 / €870 = 7,7 jaar)
 
 Ons oordeel bij dit profiel: een Sessy is een verdedigbare keuze. Puur op terugverdientijd komt een Marstek Venus E gunstiger uit door de veel lagere aanschafprijs, maar die vraagt meer eigen configuratie (bijvoorbeeld via Home Assistant). Wie dat niet wil, betaalt bij Sessy in feite voor gemak en Nederlandse service.
 
@@ -446,18 +446,18 @@ Veel mensen stellen de terugverdientijdvraag verkeerd: "is een thuisbatterij ren
 Een thuisbatterij is in 2026 een slimme investering als je aan de volgende voorwaarden voldoet:
 
 1. **Je hebt al zonnepanelen** (of plant die tegelijk te installeren)
-2. **Je vraagt ISDE-subsidie aan** (dit verkort de terugverdientijd met 1-3 jaar)
+2. **Je koopt scherp in** — de aanschafprijs is de variabele met de grootste hefboom, want er is geen rijkssubsidie en geen btw-voordeel op een accu
 3. **Je combineert het met een dynamisch energiecontract** (extra besparing van €150-250/jaar)
 
-Met ISDE-subsidie en een dynamisch contract kun je een terugverdientijd van **5-7 jaar** bereiken, waarna je nog 5-8 jaar pure besparing geniet over de resterende levensduur van de batterij.
+Bij een scherp geprijsde batterij en een dynamisch contract komt de terugverdientijd in onze modelberekeningen op **3,5 tot 7 jaar**. Bij een ruim gerekende all-in installatie van €9.000 of meer loopt dat op naar 13 tot 21 jaar — langer dan de verwachte levensduur van de batterij. Dat verschil zit vrijwel volledig in de aanschafprijs en de contractvorm.
 
-Zonder subsidie is de terugverdientijd aanzienlijk langer (13-17 jaar) en moet je afwegen of de bijkomende voordelen (noodstroom, onafhankelijkheid, toekomstbestendigheid) de investering rechtvaardigen.
+Bij die langere terugverdientijden moet je afwegen of de bijkomende voordelen (noodstroom, onafhankelijkheid, toekomstbestendigheid) de investering rechtvaardigen — puur financieel komt hij dan niet uit.
 
 **Onze aanbeveling**: vraag offertes aan bij minimaal drie installateurs. Vraag hen expliciet om de terugverdientijdberekening op basis van jouw verbruiksdata — een goede installateur heeft dat direct paraat. Vergelijk hun berekening met het model in dit artikel: als ze meer dan 1 jaar van elkaar afwijken, vraag dan om toelichting op de aannames.
 
 De terugverdientijd is geen garantie maar een verwachting. Energieprijzen fluctueren, saldering stopt in 2027, en jouw verbruikspatroon kan veranderen. Maar voor wie 5.000+ kWh/jaar verbruikt en 1.500+ kWh teruglevert: de kans dat een thuisbatterij rendabel is over 10 jaar is groot. Dat maakt het meer dan speculatie — het is een berekende investering.
 
-**Onze aanbeveling**: vraag offertes aan bij minimaal drie installateurs en dien je ISDE-subsidieaanvraag in zodra de installatie gereed is. Bekijk ons overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatterij-nederland-2026/) om de juiste batterij voor jouw situatie te kiezen.
+**Onze aanbeveling**: vraag offertes aan bij minimaal drie installateurs en check bij je gemeente en provincie of er een lokale batterijregeling openstaat — dat is de enige subsidie die voor een accu bestaat. Bekijk ons overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatterij-nederland-2026/) om de juiste batterij voor jouw situatie te kiezen.
 
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
@@ -467,4 +467,4 @@ De terugverdientijd is geen garantie maar een verwachting. Energieprijzen fluctu
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE](https://www.rvo.nl/subsidies-financiering/isde) — de actuele lijst met maatregelen die wél onder de ISDE vallen (thuisbatterijen staan er niet op).

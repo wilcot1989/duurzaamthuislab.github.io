@@ -1,7 +1,7 @@
 ---
 title: 'Beste powerstation 2026: top 7 draagbare powerstations vergeleken'
 date: 2026-02-24 12:00:00+01:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Beste powerstation 2026: 7 draagbare powerstations vergeleken op capaciteit, vermogen, gewicht en prijs (€549-€1.899). Met keuzehulp per situatie.'
 categories:
 - powerstations
@@ -52,7 +52,7 @@ products:
   price: '1299'
 schema_type: Article
 ---
-> **Wat is het beste powerstation in 2026? — kort antwoord**
+> **Kort antwoord:** de EcoFlow Delta 2 Max is in 2026 de beste allrounder (2.048 Wh, 2.400 W), de Jackery Explorer 2000 Plus heeft het hoogste vermogen (3.000 W), de Anker SOLIX C1000 is de sterkste middenklasser en de Bluetti EB70S de scherpste budgetkeuze. Voor wie vooral laag wil instappen is ALLPOWERS het goedkoopste merk in dit overzicht. Kies op Wh (hoeveel uren) én op W (welke apparaten), in die volgorde.
 >
 > - **Beste allrounder:** EcoFlow Delta 2 Max — 2.048 Wh, 2.400 W continu, 0-80% in 65 minuten, circa €1.799.
 > - **Hoogste vermogen:** Jackery Explorer 2000 Plus — 3.000 W continu, uitbreidbaar tot 12 kWh, circa €1.899.
@@ -67,11 +67,29 @@ schema_type: Article
 
 Een draagbaar powerstation is iets anders dan een thuisbatterij: het is bedoeld voor noodstroom bij uitval, voor de camping of voor klussen zonder stopcontact in de buurt. Dit is onze brede vergelijking van de zeven modellen die in Nederland het meest verkocht worden, naast elkaar gelegd op prijs per Wh, laadsnelheid, celtechnologie en levensduur.
 
-**Zoek je specifiek een powerstation voor de camping?** Dan is gewicht, formaat en 12V-gebruik belangrijker dan pure capaciteit. Daarvoor hebben wij een aparte keuzehulp: [beste powerstation voor de camping 2026](/posts/beste-powerstation-camping-2026/). Deze pagina is de brede vergelijking voor alle gebruiksdoelen — noodstroom thuis, klussen, camper en camping.
-
-*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links, onder meer naar EcoFlow, Jackery, Bluetti, Anker en ALLPOWERS. Wij ontvangen een kleine vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou; dat verandert onze rangschikking niet.*
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+
+## Powerstation kiezen per situatie
+
+De beste keuze hangt minder af van welk model "de beste" is dan van waar je het apparaat voor gebruikt. Dezelfde 1.000 Wh is voor de een ruim en voor de ander te weinig. Daarom hebben wij naast deze brede vergelijking drie aparte keuzehulpen, elk met een eigen selectie en eigen criteria:
+
+- **[Powerstation voor de camping](/posts/beste-powerstation-camping-2026/)** — hier wegen gewicht, formaat, 12V-gebruik en geluid in een tent zwaarder dan maximale capaciteit. Ook de vraag hoe je op een staanplaats bijlaadt met een zonnepaneel komt daar aan de orde.
+- **[Powerstation voor vanlife en de camper](/posts/beste-powerstation-vanlife-2026/)** — bij dagelijks gebruik als primaire stroombron gaan cyclusaantal, laden tijdens het rijden en inbouwmogelijkheden voorop, niet de aanschafprijs.
+- **[Powerstation voor blackout en noodgevallen](/posts/beste-powerstation-blackout-noodgeval-2026/)** — hier is het draaien van een koelkast, cv-pomp of modem gedurende uren de maat, en dus vooral capaciteit plus continu vermogen.
+
+Kort samengevat welke maat bij welk gebruik hoort:
+
+| Gebruik | Wat het meest telt | Richtcapaciteit |
+|---|---|---|
+| Weekend kamperen, telefoons en verlichting | Gewicht, 12V-poorten | 300-800 Wh |
+| Kamperen met koelbox | Wh per kilo, solar-input | 800-1.300 Wh |
+| Vanlife, dagelijks gebruik | Cyclusaantal, laden onderweg | 1.000-2.000 Wh |
+| Noodstroom thuis (koelkast, modem, licht) | Capaciteit én continu vermogen | 2.000 Wh of meer |
+| Klussen met elektrisch gereedschap | Continu en piekvermogen | 1.500 W of meer continu |
+
+Deze pagina blijft de brede vergelijking: hier liggen alle typen naast elkaar op prijs per Wh, laadsnelheid, celtechnologie en levensduur.
 
 ## Snelle vergelijkingstabel
 
@@ -380,6 +398,31 @@ De Bluetti EB70S is verkrijgbaar vanaf **circa €549**.
 
 ---
 
+## Ook in de budgethoek: ALLPOWERS
+
+Onder de vier merken hierboven zit nog een prijsklasse, en die wordt in Nederland vooral gevuld door **ALLPOWERS**. Het merk verkoopt via een eigen Nederlandse webshop en zit met zijn instapmodellen structureel onder het niveau waar EcoFlow, Jackery en Bluetti beginnen. Voor wie een powerstation zoekt als reservevoorziening in de meterkast of voor een paar weekenden per jaar, is dat een reële afweging.
+
+De specificaties hieronder komen van de productpagina's van ALLPOWERS Nederland zelf; wij nemen alleen over wat daar staat.
+
+| Model | Capaciteit | Continu vermogen | Celtype |
+|---|---|---|---|
+| ALLPOWERS R600 | 299 Wh | 600 W | LiFePO4 |
+| ALLPOWERS S700 | 606 Wh | 700 W | — |
+| ALLPOWERS R1500 LITE | 1.056 Wh | 1.600 W | — |
+| ALLPOWERS R2500-V2 | 1.920 Wh | 2.500 W | — |
+
+*Prijzen staan op de productpagina's van ALLPOWERS zelf en wisselen sterk per actieperiode; wij nemen ze daarom niet in deze tabel over. Bij de R600 geeft ALLPOWERS "2-5 jaar garantie" en 30 dagen retourrecht op, en het model wordt in twee kleuruitvoeringen verkocht.*
+
+**Waar dit interessant is.** De R600 valt met 299 Wh en 600 W in dezelfde gebruiksklasse als de kleinste modellen hierboven, maar op een lager prijsniveau; de R1500 LITE zit met 1.056 Wh en 1.600 W dicht bij de Anker SOLIX C1000 (1.056 Wh, 1.800 W) uit onze middenklasse. Wie op prijs per Wh selecteert, moet dit merk dus in de vergelijking meenemen.
+
+**Waar wij voorzichtig zijn.** ALLPOWERS publiceert per model minder volledige specificaties dan de vier merken hierboven: cyclusaantallen, gewicht en maximale solar-input staan niet consequent op de productpagina's. Voor de R600 is de LiFePO4-chemie bevestigd, voor de grotere modellen niet op elke pagina. Wie op levensduur selecteert — vanlife, dagelijks gebruik — vraagt die cijfers dus eerst op bij de leverancier. Voor incidenteel gebruik weegt dat minder zwaar.
+
+Onze inschatting: ALLPOWERS is de logische keuze wanneer het budget het uitgangspunt is en het gebruik incidenteel; voor dagelijks gebruik als primaire stroombron kiezen wij liever een merk dat cyclusaantallen wél publiceert.
+
+<a href="https://go.duurzaamthuislab.nl/allpowers?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de ALLPOWERS-powerstations</a>
+
+---
+
 ## Welk powerstation past bij jou?
 
 De keuze voor het juiste powerstation hangt af van je specifieke behoeften. Hier een handig overzicht:
@@ -396,7 +439,7 @@ Voor thuisgebruik tijdens stroomuitval wil je **meer capaciteit en hoger vermoge
 
 ### Voor de prijs-bewuste koper
 
-Wil je een goed powerstation zonder de hoofdprijs te betalen? De **Anker SOLIX C1000** biedt de beste waarde in het middensegment, terwijl de **Bluetti EB70S** de budgetkoning is.
+Wil je een goed powerstation zonder de hoofdprijs te betalen? De **Anker SOLIX C1000** biedt de beste waarde in het middensegment, terwijl de **Bluetti EB70S** de budgetkoning is onder de merken die volledige specificaties publiceren. Wil je nog een prijsklasse lager, dan is **ALLPOWERS** het merk om te bekijken — zie de sectie hierboven voor wat daar wel en niet vaststaat.
 
 ### Voor maximale uitbreidbaarheid
 

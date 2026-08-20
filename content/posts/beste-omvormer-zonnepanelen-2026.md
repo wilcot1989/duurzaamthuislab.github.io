@@ -382,13 +382,15 @@ De conclusie is duidelijk: bij een **schaduwvrij dak** maakt het type omvormer w
 
 De [salderingsregeling](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) heeft indirect invloed op je omvormerkeuze. Met de afbouw vanaf 2027 wordt het steeds belangrijker om zoveel mogelijk opgewekte stroom zelf te verbruiken. Een hybride omvormer die je later kunt koppelen aan een thuisbatterij helpt daarbij. Lees meer in ons artikel over de [afbouw van de salderingsregeling](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/).
 
-### ISDE-subsidie
+### ISDE-subsidie: niet voor omvormers, en ook niet voor batterijen
 
-De **ISDE-subsidie** geldt niet direct voor omvormers, maar wel voor thuisbatterijen die je aan de omvormer koppelt. Het kiezen van een hybride omvormer nu maakt je klaar om later subsidie voor een thuisbatterij aan te vragen. Alle details vind je in ons [subsidie-overzicht](/posts/zonnepanelen-subsidie-nederland-2026/).
+De ISDE geldt niet voor omvormers. Ook niet voor thuisbatterijen: volgens RVO dekt de regeling voor woningeigenaren uitsluitend isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Een hybride omvormer kiezen maakt je dus klaar om later een batterij te koppelen, maar niet om er subsidie voor aan te vragen. Alle details staan in ons [subsidie-overzicht](/posts/zonnepanelen-subsidie-nederland-2026/).
 
 ### BTW-voordeel
 
-Bij de aanschaf van zonnepanelen inclusief omvormer betaal je in Nederland **0% BTW**. Dit geldt voor zowel de omvormer als de installatie, zolang het een residentieel systeem betreft.
+Bij de aanschaf van zonnepanelen voor een woning betaal je in Nederland **0% btw**. Dat nultarief geldt volgens de Belastingdienst ook voor wat direct nodig is om de panelen aan te brengen en te laten werken: kabels, montagemateriaal, PV-verdeler, optimizers en omvormers, en aanpassingen aan meterkast en dak.
+
+Let op de grens: de levering en installatie van een accupakket of thuisbatterij valt volgens de Belastingdienst uitdrukkelijk **buiten** het nultarief en houdt 21% btw — ook als je de batterij samen met de panelen koopt. Reken dus geen btw-voordeel op het batterijdeel van een offerte.
 
 ---
 
@@ -477,4 +479,4 @@ Benieuwd welke thuisbatterij het beste bij jouw omvormer past? Lees ons complete
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van wat de ISDE wel en niet dekt.

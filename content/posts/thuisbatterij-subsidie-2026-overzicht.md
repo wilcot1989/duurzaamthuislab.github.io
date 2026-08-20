@@ -2,7 +2,7 @@
 title: 'Thuisbatterij subsidie 2026: volledig overzicht per'
 date: 2026-05-10 08:00:00+02:00
 lastmod: 2026-08-20 08:00:00+02:00
-description: Welke subsidies bestaan er voor thuisbatterijen in 2026? Per provincie en gemeente uitgesplitst. Plus BTW-regels, ISDE-status en wanneer subsidie aanvragen.
+description: Welke subsidies bestaan er voor thuisbatterijen in 2026? Per provincie en gemeente uitgesplitst. Plus de btw-regels (21% op batterijen), de ISDE-status en wanneer je subsidie aanvraagt.
 categories:
 - thuisbatterijen
 tags:
@@ -22,28 +22,28 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Is er een landelijke subsidie voor thuisbatterijen?
-  a: Niet via ISDE in 2026. De ISDE (Investeringssubsidie duurzame energie) dekt zonneboilers, warmtepompen en pelletketels — maar nog geen thuisbatterijen. De overheid heeft aangekondigd dat dit per 2027 gaat veranderen, maar dat is nog niet zeker.
+  a: 'Nee. De ISDE (Investeringssubsidie duurzame energie en energiebesparing) is voor woningeigenaren beperkt tot isolatie, ventilatie (in combinatie met isolatie, vanaf 2026), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Thuisbatterijen staan niet op die lijst — en zonnepanelen en laadpalen ook niet. Er is voor 2026 geen andere landelijke batterijsubsidie. Actuele scope: rvo.nl/isde.'
 - q: Welke gemeenten/provincies hebben wél subsidie?
   a: Provincie Flevoland (€500-€750), gemeente Utrecht (tot €500), Apeldoorn (€400), Eindhoven (€300), enkele Noord-Hollandse gemeenten (€200-€400). Allemaal beperkte budgetten — vaak op = op binnen weken na opening.
 - q: Geldt het lage BTW-tarief voor thuisbatterijen?
-  a: Sinds 2024 geldt 0% BTW op thuisbatterijen (en zonnepanelen) bij installatie aan een woning. Dat scheelt 21% — concreet €1.260 op een €6.000 batterij. Dit geldt automatisch via de installateur, je hoeft niets aan te vragen.
+  a: 'Nee. Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Wat wél onder het nultarief valt: de panelen zelf plus wat direct nodig is om ze te laten werken (kabels, montagemateriaal, optimizers, omvormer, aanpassingen aan meterkast en dak).'
 - q: Hoe vraag ik subsidie aan?
   a: 'Verschilt per gemeente. Algemene werkwijze: (1) check of je gemeente een subsidie heeft, (2) reserveer subsidie ONLINE voordat je de batterij koopt, (3) koop + installatie binnen 6-12 maanden, (4) stuur factuur + bewijs in. Veel mensen kopen eerst — dat werkt meestal niet.'
-- q: Komt er per 2027 een landelijke subsidie?
-  a: 'Waarschijnlijk wel, maar niet zeker. In het regeerakkoord 2026 staat een passage over uitbreiding van ISDE met thuisbatterijen, maar geen concrete bedragen of startdatum. Verwachting: €500-€1.000 per huishouden, beperkt budget.'
+- q: Komt er een landelijke batterijsubsidie?
+  a: Er is op dit moment geen aangekondigde landelijke regeling voor thuisbatterijen met een concreet bedrag of startdatum. Reken er in je berekening dus niet op. De actuele ISDE-scope staat op rvo.nl.
 - q: Kan ik EU-subsidies krijgen?
-  a: Niet direct als consument. EU-fondsen lopen via Nederlandse instanties die ze doorzetten via ISDE of provinciale regelingen. Geen aparte EU-aanvraag mogelijk.
+  a: Niet direct als consument. EU-fondsen lopen via Nederlandse instanties die ze doorzetten via bestaande regelingen. Geen aparte EU-aanvraag mogelijk.
 - q: Geldt de subsidie ook bij lease?
   a: Vrijwel altijd nee. Subsidies zijn voor eigenaren/installatie. Bij Zonneplan-lease behoort de batterij toe aan Zonneplan, dus geen subsidie. Bij koop wel.
 - q: Wanneer kan ik het beste kopen voor maximale subsidie?
-  a: Wacht tot je gemeente/provincie de regeling voor 2026 opent (vaak januari, april of september). Reserveer online de subsidie. Koop dan pas de batterij. Wachten op een hypothetische landelijke 2027-regeling is risicovol — die kan kleiner zijn dan de huidige lokale opties.
+  a: Wacht tot je gemeente/provincie de regeling voor 2026 opent (vaak januari, april of september). Reserveer online de subsidie. Koop dan pas de batterij.
 products:
 - name: Sessy thuisbatterij 5 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '3795'
+  price: '3550'
 - name: Sessy thuisbatterij 10 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  price: '5500'
 - name: Marstek Venus E 8,2 kWh
   url: https://marstekenergy.com/venus-e
   price: '2299'
@@ -52,59 +52,57 @@ products:
   price: '6995'
 schema_type: Article
 ---
-De subsidievraag is in 2026 een van de meest gestelde vragen rond thuisbatterijen (na "is een batterij wel rendabel"). Het antwoord is rommelig: er is **geen** landelijke subsidie, maar er **zijn** gemeentelijke en provinciale regelingen. Plus de 0% BTW-regel die iedereen vergeet.
+De subsidievraag is in 2026 een van de meest gestelde vragen rond thuisbatterijen (na "is een batterij wel rendabel"). Het antwoord is korter dan veel mensen hopen: er is **geen** landelijke subsidie voor thuisbatterijen, en ook **geen** btw-voordeel op de batterij. Wat er wél is: een handvol gemeentelijke en provinciale regelingen.
 
-Hier is het volledige overzicht — wat bestaat, hoe je het aanvraagt, en wat er waarschijnlijk verandert in 2027.
+Hier is het volledige overzicht — wat bestaat, wat níet bestaat maar wel vaak wordt geroepen, en hoe je de aanvraag aanpakt.
 
-*Cijfers en regelingen geverifieerd in april 2026 via RVO + provincieportals + gemeente-zoek-loketten. Check altijd de actuele regeling voor je beslist.*
+*Regelingen nagelopen in augustus 2026 via rvo.nl, belastingdienst.nl, provincieportalen en gemeentelijke subsidieloketten. Check altijd de actuele regeling voordat je beslist.*
 
 ---
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
-> **Kort antwoord:** Welke subsidies bestaan er voor thuisbatterijen in 2026? Per provincie en gemeente uitgesplitst. Plus BTW-regels, ISDE-status en wanneer subsidie aanvragen.
->
-> Niet via ISDE in 2026. De ISDE (Investeringssubsidie duurzame energie) dekt zonneboilers, warmtepompen en pelletketels — maar nog geen thuisbatterijen. De overheid heeft aangekondigd dat dit per 2027 gaat veranderen, maar dat is nog niet zeker.
+> **Kort antwoord:** er is geen landelijke subsidie voor thuisbatterijen. De ISDE dekt voor woningeigenaren alleen isolatie, ventilatie (i.c.m. isolatie, vanaf 2026), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — geen batterijen, geen zonnepanelen, geen laadpalen. Op de batterij zelf betaal je 21% btw; het nultarief voor zonnepanelen sluit accupakketten en thuisbatterijen uitdrukkelijk uit. Wat blijft: gemeentelijke en provinciale regelingen van €300-€750.
 
 ## Waarom dit onderwerp zo verwarrend is
 
 Er zijn drie bronnen van verwarring die telkens terugkomen.
 
-**1. Mensen verwarren ISDE met BTW-vrijstelling.** De BTW-vrijstelling op thuisbatterijen (0% BTW) is geen subsidie maar een belastingregel. ISDE is een echte subsidie. Thuisbatterijen vallen per 2026 niet onder ISDE. De 0% BTW geldt wél.
+**1. Mensen denken dat het btw-nultarief van zonnepanelen ook voor de batterij geldt.** Dat is niet zo. De Belastingdienst beschrijft het nultarief expliciet als een regeling voor zonnepanelen plus de goederen en werkzaamheden die direct nodig zijn om die panelen aan te brengen en te laten functioneren — en noemt "de levering en installatie van een accupakket en thuisbatterij (thuisaccu)" er nadrukkelijk buiten. Op de batterij blijft 21% btw staan, ook als je hem in één order met de panelen koopt.
 
-**2. Mensen verwarren provinciale en landelijke subsidies.** Er is geen landelijke subsidie voor thuisbatterijen in 2026. Er zijn wel provinciale subsidies (Flevoland) en gemeentelijke subsidies (Utrecht, Apeldoorn, etc.). Die zijn kleiner van omvang, snel uitgeput en vereisen actieve aanvraag vóór aankoop.
+**2. Mensen verwarren de ISDE met een batterijregeling.** De ISDE is een echte subsidie, maar voor woningeigenaren gaat hij over isolatie, ventilatie (i.c.m. isolatie, vanaf 2026), (hybride) warmtepompen, zonneboilers, een aansluiting op een warmtenet en elektrisch koken. Thuisbatterijen staan niet op de lijst, en zonnepanelen en laadpalen ook niet. Er is geen "erkende-typenlijst" voor batterijen en er is geen ISDE-bedrag per kWh accucapaciteit.
 
-**3. Mensen wachten op een betere regeling die misschien komt.** Het regeerakkoord van 2026 heeft een passage over uitbreiding van ISDE met thuisbatterijen. Maar er is geen concrete datum of budget bekendgemaakt. Wachten op iets onzekers terwijl saldering per 1-1-2027 stopt, is financieel riskant.
+**3. Mensen verwarren provinciale en landelijke subsidies.** Er is geen landelijke subsidie voor thuisbatterijen in 2026. Er zijn wel provinciale subsidies (Flevoland) en gemeentelijke subsidies (Utrecht, Apeldoorn, etc.). Die zijn kleiner van omvang, snel uitgeput en vereisen actieve aanvraag vóór aankoop.
 
 Hier is alles wat je in 2026 écht weet over subsidies — zonder speculatie.
 
 ---
 
-## Totaaloverzicht: alle voordelen gecombineerd
+## Totaaloverzicht: welke voordelen echt bestaan
 
-Eerst een totaaloverzicht van alle mogelijke financiële voordelen bij thuisbatterijkoop in 2026, voor een concreet rekenvoorbeeld:
+Eerst een totaaloverzicht van de financiële voordelen die je in 2026 daadwerkelijk kunt pakken bij batterijkoop. Modelberekening op basis van een Sessy 10 kWh van €5.500 inclusief 21% btw, exclusief installatie (prijspeil aug 2026).
 
 **Profiel: Utrecht-bewoner koopt Sessy 10 kWh**
 
 | Voordeel | Omvang | Type |
 |---|---|---|
-| 0% BTW (automatisch) | €1.249 | Belastingvoordeel |
+| Btw-voordeel op de batterij | €0 (21% btw, geen nultarief) | — |
 | Gemeente Utrecht subsidie | tot €500 | Subsidie |
-| Totaal voordeel | **tot €1.749** | — |
-| Effectieve prijs Sessy | **€4.246** (was €5.995) | — |
+| Totaal voordeel | **tot €500** | — |
+| Effectieve prijs Sessy | **€5.000** (van €5.500 incl. btw) | — |
 
 **Profiel: Flevoland-bewoner koopt Sessy 10 kWh**
 
 | Voordeel | Omvang | Type |
 |---|---|---|
-| 0% BTW (automatisch) | €1.249 | Belastingvoordeel |
+| Btw-voordeel op de batterij | €0 (21% btw, geen nultarief) | — |
 | Provincie Flevoland subsidie | €750 | Subsidie |
 | Gemeente Lelystad mini | €150 | Subsidie |
-| Totaal voordeel | **€2.149** | — |
-| Effectieve prijs Sessy | **€3.846** (was €5.995) | — |
+| Totaal voordeel | **€900** | — |
+| Effectieve prijs Sessy | **€4.600** (van €5.500 incl. btw) | — |
 
-Dat verkort de terugverdientijd van ~9 jaar naar ~5,5-6 jaar. Significant.
+Bij een aangenomen besparing van €750 per jaar verkort dat de terugverdientijd in deze modelberekening van circa 7,3 jaar (zonder subsidie) naar 6,7 jaar (Utrecht) of 6,1 jaar (Lelystad). Merkbaar, maar geen gamechanger.
 
 ---
 
@@ -136,7 +134,7 @@ d) Nu pas mag je de batterij kopen en laten installeren
 
 ### Stap 3: Koop en installeer de batterij
 
-Koop bij een gecertificeerde installateur die werkt met een NEN 1010-certificering. Controleer dat de offerte 0% BTW vermeldt (en niet 21%).
+Koop bij een gecertificeerde installateur die werkt met een NEN 1010-certificering. Controleer op de offerte dat de btw correct is verwerkt: 21% op de batterij, en 0% alleen op de zonnepanelen en de goederen en werkzaamheden die bij die panelen horen.
 
 Bewaar:
 - De originele factuur van de batterij
@@ -158,78 +156,82 @@ Verwachte uitbetalingstermijn: 4-12 weken na indiening.
 
 Een detail dat weinig mensen kennen: niet alle woningtypes kwalificeren voor alle subsidies.
 
-| Woningtype | 0% BTW | Gemeentelijke subsidie | Provinciale subsidie |
-|---|---|---|---|
-| Eigen woning (koopwoning) | ✅ | ✅ | ✅ |
-| Huurwoning met toestemming verhuurder | ✅ | Deels (afhankelijk gemeente) | Deels |
-| Appartement met VvE | ✅ | Soms (VvE als aanvrager) | Soms |
-| Bedrijfspand (deels thuis gebruikt) | ⚠️ Deels | Nee (zakelijk) | Nee |
+| Woningtype | Gemeentelijke subsidie | Provinciale subsidie |
+|---|---|---|
+| Eigen woning (koopwoning) | ✅ | ✅ |
+| Huurwoning met toestemming verhuurder | Deels (afhankelijk gemeente) | Deels |
+| Appartement met VvE | Soms (VvE als aanvrager) | Soms |
+| Bedrijfspand (deels thuis gebruikt) | Nee (zakelijk) | Nee |
 
 Bij een huurwoning: vraag schriftelijk toestemming aan je verhuurder voor het plaatsen van een batterij. Sommige woningcorporaties hebben eigen duurzaamheidssubsidies — het loont te vragen.
 
 ---
 
-## Praktijkberekening: tijdwinst door subsidies — drie steden vergeleken
+## Praktijkberekening: tijdwinst door subsidies — vijf steden vergeleken
 
-Onderstaande modelberekening laat zien wat de subsidies doen met de terugverdientijd van een Sessy 10 kWh (€5.995, inclusief installatie):
+Onderstaande modelberekening laat zien wat de lokale subsidies doen met de terugverdientijd van een Sessy 10 kWh (€5.500 incl. 21% btw, excl. installatie — prijspeil aug 2026):
 
 **Aanname**: dynamisch contract Frank Energie, 10 zonnepanelen, €750/jaar batterijbesparing
 
 | Stad | Subsidies | Effectieve investering | Terugverdientijd |
 |---|---|---|---|
-| Lelystad (Flevoland) | €1.249 BTW + €750 prov. + €150 gem. | €3.846 | **5,1 jaar** |
-| Utrecht | €1.249 BTW + €500 gem. | €4.246 | **5,7 jaar** |
-| Amsterdam | €1.249 BTW + €350 gem. | €4.396 | **5,9 jaar** |
-| Rotterdam (geen gem. subsidie) | €1.249 BTW alleen | €4.746 | **6,3 jaar** |
-| Maastricht (geen gem. subsidie) | €1.249 BTW alleen | €4.746 | **6,3 jaar** |
+| Lelystad (Flevoland) | €750 prov. + €150 gem. | €4.600 | **6,1 jaar** |
+| Utrecht | €500 gem. | €5.000 | **6,7 jaar** |
+| Amsterdam | €350 gem. | €5.150 | **6,9 jaar** |
+| Rotterdam (geen gem. subsidie) | geen | €5.500 | **7,3 jaar** |
+| Maastricht (geen gem. subsidie) | geen | €5.500 | **7,3 jaar** |
 
-Het verschil tussen Lelystad en Maastricht: 1,2 jaar terugverdientijd. Dat is de waarde van lokale subsidies — niet spectaculair, maar reëel.
+Het verschil tussen Lelystad en Maastricht: 1,2 jaar terugverdientijd. Dat is de waarde van lokale subsidies — niet spectaculair, maar reëel. Het zijn indicaties: de uitkomst hangt volledig af van je werkelijke jaarbesparing.
 
 ---
 
-## Wat 2027 brengt voor de subsidiesituatie
+## Wat er landelijk (niet) aankomt
 
-Er zijn twee richtingen denkbaar voor 2027:
+Er wordt veel gespeculeerd over een landelijke batterijsubsidie. Op dit moment is er geen regeling met een vastgesteld bedrag, budget of startdatum. Dat betekent voor je beslissing:
 
-**Optimistisch scenario** (ISDE uitbreiding):
-- ISDE dekt thuisbatterijen vanaf Q1 2027
-- Budget: €150 miljoen, verwacht genoeg voor ~50.000-80.000 installaties
-- Hoogte: €500-€800 per installatie (gestaffeld naar capaciteit)
-- Dit zou de subsidie-situatie aanzienlijk verbeteren, maar het budget is eindig
+- Reken in je terugverdientijd alleen met de subsidies die nú openstaan in jouw gemeente of provincie.
+- Ga er niet van uit dat de batterij later goedkoper wordt door een subsidie. Als die er komt, is dat meegenomen; als hij er niet komt, klopt je berekening nog steeds.
+- De btw-situatie verandert daar niets aan: 21% op de batterij, ook in de scenario's die mensen op forums schetsen.
 
-**Pessimistisch scenario** (geen ISDE):
-- Regeerakkoord-passage wordt uitgesteld of niet uitgewerkt
-- Alleen 0% BTW + lokale subsidies blijven
-- Situatie blijft gelijk aan 2026
-
-In beide gevallen: 0% BTW blijft van kracht. Dat is de zekerste en grootste "subsidie" die bestaat.
-
-**Ons oordeel**: wacht niet op ISDE-2027. De combinatie van 0% BTW + lokale subsidies in 2026 én de hogere batterijwaarde vóór saldering-stop is aantrekkelijker dan wachten op een onzekere ISDE met mogelijk uitgeput budget.
+Wil je zekerheid over de actuele stand? De enige betrouwbare bronnen zijn rvo.nl (subsidies) en belastingdienst.nl (btw).
 
 ---
 
 ---
 
-## Het belangrijkste: 0% BTW
+## Btw op een thuisbatterij: 21%, geen uitzondering
 
-Sinds 1 januari 2024 geldt 0% BTW op zonnepanelen en thuisbatterijen bij installatie aan een woning. Dat is geen subsidie maar maakt wel veel uit:
+Dit is het punt waar de meeste online overzichten de fout in gaan. Sinds 1 januari 2023 geldt een btw-nultarief voor zonnepanelen op of bij een woning. Dat nultarief dekt volgens de Belastingdienst de levering en installatie van (niet-)geïntegreerde zonnepanelen, plus de goederen en werkzaamheden die direct noodzakelijk zijn om die panelen aan te brengen en te laten functioneren: kabels, PV-verdeler, montagemateriaal, optimizers en omvormers, en aanpassingen aan meterkast en dak.
 
-| Batterij | Prijs incl. installatie | Wat je bespaart vs 21% BTW |
+De Belastingdienst noemt daarbij uitdrukkelijk wat er **niet** onder valt: de levering en installatie van een accupakket en thuisbatterij (thuisaccu). Daarop blijft 21% btw van toepassing — ook als je de batterij samen met de panelen bij dezelfde installateur koopt, in één offerte en op één factuur.
+
+Wat dat concreet betekent voor de prijzen die je in offertes ziet:
+
+| Batterij | Prijs incl. 21% btw | Btw-deel in die prijs |
 |---|---|---|
-| Sessy 5 kWh | €3.795 | €791 |
-| Sessy 10 kWh | €5.995 | €1.249 |
-| Tesla Powerwall 3 | €9.500 | €1.980 |
-| Marstek Venus E 8,2 kWh | €2.679 | €558 |
+| Sessy 5 kWh | €3.550 | €616 |
+| Sessy 10 kWh | €5.500 | €954 |
+| Tesla Powerwall 3 | €9.500 | €1.649 |
+| Marstek Venus E 8,2 kWh | €2.679 | €465 |
 
-De 0% BTW geldt automatisch via de installateur. Je betaalt het lage bedrag direct, geen aanvraag nodig. **Voorwaarde**: installatie aan een woning (eigen woning of huurwoning met toestemming verhuurder).
+Dat btw-deel is geen voordeel dat je kunt pakken — het zit gewoon in de prijs. Reken er in je terugverdientijd dus niet mee als korting.
 
-Dit is de grootste "subsidie" die er is en bijna iedereen vergeet hem te vermelden.
+**De uitzondering die soms wél bestaat.** Wie stroom teruglevert en zich daarvoor als btw-ondernemer bij de Belastingdienst meldt, kan in specifieke gevallen de btw op de batterij terugvragen. De Belastingdienst stelt daar voorwaarden aan, onder andere een energiemanagementsysteem en een dynamisch energiecontract, en er staat een keerzijde tegenover: je draagt dan ook btw af over je terugleververgoeding. Dit is administratief werk met gevolgen voor meerdere jaren en geen automatisch voordeel. Lees de voorwaarden op belastingdienst.nl ("Thuisbatterij en btw") of leg je situatie voor aan een adviseur voordat je hierop rekent.
 
-## Geen ISDE in 2026
+## Geen ISDE voor thuisbatterijen
 
-De **Investeringssubsidie duurzame energie en energiebesparing** (ISDE) is de landelijke regeling voor zonneboilers, warmtepompen, en pelletketels. **Thuisbatterijen vallen hier niet onder** in 2026. De overheid heeft aangekondigd dat dit kan veranderen per 2027, maar geen concrete toezegging.
+De **Investeringssubsidie duurzame energie en energiebesparing** (ISDE) is de bekendste landelijke verduurzamingsregeling. Voor woningeigenaren dekt hij (stand augustus 2026, bron rvo.nl):
 
-Voor 2026: vergeet ISDE voor je batterij.
+- isolatiemaatregelen
+- ventilatie, in combinatie met isolatie (vanaf 2026)
+- (hybride) warmtepompen
+- zonneboilers
+- een aansluiting op een warmtenet
+- elektrisch koken
+
+**Thuisbatterijen vallen hier niet onder.** Zonnepanelen en laadpalen ook niet. Er bestaat dus geen ISDE-bedrag per kWh accucapaciteit, geen ISDE-batterijbudget dat "bijna op" is, en geen route waarbij je batterij subsidiabel wordt door hem met een warmtepomp te combineren: de warmtepomp is subsidiabel, de batterij niet.
+
+Kom je een overzicht tegen dat wél ISDE-bedragen voor batterijen noemt, dan is dat verouderd of onjuist. Controleer het op rvo.nl/subsidies-financiering/isde.
 
 ## Provinciale subsidies — overzicht
 
@@ -280,25 +282,24 @@ Veel mensen kopen eerst de batterij en dienen dan subsidie in. Bij 90% van de re
 
 **Uitzondering**: Provincie Flevoland accepteert sinds 2025 ook achteraf-aanvragen (binnen 6 maanden na installatie). Andere provincies/gemeenten meestal niet.
 
-## Praktijkberekening: wat subsidie + BTW oplevert voor een Flevoland-bewoner
+## Praktijkberekening: wat de subsidie oplevert voor een Flevoland-bewoner
 
-Om het concreet te maken, hier de rekening voor een gezin in Lelystad dat een Sessy 10 kWh wil kopen:
+Om het concreet te maken, hier de modelberekening voor een gezin in Lelystad dat een Sessy 10 kWh wil kopen:
 
 **Uitgangspunt:**
-- Sessy 10 kWh, inclusief installatie: €6.200 (normaal)
-- Jaarlijkse besparing door batterij: €650/jaar (dynamisch contract, 10 zonnepanelen)
+- Sessy 10 kWh, inclusief installatie: €6.200 (incl. 21% btw)
+- Aangenomen jaarlijkse besparing door batterij: €650/jaar (dynamisch contract, 10 zonnepanelen)
 
 **Met subsidies:**
 
 | Post | Bedrag |
 |---|---|
-| Aanschafprijs zonder BTW-voordeel | €7.502 (incl. 21% BTW, hypothetisch) |
-| 0% BTW-voordeel (automatisch) | -€1.302 |
+| Aanschafprijs incl. installatie (incl. 21% btw) | €6.200 |
 | Provincie Flevoland subsidie | -€750 |
 | Gemeente Lelystad (klein) | -€150 |
 | **Effectieve investering** | **€5.300** |
 
-Terugverdientijd zonder subsidies: 9,5 jaar. Met subsidies: 8,2 jaar. Het maakt verschil, maar is geen gamechanger. De 0% BTW is het grootste voordeel — de provinciale subsidie verkort de terugverdientijd met ruim een jaar.
+Terugverdientijd zonder subsidies: 9,5 jaar. Met subsidies: 8,2 jaar. Het maakt verschil, maar is geen gamechanger — en er zit geen btw-voordeel in de rekening, want op de batterij geldt gewoon 21%.
 
 **Belangrijk**: de €650/jaar besparing is gebaseerd op een dynamisch energiecontract. Met een vast contract en normale saldering is de besparing lager (~€380/jaar), waardoor de terugverdientijd stijgt naar 13-14 jaar — ook met subsidies.
 
@@ -318,25 +319,15 @@ Bij Utrecht sluit het subsidieloket soms binnen 3-4 weken nadat het opent — he
 
 Zet een herinnering in je agenda voor de openingsdata: Utrecht opent doorgaans in april, Apeldoorn in maart, Eindhoven in mei.
 
-**Fout 3: Niet controleren of installateur met 0% BTW werkt**
+**Fout 3: Rekenen op een btw-voordeel dat er niet is**
 
-Sommige kleinere installateurs hanteren toch 21% BTW omdat ze niet goed op de hoogte zijn van de regelgeving die per 1 januari 2024 inging. Controleer de offerte altijd. Als er 21% BTW staat op de batterij én installatie aan een woning: vraag de installateur dit te corrigeren of zoek een andere aanbieder.
-
-## Wat verandert er in 2027?
-
-In het concept-regeerakkoord van februari 2026 staan deze passages:
-- Uitbreiding ISDE met **thuisbatterijen** vanaf 1-1-2027
-- Verwacht bedrag: €500-€1.000 per huishouden (gestaffeld naar capaciteit)
-- Beperkt budget: €100-€200 miljoen jaarlijks
-- Voorwaarde: minimum 5 kWh capaciteit, gekoppeld aan zonnepanelen, slimme meter
-
-**Nu nog niet definitief**. Als 2027-regeling actief wordt: pak hem dan zeker. Maar wacht niet — de saldering-stop in 2027 maakt batterijen sowieso noodzakelijker, en 2026 lokale subsidies zijn beschikbaar.
+We zien offertes en online rekentools waarin het zonnepaneel-nultarief ook over de batterij wordt getrokken. Dat is niet in overeenstemming met wat de Belastingdienst schrijft, en het is geen gunstige fout: als de installateur 0% btw rekent op een batterij, loopt hij een naheffingsrisico dat uiteindelijk bij jou op de stoep kan komen. Controleer de offerte daarom op de juiste splitsing — 0% op de panelen en de bijbehorende materialen en werkzaamheden, 21% op het accupakket — en vraag om correctie als dat niet klopt.
 
 ## Saldering stopt 2027: waarom dat de subsidievraag verandert
 
-Veel mensen wachten bewust op de ISDE-uitbreiding in 2027 voordat ze een batterij kopen. Die redenering is begrijpelijk, maar er zit een adder onder het gras.
+Veel mensen stellen de batterijaankoop uit in de hoop op een landelijke regeling. Die redenering is begrijpelijk, maar er zit een adder onder het gras.
 
-Vanaf 1 januari 2027 stopt de salderingsregeling. Nu verrekend je elke kWh die je teruggeeft aan het net één-op-één met je verbruik. Straks krijg je voor teruglevering nog maar 7-9 cent, terwijl stroom afnemen 25-30 cent kost.
+Vanaf 1 januari 2027 stopt de salderingsregeling. Nu verrekent je elke kWh die je teruggeeft aan het net één-op-één met je verbruik. Straks krijg je voor teruglevering nog maar 7-9 cent, terwijl stroom afnemen 25-30 cent kost.
 
 **Wat dat betekent voor besparing zonder batterij:**
 
@@ -346,23 +337,23 @@ Vanaf 1 januari 2027 stopt de salderingsregeling. Nu verrekend je elke kWh die j
 | Vanaf 2027 (geen saldering, geen batterij) | €350-€500 |
 | Vanaf 2027 (geen saldering, wél batterij) | €700-€950 |
 
-Wie wacht op een ISDE-subsidie van maximaal €1.000 maar ondertussen €400-€600 per jaar besparing misloopt door geen batterij te hebben, staat na twee jaar wachten financieel slechter dan iemand die in 2026 kocht zonder ISDE.
+Wie wacht op een subsidie die niet is aangekondigd, maar ondertussen €400-€600 per jaar besparing misloopt door geen batterij te hebben, staat na twee jaar wachten financieel slechter dan iemand die in 2026 kocht.
 
-Onze inschatting: kopen in 2026 met de nu beschikbare regelingen (0% BTW + lokale subsidies), profiteer direct van de hogere besparing vóór de saldering stopt, en gebruik eventuele ISDE-2027 mocht die er komen voor een tweede batterij of upgrade.
+Onze inschatting: baseer je beslissing op de regelingen die nu bestaan (lokale subsidies) en op je eigen verbruiksprofiel — niet op een hypothetische landelijke regeling.
 
 ## Vergelijking: subsidiesituatie Nederland vs omringende landen
 
 Voor perspectief: hoe vergelijkt Nederland zich met de buurlanden?
 
-| Land | Landelijke subsidie | BTW | Lokale regelingen |
-|---|---|---|---|
-| Nederland | Nee (nog niet) | 0% | Sommige provincies/gemeenten |
-| Duitsland | Nee (federaal) | 19% → 0% deels | Sterk per deelstaat (Bayern €500-€1.500) |
-| België | Nee (federaal) | 6% | Sterk per gewest (Vlaanderen €1.500 Mijn VerbouwPremie) |
-| Frankrijk | Nee | 5,5% | Beperkt |
-| VK | Nee | 0% | Beperkt |
+| Land | Landelijke subsidie | Lokale regelingen |
+|---|---|---|
+| Nederland | Nee | Sommige provincies/gemeenten (€300-€750) |
+| Duitsland | Nee (federaal) | Sterk per deelstaat (Bayern €500-€1.500) |
+| België | Nee (federaal) | Sterk per gewest (Vlaanderen: Mijn VerbouwPremie) |
+| Frankrijk | Nee | Beperkt |
+| VK | Nee | Beperkt |
 
-Nederland loopt achter op België (Mijn VerbouwPremie dekt thuisbatterijen expliciet) en sommige Duitse deelstaten. De 0% BTW is daarentegen internationaal gezien ruimhartig — Duitsland kent vergelijkbare regels pas deels.
+Nederland loopt achter op België (Mijn VerbouwPremie dekt thuisbatterijen expliciet) en sommige Duitse deelstaten. Btw-tarieven verschillen per land en per soort component; ga voor Nederland uit van 21% op de batterij.
 
 ## Is een thuisbatterij ook zonder subsidie rendabel?
 
@@ -372,37 +363,38 @@ Het antwoord hangt sterk af van je situatie. Wij maken onderscheid tussen twee t
 
 **Type 1: Zonnepanelen + saldering actief (vóór 2027)**
 
-Bij saldering verrekend je elke teruggeleverde kWh één-op-één. Een thuisbatterij voegt waarde toe door arbitrage op een dynamisch contract: je laadt op goedkope uren, ontlaadt op dure uren. De besparing ligt bij gemiddeld gebruik op €400-€700/jaar bij een dynamisch contract.
+Bij saldering verrekent je elke teruggeleverde kWh één-op-één. Een thuisbatterij voegt waarde toe door arbitrage op een dynamisch contract: je laadt op goedkope uren, ontlaadt op dure uren. De besparing ligt bij gemiddeld gebruik op €400-€700/jaar bij een dynamisch contract.
 
-Terugverdientijd voor een Sessy 10 kWh (€5.995 na 0% BTW):
-- Bij €500 besparing/jaar: 12 jaar
-- Bij €700 besparing/jaar: 8,5 jaar
+Terugverdientijd voor een Sessy 10 kWh (€5.500 incl. 21% btw, excl. installatie):
+- Bij €500 besparing/jaar: 11 jaar
+- Bij €700 besparing/jaar: 7,9 jaar
 
-Op de grens van rendabel, zeker als je ook nog gemeentelijke subsidie van €300-€500 bovenop de 0% BTW kunt pakken:
+Op de grens van rendabel, en het scheelt of je nog een gemeentelijke subsidie van €300-€500 kunt pakken:
 
-Effectieve investering na subsidies: €5.995 - €1.249 (BTW) - €500 (gemeente) = €4.246. Terugverdientijd: 6-8 jaar. Dat is rendabel binnen de productlevensduur van 10-15 jaar.
+Effectieve investering na een gemeentesubsidie van €500: €5.000. Terugverdientijd dan 7,1 jaar (bij €700/jaar) tot 10 jaar (bij €500/jaar) — modelberekening. Dat past net binnen een verwachte productlevensduur van 10-15 jaar, maar met weinig marge.
 
 **Type 2: Zonnepanelen, saldering stopt per 2027**
 
 Hier wordt de rekening aanzienlijk aantrekkelijker. Zonder batterij zak je van €900/jaar zonnebesparing naar €400/jaar na 2027. Met batterij behoud je €750-€1.000/jaar besparing.
 
-De batterij is in dit scenario niet langer "leuk maar optioneel" — hij is de manier om je bestaande zonne-investering te beschermen. De terugverdientijd daalt naar 4-6 jaar voor wie nog vóór 2027 koopt met de huidige lokale subsidies.
+De batterij is in dit scenario niet langer "leuk maar optioneel" — hij is de manier om je bestaande zonne-investering te beschermen. Bij €5.000 effectieve investering en €750-€1.000 besparing per jaar komt de terugverdientijd in deze modelberekening op 5-7 jaar uit.
 
-## Thuisbatterij combineren met warmtepomp: dubbele subsidie?
+## Thuisbatterij combineren met warmtepomp: wat je wél kunt pakken
 
-Een combinatie die vaak logisch uitpakt: warmtepomp + thuisbatterij in één project. Dat levert twee voordelen:
+Een combinatie die vaak logisch uitpakt: warmtepomp + thuisbatterij in één project. Let op wat daarbij wel en niet subsidiabel is.
 
-**Voordeel 1: ISDE voor warmtepomp**
+**De warmtepomp valt wél onder de ISDE**
 
-De warmtepomp valt wél onder de ISDE-regeling. In 2026 bedraagt de ISDE voor een lucht-water warmtepomp €1.875-€3.750 (afhankelijk van COP en vermogen). Combineer je warmtepomp met thuisbatterij in één offerte bij één installateur, dan krijg je:
+De (hybride) warmtepomp staat op de ISDE-lijst voor woningeigenaren. Het bedrag hangt af van type, vermogen en de prestaties van het toestel en staat per apparaat op de erkende-apparatenlijst van RVO — check daar het actuele bedrag voor het toestel in je offerte.
 
-- ISDE op warmtepomp (€1.875-€3.750)
-- 0% BTW op thuisbatterij (€500-€1.980)
-- Eventuele gemeentelijke batterijsubsidie (€300-€750)
+Wat je bij een gecombineerd project kunt optellen:
 
-Totale subsidie-combinatie: €2.675-€6.480 afhankelijk van apparaten en locatie.
+- ISDE op de warmtepomp (bedrag volgens RVO-apparatenlijst)
+- Eventuele gemeentelijke of provinciale batterijsubsidie (€300-€750)
 
-**Voordeel 2: Gedeelde installatiekosten**
+Wat er níet bij komt: een ISDE-bedrag voor de batterij, en een btw-voordeel op de batterij. De batterij wordt niet subsidiabel doordat je hem samen met een warmtepomp koopt.
+
+**Wel echte winst: gedeelde installatiekosten**
 
 Als de elektricien al komt voor de warmtepomp, zijn de extra kosten voor de thuisbatterij-installatie lager (€200-€500 ipv €400-€800 separaat). Bundelen bespaart op arbeidskosten.
 
@@ -420,25 +412,23 @@ In Utrecht zijn twee coöperaties (UtrechtEnergie en Energie-U) actief die leden
 
 Zoek via [hier.nu/energiecooperaties](https://hier.nu) naar een energiecoöperatie in jouw gemeente. Dit is een ondergewaardeerde route naast de directe subsidieaanvraag.
 
-## Hoe werkt 0% BTW precies? Drie scenario's uitgelegd
+## Btw in de praktijk: drie situaties waar mensen op vastlopen
 
-De 0% BTW-regel klinkt eenvoudig, maar in de praktijk zijn er drie situaties die mensen verwarren:
+De btw-regels klinken eenvoudig, maar in de praktijk zijn er drie situaties die verwarring geven:
 
-**Scenario 1: Batterij kopen bij installateur, die hem ook installeert**
+**Scenario 1: Panelen én batterij bij dezelfde installateur**
 
-Dit is de meest voorkomende situatie. Je koopt een Sessy 10 kWh bij een erkend installateur die hem ook plaatst. De installateur factureert alles inclusief arbeidskosten met 0% BTW. Je betaalt €5.995 in plaats van €7.253 (bij 21%). Automatisch, geen aanvraag nodig.
+De installateur factureert de panelen en de bijbehorende materialen en werkzaamheden tegen 0%, en de batterij tegen 21%. Eén offerte, twee tarieven. Dat is de correcte splitsing — een offerte waarin ook de accu op 0% staat, is niet in lijn met wat de Belastingdienst schrijft.
 
 **Scenario 2: Batterij zelf kopen, installateur regelt montage**
 
-Steeds meer mensen kopen de batterij zelf via webshop (Bol.com, Bestelbox.nl, etc.) en huren los een installateur in. In dit geval geldt de 0% BTW alleen op de installatiekosten (arbeid), niet automatisch op de batterij zelf. De webshop rekent 21% BTW tenzij ze specifiek werken met een vrijstellingsprocedure.
-
-Oplossing: vraag de webshop schriftelijk of zij de 0% BTW-vrijstelling toepassen bij aankoop voor woninginstallatie. Sommige partijen doen dit wel, andere niet.
+Steeds meer mensen kopen de batterij zelf via een webshop en huren los een installateur in. De webshop rekent 21% btw op de batterij — dat hoort ook zo. Het nultarief voor de panelen raakt de accu niet, ongeacht bij wie je hem koopt.
 
 **Scenario 3: Batterij in nieuwbouwwoning of bij renovatie**
 
-Bij nieuwbouw of grote renovatie geldt de 0% BTW alleen als de batterij deel uitmaakt van de energieinstallatie van de woning (niet als los apparaat). Betrek dit in het overleg met de aannemer.
+Bij nieuwbouw of een grote renovatie loopt de batterij vaak mee in de aanneemsom. Vraag de aannemer om de btw-splitsing op de specificatie, zodat je ziet wat er tegen 21% wordt geleverd. Het maakt voor het tarief op de accu niet uit dat hij deel uitmaakt van een grotere installatie.
 
-In alle gevallen geldt: vraag altijd een offerte op zonder BTW en controleer de feitelijk te betalen prijs. Als er 21% BTW staat: vraag de installateur dit te corrigeren of zoek een andere aanbieder.
+In alle gevallen geldt: vraag een gespecificeerde offerte en controleer de feitelijk te betalen prijs per post.
 
 ## Regionale diepduik: provincie Flevoland in detail
 
@@ -470,7 +460,7 @@ Flevoland heeft in 2026 de ruimhartigste thuisbatterij-subsidieregeling van Nede
 
 Flevoland accepteert als enige provincie ook achteraf-aanvragen (max. 6 maanden na installatie), maar alleen als het budget niet is uitgeput. In 2025 was het budget na 4 maanden op — wacht niet op achteraf.
 
-Rekenvoorbeeld voor een inwoner van Lelystad met een Sessy 10 kWh: €750 provinciale subsidie + €1.249 BTW-voordeel = **€1.999 effectieve korting** op een €5.995 batterij. Effectieve investering: €3.996. Terugverdientijd bij een aangenomen besparing van €650 per jaar: circa 6 jaar.
+Rekenvoorbeeld voor een inwoner van Lelystad met een Sessy 10 kWh: €750 provinciale subsidie op een batterij van €5.500 (incl. 21% btw, excl. installatie). Effectieve investering: €4.750. Terugverdientijd bij een aangenomen besparing van €650 per jaar: circa 7,3 jaar (modelberekening).
 
 ## Gemeentesubsidies in detail: vier steden vergeleken
 
@@ -500,7 +490,7 @@ De regelingen van de vier gemeenten waar het vaakst naar gezocht wordt, naast el
 Om niets te vergeten, hier een praktische checklist:
 
 **Vóór aankoop:**
-- [ ] Controleer offerte op 0% BTW (geen 21%)
+- [ ] Offerte gecontroleerd op de juiste btw-splitsing (0% panelen + bijbehorende posten, 21% accu)
 - [ ] Zoekloket.nl geraadpleegd op gemeentesubsidie
 - [ ] Provincie-website geraadpleegd op provinciale subsidie
 - [ ] Subsidie gereserveerd (niet alleen aangevraagd)
@@ -519,13 +509,13 @@ Om niets te vergeten, hier een praktische checklist:
 
 ## Onze praktische aanbeveling
 
-**Stap 1**: Check 0% BTW geldt automatisch (controleer offerte van installateur)
+**Stap 1**: Ga uit van 21% btw op de batterij — reken geen btw-korting in
 **Stap 2**: Check je provincie + gemeente subsidie via zoekloket.nl
 **Stap 3**: Reserveer beschikbare subsidie ONLINE
 **Stap 4**: Koop batterij van keuze ([Sessy](/posts/sessy-review-thuisbatterij-nederland/), [Marstek](/posts/marstek-venus-review-thuisbatterij/), [Zonneplan](/posts/zonneplan-thuisbatterij-review-2026/))
 **Stap 5**: Stuur subsidie-aanvraag in na installatie
 
-Voor Flevoland-bewoners: direct €500-€750 extra korting bovenop 0% BTW. Dat is significant.
+Voor Flevoland-bewoners is €500-€750 provinciale subsidie het enige echte kortingsinstrument dat nu bestaat — en daarmee ook het enige dat je niet moet laten liggen.
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a>
 
@@ -533,12 +523,12 @@ Voor Flevoland-bewoners: direct €500-€750 extra korting bovenop 0% BTW. Dat 
 
 ## Conclusie
 
-Subsidies voor thuisbatterijen in 2026 zijn **rommelig**:
-- 0% BTW landelijk (automatisch via installateur)
-- Flevoland en specifieke gemeenten: extra €300-€750 lokaal
-- Geen landelijke ISDE-dekking (mogelijk vanaf 2027)
+Subsidies voor thuisbatterijen in 2026 zijn schaars:
+- Geen ISDE en geen andere landelijke regeling voor batterijen
+- Geen btw-voordeel: 21% op de accu, het zonnepaneel-nultarief sluit accupakketten uit
+- Flevoland en specifieke gemeenten: €300-€750 lokaal, budget beperkt
 
-Onze vuistregel: subsidie is leuk maar niet doorslaggevend. De 0% BTW alleen is al €500-€2.000 voordeel. Lokale subsidies kunnen €300-€750 erbij. Maar wacht niet op subsidies om je batterij te kopen — saldering stopt 1-1-2027 en daarom heb je hoe dan ook een batterij of dynamisch contract nodig.
+Onze vuistregel: een batterij moet uit zichzelf rond te rekenen zijn. Lokale subsidies van €300-€750 verschuiven de terugverdientijd met ongeveer een half tot anderhalf jaar — leuk, maar niet de reden om te kopen. De echte variabele is je jaarbesparing, en die hangt af van je verbruiksprofiel, je contract en wat de saldering-stop per 1-1-2027 met je teruglevering doet.
 
 *Vragen over jouw specifieke gemeentesubsidie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 

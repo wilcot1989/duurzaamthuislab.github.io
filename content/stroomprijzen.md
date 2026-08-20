@@ -15,17 +15,22 @@ Op deze pagina zie je de **dynamische stroomprijzen per uur** voor vandaag en (n
   <div style="display:flex;gap:.5rem;margin-bottom:1rem;flex-wrap:wrap;">
     <button id="sp-btn-vandaag" onclick="spLaad(0)" style="padding:.5rem 1.2rem;border-radius:8px;border:1px solid #0e7490;background:#0e7490;color:#fff;cursor:pointer;font:inherit;">Vandaag</button>
     <button id="sp-btn-morgen" onclick="spLaad(1)" style="padding:.5rem 1.2rem;border-radius:8px;border:1px solid #0e7490;background:#fff;color:#0e7490;cursor:pointer;font:inherit;">Morgen</button>
+    <label style="align-self:center;display:flex;align-items:center;gap:.4rem;color:#444;font-size:.9rem;cursor:pointer;"><input type="checkbox" id="sp-belasting" onchange="spLaad(window.spDag||0)"> + energiebelasting</label>
     <span id="sp-status" style="align-self:center;color:#666;font-size:.9rem;"></span>
   </div>
   <div id="sp-samenvatting" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.8rem;margin-bottom:1.2rem;"></div>
   <div id="sp-acties" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.8rem;margin-bottom:1.2rem;"></div>
   <div id="sp-chart" style="display:flex;align-items:flex-end;gap:2px;height:180px;"></div>
   <div style="display:flex;justify-content:space-between;color:#888;font-size:.8rem;margin-top:.3rem;"><span>00:00</span><span>12:00</span><span>23:00</span></div>
-  <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Kale EPEX-prijs incl. btw, excl. energiebelasting en de inkoopvergoeding van je leverancier. Bron: day-ahead-veiling, elk kwartier ververst. Aan deze informatie kunnen geen rechten worden ontleend.</p>
+  <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Standaard tonen we de kale EPEX-prijs incl. btw. Met het vinkje "+ energiebelasting" tellen we het wettelijke tarief 2026 erbij op (€0,111/kWh incl. btw, schijf 1, bron: Belastingdienst) — dat benadert wat je in de app van je leverancier ziet; alleen diens inkoopvergoeding (doorgaans 1-3 cent) komt daar nog bovenop. Bron: day-ahead-veiling, elk kwartier ververst. Aan deze informatie kunnen geen rechten worden ontleend.</p>
 </div>
 
 <script>
 async function spLaad(dag){
+  window.spDag = dag;
+  // Energiebelasting elektriciteit 2026 schijf 1: EUR 0,09161/kWh excl. btw = EUR 0,11085 incl. btw (bron: Belastingdienst-tarieventabel).
+  // Inkoopvergoeding van je leverancier komt daar nog bovenop en verschilt per contract.
+  var opslag = document.getElementById('sp-belasting').checked ? 0.11085 : 0;
   var st = document.getElementById('sp-status');
   document.getElementById('sp-btn-vandaag').style.background = dag===0 ? '#0e7490' : '#fff';
   document.getElementById('sp-btn-vandaag').style.color = dag===0 ? '#fff' : '#0e7490';
@@ -37,7 +42,8 @@ async function spLaad(dag){
     var d = await r.json();
     if (!d.uren || !d.uren.length) { st.textContent = dag ? 'Morgenprijzen komen rond 15:00 beschikbaar.' : 'Geen data beschikbaar.'; document.getElementById('sp-chart').innerHTML=''; document.getElementById('sp-samenvatting').innerHTML=''; return; }
     st.textContent = '';
-    var prijzen = d.uren.map(function(u){ return u.prijs; });
+    var prijzen = d.uren.map(function(u){ return u.prijs + opslag; });
+    d = { datum: d.datum, uren: d.uren.map(function(u){ return { uur: u.uur, prijs: u.prijs + opslag }; }) };
     var min = Math.min.apply(null, prijzen), max = Math.max.apply(null, prijzen);
     var gem = prijzen.reduce(function(a,b){return a+b;},0) / prijzen.length;
     function uurNL(uurUTC){

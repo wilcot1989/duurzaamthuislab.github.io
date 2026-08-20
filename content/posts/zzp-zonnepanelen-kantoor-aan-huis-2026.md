@@ -283,7 +283,7 @@ Voor ZZP'er kan een [thuisbatterij](/posts/thuisbatterij-vergelijking-2026/) int
 - KIA toepasbaar bij investering boven drempel
 - Afschrijving 10 jaar lineair
 
-Een Sessy 5 kWh van €3.795 bij 15% kantoor → €569 zakelijk, plus ander materiaal voor KIA.
+Een Sessy 5 kWh van €3.550 (excl. installatie) bij 15% kantoor → €533 zakelijk, plus ander materiaal voor KIA.
 
 ## Specifieke ZZP-categorieën
 

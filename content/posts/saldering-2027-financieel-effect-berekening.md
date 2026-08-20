@@ -1,7 +1,7 @@
 ---
 title: 'Saldering 2027: financieel effect berekenen per profiel'
 date: 2026-09-28 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 draft: false
 description: 'Bereken per profiel (1500/3500/6000 kWh teruglevering) wat je in 2027 verliest. Concrete euro-bedragen, alternatieven Sessy en Tibber doorgerekend.'
 categories: [saldering]
@@ -25,7 +25,7 @@ faq:
 products:
 - name: Sessy thuisbatterij 5 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  price: '3550'
 - name: Tibber dynamisch contract
   url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
@@ -108,21 +108,21 @@ Dit is het profiel waar de saldering-stop echt aankomt: 1.750 euro per jaar mind
 
 ## Alternatief 1: Sessy thuisbatterij doorgerekend
 
-Sessy is een Nederlandse thuisbatterij die veel wordt gekozen omdat hij twee dingen combineert: eigen verbruik vergroten en handelen op de uurprijzen van de stroommarkt (laden als de prijs laag is, ontladen als de prijs hoog is). De 5 kWh-versie staat op circa 5.995 euro all-in geïnstalleerd; check de actuele prijs bij de leverancier.
+Sessy is een Nederlandse thuisbatterij die veel wordt gekozen omdat hij twee dingen combineert: eigen verbruik vergroten en handelen op de uurprijzen van de stroommarkt (laden als de prijs laag is, ontladen als de prijs hoog is). De 5 kWh-versie staat op 3.550 euro incl. btw, exclusief installatie (prijspeil aug 2026); installatie rekent Sessy apart, een basisinstallatie met noodstroom vanaf 1.200 euro. Check de actuele prijs bij de leverancier.
 
 Onderstaande tabel is een modelberekening met dezelfde aannames als hierboven, plus één cyclus per dag en een gemiddelde prijsspreiding zoals die de afgelopen jaren op de EPEX-markt zichtbaar was. De opbrengst van dynamisch handelen is de meest onzekere post: die staat of valt met de spreiding tussen dag- en nachtprijzen.
 
 | Profiel | Investering | Eigen verbruik extra | Dynamisch handelen | Totaal jaarvoordeel | Terugverdientijd |
 |---|---|---|---|---|---|
-| 1500 kWh terugl. | 5.995 EUR | 180 EUR | 200 EUR | 380 EUR | 15,8 jaar |
-| 3500 kWh terugl. | 5.995 EUR | 380 EUR | 280 EUR | 660 EUR | 9,1 jaar |
-| 6000 kWh terugl. | 5.995 EUR | 520 EUR | 320 EUR | 840 EUR | 7,1 jaar |
+| 1500 kWh terugl. | 3.550 EUR | 180 EUR | 200 EUR | 380 EUR | 9,3 jaar |
+| 3500 kWh terugl. | 3.550 EUR | 380 EUR | 280 EUR | 660 EUR | 5,4 jaar |
+| 6000 kWh terugl. | 3.550 EUR | 520 EUR | 320 EUR | 840 EUR | 4,2 jaar |
 
 Volgens de fabrikant geldt tien jaar garantie op de Sessy. Onze inschatting: onder een terugverdientijd van tien jaar is de aanschaf verdedigbaar, daarboven wordt het twijfelachtig, omdat je dan tegen het einde van de garantietermijn aanloopt voordat de investering terug is. Voor Profiel 1 is de batterij daarmee eerder een hobby dan een investering.
 
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>Sessy thuisbatterij — ons oordeel</strong><br>
-Nederlandse fabrikant met eigen service, doet eigen verbruik en dynamisch handelen tegelijk, en de app maakt inzichtelijk wat het systeem doet. Bij 3.500 kWh teruglevering of meer komt de terugverdientijd in het model op 7 tot 9 jaar. De volledige <a href="/posts/sessy-review-thuisbatterij-nederland/">Sessy review</a> staat hier.<br><br>
+Nederlandse fabrikant met eigen service, doet eigen verbruik en dynamisch handelen tegelijk, en de app maakt inzichtelijk wat het systeem doet. Bij 3.500 kWh teruglevering of meer komt de terugverdientijd in het model op 5 tot 7 jaar. De volledige <a href="/posts/sessy-review-thuisbatterij-nederland/">Sessy review</a> staat hier.<br><br>
 <a href="https://go.duurzaamthuislab.nl/sessy" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Sessy prijzen &rarr;</a>
 </div>
 
@@ -160,7 +160,7 @@ Wat hier opvalt: zelfs met batterij en dynamisch contract verdien je het verlies
 
 **Fout 1: "Ik moet panic-kopen voor 1 januari 2027."** Nee. Je panelen blijven gewoon werken. Je hoeft niets te doen voor de overgang. De industrie zal in 2027 zonder twijfel veel batterij-aanbiedingen pushen — laat je daar niet door opjagen. Wacht rustig tot je weet wat jouw leverancier in 2027 daadwerkelijk biedt.
 
-**Fout 2: "Een batterij is altijd winstgevend nu saldering stopt."** Niet waar. Bij minder dan 3000 kWh teruglevering verdien je een Sessy van 6.000 euro niet binnen tien jaar terug. Bij minder dan 1500 kWh kun je hem beter overslaan.
+**Fout 2: "Een batterij is altijd winstgevend nu saldering stopt."** Niet waar. Bij minder dan 1500 kWh teruglevering loopt de terugverdientijd van een Sessy van 3.550 euro in het model op naar ruim negen jaar — dan kun je hem beter overslaan.
 
 **Fout 3: "Dynamisch contract is alleen voor techneuten."** Het instellen van Tibber of Frank kost ongeveer twintig minuten. Daarna verschuift de app het laden van auto of batterij automatisch naar de goedkope uren. Wie geen enkel flexibel apparaat heeft, haalt er weinig uit — dat is de echte grens, niet technische kennis.
 

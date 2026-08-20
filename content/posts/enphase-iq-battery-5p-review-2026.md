@@ -1,7 +1,7 @@
 ---
 title: 'Enphase IQ Battery 5P Review 2026: Eerlijke Test'
 date: 2026-07-01 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Enphase IQ Battery 5P review: wij analyseren de modulaire AC-batterij van 5 kWh voor de Nederlandse markt. Specificaties, prijs, app, voor- en nadelen.'
 draft: false
 categories:
@@ -44,7 +44,7 @@ products:
   price: '4200'
 - name: Sessy 5 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '3795'
+  price: '3550'
 - name: Tibber dynamisch contract
   url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
@@ -92,7 +92,7 @@ Totale kosten in deze case:
 - Installatiematerialen: €450
 - Totaal: €9.750 inclusief BTW
 
-Vergelijk dat met Sessy 10 kWh: €5.995 all-in. Dat is bijna €4.000 verschil voor dezelfde capaciteit.
+Vergelijk dat met Sessy 10 kWh: €5.500 incl. btw, excl. installatie (prijspeil aug 2026), plus circa €1.200 basisinstallatie — circa €6.700 totaal. Dat is circa €3.000 verschil voor dezelfde capaciteit.
 
 ## Eerste indruk app: dit is waar Enphase wint
 
@@ -157,10 +157,12 @@ Niet geschikt als:
 | Model | Capaciteit | Prijs all-in | €/kWh | Garantie | Dyn. handel |
 |-------|-----------|------------|-------|----------|-------------|
 | Enphase 5P (2 modules) | 10 kWh | €9.750 | €975 | 15 jaar | Via IFTTT |
-| Sessy 10 kWh | 10 kWh | €5.995 | €600 | 10 jaar | Native |
+| Sessy 10 kWh | 10 kWh | €6.700* | €670 | 10 jaar | Native |
 | Tesla Powerwall 3 | 13,5 kWh | €9.500 | €704 | 10 jaar | Via app |
 | Marstek Venus | 5 kWh | €1.999 | €400 | 10 jaar | Native |
 | Huawei Luna 2000 | 10 kWh | €6.800 | €680 | 10 jaar | Beperkt |
+
+*Sessy: €5.500 hardware (incl. btw, excl. installatie, prijspeil aug 2026) plus circa €1.200 basisinstallatie.
 
 Voor een uitgebreidere vergelijking lees [Sessy vs Marstek](/posts/sessy-vs-marstek-vergelijking-2026/), [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/) en [Huawei Luna vs Tesla vs Sessy](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/).
 
@@ -191,7 +193,7 @@ De Enphase IQ Battery 5P is een uitstekende batterij voor wie:
 Maar voor de gemiddelde Nederlander die een thuisbatterij koopt voor de combinatie zon-zelfconsumptie + dynamisch handel, is Sessy of Marstek 30-50% goedkoper en functioneel beter.
 
 Voor een 5 kWh setup is dit onze rangorde:
-1. Sessy 5 kWh (€3.795) — beste prijs/prestatie voor Nederlandse markt
+1. Sessy 5 kWh (€3.550 incl. btw, excl. installatie) — beste prijs/prestatie voor Nederlandse markt
 2. Enphase 5P (€4.200) — als je al Enphase ecosysteem hebt
 3. Marstek Venus (€1.999) — goedkoopste optie
 
@@ -321,4 +323,4 @@ Enphase werkt via Krannich en Solar123 als Nederlandse distributeurs. Garantieaf
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

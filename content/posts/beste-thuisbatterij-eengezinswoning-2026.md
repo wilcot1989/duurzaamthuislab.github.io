@@ -26,7 +26,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497435334941-8c899ee9e8e9&w=1200&output=webp&q=70
 faq:
 - q: Welke thuisbatterij is het beste voor een eengezinswoning in 2026?
-  a: 'Voor een gemiddeld gezin (2-4 personen, 3.500-4.500 kWh/jaar) is Sessy 10 kWh de scherpste keus: €5.995, 10 jaar garantie, eigen handelsalgoritme. Wil je modulair starten met €2.500? Pak Marstek Venus 5 kWh. Heb je een EV en wil je premium backup? Tesla Powerwall 3 met 13,5 kWh.'
+  a: 'Voor een gemiddeld gezin (2-4 personen, 3.500-4.500 kWh/jaar) is Sessy 10 kWh de scherpste keus: €5.500 incl. btw, excl. installatie (prijspeil aug 2026), 10 jaar garantie, eigen handelsalgoritme. Wil je modulair starten met €2.500? Pak Marstek Venus 5 kWh. Heb je een EV en wil je premium backup? Tesla Powerwall 3 met 13,5 kWh.'
 - q: Hoeveel kWh batterij heb ik nodig voor mijn gezin?
   a: 'Vuistregel: 1 kWh batterij per 400 kWh jaarverbruik. Een 2-persoons huishouden (2.500 kWh) komt prima weg met 5-6 kWh. Een gezin met kinderen (4.000 kWh) heeft 10 kWh nodig. EV-rijders of warmtepomp: minimaal 13-15 kWh.'
 - q: Wat is de goedkoopste thuisbatterij per kWh in 2026?
@@ -34,13 +34,13 @@ faq:
 - q: Hoe lang gaat een thuisbatterij mee?
   a: 'Alle vijf merken geven 10 jaar garantie met 70-80% capaciteit-behoud na die periode. In de praktijk gaan LiFePO4-batterijen (Sessy, Marstek, Huawei) 12-15 jaar mee. Tesla''s NMC-chemie 10-12 jaar. Cyclus-aantal: 6.000-10.000 volledige cycli.'
 - q: Is een thuisbatterij rendabel zonder saldering?
-  a: 'Na de saldering-stop in 2027 ja, mits je een dynamisch contract hebt (Tibber, Frank Energie, Zonneplan). Een 10 kWh batterij bespaart dan €600-€1.200/jaar door eigen-verbruik plus handelsarbitrage. Terugverdientijd: 6-9 jaar bij een aankoopprijs van €5.995.'
+  a: 'Na de saldering-stop in 2027 ja, mits je een dynamisch contract hebt (Tibber, Frank Energie, Zonneplan). Een 10 kWh batterij bespaart dan €600-€1.200/jaar door eigen-verbruik plus handelsarbitrage. Terugverdientijd: 6-9 jaar bij een aankoopprijs van €5.500 (modelberekening).'
 - q: Welke thuisbatterij heeft de beste app?
   a: 'Sessy heeft de meest open app met CSV-export en goede dynamisch-tarief integratie. Tesla''s app is het meest gepolijst maar gesloten. Marstek werkt prima maar voelt iets minder volwassen. Huawei FusionSolar is functioneel maar lelijk. Zonneplan is mooi maar lock-in.'
 products:
 - name: Sessy 10 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  price: '5500'
 - name: Marstek Venus 5 kWh
   url: https://go.duurzaamthuislab.nl/marstek
   price: '2500'
@@ -61,7 +61,7 @@ In dit artikel vergelijken wij de vijf batterijen die voor een eengezinswoning s
 
 *Disclosure: de links naar Marstek, Sessy, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
-> **Kort antwoord:** Voor de meeste eengezinswoningen (3.500-4.500 kWh/jaar) is Sessy 10 kWh de beste koop in 2026: €5.995, slim handelsalgoritme, 10 jaar garantie, geen contract-lock-in. Wil je modulair en goedkoop starten? Marstek Venus 5 kWh voor €2.500. Heb je een EV plus warmtepomp en wil je backup tijdens stroomuitval? Tesla Powerwall 3 (13,5 kWh, €11.000). Zonneplan is alleen logisch als je ook hun panelen en contract neemt.
+> **Kort antwoord:** Voor de meeste eengezinswoningen (3.500-4.500 kWh/jaar) is Sessy 10 kWh de beste koop in 2026: €5.500 incl. btw, excl. installatie (prijspeil aug 2026), slim handelsalgoritme, 10 jaar garantie, geen contract-lock-in. Wil je modulair en goedkoop starten? Marstek Venus 5 kWh voor circa €2.500 (marktindicatie, zie shops). Heb je een EV plus warmtepomp en wil je backup tijdens stroomuitval? Tesla Powerwall 3 (13,5 kWh, circa €11.000 — marktindicatie). Zonneplan is alleen logisch als je ook hun panelen en contract neemt.
 
 ## Wat is een thuisbatterij voor een eengezinswoning?
 
@@ -103,7 +103,7 @@ Sessy (van het Apeldoornse bedrijf Charged) is in 2026 de meest verkochte premiu
 - 10 jaar garantie, 70% capaciteit-behoud na 10 jaar
 - Eigen handelsalgoritme via Sessy-app
 - Werkt met elk dynamisch contract (Tibber, Frank, Zonneplan, ANWB Energie)
-- Prijs: €5.995 inclusief installatie
+- Prijs: €5.500 incl. btw, excl. installatie (prijspeil aug 2026) — installatie wordt apart berekend
 
 **Wat sterk is:** Sessy werkt out-of-the-box met élk dynamisch contract, dus geen lock-in. De app exporteert CSV met uurdata, wat waardevol is voor wie zelf Home Assistant draait. Het handelsalgoritme handelt automatisch op de dagprijzen; wat dat oplevert hangt af van de prijsspreiding in het betreffende jaar en van je verbruiksprofiel, dus een vast maandbedrag is er niet.
 
@@ -187,7 +187,7 @@ Zonneplan biedt een complete propositie: zonnepanelen + batterij + laadpaal + dy
 - 5/10/15 kWh modulair
 - 3,0 kW continu, 5 kW piek
 - 10 jaar garantie, 80% capaciteit-behoud
-- App + Radar (handelsalgoritme van Zonneplan)
+- App + slimme aansturing van Zonneplan (handelt automatisch op de energiemarkten; vereist Zonneplan Energie)
 - Werkt ALLEEN optimaal met Zonneplan Energie contract
 - Backup beschikbaar (€500 extra)
 - Prijs koop: €6.995 voor 10 kWh. Lease: €54/mnd.
@@ -202,7 +202,7 @@ Volledige analyse in onze [Zonneplan thuisbatterij review 2026](/posts/zonneplan
 
 | Eigenschap | Sessy 10 kWh | Marstek 10 kWh | Huawei Luna 10 kWh | Tesla Powerwall 3 | Zonneplan 10 kWh |
 |---|---|---|---|---|---|
-| Prijs koop | €5.995 | €4.700 | €6.500 | €11.000 | €6.995 |
+| Prijs koop | €5.500 | €4.700 | €6.500 | €11.000 | €6.995 |
 | Capaciteit | 10 kWh | 10 kWh (2×5) | 10 kWh (2×5) | 13,5 kWh | 10 kWh |
 | Continu vermogen | 2,5 kW | 5 kW (2×2,5) | 5 kW (2×2,5) | 11,5 kW | 3,0 kW |
 | Aansluiting | 1- of 3-fase | 1-fase per module | 3-fase | 3-fase | 1- of 3-fase |
@@ -224,7 +224,7 @@ Dit is de kerntabel waarop veel mensen hun keus baseren. Let op: dit is alleen a
 | Marstek Venus | 10 kWh | €4.700 | €470 |
 | Marstek Venus | 5 kWh | €2.500 | €500 |
 | Huawei Luna 2000 | 10 kWh | €6.500 | €650 |
-| Sessy | 10 kWh | €5.995 | €600 |
+| Sessy | 10 kWh | €5.500 | €550 |
 | Zonneplan | 10 kWh | €6.995 | €700 |
 | Tesla Powerwall 3 | 13,5 kWh | €11.000 | €815 |
 
@@ -277,7 +277,7 @@ Onderstaande doorrekening is een **modelberekening**, geen meting. Ze laat zien 
 - Teruglevering: circa 2.100 kWh per jaar
 - Contract: een dynamisch contract, bijvoorbeeld Frank Energie of Tibber
 
-**Aankoop**: Sessy 10 kWh = €5.995 (-€0 subsidie, ISDE niet meer voor batterijen sinds 2023)
+**Aankoop**: Sessy 10 kWh = €5.500 incl. btw, excl. installatie (prijspeil aug 2026). Geen subsidie meegerekend: de ISDE dekt volgens RVO geen thuisbatterijen, en op de batterij geldt 21% btw — het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij.
 
 **Maandelijkse opbrengst volgens het model:**
 
@@ -289,7 +289,7 @@ Onderstaande doorrekening is een **modelberekening**, geen meting. Ze laat zien 
 | **Totaal per maand** | **€134** | |
 
 **Jaar totaal in dit model**: €1.608
-**Terugverdientijd in dit model**: €5.995 / €1.608 ≈ **3,7 jaar**
+**Terugverdientijd in dit model**: €5.500 / €1.608 ≈ **3,4 jaar** (modelberekening, exclusief installatiekosten)
 
 Let op: dit is een gunstig scenario. Het gaat uit van een ruime prijsspreiding op de day-ahead-markt en een batterij die vrijwel dagelijks een volledige cyclus maakt. Bij een vlakkere markt of minder cycli loopt de terugverdientijd snel op naar zes jaar of meer. Batterijdegradatie en verzekeringskosten zijn niet meegerekend.
 
@@ -331,7 +331,7 @@ Op basis van de functieomschrijvingen van de vijf apps en wat gebruikersreviews 
 
 **Goedkoopst per kWh + DIY-affiniteit**: Marstek Venus 10 kWh (€4.700).
 
-**Beste balans prijs/gemak/service**: Sessy 10 kWh (€5.995). Voor de meeste eengezinswoningen ons standaardadvies.
+**Beste balans prijs/gemak/service**: Sessy 10 kWh (€5.500 excl. installatie). Voor de meeste eengezinswoningen ons standaardadvies.
 
 **Bestaande Huawei-installatie uitbreiden**: Huawei Luna 2000 10 kWh (€6.500).
 
@@ -345,7 +345,7 @@ Geen van deze vijf is objectief "de beste": ze zijn elk het beste antwoord op ee
 
 ## Conclusie
 
-In 2026 is er geen "beste thuisbatterij voor de eengezinswoning" in het algemeen — er is alleen een beste batterij voor jouw situatie. Moeten wij er één noemen die voor de meeste huishoudens werkt, dan is dat de Sessy 10 kWh: €5.995, Nederlands bedrijf met eigen service, geen contract-lock-in, werkt met elk dynamisch contract en handelt automatisch op de dagprijzen.
+In 2026 is er geen "beste thuisbatterij voor de eengezinswoning" in het algemeen — er is alleen een beste batterij voor jouw situatie. Moeten wij er één noemen die voor de meeste huishoudens werkt, dan is dat de Sessy 10 kWh: €5.500 incl. btw, excl. installatie (prijspeil aug 2026), Nederlands bedrijf met eigen service, geen contract-lock-in, werkt met elk dynamisch contract en handelt automatisch op de dagprijzen.
 
 Marstek voor wie wil shoppen op prijs en zelf wil sleutelen. Tesla voor wie premium wil en geld geen issue is. Huawei voor wie al Huawei heeft. Zonneplan voor wie het pakket wil.
 

@@ -1,7 +1,7 @@
 ---
 title: Sessy vs Huawei Luna 2000 vergelijking 2026
 date: 2026-10-02 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 draft: false
 description: 'Sessy of Huawei Luna 2000? Eerlijke vergelijking op prijs, app, omvormer-integratie, garantie en schaalbaarheid voor Nederlandse huishoudens in 2026.'
 categories: [thuisbatterijen]
@@ -13,7 +13,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
   - q: Wat is het verschil tussen Sessy en Huawei Luna 2000?
-    a: 'Sessy is een Nederlandse batterij (€5.995, 10 kWh) met eigen smart trading-algoritme, onafhankelijk van je omvormer. Huawei Luna 2000 (€6.500, 5-30 kWh modulair) is diep geïntegreerd met Huawei SUN2000-omvormers en blinkt uit in schaalbaarheid. Sessy wint op prijs en flexibiliteit van energiecontract. Luna wint op schaalbaarheid en piekvermogens bij grotere systemen.'
+    a: 'Sessy is een Nederlandse batterij (€5.500 incl. btw excl. installatie, 10 kWh) met eigen smart trading-algoritme, onafhankelijk van je omvormer. Huawei Luna 2000 (€6.500, 5-30 kWh modulair) is diep geïntegreerd met Huawei SUN2000-omvormers en blinkt uit in schaalbaarheid. Sessy wint op prijs en flexibiliteit van energiecontract. Luna wint op schaalbaarheid en piekvermogens bij grotere systemen.'
   - q: Is de Huawei Luna 2000 veilig?
     a: 'Ja. De Luna 2000 gebruikt LFP-chemie (lithiumijzerfosfaat), de veiligste lithium-technologie op de markt. Geen thermisch doorslaanrisico zoals bij NMC-chemie. Huawei heeft ook een eigen BMS dat actief cellen bewaakt. Het enige veiligheidspunt is het Chinese merk voor mensen met bezwaren over data-soevereiniteit.'
   - q: Kan ik de Huawei Luna 2000 combineren met een andere omvormer dan Huawei?
@@ -31,7 +31,7 @@ faq:
 products:
   - name: Sessy thuisbatterij 10 kWh
     url: https://go.duurzaamthuislab.nl/sessy
-    price: '5995'
+    price: '5500'
   - name: Huawei Luna 2000 10 kWh
     url: https://go.duurzaamthuislab.nl/sessy
     price: '6500'
@@ -55,7 +55,7 @@ Dit artikel zet die afweging op papier.
 
 ---
 
-> **Kort antwoord:** Sessy (€5.995, 10 kWh) is de betere keus voor wie dynamisch wil handelen op de energiemarkt en geen Huawei-omvormer heeft. Huawei Luna 2000 (€6.500, 5-30 kWh) wint als je al een Huawei SUN2000-omvormer hebt of wilt opschalen naar 15-30 kWh. Voor de gemiddelde koopwoning met 6-12 panelen en geen uitbreidingsplannen: Sessy.
+> **Kort antwoord:** Sessy (€5.500 incl. btw, excl. installatie, 10 kWh) is de betere keus voor wie dynamisch wil handelen op de energiemarkt en geen Huawei-omvormer heeft. Huawei Luna 2000 (€6.500, 5-30 kWh) wint als je al een Huawei SUN2000-omvormer hebt of wilt opschalen naar 15-30 kWh. Voor de gemiddelde koopwoning met 6-12 panelen en geen uitbreidingsplannen: Sessy.
 
 ## Wat zijn Sessy en Huawei Luna 2000 precies?
 
@@ -90,14 +90,14 @@ Een paar dingen vallen op. De Sessy heeft iets meer brutale capaciteit (11,5 kWh
 
 ## Prijs per kWh en totale kostenplaatje
 
-Een prijsverschil van rond €500 tot €1.000 voelt fors. Maar het loont om verder te kijken dan de sticker.
+Een prijsverschil van rond €1.000 voelt fors. Maar het loont om verder te kijken dan de sticker.
 
 | Kostencategorie | Sessy 10 kWh | Luna 2000 10 kWh |
 |---|---|---|
-| Aankoopprijs | €5.995 | €6.500 |
+| Aankoopprijs | €5.500 | €6.500 |
 | Installatie | €500-€800 | €400-€600 (bij Huawei-installateur) |
-| Totaal instap | ~€6.500-€6.800 | ~€6.900-€7.100 |
-| Prijs/kWh (aanschaf) | €600/kWh | €650/kWh |
+| Totaal instap | ~€6.000-€6.300 | ~€6.900-€7.100 |
+| Prijs/kWh (aanschaf) | €550/kWh | €650/kWh |
 | Prijs/kWh (totaal) | €650-€680/kWh | €690-€710/kWh |
 | Uitbreiden naar 15 kWh | Niet mogelijk | +€2.500-€3.000 (1 module) |
 | Uitbreiden naar 20 kWh | Niet mogelijk | +€5.000-€6.000 (2 modules) |
@@ -199,7 +199,7 @@ Hier zit de grootste troef van de Luna, en voor een bepaald profiel is die doors
 | Configuratie | Huawei Luna 2000 | Sessy equivalent |
 |---|---|---|
 | 5 kWh | €3.500-€4.000 | Niet beschikbaar |
-| 10 kWh | €6.500-€7.000 | €5.995-€6.500 |
+| 10 kWh | €6.500-€7.000 | €5.500-€6.000 |
 | 15 kWh | €9.000-€10.000 | 2× Sessy ~€13.000+ |
 | 20 kWh | €11.500-€13.000 | 2× Sessy ~€13.000+ |
 | 30 kWh | ~€17.000-€19.000 | Niet praktisch |
@@ -320,9 +320,9 @@ Wil je weten hoe dit alles uitpakt in je terugverdientijd? Bekijk onze [thuisbat
 Ook dit is een modelberekening, met deze aannames: een huishouden van 4.500 kWh verbruik per jaar, 3.500 kWh zonne-opbrengst, een dynamisch contract, één cyclus per dag en de prijsspreiding uit het rekenvoorbeeld hierboven.
 
 **Sessy 10 kWh:**
-- Aanschafprijs incl. installatie in het model: €6.700
+- Aanschafprijs incl. installatie in het model: €6.200
 - Modeluitkomst jaarvoordeel (extra eigen verbruik + arbitrage): circa €700-€1.000
-- Terugverdientijd in het model: **7-9 jaar**
+- Terugverdientijd in het model: **6-9 jaar**
 
 **Huawei Luna 2000 10 kWh (met SUN2000-omvormer):**
 - Aanschafprijs incl. installatie in het model: €7.100
@@ -339,8 +339,8 @@ Voor wie de aankoop overweegt in 2026: de timing is gunstig. Zowel Sessy als Lun
 
 | Criterium | Sessy 10 kWh | Luna 2000 10 kWh | Winnaar |
 |---|---|---|---|
-| Prijs instap | €5.995 | €6.500 | Sessy |
-| Prijs/kWh | €600/kWh | €650/kWh | Sessy |
+| Prijs instap | €5.500 | €6.500 | Sessy |
+| Prijs/kWh | €550/kWh | €650/kWh | Sessy |
 | Schaalbaarheid | Niet mogelijk | Tot 30 kWh | Luna |
 | Piekontlaadvermogen | 3,68 kW | 5,0 kW | Luna |
 | Smart trading/arbitrage | Uitstekend | Redelijk | Sessy |
@@ -350,7 +350,7 @@ Voor wie de aankoop overweegt in 2026: de timing is gunstig. Zowel Sessy als Lun
 | App datadepth | ★★★☆☆ | ★★★★★ | Luna |
 | Cyclusgarantie | 4.000 @ 80% | 6.000 @ 60% | Gelijk |
 | Lokale service | Direct NL | Via installateur | Sessy |
-| Terugverdientijd (model) | 7-9 jaar | 9-12 jaar | Sessy |
+| Terugverdientijd (model) | 6-9 jaar | 9-12 jaar | Sessy |
 
 Sessy wint in de meeste categorieën voor de "gemiddelde" Nederlandse woning zonder Huawei-omvormer. Luna wint op de punten die specifiek relevant zijn voor Huawei-ecosysteem-gebruikers en wie wil opschalen.
 

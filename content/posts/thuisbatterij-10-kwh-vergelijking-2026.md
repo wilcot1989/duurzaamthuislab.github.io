@@ -1,7 +1,7 @@
 ---
 title: 'Beste thuisbatterij 10 kWh 2026: 7 topmerken vergeleken'
 date: 2026-05-08 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Beste thuisbatterij 10 kWh 2026: Sessy, Marstek, Zonneplan, Tesla, EcoFlow, Huawei en BYD vergeleken op prijs (€2.299-€9.500), vermogen en terugverdientijd.'
 categories:
 - thuisbatterijen
@@ -27,9 +27,9 @@ faq:
 - q: Voor welk huishouden is 10 kWh de juiste maat?
   a: 10 kWh is ideaal voor huishoudens met 3.500-6.500 kWh jaarverbruik en zonnepanelen-overschot van 1.500-4.000 kWh per jaar. Te klein voor groot huis met warmtepomp + EV, te groot voor 1-persoonshuishouden zonder substantieel verbruik 's avonds.
 - q: Wat is de beste 10 kWh thuisbatterij in 2026?
-  a: 'Geen one-size-fits-all. Voor de gemiddelde Nederlander: Sessy (€5.995, beste service + automation). Voor prijs-bewust: Marstek Venus E (€2.679, beste waarde). Voor alles-van-één-partij: Zonneplan (€6.995). Voor maximale capaciteit + EV: Tesla Powerwall 3 (€9.500, 13,5 kWh).'
+  a: 'Geen one-size-fits-all. Voor de gemiddelde Nederlander: Sessy (€5.500 incl. btw, excl. installatie, beste service + automation). Voor prijs-bewust: Marstek Venus E (€2.679, beste waarde). Voor alles-van-één-partij: Zonneplan (€6.995). Voor maximale capaciteit + EV: Tesla Powerwall 3 (€9.500, 13,5 kWh).'
 - q: Hoe lang duurt de terugverdientijd?
-  a: 'Hangt af van prijs en gebruiksprofiel. Marstek (€2.679): 3-4 jaar. Sessy (€5.995): 7-9 jaar. Zonneplan koop (€6.995): 8-10 jaar. Tesla Powerwall (€9.500): 9-12 jaar. Met dynamisch contract terugverdientijd 1-2 jaar korter.'
+  a: 'Hangt af van prijs en gebruiksprofiel. Marstek (€2.679): 3-4 jaar. Sessy (€5.500 excl. installatie): 6-8 jaar. Zonneplan koop (€6.995): 8-10 jaar. Tesla Powerwall (€9.500): 9-12 jaar. Met dynamisch contract terugverdientijd 1-2 jaar korter.'
 - q: Welke heeft de beste backup-functie?
   a: 'Tesla Powerwall 3: automatisch overschakelen, hele huis op batterij tot deze leeg is. Zonneplan: automatisch maar alleen één groep. Sessy: handmatige overschakeling, één groep. Marstek: optioneel via aparte schakelaar (+€120). EcoFlow PowerOcean: automatisch, hele huis.'
 - q: AC-gekoppeld of DC-gekoppeld?
@@ -43,7 +43,7 @@ faq:
 products:
 - name: Sessy 10 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  price: '5500'
 - name: Marstek Venus E 8,2 kWh
   url: https://marstekenergy.com/venus-e
   price: '2299'
@@ -61,6 +61,12 @@ products:
   price: '5500'
 schema_type: Article
 ---
+> **Kort antwoord:** In het 10 kWh-segment is Marstek Venus E (8,2 kWh) de scherpste keuze op prijs per kWh en Sessy de sterkste op Nederlandse service en automatisering. Wie meer vermogen of automatische backup wil, komt uit bij Huawei Luna 2000, EcoFlow PowerOcean of Tesla Powerwall 3. 10 kWh past bij een jaarverbruik van 3.500-6.500 kWh en een zonneoverschot van 1.500-4.000 kWh.
+>
+> Prijsindicaties in dit artikel zijn advies- en marktprijzen van fabrikanten en Nederlandse aanbieders; installatiekosten zitten er niet altijd bij. Vraag altijd een offerte op voor jouw meterkast.
+>
+> **Zoek je niet specifiek 10 kWh?** Onze brede keuzegids staat hier: **[beste thuisbatterij 2026](/posts/beste-thuisbatterij-nederland-2026/)** — die vergelijkt alle capaciteitsklassen naast elkaar. Deze pagina gaat alleen over de 10 kWh-klasse.
+
 **Welke 10 kWh-thuisbatterijen zijn er, en wat kosten ze?** Dat is het antwoord dat je hier het eerst wilt zien. Onderstaande tabel is de korte versie van dit artikel.
 
 | Thuisbatterij (±10 kWh) | Capaciteit | Prijsindicatie | Vermogen continu | Sterkste punt |
@@ -68,7 +74,7 @@ schema_type: Article
 | **Marstek Venus E** | 8,2 kWh | €2.299 (excl. installatie, +€350-€450) | 3,0 kW | Laagste prijs per kWh |
 | **Huawei Luna 2000** | 10 kWh | €5.500 | 5,0 kW | Beste DC-gekoppelde optie |
 | **BYD Battery-Box Premium** | 10,2 kWh | €5.800 | 5,0 kW | Modulair, bewezen celkwaliteit |
-| **Sessy 10 kWh** | 10 kWh | €5.995 (incl. installatie) | 2,5 kW | NL-support en automatisering |
+| **Sessy 10 kWh** | 10 kWh | €5.500 (incl. btw, excl. installatie; prijspeil aug 2026) | 2,5 kW | NL-support en automatisering |
 | **EcoFlow PowerOcean** | 10 kWh | €6.800 | 5,0 kW | Hoog vermogen + automatische backup |
 | **Zonneplan 10 kWh** | 10 kWh | €6.995 koop of €54/mnd lease | 3,0 kW | Alles-in-één bij één partij |
 | **Tesla Powerwall 3** | 13,5 kWh | €9.500 | 5,0 kW | Grootste capaciteit, volledige backup |
@@ -119,10 +125,10 @@ Een rekenvoorbeeld met expliciete aannames (fictief), zodat de systemen onder id
 
 De besparingen in onderstaande tabel volgen uit dat model — het zijn dus geen gemeten waarden, en bij smallere spreads vallen ze lager uit.
 
-| Batterij | Prijs incl. install. | Jaarlijkse besparing | Terugverdientijd | 10-jaar netto |
+| Batterij | Prijs (installatie zoals vermeld) | Jaarlijkse besparing | Terugverdientijd | 10-jaar netto |
 |---|---|---|---|---|
 | Marstek Venus E (8,2 kWh) | €2.679 | €820 | 3,3 jaar | **+€5.521** |
-| Sessy 10 kWh | €5.995 | €870 | 6,9 jaar | **+€2.705** |
+| Sessy 10 kWh | €5.500 (excl. installatie) | €870 | 6,3 jaar | **+€3.200** |
 | Zonneplan 10 kWh | €6.995 | €880 | 7,9 jaar | **+€1.805** |
 | Huawei Luna 2000 (10 kWh) | €5.500 | €890 | 6,2 jaar | **+€3.400** |
 | BYD Battery-Box (10,2 kWh) | €5.800 | €860 | 6,7 jaar | **+€2.800** |
@@ -151,7 +157,7 @@ Marstek Venus E heeft 3 kW — beter dan Sessy voor middelzware huishoudens, maa
 
 ### Fout 3: de installatiekosten vergeten
 
-Marstek Venus E adverteert €2.299 maar installatie is €350-€450 extra. Sessy adverteert €5.995 en installatie is inbegrepen. Een eerlijke vergelijking telt altijd de totale kosten inclusief aansluiting, bekabeling en in sommige gevallen een extra groep in de meterkast.
+Marstek Venus E adverteert €2.299 maar installatie is €350-€450 extra. Sessy adverteert €5.500 (incl. btw) en rekent de installatie apart; een basisinstallatie met noodstroomvoorziening staat bij Sessy op €1.200. Een eerlijke vergelijking telt altijd de totale kosten inclusief aansluiting, bekabeling en in sommige gevallen een extra groep in de meterkast.
 
 ### Fout 4: de leverancier vergeten bij de serverkeuze
 
@@ -159,7 +165,7 @@ Zonneplan-batterij werkt optimaal met Zonneplan-energiecontract (Radar-algoritme
 
 ### Fout 5: lease vergelijken met koop zonder restwaarde
 
-Zonneplan lease €54/mnd lijkt vergelijkbaar met Sessy €5.995 koop. Maar: bij koop heb je restwaarde na 10 jaar (€1.500-€3.000 geschat). Bij lease €0 restwaarde. De totale lease-uitstroom over 10 jaar is €6.480, de koop-uitstroom is €5.995 — én je hebt dan nog een apparaat. Koop wint bijna altijd, tenzij cashflow het onmogelijk maakt.
+Zonneplan lease €54/mnd lijkt vergelijkbaar met Sessy €5.500 koop (excl. installatie). Maar: bij koop heb je restwaarde na 10 jaar (€1.500-€3.000 geschat). Bij lease €0 restwaarde. De totale lease-uitstroom over 10 jaar is €6.480, de koop-uitstroom is €5.500 plus installatiekosten — én je hebt dan nog een apparaat. Koop wint bijna altijd, tenzij cashflow het onmogelijk maakt.
 
 ---
 
@@ -249,7 +255,7 @@ Sessy en Marstek komen op hetzelfde totaal (24/30) maar via heel andere criteria
 
 | Merk | Capaciteit | Prijs | Vermogen | NL/EU | Affiliate |
 |---|---|---|---|---|---|
-| **Sessy 10** | 10 kWh | €5.995 | 2,5 kW | NL bedrijf | Direct |
+| **Sessy 10** | 10 kWh | €5.500 (excl. installatie) | 2,5 kW | NL bedrijf | Direct |
 | **Marstek Venus E** | 8,2 kWh | €2.299 | 3,0 kW | EU office | Direct |
 | **Zonneplan 10** | 10 kWh | €6.995 | 3,0 kW | NL bedrijf | Direct |
 | **Tesla Powerwall 3** | 13,5 kWh | €9.500 | 5,0 kW | VS | Via dealer |
@@ -428,7 +434,7 @@ START
 Snelste terugverdientijd, goede waarde. Voor wie wil tweaken: top.
 
 **Profiel B: Modaal gezin, geen EV, gemak-zoeker**
-→ **Sessy 10 kWh** (€5.995)
+→ **Sessy 10 kWh** (€5.500 incl. btw, excl. installatie)
 Beste service, beste app, automatische werking.
 
 **Profiel C: Wil alles van één partij**
@@ -532,4 +538,4 @@ De saldering-stop maakt deze keuze **kritisch** — wie tot 2027 wacht, betaalt 
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

@@ -1,8 +1,8 @@
 ---
 title: 'Beste Thuisbatterij 2026: Top 5 voor Nederlandse Huishoudens'
 date: 2026-02-24 12:00:00+01:00
-lastmod: 2026-08-19 08:00:00+02:00
-description: De 5 beste thuisbatterijen voor Nederland vergeleken. Inclusief terugverdientijd, subsidies, compatibiliteit en advies over de salderingsregeling.
+lastmod: 2026-08-20 08:00:00+02:00
+description: De 5 beste thuisbatterijen voor Nederland vergeleken. Inclusief terugverdientijd, kosten, compatibiliteit en advies over de salderingsregeling.
 categories:
 - thuisbatterijen
 tags:
@@ -33,7 +33,7 @@ faq:
 - q: Welke thuisbatterij is het beste voor een gemiddeld Nederlands huishouden?
   a: Voor een gemiddeld Nederlands huishouden met zonnepanelen raden wij de Huawei Luna 2000 (5-15 kWh) of de BYD Battery-Box (5-12,8 kWh) aan. Beide bieden een goede balans tussen capaciteit, prijs en compatibiliteit.
 - q: Kan ik ISDE-subsidie krijgen voor een thuisbatterij?
-  a: Ja, via de ISDE-regeling (Investeringssubsidie Duurzame Energie) kun je subsidie aanvragen voor een thuisbatterij. In 2026 bedraagt de subsidie maximaal €900 per kWh opslagcapaciteit, met een maximum van €5.400 voor een 6 kWh systeem. Lees onze complete gids over zonnepanelen subsidies voor alle details.
+  a: Nee. De ISDE dekt voor woningeigenaren volgens RVO uitsluitend isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Thuisbatterijen vallen er niet onder, ook niet in combinatie met zonnepanelen of een warmtepomp. Sommige gemeenten en provincies hebben wel eigen regelingen; check dat bij je eigen gemeente.
 - q: Moet de thuisbatterij van hetzelfde merk zijn als mijn omvormer?
   a: Niet altijd, maar het wordt sterk aanbevolen. Een thuisbatterij van hetzelfde merk als je omvormer werkt naadloos samen en biedt de beste prestaties. Sommige combinaties van verschillende merken werken ook, maar vragen om een extra interface of hybride omvormer.
 - q: Hoe lang gaat een thuisbatterij mee?
@@ -60,7 +60,7 @@ Welk merk, welke capaciteit, en verdien je het überhaupt terug? Dat zijn de dri
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
-> **Kort antwoord:** De 5 beste thuisbatterijen voor Nederland vergeleken. Inclusief terugverdientijd, subsidies, compatibiliteit en advies over de salderingsregeling.
+> **Kort antwoord:** De 5 beste thuisbatterijen voor Nederland vergeleken. Inclusief terugverdientijd, kosten, compatibiliteit en advies over de salderingsregeling.
 >
 > Een thuisbatterij kost in Nederland tussen de €4.000 en €12.000, afhankelijk van de capaciteit en het merk. Inclusief installatie moet je rekenen op €5.500 tot €14.000 voor een compleet systeem.
 
@@ -90,7 +90,7 @@ De Nederlandse salderingsregeling -- waarmee je opgewekte zonnestroom tegen hetz
 - **2030**: Circa 46% saldering
 - **2031**: Volledige afbouw salderingsregeling
 
-Wil je alle details weten over subsidies en de salderingsregeling? Lees onze [complete gids over zonnepanelen subsidies in 2026](/posts/zonnepanelen-subsidie-nederland-2026/).
+Wil je alle details weten over de landelijke regelingen en de salderingsregeling? Lees onze [complete gids over zonnepanelen subsidies in 2026](/posts/zonnepanelen-subsidie-nederland-2026/).
 
 ### Stijgende energieprijzen
 
@@ -100,9 +100,9 @@ De energieprijzen in Nederland zijn de afgelopen jaren fors gestegen en blijven 
 
 De prijzen van thuisbatterijen zijn de afgelopen drie jaar met circa 25-30% gedaald. Deze trend zet door dankzij schaalvergroting in de productie en verbeterde batterijtechnologie. In 2026 is de investering aanzienlijk lager dan een paar jaar geleden.
 
-### ISDE-subsidie
+### Geen rijkssubsidie: reken zonder
 
-Via de ISDE-regeling kun je een subsidie aanvragen voor de aanschaf van een thuisbatterij. Dit kan het verschil maken in de terugverdientijd. Meer hierover bij elk product hieronder en in ons [subsidie-artikel](/posts/zonnepanelen-subsidie-nederland-2026/).
+Voor de aanschaf van een thuisbatterij bestaat geen ISDE-subsidie. Die regeling gaat voor woningeigenaren over isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Reken je terugverdientijd dus door op de volledige investering. Meer over wat er wel is, staat in ons [subsidie-artikel](/posts/zonnepanelen-subsidie-nederland-2026/).
 
 ---
 
@@ -147,7 +147,6 @@ Met een 10 kWh Huawei Luna 2000, 12 zonnepanelen (4500 Wp) en een gemiddeld huis
 
 - **Met huidige salderingsregeling (2026)**: circa 10-12 jaar
 - **Na afbouw salderingsregeling (2031+)**: circa 7-9 jaar
-- **Met ISDE-subsidie**: circa 6-8 jaar (na afbouw saldering)
 
 ### Installatiekosten
 
@@ -196,7 +195,6 @@ Met een 10 kWh BYD Battery-Box, 12 zonnepanelen (4500 Wp) en een gemiddeld huish
 
 - **Met huidige salderingsregeling (2026)**: circa 11-13 jaar
 - **Na afbouw salderingsregeling (2031+)**: circa 8-10 jaar
-- **Met ISDE-subsidie**: circa 7-9 jaar (na afbouw saldering)
 
 ---
 
@@ -242,7 +240,6 @@ Met een 13,5 kWh Tesla Powerwall 3, 16 zonnepanelen (6000 Wp) en een gemiddeld h
 
 - **Met huidige salderingsregeling (2026)**: circa 11-14 jaar
 - **Na afbouw salderingsregeling (2031+)**: circa 8-10 jaar
-- **Met ISDE-subsidie**: circa 7-9 jaar (na afbouw saldering)
 
 ---
 
@@ -287,7 +284,6 @@ Met een 10 kWh Enphase IQ Battery-systeem, 12 zonnepanelen met micro-omvormers (
 
 - **Met huidige salderingsregeling (2026)**: circa 13-16 jaar
 - **Na afbouw salderingsregeling (2031+)**: circa 9-12 jaar
-- **Met ISDE-subsidie**: circa 8-11 jaar (na afbouw saldering)
 
 ---
 
@@ -332,7 +328,6 @@ Met een 9,2 kWh SolarEdge Home Battery, 12 zonnepanelen met optimizers (4500 Wp)
 
 - **Met huidige salderingsregeling (2026)**: circa 10-12 jaar
 - **Na afbouw salderingsregeling (2031+)**: circa 7-9 jaar
-- **Met ISDE-subsidie**: circa 6-8 jaar (na afbouw saldering)
 
 ---
 
@@ -362,20 +357,17 @@ De **Tesla Powerwall 3** biedt het meest complete pakket met ingebouwde omvormer
 
 ## Subsidies en Financiering
 
-### ISDE-subsidie voor thuisbatterijen
+### Waarom er geen ISDE is voor thuisbatterijen
 
-Via de **Investeringssubsidie Duurzame Energie (ISDE)** kun je subsidie aanvragen voor een thuisbatterij. In 2026 gelden de volgende bedragen:
+De **Investeringssubsidie Duurzame Energie (ISDE)** dekt voor woningeigenaren volgens [RVO](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) uitsluitend isolatie, ventilatie (in combinatie met isolatie, vanaf 2026), (hybride) warmtepompen, zonneboilers, een aansluiting op een warmtenet en elektrisch koken. Thuisbatterijen staan niet op die lijst — er is dus geen bedrag per kWh en geen aanvraagroute voor batterijopslag.
 
-- **Subsidie**: tot €900 per kWh opslagcapaciteit
-- **Maximum**: €5.400 (voor 6 kWh of meer)
-- **Voorwaarde**: De batterij moet gekoppeld zijn aan zonnepanelen
-- **Aanvraag**: Via de website van RVO (Rijksdienst voor Ondernemend Nederland)
+Wat er wel kan zijn: gemeentelijke of provinciale regelingen. Die verschillen per regio en veranderen regelmatig, dus check de actuele stand bij je eigen gemeente vóór je een offerte ondertekent. Onze [uitgebreide gids over zonnepanelen subsidies](/posts/zonnepanelen-subsidie-nederland-2026/) zet de landelijke regelingen op een rij.
 
-Lees onze [uitgebreide gids over zonnepanelen subsidies](/posts/zonnepanelen-subsidie-nederland-2026/) voor het volledige aanvraagproces en alle voorwaarden.
+### BTW op de batterij: 21%
 
-### BTW-teruggave
+Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk **niet** de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Ga dus niet uit van een btw-voordeel op het batterijdeel van je offerte.
 
-Als je de thuisbatterij samen met zonnepanelen aanschaft, kun je de BTW (21%) terugvragen via de Belastingdienst. Dit kan een besparing opleveren van **€700 tot €2.000**, afhankelijk van de totale investering.
+Lever je als btw-ondernemer stroom terug aan het net, dan is btw-teruggaaf op de batterij in specifieke gevallen mogelijk; de Belastingdienst stelt daarbij voorwaarden, waaronder een energiemanagementsysteem en een dynamisch contract, en over de terugleververgoeding draag je dan 21% btw af. Dat is administratief werk met een onzekere uitkomst, geen vanzelfsprekend voordeel — zie belastingdienst.nl of vraag het je fiscalist.
 
 ### Financiering
 
@@ -502,8 +494,8 @@ Gezinnen met warmtepomp + EV hebben piekbelastingen van 5-8 kW. Een Sessy (2,5 k
 **Fout 3: terugverdientijd op 2026-saldering-basis berekenen**
 In 2026 is de terugverdientijd hoger dan in 2027+ (want saldering maskeert het nut van batterij). Reken altijd met het 2027+-scenario voor eerlijk beeld.
 
-**Fout 4: geen ISDE-subsidie aanvragen**
-Als ISDE in 2027 beschikbaar wordt voor thuisbatterijen (hoge kans), verlaagt dat de investering met €1.000-€5.400. Plan het aanvragen direct na installatie.
+**Fout 4: rekenen met subsidie die er niet is**
+Verkopers en rekentools noemen soms een ISDE-bijdrage voor de batterij. Die bestaat niet: de ISDE dekt voor woningeigenaren geen batterijopslag. Reken met de volledige investering en 21% btw op de batterij, en kijk alleen naar gemeentelijke of provinciale regelingen die je zelf bij de bron hebt gecheckt.
 
 ## Verlengde FAQ
 
@@ -536,4 +528,4 @@ Zoek je een draagbare oplossing in plaats van een vast systeem? Bekijk dan ons o
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van wat de ISDE wel en niet dekt (thuisbatterijen vallen er niet onder).

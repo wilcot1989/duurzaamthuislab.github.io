@@ -1,7 +1,7 @@
 ---
 title: 'Huawei vs SolarEdge 2026: welke optimizer-omvormer wint?'
 date: '2026-08-26 08:00:00+02:00'
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
 description: Huawei SUN2000 met optimizers of SolarEdge HD-Wave? Beide hebben optimizers per paneel. Vergelijking op prijs, app, batterij-koppeling en geluid.
 categories:
@@ -101,7 +101,7 @@ Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is ove
 
 Onze inschatting per scenario:
 
-- **Klein huis, geen EV:** een 5 kWh batterij zoals Huawei Luna — marktprijs vanaf circa €3.795; in de meeste rekenmodellen 6-8 jaar terugverdientijd.
+- **Klein huis, geen EV:** een 5 kWh batterij — marktprijs circa €3.550 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites); in de meeste rekenmodellen 6-8 jaar terugverdientijd (modelberekening).
 - **Middelgroot, 1 EV:** 10 kWh batterij plus slim laden op een dynamisch tarief.
 - **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Huawei Luna.
 
@@ -117,7 +117,7 @@ Indicatieve marktprijzen voor 2026, exclusief eventuele subsidies:
 
 | Onderdeel | Kosten | Terugverdientijd |
 |---|---|---|
-| Thuisbatterij 5-10 kWh (bijv. Huawei Luna) | €3.795-€5.995 | 6-8 jaar |
+| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
 | P1-meter (HomeWizard) | €99 | < 1 jaar |
 | Home Assistant Yellow | €199 | n.v.t. (tool) |
 | Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
@@ -174,7 +174,7 @@ Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/p
 
 Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
 
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a>. Hardware met een investering van €3.795-€5.995 en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
+Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
 
 Verder lezen: [het overzichtsartikel](/posts/micro-omvormer-vs-string-omvormer-2026/), [de rekenmodellen](/posts/huawei-luna-2000-review-2026/) en [de verzamelde gebruikerservaringen](/posts/solaredge-vs-enphase-2026/).
 

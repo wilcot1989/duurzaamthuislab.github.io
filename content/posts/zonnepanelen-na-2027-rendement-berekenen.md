@@ -51,7 +51,7 @@ products:
   price: '6000'
 - name: Sessy 5 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '3795'
+  price: '3550'
 schema_type: Article
 ---
 "Moet ik nog wel zonnepanelen aanschaffen — de saldering stopt toch?" Het is een van de meest gestelde vragen van het moment, en een terechte.
@@ -168,7 +168,7 @@ Standaardaannames:
 | Vast contract Greenchoice | €316 | 13,9 jaar |
 | Dynamisch Frank Energie | €440 | 10,0 jaar |
 | Dynamisch + smart home | €520 | 8,5 jaar |
-| + thuisbatterij 5 kWh (€3.795) | €620 | 13,0 jaar (gecombineerd) |
+| + thuisbatterij 5 kWh (€3.550, excl. installatie) | €620 | 12,8 jaar (gecombineerd, modelberekening) |
 
 **Aanbeveling A**: dynamisch contract + smart home. **Niet** thuisbatterij — de batterij rendeert hier matig door de relatief lage volume eigen verbruik.
 
@@ -428,7 +428,7 @@ Het teruglevertarief varieert per uur en per leverancier. Bij Tibber en Frank En
 Veel online calculators gaan uit van 30-35% eigenverbruik als standaard. In de praktijk is 20-25% realistischer voor een gezin waarbij beide partners overdag buitenshuis zijn. Check je eigen verbruikspatroon (via P1-meter) voordat je een systeem dimensioneert.
 
 **Fout 4: 0% BTW niet verwerken**
-Zonnepanelen zijn vrijgesteld van BTW (0%) bij installatie op een woning door een erkende installateur. Dat is 21% korting op de installatieprijzen. Op een systeem van €6.000 bruto is dat €1.057 besparing. Veel berekeningen vergeten dit te vermelden.
+Op de levering en installatie van zonnepanelen op of bij een woning geldt 0% btw. Dat scheelt op een systeem van €6.000 bruto circa €1.041. Twee aandachtspunten: het nultarief geldt voor de panelen plus wat direct nodig is om ze te laten werken (kabels, montagemateriaal, optimizers, omvormer, aanpassingen aan meterkast en dak), en het geldt níet voor een thuisbatterij — de Belastingdienst sluit de levering en installatie van een accupakket of thuisbatterij uitdrukkelijk uit, ook bij aanschaf samen met panelen. Reken op de accu dus met 21% btw.
 
 **Fout 5: Omvormervervanging vergeten**
 Een string-omvormer gaat 12-15 jaar mee. Bij een installatie van €5.500 die 25 jaar meegaat, moet je rond jaar 13 rekening houden met €800-€1.200 voor een nieuwe omvormer. Dat verlaagt je 25-jaars rendement met €0,04-€0,06 per geproduceerde kWh.
@@ -442,7 +442,7 @@ Een string-omvormer gaat 12-15 jaar mee. Bij een installatie van €5.500 die 25
 Je kunt niet meer terug — de panelen liggen er. De beste actie die je nu kunt nemen:
 1. Schakel over naar een dynamisch contract (Frank Energie of Tibber) als je dat nog niet hebt. Dit verhoogt je effectieve teruglevertarief met €0,02-€0,05/kWh.
 2. Verhoog je eigenverbruik via smart home automatisering (apparaten op zon-uren, warmtepomp op goedkope uren).
-3. Overweeg een thuisbatterij van 5-10 kWh. Bij 16 panelen en hoog teruglevervolumeisde extra arbitrage-opbrengst €200-€400 per jaar.
+3. Overweeg een thuisbatterij van 5-10 kWh. Bij 16 panelen en een hoog teruglevervolume is de extra arbitrage-opbrengst €200-€400 per jaar.
 
 **"Ik overweeg nieuwe panelen. Hoeveel moet ik aanschaffen?"**
 
@@ -452,7 +452,7 @@ Voorbeeld: verbruik 4.000 kWh/jaar → maximaal 5-6 kWp installeren (= 12-14 pan
 
 **"Zijn panelen in een bepaald kwartaal installeren slimmer?"**
 
-Na 2027 niet meer zo relevant als vroeger. Voor de aanvraag van 0% BTW maakt het kwartaal niet uit. Wel relevant: installateurs zijn het drukste in het voorjaar (maart-mei). Najaar (september-november) geeft vaak snellere doorlooptijden en soms lagere prijzen door lagere bezettingsdruk.
+Na 2027 niet meer zo relevant als vroeger. Het nultarief hoef je niet aan te vragen — de installateur past het direct toe, ongeacht het kwartaal. Wel relevant: installateurs zijn het drukste in het voorjaar (maart-mei). Najaar (september-november) geeft vaak snellere doorlooptijden en soms lagere prijzen door lagere bezettingsdruk.
 
 ---
 
@@ -492,4 +492,4 @@ Over 25 jaar: €550-€1.700 extra opbrengst. De meerkosten van micro-omvormers
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE](https://www.rvo.nl/subsidies-financiering/isde) — de actuele lijst met maatregelen die onder de ISDE vallen (zonnepanelen en thuisbatterijen staan er niet op).

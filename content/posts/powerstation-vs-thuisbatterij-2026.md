@@ -387,7 +387,7 @@ Met maximale uitbreidingsmodules naderen sommige powerstations het capaciteitsge
 |---|---|---|---|---|---|
 | Bluetti AC200MAX + 2× B300 | 8,2 kWh | €5.300 | ✅ | ❌ | €0,65/kWh (levensduur) |
 | Jackery 2000 Plus + 3× Battery Pack | 8,2 kWh | €6.400 | ✅ | ❌ | €0,58/kWh |
-| Sessy 5 kWh thuisbatterij | 5 kWh | €3.795 | ❌ | ✅ | €0,18/kWh |
+| Sessy 5 kWh thuisbatterij | 5 kWh | €3.550 (excl. installatie) | ❌ | ✅ | €0,17/kWh |
 | Huawei Luna 2000 10 kWh | 10 kWh | €7.000 | ❌ | ✅ | €0,14/kWh |
 
 De uitgebreide powerstations zijn 3-4× duurder per kWh over de levensduur dan een thuisbatterij, en missen de netgekoppelde automatisering. Maar ze zijn wél mobiel — dat is de prijs van mobiliteit.

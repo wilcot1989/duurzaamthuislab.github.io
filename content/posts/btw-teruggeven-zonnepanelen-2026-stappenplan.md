@@ -207,7 +207,9 @@ Bij uitbreiding kun je opnieuw aangifte doen, maar bewijs van originele claim is
 
 ### Installatie met thuisbatterij
 
-Als je tussen 2013-2022 een thuisbatterij plus zonnepanelen hebt aangeschaft: BTW op batterij ook aftrekbaar (mits zakelijk gebruik aantoonbaar). Lees [thuisbatterij vergelijking](/posts/thuisbatterij-vergelijking-2026/).
+Let op: op een thuisbatterij betaal je 21% btw, ook nu. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt.
+
+Die 21% btw op de batterij is niet automatisch aftrekbaar. De Belastingdienst behandelt de batterij apart van de panelen en stelt eigen voorwaarden voor btw-teruggaaf, waaronder een energiemanagementsysteem en een dynamisch contract, en over je terugleververgoeding draag je dan 21% btw af. Reken er niet op als vanzelfsprekend voordeel: check de actuele voorwaarden op belastingdienst.nl of leg je situatie voor aan een fiscalist. Lees ook [thuisbatterij vergelijking](/posts/thuisbatterij-vergelijking-2026/).
 
 ## Recente wetswijzigingen
 

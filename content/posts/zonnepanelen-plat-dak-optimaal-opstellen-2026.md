@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen plat dak optimaal opstellen 2026: zuid of oost-west?'
 date: 2026-08-27 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: Hoe stel je zonnepanelen op een plat dak optimaal op in 2026? Zuid 15° of oost-west 10°? Cijfers, rekenvoorbeelden en eerlijk advies post-saldering.
 categories:
 - zonne-energie
@@ -51,7 +51,7 @@ products:
   price: '110'
 - name: Sessy thuisbatterij 10 kWh (combinatie)
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  price: '5500'
 schema_type: Article
 ---
 Op een plat dak kies je zelf de hellingshoek en de richting, en dat maakt de opstelling een echte keuze: zuid op circa 15 graden, of oost-west op circa 10 graden. Het standaardadvies van installateurs is bijna altijd zuid, maar dat is niet voor iedereen de beste uitkomst — vooral niet na het einde van de saldering.
@@ -352,7 +352,7 @@ Een modelopstelling met 24 panelen oost-west en een 10 kWh thuisbatterij werkt i
 
 In het model komt de zelfconsumptie daarmee op circa 78 procent, tegenover 47 procent zonder batterij: ongeveer 1.760 kWh per jaar extra zelf gebruikt. Bij €0,32 per kWh is dat in de orde van €560 per jaar — met de aantekening dat dat bedrag volledig meebeweegt met de stroomprijs en de terugleververgoeding.
 
-Investering Sessy 10 kWh: €5.995. Terugverdientijd post-2027 (zonder saldering): 8-10 jaar. Lees [Sessy thuisbatterij review](/posts/sessy-review-thuisbatterij-nederland/) voor details.
+Investering Sessy 10 kWh: €5.500 (incl. btw, excl. installatie; prijspeil aug 2026). Terugverdientijd post-2027 (zonder saldering) in dit model: circa 10 jaar op de batterijprijs alleen, circa 12 jaar als je een basisinstallatie met noodstroom (€1.200) meerekent. Lees [Sessy thuisbatterij review](/posts/sessy-review-thuisbatterij-nederland/) voor details.
 
 ## Conclusie
 

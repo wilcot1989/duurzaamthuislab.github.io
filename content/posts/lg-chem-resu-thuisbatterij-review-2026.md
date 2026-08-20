@@ -1,7 +1,7 @@
 ---
 title: 'LG Chem RESU thuisbatterij review 2026: nog kopen?'
 date: '2026-09-01 08:00:00+02:00'
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
 description: LG Chem RESU Prime werd jarenlang aanbevolen, daarna kwam de recall. Wat is de status in 2026, prijs, en welke alternatieven zijn beter?
 categories:
@@ -101,7 +101,7 @@ Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is ove
 
 Onze inschatting per scenario:
 
-- **Klein huis, geen EV:** een 5 kWh batterij zoals Sessy thuisbatterij — marktprijs vanaf circa €3.795; in de meeste rekenmodellen 6-8 jaar terugverdientijd.
+- **Klein huis, geen EV:** een 5 kWh batterij — circa €3.550 incl. btw, excl. installatie (Sessy 5 kWh als referentie, prijspeil aug 2026); in de meeste rekenmodellen 6-8 jaar terugverdientijd (modelberekening).
 - **Middelgroot, 1 EV:** 10 kWh batterij plus slim laden op een dynamisch tarief.
 - **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Sessy thuisbatterij.
 
@@ -117,7 +117,7 @@ Indicatieve marktprijzen voor 2026, exclusief eventuele subsidies:
 
 | Onderdeel | Kosten | Terugverdientijd |
 |---|---|---|
-| Thuisbatterij 5-10 kWh (bijv. Sessy thuisbatterij) | €3.795-€5.995 | 6-8 jaar |
+| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
 | P1-meter (HomeWizard) | €99 | < 1 jaar |
 | Home Assistant Yellow | €199 | n.v.t. (tool) |
 | Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
@@ -174,7 +174,7 @@ Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/p
 
 Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
 
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a>. Hardware met een investering van €3.795-€5.995 en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
+Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
 
 Verder lezen: [het overzichtsartikel](/posts/tesla-powerwall-review-nederland-2026/), [de rekenmodellen](/posts/huawei-luna-2000-review-2026/) en [de verzamelde gebruikerservaringen](/posts/beste-thuisbatterij-nederland-2026/).
 
@@ -313,4 +313,4 @@ Ja: Fronius (sinds 2023), Sungrow, Huawei (vanaf firmware 2024.06). Niet met goe
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

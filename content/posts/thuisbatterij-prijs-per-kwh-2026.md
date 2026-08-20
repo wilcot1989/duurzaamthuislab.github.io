@@ -1,7 +1,7 @@
 ---
 title: 'Thuisbatterij prijs per kWh 2026: complete prijsanalyse +'
 date: 2026-05-11 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Wat betaal je per kWh thuisbatterijcapaciteit in 2026? Volledige prijsanalyse van alle merken plus prognose voor 2027 en advies wanneer kopen.
 categories:
 - thuisbatterijen
@@ -24,13 +24,13 @@ faq:
 - q: Wat is de gemiddelde prijs per kWh in 2026?
   a: Voor LFP-thuisbatterijen ligt de prijs in 2026 tussen €326/kWh (Marstek, prijs-leider) en €704/kWh (Tesla Powerwall 3, premium). Gemiddeld zit je rond €500-€600/kWh inclusief installatie. Vorig jaar (2025) was dat ~€670/kWh — daling van 12-15% per jaar is normaal.
 - q: Welke is goedkoper per kWh?
-  a: Marstek Venus E (€326/kWh) is de prijs-kampioen. Tesla Powerwall (€704/kWh) is duurst. Sessy (€600/kWh), Zonneplan (€700/kWh), EcoFlow PowerOcean (€680/kWh), Huawei Luna (€550/kWh) zitten ertussenin. Prijs/kWh is niet alles — service, garantie en automation tellen ook.
+  a: Marstek Venus E (€326/kWh) is de prijs-kampioen. Tesla Powerwall (€704/kWh) is duurst. Sessy (€550/kWh), Zonneplan (€700/kWh), EcoFlow PowerOcean (€680/kWh), Huawei Luna (€550/kWh) zitten ertussenin. Prijs/kWh is niet alles — service, garantie en automation tellen ook.
 - q: Wanneer is de beste tijd om te kopen?
   a: 'Eind 2026 of 2027 is gunstig timing-technisch. Prijzen dalen 12-15% per jaar, maar saldering stopt 1-1-2027 dus je mist 12 maanden besparing als je nog langer wacht. Onze rekenregel: lever je >3000 kWh terug? → nu kopen. <2000 kWh? → wacht tot eind 2027.'
 - q: Daalt de prijs nog meer?
   a: 'Ja. China-overcapaciteit voor LFP-cellen + EU-import stimuleert prijsdaling. Verwachting: 2027 nog 10-12% lager dan 2026, vanaf 2028 vlakker (~5-8% jaarlijks). Bodem rond €200-€250/kWh in 2030.'
 - q: Is goedkoop per kWh altijd beter?
-  a: 'Nee. Marstek (€326/kWh) is goedkoop maar heeft tragere service en geen Nederlandse marktintegratie. Sessy (€600/kWh) kost dubbel maar bespaart je 50+ uur tweaken. Voor de meeste gebruikers: middenklasse (€500-€600/kWh) is sweet spot.'
+  a: 'Nee. Marstek (€326/kWh) is goedkoop maar heeft tragere service en geen Nederlandse marktintegratie. Sessy (€550/kWh) kost dubbel maar bespaart je 50+ uur tweaken. Voor de meeste gebruikers: middenklasse (€500-€600/kWh) is sweet spot.'
 - q: Wat verklaart de prijsverschillen?
   a: 'Drie factoren: (1) batterij-cellen — Tesla gebruikt premium NMC, Marstek goedkopere LFP, (2) automation/software — Sessy heeft eigen NL-trading-algoritme dat €100-€200/kWh extra waard is, (3) garantie + service — Tesla heeft 10 jaar wereldwijde dealer-netwerk, Marstek lokale distributeurs.'
 - q: Hebben prijzen impact van saldering-stop in 2027?
@@ -43,7 +43,7 @@ products:
   price: '2299'
 - name: Sessy 10 kWh (mid)
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  price: '5500'
 - name: Tesla Powerwall 3 (premium)
   url: https://www.tesla.com/nl_nl/powerwall
   price: '9500'
@@ -53,7 +53,7 @@ Voor dit artikel zijn de prijzen van twaalf thuisbatterijen naast elkaar gelegd 
 
 Maar wat verklaart die spreiding? Welke batterij is het waard? En wanneer is het beste moment om te kopen? Hieronder de volledige prijsanalyse.
 
-*Cijfers april 2026, inclusief installatie en BTW (0% sinds 2024).*
+*Cijfers april 2026: consumentenprijzen inclusief 21% btw, waar aangegeven inclusief installatie.*
 
 ---
 
@@ -66,7 +66,7 @@ Maar wat verklaart die spreiding? Welke batterij is het waard? En wanneer is het
 
 ## Hoe deze cijfers zijn opgebouwd
 
-De genoemde prijzen komen uit de publiek gepubliceerde consumentenprijzen van fabrikanten en Nederlandse dealers, aangevuld met de gangbare bandbreedte voor installatiekosten. Het zijn dus indicatieve marktprijzen inclusief installatie en BTW-vrij (0% BTW geldt voor thuisbatterijen in combinatie met zonnepanelen, per 2024). Wat een installateur jou concreet rekent, kan afwijken — vraag altijd minimaal twee offertes op.
+De genoemde prijzen komen uit de publiek gepubliceerde consumentenprijzen van fabrikanten en Nederlandse dealers, aangevuld met de gangbare bandbreedte voor installatiekosten. Het zijn dus indicatieve marktprijzen inclusief installatie en inclusief 21% btw — het btw-tarief dat op een thuisbatterij van toepassing is. Wat een installateur jou concreet rekent, kan afwijken — vraag altijd minimaal twee offertes op.
 
 We gebruiken twee maatstaven:
 1. **€/usable kWh**: de prijs gedeeld door de bruikbare capaciteit, niet de nominale
@@ -127,34 +127,29 @@ Tien jaar garantie op papier is niet hetzelfde als tien jaar garantie in de prak
 
 ---
 
-## Invloed van ISDE 2026 op de prijsvergelijking
+## Subsidie en btw: wat je niet mag meerekenen
 
-Let op: de FAQ hierboven (en sommige andere artikelen) noemen ISDE-subsidie voor thuisbatterijen. Stand van zaken april 2026: **thuisbatterijen vallen nog NIET onder ISDE**. De ISDE dekt warmtepompen, zonneboilers en pelletketels — niet thuisbatterijen.
+Twee posten die je in prijsvergelijkingen vaak ten onrechte ziet opduiken.
 
-Er zijn indicaties dat dit per 2027 verandert (regeerakkoord), maar niets is definitief. Houd hier rekening mee in je berekening: de huidige "subsidie" is de 0% BTW-regeling, niet ISDE.
+**Geen ISDE voor batterijen.** De ISDE voor woningeigenaren dekt volgens de [RVO](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) isolatie, ventilatie in combinatie met isolatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Thuisbatterijen — en ook zonnepanelen en laadpalen — vallen erbuiten. Er is dus geen subsidiebedrag per kWh opslag om van je investering af te trekken. Wat wél kan bestaan zijn gemeentelijke of provinciale regelingen; die verschillen per regio en per jaar, dus check je gemeentewebsite vóór je bestelt.
 
-De 0% BTW effect per merk:
+**Geen 0% btw op de batterij.** Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Het nultarief geldt wel voor de panelen zelf plus wat direct nodig is om die te laten werken: kabels, montagemateriaal, optimizers, omvormers en aanpassingen aan meterkast en dak.
 
-| Merk | Prijs incl. install. | BTW-besparing vs 21% |
-|---|---|---|
-| Marstek Venus E | €2.679 | €558 |
-| Sessy 10 kWh | €5.995 | €1.249 |
-| EcoFlow PowerOcean | €6.800 | €1.416 |
-| Tesla Powerwall 3 | €9.500 | €1.980 |
+Dat betekent voor de vergelijking: de prijzen in dit artikel zijn consumentenprijzen inclusief die 21%, en dat geldt voor elk merk gelijk. Er is dus geen merk dat via een btw-constructie relatief goedkoper uitkomt.
 
-De 0% BTW maakt de relatieve prijsverschillen kleiner: Tesla's €1.980 voordeel vs Marstek's €558 voordeel. Maar het absolute verschil blijft enorm.
+Eén situatie waarin btw wel terug kan komen: lever je stroom terug en ben je daarvoor btw-ondernemer, dan kun je onder voorwaarden — waaronder een energiemanagementsysteem en een dynamisch contract — btw op de aanschaf terugvragen, waarbij je ook btw afdraagt over je terugleververgoeding. Dat is administratief werk met eigen voorwaarden; check je situatie op belastingdienst.nl.
 
 ---
 
 ## De grote prijsanalyse — alle 7 systemen
 
-| Merk | Capaciteit | Prijs incl. installatie | **€/kWh** | Verbruik vermogen |
+| Merk | Capaciteit | Prijs (Sessy excl. installatie) | **€/kWh** | Verbruik vermogen |
 |---|---|---|---|---|
 | Marstek Venus A | 5,12 kWh | €1.799 | **€351** | 1,5 kW |
 | Marstek Venus E | 8,2 kWh | €2.679 | **€326** | 3,0 kW |
 | Huawei Luna 2000 | 10 kWh | €5.500 | **€550** | 5,0 kW |
 | BYD Battery-Box Premium | 10,2 kWh | €5.800 | **€569** | 5,0 kW |
-| Sessy 10 kWh | 10 kWh | €5.995 | **€600** | 2,5 kW |
+| Sessy 10 kWh | 10 kWh | €5.500 | **€550** | 2,5 kW |
 | EcoFlow PowerOcean | 10 kWh | €6.800 | **€680** | 5,0 kW |
 | Zonneplan thuisbatterij | 10 kWh | €6.995 | **€700** | 3,0 kW |
 | Tesla Powerwall 3 | 13,5 kWh | €9.500 | **€704** | 5,0 kW |
@@ -209,7 +204,7 @@ Voor wie warmtepomp + EV + inductie tegelijk gebruikt: kies hoger vermogen, dus 
 | Merk | 2024 €/kWh | 2025 €/kWh | 2026 €/kWh | Verandering |
 |---|---|---|---|---|
 | Marstek Venus E | n.v.t. | €389 | €326 | -16% |
-| Sessy 10 kWh | €750 | €690 | €600 | -20% over 2 jaar |
+| Sessy 10 kWh | €750 | €690 | €550 | -27% over 2 jaar |
 | Tesla Powerwall (Pack-update vs 3) | €820 | €750 | €704 | -14% over 2 jaar |
 | Zonneplan | €820 | €760 | €700 | -15% over 2 jaar |
 
@@ -220,7 +215,7 @@ Prijsontwikkeling per merk helpt je begrijpen of je nu op een goed moment zit of
 | Merk | 2024 | 2025 | 2026 | Prognose 2027 | Prognose 2028 |
 |---|---|---|---|---|---|
 | Marstek Venus E | n.v.t. | €389/kWh | €326/kWh | €290/kWh | €260/kWh |
-| Sessy 10 kWh | €750/kWh | €690/kWh | €600/kWh | €530/kWh | €480/kWh |
+| Sessy 10 kWh | €750/kWh | €690/kWh | €550/kWh | €490/kWh | €440/kWh |
 | Huawei Luna 2000 | €680/kWh | €620/kWh | €550/kWh | €490/kWh | €440/kWh |
 | BYD Battery-Box | €700/kWh | €640/kWh | €569/kWh | €510/kWh | €460/kWh |
 | Tesla Powerwall 3 | €820/kWh | €750/kWh | €704/kWh | €640/kWh | €580/kWh |
@@ -290,8 +285,8 @@ Onderstaand rekenmodel laat zien hoe de prijs per kWh de terugverdientijd beïnv
 |---|---|---|---|
 | €326/kWh (Marstek) | €3.260 | 4,1 jaar | €4.740 winst |
 | €400/kWh (tussensegment) | €4.000 | 5,0 jaar | €4.000 winst |
-| €550/kWh (Huawei Luna) | €5.500 | 6,9 jaar | €2.500 winst |
-| €600/kWh (Sessy) | €6.000 | 7,5 jaar | €2.000 winst |
+| €550/kWh (Huawei Luna, Sessy) | €5.500 | 6,9 jaar | €2.500 winst |
+| €600/kWh (tussensegment) | €6.000 | 7,5 jaar | €2.000 winst |
 | €700/kWh (Zonneplan/EcoFlow) | €7.000 | 8,75 jaar | €1.000 winst |
 | €704/kWh (Tesla) | €7.040 | 8,8 jaar | €960 winst |
 
@@ -327,15 +322,15 @@ Om de Nederlandse prijzen in context te plaatsen: hoe liggen die vs andere lande
 
 | Land | Gem. prijs/kWh (excl. subsidie) | Subsidie-situatie |
 |---|---|---|
-| Nederland | €326-€704/kWh | 0% BTW; geen landelijke ISDE |
+| Nederland | €326-€704/kWh | Geen landelijke subsidie; 21% btw |
 | Duitsland | €400-€750/kWh | Deelstaat-subsidies tot €1.500 |
 | België | €380-€700/kWh | Mijn VerbouwPremie (Vlaanderen) €1.500 |
 | Frankrijk | €450-€800/kWh | Beperkte subsidie |
 | VK | £350-£650/kWh | 0% BTW op installatie |
 
-Nederland heeft met 0% BTW een van de gunstigste belastingregimes voor thuisbatterijen in Europa. Onze bruto prijzen zijn vergelijkbaar met Duitsland, maar de netto kosten zijn lager dankzij de BTW-vrijstelling.
+Nederlandse bruto prijzen liggen onder het Duitse niveau, maar Nederland is voor batterijkopers fiscaal juist níet gunstig: er is geen landelijke subsidie en het volle btw-tarief van 21% is van toepassing. In Duitsland en Vlaanderen kan een regionale premie de netto prijs juist wel omlaag brengen.
 
-Dat de ISDE thuisbatterijen nog niet dekt (waar Duitsland in sommige deelstaten wél directe subsidie heeft), is een tekortkoming. Maar de 0% BTW pakt al beter uit dan het gemiddelde Europese equivalentniveau.
+Wie hier iets van wil terugzien, is aangewezen op gemeentelijke of provinciale regelingen. Reken in je businesscase dus met de volle prijs; alles wat er lokaal bij komt is meevaller.
 
 ---
 
@@ -349,11 +344,11 @@ Rekenvoorbeeld met de volgende aannames: een huishouden met 3.800 kWh verbruik p
 - Terugverdientijd: 3,6 jaar
 - Netto na 10 jaar: **€4.821 voordeel**
 
-**Scenario 2: Sessy 10 kWh (€600/kWh, totaal €5.995)**
+**Scenario 2: Sessy 10 kWh (€550/kWh, totaal €5.500 incl. btw, excl. installatie — prijspeil aug 2026)**
 - Absorbeert ~2.000 kWh van de teruglevering
 - Jaarlijkse besparing: €830 (iets hoger door betere automatie)
-- Terugverdientijd: 7,2 jaar
-- Netto na 10 jaar: **€2.305 voordeel**
+- Terugverdientijd: 6,6 jaar (modelberekening)
+- Netto na 10 jaar: **€2.800 voordeel**
 
 **Scenario 3: Tesla Powerwall 3 (€704/kWh, totaal €9.500)**
 - Absorbeert ~2.300 kWh van de teruglevering (13,5 kWh capaciteit)
@@ -361,7 +356,7 @@ Rekenvoorbeeld met de volgende aannames: een huishouden met 3.800 kWh verbruik p
 - Terugverdientijd: 10,1 jaar
 - Netto na 10 jaar: **€-100 (quitte)**
 
-In dit model levert Marstek over 10 jaar circa €2.500 meer op dan Sessy en circa €4.900 meer dan Tesla. De prijs/kWh is de meest bepalende variabele voor de langetermijn-financiële uitkomst.
+In dit model levert Marstek over 10 jaar circa €2.000 meer op dan Sessy en circa €4.900 meer dan Tesla. De prijs/kWh is de meest bepalende variabele voor de langetermijn-financiële uitkomst.
 
 ---
 
@@ -370,8 +365,8 @@ In dit model levert Marstek over 10 jaar circa €2.500 meer op dan Sessy en cir
 ### Beste prijs/kWh (€326/kWh)
 **Marstek Venus E 8,2 kWh** voor €2.679. Snelste terugverdientijd (3-4 jaar). Geschikt voor smart-home liefhebbers met Home Assistant. <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a>
 
-### Beste prijs/kWaliteit (€600/kWh)
-**Sessy 10 kWh** voor €5.995. Sweet spot van NL-service, automation, en prijs. Voor de gemiddelde gebruiker. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a>
+### Beste prijs/kWaliteit (€550/kWh)
+**Sessy 10 kWh** voor €5.500 (incl. btw, excl. installatie). Sweet spot van NL-service, automation, en prijs. Voor de gemiddelde gebruiker. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a>
 
 ### Beste premium ervaring (€700/kWh)
 **Zonneplan thuisbatterij** voor €6.995 of lease €54/mnd. Voor wie alles van één partij wil. <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Zonneplan</a>
@@ -384,7 +379,7 @@ In dit model levert Marstek over 10 jaar circa €2.500 meer op dan Sessy en cir
 ## Veelgestelde vragen over prijs per kWh
 
 **Hoe bereken ik zelf de prijs per kWh van een offerte?**
-Neem de totale offerteprijs (inclusief installatie, inclusief eventuele omvormer-kosten, exclusief gemeentelijke subsidies). Deel dit door de usable kWh van de batterij. Vergelijk dat getal met de tabel hierboven. Let op: controleer altijd of BTW al is verrekend (bij thuisbatterijen moet dat 0% zijn).
+Neem de totale offerteprijs (inclusief installatie, inclusief eventuele omvormer-kosten, exclusief gemeentelijke subsidies). Deel dit door de usable kWh van de batterij. Vergelijk dat getal met de tabel hierboven. Let op: controleer of de offerte inclusief of exclusief btw is — op een thuisbatterij geldt 21%, dus een prijs exclusief btw ziet er ruim een vijfde gunstiger uit dan hij is.
 
 **Maakt het uit of ik leas of koop voor de prijs/kWh-vergelijking?**
 Ja. Bij lease betaal je geen vaste prijs/kWh maar een maandelijks bedrag. Omgerekend: Zonneplan lease €54/mnd × 120 maanden = €6.480 totaal voor 10 kWh = €648/kWh over de looptijd. Duurder per kWh dan koop, maar met service inbegrepen.
@@ -407,7 +402,7 @@ Thuisbatterij prijzen in 2026 lopen van €326 tot €704 per kWh. De spreiding 
 - **Alles van één partij**: Zonneplan (lease aantrekkelijk)
 - **Wachten op betere prijs**: niet bij groot teruglevervolume — saldering-stop 1-1-2027 maakt elke maand uitstel duur
 
-Voor de gemiddelde Nederlander in 2026: Sessy 10 kWh of Marstek Venus E. Met hét lage BTW-tarief en mogelijke gemeentesubsidie kom je voor €2.000-€5.500 weg.
+Voor de gemiddelde Nederlander in 2026: Sessy 10 kWh of Marstek Venus E. Inclusief 21% btw en zonder landelijke subsidie kom je daarmee op €2.700-€5.500; een eventuele gemeentelijke regeling gaat daar nog van af.
 
 Prijzen dalen structureel maar niet gelijkmatig. De verwachte bodem van €200-€250/kWh in 2030 lijkt realistisch op basis van grondstoffenprijzen voor lithium en ijzerfosfaat. Maar wachten tot 2030 kost je 4 jaar aan misgelopen besparing — bij €700/jaar is dat €2.800 verloren voordeel. De netto afweging wijst bijna altijd naar nu kopen, niet later.
 
@@ -432,4 +427,4 @@ Uiteindelijk is €/kWh een hulpmiddel — gebruik het, maar combineer het met j
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

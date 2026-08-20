@@ -1,8 +1,8 @@
 ---
-title: 'SolarEdge vs Enphase 2026: Welke Omvormer is Beter?'
+title: 'SolarEdge vs Enphase 2026: systeem vergelijken en omvormer kiezen'
 date: 2026-04-18 10:00:00+01:00
-lastmod: 2026-08-19 08:00:00+02:00
-description: 'SolarEdge vs Enphase vergeleken: technologie, prijs, monitoring en betrouwbaarheid. Ontdek welke omvormer het beste past bij jouw zonnepanelen-installatie.'
+lastmod: 2026-08-20 08:00:00+02:00
+description: 'SolarEdge en Enphase als compleet systeem vergelijken: omvormer, optimizers en thuisbatterij, met de prijsopbouw per component en 1-fase versus 3-fase.'
 categories:
 - zonnepanelen
 tags:
@@ -13,6 +13,9 @@ tags:
 - zonnepanelen
 keywords:
 - SolarEdge vs Enphase
+- solaredge systeem vergelijking
+- solaredge systeem samenstellen
+- enphase thuisbatterij prijs
 - omvormer vergelijking
 - micro-omvormer
 - power optimizer
@@ -29,7 +32,7 @@ faq:
 - q: Welke omvormer is betrouwbaarder?
   a: 'Enphase micro-omvormers hebben geen single point of failure: als één micro-omvormer uitvalt, werken de andere gewoon door. Bij SolarEdge kan een defecte centrale omvormer je hele systeem platleggen. Enphase geeft zelf een gemiddelde uitvalrate op van minder dan 0,05% per jaar.'
 - q: Kan ik een thuisbatterij koppelen aan SolarEdge en Enphase?
-  a: Ja, beide merken bieden eigen batterijoplossingen. SolarEdge heeft de Home Battery (4,6-23 kWh) en Enphase de IQ Battery (3,36-42 kWh). Beide integreren naadloos met hun eigen omvormersysteem.
+  a: 'Ja, beide merken hebben een eigen batterij. SolarEdge Home Battery 48V heeft volgens de fabrikant 4,85 kWh bruikbare capaciteit per module en is stapelbaar tot vijf modules, samen 23 kWh; hij werkt met de SolarEdge Home Wave- en Home Hub-omvormers. Enphase levert in Nederland de IQ Battery 5P met FlexPhase: 5,0 kWh bruikbaar, 3,84 kVA continu vermogen en 15 jaar garantie tot 6.000 cycli, geschikt voor zowel 1-fase als 3-fase met dezelfde hardware. Consumentenprijzen publiceren beide fabrikanten niet — die krijg je via een installateur of distributiepartner.'
 - q: Welke omvormer is beter bij schaduw?
   a: Beide presteren goed bij gedeeltelijke schaduw omdat ze op paneelniveau optimaliseren. SolarEdge power optimizers zorgen ervoor dat schaduw op één paneel niet de hele string beïnvloedt. Enphase micro-omvormers werken volledig onafhankelijk, wat bij complexe schaduwsituaties een licht voordeel geeft.
 - q: Hoe lang is de garantie op SolarEdge en Enphase?
@@ -52,9 +55,7 @@ Bekijk ook ons overzicht van de [beste omvormers voor zonnepanelen](/posts/beste
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
-> **Kort antwoord:** SolarEdge vs Enphase vergeleken: technologie, prijs, monitoring en betrouwbaarheid. Ontdek welke omvormer het beste past bij jouw zonnepanelen-installatie.
->
-> SolarEdge gebruikt een centrale string-omvormer met power optimizers per paneel. Enphase gebruikt micro-omvormers die elk paneel individueel omzetten. SolarEdge is goedkoper, Enphase is flexibeler en heeft geen single point of failure.
+> **Kort antwoord:** je vergelijkt deze twee merken zelden op één component, maar als compleet systeem. SolarEdge = één centrale omvormer plus een power optimizer per paneel, optioneel uitgebreid met de SolarEdge Home Battery; Enphase = een micro-omvormer per paneel, optioneel met een IQ Battery. SolarEdge is bij aanschaf goedkoper, Enphase is flexibeler, makkelijker uit te breiden en heeft geen single point of failure. Hoe je zo'n systeem component voor component samenstelt — inclusief 1-fase versus 3-fase — staat verderop in dit artikel.
 
 ## Technologie: hoe werken ze?
 
@@ -88,7 +89,7 @@ Enphase plaatst een **micro-omvormer** onder elk zonnepaneel. Elke micro-omvorme
 | **Monitoring** | Per paneel | Per paneel |
 | **Single point of failure** | Ja (centrale omvormer) | Nee |
 | **Geschikt bij schaduw** | ✅ Goed | ✅ Zeer goed |
-| **Thuisbatterij** | SolarEdge Home Battery | Enphase IQ Battery |
+| **Thuisbatterij** | Home Battery 48V (4,85 kWh/module, tot 23 kWh) | IQ Battery 5P (5,0 kWh/module) |
 | **Uitbreidbaar** | Beperkt (omvormer bepaalt max) | Eenvoudig (paneel voor paneel) |
 | **Installatie** | Complex (DC-bedrading) | Eenvoudiger (AC-bedrading) |
 
@@ -101,7 +102,7 @@ Enphase plaatst een **micro-omvormer** onder elk zonnepaneel. Elke micro-omvorme
 | **Omvormer (SE3000H-SE6000H)** | €600-€1.200 | Afhankelijk van vermogen |
 | **Power Optimizer (per stuk)** | €40-€60 | 1 per paneel |
 | **10 panelen totaal** | €1.000-€1.800 | Omvormer + 10 optimizers |
-| **SolarEdge Home Battery (9,7 kWh)** | €4.000-€5.500 | Optioneel |
+| **SolarEdge Home Battery 48V (2 modules, 9,7 kWh)** | €4.000-€5.500 | Optioneel; marktindicatie, SolarEdge publiceert geen prijs |
 
 ### Enphase kosten (2026)
 
@@ -110,7 +111,7 @@ Enphase plaatst een **micro-omvormer** onder elk zonnepaneel. Elke micro-omvorme
 | **IQ8+ micro-omvormer (per stuk)** | €150-€200 | 1 per paneel |
 | **IQ Gateway (Envoy)** | €300-€400 | Communicatiemodule (1 per systeem) |
 | **10 panelen totaal** | €1.800-€2.400 | 10 micro's + gateway |
-| **Enphase IQ Battery (10,08 kWh)** | €5.000-€7.000 | Optioneel |
+| **Enphase IQ Battery 5P (2 modules, 10 kWh)** | €5.000-€7.000 | Optioneel; marktindicatie, Enphase publiceert geen prijs |
 
 ### Prijsverschil over de levensduur
 
@@ -123,6 +124,63 @@ Het prijsverschil bij aanschaf is €500-€800 in het voordeel van SolarEdge. M
 | Garantieverlenging tot 25 jaar | €1.400 + €300 = **€1.700** | €2.100 |
 
 **Conclusie prijs:** SolarEdge is goedkoper bij aanschaf. Over 25 jaar gerekend is het verschil kleiner, vooral als je de SolarEdge garantie moet verlengen of een omvormer moet vervangen.
+
+## SolarEdge-systeem samenstellen: omvormer + batterij + optimizers
+
+Wie SolarEdge en Enphase vergelijkt, vergelijkt in de praktijk geen twee omvormers maar twee systemen. Bij SolarEdge bepaalt de omvormer die je nu kiest wat je later nog kunt toevoegen — en daar gaat het in offertes het vaakst mis. Hieronder de opbouw, met per onderdeel wat SolarEdge zelf publiceert (peildatum 20 augustus 2026) en waar je op de installateur bent aangewezen.
+
+### De vier bouwstenen
+
+| Bouwsteen | Wat je kiest | Bepaalt |
+|---|---|---|
+| Omvormer | Home Wave of Home Hub, in 1-fase of 3-fase | maximaal systeemvermogen én of je later een batterij kunt aansluiten |
+| Power optimizers | één per paneel | opbrengst per paneel bij schaduw, en monitoring op paneelniveau |
+| Thuisbatterij | SolarEdge Home Battery 48V, per module bij te plaatsen | hoeveel je kunt opslaan en verschuiven |
+| Back-upvoorziening | aparte unit, optioneel | of je bij netuitval nog stroom hebt |
+
+**Het onderscheid Wave versus Hub is de belangrijkste beslissing.** De SolarEdge Home Battery 48V werkt met de SolarEdge Home Wave- en Home Hub-omvormers; kies je een omvormer buiten die lijn, dan is DC-gekoppelde opslag later geen optie meer en blijft alleen een losse AC-batterij over. Wie de batterij nu nog niet neemt maar hem binnen tien jaar verwacht, koopt dus beter meteen een omvormer die het aankan — dat is goedkoper dan later een omvormer vervangen.
+
+**1-fase of 3-fase.** SolarEdge levert zijn residentiële omvormers in beide uitvoeringen, en dat is geen vrije keuze: het volgt uit je meterkast. Twee aandachtspunten die installateurs niet altijd benoemen:
+
+- Bij een **3-fase** aansluiting moet de omvormer 3-fase zijn; een 1-fase omvormer op een 3-fase aansluiting levert alles op één fase, wat bij grotere systemen tot onbalans en soms tot problemen met de netbeheerder leidt.
+- De **bruikbare batterijcapaciteit hangt aan de omvormer.** SolarEdge verhoogde de bruikbare capaciteit van de Home Battery 48V per januari 2025 van 4,6 naar **4,85 kWh** — maar volgens SolarEdge geldt die verhoging alleen op locaties waar de batterij op een 3-fase Hub-omvormer is aangesloten die na januari 2025 is geactiveerd. Dezelfde batterij levert dus niet in elke opstelling hetzelfde.
+
+**Stapelen.** Met vijf modules van 4,85 kWh kom je op **23 kWh** totale opslagcapaciteit. Dat is de bovengrens van deze lijn; wie meer wil, komt bij een ander systeem uit.
+
+### Prijsopbouw: waar het geld in gaat zitten
+
+SolarEdge publiceert geen consumentenprijzen — die komen van de installateur of distributeur, en verschillen per inkoopkanaal. Wat je wél kunt doen, is de offerte langs de posten hieronder leggen en per post vragen waar het bedrag op is gebaseerd:
+
+1. **De omvormer**, als vast bedrag. Eén post, één keer.
+2. **De optimizers**, als bedrag × aantal panelen. Dit schaalt lineair met de systeemgrootte — bij 20 panelen is het een substantiële post die bij een string-omvormer zonder optimizers wegvalt.
+3. **De batterijmodules**, als bedrag × aantal modules. Let hier op de prijs per kWh: die daalt doorgaans bij meer modules, omdat installatie en aansluiting eenmalige kosten zijn.
+4. **De back-upvoorziening**, als aparte post. Deze staat er vaak niet in tenzij je erom vraagt, en veel mensen denken dat noodstroom standaard meekomt.
+5. **Arbeid en materiaal**, dat bij beide merken vergelijkbaar is en dus buiten de merkvergelijking valt.
+
+De bandbreedtes in de prijstabellen eerder in dit artikel zijn marktindicaties van installateurs, geen fabrieksprijzen. Gebruik ze om te toetsen of een offerte binnen de gangbare orde valt — niet om erover te onderhandelen als vaststaand bedrag.
+
+**Onze inschatting:** voor een eenvoudig dak zonder batterijplannen is een SolarEdge-systeem de scherpste keuze, omdat je één omvormer plus optimizers koopt en niets meer. Zodra opslag, noodstroom of latere uitbreiding in beeld komt, verschuift de vergelijking: dan koop je eigenlijk een platform, en telt de vraag welk platform in tien jaar nog past.
+
+## Enphase thuisbatterij: prijs kort
+
+Deze vraag komt zo vaak op deze pagina terecht dat het antwoord hier hoort te staan, kort en zonder omhaal.
+
+**Het antwoord in één alinea:** Enphase publiceert geen consumentenprijs. Op de Nederlandse productpagina van de IQ Battery 5P met FlexPhase staat geen bedrag; Enphase verwijst je naar een distributiepartner of installateur. Wat je aan een reële prijs kwijt bent, hangt daarom af van het aantal modules, of de omvormer- en gateway-kant er al staat, en van de installateur. Reken bij het vergelijken van offertes met de prijs **per bruikbare kWh inclusief installatie** — dat is de enige maat waarmee je Enphase, SolarEdge en losse merken naast elkaar kunt zetten.
+
+**Wat wél vaststaat, uit de specificaties van Enphase zelf:**
+
+| Specificatie | IQ Battery 5P met FlexPhase |
+|---|---|
+| Bruikbare capaciteit | 5,0 kWh per module |
+| Continu vermogen | 3,84 kVA |
+| Koppeling | AC — werkt ook bij een bestaand systeem van een ander merk |
+| Fasen | geschikt voor 1-fase én 3-fase met dezelfde hardware |
+| Garantie | 15 jaar, tot 6.000 cycli |
+| Prijs | niet gepubliceerd; via distributiepartner |
+
+Twee dingen om hierbij scherp te houden. Ten eerste: de **15 jaar** garantie op de batterij is niet dezelfde termijn als de 25 jaar op de micro-omvormers — dat wordt regelmatig door elkaar gehaald in vergelijkingen. Ten tweede: dat FlexPhase 1-fase en 3-fase met identieke hardware afhandelt, is een reëel praktisch voordeel. Bij een verbouwing of een wijziging van je aansluiting hoef je de batterij niet te vervangen, en je installateur hoeft geen fase-specifieke variant op voorraad te hebben.
+
+Voor de volledige uitwerking — capaciteit stapelen, noodstroom, installatie-eisen en hoe de 5P zich verhoudt tot losse merken — zie onze [Enphase IQ Battery 5P review](/posts/enphase-iq-battery-5p-review-2026/).
 
 ## Monitoring en app
 
@@ -193,17 +251,18 @@ Beide systemen presteren beter dan traditionele string-omvormers (zonder optimiz
 
 ## Thuisbatterij-integratie
 
-### SolarEdge Home Battery
-- Capaciteit: 4,6 kWh of 9,7 kWh (stapelbaar tot 23 kWh)
-- Prijs: €3.000-€5.500
+### SolarEdge Home Battery 48V
+- Bruikbare capaciteit: 4,85 kWh per module, stapelbaar tot vijf modules = 23 kWh
+- Prijs: niet door SolarEdge gepubliceerd; marktindicaties zie de prijstabellen hierboven
 - DC-gekoppeld: hogere rond-trip efficiëntie dan AC-koppeling
-- Vereist SolarEdge omvormer
+- Vereist een SolarEdge Home Wave- of Home Hub-omvormer (1-fase of 3-fase)
 
-### Enphase IQ Battery
-- Capaciteit: 3,36 kWh per module (stapelbaar tot 42 kWh)
-- Prijs: €4.000-€7.000 (voor 10 kWh)
-- AC-gekoppeld: iets lagere efficiëntie (rond-trip 89%)
-- Werkt met elk merk omvormer (ook retrofit)
+### Enphase IQ Battery 5P
+- Bruikbare capaciteit: 5,0 kWh per module, uit te breiden met extra modules
+- Continu vermogen: 3,84 kVA; garantie 15 jaar tot 6.000 cycli
+- Prijs: niet door Enphase gepubliceerd; via distributiepartner of installateur
+- AC-gekoppeld: iets lagere efficiëntie dan DC-koppeling
+- Werkt met elk merk omvormer (ook retrofit) en met FlexPhase op 1-fase én 3-fase
 
 **Batterij oordeel:** SolarEdge heeft een iets hogere efficiëntie dankzij DC-koppeling. Enphase is flexibeler en werkt ook als je later wilt toevoegen of als je een ander merk omvormer hebt.
 
@@ -341,10 +400,10 @@ Voor vanlife of off-grid is een powerstation (EcoFlow, Jackery, Bluetti) gecombi
 
 Na de saldering-stop (2027) wordt een thuisbatterij steeds relevanter. De keuze van omvormer bepaalt welke batterij je kunt koppelen.
 
-**SolarEdge + SolarEdge Home Battery:**
-- DC-gekoppeld via Energy Hub omvormer (vervanger van SE HD-Wave)
+**SolarEdge + SolarEdge Home Battery 48V:**
+- DC-gekoppeld via een Home Hub- of Home Wave-omvormer
 - Rond-trip efficiëntie: ~92-94%
-- Beschikbare capaciteiten: 9,7 kWh module, stapelbaar
+- Bruikbare capaciteit 4,85 kWh per module, stapelbaar tot 23 kWh (5 modules)
 - Voordeel: hoogste efficiëntie, geen extra omvormer nodig
 - Nadeel: vergt SolarEdge Energy Hub omvormer (duurder dan SE HD-Wave), niet elk bestaand SolarEdge systeem is compatibel
 

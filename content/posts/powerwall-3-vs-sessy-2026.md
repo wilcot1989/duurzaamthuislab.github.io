@@ -188,9 +188,9 @@ Voor een uitgebreidere ROI-berekening zie [ROI thuisbatterij na saldering 2027 b
 
 ## Subsidies in 2026
 
-Beide batterijen hebben in 2026 nog geen ISDE-subsidie (thuisbatterijen vallen er niet onder). Wel kun je via sommige gemeentes een duurzaamheidslening krijgen tegen 1,5-2,5 procent rente. Bekijk je opties via <a href="https://go.duurzaamthuislab.nl/isde" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">RVO en gemeentelijke pagina's</a>.
+Voor geen van beide batterijen bestaat een ISDE-subsidie: de ISDE voor woningeigenaren dekt isolatie, ventilatie (samen met isolatie), (hybride) warmtepompen, zonneboilers, een warmtenet-aansluiting en elektrisch koken — geen thuisbatterijen. Ook het btw-nultarief helpt niet: dat geldt voor zonnepanelen en de installatie daarvan, en de Belastingdienst zondert de levering en installatie van een accupakket of thuisbatterij daar expliciet van uit. Op de batterij betaal je dus 21% btw, ook bij gelijktijdige aanschaf met panelen. Wel kun je via sommige gemeentes een duurzaamheidslening of eigen subsidie krijgen. Bekijk je opties via <a href="https://go.duurzaamthuislab.nl/isde" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">RVO en gemeentelijke pagina's</a>.
 
-Vanaf 2027 verwachten wij aanvullende stimulansen voor batterij-opslag, omdat saldering wegvalt en netcapaciteit een knelpunt wordt. Houd dat in de gaten.
+Of er na 2027 rijksstimulansen voor batterij-opslag komen, is niet bekend; er ligt geen besluit. Reken je businesscase dus door zonder subsidie.
 
 ## Ons advies — wanneer wat?
 
@@ -330,4 +330,4 @@ Verder lezen:
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

@@ -45,7 +45,7 @@ products:
   price: ''
 - name: Sessy thuisbatterij (5 kWh)
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  price: '3550'
 schema_type: Article
 ---
 Een standaardrekensom voor een dak met 14 panelen (5,46 kWp) kwam er jarenlang zo uit: terugverdientijd met saldering circa 7 jaar, zonder saldering circa 11 jaar. De gangbare conclusie was dan ook: installeer zolang de saldering nog geldt.
@@ -168,8 +168,8 @@ Stel: je koopt nu 14 TOPCon-panelen (5,46 kWp) + Sessy-batterij.
 
 **Kosten:**
 - 14 panelen installatie: circa €6.500–€8.500
-- Sessy thuisbatterij: €5.995
-- Totaal: €12.500–€14.500
+- Sessy thuisbatterij: €5.500 incl. btw, excl. installatie (prijspeil aug 2026), plus circa €1.200 basisinstallatie
+- Totaal: €13.200–€15.200
 
 **Opbrengst per jaar (schatting, post-2027 tarieven):**
 - Eigen gebruik dankzij zonnepanelen: 2.800 kWh × €0,30 = €840

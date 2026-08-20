@@ -1,7 +1,7 @@
 ---
 title: 'Frank Energie ervaringen 2026: review, tarieven en nadelen'
 date: 2026-05-05 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Frank Energie ervaringen 2026: wat zeggen gebruikers over de app, tarieven en klantenservice? Review van het dynamische contract, kosten (€5/mnd) en de nadelen.'
 categories:
 - energie
@@ -23,15 +23,19 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Wat is Frank Energie?
-  a: Frank Energie is een Nederlandse energieleverancier opgericht in 2018 door Frank van Boekel. Ze leveren stroom en gas op een dynamisch contract — je betaalt elk uur de actuele EPEX-marktprijs zonder opslag, plus een vast servicegeld van €5,00/maand. Eén van de pioniers van dynamische tarieven in Nederland.
+  a: Frank Energie is een Nederlandse energieleverancier opgericht in 2018 door Frank van Boekel. Ze leveren stroom en gas op een dynamisch contract — je betaalt elk uur de actuele EPEX-marktprijs zonder opslag, plus vaste leveringskosten en een inkoopvergoeding per kWh. Die bedragen publiceert Frank niet op hun site — je vindt ze in je eigen tariefoverzicht of op frankenergie.nl. Eén van de pioniers van dynamische tarieven in Nederland.
 - q: Hoe is Frank Energie anders dan Tibber?
-  a: Beiden bieden dynamisch contract zonder marge op stroomprijs. Frank is Nederlands, heeft telefonische klantenservice, kost €5/mnd servicegeld (vs €5,99 bij Tibber). Tibber heeft betere app, betere EV-integratie en smart home features. Frank is simpeler en transparanter — Tibber is feature-rijker.
+  a: Beiden bieden een dynamisch contract zonder marge op de kale stroomprijs. Frank is Nederlands en heeft telefonische klantenservice; hun vaste leveringskosten publiceren ze niet, dus vergelijk die via frankenergie.nl. Tibber rekent €5,99/maand per energiesoort (stroom en gas apart) plus €0,0248/kWh inkoopvergoeding, en heeft de betere app, EV-integratie en smart home features.
 - q: Heeft Frank Energie een Pulse-achtige sensor?
   a: Frank ondersteunt EnergyZero — een gratis P1-app die werkt met je slimme meter. Geen aparte hardware nodig zoals Tibber Pulse. EnergyZero geeft realtime inzicht en is volledig compatibel met Frank's dynamische tarieven.
 - q: Wat zijn de tarieven?
   a: Frank rekent EPEX day-ahead prijs zonder marge + €5/mnd. Per uur dus tussen -€0,05 en €0,80/kWh, gemiddeld over 2024-2025 ongeveer €0,16/kWh stroom (excl. btw, ode en netbeheer). Vergelijkbaar met Tibber, gem. €0,01/kWh goedkoper door lager servicegeld.
 - q: Werkt Frank goed met zonnepanelen?
-  a: Ja, Frank rekent geen aparte terugleverkosten. Bij teruglevering krijg je het uurtarief, ook als dat negatief is. In de zomer betaal je dus soms (€0,02-0,05/kWh) op zonneoverschot — maar dat wordt ruimschoots gecompenseerd door inkomsten in de avond/nacht.
+  a: 'Ja, maar met twee kanttekeningen die veel vergelijkingen missen. Bij teruglevering krijg je het uurtarief, ook als dat negatief is. Frank rekent daarnaast wél vaste terugleverkosten volgens een staffel (geldig vanaf 1 juni 2025) en op teruglevering geldt een inkoopvergoeding die hóger is dan die op verbruik — dat staat in Franks eigen leeswijzer. Reken dus niet met de kale marktprijs voor wat je terugkrijgt.'
+- q: Hoe zeg ik Frank Energie op?
+  a: 'Frank heeft geen contractduur en geen opzegboete: je kunt maandelijks stoppen via de app, de website of de klantenservice. Stap je over naar een andere leverancier, dan regelt die partij de opzegging bij Frank automatisch — je hoeft dan zelf niets te doen. Zit je nog in een lopend vast contract elders, check dan eerst de opzegvergoeding daar; die is bij traditionele leveranciers gebruikelijk.'
+- q: Hoe bereik je de klantenservice van Frank Energie?
+  a: 'Frank is telefonisch bereikbaar op werkdagen en biedt daarnaast chat en e-mail. Dat is het belangrijkste serviceverschil met Tibber, dat alleen chat aanbiedt. Concrete wachttijden noemen wij niet — die variëren per periode en er is geen doorlopende meting van. Loopt een klacht vast, dan is je route de Geschillencommissie Energie, waarbij alle Nederlandse leveranciers zijn aangesloten.'
 - q: Hoe goed is de klantenservice?
   a: 'Frank heeft écht telefonische klantenservice (werkdagen 9-17u), ook chat. Reactietijd: ~3 minuten chat, telefoon meestal direct. Mensen werken daar in NL, verstaan de NL energiemarkt. Tibber heeft geen telefoon. Voor wie geen tech-affiniteit heeft is Frank prettiger.'
 - q: Kun je makkelijk overstappen?
@@ -50,7 +54,9 @@ products:
   price: '0'
 schema_type: Review
 ---
-> **Frank Energie ervaringen — kort antwoord**
+> **Kort antwoord:** Frank Energie is in 2026 de scherpste dynamische leverancier op pure kosten — geen opslag op de marktprijs, een rekening die je per uur kunt narekenen tegen publieke EPEX-data, en écht telefonische klantenservice. Je betaalt daarvoor met een soberder app en zonder automatische sturing van EV of apparaten: dat regel je zelf. Frank verkoopt zelf geen thuisbatterijen, maar stuurt wel batterijen van andere merken aan. En let op: Frank rekent wél vaste terugleverkosten in een staffel.
+>
+> **Frank Energie ervaringen — de vier terugkerende thema's**
 >
 > **Wat zeggen gebruikers?** In publieke gebruikersreviews en op Nederlandse energiefora komen bij Frank Energie steeds vier dingen terug: de rekening is per uur na te rekenen tegen publieke marktdata, er is écht telefonische klantenservice, de app is functioneel maar soberder dan die van Tibber, en er is geen automatische sturing van EV of apparaten — dat regel je zelf.
 >
@@ -78,12 +84,55 @@ Frank Energie is een Nederlandse energieleverancier opgericht in 2018 door Frank
 
 **De propositie:**
 - Pure EPEX-marktprijs (day-ahead) zonder marge
-- Vast servicegeld van €5,00/maand
+- Vaste leveringskosten per maand plus een inkoopvergoeding per kWh — bedragen niet publiek, zie frankenergie.nl
 - Geen contractduur, maandelijks opzegbaar
 - Voor stroom én gas (gas heeft eigen dynamiek met TTF-tarief)
 - Telefonische klantenservice in NL
 
 **Belangrijkste verschil met traditionele leveranciers**: Eneco/Vattenfall/Essent rekenen €0,30+ per kWh terwijl de inkoopprijs €0,12 is. Frank rekent de €0,12 + servicegeld. Het verschil is voor jou — niet voor de leverancier.
+
+## Frank Energie tarieven: hoe de prijs is opgebouwd
+
+De meest gestelde vraag over Frank is niet "wat kost het", maar "waar bestaat het uit". Dat is een terechte vraag, want bij een dynamisch contract staat er geen tarief in je contract — alleen een rekenregel. Hieronder de opbouw zoals Frank die zelf beschrijft, met daarbij expliciet wat wij wél en niet op hun site konden verifiëren (peildatum 20 augustus 2026).
+
+**De opbouw per kWh stroom:**
+
+| Onderdeel | Wat het is | Wie het bepaalt |
+|---|---|---|
+| Marktprijs | EPEX-prijs, per uur of per kwartier | de markt |
+| Inkoopvergoeding | vaste opslag per kWh voor inkoop- en leveringskosten | Frank |
+| Energiebelasting | €0,11085 per kWh incl. btw (2026, schijf 1; €0,09161 excl. btw) | Belastingdienst |
+| Btw | 21% over het geheel | Rijksoverheid |
+| Netbeheerkosten | vast bedrag per jaar, per aansluiting | je netbeheerder |
+| Vaste leveringskosten | maandelijkse vergoeding voor de dienst | Frank |
+
+Voor gas werkt het hetzelfde, met de **TTF-dagprijs** in plaats van EPEX en een energiebelasting van **€0,7268 per m³** in 2026 (bron: [leeswijzer afrekening](https://www.frankenergie.nl/nl/leeswijzer-afrekening), frankenergie.nl).
+
+**Drie dingen die je hierbij moet weten:**
+
+**1. De inkoopvergoeding en de vaste leveringskosten staan niet op de publieke pagina's.** Frank legt de opbouw uit, maar de actuele bedragen vind je in je eigen tariefoverzicht en op je afrekening, niet in een openbaar tariefblad dat wij konden inzien. De bedragen die in dit artikel en in vergelijkingstabellen op internet rondgaan, zijn dus momentopnames. Controleer ze op frankenergie.nl of in de app voordat je een keuze maakt op basis van een euro of twee verschil per maand.
+
+**2. Op teruglevering betaal je óók een inkoopvergoeding, en die is hoger dan die op verbruik.** Dat staat letterlijk in Franks eigen leeswijzer: *"Ook voor teruglevering betaal je een inkoopvergoeding. Deze is hoger dan de inkoopvergoeding voor verbruik."* Dit is het punt waarop veel vergelijkingen — ook eerdere versies van dit artikel — het mis hadden. Reken bij een groot zonnedak dus niet met de kale marktprijs voor wat je terugkrijgt.
+
+**3. Frank rekent vaste terugleverkosten in een staffel.** Op hun eigen pagina [terugleverkosten](https://www.frankenergie.nl/nl/terugleverkosten) staat dat deze in rekening worden gebracht voor de teruglevering van elektriciteit aan het net, met een staffel die geldt vanaf 1 juni 2025. De tarieftabel zelf staat op die pagina in een afbeelding, dus wij nemen hier geen bedragen over; de voorbeelden op de pagina zelf lopen in de orde van enkele tientjes per jaar. Het beeld "Frank rekent geen terugleverkosten" is dus achterhaald — dat gold bij introductie, niet meer in 2026.
+
+**Wat Frank zelf over de prijs zegt:** op hun pagina met dynamische energieprijzen zet Frank een vast contract (€212 per maand), een variabel contract (€220) en een dynamisch contract (€152) naast elkaar, gebaseerd op *"gemiddelde prijzen van Independer"* met peildatum 08-07-2026. Dat is een berekening van de leverancier zelf voor één verbruiksprofiel — behandel het als richting, niet als jouw uitkomst.
+
+## Frank Energie thuisbatterij: sturing zonder eigen hardware
+
+Dit is de snelst veranderende kant van Franks propositie, en de meest misbegrepen. Het uitgangspunt staat kort en duidelijk op hun eigen site: *"Frank verkoopt géén thuisbatterijen. We zijn onafhankelijk."*
+
+Wat Frank in plaats daarvan doet, bestaat uit drie onderdelen:
+
+**1. Een vergelijker in plaats van een assortiment.** Op de thuisbatterij-pagina van Frank staan tientallen batterijen naast elkaar — bij onze controle 76 modellen — met doorverwijzing naar installatiepartners. Frank verdient dus niet aan de hardware die je kiest, en dat is precies het argument dat ze zelf gebruiken.
+
+**2. Actieve aansturing van batterijen van andere merken.** Frank stuurt een reeks merken direct aan, waaronder AlphaESS, Bliq, Enphase, GivEnergy, Midea, Sessy en Sigenergy; andere merken lopen via integratiepartners (Bliq, Eniris) of staan als "verwacht" op de lijst. Dat maakt Frank interessant voor wie een batterij van een specifiek merk wil zonder in het ecosysteem van één aanbieder te belanden — het verschil met Zonneplan, waar sturing en hardware bij dezelfde partij horen.
+
+**3. Twee sturingsstrategieën, met een expliciete keuze.** Frank onderscheidt **Slim Stroom Handelen** — het algoritme bepaalt automatisch de laad- en ontlaadmomenten op basis van de energiemarkten — en **Zelfconsumptie Plus**, waarbij de batterij vooral je eigen zonnestroom vasthoudt in plaats van te handelen. Dat is een reële keuze: handelen levert bij een grote dagspread meer op, zelfconsumptie is voorspelbaarder en belast de batterij met minder cycli.
+
+**Wat dit oplevert, laten wij open.** Op de pagina van Frank staat een klantcitaat over *"gemiddeld netto €100 per maand"* op de onbalansmarkt. Dat is een quote op de site van de leverancier, geen gemeten gemiddelde over klanten, en de onbalansmarkt is bovendien de meest volatiele bron van opbrengst die er is. De rekenregel die wél houdbaar is: opbrengst = bruikbare capaciteit × aantal cycli × gemiddelde spread na belasting, minus omzetverliezen. Vul die in met de dagspread van de afgelopen weken — die staat op onze pagina met [dynamische stroomprijzen per uur](/stroomprijzen/) — in plaats van met een bedrag uit een advertentie.
+
+**Onze inschatting:** voor wie een batterij wil kopen én zelf het merk wil kiezen, is Frank in 2026 de meest logische partij aan de contractkant. Voor wie één aanspreekpunt wil voor hardware, installatie en sturing is Zonneplan praktischer — zie onze [Zonneplan thuisbatterij review](/posts/zonneplan-thuisbatterij-review-2026/).
 
 ## Modelberekening: all-electric woning met zonnepanelen
 
@@ -110,7 +159,7 @@ Wat wél structureel is en niet van de markt afhangt: bij een dynamisch contract
 
 Geen verstopte marge. De stroomprijs op je rekening = EPEX-prijs. Punt. Je kunt zelf controleren via de openbare day-ahead data.
 
-Bij Eneco Dynamisch zit er €0,015/kWh marge bovenop. Op 4.000 kWh per jaar is dat €60. Klein, maar wel een principe-zaak.
+Bij aanbieders als Eneco Dynamisch zit er een opslag per kWh bovenop de marktprijs. Wat die opslag precies is, hebben wij niet publiek geverifieerd — check eneco.nl. Bij Frank zit de vergoeding in de inkoopvergoeding en de vaste leveringskosten, niet in een verborgen opslag op de marktprijs zelf.
 
 ### 2. App is solide
 
@@ -143,9 +192,9 @@ Eneco/Vattenfall hebben 'voorschotbedragen' die ze tussentijds verhogen. Frank n
 
 Frank levert ook gas op TTF day-ahead. Voor wie nog gas heeft: zelfde transparantie als bij stroom. Volgens Frank's eigen analyse 8-12% goedkoper dan Eneco gas in 2025.
 
-### 7. Zonnepaneel-vriendelijk
+### 7. Zonnepaneel-vriendelijk, maar niet gratis
 
-Geen aparte terugleverkosten. Bij teruglevering krijg je uurtarief. In zomer-overschotsuren dus soms negatief, maar netto over jaar wint Frank ruim van Eneco/Vattenfall die staffel-terugleverkosten rekenen.
+Bij teruglevering krijg je het uurtarief — in zomerse overschotsuren dus soms negatief. Belangrijke correctie op het beeld dat lang rondging: Frank rekent inmiddels **wél** vaste terugleverkosten volgens een staffel (vanaf 1 juni 2025), en de inkoopvergoeding op teruglevering is hoger dan die op verbruik. Zie de tarievensectie hierboven. Het voordeel op teruglevering zit dus in de uurwaardering, niet in het ontbreken van kosten.
 
 ## Wat Frank minder goed doet
 
@@ -181,16 +230,16 @@ Dat is de kern van dynamisch: het risico is beheersbaar, maar alleen als je iets
 
 | Eigenschap | Frank Energie | Tibber |
 |---|---|---|
-| Servicegeld/mnd | €5,00 | €5,99 |
+| Vaste kosten/mnd | Zie frankenergie.nl | €5,99 per energiesoort |
 | App-kwaliteit | 7/10 | 9/10 |
-| Realtime inzicht | EnergyZero (gratis) | Tibber Pulse (€90) |
+| Realtime inzicht | EnergyZero (gratis) | Tibber Pulse (prijs: zie Tibber Store) |
 | EV smart charging | Via 3rd party | Native, top-tier |
 | Smart home automation | Beperkt | Native goed |
 | Klantenservice | Chat + telefoon | Chat-only |
 | Bedrijfsland | Nederland | Noorwegen |
 | Sinds NL | 2018 | 2021 |
-| Marge stroom | 0 | 0 |
-| Jaarbesparing vs Eneco | €750-€900 | €700-€850 |
+| Marge op kale marktprijs | 0 | 0 |
+| Jaarbesparing vs vast contract (model) | €750-€900 | €700-€850 |
 
 **Onze aanbeveling**:
 
@@ -198,7 +247,7 @@ Dat is de kern van dynamisch: het risico is beheersbaar, maar alleen als je iets
 - Geen EV (of EV met laadpaal die je zelf instelt)
 - Wil simpel + transparant + NL-bedrijf
 - Liever telefonisch contact bij vragen
-- €1/mnd minder is je ding
+- Je wil je vaste kosten zelf narekenen op basis van je eigen tariefoverzicht
 
 ✅ **Kies Tibber als**:
 - EV bezitter (compatibel automerk)
@@ -210,9 +259,11 @@ Dat is de kern van dynamisch: het risico is beheersbaar, maar alleen als je iets
 
 ## Frank vs ANWB Energie Dynamisch
 
-Een derde optie. ANWB Dynamisch heeft demping-mechanisme — extreme prijspieken worden afgeromd, je betaalt nooit meer dan €0,40/kWh ook in winterstorm. Maar: ze rekenen €0,015/kWh marge bovenop. Op 4.000 kWh dus €60 duurder per jaar dan Frank.
+Een derde optie, maar niet om de reden die vaak wordt genoemd. Het beeld dat ANWB extreme uurprijzen afkapt op een maximumtarief, hebben wij niet op anwb.nl kunnen verifiëren. Wat ANWB wél doet: werken met een vast maandtermijnbedrag met jaarverrekening. Je uurprijzen volgen de markt, maar je maandlasten blijven gelijk tot de jaarafrekening — dat vlakt je cashflow, het verlaagt je jaarkosten niet.
 
-Voor wie een vangnet wil: ANWB. Voor wie maximale besparing wil: Frank of Tibber.
+De post die je wel kunt vergelijken zijn de inkoopkosten: ANWB rekent €0,018/kWh incl. btw (anwb.nl/energie/actuele-tarieven, peildatum 20 augustus 2026).
+
+Voor wie vlakke maandlasten wil: ANWB. Voor wie maximale besparing wil: Frank of Tibber.
 
 ## Klantenservice: waar het verschil zit
 
@@ -253,7 +304,7 @@ Voor de kwaliteitskant moet je het dus doen met verzamelde gebruikersreviews en 
 
 ## Onze aanbeveling
 
-Voor de gemiddelde Nederlandse zonnepaneelbezitter is Frank Energie in 2026 de slimste keuze: geen marge op de stroomprijs, geen voorschotcorrectie, een Nederlands bedrijf en een rekening die je zelf kunt narekenen. In onze modelberekeningen hierboven scheelt dat €700-€900 per jaar ten opzichte van een vast contract — met de nadrukkelijke kanttekening dat die uitkomst van je verbruiksprofiel en van de prijsspreiding in het jaar afhangt.
+Voor de gemiddelde Nederlandse zonnepaneelbezitter is Frank Energie in 2026 de slimste keuze: een transparante opbouw (kale beursprijs plus een kleine inkoopvergoeding per kWh — zie frankenergie.nl), geen voorschotcorrectie, een Nederlands bedrijf en een rekening die je zelf kunt narekenen. In onze modelberekeningen hierboven scheelt dat €700-€900 per jaar ten opzichte van een vast contract — met de nadrukkelijke kanttekening dat die uitkomst van je verbruiksprofiel en van de prijsspreiding in het jaar afhangt.
 
 Voor EV-bezitters die niet zelf willen instellen: kies Tibber. Hoeveel de native EV-integratie oplevert, hangt af van je jaarkilometers en de spreiding tussen nacht- en dagtarief; reken dat uit met je eigen verbruik in plaats van met een standaardbedrag.
 
@@ -333,11 +384,11 @@ Frank werkt het best als je het combineert met slimme hardware.
 
 Teruglevering bij Frank gebeurt tegen het EPEX-uurtarief. Dat werkt twee kanten op: op uren met veel vraag en weinig zon krijg je een hoog tarief, maar rond het middaguur in het voorjaar, wanneer alle zonnepanelen tegelijk produceren, kan het tarief tot vrijwel niets of zelfs negatief zakken. Wie zijn opwek naar de avond kan verschuiven met een batterij, verzilvert het verschil.
 
-De truc: bij Frank krijg je het volledige marktprijs voor teruglevering, zonder aftrek. Bij sommige andere leveranciers is er een "transport- en balanceringsvergoeding" die ze inhouden op het teruglevertarief. Frank doet dat niet.
+Wat Frank hier goed doet, is de waardering per uur: je teruglevering wordt gewaardeerd tegen de marktprijs van dat moment in plaats van tegen één laag jaartarief. Wat Frank hier níet doet, is het weglaten van kosten: er geldt een inkoopvergoeding op teruglevering (hoger dan die op verbruik) plus een staffel aan vaste terugleverkosten. Neem beide mee in je rekensom, anders overschat je de opbrengst van een groot dak.
 
 ### Frank + thuisbatterij via Home Assistant
 
-Frank heeft geen eigen batterijsturing zoals Zonneplan. Maar via Home Assistant met de Frank Energie integratie (beschikbaar op HACS) kun je je thuisbatterij wel degelijk automatisch laten laden op goedkope uren en ontladen op dure uren.
+Frank stuurt sinds kort wél zelf batterijen aan — zie de sectie [Frank Energie thuisbatterij](#frank-energie-thuisbatterij-sturing-zonder-eigen-hardware) hierboven voor de merkenlijst en de twee strategieën. Staat jouw merk daar niet bij, dan blijft de doe-het-zelf-route open: via Home Assistant met de Frank Energie-integratie (beschikbaar op HACS) laat je de batterij automatisch laden op goedkope uren en ontladen op dure uren.
 
 Een gangbare opzet is een Sessy of vergelijkbare batterij met Home Assistant en de Frank Energie-integratie: die combinatie laadt en ontlaadt volledig automatisch op basis van de uurprijzen. De opbrengst volgt uit je batterijcapaciteit maal het aantal cycli maal de gemiddelde spreiding, minus de omzetverliezen.
 
@@ -380,16 +431,16 @@ Welke leverancier past bij welk huishouden? Hieronder onze aanbeveling per profi
 Frank Energie is hier de beste keuze. Weinig verbruik, geen EV, koken op gas (of inductie). Besparing vs Eneco vast: €380-€440/jaar. De eenvoudige app past bij wie geen technische kennis heeft.
 
 **Profiel 2: Gezin met 2 kinderen, 4.800 kWh, zonnepanelen, geen EV**
-Frank Energie wint. Hoog verbruik + zonnepanelen = maximale teruglevering tegen EPEX-tarief. Geen EV-feature nodig. Besparing vs Eneco: €750-€900/jaar.
+Frank Energie wint. Hoog verbruik + zonnepanelen = teruglevering tegen de EPEX-uurprijs minus Franks inkoopvergoeding voor teruglevering (zie hun leeswijzer). Geen EV-feature nodig. Besparing vs Eneco: €750-€900/jaar.
 
 **Profiel 3: Gezin met EV (Tesla Model 3), 5.500 kWh totaal**
-Tibber wint. De native Tesla-integratie schuift het laden automatisch naar de goedkoopste uren, wat bij dit laadvolume vrijwel zeker meer oplevert dan het verschil in servicegeld (€12 per jaar). Het exacte bedrag hangt af van je jaarkilometers en de prijsspreiding.
+Tibber wint. De native Tesla-integratie schuift het laden automatisch naar de goedkoopste uren, wat bij dit laadvolume vrijwel zeker meer oplevert dan het verschil in vaste kosten tussen beide leveranciers. Het exacte bedrag hangt af van je jaarkilometers en de prijsspreiding.
 
 **Profiel 4: ZZP'er die thuiswerkt, 3.800 kWh, laptop + airco + warmtepomp**
 Frank Energie + Home Assistant. De warmtepomp op dynamische prijs sturen via Home Assistant + Frank API bespaart €200-€300/jaar extra. Tibber's native features zijn minder relevant als je toch HA gebruikt.
 
 **Profiel 5: Appartement, geen zonnepanelen, 2.800 kWh**
-Frank Energie of Greenchoice Dynamisch. Weinig te automatiseren, dus smart features spelen minder rol. Frank wint op prijs (€12/jaar goedkoper dan Tibber). Greenchoice heeft lager servicegeld (€3,95) — overweeg bij verbruik onder 2.500 kWh.
+Frank Energie of Greenchoice Dynamisch. Weinig te automatiseren, dus smart features spelen minder rol. Bij dit verbruik wegen de vaste kosten relatief zwaar; vergelijk die dus letterlijk naast elkaar via de tarievenpagina's van beide leveranciers, want publiek geverifieerde bedragen hebben wij er niet voor.
 
 ---
 
@@ -405,7 +456,7 @@ Wat een dergelijke piek concreet kost, hangt volledig af van wat je in die vier 
 Wie niets regelt bij Frank heeft in een extreme piek hogere kosten dan een vast contract. Wie automatiseert, heeft lagere kosten dan een vast contract — ook bij pieken.
 
 **Negatieve prijzen (zomerse zonnepiekdag)**
-In 2025 waren er 47 uur met negatieve EPEX-prijzen in Nederland (bron: ENTSO-E). Dat zijn uren waarop je stroom verbruiken geld kost — maar bij Frank krijg je de negatieve prijs terugbetaald als teruglevering negatief is.
+In 2025 waren er **212 uren** met een negatieve EPEX day-ahead prijs in Nederland (EPEX-data via EnergyZero, geteld door onze redactie, peildatum 20 augustus 2026). Ze lagen geconcentreerd tussen maart en september, met een piek van 59 uur in mei. Dat zijn uren waarop de kále marktprijs onder nul staat. Let op de nuance: energiebelasting en de inkoopvergoeding komen daar bovenop, dus je krijgt pas werkelijk geld toe bij flink negatieve prijzen. Meer uitleg staat in [negatieve stroomprijzen](/negatieve-stroomprijzen/).
 
 In de praktijk: is de EPEX-prijs -€0,05/kWh en lever je in dat uur 2 kWh terug, dan betaal je daar €0,10 voor. Dat klinkt slecht, maar in datzelfde uur laadt een thuisbatterij gratis of met winst vol. Over het hele uur is het saldo voor wie een batterij heeft positief; wie er geen heeft, kan beter een grootverbruiker aanzetten dan terugleveren.
 
@@ -417,17 +468,18 @@ Er zijn inmiddels vijf serieuze aanbieders van dynamische contracten in Nederlan
 
 | Criterium | Frank | Tibber | ANWB Dynamisch | Eneco Dynamisch | Greenchoice Dyn. |
 |-----------|-------|--------|----------------|-----------------|-----------------|
-| Servicegeld/mnd | €5,00 | €5,99 | €5,95 | €4,95 | €3,95 |
-| Marge op EPEX | €0 | €0 | €0,015/kWh | €0,015/kWh | €0,02/kWh |
-| Piekdemping | Nee | Nee | Ja (€0,40 max) | Nee | Nee |
+| Vaste kosten/mnd | Zie site | €5,99 per energiesoort | Zie site | Zie site | Zie site |
+| Opslag per kWh | Inkoopvergoeding, bedrag niet publiek | €0,0248 inkoopvergoeding | €0,018 inkoopkosten (incl. btw) | Zie site | Zie site |
+| Vlakke maandlasten | Nee | Nee | Ja (vast termijnbedrag) | Nee | Nee |
 | App-kwaliteit | 7/10 | 9/10 | 7/10 | 6/10 | 7/10 |
 | EV slim laden | 3rd party | Native | Beperkt | Beperkt | Nee |
 | Smart home | Home Assistant | Native + HA | Beperkt | Nee | Nee |
 | Klantenservice | Telefoon + chat | Chat | Telefoon + chat | Telefoon + chat | Telefoon + chat |
 | Bedrijfsland | NL | NO | NL | NL | NL |
-| Jaarkosten 3.500 kWh | €745 | €792 | €820 | €843 | €867 |
 
-**Conclusie tabel:** Frank is de goedkoopste optie per jaar voor het gemiddelde huishouden zonder EV. Tibber wint op features en EV-integratie. ANWB is de veiligste keuze voor wie piekprijzen wil cappen.
+Een kolom met jaarkosten laten wij hier weg: die zou berusten op vaste kosten en opslagen die drie van de vijf leveranciers niet publiceren. Reken het zelf na met de formule opslag per kWh × jouw jaarverbruik + vaste kosten per jaar, en vul de bedragen in van de tarievenpagina op het moment dat je kiest.
+
+**Conclusie tabel:** Frank en Tibber rekenen geen marge op de kale marktprijs en zijn daarmee de logische keuze voor wie maximaal wil besparen. Tibber wint op features en EV-integratie. ANWB is de keuze voor wie vlakke maandlasten wil via een vast termijnbedrag.
 
 ---
 
@@ -436,16 +488,16 @@ Er zijn inmiddels vijf serieuze aanbieders van dynamische contracten in Nederlan
 Frank is niet voor iedereen de juiste keuze. Vijf redenen om het niet te doen:
 
 **Reden 1: Je hebt een EV en wil native slim laden**
-Tibber laadt je auto automatisch op de goedkoopste uren; Frank heeft die functie niet. Het voordeel daarvan is bij veel laadkilometers groter dan het verschil in servicegeld (€12 per jaar), maar het exacte bedrag hangt af van je jaarkilometers en de prijsspreiding — reken het na met je eigen laadverbruik. Bij Frank kun je hetzelfde bereiken met EVCC, maar dan moet je het zelf instellen.
+Tibber laadt je auto automatisch op de goedkoopste uren; Frank heeft die functie niet. Het voordeel daarvan is bij veel laadkilometers groter dan het verschil in vaste kosten, maar het exacte bedrag hangt af van je jaarkilometers en de prijsspreiding — reken het na met je eigen laadverbruik. Bij Frank kun je hetzelfde bereiken met EVCC, maar dan moet je het zelf instellen.
 
 **Reden 2: Je wil maximale automatisering zonder technische kennis**
 Frank + Home Assistant = powerful maar je moet het zelf instellen. Tibber doet meer out-of-the-box. Voor mensen die geen tijd of zin hebben om te tweaken: Tibber is gebruiksvriendelijker.
 
 **Reden 3: Je verbruik is onder 2.000 kWh per jaar**
-Voor een éénpersoonskuishouden met laag verbruik en geen smart home zijn de besparingen kleiner. Het servicegeld van €5/mnd (€60/jaar) is dan een groter percentage van je energierekening. Overweeg dan Greenchoice of Engie met lager servicegeld.
+Voor een éénpersoonskuishouden met laag verbruik en geen smart home zijn de besparingen kleiner. De vaste leveringskosten zijn dan een groter percentage van je energierekening. Vergelijk in dat geval expliciet de vaste kosten van Frank, Greenchoice en Engie naast elkaar op hun eigen tarievenpagina's — publiek geverifieerde bedragen hebben wij daar niet van.
 
 **Reden 4: Je wil een piekprijs-demper**
-Winterstormen veroorzaken soms €1+/kWh uren. Als je die risico's echt niet wil lopen, kiest de ANWB Dynamisch (max €0,40/kWh). Frank dempt niets.
+Winterstormen veroorzaken soms uren van meer dan €1/kWh. Wil je die schommeling niet op je maandrekening zien, dan is ANWB Dynamisch met zijn vaste termijnbedrag en jaarverrekening de rustigere route — het verbruik wordt wel afgerekend, alleen later. Een uurprijs-plafond dat de piek zelf afkapt, hebben wij niet op anwb.nl kunnen verifiëren. Frank factureert het werkelijke verbruik per maand.
 
 **Reden 5: Je bedrijf wil een zakelijke rekening met één leverancier**
 Frank heeft een zakelijk contract maar de rapportage en facturatie zijn minder uitgebreid dan bij Vattenfall of Eneco voor bedrijven. ZZP'ers die factuur-splits nodig hebben of zakelijke MID-meters: kijk verder.

@@ -50,6 +50,8 @@ products:
   price: '349'
 schema_type: Article
 ---
+
+*Volledige vergelijking van alle typen: [beste draagbare powerstation 2026](/posts/beste-draagbare-powerstation-2026/) — deze pagina is de keuzehulp voor kamperen.*
 Een compressorkoelbox, telefoons en LED-verlichting: dat is voor de meeste kampeerders het hele stroomverbruik. Reken op grofweg 350 tot 500 Wh per campingdag voor die combinatie — een bandbreedte die volgt uit de opgegeven verbruikscijfers van gangbare 12V-koelboxen (30-45 W tijdens compressorloop, circa 8 uur effectief per etmaal) plus laadverliezen. Wij vergelijken hieronder vijf powerstations op fabrieksspecificaties, handleidingen en geverifieerde gebruikersreviews, en geven per model aan voor welk kampeerprofiel het past.
 
 Deze vergelijking is helemaal op **kamperen** toegespitst: gewicht dat je van de auto naar de tent tilt, geluid op een stille camping, opladen met een opvouwbaar paneel en draaitijd voor een koelbox. Zoek je breder — het beste powerstation voor thuis, noodstroom of werk op locatie — dan is onze algemene gids [beste draagbare powerstation 2026](/posts/beste-draagbare-powerstation-2026/) de juiste pagina; daar staan ook de grotere modellen in.
@@ -57,8 +59,6 @@ Deze vergelijking is helemaal op **kamperen** toegespitst: gewicht dat je van de
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dat verandert niets aan de vergelijking: die is gebaseerd op fabrieksspecificaties, handleidingen en geverifieerde gebruikersreviews.*
 
 ---
-
-
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
 > **Kort antwoord:** voor de meeste kampeerders is de EcoFlow River 2 Pro (768 Wh, 7,8 kg) de beste balans; wie ultralicht wil reist met de River 2 (3,5 kg), wie een groot gezin of lange trip heeft met de Jackery Explorer 1000 Plus.

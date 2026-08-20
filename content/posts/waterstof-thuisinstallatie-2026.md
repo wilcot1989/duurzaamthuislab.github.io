@@ -37,7 +37,7 @@ faq:
 - q: 'Wat is beter voor energieopslag: een thuisbatterij of waterstof?'
   a: 'In 2026 is een thuisbatterij (LiFePO4) op vrijwel alle vlakken beter: goedkoper, efficiënter (90%+ round-trip vs 30-40% voor waterstof), makkelijker te installeren en breder beschikbaar. Waterstof heeft theoretisch voordeel bij seizoensopslag (zomer naar winter), maar is voor de gemiddelde huiseigenaar in 2026 geen praktische keuze.'
 - q: Zijn er subsidies voor waterstof thuisinstallaties in Nederland?
-  a: Nee, in 2026 zijn er geen specifieke subsidies voor waterstof thuisinstallaties in Nederland. De ISDE-subsidie geldt niet voor waterstof-opslagsystemen. Wel zijn er zakelijke subsidies (SDE++, waterstofpilotprogramma's) voor bedrijven en pilots.
+  a: Nee, in 2026 zijn er geen specifieke subsidies voor waterstof thuisinstallaties in Nederland. De ISDE geldt niet voor opslagsystemen — voor waterstof niet en voor thuisbatterijen ook niet. Wel zijn er zakelijke regelingen (SDE++, waterstofpilotprogramma's) voor bedrijven en pilots.
 products:
 - name: Sessy thuisbatterij
   url: https://go.duurzaamthuislab.nl/sessy
@@ -153,7 +153,7 @@ Het meest serieuze Europese product voor thuisgebruik.
 - **Vermogen brandstofcel:** 4,5 kW
 - **Prijs:** €45.000-€55.000 inclusief installatie (eigen schatting op basis van gesprekken met distributeurs)
 - **Beschikbaarheid Nederland:** Beperkt beschikbaar, via een handvol gespecialiseerde installateurs
-- **Subsidie:** Geen ISDE, maar in sommige gemeenten pilot-subsidies
+- **Subsidie:** Geen ISDE (waterstofopslag valt er niet onder), soms een gemeentelijke pilot-regeling
 
 ### Hydrogène de France (kleinschalig)
 
@@ -254,7 +254,7 @@ Onderstaande tijdlijn is gebaseerd op industrie-analyses, de Nederlandse waterst
 
 - Kostprijs onder €10.000 voor kleinere systemen
 - Brede beschikbaarheid bij installatiesbedrijven
-- ISDE-equivalent-subsidie denkbaar
+- Een landelijke regeling voor opslag is denkbaar, maar bestaat nu niet
 - Terugverdientijd concurrerend met grote thuisbatterijen
 
 ### 2035+: Serieuze markt
@@ -287,7 +287,7 @@ Onze inschatting: waterstofboilers voor particulieren in Nederland worden pas re
 | Round-trip efficiëntie | 90-95% | 30-45% |
 | Opslagduur | Dagelijks/wekelijks | Seizoensmatig |
 | Installatietijd | 1 dag | 2-5 dagen + vergunning |
-| Subsidie | Ja (ISDE) | Nee |
+| Rijkssubsidie | Nee (valt niet onder ISDE; soms gemeentelijk €300-€750) | Nee |
 | Terugverdientijd | 6-12 jaar | >30 jaar |
 | Onderhoud | Minimaal | Jaarlijks onderhoud vereist |
 | Beschikbare installateurs | Honderden | Minder dan 20 (NL) |
@@ -316,7 +316,7 @@ Voorbeeldprojecten: pilot in Stad aan 't Haringvliet (gemeente Goeree-Overflakke
 Waterstof thuis is technologisch interessant om te volgen, maar als praktische investering dit jaar niet te verdedigen: de kosten per opgeslagen kWh liggen een orde van grootte boven die van een thuisbatterij.
 
 **Als je energieopslag wilt:**
-1. Begin met een thuisbatterij — proven technology, betaalbaar, subsidie beschikbaar
+1. Begin met een thuisbatterij — proven technology en betaalbaar, maar reken zonder rijkssubsidie en met 21% btw
 2. Wacht met waterstof tot de prijs onder €15.000 komt en de regelgeving duidelijker is
 3. Volg de HPS Picea-prijsontwikkeling als bellwether voor de markt
 
@@ -382,7 +382,7 @@ Twee tijdframes naast elkaar:
 ### Nu (2026)
 
 **Beste keuze voor energieopslag thuis:** LiFePO4 thuisbatterij (Sessy, Marstek, BYD, Pylontech)
-**Reden:** Aantoonbaar rendabel, breed beschikbaar, veilig, gesubsidieerd, terugverdientijd 6-12 jaar
+**Reden:** narekenbaar rendabel bij een geschikt verbruiksprofiel, breed beschikbaar en veilig, met een terugverdientijd van 6-12 jaar in modelberekeningen — ook zonder subsidie
 
 **Waterstof:** Alleen voor pioniers met groot budget (>€40K), technische interesse en bewust risicoacceptatie
 
@@ -434,4 +434,4 @@ De eenvoudigste handeling die je nu kunt doen: installeer een bewezen thuisbatte
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE](https://www.rvo.nl/subsidies-financiering/isde) — de actuele lijst met maatregelen die onder de ISDE vallen (opslagsystemen staan er niet op).

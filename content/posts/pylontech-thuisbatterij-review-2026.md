@@ -1,7 +1,7 @@
 ---
 title: 'Pylontech Thuisbatterij Review 2026: Goedkoop maar Goed?'
 date: 2026-07-04 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'Pylontech US5000 review: wij analyseren de populaire DIY-vriendelijke thuisbatterij op capaciteit, prijs, betrouwbaarheid en alternatieven voor de Nederlandse markt.'
 draft: false
 categories:
@@ -44,7 +44,7 @@ products:
   price: '1450'
 - name: Sessy 5 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '3795'
+  price: '3550'
 - name: Tibber dynamisch
   url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
@@ -103,7 +103,7 @@ Kosten voor deze case:
 - Arbeidskosten: €850
 - **Totaal: €6.070 inclusief BTW**
 
-Dit is bijna de helft van een vergelijkbare BYD-setup en aanzienlijk goedkoper dan Sessy 10 kWh (€5.995 voor batterij alleen, plus kost de bestaande string-omvormer behoud).
+Dit is bijna de helft van een vergelijkbare BYD-setup en aanzienlijk goedkoper dan Sessy 10 kWh (€5.500 incl. btw voor de batterij alleen, installatie apart — prijspeil aug 2026, plus kost de bestaande string-omvormer behoud).
 
 ## Voor de DIY'er: aandachtspunten
 
@@ -183,7 +183,7 @@ Je hebt geen direct contact met Pylontech NL — alles via importeur. RMA-termij
 | Model | Bruikbaar | Hardware | Totaal install | €/kWh | Garantie |
 |-------|-----------|----------|---------------|-------|----------|
 | Pylontech US5000 ×2 | 9,12 kWh | €2.900 | €6.070 | €665 | 10 jaar |
-| Sessy 10 kWh | 9,6 kWh | €5.995 | €5.995 | €625 | 10 jaar |
+| Sessy 10 kWh | 9,6 kWh | €5.500 | €6.700 (incl. basisinstallatie €1.200) | €698 | 10 jaar |
 | BYD HVS 10.2 | 10,24 kWh | €5.500 | €10.200 | €996 | 10 jaar |
 | Tesla Powerwall 3 | 13,5 kWh | €9.500 | €9.500 | €704 | 10 jaar |
 | Marstek Venus ×2 | 10 kWh | €3.998 | €4.500 | €450 | 10 jaar |
@@ -333,4 +333,4 @@ Tot slot, eerlijk over wat je koopt: Pylontech is geen "wow"-batterij. Geen mooi
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

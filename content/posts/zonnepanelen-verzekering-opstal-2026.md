@@ -326,7 +326,7 @@ Apart polis-type voor recreatiewoningen. Zonnepanelen-dekking wisselend. Vraag s
 ## Combinatie met thuisbatterij
 
 [Thuisbatterij](/posts/thuisbatterij-vergelijking-2026/) verhoogt opstalbedrag substantieel:
-- Sessy 10 kWh: €5.995
+- Sessy 10 kWh: €5.500 (excl. installatie, prijspeil aug 2026)
 - Tesla Powerwall 3: €9.500
 - BYD HVS 10.2: €5.500
 

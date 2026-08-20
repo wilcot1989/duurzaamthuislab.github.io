@@ -37,7 +37,7 @@ faq:
 - q: Wat zijn de voordelen van LiFePO4 boven NMC voor thuis?
   a: LiFePO4 (lithium-ijzerfosfaat) heeft een langere levensduur (3.000-6.000 cycli vs 1.000-2.000 voor NMC), is thermisch stabieler (minder brandgevaar), degradeert langzamer en is minder afhankelijk van kobalt (betere leveringszekerheid). Het nadeel is een lagere energiedichtheid, wat echter voor stationaire opslag geen praktisch probleem is.
 - q: Moet ik wachten op nieuwe batterij-technologie voordat ik een thuisbatterij koop?
-  a: Nee, niet als je nu concrete energiebehoefte hebt. LiFePO4-thuisbatterijen zijn volwassen, betrouwbaar en worden met ISDE-subsidie ondersteund. De kans dat de volgende generatie (solid-state, natrium-ion) significant goedkoper is binnen 2-3 jaar is klein. Wacht niet op perfectie als de huidige technologie al uitstekend is.
+  a: Nee, niet als je nu concrete energiebehoefte hebt. LiFePO4-thuisbatterijen zijn volwassen en betrouwbaar. Let wel op dat de ISDE volgens RVO geen thuisbatterijen dekt — reken dus niet op rijkssubsidie, ongeacht welke celchemie je kiest. De kans dat de volgende generatie (solid-state, natrium-ion) significant goedkoper is binnen 2-3 jaar is klein. Wacht niet op perfectie als de huidige technologie al uitstekend is.
 products:
 - name: Sessy thuisbatterij
   url: https://go.duurzaamthuislab.nl/sessy
@@ -212,7 +212,7 @@ Ja, en hier is waarom.
 LiFePO4 heeft een uitgebreid ecosysteem:
 - Honderden gecertificeerde installateurs in Nederland
 - Breed servicenetwerk voor onderhoud
-- ISDE-subsidie beschikbaar
+- Ruime beschikbaarheid van installatiematerialen en omvormers
 - Brede keuze aan merken (Sessy, Marstek, Pylontech, BYD, Huawei)
 - Bewezen veiligheidsrecord in thuisomgeving
 
@@ -242,9 +242,9 @@ Natrium-ion presteert beter bij lage temperaturen. Als je batterij in een ruimte
 
 Als je nu al significante hoeveelheden zonnestroom teruglevert en de saldering na 2027 verandert, is uitstel van je thuisbatterij duurder dan wachten op de volgende generatie.
 
-### Wacht niet als: je een ISDE-subsidie wilt benutten
+### Wat je niet als argument moet gebruiken: rijkssubsidie
 
-De ISDE-subsidie voor thuisbatterijen is een beperkt budget. Wachten kan betekenen dat het budget op is als je wil instappen.
+Voor thuisbatterijen bestaat geen ISDE-subsidie — de ISDE dekt voor woningeigenaren alleen isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Er is dus ook geen budget dat "op kan gaan". Timing baseer je op je verbruik, je energiecontract en de afbouw van de saldering, niet op een subsidiedeadline. Sommige gemeenten of provincies hebben wel eigen regelingen; check dat lokaal.
 
 ---
 
@@ -278,7 +278,7 @@ Producten die dit doen: Qucik (Duits bedrijf) werkt aan supercapacitor-buffered 
 
 Onze aanbevelingen:
 
-**Als je nu een thuisbatterij wilt:** Kies LiFePO4 (Sessy, Marstek, BYD HVS, Pylontech). Dit is de bewezen, veilige, gesubsidieerde keuze met een uitgebreid installateurnetwerk.
+**Als je nu een thuisbatterij wilt:** Kies LiFePO4 (Sessy, Marstek, BYD HVS, Pylontech). Dit is de bewezen, veilige keuze met een uitgebreid installateurnetwerk.
 
 **Als je in 2027-2028 wilt kopen:** Bekijk dan ook de eerste natrium-ion-producten die naar de Europese markt komen. Ze kunnen goedkoper zijn en vergelijkbare prestaties leveren.
 
@@ -418,9 +418,9 @@ NMC is minder wenselijk dan LiFePO4 voor thuisopslag: kortere levensduur, iets m
 
 Dat hangt af van het systeem. Modulaire systemen zoals BYD HVS, Huawei LUNA 2000 en Pylontech ondersteunen uitbreiding door extra modules toe te voegen (zolang de omvormer het aankan). De Sessy en Marstek zijn in 2026 minder eenvoudig uit te breiden. Bespreek dit bij aanschaf als je verwacht in de toekomst meer capaciteit nodig te hebben.
 
-**"Is ISDE-subsidie ook van toepassing op nieuwe technologieën zoals natrium-ion?"**
+**"Is er subsidie op nieuwe technologieën zoals natrium-ion?"**
 
-De ISDE-subsidie is gebonden aan de erkende-typenlijst van de RVO, die jaarlijks wordt bijgewerkt. Als natrium-ion-producten aan de technische eisen voldoen en op de lijst komen, zijn ze subsidiabel. Volg de RVO-lijstupdates in 2027-2028 als natrium-ion-producten de Europese markt betreden.
+Niet via de ISDE. Die regeling geldt voor woningeigenaren uitsluitend voor isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — batterijopslag valt er niet onder, welke celchemie het ook betreft. Kijk wel naar gemeentelijke of provinciale regelingen; die verschillen per regio.
 
 ---
 
@@ -441,4 +441,4 @@ De ISDE-subsidie is gebonden aan de erkende-typenlijst van de RVO, die jaarlijks
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van wat de ISDE wel en niet dekt (thuisbatterijen vallen er niet onder).

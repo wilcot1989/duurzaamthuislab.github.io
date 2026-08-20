@@ -50,7 +50,7 @@ products:
   price: '1799'
 - name: Sessy 5 kWh (alternatief)
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '3795'
+  price: '3550'
 - name: Tibber dynamisch contract
   url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
@@ -87,8 +87,8 @@ Eerst het overzicht: een zij-aan-zij-vergelijking op basis van de gepubliceerde 
 
 | Eigenschap | Marstek Venus E | Sessy 10 kWh | Zonneplan 10 kWh | Tesla Powerwall 3 |
 |---|---|---|---|---|
-| **Prijs** | €2.679 (incl. install.) | €5.995 | €6.995 koop / €54/mnd lease | €9.500 |
-| **Prijs/kWh** | €326/kWh | €600/kWh | €700/kWh | €704/kWh |
+| **Prijs** | €2.679 (incl. install.) | €5.500 (excl. install.) | €6.995 koop / €54/mnd lease | €9.500 |
+| **Prijs/kWh** | €326/kWh | €550/kWh | €700/kWh | €704/kWh |
 | **Capaciteit** | 8,2 kWh | 10 kWh | 10 kWh | 13,5 kWh |
 | **Vermogen** | 3 kW continu | 2,5 kW | 3 kW | 5 kW |
 | **Garantie** | 10 jaar | 10 jaar | 10 jaar | 10 jaar |
@@ -139,12 +139,12 @@ Belangrijke kanttekening bij elke terugverdienberekening voor thuisbatterijen: d
 
 ### 1. **De prijs.** Dat is hier de hele aanleiding.
 
-Sessy 10 kWh: €5.995. Zonneplan 10 kWh: €6.995. Tesla Powerwall: €9.500.
+Sessy 10 kWh: €5.500 (incl. btw, excl. installatie, prijspeil aug 2026). Zonneplan 10 kWh: €6.995. Tesla Powerwall: €9.500.
 Marstek Venus E 8,2 kWh: €2.679 inclusief installatie.
 
 Per kWh batterij-capaciteit:
 - Marstek: €326/kWh
-- Sessy: €600/kWh
+- Sessy: €550/kWh
 - Tesla: €704/kWh
 
 Voor wie puur op prijs/kWh kijkt: Marstek wint met grote marge.
@@ -239,7 +239,7 @@ Welke kies je?
 
 | Eigenschap | Marstek Venus E 8,2 | Sessy 10 kWh | Tesla Powerwall 3 |
 |---|---|---|---|
-| Prijs | €2.679 (incl. installatie) | €5.995 | €9.500 |
+| Prijs | €2.679 (incl. installatie) | €5.500 (excl. installatie) | €9.500 |
 | Capaciteit | 8,2 kWh | 10 kWh | 13,5 kWh |
 | Vermogen | 3 kW continu | 2,5 kW | 5 kW |
 | NL-support | Beperkt (via distributeur) | Direct, Nederlandse | Via dealer |
@@ -478,4 +478,4 @@ Voor wie dat extra €3.000-€4.000 voor service en NL-support wil betalen: kie
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

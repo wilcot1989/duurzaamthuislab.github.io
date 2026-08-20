@@ -297,7 +297,7 @@ Onder ~2.500 kWh of zonder EV/batterij: ANWB. Boven 2.500 kWh met EV of smart-ho
 
 Bij elke uurprijs op EPEX wordt onbelast gerekend in euro's per MWh. Tibber en ANWB rekenen dit om naar €/kWh, voegen hun opslag toe en berekenen daarover 21% BTW. Daarboven komt de wettelijke energiebelasting (€0,1316/kWh in 2026) en ODE (€0,0228/kWh). Een spotprijs van €0,12/kWh wordt voor jou dus €0,12 + opslag + €0,1544 belasting + 21% BTW = ongeveer €0,34/kWh effectief. Wie spotprijzen ziet en denkt "wow goedkoop" mist deze rekenslag — het echte verschil tussen dynamisch en vast zit niet in de spotprijs zelf maar in de mogelijkheid om te schuiven naar lage uren.
 
-ISDE/RVO-subsidies gelden niet voor het contract, maar wel voor warmtepompen, isolatie en thuisbatterijen die je via dynamisch contract optimaal benut. Voor zelfstandigen die thuiswerken kun je het zakelijk verbruik proportioneel aftrekken — bij 25% kantoorgebruik trek je 25% van de stroomkosten af van je winst, en je BTW kun je voor dat deel terugvragen. Dat geldt voor zowel Tibber als ANWB. Bouwbesluit verplicht sinds 2018 een slimme meter met P1-poort op nieuwbouw, oudbouw kun je gratis omruilen via je netbeheerder.
+ISDE-subsidie geldt niet voor je energiecontract. De ISDE dekt voor woningeigenaren wel isolatie, ventilatie (i.c.m. isolatie), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — maar géén thuisbatterijen, zonnepanelen of laadpalen. Een batterij die je via een dynamisch contract laat handelen, koop je dus zonder rijkssubsidie en met 21% btw. Voor zelfstandigen die thuiswerken kun je het zakelijk verbruik proportioneel aftrekken — bij 25% kantoorgebruik trek je 25% van de stroomkosten af van je winst, en je BTW kun je voor dat deel terugvragen. Dat geldt voor zowel Tibber als ANWB. Bouwbesluit verplicht sinds 2018 een slimme meter met P1-poort op nieuwbouw, oudbouw kun je gratis omruilen via je netbeheerder.
 
 Saldering 2027: beide leveranciers volgen dezelfde wettelijke afbouw (64% in 2027, 28% in 2031, 0% vanaf 2031). Het verschil komt straks in de terugleververgoeding voor het niet-gesaldeerde deel — Tibber heeft aangekondigd dat te volgen op spotprijzen, ANWB heeft nog geen definitief beleid (verwacht eind 2026).
 
@@ -331,4 +331,4 @@ Een laatste praktijktip: zet bij Tibber direct na inloggen je vertrekprijs voor 
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE](https://www.rvo.nl/subsidies-financiering/isde) — de actuele lijst met maatregelen die onder de ISDE vallen.

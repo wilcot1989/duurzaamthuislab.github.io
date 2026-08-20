@@ -26,15 +26,15 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1473341304170-971dccb5ac1e&w=1200&output=webp&q=70
 faq:
 - q: Wat is het beste dynamisch energiecontract in 2026?
-  a: 'Voor EV-rijders en smart-home gebruikers is Tibber de beste keus dankzij de native auto-API en realtime-app. Voor wie het simpel wil en geen EV heeft is Frank Energie iets goedkoper (€5/mnd servicegeld). ANWB Energie Dynamisch is interessant voor wie bang is voor winterpieken — hun prijsdemping bij €0,40/kWh max geeft mentale rust, maar kost je gemiddeld €60-€90 per jaar extra.'
+  a: 'Voor EV-rijders en smart-home gebruikers is Tibber de beste keus dankzij de native auto-API en realtime-app. Voor wie het simpel wil en geen EV heeft is Frank Energie het alternatief; Frank publiceert zijn vaste kosten niet op de site, dus vraag die op via frankenergie.nl. ANWB Energie Dynamisch is interessant voor wie vlakke maandlasten wil: zij werken met een vast maandtermijnbedrag met jaarverrekening. Een uurprijs-plafond hebben wij niet op anwb.nl kunnen verifiëren.'
 - q: Wat kost een dynamisch contract gemiddeld in 2026?
   a: 'In 2025 was de gemiddelde EPEX day-ahead prijs €0,12/kWh. Reken plus netbeheer en energiebelasting (€0,12/kWh) plus servicegeld (€5-€6 per maand). Voor een huishouden van 3.500 kWh: rond €780-€870 per jaar inclusief alles. Een vast contract bij Eneco of Vattenfall zit op €1.400-€1.600 voor hetzelfde profiel.'
 - q: Is een dynamisch contract gevaarlijk bij een koudegolf?
-  a: 'Tijdens de koudegolf in januari 2025 piekte de EPEX-prijs op 14 januari tot €1,18/kWh gedurende 4 uur. Voor wie zijn warmtepomp en wasmachine niet aanstuurt op uurtarief kost dat tientjes per dag extra. Met ANWB Dynamisch wordt de piek afgedempt op €0,40/kWh. Met Tibber of Frank betaal je de volle prijs — maar op jaarbasis ben je nog steeds goedkoper uit dan vast.'
+  a: 'Piekuren bestaan, maar blijf bij de feiten: in januari 2025 was het duurste uur €0,63/kWh (20 januari, avondpiek — kale EPEX-prijs incl. btw, geteld op de day-ahead-uurdata via EnergyZero). Wie verbruik kan verschuiven, ontwijkt die uren juist; wie alles op vaste tijden draait, betaalt ze mee. Bij ANWB blijft je maandbedrag in die periode gelijk doordat zij met een vast termijnbedrag en jaarverrekening werken — de kosten komen dus later, ze verdwijnen niet. Een uurprijs-plafond hebben wij niet op anwb.nl kunnen verifiëren.'
 - q: Welk dynamisch contract is het beste voor EV-rijders?
   a: 'Tibber is de duidelijke winnaar voor EV-rijders. De app praat direct met Tesla, Polestar, BMW, Hyundai, Kia, Volkswagen en Audi via auto-API. Je geeft aan wanneer de auto vol moet zijn en Tibber laadt op de goedkoopste uren. Gemiddeld bespaar je €400-€500 per jaar bij 15.000 km/jaar vergeleken met onbewust laden tijdens de avondpiek.'
 - q: Hoe vaak waren er negatieve stroomprijzen in 2025?
-  a: In 2025 waren er 47 uur met negatieve EPEX-prijzen in Nederland. Op die momenten kreeg je geld toe als je stroom verbruikte. Voornamelijk in mei tot augustus tijdens zonnige weekenden met veel windaanbod. Wie zijn thuisbatterij of EV op zulke momenten oplaadt, verdient er letterlijk aan.
+  a: 'In 2025 waren er 212 uren met een negatieve EPEX day-ahead prijs in Nederland (EPEX-data via EnergyZero, geteld door onze redactie, peildatum 20 augustus 2026). Ze lagen geconcentreerd tussen maart en september, met een piek van 59 uur in mei. Let op de nuance: negatief is alleen de kále marktprijs. Energiebelasting en de inkoopvergoeding van je leverancier komen daar bovenop, dus je krijgt pas echt geld toe als de prijs flink negatief is. Meer uitleg: /negatieve-stroomprijzen/'
 - q: Kan ik mid-contract overstappen van vast naar dynamisch?
   a: 'Technisch wel, maar je vast contract heeft vaak een opzegboete van €100-€150. Bij Eneco en Vattenfall geldt de standaard ACM-vergoeding van €50 per resterend contractjaar tot maximaal €150. Reken uit: bespaar je per maand €60 bij dynamisch, dan heb je de boete er binnen 2-3 maanden uit.'
 - q: Werkt een dynamisch contract met zonnepanelen na de saldering-stop?
@@ -64,7 +64,7 @@ Dit artikel legt uit wat een dynamisch contract precies is en welke van de drie 
 
 ---
 
-> **Kort antwoord:** Tibber is in 2026 de beste keus voor EV-rijders en smart-home gebruikers. Frank Energie is €1/mnd goedkoper qua servicegeld en de simpelste optie voor doorsnee huishoudens. ANWB Energie Dynamisch heeft als enige een prijsdemping op €0,40/kWh — fijn bij winterpieken, maar kost je gemiddeld €60-€90 per jaar door de marge van €0,015/kWh.
+> **Kort antwoord:** Tibber is in 2026 de beste keus voor EV-rijders en smart-home gebruikers. Frank Energie is de simpelste optie voor doorsnee huishoudens — vaste kosten opvragen via frankenergie.nl, want die publiceren ze niet. ANWB Energie Dynamisch is de optie voor wie vlakke maandlasten wil: een vast termijnbedrag met jaarverrekening, met €0,018/kWh inkoopkosten (incl. btw) als tegenprestatie.
 
 ## Hoe werkt een dynamisch energiecontract eigenlijk
 
@@ -78,18 +78,18 @@ Bovenop de EPEX-prijs komen drie kostenposten die voor alle leveranciers gelijk 
 - **Energiebelasting + ODE** (overheid): in 2026 €0,1088/kWh op de eerste 2.900 kWh
 - **BTW** 21% over het totaal
 
-Wat je leverancier verdient zit in twee posten: een vast **servicegeld** per maand (€5 tot €6) en eventueel een **marge per kWh** bovenop de EPEX-prijs. Tibber en Frank rekenen €0 marge. ANWB rekent €0,015/kWh marge. Eneco Dynamisch idem.
+Wat je leverancier verdient zit in twee posten: een vast **maandbedrag** en een **opslag per kWh** bovenop de EPEX-prijs. Tibber rekent geen marge op de marktprijs maar wel €0,0248/kWh inkoopvergoeding; Frank rekent geen marge op EPEX en publiceert zijn vaste kosten niet. ANWB rekent volgens hun tarievenpagina €0,018/kWh inkoopkosten (incl. btw, peildatum 20 augustus 2026). Voor Eneco Dynamisch vonden wij geen publiek geverifieerd bedrag — check eneco.nl.
 
-Voor de cijferliefhebbers: gemiddelde EPEX day-ahead prijs over heel 2025 was €0,12/kWh. Hoogste uur: 14 januari 2025 om 18:00 met €1,18/kWh. Laagste uur: 22 juni 2025 om 14:00 met -€0,09/kWh (ja, negatief). Aantal uren met negatieve prijzen in 2025: 47.
+Voor de cijferliefhebbers: de gemiddelde EPEX day-ahead-prijs over heel 2025 was €0,105/kWh incl. btw. Het duurste uur was 20 januari 2025 om 17:00 met €0,63/kWh (EPEX day-ahead-uurdata incl. btw via EnergyZero, door onze redactie geteld, peildatum 20 augustus 2026). Aantal uren met een negatieve prijs in 2025: **212** (EPEX-data via EnergyZero, door onze redactie geteld, peildatum 20 augustus 2026), geconcentreerd tussen maart en september met een piek van 59 uur in mei. Bij die uren geldt wel een kanttekening: negatief is de kale marktprijs. Energiebelasting en de inkoopvergoeding van je leverancier komen er bovenop, dus je krijgt pas werkelijk geld toe bij flink negatieve prijzen. Zie [negatieve stroomprijzen uitgelegd](/negatieve-stroomprijzen/).
 
 ## Tibber — de tech-first speler
 
 Tibber is een Noors energiebedrijf, actief in Nederland sinds 2021. Hun pitch: geen marge op stroom, alle winst uit servicegeld plus hardware (Tibber Pulse). Voor een uitgebreide analyse zie de [Tibber review](/posts/tibber-review-ervaringen-2026/).
 
 **Kerncijfers Tibber 2026:**
-- Servicegeld: €5,99/maand (€71,88/jaar)
-- Marge op EPEX: €0,00/kWh
-- Tibber Pulse: €90 eenmalig (optioneel maar aanbevolen)
+- Servicegeld: €5,99/maand per energiesoort — stroom en gas worden apart gerekend
+- Marge op EPEX: €0,00/kWh, wel €0,0248/kWh inkoopvergoeding
+- Tibber Pulse: eenmalige aanschaf, prijs: zie Tibber Store (optioneel maar aanbevolen)
 - Klantenservice: chat-only, gemiddeld binnen 5 minuten respons
 - App-rating: 9/10 in onze beoordeling; geen andere Nederlandse leverancier komt in de buurt
 
@@ -101,10 +101,13 @@ Wat Tibber uniek maakt is de native auto-API. Bij een Tesla, Polestar, BMW i-ser
 |---|---|
 | Stroominkoop (7.500 × gem. €0,11) | €825 |
 | Netbeheer + energiebelasting | €900 |
-| Servicegeld | €72 |
-| **Totaal Tibber** | **€1.797** |
+| Vaste kosten (€5,99 × 12, alleen stroom) | €72 |
+| Inkoopvergoeding (7.500 × €0,0248) | €186 |
+| **Totaal Tibber** | **€1.983** |
 | Vergelijking vast contract (€0,32 all-in) | €2.400 |
-| **Besparing** | **€603/jaar** |
+| **Besparing** | **€417/jaar** |
+
+Dit is een modelberekening: uitkomsten verschillen per verbruiksprofiel, en met gas erbij komt er nog €5,99/maand bij.
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a>
 
@@ -113,13 +116,13 @@ Wat Tibber uniek maakt is de native auto-API. Bij een Tesla, Polestar, BMW i-ser
 Frank Energie is in 2018 gestart in Rotterdam. Eerste echte dynamische leverancier in Nederland. Geen marge, vast servicegeld, en specifiek gepositioneerd voor mensen die het simpel willen. De volledige analyse staat in de [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/).
 
 **Kerncijfers Frank Energie 2026:**
-- Servicegeld: €5,00/maand (€60/jaar)
+- Vaste kosten: publiceert Frank niet op de site — opvragen via frankenergie.nl
 - Marge op EPEX: €0,00/kWh
-- Hardware: geen eigen sensor, werkt met HomeWizard P1 of EnergyZero (€30, vaak gratis bij actie)
+- Hardware: geen eigen sensor, werkt met de HomeWizard Wi-Fi P1 (€24,95) of EnergyZero
 - Klantenservice: chat én telefoon op werkdagen 09:00-17:00
 - App-rating: 7/10 (functioneel, geen lyrische dashboards zoals Tibber)
 
-Frank is per maand €0,99 goedkoper dan Tibber op servicegeld. Op jaarbasis €12. Dat is verwaarloosbaar — tenzij je geen EV en geen smart home hebt. Dan kies je voor de eenvoud en het Nederlandse bedrijf.
+Of Frank per maand goedkoper is dan Tibber kunnen wij niet hard maken: Frank publiceert de vaste kosten niet. Wat wel telt: bij Tibber betaal je €5,99 per energiesoort, dus met stroom én gas dubbel. Vraag bij Frank het actuele bedrag op en vergelijk dat met jouw combinatie van stroom en gas.
 
 Wat Frank mist: native auto-integratie. Slim laden moet via een derde-partij oplossing zoals EVCC, Home Assistant of een slimme laadpaal die zelf op EPEX-data kan sturen. Werkt prima maar vraagt tweak-werk.
 
@@ -131,65 +134,68 @@ Wat Frank wél heeft: telefonische klantenservice. Voor wie 60-plus is of geen z
 |---|---|
 | Stroominkoop (3.500 × gem. €0,12) | €420 |
 | Netbeheer + energiebelasting | €380 |
-| Servicegeld | €60 |
+| Vaste kosten (zie frankenergie.nl) | n.b. |
 | Teruglevering (2.000 kWh × €0,13) | -€260 |
-| **Totaal Frank** | **€600** |
+| **Subtotaal Frank** | **€540 excl. vaste kosten en terugleverkosten** |
 | Vergelijking vast contract | €1.400 |
-| **Besparing** | **€800/jaar** |
+
+Dit is een modelberekening. Twee posten ontbreken bewust omdat wij ze niet publiek konden verifiëren: Franks vaste kosten en de terugleverkosten volgens hun staffel (geldig vanaf 1 juni 2025). Vul die van frankenergie.nl in voordat je de besparing hard maakt.
 
 <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>
 
-## ANWB Energie Dynamisch — de gedempte variant
+## ANWB Energie Dynamisch — de variant met vlakke maandlasten
 
-ANWB Energie bestaat sinds 2019. Hun dynamische product is in 2023 gelanceerd en heeft één belangrijk verschil: een **prijsplafond bij €0,40/kWh** op de stroominkoop. Word je geraakt door een piek van €1,18 zoals op 14 januari 2025? ANWB betaalt het verschil, jij betaalt maximaal €0,40.
+ANWB Energie bestaat sinds 2019. Hun dynamische product is in 2023 gelanceerd. In omloop is het beeld dat ANWB een prijsplafond op de uurprijs zou hanteren; wij hebben zo'n plafond niet op anwb.nl kunnen verifiëren. Wat er wél staat: ANWB werkt met een vast maandtermijnbedrag met jaarverrekening. Je uurprijzen volgen de markt, maar je maandlasten blijven gelijk tot de jaarafrekening.
 
 **Kerncijfers ANWB Dynamisch 2026:**
-- Servicegeld: €5,95/maand (€71,40/jaar)
-- Marge op EPEX: €0,015/kWh
-- Prijsdemping: maximaal €0,40/kWh op stroominkoop
+- Vast maandbedrag: zie anwb.nl (wijzigt per periode)
+- Inkoopkosten: €0,018/kWh incl. btw (anwb.nl/energie/actuele-tarieven, peildatum 20 augustus 2026)
+- Maandlasten: vast termijnbedrag met jaarverrekening
 - Klantenservice: telefoon én chat, ANWB-kwaliteit
 - App-rating: 7/10 (degelijk, niet flashy)
 - Herkomst: 100% Nederlandse windstroom
 
-Die €0,015/kWh marge lijkt klein, maar bij 3.500 kWh per jaar is dat €52,50 extra. Plus het servicegeld is bijna gelijk aan Tibber. Op jaarbasis ben je dus ~€60-€90 duurder uit dan bij Tibber of Frank.
+Die €0,018/kWh inkoopkosten lijken klein, maar bij 3.500 kWh per jaar tel je zo'n €63 op je jaarrekening — reken het na met je eigen verbruik in plaats van met een gemiddelde. Daarnaast betaal je het vaste maandbedrag; check dat op anwb.nl.
 
-Wat krijg je daarvoor terug? **Voorspelbaarheid.** Tijdens de koudegolf van januari 2025 piekte de EPEX-prijs urenlang boven de euro per kWh. Rekenvoorbeeld: een huishouden met warmtepomp dat in die uren rond de 30 kWh afneemt, betaalt bij een onbegrensd dynamisch tarief van €1,18/kWh ruim €30 op één avond; met het ANWB-plafond van €0,40/kWh blijft dat onder de €12. Op één avond dus zo'n €20 verschil.
+Wat krijg je daarvoor terug? **Voorspelbaarheid in je maandlasten.** Tijdens de koudegolf van januari 2025 piekte de EPEX-prijs urenlang boven de euro per kWh. Bij een leverancier die maandelijks je werkelijke verbruik factureert, zie je zo'n piek direct op je rekening staan. Bij een vast termijnbedrag met jaarverrekening blijft je maandlast gelijk en komt het verschil bij de jaarafrekening. Belangrijk om te snappen: dat vlakt je cashflow, het verlaagt je jaarkosten niet.
 
-Voor mensen die zo'n piek niet aankunnen — psychisch of budgettair — is ANWB's plafond een goede compromis. Niet de allergoedkoopste, maar de meest voorspelbare dynamische optie.
+Voor mensen die zo'n piek budgettair niet in één maand kunnen opvangen, is dat een reëel voordeel. De allergoedkoopste optie is ANWB daarmee niet.
 
 **Jaarberekening ANWB voor doorsnee huishouden:**
 
 | Post | Bedrag |
 |---|---|
-| Stroominkoop (3.500 × gem. €0,135 inc. marge) | €473 |
+| Stroominkoop (3.500 × gem. €0,12 + €0,018 inkoopkosten) | €483 |
 | Netbeheer + energiebelasting | €380 |
-| Servicegeld | €71 |
+| Vast maandbedrag (zie anwb.nl) | n.b. |
 | Teruglevering | -€260 |
-| **Totaal ANWB Dynamisch** | **€664** |
+| **Subtotaal ANWB Dynamisch** | **€603 excl. vast maandbedrag** |
 
-Lees de [uitgebreide ANWB Energie Dynamisch review](/posts/anwb-energie-dynamisch-review-2026/) voor de werking van het prijsdempingsmechanisme.
+Dit is een modelberekening op basis van de gemiddelde EPEX-prijs van 2025 en de gepubliceerde inkoopkosten; jouw uitkomst hangt af van je verbruiksprofiel en van het vaste maandbedrag dat ANWB rekent.
+
+Lees de [uitgebreide ANWB Energie Dynamisch review](/posts/anwb-energie-dynamisch-review-2026/) voor de werking van het termijnbedrag.
 
 ## Vergelijkingstabel — de drie naast elkaar
 
 | Feature | Tibber | Frank Energie | ANWB Dynamisch |
 |---|---|---|---|
-| Servicegeld/mnd | €5,99 | €5,00 | €5,95 |
-| Marge op EPEX | €0,00 | €0,00 | €0,015/kWh |
+| Vaste kosten/mnd | €5,99 per energiesoort | Zie frankenergie.nl | Zie anwb.nl |
+| Opslag per kWh | €0,0248 inkoopvergoeding | Geen marge op EPEX | €0,018 inkoopkosten (incl. btw) |
 | App-kwaliteit | 9/10 | 7/10 | 7/10 |
 | EV-laden native | Top (auto-API) | Via derden | Via derden |
-| Prijsdemping piek | Nee | Nee | Ja (€0,40 max) |
+| Vlakke maandlasten | Nee | Nee | Ja (vast termijnbedrag) |
 | Klantenservice | Chat | Chat + telefoon | Chat + telefoon |
 | Herkomst stroom | Mix EU | NL groen + Europees | 100% NL wind |
 
 Voor wie wil zien hoe ze stuk voor stuk presteren tegen vaste contracten: zie de [dynamisch vs vast contract analyse](/posts/dynamisch-vs-vast-contract-2026/) of de volledige [vergelijking dynamische energiecontracten 2026](/posts/dynamische-energiecontracten-vergelijking-2026/).
 
-## Servicegeld — waarom het bijna niet uitmaakt
+## Vaste kosten — waarom de opslag per kWh zwaarder weegt
 
-Veel vergelijkers focussen op servicegeld. Frank €5, Tibber €5,99, ANWB €5,95. Het verschil is €0,99 tot €0 per maand. Op jaarbasis maximaal €12.
+Veel vergelijkers focussen op het maandbedrag. Dat is de verkeerde knop. Bij Tibber betaal je €5,99 per maand per energiesoort; Frank en ANWB publiceren hun vaste kosten niet allebei even helder, dus die haal je van hun eigen tarievenpagina.
 
-Vergelijk dat met wat je werkelijk bespaart door slim te verbruiken: €30-€100 per maand voor een gemiddeld huishouden. €400-€500 per jaar voor een EV-rijder. De marge die ANWB rekent (€0,015/kWh × 3.500 kWh = €52,50) is significanter dan het servicegeldverschil.
+Wat vaak zwaarder weegt is de opslag per kWh. Rekenvoorbeeld met een verbruik van 3.500 kWh: €0,018/kWh inkoopkosten bij ANWB is zo'n €63 per jaar, €0,0248/kWh inkoopvergoeding bij Tibber ruim €86. Dat zijn bedragen in dezelfde orde als een heel jaar vaste kosten.
 
-**Vuistregel:** kijk niet naar servicegeld, kijk naar marge per kWh en naar de app-features die jouw besparingsgedrag faciliteren. De €12 die je bespaart op servicegeld bij Frank verdient zichzelf 10x terug als Tibber's app je helpt slimmer te laden.
+**Vuistregel:** vergelijk opslag per kWh × jouw jaarverbruik + vaste kosten per jaar, en weeg daarnaast de app-features die jouw besparingsgedrag faciliteren. Een paar euro verschil in maandbedrag verdient zichzelf terug als de app je helpt slimmer te laden.
 
 ## Dag/nacht — wat een typische woensdag eruit ziet op EPEX
 
@@ -219,7 +225,7 @@ Een Tesla Model 3 laadt thuis aan een 11 kW laadpaal in ongeveer 4-5 uur van 20%
 
 **Verschil: €768 per jaar puur op je auto.**
 
-Voor wie meer rijdt — leaseauto's, bezorgers, vertegenwoordigers — wordt het nog krasser. Bij 30.000 km/jaar praat je over €1.150 verschil per jaar. Dat dekt je servicegeld + Tibber Pulse + nog €1.000 over.
+Voor wie meer rijdt — leaseauto's, bezorgers, vertegenwoordigers — wordt het nog krasser. Bij 30.000 km/jaar praat je over €1.150 verschil per jaar in deze modelberekening. Dat dekt je vaste kosten en de aanschaf van een Tibber Pulse ruimschoots.
 
 Voor specifieke modeltips zie de [gids Tesla Model 3 slim laden met Tibber](/posts/tesla-model-3-slim-laden-tibber-2026/). De integratie met Tesla's API is het soepelst van alle merken.
 
@@ -228,9 +234,9 @@ Voor specifieke modeltips zie de [gids Tesla Model 3 slim laden met Tibber](/pos
 Een dynamisch contract is geen feestje als je niet oplet. Drie scenario's waarin het pijn doet:
 
 **Scenario 1: koudegolf zonder smart home**
-Januari 2025, vijf dagen min vier graden, weinig wind. EPEX-prijs piekte op €1,18/kWh om 18:00 op 14 januari. Een huishouden met warmtepomp dat zonder regeling om 18:00 begint te koken, draait wasmachine en heeft de warmtepomp vol aan: dat zijn 4-5 kWh in dat ene uur tegen meer dan een euro per kWh. €5+ in 60 minuten.
+Januari 2025, koud en weinig wind: de EPEX-prijs piekte op 20 januari om 17:00 op €0,63/kWh incl. btw — zes keer het jaargemiddelde. Een huishouden dat zonder regeling om die tijd kookt, de wasmachine draait en de warmtepomp vol aan heeft, verbruikt zo 4-5 kWh in dat ene uur. Tel de energiebelasting en inkoopvergoeding erbij op en je zit richting een euro per kWh — enkele euro's extra in 60 minuten (modelvoorbeeld op de geverifieerde piekprijs).
 
-Tijdens diezelfde koudegolf hadden ANWB Dynamisch-klanten een plafond van €0,40/kWh. Verschil over dat ene uur: €3,90. Over de hele week loopt dat verschil naar schatting op tot €30-€50, afhankelijk van het verbruik.
+ANWB-klanten zagen zo'n week niet direct op hun maandrekening terug, doordat ANWB met een vast termijnbedrag en jaarverrekening werkt. Het verbruik zelf wordt wel afgerekend — het komt later, bij de jaarafrekening. Een uurprijs-plafond dat de piek zelf afkapt, hebben wij niet op anwb.nl kunnen verifiëren.
 
 **Scenario 2: onverwachte windstilte in november**
 Eind november 2025 stond Nederland drie dagen lang op een hoogdrukgebied. Geen wind, weinig zon (mist). EPEX gemiddelde over die drie dagen: €0,22/kWh. Tweemaal normaal. Wie geen flexibiliteit had in z'n verbruik betaalde €40-€60 meer dan normaal in die week.
@@ -255,10 +261,10 @@ Eerlijke wetenschap: je gemiddelde dynamische-jaar is altijd goedkoper dan vast,
 - Je niet wilt tweak-en met smart-home integraties
 
 **ANWB Dynamisch is voor jou als:**
-- Je geen risico-tolerantie hebt voor piekprijzen
+- Je je maandlasten wil vlakken via een vast termijnbedrag
 - Je 100% Nederlandse windstroom belangrijk vindt
 - Je al ANWB-lid bent en korting krijgt
-- Je het kleine extra kost (€60-€90/jaar) waard vindt voor mentale rust
+- Je de €0,018/kWh inkoopkosten waard vindt voor die voorspelbaarheid
 
 Twijfel je nog tussen twee? Zie de duels: [Tibber vs ANWB Energie Dynamisch](/posts/tibber-vs-anwb-energie-dynamisch-2026/) en [Frank Energie vs Tibber](/posts/frank-energie-vs-tibber-2026/).
 
@@ -280,7 +286,7 @@ Voor zonnepaneel-bezitters zonder batterij geldt: dynamisch is nog steeds beter 
 
 - **EV-rijder + smart home**: Tibber. Geen discussie.
 - **Doorsnee huishouden zonder EV, wel zonnepanelen**: Frank Energie.
-- **Risico-mijdend, wil voorspelbaarheid**: ANWB Dynamisch.
+- **Wil voorspelbare maandlasten**: ANWB Dynamisch (vast termijnbedrag met jaarverrekening).
 - **Verbruik onder 2.000 kWh/jaar**: blijf bij vast contract — servicegeld eet je besparing op.
 - **Net verhuisd, geen vast contract**: kies dynamisch, een van de drie. Doe het meteen.
 - **Vast contract loopt nog**: bereken opzegboete vs maandelijkse besparing. Vaak terugverdiend in 1-3 maanden.
@@ -294,10 +300,10 @@ Zie de FAQ-sectie boven in de frontmatter — die gaat verder dan dit artikel to
 De drie grote dynamische spelers in Nederland — Tibber, Frank Energie en ANWB Dynamisch — zijn alledrie significant goedkoper dan een vast contract. Het verschil zit in jouw profiel:
 
 - **Tibber** wint op features. Voor EV-rijders en smart-home gebruikers €500-€700 voordeel per jaar boven andere dynamische opties door betere automatisering.
-- **Frank Energie** wint op eenvoud en Nederlandse identiteit. €12 per jaar goedkoper qua servicegeld, telefonische support.
-- **ANWB Dynamisch** wint op zenuwen. Prijsdemping bij €0,40/kWh kost gemiddeld €60-€90 per jaar maar geeft rust tijdens winterpieken.
+- **Frank Energie** wint op eenvoud en Nederlandse identiteit. Geen marge op EPEX, telefonische support; vaste kosten opvragen via de site.
+- **ANWB Dynamisch** wint op voorspelbaarheid van je maandlasten via het vaste termijnbedrag. Daar staat €0,018/kWh inkoopkosten tegenover; het verlaagt je jaarkosten niet.
 
-Onze inschatting: met twee elektrische auto's in huis is de auto-API van Tibber het argument dat de doorslag geeft — die automatisering verdient het hogere servicegeld ruimschoots terug. Voor een huishouden zonder EV, met alleen zonnepanelen en een eenvoudige behoefte, is Frank Energie de logischer keuze.
+Onze inschatting: met twee elektrische auto's in huis is de auto-API van Tibber het argument dat de doorslag geeft — die automatisering verdient de vaste kosten ruimschoots terug. Voor een huishouden zonder EV, met alleen zonnepanelen en een eenvoudige behoefte, is Frank Energie de logischer keuze.
 
 Wat je ook kiest: stap nú over. Elke maand uitstel kost je gemiddeld €40-€80. Vergelijk op de [Autoriteit Consument & Markt ConsuWijzer](https://www.consuwijzer.nl/energie) onafhankelijke informatie over je rechten bij overstap.
 

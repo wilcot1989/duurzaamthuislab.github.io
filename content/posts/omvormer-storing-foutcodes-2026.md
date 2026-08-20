@@ -1,7 +1,7 @@
 ---
 title: Omvormer storing? Foutcodes Goodwe, Solis, Huawei verklaard
 date: '2026-08-18 08:00:00+02:00'
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
 description: Overzicht van de meest voorkomende omvormer-foutcodes per merk, wat je zelf kunt oplossen en wanneer je de installateur moet bellen.
 categories:
@@ -101,7 +101,7 @@ Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is ove
 
 Onze aanbeveling per scenario:
 
-- **Klein huis, geen EV:** Huawei Luna — €3.795 voor 5 kWh, in 6-8 jaar terugverdiend.
+- **Klein huis, geen EV:** een 5 kWh batterij — circa €3.550 incl. btw, excl. installatie (Sessy 5 kWh als referentie, prijspeil aug 2026), in 6-8 jaar terugverdiend volgens modelberekening. Actuele Huawei Luna-prijs: zie vendor-site.
 - **Middelgroot, 1 EV:** 10 kWh batterij + slim laden via Tibber.
 - **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Huawei Luna.
 
@@ -117,7 +117,7 @@ Realistische cijfers voor 2026, exclusief eventuele subsidies:
 
 | Onderdeel | Kosten | Terugverdientijd |
 |---|---|---|
-| Huawei Luna basis | €3.795-€5.995 | 6-8 jaar |
+| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
 | P1-meter (HomeWizard) | €99 | < 1 jaar |
 | Home Assistant Yellow | €199 | n.v.t. (tool) |
 | Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
@@ -170,7 +170,7 @@ Dan zijn je opties beperkter, maar niet nul. Zie [onze huurwoning-guide](/posts/
 
 Wij adviseren stapsgewijs verduurzamen: begin met meten, voeg dan een slim product toe en bouw daar het platform omheen. Niet andersom.
 
-Onze concrete aanbeveling voor 2026: start met <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> en koppel het aan je dynamisch contract. Investering €3.795-€5.995, terugverdientijd 6-8 jaar, levensduur 15-20 jaar. Geen vendor lock-in.
+Onze concrete aanbeveling voor 2026: start met <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> en koppel het aan je dynamisch contract. Investering circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites), terugverdientijd 6-8 jaar (modelberekening), levensduur 15-20 jaar. Geen vendor lock-in.
 
 Verder lezen: [overzicht artikelen](/posts/cv-ketel-onderhoudscontract-2026-zin/), [gedetailleerde rekenmodellen](/posts/beste-omvormer-zonnepanelen-2026/) en [praktijkervaringen](/posts/huawei-luna-2000-review-2026/).
 

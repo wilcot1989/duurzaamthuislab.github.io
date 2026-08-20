@@ -37,7 +37,7 @@ faq:
 - q: Kun je een Sessy-alternatief koppelen aan Tibber?
   a: 'Marstek Venus heeft een beperkte Tibber-integratie via de cloud-API. Anker SOLIX werkt via HACS/Home Assistant integratie met dynamische contracten. EcoFlow heeft geen directe Tibber-koppeling maar werkt via Home Assistant-plugins. Sessy blijft de beste voor automatische NL-markt-trading zonder technische kennis.'
 - q: Wat is de terugverdientijd van een goedkopere thuisbatterij?
-  a: 'Bij Marstek Venus (€2.500, 5 kWh) en 10+ zonnepanelen: 6-9 jaar terugverdientijd afhankelijk van je verbruiksprofiel en energiecontract. Sessy (€5.995, 10 kWh) heeft een vergelijkbare terugverdientijd per kWh omdat de hogere capaciteit meer arbitrage oplevert.'
+  a: 'Bij Marstek Venus (€2.500, 5 kWh) en 10+ zonnepanelen: 6-9 jaar terugverdientijd afhankelijk van je verbruiksprofiel en energiecontract. Sessy (€5.500, 10 kWh, incl. btw, excl. installatie) heeft een vergelijkbare terugverdientijd per kWh omdat de hogere capaciteit meer arbitrage oplevert.'
 products:
 - name: Marstek Venus 5 kWh
   url: https://go.duurzaamthuislab.nl/marstek
@@ -56,9 +56,9 @@ last_updated: '2026-10-04'
 category: thuisbatterijen
 ---
 
-"Ik wil een thuisbatterij bij mijn 14 panelen, maar die Sessy van bijna €6.000 gaat me te ver — zijn er alternatieven?" Het is een van de meest gestelde vragen rond thuisbatterijen, en een terechte.
+"Ik wil een thuisbatterij bij mijn 14 panelen, maar die Sessy van ruim €5.000 gaat me te ver — zijn er alternatieven?" Het is een van de meest gestelde vragen rond thuisbatterijen, en een terechte.
 
-Sessy geldt inmiddels als het referentiepunt voor Nederlandse woningen, maar €5.995 voor 10 kWh is geen klein bedrag. Heb je maar 5 kWh nodig, stopt je budget bij €3.000, of wil je iets meer draagbaarheid — dan zijn er serieuze alternatieven.
+Sessy geldt inmiddels als het referentiepunt voor Nederlandse woningen, maar €5.500 voor 10 kWh (incl. btw, excl. installatie, prijspeil aug 2026) is geen klein bedrag. Heb je maar 5 kWh nodig, stopt je budget bij €3.000, of wil je iets meer draagbaarheid — dan zijn er serieuze alternatieven.
 
 Dit artikel is voor iedereen die twijfelt of de Sessy-prijs de meerwaarde rechtvaardigt. Wij vergelijken de vijf belangrijkste alternatieven op prijs per kWh, garantie, celtype, app-functionaliteit en integratiemogelijkheden.
 
@@ -68,11 +68,11 @@ Dit artikel is voor iedereen die twijfelt of de Sessy-prijs de meerwaarde rechtv
 
 > **Kort antwoord:** De Marstek Venus (€2.500) is het sterkste Sessy-alternatief voor wie een vaste thuisbatterij wil voor minder geld. EcoFlow Delta Pro Ultra (€4.500) en Anker SOLIX (~€3.000) zijn goede keuzes als je backup-stroom of Home Assistant-integratie zoekt. Jackery en Bluetti zijn portabele instap-opties — geen volwaardige thuisbatterij, maar bruikbaar als eerste stap. Wat je inlevert: Sessy's slimme Nederlandse energiehandel-app en volledig geoptimaliseerde Tibber-integratie.
 
-## Sessy op €5.995 — wanneer is dat te duur?
+## Sessy op €5.500 — wanneer is dat te duur?
 
 Eerst helder: wanneer is dit artikel relevant voor jou?
 
-[Sessy is een uitstekende thuisbatterij](/posts/sessy-review-thuisbatterij-nederland/). De app werkt, de Tibber-koppeling is de beste op de Nederlandse markt, en 10 kWh geeft een gezin voldoende buffer. Maar €5.995 is alleen zinvol als:
+[Sessy is een uitstekende thuisbatterij](/posts/sessy-review-thuisbatterij-nederland/). De app werkt, de Tibber-koppeling is de beste op de Nederlandse markt, en 10 kWh geeft een gezin voldoende buffer. Maar €5.500 (excl. installatie) is alleen zinvol als:
 
 - Je een bovengemiddeld verbruik hebt (4.000+ kWh/jaar)
 - Je 10+ zonnepanelen hebt (anders niet genoeg overschot voor 10 kWh)
@@ -105,7 +105,7 @@ Van alle alternatieven is de [Marstek Venus](/posts/marstek-venus-review-thuisba
 
 **Ons oordeel:** Marstek is een Chinees merk dat in Europa aan bekendheid wint. Het celtype is LFP — hetzelfde type als in de Tesla Powerwall en Sessy. Volgens de documentatie ontbreekt directe EPEX-trading; koppeling aan Home Assistant via de cloud-API maakt basale price-response wel mogelijk. Gebruikersreviews noemen de app functioneel maar minder gepolijst dan die van Sessy.
 
-Het grote voordeel: 5 kWh voor €2.500 is **€500/kWh**. Sessy doet €5.995 voor 10 kWh = €600/kWh. Marstek is goedkoper per kWh én je hebt al genoeg buffer voor een klein huishouden.
+Het grote voordeel: 5 kWh voor €2.500 is **€500/kWh**. Sessy doet €5.500 voor 10 kWh = €550/kWh. Marstek is goedkoper per kWh én je hebt al genoeg buffer voor een klein huishouden.
 
 **Wat je inlevert ten opzichte van Sessy:**
 - Geen automatische Nederlandse energiemarkt-trading
@@ -245,7 +245,7 @@ Het nadeel: €4.000 voor 6 kWh is €667/kWh, duurder dan Marstek en Sessy. De 
 
 | Eigenschap | Sessy 10 kWh | Marstek Venus 5 kWh | EcoFlow Delta Pro Ultra | Anker SOLIX X1 | Jackery 2000 Plus | Bluetti AC500 |
 |---|---|---|---|---|---|---|
-| Prijs | €5.995 | €2.500 | ~€4.500 | ~€3.000 | €1.799 | ~€4.000 |
+| Prijs | €5.500 | €2.500 | ~€4.500 | ~€3.000 | €1.799 | ~€4.000 |
 | Capaciteit | 10 kWh | 5 kWh | 6 kWh | 5 kWh | 2 kWh | 3-18 kWh |
 | Vermogen continu | 2,5 kW | 2,5 kW | 2,4 kW | 2,0 kW | 3,0 kW | 5,0 kW |
 | Celtype | LFP | LFP | LFP | LFP | LFP | LFP |
@@ -264,7 +264,7 @@ Dit is de berekening die je eigenlijk wil zien. Want een goedkopere batterij hoe
 | Product | Prijs | Capaciteit | Prijs/kWh | Garantie | Score |
 |---|---|---|---|---|---|
 | **Marstek Venus 5 kWh** | €2.500 | 5 kWh | **€500/kWh** | 10 jr | ★★★★★ |
-| Sessy 10 kWh | €5.995 | 10 kWh | €600/kWh | 10 jr | ★★★★☆ |
+| Sessy 10 kWh | €5.500 | 10 kWh | €550/kWh | 10 jr | ★★★★☆ |
 | Anker SOLIX X1 | €3.000 | 5 kWh | €600/kWh | 10 jr | ★★★★☆ |
 | Bluetti AC500 (6 kWh) | €4.000 | 6 kWh | €667/kWh | 5 jr | ★★★☆☆ |
 | EcoFlow Delta Pro Ultra | €4.500 | 6 kWh | €750/kWh | 5 jr | ★★★☆☆ |
@@ -325,7 +325,7 @@ Onderstaande keuzegids volgt uit de specificaties, garantietermijnen en integrat
 - Je verbruik hoog genoeg is voor 10 kWh (4.000+ kWh/jaar)
 - Je automatisch wil handelen op EPEX zonder technische kennis
 
-Voor meer context over de [thuisbatterij-prijs per kWh](/posts/thuisbatterij-prijs-per-kwh-2026/) in 2026, inclusief subsidies en terugverdientijden, is er een apart artikel.
+Voor meer context over de [thuisbatterij-prijs per kWh](/posts/thuisbatterij-prijs-per-kwh-2026/) in 2026 en terugverdientijden is er een apart artikel.
 
 ## Garantie en service: het verschil dat je pas later voelt
 
@@ -354,7 +354,7 @@ Een thuisbatterij vangt een deel van dat verlies op. In dit profiel is 10 kWh ni
 | Scenario | Investering | Jaarlijkse waarde | Terugverdientijd |
 |---|---|---|---|
 | Marstek Venus 5 kWh (vaste installatie) | €2.500 | €440/jaar | **5,7 jaar** |
-| Sessy 10 kWh | €5.995 | €550/jaar | **10,9 jaar** |
+| Sessy 10 kWh | €5.500 | €550/jaar | **10,0 jaar** |
 | Anker SOLIX 5 kWh | €3.000 | €440/jaar | **6,8 jaar** |
 | Jackery 2000 Plus (2 kWh) | €1.799 | €180/jaar | **10,0 jaar** |
 
@@ -366,7 +366,7 @@ Wil je weten hoeveel capaciteit jouw situatie vraagt? Lees de [thuisbatterij ver
 
 ## Subsidie en saldering in je keuze meenemen
 
-Een overweging die mensen vaak vergeten: de ISDE-subsidie. In 2026 geeft de Nederlandse overheid via [RVO de ISDE-subsidie](https://www.rvo.nl/subsidies-financiering/isde) voor thuisbatterijen bij gecombineerde installatie met een warmtepomp. Niet voor een standalone batterij — maar als je beide aanschaft, tel je mee.
+Reken niet op rijkssubsidie voor de batterij zelf. De [ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) dekt volgens RVO uitsluitend isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Thuisbatterijen staan er niet in — ook niet in combinatie met een warmtepomp. Wat wel kan: een gemeentelijke of provinciale regeling; die verschillen per regio, dus check dat bij je eigen gemeente. Op de batterij zelf betaal je bovendien 21% btw: het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij, ook niet als je hem samen met panelen koopt.
 
 De [saldering-stop in 2027](/posts/saldering-stopt-2027-volledige-gids/) versterkt de terugverdientijd van élke thuisbatterij aanzienlijk. Wie in 2026 koopt, heeft in 2027 direct de volle waarde van zijn investering.
 
@@ -382,7 +382,7 @@ Als backup-stroom prioriteit heeft: de EcoFlow Delta Pro Ultra is technisch ster
 
 Jackery en Bluetti zijn geen volwaardige vervangers voor een vaste thuisbatterij. Gebruik ze voor wat ze zijn: flexibele energieopslag voor onderweg en als noodstroomoplossing.
 
-En als je toch twijfelt: lees dan eerst de volledige [Sessy review](/posts/sessy-review-thuisbatterij-nederland/) en de [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/) naast elkaar. Het kan zijn dat €5.995 voor jóuw situatie toch de beste investering is.
+En als je toch twijfelt: lees dan eerst de volledige [Sessy review](/posts/sessy-review-thuisbatterij-nederland/) en de [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/) naast elkaar. Het kan zijn dat €5.500 voor jóuw situatie toch de beste investering is.
 
 *Vragen over je specifieke situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
@@ -405,4 +405,4 @@ En als je toch twijfelt: lees dan eerst de volledige [Sessy review](/posts/sessy
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie voor thuisbatterijen](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke overheidsinfo over subsidies bij warmtepomp + batterij combinatie.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van wat de ISDE wel en niet dekt (thuisbatterijen vallen er niet onder).

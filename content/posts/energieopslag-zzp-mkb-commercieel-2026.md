@@ -27,9 +27,9 @@ schema_type: Article
 affiliate: false
 faq:
 - q: 'Is energieopslag rendabel voor ZZP/MKB?'
-  a: 'Ja, vaak rendabeler dan voor particulieren. ZZP/MKB krijgt EIA-aftrek (45,5%) bovenop KIA, en heeft vaak hogere energieverbruik = grotere besparing. Terugverdientijd typisch 4-7 jaar.'
+  a: 'Ja, vaak rendabeler dan voor particulieren. ZZP/MKB krijgt EIA-aftrek (40% in 2026) bovenop KIA, en heeft vaak een hoger energieverbruik = grotere besparing. In onze modelberekeningen ligt de terugverdientijd op 3-7 jaar.'
 - q: 'Wat is EIA voor batterijopslag?'
-  a: 'Energie-investeringsaftrek: 45,5% extra fiscale aftrek op zakelijke energie-investeringen. Voor batterijopslag boven €2.500 toegankelijk. Cumuleerbaar met KIA en MIA/Vamil.'
+  a: 'Energie-investeringsaftrek: 40% extra fiscale aftrek op zakelijke energie-investeringen die op de Energielijst van RVO staan. Cumuleerbaar met KIA. Aanmelden binnen 3 maanden na opdrachtbevestiging.'
 - q: 'Welke batterij is beste voor commercieel?'
   a: 'Voor MKB tot 50 kWh: Sessy commercieel of BYD Battery-Box LV. Voor 50-200 kWh: Pylontech Force-H2 of Victron systeem. Voor >200 kWh: Tesla Powerpack / Megapack of dedicated industriële opslag.'
 - q: 'Werkt arbitrage op spotmarkt voor MKB?'
@@ -49,9 +49,9 @@ products:
   url: https://en.pylontech.com.cn/
   price: '12000'
 ---
-**Modelberekening (rekenvoorbeeld, geen klantcase):** een lasbedrijf met 80 zonnepanelen op de loods (24 kWp), 38.000 kWh verbruik per jaar en circa €11.500 energiekosten. Met een 30 kWh BYD Battery-Box LV plus smart laden op een dynamisch contract komt de gemodelleerde jaarbesparing uit op €4.200. Daar bovenop: EIA-aftrek 45,5% × €18.500 = €8.418 belastingvoordeel en KIA 28% van de investering = €5.180.
+**Modelberekening (rekenvoorbeeld, geen klantcase):** een lasbedrijf met 80 zonnepanelen op de loods (24 kWp), 38.000 kWh verbruik per jaar en circa €11.500 energiekosten. Met een 30 kWh BYD Battery-Box LV plus smart laden op een dynamisch contract komt de gemodelleerde jaarbesparing uit op €4.200. Daar bovenop de fiscale kant: EIA-aftrek 40% × €18.500 = €7.400 extra aftrek (bij een IB-tarief van 49,5% een belastingvoordeel van €3.663) en KIA 28% × €18.500 = €5.180 aftrek (belastingvoordeel €2.564).
 
-Uitkomst van het model: €18.500 investering, €13.598 fiscale voordelen en €4.200/jaar besparing — rekenkundig terugverdiend in ruim een jaar. Let op: de fiscale voordelen zijn eenmalig en gelden alleen bij voldoende winst; de aannames over laadpatroon en prijsspreiding bepalen het resultaat sterk.
+Uitkomst van het model: €18.500 investering (exclusief btw, die je bij zakelijk gebruik terugvraagt), €6.227 aan eenmalig belastingvoordeel en €4.200/jaar besparing — rekenkundig terugverdiend in circa 2,9 jaar. Let op: de fiscale voordelen zijn eenmalig en gelden alleen bij voldoende winst; de aannames over laadpatroon en prijsspreiding bepalen het resultaat sterk.
 
 Hieronder de complete gids voor energieopslag in commerciële context: ZZP, MKB en kleine bedrijven in 2026.
 
@@ -60,7 +60,7 @@ Hieronder de complete gids voor energieopslag in commerciële context: ZZP, MKB 
 
 > **Kort antwoord:** Energieopslag voor ZZP en MKB in 2026: ROI, investeringssubsidies (EIA, KIA), commerciële batterij­opties en wanneer een industriële opslag rendabel is.
 >
-> Ja, vaak rendabeler dan voor particulieren. ZZP/MKB krijgt EIA-aftrek (45,5%) bovenop KIA, en heeft vaak hogere energieverbruik = grotere besparing. Terugverdientijd typisch 4-7 jaar.
+> Ja, vaak rendabeler dan voor particulieren. ZZP/MKB krijgt EIA-aftrek (40% in 2026) bovenop KIA, en heeft vaak een hoger energieverbruik = grotere besparing. In onze modelberekeningen ligt de terugverdientijd op 3-7 jaar.
 
 ## Waarom energieopslag voor bedrijven anders rendabel is
 
@@ -69,8 +69,8 @@ Hieronder de complete gids voor energieopslag in commerciële context: ZZP, MKB 
 | Aspect | Particulier | ZZP/MKB |
 |--------|------------|---------|
 | Saldering | Wordt afgebouwd 2027 | Geen saldering — direct relevant |
-| BTW | 0% sinds 2023 | 21% terug te vragen |
-| EIA-aftrek | Niet | Ja, 45,5% |
+| BTW op de batterij | 21%, niet terugvorderbaar | 21%, terug te vragen voor het zakelijke deel |
+| EIA-aftrek | Niet | Ja, 40% (EIA-percentage 2026) |
 | KIA-aftrek | Beperkt | Ja, tot 28% |
 | Tarieven energie | Vast/dynamisch | Vaak hoger + spitstarief |
 | Verbruikspatroon | Avond piek | Vaak overdag piek |
@@ -111,21 +111,21 @@ Voorbeeld: lasbedrijf piekt 80 kW kort, gemiddeld 15 kW. Vermogenscontract van 8
 
 ### EIA (Energie-investeringsaftrek)
 
-55,5% extra fiscale aftrek op investeringen die op de "Energielijst" staan.
+40% extra fiscale aftrek op investeringen die op de "Energielijst" van RVO staan (percentage 2026).
 
 Voor batterijopslag in 2026:
-- Code 250000: thuisbatterijen op de Energielijst
-- Investering moet >€2.500 zijn (drempel)
-- 45,5% EIA-aftrek
+- Check de actuele Energielijst van RVO of jouw type opslag erop staat en onder welke code
+- Investering moet boven de jaarlijkse drempel liggen (rond €2.500; RVO indexeert dit)
+- 40% EIA-aftrek — het percentage dat RVO voor 2026 noemt
 - Plus normale afschrijving
 
-Voorbeeld: €18.500 batterij investering
-- EIA: 45,5% × €18.500 = €8.418 extra aftrek
-- Bij IB-tarief 49,5%: belastingvoordeel €4.167
+Voorbeeld: €18.500 batterij investering (exclusief btw)
+- EIA: 40% × €18.500 = €7.400 extra aftrek
+- Bij IB-tarief 49,5%: belastingvoordeel €3.663
 
 ### KIA (Kleinschaligheidsinvesteringsaftrek)
 
-Tot 28% extra aftrek bij investeringen tussen €2.801 en €71.675. Cumulatief met EIA.
+Tot 28% extra aftrek bij investeringen boven de jaarlijkse drempel (orde van grootte €2.600-€2.800) tot circa €70.000. De exacte grenzen worden jaarlijks geïndexeerd — check ze bij de Belastingdienst. Cumulatief met EIA.
 
 ### MIA / Vamil (Milieu-investerings­aftrek)
 
@@ -133,7 +133,7 @@ Niet voor batterijopslag specifiek — wel soms voor specifieke duurzame combina
 
 ### BTW
 
-21% BTW kan bij zakelijk gebruik direct worden teruggevraagd via BTW-aangifte. Bij privé-deel niet.
+Op de levering en installatie van een batterij geldt 21% BTW. Het nultarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet het accupakket of de thuisbatterij, ook niet bij gelijktijdige aanschaf. Die 21% kan bij zakelijk gebruik wel als voorbelasting worden teruggevraagd via de BTW-aangifte. Voor het privé-deel niet.
 
 ## Stappenplan: investering plannen
 
@@ -200,12 +200,11 @@ Het rekenvoorbeeld uit de inleiding, uitgewerkt:
 - 38.000 kWh/jaar verbruik
 - 30 kWh BYD Battery-Box LV
 
-Investering totaal: €18.500
-Subsidies + voordelen:
-- EIA-aftrek: 45,5% × €18.500 = €8.418 → IB-voordeel €4.167
+Investering totaal: €18.500 exclusief btw. De 21% btw (€3.885) vraag je bij zakelijk gebruik terug via de aangifte, dus die is cash-neutraal en verlaagt de investering niet.
+Fiscale voordelen:
+- EIA-aftrek: 40% × €18.500 = €7.400 → IB-voordeel bij 49,5% = €3.663
 - KIA-aftrek: 28% × €18.500 = €5.180 → IB-voordeel €2.564
-- BTW-teruggave: €3.852
-- Netto investering: €18.500 - €3.852 - €4.167 - €2.564 = **€7.917**
+- Netto investering: €18.500 - €3.663 - €2.564 = **€12.273**
 
 Jaarlijkse besparing:
 - Eigen-verbruik verhoging: €1.800
@@ -213,45 +212,44 @@ Jaarlijkse besparing:
 - Piekafvlakking vermogen­tarief: €700
 - **Totaal: €4.200/jaar**
 
-Terugverdientijd netto: **1,9 jaar**
+Terugverdientijd netto in deze modelberekening: **circa 2,9 jaar**
 
 ### Casus 2: ZZP-fotograaf met thuiskantoor
 
 40% kantoor van woning. Verbruik 6.000 kWh/jaar. 12 zonnepanelen.
 
-Investering: 10 kWh Sessy: €5.995
-Zakelijk deel (40%): €2.398
-Privé deel (60%): €3.597
+Investering: 10 kWh Sessy: €5.500 incl. btw, excl. installatie (prijspeil aug 2026)
+Zakelijk deel (40%): €2.200 incl. btw
+Privé deel (60%): €3.300 incl. btw
 
-EIA op zakelijk deel: 45,5% × €2.398 = €1.091 → IB-voordeel €540
+Op de batterij zit 21% btw — het nultarief voor zonnepanelen dekt de accu niet. Van het zakelijke deel is die btw (€382) wel als voorbelasting terug te vragen; over het privédeel niet. Zakelijk deel exclusief btw: €1.818.
+
+EIA op zakelijk deel: 40% × €1.818 = €727 → IB-voordeel bij 49,5% = €360
 KIA op zakelijk deel: te laag (onder drempel — maar combineer met andere investeringen)
 
-Geen BTW-teruggave op nieuwe installaties.
-
-Effectieve zakelijke kosten: €2.398 - €540 = €1.858
+Effectieve zakelijke kosten: €1.818 - €360 = €1.458
 
 Jaarlijkse besparing zakelijk deel: €170 + arbitrage €100 = €270
 
-Terugverdientijd zakelijk deel: 6,9 jaar (acceptabel).
+Terugverdientijd zakelijk deel: circa 5,4 jaar in deze modelberekening.
 
 ### Casus 3: Kleine winkel Utrecht
 
 Banketbakker, 4 ovens, vriezers. Verbruik 65.000 kWh/jaar. Geen eigen panelen mogelijk (te klein dak).
 
-Investering: 60 kWh BYD systeem voor pure arbitrage: €38.000
+Investering: 60 kWh BYD systeem voor pure arbitrage: €38.000 exclusief btw. De btw (€7.980) is bij zakelijk gebruik terugvorderbaar en dus cash-neutraal.
 
-EIA: 45,5% × €38.000 = €17.290 → IB-voordeel €8.560
-KIA: €38.000 ligt in 2e schijf, vast bedrag €20.069 → maar al gehaald met andere investeringen
-BTW: €7.918
+EIA: 40% × €38.000 = €15.200 → IB-voordeel bij 49,5% = €7.524
+KIA: €38.000 valt in de 2e schijf, maar de KIA is hier al benut met andere investeringen
 
-Netto kosten: €38.000 - €7.918 - €8.560 = €21.522
+Netto kosten: €38.000 - €7.524 = €30.476
 
 Jaarlijkse besparing arbitrage:
 - 65.000 kWh × €0,08 gem. arbitrage × 60% benutbaar = €3.120
 - Plus piekafvlakking €1.500
 - **Totaal: €4.620/jaar**
 
-Terugverdientijd: 4,7 jaar.
+Terugverdientijd in dit model: circa 6,6 jaar.
 
 ### Casus 4: Bouwbedrijf Brabant
 
@@ -263,11 +261,11 @@ Plus: nieuwe panelen 60 kWp bij batterij mogelijk (anders niet door netcongestie
 Extra investering panelen: €60.000
 Totale investering: €132.000
 
-EIA: 45,5% × €132.000 = €60.060 → IB-voordeel €29.730
-KIA: €20.069 (vast in 2e schijf)
-BTW: €27.521
+EIA: 40% × €132.000 = €52.800 → IB-voordeel bij 49,5% = €26.136
+KIA: €20.069 aftrek (vast bedrag in de 2e schijf) → IB-voordeel €9.934
+BTW: €27.720, terugvorderbaar bij zakelijk gebruik en daarmee cash-neutraal
 
-Netto kosten: €132.000 - €27.521 - €29.730 - €20.069 × 0,495 (IB-voordeel) = €132.000 - €27.521 - €29.730 - €9.934 = €64.815
+Netto kosten: €132.000 - €26.136 - €9.934 = €95.930
 
 Jaarlijkse besparing:
 - Eigen panelen-productie: €15.000
@@ -275,7 +273,7 @@ Jaarlijkse besparing:
 - Piekafvlakking: €2.500
 - **Totaal: €22.000/jaar**
 
-Terugverdientijd: 2,9 jaar (uitstekend).
+Terugverdientijd in dit model: circa 4,4 jaar.
 
 ## Netcongestie als argument
 
@@ -354,7 +352,7 @@ Voor MKB met EV-vloot: monitor deze ontwikkeling. Op basis van de aangekondigde 
 
 ## Conclusie: ZZP/MKB-opslag verdient zich snel terug
 
-Met EIA, KIA, BTW-teruggave en saldering-vrij rekenen is MKB-batterijopslag in 2026 vaak al na 2-5 jaar rendabel. Aanmerkelijk sneller dan particulier.
+Met EIA, KIA en het feit dat er voor zakelijke aansluitingen geen saldering te missen valt, komt MKB-batterijopslag in onze modelberekeningen uit op circa 3 tot 7 jaar. Dat is sneller dan bij particulieren, maar het blijven modellen: de uitkomst hangt af van je verbruiksprofiel, je tarief en je belastingpositie.
 
 Aanbevelingen op basis van bovenstaande doorrekeningen:
 1. **Doe energie-analyse** (verbruikspatroon, pieken, contract)
@@ -397,14 +395,14 @@ Voor MKB onder 50 kWh: Pylontech of BYD bieden beste prijs/capaciteit. Voor hoge
 
 ### EIA 2026 — 40% aftrek energie
 
-- Voor batterij ≥5 kWh in commerciële context: ja, EIA van toepassing (code 220505 op EIA-lijst 2026)
-- Aftrekpercentage: 40% van investering
-- Bij vennootschapsbelasting van 25,8%: effectieve subsidie 10,3%
+- Voor een batterij in commerciële context: check of de investering op de actuele Energielijst van RVO staat — dat bepaalt of EIA van toepassing is
+- Aftrekpercentage: 40% van de investering (percentage dat RVO voor 2026 noemt)
+- Bij vennootschapsbelasting van 25,8%: effectief circa 10,3% van de investering
 - Aanmelden binnen 3 maanden via RVO eLoket
 
 ### KIA — 28% aftrek
 
-- Voor zakelijke investeringen €2.601 - €69.765
+- Voor zakelijke investeringen boven de jaarlijkse drempel tot circa €70.000 (bedragen worden geïndexeerd — check de Belastingdienst)
 - Combineerbaar met EIA (op zelfde investering)
 - Bij €15.000 batterij: KIA-aftrek €4.200 (28%)
 
@@ -421,14 +419,14 @@ Voor MKB onder 50 kWh: Pylontech of BYD bieden beste prijs/capaciteit. Voor hoge
 
 ## Mini case: drukkerij Helmond
 
-MKB-klant 2025: drukkerij 24/7 productie, 280.000 kWh/jr verbruik. 80 kWp zonnepanelen al aanwezig. Vraag: rendabel om 60 kWh batterij toe te voegen?
+Modelcasus: drukkerij met 24/7 productie, 280.000 kWh/jr verbruik, 80 kWp zonnepanelen al aanwezig. Vraag: is het rendabel om 60 kWh batterij toe te voegen?
 
-Doorgerekende cijfers:
-- Investering Pylontech-Victron 60 kWh: €38.500 incl install
-- EIA 40%: €15.400 aftrek (vpb-effect €3.970)
-- KIA 28%: €10.780 aftrek (vpb-effect €2.780)
-- BTW-teruggave: €8.085
-- Netto investering: €23.665
+Doorgerekende cijfers (modelberekening, vpb-tarief 25,8%):
+- Investering Pylontech-Victron 60 kWh: €38.500 exclusief btw, inclusief installatie
+- EIA 40%: €15.400 aftrek (vpb-effect €3.973)
+- KIA 28%: €10.780 aftrek (vpb-effect €2.781)
+- BTW €8.085: terugvorderbaar bij zakelijk gebruik, dus cash-neutraal
+- Netto investering: €31.746
 
 Voordelen:
 - Eigenverbruik van 47% naar 81% = 25.500 kWh meer zelf benut
@@ -437,7 +435,7 @@ Voordelen:
 - Plus piek-shaven (capaciteits-tarief): €820/jr
 
 Totale jaarbesparing: €9.210
-Terugverdientijd: 2,6 jaar — uitzonderlijk gunstig dankzij continu verbruikspatroon.
+Terugverdientijd in dit model: circa 3,4 jaar — relatief gunstig dankzij het continue verbruikspatroon.
 
 ## Veelgemaakte fouten
 

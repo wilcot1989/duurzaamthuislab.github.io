@@ -1,7 +1,7 @@
 ---
 title: 'BYD Battery-Box Review 2026: Chinese Reus in Nederland'
 date: 2026-07-02 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: 'BYD Battery-Box Premium HVS review: wij analyseren de Chinese hoogvolt-thuisbatterij op specificaties, prijs, betrouwbaarheid en alternatieven voor de Nederlandse markt.'
 draft: false
 categories:
@@ -44,7 +44,7 @@ products:
   price: '5500'
 - name: Sessy 10 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  price: '5500'
 - name: Frank Energie dynamisch
   url: https://www.frankenergie.nl/
   price: '0'
@@ -97,7 +97,7 @@ Kostenoverzicht voor deze case:
 - Arbeidskosten installateur: €1.450
 - **Totaal: €10.200 inclusief BTW**
 
-Vergelijk met Sessy 10 kWh all-in: €5.995. De BYD is ~70% duurder vanwege de verplichte omvormer-vervanging.
+Vergelijk met Sessy 10 kWh: €5.500 incl. btw, excl. installatie (prijspeil aug 2026); reken op circa €1.200 voor een basisinstallatie, dus circa €6.700 totaal. De BYD is daarmee ruim €3.000 duurder vanwege de verplichte omvormer-vervanging.
 
 Tip: heb je al een hybride omvormer (Goodwe, Fronius, Solis, SMA), dan val je op €6.500-€7.000 totaal. Anders wordt BYD snel te duur.
 
@@ -169,12 +169,14 @@ Voor backup heb je een speciale "Backup Box" nodig (€800 extra) plus configura
 | Model | Bruikbaar | Hardwareprijs | Totaal install | €/kWh | Garantie |
 |-------|-----------|--------------|---------------|-------|----------|
 | BYD HVS 10.2 | 10,24 kWh | €5.500 | €10.200* | €996 | 10 jaar |
-| Sessy 10 kWh | 9,6 kWh | €5.995 | €5.995 | €625 | 10 jaar |
+| Sessy 10 kWh | 9,6 kWh | €5.500 | €6.700** | €698 | 10 jaar |
 | Tesla Powerwall 3 | 13,5 kWh | €9.500 | €9.500 | €704 | 10 jaar |
 | Huawei Luna 10 kWh | 10 kWh | €4.800 | €6.800 | €680 | 10 jaar |
 | Marstek Venus 5 kWh ×2 | 10 kWh | €3.998 | €4.500 | €450 | 10 jaar |
 
 *Inclusief vervanging van bestaande omvormer. Met bestaande hybride omvormer ~€6.500.
+
+**Hardwareprijs Sessy plus circa €1.200 basisinstallatie; Sessy rekent installatie apart (prijspeil aug 2026).
 
 ## Voor wie is BYD Battery-Box geschikt?
 
@@ -292,9 +294,9 @@ Het meest onderschatte aandachtspunt bij BYD is niet de batterij maar de koppeli
 
 Een concreet rendementsverschil tussen BYD, Sessy en Marstek noemen wij niet: er is geen openbare test waarin deze systemen onder gelijke condities zijn doorgemeten, en de opgaven van de fabrikanten zijn niet volgens dezelfde methode tot stand gekomen.
 
-## NL-specifiek: BTW, ISDE en installatie
+## NL-specifiek: btw, subsidie en installatie
 
-Voor particulieren is BTW van 21% niet terug te vorderen. ISDE/RVO geven geen subsidie op thuisbatterijen. Wel via gemeenten: Utrecht €1.000, Nijmegen €750, Amsterdam stopte regeling per januari 2026. Check je gemeente vóór tekenen offerte.
+Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Voor particulieren valt die btw in de regel niet terug te vragen; alleen wie als btw-ondernemer stroom teruglevert kan er in specifieke gevallen aanspraak op maken, en dan geldt onder meer de eis van een energiemanagementsysteem en een dynamisch contract (zie belastingdienst.nl). Rijkssubsidie is er niet: de ISDE dekt voor woningeigenaren alleen isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Sommige gemeenten hebben wel een eigen regeling voor batterijopslag, maar die komen en gaan — check de actuele voorwaarden en bedragen bij je eigen gemeente vóór je een offerte ondertekent.
 
 Bouwbesluit eist sinds 2024 dat batterijen >5 kWh in aparte ruimte of brandwerende kast — bij BYD zit dit standaard in de behuizing maar plaatsing in woonkamer mag niet zonder extra brandscheiding. Verzekeraars vragen vaak SCIOS Scope 12 keuring (€280) — soms inbegrepen in installatieprijs.
 
@@ -341,4 +343,4 @@ Bij gezin met EV en Tesla Powerwall is de keuze duidelijk Tesla, maar bij niet-T
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van wat de ISDE wel en niet dekt (thuisbatterijen vallen er niet onder).

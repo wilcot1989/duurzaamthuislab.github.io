@@ -1,7 +1,7 @@
 ---
 title: 'Beste Powerstation Blackout & Noodgeval 2026'
 date: 2026-10-12 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
 description: "Top 5 powerstations voor stroomuitval: EcoFlow, Jackery, Bluetti, Anker en Goal Zero vergeleken op capaciteit, prijs en backup-duur."
 categories:
@@ -59,10 +59,11 @@ last_updated: '2026-10-12'
 category: powerstations
 ---
 
+*Volledige vergelijking van alle typen: [beste draagbare powerstation 2026](/posts/beste-draagbare-powerstation-2026/) — deze pagina is de keuzehulp voor noodstroom bij stroomuitval.*
+
 *Disclosure: wij hebben affiliate-partnerships met EcoFlow, Jackery, Bluetti en Anker Solix via AWIN. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 ---
-
 Storm Eunice in februari 2022 legde in grote delen van Nederland het net plat. In januari 2025 zat Apeldoorn na een transformatorbrand ruim elf uur zonder stroom. Bij elke grootschalige storing komen dezelfde twee vragen op: hoe lang houd ik het vol zonder stroom, en wat moet ik kopen?
 
 Dit artikel geeft daar antwoord op: welk vermogen je écht nodig hebt, hoe de rekensommen werken en welk model bij welk huishouden past. De vergelijking is gebaseerd op fabrieksspecificaties, handleidingen, publieke prijzen en gebruikersreviews.

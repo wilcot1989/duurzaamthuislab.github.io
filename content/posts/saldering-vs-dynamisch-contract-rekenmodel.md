@@ -264,7 +264,7 @@ Over 5 jaar: €2.395 extra besparing — meer dan genoeg om een goede P1-monito
 
 ### Fout 1: "Dynamisch is te onzeker"
 
-Mensen denken aan de extreme winterweek van januari 2025 waarbij de avondprijs naar €1,18/kWh ging. Wat ze vergeten: dat zijn uren, geen dagen. Het maandgemiddelde was die maand €0,29/kWh — vergelijkbaar met een vast contract. En dat was een uitzonderlijk slechte week.
+Mensen denken aan de koude januariweek van 2025, toen het duurste uur op €0,63/kWh incl. btw uitkwam (20 januari, avondpiek). Wat ze vergeten: dat zijn losse uren, geen dagen. Het maandgemiddelde van januari 2025 was €0,142/kWh — kale beursprijs incl. btw (EPEX-uurdata via EnergyZero, geteld door onze redactie, peildatum 20 augustus 2026). Zelfs de duurste wintermaand ligt op de beurs dus ver onder wat de piekuren suggereren.
 
 Structureel zijn dynamische tarieven voordeliger voor wie z'n verbruik enigszins kan sturen. En met zonnepanelen lever je toch al terug, waardoor piekuren voor jou minder relevant zijn.
 
@@ -434,8 +434,8 @@ Hierboven zijn het individuele voordeel van dynamisch (per profiel) en de opbren
 - Teruglevering daalt van 1.400 naar 300 kWh
 - Afname van net daalt van 1.900 naar 800 kWh
 - Energierekening 2027: ~€550
-- Batterijinvestering: €3.795
-- Terugverdientijd batterij: €3.795 / (€960 - €550) = **9,2 jaar**
+- Batterijinvestering: €3.550 (Sessy 5 kWh, incl. btw, excl. installatie, prijspeil aug 2026)
+- Terugverdientijd batterij: €3.550 / (€960 - €550) = **8,7 jaar** (modelberekening)
 - Na terugverdientijd: batterij levert 9,2 jaar puur winst
 
 **Scenario D: Frank Energie dynamisch + Sessy 5 kWh + EV slim laden**

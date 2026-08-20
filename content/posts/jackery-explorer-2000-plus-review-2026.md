@@ -358,7 +358,7 @@ De Jackery Battery Pack 2000 Plus (€1.499 per stuk, 2.042 Wh) maakt uitbreiden
 - Prijs: €9.394
 - Kosten per Wh: €0,77
 
-Ter vergelijking: een vaste thuisbatterij (Sessy 5 kWh: €3.795, Huawei Luna 2000 10 kWh: ~€7.000) kost €0,70-€0,76 per Wh inclusief installatie. Voor grote Jackery-configuraties nader je de prijs van een thuisbatterij, maar je krijgt een mobiel systeem dat je ook kunt meenemen.
+Ter vergelijking: een vaste thuisbatterij (Sessy 5 kWh: €3.550 incl. btw, excl. installatie, prijspeil aug 2026; Huawei Luna 2000 10 kWh: ~€7.000) kost circa €0,70-€0,95 per Wh inclusief installatie. Voor grote Jackery-configuraties nader je de prijs van een thuisbatterij, maar je krijgt een mobiel systeem dat je ook kunt meenemen.
 
 **Ons redactionele oordeel**: begin met het basisstation. Voeg maximaal één Battery Pack toe als je meer nodig hebt. Boven de twee packs word je beter bediend door een thuisbatterij voor de vaste situatie.
 

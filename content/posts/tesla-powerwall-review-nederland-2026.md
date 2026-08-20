@@ -29,7 +29,7 @@ faq:
 - q: Is de Tesla Powerwall beschikbaar in Nederland?
   a: Ja, de Tesla Powerwall 3 is beschikbaar in Nederland via Tesla-gecertificeerde installateurs. De beschikbaarheid is verbeterd ten opzichte van eerdere jaren, maar levertijden van 4-8 weken zijn nog steeds gebruikelijk.
 - q: Hoe lang duurt het voordat een Tesla Powerwall zichzelf terugverdient?
-  a: Met de huidige salderingsregeling (2026) is de terugverdientijd circa 11-14 jaar. Na de afbouw van de salderingsregeling (2027-2031) daalt dit naar circa 8-10 jaar. Met ISDE-subsidie kun je uitkomen op 7-9 jaar.
+  a: Met de huidige salderingsregeling (2026) is de terugverdientijd circa 11-14 jaar. Na de afbouw van de salderingsregeling (2027-2031) daalt dit naar circa 8-10 jaar. Dat zijn modelberekeningen; landelijke subsidie voor thuisbatterijen bestaat niet, dus de investering blijft volledig voor eigen rekening.
 - q: Kan ik meerdere Tesla Powerwalls koppelen?
   a: Ja, je kunt tot 4 Tesla Powerwalls parallel koppelen voor een totale capaciteit van 54 kWh en 20 kW continu vermogen. Dit is interessant voor grotere woningen of bij hoog energieverbruik.
 - q: Werkt de Tesla Powerwall bij stroomuitval?
@@ -245,11 +245,16 @@ De terugverdientijd is cruciaal bij de aanschaf van een thuisbatterij. We bereke
 |---|---|---|
 | **Met volledige saldering (2026)** | €650 - €850 | 12-16 jaar |
 | **Na afbouw saldering (2031+)** | €1.000 - €1.350 | 8-10 jaar |
-| **Na afbouw + ISDE-subsidie** | €1.000 - €1.350 (investering lager) | 6-8 jaar |
 
-### ISDE-subsidie
+Dit zijn modelberekeningen op basis van de uitgangspunten hierboven, geen gemeten resultaten.
 
-Via de **ISDE-regeling** kun je subsidie krijgen voor je thuisbatterij. In 2026 bedraagt deze tot **€900 per kWh** met een maximum van **€5.400**. Voor een Powerwall 3 (13,5 kWh) kun je het maximale bedrag van €5.400 aanvragen, wat de netto-investering aanzienlijk verlaagt. Lees alle details in ons [subsidie-overzicht](/posts/zonnepanelen-subsidie-nederland-2026/).
+### Subsidie: waar je niet op moet rekenen
+
+Voor een thuisbatterij bestaat op rijksniveau geen subsidie. De ISDE voor woningeigenaren dekt volgens de [RVO](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) uitsluitend isolatie, ventilatie in combinatie met isolatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — batterijen, zonnepanelen en laadpalen vallen erbuiten.
+
+Wat er wél kan zijn: sommige gemeenten en provincies hebben eigen regelingen of leningen. Die zijn regionaal en veranderen regelmatig, dus check je gemeentewebsite vóór je bestelt. Reken in je terugverdienberekening met de volle investering; komt er lokaal toch iets bij, dan is dat meevaller, geen uitgangspunt. Zie ook ons [subsidie-overzicht](/posts/zonnepanelen-subsidie-nederland-2026/).
+
+Btw is evenmin een voordeelpost: op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt.
 
 ---
 
@@ -316,7 +321,7 @@ Investering: €10.500 incl. installatie. Terugverdientijd: **7,3 jaar**.
 
 Na saldering-stop 2027: eigen verbruik-component stijgt naar €650/jaar. Totaal stijgt naar ~€1.700/jaar → terugverdientijd: **6,2 jaar**.
 
-**Met ISDE-subsidie** (als en wanneer van kracht in 2027): investering daalt naar ~€5.100 netto → terugverdientijd: **3 jaar**.
+Dit is een modelberekening met de volle investering van €10.500. We rekenen geen subsidie mee, omdat er voor thuisbatterijen geen landelijke regeling bestaat; een eventuele gemeentelijke bijdrage verkort de terugverdientijd met ongeveer het bedrag dat je krijgt gedeeld door de jaarbesparing.
 
 ## Saldering stopt 2027: het Powerwall-moment
 
@@ -439,4 +444,4 @@ Benieuwd naar alle opties? Lees ons complete overzicht van de [beste thuisbatter
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).

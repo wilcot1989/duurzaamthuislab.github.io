@@ -477,6 +477,7 @@
       <span id="hp-nu-dot" style="width:10px;height:10px;border-radius:50%;background:#888;flex-shrink:0;box-shadow:0 0 0 3px rgba(255,255,255,.08);"></span>
       <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:rgba(250,247,240,.65);">Stroomprijs nu</div>
       <div id="hp-nu" style="font-family:var(--display);font-size:1.35rem;font-weight:500;">—</div>
+      <div id="hp-nu-belasting" title="Kale beursprijs + energiebelasting 2026 (€0,111/kWh incl. btw, schijf 1, bron: Belastingdienst) — de inkoopvergoeding van je leverancier komt daar nog bij" style="font-size:.78rem;color:rgba(250,247,240,.65);"></div>
       <div id="hp-nu-label" style="font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;padding:.2rem .6rem;border-radius:999px;background:rgba(250,247,240,.12);">laden…</div>
     </div>
     <div id="hp-spark" style="display:flex;align-items:flex-end;gap:1.5px;height:34px;flex:1;min-width:180px;max-width:420px;"></div>
@@ -502,6 +503,7 @@
     if(nu===null)nu=prijzen[prijzen.length-1];
     var el=function(id){return document.getElementById(id);};
     el('hp-nu').textContent='€ '+nu.toFixed(3);
+    el('hp-nu-belasting').textContent='incl. belasting ± € '+(nu+0.11085).toFixed(2);
     var band=nu<=min+(max-min)*0.33?['goedkoop','#1a7a4a','#7ed6a5']:(nu>=min+(max-min)*0.66?['duur','#8a2f2f','#f2a1a1']:['gemiddeld','#7a6a2f','#e8d48a']);
     el('hp-nu-label').textContent='nu '+band[0];el('hp-nu-label').style.background=band[1];el('hp-nu-dot').style.background=band[2];
     var minU=d.uren.filter(function(u){return u.prijs===min;})[0],maxU=d.uren.filter(function(u){return u.prijs===max;})[0];
