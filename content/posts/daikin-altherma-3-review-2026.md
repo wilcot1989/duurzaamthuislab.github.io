@@ -1,7 +1,7 @@
 ---
 title: 'Daikin Altherma 3 review 2026: marktleider verdient die'
 date: 2026-07-17 08:00:00+02:00
-lastmod: 2026-07-17 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Daikin Altherma 3 is de bestverkochte lucht-water warmtepomp van Nederland. Maar is hij ook de beste keuze voor jouw situatie? Mijn eerlijke test.
 categories:
 - warmtepompen
@@ -61,7 +61,7 @@ Ik snapte zijn achterdocht. Als iedereen hetzelfde zegt, kan het zijn dat ze all
 
 In dit geval was het antwoord genuanceerd. De Altherma 3 is inderdaad veelal de juiste keuze — maar niet altijd, en niet voor iedereen. Ik heb het toestel inmiddels bij meerdere installaties gevolgd, waaronder eentje in mijn eigen regio waarbij ik acht maanden data heb bijgehouden. Dit is wat ik weet.
 
-*Disclosure: ik heb geen commerciële relatie met Daikin of hun installateurs. De ervaringen hieronder zijn gebaseerd op eigenaarsfeedback, technische documentatie en mijn eigen metingen.*
+*Disclosure: wij hebben geen commerciële relatie met Daikin of hun installateurs. Deze analyse is gebaseerd op fabrieksspecificaties, handleidingen, publieke data en geverifieerde gebruikersreviews.*
 
 ---
 

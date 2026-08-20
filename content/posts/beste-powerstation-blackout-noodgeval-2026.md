@@ -1,7 +1,7 @@
 ---
 title: 'Beste Powerstation Blackout & Noodgeval 2026'
 date: 2026-10-12 08:00:00+02:00
-lastmod: 2026-10-12 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 draft: false
 description: "Top 5 powerstations voor stroomuitval: EcoFlow, Jackery, Bluetti, Anker en Goal Zero vergeleken op capaciteit, prijs en backup-duur."
 categories:
@@ -22,7 +22,7 @@ keywords:
 - beste powerstation 2026
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1542621334-a254cf47733d&w=1200&output=webp&q=70
 faq:
 - q: 'Hoeveel kWh heb ik nodig voor een powerstation bij stroomuitval?'
@@ -59,7 +59,7 @@ last_updated: '2026-10-12'
 category: powerstations
 ---
 
-*Disclosure: ik heb affiliate-partnerships met EcoFlow, Jackery, Bluetti, Anker en Goal Zero via AWIN/Awin.*
+*Disclosure: wij hebben affiliate-partnerships met EcoFlow, Jackery, Bluetti, Anker en Goal Zero via AWIN. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 

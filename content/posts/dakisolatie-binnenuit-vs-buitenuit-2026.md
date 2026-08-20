@@ -1,7 +1,7 @@
 ---
 title: Dakisolatie Binnenuit vs Buitenuit 2026
 date: 2026-06-18 09:00:00+01:00
-lastmod: 2026-06-18 09:00:00+01:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: Dakisolatie van binnenuit of buitenuit? PUR, glaswol en EPS vergeleken. Wanneer kies je welke methode, en wat zijn de echte kosten in 2026?
 categories:
 - isolatie
@@ -20,7 +20,7 @@ keywords:
 - plat dak isoleren
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is beter: dakisolatie van binnenuit of buitenuit?'
@@ -48,7 +48,7 @@ products:
   price: '5995'
 schema_type: Article
 ---
-Vorig jaar liet ik de dakisolatie van mijn jaren-vijftig rijtjeswoning aanpakken. De keuze die me het meeste hoofdbrekens kostte: ga ik het van binnenuit of van buitenuit isoleren? Na twee avonden rekenen en drie offertegesprekken kom ik je dat nu eerlijk vertellen — inclusief wat ik gekozen heb en waarom.
+Bij dakisolatie in een bestaande woning valt de grootste beslissing al voordat je aan materiaal denkt: isoleer je van binnenuit of van buitenuit? Het verschil in kosten loopt bij een gemiddelde rijtjeswoning al snel in de duizenden euro's, en de staat van je dak bepaalt grotendeels welke kant het uit moet. In dit artikel zetten we beide methodes naast elkaar, met de materiaalkeuzes, richtprijzen per vierkante meter en de subsidievoorwaarden voor 2026.
 
 ---
 
@@ -200,20 +200,25 @@ EPS — het witte schuim dat iedereen kent van verpakkingsmateriaal — wordt ge
 
 ---
 
-## Mijn eigen keuze: wat deed ik?
+## Rekenvoorbeeld: rijtjeswoning met een dak in goede staat
 
-Mijn woning heeft een schuine kap van circa 65 m², met 14 cm diepe sporren. De dakpannen zijn 12 jaar oud — die hoef ik zeker nog niet te vervangen.
+Onderstaande berekening is een model op basis van de richtprijzen uit de tabellen hierboven, geen offerte.
 
-Ik koos voor **binnenisolatie met glaswol + kruisisolatie**. De redenering:
+**Aannames van het model:**
+- Schuine kap van 65 m² dakoppervlak
+- Sporrendiepte 14 cm
+- Dakpannen circa tien jaar oud en in goede staat, dus vervanging is niet nodig
+- Zolder wordt niet als woonruimte gebruikt, dus het verlies aan hoogte weegt niet mee
+- Uitvoering: glaswol tussen de sporren plus 5 cm kruisisolatie, met damprem en afwerking in plaatmateriaal, door een aannemer
+- ISDE-subsidie van circa €30 per m², binnen de voorwaarde van maximaal 30 procent van de investering
 
-1. Het dak is in goede staat — buitenisolatie zou betekenen dat ik nóg een laag aanbrengt bovenop een bestaand dak, wat onnodige kosten oplevert.
-2. Ik gebruik de zolder niet als woonruimte — het verlies van 19 cm hoogte is geen bezwaar.
-3. Met kruisisolatie van 5 cm dwars op de sporren bereik ik een Rc van 4,3, wat ruim boven de renovatie-eis van 3,5 ligt.
-4. Totale kosten bij een lokale aannemer: €62/m² inclusief dampscherm en afwerking met plaatmateriaal = €4.030 voor 65 m². Minus ISDE-subsidie van ca. €1.170 = effectief €2.860.
+**Uitkomst van het model:**
+- Rc-waarde van dit pakket: circa 4,3 m²K/W, ruim boven de renovatie-eis van 3,5
+- Kosten binnenisolatie bij €50-€75 per m² inclusief dampscherm en afwerking: circa €3.250 tot €4.900
+- Na ISDE-subsidie (65 m² × €30 = €1.950, mits binnen de 30-procentgrens): circa €1.700 tot €3.200 netto
+- Zou hetzelfde dak van buitenuit worden geïsoleerd, dan komt daar de volledige dakvervanging bij. Op basis van de bandbreedtes voor buitenisolatie inclusief nieuwe dakbedekking loopt de investering dan naar een orde van grootte die twee tot drie keer hoger uitkomt.
 
-Had ik buitenisolatie gekozen op hetzelfde dak, was de rekening circa €8.500 geweest voor het vervangen van de pannen + isolatielaag — meer dan drie keer zo duur.
-
-De conclusie was voor mij helder: als het dak goed is, isoleer dan van binnenuit.
+De conclusie die uit dit model volgt, en die in de meeste vergelijkbare situaties opgaat: is het dak in goede staat, dan is binnenisolatie de rationele keuze. Buitenisolatie verdient zichzelf pas terug als de dakbedekking toch aan vervanging toe was, want dan betaal je alleen de meerprijs van de isolatielaag.
 
 ---
 
@@ -223,7 +228,7 @@ De conclusie was voor mij helder: als het dak goed is, isoleer dan van binnenuit
 
 Een isolatielaag zonder luchtdichting is als een winterjas met open rits. Alle kieren langs dakaansluitingen, schoorstenen, dakramen en ventilatieopeningen moeten worden afgekit of met speciale luchtdichtingstape worden afgeplakt.
 
-Onderzoek toont aan dat een naad van 1% open oppervlak in een dampscherm de effectieve isolatiewaarde met 20-30% kan verlagen. Laat dit niet over aan iemand die er niet specifiek op let.
+Een niet-luchtdicht afgewerkt dampscherm kost een aanzienlijk deel van de berekende isolatiewaarde: bouwfysisch is een kleine, doorlopende naad al genoeg om een substantieel deel van het rendement te verliezen, doordat vochtige binnenlucht dan door de isolatielaag stroomt in plaats van erlangs. Laat dit niet over aan iemand die er niet specifiek op let.
 
 ### 2. Ventilatie aanpassen
 
@@ -383,7 +388,7 @@ Zonnepanelen en dakisolatie zijn complementair: zonnepanelen besparen op je ener
 
 ---
 
-## Mijn eindadvies: begin met de dakcheck
+## Onze aanbeveling: begin met de dakcheck
 
 Voordat je besluit welke methode en welk materiaal je kiest, laat een dakcheck uitvoeren. Dat is een korte inspectie (1-2 uur) waarbij een bouwkundig adviseur of isolatie-installateur kijkt naar:
 
@@ -460,7 +465,7 @@ Een geïsoleerd dak voorkomt warmteverlies omhoog. De plafonds voelen warmer aan
 Dit is een effect dat veel mensen vergeten: een goed geïsoleerd dak houdt ook de zon buiten. In een heetere zomer (steeds vaker) blijft een geïsoleerde kamer aanzienlijk koeler dan een ongeïsoleerde, zelfs zonder airco.
 
 **Stillere woning**
-Isolatiemateriaal dempt ook geluid — van regen op dakpannen, verkeer, vliegtuigen. Na dakisolatie zijn meerdere huiseigenaren verrast door hoeveel stiller het is.
+Isolatiemateriaal dempt ook geluid: minerale wol heeft een geluidsabsorberende werking, wat regen op dakpannen, verkeer en vliegtuiglawaai hoorbaar dempt. Het is een neveneffect dat in gebruikerservaringen vaak wordt genoemd als onverwachte meerwaarde.
 
 **Minder tocht**
 Een luchtdicht aangebracht dampscherm reduceert ook tochtgevoelens. Koude lucht die via kieren in het dak binnendringt, wordt geblokkeerd.

@@ -1,7 +1,7 @@
 ---
 title: 'Beste Powerstation voor Vanlife 2026: Top 5 voor Campers'
 date: 2026-03-31 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: De 5 beste powerstations voor vanlife en campers in 2026. Vergelijk capaciteit, vermogen, zonneladen en prijs voor de ultieme camperbus-setup.
 categories:
 - powerstations

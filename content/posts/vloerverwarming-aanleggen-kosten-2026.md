@@ -1,7 +1,7 @@
 ---
 title: Vloerverwarming aanleggen in bestaande woning
 date: 2026-05-24 08:00:00+02:00
-lastmod: 2026-05-24 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: 'Vloerverwarming in een bestaande woning: wat zijn de kosten in 2026? Ik vergelijk frees-, dry- en natsystemen en hoe je het combineert met een warmtepomp.'
 categories:
 - warmtepompen
@@ -438,7 +438,7 @@ Vloerverwarming in een bestaande woning is geen sciencefiction meer. De dry-syst
 
 ---
 
-*Disclosure: ik gebruik een affiliate link naar ATAG op deze pagina. Ik heb persoonlijk een ATAG hybride warmtepomp in gebruik. Prijzen zijn indicatief en gebaseerd op publieke marktinformatie van begin 2026.*
+*Disclosure: deze pagina bevat een affiliate-link naar ATAG. Prijzen zijn indicatief en gebaseerd op publieke marktinformatie van begin 2026.*
 
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>

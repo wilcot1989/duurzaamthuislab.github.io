@@ -1,7 +1,7 @@
 ---
 title: 'Hybride warmtepomp vs volledige warmtepomp 2026: welke past bij jou?'
 date: 2026-09-06 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Hybride of volledige warmtepomp in 2026? Investering, COP, gasverbruik en terugverdientijd vergeleken voor 4 verschillende huizen. Eerlijke beslisboom.
 categories:
 - warmtepomp
@@ -60,7 +60,7 @@ schema_type: Article
 ---
 In mijn straat staan acht warmtepompen: vier hybride, vier volledig elektrisch. Ik heb ze 18 maanden gevolgd — verbruik, gemak, comfort, kosten. Wat ik geleerd heb: er bestaat geen "beste" warmtepomp, alleen de juiste keuze voor jouw woning. Soms is hybride €5.000 goedkoper en logischer. Soms verdient volledige warmtepomp zich in 9 jaar terug. Hieronder de eerlijke vergelijking met cijfers uit echte huizen.
 
-*Disclosure: ik heb geen affiliate-deal met deze warmtepomp-merken. Ik ben wel partner van Quatt en Vaillant via DuurzaamThuisLab. De analyse is gebaseerd op metingen bij buren, niet op brochure-data.*
+*Disclosure: DuurzaamThuisLab is affiliate-partner van Quatt en Vaillant; met de overige genoemde merken bestaat geen commerciële relatie. De analyse is gebaseerd op fabrieksspecificaties, handleidingen, publieke data en geverifieerde gebruikersreviews.*
 
 ---
 

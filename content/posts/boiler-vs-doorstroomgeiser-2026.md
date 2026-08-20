@@ -1,7 +1,7 @@
 ---
 title: 'Boiler of doorstroomgeiser: warmwater opties na het gas'
 date: 2026-06-11 08:00:00+02:00
-lastmod: 2026-06-11 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: Wat doe je met je warmwater als de cv-ketel weg gaat? Boiler, doorstroomgeiser, warmtepompboiler of zonneboiler.
 categories:
 - warmtepompen
@@ -23,11 +23,11 @@ keywords:
 - tapwaterverwarming 2026
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is goedkoper: een elektrische boiler of een doorstroomgeiser?'
-  a: 'In gebruik is een doorstroomgeiser goedkoper dan een elektrische weerstandsboiler, omdat je alleen water verwarmt dat je daadwerkelijk gebruikt. Een boiler houdt 150-200 liter warm — ook als je de hele dag van huis bent. Bij normaal gebruik (2-4 personen) is een doorstroomgeiser €40 tot €80 per jaar goedkoper dan een boiler. Een warmtepompboiler is het goedkoopst in gebruik: €60 tot €120 per jaar voor een gezin van 4.'
+  a: 'In gebruik is een doorstroomgeiser goedkoper dan een elektrische weerstandsboiler, omdat je alleen water verwarmt dat je daadwerkelijk gebruikt. Een boiler houdt 150-200 liter warm — ook als je de hele dag van huis bent. Bij normaal gebruik (2-4 personen) is een doorstroomgeiser €40 tot €80 per jaar goedkoper dan een boiler. Een warmtepompboiler is het goedkoopst in gebruik: in de rekenvoorbeelden in dit artikel komt die op circa €380 tot €500 per jaar voor een gezin van 4, tegen €1.100 tot €1.400 voor een elektrische boiler.'
 - q: Hoeveel kW heeft een elektrische doorstroomgeiser nodig?
   a: Een doorstroomgeiser voor douche en keuken verbruikt 6 tot 12 kW per punt. Voor een normaal douchedebiet (8 liter/minuut bij 38°C) heb je bij 15°C koud water circa 9 kW nodig. De meeste woningen hebben een 3×25A aansluiting (maximaal 17,3 kW). Dat is krap. Een installateur moet de groepskastverdeling controleren voordat u een doorstroomgeiser plaatst.
 - q: Wat is een warmtepompboiler en hoe werkt die?
@@ -39,7 +39,7 @@ faq:
 - q: Wat is de levensduur van een elektrische boiler versus warmtepompboiler?
   a: 'Een elektrische weerstandsboiler gaat gemiddeld 15 tot 20 jaar mee. Een warmtepompboiler heeft meer bewegende onderdelen (compressor) en gaat gemiddeld 12 tot 18 jaar mee. De warmtepompboiler heeft wel hogere onderhoudskosten (jaarlijkse controle aanbevolen: €80-150). Per jaar uitgedrukt zijn de totale eigenaarskosten van een warmtepompboiler nog altijd lager door het lagere verbruik.'
 - q: Hoeveel liter boiler heb ik nodig voor een gezin van 4?
-  a: Voor een gezin van 4 personen adviseer ik minimaal 150 liter, liefst 200 liter. Reken op circa 40-50 liter warm water per persoon per dag voor douchen, koken en afwassen. Een 150-liter boiler kan bij herlaadtijd van 2 tot 3 uur een gezin van 4 bedienen. Een warmtepompboiler heeft door de langere verwarmingstijd (4-8 uur bij lage omgevingstemperatuur) idealiter 200-250 liter inhoud.
+  a: Voor een gezin van 4 personen adviseren wij minimaal 150 liter, liefst 200 liter. Reken op circa 40-50 liter warm water per persoon per dag voor douchen, koken en afwassen. Een 150-liter boiler kan bij herlaadtijd van 2 tot 3 uur een gezin van 4 bedienen. Een warmtepompboiler heeft door de langere verwarmingstijd (4-8 uur bij lage omgevingstemperatuur) idealiter 200-250 liter inhoud.
 - q: Wat is de jaarlijkse kostenpost van warm water voor een gezin van 4?
   a: 'Raming op basis van 200 liter warm water per dag (gezin van 4), aanvoer vanuit 12°C koud water naar 55°C: circa 4.200 kWh per jaar benodigd. Elektrische boiler (weerstand): 4.200 kWh × €0,30 = €1.260/jaar. Doorstroomgeiser: iets lager door geen standby-verlies, circa €1.150/jaar. Warmtepompboiler (COP 2,8): 4.200 / 2,8 × €0,30 = €450/jaar.'
 products:
@@ -51,11 +51,11 @@ products:
   price: '450'
 schema_type: Article
 ---
-Toen mijn neef Arjan vorig jaar zijn gasaansluiting liet afsluiten, had hij één ding niet goed geregeld: warmwater. Zijn nieuwe warmtepomp verwarmde het huis prima, maar de cv-ketel die ook zijn tapwater maakte, was weg. Hij eindigde met een noodoplossing: een goedkope elektrische doorstroomgeiser van €180, op één groep aangesloten. Resultaat: de zekering sloeg eruit elke keer dat zijn vrouw en hij tegelijkertijd wilden douchen.
+Een veelvoorkomende misser bij het afsluiten van de gasaansluiting: de warmtepomp verwarmt het huis prima, maar de cv-ketel die ook het tapwater maakte is weg. Wat volgt is dan een noodoplossing, bijvoorbeeld een goedkope elektrische doorstroomgeiser op één bestaande groep. Het gevolg is voorspelbaar: de zekering slaat eruit zodra er tegelijk gedoucht en gekookt wordt.
 
-Dat was vermijdbaar geweest. Tapwaterverwarming in een all-electric huis vereist een bewuste keuze — niet een last-minute aankoop bij de bouwmarkt.
+Dat is vermijdbaar. Tapwaterverwarming in een all-electric huis vereist een bewuste keuze, geen last-minute aankoop bij de bouwmarkt.
 
-In dit artikel loop ik door alle opties. Ik maak de rekening voor een gezin van vier, en ik leg uit welke optie ik zelf zou kiezen.
+Dit artikel loopt alle opties langs, maakt de rekening voor een gezin van vier en laat zien welke optie in de meeste situaties het beste uitpakt.
 
 ---
 
@@ -203,18 +203,18 @@ Voor grote gezinnen (4+ personen) met hoog warmwaterverbruik is een **aparte war
 
 ---
 
-## Wat ik zelf zou kiezen
+## Wat wij zouden kiezen
 
-Als ik mijn huis opnieuw zou inrichten — all-electric, gezin van 4, moderne woningen met technische ruimte — dan kies ik voor een **warmtepompboiler van 200 tot 250 liter** als primair warmwater-systeem.
+Voor een all-electric woning met een gezin van 4 en een technische ruimte of garage is een **warmtepompboiler van 200 tot 250 liter** naar onze inschatting het beste primaire warmwater-systeem.
 
 Redenen:
-- Het verschil in jaarkosten ten opzichte van een elektrische boiler is €600 tot €900 per jaar
-- Met ISDE-subsidie is de terugverdientijd 3 tot 5 jaar
-- Ik heb een garage die groot genoeg is (30 m³) en sowieso wat gekoeld mag worden in de zomer
+- Het verschil in jaarkosten ten opzichte van een elektrische boiler is in de rekenvoorbeelden hierboven €600 tot €1.000 per jaar
+- Met ISDE-subsidie komt de terugverdientijd in datzelfde model op 3 tot 5 jaar
+- Een ruimte van 20 m³ of meer die in de zomer wel wat koeler mag worden, is een gunstige plek voor de unit
 
-Als er geen technische ruimte beschikbaar is: dan kies ik een **elektrische boiler van 150 liter** en probeer die slim te laden met zonne-energie (timer instellen op zonnige middaguren, setpoint verhogen naar 70°C voor opslag).
+Is er geen geschikte technische ruimte, dan is een **elektrische boiler van 150 liter** de praktische keuze, bij voorkeur slim geladen met zonne-energie: timer op de zonnige middaguren en het setpoint verhogen naar 70°C om meer warmte op te slaan.
 
-Een doorstroomgeiser is voor mijn situatie (oud huis, 3×25A aansluiting) risicovol wegens het hoge aansluitvermogen. Het is een prima optie in nieuwe woningen met een 3×40A aansluiting.
+Een doorstroomgeiser is in een oudere woning met een 3×25A aansluiting risicovol vanwege het hoge aansluitvermogen. In nieuwere woningen met een 3×40A aansluiting is het een prima optie.
 
 ---
 
@@ -265,7 +265,7 @@ Als u een boiler op een laag setpoint gebruikt (50°C of lager), bestaat er kans
 
 ## De installatie: wat een goede monteur doet
 
-Een goede installatie van warmwater-voorziening vereist meer dan het aansluiten van een apparaat. Dit zijn de punten waar ik op let bij een installateur:
+Een goede installatie van een warmwater-voorziening vereist meer dan het aansluiten van een apparaat. Dit zijn de punten om bij een installateur op te letten:
 
 **Bij een warmtepompboiler:**
 - Correcte ruimte-inschatting: controleert de monteur of er 10-15 m³ luchtvolume aanwezig is?
@@ -284,7 +284,7 @@ Als een installateur deze punten niet bespreekt, vraag er expliciet naar. Het is
 
 ## Veelgemaakte fouten bij tapwaterverwarming post-gas
 
-Na gesprekken met tientallen huiseigenaren die de overstap naar all-electric hebben gemaakt, zie ik steeds dezelfde fouten:
+Bij de overstap naar all-electric komen steeds dezelfde fouten terug:
 
 **Fout 1: Boiler te klein kiezen**
 Een 80-liter boiler voor een gezin van 4 is te weinig. Bij 3 personen die na elkaar douchen is de boiler leeg. Consequentie: wachten op herlading (2-3 uur bij elektrische boiler). Kies altijd ruim: 150 liter voor 3 personen, 200 liter voor 4.
@@ -304,7 +304,7 @@ De keuze voor tapwaterverwarming wordt te vaak overgelaten aan de installateur d
 
 ---
 
-## Vragen die ik regelmatig krijg
+## Veelgestelde vragen uit de praktijk
 
 **Kan ik een warmtepompboiler buiten plaatsen?**
 Technisch is het mogelijk als de unit voor buiten-gebruik is gecertificeerd. Maar buiten-installaties zijn zeldzaam en hebben nadelen: de omgevingstemperatuur is 's winters laag (COP daalt sterk), er zijn beschermingsmaatregelen nodig, en de unit is kwetsbaarder voor weersinvloeden. Standaard: binnenshuis plaatsen.
@@ -346,7 +346,7 @@ Vermijd onbekende merken zonder ISDE-certificering — de subsidie is een signif
 
 ---
 
-*Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
+*Mark Bakker is energieadviseur. Hij schrijft op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk ATAG warmwater</a>

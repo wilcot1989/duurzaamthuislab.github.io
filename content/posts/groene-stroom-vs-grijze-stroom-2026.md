@@ -1,7 +1,7 @@
 ---
 title: Groene Stroom vs Grijze Stroom 2026
 date: 2026-06-17 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: Het verschil tussen groene en grijze stroom uitgelegd. Kosten vergeleken, is groene stroom echt duurzamer, en welk energiecontract past bij jou in 2026?
 categories:
 - energie
@@ -18,7 +18,7 @@ keywords:
 - groene stroom contract
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Wat is het verschil tussen groene en grijze stroom?

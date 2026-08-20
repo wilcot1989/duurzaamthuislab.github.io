@@ -1,7 +1,7 @@
 ---
 title: 'Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken'
 date: 2026-03-19 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: De 5 beste omvormers voor zonnepanelen in 2026 vergeleken. String-omvormers vs micro-omvormers, rendement, monitoring en prijs-kwaliteitverhouding.
 categories:
 - zonne-energie

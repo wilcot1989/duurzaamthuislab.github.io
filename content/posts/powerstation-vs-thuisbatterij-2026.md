@@ -1,7 +1,7 @@
 ---
 title: 'Powerstation vs Thuisbatterij: Wat is het Verschil en Wat'
 date: 2026-03-14 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Powerstation of thuisbatterij? Ontdek de verschillen in capaciteit, kosten, installatie en gebruik. Met helder keuzekader voor jouw situatie.
 categories:
 - powerstations
@@ -49,9 +49,9 @@ products:
   price: '9500'
 schema_type: Article
 ---
-Ik heb ze allebei in huis: een Huawei Luna 2000 van 10 kWh als vaste thuisbatterij aan mijn zonnepanelen, en een draagbaar EcoFlow powerstation voor noodstroom en de camping. Twee totaal verschillende producten, maar ik krijg regelmatig de vraag welke je moet kiezen. In dit artikel leg ik het verschil uit op basis van mijn eigen ervaring met beide systemen.
+Een thuisbatterij en een powerstation worden vaak in één adem genoemd, maar het zijn twee totaal verschillende producten: het ene is vast geïnstalleerde opslag achter je omvormer, het andere een draagbaar apparaat met eigen stopcontacten. Toch is "welke van de twee moet ik hebben?" een van de meestgestelde vragen. Hieronder het verschil op basis van specificaties, installatievoorwaarden en publieke marktprijzen.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 
@@ -208,7 +208,7 @@ Thuisbatterijen gaan langer mee:
 - **Geen installateur wilt inschakelen** -- gewoon kopen en gebruiken
 - **Tijdelijk** ergens stroom nodig hebt (marktkraam, evenement, bouwplaats)
 
-**Mijn aanbeveling**: De [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) voor maximale veelzijdigheid, of de [EcoFlow River 2 Pro](/posts/beste-draagbare-powerstation-2026/) voor maximale draagbaarheid.
+**Onze inschatting**: de [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) voor maximale veelzijdigheid, of de [EcoFlow River 2 Pro](/posts/beste-draagbare-powerstation-2026/) voor maximale draagbaarheid.
 
 **[Bekijk bij EcoFlow >>>](https://www.ecoflow.com/nl)**
 
@@ -224,7 +224,7 @@ Thuisbatterijen gaan langer mee:
 - **Automatische energieoptimalisatie** wilt zonder handmatig ingrijpen
 - **Op lange termijn** in je woning wilt investeren
 
-**Mijn aanbeveling**: De [Huawei Luna 2000](/posts/huawei-luna-2000-review-2026/) als beste prijs-kwaliteitverhouding in Nederland.
+**Onze inschatting**: de [Huawei Luna 2000](/posts/huawei-luna-2000-review-2026/) biedt in Nederland de beste prijs-kwaliteitverhouding, gemeten naar prijs per kWh, garantietermijn en beschikbaarheid van installateurs.
 
 **[Bekijk de Huawei Luna 2000 >>>](https://solar.huawei.com/nl/residential/luna2000)**
 
@@ -236,11 +236,11 @@ Thuisbatterijen gaan langer mee:
 
 ---
 
-## Praktijkgeval: gezin kiest wat en waarom
+## Rekenvoorbeeld: gezin met zonnepanelen en een EV
 
-Familie Hoekstra in Utrecht: twee werkende ouders, twee kinderen, 14 zonnepanelen (4,9 kWp). Ze vroegen mij welk systeem ze moesten nemen. Hier is het adviesproces.
+Een rekenvoorbeeld met expliciete aannames — geen praktijkcase. Uitgangspunt: gezin van vier, twee deels thuiswerkende ouders, 14 zonnepanelen (4,9 kWp).
 
-**Hun situatie:**
+**Aannames:**
 - Verbruik: 5.200 kWh/jaar
 - Opwekking zonnepanelen: 4.300 kWh/jaar
 - Eigen verbruik zonnestroom: 2.200 kWh (beide ouders deels thuis)
@@ -248,7 +248,7 @@ Familie Hoekstra in Utrecht: twee werkende ouders, twee kinderen, 14 zonnepanele
 - EV aanwezig: ja (VW ID.3, laadt thuis)
 - Budget: flexibel, "wat is slim?"
 
-**Mijn analyse:**
+**De berekening:**
 
 1. Ze leveren 2.100 kWh terug — na saldering-stop kost dit €0,10/kWh = €210/jaar inkomsten versus nu €630 (gesaldeerd). Dat is een verlies van €420/jaar na 2027.
 
@@ -258,12 +258,12 @@ Familie Hoekstra in Utrecht: twee werkende ouders, twee kinderen, 14 zonnepanele
 
 4. Maar: als ze ook overstappen naar Frank Energie (dynamisch), besparen ze €200-€300 extra per jaar. Dan: €7.000 / €650 = **10,8 jaar**. Beter.
 
-**Mijn advies:**
-- Nu: overstap naar Frank Energie (direct €200+ besparing)
-- Over 2-3 jaar (als batterijprijzen dalen): thuisbatterij van 5-7 kWh
-- Nu al: EcoFlow powerstation voor noodstroom (€1.799) — ook zonder thuisbatterij
+**Wat uit dit model volgt:**
+- Eerst overstappen naar een dynamisch contract: dat kost niets en levert in dit model direct €200 of meer per jaar op.
+- De thuisbatterij pas als de prijs per kWh verder is gedaald, en dan in de maat 5-7 kWh in plaats van 10 kWh — de laatste kWh's leveren in dit profiel het minste op.
+- Wil je noodstroom, dan is een powerstation daarvoor het passende apparaat; dat staat los van de thuisbatterij-afweging.
 
-Ze hebben dit advies opgevolgd. De overstap naar Frank leverde jaar 1 €280 op. Ze wachten met de thuisbatterij.
+Let op de gevoeligheid van dit model: de uitkomst hangt vooral aan de aanname over de terugleververgoeding en de prijsspread op een dynamisch contract. Verandert een van die twee, dan schuift de terugverdientijd meerdere jaren op.
 
 ## Veelgemaakte fouten bij de keuze
 
@@ -305,29 +305,29 @@ Zoals de tabel laat zien, wordt de **prijs per kWh lager** naarmate je meer capa
 
 ---
 
-## Mijn eigen setup: Luna + EcoFlow, waarom beide
+## Waarom sommige huishoudens beide hebben
 
-Ik heb een Huawei Luna 2000 van 10 kWh als vaste thuisbatterij — gekoppeld aan mijn 16 zonnepanelen — én een draagbaar EcoFlow powerstation. De vaste vraag die ik krijg: "Waarom allebei?"
+Een veelvoorkomende combinatie is een vaste thuisbatterij van circa 10 kWh gekoppeld aan de zonnepanelen, plus een draagbaar powerstation. Dat lijkt dubbelop, maar de taken overlappen nauwelijks.
 
-**De Luna doet:**
+**Wat de thuisbatterij doet:**
 - Overdag opgewekte zonnestroom opslaan
 - 's Avonds die opgeslagen stroom teruggeven aan het huis
 - Dynamische prijsarbitrage (bij lage prijzen extra laden van het net)
-- Dit volledig automatisch, zonder dat ik er iets voor doe
+- Dit volledig automatisch, zonder handmatig ingrijpen
 
-**Het powerstation doet:**
-- Noodstroom bij stroomuitval (de Luna schakelt uit zonder backup-box — het powerstation niet)
+**Wat het powerstation doet:**
+- Noodstroom bij stroomuitval (een thuisbatterij zonder backup-box schakelt dan juist uit — een powerstation niet)
 - Stroom op de camping
 - Elektrische apparatuur in de tuin en het tuinhuis
-- Back-up als de Luna even uit is voor onderhoud
+- Overbrugging als de thuisbatterij uit staat voor onderhoud
 
-De overlap is minimaal. Samen dekken ze alle scenario's die ik heb. De Luna kost me €7.000, het powerstation €1.799 — samen een complete energieoplossing.
+De overlap is minimaal, en dat is precies waarom de combinatie voorkomt. Reken wel met de som van beide investeringen: circa €7.000 voor een 10 kWh thuisbatterij plus €1.500-€1.800 voor een stevig powerstation.
 
 ---
 
 ## Stroomuitval-scenario's: wat werkt wanneer
 
-Dit is de meest gestelde vraag in mijn inbox: "Werkt mijn thuisbatterij als het net uitvalt?"
+Dit is een van de meestgestelde vragen over thuisbatterijen: werkt zo'n batterij als het net uitvalt?
 
 ### Scenario A: Thuisbatterij zonder backup-box
 

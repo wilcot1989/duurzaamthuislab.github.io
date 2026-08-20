@@ -1,7 +1,7 @@
 ---
 title: Thuisbatterij kopen of leasen 2026
 date: 2026-05-12 08:00:00+02:00
-lastmod: 2026-05-12 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Thuisbatterij kopen of leasen? Volledig rekenmodel over 10 jaar voor Sessy, Zonneplan en Marstek. Voor wie wel, voor wie niet.
 categories:
 - thuisbatterijen
@@ -52,7 +52,7 @@ products:
   price: '2299'
 schema_type: Article
 ---
-"Mark, mijn vrouw wil een thuisbatterij maar ik heb geen zin om €7.000 cash neer te leggen. Is leasen een goed idee?" Mijn buurman vroeg me dit in oktober. Ik heb voor hem het rekensommetje gemaakt over 10 jaar. Hier is wat ik vond — eerlijk, met cijfers, niet met "lease is altijd slechter" of "kopen is altijd beter".
+"Een thuisbatterij wil ik wel, maar geen €7.000 cash neerleggen" — dat is de situatie waarin de lease-vraag opkomt. Hieronder het rekensommetje over tien en vijftien jaar, met de aannames erbij, zonder het standaardverhaal dat lease altijd slechter of kopen altijd beter is.
 
 ---
 
@@ -217,28 +217,23 @@ Belangrijke realiteit: een persoonlijke lening voor €6.000 thuisbatterij kost 
 
 **Conclusie**: lease is goedkoper dan een lening. Cash kopen is goedkoopst van allemaal (geen rente, geen lease-marge).
 
-## Praktijkgeval: mijn buurman na 6 maanden lease
+## Rekenvoorbeeld: lease bij een gemiddeld gezinsprofiel
 
-Ik heb mijn buurman gevraagd hoe het na 6 maanden Zonneplan-lease voelt. Zijn setup: 10 zonnepanelen (3,6 kWp), verbruik 3.800 kWh/jaar, geen EV, dynamisch contract Frank Energie, Zonneplan 10 kWh batterij (lease €54/mnd).
+Onderstaande cijfers zijn een modelberekening met expliciete aannames, geen praktijkmeting. Profiel: 10 zonnepanelen (3,6 kWp), verbruik 3.800 kWh per jaar, geen EV, dynamisch contract, geleasede batterij van 10 kWh voor €54 per maand.
 
-**Cijfers na 6 maanden (oktober 2025 - maart 2026):**
+Aannames in het model: de batterij verschuift gemiddeld 6 kWh per dag van goedkope naar dure uren, de gemiddelde bruikbare spread ligt op €0,12 per kWh in het zomerhalfjaar en €0,16 in het winterhalfjaar, en de zelfconsumptie van zonnestroom stijgt met circa 900 kWh per jaar.
 
-| Maand | Stroom-kosten voor lease | Stroom-kosten na lease | Maandbesparing |
-|---|---|---|---|
-| Okt '25 | €162 | €94 | €68 |
-| Nov '25 | €194 | €118 | €76 |
-| Dec '25 | €218 | €142 | €76 |
-| Jan '26 | €231 | €151 | €80 |
-| Feb '26 | €178 | €108 | €70 |
-| Mrt '26 | €141 | €82 | €59 |
+| Post | Zomerhalfjaar (per maand) | Winterhalfjaar (per maand) |
+|---|---|---|
+| Voordeel uit verschoven verbruik | €22 | €29 |
+| Voordeel uit hogere zelfconsumptie | €48 | €38 |
+| Bruto voordeel | €70 | €67 |
+| Leaseprijs | −€54 | −€54 |
+| **Netto per maand** | **€16** | **€13** |
 
-Gemiddelde maandelijkse besparing door batterij: **€72**. Maandelijkse leaseprijs: **€54**. Per saldo wint hij €18/maand na leasekosten.
+Netto komt dit model uit op circa €175 per jaar voordeel ten opzichte van geen batterij nemen. Bescheiden, maar zonder eigen investering.
 
-Op jaarbasis: €216 netto voordeel ten opzichte van geen batterij nemen. Dat klinkt bescheiden, maar vergeet niet: zonder batterij had hij óók de €54/mnd niet betaald, dus de batterij rendeerde zichzelf en leverde €18 bovenop op.
-
-**Zijn mening na 6 maanden**: "Het werkt echt. De app laat me zien wanneer de batterij wordt geladen en ontladen. Mijn vrouw is tevreden dat we niks zelf hoeven te regelen. Of ik had moeten kopen? Misschien, maar dan had ik €6.000 moeten neertellen en dat wilde ik gewoon niet."
-
-Dat is de eerlijke realiteit van lease: het is niet het slimste rekensommetje, maar voor mensen die geen grote investering willen doen, biedt het wél resultaat.
+Dat is ook de kern van lease: het is niet het scherpste rekensommetje, maar wel het enige model waarbij het voordeel positief kan zijn zonder dat je duizenden euro's inlegt. Let op de gevoeligheid: valt de spread in een rustig prijsjaar naar €0,08 per kWh, dan wordt het netto resultaat negatief en betaal je effectief voor het gemak.
 
 ## Veelgemaakte fouten bij de keuze kopen vs leasen
 
@@ -276,7 +271,7 @@ Wie nu leaset maar na 2027 de hogere besparing wil verzilveren als eigenaar, zit
 
 ## Gedetailleerde jaarberekening: Sessy koop vs Zonneplan lease over 15 jaar
 
-Mijn buurman vroeg me uiteindelijk ook: "Maar over 15 jaar, hoe ziet dat eruit?" Hier is de volledige berekening, inclusief de saldering-overgang in 2027:
+De vraag die over blijft: hoe ziet het over vijftien jaar uit? Hieronder de volledige berekening, inclusief de saldering-overgang in 2027. Ook dit is een modelberekening met expliciete aannames:
 
 **Aannames:**
 - Huishouden: 3.800 kWh verbruik/jaar, 10 zonnepanelen (3,5 kWp)
@@ -380,7 +375,7 @@ Technologisch risico is reëel maar niet doorslaggevend. De veilige conclusie: w
 
 ## Vijf vragen die je jezelf moet stellen vóór je kiest
 
-Ik heb een eenvoudig keuzemodel gemaakt voor wie twijfelt. Beantwoord deze vijf vragen eerlijk:
+Een eenvoudig keuzemodel voor wie twijfelt. Beantwoord deze vijf vragen eerlijk:
 
 **1. Heb ik €3.000+ beschikbaar zonder financiële stress?**
 - Ja → koop overweging
@@ -407,13 +402,13 @@ Ik heb een eenvoudig keuzemodel gemaakt voor wie twijfelt. Beantwoord deze vijf 
 - 3× koop + 2× lease → kopen met Marstek (laagste risico door lage investering)
 - 4-5× lease-antwoord → lease is rationele keuze voor jouw situatie
 
-## Mijn aanbeveling
+## Onze aanbeveling per profiel
 
-**Voor mijn buurman** (cashflow-bewust, geen techaffiniteit, blijft minstens 10 jaar): lease was de juiste keus. Hij betaalt nu €54/mnd, alles inbegrepen, geen zorgen.
+**Cashflow-bewust, geen techaffiniteit, blijft minstens 10 jaar wonen**: lease is dan een verdedigbare keuze. Vast maandbedrag, alles inbegrepen, geen eigen investering — met de aantekening dat je het eigendom en het voordeel na 2027 laat liggen.
 
-**Voor mij persoonlijk** (cash beschikbaar, smart-home enthousiast, blijf hier): ik koop een Marstek Venus E voor €2.679 en regel automation zelf via Home Assistant.
+**Cash beschikbaar en smart-home-affiniteit**: kopen, en dan aan de onderkant van de markt. Een Marstek Venus E rond de €2.679 plus eigen automatisering via Home Assistant geeft de laagste kosten per kWh, tegen meer eigen inregelwerk.
 
-**Voor de gemiddelde Nederlander**: Sessy koop voor €5.995 is sweet spot — service inbegrepen, eigendom, NL-bedrijf, geen lease-lock-in.
+**De middenweg voor de meeste huishoudens**: een Sessy kopen rond €5.995 — service inbegrepen, eigendom, Nederlandse leverancier, geen lease-lock-in.
 
 [Volledige Sessy review →](/posts/sessy-review-thuisbatterij-nederland/) · [Marstek review →](/posts/marstek-venus-review-thuisbatterij/) · [Zonneplan review →](/posts/zonneplan-thuisbatterij-review-2026/)
 

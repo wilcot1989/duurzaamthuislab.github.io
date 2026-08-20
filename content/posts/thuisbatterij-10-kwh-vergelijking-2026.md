@@ -1,8 +1,8 @@
 ---
-title: 'Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken'
+title: 'Beste thuisbatterij 10 kWh 2026: 7 topmerken vergeleken'
 date: 2026-05-08 08:00:00+02:00
 lastmod: 2026-08-19 08:00:00+02:00
-description: Welke 10 kWh thuisbatterij past bij jouw huishouden? Eerlijke vergelijking van Sessy, Marstek, Zonneplan, Tesla, EcoFlow.
+description: 'Beste thuisbatterij 10 kWh 2026: Sessy, Marstek, Zonneplan, Tesla, EcoFlow, Huawei en BYD vergeleken op prijs (€2.299-€9.500), vermogen en terugverdientijd.'
 categories:
 - thuisbatterijen
 tags:
@@ -61,20 +61,39 @@ products:
   price: '5500'
 schema_type: Article
 ---
+**Welke 10 kWh-thuisbatterijen zijn er, en wat kosten ze?** Dat is het antwoord dat je hier het eerst wilt zien. Onderstaande tabel is de korte versie van dit artikel.
+
+| Thuisbatterij (±10 kWh) | Capaciteit | Prijsindicatie | Vermogen continu | Sterkste punt |
+|---|---|---|---|---|
+| **Marstek Venus E** | 8,2 kWh | €2.299 (excl. installatie, +€350-€450) | 3,0 kW | Laagste prijs per kWh |
+| **Huawei Luna 2000** | 10 kWh | €5.500 | 5,0 kW | Beste DC-gekoppelde optie |
+| **BYD Battery-Box Premium** | 10,2 kWh | €5.800 | 5,0 kW | Modulair, bewezen celkwaliteit |
+| **Sessy 10 kWh** | 10 kWh | €5.995 (incl. installatie) | 2,5 kW | NL-support en automatisering |
+| **EcoFlow PowerOcean** | 10 kWh | €6.800 | 5,0 kW | Hoog vermogen + automatische backup |
+| **Zonneplan 10 kWh** | 10 kWh | €6.995 koop of €54/mnd lease | 3,0 kW | Alles-in-één bij één partij |
+| **Tesla Powerwall 3** | 13,5 kWh | €9.500 | 5,0 kW | Grootste capaciteit, volledige backup |
+
+**Over deze prijzen:** het zijn adviesprijzen en marktprijzen zoals opgegeven door de fabrikanten en Nederlandse aanbieders, stand voorjaar 2026. Ze wisselen per installateur, per actieperiode en per regio; installatiekosten zitten er niet altijd bij (zie de kolom). Vraag altijd een offerte voor jouw meterkast op — dat is het bedrag dat telt. Prijs per bruikbare kWh loopt in dit overzicht uiteen van ongeveer €280 tot €700, en dat verschil is groter dan het verschil in wat de systemen opleveren.
+
+**Kort oordeel:** wie op rendement kiest, komt uit bij Marstek; wie op gemak en Nederlandse service kiest, bij Sessy. De rest van dit artikel legt uit waarom, en voor welke profielen de andere vijf toch de betere keuze zijn.
+
+**Zoek je puur de laagste prijs?** Wij hebben een apart overzicht met de scherpst geprijsde systemen, inclusief de kleinere capaciteiten: **[goedkoopste thuisbatterij 2026](/posts/goedkoopste-thuisbatterij-2026/)**. Deze pagina gaat over de beste 10 kWh-keuze op alle criteria samen, niet alleen op prijs.
+
+---
+
 "Welke 10 kWh thuisbatterij is nu écht de beste?" is de meestgestelde vraag in dit segment. Het antwoord hangt af van je budget, je verbruikprofiel en of je zelf wilt automatiseren — niet van één winnaar.
 
 Hieronder vergelijken we de zeven belangrijkste 10 kWh-systemen in 2026 op prijs per kWh, vermogen, automatisering, service en garantie, met een conclusie per profiel. Alle specificaties komen uit datasheets en prijslijsten; alle terugverdientijden zijn modeluitkomsten met expliciete aannames.
 
-*Cijfers gebaseerd op marktprijzen april 2026. Sommige systemen zijn 8-10 kWh in plaats van exact 10; dat staat aangegeven.*
+*Dit artikel bevat affiliate-links. Wij ontvangen een vergoeding als je via zo'n link iets aanschaft, zonder extra kosten voor jou; dat verandert onze beoordeling niet. Sommige systemen in dit overzicht zijn 8-10 kWh in plaats van exact 10 kWh; dat staat per model aangegeven.*
 
 ---
 
-
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
-> **Kort antwoord:** Welke 10 kWh thuisbatterij past bij jouw huishouden? Eerlijke vergelijking van Sessy, Marstek, Zonneplan, Tesla, EcoFlow.
->
-> 10 kWh is ideaal voor huishoudens met 3.500-6.500 kWh jaarverbruik en zonnepanelen-overschot van 1.500-4.000 kWh per jaar. Te klein voor groot huis met warmtepomp + EV, te groot voor 1-persoonshuishouden zonder substantieel verbruik 's avonds.
+## Is 10 kWh de juiste maat voor jou?
+
+10 kWh past bij huishoudens met **3.500-6.500 kWh jaarverbruik** en een zonneoverschot van **1.500-4.000 kWh per jaar**. Onder de 3.000 kWh verbruik is 5 kWh logischer — je vult de extra capaciteit dan simpelweg niet. Boven de 6.500 kWh met een warmtepomp én een EV kom je met 10 kWh tekort en kijk je naar 13-15 kWh of een modulair systeem dat je later kunt uitbreiden.
 
 ## Onze beoordelingsmethode
 

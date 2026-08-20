@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen Onderhoud 2026: Schoonmaken & Inspectie'
 date: 2026-07-07 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: 'Zonnepanelen onderhoud: hoe vaak schoonmaken, wat kost het, en doe je het zelf? Mijn 8 jaar ervaring met schoonmaakroutines, inspectie en kosten in Nederland.'
 draft: false
 categories:
@@ -21,7 +21,7 @@ keywords:
 - zonnepanelen reinigen
 - zonnepanelen onderhoudscontract
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true

@@ -1,7 +1,7 @@
 ---
 title: 'Sessy Radar 2026: software-update + dynamisch'
 date: 2026-06-06 08:00:00+01:00
-lastmod: 2026-06-06 08:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Deep-dive Sessy Radar algoritme — hoe Sessy de marktprijzen volgt, wat de update brengt, en koppeling met dynamisch contract.
 categories:
 - thuisbatterijen

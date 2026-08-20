@@ -1,7 +1,7 @@
 ---
 title: 'Vergunning Warmtepomp Aanvragen 2026: Wanneer Verplicht?'
 date: 2026-07-14 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: 'Heb ik vergunning nodig voor mijn warmtepomp? Geluidsnorm 40 dB op buurtgrens, vergunningvrij of WABO-procedure. Stappenplan en kosten voor 2026 in Nederland.'
 draft: false
 categories:

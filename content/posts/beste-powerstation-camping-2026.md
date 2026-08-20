@@ -1,7 +1,7 @@
 ---
 title: 'Beste Powerstation voor Camping 2026: Top 5 Getest'
 date: 2026-03-03 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: De 5 beste powerstations voor camping in 2026. Vergelijk gewicht, vermogen, draagbaarheid en zonnepaneel-opladen voor kampeerders.
 categories:
 - powerstations

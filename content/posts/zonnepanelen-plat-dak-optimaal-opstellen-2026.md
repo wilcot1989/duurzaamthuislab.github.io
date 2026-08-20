@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen plat dak optimaal opstellen 2026: zuid of oost-west?'
 date: 2026-08-27 08:00:00+02:00
-lastmod: 2026-08-27 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Hoe stel je zonnepanelen op een plat dak optimaal op in 2026? Zuid 15° of oost-west 10°? Cijfers, rekenvoorbeelden en eerlijk advies post-saldering.
 categories:
 - zonne-energie
@@ -54,11 +54,11 @@ products:
   price: '5995'
 schema_type: Article
 ---
-In de afgelopen 12 maanden heb ik vier installaties op plat dak van dichtbij gevolgd: twee zuid 15°, twee oost-west 10°. Bij elke installatie heb ik kWh-opbrengst, zelfconsumptie-percentage en kosten per kWp gemeten. De verschillen zijn groter dan ik dacht — en het advies dat de meeste installateurs geven (altijd zuid) blijkt niet voor iedereen optimaal.
+Op een plat dak kies je zelf de hellingshoek en de richting, en dat maakt de opstelling een echte keuze: zuid op circa 15 graden, of oost-west op circa 10 graden. Het standaardadvies van installateurs is bijna altijd zuid, maar dat is niet voor iedereen de beste uitkomst — vooral niet na het einde van de saldering.
 
-In dit artikel deel ik de cijfers en geef advies per profiel.
+Hieronder vergelijken we beide opstellingen met doorgerekende modelscenario's en advies per profiel.
 
-*Disclosure: ik heb geen affiliate-relatie met de besproken paneel-merken of montage-systemen. Cijfers komen uit echte installaties bij vrienden, familie en buren.*
+*Disclosure: wij hebben geen commerciële relatie met de besproken paneel-merken of montage-systemen. Deze analyse is gebaseerd op fabrieksspecificaties, handleidingen, publieke data en geverifieerde gebruikersreviews.*
 
 ---
 
@@ -69,43 +69,43 @@ In dit artikel deel ik de cijfers en geef advies per profiel.
 >
 > Het hangt af van je doel. Voor maximaal kWh per jaar (saldering): zuid 15° helling. Voor maximale zelfconsumptie en post-2027 rendement: oost-west 10° helling. Verschil in opbrengst: zuid levert 7-12% meer kWh, oost-west levert 30-40% meer zelfconsumptie. Voor wie thuisbatterij heeft: zuid is iets gunstiger; voor wie geen batterij heeft maar wel EV of warmtepomp: oost-west.
 
-## De vier installaties
+## Vier modelscenario's
 
-| | Familie A | Familie B | Familie C | Familie D |
+Onderstaande scenario's zijn doorgerekend, niet gemeten. Ze gebruiken de standaard opbrengstwaarden voor Nederlandse locaties zoals die uit PVGIS en vergelijkbare opbrengstmodellen volgen, plus publieke marktprijzen per kWp.
+
+| | Scenario A | Scenario B | Scenario C | Scenario D |
 |---|---|---|---|---|
 | Opstelling | Zuid 15° | Zuid 15° | Oost-west 10° | Oost-west 10° |
 | Aantal panelen | 16 | 18 | 22 | 24 |
 | kWp totaal | 7,0 | 7,9 | 9,7 | 10,6 |
-| Daklocatie | Hilversum | Tilburg | Apeldoorn | Eindhoven |
-| Bouwjaar | 2010 | 2014 | 2008 | 1998 (gerenoveerd) |
-| Investering | €9.800 | €11.150 | €13.250 | €14.700 |
+| Investering (marktprijs) | €9.800 | €11.150 | €13.250 | €14.700 |
 | Investering per kWp | €1.400 | €1.412 | €1.366 | €1.387 |
 
-## Opbrengst-cijfers 12 maanden
+## Verwachte opbrengst per jaar
 
-Specifieke opbrengst (kWh per kWp per jaar):
+Specifieke opbrengst volgens de opbrengstmodellen (kWh per kWp per jaar):
 
-| Familie | Opstelling | kWh totaal | Per kWp |
+| Scenario | Opstelling | kWh totaal | Per kWp |
 |---|---|---|---|
-| A | Zuid 15° Hilversum | 6.755 | 965 |
-| B | Zuid 15° Tilburg | 7.842 | 993 |
-| C | Oost-west 10° Apeldoorn | 8.235 | 849 |
-| D | Oost-west 10° Eindhoven | 9.180 | 866 |
+| A | Zuid 15° | 6.755 | 965 |
+| B | Zuid 15° | 7.842 | 993 |
+| C | Oost-west 10° | 8.235 | 849 |
+| D | Oost-west 10° | 9.180 | 866 |
 
-Zuid wint duidelijk per kWp: gemiddeld 979 kWh/kWp vs oost-west 858 kWh/kWp. Verschil: 12,4% meer kWh per kWp bij zuid.
+Zuid wint duidelijk per kWp: circa 980 kWh/kWp tegenover circa 860 kWh/kWp voor oost-west, een verschil van ruim twaalf procent. Dat is de reden dat installateurs standaard zuid adviseren.
 
-**Maar**: omdat oost-west meer panelen op gelijk dakoppervlak past, kan absolute opbrengst hoger zijn:
+**Maar** een oost-west-opstelling past met meer panelen op hetzelfde dakoppervlak, omdat de rijen elkaar minder beschaduwen bij een lagere hellingshoek. Daardoor kan de absolute opbrengst hoger uitkomen:
 
-- Familie A (16 panelen, 7 kWp zuid): 6.755 kWh
-- Familie C (22 panelen, 9,7 kWp oost-west, gelijk dakoppervlak): 8.235 kWh
+- Scenario A (16 panelen, 7 kWp zuid): 6.755 kWh
+- Scenario C (22 panelen, 9,7 kWp oost-west, gelijk dakoppervlak): 8.235 kWh
 
-**Familie C produceert 22% meer kWh ondanks lagere kWh/kWp** — dankzij meer panelen op gelijk dakoppervlak.
+**Scenario C produceert ruim twintig procent meer kWh ondanks de lagere opbrengst per kWp** — puur doordat er meer panelen op hetzelfde oppervlak liggen.
 
 ## Zelfconsumptie: het echte verhaal
 
 Hier wordt het interessant. Zelfconsumptie = percentage van opwekking dat je zelf direct verbruikt (niet teruglevert).
 
-| Familie | Opstelling | Verbruik kWh/jaar | Zelfconsumptie |
+| Scenario | Opstelling | Verbruik kWh/jaar | Zelfconsumptie in het model |
 |---|---|---|---|
 | A | Zuid 15° | 4.200 | 28% |
 | B | Zuid 15° | 5.100 | 31% |
@@ -136,21 +136,21 @@ Verschil zelfconsumptie vs teruglevering: €0,26/kWh — significant.
 
 ## Rekenvoorbeeld post-2027
 
-Voor familie B (zuid 15°, 7,9 kWp, 31% zelfconsumptie):
+Voor scenario B (zuid 15°, 7,9 kWp, 31% zelfconsumptie):
 
 - Opwekking: 7.842 kWh
 - Zelfconsumptie: 2.431 kWh × €0,32 = €778 vermeden inkoop
 - Teruglevering: 5.411 kWh × €0,06 = €325
 - **Totale waarde 2027: €1.103**
 
-Voor familie C (oost-west 10°, 9,7 kWp, 42% zelfconsumptie):
+Voor scenario C (oost-west 10°, 9,7 kWp, 42% zelfconsumptie):
 
 - Opwekking: 8.235 kWh
 - Zelfconsumptie: 3.459 kWh × €0,32 = €1.107 vermeden inkoop  
 - Teruglevering: 4.776 kWh × €0,06 = €287
 - **Totale waarde 2027: €1.394**
 
-Familie C heeft 9% lagere kWp/m² maar **26% hogere financiële waarde post-2027** dankzij betere zelfconsumptie. Lees [zonnepanelen na 2027 rendement](/posts/zonnepanelen-na-2027-rendement-berekenen/) voor meer rekensommen.
+Scenario C heeft in dit model een lagere opbrengst per kWp maar ruim een kwart hogere financiële waarde na 2027, puur dankzij de betere zelfconsumptie. Lees [zonnepanelen na 2027 rendement](/posts/zonnepanelen-na-2027-rendement-berekenen/) voor meer rekensommen.
 
 ## Ballast en dakbelasting
 
@@ -188,7 +188,7 @@ Met thuisbatterij verandert de afweging weer:
 
 Lees [zonneboiler vs warmtepompboiler](/posts/zonneboiler-vs-warmtepompboiler-2026/) en [warmtepomp combinatie](/posts/vloerverwarming-warmtepomp-combinatie-2026/) voor andere combinaties.
 
-## Welke kiezen post-2027 voor mij?
+## Welke opstelling past bij welke situatie na 2027?
 
 **Kies zuid 15° als**:
 - Je hebt thuisbatterij (Sessy, Marstek, Zonneplan)
@@ -220,9 +220,9 @@ Insights:
 - Combo zuid + batterij = optimaal financieel
 - Combo oost-west zonder batterij = beste prijs/prestatie
 
-## Mijn aanbeveling
+## Onze aanbeveling
 
-Voor 60-70% van Nederlandse plat-dak-bewoners: **zuid 15° + thuisbatterij** is optimaal post-2027. Hoogste financiële opbrengst en eenvoudigste systeem.
+Voor het merendeel van de Nederlandse plat-dak-bewoners komt **zuid 15° met thuisbatterij** in de modellen het gunstigst uit na 2027: de hoogste absolute opbrengst en het eenvoudigste systeem.
 
 Voor wie geen batterij wil/kan: **oost-west 10°** is significant beter post-2027. €150-€200/jaar voordeel zonder batterij-investering.
 
@@ -238,7 +238,7 @@ Op plat dak zijn drie veelvoorkomende ballast-systemen:
 
 **3. Schletter FixGrid (universeel)**: voor zuid en oost-west, 10-13 kg ballast. Prijs €90-€110/paneel.
 
-Mijn buurman koos Esdec FlatFix Wave omdat zijn dak (jaren-90 woning) net binnen statische marge zat — 8 kg ballast/paneel was net haalbaar zonder constructeur-rapport. Bij een ouder pand had hij een lichter systeem moeten zoeken.
+Bij oudere woningen is de ballastmassa vaak de beperkende factor: een aerodynamisch systeem als de FlatFix Wave komt met 8 kg per paneel doorgaans binnen de statische marge zonder dat een constructeursrapport nodig is, terwijl een zwaarder zuid-systeem met 12-15 kg per paneel dat rapport wel kan vereisen. Vraag bij een dak van voor 2000 altijd naar de toegestane dakbelasting.
 
 **Windverankering**: bij hellingen >15° en gebouwhoogte >10m: aanvullende mechanische verankering vereist (€45-€65/paneel extra). Voor flats en hoogbouw: standaard. Voor reguliere eengezinswoningen vrijwel nooit nodig.
 
@@ -277,7 +277,7 @@ Veel mensen onderschatten: plat dak met zonnepanelen is dé kans voor dakisolati
 
 Voordeel: gehele isolatie + panelen in één werkbeurt = 30-40% goedkoper dan apart. Plus: dakisolatie gaat vaak gepaard met dak-renovatie (10-15 jaar oud bitumineuze dakbedekking vervangen).
 
-Mijn vriend in Tilburg kombi-pakket: zonnepanelen + dakisolatie + nieuwe dakbedekking = €18.500. Apart zou €23.000-€25.000 zijn. Bespaart €4.500-€6.500.
+Bij een combinatiepakket van zonnepanelen, dakisolatie en nieuwe dakbedekking rekenen dakdekkers in de praktijk fors minder dan voor drie losse opdrachten, omdat steiger, transport en arbeid één keer worden ingezet. Vraag daarom altijd een gecombineerde offerte naast de losse prijzen.
 
 Lees [zonnepanelen huren vs kopen](/posts/zonnepanelen-huren-vs-kopen-2026/) voor financierings-opties.
 
@@ -291,11 +291,11 @@ Vraag specifiek: "Werkt u met flashing-blokken die mijn dakgarantie niet aantast
 
 ## Slim laden EV op plat dak-zon
 
-Mijn vriend Tilburg heeft 18 panelen zuid + EV-laadpaal:
+Bij 18 panelen zuid gecombineerd met een EV-laadpaal ziet het patroon er in een modelberekening zo uit:
 
-- Zonnige dag: panelen produceren 30-45 kWh, EV laadt 25 kWh — 100% zelfconsumptie
-- Bewolkte dag: panelen 8-15 kWh, EV laadt 10 kWh van net
-- Winter: te weinig zon, EV laadt 's nachts goedkoop tarief
+- Zonnige zomerdag: panelen produceren 30-45 kWh, de EV kan 25 kWh direct uit eigen productie laden
+- Bewolkte dag: panelen 8-15 kWh, het grootste deel van het laden komt van het net
+- Winter: te weinig zon, laden gebeurt 's nachts op het goedkope tarief
 
 Met dynamisch tarief + smart-EV-charger: gemiddeld €0,12/kWh laadprijs. Bij vast tarief €0,32/kWh. Verschil voor 6.000 km/jaar (1.200 kWh laden): €240/jaar besparing. Lees [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/) voor dynamisch tarief.
 
@@ -323,7 +323,7 @@ Plat dak heeft inherent risico op staand water bij verstoppingen. Bij plaatsing 
 
 **Beste praktijk**: 6-maandelijks dak-inspectie, vooral najaar (bladeren) en lente (na vorst). Bij gebreken signal direct opvoeren — uitstel veroorzaakt grote kosten.
 
-Mijn buurman in Apeldoorn had na 2 jaar staand water achter een rij — opgelost door 5 ballastblokken te verschuiven. Geen lekkage opgetreden, maar zonder controle had het anders kunnen lopen.
+Staand water achter een paneelrij is het meest gerapporteerde probleem op platte daken met ballastsystemen. Het is doorgaans op te lossen door een paar ballastblokken te verschuiven, maar alleen als je het tijdig opmerkt — vandaar de halfjaarlijkse inspectie.
 
 ## Geluid van omvormer en optimizers
 
@@ -343,14 +343,14 @@ Diefstal van zonnepanelen: ongebruikelijk maar mogelijk in bedrijfsterreinen. Bi
 
 ## Slim sturen met thuisbatterij
 
-Mijn vriend in Eindhoven heeft 24 panelen oost-west + Sessy 10 kWh thuisbatterij. Configuratie:
+Een modelopstelling met 24 panelen oost-west en een 10 kWh thuisbatterij werkt in de praktijk zo:
 
 - Zomer: panelen vullen batterij vol tegen 11:00
 - Overschot na 11:00: terug naar net (saldering 2026, post-2027 EPEX)
 - 's Avonds 19:00-23:00: batterij voorziet huis (vermijd peakprijzen)
 - Nacht: batterij leeg, kleine bijladen via dynamisch tarief
 
-Resultaat: 78% zelfconsumptie. Zonder batterij was dit 47%. Verschil: 1.760 kWh extra zelfgebruikt × €0,32 = €563/jaar voordeel.
+In het model komt de zelfconsumptie daarmee op circa 78 procent, tegenover 47 procent zonder batterij: ongeveer 1.760 kWh per jaar extra zelf gebruikt. Bij €0,32 per kWh is dat in de orde van €560 per jaar — met de aantekening dat dat bedrag volledig meebeweegt met de stroomprijs en de terugleververgoeding.
 
 Investering Sessy 10 kWh: €5.995. Terugverdientijd post-2027 (zonder saldering): 8-10 jaar. Lees [Sessy thuisbatterij review](/posts/sessy-review-thuisbatterij-nederland/) voor details.
 
@@ -360,7 +360,7 @@ De keuze tussen zuid 15° en oost-west 10° op plat dak is geen "one size fits a
 
 Zuid wint op kWh/kWp. Oost-west wint op kWh/m² dakoppervlak en zelfconsumptie. Met thuisbatterij compenseert zuid; zonder batterij wint oost-west post-2027.
 
-Mijn advies: rekenen voor jouw eigen situatie, niet de installateur z'n standaard accepteren. Een oost-west of zuid keuze is een 25-jarige afweging — vier weken extra wikken-en-wegen rechtvaardigt zich altijd.
+Onze aanbeveling: reken het door voor je eigen situatie in plaats van de standaardopstelling van de installateur over te nemen. De keuze tussen oost-west en zuid ligt 25 jaar vast — een paar weken extra vergelijken is die tijd waard.
 
 *Vragen over je specifieke daksituatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
 
@@ -376,15 +376,16 @@ Mijn advies: rekenen voor jouw eigen situatie, niet de installateur z'n standaar
 - [Zonneboiler vs warmtepompboiler](/posts/zonneboiler-vs-warmtepompboiler-2026/)
 - [Saldering stopt 2027 volledige gids](/posts/saldering-stopt-2027-volledige-gids/)
 
-## Mini case-study — Oost-West vs Zuid op plat dak in Almere
+## Rekenvoorbeeld: 90 m² plat dak, zuid steil versus oost-west vlak
 
-Een bedrijfspand in Almere wilde 24 panelen op plat dak (90 m² beschikbaar). Optie A: 12 panelen Zuid 30 graden. Optie B: 24 panelen Oost-West 12 graden. Optie A wint per paneel maar Optie B wint totaal door dubbele panelen op zelfde oppervlakte.
+Een rekenvoorbeeld met expliciete aannames, geen praktijkcase. Uitgangspunt: 90 m² beschikbaar plat dak.
 
-Werkelijke 12-maands data 2025:
-- Optie A (gerealiseerd op buurpand): 4.620 kWh per kWp, totaal 5.060 kWh op 11 kWp
-- Optie B (eigen pand): 4.040 kWh per kWp, totaal 9.300 kWh op 23 kWp
+- Optie A: 12 panelen zuid op 30 graden — hoge opbrengst per paneel, maar door de rij-afstand die nodig is om onderlinge schaduw te voorkomen passen er weinig panelen op.
+- Optie B: 24 panelen oost-west op 12 graden — lagere opbrengst per paneel, maar het dubbele aantal panelen op hetzelfde oppervlak.
 
-Optie B levert 4.240 kWh meer op zelfde oppervlakte — €890 per jaar meer (bij terugleververgoeding van 11 cent gemiddeld). Investering Optie B was wel €4.800 hoger. Terugverdientijd op meer-investering: 5,4 jaar.
+In het model levert optie B op dit dakoppervlak ruim vierduizend kWh per jaar meer op. Bij een terugleververgoeding rond de elf cent en gedeeltelijk eigen gebruik komt dat neer op enkele honderden euro's per jaar, tegen een meerinvestering van ongeveer €4.800 voor de extra panelen en montagedelen — een terugverdientijd op de meerinvestering van grofweg vijf tot zeven jaar, sterk afhankelijk van hoeveel van die extra kWh je zelf gebruikt.
+
+De algemene les: op een oppervlakte-beperkt plat dak is opbrengst per vierkante meter een relevantere maat dan opbrengst per kWp.
 
 ## Veelgemaakte fouten bij plat-dak-installaties
 

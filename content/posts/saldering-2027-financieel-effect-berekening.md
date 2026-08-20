@@ -1,7 +1,7 @@
 ---
 title: 'Saldering 2027: financieel effect berekenen per profiel'
 date: 2026-09-28 08:00:00+02:00
-lastmod: 2026-09-28 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 draft: false
 description: 'Bereken per profiel (1500/3500/6000 kWh teruglevering) wat je in 2027 verliest. Concrete euro-bedragen, alternatieven Sessy en Tibber doorgerekend.'
 categories: [saldering]
@@ -9,7 +9,7 @@ tags: [saldering, 2027, calculator, Sessy, Tibber, Frank-Energie, thuisbatterij]
 keywords: [saldering 2027 berekenen, saldering stopt verlies, terugleververgoeding 2027, thuisbatterij na saldering, dynamisch contract saldering]
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: 'Hoeveel ga ik verliezen in 2027 met 3500 kWh teruglevering?'
@@ -37,11 +37,11 @@ last_updated: '2026-09-28'
 category: saldering
 ---
 
-Vorige week kreeg ik een mail van Henk uit Assen. Hij schreef letterlijk: "Mark, ik snap er niets meer van. Ik heb in 2022 voor 9.000 euro panelen op het dak laten leggen, ik lever 5.800 kWh per jaar terug, en nu zegt mijn buurman dat ik vanaf 2027 nog maar een paar tientjes per jaar krijg. Klopt dat?" Henk zat duidelijk in de paniek-modus. Zijn vrouw had al gegoogeld op "thuisbatterij verplicht" en hij dacht dat hij nu snel een batterij van 8.000 euro moest aanschaffen.
+"Ik heb in 2022 voor 9.000 euro panelen op het dak laten leggen, ik lever bijna 6.000 kWh per jaar terug, en nu hoor ik dat ik vanaf 2027 nog maar een paar tientjes per jaar krijg. Klopt dat?" Dat is een van de meest gestelde vragen rond de saldering-stop, vaak gevolgd door de vraag of een thuisbatterij van 8.000 euro nu verplicht wordt. Dat laatste is niet zo — en het eerste is wel een stuk minder dramatisch dan het klinkt, mits je het doorrekent.
 
-Ik heb hem een berekening doorgestuurd waar hij rustig van werd. En precies die berekening werk ik in dit artikel uit voor drie profielen: 1500, 3500 en 6000 kWh teruglevering per jaar. Geen vage praatjes, gewoon euro-bedragen waar je iets mee kunt.
+Daarom werkt dit artikel de rekensom uit voor drie profielen: 1.500, 3.500 en 6.000 kWh teruglevering per jaar. Geen vage praatjes, gewoon euro-bedragen waar je iets mee kunt.
 
-*Sommige links in dit artikel zijn affiliate-links (Sessy, Tibber, Frank Energie). Klik je en koop je iets, dan krijg ik een kleine vergoeding. Je betaalt geen cent extra en mijn advies blijft hetzelfde, ook als het tegen mijn portemonnee in gaat.*
+*Sommige links in dit artikel zijn affiliate-links (Sessy, Tibber, Frank Energie). Koop je iets via zo'n link, dan ontvangen wij een kleine vergoeding. Je betaalt geen cent extra en het advies verandert daar niet door — ook niet wanneer de conclusie is dat je niets moet kopen.*
 
 > **Kort antwoord:** Verwacht in 2027 een terugleververgoeding tussen 3 en 7 cent per kWh (nu krijg je via saldering effectief 28 tot 32 cent). Voor een gemiddeld huishouden met 3500 kWh teruglevering betekent dat ruwweg 800 tot 1000 euro minder per jaar. Een Sessy-batterij heeft pas zin bij 4000+ kWh teruglevering. Een dynamisch contract (Tibber of Frank) is voor de meeste mensen de eerste, goedkoopste stap.
 
@@ -49,11 +49,18 @@ Ik heb hem een berekening doorgestuurd waar hij rustig van werd. En precies die 
 
 De salderingsregeling stopt volledig per 1 januari 2027. Tot die datum mag je elke kWh die je teruglevert aan het net wegstrepen tegen een kWh die je afneemt. Effectief krijg je dan de volle kale leveringsprijs plus belastingen terug, samen rond de 30 cent per kWh in 2026.
 
-Vanaf 2027 wordt je teruglevering nog wel vergoed, maar tegen een veel lagere prijs. Energieleveranciers moeten een "redelijke vergoeding" bieden. Op basis van wat Vandebron, Eneco en Greenchoice in 2026 al communiceren zit dat tussen de 3 en 7 cent per kWh exclusief btw. Daarnaast verwacht ik dat de meeste leveranciers een terugleverkosten-component blijven hanteren (de boete voor veel terugleveren). Lees voor de transitie ook mijn [volledige gids over het stoppen van saldering in 2027](/posts/saldering-stopt-2027-volledige-gids/).
+Vanaf 2027 wordt je teruglevering nog wel vergoed, maar tegen een veel lagere prijs. Energieleveranciers moeten een "redelijke vergoeding" bieden. De bandbreedte die op basis van de huidige marktcommunicatie het meest waarschijnlijk is, ligt tussen 3 en 7 cent per kWh exclusief btw. Controleer altijd de actuele voorwaarden bij je eigen leverancier: dit is geen vastgelegd tarief. Onze verwachting is daarnaast dat de meeste leveranciers een terugleverkosten-component blijven hanteren — het opslagbedrag voor wie veel teruglevert. Lees voor de transitie ook de [volledige gids over het stoppen van saldering in 2027](/posts/saldering-stopt-2027-volledige-gids/).
 
-## Hoe ik de berekeningen doe (transparantie)
+## De aannames achter de berekeningen
 
-Ik reken met de volgende uitgangspunten. Stroomprijs 2026: 30 cent per kWh all-in. Verwachte terugleververgoeding 2027: 5 cent per kWh (middenscenario). Ik ga ervan uit dat je eigen verbruiksaandeel constant blijft (de panelen draaien gewoon door, alleen het overschot wordt minder waard). De getallen zijn afgerond, want voor een keukentafelgesprek heb je geen drie decimalen nodig.
+Alle tabellen hieronder zijn modelberekeningen met de volgende aannames:
+
+- Stroomprijs 2026: 30 cent per kWh all-in.
+- Terugleververgoeding 2027: 5 cent per kWh (middenscenario binnen de bandbreedte van 3 tot 7 cent).
+- Het eigen-verbruiksaandeel blijft gelijk: de panelen draaien gewoon door, alleen het overschot wordt minder waard.
+- Terugleverkosten zijn een schatting en verschillen sterk per leverancier.
+
+De uitkomsten zijn afgerond. Ze dienen om de orde van grootte te bepalen, niet om je jaarafrekening te voorspellen.
 
 Wil je een interactieve versie? Gebruik dan de [saldering calculator 2027](/posts/saldering-calculator-2027-volledig/) waar je je eigen verbruik kunt invullen.
 
@@ -83,7 +90,7 @@ Het standaard-profiel: 10 tot 12 panelen op een eengezinswoning, gezin met kinde
 | Terugleverkosten (schatting) | 0 EUR | -120 EUR | -120 EUR |
 | **Netto effect per jaar** | **1.050 EUR** | **55 EUR** | **-995 EUR** |
 
-Hier wordt het serieus. 995 euro per jaar minder is ongeveer 83 euro per maand. Voor dit profiel begint een batterij wel interessant te worden, maar pas als je hem combineert met een dynamisch contract. Lees ook mijn [ROI-berekening voor een thuisbatterij na saldering](/posts/roi-thuisbatterij-na-saldering-2027-berekening/).
+Hier wordt het serieus. 995 euro per jaar minder is ongeveer 83 euro per maand. Voor dit profiel begint een batterij wel interessant te worden, maar pas als je hem combineert met een dynamisch contract. Lees ook de [ROI-berekening voor een thuisbatterij na saldering](/posts/roi-thuisbatterij-na-saldering-2027-berekening/).
 
 ## Profiel 3: grote installatie, 6000 kWh teruglevering
 
@@ -97,11 +104,13 @@ Dit zijn de huizen met 16 tot 20 panelen, vaak zuid-georiënteerd dak, gezin waa
 | Terugleverkosten (schatting) | 0 EUR | -250 EUR | -250 EUR |
 | **Netto effect per jaar** | **1.800 EUR** | **50 EUR** | **-1.750 EUR** |
 
-Dit was het profiel van Henk uit Assen. 1.750 euro per jaar minder. Bij dit profiel is een batterij financieel verstandig, mits je de juiste maat kiest. Lees ook wat de [zonnepanelen na 2027 nog opleveren](/posts/zonnepanelen-na-2027-rendement-berekenen/) — spoiler: nog steeds positief, alleen minder dramatisch dan voorheen.
+Dit is het profiel waar de saldering-stop echt aankomt: 1.750 euro per jaar minder. Bij dit profiel is een batterij financieel verstandig, mits je de juiste maat kiest. Lees ook wat de [zonnepanelen na 2027 nog opleveren](/posts/zonnepanelen-na-2027-rendement-berekenen/) — spoiler: nog steeds positief, alleen minder dramatisch dan voorheen.
 
 ## Alternatief 1: Sessy thuisbatterij doorgerekend
 
-Sessy is de meest populaire thuisbatterij in Nederland en eentje die ik zelf in mijn meterkast heb hangen. De 5 kWh-versie kost momenteel 5.995 euro all-in geinstalleerd. Hij combineert eigen verbruik vergroten met dynamisch handelen op de stroommarkt (kopen als de prijs laag is, gebruiken als de prijs hoog is).
+Sessy is een Nederlandse thuisbatterij die veel wordt gekozen omdat hij twee dingen combineert: eigen verbruik vergroten en handelen op de uurprijzen van de stroommarkt (laden als de prijs laag is, ontladen als de prijs hoog is). De 5 kWh-versie staat op circa 5.995 euro all-in geïnstalleerd; check de actuele prijs bij de leverancier.
+
+Onderstaande tabel is een modelberekening met dezelfde aannames als hierboven, plus één cyclus per dag en een gemiddelde prijsspreiding zoals die de afgelopen jaren op de EPEX-markt zichtbaar was. De opbrengst van dynamisch handelen is de meest onzekere post: die staat of valt met de spreiding tussen dag- en nachtprijzen.
 
 | Profiel | Investering | Eigen verbruik extra | Dynamisch handelen | Totaal jaarvoordeel | Terugverdientijd |
 |---|---|---|---|---|---|
@@ -109,11 +118,11 @@ Sessy is de meest populaire thuisbatterij in Nederland en eentje die ik zelf in 
 | 3500 kWh terugl. | 5.995 EUR | 380 EUR | 280 EUR | 660 EUR | 9,1 jaar |
 | 6000 kWh terugl. | 5.995 EUR | 520 EUR | 320 EUR | 840 EUR | 7,1 jaar |
 
-De Sessy heeft 10 jaar garantie en gaat in de praktijk 12 tot 15 jaar mee. Onder de 10 jaar terugverdientijd vind ik hem verdedigbaar, daarboven wordt het twijfelachtig. Voor Profiel 1 is hij dus eerder een hobby dan een investering.
+Volgens de fabrikant geldt tien jaar garantie op de Sessy. Onze inschatting: onder een terugverdientijd van tien jaar is de aanschaf verdedigbaar, daarboven wordt het twijfelachtig, omdat je dan tegen het einde van de garantietermijn aanloopt voordat de investering terug is. Voor Profiel 1 is de batterij daarmee eerder een hobby dan een investering.
 
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
-<strong>Sessy thuisbatterij — wat ik er na 14 maanden van vind</strong><br>
-Stabiele Nederlandse fabrikant, doet eigen verbruik en dynamisch handelen tegelijk, app is helder. Bij 3500+ kWh teruglevering verdien je hem in 7 tot 9 jaar terug. Mijn volledige <a href="/posts/sessy-review-thuisbatterij-nederland/">Sessy review</a> staat hier.<br><br>
+<strong>Sessy thuisbatterij — ons oordeel</strong><br>
+Nederlandse fabrikant met eigen service, doet eigen verbruik en dynamisch handelen tegelijk, en de app maakt inzichtelijk wat het systeem doet. Bij 3.500 kWh teruglevering of meer komt de terugverdientijd in het model op 7 tot 9 jaar. De volledige <a href="/posts/sessy-review-thuisbatterij-nederland/">Sessy review</a> staat hier.<br><br>
 <a href="https://go.duurzaamthuislab.nl/sessy" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Sessy prijzen &rarr;</a>
 </div>
 
@@ -121,13 +130,13 @@ Stabiele Nederlandse fabrikant, doet eigen verbruik en dynamisch handelen tegeli
 
 Dit is de goedkoopste verdedigingslinie: geen investering, alleen een ander contract. Je betaalt het uurtarief van de stroombeurs plus belastingen. Was de stroom om 14:00 een paar cent? Dan laad je je auto of zet je je vaatwasser aan. Geen panelen verplicht.
 
-| Aanbieder | Maandkosten | Bruto jaarvoordeel | Vereist apparaat | Mijn oordeel |
+| Aanbieder | Maandkosten | Bruto jaarvoordeel in het model | Vereist apparaat | Ons oordeel |
 |---|---|---|---|---|
 | Tibber | 5,99 EUR | 150-400 EUR | Smart EV-lader of batterij ideaal | Beste app, sterke EV-integratie |
 | Frank Energie | 4,99 EUR | 150-380 EUR | App + slim apparaat | Geen vaste maandkosten op variant |
 | ANWB Energie Dynamisch | 6,95 EUR | 130-350 EUR | Geen vereist | Voor wie merknaam belangrijk vindt |
 
-Het exacte voordeel hangt sterk af van of je flexibel kunt zijn. Iemand met EV en warmtepomp kan 400+ euro per jaar besparen. Iemand zonder beide haalt 150 euro. Lees mijn [Tibber review](/posts/tibber-review-ervaringen-2026/) en [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/) voor de details, of mijn vergelijking [dynamisch versus vast contract in 2026](/posts/dynamisch-vs-vast-contract-2026/).
+Het exacte voordeel hangt sterk af van of je flexibel kunt zijn. Iemand met EV en warmtepomp kan 400+ euro per jaar besparen. Iemand zonder beide haalt eerder 150 euro. Maandkosten wijzigen regelmatig, dus controleer die op de site van de aanbieder. Lees de [Tibber review](/posts/tibber-review-ervaringen-2026/) en de [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/) voor de details, of de vergelijking [dynamisch versus vast contract in 2026](/posts/dynamisch-vs-vast-contract-2026/).
 
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>Tibber — dynamisch contract zonder gedoe</strong><br>
@@ -153,38 +162,38 @@ Wat hier opvalt: zelfs met batterij en dynamisch contract verdien je het verlies
 
 **Fout 2: "Een batterij is altijd winstgevend nu saldering stopt."** Niet waar. Bij minder dan 3000 kWh teruglevering verdien je een Sessy van 6.000 euro niet binnen tien jaar terug. Bij minder dan 1500 kWh kun je hem beter overslaan.
 
-**Fout 3: "Dynamisch contract is alleen voor techneuten."** Het instellen van Tibber of Frank duurt 20 minuten. Daarna doet de app alles automatisch. Mijn schoonmoeder van 71 doet het ook en die belde mij vroeger nog op om de afstandsbediening te resetten.
+**Fout 3: "Dynamisch contract is alleen voor techneuten."** Het instellen van Tibber of Frank kost ongeveer twintig minuten. Daarna verschuift de app het laden van auto of batterij automatisch naar de goedkope uren. Wie geen enkel flexibel apparaat heeft, haalt er weinig uit — dat is de echte grens, niet technische kennis.
 
-## Wat ik Henk uit Assen heb geadviseerd
+## Wat is de verstandige route bij Profiel 3?
 
-Henk had Profiel 3 (6000 kWh teruglevering). Mijn advies: stap nu over op een dynamisch contract (Tibber in zijn geval, vanwege zijn Volvo XC40 Recharge die smart-laden ondersteunt). Wacht met de batterij tot Q4 2026 wanneer de prijzen waarschijnlijk dalen door extra aanbod. Begin alvast met een [transitie-planner](/posts/saldering-2027-transitie-planner/) zodat hij de aankoop op tijd kan plannen.
+Bij 6.000 kWh teruglevering is de logische volgorde: eerst het contract, dan pas de hardware.
 
-Daarmee neemt hij ongeveer 350 euro per jaar terug via dynamisch handelen, en houdt hij de optie open om in 2027 alsnog een batterij te plaatsen tegen lagere prijzen. Geen paniek, wel actie.
+Stap één is overstappen op een dynamisch contract. Dat kost niets, werkt direct en levert bij een elektrische auto met smart-laden in het model een paar honderd euro per jaar op. Stap twee is de batterij, maar zonder haast: je panelen blijven werken en de aanschaf kan even wachten tot je weet wat je leverancier in 2027 daadwerkelijk voor teruglevering betaalt en welke terugleverkosten daarbij horen. Gebruik de [transitie-planner](/posts/saldering-2027-transitie-planner/) om de aankoop te plannen.
 
-## Drie vragen die ik krijg over deze berekening
+Zo neem je een deel van het verlies terug via dynamisch handelen en houd je de optie open om later alsnog een batterij te plaatsen — met betere informatie en zonder de aanbiedingsdruk die rond de jaarwissel ontstaat. Geen paniek, wel actie.
 
-**"Mijn buurman zegt dat de terugleververgoeding maar 2 cent wordt."** Kan kloppen voor sommige leveranciers, maar de ACM houdt toezicht op of de vergoeding redelijk is. Onder de 3 cent verwacht ik juridische procedures. Reken voor zekerheid op een bandbreedte van 3 tot 7 cent.
+## Drie vragen die vaak terugkomen over deze berekening
+
+**"Ik hoor dat de terugleververgoeding maar 2 cent wordt."** Dat kan voor individuele leveranciers kloppen. De ACM houdt toezicht op de vraag of de vergoeding redelijk is, en bij zeer lage vergoedingen ligt discussie daarover voor de hand. Reken voor de zekerheid op een bandbreedte van 3 tot 7 cent en check je eigen leveringsvoorwaarden.
 
 **"Geldt dit ook voor mijn SDE-installatie op het bedrijfsdak?"** Nee, dit artikel gaat over particuliere saldering (kleinverbruikers). Zakelijke installaties hebben hun eigen regelingen via SDE++ en die wijzigen niet op deze datum.
 
 **"Wat als ik mijn panelen wil verkopen?"** Tweedehands paneelmarkt is klein en de afschrijving is fors. Houd ze, ze leveren ook na 2027 nog netto geld op via eigen verbruik. Lees [of een batterij ook zonder zonnepanelen zin heeft](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026.md) voor het omgekeerde scenario.
 
-## Mijn concrete 4-stappenplan voor jou
+## Een concreet 4-stappenplan
 
 1. **Bepaal je profiel.** Pak je jaarafrekening en kijk hoeveel kWh je teruglevert. Niet hoeveel je opwekt — dat is iets anders.
-2. **Stap deze maand over op dynamisch.** Geen investering, direct effect. Mijn voorkeur: Tibber bij EV-bezit, Frank Energie bij prijsgevoeligheid.
-3. **Reken een batterij door bij 3500+ kWh teruglevering.** Vraag concrete offertes, niet alleen voor Sessy maar ook Zonneplan, EcoFlow Power Ocean en Marstek.
-4. **Wacht met definitieve aanschaf tot Q1 2027.** De markt zit dan duidelijk in elkaar en je weet wat je nieuwe leverancier biedt.
+2. **Stap over op dynamisch.** Geen investering, direct effect. Onze inschatting: Tibber bij een elektrische auto vanwege de laad-integratie, Frank Energie als lage vaste kosten belangrijker zijn.
+3. **Reken een batterij door bij 3.500 kWh teruglevering of meer.** Vraag concrete offertes, niet alleen voor Sessy maar ook bij aanbieders als Zonneplan, EcoFlow en Marstek.
+4. **Neem de definitieve beslissing pas als de 2027-voorwaarden bekend zijn.** Dan weet je wat je leverancier voor teruglevering betaalt en welke terugleverkosten hij rekent — de twee cijfers die de hele berekening bepalen.
 
 ## Externe bronnen voor de zekerheid
 
-Voor de officiele regels en consumentenrechten rond saldering kun je terecht bij de ACM: zie [acm.nl over zonnepanelen en saldering](https://www.acm.nl/nl/onderwerpen/energie/de-energiemarkt/zonnepanelen). Hier vind je actuele info over wat een leverancier minimaal moet bieden in 2027 en hoe je een klacht indient als je vergoeding onredelijk laag is.
-
-Heb je vragen na het lezen? Mail me gerust via de site. Geen verkoperspraatjes, gewoon een second opinion van iemand die zelf panelen en een batterij heeft.
+Voor de officiele regels en consumentenrechten rond saldering kun je terecht bij de ACM: zie [acm.nl over zonnepanelen en saldering](https://www.acm.nl/nl/onderwerpen/energie/de-energiemarkt/zonnepanelen). Hier vind je actuele informatie over wat een leverancier minimaal moet bieden in 2027 en hoe je een klacht indient als je vergoeding onredelijk laag is.
 
 ## Wat als de terugleververgoeding hoger of lager uitvalt dan 5 cent
 
-Ik heb in alle tabellen hierboven gerekend met een middenscenario van 5 cent per kWh. Maar het is goed om te kijken naar de gevoeligheid van die aanname. Hieronder de impact voor Profiel 2 (3500 kWh) bij verschillende tarieven, zodat je een gevoel krijgt voor de bandbreedte.
+De tabellen hierboven rekenen met een middenscenario van 5 cent per kWh. Die aanname is de belangrijkste onzekerheid in het hele model, dus hieronder de gevoeligheid daarvan voor Profiel 2 (3.500 kWh).
 
 | Terugleververgoeding 2027 | Bruto-opbrengst | Minus terugleverkosten | Netto per jaar | Verlies t.o.v. 2026 |
 |---|---|---|---|---|
@@ -197,14 +206,14 @@ De verschillen tussen scenario's zijn kleiner dan veel mensen denken: tussen het
 
 ## Bonusprofiel: hybride warmtepomp + zonnepanelen
 
-Een groep die ik in mijn praktijk vaker zie zijn huishoudens met zowel zonnepanelen als een hybride warmtepomp. Die hebben s zomers veel overschot (warmtepomp staat nauwelijks aan) en s winters juist veel afname (warmtepomp draait fors). Voor hen verschuift de calculatie omdat het seizoenseffect groter is.
+Een groep die steeds groter wordt: huishoudens met zowel zonnepanelen als een hybride warmtepomp. Die hebben s zomers veel overschot (warmtepomp staat nauwelijks aan) en s winters juist veel afname (warmtepomp draait fors). Voor hen verschuift de calculatie omdat het seizoenseffect groter is.
 
 Concreet: een gezin met 4500 kWh teruglevering in de zomerhelft en 4800 kWh afname in de winterhelft. Onder saldering ging het ene tegen het andere weg. Vanaf 2027 betaal je in de winter de volle 30 cent en krijg je in de zomer 5 cent. Dat scheelt al snel 1.100 euro per jaar, terwijl een batterij dit seizoenseffect maar beperkt kan vullen (een Sessy van 5 kWh dekt twee koude uren, geen vier maanden winter).
 
-Voor dit profiel is de eerlijke conclusie: accepteer dat de winter-piek duur wordt en focus op isolatie. Daarover schrijf ik meer in mijn artikel over de [beste isolatie voor warmtepomp eigenaren](/posts/beste-isolatie-voor-warmtepomp-2026/).
+Voor dit profiel is de eerlijke conclusie: accepteer dat de winterpiek duur wordt en zet je geld in isolatie in plaats van in accucapaciteit. Meer daarover in het artikel over de [beste isolatie voor warmtepomp-eigenaren](/posts/beste-isolatie-voor-warmtepomp-2026/).
 
 ## Wanneer je beter helemaal niets kunt doen
 
-Ik moet eerlijk zijn: voor sommige lezers is het beste advies "doe gewoon niets". Dat geldt als al deze punten op je van toepassing zijn: je levert minder dan 1500 kWh per jaar terug, je hebt geen EV, je hebt geen warmtepomp, je bent vaak overdag thuis en je vindt techniek gedoe. Dan accepteer je gewoon dat je 400 euro per jaar minder opbrengst hebt en klaar.
+Voor een deel van de lezers is het beste advies "doe gewoon niets". Dat geldt als al deze punten op je van toepassing zijn: je levert minder dan 1500 kWh per jaar terug, je hebt geen EV, je hebt geen warmtepomp, je bent vaak overdag thuis en je vindt techniek gedoe. Dan accepteer je gewoon dat je 400 euro per jaar minder opbrengst hebt en klaar.
 
 Niet alles wat je in een artikel als dit leest hoeft op jou toepasbaar te zijn. Een batterij voor 6.000 euro kopen om 200 euro per jaar te besparen is rekenkundig onverstandig. Een dynamisch contract afsluiten als je het niet leuk vindt om af en toe op een grafiek te kijken is psychisch onverstandig. Doe wat past bij je situatie.

@@ -1,7 +1,7 @@
 ---
 title: 'Thuisbatterij Vergelijking 2026: Top 5 Modellen Getest'
 date: 2026-05-07 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: De 5 beste thuisbatterijen van 2026 vergeleken op capaciteit, prijs, levensduur en rendement. Tesla Powerwall, BYD, Huawei, SolarEdge en Enphase.
 categories:
 - thuisbatterij
@@ -45,7 +45,7 @@ products:
   price: '7500'
 schema_type: Article
 ---
-Na een jaar met mijn Huawei Luna 2000 weet ik precies waar je op moet letten bij een thuisbatterij: round-trip efficientie, prijs per kWh, en of het systeem overweg kan met dynamische tarieven. Ik heb de 5 populairste modellen op de Nederlandse markt vergeleken op basis van echte data, installateursfeedback en mijn eigen rekenmodellen.
+Bij een thuisbatterij bepalen drie dingen of de investering uitpakt: round-trip efficiëntie, prijs per kWh en of het systeem overweg kan met dynamische tarieven. Hieronder vergelijken wij de vijf populairste modellen op de Nederlandse markt op basis van fabrieksspecificaties, garantievoorwaarden, publieke prijzen en geverifieerde gebruikersreviews.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
@@ -58,9 +58,9 @@ Heb je al een dynamisch energiecontract? Lees dan hoe je een [thuisbatterij comb
 >
 > De Tesla Powerwall 3 biedt de beste combinatie van capaciteit (13,5 kWh), ingebouwde omvormer en gebruiksgemak. De BYD HVS biedt de beste schaalbaarheid (5,1-12,8 kWh modulair). Voor SolarEdge-gebruikers is de SolarEdge Home Battery de meest efficiënte optie dankzij DC-koppeling.
 
-## Waarom ik juist deze 5 koos
+## Waarom juist deze vijf
 
-De Nederlandse markt heeft inmiddels tientallen thuisbatterij-merken. Ik beperkte me tot de vijf die het meest worden geïnstalleerd door gecertificeerde installateurs én waarbij ik voldoende data kon vergaren: eigenaarsreviews, installateursfeedback, en technische specificaties. Merken als Victron, Alpha-ESS of Pylontech heb ik bewust buiten beschouwing gelaten — interessant voor gevorderden, maar te complex voor de gemiddelde consument.
+De Nederlandse markt heeft inmiddels tientallen thuisbatterij-merken. Deze vergelijking beperkt zich tot de vijf die het meest worden geïnstalleerd door gecertificeerde installateurs én waarvan voldoende publieke data beschikbaar is: eigenaarsreviews, installateursopgaven en volledige technische specificaties. Merken als Victron, Alpha-ESS of Pylontech blijven hier buiten beschouwing — interessant voor gevorderden, maar te complex voor de gemiddelde consument.
 
 De vijf gekozen systemen zijn representatief voor het volledige marktspectrum: van all-in tot modulair, van goedkoopst tot duurste, van AC- tot DC-gekoppeld.
 
@@ -95,13 +95,13 @@ Het Arnhemse gezin heeft geen dynamisch contract. Met een vast contract is Huawe
 
 ## Veelgemaakte fouten bij het kopen van een thuisbatterij
 
-Over de jaren heb ik tientallen mensen begeleid bij de aanschaf. Dit zijn de fouten die ik keer op keer zie:
+Dit zijn de fouten die in installateursverslagen en gebruikersforums het vaakst terugkomen:
 
 ### Fout 1: batterij kopen voor het contract verandert
 
 Een thuisbatterij exploiteren op een vast energiecontract is alsof je een raceauto koopt en op de provinciale weg rijdt: het werkt, maar je benut de mogelijkheden niet. De winst van een batterij zit voor 40-60% in het dynamisch inladen op goedkope uren. Wie dit nalaat, kijkt aan tegen een terugverdientijd van 15+ jaar.
 
-Mijn advies: switch eerst naar dynamisch contract (Frank Energie of Tibber — gratis overstappen, geen contractduur), en bestel daarna de batterij.
+Onze aanbeveling: stap eerst over naar een dynamisch contract (Frank Energie of Tibber — gratis overstappen, geen contractduur) en bestel daarna de batterij.
 
 ### Fout 2: capaciteit kiezen op basis van "meer is beter"
 
@@ -351,13 +351,13 @@ Enphase biedt AC-gekoppelde micro-batterijen die modulair zijn en de langste gar
 
 **Prijs inclusief installatie:** €4.000 (5 kWh) tot €25.000 (60 kWh)
 
-## Wat ik zou kiezen — en waarom
+## Onze inschatting per uitgangssituatie
 
-Als ik morgen een thuisbatterij zou kopen voor mijn eigen situatie (16 zonnepanelen, Huawei-omvormer, Frank Energie dynamisch contract, geen EV, verbruik 4.500 kWh/jaar): ik zou de Huawei LUNA2000 10 kWh kiezen. Niet de goedkoopste, niet de duurste, maar de beste integratie met mijn bestaande setup en het dynamische contract.
+**Heb je al een Huawei-omvormer** (bijvoorbeeld bij 16 panelen, dynamisch contract, verbruik rond 4.500 kWh per jaar): dan is de Huawei LUNA2000 10 kWh de logische keuze. Niet de goedkoopste en niet de duurste, maar DC-gekoppeld achter je bestaande omvormer, wat een tweede omvormer en de bijbehorende conversieverliezen uitspaart.
 
-Als ik geen Huawei-omvormer had: Sessy 10 kWh. Betaalbaar, NL-service, ingebouwde automation.
+**Heb je geen Huawei-omvormer**: de Sessy 10 kWh. Betaalbaar, Nederlandse service en ingebouwde automatisering op dynamische tarieven, zonder dat je zelf hoeft te programmeren.
 
-Als ik budget had: Tesla Powerwall 3, maar alleen als ik een Tesla auto had voor de V2H-integratie — anders is de meerprijs niet gerechtvaardigd.
+**Ruimer budget**: de Tesla Powerwall 3 is technisch sterk, maar de meerprijs is vooral te rechtvaardigen als je ook een Tesla rijdt en de V2H-integratie gaat gebruiken. Zonder dat blijft het een dure kilowattuur.
 
 ## Welke thuisbatterij past bij jou?
 

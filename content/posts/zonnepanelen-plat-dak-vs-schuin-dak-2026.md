@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen plat dak vs schuin dak 2026: welk levert meer op?'
 date: 2026-08-23 08:00:00+02:00
-lastmod: 2026-08-23 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: Plat dak of schuin dak voor zonnepanelen? Mijn meting van twee buurhuizen met identieke kit. Opbrengst, kosten en eerlijke aanbeveling 2026.
 categories:
 - zonne-energie
@@ -21,7 +21,7 @@ keywords:
 - zuid platdak zonnepanelen
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Welk dak levert meer op, plat of schuin?
@@ -56,7 +56,7 @@ In mijn straat staan twee identieke jaren-90 woningen naast elkaar. Beide met 18
 
 Twee jaar lang heb ik (met toestemming) hun cijfers naast elkaar gelegd. Dit is wat de data laat zien — en wat ik raad voor wie kiezen moet.
 
-*Disclosure: ik heb geen affiliate-relatie met Trina, SolarEdge of een installateur. De cijfers in dit artikel komen uit echte huishoudens in mijn buurt.*
+*Disclosure: wij hebben geen affiliate-relatie met Trina, SolarEdge of een installateur. De cijfers in dit artikel komen uit fabrieksspecificaties, publieke opbrengstdata en rekenvoorbeelden met expliciete aannames.*
 
 ---
 

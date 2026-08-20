@@ -1,7 +1,7 @@
 ---
 title: Dynamische Energiecontracten + Thuisbatterij
 date: 2026-04-02 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Ontdek hoe je met een dynamisch energiecontract en thuisbatterij geld verdient in 2026. Slim laden.
 categories:
 - thuisbatterijen

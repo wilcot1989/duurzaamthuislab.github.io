@@ -1,7 +1,7 @@
 ---
 title: 'Gemeentelijke subsidie zonnepanelen 2026: per provincie'
 date: 2026-06-14 08:00:00+02:00
-lastmod: 2026-06-14 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Welke gemeenten en provincies geven nog subsidie op zonnepanelen in 2026? Volledig overzicht plus aanvraagvolgorde.
 categories:
 - zonne-energie
@@ -51,9 +51,9 @@ products:
   price: '0'
 schema_type: Article
 ---
-Vorig jaar belde een vriend me op nadat hij gehoord had dat er "duizenden euros subsidie" te halen waren voor zonnepanelen. Ik moest hem de nuchtere waarheid vertellen: op nationaal niveau is die trein voor een groot deel vertrokken. Geen ISDE voor zonnepanelen, geen aanschafsubsidie. Wel 0% BTW — dat scheelt voor een gemiddeld systeem van 10 panelen nog altijd €700 tot €900.
+Het idee dat er "duizenden euro's subsidie" te halen is voor zonnepanelen houdt hardnekkig stand. De nuchtere werkelijkheid: op nationaal niveau is die trein voor een groot deel vertrokken. Geen ISDE voor zonnepanelen, geen aanschafsubsidie. Wel 0% BTW — dat scheelt voor een gemiddeld systeem van 10 panelen nog altijd €700 tot €900.
 
-Maar gemeenten en provincies zijn een ander verhaal. Ik heb de subsidiepagina's van alle 12 provincies en een selectie van 40 gemeenten doorgespit. De verschillen zijn enorm.
+Maar gemeenten en provincies zijn een ander verhaal. Voor dit overzicht zijn de subsidiepagina's van de 12 provincies en een selectie gemeenten naast elkaar gelegd. De verschillen zijn enorm.
 
 Dit artikel geeft u een eerlijk beeld van wat er in 2026 daadwerkelijk beschikbaar is, per regio — zonder de rooskleurige taal die installateurssites soms gebruiken.
 
@@ -238,15 +238,15 @@ De salderingsregeling loopt door in 2026. Hoe eerder u installeert, hoe meer jar
 
 ---
 
-## Praktijkervaring: hoe moeilijk is het subsidie aanvragen?
+## Hoe moeilijk is het subsidie aanvragen?
 
-Ik heb zelf drie subsidieaanvragen begeleid in het afgelopen jaar — voor familieleden en vrienden. Mijn ervaringen:
+Op basis van de aanvraagprocedures zoals SVn, gemeenten en RVO die publiceren, verschilt de zwaarte van het traject sterk per regeling:
 
-**SVn-duurzaamheidslening (gemeente Arnhem):** het aanvraagproces duurde 3 weken. U vult een formulier in op de gemeentewebsite, uploadt een offerte van de installateur, en wacht op goedkeuring. Daarna verstrekt SVn de lening direct aan u — de installateur ontvangt betaling van u. Administratief niet zwaar. Het enige knelpunt: de offerte moet specifiek genoeg zijn (inclusief merk, model, vermogen). Een vage "zonnepanelen €6.000" offerte wordt afgewezen.
+**SVn-duurzaamheidslening:** u vult een formulier in op de gemeentewebsite, uploadt een offerte van de installateur, en wacht op goedkeuring. Daarna verstrekt SVn de lening aan u — u betaalt de installateur zelf. Administratief het lichtste traject. Het bekende knelpunt: de offerte moet specifiek genoeg zijn (inclusief merk, model, vermogen). Een vage "zonnepanelen €6.000" offerte wordt afgewezen.
 
-**Gemeentelijke directe subsidie (gemeente Ede):** bij Ede is er een inkomenstoets. U uploadt een loonstrook of uitkeringsoverzicht. Behandeltijd was 6 weken. De subsidie (€500) werd uitbetaald na installatie en het overleggen van de factuur. Klein bedrag, maar het proces was eenvoudig.
+**Gemeentelijke directe subsidie met inkomenstoets** (zoals in Ede): u uploadt een loonstrook of uitkeringsoverzicht. De subsidie wordt uitbetaald na installatie en het overleggen van de factuur. Kleine bedragen, maar een overzichtelijk proces.
 
-**SCE coöperatie-subsidie:** ik heb dit niet zelf aangevraagd, maar ben bij een aanvraag voor een lokale energiecoöperatie betrokken geweest als adviseur. Dit is significant complexer: u heeft een rechtspersoon nodig, een energiemeter met netsaansluiting, en de aanvraag gaat via RVO met een maximaal budget per ronde (cap). De ronde was in 2026 in april al vol. Aanvragen vroeg in het jaar is cruciaal.
+**SCE coöperatie-subsidie:** dit is significant complexer: u heeft een rechtspersoon nodig, een energiemeter met netaansluiting, en de aanvraag gaat via RVO met een maximaal budget per ronde (cap). RVO publiceert per ronde wanneer het budget vol is; die rondes lopen doorgaans snel vol. Aanvragen vroeg in het jaar is daarom cruciaal.
 
 ---
 
@@ -270,15 +270,15 @@ Zonneplan verdient een aparte uitleg, omdat hun model fundamenteel anders is dan
 - Contractduur is vaak 10-15 jaar met beperkte uitstapopties
 - Na 2027 (saldering weg) moet Zonneplan hun terugleveringsmodel aanpassen — check hoe dit contractueel geregeld is
 
-Mijn advies: als u het kapitaal heeft en in de woning blijft, koop dan gewoon. Zonneplan is het meest interessant voor mensen die de drempel van €6.000 niet kunnen of willen nemen.
+Onze inschatting: als u het kapitaal heeft en in de woning blijft, is kopen financieel bijna altijd gunstiger. Zonneplan is het meest interessant voor mensen die de drempel van €6.000 niet kunnen of willen nemen.
 
 ---
 
 ## Terugverdientijd in 2026: hoe lang duurt het echt?
 
-Ik reken een concreet voorbeeld door, omdat ik merkte dat veel mensen ofwel te optimistisch (5 jaar) ofwel te pessimistisch (nooit) zijn.
+Hieronder een rekenvoorbeeld met expliciete aannames — geen meting. De schattingen die in de praktijk rondgaan lopen uiteen van vijf jaar tot "nooit"; met concrete cijfers is de uitkomst beter te plaatsen.
 
-**Situatie:** rijtjeshuis, 10 panelen van 410 Wp = 4,1 kWp, opbrengst circa 3.700 kWh/jaar, eigen verbruik 40% = 1.480 kWh zelf gebruikt, 60% teruggeleverd = 2.220 kWh.
+**Aannames:** rijtjeshuis, 10 panelen van 410 Wp = 4,1 kWp, opbrengst circa 3.700 kWh/jaar, eigen verbruik 40% = 1.480 kWh zelf gebruikt, 60% teruggeleverd = 2.220 kWh.
 
 **Kosten:** €5.800 inclusief installatie, na 0% BTW-voordeel (€0 extra BTW versus vroeger ±€1.100).
 
@@ -372,7 +372,7 @@ Als u serieus bent over zonnepanelen: vraag drie offertes aan in de komende vier
 
 ---
 
-*Mark Bakker is energieadviseur en woont in een verduurzaamd huis. Hij schrijft op basis van eigen ervaringen en onafhankelijk onderzoek.*
+*Dit artikel is samengesteld door de redactie van DuurzaamThuisLab op basis van fabrieksspecificaties, publieke bronnen en geverifieerde gebruikersreviews.*
 
 
 <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>

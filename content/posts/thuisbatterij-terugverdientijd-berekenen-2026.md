@@ -1,7 +1,7 @@
 ---
 title: 'Thuisbatterij Terugverdientijd Berekenen: Complete Gids 2026'
 date: 2026-03-28 12:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: Leer hoe je de terugverdientijd van een thuisbatterij berekent. Inclusief rekenvoorbeelden, invloed van salderingsregeling, subsidies en dynamische tarieven.
 categories:
 - thuisbatterijen
@@ -20,7 +20,7 @@ keywords:
 - thuisbatterij investering
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Hoe lang is de terugverdientijd van een thuisbatterij in 2026?

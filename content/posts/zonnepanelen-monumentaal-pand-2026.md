@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen op Monumentaal Pand 2026: Toch Mogelijk?'
 date: 2026-07-16 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: 'Zonnepanelen op monumentaal pand: wat mag wel en niet? Vergunning, welstandsregels, geintegreerde systemen en alternatieven. Mijn ervaring met monument-eigenaren.'
 draft: false
 categories:
@@ -21,7 +21,7 @@ keywords:
 - dakkapel zonnepanelen monument
 - rijksmonument zonne-energie
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1494380544893-3a39f4eaa9b9&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true

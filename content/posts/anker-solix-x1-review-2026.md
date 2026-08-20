@@ -1,7 +1,7 @@
 ---
 title: Anker Solix X1 review 2026 — premium thuisbatterij met EV-laden
 date: 2026-11-13 08:00:00+01:00
-lastmod: 2026-11-13 08:00:00+01:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: De Anker Solix X1 is Ankers premium modulaire thuisbatterij met geïntegreerde EV-laadfunctie. Volledige review na 4 maanden testen — wel of niet kopen?
 categories:
 - thuisbatterijen
@@ -22,7 +22,7 @@ keywords:
 - modulaire thuisbatterij
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1593941707882-a5bba14938c7&w=1200&output=webp&q=70
 faq:
 - q: 'Wat maakt de Anker Solix X1 bijzonder?'
@@ -54,7 +54,7 @@ products:
 schema_type: Review
 ---
 
-*Disclosure: dit artikel bevat affiliate links via AWIN. Koop je via mijn link, dan krijg ik een commissie zonder dat het jou iets extra kost. Mijn oordeel verandert daar niet door — ik adviseer alleen wat ik zelf zou kopen.*
+*Disclosure: dit artikel bevat affiliate links via AWIN. Koop je via zo'n link, dan ontvangen wij commissie zonder dat het jou iets extra kost. Ons oordeel verandert daar niet door: wij vergelijken op specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 In juli 2026 introduceerde Anker eindelijk de Solix X1 op de Nederlandse markt. Mijn vriend Bas (Tesla Model Y rijder, 6.500 kWh verbruik) was een van de eerste kopers. Hij liet me eind juli zien wat hij had laten installeren en gaf me toegang tot zijn app.
 

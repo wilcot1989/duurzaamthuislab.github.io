@@ -1,7 +1,7 @@
 ---
 title: 'Saldering stopt in 2027: de volledige gids voor'
 date: 2026-04-29 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Per 1 januari 2027 stopt de salderingsregeling. Wat betekent dat concreet voor je zonnepanelen.
 categories:
 - zonne-energie

@@ -1,8 +1,8 @@
 ---
-title: 'Sessy review 2026: eerlijke test van de Nederlandse'
+title: 'Sessy thuisbatterij review 2026: ervaringen, prijs en opbrengst'
 date: 2026-05-03 08:00:00+02:00
 lastmod: '2026-08-19 08:00:00+02:00'
-description: 'Sessy is een Nederlandse thuisbatterij van Charged. Maandenlange test van de 5 kWh en 10 kWh: prestaties, app, dynamisch laden, voor- en nadelen.'
+description: 'Sessy thuisbatterij review 2026: wat zeggen de reviews en specificaties over de 5 en 10 kWh? Prijs (€3.795/€5.995), opbrengst, app, vermogen en nadelen op een rij.'
 categories:
 - thuisbatterijen
 tags:
@@ -51,26 +51,33 @@ products:
   url: https://go.duurzaamthuislab.nl/tibber
   price: '6'
 - name: Frank Energie
-  url: https://www.frankenergie.nl/
+  url: https://go.duurzaamthuislab.nl/frank-energie
   price: '0'
 schema_type: Review
 ---
+> **Sessy thuisbatterij review — kort antwoord**
+>
+> **Wat is het oordeel?** Sessy is een van de weinige thuisbatterijen die specifiek voor de Nederlandse markt en dynamische contracten is ontworpen, en dat is ook precies waar het product staat of valt. Op een dynamisch contract is het een sterke keus; op een vast contract vervalt het grootste deel van de opbrengst.
+>
+> **Sterk:** Nederlandse fabrikant (Charged, Amsterdam) met support in het Nederlands, geen abonnement of commissie op je besparing, LFP-cellen met 10 jaar garantie op 80% capaciteitsbehoud, en een app die door gebruikers consequent als het beste onderdeel van het product wordt genoemd.
+>
+> **Zwak:** 2,5 kW continu vermogen — te weinig om een piek van warmtepomp plus inductie alleen op te vangen. Geen V2H, noodstroom alleen handmatig en op één groep, en een beperkte (niet-open) API.
+>
+> **Prijs:** €3.795 voor 5 kWh, €5.995 voor 10 kWh, inclusief installatie binnen 30 km van een installatiepartner (opgave Charged, 2026).
+>
+> **Opbrengst:** Charged geeft €350-€500 per jaar op voor de 5 kWh en €600-€900 voor de 10 kWh. Dat is een fabrieksopgave, geen onafhankelijke meting — de werkelijke opbrengst hangt af van de dagelijkse prijsspreiding op je contract.
+>
+> **Voor wie:** huishoudens met 2.500-6.000 kWh verbruik, zonnepanelen en een dynamisch contract die niet zelf willen tweaken. Niet voor wie volledige noodstroom, V2H of hoog piekvermogen zoekt.
+
 "Verdient een Sessy zich echt terug?" is de vraag die bij deze batterij het vaakst gesteld wordt — en de eerlijke versie van het antwoord is: dat hangt vrijwel volledig af van je energiecontract, niet van de batterij.
 
-Hieronder onze analyse van de Sessy: wat de specificaties zeggen, hoe de opbrengst tot stand komt, waar de grenzen van het apparaat liggen (vermogen, V2H, API), en welke aankoopfouten in gebruikersreviews steeds terugkomen.
-
-In dit artikel: de complete review. Wat doet Sessy goed, waar liggen de zwaktes, en voor wie is het een slimme aanschaf — voor wie niet.
+Hieronder onze volledige review van de Sessy: wat de specificaties zeggen, hoe de opbrengst tot stand komt, waar de grenzen van het apparaat liggen (vermogen, V2H, API), en welke aankoopfouten in gebruikersreviews steeds terugkomen.
 
 *Werkwijze: wij beoordelen op fabrieksspecificaties, handleidingen, de opgaven van Charged, geverifieerde gebruikersreviews en publieke marktdata. Deze pagina bevat affiliate-links; dat verandert onze beoordeling niet.*
 
 ---
 
-
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Sessy is een Nederlandse thuisbatterij van Charged. Maandenlange test van de 5 kWh en 10 kWh: prestaties, app, dynamisch laden, voor- en nadelen.
->
-> Sessy is een thuisbatterij van het Nederlandse bedrijf Charged. Het is een AC-gekoppelde batterij in 5 kWh en 10 kWh varianten, die zelfstandig handelt op de dynamische energiemarkt om geld voor je te verdienen.
 
 ## Wie of wat is Sessy?
 
@@ -153,9 +160,9 @@ Sinds januari 2026 wel beschikbaar maar handmatig en op één groep. Voor wie vo
 Voor wie een EV heeft en de auto-batterij wil benutten als opslag, biedt Sessy geen ondersteuning. Tesla Powerwall + Tesla auto = ja, Sessy + EV = nee.
 
 **4. Wachten kan goedkoper**
-Prijzen zijn vorig jaar 12% gedaald. Een tweede daling van die orde wordt verwacht in 2027 (saldering-stop creëert markt). Wachten 1 jaar = €500-€800 mogelijk goedkoper.
+Thuisbatterijprijzen zijn de afgelopen jaren gedaald en de verwachting in de markt is dat de saldering-stop per 2027 het aanbod verder vergroot en de prijzen drukt. Hoe groot die daling wordt, is niet te voorspellen en wij noemen er daarom geen percentage bij.
 
-Maar: je verliest dan ook 1 jaar besparing (€700-€900). Netto effect: ongeveer break-even — geen sterke reden om te wachten.
+De afweging is wel te maken: elk jaar wachten kost je ook een jaar besparing (volgens de opgave van Charged €600-€900 voor het 10 kWh-model). Een prijsdaling moet dus groter zijn dan dat bedrag om wachten lonend te maken. Ons oordeel: geen sterke reden om te wachten als je nu al een dynamisch contract hebt.
 
 **5. Geen zonnepaneel-controle**
 Sommige systemen (Huawei FusionSolar, Solaredge Energy Hub) integreren batterij + omvormer + EV-lader in één systeem. Sessy is een aparte unit zonder controle over je inverter — minder optimalisatie mogelijk.
@@ -179,7 +186,25 @@ Het is een klassieke dimensioneringsvraag. Onze rekenregel:
 **Voor groot verbruik (>6.000 kWh):**
 Kies 10 kWh + later modulair uitbreiden naar 15 of 20 kWh. Of overweeg Tesla Powerwall (13,5 kWh in één unit).
 
-Buurman Bas had 10 kWh — perfect voor zijn profiel. Hij gebruikt gemiddeld 4-7 kWh per dag uit de batterij. Een 5 kWh-versie zou onvoldoende zijn.
+Vuistregel die hieruit volgt: reken je avondverbruik (van ongeveer 17:00 tot 23:00) uit je jaarafrekening of P1-uitlezing. Zit dat structureel boven de 4 kWh, dan loopt een 5 kWh-batterij op een winterse dag leeg vóór de piek voorbij is en is 10 kWh de logische keus.
+
+## Wat zeggen Sessy reviews?
+
+Sessy heeft in Nederland een relatief kleine maar uitgesproken gebruikersgroep. In publieke gebruikersreviews en op forums komen steeds dezelfde punten terug — wij vatten samen wat er gezegd wordt, niet wat wij zelf gemeten hebben:
+
+**Wat gebruikers positief noemen**
+- De app: inzicht per uur en per dag, notificaties bij negatieve prijzen, en het feit dat je niets hoeft in te stellen. Dit is het punt dat het vaakst als beste onderdeel van het product wordt genoemd.
+- "Set and forget": na installatie hoeft er niets meer te gebeuren; de batterij handelt zelf op de uurprijzen.
+- Nederlandse support die tijdens kantooruren bereikbaar is en in het Nederlands antwoordt — een verschil dat vooral opvalt bij vergelijking met geïmporteerde merken.
+- Geen abonnement of commissie op de besparing.
+
+**Wat gebruikers bekritiseren**
+- Het continu vermogen van 2,5 kW. Wie een warmtepomp of inductiekookplaat heeft, merkt dat de batterij pieken niet alleen kan opvangen.
+- De opbrengst valt lager uit dan verwacht bij wie geen dynamisch contract heeft of in een periode met vlakke prijzen begint te meten.
+- De API is beperkt en niet open, waardoor Home Assistant-gebruikers minder kunnen automatiseren dan bij sommige concurrenten.
+- Noodstroom werkt alleen handmatig en op één groep, wat voor een deel van de kopers een verrassing blijkt.
+
+**Belangrijk bij het lezen van reviews:** de meeste teleurstellende beoordelingen gaan niet over de hardware maar over de verwachting. Een batterij op een vast contract, of een opbrengst berekend over één rustige maand, geeft bijna altijd een slechter beeld dan het product verdient. Kijk daarom bij elke review eerst naar het contract en de meetperiode van de schrijver.
 
 ## Sessy vs concurrentie — vergelijking
 
@@ -238,9 +263,9 @@ Twee bronnen van besparing:
 
 **Totale waarde in dit model**: €825 + €450 = circa **€1.275/jaar**, en na het wegvallen van de saldering iets hoger doordat elke zelf verbruikte kWh dan de volle leveringsprijs uitspaart.
 
-Investering: €5.995. Terugverdientijd in dit model: rond de vijf jaar.
+Investering: €5.995. Terugverdientijd **in dit gunstige model**: rond de vijf jaar.
 
-Let op: dit model rekent met een gunstige prijsspreiding. Charged zelf geeft voor dit model €600-€900 per jaar op — dat is de onderkant van dezelfde berekening. Reken daarom met een pessimistisch scenario (opbrengst aan de onderkant van de opgave van de fabrikant) en kijk of de investering dan nog acceptabel is. Doet hij dat, dan is de rest meevaller.
+Let op: dit model rekent met een gunstige prijsspreiding en is daarmee een bovengrens, geen verwachting. Charged zelf geeft voor dit model €600-€900 per jaar op. Reken je met die fabrieksopgave, dan komt de terugverdientijd op **7 tot 10 jaar** — en dat is het getal waarmee je de aankoop moet beoordelen. Valt de opbrengst hoger uit, dan is dat meevaller.
 
 ## Saldering stopt in 2027: waarom dat Sessy's beste argument is
 
@@ -286,13 +311,13 @@ Sessy gebruikt LFP-cellen (lithium-ijzerfosfaat). Dit is de veiligste en meest d
 - Dagelijks gebruik (1 cyclus/dag): 16,4 jaar
 - Garantie: 10 jaar op 80% capaciteitsbehoud
 
-In de praktijk zijn Sessy's degradatiecurve beter dan de certificeringseis suggereert. LFP-chemie degradeert langzaam en lineair. Na 10 jaar: verwacht 82-88% capaciteit, niet 80%.
+De garantie is dus de harde ondergrens: minimaal 80% capaciteit na 10 jaar. Onafhankelijke langetermijnmetingen aan de Sessy specifiek zijn er nog niet — het product is sinds 2024 op de markt, dus niemand kan hier op eigen cijfers wijzen. Wat wél bekend is uit de bredere LFP-literatuur: LFP degradeert langzamer en lineairder dan NMC. Reken echter met de garantiewaarde, niet met een optimistischer scenario.
 
 **Wat betekent dat in de praktijk?**
 
-Een Sessy 10 kWh na 10 jaar heeft nog 8-8,8 kWh bruikbaar. Dat is meer dan genoeg voor het dagelijkse cyclusprofiel. De besparing daalt evenredig: als je in jaar 1 €825 arbitrage verdient, verdien je in jaar 10 nog ~€700.
+Op de garantiegrens houdt een Sessy 10 kWh na tien jaar nog 8 kWh bruikbare capaciteit over. Dat is nog steeds ruim genoeg voor het dagelijkse cyclusprofiel van een gemiddeld huishouden; de besparing daalt ongeveer evenredig met de capaciteit mee.
 
-Na jaar 10: geen garantie meer. Maar batterij waarschijnlijk nog functioneel voor jaren 11-16. Verwacht dan nog €500-€600/jaar besparing met 70-80% van originele capaciteit.
+Na jaar 10 vervalt de garantie. De batterij zal dan doorgaans nog functioneren, maar hoe lang precies en met welke restcapaciteit is voor dit model nog niet vast te stellen. Neem restwaarde na jaar 10 daarom niet mee in je terugverdienberekening.
 
 **Vergelijking met NMC-chemie (zoals oude Tesla Powerwall 2):** NMC degradeert sneller en is gevoeliger voor hitte. LFP wint op levensduur per euro.
 
@@ -322,7 +347,7 @@ Bij deze batterij komen in gebruikersreviews en installateursvoorlichting steeds
 Sessy op een vast contract verdient netto misschien €200/jaar. Op dynamisch contract: €700-€900. De batterij is gebouwd voor arbitrage. Als je hem op vast contract zet, gebruik je hem alleen als "spaarpotje" voor zonne-overschot — dat is maar 30% van zijn potentieel.
 
 **Fout 2: 5 kWh kiezen bij >3.500 kWh verbruik**
-Klant in Zeist: gezin met 3 kinderen, 5.200 kWh verbruik, koos Sessy 5 kWh. Na 4 maanden was hij teleurgesteld — batterij was te snel leeg voor hun avondprofiel. Advies: altijd 10 kWh bij >3.500 kWh verbruik.
+Dit is de klacht die in gebruikersreviews het vaakst terugkomt: een gezin met een hoog avondverbruik kiest de 5 kWh-variant en constateert dat de batterij in de winter leeg is voordat de avondpiek voorbij is. Modulair uitbreiden kan, maar kost een tweede aanschaf en een tweede installatiemoment. Ons advies: bij meer dan 3.500 kWh jaarverbruik direct 10 kWh nemen.
 
 **Fout 3: installatie te ver van erkend partner-installateur**
 Sessy's prijs includeert installatie binnen 30 km van een installatiepartner. Woon je verder weg? Dan komt er €150-€350 bovenop. Vraag dit vooraf na. Sommige gebieden (Zeeland, Groningen) hebben minder dekking.
@@ -347,15 +372,19 @@ Voor geavanceerde gebruikers: Sessy heeft een beperkte API (niet open). Je kunt 
 
 Voor de meeste Nederlandse zonnepaneelbezitters die een thuisbatterij overwegen, is Sessy in 2026 een uitstekende keus. Specifiek:
 
-1. **Gemiddeld gezin** (4 panelen+, 2.500-5.000 kWh verbruik): **Sessy 10 kWh** is de duidelijke aanrader. €5.995, terugverdientijd 7-8 jaar bij dynamisch contract.
+1. **Gemiddeld gezin** (4 panelen+, 2.500-5.000 kWh verbruik): **Sessy 10 kWh** is de duidelijke aanrader. €5.995, terugverdientijd 7-10 jaar bij dynamisch contract, uitgaande van de opbrengstopgave van Charged.
 
-2. **Klein huishouden** (1-2 personen, 1.500-2.500 kWh verbruik): **Sessy 5 kWh** voldoende. €3.795, terugverdientijd 9-10 jaar.
+2. **Klein huishouden** (1-2 personen, 1.500-2.500 kWh verbruik): **Sessy 5 kWh** voldoende. €3.795, terugverdientijd 8-11 jaar op dezelfde basis.
 
 3. **Groot verbruik + EV + warmtepomp**: kijk verder naar Tesla Powerwall of Huawei Luna voor hogere vermogens en integratie.
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy thuisbatterij</a>
 
-**Belangrijk**: combineer Sessy altijd met een dynamisch contract. Op een vast contract ben je 60% van het potentiële voordeel kwijt. Sessy zonder dynamisch contract = halfvol pak chips.
+**Belangrijk**: combineer Sessy altijd met een dynamisch contract. Prijsarbitrage is de grootste van de twee opbrengstbronnen en die valt op een vast contract volledig weg — wat overblijft, is alleen het opslaan van je eigen zonneoverschot.
+
+Frank Energie is een van de dynamische leveranciers waarmee Sessy zonder configuratie samenwerkt en is daarmee voor veel Sessy-kopers de logische combinatie.
+
+<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/posts/sessy-review-thuisbatterij-nederland/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk het dynamische tarief van Frank Energie</a>
 
 [Vergelijk dynamische contracten →](/posts/dynamische-energiecontracten-vergelijking-2026/)
 
@@ -363,7 +392,7 @@ Voor de meeste Nederlandse zonnepaneelbezitters die een thuisbatterij overwegen,
 
 ## Conclusie
 
-Sessy is een degelijke, doordachte Nederlandse thuisbatterij die zichzelf in 7-9 jaar terugverdient bij goed gebruik. De combinatie van Nederlandse engineering, scherpe prijs, uitstekende app en goede dynamische integratie maakt het de beste 'standard issue' batterij voor een gemiddeld huishouden.
+Sessy is een degelijke, doordachte Nederlandse thuisbatterij die zichzelf op basis van de opbrengstopgave van Charged in ongeveer 7 tot 10 jaar terugverdient, mits je hem op een dynamisch contract zet. De combinatie van Nederlandse engineering, scherpe prijs, uitstekende app en goede dynamische integratie maakt het de beste 'standard issue' batterij voor een gemiddeld huishouden.
 
 Voor wie meer wil (V2H, hoog vermogen, automatische backup): kijk naar Tesla Powerwall. Voor wie minder budget heeft: kijk naar de Marstek Venus serie. Maar voor de gulden middenweg in 2026 is Sessy onze aanrader.
 

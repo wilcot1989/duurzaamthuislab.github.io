@@ -1,7 +1,7 @@
 ---
 title: Beste thuisbatterij eengezinswoning 2026
 date: 2026-09-22 08:00:00+02:00
-lastmod: 2026-09-22 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 draft: false
 description: Beste thuisbatterij voor eengezinswoning in 2026. Sessy, Marstek, Huawei Luna, Tesla Powerwall 3 en Zonneplan vergeleken op prijs, garantie en app.
 categories:
@@ -22,7 +22,7 @@ keywords:
 - thuisbatterij prijs kwh
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497435334941-8c899ee9e8e9&w=1200&output=webp&q=70
 faq:
 - q: Welke thuisbatterij is het beste voor een eengezinswoning in 2026?
@@ -59,7 +59,7 @@ In april kreeg ik een appje van Jeroen uit Steenwijk, Overijssel. "Mark, we zitt
 
 Ik ben bij hem langsgegaan. Twee uur in zijn keuken met laadprofielen, een stroomverbruik-CSV uit Energie.nl en zijn dynamisch-contract data van Frank. We hebben uiteindelijk Sessy 10 kWh besteld — maar het had net zo goed Marstek 10 kWh in twee modules kunnen worden. Dit artikel is de samenvatting van dat gesprek, uitgebreid met de drie andere serieuze opties voor een eengezinswoning in 2026.
 
-*Disclosure: dit artikel bevat affiliate-links. Ik verdien een kleine commissie als je via mijn link iets koopt, zonder meerkosten voor jou. Mijn aanbevelingen zijn gebaseerd op eigen tests en klantcases.*
+*Disclosure: dit artikel bevat affiliate-links. Als je via een van deze links iets koopt, ontvangen wij een kleine commissie zonder meerkosten voor jou. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 > **Kort antwoord:** Voor de meeste eengezinswoningen (3.500-4.500 kWh/jaar) is Sessy 10 kWh de beste koop in 2026: €5.995, slim handelsalgoritme, 10 jaar garantie, geen contract-lock-in. Wil je modulair en goedkoop starten? Marstek Venus 5 kWh voor €2.500. Heb je een EV plus warmtepomp en wil je backup tijdens stroomuitval? Tesla Powerwall 3 (13,5 kWh, €11.000). Zonneplan is alleen logisch als je ook hun panelen en contract neemt.
 

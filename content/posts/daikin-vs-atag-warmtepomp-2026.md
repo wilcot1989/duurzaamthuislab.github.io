@@ -1,14 +1,14 @@
 ---
 title: "Daikin vs Atag warmtepomp 2026: welke kies je en waarom?"
 date: 2026-08-15T08:00:00+02:00
-lastmod: 2026-08-15T08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: "Daikin Altherma 3 vs Atag Energion vergeleken op SCOP, geluid, app, prijs en NL-service. Welke warmtepomp is in 2026 de slimme keuze?"
 categories: ["warmtepompen"]
 tags: ["Daikin", "Atag", "warmtepomp", "vergelijking", "versus", "Altherma", "Energion"]
 keywords: ["daikin vs atag", "atag vs daikin warmtepomp", "altherma vs energion", "warmtepomp vergelijking 2026", "daikin of atag"]
 affiliate: true
 author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
 schema_type: "Article"
 last_updated: 2026-08-15

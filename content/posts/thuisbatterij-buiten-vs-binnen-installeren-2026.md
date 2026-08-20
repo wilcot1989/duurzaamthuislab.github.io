@@ -1,7 +1,7 @@
 ---
 title: 'Thuisbatterij binnen of buiten plaatsen: veilig 2026'
 date: 2026-06-21 10:00:00+01:00
-lastmod: 2026-06-21 10:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Thuisbatterij buiten of binnen installeren? Ik leg uit wat veiliger is, welke locaties werken (garage, schuur, woonkamer) en wat de installateur-eisen zijn.
 categories:
 - thuisbatterijen

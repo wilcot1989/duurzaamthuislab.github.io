@@ -1,7 +1,7 @@
 ---
 title: EcoFlow Delta Pro Ultra review 2026 — whole-home backup
 date: 2026-11-15 08:00:00+01:00
-lastmod: 2026-11-15 08:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: De EcoFlow Delta Pro Ultra is hun topmodel voor whole-home backup en off-grid. Volledige review na 4 maanden testen — wel of niet kopen?
 categories:
 - thuisbatterijen
@@ -54,7 +54,7 @@ products:
 schema_type: Review
 ---
 
-*Disclosure: dit artikel bevat affiliate links. Koop je via mijn link, dan krijg ik een commissie zonder dat het jou iets extra kost. Mijn oordeel verandert daar niet door — ik adviseer alleen wat ik zelf zou kopen.*
+*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 In juli belde mijn oom Henk vanuit Drenthe. Twee stroomstoringen achter elkaar van 8 en 14 uur. Vriezer leeg, CV uit, de warmtepomp deed het 24 uur lang niet. "Mark, hoe regel ik dat dit nooit meer gebeurt?"
 

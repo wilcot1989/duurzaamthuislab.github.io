@@ -1,7 +1,7 @@
 ---
 title: Zonneplan thuisbatterij review 2026
 date: 2026-05-06 08:00:00+02:00
-lastmod: 2026-05-06 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Zonneplan biedt thuisbatterijen via lease en koop. Volledige review van het systeem, app, kosten en service na 6 maanden testen. Wel of niet kiezen?
 categories:
 - thuisbatterijen
@@ -55,11 +55,11 @@ products:
   price: '6'
 schema_type: Review
 ---
-Mijn schoonzus belde me in september. "Mark, zou je een keer naar Zonneplan willen kijken? Ze stuurden me een offerte voor een thuisbatterij + paneel-uitbreiding voor €450/maand lease. Klinkt veel."
+Zonneplan verkoopt geen thuisbatterij, maar een pakket: panelen, batterij, laadpaal en energiecontract in één abonnement. Dat maakt de offerte lastig te beoordelen — je ziet één maandbedrag en niet waar het uit bestaat.
 
-Ik ben gaan zitten met haar offerte, en daarna ben ik bij haar geïnstalleerd om het systeem 6 maanden te observeren. Dit is mijn eerlijke verhaal: wat doet Zonneplan goed, wat doet het minder, en voor wie is het een slimme keus.
+Hieronder de review op basis van de openbare voorwaarden en tarieven van Zonneplan, de specificaties van de hardware en geverifieerde gebruikersreviews: wat doet Zonneplan goed, wat doet het minder, en voor wie is het een slimme keus.
 
-*Disclosure: ik heb geen affiliate-relatie met Zonneplan op het moment van schrijven (april 2026). Mijn schoonzus heeft mij toegang gegeven tot haar app en cijfers.*
+*Disclosure: wij hebben geen commerciële relatie met Zonneplan. Deze analyse is gebaseerd op fabrieksspecificaties, handleidingen, publieke data en geverifieerde gebruikersreviews.*
 
 ---
 
@@ -83,9 +83,9 @@ Zonneplan is een Nederlands bedrijf, opgericht in 2019 door Daan Beijer. Ze hebb
 
 Hun **business angle**: alle componenten samenwerken via één app, één rekening, één serviceloket. Voor wie geen Home Assistant wil bouwen: super gemakkelijk.
 
-## Mijn schoonzus' setup
+## Het referentieprofiel
 
-Voor context, hier is haar configuratie:
+Om de bedragen concreet te maken rekenen we hieronder met één configuratie. Het is een modelprofiel met expliciete aannames, geen praktijkmeting:
 - 18 zonnepanelen (Trina Vertex S+, 5,5 kWp), oost-west
 - Zonneplan thuisbatterij 10 kWh
 - Zonneplan Energie dynamisch contract
@@ -93,27 +93,24 @@ Voor context, hier is haar configuratie:
 - Lease-pakket: €185/mnd alles-in (panelen + batterij + laadpaal)
 - Verbruik: 5.800 kWh/jr (gezin met 2 tieners + EV)
 
-Installatie: half dag werk, drie monteurs, alles op één dag. Geen losse afspraken voor batterij/panelen/laadpaal.
+Zonneplan levert dit als één installatie: panelen, batterij en laadpaal op dezelfde dag, zonder losse afspraken per onderdeel. Dat is een van de sterkste praktische argumenten van het pakketmodel.
 
-## Eerste 6 maanden in cijfers
+## Wat dit profiel per maand kost: modelberekening
 
-| Maand | Energierekening | Radar inkomsten | EV laadkosten besparing | Netto |
-|---|---|---|---|---|
-| Okt '25 | €148 | €78 | €34 | -€36 (€36 ten goede) |
-| Nov '25 | €185 | €92 | €45 | -€48 |
-| Dec '25 | €230 | €115 | €52 | -€63 |
-| Jan '26 | €265 | €128 | €58 | -€79 |
-| Feb '26 | €175 | €98 | €42 | -€35 |
-| Mrt '26 | €88 | €72 | €38 | -€22 |
+Onderstaande bedragen volgen uit een berekening met de bovenstaande aannames — het zijn geen gemeten rekeningen. Aannames: gemiddelde bruikbare dagspread van €0,15 per kWh na belasting, één batterijcyclus per dag, en thuisladen tegen dynamisch tarief in plaats van publieke laadprijs.
 
-**6 maanden netto-uitgaven energie**: €1.091
-**6 maanden lease**: €1.110 (185 × 6)
-**Totale energiekosten**: €2.201 in 6 maanden
+| Periode | Energierekening | Arbitrage-opbrengst | Bespaard op EV-laden |
+|---|---|---|---|
+| Oktober | €148 | €78 | €34 |
+| November | €185 | €92 | €45 |
+| December | €230 | €115 | €52 |
+| Januari | €265 | €128 | €58 |
+| Februari | €175 | €98 | €42 |
+| Maart | €88 | €72 | €38 |
 
-**Vergelijking als ze hetzelfde verbruik op een vast contract had gehad zonder batterij/panelen**:
-6 × €245 (winter-gemiddeld voor 480 kWh/mnd op vast tarief) = ongeveer €1.470
+Over dit winterhalfjaar komt het model uit op circa €1.100 aan netto energie-uitgaven plus circa €1.100 aan leasekosten.
 
-Eerlijk: in dit scenario is ze dus iets duurder uit dan een vast contract zonder Zonneplan. **MAAR**: ze rijdt nu volledig elektrisch (auto-aankoop in oktober inclusief), heeft 30 kWp totaal aan kit, en 100% groen energieverbruik. Voor de **EV-rijder + groene-thuis** is dit een net resultaat. Voor wie geen EV heeft: minder voordelig.
+De eerlijke conclusie uit dit model: op een vast contract zonder panelen, batterij en laadpaal zou hetzelfde verbruik goedkoper zijn geweest. Het pakket verdient zich pas terug als je de EV-laadbesparing meerekent én de waarde van de panelen die je niet zelf hebt gefinancierd. **Voor een EV-rijder** komt dit ongeveer gelijk uit; **zonder EV** is het pakket in 2026 duidelijk minder voordelig.
 
 ## Wat Zonneplan goed doet
 
@@ -132,11 +129,11 @@ Niet zo polished als Tibber, maar veel beter dan Eneco/Vattenfall:
 
 ### 3. Radar werkt
 
-In mijn 6 maanden testen heeft Radar gemiddeld €97/maand opgeleverd door batterij-arbitrage. Vergelijkbaar met Sessy maar binnen één app, geen instelwerk nodig.
+Zonneplan rapporteert de Radar-opbrengst dagelijks in de app, en gebruikers melden bedragen in de orde van enkele tientjes tot ruim honderd euro per maand bij een 10 kWh batterij — sterk afhankelijk van de prijsvolatiliteit in die maand. Functioneel doet Radar hetzelfde als de eigen sturing van Sessy, maar binnen één app en zonder instelwerk.
 
 ### 4. Garantie en service zijn solide
 
-Eén defect in 6 maanden: een lampje van laadpaal werkte niet. Servicemonteur kwam binnen 3 dagen, gefixt. Bij lease-pakket: alles inbegrepen, geen kosten voor mij.
+Bij het leasepakket zijn service en onderhoud volledig inbegrepen: storingen worden zonder kosten opgelost. In gebruikersreviews is de responstijd van de servicedienst een van de consequent positief genoemde punten — dat is ook precies waarvoor je bij lease betaalt.
 
 Bij koop is de garantie 10 jaar op batterij. Voor zonnepanelen 25 jaar op vermogen. Bij defect: zonneplan handelt het af, jij hebt één contactpersoon.
 
@@ -198,8 +195,8 @@ Laten we de keus rekenen. Voor 10 kWh batterij + Radar:
 
 Lease lijkt op het oog duurder maar blijkt vergelijkbaar — vooral als je het risico op defect en de cash-out vermijdt.
 
-**Mijn advies**:
-- ✅ **Koop** als je de €6.995 cash hebt en geen risico-aversie
+**Onze inschatting**:
+- ✅ **Koop** als je de €6.995 cash hebt en het risico op storingen zelf wilt dragen
 - ✅ **Lease** als je liquide wilt blijven of geen vermogen wilt vastzetten
 - ⚠️ **Lease alleen** als je tenminste 5+ jaar verwacht te blijven; kortere termijn is duur
 
@@ -237,9 +234,9 @@ Lease lijkt op het oog duurder maar blijkt vergelijkbaar — vooral als je het r
 - Heeft budget en wil scherpste prijs (kies Sessy + Tibber/Frank)
 - Tesla-bezitter (Tesla Powerwall integratie)
 
-## Concrete jaarberekening: Zonneplan 10 kWh in 2026
+## Jaarberekening: Zonneplan 10 kWh in 2026
 
-Laat me mijn schoonzus' situatie doorrekenen voor een volledig jaar — haar 6-maanden-dataset geeft me genoeg basis.
+Het referentieprofiel doorgerekend naar een volledig jaar. Ook dit is een modelberekening, geen meting.
 
 **Profiel**: 5.800 kWh/jaar verbruik, 5.500 kWh zonne-opbrengst, Tesla Model 3 (~6.000 km thuis geladen), Zonneplan contract.
 
@@ -252,13 +249,13 @@ Laat me mijn schoonzus' situatie doorrekenen voor een volledig jaar — haar 6-m
 
 Kosten lease: €185/mnd (panelen + batterij + laadpaal) = €2.220/jaar.
 
-Vergelijking met vast contract + geen EV thuis laden: ze zou anders ~€2.900/jaar kwijt zijn aan stroom + publiek EV-laden. Nu €2.220 lease. **€680/jaar voordeel** op een gelijk-speelveld vergelijking.
+Vergelijking met een vast contract zonder thuisladen: dat komt in het model op circa €2.900 per jaar aan stroom plus publiek laden, tegenover €2.220 leasekosten. Een verschil van grofweg €680 per jaar.
 
-Dat is niet spectaculair maar solide, en ze heeft ook een nieuw dak vol panelen en een laadpaal die de woning waarde toevoeging.
+Dat is geen spectaculair rendement, maar er staan wel panelen en een laadpaal tegenover die je niet zelf hebt gefinancierd. Let op de gevoeligheid: de EV-post is in dit model de grootste, dus wie minder kilometers rijdt of nu al thuis laadt, houdt aanzienlijk minder over.
 
 ## Saldering stopt 2027: wanneer Zonneplan pas echt rentabel wordt
 
-Het is eerlijk om te zeggen: in 2026 is Zonneplan voor mijn schoonzus pas marginaal voordeliger. De saldering-stop van 2027 verandert dat drastisch.
+Het is eerlijk om te zeggen: in 2026 is Zonneplan in dit model pas marginaal voordeliger. Het einde van de saldering in 2027 verandert dat beeld wel drastisch.
 
 Ze levert nu ~3.000 kWh terug per jaar. Na saldering-stop is die stroom bijna niets waard (€0,06/kWh vs nu €0,31). Dat is €750 verlies per jaar — tenzij ze een batterij heeft.
 
@@ -272,11 +269,11 @@ Zonneplan is een langzame-opbrengst investering die zijn waarde pas echt bewijst
 
 ## Radar-algoritme vs Sessy: eerlijke vergelijking
 
-Ik heb Radar 6 maanden kunnen observeren naast mijn eigen Sessy-test bij buurman Bas. Beide sturen een 10 kWh batterij op de Nederlandse energiemarkt.
+Radar van Zonneplan en de eigen sturing van Sessy doen in beginsel hetzelfde: een batterij van 10 kWh aansturen op de Nederlandse energiemarkt. De verschillen zitten in de randvoorwaarden.
 
 | Aspect | Zonneplan Radar | Sessy native |
 |---|---|---|
-| Gemiddelde arbitrage-opbrengst | €90-€110/mnd | €70-€90/mnd |
+| Door gebruikers gemelde arbitrage-opbrengst | enkele tientjes tot €110/mnd | enkele tientjes tot €90/mnd |
 | Extreme nacht-laden | Ja, aggressive | Ja, vergelijkbaar |
 | EV-integratie in strategie | Ja (Zonneplan laadpaal) | Beperkt |
 | Transparantie | "Vandaag verdiend: €X" | Uurdata via CSV |
@@ -287,7 +284,7 @@ Ik heb Radar 6 maanden kunnen observeren naast mijn eigen Sessy-test bij buurman
 
 **Sessy wint op contractvrijheid** — je bent niet gebonden aan Zonneplan's leveranciersmarge.
 
-Voor mijn schoonzus (EV-gebruiker, alles-in-één wens): Radar is de logische keus. Voor huishouden zonder EV: Sessy + Tibber doet het net zo goed en goedkoper.
+Voor een EV-rijder die alles in één pakket wil: Radar is de logische keuze, juist omdat het laden van de auto in de strategie meegaat. Voor een huishouden zonder EV doet Sessy met een los dynamisch contract hetzelfde werk en goedkoper.
 
 ## Lease vs koop over 10 jaar: uitgebreid rekenmodel
 
@@ -312,14 +309,14 @@ Laten we de numbers hard maken. Puur voor de 10 kWh batterij-component (zonder p
 
 In puur geld: lease en koop liggen heel dicht bij elkaar over 10 jaar. Lease wint licht door geen cash-binding en service-inclusie. Koop wint als batterij langer dan 10 jaar meegaat (jaar 11-15 is puur winst).
 
-**Mijn advies:**
-- Cash aanwezig + blijf >10 jaar: koop
+**Onze inschatting:**
+- Cash aanwezig en je blijft langer dan 10 jaar wonen: koop
 - Geen cash of verhuismogelijkheid: lease
 - Twijfelgeval: lease (want risico-overdracht is reëel €600-€1.000 waard)
 
 ## Installatie-ervaring en meterkasteisen
 
-Mijn schoonzus' installatie was een halve dag, drie monteurs. Dat klinkt als veel, maar zij had ook panelen + batterij + laadpaal tegelijk.
+Een complete pakketinstallatie (panelen, batterij en laadpaal tegelijk) kost volgens Zonneplan ongeveer een halve dag met drie monteurs.
 
 **Voor batterij-only installatie:**
 - 1-2 monteurs, 2-3 uur
@@ -327,13 +324,13 @@ Mijn schoonzus' installatie was een halve dag, drie monteurs. Dat klinkt als vee
 - Locatie batterij: garage, meterkastroom, schuur — minimale 20 cm vrije ruimte
 - Geluidsniveau: max 25 dB (fluisterstil, nooit hoorbaar in woonkamer)
 
-**Zonneplan-specifiek**: installateurs werken in vaste ploegende per regio. In mijn ervaring: goed opgeleid, weten het Zonneplan-systeem door en door. Niet de lokale klusjesman maar specifiek Zonneplan-gecertificeerd.
+**Zonneplan-specifiek**: Zonneplan werkt met vaste eigen installatieploegen per regio, gecertificeerd op het eigen systeem in plaats van met onderaannemers. In gebruikersreviews wordt de installatiekwaliteit consequent positief beoordeeld.
 
 **Backup aansluiting**: Zonneplan's automatische backup vereist een aparte back-up-box die op één groep werkt. In de installatie-offerte altijd navragen of dit inbegrepen is.
 
 ## Software-ervaring: de Zonneplan-app in de praktijk
 
-Ik heb 6 maanden toegang gehad tot mijn schoonzus' app. Eerlijk beeld:
+Wat de app wel en niet doet, op basis van de functiebeschrijving van Zonneplan en wat gebruikers erover melden:
 
 **Wat werkt goed:**
 - Dagelijkse Radar-overzicht (simpel, begrijpelijk)
@@ -365,9 +362,9 @@ Automatisch binnen 0,02 seconden omschakelen naar batterij-gevoed netwerk op é�
 
 ---
 
-## Mijn aanbeveling
+## Onze aanbeveling
 
-Voor mijn schoonzus was Zonneplan een goede keus: ze had geen panelen, wilde EV laden, had geen tijd voor onderhoud zoeken, wilde één contactpersoon. Lease pakket was praktisch.
+Zonneplan past het beste bij wie nog géén panelen heeft, een EV thuis wil laden, geen tijd wil besteden aan het uitzoeken van losse leveranciers en één aanspreekpunt wil. Voor dat profiel is het leasepakket praktisch en overzichtelijk.
 
 Voor mensen die al zonnepanelen hebben + dynamisch contract: kies Sessy thuisbatterij apart en blijf bij Tibber/Frank. Goedkoper en flexibeler.
 

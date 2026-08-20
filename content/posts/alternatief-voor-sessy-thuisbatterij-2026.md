@@ -1,7 +1,7 @@
 ---
 title: Alternatief voor Sessy thuisbatterij 2026 - 5 opties
 date: 2026-10-04 08:00:00+02:00
-lastmod: 2026-10-04 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 draft: false
 description: 'Sessy te duur? Vergelijk 5 alternatieven: Marstek Venus, EcoFlow Delta Pro Ultra, Anker SOLIX, Jackery en Bluetti AC500 — inclusief prijs, app en garantie.'
 categories:
@@ -62,7 +62,7 @@ Goede vraag. Want Sessy heeft zich de afgelopen twee jaar bewezen als de go-to t
 
 Dit artikel is voor Gerard, en voor iedereen die twijfelt of de Sessy-prijs de meerwaarde rechtvaardigt.
 
-*Disclosure: dit artikel bevat affiliate-links. Ik verdien een kleine commissie als je via mijn link iets koopt, zonder meerkosten voor jou. Mijn aanbevelingen zijn gebaseerd op eigen tests en klantcases.*
+*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 ---
 

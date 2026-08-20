@@ -1,7 +1,7 @@
 ---
 title: 'Zonneboiler vs warmtepompboiler 2026: welke levert meer op?'
 date: 2026-05-19 08:00:00+02:00
-lastmod: 2026-05-19 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Zonneboiler of warmtepompboiler? Ik vergelijk kosten, subsidie, terugverdientijd en praktische geschiktheid voor jouw situatie.
 categories:
 - warmtepompen
@@ -368,7 +368,7 @@ De gemiddelde installatie inclusief ISDE-voorbereiding neemt 3–5 weken van bes
 
 ---
 
-*Disclosure: ik gebruik affiliate links op deze pagina. De prijzen en subsidies zijn gebaseerd op publieke bronnen van begin 2026 en kunnen zijn gewijzigd. Controleer altijd de actuele RVO-lijst en vraag meerdere offertes aan.*
+*Disclosure: deze pagina bevat affiliate-links. Prijzen en subsidies zijn gebaseerd op publieke bronnen van begin 2026 en kunnen zijn gewijzigd. Controleer altijd de actuele RVO-lijst en vraag meerdere offertes aan.*
 
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag</a>

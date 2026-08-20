@@ -1,6 +1,7 @@
 ---
 title: 'Verduurzamen huurwoning 2026: checklist zonder eigenaar nodig'
 date: 2026-11-01 08:00:00+01:00
+lastmod: 2026-08-19 08:00:00+02:00
 draft: false
 description: Als huurder voel je je machteloos. Onterecht — ik laat zien welke 12 ingrepen je zelf mag doen zonder verhuurder in 2026.
 keywords:
@@ -11,7 +12,7 @@ keywords:
 - plug-in batterij huurder
 - HomeWizard huurwoning
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1502672260266-1c1ef2d93688&w=1200&output=webp&q=70
 category: huurwoning
 tags:
@@ -44,7 +45,7 @@ faq:
 - q: 'Kan ik mijn verhuurder dwingen om te verduurzamen?'
   a: 'Bij corporaties: ja, via Huurcommissie bij label E/F/G sinds 2023. Bij particuliere verhuurder vanaf 2030 verplicht label C voor nieuwe contracten. Tot die tijd: schriftelijk verzoek, bij weigering Huurcommissie. Doorlooptijd 8-14 weken.'
 ---
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvang ik een kleine vergoeding zonder dat dit voor jou meer kost. Ik schrijf alleen over producten die ik zelf gebruik of grondig onderzocht heb.*
+*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 Toen ik begin 2024 een vriend hielp die net was gaan huren in Amsterdam, dacht ik: dit moet uitvoerig opgeschreven worden. Hij voelde zich machteloos — geen eigen dak, geen toestemming voor wat dan ook, en stijgende energieprijzen. Drie maanden later bespaarde hij 340 euro op jaarbasis. Zonder ooit zijn verhuurder iets gevraagd te hebben.
 
@@ -325,7 +326,7 @@ Bewaar al je bonnetjes en de oorspronkelijke apparaten — bij eindcontrole-insp
 
 ---
 
-*Dit artikel is voor het laatst bijgewerkt op 2026-11-01 door Mark Bakker. Heb je een vraag of klopt er iets niet? Mail me — ik update dit artikel actief.*
+*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
 
 ---
 

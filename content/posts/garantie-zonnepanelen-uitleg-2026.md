@@ -1,8 +1,8 @@
 ---
 title: 'Garantie Zonnepanelen Uitleg 2026: Wat Krijg je Echt?'
 date: 2026-07-11 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
-description: 'Productgarantie, vermogensgarantie en installateursgarantie: ik leg het verschil uit met praktijkvoorbeelden. Wat te doen bij defect en hoe je garantie veilig stelt.'
+lastmod: 2026-08-19 08:00:00+02:00
+description: 'Productgarantie, vermogensgarantie en installateursgarantie: het verschil uitgelegd met voorbeelden. Wat te doen bij defect en hoe je garantie veilig stelt.'
 draft: false
 categories:
 - zonnepanelen
@@ -21,7 +21,7 @@ keywords:
 - installateursgarantie
 - zonnepanelen failliete installateur
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true
@@ -31,7 +31,7 @@ faq:
 - q: 'Wat dekt installateursgarantie?'
   a: 'Installatie-fouten, montagedefecten, bedradingsfouten en dakdoorvoeren. Typisch 5-12 jaar. Niet alle installateurs bieden dit; vraag het expliciet en zwart-op-wit.'
 - q: 'Wat als de installateur failliet gaat?'
-  a: 'Productgarantie blijft (gaat via fabrikant). Installateursgarantie vervalt. Daarom raad ik aan: kies een installateur die langer dan 10 jaar bestaat, en/of vraag een garantieverzekering (€100-€200) bij aanschaf.'
+  a: 'Productgarantie blijft (gaat via fabrikant). Installateursgarantie vervalt. Daarom raden wij aan: kies een installateur die langer dan 10 jaar bestaat, en/of vraag een garantieverzekering (€100-€200) bij aanschaf.'
 - q: 'Hoe claim ik garantie?'
   a: '1) Documenteer probleem (foto, video, rendementsdata). 2) Mail installateur met klacht. 3) Bij geen reactie: rechtstreeks fabrikant met serienummers. 4) Eventueel ConsuWijzer of geschilllencommissie. Bewaar facturen 25 jaar.'
 - q: 'Werkt de garantie als ik mijn huis verkoop?'
@@ -49,14 +49,14 @@ products:
   url: https://www.aon.nl/
   price: '150'
 ---
-Een klant uit Tilburg belde mij in paniek: na 4 jaar werken bleek hun zonnepaneelinstallatie 22% minder rendement op te leveren dan beloofd. De installateur was failliet. De fabrikant verwees naar de installateur. De installateur naar de fabrikant. Wat nu?
+Een veelvoorkomende situatie: na vier jaar levert een zonnepaneelinstallatie tientallen procenten minder op dan verwacht, de installateur is failliet en de fabrikant verwijst naar de installateur. Wat dan?
 
-Dit verhaal komt te vaak voor. Garantie op zonnepanelen is een van de meest verkeerd begrepen onderwerpen in de duurzame markt. Hieronder leg ik elk type garantie uit, met praktijkvoorbeelden en stappenplannen voor het claimen.
+Dat scenario komt vaker voor dan je denkt. Garantie op zonnepanelen is een van de meest verkeerd begrepen onderwerpen in de duurzame markt. Hieronder staat elk type garantie uitgelegd, met voorbeeldsituaties en stappenplannen voor het claimen.
 
-*Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Bij aankoop via deze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 
-> **Kort antwoord:** Productgarantie, vermogensgarantie en installateursgarantie: ik leg het verschil uit met praktijkvoorbeelden. Wat te doen bij defect en hoe je garantie veilig stelt.
+> **Kort antwoord:** Productgarantie, vermogensgarantie en installateursgarantie: het verschil uitgelegd met voorbeelden. Wat te doen bij defect en hoe je garantie veilig stelt.
 >
 > Productgarantie dekt fabrieksfouten (haarbaren, delaminatie, defecte aansluitingen): typisch 12-25 jaar. Vermogensgarantie dekt rendementsverlies bovenop normale degradatie: typisch 25-30 jaar tot 80-90% van origineel vermogen.
 
@@ -107,45 +107,45 @@ Dekt **installatie-defecten**:
 
 Typisch 5-12 jaar. Niet alle installateurs bieden dit standaard — sommigen alleen 2 jaar wettelijke conformiteitsgarantie.
 
-**Mijn advies:** kies altijd een installateur met minimaal 10 jaar installatiegarantie zwart op wit.
+**Onze aanbeveling:** kies altijd een installateur met minimaal 10 jaar installatiegarantie zwart op wit.
 
-## Voorbeelden uit de praktijk
+## Drie situaties en hoe ze doorgaans verlopen
 
-### Casus 1: Defect paneel na 3 jaar
+### Situatie 1: defect paneel na drie jaar, installateur bestaat nog
 
-Klant in Eindhoven, Q.CELLS Q.PEAK DUO 425Wp panelen. Paneel-niveau monitoring liet zien dat 1 paneel 30% minder produceerde dan zijn 13 buren. Visueel: kleine bruine vlek op de cel.
+Paneelniveau-monitoring laat zien dat één paneel structureel veel minder produceert dan de rest van de reeks; visueel is soms een bruine vlek op een cel te zien. Dat is een klassieke hotspot en valt onder productgarantie.
 
-Aanpak:
-1. Installateur ingeschakeld via originele factuur
-2. Installateur belde Q.CELLS, kreeg RMA-nummer
-3. Q.CELLS stuurde nieuw paneel binnen 4 weken
-4. Installateur verving paneel kosteloos (binnen 5 jaar inclusief arbeid)
+Zo verloopt het traject als de installateur nog actief is:
 
-Doorlooptijd: 5 weken. Kosten klant: €0.
+1. Installateur inschakelen met de originele factuur erbij
+2. Installateur vraagt bij de fabrikant een RMA-nummer aan
+3. Fabrikant levert een vervangend paneel — reken op enkele weken
+4. Installateur plaatst het paneel; bij een installateursgarantie die ook arbeid dekt, kosteloos
 
-### Casus 2: Failliete installateur
+Verwachte doorlooptijd: enkele weken. Eigen kosten: nihil, mits arbeid onder de installateursgarantie valt. Controleer dat laatste vóór aanschaf, want juist arbeid is vaak uitgesloten.
 
-Klant in Tilburg, mijn opening-verhaal. Installateur uit 2021 in 2024 failliet. Wat ik gedaan heb:
+### Situatie 2: installateur failliet
 
-1. Identificatie panelen: Trina Solar Vertex 530Wp
-2. Productgarantie: 12 jaar — dus geldig
-3. Trina ingeschakeld via Nederlandse importeur (Memodo)
-4. Memodo bevestigde garantie maar weigerde arbeidskosten
-5. We kozen een nieuwe installateur die voor €450 de panelen verving (4 panelen) — Memodo vergoedde de panelen kosteloos
+Is de installateur weg, dan blijft de productgarantie via de fabrikant overeind, maar valt de installateursgarantie weg. Het traject wordt dan:
 
-Doorlooptijd: 8 weken. Kosten klant: €450 voor arbeid.
+1. Panelen identificeren: type, Wp en serienummers
+2. Productgarantietermijn opzoeken in de fabrikantvoorwaarden
+3. Fabrikant benaderen via de Nederlandse importeur of distributeur
+4. Importeur bevestigt de garantie op het paneel, maar wijst arbeidskosten vrijwel altijd af
+5. Zelf een nieuwe installateur inschakelen voor demontage en montage
 
-Les: bij failliete installateur draai je vaak op voor de arbeidskosten van de garantieafhandeling.
+Reken bij deze route op enkele honderden euro's arbeidsloon per paneel, terwijl het paneel zelf gratis wordt geleverd. Les: bij een failliete installateur draai je vaak op voor de arbeidskosten van de garantieafhandeling.
 
-### Casus 3: Storm-schade
+### Situatie 3: stormschade
 
-Klant in Goeree-Overflakkee, panelen weggeblazen tijdens storm Eunice 2023. De schade-claim ging via:
-1. Installateur (verwees naar verzekering)
-2. Inboedelverzekering (verwees naar opstalverzekering)
-3. Opstalverzekering: dekte schade onder voorwaarde dat het systeem volgens code was gemonteerd
-4. Schade toegekend: vervanging panelen + montagesysteem = €4.800
+Waaien panelen los of van het dak, dan is dat geen garantiekwestie. Het traject loopt via de verzekering, en daar botsen partijen vaak:
 
-Les: bij stormschade is het je verzekering, niet de productgarantie. Maar: de verzekering eist gecertificeerde installatie. Een DIY-installatie is daarmee een risico.
+1. Installateur verwijst naar de verzekering
+2. Inboedelverzekering verwijst naar de opstalverzekering
+3. Opstalverzekering dekt de schade doorgaans wel, maar op voorwaarde dat het systeem volgens de geldende norm is gemonteerd
+4. Bij toekenning worden panelen én montagesysteem vervangen
+
+Les: bij stormschade is je verzekering aan zet, niet de productgarantie. Maar de verzekeraar eist een gecertificeerde installatie. Een doe-het-zelf-installatie is daarmee een risico.
 
 Lees ook [zonnepanelen verzekering](/posts/zonnepanelen-verzekering-opstal-2026/).
 
@@ -182,7 +182,7 @@ Sommige verzekeraars (AON, Centraal Beheer) bieden specifieke garantieverzekerin
 - Extra dekking arbeidskosten
 - 25 jaar zekerheid
 
-Mijn mening: **wel doen** als:
+Onze inschatting: **wel doen** als:
 - Je installateur jonger is dan 5 jaar
 - Je in een specialiteits-niche koopt (leien, riet, monumentaal)
 - Je veel comfort wilt
@@ -259,7 +259,7 @@ Belangrijk: zonnepanelen verhogen je woningwaarde alleen als de garantie overdra
 
 **Installateursgarantie**: kan persoonlijk gebonden zijn. Check voorwaarden vóór verkoop.
 
-Tip: maak een "energiedossier" met alle documenten. Verkoper Makelaar laat dit zien aan koper. Verhoogt vraagprijs €1.500-€3.000 bij goed gedocumenteerde installatie.
+Tip: maak een "energiedossier" met alle documenten, zodat de makelaar het aan kopers kan laten zien. Een aantoonbaar overdraagbare garantie neemt bij de koper een onzekerheid weg; hoeveel dat in de vraagprijs waard is, verschilt per woning en markt.
 
 Lees ook [zonnepanelen sociale huur](/posts/zonnepanelen-sociale-huur-stappenplan-2026/) en [huurwoning zonnepanelen toestemming](/posts/huurwoning-zonnepanelen-toestemming/).
 
@@ -303,7 +303,7 @@ Veel garanties hebben "binnen redelijke termijn" als clausule. Bij ontdekking pr
 
 Zonnepanelen zijn een 25-jarige investering. De garantie bepaalt of je 25 jaar van productie geniet of veel te vroeg met problemen zit.
 
-Mijn adviezen:
+Onze aanbevelingen:
 1. Kies merken met 25 jaar productgarantie
 2. Eis 10+ jaar installateursgarantie van je installateur
 3. Bewaar alle documenten in een digitale map
@@ -312,11 +312,15 @@ Mijn adviezen:
 
 Voor verdere lezing: [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/), [zonnepanelen verzekering](/posts/zonnepanelen-verzekering-opstal-2026/), [zonnepanelen onderhoud](/posts/zonnepanelen-onderhoud-schoonmaken-2026/), [omvormer kiezen](/posts/omvormer-kiezen-welke-past-2026/) en [zonnepanelen DIY vs installateur](/posts/zonnepanelen-diy-vs-installateur-2026/).
 
-## Mijn eigen garantieclaim — wat ik leerde
+## Het scenario waar niemand op rekent: de fabrikant stopt
 
-In maart 2024 viel één van mijn 14 panelen (LG NeON H, geplaatst 2022) opvallend terug in opbrengst — van 360 kWh in q1 voorgaande jaren naar 190 kWh. Met thermografische camera (huurprijs €40 voor een dag) bleek een hotspot rechtsonder. LG was inmiddels uit de zonnepanelenmarkt vertrokken (2022) en de oorspronkelijke installateur uit Apeldoorn was failliet. Hier kwam ik erachter dat productgarantie via fabrikant alleen werkt als de fabrikant nog actief is. Uiteindelijk via de overgenomen distributie van LG-rest-stock (Solitek) kreeg ik na 4 maanden corresponderen een vervangingspaneel — maar arbeidsloon (€280) bleef voor mijn rekening.
+Een risico dat in garantievoorwaarden nooit staat: de fabrikant verlaat de markt. LG stopte in 2022 met de productie van zonnepanelen, terwijl de panelen zelf een productgarantie van 25 jaar hebben. Zo'n garantie is dan nog steeds geldig op papier, maar wie handelt hem af?
 
-Les: garantie van een grote fabrikant is mooi, maar continuiteit van het lokale installateursbedrijf is in de praktijk vaak waardevoller dan een 25-jaars productgarantie van een merk dat over 4 jaar misschien niet meer bestaat.
+Wat dan overblijft: de claim moet via de partij die de restvoorraad en de garantieverplichtingen heeft overgenomen, of via de importeur. Dat is een langer traject — reken op maanden in plaats van weken correspondentie — en de kans dat arbeidsloon wordt vergoed is klein. Valt de installateur óók weg door faillissement, dan komt de demontage en montage volledig voor eigen rekening: enkele honderden euro's per paneel.
+
+Om een terugval in opbrengst überhaupt aantoonbaar te maken, heb je twee dingen nodig: monitoring op paneelniveau of jaarlijkse opbrengstcijfers, en bij een vermoeden van een hotspot een thermografische opname (een camera huren kost enkele tientjes per dag).
+
+Les: garantie van een grote fabrikant is mooi, maar continuïteit is minstens zo belangrijk. Een lokale installateur die er over tien jaar nog is, is in de praktijk vaak waardevoller dan een productgarantie van 25 jaar van een merk dat de markt kan verlaten.
 
 ## Diepgang per merk: garantievergelijking
 
@@ -338,9 +342,11 @@ Naast fabrikantengarantie heb je in Nederland wettelijke conformiteitsgarantie (
 
 Praktijk: dit traject loopt via aansprakelijkstelling bij de installateur, niet bij de fabrikant. Wettelijke garantie is sterk maar bewerkelijk; vaak via Geschillencommissie (~€60 inleg) of rechtbank.
 
-## Mini case: defecte omvormer na 6 jaar
+## Voorbeeldsituatie: defecte omvormer na zes jaar
 
-Klant Hilversum 2025: SolarEdge SE5000H stuk na 6 jaar. Productgarantie 12 jaar, dus claim ingediend. Replacement-omvormer binnen 3 weken geleverd. Maar: arbeidsloon (€220), nieuwe DC-isolator (€85) en herconfiguratie-kosten waren niet gedekt. Totale kosten klant: €305. Origineel investering omvormer: €1.180. Effectieve "garantie-dekking": 74% van vervangwaarde.
+Een omvormer die na zes jaar uitvalt, valt bij de meeste merken nog binnen de productgarantie van 10 tot 12 jaar. Het toestel zelf wordt dan vervangen, doorgaans binnen enkele weken.
+
+Wat vrijwel nooit gedekt is: het arbeidsloon van de monteur, bijbehorende onderdelen zoals een nieuwe DC-isolator, en het opnieuw configureren van de installatie. Rekenvoorbeeld met de volgende aannames: €220 arbeidsloon, €85 voor een nieuwe DC-isolator, oorspronkelijke aanschafwaarde van de omvormer €1.180. Uitkomst van het model: circa €305 eigen kosten, oftewel een effectieve dekking van ongeveer 74 procent van de vervangwaarde. Vraag daarom vóór aanschaf expliciet of arbeid bij een garantievervanging is inbegrepen.
 
 ## Veelgemaakte fouten
 
@@ -354,7 +360,7 @@ Vrijwel alle fabrikanten eisen erkend installateur. Zelf plaatsen = garantie weg
 Vermogensgarantie eist meestal aantoonbare meetwaarden. Zonder log-data van jaar 1-5 is claim na jaar 8 lastig.
 
 **Fout 4: Schoonmaken met agressieve middelen**
-Schade door verkeerd onderhoud is uitgesloten van garantie. Lees daarom mijn [onderhoud-gids](/posts/zonnepanelen-onderhoud-schoonmaken-2026/).
+Schade door verkeerd onderhoud is uitgesloten van garantie. Lees daarom de [onderhoud-gids](/posts/zonnepanelen-onderhoud-schoonmaken-2026/).
 
 **Fout 5: Aanspreken fabrikant zonder installateur**
 In Nederland is de installateur eerste aanspreekpunt. Rechtstreeks naar fabrikant gaan vertraagt het proces.
@@ -382,11 +388,13 @@ Onder de 1% van installaties claimt vermogensgarantie. Maar bij oudere generatie
 
 ## Garantievergelijking 2024 → 2026
 
-In twee jaar tijd heb ik garantievoorwaarden van 14 grote merken bijgehouden. Trends: producentegarantie op panelen steeg gemiddeld van 12 naar 15 jaar, vermogensgarantie van 25 naar 30 jaar bij premium merken (LG voor 2025-uitstap, Sunpower, REC). Tegelijk zien we een opkomst van "labour included" — kostenloze arbeid bij vervanging onder garantie. Trina Vertex S+ biedt dit nu standaard, JA Solar alleen bij installatie via geautoriseerde dealer. Goedkopere merken (Astronergy, Risen) blijven op enkel "panel only" — bij defect moet je zelf de installateur betalen voor demontage en montage, vaak 280-450 euro per paneel.
+Wie de garantievoorwaarden van de grote merken over twee jaar naast elkaar legt, ziet een aantal duidelijke trends. Producentgarantie op panelen steeg gemiddeld van 12 naar 15 jaar, vermogensgarantie van 25 naar 30 jaar bij premium merken (LG voor 2025-uitstap, Sunpower, REC). Tegelijk zien we een opkomst van "labour included" — kostenloze arbeid bij vervanging onder garantie. Trina Vertex S+ biedt dit nu standaard, JA Solar alleen bij installatie via geautoriseerde dealer. Goedkopere merken (Astronergy, Risen) blijven op enkel "panel only" — bij defect moet je zelf de installateur betalen voor demontage en montage, vaak 280-450 euro per paneel.
 
-## Mini case: Sunpower defect na 11 jaar
+## Voorbeeldsituatie: vermogensclaim na elf jaar
 
-Klant uit Almere installeerde in 2014 12 Sunpower X21 panelen. In 2025 produceerde één paneel nog maar 70 procent van origineel — onder de 88 procent prognose. Claim ingediend met productiedata en logbestanden van SolarEdge. Sunpower NL bevestigde defect binnen 6 weken, leverde gratis vervangingspaneel (huidig model E20) inclusief arbeid. Totaal kosten klant: 0 euro. Sleutel was: dossier compleet met installatiefactuur, NEN1010, productie-export Excel uit SolarEdge monitoring. Zonder dat dossier had elke claim afgewezen kunnen worden.
+Een paneel dat na elf jaar nog maar circa 70 procent van het oorspronkelijke vermogen levert, zit ruim onder de garantiecurve — die op dat moment doorgaans nog 88 tot 92 procent belooft. Dat is precies waar de vermogensgarantie voor bedoeld is, en bij een premiummerk met een eigen Nederlandse organisatie is zo'n claim goed haalbaar, inclusief een vervangend paneel van het actuele model.
+
+Wat het verschil maakt tussen toekenning en afwijzing is het dossier: de installatiefactuur, het NEN 1010-inspectierapport en een export van de productiedata per paneel uit het monitoringsysteem. Zonder die onderbouwing kan de fabrikant stellen dat het verlies binnen de normale degradatie valt — en dan is er niets aantoonbaar.
 
 ## Wanneer garantieclaim NIET de moeite waard is
 
@@ -394,7 +402,7 @@ Drie scenario's waarin claimen meer kost dan oplevert. Eén: panelen ouder dan 2
 
 ## Veelgemaakte fouten bij claim
 
-Vier fouten die ik dit jaar bij dossiers zag. Eén: claim indienen zonder productiedata — zonder cijfers over een 12-maandsperiode is "verminderd vermogen" niet aantoonbaar. Twee: panelen reinigen of repareren vóór de claim, waardoor de fabrikant zegt "extern aangepast, garantie vervalt". Drie: communiceren via WhatsApp of telefoon zonder schriftelijke trail — eis e-mailbevestiging van elk gesprek. Vier: niet de tussenpartij (importeur) maar direct China benaderen — claim wordt afgewezen wegens verkeerd aanspreekpunt.
+Vier fouten die claims stelselmatig laten mislukken. Eén: claim indienen zonder productiedata — zonder cijfers over een 12-maandsperiode is "verminderd vermogen" niet aantoonbaar. Twee: panelen reinigen of repareren vóór de claim, waardoor de fabrikant zegt "extern aangepast, garantie vervalt". Drie: communiceren via WhatsApp of telefoon zonder schriftelijke trail — eis e-mailbevestiging van elk gesprek. Vier: niet de tussenpartij (importeur) maar direct China benaderen — claim wordt afgewezen wegens verkeerd aanspreekpunt.
 
 **Hoe lang heb ik om te claimen na ontdekking?**
 Volgens Burgerlijk Wetboek 7:23 moet je "binnen bekwame tijd" melden — in praktijk binnen 2 maanden na ontdekking. Bij langer wachten kan claim afgewezen worden wegens niet tijdige melding. Stuur direct na ontdekking een schriftelijke melding, zelfs voordat je dossier compleet hebt.

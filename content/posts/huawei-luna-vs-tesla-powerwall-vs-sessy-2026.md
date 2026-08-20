@@ -1,7 +1,7 @@
 ---
 title: Huawei Luna vs Tesla Powerwall vs Sessy 2026
 date: 2026-06-04 09:00:00+01:00
-lastmod: 2026-06-04 09:00:00+01:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: 'Huawei Luna 2000, Tesla Powerwall 3 en Sessy naast elkaar: prijs, capaciteit, slimheid en terugverdientijd vergeleken voor de Nederlandse markt in 2026.'
 categories:
 - thuisbatterijen
@@ -19,7 +19,7 @@ keywords:
 - Huawei Luna 2000 review
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: 'Welke thuisbatterij is het goedkoopst in 2026: Huawei Luna, Tesla Powerwall of Sessy?'
@@ -37,7 +37,7 @@ faq:
 - q: Kan ik een thuisbatterij ook gebruiken als back-up bij stroomuitval?
   a: Dat hangt af van het model. De Tesla Powerwall 3 heeft een ingebouwde back-up functie (off-grid capable). De Huawei Luna heeft dit ook met de juiste omvormer-configuratie. De Sessy biedt in de huidige versie geen standaard back-up bij stroomuitval.
 - q: Wat is de terugverdientijd van een thuisbatterij in 2026?
-  a: 'Zonder saldering (vanaf 2027) en met een dynamisch contract ligt de terugverdientijd op 8-12 jaar voor de meeste systemen. De Sessy scoort iets beter bij actief gebruik met dynamische tarieven: sommige gebruikers rapporteren €600-€900 besparing per jaar.'
+  a: 'Zonder saldering (vanaf 2027) en met een dynamisch contract komen de meeste rekenmodellen uit op 8-12 jaar. De Sessy scoort in die modellen iets beter bij actief gebruik met dynamische tarieven, omdat de batterij ook op prijsverschillen handelt. De uitkomst hangt sterk af van de prijsspreiding op de spotmarkt.'
 products:
 - name: Sessy thuisbatterij
   url: https://go.duurzaamthuislab.nl/sessy
@@ -50,9 +50,9 @@ products:
   price: '6000'
 schema_type: Article
 ---
-Drie jaar geleden had je amper keus als je een thuisbatterij wilde in Nederland. Nu is de markt vol, en zijn de drie namen die telkens terugkomen de Huawei Luna 2000, de Tesla Powerwall 3 en de Nederlandse nieuwkomer Sessy. Ik heb met alle drie gewerkt — als adviseur, en in het geval van de Huawei Luna ook thuis. In dit artikel geef ik je een eerlijk beeld van de verschillen, de kosten en de vraag: welke past bij jouw situatie?
+Drie jaar geleden had je amper keus als je een thuisbatterij wilde in Nederland. Nu is de markt vol, en zijn de drie namen die telkens terugkomen de Huawei Luna 2000, de Tesla Powerwall 3 en de Nederlandse nieuwkomer Sessy. Deze vergelijking is gebaseerd op de specificaties, handleidingen, garantievoorwaarden en gebruikersreviews van de drie systemen. Het doel: een eerlijk beeld van de verschillen, de kosten en de vraag welke past bij jouw situatie.
 
-*Dit artikel bevat affiliate links. Ik ontvang een kleine vergoeding als je via mijn links een product aanschaft, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via deze links een product aanschaft, zonder extra kosten voor jou.*
 
 ---
 
@@ -81,11 +81,11 @@ Drie jaar geleden had je amper keus als je een thuisbatterij wilde in Nederland.
 
 De Huawei Luna 2000 is de bestverkochte thuisbatterij in Nederland. Dat is niet voor niets: de prijs-kwaliteitverhouding is sterk, het systeem is modulair opgebouwd (je begint met 5 kWh en voegt later modules toe), en Huawei heeft een breed netwerk van gecertificeerde installateurs.
 
-### Wat ik zelf ervaar
+### Hoe zo'n systeem in de praktijk draait
 
-Ik heb thuis een Luna 2000 van 10 kWh, gecombineerd met een Huawei SUN2000 hybride omvormer en 18 panelen van 405 Wp. Het systeem werkt al bijna twee jaar zonder problemen. De FusionSolar-app is informatief, al vind ik de interface wat technisch voor niet-enthousiasten.
+Een typische opstelling is een Luna 2000 van 10 kWh in combinatie met een Huawei SUN2000 hybride omvormer en circa 18 panelen. De FusionSolar-app is informatierijk, maar de interface is naar onze inschatting nogal technisch voor wie zich niet in de materie wil verdiepen.
 
-In de zomer laad ik de batterij overdag volledig op zonne-energie en verbruik ik 's avonds uit de batterij. In de winter is de bijdrage beperkter — dan dekt de batterij gemiddeld 2-3 kWh van de avondpiek.
+Het seizoenspatroon is voorspelbaar: in de zomer wordt de batterij overdag op zonne-energie gevuld en 's avonds leeggetrokken, in de winter is de bijdrage veel kleiner omdat er simpelweg te weinig opbrengst is om 10 kWh te vullen. Reken er in de wintermaanden op dat de batterij slechts een deel van de avondpiek dekt.
 
 ### Sterke punten
 
@@ -148,13 +148,13 @@ Sessy is een Nederlandse startup (onderdeel van Homewizard-ecosysteem) en het me
 
 De Sessy is gekoppeld aan de EPEX-spotmarkt (de groothandelsmarkt voor elektriciteit). Iedere dag worden de uurprijzen voor de volgende dag gepubliceerd. De Sessy's algoritme bepaalt automatisch: wanneer laden (laagste prijs, vaak nacht of middag bij veel zonnestroom op het net) en wanneer ontladen (hoogste prijs, doorgaans avondspits).
 
-In 2025 was het prijsverschil tussen het goedkoopste en duurste uur gemiddeld €0,12-€0,20 per kWh. Met een capaciteit van 5 kWh betekent dat een potentieel voordeel van €0,60-€1,00 per dag, ofwel €220-€365 per jaar bij een goed werkende strategie.
+Wat dat oplevert, is een kwestie van rekenen. Rekenvoorbeeld met de volgende aannames: een bruikbare capaciteit van 5 kWh, één volledige cyclus per dag, een retourrendement van 90% en een gemiddeld dagverschil tussen het goedkoopste en duurste uur van €0,10-€0,15 per kWh. Uitkomst van het model: circa €0,45-€0,70 voordeel per dag, ofwel grofweg €150-€230 per jaar. Bij een volatielere markt loopt dat op, bij een vlakke prijscurve valt het terug — de spread is de enige variabele die echt telt.
 
 Bovenop de arbitrage werkt de Sessy ook gewoon als opslagbatterij voor zonne-energie als je die hebt.
 
 ### Is de Sessy ook geschikt zonder zonnepanelen?
 
-Ja — en dat is uniek. Ik ga hier uitgebreider op in in een apart artikel ([batterij zonder zonnepanelen: heeft het zin?](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026)), maar de korte samenvatting: met een dynamisch contract en de Sessy kun je ook zonder panelen besparen. Niet zoveel als met panelen, maar wel degelijk merkbaar.
+Ja — en dat is uniek. Een apart artikel gaat hier uitgebreider op in ([batterij zonder zonnepanelen: heeft het zin?](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026)), maar de korte samenvatting: met een dynamisch contract en de Sessy kun je ook zonder panelen besparen. Niet zoveel als met panelen, maar wel degelijk merkbaar.
 
 ### Sterke punten
 
@@ -200,9 +200,9 @@ Huishoudens die een dynamisch energiecontract hebben of willen, en actief willen
 
 ---
 
-## Welke kies ik?
+## Welke kies je?
 
-Na alle vergelijkingen en mijn eigen praktijkervaring, zou ik de keuze als volgt maken:
+Op basis van alle vergelijkingen hierboven valt de keuze als volgt uiteen:
 
 **Kies Huawei Luna 2000 als:**
 - Je al een Huawei-omvormer hebt (of er eentje gaat kopen)
@@ -224,11 +224,11 @@ Na alle vergelijkingen en mijn eigen praktijkervaring, zou ik de keuze als volgt
 
 ---
 
-## Wat ik nu zou doen
+## Een combinatie van twee systemen: zinvol of niet?
 
-Als ik mijn Huawei Luna vandaag opnieuw zou aanschaffen, zou ik serieus overwegen om een Sessy erbij te plaatsen als aanvulling. De twee systemen zijn complementair: de Luna sloeg zonne-energie op overdag, de Sessy handelt 's nachts in op lage spotprijzen. Samen dek je de hele dag.
+Wie al een Huawei Luna heeft, kan overwegen om een Sessy als aanvulling bij te plaatsen. De twee systemen zijn in principe complementair: de Luna slaat overdag zonne-energie op, de Sessy koopt in op de lage spotprijzen buiten de zonuren. Samen dekken ze een groter deel van de dag.
 
-Is dat verstandig? Financieel gezien heeft het een terugverdientijd van 10-12 jaar — vergelijkbaar met een tweede zonnepaneelsetje. Maar de meerwaarde zit hem in de flexibiliteit en de toekomstbestendigheid: naarmate dynamische contracten gangbaarder worden, wordt de waarde van een slimme batterij zoals de Sessy groter.
+Is dat verstandig? Financieel is het een randgeval. De tweede batterij verdient zichzelf alleen terug als de spotmarkt genoeg variatie houdt, en dat is een aanname over meerdere jaren die niemand hard kan maken. De meerwaarde zit vooral in flexibiliteit en toekomstbestendigheid: naarmate dynamische contracten gangbaarder worden, wordt de waarde van een actief handelende batterij groter. Onze inschatting: voor de meeste huishoudens is één goed gedimensioneerd systeem verstandiger dan twee kleinere.
 
 Bekijk de opties via de onderstaande links:
 
@@ -294,7 +294,7 @@ Minpunten:
 
 ### Tesla-app
 
-De Tesla-app is het meest gepolijste gebruikerservaring van de drie. De visualisatie van energie-stromen (panelen → batterij → huis → net) is intuïtief en aantrekkelijk. Zelfs mijn buurman die niet technisch is, begreep direct hoe het werkte.
+De Tesla-app is het meest gepolijste gebruikerservaring van de drie. De visualisatie van energie-stromen (panelen → batterij → huis → net) is intuïtief en aantrekkelijk, ook voor wie zich niet in de techniek wil verdiepen — dat is in gebruikersreviews een terugkerend compliment.
 
 Pluspunten:
 - Meest gebruiksvriendelijke interface
@@ -360,9 +360,9 @@ Een thuisbatterij is een verduurzamingsinvestering, maar heeft ook een milieu-fo
 
 ---
 
-## Mijn eindoordeel
+## Ons eindoordeel
 
-Na alles wat ik heb onderzocht en ervaren, zou ik de drie batterijen rangschikken als volgt:
+Op basis van de specificaties, garantievoorwaarden en prijsstelling komen de drie batterijen er zo uit:
 
 **Voor de gemiddelde huiseigenaar met zonnepanelen en een bestaande niet-Huawei omvormer:** Sessy of een goedkoper AC-gekoppeld systeem.
 

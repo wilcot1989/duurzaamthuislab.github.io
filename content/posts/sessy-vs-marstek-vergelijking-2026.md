@@ -1,14 +1,14 @@
 ---
 title: "Sessy vs Marstek thuisbatterij 2026: welke is slimmer?"
 date: 2026-08-05T08:00:00+02:00
-lastmod: 2026-08-05T08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: "Sessy vs Marstek vergeleken op prijs, automation, software en terugverdientijd. Welke thuisbatterij past bij jouw huishouden in 2026?"
 categories: ["thuisbatterijen"]
 tags: ["Sessy", "Marstek", "thuisbatterij", "vergelijking", "versus", "dynamisch contract"]
 keywords: ["sessy vs marstek", "marstek vs sessy", "thuisbatterij vergelijking 2026", "beste thuisbatterij", "sessy of marstek"]
 affiliate: true
 author: "Mark Bakker"
-author_bio: "Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk."
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70"
 schema_type: "Article"
 last_updated: 2026-04-29
@@ -43,11 +43,11 @@ products:
     url: "https://go.duurzaamthuislab.nl/tibber"
     price: "6"
 ---
-*Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvang ik mogelijk een commissie zonder dat jij meer betaalt. Ik test producten zelf en deel ook nadelen — geen advertorial.*
+*Affiliate disclosure: deze pagina bevat affiliate-links. Klik je op een link en koop je iets, dan ontvangen wij mogelijk een commissie zonder dat jij meer betaalt. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data, en benoemen ook de nadelen.*
 
-Vorige maand belde een buurman me. "Mark, ik wil een thuisbatterij. Sessy of Marstek?" Hij had 4.200 kWh verbruik, 14 zonnepanelen en geen verstand van Home Assistant. Ik gaf hem hetzelfde advies als ik aan honderd anderen heb gegeven: het ligt aan wie je bent. Sessy en Marstek lossen hetzelfde probleem op, maar verkopen aan totaal verschillende klanten.
+"Ik wil een thuisbatterij: Sessy of Marstek?" Het is een van de meest gestelde vragen over thuisbatterijen, en het antwoord hangt minder af van de techniek dan van het type gebruiker. Neem een huishouden met 4.200 kWh verbruik, veertien zonnepanelen en geen enkele ervaring met Home Assistant: dan valt de keuze heel anders uit dan bij iemand die zijn eigen automations schrijft. Sessy en Marstek lossen hetzelfde probleem op, maar richten zich op totaal verschillende kopers.
 
-In dit artikel vergelijk ik beide systemen op de 8 punten die er werkelijk toe doen: prijs per kWh, automation, software, NL-support, terugverdientijd met dynamisch contract, garantie, schaalbaarheid en de menselijke factor (wil je geknutsel of wil je rust?). Aan het eind weet je welke past.
+Dit artikel vergelijkt beide systemen op de acht punten die er werkelijk toe doen: prijs per kWh, automation, software, NL-support, terugverdientijd met dynamisch contract, garantie, schaalbaarheid en de menselijke factor (wil je geknutsel of wil je rust?). Aan het eind weet je welke past.
 
 ---
 
@@ -111,7 +111,7 @@ Sessy heeft een Nederlandse app (iOS + Android) met out-of-the-box koppelingen n
 
 Setup tijd: 30-45 minuten. Je downloadt de app, scant de QR-code op de batterij, koppelt je P1-meter, kiest je leverancier — klaar. Het algoritme leert je verbruikspatroon binnen 1-2 weken.
 
-**Update-frequentie:** maandelijks. Sessy team in Amsterdam pusht updates die direct merkbaar zijn in opbrengst — zo werd in maart 2026 een nieuwe forecasting-engine uitgerold die mijn arbitrage-opbrengst met 12% verbeterde (zie [sessy software update 2026 radar](/posts/sessy-software-update-2026-radar/)).
+**Update-frequentie:** maandelijks. Het Sessy-team in Amsterdam rolt updates uit die de opbrengst raken; in maart 2026 kwam bijvoorbeeld een nieuwe forecasting-engine beschikbaar (zie [sessy software update 2026 radar](/posts/sessy-software-update-2026-radar/)). Hoeveel opbrengst zo'n update oplevert, verschilt per woning en per prijsjaar en is niet in één percentage te vatten.
 
 ### Marstek software
 Marstek levert een eigen app (Marstek Energy), maar de échte kracht zit in Home Assistant. Native API sinds maart 2026 (zie [accu vs supercapacitor thuisbatterij 2026](/posts/accu-vs-supercapacitor-thuisbatterij-2026/) voor technisch achtergrond).
@@ -134,7 +134,7 @@ Setup tijd: 1-2 uur als je HA al draait. 4-6 uur als je HA nog moet installeren.
 
 ## 3. Terugverdientijd doorgerekend
 
-Ik heb beide doorgerekend voor 3 typische profielen. Aannames: stroomprijs €0.32/kWh, terugleverprijs €0.08/kWh, gemiddeld 30% eigen verbruik zonder batterij.
+Onderstaande drie profielen zijn modelberekeningen, geen metingen. Aannames: stroomprijs €0,32/kWh, terugleverprijs €0,08/kWh en gemiddeld 30% eigen verbruik zonder batterij. Wijzig een van die drie aannames en de terugverdientijden schuiven mee.
 
 ### Profiel 1: gemiddeld huishouden (3.500 kWh, 4,5 kWp)
 
@@ -189,7 +189,7 @@ Gebruik [saldering calculator 2027 volledig](/posts/saldering-calculator-2027-vo
 
 **Risico-analyse:** Sessy is juridisch sterker (NL-rechtspersoon, garantie afdwingbaar), maar als startup financieel kwetsbaarder. Marstek is groot en stabiel (sinds 2014, miljoenen units verkocht wereldwijd), maar bij claim sta je verder af.
 
-Mijn vuistregel: bij investeringen >€5.000 wil je een NL-rechtspersoon. Bij €2.000-€3.000 is het risico acceptabel.
+Onze vuistregel: bij investeringen boven €5.000 wil je een NL-rechtspersoon als garantiepartij. Bij €2.000-€3.000 is het risico acceptabel.
 
 ---
 
@@ -287,11 +287,11 @@ Dit is geen spec-tabel verschil, maar in de praktijk doorslaggevend.
 
 ---
 
-## Wat ik zelf zou kopen
+## Wat wij zouden kiezen
 
-Bij mij thuis (3.800 kWh verbruik, 5,4 kWp panelen, geen warmtepomp, wel HA): Marstek Venus E 8,2 kWh + Tibber. Prijs/kWh, schaalbaarheid en HA-integratie geven de doorslag. €2.649 vs €5.995 verschil koop ik liever 10 extra zonnepanelen voor.
+Voor een huishouden met circa 3.800 kWh verbruik, 5,4 kWp panelen, geen warmtepomp en Home Assistant al draaiend: Marstek Venus E 8,2 kWh in combinatie met een dynamisch contract. Prijs per kWh, schaalbaarheid en de HA-integratie geven dan de doorslag. Het verschil van ruim €3.000 met een Sessy 10 kWh is genoeg voor een flinke uitbreiding van het zonnepanelenpakket.
 
-Maar mijn schoonmoeder (2.500 kWh, 3 kWp, geen techniek): Sessy 5 kWh. Punt. Setup in 30 minuten, geen tweaken, NL-support.
+Voor een huishouden met 2.500 kWh verbruik, 3 kWp en geen technische ambities is de afweging omgekeerd: Sessy 5 kWh. Setup in een half uur, niets te tweaken, Nederlandse support. De hogere prijs per kWh koop je dan bewust af tegen gemak.
 
 ---
 
@@ -317,19 +317,19 @@ Voor de eerlijkheid — niet iedereen moet kopen.
 - **Verbruik 's avonds tussen 18:00 en 22:00 piekt boven 5 kW.** Een Marstek met 2,2 kW vermogen kan dat niet leveren. Sessy met 3,7 kW vaste aansluiting wel — anders koop je een Powerwall.
 - **Geen toegang tot een meterkast met ruimte voor extra unit.** Marstek Venus E vereist 60×40×23 cm vrije ruimte plus aansluitkast. Bij krappe nieuwbouwmeterkasten is dit een serieuze bottleneck.
 
-## Mini case-study: rijtjeshuis Almere
+## Uitgewerkt scenario: rijtjeshuis met 14 panelen
 
-Klant H. (47, leerkracht, rijtjeshuis 1992, label B na isolatie, 14 zonnepanelen 5,8 kWp). Verbruik 4.100 kWh per jaar, geen warmtepomp. Tibber-contract sinds januari 2025.
+Een scenario dat dicht bij de gemiddelde Nederlandse situatie ligt: rijtjeshuis uit de jaren negentig, label B na isolatie, 14 zonnepanelen (5,8 kWp), 4.100 kWh verbruik per jaar, geen warmtepomp, dynamisch contract.
 
-We installeerden in maart 2026 een Marstek Venus E 8,2 kWh inclusief installatie door lokale eenmanszaak. Totaal investering inclusief 21 procent BTW: €2.625 (€2.299 batterij + €326 installatie). Home Assistant draaide al op een Raspberry Pi 4 — koppeling kostte één avond met community-template uit het HA-forum.
+Aanschaf in dit scenario: een Marstek Venus E 8,2 kWh met installatie door een lokale elektricien. Totaal inclusief 21% btw circa €2.625 (€2.299 batterij + €326 installatie). Draait er al Home Assistant, dan is de koppeling met een community-template uit het HA-forum een avondklus.
 
-Resultaat na zes maanden meten:
-- Eigen verbruik gestegen van 38 procent naar 76 procent
-- Arbitrage via Tibber: gemiddeld €31 per maand
-- Reductie netinkoop: 1.640 kWh per jaar
-- Totale jaarbesparing: €647
+Uitkomst van het model, met de aannames uit paragraaf 3:
+- Eigen verbruik stijgt van circa 38% naar 70-80%
+- Reductie netinkoop: in de orde van 1.500 kWh per jaar
+- Arbitrage op een dynamisch contract: enkele tientjes per maand, sterk afhankelijk van de prijsspreiding
+- Totale jaarwaarde: grofweg €500 tot €650
 
-Terugverdientijd 4,1 jaar. H. overweegt nu een tweede module voor 16,4 kWh als de saldering in 2027 stopt.
+Terugverdientijd in dit model: 4 tot 5 jaar. Wie zwaarder gaat verbruiken (warmtepomp, EV) kan later een tweede module bijzetten voor 16,4 kWh, wat vooral relevant wordt zodra de saldering in 2027 stopt.
 
 ## Garantie-praktijk en BTW
 

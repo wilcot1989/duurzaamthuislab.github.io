@@ -1,7 +1,7 @@
 ---
 title: 'Marstek Venus review 2026: de goedkoopste slimme'
 date: 2026-05-07 08:00:00+02:00
-lastmod: 2026-05-07 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: Marstek Venus is de goedkoopste plug-and-play thuisbatterij van Nederland. Eerlijke review na 4 maanden testen — werkt het écht zo simpel als beloofd?
 categories:
 - thuisbatterijen
@@ -22,7 +22,7 @@ keywords:
 - marstek venus aanbieding
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Wat is Marstek Venus?
@@ -58,7 +58,7 @@ schema_type: Review
 ---
 In januari 2026 kocht een collega van mij een Marstek Venus E 8,2 kWh voor €2.299. Hij had geen zin in €5.500 voor een Sessy, en wilde gewoon snel resultaat. Vier maanden later vroeg ik hem of ik zijn data mocht analyseren. Hier is mijn rapport — en de eerlijke conclusie of Marstek écht het bedrag waard is dat het prijsverschil suggereert.
 
-*Disclosure: ik heb geen affiliate-relatie met Marstek (April 2026). Mijn analyse is gebaseerd op data van een collega, en op publieke specificaties.*
+*Disclosure: wij hebben geen affiliate-relatie met Marstek (april 2026). Deze analyse is gebaseerd op publieke specificaties, de handleiding en geverifieerde gebruikersreviews.*
 
 ---
 

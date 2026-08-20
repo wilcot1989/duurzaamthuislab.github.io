@@ -1,7 +1,7 @@
 ---
 title: 'Goedkoopste thuisbatterij 2026: welke opties zijn er onder'
 date: 2026-04-29 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: Welke thuisbatterij geeft je de meeste waarde onder €3.000? Ik vergelijk Marstek Venus, BYD Battery-Box en meer.
 categories:
 - thuisbatterijen
@@ -21,7 +21,7 @@ keywords:
 - beste prijs thuisbatterij
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Zijn goedkope thuisbatterijen betrouwbaar?
@@ -50,7 +50,7 @@ Het antwoord is: ja. Maar met de juiste verwachtingen.
 
 In dit artikel bespreek ik de beste opties onder €3.000, waarom de prijs lager is (spoiler: niet omdat de cellen slechter zijn), en waar je op moet letten als je budget de begrenzende factor is.
 
-*Disclosure: ik heb een affiliaterelatie met Marstek.*
+*Disclosure: wij hebben een affiliate-relatie met Marstek. Dat verandert niets aan de vergelijking: die is gebaseerd op specificaties, handleidingen en publieke data.*
 
 ---
 

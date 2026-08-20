@@ -1,8 +1,8 @@
 ---
-title: 'Frank Energie review 2026: 24 maanden eerlijke ervaringen'
+title: 'Frank Energie ervaringen 2026: review, tarieven en nadelen'
 date: 2026-05-05 08:00:00+02:00
 lastmod: '2026-08-19 08:00:00+02:00'
-description: Frank Energie is de oudste NL dynamische leverancier. Volledige review na 24 maanden testen.
+description: 'Frank Energie ervaringen 2026: wat zeggen gebruikers over de app, tarieven en klantenservice? Review van het dynamische contract, kosten (€5/mnd) en de nadelen.'
 categories:
 - energie
 tags:
@@ -40,7 +40,7 @@ faq:
   a: 'App is functioneel maar minder polished dan Tibber. Geen native EV-integratie — je hebt third-party app of slimme laadpaal nodig voor automatisch laden. Geen smart-home automation features. Voor wie die features wil: kies Tibber.'
 products:
 - name: Frank Energie
-  url: https://www.frankenergie.nl/
+  url: https://go.duurzaamthuislab.nl/frank-energie
   price: '0'
 - name: Tibber (alternatief)
   url: https://go.duurzaamthuislab.nl/tibber
@@ -50,22 +50,27 @@ products:
   price: '0'
 schema_type: Review
 ---
+> **Frank Energie ervaringen — kort antwoord**
+>
+> **Wat zeggen gebruikers?** In publieke gebruikersreviews en op Nederlandse energiefora komen bij Frank Energie steeds vier dingen terug: de rekening is per uur na te rekenen tegen publieke marktdata, er is écht telefonische klantenservice, de app is functioneel maar soberder dan die van Tibber, en er is geen automatische sturing van EV of apparaten — dat regel je zelf.
+>
+> **Waar komt dat vandaan?** Frank rekent de EPEX day-ahead-uurprijs zonder marge plus €5,00 servicegeld per maand (publiek tariefblad, 2026). Omdat de EPEX-prijzen openbaar zijn, is elke factuurregel controleerbaar. Dat verklaart waarom "transparant" het woord is dat het vaakst valt.
+>
+> **De klachten** gaan bijna nooit over de prijs, maar over verwachting en functies: geen native EV-laden, geen piekdemping bij extreme uurprijzen, en een app zonder de meldingen en dashboards die Tibber-gebruikers gewend zijn.
+>
+> **Kort oordeel:** in pure euro's is Frank in 2026 de scherpste dynamische leverancier van Nederland; Tibber is de betere keus als je een EV hebt of alles geautomatiseerd wil. Het verschil tussen die twee zit in de functies, niet in de prijs.
+>
+> **Belangrijk:** wij baseren dit op publieke tariefbladen, EPEX-marktdata, de voorwaarden van de aanbieders en verzamelde gebruikersreviews — niet op eigen metingen.
+
 Frank Energie werkt met een model dat weinig ruimte laat voor discussie: de pure marktprijs zonder marge, een vast servicegeld per maand, en maandelijks opzegbaar. Dat is te controleren, want de EPEX day-ahead-prijzen waarop je factuur is gebaseerd zijn publiek.
 
-Onze conclusie: Frank is in 2026 de scherpste dynamische leverancier in pure euro's, met een klein verschil ten opzichte van Tibber. Het onderscheid tussen die twee zit niet in de prijs maar in de functies — en daarover hieronder meer.
+Hieronder de volledige review: waar de gebruikerservaringen vandaan komen, wat Frank goed en minder goed doet, wat het per jaar kost, en wanneer Tibber of ANWB een betere keus is.
 
-In dit artikel: 24 maanden Frank in cijfers, voor- en nadelen, en wanneer Tibber een betere keus is.
-
-*Disclosure: dit artikel bevat een affiliate-link. Onze beoordeling is gebaseerd op de publieke tariefbladen, de EPEX day-ahead-marktdata, de voorwaarden van de aanbieders en geverifieerde gebruikersreviews — niet op de affiliate-vergoeding.*
+*Disclosure: dit artikel bevat affiliate-links. Onze beoordeling is gebaseerd op de publieke tariefbladen, de EPEX day-ahead-marktdata, de voorwaarden van de aanbieders en geverifieerde gebruikersreviews — niet op de affiliate-vergoeding.*
 
 ---
 
-
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Frank Energie is de oudste NL dynamische leverancier. Volledige review na 24 maanden testen.
->
-> Frank Energie is een Nederlandse energieleverancier opgericht in 2018 door Frank van Boekel. Ze leveren stroom en gas op een dynamisch contract — je betaalt elk uur de actuele EPEX-marktprijs zonder opslag, plus een vast servicegeld van €5,00/maand. Eén van de pioniers van dynamische tarieven in Nederland.
 
 ## Wat is Frank Energie?
 
@@ -217,6 +222,20 @@ Dat is het punt waarop Frank zich onderscheidt van Tibber, dat alleen chat aanbi
 
 Loopt een klacht toch vast, dan is je route de Geschillencommissie Energie, waarbij alle Nederlandse leveranciers zijn aangesloten.
 
+## Wat zegt de Consumentenbond over Frank Energie?
+
+Dit is een van de meest gestelde vervolgvragen, en het antwoord is korter dan mensen verwachten: **de Consumentenbond heeft geen eigen test of beoordeling van Frank Energie gepubliceerd.**
+
+Wat er wél is: Frank Energie staat in de energievergelijker van de Consumentenbond, op de [lijst van leveranciers waarmee zij samenwerken](https://www.consumentenbond.nl/energie-vergelijken/energieleveranciers) (stand mei 2026, samen met onder andere Eneco, Essent, Greenchoice, Tibber, Vattenfall en Vandebron). De Consumentenbond vermeldt daarbij expliciet dat die vergelijker prijzen en voorwaarden van samenwerkende leveranciers naast elkaar zet — het is dus een prijsvergelijking, geen kwaliteitsonderzoek en geen keurmerk.
+
+Wat dat praktisch betekent:
+
+- **Opname in de vergelijker is geen aanbeveling.** Wie ergens leest dat Frank "door de Consumentenbond wordt aangeraden", verwart de vergelijker met een test.
+- **Er is geen recent klanttevredenheidscijfer** van de Consumentenbond voor dynamische leveranciers waarmee je Frank en Tibber tegen elkaar kunt afwegen.
+- **Voor een onafhankelijke prijscheck is de vergelijker wel nuttig**, juist omdat servicegelden regelmatig wijzigen. Controleer daar het actuele servicegeld voordat je overstapt — de bedragen in dit artikel zijn een momentopname.
+
+Voor de kwaliteitskant moet je het dus doen met verzamelde gebruikersreviews en met wat objectief te controleren is: het tariefblad, de voorwaarden en de EPEX-marktdata. Dat is precies de basis waarop deze review is opgebouwd.
+
 ## Voor wie is Frank Energie slim?
 
 ✅ **Goede match**:
@@ -234,11 +253,11 @@ Loopt een klacht toch vast, dan is je route de Geschillencommissie Energie, waar
 
 ## Onze aanbeveling
 
-Voor de gemiddelde Nederlandse zonnepaneelbezitter is Frank Energie in 2026 de slimste keuze. Het scheelt €700-€900 per jaar vergeleken met vast contract, geen verrassingen, NL-bedrijf, eerlijke prijs.
+Voor de gemiddelde Nederlandse zonnepaneelbezitter is Frank Energie in 2026 de slimste keuze: geen marge op de stroomprijs, geen voorschotcorrectie, een Nederlands bedrijf en een rekening die je zelf kunt narekenen. In onze modelberekeningen hierboven scheelt dat €700-€900 per jaar ten opzichte van een vast contract — met de nadrukkelijke kanttekening dat die uitkomst van je verbruiksprofiel en van de prijsspreiding in het jaar afhangt.
 
-Voor EV-bezitters: kies Tibber. De native EV-integratie is €30-€60/maand waard.
+Voor EV-bezitters die niet zelf willen instellen: kies Tibber. Hoeveel de native EV-integratie oplevert, hangt af van je jaarkilometers en de spreiding tussen nacht- en dagtarief; reken dat uit met je eigen verbruik in plaats van met een standaardbedrag.
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a> · [Tibber review →](/posts/tibber-review-ervaringen-2026/)
+<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/posts/frank-energie-review-ervaringen-2026/" class="cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk het dynamische tarief van Frank Energie</a> · [Tibber review →](/posts/tibber-review-ervaringen-2026/)
 
 ---
 
@@ -351,7 +370,7 @@ Voor wie zonnepanelen heeft en zich op de afbouw van de saldering voorbereidt, i
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Frank Energie</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/posts/frank-energie-review-ervaringen-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk Frank Energie</a>
 
 ## Onze aanbeveling voor specifieke huishoudprofielen
 
@@ -364,7 +383,7 @@ Frank Energie is hier de beste keuze. Weinig verbruik, geen EV, koken op gas (of
 Frank Energie wint. Hoog verbruik + zonnepanelen = maximale teruglevering tegen EPEX-tarief. Geen EV-feature nodig. Besparing vs Eneco: €750-€900/jaar.
 
 **Profiel 3: Gezin met EV (Tesla Model 3), 5.500 kWh totaal**
-Tibber wint. Native Tesla-integratie bespaart €40-€70/maand op laadkosten. Het hogere servicegeld (€12/jaar meer dan Frank) is terugverdiend in de eerste week.
+Tibber wint. De native Tesla-integratie schuift het laden automatisch naar de goedkoopste uren, wat bij dit laadvolume vrijwel zeker meer oplevert dan het verschil in servicegeld (€12 per jaar). Het exacte bedrag hangt af van je jaarkilometers en de prijsspreiding.
 
 **Profiel 4: ZZP'er die thuiswerkt, 3.800 kWh, laptop + airco + warmtepomp**
 Frank Energie + Home Assistant. De warmtepomp op dynamische prijs sturen via Home Assistant + Frank API bespaart €200-€300/jaar extra. Tibber's native features zijn minder relevant als je toch HA gebruikt.
@@ -417,7 +436,7 @@ Er zijn inmiddels vijf serieuze aanbieders van dynamische contracten in Nederlan
 Frank is niet voor iedereen de juiste keuze. Vijf redenen om het niet te doen:
 
 **Reden 1: Je hebt een EV en wil native slim laden**
-Tibber's EV-integratie bespaart EV-rijders €30-€60 per maand. Frank heeft dat niet. Over een jaar is dat €360-€720 meer besparing bij Tibber. Dat compenseert ruimschoots het hogere servicegeld (€12/jaar) en dan nog.
+Tibber laadt je auto automatisch op de goedkoopste uren; Frank heeft die functie niet. Het voordeel daarvan is bij veel laadkilometers groter dan het verschil in servicegeld (€12 per jaar), maar het exacte bedrag hangt af van je jaarkilometers en de prijsspreiding — reken het na met je eigen laadverbruik. Bij Frank kun je hetzelfde bereiken met EVCC, maar dan moet je het zelf instellen.
 
 **Reden 2: Je wil maximale automatisering zonder technische kennis**
 Frank + Home Assistant = powerful maar je moet het zelf instellen. Tibber doet meer out-of-the-box. Voor mensen die geen tijd of zin hebben om te tweaken: Tibber is gebruiksvriendelijker.

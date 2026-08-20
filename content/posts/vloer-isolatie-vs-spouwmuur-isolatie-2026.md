@@ -1,7 +1,7 @@
 ---
 title: Vloerisolatie vs spouwmuurisolatie
 date: 2026-05-23 08:00:00+02:00
-lastmod: 2026-05-23 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: 'Vloerisolatie of spouwmuurisolatie: wat geeft het meeste rendement per geïnvesteerde euro? Vergelijking op besparing, kosten.'
 categories:
 - isolatie
@@ -43,11 +43,11 @@ products:
   price: '20'
 schema_type: Article
 ---
-Mijn woning had drie isolatiezwakke plekken die ik achtereenvolgens heb aangepakt: spouwmuren, begane grondvloer en het dak. Nu ik alle drie heb gedaan én de rekeningen van de afgelopen drie jaar naast elkaar heb gelegd, kan ik met zekerheid zeggen welke maatregel per geïnvesteerde euro het meeste heeft opgeleverd.
+Een typische Nederlandse woning van voor 1985 heeft drie isolatiezwakke plekken: de spouwmuren, de begane grondvloer en het dak. De vraag die daarbij hoort is welke maatregel per geïnvesteerde euro het meeste oplevert — en dat is niet de maatregel die het meeste kost.
 
 In dit artikel leg ik de vergelijking vast: spouwmuurisolatie versus vloerisolatie via de kruipruimte. Beide zijn populaire en relatief goedkope ingrepen voor woningen met een kruipruimte en spouwmuren — de standaard situatie bij Nederlandse rijtjeswoningen en twee-onder-een-kapwoningen van bouwjaar 1930-1985.
 
-*Dit artikel bevat geen affiliate links voor isolatieproducten. Ik noem merken puur als referentie.*
+*Deze pagina bevat geen affiliate-links voor isolatieproducten. Merken worden alleen als referentie genoemd.*
 
 ---
 
@@ -221,18 +221,18 @@ De SEEH-regeling biedt een hoger subsidiepercentage (35-40% in plaats van 30%) a
 
 ## De combinatie: spouwmuur én vloer
 
-In mijn eigen situatie heb ik beide gedaan: eerst spouwmuurisolatie (2022), daarna vloerisolatie (2023). De gecombineerde besparing is niet de som van de twee aparte besparingen, maar iets lager vanwege interactie-effecten: als de muren beter isoleren, stijgt de stookefficiëntie al, waardoor de absolute winst van de vloerisolatie iets kleiner is.
+Wie beide maatregelen neemt — eerst spouwmuurisolatie, daarna vloerisolatie — moet erop rekenen dat de gecombineerde besparing lager uitvalt dan de som van de twee afzonderlijke besparingen. Dat komt door interactie-effecten: zodra de muren beter isoleren stijgt de stookefficiëntie al, waardoor de absolute winst van de vloerisolatie daarna kleiner is.
 
-**Mijn werkelijke resultaten:**
+**Rekenvoorbeeld met expliciete aannames** (geen meting; uitgangspunt is een rijtjeswoning uit de jaren zestig met een gasverbruik van circa 1.580 m³ en een gasprijs van €1,10 per m³):
 
-| Jaar | Gasverbruik | Verandering |
+| Stap | Gasverbruik in het model | Verandering |
 |------|------------|-------------|
-| 2021 (geen isolatie) | 1.580 m3 | — |
-| 2022 (na spouwmuur) | 1.240 m3 | -340 m3 (€374 bespaard) |
-| 2023 (na vloer) | 1.100 m3 | -140 m3 (€154 bespaard) |
-| 2024 (thermostaat en kierdichting) | 960 m3 | -140 m3 |
+| Uitgangssituatie (geen isolatie) | 1.580 m³ | — |
+| Na spouwmuurisolatie | 1.240 m³ | −340 m³ (circa €374) |
+| Na vloerisolatie | 1.100 m³ | −140 m³ (circa €154) |
+| Na slimme thermostaat en kierdichting | 960 m³ | −140 m³ (circa €154) |
 
-De spouwmuurisolatie leverde ruim twee keer meer op dan de vloerisolatie, exact in lijn met de theorie.
+In dit model levert spouwmuurisolatie ruim twee keer zoveel op als vloerisolatie — in lijn met wat je op basis van de warmteverliesberekening zou verwachten, omdat het muuroppervlak groter is en het temperatuurverschil met de buitenlucht groter dan met de kruipruimte.
 
 ---
 
@@ -383,19 +383,19 @@ Als je offertes aanvraagt voor spouwmuurisolatie of vloerisolatie, zijn dit de a
 
 ---
 
-## Mijn persoonlijke aanbeveling na drie jaar verduurzamen
+## Onze aanbeveling: de volgorde die het meeste rendement geeft
 
-Ik heb mijn woning de afgelopen drie jaar stap voor stap verduurzaamd. Dit is de volgorde die ik zou aanbevelen op basis van rendement:
+Op basis van de bovenstaande rekenvoorbeelden en de rendementscijfers per maatregel is dit de volgorde die we aanraden:
 
-1. **Kierdichting (jaar 1, €94):** meeste rendement per euro, direct te doen, terugverdientijd 4 maanden. Begin hier altijd.
+1. **Kierdichting (circa €100):** het hoogste rendement per euro en zelf te doen. De terugverdientijd is in vrijwel elk rekenvoorbeeld minder dan een jaar. Begin hier altijd.
 
-2. **Spouwmuurisolatie (jaar 1, €1.100):** daarna de grootste stap. Mijn gasverbruik daalde van 1.580 m3 naar 1.240 m3 (-340 m3, -€374/jaar).
+2. **Spouwmuurisolatie (circa €1.100):** daarna de grootste stap. In het rekenvoorbeeld hierboven daalt het gasverbruik met ongeveer 340 m³ per jaar, wat bij €1,10 per m³ neerkomt op circa €374.
 
-3. **Vloerisolatie (jaar 2, €1.250):** zinvol als aanvulling, maar lager rendement dan spouwmuur. Mijn gasverbruik daalde van 1.240 m3 naar 1.100 m3 (-140 m3, -€154/jaar).
+3. **Vloerisolatie (circa €1.250):** zinvol als aanvulling, maar met een lager rendement dan de spouwmuur — in het rekenvoorbeeld ongeveer 140 m³ per jaar, dus circa €154.
 
-4. **Hybride warmtepomp (jaar 2):** de grote stap die het gasverbruik halveert. Pas zinvol nadat de makkelijke isolatiemaatregelen zijn gedaan.
+4. **Hybride warmtepomp:** de grote stap die het resterende gasverbruik ongeveer halveert. Pas zinvol nadat de makkelijke isolatiemaatregelen zijn gedaan, omdat de warmtepomp anders op een te hoge aanvoertemperatuur moet werken.
 
-Wie dit pad volgt, kan zijn gasverbruik in drie jaar halveren of meer — zonder volledig van gas af te zijn en zonder torenhoge investeringen.
+Wie dit pad volgt kan het gasverbruik in enkele jaren ongeveer halveren zonder volledig van het gas af te gaan en zonder een investering in één keer.
 
 De combinatie spouwmuur + vloerisolatie + kierdichting heeft mij €628/jaar besparing opgeleverd bij een totale investering van €2.444 (inclusief materialen kierdichting). Netto rendement na SEEH-subsidie: terugverdientijd 2,8 jaar. Daarna: puur winst.
 
@@ -482,7 +482,7 @@ Besparing in euro's is het meest meetbare voordeel, maar het comfortvoordeel is 
 - Minder temperaturverschil tussen hoofd en voeten (thermisch comfort-parameter)
 - Minder geluidsoverdracht via de vloer bij houten balkenconstructie (geluidsisolerende bijwerking van de isolatiemateriaal)
 
-Ik heb bewoners gesproken die zeggen dat de vloerisolatie meer directe comfortwinst gaf dan de spouwmuurisolatie — ook al was de financiële besparing kleiner. Comfort is subjectief maar reëel.
+In gebruikerservaringen komt opvallend vaak terug dat vloerisolatie méér directe comfortwinst geeft dan spouwmuurisolatie, ook al is de financiële besparing kleiner. Comfort is subjectief, maar het is wel de reden dat weinig mensen spijt hebben van vloerisolatie.
 
 ---
 

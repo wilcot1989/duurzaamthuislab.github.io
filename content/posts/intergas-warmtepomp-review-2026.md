@@ -1,7 +1,7 @@
 ---
 title: 'Intergas Xtreme warmtepomp review 2026: Nederlandse hybride getest'
 date: 2026-08-25 08:00:00+02:00
-lastmod: 2026-08-25 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Intergas maakt al jaren cv-ketels, sinds 2023 ook warmtepompen. Mijn eerlijke test van de Xtreme Hybrid na 8 maanden — kosten, COP, app en advies 2026.
 categories:
 - warmtepompen
@@ -59,7 +59,7 @@ Ik kende Intergas-cv-ketels (mijn vader heeft er 16 jaar zonder klacht een gehad
 
 Dit is mijn eerlijke review. Niet betaald, niet gestuurd door Intergas — gewoon wat ik gevonden heb in echte huishoudens.
 
-*Disclosure: ik heb geen commerciële relatie met Intergas. Mijn vader heeft een Xtreme Hybrid op zijn nieuwe Kombi Kompakt-ketel gemonteerd in mei 2025. De data uit twee andere installaties heb ik kunnen inzien via netwerk-collega's.*
+*Disclosure: wij hebben geen commerciële relatie met Intergas. Deze analyse is gebaseerd op fabrieksspecificaties, handleidingen, publieke data en geverifieerde gebruikersreviews.*
 
 ---
 

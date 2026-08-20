@@ -1,7 +1,7 @@
 ---
 title: 'Warmtepomp vs hybride warmtepomp: wat is slimmer in 2026?'
 date: 2026-05-15 08:00:00+02:00
-lastmod: 2026-05-15 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Warmtepomp of hybride warmtepomp? Vergelijking op COP, ISDE-subsidie, terugverdientijd en geschiktheid. Met rekenvoorbeelden voor jouw situatie.
 categories:
 - warmtepompen

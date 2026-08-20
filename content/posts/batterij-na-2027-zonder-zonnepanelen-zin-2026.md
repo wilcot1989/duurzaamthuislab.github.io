@@ -1,7 +1,7 @@
 ---
 title: 'Thuisbatterij Zonder Zonnepanelen: Heeft Het Zin in 2027?'
 date: 2026-06-23 09:00:00+01:00
-lastmod: 2026-06-23 09:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Heeft een thuisbatterij zonder zonnepanelen zin in 2027? Met een dynamisch energiecontract en slimme thuisbatterij kun je toch besparen op je energierekening.
 categories:
 - thuisbatterijen

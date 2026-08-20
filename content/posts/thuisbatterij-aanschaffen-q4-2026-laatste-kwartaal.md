@@ -1,7 +1,7 @@
 ---
 title: 'Thuisbatterij aanschaffen Q4 2026: piekkwartaal van het jaar'
 date: 2026-10-22 08:00:00+02:00
-lastmod: 2026-10-22 08:00:00+02:00
+lastmod: '2026-08-19 08:00:00+02:00'
 draft: false
 description: 'Q4 2026 = piek thuisbatterij-bestellingen voor 2027-installatie. Levertijden Sessy, Marstek en Anker Solix vergeleken, plus wat dit betekent voor je timing.'
 categories:
@@ -56,7 +56,7 @@ category: thuisbatterij
 
 Eind september 2026 was ik bij een vriend van een vriend in Zwolle. Marc had net besloten dat hij voor het einde van het jaar een thuisbatterij wilde hebben staan om "de transitie binnen te zijn". Hij belde drie installateurs op een dinsdagochtend. De eerste twee namen niet eens op, de derde kon hem inplannen voor 12 januari 2027. "Mark," vroeg hij me toen, "is dit normaal of word ik aan de kant gezet?" Het antwoord is dat hij niet aan de kant werd gezet — hij was gewoon ineens onderdeel van een tsunami die ik al een half jaar zag aankomen. In dit artikel leg ik uit wat er in Q4 2026 in de thuisbatterij-markt gebeurt en welke merken nog wel op tijd leverbaar zijn.
 
-*Sommige links in dit artikel zijn affiliate-links (Sessy, Marstek, Anker Solix, Tibber). Klik je en koop je iets, dan krijg ik een kleine vergoeding. Je betaalt geen cent extra en mijn advies blijft hetzelfde, ook als het tegen mijn portemonnee in gaat.*
+*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 > **Kort antwoord:** Q4 2026 is het drukste batterij-kwartaal ooit in Nederland. Levertijden lopen op van 3 weken (begin oktober) naar 8+ weken (eind november). Wie nog in 2026 wil installeren, moet uiterlijk eind oktober bestellen. Sessy en Marstek hebben beide nog beperkte capaciteit; Anker Solix is sneller leverbaar maar minder service-rijk in Nederland. Voor de meeste mensen is wachten tot februari 2027 financieel verstandiger.
 

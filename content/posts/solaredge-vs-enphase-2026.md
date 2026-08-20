@@ -1,7 +1,7 @@
 ---
 title: 'SolarEdge vs Enphase 2026: Welke Omvormer is Beter?'
 date: 2026-04-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: 'SolarEdge vs Enphase vergeleken: technologie, prijs, monitoring en betrouwbaarheid. Ontdek welke omvormer het beste past bij jouw zonnepanelen-installatie.'
 categories:
 - zonnepanelen
@@ -19,7 +19,7 @@ keywords:
 - beste omvormer zonnepanelen
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Wat is het verschil tussen SolarEdge en Enphase?
@@ -27,7 +27,7 @@ faq:
 - q: 'Welke omvormer is goedkoper: SolarEdge of Enphase?'
   a: SolarEdge is doorgaans 20-30% goedkoper dan Enphase voor een vergelijkbare installatie. Voor 10 panelen kost SolarEdge circa €1.000-€1.800, terwijl Enphase €1.500-€2.500 kost. Het prijsverschil wordt kleiner bij grotere installaties.
 - q: Welke omvormer is betrouwbaarder?
-  a: 'Enphase micro-omvormers hebben geen single point of failure: als één micro-omvormer uitvalt, werken de andere gewoon door. Bij SolarEdge kan een defecte centrale omvormer je hele systeem platleggen. Enphase heeft een gemiddelde uitvalrate van minder dan 0,05% per jaar.'
+  a: 'Enphase micro-omvormers hebben geen single point of failure: als één micro-omvormer uitvalt, werken de andere gewoon door. Bij SolarEdge kan een defecte centrale omvormer je hele systeem platleggen. Enphase geeft zelf een gemiddelde uitvalrate op van minder dan 0,05% per jaar.'
 - q: Kan ik een thuisbatterij koppelen aan SolarEdge en Enphase?
   a: Ja, beide merken bieden eigen batterijoplossingen. SolarEdge heeft de Home Battery (4,6-23 kWh) en Enphase de IQ Battery (3,36-42 kWh). Beide integreren naadloos met hun eigen omvormersysteem.
 - q: Welke omvormer is beter bij schaduw?
@@ -43,7 +43,7 @@ products:
   price: '1800'
 schema_type: Article
 ---
-Ik heb zelf voor een Huawei omvormer gekozen, maar als mensen mij vragen naar de premium markt komt het altijd neer op SolarEdge of Enphase. Beide optimaliseren elk paneel individueel, maar de technologie erachter verschilt fundamenteel. Ik heb installateurs gesproken, storingsdata vergeleken en de totaalkosten voor een installatie van 16 panelen doorgerekend. Hier is mijn conclusie.
+In het premiumsegment van de omvormermarkt komt de keuze bijna altijd neer op SolarEdge of Enphase. Beide optimaliseren elk paneel individueel, maar de technologie erachter verschilt fundamenteel: SolarEdge werkt met een centrale omvormer plus optimizers, Enphase met een micro-omvormer per paneel. In dit artikel vergelijken we specificaties, garantievoorwaarden en de totale kosten over de levensduur, met een doorgerekend model voor een installatie van 16 panelen.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
@@ -151,14 +151,14 @@ De Enphase monitoring biedt:
 Dit is een cruciaal verschil.
 
 ### SolarEdge
-- Power optimizers zijn zeer betrouwbaar (25 jaar garantie, uitvalrate <0,1%)
+- Power optimizers gelden als betrouwbaar; SolarEdge geeft er 25 jaar garantie op
 - De **centrale omvormer** is de kwetsbare schakel: bij een defect valt je hele systeem uit
-- SolarEdge heeft in het verleden problemen gehad met bepaalde omvormer-batches
+- De standaardgarantie op die omvormer is 12 jaar, tegen betaling te verlengen tot 25 jaar
 - Vervanging van de omvormer kost €600-€1.200 (na garantie)
 
 ### Enphase
 - Geen single point of failure: als één micro-omvormer uitvalt, produceren de rest gewoon door
-- Uitvalrate micro-omvormers: <0,05% per jaar (industrieleider)
+- Uitvalrate micro-omvormers: volgens opgave van Enphase minder dan 0,05% per jaar
 - Bij een defecte micro krijg je onder garantie direct een vervangend exemplaar
 - 25 jaar standaardgarantie op alle componenten
 
@@ -196,7 +196,7 @@ Beide systemen presteren beter dan traditionele string-omvormers (zonder optimiz
 ### SolarEdge Home Battery
 - Capaciteit: 4,6 kWh of 9,7 kWh (stapelbaar tot 23 kWh)
 - Prijs: €3.000-€5.500
-- DC-gekoppeld: hogere efficiëntie (rond-trip 90%)
+- DC-gekoppeld: hogere rond-trip efficiëntie dan AC-koppeling
 - Vereist SolarEdge omvormer
 
 ### Enphase IQ Battery
@@ -209,23 +209,17 @@ Beide systemen presteren beter dan traditionele string-omvormers (zonder optimiz
 
 Bekijk onze [beste thuisbatterij vergelijking](/posts/beste-thuisbatterij-nederland-2026/) voor meer opties.
 
-## Installatiepraktijk: wat installateurs aanbevelen
+## Installatiepraktijk: waarop de keuze in offertes neerkomt
 
-Ik heb gesprekken gevoerd met vijf gecertificeerde installateurs (uit de provincies Utrecht, Noord-Holland en Gelderland) om te horen hoe zij in de praktijk kiezen tussen SolarEdge en Enphase.
+Wie meerdere offertes naast elkaar legt, ziet meestal hetzelfde onderliggende afwegingskader terugkomen. Het is nuttig om die logica te kennen voordat je met een installateur in gesprek gaat.
 
-**Installateur A (Utrecht, 120 installaties per jaar):**
-"Wij adviseren standaard SolarEdge voor daken zonder schaduw. Bij dakkapellen of bomen gaan we direct naar Enphase. Het prijsverschil is voor klanten voelbaar maar de betrouwbaarheid van Enphase is sectorbreed erkend."
+**Het dak bepaalt de eerste selectie.** Bij een rechthoekig dak op één oriëntatie zonder obstakels leveren beide systemen praktisch dezelfde opbrengst; dan wint de goedkoopste oplossing, en dat is doorgaans SolarEdge. Zodra er dakkapellen, schoorstenen, bomen of meerdere oriëntaties in het spel zijn, wordt de volledige onafhankelijkheid per paneel van Enphase een concreet technisch argument in plaats van een marketingpunt.
 
-**Installateur B (Amsterdam, 80 installaties per jaar):**
-"In de Randstad hebben we veel stadswoningen met complexe dakvormen. Enphase is onze standaard geworden — minder uitleggen, minder telefoontjes achteraf over schaduw. SolarEdge wordt bij ons nog alleen gedaan als de klant er specifiek om vraagt vanwege de prijs."
+**De verwachte eigendomsduur bepaalt de tweede.** SolarEdge geeft standaard 12 jaar garantie op de centrale omvormer, Enphase 25 jaar op elke micro-omvormer (zie de garantietabel hierboven). Wie verwacht binnen tien jaar te verhuizen, loopt het risico van een omvormervervanging niet zelf; wie voor de lange termijn koopt wel.
 
-**Installateur C (Veluwe, 200 installaties per jaar):**
-"Landelijk gebied, grote daken, weinig schaduw. SolarEdge is hier de norm — hogere marge, eenvoudigere installatie. Enphase doen we bij schaduwrijke situaties en als klanten aandringen op maximale betrouwbaarheid."
+**De installatiepraktijk zelf verschilt ook.** SolarEdge vraagt DC-bekabeling naar één centraal punt, Enphase alleen AC-bekabeling. Installateurs die veel op complexe stadsdaken werken kiezen daarom vaker voor micro-omvormers; bij grote, eenvoudige daken weegt de lagere materiaalprijs van een stringsysteem zwaarder.
 
-**Installateur D (Limburg, 60 installaties per jaar):**
-"Wij zijn voorstander van Enphase voor woningen die langdurig bezeten worden. De 25-jaar garantie geeft klanten rust en voorkomt dat ze over 10 jaar bij ons terugkomen met een kapotte centrale omvormer die buiten garantie valt."
-
-**Patroon:** SolarEdge domineert in landelijk/grote-dak-segment; Enphase groeit in stedelijk/complexe-daken-segment.
+Vraag altijd naar de reden achter het advies. Een installateur die één merk aanbiedt zonder uit te leggen waarom dat bij jouw dak past, geeft geen advies maar een voorkeursleverancier door.
 
 ## Wanneer kies je welke?
 
@@ -239,101 +233,74 @@ Ik heb gesprekken gevoerd met vijf gecertificeerde installateurs (uit de provinc
 | SolarEdge batterij gewenst | **SolarEdge** | Beste DC-koppeling |
 | Maximum garantie belangrijk | **Enphase** | 25 jaar standaard |
 
-## Praktijkgeval: 16-paneelinstallatie — SolarEdge vs Enphase doorgerekend
+## Rekenvoorbeeld: 16 panelen, SolarEdge versus Enphase
 
-Ik heb voor een collega beide systemen offertes laten aanvragen. Zijn dak: halve schaduw door dakkapel 's ochtends, de rest van de dag vrij. Dit is precies het type situatie waar het verschil zichtbaar wordt.
+Onderstaande vergelijking is een modelberekening op basis van de componentprijzen eerder in dit artikel, niet een uitgebrachte offerte. Vraag altijd je eigen offertes op.
 
-**Offerte A: SolarEdge SE6000H + 16x P404 optimizer + 16x Trina 440 Wp**
+**Aannames van het model:**
+- 16 panelen van 440 Wp, samen 7,04 kWp
+- Eén dakvlak, met 's ochtends schaduw van een dakkapel op twee panelen
+- SolarEdge: één omvormer in de klasse SE6000H plus 16 power optimizers, geprijsd binnen de bandbreedtes uit de prijstabel hierboven
+- Enphase: 16 micro-omvormers in de IQ8-klasse plus één IQ Gateway, idem
+- Panelen, montagemateriaal en arbeid zijn bij beide varianten gelijk en vallen daarom buiten de vergelijking
+- Stroomprijs 0,30 euro per kWh, vlak over de looptijd
 
-| Component | Prijs |
-|---|---|
-| SolarEdge SE6000H omvormer | €1.050 |
-| 16x P404 power optimizer | €780 |
-| 16x Trina Vertex S+ 440 Wp | €1.760 |
-| Montage, bekabeling, installatie | €780 |
-| **Totaal** | **€4.370** |
+**Uitkomst van het model — verschil in systeemkosten:**
 
-**Offerte B: 16x Enphase IQ8+ micro-omvormer + 16x Trina 440 Wp + IQ Gateway**
+| Post | SolarEdge | Enphase |
+|---|---|---|
+| Omvormer respectievelijk micro-omvormers | €600-€1.200 | €2.400-€3.200 |
+| Optimizers (16 stuks) | €640-€960 | niet van toepassing |
+| Gateway / communicatiemodule | inbegrepen | €300-€400 |
+| **Subtotaal elektronica** | **€1.240-€2.160** | **€2.700-€3.600** |
 
-| Component | Prijs |
-|---|---|
-| 16x Enphase IQ8+ micro-omvormer | €2.560 |
-| 16x Trina Vertex S+ 440 Wp | €1.760 |
-| Enphase IQ Gateway + installatie | €850 |
-| Montage, bekabeling | €640 |
-| **Totaal** | **€5.810** |
+Het model komt daarmee op een meerprijs voor Enphase van grofweg 1.000 tot 1.500 euro bij 16 panelen. Die bandbreedte is breed omdat inkoopprijzen per installateur sterk verschillen.
 
-Prijsverschil: **€1.440** in het voordeel van SolarEdge.
+**Wat het opbrengstverschil bij schaduw waard is**
 
-**Opbrengstberekening met gedeeltelijke schaduw (dakkapel, 's ochtends 2 panelen in schaduw):**
+Zowel power optimizers als micro-omvormers voorkomen dat schaduw op één paneel de hele string meesleurt. Het resterende verschil zit in de mate waarin een paneel volledig onafhankelijk werkt. Betrouwbare, onafhankelijk gemeten cijfers voor dat verschil per dakvorm zijn niet publiek beschikbaar, dus we rekenen met een bandbreedte:
 
-| Systeem | Opbrengst zonder schaduw | Met schaduw | Verlies |
-|---|---|---|---|
-| SolarEdge | 7.040 kWh/jr | 6.690 kWh/jr | 350 kWh (5%) |
-| Enphase | 7.040 kWh/jr | 6.885 kWh/jr | 155 kWh (2,2%) |
-| **Verschil** | | | 195 kWh/jr |
+- Bij 1 tot 2 panelen met tijdelijke ochtendschaduw is het verschil in jaaropbrengst klein. Neem als bovengrens een verschil van enkele procenten op de opbrengst van die twee panelen, in de orde van 100 tot 200 kWh per jaar op een systeem van deze grootte.
+- Bij 0,30 euro per kWh komt dat uit op circa 30 tot 60 euro per jaar.
 
-Bij een stroomprijs van €0,30/kWh: 195 kWh verschil = **€58,50 per jaar** meer opbrengst bij Enphase.
+**Uitkomst van het model — terugverdientijd van de meerprijs**
 
-**Financieel: wanneer verdient Enphase de meerprijs terug?**
+Met een meerprijs van circa 1.200 euro en een opbrengstvoordeel van 30 tot 60 euro per jaar, verdient het opbrengstvoordeel alléén de meerprijs niet binnen de levensduur terug. Enphase kiezen is bij lichte schaduw dus geen opbrengstbeslissing maar een garantie- en risicobeslissing: de standaard 25 jaar garantie tegenover 12 jaar plus een verlengingsbedrag bij SolarEdge, en het ontbreken van een single point of failure.
 
-Enphase meerprijs: €1.440
-Extra jaaropbrengst: €58,50
-Terugverdientijd meerprijs: €1.440 / €58,50 = **24,6 jaar**
-
-Bij een levensduur van 25 jaar is de extra opbrengst net genoeg om de meerprijs goed te maken. Maar dan alleen de opbrengst. Als je ook meegerekent dat de garantieverlenging van SolarEdge (€280 voor 25 jaar) nodig is, wordt het plaatje iets gunstiger voor Enphase.
-
-**Mijn advies voor deze situatie:** SolarEdge wint op financieel rendement, ook met de gedeeltelijke schaduw. Enphase zou ik kiezen als de schaduw ernstiger is (bijv. 4+ panelen consistent 's middags in schaduw) of als de installateur een hogere garantie geeft op de micro-omvormers.
+**Onze inschatting voor dit scenario:** bij lichte, tijdelijke schaduw op een enkel dakvlak is SolarEdge financieel de scherpste keuze. Enphase wordt de betere keuze bij zwaardere of langdurige schaduw, bij meerdere dakoriëntaties, en bij een lange verwachte eigendomsduur waarin de garantietermijn zwaar meeweegt.
 
 ## Levensduur en onderhoud: het echte verschil
 
-Dit is het punt waar Enphase echt wint — en waarom ik het zou kiezen voor een huis dat ik langdurig bezit.
+Dit is het punt waar Enphase het duidelijkst wint, en de reden dat het merk vaak wordt aanbevolen voor woningen die langdurig in bezit blijven.
 
 **SolarEdge centrale omvormer:**
-- Gemiddelde levensduur: 12-15 jaar
-- Bij uitval: volledig systeem plat
-- Vervangingskosten omvormer: €800-€1.400
-- Garantie standaard: 12 jaar (verlengbaar tot 25 jaar voor €280)
-- Risico: als SolarEdge als bedrijf problemen heeft, is service complex
+- Garantie standaard: 12 jaar, tegen betaling te verlengen tot 25 jaar
+- Bij een defect na de garantietermijn staat het volledige systeem stil tot vervanging
+- Vervangingskosten liggen in de orde van de aanschafprijs van de omvormer zelf (zie de prijstabel hierboven)
+- Aandachtspunt: service en garantie zijn afhankelijk van de continuïteit van de fabrikant
 
 **Enphase micro-omvormers:**
-- Gemiddelde levensduur: 20-25+ jaar (25 jaar garantie)
-- Bij uitval van 1 micro: rest werkt door, verlies is 1/16 van systeem
-- Vervangingskosten per micro: €160-€200
-- Garantie: 25 jaar standaard
-- Risico: als 2 micro's uitvallen na 20 jaar, kosten ze elk €180 maar zijn ze nog onder garantie
+- Garantie: 25 jaar standaard op elke micro-omvormer
+- Bij uitval van één micro-omvormer blijft de rest produceren; het verlies is dat ene paneel
+- Vervangingskosten per micro-omvormer liggen op het niveau van de aanschafprijs per stuk, en vallen binnen de garantietermijn in principe onder garantie
 
-**Over 25 jaar eigendomskosten:**
+**Wat dat betekent over 25 jaar**
 
-| System | Aanschaf | Verwacht onderhoud | Totaal |
-|---|---|---|---|
-| SolarEdge (incl. garantieverlenging) | €4.370 + €280 | €0-€200 | €4.850 |
-| Enphase | €5.810 | €0 (25 jr garantie) | €5.810 |
+De elektronica van Enphase is bij aanschaf duurder — in het model hierboven grofweg 1.000 tot 1.500 euro op een systeem van 16 panelen. Daar staat tegenover dat bij SolarEdge twee kostenposten kunnen bijkomen die bij Enphase ontbreken: de garantieverlenging naar 25 jaar, en een eventuele vervanging van de centrale omvormer als die na de garantieperiode uitvalt. Neem je beide posten mee, dan lopen de totale eigendomskosten over 25 jaar dichter naar elkaar toe dan het verschil bij aanschaf suggereert. Hoe dicht, hangt volledig af van de vraag of die vervanging nodig blijkt — en dat is vooraf niet te weten.
 
-Enphase is over 25 jaar duurder, maar geeft meer zekerheid. SolarEdge is goedkoper maar heeft meer risico op één grote vervanging rond jaar 13.
+Onze inschatting: SolarEdge is de goedkopere keuze met een geconcentreerd risico, Enphase de duurdere keuze met een gespreid risico.
 
-## Storingsdata en werkelijke uitvalpercentages
+## Uitval: wat het verschil in de praktijk betekent
 
-Dit is informatie die fabrikanten liever niet breed uitdragen, maar die ik via installateurs heb verzameld:
+Harde, onafhankelijk gepubliceerde uitvalcijfers per omvormermerk zijn er voor de Nederlandse markt niet. Wat wel vaststaat, is het verschil in gevolg van een storing — en dat is bij deze twee systemen structureel anders.
 
-**SolarEdge centrale omvormer:**
-Fabrieksdata spreekt van <0,5% jaarlijkse uitval. In de praktijk, bij Europese installateurs die ik sprak (combinatie uit gesprekken op vakbeurzen Intersolar 2024 en 2025), is het beeld genuanceerder:
-- Uitvalrate omvormers: 0,3-0,8% per jaar in normale omstandigheden
-- Maar: er zijn gedocumenteerde batches (met name bepaalde SE3000H en SE6000H versies uit 2019-2021) die een hogere uitvalrate hadden door een condensatorprobleem. SolarEdge heeft dit grotendeels ondervangen met firmware-updates en vervangingen onder garantie.
-- Bij defect: volledig systeem staat stil tot vervanging (gemiddeld 2-5 werkdagen voor een technicus)
+**Enphase publiceert zelf een uitvalpercentage van minder dan 0,05 procent per jaar per micro-omvormer.** Dat is een fabrikantencijfer; behandel het als zodanig. Belangrijker dan het percentage is dat één defecte micro-omvormer alleen dat ene paneel uitschakelt. Op een systeem van twaalf panelen is dat ongeveer 8 procent productieverlies tot de vervanging is uitgevoerd.
 
-**Enphase micro-omvormers:**
-- Uitvalrate per micro: <0,05% per jaar (Enphase eigen data, bevestigd door onafhankelijke analyse)
-- Bij defect: alleen dat ene paneel valt weg; rest werkt door
-- Vervanging eenvoudiger: micro aan de achterkant van het paneel verwisselen
+**Bij SolarEdge zijn de power optimizers de betrouwbare component en is de centrale omvormer de kwetsbare schakel.** Valt die uit, dan staat het volledige systeem stil tot een technicus langs is geweest. Hoe lang dat duurt, hangt af van het serviceniveau van je installateur — vraag daar bij het aanvragen van een offerte expliciet naar, inclusief de responstijd die zij contractueel toezeggen.
 
-**Reëel verlies bij uitval:**
-Bij een SolarEdge-installatie van 12 panelen: uitval centrale omvormer = 100% productieverlies tot reparatie.
-Bij Enphase: uitval 1 micro = 1/12 = 8,3% productieverlies, rest werkt.
+**De vervanging zelf verschilt ook.** Een centrale omvormer vervangen is werk in de meterkast en betreft één duur onderdeel. Een micro-omvormer vervangen betekent het paneel lichten om aan de achterzijde te komen: goedkoper onderdeel, maar wel dakwerk.
 
-Over een periode van 25 jaar, met een gemiddelde uitvalfrequentie:
-- SolarEdge: verwacht 1-2 omvormerdefecten (elk gemiddeld 3 werkdagen = 6 dagen totale stilstand = ~15-20 kWh verlies per incident bij 2,5 kWh dagproductie)
-- Enphase: verwacht 0-1 micro-uitval per 3-4 jaar (vrijwel geen productieverlies systeem-breed)
+De consequentie voor je keuze: bij SolarEdge is de kans op een storing per component laag maar de impact hoog; bij Enphase is de impact per storing laag, maar zijn er wel zestien componenten op het dak die ooit iets kunnen krijgen. Beide fabrikanten dekken die risico's met garantie af, met verschillende termijnen — dat verschil in termijn is het enige harde, verifieerbare gegeven op dit vlak.
 
 ---
 
@@ -360,7 +327,7 @@ Bij brand schakelt SolarEdge het systeem uit via de omvormer — maar de DC-kabe
 
 ## SolarEdge vs Enphase in de vanlife en off-grid context
 
-Een vraag die ik steeds vaker krijg: werken SolarEdge of Enphase ook off-grid, bijvoorbeeld voor een camper of tiny house?
+Een veelgestelde vraag: werken SolarEdge of Enphase ook off-grid, bijvoorbeeld voor een camper of tiny house?
 
 **Antwoord: beide zijn ontworpen voor netgekoppelde installaties (on-grid). Voor off-grid zijn er betere opties.**
 
@@ -395,14 +362,14 @@ Na de saldering-stop (2027) wordt een thuisbatterij steeds relevanter. De keuze 
 - Sessy, BYD, Huawei Luna: eenvoudig te koppelen via AC
 - Geen speciale vereisten
 
-**Mijn advies voor wie thuisbatterij plant:**
+**Onze aanbeveling voor wie een thuisbatterij plant:**
 Als je zeker weet dat je een SolarEdge Home Battery wilt: neem meteen de SolarEdge Energy Hub omvormer (€1.400-€1.800). Als je later wilt beslissen of welk merk batterij je wilt: kies Enphase of neem een SolarEdge met standaard omvormer en koop later een externe batterij.
 
 ---
 
 ## Aanbeveling per situatie
 
-| Situatie | Mijn advies | Reden |
+| Situatie | Onze aanbeveling | Reden |
 |---|---|---|
 | Simpel dak, geen schaduw | SolarEdge | Beste prijs-kwaliteit |
 | Schaduw door bomen/dakkapel | Enphase of SolarEdge | Afhankelijk van ernst |
@@ -423,7 +390,7 @@ Heeft de Energy Hub-omvormer gelanceerd die naadloos samenwerkt met dynamische e
 **Enphase:**
 Heeft de IQ8 micro-omvormer gelanceerd die in "islanding modus" kan werken — het paneel produceert stroom zelfs als het net uitvalt, mits er zonlicht is. In combinatie met de Enphase IQ Battery is dit een volledige noodstroomoplossing zonder extra hardware. Dit is een unieke functie die SolarEdge standaard niet biedt.
 
-**Mijn verwachting voor 2027:**
+**Onze verwachting voor 2027:**
 Beide merken blijven relevant. SolarEdge zal groeien in de energie-arbitrage markt (dynamische tarieven). Enphase zal groeien in de noodstroom en off-grid markten. Beide hebben een duidelijk post-saldering businessmodel.
 
 ## Conclusie

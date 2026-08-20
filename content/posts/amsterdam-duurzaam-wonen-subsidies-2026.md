@@ -1,7 +1,7 @@
 ---
 title: 'Amsterdam Duurzaam Wonen Subsidies 2026: Volledig Overzicht'
 date: 2026-07-21 08:00:00+02:00
-lastmod: 2026-07-21 08:00:00+02:00
+lastmod: 2026-08-19 08:00:00+02:00
 last_updated: 2026-04-29
 description: 'Amsterdam subsidies voor zonnepanelen, warmtepomp en isolatie in 2026. Wat zijn de regelingen, hoe vraag je aan, en welke bedragen zijn beschikbaar voor Amsterdammers.'
 draft: false
@@ -22,7 +22,7 @@ keywords:
 - amsterdam warmtepomp subsidie
 - gemeente amsterdam duurzaam
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1534351590666-13e3e96c5017&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: true
@@ -50,11 +50,11 @@ products:
   url: https://www.greenchoice.nl/
   price: '0'
 ---
-Een familie in Amsterdam-Noord vroeg me vorig jaar om hen te helpen bij verduurzaming van hun rijtjeshuis. Eerste vraag: "Hoeveel subsidie kunnen we eigenlijk krijgen?" Ik heb 30 minuten besteed aan onderzoek per regeling. Eindresultaat: €4.350 aan combineerbare gemeente + provincie + nationale subsidies. Daarvan was €2.150 specifiek Amsterdams.
+"Hoeveel subsidie kunnen we eigenlijk krijgen?" Dat is de eerste vraag van vrijwel elke Amsterdammer die zijn rijtjeshuis wil verduurzamen. Het antwoord is moeilijker dan het lijkt, want de bedragen komen uit drie lagen — gemeente, provincie en Rijk — en die regelingen zijn deels wél en deels niet te combineren. Voor een rijtjeshuis met zonnepanelen, warmtepomp en dakisolatie komt het totaal in de praktijk vaak boven de €4.000 uit, waarvan ongeveer de helft specifiek Amsterdams.
 
-Hieronder mijn complete overzicht van Amsterdam-subsidies voor verduurzaming in 2026. Welke regelingen, hoe combineren, en hoe vraag je aan.
+Hieronder een volledig overzicht van de Amsterdam-subsidies voor verduurzaming in 2026: welke regelingen er zijn, hoe je ze combineert en hoe je aanvraagt.
 
-*Dit artikel bevat affiliate links. Bij aankoop via mijn links ontvang ik mogelijk een commissie, zonder extra kosten voor jou.*
+*Dit artikel bevat affiliate links. Bij aankoop via deze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 
 > **Kort antwoord:** Amsterdam subsidies voor zonnepanelen, warmtepomp en isolatie in 2026. Wat zijn de regelingen, hoe vraag je aan, en welke bedragen zijn beschikbaar voor Amsterdammers.

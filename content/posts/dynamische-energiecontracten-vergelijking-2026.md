@@ -1,7 +1,7 @@
 ---
 title: Dynamische Energiecontracten Vergelijking 2026
 date: 2026-04-14 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: Vergelijking van de beste dynamische energiecontracten in 2026. Tibber, ANWB Energie, Frank Energie en meer. Kosten, apps en bespaarpotentieel.
 categories:
 - energie

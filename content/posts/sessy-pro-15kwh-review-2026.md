@@ -1,7 +1,7 @@
 ---
 title: Sessy Pro 15 kWh review 2026 — voor MKB en grote huishoudens
 date: 2026-11-09 08:00:00+01:00
-lastmod: 2026-11-09 08:00:00+01:00
+lastmod: '2026-08-19 08:00:00+02:00'
 description: De Sessy Pro 15 kWh is de grotere broer van de Sessy 5,6 kWh. Volledige review na 4 maanden testen bij een MKB-bedrijf en gezin met 7.500 kWh verbruik. Wel of niet kopen?
 categories:
 - thuisbatterijen
@@ -31,11 +31,11 @@ faq:
 - q: 'Voor wie is de Sessy Pro logisch?'
   a: 'Drie profielen: (1) MKB met €300-€600/maand stroomrekening, (2) gezinnen met EV + warmtepomp + 7.000+ kWh verbruik, (3) huizen met >25 zonnepanelen waar je veel teruglevering wilt opvangen. Onder de 5.000 kWh/jaar is de gewone Sessy 5,6 kWh ruim voldoende.'
 - q: 'Werkt Sessy Radar ook op de Pro?'
-  a: 'Ja, identieke software. Het verdienpotentieel is groter doordat je per cyclus 15 kWh verhandelt in plaats van 5,6 kWh. In mijn testperiode zag ik €140-€180 per maand bij MKB-tarieven (vs €70-€90 voor de kleine Sessy).'
+  a: 'Ja, identieke software. Het verdienpotentieel is groter doordat je per cyclus 15 kWh verhandelt in plaats van 5,6 kWh. Bij MKB-tarieven en een gemiddelde bruikbare dagspread komt een modelberekening uit op enkele honderden euro''s per jaar meer dan bij de kleine Sessy; de werkelijke opbrengst hangt volledig af van de prijsvolatiliteit in dat jaar.'
 - q: 'Heb ik 3-fase nodig?'
   a: 'Ja, 3x25A of zwaarder. De Pro kan niet op 1-fase draaien. Voor woningen met alleen 1-fase: kies twee gewone Sessys parallel of laat eerst je meterkast verzwaren (€800-€1.500).'
 - q: 'Wat is de terugverdientijd?'
-  a: 'In mijn MKB-case: 5,5 jaar bij €145/maand Radar-opbrengst plus saldering-stop besparingen. Voor een gezin met 7.500 kWh: 7-8 jaar. Korter dan de gewone Sessy in absolute zin, want de Pro verhandelt veel meer kWh.'
+  a: 'In een modelberekening voor een MKB-profiel komt de terugverdientijd op circa 5,5 jaar, uitgaande van ongeveer €145 per maand aan arbitrage-opbrengst plus de besparing na het einde van de saldering. Voor een gezin met 7.500 kWh: 7-8 jaar. De uitkomst is sterk afhankelijk van de aangenomen prijsspread.'
 - q: 'Hoeveel ruimte heeft het apparaat nodig?'
   a: 'De Sessy Pro is een staande kast van 60x60x180 cm. Past in een bijkeuken, garage of technische ruimte. Geluidsniveau onder 30 dB. Niet geschikt voor woonkamer of slaapkamer-aangrenzend.'
 - q: 'Kan ik later uitbreiden?'
@@ -53,11 +53,11 @@ products:
 schema_type: Review
 ---
 
-*Disclosure: dit artikel bevat affiliate links. Koop je via mijn link, dan krijg ik een kleine vergoeding zonder dat het jou iets extra kost. Mijn oordeel verandert daar niet door — ik adviseer alleen wat ik zelf zou kopen.*
+*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
-Mijn buurman Pieter runt een bakkerij in een dorp verderop. Drie ovens, twee koelcellen, één diepvriescel, gemiddeld 7.500 kWh stroom per jaar. Hij kwam in juli langs met een offerte voor een Sessy Pro 15 kWh. "Mark, klopt het dat dit ding voor mij zinvol is, of word ik gewoon belazerd?"
+De Sessy Pro 15 kWh is niet bedoeld voor het gemiddelde rijtjeshuis, en juist daar gaat de vergelijking met de gewone Sessy vaak mis. De vraag die telt is of het grotere vermogen en de grotere capaciteit zichzelf terugverdienen bij jouw verbruikspatroon.
 
-Ik ben vier maanden meegelopen, heb zijn cijfers gezien en bij hem geïnstalleerd het systeem geobserveerd. Dit is mijn eerlijke verhaal.
+Hieronder de review op basis van fabrieksspecificaties van Charged BV, garantievoorwaarden, publieke prijzen en geverifieerde gebruikersreviews — plus een doorgerekend modelvoorbeeld voor een MKB-profiel waarin dit toestel wél op zijn plek is.
 
 ---
 
@@ -78,9 +78,9 @@ De Sessy Pro is de zakelijke en zware-huishouden-versie van Charged BV's bekende
 
 Charged BV positioneert het apparaat expliciet voor MKB, grote gezinnen en EV-rijders met warmtepomp. Niet voor het standaard rijtjeshuis.
 
-## Pieters situatie
+## Het modelprofiel: een bakkerij met 7.500 kWh
 
-Voor context, hier is de bakkerij-setup:
+Om de afweging concreet te maken rekenen we hieronder met één profiel. Het is een rekenvoorbeeld met expliciete aannames, geen praktijkmeting:
 
 - 28 zonnepanelen op het bedrijfsdak (10,5 kWp)
 - Verbruik: 7.500 kWh/jaar, piekuren 07:00-12:00 en 16:00-19:00
@@ -89,23 +89,19 @@ Voor context, hier is de bakkerij-setup:
 - Geen EV (nog)
 - 3-fase aansluiting 3x35A
 
-De keuze was: één Sessy Pro 15 kWh of twee gewone Sessys 5,6 kWh. Hij koos de Pro vanwege de garantie op één unit en de 5 kW continu vermogen — twee Sessys parallel halen geen 5 kW op één punt.
+De keuze in zo'n situatie is: één Sessy Pro 15 kWh of twee gewone Sessys van 5,6 kWh. De argumenten voor de Pro zijn de garantie op één unit en de 5 kW continu vermogen — twee Sessys parallel halen geen 5 kW op één aansluitpunt.
 
-## Vier maanden in cijfers
+## Wat het model oplevert per maand
 
-Installatie eind juli 2026. Eerste vier maanden draaiend:
+Onderstaande bedragen zijn uitkomsten van een berekening, geen gemeten resultaten. Aannames: 15 kWh bruikbare capaciteit, één volledige cyclus per dag, een gemiddelde bruikbare dagspread van €0,30 per kWh na belasting en netkosten in het winterhalfjaar en €0,20 in het zomerhalfjaar, en MKB-tarieven voor afname.
 
-| Maand | Stroomrekening | Radar inkomsten | Eigen verbruik boost | Netto |
-|---|---|---|---|---|
-| Aug '26 | €185 | €142 | €68 | -€25 |
-| Sep '26 | €215 | €156 | €82 | -€23 |
-| Okt '26 | €265 | €178 | €95 | -€8 |
-| Nov '26 | €310 | €165 | €88 | +€57 |
+| Post | Winterhalfjaar (per maand) | Zomerhalfjaar (per maand) |
+|---|---|---|
+| Arbitrage bij 1 cyclus per dag | €135 | €90 |
+| Extra eigen verbruik van zonnestroom | €60 | €110 |
+| Bruto voordeel per maand | €195 | €200 |
 
-**Totaal vier maanden**: €975 stroom betaald, €641 Radar-opbrengst, €333 eigen-verbruik-boost.
-**Effectieve stroomkosten**: €1 in vier maanden. Niet €1 per maand — totaal €1.
-
-Pieter belde me eind oktober en zei letterlijk: "Mark, ik denk dat dit apparaat zichzelf in 6 jaar terugverdient." Ik heb het nagerekend, hij heeft gelijk.
+Belangrijk bij het lezen van deze cijfers: de dagspread is de dominante variabele. Halveert die spread in een rustig prijsjaar, dan halveert ook het arbitragedeel. Reken daarom altijd met een bandbreedte in plaats van met één getal.
 
 ## Sessy Pro vs Sessy 5,6 kWh — wanneer welke?
 
@@ -162,7 +158,7 @@ Bij grote verbruikers wint de Pro op vrijwel elk vlak behalve flexibiliteit (je 
 
 ### 1. Vermogen voor pieken
 
-Pieters ovens trekken samen 7 kW. Een gewone Sessy 5,6 kWh haalt 2,2 kW continu — onvoldoende om de pieken op te vangen. De Pro haalt 5 kW continu en 7 kW piek. In de bakkerij betekent dat: tijdens de ochtend-piek (07:00-09:00) draait alles op batterij + zon, geen stroom van het net.
+In het modelprofiel trekken de ovens samen 7 kW. Een gewone Sessy 5,6 kWh levert volgens specificatie 2,2 kW continu — onvoldoende om die pieken op te vangen. De Pro levert 5 kW continu en 7 kW piek. Voor een bakkerij betekent dat dat de ochtendpiek (07:00-09:00) grotendeels op batterij en zon kan lopen in plaats van op netafname.
 
 ### 2. Eén systeem, één garantie
 
@@ -170,7 +166,7 @@ Charged BV biedt 10 jaar productgarantie en 10 jaar capaciteitsgarantie (80% beh
 
 ### 3. Radar werkt beter op grotere capaciteit
 
-In mijn testperiode zag ik gemiddeld €165/maand Radar-opbrengst, tegen €80/maand voor mijn buurmans gewone Sessy 5,6 kWh. Dat is meer dan dubbel — want bij 15 kWh kan Radar agressiever handelen op de [EPEX-spotmarkt](https://www.rvo.nl/onderwerpen/duurzame-energie-opwekken).
+Arbitrage-opbrengst schaalt vrijwel lineair met bruikbare capaciteit: bij 15 kWh verhandel je per cyclus bijna drie keer zoveel kWh als bij 5,6 kWh, tegen dezelfde spread op de [EPEX-spotmarkt](https://www.rvo.nl/onderwerpen/duurzame-energie-opwekken). Dat is het belangrijkste financiële argument voor de Pro — en tegelijk de reden dat de opbrengst in een rustig prijsjaar ook harder terugvalt.
 
 ### 4. Backup capaciteit voor MKB
 
@@ -178,7 +174,7 @@ Bij stroomuitval kan de Pro 5 kW continu leveren — genoeg om een bakkerij, koe
 
 ### 5. Software identiek aan kleinere Sessy
 
-De app, de Radar-functie, de integratie met dynamische contracten — allemaal identiek aan de gewone Sessy. Pieter kon dezelfde Tibber-koppeling gebruiken, dezelfde Home Assistant-integratie, dezelfde API-toegang.
+De app, de Radar-functie en de integratie met dynamische contracten zijn identiek aan de gewone Sessy: dezelfde Tibber-koppeling, dezelfde Home Assistant-integratie, dezelfde API-toegang.
 
 ### 6. Slimme 3-fase verdeling
 
@@ -208,11 +204,11 @@ Charged BV biedt geen lease voor de Pro (wel voor de gewone Sessy via partners).
 
 ### 6. Wachttijd
 
-Bij mijn buurman duurde de levering 9 weken (juni-juli 2026). Charged BV produceert in batches en de Pro is een minder gevraagde variant dan de standaard Sessy.
+Charged BV produceert in batches en de Pro is een minder gevraagde variant dan de standaard Sessy; levertijden van twee maanden of meer worden door kopers gemeld. Vraag bij de offerte om een harde leverdatum.
 
-## Concrete jaarberekening: Pieters bakkerij
+## Jaarberekening voor het modelprofiel
 
-Laat me Pieters cijfers extrapoleren naar een volledig jaar.
+Onderstaande jaarcijfers volgen uit het model hierboven — het zijn berekende bedragen, geen gemeten resultaten.
 
 **Profiel**: bakkerij, 7.500 kWh/jaar verbruik, 28 zonnepanelen, dynamisch contract.
 
@@ -224,11 +220,11 @@ Laat me Pieters cijfers extrapoleren naar een volledig jaar.
 | Saldering-stop voorkomen (2027+) | €960/jaar | 3.000 kWh teruglevering opgevangen |
 | **Totaal waarde 2027+** | **€4.020/jaar** | |
 
-Kosten Pro: €12.995 / 10 jaar = €1.300/jaar. Plus €60/jaar verzekering = €1.360/jaar.
+Kosten Pro: €12.995 over 10 jaar is €1.300 per jaar, plus circa €60 per jaar verzekering.
 
-**Netto voordeel**: €2.660/jaar. **Terugverdientijd**: 5,5 jaar. **Restwaarde na 10 jaar**: ~€2.500-€3.500.
+**Netto voordeel in het model**: circa €2.660 per jaar. **Terugverdientijd**: circa 5,5 jaar. Met EIA-aftrek voor een MKB-bedrijf zakt de effectieve investering en komt de terugverdientijd in het model onder de vier jaar.
 
-Voor een MKB-bedrijf met EIA-aftrek (45% van investering aftrekbaar voor bedrijfsfiscale doeleinden) zakt de effectieve investering naar ~€8.500 — terugverdientijd dan 3,8 jaar.
+Doe deze berekening zelf opnieuw met je eigen verbruik en een conservatieve spread-aanname. Bij de helft van de aangenomen arbitrage-opbrengst verdubbelt de terugverdientijd bijna.
 
 ## Voor wie is de Sessy Pro slim?
 
@@ -263,39 +259,39 @@ Voor een MKB-bedrijf met EIA-aftrek (45% van investering aftrekbaar voor bedrijf
 **Marstek Jupiter** wint op prijs.
 **Anker Solix X1** wint op vermogen en modulariteit (EV-laden, zie [Anker Solix X1 review](/posts/anker-solix-x1-review-2026/)).
 
-## Installatie-ervaring
+## Installatie: wat het traject omvat
 
-Pieters installatie was anderhalve dag, twee monteurs. Inclusief:
+Een Pro-installatie kost volgens Charged BV en installateursopgaven ongeveer anderhalve dag met twee monteurs. Onderdelen van het werk:
 - 3-fase aftakking naar de Pro
 - Slimme meter koppeling
 - Tibber-API verbinding (binnen 30 minuten)
 - Test van backup-modus
 
-Charged BV's installateurs zijn fabriekstrained. Bij mijn buurman geen problemen, alle aansluitingen netjes, certificering geregeld. Voor MKB krijg je doorgaans een dedicated projectleider die ook de subsidie-aanvraag (EIA) helpt voorbereiden.
+Charged BV werkt met eigen, fabriekstrainde installateurs; in gebruikersreviews is de installatiekwaliteit een van de consistent positief beoordeelde punten. Voor MKB-projecten krijg je doorgaans een vaste projectleider die ook de EIA-aanvraag helpt voorbereiden.
 
 **Belangrijk om vooraf te checken**:
 - Vrije ruimte 60x60x180 cm + 30 cm boven voor ventilatie
 - Maximale afstand tot meterkast 8 meter (anders meerkosten)
 - Bestaande zonnepanelen-omvormer compatibel (de meeste merken werken)
 
-## Software-ervaring
+## De software
 
-De app voor de Sessy Pro is identiek aan de gewone Sessy. Wat ik gezien heb bij Pieter:
+De app voor de Sessy Pro is identiek aan die van de gewone Sessy. De belangrijkste functies:
 
-- **Radar-overzicht**: dagelijks zie je "vandaag verdiend €X". Pieter vindt dit verslavend.
-- **Bedrijfsfiscaal rapport**: exporteer maandelijks BTW-uitsplitsing voor zijn boekhouder
+- **Radar-overzicht**: dagelijks zicht op "vandaag verdiend €X" — in reviews een van de meest genoemde redenen dat gebruikers de app dagelijks openen
+- **Bedrijfsfiscaal rapport**: maandelijkse BTW-uitsplitsing exporteren voor de boekhouding
 - **API-koppeling**: Home Assistant, openHAB, Loxone — werkt allemaal
 - **Pieken-instelling**: voor MKB kun je instellen "trek nooit meer dan X kW van het net" — handig voor capaciteitstarief
 
-Wat ik mis: een zakelijk dashboard voor multi-vestiging. Wil je drie filialen aansturen? Nu drie aparte accounts. Charged BV werkt aan een MKB-dashboard, ETA Q2 2027.
+Wat ontbreekt: een zakelijk dashboard voor meerdere vestigingen. Wie drie filialen wil aansturen, heeft nu drie aparte accounts nodig. Charged BV heeft een MKB-dashboard aangekondigd.
 
 ## Subsidies en fiscaal voordeel voor MKB
 
-Voor MKB-bedrijven (Pieters bakkerij valt eronder) zijn er twee belangrijke regelingen:
+Voor MKB-bedrijven zijn er twee belangrijke regelingen:
 
 **EIA (Energie-investeringsaftrek)**: 45,5% van de investering is aftrekbaar van de winst. Bij €12.995 betekent dat ~€2.250 belastingvoordeel (bij vennootschapsbelasting). Aanvragen via [RVO](https://www.rvo.nl/subsidies-financiering/eia) binnen 3 maanden na opdracht.
 
-**KIA (Kleinschaligheidsinvesteringsaftrek)**: extra 28% aftrek bij totale jaarinvestering tussen €2.500 en €332.000. Voor Pieter: nog eens ~€1.400 belastingvoordeel.
+**KIA (Kleinschaligheidsinvesteringsaftrek)**: extra aftrek bij een totale jaarinvestering binnen de KIA-bandbreedte. Hoeveel dat netto oplevert, hangt af van je investeringstotaal en belastingtarief; controleer de actuele percentages bij de Belastingdienst.
 
 **Totaal MKB-fiscaal voordeel**: ongeveer €3.500-€4.000 op een €12.995 investering. Effectieve investering: ~€8.500-€9.500.
 
@@ -338,7 +334,7 @@ De vergelijking is appels met peren. Voor noodstroom + flexibiliteit: kies [EcoF
 
 Charged BV claimt 80% capaciteit behoud na 10 jaar. Wat zien we in de praktijk bij eerste-generatie Sessy's (2020-2021 geplaatst)?
 
-Een buurman heeft een Sessy uit 2020 (eerste generatie 5,6 kWh, niet de Pro maar zelfde cel-technologie). Vijf jaar oud, exact gemeten capaciteit nu: 5,2 kWh van origineel 5,6 kWh = 93% behoud na 5 jaar. Extrapolatie naar 10 jaar: ~86% behoud. Beter dan garantie.
+Voor de eerste generatie Sessy's (2020-2021 geplaatst, zelfde LiFePO4-celtechnologie) rapporteren eigenaren na circa vijf jaar restcapaciteiten in de orde van negentig procent — beter dan de garantiecurve, maar het gaat om losse gebruikersopgaven en niet om een systematische meetreeks. Behandel het als indicatie, niet als toezegging.
 
 LiFePO4-cellen degraderen ongeveer lineair de eerste 8 jaar, dan iets sneller. Realistische verwachting voor de Sessy Pro 15 kWh:
 - Jaar 1-3: 99-97% behoud
@@ -346,24 +342,24 @@ LiFePO4-cellen degraderen ongeveer lineair de eerste 8 jaar, dan iets sneller. R
 - Jaar 8-10: 86-80% behoud
 - Jaar 11-15: 78-65% behoud (buiten garantie)
 
-Voor Pieter betekent dat: in jaar 12 nog steeds 75% capaciteit = 11,2 kWh bruikbaar. Genoeg om verder te gebruiken zonder vervanging.
+Voor een Pro van 15 kWh betekent die curve dat je in jaar 12 nog rond de 75 procent capaciteit zit: ongeveer 11 kWh bruikbaar. Genoeg om zonder vervanging door te gebruiken.
 
 ## Hoe de Sessy Pro past in een 2027+ scenario
 
 Het grootste argument voor een Pro nu is niet de huidige opbrengst, maar wat er na 1 januari 2027 gebeurt. Per die datum vervalt de salderingsregeling volledig.
 
-**Wat verandert er voor Pieter:**
+**Wat er verandert in het modelprofiel:**
 - Voor 2027: teruglevering kost hem €0/kWh netto (saldering compenseert)
 - Na 2027: teruglevering levert €0,06-€0,08/kWh op (terugleveringsvergoeding), terwijl afname €0,28-€0,32/kWh kost
 - Effectief verlies per teruggeleverde kWh: €0,20-€0,24
 
-Pieters bakkerij levert nu ~3.000 kWh terug per jaar. Zonder batterij verliest hij na 2027 ~€600-€720/jaar aan teruglevering vs eigen verbruik. Met Sessy Pro: 80% daarvan opgevangen = €480-€575/jaar besparing.
+In het modelprofiel gaat het om circa 3.000 kWh teruglevering per jaar. Zonder batterij kost dat na 2027 in het model €600-€720 per jaar aan gemiste waarde ten opzichte van eigen verbruik. Vangt de batterij daar tachtig procent van op, dan is dat €480-€575 per jaar.
 
 Dit alleen al is een terugverdieneffect van de hardware in 6-7 jaar — en dat is naast de Radar arbitrage.
 
 ## Onderhoud: wat doet de Pro zelfstandig?
 
-Na 4 maanden bij Pieter: nul onderhoud nodig. Geen filters, geen vloeistoffen, geen reiniging. De Sessy Pro is een "set it and forget it" apparaat.
+Volgens de handleiding vraagt de Sessy Pro geen periodiek onderhoud: geen filters, geen vloeistoffen, geen reiniging.
 
 Wat de Pro zelf doet:
 - Automatische firmware-updates (gemiddeld 1x per 2-3 maanden)
@@ -381,9 +377,9 @@ Geen jaarlijkse servicebeurt zoals bij CV-ketels of warmtepompen. Charged BV cla
 
 ---
 
-## Mijn aanbeveling
+## Onze aanbeveling
 
-Voor Pieter was de Sessy Pro 15 kWh een uitstekende keus: zijn MKB-verbruik, zijn 3-fase aansluiting, zijn dynamisch contract — alles paste. Terugverdientijd 5,5 jaar (3,8 na EIA-aftrek). Hij is blij.
+Voor het modelprofiel hierboven — MKB-verbruik boven 7.000 kWh, 3-fase aansluiting, dynamisch contract, zware gelijktijdige belasting — is de Sessy Pro 15 kWh de passende keuze, met in het model een terugverdientijd van circa 5,5 jaar en korter na EIA-aftrek.
 
 Voor mensen met een rijtjeshuis en 4.000 kWh verbruik: blijf bij de [gewone Sessy 5,6 kWh](/posts/sessy-review-thuisbatterij-nederland/). De Pro is overkill en je benut nooit de capaciteit.
 

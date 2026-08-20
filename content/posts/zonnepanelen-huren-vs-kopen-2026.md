@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen Huren vs Kopen 2026: Wat is Voordeliger?'
 date: 2026-05-17 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 08:00:00+02:00
 description: Zonnepanelen huren of kopen? Vergelijking van kosten, opbrengst, flexibiliteit en rendement. Ontdek welke optie het beste bij jouw situatie past.
 categories:
 - zonnepanelen
@@ -18,7 +18,7 @@ keywords:
 - zonnepanelen kopen rendement
 affiliate: true
 author: Mark Bakker
-author_bio: Energieadviseur met een eigen verduurzaamd huis. Test zonnepanelen, thuisbatterijen en warmtepompen in de praktijk.
+author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Is het voordeliger om zonnepanelen te huren of te kopen?
