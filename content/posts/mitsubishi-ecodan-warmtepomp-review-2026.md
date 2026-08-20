@@ -377,7 +377,7 @@ De prijs is €1.500-€2.500 hoger dan Vaillant of Daikin in dezelfde categorie
 
 Voor 80% van de Nederlandse markt is Vaillant of Daikin pragmatischer. Voor de 20% die premium kwaliteit waardeert: Mitsubishi Ecodan is wat het belooft.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ## Gerelateerde artikelen
 

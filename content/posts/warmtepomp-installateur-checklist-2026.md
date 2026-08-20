@@ -409,7 +409,7 @@ Sla deze stappen niet over: alle zes probleemtypes hierboven ontstaan vóór de 
 
 Het loont om hier even goed bij stil te staan. Een warmtepomp is een 20-jaar-investering. Vier weken extra plannen rechtvaardigt zich altijd.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ## Gerelateerde artikelen
 

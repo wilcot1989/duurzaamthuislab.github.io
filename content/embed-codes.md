@@ -51,8 +51,8 @@ Hieronder vind je iframe-codes voor onze calculators. Gebruik vrij op jouw site 
 
 ## Disclaimer
 
-We tracken geen embeds. Je hoeft niets aan te vragen — gewoon embedden + credit. Als je een prominente embed plaatst (homepage of gids-pagina), [laat het ons weten](mailto:contact@duurzaamthuislab.nl) — we noemen je dan in onze partner-lijst.
+We tracken geen embeds. Je hoeft niets aan te vragen — gewoon embedden + credit. Als je een prominente embed plaatst (homepage of gids-pagina), [laat het ons weten](mailto:info@duurzaamthuislab.nl) — we noemen je dan in onze partner-lijst.
 
 ## Contact
 
-[contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl)
+[info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl)

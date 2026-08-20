@@ -390,7 +390,7 @@ De EcoFlow Delta Pro Ultra is in 2026 de slimste keus voor mensen die whole-home
 
 Voor pure thuisbatterij-arbitrage: andere merken zijn 30-50% efficiënter. Voor backup-specialisten: niets evenaart dit systeem.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

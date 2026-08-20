@@ -52,6 +52,6 @@ Geen probleem. Type de naam van het product gewoon in Google en ga direct naar h
 
 ---
 
-*Vragen over hoe wij werken? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over hoe wij werken? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 *Laatste update: 2026-04-29*

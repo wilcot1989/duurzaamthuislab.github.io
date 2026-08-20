@@ -432,7 +432,7 @@ De keuze komt neer op één vraag: kun je een uurprijs aan die tijdens een koude
 
 <a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk ANWB Energie</a>
 
-*Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

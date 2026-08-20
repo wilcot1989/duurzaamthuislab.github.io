@@ -380,7 +380,7 @@ De praktische vuistregel blijft dus simpel: kijk eerst welke omvormer er hangt e
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Sessy — offerte aanvragen</a>
 
-*Vragen over jouw specifieke situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over jouw specifieke situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

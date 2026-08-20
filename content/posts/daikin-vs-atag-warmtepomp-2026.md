@@ -301,7 +301,7 @@ Bij twijfel: vraag offertes voor beide. De installateur die Daikin én Atag leve
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag →</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin →</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant →</a>
 
-*Vragen over jouw specifieke situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over jouw specifieke situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

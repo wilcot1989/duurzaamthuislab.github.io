@@ -29,11 +29,11 @@ DuurzaamThuisLab is niet aansprakelijk voor schade die direct of indirect voortv
 Onze artikelen bevatten links naar externe websites. Voor de inhoud van die websites zijn we niet verantwoordelijk. We checken externe links bij publicatie maar kunnen niet garanderen dat ze altijd werken of veilig blijven.
 
 ### Auteursrecht
-Alle content op DuurzaamThuisLab is auteursrechtelijk beschermd. Citeren met bronvermelding mag (voor non-commercieel gebruik). Volledig kopiëren of commercieel hergebruiken: vraag toestemming via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).
+Alle content op DuurzaamThuisLab is auteursrechtelijk beschermd. Citeren met bronvermelding mag (voor non-commercieel gebruik). Volledig kopiëren of commercieel hergebruiken: vraag toestemming via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).
 
 ### Wijzigingen
 We kunnen deze disclaimer op elk moment wijzigen. Laatste wijziging: 2026-04-29.
 
 ---
 
-*Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*

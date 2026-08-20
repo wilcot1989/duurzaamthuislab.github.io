@@ -434,7 +434,7 @@ De thuisbatterij-markt in Nederland in 2026 is volwassener dan ooit. De grote vi
 
 Als je budget onder €6.000 is en je wilt NL-service: kies Huawei LUNA2000 of Sessy (buiten dit artikel, maar sterk aanbevolen). Als je een groot huis hebt met EV en backup als harde eis: kies Tesla Powerwall 3. Als je maximale efficiëntie wil bij een bestaande SolarEdge-installatie: kies SolarEdge Home Battery. Voor alle andere situaties: BYD HVS of Enphase bieden bewezen kwaliteit voor specifieke niches.
 
-*Vragen over je specifieke situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je specifieke situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 *Laatst bijgewerkt: mei 2026.*
 

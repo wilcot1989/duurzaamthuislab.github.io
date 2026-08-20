@@ -285,7 +285,7 @@ In 2026 ligt thuisbatterij-prijs tussen €420 en €815 per kWh. **Marstek Venu
 
 Terug naar de vier offertes uit de inleiding. Voor 80 procent van de Nederlandse huishoudens met 4.000 tot 6.000 kWh verbruik en bestaande zonnepanelen is **Sessy 10 kWh op €5.995 de logische keus** — niet de goedkoopste op papier, maar de beste prijs-prestatie alles meegerekend.
 
-*Vragen over jouw situatie? Mail de redactie via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over jouw situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Marstek</a>
 

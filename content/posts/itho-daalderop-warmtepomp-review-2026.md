@@ -316,7 +316,7 @@ Voor wie een betrouwbare warmtepomp met Nederlandse service zoekt zonder de prem
 
 Onze modelkeuze per situatie: HP Cube bij een goed geïsoleerde woning met (deels) vloerverwarming, HP-Hybrid bij een woning op label C of D waar de gasketel nog goed is, en HP-S wanneer de meterkast of technische ruimte krap is.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

@@ -303,7 +303,7 @@ Wat je ook kiest: stap nú over. Elke maand uitstel kost je gemiddeld €40-€8
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tibber</a> &nbsp; <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>
 
-*Vragen over jouw specifieke situatie? Mail de redactie via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over jouw specifieke situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

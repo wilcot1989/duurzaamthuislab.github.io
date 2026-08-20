@@ -415,7 +415,7 @@ Prijzen dalen structureel maar niet gelijkmatig. De verwachte bodem van €200-�
 
 Uiteindelijk is €/kWh een hulpmiddel — gebruik het, maar combineer het met je eigen profiel.
 
-*Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

@@ -300,7 +300,7 @@ Voor wie zelf overweegt: kijk eerst naar je situatie (aansluiting, kilometers, c
 
 <a href="https://go.duurzaamthuislab.nl/easee" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Easee</a>
 
-*Vragen over je eigen situatie? Stuur een mail naar [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je eigen situatie? Stuur een mail naar [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

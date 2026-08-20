@@ -360,7 +360,7 @@ Marstek en Anker Solix zijn beide solide thuisbatterijen voor 2026. Marstek wint
 
 Per kWh capaciteit presteren de cellen van beide merken vergelijkbaar — het zijn dezelfde soort LiFePO4-cellen. Het verschil in opbrengst ontstaat door de sturing: een systeem dat automatisch op spotprijs handelt, maakt meer nuttige cycli dan een systeem dat je zelf moet configureren.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

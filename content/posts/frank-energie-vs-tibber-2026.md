@@ -352,7 +352,7 @@ Frank Energie en Tibber zijn allebei degelijke dynamische leveranciers. Voor 95%
 
 Het prijsverschil is structureel en komt uit de tarieven, niet uit marktgeluk: Frank rekent geen marge op gas en geeft de volledige EPEX-spotprijs voor teruglevering. Tibber vraagt daar iets meer voor en geeft er meer functionaliteit voor terug. Wie die functionaliteit gebruikt, haalt het verschil ruim terug; wie hem niet gebruikt, betaalt ervoor.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

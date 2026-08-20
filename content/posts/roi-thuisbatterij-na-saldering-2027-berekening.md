@@ -312,7 +312,7 @@ Maar: zonder dynamisch contract daalt rendement met 30-40%. Zonder voldoende ove
 
 <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Probeer Tibber →</a>
 
-*Vragen over jouw berekening? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over jouw berekening? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

@@ -316,7 +316,7 @@ Schuin dak wint absoluut over 25 jaar — minder kosten, minder onderhoud, hoger
 
 In de doorrekening hierboven levert een oost-west plat dak ongeveer 10 procent minder kWh per kWp op dan zuid-schuin, bij circa €1.400 hogere installatiekosten en tientjes per jaar extra onderhoud. Heb je geen ander dakvlak, dan is dat geen bezwaar. Heb je wel de keuze: kies schuin.
 
-*Vragen over je situatie? Mail de redactie via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

@@ -427,7 +427,7 @@ De Tibber Pulse is in 2026 de slimste P1-meter voor wie een Tibber dynamisch con
 
 Voor andere leveranciers of smart-home tinkerers: de HomeWizard P1 wint. De keuze hangt af van je contract en je tech-niveau, niet van de hardware zelf.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

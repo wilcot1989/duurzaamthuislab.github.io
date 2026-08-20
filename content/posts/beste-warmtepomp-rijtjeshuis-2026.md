@@ -349,7 +349,7 @@ Combineer je warmtepomp met een dynamisch energiecontract zoals [Tibber](/posts/
 
 <a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Quatt</a>
 
-*Vragen over jouw specifieke situatie? Mail ons op [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl) met je huistype, bouwjaar en gasverbruik — dan denken wij graag mee.*
+*Vragen over jouw specifieke situatie? Mail ons op [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl) met je huistype, bouwjaar en gasverbruik — dan denken wij graag mee.*
 
 ---
 

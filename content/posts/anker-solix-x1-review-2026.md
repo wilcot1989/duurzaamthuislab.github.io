@@ -398,7 +398,7 @@ De Anker Solix X1 is in 2026 de slimste keus voor EV-rijders die batterij + laad
 
 Modulariteit en 12 kW vermogen zijn unieke voordelen. Software is goed, niet uitmuntend. Voor de juiste doelgroep: een uitstekend systeem.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

@@ -319,7 +319,7 @@ In het rekenmodel hierboven komt de besparing uit op circa €440 per jaar bij �
 
 Voor wie écht maximale efficiëntie wil: kies Daikin Altherma 3 H. Voor wie betaalbaarheid en NL-service wil: Intergas of ATAG. Voor wie al Intergas-ketel heeft: Intergas is logisch.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

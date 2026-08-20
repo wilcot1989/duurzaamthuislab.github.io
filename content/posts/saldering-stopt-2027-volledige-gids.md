@@ -318,7 +318,7 @@ De vier oplossingen op een rij:
 
 Voor de meeste huishoudens is **dynamisch contract + gedragsverandering** de slimste eerste stap. Voor grote PV-installaties wordt **thuisbatterij erbij** rendabel. Wacht niet tot 2027 — door nu te handelen pak je nog 12 maanden besparing mee voordat de stop ingaat.
 
-*Heb je vragen of een specifieke berekening voor je eigen situatie? Mail de redactie via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Heb je vragen of een specifieke berekening voor je eigen situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

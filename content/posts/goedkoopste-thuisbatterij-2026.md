@@ -1,8 +1,8 @@
 ---
-title: 'Goedkoopste thuisbatterij 2026: welke opties zijn er onder'
+title: 'Goedkoopste thuisbatterij 2026: prijzen vanaf €2.000 vergeleken'
 date: 2026-04-29 08:00:00+02:00
 lastmod: 2026-08-20 08:00:00+02:00
-description: Welke thuisbatterij geeft je de meeste waarde onder €3.000? Wij vergelijken Marstek Venus, BYD Battery-Box en meer.
+description: 'Goedkoopste thuisbatterij van 2026: richtprijzen per systeem en per kWh, wat installatie er bovenop kost en welke terugverdientijd realistisch is.'
 categories:
 - thuisbatterijen
 tags:
@@ -25,13 +25,13 @@ author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepane
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Zijn goedkope thuisbatterijen betrouwbaar?
-  a: Dat hangt af van het type. LFP (lithiumijzerfosfaat) batterijen zijn inherent veiliger dan NMC. Marstek gebruikt LFP-cellen van BYD — dezelfde technologie als in dure systemen. De lagere prijs zit hem in een kleinere marge, minder premium verpakking en minder uitgebreide service, niet in inferieure cellen.
+  a: Dat hangt af van het type. LFP (lithiumijzerfosfaat) batterijen zijn inherent veiliger dan NMC. Budgetmerken zoals Marstek gebruiken LFP-cellen van dezelfde grote celproducenten (BYD, CATL, EVE) die ook in duurdere systemen zitten; welke celleverancier per batch wordt gebruikt, publiceren de fabrikanten meestal niet. De lagere prijs zit hem in een kleinere marge, minder premium verpakking en minder uitgebreide service, niet in inferieure cellen.
 - q: Wat is de minimale capaciteit die ik nodig heb?
   a: 'Voor een 2-3 persoonshuishouden met beperkte avondvraag: 3–5 kWh. Voor een 4-5 persoonshuishouden: 5 kWh. Voor een huishouden met een laadpaal of warmtepomp: 10 kWh. Een batterij van 3 kWh is te klein voor de meeste gezinnen; de besparing is te gering om de aanschaf te rechtvaardigen.'
 - q: Kan ik een goedkope thuisbatterij zelf installeren?
   a: Marstek Venus kan in theorie door een bekwame doe-het-zelver worden aangesloten. In de praktijk raden we altijd een erkend elektrotechnisch installateur aan — ook voor budgetsystemen. Foutieve aansluiting kan de garantie doen vervallen en is veiligheidsrisico.
 - q: Wat is de terugverdientijd van Marstek Venus?
-  a: 'Bij aanschaf- en installatiekosten van €2.800–€3.200 en een jaarlijkse besparing van €400–€600 (afhankelijk van stroomprijs en zelfconsumptie): terugverdientijd 5–8 jaar. Na 2027 stijgt de besparing door wegvallen van saldering, wat de terugverdientijd iets verkort.'
+  a: 'Dat hangt volledig af van hoe je hem gebruikt. Alleen zonne-overschot opslaan bij totaalkosten van €2.800–€3.200 komt in ons model uit op 10–12 jaar. Combineer je hem met een dynamisch contract, zodat je ook op de dagspread kunt laden en ontladen, dan komt het model op 5–8 jaar. Zonder dynamisch contract is een budgetbatterij dus een langetermijninvestering.'
 - q: Hoeveel kost een installatiedag voor een budget-thuisbatterij?
   a: Installatie van een AC-gekoppelde batterij (zoals Marstek Venus) kost doorgaans €400–€700 bij een erkend installateur. Als ook de groepenkast of omvormer moet worden aangepast, kom je op €700–€1.200. Vraag altijd een specificeerde offerte.
 - q: Wat zijn de verborgen kosten van een goedkope thuisbatterij?
@@ -44,20 +44,29 @@ products:
   price: '2299'
 schema_type: Article
 ---
-"Bestaat er zoiets als een goede thuisbatterij onder de €3.000?" Die vraag komt telkens terug bij huishoudens die wel willen investeren, maar het budget voor een Sessy of Tesla Powerwall niet hebben.
+**De goedkoopste thuisbatterijen van 2026, direct in cijfers.** Onderstaande bedragen zijn vanaf-prijzen en prijsranges zoals Nederlandse en EU-wederverkopers ze publiceren, **peildatum augustus 2026, exclusief installatie**. Prijzen in dit segment schuiven per maand, dus gebruik ze als vertrekpunt en vraag altijd een actuele offerte.
 
-Het antwoord is: ja. Maar met de juiste verwachtingen.
+| Systeem | Capaciteit | Richtprijs (excl. installatie) | Prijs per kWh | Omvormer inbegrepen? |
+|---|---|---|---|---|
+| Deye hybride omvormer + losse LFP-accubank | circa 5 kWh | €2.000-€2.250 | circa €400-€450 | Ja (vervangt bestaande omvormer) |
+| Jakiper JKP-5k | 5 kWh | €2.100-€2.400 | circa €420-€480 | Ja |
+| Marstek Venus (Venus A) | 5,12 kWh | vanaf €2.299 | circa €449 | Ja |
+| Marstek Venus E | 8,2 kWh | vanaf €2.299 | circa €280 | Ja |
+| Pylontech Force H2 | 7,1 kWh | €2.700-€3.000 | circa €380-€420 | Nee |
+| BYD Battery-Box Premium LVS 4.0 | 4 kWh (stapelbaar) | €2.800-€3.200 | circa €700 | Nee |
 
-In dit artikel bespreken wij de beste opties onder €3.000, waarom de prijs lager is (spoiler: niet omdat de cellen slechter zijn), en waar je op moet letten als je budget de begrenzende factor is.
+**Het korte antwoord:** de laagste prijs per kWh haal je met de modulaire systemen — Marstek Venus E en Pylontech Force H2. De laagste totaalprijs met een compleet, kant-en-klaar systeem is de Marstek Venus A. En reken bij elk systeem €400 tot €700 installatie erbij (meer als de groepenkast of de omvormer mee moet), waardoor een instapsysteem in de praktijk op €2.800-€3.200 uitkomt.
 
-*Disclosure: wij hebben een affiliate-relatie met Marstek. Dat verandert niets aan de vergelijking: die is gebaseerd op specificaties, handleidingen en publieke data.*
+Let op het verschil met onze andere gids: hier gaat het puur om de **laagste prijs**. Zoek je het systeem dat op capaciteit, sturing en service het beste presteert in de 10 kWh-klasse, dan is [beste thuisbatterij 10 kWh vergeleken](/posts/thuisbatterij-10-kwh-vergelijking-2026/) de juiste pagina.
+
+In dit artikel: waarom die prijzen zo veel lager zijn (spoiler: niet omdat de cellen slechter zijn), wat de totaalkosten met installatie zijn, en welke terugverdientijd realistisch is.
+
+*Disclosure: wij hebben geen commissie- of affiliate-relatie met Marstek, Sessy, Pylontech of BYD (stand augustus 2026); alle links in dit artikel zijn gewone verwijzingen. De vergelijking is gebaseerd op gepubliceerde prijzen, specificaties, handleidingen en publieke data.*
 
 ---
 
 
-> **Kort antwoord:** Welke thuisbatterij geeft je de meeste waarde onder €3.000? Wij vergelijken Marstek Venus, BYD Battery-Box en meer.
->
-> Dat hangt af van het type. LFP (lithiumijzerfosfaat) batterijen zijn inherent veiliger dan NMC. Marstek gebruikt LFP-cellen van BYD — dezelfde technologie als in dure systemen. De lagere prijs zit hem in een kleinere marge, minder premium verpakking en minder uitgebreide service, niet in inferieure cellen.
+> **Kort antwoord:** de goedkoopste complete thuisbatterij in Nederland is de Marstek Venus (5,12 kWh, vanaf €2.299 excl. installatie); de laagste prijs per kWh haal je met de modulaire Marstek Venus E (8,2 kWh) en de Pylontech Force H2 (7,1 kWh). Reken €400-€700 installatie erbij.
 
 ## Waarom zijn sommige thuisbatterijen zo veel goedkoper?
 
@@ -73,7 +82,7 @@ Het prijsverschil zit hem in:
 
 **4. Certificering en lokalisatie:** sommige merken hebben specifieke NL/EU-certificaten en lokale voedingsspanning-aanpassingen die extra engineering kosten.
 
-**Wat hetzelfde is:** de celchemie. Marstek Venus gebruikt LFP-cellen van BYD — het beste en veiligste type voor woonhuizen. Dat geldt ook voor veel premium systemen.
+**Wat hetzelfde is:** de celchemie. De budgetsystemen in dit artikel gebruiken LFP-cellen (lithium-ijzerfosfaat) — hetzelfde en veiligste type dat ook in premium systemen zit. Welke celleverancier een fabrikant per productiebatch inkoopt, is doorgaans niet publiek; ga daarom uit van de celchemie en de garantievoorwaarden, niet van een merknaam op de cel.
 
 ---
 
@@ -86,13 +95,13 @@ Het prijsverschil zit hem in:
 - Celtype: LFP (BYD-cellen)
 - Omvormer: ingebouwde AC-omvormer
 - Round-trip efficiency: >95%
-- Cycluslevensduur: >6.000 cycli (bij 70% DoD)
+- Cycluslevensduur: 6.000 cycli opgegeven door de fabrikant (bij 70% DoD)
 - Garantie: 10 jaar
 - Prijs: €2.299
 
 **Wat wij goed vinden:**
 
-De specificaties zijn op papier nagenoeg identiek aan systemen die het dubbele kosten. 5 kWh LFP, >95% efficiency, 10 jaar garantie. Dat zijn geen marketingclaims — de BYD-cellen zijn aantoonbaar van hoge kwaliteit.
+De specificaties zijn op papier nagenoeg identiek aan systemen die het dubbele kosten: 5 kWh LFP, een opgegeven round-trip rendement boven 95 procent en tien jaar garantie. Dat zijn fabrieksopgaven — ze zeggen iets over wat de fabrikant garandeert, niet over hoe het systeem zich over tien jaar in Nederlandse woningen houdt. Onafhankelijke langetermijnmetingen aan dit model zijn er nog niet.
 
 De installatie is relatief eenvoudig voor een elektrotechnicus. Het is een AC-gekoppeld systeem: het sluit aan na de omvormer, wat betekent dat het compatibel is met praktisch elke bestaande zonnepaneleninstallatie.
 
@@ -166,11 +175,12 @@ Dat is significant anders dan "€2.299" — maar nog altijd de helft van een Se
 
 Stel: Marstek Venus, totaalkosten €3.000.
 
-**Jaarlijkse besparing:**
-- Scenario A (2026, nog saldering): 900 kWh extra zelfverbruik × €0,28 verschil = €252/jaar → terugverdientijd: 12 jaar
-- Scenario B (2027+, geen saldering): 900 kWh extra zelfverbruik × €0,28 verschil + 1.000 kWh minder teruglevering × €0,22 = €472/jaar → terugverdientijd: 6,4 jaar
+**Jaarlijkse besparing (modelberekening, geen garantie):**
+- Scenario A (2026, alleen zonne-overschot opslaan, nog saldering): 900 kWh extra zelfverbruik × €0,28 verschil = €252 per jaar → terugverdientijd circa 12 jaar
+- Scenario B (2027 en later, saldering weg): 900 kWh extra zelfverbruik × €0,28 + 1.000 kWh minder teruglevering × €0,22 = €472 per jaar → terugverdientijd circa 6,4 jaar
+- Scenario C (2027 en later, mét dynamisch contract en dagelijkse arbitrage): scenario B plus circa €100-€250 aan arbitrage → terugverdientijd circa 5-6 jaar
 
-Post-2027 is de terugverdientijd aanmerkelijk korter. Wie nu koopt, profiteert van de lagere prijs en heeft de installatie klaar zodra saldering vervalt.
+Twee dingen bepalen dus welk getal voor jou geldt: of je saldeert, en of je een dynamisch contract hebt. Dat laatste staat of valt met de spread tussen het goedkoopste en duurste uur — die kun je live nakijken op onze pagina met [dynamische stroomprijzen per uur](/stroomprijzen/). Zonder dynamisch contract blijft de terugverdientijd in de dubbele cijfers.
 
 ---
 
@@ -209,17 +219,32 @@ Niet "alles inbegrepen €2.999" maar: materiaalkost batterij, installatieuren, 
 
 ---
 
+## Goedkoopste thuisbatterij van 10 kWh: wat je dan betaalt
+
+Wie op 10 kWh mikt, zit in een ander prijssegment: onder de €3.000 komt geen kant-en-klaar 10 kWh-systeem beschikbaar. De twee goedkoopste routes naar ongeveer die capaciteit:
+
+| Route | Capaciteit | Richtprijs (excl. installatie) | Aandachtspunt |
+|---|---|---|---|
+| Marstek Venus E + extra module | 8,2 kWh, uitbreidbaar tot 24 kWh | vanaf €2.299, circa €1.099 per extra module | Traag garantietraject via EU-vestiging |
+| Pylontech Force H2 (2 units of grotere stack) | 7,1 kWh per unit | €2.700-€3.000 per unit | Compatibele hybride omvormer nodig |
+
+Modulair uitbreiden is in dit segment vrijwel altijd goedkoper per kWh dan meteen een groot systeem kopen — mits de fabrikant modules blijft leveren, en dat is precies het risico bij de jongere merken.
+
+Wil je niet de goedkoopste maar de **beste** 10 kWh-batterij, met sturing, service en noodstroom meegewogen? Dat vergelijken we apart in [beste thuisbatterij 10 kWh](/posts/thuisbatterij-10-kwh-vergelijking-2026/). Voor het bredere overzicht: [thuisbatterij-vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/) en [thuisbatterij prijs per kWh](/posts/thuisbatterij-prijs-per-kwh-2026/).
+
+---
+
 ## Onze aanbeveling
 
 Voor huishoudens die een betrouwbare, budgetvriendelijke thuisbatterij zoeken en bereid zijn een beetje eigen regie te nemen:
 
 **[Marstek Venus](https://go.duurzaamthuislab.nl/marstek)** — €2.299, 5 kWh LFP, 10 jaar garantie, bewezen cellen.
 
-Laat hem installeren door een erkend elektrotechnisch installateur. Totaal: €2.800–€3.200. Terugverdientijd post-2027: 5–7 jaar.
+Laat hem installeren door een erkend elektrotechnisch installateur. Totaal: €2.800–€3.200. Terugverdientijd na 2027: 5–8 jaar mét dynamisch contract, 10–12 jaar als je hem alleen zonne-overschot laat opslaan.
 
 Als je meer capaciteit wilt en een compatibele omvormer hebt: kijk naar **Pylontech Force H2** (7,1 kWh, circa €2.700).
 
-En als service en gemak zwaarder wegen dan prijs: ga dan voor [Sessy](https://go.duurzaamthuislab.nl/sessy). Maar als €6.000 te veel is, is Marstek geen concessie in veiligheid of celkwaliteit.
+En als service en gemak zwaarder wegen dan prijs: lees dan onze [Sessy review](/posts/sessy-review-thuisbatterij-nederland/). Maar als €6.000 te veel is, is een budgetsysteem geen concessie in celchemie of garantietermijn — wel in service-snelheid en software.
 
 ---
 
@@ -360,7 +385,7 @@ Dat is lang. Maar:
 - Bij stroomprijs €0,40: terugverdientijd 9 jaar
 - Met dynamisch contract (+€100/jaar extra): 7–9 jaar
 
-En de batterij gaat 15–20 jaar mee. Na terugverdientijd is de rest puur winst.
+Let op dat dit voorbeeld alleen zonne-overschot opslaat. Voeg je arbitrage op een dynamisch contract toe, dan komt de terugverdientijd op 5–8 jaar — dat is het verschil tussen "twijfelachtig" en "verdedigbaar". De opgegeven cycluslevensduur van 6.000 cycli komt bij dagelijks gebruik neer op ruim vijftien jaar, maar dat is een fabrieksspecificatie en geen garantie.
 
 ---
 
@@ -430,7 +455,7 @@ Budget-batterijen hebben soms minder vlotte garantieprocessen dan premium merken
 
 ## De marktprijsontwikkeling: worden batterijen goedkoper?
 
-De prijs van lithiumcellen is de afgelopen drie jaar met 30–50% gedaald. In 2021 betaalde je €250–€300 per kWh cellen; in 2026 is dat €80–€120 per kWh. Dat is de belangrijkste reden dat een 5 kWh batterij nu €2.299 kost in plaats van €5.000+.
+De prijs van lithium-batterijpakketten is de afgelopen jaren sterk gedaald: volgens de jaarlijkse prijsonderzoeken van BloombergNEF naar batterijpakketten daalde de gemiddelde pakketprijs van ruim €250 per kWh in 2021 naar de orde van €100 per kWh nu. Dat is de belangrijkste reden dat een 5 kWh batterij nu €2.299 kost in plaats van €5.000+.
 
 Gaat dit door? Waarschijnlijk wel, maar trager:
 - **2026–2028:** verwacht nog 10–20% prijsdaling
@@ -448,7 +473,7 @@ Voor huishoudens met een beperkt budget is [Marstek Venus](https://go.duurzaamth
 - 5,12 kWh LFP — veilige chemie, dezelfde cellen als dure systemen
 - €2.299 inclusief app en ingebouwde omvormer
 - 10 jaar garantie
-- Terugverdientijd post-2027: 5–7 jaar bij gemiddeld verbruik
+- Terugverdientijd na 2027: 5–8 jaar mét dynamisch contract (10–12 jaar zonder)
 
 Laat installeren door een erkend installateur. Totaalprijs: €2.800–€3.200. Koop bij een Nederlandse of EU-gevestigde wederverkoper voor betere garantiepositie.
 
@@ -457,10 +482,13 @@ Als je geen zonnepanelen hebt en er ook geen plant: wacht nog even. Een thuisbat
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde gidsen
 
+- [Beste thuisbatterij 10 kWh vergeleken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
+- [Thuisbatterij prijs per kWh 2026](/posts/thuisbatterij-prijs-per-kwh-2026/)
+- [Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/)
+- [Dynamische stroomprijzen per uur (vandaag en morgen)](/stroomprijzen/)
 - [Beste thuisbatterij eengezinswoning 2026](/posts/beste-thuisbatterij-eengezinswoning-2026/)
 - [Beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/)
 - [Saldering stopt 2027 — wat nu?](/posts/saldering-stopt-2027-volledige-gids/)

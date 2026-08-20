@@ -395,7 +395,7 @@ De Sessy Pro 15 kWh is in 2026 de slimste keus voor MKB-bedrijven en zware huish
 
 Voor het standaard huishouden blijft de gewone Sessy 5,6 kWh de beste keus. Niet de Pro forceren omdat je "groter wilt" — dan betaal je €7.000 te veel.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Zonneplan thuisbatterij review 2026
+title: 'Zonneplan thuisbatterij review 2026: lease, koop en Radar'
 date: 2026-05-06 08:00:00+02:00
 lastmod: 2026-08-20 08:00:00+02:00
-description: Zonneplan biedt thuisbatterijen via lease en koop. Volledige review van het systeem, app, kosten en service op basis van specificaties en gebruikersreviews. Wel of niet kiezen?
+description: 'Zonneplan thuisbatterij review: wat lease en koop echt kosten, wat Radar oplevert en waar de lock-in zit. Doorgerekend, met Sessy als alternatief.'
 categories:
 - thuisbatterijen
 - zonne-energie
@@ -35,7 +35,7 @@ faq:
 - q: Hoe verhoudt Zonneplan zich tot Sessy of Tesla Powerwall?
   a: 'Zonneplan biedt een geïntegreerd pakket (panelen + batterij + contract + app) terwijl Sessy en Tesla losse producten zijn. Voor wie alles van één partij wil: Zonneplan is logisch. Voor wie zelf wil samenstellen: kies Sessy + Tibber, of Tesla + losse leverancier. Pure batterij-kwaliteit per euro: Sessy iets beter.'
 - q: Wat is Zonneplan Radar?
-  a: Radar is Zonneplan's handelsalgoritme dat namens jou de thuisbatterij stuurt op de dynamische energiemarkt. Het laadt op bij lage prijzen, ontlaadt bij hoge. Verdient gemiddeld €60-€120 per maand bovenop normale eigen-verbruik-besparing. Vereist Zonneplan's eigen dynamisch contract.
+  a: Radar is Zonneplan's handelsalgoritme dat namens jou de thuisbatterij stuurt op de dynamische energiemarkt. Het laadt op bij lage prijzen en ontlaadt bij hoge. Gebruikers melden opbrengsten van enkele tientjes tot ruim honderd euro per maand bij een 10 kWh batterij, sterk afhankelijk van de prijsvolatiliteit in die maand. Radar vereist het eigen dynamische contract van Zonneplan.
 - q: Krijg ik garantie?
   a: '10 jaar productgarantie op de batterij, 10 jaar capaciteitsgarantie (80% behoud na 10 jaar). Bij lease: alles geregeld, defect = vervangen door Zonneplan binnen 5 werkdagen. Bij koop: zelf garantie claimen, maar Zonneplan handelt het af voor je.'
 - q: Wat zijn de nadelen van Zonneplan?
@@ -55,18 +55,20 @@ products:
   price: '6'
 schema_type: Review
 ---
+**Zonneplan thuisbatterij, kort:** verkrijgbaar in 5, 10 en 15 kWh, bij koop vanaf €4.495 (5 kWh) tot €9.995 (15 kWh) inclusief installatie, of via lease vanaf €34 per maand (5 kWh) en €54 per maand (10 kWh) inclusief onderhoud, garantie en het Radar-abonnement. De hardware komt van Sungrow, de sturing van Zonneplans eigen handelsalgoritme Radar — dat werkt uitsluitend op een energiecontract van Zonneplan. Dáár zit de kern van de afweging: je koopt gemak en service, en betaalt met lock-in en een marge op de stroomprijs. Wie al panelen en een dynamisch contract heeft, komt met een losse batterij goedkoper uit.
+
 Zonneplan verkoopt geen thuisbatterij, maar een pakket: panelen, batterij, laadpaal en energiecontract in één abonnement. Dat maakt de offerte lastig te beoordelen — je ziet één maandbedrag en niet waar het uit bestaat.
 
 Hieronder de review op basis van de openbare voorwaarden en tarieven van Zonneplan, de specificaties van de hardware en geverifieerde gebruikersreviews: wat doet Zonneplan goed, wat doet het minder, en voor wie is het een slimme keus.
 
-*Disclosure: wij hebben geen commerciële relatie met Zonneplan. Deze analyse is gebaseerd op fabrieksspecificaties, handleidingen, publieke data en geverifieerde gebruikersreviews.*
+*Disclosure: wij hebben geen commissie- of partnerrelatie met Zonneplan (stand augustus 2026); de links naar Zonneplan zijn gewone verwijzingen. Deze analyse is gebaseerd op de openbare tarieven en voorwaarden, fabrieksspecificaties, handleidingen en geverifieerde gebruikersreviews.*
 
 ---
 
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
-> **Kort antwoord:** Zonneplan biedt thuisbatterijen via lease en koop. Volledige review van het systeem, app, kosten en service op basis van specificaties en gebruikersreviews. Wel of niet kiezen?
+> **Kort antwoord:** Zonneplan is sterk voor wie nog géén panelen heeft, een EV thuis laadt en één aanspreekpunt wil. Wie al panelen plus een dynamisch contract heeft, is met een losse batterij goedkoper en vrijer uit.
 >
 > Zonneplan is een Nederlands energie-abonnement-bedrijf opgericht in 2019. Ze verkopen of leasen zonnepanelen, thuisbatterijen, laadpalen en hebben een eigen energiecontract met dynamische tarieven. Hun kracht: alle componenten in één pakket, met één abonnement en één app.
 
@@ -149,7 +151,7 @@ Begin met 5 kWh batterij, voeg later 5 kWh module toe. Begin met 10 panelen, voe
 
 ### 1. Lock-in
 
-Hier zit Zonneplan's verdienmodel. Je batterij + Radar werkt alleen optimaal op Zonneplan's eigen dynamisch contract. Als je later wilt overstappen naar Tibber of Frank, verlies je Radar-functionaliteit. Dat is ~€60-€100/mnd verlies aan arbitrage.
+Hier zit Zonneplan's verdienmodel. Je batterij + Radar werkt alleen optimaal op Zonneplan's eigen dynamisch contract. Als je later wilt overstappen naar Tibber of Frank, verlies je Radar-functionaliteit. In dit model kost dat de arbitrage-opbrengst die gebruikers op enkele tientjes tot ruim €100 per maand melden.
 
 In de praktijk: weinig mensen stappen over want het verlies is groot. Zonneplan houdt je dus, ook als hun stroomtarief hoger wordt dan concurrentie.
 
@@ -257,13 +259,13 @@ Dat is geen spectaculair rendement, maar er staan wel panelen en een laadpaal te
 
 Het is eerlijk om te zeggen: in 2026 is Zonneplan in dit model pas marginaal voordeliger. Het einde van de saldering in 2027 verandert dat beeld wel drastisch.
 
-Ze levert nu ~3.000 kWh terug per jaar. Na saldering-stop is die stroom bijna niets waard (€0,06/kWh vs nu €0,31). Dat is €750 verlies per jaar — tenzij ze een batterij heeft.
+Het referentieprofiel levert circa 3.000 kWh per jaar terug. Zonder batterij is die stroom na de saldering-stop veel minder waard: bij een aangenomen teruglevertarief van €0,06/kWh in plaats van de huidige salderingswaarde van circa €0,31/kWh gaat het om ruwweg €750 per jaar aan gemiste waarde.
 
-Haar Zonneplan-batterij absorbeert 80% van die teruglevering. Na 2027 bespaart ze extra €600/jaar bovenop de huidige Radar-inkomsten.
+Een batterij van 10 kWh vangt in dit model circa 80 procent van die teruglevering op als eigen verbruik, wat na 2027 grofweg €600 per jaar extra oplevert bovenop de Radar-opbrengst. Let op: dat teruglevertarief van €0,06-€0,07/kWh is een aanname — het is nog niet vastgesteld en verschilt per leverancier.
 
-**Totale waarde pakket na 2027**: ~€2.500-€2.700/jaar.
-**Lease-kosten**: €2.220/jaar.
-**Netto voordeel na 2027**: €280-€480/jaar plus rijdt ze gratis met haar EV.
+**Totale modelwaarde pakket na 2027**: circa €2.500-€2.700 per jaar.
+**Lease-kosten**: €2.220 per jaar.
+**Netto voordeel na 2027 in dit model**: €280-€480 per jaar, waarbij het thuisladen van de EV al in die waarde zit.
 
 Zonneplan is een langzame-opbrengst investering die zijn waarde pas echt bewijst na 2027. Wil je nu direct renderen? Kies Sessy + dynamisch contract apart.
 
@@ -370,7 +372,9 @@ Voor mensen die al zonnepanelen hebben + dynamisch contract: kies Sessy thuisbat
 
 Voor wie geen panelen heeft maar alles in één keer wil: Zonneplan lease is een redelijk pakket. Niet goedkoopst, maar wel zonder hoofdpijn.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Zonneplan</a> · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/)
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan</a> (gewone verwijzing, geen commissie) · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/) · [thuisbatterij-vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/) · [beste thuisbatterij 10 kWh](/posts/thuisbatterij-10-kwh-vergelijking-2026/) · [goedkoopste thuisbatterij](/posts/goedkoopste-thuisbatterij-2026/)
+
+Wil je de losse route — batterij zelf kiezen, dynamisch contract apart — dan is Zendure een modulair alternatief in het lagere prijssegment: <a href="https://go.duurzaamthuislab.nl/zendure" class="cta-affiliate" rel="nofollow noopener" target="_blank">bekijk Zendure</a> (ook hier geen commissie-afspraak). Hoeveel arbitrage zo'n opstelling oplevert, hangt volledig af van de dagspread: die staat live op onze pagina met [dynamische stroomprijzen per uur](/stroomprijzen/).
 
 ---
 
@@ -380,12 +384,12 @@ Zonneplan is in 2026 een prima keus voor mensen die "alles van één partij" wil
 
 Voor de tech-nerd die zelf wil samenstellen: minder geschikt — kies Sessy + Tibber. Voor de gemiddelde Nederlander zonder veel tijd: Zonneplan kan letterlijk een no-brainer zijn.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan</a>
 
 ## Gerelateerde artikelen
 
@@ -394,6 +398,7 @@ Voor de tech-nerd die zelf wil samenstellen: minder geschikt — kies Sessy + Ti
 - [Tibber review](/posts/tibber-review-ervaringen-2026/)
 - [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/)
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
+- [Dynamische stroomprijzen per uur (vandaag en morgen)](/stroomprijzen/)
 
 ---
 

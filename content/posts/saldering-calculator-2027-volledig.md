@@ -378,7 +378,7 @@ De échte kostenbesparing zit in: **hoog eigen verbruik door batterij + warmtepo
 
 Gebruik de calculator hierboven met je eigen cijfers. De afbouw-percentages in dit artikel worden bijgewerkt zodra het wetsvoorstel definitief door de Eerste Kamer is.
 
-*Vragen over je eigen berekening? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je eigen berekening? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

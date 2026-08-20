@@ -307,7 +307,7 @@ Wat de keuze werkelijk bepaalt, is niet het merk maar één vraag: welke aanvoer
 
 Beide keuzes zijn goed, mits ze bij de situatie passen. Laat daarom eerst een warmteverliesberekening maken, en kies daarna pas een merk.
 
-*Vragen over jouw woning? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over jouw woning? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ## Gerelateerde artikelen
 

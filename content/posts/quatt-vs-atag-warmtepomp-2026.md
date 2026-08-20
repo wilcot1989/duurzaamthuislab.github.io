@@ -348,7 +348,7 @@ Voor een typisch Nederlands gezin met label-C-woning is Atag iC Hybrid vaak de b
 
 Belangrijker dan de merkkeuze is de vraag of je woning klaar is voor all-electric. Is dat niet zo, dan is een hybride geen compromis maar simpelweg de juiste techniek voor die woning — en halveert het gasverbruik zonder dat je eerst een isolatie- en afgifterenovatie hoeft te doen. Soms is "goed genoeg" precies wat een woning nodig heeft.
 
-*Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ## Gerelateerde artikelen
 

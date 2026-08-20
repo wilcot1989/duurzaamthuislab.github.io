@@ -361,6 +361,6 @@ Geen van beide is "fout". Dynamisch contract zonder marge is in 2026 altijd bete
 
 ---
 
-*Heb je vragen over jouw specifieke situatie — EV-merk, bestaand contract, of thuisbatterij? Mail naar [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl); wij reageren normaal binnen 1-2 werkdagen.*
+*Heb je vragen over jouw specifieke situatie — EV-merk, bestaand contract, of thuisbatterij? Mail naar [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl); wij reageren normaal binnen 1-2 werkdagen.*
 
 **Externe bron:** [ACM ConsuWijzer — energieleverancier vergelijken](https://www.consuwijzer.nl/energie) — onafhankelijke consumenteninformatie over energiecontracten in Nederland.

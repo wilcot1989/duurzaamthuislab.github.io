@@ -52,6 +52,6 @@ Lees onze [affiliate-disclosure](/affiliate-disclosure/) voor het juridische kad
 
 ---
 
-*Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 *Laatste update: 2026-04-29*

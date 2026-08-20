@@ -327,7 +327,7 @@ Voor iedereen die twijfelt: de ACM's [ConsuWijzer energievergelijker](https://ww
 
 <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Ga naar Frank Energie — het beste Tibber-alternatief →</a>
 
-*Vragen over je eigen situatie? Stuur een mail naar [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je eigen situatie? Stuur een mail naar [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

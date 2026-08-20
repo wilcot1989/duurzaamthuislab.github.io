@@ -540,7 +540,7 @@ Subsidies voor thuisbatterijen in 2026 zijn **rommelig**:
 
 Onze vuistregel: subsidie is leuk maar niet doorslaggevend. De 0% BTW alleen is al €500-€2.000 voordeel. Lokale subsidies kunnen €300-€750 erbij. Maar wacht niet op subsidies om je batterij te kopen — saldering stopt 1-1-2027 en daarom heb je hoe dan ook een batterij of dynamisch contract nodig.
 
-*Vragen over jouw specifieke gemeentesubsidie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over jouw specifieke gemeentesubsidie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

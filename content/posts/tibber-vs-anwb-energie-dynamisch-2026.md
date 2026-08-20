@@ -278,7 +278,7 @@ Onder ~2.500 kWh of zonder EV/batterij: ANWB. Boven 2.500 kWh met EV of smart-ho
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Probeer Tibber →</a> · <a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk ANWB Energie →</a> · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Frank Energie (alternatief) →</a>
 
-*Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

@@ -384,7 +384,7 @@ Jackery en Bluetti zijn geen volwaardige vervangers voor een vaste thuisbatterij
 
 En als je toch twijfelt: lees dan eerst de volledige [Sessy review](/posts/sessy-review-thuisbatterij-nederland/) en de [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/) naast elkaar. Het kan zijn dat €5.995 voor jóuw situatie toch de beste investering is.
 
-*Vragen over je specifieke situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je specifieke situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

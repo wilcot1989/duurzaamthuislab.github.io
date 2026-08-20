@@ -424,7 +424,7 @@ Een eenvoudig keuzemodel voor wie twijfelt. Beantwoord deze vijf vragen eerlijk:
 
 Voor 70% van Nederlandse huishoudens met een gezond cashflow en geen verhuisplannen: kopen. Voor 30% (krappe cashflow of mogelijk verhuizen): lease.
 
-*Eigen rekensom willen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Eigen rekensom willen? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

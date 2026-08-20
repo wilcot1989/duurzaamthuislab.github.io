@@ -450,7 +450,7 @@ Terugleverkosten zijn de eerste van twee klappen die zonnepaneel-bezitters opvan
 
 Per jaar verschilt het voordeel van een goede keuze al snel €150-€350 — bovenop de besparing op leveringstarief zelf. Dat is geen detail; dat is een halve thuisbatterij.
 
-*Vragen over jouw specifieke leverancier of een berekening voor je situatie? Mail de redactie via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over jouw specifieke leverancier of een berekening voor je situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

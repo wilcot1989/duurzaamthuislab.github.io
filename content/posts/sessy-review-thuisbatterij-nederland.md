@@ -396,7 +396,7 @@ Sessy is een degelijke, doordachte Nederlandse thuisbatterij die zichzelf op bas
 
 Voor wie meer wil (V2H, hoog vermogen, automatische backup): kijk naar Tesla Powerwall. Voor wie minder budget heeft: kijk naar de Marstek Venus serie. Maar voor de gulden middenweg in 2026 is Sessy onze aanrader.
 
-*Heb je vragen over Sessy of jouw specifieke situatie? Mail ons via [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Heb je vragen over Sessy of jouw specifieke situatie? Mail ons via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

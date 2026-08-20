@@ -363,7 +363,7 @@ Een goede warmtepompinstallateur kiezen is geen rocket science, maar het vergt 4
 
 De vijf hoofdpunten: warmteverlies-berekening eisen, drie offertes vergelijken, schriftelijk werkplan, F-gassen certificaat verifiëren, oplevering uitgebreid doen. Wie deze stappen volgt eindigt met een efficiënte warmtepomp die 10-15 jaar zorgeloos draait.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

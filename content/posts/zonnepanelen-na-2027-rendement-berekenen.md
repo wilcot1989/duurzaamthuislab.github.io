@@ -404,7 +404,7 @@ Zonnepanelen blijven na 2027 rendabel — voor de meeste huishoudens met IRR 6-1
 
 Doe deze drie en de saldering-stop kost je weinig. Doe niets en je terugverdientijd verdubbelt.
 
-*Wil je een berekening voor jouw specifieke situatie? Stuur je verbruik, paneelvermogen en oriëntatie naar [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl) — de redactie rekent het door.*
+*Wil je een berekening voor jouw specifieke situatie? Stuur je verbruik, paneelvermogen en oriëntatie naar [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl) — de redactie rekent het door.*
 
 ---
 

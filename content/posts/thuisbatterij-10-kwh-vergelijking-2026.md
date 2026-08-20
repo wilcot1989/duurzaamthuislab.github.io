@@ -501,7 +501,7 @@ Voor de Nederlandse zonnepaneelbezitter die in 2026 een 10 kWh batterij wil: **S
 
 Sessy als budget €5.000+ is en je geen tijd voor smart home wilt steken. Marstek als je <€3.500 wilt uitgeven en wel met Home Assistant overweg kunt. Andere keuzes hebben specifieke use-cases maar voor de gemiddelde gebruiker zijn deze twee de duidelijke aanraders.
 
-*Specifieke berekening voor jouw situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Specifieke berekening voor jouw situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

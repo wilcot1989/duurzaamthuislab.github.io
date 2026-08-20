@@ -322,7 +322,7 @@ Belangrijker dan het merk: vraag minimaal 3 offertes, check installateur-reviews
 
 <a href="https://go.duurzaamthuislab.nl/atag" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Atag →</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Daikin →</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Vaillant →</a> · <a href="https://go.duurzaamthuislab.nl/quatt" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Quatt →</a>
 
-*Vragen? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

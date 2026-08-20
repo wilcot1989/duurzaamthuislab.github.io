@@ -411,7 +411,7 @@ Een veelgehoord bezwaar: "maar ik heb geen tijd om de uurprijzen bij te houden."
 
 Een dynamisch contract is de eerste stap — gratis, direct voordeel, geen risico. De tweede stap is een thuisbatterij. De derde stap is slim laden van je EV als je die hebt. Elke stap bouwt op de vorige. Wie alle drie combineert, haalt bij een gemiddeld huishouden met EV een besparing van meer dan duizend euro per jaar ten opzichte van een vast contract. Reken dat door met je eigen verbruik en de spread op je contract in plaats van met dit bedrag: de uitkomst hangt volledig af van hoeveel kWh je kunt verschuiven.
 
-*Vragen over jouw situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over jouw situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

@@ -428,7 +428,7 @@ De prijs is iets hoger dan Vaillant en Daikin, maar de extra investering verdien
 
 Niet voor iedereen geschikt. Wel voor wie weet wat hij wil en bereid is een premium-merk de tijd te geven.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ## Gerelateerde artikelen
 

@@ -365,7 +365,7 @@ Frank Energie is de stille winnaar van de Nederlandse energiemarkt voor 2026. Ge
 
 Voor wie zonnepanelen heeft en zich op de afbouw van de saldering voorbereidt, is Frank bijna altijd de juiste keuze: je krijgt het volledige marktprijs voor teruglevering zonder inhoudingen, en de rekening is per uur te controleren tegen publieke marktdata.
 
-*Vragen? Stuur een mail naar [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen? Stuur een mail naar [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

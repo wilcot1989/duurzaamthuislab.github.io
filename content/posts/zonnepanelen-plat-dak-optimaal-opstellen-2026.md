@@ -362,7 +362,7 @@ Zuid wint op kWh/kWp. Oost-west wint op kWh/m² dakoppervlak en zelfconsumptie. 
 
 Onze aanbeveling: reken het door voor je eigen situatie in plaats van de standaardopstelling van de installateur over te nemen. De keuze tussen oost-west en zuid ligt 25 jaar vast — een paar weken extra vergelijken is die tijd waard.
 
-*Vragen over je specifieke daksituatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je specifieke daksituatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ## Gerelateerde artikelen
 

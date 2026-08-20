@@ -351,7 +351,7 @@ Marstek voor wie wil shoppen op prijs en zelf wil sleutelen. Tesla voor wie prem
 
 Belangrijker dan de batterij-keus: zorg dat je een dynamisch contract hebt op het moment dat de batterij wordt aangesloten. Zonder dat is elke batterij twee keer zo lang aan terugverdienen.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 

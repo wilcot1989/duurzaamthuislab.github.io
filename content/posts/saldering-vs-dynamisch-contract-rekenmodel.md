@@ -454,7 +454,7 @@ De keus tussen Tibber en Frank is vooral een kwestie van of je wel of geen autom
 
 Wachten tot 2027 om over te stappen levert je niets op behalve gemiste besparingen. Stap nu over en pak nog 8 maanden besparing voor de saldering-stop ingaat.
 
-*Specifieke berekening voor jouw profiel? Stuur je verbruik (jaarcijfer + paneelvermogen) naar [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl) — wij rekenen het door.*
+*Specifieke berekening voor jouw profiel? Stuur je verbruik (jaarcijfer + paneelvermogen) naar [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl) — wij rekenen het door.*
 
 ---
 

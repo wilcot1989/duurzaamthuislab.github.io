@@ -7,7 +7,7 @@ draft: false
 
 ## Contact
 
-Heb je een vraag, feedback of suggestie? Stuur een mail naar **[contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl)** — ik lees ze allemaal en antwoord meestal binnen 48 uur.
+Heb je een vraag, feedback of suggestie? Stuur een mail naar **[info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl)** — ik lees ze allemaal en antwoord meestal binnen 48 uur.
 
 ### Wanneer mailen
 - **Feitelijke onjuistheden** in een artikel? Graag — verbeteringen krijgen voorrang

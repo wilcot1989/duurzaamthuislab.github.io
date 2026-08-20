@@ -330,7 +330,7 @@ Combineer een budget-paneelpakket met een Marstek thuisbatterij (€2.299) voor 
 
 <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Zonneplan →</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Probeer Tibber →</a>
 
-*Vragen over een specifieke offerte? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl) en stuur 'm op.*
+*Vragen over een specifieke offerte? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl) en stuur 'm op.*
 
 ---
 

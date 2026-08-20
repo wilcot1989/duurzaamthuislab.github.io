@@ -377,7 +377,7 @@ Marstek Jupiter is in 2026 de slimste keus voor budget-bewuste MKB en grote woni
 
 Voor wie maximale opbrengst over 10 jaar wil: Sessy Pro is netto voordeliger. Voor wie nu €2.500-€3.500 wil besparen op aanschaf: Jupiter is de juiste keus.
 
-*Vragen over je situatie? Mail [contact@duurzaamthuislab.nl](mailto:contact@duurzaamthuislab.nl).*
+*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 
