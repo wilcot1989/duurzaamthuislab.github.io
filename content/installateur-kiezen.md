@@ -145,7 +145,7 @@ Praktische aanpak:
 3. **Loop de zeven punten hierboven per aanbieder na** en bewaar de antwoorden schriftelijk.
 4. **Laat de laagste prijs niet automatisch winnen.** Een lagere prijs die de meterkastaanpassing of het waterzijdig inregelen buiten de opdracht laat, is geen lagere prijs.
 
-<a href="https://go.duurzaamthuislab.nl/slimster?ref=/installateur-kiezen/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate" style="display:inline-block;background:#0e7490;color:#fff;padding:.7rem 1.4rem;border-radius:8px;text-decoration:none;font-weight:600;margin:.5rem 0;">Offertes van installateurs in je regio vergelijken →</a>
+<a href="https://go.duurzaamthuislab.nl/slimster?ref=/installateur-kiezen/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Offertes van installateurs in je regio vergelijken →</a>
 
 Ook via een offerteplatform blijft de checklist hierboven je eigen werk: een platform selecteert bedrijven op zijn eigen voorwaarden, niet op de jouwe.
 

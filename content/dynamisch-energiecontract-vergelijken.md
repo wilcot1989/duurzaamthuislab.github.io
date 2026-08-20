@@ -53,7 +53,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">€ 0,018/kWh<br><span style="color:#666;font-size:.82rem;">peildatum aug 2026 — gastarief wijzigt per 1 sep 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 8,50/mnd stroom<br><span style="color:#666;font-size:.82rem;">gas idem, gaat per 1 sep 2026 naar € 9,75</span></td>
       <td style="padding:.7rem;vertical-align:top;">Dagelijks opzegbaar, zonder opzegboete</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/anwb-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/anwb-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
       <td style="padding:.7rem;vertical-align:top;"><strong>Budget Thuis</strong></td>
@@ -61,7 +61,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">Omzetten naar vast kan op ieder moment zonder opzegvergoeding; geen opzegtermijn in dagen gepubliceerd</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/budget-thuis-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/budget-thuis-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
       <td style="padding:.7rem;vertical-align:top;"><strong>easyEnergy</strong></td>
@@ -69,7 +69,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">2,178 ct/kWh incl. btw<br><span style="color:#666;font-size:.82rem;">peildatum aug 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 7/mnd per aansluiting<br><span style="color:#666;font-size:.82rem;">stroom + gas = € 14/mnd</span></td>
       <td style="padding:.7rem;vertical-align:top;">Geen contractverlenging, geen opzegtermijn, geen boetes</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/easyenergy?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/easyenergy?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
       <td style="padding:.7rem;vertical-align:top;"><strong>Eneco</strong></td>
@@ -77,7 +77,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">"Flexibel op te zeggen", bij Slim laden: zonder boete opzeggen; exacte termijn niet gepubliceerd</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/eneco?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/eneco?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
       <td style="padding:.7rem;vertical-align:top;"><strong>EnergyZero</strong></td>
@@ -85,7 +85,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">Elk moment opzegbaar</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/energyzero?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/energyzero?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
       <td style="padding:.7rem;vertical-align:top;"><strong>Essent</strong></td>
@@ -93,7 +93,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">Opzegtermijn 5 werkdagen, geen opzegboete</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/essent?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/essent?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
       <td style="padding:.7rem;vertical-align:top;"><strong>Frank Energie</strong></td>
@@ -101,7 +101,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">€ 0,0182/kWh<br><span style="color:#666;font-size:.82rem;">peildatum aug 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 7,25/mnd</td>
       <td style="padding:.7rem;vertical-align:top;">zie voorwaarden — het opzegbeleid was op het moment van controle niet uit het helpcentrum te lezen</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
       <td style="padding:.7rem;vertical-align:top;"><strong>NextEnergy</strong></td>
@@ -109,7 +109,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">Volledig dynamisch: nooit een opzegvergoeding. Met prijsplafond of vast gas: wél opzegvergoeding</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/nextenergy?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/nextenergy?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
       <td style="padding:.7rem;vertical-align:top;"><strong>Tibber</strong></td>
@@ -117,7 +117,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">€ 0,0248/kWh<br><span style="color:#666;font-size:.82rem;">peildatum aug 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 5,99/mnd per contract<br><span style="color:#666;font-size:.82rem;">stroom en gas zijn aparte contracten</span></td>
       <td style="padding:.7rem;vertical-align:top;">Elk moment opzegbaar, zonder boete of opzegvergoeding</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/tibber?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/tibber?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
       <td style="padding:.7rem;vertical-align:top;"><strong>Vandebron</strong></td>
@@ -125,7 +125,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">Elke dag kosteloos opzegbaar</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/vandebron?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/vandebron?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
       <td style="padding:.7rem;vertical-align:top;"><strong>Vattenfall</strong></td>
@@ -133,7 +133,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">zie site<br><span style="color:#666;font-size:.82rem;">kan max. 4x/jaar wijzigen</span></td>
       <td style="padding:.7rem;vertical-align:top;">zie site</td>
       <td style="padding:.7rem;vertical-align:top;">FlexPrijs: kosteloos opzeggen op ieder moment. Combinatie met vaste gasprijs: opzegvergoeding binnen het contractjaar</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/vattenfall?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/vattenfall?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
       <td style="padding:.7rem;vertical-align:top;"><strong>Zonneplan</strong></td>
@@ -141,7 +141,7 @@ Deze pagina is de vergelijker: **alle Nederlandse aanbieders met een dynamisch c
       <td style="padding:.7rem;vertical-align:top;">€ 0,02/kWh<br><span style="color:#666;font-size:.82rem;">gas € 0,08/m³, peildatum aug 2026, check actueel</span></td>
       <td style="padding:.7rem;vertical-align:top;">€ 6,25/mnd per product<br><span style="color:#666;font-size:.82rem;">stroom en gas apart</span></td>
       <td style="padding:.7rem;vertical-align:top;">Dagelijks kosteloos opzegbaar, geen opzegboetes, 14 dagen bedenktijd</td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/zonneplan?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="display:inline-block;background:#0e7490;color:#fff;padding:.45rem .9rem;border-radius:6px;text-decoration:none;font-weight:600;white-space:nowrap;font-size:.85rem;">Bekijk →</a></td>
+      <td style="padding:.7rem;vertical-align:top;"><a href="https://go.duurzaamthuislab.nl/zonneplan?ref=/dynamisch-energiecontract-vergelijken/" target="_blank" rel="noopener nofollow sponsored" >Bekijk →</a></td>
     </tr>
   </tbody>
 </table>

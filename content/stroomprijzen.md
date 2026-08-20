@@ -71,7 +71,7 @@ De prijzen hierboven zijn de **kale inkoopprijzen** van de stroombeurs. Je lever
 
 De kale prijs bepaalt dus je *besparingskansen* (verschuiven naar goedkope uren), maar vergelijk aanbieders altijd op de totale opbouw. In onze [vergelijking van dynamische energiecontracten](/posts/dynamische-energiecontracten-vergelijking-2026/) zetten we de aanbieders naast elkaar; wie een thuisbatterij overweegt om op deze uurverschillen te handelen, vindt het rekenmodel in [dynamisch contract + thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/stroomprijzen/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate" style="display:inline-block;background:#0e7490;color:#fff;padding:.7rem 1.4rem;border-radius:8px;text-decoration:none;font-weight:600;margin:.5rem 0;">Bekijk Frank Energie (dynamisch contract) →</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/stroomprijzen/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Frank Energie (dynamisch contract) →</a>
 
 ## Veelgestelde vragen
 

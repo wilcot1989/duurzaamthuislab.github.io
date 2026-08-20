@@ -173,9 +173,9 @@ Wie na 2027 rekent, moet dus twee sommen maken: deze arbitragesom, plus de waard
 
 Handelen op uurprijzen kan alleen als je batterij extern aanstuurbaar is — via het platform van de leverancier, een eigen API of Home Assistant. Twee merken met een modulair systeem en een uitleesbare API:
 
-<a href="https://go.duurzaamthuislab.nl/zendure?ref=/terugverdientijd-thuisbatterij/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate" style="display:inline-block;background:#0e7490;color:#fff;padding:.7rem 1.4rem;border-radius:8px;text-decoration:none;font-weight:600;margin:.5rem .5rem .5rem 0;">Bekijk Zendure thuisbatterijen →</a>
+<a href="https://go.duurzaamthuislab.nl/zendure?ref=/terugverdientijd-thuisbatterij/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Zendure thuisbatterijen →</a>
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/terugverdientijd-thuisbatterij/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate" style="display:inline-block;background:#0e7490;color:#fff;padding:.7rem 1.4rem;border-radius:8px;text-decoration:none;font-weight:600;margin:.5rem 0;">Bekijk EcoFlow thuisbatterijen →</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/terugverdientijd-thuisbatterij/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk EcoFlow thuisbatterijen →</a>
 
 Vergelijk vóór aankoop altijd de bruikbare capaciteit (niet de bruto), het round-trip-rendement en de garantievoorwaarden op restcapaciteit — dat zijn precies de drie velden die deze rekentool nodig heeft. Onze [vergelijking van 10 kWh-thuisbatterijen](/posts/thuisbatterij-10-kwh-vergelijking-2026/) zet die specificaties naast elkaar.
 

@@ -249,7 +249,7 @@
     body { font-family: var(--sans); color: var(--ink); line-height: 1.65; background: var(--cream); font-size: 1.0625rem; }
     a { color: var(--terracotta); text-decoration: none; transition: color 0.15s; }
     a:hover { color: var(--terracotta-deep); text-decoration: underline; }
-    .container { max-width: 960px; margin: 0 auto; padding: 0 clamp(1.25rem, 4vw, 2rem); }
+    .container { max-width: 1080px; margin: 0 auto; padding: 0 clamp(1.25rem, 4vw, 2rem); }
     .wide { max-width: 1240px; }
 
     /* Header — editorial style: cream bg with sticky behavior */
@@ -300,6 +300,27 @@
     .cta-outline:hover { background: var(--ink); color: var(--cream); }
     .cta-affiliate { background: var(--terracotta); color: var(--cream); }
     .cta-affiliate:hover { background: var(--terracotta-deep); color: var(--cream); }
+
+    /* Conversie-blokken — consistent met het redactionele palet */
+    .verdict-card { background: var(--cream-soft); border: 1px solid var(--ink-line); border-left: 3px solid var(--terracotta); border-radius: 2px; padding: 1.25rem 1.5rem; margin: 1.5rem 0; }
+    .verdict-eyebrow { font-family: var(--mono); font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--terracotta); margin-bottom: 0.5rem; }
+    .verdict-row { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem; justify-content: space-between; }
+    .verdict-name { font-family: var(--display); font-size: 1.25rem; font-weight: 500; color: var(--ink); }
+    .verdict-price { color: var(--ink-soft); font-size: 0.9rem; }
+    .product-list { margin: 2rem 0; padding: 1.25rem 1.5rem; background: var(--cream-soft); border: 1px solid var(--ink-line); border-radius: 2px; }
+    .product-list h3 { margin-top: 0; }
+    .product-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem; justify-content: space-between; padding: 0.75rem 0; border-bottom: 1px dashed var(--ink-line); }
+    .product-row:last-child { border-bottom: none; }
+    .product-name { font-weight: 600; color: var(--ink); }
+    .product-price { color: var(--ink-soft); font-size: 0.9rem; }
+    .cta-sm { padding: 0.55rem 1.1rem; font-size: 0.85rem; }
+    .newsletter-box { background: var(--cream-soft); border: 1px solid var(--ink-line); border-left: 3px solid var(--forest); border-radius: 2px; padding: 1.5rem; margin: 2rem 0; }
+    .newsletter-box h3 { margin-top: 0; color: var(--forest); }
+    .newsletter-form { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .newsletter-form input[type=email] { flex: 1; min-width: 200px; padding: 0.7rem 0.9rem; border: 1px solid var(--ink-line); border-radius: 2px; font: inherit; background: var(--paper); }
+    .newsletter-form button { background: var(--forest); color: var(--cream); padding: 0.7rem 1.4rem; border: 0; border-radius: 2px; font-weight: 600; font-family: var(--sans); cursor: pointer; transition: background 0.2s; }
+    .newsletter-form button:hover { background: var(--forest-deep); }
+    .mobile-cta-bar { position: fixed; bottom: 0; left: 0; right: 0; background: var(--paper); border-top: 1px solid var(--ink-line); padding: 0.6rem 1rem; display: none; align-items: center; gap: 0.75rem; z-index: 40; box-shadow: 0 -4px 12px rgba(0,0,0,0.08); }
 
     /* Pros/Cons */
     .pros-cons { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0; }

@@ -311,7 +311,7 @@ Vraag altijd meerdere offertes aan bij lokale bedrijven. Prijsverschil tussen in
 - ISDE-registraties bij RVO (RVO.nl → leverancierslijst)
 - Verbouwkosten.nl of Werkspot.nl (vraag specifiek naar KOMO-certificaat)
 
-<a href="/posts/isolatie-subsidie-nederland-2026/" class="cta-affiliate">Offerte aanvragen spouwmuurisolatie</a>
+<a href="/posts/isolatie-subsidie-nederland-2026/" class="cta cta-affiliate">Offerte aanvragen spouwmuurisolatie</a>
 
 ---
 
