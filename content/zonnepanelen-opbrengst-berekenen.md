@@ -44,7 +44,7 @@ Wil je weten wat je zonnepanelen opleveren — vandaag, morgen of over een heel 
     <div style="font-size:.75rem;color:#888;">vuistregel ± 875–950 kWh per kWp per jaar in Nederland (modelaanname, werkelijke opbrengst hangt af van locatie, hellingshoek en schaduw)</div>
   </div>
 
-  <p style="color:#666;font-size:.85rem;margin:0;">Modelberekening — geen garantie. Bron dagverwachting: Open-Meteo-instraling (De Bilt), performance ratio 0,85.</p>
+  <p style="color:#666;font-size:.85rem;margin:0;">Modelberekening — geen garantie. Bron dagverwachting: Open-Meteo-instraling (De Bilt), performance ratio 0,85. Aan deze informatie kunnen geen rechten worden ontleend.</p>
 </div>
 
 <script>

@@ -13,7 +13,7 @@ faq:
 - q: 'Waarom staan er in de tabel geen inkoopvergoedingen bij alle aanbieders?'
   a: 'Omdat de meeste leveranciers dat bedrag niet vrij toegankelijk op hun eigen site publiceren — je ziet het pas na een postcodecheck of in de mijn-omgeving. Wij nemen alleen bedragen op die we op de site van de leverancier zelf kunnen teruglezen. Bij de rest staat "zie site". Dat is bewust: een getal uit een vergelijkingssite overtypen zou de indruk van leverancierswaarheid geven die het niet heeft.'
 - q: 'Verandert de inkoopvergoeding vaak?'
-  a: 'Ja. Vattenfall vermeldt bijvoorbeeld expliciet dat de inkoopvergoeding maximaal vier keer per jaar gewijzigd kan worden, en ANWB Energie had op het moment van schrijven al een tariefwijziging per 1 september 2026 aangekondigd. Daarom staat bij elk bedrag in de tabel een peildatum en is de leverancierssite altijd leidend.'
+  a: 'Ja. Vattenfall vermeldt bijvoorbeeld expliciet dat de inkoopvergoeding maximaal vier keer per jaar gewijzigd kan worden, en ANWB Energie had op het moment van schrijven al een tariefwijziging per 1 september 2026 aangekondigd. Daarom staat bij elk bedrag in de tabel een peildatum en is de leverancierssite altijd leidend. Aan de bedragen in dit overzicht kunnen geen rechten worden ontleend.'
 - q: 'Heb ik een slimme meter nodig?'
   a: 'Ja. Een dynamisch contract wordt per uur of per kwartier afgerekend, en dat kan alleen met een slimme meter die die standen doorgeeft. Leveranciers zoals Tibber en EnergyZero noemen dat expliciet als voorwaarde. Voor extra inzicht in de app vragen sommige aanbieders een aanvullende P1-dongle.'
 - q: 'Bepaalt jullie commissie de volgorde van deze tabel?'

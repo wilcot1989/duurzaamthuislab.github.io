@@ -16,7 +16,7 @@ Negatieve stroomprijzen betekenen dat de kale beursprijs voor een uur onder nul 
     <div id="neg-vandaag" style="background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:.9rem;"><div style="font-size:.8rem;color:#666;">Vandaag</div><div style="color:#888;font-size:.9rem;">laden…</div></div>
     <div id="neg-morgen" style="background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:.9rem;"><div style="font-size:.8rem;color:#666;">Morgen</div><div style="color:#888;font-size:.9rem;">laden…</div></div>
   </div>
-  <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Kale EPEX-prijs incl. btw, excl. energiebelasting en de inkoopvergoeding van je leverancier. Bron: day-ahead-veiling. Alle tijden in Europe/Amsterdam.</p>
+  <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Kale EPEX-prijs incl. btw, excl. energiebelasting en de inkoopvergoeding van je leverancier. Bron: day-ahead-veiling. Alle tijden in Europe/Amsterdam. Aan deze informatie kunnen geen rechten worden ontleend.</p>
 </div>
 
 <script>

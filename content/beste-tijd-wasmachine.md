@@ -13,7 +13,7 @@ Heb je een **dynamisch energiecontract**, dan bepaalt de beursprijs per uur wann
 
 <div id="bw-tool" style="background:#f8f9fa;border:1px solid #e0e0e0;border-radius:12px;padding:1.5rem;margin:1.5rem 0;">
   <div id="bw-kaarten" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:.8rem;"><span style="color:#666;font-size:.9rem;">laden…</span></div>
-  <p id="bw-noot" style="color:#666;font-size:.85rem;margin-top:.8rem;">Kale EPEX-prijs incl. btw, excl. energiebelasting en de inkoopvergoeding van je leverancier. Een tweeuursblok is gekozen omdat een gemiddeld wasprogramma daarbinnen valt; controleer de looptijd van jouw programma. Bron: day-ahead-veiling.</p>
+  <p id="bw-noot" style="color:#666;font-size:.85rem;margin-top:.8rem;">Kale EPEX-prijs incl. btw, excl. energiebelasting en de inkoopvergoeding van je leverancier. Een tweeuursblok is gekozen omdat een gemiddeld wasprogramma daarbinnen valt; controleer de looptijd van jouw programma. Bron: day-ahead-veiling. Aan deze informatie kunnen geen rechten worden ontleend.</p>
 </div>
 
 <script>

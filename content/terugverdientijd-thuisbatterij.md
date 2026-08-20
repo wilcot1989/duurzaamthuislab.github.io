@@ -11,7 +11,7 @@ lastmod: 2026-08-20
 
 Hoe lang duurt het voordat een thuisbatterij zichzelf terugbetaalt? Dat hangt af van zes variabelen. Vul ze hieronder in — de tool rekent de jaaropbrengst uit en telt de opbrengst per jaar op tot je de investering eruit hebt, waarbij de capaciteit elk jaar afneemt door degradatie.
 
-De startwaarden zijn **aanpasbare aannames**, geen meetresultaten. Waar ze vandaan komen staat onder elk veld en in de onderbouwing verderop.
+De startwaarden zijn **aanpasbare aannames**, geen meetresultaten. Waar ze vandaan komen staat onder elk veld en in de onderbouwing verderop. Aan de uitkomsten kunnen geen rechten worden ontleend.
 
 <div id="tvt-tool" style="background:#f8f9fa;border:1px solid #e0e0e0;border-radius:12px;padding:1.5rem;margin:1.5rem 0;">
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1.1rem;">

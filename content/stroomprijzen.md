@@ -21,7 +21,7 @@ Op deze pagina zie je de **dynamische stroomprijzen per uur** voor vandaag en (n
   <div id="sp-acties" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:.8rem;margin-bottom:1.2rem;"></div>
   <div id="sp-chart" style="display:flex;align-items:flex-end;gap:2px;height:180px;"></div>
   <div style="display:flex;justify-content:space-between;color:#888;font-size:.8rem;margin-top:.3rem;"><span>00:00</span><span>12:00</span><span>23:00</span></div>
-  <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Kale EPEX-prijs incl. btw, excl. energiebelasting en de inkoopvergoeding van je leverancier. Bron: day-ahead-veiling, elk kwartier ververst.</p>
+  <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Kale EPEX-prijs incl. btw, excl. energiebelasting en de inkoopvergoeding van je leverancier. Bron: day-ahead-veiling, elk kwartier ververst. Aan deze informatie kunnen geen rechten worden ontleend.</p>
 </div>
 
 <script>
@@ -89,6 +89,7 @@ Ook de gasprijs beweegt dagelijks mee met de beurs (LEBA/TTF). Anders dan stroom
     <div style="display:flex;justify-content:space-between;align-items:baseline;"><div style="font-size:.8rem;color:#666;">Gasprijs afgelopen 30 dagen</div><div id="gas-range" style="font-size:.75rem;color:#888;"></div></div>
     <div id="gas-chart" style="display:flex;align-items:flex-end;gap:2px;height:70px;margin-top:.5rem;"></div>
   </div>
+  <p style="grid-column:1/-1;color:#666;font-size:.85rem;margin:0;">Kale day-ahead-prijs (LEBA/TTF) incl. btw. Bron: EnergyZero. Aan deze informatie kunnen geen rechten worden ontleend. Meer detail — inclusief de prijs van morgen: <a href="/gasprijs/">gasprijs vandaag en morgen</a>.</p>
 </div>
 
 Wie veel gas verbruikt, bespaart structureel meer met [isoleren](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/) of een [(hybride) warmtepomp](/posts/beste-hybride-warmtepomp-2026/) dan met overstappen alleen.
@@ -99,7 +100,7 @@ Hoeveel leveren je zonnepanelen vandaag en de komende dagen op? Onderstaande ver
 
 <div id="zon-tool" style="background:#f8f9fa;border:1px solid #e0e0e0;border-radius:12px;padding:1.5rem;margin:1.5rem 0;">
   <div id="zon-dagen" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:.8rem;"><span style="color:#666;font-size:.9rem;">laden…</span></div>
-  <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Voorbeeld: bij een installatie van 4 kWp is de verwachte dagopbrengst 4 × het getal per kWp. Bron: Open-Meteo instraling-forecast; opbrengst = modelberekening (PR 0,85).</p>
+  <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Voorbeeld: bij een installatie van 4 kWp is de verwachte dagopbrengst 4 × het getal per kWp. Bron: Open-Meteo instraling-forecast; opbrengst = modelberekening (PR 0,85). Aan deze informatie kunnen geen rechten worden ontleend.</p>
 </div>
 
 Wil je weten wat dit voor jóúw installatie betekent? Gebruik de [opbrengst-calculator](/zonnepanelen-opbrengst-berekenen/) — aantal panelen en oriëntatie invullen, en je ziet de verwachting per dag.
@@ -133,6 +134,8 @@ fetch('https://beheer.wtdigital.nl/api/public/zonverwachting').then(function(r){
   }).join('');
 }).catch(function(){ document.getElementById('zon-dagen').innerHTML = '<span style="color:#666;font-size:.9rem;">Kon verwachting niet laden.</span>'; });
 </script>
+
+Benieuwd hoe de prijzen zich over langere tijd ontwikkelen? Bekijk de [historie van dynamische stroomprijzen](/stroomprijzen-historie/) — maand- en daggemiddelden, en elke dag sinds 2014 terug te kijken.
 
 ## Van kale beursprijs naar wat jij betaalt
 
