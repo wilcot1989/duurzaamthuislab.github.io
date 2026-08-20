@@ -58,7 +58,18 @@ We tracken geen embeds. Je hoeft niets aan te vragen — gewoon embedden + credi
 [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl)
 
 
-## Live stroomprijzen-widget (nieuw)
+## Powerstation-runtime-widget
+
+Laat bezoekers uitrekenen hoe lang een powerstation hun apparaten voedt — handig voor camping-, vanlife- en klussites:
+
+```html
+<iframe src="https://duurzaamthuislab.nl/widget-powerstation/"
+        title="Powerstation-runtime berekenen — DuurzaamThuisLab"
+        width="100%" height="290" loading="lazy"
+        style="border:1px solid #e0e0e0;border-radius:10px;max-width:520px;"></iframe>
+```
+
+## Live stroomprijzen-widget
 
 Toon de actuele dynamische stroomprijzen per uur op je eigen site — automatisch elke dag ververst:
 

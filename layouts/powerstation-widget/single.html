@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Powerstation-runtime berekenen — DuurzaamThuisLab</title>
+<style>
+  body { margin:0; font:14px/1.5 system-ui,sans-serif; background:#faf7f0; color:#1a2b1f; }
+  .w { padding:12px 14px; }
+  .kop { display:flex; justify-content:space-between; align-items:baseline; gap:8px; margin-bottom:8px; }
+  .kop strong { font-size:.85rem; }
+  label.f { display:block; font-size:.72rem; color:#555; margin-bottom:6px; }
+  select, input { width:100%; box-sizing:border-box; margin-top:2px; padding:5px 6px; border:1px solid #ccc; border-radius:6px; font:inherit; font-size:.8rem; background:#fff; }
+  .app { display:grid; grid-template-columns:repeat(3,1fr); gap:6px; margin-bottom:8px; }
+  .uit { display:flex; gap:14px; flex-wrap:wrap; background:#fff; border:1px solid #e0e0e0; border-radius:8px; padding:8px 10px; }
+  .uit div span { display:block; font-size:.68rem; color:#777; }
+  .uit div b { font-size:1.05rem; }
+  .rt b { color:#1a7a4a; }
+  .waarsch { margin-top:6px; font-size:.7rem; color:#a05a1a; }
+  .voet { margin-top:8px; font-size:.7rem; color:#777; }
+  .voet a { color:#c66e3f; text-decoration:none; font-weight:600; }
+</style>
+</head>
+<body>
+<div class="w">
+  <div class="kop"><strong>🔋 Hoe lang draait mijn powerstation?</strong></div>
+  <label class="f">Model<select id="pw-model"></select></label>
+  <div class="app">
+    <label class="f">Apparaat 1 (W)<input id="pw-a1" type="number" min="0" max="5000" step="5" value="60"></label>
+    <label class="f">Apparaat 2 (W)<input id="pw-a2" type="number" min="0" max="5000" step="5" value="45"></label>
+    <label class="f">Apparaat 3 (W)<input id="pw-a3" type="number" min="0" max="5000" step="5" value="0"></label>
+  </div>
+  <div class="uit">
+    <div class="rt"><span>Geschatte runtime</span><b id="pw-rt">—</b></div>
+    <div><span>Gevraagd vermogen</span><b id="pw-som">—</b></div>
+    <div><span>Bruikbaar (× 0,85)</span><b id="pw-bruik">—</b></div>
+  </div>
+  <div class="waarsch" id="pw-waarsch"></div>
+  <div class="voet">Rekentool door <a href="https://duurzaamthuislab.nl/powerstation-calculator/?utm_source=widget" target="_blank" rel="noopener">DuurzaamThuisLab.nl — powerstation-calculator</a> · geen rechten te ontlenen</div>
+</div>
+<script>
+(function(){
+  // Capaciteit (Wh) en continu vermogen (W) uit de fabrieksspecificaties, peildatum augustus 2026.
+  var M = [
+    { n:'EcoFlow Delta 2', wh:1024, w:1800 },
+    { n:'EcoFlow Delta 3 Classic', wh:1024, w:1800 },
+    { n:'ALLPOWERS R600', wh:299, w:600 },
+    { n:'ALLPOWERS R1500', wh:1152, w:1800 },
+    { n:'ALLPOWERS R2500-V2', wh:1920, w:2500 },
+    { n:'Jackery Explorer 2000 Plus', wh:2042, w:3000 },
+    { n:'Anker SOLIX C1000', wh:1056, w:1800 },
+    { n:'Bluetti EB70S', wh:716, w:800 }
+  ];
+  var sel = document.getElementById('pw-model');
+  sel.innerHTML = M.map(function(m,i){ return '<option value="'+i+'">'+m.n+' — '+m.wh+' Wh · '+m.w+' W</option>'; }).join('');
+  function nl(x){ return x.toLocaleString('nl-NL'); }
+  function uren(h){
+    if(!isFinite(h)||h<=0) return '—';
+    if(h>=100) return nl(Math.round(h))+' uur';
+    var u=Math.floor(h), m=Math.round((h-u)*60);
+    if(m===60){u+=1;m=0;}
+    return u>0 ? (u+' u '+String(m).padStart(2,'0')+' min') : (m+' min');
+  }
+  function reken(){
+    var m = M[parseInt(sel.value,10)] || M[0];
+    var som = ['pw-a1','pw-a2','pw-a3'].reduce(function(t,id){
+      var v = parseFloat(document.getElementById(id).value);
+      return t + (v>0 ? v : 0);
+    },0);
+    var bruik = m.wh * 0.85;
+    document.getElementById('pw-bruik').textContent = Math.round(bruik)+' Wh';
+    document.getElementById('pw-som').textContent = som>0 ? Math.round(som)+' W' : '—';
+    document.getElementById('pw-rt').textContent = som>0 ? uren(bruik/som) : '—';
+    document.getElementById('pw-waarsch').textContent = som > m.w
+      ? '⚠ '+Math.round(som)+' W is meer dan het continu vermogen van '+m.w+' W — dit model levert dit niet gelijktijdig.'
+      : 'Modelberekening, rendement 0,85 (aanname). Let ook op aanloopstroom van compressoren en gereedschap.';
+  }
+  sel.addEventListener('change', reken);
+  ['pw-a1','pw-a2','pw-a3'].forEach(function(id){ document.getElementById(id).addEventListener('input', reken); });
+  reken();
+})();
+</script>
+</body>
+</html>

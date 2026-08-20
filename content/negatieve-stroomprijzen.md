@@ -57,6 +57,78 @@ Negatieve stroomprijzen betekenen dat de kale beursprijs voor een uur onder nul 
 })();
 </script>
 
+## Negatieve uren per maand (ons archief)
+
+Eén dag zegt weinig. Sinds we de day-ahead-uurdata dagelijks vastleggen, kunnen we tellen hoeveel uren per maand daadwerkelijk onder nul stonden. De staafgrafiek hieronder wordt automatisch bijgewerkt met elke nieuwe dag in ons archief.
+
+<div id="neg-arch" style="background:#f8f9fa;border:1px solid #e0e0e0;border-radius:12px;padding:1.5rem;margin:1.5rem 0;">
+  <div id="neg-arch-body" style="color:#888;font-size:.9rem;">laden…</div>
+  <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Bron: eigen DuurzaamThuisLab-archief van EPEX day-ahead-uurdata (via EnergyZero), dagelijks bijgewerkt. Aan deze informatie kunnen geen rechten worden ontleend.</p>
+</div>
+
+<script>
+(function(){
+  var MAAND = ['jan','feb','mrt','apr','mei','jun','jul','aug','sep','okt','nov','dec'];
+  fetch('https://beheer.wtdigital.nl/api/public/energie-archief?dagen=400')
+    .then(function(r){ return r.json(); })
+    .then(function(d){
+      var dagen = (d && d.dagen) || [];
+      if (!dagen.length) throw new Error('leeg');
+      var orde = [], som = {};
+      dagen.forEach(function(x){
+        var k = String(x.datum).slice(0,7);
+        if (!(k in som)) { som[k] = 0; orde.push(k); }
+        som[k] += (x.stroom_negatieve_uren || 0);
+      });
+      orde.sort();
+      var waarden = orde.map(function(k){ return som[k]; });
+      var max = Math.max.apply(null, waarden);
+      var totaal = waarden.reduce(function(a,b){ return a+b; }, 0);
+      var html = '<div style="font-size:.8rem;color:#666;">Negatieve uren per maand · ' + orde.length + ' maanden · ' + totaal + ' uur totaal</div>';
+      html += '<div style="display:flex;flex-direction:column;gap:.35rem;margin-top:.7rem;">';
+      orde.forEach(function(k){
+        var v = som[k];
+        var jr = k.slice(0,4), mnd = MAAND[parseInt(k.slice(5,7),10)-1];
+        var breedte = max > 0 ? Math.round(v / max * 100) : 0;
+        var kleur = (v === max && max > 0) ? '#0e7490' : (v === 0 ? '#d4d4d4' : '#67a9bb');
+        html += '<div style="display:flex;align-items:center;gap:.5rem;font-size:.85rem;">' +
+          '<div style="width:74px;color:#666;flex:0 0 74px;">' + mnd + ' ' + jr + '</div>' +
+          '<div style="flex:1;background:#eceff1;border-radius:4px;height:16px;overflow:hidden;">' +
+            '<div style="width:' + breedte + '%;background:' + kleur + ';height:100%;border-radius:4px;"></div>' +
+          '</div>' +
+          '<div style="width:64px;text-align:right;color:#333;font-weight:' + (v === max && max > 0 ? '700' : '400') + ';">' + v + ' uur</div>' +
+        '</div>';
+      });
+      html += '</div>';
+      document.getElementById('neg-arch-body').innerHTML = html;
+    })
+    .catch(function(){ document.getElementById('neg-arch-body').innerHTML = '<span style="color:#888;font-size:.9rem;">Kon het archief niet laden.</span>'; });
+})();
+</script>
+
+Het patroon in die reeks is consistenter dan de dagkoppen suggereren: negatieve uren zijn een lente- en zomerverschijnsel. In de maanden oktober tot en met februari staat de teller in ons archief op nul — de zonproductie is dan te laag om het aanbod door de nulgrens te duwen, ook op windrijke dagen. Vanaf maart loopt het op, met een piek in het voorjaar, en tegen het najaar zakt het weer weg. Over heel 2025 gaat het om 212 negatieve uren, met mei als piekmaand (59 uur); vrijwel alles viel tussen maart en september.
+
+Voor je eigen planning betekent dat twee dingen. Ten eerste: als je een dynamisch contract afsluit om negatieve uren te benutten, gebeurt dat voordeel in een half jaar — de winter draait op gewone prijsverschillen tussen dag en nacht. Ten tweede: precies in die voorjaars- en zomermaanden produceren je zonnepanelen het meest, dus het risico bij teruglevering en de kans bij afname vallen op hetzelfde moment samen.
+
+## Wat doet jouw leverancier met negatieve uren?
+
+Niet elke aanbieder legt dit even duidelijk uit, en de details verschillen. In de tabel hieronder staat per leverancier wat het bedrijf zelf publiceert over negatieve uurprijzen bij afname en bij teruglevering. Peildatum: 20 augustus 2026; controleer de tarieven altijd op de site van de leverancier zelf.
+
+| Leverancier | Negatief uur bij afname | Negatief uur bij teruglevering | Wat de leverancier zelf vermeldt |
+|---|---|---|---|
+| Tibber | Uurprijs 1-op-1 door: "je krijgt in theorie dan geld toe als je stroom verbruikt" | Ja: "op het moment dat je teruglevert en de beursprijs negatief is, betaal je dat tarief ook" | Verkoopvergoeding € 0,0248/kWh; energiebelasting wordt gesaldeerd, bij teruglevering boven je jaarverbruik geen recht op de energiebelasting ([support.tibber.com](https://support.tibber.com/nl/articles/4669873-salderen-en-terugleveren-bij-tibber)) |
+| Frank Energie | Day-ahead-uurprijs 1-op-1 door: "je [betaalt] elk uur het actuele tarief" | Ja: "tijdens negatieve prijzen [moet] je juist betalen voor teruggeleverde stroom" | Dienst Slim Terugleveren schakelt panelen uit bij negatieve marktprijs; op het dynamische contract geen terugleverkosten, de staffelprijzen gelden voor vaste/variabele contracten — bedragen: zie site ([kennisbank](https://www.frankenergie.nl/nl/kennisbank/dynamisch-energiecontract/negatieve-stroomprijzen), [terugleverkosten](https://www.frankenergie.nl/nl/terugleverkosten)) |
+| Zonneplan | Uurprijs (kwartierprijs) door | Ja: "bij negatieve uren betalen voor elke kilowattuur (kWh) die je teruglevert" | Zelfde prijs voor teruglevering als voor afname, incl. inkoopvergoeding en belastingen; "bij een dynamisch contract betaal je geen terugleverkosten"; met een Zonneplan-omvormer schakelt die automatisch uit bij negatieve uurprijzen ([zonneplan.nl](https://www.zonneplan.nl/energie/zonnepanelen-en-negatieve-stroomprijzen)) |
+| ANWB Energie | Uurprijs door; "je krijgt alsnog geld toe als de stroomprijs lager ligt dan de belasting en de inkoopkosten die je betaalt" | Ja: "op het moment dat de stroomprijs negatief is, betaal je dat tarief ook voor teruggeleverde stroom" | Werkt met het werkelijke uurtarief voor teruggeleverde kWh; rekenvoorbeeld met energiebelasting van 12 cent (2025) waarbij het saldo per saldo positief blijft ([anwb.nl](https://www.anwb.nl/energie/negatieve-stroomprijzen)) |
+| easyEnergy | Uurprijs door: "bij een flink negatieve prijs kun je soms echt geld toe krijgen" | Ja: "als de prijs negatief is en jij levert stroom terug, kan het zijn dat je voor teruglevering betaalt" | Noemt als omslagpunt dat je, zolang saldering nog geldt, "eigenlijk pas vanaf 14 cent negatief echt [gaat] betalen" ([easyenergy.com](https://www.easyenergy.com/negatieve-stroomprijzen-uitgelegd)) |
+| Eneco Dynamisch | Uurprijs door | Ja: "je ontvangt de actuele marktprijs per uur. Dat tarief kan positief of negatief zijn, afhankelijk van de uurprijzen" | Daarnaast een verkoopvergoeding per kWh over teruggeleverde stroom; vanaf 2027 geldt die over alle teruggeleverde kWh — bedrag: zie site ([eneco.nl klantenservice](https://www.eneco.nl/klantenservice/dynamisch-energiecontract/dynamisch-en-terugleveren/)) |
+| Vattenfall FlexPrijs | Uurprijs door: "wanneer het tarief negatief is, ontvang je geld voor de stroom die je verbruikt" | Ja: "lever je tijdens deze uren stroom terug, dan betaal je voor je teruglevering het tarief" | Afname en teruglevering worden per uur tegen elkaar weggestreept (waardesaldering op de jaarafrekening); verkoopvergoeding per kWh geldt als je op jaarbasis méér teruglevert dan verbruikt ([vattenfall.nl](https://www.vattenfall.nl/klantenservice/alles-over-je-dynamische-contract/)) |
+| energiedirect | Uurprijs door | Ja | "De negatieve stroomprijs geldt voor zowel afname als teruglevering. Je krijgt dus op dat moment betaald om stroom af te nemen en je moet betalen als je stroom teruglevert." ([energiedirect.nl](https://www.energiedirect.nl/blog/negatieve-stroomprijs)) |
+
+Wat er netto overblijft, hangt niet alleen van dat uur af. Bij **afname** komen energiebelasting en de inkoopvergoeding boven op de beursprijs, dus een licht negatief uur maakt stroom goedkoop maar zelden gratis — je moet flink onder nul zitten voordat er echt geld bij komt. Bij **teruglevering** werkt het omgekeerd: daar is de negatieve uurprijs een kostenpost, terwijl saldering (zolang die geldt) de energiebelasting nog terugbrengt. Dat is precies waarom Tibber, easyEnergy en ANWB in hun voorbeelden op een netto positief bedrag uitkomen bij een licht negatief uur: de gesaldeerde belasting is groter dan het negatieve tarief. Zakt de beursprijs diep genoeg, dan kantelt dat wel.
+
+Heb je een **vast of variabel contract**, dan bestaan uurprijzen voor jou niet: je merkt niets van negatieve uren, in geen van beide richtingen. Het vergelijkbare risico zit daar in de terugleverkosten — een vast bedrag of een staffel op basis van hoeveel je invoedt. Die staffels lopen per leverancier flink uiteen; we hebben ze naast elkaar gezet in [terugleverkosten vergelijken](/terugleverkosten-vergelijken/).
+
 ## Waarom stroom soms minder dan niets kost
 
 Op de day-ahead-veiling wordt elk uur van de volgende dag apart verhandeld. Aanbod en vraag moeten per uur exact op elkaar aansluiten: het net kan stroom niet zelf opslaan. Staat er veel zon en wind ingepland terwijl de vraag laag is — een zonnige zondagmiddag, een windrijke nacht — dan is er meer productie beschikbaar dan afname.
@@ -107,3 +179,9 @@ Vooral rond het middaguur op zonnige dagen met een lage vraag — weekenden en f
 
 **Moet ik mijn zonnepanelen uitzetten bij negatieve prijzen?**
 Handmatig uitschakelen is zelden nodig en zelden verstandig. Effectiever is de stroom zelf gebruiken of opslaan; wie het invoeden echt wil beperken, regelt dat via de instellingen van de omvormer of een terugleverbegrenzing in plaats van via de schakelaar.
+
+**Hoeveel negatieve uren zijn er per jaar eigenlijk?**
+In ons eigen archief van day-ahead-uurdata komen in 2025 in totaal 212 negatieve uren voor, met mei als drukste maand (59 uur). Vrijwel alles valt tussen maart en september; van oktober tot en met februari staat de teller op nul. De actuele maandtelling staat in de grafiek [hierboven](#negatieve-uren-per-maand-ons-archief) en loopt met elke nieuwe dag mee.
+
+**Betalen alle dynamische leveranciers hetzelfde bij negatieve uren?**
+De uurprijs zelf is voor iedereen dezelfde beursprijs, en alle acht leveranciers in de tabel hierboven geven die in beide richtingen door. Het verschil zit in de opslagen: de inkoop- en verkoopvergoeding per kWh, en of de aanbieder je omvormer automatisch kan uitschakelen bij negatieve uren (Frank Energie en Zonneplan bieden daar een dienst voor). Dat laatste bepaalt in de praktijk meer dan het tarief.

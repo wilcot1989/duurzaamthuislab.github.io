@@ -1,0 +1,68 @@
+name: Energietarieven Monitor
+
+on:
+  schedule:
+    - cron: '30 6 * * *'  # Dagelijks 06:30 UTC, vóór de content-deploy
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: write
+
+jobs:
+  tarieven-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Check tariefpagina's
+        id: check
+        continue-on-error: true
+        run: |
+          python3 scripts/check-energietarieven.py --update 2>&1 | tee tarieven-output.txt
+          WARN_COUNT=$(grep -c "^WARNING:" tarieven-output.txt || true)
+          echo "warn_count=$WARN_COUNT" >> $GITHUB_OUTPUT
+
+      - name: Commit bijgewerkte snapshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet scripts/tarieven-snapshots.json; then
+            echo "Geen snapshot-wijzigingen"
+          else
+            git add scripts/tarieven-snapshots.json
+            git commit -m "chore: tarieven-snapshots bijgewerkt [skip ci]"
+            git push
+          fi
+
+      - name: Maak Issue bij tariefwijziging
+        if: steps.check.outputs.warn_count != '0' && steps.check.outputs.warn_count != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const output = fs.readFileSync('tarieven-output.txt', 'utf8');
+            const warnings = output.split('\n').filter(l => l.startsWith('WARNING:'));
+            const beurs = output.split('\n').find(l => l.startsWith('Beurscontext:')) || '';
+            const datum = new Date().toISOString().slice(0, 10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Tariefwijziging gedetecteerd (${datum}): ${warnings.length} pagina('s)`,
+              labels: ['tarieven-monitor'],
+              body: [
+                'De dagelijkse tarieven-monitor zag wijzigingen op leverancierspagina\'s.',
+                '',
+                '```', ...warnings, '```',
+                '',
+                `**${beurs}**`,
+                '',
+                'Actie: betrokken artikelen + /terugleverkosten-vergelijken/ en /dynamisch-energiecontract-vergelijken/ nalopen en peildatums bijwerken. Snapshots zijn al bijgewerkt; dit Issue is het werksignaal.'
+              ].join('\n')
+            });

@@ -1,0 +1,64 @@
+{
+ "frank-terugleverkosten": [
+  "€15",
+  "€40",
+  "€45",
+  "€50"
+ ],
+ "frank-leeswijzer": [
+  "€0,1108",
+  "€0,7268"
+ ],
+ "tibber-energiecontract": [
+  "€0,0248",
+  "€0,0883",
+  "€5,99"
+ ],
+ "tibber-app": [
+  "€5,99"
+ ],
+ "zonneplan-dynamisch": [
+  "€0,02",
+  "€0,057",
+  "€0,08",
+  "€0,0916",
+  "€0,10",
+  "€0,20",
+  "€0,35",
+  "€0,36",
+  "€0,43",
+  "€0,6007",
+  "€1,21",
+  "€1,24",
+  "€250"
+ ],
+ "zonneplan-batterij-uitleg": [
+  "€4.690",
+  "€5.490",
+  "€7.290",
+  "€8.490",
+  "€9.090"
+ ],
+ "anwb-tarieven": [
+  "€0,018",
+  "€0,0591",
+  "€0,0768"
+ ],
+ "eneco-dynamisch-terugleveren": [
+  "hash:98537fb5048b5947"
+ ],
+ "vattenfall-dynamisch": [
+  "hash:1069bb1c076e64ef"
+ ],
+ "easyenergy-negatief": [
+  "€0,50"
+ ],
+ "sessy-bestellen": [
+  "hash:69c1e04ce8e164c1"
+ ],
+ "homewizard-plugin-battery": [
+  "€0,30",
+  "€1195",
+  "€280"
+ ]
+}
