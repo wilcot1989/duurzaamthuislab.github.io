@@ -1,7 +1,7 @@
 ---
 title: Bewust Duurzaam Thuis — Complete Gids 2026
 date: 2026-10-14 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 draft: false
 description: "Hoe verduurzaam je je huis stap voor stap in 2026? Isolatie, zonnepanelen, warmtepomp, EV en dynamisch contract — een driejarig stappenplan met cijfers."
 categories:
@@ -28,7 +28,7 @@ faq:
 - q: Wat kost een complete verduurzaming gemiddeld?
   a: 'Voor een rijtjeshuis bouwjaar 1980: €25.000 tot €45.000 voor isolatie + zonnepanelen + hybride warmtepomp. Volledige all-electric met thuisbatterij: €40.000 tot €65.000. Subsidies dekken 15-25%.'
 - q: Welke subsidies zijn er in 2026?
-  a: 'ISDE voor warmtepomp (€2.250-€4.000), SVVE/SEEH voor isolatie tot 30%, gemeentelijke subsidies (variabel) en de verduurzamingshypotheek met lagere rente. BTW op zonnepanelen blijft 0%.'
+  a: 'Eigenaar-bewoners vallen onder de ISDE: warmtepomp, zonneboiler, isolatie, ventilatie in combinatie met isolatie, warmtenetaansluiting en elektrisch koken, met een bedrag per maatregel (zie rvo.nl) en hogere bedragen bij twee of meer maatregelen. VvE''s vallen onder de SVVE. Daarnaast zijn er gemeentelijke regelingen (variabel) en de verduurzamingshypotheek met lagere rente. BTW op zonnepanelen blijft 0%. De oude SEEH is per eind 2022 gesloten.'
 - q: Verdien je de investering ooit terug?
   a: 'Isolatie: 6-9 jaar. Zonnepanelen: 7-10 jaar afhankelijk van saldering. Warmtepomp: 12-18 jaar zonder subsidie, 8-12 met. Thuisbatterij: 9-14 jaar afhankelijk van dynamisch contract.'
 - q: Is een warmtepomp zinvol zonder goede isolatie?
@@ -227,8 +227,8 @@ In 2026 lopen er meer subsidies dan ooit — en juist daarom raken mensen verstr
 
 **Belangrijkste subsidies:**
 
-- **ISDE** (warmtepomp/zonneboiler): €2.250-€4.000 per huishouden, looptijd tot 2030
-- **SVVE/SEEH** (isolatie): tot 30% van kosten, minimaal 2 maatregelen
+- **ISDE** (eigenaar-bewoners): warmtepomp, zonneboiler, isolatie, ventilatie in combinatie met isolatie, warmtenetaansluiting, elektrisch koken. Bedrag per maatregel op rvo.nl; bij twee of meer maatregelen gelden hogere bedragen
+- **SVVE** (VvE's): isolatie, warmtetechnieken, energieadvies en oplaadpuntenadvies. Deze regeling kwam op 23 januari 2023 in de plaats van de oude SEEH, die tot en met 31 december 2022 aan te vragen was
 - **SCE** (collectieve zon): voor VvE's en buurtcoöperaties
 - **Gemeentelijke subsidies**: variabel, controleer eigen gemeente via energieloket
 - **BTW-teruggaaf zonnepanelen**: 0% BTW blijft 2026, particulier kan BTW terugvorderen
@@ -243,7 +243,7 @@ Tip: stapel subsidies waar het mag. ISDE + gemeentelijke isolatiesubsidie + lage
 Onderstaand een **modelberekening** voor een rijtjeshuis uit 1981 van circa 118 m² met energielabel F bij aankoop, dat in drie jaar volledig van het gas gaat. Alle bedragen zijn richtprijzen; de subsidiebedragen gelden per het genoemde jaar en wijzigen. Het punt van dit schema is niet het exacte bedrag maar de **volgorde**: elke stap maakt de volgende goedkoper of effectiever.
 
 **Jaar 1 (2022): de schil dichtmaken — €11.000**
-- Dakisolatie 12 cm PIR vanuit binnen: €4.200 (SEEH-subsidie €840 ontvangen)
+- Dakisolatie 12 cm PIR vanuit binnen: €4.200 (in dit model €840 isolatiesubsidie, in 2022 nog via de SEEH; die regeling sloot eind 2022 — isolatie loopt sindsdien via de ISDE)
 - HR++ glas voor 8 ramen achterzijde: €4.600
 - 12 zonnepanelen Trina Vertex S+ 5,4 kWp: €6.800 (BTW teruggevorderd €1.180)
 - Voorlopig label: D
@@ -267,7 +267,7 @@ Onderstaand een **modelberekening** voor een rijtjeshuis uit 1981 van circa 118 
 - Resultaat: nul gasverbruik, netto stroomimport 1.200 kWh per jaar à €0,18 = €216 per jaar
 
 **Totaal investering 3 jaar: €37.800**
-- Subsidies: €4.770 (SEEH + ISDE + gemeente)
+- Subsidies: €4.770 (isolatiesubsidie + ISDE + gemeente; wie dit schema nu start rekent isolatie én warmtepomp onder de ISDE, bedrag per maatregel op rvo.nl)
 - BTW teruggave zonnepanelen: €1.580
 - **Netto: €31.450**
 

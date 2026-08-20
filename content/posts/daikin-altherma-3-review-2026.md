@@ -367,5 +367,5 @@ Wat in gebruikersreviews het meest terugkomt bij goed uitgevoerde installaties, 
 
 - [ATAG ENERGION warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/)
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
-- [Warmtepomp subsidie 2026: alles over ISDE en SEEH](/posts/warmtepomp-subsidie-2026/)
+- [Warmtepomp subsidie 2026: alles over de ISDE](/posts/isde-subsidie-warmtepompen-2026/)
 - [Lucht-water warmtepomp kopen: complete gids](/posts/lucht-water-warmtepomp-kopen-gids/)

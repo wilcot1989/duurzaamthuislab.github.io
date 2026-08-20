@@ -422,7 +422,7 @@ ISDE aanvragen gaat via RVO.nl (Rijksdienst voor Ondernemend Nederland). De proc
 
 De doorlooptijd is 6-12 weken. Als het budget opraakt vóór jouw aanvraag verwerkt is, val je buiten de boot. Vroeg aanvragen loont.
 
-**Let op:** ISDE is uitsluitend voor woningeigenaren met een zelfbewoonde woning. Verhuurders en VvE's vallen in een andere regeling (SEEH). Huurders kunnen alleen ISDE aanvragen als de verhuurder instemt — wat in de praktijk zelden voorkomt.
+**Let op:** ISDE is uitsluitend voor woningeigenaren met een zelfbewoonde woning. VvE's vallen onder de SVVE (Subsidie Verduurzaming voor Verenigingen van Eigenaars), die sinds 23 januari 2023 de plaats van de oude SEEH heeft ingenomen. Huurders kunnen alleen ISDE aanvragen als de verhuurder instemt — wat in de praktijk zelden voorkomt.
 
 ---
 

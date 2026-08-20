@@ -1,7 +1,7 @@
 ---
 title: Bosch Compress warmtepomp review 2026
 date: 2026-07-22 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 description: De Bosch Compress 5800 en 7800i zijn lucht-water warmtepompen die speciaal goed werken in matig geïsoleerde woningen.
 categories:
 - warmtepompen
@@ -349,5 +349,5 @@ Heb je een Bosch cv-ketel, een woning met label D of slechter, en wil je nu begi
 
 - [ATAG ENERGION warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/)
 - [Daikin Altherma 3 warmtepomp review 2026](/posts/daikin-altherma-3-review-2026/)
-- [Warmtepomp subsidie 2026: alles over ISDE en SEEH](/posts/warmtepomp-subsidie-2026/)
+- [Warmtepomp subsidie 2026: alles over de ISDE](/posts/isde-subsidie-warmtepompen-2026/)
 - [Hybride warmtepomp of all-electric: wat is slim voor jou?](/posts/hybride-vs-all-electric-warmtepomp/)

@@ -1,8 +1,8 @@
 ---
 title: 'Laadpaal Thuis Plaatsen 2026: Kosten'
 date: 2026-06-02 10:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: Alles over een laadpaal thuis plaatsen in 2026. Kosten €800-€2.500, subsidie tot €600, beste merken vergeleken en slim laden met dynamische tarieven.
+lastmod: '2026-08-20 08:00:00+02:00'
+description: Alles over een laadpaal thuis plaatsen in 2026. Kosten €800-€2.500, waarom er geen landelijke subsidie is, beste merken vergeleken en slim laden met dynamische tarieven.
 categories:
 - energie
 tags:
@@ -22,9 +22,9 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel kost een laadpaal thuis?
-  a: Een thuislaadpaal kost €800-€2.500 inclusief installatie. De laadpaal zelf kost €500-€1.500 en de installatie €300-€1.000 (afhankelijk van afstand meterkast tot laadpunt en grondwerk). Met subsidie (tot €600) betaal je effectief €200-€1.900.
+  a: Een thuislaadpaal kost €800-€2.500 inclusief installatie. De laadpaal zelf kost €500-€1.500 en de installatie €300-€1.000 (afhankelijk van afstand meterkast tot laadpunt en grondwerk). Landelijke subsidie is er niet, dus dat bedrag betaal je in principe zelf.
 - q: Welke subsidie is er voor een thuislaadpaal?
-  a: Via de SEEH-regeling kun je tot €600 subsidie krijgen voor een thuislaadpaal bij een eigen woning. Sommige gemeenten bieden aanvullende subsidie (€200-€500). Als je werkgever de laadpaal vergoedt, is dat tot €1.800 onbelast (werkkostenregeling). Subsidieregelingen kunnen per jaar veranderen.
+  a: Er is in 2026 geen landelijke subsidie voor een particuliere thuislaadpaal. De ISDE dekt laadpalen niet, en de oude SEEH (gesloten per eind 2022) ging over isolatie, niet over laadpalen. Wel mogelijk is een regeling van je eigen gemeente — die bestaat in sommige gemeenten wel en in de meeste niet, met per gemeente eigen voorwaarden. Een werkgever mag een thuislaadpaal via de werkkostenregeling vergoeden; overleg dat met je werkgever. Bij zakelijk gebruik kan de investering fiscaal aftrekbaar zijn.
 - q: Welke laadpaal is het beste voor thuis?
   a: 'De Easee Home is de beste alleskunner: compact, slim laden, dynamische tarieven en zonnepaneel-integratie. De Alfen Eve Single S-Line is de beste Nederlandse keuze met uitstekende kwaliteit. De Wallbox Pulsar Plus is het beste budget-alternatief. Alle drie laden met 11 kW (3-fase) of 7,4 kW (1-fase).'
 - q: Is 3-fase stroom nodig voor een laadpaal?
@@ -54,9 +54,9 @@ Heb je een dynamisch energiecontract? Slim laden bespaart extra. Lees onze [verg
 
 💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
-> **Kort antwoord:** Alles over een laadpaal thuis plaatsen in 2026. Kosten €800-€2.500, subsidie tot €600, beste merken vergeleken en slim laden met dynamische tarieven.
+> **Kort antwoord:** Een thuislaadpaal kost €800-€2.500 inclusief installatie. De laadpaal zelf kost €500-€1.500 en de installatie €300-€1.000 (afhankelijk van afstand meterkast tot laadpunt en grondwerk).
 >
-> Een thuislaadpaal kost €800-€2.500 inclusief installatie. De laadpaal zelf kost €500-€1.500 en de installatie €300-€1.000 (afhankelijk van afstand meterkast tot laadpunt en grondwerk). Met subsidie (tot €600) betaal je effectief €200-€1.900.
+> Op een landelijke subsidie hoef je niet te rekenen: die bestaat niet voor particuliere laadpalen. Wat de investering terugverdient, is het verschil tussen thuis laden en publiek laden — en dat verschil maak je groter met slim laden op een dynamisch tarief of op eigen zonnestroom.
 
 ## Kosten Overzicht
 
@@ -65,8 +65,8 @@ Heb je een dynamisch energiecontract? Slim laden bespaart extra. Lees onze [verg
 | **Laadpaal** | €500-€1.500 | Afhankelijk van merk en functies |
 | **Installatie** | €300-€1.000 | Afstand meterkast, grondwerk, 3-fase |
 | **Eventueel 3-fase aansluiting** | €200-€500 | Alleen als je nu 1-fase hebt |
-| **Subsidie** | -€200 tot -€600 | SEEH + gemeente |
-| **Totaal netto** | **€400-€1.900** | Na subsidie |
+| **Landelijke subsidie** | €0 | Bestaat niet voor particuliere laadpalen |
+| **Totaal** | **€800-€3.000** | Eventuele gemeentelijke regeling gaat hier nog af |
 
 ### Terugverdientijd
 
@@ -146,25 +146,35 @@ Slim laden betekent dat je auto automatisch laadt op de goedkoopste momenten:
 
 Meer over slim energiebeheer in onze [smart home energiebeheer gids](/posts/smart-home-energiebeheer-2026/).
 
-## Subsidie Aanvragen
+## Subsidie: wat er wel en niet is
 
-### SEEH-regeling (landelijk)
-- **Bedrag:** Tot €600 voor een thuislaadpaal
-- **Voorwaarden:** Eigen woning, laadpaal met slim laden
-- **Aanvragen:** Na installatie via rvo.nl
-- **Let op:** Budget is beperkt, check beschikbaarheid
+### Geen landelijke regeling voor particulieren
 
-### Gemeentelijke subsidie
-Veel gemeenten bieden aanvullende subsidie:
-- Amsterdam: tot €500
-- Rotterdam: tot €400
-- Utrecht: tot €300
-- Check je gemeente via energiesubsidiewijzer.nl
+Dit is het punt waarop de meeste online overzichten de mist in gaan, dus expliciet: **er is in 2026 geen landelijke subsidie op een thuislaadpaal voor particulieren.**
 
-### Werkgeversvergoeding
-- Je werkgever mag tot €1.800 onbelast vergoeden voor een thuislaadpaal
-- Vraag aan bij je HR-afdeling
-- Veel EV-leaseconstructies bevatten een laadpaalvergoeding
+- De **ISDE** dekt warmtepompen, zonneboilers, isolatie, ventilatie in combinatie met isolatie, een warmtenetaansluiting en elektrisch koken. Laadpalen staan niet op die maatregellijst — net als zonnepanelen en thuisbatterijen niet.
+- De **SEEH** (Subsidie Energiebesparing Eigen Huis), die je in oudere artikelen nog tegenkomt, was een isolatieregeling en kon tot en met 31 december 2022 worden aangevraagd. Voor VvE's is die per 23 januari 2023 vervangen door de SVVE. Een laadpaalvergoeding heeft de SEEH nooit gehad.
+
+Kom je een pagina tegen die een vast bedrag "laadpaalsubsidie via RVO" belooft: dat klopt niet. Reken die post niet mee in je begroting.
+
+### Gemeentelijke regelingen
+
+Wat er wél kan zijn, is een regeling van je eigen gemeente. Sommige gemeenten stimuleren particulier laden, de meeste niet, en zowel de bedragen als de voorwaarden verschillen per gemeente en per subsidiejaar. Check daarom altijd twee bronnen voordat je een offerte ondertekent:
+
+1. De website van je eigen gemeente (zoek op "laadpaal" of "subsidie elektrisch vervoer")
+2. Het regionale energieloket
+
+Sommige gemeenten kiezen bewust voor een andere route: geen geld voor een eigen laadpaal, maar een gratis publieke laadpaal in de straat op aanvraag. Voor wie op straat parkeert is dat vaak de betere deal.
+
+### Woon je in een appartement?
+
+Voor een VvE liggen er meer mogelijkheden dan voor een individuele woningeigenaar, onder andere via de SVVE (die naast isolatie ook advies over oplaadpunten dekt). Zie [laadpaal in de VvE installeren](/posts/laadpaal-vve-installatie-2026/).
+
+### Werkgever en zakelijk gebruik
+
+- Een werkgever kan een thuislaadpaal vergoeden binnen de werkkostenregeling. Wat er in jouw situatie mogelijk is en hoe het fiscaal verwerkt wordt, hangt af van de regeling van je werkgever — leg het vóór aanschaf bij HR of de salarisadministratie neer, want de volgorde van aanschaf en toekenning maakt uit.
+- Veel EV-leaseconstructies bevatten al een laadpaalvergoeding. Kijk in je leasecontract voordat je zelf koopt.
+- Gebruik je de auto zakelijk, dan kan de laadpaal onder de investeringsaftrek vallen en is de BTW mogelijk terugvorderbaar. Dat is een vraag voor je boekhouder, niet een bedrag dat wij hier voor je kunnen invullen.
 
 ## Installatie Stappenplan
 
@@ -200,7 +210,7 @@ Veel gemeenten bieden aanvullende subsidie:
 1. **Te ver van meterkast** — Elke extra meter kabel kost €10-€20, plan de locatie
 2. **1-fase terwijl 3-fase beschikbaar** — Check bij je netbeheerder, 3-fase is vaak al aanwezig
 3. **Geen slim laden** — Een domme laadpaal bespaart €100 maar mist €200+/jaar besparing
-4. **Subsidie vergeten** — Vraag altijd SEEH + gemeentelijke subsidie aan
+4. **Rekenen op subsidie die er niet is** — Landelijk krijg je niets; check alleen of je eigen gemeente een regeling heeft
 5. **Verkeerde aardlekschakelaar** — Type B is verplicht, niet het goedkopere type A
 
 ## Jaarberekening: wat levert een thuislaadpaal op?
@@ -236,8 +246,8 @@ Laat altijd 2× de benodigde kabeldiameter ingraven. Eén keer graven voor toeko
 **Fout 3: Type A aardlekschakelaar kiezen**
 De wetgeving vereist type B. Een type A voldoet niet voor EV-laders. Sommige (goedkopere) installateurs rekenen type A aan — die besparing kost je later een keuring of verzekeringskwestie. Controleer je offerte expliciet.
 
-**Fout 4: Subsidie vergeten aan te vragen**
-De SEEH-regeling (tot €600) wordt niet automatisch verrekend. Je vraagt hem zelf aan via RVO.nl na installatie. Gemeentelijke subsidies variëren — in Amsterdam is dat tot €500 extra. Neem 5 minuten om te checken of jouw gemeente iets biedt.
+**Fout 4: Een landelijke subsidie in je begroting zetten**
+Die bestaat niet voor particuliere laadpalen — niet via de ISDE en niet via de inmiddels gesloten SEEH. Wie een installateur of vergelijkingssite een vast subsidiebedrag hoort noemen, moet dat op rvo.nl kunnen terugvinden; kan dat niet, dan is het er niet. Neem in plaats daarvan vijf minuten om te checken of jouw eigen gemeente een regeling heeft, en of je werkgever iets vergoedt.
 
 **Fout 5: Laadpaal zonder OCPP kopen**
 OCPP is het communicatieprotocol dat laadpalen laat samenwerken met energiemanagementsystemen. Zonder OCPP werkt je laadpaal niet met Home Assistant of dynamische energiesturing. Alle laadpalen in dit artikel ondersteunen OCPP — goedkopere merkloze exemplaren vaak niet.
@@ -249,9 +259,9 @@ Bij 1-fase laden laad je op 7,4 kW. Bij 3-fase op 11 kW. Het verschil: bij 1 uur
 
 ## Wettelijk kader 2026: subsidies en normen
 
-**SEEH-regeling laadpaal:** Tot €600 teruggave voor een thuislaadpaal bij een koopwoning. Aanvragen via RVO.nl na installatie (niet daarvoor). Vereisten: laadpaal met minimaal 3-fase ondersteuning en OCPP-protocol. Budget is jaarlijks, check beschikbaarheid vroeg in het jaar.
+**Subsidie:** Voor een particuliere thuislaadpaal is er geen landelijke regeling. De ISDE dekt laadpalen niet en de SEEH — die alleen over isolatie ging — sloot per eind 2022. Alleen gemeentelijke regelingen kunnen soms iets opleveren; die staan op de site van je gemeente, niet op rvo.nl.
 
-**Werkgeversvergoeding:** Werkgevers mogen tot €1.800 onbelast vergoeden voor een thuislaadpaal (werkkostenregeling). Vraag dit aan bij je HR-afdeling vóórdat je de laadpaal koopt — de volgorde is belangrijk voor de fiscale verwerking.
+**Werkgeversvergoeding:** Een werkgever kan een thuislaadpaal binnen de werkkostenregeling vergoeden. Leg dit bij je HR-afdeling neer vóórdat je de laadpaal koopt — de volgorde is belangrijk voor de fiscale verwerking, en wat er precies mogelijk is hangt af van de regeling van je werkgever.
 
 **Verplichting laadpunten in appartementen (2025):** In nieuwbouwappartementen is een laadpunt per parkeerplaats wettelijk verplicht per 1 januari 2025. Voor bestaande gebouwen geldt een inspanningsverplichting voor VvE's. Dit maakt thuisladen toegankelijker voor appartementsbewoners.
 
@@ -291,8 +301,8 @@ Drie fouten die minder vaak genoemd worden maar wel duur uitpakken:
 **Fout 7: Geen nachtmeting doen voordat je 3-fase aanvraagt**
 Veel klanten willen direct 3-fase (11 kW) laten installeren — dat klinkt logisch. Maar als je een woning met 1-fase aansluiting hebt, kost 3-fase upgraden via de netbeheerder €150-€500 extra én heeft een wachttijd van 4-10 weken. Voor een typische EV-rijder met 15.000 km/jaar en 18 kWh/100 km verbruik is 7,4 kW (1-fase) ruimschoots genoeg — de auto is in 8 uur volledig opgeladen, en je rijdt zelden meer dan 150 km per dag.
 
-**Fout 8: Laadpaal kopen die niet door SEEH wordt erkend**
-De SEEH-subsidie (tot €600) geldt alleen voor laadpalen die voldoen aan de NEN 1010 norm én die OCPP-protocol ondersteunen. Goedkopere merkloze laadpalen van AliExpress of Amazon voldoen hier niet aan. Gebruik altijd een laadpaal van een erkend merk (Easee, Alfen, Wallbox, EVBox, ABB).
+**Fout 8: Een merkloze laadpaal kopen zonder aantoonbare normering**
+Hier speelt geen subsidie-eis — die is er niet — maar wel veiligheid en verzekerbaarheid. De installatie moet voldoen aan NEN 1010, en dat is de verantwoordelijkheid van de installateur: die moet met een installatieverklaring kunnen onderbouwen wat er is aangelegd. Bij merkloze laadpalen van AliExpress of een marketplace ontbreekt vaak de documentatie die je installateur daarvoor nodig heeft, en zonder OCPP werkt slim laden niet. Kies daarom een laadpaal van een gevestigd merk (Easee, Alfen, Wallbox, EVBox, ABB) en laat de installateur de verklaring schriftelijk afgeven.
 
 **Fout 9: Laadpaal niet aanmelden bij netbeheerder**
 In sommige regio's (met name Noord-Holland en Utrecht, waar netcongestie hoog is) ben je verplicht een nieuwe laadpaal aan te melden bij de netbeheerder. Doe je dit niet, riskeer je dat je laadpaal buiten de wettelijke limieten opereert.

@@ -1,7 +1,7 @@
 ---
 title: Kierdichting, glaswol en tochtstrip in 2026
 date: 2026-05-25 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-20 08:00:00+02:00
 description: Met €100 aan kierdichting, tochtstrips en glaswol bespaar je tot €300 per jaar. DIY-gids voor de gemiddelde Nederlandse woning met materiaallijst en.
 categories:
 - isolatie
@@ -29,7 +29,7 @@ faq:
 - q: Wat is het verschil tussen EPDM-strip en schuimstrip voor deuren?
   a: EPDM-rubber strips zijn duurzamer (15-25 jaar) en beter bestand tegen temperatuurwisselingen dan goedkope schuimstrip (polyethyleen schuim). EPDM kost 2-3x meer maar gaat 5-6x zo lang mee. Voor een voordeur die dagelijks opengaat, is EPDM de betere investering.
 - q: Kan ik ook kierdichting aanvragen via subsidie?
-  a: Kierdichting als afzonderlijke maatregel valt niet onder de SEEH-subsidie. Maar als je kierdichting combineert met andere isolatiemaatregelen (spouwmuur, vloer, dak), telt het soms mee als onderdeel van een totaalpakket. Informeer bij je gemeente of een erkende installateur.
+  a: Kierdichting is als afzonderlijke maatregel geen ISDE-maatregel. De ISDE vergoedt isolatiemaatregelen zoals spouwmuur-, vloer-, dak- en glasisolatie; kierdichting kan bij een installateur soms als onderdeel van zo'n totaalpakket meelopen. Voor VvE's loopt subsidie via de SVVE. Informeer bij je gemeente of een erkende installateur en check de actuele maatregellijst op rvo.nl.
 - q: Is kitten rondom kozijnen eenvoudig zelf te doen?
   a: 'Ja. Met een kitpistool, acrylaatkit of siliconenkit en wat voorbereidingstijd is dit een goede DIY-klus. Verwijder de oude kit, ontvetten de ondergrond, breng de kit aan in een soepele beweging en strijk glad met een natte vinger of kitspaan. Droogtijd: 24 uur.'
 - q: Welke plekken vergeten mensen vaak bij kierdichting?

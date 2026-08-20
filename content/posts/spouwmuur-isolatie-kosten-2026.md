@@ -259,7 +259,7 @@ Via de Investeringssubsidie duurzame energie en energiebesparing (ISDE) van RVO 
 
 Naast ISDE zijn er in 2026 lokale subsidies voor spouwmuurisolatie in:
 - Rotterdam: tot €500 extra voor woningen E/F/G-label
-- Amsterdam: €3-€5/m² extra via SEEH-regeling (oud maar soms herlanceerd)
+- Amsterdam: eigen gemeentelijke isolatieregeling — bedragen en voorwaarden wisselen, check amsterdam.nl
 - Diverse gemeenten: check zoekloket.nl → subsidie woningisolatie + jouw gemeente
 
 ---

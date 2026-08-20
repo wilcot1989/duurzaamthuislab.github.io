@@ -32,7 +32,7 @@ faq:
 - q: Wat levert zonnepanelen gemiddeld op in Nederland?
   a: Een systeem van 10 panelen (3.300 Wp) levert circa 2.800-3.000 kWh per jaar op. Bij een stroomprijs van €0,32/kWh bespaar je €896-€960 per jaar, exclusief de saldering-afbouw na 2027.
 - q: Welke subsidies zijn beschikbaar in 2026?
-  a: De ISDE-regeling geeft subsidie op warmtepompen (tot €3.762) en zonneboilers. Isolatiemaatregelen zijn subsidieerbaar via het Warmtefonds (lening) of via gemeentelijke regelingen. Het SEEH-programma voor isolatie is in 2026 nog beschikbaar.
+  a: De ISDE-regeling geeft eigenaar-bewoners subsidie op warmtepompen, zonneboilers, isolatie, ventilatie in combinatie met isolatie, een warmtenetaansluiting en elektrisch koken. Het bedrag verschilt per maatregel (zie rvo.nl) en is hoger bij twee of meer maatregelen. Aanvullend zijn er gemeentelijke regelingen en het Nationaal Warmtefonds (lening). VvE's vallen onder de SVVE. Het oude SEEH-programma bestaat niet meer en kon tot en met 31 december 2022 worden aangevraagd.
 products:
 - name: Tibber dynamisch energiecontract
   url: https://go.duurzaamthuislab.nl/tibber
@@ -371,7 +371,7 @@ Sommige omvormers (SolarEdge, Growatt) kunnen overproductie van zonnepanelen dir
 
 ### 71. Spouwmuurisolatie (€800-€1.500 investering)
 
-Spouwmuurisolatie is de meest kostenefficiënte maatregel voor de meeste Nederlandse woningen (bouwjaar 1940-1985). SEEH-subsidie kan oplopen tot €600. Terugverdientijd: **3-6 jaar**. Besparing: **€200-€500 per jaar**.
+Spouwmuurisolatie is de meest kostenefficiënte maatregel voor de meeste Nederlandse woningen (bouwjaar 1940-1985). Spouwmuurisolatie staat op de ISDE-maatregellijst; het subsidiebedrag hangt af van het geïsoleerde oppervlak en of je twee of meer maatregelen combineert — zie rvo.nl. Terugverdientijd: **3-6 jaar**. Besparing: **€200-€500 per jaar**.
 
 ### 72. Vloerisolatie via kruipruimte (€1.000-€2.500)
 
@@ -487,7 +487,7 @@ Voorschotbetalingen zijn gebaseerd op schattingen. Als je minder verbruikt dan v
 
 ### 98. Vraag alle beschikbare subsidies aan
 
-De ISDE-regeling (warmtepompen), SEEH (isolatie), en gemeentelijke energiesubsidies worden niet automatisch toegekend — je moet ze zelf aanvragen. Gebruik de subsidiewijzer op mijn.rvo.nl.
+De ISDE-regeling (warmtepompen, zonneboilers én isolatie), de SVVE (voor VvE's) en gemeentelijke energiesubsidies worden niet automatisch toegekend — je moet ze zelf aanvragen. Gebruik de subsidiewijzer op mijn.rvo.nl.
 
 ### 99. Registreer je bij collectieve inkoop van duurzame energie
 
@@ -516,7 +516,7 @@ Gesorteerd op berekende jaarbesparing bij een gemiddelde tussenwoning, met de bi
 | Wasdroger weg | €130/jaar | €0 |
 | Douche verkorten | €95/jaar | €0 |
 
-**Totaal in dit rekenvoorbeeld: €3.195/jaar besparing** bij een investering van circa €16.000 (exclusief subsidies). Na subsidies (ISDE ~€3.000, SEEH ~€600) blijft er netto circa €12.400 investering over. Rekenkundige terugverdientijd: 3,9 jaar. Dit is een gelabelde modelberekening met bovenstaande aannames, geen gemeten resultaat.
+**Totaal in dit rekenvoorbeeld: €3.195/jaar besparing** bij een investering van circa €16.000 (exclusief subsidies). Rekenen we in dit model met circa €3.000 ISDE-subsidie (het werkelijke bedrag verschilt per maatregel, zie rvo.nl), dan blijft er netto circa €13.000 investering over. Rekenkundige terugverdientijd: 4,1 jaar. Dit is een gelabelde modelberekening met bovenstaande aannames, geen gemeten resultaat.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'EV Thuislader Stekker: Type 2 vs CCS Uitgelegd 2026'
 date: 2026-07-28 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
+lastmod: '2026-08-20 08:00:00+02:00'
 last_updated: 2026-04-29
 description: 'Type 2 of CCS voor je EV thuislader? Het verschil uitgelegd, welke past bij jouw auto, en welke laadpaal je daarvoor nodig hebt.'
 draft: false
@@ -231,9 +231,10 @@ Kosten installatie: €350-€800 + eventuele verzwaring (€1.500-€3.500).
 
 ### Stap 6: Subsidie
 
-- SEEH-subsidie thuislader: €350
-- Gemeentelijke regelingen (Amsterdam, Rotterdam): €500-€1.500
-- Lees [Amsterdam](/posts/amsterdam-duurzaam-wonen-subsidies-2026/) en [Rotterdam](/posts/rotterdam-energietransitie-subsidies-2026/)
+- **Landelijke subsidie voor een particuliere thuislaadpaal bestaat niet.** Er is geen ISDE-post voor laadpalen en de oude SEEH (gesloten per eind 2022) heeft die ook nooit gehad
+- Wel mogelijk: een **gemeentelijke regeling**. Sommige gemeenten hebben iets, de meeste niet, en voorwaarden en bedragen wisselen per gemeente en per jaar. Check het energieloket of de site van je eigen gemeente
+- Woon je in een appartement? Voor een VvE-installatie liggen er meer mogelijkheden — zie [laadpaal in de VvE installeren](/posts/laadpaal-vve-installatie-2026/)
+- Lees ook de gemeentelijke overzichten voor [Amsterdam](/posts/amsterdam-duurzaam-wonen-subsidies-2026/) en [Rotterdam](/posts/rotterdam-energietransitie-subsidies-2026/)
 
 ## Laadkabels voor onderweg
 
@@ -264,9 +265,8 @@ Nut: beperkt — vaak te traag. Beter is om publieke 11 kW palen op te zoeken.
 | Verzwaring 3-fase | €0-€2.500 |
 | Type 2 kabel onderweg | €150 |
 | **Totaal startup** | **€1.800-€4.300** |
-| Minus SEEH | €350 |
-| Minus gemeente-subsidie | €500-€1.500 |
-| **Effectief** | **€700-€3.450** |
+
+Landelijke subsidie is er niet voor een particuliere thuislaadpaal, dus dit totaal is wat je zelf betaalt. Heeft jouw gemeente wél een regeling, dan gaat dat bedrag er nog af — check dat bij je eigen gemeente, want het verschilt per gemeente en per jaar.
 
 ## Veelgemaakte fouten
 
@@ -310,7 +310,7 @@ De meest voorkomende onnodige kostenpost bij een thuislader is een verzwaring na
 2. **Wat kan een 1-fase laadpaal leveren?** Op 1×32A is dat 7,4 kW. In vier uur laad je daarmee bijna 30 kWh bij — een veelvoud van de dagelijkse behoefte.
 3. **Conclusie:** een verzwaring naar 3-fase levert in dit scenario geen enkele praktische winst op. Je laadt 's nachts alsnog ruim voldoende bij.
 
-**Het kostenverschil:** een 1-fase laadpaal plus installatie zonder verzwaring komt uit op grofweg €1.500 tot €1.600, waar een verzwaring naar 3-fase plus een 11 kW paal het dubbele of meer kost. Met de SEEH-subsidie eraf is het verschil in de orde van enkele duizenden euro's.
+**Het kostenverschil:** een 1-fase laadpaal plus installatie zonder verzwaring komt uit op grofweg €1.500 tot €1.600, waar een verzwaring naar 3-fase plus een 11 kW paal het dubbele of meer kost. Dat verschil van enkele duizenden euro's betaal je volledig zelf: er is geen landelijke subsidie die een laadpaal of een verzwaring compenseert.
 
 **Wanneer verzwaren wél nodig is:** zodra je gelijktijdig vermogen krijgt dat niet meer op één fase past — typisch bij een warmtepomp naast een EV, bij inductiekoken met een warmtepomp, of bij twee elektrische auto's. Dan is verzwaren geen luxe maar noodzaak.
 
@@ -383,7 +383,7 @@ Drie zaken die op fora regelmatig misgaan, en die je moet controleren voordat je
 
 **BTW-aftrek voor zzp-rijders.** Rijd je zakelijk meer dan 50% met de EV? Dan kun je 21% BTW van de laadpaal en installatie terugvragen. Bewaar facturen apart en log zakelijke kilometers via een rittenregistratie. Bij privé-laden: 24% bijtelling-correctie geldt zoals bij elke EV.
 
-**ISDE-subsidie geldt niet voor laadpalen.** Veel mensen verwarren SEEH (€350 voor laadpaal) met ISDE (warmtepomp/zonneboiler). De SEEH-regeling is in 2024 verlengd voor particulieren tot eind 2026 maar het budget loopt op — vraag direct na installatie aan, niet maanden later.
+**Er is geen landelijke laadpaalsubsidie voor particulieren.** De ISDE dekt warmtepompen, zonneboilers, isolatie, ventilatie in combinatie met isolatie, een warmtenetaansluiting en elektrisch koken — laadpalen staan niet op die lijst, en zonnepanelen en thuisbatterijen ook niet. De SEEH (Subsidie Energiebesparing Eigen Huis), die je online nog wel eens ziet opduiken, bestond tot en met 31 december 2022 en ging over isolatie, niet over laadpalen. Wat je wél kunt onderzoeken: een regeling van je eigen gemeente, en bij zakelijk gebruik de fiscale investeringsaftrek via je boekhouder.
 
 ## Toekomst: V2H/V2G
 

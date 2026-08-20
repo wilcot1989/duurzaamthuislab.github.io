@@ -33,7 +33,7 @@ faq:
 - q: Is een energielabel verplicht?
   a: Een energielabel is verplicht bij verkoop of verhuur van een woning. Zonder geldig label riskeer je een boete tot €435. Voor huurwoningen geldt een minimaal energielabel van D (sinds 2023) en dit wordt aangescherpt naar C in 2030.
 - q: Welke subsidies zijn er voor energielabel verbetering?
-  a: 'De belangrijkste subsidies zijn: ISDE (€1.500-€5.500 voor isolatie + warmtepomp), SEEH (voor VvE''s en verhuurders), gemeentelijke subsidies (€500-€3.000), en het Nationaal Warmtefonds (lening tegen 0% rente). Totaal kun je 30-50% van de kosten terugkrijgen.'
+  a: 'De belangrijkste regelingen zijn: de ISDE voor eigenaar-bewoners (isolatie, ventilatie in combinatie met isolatie, warmtepomp, zonneboiler, warmtenetaansluiting en elektrisch koken; bedrag per maatregel op rvo.nl, met hogere bedragen bij twee of meer maatregelen), de SVVE voor VvE''s, gemeentelijke regelingen (bedrag en voorwaarden per gemeente) en het Nationaal Warmtefonds voor een lening met lage rente. De oude SEEH is per eind 2022 gesloten.'
 products:
 - name: Zonneplan
   url: https://go.duurzaamthuislab.nl/zonneplan
@@ -149,10 +149,12 @@ Overweeg je zonnepanelen? Lees onze [vergelijking SolarEdge vs Enphase omvormers
 
 | Subsidie | Bedrag | Waarvoor | Aanvragen |
 |---------|--------|---------|-----------|
-| **ISDE** | €1.500-€5.500 | Isolatie + warmtepomp | mijn.rvo.nl |
-| **SEEH** | Variërend | VvE's en verhuurders | mijn.rvo.nl |
-| **Gemeentelijke subsidie** | €500-€3.000 | Varieert per gemeente | Gemeente website |
-| **Nationaal Warmtefonds** | Lening 0% rente | Alle maatregelen | warmtefonds.nl |
+| **ISDE** | Bedrag per maatregel, zie rvo.nl | Isolatie, ventilatie (met isolatie), warmtepomp, zonneboiler, warmtenet, elektrisch koken — eigenaar-bewoners | mijn.rvo.nl |
+| **SVVE** | Per maatregel, zie rvo.nl | VvE's: isolatie, warmtetechnieken, energieadvies, oplaadpuntenadvies | mijn.rvo.nl |
+| **Gemeentelijke subsidie** | Varieert per gemeente | Varieert per gemeente | Gemeente website |
+| **Nationaal Warmtefonds** | Lening tegen lage rente | Alle maatregelen | warmtefonds.nl |
+
+De SVVE (Subsidie Verduurzaming voor Verenigingen van Eigenaars) is op 23 januari 2023 in de plaats gekomen van de oude SEEH voor VvE's. Voor eigenaar-bewoners was de isolatiesubsidie al eerder in de ISDE ondergebracht; de SEEH kon voor het laatst tot en met 31 december 2022 worden aangevraagd.
 
 ### ISDE-subsidie in detail
 

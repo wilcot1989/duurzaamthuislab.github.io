@@ -9,7 +9,7 @@ tags:
 - vloerisolatie
 - spouwmuurisolatie
 - isolatie vergelijking
-- SEEH
+- ISDE
 - terugverdientijd
 - energiebesparing
 keywords:
@@ -27,7 +27,7 @@ faq:
 - q: Hoeveel bespaar ik per jaar met spouwmuurisolatie?
   a: Een gemiddelde tussenwoning bespaart €200-€400 per jaar op de gasrekening na spouwmuurisolatie. Bij een halvering van het gasverbruik voor verwarming is dit afhankelijk van woningtype en dakopbouw.
 - q: Krijg ik subsidie voor isolatie in 2026?
-  a: Ja, via de SEEH-regeling (Subsidie Energiebesparing Eigen Huis) is isolatie subsidieerbaar. De subsidie bedraagt 30% van de investeringskosten met een maximum van €5.000 per maatregel. Combineren met andere maatregelen verhoogt het subsidiepercentage.
+  a: Ja. Voor eigenaar-bewoners loopt isolatiesubsidie via de ISDE. Je krijgt een bedrag per geïsoleerde vierkante meter, met een minimum aantal vierkante meters en een minimale isolatiewaarde per maatregel; bij twee of meer maatregelen geldt een hoger bedrag per maatregel. De actuele bedragen staan op rvo.nl. VvE's vallen onder de SVVE. De oude SEEH is per eind 2022 gesloten.
 - q: Is mijn spouwmuur geschikt voor inblaasisolatie?
   a: De meeste woningen gebouwd tussen 1930 en 1985 hebben spouwmuren. Of inblaasisolatie mogelijk is, hangt af van de breedte van de spouw (minimaal 50 mm) en de staat van het metselwerk. Een inspecteur kan dit beoordelen.
 - q: Wat is het verschil tussen EPS en PUR inblaasisolatie?
@@ -174,26 +174,20 @@ Over tien jaar is spouwmuurisolatie bijna vijf keer winstgevender dan vloerisola
 
 ---
 
-## SEEH-subsidie 2026
+## Isolatiesubsidie 2026: de ISDE
 
-De SEEH-regeling (Subsidie Energiebesparing Eigen Huis) vergoedt 30% van de investeringskosten voor isolatiemaatregelen.
+Voor eigenaar-bewoners loopt isolatiesubsidie in 2026 via de **ISDE** (Investeringssubsidie Duurzame Energie en Energiebesparing). Zowel spouwmuur- als vloerisolatie staan op de ISDE-maatregellijst. De oude SEEH (Subsidie Energiebesparing Eigen Huis) bestaat niet meer: die was tot en met 31 december 2022 aan te vragen. Voor VvE's kwam per 23 januari 2023 de SVVE in de plaats.
 
-**Subsidies na SEEH:**
+Twee dingen bepalen wat je terugkrijgt:
 
-| Maatregel | Bruto investering | SEEH (30%) | Netto investering |
-|-----------|------------------|------------|-------------------|
-| Spouwmuur (EPS) | €1.100 | €330 | **€770** |
-| Vloer (EPS vakman) | €1.250 | €375 | **€875** |
-| Vloer (PUR gespoten) | €1.750 | €525 | **€1.225** |
+1. **Het geïsoleerde oppervlak.** De ISDE keert voor isolatie een bedrag per vierkante meter uit, met een minimum aantal vierkante meters en een minimale isolatiewaarde per maatregel.
+2. **Het aantal maatregelen.** Voer je twee of meer maatregelen uit, dan geldt per maatregel een hoger bedrag per vierkante meter dan bij één losse maatregel.
 
-Na SEEH-subsidie ziet de vergelijking er nog gunstiger uit voor spouwmuurisolatie:
+De actuele bedragen en de exacte eisen per maatregel staan op [rvo.nl/isde](https://www.rvo.nl/subsidies-financiering/isde). Zoek ze op vóórdat je offertes vergelijkt: ze wijzigen per subsidiejaar, dus reken niet met een vast percentage van de investering.
 
-| Maatregel | Netto investering | Jaarlijkse besparing | Terugverdientijd na subsidie |
-|-----------|------------------|----------------------|------------------------------|
-| Spouwmuur (EPS) | €770 | €350 | **2,2 jaar** |
-| Vloer (EPS vakman) | €875 | €170 | **5,1 jaar** |
+**Let op:** de ISDE vraag je als eigenaar-bewoner ná uitvoering aan via mijn.rvo.nl, binnen 12 maanden na de installatie. Je hebt de factuur, een betaalbewijs en de specificaties van het aangebrachte materiaal nodig. Laat het werk uitvoeren door een bedrijf dat de vereiste gegevens (Rd-waarde, aantal m²) op de factuur zet — zonder die onderbouwing loop je het risico op afwijzing.
 
-**Let op:** de SEEH-subsidie wordt via de installateur of rechtstreeks bij de RVO aangevraagd. Je hebt een erkende installateur nodig die op de RVO-lijst staat. De subsidie moet vóór uitvoering worden aangevraagd.
+Omdat het bedrag afhangt van jouw oppervlak en jouw combinatie van maatregelen, heeft het weinig zin hier één netto terugverdientijd neer te zetten. De verhouding uit de tabellen hierboven verandert er niet door: spouwmuurisolatie levert per geïnvesteerde euro meer op dan vloerisolatie, en subsidie verkort beide terugverdientijden.
 
 ---
 
@@ -213,9 +207,9 @@ Als je kruipruimte ook een vochtprobleem heeft (condensatie, schimmelvorming), i
 
 Koude vloeren zijn voor bewoners vaak een grotere ergernis dan koude muren. Als comfortverbetering zwaar telt (gezin met kleine kinderen, thuiswerken op de begane grond), is vloerisolatie bijzonder waardevol.
 
-### 4. Combinatiestrategie voor hogere SEEH-subsidie
+### 4. Combinatiestrategie voor een hogere ISDE-bijdrage
 
-De SEEH-regeling biedt een hoger subsidiepercentage (35-40% in plaats van 30%) als je meerdere maatregelen combineert. Wie zowel spouwmuur- als vloerisolatie in één aanvraag doet, profiteert van dit bonuspercentage.
+Binnen de ISDE geldt per isolatiemaatregel een hoger bedrag per vierkante meter wanneer je twee of meer maatregelen laat uitvoeren. Wie zowel spouwmuur- als vloerisolatie aanpakt, valt daarmee in het hogere tarief. Kijk op rvo.nl welke bedragen dat in het huidige subsidiejaar zijn en welke maatregelen meetellen.
 
 ---
 
@@ -242,7 +236,7 @@ In dit model levert spouwmuurisolatie ruim twee keer zoveel op als vloerisolatie
 
 1. Controleer of je woning spouwmuren heeft (bouwjaar 1930-1985 = grote kans)
 2. Vraag drie offertes aan bij erkende spouwmuurisolatiebedrijven (via KOMO-certificaat)
-3. Vraag de SEEH-subsidie aan vóór uitvoering via mijn.rvo.nl
+3. Vraag de ISDE aan via mijn.rvo.nl, binnen 12 maanden ná uitvoering
 4. Laat een inspectie uitvoeren: soms is de spouw vochtig of beschadigd en is inblaas niet mogelijk
 
 ### Vloerisolatie aanvragen
@@ -250,7 +244,7 @@ In dit model levert spouwmuurisolatie ruim twee keer zoveel op als vloerisolatie
 1. Controleer de toegankelijkheid van je kruipruimte (minimale hoogte 40-50 cm voor vakman, 30 cm voor DIY)
 2. Controleer op vochtproblemen: als de kruipruimte vochtig is, verhelp dat eerst
 3. Kies materiaal op basis van diepte: EPS-platen zijn eenvoudig, PUR is beter voor onregelmatige constructies
-4. Vraag ook hier SEEH-subsidie aan vóór uitvoering
+4. Vraag ook hier de ISDE aan, binnen 12 maanden ná uitvoering
 
 ---
 
@@ -259,12 +253,12 @@ In dit model levert spouwmuurisolatie ruim twee keer zoveel op als vloerisolatie
 Moet je bij een beperkt budget kiezen tussen spouwmuurisolatie en vloerisolatie, dan is de uitkomst van de vergelijking duidelijk: **spouwmuurisolatie geeft het beste rendement per geïnvesteerde euro**.
 
 - Hogere jaarlijkse besparing (€300-€400 vs €150-€200)
-- Kortere terugverdientijd (2-3 jaar na SEEH vs 5-7 jaar)
+- Kortere terugverdientijd (circa 2-4 jaar vs 5-8 jaar, afhankelijk van de ISDE-bijdrage)
 - Beter 10-jaars rendement (netto €2.400+ vs €450-€1.000)
 
 Vloerisolatie is zinvol als de spouwmuren al geïsoleerd zijn, als vochtproblemen in de kruipruimte meespelen, of als comfortverbetering prioriteit heeft. Voor de meeste huishoudens die moeten kiezen, is spouwmuurisolatie de eerste stap.
 
-Wie beide kan combineren, doet dat ideaal in dezelfde SEEH-aanvraag om van het combinatiebonus-percentage te profiteren.
+Wie beide kan combineren, laat ze het beste in hetzelfde traject uitvoeren: bij twee of meer isolatiemaatregelen keert de ISDE per maatregel een hoger bedrag per vierkante meter uit.
 
 ---
 
@@ -372,7 +366,7 @@ Als je offertes aanvraagt voor spouwmuurisolatie of vloerisolatie, zijn dit de a
 2. Vraag naar het materiaaltype (EPS, PUR, glaswol) en de Rc-waarde die wordt bereikt
 3. Vraag of een inspectie wordt gedaan vóór het aanbrengen (soms zijn spouwmuren vochtig of beschadigd)
 4. Vraag naar de garantie op het werk (goede bedrijven geven 10-15 jaar garantie)
-5. Controleer of het bedrijf de SEEH-subsidie voor je aanvraagt of dat je dat zelf moet doen
+5. Controleer of het bedrijf de ISDE-aanvraag voor je verzorgt of dat je die zelf moet doen — en of de factuur de gegevens bevat die RVO vraagt
 
 **Voor vloerisolatie:**
 
@@ -397,7 +391,7 @@ Op basis van de bovenstaande rekenvoorbeelden en de rendementscijfers per maatre
 
 Wie dit pad volgt kan het gasverbruik in enkele jaren ongeveer halveren zonder volledig van het gas af te gaan en zonder een investering in één keer.
 
-De combinatie spouwmuur + vloerisolatie + kierdichting komt bij een tussenwoning in de berekening uit op circa €600 tot €650 besparing per jaar bij een totale investering van rond €2.450 (inclusief materiaal voor kierdichting). Na SEEH-subsidie levert dat een rekenkundige terugverdientijd van circa 3 jaar op.
+De combinatie spouwmuur + vloerisolatie + kierdichting komt bij een tussenwoning in de berekening uit op circa €600 tot €650 besparing per jaar bij een totale investering van rond €2.450 (inclusief materiaal voor kierdichting). Zonder subsidie levert dat een rekenkundige terugverdientijd van circa 4 jaar op; met de ISDE-bijdrage voor twee of meer isolatiemaatregelen valt die korter uit, hoeveel korter hangt af van het aantal geïsoleerde vierkante meters.
 
 ---
 

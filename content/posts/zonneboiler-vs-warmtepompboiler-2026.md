@@ -282,7 +282,7 @@ De ISDE-regeling voor warmtepompboilers loopt via RVO (Rijksdienst voor Ondernem
 
 De exacte bedragen kunnen ieder kwartaal worden bijgesteld. Controleer altijd de actuele RVO-lijst voor het specifieke model dat je overweegt. De aanvraag loopt via de installateur en moet vóór installatie worden gedaan — achteraf aanvragen werkt niet.
 
-De zonneboiler valt buiten de ISDE-regeling per eind 2023. Andere subsidies (SEEH voor huurders) zijn ook niet van toepassing op zonneboilers.
+Zonneboilers staan wel op de ISDE-maatregellijst, met eigen bedragen per apparaattype en opbrengstklasse — check de actuele lijst op rvo.nl voordat je koopt. Huurders kunnen zelf geen ISDE aanvragen; dat loopt via de verhuurder. Voor VvE's is de SVVE de route. De oude SEEH (Subsidie Energiebesparing Eigen Huis) is per eind 2022 gesloten en bestaat dus niet meer.
 
 ---
 

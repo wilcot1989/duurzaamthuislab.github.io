@@ -26,7 +26,7 @@ faq:
 - q: Hoe vraag je ISDE-subsidie aan?
   a: 'Je vraagt ISDE subsidie aan via mijn.rvo.nl na installatie van de maatregel. Je hebt nodig: eHerkenning of DigiD, de factuur van de installateur, bewijs van betaling en de productspecificaties. De aanvraag moet binnen 12 maanden na installatie worden ingediend.'
 - q: Is ISDE-subsidie te combineren met andere subsidies?
-  a: Ja, de ISDE is te combineren met gemeentelijke subsidies en de SEEH (Subsidie Energiebesparing Eigen Huis) voor isolatie. Je kunt ook gebruik maken van het Nationaal Warmtefonds voor een lening met lage rente.
+  a: Ja, de ISDE is te combineren met gemeentelijke subsidies en met een lening van het Nationaal Warmtefonds tegen lage rente. Een aparte isolatiesubsidie bovenop de ISDE bestaat niet meer. De oude SEEH kon tot en met 31 december 2022 worden aangevraagd en isolatie voor eigenaar-bewoners loopt sindsdien via de ISDE zelf, met hogere bedragen bij twee of meer maatregelen. VvE's vallen onder de SVVE.
 - q: Hoe lang duurt het voordat de ISDE-subsidie wordt uitbetaald?
   a: Na het indienen van een complete aanvraag duurt het gemiddeld 8-13 weken voordat de subsidie wordt uitbetaald. In drukke perioden kan dit oplopen tot 16 weken. Zorg dat alle documenten compleet zijn om vertragingen te voorkomen.
 - q: Geldt ISDE subsidie ook voor huurwoningen?
@@ -145,15 +145,11 @@ Veel gemeenten bieden aanvullende subsidies bovenop de ISDE:
 
 **Tip:** Check de website van je gemeente of energieloket voor lokale regelingen. Deze variëren sterk per gemeente.
 
-### ISDE + SEEH (Subsidie Energiebesparing Eigen Huis)
+### Twee of meer maatregelen: hogere ISDE-bedragen
 
-De SEEH is een aanvullende subsidie voor woningeigenaren die twee of meer isolatiemaatregelen tegelijk uitvoeren. Het extra subsidiebedrag kan oplopen tot €2.500 bovenop de ISDE.
+Er is geen aparte isolatiesubsidie meer bovenop de ISDE. De oude SEEH (Subsidie Energiebesparing Eigen Huis) kon voor het laatst tot en met 31 december 2022 worden aangevraagd; voor eigenaar-bewoners is de isolatiesubsidie in de ISDE ondergebracht en voor VvE's is per 23 januari 2023 de SVVE in de plaats gekomen.
 
-| Combinatie | ISDE | SEEH bonus | Totaal |
-|-----------|------|-----------|--------|
-| Dakisolatie + gevelisolatie | ~€4.500 | ~€1.250 | ~€5.750 |
-| Vloer + spouwmuur + HR++ glas | ~€3.500 | ~€1.750 | ~€5.250 |
-| Warmtepomp + 2x isolatie | ~€6.000 | ~€1.250 | ~€7.250 |
+Wat er wél is: binnen de ISDE zelf gelden hogere subsidiebedragen per isolatiemaatregel wanneer je twee of meer maatregelen uitvoert. Voer je één maatregel uit, dan krijg je het lagere bedrag per vierkante meter. De actuele bedragen per maatregel — en de vraag of jouw combinatie kwalificeert — staan op rvo.nl/isde. Reken dus niet met een vast bonuspercentage, maar zoek de bedragen op voor de maatregelen die jij laat uitvoeren.
 
 ### ISDE + Nationaal Warmtefonds
 
@@ -169,7 +165,7 @@ Als je een warmtepomp installeert en hierdoor minder gas verbruikt, bespaar je o
 
 ## Tips voor maximale subsidie
 
-1. **Combineer maatregelen** — De SEEH-bonus krijg je alleen bij twee of meer isolatiemaatregelen tegelijk
+1. **Combineer maatregelen** — De ISDE keert per isolatiemaatregel een hoger bedrag uit als je er twee of meer laat uitvoeren
 2. **Check je gemeente eerst** — Sommige gemeenten eisen dat je hun subsidie aanvraagt vóór de installatie
 3. **Gebruik de RVO-apparatenlijst** — Controleer altijd of je warmtepomp op de lijst staat vóór aankoop
 4. **Bewaar alles** — Facturen, betaalbewijzen, foto's en specificaties. Ontbrekende documenten vertragen je aanvraag
