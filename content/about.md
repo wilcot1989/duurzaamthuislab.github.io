@@ -8,6 +8,10 @@ layout: "single"
 
 DuurzaamThuisLab wordt geleid door **Wilco Terlouw**, bouwer van vergelijkingssites die op data draaien in plaats van op verkoopgeblaat. De artikelen verschijnen onder redactie van Team DuurzaamThuisLab. De site is ons antwoord op een frustratie die veel huiseigenaren zullen herkennen: bijna alle informatie over zonnepanelen, thuisbatterijen en warmtepompen is geschreven door partijen die je iets willen verkopen.
 
+## Ons lab-archief: wij meten elke dag
+
+DuurzaamThuisLab heet niet voor niets een lab. Sinds augustus 2026 archiveren wij dagelijks de Nederlandse energiemarkt in een eigen database: de uurprijzen van de stroombeurs (gemiddelde, laagste, hoogste én het aantal negatieve uren per dag), de dagprijs van gas en de zonverwachting. Dat archief — teruggevuld tot augustus 2025 — voedt onze [live datatools](/stroomprijzen/) en maakt onze analyses controleerbaar: elk cijfer op deze site is herleidbaar tot een meting of een expliciet gelabelde modelaanname. Aan deze informatie kunnen geen rechten worden ontleend.
+
 ## Hoe wij werken: alles narekenbaar
 
 Wij testen geen producten in een eigen proefwoning en doen niet alsof. Wat wij wél doen, en waar we streng in zijn:

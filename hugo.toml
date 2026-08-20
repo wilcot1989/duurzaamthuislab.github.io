@@ -15,9 +15,13 @@ theme = "starter"
 
 [menu]
   [[menu.main]]
+    name = "Live data"
+    url = "/stroomprijzen/"
+    weight = 1
+  [[menu.main]]
     name = "Powerstations"
     url = "/categories/powerstations/"
-    weight = 1
+    weight = 2
   [[menu.main]]
     name = "Thuisbatterijen"
     url = "/categories/thuisbatterijen/"

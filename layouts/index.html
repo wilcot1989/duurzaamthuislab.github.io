@@ -187,6 +187,36 @@
 })();
 </script>
 
+<!-- HET LAB — LIVE DATA & TOOLS -->
+<section style="padding:clamp(3rem,7vh,5rem) 0;background:var(--cream-soft);border-top:1px solid var(--ink-line);">
+  <div class="container">
+    <div style="font-family:var(--mono);font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--terracotta);margin-bottom:.75rem;">— 02 / Het lab</div>
+    <h2 style="font-family:var(--display);font-size:clamp(1.6rem,3vw,2.25rem);line-height:1.1;font-weight:400;letter-spacing:-.02em;color:var(--ink);margin-bottom:.5rem;">Live data &amp; <em style="font-style:italic;color:var(--terracotta);">rekentools</em></h2>
+    <p style="font-family:var(--display);color:var(--ink-soft);font-size:1rem;max-width:44rem;margin-bottom:2rem;">Wij meten en archiveren de energiemarkt elke dag in ons eigen lab-archief — beursprijzen per uur, gasprijzen en zonverwachting. Alles live, alles narekenbaar, aan niets kunnen rechten worden ontleend.</p>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1rem;">
+      {{ $tools := slice
+        (dict "url" "/stroomprijzen/" "icon" "⚡" "naam" "Stroomprijzen vandaag & morgen" "sub" "Uurprijzen live, goedkoopste en duurste uren")
+        (dict "url" "/gasprijs/" "icon" "🔥" "naam" "Gasprijs vandaag" "sub" "Dagprijs per m³ + de prijs van morgen")
+        (dict "url" "/stroomprijzen-historie/" "icon" "📈" "naam" "Prijshistorie" "sub" "Maand- en daggemiddelden, elke dag sinds 2014")
+        (dict "url" "/negatieve-stroomprijzen/" "icon" "🔻" "naam" "Negatieve stroomprijzen" "sub" "Live telling van uren onder nul")
+        (dict "url" "/beste-tijd-wasmachine/" "icon" "🧺" "naam" "Beste tijd wasmachine" "sub" "Goedkoopste 2-uursblok van vandaag en morgen")
+        (dict "url" "/zonnepanelen-opbrengst-berekenen/" "icon" "☀️" "naam" "Opbrengst zonnepanelen" "sub" "Calculator + verwachting per dag")
+        (dict "url" "/dynamisch-energiecontract-vergelijken/" "icon" "🔌" "naam" "Contracten vergelijken" "sub" "12 dynamische aanbieders naast elkaar")
+        (dict "url" "/terugverdientijd-thuisbatterij/" "icon" "🔋" "naam" "Terugverdientijd thuisbatterij" "sub" "Rekenmodel met aanpasbare aannames")
+        (dict "url" "/installateur-kiezen/" "icon" "🛠" "naam" "Installateur kiezen" "sub" "Checklist en vragen voor offertes")
+        (dict "url" "/embed-codes/" "icon" "🧩" "naam" "Gratis embed-widget" "sub" "Onze live stroomprijzen op jouw site")
+      }}
+      {{ range $tools }}
+      <a href="{{ .url }}" style="display:block;padding:1.1rem 1.25rem;border:1px solid var(--ink-line);background:var(--cream);color:var(--ink);text-decoration:none;border-radius:2px;">
+        <div style="font-size:1.3rem;margin-bottom:.4rem;">{{ .icon }}</div>
+        <strong style="font-family:var(--sans);font-size:.95rem;font-weight:600;display:block;margin-bottom:.3rem;">{{ .naam }}</strong>
+        <span style="font-size:.85rem;color:var(--ink-soft);line-height:1.45;">{{ .sub }}</span>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
 <!-- FEATURED ARTICLE — saldering-stopt -->
 {{ $featured := where $allPosts "File.LogicalName" "saldering-stopt-2027-volledige-gids.md" }}
 {{ if not $featured }}{{ $featured = first 1 $allPosts }}{{ end }}
