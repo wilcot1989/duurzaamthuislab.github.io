@@ -1,6 +1,6 @@
 ---
-title: "Dynamische stroomprijzen vandaag en morgen (per uur)"
-description: "Actuele dynamische stroomprijzen per uur, vandaag en morgen — kale EPEX-beursprijs incl. btw, automatisch ververst. Zie direct de goedkoopste en duurste uren."
+title: "Stroomprijzen, gasprijs en zonverwachting vandaag (live)"
+description: "Actuele dynamische stroomprijzen per uur (vandaag en morgen), de gasprijs van vandaag en de verwachte zonnepanelen-opbrengst — automatisch ververst uit beursdata en weerdata."
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
@@ -78,6 +78,45 @@ async function spLaad(dag){
 spLaad(0);
 </script>
 
+## Gasprijs vandaag
+
+Ook de gasprijs beweegt dagelijks mee met de beurs (LEBA/TTF). Anders dan stroom heeft gas **één prijs per dag**, die om 06:00 ingaat. Dit is de kale beursprijs inclusief btw — je leverancier telt er energiebelasting en zijn inkoopvergoeding bij op.
+
+<div id="gas-tool" style="background:#f8f9fa;border:1px solid #e0e0e0;border-radius:12px;padding:1.5rem;margin:1.5rem 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:.8rem;">
+  <div style="background:#fff;border-radius:8px;padding:.8rem;border:1px solid #e0e0e0;"><div style="font-size:.8rem;color:#666;">🔥 Gasprijs vandaag</div><div id="gas-prijs" style="font-size:1.6rem;font-weight:700;">—</div><div style="font-size:.75rem;color:#888;">per m³, kaal incl. btw</div></div>
+  <div style="background:#fff;border-radius:8px;padding:.8rem;border:1px solid #e0e0e0;align-self:stretch;"><div style="font-size:.8rem;color:#666;">Wat komt erbij?</div><div style="font-size:.85rem;color:#555;line-height:1.5;margin-top:.3rem;">Energiebelasting (wettelijk tarief per m³, zie Belastingdienst) + inkoopvergoeding van je leverancier.</div></div>
+</div>
+
+Wie veel gas verbruikt, bespaart structureel meer met [isoleren](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/) of een [(hybride) warmtepomp](/posts/beste-hybride-warmtepomp-2026/) dan met overstappen alleen.
+
+## Zonverwachting: verwachte opbrengst zonnepanelen
+
+Hoeveel leveren je zonnepanelen vandaag en de komende dagen op? Onderstaande verwachting is gebaseerd op de instralings-forecast van Open-Meteo (De Bilt). De opbrengst-indicatie is een **modelberekening**: instraling × performance ratio 0,85 — de werkelijke opbrengst hangt af van oriëntatie, hellingshoek en schaduw.
+
+<div id="zon-tool" style="background:#f8f9fa;border:1px solid #e0e0e0;border-radius:12px;padding:1.5rem;margin:1.5rem 0;">
+  <div id="zon-dagen" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:.8rem;"><span style="color:#666;font-size:.9rem;">laden…</span></div>
+  <p style="color:#666;font-size:.85rem;margin-top:.8rem;">Voorbeeld: bij een installatie van 4 kWp is de verwachte dagopbrengst 4 × het getal per kWp. Bron: Open-Meteo instraling-forecast; opbrengst = modelberekening (PR 0,85).</p>
+</div>
+
+Op zonnige middagen drukt al die zonnestroom de beursprijs — vaak tot onder nul. Precies dan loont een [thuisbatterij bij een dynamisch contract](/posts/dynamische-energiecontracten-thuisbatterij-2026/): overdag goedkoop (of met toeslag) laden, in de avondpiek gebruiken.
+
+<script>
+fetch('https://beheer.wtdigital.nl/api/public/gasprijs').then(function(r){return r.json();}).then(function(d){
+  if (typeof d.prijs_m3 === 'number') document.getElementById('gas-prijs').textContent = '€ ' + d.prijs_m3.toFixed(3);
+}).catch(function(){ document.getElementById('gas-prijs').textContent = 'n.b.'; });
+fetch('https://beheer.wtdigital.nl/api/public/zonverwachting').then(function(r){return r.json();}).then(function(d){
+  if (!d.dagen || !d.dagen.length) return;
+  var namen = ['Vandaag', 'Morgen', 'Overmorgen'];
+  document.getElementById('zon-dagen').innerHTML = d.dagen.map(function(dag, i){
+    var zonScore = dag.opbrengst_kwh_per_kwp >= 4 ? '☀️☀️☀️' : (dag.opbrengst_kwh_per_kwp >= 2.5 ? '☀️☀️' : '☀️');
+    return '<div style="background:#fff;border-radius:8px;padding:.8rem;border:1px solid #e0e0e0;">' +
+      '<div style="font-size:.8rem;color:#666;">' + (namen[i] || dag.datum) + ' ' + zonScore + '</div>' +
+      '<div style="font-size:1.4rem;font-weight:700;">' + dag.opbrengst_kwh_per_kwp.toFixed(1) + ' kWh</div>' +
+      '<div style="font-size:.75rem;color:#888;">per kWp · ' + dag.zonuren.toFixed(1) + ' zonuren</div></div>';
+  }).join('');
+}).catch(function(){ document.getElementById('zon-dagen').innerHTML = '<span style="color:#666;font-size:.9rem;">Kon verwachting niet laden.</span>'; });
+</script>
+
 ## Van kale beursprijs naar wat jij betaalt
 
 De prijzen hierboven zijn de **kale inkoopprijzen** van de stroombeurs. Je leverancier telt daar per kWh bij op:
@@ -101,6 +140,12 @@ De day-ahead-veiling van de EPEX-beurs sluit rond het middaguur; de uitslag voor
 
 **Zijn dit de prijzen van mijn leverancier?**
 Bijna: alle dynamische leveranciers gebruiken dezelfde beursprijzen, maar tellen er hun eigen inkoopvergoeding en de energiebelasting bij op. De úúrpatronen (goedkoop/duur) zijn wel identiek.
+
+**Hoe komt de gasprijs tot stand?**
+De dagprijs volgt de gasbeurs (LEBA/TTF-day-ahead). Dynamische leveranciers geven die één-op-één door met een vaste opslag; bij vaste contracten zit het beursrisico in het tarief verwerkt.
+
+**Wat betekent "opbrengst per kWp"?**
+kWp is het piekvermogen van je installatie. Heb je bijvoorbeeld 10 panelen van 400 Wp (= 4 kWp) en staat er 3,0 kWh per kWp, dan is de verwachte dagopbrengst circa 12 kWh — bij gemiddelde oriëntatie en zonder schaduw (modelberekening).
 
 **Wanneer is stroom meestal het goedkoopst?**
 Structureel rond het middaguur op zonnige dagen (veel zonnestroom) en 's nachts; het duurst in de ochtend- en avondpiek. Uitzonderingen komen voor — daarom staat deze pagina er.

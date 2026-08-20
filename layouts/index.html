@@ -37,6 +37,8 @@
     <div style="display:flex;gap:1.5rem;font-size:.85rem;flex-wrap:wrap;">
       <div><span style="color:rgba(250,247,240,.55);">Goedkoopst</span> <strong id="hp-min" style="color:#7ed6a5;">—</strong></div>
       <div><span style="color:rgba(250,247,240,.55);">Duurst</span> <strong id="hp-max" style="color:#f2a1a1;">—</strong></div>
+      <div id="hp-gas-wrap" style="display:none;"><span style="color:rgba(250,247,240,.55);">🔥 Gas vandaag</span> <strong id="hp-gas" style="color:var(--cream);">—</strong><span style="color:rgba(250,247,240,.55);font-size:.75rem;"> /m³</span></div>
+      <div id="hp-zon-wrap" style="display:none;"><span style="color:rgba(250,247,240,.55);">☀️ Zon vandaag</span> <strong id="hp-zon" style="color:#e8d48a;">—</strong><span style="color:rgba(250,247,240,.55);font-size:.75rem;"> kWh/kWp</span></div>
     </div>
     <a href="/stroomprijzen/" style="font-family:var(--mono);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;color:var(--terracotta);white-space:nowrap;">Alle uurprijzen →</a>
   </div>
@@ -62,6 +64,16 @@
     var span=(max-min)||1;
     el('hp-spark').innerHTML=d.uren.map(function(u){var h=20+((u.prijs-min)/span)*80;var k=u.prijs===min?'#7ed6a5':(u.prijs===max?'#f2a1a1':'rgba(250,247,240,.45)');return '<div title="'+nl(u.uur)+' — € '+u.prijs.toFixed(3)+'" style="flex:1;height:'+h.toFixed(0)+'%;background:'+k+';border-radius:1px;"></div>';}).join('');
     if(min<0){el('hp-negatief').style.display='block';}
+  }).catch(function(){});
+  fetch('https://beheer.wtdigital.nl/api/public/gasprijs').then(function(r){return r.json();}).then(function(d){
+    if(typeof d.prijs_m3!=='number')return;
+    document.getElementById('hp-gas').textContent='€ '+d.prijs_m3.toFixed(2);
+    document.getElementById('hp-gas-wrap').style.display='block';
+  }).catch(function(){});
+  fetch('https://beheer.wtdigital.nl/api/public/zonverwachting').then(function(r){return r.json();}).then(function(d){
+    if(!d.dagen||!d.dagen.length)return;
+    document.getElementById('hp-zon').textContent=d.dagen[0].opbrengst_kwh_per_kwp.toFixed(1);
+    document.getElementById('hp-zon-wrap').style.display='block';
   }).catch(function(){});
 })();
 </script>
@@ -94,7 +106,7 @@
 
 <!-- ROUTE WIDGET -->
 <section style="padding:clamp(3rem,7vh,5rem) 0;background:var(--cream);border-top:1px solid var(--ink-line);">
-  <div class="container" style="max-width:52rem;">
+  <div class="container">
     <div style="font-family:var(--mono);font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--terracotta);margin-bottom:.75rem;">— 01b / Persoonlijk advies</div>
     <h2 style="font-family:var(--display);font-size:clamp(1.6rem,3vw,2.25rem);line-height:1.1;font-weight:400;letter-spacing:-.02em;color:var(--ink);margin-bottom:.5rem;">Welke route past bij <em style="font-style:italic;color:var(--terracotta);">jou</em>?</h2>
     <p style="font-family:var(--display);color:var(--ink-soft);font-size:1rem;margin-bottom:2rem;">Wat is je grootste energiekost dilemma?</p>
@@ -114,9 +126,9 @@
     saldering: {
       title: 'Top 3 voor saldering 2027',
       items: [
-        { name: 'Sessy thuisbatterij', badge: '€5.995', url: 'https://go.duurzaamthuislab.nl/sessy', desc: 'Plug & play, 5 kWh, NL-support — meest verkochte keuze' },
+        { name: 'Sessy thuisbatterij', badge: '5 kWh', url: 'https://go.duurzaamthuislab.nl/sessy', desc: 'Plug & play, Nederlandse support, uitbreidbaar per module' },
         { name: 'Tibber dynamisch contract', badge: 'Gratis app', url: 'https://go.duurzaamthuislab.nl/tibber', desc: 'Laad op als stroom goedkoop is, lever terug als het duur is' },
-        { name: 'Marstek Venus', badge: '€2.299', url: 'https://go.duurzaamthuislab.nl/marstek', desc: 'Betaalbare instapper, 5 kWh, directe beschikbaarheid' }
+        { name: 'Marstek Venus', badge: 'Instapper', url: 'https://go.duurzaamthuislab.nl/marstek', desc: 'Laagst geprijsde 5 kWh-instap in ons overzicht, breed leverbaar' }
       ]
     },
     gas: {
@@ -130,17 +142,17 @@
     camping: {
       title: 'Top 3 powerstations',
       items: [
-        { name: 'EcoFlow DELTA 2', badge: '1 kWh', url: 'https://go.duurzaamthuislab.nl/ecoflow', desc: 'Snel geladen (1 uur), breed leverbaar, UPS-functie' },
+        { name: 'EcoFlow DELTA 2', badge: '1 kWh', url: 'https://go.duurzaamthuislab.nl/ecoflow', desc: 'Snelladend (80% in ±1 uur volgens spec), breed leverbaar, UPS-functie' },
         { name: 'Anker SOLIX C1000', badge: '1 kWh', url: 'https://go.duurzaamthuislab.nl/anker-solix', desc: 'Compacte behuizing, stille ventilator, 2400W uitgang' },
-        { name: 'Jackery Explorer 1000 Pro', badge: '1 kWh', url: 'https://go.duurzaamthuislab.nl/jackery', desc: 'Eenvoudige bediening, lichtste in zijn klasse' }
+        { name: 'Jackery Explorer 1000 Pro', badge: '1 kWh', url: 'https://go.duurzaamthuislab.nl/jackery', desc: 'Eenvoudige bediening, licht en compact voor deze capaciteit' }
       ]
     },
     isolatie: {
       title: 'Top 3 isolatiestarters',
       items: [
-        { name: 'Spouwmuurisolatie', badge: 'Snelst ROI', url: 'https://www.knaufinsulation.nl/', desc: 'Terugverdientijd <3 jaar, €800–€1.400 voor gemiddeld rijtjeshuis', ext: true },
-        { name: 'Vloerisolatie Tonzon', badge: '€1.500–€2.500', url: 'https://www.tonzon.nl/', desc: 'Balkenbloezen aanpak, geen breekwerk nodig, zelf te plaatsen', ext: true },
-        { name: 'Dakisolatie gids', badge: 'Info', url: '/posts/dakisolatie-gids/', desc: 'Lees onze gids: plat vs schuin dak, kosten en subsidies' }
+        { name: 'Spouwmuurisolatie', badge: 'Snelst ROI', url: 'https://www.knaufinsulation.nl/', desc: 'Doorgaans de snelste terugverdientijd van alle isolatiemaatregelen; kosten hangen af van je woning', ext: true },
+        { name: 'Vloerisolatie Tonzon', badge: 'Geen breekwerk', url: 'https://www.tonzon.nl/', desc: 'Thermoskussens onder de vloer, geen breekwerk nodig, zelf te plaatsen', ext: true },
+        { name: 'Dakisolatie gids', badge: 'Info', url: '/posts/dakisolatie-binnenuit-vs-buitenuit-2026/', desc: 'Lees onze gids: plat vs schuin dak, kosten en subsidies' }
       ]
     }
   };
