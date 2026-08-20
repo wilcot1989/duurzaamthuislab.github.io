@@ -27,13 +27,13 @@ faq:
 - q: Wat is het verschil tussen de EcoFlow Delta 2 en de Delta 2 Max?
   a: De Delta 2 heeft 1024 Wh capaciteit en 1800 W continu vermogen, de Delta 2 Max 2048 Wh en 2400 W. De Delta 2 weegt 12 kg tegen 23 kg voor de Max. Voor koelbox, licht, laptop en telefoons is de Delta 2 ruim voldoende; wil je een koelkast plus zwaardere apparatuur langer laten draaien, dan is de Max logischer.
 - q: Hoeveel kost de EcoFlow Delta 2 in 2026?
-  a: Op de Nederlandse EcoFlow-webshop staat de Delta 2 op €599 voor het losse station (prijspeil augustus 2026). Bundels met zonnepaneel of extra accu staan hoger: circa €748 met een 175 W stijf paneel, €948 met een 220 W draagbaar paneel en €949 met de slimme extra accu.
+  a: 'Op de Nederlandse EcoFlow-webshop staat de Delta 2 op €599 voor het losse station (prijspeil augustus 2026). Bundels met zonnepaneel of extra accu staan hoger: circa €748 met een 175 W stijf paneel, €948 met een 220 W draagbaar paneel en €949 met de slimme extra accu.'
 - q: Hoe snel laadt de EcoFlow Delta 2 op?
-  a: De maximale AC-laadingang is volgens de specificatie 1200 W. EcoFlow noemt daarbij 0-80 procent in ongeveer 50 minuten. Rekenkundig klopt die orde van grootte: 1024 Wh bij 1200 W komt op ruim 50 minuten voor een volledige lading onder ideale omstandigheden.
+  a: 'De maximale AC-laadingang is volgens de specificatie 1200 W. EcoFlow noemt daarbij 0-80 procent in ongeveer 50 minuten. Rekenkundig klopt die orde van grootte: 1024 Wh bij 1200 W komt op ruim 50 minuten voor een volledige lading onder ideale omstandigheden.'
 - q: Kan de Delta 2 als noodstroom voor de koelkast dienen?
   a: Ja, maar reken met het gemiddelde vermogen van je koelkast en niet met het piekvermogen op het typeplaatje. Bij een gemiddelde opname van 80 W komt het model uit op ongeveer 11 uur op één volle lading. De Delta 2 heeft een UPS-functie, zodat aangesloten apparaten bij netuitval doorlopen.
 - q: Is de capaciteit van de Delta 2 uitbreidbaar?
-  a: Ja. EcoFlow geeft een uitbreidbaar bereik van 1 tot 3 kWh op: met een Delta 2 extra accu kom je op 2048 Wh en met een Delta Max extra accu op 3040 Wh.
+  a: 'Ja. EcoFlow geeft een uitbreidbaar bereik van 1 tot 3 kWh op: met een Delta 2 extra accu kom je op 2048 Wh en met een Delta Max extra accu op 3040 Wh.'
 - q: Hoe lang gaat de accu mee?
   a: De Delta 2 gebruikt LFP-cellen (LiFePO4). EcoFlow specificeert meer dan 80 procent restcapaciteit na 3000 cycli. Bij wekelijks gebruik ligt de cycluslevensduur ver boven de praktische gebruiksduur van de elektronica erom heen.
 - q: Kan ik de Delta 2 gebruiken voor balkon-zonnepanelen?

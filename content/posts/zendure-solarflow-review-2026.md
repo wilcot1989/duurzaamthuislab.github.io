@@ -30,7 +30,7 @@ faq:
 - q: Wat kost een Zendure SolarFlow-set?
   a: Op zendure.nl staat de SolarFlow 800 als losse hoofdunit op €139, de combinatie met één AB2000L-accu (1920 Wh) op €747 en die set plus twee bifaciale panelen van 515 W op €1.047 (prijspeil augustus 2026). Losse accu's staan op €609 voor de AB2000L en AB2000X en €729 voor de AB2000S.
 - q: Hoeveel vermogen kan de SolarFlow 800 leveren?
-  a: De AC-nominaalwaarde is 800 W, en dat is ook het maximale ontlaadvermogen. Aan de zonnekant gaat er meer in: 1200 W verdeeld over twee MPPT-ingangen van 600 W. Laden van de accu kan tot 1200 W met een accu uit de AB2000-serie.
+  a: 'De AC-nominaalwaarde is 800 W, en dat is ook het maximale ontlaadvermogen. Aan de zonnekant gaat er meer in: 1200 W verdeeld over twee MPPT-ingangen van 600 W. Laden van de accu kan tot 1200 W met een accu uit de AB2000-serie.'
 - q: Is een plug-in batterij in Nederland toegestaan?
   a: Voor plug-in teruglevering via een stopcontact geldt in Nederland een grens van 800 W en de eis dat de omvormer aan NEN-EN 50549 voldoet, met automatische uitschakeling bij netuitval. De 800 W AC-waarde van de SolarFlow 800 sluit daar precies op aan. Laat bij twijfel of bij een vaste aansluiting een erkend installateur meekijken.
 - q: Hoeveel gaat een Zendure-accu mee?
