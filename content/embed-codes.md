@@ -1,16 +1,16 @@
 ---
-title: "Embed our calculators — Free, with backlink"
+title: "Onze rekentools op jouw site — gratis, met bronvermelding"
 date: 2026-04-29
-description: "Embed DuurzaamThuisLab's saldering- en energiebesparing-calculators op jouw site. Gratis, mits credit + dofollow link naar bron."
+description: "Plaats de rekentools en live prijswidgets van DuurzaamThuisLab gratis op jouw site — de enige voorwaarde is een zichtbare bronvermelding met link."
 draft: false
 ---
 
-## Gratis embed onze calculators
+## Onze rekentools gratis op jouw site
 
-Hieronder vind je iframe-codes voor onze calculators. Gebruik vrij op jouw site **mits**:
+Hieronder vind je iframe-codes voor onze rekentools en widgets. Gebruik ze vrij op jouw site **mits**:
 - Bronvermelding zichtbaar onder de embed
 - Dofollow link naar de calculator-pagina (`rel="dofollow"` of geen `rel="nofollow"`)
-- Geen aanpassing aan de calculator-logic of branding
+- Geen aanpassing aan de rekenlogica of vormgeving
 
 ---
 
