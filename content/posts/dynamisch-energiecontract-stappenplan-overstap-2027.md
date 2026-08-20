@@ -20,8 +20,8 @@ keywords:
   - frank energie aanmelden
   - dynamisch contract januari 2027
 affiliate: true
-author: Mark Bakker
-author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
+author: Wilco Terlouw
+author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1473341304170-971dccb5ac1e&w=1200&output=webp&q=70
 faq:
   - q: 'Waarom is Q4 het beste moment om over te stappen?'

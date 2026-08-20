@@ -24,8 +24,8 @@ keywords:
 - ISDE subsidie 2026
 - eigen verbruik verhogen zonnepanelen
 affiliate: true
-author: Mark Bakker
-author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
+author: Wilco Terlouw
+author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Wanneer stopt de saldering precies en geldt er een uitzondering voor bestaande systemen?
@@ -508,7 +508,7 @@ Wil je precies berekenen hoeveel jij verliest en of een thuisbatterij voor jou r
 
 Heb je vragen over jouw specifieke situatie? Laat een reactie achter — wij reageren op elk bericht.
 
-*Mark Bakker — april 2026*
+*de redactie van DuurzaamThuisLab — april 2026*
 
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>

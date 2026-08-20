@@ -7,8 +7,8 @@ categories: ["zonne-energie"]
 tags: ["zonnepanelen", "pakket", "goedkoopst", "budget", "prijzen", "installateur"]
 keywords: ["goedkoopste zonnepanelen pakket 2026", "zonnepanelen pakket prijs", "betaalbare zonnepanelen", "zonnepanelen budget", "zonnepanelen aanbieding"]
 affiliate: true
-author: "Mark Bakker"
-author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
+author: Wilco Terlouw
+author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 schema_type: "Article"
 last_updated: 2026-04-29

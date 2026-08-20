@@ -17,8 +17,8 @@ keywords:
 - balansventilatie
 - mechanische ventilatie
 affiliate: true
-author: Mark Bakker
-author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
+author: Wilco Terlouw
+author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: Wat is ventilatie met warmteterugwinning (WTW)?

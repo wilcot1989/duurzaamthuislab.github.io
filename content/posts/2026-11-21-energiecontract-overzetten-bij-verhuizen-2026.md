@@ -11,7 +11,7 @@ keywords:
   - slimme meter verhuizing uitlezen
   - eindafrekening energie verhuizen
   - dynamisch contract nieuw adres
-author: "Mark Bakker"
+author: Wilco Terlouw
 featured_image: "/images/energiecontract-verhuizen.jpg"
 category: "Energie"
 tags:

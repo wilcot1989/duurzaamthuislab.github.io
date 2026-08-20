@@ -20,8 +20,8 @@ keywords:
 - radiatoren of vloerverwarming warmtepomp
 - low temperature radiatoren
 affiliate: true
-author: Mark Bakker
-author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
+author: Wilco Terlouw
+author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1581094288338-2314dddb7ece&w=1200&output=webp&q=70
 faq:
 - q: 'Moet ik mijn radiatoren altijd vervangen bij een warmtepomp?'

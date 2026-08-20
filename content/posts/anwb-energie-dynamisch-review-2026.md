@@ -16,8 +16,8 @@ keywords:
 - anwb energie ervaringen
 - anwb dynamisch contract
 affiliate: true
-author: Mark Bakker
-author_bio: Redactie Duurzaam Thuislab. Wij vergelijken zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
+author: Wilco Terlouw
+author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Wat is ANWB Energie Dynamisch?

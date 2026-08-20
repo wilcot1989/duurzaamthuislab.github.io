@@ -7,8 +7,8 @@ categories: ["energiecontracten"]
 tags: ["Tibber", "ANWB Energie", "dynamisch contract", "vergelijking", "versus", "energie"]
 keywords: ["tibber vs anwb", "anwb energie vs tibber", "dynamisch contract vergelijking", "beste dynamisch contract 2026", "tibber of anwb"]
 affiliate: true
-author: "Mark Bakker"
-author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
+author: Wilco Terlouw
+author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 schema_type: "Article"
 last_updated: 2026-08-07

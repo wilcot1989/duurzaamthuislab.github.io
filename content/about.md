@@ -1,40 +1,30 @@
 ---
 title: "Over DuurzaamThuisLab"
-description: "Maak kennis met Mark Bakker — energieadviseur en de persoon achter de onafhankelijke reviews op DuurzaamThuisLab.nl."
+description: "DuurzaamThuisLab is de datagedreven gids voor verduurzaming: narekenbare modellen, expliciete aannames en eerlijke vergelijkingen — door Wilco Terlouw."
 layout: "single"
 ---
 
-## Hoi, ik ben Mark
+## Hoi, ik ben Wilco
 
-Ik ben Mark Bakker, werktuigbouwkundige van oorsprong en energienerd in hart en nieren. Drie jaar geleden besloot ik mijn eigen huis volledig te verduurzamen. Zonnepanelen, thuisbatterij, hybride warmtepomp, vloerisolatie — ik heb het allemaal zelf uitgezocht en laten installeren.
+Ik ben Wilco Terlouw, en ik bouw vergelijkingssites die op data draaien in plaats van op verkoopgeblaat. DuurzaamThuisLab is mijn antwoord op een frustratie die veel huiseigenaren zullen herkennen: bijna alle informatie over zonnepanelen, thuisbatterijen en warmtepompen is geschreven door partijen die je iets willen verkopen.
 
-Wat me opviel: er is ontzettend veel informatie online, maar het meeste is geschreven door partijen die je iets willen verkopen. Objectieve, eerlijke informatie over terugverdientijden en echte ervaringen? Die was lastig te vinden.
+## Hoe wij werken: alles narekenbaar
 
-Dus begon ik alles bij te houden. Opbrengsten, kosten, subsidies, ervaringen met installateurs. En dat deel ik nu op DuurzaamThuisLab.
+Wij testen geen producten in een eigen proefwoning en doen niet alsof. Wat wij wél doen, en waar we streng in zijn:
 
-## Wat je hier vindt
+- **Fabrieksspecificaties als vertrekpunt** — capaciteit, rendement, garantievoorwaarden en geluidsopgaven komen rechtstreeks uit datasheets en handleidingen, met bronvermelding.
+- **Modelberekeningen met expliciete aannames** — als wij schrijven dat een thuisbatterij zich in een bepaald aantal jaren terugverdient, staat de volledige rekensom erbij: welke stroomprijs, welke spread, welk rendement, welke degradatie. Ben je het met een aanname oneens? Pas hem aan en reken zelf na.
+- **Publieke data** — EPEX-uurprijzen, KNMI-instraling, RVO-subsidieregels en netbeheerder-informatie, altijd herleidbaar.
+- **Geverifieerde gebruikerservaringen** — waar we ervaringen aanhalen, komen ze uit openbare, controleerbare bronnen; nooit uit verzonnen anekdotes.
 
-Elke review en vergelijking is gebaseerd op eigen ervaring en doorrekening. Wanneer ik schrijf dat een thuisbatterij zich in 9 jaar terugverdient, dan heb ik dat zelf uitgerekend met actuele energieprijzen en de afbouw van de salderingsregeling.
-
-Ik test waar mogelijk producten zelf. En waar dat niet kan (je kunt niet elke warmtepomp in je eigen huis installeren), doe ik uitgebreid onderzoek en spreek ik met installateurs en gebruikers.
-
-## Mijn setup thuis
-
-- 16 zonnepanelen (5,6 kWp) op een schuin dak, zuidoost
-- Huawei Luna 2000 thuisbatterij (10 kWh)
-- Hybride warmtepomp (Vaillant aroTHERM plus)
-- Dynamisch energiecontract (Tibber)
-- HomeWizard P1 meter voor monitoring
-- Energielabel van D naar A gesprong
+Een mening hebben we ook: bij elke vergelijking lees je ons redactionele oordeel, mét de argumenten eronder, zodat je kunt zien waaróm we iets vinden.
 
 ## Hoe deze site geld verdient
 
-Ik ben er eerlijk over: sommige links op deze site zijn affiliate links. Als je via mijn link een product koopt, ontvang ik een kleine commissie. Dit kost jou niets extra.
-
-Dit heeft geen invloed op mijn aanbevelingen. Als een product de investering niet waard is, zeg ik dat — ongeacht de commissie. Mijn reputatie is meer waard dan een paar euro commissie.
+Volledige transparantie: sommige links op deze site zijn affiliate-links. Koop of sluit je iets af via zo'n link, dan ontvangen wij een commissie — het kost jou niets extra. Dit beïnvloedt onze beoordelingen niet: producten en aanbieders zonder samenwerking worden op precies dezelfde manier doorgerekend en beoordeeld, en als iets de investering niet waard is, schrijven we dat op.
 
 ## Contact
 
-Vragen over verduurzaming? Wil je weten of een product bij jouw situatie past? Stuur me een bericht.
+Vragen, een foutje gevonden in een berekening, of een aanname die je betwist? Ik hoor het graag.
 
-E-mail: **mark@duurzaamthuislab.nl**
+E-mail: **info@duurzaamthuislab.nl**

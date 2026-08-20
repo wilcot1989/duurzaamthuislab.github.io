@@ -24,4 +24,4 @@ DuurzaamThuisLab is een online uitgave. Geen fysiek loket. Voor formele correspo
 
 ---
 
-*Auteur: Mark Bakker · Laatste update: 2026-04-29*
+*Auteur: de redactie van DuurzaamThuisLab · Laatste update: 2026-04-29*

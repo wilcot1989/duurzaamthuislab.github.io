@@ -18,8 +18,8 @@ keywords:
 - extra hypotheek verduurzamen
 - hypotheek warmtepomp
 affiliate: true
-author: Mark Bakker
-author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
+author: Wilco Terlouw
+author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Wat is het verschil tussen verduurzamingshypotheek en energiebespaarlening?
@@ -313,7 +313,7 @@ Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/quatt"
 
 ---
 
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-14 door Mark Bakker. Heb je een vraag of klopt er iets niet? Laat het ons weten — wij werken dit artikel actief bij.*
+*Dit artikel is voor het laatst bijgewerkt op 2026-08-14 door de redactie van DuurzaamThuisLab. Heb je een vraag of klopt er iets niet? Laat het ons weten — wij werken dit artikel actief bij.*
 
 ---
 

@@ -19,8 +19,8 @@ keywords:
 - nibe installateur nederland
 - nibe F2120 review
 affiliate: true
-author: Mark Bakker
-author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
+author: Wilco Terlouw
+author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1510515853-2cdcb24f54a4&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een Nibe warmtepomp in 2026?

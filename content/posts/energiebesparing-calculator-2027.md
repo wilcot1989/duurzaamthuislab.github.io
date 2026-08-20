@@ -20,8 +20,8 @@ keywords:
 - thuisbatterij rendabel berekenen
 - zonnepanelen verlies 2027 calculator
 affiliate: true
-author: Mark Bakker
-author_bio: Energieadviseur. Schrijft over zonnepanelen, thuisbatterijen en warmtepompen op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
+author: Wilco Terlouw
+author_bio: Oprichter van DuurzaamThuisLab. Schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1580893246395-52aead8960dc&w=1200&output=webp&q=70
 faq:
 - q: Wat zijn de belangrijkste voordelen?
@@ -309,7 +309,7 @@ Thuisbatterij — als de calculator groen licht geeft:
 
 Heb je vragen over de uitkomst of mis je een variabele in het model? Laat een reactie achter.
 
-*Mark Bakker — april 2026*
+*de redactie van DuurzaamThuisLab — april 2026*
 
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Tibber</a>
