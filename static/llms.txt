@@ -1,0 +1,22 @@
+# DuurzaamThuisLab
+
+> Nederlandse, datagedreven gids voor het verduurzamen van je huis: thuisbatterijen, zonnepanelen, warmtepompen, powerstations, isolatie en dynamische energiecontracten. Wij archiveren dagelijks de Nederlandse energiemarkt (beursprijzen per uur, gasprijs, zonverwachting) in een eigen database en rekenen alles na met expliciet gelabelde modelaannames. Aan onze informatie kunnen geen rechten worden ontleend.
+
+## Live data & rekentools
+- [Dynamische stroomprijzen vandaag en morgen](https://duurzaamthuislab.nl/stroomprijzen/): uurprijzen (EPEX day-ahead incl. btw), goedkoopste/duurste uren, actiemomenten
+- [Gasprijs vandaag en morgen](https://duurzaamthuislab.nl/gasprijs/): dagprijs per m³ (LEBA/TTF) + 30-dagen-grafiek
+- [Historie stroomprijzen](https://duurzaamthuislab.nl/stroomprijzen-historie/): maand- en daggemiddelden, uurprijzen van elke dag sinds 2014
+- [Negatieve stroomprijzen](https://duurzaamthuislab.nl/negatieve-stroomprijzen/): live telling van uren onder nul, vandaag en morgen
+- [Beste tijd wasmachine](https://duurzaamthuislab.nl/beste-tijd-wasmachine/): goedkoopste 2-uursblok van vandaag en morgen
+- [Opbrengst zonnepanelen berekenen](https://duurzaamthuislab.nl/zonnepanelen-opbrengst-berekenen/): calculator met 3-daagse instralingsverwachting
+- [Dynamische energiecontracten vergelijken](https://duurzaamthuislab.nl/dynamisch-energiecontract-vergelijken/): 12 aanbieders naast elkaar
+- [Terugverdientijd thuisbatterij](https://duurzaamthuislab.nl/terugverdientijd-thuisbatterij/): rekenmodel met aanpasbare aannames
+
+## Kerngidsen
+- [Saldering stopt in 2027: volledige gids](https://duurzaamthuislab.nl/posts/saldering-stopt-2027-volledige-gids/)
+- [Beste thuisbatterij Nederland](https://duurzaamthuislab.nl/posts/beste-thuisbatterij-nederland-2026/)
+- [Alle gidsen](https://duurzaamthuislab.nl/posts/)
+
+## Over
+- [Werkwijze en wie erachter zit](https://duurzaamthuislab.nl/about/): datagedreven redactie (Team DuurzaamThuisLab), aansturing Wilco Terlouw; geen gesponsorde oordelen, affiliate-relaties staan per artikel in de disclosure
+- Bronnen: EPEX/LEBA day-ahead via EnergyZero, Open-Meteo (instraling), vendorspecificaties met prijspeil-datum

@@ -342,6 +342,16 @@
     footer a:hover { color: var(--cream); text-decoration: underline; }
 
     .affiliate-disclosure { color: #64748b; font-size: 0.78rem; margin-bottom: 1.5rem; padding: 0; border: none; background: none; }
+    .toc-box { border: 1px solid var(--ink-line); background: var(--cream-soft); border-radius: 2px; padding: 1rem 1.25rem; margin: 0 0 2rem; }
+    .toc-box .toc-title { font-family: var(--mono); font-size: .72rem; letter-spacing: .18em; text-transform: uppercase; color: var(--terracotta); cursor: pointer; list-style: none; }
+    .toc-box .toc-title::-webkit-details-marker { display: none; }
+    .toc-box .toc-title::after { content: ' ▾'; }
+    .toc-box[open] .toc-title { margin-bottom: .6rem; }
+    .toc-box nav#TableOfContents ul { columns: 2; column-gap: 2rem; list-style: none; margin: 0; padding: 0; }
+    .toc-box nav#TableOfContents li { margin: 0 0 .45rem; break-inside: avoid; font-size: .9rem; line-height: 1.4; }
+    .toc-box nav#TableOfContents a { color: var(--ink-soft); text-decoration: none; }
+    .toc-box nav#TableOfContents a:hover { color: var(--terracotta); }
+    @media (max-width: 640px) { .toc-box nav#TableOfContents ul { columns: 1; } }
     .breadcrumb { font-size: 0.85rem; color: #64748b; margin-bottom: 1rem; }
     .breadcrumb a { color: #64748b; }
 

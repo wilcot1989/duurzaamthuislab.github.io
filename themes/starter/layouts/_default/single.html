@@ -33,6 +33,13 @@
     </div>
     {{ end }}
 
+    {{ if ge (len (findRE `<h2` .Content)) 4 }}
+    <details class="toc-box" open>
+      <summary class="toc-title">Inhoudsopgave</summary>
+      {{ .TableOfContents }}
+    </details>
+    {{ end }}
+
     {{ if .Params.products }}{{ with index .Params.products 0 }}
     <div class="verdict-card">
       <div class="verdict-eyebrow">★ Onze topkeuze</div>
