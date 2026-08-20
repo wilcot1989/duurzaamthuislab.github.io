@@ -1,7 +1,7 @@
 ---
 title: 'ISDE-subsidie aanvragen 2026: complete stappen + screenshots'
 date: '2026-08-12 08:00:00+02:00'
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-20
 draft: false
 description: ISDE-subsidie voor warmtepomp of zonneboiler aanvragen via RVO. Volledig stappenplan met screenshots, benodigde documenten en doorlooptijd uit eigen ervaring.
 categories:
@@ -23,7 +23,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel ISDE-subsidie krijg ik in 2026?
-  a: Voor een lucht-water warmtepomp 2.250-3.750 euro afhankelijk van vermogen en COP. Voor een zonneboiler 700-2.500 euro. Hybride warmtepomp valt sinds 2025 niet meer onder ISDE.
+  a: Het bedrag hangt aan het specifieke apparaat (meldcode op de RVO-apparatenlijst), niet aan het merk; het startbedrag voor warmtepompen is in 2026 €1.025, met een energielabelbonus van €200 (bron RVO-wijzigingen 2026). Hybride warmtepompen vallen in 2026 gewoon onder de ISDE. Zoek het exacte bedrag voor jouw model op via rvo.nl.
 - q: Hoe lang duurt de aanvraag?
   a: RVO geeft beschikking binnen 8 weken, in praktijk vaak 4-6 weken. Geld op rekening 2-3 weken na beschikking. Aanvragen kan tot 24 maanden na installatie.
 - q: Welke documenten heb ik nodig?
@@ -49,7 +49,7 @@ last_updated: '2026-08-12'
 
 > **Kort antwoord:** ISDE-subsidie voor warmtepomp of zonneboiler aanvragen via RVO. Volledig stappenplan met screenshots, benodigde documenten en doorlooptijd uit eigen ervaring.
 >
-> Voor een lucht-water warmtepomp 2.250-3.750 euro afhankelijk van vermogen en COP. Voor een zonneboiler 700-2.500 euro. Hybride warmtepomp valt sinds 2025 niet meer onder ISDE.
+> Het bedrag hangt aan het specifieke apparaat (meldcode op de RVO-apparatenlijst), niet aan het merk; het startbedrag voor warmtepompen is in 2026 €1.025, met een energielabelbonus van €200 (bron RVO-wijzigingen 2026). Hybride warmtepompen vallen in 2026 gewoon onder de ISDE. Zoek het exacte bedrag voor jouw model op via rvo.nl.
 
 ## Korte conclusie
 
