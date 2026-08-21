@@ -1,8 +1,8 @@
 ---
 title: 'Vergunning Warmtepomp Aanvragen 2026: Wanneer Verplicht?'
 date: 2026-07-14 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: 'Heb ik vergunning nodig voor mijn warmtepomp? Geluidsnorm 40 dB op buurtgrens, vergunningvrij of WABO-procedure. Stappenplan en kosten voor 2026 in Nederland.'
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Heb je een vergunning nodig voor een warmtepomp? De geluidsnorm op de perceelgrens, wanneer plaatsing vergunningvrij is, en het stappenplan als je wél een vergunning nodig hebt.'
 draft: false
 categories:
 - warmtepompen
@@ -26,62 +26,57 @@ featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1581094271901-802
 schema_type: Article
 affiliate: false
 faq:
-- q: 'Heb ik vergunning nodig voor een warmtepomp?'
-  a: 'In de meeste gevallen niet, mits je voldoet aan de geluidsnorm van 40 dB(A) op de erfgrens. Bij overschrijding of plaatsing in beschermd stadsgezicht/monument: wel vergunning nodig.'
+- q: 'Heb ik een vergunning nodig voor een warmtepomp?'
+  a: 'Meestal niet. Voor een buitenunit bij een woning geldt in de eerste plaats de geluidsnorm op de perceelgrens; voldoe je daaraan en gelden er geen bijzondere regels voor je pand, dan is plaatsing doorgaans vergunningvrij. Bij een monument, een beschermd stadsgezicht of afwijkende gemeentelijke regels ligt dat anders — check dat vooraf bij je gemeente.'
 - q: 'Wat is de geluidsnorm voor warmtepompen?'
-  a: 'Sinds 1 april 2021: 40 dB(A) op de erfgrens van de buren tussen 23:00 en 07:00 (nachtnorm). Overdag mag het meer zijn maar minimaal 50 dB(A) gemiddeld. Veel moderne pompen halen dit zonder problemen.'
+  a: 'Op de perceelgrens geldt maximaal 45 dB(A) overdag (07:00-19:00) en 40 dB(A) in de avond en nacht (19:00-07:00). Die norm staat sinds 1 januari 2024 in het Besluit bouwwerken leefomgeving (Bbl) en gold daarvoor, sinds 1 april 2021, in het Bouwbesluit.'
 - q: 'Hoe meet ik geluid van mijn warmtepomp?'
   a: 'De fabrikant vermeldt het geluidsvermogen (in dB(A) Lw). Je kunt een schatting doen met formules of een geluidsmeter app, maar voor een officiële melding heb je een akoestisch rapport van een specialist nodig (€350-€600).'
-- q: 'Wat als ik in een Vinex-wijk woon?'
-  a: 'Geluidseisen zijn extra strikt door dichte bebouwing. Plaats de buitenunit zo ver mogelijk van de erfgrens en gebruik geluidsdempende ombouw. Bij twijfel: vraag akoestisch rapport vooraf, het voorkomt klachten.'
+- q: 'Wat als ik in een dichtbebouwde wijk woon?'
+  a: 'De norm is overal dezelfde, maar bij korte afstanden en veel reflecterende gevels is hij lastiger te halen. Plaats de buitenunit zo ver mogelijk van de perceelgrens, houd rekening met reflectie tegen gevels en schuttingen, en laat bij twijfel vooraf een akoestisch rapport maken.'
 - q: 'Kost een vergunning veel?'
   a: 'Indien nodig: €150-€650 leges bij gemeente, plus €350-€700 voor akoestisch rapport. Behandeltijd 8-12 weken. Veel goedkoper en sneller is voldoen aan vergunningvrije eisen.'
 - q: 'Wat als de buren klagen?'
   a: 'Eerst zelf praten. Bij voortdurende klacht: gemeente komt meten. Bij overschrijding norm: aanpassingsplicht (geluidskap, verplaatsing). Voorkom dit met juiste plaatsing en geluidsbewuste keuze.'
 products:
 - name: Quatt warmtepomp
-  url: https://www.quatt.nl/
-  price: '8500'
+  url: https://go.duurzaamthuislab.nl/quatt
 - name: ATAG warmtepomp
-  url: https://www.atag-verwarming.nl/
-  price: '11000'
+  url: https://go.duurzaamthuislab.nl/atag
 - name: Daikin Altherma 3
-  url: https://www.daikin.nl/
-  price: '13500'
+  url: https://go.duurzaamthuislab.nl/daikin
 ---
-Een buurman van mij in Zwolle plaatste eind 2024 een warmtepomp zonder na te denken over geluid. Twee maanden later stonden zijn buren bij de gemeente. Resultaat: gemeente kwam meten, bevond 44 dB(A) op erfgrens (4 dB boven norm), en buurman moest binnen 6 maanden geluidskap (€1.200) plaatsen of pomp verplaatsen (€2.500). Het had hem allemaal kunnen besparen met 2 uur planning vooraf.
+De vraag "heb ik een vergunning nodig?" is bij warmtepompen bijna altijd de verkeerde eerste vraag. Wat je in de praktijk tegenkomt is niet de gemeente die vooraf nee zegt, maar een buur die achteraf klaagt — en dan gaat het over het geluidsniveau op de perceelgrens. Plaatsing die vergunningvrij is, is namelijk niet hetzelfde als plaatsing waar niemand iets van kan zeggen.
 
-Hieronder mijn complete gids voor vergunningen en geluidsregels rond warmtepompen in 2026. Wat is verplicht, wat is wijs, en hoe voorkom je problemen met buren of gemeente.
+Hieronder staat wat er wettelijk geldt, wanneer je wél een vergunning nodig hebt, en hoe je vooraf hard maakt dat je aan de norm voldoet.
 
 *Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
-
-> **Kort antwoord:** Heb ik vergunning nodig voor mijn warmtepomp? Geluidsnorm 40 dB op buurtgrens, vergunningvrij of WABO-procedure. Stappenplan en kosten voor 2026 in Nederland.
+> **Kort antwoord:** in de meeste gevallen is plaatsing vergunningvrij. De bindende eis is het geluidsniveau op de perceelgrens: maximaal 45 dB(A) overdag en 40 dB(A) in de avond en nacht. Er is géén wettelijke minimumafstand tot de erfgrens — alleen het niveau op die grens telt.
 >
-> In de meeste gevallen niet, mits je voldoet aan de geluidsnorm van 40 dB(A) op de erfgrens. Bij overschrijding of plaatsing in beschermd stadsgezicht/monument: wel vergunning nodig.
+> Een vergunning is wel nodig bij een monument, in een beschermd stadsgezicht, bij afwijkende gemeentelijke regels of wanneer je de norm niet haalt. Laat in alle gevallen vóór ondertekening een geluidsberekening op de perceelgrens maken en bewaar die; dat is het document waarop je terugvalt bij een klacht.
 
 ## Wat verandert er met de Omgevingswet?
 
-Sinds 1 januari 2024 geldt de Omgevingswet. Voor warmtepompen in praktijk betekent dit:
-- Gelijke landelijke geluidsnorm (40 dB(A) erfgrens nacht)
-- Gemeenten kunnen lokale aanvullingen maken
-- Procedure via DSO (Digitaal Stelsel Omgevingswet) — vergelijkbaar met oude WABO
+Sinds 1 januari 2024 geldt de Omgevingswet, met het Besluit bouwwerken leefomgeving (Bbl) als opvolger van het Bouwbesluit. Voor warmtepompen betekent dat in de praktijk:
+- Een landelijke geluidsnorm op de perceelgrens: 45 dB(A) overdag, 40 dB(A) in de avond en nacht
+- Gemeenten kunnen in het omgevingsplan aanvullende regels stellen, bijvoorbeeld over welstand of beschermde gebieden
+- Aanvragen lopen via het Omgevingsloket, de opvolger van de oude Wabo-route
 
-Geluidsnorm is sinds 1 april 2021 al landelijk geldig (Activiteitenbesluit milieubeheer aangepast). De Omgevingswet bouwt hierop voort.
+De geluidsnorm zelf is niet nieuw: die geldt sinds 1 april 2021 en is met de Omgevingswet ongewijzigd overgenomen in het Bbl.
 
 ## Wanneer is een vergunning nodig?
 
 ### Vergunningvrij — meestal het geval
 
-Geen vergunning nodig als je voldoet aan ALLE van:
-1. **Geluidsnorm**: max 40 dB(A) op erfgrens tussen 23:00-07:00
-2. **Bouwbesluit**: pomp niet groter dan toegestane afmetingen
-3. **Bestemmingsplan**: niet in beschermd stadsgezicht of bij monument
-4. **Welstandsregels**: niet zichtbaar vanaf openbare weg (sommige gemeenten)
-5. **Hoogte**: maximaal aan de gevel of op platte daken
-6. **Afstand**: minimaal 1 meter van erfgrens (bij sommige gemeenten)
+Plaatsing is doorgaans vergunningvrij als aan al het volgende is voldaan:
 
-In 80%+ van de gevallen is plaatsing dus vergunningvrij — maar het hangt af van je gemeente.
+1. **Geluidsnorm**: maximaal 45 dB(A) overdag en 40 dB(A) 's avonds en 's nachts op de perceelgrens.
+2. **Geen beschermde status**: het pand is geen monument en ligt niet in een beschermd stadsgezicht.
+3. **Omgevingsplan en welstand**: de gemeente stelt geen aanvullende eisen voor jouw locatie of plaatsingswijze.
+4. **Geen constructieve wijziging**: er wordt niet ingegrepen in de draagconstructie, bijvoorbeeld bij plaatsing op een dak.
+
+Let op: een landelijke minimumafstand tot de erfgrens bestaat niet. Wel kan een gemeente in haar omgevingsplan regels stellen over plaatsing en zichtbaarheid, en die verschillen per gemeente. Check dat vooraf via het Omgevingsloket of bij de gemeente zelf.
 
 ### Vergunning nodig
 
@@ -89,12 +84,12 @@ Wel WABO-aanvraag indienen (via Omgevingsloket) als:
 - **Beschermd stadsgezicht** (binnenstad Amsterdam, Utrecht, Delft, etc.)
 - **Monument**: bij plaatsing aan/op monument of in directe omgeving
 - **Welstandsregels**: gemeente eist beoordeling
-- **Geluidsoverschrijding**: pomp >40 dB(A) op erfgrens
+- **Geluidsoverschrijding**: de unit haalt de norm op de perceelgrens niet
 - **Constructieve aanpassing**: bij grote wijzigingen aan dak
 
-## De 40 dB(A)-regel uitgelegd
+## De geluidsnorm uitgelegd
 
-Sinds 1 april 2021 geldt: een warmtepomp mag op de erfgrens van de buren maximaal 40 dB(A) produceren tussen 23:00 en 07:00. Dit is een nachtnorm — overdag mag het meer (50 dB(A) gemiddeld).
+Op de perceelgrens mag een buitenunit maximaal 45 dB(A) produceren overdag (07:00-19:00) en maximaal 40 dB(A) in de avond en nacht (19:00-07:00). De avond- en nachtwaarde is dus de bindende: haal je die, dan haal je de dagwaarde ook.
 
 Wat is 40 dB(A)?
 - 30 dB: fluisteren
@@ -103,10 +98,10 @@ Wat is 40 dB(A)?
 - 60 dB: normale conversatie
 - 70 dB: stofzuiger
 
-Voor moderne warmtepompen is 40 dB(A) op erfgrens vrijwel altijd haalbaar bij goede plaatsing. Probleem ontstaat bij:
-- Krappe achtertuinen (< 5 meter naar erfgrens)
-- Kleine pompen tegen de gevel
-- Oudere modellen met luide ventilator
+Voor moderne warmtepompen is die 40 dB(A) bij een doordachte plaatsing meestal haalbaar. Het knelt vooral bij:
+- Korte afstanden tot de perceelgrens, zoals in een smalle achtertuin
+- Opstellingen in een hoek of pal tegen een gevel, waar reflectie het niveau opdrijft
+- Oudere of zwaardere units met een hoog geluidsvermogen
 
 ## Berekening geluid op erfgrens
 
@@ -134,7 +129,7 @@ Het rapport beschrijft:
 - Berekening op verschillende ontvangpunten (erfgrenzen)
 - Aanbevelingen voor mitigatie
 
-## Mijn aanbevolen plaatsings-strategie
+## Onze aanbevolen plaatsingsstrategie
 
 Voor de gemiddelde rijtjeshuis met 6m diepe achtertuin:
 
@@ -144,7 +139,7 @@ Voor de gemiddelde rijtjeshuis met 6m diepe achtertuin:
 
 Hoogte: liefst op 1-2 meter boven grond — geluid plant zich anders voort.
 
-Geluidsdempende maatregelen die ik vaak adviseer:
+Geluidsdempende maatregelen en hun globale effect (vraag de leverancier om de opgave voor jouw situatie):
 - **Geluidskap rondom pomp**: -3 tot -8 dB
 - **Akoestische lamellen schutting**: -3 tot -5 dB
 - **Anti-trillingsmatten onder unit**: -2 dB
@@ -264,20 +259,23 @@ Investeren in goede planning (€450 rapport vooraf) is bijna altijd beter dan �
 6. **Configureer nachtmodus** in installatie-instellingen
 7. **Onderhoud**: vuile ventilator maakt meer geluid
 
-## Welke pompen zijn stilst?
+## Hoe je merken op geluid vergelijkt
 
-Bij gelijk vermogen (8 kW thermisch):
-- **Daikin Altherma 3**: 53 dB(A) Lw — top
-- **Mitsubishi Ecodan**: 54 dB(A) Lw
-- **ATAG Energion**: 55 dB(A) Lw
-- **Quatt Quattro**: 58 dB(A) Lw
-- **Itho Daalderop Heatpump**: 60 dB(A) Lw
+Een ranglijst van merken op geluid is niet zinvol, en wij publiceren die daarom niet. De reden: fabrikanten geven geluid op verschillende manieren op — als geluidsdruk op 1, 3 of 4 meter, soms in stiltemodus, en soms als geluidsvermogen in dB(A) Lw. Die getallen zijn onderling niet vergelijkbaar, en binnen één productlijn verschilt de waarde bovendien per vermogen.
 
-Lees [beste warmtepomp merk](/posts/beste-warmtepomp-merk-2026/) voor mijn complete vergelijking.
+Wat je wél moet doen:
+
+1. Vraag per kandidaat-model het **geluidsvermogen in dB(A) Lw** uit het officiële productblad, voor het exacte typenummer uit de offerte.
+2. Vraag of er een nachtstand is en wat het geluidsvermogen in die stand is.
+3. Laat de installateur met die waarden het niveau op jouw perceelgrens berekenen, inclusief reflectie.
+
+Pas dan vergelijk je appels met appels. Een unit met een hoger geluidsvermogen kan bij een gunstige opstelling ruim binnen de norm blijven, terwijl een "stille" unit in een hoek tegen twee muren alsnog over de grens gaat.
+
+Lees [beste warmtepomp merk](/posts/beste-warmtepomp-merk-2026/) voor de volledige merkvergelijking.
 
 ## Conclusie: planning bespaart geld
 
-Vergunningen voor warmtepompen zijn meestal niet nodig, mits je vooraf goed plant. Mijn checklist:
+Vergunningen voor warmtepompen zijn meestal niet nodig, mits je vooraf goed plant. De checklist:
 1. Check geluidsspecificaties pomp (zoek <56 dB(A) Lw)
 2. Plan plaatsing minimaal 3m van erfgrens
 3. Bij twijfel: akoestisch rapport vóór installatie (€450)
@@ -288,84 +286,68 @@ Een paar uur extra planning bespaart vaak duizenden euro's en ruzie met de buurt
 
 Lees ook: [warmtepomp installateur kiezen](/posts/beste-warmtepompinstallateur-kiezen-2026/), [beste warmtepomp 2026](/posts/beste-warmtepomp-merk-2026/), [warmtepomp installatie kosten](/posts/warmtepomp-installatie-kosten-2026/), [warmtepomp geluid buren norm](/posts/warmtepomp-geluid-buren-2026-norm/) en [hybride vs volledige warmtepomp](/posts/hybride-vs-volledige-warmtepomp-2026/).
 
-## Mijn eigen vergunningstraject
+## Verdieping: wat het Bbl wél en niet regelt
 
-Voor mijn eigen Quatt hybride in 2023 heb ik geen vergunning hoeven aanvragen — buitenunit op 4,2 m van perceelgrens, geluidsmeting 36 dB op grenslijn. Voldeed aan vergunningvrij regime. Toch heb ik buurman vooraf op de hoogte gesteld met een kort schrijven plus een meetrapport van de installateur. Resultaat: nul klachten, nul gedoe. Twee jaar later vroeg een buurvrouw verderop me om advies — zij had haar buitenunit zonder overleg geplaatst, op 1,8 m van perceelgrens. Klacht via Omgevingsdienst, meting 44 dB, gedwongen verplaatsing kosten €2.300. Het verschil tussen "even melden" en "niet melden" was in haar geval €2.300.
+Het Besluit bouwwerken leefomgeving (Bbl) is per 1 januari 2024 in de plaats gekomen van het Bouwbesluit. Voor een warmtepomp bij een woning regelt het één ding scherp en de rest niet:
 
-## Diepgang: het Bouwbesluit / Bbl 2026
+- **Wél geregeld:** het maximale geluidsniveau op de perceelgrens — 45 dB(A) overdag, 40 dB(A) in de avond en nacht. Dat is een resultaatsverplichting: hoe je hem haalt, is aan jou.
+- **Niet geregeld:** een minimumafstand tot de erfgrens, een maximale hoogte van de unit of een verplichte vrije ruimte rondom. Wat fabrikanten daarover voorschrijven (vrije ruimte voor luchtcirculatie, trillingsdemping onder de unit) zijn installatievoorschriften, geen wettelijke eisen — maar negeer ze niet, want je garantie hangt er wel van af.
+- **Per gemeente verschillend:** regels over welstand, zichtbaarheid vanaf openbaar gebied en beschermde gebieden staan in het omgevingsplan. Die verschillen dus wél per gemeente en zijn te raadplegen via het Omgevingsloket.
 
-Per 1 januari 2026 geldt het Besluit bouwwerken leefomgeving (Bbl) als opvolger van het Bouwbesluit. Voor warmtepompen relevant:
-
-- **Geluidsnorm op perceelgrens**: 40 dB(A) etmaal, 35 dB(A) nacht (23:00-07:00)
-- **Meetmethode**: NEN-EN-ISO 12354-4, op grenshoogte 1,5 m
-- **Plaatsing**: minimaal 0,5 m van gevel (i.v.m. trillingen), 2 m vrijhouden voor luchtcirculatie
-- **Vergunningvrij**: mits buitenunit max 1 m hoog en niet zichtbaar vanaf openbaar gebied
-- **Bbl-uitzondering monumentenstatus**: altijd vergunning, ook als geluid voldoet
-
-In oudere wijken met dicht-op-elkaar bouwen (Amsterdam-binnen, Haags Statenkwartier, Utrechtse binnenstad) wordt strikter gehandhaafd dan in suburbane wijken.
+Voor de meting geldt dat de gemeente bij een klacht een geluidsmeting of -berekening laat uitvoeren volgens de voorgeschreven methode. Vraag je installateur om die methode aan te houden in zijn eigen berekening, zodat je stukken vergelijkbaar zijn.
 
 ## Per type warmtepomp: vergunningstatus
 
-| Type | Doorgaans vergunningvrij | Wel vergunning bij |
+| Type | Doorgaans vergunningvrij | Aandachtspunt |
 |------|--------------------------|--------------------|
-| Hybride binnen-unit only | Ja | Monument, zichtbaar vanaf openbaar gebied |
-| Lucht-water buitenunit | Soms | Geluid >40 dB op grens, perceelgrens <2 m |
-| Bodemwarmte (verticaal) | Nee — boorvergunning | Altijd via melding RVO + bodemkundige |
-| Bodemwarmte (horizontaal) | Soms | In grondwater-beschermingszone wel |
-| Hybride met externe condensor | Soms | Welstand bij dakplaatsing |
+| Hybride, alleen binnenunit | Ja | Monument of beschermd stadsgezicht |
+| Lucht-water met buitenunit | Meestal | Geluid op de perceelgrens; welstand bij zichtbaarheid |
+| Bodemenergie, verticale bron | Nee | Boring is meldings- of vergunningplichtig; loopt via gemeente of omgevingsdienst |
+| Bodemenergie, horizontaal | Soms | Extra eisen in een grondwaterbeschermingsgebied |
+| Plaatsing op een plat dak | Soms | Constructie en welstand; geluidsoverdracht naar onderliggende ruimtes |
 
-## Mini case: Den Haag rijtjeshuis
+Voor bodemenergiesystemen geldt een aparte regeling: een gesloten bodemenergiesysteem is meldings- of vergunningplichtig, en in grondwaterbeschermingsgebieden gelden strengere regels. Welke procedure voor jouw adres geldt, staat in het Omgevingsloket — laat het boorbedrijf de melding doen en vraag om een kopie.
 
-Klant 2025: rijtjeshuis Statenkwartier, achtertuin 7 m diep. Plan: Atag MaXi compact buitenunit 38 dB, op 2,5 m van achterperceelgrens. Vergunningvrij zou voldoen. Maar: huizenrij gemeenschappelijke zijgevel met buurman op 0,8 m. Geluidsmeting bleek door reflectie 42 dB op punt buurman. Met geluidsdempende kap (€340) terug naar 36 dB. Vergunningvrij goedgekeurd. Tip uit deze case: laat installateur een geluidsberekening met reflectie-correctie maken voor dichte bebouwing.
+## Vijf veelgemaakte fouten
 
-## Veelgemaakte fouten
+**Fout 1: afgaan op de waarde op de fabriekssticker.**
+Fabrikanten meten in een gedefinieerde opstelling. Op de perceelgrens spelen afstand en reflectie mee, en die kunnen het niveau flink hoger uit laten vallen. Vraag om een berekening op de grens, niet om een datablad.
 
-**Fout 1: Geluidsnorm halen op fabriekssticker, niet op grens**
-Fabriek meet op 1 m afstand in vrije veld. Op grens (afhankelijk van afstand en reflectie) kan dB veel hoger uitvallen. Vraag installateur om perceelgrens-berekening.
+**Fout 2: de buren niet vooraf informeren.**
+Mensen klagen sneller over iets waar ze door verrast worden. Een korte brief vooraf, met de berekening erbij, kost een half uur en voorkomt het merendeel van de conflicten.
 
-**Fout 2: Geen vooraankondiging buren**
-Mensen klagen sneller bij verrassing dan bij overleg. Een briefje vooraf met geluidsrapport scheelt 80% van klachten.
+**Fout 3: plaatsing onder een slaapkamerraam van de buren.**
+Ook als het binnen de norm blijft, is dit de opstelling waar klachten uit voortkomen. Kies waar mogelijk een andere zijde.
 
-**Fout 3: Plaatsing onder slaapkamerraam buurman**
-Hoewel technisch toegestaan, vraagt het om gedoe. Plaats indien mogelijk aan straatzijde of op dak.
+**Fout 4: welstand bij dakplaatsing onderschatten.**
+Op een dak is de afstand tot de perceelgrens vaak gunstiger, maar zichtbaarheid vanaf openbaar gebied maakt welstandsadvies waarschijnlijker. Dat kost extra tijd en soms extra geld.
 
-**Fout 4: Onderschatten welstandseis dak-plaatsing**
-Op dak is geluid lager, maar vergt vrijwel altijd welstandsadvies. Tijdspad +6 weken, kosten +€280.
+**Fout 5: bodemenergie zonder melding.**
+Een gesloten bodemenergiesysteem aanleggen zonder de vereiste melding of vergunning is een overtreding waar handhaving op kan volgen. Laat het boorbedrijf dit regelen en bewaar het bewijs.
 
-**Fout 5: Bodemwarmte zonder melding RVO**
-Boren dieper dan 1,5 m vereist altijd melding (artikel 6.11 Bbl). Boete bij ontbrekende melding tot €2.500.
+## Wanneer je de vergunning beter niet zelf aanvraagt
 
-## Wanneer NIET zelf de vergunning aanvragen
-
-- **Monument of beschermd stadsgezicht**: laat installateur of architect het traject doen — €450-€800 maar voorkomt afwijzing
-- **Bodemwarmte met grondwaterbeschermingszone**: specialistische bureaus nodig
-- **Bij eerdere klachten in straat**: laat een akoestisch adviseur eerste rapport maken (€400-€700) dan staat alles van begin af aan goed
+- **Monument of beschermd stadsgezicht.** Laat de installateur of een architect het traject doen. Dat kost geld, maar de kans op afwijzing door een onvolledige onderbouwing is hier het grootst.
+- **Bodemenergie in een grondwaterbeschermingsgebied.** Hier is een gespecialiseerd bureau nodig; de eisen zijn technisch en de gevolgen van een fout zijn niet met een aanpassing achteraf te herstellen.
+- **Bij eerdere geluidsklachten in de straat.** Laat dan vooraf een akoestisch adviseur een rapport maken. Je begint het gesprek met de gemeente dan met een onderbouwing in plaats van met een discussie.
 
 ## Extra FAQ
 
-**Hoe lang duurt vergunningsprocedure als die nodig is?**
-Reguliere omgevingsvergunning: 8 weken (kan eenmaal verlengd 6 weken). Uitgebreide procedure (monumenten/groot bezwaar): 26 weken.
+**Hoe lang duurt de procedure als je wél een vergunning nodig hebt?**
+De reguliere procedure kent een beslistermijn van acht weken, die eenmaal met zes weken verlengd kan worden. Voor uitgebreide procedures, bijvoorbeeld bij monumenten of bij zienswijzen, loopt dat op tot een half jaar.
 
 **Wat kost een vergunningsaanvraag?**
-Leges gemeente: €280-€650 afhankelijk van gemeente. Welstand-beoordeling: €0-€280. Geluidsmeting na plaatsing: €350-€500.
+De leges verschillen per gemeente; reken op enkele honderden euro's. Een akoestisch rapport door een gespecialiseerd bureau komt daar eventueel bovenop. Beide bedragen zijn vooraf op te vragen — doe dat, want ze lopen tussen gemeenten sterk uiteen.
 
-**Mag ik de buitenunit aan voorgevel plaatsen?**
-Bouwtechnisch mag het, maar welstand keurt 90% af. Beter: zijgevel achter heg of op dak.
+**Mag de buitenunit aan de voorgevel?**
+Bouwtechnisch vaak wel, maar in gemeenten met welstandsbeleid is zichtbaarheid vanaf openbaar gebied precies het punt waarop het strandt. Een zijgevel achter een erfafscheiding of een dakopstelling is doorgaans kansrijker.
 
-**Wat als de gemeente niet binnen 8 weken reageert?**
-Bij reguliere procedure ontstaat na 8 weken (+ verlenging) van rechtswege een vergunning. Maar in praktijk reageren gemeenten vrijwel altijd op tijd. Documenteer alle correspondentie.
+**Wat als de gemeente niet op tijd beslist?**
+Bij de reguliere procedure kan het uitblijven van een besluit binnen de termijn ertoe leiden dat de vergunning van rechtswege ontstaat. Reken daar niet op als strategie: documenteer je correspondentie en vraag actief naar de status.
 
-## Per gemeente: handhavingscultuur 2026
+**Mag de buitenunit op de garage?**
+Vaak wel. Let op twee dingen: welstand kan bezwaar maken tegen zichtbaarheid, en geluidsoverdracht via de constructie naar een onderliggende of aangrenzende ruimte is bij een plat dak een reëel punt. Gebruik deugdelijke trillingsdempers en laat de opstelling in de offerte vastleggen.
 
-Niet elke gemeente werkt hetzelfde. Op basis van mijn klantendossiers van de afgelopen 18 maanden zie ik duidelijke patronen. Amsterdam handhaaft strikt op binnenstadszones — geluidsmeting wordt vaak gevraagd voordat omgevingsvergunning afgegeven wordt, doorlooptijd 10-14 weken. Rotterdam is pragmatischer maar kijkt streng naar plat-dak-plaatsing wegens welstandsbeleid. Utrecht heeft sinds 2025 een eigen "Warmtepomp-loket" dat versnelt naar 4 weken bij standaardgevallen. Den Haag controleert achteraf via klachtmeldingen — 23 procent van mijn Haagse klanten kreeg na plaatsing alsnog een geluidsmeting opgelegd. Eindhoven en Tilburg zijn het soepelst, vergunningvrij is regel. In Friese, Drentse en Limburgse gemeenten met veel buitengebied is de handhaving minimaal mits geen monumentenstatus.
+---
 
-## Mini case 2: Twentse hoekwoning met buurman-conflict
-
-Klant in Hengelo plaatste in 2024 zelf een Mitsubishi Ecodan 8 kW achterin de tuin, 1,2 m van perceelgrens. Geluid op fabriekssticker 38 dB, geen vooraankondiging buren. Buurman (slaapkamer pal achter de eenheid) klaagde 3 maanden later bij gemeente. Geluidsmeting in opdracht: 43 dB nacht op grens — 8 dB boven nachtnorm. Resultaat: dwangsom van 250 euro per week, en verplichte verplaatsing of demping binnen 12 weken. Klant moest geluidsdempende omkasting (920 euro) plus heropstelling op 2,5 m laten doen (1.450 euro). Totaal extra kosten 2.370 euro. Les: een 4-uurs preventief gesprek met de buren had dit volledig voorkomen.
-
-## Veelgemaakte fouten 2026 — nieuwe inzichten
-
-Vorig jaar zag ik twee opkomende foutpatronen die ik in eerdere edities niet zag. Ten eerste: kopers van "instapmodel" warmtepompen onder 4.500 euro krijgen vaak units met 45-48 dB geluidsspecificatie die op papier prima zijn, maar in piekbedrijf bij vorst soms 52 dB halen. Vraag altijd om het volledige geluidsdiagram bij verschillende belastingsniveaus. Ten tweede: installateurs die een akoestisch rapport "even snel" genereren met online tools zonder veldmeting — die rapporten worden door zorgvuldige gemeenten afgewezen. Eis een gemeten rapport door bureau met NEN-EN-ISO 12354-4 certificering.
-
-**Mag ik buitenunit op de garage plaatsen?**
-Vaak wel, mits geen verhuurde garage. Welstand kan het zichtbaarheidsbezwaar opwerpen — bekleed met houten omkasting passend bij gevel om dat te omzeilen. Op een platdak is geluidsoverdracht naar slaapkamers boven een aandachtspunt: gebruik trillingsdempers van minimaal 25 mm rubber.
+**Externe bron:** [Omgevingsloket](https://omgevingswet.overheid.nl/) — controleer hier welke regels op jouw adres van toepassing zijn.

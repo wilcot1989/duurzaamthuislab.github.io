@@ -1,7 +1,7 @@
 ---
 title: 'Warmtepomp installatie kosten 2026: wat kost wat precies?'
 date: 2026-09-14 08:00:00+02:00
-lastmod: 2026-09-14 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
 description: Wat kost een warmtepomp installatie in 2026? Volledige uitsplitsing per onderdeel — apparaat, montage, elektra, sloop, leidingen — plus subsidies en piekvalkuilen.
 categories:
@@ -25,33 +25,28 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1517490232338-06b912a786b5&w=1200&output=webp&q=70
 faq:
 - q: 'Wat kost een complete warmtepomp installatie in 2026?'
-  a: 'Een complete all-electric installatie ligt tussen 13.000 en 22.000 euro inclusief apparaat, montage, elektra en aanpassingen. Hybride is goedkoper: 7.500-12.000 euro. Met ISDE-subsidie (2.500-5.000 euro afhankelijk van type) en eventuele gemeentesubsidie kom je netto op 9.000-17.000 (all-electric) of 4.500-9.000 (hybride).'
+  a: 'Een complete all-electric installatie ligt tussen 13.000 en 22.000 euro inclusief apparaat, montage, elektra en aanpassingen. Een hybride opstelling is goedkoper: 7.500 tot 12.000 euro. Daar gaat het ISDE-bedrag vanaf dat bij het gekozen apparaat hoort; dat staat per typenummer op de apparatenlijst van RVO. Op toestel en installatie geldt 21% btw.'
 - q: 'Wat is het verschil tussen apparaat- en montagekosten?'
   a: 'Het apparaat zelf (buiten- en binnenunit) kost 4.000-9.000 euro voor hybride en 7.000-13.000 euro voor all-electric. Montagekosten (arbeid, materiaal, leidingwerk) liggen op 2.500-5.000 euro. Daarnaast komen elektra-aanpassingen (groepenkast, kabel) van 800-2.500 euro en eventueel radiatorvervanging.'
 - q: 'Hoeveel ISDE-subsidie krijg ik in 2026?'
-  a: 'Voor lucht-water warmtepompen 2.500-4.000 euro afhankelijk van vermogen en type. Voor grond-water warmtepompen tot 5.500 euro. De subsidie is hoger voor all-electric dan voor hybride. Aanvragen doe je achteraf via RVO, je installateur heeft een ISDE-erkenning nodig.'
+  a: 'Dat hangt af van het specifieke apparaat: RVO publiceert het bedrag per typenummer op de ISDE-apparatenlijst. Het startbedrag voor een warmtepomp is in 2026 1.025 euro, met daarbovenop 200 euro labelbonus. Je vraagt de subsidie aan ná de installatie, binnen 24 maanden. De eis aan de uitvoerder is dat een bouwinstallatiebedrijf de volledige installatie doet — er bestaat geen register van RVO-erkende installateurs.'
 - q: 'Moet de groepenkast vervangen worden voor een warmtepomp?'
   a: 'Bij een all-electric warmtepomp boven 6 kW vrijwel altijd. Een typische groepenkast uit een rijtjeshuis (3x25A of 1x40A) is meestal te krap. Reken op 800-2.500 euro voor groepenkast-uitbreiding inclusief eventuele krachtstroom-aanleg. Bij hybride is dit zelden nodig.'
 - q: 'Wat zit er meestal niet in de standaardofferte?'
   a: 'Veel installateurs leveren een offerte op basis van standaardsituatie. Niet altijd inbegrepen: groepenkast-aanpassingen, doorboringen, lange leidingtrajecten boven 8 meter, esthetische afwerking, oude cv-ketel slopen en afvoeren, radiatorvervanging, en buffervat. Vraag altijd om een specificatie tot op euro nauwkeurig.'
 - q: 'Hoe lang duurt een warmtepomp installatie?'
-  a: 'Hybride: 1-2 dagen. All-electric: 2-4 dagen, soms 5 als er ook radiatoren of vloerverwarming wordt aangelegd. Groepenkast-aanpassing kost een halve dag extra. De ISDE-subsidieaanvraag duurt 2-4 weken na installatie. Reken vanaf bestelling tot aansluiting op 6-12 weken.'
-products:
-- name: ISDE-subsidie warmtepomp
-  url: https://go.duurzaamthuislab.nl/isde
-  price: '0'
+  a: 'Een hybride opstelling kost meestal een tot twee dagen, een all-electric installatie twee tot vier dagen, en langer als er ook radiatoren of vloerverwarming worden aangelegd. Een aanpassing aan de groepenkast kost een halve dag extra. Reken van bestelling tot aansluiting op enkele weken tot een paar maanden, afhankelijk van het seizoen.'
 schema_type: Article
 ---
-Mijn buurman Henk kreeg in maart drie offertes voor een warmtepomp. De goedkoopste was 11.500 euro, de duurste 19.800 euro. Hetzelfde merk warmtepomp. "Hoe kan dat?" vroeg hij me. We zijn samen gaan rekenen, en het antwoord was simpel: de goedkope offerte sloot vier essentiele posten uit. Toen we die erbij optelden kwam ook die op 16.500 euro. Dit artikel is wat ik wou dat ik had gehad toen ik mijn eigen warmtepomp aanschafte.
+Drie offertes voor dezelfde warmtepomp in dezelfde woning kunnen duizenden euro's uiteenlopen, en in verreweg de meeste gevallen zit dat verschil niet in het apparaat. Het zit in de posten die de goedkoopste offerte niet noemt: de elektra-aanpassing, de radiatoren, het buffervat, de sloop van de oude ketel. Tel je die er handmatig bij op, dan komen de bedragen vaak opvallend dicht bij elkaar te liggen.
 
-*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken en partijen geen affiliate- of commissierelatie (stand augustus 2026).*
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
+💡 *De saldering stopt volledig per 1 januari 2027. Wat dat betekent voor de combinatie zonnepanelen en warmtepomp lees je in de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
-
-> **Kort antwoord:** Wat kost een warmtepomp installatie in 2026? Volledige uitsplitsing per onderdeel — apparaat, montage, elektra, sloop, leidingen — plus subsidies en piekvalkuilen.
+> **Kort antwoord:** een complete all-electric installatie ligt in 2026 tussen 13.000 en 22.000 euro bruto, een hybride opstelling tussen 7.500 en 12.000 euro. Op toestel en installatie geldt 21% btw; het 0%-tarief geldt alleen voor zonnepanelen.
 >
-> Een complete all-electric installatie ligt tussen 13.000 en 22.000 euro inclusief apparaat, montage, elektra en aanpassingen. Hybride is goedkoper: 7.500-12.000 euro. Met ISDE-subsidie (2.500-5.000 euro afhankelijk van type) en eventuele gemeentesubsidie kom je netto op 9.000-17.000 (all-electric) of 4.500-9.000 (hybride).
+> De grootste prijsverschillen zitten niet in het apparaat maar in elektra, radiatoren en montage. Vraag daarom altijd een offerte met aparte regels per post, en zoek het ISDE-bedrag voor het exacte typenummer op in de apparatenlijst van RVO voordat je tekent.
 
 ## De volledige uitsplitsing — alles wat een installatie kost
 
@@ -67,10 +62,10 @@ Een warmtepomp installatie bestaat uit zes hoofdkostenposten. In offertes zijn d
 | **Bron (alleen grond-water)** | n.v.t. | n.v.t. | 6.000-12.000 |
 | **Optioneel: radiatoren / vloerverwarming** | 0-3.000 | 0-8.000 | 0-8.000 |
 | **Bruto totaal** | 7.500-12.000 | 13.000-22.000 | 26.000-44.000 |
-| **ISDE-subsidie (aftrekken)** | -2.500 tot -3.500 | -3.500 tot -4.500 | -4.500 tot -5.500 |
-| **Netto na subsidie** | 4.500-9.000 | 9.000-17.000 | 21.500-38.500 |
 
-Ik loop ze stuk voor stuk door, zodat je weet wat je terugziet in een offerte.
+Het ISDE-bedrag staat er bewust niet bij: dat hangt af van het specifieke toestel en staat per typenummer op de apparatenlijst van RVO. Zoek het bedrag voor het apparaat uit jouw offerte daar op en trek het van het brutototaal af. Alle bedragen hierboven zijn inclusief 21% btw.
+
+Hieronder lopen wij de posten stuk voor stuk door, zodat je weet wat je in een offerte moet terugzien.
 
 ## 1. De warmtepomp zelf — apparaatkosten
 
@@ -82,7 +77,7 @@ Dit is de bekendste post: het toestel met buiten- en binnenunit, inclusief regel
 - **All-electric 10-14 kW**: 9.500-13.000 euro. Voor vrijstaande woningen.
 - **Premium merken (Mitsubishi Ecodan, Daikin Altherma, Nibe)**: voeg 15-25 procent toe.
 
-Voor een grond-water warmtepomp komt daar een bron bij: 6.000-12.000 euro voor de boring en bodemcollector. Daarom kies ik bij vrijwel iedere klant voor lucht-water — de meerprijs verdient zich zelden terug, ondanks de iets hogere SCOP.
+Voor een grond-water warmtepomp komt daar een bron bij: 6.000 tot 12.000 euro voor de boring en de bodemcollector. Die meerprijs verdient zich in een gemiddelde Nederlandse woning zelden terug, ondanks het hogere seizoensrendement — lucht-water is voor de meeste woningen daarom de logische keuze. Bij een grote woning met een hoge warmtevraag kan de rekensom anders uitpakken; laat die dan doorrekenen.
 
 Vergelijk modellen in [beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/) en [warmtepomp monoblock vs split 2026](/posts/warmtepomp-monoblock-vs-split-2026/).
 
@@ -143,18 +138,21 @@ Lees [vloerverwarming aanleggen kosten 2026](/posts/vloerverwarming-aanleggen-ko
 
 ## ISDE-subsidie 2026
 
-Via ISDE krijg je per warmtepomp 2.500-5.500 euro terug, afhankelijk van type en vermogen. Voorwaarden:
+Het ISDE-bedrag hangt af van het specifieke apparaat en staat per typenummer op de apparatenlijst van RVO. Bedragen per merk of vermogensklasse zijn daarom niet in een artikel te vangen: ze verschillen per toestel en worden periodiek bijgesteld. Het startbedrag voor een warmtepomp is in 2026 €1.025, met daarbovenop €200 labelbonus.
 
-- Apparaat staat op de RVO-meldcodelijst
-- Installateur heeft ISDE-erkenning
-- Aanvraag binnen 24 maanden na installatie
-- Minimaal twee jaar in eigendom houden
+Voorwaarden:
 
-Veel installateurs nemen de aanvraag voor je over. Check de actuele bedragen via <a href="https://go.duurzaamthuislab.nl/isde" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">RVO ISDE-pagina</a> of lees [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/).
+- Het apparaat staat op de ISDE-apparatenlijst van RVO
+- De volledige installatie wordt uitgevoerd door een bouwinstallatiebedrijf
+- Je vraagt de subsidie aan **ná** de installatie, binnen 24 maanden
 
-## Voorbeeld-offerte gemiddeld rijtjeshuis
+Er bestaat geen register van "RVO-erkende" installateurs waar de subsidie van afhangt; wie dat als verkoopargument gebruikt, heeft de voorwaarden niet gelezen. Veel installateurs nemen de aanvraag wel voor je over — laat in de offerte vastleggen wie hem indient.
 
-Hier is een echte offerte die ik recent heb beoordeeld voor een rijtjeshuis (1980, label C, 110 m2, 4 personen):
+Zoek de actuele bedragen op via [rvo.nl](https://www.rvo.nl/subsidies-financiering/isde) of lees [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/).
+
+## Voorbeeldbegroting voor een gemiddeld rijtjeshuis
+
+Onderstaande begroting is een **modelberekening met aannames** voor een veelvoorkomend profiel: rijtjeshuis uit 1980, label C, circa 110 m², vier bewoners. De bedragen zijn ordegroottes uit de bandbreedtes hierboven en dienen om te toetsen of een offerte compleet is — niet als prijsopgave.
 
 | Post | Bedrag |
 |---|---|
@@ -166,11 +164,10 @@ Hier is een echte offerte die ik recent heb beoordeeld voor een rijtjeshuis (198
 | 6 lage-T radiatoren | 1.800 |
 | Eerste inbedrijfstelling en regelaar | inbegrepen |
 | **Bruto totaal** | **17.080** |
-| ISDE-subsidie | -3.500 |
-| Gemeentesubsidie Utrecht | -750 |
-| **Netto totaal** | **12.830** |
 
-Dit is een eerlijke en complete offerte. Goedkopere zag ik door slimme weglatingen — een offerte die op 13.000 euro uitkomt zonder groepenkast, radiatoren en buffervat is geen 13.000 euro.
+Daar gaan nog het ISDE-bedrag voor het gekozen toestel en een eventuele gemeentelijke regeling vanaf. Zoek beide op voordat je tekent: het ISDE-bedrag in de apparatenlijst van RVO, de gemeentelijke regeling via de subsidiechecker van je eigen gemeente.
+
+Het punt van deze begroting is de volledigheid, niet het eindbedrag. Een offerte die op 13.000 euro uitkomt zónder groepenkast, radiatoren en buffervat is in werkelijkheid geen 13.000 euro — die posten komen later alsnog.
 
 ## Drie veelgemaakte fouten in offertes
 
@@ -180,17 +177,17 @@ Dit is een eerlijke en complete offerte. Goedkopere zag ik door slimme weglating
 
 Voor een complete check zie [warmtepomp installateur checklist 2026](/posts/warmtepomp-installateur-checklist-2026/).
 
-## Mijn advies om kosten te beheersen
+## Zo houd je de kosten in de hand
 
-1. **Vraag minimaal drie offertes**. De spreiding tussen offertes is gemiddeld 25-40 procent.
+1. **Vraag minimaal drie offertes**. Verwacht een forse spreiding, en zoek het verschil eerst in de ontbrekende posten voordat je conclusies trekt over de prijs.
 2. **Eerst isoleren, dan installeren**. Met betere isolatie kan een kleinere warmtepomp toe — directe besparing van 1.500-3.000 euro op het apparaat. Zie [beste isolatie voor warmtepomp 2026](/posts/beste-isolatie-voor-warmtepomp-2026/).
 3. **Kies hybride als je twijfelt**. Lagere investering, snellere terugverdientijd. Vergelijk in [hybride vs volledige warmtepomp 2026](/posts/hybride-vs-volledige-warmtepomp-2026/).
 4. **Plan elektra-werk gezamenlijk**. Doe groepenkast, laadpaal en warmtepomp in een traject — bespaart 800-1.500 euro aan duplicatiewerk.
-5. **Wacht niet op subsidie-verhoging**. ISDE wordt jaarlijks aangepast, vaak iets verlaagd. Wachten levert zelden iets op.
+5. **Baseer je timing niet op verwachte subsidiewijzigingen**. Bedragen en voorwaarden worden periodiek bijgesteld en die bijstellingen zijn niet vooruit te kennen. Reken met het bedrag dat nú voor jouw toestel geldt.
 
-## Verschillen per woningtype — extra rekenvoorbeelden
+## Verschillen per woningtype — drie modelberekeningen
 
-Niet elk huis heeft dezelfde benodigdheden. Hier drie aanvullende voorbeelden:
+Niet elk huis vraagt dezelfde posten. Hieronder drie **modelberekeningen met aannames**, opgebouwd uit de bandbreedtes hierboven. De ISDE staat er niet in verwerkt: zoek het bedrag voor het gekozen typenummer op in de apparatenlijst van RVO en trek het van het brutototaal af.
 
 **Tussenwoning (1995, label B, 95 m2):**
 - Daikin Altherma 6 kW: 8.500 euro
@@ -199,9 +196,7 @@ Niet elk huis heeft dezelfde benodigdheden. Hier drie aanvullende voorbeelden:
 - Groepenkast prima: 0 euro
 - Sloop ketel: 250 euro
 - 4 bestaande lage-T radiatoren toereikend: 0 euro
-- Bruto: 12.150 euro
-- ISDE -3.000, gemeente -500
-- **Netto: 8.650 euro**
+- **Bruto: 12.150 euro**, min het ISDE-bedrag voor het gekozen toestel en een eventuele gemeentelijke regeling
 
 **Vrijstaand huis (1965, label E na isolatie label C, 160 m2):**
 - Vaillant aroTHERM 12 kW: 11.800 euro
@@ -211,9 +206,7 @@ Niet elk huis heeft dezelfde benodigdheden. Hier drie aanvullende voorbeelden:
 - Sloop oude HR-ketel: 350 euro
 - 12 lage-T radiatoren: 3.500 euro
 - Buffervat 200L: 850 euro
-- Bruto: 23.800 euro
-- ISDE -3.800, gemeente -1.000
-- **Netto: 19.000 euro**
+- **Bruto: 23.800 euro**, min het ISDE-bedrag voor het gekozen toestel en een eventuele gemeentelijke regeling
 
 **Appartement (2005, label A, 75 m2, eigen ketelinstallatie):**
 - Mitsubishi Ecodan 5 kW: 8.200 euro
@@ -223,41 +216,73 @@ Niet elk huis heeft dezelfde benodigdheden. Hier drie aanvullende voorbeelden:
 - Sloop ketel: 280 euro
 - Bestaande LT-radiatoren ok: 0 euro
 - VVE-toestemming en advies: 350 euro
-- Bruto: 12.830 euro
-- ISDE -3.000, geen gemeentesubsidie
-- **Netto: 9.830 euro**
+- **Bruto: 12.830 euro**, min het ISDE-bedrag voor het gekozen toestel
 
 ## Financiering en hypotheek
 
 Voor wie geen 10.000-15.000 euro spaargeld direct kan vrijmaken zijn er drie routes:
 
-**1. Verduurzamingslening Nationale Warmtefonds**
-1,5-2,8 procent rente, looptijden 7-20 jaar, maximaal 71.000 euro per woning. Geen leeftijdsgrens, ook voor 65-plussers. Voorwaarden: investering moet aantoonbaar besparen.
+**1. Energiebespaarlening van het Nationaal Warmtefonds**
+Een lening specifiek voor verduurzamingsmaatregelen, met rentetarieven die doorgaans onder die van een consumptief krediet liggen en looptijden tot enkele decennia. Rente, maximale leensom en voorwaarden verschillen per inkomenscategorie en worden periodiek herzien; kijk voor de actuele voorwaarden op warmtefonds.nl voordat je hierop rekent.
 
 **2. Hypotheekverhoging voor verduurzaming**
-Bij veel banken kun je 9.000-25.000 euro extra lenen voor verduurzaming buiten de NHG-grens om. Tarieven 3,5-4,5 procent. Voordeel: rente is fiscaal aftrekbaar.
+Veel geldverstrekkers bieden ruimte om extra te lenen voor verduurzaming, soms buiten de reguliere leennorm om. De rente is bij een hypothecaire lening doorgaans fiscaal aftrekbaar wanneer de lening voor de eigen woning wordt aangewend. Voorwaarden en maximale bedragen verschillen per aanbieder — vraag ze op bij je eigen geldverstrekker.
 
 **3. Gemeentelijke duurzaamheidslening**
-Per gemeente verschillend. Vaak 1-2 procent rente, looptijd 10-15 jaar. Aanvragen via je gemeente — wachttijd kan oplopen tot 3-6 maanden.
+Niet elke gemeente heeft er een, en waar die bestaat verschillen rente, looptijd en doorlooptijd sterk. Check de subsidie- en leningchecker van je eigen gemeente.
 
-In alle drie de gevallen is de maandelijkse besparing op gas (60-150 euro) meestal hoger dan de extra hypotheek- of leenlast (40-100 euro). Daardoor is netto cashflow positief vanaf maand 1.
+Of de maandlast opweegt tegen de besparing hangt af van je gasverbruik, de rente en de looptijd. Reken dat door met je eigen cijfers voordat je een lening afsluit; een positieve maandelijkse cashflow is bij deze investering mogelijk, maar zeker geen gegeven.
 
 ## Veelgehoorde mythes
 
-**"Een warmtepomp installatie kost altijd 25.000+ euro."**
-Niet waar. Voor 80 procent van de woningen ligt het tussen 9.000 en 17.000 euro netto. De 25.000+ verhalen komen van mensen met grote woningen, slechte isolatie, of installateurs die alles vergulden.
+**"Een warmtepompinstallatie kost altijd meer dan 25.000 euro."**
+Niet voor een doorsnee woning. Bedragen boven de 25.000 euro horen bij grote woningen, een bodembron of een pakket waarin ook forse isolatie- en afgiftewerkzaamheden zitten. Voor een gemiddelde rijtjes- of tussenwoning ligt het brutototaal in de bandbreedtes uit dit artikel.
 
 **"De ISDE-subsidie wordt afgeschaft."**
-Niet voor 2027. Wel verschuiven de bedragen jaarlijks. Wachten levert zelden iets op.
+Over de hoogte en het voortbestaan van de regeling na het lopende jaar doen wij geen voorspelling; die worden periodiek bijgesteld en dat is niet vooruit te kennen. Wel vast: je vraagt de subsidie aan ná de installatie, binnen 24 maanden, en het bedrag hangt af van het gekozen apparaat.
 
 **"Een installateur kiezen via de fabrikant is duurder."**
-Niet altijd. Erkende installateurs van een specifiek merk hebben vaak inkoopvoordeel. Reken na, niet over de grote meeste door te schuiven naar "een vriend van mijn buurman".
+Niet per se. Een door de fabrikant erkende installateur heeft vaak inkoopvoordeel, en bij sommige merken is een verlengde garantie aan die erkenning gekoppeld. Vraag dat na en reken het door.
 
-## Conclusie
+## Kostenoverzicht samengevat
 
-Een warmtepomp installatie kost in 2026 tussen 7.500 en 22.000 euro bruto, afhankelijk van type, woningomvang en isolatieniveau. Met ISDE en gemeentesubsidie kom je netto op 4.500-17.000 euro. De grootste prijsverschillen zitten niet in het apparaat zelf, maar in elektra, radiatoren en montage.
+Een warmtepompinstallatie kost in 2026 tussen 7.500 en 22.000 euro bruto, afhankelijk van type, woningomvang en isolatieniveau. Wat daar via de ISDE van afgaat hangt af van het gekozen apparaat; dat bedrag zoek je op in de apparatenlijst van RVO. De grootste prijsverschillen zitten niet in het toestel zelf, maar in elektra, radiatoren en montage.
 
 Vraag altijd een gespecificeerde offerte met aparte regels voor: apparaat, montage, leidingen, elektra, sloop oude ketel en eventuele radiatoren of vloerverwarming. Een installateur die "alles inclusief" zegt zonder specificatie heeft iets te verbergen — meestal de elektra-post.
+
+## Wat een offerte-vergelijking in de praktijk oplevert
+
+Het patroon dat bij vrijwel elke vergelijking terugkomt: de goedkoopste offerte oogt aantrekkelijk doordat er posten ontbreken, en de duurste bevat werk dat de anderen niet hebben opgemerkt. Alleen de middelste blijkt dan compleet — niet omdat het midden altijd goed is, maar omdat dat de offerte is waarin de installateur de woning werkelijk heeft bekeken.
+
+Twee posten die het vaakst ontbreken en achteraf altijd terugkomen: de aanpassing van de groepenkast en de conversie naar lage-temperatuurafgifte. Ontbreekt een van beide, dan is de vergelijking met de andere offertes niet zuiver. Tel ze er zelf bij op en vergelijk daarna pas.
+
+Een lump-sum bedrag zonder specificatie is om die reden geen offerte maar een indicatie. Vraag een uitsplitsing per regel: toestel met typenummer, montage-uren, leidingwerk, elektra, sloop en afvoer, afgifte, buffervat, inregeling en nacontrole.
+
+## Subsidie, btw en geluid: waar het misgaat
+
+**ISDE.** Het bedrag hangt af van het apparaat en staat per typenummer op de apparatenlijst van RVO. Je vraagt de subsidie aan ná de installatie, binnen 24 maanden. De eis aan de uitvoerder is dat een bouwinstallatiebedrijf de volledige installatie doet. Certificeringen die als voorwaarde voor de subsidie worden gepresenteerd bestaan niet — laat je daar niets over aanpraten.
+
+**Btw.** Op de warmtepomp en de installatie geldt 21% btw. Het 0%-tarief geldt uitsluitend voor zonnepanelen en de daarvoor direct noodzakelijke onderdelen; een warmtepomp, boiler of thermostaat valt daar niet onder.
+
+**Geluid.** Voor de buitenunit geldt op de perceelgrens 45 dB(A) overdag en 40 dB(A) in de avond en nacht. Die norm staat sinds 1 januari 2024 in het Besluit bouwwerken leefomgeving (Bbl). Er is geen wettelijke minimumafstand tot de erfgrens — alleen het niveau op die grens telt. Vraag het geluidsvermogen (dB(A) Lw) uit het productblad en laat de installateur de berekening op de perceelgrens maken vóór ondertekening; dat document is je bewijs als een buur later klaagt.
+
+## Vijf fouten bij het opvragen van offertes
+
+1. **Een lump-sum offerte accepteren.** Zonder specificatie weet je niet of de conversie naar lage temperatuur, de elektra-aanpassing en de geluidsmaatregelen erin zitten.
+2. **Het vermogen laten bepalen vóór de isolatie.** Isoleer je daarna alsnog, dan zit je met een overgedimensioneerd toestel dat pendelt en een lager seizoensrendement haalt.
+3. **Meerwerkclausules niet begrenzen.** "Meerwerk wordt achteraf gefactureerd" zonder bovengrens is een open rekening. Spreek vaste meerprijzen per scenario af.
+4. **De opstelling van de buitenunit niet bespreken.** Plaatsing bepaalt zowel het geluid op de perceelgrens als de aanzuigcondities; beide beïnvloeden respectievelijk je juridische positie en je rendement.
+5. **Vergeten het vastrecht van de oude aansluiting op te zeggen.** Ga je volledig van het gas af, dan moet de gasaansluiting worden afgesloten en verwijderd via je netbeheerder — anders loopt het vastrecht door.
+
+## Wanneer een warmtepomp nog niet aan de orde is
+
+Bij een woning met een slechte schil is isoleren eerst financieel de betere zet: de warmtevraag daalt, het benodigde vermogen daalt mee en de warmtepomp die je daarna koopt is kleiner en goedkoper. Bij verhuisplannen op korte termijn is een volledige overstap zelden rond te rekenen; een hybride opstelling of het vervangen van de ketel is dan realistischer.
+
+In monumentale panden waar een zichtbare buitenunit niet is toegestaan, blijft er weinig over behalve een binnenopstelling met luchtkanalen — technisch mogelijk, maar aanzienlijk duurder. Bij blokverwarming of een warmtenet is een eigen warmtepomp technisch soms haalbaar maar contractueel vaak niet: check dat eerst bij de VvE en de warmteleverancier.
+
+## Conclusie in één zin
+
+De prijs van een warmtepompinstallatie is pas te beoordelen als je de posten kent die eronder liggen — vraag daarom om specificatie, tel ontbrekende posten er zelf bij op, en zoek het subsidiebedrag voor het exacte typenummer op vóór je tekent.
 
 Verder lezen:
 - [Beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/)
@@ -268,44 +293,6 @@ Verder lezen:
 - [Warmtepomp vs cv-ketel 2026](/posts/warmtepomp-vs-cv-ketel-2026/)
 - [Hybride vs volledige warmtepomp 2026](/posts/hybride-vs-volledige-warmtepomp-2026/)
 - [Beste isolatie voor warmtepomp 2026](/posts/beste-isolatie-voor-warmtepomp-2026/)
-
-## Mark's praktijkervaring met installatiekosten
-
-In de afgelopen jaren heb ik 32 klanten begeleid bij warmtepomp-aanschaf, van offerte-vergelijking tot oplevering. De getoonde kosten in dit artikel zijn gebaseerd op concrete facturen — geen marketing-cijfers. Mijn eigen Daikin-installatie in Apeldoorn kostte €11.400 inclusief LT-radiator vervanging. Bij schoonzus in Utrecht €8.900 voor compactere setup. Het verschil zit in lengte koudemiddel-leiding (15 vs 4 meter) en aantal radiatoren te vervangen (5 vs 2). Wie offertes ontvangt onder €7.000 voor een full-electric installatie: wees voorzichtig — vaak ontbreekt LT-conversie.
-
-Mijn klant in Hilversum kreeg drie offertes: €9.800, €11.400 en €15.200. De duurste leek absurd, bleek de enige die plenum-isolatie van bestaande luchtkanalen meenam — kritisch voor airco-functionaliteit. De goedkoopste vergat de elektra-aanpassing in groepenkast (€620 extra). Alleen de middelste was écht compleet. Les: vraag altijd om gespecificeerde offerte, niet één lump-sum.
-
-## NL-specifiek: ISDE 2026, BTW en Bouwbesluit
-
-ISDE 2026: subsidie tussen €2.350 (kleine hybride 4 kW) en €3.750 (8 kW monoblock met SCOP>4). Aanvraag binnen 24 maanden na installatie via RVO-portaal. Slagingskans 96% bij gecertificeerde installateur, 78% bij DIY. Voorschot is mogelijk bij installateurs die meedoen aan voorfinancierings-programma. ISDE wordt direct van factuur afgetrokken bij ongeveer 40% van de installateurs.
-
-BTW van 21% komt op zowel apparaat als installatie. Voor zelfstandigen met thuiskantoor proportioneel terugvorderbaar. Bouwbesluit eist sinds 2024 dat warmtepompen <40 dB op erfgrens halen — controle gebeurt steekproefsgewijs door gemeente. Bij overschrijding: boete €450-€1.200 plus verplichting tot geluidsmaatregelen. Vraag altijd installateur om geluidsberekening vóór installatie.
-
-## Veelgemaakte fouten bij offerteopvraag
-
-1. **Lump-sum offerte accepteren.** Zonder specificatie weet je niet of LT-conversie, elektra-aanpassing en geluidsmaatregelen erbij zitten.
-2. **Goedkoopste kiezen zonder ISSO/Solatherm-certificering.** ISDE wordt afgewezen, verloren €2.500-€3.500 subsidie.
-3. **Meerwerk-clausules niet uitonderhandelen.** Standaard "meerwerk wordt achteraf gefactureerd" zonder bovengrens leidt tot 30-50% extra kosten.
-4. **Vergeten over compressor-locatie.** Buitenunit op zuid-gevel = oververhitting in zomer, lagere SCOP. Vraag noord/oost-locatie.
-5. **Stadsverwarmingsaanvraag niet annuleren.** Bij overstap naar warmtepomp blijft vaak vastrecht stadsverwarming doorlopen — €280/jaar verspild.
-
-## Wanneer NIET een warmtepomp installeren?
-
-Sla over als je woning RC<2,5 op dak en muur heeft — eerst isoleren is dan financieel slimmer (terugverdientijd 4-6 jaar) en pas daarna warmtepomp. Bij verhuisplannen <6 jaar: terugverdientijd niet realistisch, dan beter een hybride. In monumentale panden waar gevelmodificatie verboden is: alleen via dakdoorvoer of binnenunit-warmtepomp (Inventum, dubbel zo duur).
-
-Bij blokverwarming of warmtenet eigen warmtepomp installeren is technisch mogelijk maar contractueel vaak niet — check eerst met VvE en netbeheerder. Bij appartementen zonder eigen buitenruimte: praktisch onmogelijk binnen Bouwbesluit-eisen voor geluid.
-
-## Mini case-study: gezin in Almere
-
-Een gezin in Almere (rijwoning 2008, 110 m², RC dak 4,0 muur 3,5 vloer 4,5, 12.500 kWh warmtevraag) koos in mei 2026 een Atag Energion 6 kW na drie offertes. Goedkoopste €8.200 (verlies ISDE wegens niet-cert installateur), middelste €10.400 inclusief alles, duurste €13.600 met grondbron-warmtepomp. Koos middelste. ISDE €2.350 afgetrokken direct, netto investering €8.050. Verbruik na 12 maanden: 3.180 kWh, gas-besparing €2.260/jaar, stroomkosten €960. Netto besparing €1.300/jaar, terugverdientijd 6,2 jaar.
-
-## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
-
-Eerste maand: 1 dag installatie, leercurve thermostaat, eerste week onderkoeling door foute curve. Installateur 's avonds gebeld, gefixt op afstand via Atag-app.
-
-Na 6 maanden: 1.490 kWh verbruikt (winter), comfort consistent. Gas-aansluiting opgezegd, vastrecht-besparing €280/jaar extra. Wifi-app stabiel.
-
-Na 1 jaar: 3.180 kWh totaal, SCOP 3,52 gemeten (fabrieksopgave 3,5). Onderhoudsbeurt €160 in oktober. Geen onderdelen vervangen. Bij vergelijking met cv-ketel-buren €1.300 minder energiekosten — zichtbaar verschil. Lees voor merk-keuze [beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/).
 
 ---
 

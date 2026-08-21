@@ -1,9 +1,9 @@
 ---
 title: 'Beste isolatie voor warmtepomp 2026: vloer, spouw, dak of glas?'
 date: 2026-09-10 08:00:00+02:00
-lastmod: 2026-09-10 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
-description: Welke isolatie geeft de meeste winst voor je warmtepomp? Ik vergelijk vloerisolatie, spouwmuur, dakisolatie en HR++/triple glas op rendement, kosten en terugverdientijd.
+description: Welke isolatie geeft de meeste winst voor je warmtepomp? Vloerisolatie, spouwmuur, dakisolatie en HR++/triple glas vergeleken op rendement, kosten en terugverdientijd.
 categories:
 - isolatie
 tags:
@@ -26,35 +26,28 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1503594384566-461fe158e797&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is de beste isolatie voor een warmtepomp?'
-  a: 'Voor de meeste rijtjes- en tussenwoningen is dakisolatie het hoogste rendement (Rd 6,0+), gevolgd door spouwmuurisolatie (Rd 1,3+) en vloerisolatie (Rd 3,5+). HR++ of triple glas komt daarna. De volgorde verschilt per woning: laat altijd een warmteverliesberekening doen voordat je een warmtepomp koopt.'
+  a: 'Voor de meeste rijtjes- en tussenwoningen levert dakisolatie de grootste absolute besparing op, gevolgd door spouwmuurisolatie en vloerisolatie. HR++ of triple glas komt daarna. De volgorde verschilt per woning: laat een warmteverliesberekening doen voordat je een warmtepomp koopt, want die bepaalt ook het benodigde vermogen.'
 - q: 'Welke Rd-waarde heb ik nodig voor een warmtepomp?'
-  a: 'Voor een all-electric warmtepomp adviseer ik minimaal Rd 3,5 voor de vloer, Rd 4,5 voor de spouw (bij voorkeur na-isolatie naar 6,0), Rd 6,0 voor het dak en HR++ glas (U-waarde 1,1) of beter. Met deze waarden haal je een aanvoertemperatuur van 35-45 graden, wat de COP van je pomp boven de 4,0 brengt.'
+  a: 'Als richtwaarde voor een all-electric opstelling: Rd 3,5 of hoger voor de vloer, Rd 6,0 of hoger voor het dak, en HR++ glas met U-waarde 1,1 of beter. Voor een na-geïsoleerde spouw ligt de haalbare waarde rond Rd 1,3 tot 1,5 — hoger kan alleen met extra binnen- of buitengevelisolatie. Doel is een aanvoertemperatuur van 35 tot 45 graden.'
 - q: 'Moet ik eerst isoleren of de warmtepomp installeren?'
-  a: 'Eerst isoleren. Een warmtepomp op een slecht geisoleerd huis levert hoge stroomrekeningen op en een lage SCOP. Bij label D of slechter raad ik aan minimaal dak en spouw aan te pakken voordat je all-electric gaat. Bij hybride is de eis lager, maar isoleren blijft sneller terugverdiend dan welke installatie ook.'
+  a: 'Eerst isoleren. Een warmtepomp op een slecht geïsoleerd huis vraagt een hogere aanvoertemperatuur, haalt daardoor een lager seizoensrendement en moet bovendien zwaarder worden gedimensioneerd. Bij label D of slechter zijn dak en spouw de logische eerste stap voordat je all-electric gaat. Bij een hybride opstelling is de eis lager, maar isoleren blijft de rendabelste investering.'
 - q: 'Hoeveel kost isoleren voor een warmtepomp?'
-  a: 'Voor een gemiddeld rijtjeshuis kom je tussen 5.000 en 12.000 euro voor het volledige pakket: spouw (1.200-2.000), vloer (1.500-3.000), dak vanaf binnen (2.500-5.000), HR++ glas (200-350 per m2). Met ISDE-subsidie en gemeentelijke subsidies krijg je 25-40 procent terug.'
+  a: 'Voor een gemiddeld rijtjeshuis ligt het volledige pakket tussen 5.000 en 12.000 euro: spouw 1.500-3.200, vloer 1.500-3.300, dak vanaf binnen 3.000-5.500 en HR++ glas 200-350 euro per m2. Wat je daarvan terugkrijgt aan subsidie hangt af van de maatregel en het oppervlak; RVO publiceert de bedragen per m2.'
 - q: 'Krijg ik subsidie op isolatie in 2026?'
-  a: 'Ja. Via ISDE krijg je 30 procent terug op twee of meer isolatiemaatregelen, met een maximum van ongeveer 8 euro per m2 voor spouw en vloer en 30 euro per m2 voor dak en glas. Veel gemeentes geven daar bovenop een lokale subsidie of duurzaamheidslening. Aanvragen doe je achteraf bij RVO.'
+  a: 'Ja, via de ISDE. Het bedrag hangt af van de maatregel en het geïsoleerde oppervlak; RVO publiceert per isolatiemaatregel een bedrag per m2. Reken dus niet met een vast percentage, maar zoek de bedragen op voordat je opdracht geeft. De aanvraag doe je ná uitvoering, binnen twaalf maanden. Veel gemeenten hebben daarnaast een eigen regeling of duurzaamheidslening.'
 - q: 'Wat is rendabeler: spouwmuur of vloerisolatie?'
-  a: 'Spouwmuurisolatie heeft meestal de kortste terugverdientijd (3-5 jaar) doordat het goedkoop is en veel warmteverlies tegengaat. Vloerisolatie verdient zich in 5-8 jaar terug, maar verbetert wel het comfort van je vloerverwarming aanzienlijk. Voor een warmtepomp zijn beide eigenlijk verplicht voor optimaal rendement.'
-products:
-- name: ISDE-subsidie isolatie
-  url: https://go.duurzaamthuislab.nl/isde
-  price: '0'
+  a: 'Spouwmuurisolatie heeft meestal de kortste terugverdientijd, doordat het relatief goedkoop is en veel warmteverlies wegneemt. Vloerisolatie verdient zich langzamer terug, maar verbetert het comfort van vloerverwarming aanzienlijk en verlaagt de benodigde aanvoertemperatuur. Voor een all-electric warmtepomp zijn beide in de praktijk nodig.'
 schema_type: Article
 ---
-Toen ik mijn warmtepomp liet installeren had ik mezelf voorgenomen: eerst alles isoleren, dan pas overstappen. Het werd het beste advies dat ik mezelf ooit heb gegeven. Twee buurmannen die wel direct overstapten zonder eerst de spouw te laten vullen, hebben nu een SCOP onder de 3,2 en stookkosten van 1.800 euro per jaar. Mijn pomp draait op 4,4 en kost me 950 euro. Het verschil zit niet in het merk — het zit in de isolatieschil.
+Een warmtepomp op een slecht geïsoleerd huis is het duurste wat je met een warmtepomp kunt doen. Niet omdat het apparaat dan niet werkt, maar omdat de aanvoertemperatuur omhoog moet, het seizoensrendement daardoor keldert en het toestel bovendien zwaarder — en dus duurder — moet worden gedimensioneerd. Het verschil tussen een geslaagde en een teleurstellende overstap zit zelden in het merk en bijna altijd in de schil.
 
-*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
+*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken en partijen geen affiliate- of commissierelatie (stand augustus 2026).*
 
-In dit artikel vergelijk ik de vier hoofdvormen van isolatie — vloer, spouw, dak en glas — op kosten, rendement en de impact die ze hebben op de prestaties van je warmtepomp. Ik leg ook uit in welke volgorde je het beste kunt aanpakken, en welke fouten ik bij vrienden en buren steeds weer zie terugkomen.
+Hieronder zetten wij de vier hoofdvormen van isolatie — vloer, spouw, dak en glas — naast elkaar op kosten, rendement en de invloed die ze hebben op de prestaties van een warmtepomp. Daarna volgt de volgorde waarin je ze het beste aanpakt, en de fouten die in deze combinatie het vaakst terugkomen.
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
-
-
-> **Kort antwoord:** Welke isolatie geeft de meeste winst voor je warmtepomp? Ik vergelijk vloerisolatie, spouwmuur, dakisolatie en HR++/triple glas op rendement, kosten en terugverdientijd.
+> **Kort antwoord:** de winst zit in het pakket, niet in één maatregel. Voor de meeste Nederlandse rijtjes- en tussenwoningen is de combinatie spouw, dak en vloer de juiste basis; glas komt daarna en triple glas is alleen in specifieke situaties rendabel.
 >
-> Voor de meeste rijtjes- en tussenwoningen is dakisolatie het hoogste rendement (Rd 6,0+), gevolgd door spouwmuurisolatie (Rd 1,3+) en vloerisolatie (Rd 3,5+). HR++ of triple glas komt daarna. De volgorde verschilt per woning: laat altijd een warmteverliesberekening doen voordat je een warmtepomp koopt.
+> Begin met kierdichting en spouw, want die verdienen zich het snelst terug, en pak daarna het dak voor de grootste absolute besparing. Laat vóór alles een warmteverliesberekening maken: die bepaalt niet alleen welke maatregel het meest oplevert, maar ook hoe zwaar de warmtepomp daarna nog hoeft te zijn.
 
 ## Waarom isolatie cruciaal is voor een warmtepomp
 
@@ -79,7 +72,7 @@ De spouwmuur is bijna altijd de eerste kandidaat: laagste investering, kortste t
 
 ## Spouwmuurisolatie: snelste winst
 
-In 90 procent van de gevallen waarin ik mensen adviseer is spouwmuurisolatie de eerste stap. Een gemiddeld rijtjeshuis heeft 60-80 m2 buitengevel die je kunt vullen. De kosten liggen op 25-40 euro per m2 inclusief, dus 1.500-3.200 euro voor een hele woning. De besparing is meestal 250-400 euro per jaar op gas, of na overstap naar warmtepomp 200-300 euro op stroom.
+Bij een woning met een ongeïsoleerde spouw is spouwmuurisolatie vrijwel altijd de eerste stap. Een gemiddeld rijtjeshuis heeft 60-80 m2 buitengevel die je kunt vullen. De kosten liggen op 25-40 euro per m2 inclusief, dus 1.500-3.200 euro voor een hele woning. De besparing is meestal 250-400 euro per jaar op gas, of na overstap naar warmtepomp 200-300 euro op stroom.
 
 Belangrijke aandachtspunten:
 
@@ -87,7 +80,7 @@ Belangrijke aandachtspunten:
 - **Inblaaspareltjes (EPS) of glaswolvlokken** zijn de gangbare materialen. EPS is iets duurder maar vochtresistenter.
 - **Laat een endoscopisch onderzoek doen** voor de start. Een goede installateur boort gaten op meerdere plekken om te checken of de spouw open is.
 
-Voor diepere uitleg en voorbeelden, zie mijn artikel [Spouwmuur isolatie kosten 2026](/posts/spouwmuur-isolatie-kosten-2026/).
+Voor diepere uitleg en voorbeelden, zie [Spouwmuur isolatie kosten 2026](/posts/spouwmuur-isolatie-kosten-2026/).
 
 ## Vloerisolatie: comfort en COP
 
@@ -113,7 +106,7 @@ Twee routes:
 
 Voor een schuin dak van 60 m2 reken je dus op 3.000-5.500 euro (binnen) of 9.000-13.000 euro (buiten). De besparing is 350-600 euro per jaar — bij een goed geisoleerd dak in combinatie met warmtepomp.
 
-Zie ook mijn vergelijking [dakisolatie binnenuit vs buitenuit 2026](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/).
+Zie ook [dakisolatie binnenuit vs buitenuit 2026](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/).
 
 ## HR++ vs triple glas
 
@@ -124,7 +117,7 @@ Glas is de duurste isolatie per m2, maar in oude woningen met enkel- of dubbelgl
 - **HR++ glas**: U-waarde 1,1
 - **Triple glas**: U-waarde 0,7
 
-De stap van enkel naar HR++ levert per raam circa 100-150 euro per jaar op. De stap van HR++ naar triple is veel kleiner: 30-50 euro per jaar per raam. Daarom raad ik triple glas alleen aan bij nieuwbouw of bij volledige all-electric-renovaties met heel lage aanvoertemperatuur (35 graden).
+De stap van enkel naar HR++ levert per raam circa 100-150 euro per jaar op. De stap van HR++ naar triple is veel kleiner: 30-50 euro per jaar per raam. Triple glas is daarom vooral rendabel bij nieuwbouw of bij volledige all-electric-renovaties met heel lage aanvoertemperatuur (35 graden).
 
 Voor een gedetailleerde vergelijking zie [Triple glas vs HR++ glas 2026](/posts/triple-glas-vs-hr-plus-plus-glas-2026/).
 
@@ -143,7 +136,7 @@ Voor de basis aan kierdichting zie [kierdichting glaswol tochtstrip 2026](/posts
 
 ## Hoeveel kost het totaal?
 
-Voor een gemiddeld rijtjeshuis (label D, geen isolatie) kom ik op:
+Voor een gemiddeld rijtjeshuis (label D, geen isolatie) komt een compleet pakket ruwweg uit op:
 
 - Spouw: 1.800
 - Dak (binnen): 4.000
@@ -152,11 +145,11 @@ Voor een gemiddeld rijtjeshuis (label D, geen isolatie) kom ik op:
 - Kierdichting: 150
 - **Totaal: 9.650 euro**
 
-Met ISDE-subsidie (30 procent terug op twee of meer maatregelen, max grensbedragen) en eventuele gemeentesubsidie kom je netto op 6.500-7.500 euro. De combinatie haalt je woning van label D naar label A of B, waardoor een warmtepomp daadwerkelijk efficient werkt.
+Wat daar via de ISDE van terugkomt hangt af van de maatregelen en de geïsoleerde oppervlakken: RVO publiceert per isolatiemaatregel een bedrag per m2, niet een percentage van de factuur. Zoek die bedragen op voordat je opdracht geeft en reken ze door met jouw eigen oppervlakken — een raming op basis van "ongeveer een derde terug" loopt in beide richtingen makkelijk honderden euro's mis. Veel gemeenten hebben daarnaast een eigen subsidie of duurzaamheidslening.
 
-Bekijk je subsidiemogelijkheden via <a href="https://go.duurzaamthuislab.nl/isde" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">ISDE-subsidie checken</a> of lees [isolatie subsidie nederland 2026](/posts/isolatie-subsidie-nederland-2026/).
+De actuele bedragen per maatregel staan op [rvo.nl](https://www.rvo.nl/subsidies-financiering/isde). Lees ook [isolatie subsidie nederland 2026](/posts/isolatie-subsidie-nederland-2026/).
 
-## Mijn advies per woningtype
+## Wat past bij welk woningtype
 
 **Rijtjeshuis (1965-1985, label D-E)**: spouw + dak + vloer = 6.000-8.000 euro netto. Daarna pas warmtepomp aanschaffen.
 
@@ -168,7 +161,7 @@ Bekijk je subsidiemogelijkheden via <a href="https://go.duurzaamthuislab.nl/isde
 
 ## Veelgemaakte fouten in de praktijk
 
-In mijn werk zie ik steeds dezelfde missers terugkomen. Hier de top vijf:
+In deze combinatie komen steeds dezelfde missers terug. Hier de vijf belangrijkste:
 
 **1. Eerst warmtepomp, dan isoleren ("dat doen we later wel").**
 Klinkt logisch want subsidie en gas-verbod-druk drijven mensen tot snelheid. Maar je betaalt twee keer: eerst voor een te grote warmtepomp die je later toch had kunnen verkleinen, en daarna voor isolatie. Bovendien werkt de pomp jaren onder zijn potentieel.
@@ -180,7 +173,7 @@ Nieuwe ramen voelen luxe. Maar glas is 8-12 procent van het warmteverlies van ee
 Vochtproblemen, ongeisoleerde delen of geblokkeerde ventilatie kunnen een spouwvulling veranderen in een schimmelnest. Een goede installateur boort altijd inspectiegaten, doet vochtmeting en checkt op koudebruggen.
 
 **4. Vloerisolatie overslaan omdat de kruipruimte "lastig" is.**
-Een ondernemer in mijn klantenkring koos voor "alleen dak en spouw" omdat de kruipruimte 40 cm hoog was. Resultaat: de vloer voelt nog steeds koud, de warmtepomp moet harder werken, en hij gebruikt 1.500 kWh meer dan ik had voorspeld. Bodemisolatie met EPS-parels was wel mogelijk geweest — kleine extra moeite.
+Een lage kruipruimte is de meest genoemde reden om vloerisolatie over te slaan. Dat is zelden nodig: waar PIR-platen niet passen, is bodemisolatie met EPS-parels of een afgedekte bodemfolie vaak wél uitvoerbaar. Sla je de vloer over, dan blijft de vloer koud aanvoelen en moet de warmtepomp op een hogere aanvoertemperatuur draaien — precies wat je met de rest van het pakket probeerde te voorkomen.
 
 **5. Ventilatie vergeten.**
 Hoe beter je isoleert, hoe belangrijker een goede ventilatie. Een hermetisch dichtgebouwd huis zonder WTW-systeem krijgt vochtproblemen. Reken bij volledige isolatie altijd op een mechanische ventilatie of WTW-installatie. Zie [ventilatie warmteterugwinning wtw 2026](/posts/ventilatie-warmteterugwinning-wtw-2026/).
@@ -204,7 +197,7 @@ In die volgorde voorkom je dat je geld stopt in maatregelen die voor jouw woning
 
 De vraag "wat is de beste isolatie voor een warmtepomp?" heeft geen enkel antwoord. Het is een pakket: spouw + dak + vloer is voor 80 procent van de Nederlandse woningen de juiste combinatie. Glas komt erna, en triple glas is alleen rendabel in specifieke situaties.
 
-Mijn dringende advies: laat een warmteverliesberekening maken voordat je iets bestelt. Een goede installateur of energieadviseur rekent uit hoeveel kW vermogen jouw woning na isolatie nodig heeft, en welke maatregelen het meeste opleveren. Reken op 200-400 euro voor een professioneel rapport — dat verdient zich tienvoudig terug op de juiste warmtepompkeuze.
+Ons dringende advies: laat een warmteverliesberekening maken voordat je iets bestelt. Een goede installateur of energieadviseur rekent uit hoeveel kW vermogen jouw woning na isolatie nodig heeft, en welke maatregelen het meeste opleveren. Reken op 200-400 euro voor een professioneel rapport — dat verdient zich tienvoudig terug op de juiste warmtepompkeuze.
 
 Begin klein, begin slim, en bouw je isolatieschil stap voor stap op. De warmtepomp komt daarna vanzelf goed.
 
@@ -218,31 +211,22 @@ Eerlijk perspectief — niet elke maatregel is altijd rendabel:
 - **Gevelisolatie aan buitenkant zonder gevolgen voor uiterlijk.** Bij monumentale panden of beschermde stadsgezicht-woningen mag je vaak geen buitengevel-isolatie aanbrengen. Binnenisolatie is wel mogelijk maar veel duurder en geeft minder rendement.
 - **Verhuisplan binnen 5 jaar zonder herfinanciering.** Je verdient isolatie zelden 100 procent terug bij verkoop. WOZ-verhoging kan 60-80 procent van de investering compenseren, maar de rest verlies je.
 
-## Mini case-study: rijtjeshuis Zwolle
+## Modelberekening: rijtjeshuis uit 1972, label E
 
-Klant V. (43, projectmanager, rijtjeshuis 1972, label E voor renovatie, 105 m2 BVO). Plan: alles isoleren voordat warmtepomp werd geplaatst najaar 2025.
+Om te laten zien hoe de posten zich tot elkaar verhouden, hieronder een doorrekening voor het profiel dat in dit segment het vaakst voorkomt. Dit is een **modelberekening met aannames**, geen waargenomen project: rijtjeshuis uit 1972, circa 105 m² gebruiksoppervlak, label E, spouw ongeïsoleerd, dak ongeïsoleerd, vier ramen nog met oud dubbelglas.
 
-Uitvoering in fases gedurende voorjaar 2025:
+| Maatregel | Oppervlak | Bruto kosten (aanname) |
+|---|---|---|
+| Spouwmuur EPS-parels | 72 m² | €2.160 |
+| Dakisolatie binnen, PIR | 52 m² | €4.420 |
+| Vloerisolatie EPS-parels | 54 m² | €2.380 |
+| HR++ glas, vier ramen | — | €1.640 |
+| Kierdichting | hele woning | €180 |
+| **Totaal bruto** | | **€10.780** |
 
-| Maatregel | Bruto kosten | ISDE-subsidie | Netto |
-|---|---|---|---|
-| Spouwmuur EPS-parels (72 m2) | €2.160 | -€576 | €1.584 |
-| Dakisolatie binnen PIR (52 m2) | €4.420 | -€1.560 | €2.860 |
-| Vloerisolatie EPS-parels (54 m2) | €2.380 | -€432 | €1.948 |
-| HR++ glas vervangen 4 ramen | €1.640 | 0 (te weinig oppervlak) | €1.640 |
-| Kierdichting | €180 | 0 | €180 |
-| **Totaal** | **€10.780** | **-€2.568** | **€8.212** |
+Wat daar via de ISDE van terugkomt hangt af van het bedrag per m² dat RVO voor elke maatregel hanteert; vul die bedragen in met je eigen oppervlakken. Let er daarbij op dat er per maatregel een minimum geïsoleerd oppervlak geldt — bij vier ramen glas haal je dat vaak niet.
 
-Resultaat:
-- Energielabel van E naar A
-- Warmtevraag teruggebracht van 11.500 kWh naar 6.200 kWh per jaar
-- Daikin Altherma 6 kW (in plaats van 8 kW) — installatie €1.200 goedkoper door kleinere unit
-- SCOP gemeten over winter 2025-2026: 4,3
-- Stookkosten warmtepomp: €860 per jaar
-- Gasrekening voor: €2.380. Besparing: €1.520 per jaar
-- Terugverdientijd isolatie + warmtepomp samen: 8,2 jaar
-
-V. zei na een winter: "Het comfortverschil is groter dan de besparing. Geen tochtklachten meer, vloer is overal warm."
+Het effect op de warmtevraag is in dit profiel het punt dat er echt toe doet. Gaat de warmtevraag van ruwweg 11.500 kWh naar circa 6.200 kWh per jaar, dan verschuift de benodigde warmtepomp van 8 naar 6 kW. Dat scheelt niet alleen op het toestel, maar voorkomt ook overdimensionering — en daarmee het pendelen dat het seizoensrendement drukt. Dat tweede effect is de reden waarom de volgorde "eerst isoleren, dan dimensioneren" zoveel oplevert.
 
 ## Veelgemaakte fouten bij isolatie en warmtepomp-combinatie
 
@@ -250,19 +234,19 @@ V. zei na een winter: "Het comfortverschil is groter dan de besparing. Geen toch
 
 **2. Isoleren zonder ventilatie aan te passen.** Een goed geisoleerde woning zonder mechanische ventilatie of WTW krijgt vochtproblemen, schimmel en CO2-opbouw. Reken bij volledige isolatie altijd op €1.800-€4.500 voor WTW-installatie.
 
-**3. ISDE-subsidie misverstaan.** ISDE geldt alleen voor twee of meer maatregelen tegelijk en heeft maximumbedragen per m2. Bij grote oppervlakken loop je tegen het plafond aan. Vraag voor begin de exacte bedragen op via RVO.nl — niet uitgaan van "30 procent terug".
+**3. ISDE-subsidie misverstaan.** De ISDE keert bij isolatie een bedrag per m² per maatregel uit, met een minimum geïsoleerd oppervlak en een maximum. Reken dus niet met een percentage van je factuur, en houd er rekening mee dat je een kleine maatregel (bijvoorbeeld een paar ramen) mogelijk helemaal niet gesubsidieerd krijgt. Zoek de bedragen op via rvo.nl vóór je opdracht geeft, en dien de aanvraag ná uitvoering in, binnen twaalf maanden.
 
 **4. Gevel-isolatie aanbrengen zonder dampopen materiaal te kiezen.** Bij naisolatie van massieve gevels (jaren 30 woningen zonder spouw) moet het isolatiemateriaal dampopen zijn. Anders krijg je condensatie in de muur en uiteindelijk schimmel of houtrot. Houtvezel of houten frame met cellulose werken hier beter dan PIR.
 
 **5. Vergeten dat warmtepomp koeling kan leveren.** Een goed geisoleerde woning is in zomer ook koeler. Een lucht-water warmtepomp kan in passieve koelmodus 2-4 graden onder de buitentemperatuur zakken — als je vloerverwarming dat aankan. Vraag bij installatie of "passive cooling" wordt geactiveerd.
 
-## Bouwbesluit en RVO-overwegingen voor 2026-2030
+## Regelgeving: waar je wél op moet letten
 
-Vanaf 1 januari 2026 mag bij verbouwingen aan de gevel niet meer onder Rd 4,5 worden geisoleerd. Bij dakisolatie geldt minimaal Rd 6,3, bij vloer Rd 3,7. Deze eisen gelden alleen bij vergunningplichtige verbouwing — voor "regulier onderhoud" zonder vergunning niet.
+Het Bouwbesluit is per 1 januari 2024 opgegaan in het Besluit bouwwerken leefomgeving (Bbl). Voor verbouwing stelt het Bbl minimum-isolatiewaarden aan de constructiedelen die je aanpakt; die zijn lager dan de nieuwbouweisen. De ISDE hanteert daarnaast eigen minimum Rd-waarden per maatregel: haal je die niet, dan krijg je geen subsidie, ook al voldoe je bouwtechnisch wel. Dat zijn twee verschillende sets eisen en ze lopen niet gelijk.
 
-Voor nieuwbouw gelden de BENG-eisen (Bijna Energieneutrale Gebouwen): zeer hoge isolatiewaarden (Rd 4,7 vloer, Rd 6,3 gevel, Rd 6,3 dak) en triple glas verplicht. Een warmtepomp is in nieuwbouw na 2024 vrijwel altijd verplicht omdat gasaansluiting niet meer wordt aangelegd.
+Praktisch betekent dat: laat de aannemer of isolatiebedrijf schriftelijk bevestigen welke Rd-waarde na uitvoering wordt gehaald, en controleer die tegen de ISDE-voorwaarde voor die maatregel op rvo.nl. Voor nieuwbouw gelden de strengere BENG-eisen, en omdat er sinds 2018 in beginsel geen nieuwe gasaansluitingen meer worden aangelegd, is een warmtepomp of warmtenet daar de standaard.
 
-ISDE-subsidie is gegarandeerd tot eind 2027. Vanaf 2028 worden de bedragen waarschijnlijk lager omdat de regering de "subsidiebehoefte" geleidelijk afbouwt naarmate warmtepompen mainstream worden. Mijn advies: als je toch al van plan bent te isoleren, doe het in 2026 of 2027 voor maximale subsidie.
+Over de subsidiehoogte na 2026 doen wij geen voorspelling. Bedragen en voorwaarden worden periodiek bijgesteld en die bijstellingen zijn niet vooruit te kennen; wachten of juist haasten op grond van een verwachte wijziging is daarom geen goede grond voor een investeringsbeslissing. Wat wél telt: vraag de subsidie ná uitvoering aan, binnen twaalf maanden.
 
 ## Drie aanvullende vragen
 

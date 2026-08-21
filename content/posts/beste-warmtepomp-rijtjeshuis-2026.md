@@ -1,7 +1,7 @@
 ---
 title: 'Beste warmtepomp voor een rijtjeshuis 2026'
 date: 2026-09-23 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
 description: 'Welke warmtepomp past in een Nederlands rijtjeshuis? Vergelijking Quatt, Atag, Daikin, Mitsubishi en Vaillant — geluid, COP, kosten, ISDE 2026.'
 categories:
@@ -26,17 +26,17 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1558618666-fcd25c85cd64&w=1200&output=webp&q=70
 faq:
 - q: "Welke warmtepomp is het stilst voor een rijtjeshuis?"
-  a: "De Quatt Duo en de Daikin Altherma 3 M scoren beide rond 35 dB(A) op 3 meter afstand bij normale belasting. De Atag Energion Pro zit op 38 dB(A). Voor een rijtjeshuis waar de buitenunit dicht bij de erfgrens staat is dat een belangrijk verschil — de Nederlandse norm is 40 dB op de erfgrens overdag en 30 dB 's nachts."
+  a: "Dat is niet uit de reclamewaarden af te leiden: fabrikanten meten op verschillende afstanden en belastingen, en sommige geven geluidsdruk terwijl andere geluidsvermogen (Lw) opgeven. Vraag het geluidsvermogen uit het productblad en laat de installateur daarmee het niveau op de perceelgrens berekenen. De norm is 45 dB(A) overdag en 40 dB(A) in de avond en nacht, gemeten op de perceelgrens."
 - q: "Wat kost een warmtepomp voor een rijtjeshuis in 2026 inclusief installatie?"
-  a: "Een hybride warmtepomp zoals de Quatt All-In kost circa €5.500 inclusief installatie. Een volledige lucht-water warmtepomp (Quatt Duo, Atag Energion, Daikin Altherma 3) ligt tussen €8.500 en €12.000 inclusief installatie. Mitsubishi Ecodan en Vaillant aroTHERM zitten rond €10.000-€11.500."
+  a: "Een hybride opstelling ligt doorgaans tussen €7.500 en €12.000 inclusief installatie, een volledige lucht-water warmtepomp tussen €13.000 en €22.000. De spreiding komt vooral door elektra-aanpassingen, leidinglengte en het al dan niet vervangen van radiatoren. Op toestel en installatie geldt 21% btw."
 - q: "Hoeveel ISDE-subsidie is er in 2026?"
-  a: "Voor een hybride warmtepomp is de ISDE-subsidie in 2026 €2.400. Voor een volledige lucht-water warmtepomp loopt de subsidie op van €3.000 tot €4.400, afhankelijk van vermogen en SCOP. Je vraagt de subsidie aan ná installatie via mijn.rvo.nl. De installateur moet RVO-erkend zijn."
+  a: "Dat hangt af van het specifieke apparaat: RVO publiceert het bedrag per typenummer op de ISDE-apparatenlijst. Het startbedrag voor een warmtepomp is in 2026 €1.025, met daarbovenop €200 labelbonus. Je vraagt de subsidie aan ná de installatie, binnen 24 maanden, via mijn.rvo.nl. De installatie moet door een bouwinstallatiebedrijf zijn uitgevoerd."
 - q: "Past een warmtepomp wel in een klein rijtjeshuis?"
   a: "Ja, maar je moet rekening houden met drie dingen: plek voor de buitenunit (minimaal 1 meter vrij rondom), ruimte binnen voor de hydrobox (kast van 60×60×180 cm) en geluidsoverlast voor de buren. In een tussenwoning is een hybride vaak verstandiger dan een full electric omdat de buitenunit kleiner is."
 - q: "Wat is een goede COP voor een rijtjeshuis?"
-  a: "Voor een rijtjeshuis met goede isolatie (label B of beter) zoek je een SCOP van minimaal 4,0. De Quatt Duo haalt 4,3, Daikin Altherma 3 M zit op 4,5 en Atag Energion Pro op 4,1. Bij slechtere isolatie zakt de praktijk-COP altijd — reken dan op 3,0-3,5 in plaats van de fabriekswaarde."
+  a: "Voor een rijtjeshuis met goede isolatie (label B of beter) zoek je een opgegeven SCOP van minimaal 4,0 volgens NEN-EN 14825. Vergelijk die waarden alleen bij dezelfde aanvoertemperatuur, want fabrikanten kiezen die zelf. Bij slechtere isolatie moet de aanvoertemperatuur omhoog en zakt de praktijkwaarde — reken dan eerder op 3,0 tot 3,5."
 - q: "Mag een buurman bezwaar maken tegen een warmtepomp?"
-  a: "Ja. Per 1 april 2021 geldt een wettelijke geluidsnorm: maximaal 40 dB(A) op de erfgrens overdag en 30 dB(A) 's nachts. Als jouw buitenunit die norm overschrijdt kan de buurman een handhavingsverzoek bij de gemeente indienen. Daarom is plaatsing en model-keuze in een rijtjeshuis cruciaal."
+  a: "Ja. Er geldt een wettelijke geluidsnorm van 45 dB(A) overdag en 40 dB(A) in de avond en nacht op de perceelgrens; die staat sinds 1 januari 2024 in het Bbl en gold daarvoor, sinds 1 april 2021, in het Bouwbesluit. Overschrijdt jouw buitenunit die waarde, dan kan een buur een handhavingsverzoek bij de gemeente indienen."
 - q: 'Is een warmtepomp in een tussenwoning wel rendabel?'
   a: 'Ja, mits je realistische verwachtingen hebt. Hybride bespaart €600-€900/jaar op gas, terugverdientijd 4-7 jaar na ISDE. Full electric bespaart €900-€1.400/jaar maar kost meer aanschaf, terugverdientijd 7-10 jaar.'
 - q: 'Is een buffervat nodig?'
@@ -48,31 +48,30 @@ faq:
 - q: 'Wat is het verschil tussen hybride en full electric?'
   a: 'Hybride: warmtepomp doet 70-90% van de verwarming, cv-ketel springt in op koude dagen of bij hoge piekvraag. Full electric: warmtepomp doet alles, geen gas meer nodig. Hybride is goedkoper, simpeler, geschikt voor slechter geïsoleerde huizen.'
 products:
-- name: Quatt All-In hybride warmtepomp
+- name: Quatt warmtepomp
   url: https://go.duurzaamthuislab.nl/quatt
-  price: '5500'
 - name: ANWB Energie (dynamisch contract)
   url: https://go.duurzaamthuislab.nl/anwb-energie
-  price: '6'
 - name: Tibber (slim laden warmtepomp)
   url: https://go.duurzaamthuislab.nl/tibber
-  price: '6'
 schema_type: Article
-last_updated: '2026-09-23'
+last_updated: '2026-08-21'
 category: warmtepompen
 ---
 
-"Ik hoor de warmtepomp van de buren 's avonds in mijn slaapkamer." Dat is bij rijtjeshuizen de meest gehoorde klacht, en het is precies de reden waarom de merkkeuze hier anders uitpakt dan bij een vrijstaande woning. In een tussenwoning staat de buitenunit onvermijdelijk dicht op de erfgrens, en dan weegt het opgegeven geluidsniveau zwaarder dan de SCOP of de prijs.
+Geluidsoverlast van de buitenunit van de buren is bij rijtjeshuizen de klacht die het vaakst bij gemeenten terechtkomt, en het is precies de reden waarom de merkkeuze hier anders uitpakt dan bij een vrijstaande woning. In een tussenwoning staat de buitenunit onvermijdelijk dicht op de erfgrens, en dan weegt het opgegeven geluidsniveau zwaarder dan de SCOP of de prijs.
 
 Het tweede punt dat de keuze bepaalt: bij een label C-woning met bestaande radiatoren is een hybride opstelling doorgaans verstandiger dan full electric, omdat full electric daar extra maatregelen vergt. Hieronder zetten wij de vijf relevante modellen naast elkaar op geluid, SCOP, prijs en ISDE-bedrag.
 
-We zijn die week samen het hele rijtje langs gegaan. Buitenunit-plek opgemeten (3,80 meter beschikbaar), tuin geïnspecteerd, isolatielabel doorgerekend, en uiteindelijk de geluidsfiches van vijf merken naast elkaar gelegd. Het werd geen Daikin. Wat het wel werd, en waarom, staat hieronder — net als de bredere les voor iedereen die in een rijtjeshuis een warmtepomp overweegt.
+Hieronder lopen wij de vijf merken langs die in dit woningtype het vaakst op offertes staan, en daarna de vier punten die de keuze in een rijtje werkelijk bepalen: geluid op de perceelgrens, afmeting van de buitenunit, plek voor de hydrobox en de vraag of je bestaande radiatoren kunnen blijven zitten.
 
-*Disclosure: wij hebben geen affiliate- of commissierelatie met Quatt, ANWB Energie of Tibber (stand augustus 2026); de links naar deze aanbieders zijn gewone verwijzingen. Onze beoordeling is gebaseerd op fabrieksspecificaties, de ISDE-apparatenlijst van RVO, het Bouwbesluit en geverifieerde gebruikersreviews.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Quatt, ANWB Energie of Tibber (stand augustus 2026); de links naar deze aanbieders zijn gewone verwijzingen. Onze beoordeling is gebaseerd op fabrieksspecificaties, de ISDE-apparatenlijst van RVO en het Besluit bouwwerken leefomgeving. Wij meten zelf niet.*
 
 ---
 
-> **Kort antwoord:** Voor de meeste Nederlandse rijtjeshuizen is de **Quatt All-In hybride (€5.500 incl)** in 2026 de slimste keus — laag geluid (34 dB), monteert klein, ISDE €2.400. Voor full electric: **Quatt Duo (€11.500)** of **Atag Energion (€8.500)** voor wie meer service wil. **Daikin Altherma 3** is technisch top maar duurder. Vermijd zware Mitsubishi Ecodan-units in tussenwoningen — te luid op de erfgrens.
+> **Kort antwoord:** in een rijtjeshuis is geluid op de perceelgrens meestal de bindende beperking, niet het rendement. Kies een compacte unit met een laag geluidsvermogen en laat de installateur vóór ondertekening berekenen wat die unit op de erfgrens doet — de norm is 45 dB(A) overdag en 40 dB(A) 's avonds en 's nachts.
+>
+> Bij label C of slechter met bestaande radiatoren is een hybride opstelling doorgaans de verstandigste eerste stap: lagere investering, kleinere buitenunit, en je houdt de cv-ketel als achtervang. Volledig elektrisch wordt interessant zodra de schil op label B of beter zit.
 
 ## Waarom een warmtepomp in een rijtjeshuis lastig is
 
@@ -88,158 +87,125 @@ Daarbovenop komt de isolatie-vraag. Veel rijtjeshuizen uit de jaren '70-'90 hebb
 
 Wil je meer achtergrond over de merkkeuze in het algemeen? Lees dan onze bredere [vergelijking van de beste warmtepomp-merken](/posts/beste-warmtepomp-merk-2026/).
 
-## De 35 dB-regel: waarom geluid alles bepaalt in een rijtjeshuis
+## Geluid: de norm die de keuze in een rijtje bepaalt
 
-Sinds 1 april 2021 geldt in Nederland de wettelijke geluidsnorm voor warmtepompen: maximaal 40 dB(A) op de erfgrens overdag, 30 dB(A) 's nachts. Dat klinkt soepel, maar de praktijk is anders.
+De wettelijke grenswaarde voor een buitenunit bij een woning is 45 dB(A) overdag en 40 dB(A) in de avond en nacht, gemeten op de perceelgrens. Die norm staat sinds 1 januari 2024 in het Besluit bouwwerken leefomgeving (Bbl) en gold daarvoor, sinds 1 april 2021, in het Bouwbesluit. Er is geen wettelijke minimumafstand tot de erfgrens — alleen het niveau óp die grens telt.
 
-Fabrikanten geven hun geluidswaarde meestal op bij 3 meter afstand, op een neutrale belasting, in een open opstelling. In een rijtjeshuis tegen een muur of in een hoek kaatst het geluid en stijgt het effectieve niveau met 3-6 dB. Een unit die op het datasheet 38 dB(A) doet, kan op de erfgrens 44 dB(A) meten.
+Het lastige is dat je die waarde niet uit een reclamefolder kunt aflezen. Fabrikanten publiceren twee verschillende grootheden door elkaar: geluidsdruk (in dB(A) op 1, 3 of 4 meter, soms in stiltemodus) en geluidsvermogen (dB(A) Lw, een merkonafhankelijke eigenschap van de unit). Alleen die tweede waarde is bruikbaar als rekenbasis, en alleen die staat in elk officieel productblad.
 
-**Concreet:**
-- Quatt Duo: 34 dB(A) @ 3m → praktisch 37-40 dB op erfgrens
-- Daikin Altherma 3 M: 35 dB(A) @ 3m → praktisch 38-41 dB op erfgrens
-- Atag Energion Pro: 38 dB(A) @ 3m → praktisch 41-44 dB op erfgrens
-- Mitsubishi Ecodan PUZ: 42 dB(A) @ 3m → praktisch 45-48 dB op erfgrens
-- Vaillant aroTHERM plus: 39 dB(A) @ 3m → praktisch 42-45 dB op erfgrens
+Twee dingen die het niveau op de grens omhoog duwen ten opzichte van de folderwaarde:
 
-De Mitsubishi en Vaillant lopen in veel rijtjeshuizen dus tegen de wettelijke norm aan. Dat is geen theoretisch risico: sinds april 2021 stelt het Bouwbesluit een grenswaarde van 40 dB(A) op de perceelgrens bij een naburige woning in de nachtperiode, en gemeenten handhaven daarop na een klacht van een buur.
+- **Reflectie.** Een unit die tegen een gevel of in een hoek tussen twee muren staat, straalt zijn geluid niet vrij uit. Dat scheelt in de praktijk enkele decibellen ten opzichte van een vrije opstelling.
+- **Belasting.** Fabrieksopgaven gelden bij een gedefinieerde deellast. Op een vriesdag draait de ventilator harder, en dat is precies het moment waarop een buur er last van heeft.
 
-**Onze vuistregel**: kies in een tussenwoning een unit die volgens het datasheet 36 dB(A) of lager doet op 3 meter. Met een geluidsdempende sokkel en de juiste plaatsing blijf je dan binnen de norm. Laat de installateur de geluidsberekening op de perceelgrens vóór ondertekening aanleveren — dat is het document waarmee je bij een klacht van een buur staat of valt.
+**Onze vuistregel**: vraag het geluidsvermogen in dB(A) Lw uit het productblad op, laat de installateur daarmee een berekening maken op het punt op de perceelgrens dat het dichtst bij de unit ligt, en laat die berekening in de offerte opnemen. Dat document is waar je op terugvalt als een buur later klaagt. Ligt de uitkomst dicht tegen de norm, reken dan meteen een geluidsdempende sokkel of omkasting mee.
 
 ## Quatt review: de beste keus voor de meeste rijtjeshuizen
 
-Quatt is een Nederlandse fabrikant uit Amsterdam die sinds 2021 actief is. Hun model is anders dan de concurrentie: vast all-in tarief, eigen installateurs in dienst, simpele app. Voor rijtjeshuizen heeft Quatt twee relevante producten.
+Quatt is een Nederlandse aanbieder die zowel het toestel levert als zelf installeert en de service doet. Dat is de belangrijkste reden waarom het merk in dit woningtype zo vaak op de shortlist staat: je hebt één aanspreekpunt, en de installatie verloopt volgens een vast protocol in plaats van per installateur te verschillen.
 
-**Quatt All-In hybride: €5.500 incl installatie**
+Voor rijtjeshuizen zijn twee opstellingen relevant: een hybride, waarbij de bestaande cv-ketel als achtervang blijft staan, en een volledig elektrische variant met twee gekoppelde units. De hybride is de laagdrempeligste stap in een woning met label C of D en bestaande radiatoren.
 
-Een 4 kW lucht-water warmtepomp die je bestaande cv-ketel als back-up gebruikt op koude dagen. SCOP 4,2. Geluidsniveau 34 dB(A) @ 3m — een van de stilste op de markt. De buitenunit is compact (88×80×33 cm) en past in smalle tuinen.
+**Wat sterk is aan deze propositie:**
+- Levering, installatie, storing en onderhoud lopen via één partij
+- Een vast installatieprotocol in plaats van een per-installateur wisselende werkwijze
+- Compacte buitenunit, wat in smalle tuinen het verschil maakt tussen wel en niet passen
+- De aansturing werkt samen met dynamische tarieven
 
-Wat hier praktisch sterk aan is:
-- All-in prijs inclusief installatie en 10 jaar garantie
-- Quatt-installateurs werken volgens een vast protocol, geen "we zien wel" verhaal
-- App is simpel, je hoeft niet te tweaken
-- ISDE-subsidie €2.400 → netto investering €3.100
+**Aandachtspunten:**
+- Je bent voor service gebonden aan Quatt zelf; er is geen lokale installateur die het kan overnemen
+- Minder fijnmazige instelmogelijkheden dan de apps van de grote internationale merken, en beperkte data-export
+- Prijzen en eventuele servicekosten publiceert Quatt op de eigen site en die wisselen per actie en woningsituatie. Wij nemen hier geen bedragen op omdat ze niet stabiel te verifiëren zijn — vraag een offerte op en laat de totale kosten over tien jaar uitschrijven.
+- Vraag ook het geluidsvermogen (dB(A) Lw) en de exacte afmetingen van de buitenunit op; die bepalen of de unit in jouw tuin binnen de norm blijft.
 
-**Quatt Duo full electric: €11.500 incl installatie**
-
-Voor wie zijn cv-ketel helemaal eruit wil. 8 kW vermogen, SCOP 4,3, geluidsniveau 34 dB(A). Werkt met radiatoren tot een buitentemperatuur van -10°C zonder back-up nodig. ISDE 2026: €3.200.
-
-**Nadelen Quatt eerlijk benoemd:**
-- Geen radiator-optimalisatie zoals Daikin (geen weersafhankelijke curve per zone)
-- Service alleen via Quatt-eigen monteurs — geen lokale installateur om de hoek
-- App heeft beperkte data-export (geen CSV, geen API)
-- Bij vroege storingen soms 5-10 dagen wachttijd op monteur
-
-Voor 80% van de rijtjeshuizen is Quatt All-In het verstandigste startpunt. <a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Quatt</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Quatt</a>
 
 ## Atag review: degelijk Nederlands alternatief
 
 Atag (Lichtenvoorde) heeft sinds 2023 de Energion-serie. Voor rijtjeshuizen is vooral de **Atag Energion Pro** relevant — een 6 kW lucht-water warmtepomp die rond €8.500 inclusief installatie kost.
 
 **Sterke punten:**
-- SCOP 4,1 (degelijk, niet top)
-- 5 jaar fabrieksgarantie, uit te breiden tot 10 jaar
-- Werkt met bestaand cv-systeem, ook radiatoren tot 65°C
-- Service-netwerk via reguliere Atag-installateurs (overal in NL)
-- ISDE 2026: €3.000
+- Nederlandse serviceorganisatie en een breed installateursnetwerk
+- Werkt met een bestaand cv-systeem, ook met radiatoren op een hogere aanvoertemperatuur
+- Fabrieksgarantie is te verlengen — laat de termijn in de offerte opnemen
+- Opgegeven SCOP in de bovenste helft van dit overzicht
 
-**Nadelen:**
-- Geluid 38 dB(A) is voor een tussenwoning een aandachtspunt
-- Buitenunit groter dan Quatt: 105×90×40 cm
-- Geen vast all-in tarief — prijzen variëren per installateur €7.800-€9.500
-- Modulatie minder verfijnd dan Daikin (in lichte vraag draait pomp soms in pulsen)
+**Aandachtspunten:**
+- De buitenunit is groter dan de compactste modellen in dit overzicht; controleer of hij in jouw tuin past
+- Geen vaste all-in prijs: de installatieprijs verschilt per installateur, dus vergelijk meerdere offertes
+- Controleer welk exact typenummer wordt geleverd — het Energion-assortiment kent meerdere varianten met verschillende vermogens en geluidswaarden
 
-Voor wie de service van een lokale installateur belangrijk vindt, of om wat voor reden geen Quatt wil, is Atag de logische tweede keuze: Nederlandse service, een Mitsubishi-compressor die goed leverbaar blijft, en een geluidsniveau dat met een sokkel in de meeste tussenwoningen haalbaar is.
+Voor wie service van een lokale installateur belangrijk vindt is Atag de logische tweede keuze: Nederlandse serviceketen, brede beschikbaarheid van monteurs en onderdelen, en een geluidsniveau dat met een dempende sokkel in de meeste tussenwoningen haalbaar is.
 
 [Volledige Atag review →](/posts/atag-warmtepomp-review-2026/)
 
 ## Daikin Altherma 3 review: technisch top, prijzig
 
-Daikin maakt al sinds 1958 warmtepompen en is technisch de meest verfijnde keus. De **Altherma 3 M** voor een rijtjeshuis komt in twee varianten:
-
-- **Daikin Altherma 3 M 6 kW**: €9.500-€10.500 incl
-- **Daikin Altherma 3 M 8 kW**: €11.000-€12.000 incl
+Daikin heeft het breedste assortiment in deze vergelijking. Voor een rijtjeshuis komen vooral de compactere Altherma 3-monoblokken in beeld, in vermogens rond 6 en 8 kW. De prijsklasse ligt inclusief installatie doorgaans tussen €9.500 en €12.000, afhankelijk van vermogen en meerwerk.
 
 **Sterke punten:**
-- SCOP 4,5 — beste in deze vergelijking
-- Geluidsniveau 35 dB(A), in stiltemodus zelfs 31 dB(A)
-- Weersafhankelijke regeling met zelflerende algoritmes
-- Wijdverbreid service-netwerk
-- ISDE 2026: €3.800 (6 kW) of €4.400 (8 kW)
+- Hoge opgegeven SCOP-waarden binnen dit overzicht
+- Weersafhankelijke regeling met uitgebreide instelmogelijkheden
+- Groot dealernetwerk en goede onderdelenbeschikbaarheid
+- Modellen beschikbaar die hogere aanvoertemperaturen halen, zodat bestaande radiatoren kunnen blijven zitten
 
-**Nadelen:**
-- Duurste optie in deze vergelijking
-- Hydrobox is groot (60×60×170 cm) en vereist plek
-- App (Onecta) was tot 2024 een puinhoop, in 2025 verbeterd maar nog niet top
-- Installatie-kwaliteit verschilt sterk per installateur — kies een Daikin D1-erkende monteur
+**Aandachtspunten:**
+- De duurste optie in deze vergelijking
+- De hydrobox vraagt een kastruimte van ongeveer 60 bij 60 cm en circa 1,7 meter hoog; in een rijtjeshuis met een krappe meterkast is dat een reëel plaatsingsprobleem
+- De installatiekwaliteit verschilt sterk per dealer — vraag naar de merk-erkenning van de monteur die het werk doet
+- De app werkt via een cloudaccount; wie lokale aansturing wil, moet dat vooraf uitzoeken
 
-Voor wie technisch het beste wil en de meerprijs accepteert is Daikin het juiste antwoord. Wel met de kanttekening dat het verschil met Quatt in praktijk-COP klein is (4,5 vs 4,3) terwijl het prijsverschil €3.000-€4.000 is.
+Het verschil in opgegeven rendement met de andere merken in dit overzicht is klein, terwijl het prijsverschil enkele duizenden euro's kan zijn. Daikin is dus vooral logisch als je het bredere assortiment of de hogere aanvoertemperatuur nodig hebt, niet om het laatste tiende puntje SCOP.
 
 [Daikin vs Atag head-to-head →](/posts/daikin-vs-atag-warmtepomp-2026/)
 
 ## Mitsubishi Ecodan: betrouwbaar maar te luid voor de meeste rijtjeshuizen
 
-De Mitsubishi Ecodan PUZ-serie is op zich een prima warmtepomp: robuust, met een opgegeven levensduur van 15 jaar of meer en een goede modulatie. Het probleem is het geluid: 42 dB(A) op 3 meter volgens de specificatie.
+De Mitsubishi Ecodan PUZ-serie is technisch een degelijke keuze: robuuste buitenunits, goede modulatie en een breed vermogensbereik. De prijsklasse ligt inclusief installatie doorgaans rond €10.000 tot €11.000 voor een unit van circa 8 kW.
 
-**Cijfers Ecodan 8 kW:**
-- Prijs incl installatie: €10.000-€11.000
-- SCOP: 4,2
-- Geluid: 42 dB(A)
-- ISDE 2026: €3.400
+Het aandachtspunt in dit woningtype is de afmeting en het geluidsvermogen van de buitenunit. De grotere Ecodan-units zijn fors, en juist bij een korte afstand tot de perceelgrens is dat de factor die de norm kan doen kantelen. Dat is geen diskwalificatie van het merk — het is een reden om het geluidsvermogen uit het productblad op te vragen en de berekening op de grens te laten maken vóór je tekent.
 
-In een vrijstaande woning is Mitsubishi zonder meer aan te raden — degelijke techniek voor een redelijke prijs. In een tussenwoning of hoekwoning, waar de unit tegen de erfgrens komt, is 42 dB(A) te veel om binnen de Bouwbesluit-norm te blijven. Tenzij je een geluidsomkasting laat maken (kost €600-€1.200 extra) en de unit op minimaal 4 meter van de erfgrens kan plaatsen.
-
-**Conclusie:** alleen Mitsubishi als je vrijstaand woont of een zeer ruime tuin hebt. In een gewoon rijtje: pas op.
+**Conclusie:** in een vrijstaande woning of een ruime tuin een prima keuze. In een tussenwoning met een korte tuin: alleen na een geluidsberekening, en reken eventueel een omkasting mee (circa €600 tot €1.200 extra).
 
 ## Vaillant aroTHERM plus: middelmaat met goede service
 
 Vaillant (Duits) heeft met de **aroTHERM plus** een propaan-warmtepomp (R290 koudemiddel) gemaakt. Propaan is milieuvriendelijker dan de standaard R32 en bereikt hogere watertemperaturen — handig voor oudere radiatoren.
 
-**Cijfers aroTHERM plus 5 kW:**
-- Prijs incl: €11.000-€12.000
-- SCOP: 4,3
-- Geluid: 39 dB(A)
-- ISDE 2026: €3.600
-- Watertemperatuur tot 75°C (uniek)
+**Kenmerken aroTHERM plus, circa 5 kW:**
+- Prijsklasse inclusief installatie: €11.000-€12.000
+- Opgegeven SCOP in de bovenste helft van dit overzicht
+- Haalt hoge aanvoertemperaturen, waardoor bestaande radiatoren vaak kunnen blijven zitten
 
-Voor een rijtjeshuis met oudere radiatoren die geen vloerverwarming hebben is de hogere watertemperatuur een echt voordeel. Geen radiatoren vervangen, geen vloerverwarming aanleggen.
+Dat laatste is in dit woningtype het echte argument: geen radiatoren vervangen en geen vloerverwarming aanleggen scheelt al snel duizenden euro's meerwerk. Overigens is Vaillant hierin niet uniek — ook Daikin en enkele andere merken leveren modellen die hoge aanvoertemperaturen halen. Vergelijk dus op de opgegeven maximale aanvoertemperatuur, niet op het merk.
 
-Nadelen: 39 dB(A) is voor sommige rijtjes te luid, en de prijs is fors hoger dan vergelijkbare Daikin of Atag. Plus: propaan vereist veiligheidsafstand (geen ventilatieopeningen binnen 1 meter).
+Aandachtspunten: de prijs ligt boven een vergelijkbare Atag, en propaan stelt eisen aan de opstelling. Houd de veiligheidsafstanden uit het installatievoorschrift aan, met name ten opzichte van ventilatieopeningen en kelderingangen, en laat de installateur die opstelling in de offerte vastleggen.
 
 ## Vergelijkingstabel: 5 merken voor het rijtjeshuis
 
-| Merk | Prijs incl | SCOP | Geluid @3m | ISDE 2026 | Garantie |
-|---|---|---|---|---|---|
-| Quatt All-In hybride | €5.500 | 4,2 | 34 dB(A) | €2.400 | 10 jaar |
-| Quatt Duo full electric | €11.500 | 4,3 | 34 dB(A) | €3.200 | 10 jaar |
-| Atag Energion Pro 6kW | €8.500 | 4,1 | 38 dB(A) | €3.000 | 5+5 jaar |
-| Daikin Altherma 3 M 8kW | €11.500 | 4,5 | 35 dB(A) | €4.400 | 5 jaar |
-| Mitsubishi Ecodan 8kW | €10.500 | 4,2 | 42 dB(A) | €3.400 | 5 jaar |
-| Vaillant aroTHERM+ 5kW | €11.500 | 4,3 | 39 dB(A) | €3.600 | 5 jaar |
+De prijzen zijn indicatieve bandbreedtes voor een complete installatie; de SCOP-waarden zijn fabrieksopgaven volgens NEN-EN 14825, gemeten bij de door de fabrikant gekozen aanvoertemperatuur. Geluid staat er bewust niet in: zie de uitleg hierboven over geluidsvermogen versus geluidsdruk.
+
+| Merk | Prijsklasse incl. installatie | Opstelling | Aandachtspunt in een rijtje |
+|---|---|---|---|
+| Quatt hybride | Op offerte | Hybride, cv-ketel blijft | Service uitsluitend via Quatt zelf |
+| Quatt volledig elektrisch | Op offerte | All-electric | Idem; vraag afmetingen buitenunit op |
+| Atag Energion | €8.500-€12.500 | Hybride en all-electric | Grotere buitenunit dan de compactste modellen |
+| Daikin Altherma 3 | €9.500-€12.000 | All-electric | Hydrobox vraagt kastruimte |
+| Mitsubishi Ecodan | €10.000-€11.000 | All-electric | Forse buitenunit; geluidsberekening vooraf |
+| Vaillant aroTHERM plus | €11.000-€12.000 | All-electric, R290 | Veiligheidsafstanden propaan |
 
 ## Kosten en ISDE-subsidie 2026
 
-De ISDE (Investeringssubsidie Duurzame Energie en Energiebesparing) is in 2026 hoger dan vorig jaar. Concrete bedragen:
-
-**Hybride warmtepomp:** €2.400 vast bedrag. Voor de Quatt All-In en vergelijkbare 4 kW hybrides.
-
-**Lucht-water warmtepomp (full electric):**
-- 4-6 kW SCOP ≥ 3,5: €3.000
-- 6-8 kW SCOP ≥ 3,5: €3.400
-- 8-10 kW SCOP ≥ 3,5: €3.800
-- ≥ 10 kW SCOP ≥ 4,0: €4.400
+Het ISDE-bedrag hangt af van het specifieke apparaat en staat per typenummer op de apparatenlijst van RVO. Bedragen per merk of vermogensklasse zijn daarom niet in een artikel te vangen — ze verschillen per toestel en worden periodiek bijgesteld. Het startbedrag voor een warmtepomp is in 2026 €1.025, met daarbovenop €200 labelbonus.
 
 Voorwaarden 2026:
-- Installatie door een RVO-erkende monteur
-- ISDE aanvragen binnen 12 maanden na installatie
-- Verklaring van conformiteit (CvC) van fabrikant nodig
+- De volledige installatie wordt uitgevoerd door een bouwinstallatiebedrijf
+- Het apparaat staat op de ISDE-apparatenlijst van RVO
+- Je vraagt de subsidie aan ná de installatie, binnen 24 maanden
 - Aanvraag via mijn.rvo.nl
 
-**Concrete netto-kostenberekening (rijtjeshuis, 6 kW lucht-water):**
-- Bruto: €9.500
-- ISDE 2026: -€3.400
-- Netto: €6.100
+Zoek het bedrag voor het exacte typenummer uit je offerte op vóór je tekent, en laat de installateur bevestigen dat het toestel op de apparatenlijst staat. Op toestel en installatie geldt 21% btw; het 0%-tarief geldt alleen voor zonnepanelen.
 
-Bij een gemiddelde gasrekening van €1.800/jaar (1.500 m³ × €1,20) en stroomprijs van €0,28/kWh: terugverdientijd 7-9 jaar bij volledige vervanging cv-ketel, 5-7 jaar bij hybride.
+**Modelberekening, met aannames.** Een rijtjeshuis met een lucht-water warmtepomp van circa 6 kW, bruto €9.500 inclusief installatie. Bij een gasverbruik van 1.500 m³ per jaar, gas op €1,05 per m³ en stroom op €0,28 per kWh valt de terugverdientijd bij volledige vervanging van de cv-ketel in de orde van acht tot tien jaar, en bij een hybride opstelling korter doordat de investering veel lager ligt. Reken dit na met je eigen verbruik en het subsidiebedrag dat bij jouw toestel hoort — de uitkomst schuift sterk met beide.
 
 Meer details over de subsidie? [ISDE 2026 complete uitleg →](/posts/isde-subsidie-warmtepompen-2026/)
 
@@ -247,15 +213,15 @@ Meer details over de subsidie? [ISDE 2026 complete uitleg →](/posts/isde-subsi
 
 ## Voor wie is welke warmtepomp slim?
 
-**Quatt All-In hybride** — voor de typische rijtjeshuis-eigenaar met label C/D, beperkt budget en korte tuin. Behoudt cv-ketel als back-up, laag geluid, all-in service.
+**Quatt hybride** — voor de typische rijtjeshuiseigenaar met label C of D, een beperkt budget en een korte tuin. De cv-ketel blijft als achtervang staan en levering, installatie en service lopen via één partij.
 
-**Quatt Duo** — voor rijtjeshuizen met label B of beter en eigenaars die helemaal van het gas af willen. Compact, stil, simpel.
+**Quatt volledig elektrisch** — voor rijtjeshuizen met label B of beter waar de gasaansluiting eruit kan.
 
-**Atag Energion Pro** — voor wie service van lokale installateur belangrijk vindt en bestaande Atag-cv heeft. Iets luider, iets duurder dan Quatt, maar bewezen Nederlandse degelijkheid.
+**Atag Energion** — voor wie service van een lokale installateur belangrijk vindt. Nederlandse serviceketen en brede beschikbaarheid van monteurs; controleer wel of de buitenunit past.
 
-**Daikin Altherma 3 M** — voor wie technisch het beste wil en de meerprijs accepteert. Hoogste SCOP, beste regeling, breed service-netwerk.
+**Daikin Altherma 3** — voor wie het bredere assortiment of een hogere aanvoertemperatuur nodig heeft en de meerprijs accepteert. Reken op kastruimte voor de hydrobox.
 
-**Mitsubishi Ecodan** — alleen bij vrijstaand of zeer ruime tuin (> 4m tot erfgrens). Robuust, lang meegaand, maar te luid voor tussenwoningen.
+**Mitsubishi Ecodan** — robuust en breed leverbaar, maar met een forse buitenunit. In een tussenwoning alleen na een geluidsberekening op de perceelgrens.
 
 **Vaillant aroTHERM plus** — voor rijtjeshuizen met oude radiatoren waar je geen vloerverwarming wil aanleggen. Hoge watertemperatuur, propaan-techniek.
 
@@ -267,7 +233,7 @@ Veel artikelen benoemen alleen de voordelen. Hier de nadelen die bij rijtjeshuiz
 
 **1. Geluidsoverlast buren is reëel risico**
 
-Een formele geluidsklacht van een buur binnen enkele maanden na installatie is bij tussenwoningen een reëel scenario. De Bouwbesluit-grens van 40 dB(A) op de perceelgrens in de nachtperiode is strenger dan veel mensen denken, en die geldt ongeacht hoe goed de verhouding met de buren daarvoor was. Plaatsing en geluidsdemping zijn dus essentieel — bezuinig niet op een geluidsdempende sokkel.
+Een formele geluidsklacht van een buur binnen enkele maanden na installatie is bij tussenwoningen een reëel scenario. De grens van 40 dB(A) op de perceelgrens in de avond- en nachtperiode is strenger dan veel mensen denken, en die geldt ongeacht hoe goed de verhouding met de buren daarvoor was. Plaatsing en geluidsdemping zijn dus essentieel — bezuinig niet op een geluidsdempende sokkel.
 
 **2. Buitenunit eet je tuin op**
 
@@ -283,7 +249,7 @@ Fabrikanten geven SCOP-waarden bij optimale omstandigheden. In een rijtjeshuis m
 
 **5. Soms vereist het radiatoren vervangen**
 
-Standaard convector-radiatoren werken slecht bij watertemperaturen van 45-50°C (warmtepomp-temperatuur). Vervanging door LT-radiatoren of vloerverwarming kost €2.000-€8.000 extra. Vaillant aroTHERM is hier een uitzondering (75°C aankan).
+Standaard convector-radiatoren werken slecht bij watertemperaturen van 45-50°C (warmtepomp-temperatuur). Vervanging door LT-radiatoren of vloerverwarming kost €2.000-€8.000 extra. Modellen die een hoge aanvoertemperatuur halen — de Vaillant aroTHERM plus en bepaalde Daikin-varianten — kunnen die post grotendeels wegnemen. Vraag de opgegeven maximale aanvoertemperatuur op en laat de installateur beoordelen of je bestaande radiatoren daarmee toereikend zijn.
 
 **6. Stroomverbruik stijgt, gas daalt niet altijd nul**
 
@@ -323,22 +289,22 @@ Modelberekening voor het profiel dat bij rijtjeshuizen het vaakst voorkomt: tuss
 
 **De rekensom**, met gas op €1,05/m³ en stroom op €0,23/kWh:
 
-- Investering bruto circa €5.500, minus ISDE €2.400 = netto circa €3.100.
+- Investering bruto circa €8.000 voor een hybride opstelling inclusief installatie. Daar gaat het ISDE-bedrag vanaf dat bij het gekozen toestel hoort; zoek dat op in de apparatenlijst van RVO.
 - Een hybride neemt bij een goed ingesteld bivalentpunt 55 tot 65 procent van de warmtevraag over. Van 1.600 m³ gas blijft dan ruwweg 550 tot 700 m³ over.
 - Het weggevallen gas (rond de 1.000 m³) is circa €1.050 waard; het extra stroomverbruik van circa 1.900 kWh kost rond de €440.
-- **Netto besparing in dit model: circa €600 tot €750 per jaar**, en daarmee een terugverdientijd van ongeveer vier tot vijf jaar op de netto investering.
+- **Netto besparing in dit model: circa €600 tot €750 per jaar.** De terugverdientijd volgt uit die besparing en je netto-investering na subsidie.
 
 Op een dynamisch contract valt het extra stroomverbruik lager uit, omdat je de warmtepomp naar de goedkope uren kunt verschuiven. Reken die winst apart door met je eigen tariefspreiding.
 
-**En de buren?** Een unit met een opgegeven nachtstand rond de 31 dB(A) blijft ook op de perceelgrens onder de norm. Laat die berekening vóór installatie maken en bewaar hem — dat is je bewijs als er ooit een klacht komt.
+**En de buren?** Laat de geluidsberekening op de perceelgrens vóór installatie maken en bewaar hem — dat is je bewijs als er ooit een klacht komt. Ligt de uitkomst dicht tegen de 40 dB(A) voor de avond- en nachtperiode, neem dan meteen een dempende sokkel of omkasting mee in de offerte.
 
 ## Conclusie
 
-Voor de meeste rijtjeshuizen in Nederland is in 2026 de **Quatt All-In hybride** de slimste keus. Goedkoop in aanschaf (€5.500 → €3.100 na ISDE), stil genoeg voor tussenwoningen, eenvoudig in onderhoud. Wil je all-electric en gaat het budget €11.000+ aankunnen, dan is **Quatt Duo** of **Daikin Altherma 3** een goede keus.
+Voor een rijtjeshuis met label C of D en bestaande radiatoren is een hybride opstelling in 2026 de verstandigste eerste stap: de laagste investering, de kleinste buitenunit en je houdt de cv-ketel als achtervang. Zit de schil al op label B of beter en kan het budget richting de €11.000, dan wordt volledig elektrisch interessant.
 
-Vermijd Mitsubishi Ecodan in tussenwoningen — te luid op de erfgrens. Mijd ook installateurs die je een 12 kW unit verkopen voor een rijtjeshuis (overdimensionering is een veelvoorkomende fout).
+De bindende beperking in dit woningtype is bijna altijd het geluid op de perceelgrens, niet het rendement. Laat die berekening maken voordat je tekent, en pas daarna de merkkeuze erop aan. Mijd verder installateurs die zonder warmteverliesberekening een 12 kW unit voorstellen voor een rijtjeshuis: overdimensionering is de meest voorkomende en duurste fout in dit segment.
 
-Combineer je warmtepomp met een dynamisch energiecontract zoals [Tibber](/posts/tibber-review-ervaringen-2026/), dan kun je hem laten draaien op goedkope uren en bespaar je nog eens €100-€200 per jaar extra.
+Combineer je warmtepomp met een dynamisch energiecontract zoals [Tibber](/posts/tibber-review-ervaringen-2026/), dan kun je de pomp naar de goedkope uren verschuiven. Hoeveel dat oplevert hangt af van je tariefspreiding en de mate waarin de warmtevraag verschuifbaar is — reken het na met je eigen verbruik.
 
 <a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Quatt</a>
 
