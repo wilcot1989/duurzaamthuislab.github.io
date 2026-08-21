@@ -1,8 +1,8 @@
 ---
-title: 'Voorbereid op Stroomuitval 2026: Welke Powerstation Heb je'
+title: 'Stroomuitval voorbereiden 2026: welk powerstation heb je nodig?'
 date: 2026-03-24 12:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Praktische gids voor noodstroom thuis met een powerstation. Bereken hoeveel Wh je nodig hebt.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Noodstroom thuis met een powerstation: drie doorgerekende scenario''s van 375 tot 2.305 Wh, wat de UPS-functie doet, welke modellen in Nederland leverbaar zijn (met prijzen van 21 augustus 2026) en waar je bij een lange storing recht op hebt.'
 categories:
 - powerstations
 tags:
@@ -29,7 +29,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
 - q: Hoe vaak komt stroomuitval voor in Nederland?
-  a: In Nederland duurt de gemiddelde stroomstoring circa 20-30 minuten per jaar. Maar langdurige storingen (meerdere uren tot een dag) komen steeds vaker voor, onder meer door extreme weersomstandigheden en netbelasting. In 2024 en 2025 waren er meerdere grote stroomstoringen die duizenden huishoudens raakten.
+  a: 'Netbeheerders rapporteren de storingsduur als jaargemiddelde per huishouden: dat ligt in Nederland in de orde van twintig tot dertig minuten per jaar. Dat gemiddelde zegt weinig over jouw situatie, want het is de som van heel veel huishoudens zonder storing en een kleiner aantal met een storing van uren. De vraag die telt is dus niet hoe vaak het gemiddeld gebeurt, maar hoe lang jij het zonder stroom uithoudt als het gebeurt.'
 - q: Hoeveel Wh heb ik nodig voor een stroomuitval?
   a: Voor de basisbehoeften (verlichting, router, telefoon opladen) volstaat 500Wh. Wil je ook je koelkast draaiende houden, reken dan op minimaal 1000Wh. Voor een volledig huishouden inclusief verwarming en koken heb je 2000Wh of meer nodig.
 - q: Wat is een UPS-functie bij een powerstation?
@@ -45,27 +45,24 @@ faq:
 products:
 - name: EcoFlow Delta 2 Max
   url: https://go.duurzaamthuislab.nl/ecoflow
-  price: '1899'
-- name: Jackery Explorer 2000 Plus
+  price: '949'
+- name: Jackery Explorer 2000 v2
   url: https://go.duurzaamthuislab.nl/jackery
-  price: '2299'
-- name: Anker SOLIX C1000
-  url: https://go.duurzaamthuislab.nl/anker-solix
-  price: '999'
+  price: '899'
+- name: EcoFlow Delta 2
+  url: https://go.duurzaamthuislab.nl/ecoflow
+  price: '599'
 schema_type: Article
 ---
-Een stroomstoring van een paar uur betekent voor de meeste huishoudens: geen internet, een lege telefoon en een vriezer die begint te ontdooien. Een powerstation van €500 tot €900 vangt dat op. Hieronder staat doorgerekend hoeveel Wh je nodig hebt voor de basisapparaten (router, koelkast, verlichting, telefoon = circa 250 W continu) en welk powerstation bij welk budget past.
+Een stroomstoring van een paar uur betekent voor de meeste huishoudens: geen internet, een lege telefoon en een vriezer die begint te ontdooien. Een powerstation vangt dat op. Hieronder staat doorgerekend hoeveel Wh je nodig hebt voor de basisapparaten (router, koelkast, verlichting, telefoon = circa 250 W continu), wat de UPS-functie wel en niet doet, en welke modellen daar in Nederland bij passen. De prijzen die wij noemen komen van de Nederlandse webshops van EcoFlow en Jackery, opgehaald op 21 augustus 2026; wij hebben deze toestellen niet zelf getest.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
 
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Praktische gids voor noodstroom thuis met een powerstation. Bereken hoeveel Wh je nodig hebt.
+> **Kort antwoord:** reken eerst uit wat je acht uur wilt laten doorlopen, en koop daarna pas. Router, licht en telefoons kosten in dat scenario circa 375 Wh; met de koelkast en een laptop erbij circa 1.100 Wh; met vriezer, televisie en cv-elektronica erbij circa 2.300 Wh.
 >
-> In Nederland duurt de gemiddelde stroomstoring circa 20-30 minuten per jaar. Maar langdurige storingen (meerdere uren tot een dag) komen steeds vaker voor, onder meer door extreme weersomstandigheden en netbelasting. In 2024 en 2025 waren er meerdere grote stroomstoringen die duizenden huishoudens raakten.
+> Daaruit volgen drie maten: 500 Wh voor de basis, 1.200 Wh voor het comfortabele scenario en 2.500 Wh voor het volledige. Let daarbij op twee dingen die net zo zwaar wegen als de capaciteit: het continu vermogen (bepaalt wat je tegelijk kunt aansluiten) en de UPS-functie (bepaalt of je apparaten de omschakeling merken).
 
 ## Waarom voorbereid zijn op stroomuitval?
 
@@ -76,7 +73,7 @@ Nederland heeft een van de betrouwbaarste stroomnetten in Europa. De gemiddelde 
 - **Extreme weer** -- Stormen en overvloedige regenval veroorzaken steeds vaker stroomstoringen die uren tot dagen duren
 - **Netcongestie** -- Het elektriciteitsnet raakt overbelast door de snelle groei van warmtepompen, EV-laders en zonnepanelen
 - **Verouderende infrastructuur** -- Sommige delen van het Nederlandse net zijn aan vervanging toe
-- **Cyberaanvallen** -- Het risico op digitale aanvallen op het stroomnet neemt toe
+- **Werkzaamheden en kabelschade** -- Grondwerk in de straat is een van de vaakst voorkomende oorzaken van een langdurige onderbreking in een wijk
 
 ### Wat gebeurt er bij een langdurige stroomuitval?
 
@@ -185,80 +182,88 @@ Niet alle powerstations bieden een UPS-functie. En de omschakeltijd verschilt pe
 
 ## Aanbevolen powerstations per budget
 
-Op basis van fabrieksspecificaties, geverifieerde gebruikersreviews en de rekensom hierboven hebben wij per budgetcategorie de meest geschikte powerstations geselecteerd.
+De selectie hieronder is gemaakt op de fabrieksspecificaties en de rekensom hierboven. Waar wij een prijs noemen, staat erbij waar en wanneer wij die hebben opgehaald; waar wij dat niet konden, noemen wij geen bedrag.
 
-### Budget: tot €600 -- Bluetti AC70
+### Basisscenario -- Bluetti AC70
 
-Voor een basisnoodstroompakket biedt de **Bluetti AC70** een goede capaciteit voor de prijs:
+Voor het basispakket (router, verlichting, telefoons) is de **Bluetti AC70** het kleinste toestel dat ruim boven de benodigde 375 Wh uitkomt:
 
-| Specificatie | Waarde |
+| Specificatie | Waarde (opgave Bluetti) |
 |---|---|
 | Capaciteit | 768 Wh |
-| Continu vermogen | 1000 W |
+| Continu vermogen | 1.000 W |
 | UPS-functie | Nee |
 | Gewicht | 10,2 kg |
-| Prijs | circa €649 |
+| Prijs | staat op de webshop van Bluetti; die pagina konden wij op 21 augustus 2026 niet uitlezen, dus wij noemen geen bedrag |
 
-De AC70 is geschikt voor **scenario 1** (basis): router, verlichting en telefoon opladen. Met 768Wh hou je de essentiële apparaten circa 8-10 uur draaiende. Het ontbreken van een UPS-functie betekent dat je het station handmatig moet inschakelen bij een stroomuitval.
+De AC70 dekt **scenario 1**: met 768 Wh hou je router, licht en telefoons ruim een werkdag draaiende. Het belangrijkste voorbehoud is het ontbreken van een UPS-functie: je moet het station bij een storing zelf aanzetten en je apparaten omsteken. Voor een router of NAS die niet mag herstarten is dat een reëel nadeel — kijk dan naar de middenklasse hieronder.
 
-### Middenklasse: €800-1.100 -- Anker SOLIX C1000 of EcoFlow Delta 2
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Bluetti AC70 →</a>
 
-In de middenklasse zijn de **Anker SOLIX C1000** en de **EcoFlow Delta 2** de beste opties voor noodstroom:
+### Comfortabel scenario -- EcoFlow Delta 2
 
-| Eigenschap | Anker SOLIX C1000 | EcoFlow Delta 2 |
-|---|---|---|
-| **Capaciteit** | 1056 Wh | 1024 Wh |
-| **Continu vermogen** | 1800 W | 1800 W |
-| **UPS-functie** | Ja (20ms) | Ja (30ms) |
-| **AC-laadtijd** | 0-80% in ~43 min | 0-80% in ~50 min |
-| **Solar-input** | 300 W | 500 W |
-| **Prijs** | circa €899 | circa €949 |
+In de middenklasse is de **EcoFlow Delta 2** het toestel waarvan wij de prijs konden verifiëren: op nl.ecoflow.com stond die op 21 augustus 2026 op **€599**, met de vermelding uitverkocht.
 
-Beide stations zijn geschikt voor **scenario 2** (comfortabel). Met ruim 1000Wh hou je je koelkast, verlichting, router en laptop circa 4-5 uur tegelijk draaiende. De UPS-functie bij beide modellen zorgt voor een naadloze omschakeling.
+| Eigenschap | EcoFlow Delta 2 |
+|---|---|
+| **Capaciteit** | 1.024 Wh |
+| **Continu vermogen** | 1.800 W (piek 2.700 W) |
+| **UPS-functie** | Ja |
+| **AC-laadingang** | 1.200 W (0-80% in circa 50 min volgens EcoFlow) |
+| **Solar-input** | 500 W |
+| **Gewicht** | 12 kg |
 
-De Anker SOLIX C1000 laadt iets sneller op en is compacter. De EcoFlow Delta 2 biedt meer solar-input voor off-grid opladen. Lees onze uitgebreide [Anker SOLIX C1000 review](/posts/anker-solix-c1000-review-2026/) voor meer details.
-
-<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker SOLIX C1000 →</a>
+Dit station dekt **scenario 2**: koelkast, verlichting, router en laptop samen ongeveer vier tot vijf uur, of de basisapparaten een etmaal. De doorrekening per apparaat staat in onze [EcoFlow Delta 2 review](/posts/ecoflow-delta-2-review-2026/).
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow Delta 2 →</a>
 
-### Premium: €1.500+ -- EcoFlow Delta 2 Max of Jackery Explorer 2000 Plus
+### Comfortabel scenario, alternatief -- Anker SOLIX C1000
 
-Voor maximale noodstroombescherming zijn de **EcoFlow Delta 2 Max** en de **Jackery Explorer 2000 Plus** de topkeuzes:
+De **Anker SOLIX C1000** zit met 1.056 Wh en 1.800 W in exact dezelfde klasse, laadt volgens Anker sneller (0-80% in circa 43 minuten) en weegt 12,9 kg. Het verschil zit in de zonne-input: 300 W tegen 500 W bij de Delta 2, wat uitmaakt als je tijdens een lange storing met een paneel wilt bijladen. De prijs staat op de webshop van Anker; die pagina konden wij op 21 augustus 2026 niet uitlezen, dus wij noemen geen bedrag. De volledige doorrekening staat in onze [Anker SOLIX C1000 review](/posts/anker-solix-c1000-review-2026/).
 
-| Eigenschap | EcoFlow Delta 2 Max | Jackery Explorer 2000 Plus |
-|---|---|---|
-| **Capaciteit** | 2048 Wh | 2042 Wh |
-| **Continu vermogen** | 2400 W | 3000 W |
-| **UPS-functie** | Ja (30ms) | Ja (20ms) |
-| **Uitbreidbaar** | Ja (extra batterij) | Ja (tot 24 kWh) |
-| **AC-laadtijd (0-80%)** | ~65 min | ~90 min |
-| **Solar-input** | 500 W | 1200 W |
-| **Prijs** | circa €1.799 | circa €1.899 |
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker SOLIX C1000 →</a>
 
-Met ruim 2000Wh ben je voorbereid op **scenario 3** (volledig comfort). Je kunt je hele huishouden -- inclusief koelkast, cv-ketel, verlichting en entertainment -- urenlang van stroom voorzien. De uitbreidbaarheid van beide stations maakt het zelfs mogelijk om een langdurige stroomuitval van 24+ uur te overbruggen met extra batterijpakketten.
+### Volledig scenario -- EcoFlow Delta 2 Max
 
-De EcoFlow Delta 2 Max wint op laadsnelheid en gewicht. De Jackery 2000 Plus biedt meer continu vermogen en enorme uitbreidbaarheid. Lees onze uitgebreide reviews: [EcoFlow Delta 2 Max review](/posts/ecoflow-delta-2-max-review-2026/) en [Jackery Explorer 2000 Plus review](/posts/jackery-explorer-2000-plus-review-2026/).
+Voor **scenario 3** heb je ruim 2.000 Wh nodig. De **EcoFlow Delta 2 Max** stond op nl.ecoflow.com op 21 augustus 2026 op **€949**, afgeprijsd van €1.199.
+
+| Eigenschap | EcoFlow Delta 2 Max |
+|---|---|
+| **Capaciteit** | 2.048 Wh (uitbreidbaar met extra accu) |
+| **Continu vermogen** | 2.400 W (piek 4.800 W) |
+| **UPS-functie** | Ja |
+| **AC-laadingang** | 2.300 W |
+| **Solar-input** | 500 W per poort, 1.000 W met twee poorten |
+| **Gewicht** | 23 kg |
+| **Cycli / garantie** | >80% na 3.000 cycli / 5 jaar |
+
+Met ruim 2.000 Wh dek je koelkast, vriezer, cv-elektronica, verlichting en communicatie samen een halve dag. Wil je langer overbruggen, dan is bijladen met een zonnepaneel effectiever dan een groter station: 1.000 W zonne-input is in dit segment de hoogste die wij konden verifiëren.
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow Delta 2 Max →</a>
 
-<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 2000 Plus →</a>
+### Volledig scenario, alternatief -- Jackery Explorer 2000 v2
+
+De **Jackery Explorer 2000 v2** heeft met 2.042 Wh vrijwel dezelfde capaciteit, 2.200 W nominaal vermogen en weegt 17,5 kg. Op nl.jackery.com stond dit model op 21 augustus 2026 op **€899**, afgeprijsd van €1.599. Jackery geeft 4.000 cycli op en netladen tot vol in 1,33 uur — dat laatste is bij noodstroom relevanter dan het lijkt, want tussen twee storingen wil je snel weer vol staan.
+
+Let op de modelnaam: de bekendere Explorer 2000 Plus (3.000 W continu, uitbreidbaar met accumodules) stond op die datum **niet** in het Nederlandse assortiment. Wie meer dan 2.200 W continu nodig heeft, is voor de Plus aangewezen op resterende dealervoorraad of de internationale winkel, met de garantievraag die daarbij hoort. De afweging staat in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/).
+
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 2000 v2 →</a>
 
 ---
 
 ## Vergelijkingstabel: alle aanbevelingen naast elkaar
 
-| Eigenschap | Bluetti AC70 | Anker SOLIX C1000 | EcoFlow Delta 2 | EcoFlow Delta 2 Max | Jackery 2000 Plus |
+| Eigenschap | Bluetti AC70 | Anker SOLIX C1000 | EcoFlow Delta 2 | EcoFlow Delta 2 Max | Jackery Explorer 2000 v2 |
 |---|---|---|---|---|---|
-| **Capaciteit** | 768 Wh | 1056 Wh | 1024 Wh | 2048 Wh | 2042 Wh |
-| **Continu vermogen** | 1000 W | 1800 W | 1800 W | 2400 W | 3000 W |
-| **UPS-functie** | Nee | Ja (20ms) | Ja (30ms) | Ja (30ms) | Ja (20ms) |
+| **Capaciteit** | 768 Wh | 1.056 Wh | 1.024 Wh | 2.048 Wh | 2.042 Wh |
+| **Continu vermogen** | 1.000 W | 1.800 W | 1.800 W | 2.400 W | 2.200 W |
+| **UPS-functie** | Nee | Ja | Ja | Ja | niet op de NL-productpagina gespecificeerd |
 | **Scenario** | Basis | Comfortabel | Comfortabel | Volledig | Volledig |
-| **Geschatte draaitijd*** | ~8 uur | ~4-5 uur | ~4-5 uur | ~8-9 uur | ~8-9 uur |
-| **Uitbreidbaar** | Nee | Nee | Ja | Ja | Ja (tot 24 kWh) |
-| **Prijs** | €649 | €899 | €949 | €1.799 | €1.899 |
+| **Geschatte draaitijd*** | circa 3,5 uur | circa 4,5 uur | circa 4,5 uur | circa 9 uur | circa 9 uur |
+| **Uitbreidbaar** | Nee | Met één extra accu | Ja | Ja | Geen uitbreidingsaccu op de NL-productpagina |
+| **Prijs (NL, 21-8-2026)** | niet geverifieerd | niet geverifieerd | €599 | €949 (van €1.199) | €899 (van €1.599) |
 
-*Draaitijd berekend op basis van scenario 2 (router + verlichting + laptop + koelkast, ~200W gemiddeld)*
+*Draaitijd berekend op scenario 2 (router + verlichting + laptop + koelkast, circa 195 W gemiddeld) met 90 procent bruikbare capaciteit door omvormerverlies. Het is een modelberekening, geen meting. De AC70 haalt dat scenario dus niet acht uur vol: met 768 Wh kom je op circa 3,5 uur, en daarom staat dat toestel bij scenario 1 en niet bij scenario 2.*
 
 ---
 
@@ -338,13 +343,13 @@ Gebruik deze checklist om te controleren of je klaar bent voor een stroomuitval:
 
 ## Conclusie
 
-Stroomuitval komt misschien niet vaak voor in Nederland, maar als het gebeurt, wil je voorbereid zijn. Een draagbaar powerstation is de meest praktische, stille en veilige manier om je huishouden te beschermen. De kosten variëren van circa **€650 voor een basisoplossing** tot **€1.800+ voor volledige bescherming** van je hele huis.
+Stroomuitval komt niet vaak voor in Nederland, maar als het gebeurt, bepaalt de capaciteit die je in huis hebt hoeveel je ervan merkt. Een draagbaar powerstation is daarvoor de meest praktische, stille en veilige oplossing — en met de prijzen van augustus 2026 is het bovendien een kleinere stap dan een jaar eerder.
 
-Onze aanbevelingen in het kort:
+Onze aanbevelingen in het kort, met de prijzen van 21 augustus 2026:
 
-- **Basisnoodstroom (€650)**: Bluetti AC70 -- verlichting, communicatie en telefoon opladen
-- **Comfortabele noodstroom (€900)**: [Anker SOLIX C1000](/posts/anker-solix-c1000-review-2026/) -- inclusief koelkast en laptop, met UPS-functie
-- **Volledige noodstroom (€1.800)**: [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) -- je hele huishouden urenlang van stroom voorzien
+- **Basis (scenario 1)**: Bluetti AC70 met 768 Wh -- verlichting, communicatie en telefoons. Geen UPS-functie; prijs staat op de webshop van Bluetti.
+- **Comfortabel (scenario 2)**: [EcoFlow Delta 2](/posts/ecoflow-delta-2-review-2026/) voor €599, of de [Anker SOLIX C1000](/posts/anker-solix-c1000-review-2026/) als alternatief -- inclusief koelkast en laptop, met UPS-functie.
+- **Volledig (scenario 3)**: [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) voor €949, of de Jackery Explorer 2000 v2 voor €899 -- de essentiële apparaten van een huishouden een halve dag of langer.
 
 Investeer daarnaast in een opvouwbaar zonnepaneel voor onbeperkte autonomie bij langdurige storingen. Bekijk ons overzicht van de [beste zonnepaneel-powerstation combinaties](/posts/beste-zonnepaneel-powerstation-combinatie-2026/) voor de ideale pakketten.
 
@@ -353,9 +358,6 @@ En vergeet niet: het beste moment om je voor te bereiden is voordat je het nodig
 Bekijk ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor alle opties. Heb je een camper of ga je regelmatig kamperen? Lees dan ook onze gids [Beste powerstation voor camping 2026](/posts/beste-powerstation-camping-2026/).
 
 ---
-
-
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>
 
 ## Wanneer is een aggregaat beter dan een powerstation?
 
@@ -376,48 +378,34 @@ Het is een terechte vraag: er zijn situaties waarin een benzine-aggregaat gewoon
 
 **Kosten vergelijking over 5 jaar:**
 
-| Factor | Aggregaat 2.500W | EcoFlow Delta 2 Max |
+| Factor | Aggregaat 2.500 W | EcoFlow Delta 2 Max |
 |--------|-----------------|---------------------|
-| Aanschaf | €400-€700 | €1.799 |
-| Brandstof (3 storingen/jaar, 6 uur) | €90/jaar = €450 | €0 |
-| Onderhoud (olie, bougie) | €50/jaar = €250 | €0 |
-| Opslag (brandstof risico) | Complicerend | Geen |
-| **Totaal 5 jaar** | **€1.100-€1.400** | **€1.799** |
+| Aanschaf | €400-€700 (marktrange, geen bron per model) | €949 (nl.ecoflow.com, 21-8-2026) |
+| Brandstof (aanname: 3 storingen per jaar van 6 uur) | circa €90 per jaar = €450 | €0 |
+| Onderhoud (olie, bougie; aanname) | circa €50 per jaar = €250 | €0 |
+| **Totaal 5 jaar (modelberekening)** | **€1.100-€1.400** | **€949** |
 
-Het aggregaat is na 5 jaar nog steeds goedkoper. Maar je koopt ook: lawaai, uitlaatgassen, handmatig starten, geen zonne-oplading, en de mentale belasting van brandstof bijhouden.
+**Aannames van dit model:** drie storingen van zes uur per jaar, brandstof- en onderhoudsbedragen als schatting zonder bron per post, en geen restwaarde aan het eind. Verandert de storingsfrequentie, dan verschuift de uitkomst mee: bij één storing per jaar zakken de brandstofkosten van het aggregaat en komen de twee opties dichter bij elkaar.
 
-Voor stedelijke huishoudens is een powerstation bijna altijd de betere keuze. Voor een boerderij in een gebied met regelmatige lange storingen: aggregaat wint op totaalkosten.
+Met de prijs van augustus 2026 komt het powerstation in dit model lager uit dan het aggregaat, en dat is een omslag ten opzichte van vorige jaren toen de grote powerstations nog rond de €1.800 stonden. Daar komt bij wat je bij een aggregaat óók koopt: lawaai, uitlaatgassen, handmatig starten, geen zonne-oplading en brandstof die je moet bijhouden. Alleen bij een echt hoge vermogensvraag (werkplaats, boerderij) of storingen van meerdere dagen zonder zon blijft het aggregaat inhoudelijk de betere keuze.
 
 ---
 
-## Jaarberekening: wat kost stroomuitval zonder voorbereiding?
+## Wat een storing praktisch kost
 
-Hieronder de financiële schade van onvoorbereide stroomuitval, doorgerekend voor een gemiddeld huishouden.
+Wij rekenen hier geen totaalschade voor: bedragen voor hotelovernachtingen of "gemist werk" zijn geen kosten die zich laten narekenen, en als verkoopargument zeggen ze meer over de verkoper dan over jouw situatie. Wat wél concreet is, is het voedsel in je vriezer.
 
-**Stroomuitval van 6 uur in de zomer (koelkast + vriezer + ongemak)**
+Een goed gevulde vriezer houdt zonder stroom ongeveer een dag zijn temperatuur als je hem dicht laat; een koelkast een paar uur. Wat je bij ontdooiing verliest, is dus simpelweg de inkoopwaarde van de inhoud, en die weet je zelf beter dan wij. De praktische conclusie is niet financieel maar operationeel: zet bij een storing als eerste de koeling op het powerstation en houd de deur dicht, want een koelkast van 50 W gemiddeld kost je maar 400 Wh in acht uur.
 
-| Schadepost | Kosten |
-|-----------|--------|
-| Vriezerverlies (deels ontdooiing): gemiddeld | €80-€120 |
-| Koelkastinhoud (gedeeltelijk bederf) | €30-€60 |
-| Hotelkosten bij langer uitval + CPAP-gebruiker | €80-€150 per nacht |
-| Werkproductiviteitsverlies (thuiswerker, 6 uur) | €150-€300 |
-| Verlies thuisbeveiligingssysteem (alarm uit) | Variabel |
-| **Totaal potentiële schade** | **€340-€630** |
-
-Bij een powerstation van €649 (Bluetti AC70) vermijd je deze schade volledig bij elke stroomstoring. De investering betaalt zichzelf terug bij één serieuze storing.
+Twee situaties waarin de afweging niet over geld gaat: medische apparatuur die niet uit mag (een CPAP kost circa 30 tot 60 W, dus een basisstation dekt een hele nacht) en een woning waarvan de cv-ketel bij vorst stilvalt. Wie daarmee te maken heeft, koopt geen noodstroom om schade te vermijden maar om een risico weg te nemen.
 
 ---
 
 ## Wettelijk kader 2026: wanneer heb je recht op schadevergoeding?
 
-**Recht op schadevergoeding bij stroomuitval:**
-Netbeheerders zijn wettelijk verplicht een schadevergoeding te betalen als de stroomstoring voldoet aan specifieke criteria:
-- Storing langer dan 4 uur: recht op vergoeding van €35-€135 per dag (afhankelijk van doorlooptijd)
-- Storing door overmacht (storm, watersnood): geen vergoeding
-- Storing door technisch falen of slecht onderhoud: wel vergoeding
+**Compensatieregeling bij een langdurige onderbreking.** Voor kleinverbruikers geldt een vaste compensatie **per storing**, niet per dag. De regeling begint bij een onderbreking van meer dan vier uur en loopt in stappen op met de duur van die ene storing. De actuele bedragen per staffel staan in de compensatieregeling die de ACM publiceert en op de site van je eigen netbeheerder; wij nemen hier geen bedragen over die wij niet per staffel hebben kunnen verifiëren.
 
-**Meldingsprocedure:** Bij een storing langer dan 4 uur meld je dit schriftelijk bij je netbeheerder. Je hebt 3 jaar de tijd voor een claim. In 2025 keerden Liander en Enexis samen €2,4 miljoen uit aan compensaties voor lange storingen.
+Twee dingen die vaak verkeerd begrepen worden: de compensatie is een vast bedrag voor de onderbreking zelf en géén vergoeding van jouw werkelijke schade, en netbeheerders keren die in veel gevallen automatisch uit — je hoeft dus niet altijd zelf te claimen. Controleer bij je netbeheerder hoe dat bij jou loopt en binnen welke termijn je een melding moet doen.
 
 **Aansprakelijkheid bij schade aan apparaten:**
 Als een netbeheerder een spanningspiek veroorzaakt die jouw apparaat beschadigt, kun je schade verhalen via de netbeheerder. Dit vereist een technisch rapport en aankoopbewijs. Met een powerstation en een goede UPS-bescherming vermijd je dit volledig.
@@ -438,4 +426,4 @@ Als een netbeheerder een spanningspiek veroorzaakt die jouw apparaat beschadigt,
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk het EcoFlow-assortiment</a>

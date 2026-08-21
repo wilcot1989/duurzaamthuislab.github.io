@@ -1,7 +1,7 @@
 ---
 title: 'EcoFlow Delta 2 Max review 2026: specs en verschil met de Delta 2'
 date: 2026-03-01 12:00:00+01:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: 'EcoFlow Delta 2 Max review 2026: specs, laadsnelheid, autonomie en nadelen — plus het verschil met de gewone EcoFlow Delta 2, zodat je het juiste model kiest.'
 categories:
 - powerstations
@@ -26,43 +26,40 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
 - q: Is de EcoFlow Delta 2 Max de moeite waard in 2026?
-  a: Ja. Met 2048Wh capaciteit, 2400W continu vermogen, razendsnel X-Stream opladen en een uitstekende app is de Delta 2 Max nog steeds een van de beste allround powerstations op de markt.
+  a: 'Op de specificaties wel: 2.048 Wh, 2.400 W continu, een AC-laadingang van 2.300 W en vijf jaar garantie is in deze klasse een sterke combinatie. Op nl.ecoflow.com stond het station op 21 augustus 2026 op €949, afgeprijsd van €1.199 — bij dat bedrag komt de prijs per Wh op circa €0,46. Wij hebben dit toestel niet zelf getest; ons oordeel gaat over de specificaties en de doorgerekende scenario''s in dit artikel.'
 - q: Hoe snel laadt de EcoFlow Delta 2 Max op?
-  a: Via een stopcontact laadt de Delta 2 Max dankzij X-Stream technologie op van 0 naar 80% in ongeveer 65 minuten. Een volledige lading duurt circa 80 minuten.
+  a: 'De AC-laadingang is volgens de productpagina 2.300 W. EcoFlow noemt daarbij 0 tot 80 procent in ongeveer 65 minuten en een volledige lading in circa 80 minuten. Die orde van grootte is narekenbaar: 2.048 Wh bij 2.300 W is theoretisch 53 minuten, en de laatste 20 procent laadt altijd langzamer.'
 - q: Kan ik de Delta 2 Max opladen met zonnepanelen?
-  a: Ja, de Delta 2 Max ondersteunt tot 500W solar-input via XT60-aansluiting. Met twee 220W EcoFlow-zonnepanelen laad je het station in 3-6 uur volledig op, afhankelijk van de zonnestand.
+  a: 'Ja. De opgave op de Nederlandse productpagina is 11-60 V, 15 A, met 500 W per poort en 1.000 W als je beide zonne-ingangen gebruikt. Met twee panelen van 220 W kom je in de praktijk niet aan die 1.000 W: hoek, bewolking en paneeltemperatuur bepalen de werkelijke input.'
 - q: Is de EcoFlow Delta 2 Max geschikt als noodstroom thuis?
   a: Absoluut. De Delta 2 Max heeft een UPS-functie (automatische omschakeling in minder dan 30 milliseconden) en kan je belangrijkste apparaten urenlang van stroom voorzien bij een stroomstoring.
 - q: Hoe zwaar is de EcoFlow Delta 2 Max?
   a: De Delta 2 Max weegt 23 kg. Dat is stevig, maar dankzij de twee handgrepen is het station door één persoon te tillen en te verplaatsen.
-- q: Wat is het verschil tussen de EcoFlow Delta 2 Max en de Jackery Explorer 2000 Plus?
-  a: De Delta 2 Max laadt sneller op en is lichter. De Jackery 2000 Plus biedt meer continu vermogen (3000W vs 2400W) en is uitbreidbaar tot 24kWh. Lees onze uitgebreide EcoFlow vs Jackery vergelijking voor meer details.
+- q: Wat is het verschil tussen de EcoFlow Delta 2 Max en de Jackery Explorer 2000 v2?
+  a: 'De capaciteit is vergelijkbaar (2.048 tegen 2.042 Wh). De Delta 2 Max heeft meer continu vermogen (2.400 tegen 2.200 W) en een hogere zonne-input; de Jackery is 5,5 kg lichter en heeft een hogere cyclusopgave (4.000 tegen 3.000). Let op de modelnaam: de bekendere Explorer 2000 Plus met 3.000 W stond op 21 augustus 2026 niet in het Nederlandse assortiment op nl.jackery.com.'
 - q: Hoe lang gaat de batterij van de Delta 2 Max mee?
   a: De LFP-batterij (LiFePO4) gaat circa 3000 laadcycli mee voordat de capaciteit naar 80% daalt. Bij wekelijks gebruik is dat meer dan 10 jaar.
 products:
 - name: EcoFlow Delta 2 Max
   url: https://go.duurzaamthuislab.nl/ecoflow
-  price: '1799'
-- name: Jackery Explorer 2000 Plus
+  price: '949'
+- name: Jackery Explorer 2000 v2
   url: https://go.duurzaamthuislab.nl/jackery
-  price: '2299'
-- name: Bluetti AC200MAX
-  url: https://go.duurzaamthuislab.nl/bluetti-eu
-  price: '1899'
+  price: '899'
+- name: EcoFlow Delta 2
+  url: https://go.duurzaamthuislab.nl/ecoflow
+  price: '599'
 schema_type: Review
 ---
-De EcoFlow Delta 2 Max heeft de lat in het middensegment van de powerstations hoog gelegd: volgens de specificaties van 0 naar 80 procent in 65 minuten, 2048 Wh capaciteit, dertien uitgangen en een app die daadwerkelijk doet wat je ervan verwacht. Maar is dat in 2026 nog genoeg? Deze review is opgebouwd uit de specificaties, de handleiding, geverifieerde gebruikersreviews en een doorgerekend autonomiemodel, zodat je kunt beoordelen of dit station bij jouw gebruik past.
+De EcoFlow Delta 2 Max zit in de klasse van 2 kWh met een AC-laadingang van 2.300 W: 2.048 Wh capaciteit, dertien uitgangen en van 0 naar 80 procent in circa 65 minuten volgens de fabrieksopgave. Deze review is opgebouwd uit de specificaties op de Nederlandse EcoFlow-productpagina (opgehaald op 21 augustus 2026) en doorgerekende modellen met expliciete aannames. Wij hebben dit station niet zelf getest of doorgemeten; waar een cijfer uit een berekening komt, staat dat er nadrukkelijk bij.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
 ---
 
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Uitgebreide EcoFlow Delta 2 Max review. Bekijk specs, prestaties, voor- en nadelen en ontdek of dit het beste powerstation van 2026 is.
+> **Kort antwoord:** de Delta 2 Max is het station voor wie een koelkast plus netwerk een halve dag wil laten doorlopen of gereedschap wil voeden: 2.048 Wh, 2.400 W continu, 4.800 W piek en een UPS-functie, in een behuizing van 23 kg.
 >
-> Ja. Met 2048Wh capaciteit, 2400W continu vermogen, razendsnel X-Stream opladen en een uitstekende app is de Delta 2 Max nog steeds een van de beste allround powerstations op de markt.
+> Op nl.ecoflow.com stond het toestel op 21 augustus 2026 op €949 (van €1.199). Bij dat bedrag is dit in het EcoFlow-assortiment het gunstigste punt in de 2 kWh-klasse; wil je vooral draagbaarheid, dan is de [Delta 2](/posts/ecoflow-delta-2-review-2026/) met 1.024 Wh en 12 kg de logischer keuze.
 
 ## Zoek je de Delta 2 of de Delta 2 Max?
 
@@ -72,13 +69,15 @@ Deze twee modellen worden vaak door elkaar gehaald, en dat is een dure verwissel
 |---|---|---|
 | Capaciteit | 1.024 Wh | 2.048 Wh |
 | Continu vermogen (AC) | 1.800 W | 2.400 W |
-| Piek / X-Boost | 2.700 W piek, 2.200 W X-Boost | 4.800 W piek, 3.400 W X-Boost |
-| Max. solar-input | 500 W | 500 W |
+| Piek / X-Boost | 2.700 W piek, 2.400 W X-Boost | 4.800 W piek, 3.400 W X-Boost |
+| Max. zonne-input | 500 W | 500 W per poort, 1.000 W met twee poorten |
+| AC-laadingang | 1.200 W | 2.300 W |
+| Prijs (NL, 21-8-2026) | €599 | €949 (van €1.199) |
 | Gewicht | circa 12 kg | 23 kg |
 | Uitbreidbaar | Ja, tot 3 kWh | Ja, tot circa 6 kWh |
 | Positionering | weekendcamping, lichte noodstroom | koelkast plus netwerk een nacht door, werk op locatie |
 
-*Bron: fabrieksspecificaties van EcoFlow. Controleer de actuele opgave bij aanschaf; EcoFlow past de opgegeven waarden per productiebatch soms aan.*
+*Bron: de Nederlandse productpagina's van EcoFlow, opgehaald op 21 augustus 2026. De prijzen zijn actieprijzen die per periode wisselen — controleer ze op het moment van aankoop.*
 
 **Welke past bij jou?** Draag je het station regelmatig zelf en gebruik je het vooral voor telefoons, verlichting en een koelbox in het weekend: dan is de Delta 2 ruim genoeg en scheelt de helft in gewicht. Wil je een koelkast plus router en laptop een hele nacht door laten lopen, of zwaarder gereedschap voeden, dan is de Max de juiste keuze — het verschil zit vooral in capaciteit en continu vermogen, niet in de laadtechniek.
 
@@ -93,8 +92,8 @@ Voordat we dieper duiken, hier de belangrijkste technische gegevens van de EcoFl
 | **Continu vermogen (AC)** | 2400 W |
 | **Piekvermogen** | 4800 W |
 | **X-Boost vermogen** | Tot 3400 W |
-| **AC-laadsnelheid** | 0-80% in ~65 min |
-| **Max. solar-input** | 500 W |
+| **AC-laadingang** | 2.300 W (0-80% in circa 65 min volgens EcoFlow) |
+| **Max. zonne-input** | 500 W per poort, 1.000 W met twee poorten |
 | **AC-uitgangen** | 6x Schuko (230V) |
 | **USB-C** | 2x (waarvan 1x 100W) |
 | **USB-A** | 2x (waarvan 1x Quick Charge 3.0) |
@@ -104,27 +103,21 @@ Voordat we dieper duiken, hier de belangrijkste technische gegevens van de EcoFl
 | **Levensduur** | ~3000 cycli tot 80% |
 | **App-bediening** | Ja (Wi-Fi en Bluetooth) |
 | **Garantie** | 5 jaar |
+| **Prijs (NL, 21-8-2026)** | €949 (van €1.199) |
 
 ---
 
-## Design en bouwkwaliteit
+## Formaat, gewicht en display
 
-De EcoFlow Delta 2 Max maakt meteen indruk. Het is een stevig, goed afgewerkt apparaat met een industrieel maar modern uiterlijk in donkergrijs. De behuizing voelt solide aan en geeft het vertrouwen dat het een stootje kan hebben -- belangrijk als je het meeneemt naar de camping of een bouwlocatie.
+Wij hebben dit toestel niet in handen gehad, dus over afwerking en materiaalgevoel doen wij geen uitspraak. Wat er wél over te zeggen valt, staat in de specificaties.
 
-### Handgrepen en draagbaarheid
+### Gewicht in perspectief
 
-Met 23 kg is de Delta 2 Max geen lichtgewicht, maar voor een powerstation met 2048Wh capaciteit is dat redelijk. De twee ingeklapte handgrepen aan de bovenkant maken het mogelijk om het station met twee handen te dragen. In de praktijk is het prima door één persoon te tillen, maar voor langere afstanden is het wel pittig. Vergelijk dat met de [Jackery Explorer 2000 Plus](/posts/jackery-explorer-2000-plus-review-2026/), die bijna 28 kg weegt.
+23 kg bij 2.048 Wh komt neer op circa 89 Wh per kilo. Dat is in de 2 kWh-klasse gunstig: de Bluetti AC200MAX weegt bij dezelfde capaciteit 27,5 kg en de Jackery Explorer 2000 Plus 27,9 kg. Alleen de [Jackery Explorer 2000 v2](/posts/jackery-explorer-2000-v2-vs-plus-2026/) gaat daar met 17,5 kg bij 2.042 Wh onder. Praktisch is 23 kg de grens waarboven je een station neerzet en laat staan in plaats van het regelmatig mee te nemen.
 
-### Display
+### Display en app-informatie
 
-Het frontpaneel heeft een helder, informatief LCD-scherm dat de volgende informatie toont:
-
-- Huidige laadstatus (percentage en resterende tijd)
-- Ingangs- en uitgangsvermogen in watt
-- Temperatuurindicatie
-- Actieve uitgangen
-
-Het display is goed afleesbaar in direct zonlicht, wat een pluspunt is voor buitengebruik. Je kunt de helderheid aanpassen via de app.
+Het frontpaneel heeft een LCD-scherm dat de laadstatus in procenten en resterende tijd, het ingangs- en uitgangsvermogen in watt, een temperatuurindicatie en de actieve uitgangen toont. De helderheid is via de app instelbaar. Hoe goed dat scherm in direct zonlicht leesbaar is, kunnen wij niet beoordelen zonder het toestel te gebruiken.
 
 ---
 
@@ -150,18 +143,18 @@ Dit is waar de EcoFlow Delta 2 Max echt uitblinkt. Dankzij de gepatenteerde **X-
 
 | Laadmethode | Snelheid |
 |---|---|
-| **AC (stopcontact)** | 0-80% in ~65 min, 0-100% in ~80 min |
-| **Zonnepaneel (max 500W)** | 3-6 uur (afhankelijk van panelen en condities) |
-| **Auto-oplader (12V)** | ~10-12 uur |
-| **AC + Solar (gecombineerd)** | Nog sneller, tot ~2300W input |
+| **AC (stopcontact)** | 2.300 W ingang; 0-80% in circa 65 min, 0-100% in circa 80 min (opgave EcoFlow) |
+| **Zonnepaneel** | 500 W per poort, 1.000 W met twee poorten; bij 500 W effectief circa 4 uur, bij minder zon fors langer |
+| **Auto-oplader (12V)** | circa 10-12 uur (opgave EcoFlow) |
+| **AC + zon gecombineerd** | sneller dan AC alleen, maar de AC-ingang van 2.300 W is al de bepalende factor |
 
-De AC-laadsnelheid is buitengewoon. In iets meer dan een uur heb je het station volledig opgeladen -- ideaal als je 's ochtends vergeet bent en snel wilt vertrekken naar de camping. Ter vergelijking: veel concurrenten hebben twee tot drie uur nodig voor een volledige lading.
+De AC-laadsnelheid is het sterkste punt van dit station. **Modelberekening:** 2.048 Wh bij een ingang van 2.300 W is theoretisch 53 minuten voor een volledige lading als het laadvermogen constant zou zijn. De opgave van 80 procent in 65 minuten en vol in circa 80 minuten past daar goed bij, want de laatste 20 procent laadt altijd langzamer. Ter vergelijking: de Delta 2 heeft een ingang van 1.200 W en de Jackery Explorer 2000 v2 laadt volgens Jackery in 1,33 uur vol.
 
 ### Opladen met zonnepanelen
 
-Met een maximale solar-input van 500W kun je de Delta 2 Max prima off-grid opladen. EcoFlow biedt bijpassende opvouwbare zonnepanelen aan (110W, 220W en 400W). Met twee 220W-panelen bereik je onder goede omstandigheden de maximale input en laad je het station in circa 4 uur op.
+Met 500 W per zonne-ingang en 1.000 W over twee ingangen kun je de Delta 2 Max off-grid opladen. EcoFlow biedt bijpassende opvouwbare zonnepanelen aan. Met twee panelen van 220 W kom je onder goede omstandigheden op circa 440 W, en dan is het station in ruwweg vier tot vijf uur vol.
 
-De MPPT-controller optimaliseert automatisch het laadproces. Reken er wel op dat de opgegeven 500 W een maximum onder ideale omstandigheden is: hoek, bewolking en paneeltemperatuur bepalen de werkelijke input, en dat geldt voor elk powerstation. Gebruikersreviews noemen dit consequent als het grootste verschil tussen specificatie en praktijk.
+De MPPT-controller optimaliseert automatisch het laadproces. Let op het verschil tussen de twee opgaven: 500 W is het maximum per zonne-ingang, 1.000 W haal je alleen als je beide ingangen gebruikt. En ook die 1.000 W is een maximum onder ideale omstandigheden — hoek, bewolking en paneeltemperatuur bepalen de werkelijke input. In Nederland is een volle lading op één zonnige dag met twee panelen van 220 W haalbaar, en op een grijze dag niet.
 
 ---
 
@@ -176,7 +169,7 @@ De **EcoFlow-app** (beschikbaar voor iOS en Android) biedt uitgebreide controle 
 - **AC-laadsnelheid beperken** (bijv. bij gebruik op een camping met beperkte stroomaansluiting)
 - **UPS-modus configureren**
 
-De app wordt in gebruikersreviews overwegend positief beoordeeld; het meest terugkerende minpunt is een trage verbindingsopbouw via Bluetooth, waar de Wi-Fi-verbinding stabieler is. Een praktische functie is de melding wanneer de batterij vol is of onder een ingesteld percentage zakt.
+Twee van deze functies zijn bij noodstroom het nuttigst: de instelbare laadsnelheid (die het ventilatorgeluid beperkt) en de meldingen wanneer het station vol is of onder een ingesteld percentage zakt. Een station dat halfleeg in de kast staat is bij een storing weinig waard.
 
 ---
 
@@ -221,7 +214,7 @@ De **X-Boost technologie** is een slimme functie die het effectieve uitgangsverm
 Een punt dat installateurs en reviewers vaak overslaan: hoe gedraagt het powerstation zich bij extreme situaties?
 
 **LFP = thermisch veilig:**
-LFP-cellen (LiFePO4) hebben een thermische stabiliteitstemperatuur van >270°C, versus ~150°C voor NMC-cellen. In de praktijk betekent dit dat LFP-accu's niet spontaan vlam vatten bij oplaadfouten of beschadiging — ze produceren rook en gas maar geen open vlammen (in de meeste scenario's).
+LFP-cellen (LiFePO4) gaan bij een veel hogere temperatuur over in thermal runaway dan de oudere NMC-chemie. Dat maakt het risico bij overladen of beschadiging kleiner, maar het is geen garantie: ook een LFP-cel kan bij aanhoudende extreme hitte of mechanische schade gas afgeven en in brand raken. Behandel het toestel dus als een lithiumbatterij, niet als een onbrandbaar object.
 
 **BMS-bescherming:**
 De Delta 2 Max heeft een volledig batterijmanagementsysteem dat beschermt tegen:
@@ -246,18 +239,20 @@ Een belangrijk punt voor campinggebruik is het geluid. De Delta 2 Max heeft inge
 
 Hoe verhoudt de Delta 2 Max zich tot andere populaire powerstations in dezelfde klasse?
 
-| Eigenschap | EcoFlow Delta 2 Max | Jackery Explorer 2000 Plus | Bluetti AC200MAX |
+| Eigenschap | EcoFlow Delta 2 Max | Jackery Explorer 2000 v2 | Bluetti AC200MAX |
 |---|---|---|---|
-| **Capaciteit** | 2048 Wh | 2042 Wh | 2048 Wh |
-| **Continu vermogen** | 2400 W | 3000 W | 2200 W |
-| **Gewicht** | 23 kg | 27,9 kg | 27,5 kg |
-| **AC-laadtijd (0-80%)** | ~65 min | ~90 min | ~100 min |
-| **Solar-input max** | 500 W | 1200 W | 900 W |
-| **Uitbreidbaar** | Ja (extra batterij) | Ja (tot 24 kWh) | Ja (2x B230) |
-| **Batterijtype** | LFP | LFP | LFP |
-| **Prijs (ca.)** | €1.799 | €1.899 | €1.699 |
+| **Capaciteit** | 2.048 Wh | 2.042 Wh | 2.048 Wh |
+| **Continu vermogen** | 2.400 W | 2.200 W nominaal | 2.200 W |
+| **Gewicht** | 23 kg | 17,5 kg | 27,5 kg |
+| **Laden via net** | 0-80% in circa 65 min (2.300 W ingang) | 0-100% in 1,33 uur | 0-80% in circa 100 min |
+| **Zonne-input max** | 500 W per poort, 1.000 W dubbel | geen maximum op de NL-productpagina | 900 W (opgave Bluetti) |
+| **Uitbreidbaar** | Ja (extra accu, tot circa 4 kWh) | geen uitbreidingsaccu op de NL-productpagina | Ja (2x B230, opgave Bluetti) |
+| **Cycli** | 3.000 tot 80% | 4.000 | 3.500 tot 80% (opgave Bluetti) |
+| **Prijs (NL, 21-8-2026)** | €949 (van €1.199) | €899 (van €1.599) | niet door ons geverifieerd |
 
-De Delta 2 Max wint op **laadsnelheid** en **gewicht**. De [Jackery Explorer 2000 Plus](/posts/jackery-explorer-2000-plus-review-2026/) scoort beter op **continu vermogen** en **uitbreidbaarheid**. De Bluetti AC200MAX is de **voordeligste** optie maar laadt trager. Benieuwd naar een uitgebreide vergelijking? Lees ons artikel [EcoFlow vs Jackery: welk merk is beter?](/posts/ecoflow-vs-jackery-2026/).
+De Delta 2 Max wint op **continu vermogen**, **laadsnelheid** en **zonne-input**. De [Jackery Explorer 2000 v2](/posts/jackery-explorer-2000-v2-vs-plus-2026/) wint op **gewicht** (10 kg minder dan de Bluetti, 5,5 kg minder dan de EcoFlow) en op **cyclusopgave**. Voor de Bluetti AC200MAX konden wij op 21 augustus 2026 geen prijs verifiëren; die vergelijking moet je zelf op het moment van aankoop maken.
+
+**Let op de Jackery-modelnaam.** In veel vergelijkingen staat op deze plek de Explorer 2000 Plus met 3.000 W continu en uitbreiding tot 12 kWh. Dat model stond op 21 augustus 2026 niet in het Nederlandse assortiment op nl.jackery.com. Heb je meer dan 2.400 W continu nodig, dan is dat de reden om de Plus internationaal op te sporen — met de garantievraag die daarbij hoort. Benieuwd naar de bredere merkvergelijking? Lees [EcoFlow vs Jackery](/posts/ecoflow-vs-jackery-2026/).
 
 ---
 
@@ -265,7 +260,7 @@ De Delta 2 Max wint op **laadsnelheid** en **gewicht**. De [Jackery Explorer 200
 
 ### Voordelen
 
-- **Razendsnel opladen** -- van 0 naar 80% in 65 minuten via stopcontact
+- **Snel opladen** -- van 0 naar 80% in circa 65 minuten via een ingang van 2.300 W
 - **Licht voor zijn klasse** -- 23 kg is beduidend lichter dan vergelijkbare modellen
 - **Uitgebreide aansluitingen** -- 13 uitgangen dekken elke behoefte
 - **Uitstekende app** -- volledig controle, firmware-updates en monitoring
@@ -276,10 +271,10 @@ De Delta 2 Max wint op **laadsnelheid** en **gewicht**. De [Jackery Explorer 200
 
 ### Nadelen
 
-- **Prijs** -- met €1.799 is het een serieuze investering
-- **Gewicht** -- 23 kg is niet ideaal voor lange wandelingen of fietstochten
-- **Ventilatorgeluid bij snelladen** -- hoorbaar bij X-Stream laden
-- **Solar-input beperkt tot 500W** -- de Jackery 2000 Plus biedt hier meer (1200W)
+- **Prijs** -- €949 blijft een serieuze investering voor iets wat je hopelijk zelden nodig hebt
+- **Gewicht** -- 23 kg is 5,5 kg meer dan de Jackery Explorer 2000 v2 bij dezelfde capaciteit
+- **Ventilatorgeluid bij snelladen** -- de koeling draait het hardst bij laden op vol vermogen
+- **1.000 W zonne-input vraagt twee ingangen** -- met één paneelstring blijf je op 500 W
 - **Niet waterdicht** -- vereist bescherming tegen regen bij buitengebruik
 
 ---
@@ -310,12 +305,12 @@ Twee technologieën die EcoFlow onderscheiden: X-Stream (laden) en X-Boost (ontl
 
 Traditionele powerstations bevatten een externe stroomadapter die wisselstroom (230V AC) omzet naar gelijkstroom (DC) voor de batterij. Deze adapter is beperkt in vermogen (typisch 200-400W).
 
-X-Stream elimineert de externe adapter: de Delta 2 Max accepteert 230V AC direct en zet dit intern om via een geïntegreerde, hoog-efficiënte PFC (Power Factor Correction) omvormer. Dit laat laadinput toe van 1.500-2.200W — tot 5× meer dan traditionele systemen.
+X-Stream elimineert de externe adapter: de Delta 2 Max accepteert 230 V AC direct en zet dat intern om. De opgegeven AC-laadingang op de Nederlandse productpagina is 2.300 W bij 10 A.
 
 **In cijfers:**
-- Traditioneel powerstation (400W adapter): 2.048 Wh / 400W = 5,1 uur volledig laden
-- Delta 2 Max (X-Stream, 1.500W): 2.048 Wh / 1.500W = 1,4 uur volledig laden
-- Opgave van de fabrikant: 80% in 65 minuten, 100% in 80 minuten
+- Traditioneel powerstation met een adapter van 400 W: 2.048 Wh / 400 W = 5,1 uur volledig laden
+- Delta 2 Max bij de opgegeven 2.300 W: 2.048 Wh / 2.300 W = circa 53 minuten theoretisch
+- Opgave van de fabrikant: 80 procent in 65 minuten, 100 procent in 80 minuten
 
 De laatste 20% (80-100%) laadt altijd langzamer — dit is de constant voltage fase die de levensduur beschermt. Normaal bij elk LFP-systeem.
 
@@ -340,14 +335,16 @@ De Delta 2 Max gebruikt LFP (LiFePO4) cellen — niet de oudere NMC-technologie.
 
 EcoFlow garandeert 3.000 cycli tot 80% restcapaciteit. Wat betekent dit in de praktijk?
 
-| Gebruik | Cycli per jaar | Jaar bereik 3.000 cycli | Capaciteit dan |
-|---|---|---|---|
-| Dagelijks volledig laden/ontladen | 365 | 8,2 jaar | 80% (~1.638 Wh) |
-| Elke 3 dagen (thuis back-up) | 120 | 25 jaar | 80% (~1.638 Wh) |
-| Wekelijks (camping + noodstroom) | 52 | 57,7 jaar | 80% |
-| 2× per maand (sporadisch) | 24 | 125 jaar | 80% |
+| Gebruik | Cycli per jaar | Rekenkundig bereik 3.000 cycli |
+|---|---|---|
+| Dagelijks volledig laden/ontladen | 365 | circa 8 jaar |
+| Elke 3 dagen (thuis back-up) | 120 | circa 25 jaar |
+| Wekelijks (camping + noodstroom) | 52 | ruim 50 jaar |
+| 2× per maand (sporadisch) | 24 | meer dan een eeuw |
 
-Voor de meeste gebruikers overstijgt de cycluslevensduur de praktische gebruiksduur ruimschoots. De elektronica rondom de batterij (display, BMS-chips, USB-poorten) gaat waarschijnlijk eerder kapot dan de cellen.
+Die laatste twee rijen laten precies zien waarom je zo'n rekensom niet als levensduur mag lezen. Een lithiumcel veroudert ook zonder gebruik: kalenderveroudering, opslagtemperatuur en het laadniveau tijdens stilstand bepalen bij recreatief gebruik hoe lang het station meegaat, niet het cyclusaantal. Daar komt bij dat de elektronica rondom de cellen (display, BMS, USB-poorten) en de app-ondersteuning eerder het einde van de praktische levensduur markeren.
+
+De bruikbare conclusie is dus: bij dagelijks gebruik is het cyclusaantal de maat en kom je op circa acht jaar uit. Bij een paar keer per jaar is de vraag hoe je het toestel bewaart, en dan is de garantietermijn van vijf jaar het enige harde getal dat je in handen hebt.
 
 **Tip: laad op de goedkope uren**
 Heb je een dynamisch energiecontract, dan kun je de laadmomenten van het station bewust in de goedkoopste uren zetten — de app laat je de laadsnelheid en het laadmoment instellen. Welke uren dat vandaag zijn, staat op onze pagina met [dynamische stroomprijzen per uur](/stroomprijzen/).
@@ -364,7 +361,7 @@ Het geluid van een powerstation komt volledig van de koelventilatoren, en die sc
 - **Alleen USB-verbruik of een enkele lamp:** de ventilatoren blijven grotendeels uit. Het station is dan praktisch stil.
 - **Enkele honderden watt op de AC-uitgangen:** de ventilatoren draaien op laag toerental. Hoorbaar in een stille kamer, wegvallend in achtergrondgeluid.
 - **Zware belasting richting 2.400 W:** duidelijk hoorbaar, vergelijkbaar met een draaiende afzuigkap op de laagste stand.
-- **X-Stream snelladen:** de luidste situatie, omdat er dan het meeste vermogen door de elektronica gaat. Dit is het punt dat in gebruikersreviews het vaakst als minpunt terugkomt.
+- **X-Stream snelladen:** de luidste situatie, omdat er dan het meeste vermogen door de elektronica gaat — bij een ingang van 2.300 W draait de koeling op vol toerental.
 
 Praktische oplossing voor wie het station 's nachts naast een tent of in een slaapkamer heeft staan: begrens de laadsnelheid in de app. Laden op een paar honderd watt in plaats van op vol vermogen houdt de ventilatoren uit, ten koste van een langere laadtijd. Dat is precies waarom die instelbare laadsnelheid meer waard is dan het op het eerste gezicht lijkt.
 
@@ -379,13 +376,13 @@ De Delta 2 Max is ideaal voor:
 - **ZZP'ers en professionals** die op locatie werken en betrouwbare stroom nodig hebben voor professionele apparatuur.
 - **Festival- en evenementenbezoekers** die comfort willen zonder afhankelijk te zijn van generatoren.
 
-Het station is minder geschikt als je zoekt naar een ultralicht model voor hiking (bekijk dan de [EcoFlow River 2](/posts/beste-draagbare-powerstation-2026/)) of als je maximale uitbreidbaarheid wilt (dan is de Jackery 2000 Plus interessanter).
+Het station is minder geschikt als je een licht toestel zoekt om mee te nemen — kijk dan naar de [EcoFlow River 2 Pro](/posts/ecoflow-river-2-pro-review-2026/) (7,8 kg) of de [Delta 2](/posts/ecoflow-delta-2-review-2026/) (12 kg) — of als je een station regelmatig zelf tilt: dan is de Jackery Explorer 2000 v2 met 17,5 kg bij dezelfde capaciteit de betere keuze.
 
 ---
 
 ## Uitbreidingsbatterij: wanneer is het de moeite waard?
 
-De EcoFlow Delta 2 Max is uitbreidbaar met de Delta 2 Max Extra Battery (2.048 Wh extra) waarmee je de totale capaciteit verdubbelt naar 4.096 Wh. De extra batterij kost circa €1.100-€1.400.
+De EcoFlow Delta 2 Max is uitbreidbaar met de Delta 2 Max Extra Battery (2.048 Wh extra) waarmee je de totale capaciteit verdubbelt naar 4.096 Wh. De prijs van die accu stond op 21 augustus 2026 niet als los bedrag op de pagina die wij hebben opgehaald; controleer die zelf en zet hem af tegen de €949 van het station. De rekenregel is simpel: kost de accu meer dan het station zelf, dan koop je goedkoper capaciteit met een tweede station.
 
 **Wanneer is de uitbreiding zinvol?**
 
@@ -399,32 +396,24 @@ De EcoFlow Delta 2 Max is uitbreidbaar met de Delta 2 Max Extra Battery (2.048 W
 
 De extra batterij sluit eenvoudig aan via de speciale poort aan de zijkant — geen gereedschap nodig. Het systeem laadt beide batterijen gelijktijdig via dezelfde AC-ingang.
 
-**Alternatieven:**
-Als je 4 kWh nodig hebt, overweeg ook de Jackery Explorer 2000 Plus (2.042 Wh basis, goedkoper per Wh bij uitbreiding) of de Bluetti AC200MAX + B230 (4.096 Wh totaal voor vergelijkbare prijs). De EcoFlow-uitbreiding heeft als voordeel de eenvoudige integratie en de bekende EcoFlow-app.
+**Alternatieven.** Wie richting 4 kWh wil, kan ook naar de Bluetti AC200MAX met een B230-module kijken (4.096 Wh totaal volgens Bluetti). De uitbreidbare Jackery Explorer 2000 Plus is in dit rijtje niet meer de vanzelfsprekende optie: dat model stond op 21 augustus 2026 niet in het Nederlandse assortiment. Het voordeel van de EcoFlow-route is dat station en accu via dezelfde poort en dezelfde app werken.
 
 ## Prijs en waar te koop
 
-De EcoFlow Delta 2 Max heeft een adviesprijs van **€1.799**. Regelmatig zijn er acties waarbij je het station goedkoper kunt vinden, vooral tijdens Black Friday, Prime Day of via de officiële EcoFlow-webshop.
+Op nl.ecoflow.com stond de Delta 2 Max op 21 augustus 2026 op **€949**, afgeprijsd van €1.199. Dat is een actieprijs en geen vaste adviesprijs: prijzen in dit segment bewegen sterk per actieperiode, dus controleer het bedrag op het moment dat je koopt. Bij €949 komt de prijs per Wh uit op circa €0,46 — ter vergelijking: de Delta 2 zit bij €599 op €0,58 per Wh.
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow Delta 2 Max</a>
+Wil je het station combineren met zonnepanelen? EcoFlow verkoopt bundels met opvouwbare panelen; reken die per Wh en per watt paneel door voordat je aanneemt dat een bundel voordeliger is.
 
-Wil je het station combineren met zonnepanelen? EcoFlow biedt bundelaanbiedingen aan met hun opvouwbare zonnepanelen, wat vaak voordeliger is dan losse aanschaf.
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-delta-2-max-review-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de EcoFlow Delta 2 Max</a>
 
 ---
 
 ## Conclusie
 
-De **EcoFlow Delta 2 Max** is in 2026 nog steeds een van de beste draagbare powerstations die je kunt kopen. De combinatie van enorme capaciteit, razendsnelle laadtijd, uitgebreide aansluitingen en een betrouwbare app maakt het een uiterst veelzijdig apparaat. Of je het nu gebruikt op de camping, als noodstroom thuis of voor professioneel werk op locatie -- de Delta 2 Max levert.
+Op de specificaties is de **EcoFlow Delta 2 Max** het sterkste 2 kWh-station in dit vergelijk: 2.400 W continu, een laadingang van 2.300 W en 1.000 W zonne-input over twee poorten haalt geen van de directe concurrenten. Bij €949 op 21 augustus 2026 komt dat neer op €0,46 per Wh, waar de Delta 2 op €0,58 zit.
 
-Ja, de prijs is stevig. Maar je krijgt er een premium product voor terug dat dankzij de LFP-batterij jarenlang meegaat. De 5 jaar garantie onderstreept het vertrouwen dat EcoFlow in dit product heeft.
-
-Is het de *complete* powerstation? Bijna. De beperkte solar-input van 500W en het niet-waterbestendige ontwerp laten nog ruimte voor verbetering. Maar als je op zoek bent naar de beste balans tussen prestaties, snelheid en draagbaarheid, dan is de EcoFlow Delta 2 Max een uitstekende keuze.
-
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow Delta 2 Max bij EcoFlow</a>
-
-Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor een bredere vergelijking.
-
-
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk EcoFlow</a>
+De grenzen zijn even duidelijk. Met 23 kg is dit geen toestel dat je regelmatig meeneemt — daarvoor is de Jackery Explorer 2000 v2 met 17,5 kg of de Delta 2 met 12 kg logischer. Het is niet waterdicht, dus buiten heeft het bescherming nodig. En een powerstation verlaagt je energierekening niet: wie zonne-overschot wil opslaan of op prijsverschillen wil handelen, heeft een vaste batterij nodig. Dat verschil leggen wij uit in [powerstation versus thuisbatterij](/posts/powerstation-vs-thuisbatterij-2026/).
 
 Twijfel je nog tussen de modellen? Lees de [EcoFlow Delta 2 review](/posts/ecoflow-delta-2-review-2026/) of de bredere gids [beste draagbare powerstation 2026](/posts/beste-draagbare-powerstation-2026/).
+
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-delta-2-max-review-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk het EcoFlow-assortiment</a>

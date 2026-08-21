@@ -47,7 +47,7 @@ products:
   price: '549'
 - name: EcoFlow Delta 2 Max
   url: https://go.duurzaamthuislab.nl/ecoflow
-  price: '1799'
+  price: '949'
 schema_type: Review
 ---
 De EcoFlow Delta 2 is het model dat het vaakst wordt verward met zijn grotere broer. Het is het kleinere station: 1024 Wh in plaats van 2048 Wh, 1800 W continu in plaats van 2400 W, en 12 kg in plaats van 23 kg. Precies dat verschil bepaalt of je de juiste koopt — en het is ook precies het verschil dat in de meeste vergelijkingen wordt overgeslagen.
@@ -139,7 +139,7 @@ Dit is de vergelijking die de aankoop bepaalt. De prijzen zijn de webshopprijzen
 | **Volledig laden (AC)** | 70 min | **circa 1 uur** | circa 80 min |
 | **Gewicht** | 7,8 kg | **12 kg** | 23 kg |
 | **Cycli** | 3000 (>80%) | **3000 (>80%)** | circa 3000 |
-| **Prijs** | €549 | **€599** | circa €1.799 |
+| **Prijs** | €549 | **€599** | €949 (van €1.199, nl.ecoflow.com 21-8-2026) |
 | **Prijs per Wh** | €0,71 | **€0,58** | €0,88 |
 
 **Ons oordeel, met het argument erbij.** Bij deze prijsstelling is de Delta 2 de verstandigste van de drie. Voor €50 meer dan de [River 2 Pro](/posts/ecoflow-river-2-pro-review-2026/) krijg je 33 procent meer capaciteit, meer dan het dubbele continu vermogen en meer dan het dubbele aan solar-input. Het enige dat je inlevert is 4,2 kg. Wie de River 2 Pro overweegt puur omdat die kleiner klinkt, koopt op dat prijsverschil de duurdere kilowattuur.

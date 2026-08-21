@@ -1,7 +1,7 @@
 ---
 title: Beste Zonnepaneel + Powerstation Combinatie 2026
 date: 2026-03-10 12:00:00+01:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: De beste zonnepaneel en powerstation combinaties van 2026 vergeleken. EcoFlow, Jackery en Bluetti bundels op vermogen, laadtijd en prijs.
 categories:
 - zonne-energie
@@ -27,7 +27,7 @@ faq:
 - q: Hoeveel watt zonnepaneel heb ik nodig voor mijn powerstation?
   a: Als vuistregel wil je een zonnepaneel dat minimaal 15-20% van de batterijcapaciteit in watt levert. Voor een 1000Wh powerstation is een 200W paneel een goed startpunt; voor 2000Wh mik je op 350-400W.
 - q: Hoe lang duurt het om een powerstation op te laden met een zonnepaneel?
-  a: Dat hangt af van het paneel-vermogen en de zonneomstandigheden. Met een 400W paneel en volle zon laad je een 2000Wh station in ongeveer 6-7 uur. In Nederland is de werkelijke output gemiddeld 60-75% van het nominale vermogen.
+  a: 'Dat hangt af van het paneelvermogen en de zonneomstandigheden. Reken niet met het nominale vermogen: onder Nederlandse omstandigheden haalt een draagbaar paneel op de betere momenten van een zonnige dag ruwweg 80 tot 90 procent van zijn nominale vermogen, en bij bewolking fors minder. Met één paneel van 400 W komt een station van 2.000 Wh daarmee op een dagtaak bij goed zonlicht; bij wisselend weer loopt dat op naar meerdere dagen.'
 - q: Werken draagbare zonnepanelen ook bij bewolkt weer?
   a: Ja, maar het rendement daalt aanzienlijk. Bij lichte bewolking produceer je nog 25-50% van het nominale vermogen. Bij zwaar bewolkt weer zakt dit naar 5-15%. Monocrystallijne panelen presteren het best bij weinig licht.
 - q: Kan ik een zonnepaneel van een ander merk gebruiken bij mijn powerstation?
@@ -35,45 +35,43 @@ faq:
 - q: Wat is het verschil tussen een draagbaar en een vast zonnepaneel?
   a: Draagbare zonnepanelen zijn opvouwbaar, lichter en makkelijk mee te nemen. Vaste panelen op je dak hebben een hoger rendement en langere levensduur. Voor gebruik met een powerstation kies je meestal een draagbaar paneel.
 - q: Hoeveel kost een complete zonnepaneel-powerstation set?
-  a: Een instapset (500-800Wh station + 100-200W paneel) kost €700-1.100. Een middenklasse set (1000-1500Wh + 200-400W) kost €1.200-2.000. Een premium set (2000Wh+ met 350-400W) kost €2.100-2.800.
+  a: 'Dat valt niet in één bedrag te zeggen, omdat de prijzen in dit segment sterk per actieperiode wisselen. Wat wij wel op 21 augustus 2026 op de webshops van de fabrikanten hebben kunnen vaststellen: de EcoFlow Delta 2 Max stond op € 949 (van € 1.199), de EcoFlow River 2 Pro op € 549 en de Jackery Explorer 2000 v2 op € 899 (van € 1.599). De prijzen van de losse panelen en van de Bluetti-modellen hebben wij op die datum niet kunnen verifiëren; die nemen wij daarom niet over. Tel het paneel er dus zelf bij op via de webshop op het moment dat je koopt.'
 - q: Kan ik meerdere zonnepanelen op een powerstation aansluiten?
   a: Ja, de meeste powerstations ondersteunen meerdere panelen in serie of parallel, zolang je de maximale solar-input niet overschrijdt. Controleer altijd de specificaties van je powerstation voor de maximale VOC en het maximale wattage.
 products:
-- name: EcoFlow 400W Solar Panel
+- name: EcoFlow Delta 2 Max
   url: https://go.duurzaamthuislab.nl/ecoflow
-  price: '799'
-- name: Jackery SolarSaga 200W
+  price: '949'
+- name: Jackery Explorer 2000 v2
   url: https://go.duurzaamthuislab.nl/jackery
-  price: '499'
-- name: Bluetti PV200
-  url: https://go.duurzaamthuislab.nl/bluetti-eu
-  price: '399'
+  price: '899'
+- name: EcoFlow River 2 Pro
+  url: https://go.duurzaamthuislab.nl/ecoflow
+  price: '549'
 schema_type: Article
 ---
-Thuis heb je een dak vol panelen, maar onderweg ben je afhankelijk van stopcontacten. Een draagbaar zonnepaneel gekoppeld aan een powerstation lost dat op — mits paneel en station bij elkaar passen. Wij vergelijken de combinaties van EcoFlow, Jackery en Bluetti op basis van fabrieksspecificaties, handleidingen en gebruikersreviews: laadtijd, rendement bij bewolking en prijs per opgewekte Wh.
+Thuis heb je een dak vol panelen, maar onderweg ben je afhankelijk van stopcontacten. Een draagbaar zonnepaneel gekoppeld aan een powerstation lost dat op — mits paneel en station bij elkaar passen. Wij vergelijken de combinaties van EcoFlow, Jackery en Bluetti op basis van de specificaties en prijzen op de webshops van de fabrikanten: laadtijd, rendement bij bewolking en verhouding tussen paneelvermogen en solar-input.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een kleine vergoeding als je via deze links een product aanschaft, zonder extra kosten voor jou.*
+Wij hebben deze sets niet zelf getest of doorgemeten. De prijzen die wij noemen zijn de webshopprijzen die wij op **21 augustus 2026** hebben opgehaald bij nl.ecoflow.com en nl.jackery.com. Waar wij een prijs niet hebben kunnen verifiëren, staat dat erbij en noemen wij geen bedrag; waar een getal uit een berekening komt, staat de aanname erbij.
+
+*Dit artikel bevat affiliate links naar EcoFlow, Jackery en Bluetti. Wij ontvangen mogelijk een commissie als je via deze links een product aanschaft, zonder extra kosten voor jou. Dat verandert niets aan de specificaties in dit artikel of aan onze rangschikking.*
 
 ---
 
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** De beste zonnepaneel en powerstation combinaties van 2026 vergeleken. EcoFlow, Jackery en Bluetti bundels op vermogen, laadtijd en prijs.
+> **Kort antwoord:** kies eerst het station op capaciteit en dan het paneel op de solar-input van dat station. Een paneel dat meer levert dan het station accepteert, is weggegooid geld; een paneel dat veel minder levert, maakt het laden een meerdaagse klus.
 >
-> Als vuistregel wil je een zonnepaneel dat minimaal 15-20% van de batterijcapaciteit in watt levert. Voor een 1000Wh powerstation is een 200W paneel een goed startpunt; voor 2000Wh mik je op 350-400W.
+> Als vuistregel wil je een paneelvermogen van minimaal 15-20 procent van de batterijcapaciteit in watt: voor 1.000 Wh is 200 W een goed startpunt, voor 2.000 Wh mik je op 350-400 W. Op 21 augustus 2026 waren de stations uit dit overzicht die wij op prijs konden verifiëren de EcoFlow Delta 2 Max (€ 949), de Jackery Explorer 2000 v2 (€ 899) en de EcoFlow River 2 Pro (€ 549).
 
 ## Waarom een zonnepaneel + powerstation combinatie?
 
 Een los powerstation is al handig, maar in combinatie met een draagbaar zonnepaneel wordt het een **zelfvoorzienend energiesysteem**. De voordelen:
 
-- **Gratis energie** -- na de aanschaf betaal je niets meer voor stroom
-- **Onafhankelijkheid** -- geen stopcontact nodig, ideaal voor off-grid gebruik
-- **Duurzaam** -- schone energie zonder CO2-uitstoot
+- **Geen brandstof of stopcontact nodig** -- na de aanschaf zijn er geen variabele stroomkosten meer voor wat je zelf opwekt
+- **Onafhankelijkheid** -- ideaal voor off-grid gebruik en voor plekken zonder aansluiting
+- **Geen uitstoot en geen geluid tijdens gebruik** -- in tegenstelling tot een benzinegenerator is een solar generator geruisloos
 - **Veelzijdig** -- van camping en festivals tot noodstroom en tuin
-- **Stil** -- in tegenstelling tot een benzinegenerator is een solar generator geruisloos
 
-De keerzijde? Je bent afhankelijk van de **zon**. In Nederland schijnt de zon gemiddeld 1.800 uur per jaar, en het werkelijke rendement van een draagbaar paneel ligt lager dan het nominale vermogen. Daarom is de juiste combinatie van paneel en station cruciaal.
+De keerzijde? Je bent afhankelijk van de **zon**. Het KNMI hanteert voor Nederland een langjarig gemiddelde van ongeveer 1.700 zonuren per jaar, en het werkelijke rendement van een draagbaar paneel ligt lager dan het nominale vermogen. Daarom is de juiste combinatie van paneel en station cruciaal. En let op de verwachting: een powerstation met paneel is noodstroom en gemak, geen manier om je energierekening te verlagen. Dat verschil leggen wij uit in [powerstation versus thuisbatterij](/posts/powerstation-vs-thuisbatterij-2026/).
 
 ---
 
@@ -91,7 +89,7 @@ De open-circuit spanning (VOC) van je paneel moet binnen het bereik vallen dat h
 
 ### 3. Werkelijk rendement vs nominaal vermogen
 
-Een paneel met een nominaal vermogen van 400W levert in de Nederlandse praktijk gemiddeld **250-300W** bij goed weer. Reken hier altijd mee bij het inschatten van laadtijden.
+Reken nooit met het nominale vermogen. Onder Nederlandse omstandigheden haalt een draagbaar paneel **op de betere momenten van een zonnige dag ruwweg 80 tot 90 procent** van zijn nominale vermogen, en bij bewolking fors minder. Over een hele dag gemeten ligt het gemiddelde daardoor duidelijk lager dan die piek — dat is precies het verschil tussen de laadtijd op de verpakking en de laadtijd in je tuin. Wij hanteren die 80-90 procent sitebreed als bovengrens en rekenen laadtijden verder door met een dagverloop; zie ook onze [Bluetti AC180 review](/posts/bluetti-ac180-review-2026/), waar dezelfde regel wordt toegepast.
 
 ### 4. Draagbaarheid
 
@@ -107,14 +105,17 @@ Fabrikanten bieden vaak bundelkortingen aan wanneer je een powerstation en panee
 
 ### Overzichtstabel
 
-| Combinatie | Capaciteit | Paneel | Laadtijd zon (ca.) | Totaalgewicht | Prijs set (ca.) |
+| Combinatie | Capaciteit | Paneel | Laadtijd zon (ca., ideale omstandigheden) | Totaalgewicht | Prijs station (21-8-2026) |
 |---|---|---|---|---|---|
-| **EcoFlow Delta 2 Max + 400W** | 2048 Wh | EcoFlow 400W Portable | 5-6 uur | 39 kg | €2.498 |
-| **Jackery 2000 Plus + SolarSaga 200W** | 2042 Wh | Jackery SolarSaga 200W | 10-12 uur | 35,9 kg | €2.298 |
-| **Bluetti AC200MAX + PV350** | 2048 Wh | Bluetti PV350 (350W) | 6-7 uur | 40,4 kg | €2.298 |
-| **EcoFlow River 2 Pro + 220W** | 768 Wh | EcoFlow 220W Bifacial | 3,5-5 uur | 17,1 kg | €1.048 |
-| **Jackery 1000 Plus + SolarSaga 200W** | 1264 Wh | Jackery SolarSaga 200W | 6-8 uur | 22,5 kg | €1.448 |
-| **Bluetti EB70S + PV200** | 716 Wh | Bluetti PV200 (200W) | 4-5 uur | 16,8 kg | €899 |
+| **EcoFlow Delta 2 Max + 400 W** | 2.048 Wh | EcoFlow 400 W Portable | 5-6 uur | 39 kg | € 949 (van € 1.199) |
+| **Jackery Explorer 2000 v2 + SolarSaga 200 W** | 2.042 Wh | Jackery SolarSaga 200 W | 10-12 uur | 25,5 kg | € 899 (van € 1.599) |
+| **Bluetti AC200MAX + PV350** | 2.048 Wh | Bluetti PV350 (350 W) | 6-7 uur | 40,4 kg | niet geverifieerd |
+| **EcoFlow River 2 Pro + 220 W** | 768 Wh | EcoFlow 220 W Bifacial | 3,5-5 uur | 17,1 kg | € 549 |
+| **Bluetti EB70S + PV200** | 716 Wh | Bluetti PV200 (200 W) | 4-5 uur | 16,8 kg | niet geverifieerd |
+
+*Capaciteiten, vermogens, gewichten en laadtijden zijn fabrikantopgaven. De prijskolom bevat alleen prijzen die wij op 21 augustus 2026 zelf op nl.ecoflow.com en nl.jackery.com hebben gezien; het is de prijs van het station, exclusief paneel. De prijzen van de losse panelen en van de Bluetti-modellen stonden op die datum niet op een pagina die wij konden controleren — die nemen wij daarom niet over. Bluetti publiceert zijn prijzen op de eigen Europese webshop, en ze wisselen daar sterk per actieperiode.*
+
+**Let op bij Jackery.** Op het overzicht van powerstations op nl.jackery.com stonden op 21 augustus 2026 alleen de v2-modellen: Explorer 500 v2 (€ 329), 1000 v2 (€ 519), 2000 v2 (€ 899) en 3000 v2 (€ 1.599). De Plus-modellen, waaronder de Explorer 2000 Plus, stonden daar niet tussen. Wie op oudere vergelijkingen stuit waarin de 2000 Plus de aanbeveling is, kijkt dus naar een model dat in Nederland niet meer gewoon leverbaar is; de achtergrond staat in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/).
 
 ---
 
@@ -134,12 +135,13 @@ Dit is de **krachtigste combinatie** in onze vergelijking. De Delta 2 Max biedt 
 | Rendement paneel | 22,6% |
 | Laadtijd bij volle zon | 5-6 uur |
 | Laadtijd bij Nederlands weer | 7-10 uur |
-| Max solar-input station | 1000W (er is ruimte voor extra panelen) |
-| Prijs set | ca. €2.498 |
+| Max solar-input station | 500 W per poort, 1.000 W met twee poorten |
+| Prijs station (21-8-2026) | € 949 (van € 1.199) |
+| Prijs paneel | niet door ons geverifieerd |
 
 ### Waarom deze combinatie kiezen?
 
-De EcoFlow Delta 2 Max accepteert tot **1000W solar-input**, wat betekent dat je met het 400W-paneel nog ruimte hebt om later een tweede paneel bij te plaatsen. Dat maakt dit de meest **toekomstbestendige** optie. De laadtijd met een enkel paneel is al goed, maar met twee panelen halveer je die bijna.
+De EcoFlow Delta 2 Max accepteert volgens de specificatie op nl.ecoflow.com **500 W per solar-poort en 1.000 W over twee poorten samen** (11-60 V, 15 A). Dat is een belangrijk detail: één paneel van 400 W past ruim binnen één poort, en je houdt een tweede poort over om later bij te plaatsen. Dat maakt dit de meest **toekomstbestendige** optie van de vijf. Met twee panelen halveer je de laadtijd bijna.
 
 Het 400W-paneel is wel het **zwaarste en grootste** in deze vergelijking. Opengevouwen heeft het een oppervlakte van ruim 2,5 vierkante meter. Voor een vaste locatie (tuin, dak van een camper) is dat geen probleem, maar voor hikers is het te groot.
 
@@ -152,59 +154,66 @@ Het 400W-paneel is wel het **zwaarste en grootste** in deze vergelijking. Openge
 
 ### Nadelen set
 
-- Zwaarste en duurste set
+- Zwaarste set in dit overzicht (39 kg samen)
 - 400W-paneel is groot en onhandig om te vervoeren
-- Hogere investering vereist
+- Twee poorten nodig om de volle 1.000 W solar-input te benutten
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-zonnepaneel-powerstation-combinatie-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij EcoFlow →</a>
 
 ---
 
-## 2. Jackery Explorer 2000 Plus + SolarSaga 200W -- Beste Laadvermogen Potentieel
+## 2. Jackery Explorer 2000 v2 + SolarSaga 200W -- Beste Draagbare 2 kWh-set
 
-De Jackery Explorer 2000 Plus heeft de **hoogste solar-input** van alle stations in deze vergelijking: maar liefst 1200W. Met een enkele SolarSaga 200W begin je bescheiden, maar het systeem biedt enorm veel ruimte om op te schalen.
+Dit is de set die veel vergelijkingen nog met de Explorer 2000 Plus vullen. Die stond op 21 augustus 2026 niet in het Nederlandse assortiment; de **Explorer 2000 v2** wél, met dezelfde 2.042 Wh in een toestel dat ruim tien kilo lichter is. Voor een set die je meeneemt is dat het relevante model.
 
 ### Specificaties van de set
 
 | Component | Detail |
 |---|---|
-| Powerstation | Jackery Explorer 2000 Plus (2042Wh, 3000W) |
+| Powerstation | Jackery Explorer 2000 v2 (2.042 Wh, 2.200 W nominaal, 17,5 kg) |
 | Zonnepaneel | Jackery SolarSaga 200W |
 | Paneelafmetingen (open) | 232 x 54 x 2,5 cm |
 | Paneelgewicht | 8 kg |
 | Paneeltype | Monocrystallijn, opvouwbaar |
-| Rendement paneel | 24,3% |
-| Laadtijd bij volle zon | 10-12 uur |
-| Laadtijd bij Nederlands weer | 14-18 uur |
-| Max solar-input station | 1200W (plaats voor 6x SolarSaga 200W) |
-| Prijs set | ca. €2.298 |
+| Rendement paneel | 24,3% (fabrikantopgave) |
+| Laadtijd bij volle zon, 1 paneel | 10-12 uur |
+| Laadtijd bij volle zon, 2 panelen | circa 5,5 uur (opgave Jackery) |
+| Laadtijd bij Nederlands weer, 1 paneel | 14-18 uur |
+| Netladen als alternatief | tot 100% in 1,33 uur (opgave Jackery) |
+| Max solar-input station | staat niet op de NL-productpagina die wij hebben ingezien |
+| Cycli / garantie | 4.000 cycli, 3 + 2 jaar |
+| Prijs station (21-8-2026) | € 899 (van € 1.599) |
+| Prijs paneel | niet door ons geverifieerd |
 
 ### Waarom deze combinatie kiezen?
 
-Het sterke punt van deze combinatie is de **schaalbaarheid**. Met 1200W solar-input kun je tot zes SolarSaga 200W-panelen aansluiten. Begin met een enkel paneel en breid uit wanneer nodig. Het SolarSaga 200W-paneel is ook **lichter** (8 kg) dan het EcoFlow 400W-paneel (16 kg), wat het draagbaarder maakt.
+Het sterke punt is de **verhouding tussen capaciteit en gewicht**. Je krijgt 2.042 Wh in een station van 17,5 kg, en het SolarSaga 200W-paneel weegt 8 kg tegen 16 kg voor het EcoFlow 400W-paneel. Daarmee is dit de zwaarste set die één persoon nog realistisch in en uit een auto tilt.
 
-Het nadeel is dat een enkel 200W-paneel relatief **lang** doet over het volledig opladen van een 2042Wh-station. Reken op een hele dag bij goed weer. Voor serieus off-grid gebruik wil je minimaal twee panelen.
+Het nadeel is dat een enkel 200W-paneel **lang** doet over het volledig opladen van een 2.042 Wh-station: Jackery geeft bij twee panelen van 200 W circa 5,5 uur op onder ideale omstandigheden, dus met één paneel is het een dagtaak bij goed weer en bij bewolking niet haalbaar. Voor serieus off-grid gebruik wil je twee panelen. Blijf je in de buurt van een stopcontact, dan is de 1,33 uur netladen de snellere route.
+
+Op de Nederlandse productpagina van de 2000 v2 vonden wij geen opgave van de maximale solar-input en geen uitbreidingsaccu. Wil je juist dat systeemargument — meer capaciteit erbij zetten — dan zit dat bij de Plus-lijn, met het leverbaarheidsprobleem dat wij in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/) uitwerken.
 
 ### Voordelen set
 
-- Hoogste solar-input capaciteit (1200W) voor toekomstige uitbreiding
-- Licht, draagbaar paneel (8 kg)
-- Powerstation biedt 3000W continu vermogen
-- Goed paneelrendement (24,3%)
+- Dezelfde 2.042 Wh als de Plus, in een station van 17,5 kg in plaats van 27,9 kg
+- Lichtste paneel in dit overzicht (8 kg)
+- Netladen tot vol in 1,33 uur als de zon niet meewerkt
+- 4.000 cycli en 3 + 2 jaar garantie, en gewoon leverbaar in Nederland
 
 ### Nadelen set
 
-- Een enkel 200W paneel is onvoldoende voor snelle lading
-- Hogere kosten bij uitbreiding naar meerdere panelen
-- Station is zwaar (27,9 kg)
+- Een enkel 200W-paneel is onvoldoende voor snelle lading
+- Geen opgegeven maximale solar-input op de NL-productpagina, dus uitbreiden is gokken tot je die opvraagt
+- Geen uitbreidingsaccu voor dit model
+- € 899 is een actieprijs (van € 1.599) en beweegt mee met acties
 
 <a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-zonnepaneel-powerstation-combinatie-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij Jackery →</a>
 
 ---
 
-## 3. Bluetti AC200MAX + PV350 -- Beste Prijs-kwaliteit (Premium)
+## 3. Bluetti AC200MAX + PV350 -- Sterkste enkel-paneelset
 
-De combinatie van de AC200MAX met het PV350-paneel biedt een **sterke balans** tussen prijs, capaciteit en laadsnelheid. Het 350W-paneel komt dicht in de buurt van de solar-input limiet, waardoor je het meeste uit een enkel paneel haalt.
+De combinatie van de AC200MAX met het PV350-paneel haalt het meeste uit **één** paneel: met 350 W nominaal benut je een groot deel van de opgegeven solar-input van 900 W, terwijl je maar één paneel hoeft te dragen en op te stellen.
 
 ### Specificaties van de set
 
@@ -218,29 +227,31 @@ De combinatie van de AC200MAX met het PV350-paneel biedt een **sterke balans** t
 | Rendement paneel | 23,4% |
 | Laadtijd bij volle zon | 6-7 uur |
 | Laadtijd bij Nederlands weer | 9-12 uur |
-| Max solar-input station | 900W (ruimte voor extra panelen) |
-| Prijs set | ca. €2.298 |
+| Max solar-input station | 900 W, VOC 10-145 V (fabrikantopgave; ruimte voor extra panelen) |
+| Prijs station en paneel | niet door ons geverifieerd |
 
 ### Waarom deze combinatie kiezen?
 
-Met een enkele PV350 benut je bijna **40% van de maximale solar-input** van de AC200MAX. Dat is genoeg om het station in een dag op te laden bij redelijk weer. De AC200MAX is bovendien het meest **betaalbare 2000Wh-station** in deze vergelijking.
+Met een enkele PV350 benut je bijna **40 procent van de opgegeven maximale solar-input** van de AC200MAX. Dat is genoeg om het station in een dag op te laden bij redelijk weer, zonder een tweede paneel mee te nemen.
 
 Het 350W-paneel zit qua grootte en gewicht precies tussen de Jackery 200W en de EcoFlow 400W in: krachtig genoeg voor een degelijke laadsnelheid, maar nog steeds door een persoon te dragen.
+
+Wat wij hier níet over kunnen zeggen, is de prijs. De prijzen van de AC200MAX en de PV350 staan op de Europese webshop van Bluetti en wisselen daar sterk per actieperiode; op 21 augustus 2026 hebben wij die pagina niet kunnen controleren en wij nemen daarom geen bedrag over. Wie deze set op prijs met de EcoFlow- en Jackery-sets wil vergelijken, haalt het actuele bedrag dus zelf op.
 
 Lees onze uitgebreide [Bluetti AC200MAX review](/posts/bluetti-ac200max-review-2026/) voor meer details over dit powerstation.
 
 ### Voordelen set
 
-- Beste prijs-kwaliteitverhouding in het premium segment
+- Meeste opbrengst uit één enkel paneel
 - Goede balans tussen paneelvermogen en draagbaarheid
 - AC200MAX is uitbreidbaar met B230/B300-batterijen
-- 3500+ cycli batterijlevensduur
+- 3.500 cycli tot 80% restcapaciteit (fabrikantopgave)
 
 ### Nadelen set
 
 - Bluetooth-only app (geen Wi-Fi)
-- Iets lagere solar-input dan concurrenten (900W max)
-- Station laadt langzamer via stopcontact
+- Station laadt langzaam via stopcontact (opgave: maximaal 500 W input)
+- Prijs niet door ons te verifiëren, dus lastig te vergelijken op prijs per Wh
 
 <a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-zonnepaneel-powerstation-combinatie-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij Bluetti →</a>
 
@@ -262,21 +273,22 @@ Zoek je een **lichte, draagbare set** voor weekendtrips of als noodstroom? De co
 | Rendement paneel | 22,4% (voorkant) + extra via achterkant |
 | Laadtijd bij volle zon | 3,5-5 uur |
 | Laadtijd bij Nederlands weer | 5-8 uur |
-| Max solar-input station | 220W |
-| Prijs set | ca. €1.048 |
+| Max solar-input station | 220 W (11-50 V, 13 A) |
+| Prijs station (21-8-2026) | € 549 |
+| Prijs paneel | niet door ons geverifieerd |
 
 ### Waarom deze combinatie kiezen?
 
-Het **bifaciale** paneel vangt licht op aan beide kanten, wat het rendement tot 25% verhoogt bij reflecterende ondergronden (zand, beton, sneeuw). De River 2 Pro zelf is een compacte krachtpatser met X-Boost tot 1600W. Het totale setgewicht van 17,1 kg is door een persoon goed te dragen.
+Het **bifaciale** paneel vangt licht op aan beide kanten. EcoFlow geeft daarvoor een meeropbrengst op bij reflecterende ondergronden zoals zand, beton of sneeuw; hoeveel dat in jouw opstelling is, hangt volledig af van die ondergrond en van de hoogte waarop het paneel staat. Wij hebben dat niet gemeten en nemen er daarom geen percentage van over. De River 2 Pro zelf is compact met 800 W continu en X-Boost tot 1.600 W. Het totale setgewicht van 17,1 kg is door één persoon goed te dragen.
 
-De solar-input is beperkt tot 220W, wat precies overeenkomt met het paneel. Er is geen ruimte voor uitbreiding met extra panelen.
+De solar-input is beperkt tot 220 W, wat precies overeenkomt met het paneel. Er is geen ruimte voor uitbreiding met extra panelen. Wie een station van 768 Wh via de zon wil vullen, zit daarmee op circa 3,5 tot 5 uur bij goede omstandigheden — de kortste laadtijd in dit overzicht, simpelweg omdat er het minst te vullen is.
 
 ### Voordelen set
 
-- Meest draagbare premium set (17,1 kg totaal)
-- Bifacial paneel voor extra rendement
-- Razendsnel opladen via stopcontact (42 min tot 80%)
-- Scherpe prijs voor wat je krijgt
+- Meest draagbare set in dit overzicht (17,1 kg totaal)
+- Bifacial paneel: meeropbrengst bij een reflecterende ondergrond
+- Snel opladen via stopcontact: 0-100% in 70 minuten bij maximaal 940 W input (opgave EcoFlow)
+- Enige set waarvan wij zowel het station als de laadopgave op de fabrikantpagina hebben kunnen verifiëren
 
 ### Nadelen set
 
@@ -288,9 +300,9 @@ De solar-input is beperkt tot 220W, wat precies overeenkomt met het paneel. Er i
 
 ---
 
-## 5. Bluetti EB70S + PV200 -- Beste Budgetvriendelijke Set
+## 5. Bluetti EB70S + PV200 -- Lichtste instapset
 
-Voor wie een **betaalbare instap** zoekt in de wereld van solar generators is de combinatie van de Bluetti EB70S met het PV200-paneel de beste keuze.
+Voor wie klein en licht wil instappen in solar generators is de combinatie van de Bluetti EB70S met het PV200-paneel de logische kandidaat: 716 Wh, 800 W continu en een paneel dat het station op één zonnige dag weer vult.
 
 ### Specificaties van de set
 
@@ -304,25 +316,27 @@ Voor wie een **betaalbare instap** zoekt in de wereld van solar generators is de
 | Rendement paneel | 23,4% |
 | Laadtijd bij volle zon | 4-5 uur |
 | Laadtijd bij Nederlands weer | 6-9 uur |
-| Max solar-input station | 200W |
-| Prijs set | ca. €899 |
+| Max solar-input station | 200 W (fabrikantopgave) |
+| Prijs station en paneel | niet door ons geverifieerd |
 
 ### Waarom deze combinatie kiezen?
 
-Met een **totaalprijs van circa €899** is dit de goedkoopste complete solar generator set met degelijke specificaties. De EB70S biedt genoeg capaciteit voor een weekend kamperen, en het PV200-paneel laadt het station in een dag weer op.
+De EB70S biedt genoeg capaciteit voor een weekend kamperen met telefoons, verlichting en een koelbox, en het PV200-paneel laadt het station bij goed weer in een dag weer op. Doordat capaciteit en paneelvermogen dicht bij elkaar liggen, is dit de set met de gunstigste verhouding tussen laadtijd en capaciteit.
+
+Ook hier geldt: het prijskaartje staat op de webshop van Bluetti en wisselt per actieperiode. Wij hebben het op 21 augustus 2026 niet kunnen controleren en noemen daarom geen bedrag — ook niet als "instapprijs", want juist in deze klasse bepaalt de actie van de week of dit werkelijk de goedkoopste route is.
 
 ### Voordelen set
 
-- Laagste instapprijs voor een complete set
-- Licht en compact (16,8 kg totaal)
-- Goede laadsnelheid relatief ten opzichte van de capaciteit
-- Draadloos opladen op de EB70S
+- Lichtste set in dit overzicht (16,8 kg totaal)
+- Gunstige verhouding tussen paneelvermogen en capaciteit
+- Draadloos opladen op de EB70S (fabrikantopgave)
 
 ### Nadelen set
 
-- Beperkte capaciteit en vermogen
-- Niet uitbreidbaar
+- Beperkte capaciteit (716 Wh) en vermogen (800 W)
+- Niet uitbreidbaar met extra batterijen of panelen
 - Bluetooth-only app
+- Prijs niet door ons te verifiëren
 
 Bekijk ook onze [top 7 draagbare powerstations](/posts/beste-draagbare-powerstation-2026/) voor meer opties in het budgetsegment.
 
@@ -332,15 +346,17 @@ Bekijk ook onze [top 7 draagbare powerstations](/posts/beste-draagbare-powerstat
 
 ## Laadtijden in de Nederlandse praktijk
 
-Nederland is geen woestijn, en de werkelijke zonneprestaties wijken af van laboratoriumomstandigheden. Hier een realistische inschatting per seizoen met een 350W paneel:
+Nederland is geen woestijn, en de werkelijke zonneprestaties wijken af van laboratoriumomstandigheden. Onderstaande tabel is een **modelberekening**, geen meting. De aannames: een paneel van 350 W nominaal, op de betere momenten 80-90 procent daarvan, en over de productieve uren van een dag een lager gemiddelde omdat de zonnestand en de bewolking wisselen.
 
-| Seizoen | Gem. zonuren per dag | Werkelijk vermogen (ca.) | Opbrengst per dag (ca.) |
+| Seizoen | Aangenomen productieve uren per dag | Aangenomen gemiddeld vermogen | Modelmatige opbrengst per dag |
 |---|---|---|---|
 | Zomer (juni-aug) | 6-8 uur | 250-300 W | 1.500-2.400 Wh |
 | Lente/herfst (mrt-mei, sep-nov) | 3-5 uur | 150-250 W | 450-1.250 Wh |
 | Winter (dec-feb) | 1-3 uur | 50-150 W | 50-450 Wh |
 
-Dit betekent dat een **2000Wh-station met een 350W-paneel** in de zomer in een dag vol kan, maar in de winter meerdere dagen nodig heeft. Houd hier rekening mee als je het systeem als primaire stroombron wilt gebruiken.
+Het verschil met de 80-90 procent uit de vorige paragraaf is geen tegenspraak, maar een verschil in wat je meet: die 80-90 procent geldt voor een goed moment met het paneel goed gericht, het gemiddelde in deze tabel geldt over een hele dag inclusief ochtend, avond en wolken.
+
+Dit betekent dat een **2.000 Wh-station met een 350W-paneel** in de zomer in een dag vol kan, maar in de winter meerdere dagen nodig heeft. Houd daar rekening mee als je het systeem als primaire stroombron wilt gebruiken — en reken het na met je eigen apparaten via onze [powerstation-calculator](/powerstation-calculator/).
 
 ---
 
@@ -348,7 +364,7 @@ Dit betekent dat een **2000Wh-station met een 350W-paneel** in de zomer in een d
 
 1. **Richt het paneel op het zuiden** -- en stel de hoek in op circa 30-35 graden voor optimale opvangst in Nederland
 2. **Vermijd schaduw** -- zelfs gedeeltelijke schaduw op een paneel kan de output fors verlagen
-3. **Gebruik een reflecterend oppervlak** -- bij bifaciale panelen kan een wit doek of aluminium folie onder het paneel het rendement met 10-25% verhogen
+3. **Gebruik een reflecterend oppervlak** -- bij bifaciale panelen levert een lichte of reflecterende ondergrond extra opbrengst via de achterzijde; hoeveel dat is, hangt af van de ondergrond en de opstelhoogte en durven wij niet in een percentage uit te drukken
 4. **Houd het paneel schoon** -- stof, pollen en vogelpoep verminderen het rendement
 5. **Combineer laden** -- sluit het stopcontact en zonnepaneel tegelijk aan voor de snelste laadtijd
 6. **Investeer in een tweede paneel** -- twee panelen halveren de laadtijd en geven meer flexibiliteit bij wisselend weer
@@ -357,19 +373,18 @@ Dit betekent dat een **2000Wh-station met een 350W-paneel** in de zomer in een d
 
 ## Conclusie
 
-De **beste zonnepaneel-powerstation combinatie** hangt af van je budget en gebruikssituatie:
+De **beste zonnepaneel-powerstation combinatie** hangt af van je gebruikssituatie, en op prijs kunnen wij alleen de sets vergelijken waarvan wij het bedrag hebben kunnen verifiëren:
 
-- **Premium keuze**: De **EcoFlow Delta 2 Max + 400W paneel** biedt het hoogste vermogen en de beste toekomstbestendigheid, maar is ook de duurste en zwaarste optie.
-- **Beste prijs-kwaliteit**: De **Bluetti AC200MAX + PV350** geeft je de meeste capaciteit en batterijlevensduur voor je geld.
-- **Beste schaalbaarheid**: De **Jackery Explorer 2000 Plus + SolarSaga 200W** heeft de hoogste solar-input (1200W) en het lichtste paneel.
-- **Beste compact**: De **EcoFlow River 2 Pro + 220W Bifacial** is ideaal voor weekendtrips en korte uitjes.
-- **Beste budget**: De **Bluetti EB70S + PV200** is de goedkoopste instap die geen concessies doet op kwaliteit.
+- **Meest uitbreidbaar**: de **EcoFlow Delta 2 Max + 400W paneel**. Twee solar-poorten van 500 W, dus ruimte voor een tweede paneel, en het station stond op 21 augustus 2026 op € 949. Wel de zwaarste set (39 kg).
+- **Beste draagbare 2 kWh-set**: de **Jackery Explorer 2000 v2 + SolarSaga 200W**. Dezelfde 2.042 Wh als de niet meer in Nederland leverbare 2000 Plus, maar 17,5 kg in plaats van 27,9 kg, en € 899 op diezelfde datum.
+- **Meeste uit één paneel**: de **Bluetti AC200MAX + PV350**, met 3.500 cycli tot 80 procent en uitbreidbaarheid tot 8.192 Wh — maar zonder prijs die wij hebben kunnen controleren.
+- **Meest draagbaar**: de **EcoFlow River 2 Pro + 220W Bifacial** (17,1 kg, station € 549) voor weekendtrips en korte uitjes.
+- **Lichtste instap**: de **Bluetti EB70S + PV200**, 16,8 kg samen; ook hier geldt dat wij de prijs niet hebben kunnen verifiëren.
 
-Welke set je ook kiest: met een solar generator heb je altijd en overal stroom, zolang de zon schijnt. En met de Nederlandse zomers van de afgelopen jaren is dat steeds vaker het geval.
+Welke set je ook kiest, houd de verwachting scherp: een solar generator geeft je stroom op plekken zonder stopcontact, maar verlaagt je energierekening thuis niet. Wil je zonne-overschot opslaan in plaats van stroom meenemen, dan is een vaste batterij het juiste product — dat verschil staat in [Powerstation vs Thuisbatterij](/posts/powerstation-vs-thuisbatterij-2026/).
 
-Wil je meer weten over de individuele powerstations? Bekijk dan onze uitgebreide [vergelijking van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/). Twijfel je tussen een draagbaar systeem en een vaste thuisbatterij? Lees dan [Powerstation vs Thuisbatterij: Wat is het Verschil?](/posts/powerstation-vs-thuisbatterij-2026/).
+Wil je meer weten over de individuele powerstations? Bekijk dan onze uitgebreide [vergelijking van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/).
 
-
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-zonnepaneel-powerstation-combinatie-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de actuele Jackery-prijzen</a>
 
 

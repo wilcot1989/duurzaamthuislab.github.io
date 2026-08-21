@@ -1,8 +1,8 @@
 ---
 title: 'Beste powerstation 2026: top 7 draagbare powerstations vergeleken'
 date: 2026-02-24 12:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: 'Beste powerstation 2026: 7 draagbare powerstations vergeleken op capaciteit, vermogen, gewicht en prijs (€549-€1.899). Met keuzehulp per situatie.'
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Beste powerstation 2026: 7 draagbare powerstations vergeleken op capaciteit, vermogen, gewicht en prijs, met de prijzen die op 21 augustus 2026 op de Nederlandse fabrikantwebshops stonden. Met keuzehulp per situatie.'
 categories:
 - powerstations
 tags:
@@ -24,11 +24,11 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
 - q: Wat is het beste powerstation van 2026?
-  a: 'Volgens onze vergelijking biedt de EcoFlow Delta 2 Max de beste combinatie van capaciteit (2048Wh), vermogen (2400W) en laadsnelheid. Voor een kleiner budget is de Anker SOLIX C1000 een uitstekend alternatief en voor de scherpste prijs de Bluetti EB70S. Zoek je specifiek voor de camping, kijk dan naar gewicht en 12V-gebruik in plaats van naar maximale capaciteit.'
+  a: 'Volgens onze vergelijking biedt de EcoFlow Delta 2 Max de beste combinatie van capaciteit (2.048 Wh), vermogen (2.400 W) en laadsnelheid; op nl.ecoflow.com stond die op 21 augustus 2026 op €949, afgeprijsd van €1.199. Heb je meer continu vermogen nodig, dan is de Jackery Explorer 2000 v2 (2.042 Wh, 2.200 W, €899 op nl.jackery.com op dezelfde datum) de leverbare tegenhanger. Voor een kleiner budget is de Anker SOLIX C1000 een goed alternatief en in de kleinste klasse de Bluetti EB70S. Zoek je specifiek voor de camping, kijk dan naar gewicht en 12V-gebruik in plaats van naar maximale capaciteit.'
 - q: Hoeveel watt heb je nodig in een powerstation?
   a: Dat hangt af van je gebruik. Voor telefoons en laptops volstaat 500-800W. Wil je een koelkast, koffiezetapparaat of elektrische barbecue aansluiten, kies dan minimaal 1500-2000W.
 - q: Hoe lang gaat een powerstation mee?
-  a: Moderne LiFePO4-powerstations gaan 3000 tot 3500 laadcycli mee voordat de capaciteit naar 80% daalt. Bij dagelijks gebruik is dat ongeveer 10 jaar.
+  a: 'De fabrikanten van de modellen in dit overzicht geven 2.500 tot 4.000 laadcycli op voordat de capaciteit naar 80 procent daalt. Bij dagelijks volledig laden en ontladen komt dat neer op ruwweg zeven tot elf jaar. Bij recreatief gebruik is het cyclusaantal niet de beperking: dan bepalen kalenderveroudering en de elektronica wanneer het toestel wordt vervangen, en dat is een andere grootheid dan de fabrieksgarantie van drie tot vijf jaar.'
 - q: Kun je een powerstation opladen met zonnepanelen?
   a: Ja, alle powerstations in dit overzicht ondersteunen opladen via zonnepanelen. De laadsnelheid hangt af van het zonnepaneel-vermogen en de maximale solar-input van het powerstation.
 - q: Is een powerstation geschikt als noodstroomvoorziening thuis?
@@ -38,38 +38,38 @@ faq:
 - q: Mag een powerstation mee in het vliegtuig?
   a: Dat hangt af van de capaciteit. De meeste luchtvaartmaatschappijen staan batterijen tot 100Wh toe in handbagage. Powerstations overschrijden deze limiet ruimschoots en mogen daarom niet mee het vliegtuig in.
 products:
+- name: EcoFlow Delta 2 Max
+  url: https://go.duurzaamthuislab.nl/ecoflow
+  price: '949'
+- name: Jackery Explorer 2000 v2
+  url: https://go.duurzaamthuislab.nl/jackery
+  price: '899'
 - name: EcoFlow Delta 2
   url: https://go.duurzaamthuislab.nl/ecoflow
-  price: '999'
-- name: Jackery Explorer 1000 Plus
-  url: https://go.duurzaamthuislab.nl/jackery
-  price: '1199'
-- name: Anker SOLIX C1000
-  url: https://go.duurzaamthuislab.nl/anker-solix
-  price: '999'
-- name: Bluetti AC180
-  url: https://go.duurzaamthuislab.nl/bluetti-eu
-  price: '1299'
+  price: '599'
+- name: EcoFlow River 2 Pro
+  url: https://go.duurzaamthuislab.nl/ecoflow
+  price: '549'
 schema_type: Article
 ---
-> **Kort antwoord:** de EcoFlow Delta 2 Max is in 2026 de beste allrounder (2.048 Wh, 2.400 W), de Jackery Explorer 2000 Plus heeft het hoogste vermogen (3.000 W), de Anker SOLIX C1000 is de sterkste middenklasser en de Bluetti EB70S de scherpste budgetkeuze. Voor wie vooral laag wil instappen is ALLPOWERS het goedkoopste merk in dit overzicht. Kies op Wh (hoeveel uren) én op W (welke apparaten), in die volgorde.
+> **Kort antwoord:** kies eerst op Wh (hoeveel uren je overbrugt) en daarna op W (welke apparaten je kunt aansluiten). In de grote klasse zijn de EcoFlow Delta 2 Max en de Jackery Explorer 2000 v2 op dit moment de twee toestellen die in Nederland gewoon leverbaar zijn; in de middenklasse de Anker SOLIX C1000 en de EcoFlow Delta 2.
 >
-> - **Beste allrounder:** EcoFlow Delta 2 Max — 2.048 Wh, 2.400 W continu, 0-80% in 65 minuten, circa €1.799.
-> - **Hoogste vermogen:** Jackery Explorer 2000 Plus — 3.000 W continu, uitbreidbaar tot 12 kWh, circa €1.899.
-> - **Beste prijs-kwaliteit in de grote klasse:** Bluetti AC200MAX — 2.048 Wh en 3.500 cycli, circa €1.699.
-> - **Beste middenklasse:** Anker SOLIX C1000 — 1.056 Wh bij 12,9 kg, circa €899.
-> - **Beste budgetkeuze:** Bluetti EB70S — 716 Wh, circa €549.
-> - **Lichtste:** EcoFlow River 2 Pro — 7,8 kg, 768 Wh, circa €649.
+> - **Beste allrounder:** EcoFlow Delta 2 Max — 2.048 Wh, 2.400 W continu, 4.800 W piek, 23 kg. Op nl.ecoflow.com €949 (van €1.199) op 21 augustus 2026.
+> - **Hoogste vermogen dat in NL leverbaar is:** Jackery Explorer 2000 v2 — 2.042 Wh, 2.200 W nominaal, 17,5 kg. Op nl.jackery.com €899 (van €1.599) op 21 augustus 2026.
+> - **Grote klasse met de hoogste cyclusopgave:** Bluetti AC200MAX — 2.048 Wh, 2.200 W, 3.500 cycli volgens Bluetti.
+> - **Beste middenklasse:** Anker SOLIX C1000 — 1.056 Wh bij 12,9 kg, 1.800 W continu.
+> - **Kleinste klasse:** Bluetti EB70S — 716 Wh, 800 W.
+> - **Lichtste:** EcoFlow River 2 Pro — 7,8 kg, 768 Wh, €549 op nl.ecoflow.com op 21 augustus 2026.
+>
+> **Let op de Jackery-modelnamen.** De Explorer 2000 Plus (3.000 W, uitbreidbaar) stond op 21 augustus 2026 niet in het Nederlandse assortiment op nl.jackery.com; daar staan alleen de v2-modellen. Wie de Plus wil, is aangewezen op resterende dealervoorraad of de internationale winkel — met de garantievraag die daarbij hoort. Het verschil tussen beide staat in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/).
 >
 > **Hoeveel Wh heb je nodig?** Onder 800 Wh voor telefoons, laptops en verlichting. 1.000-1.300 Wh om een koelkast of koelbox een dag door te helpen. 2.000 Wh of meer als noodstroom voor een huishouden of voor apparaten met een hoog piekvermogen (waterkoker, koffiezetapparaat, elektrisch gereedschap).
 >
-> **Prijzen en specificaties** komen uit de opgaven van de fabrikanten en van Nederlandse verkooppunten (stand augustus 2026); prijzen in dit segment wisselen sterk per actieperiode. Onze rangschikking is een redactioneel oordeel op basis van specificaties, prijs per Wh en verzamelde gebruikersreviews — geen eigen laboratoriummeting.
+> **Over de prijzen en specificaties.** De bedragen van EcoFlow en Jackery hierboven komen van hun Nederlandse webshops, opgehaald op 21 augustus 2026; het zijn actieprijzen die per periode wisselen, dus controleer ze op het moment van aankoop. Voor Bluetti en Anker SOLIX noemen wij geen bedrag: die webshops waren op die datum niet leesbaar voor onze controle, en een prijs die wij niet hebben kunnen verifiëren nemen wij niet over. Specificaties zijn fabrieksopgaven. Onze rangschikking is een redactioneel oordeel op basis van die specificaties en de prijs per Wh — wij hebben deze toestellen niet zelf getest of doorgemeten.
 
 Een draagbaar powerstation is iets anders dan een thuisbatterij: het is bedoeld voor noodstroom bij uitval, voor de camping of voor klussen zonder stopcontact in de buurt. Dit is onze brede vergelijking van de zeven modellen die in Nederland het meest verkocht worden, naast elkaar gelegd op prijs per Wh, laadsnelheid, celtechnologie en levensduur.
 
 *Dit artikel bevat affiliate links, onder meer naar EcoFlow, Jackery, Bluetti, Anker en ALLPOWERS. Wij ontvangen een kleine vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou; dat verandert onze rangschikking niet.*
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
 ## Powerstation kiezen per situatie
 
@@ -93,15 +93,17 @@ Deze pagina blijft de brede vergelijking: hier liggen alle typen naast elkaar op
 
 ## Snelle vergelijkingstabel
 
-| Powerstation | Capaciteit | Vermogen (cont.) | Gewicht | Laadtijd (AC) | Prijs (ca.) |
+| Powerstation | Capaciteit | Vermogen (cont.) | Gewicht | Laadtijd (AC) | Prijs (NL, 21-8-2026) |
 |---|---|---|---|---|---|
-| **EcoFlow Delta 2 Max** | 2048 Wh | 2400 W | 23 kg | 65 min (0-80%) | €1.799 |
-| **Jackery Explorer 2000 Plus** | 2042 Wh | 3000 W | 27,9 kg | 90 min (0-80%) | €1.899 |
-| **Bluetti AC200MAX** | 2048 Wh | 2200 W | 27,5 kg | 100 min (0-80%) | €1.699 |
-| **Anker SOLIX C1000** | 1056 Wh | 1800 W | 12,9 kg | 58 min (0-80%) | €899 |
-| **EcoFlow River 2 Pro** | 768 Wh | 800 W | 7,8 kg | 42 min (0-80%) | €649 |
-| **Jackery Explorer 1000 Plus** | 1264 Wh | 2000 W | 14,5 kg | 75 min (0-80%) | €1.099 |
-| **Bluetti EB70S** | 716 Wh | 800 W | 9,7 kg | 100 min (0-80%) | €549 |
+| **EcoFlow Delta 2 Max** | 2.048 Wh | 2.400 W | 23 kg | 65 min (0-80%, fabrieksopgave) | €949 (van €1.199) |
+| **Jackery Explorer 2000 v2** | 2.042 Wh | 2.200 W | 17,5 kg | 1,33 uur (0-100%, fabrieksopgave) | €899 (van €1.599) |
+| **Bluetti AC200MAX** | 2.048 Wh | 2.200 W | 27,5 kg | 100 min (0-80%, fabrieksopgave) | niet door ons geverifieerd |
+| **Anker SOLIX C1000** | 1.056 Wh | 1.800 W | 12,9 kg | 43 min (0-80%, fabrieksopgave) | niet door ons geverifieerd |
+| **EcoFlow Delta 2** | 1.024 Wh | 1.800 W | 12 kg | circa 1 uur (0-100%) | €599 |
+| **EcoFlow River 2 Pro** | 768 Wh | 800 W | 7,8 kg | 70 min (0-100%) | €549 |
+| **Bluetti EB70S** | 716 Wh | 800 W | 9,7 kg | 100 min (0-80%, fabrieksopgave) | niet door ons geverifieerd |
+
+*De Delta 2 stond op 21 augustus 2026 op nl.ecoflow.com als uitverkocht bij een prijs van €599; de andere EcoFlow-modellen waren op die datum leverbaar.*
 
 ---
 
@@ -130,7 +132,8 @@ De **EcoFlow Delta 2 Max** is onze nummer 1 keuze voor 2026. Dit powerstation co
 | Batterijtype | LiFePO4 |
 | Levensduur | 3000+ cycli tot 80% |
 | Aansluitingen | 6x AC, 4x USB-A, 2x USB-C (100W), 1x 12V carport, 2x DC5521 |
-| Solar-input | Max 1000 W |
+| Solar-input | 500 W per poort, 1.000 W met twee poorten |
+| AC-laadingang | 2.300 W |
 | Gewicht | 23 kg |
 | Afmetingen | 49,7 x 24,2 x 30,5 cm |
 | App-bediening | Ja (EcoFlow app, Wi-Fi + Bluetooth) |
@@ -151,55 +154,56 @@ De **EcoFlow Delta 2 Max** is onze nummer 1 keuze voor 2026. Dit powerstation co
 
 ### Prijsindicatie
 
-De EcoFlow Delta 2 Max is verkrijgbaar vanaf **circa €1.799**.
+Op nl.ecoflow.com stond de Delta 2 Max op 21 augustus 2026 op **€949**, afgeprijsd van €1.199. Dat is een actieprijs, geen vaste adviesprijs: controleer het bedrag op het moment dat je koopt.
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow Delta 2 Max</a>
 
 ---
 
-## 2. Jackery Explorer 2000 Plus -- Beste voor Uitbreidbaarheid
+## 2. Jackery Explorer 2000 v2 -- 2 kWh met het laagste gewicht in die klasse
 
-De **Jackery Explorer 2000 Plus** onderscheidt zich met een indrukwekkend continu vermogen van 3000W en uitstekende uitbreidingsmogelijkheden. Met extra batterijpakketten kun je de capaciteit opschroeven tot maar liefst 12 kWh -- genoeg om je hele huis een dag van stroom te voorzien.
+De **Jackery Explorer 2000 v2** is het model dat in het Nederlandse assortiment de plaats inneemt van de bekendere Explorer 2000 Plus. Het heeft dezelfde 2.042 Wh, maar weegt met 17,5 kg ruim tien kilo minder dan de Plus. Dat maakt dit het enige 2 kWh-toestel in deze vergelijking dat één persoon nog zonder nadenken uit de auto tilt.
 
 ### Belangrijkste specificaties
 
 | Specificatie | Waarde |
 |---|---|
-| Capaciteit | 2042 Wh (uitbreidbaar tot 12.000 Wh) |
-| Continu vermogen | 3000 W (piek 6000 W) |
+| Capaciteit | 2.042 Wh |
+| Vermogen (AC) | 2.200 W nominaal |
 | Batterijtype | LiFePO4 |
-| Levensduur | 3000+ cycli tot 80% |
-| Aansluitingen | 5x AC, 2x USB-A, 2x USB-C (100W), 1x 12V carport |
-| Solar-input | Max 1200 W |
-| Gewicht | 27,9 kg |
-| Afmetingen | 47,3 x 29,4 x 37,3 cm |
-| App-bediening | Ja (Jackery app, Wi-Fi + Bluetooth) |
+| Levensduur | 4.000 cycli (fabrieksopgave) |
+| Netladen | tot 100% in 1,33 uur (fabrieksopgave) |
+| Zonneladen | circa 5,5 uur met 2x 200 W paneel onder ideale omstandigheden |
+| Gewicht | 17,5 kg |
+| Garantie | 3 + 2 jaar |
+| App-bediening | Ja (Jackery app) |
 
 ### Voordelen
 
-- Hoogste continu vermogen in deze vergelijking (3000W)
-- Enorm uitbreidbaar tot 12 kWh met extra batterijpakketten
-- Hoge solar-input tot 1200W voor sneller opladen met zonnepanelen
-- Robuuste bouwkwaliteit, geschikt voor buitengebruik
-- 3000+ cycli levensduur
+- Dezelfde 2.042 Wh als de Explorer 2000 Plus bij 10,4 kg minder gewicht
+- Hoogste cyclusopgave van de grote modellen in dit overzicht (4.000)
+- Netladen tot vol in 1,33 uur volgens Jackery
+- Gewoon leverbaar in de Nederlandse winkel, met Nederlandse garantieafhandeling
 
 ### Nadelen
 
-- Zwaarste model in de vergelijking (27,9 kg)
-- Iets langere oplaadtijd dan de EcoFlow Delta 2 Max
-- Hogere aanschafprijs
+- 2.200 W nominaal is minder dan de 3.000 W van de 2000 Plus
+- Op de Nederlandse productpagina stond geen uitbreidingsaccu voor dit model
+- De prijs is een actieprijs en beweegt sterk
 
 ### Prijsindicatie
 
-De Jackery Explorer 2000 Plus is verkrijgbaar vanaf **circa €1.899**.
+Op nl.jackery.com stond de Explorer 2000 v2 op 21 augustus 2026 op **€899**, afgeprijsd van €1.599. Op datzelfde overzicht stonden de Explorer 500 v2 (€329), 1000 v2 (€519) en 3000 v2 (€1.599, van €2.499).
 
-<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 2000 Plus</a>
+**Wat er met de Explorer 2000 Plus is gebeurd.** De Plus (3.000 W continu, 6.000 W piek, uitbreidbaar met Battery Pack-modules, 27,9 kg) stond op 21 augustus 2026 niet in het Nederlandse assortiment op nl.jackery.com. Internationaal was het model nog wel te vinden. Heb je meer dan 2.200 W continu nodig, of wil je bewust uitbreiden met accumodules, dan is dat de reden om de Plus alsnog op te sporen — lees eerst de afweging in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/), want dan komen leverbaarheid en garantieafhandeling vóór de prijs.
+
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 2000 v2</a>
 
 ---
 
-## 3. Bluetti AC200MAX -- Beste Prijs-kwaliteit (Groot)
+## 3. Bluetti AC200MAX -- Hoogste cyclusopgave in de grote klasse
 
-De **Bluetti AC200MAX** biedt een sterke combinatie van capaciteit en functionaliteit tegen een relatief scherpe prijs. Met 2048Wh en 2200W continu vermogen is het een krachtpatser die je niet teleurstelt. De mogelijkheid om twee extra batterijen aan te sluiten maakt het systeem flexibel.
+De **Bluetti AC200MAX** combineert 2.048 Wh met 2.200 W continu vermogen en de hoogste cyclusopgave in dit overzicht. De mogelijkheid om twee extra batterijpakketten aan te sluiten maakt het systeem flexibel. Alle waarden hieronder zijn fabrieksopgaven van Bluetti.
 
 ### Belangrijkste specificaties
 
@@ -217,11 +221,9 @@ De **Bluetti AC200MAX** biedt een sterke combinatie van capaciteit en functional
 
 ### Voordelen
 
-- Uitstekende prijs-kwaliteitverhouding
-- Langste batterijlevensduur (3500+ cycli)
+- Hoogste cyclusopgave in dit overzicht (3.500+ cycli tot 80%)
 - Draadloos opladen bovenop het apparaat
-- Uitbreidbaar met twee extra B230 of B300 batterijpakketten
-- Betrouwbare merknaam met goede klantenservice
+- Uitbreidbaar met twee extra B230- of B300-batterijpakketten
 
 ### Nadelen
 
@@ -231,7 +233,7 @@ De **Bluetti AC200MAX** biedt een sterke combinatie van capaciteit en functional
 
 ### Prijsindicatie
 
-De Bluetti AC200MAX is verkrijgbaar vanaf **circa €1.699**.
+Bluetti publiceert de prijs op zijn eigen Europese webshop, waar die sterk per actieperiode wisselt. Wij konden die pagina op 21 augustus 2026 niet uitlezen en nemen daarom geen bedrag over dat wij niet hebben kunnen verifiëren. Controleer de actuele prijs zelf voordat je hem tegen de EcoFlow Delta 2 Max (€949 op 21 augustus 2026) afzet.
 
 <a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Bluetti AC200MAX</a>
 
@@ -249,29 +251,28 @@ De **Anker SOLIX C1000** is een uitstekende keuze voor wie een betrouwbaar power
 | Continu vermogen | 1800 W (piek 2400 W) |
 | Batterijtype | LiFePO4 |
 | Levensduur | 3000+ cycli tot 80% |
-| Aansluitingen | 6x AC, 3x USB-A, 2x USB-C (140W), 1x 12V carport, 1x DC5521 |
-| Solar-input | Max 600 W |
+| Aansluitingen | 8 uitgangen: AC, USB-A, USB-C en 12V carport |
+| Solar-input | Max 300 W |
 | Gewicht | 12,9 kg |
 | Afmetingen | 37,6 x 26,7 x 20,5 cm |
 | App-bediening | Ja (Anker app, Wi-Fi + Bluetooth) |
 
 ### Voordelen
 
-- Uitstekende prijs-capaciteit verhouding
-- Licht en compact ontwerp (12,9 kg)
-- Supersnelle oplaadtijd: 0 naar 80% in 58 minuten
-- USB-C poorten met 140W vermogen
-- Betrouwbare Anker-kwaliteit met 5 jaar garantie
+- Licht en compact voor zijn capaciteit (12,9 kg bij 1.056 Wh)
+- Snelle oplaadtijd: 0 naar 80% in circa 43 minuten volgens Anker
+- 1.800 W continu, gelijk aan de EcoFlow Delta 2 met vergelijkbare capaciteit
+- Vijf jaar fabrieksgarantie
 
 ### Nadelen
 
-- Kleinere capaciteit dan de duurdere modellen
-- Maximale solar-input van 600W is beperkter
-- Slechts uitbreidbaar met een extra batterij
+- Kleinere capaciteit dan de 2 kWh-modellen hierboven
+- Zonne-input van 300 W is de laagste in zijn klasse: EcoFlow geeft voor de Delta 2 500 W op
+- Slechts uitbreidbaar met één extra batterij
 
 ### Prijsindicatie
 
-De Anker SOLIX C1000 is verkrijgbaar vanaf **circa €899**.
+Anker publiceert de prijs op zijn eigen webshop. Wij konden die pagina op 21 augustus 2026 niet uitlezen en noemen daarom geen bedrag. Zet de actuele prijs af tegen de €599 die EcoFlow op dezelfde datum voor de Delta 2 vroeg: die twee toestellen zitten qua capaciteit en vermogen dicht bij elkaar. De volledige doorrekening staat in onze [Anker SOLIX C1000 review](/posts/anker-solix-c1000-review-2026/).
 
 <a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker SOLIX C1000</a>
 
@@ -297,7 +298,7 @@ Zoek je een powerstation dat je moeiteloos meeneemt op weekendtrips of als noods
 
 ### Voordelen
 
-- Extreem snel opladen: 0 naar 80% in 42 minuten
+- Snel opladen: 0 naar 100% in 70 minuten bij 940 W ingang (opgave EcoFlow)
 - Licht en compact, ideaal voor onderweg
 - X-Boost technologie voor apparaten tot 1600W
 - Uitstekende app-bediening
@@ -311,55 +312,54 @@ Zoek je een powerstation dat je moeiteloos meeneemt op weekendtrips of als noods
 
 ### Prijsindicatie
 
-De EcoFlow River 2 Pro is verkrijgbaar vanaf **circa €649**.
+Op nl.ecoflow.com stond de River 2 Pro op 21 augustus 2026 op **€549**. Volledig laden duurt volgens EcoFlow 70 minuten bij een maximale ingang van 940 W.
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow River 2 Pro</a>
 
 ---
 
-## 6. Jackery Explorer 1000 Plus -- Sterke Middenmoter
+## 6. EcoFlow Delta 2 -- Sterke Middenmoter
 
-De **Jackery Explorer 1000 Plus** zit precies in het segment waar capaciteit en draagbaarheid samenkomen. Met 1264Wh en een indrukwekkend vermogen van 2000W is dit een veelzijdig powerstation dat zowel op de camping als thuis uitblinkt.
+De **EcoFlow Delta 2** zit precies in het segment waar capaciteit en draagbaarheid samenkomen: 1.024 Wh en 1.800 W continu in een toestel van 12 kg. Het is daarmee de directe tegenhanger van de Anker SOLIX C1000, met een hogere zonne-input als belangrijkste verschil.
 
 ### Belangrijkste specificaties
 
 | Specificatie | Waarde |
 |---|---|
-| Capaciteit | 1264 Wh (uitbreidbaar tot 5056 Wh) |
-| Continu vermogen | 2000 W (piek 4000 W) |
-| Batterijtype | LiFePO4 |
-| Levensduur | 3000+ cycli tot 80% |
-| Aansluitingen | 3x AC, 2x USB-A, 2x USB-C (100W), 1x 12V carport |
-| Solar-input | Max 800 W |
-| Gewicht | 14,5 kg |
-| Afmetingen | 35,6 x 26 x 28,3 cm |
-| App-bediening | Ja (Jackery app, Wi-Fi + Bluetooth) |
+| Capaciteit | 1.024 Wh (uitbreidbaar tot 2.048 of 3.040 Wh met een extra accu) |
+| Continu vermogen | 1.800 W (piek 2.700 W, X-Boost tot 2.400 W) |
+| Batterijtype | LFP (LiFePO4) |
+| Levensduur | >80% capaciteit na 3.000 cycli |
+| AC-laadingang | 1.200 W |
+| Solar-input | Max 500 W |
+| Gewicht | 12 kg |
+| Afmetingen | 40 x 21,1 x 28,1 cm |
+| App-bediening | Ja (EcoFlow app, Wi-Fi + Bluetooth) |
 
 ### Voordelen
 
-- Sterke balans tussen capaciteit, vermogen en gewicht
-- Uitbreidbaar tot 5056Wh met extra batterijpakketten
-- 2000W continu vermogen in een compact pakket
-- Goede solar-input tot 800W
-- Prettig handvat voor transport
+- 1.800 W continu uit 12 kg — het gunstigste vermogen-gewichtcijfer in de middenklasse
+- Uitbreidbaar naar 2.048 of 3.040 Wh zonder een nieuw station te kopen
+- Zonne-input van 500 W, waar de Anker SOLIX C1000 op 300 W blijft
+- UPS-functie, zodat aangesloten apparaten bij netuitval doorlopen
 
 ### Nadelen
 
-- Minder aansluitingen dan sommige concurrenten
-- Display is in direct zonlicht minder goed af te lezen
-- Prijs is hoger dan vergelijkbare Anker-modellen
+- 1.024 Wh is te weinig om een koelkast een etmaal te laten doorlopen
+- Stond op 21 augustus 2026 als uitverkocht op de Nederlandse webshop
+- X-Boost werkt voor verwarmingselementen, niet voor motoren en compressoren
 
 ### Prijsindicatie
 
-De Jackery Explorer 1000 Plus is verkrijgbaar vanaf **circa €1.099**.
+Op nl.ecoflow.com stond de Delta 2 op 21 augustus 2026 op **€599**, met de vermelding uitverkocht. De volledige doorrekening staat in onze [EcoFlow Delta 2 review](/posts/ecoflow-delta-2-review-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Jackery Explorer 1000 Plus</a>
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow Delta 2</a>
 
 ---
 
-## 7. Bluetti EB70S -- Beste Budget Optie
+## 7. Bluetti EB70S -- Kleinste klasse
 
-De **Bluetti EB70S** bewijst dat een goed powerstation niet duur hoeft te zijn. Met 716Wh capaciteit en 800W continu vermogen is het ideaal voor campingtrips, marktdagen of als basisnoodstroom. De prijs van rond de €549 maakt het toegankelijk voor iedereen.
+De **Bluetti EB70S** is het kleinste model in dit overzicht. Met 716 Wh capaciteit en 800 W continu vermogen is het bedoeld voor campingtrips, marktdagen of als basisnoodstroom voor router, licht en telefoons.
 
 ### Belangrijkste specificaties
 
@@ -377,11 +377,11 @@ De **Bluetti EB70S** bewijst dat een goed powerstation niet duur hoeft te zijn. 
 
 ### Voordelen
 
-- Scherpste prijs in deze vergelijking
+- Kleinste en lichtste toestel met AC-uitgangen in dit overzicht na de River 2 Pro
 - Draadloos opladen ingebouwd
 - Compact en licht genoeg voor dagelijks transport
 - LiFePO4 batterij voor veiligheid en duurzaamheid
-- Solide bouwkwaliteit voor de prijs
+- Vier AC-uitgangen ondanks het compacte formaat
 
 ### Nadelen
 
@@ -392,7 +392,7 @@ De **Bluetti EB70S** bewijst dat een goed powerstation niet duur hoeft te zijn. 
 
 ### Prijsindicatie
 
-De Bluetti EB70S is verkrijgbaar vanaf **circa €549**.
+Ook voor de EB70S geldt dat wij de prijs op de Europese Bluetti-webshop op 21 augustus 2026 niet hebben kunnen uitlezen. Vergelijk het bedrag dat je daar aantreft met de €549 die EcoFlow op dezelfde datum voor de River 2 Pro vroeg — dat toestel heeft meer capaciteit (768 Wh) bij minder gewicht.
 
 <a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-draagbare-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Bluetti EB70S</a>
 
@@ -435,15 +435,15 @@ Camping stelt echter eigen eisen — dagverbruik van een koelbox, bijladen met e
 
 ### Als noodstroomvoorziening thuis
 
-Voor thuisgebruik tijdens stroomuitval wil je **meer capaciteit en hoger vermogen**. De **EcoFlow Delta 2 Max** en **Jackery Explorer 2000 Plus** zijn hier de beste keuze. Met 2000+ Wh kun je je koelkast, verlichting, wifi-router en telefoons urenlang van stroom voorzien. Overweeg ook een [thuisbatterij](/posts/beste-thuisbatterij-nederland-2026/) als je een permanente oplossing zoekt.
+Voor thuisgebruik tijdens stroomuitval wil je **meer capaciteit en hoger vermogen**. De **EcoFlow Delta 2 Max** en de **Jackery Explorer 2000 v2** zijn hier de beste keuze. Met ruim 2.000 Wh kun je je koelkast, verlichting, wifi-router en telefoons urenlang van stroom voorzien. Overweeg ook een [thuisbatterij](/posts/beste-thuisbatterij-nederland-2026/) als je een permanente oplossing zoekt.
 
 ### Voor de prijs-bewuste koper
 
-Wil je een goed powerstation zonder de hoofdprijs te betalen? De **Anker SOLIX C1000** biedt de beste waarde in het middensegment, terwijl de **Bluetti EB70S** de budgetkoning is onder de merken die volledige specificaties publiceren. Wil je nog een prijsklasse lager, dan is **ALLPOWERS** het merk om te bekijken — zie de sectie hierboven voor wat daar wel en niet vaststaat.
+Wil je een goed powerstation zonder de hoofdprijs te betalen? In het middensegment staan de **Anker SOLIX C1000** en de **EcoFlow Delta 2** dicht bij elkaar; de Delta 2 stond op 21 augustus 2026 op €599 en heeft een hogere zonne-input. In de kleinste klasse is de **EcoFlow River 2 Pro** met €549 het enige toestel waarvan wij de prijs op die datum konden verifiëren. Wil je nog een prijsklasse lager, dan is **ALLPOWERS** het merk om te bekijken — zie de sectie hierboven voor wat daar wel en niet vaststaat.
 
 ### Voor maximale uitbreidbaarheid
 
-Plan je om je stroomopslag in de toekomst uit te breiden? De **Jackery Explorer 2000 Plus** (tot 12 kWh) en de **Bluetti AC200MAX** (tot 8192 Wh) bieden de meeste flexibiliteit.
+Plan je om je stroomopslag in de toekomst uit te breiden? Dan zijn de **EcoFlow Delta 2 Max** (met extra accu's naar 6.144 Wh volgens EcoFlow) en de **Bluetti AC200MAX** (tot 8.192 Wh volgens Bluetti) de leverbare opties. De Jackery Explorer 2000 Plus is met zijn accumodules technisch de meest uitbreidbare van de drie, maar stond op 21 augustus 2026 niet in het Nederlandse assortiment — reken daar dus op internationale aanschaf en de bijbehorende garantievraag.
 
 ---
 
@@ -475,7 +475,7 @@ De capaciteit op de verpakking (bijv. 2.048 Wh) is de batterijcapaciteit. Via de
 
 ### Fout 3: Solar-input niet matchen met zonnepanelen
 
-Je koopt een 1.200W-powerstation (Jackery 2000 Plus) maar ook twee kleine 100W-zonnepanelen — dan benut je de solar-input totaal niet. Andersom: je koopt een station met 220W max solar-input (EcoFlow River 2 Pro) maar wilt vier panelen aansluiten — dat werkt ook niet. Match de solar-input van het station met de maximale output van je panelen.
+Je koopt een station dat 1.000 W aan zonne-input aankan (EcoFlow Delta 2 Max, met twee poorten) maar ook twee kleine panelen van 100 W — dan benut je die ingang totaal niet. Andersom: je koopt een station met 220 W maximale zonne-input (EcoFlow River 2 Pro) maar wilt vier panelen aansluiten — dat werkt ook niet. Match de zonne-input van het station met de maximale output van je panelen.
 
 ### Fout 4: Niet registreren voor verlengde garantie
 
@@ -489,19 +489,19 @@ Powerstations van 500+ Wh zijn verboden in handbagage én ruimbagage bij vrijwel
 
 ## Levensduurvergelijking: wat het beste voor de lange termijn is
 
-| Model | Cycli tot 80% | Gebruik 2×/week | Gebruik dagelijks |
+| Model | Cycli (fabrieksopgave) | Bij dagelijks gebruik | Bij 2×/week |
 |---|---|---|---|
-| EcoFlow Delta 2 Max | 3.000 | 28,8 jaar | 8,2 jaar |
-| Jackery Explorer 2000 Plus | 3.000 | 28,8 jaar | 8,2 jaar |
-| Bluetti AC200MAX | 3.500 | 33,7 jaar | 9,6 jaar |
-| Anker SOLIX C1000 | 3.000 | 28,8 jaar | 8,2 jaar |
-| EcoFlow River 2 Pro | 3.000 | 28,8 jaar | 8,2 jaar |
-| Jackery Explorer 1000 Plus | 3.000 | 28,8 jaar | 8,2 jaar |
-| Bluetti EB70S | 2.500 | 24 jaar | 6,8 jaar |
+| EcoFlow Delta 2 Max | 3.000 tot 80% | circa 8 jaar | cyclusaantal is niet de beperking |
+| Jackery Explorer 2000 v2 | 4.000 | circa 11 jaar | cyclusaantal is niet de beperking |
+| Bluetti AC200MAX | 3.500 tot 80% | circa 9,5 jaar | cyclusaantal is niet de beperking |
+| Anker SOLIX C1000 | 3.000 tot 80% | circa 8 jaar | cyclusaantal is niet de beperking |
+| EcoFlow Delta 2 | 3.000 tot 80% | circa 8 jaar | cyclusaantal is niet de beperking |
+| EcoFlow River 2 Pro | 3.000 tot 80% | circa 8 jaar | cyclusaantal is niet de beperking |
+| Bluetti EB70S | 2.500 tot 80% | circa 7 jaar | cyclusaantal is niet de beperking |
 
-Bij recreatief gebruik (campingseizoen, noodstroom) halen alle modellen hun theoretische levensduur. De Bluetti EB70S heeft de kortste levensduur (2.500 cycli), maar bij 2× per week gebruik nog steeds 24 jaar — ruimschoots.
+**Waarom de kolom voor incidenteel gebruik geen jaartal geeft.** Cycli delen door een gebruiksfrequentie levert bij recreatief gebruik uitkomsten van dertig jaar of meer op, en die getallen zijn misleidend. Een lithiumcel veroudert namelijk ook zonder gebruik: kalenderveroudering, opslagtemperatuur en laadniveau tijdens stilstand bepalen dan de levensduur, niet het aantal cycli. Daar komt bij dat de omvormer, de poorten, het display en de app-ondersteuning eerder het einde van de praktische levensduur markeren dan de cellen.
 
-Bij dagelijks gebruik als primaire energiebron (vanlife, off-grid werkschuur) is de Bluetti AC200MAX op papier het sterkst, met 3.500 cycli de hoogste opgave in deze vergelijking. Let op: dit zijn cyclusopgaven van de fabrikanten, omgerekend naar jaren — geen door ons gemeten levensduur, en de praktijk hangt af van laaddiepte en temperatuur.
+Praktisch betekent dat: bij dagelijks gebruik is het cyclusaantal wél de maat, en dan staat de Jackery Explorer 2000 v2 met 4.000 cycli bovenaan, gevolgd door de Bluetti AC200MAX met 3.500. Bij een paar weken gebruik per jaar telt vooral hoe je het toestel bewaart — rond 60 tot 80 procent laadniveau en niet in een koude schuur of warme zolder. De fabrieksgarantie (drie tot vijf jaar, afhankelijk van merk en registratie) is een andere grootheid dan de verwachte levensduur; alleen aan die eerste heb je bij een defect iets.
 
 ---
 
@@ -528,15 +528,15 @@ Geen van de powerstations in dit overzicht heeft een officiële IP-rating. Dit i
 - **Condens**: bij verplaatsing van koude naar warme omgeving — laat acclimatiseren
 - **Outdoor-gebruik**: bescherm altijd van direct neerslag (tentafdak, beschermhoes)
 
-Voor gebruik in extreme buitenomstandigheden (bouwplaatsen, expedities) kijk naar de EcoFlow DELTA Pro Ultra (beperkte spatwaterbescherming) of gespecialiseerde industriële UPS-systemen.
+Voor gebruik in extreme buitenomstandigheden (bouwplaatsen, expedities) is een gespecialiseerd industrieel systeem met een opgegeven IP-klasse de enige route. Een consumentenpowerstation met een beschermhoes is dat niet, en fabrikanten geven voor deze modellen geen IP-waarde op waar je je op kunt beroepen.
 
 ---
 
 ## Conclusie
 
-De **EcoFlow Delta 2 Max** is onze overall winnaar voor 2026 dankzij de perfecte balans tussen capaciteit, laadsnelheid en functionaliteit. Zoek je het hoogste vermogen? Dan is de **Jackery Explorer 2000 Plus** met 3000W je beste keuze. Voor het beste middensegment grijp je naar de **Anker SOLIX C1000**, en budgetkopers worden uitstekend bediend door de **Bluetti EB70S**.
+De **EcoFlow Delta 2 Max** komt bij ons als beste allrounder uit dit overzicht: 2.048 Wh en 2.400 W continu voor €949 op 21 augustus 2026 is de gunstigste verhouding in de grote klasse. Wil je hetzelfde formaat energie in een toestel dat je nog draagt, dan is de **Jackery Explorer 2000 v2** met 17,5 kg en 4.000 cycli de tegenhanger. In de middenklasse liggen de **Anker SOLIX C1000** en de **EcoFlow Delta 2** dicht bij elkaar, en in de kleinste klasse zijn de **EcoFlow River 2 Pro** en de **Bluetti EB70S** de kandidaten.
 
-Welk powerstation je ook kiest, met de modellen in dit overzicht zit je altijd goed. Ze gebruiken allemaal veilige LiFePO4-technologie en zijn gebouwd om jarenlang mee te gaan.
+Alle modellen in dit overzicht gebruiken LiFePO4-cellen, wat ze thermisch stabieler en cyclusvaster maakt dan de oudere lithium-ionchemie. Wat wij niet kunnen beoordelen is bouwkwaliteit of afwerking: wij hebben deze toestellen niet in handen gehad.
 
 Heb je liever een vast systeem dat gekoppeld is aan je zonnepanelen? Bekijk dan ons overzicht van de [beste thuisbatterijen voor Nederlandse huishoudens](/posts/beste-thuisbatterij-nederland-2026/).
 
