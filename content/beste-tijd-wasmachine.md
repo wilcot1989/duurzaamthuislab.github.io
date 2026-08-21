@@ -14,7 +14,7 @@ faq:
 lastmod: 2026-08-20
 ---
 
-*Disclosure: dit artikel bevat affiliate-links naar energieaanbieders. Sluit je via zo'n link een contract af, dan ontvangen wij mogelijk een commissie — dit kost jou niets extra en beïnvloedt de getoonde prijzen niet: die komen rechtstreeks van de stroombeurs.*
+*Disclosure: de aanbieders die op deze pagina genoemd of gelinkt worden, zijn gewone verwijzingen: wij hebben met hen geen affiliate- of commissierelatie en ontvangen niets als je daar een contract afsluit. Komt er wel een samenwerking, dan passen wij deze regel aan en markeren we de betreffende links als zodanig. De prijzen op deze pagina komen rechtstreeks uit de stroombeursdata en worden door geen enkele partij beïnvloed.*
 
 Heb je een **dynamisch energiecontract**, dan bepaalt de beursprijs per uur wanneer wassen het goedkoopst is. Dat moment verschuift elke dag. Hieronder staat het goedkoopste aaneengesloten tweeuursblok van vandaag — en zodra de veiling van morgen bekend is (doorgaans rond 15:00) ook dat van morgen.
 
@@ -113,4 +113,4 @@ Wassen is het bekendste voorbeeld, maar de rekenregel is identiek voor de vaatwa
 
 Alle uurprijzen van vandaag en morgen, plus de actiemomenten voor die langere blokken, staan op onze pagina [stroomprijzen vandaag](/stroomprijzen/). Overweeg je de overstap naar een dynamisch contract, dan zetten we de aanbieders naast elkaar in de [vergelijking van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/).
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/beste-tijd-wasmachine/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Frank Energie (dynamisch contract) →</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/beste-tijd-wasmachine/" target="_blank" rel="noopener nofollow" class="cta">Bekijk Frank Energie (dynamisch contract) →</a>

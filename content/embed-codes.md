@@ -9,12 +9,14 @@ draft: false
 
 Hieronder vind je iframe-codes voor onze rekentools en widgets. Gebruik ze vrij op jouw site **mits**:
 - Bronvermelding zichtbaar onder de embed
-- Dofollow link naar de calculator-pagina (`rel="dofollow"` of geen `rel="nofollow"`)
+- Een gewone link naar de calculatorpagina, dus zonder `rel="nofollow"` (er bestaat geen waarde `rel="dofollow"`; een link zonder `rel` volstaat)
 - Geen aanpassing aan de rekenlogica of vormgeving
 
 ---
 
 ### Saldering 2027 calculator
+
+Rekent twee situaties door en zet ze naast elkaar: t/m 31 december 2026 met volledige saldering, en vanaf 1 januari 2027 zonder. Je bezoeker vult zelf verbruik, opgesteld vermogen (kWp), stroomprijs, terugleververgoeding, batterijcapaciteit en investering in. Er zitten géén afbouwpercentages in — de saldering stopt in één keer, er is geen afbouwpad — en de terugleververgoeding is een invoerveld met een gelabelde aanname, geen tarief dat wij als vaststaand presenteren.
 
 ```html
 <iframe src="https://duurzaamthuislab.nl/posts/saldering-calculator-2027-volledig/?embed=1"
@@ -28,6 +30,8 @@ Hieronder vind je iframe-codes voor onze rekentools en widgets. Gebruik ze vrij 
 ```
 
 ### Energiebesparing 2027 calculator
+
+Rekent per maatregel door wat die in jouw situatie oplevert, op basis van je eigen invoer. Ook hier: expliciete aannames, geen beloofde bedragen.
 
 ```html
 <iframe src="https://duurzaamthuislab.nl/posts/energiebesparing-calculator-2027/?embed=1"
@@ -49,9 +53,13 @@ Hieronder vind je iframe-codes voor onze rekentools en widgets. Gebruik ze vrij 
 - **Adviseurs** voor verduurzaming
 - **Gemeente-portals** voor energietransitie-pagina's
 
+## Let op bij de twee calculator-embeds
+
+Beide calculators staan in een artikelpagina; wij hebben (nog) geen aparte, kale embed-weergave. In het iframe zie je dus de pagina met de calculator erin, en de hoogtes hierboven zijn een praktische ondergrens — zet ze ruimer als je bezoekers niet in het iframe willen scrollen. De twee widgets hieronder (powerstation-runtime en live stroomprijzen) zijn wél losse, kale pagina's en passen zonder scrollen.
+
 ## Disclaimer
 
-We tracken geen embeds. Je hoeft niets aan te vragen — gewoon embedden + credit. Als je een prominente embed plaatst (homepage of gids-pagina), [laat het ons weten](mailto:info@duurzaamthuislab.nl) — we noemen je dan in onze partner-lijst.
+We tracken geen embeds. Je hoeft niets aan te vragen — gewoon embedden + credit. Als je een prominente embed plaatst (homepage of gids-pagina), [laat het ons weten](mailto:info@duurzaamthuislab.nl) — dan weten wij dat we die tool niet zomaar mogen verplaatsen of uitzetten.
 
 ## Contact
 

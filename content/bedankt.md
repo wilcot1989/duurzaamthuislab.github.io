@@ -7,12 +7,14 @@ noindex: true
 
 ## Bedankt voor je aanmelding
 
-Je ontvangt binnenkort de eerste DuurzaamThuisLab-update. Elke maand:
+Je ontvangt binnenkort de eerste DuurzaamThuisLab-update. Wij mailen ongeveer een keer per maand, en alleen met eigen werk:
 
-- Actuele tips over energiebesparing thuis
-- Reviews van nieuwe thuisbatterijen, powerstations en zonnepanelen
-- Update over subsidies (ISDE, SCE, gemeentelijk)
-- Kortingscodes voor installateurs en leveranciers
+- Wat de energieprijzen deden, uit ons eigen dagarchief van de beursdata
+- Nieuwe berekeningen en vergelijkingen van thuisbatterijen, powerstations en zonnepanelen
+- Wijzigingen in subsidies en regels (ISDE, SCE, saldering, gemeentelijke regelingen)
+- Geen advertenties van derden en geen doorverkoop van je e-mailadres
+
+Uitschrijven kan altijd door te antwoorden op een van onze mails. Wat wij met je gegevens doen, staat in ons [privacybeleid](/privacy/).
 
 ### Populaire gidsen
 

@@ -20,7 +20,7 @@ faq:
 lastmod: 2026-08-20
 ---
 
-*Disclosure: dit artikel bevat affiliate-links naar energieaanbieders. Sluit je via zo'n link een contract af, dan ontvangen wij mogelijk een commissie — dit kost jou niets extra en beïnvloedt de getoonde prijzen niet: die komen rechtstreeks van de stroombeurs.*
+*Disclosure: de aanbieders die op deze pagina genoemd of gelinkt worden, zijn gewone verwijzingen: wij hebben met hen geen affiliate- of commissierelatie en ontvangen niets als je daar een contract afsluit. Komt er wel een samenwerking, dan passen wij deze regel aan en markeren we de betreffende links als zodanig. De prijzen op deze pagina komen rechtstreeks uit de stroombeursdata en worden door geen enkele partij beïnvloed.*
 
 Op deze pagina zie je de **dynamische stroomprijzen per uur** voor vandaag en (na circa 15:00) morgen. Dit zijn de kale day-ahead-beursprijzen (EPEX) inclusief btw — precies de prijzen waarop dynamische contracten van aanbieders als Frank Energie, Tibber, ANWB Energie en Zonneplan zijn gebaseerd.
 
@@ -84,7 +84,15 @@ async function spLaad(dag){
     var actiesHtml = '';
     if (was) actiesHtml += '<div style="background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:.8rem;"><div style="font-size:.8rem;color:#666;">🧺 Wasmachine / vaatwasser</div><div style="font-weight:700;">' + was.van + ' – ' + was.tot + '</div><div style="font-size:.75rem;color:#888;">goedkoopste 2 uur (gem. € ' + was.gem.toFixed(3) + ')</div></div>';
     if (ev) actiesHtml += '<div style="background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:.8rem;"><div style="font-size:.8rem;color:#666;">🚗 EV / thuisbatterij laden</div><div style="font-weight:700;">' + ev.van + ' – ' + ev.tot + '</div><div style="font-size:.75rem;color:#888;">goedkoopste 4 uur (gem. € ' + ev.gem.toFixed(3) + ')</div></div>';
-    if (min < 0) actiesHtml += '<div style="background:#0e7490;color:#fff;border-radius:8px;padding:.8rem;"><div style="font-size:.8rem;opacity:.85;">⚡ Negatieve prijzen</div><div style="font-weight:700;">Je krijgt geld toe op ' + goedkoop + '</div><div style="font-size:.75rem;opacity:.85;">verschuif zoveel mogelijk verbruik</div></div>';
+    // Kale prijs onder nul betekent nog niet "geld toe": energiebelasting (EUR 0,111/kWh incl. btw,
+    // 2026 schijf 1, Belastingdienst) en de inkoopvergoeding van de leverancier (doorgaans 1-3 cent)
+    // blijven erbij op. Pas onder circa -EUR 0,13 kaal kan de totaalprijs per kWh onder nul komen.
+    if (min < 0) {
+      var negTekst = min < -0.13
+        ? '<div style="font-weight:700;">Totaalprijs kan onder nul komen op ' + goedkoop + '</div><div style="font-size:.75rem;opacity:.85;">kale prijs zo diep negatief dat belasting en opslag erdoor gecompenseerd worden — hoe het bij jou uitpakt, hangt af van je <a href="/negatieve-stroomprijzen/" style="color:#fff;">contract</a></div>'
+        : '<div style="font-weight:700;">Kale prijs onder nul op ' + goedkoop + '</div><div style="font-size:.75rem;opacity:.85;">stroom is dan extra goedkoop, maar je betaalt nog energiebelasting en inkoopvergoeding — <a href="/negatieve-stroomprijzen/" style="color:#fff;">zo werkt dat</a></div>';
+      actiesHtml += '<div style="background:#0e7490;color:#fff;border-radius:8px;padding:.8rem;"><div style="font-size:.8rem;opacity:.85;">⚡ Negatieve beursprijs</div>' + negTekst + '</div>';
+    }
     document.getElementById('sp-acties').innerHTML = actiesHtml;
     var span = (max - min) || 1;
     document.getElementById('sp-chart').innerHTML = d.uren.map(function(u){
@@ -166,7 +174,7 @@ De prijzen hierboven zijn de **kale inkoopprijzen** van de stroombeurs. Je lever
 
 De kale prijs bepaalt dus je *besparingskansen* (verschuiven naar goedkope uren), maar vergelijk aanbieders altijd op de totale opbouw. In onze [vergelijking van dynamische energiecontracten](/posts/dynamische-energiecontracten-vergelijking-2026/) zetten we de aanbieders naast elkaar; wie een thuisbatterij overweegt om op deze uurverschillen te handelen, vindt het rekenmodel in [dynamisch contract + thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/stroomprijzen/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Frank Energie (dynamisch contract) →</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/stroomprijzen/" target="_blank" rel="noopener nofollow" class="cta">Bekijk Frank Energie (dynamisch contract) →</a>
 
 ## Deze prijzen op jouw website?
 

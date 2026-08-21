@@ -6,7 +6,7 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 faq:
 - q: 'Tot hoe ver terug kan ik prijzen opzoeken?'
-  a: 'De datumkiezer gaat terug tot 1 januari 2014. Voor oudere jaren kan de dekking per dag verschillen; is er niets beschikbaar, dan meldt de tool dat.'
+  a: 'Met de datumkiezer haal je de uurprijzen van elke dag vanaf 1 januari 2014 op. Alle cijfers op deze pagina worden bij elk bezoek live opgehaald uit de EnergyZero-API (day-ahead EPEX); voor oudere jaren kan de dekking per dag verschillen, en is er niets beschikbaar, dan meldt de tool dat. Ons eigen dagarchief, dat we sinds augustus 2026 zelf bijhouden en tot augustus 2025 hebben teruggevuld, staat daar los van en telt onder andere de negatieve uren per dag.'
 - q: 'Waarom wijkt het maandgemiddelde af van wat ik bij mijn leverancier zie?'
   a: 'Omdat hier de kale beursprijs staat: inclusief btw, maar zonder energiebelasting, inkoopvergoeding en vaste kosten. Je leverancier telt die er bovenop, en rekent bovendien met jouw eigen verbruiksprofiel in plaats van een ongewogen uurgemiddelde.'
 - q: 'Kan ik uit deze historie afleiden wat stroom volgend jaar kost?'
@@ -14,9 +14,9 @@ faq:
 lastmod: 2026-08-20
 ---
 
-*Disclosure: dit artikel bevat affiliate-links naar energieaanbieders. Sluit je via zo'n link een contract af, dan ontvangen wij mogelijk een commissie — dit kost jou niets extra en beïnvloedt de getoonde prijzen niet: die komen rechtstreeks van de stroombeurs.*
+*Disclosure: de aanbieders die op deze pagina genoemd of gelinkt worden, zijn gewone verwijzingen: wij hebben met hen geen affiliate- of commissierelatie en ontvangen niets als je daar een contract afsluit. Komt er wel een samenwerking, dan passen wij deze regel aan en markeren we de betreffende links als zodanig. De prijzen op deze pagina komen rechtstreeks uit de stroombeursdata en worden door geen enkele partij beïnvloed.*
 
-Op deze pagina zie je de **historie van de dynamische stroomprijzen**: de maandgemiddelden van het afgelopen jaar, de daggemiddelden van de laatste 30 dagen en de uurprijzen van élke dag vanaf 2014. Het gaat om de kale day-ahead-beursprijs (EPEX) inclusief btw — dezelfde basis waarop dynamische contracten van Frank Energie, Tibber, ANWB Energie en Zonneplan rekenen. De prijzen van vandaag en morgen staan op [actuele stroomprijzen](/stroomprijzen/).
+Op deze pagina zie je de **historie van de dynamische stroomprijzen**: de maandgemiddelden van het afgelopen jaar, de daggemiddelden van de laatste 30 dagen en de uurprijzen van élke afzonderlijke dag vanaf 2014. Alles op deze pagina wordt bij elk bezoek live opgehaald uit de EnergyZero-API, die tot 1 januari 2014 terugreikt — dat is verder terug dan ons eigen dagarchief, dat tot augustus 2025 is teruggevuld. Het gaat om de kale day-ahead-beursprijs (EPEX) inclusief btw — dezelfde basis waarop dynamische contracten van Frank Energie, Tibber, ANWB Energie en Zonneplan rekenen. De prijzen van vandaag en morgen staan op [actuele stroomprijzen](/stroomprijzen/).
 
 ## Maandgemiddelden afgelopen jaar
 
@@ -167,7 +167,7 @@ async function ddLaad(){
 ddLaad();
 </script>
 
-De datumkiezer werkt terug tot 1 januari 2014 — handig om na te kijken wat er op een specifieke dag gebeurde: een storm met veel windaanbod, een zonnige feestdag met weinig industriële vraag, of een koude windstille avond. De uurprijzen staan in Nederlandse tijd, dus je kunt ze naast je eigen verbruik leggen.
+De datumkiezer haalt zijn data live op via de EnergyZero-API en werkt daarmee terug tot 1 januari 2014 — verder terug dan ons eigen dagarchief, dat tot augustus 2025 is teruggevuld. Handig om na te kijken wat er op een specifieke dag gebeurde: een storm met veel windaanbod, een zonnige feestdag met weinig industriële vraag, of een koude windstille avond. De uurprijzen staan in Nederlandse tijd, dus je kunt ze naast je eigen verbruik leggen.
 
 ## Wat je uit historie wél kunt halen
 
@@ -189,4 +189,4 @@ Historie helpt bij die keuze op één manier: het laat zien hoe *beweeglijk* de 
 
 Een vast contract ruilt dat risico in voor zekerheid, tegen een opslag die de leverancier daarvoor rekent. Welke van de twee gunstiger uitpakt, weet je pas achteraf; wat je vóóraf wél kunt doen is de tariefopbouw vergelijken — per aanbieder naast elkaar in onze [vergelijking van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/). Zie je veel dagen met een heel laag gemiddelde, kijk dan ook naar [negatieve stroomprijzen](/negatieve-stroomprijzen/).
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/stroomprijzen-historie/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Frank Energie (dynamisch contract) →</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/stroomprijzen-historie/" target="_blank" rel="noopener nofollow" class="cta">Bekijk Frank Energie (dynamisch contract) →</a>

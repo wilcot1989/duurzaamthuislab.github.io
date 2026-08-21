@@ -16,7 +16,9 @@ faq:
 lastmod: 2026-08-20
 ---
 
-*Disclosure: dit artikel bevat affiliate-links naar energieaanbieders. Sluit je via zo'n link een contract af, dan ontvangen wij mogelijk een commissie — dit kost jou niets extra en beïnvloedt de getoonde prijzen niet: die komen rechtstreeks van de gasbeurs.*
+*Disclosure: de aanbieders die op deze pagina genoemd of gelinkt worden, zijn gewone verwijzingen: wij hebben met hen geen affiliate- of commissierelatie en ontvangen niets als je daar een contract afsluit. Komt er wel een samenwerking, dan passen wij deze regel aan en markeren we de betreffende links als zodanig. De prijzen op deze pagina komen rechtstreeks uit de gasbeursdata en worden door geen enkele partij beïnvloed.*
+
+> **Kort antwoord:** de gasprijs die je hierboven ziet, is de kale day-ahead-beursprijs per m³ inclusief btw — één prijs voor de hele gasdag (06:00 tot 06:00), en zodra de veiling die publiceert ook de prijs van morgen. Wat jij aan je leverancier betaalt, is dat bedrag plus de energiebelasting (2026: €0,60066/m³ excl. btw = €0,7268 incl. btw, schijf 1, bron: Belastingdienst-tarieventabel) plus diens inkoopvergoeding. Verder vooruit dan morgen geven wij geen verwachting: dat zou een aanname zijn, geen prijs.
 
 Op deze pagina staat de **gasprijs van vandaag per m³** en, zodra die gepubliceerd is, de dagprijs van morgen. Het gaat om de kale day-ahead-beursprijs (LEBA/TTF) inclusief btw: precies het tarief waarop dynamische gascontracten van aanbieders als Frank Energie, Tibber, Zonneplan en ANWB Energie zijn gebaseerd.
 
@@ -95,7 +97,7 @@ Daarna komt de warmtevraag zelf. Een **(hybride) warmtepomp** neemt een deel van
 
 Pas als je verbruik op orde is, loont het om het contract onder de loep te nemen. In onze [vergelijker van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/) staan de aanbieders naast elkaar op opslag en vaste kosten.
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/gasprijs/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Frank Energie (dynamisch contract) →</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/gasprijs/" target="_blank" rel="noopener nofollow" class="cta">Bekijk Frank Energie (dynamisch contract) →</a>
 
 <script>
 var gpData = null, gpMorgen = null;
