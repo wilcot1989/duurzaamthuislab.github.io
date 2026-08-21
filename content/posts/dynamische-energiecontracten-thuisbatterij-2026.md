@@ -1,8 +1,8 @@
 ---
 title: Dynamische Energiecontracten + Thuisbatterij
 date: 2026-04-02 12:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Ontdek hoe je met een dynamisch energiecontract en thuisbatterij geld verdient in 2026. Slim laden.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: Hoe een thuisbatterij en een dynamisch energiecontract samenwerken in 2026 — het mechanisme, de leverancierstarieven en een narekenbare modelberekening.
 categories:
 - thuisbatterijen
 tags:
@@ -25,437 +25,251 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-- q: Wat is een dynamisch energiecontract?
-  a: Bij een dynamisch energiecontract betaal je per uur een wisselende prijs voor stroom, gebaseerd op de EPEX-spotmarktprijs. Als er veel aanbod is (veel wind of zon), is stroom goedkoop of zelfs negatief. Bij hoge vraag (koud, weinig wind, 's avonds) is stroom duur. Je kunt hiervan profiteren door je verbruik te verschuiven naar goedkope uren.
-- q: Hoeveel kun je besparen met een dynamisch contract en thuisbatterij?
-  a: De extra besparing door energie-arbitrage (goedkoop laden, duur ontladen) bedraagt gemiddeld €150-300 per jaar bovenop de besparing door zonne-opslag. In gunstige jaren met veel prijsschommelingen kan dit oplopen tot €300-500. De totale besparing (zonne-opslag plus arbitrage) ligt tussen €600 en €1.100 per jaar.
-- q: Welke dynamische energieleveranciers zijn er in Nederland?
-  a: De bekendste dynamische energieleveranciers in Nederland zijn Tibber, Zonneplan, ANWB Energie, EasyEnergy, Frank Energie, Vandebron (dynamisch) en Eneco (dynamisch). Tibber en Zonneplan worden het meest gekozen vanwege hun gebruiksvriendelijke apps en thuisbatterij-integraties.
-- q: Kan elke thuisbatterij automatisch laden en ontladen op dynamische tarieven?
-  a: Niet elke thuisbatterij ondersteunt dit automatisch. Je hebt een slim energiemanagementsysteem nodig (HEMS) dat de batterij aanstuurt op basis van de dynamische prijzen. Huawei, SolarEdge en sommige Victron-systemen bieden dit via hun eigen platform of via integraties met Tibber en Home Assistant.
-- q: Is het legaal om stroom uit je thuisbatterij terug te leveren aan het net?
-  a: 'Ja, in Nederland is het legaal om stroom uit je thuisbatterij terug te leveren aan het net. Je ontvangt hiervoor de terugleververgoeding van je energieleverancier. Let op: bij de meeste dynamische contracten is de terugleververgoeding lager dan de afnameprijs (door belastingen en leveringskosten), dus direct eigen verbruik is altijd voordeliger dan terugleveren.'
-- q: Wat is energie-arbitrage?
-  a: Energie-arbitrage betekent stroom inkopen wanneer de prijs laag is en deze opslaan in je thuisbatterij, om vervolgens te gebruiken (of terugleveren) wanneer de prijs hoog is. Het verschil tussen de lage inkoopprijs en de hoge gebruiksprijs is je winst. Met een thuisbatterij en dynamisch contract kun je dit automatisch doen.
-- q: Heb ik zonnepanelen nodig voor energie-arbitrage?
-  a: Nee, energie-arbitrage werkt ook zonder zonnepanelen. Je laadt de batterij dan uitsluitend op goedkope momenten van het net en gebruikt de opgeslagen stroom op dure momenten. Echter, de combinatie van zonnepanelen plus een thuisbatterij plus een dynamisch contract levert de hoogste besparing op.
-products:
-- name: Tibber
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '6'
-- name: Frank Energie
-  url: https://www.frankenergie.nl/
-  price: '5'
-- name: ANWB Energie
-  url: https://www.anwb.nl/huis/energie
-  price: '6'
+- q: 'Wat is een dynamisch energiecontract?'
+  a: 'Bij een dynamisch energiecontract betaal je per uur een wisselende prijs voor stroom, gebaseerd op de day-ahead marktprijs. Bij veel wind of zon is stroom goedkoop of zelfs negatief; bij hoge vraag op koude windstille avonden is stroom duur. Je profiteert door verbruik te verschuiven naar goedkope uren.'
+- q: 'Hoeveel kun je besparen met een dynamisch contract en thuisbatterij?'
+  a: 'In onze modelberekening met een batterij van 10 kWh levert het opslaan van eigen zonnestroom circa 385 euro per jaar op en handelen op prijsverschillen circa 130 tot 235 euro per jaar. Na aftrek van de vaste contractkosten van circa 72 euro komt het model uit op circa 445 tot 550 euro per jaar. De uitkomst hangt volledig af van de prijsspreiding in dat jaar en van je eigen verbruikspatroon.'
+- q: 'Welke dynamische energieleveranciers zijn er in Nederland?'
+  a: 'Onder meer Tibber, Zonneplan, ANWB Energie, easyEnergy, Frank Energie, Vandebron, EnergyZero en Eneco. Tarieven en vaste kosten verschillen sterk en wijzigen regelmatig; controleer ze op de tarievenpagina van de leverancier voordat je kiest.'
+- q: 'Kan elke thuisbatterij automatisch laden en ontladen op dynamische tarieven?'
+  a: 'Nee. Je hebt een energiemanagementsysteem nodig dat de batterij aanstuurt op basis van de uurprijzen. Sommige batterijen doen dat via het eigen platform van de fabrikant of via een integratie met de app van de leverancier; andere alleen via huisautomatisering zoals Home Assistant.'
+- q: 'Is het legaal om stroom uit je thuisbatterij terug te leveren aan het net?'
+  a: 'Ja, dat mag. Je ontvangt de terugleververgoeding van je leverancier. Let op: die vergoeding ligt doorgaans lager dan de afnameprijs, omdat je over afname wel energiebelasting en btw betaalt en over teruglevering niet. Zelf verbruiken is daarom vrijwel altijd voordeliger dan terugleveren.'
+- q: 'Wat is energie-arbitrage?'
+  a: 'Stroom inkopen wanneer de uurprijs laag is, opslaan in je thuisbatterij en gebruiken wanneer de prijs hoog is. Het prijsverschil is je opbrengst. Omdat energiebelasting en btw op beide momenten gelijk zijn, is de winst per kWh gelijk aan het verschil in marktprijs maal 1,21, min de laad- en ontlaadverliezen.'
+- q: 'Heb ik zonnepanelen nodig voor energie-arbitrage?'
+  a: 'Nee, arbitrage werkt ook zonder zonnepanelen: je laadt dan uitsluitend op goedkope uren van het net. De combinatie van zonnepanelen, thuisbatterij en dynamisch contract levert wel het hoogste totaal op, omdat er dan twee opbrengstbronnen zijn.'
 schema_type: Article
 ---
-Een thuisbatterij gekoppeld aan een dynamisch energiecontract kan twee keer geld opleveren: door zonnestroom op te slaan én door energie-arbitrage — laden als de uurprijs laag is, ontladen als hij hoog is. Een goed geconfigureerd systeem laadt automatisch bij een lage EPEX-prijs (vaak 's nachts) en ontlaadt tijdens de avondpiek. In dit artikel leggen we uit hoe dat mechanisme werkt, welke batterijen en leveranciers erop aansluiten en wat het volgens modelberekeningen oplevert. De cijfers komen uit publieke bronnen (EPEX-tarieven, RVO, Belastingdienst, leveranciersvoorwaarden) en uit rekenvoorbeelden met vermelde aannames.
+Een thuisbatterij gekoppeld aan een dynamisch energiecontract kan op twee manieren geld opleveren: door zonnestroom op te slaan voor eigen gebruik én door te handelen op prijsverschillen — laden als de uurprijs laag is, ontladen als hij hoog is. In dit artikel leggen we uit hoe dat mechanisme werkt, welke leverancierstarieven publiek zijn en wat het volgens een narekenbare modelberekening oplevert.
 
-*Disclosure: de links naar Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Tibber, Frank Energie, ANWB Energie of Zonneplan (stand augustus 2026) en ontvangen geen vergoeding als je via onze links overstapt. De links naar deze leveranciers zijn gewone verwijzingen.*
 
+💡 *Niet zeker over de stop van de saldering per 1 januari 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+> **Kort antwoord:** de combinatie van een thuisbatterij en een dynamisch contract levert in onze modelberekening circa 445 tot 550 euro per jaar op bij een batterij van 10 kWh — opgebouwd uit circa 385 euro aan opgeslagen zonnestroom en circa 130 tot 235 euro aan handelen op prijsverschillen, min circa 72 euro vaste contractkosten. Bij een investering van 5.500 euro komt de terugverdientijd daarmee op circa 10 tot 12,5 jaar. Alle aannames staan verderop in dit artikel.
 
-> **Kort antwoord:** Ontdek hoe je met een dynamisch energiecontract en thuisbatterij geld verdient in 2026. Slim laden.
->
-> Bij een dynamisch energiecontract betaal je per uur een wisselende prijs voor stroom, gebaseerd op de EPEX-spotmarktprijs. Als er veel aanbod is (veel wind of zon), is stroom goedkoop of zelfs negatief. Bij hoge vraag (koud, weinig wind, 's avonds) is stroom duur. Je kunt hiervan profiteren door je verbruik te verschuiven naar goedkope uren.
+## De tarieven waarmee we rekenen
 
-## Waarom de combinatie batterij + dynamisch zoveel beter is dan elk afzonderlijk
+| Invoerwaarde | Waarde | Bron / peildatum |
+|---|---|---|
+| Day-ahead jaargemiddelde 2025 | 0,105 euro/kWh | marktdata 2025 |
+| Negatieve uren 2025 | 212 uur | marktdata 2025 |
+| Duurste uur 2025 | 0,63 euro/kWh (20-1-2025, 17:00) | marktdata 2025 |
+| Energiebelasting stroom 2026 | 0,09161 euro/kWh excl. btw (0,11085 incl.) | Belastingdienst-tarieven 2026, aug 2026 |
+| Tibber | 5,99 euro/mnd **per energiesoort** + 0,0248 euro/kWh | tibber.com, aug 2026 |
+| Frank Energie | rekent inkoopvergoeding én terugleverstaffel (sinds 1-6-2025); vaste kosten: publiceert geen consumentenprijs | frankenergie.nl, aug 2026 |
+| ANWB Energie | inkoopkosten 0,018 euro/kWh | anwb.nl, aug 2026 |
+| Zonneplan | tarieven staan op de eigen tarievenpagina; wij nemen geen bedrag over dat wij niet konden verifieren | — |
+| Opslag-aanname in het model | 0,02 euro/kWh | eigen aanname |
+| Dynamisch all-in bij het jaargemiddelde | 0,26 euro/kWh = (0,105 + 0,02 + 0,09161) x 1,21 | eigen model |
+| Terugleververgoeding 2027 | 0,07 euro/kWh (**aanname**, niet gepubliceerd) | eigen model |
 
-Zet de mogelijke combinaties naast elkaar en het patroon is duidelijk. Onderstaande bandbreedtes zijn modelmatige schattingen voor een gemiddeld huishouden (circa 3.500 kWh verbruik) bij de energieprijzen van 2026 — geen gemeten resultaten:
+De **ODE bestaat sinds 2023 niet meer** als aparte post op je rekening; die is opgegaan in de energiebelasting. De netbeheerkosten zijn een vast jaarbedrag per aansluiting en veranderen niet door je contractvorm of door een batterij.
 
-| Setup | Geschatte jaarlijkse besparing t.o.v. een vast contract |
+## Waarom batterij plus dynamisch meer doet dan elk afzonderlijk
+
+Zonder batterij bepaalt het toeval wanneer je goedkoop inkoopt: je bent afhankelijk van wanneer je thuis bent en wanneer je panelen produceren. Met een batterij kies je zelf het moment van inkoop en van verbruik. Dat is precies de reden dat de twee elkaar versterken:
+
+| Setup | Wat het oplevert |
 |---|---|
-| Alleen zonnepanelen (saldering actief) | €600-€900 |
-| Alleen dynamisch contract (geen panelen) | €150-€250 |
-| Zonnepanelen + vast contract | €600-€900 |
-| Zonnepanelen + dynamisch contract | €800-€1.100 |
-| Zonnepanelen + thuisbatterij + vast | €900-€1.200 |
-| **Zonnepanelen + thuisbatterij + dynamisch** | **€1.050-€1.500** |
+| Alleen zonnepanelen | Waarde van eigen opwek, tot 1-1-2027 nog verrekend via saldering |
+| Alleen dynamisch contract | Voordeel op het deel van je verbruik dat je kunt verschuiven |
+| Zonnepanelen + dynamisch | Bovenstaande twee, plus teruglevering tegen de uurprijs |
+| Zonnepanelen + batterij + vast contract | Eigen zonnestroom 's avonds gebruiken in plaats van terugleveren |
+| **Zonnepanelen + batterij + dynamisch** | **Beide bronnen tegelijk: opslag én handelen op prijsverschillen** |
 
-De winst van de combinatie is meer dan de som der delen. De reden: de batterij maakt de *arbitrage* mogelijk. Zonder batterij kun je niet kiezen wanneer je goedkoop inkoopt — je bent afhankelijk van wanneer je thuis bent en wanneer je panelen produceren. Met batterij stuur je alles.
-
----
+Wij zetten er bewust geen euro-bandbreedtes bij: die zouden per situatie zo ver uiteenlopen dat ze niets zeggen. De doorrekening voor één concreet profiel staat verderop onder "Rekenvoorbeeld".
 
 ## Seizoenspatroon: twee opbrengstbronnen die elkaar afwisselen
 
-Het belangrijkste om te begrijpen aan deze combinatie is dat de twee opbrengstbronnen tegengesteld door het jaar bewegen. Dat volgt rechtstreeks uit de aard van de Nederlandse elektriciteitsmarkt en het zonaanbod:
+De twee opbrengstbronnen bewegen tegengesteld door het jaar:
 
-- **Zomer (mei-augustus):** veel zonproductie, dus veel te bufferen. Tegelijk is de prijsvolatiliteit op de spotmarkt in deze periode juist relatief laag — met veel zon en gematigde vraag zijn de dagelijkse prijspieken kleiner. Zonne-opslag levert dan het meeste op, arbitrage het minste.
-- **Winter (november-februari):** nauwelijks zonproductie, dus vrijwel niets te bufferen uit eigen opwek. Maar juist dan is de volatiliteit het grootst: koude, windstille dagen geven forse avondpieken, terwijl nachten met veel wind extreem lage of zelfs negatieve prijzen kennen. Arbitrage levert dan het meeste op.
+- **Zomer (mei-augustus):** veel zonproductie, dus veel te bufferen. Tegelijk is de prijsspreiding op de markt in die maanden vaak beperkt. Opslag levert dan het meeste op, handelen het minste.
+- **Winter (november-februari):** nauwelijks zonproductie, dus weinig te bufferen uit eigen opwek. Maar juist dan is de spreiding groot: koude, windstille dagen geven forse avondpieken, terwijl winderige nachten zeer lage of negatieve prijzen kennen. Handelen levert dan het meeste op.
 - **Voorjaar en najaar:** beide bronnen dragen bij, in wisselende verhouding.
 
-Praktisch gevolg: een batterij op een dynamisch contract levert het hele jaar door op, maar via verschillende mechanismen. Wie alleen naar de zomermaanden kijkt, onderschat de winterwaarde — en omgekeerd. Dat maakt ook dat één of twee maanden meten geen betrouwbaar beeld geeft van het jaarrendement; je hebt minimaal een volledig kalenderjaar nodig.
+Praktisch gevolg: één of twee maanden meten geeft geen betrouwbaar beeld van het jaarrendement. Daar heb je een volledig kalenderjaar voor nodig.
 
-Voor concrete bedragen: zie de modelberekening verderop in dit artikel onder "Rekenvoorbeeld: verdienmodel uitgewerkt". De uitkomst hangt sterk af van de marktvolatiliteit in een specifiek jaar, en die is niet vooraf te voorspellen.
+## Welke batterijen werken met welke leverancier
 
----
+| Batterij | Aansturing via eigen platform | Via huisautomatisering |
+|---|---|---|
+| Huawei Luna 2000 | ja, eigen app | ja |
+| Sessy | ja, open API | ja |
+| Marstek | beperkt | ja |
+| Tesla Powerwall 3 | beperkt | ja, complex |
+| EcoFlow PowerOcean | beperkt | ja |
+| BYD Battery-Box | via omvormer | ja |
 
-## Vergelijking: batterijmerken en hun dynamic-pricing compatibiliteit
-
-Niet elke batterij werkt even goed met elk dynamisch contract. Dit is cruciaal voor je keuze.
-
-| Batterijmerk | Frank Energie | Tibber | ANWB Dynamisch | Zonneplan | Via HA |
-|---|---|---|---|---|---|
-| Huawei Luna 2000 | Via HA (goed) | ✅ Native | Beperkt | ✅ Native | ✅ |
-| Sessy | Via API | Via API | ❌ | ❌ | ✅ |
-| Marstek Venus E | Via HA | Via HA | ❌ | ❌ | ✅ |
-| Tesla Powerwall 3 | Via HA (beperkt) | Via HA (beperkt) | ❌ | ❌ | ✅ (complex) |
-| EcoFlow PowerOcean | Via HA | Via HA | ❌ | ❌ | ✅ |
-| BYD Battery-Box | Via omvormer/HA | Via omvormer | ❌ | ❌ | ✅ |
-
-**Beste native combinaties**:
-- Huawei Luna + Tibber (directe integratie, minimale setup)
-- Huawei Luna + Zonneplan (specifiek gebouwd voor deze combo)
-- Sessy + Frank via API (goed voor tech-savvy gebruikers)
-- Elk merk + Home Assistant + Frank/Tibber (maximale flexibiliteit)
-
-Als je nu een batterij koopt én een dynamisch contract overweegt: check eerst of de combinatie native werkt. Dat bespaart je 10-20 uur configuratietijd.
-
----
+Welke leverancier welke batterij rechtstreeks aanstuurt, wisselt: integraties worden toegevoegd en verdwijnen weer. Controleer dat vóór aankoop bij zowel de batterijfabrikant als de leverancier, in plaats van op een tabel in een artikel te vertrouwen. Wij nemen hier geen integratieclaims per leverancier over die wij niet in de documentatie van beide partijen konden terugvinden.
 
 ## Wat is een dynamisch energiecontract?
 
-### Vaste vs dynamische contracten
-
 | Aspect | Vast contract | Dynamisch contract |
 |---|---|---|
-| **Prijs per kWh** | Vast tarief (bijv. €0,28) | Wisselend per uur |
-| **Prijsbasis** | Afgesproken bij afsluiten | EPEX-spotmarktprijs |
-| **Goedkoopste momenten** | Altijd dezelfde prijs | 's Nachts, overdag bij zon/wind |
-| **Duurste momenten** | Altijd dezelfde prijs | 's Avonds (17-21u), koude windstille dagen |
-| **Risico** | Geen | Incidenteel hoge prijzen |
-| **Besparingspotentieel** | Beperkt | Hoog (met slim verbruik) |
+| Prijs per kWh | vast tarief voor de looptijd | wisselt per uur |
+| Prijsbasis | afgesproken bij afsluiten | day-ahead marktprijs |
+| Goedkoopste momenten | altijd dezelfde prijs | 's nachts en midden op de dag bij veel zon of wind |
+| Duurste momenten | altijd dezelfde prijs | 17:00-21:00 en koude windstille dagen |
+| Risico | bij de leverancier | bij jou |
+| Besparingspotentieel | beperkt | afhankelijk van hoeveel je kunt verschuiven |
 
-Bij een dynamisch contract fluctueert de stroomprijs ieder uur. Op een gemiddelde dag kan de prijs variëren van **€0,05/kWh** (of zelfs negatief!) midden op de dag tot **€0,35-0,50/kWh** in de avondpiek.
+De prijs die je op een dynamisch contract per kWh betaalt is: (marktprijs + opslag + energiebelasting) x 1,21. Bij het jaargemiddelde van 2025 en de opslag-aanname van 0,02 euro/kWh komt dat uit op circa **0,26 euro/kWh**. In het duurste uur van 2025 (0,63 euro/kWh marktprijs) was dat circa 0,90 euro/kWh; in een uur met een marktprijs van 0,02 euro nog altijd circa 0,16 euro/kWh, omdat belasting en btw doorlopen.
 
-### Waarom schommelen prijzen?
+## Energie-arbitrage: het mechanisme
 
-De stroomprijs op de EPEX-spotmarkt wordt bepaald door vraag en aanbod:
+1. **Laden** wanneer de uurprijs laag is (nacht, of middag bij veel zon)
+2. **Ontladen** wanneer de prijs hoog is (avondpiek)
+3. Het **prijsverschil** is je opbrengst
 
-- **Goedkoop**: Veel windenergie, veel zon, lage vraag (nachten, weekenden)
-- **Duur**: Weinig hernieuwbare energie, hoge vraag (koude winteravonden, weinig wind)
-- **Negatief**: Extreem veel aanbod (zeer zonnige/winderige dagen) -- je wordt betaald om stroom af te nemen
+Een belangrijk detail dat vaak wordt gemist: **energiebelasting en btw betaal je op beide momenten**, dus die vallen tegen elkaar weg. De winst per kWh is daardoor gelijk aan het verschil in *marktprijs* maal 1,21, verminderd met de laad- en ontlaadverliezen van de batterij.
 
----
+Ter illustratie een dagpatroon (geen gemeten dag, maar een typisch verloop):
 
-## Energie-arbitrage met een thuisbatterij
-
-### Het principe
-
-Energie-arbitrage is simpel:
-
-1. **Laden** wanneer stroom goedkoop is (nachts, overdag bij veel zon/wind)
-2. **Ontladen** wanneer stroom duur is (avondpiek, koude windstille momenten)
-3. Het **prijsverschil** is je winst
-
-### Een typisch dagscenario
-
-| Tijd | EPEX-prijs (excl. belasting) | Actie thuisbatterij |
+| Tijd | Marktprijs (indicatief) | Actie thuisbatterij |
 |---|---|---|
-| 02:00-06:00 | €0,02-0,05/kWh | Laden vanuit het net |
-| 08:00-16:00 | €0,05-0,15/kWh | Laden vanuit zonnepanelen |
-| 17:00-21:00 | €0,25-0,40/kWh | Ontladen voor eigen gebruik |
-| 22:00-01:00 | €0,10-0,15/kWh | Standby of licht laden |
+| 02:00-06:00 | laag | laden vanuit het net |
+| 08:00-16:00 | laag tot midden | laden vanuit zonnepanelen |
+| 17:00-21:00 | hoog | ontladen voor eigen gebruik |
+| 22:00-01:00 | midden | standby of licht laden |
 
-**Besparing per cyclus** (indicatie):
-- Laadprijs: ~€0,05/kWh (all-in met belasting: ~€0,15/kWh)
-- Ontladmoment: ~€0,30-0,35/kWh (all-in)
-- Verschil: ~€0,15-0,20 per kWh
-- Bij 10 kWh batterij: **€1,35-1,80 per dag** (na efficientieverliezen)
+Rekenvoorbeeld per cyclus, met een aangenomen bruikbaar verschil in marktprijs van 0,12 euro/kWh: 0,12 x 1,21 = 0,145 euro per kWh. Bij een batterij van 10 kWh en 90% rendement is dat 10 x 0,9 x 0,145 = **circa 1,31 euro per volledige cyclus**. De actuele uurprijzen van vandaag en morgen staan op onze [stroomprijzenpagina](/stroomprijzen/); daar zie je zelf hoe groot het verschil op een gegeven dag is.
 
-Let op: de all-in prijs omvat de EPEX-spotprijs plus energiebelasting, ODE, BTW en leveringskosten. De marge is daarom kleiner dan het verschil in kale spotprijzen.
+## Twee opbrengstbronnen naast elkaar
 
----
+### Bron 1: zonnestroom opslaan
 
-## Twee inkomstenbronnen: zonne-opslag + arbitrage
+Overdag opgewekte stroom opslaan en 's avonds zelf verbruiken. De waarde hiervan stijgt zodra de **salderingsregeling per 1 januari 2027 volledig stopt**: vanaf dat moment levert teruggeleverde stroom niet meer je afnametarief op, maar alleen de terugleververgoeding uit je contract. Het verschil tussen die twee is precies wat je met opslag bespaart.
 
-De kracht van een thuisbatterij met een dynamisch contract zit in de combinatie van twee inkomstenbronnen:
+### Bron 2: handelen op prijsverschillen
 
-### Bron 1: Zonne-energie opslaan
+Laden op goedkope uren en ontladen op dure uren, ook op dagen dat je panelen weinig produceren. Dit werkt naast de zonne-opslag en benut de batterij in de wintermaanden.
 
-Dit is de "klassieke" functie: overdag opgewekte zonnestroom opslaan voor eigen gebruik in de avond. De besparing wordt steeds groter naarmate de salderingsregeling wordt afgebouwd.
+## Rekenvoorbeeld: het verdienmodel uitgewerkt
 
-- **Besparing**: €400-600/jaar (afhankelijk van systeem en saldering)
+Dit is een modelberekening, geen meting. De aannames:
 
-Meer over de terugverdientijd van zonne-opslag lees je in ons artikel [Thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/).
+- **Thuisbatterij:** 10 kWh bruikbaar, rendement 90%
+- **Zonnepanelen:** circa 4.500 Wp
+- **Investering:** 5.500 euro inclusief installatie en 21% btw (geen rijkssubsidie beschikbaar)
+- **Jaarverbruik:** 3.500 kWh
+- **Afnameprijs dynamisch:** 0,26 euro/kWh all-in (jaargemiddelde 2025 + opslag-aanname 0,02 + energiebelasting 2026 + btw)
+- **Terugleververgoeding:** 0,07 euro/kWh (aanname; niet gepubliceerd en per contract verschillend)
+- **Bruikbaar verschil in marktprijs voor handelen:** 0,12 euro/kWh (aanname)
+- **Vaste contractkosten:** 71,88 euro per jaar (Tibber, 5,99 euro per maand voor één energiesoort)
+- **Situatie:** na 1 januari 2027, dus zonder saldering
 
-### Bron 2: Energie-arbitrage
+**Bron 1 — zonnestroom opslaan:** 2.250 kWh per jaar door de batterij, maal 90% rendement = 2.025 kWh die je zelf verbruikt in plaats van terug te leveren. Waarde per kWh: 0,26 − 0,07 = 0,19 euro. Opbrengst: 2.025 x 0,19 = **385 euro per jaar**.
 
-Extra besparing door slim laden en ontladen op basis van dynamische prijzen. Dit werkt naast je zonne-opslag en benut de batterij ook op momenten dat je zonnepanelen niet produceren.
+**Bron 2 — handelen op prijsverschillen:** 100 volledige cycli per jaar naast de zonne-opslag, 10 kWh per cyclus, 90% rendement, 0,145 euro voordeel per kWh: 100 x 10 x 0,9 x 0,145 = **131 euro per jaar**. In een jaar met veel prijsspreiding en 180 bruikbare cycli: **235 euro per jaar**.
 
-- **Extra besparing**: €150-300/jaar (gemiddeld)
-- **In gunstige jaren**: Tot €500/jaar
+| Component | Conservatief | Gunstig jaar |
+|---|---|---|
+| Zonnestroom opslaan | 385 euro | 385 euro |
+| Handelen op prijsverschillen | 131 euro | 235 euro |
+| Vaste kosten dynamisch contract | −72 euro | −72 euro |
+| **Netto per jaar** | **444 euro** | **548 euro** |
+| **Terugverdientijd bij 5.500 euro** | **circa 12,4 jaar** | **circa 10,0 jaar** |
 
-### Totale besparing
-
-| Inkomstenbron | Besparing/jaar |
-|---|---|
-| Zonne-opslag (na salderingsafbouw) | €400-600 |
-| Energie-arbitrage (dynamisch contract) | €150-300 |
-| **Totaal** | **€550-900** |
-
-Voor een thuisbatterij bestaat geen ISDE-subsidie, dus reken met de volledige investering inclusief 21% btw. Bij een modelbedrag van €5.500 voor een 10 kWh-systeem inclusief installatie komt de terugverdientijd bij deze besparing uit op **circa 6 tot 10 jaar**. Dat is een modelberekening, geen garantie: de spread op de markt en je eigen verbruikspatroon bepalen de uitkomst.
-
----
+Voor een thuisbatterij bestaat geen ISDE-subsidie, dus reken met de volledige investering inclusief 21% btw. Vervang de aannames door je eigen cijfers — vooral het investeringsbedrag en de aangenomen prijsspreiding hebben grote invloed op de uitkomst.
 
 ## Welke dynamische leveranciers zijn geschikt?
 
-### Tibber
+| Leverancier | Vaste kosten per maand | Inkoopvergoeding per kWh | Peildatum |
+|---|---|---|---|
+| Tibber | 5,99 euro **per energiesoort** | 0,0248 euro | aug 2026 |
+| Frank Energie | publiceert geen consumentenprijs | rekent een inkoopvergoeding; bedrag niet publiek. Terugleverstaffel sinds 1-6-2025 | aug 2026 |
+| ANWB Energie | geen eenduidig servicebedrag gepubliceerd | 0,018 euro | aug 2026 |
+| Zonneplan | zie tarievenpagina leverancier | zie tarievenpagina leverancier | — |
 
-**Tibber** is de meest populaire dynamische energieleverancier voor thuisbatterij-eigenaren. De Tibber-app toont realtime prijzen en het platform integreert met diverse thuisbatterij-systemen.
+Let op de betekenis van "per energiesoort" bij Tibber: neem je zowel stroom als gas af, dan betaal je die 5,99 euro twee keer. Over een eventueel prijsdempingsmechanisme bij ANWB doen wij geen uitspraak; wij hebben dat niet in de voorwaarden kunnen verifieren. Het actuele overzicht van aanbieders staat in onze [vergelijker dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/).
 
-- Dynamisch uurtarief op basis van EPEX-spotprijs
-- Maandelijkse vaste vergoeding: €3,99
-- App met prijsweergave, verbruiksinzicht en slimme sturing
-- Integratie met Huawei, SolarEdge, en Home Assistant
-- Slimme laadprofielen voor thuisbatterij en elektrische auto
-
-### Zonneplan
-
-**Zonneplan** is een Nederlandse dynamische energieleverancier die sterk inzet op de combinatie met zonnepanelen en thuisbatterijen.
-
-- Dynamisch uurtarief op basis van EPEX-spotprijs
-- Maandelijkse vaste vergoeding: €4,95
-- Eigen slimme sturing voor thuisbatterijen
-- Directe integratie met Huawei Luna 2000
-- App met uitgebreid energieoverzicht
-
-### ANWB Energie
-
-**ANWB Energie** biedt een dynamisch tarief met de betrouwbaarheid van een gevestigde partij.
-
-- Dynamisch uurtarief
-- Maandelijkse vergoeding: circa €5,95
-- Minder directe thuisbatterij-integratie dan Tibber of Zonneplan
-- Bruikbaar met Home Assistant-setup
-
-### Frank Energie
-
-**Frank Energie** is een transparante dynamische leverancier met lage tarieven.
-
-- Dynamisch uurtarief met lage opslag
-- Maandelijkse vergoeding: €2,95
-- Geen directe thuisbatterij-integratie
-- Goed bruikbaar via Home Assistant
-
-### Vergelijkingstabel
-
-| Leverancier | Maandkosten | Thuisbatterij-integratie | App-kwaliteit | Beste voor |
-|---|---|---|---|---|
-| **Tibber** | €3,99 | Goed (Huawei, SolarEdge, HA) | Uitstekend | Meeste thuisbatterij-eigenaren |
-| **Zonneplan** | €4,95 | Goed (Huawei) | Goed | Huawei Luna-eigenaren |
-| **ANWB Energie** | ~€5,95 | Beperkt (via HA) | Goed | Traditionele klanten |
-| **Frank Energie** | €2,95 | Beperkt (via HA) | Redelijk | Laagste kosten |
-
----
+<div class="cta cta-affiliate">
+<strong>Tibber bekijken</strong><br>
+Tibber rekent 5,99 euro per maand per energiesoort plus 0,0248 euro per kWh inkoopvergoeding (peildatum augustus 2026) en is maandelijks opzegbaar. Wij ontvangen geen vergoeding als je overstapt.<br>
+<a href="https://go.duurzaamthuislab.nl/tibber" rel="noopener nofollow">Naar Tibber</a>
+</div>
 
 ## Welke thuisbatterijen ondersteunen slim laden?
 
-Niet elke thuisbatterij kan automatisch reageren op dynamische prijzen. Je hebt een systeem nodig dat:
+Je hebt een systeem nodig dat:
 
-1. **Externe aansturing accepteert** (via API, Modbus, of integratieplatform)
+1. **Externe aansturing accepteert** (via API, Modbus of een integratieplatform)
 2. **Laad- en ontlaadtijden kan inplannen** op basis van prijssignalen
-3. **Compatibel is** met je dynamische energieleverancier of een home automation-systeem
+3. **Samenwerkt** met je leverancier of met een huisautomatiseringssysteem
 
-### Huawei Luna 2000 + FusionSolar
+De Huawei Luna 2000 en de SolarEdge Home Battery bieden aansturing via het eigen platform van de fabrikant; de Sessy heeft een open API. Vrijwel elk merk is daarnaast via Home Assistant aan te sturen op basis van de uurprijzen, met de kanttekening dat dat technische kennis en instelwerk vraagt.
 
-De **Huawei Luna 2000** is de meest populaire keuze voor slim laden in Nederland. Via de FusionSolar-app en integraties met Tibber en Zonneplan kun je de batterij automatisch laten laden en ontladen op basis van dynamische tarieven.
+Lees meer in onze [Huawei Luna 2000 review](/posts/huawei-luna-2000-review-2026/) en in het overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatterij-nederland-2026/).
 
-- Directe integratie met Tibber en Zonneplan
-- Programmeerbare laad- en ontlaadschema's
-- Goede prijs per kWh
+## Stap voor stap aan de slag
 
-Lees meer in onze [Huawei Luna 2000 review](/posts/huawei-luna-2000-review-2026/).
+**Stap 1 — check je situatie:** hoeveel Wp aan panelen heb je, welke omvormer, wat is je jaarverbruik en heb je een slimme meter met werkende P1-poort?
 
-### SolarEdge Home Battery + Home Hub
+**Stap 2 — kies een batterij** die past bij je omvormer en die externe aansturing ondersteunt. Reken eerst je avondpiekverbruik uit voordat je een capaciteit kiest.
 
-De **SolarEdge Home Battery** biedt via het SolarEdge Home Hub-platform en integraties met Tibber slimme laadprofielen.
+**Stap 3 — laat installeren en check lokale regelingen.** Vraag minimaal drie offertes aan. Voor thuisbatterijen bestaat geen ISDE-subsidie; sommige gemeenten en provincies hebben een eigen regeling, en die eisen bijna altijd aanvraag vóór installatie. Zie onze [subsidiegids](/posts/zonnepanelen-subsidie-nederland-2026/).
 
-- Integratie via SolarEdge Energy Hub
-- Programmeerbare schema's
-- Goede monitoring via SolarEdge-app
+**Stap 4 — stap over naar een dynamisch contract.** De overstap duurt doorgaans enkele weken. Controleer de opzegvoorwaarden van je huidige contract.
 
-### Via Home Assistant (alle merken)
+**Stap 5 — stel de sturing in**, via het platform van je batterij, de app van je leverancier of huisautomatisering.
 
-**Home Assistant** is een open-source home automation-platform dat vrijwel elke thuisbatterij kan aansturen op basis van dynamische prijzen. Met de juiste integraties (EPEX-prijzen, batterij-aansturing) kun je een volledig geautomatiseerd systeem bouwen.
-
-- Werkt met Huawei, BYD, SolarEdge, Victron, Tesla en meer
-- Maximale flexibiliteit en controle
-- Vereist technische kennis voor setup
-- Grote community met kant-en-klare automatiseringen
-
-### Geschiktheidstabel
-
-| Thuisbatterij | Directe integratie | Via Home Assistant | Complexiteit |
-|---|---|---|---|
-| **Huawei Luna 2000** | Tibber, Zonneplan | Ja | Laag |
-| **SolarEdge Home Battery** | Tibber (via Hub) | Ja | Gemiddeld |
-| **BYD Battery-Box** | Beperkt | Ja (via omvormer) | Gemiddeld |
-| **Tesla Powerwall** | Beperkt | Ja | Gemiddeld |
-| **Enphase IQ Battery** | Beperkt | Ja | Hoog |
-
-Bekijk ons overzicht van de [beste thuisbatterijen 2026](/posts/beste-thuisbatterij-nederland-2026/) voor een complete vergelijking.
-
----
-
-## Rekenvoorbeeld: verdienmodel uitgewerkt
-
-### Uitgangspunten
-
-- **Thuisbatterij**: Huawei Luna 2000, 10 kWh
-- **Zonnepanelen**: 12 stuks (4.500 Wp)
-- **Energieleverancier**: Tibber (dynamisch)
-- **Investering**: €5.500 inclusief installatie en 21% btw (modelbedrag, geen rijkssubsidie beschikbaar)
-- **Batterij-efficientie**: 90%
-- **Jaarverbruik**: 3.500 kWh
-
-### Besparing door zonne-opslag (na salderingsafbouw)
-
-- Opgeslagen zonnestroom: 2.250 kWh/jaar
-- Waarde: 2.250 x €0,23 (verschil afname/teruglever) = **€518/jaar**
-
-### Besparing door energie-arbitrage
-
-- Beschikbare cycli voor arbitrage (naast zonne-opslag): ~100 cycli/jaar
-- Gemiddeld prijsverschil: €0,15/kWh
-- Per cyclus: 10 kWh x 0,9 (efficientie) x €0,15 = €1,35
-- Jaarlijks: 100 x €1,35 = **€135/jaar**
-
-In gunstige marktomstandigheden (veel prijsvolatiliteit):
-- Extra cycli: 150-200 per jaar
-- Jaarlijkse arbitrage-besparing: **€200-300/jaar**
-
-### Totale besparing
-
-| Component | Conservatief | Optimistisch |
-|---|---|---|
-| Zonne-opslag | €518 | €518 |
-| Energie-arbitrage | €135 | €300 |
-| **Totaal** | **€653** | **€818** |
-| **Terugverdientijd bij €5.500 investering** | **circa 8,5 jaar** | **circa 6,7 jaar** |
-
-Dit is een modelberekening met de aannames hierboven, bedoeld als indicatie. Vul je eigen investeringsbedrag en verbruik in voor een realistischer beeld.
-
----
-
-## Stap-voor-stap: zo ga je aan de slag
-
-### Stap 1: Check je huidige situatie
-- Heb je zonnepanelen? Hoeveel Wp?
-- Welke omvormer heb je (merk en type)?
-- Wat is je jaarlijks stroomverbruik?
-- Heb je al een slimme meter?
-
-### Stap 2: Kies een thuisbatterij
-Kies een batterij die compatibel is met je omvormer en die slim laden ondersteunt. De [Huawei Luna 2000](/posts/beste-thuisbatterij-nederland-2026/) is in de meeste gevallen de beste keuze voor de combinatie met een dynamisch contract.
-
-### Stap 3: Laat installeren en check gemeentelijke regelingen
-Vraag minimaal drie offertes aan bij gecertificeerde installateurs. Voor thuisbatterijen bestaat geen ISDE-subsidie; sommige gemeenten en provincies hebben wel een eigen regeling. Check dat vóór je een opdracht geeft, want zulke regelingen eisen bijna altijd aanvraag vóór installatie. Lees onze [subsidiegids](/posts/zonnepanelen-subsidie-nederland-2026/) voor wat er wél is.
-
-### Stap 4: Stap over naar een dynamisch contract
-Meld je aan bij Tibber, Zonneplan of een andere dynamische leverancier. De overstap duurt doorgaans 2-4 weken. Er zijn geen overstapkosten.
-
-### Stap 5: Stel slim laden in
-Configureer de batterij om automatisch te laden en ontladen op basis van de dynamische prijzen. Dit kan via:
-- De app van je leverancier (Tibber, Zonneplan)
-- Het platform van je batterij (FusionSolar, SolarEdge)
-- Home Assistant (voor maximale controle)
-
-### Stap 6: Monitor en optimaliseer
-Houd je besparing bij via de apps. De eerste maanden zul je je instellingen finetunen. Na een kwartaal heb je een goed beeld van je werkelijke besparing.
-
----
+**Stap 6 — monitor en stel bij.** De eerste maanden gaan op aan finetunen.
 
 ## Risico's en aandachtspunten
 
-### Dynamische prijzen kunnen hoog zijn
-Op koude, windstille winterdagen kan de stroomprijs oplopen tot €0,50-1,00/kWh. Als je batterij op dat moment leeg is en je geen zonnepanelen-opbrengst hebt, betaal je het volle pond. Een goed geconfigureerd systeem voorkomt dit door vooraf te laden.
+**Prijzen kunnen hoog oplopen.** Op koude, windstille dagen loopt de uurprijs op; het duurste uur van 2025 kostte 0,63 euro/kWh kale marktprijs, oftewel circa 0,90 euro/kWh all-in. Staat je batterij op zo'n moment leeg, dan betaal je het volle tarief. Een goed ingestelde sturing laadt daarom vooruit.
 
-### Niet elke dag is winstgevend
-Op dagen met weinig prijsverschil (vlak tariefverloop) levert arbitrage weinig op. De besparing zit in het gemiddelde over het hele jaar.
+**Niet elke dag is winstgevend.** Op dagen met een vlak prijsverloop levert handelen niets op. De opbrengst zit in het jaargemiddelde.
 
-### Complexiteit
-Slim laden instellen vereist enige technische affiniteit, vooral als je Home Assistant gebruikt. De directe integraties van Tibber en Zonneplan zijn eenvoudiger maar bieden minder controle.
+**Complexiteit.** Sturing op uurprijzen instellen vraagt technische affiniteit, zeker via huisautomatisering.
 
-### Batterijslijtage
-Elke extra laadcyclus voor arbitrage draagt bij aan slijtage van de batterij. Met LiFePO4-batterijen (3.000-10.000 cycli) is dit acceptabel, maar het is een factor in de berekening.
+**Batterijslijtage.** Elke extra cyclus draagt bij aan slijtage. Bij LiFePO4-cellen met duizenden cycli is dat beheersbaar, maar het hoort in de berekening thuis.
 
----
+## Veelgemaakte fouten
 
-## Veelgemaakte fouten bij de combinatie batterij + dynamisch contract
+**Fout 1: batterij zonder energiemanagementsysteem.** Zonder koppeling aan de uurprijzen laadt en ontlaadt de batterij alleen op eigen opwek, en mis je de handelsopbrengst volledig.
 
-Uit gebruikersforums en klachtenmeldingen over teleurstellende batterijopbrengsten komen vijf oorzaken steeds terug. Ze zijn allemaal vermijdbaar.
+**Fout 2: te kleine batterij voor het profiel.** Bij een huishouden met warmtepomp en elektrische auto raakt een kleine batterij 's avonds leeg voordat de piek voorbij is.
 
-**Fout 1: Batterij instellen zonder HEMS**
-Een thuisbatterij zonder energiemanagementsysteem laadt en ontlaadt op basis van zonne-energie alleen. Zonder HEMS-koppeling aan het dynamische contract mis je de arbitrage-opbrengst volledig. De Huawei FusionSolar-app heeft een ingebouwde HEMS; voor andere merken is Home Assistant de oplossing.
+**Fout 3: standaard volledig laden en ontladen.** Ondiepe cycli sparen de batterij. Een laadlimiet van 90% en een ontlaadminimum van 10% kost je bruikbare capaciteit maar verlengt de levensduur; hoeveel precies verschilt per fabrikant — kijk in de garantievoorwaarden.
 
-**Fout 2: Te kleine batterij voor het profiel**
-Een 5 kWh batterij bij een huishouden met warmtepomp en EV-lader is te klein. De batterij raakt 's avonds leeg voordat de EV opgeladen is, en 's nachts is er geen ruimte voor goedkope netopslag. Reken altijd eerst je dagelijkse avondpiekverbruik uit voordat je een capaciteit kiest.
+**Fout 4: aannemen dat leverancier en batterij samenwerken.** Controleer de integratie vóór aankoop bij beide partijen.
 
-**Fout 3: Batterij volledig laden/ontladen voor arbitrage**
-Diep cyclen (0-100%) slijt een batterij sneller dan ondiepe cycli (20-80%). Bij LiFePO4-batterijen is het verschil beperkt, maar het is verstandig om de laadlimiet op 90% en het ontlaadminimum op 10% te zetten. Je verliest 20% nuttig gebruik, maar de batterijlevensduur verlengt met 30-40%.
+**Fout 5: rekenen met een subsidie die niet bestaat.** De ISDE voor woningeigenaren dekt isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — geen thuisbatterijen, geen zonnepanelen en geen laadpalen. Kijk in plaats daarvan naar een gemeentelijke of provinciale regeling, en vraag die aan vóór installatie.
 
-**Fout 4: Niet checken welk leverancier echt integreert**
-Niet elke dynamische leverancier integreert even goed met elke batterij. Zonneplan integreert specifiek met Huawei Luna. Tibber werkt breder maar vereist soms een extra API-koppeling. Frank werkt het best via Home Assistant. Check vóór aankoop of je batterijmerk en je leverancier samenwerken.
+## Wettelijk kader 2026
 
-**Fout 5: rekenen met een subsidie die niet bestaat**
-De ISDE voor woningeigenaren dekt isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — geen thuisbatterijen. Wie de businesscase rond rekent met een verwachte rijkssubsidie op de accu, komt bedrogen uit. Kijk in plaats daarvan of jouw gemeente of provincie een eigen batterijregeling heeft, en vraag die dan aan vóór de installatie.
+**Geen ISDE-subsidie op thuisbatterijen.** De ISDE dekt volgens RVO uitsluitend isolatie, ventilatie in combinatie met isolatie, (hybride) warmtepompen, zonneboilers, een aansluiting op een warmtenet en elektrisch koken.
 
----
+**Btw op een thuisbatterij: 21%.** Het 0%-tarief geldt alleen voor zonnepanelen en wat direct nodig is om ze te laten werken: kabels, montagemateriaal, optimizers, omvormers en aanpassingen aan meterkast en dak. Een accupakket valt daar uitdrukkelijk buiten, ook als je het samen met de panelen koopt. In specifieke gevallen kun je btw terugvragen als btw-ondernemer; de Belastingdienst stelt daarbij voorwaarden. Reken daar niet standaard op.
 
-## Wettelijk kader 2026 voor thuisbatterijen en dynamische contracten
+**Anti-eilandbeveiliging.** Elke netgekoppelde batterij schakelt bij netuitval automatisch af. Wil je noodstroom, dan heb je extra hardware nodig; de kosten daarvan vraag je op bij je installateur.
 
-**Geen ISDE-subsidie op thuisbatterijen:** de ISDE voor woningeigenaren dekt volgens RVO uitsluitend isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een aansluiting op een warmtenet en elektrisch koken. Thuisbatterijen staan er niet in — en zonnepanelen en laadpalen ook niet. Wat er wél kan zijn: losse gemeentelijke of provinciale batterijregelingen (per gemeente verschillend) en het financiële effect van de salderingsafbouw, die eigen gebruik van zonnestroom juist waardevoller maakt.
+**Terugleveren van batterijstroom** aan het net mag; je ontvangt de terugleververgoeding van je leverancier. Bij incidenteel gebruik is dat een particuliere activiteit. Wie systematisch en bedrijfsmatig handelt, kan fiscaal anders worden behandeld — vraag dat na bij je boekhouder.
 
-**Btw op een thuisbatterij: 21%.** Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst de panelen zelf plus wat direct nodig is om ze te laten werken: kabels, PV-verdeler, montagemateriaal, optimizers, omvormers en aanpassingen aan meterkast en dak. De levering en installatie van een accupakket of thuisbatterij valt daar uitdrukkelijk buiten en houdt 21% btw — ook als je de batterij samen met de panelen koopt. In specifieke gevallen kun je die btw terugvragen als je als btw-ondernemer stroom teruglevert; de Belastingdienst stelt daarbij voorwaarden, waaronder een energiemanagementsysteem en een dynamisch contract. Reken daar niet standaard op: check de actuele voorwaarden op belastingdienst.nl of vraag het je boekhouder.
+## Je eigen opbrengst bijhouden
 
-**Anti-eilandbeveiliging:** In Nederland is elke netgekoppelde batterij verplicht voorzien van anti-eilandbeveiliging. Bij stroomuitval schakelt de batterij automatisch af. Wil je noodstroom? Dan heb je een backup-box nodig — dat is extra hardware van €800-€1.500. Dit is wettelijk verplicht om de veiligheid van netwerkbeheerders te garanderen.
+Omdat het jaarrendement zo sterk afhangt van de marktspreiding in een specifiek jaar, is er maar één betrouwbare manier om te weten wat jouw systeem oplevert: zelf meten over minimaal twaalf maanden.
 
-**Terugleveren van batterijstroom aan het net:** Volledig legaal in Nederland. Je ontvangt hiervoor het teruglevertarief van je leverancier. Let op dat de fiscus dit nog altijd behandelt als "particuliere activiteit" — als de opbrengst incidenteel is, hoef je er geen belasting over te betalen. Als je systematisch handelt (bijv. met meerdere batterijen als ondernemer), kan de belastingdienst anders oordelen.
-
----
-
-## Je eigen opbrengst bijhouden: hoe je het meet
-
-Omdat het jaarrendement zo sterk afhangt van de marktvolatiliteit in een specifiek jaar, is er maar één betrouwbare manier om te weten wat jouw systeem oplevert: zelf meten over minimaal twaalf maanden. De benodigde data is beschikbaar zonder extra hardware.
-
-**Wat je nodig hebt:**
-- De laad- en ontlaadhoeveelheden per dag uit het platform van je batterij (bij Huawei: de FusionSolar-app; SolarEdge: de monitoringportal).
-- De uurprijzen uit de app van je dynamische leverancier — Tibber, Zonneplan en Frank tonen die per uur, inclusief belastingen.
-- Je eigen verbruiks- en teruglevercijfers uit de slimme meter of P1-uitlezing.
+**Wat je nodig hebt:** de laad- en ontlaadhoeveelheden per dag uit het platform van je batterij, de uurprijzen uit de app van je leverancier, en je eigen verbruiks- en teruglevercijfers uit de P1-uitlezing.
 
 **Hoe je de twee bronnen scheidt:**
-- **Zonne-opslag:** de kWh die je batterij uit eigen opwek laadde en later zelf verbruikte, maal het verschil tussen de afnameprijs en de terugleververgoeding op dat moment. Dat verschil is precies wat je zou zijn kwijtgeraakt door terug te leveren.
-- **Arbitrage:** de kWh die je uit het net laadde bij een lage prijs en later verbruikte in plaats van dure netstroom, maal het prijsverschil, minus circa 10% rondgangsverlies van de batterij.
 
-**Waar je op moet letten in de eerste weken:** controleer dagelijks of de sturing daadwerkelijk laadt op de goedkoopste uren en niet op een vast tijdschema. Verkeerd geconfigureerde laadvensters zijn de meest genoemde oorzaak van een uitblijvende arbitrage-opbrengst. Als het patroon eenmaal klopt, kun je overgaan op maandelijkse controle.
+- **Zonne-opslag:** de kWh uit eigen opwek die je via de batterij zelf verbruikte, maal het verschil tussen afnameprijs en terugleververgoeding op dat moment.
+- **Handelen:** de kWh die je bij een lage prijs uit het net laadde en later verbruikte in plaats van dure netstroom, maal het prijsverschil maal 1,21, min de rondgangsverliezen van de batterij.
 
----
+Controleer in de eerste weken dagelijks of de sturing echt op de goedkoopste uren laadt en niet op een vast tijdschema. Verkeerd ingestelde laadvensters zijn de meest genoemde oorzaak van een tegenvallende opbrengst.
 
-## Conclusie: de winnende combinatie
+## Conclusie
 
-De combinatie van een thuisbatterij met een dynamisch energiecontract is een van de slimste energieinvesteringen die je in 2026 kunt doen. Je profiteert dubbel:
+Een thuisbatterij op een dynamisch contract heeft twee opbrengstbronnen die elkaar door het jaar heen afwisselen. In onze modelberekening met een batterij van 10 kWh komt dat neer op circa 445 tot 550 euro per jaar en een terugverdientijd van circa 10 tot 12,5 jaar bij een investering van 5.500 euro — zonder rijkssubsidie, want die is er voor batterijen niet, en met 21% btw op de accu.
 
-1. **Zonne-opslag** beschermt je tegen de afbouw van de salderingsregeling
-2. **Energie-arbitrage** levert extra besparing op door slim gebruik van prijsverschillen
+Of dat voor jou uitkomt, hangt af van drie dingen die je zelf moet invullen: je investeringsbedrag, hoeveel zonnestroom je werkelijk door de batterij stuurt, en hoe groot de prijsspreiding in jouw jaar is.
 
-Met een Huawei Luna 2000 en een dynamisch contract bij Tibber of Zonneplan komt onze modelberekening uit op een terugverdientijd van **circa 6 tot 10 jaar** — zonder rijkssubsidie, want die is er voor batterijen niet, en met 21% btw op de accu.
-
-**Onze aanbeveling**:
-- **Thuisbatterij**: [Huawei Luna 2000](/posts/beste-thuisbatterij-nederland-2026/) (beste integratie met dynamische contracten)
-- **Energieleverancier**: Tibber (beste app en thuisbatterij-integratie)
-- **Configuratie**: Start met de directe Tibber-integratie en stap later eventueel over op Home Assistant voor maximale controle
-
-Lees ook onze artikelen over de [thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/) en de [afbouw van de salderingsregeling](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) voor meer achtergrondinformatie.
-
-
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
-
-
+Lees ook [thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/) en [wat de stop van de saldering betekent](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/).
 
 ---
 
-**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt.

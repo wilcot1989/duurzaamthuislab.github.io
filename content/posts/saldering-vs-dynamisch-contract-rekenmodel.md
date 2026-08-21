@@ -1,8 +1,8 @@
 ---
-title: 'Saldering vs dynamisch contract: welke is voordeliger na'
+title: 'Saldering vs dynamisch contract: welke is voordeliger na 2027?'
 date: 2026-05-01 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Concrete vergelijking tussen vast contract met saldering-stop en dynamisch contract na 2027. Per huishoudprofiel doorgerekend met actuele cijfers.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: Narekenbaar model dat vast en dynamisch naast elkaar zet voor zes huishoudprofielen, met en zonder saldering — alle aannames zichtbaar.
 categories:
 - energie
 - zonne-energie
@@ -23,452 +23,222 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Wat is het belangrijkste verschil tussen vast en dynamisch contract?
-  a: Bij een vast contract betaal je een vast tarief per kWh, contractueel afgesproken voor 1-3 jaar. Bij dynamisch contract verandert het tarief per uur op basis van de groothandelsmarkt. In zonzomer-uren kunnen prijzen negatief zijn (jij krijgt geld voor afnemen), in piekuren 's avonds kunnen ze 4× hoger zijn dan een vast tarief.
-- q: Is dynamisch altijd goedkoper?
-  a: Nee. Voor huishoudens zonder slimme apparaten of EV, met afname vooral 17-20u, kan een vast contract goedkoper zijn. Maar voor zonnepaneel-bezitters is dynamisch in 90% van de gevallen voordeliger — vooral na saldering-stop, omdat dynamische contracten geen aparte terugleverkosten rekenen.
-- q: Welk dynamisch contract is het beste in 2026?
-  a: Voor de meeste mensen Tibber of Frank Energie. Tibber heeft de beste app en automation-features (smart EV charging). Frank Energie heeft de transparantste prijsstelling en eenvoudigste opzegbaarheid. ANWB Dynamisch is iets minder volatiel maar duurder.
-- q: Hoeveel bespaar ik gemiddeld?
-  a: In 2026 gemiddeld €150-€350/jaar voor een huishouden zonder zonnepanelen, €300-€600/jaar voor zonnepaneel-bezitters. Vanaf 2027 (saldering-stop) wordt het verschil groter omdat dynamisch geen terugleverkosten rekent.
-- q: Wat zijn de risico's van dynamisch?
-  a: Hogere prijspieken in extreme situaties (winterstorm zonder wind, koudegolf met weinig zon). In de winter 2025 was er één week waarin de avondprijs naar €1,20/kWh ging — voor 4 uur tijd, niet structureel. Met een slimme thermostaat en EV-laadschema heb je daar bijna geen last van.
-- q: Heb ik een slimme meter nodig?
-  a: Ja, dat is verplicht voor dynamisch contract. Heeft 95% van NL al. Heb je hem niet? Vraag gratis aan via je netbeheerder (Stedin, Liander, Enexis). Plaatsing gemiddeld 4-8 weken.
-- q: Wat kost overstappen?
-  a: 'Niets. Dynamisch contract switchen kan altijd, geen boete. Wel let op: als je een lopend vast contract hebt loopt de boete bij vroegtijdige beëindiging tot €100. Wacht eventueel de contractperiode uit en zeg dan op.'
-- q: Kan ik later weer terug naar vast?
-  a: Ja, altijd. Tibber heeft maandelijkse opzegtermijn, Frank ook. Als dynamisch toch niet bij je past kun je probleemloos terug — al verlies je bij overstap soms een welkomstbonus.
-products:
-- name: Tibber
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '6'
-- name: Frank Energie
-  url: https://www.frankenergie.nl/
-  price: '0'
-- name: ANWB Energie Dynamisch
-  url: https://www.anwb.nl/energie
-  price: '0'
-- name: Eneco Dynamisch
-  url: https://www.eneco.nl/
-  price: '0'
+- q: 'Wat is het belangrijkste verschil tussen een vast en een dynamisch contract?'
+  a: 'Bij een vast contract betaal je een vast tarief per kWh voor 1 tot 3 jaar. Bij een dynamisch contract verandert het tarief per uur, gekoppeld aan de day-ahead marktprijs, plus een inkoopvergoeding, energiebelasting en btw. In 2025 waren er 212 uren met een negatieve marktprijs; het duurste uur kostte 0,63 euro/kWh.'
+- q: 'Is dynamisch altijd goedkoper?'
+  a: 'Nee. In ons model hangt het af van twee dingen: hoeveel netstroom je na verrekening werkelijk afneemt, en hoeveel verbruik je naar goedkope uren kunt verschuiven. Bij een lage netto afname weegt het vaste maandbedrag van een dynamisch contract zwaar en kan een vast contract goedkoper uitvallen. Bij een hoge afname en flexibel verbruik wint dynamisch.'
+- q: 'Welk dynamisch contract is het beste in 2026?'
+  a: 'Dat hangt af van de tarieven op het moment dat je kiest. Tibber publiceert 5,99 euro per maand per energiesoort plus 0,0248 euro/kWh inkoopvergoeding; ANWB Energie rekent 0,018 euro/kWh inkoopkosten; Frank Energie publiceert zijn vaste kosten niet en hanteert sinds 1 juni 2025 een terugleverstaffel. Peildatum augustus 2026.'
+- q: 'Hoeveel bespaar ik gemiddeld?'
+  a: 'Dat is niet in een gemiddelde te vangen. In ons model loopt de uitkomst uiteen van enkele tientjes nadeel bij een klein huishouden met veel teruglevering tot circa 290 euro voordeel per jaar bij een groot huishouden met veel flexibel verbruik. De zes doorgerekende profielen staan in dit artikel.'
+- q: 'Wat zijn de risico''s van dynamisch?'
+  a: 'Hoge uurprijzen in koude, windstille periodes en een maandbedrag dat sterk wisselt. Ter ijking: het duurste uur van 2025 kostte 0,63 euro/kWh kale marktprijs, op 20 januari 2025 om 17:00. Het maandgemiddelde van januari 2025 lag met 0,142 euro/kWh incl. btw ver onder wat die piekuren suggereren.'
+- q: 'Heb ik een slimme meter nodig?'
+  a: 'Ja, een dynamisch contract vraagt uur- of kwartierwaarden. Heb je nog een oude meter, dan kun je die bij je netbeheerder laten vervangen; de wachttijd verschilt per regio.'
+- q: 'Wat kost overstappen?'
+  a: 'Overstappen zelf kost niets. Heb je een lopend vast contract, dan geldt bij tussentijds vertrek een gestaffelde opzegvergoeding; vraag het exacte bedrag op bij je leverancier of wacht de looptijd uit.'
+- q: 'Kan ik later weer terug naar vast?'
+  a: 'Ja. Tibber is maandelijks opzegbaar; voor andere leveranciers staan de voorwaarden in je contract. Je kunt op elk moment weer een vast contract afsluiten.'
 schema_type: Article
 ---
-Een vast contract verlengen tegen 32 cent per kWh, of overstappen naar dynamisch zonder te weten wat je gaat betalen? Voor huishoudens met zonnepanelen is dat sinds de aangekondigde saldering-stop de belangrijkste financiële keuze van het jaar. Het verschil loopt bij gangbare profielen op tot enkele honderden euro's per jaar — en na 2027 wordt dat verschil groter, niet kleiner.
+Een vast contract verlengen, of overstappen naar dynamisch? Voor huishoudens met zonnepanelen wordt die vraag urgent, want de **salderingsregeling stopt volledig per 1 januari 2027**. Er is geen afbouwpad en geen restpercentage — het schema met 64% en 28% dat op veel sites rondgaat, komt uit een wetsvoorstel dat het niet heeft gehaald.
 
-Dit artikel rekent door wat de keus tussen vast en dynamisch concreet betekent voor zes verschillende huishoudprofielen, vóór en na 2027.
+Dit artikel rekent de keuze door voor zes huishoudprofielen, in de situatie mét saldering (2026) en zonder saldering (2027). Alle aannames staan erbij, zodat je ze kunt vervangen door je eigen cijfers.
 
-*Cijfers gebaseerd op gemiddelde marktprijzen 2025-2026 en projecties voor 2027 op basis van energieagenda RVO.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Tibber, Frank Energie, ANWB Energie of Eneco (stand augustus 2026) en ontvangen geen vergoeding als je via onze links overstapt.*
 
----
+💡 *Niet zeker over de stop van de saldering? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
+> **Kort antwoord:** er komt geen eenduidig "dynamisch is goedkoper" uit dit model. Zolang de saldering nog geldt, weegt het vaste maandbedrag van een dynamisch contract zwaar bij huishoudens die weinig netto afnemen — dan is vast vaak voordeliger. Vanaf 2027 draait dat om voor huishoudens met een hoge netafname en verschuifbaar verbruik, terwijl huishoudens met veel teruglevering vooral moeten kijken naar de terugleververgoeding en terugleverkosten in hun eigen contract.
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+## De aannames van dit model
 
-> **Kort antwoord:** Concrete vergelijking tussen vast contract met saldering-stop en dynamisch contract na 2027. Per huishoudprofiel doorgerekend met actuele cijfers.
->
-> Bij een vast contract betaal je een vast tarief per kWh, contractueel afgesproken voor 1-3 jaar. Bij dynamisch contract verandert het tarief per uur op basis van de groothandelsmarkt. In zonzomer-uren kunnen prijzen negatief zijn (jij krijgt geld voor afnemen), in piekuren 's avonds kunnen ze 4× hoger zijn dan een vast tarief.
-
-## Het rekenmodel: de aannames op tafel
-
-Voor een eerlijke vergelijking rekent het model hieronder per huishoudprofiel:
-
-1. **Verbruikspatroon** per uur van de dag (wanneer wordt stroom gebruikt?)
-2. **Productiepatroon** zonnepanelen (zonuren, oost-west of zuid)
-3. **Marktprijzen** dynamisch contract (gemiddeld + spreiding)
-4. **Vaste contract** met saldering tot eind 2026, daarna terugleververgoeding
-5. **Terugleverkosten** verschillen per leverancier
-
-Voor de **dynamische berekening** is 2025-marktdata gebruikt van de EPEX day-ahead prijzen voor Nederland, omgerekend naar 2026-verwachting. De prijzen kennen seizoenspatroon (zomer goedkoper) en uurpatroon (middag laag, avond hoog).
-
-Voor de **2027-projectie** gelden deze aannames:
-- Saldering volledig weg
-- Terugleververgoeding gemiddeld €0,10/kWh bij vast contract
-- Terugleverkosten bij vaste contracten +30% vs 2026 (Eneco, Vattenfall, Essent)
-- Dynamische contractprijzen 5-10% lager gemiddeld door meer flexibiliteit op de markt
-
-## De zes huishoudprofielen
-
-### Profiel 1: Stel zonder kinderen, beiden buitenshuis werkend (9-5)
-
-- **Verbruik**: 2.800 kWh/jr
-- **Patroon**: 's avonds en weekends pieken
-- **Zonnepanelen**: 8 panelen (2,8 kWp), 2.500 kWh/jr opwekking, 800 kWh eigen verbruik, 1.700 kWh teruglevering
-
-| Scenario | 2026 | 2027 (saldering-stop) |
+| Invoerwaarde | Waarde | Bron / peildatum |
 |---|---|---|
-| Vast contract Eneco | €420 | €910 |
-| Vast contract Greenchoice | €390 | €820 |
-| Dynamisch Frank Energie | €310 | €560 |
-| **Voordeel dynamisch** | **€80-110** | **€260-350** |
+| Day-ahead jaargemiddelde 2025 | 0,105 euro/kWh | marktdata 2025 |
+| Energiebelasting stroom 2026 | 0,09161 euro/kWh excl. btw (0,11085 incl.) | Belastingdienst-tarieven 2026, aug 2026 |
+| Btw | 21% | — |
+| Tibber | 5,99 euro/mnd **per energiesoort** + 0,0248 euro/kWh | tibber.com, aug 2026 |
+| Frank Energie | inkoopvergoeding én terugleverstaffel (sinds 1-6-2025); vaste kosten: publiceert geen consumentenprijs | frankenergie.nl, aug 2026 |
+| ANWB Energie | inkoopkosten 0,018 euro/kWh | anwb.nl, aug 2026 |
+| Vast referentietarief | 0,32 euro/kWh all-in (**aanname**) | vervang door je eigen aanbod |
+| Opslag-aanname in het model | 0,02 euro/kWh | eigen aanname |
+| Dynamisch all-in bij het jaargemiddelde | **0,26 euro/kWh** = (0,105 + 0,02 + 0,09161) x 1,21 | eigen model, rekenconstante |
+| Dynamisch all-in, zonder sturing | 0,272 euro/kWh (**aanname**: marktcomponent +8% load-weighted) | eigen model |
+| Dynamisch all-in, met sturing | 0,243 euro/kWh (**aanname**: marktcomponent −15%) | eigen model |
+| Terugleververgoeding 2027 | 0,07 euro/kWh (**aanname**, niet gepubliceerd) | eigen model |
+| Vaste kosten dynamisch | 71,88 euro/jaar (Tibber, stroom) | tibber.com, aug 2026 |
 
-**Conclusie**: Voor dit profiel scheelt dynamisch in 2026 €80-€110, in 2027 €260-€350 per jaar. **Aanrader: dynamisch contract.**
+De **ODE bestaat sinds 2023 niet meer**. De **netbeheerkosten** zijn een vast jaarbedrag per regio en de **vermindering energiebelasting** een vaste jaarlijkse korting; beide zijn identiek bij vast en dynamisch en laten we daarom buiten de vergelijking. Ze staan wél op je rekening, dus de bedragen hieronder zijn géén complete jaarrekening — ze tonen het *verschil* tussen contractvormen.
 
-### Profiel 2: Gezin met 2 kinderen, parttime thuis
+Twee vereenvoudigingen die je moet kennen: wij rekenen saldering als een simpele verrekening van kWh op jaarbasis, terwijl de precieze verrekening per leverancier en per periode verschilt. En wij rekenen met één gemiddeld tarief per profiel in plaats van met uurdata.
 
-- **Verbruik**: 4.200 kWh/jr
-- **Patroon**: spreiding overdag (kinderen, parttime werk thuis), pieken avond
-- **Zonnepanelen**: 12 panelen (4,2 kWp), 3.700 kWh/jr opwekking, 2.300 kWh eigen verbruik, 1.400 kWh teruglevering
+## De zes profielen
 
-| Scenario | 2026 | 2027 |
-|---|---|---|
-| Vast contract Eneco | €860 | €1.450 |
-| Vast contract Greenchoice | €820 | €1.380 |
-| Dynamisch Frank Energie | €640 | €960 |
-| **Voordeel dynamisch** | **€180-220** | **€420-490** |
+| Profiel | Verbruik | Eigen verbruik zonnestroom | Teruglevering | Netto afname (2026, gesaldeerd) | Bruto afname (2027) |
+|---|---|---|---|---|---|
+| 1. Stel, beiden buitenshuis | 2.800 kWh | 800 kWh | 1.700 kWh | 300 kWh | 2.000 kWh |
+| 2. Gezin, parttime thuis | 4.200 kWh | 2.300 kWh | 1.400 kWh | 500 kWh | 1.900 kWh |
+| 3. Gezin met EV, thuiswerker | 6.500 kWh | 3.500 kWh | 800 kWh | 2.200 kWh | 3.000 kWh |
+| 4. Groot huis, warmtepomp + EV | 9.500 kWh | 4.800 kWh | 900 kWh | 3.800 kWh | 4.700 kWh |
+| 5. Klein huishouden, veel weg | 1.800 kWh | 600 kWh | 1.300 kWh | 0 kWh (overschot 100 kWh) | 1.200 kWh |
+| 6. Warmtepompwoning, oost-west | 4.500 kWh | 2.700 kWh | 4.100 kWh | 0 kWh (overschot 2.300 kWh) | 1.800 kWh |
 
-**Conclusie**: Verschil loopt op tot €490/jr. Bij dit profiel is dynamisch zonder twijfel slimmer.
+## Uitkomst 2026, met saldering
 
-### Profiel 3: Gezin met EV, 1 thuiswerker
+Kosten van de afgenomen stroom (netto na saldering), exclusief netbeheer en heffingskorting.
 
-- **Verbruik**: 6.500 kWh/jr (incl. EV)
-- **Patroon**: EV laden 's nachts of overdag, thuiswerker overdag verbruikt
-- **Zonnepanelen**: 14 panelen (4,9 kWp), 4.300 kWh/jr opwekking, 3.500 kWh eigen verbruik, 800 kWh teruglevering
+| Profiel | Vast (0,32) | Dynamisch zonder sturing | Dynamisch met sturing | Gunstigst |
+|---|---|---|---|---|
+| 1 | 96 euro | 154 euro | 145 euro | vast (−49 tot −58) |
+| 2 | 160 euro | 208 euro | 194 euro | vast (−34 tot −48) |
+| 3 | 704 euro | 670 euro | 607 euro | dynamisch (+34 tot +97) |
+| 4 | 1.216 euro | 1.106 euro | 995 euro | dynamisch (+110 tot +221) |
+| 5 | 0 euro | 72 euro | 72 euro | vast (−72) |
+| 6 | 0 euro | 72 euro | 72 euro | vast (−72) |
 
-| Scenario | 2026 | 2027 |
-|---|---|---|
-| Vast contract Eneco | €1.640 | €2.310 |
-| Vast contract Greenchoice | €1.580 | €2.220 |
-| Dynamisch Frank Energie | €1.180 | €1.420 |
-| **Voordeel dynamisch** | **€400-460** | **€800-890** |
+Wat dit laat zien en wat vrijwel nergens wordt uitgelegd: **zolang de saldering nog geldt, drukt je teruglevering je netto afname omlaag, en dan wordt het vaste maandbedrag van een dynamisch contract relatief zwaar**. Bij de profielen 5 en 6 valt er niets meer te verrekenen en betaal je op een dynamisch contract puur het abonnement. Alleen bij een hoge netto afname (profiel 3 en 4) wint dynamisch nu al.
 
-**Conclusie**: Voor EV-bezitters is dynamisch een **no-brainer**. EV laden 's nachts (vaak <€0,05/kWh) versus dagtarief van vast contract is enorm voordelig. Verschil €800+ in 2027.
+Profielen 5 en 6 houden overigens een overschot dat níet gesaldeerd kan worden (meer teruglevering dan afname); daarover krijg je alleen de terugleververgoeding van je leverancier, die per contract verschilt.
 
-### Profiel 4: Groot huis + warmtepomp + EV
+## Uitkomst 2027, zonder saldering — de afnamekant
 
-- **Verbruik**: 9.500 kWh/jr (warmtepomp + EV + alledaags)
-- **Patroon**: continu hoog gemiddelde, pieken in winter
-- **Zonnepanelen**: 18 panelen (6,3 kWp), 5.700 kWh/jr opwekking, 4.800 kWh eigen verbruik, 900 kWh teruglevering
+Vanaf 1 januari 2027 wordt je volledige afname afgerekend en je teruglevering apart vergoed. Eerst alleen de afnamekant:
 
-| Scenario | 2026 | 2027 |
-|---|---|---|
-| Vast contract Eneco | €2.560 | €3.520 |
-| Vast contract Greenchoice | €2.480 | €3.380 |
-| Dynamisch Frank Energie | €1.860 | €2.140 |
-| **Voordeel dynamisch** | **€620-700** | **€1.240-1.380** |
+| Profiel | Bruto afname | Vast (0,32) | Dynamisch zonder sturing | Dynamisch met sturing |
+|---|---|---|---|---|
+| 1 | 2.000 kWh | 640 euro | 616 euro | 558 euro |
+| 2 | 1.900 kWh | 608 euro | 589 euro | 534 euro |
+| 3 | 3.000 kWh | 960 euro | 888 euro | 801 euro |
+| 4 | 4.700 kWh | 1.504 euro | 1.350 euro | 1.214 euro |
+| 5 | 1.200 kWh | 384 euro | 398 euro | 364 euro |
+| 6 | 1.800 kWh | 576 euro | 562 euro | 509 euro |
 
-**Conclusie**: Bij dit verbruik kan dynamisch je €1.300+ per jaar opleveren. Dat is een halve thuisbatterij per jaar. Gecombineerd met smart-home automation: nog meer voordeel.
+Op de afnamekant wint dynamisch bij elk profiel zodra je verbruik kunt verschuiven; zonder sturing is het verschil klein en bij een laag verbruik (profiel 5) zelfs negatief.
 
-### Profiel 5: Klein huishouden, veel weg
+## Uitkomst 2027 — de terugleverkant, en waarom die per contract verschilt
 
-- **Verbruik**: 1.800 kWh/jr
-- **Patroon**: 's avonds en weekends, weinig overdag
-- **Zonnepanelen**: 6 panelen (2,1 kWp), 1.900 kWh/jr opwekking, 600 kWh eigen verbruik, 1.300 kWh teruglevering
+Dit is het deel waar de meeste artikelen een getal invullen dat nergens op gebaseerd is. Wij doen dat niet, want de terugleververgoeding én de terugleverkosten verschillen per leverancier en zijn niet uniform gepubliceerd. Wat je zelf moet invullen:
 
-| Scenario | 2026 | 2027 |
-|---|---|---|
-| Vast contract Engie | €240 | €490 |
-| Dynamisch Frank Energie | €290 | €430 |
-| **Voordeel dynamisch** | **-€50 (vast wint)** | **€60** |
+**Opbrengst teruglevering = teruggeleverde kWh x vergoeding per kWh − terugleverkosten per jaar.**
 
-**Conclusie**: Dit is het enige profiel waar in 2026 vast contract goedkoper is — door lage afname in dure piekuren weinig effect en weinig zonneoverschot. Vanaf 2027 keert het om door wegvallende saldering.
+- Bij een **vast contract** is de vergoeding een vast bedrag per kWh, en rekenen veel leveranciers daarnaast terugleverkosten, vaak als staffel op basis van je teruggeleverde volume.
+- Bij een **dynamisch contract** krijg je de uurprijs van het moment van teruglevering. Omdat de meeste zonnestroom midden op de dag wordt teruggeleverd — precies wanneer de marktprijs laag is — valt die vergoeding vaak lager uit dan een vaste vergoeding. Ook op dynamische contracten kunnen terugleverkosten of een staffel gelden; Frank Energie hanteert die sinds 1 juni 2025.
 
-### Profiel 6: warmtepompwoning met oost-west-panelen
+Rekenvoorbeeld voor profiel 1 (1.700 kWh teruglevering) met onze aanname van 0,07 euro/kWh: dat levert 119 euro op. Vul je voor een vast contract een hogere vergoeding in, bijvoorbeeld 0,10 euro/kWh, dan wordt het 170 euro — maar dat voordeel van 51 euro verdwijnt zodra dat contract meer dan 51 euro per jaar aan terugleverkosten rekent. Lever je op een dynamisch contract vooral midden op de dag terug, wanneer de uurprijs laag is, dan valt de werkelijke vergoeding juist lager uit dan de aanname van 0,07.
 
-- **Verbruik**: 4.500 kWh/jr (warmtepomp + 2 personen)
-- **Patroon**: spreiding overdag (thuiswerker), pieken avond
-- **Zonnepanelen**: 16 panelen (5,6 kWp), 4.700 kWh/jr opwekking, 2.700 kWh eigen verbruik, 4.100 kWh teruglevering (oost-west, dus veel productie)
-
-| Scenario | 2026 | 2027 |
-|---|---|---|
-| Vast contract Eneco | €1.040 | €1.880 |
-| Vast contract Greenchoice | €980 | €1.760 |
-| Dynamisch Frank Energie | €620 | €1.040 |
-| **Voordeel dynamisch** | **€360-420** | **€720-840** |
-
-**Conclusie**: in 2026 al €420 verschil, vanaf 2027 (zonder maatregelen) €840 verschil. Met een thuisbatterij erbij loopt dat verder op — zie de gecombineerde berekening verderop.
+**Dat is de kern van de afweging na 2027**, en de reden dat je hier je eigen contractvoorwaarden moet invullen in plaats van een gemiddelde over te nemen. Onze vergelijking van terugleverkosten per leverancier staat in [terugleverkosten zonnepanelen](/posts/terugleverkosten-zonnepanelen-2026/).
 
 ## De rekensom op één regel
 
-In 2026 al voordeel dynamisch (gemiddeld over alle profielen): **€100-€700/jaar**
-Vanaf 2027 voordeel dynamisch: **€60-€1.380/jaar**
+Er is geen enkel bedrag dat voor alle profielen geldt. Wat het model wél laat zien:
 
-De variabiliteit komt vooral door verbruiksvolume. Hoe meer je verbruikt en hoe meer je teruglevert, hoe groter het voordeel van dynamisch.
+- Hoe **hoger je netto afname**, hoe gunstiger dynamisch — bij profiel 4 loopt het voordeel op de afnamekant op tot circa 290 euro per jaar met sturing.
+- Hoe **meer je kunt verschuiven**, hoe groter het voordeel: het verschil tussen "zonder sturing" en "met sturing" is bij elk profiel groter dan het verschil tussen vast en dynamisch zonder sturing.
+- Hoe **meer je teruglevert**, hoe belangrijker de terugleververgoeding en terugleverkosten worden — en die bepalen na 2027 de uitkomst vaak sterker dan het afnametarief.
 
-## Wanneer is een vast contract toch beter?
+## Wanneer een vast contract beter is
 
-Eerlijk: er zijn drie situaties waarin een vast contract slimmer kan zijn:
-
-1. **Zeer laag verbruik (<2.000 kWh/jr) zonder zonnepanelen** — geen volume voor arbitrage, vaste lasten dynamisch wegen relatief zwaar
-2. **Onmogelijk om verbruik te sturen** — bijvoorbeeld bij medische apparatuur die continu draait, ongeacht tarief
-3. **Risicoavers + budget streng** — als €30 verschil in een dure maand mentaal veel doet, geeft een vast contract gemoedsrust
-
-Voor de profielen 1 tot en met 4 komt dynamisch in alle scenario's als goedkoopste uit het model. Profiel 5 pas vanaf 2027.
+1. **Lage netto afname**, zeker zolang de saldering nog geldt: het vaste maandbedrag van een dynamisch contract weegt dan zwaar.
+2. **Verbruik dat niet te sturen is** — bijvoorbeeld apparatuur die continu moet draaien.
+3. **Behoefte aan een voorspelbaar maandbedrag.** Op een dynamisch contract lopen de maanden ver uiteen.
 
 ## Welk dynamisch contract kies je?
 
-De drie populairste in 2026:
+| Leverancier | Vaste kosten per maand | Inkoopvergoeding per kWh | Bijzonderheden |
+|---|---|---|---|
+| Tibber | 5,99 euro **per energiesoort** | 0,0248 euro | maandelijks opzegbaar; app stuurt laadpalen en apparaten aan |
+| Frank Energie | publiceert geen consumentenprijs | niet publiek | terugleverstaffel sinds 1-6-2025; telefonische klantenservice |
+| ANWB Energie | niet eenduidig gepubliceerd | 0,018 euro | over een prijsdempingsmechanisme doen wij geen uitspraak: niet geverifieerd |
 
-### Tibber
+Peildatum augustus 2026. Het actuele overzicht staat in onze [vergelijker dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/).
 
-**Sterk in**: Smart EV charging, beste app van NL, automatische slim laden, veel community-tools.
+<div class="cta cta-affiliate">
+<strong>Tarieven zelf controleren</strong><br>
+Vraag bij Frank Energie het tarievenoverzicht op, inclusief de terugleverstaffel; Tibber publiceert zijn tarieven wel. Wij ontvangen geen vergoeding als je overstapt.<br>
+<a href="https://go.duurzaamthuislab.nl/tibber" rel="noopener nofollow">Naar Tibber</a> · <a href="https://go.duurzaamthuislab.nl/frank-energie" rel="noopener nofollow">Naar Frank Energie</a>
+</div>
 
-**Zwak in**: Soms iets duurder dan Frank in piekuren door eigen marge.
-
-**Voor wie**: EV-bezitters, smart-home liefhebbers, mensen die graag automatiseren.
-
-[Lees onze Tibber review →](/posts/tibber-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
-
-### Frank Energie
-
-**Sterk in**: Transparantste prijzen (geen marge bovenop EPEX), oudste NL-aanbieder, scherpste tarieven, eenvoudige opzegging.
-
-**Zwak in**: App is functioneel maar minder mooi dan Tibber, geen automation features.
-
-**Voor wie**: Mensen die zelf hun verbruik prima sturen en de laagste prijs willen.
-
-[Lees onze Frank Energie review →](/posts/frank-energie-review-ervaringen-2026/) · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
-
-### ANWB Energie Dynamisch
-
-**Sterk in**: Iets minder volatiele prijzen door demping, gevestigde naam (vertrouwen), telefonisch klantcontact.
-
-**Zwak in**: Kleine extra marge, minder geschikt voor optimaliseerders.
-
-**Voor wie**: Mensen die liever bij een grote naam zitten, niet techy, willen dynamisch maar mét vangnet.
-
-## Praktijkvoorbeeld: jaarberekening voor een modaal gezin
-
-Laten we een concreet voorbeeld doorrekenen — één huishouden, twee contracttypen, de volle 12 maanden van 2027.
-
-**Situatie:** Gezin met twee werkende ouders, twee kinderen. Ene ouder werkt drie dagen thuis. Verbruik 4.600 kWh/jaar. Zonnepanelen: 12 panelen, 4,2 kWp, opwekking 3.780 kWh/jaar, eigen verbruik 45% = 1.700 kWh, teruglevering 2.080 kWh.
-
-**Vast contract Eneco 2027 (geschatte tarieven):**
-
-| Post | Berekening | Bedrag |
-|---|---|---|
-| Afname van net (2.900 kWh) | 2.900 × €0,32 | €928 |
-| Terugleververgoeding (2.080 kWh) | 2.080 × €0,10 | -€208 |
-| Terugleverkosten gestaffeld | ~€22/maand | €264 |
-| Netbeheerkosten | Vast | €480 |
-| **Totaal energierekening** | | **€1.464** |
-
-**Frank Energie dynamisch 2027 (op basis van 2026-data + 2027-projectie):**
-
-| Post | Berekening | Bedrag |
-|---|---|---|
-| Afname van net (2.900 kWh) | 2.900 × effectief €0,26* | €754 |
-| Teruglevering (2.080 kWh) | 2.080 × effectief €0,12** | -€249 |
-| Geen terugleverkosten | €0 | €0 |
-| Netbeheerkosten | Vast | €480 |
-| **Totaal energierekening** | | **€985** |
-
-*Effectief tarief bij slim gebruik: pieken vermijden 17-20u, EV laden 's nachts, vaatwasser op middag.
-**Effectief teruglevermarkt 2027: gemiddeld iets hogere vergoeding bij dynamisch dan de minimale vaste 10 ct/kWh.
-
-**Verschil: €479 per jaar.** Dat is €40 per maand structureel meer over door een contractswisseling die je gratis kunt doen.
-
-Over 5 jaar: €2.395 extra besparing — meer dan genoeg om een goede P1-monitor en smart home-setup van te betalen, met geld over.
+Lees ook de [Tibber review](/posts/tibber-review-ervaringen-2026/) en de [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/).
 
 ## Veelgemaakte fouten bij de keuze
 
-### Fout 1: "Dynamisch is te onzeker"
+### Fout 1: denken dat één duur uur je jaar bepaalt
 
-Mensen denken aan de koude januariweek van 2025, toen het duurste uur op €0,63/kWh incl. btw uitkwam (20 januari, avondpiek). Wat ze vergeten: dat zijn losse uren, geen dagen. Het maandgemiddelde van januari 2025 was €0,142/kWh — kale beursprijs incl. btw (EPEX-uurdata via EnergyZero, geteld door onze redactie, peildatum 20 augustus 2026). Zelfs de duurste wintermaand ligt op de beurs dus ver onder wat de piekuren suggereren.
+Mensen denken aan de koude januariweek van 2025, toen het duurste uur op 0,63 euro/kWh incl. btw uitkwam (20 januari, avondpiek). Dat zijn losse uren, geen dagen. Het maandgemiddelde van januari 2025 was 0,142 euro/kWh — kale beursprijs incl. btw (uurdata via EnergyZero, geteld door onze redactie, peildatum 20 augustus 2026). Zelfs de duurste wintermaand ligt op de beurs dus ver onder wat de piekuren suggereren.
 
-Structureel zijn dynamische tarieven voordeliger voor wie z'n verbruik enigszins kan sturen. En met zonnepanelen lever je toch al terug, waardoor piekuren voor jou minder relevant zijn.
+### Fout 2: geen slimme meter hebben
 
-### Fout 2: Geen slimme meter hebben
+Zonder slimme meter kun je geen dynamisch contract afsluiten. De meeste Nederlandse woningen hebben er inmiddels een; heb je hem niet, dan vraag je hem aan bij je netbeheerder.
 
-Zonder slimme meter kun je geen dynamisch contract. Maar 97% van Nederland heeft die al. Heb je hem niet? Je kunt hem gratis aanvragen bij je netbeheerder. Gemiddelde plaatsingstijd: 4-8 weken. De administratie: een formuliertje op de website van Stedin, Liander of Enexis.
+### Fout 3: overstappen zonder je verbruikspatroon te kennen
 
-### Fout 3: Overstappen zonder verbruikspatroon te begrijpen
+Wie zijn auto om 18:00 oplaadt en de warmtepomp in de avondpiek laat draaien, betaalt op dynamisch al snel méér. De oplossing is niet "geen dynamisch", maar het verbruik verschuiven — precies het verschil tussen de twee dynamische kolommen in de tabellen hierboven.
 
-Wie zijn EV 's avonds om 18u oplaadt en zijn warmtepomp 's avonds op hoogste stand zet, betaalt met dynamisch soms meer in de piekuren. De oplossing is niet "geen dynamisch", maar "slim dynamisch": EV laden 's nachts na 23u, boiler op middag, wasmachine overdag.
+### Fout 4: alleen naar de maandprijs kijken
 
-### Fout 4: Vergeten dat ook in 2026 al bespaard kan worden
+Vergelijk het jaartotaal, niet het maandbedrag. Bij een lage netto afname is het maandbedrag van een dynamisch contract juist het probleem, niet de kWh-prijs.
 
-"Ik wacht tot 2027 want nu maakt het toch niet uit." Fout. In 2026 kun je al €100-€400 besparen door te switchen naar dynamisch — ook met saldering nog actief. Elke maand uitstel is gemiste besparing.
+### Fout 5: rekenen met een afbouwpercentage voor de saldering
 
-### Fout 5: Kleinste maandelijkse kosten als criterium nemen
+Er is geen afbouwpad. De regeling stopt op 1 januari 2027 in één keer volledig.
 
-Mensen vergelijken de vaste maandprijs van een dynamisch contract met hun huidig bedrag en denken dat het vergelijkbaar is. Dat klopt niet: het gaat om het jaargemiddelde, en daarin wint dynamisch voor zonnepaneelhouders bijna altijd.
+## De combinatie met een thuisbatterij
 
-## Wat de markt verwacht voor 2027
+Een batterij verhoogt je eigen verbruik en verlaagt zowel je afname als je teruglevering. Modelberekening voor profiel 2 in 2027, dynamisch met sturing:
 
-Op basis van analyses van het Energy Institute, Energie Nederland en de Autoriteit Consument & Markt:
+**Zonder batterij:** afname 1.900 kWh x 0,243 + 72 = 534 euro; teruglevering 1.400 kWh x 0,07 = −98 euro. Netto **436 euro**.
 
-**Vast contract:**
-- Tarieven stijgen 5-10% door hogere terugleverkosten en onbalanskosten
-- Meer leveranciers voeren verplichte terugleverkosten in als saldering wegvalt
-- Verwacht: gemiddeld vast leveringstarief 2027: €0,31-€0,34/kWh
+**Met een batterij van 5 kWh** (aanname: 1.100 kWh extra eigen verbruik): afname 800 kWh x 0,243 + 72 = 266 euro; teruglevering 300 kWh x 0,07 = −21 euro. Netto **245 euro**. Besparing: **191 euro per jaar**.
 
-**Dynamisch contract:**
-- Meer prijsschommelingen doordat er meer zonnestroom op het net komt (positief voor wie slim stuurt)
-- Meer negatieve uren in zomerse middagen — belangrijk voor teruglevering
-- Maar ook meer goedkope nacht- en middaguren voor wie EV of boiler heeft
-- Verwacht: dynamisch gemiddeld €0,24-€0,27/kWh voor slimme gebruikers
+Daar kan handelen op prijsverschillen bovenop komen: 100 cycli x 5 kWh x 0,9 rendement x 0,145 euro voordeel per kWh = circa **65 euro per jaar**. Totaal circa **256 euro per jaar**.
 
-**Terugleverkosten bij vast:**
-- Vrijwel alle grote leveranciers verhogen in 2027 hun staffels met 30-50%
-- Eneco, Vattenfall verwacht richting €25-€40/maand voor middenvolume terugleveraars
-- Tibber en Frank: geen aparte terugleverkosten, nu en in 2027
+Investering: een Sessy van 5 kWh kost 3.550 euro inclusief btw en **exclusief installatie** (prijspeil augustus 2026). Terugverdientijd op deze aannames: 3.550 / 256 = **circa 14 jaar**, en langer zodra je de installatiekosten meerekent. Een grotere batterij met meer doorzet komt gunstiger uit; die doorrekening staat in [dynamische energiecontracten thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/) en in [terugverdientijd thuisbatterij](/terugverdientijd-thuisbatterij/).
 
-## De combinatie: dynamisch + thuisbatterij
+Voor thuisbatterijen bestaat geen ISDE-subsidie, en er geldt 21% btw. Reken dus met het volledige bedrag.
 
-Het sterkste scenario is combineren:
-- **Dynamisch contract**: geen terugleverkosten, lage afname in piekuren mogelijk
-- **Thuisbatterij**: overdag opladen met zonnestroom, 's avonds ontladen
-- **Resultaat**: je teruglevering daalt naar <500 kWh/jaar, je netstroom-afname daalt sterk
+## Zo pak je de overstap aan
 
-**Voorbeeld bij 12 panelen + 10 kWh batterij (Sessy of Huawei Luna):**
-- Teruglevering daalt van 2.080 naar ~300 kWh/jaar
-- Netstroom-afname daalt van 2.900 naar ~1.100 kWh/jaar
-- Besparing bovenop dynamisch contract: ~€450/jaar extra
-- Totale besparing vs vast contract zonder batterij: **€900+/jaar**
+**Stap 1 — check je contractvorm.** Een vast contract kun je aan het einde van de looptijd boetevrij verlaten; tussentijds geldt een gestaffelde opzegvergoeding waarvan je het bedrag opvraagt bij je leverancier.
 
-Dynamisch contract plus batterij is bij grote installaties de combinatie die in dit model het meeste oplevert.
+**Stap 2 — reken je eigen profiel door** met je jaarverbruik, je eigen vaste tarief en de tabellen hierboven.
 
-## Hoe je de overstap naar dynamisch aanpakt: stap voor stap
+**Stap 3 — vraag de tarieven op** bij de leveranciers die je overweegt, inclusief vaste kosten, inkoopvergoeding, terugleververgoeding en eventuele terugleverkosten.
 
-Voor mensen die al jaren bij dezelfde leverancier zitten en de overstap overwegen:
+**Stap 4 — meld je aan.** Je hebt je postcode, huisnummer en EAN-code nodig; de nieuwe leverancier regelt de opzegging.
 
-**Stap 1: Check je contractvorm**
-Loop naar je energierekening of log in op de leveranciers-app. Vast tarief = je mag overstappen na de contracttermijn (1, 2 of 3 jaar). Variabel tarief = je kunt altijd overstappen met 30 dagen opzegtermijn.
-
-**Stap 2: Bereken je verwachte besparing**
-Pak je jaarverbruik (staat op je rekening of in de app van de netbeheerder). Bereken op basis van de tabellen eerder in dit artikel hoeveel je bespaart. Als het meer dan €150/jaar is: de moeite waard.
-
-**Stap 3: Kies Tibber of Frank**
-Voor de meeste mensen maakt het weinig uit. Tibber als je een EV hebt of slim wilt automatiseren. Frank als je transparant de laagste tarief wilt zonder extra features.
-
-**Stap 4: Overstappen via de website**
-Het overstapproces duurt gemiddeld 5 minuten online. Je vult je postcode, meterpuntnummer (EAN-code, staat op de rekening) en persoonlijke gegevens in. De nieuwe leverancier regelt de opzegging bij de oude.
-
-**Stap 5: Wacht op de eerste rekening**
-Na 4-8 weken is de overstap afgerond. De eerste rekening bij dynamisch kan verrassend laag zijn — of, als je een dure week had, iets hoger. Gemiddeld over een jaar: lager.
-
-**Valkuil:** Als je een lopend vast contract hebt dat nog 8 maanden loopt, betaal je bij vroegtijdige opzegging soms een boete (€50-€200). In dat geval: opzeggingsdatum markeren in agenda en dan op dat moment direct overstappen.
-
-## Onze aanbeveling
-
-Op basis van je profiel:
-
-**Klein verbruik (<2.500 kWh) zonder zonnepanelen**: Engie of Greenchoice (vast). Dynamisch is overkill.
-
-**Zonnepanelen + verbruik 2.500-5.000 kWh**: **Frank Energie**. Beste prijs/kwaliteit, geen extra rompslomp.
-
-**Zonnepanelen + EV of smart home**: **Tibber**. De automation features verdienen zich snel terug.
-
-**Vooral zekerheid willen**: ANWB Energie Dynamisch. Iets duurder maar wel dynamisch.
-
-**Wachten met overstap?** Niet doen. Elke maand uitstel kost gemiddeld €15-€60 (afhankelijk van profiel) aan gemiste besparing.
-
----
-
-## Slimme apparaten en automatisering: de dynamisch-multiplier
-
-Het echte voordeel van dynamisch zit niet alleen in de tarieven, maar in de combinatie met slimme apparaten. Elke keer dat je een apparaat automatisch laat draaien op het goedkoopste moment, pik je extra waarde.
-
-**Een voorbeeldopzet (referentie):**
-- **Tibber-account** gekoppeld aan de slimme meter via P1-kabel + HomeWizard Energy
-- **Vaatwasser**: start via slimme stekker (Shelly Plug S) als zonnepanelen meer leveren dan het huis verbruikt — automatisch getriggerd door HomeAssistant
-- **EV (plug-in hybrid)**: laadt via Tibber smart charging 's nachts, nooit tussen 17:00 en 21:00
-- **Warmtepomp-boiler**: timer 11:30-14:00 actief in de zomer (zon-piek)
-- **Thuisbatterij (Huawei Luna)**: modus "maximaal eigen verbruik overdag", valt 's avonds terug naar netlevering
-
-**Wat zo'n opzet in het model doet** (winterhalfjaar, 180 kWh netafname per maand):
-- Effectief betaald bij dynamisch: circa €42/maand energiecomponent (exclusief netbeheer)
-- Bij een vast tarief van €0,32/kWh: 180 × €0,32 = €57,60/maand
-- **Verschil door verschuiven van verbruik**: circa €15,60/maand = €187/jaar
-
-Dat komt bovenop het basisvoordeel van dynamisch (geen aparte terugleverkosten). De inspanning zit vooral in de eenmalige configuratie van de automatisering — reken op een paar avonden werk.
-
----
-
-## Dynamisch contract en huurwoningen: kan dat?
-
-Een veelgestelde vraag: "Ik huur en heb misschien zonnepanelen (balkon-panelen). Is dynamisch dan ook zinvol?"
-
-**Antwoord**: ja, maar het voordeel is kleiner dan bij eigen huis met dakpanelen.
-
-**Balkon-zonnepanelen + dynamisch:**
-- Typische output: 300-600 Wh per dag bij 1-2 kleine panelen (200-350 Wp)
-- Teruglevering: vrijwel nul (balkonpanelen zijn niet aangesloten op het net, voeden direct apparaten)
-- Voordeel dynamisch: alleen via slimme afname (EV laden, boiler op goedkope uren)
-
-**Zonder zonnepanelen:**
-Dynamisch kan ook voor een huurder zonder panelen zinvol zijn — als je een EV hebt of je verbruik kunt sturen. Verwacht besparing: €50-€150/jaar voor een gezin.
-
-**Juridisch aspect**: voor dynamisch contract heb je een slimme meter nodig. Bij een huurwoning heeft de verhuurder de slimme meter geïnstalleerd — maar je kunt zelf kiezen bij welke leverancier je zit. De slimme meter is eigendom van de netbeheerder, niet van de verhuurder.
-
----
+**Stap 5 — stel je voorschot goed in.** Op een dynamisch contract lopen de wintermaanden fors op; een te laag voorschot leidt tot een naheffing.
 
 ## Risicobeheer: hoe je pieken vermijdt
 
-De meestgehoorde bezwaar: "Maar wat als de prijs ineens €1,50/kWh is?"
+- **Zet prijsgrenzen in je apparaten.** De meeste laadpalen en laad-apps kunnen laden boven een ingestelde prijs stoppen.
+- **Je basisverbruik is begrensd.** Koelkast, verlichting en router lopen door, maar dat is een beperkt vermogen; een enkel duur uur voegt centen toe, geen tientjes.
+- **Een thuisbatterij dempt de pieken** door vooruit te laden op goedkope uren.
+- **Zet prijsmeldingen aan** in de app van je leverancier, of houd onze [stroomprijzenpagina](/stroomprijzen/) aan.
 
-Reëel. Dat is een paar keer per jaar mogelijk. Maar het is beheersbaar.
+## Dynamisch contract en huurwoningen
 
-**Bescherming 1: Tijdslimieten in slimme apparaten**
-Stel nooit een apparaat in om onbeperkt te laden. Gebruik een tijdsvenster: "Laad EV maximaal tussen 22:00 en 07:00, maar stop bij €0,50/kWh". Alle moderne EV-laders (Easee, Wallbox, ABB) en smart charging apps (Tibber, ABRP) bieden dit.
+Ja, dat kan: de slimme meter is eigendom van de netbeheerder, niet van de verhuurder, en je kiest zelf je leverancier. Het voordeel is wel kleiner, omdat je meestal niet in aanstuurbare apparaten kunt investeren. Zonder verschuifbaar verbruik blijft alleen het passieve verschil over — in ons model enkele tientjes per jaar, en bij een laag verbruik zelfs negatief door het vaste maandbedrag.
 
-**Bescherming 2: Basisverbruik is begrensd**
-Koelkast, verlichting, router — die lopen altijd door. Dat zijn 150-300 Wh per uur bij een gemiddeld huishouden. Zelfs bij €1,50/kWh kost dat €0,23-€0,45/uur. Eén uur dure stroom voegt €0,20 extra toe aan je maandrekening — verwaarloosbaar.
-
-**Bescherming 3: Thuisbatterij als buffer**
-Met een thuisbatterij laad je overdag goedkoop op (zon of lage marktprijs) en ontlaad je 's avonds bij hogere prijzen. Je raakt nooit de piekprijzen voor je basisverbruik. Dat is precies waarvoor de laad-/ontlaadlogica van systemen als de Huawei Luna of Sessy is gemaakt.
-
-**Bescherming 4: Prijsmelding-app**
-Tibber en Frank sturen push-notificaties als de prijs boven een door jou ingesteld niveau gaat. Zo weet je altijd wanneer het duur is en kun je aanpassen.
-
----
-
-## De combinatie: dynamisch + batterij = maximaal rendement
-
-Hierboven zijn het individuele voordeel van dynamisch (per profiel) en de opbrengst van een batterij apart doorgerekend. Hieronder de combinatie.
-
-**Situatie:** Profiel 2 (gezin, 12 panelen, 4.200 kWh verbruik, 1.400 kWh teruglevering per jaar)
-
-**Scenario A: Vast contract Eneco, geen batterij**
-- Energierekening 2027: €1.450 (eerder berekend)
-- Investering: €0
-
-**Scenario B: Frank Energie dynamisch, geen batterij**
-- Energierekening 2027: €960
-- Investering: €0
-- Besparing vs A: **€490/jaar**
-
-**Scenario C: Frank Energie dynamisch + Sessy 5 kWh batterij**
-- Eigen verbruik stijgt van 2.300 naar 3.400 kWh (batterij vangt overschot op)
-- Teruglevering daalt van 1.400 naar 300 kWh
-- Afname van net daalt van 1.900 naar 800 kWh
-- Energierekening 2027: ~€550
-- Batterijinvestering: €3.550 (Sessy 5 kWh, incl. btw, excl. installatie, prijspeil aug 2026)
-- Terugverdientijd batterij: €3.550 / (€960 - €550) = **8,7 jaar** (modelberekening)
-- Na terugverdientijd: batterij levert 9,2 jaar puur winst
-
-**Scenario D: Frank Energie dynamisch + Sessy 5 kWh + EV slim laden**
-- EV laden 's nachts dynamisch: gemiddeld 700 kWh/jaar × €0,08 besparing vs vast = €56/jaar extra
-- Energierekening: ~€490 door additionele EV arbitrage
-- Totale besparing vs Scenario A: **€960/jaar**
-- Dat is €80/maand — significant
-
----
+Balkonpanelen leveren doorgaans nauwelijks terug: die stroom gaat direct naar je eigen apparaten.
 
 ## Conclusie
 
-Voor zonnepaneel-bezitters is een dynamisch contract na 2027 vrijwel altijd voordeliger dan een vast contract. Het verschil loopt van €60 per jaar (klein huishouden) tot €1.380 (groot verbruik + EV).
+De veelgehoorde stelling dat een dynamisch contract voor zonnepaneelbezitters "vrijwel altijd" voordeliger is, houdt in dit model geen stand. Zolang de saldering geldt, is een vast contract bij een lage netto afname vaak goedkoper, simpelweg omdat het vaste maandbedrag van een dynamisch contract zwaarder weegt dan de lagere kWh-prijs.
 
-De keus tussen Tibber en Frank is vooral een kwestie van of je wel of geen automation wilt. Beide zijn solide, beide hebben geen aparte terugleverkosten, beide laten zich maandelijks opzeggen.
-
-Wachten tot 2027 om over te stappen levert je niets op behalve gemiste besparingen. Stap nu over en pak nog 8 maanden besparing voor de saldering-stop ingaat.
-
-*Specifieke berekening voor jouw profiel? Stuur je verbruik (jaarcijfer + paneelvermogen) naar [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl) — wij rekenen het door.*
+Vanaf 1 januari 2027, als de saldering volledig stopt, verschuift het beeld: dan telt je volledige afname mee en wint dynamisch op de afnamekant bij elk profiel waar je verbruik kunt verschuiven. Aan de terugleverkant beslist iets anders: de vergoeding per kWh min de terugleverkosten van jouw contract. Vraag die twee getallen op bij je leverancier voordat je kiest — ze bepalen de uitkomst vaker dan het afnametarief.
 
 ---
-
-
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 
 - [Saldering stopt in 2027: volledige gids](/posts/saldering-stopt-2027-volledige-gids/)
 - [Terugleverkosten zonnepanelen per leverancier](/posts/terugleverkosten-zonnepanelen-2026/)
+- [Rekenmodel dynamisch contract](/posts/dynamisch-contract-besparing-rekenmodel-2026/)
 - [Tibber review en ervaringen](/posts/tibber-review-ervaringen-2026/)
 - [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/)
 - [Beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/)
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [ACM ConsuWijzer — energiecontract kiezen](https://www.consuwijzer.nl/energie) — onafhankelijke informatie over contractvormen, opzegvergoedingen en je rechten als energieconsument.

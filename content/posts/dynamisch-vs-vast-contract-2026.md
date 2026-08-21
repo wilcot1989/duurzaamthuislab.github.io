@@ -1,7 +1,7 @@
 ---
 title: 'Dynamisch contract vs vast contract 2026: welke past bij jou?'
 date: 2026-09-08 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 description: Dynamisch of vast energiecontract in 2026? Wij vergelijken beide contractvormen op prijsopbouw, risico en flexibiliteit — en laten zien wanneer welk contract past.
 categories:
 - energie
@@ -24,47 +24,36 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497435334941-8c899ee9e8e9&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is in 2026 het verschil tussen dynamisch en vast contract?'
-  a: 'Dynamisch contract: stroomprijs verandert ieder uur (of dag-vooruit) op basis van de groothandelsprijs (EPEX). Voordeel: profiteer van goedkope uren. Nadeel: hogere prijzen bij weinig wind/zon. Vast contract: tarief staat 1, 2 of 3 jaar vast. Voordeel: zekerheid. Nadeel: betaal je gemiddelde plus risico-opslag. Verschil 2026: dynamisch gemiddeld €380-€620 goedkoper per jaar — als je flexibel bent.'
+  a: 'Bij een dynamisch contract verandert de stroomprijs per uur, gekoppeld aan de day-ahead marktprijs; je betaalt die uurprijs plus een inkoopvergoeding, energiebelasting en btw. Bij een vast contract staat het tarief 1, 2 of 3 jaar vast en zit er een risico-opslag in. Het verschil in euro''s hangt volledig af van je verbruiksprofiel: in ons rekenmodel scheelt het bij 3.500 kWh ongeveer 96 euro per jaar zonder gedragsverandering en ongeveer 197 euro met actief verschuiven.'
 - q: 'Welk contract is goedkoper in 2026?'
-  a: 'Dynamisch wint gemiddeld in 2026: tussen €380-€620 voordeel per jaar voor een gemiddeld huishouden (3.500 kWh + 1.200 m³). Maar dat is een gemiddelde — sommige maanden (donkere windstille winterweken) is dynamisch duurder. Wie ''s nachts kan laden, wassen, droogen en warmtepomp slim plannen: bespaart €700-€1.100/jaar.'
+  a: 'Gemiddeld dynamisch, maar het verschil is kleiner dan vaak wordt gesuggereerd. Met het EPEX-jaargemiddelde 2025 van 0,105 euro/kWh, een opslag-aanname van 0,02 euro/kWh en de energiebelasting van 2026 komt een huishouden van 3.500 kWh uit op circa 96 euro voordeel per jaar zonder iets te veranderen. Vergelijk je met een scherp vast aanbod van 0,28 euro/kWh, dan verdwijnt dat voordeel.'
 - q: 'Wanneer is een vast contract toch beter?'
-  a: 'Bij geen flexibel verbruik (oude huurwoning, geen warmtepomp, niet thuis overdag), bij angst voor prijsschommelingen, of bij verwachte energiecrisis (oorlog, gascrisis 2022). Ook voor mensen met budget-zekerheid (pensioen) is een vast tarief rustiger. Bij een huishouden zonder flexibiliteit kan vast zelfs goedkoper uitvallen door 23%-uur tarief.'
+  a: 'Als je verbruik niet te verschuiven is, als je overdag niet thuis bent en geen warmtepomp of elektrische auto hebt, of als zekerheid over het maandbedrag zwaarder weegt dan een verwacht voordeel van enkele tientjes tot enkele honderden euro per jaar.'
 - q: 'Hoe hoog kan een uurtarief op een dynamisch contract oplopen?'
-  a: 'Er zit geen bovengrens op. Tijdens een koudegolf met weinig wind kan de EPEX-uurprijs vermenigvuldigd naar de eindprijs ruim boven een euro per kWh uitkomen — de historische EPEX-uurprijzen zijn publiek terug te kijken op de EPEX Spot-website en via de app van je leverancier. Dat is precies waarom je op zulke uren geen wasmachine of droger moet laten draaien: het verschil met een daluur diezelfde dag kan een factor tien zijn.'
-- q: 'Hoeveel uur per dag is dynamisch contract goedkoper?'
-  a: 'Gemiddeld in 2026: 12-14 uur per dag onder gemiddelde, 6-8 uur boven gemiddelde, rest gelijk. Beste momenten: 11:00-15:00 (zonneoverschot), 02:00-05:00 (lage vraag). Slechtste: 17:00-20:00 (avondpiek). Met automatische scheduling (warmtepomp, EV, wasmachine, vaatwasser) gebruik je vooral de goedkope uren.'
+  a: 'Er zit geen bovengrens op. Het duurste uur van 2025 op de Nederlandse day-ahead markt was 0,63 euro/kWh, op 20 januari 2025 om 17:00 — dat is de kale marktprijs, voor energiebelasting en btw. Historische uurprijzen zijn publiek terug te kijken; de actuele uurprijzen staan op onze stroomprijzenpagina.'
+- q: 'Hoeveel uur per dag is een dynamisch contract goedkoper?'
+  a: 'Dat verschilt per dag en per seizoen. Het patroon is stabiel: de goedkoopste uren liggen doorgaans midden op de dag (zonproductie) en s nachts, de duurste tussen 17:00 en 20:00. In 2025 waren er 212 uren met een negatieve marktprijs. Exacte aantallen per dag publiceren wij niet, omdat die per maand sterk wisselen.'
 - q: 'Welke aanbieders bieden dynamische contracten in 2026?'
-  a: 'Tibber, Frank Energie, ANWB Energie Dynamisch, Eneco Variabel Plus, Essent Dynamisch, Greenchoice Dynamisch, Vandebron Dynamisch, EnergyZero, NieuweStroom. Beste apps: Tibber (4.7) en Frank Energie (4.6). Beste tarief 2026: Frank Energie of EnergyZero. Lees [dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/).'
-- q: 'Heb ik een slimme meter nodig voor dynamisch contract?'
-  a: 'Ja, een slimme meter is verplicht. Bij Tibber en Frank Energie krijg je daarnaast een Pulse/P1-adapter (€39-€89) voor real-time data in de app. Zonder slimme meter kun je geen dynamisch contract afsluiten. Liander en Stedin installeren slimme meter gratis bij verzoek (4-8 weken wachttijd 2026).'
+  a: 'Onder meer Tibber, Frank Energie, ANWB Energie, Eneco, Essent, Greenchoice, Vandebron, EnergyZero en NieuweStroom. Tarieven en vaste kosten wijzigen regelmatig; het actuele overzicht staat in onze eigen vergelijker dynamische energiecontracten.'
+- q: 'Heb ik een slimme meter nodig voor een dynamisch contract?'
+  a: 'Ja. Zonder uur- of kwartierwaarden kan een leverancier geen dynamisch tarief afrekenen. Een losse P1-meter is niet verplicht maar geeft realtime inzicht; een HomeWizard P1-meter kost 24,95 euro (peildatum augustus 2026). Tibber levert de eigen Pulse, maar publiceert daar geen losse consumentenprijs voor.'
 - q: 'Wat is het risico bij een dynamisch contract?'
-  a: 'Twee risico''s: (1) prijspieken door geopolitieke crisis of extreem weer — kun je 2-3x meer betalen die uur. (2) Geen budget-zekerheid voor maandbedrag — sommige maanden duurder dan ander. Mitigatie: stel maandelijkse waarschuwingen in, gebruik automatische scheduling, en zorg dat 30-50% van je verbruik flexibel is. Lees ook [dynamische prijzen gemiddeld uur 2026](/posts/dynamische-prijzen-gemiddeld-uur-2026/).'
-- q: 'Werkt dynamisch contract goed met warmtepomp?'
-  a: 'Uitstekend, mits je warmtepomp slim kan schedulen. Quatt en Vaillant integreren met Tibber/Frank Energie via Home Assistant of officiële app. Strategie: dag opwarmen op goedkope middaguren, ''s avonds laten zakken. Besparing: €150-€280/jaar bij gemiddelde warmtepomp (3.500 kWh) tegenover vast contract.'
+  a: 'Twee risico''s: prijspieken in koude, windstille periodes, en het ontbreken van een voorspelbaar maandbedrag. Je beperkt beide door een buffer of hoger voorschot aan te houden en door flexibel verbruik naar goedkope uren te verschuiven.'
+- q: 'Werkt een dynamisch contract goed met een warmtepomp?'
+  a: 'Ja, mits de warmtepomp op prijs kan reageren via een slimme thermostaat of huisautomatisering. In ons rekenmodel kost 3.500 kWh warmtepompverbruik circa 1.120 euro op een vast tarief van 0,32 euro/kWh, circa 952 euro op dynamisch zonder sturing en circa 850 euro met sturing naar goedkope uren.'
 - q: 'Kun je wisselen tussen vast en dynamisch?'
-  a: 'Ja, maar let op de opzegtermijn van je huidige contract. Een vast contract kun je aan het einde van de looptijd boetevrij verlaten; een dynamisch contract is doorgaans maandelijks opzegbaar. Ons advies: draai dynamisch minimaal twaalf maanden en evalueer na januari en juli, de twee maanden met de meest extreme prijzen. Past het niet, dan stap je terug over — het risico is beperkt juist omdat dynamisch maandelijks opzegbaar is.'
-products:
-- name: Tibber
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '0'
-- name: Frank Energie
-  url: https://www.frankenergie.nl/
-  price: '0'
-- name: ANWB Energie Dynamisch
-  url: https://www.anwb.nl/energie
-  price: '0'
+  a: 'Ja, maar let op de opzegvergoeding van je huidige contract. Een vast contract kun je aan het einde van de looptijd boetevrij verlaten; tussentijds geldt een gestaffelde opzegvergoeding waarvan je het exacte bedrag bij je leverancier opvraagt. Een dynamisch contract is doorgaans maandelijks opzegbaar — bij Tibber is dat het geval.'
 schema_type: Article
 ---
-De keuze tussen vast en dynamisch gaat in de kern niet over welk contract goedkoper is, maar over wie het prijsrisico draagt. Bij een vast contract neemt je leverancier dat risico over en rekent daar een opslag voor; bij een dynamisch contract draag je het zelf, en krijg je in ruil daarvoor de inkoopprijs zonder risicopremie.
+De keuze tussen vast en dynamisch gaat in de kern niet over welk contract goedkoper is, maar over wie het prijsrisico draagt. Bij een vast contract neemt je leverancier dat risico over en rekent daar een opslag voor; bij een dynamisch contract draag je het zelf, en krijg je in ruil daarvoor de marktprijs zonder risicopremie.
 
 Dat betekent dat dynamisch gemiddeld voordeliger uitpakt — de risicopremie vervalt — maar met een spreiding die je zelf moet kunnen opvangen. Hieronder zetten wij de prijsopbouw van beide vormen uiteen, laten wij zien waar het bij dynamisch duurder uitvalt, en geven we per situatie aan welke vorm past.
 
-*Disclosure: DuurzaamThuisLab heeft geen affiliate- of commissierelatie met Tibber, Frank Energie of ANWB Energie (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Dat verandert onze beoordeling niet: wij werken met de publieke tariefbladen, de EPEX-marktdata en de voorwaarden van de aanbieders.*
+*Disclosure: DuurzaamThuisLab heeft geen affiliate- of commissierelatie met Tibber, Frank Energie of ANWB Energie (stand augustus 2026) en ontvangt geen vergoeding als je via onze links overstapt. Wij werken met de publieke tariefbladen, de day-ahead marktdata en de voorwaarden van de aanbieders.*
 
 ---
 
 💡 *Twijfel je tussen aanbieders? Lees [Eneco vs Vattenfall vs Essent 2026](/posts/eneco-vs-vattenfall-vs-essent-2026/) voor vaste contracten en [Frank Energie vs Tibber](/posts/frank-energie-vs-tibber-2026/) voor dynamisch.*
-
 
 > **Kort antwoord:** dynamisch is gemiddeld goedkoper, maar alleen als je verbruik kunt verschuiven. Kun je dat niet, dan koop je met een vast contract prijszekerheid — en dat is een legitieme keuze, geen fout.
 
@@ -73,49 +62,51 @@ Dat betekent dat dynamisch gemiddeld voordeliger uitpakt — de risicopremie ver
 ### Vast contract
 
 - Tarief vast voor 1, 2 of 3 jaar
-- Onafhankelijk van groothandelsprijzen
+- Onafhankelijk van de groothandelsprijzen
 - Maandbedrag voorspelbaar
-- Bij overstappen tijdens contract: boete €50-€100
+- Bij tussentijds overstappen: een gestaffelde opzegvergoeding (bedrag opvragen bij je leverancier)
 
 ### Dynamisch contract
 
-- Uurtarief gekoppeld aan EPEX day-ahead markt
-- Inkoopprijs + €0,01-€0,03 marge + belastingen + BTW
-- 24 uurprijzen per dag, vooraf bekend (om 13:00 uur dag ervoor)
+- Uurtarief gekoppeld aan de day-ahead markt
+- Uurprijs + inkoopvergoeding + energiebelasting, alles maal 1,21 btw
+- 24 uurprijzen per dag, de dag ervoor bekend
 - Maandbedrag varieert flink
 
 ### Variabel contract (oude vorm, niet hetzelfde)
 
-- Halfjaarlijkse aanpassingen
-- Niet meer aanbevolen in 2026 (te traag aanpassend)
+- Aanpassingen per half jaar of per kwartaal
+- Volgt de markt met vertraging; het is geen tussenvorm van dynamisch
 
 ## Waar het prijsverschil vandaan komt
 
 Het verschil tussen vast en dynamisch zit in twee posten die je op je tariefblad kunt terugvinden:
 
-1. **De risicopremie.** Een leverancier die je twee jaar een vaste prijs garandeert, koopt die stroom vooruit in en rekent een opslag voor het risico dat de markt anders uitpakt. Bij een dynamisch contract bestaat die opslag niet; je betaalt de EPEX-uurprijs plus een vaste, expliciet genoemde marge per kWh.
+1. **De risicopremie.** Een leverancier die je twee jaar een vaste prijs garandeert, koopt die stroom vooruit in en rekent een opslag voor het risico dat de markt anders uitpakt. Bij een dynamisch contract bestaat die opslag niet; je betaalt de uurprijs plus een inkoopvergoeding per kWh.
 2. **Het verschuivingsvoordeel.** Bovenop het wegvallen van de risicopremie kun je bij dynamisch verbruik verplaatsen naar goedkope uren. Dit deel van het voordeel is niet gratis: het vereist dat je het daadwerkelijk doet.
 
-Wil je weten wat het voor jou scheelt, vergelijk dan het vaste kWh-tarief dat je nu wordt aangeboden met het gemiddelde EPEX-uurtarief over de afgelopen twaalf maanden plus de marge en belastingen. Die historische EPEX-data zijn publiek. Dat is de enige eerlijke vergelijking; een besparingsbedrag uit een review zegt over jouw verbruik niets.
+Let op één hardnekkig misverstand: geen enkele Nederlandse leverancier geeft de kale marktprijs zonder opslag door. Tibber rekent 5,99 euro per maand **per energiesoort** plus een inkoopvergoeding van 0,0248 euro per kWh (peildatum augustus 2026). Frank Energie rekent eveneens een inkoopvergoeding en hanteert sinds 1 juni 2025 een terugleverstaffel, maar publiceert zijn vaste kosten niet op de openbare tarievenpagina. ANWB Energie rekent volgens de eigen tarievenpagina 0,018 euro/kWh inkoopkosten.
+
+Wil je weten wat het voor jou scheelt, vergelijk dan het vaste kWh-tarief dat je nu wordt aangeboden met het gemiddelde uurtarief over de afgelopen twaalf maanden plus de inkoopvergoeding en belastingen. Dat is de enige eerlijke vergelijking; een besparingsbedrag uit een review zegt over jouw verbruik niets.
 
 ## Winnen met dynamisch: hoe dan?
 
 ### Wat je concreet kunt verschuiven:
 
-1. **Wasmachine + droger**: alleen tussen 11:00-15:00 of 02:00-05:00 (Tibber/Frank app waarschuwt)
-2. **Vaatwasser**: programmeren op goedkoopste uur volgende dag
-3. **Warmtepomp**: dagopwarming tot 21°C op middaguren, 's nachts naar 18°C
-4. **EV-laadpaal**: alleen onder €0,15/kWh (Easee dynamic charging)
-5. **Boiler**: opwarmen tussen 12:00-14:00
-6. **Zonnepanelen-overschot**: zelfconsumptie via boiler en EV
+1. **Wasmachine en droger**: bij voorkeur midden op de dag of 's nachts
+2. **Vaatwasser**: programmeren op het goedkoopste uur van de volgende dag
+3. **Warmtepomp**: overdag opwarmen op goedkope uren, 's avonds laten zakken
+4. **EV-laadpaal**: laden onder een zelfgekozen prijsgrens
+5. **Boiler**: opwarmen rond het middaguur
+6. **Zonnestroomoverschot**: zelf verbruiken via boiler of EV
 
-Doel van deze zes maatregelen: het grootste deel van je verbruik in de goedkoopste helft van de dag laten vallen. Hoe groot dat deel kan worden, hangt af van hoeveel van je verbruik in schedulebare apparaten zit — bij een huishouden zonder EV en zonder warmtepomp is de rek beperkt.
+Doel van deze zes maatregelen: het grootste deel van je verbruik in de goedkoopste helft van de dag laten vallen. Hoe groot dat deel kan worden, hangt af van hoeveel van je verbruik in aanstuurbare apparaten zit — bij een huishouden zonder EV en zonder warmtepomp is de rek beperkt.
 
 ### Wat je moet vermijden:
 
-- Tijdens piekuren (17:00-20:00) wassen
-- Op koude windstille winterdagen apparaten gebruiken
-- Vergeten te checken: Tibber/Frank app pusht waarschuwing bij prijspieken
+- Tijdens piekuren (17:00-20:00) wassen of drogen
+- Op koude windstille winterdagen zware apparaten laten draaien
+- Vergeten te kijken: de apps van dynamische leveranciers waarschuwen bij prijspieken
 
 ## Wanneer dynamisch duurder uitpakt dan vast
 
@@ -125,181 +116,187 @@ Eerlijkheid gebiedt: dynamisch is niet altijd goedkoper. Er zijn maanden waarin 
 - **Langdurig bewolkt en windstil in de winter ("Dunkelflaute").** Zon en wind leveren beide weinig, meerdere dagen achter elkaar.
 - **Onderhoud of uitval van grote centrales of interconnectoren.** Minder aanbod op de Nederlandse markt betekent direct hogere uurprijzen.
 
-In zulke maanden kan je rekening tientallen euro's hoger uitvallen dan met een vast tarief. Over een heel jaar valt dat doorgaans weg tegen de goedkope maanden, maar je moet die pieken in je maandbudget kunnen opvangen. Hoe groot de uitschieters concreet waren, kun je zelf nagaan in de historische EPEX-uurprijzen — die zijn publiek beschikbaar.
-
-In totaal in 4 slechte maanden: **-€178** verlies t.o.v. vast contract.
-
-In de andere 20 maanden: **+€947** voordeel.
-
-Netto over 24 maanden: **+€769 bespaard**.
+In zulke maanden kan je rekening tientallen euro's hoger uitvallen dan met een vast tarief. Over een heel jaar valt dat doorgaans weg tegen de goedkope maanden, maar je moet die pieken in je maandbudget kunnen opvangen. Hoe groot de uitschieters concreet waren, kun je zelf nagaan in de historische uurprijzen — die zijn publiek beschikbaar. Ter ijking: het duurste uur van heel 2025 kostte 0,63 euro/kWh kale marktprijs.
 
 ## Wanneer is vast toch beter?
 
 ### Profielen waarbij vast wint:
 
-1. **Mensen die overdag wegzijn én geen warmtepomp/EV**: weinig flexibiliteit
-2. **Pensioen-budget**: maandbedrag-zekerheid is belangrijker dan absolute besparing
-3. **Mensen met angst voor prijsschommelingen**: stress is reëel, geld besparen werkt niet
-4. **Studenten/jongeren**: vaak geen slimme meter, geen tijd voor scheduling
-5. **Mensen zonder app-affiniteit**: dynamisch contract zonder app-monitoring werkt niet
+1. **Overdag weg én geen warmtepomp of EV**: weinig flexibiliteit om te verschuiven
+2. **Vast maandbudget**: zekerheid over het maandbedrag weegt zwaarder dan de besparing
+3. **Sterke afkeer van prijsschommelingen**: die stress is reëel en weegt mee
+4. **Geen slimme meter of geen zin in instelwerk**: dan blijft alleen het passieve deel over
+5. **Kort verblijf op het adres**: te weinig tijd om het leereffect te pakken
 
 ### Profielen waarbij dynamisch wint:
 
-1. **Zonnepanelen-eigenaars**: terugleververgoeding ook dynamisch (€0,06-€0,30/kWh)
-2. **Warmtepomp + boiler**: 30-40% verbruik flexibel
-3. **EV-rijders**: nachtladen 80% van laadtijd
-4. **Thuiswerkers**: kunnen wasmachine draaien op middaguren
-5. **Smart home gebruikers**: Home Assistant + dynamisch = automatische optimalisatie
+1. **Zonnepaneeleigenaren**: teruglevering wordt afgerekend tegen de uurprijs, wat in de avond gunstiger uitpakt dan een vaste terugleververgoeding
+2. **Warmtepomp en boiler**: een groot deel van het verbruik is verschuifbaar
+3. **EV-rijders**: laden kan vrijwel volledig naar de goedkoopste nachturen
+4. **Thuiswerkers**: kunnen apparaten op de goedkope middaguren draaien
+5. **Gebruikers van huisautomatisering**: het schuiven gaat dan vanzelf
 
 Lees [smart home energiebeheer 2026](/posts/smart-home-energiebeheer-2026/) voor automatisering.
 
-## Vergelijking met thuisbatterij
+## Combinatie met een thuisbatterij
 
-Dynamisch contract + thuisbatterij is een gouden combinatie na saldering-stop 2027:
+Een dynamisch contract en een thuisbatterij versterken elkaar, en dat wordt belangrijker zodra de salderingsregeling per 1 januari 2027 volledig stopt. De batterij slaat goedkope of zelfopgewekte stroom op en zet die in tijdens dure uren, waardoor je minder afhankelijk bent van de avondpiek.
 
-| Setup | Jaarbesparing dynamisch | Jaarbesparing met batterij |
-|---|---|---|
-| Geen zonnepanelen | €380-€620 | n.v.t. |
-| 4 kWp zonnepanelen | €450-€780 | +€280-€420 extra |
-| 8 kWp zonnepanelen + EV | €620-€950 | +€450-€680 extra |
-
-Lees [dynamische energiecontracten thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/) voor combinaties.
+Wat dat per jaar oplevert, hangt af van drie dingen: de spreiding tussen de goedkoopste en duurste uren, het aantal cycli dat je per jaar draait en de laad- en ontlaadverliezen. Wij zetten er hier geen jaarbedrag bij, omdat elk bedrag zonder die drie variabelen misleidend is. De doorrekening staat in [terugverdientijd thuisbatterij](/terugverdientijd-thuisbatterij/) en in [dynamische energiecontracten thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
 ## Welke dynamische aanbieder past bij wie?
 
-| Aanbieder | Opslag op marktprijs | P1-meter | Sterkste punt |
+| Aanbieder | Vaste kosten per maand | Inkoopvergoeding per kWh | Peildatum |
 |---|---|---|---|
-| Frank Energie | laagste segment | los te koop | scherpe opslag met bruikbare app |
-| Tibber | hoogste segment | Pulse, gratis bij contract | beste app en de meeste automatiseringen |
-| ANWB Dynamisch | midden | inbegrepen | voordeel voor ANWB-leden |
-| EnergyZero | laagste segment | n.v.t. | laagste opslag, basale app |
+| Tibber | 5,99 euro per energiesoort | 0,0248 euro | aug 2026 |
+| Frank Energie | publiceert geen consumentenprijs | rekent een inkoopvergoeding, bedrag niet publiek | aug 2026 |
+| ANWB Energie | publiceert geen eenduidig servicebedrag | 0,018 euro | aug 2026 |
+| EnergyZero | zie tarievenpagina leverancier | zie tarievenpagina leverancier | — |
 
-De opslag per kWh en de maandelijkse vaste kosten staan op het tariefblad van elke aanbieder en wijzigen regelmatig — controleer ze op het moment dat je kiest in plaats van op een tabel in een artikel te vertrouwen.
+De vaste kosten en de inkoopvergoeding wijzigen regelmatig — controleer ze op het moment dat je kiest in plaats van op een tabel in een artikel te vertrouwen. Ons actuele overzicht staat in de [vergelijker dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/).
 
-Onze inschatting: kies op opslag als je zelf stuurt en de app alleen als informatiebron gebruikt, en kies op app-kwaliteit als je wil dat het systeem het schedulen voor je doet. Lees [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/).
+Onze redactionele lijn: kies op inkoopvergoeding en vaste kosten als je zelf stuurt, en op app- en integratiemogelijkheden als je wil dat het systeem het schuiven voor je doet. Lees ook de [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/).
 
-## Hybride strategie: vast + dynamisch?
+## Hybride strategie: vast en dynamisch combineren?
 
-In Nederland kan dat niet bij één leverancier — je hebt één contract. Maar je kunt wel:
+Je hebt per aansluiting één leveringscontract, maar je kunt wel:
 
-- **Stroom dynamisch + gas vast**: Frank Energie biedt dit (gas vast 1 jaar, stroom dynamisch)
-- **Vast met dynamisch element**: Eneco Variabel Plus heeft basis-prijs + maandelijkse aanpassing
-- **Twee meters (zakelijk + privé)**: bij ZZP'er met thuiswerkkamer mogelijk apart contract
+- **Stroom dynamisch en gas vast** combineren, als je leverancier dat aanbiedt
+- **Twee aansluitingen** (bijvoorbeeld zakelijk en privé) apart contracteren
 
-Voor de meeste mensen: **kies één van de twee duidelijk**.
+Voor de meeste huishoudens geldt: **kies één van de twee duidelijk**.
 
-## Hoe werken de uurprijzen technisch?
+## Hoe de uurprijzen technisch tot stand komen
 
-Dynamisch contract draait op **EPEX Spot day-ahead markt**. Dagelijks om 13:00 uur worden de 24 uurprijzen voor de volgende dag bekend gemaakt op basis van:
+Een dynamisch contract volgt de **day-ahead markt**. De uurprijzen voor de volgende dag worden dagelijks rond het middaguur vastgesteld op basis van:
 
-1. Vraag-prognoses (TenneT)
-2. Aanbod (wind, zon, kerncentrale, gas, kolen, import)
+1. Vraagprognoses
+2. Aanbod (wind, zon, gas, kolen, kernenergie, import)
 3. Internationale handel
 
-De prijs varieert tussen **negatief** (-€0,12/kWh, je krijgt geld toe bij overschot zon) tot **piek** (€0,80-€1,50/kWh bij windstilte + koude). Op je leverancierstarief komt:
+Prijzen kunnen negatief worden: in 2025 waren er **212 uren met een negatieve marktprijs**, vrijwel altijd bij veel zon of wind en weinig vraag. Aan de bovenkant lag het duurste uur van 2025 op **0,63 euro/kWh** (20 januari 2025, 17:00).
 
-- Inkoopprijs (EPEX) variabel
-- Marge leverancier €0,01-€0,03/kWh vast
-- Energiebelasting €0,1316/kWh (2026 tarief)
-- ODE €0,0395/kWh
-- BTW 21%
+Op de marktprijs komt:
 
-**Eindprijs aan klant** = (EPEX + €0,02 marge + €0,1711 belasting) × 1,21
+- Inkoopvergoeding van je leverancier (Tibber 0,0248 euro/kWh, aug 2026)
+- Energiebelasting stroom 2026: **0,09161 euro/kWh excl. btw** (0,11085 incl.)
+- 21% btw over het geheel
 
-Bij EPEX €0,05/kWh wordt eindprijs €0,29. Bij EPEX €0,30 wordt eindprijs €0,60. Bij EPEX -€0,05 wordt eindprijs €0,17.
+De **ODE bestaat sinds 2023 niet meer** als aparte post; wie die nog in een rekenvoorbeeld ziet staan, kijkt naar verouderde informatie.
+
+**Eindprijs** = (marktprijs + opslag + energiebelasting) x 1,21. Met de opslag-aanname van 0,02 euro/kWh die wij in al onze modellen gebruiken:
+
+| Marktprijs | Eindprijs (model) |
+|---|---|
+| −0,05 euro/kWh | 0,07 euro/kWh |
+| 0,02 euro/kWh | 0,16 euro/kWh |
+| 0,05 euro/kWh | 0,20 euro/kWh |
+| 0,105 euro/kWh (jaargemiddelde 2025) | 0,26 euro/kWh |
+| 0,30 euro/kWh | 0,50 euro/kWh |
+| 0,63 euro/kWh (duurste uur 2025) | 0,90 euro/kWh |
+
+Tibber rekent volgens de eigen tarievenpagina 0,0248 euro/kWh in plaats van de aangenomen 0,02 — dat verhoogt elke regel met circa 0,006 euro/kWh.
+
+Belangrijk gevolg: zelfs bij een marktprijs van twee cent betaal je door belasting en btw nog altijd circa 16 cent per kWh. Wie besparingen op een dynamisch contract presenteert zonder die vaste onderkant te noemen, vertelt niet het hele verhaal.
 
 ## Hoe je zelf een week doorrekent
 
-De besparing bij dynamisch is één rekensom: **verschoven kWh × de spread tussen het duurste en het goedkoopste uur van die dag**. Die spread is het enige getal dat je nodig hebt, en je kunt hem elke dag in je app terugvinden.
+De besparing bij dynamisch is één rekensom: **verschoven kWh x de spread tussen het duurste en het goedkoopste uur van die dag**. Die spread is het enige getal dat je nodig hebt, en je vindt hem elke dag in je app of op onze [stroomprijzenpagina](/stroomprijzen/).
 
 Zo pak je het aan:
 
-1. Noteer een week lang per dag het laagste en het hoogste uurtarief. Op een gewone dag in het voorjaar ligt daar in de praktijk een verschil van enkele centen tot ruim twintig cent per kWh tussen — de goedkoopste uren vallen dan rond het middaguur (zonoverschot), de duurste rond 18:00-20:00.
+1. Noteer een week lang per dag het laagste en het hoogste uurtarief. De goedkoopste uren vallen doorgaans rond het middaguur, de duurste rond 18:00-20:00.
 2. Tel op hoeveel kWh je die dag daadwerkelijk kon verplaatsen: een wasbeurt is circa 1 kWh, een droogbeurt 2 tot 4 kWh, een EV-laadsessie tientallen kWh.
-3. Multipliceer. Dat is je besparing — geen schatting, maar je eigen data.
+3. Vermenigvuldig. Dat is je besparing — geen schatting, maar je eigen data.
 
 Let op de valkuil bij extrapoleren: een week met veel spread is geen gemiddelde week. In de zomer, met veel zon rond het middaguur, is de spread groot; in donkere windstille winterweken is hij klein en verdien je aan verschuiven vrijwel niets. Reken daarom met een jaargemiddelde en niet met je beste week.
 
-## Energiebelasting verandert in 2026
-
-Belangrijke ontwikkeling: per 1 januari 2026 is de **energiebelasting voor de eerste 1.000 kWh verlaagd** met €0,03/kWh om huishoudens te ontlasten. Dit raakt vast en dynamisch even hard, dus geen invloed op vergelijking.
-
-Per 2027 wordt energiebelasting **per uur differentiabel** (pilot bij Eneco en Frank). Dat zou dynamische contracten nog gunstiger maken voor flexibele huishoudens.
-
 ## Hoe je zelf kiest
-
-Dit is de vraag die het vaakst gesteld wordt. Onze aanpak in twee stappen:
 
 ### Stap 1: meet je flexibiliteit
 
-Vragen aan jezelf:
-
-- Hoeveel apparaten kun je schedulen? (wasmachine, droger, vaatwasser, EV, warmtepomp, boiler)
-- Ben je thuis tussen 11 en 15 uur, wanneer de zonpiek de prijzen omlaag drukt?
+- Hoeveel apparaten kun je aansturen of programmeren? (wasmachine, droger, vaatwasser, EV, warmtepomp, boiler)
+- Ben je thuis midden op de dag, wanneer de zonproductie de prijzen omlaag drukt?
 - Heb je een slimme meter met werkende P1-poort?
 - Heb je geduld voor een maand wennen aan prijsbewust verbruiken?
 
-Bij 4+ ja-antwoorden: **dynamisch heeft potentie**.
+Bij vier of meer keer ja: **dynamisch heeft potentie**.
 
-### Stap 2: probeer 6 maanden
+### Stap 2: draai een vol jaar
 
-Sluit een dynamisch contract bij Frank Energie of Tibber (beide maandelijks opzegbaar). Test 6 maanden door één zomer en één winter-stuk. Vergelijk daarna met je oude vaste tarief.
+Sluit een dynamisch contract af bij een leverancier die maandelijks opzegbaar is en draai bij voorkeur een vol jaar, zodat zowel een zomer als een winter in je data zit.
 
 ### Stap 3: evalueer
 
 - Heb je daadwerkelijk verbruik kunnen sturen?
-- Was de besparing zichtbaar (€20-€50/maand)?
+- Was de besparing zichtbaar op je jaarafrekening?
 - Heeft het stress opgeleverd?
 
-Bij positief antwoord: blijf dynamisch. Bij negatief: terug naar vast (Eneco of Essent), je hebt 6 maanden geprobeerd.
+Bij een positief antwoord: blijf dynamisch. Bij een negatief antwoord: stap terug naar vast, met een jaar aan eigen data als onderbouwing.
 
 ## Veelgemaakte fouten
 
-### Fout 1: niet investeren in P1-meter
+1. **Dynamisch kiezen zonder je schema aan te passen.** Wie elke avond om 18:00 hetzelfde blijft doen, houdt alleen het passieve voordeel over — en dat is klein.
+2. **Het maandbedrag te laag inschatten.** Bij dynamisch is de wintermaand fors duurder dan de zomermaand; zonder buffer of hoger voorschot loop je tegen een naheffing aan.
+3. **Eén keer naar de uurprijzen kijken en concluderen "zo duur".** Het gemiddelde over een jaar telt, niet één piekuur.
+4. **De slimme meter niet checken voor de overstap.** Zonder werkende P1-poort mis je realtime inzicht; een dynamisch contract kan wel, maar sturen wordt lastiger.
+5. **Geen sturing instellen voor de warmtepomp.** In ons model kost 3.500 kWh warmtepompverbruik circa 952 euro op dynamisch zonder sturing en circa 850 euro met sturing — en circa 1.120 euro op een vast tarief van 0,32 euro/kWh.
+6. **Schrikken van de eerste prijspiek.** Wie na één dure week terugstapt naar vast, mist de goedkope maanden die daarna komen.
+7. **Het oude contract niet opzeggen.** De meeste leveranciers regelen de overstap, maar controleer de opzegbevestiging bij je oude leverancier.
 
-Zonder P1-meter (Tibber Pulse, HomeWizard, Smartstuff) zie je niet realtime wat je verbruik kost. Investering €39-€89, bespaart 2-3x dat per maand door inzicht.
+## NL-specifiek: belastingen, wettelijke bescherming en btw
 
-### Fout 2: alle scheduling handmatig
+Elke energierekening bestaat uit drie lagen: leveringskosten (variabel of vast), netbeheerkosten en belastingen. De **netbeheerkosten zijn een vast jaarbedrag** dat per regio verschilt en dat losstaat van je verbruik en je contractvorm — ze maken voor de keuze tussen vast en dynamisch dus geen verschil. De belastinglaag bestaat in 2026 uit de energiebelasting van 0,09161 euro/kWh (0,11085 inclusief btw) plus 21% btw over het geheel; ook die is in beide contractvormen identiek. Daarnaast krijgt elke aansluiting een vaste vermindering energiebelasting, eveneens ongeacht contractvorm.
 
-Wie elk uur de app moet checken haakt af. Investeer in **automatisering** via Home Assistant of officiële integraties (Easee + Frank, Tibber + Quatt).
+De ACM stelt eisen aan dynamische contracten: de leverancier moet de uurprijzen vooraf publiceren en mag bij overstap geen onredelijke vergoeding rekenen. Voor vaste contracten geldt een gestaffelde opzegvergoeding bij tussentijds vertrek; vraag de exacte staffel op vóór ondertekening, en houd er rekening mee dat een gecombineerd contract voor gas en stroom uit twee leveringsovereenkomsten kan bestaan.
 
-### Fout 3: dynamisch + warmtepomp zonder slimme thermostaat
+Het Bouwbesluit heet sinds 1 januari 2024 het **Besluit bouwwerken leefomgeving (Bbl)** en speelt bij contractkeuze geen rol. De ISDE geeft geen subsidie op een contractvorm. Wel is een warmtepomp subsidiabel via de ISDE — het bedrag hangt af van het typenummer en zoek je op in de RVO-apparatenlijst; de aanvraag doe je **ná** installatie, binnen 24 maanden. Een thuisbatterij valt niet onder de ISDE; die reken je dus zonder rijkssubsidie door.
 
-Een Quatt zonder slimme thermostaat draait op vast schema — dynamisch contract levert dan amper voordeel op warmtepomp-deel (60-70% van verbruik). Bosch CT200 of Tado v3+ koppelt met dynamisch tarief.
+## Wanneer je dynamisch beter overslaat
 
-### Fout 4: panieken bij eerste prijspiek
+Ligt je verbruik onder circa 1.800 kWh en valt dat vrijwel volledig in de avond, dan weegt de vaste maandprijs van een dynamisch contract zwaar en blijft er weinig voordeel over. In een gedeeld huishouden waar niemand het verbruik wil verschuiven, geldt hetzelfde. En wie geen zin heeft in apps en prijsmonitoring, kiest beter voor vast: de mentale belasting weegt dan niet op tegen de besparing.
 
-In januari 2025 was er een week met €0,80/kWh-pieken. Sommige nieuwe dynamisch-klanten gingen direct terug naar vast — verloren daarmee de voordeligere maanden van rest jaar. Wacht **minimaal 12 maanden** voor evaluatie.
+Ook in een huurwoning waar je niet in aanstuurbare apparaten kunt investeren, blijft het voordeel beperkt tot het passieve deel — in ons model enkele tientjes per jaar bij een gemiddeld verbruik.
 
-### Fout 5: niet opzeggen oude contract
+## Rekenvoorbeeld: gezin met warmtepomp, zonder EV
 
-Sommige mensen vergeten oude vaste contract op te zeggen — dan loopt het door en betaal je dubbel. Frank Energie en Tibber regelen overstap automatisch, maar check je oude leverancier voor opzegbevestiging.
+Modelberekening voor een huishouden van vier personen met 4.800 kWh stroomverbruik, acht zonnepanelen, een warmtepomp en geen elektrische auto. Aannames: vast referentietarief 0,32 euro/kWh all-in; dynamisch zonder sturing 0,272 euro/kWh all-in; dynamisch met sturing 0,243 euro/kWh all-in (beide afgeleid van de rekenconstante 0,26 euro/kWh, met een load-weighted opslag van +8% respectievelijk een korting van −15% op de marktcomponent); vaste kosten dynamisch 71,88 euro per jaar voor stroom (Tibber, 5,99 euro per maand voor één energiesoort, peildatum augustus 2026).
 
-## Ons advies per situatie
+| Variant | Berekening | Jaarkosten stroom |
+|---|---|---|
+| Vast | 4.800 x 0,32 | 1.536 euro |
+| Dynamisch zonder sturing | 4.800 x 0,272 + 72 | 1.378 euro |
+| Dynamisch met sturing | 4.800 x 0,243 + 72 | 1.238 euro |
 
-| Jouw situatie | Beste keuze |
-|---|---|
-| Zonnepanelen + warmtepomp + EV | Dynamisch (Frank/Tibber) |
-| Zonnepanelen + werk thuis | Dynamisch (Frank Energie) |
-| Geen flexibiliteit, niet thuis overdag | Vast 2 jaar (Essent/Vattenfall) |
-| Pensioen, budget-zekerheid | Vast 3 jaar (Eneco) |
-| Eerste eigen huis, leren energie | Begin vast 1 jaar |
-| Smart home enthousiast | Dynamisch + Home Assistant |
+Voordeel ten opzichte van vast: circa 158 euro zonder sturing, circa 298 euro met sturing. Twee dingen die dit rekenvoorbeeld laat zien, en die belangrijker zijn dan het bedrag:
 
----
+- **Zonder EV is de warmtepomp de bepalende post.** Kun je die niet slim sturen, dan verdampt het grootste deel van het voordeel.
+- **De maandspreiding is groot.** In de zomermaanden valt de rekening flink lager uit dan bij vast, in januari juist hoger. Stel daarom een buffer of hoger voorschot in.
+
+Alle bedragen zijn modeluitkomsten met de aannames hierboven; vervang ze door je eigen tarief en verbruik voor een uitkomst die op jouw situatie slaat.
+
+## Wat je in het eerste jaar dynamisch kunt verwachten
+
+- **Maand 1**: de rekening valt vaak hoger uit dan verwacht, simpelweg omdat het sturen nog niet staat. Reken op een paar uur werk om apparaten en warmtepomp op prijs te laten reageren.
+- **Zomer**: hier zit het grootste voordeel, door lage middagprijzen bij veel zon.
+- **Winter**: hier zit het risico. Verwacht minstens één week waarin dynamisch duurder is dan vast was geweest.
+- **Na een vol jaar**: pas dan kun je eerlijk vergelijken. Een half jaar aan data trekt de conclusie altijd naar de kant van het seizoen dat je gemeten hebt.
 
 ## Conclusie
 
-Dynamisch is in 2026 voor een flexibel huishouden vrijwel altijd de voordeligste vorm, omdat de risicopremie van een vast contract wegvalt en je verbruik kunt verschuiven naar goedkope uren. Hoeveel dat scheelt, hangt af van jouw verbruik en de spread op de markt — reken het door met je eigen tariefblad in plaats van met een gemiddelde uit een artikel. Voor wie niet flexibel is of prijszekerheid boven besparing stelt, is een **vast contract van 2 jaar** de verstandiger keuze.
+Dynamisch is in 2026 voor een flexibel huishouden meestal de voordeligste vorm, omdat de risicopremie van een vast contract wegvalt en je verbruik kunt verschuiven naar goedkope uren. In ons model gaat het bij 3.500 kWh om circa 96 euro per jaar zonder gedragsverandering en circa 197 euro met actief verschuiven — bedragen die staan of vallen met het vaste tarief waarmee je vergelijkt. Voor wie niet flexibel is of prijszekerheid boven besparing stelt, is een vast contract de verstandiger keuze.
 
-Onze redactionele lijn: dynamisch voor huishoudens met een EV, een warmtepomp of thuisbatterij en de wil om te sturen; vast voor huishoudens waar het maandbudget geen uitschieters aankan. Dat tweede geldt vaker dan de besparingsverhalen suggereren.
-
-**Probeer dynamisch:** <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie bekijken →</a> of <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber bekijken →</a>
+<div class="cta cta-affiliate">
+<strong>Dynamische contracten bekijken</strong><br>
+Tibber is maandelijks opzegbaar en rekent 5,99 euro per maand per energiesoort plus 0,0248 euro per kWh (aug 2026). Frank Energie publiceert zijn vaste kosten niet; vraag het tarievenoverzicht op. Wij ontvangen geen vergoeding als je overstapt.<br>
+<a href="https://go.duurzaamthuislab.nl/frank-energie" rel="noopener nofollow">Naar Frank Energie</a> · <a href="https://go.duurzaamthuislab.nl/tibber" rel="noopener nofollow">Naar Tibber</a>
+</div>
 
 ---
 
 Verder lezen op DuurzaamThuisLab:
 
+- [Vergelijker dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/)
 - [Dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/)
 - [Frank Energie vs Tibber](/posts/frank-energie-vs-tibber-2026/)
 - [Tibber vs ANWB Energie Dynamisch](/posts/tibber-vs-anwb-energie-dynamisch-2026/)
@@ -311,46 +308,6 @@ Verder lezen op DuurzaamThuisLab:
 - [Smart home energiebeheer 2026](/posts/smart-home-energiebeheer-2026/)
 - [Saldering vs dynamisch contract rekenmodel](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
 
-## NL-specifiek: belastingen, wettelijke bescherming en BTW
-
-In Nederland bouwt elke energierekening op uit drie lagen: leveringskosten (variabel of vast), netbeheer (vast bedrag per regio, €1,17/dag in 2026) en belastingen (energiebelasting €0,1316/kWh + ODE €0,0228/kWh + 21% BTW). Bij een dynamisch contract zie je per uur de leveringskosten dansen — de belastingen blijven exact gelijk. Dat betekent dat zelfs een spotprijs van €0,02/kWh effectief altijd minimaal €0,18/kWh kost na belastingen en BTW. Wie dynamische besparingen verkoopt zonder dit uit te leggen, vertelt niet het hele verhaal.
-
-ACM (Autoriteit Consument & Markt) heeft sinds 2023 strikte regels voor dynamisch: de leverancier moet 24 uur vooruit prijzen tonen, geen verborgen tariefgrenzen rekenen en bij overstap geen onredelijke boete vragen. Voor vaste contracten geldt sinds juni 2025 dat boete bij vroegtijdig opzeggen maximaal €125 is — bij combicontract gas+stroom dus 2x €125. Vraag bij twijfel altijd om de exacte boete-staffel vóór ondertekening.
-
-Bouwbesluit speelt geen rol bij contractkeuze, maar wel bij de meterkast: dynamisch vereist een slimme meter (DSMR 5.0 of hoger), bij oudbouw kun je deze gratis aanvragen. ISDE/RVO geven geen subsidie op contracttype. De ISDE voor woningeigenaren dekt isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — een warmtepomp maakt een dynamisch contract dus interessanter en is subsidiabel. Een thuisbatterij valt niet onder de ISDE; die reken je in de businesscase dus zonder rijkssubsidie door.
-
-## Veelgemaakte fouten
-
-1. **Dynamisch kiezen zonder schema-aanpassing.** Wie elke avond om 18:00 zelfde dingen blijft doen betaalt vaak meer dan vast.
-2. **Maandbedrag te laag inschatten.** Bij dynamisch schommelt januari €280 en juli €60 — zonder buffer kom je in december in problemen met termijnnota.
-3. **Eén keer kijken naar uurprijzen en concluderen "zo duur".** Het gemiddelde over een jaar is wat telt, niet één piekuur.
-4. **Smart meter niet checken voor overstap.** 8% van de meters heeft een defecte P1-poort — je hebt dan geen real-time data en mist de helft van de besparingsmogelijkheid.
-5. **Geen scheduling instellen voor warmtepomp.** Een warmtepomp die 's avonds bijdraait kost €0,18/kWh meer dan dezelfde warmte 's middags. Gemiddeld €280/jaar verschil bij standaardgezin.
-
-## Wanneer NIET dynamisch?
-
-Sla dynamisch over als je verbruik onder 1.800 kWh ligt en piekt 's avonds (gepensioneerden, kleine huishoudens). Bij gedeeld huishouden waar je niemand kunt overtuigen om laat te wassen of laat te koken is vast vaak rustiger. Mensen met cognitieve beperkingen of weinig zin in apps doen er goed aan vast te kiezen — de mentale belasting van prijsmonitoring kost meer dan de besparing oplevert.
-
-Bij angst voor prijspieken (geopolitieke onrust, koudegolven) is een vast contract psychologisch beter — je weet wat je betaalt, ook al is het iets duurder. Wie in een huurwoning woont en niet in flexibele apparaten kan investeren (warmtepomp, batterij): dynamisch levert dan slechts €80-€150/jaar besparing, vast geeft meer rust voor weinig extra kosten.
-
-## Rekenvoorbeeld: gezin met warmtepomp, zonder EV
-
-Modelberekening voor een huishouden van vier personen: 4.800 kWh stroom, 8 zonnepanelen, een warmtepomp en geen EV. Uitgangspunt is een vaste-contractaanbieding van €2.180 per jaar.
-
-Wat er in dit model gebeurt bij overstap naar dynamisch: de warmtepomp is de grootste schedulebare post, en die is met een slimme thermostaat of Home Assistant naar de goedkope middag- en nachturen te verschuiven. Bij een gemiddelde spread van rond de vijftien cent per kWh en enkele duizenden verschoven kWh per jaar komt de besparing in dit model op enkele honderden euro's uit.
-
-Twee dingen die dit rekenvoorbeeld laat zien, en die belangrijker zijn dan het bedrag:
-
-- **Zonder EV is de warmtepomp de bepalende post.** Kun je die niet slim sturen, dan verdampt het grootste deel van het voordeel.
-- **De maandspreiding is groot.** In de zomermaanden valt de rekening flink lager uit dan bij vast, in januari juist hoger. Stel daarom een buffer of hoger voorschot in bij je leverancier, zodat een winternota geen verrassing is.
-
-## Wat je in het eerste jaar dynamisch kunt verwachten
-
-- **Maand 1**: de rekening valt vaak hoger uit dan verwacht, simpelweg omdat het schedulen nog niet staat. Reken op een paar uur werk om apparaten en warmtepomp op prijs te laten reageren.
-- **Zomer**: hier zit het grootste voordeel, door lage middagprijzen bij veel zon.
-- **Winter**: hier zit het risico. Verwacht minstens één week waarin dynamisch duurder is dan vast was geweest.
-- **Na een vol jaar**: pas dan kun je eerlijk vergelijken. Een half jaar aan data trekt de conclusie altijd naar de kant van het seizoen dat je gemeten hebt.
-
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [ACM ConsuWijzer — energiecontract kiezen](https://www.consuwijzer.nl/energie) — onafhankelijke informatie over je rechten bij het afsluiten en opzeggen van een energiecontract.

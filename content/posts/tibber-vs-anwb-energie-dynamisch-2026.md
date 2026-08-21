@@ -1,8 +1,8 @@
 ---
 title: "Tibber vs ANWB Energie 2026: welk dynamisch contract?"
 date: 2026-08-07T08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: "Tibber vs ANWB Energie dynamisch in 2026 vergeleken op prijs, app, opslagkosten en service. Welke is goedkoper voor jouw verbruik?"
+lastmod: 2026-08-21 08:00:00+02:00
+description: "Tibber vs ANWB Energie dynamisch in 2026 vergeleken op de gepubliceerde tarieven, app-functies en service — met een narekenbare kostenvergelijking per verbruik."
 categories: ["energiecontracten"]
 tags: ["Tibber", "ANWB Energie", "dynamisch contract", "vergelijking", "versus", "energie"]
 keywords: ["tibber vs anwb", "anwb energie vs tibber", "dynamisch contract vergelijking", "beste dynamisch contract 2026", "tibber of anwb"]
@@ -11,272 +11,175 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70"
 schema_type: "Article"
-last_updated: 2026-08-07
+last_updated: 2026-08-21
 faq:
-  - q: "Welke is goedkoper: Tibber of ANWB Energie?"
-    a: "Voor de stroomprijs zijn beide identiek (volgen EPEX day-ahead). Het verschil zit in vaste kosten en opslagen. Tibber: €5,99/maand abonnement, €0,015/kWh opslag. ANWB Energie: geen abonnement, €0,025/kWh opslag. Bij <2.500 kWh/jaar is ANWB goedkoper. Bij >2.500 kWh wint Tibber."
-  - q: "Hoe werkt een dynamisch contract?"
-    a: "Je betaalt per uur de actuele EPEX-prijs (de groothandelsprijs voor stroom). Op zonnige zomerdagen middags kun je <€0,05/kWh betalen, op winteravonden €0,40-€0,60. Met slim laden (EV, batterij, warmtepomp) bespaar je 20-40% vs een vast contract."
-  - q: "Heb ik een slimme meter nodig?"
-    a: "Ja, beide leveranciers eisen een slimme meter (P1-poort). Heb je nog een ouderwetse meter, vraag deze gratis op via Liander/Stedin/Enexis. Wachttijd: 4-12 weken in 2026."
-  - q: "Werkt mijn thuisbatterij met beide?"
-    a: "Ja. Sessy heeft directe API met beide leveranciers. Marstek werkt via EnergyZero (zelfde data-feed). Frank Energie heeft een eigen integratie. Geen praktisch verschil tussen Tibber en ANWB voor batterij-arbitrage."
-  - q: "Wat zijn de overstapkosten?"
-    a: "Beide leveranciers hebben geen overstapkosten en geen opzegboete (na 1 jaar). De eerste 12 maanden Tibber heeft variabele opzegkosten (€50). ANWB heeft geen contractduur — direct opzegbaar."
-  - q: "Welke heeft betere app?"
-    a: "Tibber-app is technisch superieur — real-time uurprijzen, EV-laad-automation, smart heat pump control, push-notificaties bij negatieve prijzen. ANWB-app is functioneel maar minder feature-rijk: prijsoverzicht, factuur, verbruiksgeschiedenis. Voor power-users: Tibber. Voor 'gewoon de prijzen zien': ANWB."
-  - q: "Krijg ik nog saldering?"
-    a: "Tot 1-1-2027 ja, beide leveranciers salderen 100%. Vanaf 2027 begint de afbouw (zie [saldering 2027 transitie planner](/posts/saldering-2027-transitie-planner/)). Beide leveranciers volgen de wettelijke regeling — geen verschil."
-  - q: "Welke past bij mij?"
-    a: "<2.500 kWh, geen EV, geen batterij: ANWB Energie. 2.500-5.000 kWh, EV of batterij: Tibber. >5.000 kWh, smart-home enthousiast: Tibber (vanwege Pulse en API). ANWB-leden krijgen 10% korting op Tibber-abonnement, dus check die optie ook."
-products:
-  - name: "Tibber dynamisch contract"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "6"
-  - name: "ANWB Energie dynamisch"
-    url: "https://go.duurzaamthuislab.nl/anwb-energie"
-    price: "0"
-  - name: "Frank Energie (alternatief)"
-    url: "https://go.duurzaamthuislab.nl/frank-energie"
-    price: "0"
+  - q: 'Welke is goedkoper: Tibber of ANWB Energie?'
+    a: 'Op de gepubliceerde tarieven is ANWB Energie goedkoper. Tibber rekent 5,99 euro per maand per energiesoort plus 0,0248 euro per kWh inkoopvergoeding; ANWB Energie rekent 0,018 euro per kWh inkoopkosten. Tibber is dus zowel op de vaste kosten als per kWh duurder. Wat ANWB precies aan vaste kosten rekent, staat niet eenduidig op de eigen tarievenpagina — vraag dat op voor je vergelijkt. Peildatum augustus 2026.'
+  - q: 'Hoe werkt een dynamisch contract?'
+    a: 'Je betaalt per uur de actuele day-ahead marktprijs, plus de inkoopvergoeding van je leverancier, de energiebelasting en 21 procent btw. In 2025 lag het jaargemiddelde van de marktprijs op 0,105 euro/kWh, waren er 212 uren met een negatieve prijs en kostte het duurste uur 0,63 euro/kWh.'
+  - q: 'Heb ik een slimme meter nodig?'
+    a: 'Ja, beide leveranciers hebben uur- of kwartierwaarden nodig, en die levert alleen een slimme meter. Heb je nog een oude meter, dan kun je die bij je netbeheerder laten vervangen; de wachttijd verschilt per regio.'
+  - q: 'Werkt mijn thuisbatterij met beide?'
+    a: 'Bij beide leveranciers kun je een thuisbatterij op de uurprijzen laten sturen, hetzij via het platform van de batterij, hetzij via huisautomatisering. Welke rechtstreekse integraties op enig moment bestaan, wisselt — controleer dat bij zowel de batterijfabrikant als de leverancier.'
+  - q: 'Wat zijn de overstapkosten?'
+    a: 'Tibber is maandelijks opzegbaar. Voor ANWB Energie staan de opzegvoorwaarden in de contractvoorwaarden; controleer die voor je tekent. Een vast contract dat je tussentijds verlaat kent wel een gestaffelde opzegvergoeding.'
+  - q: 'Welke heeft de betere app?'
+    a: 'De Tibber-app biedt meer automatisering: uurprijzen vooruit, aansturing van laadpalen en apparaten en een open API. De ANWB-app is eenvoudiger en toont vooral prijzen, verbruik en facturen. Voor wie zelf niets wil automatiseren, is dat verschil weinig waard; voor wie apparaten op prijs wil laten reageren, is het de kern van het verschil.'
+  - q: 'Krijg ik nog saldering?'
+    a: 'Tot en met 31 december 2026 salderen alle leveranciers 100 procent. Per 1 januari 2027 stopt de salderingsregeling volledig — er is geen afbouwpad en geen restpercentage. Vanaf dan geldt de terugleververgoeding uit je contract. Zie de [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).'
+  - q: 'Welke past bij mij?'
+    a: 'Kijk je puur naar de gepubliceerde tarieven, dan is ANWB Energie bij elk verbruik goedkoper. Tibber verdien je alleen terug als je de automatisering daadwerkelijk gebruikt om verbruik naar goedkope uren te verschuiven — en dat voordeel moet je zelf uitrekenen met je eigen verbruikspatroon.'
 ---
-*Disclosure: de links naar ANWB Energie, Frank Energie en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Deze vergelijking is gebaseerd op de publieke tarieven en voorwaarden van beide leveranciers, hun app-documentatie en geverifieerde gebruikersreviews.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met ANWB Energie, Frank Energie of Tibber (stand augustus 2026) en ontvangen geen vergoeding als je via onze links overstapt. Deze vergelijking is gebaseerd op de publieke tarieven en voorwaarden van de leveranciers, peildatum augustus 2026.*
 
-Tibber en ANWB Energie bieden hetzelfde product — stroom tegen het uurtarief van de beurs — maar met een wezenlijk verschil in prijsmodel: Tibber rekent een maandelijks abonnement voor zijn app en automatisering, ANWB niet. Wie daarvan het meeste profiteert, hangt bijna volledig af van één vraag: heb je flexibele verbruikers (EV, thuisbatterij, warmtepomp) die de automatisering kan aansturen?
+Tibber en ANWB Energie leveren hetzelfde product — stroom tegen het uurtarief van de markt — maar met een verschillend prijsmodel. Tibber rekent een maandbedrag plus een inkoopvergoeding per kWh; ANWB Energie rekent een lagere inkoopvergoeding per kWh. Welke voor jou goedkoper is, hangt af van je verbruik en van de vraag of je de automatisering van Tibber daadwerkelijk gaat gebruiken.
 
-Dat is precies de kern. Tibber en ANWB Energie zijn allebei goede dynamische contracten, maar ze zijn voor totaal verschillende klanten. In dit artikel rekenen wij per profiel uit wie wint, met echte cijfers uit augustus 2026.
-
----
-
-
-> **Kort antwoord:** Tibber vs ANWB Energie dynamisch in 2026 vergeleken op prijs, app, opslagkosten en service. Welke is goedkoper voor jouw verbruik?
->
-> Voor de stroomprijs zijn beide identiek (volgen EPEX day-ahead). Het verschil zit in vaste kosten en opslagen. Tibber: €5,99/maand abonnement, €0,015/kWh opslag. ANWB Energie: geen abonnement, €0,025/kWh opslag. Bij <2.500 kWh/jaar is ANWB goedkoper. Bij >2.500 kWh wint Tibber.
+> **Kort antwoord:** op de gepubliceerde tarieven van augustus 2026 is ANWB Energie bij elk verbruiksniveau goedkoper dan Tibber: Tibber rekent 5,99 euro per maand per energiesoort én een hogere inkoopvergoeding (0,0248 tegen 0,018 euro/kWh). Tibber verdien je alleen terug via de automatisering — en dat voordeel moet je met je eigen verbruikspatroon narekenen, niet uit een tabel overnemen.
 
 ## Snelle samenvatting
 
 | Punt | Tibber | ANWB Energie |
-|------|--------|--------------|
-| Vaste maandkosten | €5,99 | €0 |
-| Opslag per kWh | €0,015 | €0,025 |
-| Vast leveringstarief gas | €0,15/m³ opslag | €0,12/m³ opslag |
-| Stroombron | EPEX dynamisch | EPEX dynamisch |
-| App-kwaliteit | Uitstekend | Goed |
-| EV-laden automation | Native (smart charging) | Geen |
-| Hardware | Tibber Pulse (€89) | Geen |
-| Klantenservice | Mail + chat | Telefoon + mail |
-| Contract | 1 jaar (€50 opzeg) | Maandelijks opzegbaar |
-| ANWB-leden korting | Nee | 5% korting op opslag |
+|---|---|---|
+| Vaste kosten per maand | 5,99 euro **per energiesoort** | staat niet eenduidig op de tarievenpagina — opvragen |
+| Inkoopvergoeding stroom | 0,0248 euro/kWh | 0,018 euro/kWh |
+| Prijsbron | day-ahead markt | day-ahead markt |
+| App | uitgebreid, met automatisering en open API | eenvoudig: prijzen, verbruik, facturen |
+| Aansturing laadpaal en apparaten | ja, in de app | niet in de app |
+| Eigen P1-hardware | Tibber Pulse; **prijs niet publiek** | geen |
+| Klantenservice | mail en chat | telefoon en mail |
+| Opzegbaarheid | maandelijks | zie contractvoorwaarden |
 
-**Korte conclusie:** ANWB voor low-tech kleine verbruikers, Tibber voor smart-home en zware verbruikers.
+Peildatum van alle tarieven: augustus 2026. Controleer ze op de tarievenpagina van de leverancier voordat je overstapt.
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Probeer Tibber →</a> · <a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk ANWB Energie →</a>
-
----
+<div class="cta cta-affiliate">
+<strong>Beide leveranciers bekijken</strong><br>
+Wij ontvangen geen vergoeding als je via deze links overstapt.<br>
+<a href="https://go.duurzaamthuislab.nl/tibber" rel="noopener nofollow">Naar Tibber</a> · <a href="https://go.duurzaamthuislab.nl/anwb-energie" rel="noopener nofollow">Naar ANWB Energie</a>
+</div>
 
 ## 1. Prijsstructuur — wie is écht goedkoper?
 
-Beide leveranciers volgen dezelfde EPEX day-ahead spot-markt. Het tarief per uur is identiek. Maar bovenop die spot-prijs komen energiebelasting (€0,1316/kWh in 2026), BTW (21%) en hun eigen opslag.
+Beide leveranciers volgen dezelfde day-ahead markt, dus de kale uurprijs is identiek. Bovenop die uurprijs komt bij beide dezelfde **energiebelasting van 0,09161 euro/kWh excl. btw (0,11085 incl.)** en 21% btw. De **ODE bestaat sinds 2023 niet meer**. Ook de **netbeheerkosten** — een vast jaarbedrag dat per regio verschilt — zijn bij beide gelijk.
 
-### Tibber 2026 prijsstructuur
-- Stroom: EPEX-uurprijs + €0,015/kWh opslag (vast)
-- Energiebelasting: €0,1316/kWh (overheid)
-- Vaste kosten: €5,99/maand (€71,88/jaar)
-- Vastrecht: €1,17/dag (netbeheer, hetzelfde voor iedereen)
+Wat overblijft als verschil, zijn precies twee posten:
 
-### ANWB Energie 2026 prijsstructuur
-- Stroom: EPEX-uurprijs + €0,025/kWh opslag (vast)
-- Energiebelasting: €0,1316/kWh (overheid)
-- Vaste kosten: €0/maand
-- Vastrecht: €1,17/dag (zelfde als Tibber)
+| Post | Tibber | ANWB Energie |
+|---|---|---|
+| Vaste kosten | 5,99 euro/mnd per energiesoort = 71,88 euro per jaar voor stroom | niet eenduidig gepubliceerd |
+| Inkoopvergoeding | 0,0248 euro/kWh (0,0300 incl. btw) | 0,018 euro/kWh (0,0218 incl. btw) |
 
-### Break-even berekening
+Tibber is dus op **beide** posten duurder. Dat is precies andersom dan vaak wordt aangenomen, en het betekent dat er op de gepubliceerde tarieven geen omslagpunt is waarboven Tibber goedkoper wordt.
 
-Op welk verbruik wordt Tibber goedkoper dan ANWB?
+### Wat de twee posten per jaar kosten
 
-**Tibber-meerkosten:** €71,88/jaar (abonnement)
-**Tibber-besparing:** (€0,025 - €0,015) × kWh = €0,01/kWh
+Onderstaande tabel telt alleen de leverancierskosten (inkoopvergoeding inclusief btw plus vaste kosten). De marktprijs, energiebelasting, btw daarover en netbeheerkosten zijn bij beide identiek en vallen dus weg uit de vergelijking. Voor ANWB tonen we twee varianten, omdat de vaste kosten daar niet eenduidig gepubliceerd zijn.
 
-Break-even: €71,88 / €0,01 = 7.188 kWh? Nee, want die opslag-besparing geldt zowel op inkoop als op teruglevering. In de praktijk gemiddeld bij **2.500-3.000 kWh** wordt Tibber goedkoper, omdat Tibber's slimme features (Pulse, EV-charging) ook 5-10% extra besparen.
+| Jaarverbruik | Tibber | ANWB (zonder maandbedrag) | ANWB (met een aangenomen 5,95 euro/mnd) |
+|---|---|---|---|
+| 1.500 kWh | 117 euro | 33 euro | 104 euro |
+| 2.500 kWh | 147 euro | 54 euro | 126 euro |
+| 3.500 kWh | 177 euro | 76 euro | 147 euro |
+| 5.000 kWh | 222 euro | 109 euro | 180 euro |
+| 7.000 kWh | 282 euro | 152 euro | 224 euro |
+| 10.000 kWh | 372 euro | 218 euro | 289 euro |
 
-| Jaarverbruik | Tibber kost | ANWB kost | Winnaar |
-|--------------|-------------|-----------|---------|
-| 1.500 kWh | €72 abo + €23 opslag = €95 | €38 opslag = €38 | ANWB (-€57) |
-| 2.500 kWh | €72 + €38 = €110 | €63 | ANWB (-€47) |
-| 3.500 kWh | €72 + €53 = €125 | €88 | ANWB (-€37) |
-| 5.000 kWh | €72 + €75 = €147 | €125 | ANWB (-€22) |
-| 7.000 kWh | €72 + €105 = €177 | €175 | ~Gelijk |
-| 10.000 kWh | €72 + €150 = €222 | €250 | Tibber (+€28) |
+Het verschil is in beide varianten in het voordeel van ANWB en loopt op met het verbruik, omdat ook de inkoopvergoeding per kWh bij Tibber hoger ligt (0,0082 euro/kWh incl. btw meer).
 
-**Maar:** dit is alleen abonnement+opslag. De échte winst zit in slim laden via Pulse. Tibber-gebruikers met EV besparen gemiddeld €240-€380/jaar extra t.o.v. handmatig laden. Die compenseert het abonnement royaal vanaf 2.500 kWh.
+**Waar Tibber het verschil moet maken:** in de automatisering. Verbruik verschuiven naar goedkope uren is bij elke dynamische leverancier mogelijk, maar Tibber doet het in de eigen app. In ons rekenmodel scheelt het verschuiven van verbruik circa 0,03 euro/kWh (van een load-weighted tarief van 0,272 naar 0,243 euro/kWh all-in, beide afgeleid van de rekenconstante 0,26 euro/kWh). Voor 2.000 verschoven kWh is dat circa 58 euro per jaar — genoeg om het maandbedrag van Tibber goed te maken, maar alléén als je het daadwerkelijk doet. Rekent ANWB geen maandbedrag, dan moet je dat voordeel eerst helemaal verdienen voordat Tibber gelijk komt.
 
-Lees [beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) voor de volledige marktvergelijking.
-
----
+Lees [beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) voor de bredere marktvergelijking, of gebruik onze [vergelijker dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/).
 
 ## 2. App en software
 
 ### Tibber-app
-**Wat het kan:**
-- Real-time uurprijzen (24h vooruit zichtbaar)
-- Pulse-koppeling (P1-meter via €89 device): live verbruik per seconde
-- EV smart charging (auto + laadpaal in app, laad alleen op goedkope uren)
-- Heat pump control (Mitsubishi, Daikin, Vaillant integraties)
-- Push notificaties bij negatieve uurprijzen (komt 10-30× per jaar voor)
-- Open API (Home Assistant, Domoticz)
-- Maandelijkse "savings report" met analyse
 
-Leercurve: 30 minuten. Initial setup van Pulse: 15 minuten.
+- Uurprijzen voor vandaag en morgen
+- Koppeling met de Tibber Pulse voor realtime verbruik (Tibber publiceert geen losse consumentenprijs voor de Pulse)
+- Aansturing van laadpalen en van sommige elektrische auto's: laden op de goedkoopste uren
+- Aansturing van bepaalde warmtepompen en apparaten
+- Meldingen bij zeer lage of negatieve uurprijzen
+- Open API, bruikbaar met huisautomatisering
+- Maandelijks besparingsoverzicht
 
 ### ANWB Energie-app
-**Wat het kan:**
-- Uurprijzen morgen (vanaf 14:00)
-- Verbruiksgeschiedenis per dag/maand
-- Factuur-overzicht
-- Aankondigingen bij extreme prijzen
 
-Wat het NIET kan:
-- Geen real-time meter-koppeling
-- Geen automation (laden, ontladen)
-- Geen API
+- Uurprijzen voor morgen
+- Verbruiksgeschiedenis per dag en maand
+- Factuuroverzicht
+- Meldingen bij extreme prijzen
 
-Leercurve: 5 minuten. Maar je doet dan ook minder.
+Wat de ANWB-app niet doet: realtime meterkoppeling, aansturing van apparaten en een open API.
 
-**Voor wie betekent dit wat?**
-- Zonder EV/batterij: ANWB-app is genoeg.
-- Met EV: Tibber bespaart €240-€380/jaar via smart charging (zie [EV laden met thuisbatterij](/posts/ev-laden-met-thuisbatterij/)).
-- Met thuisbatterij: beide werken via batterij-app/HA. Tibber-app is mooier maar functioneel niet beter.
+**Wat betekent dat?** Zonder elektrische auto, batterij of aanstuurbare warmtepomp is er weinig te automatiseren en is de eenvoudige app voldoende. Heb je die apparaten wel, dan is de vraag of je het schuiven zelf wilt regelen (via de laadpaal-app of huisautomatisering) of het aan de app van je leverancier wilt overlaten.
 
----
+## 3. Eerlijk over de nadelen
 
-## 3. Eerlijk over nadelen
+### Tibber
 
-### Tibber nadelen
-- Abonnement van €5,99/maand is een dealbreaker bij <2.500 kWh
-- Klantenservice traag (gemiddeld 2-3 dagen reactie op mail, geen telefoon)
-- Pulse extra €89 (verplicht voor real-time data — zonder mis je 50% van de waarde)
-- Eerste contractjaar vast (€50 opzegboete in maand 1-12)
+- Zowel het maandbedrag als de inkoopvergoeding ligt hoger dan bij ANWB
+- Het maandbedrag geldt **per energiesoort**: met stroom én gas betaal je het twee keer
+- Geen telefonische klantenservice
+- Voor realtime data is de Pulse nodig; de prijs daarvan is niet publiek
 
-### ANWB Energie nadelen
-- Hogere opslag (€0,025 vs €0,015 = €0,01/kWh duurder)
-- Geen smart charging (je doet alles handmatig)
-- Geen API — geen Home Assistant integratie
-- Telefonische service is OK, maar kennisniveau wisselend
-- Marketing pusht ANWB-lidmaatschap (€56/jaar) — alleen rendabel als je ANWB-services gebruikt
+### ANWB Energie
 
-Lees [Tibber review](/posts/tibber-review-ervaringen-2026/) en [ANWB Energie dynamisch review](/posts/anwb-energie-dynamisch-review-2026/) voor diepere ervaringen.
+- Geen aansturing van apparaten vanuit de app, geen open API
+- De vaste kosten staan niet eenduidig op de tarievenpagina
+- Over een prijsdempings- of plafondmechanisme doen wij geen uitspraak: wij hebben dat niet in de voorwaarden kunnen verifieren, en twee andere artikelen op deze site komen tot dezelfde conclusie
 
----
+Lees de [Tibber review](/posts/tibber-review-ervaringen-2026/) en de [ANWB Energie dynamisch review](/posts/anwb-energie-dynamisch-review-2026/) voor de details per leverancier.
 
-## 4. Met thuisbatterij gecombineerd
+## 4. In combinatie met een thuisbatterij
 
-Beide leveranciers werken met alle grote thuisbatterijen via de EnergyZero-datafeed. Rekenvoorbeeld met de volgende aannames: een Sessy van 10 kWh, 5.000 kWh jaarverbruik en de gemiddelde dag-nachtspreiding op de Nederlandse beurs. Uitkomst van het model per maand:
+Voor een thuisbatterij die op de uurprijzen handelt, maakt de keuze van leverancier voor het *mechanisme* niets uit: beide rekenen dezelfde marktprijs door. Het enige verschil is de inkoopvergoeding, en die betaal je over elke kWh die je uit het net laadt.
 
-| Setup | Arbitrage-winst/maand |
-|-------|------------------------|
-| Tibber + Sessy automatisch | €38 |
-| Tibber + Sessy + handmatig finetunen | €42 |
-| ANWB + Sessy automatisch | €36 |
-| ANWB + Sessy + handmatig finetunen | €38 |
+Rekenvoorbeeld: laad je 100 cycli van 10 kWh per jaar uit het net, dan is dat 1.000 kWh. Het verschil in inkoopvergoeding (0,0082 euro/kWh incl. btw) kost bij Tibber dan circa 8 euro per jaar extra, bovenop het maandbedrag van 71,88 euro. Het handelsvoordeel zelf is bij beide gelijk aan het verschil in marktprijs maal 1,21, min de laad- en ontlaadverliezen.
 
-Verschil: ~€4-5/maand in voordeel van Tibber. Op jaarbasis €48-€60. Tibber-abonnement kost €71/jaar — dus voor batterij-only gebruikers met <5.000 kWh kost Tibber netto iets meer.
+De volledige doorrekening staat in [dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
-Lees [dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/) voor de volledige analyse.
+## 5. In combinatie met een elektrische auto
 
----
+Hier zit de reden om voor Tibber te kiezen — niet in de prijs, maar in het gemak. Tibber kan laadpalen en een aantal automodellen rechtstreeks aansturen: laden op de goedkoopste uren, klaar op een ingesteld tijdstip, stoppen bij oplopende prijzen. Bij ANWB regel je dat via de app van je auto of laadpaal.
 
-## 5. Met EV gecombineerd
-
-Hier wordt Tibber duidelijk de winnaar.
-
-**Tibber smart charging:**
-- Koppelt direct met Tesla, Polestar, Volvo, Hyundai, KIA, Audi, BMW, MG, Renault
-- Laadt alleen op goedkope uren (typisch 02:00-06:00 of zonnige middag)
-- Stopt bij stijgende prijzen
-- Vertrekprijs ingesteld op tijd ("klaar om 7:00 met 80%")
-
-Gemiddeld: €280-€420/jaar besparing voor 15.000 km/jaar EV-rijden.
-
-**ANWB Energie:**
-- Geen integratie. Je doet het via je EV-app of laadpaal-app handmatig.
-- Slimme laadpaal (Wallbox Pulsar Plus + dynamic pricing app) kan dit deels overnemen — maar je moet zelf kiezen hoe je dat configureert.
+Wat het verschuiven van EV-laden waard is, is bij beide leveranciers hetzelfde. Modelberekening: 15.000 km per jaar bij 18 kWh/100 km is 2.700 kWh. Op een load-weighted tarief van 0,272 euro/kWh kost dat 734 euro; laad je consequent in de goedkoopste nachturen (aangenomen marktprijs 0,07 euro/kWh, all-in 0,220 euro/kWh), dan kost het 594 euro. Verschil: circa 140 euro per jaar. Dat voordeel haal je bij elke dynamische leverancier — de vraag is alleen of je het handmatig volhoudt.
 
 Lees [laadpaal thuis kosten subsidie 2026](/posts/laadpaal-thuis-kosten-subsidie-2026/).
 
----
-
 ## 6. Service en support
 
-### Tibber
-- Mail: 2-3 dagen reactie, professioneel maar lang
-- Chat in app: ~24 uur reactie
-- Geen telefoon
-- Communityforum actief
+Tibber werkt met mail en chat in de app, plus een actief communityforum; telefonische support is er niet. ANWB Energie biedt wel telefonische klantenservice naast mail. Contactgegevens en openingstijden staan op de website van de leverancier — wij nemen die hier niet over omdat ze wijzigen.
 
-### ANWB Energie
-- Telefoon: 088-269 22 22, ma-vr 08:00-18:00, gemiddeld 6-8 minuten wachttijd
-- Mail: 1-2 dagen
-- ANWB-winkels (60+ vestigingen) voor face-to-face
-- Veel forum-content via ANWB.nl
+Voor wie telefonisch contact belangrijk vindt, is dat een reëel argument voor ANWB.
 
-Voor wie de telefoon belangrijk vindt: ANWB.
+## 7. Wie kiest wat?
 
----
+De vergelijking hieronder gebruikt uitsluitend de twee posten die verschillen (inkoopvergoeding incl. btw plus vaste kosten van Tibber), plus het modelvoordeel van verschuiven waar dat van toepassing is.
 
-## 7. Wie kiest wat? Profiel-advies
+**Profiel 1 — 1 tot 2 personen, geen EV of batterij, circa 1.800 kWh.** Tibber circa 126 euro aan leverancierskosten, ANWB circa 39 euro zonder maandbedrag. Er valt vrijwel niets te automatiseren. **Advies: ANWB Energie.**
 
-### Profiel 1: 1-2 persoons huishouden, geen EV, geen batterij (~1.800 kWh)
-**Tibber kost:** €72 + €27 opslag = €99/jaar opslagkosten
-**ANWB kost:** €45/jaar opslagkosten
-**Verschil:** ANWB €54 goedkoper.
-**Advies:** ANWB Energie. Tibber-features brengen niets voor jou.
+**Profiel 2 — gezin met zonnepanelen, geen EV, circa 4.000 kWh.** Tibber circa 192 euro, ANWB circa 87 euro. Het verschil van ruim 100 euro moet je terugverdienen met verschuiven; bij dit profiel is er weinig verschuifbaar verbruik. **Advies: ANWB, tenzij je binnenkort een EV of batterij aanschaft.**
 
-### Profiel 2: gezin, geen EV, met zonnepanelen (4.000 kWh, 4 kWp)
-**Tibber:** €72 + €60 = €132
-**ANWB:** €100
-**Verschil:** ANWB €32 goedkoper.
-**Advies:** ANWB. Of Tibber als je over 1-2 jaar EV gaat aanschaffen.
+**Profiel 3 — gezin met elektrische auto, circa 5.500 kWh.** Tibber circa 237 euro, ANWB circa 120 euro: verschil circa 117 euro. Het modelvoordeel van EV-laden in de daluren is circa 140 euro per jaar. Regel je dat zelf via de laadpaal-app, dan blijft ANWB voordeliger; laat je het liever automatisch doen, dan valt Tibber ongeveer gelijk uit. **Advies: hangt af van hoeveel instelwerk je zelf wilt doen.**
 
-### Profiel 3: gezin met EV (5.500 kWh)
-**Tibber kost:** €72 + €83 = €155
-**Tibber EV-besparing:** -€320
-**Netto:** -€165
-**ANWB kost:** €138
-**ANWB met handmatig laden:** -€80 besparing → netto +€58
-**Verschil:** Tibber €223 goedkoper netto.
-**Advies:** Tibber.
+**Profiel 4 — warmtepomp, EV, batterij, circa 8.500 kWh.** Tibber circa 327 euro, ANWB circa 185 euro: verschil circa 142 euro. Hier is het meeste te automatiseren en is het modelvoordeel van verschuiven het grootst. **Advies: Tibber wordt hier verdedigbaar — mits je de automatisering ook echt inricht.**
 
-### Profiel 4: smart-home, warmtepomp, EV, batterij (8.500 kWh)
-**Tibber:** -€480 totaal voordeel
-**ANWB:** -€180 totaal voordeel
-**Verschil:** Tibber €300 voordeliger.
-**Advies:** Tibber, makkelijk.
+Alle bedragen zijn modeluitkomsten met de tarieven van augustus 2026; ze zeggen niets over de totale energierekening, alleen over het verschil tussen de twee leveranciers.
 
----
+## 8. ANWB-lidmaatschap
 
-## 8. ANWB-leden voordeel
-
-Als je ANWB-lid bent (€56/jaar): krijg 5% korting op opslag bij ANWB Energie. Dat is bij 4.000 kWh: €5/jaar. Negligible. Niet een reden om lid te worden, maar wel mooi als je het al bent.
-
-Tibber heeft GEEN ANWB-korting (eind 2025 stopgezet).
-
----
-
-## Welke keuze bij welk profiel
-
-**Veel flexibel verbruik (EV, batterij, warmtepomp, circa 8.500 kWh):** Tibber. In het model levert de automatisering rond de €620 per jaar op ten opzichte van een vast contract, en circa €280 meer dan ANWB — genoeg om het abonnement ruimschoots terug te verdienen. De Pulse geeft daarbij verbruiksinzicht op uurniveau en de smart charging stuurt de auto automatisch naar de goedkoopste uren.
-
-**Weinig verbruik, geen EV of batterij (rond de 1.700 kWh):** ANWB Energie. Zonder flexibele verbruikers valt er niets te automatiseren, en dan is het abonnementsgeld van Tibber puur kostenpost — in het model enkele tientjes per jaar duurder. ANWB heeft daarnaast telefonische klantenservice, wat voor een deel van de gebruikers zwaarder weegt dan appfuncties.
-
----
+Over een eventuele ledenkorting op ANWB Energie doen wij geen uitspraak: wij hebben daarover geen eenduidige, actuele informatie op de tarievenpagina kunnen vinden. Vraag het na bij ANWB als je lid bent, en neem het pas mee in je afweging als je het bevestigd hebt.
 
 ## Conclusie
 
-Tibber en ANWB Energie volgen exact dezelfde markt. Het verschil zit in de business-model: Tibber rekent abonnement maar levert smart features die geld besparen. ANWB rekent geen abonnement maar levert een platte service.
+Tibber en ANWB Energie volgen exact dezelfde markt. Op de gepubliceerde tarieven van augustus 2026 is ANWB Energie de goedkoopste van de twee, op elk verbruiksniveau: Tibber rekent zowel een maandbedrag per energiesoort als een hogere inkoopvergoeding per kWh.
 
-Onder ~2.500 kWh of zonder EV/batterij: ANWB. Boven 2.500 kWh met EV of smart-home ambities: Tibber. Beide zijn beter dan élk vast contract — een dynamisch contract is in 2026 voor 95% van de Nederlanders financieel gunstiger geworden.
+Kies Tibber alleen als je de automatisering daadwerkelijk gaat gebruiken — dan kan het verschuiven van verbruik het prijsverschil goedmaken en meer dan dat. Kies ANWB als je vooral een dynamisch tarief wilt zonder maandbedrag en zonder instelwerk, of als telefonische klantenservice voor je telt. En controleer in beide gevallen de actuele tarieven: ze wijzigen.
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Probeer Tibber →</a> · <a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk ANWB Energie →</a> · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Frank Energie (alternatief) →</a>
+<div class="cta cta-affiliate">
+<strong>Tarieven zelf controleren</strong><br>
+Wij ontvangen geen vergoeding als je via deze links overstapt. Frank Energie staat erbij als derde optie; die publiceert zijn vaste kosten niet op de openbare tarievenpagina.<br>
+<a href="https://go.duurzaamthuislab.nl/tibber" rel="noopener nofollow">Naar Tibber</a> · <a href="https://go.duurzaamthuislab.nl/anwb-energie" rel="noopener nofollow">Naar ANWB Energie</a> · <a href="https://go.duurzaamthuislab.nl/frank-energie" rel="noopener nofollow">Naar Frank Energie</a>
+</div>
 
 *Vragen? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
@@ -293,41 +196,45 @@ Onder ~2.500 kWh of zonder EV/batterij: ANWB. Boven 2.500 kWh met EV of smart-ho
 - [Energieleverancier overstappen 2026 stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/)
 - [Saldering vs dynamisch contract rekenmodel](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
 
-## NL-specifiek: belastingen, BTW en saldering 2027
+## NL-specifiek: belastingen, btw en saldering
 
-Bij elke uurprijs op EPEX wordt onbelast gerekend in euro's per MWh. Tibber en ANWB rekenen dit om naar €/kWh, voegen hun opslag toe en berekenen daarover 21% BTW. Daarboven komt de wettelijke energiebelasting (€0,1316/kWh in 2026) en ODE (€0,0228/kWh). Een spotprijs van €0,12/kWh wordt voor jou dus €0,12 + opslag + €0,1544 belasting + 21% BTW = ongeveer €0,34/kWh effectief. Wie spotprijzen ziet en denkt "wow goedkoop" mist deze rekenslag — het echte verschil tussen dynamisch en vast zit niet in de spotprijs zelf maar in de mogelijkheid om te schuiven naar lage uren.
+De day-ahead uurprijs wordt genoteerd in euro's per MWh en door je leverancier omgerekend naar euro's per kWh. Daar komt de inkoopvergoeding bij, plus de energiebelasting van **0,09161 euro/kWh excl. btw** en 21% btw over het geheel. Een marktprijs van 0,12 euro/kWh wordt bij Tibber dus (0,12 + 0,0248 + 0,09161) x 1,21 = circa **0,286 euro/kWh**; bij ANWB (0,12 + 0,018 + 0,09161) x 1,21 = circa **0,278 euro/kWh**. Wie alleen naar de marktprijs kijkt en denkt "wat goedkoop", mist die rekenslag: het verschil tussen dynamisch en vast zit niet in de marktprijs zelf, maar in de mogelijkheid om naar goedkope uren te schuiven.
 
-ISDE-subsidie geldt niet voor je energiecontract. De ISDE dekt voor woningeigenaren wel isolatie, ventilatie (i.c.m. isolatie), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — maar géén thuisbatterijen, zonnepanelen of laadpalen. Een batterij die je via een dynamisch contract laat handelen, koop je dus zonder rijkssubsidie en met 21% btw. Voor zelfstandigen die thuiswerken kun je het zakelijk verbruik proportioneel aftrekken — bij 25% kantoorgebruik trek je 25% van de stroomkosten af van je winst, en je BTW kun je voor dat deel terugvragen. Dat geldt voor zowel Tibber als ANWB. Bouwbesluit verplicht sinds 2018 een slimme meter met P1-poort op nieuwbouw, oudbouw kun je gratis omruilen via je netbeheerder.
+De ISDE geldt niet voor een energiecontract. Voor woningeigenaren dekt de ISDE isolatie, ventilatie in combinatie met isolatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — géén thuisbatterijen, zonnepanelen of laadpalen. Een batterij koop je dus zonder rijkssubsidie en met 21% btw. Werk je thuis als zelfstandige, dan kan een deel van je energiekosten zakelijk zijn; de voorwaarden daarvoor zijn specifiek, dus leg dat voor aan je boekhouder in plaats van met een vuistregel te rekenen.
 
-Saldering 2027: beide leveranciers volgen dezelfde wettelijke afbouw (64% in 2027, 28% in 2031, 0% vanaf 2031). Het verschil komt straks in de terugleververgoeding voor het niet-gesaldeerde deel — Tibber heeft aangekondigd dat te volgen op spotprijzen, ANWB heeft nog geen definitief beleid (verwacht eind 2026).
+Het Bouwbesluit heet sinds 1 januari 2024 het **Besluit bouwwerken leefomgeving (Bbl)** en stelt geen eisen aan je contractvorm. Een slimme meter met P1-poort kun je bij je netbeheerder aanvragen.
+
+**Saldering:** de salderingsregeling **stopt volledig per 1 januari 2027**. Er is geen afbouwpad en geen restpercentage; het schema met 64% en 28% dat op veel sites rondgaat, komt uit een wetsvoorstel dat het niet heeft gehaald. Wat er per 2027 verandert, is dat teruggeleverde stroom wordt afgerekend tegen de terugleververgoeding uit je contract. Op een dynamisch contract is dat de uurprijs van dat moment; welke voorwaarden elke leverancier daarbij hanteert, staat in de contractvoorwaarden.
 
 ## Veelgemaakte fouten
 
-1. **Dynamisch kiezen zonder slim apparaat te hebben.** Wie statisch om 18:00 thuiskomt, koffie zet, oven aanzet en wast tijdens de avondpiek betaalt vaak méér dan met een vast contract. Je moet kunnen schuiven.
-2. **Alleen op opslag-€/kWh kijken.** Het dagverloop van prijzen is veel belangrijker. Tibber haalt via slim laden meer uit een dynamisch contract dan ANWB ooit kan met €0,01/kWh lagere opslag.
-3. **Pulse niet kopen bij Tibber.** Zonder Pulse mis je real-time data en daarmee 50% van de Tibber-features. Wie €5,99/maand betaalt voor de app moet ook de €89 voor Pulse uitgeven, anders is het zonde.
-4. **Op zomerprijzen rekenen voor heel jaar.** In juli zie je veel negatieve prijzen middags, maar in januari avondpieken van €0,80/kWh. Reken altijd met een gemiddelde van 12 maanden.
-5. **Vergeten te checken of je smart meter werkt.** 8% van de slimme meters in NL heeft een defect-P1-poort. Voor je een dynamisch contract afsluit: koppel een P1-monitor (HomeWizard, Plugwise) en zie of er data komt.
+1. **Dynamisch kiezen zonder iets te kunnen verschuiven.** Wie elke avond in de piek kookt, wast en laadt, betaalt op een dynamisch contract al snel meer dan op een vast contract.
+2. **Alleen naar de inkoopvergoeding kijken.** Het dagverloop van de prijzen en je vermogen om te schuiven wegen zwaarder dan een verschil van een cent per kWh — maar reken dat verschuivingsvoordeel dan wel echt uit in plaats van het aan te nemen.
+3. **Het maandbedrag van Tibber onderschatten.** Het geldt per energiesoort: met stroom én gas betaal je 143,76 euro per jaar in plaats van 71,88.
+4. **Op zomerprijzen rekenen voor het hele jaar.** In de zomer zijn er veel lage middagprijzen, in de winter forse avondpieken. Reken met een heel jaar.
+5. **De slimme meter niet checken.** Controleer vóór de overstap of je meter uitleesbaar is en of de P1-poort openstaat.
 
-## Wanneer NIET dynamisch kiezen?
+## Wanneer je dynamisch beter overslaat
 
-Sla dynamisch over als je verbruikspatroon vast is en je geen flexibele apparaten hebt — denk aan een gepensioneerd echtpaar dat elke avond TV kijkt en geen EV/batterij/warmtepomp heeft. Bij <1.800 kWh en piekverbruik in avonduren betaal je vaak iets meer dan met een vast contract. Ook bij meerdere huurders in één huishouden waar je niemand kunt overtuigen van laad-discipline werkt dynamisch tegen je.
+Ligt je verbruik onder circa 1.800 kWh en valt dat vrijwel volledig in de avonduren, dan is er weinig te halen: zonder verschuifbaar verbruik blijft alleen het passieve verschil over. Hetzelfde geldt in een huishouden waar niemand het verbruik wil verschuiven.
 
-Ouderen die afhankelijk zijn van een vast termijnbedrag voor budgetplanning kunnen psychologisch beter af zijn met een vast contract, ook al is het iets duurder. De maandschommelingen bij dynamisch kunnen tussen €40 (juli) en €280 (januari) liggen — dat is voor sommigen mentaal te onrustig.
+Wie zekerheid over het maandbedrag nodig heeft voor de budgetplanning, kan beter voor een vast contract kiezen, ook al is dat gemiddeld iets duurder. De maandbedragen lopen op een dynamisch contract flink uiteen tussen zomer en winter, en dat is voor sommigen een reële reden om ervan af te zien.
 
 ## Rekenvoorbeeld: huishouden met warmtepomp, zonder EV
 
-Rekenvoorbeeld met de volgende aannames: driepersoonshuishouden, 4.300 kWh verbruik, warmtepomp en zonnepanelen, geen EV en geen batterij, warmtepomp draait 's middags op het zonne-overschot. Uitkomst van het model: de warmtepompsturing van Tibber levert rond de €110 per jaar op, waar €72 abonnementskosten tegenover staan — netto dus enkele tientjes voordeel. Bij ANWB moet dezelfde sturing handmatig, maar zonder abonnementskosten. Voor dit profiel liggen beide dus dicht bij elkaar; de doorslag geeft meestal of je de API-integratie zelf wilt bouwen (Home Assistant) of niet.
+Modelberekening: driepersoonshuishouden, 4.300 kWh verbruik, warmtepomp en zonnepanelen, geen EV en geen batterij. Aanname: circa 2.000 kWh van het verbruik is verschuifbaar (warmtepomp en boiler) en gaat van een load-weighted tarief van 0,272 naar 0,243 euro/kWh all-in. Dat levert 2.000 x 0,029 = circa **58 euro per jaar** op.
+
+Daar staat bij Tibber 71,88 euro aan vaste kosten tegenover, plus circa 35 euro extra inkoopvergoeding over 4.300 kWh ten opzichte van ANWB. Bij ANWB kost dezelfde sturing handmatig werk, maar geen maandbedrag. Voor dit profiel valt de rekensom dus in het voordeel van ANWB uit, tenzij je het handmatig sturen niet volhoudt.
 
 ## Wat je in het eerste jaar kunt verwachten
 
-**Eerste maand.** Wie in de winter overstapt, schrikt van de eerste afrekening: januari is de duurste maand van het jaar op een dynamisch contract, met een rekening die makkelijk anderhalf keer het verwachte maandbedrag is. Dat is geen fout in het contract maar het seizoenspatroon van de beurs. Reken bij Tibber ook op enkele weken levertijd voor de Pulse, en op een paar dagen wennen aan de app.
+**Eerste maand.** Wie in de winter overstapt, schrikt van de eerste afrekening: de wintermaanden zijn op een dynamisch contract de duurste van het jaar. Dat is geen fout in het contract maar het seizoenspatroon van de markt.
 
-**Na een halfjaar.** In de zomermaanden komt het voordeel naar boven: de daluren zijn dan breder en de middagprijzen structureel laag. Dat is precies het omgekeerde beeld van de eerste winterrekening, en de reden dat je een dynamisch contract nooit op één maand moet beoordelen.
+**Na een halfjaar.** In de zomermaanden komt het voordeel naar boven: de daluren zijn breder en de middagprijzen structureel laag. Precies het omgekeerde beeld van de eerste winterrekening — en de reden dat je een dynamisch contract nooit op één maand moet beoordelen.
 
-**Na een jaar.** Pas over een volledig kalenderjaar is de vergelijking met een vast contract eerlijk. In het model hierboven komt het voordeel voor een profiel met veel flexibel verbruik uit op rond de €620 per jaar; bij een klein verbruik zonder flexibiliteit blijft er enkele honderden euro's minder over.
+**Na een jaar.** Pas over een volledig kalenderjaar is de vergelijking met een vast contract eerlijk.
 
-Een laatste praktijktip: zet bij Tibber direct na inloggen je vertrekprijs voor je EV in op realistische 80% i.p.v. 100% — laden van 80 naar 100% kost in winter vaak twee keer zoveel als 0-80% omdat het vaak in de duurste uren valt. Bij ANWB moet je dit handmatig blijven inschatten via je laadpaal-app, wat na 2 weken vaak weer vergeten wordt. Wie dat consequent volhoudt kan met ANWB bijna evenveel besparen als met Tibber, maar de meeste mensen zakken na een paar weken terug naar standaardgedrag — en dan wint de automatisering van Tibber alsnog.
+Een praktische tip die bij beide leveranciers werkt: laat je auto standaard tot 80% laden in plaats van 100%. De laatste 20% duurt het langst en valt daardoor vaker in duurdere uren.
 
 ---
 
