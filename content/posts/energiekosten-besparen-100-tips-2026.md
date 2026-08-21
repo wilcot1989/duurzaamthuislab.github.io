@@ -68,8 +68,8 @@ Alle bedragen in dit artikel volgen uit deze uitgangspunten. Vervang ze door je 
 |---|---|---|
 | Stroomverbruik | 2.500 kWh/jaar | gemiddeld huishouden |
 | Gasverbruik | 1.500 m3/jaar, waarvan ±1.200 m3 ruimteverwarming en ±250 m3 warm water | gemiddeld huishouden |
-| Stroomprijs | **€0,26/kWh** | EPEX-jaargemiddelde 2025 €0,105 + inkoopopslag €0,02 + energiebelasting €0,09161, alles excl. btw, x 1,21 |
-| Gasprijs | **€1,10/m3** | marktprijs ±€0,30 + energiebelasting €0,60066, excl. btw, x 1,21 |
+| Stroomprijs | **€0,26/kWh** | EPEX-jaargemiddelde 2025 €0,105 (incl. btw) + energiebelasting €0,11085 (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw) |
+| Gasprijs | **€1,10/m3** | marktprijs ±€0,30 (incl. btw) + energiebelasting €0,7268 (incl. btw) + opslag-aanname |
 | Terugleververgoeding vanaf 2027 | €0,07/kWh | **aanname** — leveranciers hebben hun tarieven voor 2027 nog niet gepubliceerd |
 
 Netbeheerkosten zitten hier niet in: dat is een vast jaarbedrag dat niet meebeweegt met je verbruik. De energiebelasting is per 1 januari 2023 samengevoegd met de opslag duurzame energie; een aparte ODE-post bestaat niet meer.

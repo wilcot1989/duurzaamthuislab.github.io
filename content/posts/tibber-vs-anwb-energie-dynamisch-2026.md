@@ -16,7 +16,7 @@ faq:
   - q: 'Welke is goedkoper: Tibber of ANWB Energie?'
     a: 'Op de gepubliceerde tarieven is ANWB Energie goedkoper. Tibber rekent 5,99 euro per maand per energiesoort plus 0,0248 euro per kWh inkoopvergoeding; ANWB Energie rekent 0,018 euro per kWh inkoopkosten. Tibber is dus zowel op de vaste kosten als per kWh duurder. Wat ANWB precies aan vaste kosten rekent, staat niet eenduidig op de eigen tarievenpagina — vraag dat op voor je vergelijkt. Peildatum augustus 2026.'
   - q: 'Hoe werkt een dynamisch contract?'
-    a: 'Je betaalt per uur de actuele day-ahead marktprijs, plus de inkoopvergoeding van je leverancier, de energiebelasting en 21 procent btw. In 2025 lag het jaargemiddelde van de marktprijs op 0,105 euro/kWh, waren er 212 uren met een negatieve prijs en kostte het duurste uur 0,63 euro/kWh.'
+    a: 'Je betaalt per uur de actuele day-ahead marktprijs, plus de inkoopvergoeding van je leverancier en de energiebelasting van 0,11085 euro/kWh incl. btw. De marktprijzen die wij noemen zijn al inclusief btw, dus daar komt geen btw meer bovenop. In 2025 lag het jaargemiddelde van de marktprijs op 0,105 euro/kWh incl. btw, waren er 212 uren met een negatieve prijs en kostte het duurste uur 0,63 euro/kWh incl. btw.'
   - q: 'Heb ik een slimme meter nodig?'
     a: 'Ja, beide leveranciers hebben uur- of kwartierwaarden nodig, en die levert alleen een slimme meter. Heb je nog een oude meter, dan kun je die bij je netbeheerder laten vervangen; de wachttijd verschilt per regio.'
   - q: 'Werkt mijn thuisbatterij met beide?'
@@ -59,14 +59,14 @@ Wij ontvangen geen vergoeding als je via deze links overstapt.<br>
 
 ## 1. Prijsstructuur — wie is écht goedkoper?
 
-Beide leveranciers volgen dezelfde day-ahead markt, dus de kale uurprijs is identiek. Bovenop die uurprijs komt bij beide dezelfde **energiebelasting van 0,09161 euro/kWh excl. btw (0,11085 incl.)** en 21% btw. De **ODE bestaat sinds 2023 niet meer**. Ook de **netbeheerkosten** — een vast jaarbedrag dat per regio verschilt — zijn bij beide gelijk.
+Beide leveranciers volgen dezelfde day-ahead markt, dus de kale uurprijs is identiek. Bovenop die uurprijs komt bij beide dezelfde **energiebelasting van 0,09161 euro/kWh excl. btw, oftewel 0,11085 euro/kWh incl. btw**. De marktprijzen die wij op deze site gebruiken zijn al inclusief btw, dus er komt geen btw-factor meer over de beursprijs. De **ODE bestaat sinds 2023 niet meer**. Ook de **netbeheerkosten** — een vast jaarbedrag dat per regio verschilt — zijn bij beide gelijk.
 
 Wat overblijft als verschil, zijn precies twee posten:
 
 | Post | Tibber | ANWB Energie |
 |---|---|---|
 | Vaste kosten | 5,99 euro/mnd per energiesoort = 71,88 euro per jaar voor stroom | niet eenduidig gepubliceerd |
-| Inkoopvergoeding | 0,0248 euro/kWh (0,0300 incl. btw) | 0,018 euro/kWh (0,0218 incl. btw) |
+| Inkoopvergoeding | 0,0248 euro/kWh incl. btw | 0,018 euro/kWh incl. btw |
 
 Tibber is dus op **beide** posten duurder. Dat is precies andersom dan vaak wordt aangenomen, en het betekent dat er op de gepubliceerde tarieven geen omslagpunt is waarboven Tibber goedkoper wordt.
 
@@ -76,14 +76,14 @@ Onderstaande tabel telt alleen de leverancierskosten (inkoopvergoeding inclusief
 
 | Jaarverbruik | Tibber | ANWB (zonder maandbedrag) | ANWB (met een aangenomen 5,95 euro/mnd) |
 |---|---|---|---|
-| 1.500 kWh | 117 euro | 33 euro | 104 euro |
-| 2.500 kWh | 147 euro | 54 euro | 126 euro |
-| 3.500 kWh | 177 euro | 76 euro | 147 euro |
-| 5.000 kWh | 222 euro | 109 euro | 180 euro |
-| 7.000 kWh | 282 euro | 152 euro | 224 euro |
-| 10.000 kWh | 372 euro | 218 euro | 289 euro |
+| 1.500 kWh | 109 euro | 27 euro | 98 euro |
+| 2.500 kWh | 134 euro | 45 euro | 116 euro |
+| 3.500 kWh | 159 euro | 63 euro | 134 euro |
+| 5.000 kWh | 196 euro | 90 euro | 161 euro |
+| 7.000 kWh | 245 euro | 126 euro | 197 euro |
+| 10.000 kWh | 320 euro | 180 euro | 251 euro |
 
-Het verschil is in beide varianten in het voordeel van ANWB en loopt op met het verbruik, omdat ook de inkoopvergoeding per kWh bij Tibber hoger ligt (0,0082 euro/kWh incl. btw meer).
+Het verschil is in beide varianten in het voordeel van ANWB en loopt op met het verbruik, omdat ook de inkoopvergoeding per kWh bij Tibber hoger ligt (0,0068 euro/kWh incl. btw meer).
 
 **Waar Tibber het verschil moet maken:** in de automatisering. Verbruik verschuiven naar goedkope uren is bij elke dynamische leverancier mogelijk, maar Tibber doet het in de eigen app. In ons rekenmodel scheelt het verschuiven van verbruik circa 0,03 euro/kWh (van een load-weighted tarief van 0,272 naar 0,243 euro/kWh all-in, beide afgeleid van de rekenconstante 0,26 euro/kWh). Voor 2.000 verschoven kWh is dat circa 58 euro per jaar — genoeg om het maandbedrag van Tibber goed te maken, maar alléén als je het daadwerkelijk doet. Rekent ANWB geen maandbedrag, dan moet je dat voordeel eerst helemaal verdienen voordat Tibber gelijk komt.
 
@@ -133,7 +133,7 @@ Lees de [Tibber review](/posts/tibber-review-ervaringen-2026/) en de [ANWB Energ
 
 Voor een thuisbatterij die op de uurprijzen handelt, maakt de keuze van leverancier voor het *mechanisme* niets uit: beide rekenen dezelfde marktprijs door. Het enige verschil is de inkoopvergoeding, en die betaal je over elke kWh die je uit het net laadt.
 
-Rekenvoorbeeld: laad je 100 cycli van 10 kWh per jaar uit het net, dan is dat 1.000 kWh. Het verschil in inkoopvergoeding (0,0082 euro/kWh incl. btw) kost bij Tibber dan circa 8 euro per jaar extra, bovenop het maandbedrag van 71,88 euro. Het handelsvoordeel zelf is bij beide gelijk aan het verschil in marktprijs maal 1,21, min de laad- en ontlaadverliezen.
+Rekenvoorbeeld: laad je 100 cycli van 10 kWh per jaar uit het net, dan is dat 1.000 kWh. Het verschil in inkoopvergoeding (0,0068 euro/kWh incl. btw) kost bij Tibber dan circa 7 euro per jaar extra, bovenop het maandbedrag van 71,88 euro. Het handelsvoordeel zelf is bij beide gelijk aan het verschil in marktprijs — die is al inclusief btw — min de laad- en ontlaadverliezen.
 
 De volledige doorrekening staat in [dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
@@ -155,13 +155,13 @@ Voor wie telefonisch contact belangrijk vindt, is dat een reëel argument voor A
 
 De vergelijking hieronder gebruikt uitsluitend de twee posten die verschillen (inkoopvergoeding incl. btw plus vaste kosten van Tibber), plus het modelvoordeel van verschuiven waar dat van toepassing is.
 
-**Profiel 1 — 1 tot 2 personen, geen EV of batterij, circa 1.800 kWh.** Tibber circa 126 euro aan leverancierskosten, ANWB circa 39 euro zonder maandbedrag. Er valt vrijwel niets te automatiseren. **Advies: ANWB Energie.**
+**Profiel 1 — 1 tot 2 personen, geen EV of batterij, circa 1.800 kWh.** Tibber circa 117 euro aan leverancierskosten, ANWB circa 32 euro zonder maandbedrag. Er valt vrijwel niets te automatiseren. **Advies: ANWB Energie.**
 
-**Profiel 2 — gezin met zonnepanelen, geen EV, circa 4.000 kWh.** Tibber circa 192 euro, ANWB circa 87 euro. Het verschil van ruim 100 euro moet je terugverdienen met verschuiven; bij dit profiel is er weinig verschuifbaar verbruik. **Advies: ANWB, tenzij je binnenkort een EV of batterij aanschaft.**
+**Profiel 2 — gezin met zonnepanelen, geen EV, circa 4.000 kWh.** Tibber circa 171 euro, ANWB circa 72 euro. Het verschil van bijna 100 euro moet je terugverdienen met verschuiven; bij dit profiel is er weinig verschuifbaar verbruik. **Advies: ANWB, tenzij je binnenkort een EV of batterij aanschaft.**
 
-**Profiel 3 — gezin met elektrische auto, circa 5.500 kWh.** Tibber circa 237 euro, ANWB circa 120 euro: verschil circa 117 euro. Het modelvoordeel van EV-laden in de daluren is circa 140 euro per jaar. Regel je dat zelf via de laadpaal-app, dan blijft ANWB voordeliger; laat je het liever automatisch doen, dan valt Tibber ongeveer gelijk uit. **Advies: hangt af van hoeveel instelwerk je zelf wilt doen.**
+**Profiel 3 — gezin met elektrische auto, circa 5.500 kWh.** Tibber circa 208 euro, ANWB circa 99 euro: verschil circa 109 euro. Het modelvoordeel van EV-laden in de daluren is circa 140 euro per jaar. Regel je dat zelf via de laadpaal-app, dan blijft ANWB voordeliger; laat je het liever automatisch doen, dan valt Tibber iets gunstiger uit. **Advies: hangt af van hoeveel instelwerk je zelf wilt doen.**
 
-**Profiel 4 — warmtepomp, EV, batterij, circa 8.500 kWh.** Tibber circa 327 euro, ANWB circa 185 euro: verschil circa 142 euro. Hier is het meeste te automatiseren en is het modelvoordeel van verschuiven het grootst. **Advies: Tibber wordt hier verdedigbaar — mits je de automatisering ook echt inricht.**
+**Profiel 4 — warmtepomp, EV, batterij, circa 8.500 kWh.** Tibber circa 283 euro, ANWB circa 153 euro: verschil circa 130 euro. Hier is het meeste te automatiseren en is het modelvoordeel van verschuiven het grootst. **Advies: Tibber wordt hier verdedigbaar — mits je de automatisering ook echt inricht.**
 
 Alle bedragen zijn modeluitkomsten met de tarieven van augustus 2026; ze zeggen niets over de totale energierekening, alleen over het verschil tussen de twee leveranciers.
 
@@ -198,7 +198,7 @@ Wij ontvangen geen vergoeding als je via deze links overstapt. Frank Energie sta
 
 ## NL-specifiek: belastingen, btw en saldering
 
-De day-ahead uurprijs wordt genoteerd in euro's per MWh en door je leverancier omgerekend naar euro's per kWh. Daar komt de inkoopvergoeding bij, plus de energiebelasting van **0,09161 euro/kWh excl. btw** en 21% btw over het geheel. Een marktprijs van 0,12 euro/kWh wordt bij Tibber dus (0,12 + 0,0248 + 0,09161) x 1,21 = circa **0,286 euro/kWh**; bij ANWB (0,12 + 0,018 + 0,09161) x 1,21 = circa **0,278 euro/kWh**. Wie alleen naar de marktprijs kijkt en denkt "wat goedkoop", mist die rekenslag: het verschil tussen dynamisch en vast zit niet in de marktprijs zelf, maar in de mogelijkheid om naar goedkope uren te schuiven.
+De day-ahead uurprijs wordt genoteerd in euro's per MWh en door je leverancier omgerekend naar euro's per kWh. Daar komt de inkoopvergoeding bij, plus de energiebelasting van **0,09161 euro/kWh excl. btw, oftewel 0,11085 euro/kWh incl. btw**. De uurprijzen die wij noemen zijn al inclusief btw, dus je vermenigvuldigt de beursprijs niet nog eens met 1,21. Een marktprijs van 0,12 euro/kWh incl. btw wordt bij Tibber dus 0,12 + 0,0248 + 0,11085 = circa **0,256 euro/kWh**; bij ANWB 0,12 + 0,018 + 0,11085 = circa **0,249 euro/kWh**. Wie alleen naar de marktprijs kijkt en denkt "wat goedkoop", mist die rekenslag: het verschil tussen dynamisch en vast zit niet in de marktprijs zelf, maar in de mogelijkheid om naar goedkope uren te schuiven.
 
 De ISDE geldt niet voor een energiecontract. Voor woningeigenaren dekt de ISDE isolatie, ventilatie in combinatie met isolatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — géén thuisbatterijen, zonnepanelen of laadpalen. Een batterij koop je dus zonder rijkssubsidie en met 21% btw. Werk je thuis als zelfstandige, dan kan een deel van je energiekosten zakelijk zijn; de voorwaarden daarvoor zijn specifiek, dus leg dat voor aan je boekhouder in plaats van met een vuistregel te rekenen.
 

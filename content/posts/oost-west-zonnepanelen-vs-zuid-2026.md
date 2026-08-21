@@ -125,7 +125,7 @@ Twee systemen naast elkaar voor een gezin met 4.000 kWh jaarverbruik. Let op: he
 - Panelen van 400 Wp
 - Specifieke opbrengst zuid, 35° helling: 950 kWh per kWp per jaar (PVGIS-orde voor Nederland)
 - Specifieke opbrengst oost-west, 35° helling: 80 procent daarvan, dus 760 kWh per kWp per jaar
-- Leveringstarief **€0,26 per kWh** all-in incl. btw = (EPEX-jaargemiddelde 2025 €0,105 + opslag-aanname €0,02 + energiebelasting €0,09161) × 1,21
+- Leveringstarief **€0,26 per kWh** all-in incl. btw = EPEX-jaargemiddelde 2025 €0,105 (incl. btw) + energiebelasting €0,11085 (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw)
 - Terugleververgoeding vanaf 2027: **€0,07 per kWh — een aanname, geen gepubliceerd tarief**
 - Zelfverbruik zonder batterij: 30 procent bij zuid, 47 procent bij oost-west
 - Netbeheerkosten blijven buiten beeld: vast capaciteitstarief per jaar, verandert niet door de oriëntatie

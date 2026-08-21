@@ -67,7 +67,7 @@ Dit is een **modelberekening met expliciete aannames**, geen prognose en geen ad
 |---|---|---|
 | Jaaropbrengst zonnepanelen | 900 kWh per kWp | Nederlands gemiddelde, zuid of oost-west |
 | Direct eigen verbruik zonder batterij | 30% van de opbrengst | 20-25% als er overdag niemand thuis is, 40-50% met warmtepomp of EV die overdag afneemt |
-| Leveringstarief stroom | **€0,26 per kWh** all-in incl. btw | Opgebouwd als (EPEX 2025 €0,105 + opslag-aanname €0,02 + energiebelasting €0,09161) × 1,21 |
+| Leveringstarief stroom | **€0,26 per kWh** all-in incl. btw | Opgebouwd als EPEX 2025 €0,105 (incl. btw) + energiebelasting €0,11085 (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw) |
 | Terugleververgoeding vanaf 2027 | **€0,07 per kWh (aanname)** | Nog door geen enkele leverancier gepubliceerd; expliciet een aanname, geen tarief |
 | Verschuifbaar volume batterij | capaciteit × 150 volle cycli per jaar | Begrensd door je overschot en door je avondverbruik. 10 kWh geeft circa 1.500 kWh per jaar |
 | Retourrendement | 90% | Om 1.500 kWh te leveren laad je 1.667 kWh in |

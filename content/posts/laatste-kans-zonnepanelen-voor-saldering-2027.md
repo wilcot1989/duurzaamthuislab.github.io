@@ -83,7 +83,7 @@ Alle bedragen in dit artikel volgen uit deze uitgangspunten. Het zijn **modelber
 
 | Aanname | Waarde | Herkomst |
 |---|---|---|
-| Inkoopprijs stroom | €0,26/kWh | EPEX-jaargemiddelde 2025 €0,105 + inkoopopslag €0,02 + energiebelasting €0,09161, alles excl. btw, x 1,21 |
+| Inkoopprijs stroom | €0,26/kWh | EPEX-jaargemiddelde 2025 €0,105 (incl. btw) + energiebelasting €0,11085 (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw) |
 | Terugleververgoeding vanaf 2027 | €0,07/kWh | **aanname** — leveranciers hebben hun tarieven voor 2027 nog niet gepubliceerd |
 | Opbrengst zonnepanelen | 930 kWh per kWp per jaar | landelijk gemiddelde bij een gunstige oriëntatie |
 | Prijs installatie | €0,80-€1,05 per Wp incl. btw, omvormer en montage | indicatieve offertebandbreedte |

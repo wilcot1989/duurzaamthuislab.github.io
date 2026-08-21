@@ -49,7 +49,7 @@ De vraag is telkens dezelfde: is de ingreep de investering waard? In dit artikel
 | Aanname | Waarde | Toelichting |
 |---|---|---|
 | Graaddagen | 2.600 | Gangbare Nederlandse rekenwaarde voor een stookseizoen (oktober–april). |
-| Gasprijs all-in | €1,10/m³ | (marktprijs ±€0,30 + €0,60066 energiebelasting) × 1,21 btw. De ODE bestaat sinds 2023 niet meer. |
+| Gasprijs all-in | €1,10/m³ | marktprijs ±€0,30 (incl. btw) + €0,7268 energiebelasting (incl. btw) + een opslag-aanname. De ODE bestaat sinds 2023 niet meer. |
 | Prijs per kWh **warmte** | €0,13 | €1,10 ÷ (9,77 kWh/m³ × 85% ketelrendement). Verwarm je met een warmtepomp op SCOP 4,0 en stroom van €0,26/kWh, dan is warmte juist circa €0,065/kWh en halveren alle besparingsbedragen hieronder. |
 
 Dat onderscheid is belangrijk: veel koopgidsen rekenen warmteverlies af tegen een **stroom**tarief van €0,26 of hoger, wat de besparing bij een gasgestookte woning ongeveer verdubbelt.

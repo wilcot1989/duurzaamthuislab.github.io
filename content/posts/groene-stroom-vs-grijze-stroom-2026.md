@@ -86,7 +86,7 @@ Dit is de rekensom die zelden expliciet wordt gemaakt. Een **modelberekening** v
 | Variabele | Waarde | Bron |
 |---|---|---|
 | Verbruik | 3.500 kWh/jaar | modelaanname |
-| Stroom all-in dynamisch | €0,26/kWh | modelconstante: (€0,105 EPEX-jaargemiddelde 2025 + €0,02 opslag-aanname + €0,09161 energiebelasting) × 1,21 btw |
+| Stroom all-in dynamisch | €0,26/kWh | modelconstante: €0,105 EPEX-jaargemiddelde 2025 (incl. btw) + €0,11085 energiebelasting (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw) |
 | Netbeheerkosten | vast jaarbedrag, per netbeheerder verschillend | niet leverancierafhankelijk |
 | GvO-prijzen | zie tabel hierboven | GvO-handelsmarkt, indicatief |
 

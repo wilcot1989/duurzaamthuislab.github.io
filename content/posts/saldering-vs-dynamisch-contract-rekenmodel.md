@@ -24,7 +24,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is het belangrijkste verschil tussen een vast en een dynamisch contract?'
-  a: 'Bij een vast contract betaal je een vast tarief per kWh voor 1 tot 3 jaar. Bij een dynamisch contract verandert het tarief per uur, gekoppeld aan de day-ahead marktprijs, plus een inkoopvergoeding, energiebelasting en btw. In 2025 waren er 212 uren met een negatieve marktprijs; het duurste uur kostte 0,63 euro/kWh.'
+  a: 'Bij een vast contract betaal je een vast tarief per kWh voor 1 tot 3 jaar. Bij een dynamisch contract verandert het tarief per uur, gekoppeld aan de day-ahead marktprijs — die je leverancier al inclusief btw doorgeeft — plus een inkoopvergoeding en de energiebelasting van 0,11085 euro/kWh inclusief btw. In 2025 waren er 212 uren met een negatieve marktprijs; het duurste uur kostte 0,63 euro/kWh incl. btw.'
 - q: 'Is dynamisch altijd goedkoper?'
   a: 'Nee. In ons model hangt het af van twee dingen: hoeveel netstroom je na verrekening werkelijk afneemt, en hoeveel verbruik je naar goedkope uren kunt verschuiven. Bij een lage netto afname weegt het vaste maandbedrag van een dynamisch contract zwaar en kan een vast contract goedkoper uitvallen. Bij een hoge afname en flexibel verbruik wint dynamisch.'
 - q: 'Welk dynamisch contract is het beste in 2026?'
@@ -32,7 +32,7 @@ faq:
 - q: 'Hoeveel bespaar ik gemiddeld?'
   a: 'Dat is niet in een gemiddelde te vangen. In ons model loopt de uitkomst uiteen van enkele tientjes nadeel bij een klein huishouden met veel teruglevering tot circa 290 euro voordeel per jaar bij een groot huishouden met veel flexibel verbruik. De zes doorgerekende profielen staan in dit artikel.'
 - q: 'Wat zijn de risico''s van dynamisch?'
-  a: 'Hoge uurprijzen in koude, windstille periodes en een maandbedrag dat sterk wisselt. Ter ijking: het duurste uur van 2025 kostte 0,63 euro/kWh kale marktprijs, op 20 januari 2025 om 17:00. Het maandgemiddelde van januari 2025 lag met 0,142 euro/kWh incl. btw ver onder wat die piekuren suggereren.'
+  a: 'Hoge uurprijzen in koude, windstille periodes en een maandbedrag dat sterk wisselt. Ter ijking: het duurste uur van 2025 kostte 0,63 euro/kWh kale marktprijs incl. btw, op 20 januari 2025 om 17:00. Het maandgemiddelde van januari 2025 lag met 0,142 euro/kWh incl. btw ver onder wat die piekuren suggereren.'
 - q: 'Heb ik een slimme meter nodig?'
   a: 'Ja, een dynamisch contract vraagt uur- of kwartierwaarden. Heb je nog een oude meter, dan kun je die bij je netbeheerder laten vervangen; de wachttijd verschilt per regio.'
 - q: 'Wat kost overstappen?'
@@ -55,15 +55,15 @@ Dit artikel rekent de keuze door voor zes huishoudprofielen, in de situatie mét
 
 | Invoerwaarde | Waarde | Bron / peildatum |
 |---|---|---|
-| Day-ahead jaargemiddelde 2025 | 0,105 euro/kWh | marktdata 2025 |
+| Day-ahead jaargemiddelde 2025 | 0,105 euro/kWh incl. btw | marktdata 2025 |
 | Energiebelasting stroom 2026 | 0,09161 euro/kWh excl. btw (0,11085 incl.) | Belastingdienst-tarieven 2026, aug 2026 |
 | Btw | 21% | — |
 | Tibber | 5,99 euro/mnd **per energiesoort** + 0,0248 euro/kWh | tibber.com, aug 2026 |
 | Frank Energie | inkoopvergoeding én terugleverstaffel (sinds 1-6-2025); vaste kosten: publiceert geen consumentenprijs | frankenergie.nl, aug 2026 |
 | ANWB Energie | inkoopkosten 0,018 euro/kWh | anwb.nl, aug 2026 |
 | Vast referentietarief | 0,32 euro/kWh all-in (**aanname**) | vervang door je eigen aanbod |
-| Opslag-aanname in het model | 0,02 euro/kWh | eigen aanname |
-| Dynamisch all-in bij het jaargemiddelde | **0,26 euro/kWh** = (0,105 + 0,02 + 0,09161) x 1,21 | eigen model, rekenconstante |
+| Opslag-aanname in het model | 0,044 euro/kWh incl. btw (inkoopopslag + omslag vaste kosten) | eigen aanname |
+| Dynamisch all-in bij het jaargemiddelde | **0,26 euro/kWh** = 0,105 + 0,11085 + 0,044, alle bedragen incl. btw | eigen model, rekenconstante |
 | Dynamisch all-in, zonder sturing | 0,272 euro/kWh (**aanname**: marktcomponent +8% load-weighted) | eigen model |
 | Dynamisch all-in, met sturing | 0,243 euro/kWh (**aanname**: marktcomponent −15%) | eigen model |
 | Terugleververgoeding 2027 | 0,07 euro/kWh (**aanname**, niet gepubliceerd) | eigen model |

@@ -72,7 +72,7 @@ Een thuisbatterij verandert die rekensom door het overschot naar je eigen avondv
 
 ### Wat je vandaag voor stroom betaalt
 
-In de modelberekeningen hieronder rekenen we met een all-in leveringstarief van **€0,26 per kWh** inclusief btw. Dat is opgebouwd als (EPEX-jaargemiddelde 2025 €0,105 + een opslag-aanname van €0,02 + energiebelasting €0,09161) × 1,21 btw, dus €0,262. Ter controle: de energiebelasting op elektriciteit bedraagt in 2026 €0,09161 per kWh exclusief btw, oftewel €0,11085 inclusief btw. Het netbeheer reken je niet per kWh af maar als een vast capaciteitstarief per jaar — dat verandert dus niet als je een batterij plaatst, en het staat daarom niet in het model.
+In de modelberekeningen hieronder rekenen we met een all-in leveringstarief van **€0,26 per kWh** inclusief btw. Dat is opgebouwd als EPEX-jaargemiddelde 2025 €0,105 (inclusief btw) + energiebelasting €0,11085 (inclusief btw) + een opslag-aanname van €0,044 voor inkoopvergoeding en vaste-kostenomslag (inclusief btw), dus €0,26. De day-ahead-prijzen waarmee we rekenen zijn al inclusief btw, dus er komt geen 21 procent meer over de beursprijs. Ter controle: de energiebelasting op elektriciteit bedraagt in 2026 €0,09161 per kWh exclusief btw, oftewel €0,11085 inclusief btw. Het netbeheer reken je niet per kWh af maar als een vast capaciteitstarief per jaar — dat verandert dus niet als je een batterij plaatst, en het staat daarom niet in het model.
 
 Wat je zelf betaalt hangt af van je contract. Vul je eigen tarief in als het afwijkt; de uitkomsten schalen bijna lineair mee met het leveringstarief.
 
@@ -377,7 +377,7 @@ Onderstaande berekening is een **modelberekening met expliciete aannames**, geen
 **Aannames van het model (peildatum 21-8-2026):**
 - Gemiddeld Nederlands huishouden: 12 zonnepanelen (4.500 Wp, circa 4.000 kWh opbrengst), 3.500 kWh verbruik per jaar, dus circa 2.500 kWh overschot zonder batterij
 - Situatie **ná 1-1-2027**: geen saldering meer
-- Leveringstarief: **€0,26 per kWh** all-in incl. btw = (EPEX 2025 €0,105 + opslag-aanname €0,02 + energiebelasting €0,09161) × 1,21
+- Leveringstarief: **€0,26 per kWh** all-in incl. btw = EPEX 2025 €0,105 (incl. btw) + energiebelasting €0,11085 (incl. btw) + opslag-aanname €0,044 (incl. btw)
 - Terugleververgoeding vanaf 2027: **€0,07 per kWh — dit is een aanname, geen gepubliceerd tarief.** Geen enkele leverancier heeft zijn terugleververgoeding voor 2027 bekendgemaakt
 - Bruikbare capaciteit 10 kWh, retourrendement 90 procent
 - Verschoven eigen verbruik: 1.500 kWh per jaar. Dat is minder dan het volledige overschot, omdat de batterij op zonnige zomerdagen rond het middaguur al vol is en er in de winter nauwelijks overschot is

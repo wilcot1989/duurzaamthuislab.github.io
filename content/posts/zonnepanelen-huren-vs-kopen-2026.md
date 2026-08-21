@@ -54,7 +54,7 @@ Wil je kopen? Bekijk onze [beste zonnepanelen vergelijking](/posts/beste-zonnepa
 | Systeem | 10 panelen, 4.200 Wp | Aanschaf €4.500 all-in, 0% btw op zonnepanelen |
 | Jaaropbrengst | 3.780 kWh | 900 kWh per kWp, gemiddeld Nederlands dak |
 | Eigen verbruik / teruglevering | 40% / 60% | 1.512 kWh respectievelijk 2.268 kWh |
-| Stroomprijs all-in | €0,26/kWh | (EPEX-jaargemiddelde 2025 €0,105 + €0,02 opslag-aanname + €0,09161 energiebelasting) × 1,21 btw |
+| Stroomprijs all-in | €0,26/kWh | EPEX-jaargemiddelde 2025 €0,105 (incl. btw) + €0,11085 energiebelasting (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw) |
 | Saldering | 100% t/m 31-12-2026, daarna nul | Stopt **volledig** per 1-1-2027; er is geen afbouwpad |
 | Terugleververgoeding vanaf 2027 | €0,07/kWh | **Aanname**, geen gepubliceerd tarief — leveranciers hebben hun post-salderingstarieven nog niet vastgelegd |
 | Huurprijs | €55/maand, 15 jaar | Middenwaarde van de bandbreedte die in de markt genoemd wordt |

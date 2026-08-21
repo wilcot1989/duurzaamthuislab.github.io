@@ -118,7 +118,7 @@ Dit is een modelberekening met expliciete aannames, geen belofte en geen meting.
 - **Direct eigen verbruik**: 30 procent van de opbrengst = 1.290 kWh
 - **Teruglevering**: 3.010 kWh
 - **Totaal jaarverbruik**: 3.800 kWh, dus afname van het net 3.800 − 1.290 = 2.510 kWh
-- **Leveringstarief**: **€0,26 per kWh** all-in incl. btw = (EPEX-jaargemiddelde 2025 €0,105 + opslag-aanname €0,02 + energiebelasting €0,09161) × 1,21
+- **Leveringstarief**: **€0,26 per kWh** all-in incl. btw = EPEX-jaargemiddelde 2025 €0,105 (incl. btw) + energiebelasting €0,11085 (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw)
 - **Terugleververgoeding vanaf 2027**: **€0,07 per kWh — een aanname, geen gepubliceerd tarief.** Geen enkele leverancier heeft die voor 2027 bekendgemaakt
 - **Aanschafkosten zonnepanelen**: €6.500 (0 procent btw op panelen)
 - **Netbeheerkosten** blijven buiten de terugverdientijd: dat is een vast capaciteitstarief per jaar en het verandert niet door zonnepanelen

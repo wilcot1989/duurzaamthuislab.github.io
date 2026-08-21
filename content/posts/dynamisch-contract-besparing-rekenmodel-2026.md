@@ -13,15 +13,15 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
   - q: 'Hoeveel kan ik besparen met een dynamisch contract in 2026?'
-    a: 'In ons rekenmodel bespaart een huishouden van 3.500 kWh ongeveer 96 euro per jaar zonder iets te veranderen, en ongeveer 197 euro per jaar wanneer flexibel verbruik naar goedkope uren wordt geschoven. Het model rekent met het EPEX-jaargemiddelde 2025 (0,105 euro/kWh), een opslag-aanname van 0,02 euro/kWh en de energiebelasting van 2026, afgezet tegen een aangenomen vast tarief van 0,32 euro/kWh all-in. Andere aannames geven andere uitkomsten.'
+    a: 'In ons rekenmodel bespaart een huishouden van 3.500 kWh ongeveer 96 euro per jaar zonder iets te veranderen, en ongeveer 197 euro per jaar wanneer flexibel verbruik naar goedkope uren wordt geschoven. Het model rekent met het EPEX-jaargemiddelde 2025 (0,105 euro/kWh incl. btw), een opslag-aanname van 0,044 euro/kWh incl. btw en de energiebelasting van 2026, afgezet tegen een aangenomen vast tarief van 0,32 euro/kWh all-in. Andere aannames geven andere uitkomsten.'
   - q: 'Is Tibber goedkoper dan Frank Energie?'
     a: 'Dat is met publieke gegevens niet te berekenen. Tibber publiceert 5,99 euro per maand per energiesoort plus een inkoopvergoeding van 0,0248 euro per kWh. Frank Energie publiceert zijn vaste kosten niet op de openbare tarievenpagina en rekent naast een inkoopvergoeding ook een terugleverstaffel. Vraag bij beide een actueel tarievenoverzicht op voordat je vergelijkt.'
   - q: 'Wanneer is een vast contract beter dan dynamisch?'
     a: 'Vast loont vooral als je verbruik tussen 17:00 en 20:00 ligt en niet te verschuiven is, als je geen elektrische auto, warmtepomp of thuisbatterij hebt, en als je zekerheid over het maandbedrag zwaarder laat wegen dan een verwacht voordeel van enkele tientjes tot enkele honderden euro per jaar.'
   - q: 'Wat als de stroomprijs sterk stijgt?'
-    a: 'In een week met een EPEX-gemiddelde van 0,21 euro/kWh komt het dynamische all-in tarief in ons model uit op ongeveer 0,389 euro/kWh, tegenover 0,32 euro op het aangenomen vaste tarief. Zo''n week weegt voor circa een tweeenvijftigste mee in het jaartotaal. Wie in die uren verbruik verschuift, beperkt het effect.'
+    a: 'In een week met een EPEX-gemiddelde van 0,21 euro/kWh komt het dynamische all-in tarief in ons model uit op ongeveer 0,365 euro/kWh, tegenover 0,32 euro op het aangenomen vaste tarief. Zo''n week weegt voor circa een tweeenvijftigste mee in het jaartotaal. Wie in die uren verbruik verschuift, beperkt het effect.'
   - q: 'Hoe werkt het EPEX day-ahead tarief precies?'
-    a: 'Elke dag rond het middaguur worden de uurprijzen voor de volgende dag vastgesteld op de day-ahead markt. Je leverancier telt daar een inkoopvergoeding, de energiebelasting en btw bij op. Je betaalt daardoor 24 verschillende prijzen per dag in plaats van een.'
+    a: 'Elke dag rond het middaguur worden de uurprijzen voor de volgende dag vastgesteld op de day-ahead markt. De uurprijs die je leverancier doorgeeft is al inclusief btw; daar telt hij een inkoopvergoeding en de energiebelasting (0,11085 euro/kWh incl. btw) bij op. Je betaalt daardoor 24 verschillende prijzen per dag in plaats van een.'
   - q: 'Heb ik een slimme meter nodig?'
     a: 'Ja. Voor een dynamisch contract zijn uur- of kwartierwaarden nodig, en die levert alleen een slimme meter. Check bij je netbeheerder of je meter op afstand uitleesbaar is en of de P1-poort openstaat.'
 schema_type: Article
@@ -41,26 +41,26 @@ Elke uitkomst hieronder is een modelberekening. Dit zijn de invoerwaarden, met b
 
 | Invoerwaarde | Waarde | Bron / peildatum |
 |---|---|---|
-| EPEX day-ahead NL, jaargemiddelde 2025 | 0,105 euro/kWh | day-ahead marktdata 2025 |
+| EPEX day-ahead NL, jaargemiddelde 2025 | 0,105 euro/kWh incl. btw | day-ahead marktdata 2025 |
 | Negatieve uren 2025 | 212 uur | day-ahead marktdata 2025 |
-| Duurste uur 2025 | 0,63 euro/kWh (20 januari 2025, 17:00) | day-ahead marktdata 2025 |
+| Duurste uur 2025 | 0,63 euro/kWh incl. btw (20 januari 2025, 17:00) | day-ahead marktdata 2025 |
 | Energiebelasting stroom 2026 | 0,09161 euro/kWh excl. btw (0,11085 incl.) | Belastingdienst-tarieven 2026, aug 2026 |
 | Btw | 21% | — |
 | Tibber vaste kosten | 5,99 euro/mnd **per energiesoort** | tibber.com, aug 2026 |
 | Tibber inkoopvergoeding | 0,0248 euro/kWh | tibber.com, aug 2026 |
 | ANWB Energie inkoopkosten | 0,018 euro/kWh | anwb.nl, aug 2026 |
 | Frank Energie vaste kosten | publiceert geen consumentenprijs | frankenergie.nl, aug 2026 |
-| Opslag-aanname in het model | 0,02 euro/kWh | eigen aanname, gebruikt in alle modellen op deze site |
-| Dynamisch all-in bij het jaargemiddelde | 0,26 euro/kWh = (0,105 + 0,02 + 0,09161) x 1,21 | eigen model |
+| Opslag-aanname in het model | 0,044 euro/kWh incl. btw (inkoopopslag + omslag vaste kosten) | eigen aanname, gebruikt in alle modellen op deze site |
+| Dynamisch all-in bij het jaargemiddelde | 0,26 euro/kWh = 0,105 + 0,11085 + 0,044, alle bedragen incl. btw | eigen model |
 | Vast referentietarief (aanname) | 0,32 euro/kWh all-in | eigen aanname, vervang door je eigen aanbod |
 
 Twee posten laten we bewust buiten de vergelijking omdat ze in beide contractvormen identiek zijn en het verschil dus niet beinvloeden: de **netbeheerkosten** (een vast jaarbedrag van je regionale netbeheerder, geen bedrag per kWh) en de **vermindering energiebelasting** (een vaste jaarlijkse korting op je rekening). De **ODE bestaat sinds 2023 niet meer** als aparte post; die is in de energiebelasting opgegaan.
 
 ## Van EPEX-prijs naar wat je werkelijk betaalt
 
-Het tarief dat je op een dynamisch contract per kWh betaalt, is opgebouwd als: (uurprijs + opslag + energiebelasting) x 1,21.
+Het tarief dat je op een dynamisch contract per kWh betaalt, is opgebouwd als: uurprijs incl. btw + energiebelasting incl. btw (0,11085) + inkoopopslag incl. btw. De day-ahead uurprijs die je leverancier doorgeeft is namelijk al inclusief btw; je moet er dus niet nog eens 21% over rekenen.
 
-Met het jaargemiddelde van 2025 en de opslag-aanname van 0,02 euro/kWh: (0,105 + 0,02 + 0,09161) x 1,21 = **0,26 euro/kWh**. Dat is de rekenconstante die wij op deze site voor alle modellen gebruiken. Tibber rekent volgens de eigen tarievenpagina 0,0248 euro/kWh; dat is circa 0,006 euro/kWh meer dan de modelaanname, wat op 3.500 kWh circa 20 euro per jaar scheelt.
+Met het jaargemiddelde van 2025 en de opslag-aanname van 0,044 euro/kWh: 0,105 + 0,11085 + 0,044 = **0,26 euro/kWh**. Dat is de rekenconstante die wij op deze site voor alle modellen gebruiken. Tibber rekent volgens de eigen tarievenpagina 0,0248 euro/kWh inkoopvergoeding, oftewel circa 0,019 euro/kWh minder dan onze opslag-aanname — op 3.500 kWh circa 67 euro per jaar. Dat is geen netto voordeel: onze aanname van 0,044 euro/kWh bevat naast de inkoopopslag ook een omslag van de vaste kosten, terwijl Tibber die apart factureert (5,99 euro per maand per energiesoort, oftewel 71,88 euro per jaar voor stroom). Die twee bedragen liggen zo dicht bij elkaar dat de vergelijking op jaarbasis ongeveer gelijk uitvalt.
 
 De 0,26 euro/kWh is het *ongewogen* gemiddelde. Je verbruik valt echter niet gelijkmatig over de uren: een huishouden dat 's avonds kookt, wast en de auto laadt, verbruikt relatief veel in dure uren. Dat werkelijk betaalde tarief heet de load-weighted prijs en ligt hoger dan het simpele gemiddelde. Wij rekenen daarom met twee profielen, beide expliciet als aanname en beide een gemotiveerde afwijking van de 0,26:
 
@@ -85,7 +85,7 @@ Let op de gevoeligheid: het aangenomen vaste tarief van 0,32 euro/kWh bepaalt de
 
 ## Hoe het uurpatroon eruitziet
 
-Het patroon over de dag is grofweg: laag 's nachts, een tweede dal midden op de dag door zonproductie, en pieken in de ochtend en vooral tussen 17:00 en 20:00. In 2025 waren er 212 uren met een negatieve prijs, en het duurste uur van het jaar was 0,63 euro/kWh op 20 januari 2025 om 17:00.
+Het patroon over de dag is grofweg: laag 's nachts, een tweede dal midden op de dag door zonproductie, en pieken in de ochtend en vooral tussen 17:00 en 20:00. In 2025 waren er 212 uren met een negatieve prijs, en het duurste uur van het jaar was 0,63 euro/kWh incl. btw op 20 januari 2025 om 17:00.
 
 Exacte gemiddelde tarieven per tijdvak publiceren we hier bewust niet: die verschillen sterk per maand en per jaar, en een cijfer zonder peildatum is onbruikbaar. De actuele uurprijzen van vandaag en morgen staan op onze [stroomprijzenpagina](/stroomprijzen/); daar zie je ook meteen welke uren vandaag de goedkoopste zijn.
 
@@ -120,13 +120,13 @@ Maandbedragen per maand geven we hier niet: daarvoor zouden we maandgemiddelden 
 
 ## Gevoeligheidsanalyse: wat bij hoge prijzen
 
-Dit is een what-if, geen voorspelling. We variëren alleen de EPEX-prijs en houden de opslag-aanname, de energiebelasting en de btw gelijk.
+Dit is een what-if, geen voorspelling. We variëren alleen de EPEX-prijs (incl. btw) en houden de opslag-aanname en de energiebelasting gelijk.
 
 | Aangenomen EPEX-gemiddelde | Dynamisch all-in (model) | Vast (aanname 0,32) | Verschil |
 |---|---|---|---|
-| 0,21 euro/kWh (dure week) | 0,389 euro/kWh | 0,32 euro | dynamisch circa 22% duurder |
-| 0,14 euro/kWh (normale winterweek) | 0,304 euro/kWh | 0,32 euro | dynamisch circa 5% goedkoper |
-| 0,11 euro/kWh (winterkwartaal) | 0,268 euro/kWh | 0,32 euro | dynamisch circa 16% goedkoper |
+| 0,21 euro/kWh (dure week) | 0,365 euro/kWh | 0,32 euro | dynamisch circa 14% duurder |
+| 0,14 euro/kWh (normale winterweek) | 0,295 euro/kWh | 0,32 euro | dynamisch circa 8% goedkoper |
+| 0,11 euro/kWh (winterkwartaal) | 0,265 euro/kWh | 0,32 euro | dynamisch circa 17% goedkoper |
 
 Een enkele dure week weegt voor circa een tweeenvijftigste mee in het jaartotaal. Wie in zulke weken verbruik uit de avondpiek haalt, verkleint het effect verder.
 

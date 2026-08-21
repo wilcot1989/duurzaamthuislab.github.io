@@ -243,7 +243,7 @@ Reeksen als 73/64/55/46 procent of 64/28/0 procent horen bij wetsvoorstellen die
 
 Geen enkele leverancier heeft zijn terugleververgoeding voor 2027 gepubliceerd. De calculator staat daarom standaard op **€0,07 per kWh**, en dat is expliciet een aanname en geen tarief. Vul je eigen bedrag in zodra je leverancier er een noemt; het is na de aanschafprijs van een batterij de meest bepalende invoer.
 
-Hetzelfde geldt voor het leveringstarief. Onze standaardwaarde van **€0,26 per kWh** all-in is opgebouwd als (EPEX-jaargemiddelde 2025 €0,105 + een opslag-aanname van €0,02 + energiebelasting €0,09161) × 1,21 btw. Betaal je meer of minder, vul dat dan in — de uitkomst schaalt er bijna lineair mee.
+Hetzelfde geldt voor het leveringstarief. Onze standaardwaarde van **€0,26 per kWh** all-in is opgebouwd als EPEX-jaargemiddelde 2025 €0,105 (incl. btw) + energiebelasting €0,11085 (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw). Betaal je meer of minder, vul dat dan in — de uitkomst schaalt er bijna lineair mee.
 
 Waar je op moet letten bij het vergelijken: sommige leveranciers rekenen naast de vergoeding ook **terugleverkosten**. Wie dat op dit moment doet en wat ze rekenen, houden wij bij op [terugleverkosten vergelijken](/terugleverkosten-vergelijken/). Die post zit niet in de calculator, omdat de tarieven voor 2027 nog niet bekend zijn.
 

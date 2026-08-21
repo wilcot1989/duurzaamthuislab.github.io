@@ -55,7 +55,7 @@ Tibber of Frank Energie? Op papier lijken ze sterk op elkaar: twee dynamische le
 
 Van beide leveranciers wordt vaak beweerd dat ze je "exact de beursprijs" doorgeven. Dat klopt niet, en het is de belangrijkste correctie in dit artikel.
 
-De prijs die je per kWh betaalt is bij elke dynamische leverancier: **(day-ahead uurprijs + inkoopvergoeding + energiebelasting) x 1,21**. De inkoopvergoeding is de marge van de leverancier op elke kWh, bovenop de vaste maandkosten.
+De prijs die je per kWh betaalt is bij elke dynamische leverancier: **day-ahead uurprijs incl. btw + inkoopvergoeding incl. btw + energiebelasting incl. btw (0,11085 euro/kWh)**. De uurprijzen die wij noemen zijn al inclusief btw, dus je vermenigvuldigt de beursprijs niet nog eens met 1,21. De inkoopvergoeding is de marge van de leverancier op elke kWh, bovenop de vaste maandkosten.
 
 | Post | Tibber | Frank Energie |
 |---|---|---|
@@ -72,7 +72,7 @@ Omdat Frank zijn vaste kosten niet publiceert, kunnen wij de twee niet op jaarto
 ## Wat ze wel gemeen hebben
 
 - **Dezelfde prijsbron.** De kale uurprijs is bij beide identiek; die komt van de day-ahead markt.
-- **Dezelfde belastingen.** Energiebelasting 2026: 0,09161 euro/kWh excl. btw (0,11085 incl.), plus 21% btw. De **ODE bestaat sinds 2023 niet meer**.
+- **Dezelfde belastingen.** Energiebelasting 2026: 0,09161 euro/kWh excl. btw, oftewel 0,11085 euro/kWh incl. btw. De **ODE bestaat sinds 2023 niet meer**.
 - **Dezelfde netbeheerkosten.** Een vast jaarbedrag per regio, ongeacht je leverancier.
 - **Prijzen vooraf zichtbaar.** Beide tonen de uurprijzen voor de volgende dag in hun app.
 - **Landelijke dekking.**
@@ -177,7 +177,7 @@ Omdat de vaste kosten van Frank niet publiek zijn, rekenen we hieronder alleen h
 
 **Profiel: huishouden zonder EV, 3.000 kWh afname, 1.500 kWh teruglevering, situatie na 1 januari 2027 (geen saldering).**
 
-Aannames: load-weighted uurprijs 0,1134 euro/kWh (jaargemiddelde 2025 plus 8% voor het verbruiksprofiel); opslag-aanname 0,02 euro/kWh; energiebelasting 0,09161 euro/kWh; btw 21%; all-in dus 0,272 euro/kWh, afgeleid van de rekenconstante 0,26 euro/kWh; terugleververgoeding 0,07 euro/kWh (aanname, niet gepubliceerd); netbeheerkosten en vermindering energiebelasting buiten beschouwing, want gelijk bij elke leverancier.
+Aannames: load-weighted uurprijs 0,1134 euro/kWh incl. btw (jaargemiddelde 2025 plus 8% voor het verbruiksprofiel); energiebelasting 0,11085 euro/kWh incl. btw; opslag- en vaste-kostenaanname 0,048 euro/kWh incl. btw; all-in dus 0,272 euro/kWh, afgeleid van de rekenconstante 0,26 euro/kWh; terugleververgoeding 0,07 euro/kWh (aanname, niet gepubliceerd); netbeheerkosten en vermindering energiebelasting buiten beschouwing, want gelijk bij elke leverancier.
 
 | Post | Tibber | Frank Energie |
 |---|---|---|

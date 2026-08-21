@@ -57,7 +57,7 @@ Wat de saldering-stop betekent voor je bestaande installatie staat in de [salder
 
 | Aanname | Waarde | Toelichting |
 |---|---|---|
-| Stroomprijs all-in | €0,26/kWh | (EPEX-jaargemiddelde 2025 €0,105 + €0,02 opslag-aanname + €0,09161 energiebelasting) × 1,21 btw. Netbeheer is een vast jaarbedrag en zit niet in de kWh-prijs; de ODE bestaat sinds 2023 niet meer. |
+| Stroomprijs all-in | €0,26/kWh | EPEX-jaargemiddelde 2025 €0,105 (incl. btw) + €0,11085 energiebelasting (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw). Netbeheer is een vast jaarbedrag en zit niet in de kWh-prijs; de ODE bestaat sinds 2023 niet meer. |
 | Terugleververgoeding vanaf 2027 | €0,07/kWh | **Aanname, geen gepubliceerd tarief.** Leveranciers hebben hun tarieven voor de periode zonder saldering nog niet vastgelegd. Wij gebruiken één getal om de berekening navolgbaar te houden; valt het tarief hoger of lager uit, dan schuift elke uitkomst mee. |
 | Saldering | 100% t/m 31-12-2026, daarna nul | Stopt **volledig** per 1 januari 2027. Er is geen afbouwpad: het schema met 73/64/55/46% (of 64/28/0%) komt uit een wetsvoorstel dat is **verworpen**. |
 | Systeemprijs | €450 per paneel all-in | Inclusief omvormer, montage en installatie, 0% btw. Marktbandbreedte €350–€550; €450 is onze modelwaarde. |

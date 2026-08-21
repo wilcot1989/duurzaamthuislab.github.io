@@ -188,7 +188,7 @@ De berekening gaat uit van de situatie **vanaf 1 januari 2027**, want zolang de 
 | Jaarverbruik huishouden | 3.500 kWh | aanname |
 | Direct eigenverbruik zonder batterij | 30% van de opwek (1.200 kWh) | aanname |
 | Direct eigenverbruik met batterij (10 kWh) | 70% van de opwek (2.800 kWh) | aanname, sterk afhankelijk van je verbruiksprofiel |
-| Inkoopprijs stroom | €0,26/kWh | afgeleid: EPEX-jaargemiddelde 2025 €0,105 + inkoopopslag €0,02 + energiebelasting €0,09161, alles excl. btw, × 1,21 |
+| Inkoopprijs stroom | €0,26/kWh | afgeleid: EPEX-jaargemiddelde 2025 €0,105 (incl. btw) + energiebelasting €0,11085 (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw) |
 | Terugleververgoeding vanaf 2027 | €0,07/kWh | **aanname** — leveranciers hebben hun tarieven voor 2027 nog niet gepubliceerd |
 | Investering Luna 2000 10 kWh + installatie | €7.000 | **aanname**; Huawei publiceert geen consumentenprijzen |
 

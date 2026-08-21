@@ -169,7 +169,7 @@ Dat is de hele tabel. Er zijn geen tussenjaren met €0,08 of €0,13: de sprong
 
 **De twee tarieven waarmee wij rekenen, en waar ze vandaan komen:**
 
-- **Leveringstarief €0,26 per kWh all-in incl. btw.** Opgebouwd als (EPEX-jaargemiddelde 2025 €0,105 + een opslag-aanname van €0,02 + energiebelasting €0,09161) × 1,21 btw. Elk onderdeel is los na te rekenen
+- **Leveringstarief €0,26 per kWh all-in incl. btw.** Opgebouwd als EPEX-jaargemiddelde 2025 €0,105 (incl. btw) + energiebelasting €0,11085 (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw). Elk onderdeel is los na te rekenen
 - **Terugleververgoeding vanaf 2027: €0,07 per kWh.** Dit is een **aanname**, geen gepubliceerd tarief: geen enkele leverancier heeft zijn terugleververgoeding voor 2027 bekendgemaakt. Publiceert jouw leverancier er wel een, reken het model dan opnieuw door — het is na de aanschafprijs de meest bepalende variabele
 
 Let daarbij op de omzetverliezen: om 1 kWh uit de batterij te halen moet je er 1,11 kWh in laden. De netto waarde per verschoven kWh komt daarmee op €0,26 − (€0,07 ÷ 0,9) = **€0,182**, niet op de €0,19 uit de tabel hierboven.

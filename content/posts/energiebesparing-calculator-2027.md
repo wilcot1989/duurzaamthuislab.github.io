@@ -27,7 +27,7 @@ faq:
 - q: Wat rekent deze calculator precies uit?
   a: 'Het verschil tussen twee situaties bij hetzelfde verbruik en dezelfde opwek: 2026, waarin je teruglevering nog volledig wordt weggestreept tegen je afname, en 2027, waarin dat niet meer gebeurt. Het verlies is in de kern één som: je teruglevering maal het verschil tussen je inkooptarief en je terugleververgoeding.'
 - q: Met welke tarieven rekent de calculator?
-  a: 'Met een all-in stroomtarief van €0,26/kWh, opgebouwd uit (€0,105 EPEX-jaargemiddelde 2025 + €0,02 opslag-aanname + €0,09161 energiebelasting) × 1,21 btw. Voor de terugleververgoeding in 2027 rekenen wij met een gelabelde aanname van €0,07/kWh: de tarieven voor 2027 zijn op het moment van schrijven niet gepubliceerd. Beide getallen kun je hieronder terugvinden en zelf narekenen.'
+  a: 'Met een all-in stroomtarief van €0,26/kWh, opgebouwd uit €0,105 EPEX-jaargemiddelde 2025 (incl. btw) + €0,11085 energiebelasting (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw). Voor de terugleververgoeding in 2027 rekenen wij met een gelabelde aanname van €0,07/kWh: de tarieven voor 2027 zijn op het moment van schrijven niet gepubliceerd. Beide getallen kun je hieronder terugvinden en zelf narekenen.'
 - q: Waarom stopt de saldering precies?
   a: 'De salderingsregeling stopt volledig per 1 januari 2027. Er is geen afbouwpad: het wetsvoorstel met een stapsgewijze afbouw is verworpen. Tot en met 31 december 2026 saldeer je dus voor 100%, daarna niet meer.'
 - q: Wat als ik niet 100% flexibel verbruik heb?
@@ -150,7 +150,7 @@ function berekenSaldering() {
 
   // Modelconstanten (zie de aannames-sectie onder de calculator)
   var productiePerKwp = 875;        // kWh per kWp per jaar, NL-gemiddelde
-  var prijsAfname = 0.26;           // €/kWh all-in: (0,105 EPEX + 0,02 opslag + 0,09161 belasting) x 1,21
+  var prijsAfname = 0.26;           // €/kWh all-in: 0,105 EPEX (incl. btw) + 0,11085 belasting (incl. btw) + 0,044 opslag-aanname
   var terugleverAanname2027 = 0.07; // €/kWh, gelabelde aanname; 2027-tarieven niet gepubliceerd
   var spreadDynamisch = 0.30;       // €/kWh verschil dal-piek incl. btw, modelaanname
 
@@ -252,7 +252,7 @@ De calculator gebruikt vier modelconstanten. Ze staan hier expliciet, zodat je k
 | Constante | Waarde | Onderbouwing |
 |---|---|---|
 | Zonne-opbrengst | 875 kWh per kWp per jaar | NL-gemiddelde; loopt uiteen van circa 825 kWh/kWp in het noorden tot circa 920 kWh/kWp in het zuiden. Reken je eigen dakvlak na met PVGIS |
-| Stroom all-in | €0,26/kWh | (€0,105 EPEX-jaargemiddelde 2025 + €0,02 opslag-aanname + €0,09161 energiebelasting) × 1,21 btw |
+| Stroom all-in | €0,26/kWh | €0,105 EPEX-jaargemiddelde 2025 (incl. btw) + €0,11085 energiebelasting (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw) |
 | Terugleververgoeding 2027 | €0,07/kWh | **Gelabelde aanname.** De tarieven voor 2027 zijn op het moment van schrijven niet gepubliceerd. Wij nemen geen verwachting van leveranciers over als feit |
 | Prijsspread dal-piek | €0,30/kWh incl. btw | Modelaanname voor batterij-arbitrage op een dynamisch contract; op grijze winterdagen is de spread veel kleiner |
 

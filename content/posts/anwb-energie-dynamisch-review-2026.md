@@ -35,7 +35,7 @@ faq:
 - q: Wat als je wilt overstappen?
   a: 'ANWB regelt de opzegging bij je vorige leverancier. Volgens de eigen site geldt een opzegtermijn van 30 dagen zonder boete (peildatum 21 augustus 2026). Zit je nog in een lopend vast contract, check dan eerst de opzegvergoeding daar: de ACM begrenst die tot €50 tot €125 per energievorm.'
 - q: Wat is de jaarbesparing vs een vast contract?
-  a: 'Dat hangt volledig af van je verbruik en van het vaste maandbedrag dat ANWB jou rekent. In onze modelberekening hieronder (3.500 kWh, EPEX-jaargemiddelde 2025 van €0,105/kWh) komt het variabele deel bij ANWB op circa €896 per jaar tegen €1.050 bij een vast contract van €0,30/kWh all-in. Tel daar de vaste kosten van beide contracten bij op voordat je de besparing hard maakt.'
+  a: 'Dat hangt volledig af van je verbruik en van het vaste maandbedrag dat ANWB jou rekent. In onze modelberekening hieronder (3.500 kWh, EPEX-jaargemiddelde 2025 van €0,105/kWh incl. btw) komt het variabele deel bij ANWB op circa €818 per jaar tegen €1.050 bij een vast contract van €0,30/kWh all-in. Tel daar de vaste kosten van beide contracten bij op voordat je de besparing hard maakt.'
 - q: Wat zijn de nadelen?
   a: 'Drie zaken: (1) de inkoopkosten van €0,018/kWh maken ANWB per kWh duurder dan Frank, (2) er is geen open API en geen native slim laden voor EV''s, (3) het vaste termijnbedrag vlakt je cashflow maar verlaagt je jaarkosten niet — een dure winter kom je bij de jaarafrekening alsnog tegen.'
 schema_type: Review
@@ -90,9 +90,9 @@ Onderstaand een **modelberekening**, geen meting. De aannames staan er expliciet
 
 | Variabele | Waarde | Bron |
 |---|---|---|
-| EPEX-jaargemiddelde 2025 | €0,105/kWh excl. btw | EPEX day-ahead via EnergyZero, geteld door onze redactie, peildatum 21 augustus 2026 |
-| Energiebelasting stroom 2026 | €0,09161/kWh excl. btw | Belastingtarieven 2026; de ODE bestaat sinds 2023 niet meer |
-| Btw | 21% | — |
+| EPEX-jaargemiddelde 2025 | €0,105/kWh incl. btw | EPEX day-ahead via EnergyZero, geteld door onze redactie, peildatum 21 augustus 2026 |
+| Energiebelasting stroom 2026 | €0,11085/kWh incl. btw (€0,09161 excl. btw) | Belastingtarieven 2026; de ODE bestaat sinds 2023 niet meer |
+| Btw | 21%, al verwerkt in de bedragen in deze tabel | — |
 | Inkoopkosten ANWB | €0,018/kWh incl. btw | anwb.nl, peildatum 21 augustus 2026 |
 | Inkoopvergoeding Tibber | €0,0248/kWh incl. btw | tibber.com, peildatum 21 augustus 2026 |
 | Vaste kosten Tibber | €5,99/mnd per energiesoort (hier: alleen stroom, €72/jaar) | tibber.com |
@@ -101,40 +101,40 @@ Onderstaand een **modelberekening**, geen meting. De aannames staan er expliciet
 
 Netbeheerkosten laten wij buiten de vergelijking: dat is een vast jaarbedrag dat bij elke leverancier hetzelfde is.
 
-De basis onder alle drie de dynamische contracten is dezelfde: (€0,105 EPEX + €0,09161 energiebelasting) × 1,21 btw = **€0,238/kWh all-in**. Daarbovenop komt de opslag van de leverancier:
+De basis onder alle drie de dynamische contracten is dezelfde: €0,105 EPEX incl. btw + €0,11085 energiebelasting incl. btw = **€0,216/kWh all-in**. De beursprijzen die wij gebruiken zijn al inclusief btw, dus er komt geen extra btw-opslag meer over de basis. Daarbovenop komt de opslag van de leverancier, die ook al inclusief btw is:
 
-- **Frank:** €0,238 + geen marge = **€0,2379/kWh** (plus onbekende vaste kosten)
-- **ANWB:** €0,238 + €0,018 = **€0,2559/kWh** (plus onbekend vast maandbedrag)
-- **Tibber:** €0,238 + €0,0248 = **€0,2627/kWh** (plus €72/jaar vaste kosten)
+- **Frank:** €0,216 + geen marge = **€0,216/kWh** (plus onbekende vaste kosten)
+- **ANWB:** €0,216 + €0,018 = **€0,234/kWh** (plus onbekend vast maandbedrag)
+- **Tibber:** €0,216 + €0,0248 = **€0,241/kWh** (plus €72/jaar vaste kosten)
 
-Ter oriëntatie hanteren wij op deze site een all-in modelconstante van **€0,26/kWh** voor dynamische stroom, opgebouwd uit (€0,105 EPEX + €0,02 opslag-aanname + €0,09161 belasting) × 1,21. Tibber zit daar praktisch op; Frank ligt eronder.
+Ter oriëntatie hanteren wij op deze site een all-in modelconstante van **€0,26/kWh** voor dynamische stroom, opgebouwd uit €0,105 EPEX incl. btw + €0,11085 energiebelasting incl. btw + €0,044 aan inkoopopslag en omgeslagen vaste kosten (aanname, incl. btw). Die constante ligt dus bewust boven de kale leveranciersbasis; Tibber en ANWB komen er met hun vaste kosten meegerekend in de buurt, Frank blijft eronder.
 
 **Profiel 1 — appartement, geen zonnepanelen, 2.800 kWh afname**
 
 | Contract | Variabele kosten | Vaste kosten | Totaal |
 |---|---|---|---|
 | Vast contract €0,30/kWh | €840 | n.v.t. | €840 |
-| ANWB Dynamisch | €717 | zie anwb.nl | €717 + vast bedrag |
-| Tibber | €736 | €72 | €808 |
-| Frank Energie | €666 | zie frankenergie.nl | €666 + vast bedrag |
+| ANWB Dynamisch | €655 | zie anwb.nl | €655 + vast bedrag |
+| Tibber | €674 | €72 | €746 |
+| Frank Energie | €604 | zie frankenergie.nl | €604 + vast bedrag |
 
 **Profiel 2 — tussenwoning met 10 zonnepanelen, 3.500 kWh netto afname na saldering**
 
 | Contract | Variabele kosten | Vaste kosten | Totaal |
 |---|---|---|---|
 | Vast contract €0,30/kWh | €1.050 | n.v.t. | €1.050 |
-| ANWB Dynamisch | €896 | zie anwb.nl | €896 + vast bedrag |
-| Tibber | €919 | €72 | €991 |
-| Frank Energie | €833 | zie frankenergie.nl | €833 + vast bedrag |
+| ANWB Dynamisch | €818 | zie anwb.nl | €818 + vast bedrag |
+| Tibber | €842 | €72 | €914 |
+| Frank Energie | €755 | zie frankenergie.nl | €755 + vast bedrag |
 
 **Profiel 3 — vrijstaand huis met 20 zonnepanelen, 5.200 kWh netto afname na saldering**
 
 | Contract | Variabele kosten | Vaste kosten | Totaal |
 |---|---|---|---|
 | Vast contract €0,30/kWh | €1.560 | n.v.t. | €1.560 |
-| ANWB Dynamisch | €1.331 | zie anwb.nl | €1.331 + vast bedrag |
-| Tibber | €1.366 | €72 | €1.438 |
-| Frank Energie | €1.237 | zie frankenergie.nl | €1.237 + vast bedrag |
+| ANWB Dynamisch | €1.216 | zie anwb.nl | €1.216 + vast bedrag |
+| Tibber | €1.251 | €72 | €1.323 |
+| Frank Energie | €1.122 | zie frankenergie.nl | €1.122 + vast bedrag |
 
 **Wat hieruit volgt:**
 
@@ -200,9 +200,9 @@ Lees verder: [saldering stopt in 2027 — volledige gids](/posts/saldering-stopt
 
 ANWB toont de uurprijzen voor de volgende dag in de app. Hieronder de rekenregel waarmee je zelf kunt uitrekenen wat verschuiven oplevert, met een modelvoorbeeld erbij.
 
-**De rekenregel:** het verschil tussen een duur en een goedkoop uur is (EPEX duur − EPEX goedkoop) × 1,21 btw. De energiebelasting en de inkoopkosten zijn in beide gevallen gelijk en vallen tegen elkaar weg.
+**De rekenregel:** het verschil tussen een duur en een goedkoop uur is simpelweg het verschil in marktprijs zelf — EPEX duur − EPEX goedkoop. Die marktprijzen zijn al inclusief btw, dus er komt geen btw-factor meer bij. De energiebelasting en de inkoopkosten zijn in beide gevallen gelijk en vallen tegen elkaar weg.
 
-Modelaanname: een verschil van **€0,30/kWh incl. btw** tussen een duur avonduur en een goedkoop nachtuur. Dat komt overeen met circa €0,25/kWh verschil op de kale EPEX-prijs — een normale, geen extreme dag.
+Modelaanname: een verschil van **€0,30/kWh incl. btw** tussen een duur avonduur en een goedkoop nachtuur — dat is dus ook precies het verschil op de marktprijs. Een normale spreiding, geen extreme dag.
 
 | Apparaat | Verbruik per beurt | Verschil per beurt | Beurten/jaar | Modelbesparing |
 |---|---|---|---|---|

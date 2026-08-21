@@ -85,19 +85,19 @@ Onderstaand een **modelberekening**, geen meting. De aannames staan er expliciet
 
 | Variabele | Waarde | Bron |
 |---|---|---|
-| EPEX-jaargemiddelde 2025 | €0,105/kWh excl. btw | EPEX day-ahead via EnergyZero, geteld door onze redactie, peildatum 21 augustus 2026 |
-| Energiebelasting stroom 2026 | €0,09161/kWh excl. btw | Belastingtarieven 2026 (de ODE bestaat sinds 2023 niet meer) |
-| Btw | 21% | — |
+| EPEX-jaargemiddelde 2025 | €0,105/kWh incl. btw | EPEX day-ahead via EnergyZero, geteld door onze redactie, peildatum 21 augustus 2026 |
+| Energiebelasting stroom 2026 | €0,09161/kWh excl. btw, oftewel €0,11085/kWh incl. btw | Belastingtarieven 2026 (de ODE bestaat sinds 2023 niet meer) |
+| Btw | 21%, al verwerkt in de bedragen hierboven | — |
 | Benchmark vast contract | €0,30/kWh all-in | modelaanname — een vast contract bevat een risicopremie |
 | Netbeheerkosten | vast jaarbedrag, gelijk bij elke leverancier | buiten de vergelijking gelaten |
 
-De basis onder elk dynamisch contract is dezelfde: (€0,105 + €0,09161) × 1,21 = **€0,238/kWh all-in**. Daarbovenop komt de opslag van de leverancier:
+De basis onder elk dynamisch contract is dezelfde: €0,105 EPEX (incl. btw) + €0,11085 energiebelasting (incl. btw) = **€0,216/kWh**. Daarbovenop komt de opslag van de leverancier, die de leveranciers zelf incl. btw publiceren:
 
-- **Frank:** geen marge op EPEX → **€0,2379/kWh** (plus onbekende vaste kosten)
-- **ANWB:** + €0,018 inkoopkosten → **€0,2559/kWh** (plus onbekend vast maandbedrag)
-- **Tibber:** + €0,0248 inkoopvergoeding → **€0,2627/kWh** (plus €72/jaar bij alleen stroom)
+- **Frank:** geen marge op EPEX → **€0,216/kWh** (plus onbekende vaste kosten)
+- **ANWB:** + €0,018 inkoopkosten → **€0,234/kWh** (plus onbekend vast maandbedrag)
+- **Tibber:** + €0,0248 inkoopvergoeding → **€0,241/kWh** (plus €72/jaar bij alleen stroom)
 
-Ter oriëntatie hanteren wij op deze site een all-in modelconstante van **€0,26/kWh** voor dynamische stroom, opgebouwd uit (€0,105 EPEX + €0,02 opslag-aanname + €0,09161 belasting) × 1,21.
+Ter oriëntatie hanteren wij op deze site een all-in modelconstante van **€0,26/kWh** voor dynamische stroom, opgebouwd uit €0,105 EPEX (incl. btw) + €0,11085 energiebelasting (incl. btw) + €0,044 inkoopopslag en omslag van vaste kosten (gelabelde aanname, incl. btw).
 
 Zolang de saldering geldt, wordt je teruglevering weggestreept tegen je afname. Alleen de **netto afname** telt.
 
@@ -106,31 +106,31 @@ Zolang de saldering geldt, wordt je teruglevering weggestreept tegen je afname. 
 | Contract | Variabel | Vaste kosten | Totaal |
 |---|---|---|---|
 | Vast €0,30/kWh | €390 | n.v.t. | €390 |
-| Frank Energie | €309 | opvragen | €309 + vast bedrag |
-| ANWB Dynamisch | €333 | zie anwb.nl | €333 + vast bedrag |
-| Tibber | €342 | €72 | €414 |
+| Frank Energie | €281 | opvragen | €281 + vast bedrag |
+| ANWB Dynamisch | €304 | zie anwb.nl | €304 + vast bedrag |
+| Tibber | €313 | €72 | €385 |
 
 **Scenario B — tussenwoning, 14 panelen: 3.500 kWh verbruik, 2.800 kWh teruglevering, netto afname 700 kWh**
 
 | Contract | Variabel | Vaste kosten | Totaal |
 |---|---|---|---|
 | Vast €0,30/kWh | €210 | n.v.t. | €210 |
-| Frank Energie | €167 | opvragen | €167 + vast bedrag |
-| ANWB Dynamisch | €179 | zie anwb.nl | €179 + vast bedrag |
-| Tibber | €184 | €72 | €256 |
+| Frank Energie | €151 | opvragen | €151 + vast bedrag |
+| ANWB Dynamisch | €164 | zie anwb.nl | €164 + vast bedrag |
+| Tibber | €169 | €72 | €241 |
 
 **Scenario C — gezinswoning, 20 panelen + EV: 5.800 kWh verbruik, 3.500 kWh teruglevering, netto afname 2.300 kWh**
 
 | Contract | Variabel | Vaste kosten | Totaal |
 |---|---|---|---|
 | Vast €0,30/kWh | €690 | n.v.t. | €690 |
-| Frank Energie | €547 | opvragen | €547 + vast bedrag |
-| ANWB Dynamisch | €589 | zie anwb.nl | €589 + vast bedrag |
-| Tibber | €604 | €72 | €676 |
+| Frank Energie | €497 | opvragen | €497 + vast bedrag |
+| ANWB Dynamisch | €538 | zie anwb.nl | €538 + vast bedrag |
+| Tibber | €554 | €72 | €626 |
 
 **Wat hieruit volgt — en dit is het belangrijkste punt van dit artikel:** bij een hoog salderingssaldo is het verschil tussen contracten klein. In scenario B praat je over enkele tientjes per jaar, en de vaste kosten kunnen dat verschil zelfs omkeren. Wie zijn zonnepanelen ruim heeft gedimensioneerd, heeft in 2026 weinig te winnen bij overstappen puur op tarief.
 
-De uitzondering is scenario C, en die zit niet in het contract maar in het **verschuiven van verbruik**. Laadt een EV 3.000 kWh per jaar op nachtelijke uren van rond €0,05/kWh EPEX, dan is het all-in nachttarief (€0,05 + €0,02 opslag + €0,09161 belasting) × 1,21 = €0,196/kWh. Tegenover een vast tarief van €0,30 all-in scheelt dat 3.000 × €0,104 = **ruim €300 per jaar** — meer dan het hele contractverschil. Dat is de reden dat Tibber ondanks de hoogste opslag bij EV-rijders vaak alsnog wint: de automatisering verzilvert dat bedrag zonder dat je eraan hoeft te denken.
+De uitzondering is scenario C, en die zit niet in het contract maar in het **verschuiven van verbruik**. Laadt een EV 3.000 kWh per jaar op nachtelijke uren van rond €0,05/kWh EPEX, dan is het all-in nachttarief €0,05 (incl. btw) + €0,11085 belasting (incl. btw) + €0,044 opslag-aanname = circa €0,205/kWh. Tegenover een vast tarief van €0,30 all-in scheelt dat 3.000 × €0,095 = **circa €285 per jaar** — meer dan het hele contractverschil. Dat is de reden dat Tibber ondanks de hoogste opslag bij EV-rijders vaak alsnog wint: de automatisering verzilvert dat bedrag zonder dat je eraan hoeft te denken.
 
 ## Modelberekening 2027: als de saldering weg is
 
@@ -142,12 +142,12 @@ Vanaf dan worden afname en teruglevering apart afgerekend. Extra modelaanname: d
 
 | Contract | Afnamekosten | Terugleveropbrengst (€0,07/kWh, aanname) | Saldo (excl. vaste kosten en terugleverkosten) |
 |---|---|---|---|
-| Frank Energie | €833 | −€196 | €637 (minus de terugleverstaffel) |
-| ANWB Dynamisch | €896 | −€196 | €700 |
-| Tibber | €919 | −€196 | €723 |
+| Frank Energie | €756 | −€196 | €560 (minus de terugleverstaffel) |
+| ANWB Dynamisch | €819 | −€196 | €623 |
+| Tibber | €844 | −€196 | €648 |
 | Vast €0,30/kWh | €1.050 | −€196 | €854 (plus terugleverkosten) |
 
-Het verschil tussen vast en dynamisch gaat in dit model van enkele tientjes (2026, scenario B) naar circa €130-€220 per jaar (2027). Dát is het moment waarop de contractkeuze telt.
+Het verschil tussen vast en dynamisch gaat in dit model van enkele tientjes (2026, scenario B) naar circa €210-€290 per jaar (2027). Dát is het moment waarop de contractkeuze telt.
 
 Twee waarschuwingen bij deze tabel. Ten eerste: de terugleverstaffel van Frank staat er bewust niet ingevuld, omdat wij die niet publiek konden verifiëren — vraag hem op, want juist bij 2.800 kWh teruglevering kan hij het voordeel van Frank grotendeels opeten. Ten tweede: de terugleverkosten bij vaste contracten verschillen sterk per leverancier en zijn hier evenmin meegerekend.
 
@@ -173,7 +173,7 @@ Wat leveranciers na 1 januari 2027 precies gaan hanteren voor teruglevering, is 
 
 **Fout 4: niet overstappen vanwege de opzegvergoeding.** Dat is een rekensom, geen gevoel. De ACM begrenst de vergoeding tot €50 tot €125 per energievorm. Reken: (besparing per maand) × (resterende maanden) − vergoeding. Is dat positief, dan loont nu overstappen.
 
-**Fout 5: de kale EPEX-prijs voor de eindprijs aanzien.** Een gepubliceerde EPEX-prijs van €0,06/kWh betekent all-in circa €0,20/kWh: er komen energiebelasting (€0,09161/kWh), de opslag van je leverancier en 21% btw over het geheel bovenop. De ODE bestaat sinds 2023 niet meer als aparte post.
+**Fout 5: de kale EPEX-prijs voor de eindprijs aanzien.** Een EPEX-prijs van €0,06/kWh — de uurprijzen die wij publiceren zijn inclusief btw — betekent all-in circa €0,21/kWh: daar komen de energiebelasting (€0,09161/kWh excl. btw, oftewel €0,11085/kWh incl. btw) en de opslag van je leverancier nog bovenop. Reken de btw dus niet nóg een keer over de beursprijs: die zit er al in. De ODE bestaat sinds 2023 niet meer als aparte post.
 
 ## Wat je concreet kunt doen
 

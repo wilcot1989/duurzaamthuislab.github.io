@@ -24,13 +24,13 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497435334941-8c899ee9e8e9&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is in 2026 het verschil tussen dynamisch en vast contract?'
-  a: 'Bij een dynamisch contract verandert de stroomprijs per uur, gekoppeld aan de day-ahead marktprijs; je betaalt die uurprijs plus een inkoopvergoeding, energiebelasting en btw. Bij een vast contract staat het tarief 1, 2 of 3 jaar vast en zit er een risico-opslag in. Het verschil in euro''s hangt volledig af van je verbruiksprofiel: in ons rekenmodel scheelt het bij 3.500 kWh ongeveer 96 euro per jaar zonder gedragsverandering en ongeveer 197 euro met actief verschuiven.'
+  a: 'Bij een dynamisch contract verandert de stroomprijs per uur, gekoppeld aan de day-ahead marktprijs; je betaalt die uurprijs (die je leverancier al inclusief btw doorgeeft) plus een inkoopvergoeding en de energiebelasting van 0,11085 euro/kWh inclusief btw. Bij een vast contract staat het tarief 1, 2 of 3 jaar vast en zit er een risico-opslag in. Het verschil in euro''s hangt volledig af van je verbruiksprofiel: in ons rekenmodel scheelt het bij 3.500 kWh ongeveer 96 euro per jaar zonder gedragsverandering en ongeveer 197 euro met actief verschuiven.'
 - q: 'Welk contract is goedkoper in 2026?'
-  a: 'Gemiddeld dynamisch, maar het verschil is kleiner dan vaak wordt gesuggereerd. Met het EPEX-jaargemiddelde 2025 van 0,105 euro/kWh, een opslag-aanname van 0,02 euro/kWh en de energiebelasting van 2026 komt een huishouden van 3.500 kWh uit op circa 96 euro voordeel per jaar zonder iets te veranderen. Vergelijk je met een scherp vast aanbod van 0,28 euro/kWh, dan verdwijnt dat voordeel.'
+  a: 'Gemiddeld dynamisch, maar het verschil is kleiner dan vaak wordt gesuggereerd. Met het EPEX-jaargemiddelde 2025 van 0,105 euro/kWh incl. btw, een opslag-aanname van 0,044 euro/kWh incl. btw en de energiebelasting van 2026 komt een huishouden van 3.500 kWh uit op circa 96 euro voordeel per jaar zonder iets te veranderen. Vergelijk je met een scherp vast aanbod van 0,28 euro/kWh, dan verdwijnt dat voordeel.'
 - q: 'Wanneer is een vast contract toch beter?'
   a: 'Als je verbruik niet te verschuiven is, als je overdag niet thuis bent en geen warmtepomp of elektrische auto hebt, of als zekerheid over het maandbedrag zwaarder weegt dan een verwacht voordeel van enkele tientjes tot enkele honderden euro per jaar.'
 - q: 'Hoe hoog kan een uurtarief op een dynamisch contract oplopen?'
-  a: 'Er zit geen bovengrens op. Het duurste uur van 2025 op de Nederlandse day-ahead markt was 0,63 euro/kWh, op 20 januari 2025 om 17:00 — dat is de kale marktprijs, voor energiebelasting en btw. Historische uurprijzen zijn publiek terug te kijken; de actuele uurprijzen staan op onze stroomprijzenpagina.'
+  a: 'Er zit geen bovengrens op. Het duurste uur van 2025 op de Nederlandse day-ahead markt was 0,63 euro/kWh, op 20 januari 2025 om 17:00 — dat is de kale marktprijs inclusief btw, dus vóór energiebelasting en inkoopvergoeding. Historische uurprijzen zijn publiek terug te kijken; de actuele uurprijzen staan op onze stroomprijzenpagina.'
 - q: 'Hoeveel uur per dag is een dynamisch contract goedkoper?'
   a: 'Dat verschilt per dag en per seizoen. Het patroon is stabiel: de goedkoopste uren liggen doorgaans midden op de dag (zonproductie) en s nachts, de duurste tussen 17:00 en 20:00. In 2025 waren er 212 uren met een negatieve marktprijs. Exacte aantallen per dag publiceren wij niet, omdat die per maand sterk wisselen.'
 - q: 'Welke aanbieders bieden dynamische contracten in 2026?'
@@ -69,7 +69,7 @@ Dat betekent dat dynamisch gemiddeld voordeliger uitpakt — de risicopremie ver
 ### Dynamisch contract
 
 - Uurtarief gekoppeld aan de day-ahead markt
-- Uurprijs + inkoopvergoeding + energiebelasting, alles maal 1,21 btw
+- Uurprijs incl. btw + inkoopvergoeding + energiebelasting (0,11085 euro/kWh incl. btw)
 - 24 uurprijzen per dag, de dag ervoor bekend
 - Maandbedrag varieert flink
 
@@ -116,7 +116,7 @@ Eerlijkheid gebiedt: dynamisch is niet altijd goedkoper. Er zijn maanden waarin 
 - **Langdurig bewolkt en windstil in de winter ("Dunkelflaute").** Zon en wind leveren beide weinig, meerdere dagen achter elkaar.
 - **Onderhoud of uitval van grote centrales of interconnectoren.** Minder aanbod op de Nederlandse markt betekent direct hogere uurprijzen.
 
-In zulke maanden kan je rekening tientallen euro's hoger uitvallen dan met een vast tarief. Over een heel jaar valt dat doorgaans weg tegen de goedkope maanden, maar je moet die pieken in je maandbudget kunnen opvangen. Hoe groot de uitschieters concreet waren, kun je zelf nagaan in de historische uurprijzen — die zijn publiek beschikbaar. Ter ijking: het duurste uur van heel 2025 kostte 0,63 euro/kWh kale marktprijs.
+In zulke maanden kan je rekening tientallen euro's hoger uitvallen dan met een vast tarief. Over een heel jaar valt dat doorgaans weg tegen de goedkope maanden, maar je moet die pieken in je maandbudget kunnen opvangen. Hoe groot de uitschieters concreet waren, kun je zelf nagaan in de historische uurprijzen — die zijn publiek beschikbaar. Ter ijking: het duurste uur van heel 2025 kostte 0,63 euro/kWh kale marktprijs incl. btw.
 
 ## Wanneer is vast toch beter?
 
@@ -174,30 +174,29 @@ Een dynamisch contract volgt de **day-ahead markt**. De uurprijzen voor de volge
 2. Aanbod (wind, zon, gas, kolen, kernenergie, import)
 3. Internationale handel
 
-Prijzen kunnen negatief worden: in 2025 waren er **212 uren met een negatieve marktprijs**, vrijwel altijd bij veel zon of wind en weinig vraag. Aan de bovenkant lag het duurste uur van 2025 op **0,63 euro/kWh** (20 januari 2025, 17:00).
+Prijzen kunnen negatief worden: in 2025 waren er **212 uren met een negatieve marktprijs**, vrijwel altijd bij veel zon of wind en weinig vraag. Aan de bovenkant lag het duurste uur van 2025 op **0,63 euro/kWh incl. btw** (20 januari 2025, 17:00).
 
-Op de marktprijs komt:
+De day-ahead prijzen die je leverancier doorgeeft zijn al inclusief btw. Daarop komt:
 
 - Inkoopvergoeding van je leverancier (Tibber 0,0248 euro/kWh, aug 2026)
-- Energiebelasting stroom 2026: **0,09161 euro/kWh excl. btw** (0,11085 incl.)
-- 21% btw over het geheel
+- Energiebelasting stroom 2026: **0,09161 euro/kWh excl. btw**, oftewel 0,11085 euro/kWh inclusief btw
 
 De **ODE bestaat sinds 2023 niet meer** als aparte post; wie die nog in een rekenvoorbeeld ziet staan, kijkt naar verouderde informatie.
 
-**Eindprijs** = (marktprijs + opslag + energiebelasting) x 1,21. Met de opslag-aanname van 0,02 euro/kWh die wij in al onze modellen gebruiken:
+**Eindprijs** = marktprijs incl. btw + energiebelasting incl. btw (0,11085) + inkoopopslag incl. btw. Met de opslag-aanname van 0,044 euro/kWh die wij in al onze modellen gebruiken:
 
-| Marktprijs | Eindprijs (model) |
+| Marktprijs (incl. btw) | Eindprijs (model) |
 |---|---|
-| −0,05 euro/kWh | 0,07 euro/kWh |
-| 0,02 euro/kWh | 0,16 euro/kWh |
-| 0,05 euro/kWh | 0,20 euro/kWh |
+| −0,05 euro/kWh | 0,105 euro/kWh |
+| 0,02 euro/kWh | 0,175 euro/kWh |
+| 0,05 euro/kWh | 0,205 euro/kWh |
 | 0,105 euro/kWh (jaargemiddelde 2025) | 0,26 euro/kWh |
-| 0,30 euro/kWh | 0,50 euro/kWh |
-| 0,63 euro/kWh (duurste uur 2025) | 0,90 euro/kWh |
+| 0,30 euro/kWh | 0,455 euro/kWh |
+| 0,63 euro/kWh (duurste uur 2025) | 0,785 euro/kWh |
 
-Tibber rekent volgens de eigen tarievenpagina 0,0248 euro/kWh in plaats van de aangenomen 0,02 — dat verhoogt elke regel met circa 0,006 euro/kWh.
+Tibber rekent volgens de eigen tarievenpagina 0,0248 euro/kWh inkoopvergoeding, circa 0,019 euro/kWh minder dan onze opslag-aanname — maar die aanname bevat ook een omslag van de vaste kosten, die Tibber apart factureert (71,88 euro per jaar voor stroom). Op jaarbasis valt dat bij een gemiddeld verbruik ongeveer gelijk uit.
 
-Belangrijk gevolg: zelfs bij een marktprijs van twee cent betaal je door belasting en btw nog altijd circa 16 cent per kWh. Wie besparingen op een dynamisch contract presenteert zonder die vaste onderkant te noemen, vertelt niet het hele verhaal.
+Belangrijk gevolg: zelfs bij een marktprijs van twee cent betaal je door de energiebelasting en de opslag nog altijd circa 17,5 cent per kWh. Wie besparingen op een dynamisch contract presenteert zonder die vaste onderkant te noemen, vertelt niet het hele verhaal.
 
 ## Hoe je zelf een week doorrekent
 
@@ -246,7 +245,7 @@ Bij een positief antwoord: blijf dynamisch. Bij een negatief antwoord: stap teru
 
 ## NL-specifiek: belastingen, wettelijke bescherming en btw
 
-Elke energierekening bestaat uit drie lagen: leveringskosten (variabel of vast), netbeheerkosten en belastingen. De **netbeheerkosten zijn een vast jaarbedrag** dat per regio verschilt en dat losstaat van je verbruik en je contractvorm — ze maken voor de keuze tussen vast en dynamisch dus geen verschil. De belastinglaag bestaat in 2026 uit de energiebelasting van 0,09161 euro/kWh (0,11085 inclusief btw) plus 21% btw over het geheel; ook die is in beide contractvormen identiek. Daarnaast krijgt elke aansluiting een vaste vermindering energiebelasting, eveneens ongeacht contractvorm.
+Elke energierekening bestaat uit drie lagen: leveringskosten (variabel of vast), netbeheerkosten en belastingen. De **netbeheerkosten zijn een vast jaarbedrag** dat per regio verschilt en dat losstaat van je verbruik en je contractvorm — ze maken voor de keuze tussen vast en dynamisch dus geen verschil. De belastinglaag bestaat in 2026 uit de energiebelasting van 0,09161 euro/kWh excl. btw, oftewel 0,11085 euro/kWh inclusief btw; de 21% btw zit ook al in de day-ahead uurprijzen die je leverancier doorgeeft. Ook die laag is in beide contractvormen identiek. Daarnaast krijgt elke aansluiting een vaste vermindering energiebelasting, eveneens ongeacht contractvorm.
 
 De ACM stelt eisen aan dynamische contracten: de leverancier moet de uurprijzen vooraf publiceren en mag bij overstap geen onredelijke vergoeding rekenen. Voor vaste contracten geldt een gestaffelde opzegvergoeding bij tussentijds vertrek; vraag de exacte staffel op vóór ondertekening, en houd er rekening mee dat een gecombineerd contract voor gas en stroom uit twee leveringsovereenkomsten kan bestaan.
 

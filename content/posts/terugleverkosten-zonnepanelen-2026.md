@@ -75,7 +75,7 @@ Hieronder een **modelberekening** met de constantes van deze site.
 | Opbrengst | 875 kWh/kWp → 3.675 kWh/jaar | NL-gemiddelde; reken je eigen dakvlak na met PVGIS |
 | Direct eigen verbruik | 40% → 1.470 kWh | modelaanname |
 | Teruglevering | 60% → 2.205 kWh | volgt uit het bovenstaande |
-| Stroom all-in | €0,26/kWh | (€0,105 EPEX-jaargemiddelde 2025 + €0,02 opslag-aanname + €0,09161 energiebelasting) × 1,21 btw |
+| Stroom all-in | €0,26/kWh | €0,105 EPEX-jaargemiddelde 2025 (incl. btw) + €0,11085 energiebelasting (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw) |
 | Terugleververgoeding 2027 | €0,07/kWh | **gelabelde aanname** — de tarieven voor 2027 zijn niet gepubliceerd |
 
 **In 2026, zolang de saldering geldt.** Elke teruggeleverde kWh wordt weggestreept tegen een kWh die je anders had moeten kopen. De volle 3.675 kWh is dus €0,26 waard:

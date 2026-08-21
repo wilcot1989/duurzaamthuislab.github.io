@@ -29,13 +29,13 @@ faq:
 - q: Welke uren zijn gemiddeld het duurst?
   a: 'De ochtendpiek en vooral de avondpiek: grofweg 07:00-09:00 en 17:00-20:00. Dan is de vraag hoog terwijl er weinig of geen zonnestroom is. Het duurste uur van 2025 viel op 20 januari om 17:00 uur, met een kale prijs van 0,63 EUR per kWh.'
 - q: Hoeveel levert verbruik verschuiven op?
-  a: 'De rekenregel is simpel: het aantal verschoven kWh maal het prijsverschil per kWh, plus 21 procent btw. Energiebelasting en netbeheerkosten veranderen niet met het uur, dus die vallen tegen elkaar weg. Verschuif je 2.000 kWh per jaar met een gemiddeld verschil van 10 cent per kWh, dan is dat 200 EUR exclusief btw, ofwel circa 242 EUR inclusief btw. Zonder verschuifbaar verbruik is het voordeel klein.'
+  a: 'De rekenregel is simpel: het aantal verschoven kWh maal het prijsverschil per kWh. De btw zit al in de day-ahead-prijzen, en energiebelasting en netbeheerkosten veranderen niet met het uur, dus die vallen tegen elkaar weg. Verschuif je 2.000 kWh per jaar met een gemiddeld verschil van 10 cent per kWh, dan is dat 200 EUR per jaar. Zonder verschuifbaar verbruik is het voordeel klein.'
 - q: Hoe stuurt een Sessy-thuisbatterij op de uurprijs?
   a: 'Charged, de fabrikant van Sessy, noemt vier bedrijfsmodi: zelfverbruik, een dynamische modus die op de uurprijzen stuurt, onbalanshandel en congestiepreventie. Er bestaat geen functie of algoritme met de naam "Sessy Radar"; die term komt niet voor in de documentatie van de fabrikant.'
 - q: Zijn negatieve prijzen gunstig als je een thuisbatterij hebt?
-  a: 'Bij een negatieve kale prijs is de leveringscomponent negatief, maar de energiebelasting van 0,09161 EUR per kWh (exclusief btw, tarief 2026) betaal je nog steeds. Je wordt dus in de praktijk zelden echt betaald om stroom af te nemen; het uur is wel uitzonderlijk goedkoop. In 2025 waren er 212 uren met een negatieve day-ahead-prijs in Nederland.'
+  a: 'Bij een negatieve kale prijs is de leveringscomponent negatief, maar de energiebelasting van 0,11085 EUR per kWh inclusief btw (0,09161 exclusief btw, tarief 2026) betaal je nog steeds. Je wordt dus in de praktijk zelden echt betaald om stroom af te nemen; het uur is wel uitzonderlijk goedkoop. In 2025 waren er 212 uren met een negatieve day-ahead-prijs in Nederland.'
 - q: Waaruit bestaat het tarief dat je per uur betaalt?
-  a: 'Uit de kale day-ahead-prijs voor dat uur, plus de inkoopvergoeding van je leverancier, plus energiebelasting, plus 21 procent btw over dat totaal. De netbeheerkosten staan daar los van: dat is voor kleinverbruikers een vast capaciteitstarief per jaar en geen bedrag per kWh, dus die post verandert niet met het uur waarop je verbruikt.'
+  a: 'Uit de kale day-ahead-prijs voor dat uur, plus de inkoopvergoeding van je leverancier, plus de energiebelasting van 0,11085 EUR per kWh inclusief btw. De btw zit al in de day-ahead-prijs, dus daar komt geen 21 procent meer bovenop. De netbeheerkosten staan daar los van: dat is voor kleinverbruikers een vast capaciteitstarief per jaar en geen bedrag per kWh, dus die post verandert niet met het uur waarop je verbruikt.'
 schema_type: Article
 ---
 
@@ -88,7 +88,7 @@ Dit onderdeel wordt vaak verkeerd weergegeven, en het bepaalt hoeveel verschuive
 | Kale day-ahead-prijs | ja | wisselt per uur |
 | Inkoopvergoeding leverancier | nee | Tibber 0,0248 EUR/kWh; ANWB Energie 0,018 EUR/kWh |
 | Energiebelasting stroom 2026 | nee | 0,09161 EUR/kWh excl. btw (0,11085 incl.) |
-| Btw | — | 21% over het totaal |
+| Btw | — | zit al in de day-ahead-prijs; de energiebelasting hierboven is inclusief btw genomen |
 | Netbeheerkosten | nee | vast capaciteitstarief per jaar, geen bedrag per kWh |
 | Vaste kosten leverancier | nee | Tibber 5,99 EUR per maand per energiesoort |
 
@@ -96,8 +96,8 @@ Peildatum: augustus 2026. Bedragen van Tibber en ANWB Energie komen van hun eige
 
 Twee gevolgen daarvan:
 
-1. **Alleen de kale prijs verschilt per uur.** Energiebelasting en inkoopvergoeding zijn voor elk uur gelijk, en netbeheerkosten zijn een jaarbedrag. Verschuif je een kWh van een duur naar een goedkoop uur, dan bespaar je exact het verschil in kale prijs, vermeerderd met 21 procent btw. Niets meer.
-2. **Negatieve prijzen leveren zelden geld op.** Bij een kale prijs van −0,02 EUR/kWh betaal je nog steeds 0,09161 EUR energiebelasting plus de inkoopvergoeding. Het uur is dan zeer goedkoop, maar je wordt niet betaald om stroom af te nemen. Dat gebeurt pas als de kale prijs dieper negatief gaat dan de vaste opslagen bij elkaar.
+1. **Alleen de kale prijs verschilt per uur.** Energiebelasting en inkoopvergoeding zijn voor elk uur gelijk, en netbeheerkosten zijn een jaarbedrag. Verschuif je een kWh van een duur naar een goedkoop uur, dan bespaar je exact het verschil in kale prijs — de btw zit daar al in. Niets meer.
+2. **Negatieve prijzen leveren zelden geld op.** Bij een kale prijs van −0,02 EUR/kWh betaal je nog steeds 0,11085 EUR energiebelasting inclusief btw (0,09161 exclusief) plus de inkoopvergoeding. Het uur is dan zeer goedkoop, maar je wordt niet betaald om stroom af te nemen. Dat gebeurt pas als de kale prijs dieper negatief gaat dan de vaste opslagen bij elkaar.
 
 ## Modelberekening: wat verschuiven oplevert
 
@@ -107,12 +107,12 @@ Dit is een modelberekening met expliciete aannames, geen meting en geen belofte.
 
 - Kale prijs in een daluur: 0,04 EUR/kWh.
 - Kale prijs in een piekuur: 0,20 EUR/kWh.
-- Verschil: 0,16 EUR/kWh exclusief btw, ofwel 0,19 EUR/kWh inclusief btw.
+- Verschil: 0,16 EUR/kWh; de btw zit al in de day-ahead-prijzen.
 - Energiebelasting, inkoopvergoeding en netbeheerkosten vallen tegen elkaar weg omdat ze niet uurafhankelijk zijn.
 
-**Een wasbeurt.** Een was- of vaatwasprogramma verbruikt grofweg 0,5 tot 1,5 kWh. Bij 1 kWh verschoven is dat 19 cent per keer, of ruim 30 EUR per jaar bij tweehonderd draaibeurten. Dat is een reëel bedrag, maar het is geen reden om over te stappen.
+**Een wasbeurt.** Een was- of vaatwasprogramma verbruikt grofweg 0,5 tot 1,5 kWh. Bij 1 kWh verschoven is dat 16 cent per keer, of circa 32 EUR per jaar bij tweehonderd draaibeurten. Dat is een reëel bedrag, maar het is geen reden om over te stappen.
 
-**Een elektrische auto.** 2.400 kWh per jaar volledig in daluren laden in plaats van in de avondpiek: 2.400 × 0,16 = 384 EUR exclusief btw, ofwel circa 465 EUR inclusief btw. Dit is de grootste enkele post in de meeste huishoudens, en het is volledig te automatiseren met een laadschema.
+**Een elektrische auto.** 2.400 kWh per jaar volledig in daluren laden in plaats van in de avondpiek: 2.400 × 0,16 = 384 EUR per jaar. Dit is de grootste enkele post in de meeste huishoudens, en het is volledig te automatiseren met een laadschema.
 
 **Let op de aanname.** Die 0,16 EUR spreiding is een gunstige dag, geen jaargemiddelde. Realistischer is dat een deel van je laadsessies op een dag valt met weinig spreiding. Reken daarom met de spreiding die je zelf op de [prijzenpagina](/stroomprijzen/) terugziet over een paar weken, en niet met een uitschieter.
 
@@ -124,16 +124,16 @@ Een batterij automatiseert wat je met timers handmatig doet, en kan bovendien vo
 
 Er bestaat geen functie met de naam "Sessy Radar". Die term duikt op in vergelijkingsartikelen, maar komt niet voor in de documentatie van de fabrikant. Wat er wel is, is de dynamische modus.
 
-**Modelberekening één cyclus per dag.** Aannames: 5 kWh geladen bij een kale prijs van 0,04 EUR/kWh, ontladen ter vervanging van inkoop bij 0,20 EUR/kWh, round-trip-rendement 90 procent, energiebelasting 0,09161 EUR/kWh en 21 procent btw.
+**Modelberekening één cyclus per dag.** Aannames: 5 kWh geladen bij een kale prijs van 0,04 EUR/kWh, ontladen ter vervanging van inkoop bij 0,20 EUR/kWh, round-trip-rendement 90 procent en energiebelasting 0,11085 EUR/kWh inclusief btw (0,09161 exclusief). De btw zit al in de kale uurprijs, dus er komt geen 21 procent bovenop.
 
-- Kosten laden: 5 kWh × (0,04 + 0,0248 + 0,09161) × 1,21 = 0,95 EUR
-- Vermeden inkoop: 4,5 kWh × (0,20 + 0,0248 + 0,09161) × 1,21 = 1,72 EUR
-- **Netto per cyclus: circa 0,77 EUR**
-- Bij 250 bruikbare cyclusdagen per jaar: circa 190 EUR
+- Kosten laden: 5 kWh × (0,04 + 0,0248 + 0,11085) = circa 0,88 EUR
+- Vermeden inkoop: 4,5 kWh × (0,20 + 0,0248 + 0,11085) = circa 1,51 EUR
+- **Netto per cyclus: circa 0,63 EUR**
+- Bij 250 bruikbare cyclusdagen per jaar: circa 160 EUR
 
 Twee kanttekeningen die deze som eerlijk houden. Ten eerste betaal je energiebelasting over de volle 5 kWh die je laadt, ook over de halve kWh die door het rendementsverlies verdwijnt — dat is een kostenpost die in veel rekenvoorbeelden ontbreekt. Ten tweede geldt dit alleen als je de ontladen stroom zelf verbruikt. Lever je terug aan het net, dan krijg je de terugleververgoeding van je leverancier en niet je eigen inkooptarief; dat is per 1 januari 2027 een wezenlijk verschil, omdat de salderingsregeling dan volledig stopt.
 
-Zet je die circa 190 EUR per jaar naast een aanschafprijs van 3.550 EUR, dan kom je op arbitrage alleen niet in de buurt van een korte terugverdientijd. De rest van het rendement moet komen uit eigen zonnestroom die je anders zou terugleveren, en eventueel uit onbalanshandel. Reken je eigen situatie door met onze [terugverdientijd-calculator](/terugverdientijd-thuisbatterij/) in plaats van met een vuistregel.
+Zet je die circa 160 EUR per jaar naast een aanschafprijs van 3.550 EUR, dan kom je op arbitrage alleen niet in de buurt van een korte terugverdientijd. De rest van het rendement moet komen uit eigen zonnestroom die je anders zou terugleveren, en eventueel uit onbalanshandel. Reken je eigen situatie door met onze [terugverdientijd-calculator](/terugverdientijd-thuisbatterij/) in plaats van met een vuistregel.
 
 ## Wat de aanbieders publiceren
 
@@ -162,7 +162,7 @@ Peildatum augustus 2026. Wij nemen hier alleen op wat de leveranciers zelf publi
 
 ## Conclusie
 
-Een dynamisch contract verandert niet wat stroom kost, maar wél wanneer het goedkoop is. De rekensom is kort: verschoven kWh maal het verschil in kale prijs, plus btw. Alles daarbuiten — energiebelasting, netbeheerkosten, vaste kosten — beweegt niet mee met het uur.
+Een dynamisch contract verandert niet wat stroom kost, maar wél wanneer het goedkoop is. De rekensom is kort: verschoven kWh maal het verschil in kale prijs, waarin de btw al zit. Alles daarbuiten — energiebelasting, netbeheerkosten, vaste kosten — beweegt niet mee met het uur.
 
 Voor huishoudens met een elektrische auto is dat verschil groot genoeg om echt te merken. Voor huishoudens zonder verschuifbaar verbruik is het klein. En voor een thuisbatterij geldt dat de arbitragewinst alleen zelden de investering draagt; die som hangt vooral op je eigen zonnestroom en op wat er na het einde van de saldering per 1 januari 2027 met je teruglevering gebeurt.
 

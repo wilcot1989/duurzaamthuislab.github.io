@@ -56,8 +56,8 @@ In dit artikel leggen wij de vergelijking volledig bloot: kosten, opbrengst, sub
 
 | Aanname | Waarde | Toelichting |
 |---|---|---|
-| Gasprijs all-in | €1,10/m³ | (marktprijs ±€0,30 + €0,60066 energiebelasting) × 1,21 btw. De ODE bestaat sinds 2023 niet meer. |
-| Stroomprijs all-in | €0,26/kWh | (EPEX-jaargemiddelde 2025 €0,105 + opslag-aanname €0,02 + €0,09161 energiebelasting) × 1,21 btw. Netbeheer is een vast jaarbedrag en zit dus niet in de kWh-prijs. |
+| Gasprijs all-in | €1,10/m³ | marktprijs ±€0,30 (incl. btw) + €0,7268 energiebelasting (incl. btw) + een opslag-aanname. De ODE bestaat sinds 2023 niet meer. |
+| Stroomprijs all-in | €0,26/kWh | EPEX-jaargemiddelde 2025 €0,105 (incl. btw) + €0,11085 energiebelasting (incl. btw) + €0,044 inkoopopslag en vaste-kostenomslag (aanname, incl. btw). Netbeheer is een vast jaarbedrag en zit dus niet in de kWh-prijs. |
 | Terugleververgoeding vanaf 2027 | €0,07/kWh | **Aanname**, geen gepubliceerd tarief: leveranciers hebben hun tarieven voor na de saldering nog niet vastgelegd. |
 | Energie-inhoud gas | 9,77 kWh/m³ | Bovenwaarde Gronings aardgas (circa 35,17 MJ/m³). |
 | Rendement cv-ketel op tapwater | 80% | Vuistregel; oudere geisers zitten lager. |
