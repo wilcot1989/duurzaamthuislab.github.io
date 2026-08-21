@@ -1,8 +1,8 @@
 ---
 title: Oost-west zonnepanelen vs. zuidsysteem
 date: 2026-05-18 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Oost-west of zuidopstelling voor zonnepanelen? Vergelijking van opbrengst, zelfverbruik en rendement na saldering-afbouw 2027. Met rekenvoorbeelden.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: Oost-west of zuid? Opbrengst, zelfverbruik en rendement vergeleken voor de situatie na 1-1-2027, wanneer de saldering volledig stopt. Met narekenbare modelberekeningen.
 categories:
 - zonne-energie
 tags:
@@ -23,9 +23,9 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Levert een oost-west systeem minder op dan een zuidsysteem?
-  a: 'Een oost-west systeem levert 80-85% van de opbrengst van een optimaal zuidsysteem. Maar door de betere spreiding over de dag (minder piekoverschot) is het zelfverbruikspercentage hoger: 45-55% vs 25-35% bij zuidsysteem zonder batterij.'
-- q: Wat verandert er na de saldering-afbouw in 2027?
-  a: Vanaf 2027 wordt de salderingsregeling stapsgewijs afgebouwd. In 2027 ontvang je nog 64% van de leveringstarief voor teruggeleverde stroom, in 2031 nog 0%. Dit maakt een hoog zelfverbruikspercentage steeds belangrijker — en dat is precies het voordeel van oost-west.
+  a: 'Per kWp levert een oost-west systeem circa 80 procent van de opbrengst van een optimaal zuidsysteem (PVGIS-orde voor Nederland: 950 kWh per kWp bij zuid op 35 graden, circa 760 bij oost-west). Maar op een zadeldak benut je twee dakvlakken in plaats van één, dus het totaal kan hoger uitvallen. En doordat de opbrengst gespreider over de dag komt, ligt het zelfverbruikspercentage circa 15 procentpunt hoger: circa 42 tot 52 procent tegenover 25 tot 32 procent bij zuid zonder batterij.'
+- q: Wat verandert er als de saldering op 1-1-2027 stopt?
+  a: 'De saldering stopt in één keer volledig; er is geen afbouwpad met tussenpercentages. Vanaf 1-1-2027 krijg je voor teruggeleverde stroom alleen nog de terugleververgoeding van je leverancier, en die is voor 2027 nog nergens gepubliceerd. Wij rekenen met een aanname van €0,07 per kWh tegenover een all-in leveringstarief van €0,26. Daardoor wordt een hoog zelfverbruikspercentage in één klap veel belangrijker — en dat is precies waar oost-west sterker is dan zuid.'
 - q: Hoeveel panelen kun je kwijt op een oost-west dak?
   a: Op een zadeldak met oost en west oriëntatie kun je typisch 30-50% meer panelen kwijt dan op een enkelsysteem, omdat beide dakvlakken worden benut. Dit leidt tot een hogere totale productie ondanks de lagere opbrengst per paneel.
 - q: Is een oost-west systeem geschikt voor mijn plat dak?
@@ -40,24 +40,15 @@ faq:
   a: 'Dit hangt af van je dagprofiel (thuis of niet overdag), het type contract en of je een batterij overweegt. Een goede installateur berekent dit specifiek voor jou.'
 - q: 'Welk omvormertype adviseren jullie bij oost-west?'
   a: 'Bij oost-west systemen is het technisch mogelijk één centrale string-omvormer te gebruiken (goedkoper) of twee aparte strings (één voor oost, één voor west). Twee strings geven meer opbrengst bij schaduw op één vlak. Micro-omvormers per paneel geven de meeste flexibiliteit.'
-products:
-- name: Zonneplan zonnepanelen
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: op aanvraag
 schema_type: Article
 ---
-"Zuid is optimaal" is decennialang het standaardadvies geweest, en op één punt is dat nog steeds waar: een zuidgericht paneel levert per Wp de hoogste jaaropbrengst. Maar met de afbouw van de saldering is de vraag verschoven van "hoeveel wek ik op?" naar "hoeveel gebruik ik zelf?" — en op dat tweede punt verliest zuid van oost-west.
+"Zuid is optimaal" is decennialang het standaardadvies geweest, en op één punt is dat nog steeds waar: een zuidgericht paneel levert per Wp de hoogste jaaropbrengst. Maar op 1 januari 2027 stopt de saldering volledig, en daarmee verschuift de vraag van "hoeveel wek ik op?" naar "hoeveel gebruik ik zelf?" — en op dat tweede punt verliest zuid van oost-west.
 
-In dit artikel leggen wij uit waarom de traditionele voorkeur voor zuidsystemen achterhaald raakt, en wanneer oost-west de slimmere keuze is.
+In dit artikel leggen wij uit waarom de traditionele voorkeur voor zuidsystemen na die datum wringt, en wanneer oost-west de betere keuze is.
 
-*Disclosure: de links naar Sessy en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+*Disclosure: de link naar Zonneplan in dit artikel is een gewone verwijzing — met Zonneplan hebben wij geen affiliate- of commissierelatie en wij ontvangen geen vergoeding als je daar klant wordt. Dit artikel bevat geen affiliate-links.*
 
----
-
-
-> **Kort antwoord:** Oost-west of zuidopstelling voor zonnepanelen? Vergelijking van opbrengst, zelfverbruik en rendement na saldering-afbouw 2027. Met rekenvoorbeelden.
->
-> Een oost-west systeem levert 80-85% van de opbrengst van een optimaal zuidsysteem. Maar door de betere spreiding over de dag (minder piekoverschot) is het zelfverbruikspercentage hoger: 45-55% vs 25-35% bij zuidsysteem zonder batterij.
+> **Kort antwoord:** Een oost-west systeem levert per kWp circa 80 procent van de opbrengst van een optimaal zuidsysteem, maar het zelfverbruikspercentage ligt zo'n 15 procentpunt hoger doordat de opbrengst beter samenvalt met de ochtend- en avondpiek van een huishouden. Zolang de saldering geldt, telt alleen de totale opbrengst en wint zuid. Vanaf 1-1-2027, als teruglevering nog maar €0,07 per kWh oplevert, kantelt dat en wint oost-west — in onze modelvergelijking met €195 per jaar.
 
 ## De basis: hoe oriëntatie de opbrengst beïnvloedt
 
@@ -98,78 +89,83 @@ Het verbruiksprofiel van een gemiddeld huishouden heeft pieken 's ochtends (koff
 
 ---
 
-## Zelfverbruikspercentage: de echte maatstaf na 2027
+## Zelfverbruikspercentage: de maatstaf die per 1-1-2027 gaat tellen
 
-Tot 2027 wordt elke kWh die je teruglevert aan het net volledig gesaldeerd tegen je inkoopprijs. In dat model maakt oriëntatie nauwelijks uit — iedere kWh telt even mee.
+Tot en met 31 december 2026 wordt elke teruggeleverde kWh weggestreept tegen een afgenomen kWh, tot maximaal het aantal kWh dat je zelf afneemt. In dat model maakt oriëntatie financieel nauwelijks uit: elke kWh telt even zwaar.
 
-Vanaf 2027 verandert dat fundamenteel.
+Op 1 januari 2027 verandert dat in één keer.
 
-**Salderingspercentages per jaar:**
-| Jaar | Salderingspercentage | Vergoeding teruglevering |
-|------|---------------------|--------------------------|
-| 2025-2026 | 100% | €0,32/kWh (gelijk aan inkoop) |
-| 2027 | 64% | ~€0,20/kWh |
-| 2028 | 43% | ~€0,14/kWh |
-| 2029 | 21% | ~€0,07/kWh |
-| 2030 | 0% | €0,04-€0,08/kWh (marktwaarde) |
+**Er zijn twee situaties, geen afbouwreeks:**
 
-In 2030 ontvang je voor teruggeleverde zonnestroom nog slechts €0,04-€0,08/kWh — terwijl je ingekochte stroom €0,32/kWh of meer kost. Elke kWh die je zelf gebruikt in plaats van teruglevert, is dan €0,24-€0,28 meer waard.
+| Periode | Wat een teruggeleverde kWh oplevert |
+|---|---|
+| T/m 31-12-2026 | Het volle leveringstarief, €0,26 per kWh all-in, via saldering — tot maximaal je eigen afname |
+| Vanaf 1-1-2027 | Alleen de terugleververgoeding van je leverancier. Voor 2027 nog nergens gepubliceerd; wij rekenen met een aanname van €0,07 per kWh |
 
-**Zelfverbruikspercentage per systeem:**
+Reeksen als 73/64/55/46 procent of 64/43/21/0 procent horen bij wetsvoorstellen die het niet hebben gehaald. Wij hebben die reeks hier eerder ook laten staan en hebben hem vervangen door de regeling die daadwerkelijk geldt.
 
-| Systeem | Zelfverbruikspercentage (geen batterij) | Met thuisbatterij |
-|---------|----------------------------------------|-------------------|
+Het gevolg: vanaf 1-1-2027 is elke kWh die je zelf gebruikt in plaats van teruglevert **€0,19 meer waard**. Dat is precies de reden waarom het zelfverbruikspercentage de bepalende maatstaf wordt.
+
+**Zelfverbruikspercentage per systeem (indicatie, geen meting):**
+
+| Systeem | Zonder batterij | Met thuisbatterij |
+|---|---|---|
 | 10 panelen, zuidsysteem | 25-32% | 55-65% |
 | 14 panelen, oost-west | 42-52% | 65-75% |
 
-Het oost-west systeem scoort 10-20 procentpunt hoger op zelfverbruik zonder batterij — puur door de betere timing van de productie.
+Het oost-west systeem scoort zo'n 15 procentpunt hoger op zelfverbruik zonder batterij — puur door de betere timing van de productie. Deze percentages zijn richtwaarden voor een huishouden met ochtend- en avondpieken; je eigen fractie haal je uit je P1-data.
 
 ---
 
-## Financiële vergelijking na 2027
+## Financiële vergelijking: 2026 tegenover 2027
 
-Laten we twee concrete systemen vergelijken voor een gezin met 4.000 kWh jaarverbruik.
+Twee systemen naast elkaar voor een gezin met 4.000 kWh jaarverbruik. Let op: het zijn **twee verschillend grote systemen**, want dat is nu juist de situatie waarin de keuze speelt — op een zadeldak benut je met oost-west twee dakvlakken in plaats van één.
 
-### Systeem A: zuidsysteem, 10 panelen, 3.300 Wp
+**Aannames van het model (peildatum 21-8-2026):**
+- Panelen van 400 Wp
+- Specifieke opbrengst zuid, 35° helling: 950 kWh per kWp per jaar (PVGIS-orde voor Nederland)
+- Specifieke opbrengst oost-west, 35° helling: 80 procent daarvan, dus 760 kWh per kWp per jaar
+- Leveringstarief **€0,26 per kWh** all-in incl. btw = (EPEX-jaargemiddelde 2025 €0,105 + opslag-aanname €0,02 + energiebelasting €0,09161) × 1,21
+- Terugleververgoeding vanaf 2027: **€0,07 per kWh — een aanname, geen gepubliceerd tarief**
+- Zelfverbruik zonder batterij: 30 procent bij zuid, 47 procent bij oost-west
+- Netbeheerkosten blijven buiten beeld: vast capaciteitstarief per jaar, verandert niet door de oriëntatie
 
-- Jaarproductie: 3.000 kWh
-- Zelfverbruikspercentage: 30% → 900 kWh zelfverbruik
-- Teruggeleverd: 2.100 kWh
-- Inkoop restant: 3.100 kWh (4.000 - 900)
+### Systeem A: zuid, 10 panelen, 4,0 kWp
 
-**In 2026 (100% saldering):**
-- Waarde zelfverbruik: 900 × €0,32 = €288
-- Waarde teruglevering (gesaldeerd): 2.100 × €0,32 = €672
-- Totale waarde: €960
-- Besparing op rekening: €960
+- Jaarproductie: 4,0 × 950 = **3.800 kWh**
+- Zelfverbruik 30 procent = 1.140 kWh · teruggeleverd 2.660 kWh · afname van het net 2.860 kWh
 
-**In 2030 (0% saldering):**
-- Waarde zelfverbruik: 900 × €0,32 = €288
-- Waarde teruglevering: 2.100 × €0,06 = €126
-- Totale waarde: €414
-- Jaarlijks verlies t.o.v. 2026: €546
+| Periode | Berekening | Waarde van de opwek |
+|---|---|---|
+| T/m 2026 | 1.140 × €0,26 + 2.660 × €0,26 (volledig te salderen tegen 2.860 kWh afname) | **€988** |
+| Vanaf 2027 | 1.140 × €0,26 + 2.660 × €0,07 | **€483** |
 
-### Systeem B: oost-west, 14 panelen, 4.620 Wp
+Verlies door de stop: **€505 per jaar**.
 
-- Jaarproductie: 4.000 kWh (82% rendement × 4.620 Wp)
-- Zelfverbruikspercentage: 47% → 1.880 kWh zelfverbruik
-- Teruggeleverd: 2.120 kWh
-- Inkoop restant: 2.120 kWh (4.000 - 1.880)
+### Systeem B: oost-west, 14 panelen, 5,6 kWp
 
-**In 2026 (100% saldering):**
-- Waarde zelfverbruik: 1.880 × €0,32 = €602
-- Waarde teruglevering (gesaldeerd): 2.120 × €0,32 = €678
-- Totale waarde: €1.280
+- Jaarproductie: 5,6 × 760 = **4.256 kWh**
+- Zelfverbruik 47 procent = 2.000 kWh · teruggeleverd 2.256 kWh · afname van het net 2.000 kWh
 
-**In 2030 (0% saldering):**
-- Waarde zelfverbruik: 1.880 × €0,32 = €602
-- Waarde teruglevering: 2.120 × €0,06 = €127
-- Totale waarde: **€729**
+| Periode | Berekening | Waarde van de opwek |
+|---|---|---|
+| T/m 2026 | 2.000 × €0,26 + 2.000 × €0,26 (salderen tot de afname van 2.000 kWh) + 256 × €0,07 | **€1.058** |
+| Vanaf 2027 | 2.000 × €0,26 + 2.256 × €0,07 | **€678** |
 
-### Verschil systeem A vs B in 2030:
-- €729 (oost-west) vs €414 (zuidsysteem) = **€315/jaar meer** voor het oost-west systeem
+Verlies door de stop: **€380 per jaar**.
 
-Investering extra panelen (4 stuks): €600-€800. Die zijn dus terugverdiend in 2-3 jaar na de saldering-afbouw.
+### Het verschil tussen A en B
+
+| Periode | Systeem A (zuid) | Systeem B (oost-west) | Voordeel oost-west |
+|---|---|---|---|
+| T/m 2026 | €988 | €1.058 | €70 per jaar |
+| Vanaf 2027 | €483 | €678 | **€195 per jaar** |
+
+Het voordeel van oost-west bijna verdrievoudigt dus op 1 januari 2027 — niet omdat oost-west beter wordt, maar omdat teruglevering slechter wordt en oost-west daar minder van afhankelijk is.
+
+Merk ook op wat systeem B in 2026 al laat zien: bij 2.256 kWh teruglevering tegen 2.000 kWh afname loopt B nu al tegen de saldeergrens aan. Die 256 kWh krijgt ook vandaag al alleen de terugleververgoeding.
+
+**Meerkosten van de vier extra panelen:** bij een marginale prijs van circa €700 tot €1.100 voor vier panelen inclusief montage en bekabeling op een reeds geplande installatie, is het voordeel van €195 per jaar vanaf 2027 in **4 tot 6 jaar** terugverdiend.
 
 ---
 
@@ -185,7 +181,7 @@ Investering extra panelen (4 stuks): €600-€800. Die zijn dus terugverdiend i
 - Je een zadeldak hebt met oost en west oriëntatie
 - Je geen thuisbatterij hebt (of er nog geen wilt kopen)
 - Je huidige of toekomstig verbruiksprofiel hoge vroeg-ochtend en late-avond piek heeft (EV-laden 's avonds, vroeg ontbijt)
-- Je wilt profiteren van de salderingsafbouw door maximaal zelf te verbruiken
+- Je je wilt wapenen tegen het einde van de saldering door maximaal zelf te verbruiken
 
 ---
 
@@ -201,11 +197,15 @@ Met micro-omvormers (Enphase) of power optimizers (SolarEdge) is het effect van 
 
 ---
 
-## Wat [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) adviseert
+## Wat je aan een installateur moet vragen
 
-Zonneplan is een van de Nederlandse installateurs die actief adviseert over de juiste oriëntatie op basis van je specifieke dak, verbruiksprofiel en de salderingscontext. Ze bieden gratis dakscans aan waarbij ze de exacte opbrengst per oriëntatie berekenen.
+Vraag bij elke offerte om een opbrengstsimulatie voor **beide** configuraties op jouw dak, en om de bijbehorende zelfverbruikschatting. Een installateur die alleen de totale jaaropbrengst noemt, beantwoordt de vraag die vanaf 2027 niet meer de belangrijkste is.
 
-Hun advieslijn sluit aan bij de rekenkundige logica hierboven: voor zadeldaken met beide dakvlakken beschikbaar adviseren zij steeds vaker oost-west, zeker voor huishoudens die nu of later een thuisbatterij overwegen.
+Zonneplan (opgericht in 2012, gevestigd in Zwolle) is een van de Nederlandse aanbieders die zonnepanelen verkoopt en installeert; het bedrijf verkoopt, het least niet. Wat een aanbieder precies in een dakscan meelevert en wat dat kost, verschilt per partij en verandert regelmatig — vraag dat expliciet na en neem geen aanname over uit een vergelijkingsartikel.
+
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk het aanbod van Zonneplan</a>
+
+*Wij ontvangen geen vergoeding als je via deze link klant wordt bij Zonneplan.*
 
 ---
 
@@ -229,16 +229,16 @@ Concrete kWh-cijfers voor een specifiek dak noemen wij hier niet: die zijn zonde
 
 ---
 
-## Conclusie: oost-west wint na 2027
+## Tussenconclusie
 
-De mythe dat zuidsystemen altijd beter zijn, klopt niet meer in de context van de salderingsafbouw. Voor zadeldaken met beschikbare oost- en westdakvlakken is oost-west in 2026 vrijwel altijd de slimmere keuze — zeker als je niet direct een thuisbatterij installeert.
+Het standaardadvies "zuid is optimaal" beantwoordt de verkeerde vraag zodra de saldering wegvalt. Voor zadeldaken met een beschikbaar oost- én westvlak is oost-west vanaf 1-1-2027 in ons model de betere keuze, zeker als je niet direct een thuisbatterij installeert.
 
-**Onze aanbeveling:**
-1. Laat een dakscan uitvoeren door [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) met berekening voor beide opties
-2. Bereken de situatie specifiek voor 2027-2030 op basis van je eigen verbruiksprofiel
-3. Overweeg in combinatie met een thuisbatterij: dan stijgt het zelfverbruik voor beide systemen naar 65-75%
+**Wat je concreet doet:**
+1. Vraag een opbrengstsimulatie voor beide configuraties, met zelfverbruikschatting
+2. Reken de situatie door voor 2027 met je eigen verbruiksprofiel, niet met een gemiddelde
+3. Overweeg de combinatie met een thuisbatterij: dan stijgt het zelfverbruik bij beide systemen naar 65-75 procent en wordt het verschil tussen de twee oriëntaties kleiner
 
-De extra panelen van een oost-west systeem kosten €600-€1.200 meer, maar leveren na 2027 structureel meer op dan een kleinere zuidsysteem — puur doordat je minder afgeeft aan het net.
+De vier extra panelen van het oost-west systeem kosten circa €700 tot €1.100 extra en zijn met het voordeel van €195 per jaar in 4 tot 6 jaar terugverdiend.
 
 ---
 
@@ -287,11 +287,11 @@ De meeste moderne omvormers (SMA, Fronius, SolarEdge, Enphase) hebben een online
 
 Er is in 2026 geen directe subsidie meer voor zonnepanelen in Nederland — de salderingsregeling is de enige indirecte financiële steun. Maar er zijn andere opties:
 
-**BTW-teruggave:**
-Particulieren die zonnepanelen installeren, kunnen de BTW (21%) terugvragen via de Kleineondernemersregeling (KOR). Dit is €900-€1.400 teruggave op een systeem van €6.000-€8.000. Voorwaarde: je doet één keer BTW-aangifte en geeft aan dat je de stroom terugkoppelt als zelfstandige. Daarna hoef je jaarlijks niets meer te doen.
+**0 procent btw (geen teruggaveroute meer):**
+Sinds 1 januari 2023 geldt op de levering en installatie van zonnepanelen voor woningen het btw-nultarief. Je betaalt dus geen btw en er valt daarom ook niets meer terug te vragen. De oude route waarbij je je als ondernemer aanmeldde en de 21 procent btw terugvroeg via de kleineondernemersregeling, bestaat sindsdien niet meer — je komt hem online nog veel tegen, maar hij is niet meer van toepassing. Let op: een thuisbatterij valt buiten het nultarief; daarop betaal je 21 procent btw.
 
 **Warmtefonds lening:**
-Het Nationaal Warmtefonds biedt leningen voor energiebesparende maatregelen. Zonnepanelen komen hiervoor in aanmerking (0% rente voor huishoudens met een inkomen tot circa €60.000).
+Het Nationaal Warmtefonds verstrekt leningen voor energiebesparende maatregelen, waaronder zonnepanelen. Voor lagere inkomens geldt een rentekorting die kan oplopen tot 0 procent. De actuele inkomensgrens en rentetarieven wisselen; kijk die na op warmtefonds.nl voordat je erop rekent.
 
 **Postcoderoos regeling:**
 Als je dak niet geschikt is, kun je via de postcoderoos deelnemen aan een lokale energiecoöperatie en toch van het fiscale voordeel profiteren. Relevant voor appartementseigenaren of woningen met een ongeschikt dak.
@@ -311,19 +311,13 @@ Bij een plat dak van 50 m2 kun je typisch 20-25 panelen kwijt in oost-west opste
 
 ---
 
-## De invloed van de saldering-afbouw op het installatietijdstip
+## Maakt het installatietijdstip nog uit?
 
-Wanneer je zonnepanelen installeert in 2026, is ook het tijdstip van installatie relevant door de salderingsregeling.
+Een hardnekkig misverstand: dat de saldering per installatiejaar wordt afgebouwd en dat je "je afbouwschema vastzet" door in 2026 te installeren. Dat is niet zo. **De saldering stopt op 1 januari 2027 voor iedereen tegelijk**, ongeacht wanneer je panelen zijn geplaatst. Er is geen overgangsregeling voor bestaande installaties en geen startjaar dat meetelt.
 
-**Hoe werkt de salderingsafbouw?**
+Wat het tijdstip wél doet, is bepalen hoeveel maanden volledige saldering je nog meepakt. Installeer je in september 2026, dan draai je nog vier maanden onder de oude regeling — in de donkerste maanden van het jaar, dus met een fractie van een jaaropbrengst. Reken daar geen groot bedrag voor: bij systeem A uit de vergelijking hierboven is de opbrengst in september tot en met december ruwweg een vijfde van het jaartotaal.
 
-De saldering wordt per installatiejaar afgebouwd. Wie in 2026 installeert, geniet van 100% saldering in 2026, 64% in 2027, aflopend naar 0% in 2031. Het jaar van installatie telt als startjaar voor de afbouwschema.
-
-**Verschil tussen systemen:**
-
-Bij een zuidsysteem is teruglevering hoog (60-70% van de productie). De salderingsafbouw treft dit systeem harder dan een oost-west systeem met hoog zelfverbruik.
-
-**Conclusie timing:** installeer zo vroeg mogelijk in 2026 om maximaal van de resterende volledige saldering te profiteren. Wie pas in 2027 installeert, start direct met 64% saldering.
+Het argument om vroeg in het jaar te installeren is dus reëel maar bescheiden. Belangrijker is de keuze van de configuratie zelf: die werkt de hele levensduur door, en het verschil daartussen liep in ons model op tot €195 per jaar.
 
 ---
 
@@ -331,11 +325,11 @@ Bij een zuidsysteem is teruglevering hoog (60-70% van de productie). De salderin
 
 Vier punten die in een serieus oriëntatie-advies horen terug te komen. Gebruik ze als toets op de offerte die je krijgt:
 
-1. Ze berekenen standaard PVGIS-simulaties voor meerdere configuraties en laten zien wat de financiële impact is na de salderingsafbouw.
+1. Ze rekenen PVGIS-simulaties voor meerdere configuraties door en laten zien wat de financiële uitkomst is in twee situaties: t/m 2026 met saldering en vanaf 2027 zonder.
 
-2. Ze adviseren bij zadeldaken met zowel oost als west bijna altijd om beide dakvlakken te benutten — ook als dat meer panelen betekent. De extra panelen betalen zichzelf terug in 4-6 jaar zelfs als de opbrengst per paneel lager is.
+2. Ze wegen bij zadeldaken met zowel oost als west het benutten van beide dakvlakken expliciet af, ook als dat meer panelen betekent, en onderbouwen dat met de marginale kosten van die extra panelen tegenover het voordeel per jaar.
 
-3. Ze geven aan dat veel klanten na 2027 beter af zijn met een oost-west systeem dan met een zuidsysteem zonder batterij, puur vanwege het hogere zelfverbruikspercentage.
+3. Ze rekenen met een zelfverbruikschatting die op jouw dagprofiel is gebaseerd, en niet met een standaardpercentage.
 
 4. Als je later een thuisbatterij wilt toevoegen, is het verstandig om dat al in de omvormer-keuze mee te nemen (hybride omvormer met batterij-ingang, of een omvormer die compatibel is met de meest populaire batterijen zoals Sessy of Sigenergy).
 
@@ -361,38 +355,37 @@ Oost-west: 14 panelen × 400 Wp = 5.600 Wp × 0,81 kWh/Wp = 4.536 kWh.
 Zuidsysteem zonder batterij: gemiddeld 30%.
 Oost-west zonder batterij: gemiddeld 47%.
 
-**Stap 4: Bereken de financiële waarde in 2030 (0% saldering)**
+**Stap 4: Bereken de financiële waarde vanaf 1-1-2027 (geen saldering)**
 
-Zuidsysteem:
-- Zelfverbruik: 3.800 × 30% = 1.140 kWh × €0,34 = €388
-- Teruglevering: 2.660 kWh × €0,06 = €160
-- Totaal: €548/jaar
+Reken met je eigen leveringstarief. Hieronder met onze standaardaannames van €0,26 en €0,07:
 
-Oost-west:
-- Zelfverbruik: 4.536 × 47% = 2.132 kWh × €0,34 = €725
-- Teruglevering: 2.404 kWh × €0,06 = €144
-- Totaal: **€869/jaar**
+Zuidsysteem (3.800 kWh):
+- Zelfverbruik: 3.800 × 30% = 1.140 kWh × €0,26 = €296
+- Teruglevering: 2.660 kWh × €0,07 = €186
+- Totaal: **€483 per jaar**
 
-Verschil in 2030: €321/jaar in het voordeel van oost-west.
+Oost-west (4.536 kWh):
+- Zelfverbruik: 4.536 × 47% = 2.132 kWh × €0,26 = €554
+- Teruglevering: 2.404 kWh × €0,07 = €168
+- Totaal: **€723 per jaar**
+
+Verschil vanaf 2027: €240 per jaar in het voordeel van oost-west. Dat wijkt af van de €195 uit de vergelijking eerder in dit artikel, omdat daar met 760 kWh per kWp voor oost-west is gerekend en hier met de 810 kWh per kWp uit het PVGIS-voorbeeld van stap 1. Dat verschil laat precies zien waarom je dit met je eigen dakhoek en locatie moet doen in plaats van met een gemiddelde.
 
 ---
 
 ## Conclusie: onze aanbeveling
 
-Op basis van de PVGIS-opbrengstverhoudingen en de financiële logica van de salderingsafbouw voor 2027-2030:
+Op basis van de PVGIS-opbrengstverhoudingen en de financiële logica van de saldering-stop op 1-1-2027:
 
 **Voor zadeldaken:** kies oost-west als beide dakvlakken beschikbaar zijn. De extra productie en het hogere zelfverbruik wegen op tegen de lagere opbrengst per paneel. Na 2027 is dit systeem financieel structureel beter.
 
-**Voor enkelslorige daken (alleen zuiden of alleen oosten/westen):** kies het beschikbare dakvlak en overweeg een thuisbatterij om het zelfverbruik te verhogen.
+**Voor daken met maar één bruikbaar vlak (alleen zuid, of alleen oost of west):** kies dat vlak en overweeg een thuisbatterij om het zelfverbruik te verhogen.
 
 **Voor platte daken:** oost-west is bijna altijd de slimste keuze vanwege de hogere paneeldichtheid en het betere dagprofiel.
 
-Laat een gespecialiseerde installateur zoals [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) een PVGIS-berekening maken voor beide opties in jouw specifieke situatie. Die berekening kost niets en geeft concrete cijfers voor jouw dak, verbruiksprofiel en salderingscontext.
+Vraag je installateur om een PVGIS-berekening voor beide opties in jouw specifieke situatie, inclusief een zelfverbruikschatting. Dat geeft concrete cijfers voor jouw dak en verbruiksprofiel, en dat is de enige berekening die voor jouw situatie geldt. Wat zo'n simulatie kost, verschilt per aanbieder — vraag dat vooraf na.
 
 ---
-
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 ## De rol van de omvormer bij oost-west systemen
 
@@ -402,13 +395,9 @@ De omvormer is het hart van je zonnepanelensysteem — hij zet de gelijkstroom v
 
 De meest gangbare oplossing voor oost-west is een hybride string-omvormer met twee aparte ingangen (MPPT's). Elk dakvlak (oost en west) krijgt een eigen string die onafhankelijk wordt aangestuurd.
 
-Populaire modellen 2026:
-- **SMA Sunny Boy 5.0 AV:** €600-€800, 2 MPPT, stil, bewezen betrouwbaar
-- **Fronius Symo:** €700-€900, 2-3 MPPT, uitstekende monitoring
-- **Huawei SUN2000:** €500-€700, 2 MPPT, goede prijs-kwaliteitsverhouding
-- **SolarEdge SE5000H (met optimizers):** €800-€1.100 (excl. optimizers), hoge opbrengst bij schaduw
+Modellen die in Nederland veel op offertes staan en twee of meer MPPT-ingangen hebben: SMA Sunny Boy, Fronius Symo, Huawei SUN2000 en SolarEdge in combinatie met optimizers.
 
-Bij een 10 kWp systeem vertegenwoordigt de omvormer circa 10-15% van de totaalkosten. Bespaar niet op de omvormer — een defecte omvormer legt het hele systeem plat.
+Consumentenprijzen noemen deze fabrikanten niet; wat je betaalt staat in de offerte van je installateur en verschilt sterk per pakket. Vraag daarom om de omvormerprijs als aparte regel, zodat je offertes kunt vergelijken. Als vuistregel is de omvormer een van de grotere afzonderlijke posten na de panelen zelf, en het is niet de post om op te besparen — bij een defecte omvormer staat het hele systeem stil.
 
 ### Omvormer-grootte bij oost-west
 
@@ -463,13 +452,13 @@ Als je nu 14 panelen oost-west installeert maar later wil uitbreiden, moet de om
 
 ---
 
-## Wat kopers van oost-west-systemen terugkoppelen
+## Drie punten die bij oost-west het verschil maken
 
-Uit gebruikersreviews en installateursvoorlichting komen drie punten steeds terug bij wie voor oost-west koos:
+Dit zijn geen gemeten waarden en geen gebruikerservaringen — wij verifiëren geen reviews. Het zijn drie gevolgen die rechtstreeks uit de productiecurve en de bedradingsopzet volgen.
 
 **Het comfortvoordeel wordt onderschat.** Bij een zuidsysteem verschuift het advies naar "gebruik je apparaten rond het middaguur". Bij oost-west valt de opbrengst deels samen met de ochtend- en avondpiek van een normaal huishouden, waardoor je je gewoontes minder hoeft aan te passen. Voor wie 's ochtends de wasmachine aanzet of 's avonds thuis de auto laadt, is dat een reëel verschil.
 
-**De omvormerconfiguratie is het punt waar het misgaat.** Oost en west moeten op twee aparte MPPT-ingangen of strings. Wordt alles op één string gezet, dan trekt de zwakst presterende richting de hele string omlaag en verlies je een deel van het voordeel dat je juist koopt. Dit is de eerste vraag die je aan een installateur moet stellen, en het is de fout die kopers achteraf het vaakst noemen.
+**De omvormerconfiguratie is het punt waar het misgaat.** Oost en west moeten op twee aparte MPPT-ingangen of strings. Wordt alles op één string gezet, dan trekt de zwakst presterende richting de hele string omlaag en verlies je een deel van het voordeel dat je juist koopt. Dit is de eerste vraag die je aan een installateur moet stellen.
 
 **Bij een zadeldak zonder zuidvlak is er geen discussie.** Dan gaat de keuze niet over zuid versus oost-west maar over één richting versus twee, en twee richtingen levert vrijwel altijd meer bruikbare stroom op.
 

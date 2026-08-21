@@ -1,8 +1,8 @@
 ---
 title: 'Beste Thuisbatterij 2026: Top 5 voor Nederlandse Huishoudens'
 date: 2026-02-24 12:00:00+01:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: De 5 beste thuisbatterijen voor Nederland vergeleken. Inclusief terugverdientijd, kosten, compatibiliteit en advies over de salderingsregeling.
+lastmod: 2026-08-21 08:00:00+02:00
+description: Vijf thuisbatterijen voor Nederland vergeleken op capaciteit, garantie en prijs per kWh, met een narekenbaar rendementsmodel voor de situatie na 1-1-2027.
 categories:
 - thuisbatterijen
 tags:
@@ -25,11 +25,11 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een thuisbatterij in Nederland in 2026?
-  a: Een thuisbatterij kost in Nederland tussen de €4.000 en €12.000, afhankelijk van de capaciteit en het merk. Inclusief installatie moet je rekenen op €5.500 tot €14.000 voor een compleet systeem.
+  a: 'Dat loopt sterk uiteen. Een plug-in systeem als de EcoFlow STREAM AC 5000 (5 kWh) staat op nl.ecoflow.com voor €1.599 en met een uitbreidingsaccu kom je op circa 10 kWh voor €2.898 (peildatum 21-8-2026). Een vast ingebouwd systeem van 10 kWh met hybride omvormer en installateur zit eerder in de bandbreedte €6.500 tot €10.000. Prijzen van Huawei, BYD en SolarEdge worden niet door de fabrikant gepubliceerd; die bandbreedtes komen uit installateursoffertes en zijn indicatief.'
 - q: Hoe lang duurt het voordat een thuisbatterij zichzelf terugverdient?
-  a: Met de afbouw van de salderingsregeling en huidige energieprijzen ligt de terugverdientijd in 2026 tussen de 7 en 12 jaar. Dit wordt korter naarmate de salderingsregeling verder wordt afgebouwd.
+  a: 'Dat hangt vooral af van wat je betaalt. Ons modelrekenwerk (aannames staan in het artikel) komt op een jaarlijkse waarde van €353 voor een systeem van 10 kWh op een dynamisch contract, ná het einde van de saldering op 1-1-2027. Bij een investering van €2.898 is dat 8,2 jaar; bij €7.000 is het 19,8 jaar; boven €10.000 loopt het op naar bijna dertig jaar. Het is een modelberekening met zichtbare aannames, geen belofte.'
 - q: Heb ik een thuisbatterij nodig als ik zonnepanelen heb?
-  a: Met de afbouw van de salderingsregeling wordt een thuisbatterij steeds interessanter. Zonder thuisbatterij lever je overdag opgewekte stroom terug tegen een steeds lagere vergoeding. Met een batterij sla je die stroom op voor eigen gebruik in de avond.
+  a: 'Nodig niet, maar de rekensom verandert wel per 1-1-2027. Tot en met 31-12-2026 salder je nog volledig, dus teruglevering is net zoveel waard als afname. Vanaf 1-1-2027 vervalt de saldering volledig en krijg je alleen nog de terugleververgoeding van je leverancier, die daar ver onder ligt. Een batterij verschuift dat overschot naar je eigen avondverbruik.'
 - q: Welke thuisbatterij is het beste voor een gemiddeld Nederlands huishouden?
   a: Voor een gemiddeld Nederlands huishouden met zonnepanelen raden wij de Huawei Luna 2000 (5-15 kWh) of de BYD Battery-Box (5-12,8 kWh) aan. Beide bieden een goede balans tussen capaciteit, prijs en compatibiliteit.
 - q: Kan ik ISDE-subsidie krijgen voor een thuisbatterij?
@@ -37,32 +37,14 @@ faq:
 - q: Moet de thuisbatterij van hetzelfde merk zijn als mijn omvormer?
   a: Niet altijd, maar het wordt sterk aanbevolen. Een thuisbatterij van hetzelfde merk als je omvormer werkt naadloos samen en biedt de beste prestaties. Sommige combinaties van verschillende merken werken ook, maar vragen om een extra interface of hybride omvormer.
 - q: Hoe lang gaat een thuisbatterij mee?
-  a: De meeste thuisbatterijen hebben een levensduur van 10 tot 15 jaar, oftewel 6000 tot 10.000 laadcycli. Na die periode heeft de batterij nog steeds circa 60-70% van de oorspronkelijke capaciteit.
-products:
-- name: Huawei Luna 2000
-  url: https://solar.huawei.com/eu/residential/luna
-  price: '6000'
-- name: Tesla Powerwall 3
-  url: https://www.tesla.com/nl_nl/powerwall
-  price: '9500'
-- name: EcoFlow PowerOcean
-  url: https://go.duurzaamthuislab.nl/ecoflow
-  price: '7500'
-- name: Enphase IQ Battery 5P
-  url: https://enphase.com/nl/homeowners/storage/iq-battery-5p
-  price: '5500'
+  a: 'De fabrikanten in dit overzicht geven 6.000 tot 10.000 laadcycli op tot een restcapaciteit van 70 tot 80 procent, met een garantietermijn van 10 jaar (Enphase 15 jaar). Bij circa 0,8 volledige cyclus per dag komen 6.000 cycli neer op ruim twintig jaar; in de praktijk is de garantietermijn in jaren dus eerder de beperking dan het cycli-aantal.'
 schema_type: Article
 ---
-Welk merk, welke capaciteit, en verdien je het überhaupt terug? Dat zijn de drie vragen waar elke thuisbatterij-aankoop op neerkomt, en het antwoord verandert nu de salderingsregeling vanaf 2027 wordt afgebouwd. In dit overzicht vergelijken we vijf thuisbatterijen die in Nederland breed worden geïnstalleerd op specificaties, garantie, compatibiliteit en prijs per kWh, met een doorgerekend rendementsmodel per systeem.
+Welk merk, welke capaciteit, en verdien je het überhaupt terug? Dat zijn de drie vragen waar elke thuisbatterij-aankoop op neerkomt, en het antwoord verandert per 1 januari 2027: op die datum stopt de salderingsregeling volledig. In dit overzicht vergelijken we vijf thuisbatterijen die in Nederland breed worden geïnstalleerd op specificaties, garantie, compatibiliteit en prijs per kWh, en zetten we daar één narekenbaar rendementsmodel naast.
 
-*Disclosure: de links naar Sessy, Huawei, Tesla en Enphase in dit artikel zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie. De links naar EcoFlow zijn affiliate-links via het AWIN-netwerk: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dat verandert niets aan de vergelijking: die is gebaseerd op specificaties, publieke data en narekenbare berekeningen.*
+*Disclosure: de links naar Huawei, BYD, Tesla, Enphase en SolarEdge in dit artikel zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie en verdienen wij niets aan een aankoop. De link naar EcoFlow is wél een affiliate-link (AWIN): koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dat verandert niets aan de vergelijking: die is gebaseerd op fabrikantspecificaties, publieke prijzen met peildatum en narekenbare modelberekeningen. Wij testen zelf geen thuisbatterijen.*
 
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** De 5 beste thuisbatterijen voor Nederland vergeleken. Inclusief terugverdientijd, kosten, compatibiliteit en advies over de salderingsregeling.
->
-> Een thuisbatterij kost in Nederland tussen de €4.000 en €12.000, afhankelijk van de capaciteit en het merk. Inclusief installatie moet je rekenen op €5.500 tot €14.000 voor een compleet systeem.
+> **Kort antwoord:** Voor een vast ingebouwd systeem is de Huawei Luna 2000 in dit overzicht de scherpste prijs per kWh, en de BYD Battery-Box het veiligste alternatief als je al een omvormer van een ander merk hebt. Maar de terugverdientijd hangt vooral aan de aanschafprijs: ons model komt op €353 aan jaarlijkse waarde voor 10 kWh op een dynamisch contract na 1-1-2027. Dat is 19,8 jaar bij een investering van €7.000, en 8,2 jaar bij een plug-in systeem van €2.898. Alle aannames staan verderop in dit artikel.
 
 ## Snelle vergelijkingstabel
 
@@ -78,27 +60,25 @@ Welk merk, welke capaciteit, en verdien je het überhaupt terug? Dat zijn de dri
 
 ## Waarom een thuisbatterij in 2026?
 
-### De salderingsregeling verandert
+### De saldering stopt volledig op 1 januari 2027
 
-De Nederlandse salderingsregeling -- waarmee je opgewekte zonnestroom tegen hetzelfde tarief teruglevert als waartegen je stroom afneemt -- wordt vanaf 2027 geleidelijk afgebouwd. Dit betekent dat je steeds minder terugkrijgt voor stroom die je teruglevert aan het net. Een thuisbatterij lost dit probleem op door overtollige zonnestroom op te slaan voor eigen gebruik in de avond en nacht.
+De Nederlandse salderingsregeling — waarmee je teruggeleverde zonnestroom wegstreept tegen de stroom die je afneemt — **stopt in één keer per 1 januari 2027**. Er is geen afbouwpad en geen overgangsperiode. De percentagereeksen die je op veel sites nog tegenkomt (73/64/55/46 procent of 64/28/0 procent) komen uit een wetsvoorstel dat het níet heeft gehaald. Kom je zo'n reeks ergens tegen in een rekentool of offerte, dan rekent die tool met een regeling die niet bestaat.
 
-**Tijdlijn salderingsregeling:**
-- **2026**: Nog volledige saldering mogelijk
-- **2027**: Start afbouw, je mag nog circa 73% salderen
-- **2028**: Verdere afbouw naar circa 64%
-- **2029**: Circa 55% saldering
-- **2030**: Circa 46% saldering
-- **2031**: Volledige afbouw salderingsregeling
+**Wat er feitelijk verandert:**
+- **T/m 31-12-2026**: volledige saldering. Elke teruggeleverde kWh is net zoveel waard als een afgenomen kWh.
+- **Vanaf 1-1-2027**: geen saldering meer. Voor teruglevering krijg je nog uitsluitend de terugleververgoeding van je leverancier. Die vergoeding stelt de leverancier zelf vast en is voor 2027 nog niet bekend; sommige leveranciers rekenen daarnaast terugleverkosten.
 
-Wil je alle details weten over de landelijke regelingen en de salderingsregeling? Lees onze [complete gids over zonnepanelen subsidies in 2026](/posts/zonnepanelen-subsidie-nederland-2026/).
+Een thuisbatterij verandert die rekensom door het overschot naar je eigen avondverbruik te verschuiven in plaats van naar het net. Wil je alle details over de landelijke regelingen? Lees onze [complete gids over zonnepanelen subsidies in 2026](/posts/zonnepanelen-subsidie-nederland-2026/).
 
-### Stijgende energieprijzen
+### Wat je vandaag voor stroom betaalt
 
-De energieprijzen in Nederland zijn de afgelopen jaren fors gestegen en blijven volatiel. In 2026 betaal je gemiddeld **€0,28 - €0,34 per kWh** voor stroom. Hoe hoger de stroomprijs, hoe sneller een thuisbatterij zich terugverdient.
+In de modelberekeningen hieronder rekenen we met een all-in leveringstarief van **€0,26 per kWh** inclusief btw. Dat is opgebouwd als (EPEX-jaargemiddelde 2025 €0,105 + een opslag-aanname van €0,02 + energiebelasting €0,09161) × 1,21 btw, dus €0,262. Ter controle: de energiebelasting op elektriciteit bedraagt in 2026 €0,09161 per kWh exclusief btw, oftewel €0,11085 inclusief btw. Het netbeheer reken je niet per kWh af maar als een vast capaciteitstarief per jaar — dat verandert dus niet als je een batterij plaatst, en het staat daarom niet in het model.
 
-### Dalende batterijprijzen
+Wat je zelf betaalt hangt af van je contract. Vul je eigen tarief in als het afwijkt; de uitkomsten schalen bijna lineair mee met het leveringstarief.
 
-De prijzen van thuisbatterijen zijn de afgelopen drie jaar met circa 25-30% gedaald. Deze trend zet door dankzij schaalvergroting in de productie en verbeterde batterijtechnologie. In 2026 is de investering aanzienlijk lager dan een paar jaar geleden.
+### Batterijprijzen: het verschil zit in de bouwvorm
+
+De scherpste prijzen zitten inmiddels niet bij de vaste, ingebouwde systemen maar bij plug-in batterijen. De EcoFlow STREAM AC 5000 (5 kWh) staat op nl.ecoflow.com voor €1.599 en de uitbreidingsaccu voor €1.299 — circa 10 kWh voor €2.898 (peildatum 21-8-2026). Een vast systeem van 10 kWh met hybride omvormer en installateur kost een veelvoud daarvan. Dat verschil is voor de terugverdientijd belangrijker dan welk merk je kiest.
 
 ### Geen rijkssubsidie: reken zonder
 
@@ -141,12 +121,14 @@ De **Huawei Luna 2000** is de meest geinstalleerde thuisbatterij in Nederland, e
 - Installatie vereist gecertificeerd installateur
 - Geen AC-koppeling mogelijk (alleen DC)
 
-### Terugverdientijd (indicatie)
+### Terugverdientijd volgens ons model
 
-Met een 10 kWh Huawei Luna 2000, 12 zonnepanelen (4500 Wp) en een gemiddeld huishoudelijk verbruik van 3500 kWh per jaar:
+Alle terugverdientijden in dit artikel komen uit één model met dezelfde aannames; die staan uitgeschreven in [het rekenvoorbeeld verderop](#rekenvoorbeeld-jaarrendement-per-batterijtype). Voor een 10 kWh Huawei Luna 2000 met 12 zonnepanelen (4.500 Wp) en 3.500 kWh verbruik:
 
-- **Met huidige salderingsregeling (2026)**: circa 10-12 jaar
-- **Na afbouw salderingsregeling (2031+)**: circa 7-9 jaar
+- **Aangenomen investering incl. installatie**: circa €7.000
+- **Modelmatige waarde per jaar vanaf 1-1-2027**: €353 (€273 zonverschuiving + €80 netarbitrage)
+- **Modelmatige terugverdientijd**: 19,8 jaar
+- **In 2026, zolang de saldering nog geldt**: alleen de arbitragecomponent van circa €80 per jaar telt mee, dus de terugverdientijd is dit kalenderjaar nog niet in beeld
 
 ### Installatiekosten
 
@@ -189,12 +171,13 @@ De **BYD Battery-Box** is de favoriet van installateurs dankzij de brede compati
 - Monitoring afhankelijk van de omvormer-app (niet BYD zelf)
 - Modules zijn relatief zwaar
 
-### Terugverdientijd (indicatie)
+### Terugverdientijd volgens ons model
 
-Met een 10 kWh BYD Battery-Box, 12 zonnepanelen (4500 Wp) en een gemiddeld huishoudelijk verbruik:
+Zelfde aannames als hierboven, alleen een hogere aangenomen investering:
 
-- **Met huidige salderingsregeling (2026)**: circa 11-13 jaar
-- **Na afbouw salderingsregeling (2031+)**: circa 8-10 jaar
+- **Aangenomen investering incl. installatie**: circa €7.500
+- **Modelmatige waarde per jaar vanaf 1-1-2027**: €353
+- **Modelmatige terugverdientijd**: 21,2 jaar
 
 ---
 
@@ -234,12 +217,13 @@ De **Tesla Powerwall 3** is het bekendste thuisbatterij-systeem ter wereld en de
 - Beperkte beschikbaarheid in Nederland -- langere levertijden
 - Niet combineerbaar met bestaande omvormers van andere merken
 
-### Terugverdientijd (indicatie)
+### Terugverdientijd volgens ons model
 
-Met een 13,5 kWh Tesla Powerwall 3, 16 zonnepanelen (6000 Wp) en een gemiddeld huishoudelijk verbruik:
+Met 16 zonnepanelen (6.000 Wp) is er meer overschot om te verschuiven, maar de extra capaciteit boven 10 kWh levert daar maar beperkt extra bij op — het overschot is 's zomers al voor het middaguur weggezet en in de winter is er nauwelijks overschot. Het model rekent daarom met dezelfde jaarwaarde:
 
-- **Met huidige salderingsregeling (2026)**: circa 11-14 jaar
-- **Na afbouw salderingsregeling (2031+)**: circa 8-10 jaar
+- **Aangenomen investering incl. installatie**: circa €10.500
+- **Modelmatige waarde per jaar vanaf 1-1-2027**: €353
+- **Modelmatige terugverdientijd**: 29,7 jaar, dus ruim buiten de garantietermijn van 10 jaar
 
 ---
 
@@ -276,14 +260,13 @@ De **Enphase IQ Battery 5P** is een uitstekende keuze als je al Enphase micro-om
 - Hogere prijs per kWh dan concurrenten
 - Lager continu vermogen per eenheid (1,92 kW)
 - Optimale werking alleen met Enphase-ecosysteem
-- AC-koppeling heeft iets lagere efficientieverliezen dan DC
+- AC-koppeling kent iets hogere omzetverliezen dan DC-koppeling: zonnestroom wordt eerst naar wisselstroom omgezet en voor het laden weer terug naar gelijkstroom
 
-### Terugverdientijd (indicatie)
+### Terugverdientijd volgens ons model
 
-Met een 10 kWh Enphase IQ Battery-systeem, 12 zonnepanelen met micro-omvormers (4500 Wp):
-
-- **Met huidige salderingsregeling (2026)**: circa 13-16 jaar
-- **Na afbouw salderingsregeling (2031+)**: circa 9-12 jaar
+- **Aangenomen investering incl. installatie**: circa €10.000
+- **Modelmatige waarde per jaar vanaf 1-1-2027**: €353
+- **Modelmatige terugverdientijd**: 28,3 jaar. De 15-jarige garantie compenseert dat niet: de rekensom valt binnen die termijn nog steeds niet positief uit bij deze aanschafprijs
 
 ---
 
@@ -322,12 +305,13 @@ De **SolarEdge Home Battery** is de logische keuze als je een SolarEdge-omvormer
 - Noodstroomfunctie vereist een SolarEdge backup-interface
 - Minder flexibel in modulaire uitbreiding dan Huawei of BYD
 
-### Terugverdientijd (indicatie)
+### Terugverdientijd volgens ons model
 
-Met een 9,2 kWh SolarEdge Home Battery, 12 zonnepanelen met optimizers (4500 Wp):
+Bij 9,2 kWh bruikbare capaciteit schaalt de verschoven hoeveelheid iets omlaag; het model rekent daarom met circa 93 procent van de jaarwaarde.
 
-- **Met huidige salderingsregeling (2026)**: circa 10-12 jaar
-- **Na afbouw salderingsregeling (2031+)**: circa 7-9 jaar
+- **Aangenomen investering incl. installatie**: circa €6.200
+- **Modelmatige waarde per jaar vanaf 1-1-2027**: €327 (€254 zonverschuiving + €74 netarbitrage)
+- **Modelmatige terugverdientijd**: 18,9 jaar
 
 ---
 
@@ -388,42 +372,57 @@ Veel installateurs bieden financieringsopties aan. Daarnaast kun je bij sommige 
 
 ## Rekenvoorbeeld: jaarrendement per batterijtype
 
-Onderstaande tabel is een modelberekening, geen belofte. De uitkomst is extreem gevoelig voor twee dingen die je zelf niet in de hand hebt: de spreiding tussen dag- en nachttarieven, en het tempo waarin de saldering wordt afgebouwd.
+Onderstaande berekening is een **modelberekening met expliciete aannames**, geen belofte en geen meting. De uitkomst is vooral gevoelig voor drie dingen: wat je voor de batterij betaalt, welk leveringstarief je hebt, en welke terugleververgoeding jouw leverancier vanaf 2027 gaat hanteren. Die laatste is op dit moment nog door niemand gepubliceerd.
 
-**Aannames van het model:**
-- Gemiddeld Nederlands huishouden, 12 zonnepanelen (4.500 Wp), 3.500 kWh verbruik per jaar
-- Dynamisch energiecontract, want zonder prijsverschil per uur valt de arbitragecomponent weg
-- Extra eigen verbruik door de batterij: 1.200 kWh per jaar, gewaardeerd tegen €0,30 per kWh — dat is circa €360 per jaar
-- Arbitrage: 250 volledige cycli per jaar van 8 kWh, bij een gemiddelde spreiding van €0,22 per kWh — dat is circa €440 per jaar
-- Investering: het midden van de prijsbandbreedtes uit de vergelijkingstabel hierboven, inclusief installatie
-- De rekenwaarden gelden voor een systeem van circa 10 kWh; kleinere systemen halen minder cycli en dus minder rendement
+**Aannames van het model (peildatum 21-8-2026):**
+- Gemiddeld Nederlands huishouden: 12 zonnepanelen (4.500 Wp, circa 4.000 kWh opbrengst), 3.500 kWh verbruik per jaar, dus circa 2.500 kWh overschot zonder batterij
+- Situatie **ná 1-1-2027**: geen saldering meer
+- Leveringstarief: **€0,26 per kWh** all-in incl. btw = (EPEX 2025 €0,105 + opslag-aanname €0,02 + energiebelasting €0,09161) × 1,21
+- Terugleververgoeding vanaf 2027: **€0,07 per kWh — dit is een aanname, geen gepubliceerd tarief.** Geen enkele leverancier heeft zijn terugleververgoeding voor 2027 bekendgemaakt
+- Bruikbare capaciteit 10 kWh, retourrendement 90 procent
+- Verschoven eigen verbruik: 1.500 kWh per jaar. Dat is minder dan het volledige overschot, omdat de batterij op zonnige zomerdagen rond het middaguur al vol is en er in de winter nauwelijks overschot is
+- Netarbitrage bovenop de zonverschuiving: 100 extra cycli van 8 kWh in het winterhalfjaar, netto €0,10 per kWh ná omzetverliezen. Basis is de dagspreiding op de day-ahead-markt, niet het jaargemiddelde (EPEX 2025: gemiddeld €0,105 per kWh, 212 negatieve uren, duurste uur €0,63 op 20-1-2025 om 17:00)
+- Dynamisch energiecontract met slimme aansturing; zonder uurprijzen valt de arbitragecomponent volledig weg
+- Netbeheerkosten blijven buiten het model: dat is een vast capaciteitstarief per jaar en verandert niet door een batterij
 
-**Uitkomst van het model:**
+**Uitkomst van het model, stap voor stap:**
 
-| Batterij | Aangenomen investering | Modelmatige besparing per jaar | Modelmatige terugverdientijd |
+| Rekenstap | Uitkomst |
+|---|---|
+| 1.500 kWh niet meer inkopen × €0,26 | + €390 |
+| 1.667 kWh (1.500 ÷ 0,9) niet meer terugleveren × €0,07 | − €117 |
+| Netarbitrage: 800 kWh × €0,10 netto | + €80 |
+| **Modelmatige waarde per jaar** | **€353** |
+
+**Vertaald naar terugverdientijd per systeem:**
+
+| Batterij | Aangenomen investering incl. installatie | Modelmatige waarde per jaar | Modelmatige terugverdientijd |
 |---|---|---|---|
-| Huawei Luna 2000 10 kWh | circa €7.000 | circa €800 | 8-9 jaar |
-| BYD Battery-Box 10 kWh | circa €7.500 | circa €800 | 9-10 jaar |
-| Tesla Powerwall 3 (13,5 kWh) | circa €10.500 | circa €900-€1.000 | 10-12 jaar |
-| Enphase IQ Battery 10 kWh | circa €10.000 | circa €750 | 12-14 jaar |
-| SolarEdge Home Battery 9,2 kWh | circa €6.200 | circa €750 | 8-9 jaar |
+| EcoFlow STREAM AC 5000 + uitbreidingsaccu (circa 10 kWh, plug-in) | €2.898 (fabrikantprijs nl.ecoflow.com, peildatum 21-8-2026) | €353 | 8,2 jaar |
+| SolarEdge Home Battery 9,2 kWh | circa €6.200 | €327 | 18,9 jaar |
+| Huawei Luna 2000 10 kWh | circa €7.000 | €353 | 19,8 jaar |
+| BYD Battery-Box 10 kWh | circa €7.500 | €353 | 21,2 jaar |
+| Enphase IQ Battery 10 kWh | circa €10.000 | €353 | 28,3 jaar |
+| Tesla Powerwall 3 (13,5 kWh) | circa €10.500 | €353 | 29,7 jaar |
 
-Belangrijke nuance bij dit model: de arbitragecomponent van circa €440 per jaar veronderstelt dat je de batterij dagelijks laadt op de goedkope uren en ontlaadt op de dure. Dat vraagt een dynamisch contract én slimme aansturing. Heb je een vast contract, dan valt die helft van de besparing weg en verdubbelt de terugverdientijd ongeveer. Zodra de saldering verder is afgebouwd, komt daar aan de andere kant een besparing bij die met de huidige regeling nog niet zichtbaar is.
+**De conclusie die dit model afdwingt:** bij een jaarwaarde van €353 verdient een thuisbatterij zich binnen de garantietermijn van tien jaar alleen terug als de totale investering onder circa €3.530 blijft. Van de vaste, ingebouwde systemen in dit overzicht haalt geen enkele dat. Wie puur op rendement kiest, komt daarom uit bij een plug-in systeem; wie een vast systeem wil, koopt dat vooral voor het gemak, de noodstroom en de integratie, en moet accepteren dat het financiële plaatje pas ná de garantietermijn sluit.
 
-## Saldering stopt 2027: de katalysator
+**Gevoeligheid.** Heb je een vast contract in plaats van een dynamisch, dan valt de €80 arbitrage weg en blijft €273 over; de terugverdientijd bij €7.000 loopt dan op naar 25,6 jaar. Betaal je €0,32 per kWh in plaats van €0,26, dan stijgt de jaarwaarde naar €443. Valt de terugleververgoeding op €0,05 in plaats van €0,07, dan wordt het €387. Rekent jouw leverancier vanaf 2027 daarnaast terugleverkosten, dan komt de vermeden post daar nog bij — maar geen enkele leverancier heeft die tarieven voor 2027 gepubliceerd, dus wij rekenen ze niet mee.
 
-Vanaf 2027 verandert de waarde van een thuisbatterij fundamenteel. Wie nu teruglevert, krijgt via de saldering feitelijk het volledige stroomtarief terug. Naarmate de saldering wordt afgebouwd, resteert de terugleververgoeding van je leverancier, en die ligt ver onder het leveringstarief.
+## Saldering stopt op 1-1-2027: waarom dat de rekensom kantelt
 
-**Rekenvoorbeeld met de volgende aannames:** een huishouden dat 3.000 kWh per jaar teruglevert, een leveringstarief van €0,31 per kWh, en het afbouwpad uit de tijdlijn eerder in dit artikel. Voor de terugleververgoeding na volledige afbouw rekenen we met een indicatieve €0,06 per kWh; het werkelijke bedrag stelt je leverancier vast en is nu niet bekend.
+Op 1 januari 2027 vervalt de saldering in één keer. Wie vandaag teruglevert, krijgt via de saldering feitelijk het volledige stroomtarief terug. Vanaf 2027 resteert alleen de terugleververgoeding van je leverancier, en die ligt ver onder het leveringstarief.
+
+**Rekenvoorbeeld met de volgende aannames:** een huishouden dat 3.000 kWh per jaar teruglevert en een leveringstarief van €0,26 per kWh betaalt. Voor de terugleververgoeding vanaf 2027 rekenen we met de aanname van €0,07 per kWh; het werkelijke bedrag stelt je leverancier vast en is op dit moment niet gepubliceerd.
 
 Uitkomst van het model:
-- Bij volledige saldering vertegenwoordigt die 3.000 kWh circa €930 aan waarde
-- Bij circa 64 procent saldering zakt dat naar de orde van €600, een verschil van ruim €300 per jaar
-- Zonder saldering en met een terugleververgoeding van €0,06 blijft er circa €180 over, een verschil van rond €750 per jaar
+- **T/m 31-12-2026**, met volledige saldering: die 3.000 kWh vertegenwoordigt 3.000 × €0,26 = €780 aan waarde
+- **Vanaf 1-1-2027**, zonder saldering: 3.000 × €0,07 = €210
+- **Het verschil is dus €570 per jaar**, en dat verschil valt in één keer, niet gespreid over vijf jaar
 
-Een batterij van 10 kWh vangt een groot deel van dat verschil op, doordat het overschot naar eigen verbruik verschuift in plaats van naar het net. Volledig dekken doet hij niet: op zonnige zomerdagen is de batterij tegen het middaguur vol en gaat de rest alsnog terug het net op.
+Een batterij van 10 kWh vangt volgens hetzelfde model bijna de helft van dat verschil op: hij verschuift 1.500 van die 3.000 kWh naar eigen verbruik, goed voor €273. Volledig dekken doet hij niet — op zonnige zomerdagen is de batterij tegen het middaguur vol en gaat de rest alsnog het net op.
 
-**Onze inschatting:** de rekensom valt vanaf 2027 stelselmatig gunstiger uit voor een batterij dan nu. Dat is een argument om de beslissing goed voor te bereiden, niet om hem te overhaasten. Vraag meerdere offertes op, controleer de compatibiliteit met je omvormer en reken met je eigen verbruiksprofiel in plaats van met een gemiddelde.
+**Onze inschatting:** de rekensom valt vanaf 2027 gunstiger uit voor een batterij dan nu, maar zelfs dan is de terugverdientijd van een vast systeem langer dan de garantietermijn. Dat is een argument om rustig te vergelijken, niet om te haasten. Vraag meerdere offertes op, controleer de compatibiliteit met je omvormer en reken met je eigen verbruiksprofiel in plaats van met een gemiddelde.
 
 ## Levensduur en degradatie: wat je over 10 jaar kunt verwachten
 
@@ -443,11 +442,11 @@ Reken de cycligarantie door naar je eigen gebruik: bij circa 0,8 volledige cycli
 
 **Wat degradatie met het rendement doet — modelberekening**
 
-Aannames: het jaarrendement uit het rekenvoorbeeld hierboven, en een capaciteitsverloop conform de garantie (circa 80 procent restcapaciteit aan het einde van de garantieperiode, lineair verlopend).
+Aannames: de jaarwaarde van €353 uit het rekenvoorbeeld hierboven, en een capaciteitsverloop conform de garantie — circa 80 procent restcapaciteit na vijftien jaar, lineair verlopend.
 
-Uitkomst van het model: de jaarlijkse besparing daalt in dat tempo mee, dus van circa €800 in het eerste jaar naar circa €640 tegen het einde van de garantieperiode. Cumulatief over vijftien jaar komt het model daarmee op een besparing in de orde van €11.000 tot €12.000 tegenover een investering van circa €7.000 voor een systeem in de Huawei Luna-klasse.
+Uitkomst van het model: de jaarwaarde daalt in dat tempo mee, van €353 in jaar 1 naar €282 in jaar 15. Cumulatief komt dat op circa **€4.843 over vijftien jaar**. Tegenover een investering van circa €7.000 voor een systeem in de Huawei Luna-klasse betekent dat een tekort van ruim €2.150 over de volle vijftien jaar. Bij het plug-in systeem van €2.898 sluit de rekening wel, met circa €1.945 aan modelmatig overschot.
 
-Neem dat cumulatieve getal met de nodige reserve: het veronderstelt vijftien jaar lang een vergelijkbare prijsspreiding op de energiemarkt en geen tussentijdse reparatiekosten. Beide aannames zijn over die termijn niet hard te maken. Wat het model wél laat zien, is dat degradatie niet de reden is waarom een thuisbatterij al dan niet rendeert — de tariefstructuur is dat.
+Neem die cumulatieve getallen met de nodige reserve: ze veronderstellen vijftien jaar lang een vergelijkbare prijsspreiding op de energiemarkt, een stabiel leveringstarief en geen tussentijdse reparatiekosten. Geen van die drie is over zo'n termijn hard te maken. Wat het model wél laat zien: degradatie is niet de reden waarom een thuisbatterij al dan niet rendeert. De aanschafprijs is dat.
 
 ## Installatie: meterkasteisen voor alle topmerken
 
@@ -489,40 +488,38 @@ Vier fouten komen bij thuisbatterij-aankopen steeds terug.
 De meest gemaakte fout, en de duurste. Een veelvoorkomende situatie: er staat al een Fronius- of SMA-omvormer in de meterkast en er wordt een Huawei Luna gekocht, die uitsluitend met een Huawei SUN2000 werkt. Dan moet de omvormer alsnog vervangen worden, en dat is een onverwachte post van meer dan duizend euro bovenop de batterij. Check dus eerst welke omvormer je hebt, en pas daarna welke batterij daarbij past — niet omgekeerd.
 
 **Fout 2: capaciteit onderschatten bij warmtepomp of EV**
-Gezinnen met warmtepomp + EV hebben piekbelastingen van 5-8 kW. Een Sessy (2,5 kW) of Enphase (1,92 kW per unit) voldoet dan niet voor het volledige huishoudprofiel.
+Huishoudens met een warmtepomp én een elektrische auto hebben piekbelastingen van 5 tot 8 kW. Een systeem met 1,92 kW continu vermogen per unit, zoals de Enphase IQ Battery 5P, dekt dat profiel niet zonder meerdere units. Kijk dus niet alleen naar kWh maar ook naar het continue vermogen in kW.
 
-**Fout 3: terugverdientijd op 2026-saldering-basis berekenen**
-In 2026 is de terugverdientijd hoger dan in 2027+ (want saldering maskeert het nut van batterij). Reken altijd met het 2027+-scenario voor eerlijk beeld.
+**Fout 3: rekenen met een afbouwpad dat niet bestaat**
+Veel rekentools hanteren nog een reeks als 73/64/55/46 procent of 64/28/0 procent. Die percentages komen uit een wetsvoorstel dat niet is aangenomen. De saldering stopt volledig op 1-1-2027. Reken dus met twee situaties — t/m 2026 volledig salderen, vanaf 2027 alleen nog een terugleververgoeding — en niet met tussenstappen.
 
 **Fout 4: rekenen met subsidie die er niet is**
 Verkopers en rekentools noemen soms een ISDE-bijdrage voor de batterij. Die bestaat niet: de ISDE dekt voor woningeigenaren geen batterijopslag. Reken met de volledige investering en 21% btw op de batterij, en kijk alleen naar gemeentelijke of provinciale regelingen die je zelf bij de bron hebt gecheckt.
 
-## Verlengde FAQ
+## Nog drie vragen die vaak terugkomen
 
 **Heb ik ook een warmtepomp nodig voor een thuisbatterij?**
-Nee. Warmtepomp en thuisbatterij zijn aparte verduurzamingsstappen. Een batterij werkt ook zonder warmtepomp. Wel: als je een warmtepomp wilt toevoegen, kies dan een batterij met 5 kW vermogen (Tesla, Huawei Luna 10+, BYD, SolarEdge).
+Nee. Warmtepomp en thuisbatterij zijn losse verduurzamingsstappen. Wel geldt: wil je later een warmtepomp toevoegen, kies dan een batterij met minstens 5 kW continu vermogen (Tesla Powerwall 3, Huawei Luna 2000 in de 10+ kWh-uitvoering, BYD Battery-Box, SolarEdge Home Battery).
 
 **Kan ik als huurder ook een thuisbatterij installeren?**
-In principe ja, mits verhuurder toestemming geeft. Bij sociale huurwoningen: bijna nooit. Bij particuliere huur: steeds vaker, zeker bij nieuwe huurcontracten. Lease (Zonneplan) is aantrekkelijker voor huurders dan koop.
+Voor een vast systeem heb je schriftelijke toestemming van de verhuurder nodig, omdat het een ingreep in de elektrische installatie van de woning is. Een plug-in systeem is eenvoudiger, omdat je het bij verhuizing meeneemt; check wel of je huurcontract eisen stelt aan vaste opstellingen en of de groep het aankan.
 
 **Is de batterij het waard als ik maar 6 zonnepanelen heb?**
-Met 6 panelen (2,2 kWp) is je overschot beperkt — 800-1.200 kWh/jaar. Terugverdientijd bij 5 kWh-batterij: 9-12 jaar. Grenscase. Overweeg eerst meer panelen: 4 extra panelen kosten €1.200-€1.600 en verhogen rendabiliteit van batterij sterk.
+Met 6 panelen (circa 2,2 kWp, ongeveer 1.900 kWh opbrengst) blijft er per jaar naar schatting 800 tot 1.200 kWh over om te verschuiven. Vul je dat in het model hierboven in, dan komt de jaarwaarde uit op €186 tot €259, inclusief de netarbitrage van een 5 kWh systeem. Bij een 5 kWh plug-in systeem van €1.599 is dat een terugverdientijd van 6 tot 9 jaar; bij een vast systeem loopt het ver voorbij de twintig jaar. Overweeg in dat geval eerst extra panelen.
 
 ---
 
 ## Conclusie
 
-Voor de meeste Nederlandse huishoudens is de **Huawei Luna 2000** de beste keuze in 2026. Het biedt de scherpste prijs per kWh, een bewezen modulair systeem en uitstekende integratie met de populairste omvormer in Nederland. Heb je een bestaand systeem met een omvormer van een ander merk? Dan is de **BYD Battery-Box** het veiligste alternatief dankzij de brede compatibiliteit.
+De keuze tussen de vijf vaste systemen is vooral een compatibiliteitsvraag. Heb je een Huawei-omvormer of bouw je nieuw, dan is de **Huawei Luna 2000** de scherpste prijs per kWh in dit overzicht. Heb je al een SMA-, Fronius-, Kostal- of GoodWe-omvormer, dan is de **BYD Battery-Box** het veiligste alternatief. Enphase- en SolarEdge-gebruikers blijven het best binnen hun eigen ecosysteem, en de **Tesla Powerwall 3** is de keuze voor wie één doos wil met omvormer en automatische noodstroom erin.
 
-De **Tesla Powerwall 3** is ideaal voor wie het beste all-in-one systeem wil, terwijl Enphase- en SolarEdge-gebruikers het beste binnen hun eigen ecosysteem blijven.
+De rendementsvraag staat daar los van, en het antwoord is ongemakkelijk: bij de huidige prijzen van vaste systemen komt ons model niet binnen de garantietermijn van tien jaar uit. Dat is geen reden om geen batterij te nemen — noodstroom, onafhankelijkheid en het opvangen van de saldering-stop zijn legitieme redenen — maar wel om die verwachting scherp te stellen voordat je tekent.
 
-Met de afbouw van de salderingsregeling die in 2027 begint, is 2026 het ideale moment om je te orienteren. De terugverdientijden worden de komende jaren alleen maar korter.
+Wil je puur op terugverdientijd sturen, dan kom je in dit overzicht uit bij een plug-in systeem. EcoFlow publiceert daar wél openbare consumentenprijzen voor: de STREAM AC 5000 (5 kWh, 3.000 W) staat op €1.599 en de uitbreidingsaccu op €1.299, dus circa 10 kWh voor €2.898 (peildatum 21-8-2026). Houd er rekening mee dat een plug-in systeem geen noodstroom voor de hele woning levert en dat je bij 3.000 W ontlaadvermogen moet checken of er een aparte groep nodig is.
 
-Zoek je een draagbare oplossing in plaats van een vast systeem? Bekijk dan ons overzicht van de [beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/).
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="sponsored nofollow noopener" target="_blank">Bekijk de actuele EcoFlow STREAM-prijzen</a>
 
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
-
+Zoek je een draagbare oplossing in plaats van een vast systeem? Bekijk dan ons overzicht van de [beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/). Wil je zelf rekenen met je eigen verbruik, gebruik dan onze [terugverdientijd-vergelijker voor thuisbatterijen](/thuisbatterij-terugverdientijd-vergelijken/).
 
 
 ---

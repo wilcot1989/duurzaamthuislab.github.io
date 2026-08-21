@@ -1,316 +1,280 @@
 ---
 title: "ROI thuisbatterij na saldering 2027: complete berekening"
 date: 2026-08-11T08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: "Bereken stap-voor-stap de ROI van een thuisbatterij na saldering 2027. Met 4 voorbeelden en exact rekenmodel voor jouw situatie."
+lastmod: '2026-08-21 08:00:00+02:00'
+description: "Een narekenbaar ROI-model voor een thuisbatterij na het einde van de saldering op 1-1-2027, met vier doorgerekende scenario's en een IRR die niet dubbeltelt."
 categories: ["thuisbatterijen"]
 tags: ["thuisbatterij", "ROI", "saldering 2027", "rendement", "berekening", "terugverdientijd"]
 keywords: ["roi thuisbatterij 2027", "thuisbatterij rendement na saldering", "thuisbatterij berekening 2027", "terugverdientijd batterij saldering", "rendement thuisbatterij"]
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1671785253964-bdb43087ed99&w=1200&output=webp&q=70"
 schema_type: "Article"
-last_updated: '2026-04-29'
 faq:
-  - q: "Wanneer verdient een thuisbatterij zich terug na saldering 2027?"
-    a: "Onder de afbouw-percentages (100% in 2026 → 0% in 2029) verdienen de meeste thuisbatterijen zich terug binnen 6-9 jaar als: jaarlijks overschot >2.500 kWh, dynamisch contract, 5-10 kWh capaciteit. Een Marstek Venus E (€2.299) verdient zich gemiddeld terug in 4-5 jaar. Een Sessy 10 kWh (€5.500 incl. btw, excl. installatie) in 5-7 jaar."
-  - q: "Wat verandert er na 1-1-2027?"
-    a: "Saldering daalt naar 64% in 2027, 28% in 2028, 0% in 2029. Voor je overschot (stroom die je teruglevert) krijg je dan alleen nog terugleverprijs (€0,07-€0,12/kWh) i.p.v. de inkoopprijs (€0,32). Een batterij voorkomt dit verlies door je opwek zelf te verbruiken."
+  - q: "Wanneer verdient een thuisbatterij zich terug na het einde van de saldering?"
+    a: 'Dat hangt bijna volledig af van de aanschafprijs. Ons model komt op een jaarwaarde van €353 voor een batterij van 10 kWh op een dynamisch contract, vanaf 1-1-2027: €273 zonverschuiving plus €80 netarbitrage. Bij een plug-in systeem van €2.898 is dat een terugverdientijd van 8,2 jaar; bij een vast ingebouwd systeem van €6.500 tot €7.500 is het 18,4 tot 21,2 jaar. Binnen een garantietermijn van tien jaar sluit de rekening pas onder circa €3.530.'
+  - q: "Wat verandert er op 1-1-2027?"
+    a: 'De saldering stopt volledig, in één keer. Er is geen afbouwpad: reeksen als 64/28/0 procent of 73/64/55/46 procent horen bij wetsvoorstellen die het niet hebben gehaald. Vanaf 1-1-2027 krijg je voor teruggeleverde stroom alleen nog de terugleververgoeding van je leverancier. Die is voor 2027 nog nergens gepubliceerd; wij rekenen met een aanname van €0,07 per kWh, expliciet gelabeld als aanname.'
   - q: "Hoe groot moet mijn batterij zijn?"
-    a: "Vuistregel: gemiddeld dagelijks overschot × 1,2. Bij 4 kWp panelen en 30% eigen verbruik = 7,7 kWh dagelijks overschot in zomer = 8-10 kWh batterij. Bij 7 kWp en warmtepomp = 4-6 kWh dagelijks = 5-8 kWh batterij. Te groot kopen verdient slechter terug."
+    a: 'Kijk naar wat je daadwerkelijk kunt verschuiven, niet naar je dak. In ons model haalt een batterij circa 150 volle cycli per jaar op zonoverschot, begrensd door je overschot en door wat je ''s avonds nog verbruikt. Een batterij van 10 kWh verschuift daarmee circa 1.500 kWh per jaar. Is je teruglevering kleiner dan dat, dan koop je capaciteit die stilstaat.'
   - q: "Werkt een batterij ook in de winter?"
-    a: "Ja, maar minder. In december wek je 80-90% minder op dan juli. Een batterij vult zich amper. Daarom is winter-arbitrage (laden op nachtprijs, ontladen op piek) cruciaal voor jaar-rond rendement. Met dynamisch contract: ja. Zonder dynamisch contract: 60-70% lagere ROI."
-  - q: "Wat als batterij-prijzen dalen?"
-    a: "Reëel risico. Tussen 2022-2026 daalden prijzen ~40% (Marstek Venus E was €3.499 → €2.299). Verwachting voor 2027-2029: nog 15-25% daling. Wachten op een betere deal kan slim zijn — maar je verliest dan saldering-voordeel in 2026. Onze vuistregel: kopen als de terugverdientijd onder 8 jaar blijft én het maandelijks rendement positief is."
+    a: 'Voor zonverschuiving nauwelijks: in december is de opbrengst een fractie van die in juli en vult de batterij zich zelden. Wat in de winter wél kan, is netarbitrage op een dynamisch contract: laden op goedkope uren, ontladen op dure. Wij schatten dat op €80 per jaar bij 10 kWh, oftewel €8 per kWh capaciteit. Zonder dynamisch contract valt die component volledig weg.'
+  - q: "Moet ik wachten tot batterijprijzen verder dalen?"
+    a: 'Dat is een afweging, geen zekerheid — wij doen geen uitspraken over toekomstige prijzen. Wat wél vaststaat: elke maand die je in 2026 nog draait valt onder volledige saldering, dus in dat jaar levert een batterij vrijwel alleen arbitragewaarde op. De rekensom kantelt pas op 1-1-2027.'
   - q: "Tellen subsidies mee?"
-    a: "Beperkt. Er is GEEN nationale subsidie op thuisbatterijen in 2026. Sommige gemeenten geven €500-€1.500 (zie [thuisbatterij subsidie 2026 overzicht](/posts/thuisbatterij-subsidie-2026-overzicht/)). BTW-teruggave (21%) als je geen ondernemer bent: niet mogelijk. Tel dus geen subsidies in je ROI als je niet zeker weet."
+    a: 'Nauwelijks. Er is geen landelijke subsidie op thuisbatterijen: de ISDE dekt voor woningeigenaren alleen isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Sommige gemeenten of provincies hebben een eigen regeling; neem die alleen mee als je hem zwart-op-wit op de site van je eigen gemeente hebt gevonden. Btw-teruggaaf op de batterij is er voor particulieren niet.'
   - q: "Wat is een realistisch rendement?"
-    a: "Bij gemiddeld huishouden met dynamisch contract: 8-12% IRR over 10 jaar (vergelijkbaar met aandelen). Bij geen dynamisch contract: 4-7% IRR. Bij groot overschot + warmtepomp: tot 14% IRR. Belangrijk: dit is rendement-op-investering, niet alleen energiebesparing."
-  - q: "Mag ik dit aftrekken van belasting?"
-    a: "Niet direct. Wel via energie-investeringsaftrek (EIA) als ondernemer (zaakelijk). Voor particulieren: nee. Bij verkoop van het huis: een batterij verhoogt huiswaarde met €2.000-€4.000 (taxateurs-benchmark 2026)."
-products:
-  - name: "Marstek Venus E 8,2 kWh"
-    url: "https://go.duurzaamthuislab.nl/marstek"
-    price: "2299"
-  - name: "Sessy thuisbatterij 10 kWh"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "5500"
-  - name: "Tibber dynamisch contract"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "6"
-  - name: "Frank Energie dynamisch"
-    url: "https://go.duurzaamthuislab.nl/frank-energie"
-    price: "0"
+    a: 'Met de cashflows uit dit artikel komt de interne rentevoet over vijftien jaar uit op circa 6,7 procent bij een investering van €2.898, circa 3,9 procent bij €3.530 en negatief vanaf circa €4.850. Een thuisbatterij is dus geen belegging met een gegarandeerd rendement, maar een investering waarvan het resultaat volledig aan de inkoopprijs hangt. Dit is een modelberekening, geen financieel advies.'
+  - q: "Mag ik dit aftrekken van de belasting?"
+    a: 'Als particulier niet. Zakelijk kan de energie-investeringsaftrek (EIA) van toepassing zijn; die bedraagt in 2026 40 procent. Over een eventuele waardestijging van de woning door een thuisbatterij doen wij geen uitspraak: daar is geen publieke, controleerbare bron voor.'
 ---
-*Disclosure: de links naar Frank Energie, Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. De berekeningen hieronder zijn gebaseerd op publieke EPEX-data, fabrieksspecificaties en de vastgestelde afbouwpercentages van de salderingsregeling.*
+*Disclosure: de twee links in dit artikel — naar EcoFlow en naar Anker Solix — zijn affiliate-links via het AWIN-netwerk: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Sessy, Tibber en Frank Energie worden in de tekst genoemd maar niet commercieel gelinkt; met die partijen hebben wij geen commissierelatie. De berekeningen hieronder zijn gebaseerd op publieke EPEX-data, fabrikantspecificaties met peildatum en het feit dat de saldering per 1-1-2027 volledig stopt.*
 
-"Gaat een thuisbatterij mij ECHT geld opleveren, of doe ik het uit principe?" Dat is de vraag die telt, want een batterij is geen klein bedrag — €2.300 tot €6.000. En het rekenwerk dat installateurs in hun offertes laten zien is, eerlijk gezegd, vaak optimistisch tot misleidend.
+Gaat een thuisbatterij geld opleveren, of doe je het uit principe? Dat is de vraag die telt, want het gaat om €1.600 tot €10.000. En het rekenwerk in offertes zit vaak twee fouten in: het rekent met een afbouwpad dat niet bestaat, en het telt dezelfde kilowattuur twee keer.
 
-Dit artikel bevat een transparant rekenmodel: welke aannames erin gaan, en wat er uitkomt in vier doorgerekende scenario's. Aan het eind weet je hoe lang een batterij erover doet om zichzelf terug te verdienen onder de saldering-afbouw.
+Dit artikel bevat één transparant rekenmodel, vier doorgerekende scenario's en een IRR die uit diezelfde cashflows volgt. De uitkomst is minder rooskleurig dan wat je in verkoopgesprekken hoort, en dat is precies het punt.
 
----
+> **Kort antwoord:** De saldering stopt volledig op 1-1-2027. Vanaf dat moment is een batterij van 10 kWh in ons model €353 per jaar waard op een dynamisch contract. De terugverdientijd hangt daarna alleen nog aan wat je betaalt: 8,2 jaar bij €2.898, 18,4 tot 21,2 jaar bij €6.500 tot €7.500, bijna dertig jaar boven €10.000.
 
+## Twee inkomsten, niet drie — en één telfout die overal terugkomt
 
-> **Kort antwoord:** Bereken stap-voor-stap de ROI van een thuisbatterij na saldering 2027. Met 4 voorbeelden en exact rekenmodel voor jouw situatie.
->
-> Onder de afbouw-percentages (100% in 2026 → 0% in 2029) verdienen de meeste thuisbatterijen zich terug binnen 6-9 jaar als: jaarlijks overschot >2.500 kWh, dynamisch contract, 5-10 kWh capaciteit. Een Marstek Venus E (€2.299) verdient zich gemiddeld terug in 4-5 jaar. Een Sessy 10 kWh (€5.500 incl. btw, excl. installatie) in 5-7 jaar.
+Een batterij levert op twee manieren geld op. Veel calculators noemen er drie en tellen daarbij dezelfde kilowattuur dubbel.
 
-## De drie inkomsten van een thuisbatterij
+### De telfout
 
-Een batterij verdient geld op drie manieren. Niet één — drie. De meeste calculators rekenen alleen de eerste. Hieronder rekenen wij alle drie mee.
+De klassieke opzet is: (1) "je verhoogt je eigen verbruik met 1.980 kWh, dat is 1.980 × €0,26 = €515" en daarnaast (2) "je voorkomt saldering-verlies over diezelfde 1.980 kWh, dat is nog eens 1.980 × €0,19 = €376". Samen €891.
 
-### 1. Eigen verbruik verhogen
-Zonder batterij verbruik je gemiddeld 30% van je opwek direct ("self-consumption"). Met een 8-10 kWh batterij stijgt dat naar 75-90%.
+Dat is dubbeltelling. Het gaat om **dezelfde** kilowattuur, die je maar één keer kunt verzilveren. De juiste som is: die kWh levert je €0,26 op omdat je hem niet hoeft in te kopen, en kost je de terugleververgoeding die je misloopt omdat je hem niet teruglevert. Netto dus €0,26 − €0,07 = €0,19 per verschoven kWh, en niet €0,45. Correct je daarnaast voor het retourrendement van 90 procent, dan blijft er €0,182 over.
 
-**Wat is dat in geld?** Stel 4 kWp panelen × 900 kWh/kWp = 3.600 kWh opwek. Zonder batterij: 30% = 1.080 kWh eigen verbruik. Met 10 kWh batterij: 85% = 3.060 kWh eigen verbruik.
+Bovendien geldt dat verschil **alleen vanaf 1-1-2027**. Zolang de saldering nog loopt, is teruggeleverde stroom net zoveel waard als afgenomen stroom en levert verschuiven vrijwel niets op.
 
-Verschil: 1.980 kWh extra direct gebruikt. Bij €0,32 inkoopprijs = €634 besparing per jaar.
+### Inkomst 1: zonverschuiving (vanaf 1-1-2027)
 
-### 2. Saldering-bescherming na 2027
+Je slaat overdag overschot op en gebruikt het 's avonds zelf. Waarde per verschoven kWh: het leveringstarief minus de gemiste terugleververgoeding, gecorrigeerd voor het retourrendement.
 
-Vanaf 2027 daalt saldering. Stroom die je terugleeft is straks geen €0,32/kWh meer waard, maar €0,08/kWh.
+### Inkomst 2: netarbitrage (alleen met een dynamisch contract)
 
-**Wat verlies je zonder batterij?** Je 2.520 kWh overschot wordt:
-- 2026: 100% gesaldeerd = €806 vergoeding
-- 2027: 64% saldering + 36% terugleverprijs = €516 + €72 = €588
-- 2028: 28% + 72% = €226 + €145 = €371
-- 2029: 0% + 100% terugleverprijs = €202
-
-Verlies in 2029 t.o.v. 2026: €604/jaar.
-
-**Met batterij:** je overschot is gedaald van 2.520 naar 540 kWh (omdat je nu 85% direct verbruikt). Verlies door saldering-stop: 540 × (€0,32 - €0,08) = €130/jaar.
-
-Voorkomen verlies door batterij: €604 - €130 = **€474/jaar bespaard** vanaf 2029.
-
-### 3. Energie-arbitrage met dynamisch contract
-
-Met dynamisch contract koop je goedkoop in (nacht: €0,06-€0,12/kWh + €0,1316 belasting + BTW = €0,24/kWh effectief) en verbruik je tijdens piek (avond: €0,30-€0,55/kWh effectief).
-
-**Realistisch:** 4-6 kWh/dag arbitrage × €0,15/kWh marge = €0,60-€0,90/dag = **€220-€330/jaar**.
-
-Lees [dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/) voor de volledige strategie.
-
-### Totaal jaarlijks rendement
-
-Voor gemiddeld huishouden (4 kWp, 3.500 kWh verbruik, 10 kWh batterij, dynamisch contract):
-- Eigen verbruik: +€420/jaar
-- Saldering-bescherming (2029+): +€470/jaar
-- Energie-arbitrage: +€280/jaar
-
-**Totaal vanaf 2029: ~€1.170/jaar**
-
-Voor 2026-2028 lager (saldering-bescherming begint pas 2027 en groeit). Gemiddeld over 10 jaar: ~€900/jaar.
+In het winterhalfjaar, wanneer er geen zonoverschot is, kun je laden op goedkope uren en ontladen op dure. Dat vergt uurprijzen én automatische aansturing. Zie [dynamische energiecontracten en thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/) voor de strategie.
 
 ---
 
-## Stap-voor-stap rekenmodel
+## Het rekenmodel
 
-Hier is hoe je het zelf doet voor jouw situatie.
+Dit is een **modelberekening met expliciete aannames**, geen prognose en geen advies. Peildatum 21 augustus 2026.
 
-### Stap 1: bereken jaarlijkse opwek
+| Aanname | Waarde | Toelichting |
+|---|---|---|
+| Jaaropbrengst zonnepanelen | 900 kWh per kWp | Nederlands gemiddelde, zuid of oost-west |
+| Direct eigen verbruik zonder batterij | 30% van de opbrengst | 20-25% als er overdag niemand thuis is, 40-50% met warmtepomp of EV die overdag afneemt |
+| Leveringstarief stroom | **€0,26 per kWh** all-in incl. btw | Opgebouwd als (EPEX 2025 €0,105 + opslag-aanname €0,02 + energiebelasting €0,09161) × 1,21 |
+| Terugleververgoeding vanaf 2027 | **€0,07 per kWh (aanname)** | Nog door geen enkele leverancier gepubliceerd; expliciet een aanname, geen tarief |
+| Verschuifbaar volume batterij | capaciteit × 150 volle cycli per jaar | Begrensd door je overschot en door je avondverbruik. 10 kWh geeft circa 1.500 kWh per jaar |
+| Retourrendement | 90% | Om 1.500 kWh te leveren laad je 1.667 kWh in |
+| Netarbitrage | €8 per kWh capaciteit per jaar | Circa 100 extra wintercycli tegen €0,10 netto spreiding na omzetverliezen. Die spreiding is een marktgrootheid en hangt niet aan het all-in tarief. Alleen met dynamisch contract |
+| Netbeheerkosten | buiten het model | Vast capaciteitstarief per jaar, verandert niet door een batterij |
+| Degradatie | naar 80% restcapaciteit in 15 jaar, lineair | Conform de gangbare fabrieksgarantie |
 
-Opwek = kWp × 900 kWh/kWp/jaar (NL gemiddelde, oost-west of zuid)
-Bij ongunstige oriëntatie (noord, schaduw): × 700-800.
+**Basisformule per jaar, vanaf 1-1-2027:**
 
-### Stap 2: bereken jaarlijks overschot zonder batterij
+> waarde = (verschoven kWh × leveringstarief) − (ingeladen kWh × terugleververgoeding) + netarbitrage
 
-Eigen verbruik fractie zonder batterij:
-- Niemand thuis overdag: 20-25%
-- Thuiswerker: 30-35%
-- Warmtepomp + EV overdag: 40-50%
+Voor een batterij van 10 kWh: 1.500 × €0,26 − 1.667 × €0,07 + €80 = €390 − €117 + €80 = **€353 per jaar**. Bij een terugleververgoeding van €0,05 wordt dat €387, bij €0,10 wordt het €303.
 
-Overschot = Opwek × (1 - eigen verbruik fractie)
+### Zelf doorrekenen in zeven stappen
 
-### Stap 3: bereken saldering-verlies per jaar
+1. **Opwek** = kWp × 900 kWh. Bij noordligging of schaduw: × 700 tot 800.
+2. **Direct eigen verbruik** = opwek × jouw fractie (30% als je het niet weet; haal je echte fractie uit je P1-data).
+3. **Overschot** = opwek − direct eigen verbruik. **Afname van het net** = verbruik − direct eigen verbruik.
+4. **Verschuifbaar** = het laagste van: capaciteit × 150, je overschot × 0,9, en je afname.
+5. **Ingeladen** = verschuifbaar ÷ 0,9.
+6. **Jaarwaarde** = verschuifbaar × €0,26 − ingeladen × €0,07, plus €8 per kWh capaciteit als je een dynamisch contract hebt.
+7. **Terugverdientijd** = totale investering incl. btw en installatie ÷ jaarwaarde.
 
-| Jaar | Saldering % | Verlies per kWh overschot |
-|------|-------------|----------------------------|
-| 2026 | 100% | €0 |
-| 2027 | 64% | €0,086 |
-| 2028 | 28% | €0,173 |
-| 2029+ | 0% | €0,240 |
-
-Verlies/jaar = Overschot × verlies per kWh
-
-### Stap 4: kies batterij-grootte en prijs
-
-| Capaciteit | Prijs (gemiddeld) | Voor wie |
-|------------|-------------------|----------|
-| 5 kWh | €1.799-€3.550 | <2.500 kWh overschot |
-| 8 kWh | €2.299-€4.500 | 2.500-4.000 kWh overschot |
-| 10 kWh | €4.500-€5.500 | 4.000-5.500 kWh overschot |
-| 16 kWh | €4.098-€8.500 | >5.500 kWh overschot, warmtepomp |
-
-### Stap 5: bereken nieuwe eigen verbruik fractie
-
-Vuistregel batterij-effect:
-- 5 kWh: +30-35 procentpunt
-- 8 kWh: +40-45 procentpunt
-- 10 kWh: +50-55 procentpunt
-- 16 kWh: +60-65 procentpunt
-
-Plafond: ~95% (een batterij vult zich nooit perfect).
-
-### Stap 6: bereken totaal voordeel
-
-Voordeel/jaar = (extra eigen verbruik × €0,32) + (verminderd verlies × € verschil) + arbitrage
-
-### Stap 7: terugverdientijd
-
-Terugverdientijd = batterij-prijs / voordeel per jaar
-
-Lees [thuisbatterij terugverdientijd berekenen 2026](/posts/thuisbatterij-terugverdientijd-berekenen-2026/) voor uitgebreide handleiding.
+Wil je dit niet met de hand doen: de [saldering calculator 2027](/posts/saldering-calculator-2027-volledig/) rekent exact dit model door. Voor de bredere vergelijking, zie [thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/).
 
 ---
 
-## 4 doorgerekende scenario's
+## Welke prijzen zijn publiek geverifieerd?
 
-### Scenario A: klein huishouden, geen batterij vs Marstek Venus A 5 kWh
+Alleen met een gepubliceerde prijs kun je een eerlijke ROI rekenen. Stand van zaken op 21-8-2026:
 
-- Verbruik: 2.500 kWh
-- Panelen: 3 kWp = 2.700 kWh opwek
-- Eigen verbruik (zonder batterij): 30% = 810 kWh
-- Overschot: 1.890 kWh
+| Systeem | Capaciteit | Prijs incl. btw, excl. installatie | Bron |
+|---|---|---|---|
+| EcoFlow STREAM AC 5000 | 5 kWh, 3.000 W | €1.599 | nl.ecoflow.com |
+| EcoFlow uitbreidingsaccu 5000 | +5 kWh | €1.299 | nl.ecoflow.com |
+| Sessy | 5 kWh | €3.550 | fabrikant (Charged, Andelst) |
+| Sessy | 10 kWh | €5.500 | fabrikant |
+| Sessy Plus | 15 kWh | €9.400 | fabrikant |
 
-**Zonder batterij — verlies tegen 2029:** 1.890 × €0,24 = €454/jaar
-**Met Marstek Venus A 5 kWh (€1.799):** eigen verbruik stijgt naar 60% = 1.620 kWh, overschot daalt naar 1.080 kWh. Verlies: €259/jaar. Plus extra zelf-verbruik 810 kWh × €0,32 = €259/jaar.
+Sessy rekent daarnaast €1.200 voor een noodstroom-basisinstallatie; laad- en ontlaadvermogen zijn 2,2 respectievelijk 1,7 kW en de fabrikant geeft 6.000+ cycli op.
 
-**Voordeel/jaar:** (€454 - €259) + €259 = €454/jaar (zonder dynamisch contract).
-**Terugverdientijd:** €1.799 / €454 = **4,0 jaar**.
+Voor Marstek geldt dat de fabrikant maar één consumentenprijs publiceert (de Jupiter C Plus voor €599); voor de Venus- en E-lijn publiceert Marstek geen consumentenprijs, en de Nederlandse webshop staat op "coming soon". Wij nemen daarom geen Marstek-prijzen in dit model op. Datzelfde geldt voor Huawei, BYD en SolarEdge: die publiceren geen consumentenprijzen, alleen installateurs doen dat in een offerte.
 
-✅ Rendabel. Marstek Venus A is zelfs voor klein huishouden interessant.
+Een tweede plug-in aanbieder met een Nederlandse winkel is Anker Solix. Op ankersolix.com/nl staat de Solarbank Max AC met 7 kWh en 3.500 W, uitbreidbaar tot 42 kWh (opgehaald 21-8-2026). Een vaste consumentenprijs publiceert Anker daar niet op de overzichtspagina — die staat per configuratie op de productpagina en wisselt met acties. Vul dus het bedrag in dat je op het bestelmoment ziet, en niet een actieprijs die inmiddels verlopen is.
 
-### Scenario B: gemiddeld huishouden, Sessy 10 kWh
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="sponsored nofollow noopener" target="_blank">Bekijk de actuele EcoFlow-prijzen</a>
 
-- Verbruik: 3.500 kWh
-- Panelen: 4,5 kWp = 4.050 kWh opwek
-- Eigen verbruik (zonder): 30% = 1.215 kWh
-- Overschot: 2.835 kWh
-
-**Met Sessy 10 kWh (€5.500 incl. btw, excl. installatie):** eigen verbruik stijgt naar 85% = 3.443 kWh (dus volledig verbruik gedekt + nog overschot 607 kWh). 
-- Extra zelf-verbruik: 2.228 kWh × €0,32 = €713/jaar
-- Saldering-bescherming overschot: van 2.835 naar 607 kWh = bespaarde verlies van 2.228 × €0,24 = €535/jaar
-- Arbitrage met Tibber: €280/jaar
-
-**Voordeel:** €713 + €535 (vanaf 2029) + €280 = €1.528/jaar (volle saldering-stop). Gemiddeld over 10 jaar: €1.150/jaar.
-**Terugverdientijd:** €5.500 / €1.150 = **4,8 jaar** (modelberekening).
-
-✅ Rendabel.
-
-### Scenario C: zware verbruiker met warmtepomp + EV, Marstek modulair 16 kWh
-
-- Verbruik: 7.500 kWh (warmtepomp 3.000 + EV 2.500 + huishouden 2.000)
-- Panelen: 8 kWp = 7.200 kWh opwek
-- Eigen verbruik (zonder): 40% = 2.880 kWh (warmtepomp + EV verbruiken al overdag)
-- Overschot: 4.320 kWh
-
-**Met Marstek 16 kWh (€4.098):** eigen verbruik stijgt naar 92% = 6.624 kWh.
-- Extra zelf-verbruik: 3.744 kWh × €0,32 = €1.198/jaar
-- Saldering-bescherming: 3.744 × €0,24 = €899/jaar (vanaf 2029)
-- Arbitrage: €420/jaar
-
-**Voordeel volle saldering-stop:** €2.517/jaar. Gemiddeld over 10 jaar: €1.700/jaar.
-**Terugverdientijd:** €4.098 / €1.700 = **2,4 jaar**. 
-
-✅✅✅ Zeer rendabel. Bij dit profiel is een batterij geen kwestie van of, maar van wanneer.
-
-### Scenario D: zonnepanelen, geen batterij, géén dynamisch contract
-
-- Verbruik: 4.000 kWh
-- Panelen: 5 kWp = 4.500 kWh
-- Geen batterij (basis-scenario)
-- Vast contract €0,34/kWh
-
-**Verlies door saldering-stop:** Overschot 3.150 kWh × €0,26 = €820/jaar (in 2029).
-
-Stel je koopt nu (augustus 2026) een Sessy 10 kWh voor €5.500 (incl. btw, excl. installatie), GEEN dynamisch contract:
-- Eigen verbruik: 30% → 85%
-- Extra zelf-verbruik: 2.475 kWh × €0,34 = €842/jaar
-- Saldering-bescherming: 2.475 × €0,26 = €643/jaar (vanaf 2029)
-- Arbitrage: €0 (geen dynamisch contract)
-
-**Voordeel:** €1.485/jaar volle stop. Gemiddeld 10 jaar: €1.080.
-**Terugverdientijd:** €5.500 / €1.080 = **5,1 jaar** (modelberekening).
-
-⚠️ Rendabel maar suboptimaal. Met dynamisch contract zou dit 4,5 jaar zijn. Stap dus over (zie [Tibber review](/posts/tibber-review-ervaringen-2026/) of [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/)).
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" rel="sponsored nofollow noopener" target="_blank">Bekijk de actuele Anker Solix-prijzen</a>
 
 ---
 
-## IRR-berekening (interne rentevoet)
+## Vier doorgerekende scenario's
 
-Beleggings-mensen denken in IRR, niet terugverdientijd. Voor de gemiddelde Sessy 10 kWh investering:
-- Investering: €5.500
-- Cashflow jaar 1-3: €700-€900/jaar (saldering nog deels)
-- Cashflow jaar 4-15: €1.200-€1.500/jaar (volle saldering-stop)
-- Restwaarde jaar 15: €0-€500 (afgeschreven)
+Alle vier vanaf 1-1-2027, met €0,26 all-in leveringstarief en de terugleververgoeding-aanname van €0,07, tenzij anders vermeld.
 
-**IRR berekenen** (in Excel met `=IRR(cashflows)`):
-- Cashflow array: [-5500, 700, 850, 1000, 1200, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300, 1300]
-- IRR: 17,8% (modelberekening)
+### Scenario A: klein huishouden, 5 kWh plug-in
 
-Vergelijking:
-- Spaarrekening 2026: 1,5%
-- Aandelenfonds (gemiddeld): 7%
-- Hypotheek aflossen (4,2%): 4,2% rendement
-- Thuisbatterij: 17,8%
+- Verbruik 2.500 kWh · 3 kWp (2.700 kWh opwek)
+- Direct eigen verbruik 810 kWh · overschot 1.890 kWh · afname 1.690 kWh
+- Verschuifbaar: het laagste van 5 × 150 = 750, 1.890 × 0,9 = 1.701 en 1.690 → **750 kWh**
+- Ingeladen: 833 kWh
 
-Een thuisbatterij is in 2026 één van de hoogste-rendement investeringen die een particulier kan doen — onder voorwaarde van dynamisch contract en realistische verbruikspatroon.
+**Jaarwaarde:** 750 × €0,26 − 833 × €0,07 = €195 − €58 = **€137**, plus €40 arbitrage met een dynamisch contract = **€177**.
+
+**Terugverdientijd** bij €1.599 (EcoFlow STREAM AC 5000): €1.599 / €177 = **9,0 jaar**. Zonder dynamisch contract: 11,7 jaar.
+
+Grensgeval, en het is de aanschafprijs die het kantelt: bij een vast systeem van €3.550 wordt dit 20,1 jaar.
+
+### Scenario B: gemiddeld huishouden, 10 kWh
+
+- Verbruik 3.500 kWh · 4,5 kWp (4.050 kWh opwek)
+- Direct eigen verbruik 1.215 kWh · overschot 2.835 kWh · afname 2.285 kWh
+- Verschuifbaar: het laagste van 1.500, 2.552 en 2.285 → **1.500 kWh**
+- Ingeladen: 1.667 kWh
+
+**Jaarwaarde:** 1.500 × €0,26 − 1.667 × €0,07 = €390 − €117 = **€273**, plus €80 arbitrage = **€353**.
+
+| Investering | Systeem | Terugverdientijd |
+|---|---|---|
+| €2.898 | EcoFlow STREAM AC 5000 + uitbreidingsaccu, plug-in | 8,2 jaar |
+| €5.500 | Sessy 10 kWh, excl. installatie | 15,6 jaar |
+| €7.000 | Vast ingebouwd systeem incl. installatie | 19,8 jaar |
+| €10.500 | 13,5 kWh all-in-one incl. installatie | 29,7 jaar |
+
+De extra capaciteit boven 10 kWh helpt in dit profiel niet: het verschuifbare volume zit al tegen de grens van wat er 's zomers over is.
+
+### Scenario C: warmtepomp en EV, 15 kWh
+
+- Verbruik 7.500 kWh (warmtepomp 3.000 + EV 2.500 + huishouden 2.000) · 8 kWp (7.200 kWh opwek)
+- Direct eigen verbruik 40% = 2.880 kWh (warmtepomp en EV nemen al overdag af) · overschot 4.320 kWh · afname 4.620 kWh
+- Verschuifbaar: het laagste van 15 × 150 = 2.250, 3.888 en 4.620 → **2.250 kWh**
+- Ingeladen: 2.500 kWh
+
+**Jaarwaarde:** 2.250 × €0,26 − 2.500 × €0,07 = €585 − €175 = **€410**, plus €120 arbitrage = **€530**.
+
+Dit is het gunstigste profiel van de vier, omdat er zowel veel overschot als veel avondverbruik is. Toch: bij een Sessy Plus 15 kWh van €9.400 excl. installatie is de terugverdientijd **17,7 jaar**. Bij drie gekoppelde EcoFlow-modules van samen 15 kWh (€1.599 + 2 × €1.299 = €4.197) is het **7,9 jaar**.
+
+Ook hier is de conclusie dus niet "een batterij loont bij dit profiel", maar "bij dit profiel loont een goedkope batterij".
+
+### Scenario D: geen dynamisch contract
+
+Zelfde profiel als B, maar met een vast contract van €0,34 per kWh en dus geen arbitrage.
+
+**Jaarwaarde:** 1.500 × €0,34 − 1.667 × €0,07 = €510 − €117 = **€393**.
+
+Interessant detail: het hogere leveringstarief compenseert het wegvallen van de arbitrage ruim (€393 tegenover €353). Wie een duur vast contract heeft, verliest dus niets aan het missen van arbitrage — het tarief zelf weegt zwaarder. Wat een dynamisch contract oplevert is optionaliteit, niet een hoger rendement per definitie.
+
+**Terugverdientijd** bij €5.500: 14,0 jaar. Bij €2.898: 7,4 jaar.
 
 ---
 
-## Wanneer is een batterij NIET rendabel?
+## IRR: wat het model over vijftien jaar oplevert
 
-❌ **Verbruik <2.000 kWh + geen zonnepanelen**: nooit rendabel. Geen overschot, geen arbitrage-volume.
+Terugverdientijd negeert de tijdswaarde van geld. Voor wie in rendement denkt, hier dezelfde cashflows uitgedrukt als interne rentevoet.
 
-❌ **Zonnepanelen <2,5 kWp**: te weinig opwek voor batterij-vulling.
+**Cashflow-aannames**, voor het profiel uit scenario B:
+- Jaar 1 (2026): €80. De saldering loopt nog, dus alleen arbitrage telt mee
+- Jaar 2 (2027): €353, daarna jaarlijks dalend met de degradatie tot €282 in jaar 16
+- Restwaarde na 15 jaar: €0
+- Geen onderhoudskosten meegerekend; zie de kanttekening hieronder
 
-❌ **Vast 5-jarig contract op laag tarief (€0,22/kWh)**: arbitrage-marge te klein.
+**Uitkomst:**
 
-❌ **Plan om over <5 jaar te verhuizen**: verkoopwaarde batterij dekt niet investering.
+| Investering | Cumulatief na 15 jaar | Interne rentevoet |
+|---|---|---|
+| €2.898 (plug-in 10 kWh) | + €1.945 | circa 6,7% |
+| €3.530 (grens voor 10 jaar terugverdientijd) | + €1.313 | circa 3,9% |
+| €4.197 (3× EcoFlow-module, 15 kWh) | + €646 | circa 1,7% |
+| €5.500 (Sessy 10 kWh, excl. installatie) | − €657 | circa −1,4% |
+| €6.500 (Sessy 10 kWh + installatie) | − €1.657 | circa −3,3% |
+| €7.000 (vast systeem incl. installatie) | − €2.157 | circa −4,0% |
 
-❌ **Geen P1-meter beschikbaar**: noodzakelijk voor smart charging.
+De totale opbrengst over vijftien jaar bedraagt in dit model **€4.843**. Dat getal is het break-evenpunt: elke investering daarboven levert over vijftien jaar per saldo geld in. Let op: de €4.197-rij gaat over een systeem van 15 kWh en heeft dus een hogere jaarwaarde (€530); de IRR daar is niet met de andere rijen te vergelijken zonder dat mee te wegen.
 
-Lees [batterij na 2027 zonder zonnepanelen zin 2026](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/) voor het edge-case.
+**Kanttekeningen bij deze IRR.** Het model veronderstelt vijftien jaar lang een stabiel leveringstarief, een stabiele prijsspreiding en geen vervangings- of reparatiekosten. Een omvormer die na twaalf jaar vervangen moet worden (€600 tot €900) drukt het rendement, net als een eventuele premieopslag op de opstalverzekering. Vraag je verzekeraar wat een thuisbatterij in jouw polis doet; dat verschilt per maatschappij en wij noemen daar geen bedrag bij.
 
----
-
-## Risico's
-
-**Risico 1 — wetwijziging**
-Eerste Kamer kan saldering-afbouw nog vertragen. Mocht saldering tot 2030 of later geheel blijven: ROI 30-50% lager. Volg [salderingsregeling afbouw 2026](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/).
-
-**Risico 2 — stroomprijs daalt**
-Bij stroomprijs €0,22 (i.p.v. €0,32): voordeel daalt 30%. Onwaarschijnlijk vanwege netcongestie en CO2-tax.
-
-**Risico 3 — batterij defect**
-LFP-batterijen gaan 6.000+ cycli mee. Bij dagelijks gebruik = 16+ jaar. Garantie 10 jaar.
-
-**Risico 4 — fabrikant gaat failliet**
-Marstek of Sessy faillissement: hardware blijft werken, maar geen support meer. Vermijd via Home Assistant integratie (lokale controle).
+Wat deze tabel vooral laat zien: een thuisbatterij is geen belegging met een voorspelbaar rendement. Het is een investering waarvan de uitkomst bijna volledig aan de inkoopprijs hangt.
 
 ---
 
-## Stappenplan: ga je het doen?
+## Wanneer een batterij níet uitkomt
 
-1. **Bereken** je overschot via [saldering calculator 2027](/posts/saldering-calculator-2027-volledig/) (of bovenstaand model).
-2. **Kies maat** (5/8/10/16 kWh) op basis van overschot.
-3. **Kies merk** via [Sessy vs Marstek vergelijking 2026](/posts/sessy-vs-marstek-vergelijking-2026/) en [10 kWh thuisbatterij vergelijking](/posts/thuisbatterij-10-kwh-vergelijking-2026/).
-4. **Kies dynamisch contract** via [beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/).
-5. **Vraag offertes** (bij Marstek: rechtstreeks; bij Sessy: via website).
-6. **Check gemeentelijke subsidie** ([thuisbatterij subsidie 2026](/posts/thuisbatterij-subsidie-2026-overzicht/)).
-7. **Installeer + configureer** (volg [thuisbatterij buiten vs binnen installeren 2026](/posts/thuisbatterij-buiten-vs-binnen-installeren-2026/)).
-8. **Monitor** maandelijks of voorspelde besparing klopt.
+- **Weinig teruglevering.** Onder circa 1.200 kWh per jaar staat de batterij het grootste deel van het jaar stil en loopt de terugverdientijd hard op.
+- **Weinig avondverbruik.** Kun je de batterij 's avonds niet leegtrekken, dan is de capaciteit die je koopt niet inzetbaar.
+- **Zonnepanelen onder 2,5 kWp.** Te weinig overschot om de batterij te vullen.
+- **Een systeem boven circa €3.530 als het je puur om rendement gaat.** Boven dat bedrag komt de terugverdientijd buiten de garantietermijn van tien jaar te liggen, en boven €4.843 komt hij over de volle vijftien jaar niet uit.
+- **Verhuisplannen binnen vijf jaar.** Wat een batterij bij verkoop oplevert, is niet te onderbouwen met publieke data; ga er niet van uit dat je de restwaarde terugziet.
+- **Geen P1-poort of geen slimme aansturing.** Zonder meetdata en sturing komt de arbitragecomponent niet van de grond.
+
+Voor de randgevallen, zie [heeft een batterij na 2027 zin zonder zonnepanelen](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/).
+
+---
+
+## Risico's in dit model
+
+**Risico 1 — de terugleververgoeding valt anders uit.** Dit is de grootste onzekerheid, en de €0,07 waarmee wij rekenen is expliciet een aanname. Bij €0,05 stijgt de jaarwaarde in scenario B naar €387, bij €0,10 zakt hij naar €303. Zodra jouw leverancier voor 2027 een tarief publiceert, reken het model opnieuw door.
+
+**Risico 2 — het leveringstarief daalt.** Bij €0,22 in plaats van €0,26 zakt de jaarwaarde in scenario B van €353 naar €293, en loopt de terugverdientijd bij €2.898 op naar 9,9 jaar.
+
+**Risico 3 — terugleverkosten.** Rekent je leverancier vanaf 2027 terugleverkosten, dan valt een batterij juist gunstiger uit dan hier berekend, omdat je die post deels vermijdt. Welke leveranciers dat nu doen, houden wij bij op [terugleverkosten vergelijken](/terugleverkosten-vergelijken/). Voor 2027 is er nog niets gepubliceerd, dus het zit niet in het model.
+
+**Risico 4 — technische levensduur.** LFP-batterijen halen volgens fabrieksopgave 6.000 cycli of meer tot 70 à 80 procent restcapaciteit. In dit model doet de batterij circa 250 cycli per jaar, dus die 6.000 zijn niet de beperkende factor. De garantietermijn in jaren is dat wel.
+
+---
+
+## Stappenplan
+
+1. **Bereken je overschot** met de [saldering calculator 2027](/posts/saldering-calculator-2027-volledig/) of met de zeven stappen hierboven.
+2. **Kies de capaciteit** op je verschuifbare volume, niet op je dakoppervlak. Capaciteit die je niet dagelijks vult, verdient niets terug.
+3. **Vergelijk op prijs per kWh**, want dat is de variabele die de uitkomst bepaalt. Zie [Sessy versus Marstek](/posts/sessy-vs-marstek-vergelijking-2026/) en [10 kWh thuisbatterij vergelijking](/posts/thuisbatterij-10-kwh-vergelijking-2026/).
+4. **Beslis over een dynamisch contract.** Zie [beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) en onze [vergelijker van dynamische contracten](/dynamisch-energiecontract-vergelijken/). Tibber kost €5,99 per maand per energiesoort plus €0,0248 per kWh inkoopvergoeding; Frank Energie rekent een inkoopvergoeding én een terugleverstaffel en publiceert zijn vaste kosten niet.
+5. **Vraag offertes op** en vul het werkelijke bedrag in het model in.
+6. **Check je gemeente** op een eigen regeling; zie [thuisbatterij subsidie 2026 overzicht](/posts/thuisbatterij-subsidie-2026-overzicht/). Reken geen landelijke subsidie in.
+7. **Installeer en monitor** — zie [thuisbatterij buiten versus binnen installeren](/posts/thuisbatterij-buiten-vs-binnen-installeren-2026/) — en controleer na een jaar of de verschoven kWh overeenkomen met de aanname van 150 cycli.
+
+---
+
+## Btw, ISDE en gemeentelijke regelingen
+
+Een thuisbatterij is **niet ISDE-subsidiabel**. De ISDE voor woningeigenaren geldt volgens RVO uitsluitend voor isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een aansluiting op een warmtenet en elektrisch koken. Batterijen, zonnepanelen en laadpalen staan er niet op. Sommige gemeenten hebben een eigen duurzaamheidssubsidie of -lening waar een batterij onder kan vallen; die regelingen wisselen per gemeente en per jaar, en sommige eisen een aanvraag vóór installatie. Check de actuele regeling op de site van je eigen gemeente vóór je tekent.
+
+Op een thuisbatterij betaal je **21 procent btw**. Het 0-procentstarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij, ook niet als je de batterij samen met panelen koopt. Een Sessy van €5.500 bevat dus €954 aan btw. In specifieke gevallen kun je die btw terugvragen als je als btw-ondernemer stroom teruglevert; de Belastingdienst stelt daarbij voorwaarden, waaronder een energiemanagementsysteem en een dynamisch contract, en over de terugleververgoeding draag je dan 21 procent btw af. Behandel dat niet als standaardvoordeel: in onze modellen rekenen wij met de volledige prijs inclusief btw.
+
+Over plaatsingseisen: er bestaat geen algemene eis in het Besluit bouwwerken leefomgeving (Bbl, sinds 1-1-2024 de opvolger van het Bouwbesluit) dat een batterij boven 5 kWh in een aparte ruimte moet staan. Wat er wél kan spelen, zijn voorwaarden van je eigen verzekeraar en de eisen die de fabrikant in de installatiehandleiding stelt. Vraag bij de offerte expliciet welke norm de installateur hanteert en welke documentatie je krijgt.
+
+---
+
+## Veelgemaakte fouten in ROI-berekeningen
+
+1. **Rekenen met een afbouwpad.** Reeksen als 64/28/0 procent of 73/64/55/46 procent horen bij verworpen wetsvoorstellen. De saldering stopt in één keer op 1-1-2027. Wie met tussenstappen rekent, komt voor 2027 tot en met 2030 te gunstig uit.
+2. **Dezelfde kWh dubbel tellen.** "Extra eigen verbruik" én "voorkomen saldering-verlies" over dezelfde kilowattuur optellen verdubbelt de uitkomst ten onrechte. Zie de uitleg bovenaan dit artikel.
+3. **Rekenen met een eigen-verbruikfractie in plaats van met cycli.** "Eigen verbruik stijgt naar 85 procent" overschat wat een batterij in de winter kan. Reken met verschuifbaar volume: capaciteit × cycli, begrensd door overschot en avondverbruik.
+4. **De inkoopvergoeding van je dynamische contract vergeten.** Tibber rekent €0,0248 per kWh bovenop de uurprijs, plus €5,99 per maand per energiesoort. Dat drukt de arbitragemarge en daarmee de €8 per kWh capaciteit waarmee wij rekenen.
+5. **Subsidie inrekenen die niet bestaat.** De ISDE dekt geen thuisbatterijen. Een gemeentelijke regeling telt alleen mee als je hem zwart-op-wit hebt gevonden.
+6. **Btw-teruggaaf inrekenen op de batterij.** Het 0-procentstarief geldt niet voor accupakketten, ook niet bij gelijktijdige aanschaf met panelen.
+7. **Installatie en randkosten weglaten.** Een vast systeem heeft een installateur nodig; een plug-in systeem van 3.000 W mogelijk een aparte groep. Reken met de totaalprijs.
+8. **Vervangingskosten negeren.** Een omvormer die na twaalf jaar aan vervanging toe is, hoort in de cashflow.
 
 ---
 
 ## Conclusie
 
-ROI-berekening voor een thuisbatterij in 2026 is geen marketing-trucje. De getallen kloppen — voor de meeste huishoudens met overschot >2.000 kWh en dynamisch contract verdient een batterij zich terug in 4-7 jaar. Bij zware verbruikers (warmtepomp + EV): 2-4 jaar.
+De ROI van een thuisbatterij is in 2026 goed uit te rekenen, maar alleen als je twee dingen goed doet: rekenen met de harde stop op 1-1-2027 in plaats van met een afbouwpad, en dezelfde kilowattuur niet twee keer meetellen.
 
-Maar: zonder dynamisch contract daalt rendement met 30-40%. Zonder voldoende overschot wordt het marginal. Reken eerst, koop dan.
+Doe je dat, dan komt de jaarwaarde voor een gangbaar profiel met 10 kWh uit op €353 met een dynamisch contract en €273 zonder. Dat betekent: rendabel binnen de garantietermijn bij een investering onder circa €3.530, en daarboven een investering die je vooral maakt voor onafhankelijkheid, noodstroom of het opvangen van de saldering-stop — niet voor het rendement.
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Probeer Tibber →</a>
+Reken eerst met je eigen offertebedrag, koop daarna.
 
 *Vragen over jouw berekening? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
@@ -327,71 +291,6 @@ Maar: zonder dynamisch contract daalt rendement met 30-40%. Zonder voldoende ove
 - [Dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/)
 - [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
 - [Thuisbatterij subsidie 2026 overzicht](/posts/thuisbatterij-subsidie-2026-overzicht/)
-
-## NL-specifiek: BTW, ISDE en gemeentelijke regelingen
-
-Een thuisbatterij is niet ISDE-subsidiabel. De ISDE voor woningeigenaren geldt volgens RVO uitsluitend voor isolatie, ventilatie (in combinatie met isolatie, vanaf 2026), (hybride) warmtepompen, zonneboilers, een aansluiting op een warmtenet en elektrisch koken. Batterijen, zonnepanelen en laadpalen staan er niet op. Wel hebben sommige gemeenten een eigen duurzaamheidssubsidie of -lening waar een batterij onder kan vallen; die regelingen wisselen per gemeente en per jaar. Check de actuele regeling op je gemeente-website voor je een offerte tekent — sommige eisen een aanvraag vóór installatie.
-
-Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Een Sessy van €5.500 is dus inclusief €954 btw. In specifieke gevallen kun je die btw wél terugvragen als je als btw-ondernemer stroom teruglevert; de Belastingdienst stelt daarbij voorwaarden, waaronder een energiemanagementsysteem en een dynamisch contract, en over de terugleververgoeding draag je dan 21% btw af. Zie belastingdienst.nl voor de exacte voorwaarden en behandel dit niet als een standaardvoordeel: in onze modellen rekenen we met de volledige prijs inclusief btw.
-
-Bouwbesluit eist sinds 2024 dat batterijen >5 kWh in een aparte ruimte of buitenkast worden geplaatst, met minimaal 1m afstand tot brandbare materialen. Sommige verzekeraars willen ook een SCIOS Scope 12 keuring (€280) voor je polis dekt. Tip: vraag bij offerte expliciet of de installateur Scope 12 levert — bij ongeveer een derde van de installaties wordt dit "vergeten".
-
-## Veelgemaakte fouten in ROI-berekeningen
-
-1. **Vergeten dat saldering nog 64% geldt in 2027.** Veel calculators rekenen al met 0% saldering vanaf 2027 — dat is fout. Pas in 2029 is saldering volledig weg.
-2. **Onderhoud niet meerekenen.** Inverter vervangen na 12 jaar (€600-€900) is realistisch en moet uit de cashflow komen.
-3. **Te optimistische cycli aannemen.** Marketing rekent met 6.000 cycli, maar bij dagelijks volle laad/ontlaad inclusief winter-arbitrage haal je vaak 5.000 cycli voor 80% capaciteit.
-4. **Belasting-stijging negeren.** Energiebelasting stijgt sinds 2020 jaarlijks 2-4% boven inflatie. Rendement is dus optimistisch als je met huidige €0,32/kWh rekent voor 2030.
-5. **Verzekering vergeten.** Opstal-premie stijgt bij thuisbatterij gemiddeld €25-€60/jaar. Lijkt klein maar over 15 jaar is dat €375-€900 minder rendement.
-
-## Wanneer NIET een batterij kopen?
-
-Sla een batterij over als je verbruik onder de 2.000 kWh ligt en je geen zonnepanelen hebt — er is dan geen overschot om op te slaan en geen significant arbitrage-volume. Bij verhuisplannen binnen 5 jaar: de installatie wordt niet volledig terugverdiend en de overdracht aan de koper levert zelden meer dan €2.500 op een Sessy van €5.500. Bij een vast contract zonder optie om over te stappen: arbitrage-marge ontbreekt, rendement zakt vaak onder 5%.
-
-Ook bij ouderen of mensen met cognitieve beperkingen die geen apps willen beheren: een batterij vereist regelmatig firmware-updates en monitoring. Wie dat uitbesteedt aan een installateur betaalt €120-€180/jaar service — dat eet rendement op. In een huurwoning is een batterij zelden zinvol, omdat verhuurders meestal geen toestemming geven voor installaties >€3.000 zonder waardeverhoging-clausule.
-
-## Rekenvoorbeeld 1: gezin van vijf met warmtepomp
-
-Modelprofiel: 5 personen, 5.200 kWh verbruik, 6 kWp panelen, warmtepomp, geen EV, Marstek Venus E 8,2 kWh. Investering €2.299 plus €450 installatie = €2.749.
-
-| | Zonder batterij | Met batterij |
-|---|---|---|
-| Eigen verbruik van de opwek | 38% | 84% |
-| Jaarlijks overschot naar het net | 3.600 kWh | 832 kWh |
-
-Met een dynamisch contract en automatische arbitrage komt het model uit op circa €780 jaarvoordeel in 2026 en een rekenkundige terugverdientijd van ongeveer 3,5 jaar. Zodra de saldering volledig is afgebouwd loopt het gemodelleerde voordeel op naar circa €1.150 per jaar, omdat de waarde van eigen verbruik dan hoger wordt dan die van teruglevering.
-
-## Rekenvoorbeeld 2: degradatie en cyclusgebruik over de levensduur
-
-Wat een batterij over de jaren doet, is grotendeels te herleiden uit de fabrieksgaranties. Ter illustratie een 10 kWh systeem bij dagelijks gebruik:
-
-- **Cyclusgebruik**: circa 350-365 volledige cycli per jaar bij dagelijkse laad-ontlaadronde. Fabrikanten garanderen doorgaans 6.000 cycli tot 80% restcapaciteit; reken zelf voorzichtig met 5.000.
-- **Degradatie**: 2 tot 3 procent in het eerste jaar, daarna circa 1,5 procent per jaar — dat is het patroon dat LiFePO4-fabrikanten in hun garantiecurves opgeven. Na een jaar zit een 10 kWh systeem dus rond 9,5 kWh bruikbaar.
-- **Verzekering**: opstalverzekeraars rekenen bij melding van een thuisbatterij gemiddeld €25 tot €60 premieopslag per jaar. Reken dat mee in de cashflow.
-
-Bij het gezinsprofiel hierboven levert dat over de eerste vijf jaar cumulatief circa €4.580 op, met een rekenkundige terugverdientijd van 3,8 jaar en een netto contante waarde van circa €4.260 bij 4 procent discontovoet.
-
-De conclusie uit beide modellen: een batterij die onder volledige saldering marginaal rendeert, wordt na de saldering-stop een aanmerkelijk betere investering.
-
-## Veelgemaakte fouten in ROI-berekening
-
-1. **EPEX-prijsspread te conservatief.** 2025 spreads 35 procent groter dan 2022.
-2. **Geen rekening met verlies van saldering.** Veel rekenmodellen gebruiken nog 2024-tarieven.
-3. **Lifetime-cycle te kort inschatten.** LiFePO4 doet 6.000+ cycles bij 80 procent DoD — 16 jaar bij 1 cyclus per dag.
-4. **Subsidie inrekenen die niet bestaat.** De ISDE dekt volgens RVO geen thuisbatterijen — alleen isolatie, ventilatie (met isolatie), (hybride) warmtepompen, zonneboilers, warmtenet-aansluiting en elektrisch koken. Zet dus geen batterijsubsidie in je model. Een gemeentelijke of provinciale regeling mag je alleen meenemen als je die zwart-op-wit op de site van je eigen gemeente hebt gevonden.
-5. **Btw-teruggaaf inrekenen op de batterij.** De Belastingdienst zondert de levering en installatie van een accupakket of thuisbatterij expliciet uit van het 0%-tarief voor zonnepanelen — ook bij gelijktijdige aanschaf. Reken dus met 21% btw in de aanschafprijs. Alleen wie als btw-ondernemer stroom teruglevert kan btw terugvragen, en daar gelden voorwaarden (onder andere een energiemanagementsysteem en een dynamisch contract); zie belastingdienst.nl.
-
-## Wanneer batterij ROI nog niet rendabel is
-
-Bij kleine zonnepanelen-installaties onder 2,5 kWp en jaarverbruik onder 1.500 kWh blijft terugverdientijd boven 12 jaar — niet rendabel binnen technische levensduur.
-
-## Extra FAQ
-
-**Hoe gevoelig is ROI voor energieprijs-volatiliteit?**
-Bij gemiddelde EPEX €0,08/kWh: terugverdientijd 4,2 jaar. Bij €0,12/kWh: 3,1 jaar. Bij €0,05/kWh: 6,8 jaar. Volatiele markten verbeteren ROI per definitie.
-
-**Welke batterij-merk geeft beste ROI in 2027?**
-Op basis van 2026-prijzen: Marstek Venus, Anker Solix Smart Home, en BYD Battery-Box per kWh-cyclus. Tesla Powerwall en LG hebben langere terugverdientijd door hogere instapprijs.
 
 ---
 
