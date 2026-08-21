@@ -1,8 +1,8 @@
 ---
-title: 'Eneco vs Vattenfall vs Essent 2026: welke wint op prijs en service?'
+title: 'Eneco vs Vattenfall vs Essent 2026: waar het verschil echt zit'
 date: 2026-08-31 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: Eneco, Vattenfall of Essent in 2026? Wij vergelijken tarieven, klantenservice, app en duurzaamheid op basis van tariefbladen, ACM-regels en gebruikersreviews.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: Eneco, Vattenfall of Essent? Wij leggen uit welke posten je écht moet vergelijken — terugleververgoeding, opzegvergoeding en vastrecht — en waarom een tarieventabel in een artikel je niets zegt.
 categories:
 - energie
 tags:
@@ -23,326 +23,149 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1473341304170-971dccb5ac1e&w=1200&output=webp&q=70
 faq:
-- q: 'Welke is in 2026 goedkoper: Eneco, Vattenfall of Essent?'
-  a: 'Op vast contract 2 jaar in mei 2026: Essent gemiddeld €1.842/jaar (3.500 kWh + 1.200 m³), Vattenfall €1.875, Eneco €1.918. Verschil €76/jaar — niet groot, maar Essent wint puur op tarief. Bij dynamisch contract draait alles om de uurprijzen, dan is energiehandel-snelheid belangrijker dan merknaam.'
-- q: 'Welke heeft de beste klantenservice?'
-  a: 'In de Consumentenbond-test 2026 scoorde Eneco 7.8, Vattenfall 7.2, Essent 6.9. Eneco''s app is de beste van drie (real-time verbruik, slimme tips, integratie met Toon-thermostaat). Essent heeft langere wachttijden bij telefoon (gemiddeld 12 minuten) maar reageert sneller via WhatsApp. Vattenfall zit ertussenin.'
-- q: 'Hoe groen zijn deze drie leveranciers in 2026?'
-  a: 'Eneco scoort A op de Consumentenbond Groene Stroom Ranking (eigen Nederlandse wind- en zonneparken). Vattenfall scoort B+ (mix van Nederlandse wind en Scandinavische waterkracht). Essent scoort C — veel certificaten uit Noorse waterkracht zonder eigen productie. Wie écht groen wil: Eneco of een echt-groene zoals Pure Energie/Vandebron.'
-- q: 'Welke is het beste bij zonnepanelen en saldering-stop 2027?'
-  a: 'Eneco heeft de meest uitgewerkte teruglever-strategie voor 2027: dynamische terugleververgoeding gekoppeld aan EPEX, gemiddeld 6-8 ct/kWh. Vattenfall biedt vast 5 ct/kWh in 2027. Essent komt nog met definitief beleid maar staat op 4-6 ct/kWh. Voor zonnepanelen-eigenaren: Eneco wint duidelijk.'
-- q: 'Heeft Vattenfall nog kernenergie in de mix?'
-  a: 'Ja, Vattenfall is van origine Zweeds staatsbedrijf met aandeel kernenergie in Zweden. In Nederland levert Vattenfall officieel "groene stroom" maar de moedermaatschappij investeert ook in nucleair. Voor wie principieel tegen kernenergie is: liever Eneco of Pure Energie.'
-- q: 'Welke biedt de langste vaste contracten in 2026?'
-  a: 'Eneco: 1, 2 en 3 jaar. Vattenfall: 1 en 3 jaar (geen 2-jarig). Essent: 1, 2 en 3 jaar. Drie jaar vast is in 2026 €40-€80/jaar duurder dan 1 jaar maar geeft zekerheid bij stijgende prijzen. Bij verwachte stabiliteit (zoals nu) zijn 2-jarige contracten meestal het slimst.'
-- q: 'Wat zijn de boetes bij voortijdig opzeggen?'
-  a: 'Bij alle drie geldt de wettelijke ACM-staffel: €50 boete bij <1.5 jaar resterend, €75 bij 1.5-2 jaar, €100 bij 2+ jaar. Sinds juni 2025 ook bij gas: €50 boete extra. Bij verhuizing of overlijden is de boete gratis kwijt te schelden. Lees de algemene voorwaarden — Essent rekent soms administratiekosten bovenop.'
-- q: 'Welke leverancier is het beste voor smart home en automatisering?'
-  a: 'Eneco wint hier ruim. Eneco''s ecosysteem (Toon, energiemonitor, slimme thermostaat, P1-meter integratie) is al jaren de beste van Nederland. Vattenfall heeft basale app, weinig automation. Essent app is functioneel maar geen smart home integratie. Voor Home Assistant gebruikers: Eneco heeft API-toegang, Essent en Vattenfall niet officieel.'
-- q: 'Bieden ze alle drie een welkomstbonus in 2026?'
-  a: 'Eneco geeft €50-€100 cashback via vergelijkingssites bij overstap. Vattenfall geeft €75-€150 (varieert per actie). Essent gemiddeld €100 maar soms €200 bij combicontracten. Welkomstbonussen zijn gemiddeld 1-2% van jaarrekening — leuk maar maak je beslissing er niet op. Het tariefverschil over 2 jaar is groter dan elke bonus.'
-- q: 'Welke van de drie is de beste keuze bij een dynamisch contract?'
-  a: 'Eneco "Eneco Variabel Plus" volgt EPEX-spotprijzen 1-op-1, met €4,50/maand admin. Vattenfall heeft geen volwaardig dynamisch product. Essent "Essent Dynamisch" werkt met dag-vooruit prijzen, gemiddeld €4/maand. Maar voor pure dynamisch ben je bij gespecialiseerde aanbieders (Tibber, Frank Energie, ANWB Dynamisch) beter af — die hebben snellere data en lagere fee.'
-products:
-- name: Eneco vast contract 2 jaar
-  url: https://www.eneco.nl/
-  price: '0'
-- name: Vattenfall vast contract 3 jaar
-  url: https://www.vattenfall.nl/
-  price: '0'
-- name: Essent vast contract 2 jaar
-  url: https://www.essent.nl/
-  price: '0'
+- q: 'Welke is goedkoper: Eneco, Vattenfall of Essent?'
+  a: 'Dat wisselt per week en per aanbod, en het hangt af van je eigen verbruik van stroom en gas. Wij publiceren daarom geen tarieventabel: die is op het moment dat je hem leest al verouderd. Vraag bij alle drie een offerte op met je eigen jaarverbruik en vergelijk de totale jaarkosten inclusief vastrecht, niet alleen het kale kWh-tarief.'
+- q: 'Wat kost het om een vast contract voortijdig op te zeggen?'
+  a: 'Sinds 1 juni 2023 geldt geen vaste boetestaffel meer. De opzegvergoeding wordt berekend als het resterende verbruik tot het einde van je contract maal het verschil tussen jouw tarief en het huidige tarief voor hetzelfde contract bij dezelfde leverancier. Is het nieuwe tarief hoger dan het jouwe, dan is de vergoeding nul. Je leverancier moet die berekening kosteloos maken en de uitkomst is twee maanden geldig.'
+- q: 'Wat gebeurt er met mijn teruglevering na 1 januari 2027?'
+  a: 'De salderingsregeling stopt per 1 januari 2027 volledig; er is geen afbouwpad. Wat je daarna voor teruggeleverde stroom krijgt, bepaalt je leverancier zelf en verschilt per contract. Voor huishoudens met zonnepanelen wordt dat de belangrijkste vergelijkpost. Vraag de terugleververgoeding en eventuele terugleverkosten schriftelijk op voordat je tekent.'
+- q: 'Hoe groen zijn deze drie leveranciers?'
+  a: 'Alle drie verkopen stroom met garanties van oorsprong. Het verschil zit in de vraag of daar eigen Nederlandse productie tegenover staat of ingekochte certificaten uit het buitenland. Dat kun je controleren in het stroometiket dat elke leverancier jaarlijks moet publiceren. Wij nemen hier geen rangschikking op, omdat scores van derden per jaar en per methodiek verschillen.'
+- q: 'Wie is de eigenaar van deze drie bedrijven?'
+  a: 'Vattenfall is een Zweeds staatsbedrijf. Essent is sinds 2019 onderdeel van het Duitse E.ON. Eneco is sinds 2020 in handen van een consortium van Mitsubishi Corporation en Chubu Electric Power uit Japan.'
+- q: 'Zijn deze drie geschikt voor een dynamisch contract?'
+  a: 'Ze bieden allemaal wel een variabele of dynamische variant aan, maar de gespecialiseerde aanbieders zijn hier de logische eerste stop: Tibber, Frank Energie en ANWB Energie zijn volledig op de uurprijs gebouwd. Vergelijk in beide gevallen op dezelfde drie getallen: vaste kosten per maand, inkoopvergoeding per kWh en terugleverkosten.'
+- q: 'Weegt een welkomstbonus op tegen een hoger tarief?'
+  a: 'Zelden. Een eenmalige cashback verdwijnt in het niet bij een tariefverschil dat een of twee jaar doorloopt. Reken het altijd door: bonus min het tariefverschil maal je jaarverbruik maal de looptijd. Komt daar een negatief getal uit, dan is het aanbod duurder dan het lijkt.'
 schema_type: Article
 ---
-"Ga gewoon naar de goedkoopste" is bij deze drie leveranciers een slechter advies dan het klinkt: het tariefverschil tussen Eneco, Vattenfall en Essent is klein genoeg om binnen een jaar door één contractwijziging te worden ingehaald. Dan wegen andere zaken zwaarder — de terugleververgoeding als je zonnepanelen hebt, de app als je op verbruik wilt sturen, en de voorwaarden bij opzeggen of verhuizen.
 
-Hieronder vergelijken wij de drie grootste Nederlandse energieleveranciers op tarief, voorwaarden, app-functionaliteit en duurzaamheid, op basis van hun publieke tariefbladen, de ACM-regels en wat gebruikers rapporteren.
+*Disclosure: de links naar Eneco, Vattenfall en Essent in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen op dit moment geen affiliate- of commissierelatie en ontvangen voor deze links geen vergoeding.*
 
-*Werkwijze: wij vergelijken op publieke tariefbladen, leveringsvoorwaarden, de ACM-regels rond opzegboetes en geverifieerde gebruikersreviews. Onze conclusie staat onderaan.*
+"Ga gewoon naar de goedkoopste" is bij deze drie leveranciers een slechter advies dan het klinkt. Het verschil in leveringstarief tussen Eneco, Vattenfall en Essent is meestal klein, wisselt continu, en is bovendien snel achterhaald door de volgende actie. Wat wél structureel verschilt — en wat je jaren vasthoudt — zijn de terugleververgoeding, het vastrecht en de voorwaarden bij opzeggen en verhuizen.
 
----
+Deze pagina gaat daarom niet over wie deze week een cent goedkoper is. Hij gaat over de posten die je moet vergelijken, waar je ze vindt, en welke regels erachter zitten.
 
-💡 *Overweeg je dynamisch contract in plaats van vast? Lees [dynamisch contract vs vast contract 2026](/posts/dynamisch-vs-vast-contract-2026/).*
+> **Kort antwoord:** vergelijk deze drie niet op het kale kWh-tarief maar op vier dingen: totale jaarkosten inclusief vastrecht bij jouw eigen verbruik, de terugleververgoeding vanaf 1 januari 2027 als je zonnepanelen hebt, de opzegvergoeding volgens de ACM-rekenregel, en of je je verbruiksdata zelf kunt uitlezen. Op die vier punten liggen de verschillen vast voor de hele looptijd; het tariefverschil van vandaag ligt dat niet.
 
+## Waarom hier geen tarieventabel staat
 
-> **Kort antwoord:** Essent is doorgaans het scherpst op tarief, Eneco het sterkst op app en teruglevering, Vattenfall zit ertussenin. Het tariefverschil tussen de drie is klein — enkele tientjes per jaar — dus laat je keuze niet alleen daardoor bepalen.
->
-> Op vast contract 2 jaar in mei 2026: Essent gemiddeld €1.842/jaar (3.500 kWh + 1.200 m³), Vattenfall €1.875, Eneco €1.918. Verschil €76/jaar — niet groot, maar Essent wint puur op tarief. Bij dynamisch contract draait alles om de uurprijzen, dan is energiehandel-snelheid belangrijker dan merknaam.
+Veel vergelijkingsartikelen openen met een tabel vol tarieven tot in vier decimalen. Dat oogt precies, maar het is misleidend: leveranciers passen hun tarieven regelmatig aan, werken met acties per kanaal, en rekenen een ander tarief voor een eenjarig dan voor een driejarig contract. Een tabel in een artikel is daarmee vrijwel altijd verouderd op het moment dat iemand hem leest.
 
-## Marktaandeel en context 2026
+Bovendien hangt de uitkomst af van jouw verhouding tussen stroom en gas. Een huishouden met 1.500 m³ gas en 2.000 kWh stroom komt bij een andere leverancier uit dan een volledig elektrisch huishouden met 5.000 kWh en geen gasaansluiting. Eén "gemiddeld huishouden" bestaat niet.
 
-| Leverancier | Marktaandeel NL 2026 | Aantal klanten | Eigenaar |
-|---|---|---|---|
-| Vattenfall | 24% | ~2.1 miljoen | Vattenfall AB (Zweeds staatsbedrijf) |
-| Essent | 19% | ~1.7 miljoen | E.ON (Duits) |
-| Eneco | 16% | ~1.4 miljoen | Mitsubishi + Chubu (Japans, sinds 2020) |
+**Wat wel werkt:** vraag bij alle drie een aanbod op met je eigen jaarverbruik uit je laatste jaarafrekening, en vergelijk de totale jaarkosten. Let daarbij op het vastrecht: dat is een vast bedrag per jaar en weegt zwaarder naarmate je verbruik lager is.
 
-Samen hebben ze 59% van de Nederlandse markt. De rest verdelen Greenchoice, Vandebron, Pure Energie, Budget Energie, Engie, Tibber, Frank Energie, ANWB en kleinere spelers.
+## Wat er bij alle drie hetzelfde is
 
-## Tarieven mei 2026 — vast 2 jaar
+Een groot deel van je rekening bepaalt de leverancier helemaal niet:
 
-Tarieven voor een gemiddeld huishouden (3.500 kWh + 1.200 m³, exclusief vastrecht en belastingen):
-
-| Leverancier | kWh-tarief | m³-tarief | Vastrecht/jaar | Totaal/jaar* |
-|---|---|---|---|---|
-| Essent | €0,2890 | €1,2150 | €105 | €1.842 |
-| Vattenfall | €0,2940 | €1,2240 | €110 | €1.875 |
-| Eneco | €0,2985 | €1,2350 | €115 | €1.918 |
-
-*Inclusief energiebelasting + ODE + BTW, gemiddeld huishouden
-
-**Conclusie tarief**: Essent is goedkoopst, verschil met Eneco is €76/jaar (4%). Niet wereldschokkend.
-
-## Klantenservice: waar je op kunt letten
-
-Wachttijden en reactietijden variëren sterk per seizoen — in de weken rond de jaarafrekening en tijdens de eerste koude periode lopen ze bij alle drie op. Wij noemen daarom geen wachttijd in minuten: elk getal daarover is een momentopname en er is geen doorlopende onafhankelijke meting van.
-
-Wat je wél kunt controleren voordat je kiest, en wat structureel verschilt tussen de drie:
-
-- **Beschikbare kanalen.** Eneco biedt naast telefoon en mail ook WhatsApp; controleer de openingstijden, want weekenddekking verschilt per leverancier en verandert.
-- **Of je vaste tarieven en je verbruik zelf in de app kunt inzien**, of dat je daarvoor moet bellen.
-- **De klachtenroute.** Alle drie zijn aangesloten bij de Geschillencommissie Energie. Loopt een klacht vast, dan is dat je route — niet een negatieve review.
-- **Wat gebruikersreviews zeggen over verhuizingen en afsluitnota's.** Dat is het proces waar in reviews bij alle drie de meeste klachten over gaan.
-
-Het beeld in gebruikersreviews is op één punt consistent: Eneco scoort het hoogst op app en digitale zelfservice, Vattenfall het laagst, met Essent daartussen.
-
-## Apps vergeleken
-
-### Eneco app (9/10)
-
-- Real-time verbruik (P1-meter integratie)
-- Slimme tips per uur
-- Toon-thermostaat besturing
-- Teruglevering historie + schatting maand
-- Tariefoverzicht alle componenten
-- API-toegang voor Home Assistant
-
-### Vattenfall app (6/10)
-
-- Basaal verbruiksoverzicht (24-uur vertraging)
-- Factuur inzien + betalen
-- Geen automation
-- Geen smart home integratie
-- API niet officieel
-
-### Essent app (7/10)
-
-- Verbruik overzicht (12-uur vertraging)
-- Energiebox-integratie (eigen smart home)
-- WhatsApp chatfunctie
-- Teruglevering basale grafiek
-- Geen externe API
-
-Voor smart home enthousiasten: **Eneco onbetwist beste**. Lees [smart home energiebeheer 2026](/posts/smart-home-energiebeheer-2026/) voor uitleg over P1-meter integratie.
-
-## Duurzaamheid
-
-Volgens Consumentenbond Groene Stroom Ranking 2026:
-
-| Leverancier | Score | Eigen NL productie | Certificaten |
-|---|---|---|---|
-| Eneco | A | 60% (wind + zon NL) | 40% NL/Belgisch |
-| Vattenfall | B+ | 35% (wind NL) | 65% Scandinavisch waterkracht |
-| Essent | C | 15% (kleine NL projecten) | 85% Noorse waterkracht-certificaten |
-
-**Eneco wint** met afstand. Vattenfall is acceptabel maar moederbedrijf zit in kernenergie. Essent koopt vooral certificaten zonder echte groene productie.
-
-> Wie principieel groen wil: kies Eneco of een echt-groene zoals Pure Energie of Vandebron. Lees [groene stroom vs grijze stroom](/posts/groene-stroom-vs-grijze-stroom-2026/).
-
-## Saldering 2027 en teruglevering
-
-Dit is het grootste verschil voor wie zonnepanelen heeft:
-
-| Leverancier | Terugleververgoeding 2027 | Saldering uitbetaalmoment |
+| Post | 2026 | Verschilt per leverancier? |
 |---|---|---|
-| Eneco | Dynamisch 6-8 ct/kWh (gekoppeld EPEX) | Maandelijks |
-| Vattenfall | Vast 5 ct/kWh | Jaarlijks |
-| Essent | 4-6 ct/kWh (definitief eind 2026) | Jaarlijks |
+| Energiebelasting stroom | 0,09161 EUR/kWh excl. btw (0,11085 incl.) | nee |
+| Energiebelasting gas | 0,60066 EUR/m³ excl. btw (0,7268 incl.) | nee |
+| Btw | 21% | nee |
+| Netbeheerkosten | vast capaciteitstarief per jaar, per netbeheerder | nee, hangt af van je regio |
+| Leveringstarief en vastrecht | — | ja |
 
-Bij 3.000 kWh teruglevering per jaar:
+De ODE bestaat sinds 2023 niet meer als aparte post; die is opgegaan in de energiebelasting. Kom je een vergelijking tegen waarin ODE nog los wordt opgevoerd, dan is die verouderd.
 
-- Eneco: €180-€240/jaar
-- Vattenfall: €150/jaar
-- Essent: €120-€180/jaar
+Voor een huishouden met 3.500 kWh en 1.200 m³ gaat het bij de belastingen alleen al om ruim duizend euro per jaar, en daar verandert je keuze niets aan. Het deel waarover je wél kunt onderhandelen is kleiner dan de meeste vergelijkers suggereren — reden te meer om op de posten te letten die jaren doorlopen.
 
-**Verschil tussen Eneco en Essent: tot €120/jaar in voordeel Eneco**. Dat compenseert het hogere kWh-tarief ruimschoots.
+## De opzegvergoeding: hoe het echt werkt
 
-## Welkomstbonussen mei 2026
+Hier gaat veel informatie op internet mis, inclusief oudere versies van deze pagina. Er bestaat sinds 1 juni 2023 **geen vaste boetestaffel meer** voor het voortijdig opzeggen van een vast contract.
 
-Via vergelijkingssites:
+De ACM-rekenregel luidt: *(het resterende verbruik tot het einde van je contract als je klant zou blijven) × (het tarief dat je nu betaalt − het huidige tarief voor hetzelfde contract bij dezelfde leverancier)*.
 
-- Eneco: €75-€100 cashback
-- Vattenfall: €100-€150 cashback (loopt actie nog tot juni)
-- Essent: €100-€200 (afhankelijk combi gas + stroom)
+Daaruit volgen drie dingen die in de praktijk uitmaken:
 
-Ons advies: maak je keuze niet op de welkomstbonus. Over een looptijd van twee jaar weegt het kWh-tarief bijna altijd zwaarder dan een eenmalige cashback. Lees [energieleverancier overstappen 2026 stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/) voor het overstap-proces.
+1. **Is het huidige tarief van je leverancier hóger dan wat jij betaalt, dan is de opzegvergoeding nul.** Je leverancier lijdt dan namelijk geen verlies door je vertrek.
+2. **De vergoeding wordt kleiner naarmate je contract korter loopt**, want er is minder resterend verbruik.
+3. **Je leverancier moet de berekening kosteloos voor je maken**, en die uitkomst is twee maanden geldig. Vraag dus altijd eerst het bedrag op voordat je aanneemt dat overstappen te duur is.
 
-## Boetes en voorwaarden
+Dit geldt voor alle drie de leveranciers gelijk; het is regelgeving, geen bedrijfsbeleid. De officiële uitleg staat op de [ACM-pagina over de opzegvergoeding](https://www.acm.nl/nl/energie/elektriciteit-en-gas/energietarieven/opzegvergoeding-energiecontract).
 
-In 2025 heeft de ACM duidelijke regels opgesteld voor opzegboetes bij vaste energiecontracten. De boete-staffel:
+## Teruglevering vanaf 1 januari 2027: de post die gaat wegen
 
-| Resterende looptijd | Maximum boete (per energievorm) |
+Voor huishoudens met zonnepanelen is dit het belangrijkste verschil tussen leveranciers geworden. De salderingsregeling stopt per 1 januari 2027 volledig. Er is geen afbouwpad: het wetsvoorstel met een geleidelijke afbouw is verworpen, dus per die datum vervalt saldering in één keer.
+
+Wat je daarna voor teruggeleverde stroom ontvangt, bepaalt je leverancier zelf. Wij nemen op deze pagina bewust geen tarieven per leverancier voor 2027 op. Die worden pas bindend als ze in een tariefblad of contractvoorwaarde staan, en een vergelijking van aankondigingen is geen vergelijking van voorwaarden.
+
+**Wat je zelf moet opvragen voordat je tekent, bij alle drie:**
+
+- De terugleververgoeding per kWh vanaf 1 januari 2027, en of die vast is of aan de marktprijs gekoppeld.
+- Of er terugleverkosten worden gerekend, en zo ja volgens welke staffel. Een aantal leveranciers rekent een opslag die oploopt met de hoeveelheid die je teruglevert.
+- Of de vergoeding contractueel vastligt voor de looptijd, of eenzijdig gewijzigd kan worden.
+- Op welk moment wordt afgerekend: maandelijks of bij de jaarafrekening.
+
+Wat de verschillende leveranciers op dit moment aan terugleverkosten rekenen, verzamelen wij op onze pagina [terugleverkosten vergelijken](/terugleverkosten-vergelijken/). Wat het einde van de saldering voor je rekening betekent, staat in [saldering stopt in 2027](/posts/saldering-stopt-2027-volledige-gids/) en in [terugleverkosten zonnepanelen](/posts/terugleverkosten-zonnepanelen-2026/).
+
+## Wie zijn deze drie eigenlijk
+
+| Leverancier | Eigendom |
 |---|---|
-| <12 maanden | €50 |
-| 12-18 maanden | €75 |
-| 18-24 maanden | €100 |
-| >24 maanden | €125 |
+| Vattenfall | Vattenfall AB, Zweeds staatsbedrijf |
+| Essent | E.ON (Duitsland), sinds 2019 |
+| Eneco | Mitsubishi Corporation en Chubu Electric Power (Japan), sinds 2020 |
 
-Sinds juni 2025 geldt dit voor zowel stroom als gas afzonderlijk — bij een combicontract dus twee keer. Hoe de drie hiermee omgaan volgens hun voorwaarden en volgens klachten die in reviews terugkomen:
+Dat eigendom is relevant voor wie kijkt naar waar de winst naartoe gaat of naar de bredere activiteiten van de moedermaatschappij — Vattenfall exploiteert bijvoorbeeld kerncentrales in Zweden. Voor de dienstverlening in Nederland zegt het weinig.
 
-**Eneco**: houdt zich strikt aan ACM-staffel, geen verborgen kosten. Bij verhuizing of overlijden gratis kwijt te schelden via klantenservice.
+Wij nemen hier geen marktaandelen of klantaantallen op. Die cijfers circuleren in allerlei versies zonder consistente bron of peildatum, en ze zeggen niets over de vraag welk contract voor jou het beste is.
 
-**Vattenfall**: idem aan ACM-staffel. Wel iets meer paperwork bij verhuizing — moet je bewijs leveren van nieuwe woning.
+## Groene stroom: hoe je het zelf beoordeelt
 
-**Essent**: rekent soms €25 administratiekosten bij voortijdig opzeggen bovenop de wettelijke boete. Dit is grijs gebied — Consumentenbond heeft hier kritiek op.
+Alle drie verkopen stroom met garanties van oorsprong. Het verschil dat er inhoudelijk toe doet, is of daar eigen productie in Nederland tegenover staat of ingekochte certificaten van bestaande buitenlandse waterkracht.
 
-## Tariefontwikkeling van de laatste twee jaar
+Dat kun je zelf nakijken in het **stroometiket**: elke leverancier is verplicht jaarlijks te publiceren waar de geleverde stroom vandaan komt en met welke bron die is opgewekt. Zoek op "stroometiket" plus de naam van de leverancier. Dat is een verplichte publicatie met een vaste indeling en daarmee beter vergelijkbaar dan een ranglijst.
 
-Onderstaande reeks komt uit de gepubliceerde tariefbladen van de drie leveranciers. Let op: dit zijn modeltarieven voor een standaard vast contract, exclusief kortingsacties, en ze zijn een momentopname per peildatum.
+Wij nemen hier geen score of ranglijst van derden over. Die verschillen per organisatie en per methodiek, ze worden niet elk jaar op dezelfde manier opgesteld, en zonder de onderliggende methodiek is een letter of een cijfer geen bruikbare informatie. De achtergrond bij dit onderwerp staat in [groene stroom vs grijze stroom](/posts/groene-stroom-vs-grijze-stroom-2026/).
 
-| Periode | Eneco kWh | Vattenfall kWh | Essent kWh |
-|---|---|---|---|
-| mrt 2024 | €0,28 | €0,275 | €0,272 |
-| sep 2024 | €0,29 | €0,285 | €0,28 |
-| mrt 2025 | €0,295 | €0,29 | €0,285 |
-| sep 2025 | €0,30 | €0,295 | €0,29 |
-| mrt 2026 | €0,2985 | €0,294 | €0,289 |
+## Klantenservice en app: waar je op kunt letten
 
-Patroon: Essent blijft consequent goedkoopst (€0,01-€0,015/kWh onder Eneco), Vattenfall zit ertussenin. Verschil tussen goedkoopst en duurst gemiddeld €38/jaar voor 3.500 kWh.
+Wachttijden en reactietijden variëren sterk per seizoen — rond de jaarafrekening en tijdens de eerste koude periode lopen ze bij alle drie op. Wij noemen daarom geen wachttijd in minuten en geen cijfer voor een app: elk getal daarover is een momentopname zonder doorlopende onafhankelijke meting.
 
-## App-features in detail
+Wat je wél kunt controleren voordat je kiest:
 
-### Eneco — wat doet hij beter?
+- **Beschikbare kanalen en openingstijden.** Weekenddekking verschilt per leverancier en verandert regelmatig.
+- **Of je je verbruik en alle tariefcomponenten zelf in de app of het klantportaal kunt inzien**, of dat je daarvoor moet bellen. Dat scheelt in de praktijk het meest.
+- **De klachtenroute.** Alle drie zijn aangesloten bij de Geschillencommissie Energie. Loopt een klacht vast, dan is dat je route — niet een negatieve review.
+- **Of je verbruiksdata kunt uitlezen voor eigen gebruik.** Wil je op verbruik sturen of een batterij aansturen, dan is dat handiger via een eigen uitleesapparaat op de P1-poort dan via de leverancier. Dat maakt je bovendien onafhankelijk van welke leverancier je kiest — zie [smart home energiebeheer](/posts/smart-home-energiebeheer-2026/).
 
-- **Per uur verbruik**: P1-meter live data, geen vertraging
-- **Slimme tips**: "Je verbruik in de avond is 32% hoger dan buurt-gemiddelde"
-- **Toon-thermostaat besturing**: in app zelf, geen aparte app
-- **Kostenprognose**: jaarrekening voorspellen op basis huidig verbruik
-- **API voor Home Assistant**: officieel ondersteund, zelfs via integratie
+Het beeld in Nederlandse gebruikersreviews is op één punt consistent: de meeste klachten gaan niet over het tarief maar over verhuizingen en afsluitnota's. Leg bij een verhuizing daarom altijd de meterstanden met datum en een foto vast — dat is het bewijs waar zo'n discussie op uitdraait.
 
-### Vattenfall — wat ontbreekt
+## Vijf veelgemaakte fouten bij het vergelijken
 
-- Geen real-time data (24-uur vertraging)
-- Geen smart home koppeling
-- Geen API
-- Geen tarief-uitsplitsing per uur
+1. **Alleen op het kale kWh-tarief vergelijken.** Vastrecht is een vast jaarbedrag en weegt bij een laag verbruik relatief zwaar.
+2. **De welkomstbonus zwaarder wegen dan het tarief.** Reken het door: bonus min (tariefverschil × jaarverbruik × looptijd). Komt daar een negatief getal uit, dan betaal je voor je eigen cadeau.
+3. **Stroom en gas niet samen doorrekenen.** Een scherp stroomtarief naast een duur gastarief levert je niets op. Vergelijk de jaarrekening als geheel.
+4. **Vergeten dat een contract afloopt.** Bij stilzwijgende voortzetting ga je doorgaans naar een variabel tarief. Zet zes weken voor de einddatum een herinnering.
+5. **De teruglevering negeren.** Wie zonnepanelen heeft en alleen op het leveringstarief kiest, kan het verschil er via de terugleverkosten weer uitbetalen.
 
-### Essent — middenweg
+## Wanneer je beter niet overstapt
 
-- Energiebox-integratie (eigen Essent smart home)
-- WhatsApp chat in app
-- Verbruik 12-uur vertraging
-- Geen externe API
+- **Je zit nog lang vast en de vergoeding is hoog.** Vraag eerst het bedrag op volgens de ACM-rekenregel; is het nul, dan vervalt dit bezwaar meteen.
+- **Je verhuist binnen een paar maanden.** Een overstap duurt vier tot acht weken en je krijgt dubbele administratie. Regel eerst de verhuizing.
+- **Je hebt net zonnepanelen laten leggen.** Wacht tot je een paar maanden werkelijke teruglevering hebt gemeten, zodat je op je eigen cijfers kunt kiezen in plaats van op een schatting.
 
-## Wat gebruikers over de drie rapporteren
+## Waar de keuze op neerkomt
 
-Het beeld in Nederlandse gebruikersreviews is bij deze drie leveranciers opvallend consistent, en het loopt langs dezelfde lijn als de feitelijke functieverschillen:
+Met de saldering die per 1 januari 2027 verdwijnt, verschuift het zwaartepunt van deze vergelijking. Voor een huishouden zónder zonnepanelen komt het neer op de totale jaarkosten bij je eigen verbruik — vergelijk drie offertes en kies de laagste, want de rest van het verschil is klein.
 
-- **Eneco** krijgt de hoogste waardering voor de app en het verbruiksinzicht, en wordt tegelijk het vaakst als "duurder dan nodig" genoemd.
-- **Vattenfall** wordt vooral als neutraal beschreven: werkt, maar de app is de meest genoemde beperking.
-- **Essent** wordt gekozen op prijs, en dat is ook waar de tevredenheid over gaat; op service en app is het beeld gemiddeld.
+Voor een huishouden mét zonnepanelen is het leveringstarief niet meer de belangrijkste post. Daar bepaalt de combinatie van terugleververgoeding en terugleverkosten of een contract goed of slecht uitpakt, en dat verschil kan groter zijn dan het tariefverschil waar iedereen naar kijkt. Vraag die twee getallen op, zet ze naast elkaar, en kies daarop.
 
-Terugkerend patroon bij alle drie: de meeste klachten gaan niet over het tarief maar over verhuizingen en afsluitnota's. Leg bij een verhuizing daarom altijd de meterstanden met datum en een foto vast — dat is het bewijs waar een discussie over een afsluitnota op uitdraait.
+<a href="https://go.duurzaamthuislab.nl/eneco" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Eneco</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-## Waar de keuze in de praktijk op neerkomt
+<a href="https://go.duurzaamthuislab.nl/vattenfall" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Vattenfall</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-Puur op kosten is Essent bij een standaard vast contract de logische keuze; het verschil met Eneco is enkele tientjes per jaar. Twee factoren kunnen dat verschil compenseren:
+<a href="https://go.duurzaamthuislab.nl/essent" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Essent</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-1. **De terugleververgoeding.** Nu de saldering wordt afgebouwd, wordt het tarief dat je voor teruggeleverde stroom krijgt een reële post in plaats van een detail. Vergelijk dit tarief expliciet in de tariefbladen als je zonnepanelen hebt — het verschil tussen leveranciers kan hier groter zijn dan het verschil in leveringstarief.
-2. **Smart home-koppeling.** Van de drie is Eneco de enige met een officieel ondersteunde koppeling voor eigen verbruiksdata. Draai je Home Assistant en wil je op verbruik sturen, dan bespaar je daarmee werk dat je bij de andere twee zelf moet oplossen.
+## Verder lezen
 
-Kortom: hebben die twee punten voor jou waarde, dan is het tariefverschil met Eneco snel goedgemaakt. Zo niet, dan is Essent de rationele keuze.
-
-## Voor wie is welke leverancier?
-
-### Kies Eneco als…
-
-- Je zonnepanelen hebt en hoge teruglevering verwacht
-- Je smart home gebruikt of Home Assistant draait
-- Service en app belangrijker zijn dan goedkoopste tarief
-- Je écht groene stroom wilt
-- **Onze aanbeveling** voor huishoudens met zonnepanelen en smart home
-
-### Kies Vattenfall als…
-
-- Je goedkope vast contract van 3 jaar wilt
-- Je geen zonnepanelen hebt
-- Je geen specifieke smart home eisen hebt
-- Je niet principieel tegen kernenergie bent
-
-### Kies Essent als…
-
-- Je puur op tarief koopt (€76/jaar voordeel t.o.v. Eneco)
-- Je weinig contact met service nodig hebt
-- Je gas + stroom combicontract wilt (Essent is sterk in combi)
-- Duurzaamheid is geen prioriteit
-
-## Onze conclusie per profiel
-
-Voor een huishouden met zonnepanelen, een smart home-opstelling en een uitgesproken voorkeur voor groene stroom is **Eneco** de sterkste keuze. Het iets hogere leveringstarief wordt bij zonnepanelen deels of geheel gecompenseerd door de terugleververgoeding, die na de afbouw van de saldering steeds zwaarder gaat wegen.
-
-Voor een huishouden zonder panelen dat de app nauwelijks gebruikt, is **Essent** de rationele keuze: dan is het tariefverschil pure winst en levert de betere app niets op. Beide keuzes zijn verdedigbaar — het hangt af van welke posten in jouw situatie meetellen.
-
----
-
-## Conclusie
-
-In 2026 zijn Eneco, Vattenfall en Essent qua basistarief vrijwel gelijkwaardig; het verschil bedraagt enkele tientjes per jaar bij een gemiddeld verbruik. De verschillen zitten in **service, app, duurzaamheid en zonnepanelen-vergoeding**. Eneco wint op kwaliteit, Essent op prijs, Vattenfall is de redelijke middenweg.
-
-Voor wie zonnepanelen heeft of duurzaamheid serieus neemt: **Eneco** is onze aanbeveling. <a href="https://go.duurzaamthuislab.nl/eneco" target="_blank" rel="nofollow sponsored noopener">Bekijk Eneco tarieven →</a>
-
-Voor wie alleen op laagste tarief koopt: **Essent**. <a href="https://go.duurzaamthuislab.nl/essent" target="_blank" rel="nofollow sponsored noopener">Bekijk Essent tarieven →</a>
-
----
-
-Verder lezen op DuurzaamThuisLab:
-
-- [Energieleverancier overstappen 2026 stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/)
-- [Dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/)
-- [Beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+- [Energieleverancier overstappen: stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/)
+- [Dynamisch contract vs vast contract](/posts/dynamisch-vs-vast-contract-2026/)
+- [Dynamisch energiecontract vergelijken](/dynamisch-energiecontract-vergelijken/)
 - [Frank Energie vs Tibber](/posts/frank-energie-vs-tibber-2026/)
 - [Tibber vs ANWB Energie Dynamisch](/posts/tibber-vs-anwb-energie-dynamisch-2026/)
-- [Groene stroom vs grijze stroom](/posts/groene-stroom-vs-grijze-stroom-2026/)
-- [Smart home energiebeheer 2026](/posts/smart-home-energiebeheer-2026/)
-- [Saldering stopt 2027 — volledige gids](/posts/saldering-stopt-2027-volledige-gids/)
-
-## NL-specifiek: belastingen, vastrecht en BTW
-
-Wat veel mensen niet beseffen: het kale leveringstarief is maar de helft van je rekening. Op elke kWh komt €0,1316 energiebelasting plus €0,0228 ODE plus 21% BTW over het totaal. Op gas €0,5862 belasting per m³. Bij 3.500 kWh + 1.200 m³ betaal je dus rond de €1.060 aan belastingen alleen — onafhankelijk van de leverancier. Het echte verschil tussen Eneco, Vattenfall en Essent zit in nog geen 8% van je totaalrekening.
-
-De RVO biedt geen subsidie op leveranciers zelf, maar wel via de Energiebespaarlening (1,7% rente in 2026) als je gelijktijdig verduurzaamt. Bij overstap naar een leverancier die isolatie- of warmtepomp-pakketten meefinanciert (Eneco doet dit, Essent niet) kun je dat combineren. Bouwbesluit speelt geen rol bij contractkeuze maar wel bij gasloos bouwen — sinds 2018 nieuwbouw zonder gas, wat betekent dat de gas-tarieven vooral relevant zijn voor woningen van vóór 2018.
-
-## Veelgemaakte fouten bij overstappen
-
-1. **Alleen op kale kWh-prijs vergelijken.** Vastrecht varieert van €100 tot €150 per jaar per leverancier. Bij laag verbruik weegt vastrecht zwaarder dan kWh-tarief.
-2. **Welkomstbonus zwaarder wegen dan tarief.** Een €150 cashback bij een €60 duurder contract = je verliest €30 over 2 jaar.
-3. **Niet checken of gas en stroom apart verkocht worden.** Sommige aanbieders hebben dumpprijzen op stroom maar duurder gas, of andersom. Reken altijd je hele jaarrekening uit.
-4. **Vergeten op te zeggen na contract-einde.** Bij stilzwijgend voortzetten ga je vaak naar een variabel tarief dat 8-15% hoger ligt. Zet een agenda-herinnering 6 weken voor einddatum.
-5. **Salderingsregeling negeren bij keuze.** Wie zonnepanelen heeft moet kijken naar terugleververgoeding 2027, niet alleen naar 2026-tarieven.
-
-## Wanneer NIET overstappen
-
-Sla overstappen over als je nog 18+ maanden vast contract hebt — boete plus administratie kost meestal meer dan de jaarlijkse besparing. Ook bij verhuizing binnen 6 maanden: het overstap-proces duurt 4-8 weken en je hebt dubbele administratie. Als je net zonnepanelen hebt geïnstalleerd: wacht eerst 3 maanden om je werkelijke teruglevering te meten voordat je een leverancier kiest op basis van vergoeding.
-
-Bij dynamisch contract met sterke daghandel (laadpaal, thuisbatterij, EV-laden 's nachts): geen van deze drie is optimaal. Tibber, Frank Energie of ANWB Dynamisch geven snellere data en lagere fees. Eneco's "Variabel Plus" is een redelijk compromis maar geen pure dynamische leverancier.
-
-## Mini case-study: gezin in Almere
-
-Een gezin in Almere (4 personen, 4.200 kWh, 1.450 m³, 12 zonnepanelen 4.560 Wp) zat 5 jaar bij Essent. Jaarrekening 2025: €2.180. In april 2026 overgestapt naar Eneco vanwege betere terugleververgoeding. Nieuwe jaarrekening prognose: €2.110 inclusief €165 extra teruglevering. Plus: hun Toon-thermostaat synchroniseert nu native met de Eneco-app, geen workaround meer via IFTTT. Netto resultaat: €70/jaar besparing plus 4 uur per maand minder stoeien met smart home. Boete bij Essent: €50 wegens vroegtijdig opzeggen — terugverdiend in 9 maanden.
-
-## Realtime versus achteraf data: waarom het uitmaakt
-
-Wie een dynamisch contract overweegt of een thuisbatterij heeft moet realtime weten wat hij verbruikt. Eneco levert P1-data binnen 2 seconden in de app, Essent binnen 12 uur, Vattenfall pas na 24 uur. Voor wie een Sessy of Marstek heeft die op spotprijzen handelt is alleen Eneco geschikt — de andere twee leveren te traag data om de batterij goed aan te sturen. Een klant in Hilversum verloor €120 in 3 maanden omdat zijn Marstek op 24-uur-oude tarieven werkte; na overstap naar Eneco verbeterde de optimalisatie direct met 18%.
-
-## Extra praktijkdetails per leverancier
-
-Eneco's klantenservice werkt sinds januari 2026 met een nieuwe AI-eerstelijn die simpele vragen oplost (factuur, meterstand). Voor complexe zaken kom je vlot bij een mens — de AI is niet zo'n irritante chatbot als bij sommige telecoms. Vattenfall heeft een "Klantbelofte 2026" gelanceerd: bij elke klacht binnen 5 werkdagen reactie, anders €25 schadevergoeding. In de praktijk werkt dit goed maar je moet er wel om vragen. Essent investeert in WhatsApp-service en heeft sinds maart 2026 een eigen video-helpdesk voor verbruiksanalyses, gemiddelde wachttijd 4 minuten — beter dan hun telefoonkanaal.
-
-Tarieftransparantie verschilt ook: Eneco toont alle componenten (kale prijs, transport, belasting, BTW) direct in de app. Vattenfall pas na inloggen op de website. Essent stuurt het pas in een PDF-bijlage bij de jaarrekening. Voor wie zijn werkelijke kostprijs per kWh wil weten — bijvoorbeeld om te beslissen of een thuisbatterij rendabel is — werkt Eneco veruit het prettigst.
-
-Tot slot: alle drie hebben sinds 2025 verplichte tweemaandelijkse termijnnota's afgeschaft en zijn over op maandelijks. Dat scheelt liquiditeit maar betekent ook dat je per maand schommelingen ziet. Wie liever vast wil betalen kan een vast termijnbedrag aanvragen — bij Eneco kan dat in de app, bij Vattenfall en Essent moet je bellen of mailen.
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+- [Terugleverkosten vergelijken](/terugleverkosten-vergelijken/)
+- [Saldering stopt in 2027: de volledige gids](/posts/saldering-stopt-2027-volledige-gids/)

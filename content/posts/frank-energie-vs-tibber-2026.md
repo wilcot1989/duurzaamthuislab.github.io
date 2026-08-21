@@ -1,8 +1,8 @@
 ---
-title: 'Frank Energie vs Tibber 2026: welke dynamische leverancier wint?'
+title: 'Frank Energie vs Tibber 2026: welke dynamische leverancier past bij jou?'
 date: 2026-08-17 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
-description: Frank of Tibber? Een vergelijking op tarieven, vaste kosten, terugleververgoeding, app-functies en integraties — met een jaarberekening voor 2026.
+lastmod: 2026-08-21 08:00:00+02:00
+description: Frank of Tibber? Een vergelijking op de kosten die beide leveranciers publiceren, op teruglevering en op wat je met een batterij of EV kunt sturen — inclusief wat er niet publiek is.
 categories:
 - dynamische-energiecontracten
 - energieleveranciers
@@ -26,335 +26,137 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1508514177221-188b1cf16e9d&w=1200&output=webp&q=70
 faq:
 - q: Wat is goedkoper, Frank Energie of Tibber?
-  a: 'Op puur kale inkooptarief: gelijk — beide doen EPEX zonder marge op stroom. Verschil zit in vaste maandkosten (Frank €5,99, Tibber €5,99 maar Pulse-abonnement €3,99 extra), terugleververgoeding (Frank betaalt EPEX, Tibber EPEX min €0,01) en gas (Frank rekent dagprijs zonder marge, Tibber een kleine marge van €0,005/m³). Voor een gemiddeld huishouden zonder Pulse: Frank is €40-€80/jaar voordeliger.'
-- q: Kan ik mijn batterij sturen met Frank of Tibber?
-  a: 'Beide leveranciers bieden een open prijs-API. Frank publiceert dag-vooruit prijzen via hun API zonder kosten. Tibber doet hetzelfde plus een ontwikkelaars-API met realtime data via de Pulse hardware (€129 eenmalig). Voor Sessy, Marstek en Anker Solix: beide werken — Frank vereist alleen een internetverbinding bij de batterij, Tibber wil graag de Pulse maar werkt ook zonder.'
-- q: Heeft Frank of Tibber betere klantenservice?
-  a: 'Tibber heeft Engelse en Nederlandse chat 7 dagen per week, gemiddeld 2-4 minuten responstijd. Frank heeft alleen Nederlandstalig, ma-vr 9-17, maar wel telefonisch bereikbaar. Tibber wint op 24/7 toegang en chat-snelheid. Frank wint op telefonische service en NL-georienteerd. Voor wie graag belt: Frank. Voor digital-first: Tibber.'
-- q: Welk dynamisch contract is beter bij saldering-stop 2027?
-  a: 'Beide werken hetzelfde voor saldering. Het verschil zit in teruglevertarief NA saldering. Frank betaalt EPEX-spotprijs (gemiddeld €0,06/kWh in 2026 op zonneschijn-uren), Tibber EPEX min €0,01. Op 3.000 kWh teruglevering = €30 verschil per jaar. Beide ver onder de huidige saldering van €0,30, dus batterij essentieel voor beide.'
-- q: Heeft Frank een app zoals Tibber?
-  a: 'Ja, Frank heeft een eigen app sinds 2024. Functioneel: realtime prijs, dag-vooruit, verbruik per uur, factuur. Minder gepolijst dan Tibber maar functioneel. Tibber heeft meer integraties (EV-laden, slim huis, Pulse data) en is internationaal getest. Frank app is "good enough", Tibber app is "best in class".'
-- q: Welke kun je het makkelijkst overstappen?
-  a: 'Beide regelen de overstap volledig — je tekent online, zij zeggen je vorige contract op. Frank doet dit volgens de eigen opgave binnen 4-6 weken na aanmelden, Tibber binnen 3-5 weken. Geen onderbreking, geen extra kosten. Beide hebben een wettelijk herroepingsrecht van 14 dagen.'
-- q: Welke is veiliger als de stroomprijzen weer pieken zoals in 2022?
-  a: 'Beide zijn dynamisch dus je betaalt de werkelijke spotprijs. Bij extreme pieken (€2-€3/kWh) is dat duur. Frank biedt sinds 2025 een "prijsplafond optie" (€0,50/kWh max, met €15/mnd extra). Tibber heeft geen plafond maar wel een "smart pause" die niet-essentieel verbruik bij €0,40+ tegenhoudt. Voor risicomijdende huishoudens: Frank met plafond. Voor risico-bereiden: Tibber zonder.'
-- q: Werken beide met mijn slimme meter?
-  a: 'Ja, beide vereisen een slimme meter (P1-poort). Bij Tibber kun je optioneel een Pulse-stick op de P1-poort prikken voor realtime data (€129). Bij Frank gaat alles via de meter-data van de netbeheerder, met 1 dag vertraging. Voor batterij-sturing: beide werken, Tibber Pulse geeft snellere reactietijd.'
-products:
-- name: Frank Energie dynamisch contract
-  url: https://go.duurzaamthuislab.nl/frank-energie
-  price: '6'
-- name: Tibber dynamisch contract
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '6'
-- name: Tibber Pulse hardware (optioneel)
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '129'
+  a: 'Dat is met openbare informatie niet volledig vast te stellen. Tibber publiceert vaste kosten van 5,99 EUR per maand per energiesoort en een inkoopvergoeding van 0,0248 EUR per kWh. Frank Energie publiceert de vaste kosten niet en noemt het bedrag van de inkoopvergoeding niet op de tarievenpagina. Zolang die twee getallen ontbreken, kun je de twee niet zuiver naast elkaar leggen — vraag ze op voordat je tekent.'
+- q: Rekent Frank Energie terugleverkosten?
+  a: 'Ja. Frank Energie rekent sinds 1 juni 2025 naast de inkoopvergoeding ook een terugleverstaffel: een opslag die oploopt met de hoeveelheid stroom die je teruglevert. Voor huishoudens met veel zonnepanelen kan dat een substantiële post zijn. Vraag de staffel op en reken hem door met je eigen teruglevering uit je jaarafrekening.'
+- q: Kan ik mijn thuisbatterij sturen met Frank of Tibber?
+  a: 'Bij beide kan dat. Tibber heeft een openbare ontwikkelaars-API en een integratie in Home Assistant. Frank Energie biedt naast de uurprijzen ook kwartierprijzen en levert eigen diensten voor slim laden, slim handelen en slim terugleveren. Welke aansturing bij welke batterij werkt, hangt vooral af van de batterij en zijn fabrikant, niet van de leverancier.'
+- q: Biedt Frank Energie een prijsplafond of een eigen laadpaal?
+  a: 'Nee. Op de website van Frank Energie staat geen prijsplafond-optie en geen eigen laadpaal; Frank positioneert zich juist als merkonafhankelijk en verkoopt geen eigen hardware. Kom je online een "Frank Smart Charger" of een prijsplafond van Frank tegen, dan is dat onjuist.'
+- q: Wat kost de Tibber Pulse?
+  a: 'Tibber publiceert de prijs van de Pulse niet openbaar; die zie je in de bestelflow. De Pulse is een uitleesapparaat voor de P1-poort en geeft realtime verbruiksdata. Een dynamisch contract werkt ook zonder — dan volg je de uurprijzen zonder realtime verbruiksinzicht.'
+- q: Zit ik ergens aan vast?
+  a: 'Tibber vermeldt dat het contract maandelijks opzegbaar is. Bij beide geldt daarnaast het wettelijke herroepingsrecht van veertien dagen na het afsluiten op afstand. Controleer de actuele voorwaarden van de leverancier die je kiest, want dit is bedrijfsbeleid en geen wet.'
+- q: Wat gebeurt er met mijn teruglevering na 1 januari 2027?
+  a: 'De salderingsregeling stopt per 1 januari 2027 volledig; er is geen afbouwpad. Wat je daarna voor teruggeleverde stroom krijgt, en welke terugleverkosten daar tegenover staan, bepaalt je leverancier. Voor huishoudens met zonnepanelen wordt dat het zwaarste vergelijkpunt tussen deze twee.'
 schema_type: Article
 ---
-Frank Energie en Tibber zijn de twee bekendste pure-play aanbieders van dynamische contracten in Nederland. Beide kopen stroom op de EPEX-spotmarkt en rekenen die per uur aan je door. Op het kale inkooptarief zijn ze daarmee vrijwel gelijk — het verschil zit in de vaste kosten, de terugleververgoeding, de marge op gas en in wat de app kan.
 
-Hieronder zetten we die verschillen op een rij op basis van de tarievenbladen en voorwaarden van beide partijen, plus een jaarberekening waarin je je eigen verbruik kunt invullen.
+*Disclosure: wij hebben op het moment van schrijven geen affiliate- of commissierelatie met Tibber of Frank Energie; de links naar beide leveranciers zijn gewone verwijzingen waarvoor wij geen vergoeding ontvangen. Deze vergelijking is gebaseerd op de openbare tarieven en voorwaarden van beide partijen, opgehaald in augustus 2026.*
 
-*Disclosure: wij hebben op het moment van schrijven geen affiliate- of commissierelatie met Tibber of Frank Energie; de links naar beide leveranciers zijn gewone verwijzingen. Deze vergelijking is gebaseerd op openbare tarieven en voorwaarden.*
+Frank Energie en Tibber zijn de twee bekendste aanbieders in Nederland die uitsluitend dynamische contracten leveren. Beide geven de prijs van de day-ahead-markt per uur aan je door. Het kale stroomtarief is bij beide dus dezelfde marktprijs; het verschil zit in wat ze daar bovenop rekenen, wat ze voor teruglevering betalen en wat je met hun software kunt sturen.
 
----
+Deze vergelijking gaat over die verschillen — en, minstens zo belangrijk, over wat je niet kunt vergelijken omdat het niet gepubliceerd wordt.
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+> **Kort antwoord:** Tibber is de transparantste van de twee: vaste kosten en inkoopvergoeding staan er allebei. Frank Energie publiceert de vaste kosten niet en rekent sinds 1 juni 2025 een terugleverstaffel, wat voor huishoudens met veel zonnepanelen zwaar kan wegen. Wie kiest zonder die twee getallen op te vragen, kiest blind. Wat online circuleert over een prijsplafond bij Frank of een eigen Frank-laadpaal klopt niet.
 
+## Wat beide hetzelfde doen
 
-> **Kort antwoord:** Frank is voor het gemiddelde huishouden enkele tientjes per jaar goedkoper, vooral door het ontbreken van een marge op gas en een iets hogere terugleververgoeding. Tibber heeft de betere app en de verdere integraties, en verdient dat verschil terug bij wie een EV, batterij of smart home slim laat sturen.
+Beide leveranciers rekenen de day-ahead-uurprijs door. Dat betekent bij allebei hetzelfde:
 
-## Korte conclusie vooraf
+- Je uurtarief volgt de marktprijs; wat je betaalt hangt af van wanneer je verbruikt.
+- Energiebelasting (0,09161 EUR per kWh exclusief btw in 2026), btw en netbeheerkosten zijn gelijk aan die bij elke andere leverancier. Alleen het kale tarief en de opslagen verschillen.
+- Je hebt een slimme meter nodig.
+- De prijzen voor morgen staan aan het begin van de middag vast, zodra de day-ahead-veiling is afgelopen.
 
-Voor wie geen tijd heeft om alles te lezen:
+Wat dat in de praktijk oplevert en hoe de uurprijzen lopen, staat in [dynamische stroomprijzen per uur](/posts/dynamische-prijzen-gemiddeld-uur-2026/) en op onze pagina met [actuele stroomprijzen](/stroomprijzen/).
 
-- **Frank Energie**: scherpste tarief, hoogste terugleververgoeding, NL-bedrijf, app is functioneel. Onze inschatting: de logische keuze voor het gemiddelde huishouden.
-- **Tibber**: beste app, meeste integraties, internationaal, iets duurder. Onze inschatting: de logische keuze bij een EV, thuisbatterij of smart home.
+## Wat elk van de twee publiceert
 
-Verschil per jaar voor een gemiddeld huishouden: €40-€90 in het voordeel van Frank.
-
-## Wie zijn Frank en Tibber eigenlijk?
-
-**Frank Energie** is in 2018 opgericht in Den Haag door Adriaan Kamp. Pure-play dynamisch contract — geen vast tarief, geen marge op stroom-inkoop. Inmiddels ongeveer 130.000 klanten in Nederland, alleen Nederland actief. Aandeelhouder is Eneco (sinds 2022) maar Frank werkt onafhankelijk.
-
-**Tibber** is in 2016 opgericht in Noorwegen, naar Nederland uitgebreid in 2020. Internationaal actief in NL, BE, DE, NO, SE. Ongeveer 700.000 klanten Europa-breed, ~80.000 in NL. Hardware-gedreven (de Pulse-stick is hun signature product), software-cultuur.
-
-Beide doen hetzelfde: ze kopen stroom op EPEX-spotmarkt en geven die door aan jou per uur. Het verschil zit in marge, app, hardware en service.
-
-## De prijs-vergelijking, eerlijk
-
-Omdat beide leveranciers dezelfde EPEX-uurprijs doorgeven, is het kale stroomtarief bij Frank en Tibber praktisch gelijk. Het prijsverschil komt volledig uit vier posten in de tarievenbladen:
-
-| Post | Frank Energie | Tibber | Effect per jaar |
-|---|---|---|---|
-| Marge op stroom | geen | geen | €0 |
-| Vaste maandkosten | €5,99 | €5,99 | €0 |
-| Pulse-abonnement | n.v.t. | €3,99/mnd indien Pulse | circa €48 in Tibbers nadeel |
-| Terugleververgoeding | EPEX-spot | EPEX-spot − €0,01 | €30 per 3.000 kWh in Franks voordeel |
-| Marge op gas | geen | circa €0,005/m³ | circa €6 per 1.200 m³ in Franks voordeel |
-
-Optel je die posten, dan is Frank voor een gemiddeld huishouden enkele tientjes per jaar goedkoper, en meer als je veel teruglevert. Belangrijk: het verschil is structureel (het staat in de tarieven), niet afhankelijk van marktbeweging — vergelijk je twee facturen van verschillende jaren of verschillende woningen, dan zegt het verschil niets omdat weer en verbruik dan meebewegen.
-
-**Conclusie prijs**: Frank is voor de gemiddelde gebruiker de goedkopere keuze. Voor wie zonnepanelen heeft en veel teruglevert, wordt dat verschil groter.
-
-## App-vergelijking: hier wint Tibber
-
-In de app zit het duidelijkste functionele verschil tussen de twee. Onderstaande functielijsten komen uit de documentatie en de app-omschrijvingen van beide leveranciers.
-
-**Tibber-app:**
-- Realtime stroomprijs met 5-minuten-update (via Pulse)
-- Dag-vooruit prijs grafiek met annotaties
-- "Slim laden" voor EV automatisch op laagste-prijs uren
-- Pulse-data: realtime verbruik per apparaat (mits HAN-poort)
-- Integratie met Tesla, Volvo, Polestar, Nissan, Audi, Mercedes voor EV-laden
-- Smart Home integratie: Apple HomeKit, Google Home, Home Assistant
-- Push-notificaties bij prijspieken/dalen
-
-**Frank-app:**
-- Realtime stroomprijs met 1-uur-update
-- Dag-vooruit prijs grafiek (basic)
-- Verbruik per dag (uit P1 indien beschikbaar)
-- Basale push-notificaties
-- Geen EV-integraties
-- Geen Home Assistant-koppeling (wel via 3rd-party tools mogelijk)
-
-Voor wie zijn auto, batterij of wasmachine wil sturen op stroomprijs: Tibber heeft een voorsprong van 2-3 jaar in volwassenheid van features. Voor wie alleen wil zien "wat kost stroom nu?": Frank is prima.
-
-## Hardware: Tibber Pulse versus Frank Smart Charger
-
-Tibber's Pulse-stick (€129) plug je op je P1-poort en geeft je realtime verbruiksdata. Onmisbaar voor smart-home automatisering, optioneel voor casual gebruikers.
-
-Frank biedt **Frank Smart Charger** (€499) — een laadpaal die zelf optimaliseert op spotprijzen. Vergelijkbaar met Tibber's logica maar dan als hardware. Voor EV-bezitters die geen smart-home willen bouwen: aantrekkelijke deal.
-
-**Onze inschatting**: de Pulse heeft de meeste integraties en de beste data-export en is daarmee de betere keuze voor wie zelf wil automatiseren. De Frank Smart Charger is meer "set and forget": minder flexibel, maar er valt niets in te richten.
-
-## Teruglevering met zonnepanelen
-
-Voor wie zonnepanelen heeft (en post-saldering 2027): teruglevertarief wordt cruciaal.
-
-| Aanbieder | Teruglevertarief 2026 | Teruglevertarief verwacht 2027+ |
+| Post | Frank Energie | Tibber |
 |---|---|---|
-| Frank Energie | EPEX spot (€0,06-€0,08 gemiddeld zonneschijn) | EPEX spot, gegarandeerd zonder marge |
-| Tibber | EPEX spot − €0,01 | EPEX spot − €0,01-€0,02 (mogelijk) |
+| Vaste kosten per maand | niet gepubliceerd | 5,99 EUR per energiesoort |
+| Inkoopvergoeding stroom | aanwezig, bedrag niet gepubliceerd | 0,0248 EUR/kWh |
+| Terugleverkosten | terugleverstaffel sinds 1 juni 2025 | geen aparte staffel gepubliceerd |
+| Prijsinterval | keuze uit uurprijzen of kwartierprijzen | uurprijzen |
+| Eigen hardware | geen, merkonafhankelijk | Pulse (P1-uitlezer), prijs niet openbaar |
+| Opzegbaarheid | zie voorwaarden | maandelijks opzegbaar |
 
-Op 3.000 kWh teruglevering per jaar: **Frank levert €30-€60 meer op**. Niet wereldschokkend, maar over 10 jaar wel €300-€600.
+Peildatum: augustus 2026, op basis van de eigen websites van beide leveranciers.
 
-Bovendien: Frank heeft geen plafond op teruglevering (sommige leveranciers limiteren tot bijv. 5.000 kWh/jr). Tibber ook niet.
+Twee dingen verdienen nadruk. **Bij Tibber betaal je de vaste kosten per energiesoort.** Met stroom én gas is dat 11,98 EUR per maand, niet 5,99. In vergelijkingen wordt dat structureel over het hoofd gezien en dat scheelt bijna 72 EUR per jaar.
 
-Voor zonneschijn-fanatici met 30+ panelen: Frank is significant beter.
+**Bij Frank Energie ontbreken de twee getallen die je nodig hebt.** Dat is geen beschuldiging — het aanbod kan uitstekend zijn — maar het maakt een eerlijke som onmogelijk. Vraag beide bedragen schriftelijk op en zet ze naast de 5,99 EUR en 0,0248 EUR van Tibber.
 
-## Batterij-arbitrage met Sessy, Marstek of Anker
+## Waarom hier geen jaarbedrag staat
 
-Hier wordt het interessant. Beide leveranciers werken met thuisbatterijen, maar de integratie verschilt.
+Veel vergelijkingen sluiten af met "Frank is 38 euro per jaar goedkoper". Zo'n getal komt alleen tot stand door de ontbrekende posten in te vullen met een schatting, en dan meet je je eigen aanname in plaats van het verschil tussen de leveranciers.
 
-**Met Tibber:**
-- Sessy: native integratie, werkt out-of-the-box met Tibber API
-- Marstek: integratie via [Sessy vs Marstek](/posts/sessy-vs-marstek-vergelijking-2026/) firmware sinds 2025
-- Home Assistant: officiële Tibber-integratie, alle batterij-merken werkbaar
-- Pulse data verhoogt de reactietijd van arbitrage-algoritmes
+Wat je wél kunt doen, is de rekenregel toepassen zodra je de getallen hebt. Het verschil tussen twee dynamische leveranciers bestaat uit precies drie posten:
 
-**Met Frank:**
-- Sessy: officiële integratie sinds 2024
-- Marstek: via Marstek's eigen app, Frank API gebruiken
-- Home Assistant: via 3rd-party EnergyZero-integratie (gratis)
-- Geen realtime data, dus arbitrage-algoritme reageert op uurly basis
+**Verschil per jaar = (verschil in vaste kosten × 12 × aantal energiesoorten) + (verschil in inkoopvergoeding × jouw kWh) + (verschil in terugleverkosten × jouw teruggeleverde kWh)**
 
-Voor de praktijk maakt dit **maar 1-3% verschil** in arbitrage-rendement. Tibber is iets sneller, maar Frank is goedkoop genoeg om dat verschil te overstijgen.
+De kale marktprijs valt weg: die is bij beide dezelfde. Vul je eigen jaarverbruik en teruglevering uit je laatste jaarafrekening in en je hebt het antwoord voor jouw situatie — niet voor een gemiddeld huishouden dat niet bestaat.
 
-Lees ook: [Sessy thuisbatterij review](/posts/sessy-review-thuisbatterij-nederland/) en [Beste dynamisch contract met thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
+**Rekenvoorbeeld met expliciete aannames.** Stel dat Frank Energie op navraag 5,49 EUR per maand per energiesoort en 0,022 EUR/kWh blijkt te rekenen — dit zijn **aangenomen getallen om de methode te tonen, geen opgave van Frank**. Bij twee energiesoorten, 3.500 kWh en 800 kWh teruglevering: vaste kosten 0,50 × 12 × 2 = 12 EUR in Franks voordeel, inkoopvergoeding 0,0028 × 3.500 = 9,80 EUR in Franks voordeel, en de terugleverstaffel over 800 kWh in Tibbers voordeel. Of de uitkomst positief of negatief is, hangt volledig af van die staffel. Zo werkt de som; vul je eigen antwoorden in.
 
-## Klantenservice: welke kanalen bieden ze?
+## Teruglevering: het punt dat vanaf 2027 doorslaat
 
-De servicekanalen en openingstijden zijn openbaar; hieronder wat beide partijen zelf aanbieden.
+De salderingsregeling stopt per 1 januari 2027 volledig. Er is geen afbouwpad — het wetsvoorstel met een geleidelijke afbouw is verworpen. Vanaf dat moment is niet meer de vraag hoeveel je bespaart op je afname, maar wat je krijgt voor wat je teruglevert en wat dat kost.
 
-**Tibber:**
-- Chat in app, gemiddeld 2-4 minuten responstijd
-- 7 dagen per week, ook avonduren
-- Bij complexe vragen: e-mail follow-up binnen 24 uur
-- Engelstalig of Nederlandstalig (medewerker kiest)
-- Bij een defecte Pulse: vervanging binnen de garantietermijn
+Op dit punt lopen de twee uiteen. Frank Energie rekent sinds 1 juni 2025 een terugleverstaffel: hoe meer je teruglevert, hoe hoger de opslag per kWh. Dat is precies het model dat ongunstig uitpakt voor huishoudens met een groot dak. Tibber publiceert geen aparte terugleverstaffel.
 
-**Frank:**
-- Telefonisch ma-vr 9-17, gemiddelde wachttijd 3-8 minuten
-- E-mail, gemiddeld 24-48 uur respons
-- Geen chat (komt mogelijk in 2026)
-- Alleen Nederlandstalig
-- Facturatie en meterstanden lopen via de netbeheerderdata, met een dag vertraging
+Wat je moet opvragen bij beide, voordat je tekent:
 
-Voor wie graag belt: Frank. Voor digital-first: Tibber. Beide zijn ver bovengemiddeld; vergelijk dit met Eneco of Vattenfall en je beseft hoe slecht "groot" eigenlijk is.
+1. De vergoeding per teruggeleverde kWh, en of die aan de uurprijs gekoppeld is.
+2. De terugleverkosten of -staffel, met de exacte trappen.
+3. Of die voorwaarden tijdens je contract eenzijdig gewijzigd mogen worden.
 
-## Wanneer kies je Frank?
+Reken het vervolgens door met je werkelijke teruglevering. Een overzicht van wat verschillende leveranciers rekenen houden wij bij op [terugleverkosten vergelijken](/terugleverkosten-vergelijken/); de bredere gevolgen staan in [saldering stopt in 2027](/posts/saldering-stopt-2027-volledige-gids/).
 
-✅ **Frank past bij jou als:**
-- Je wilt scherpste tarief zonder gedoe
-- Je hebt zonnepanelen en lever veel terug
-- Je waardeert een Nederlands bedrijf zonder buitenlandse aandeelhouders zichtbaar
-- Je wilt geen extra hardware kopen (Pulse)
-- Je belt liever dan chat
-- Je hebt geen smart-home ambities
+## Functies en aansturing
 
-❌ **Frank past minder bij jou als:**
-- Je wilt geavanceerde EV-laad-integraties
-- Je gebruikt Home Assistant of Apple HomeKit en wilt alles strak geïntegreerd
-- Je wilt 24/7 service
+Beide leveranciers bieden meer dan alleen een uurprijs, en dat is waar het inhoudelijke verschil zit.
 
-## Wanneer kies je Tibber?
+**Frank Energie** biedt naast uurprijzen ook kwartierprijzen, en een reeks eigen diensten: slim laden voor een elektrische auto, slim handelen voor een thuisbatterij en slim terugleveren. Frank positioneert zich daarbij merkonafhankelijk en verkoopt geen eigen hardware; de vergelijking van batterijmerken doen ze zelf, maar ze leveren er geen.
 
-✅ **Tibber past bij jou als:**
-- Je hebt een EV en wilt automatisch slim laden
-- Je bouwt een smart home en wilt alles geïntegreerd
-- Je wilt realtime verbruiksdata per apparaat
-- Je waardeert een gepolijste app
-- Je rijdt vaak in het buitenland en wilt EU-brede dekking (Tibber heeft NL/BE/DE/NO/SE accounts)
+**Tibber** heeft een app rond slim laden en een openbare ontwikkelaars-API, met een integratie in Home Assistant. De Pulse is een uitleesapparaat voor de P1-poort dat realtime verbruik doorgeeft; de prijs daarvan publiceert Tibber niet openbaar.
 
-❌ **Tibber past minder bij jou als:**
-- Je wilt scherpste prijs zonder hardware-investering
-- Je hebt geen EV en geen smart-home plannen
-- Je vindt €3,99/mnd Pulse-abonnement onnodig
+Wij geven hier geen cijfer aan de apps. Wij gebruiken deze diensten niet zelf en een score zonder meting is een mening met een getal ervoor. Wat je wel kunt doen voordat je kiest: bekijk de recente reviews in de app-stores op datum, en kijk of de functie die jíj nodig hebt er expliciet in staat — slim laden voor jouw automerk, of een koppeling met jouw batterij.
 
-## De keuze samengevat per profiel
+## Batterij en elektrische auto
 
-Het beslissende punt is of je iets hebt om op te sturen.
+Voor het aansturen van een thuisbatterij op de uurprijs geldt in beide gevallen hetzelfde: de aansturing zit in de batterij of in je eigen automatisering, niet in het energiecontract. Wat de leverancier moet leveren is de prijsdata en een correcte afrekening per uur (of per kwartier).
 
-**Heb je een EV, een thuisbatterij of Home Assistant?** Dan is Tibber de logische keuze. De hogere vaste kosten kun je terugverdienen met slimmer laden en arbitrage — maar alleen als je die integraties daadwerkelijk gebruikt.
+Praktisch betekent dat:
 
-**Heb je alleen een gewoon huishoudelijk verbruik?** Dan is Frank simpelweg goedkoper en doet hij precies wat hij moet doen. De extra functies van Tibber leveren dan niets op, terwijl je er wel voor betaalt.
+- Werkt jouw batterij met een eigen dynamische modus, zoals bij de meeste merken, dan heb je van de leverancier alleen het contract nodig.
+- Wil je zelf regels schrijven, dan is een openbare API of een bestaande Home Assistant-integratie het criterium. Beide leveranciers zijn via Home Assistant te ontsluiten.
+- Realtime verbruiksdata via de P1-poort is nuttig, maar daarvoor ben je niet afhankelijk van je leverancier: elk P1-uitleesapparaat kan dat, ook als je later overstapt.
 
-## Frank Smart Charger versus Tibber + losse laadpaal
+Dat laatste is een reden om terughoudend te zijn met leverancier-gebonden hardware: kies je een uitleesapparaat dat ook zonder dat contract werkt, dan blijf je vrij om over te stappen. Verdieping staat in [dynamische energiecontracten en thuisbatterijen](/posts/dynamische-energiecontracten-thuisbatterij-2026/) en in onze [Sessy review](/posts/sessy-review-thuisbatterij-nederland/).
 
-Een speciaal stukje voor EV-bezitters. Frank verkoopt sinds 2024 hun eigen Smart Charger voor €499. Het ding laadt automatisch op de goedkoopste uren van de dag, gestuurd door Frank's spotprijs-data.
+## Het risico dat je met beide accepteert
 
-Tibber laat je vrij kiezen: Easee, Wallbox, Alfen — wat je wilt. De Tibber-app stuurt dan via OCPP de laadpaal aan, mits compatibel.
+Een dynamisch contract geeft geen prijszekerheid. Bij marktstress kunnen de uurprijzen fors uitlopen; het duurste uur van 2025 kostte 0,63 EUR per kWh kaal. Geen van beide leveranciers biedt daar een plafond tegen — het "prijsplafond" dat online aan Frank Energie wordt toegeschreven, bestaat niet.
 
-| Aspect | Frank Smart Charger | Tibber + Easee/Wallbox |
-|---|---|---|
-| Aankoopprijs | €499 (incl. installatie €750-€1100) | €600-€800 (incl. installatie €900-€1300) |
-| Maandkosten | €0 (in contract inbegrepen) | €0 (Tibber Pulse €3,99 als je die wilt) |
-| Optimalisatie | Automatisch via Frank-API | Automatisch via Tibber-app |
-| Werkt met andere leverancier later? | Nee, geblokkeerd op Frank | Ja, OCPP-laadpaal werkt overal |
-| Garantie | 2 jaar | 3-5 jaar (laadpaal-afhankelijk) |
-| Slim met PV | Beperkt | Volledig configureerbaar |
+Wat je er wél tegen kunt doen is verbruik verschuiven en, bij extreme prijzen, tijdelijk niet verbruiken. Dat is precies waar de apps en de automatisering voor zijn. Wie dat risico niet wil dragen, kiest een vast contract en betaalt daar een risico-opslag voor. Dat is een verdedigbare keuze, geen fout — zie [dynamisch contract vs vast contract](/posts/dynamisch-vs-vast-contract-2026/).
 
-**Frank's voordeel**: laagste totaal-prijs en zero-config. Steek de stekker erin en het werkt.
-**Tibber's voordeel**: vendor-neutraal, betere garantie, meer flexibiliteit.
+## Overstappen
 
-Voor de "ik wil gewoon dat het werkt" gebruiker: Frank Smart Charger. Voor wie wil kunnen overstappen of het uitgebreider wil: Tibber + losse laadpaal. Lees ook [Laadpaal thuis kosten en subsidie](/posts/laadpaal-thuis-kosten-subsidie-2026/).
+Bij beide leveranciers verloopt de overstap hetzelfde: je meldt je online aan, de nieuwe leverancier zegt je oude contract op, en je krijgt een bevestiging met de geplande startdatum. Reken op vier tot acht weken tussen aanmelding en start, door de opzegtermijn bij je huidige leverancier plus de administratieve verwerking.
 
-## Wat als de stroomprijzen weer extreem worden?
+Je hebt nodig: BSN, IBAN, je laatste jaarafrekening en de EAN-codes van je aansluitingen. Na het afsluiten op afstand heb je veertien dagen wettelijk herroepingsrecht. Zit je nog in een vast contract, vraag dan eerst de opzegvergoeding op: sinds 1 juni 2023 wordt die berekend uit je resterende verbruik maal het verschil tussen jouw tarief en het actuele tarief bij dezelfde leverancier — en die uitkomst kan nul zijn.
 
-In 2022 schoten dagprijzen naar €0,80-€1,20/kWh op piekmomenten. Voor dynamisch-contract-klanten was dat een nachtmerrie — ineens €600/maand stroomrekening.
+Het volledige proces staat in ons [stappenplan voor de overstap naar dynamisch](/posts/dynamisch-energiecontract-stappenplan-overstap-2027/).
 
-**Frank's bescherming (sinds 2025):**
-- "Prijsplafond optie": €0,50/kWh maximum, kost €15/mnd extra
-- Bij activatie: alleen aan het begin van een contract
-- Werkt automatisch in de achtergrond
+## Wanneer welke
 
-**Tibber's bescherming:**
-- Geen plafond
-- "Smart pause" notificatie: app waarschuwt bij prijzen >€0,40/kWh, kun je apparaten handmatig uitzetten
-- Voor wie automatisch wil: Home Assistant koppelen aan Tibber-API en zelf rules schrijven
+**Frank Energie ligt voor de hand als** je kwartierprijzen wilt in plaats van uurprijzen, als je de eigen diensten voor slim laden en slim handelen wilt gebruiken zonder zelf te automatiseren, en als je op navraag lagere vaste kosten krijgt dan Tibber. Let op de terugleverstaffel als je zonnepanelen hebt.
 
-Voor risicomijdende huishoudens: Frank met plafond is veiliger. Voor wie risico accepteert in ruil voor lager gemiddeld tarief: Tibber.
+**Tibber ligt voor de hand als** je wilt weten waar je aan toe bent voordat je tekent — de kosten staan er gewoon — en als je zelf wilt automatiseren via de API of Home Assistant. Reken wel met 5,99 EUR per energiesoort, niet met 5,99 EUR totaal.
 
-Extreme pieken zijn de laatste jaren minder frequent dan in 2022, maar ze zijn niet uitgesloten: bij windstilte in combinatie met kou schiet de avondprijs omhoog. Kijk de spreiding in de EPEX-historie van het afgelopen jaar na als je wilt weten met welk risico je akkoord gaat.
-
-## Overstappen: hoe het werkt
-
-**Naar Frank:**
-1. Aanmelden op franc-energie.nl, vul je gegevens in
-2. Frank zegt jouw oude contract op (na herroepingstermijn)
-3. Switching-datum: 4-6 weken later
-4. Geen kosten, geen onderbreking
-5. Eerste factuur 1 maand na switching
-
-**Naar Tibber:**
-1. Aanmelden via Tibber-app of website
-2. Optioneel: Pulse bestellen (€129)
-3. Switching binnen 3-5 weken
-4. Geen kosten, geen onderbreking
-5. Pulse arriveert per post 1-2 weken voor switching
-
-**Tip**: timing maakt uit. Stap niet over in juli/augustus (stroomprijzen laag, maar de transitiekosten van je oude leverancier kunnen verrassend zijn). Stap bij voorkeur in mei of september.
-
-## Concrete jaarberekening voor 2026
-
-Hier de getallen voor een gemiddeld huishouden (3.500 kWh stroom + 800 kWh teruglevering, 1.200 m³ gas):
-
-**Frank Energie:**
-- Stroom: 3.500 × €0,18 gemiddeld = €630
-- Vaste kosten: €5,99 × 12 = €72
-- Teruglevering: 800 × €0,07 = -€56
-- Gas: 1.200 × €1,15 = €1.380
-- Vaste gas: €5,99 × 12 = €72
-- **Totaal: €2.098/jaar**
-
-**Tibber (zonder Pulse):**
-- Stroom: 3.500 × €0,185 gemiddeld = €648
-- Vaste kosten: €5,99 × 12 = €72
-- Teruglevering: 800 × €0,06 = -€48
-- Gas: 1.200 × €1,16 = €1.392
-- Vaste gas: €5,99 × 12 = €72
-- **Totaal: €2.136/jaar**
-
-**Tibber (met Pulse, slim laden EV):**
-- Bovenstaand + Pulse abonnement €48
-- Min besparing slim laden: -€80
-- **Totaal: €2.104/jaar**
-
-Voor een huishouden zonder EV: Frank is **€38/jaar** voordeliger.
-Voor een huishouden met EV en slim laden: Tibber wint **€6/jaar** door automation. Marginaal.
-
-Voor wie écht alles uit het systeem wil halen (smart home + thuisbatterij + EV): Tibber's voorsprong groeit naar €100-€200/jaar door betere arbitrage. Voor wie gewoon stroom afneemt: Frank wint.
-
-## De 2027-vraag: blijft beide bestaan?
-
-Een eerlijke vraag: zijn beide leveranciers houdbaar na de saldering-stop in 2027?
-
-Beide hebben sinds 2024 een groeiende klantenbasis ondanks lage marges. Frank werkt op marge van €0,005-€0,01/kWh, Tibber idem. Ze verdienen aan hardware (Pulse, Smart Charger), service-fees en volume.
-
-Onze inschatting: **beide blijven bestaan**. Tibber wordt sterker door internationale schaal. Frank wordt sterker door Eneco-eigenaarschap (kapitaal en infrastructuur).
-
-Risico: prijsverhogingen na 2027 zijn waarschijnlijk bij beide. Reken op €1-€2 per maand vaste kosten erbij of €0,001-€0,003/kWh marge. Niet schokkend.
-
-## FAQ extra
-
-**Kan ik Frank en Tibber tegelijk hebben op verschillende panden?**
-Ja. Elke aansluiting heeft zijn eigen contract, dus je kunt per pand een andere leverancier kiezen.
-
-**Bestaat er een app die beide laat zien?**
-Niet officieel. Via Home Assistant kun je beide API's importeren (EnergyZero-integratie ondersteunt beide). Voor power-users.
-
-**Is een dynamisch contract risicovol bij gasprijspieken?**
-Frank en Tibber zijn dynamisch op stroom maar volgen dagprijs op gas (geen uurprijs). Pieken in gas zijn dus minder extreem dan in stroom. Risico beperkt.
-
-**Wat als ik wegwil binnen het eerste jaar?**
-Beide: 14 dagen herroepingsrecht na aanmelden. Daarna geen vaste looptijd, opzeggen kan elke maand. Geen exitkosten.
-
----
-
-## Onze aanbeveling
-
-Voor de gemiddelde Nederlander zonder EV en zonder smart home: **Frank Energie**. Goedkoper, NL-bedrijf, app is goed genoeg.
-
-Voor de smart-home liefhebber, EV-bezitter of wie maximale integratie wil: **Tibber**. App en hardware zijn 2-3 jaar voor.
-
-Voor wie écht twijfelt: probeer Frank een jaar. Geen contractduur, geen risico. Bevalt het niet, stap je in 4 weken over naar Tibber.
-
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
-
----
+**Bij veel teruglevering** is de terugleverstaffel de belangrijkste vraag van de twee, en die weegt zwaarder dan het verschil in vaste kosten. Reken hem door voordat je iets anders vergelijkt.
 
 ## Conclusie
 
-Frank Energie en Tibber zijn allebei degelijke dynamische leveranciers. Voor 95% van de Nederlandse huishoudens is Frank goedkoper en voldoende. Voor de 5% smart-home enthousiastelingen levert Tibber meerwaarde via automation.
+Op de kern zijn Frank Energie en Tibber gelijk: beide geven de marktprijs per uur door. Het verschil zit in drie posten — vaste kosten, inkoopvergoeding en terugleverkosten — en in wat de software voor je kan sturen.
 
-Het prijsverschil is structureel en komt uit de tarieven, niet uit marktgeluk: Frank rekent geen marge op gas en geeft de volledige EPEX-spotprijs voor teruglevering. Tibber vraagt daar iets meer voor en geeft er meer functionaliteit voor terug. Wie die functionaliteit gebruikt, haalt het verschil ruim terug; wie hem niet gebruikt, betaalt ervoor.
+Tibber maakt die eerste twee posten openbaar, Frank Energie niet. Dat is op dit moment het scherpste onderscheid tussen de twee, en het is ook precies de reden dat wij hier geen winnaar in euro's aanwijzen. Vraag bij Frank de vaste kosten en de inkoopvergoeding op, vraag bij beide de terugleverstaffel op, vul de rekenregel in met je eigen verbruik, en kies dan.
 
-*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Frank Energie</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
----
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Tibber</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
 ## Gerelateerde artikelen
 
@@ -363,10 +165,5 @@ Het prijsverschil is structureel en komt uit de tarieven, niet uit marktgeluk: F
 - [Beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
 - [Dynamisch contract met thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)
 - [Saldering vs dynamisch contract rekenmodel](/posts/saldering-vs-dynamisch-contract-rekenmodel/)
-- [Sessy thuisbatterij review](/posts/sessy-review-thuisbatterij-nederland/)
-- [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
-- [Laadpaal thuis kosten en subsidie](/posts/laadpaal-thuis-kosten-subsidie-2026/)
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+- [Saldering stopt in 2027](/posts/saldering-stopt-2027-volledige-gids/)
+- [Laadpaal thuis: kosten en subsidie](/posts/laadpaal-thuis-kosten-subsidie-2026/)

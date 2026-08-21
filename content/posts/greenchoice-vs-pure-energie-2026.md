@@ -1,9 +1,9 @@
 ---
 title: 'Greenchoice vs Pure Energie 2026: groene leverancier vergelijken'
 date: 2026-09-18 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
-description: Greenchoice of Pure Energie als groene energieleverancier in 2026? Wij vergelijken tarieven, herkomst groene stroom, klantenservice en terugleververgoeding.
+description: Greenchoice of Pure Energie als groene energieleverancier? Wij vergelijken herkomst van de stroom, contractvormen en vooral de terugleverkosten — de post die vanaf 2027 het zwaarst weegt.
 categories:
 - energie
 tags:
@@ -26,284 +26,146 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is het belangrijkste verschil tussen Greenchoice en Pure Energie?'
-  a: 'Greenchoice levert sinds 2001 groene stroom, vooral via Nederlandse wind- en zonprojecten en biogas. Pure Energie (sinds 2010) levert uitsluitend stroom uit eigen Nederlandse windparken en zonneparken — de strengste herkomstgarantie. Pure Energie wint op transparantie, Greenchoice op bredere productlijn (gas, isolatie-advies, zonnepanelen).'
-- q: 'Welke is goedkoper in 2026?'
-  a: 'Tarieven liggen dicht bij elkaar. Pure Energie heeft historisch iets lagere variabele tarieven (1-3 cent per kWh) maar hogere vaste leveringskosten. Greenchoice heeft meer keuzemodellen (vast 1, 2 of 3 jaar). Voor een gemiddeld huishouden (3.000 kWh, 1.200 m3) ligt het verschil op jaarbasis tussen 30 en 100 euro, afhankelijk van het lopende tariefjaar.'
-- q: 'Welke leverancier is het groenst?'
-  a: 'Pure Energie wordt al jaren door Consumentenbond en Greenpeace bovenaan gezet voor stroomherkomst — uitsluitend Nederlandse wind en zon, geen biomassa of certificatenhandel. Greenchoice scoort hoog maar net iets lager: ze gebruiken ook biogas en deels Europese herkomstgaranties. Voor 100 procent Nederlandse hernieuwbare bron is Pure Energie de eerste keuze.'
-- q: 'Welke heeft de beste terugleververgoeding voor zonnepanelen?'
-  a: 'Beide leveranciers volgen de saldering, die in 2027 wordt afgebouwd. In 2026 is teruglevering nog op kale kale leveringstarief min eventuele afgifte (terugleverkosten). Pure Energie heeft historisch lage terugleverkosten (5-8 euro per maand bij hoge teruglevering). Greenchoice heeft vergelijkbare maar iets hogere bedragen. Beide zijn faire keuzes voor zonnepaneeleigenaren.'
-- q: 'Welke is beter voor de klantenservice?'
-  a: 'Beide scoren bovengemiddeld in vergelijkingen. Pure Energie krijgt vaak hoge waarderingen voor persoonlijke service en korte wachttijden — kleinere klantenkring, NL-only telefoonteam. Greenchoice is groter (1+ miljoen klanten) en heeft langere wachttijden in piekperiodes. App-functionaliteit is bij Greenchoice uitgebreider, Pure Energie houdt het bewust simpel.'
-- q: 'Welke is geschikter voor een warmtepomp?'
-  a: 'Greenchoice biedt een speciale "warmtepomp"-tarief en gespecialiseerd advies. Voor stroomverbruikers boven 5.000 kWh per jaar is dat aantrekkelijk. Pure Energie heeft geen specifiek warmtepomp-tarief, maar door lagere variabele kosten kan het netto goedkoper uitpakken. Reken het door op je eigen verbruik.'
-products:
-- name: Greenchoice groene stroom
-  url: https://go.duurzaamthuislab.nl/greenchoice
-  price: '0'
+  a: 'Pure Energie ontwikkelt en exploiteert eigen windparken en zonneparken in Nederland en levert de stroom die daaruit komt; het bedrijf zit in Enschede en doet dit naar eigen opgave sinds 1995. Greenchoice levert naar eigen opgave 100 procent Nederlandse groene stroom en heeft daarnaast een breder pakket aan diensten. Voor wie op herkomst wil kiezen, is de eigen productie van Pure Energie het meest concrete onderscheid.'
+- q: 'Welke is goedkoper?'
+  a: 'Dat wisselt per contractvorm en per moment, en het hangt af van je eigen verbruik en teruglevering. Wij publiceren daarom geen tarieventabel: die is verouderd zodra je hem leest. Vraag bij beide een aanbod op met je eigen jaarverbruik en vergelijk de totale jaarkosten inclusief vastrecht en terugleverkosten.'
+- q: 'Bieden beide een dynamisch contract?'
+  a: 'Ja. Pure Energie biedt naast vast en variabel ook een dynamisch contract, waarbij je stroom per uur en gas per dag afrekent. Ook Greenchoice heeft een dynamische variant. Dat is anders dan vaak wordt aangenomen over deze twee groene leveranciers.'
+- q: 'Hoe zitten de terugleverkosten bij deze twee in elkaar?'
+  a: 'Bij Pure Energie hangt het af van wanneer je je contract sloot: contracten van vóór 1 april 2026 kennen vaste terugleverkosten volgens een staffel, contracten daarna rekenen een bedrag per teruggeleverde kWh. Bij het dynamische contract van Pure Energie zijn er geen terugleverkosten, maar wel een verkoopvergoeding per teruggeleverde kWh. Greenchoice rekent een tarief per teruggeleverde kWh en schat je jaarlijkse teruglevering vooraf in. Vraag in beide gevallen het actuele bedrag op — dat staat in je contract en in het klantportaal.'
+- q: 'Wat verandert er op 1 januari 2027?'
+  a: 'De salderingsregeling stopt dan volledig; er is geen afbouwpad. Vanaf dat moment krijg je een terugleververgoeding over alles wat je teruglevert, en blijven de terugleverkosten daarnaast bestaan. Het saldo van die twee bepaalt wat teruglevering je oplevert of kost, en dat verschilt per leverancier en per contractvorm.'
+- q: 'Mag een terugleververgoeding negatief zijn?'
+  a: 'Nee. Op grond van de Energiewet mag de terugleververgoeding in 2026 nooit lager zijn dan 0 euro per kWh. Terugleverkosten worden wel apart in rekening gebracht; die staan los van de vergoeding.'
 schema_type: Article
 ---
-Greenchoice of Pure Energie: het is een van de meest gestelde keuzevragen onder huishoudens die echt groene stroom willen. Het prijsverschil is klein, het verschil in herkomst van de stroom juist groot. In dit artikel zetten we beide leveranciers naast elkaar op tarieven, stroomherkomst, klantenservice en de voorwaarden voor zonnepanelen, zodat je in 2026 een onderbouwde keuze maakt.
 
-*Disclosure: de links naar Greenchoice in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: de links naar Greenchoice en Pure Energie in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en ontvangen voor deze links geen vergoeding.*
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
+Greenchoice of Pure Energie is een van de meest gestelde keuzevragen onder huishoudens die groene stroom serieus nemen. Het prijsverschil tussen de twee is meestal klein en wisselt continu; het verschil in herkomst en in de voorwaarden rond teruglevering is structureel. Deze pagina gaat daarom over die twee dingen — en over hoe je zelf op je eigen cijfers kiest.
 
+Alle informatie hieronder komt van de eigen websites van beide leveranciers en van de Energiewet, opgehaald op 21 augustus 2026.
 
-> **Kort antwoord:** Greenchoice of Pure Energie als groene energieleverancier in 2026? Wij vergelijken tarieven, herkomst groene stroom, klantenservice en terugleververgoeding.
->
-> Greenchoice levert sinds 2001 groene stroom, vooral via Nederlandse wind- en zonprojecten en biogas. Pure Energie (sinds 2010) levert uitsluitend stroom uit eigen Nederlandse windparken en zonneparken — de strengste herkomstgarantie. Pure Energie wint op transparantie, Greenchoice op bredere productlijn (gas, isolatie-advies, zonnepanelen).
+> **Kort antwoord:** kies op herkomst en op terugleverkosten, niet op het kale kWh-tarief. Pure Energie levert stroom uit eigen Nederlandse wind- en zonneparken en biedt vast, variabel én dynamisch aan; Greenchoice noemt eveneens 100 procent Nederlandse groene stroom en heeft een breder dienstenpakket. De terugleverkosten verschillen per contract en per ingangsdatum, en dat is vanaf 1 januari 2027 de post die het zwaarst weegt.
 
-## Wie is Greenchoice?
+## Wie is Greenchoice
 
-Greenchoice is opgericht in 2001 door zes ondernemers met een groene missie. Sindsdien is het uitgegroeid tot de grootste echt groene leverancier van Nederland met meer dan 1 miljoen klanten. Hoofdkantoor in Rotterdam, eigen Nederlandse klantenservice.
+Greenchoice is een Nederlandse leverancier van groene stroom en gas. Op de eigen site staat dat inmiddels 600.000 klanten zijn overgestapt en dat de geleverde stroom 100 procent Nederlandse groene stroom is, waarbij Nederlandse windstroom expliciet wordt genoemd. Naast levering doet Greenchoice ook aan natuurprojecten; het bedrijf noemt ruim vier miljoen geplante bomen en 330.000 hectare beschermde natuur.
 
-Stroomherkomst:
-- Nederlandse windenergie (zo'n 40-50 procent)
-- Nederlandse zonneenergie (15-20 procent)
-- Biogas en biomassa (10-20 procent)
-- Europese herkomstgaranties (rest)
+Greenchoice biedt zowel vaste als variabele en dynamische contracten aan, plus een aantal aanpalende diensten voor verduurzaming van de woning.
 
-Greenchoice biedt naast stroom en gas ook diensten zoals zonnepanelen-installatie, isolatie-advies, en een warmtepomp-tarief. Daardoor is het een one-stop-shop, wat de drempel voor verduurzaming verlaagt.
+## Wie is Pure Energie
 
-## Wie is Pure Energie?
+Pure Energie zit in Enschede en schrijft op de eigen site sinds 1995 windmolens en zonneparken in Nederland te ontwikkelen en te exploiteren. Dat is het onderscheidende punt: het bedrijf verkoopt niet alleen stroom, het produceert die ook zelf. Het aanbod bestaat uit vaste, variabele, dynamische en hybride contracten, voor particulieren en zakelijk.
 
-Pure Energie (vroeger Raedthuys) bestaat sinds 2010 en is onderdeel van de Pure Energie Groep. Het bedrijf heeft een radicalere missie: alleen stroom leveren uit eigen Nederlandse wind- en zonneparken. Geen handel in herkomstgaranties uit Noorwegen of Italie, geen biomassa.
+## Wat wij hier níet doen
 
-Stroomherkomst:
-- Nederlandse windenergie uit eigen windparken (60-70 procent)
-- Nederlandse zonne-energie uit eigen zonneparken (30-40 procent)
-- 0 procent biomassa, 0 procent certificatenhandel
+**Geen tarieventabel.** Leveranciers passen hun tarieven regelmatig aan en werken met verschillende prijzen per contractduur en per kanaal. Een tabel met kWh-prijzen tot in twee decimalen in een artikel is vrijwel altijd verouderd op het moment dat iemand hem leest. Vraag bij beide een aanbod op met je eigen jaarverbruik.
 
-In 2026 nog steeds een van de weinige leveranciers die transparant kunnen aantonen waar elke geleverde kWh vandaan komt. Geen warmtepomp-tarief, geen extra diensten — bewust een focused business.
+**Geen ranglijst of score van derden.** Duurzaamheidsranglijsten en reviewscores verschillen per organisatie, per methodiek en per jaar. Zonder de onderliggende methodiek is een letter of een cijfer geen bruikbare informatie, en met een verkeerd jaartal erbij is het misleidend. Wat je wél kunt raadplegen is het **stroometiket** dat elke leverancier jaarlijks verplicht publiceert: daarin staat waar de geleverde stroom vandaan komt en met welke bron die is opgewekt. Dat is een gestandaardiseerde publicatie en daarmee beter vergelijkbaar dan een ranglijst.
 
-## Vergelijkingstabel
+**Geen cijfer voor de klantenservice.** Wij bellen deze leveranciers niet systematisch na en meten geen wachttijden. Wat je zelf kunt doen: bel beide met een concrete vraag voordat je kiest. Dat is één telefoontje en het zegt meer dan elke score.
 
-| Eigenschap | Greenchoice | Pure Energie |
-|---|---|---|
-| **Opgericht** | 2001 | 2010 |
-| **Klanten** | 1+ miljoen | 250.000+ |
-| **Stroomherkomst NL** | 60-70% | 100% |
-| **Biomassa/biogas** | Ja, deels | Nee |
-| **Europese certificaten** | Ja, deels | Nee |
-| **Vaste tarieven 1, 2, 3 jaar** | Ja | Ja (1-3 jr) |
-| **Variabel tarief** | Ja | Ja |
-| **Dynamisch contract** | Nee | Nee |
-| **Eigen wind/zonneparken** | Beperkt | Ja, primair |
-| **Warmtepomp-tarief** | Ja | Nee |
-| **Zonnepanelen-aanbod** | Ja | Nee |
-| **Isolatie-advies** | Ja | Nee |
-| **App** | Uitgebreid | Basis |
-| **Klantenservice telefoon** | NL, ma-vr 8-21 | NL, ma-vr 8-19 |
-| **Trustpilot score (2026)** | 4,1/5 | 4,5/5 |
-| **Greenpeace ranking** | Boven gemiddeld | Top 1-2 |
+## Herkomst van de stroom: waar het verschil zit
 
-## Tarieven vergelijking 2026
+Beide leveranciers verkopen stroom met garanties van oorsprong. De inhoudelijke vraag is of daar eigen of langjarig gecontracteerde Nederlandse productie tegenover staat, of ingekochte certificaten van bestaande buitenlandse productie.
 
-Voor een gemiddeld huishouden (3.000 kWh stroom, 1.200 m3 gas):
+Op dat punt is de positie van Pure Energie het meest concreet: het bedrijf bezit en exploiteert de wind- en zonneparken waar de stroom vandaan komt. Greenchoice presenteert zich eveneens als leverancier van Nederlandse groene stroom.
 
-| Type contract | Greenchoice | Pure Energie |
-|---|---|---|
-| **Variabel stroom (kale kWh)** | 0,29-0,32 euro | 0,28-0,31 euro |
-| **Variabel gas (m3)** | 1,12-1,18 euro | 1,10-1,15 euro |
-| **Vast 1 jaar stroom** | 0,30-0,33 euro | 0,29-0,32 euro |
-| **Vast 3 jaar stroom** | 0,33-0,36 euro | 0,32-0,35 euro |
-| **Vaste leveringskosten/maand** | 8,50-9,50 euro | 9,00-10,00 euro |
-| **Geschatte jaarrekening (variabel)** | 2.450-2.700 euro | 2.380-2.620 euro |
+Wat je zelf kunt controleren, en wat wij aanraden voordat je op dit punt kiest:
 
-Pure Energie zit gemiddeld 30-100 euro per jaar lager — niet wereldschokkend, maar wel structureel.
+1. Zoek het **stroometiket** van beide leveranciers op over het laatst gerapporteerde jaar.
+2. Kijk naar de verdeling over bronnen (wind, zon, water, biomassa) en naar het land van herkomst van de garanties van oorsprong.
+3. Kijk of er sprake is van eigen productie of van inkoop.
 
-Belangrijk: deze tarieven zijn momentopnames van 2026. Marktontwikkelingen, gascrisis-effecten en duurzaamheidsbelasting kunnen ze in beide richtingen bijstellen. Vraag altijd actuele tarieven op via <a href="https://go.duurzaamthuislab.nl/greenchoice" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">de Greenchoice-website</a> of de Pure Energie-website.
+Dat geeft je een vergelijking op één gestandaardiseerde bron, in plaats van op marketingteksten of op een ranglijst waarvan je de methodiek niet kent. De achtergrond bij dit onderwerp staat in [groene stroom vs grijze stroom](/posts/groene-stroom-vs-grijze-stroom-2026/).
 
-## Stroomherkomst — het echte verhaal
+## Terugleverkosten: de belangrijkste vergelijkpost
 
-Hier zit het grootste verschil. Beide leveranciers zeggen "groene stroom", maar dat betekent niet hetzelfde.
+Voor iedereen met zonnepanelen is dit het onderdeel dat er financieel toe doet, en het is bij deze twee leveranciers verschillend geregeld.
 
-**Greenchoice's mix:**
-- Een deel komt uit eigen of partner-windparken in Nederland
-- Een deel komt uit zonnedaken en zonneparken
-- Een deel komt uit biogas (gistingsinstallaties bij boerderijen, RWZI's)
-- Een deel uit biomassa-bijstook
-- Een deel via Garanties van Oorsprong (GvO's) uit het buitenland — vaak Noorse waterkracht of Spaanse wind
+**Pure Energie** maakt onderscheid naar de datum waarop je je contract sloot:
 
-Het laatste, GvO's, is omstreden. Stroomverkopers kopen certificaten en mogen daardoor "groene stroom" claimen, terwijl de fysieke stroom op het Nederlandse net deels uit fossiele bron kan komen. Greenchoice doet dit beperkt en transparant, maar het zit erin.
+- Contracten van **vóór 1 april 2026**: vaste terugleverkosten volgens een staffel, verrekend op de jaarafrekening. Hoe minder je teruglevert, hoe lager je schaal en dus je kosten.
+- Contracten van **ná 1 april 2026**: terugleverkosten per teruggeleverde kWh, berekend over wat je werkelijk hebt teruggeleverd.
+- **Dynamisch contract**: geen terugleverkosten, maar wel een verkoopvergoeding per teruggeleverde kWh, onder meer ter dekking van onbalanskosten.
 
-**Pure Energie's mix:**
-Pure Energie heeft de strengste herkomstgarantie van Nederland. Ze produceren zelf in eigen windparken (Tweenten, Pure Energie Wind, etc.) en zonneparken. Wat ze leveren komt uit hun eigen of langjarig gecontracteerde Nederlandse productie. Geen GvO-handel, geen biomassa.
+**Greenchoice** rekent een tarief per teruggeleverde kWh. De verwachte jaarlijkse teruglevering wordt vooraf ingeschat op basis van de opwek in voorgaande jaren op jouw adres, of op basis van wat je bij aanmelding zelf opgeeft; die inschatting wordt in je maandbedrag verwerkt en achteraf verrekend.
 
-Voor wie principieel kiest is dit het verschil dat doorslaat. Voor wie pragmatisch kijkt naar effect: beide leveranciers hebben miljarden geinvesteerd in nieuwe duurzame productie en sturen daadwerkelijk de markt richting hernieuwbaar.
+De exacte bedragen publiceren wij hier bewust niet: ze verschillen per contract en per ingangsdatum, en ze veranderen. Ze staan in je eigen contract en in het klantportaal, en je kunt ze bij aanvraag opvragen. Wat je moet vragen is telkens hetzelfde: **het bedrag per teruggeleverde kWh of de staffel, en of dat tijdens de looptijd gewijzigd kan worden.**
 
-## Klantenservice: wat gebruikers rapporteren
+Een overzicht van wat verschillende leveranciers rekenen houden wij bij op [terugleverkosten vergelijken](/terugleverkosten-vergelijken/); de uitleg bij het mechanisme staat in [terugleverkosten zonnepanelen](/posts/terugleverkosten-zonnepanelen-2026/).
 
-Het beeld dat uit publieke gebruikersreviews naar voren komt, verschilt per leverancier vooral in schaal, niet in kwaliteit.
+## Wat er op 1 januari 2027 verandert
 
-**Greenchoice:**
-- Uitgebreide app met verbruiksinzicht per dag
-- Telefonische wachttijden lopen in piekperiodes op — het klantenbestand is met meer dan een miljoen aansluitingen het grootste onder de groene leveranciers
-- Reactietijd per e-mail wordt in reviews doorgaans in werkdagen beschreven, niet in uren
-- Over de salderingsadministratie zijn weinig structurele klachten te vinden
+De salderingsregeling stopt per 1 januari 2027 volledig. Er is geen afbouwpad: het wetsvoorstel met een geleidelijke afbouw is verworpen. Beide leveranciers bevestigen dit op hun eigen pagina's over de afschaffing.
 
-**Pure Energie:**
-- Basale app: verbruik en facturen, weinig extra's
-- Korte wachttijden en persoonlijke afhandeling zijn de meest genoemde pluspunten in reviews
-- Duidelijke maandfactuur met salderingsoverzicht
+Wat er dan gebeurt, in de bewoordingen die de leveranciers zelf gebruiken: je ontvangt een terugleververgoeding over álle stroom die je teruglevert, en de terugleverkosten blijven daarnaast bestaan. Het netto resultaat is dus het verschil tussen die twee. Voor 2026 geldt daarbij een wettelijke ondergrens: op grond van de Energiewet mag de terugleververgoeding niet lager zijn dan 0 euro per kWh.
 
-In Trustpilot- en Consumentenbond-scores eindigt Pure Energie consequent iets hoger, met name op "persoonlijke benadering" en "snelle reactie". Behandel losse reviews met de nodige voorzichtigheid: ze zijn zelfgeselecteerd en zeggen weinig over de gemiddelde klant.
+Praktisch gevolg voor je keuze nu: **kies een contractduur die je niet vastzet over de overgang heen**, tenzij de terugleververgoeding en de terugleverkosten voor die hele periode contractueel vastliggen. Een looptijd van één of hoogstens twee jaar houdt je flexibel. De bredere gevolgen staan in [saldering stopt in 2027](/posts/saldering-stopt-2027-volledige-gids/) en in de [transitie-planner](/posts/saldering-2027-transitie-planner/).
 
-## Voor zonnepaneeleigenaren
+## Rekenregel: hoe je de twee zelf vergelijkt
 
-Beide leveranciers ondersteunen saldering nog volledig in 2026. Vanaf 2027 wordt de salderingsregeling afgebouwd — zie [salderingsregeling afbouw wat betekent het 2026](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) en [saldering stopt 2027 volledige gids](/posts/saldering-stopt-2027-volledige-gids/).
+Belastingen en netbeheerkosten zijn bij beide leveranciers identiek — energiebelasting van 0,09161 EUR per kWh exclusief btw in 2026, 21 procent btw, en een vast capaciteitstarief van je netbeheerder. Die vallen dus tegen elkaar weg. Wat overblijft zijn vier posten:
 
-Wat in 2026 belangrijk is: terugleverkosten. Beide leveranciers rekenen een progressief tarief voor wie veel teruglevert (boven 1.500-2.000 kWh per jaar). De bedragen:
+**Jaarverschil = (verschil in kale kWh-prijs × jouw kWh) + (verschil in m³-prijs × jouw m³) + (verschil in vaste leveringskosten × 12) + (verschil in terugleverkosten × jouw teruggeleverde kWh)**
 
-- **Greenchoice**: trapsysteem 5-15 euro per maand afhankelijk van teruglevering
-- **Pure Energie**: trapsysteem 4-12 euro per maand afhankelijk van teruglevering
+Vul die in met je eigen jaarafrekening naast je. Twee dingen vallen dan vaak op. Bij een **laag verbruik** — klein appartement, weinig thuis — domineren de vaste leveringskosten en is het verschil in kWh-prijs bijna irrelevant. Bij **veel teruglevering** domineert de vierde post, en die is bij deze twee leveranciers verschillend van vorm: een staffel is iets anders dan een bedrag per kWh, en welke gunstiger is hangt volledig af van hoeveel je teruglevert.
 
-Pure Energie zit historisch iets lager, ook hier kleine winst.
+## Dynamisch contract bij een groene leverancier
 
-Lees meer in [terugleverkosten zonnepanelen 2026](/posts/terugleverkosten-zonnepanelen-2026/).
+Anders dan vaak wordt aangenomen, hoef je voor een dynamisch contract niet naar een gespecialiseerde aanbieder. Pure Energie biedt een dynamisch contract waarbij je stroom per uur en gas per dag afrekent, en Greenchoice heeft eveneens een dynamische variant.
 
-## Voor warmtepomp-bezitters
+Dat is relevant als je een thuisbatterij, een elektrische auto of een goed te sturen warmtepomp hebt: die verdienen zich terug op het verschil tussen de goedkope en de dure uren. Let daarbij op dat een dynamisch contract in combinatie met zonnepanelen anders uitpakt — Greenchoice waarschuwt zelf dat je bij een dynamisch contract meer aan terugleverkosten kunt betalen dan je via de terugleververgoeding terugkrijgt. Reken dat door voordat je kiest.
 
-Greenchoice heeft een specifiek "Warmtepomp"-tarief: een variabel contract met iets gunstigere kale kWh-prijs voor klanten die boven 5.000 kWh stroom verbruiken. Het scheelt 1-2 cent per kWh, wat bij 8.000 kWh verbruik 80-160 euro per jaar oplevert.
+Hoe de uurprijzen lopen en wat verschuiven oplevert, staat in [dynamische stroomprijzen per uur](/posts/dynamische-prijzen-gemiddeld-uur-2026/) en op onze pagina met [actuele stroomprijzen](/stroomprijzen/). Wil je de dynamische aanbieders naast elkaar zien, dan staat dat op [dynamisch energiecontract vergelijken](/dynamisch-energiecontract-vergelijken/).
 
-Pure Energie heeft geen warmtepomp-tarief, maar door hun standaard lagere variabele tarieven kom je vaak op een vergelijkbaar of beter resultaat. Reken het door op jouw verbruik.
+## Overstappen: praktische punten
 
-Voor de warmtepomp-keuze zelf zie [beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/).
+**Geen onderbreking.** De netbeheerder — Liander, Stedin of Enexis, afhankelijk van je regio — regelt de wisseling. Je zit nooit zonder leverancier. Reken op vier tot acht weken tussen aanmelding en startdatum.
 
-## Wanneer kies je Greenchoice?
+**Je hoeft zelf niet op te zeggen.** De nieuwe leverancier zegt je oude contract op. Zit je nog in een vast contract, vraag dan eerst de opzegvergoeding op: sinds 1 juni 2023 wordt die berekend uit je resterende verbruik maal het verschil tussen jouw tarief en het actuele tarief bij dezelfde leverancier. Is dat actuele tarief hoger dan het jouwe, dan is de vergoeding nul.
 
-- Je wilt een one-stop-shop voor stroom, gas, zonnepanelen en isolatie-advies
-- Je hebt een hoog stroomverbruik (warmtepomp + EV) en wilt het warmtepomp-tarief
-- Je vindt extra diensten en uitgebreide app belangrijk
-- Je hecht aan een groot bedrijf met veel ervaring
+**Controleer het termijnbedrag.** Beide leveranciers stellen een maandbedrag voor op basis van een geschat verbruik. Leg dat naast je werkelijke jaarverbruik: een te laag termijnbedrag betekent bijbetalen bij de eindafrekening, een te hoog bedrag is een renteloze lening aan je leverancier. Heb je zonnepanelen, controleer dan ook de aanname over je teruglevering — die bepaalt bij beide de ingeschatte terugleverkosten.
 
-## Wanneer kies je Pure Energie?
+Het volledige proces staat in [energieleverancier overstappen: stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/).
 
-- Je wilt 100 procent Nederlandse hernieuwbare stroom zonder certificatenhandel
-- Je vindt persoonlijke klantenservice belangrijker dan uitgebreide app
-- Je wilt structureel een paar procent goedkoper uit zijn
-- Je waardeert focus en transparantie boven brede productlijn
+## Vier fouten bij het vergelijken van groene leveranciers
 
-## Onze inschatting
+1. **Alleen op de kale kWh-prijs kijken.** Vaste leveringskosten en terugleverkosten kunnen het verschil compleet omdraaien.
+2. **Aannemen dat "groene stroom" overal hetzelfde betekent.** Het verschil tussen eigen Nederlandse productie en ingekochte buitenlandse garanties van oorsprong zie je niet terug in de prijs. Kijk in het stroometiket.
+3. **De terugleverkosten overslaan.** Bij veel teruglevering is dit de grootste post, en vanaf 2027 blijft die bestaan terwijl de saldering wegvalt.
+4. **Een welkomstactie meerekenen die pas vrijvalt aan het einde van het contractjaar**, of die aan voorwaarden gebonden is. Reken de actie pas mee als je zeker weet dat je hem haalt.
 
-Wie waarde legt op aantoonbare herkomst komt bij Pure Energie uit. Dat is een principiële keuze: de directe CO2-impact van een leverancier met Europese herkomstgaranties is niet aantoonbaar hoger, maar de koppeling tussen wat je betaalt en wat er fysiek in Nederland wordt geproduceerd is bij Pure Energie het strakst.
+## Wanneer je beter niet overstapt
 
-Voor een huishouden dat net een warmtepomp heeft laten plaatsen, valt de weegschaal vaker naar Greenchoice: het warmtepomp-tarief en het dagelijkse verbruiksinzicht in de app wegen bij een hoog stroomverbruik zwaarder dan het laatste procent herkomstzuiverheid. Twee verschillende keuzes, beide verdedigbaar.
+- **Je zit nog lang vast en de opzegvergoeding is hoog.** Vraag eerst het bedrag op; is het nul, dan vervalt dit bezwaar.
+- **Je verbruikt heel weinig.** Onder een paar duizend kWh per jaar domineert het vastrecht en is het verschil tussen aanbieders klein.
+- **Je hebt net panelen laten leggen.** Wacht tot je een paar maanden werkelijke teruglevering hebt, zodat je de terugleverkosten op je eigen cijfers kunt doorrekenen in plaats van op een schatting.
 
-## Overstap-praktische zaken
+## Wat als er een stroomstoring is
 
-**Geen onderbreking bij overstap.** De netbeheerder (Liander, Stedin of Enexis) regelt de wisseling. Je stroomt nooit zonder leverancier — de oude leverancier draagt automatisch over. Reken op 2-4 weken transitietijd.
-
-**Termijnbedrag.** Beide leveranciers stellen een termijnbedrag voor op basis van je verwachte verbruik. Controleer dat voorstel altijd tegen je eigen jaarverbruik: een te laag termijnbedrag betekent bijbetalen bij de eindafrekening. In beide gevallen volgt een eindafrekening na 12 maanden, met teruggave of bijbetaling.
-
-**Opzeggen bij oude leverancier hoeft niet.** De nieuwe leverancier neemt dat over. Ja, soms krijg je een lokservice-belletje van de oude leverancier. Een kort "de keuze is gemaakt, dank u" is voldoende.
-
-**Aanmeldbonus.** Beide leveranciers werken soms met aanmeldcadeaus (50-100 euro tegoed bij doorlopen jaar). Check de actuele actie via <a href="https://go.duurzaamthuislab.nl/greenchoice" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Greenchoice</a> en de Pure Energie-website.
-
-Voor de complete overstapprocedure zie [energieleverancier overstappen 2026 stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/).
-
-## Wat als je een dynamisch contract overweegt?
-
-Beide leveranciers bieden geen dynamisch (uurtarief) contract. Voor wie daarheen wil — vooral relevant met thuisbatterij of warmtepomp — moet je naar Tibber, Frank Energie, ANWB Energie Dynamisch of Easy Energy. Lees:
-
-- [Tibber review ervaringen 2026](/posts/tibber-review-ervaringen-2026/)
-- [Frank Energie review ervaringen 2026](/posts/frank-energie-review-ervaringen-2026/)
-- [Tibber vs ANWB Energie dynamisch 2026](/posts/tibber-vs-anwb-energie-dynamisch-2026/)
-- [Dynamische energiecontracten vergelijking 2026](/posts/dynamische-energiecontracten-vergelijking-2026/)
-
-Voor een gemiddeld huishouden zonder thuisbatterij is dynamisch zelden voordelig. Voor wie een Sessy of Powerwall heeft komen de meeste rekenmodellen op een voordeel in de orde van enkele honderden euro's per jaar, sterk afhankelijk van de prijsspreiding op de markt.
-
-## Hoe vaak overstappen?
-
-Onze aanbeveling: jaarlijks vergelijken, eens per 2-3 jaar daadwerkelijk overstappen mits er sterk voordeel is. De moeite van overstappen is laag (1 uur online), maar overstapbonussen vervallen na enkele jaren. Wie elke twee jaar wisselt verzilvert vaak 100-200 euro aan welkomstbonussen, plus structureel betere tarieven.
-
-Belangrijk voor 2026-2027: blijf flexibel. De salderingsregeling stopt in 2027 en de markt voor terugleververgoedingen verandert sterk. Wat in 2026 een goed contract is, kan in 2028 verouderd zijn. Een korte contractduur (1 of 2 jaar) verdient daarom onze voorkeur.
+Dat loopt niet via je leverancier maar via je netbeheerder. Bij een langdurige onderbreking bestaat er een wettelijke compensatieregeling voor kleinverbruikers; de bedragen en de drempel staan bij je netbeheerder en bij de ACM. Je leverancier compenseert alleen administratieve fouten of onjuiste facturatie. Dit verschilt dus níet tussen Greenchoice en Pure Energie.
 
 ## Conclusie
 
-Greenchoice en Pure Energie zijn allebei legitieme groene leveranciers. Greenchoice is de bredere, meer service-gerichte keuze met warmtepomp-tarieven en extra producten. Pure Energie is de puristische, transparante keuze met 100 procent Nederlandse herkomst en iets lagere tarieven.
+Greenchoice en Pure Energie zijn allebei serieuze groene leveranciers, en het prijsverschil tussen de twee is meestal te klein om de keuze op te baseren. Twee dingen zijn dat wel.
 
-Voor de meeste consumenten is het prijsverschil te klein om doorslaggevend te zijn — kies op herkomstprincipe of servicebehoefte. Voor warmtepomp-bezitters met hoog verbruik kan het Greenchoice warmtepomp-tarief de doorslag geven; voor zonnepanelenbezitters met veel teruglevering wint Pure Energie meestal net.
+Het eerste is herkomst. Pure Energie produceert zelf in eigen Nederlandse wind- en zonneparken; dat is de meest directe koppeling tussen wat je betaalt en wat er fysiek wordt opgewekt. Wil je op dit punt kiezen, vergelijk dan de stroometiketten in plaats van de marketingteksten.
 
-Bekijk de actuele tarieven en voorwaarden via <a href="https://go.duurzaamthuislab.nl/greenchoice" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Greenchoice</a> of de Pure Energie-website voor je definitieve keuze.
+Het tweede is teruglevering. Met het einde van de saldering op 1 januari 2027 wordt de combinatie van terugleververgoeding en terugleverkosten de zwaarste post voor iedereen met zonnepanelen. Die is bij deze twee verschillend van vorm — staffel, bedrag per kWh, of een verkoopvergoeding bij het dynamische contract — en welke gunstiger is, hangt af van hoeveel jij teruglevert. Vraag de exacte bedragen op, reken ze door met je eigen cijfers, en kies daarop.
 
-## Wat te checken bij overweging
+<a href="https://go.duurzaamthuislab.nl/greenchoice" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Greenchoice</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-Concrete checklist voor je over te stappen of nieuwe leverancier te kiezen:
+<a href="https://go.duurzaamthuislab.nl/pure-energie" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Pure Energie</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-1. **Huidige tarieven van beide leveranciers vergelijken** voor jouw verbruiksprofiel. Niet alleen kale kWh, maar ook leveringskosten en eventuele terugleverkosten.
-2. **Contractduur** — kies in 2026-2027 bij voorkeur 1 of maximaal 2 jaar vast, gezien de salderingstransitie.
-3. **Eindafrekening oude leverancier** — zorg dat je niet in een opzegtermijn-conflict komt.
-4. **Klantenservice testen** — bel beide leveranciers met een vraag voordat je kiest. Dat onthult veel.
-5. **Reviews lezen** op Trustpilot, Consumentenbond of energie-vergelijken.nl, met focus op de afgelopen 6 maanden.
-6. **Zonnepanelen-voorwaarden** — als je teruglevert, vraag specifiek naar terugleverkosten en hun voorspelde ontwikkeling.
+## Verder lezen
 
-## Slimme aanvullende keuzes
-
-Bij een overstap naar Greenchoice of Pure Energie heb je vaak nog twee bijkomende beslissingen:
-
-**1. Hoge of lage stroomtarief**
-Beide leveranciers volgen het standaardmodel met dag- en nachttarief. Voor de meeste huishoudens is enkel-tarief tegenwoordig gunstiger door slim verbruik (vaatwasser, wasmachine, batterijladen) overdag.
-
-**2. Vaste of variabele tarief**
-Variabel volgt de marktprijs maandelijks. Vast geeft 1, 2 of 3 jaar zekerheid. Met de huidige onzekerheid op de markt zijn 1-jarige vaste contracten populair — verzeker je tegen pieken zonder te lang vast te zitten.
-
-**3. Direct gegevens-koppeling met thuisbatterij of EV**
-Voor wie een thuisbatterij of EV-laadpaal heeft is een leverancier met goede API- of integratie-mogelijkheden waardevol. Greenchoice biedt geen dynamisch contract, dus de integratie is beperkt. Pure Energie ook niet. Voor actief slimme aansturing wil je naar Tibber of Frank.
-
-Voor de keuze tussen verschillende contractvormen zie [dynamisch vs vast contract 2026](/posts/dynamisch-vs-vast-contract-2026/).
-
-## Total cost of ownership 5 jaar
-
-Beide leveranciers vergelijken op enkel de kale kWh-prijs is misleidend. Onderstaand rekenvoorbeeld is een modelberekening, geen prijsopgave.
-
-Aannames van het model:
-- 3.200 kWh stroomverbruik per jaar, geen zonnepanelen
-- kale kWh-prijs uit de bandbreedtes in de tabel hierboven (Greenchoice 0,29-0,32 euro, Pure Energie 0,28-0,31 euro)
-- vaste leveringskosten uit dezelfde tabel (8,50-9,50 euro respectievelijk 9,00-10,00 euro per maand)
-- netbeheerkosten en belastingen buiten beschouwing: die zijn bij beide leveranciers identiek
-
-Uitkomst van het model: het jaarverschil op stroom blijft binnen circa 30 tot 50 euro. Het lagere kWh-tarief van Pure Energie wordt grotendeels weggestreept door het iets hogere vastrecht. Over vijf jaar praat je dus over enkele honderden euro's — te weinig om de keuze op te baseren, en kleiner dan de tariefwijzigingen die in vijf jaar tijd hoe dan ook plaatsvinden.
-
-Voor een huishouden met zonnepanelen en substantiële teruglevering verschuift het beeld naar de terugleverkosten. Die zitten bij beide leveranciers in een trapsysteem (zie de bandbreedtes eerder in dit artikel) en zijn per teruglevercategorie anders. Wie meer dan circa 2.000 kWh per jaar teruglevert, moet die trap voor het eigen profiel doorrekenen: dat bedrag weegt in 2026 vaak zwaarder dan het hele verschil in kWh-prijs. Vraag daarom bij beide leveranciers de actuele trap op voordat je kiest.
-
-## Waar de winst van een overstap vandaan komt
-
-Een veelvoorkomende situatie: iemand zit al vijf jaar of langer bij een grote traditionele leverancier op een doorgerold variabel tarief en vergelijkt nooit. Daar zit meestal de grootste besparing — niet in het verschil tussen Greenchoice en Pure Energie onderling, maar in het verschil tussen "nooit vergeleken" en "eens per jaar vergeleken".
-
-De winst bestaat in de praktijk uit drie posten die je los kunt narekenen:
-1. Het verschil in kale kWh- en m3-prijs tussen je huidige doorgerolde tarief en het scherpste actuele aanbod.
-2. Het verschil in vaste leveringskosten, dat bij laag verbruik relatief zwaar meeweegt.
-3. Een eventuele welkomstactie, die alleen meetelt als je het contractjaar uitzit.
-
-Reken die drie posten door met je eigen jaarnota naast je, niet met een gemiddeld huishouden. Bij afwijkend verbruik — klein appartement, of juist warmtepomp plus elektrische auto — valt de uitkomst snel anders uit dan elk voorbeeldbedrag.
-
-## Wanneer NIET overstappen tussen deze twee
-
-Drie scenario's waarin de overstap niet rendeert. Een: je hebt nog 14+ maanden lopend bij huidige aanbieder met opzegboete hoger dan 200 euro — wacht tot opzeggen kosteloos kan. Twee: je hebt een dynamisch contract bij Frank, ANWB of Tibber draaien dat in 2026 onder 0,28 euro per kWh gemiddeld zit — dan ben je goedkoper uit dan beide groene aanbieders. Drie: je gebruikt minder dan 1.500 kWh per jaar (klein appartement, weinig thuis) — dan domineert vastrecht en is verschil tussen aanbieders verwaarloosbaar.
-
-## Veelgemaakte fouten bij vergelijking
-
-Vier dingen die vaak verkeerd gaan. Een: alleen kijken naar de kale kWh-prijs zonder vastrecht en netbeheerkosten mee te nemen. Twee: aannemen dat "groene stroom" bij elke leverancier hetzelfde betekent — een deel van de markt dekt de levering af met buitenlandse Garanties van Oorsprong, terwijl Pure Energie levert uit eigen Nederlandse wind- en zonneparken; dat verschil zie je niet in de prijs terug. Drie: terugleverkosten over het hoofd zien, terwijl die bij veel teruglevering een grotere post zijn dan het verschil in leveringstarief. Vier: een welkomstbonus meerekenen die pas vrijvalt als je het contractjaar volmaakt, of die aan voorwaarden gebonden is.
-
-**Welke leverancier doet het beter bij dynamische contracten?**
-Geen van beide is in 2026 een dynamisch-eerste aanbieder. Wie op uurtarieven wil handelen — relevant met thuisbatterij, warmtepomp of elektrische auto — komt uit bij Frank Energie, Tibber, ANWB Energie Dynamisch of Easy Energy. Check bij twijfel het actuele productoverzicht op de site van de leverancier zelf: het aanbod op dit vlak verandert per seizoen.
-
-**Heb ik recht op compensatie bij stroomstoringen?**
-Niet via leverancier. Stroomstoringen vallen onder netbeheerder (Liander, Stedin, Enexis). Bij meer dan 4 uur storing krijg je via netbeheerder 35 euro standaard. Leverancier compenseert alleen administratieve fouten of foutieve facturatie.
-
-
-Verder lezen:
-- [Eneco vs Vattenfall vs Essent 2026](/posts/eneco-vs-vattenfall-vs-essent-2026/)
-- [Groene stroom vs grijze stroom 2026](/posts/groene-stroom-vs-grijze-stroom-2026/)
-- [Tibber review ervaringen 2026](/posts/tibber-review-ervaringen-2026/)
-- [Frank Energie review ervaringen 2026](/posts/frank-energie-review-ervaringen-2026/)
-- [Energieleverancier overstappen 2026 stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/)
-- [Dynamisch vs vast contract 2026](/posts/dynamisch-vs-vast-contract-2026/)
-- [Terugleverkosten zonnepanelen 2026](/posts/terugleverkosten-zonnepanelen-2026/)
-- [Salderingsregeling afbouw 2026](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+- [Eneco vs Vattenfall vs Essent](/posts/eneco-vs-vattenfall-vs-essent-2026/)
+- [Groene stroom vs grijze stroom](/posts/groene-stroom-vs-grijze-stroom-2026/)
+- [Terugleverkosten zonnepanelen](/posts/terugleverkosten-zonnepanelen-2026/)
+- [Terugleverkosten vergelijken](/terugleverkosten-vergelijken/)
+- [Energieleverancier overstappen: stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/)
+- [Dynamisch vs vast contract](/posts/dynamisch-vs-vast-contract-2026/)
+- [Saldering stopt in 2027](/posts/saldering-stopt-2027-volledige-gids/)
+- [Salderingsregeling afbouw: wat betekent het](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)

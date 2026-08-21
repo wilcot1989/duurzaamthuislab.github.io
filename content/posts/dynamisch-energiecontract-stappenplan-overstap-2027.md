@@ -1,9 +1,9 @@
 ---
 title: 'Dynamisch energiecontract stappenplan: overstap voor januari 2027'
 date: 2026-10-24 08:00:00+02:00
-lastmod: 2026-10-24 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
-description: 'Q4 = het beste overstap-moment naar dynamisch voor januari 2027. Stappenplan Tibber, Frank en ANWB met berekening jaarvoordeel op huidige spot-prijzen.'
+description: 'Wil je per 1 januari 2027 op een dynamisch contract zitten? Stappenplan met doorlooptijd, de publieke tarieven van Tibber, Frank Energie en ANWB Energie, en een narekenbare modelberekening.'
 categories:
   - energiecontracten
 tags:
@@ -24,208 +24,153 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1473341304170-971dccb5ac1e&w=1200&output=webp&q=70
 faq:
-  - q: 'Waarom is Q4 het beste moment om over te stappen?'
-    a: 'Een overstap duurt 4 tot 8 weken. Bestel je in oktober of november, dan ben je per 1 januari 2027 actief op het nieuwe contract — precies wanneer de saldering stopt en dynamisch het meeste voordeel oplevert.'
-  - q: 'Wat is mijn verwachte jaarvoordeel met huidige spot-prijzen?'
-    a: 'Voor een gemiddeld huishouden zonder EV en zonder warmtepomp: 150 tot 300 EUR per jaar. Met EV en slim laden erbij: 400 tot 700 EUR. Met EV én batterij: 700 tot 1200 EUR.'
-  - q: 'Welke aanbieder kies ik: Tibber, Frank of ANWB?'
-    a: 'Tibber bij EV-bezit, Frank Energie bij prijsgevoeligheid, ANWB Energie als je waarde hecht aan klantenservice en merknaam. De prijsverschillen zijn klein, het servicegeld varieert tussen 4,99 en 6,95 EUR per maand.'
-  - q: 'Werkt dynamisch contract ook zonder slim apparaat?'
-    a: 'Ja, maar dan haal je minder voordeel. Met een EV of thuisbatterij kan de besparing 3 tot 5 keer groter zijn dan zonder. Voor passieve verbruikers loopt het voordeel tegen de 150 EUR per jaar aan.'
-  - q: 'Kan ik halverwege weer terug naar vast?'
-    a: 'Ja. Dynamische contracten zijn meestal maandelijks opzegbaar zonder boete. Vaste contracten daarna kennen wel weer een vaste looptijd, maar je zit nergens vast.'
-  - q: 'Hoe zit het met salderen onder dynamisch contract?'
-    a: 'Tot 31 december 2026 mag je gewoon salderen, ook onder dynamisch. Per kWh teruglevering krijg je dan het op-dat-moment-geldende uurtarief. Na 1 januari 2027 geldt voor iedereen de nieuwe terugleververgoeding.'
-products:
-  - name: Tibber dynamisch contract
-    url: https://go.duurzaamthuislab.nl/tibber
-    price: '6'
-  - name: Frank Energie dynamisch
-    url: https://go.duurzaamthuislab.nl/frank-energie
-    price: '5.99'
-  - name: ANWB Energie Dynamisch
-    url: https://go.duurzaamthuislab.nl/anwb-energie
-    price: '6.95'
-  - name: Sessy thuisbatterij (combo)
-    url: https://go.duurzaamthuislab.nl/sessy
-    price: '5995'
+  - q: 'Wanneer moet ik aanvragen om per 1 januari 2027 over te zijn?'
+    a: 'Reken op vier tot acht weken tussen aanmelding en de eerste dag op het nieuwe contract: de opzegtermijn bij je huidige leverancier is doorgaans dertig dagen en daarna volgt de administratieve verwerking. Wie begin november aanvraagt zit krap, wie in oktober aanvraagt heeft marge. Een garantie op de startdatum geeft geen enkele leverancier; die staat pas vast in de bevestigingsmail.'
+  - q: 'Hoeveel levert een dynamisch contract mij op?'
+    a: 'Dat hangt volledig af van de vraag of je verbruik kunt verschuiven. Zonder sturing betaal je ongeveer het gemiddelde van de uurprijzen plus de inkoopvergoeding van de leverancier — dat ligt dicht bij een vast tarief, en de maandelijkse vaste kosten komen er nog bij. Het voordeel ontstaat pas als een elektrische auto, warmtepomp of thuisbatterij naar de goedkope uren verschuift. Onderaan dit artikel staat een modelberekening met expliciete aannames waarmee je je eigen situatie kunt doorrekenen.'
+  - q: 'Wat rekenen Tibber, Frank Energie en ANWB Energie?'
+    a: 'Tibber rekent 5,99 EUR per maand per energiesoort — met stroom en gas betaal je dus twee keer dat bedrag — plus een inkoopvergoeding van 0,0248 EUR per kWh. ANWB Energie noemt inkoopkosten van 0,018 EUR per kWh. Frank Energie rekent zowel een inkoopvergoeding als een terugleverstaffel (ingevoerd per 1 juni 2025), maar publiceert de vaste kosten niet op de tarievenpagina; vraag die op voordat je tekent. Peildatum van deze gegevens: augustus 2026.'
+  - q: 'Werkt een dynamisch contract ook zonder slimme apparaten?'
+    a: 'Het werkt, maar het levert weinig op. Zonder sturing volg je simpelweg de uurprijs en betaal je bovendien de maandelijkse vaste kosten van de leverancier. Wie niets kan verschuiven, kan een dynamisch contract beter naast een concreet vast aanbod leggen en de totale jaarkosten vergelijken in plaats van alleen het kale tarief.'
+  - q: 'Kan ik halverwege weer terug naar een vast contract?'
+    a: 'Dynamische contracten zijn doorgaans maandelijks opzegbaar zonder boete; Tibber vermeldt dat expliciet. Controleer het wel in de voorwaarden van de leverancier die je kiest, want het is geen wettelijke regel. Sluit je daarna een vast contract, dan geldt daarvoor weer een looptijd.'
+  - q: 'Hoe zit het met salderen onder een dynamisch contract?'
+    a: 'Tot en met 31 december 2026 mag je salderen, ook onder een dynamisch contract; per kWh teruglevering geldt dan het uurtarief van dat moment. Per 1 januari 2027 stopt de salderingsregeling volledig — er is geen afbouwpad. Wat je daarna voor teruglevering krijgt, bepaalt je leverancier zelf en verschilt per contract.'
 schema_type: Article
-last_updated: '2026-10-24'
+last_updated: '2026-08-21'
 category: energiecontracten
 ---
 
-Begin oktober kreeg ik een berichtje van Linda uit Hoofddorp. "Mark, ik wil overstappen naar dynamisch, maar ik wil niet pas eind januari live zijn. Wanneer moet ik echt op de knop drukken?" Goede vraag, en eentje die ik in oktober tientallen keren hoor. In dit artikel werk ik het stappenplan uit zodat je per 1 januari 2027 actief bent op het nieuwe contract — precies wanneer de saldering stopt en je de besparingen nodig hebt.
+*Disclosure: de links naar Tibber, Frank Energie en ANWB Energie in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
-*Disclosure: de links naar ANWB Energie, Frank Energie, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+Wie per 1 januari 2027 op een dynamisch contract wil zitten, moet daar ruim van tevoren mee beginnen. Niet omdat de overstap ingewikkeld is, maar omdat er een opzegtermijn en een administratieve doorlooptijd tussen zitten. Deze pagina zet de doorlooptijd, de publieke tarieven en een narekenbare kostenvergelijking op een rij, zodat je zelf kunt bepalen of en wanneer overstappen zin heeft.
 
-> **Kort antwoord:** Overstappen naar dynamisch duurt 4 tot 8 weken. Voor een 1 januari 2027 start moet je uiterlijk 15 november 2026 de aanvraag indienen — bij voorkeur al eind oktober. Op basis van huidige spot-prijzen verwacht ik een gemiddeld jaarvoordeel van 200 tot 700 EUR, afhankelijk van of je een EV, batterij of warmtepomp hebt. Tibber bij EV, Frank bij prijsgevoeligheid, ANWB bij voorkeur voor klantenservice.
+Alle tarieven hieronder zijn de bedragen die de leveranciers zelf publiceren, opgehaald in augustus 2026. Waar een leverancier een bedrag niet publiceert, staat dat er nadrukkelijk bij in plaats van een schatting.
 
-## Waarom Q4 de gouden timing is
+> **Kort antwoord:** reken op vier tot acht weken tussen aanmelding en startdatum. Voor een start op 1 januari 2027 betekent dat: aanvragen in oktober, uiterlijk begin november. Een dynamisch contract loont vooral als je verbruik kunt verschuiven — zonder elektrische auto, warmtepomp of thuisbatterij is het verschil met een vast tarief klein en kunnen de maandelijkse vaste kosten het voordeel opeten.
 
-De overstap zelf duurt typisch 4 tot 8 weken vanaf aanmelding. Dat heeft te maken met de wettelijke opzegtermijn van je huidige leverancier (meestal 30 dagen) plus de tijd die je nieuwe leverancier nodig heeft voor administratieve verwerking. In de praktijk levert dit het volgende plaatje op:
+## Waarom de timing telt
 
-| Aanmeld-datum | Verwachte startdatum | Doel: 1 januari 2027 |
+De overstap duurt vanaf aanmelding doorgaans vier tot acht weken. Dat komt door de opzegtermijn bij je huidige leverancier — meestal dertig dagen — plus de tijd die de nieuwe leverancier nodig heeft voor de administratieve verwerking en de melding bij de netbeheerder. Afgeleid van die doorlooptijd ziet de planning er zo uit:
+
+| Aanmelddatum | Verwachte start (4–8 weken) | Haal je 1 januari 2027? |
 |---|---|---|
-| 1 oktober | 1 december | Royaal, marge voor problemen |
-| 15 oktober | 15 december | Comfortabel |
-| 1 november | 1 januari | Net op tijd |
-| 15 november | 15 januari | Mis je 2 weken |
-| 1 december | 1 februari | Mis je 1 maand |
+| 1 oktober | eind oktober – eind november | ruim, marge voor problemen |
+| 15 oktober | half november – half december | comfortabel |
+| 1 november | eind november – eind december | net op tijd |
+| 15 november | half december – half januari | mogelijk twee weken te laat |
+| 1 december | eind december – eind januari | waarschijnlijk een maand te laat |
 
-Wie eind oktober afsluit zit ruim, wie half november nog twijfelt loopt risico om de eerste weken van januari nog onder zijn oude vaste contract te zitten. Niet rampzalig, maar wel zonde — januari is statistisch de duurste energie-maand en daar wil je dynamisch goedkoper van profiteren. Lees ook mijn [vergelijking dynamisch vs vast contract](/posts/dynamisch-vs-vast-contract-2026/) voor de structurele afwegingen.
+Dit is een afgeleide planning, geen toezegging. De enige datum die telt is die in de bevestigingsmail van je nieuwe leverancier. Staat daar een startdatum ná 1 januari en wil je dat niet, neem dan contact op — leveranciers kunnen een geplande datum soms vervroegen als de opzegging al rond is.
 
-## Hoe ik de jaarvoordeel-berekening doe
+Waarom 1 januari 2027 als richtpunt? Omdat de salderingsregeling per die datum volledig stopt. Er is geen afbouwpad: het wetsvoorstel met een geleidelijke afbouw is verworpen, dus per 1 januari 2027 vervalt saldering in één keer. Wat je vanaf dat moment voor teruglevering krijgt, bepaalt je leverancier. De structurele afweging tussen beide contractvormen staat in onze [vergelijking dynamisch vs vast contract](/posts/dynamisch-vs-vast-contract-2026/).
 
-Voor dit artikel gebruik ik de gemiddelde EPEX-spot-prijzen van september 2026 (12,3 cent/kWh dag-gemiddeld, met daggemiddelde laagste uur 4,2 cent en daggemiddelde hoogste uur 28,1 cent). Daarbovenop komen de energiebelasting, ODE en btw, plus het servicegeld van de aanbieder. Voor 2027 reken ik met dezelfde structuur maar zonder saldering.
+## Wat de drie aanbieders publiceren
 
-## Profiel 1: passief huishouden zonder EV en zonder batterij
+| | Tibber | Frank Energie | ANWB Energie |
+|---|---|---|---|
+| Vaste kosten per maand | 5,99 EUR per energiesoort | niet gepubliceerd | niet op de energiepagina vermeld |
+| Inkoopvergoeding stroom | 0,0248 EUR/kWh | wel aanwezig, bedrag niet gepubliceerd | 0,018 EUR/kWh |
+| Terugleverkosten | geen aparte staffel gepubliceerd | terugleverstaffel sinds 1 juni 2025 | zie tarievenpagina |
+| Opzegbaar | maandelijks | zie voorwaarden | zie voorwaarden |
 
-Een gezin dat overdag werkt, geen elektrische auto rijdt, geen warmtepomp heeft en niet bewust met de stroomprijzen bezig is. Verbruik: 2.800 kWh per jaar.
+Peildatum: augustus 2026, op basis van de eigen tarief- en voorwaardenpagina's van de leveranciers.
 
-| Onderdeel | Vast contract | Tibber | Frank | ANWB |
-|---|---|---|---|---|
-| Stroomkosten per jaar | 868 EUR | 745 EUR | 738 EUR | 752 EUR |
-| Servicegeld per jaar | 0 EUR | 72 EUR | 60 EUR | 83 EUR |
-| Netto kosten | 868 EUR | 817 EUR | 798 EUR | 835 EUR |
-| Besparing per jaar | basis | 51 EUR | 70 EUR | 33 EUR |
+Twee dingen vallen op. Ten eerste: bij Tibber betaal je de vaste kosten **per energiesoort**. Heb je stroom én gas, dan is dat 11,98 EUR per maand, niet 5,99. Dat wordt in vergelijkingen vaak over het hoofd gezien. Ten tweede: Frank Energie rekent naast een inkoopvergoeding ook een terugleverstaffel, ingevoerd per 1 juni 2025. Voor huishoudens met zonnepanelen is dat een kostenpost die je in de vergelijking moet meenemen; de hoogte hangt af van hoeveel je teruglevert.
 
-Voor de passieve verbruiker is dynamisch dus 30 tot 70 EUR per jaar voordeliger dan vast. Niet spectaculair, maar het kost ook niets om over te stappen. Lees mijn [Tibber vs Frank Energie review](/posts/tibber-vs-frank-energie-2026/) voor de keuze-criteria.
+Wat wij niet doen, is een winnaar aanwijzen op basis van bedragen die niet publiek zijn. Frank Energie publiceert de vaste kosten niet op de tarievenpagina. Zolang dat zo is, kun je Frank niet zuiver naast Tibber leggen — vraag het bedrag op voordat je tekent, en leg het antwoord schriftelijk vast.
 
-## Profiel 2: gezin met EV
+## Modelberekening: wat verschuiven oplevert
 
-Gezin met EV (gemiddeld 12.000 km/jaar, dus rond 2.400 kWh laden) en standaard huishoudverbruik. Totaalverbruik: 5.200 kWh per jaar. EV laadt 90% thuis, ingesteld op smart-laden.
+Hieronder een modelberekening met expliciete aannames. Dit zijn geen gemeten resultaten en geen belofte, maar een rekenvoorbeeld dat je met eigen cijfers kunt herhalen.
 
-| Onderdeel | Vast contract | Tibber | Frank | ANWB |
-|---|---|---|---|---|
-| Stroomkosten huis | 868 EUR | 745 EUR | 738 EUR | 752 EUR |
-| Stroomkosten EV (vast) | 720 EUR | n.v.t. | n.v.t. | n.v.t. |
-| Stroomkosten EV (slim) | n.v.t. | 312 EUR | 318 EUR | 325 EUR |
-| Servicegeld | 0 EUR | 72 EUR | 60 EUR | 83 EUR |
-| Totaal | 1.588 EUR | 1.129 EUR | 1.116 EUR | 1.160 EUR |
-| Besparing per jaar | basis | 459 EUR | 472 EUR | 428 EUR |
+**Aannames**
 
-Hier zit het echte verschil. Een EV die slim laadt op de goedkope uren bespaart 400 tot 480 EUR per jaar — meer dan genoeg om het servicegeld terug te verdienen. Mijn [beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) bespreekt deze combinatie verder.
+- Gemiddelde day-ahead-prijs: 0,105 EUR/kWh (jaargemiddelde 2025).
+- Een huishouden verbruikt relatief meer in de ochtend- en avondpiek dan gemiddeld. Wij rekenen daarom met een profielopslag van 5 procent: 0,110 EUR/kWh voor ongestuurd verbruik.
+- Vast contract: 0,13 EUR/kWh kaal, exclusief btw. **Dit is een aanname**, geen marktgemiddelde — vul hier het tarief uit je eigen aanbod in.
+- Energiebelasting (0,09161 EUR/kWh excl. btw in 2026), netbeheerkosten en btw zijn in beide scenario's gelijk en vallen tegen elkaar weg. Alleen het kale leveringstarief en de vaste kosten verschillen dus.
+- Btw: 21 procent.
 
-## Profiel 3: gezin met EV én thuisbatterij
+**Scenario A — geen sturing, 2.800 kWh per jaar**
 
-Hetzelfde gezin als profiel 2, maar nu met een Sessy 5 kWh batterij. De batterij koopt energie op de goedkope uren (4-6 cent) en verbruikt het tijdens de dure uren (24-28 cent). Daar bovenop slim laden van de EV.
+Kaal dynamisch: 0,110 + 0,0248 inkoopvergoeding = 0,1348 EUR/kWh. Kaal vast: 0,13 EUR/kWh. Verschil: 0,0048 EUR/kWh in het nadeel van dynamisch, ofwel 13 EUR exclusief btw over 2.800 kWh — circa 16 EUR inclusief btw per jaar. Daar komen de vaste kosten nog bovenop, en die betaal je bij een vast contract meestal ook, dus die moet je één op één naast elkaar leggen.
 
-| Onderdeel | Vast contract | Tibber + Sessy |
-|---|---|---|
-| Stroomkosten huis | 868 EUR | 612 EUR |
-| Stroomkosten EV (slim) | 720 EUR | 312 EUR |
-| Batterij-arbitrage voordeel | 0 EUR | -180 EUR (extra besparing) |
-| Servicegeld | 0 EUR | 72 EUR |
-| Totaal | 1.588 EUR | 816 EUR |
-| Besparing per jaar | basis | 772 EUR |
+De conclusie van dit scenario is dat het verschil kleiner is dan de onzekerheid in de aanname over het vaste tarief. Wie niets kan verschuiven, stapt niet over om geld te besparen.
 
-Het ultieme profiel: ruim 770 EUR besparing per jaar. Inclusief saldering-stop verlies (ongeveer 800 EUR voor dit profiel) kom je netto op een verlies van 30 EUR — beter dan de 800 EUR verlies bij vast contract. Lees mijn [ROI berekening voor de thuisbatterij na saldering](/posts/roi-thuisbatterij-na-saldering-2027-berekening/) als verdieping.
+**Scenario B — 2.400 kWh verschoven naar goedkope uren**
 
-## Het stappenplan: van aanmelding tot eerste factuur
+Stel dat een elektrische auto 2.400 kWh per jaar laadt en dat volledig 's nachts doet. Aanname: het gemiddelde over die uren ligt 40 procent onder het jaargemiddelde, dus 0,063 EUR/kWh. Plus inkoopvergoeding: 0,0878 EUR/kWh, tegenover 0,13 EUR/kWh bij vast. Verschil: 0,0422 EUR/kWh × 2.400 kWh = 101 EUR exclusief btw, ofwel circa 123 EUR inclusief btw per jaar. Trek daar de vaste kosten van af die je bij een vast contract niet zou betalen, en houd rekening met de opslag op het ongestuurde deel van je verbruik uit scenario A.
 
-**Stap 1 (vandaag): bepaal je verbruiksprofiel.** Pak je laatste twee jaarafrekeningen. Noteer jaarverbruik, teruglevering (indien panelen), en welke apparaten je hebt die slim kunnen schakelen (EV, warmtepomp, batterij, smart vaatwasser). Mijn [rekenmodel dynamisch contract besparing](/posts/dynamisch-contract-besparing-rekenmodel-2026/) helpt hierbij.
+Die 40 procent is de gevoeligste aanname in de hele som. Hoe groot de spreiding tussen goedkoopste en duurste uur op dit moment werkelijk is, kun je zien op onze pagina met [actuele stroomprijzen](/stroomprijzen/). Halveert de spreiding, dan halveert het voordeel.
 
-**Stap 2 (week 1): kies je aanbieder.** Op basis van het profiel:
-- Heb je een EV? Kies Tibber. Hun smart-laden-integratie is de marktstandaard.
-- Heb je geen EV maar wil je het laagste maandbedrag? Kies Frank Energie.
-- Hecht je waarde aan Nederlandse klantenservice en eenvoud? Kies ANWB Energie.
+**Scenario C — met thuisbatterij**
 
-**Stap 3 (week 1): aanvraag indienen.** Online formulier, duurt 15 minuten. Je hebt nodig: BSN, IBAN, jaarafrekening 2025, EAN-codes (staat op je oude jaarafrekening). De nieuwe leverancier regelt zelf de opzegging bij je oude leverancier.
+Een batterij verschuift meer volume dan een auto en kan ook op prijsverschillen handelen, maar brengt een investering en een rendementsverlies mee. Die som staat los van de contractkeuze; gebruik daarvoor onze [terugverdientijd-calculator voor thuisbatterijen](/terugverdientijd-thuisbatterij/) en de [ROI-berekening voor de thuisbatterij na saldering](/posts/roi-thuisbatterij-na-saldering-2027-berekening/). Wij nemen hier geen batterijopbrengst op in de contractvergelijking, omdat die opbrengst afhangt van hardware en aansturing en niet van de leverancier.
 
-**Stap 4 (week 2-3): wachten op bevestiging.** Je krijgt een mail met de geplande startdatum. Check dat die voor 1 januari 2027 ligt — anders bellen.
+Wil je met je eigen verbruiksprofiel rekenen in plaats van met deze aannames, gebruik dan het [rekenmodel dynamisch contract besparing](/posts/dynamisch-contract-besparing-rekenmodel-2026/).
 
-**Stap 5 (week 4-6): app installeren en koppelen.** Tibber heeft een eigen app. Frank heeft een eigen app. ANWB werkt grotendeels via website. Test of je een verbruiksgrafiek ziet voor je oude verbruik.
+## Het stappenplan
 
-**Stap 6 (week 6-8): EV en/of batterij koppelen.** Smart-laden instellen, batterij-arbitrage activeren. Mijn [home assistant warmtepomp integratie](/posts/home-assistant-warmtepomp-integratie-2026/) is een uitstapje voor wie ver wil gaan.
+**Stap 1 — bepaal je verbruiksprofiel.** Pak je laatste twee jaarafrekeningen. Noteer jaarverbruik stroom en gas, teruglevering als je panelen hebt, en welke apparaten je kunt verschuiven: elektrische auto, warmtepomp, thuisbatterij, boiler, vaatwasser, wasmachine.
 
-**Stap 7 (week 8+): live op nieuw contract.** Vanaf de startdatum tikken de uurtarieven. Tip: zet pushmeldingen aan voor goedkope uren (Tibber heeft dit native).
+**Stap 2 — vraag de ontbrekende tarieven op.** Vraag bij elke leverancier op je shortlist schriftelijk naar de vaste kosten per maand per energiesoort, de inkoopvergoeding per kWh en per m³, en de terugleverkosten. Zonder die drie getallen kun je niet vergelijken.
 
-## Tibber: beste voor EV-bezitters
+**Stap 3 — reken twee scenario's door.** Vul je eigen cijfers in de modelberekening hierboven in: één keer met, één keer zonder sturing. Valt het verschil onder de vaste kosten, dan is overstappen financieel geen verbetering.
 
-Mijn favoriet voor wie een EV heeft. Servicegeld 6 EUR/maand, daarbij koop je stroom 1-op-1 tegen de EPEX-uurprijs plus de wettelijke heffingen. App is uitstekend, smart-laden werkt out-of-the-box met Tesla, Polestar, Volkswagen ID, Hyundai, Kia en MG. Lees mijn complete [Tibber review](/posts/tibber-vs-frank-energie-2026/) en de [alternatief voor Tibber dynamisch contract](/posts/alternatief-voor-tibber-dynamisch-contract-2026/) voor de context.
+**Stap 4 — dien de aanvraag in.** Online, vijftien tot twintig minuten. Je hebt nodig: BSN, IBAN, je laatste jaarafrekening en de EAN-codes van je aansluitingen (die staan op die jaarafrekening). De nieuwe leverancier zegt je oude contract zelf op.
 
-<div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
-<strong>Tibber — dé keuze voor EV-bezitters</strong><br>
-Beste smart-laden integratie in Nederland, EPEX-uurprijs zonder marge, app is technisch sterkste van de drie. Servicegeld 6 EUR/maand. Maandelijks opzegbaar.<br><br>
-<a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Tibber tarieven &rarr;</a>
-</div>
+**Stap 5 — controleer de bevestiging.** Je krijgt een mail met de geplande startdatum. Dat is het enige moment waarop de datum vaststaat. Ligt die te laat, bel dan.
 
-## Frank Energie: beste voor prijsgevoelige consumenten
+**Stap 6 — koppel je meter en apparaten.** Tibber en Frank Energie hebben een eigen app; ANWB Energie werkt met een app en de website. Voor uurinzicht heb je een slimme meter nodig, en voor realtime-inzicht een uitleesapparaat op de P1-poort. Voor het slim schakelen van een warmtepomp kun je onze [Home Assistant warmtepomp-integratie](/posts/home-assistant-warmtepomp-integratie-2026/) aanhouden.
 
-Servicegeld 4,99 EUR/maand — het laagste van de drie. Geen native EV-integratie (moet via Home Assistant), maar als je geen EV hebt is dat geen probleem. App functioneel maar minder polish dan Tibber. Lees mijn [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/) voor de details.
+**Stap 7 — zet je verschuifbare verbruik vast.** Laadschema voor de auto, timers op vaatwasser en wasmachine, en desgewenst meldingen bij lage prijzen. Dit is het deel waar het rendement uit scenario B vandaan komt; sla je het over, dan blijft scenario A over.
 
-<div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
-<strong>Frank Energie — laagste servicegeld, eerlijk product</strong><br>
-4,99 EUR per maand, EPEX-prijs 1-op-1 doorgegeven, sterke klantenservice via telefoon én chat. Voor wie geen tech-toeters hoeft maar wel laag wil zitten op vaste kosten.<br><br>
-<a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Frank Energie tarieven &rarr;</a>
-</div>
+## Tibber
 
-## ANWB Energie: beste voor wie merknaam belangrijk vindt
+Tibber levert stroom tegen de uurprijs plus een inkoopvergoeding van 0,0248 EUR/kWh, met vaste kosten van 5,99 EUR per maand per energiesoort en een maandelijkse opzegtermijn. De app is gebouwd rond slim laden en koppelt met een reeks automerken; welke modellen dat op dit moment zijn, staat op de eigen integratiepagina van Tibber. De prijs van de Tibber Pulse — het uitleesapparaat voor de P1-poort — publiceert Tibber niet openbaar; die krijg je in de bestelflow te zien.
 
-Servicegeld 6,95 EUR/maand — het hoogste van de drie. Maar wel sterke Nederlandse klantenservice en eenvoudige facturatie. Voor mensen die zekerheid en gemak belangrijker vinden dan de scherpste prijs. Mijn [ANWB Energie dynamisch review](/posts/anwb-energie-dynamisch-review-2026/) heeft de details.
+De uitgebreide vergelijking staat in onze [Tibber vs Frank Energie](/posts/tibber-vs-frank-energie-2026/) en de alternatieven in [alternatief voor Tibber](/posts/alternatief-voor-tibber-dynamisch-contract-2026/).
 
-<div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
-<strong>ANWB Energie — voor wie houvast wil bij een vertrouwd merk</strong><br>
-Hoger servicegeld maar dito serviceniveau. Telefonische klantenservice op werkdagen tot 20u, eenvoudige facturatie, geen tech-vereisten. Voor minder tech-savvy gebruikers.<br><br>
-<a href="https://go.duurzaamthuislab.nl/anwb-energie" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk ANWB Energie tarieven &rarr;</a>
-</div>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Tibber</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-## Wat ik Linda uit Hoofddorp heb geadviseerd
+## Frank Energie
 
-Linda heeft: hybride warmtepomp (Atag), geen EV maar wel een vaatwasser en wasmachine die ze 's nachts kan laten draaien, 2.400 kWh teruglevering uit panelen. Mijn advies:
+Frank Energie geeft de uurprijs door met een inkoopvergoeding, en rekent sinds 1 juni 2025 ook een terugleverstaffel voor huishoudens met zonnepanelen. De vaste kosten per maand publiceert Frank niet op de tarievenpagina. Dat maakt het aanbod niet slechter, maar wel lastiger te vergelijken: vraag het bedrag op en zet het naast de 5,99 EUR per energiesoort van Tibber voordat je een keuze maakt. Onze bevindingen staan in de [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/).
 
-1. Direct aanmelden bij Frank Energie (lage maandkosten, geen EV-vereiste)
-2. Vaatwasser en wasmachine programmeren op tijdslots 02:00-05:00 voor goedkope uren
-3. Warmtepomp inroosteren op laag-tarief-uren — Atag heeft via Home Assistant koppeling mogelijk
-4. Eind 2027 evalueren of een Sessy 5 kWh batterij eraan kan om de pieken nog beter te dempen
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Frank Energie</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-Verwacht jaarvoordeel: 320 EUR in 2027 (combinatie lager stroomtarief, slim wassen en warmtepomp tijdsturing).
+## ANWB Energie
 
-## De drie meest gemaakte denkfouten bij overstap
+ANWB Energie geeft de marktprijs door met inkoopkosten van 0,018 EUR/kWh en schrijft op de eigen pagina dat het niet verdient aan je verbruik. Naast dynamisch biedt ANWB ook een vast en een variabel contract aan, met de kanttekening op de eigen site dat die waarschijnlijk niet voordeliger uitpakken. De maandelijkse vaste kosten staan niet op de algemene energiepagina; die vind je op de tarievenpagina en in de aanmeldflow. De details staan in onze [ANWB Energie dynamisch review](/posts/anwb-energie-dynamisch-review-2026/).
 
-**Fout 1: "Ik wacht tot januari, dan weet ik pas wat de saldering wordt."** Onnodig. De saldering stopt 31 december 2026 — geen leverancier kan daarover handelen. Wachten kost je alleen maar de eerste duurste maand van het jaar onder vast contract.
+<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk ANWB Energie</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-**Fout 2: "Dynamisch is alleen voor mensen die de hele dag op een grafiek staren."** Onzin. De app stuurt je pushmeldingen voor uitzonderlijk hoge/lage prijzen, anders hoef je niets. Vaatwasser timer-functie en EV smart laden doen de rest.
+## Drie denkfouten bij de overstap
 
-**Fout 3: "Ik kan tussentijds gemakkelijk wisselen tussen aanbieders."** Klopt grotendeels, maar elke wissel kost 4-8 weken administratie. Beter één goede keuze maken en doorgaan.
+**"Ik wacht tot januari, dan weet ik pas wat er met saldering gebeurt."** De salderingsregeling stopt per 1 januari 2027; dat staat vast en daar kan geen leverancier van afwijken. Wat nog niet vaststaat is wat individuele leveranciers daarna voor teruglevering betalen. Dat verandert echter niets aan de doorlooptijd van een overstap, dus wachten kost je alleen tijd.
 
-## Externe bron voor consumentenrechten
+**"Dynamisch is alleen iets voor mensen die de hele dag naar een grafiek kijken."** Dat hoeft niet, maar het omgekeerde klopt ook niet: wie níet stuurt, haalt er volgens scenario A vrijwel geen voordeel uit. Het rendement zit in de automatisering, niet in het contract zelf.
 
-Voor de officiele regels rond overstappen en consumentenrechten kun je terecht op de ACM-pagina over energie: zie [acm.nl over energiecontracten](https://www.acm.nl/nl/onderwerpen/energie). Daar vind je de termijnen, klachtenregelingen en wat een leverancier minimaal moet bieden.
+**"Ik wissel gewoon weer als het tegenvalt."** Dat kan meestal, maar elke wissel kost opnieuw vier tot acht weken. Reken liever vooraf door dan achteraf te corrigeren.
 
-## Drie vragen die ik krijg over de overstap
+## Wat je apparaten kunnen verschuiven
 
-**"Mijn huidige leverancier biedt mij ineens een 'flex-tarief' aan om mij binnen te houden — is dat een goed alternatief?"** Meestal niet. Die 'flex-tarieven' van Eneco/Vattenfall/Essent zijn meestal geen EPEX-uurtarieven maar dag/nacht-tarieven met marge. Vraag expliciet of het EPEX-uurprijs zonder marge is. Zo niet: niet doen.
+Niet alleen een elektrische auto is te sturen. Een aantal huishoudelijke apparaten kan zonder extra hardware naar de goedkope uren:
 
-**"Heeft mijn slimme meter de juiste resolutie voor uurprijzen?"** Ja, alle slimme meters (P1-poort) registreren 15-minuten-waarden. Dat is genoeg.
+- **Vaatwasser en wasmachine.** Vrijwel elk modern apparaat heeft uitgestelde start. Het besparingspotentieel is beperkt in absolute euro's — een was- of vaatwasbeurt kost ongeveer 0,5 tot 1,5 kWh — maar het kost je niets.
+- **Elektrische boiler.** Boilers met een tijdklok kunnen op de goedkope uren opwarmen. Hoeveel dat scheelt hangt volledig af van het vermogen en het aantal draaiuren; reken het door met je eigen kWh-verbruik in plaats van met een vuistregel.
+- **Warmtepomp.** Lastiger, omdat de warmtevraag niet vrij te verschuiven is en voorverwarmen rendementsverlies geeft. Via een thermostaat met open koppeling of Home Assistant is beperkt te sturen.
+- **Koelkast en vriezer.** Niet zinvol te sturen; het verbruik is continu en de temperatuur mag niet weglopen.
 
-**"Wat als de stroom een uur lang 80 cent kost — wordt mijn factuur dan rampzalig?"** Extreme prijspieken duren typisch 1-3 uur. Als je in die uren bewust niets doet (geen vaatwasser, geen droger) merkt je factuur er nauwelijks iets van. Bij Tibber stelt ze automatisch een pushmelding op als de prijs door een drempel gaat.
+Wat het totaal oplevert, hangt af van hoeveel kWh je daadwerkelijk verschuift en hoe groot de spreiding tussen de uren is. Vermenigvuldig de verschoven kWh met het prijsverschil per kWh — dat is de hele som.
 
-## Mijn concrete 4-stappenplan voor de overstap
+## Officiële informatie
 
-1. **Reken jouw jaarvoordeel door.** Gebruik mijn [besparing rekenmodel](/posts/dynamisch-contract-besparing-rekenmodel-2026/) of vraag mij om hulp via de site.
-2. **Kies vandaag de aanbieder.** EV? Tibber. Geen EV? Frank. Wil zekerheid? ANWB.
-3. **Dien aanvraag in vóór 15 november 2026.** Dan ben je gegarandeerd live per 1 januari.
-4. **Installeer de app en koppel je apparaten.** EV, batterij, vaatwasser — alles wat slim kan schakelen.
+Voor de regels rond overstappen, opzegtermijnen en consumentenrechten is de [ACM-pagina over energie](https://www.acm.nl/nl/onderwerpen/energie) de bron. Daar staan ook de klachtenroutes en wat een leverancier minimaal moet bieden.
 
-## Wat je apparaten kunnen doen onder dynamisch contract
+## Tot slot
 
-Veel mensen kennen alleen het EV-laden als slim-schakel-optie. Maar er zijn meer huishoudelijke apparaten die je kunt timen op de goedkope uren — vaak zonder extra hardware.
+Een dynamisch contract is geen besparing op zichzelf. Het is een prijsvorm die beloont wat je verschuift, en die verder rekent wat de markt rekent. Wie een elektrische auto, een batterij of een goed te sturen warmtepomp heeft, kan er meetbaar voordeel uit halen. Wie dat niet heeft, kan beter twee concrete aanbiedingen naast elkaar leggen en op totale jaarkosten kiezen.
 
-**Vaatwasser:** elke moderne vaatwasser heeft een uitgestelde start van 1-24 uur. Zet hem 's avonds in en start over 6 uur (rond 02:00) — daarna heeft hij gemiddeld 60% lagere stroomkosten.
-
-**Wasmachine:** zelfde principe. Vooral handig in combinatie met droger: was-en-droog programma's verbruiken samen 2-3 kWh, dus 6-9 cent op goedkope uren versus 24-30 cent op piek-uren.
-
-**Boiler:** moderne boilers met dagklokje kunnen ingesteld worden om alleen op goedkope uren te verwarmen. Bespaart 80-150 EUR per jaar.
-
-**Warmtepomp:** moeilijker te timen, maar via Home Assistant integratie kun je ze instellen om bij voorkeur 's nachts of overdag te draaien op zon-uren. Mijn [warmtepomp Home Assistant integratie](/posts/home-assistant-warmtepomp-integratie-2026/) gaat hier op in.
-
-**Vriezer/koelkast:** geen tijdsturing mogelijk en niet nodig, want continu verbruik. Wel: zorg dat ze niet vol gepropt staan want dan duurt het langer om temperatuur te herstellen tijdens piek-uren.
-
-Een doorsnee gezin dat alleen de vaatwasser en wasmachine slim timed haalt al 80-120 EUR per jaar extra besparing. Dat is bovenop het automatische stroomtarief-voordeel.
-
-## Tot slot: het is geen rocket science
-
-Veel mensen denken dat dynamisch contract iets is voor techneuten met te veel vrije tijd. Mijn schoonmoeder van 71 heeft sinds 2023 Tibber. Ze kijkt nooit naar de app, gebruikt simpelweg de timer op haar vaatwasser om die 's nachts te laten draaien. Resultaat: 180 EUR per jaar besparing zonder een minuut werk. Zo eenvoudig kan het zijn.
-
-De saldering-stop forceert iedereen om opnieuw na te denken over zijn energiecontract. Dynamisch is daarvoor in de meeste gevallen het beste antwoord. Niet omdat het hip is, maar omdat het gewoon goedkoper uit komt. Begin er deze week mee.
+Wil je per 1 januari 2027 over zijn, plan de aanvraag dan in oktober. En vraag bij elke leverancier de drie getallen op die het verschil maken: vaste kosten per maand, inkoopvergoeding per kWh en terugleverkosten.
