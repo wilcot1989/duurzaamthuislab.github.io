@@ -1,9 +1,9 @@
 ---
-title: 'Triple glas vs HR++ glas 2026: welk dubbel of drievoudig?'
+title: 'Triple glas vs HR++ glas 2026: wanneer is de meerprijs terecht?'
 date: 2026-09-12 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: HR++ glas of triple glas in 2026? Wij vergelijken U-waarde, kosten per m2, isolatieprestatie en terugverdientijd. Zo kies je het juiste glas voor jouw woning.
+description: HR++ of triple glas? U-waarden, kosten per m² en een narekenbare modelberekening van de besparing — inclusief waarom de stap van HR++ naar triple zich zelden op energie terugverdient.
 categories:
 - isolatie
 tags:
@@ -25,252 +25,183 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1513279014891-1bff5e7eb38c&w=1200&output=webp&q=70
 faq:
-- q: 'Wat is het verschil tussen HR++ en triple glas?'
-  a: 'HR++ glas heeft twee glasplaten met argon ertussen en een coating, U-waarde 1,1. Triple glas (HR+++) heeft drie glasplaten met twee argon-spouwen, U-waarde 0,5-0,8. Triple isoleert dus circa 35 procent beter, maar is 60-80 procent duurder per m2. De winst per jaar is meestal 30-60 euro per raam.'
-- q: 'Is triple glas de meerprijs waard in 2026?'
-  a: 'Bij nieuwbouw of volledige renovatie naar all-electric warmtepomp: ja. Bij vervanging van bestaand HR++ uitsluitend voor isolatieverbetering: meestal niet. Terugverdientijd voor de meerprijs is vaak 25-40 jaar. Bij vervanging van enkel- of oud dubbelglas is HR++ al een grote sprong en triple een marginale extra.'
-- q: 'Welke U-waarde heeft mijn glas nodig voor een warmtepomp?'
-  a: 'Voor een goed werkende all-electric warmtepomp wil je minimaal HR++ (U=1,1) in de hele woning. Voor optimaal rendement bij aanvoertemperatuur 35 graden helpt triple glas (U=0,7) — maar alleen in combinatie met goede dak-, vloer- en spouwisolatie. Glas alleen vervangen heeft beperkt effect op COP.'
-- q: 'Hoeveel kost triple glas per m2 in 2026?'
-  a: 'Triple glas kost 350-500 euro per m2 inclusief plaatsing in bestaand kozijn. Voor compleet nieuw kozijn met triple glas reken je 600-900 euro per m2. HR++ kost 200-350 euro per m2 in bestaand kozijn. Het verschil per m2 is dus circa 100-200 euro, vermenigvuldigd met je raamoppervlak.'
-- q: 'Kan triple glas in elk kozijn?'
-  a: 'Nee. Triple glas is zwaarder (35-55 kg per m2 versus 25 kg voor HR++) en dikker (38-52 mm versus 24-32 mm). Veel oude houten of aluminium kozijnen zijn niet geschikt. Een glaszetter checkt de sponning en de scharnierbelasting. Bij ongeschikte kozijnen moet je het hele kozijn vervangen — wat de kosten verdubbelt.'
-- q: 'Krijg ik subsidie op triple glas?'
-  a: 'Ja, via ISDE als je het combineert met minimaal een tweede isolatiemaatregel (spouw, vloer, dak of bodem). De subsidie is 30 procent terug, met een grensbedrag van circa 65 euro per m2 voor triple en 45 euro per m2 voor HR++ (afhankelijk van het jaar). Veel gemeentes geven daar bovenop een lokale subsidie of duurzaamheidslening.'
-products:
-- name: ISDE-subsidie isolatieglas
-  url: https://go.duurzaamthuislab.nl/isde
-  price: '0'
+- q: Wat is het verschil tussen HR++ en triple glas?
+  a: 'HR++ bestaat uit twee glasplaten met een argongevulde spouw en een warmtereflecterende coating; de U-waarde is ongeveer 1,1 W/m²K. Triple glas heeft drie platen en twee spouwen en komt op ongeveer 0,5 tot 0,8. Triple isoleert dus zo''n derde tot de helft beter per vierkante meter, maar is per m² fors duurder, dikker en zwaarder. In onze modelberekening scheelt de stap van HR++ naar triple ongeveer €3,50 per m² glas per jaar — bij een gemiddelde woning dus enkele tientjes.'
+- q: Is triple glas de meerprijs waard in 2026?
+  a: 'Op energiebesparing alleen zelden. In onze modelberekening loopt de terugverdientijd van de meerprijs bij vervanging van bestaand HR++ in de orde van dertig jaar of meer, en dat is langer dan de levensduur van de beglazing. Triple is wél verdedigbaar als je toch nieuwe kozijnen plaatst — dan is de meerprijs klein — bij een all-electric warmtepomp met lage aanvoertemperatuur, of als geluid of koudestraling bij het raam het probleem is dat je wil oplossen.'
+- q: Welke U-waarde heb je nodig voor een warmtepomp?
+  a: 'Voor een all-electric warmtepomp wil je in de hele woning minimaal HR++, en vooral een schil die als geheel op orde is: dak, vloer, muren en kierdichting wegen samen veel zwaarder dan het glas alleen. Triple glas verlaagt de warmtevraag verder en helpt om met een lagere aanvoertemperatuur uit te komen, maar alleen glas vervangen verandert het rendement van de warmtepomp nauwelijks. Laat de warmteverliesberekening leidend zijn, niet één bouwdeel.'
+- q: Wat kost triple glas per m² in 2026?
+  a: 'Indicatief €350-€500 per m² inclusief plaatsing in een bestaand, geschikt kozijn, tegen €200-€350 per m² voor HR++. Een compleet nieuw kozijn met triple ligt aanzienlijk hoger, in de orde van €600-€900 per m². Dit zijn marktbandbreedtes, geen offertes: raamvorm, bereikbaarheid, kozijnmateriaal en het aantal ruiten per opdracht bepalen de prijs meer dan het glastype. Op glas en plaatsing geldt 21% btw.'
+- q: Kan triple glas in elk kozijn?
+  a: 'Nee. Triple is aanzienlijk zwaarder en dikker dan HR++, en veel bestaande sponningen zijn te smal of de scharnieren en het hang- en sluitwerk zijn niet op het gewicht berekend. Laat een glaszetter de sponningdiepte opmeten en de constructie beoordelen vóór je iets bestelt. Is het kozijn ongeschikt, dan komt kozijnvervanging erbij en verandert de hele rekensom.'
+- q: Krijg je subsidie op isolatieglas?
+  a: 'Ja, isolatieglas is een ISDE-maatregel. De ISDE keert een vast bedrag per geïsoleerde vierkante meter uit met een maximum, en stelt eisen aan de U-waarde en aan het minimale oppervlak. Wij noemen hier geen bedrag: de bedragen worden tussentijds bijgesteld en de cijfers die op websites circuleren wijken structureel af van de RVO-tabellen. Er geldt géén percentage van de investering en géén eis dat je een tweede maatregel móet uitvoeren; wel verdubbelt het isolatiebedrag als je binnen 24 maanden twee of meer maatregelen uitvoert (rvo.nl, opgehaald 21 augustus 2026). Je vraagt aan ná de plaatsing, met de factuur.'
 schema_type: Article
 ---
-Wie ramen laat vervangen krijgt vrijwel altijd twee tegenstrijdige adviezen. De glaszetter: "voor 1.800 euro meerprijs krijg je triple, dat isoleert veel beter." De energieadviseur: "voor jouw woning is dat overdreven, kies HR++ en stop het verschil in vloerisolatie." Beide hebben een punt, maar slechts één van de twee klopt voor jouw situatie. Dit artikel legt uit welke — en wanneer triple glas de meerprijs wél waard is.
+Wie ramen laat vervangen krijgt vrijwel altijd twee tegenstrijdige adviezen. De glaszetter zegt dat je voor een beperkte meerprijs triple krijgt en dat dat veel beter isoleert. De energieadviseur zegt dat het voor deze woning overdreven is en dat je het verschil beter in vloerisolatie stopt. Beiden hebben een punt; welke van de twee klopt, hangt af van één vraag: wat vervang je, en zit je kozijn er al?
 
-*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
+Dit artikel rekent het door met één consistent model, zodat de bedragen in de tabellen, de FAQ en de conclusie hetzelfde zeggen.
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
+*Dit artikel bevat geen affiliate- of commissielinks. Wij hebben met geen enkele glasleverancier of installateur een commerciële relatie, en de ISDE is een rijkssubsidie waar niets aan te verdienen is.*
 
-
-> **Kort antwoord:** HR++ glas of triple glas in 2026? Wij vergelijken U-waarde, kosten per m2, isolatieprestatie en terugverdientijd. Zo kies je het juiste glas voor jouw woning.
+> **Kort antwoord:** de grote winst zit in de stap van enkel of oud dubbelglas naar HR++. In onze modelberekening bespaart die stap circa €40 per m² glas per jaar vanaf enkel glas, en circa €14 per m² vanaf oud dubbelglas.
 >
-> HR++ glas heeft twee glasplaten met argon ertussen en een coating, U-waarde 1,1. Triple glas (HR+++) heeft drie glasplaten met twee argon-spouwen, U-waarde 0,5-0,8. Triple isoleert dus circa 35 procent beter, maar is 60-80 procent duurder per m2. De winst per jaar is meestal 30-60 euro per raam.
+> De stap van HR++ naar triple levert in datzelfde model nog circa €3,50 per m² per jaar op, tegen €100-€200 meerprijs per m². Dat verdient zich op energie niet terug binnen de levensduur van de ruit. Triple kies je daarom om andere redenen: nieuwe kozijnen die je toch al plaatst, een all-electric warmtepomp met lage aanvoertemperatuur, geluidsoverlast of koudestraling bij het raam.
 
-## Wat is HR++ glas precies?
+## Wat HR++ en triple glas zijn
 
-HR++ glas (HR staat voor Hoog Rendement) bestaat uit twee glasplaten met een spouw van 14-16 mm ertussen, gevuld met argon-gas. Een van de glasplaten heeft een metaaldampcoating die warmtestraling terugkaatst naar binnen. De U-waarde is 1,1 W/m2K — wat zeggen wil dat per vierkante meter glas, per graad temperatuurverschil, 1,1 watt verloren gaat.
+**HR++** bestaat uit twee glasplaten met een spouw van 14-16 mm gevuld met argon, waarbij één plaat een warmtereflecterende coating heeft. De U-waarde is ongeveer 1,1 W/m²K: per vierkante meter glas gaat per graad temperatuurverschil 1,1 watt verloren.
 
-Ter vergelijking:
+**Triple glas** (ook HR+++ genoemd) heeft drie platen en twee argonspouwen, met coatings op de binnenste platen. Daarmee komt de U-waarde op ongeveer 0,5 tot 0,8.
 
-- **Enkel glas**: U=5,8 (15-20 procent van warmteverlies van een huis)
-- **Dubbel glas (oud, jaren 80-90)**: U=2,8
-- **HR-glas**: U=1,8
-- **HR+ glas**: U=1,4
-- **HR++ glas**: U=1,1
-- **Triple glas (HR+++)**: U=0,5-0,8
+Ter oriëntatie de gangbare U-waarden per glastype:
 
-HR++ is sinds 2015 de standaard in Nederlandse nieuwbouw en bij vervanging. Het is de minimumeis bij ISDE-subsidie en bij energielabel A-eisen.
+| Glastype | U-waarde (W/m²K) |
+|---|---|
+| Enkel glas | ±5,8 |
+| Dubbel glas, jaren 80-90 | ±2,8 |
+| HR-glas | ±1,8 |
+| HR+ glas | ±1,4 |
+| HR++ glas | ±1,1 |
+| Triple glas | 0,5-0,8 |
 
-## Wat is triple glas?
+Triple heeft drie nadelen die in verkoopgesprekken zelden vallen:
 
-Triple glas (ook HR+++ of drievoudig glas) heeft drie glasplaten met twee argon-spouwen ertussen. De twee binnenste glasplaten dragen vaak een lage-emissie-coating. Door de extra spouw daalt de U-waarde naar 0,5-0,8 W/m2K. Dat is grofweg 35-50 procent beter geisoleerd dan HR++.
-
-Triple glas heeft drie nadelen die in marketing zelden genoemd worden:
-
-1. **Gewicht**: een ruit van 1,5 m2 weegt al 50-60 kg. Het standaard houten of aluminium kozijn is daar niet altijd op berekend. Scharnieren slijten sneller, en bij verkeerde plaatsing kan de ruit gaan zakken.
-2. **Dikte**: 38-52 mm in plaats van 24-32 mm. Veel bestaande sponningen zijn te smal — dan moet je het kozijn vervangen.
-3. **Lichtdoorlatendheid**: triple glas laat 5-10 procent minder licht door dan HR++ door de derde glasplaat. In een donkere woonkamer op het noorden voel je dat.
+1. **Gewicht.** Een ruit van 1,5 m² weegt bij triple al richting 50-60 kg. Niet elk bestaand kozijn, scharnier of sluitwerk is daarop berekend.
+2. **Dikte.** 38-52 mm tegen 24-32 mm voor HR++. Veel bestaande sponningen zijn te smal, en dan komt kozijnvervanging in beeld.
+3. **Minder zonwarmte en licht.** De derde plaat kost lichtdoorlating en verlaagt de g-waarde, de factor die bepaalt hoeveel zonwarmte binnenkomt. Op het zuiden neemt de gratis winterzon daarmee af — dat eet een deel van de isolatiewinst op.
 
 ## Vergelijkingstabel
 
 | Eigenschap | HR++ | Triple glas |
 |---|---|---|
-| **U-waarde** | 1,1 | 0,5-0,8 |
-| **Aantal glasplaten** | 2 | 3 |
-| **Gevulde spouwen** | 1 (argon) | 2 (argon) |
-| **Dikte** | 24-32 mm | 38-52 mm |
-| **Gewicht (m2)** | 20-25 kg | 35-55 kg |
-| **Prijs per m2 incl. plaatsing** | 200-350 euro | 350-500 euro |
-| **Lichtdoorlating** | 80% | 70-75% |
-| **Geluiddempend** | matig | goed |
-| **Geschikt voor warmtepomp 35°C aanvoer** | matig | uitstekend |
-| **Terugverdientijd vanaf enkel glas** | 12-18 jaar | 18-30 jaar |
-| **Terugverdientijd vanaf HR++** | n.v.t. | 25-40 jaar |
+| U-waarde | ±1,1 | 0,5-0,8 |
+| Aantal glasplaten | 2 | 3 |
+| Gevulde spouwen | 1 (argon) | 2 (argon) |
+| Dikte | 24-32 mm | 38-52 mm |
+| Gewicht per m² | 20-25 kg | 35-55 kg |
+| Prijs per m² incl. plaatsing (indicatie, incl. 21% btw) | €200-€350 | €350-€500 |
+| Lichtdoorlating | hoog | merkbaar lager |
+| g-waarde (zonwarmtewinst) | hoger | lager |
+| Geluiddemping standaarduitvoering | matig | beter |
+| Geschikt in bestaand kozijn | vrijwel altijd | alleen bij voldoende sponningdiepte en draagkracht |
 
-## Wanneer kies je triple glas?
+## De modelberekening
 
-Er zijn drie situaties waarin triple glas duidelijk zin heeft:
+Alles hieronder komt uit één rekenmodel met expliciete aannames. Het is een berekening, geen meting.
 
-**1. Nieuwbouw of complete kozijnvervanging**
-Als je toch nieuwe kozijnen plaatst, kost de meerprijs voor triple beperkt: vaak 80-120 euro per m2 boven HR++. Je kozijnen zijn op het juiste gewicht en dikte ontworpen. In nieuwbouw is triple glas vaak al standaard.
+**Aannames:**
 
-**2. All-electric warmtepomp met aanvoertemperatuur 35 graden**
-Bij een radicaal lage aanvoertemperatuur is elke graad warmteverlies kritisch. Triple glas haalt je U-waarde van het hele huis omlaag, waardoor de pomp efficienter werkt en op koude dagen niet hoeft over te schakelen op de elektrische bijverwarming.
+- Warmteverlies per m² glas per jaar ≈ U-waarde × 64,8 kWh (afgeleid uit circa 2.700 graaddagen; een gangbare vuistregelbenadering).
+- De warmte komt van een gasketel. Wij rekenen het warmteverlies af tegen **€0,13 per kWh warmte** — dat is gasprijs all-in €1,10/m³ gedeeld door 9,77 kWh per m³ en gedeeld door een ketelrendement van 0,85.
+- Geen gedragsverandering, geen verrekening van verminderde zonwarmtewinst bij triple (dat maakt de uitkomst voor triple in werkelijkheid iets ongunstiger).
+- Bij een warmtepomp in plaats van een gasketel valt de kostenbesparing ruwweg de helft lager uit, omdat een kWh warmte dan minder kost. Ook dat is een reden om triple niet op de energierekening te verkopen.
 
-**3. Veel verkeerslawaai of nachtwerk**
-Triple glas dempt 5-8 dB meer dan HR++. Bij een woning naast een spoorlijn of doorgaande weg, of voor mensen die overdag slapen, is dat het verschil tussen wakker liggen en doorslapen.
+**Warmteverlies en kosten per m² glas per jaar:**
+
+| Glastype | Warmteverlies | Kosten bij €0,13/kWh warmte |
+|---|---|---|
+| Enkel glas | ±376 kWh | ±€49 |
+| Oud dubbelglas | ±181 kWh | ±€24 |
+| HR++ | ±71 kWh | ±€9 |
+| Triple (U=0,7) | ±45 kWh | ±€6 |
+
+**Besparing per m² glas per jaar bij vervanging:**
+
+| Van | Naar | Besparing per m² per jaar |
+|---|---|---|
+| Enkel glas | HR++ | ±€40 |
+| Enkel glas | Triple | ±€43 |
+| Oud dubbelglas | HR++ | ±€14 |
+| Oud dubbelglas | Triple | ±€18 |
+| HR++ | Triple | ±€3,50 |
+
+Dit is de kern van het hele artikel: de sprong van enkel of oud dubbel naar HR++ pakt bijna de volledige winst. Wat triple daarbovenop doet, is klein in euro's.
+
+## Uitgewerkt: rijtjeshuis met 14 m² glas
+
+| Scenario | Investering (indicatie, incl. btw) | Besparing per jaar | Terugverdientijd vóór ISDE |
+|---|---|---|---|
+| Enkel glas → HR++ in bestaand kozijn | €2.800-€4.900 | ±€554 | 5-9 jaar |
+| Enkel glas → triple in bestaand kozijn | €4.900-€7.000 | ±€600 | 8-12 jaar |
+| Oud dubbelglas → HR++ | €2.800-€4.900 | ±€200 | 14-25 jaar |
+| Oud dubbelglas → triple | €4.900-€7.000 | ±€248 | 20-28 jaar |
+| Bestaand HR++ → triple (alleen de meerprijs) | €1.400-€2.800 | ±€48 | 29-58 jaar |
+
+Twee conclusies die er hard uit volgen. Eén: enkel glas vervangen is een goede investering, en dan is HR++ voldoende. Twee: bestaand, werkend HR++ vervangen door triple is op energie geen investering maar een comfortaankoop — de terugverdientijd overschrijdt de levensduur van de ruit.
+
+Dat de ISDE hier bovenop komt maakt de uitkomsten korter, maar verandert de rangorde niet: het subsidiebedrag per m² is voor beide glastypen niet zo verschillend dat het de meerprijs van triple goedmaakt.
+
+**Waar de uitkomst kantelt:** bij een gasprijs van €0,90/m³ (warmteprijs ±€0,11/kWh) worden alle terugverdientijden ongeveer 20 procent langer. Bij een all-electric warmtepomp met een goede COP halveren de bedragen ongeveer. Bij een woning met veel glas op het noorden pakt de besparing juist iets hoger uit dan het model zegt, omdat daar geen zonwarmtewinst tegenover staat.
+
+## Wanneer triple glas wél de juiste keuze is
+
+**1. Je plaatst toch nieuwe kozijnen.** Dan is de meerprijs voor triple beperkt tot het glas zelf, en het kozijn is op dikte en gewicht ontworpen. In dat scenario is triple vrijwel altijd verdedigbaar.
+
+**2. All-electric warmtepomp met lage aanvoertemperatuur.** Niet omdat het glas de COP direct verbetert, maar omdat de totale warmtevraag omlaag moet om met 35 graden aanvoer uit te komen. Glas is dan één van de bouwdelen die mee moet — na dak, vloer, muren en kierdichting, niet ervoor.
+
+**3. Geluid.** Triple dempt in standaarduitvoering enkele decibel meer dan HR++. Let op: een verschil van 5 tot 7 dB is duidelijk hoorbaar, maar het is niet "half zo luid" — daarvoor is ruwweg 10 dB nodig. Een **asymmetrisch** HR++ (bijvoorbeeld 6 mm buiten, 4 mm binnen) haalt bij verkeerslawaai vaak vergelijkbare demping als standaard triple, voor minder geld. Zit je aan een spoor of snelweg, laat dan akoestisch glas met folietussenlaag berekenen in plaats van te kiezen op glastype.
+
+**4. Koudestraling en condens aan het raam.** Bij triple is de binnenoppervlaktetemperatuur van de ruit hoger dan bij HR++, waardoor je minder koudeval bij het raam voelt en condens op de ruit minder snel optreedt. Hoeveel graden dat scheelt, hangt af van glasopbouw, kozijn en binnenklimaat; wij noemen daar geen getal bij zonder productgegevens. Merkbaar is het wel — dit is de reden waarom mensen na plaatsing over triple tevredener zijn dan de rekensom rechtvaardigt.
 
 ## Wanneer HR++ de slimme keuze is
 
-Bij vervanging van enkel of oud dubbelglas in een bestaand kozijn is HR++ in 80 procent van de gevallen de juiste keuze:
+- Vervanging van enkel of oud dubbelglas in een bestaand, geschikt kozijn.
+- Beperkt budget: met het uitgespaarde bedrag per m² kun je vloer- of dakisolatie doen, wat per euro meer warmtevraag wegneemt.
+- Bestaande kozijnen die niet op triple-gewicht zijn berekend en die je niet wil vervangen.
 
-- Bestaande kozijnen zijn meestal geschikt voor HR++ (24-32 mm sponning)
-- De stap van enkel naar HR++ levert het grootste deel van de besparing op (zon 80 procent van wat triple zou doen)
-- De terugverdientijd is reeel: 12-18 jaar
-- Met de bespaarde 100-200 euro per m2 kun je de spouw of vloer beter isoleren — wat per euro vaak meer rendement levert
+**Concreet:** bij 14 m² glas is het verschil tussen HR++ en triple in bestaand kozijn indicatief €1.400-€2.800. Datzelfde bedrag in vloerisolatie neemt in onze modellen een veelvoud van 48 euro per jaar weg. Dat is de rekenkundige kern van "het verschil slimmer besteden".
 
-Rekenvoorbeeld bij een rijtjeshuis uit 1978 met 14 m2 te vervangen glas: HR++ komt uit rond 4.200 euro inclusief plaatsing, triple rond 6.500 euro. Dat verschil van 2.300 euro levert in vloerisolatie een terugverdientijd van circa 7 jaar op, terwijl de triple-meerprijs op datzelfde glasoppervlak pas na ongeveer 30 jaar is terugverdiend.
+## Subsidie
 
-## De cijfers per raam
+Isolatieglas is een ISDE-maatregel. Wat je moet weten:
 
-Voor een standaard raam van 1,5 m2 (bijvoorbeeld een woonkamerraam):
+- De ISDE keert een **vast bedrag per m²** uit, met een maximum en een minimaal te isoleren oppervlak, en stelt een eis aan de U-waarde. Bedragen en eisen staan per maatregel op rvo.nl; wij nemen ze niet over omdat ze tussentijds worden bijgesteld.
+- Het is géén percentage van de investering. De vaak genoemde "30 procent terug" bestaat niet als ISDE-regel.
+- Je vraagt aan **ná** de plaatsing, met de factuur als bewijs. Volgens rvo.nl (opgehaald 21 augustus 2026) binnen 24 maanden na afronding.
+- Voer je binnen 24 maanden twee of meer maatregelen uit, dan verdubbelt het isolatiebedrag (rvo.nl, 21 augustus 2026). Eén maatregel alleen mag ook — de eis dat je verplicht een tweede maatregel moet nemen, bestaat niet.
 
-| Vanaf | Naar | Besparing per jaar | Meerprijs | Terugverdien |
-|---|---|---|---|---|
-| Enkel glas | HR++ | 90-130 euro | 450 euro | 4-6 jaar |
-| Enkel glas | Triple | 110-160 euro | 720 euro | 5-7 jaar |
-| Dubbel (oud) | HR++ | 35-55 euro | 450 euro | 9-13 jaar |
-| Dubbel (oud) | Triple | 45-70 euro | 720 euro | 11-16 jaar |
-| HR++ | Triple | 12-25 euro | 270 euro | 12-22 jaar |
-
-Het patroon is duidelijk: de stap van enkel/oud-dubbel naar HR++ verdient zich snel terug. De stap van HR++ naar triple is een lange-termijninvestering die alleen zin heeft bij nieuwbouw of in combinatie met all-electric warmtepomp.
-
-## Subsidies in 2026
-
-Via ISDE krijg je 30 procent terug op isolatieglas mits je minstens een tweede isolatiemaatregel uitvoert (spouw, vloer, dak of bodem). De grensbedragen zijn ongeveer 45 euro per m2 voor HR++ en 65 euro per m2 voor triple.
-
-Voor een woning met 14 m2 te vervangen glas:
-
-- HR++: maximale subsidie ongeveer 630 euro
-- Triple: maximale subsidie ongeveer 910 euro
-
-Veel gemeentes geven daar bovenop nog 5-15 procent extra. Check je gemeentelijke subsidies — soms maakt het de meerprijs voor triple alsnog rendabel.
-
-Voor de complete subsidiegids zie [isolatie subsidie nederland 2026](/posts/isolatie-subsidie-nederland-2026/) en bekijk de actuele <a href="https://go.duurzaamthuislab.nl/isde" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">ISDE-subsidievoorwaarden</a>.
+Reken je eigen situatie door met de ISDE-rekentool op [rvo.nl](https://www.rvo.nl/subsidies-financiering/isde) en kijk daarnaast op [verbeterjehuis.nl](https://www.verbeterjehuis.nl) of je gemeente een eigen regeling heeft. Voor het volledige overzicht: [isolatiesubsidies 2026](/posts/isolatie-subsidie-nederland-2026/).
 
 ## Praktische aandachtspunten bij vervanging
 
-1. **Laat een glaszetter komen** voor je iets bestelt. Hij meet de sponning en checkt de constructie. Reken op 0-50 euro voor het advies.
-2. **Vraag de WTC-waarde** (warmtetransmissie van het complete kozijn). Niet de glas-U-waarde, maar de totale waarde inclusief het kozijn. Een aluminium kozijn met triple glas kan een slechtere WTC hebben dan een houten kozijn met HR++.
-3. **Check de g-waarde**. Dat is de zonwarmte-doorlatingsfactor. HR++ heeft meestal g=0,55-0,60. Triple glas g=0,45-0,50. Lager betekent minder gratis zonwarmte in de winter — relevant op het zuiden.
-4. **Plaatsing is alles**. Slecht aangekitte ramen lekken meer warmte dan een betere ruit kan compenseren.
+1. **Laat eerst opmeten.** Een glaszetter meet de sponningdiepte en beoordeelt kozijn en sluitwerk. Doe dit vóór je een glastype kiest, niet erna.
+2. **Vraag de U-waarde van het hele raam,** niet alleen van het glas. Een slecht isolerend kozijn met triple kan als geheel slechter presteren dan een goed kozijn met HR++.
+3. **Let op de g-waarde.** Lager betekent minder zonwarmte in de winter. Op het zuiden weegt dat mee; op het noorden nauwelijks.
+4. **Plaatsing bepaalt het resultaat.** Een slecht afgekitte aansluiting lekt meer warmte dan het verschil tussen HR++ en triple oplevert.
+5. **Plan het seizoen.** Kit en lijm hechten slecht bij lage temperaturen. Voorjaar of najaar is beter dan hartje winter.
 
-## Ons advies per situatie
+## Veelgehoorde beweringen in offertes
 
-**Vervanging enkel glas in oud kozijn**: HR++. Snelle terugverdientijd, makkelijk te plaatsen.
+**"Triple vereist altijd nieuwe kozijnen."** Niet altijd. Diepere kunststof- en recentere houten kozijnen hebben soms voldoende sponning. Het is een meetkwestie, geen regel.
 
-**Vervanging dubbel glas (jaren 80-90) in goed kozijn**: HR++. Triple is zelden de meerprijs waard.
+**"Het argon lekt er binnen een paar jaar uit."** Overdreven, maar er zit iets in: isolatieglas verliest langzaam vulgas, waardoor de U-waarde over de jaren iets oploopt. Het effect is geleidelijk en beperkt; het is geen reden om niet te isoleren.
 
-**Nieuwbouw of complete renovatie met nieuwe kozijnen**: triple glas. De meerprijs is laag, het comfort en de COP-winst hoog.
-
-**All-electric warmtepomp met aanvoer 35 graden**: triple glas, mits je de rest van de isolatieschil al op orde hebt.
-
-**Geluidsoverlast (snelweg, spoor)**: triple glas of asymmetrisch HR++ (bijv 6-12-4 mm).
-
-## Praktijkvoorbeeld: kostenvergelijking volledige woning
-
-Een rijtjeshuis met 14 m2 te vervangen glas (5 ramen). Vergelijking over 25 jaar:
-
-| Optie | Investering | Jaarlijkse besparing vs enkel | 25-jaar saldo |
-|---|---|---|---|
-| **Enkel glas houden** | 0 | 0 | -56.000 (stookkosten) |
-| **HR++ in bestaand kozijn** | 4.200 | 1.450 | +32.050 |
-| **Triple glas in bestaand kozijn** | 6.500 | 1.700 | +35.500 |
-| **HR++ met nieuw kozijn** | 9.800 | 1.500 | +27.700 |
-| **Triple glas met nieuw kozijn** | 12.500 | 1.750 | +31.250 |
-
-HR++ in bestaand kozijn is over 25 jaar absoluut het hoogste rendement — meer dan triple glas in nieuw kozijn. Dit is niet logisch op het eerste gezicht maar wel kloppend met de getallen.
-
-## Geluiddemping als argument
-
-Voor mensen langs een drukke weg of spoorlijn is geluid soms doorslaggevend. De geluidsreductie:
-
-- **Enkel glas**: 25-28 dB
-- **HR++ glas (4-15-4)**: 30-32 dB
-- **HR++ asymmetrisch (6-12-4)**: 35-38 dB
-- **Triple glas standaard**: 36-40 dB
-- **Triple glas akoestisch**: 42-45 dB
-
-Het verschil tussen HR++ en triple is in standaarduitvoering 5-7 dB. Dat klinkt klein maar betekent gehoormatig "half zo luid". Voor wie aan een drukke weg woont kan een asymmetrisch HR++ (4 mm + 12 mm spouw + 6 mm) bijna evenveel demping geven als triple — voor minder geld.
+**"Kunststof met triple is goedkoper."** Vaak goedkoper dan hout met triple, maar kijk dan naar de U-waarde van het complete raam — daar zit het verschil, niet in het glas.
 
 ## Onderhoud en levensduur
 
-Beide glassoorten gaan 25-40 jaar mee. Het kritische component is de butyl-rubberen rand die de spouwen afdicht. Bij triple glas zijn er twee van die randen, dus statistisch een grotere kans op vroegtijdig falen. Maar in praktijk blijken kwaliteitsmerken zoals AGC, Saint-Gobain en Pilkington vergelijkbaar lang mee te gaan.
+Beide glassoorten gaan doorgaans decennia mee. Het kwetsbare onderdeel is de randafdichting die de spouw hermetisch sluit; bij triple zijn er twee spouwen en dus twee afdichtingen. Symptomen van falen: condens of vervuiling *tussen* de glasplaten, en een ruit die merkbaar kouder aanvoelt dan de andere.
 
-Symptomen van vroegtijdig falen:
-- Condensvorming tussen de glasplaten (bij triple: tussen welke twee?)
-- Verkleuring of beslagen kijk
-- Verlies van isolatie (voelt kouder)
-
-Garantie is meestal 10-15 jaar op de hermetische sluiting, 5-10 jaar op kozijnen.
+Garantietermijnen verschillen per fabrikant en per verwerker en staan in de leveringsvoorwaarden van je opdracht. Vraag ze schriftelijk op en let op het onderscheid tussen garantie op de glaseenheid en garantie op de plaatsing — dat zijn twee verschillende partijen.
 
 ## Conclusie
 
-HR++ glas is in 2026 de standaard die voor de meeste woningen ook de slimste keuze is. Triple glas is een premium-upgrade die zich alleen terugbetaalt bij nieuwbouw, all-electric warmtepompen of geluidsoverlast.
+HR++ is in 2026 voor de meeste bestaande woningen de rationele keuze. Vervang je enkel glas, dan verdient die stap zich in het model binnen vijf tot negen jaar terug. Vervang je oud dubbelglas, dan is de terugverdientijd al lang en is glas eerder een comfort- dan een rendementsmaatregel.
 
-Ons advies: bereken eerst de glas-meerprijs versus de besparing op je hele woning. Reken triple glas alleen rendabel als de COP van je warmtepomp er aantoonbaar door stijgt — en bedenk dat 2.000 euro extra in vloer- of dakisolatie meestal meer oplevert dan 2.000 euro extra in glas.
-
-## Veelgemaakte aandachtspunten bij offertes
-
-In offertes komen dezelfde misvattingen bij beide glastypen terug:
-
-**1. "Triple glas vereist altijd nieuwe kozijnen."**
-Niet waar. Veel jaren-90 kunststof kozijnen hebben sponningen van 36-44 mm en zijn geschikt voor lichte triple. Een glaszetter checkt het in 5 minuten. Aan de andere kant: oude houten kozijnen uit voor 1985 zijn meestal niet geschikt en moeten vervangen worden.
-
-**2. "Argon lekt eruit binnen 5 jaar."**
-Klopt deels. Hoogwaardige isolatie-eenheden verliezen circa 1 procent argon per jaar. Na 25 jaar zit nog 75-80 procent argon erin. Het effect op U-waarde is beperkt — in de praktijk loopt U-waarde van 1,1 op naar 1,3-1,4 in oude HR++ eenheden. Niet dramatisch.
-
-**3. "Kunststof kozijnen + triple glas is goedkoper."**
-Inderdaad goedkoper dan houten kozijn met triple, maar de WTC-waarde is meestal slechter omdat kunststof minder goed isoleert dan hout. Voor de woningwaarde en uitstraling is bij een premium-investering in triple meestal hout of thermisch verbeterd aluminium de betere keuze.
-
-**4. "Plaatsing in winter is geen probleem."**
-Kit en lijm hechten slecht onder 5 graden. Goede installateurs werken in het voorjaar of najaar — wachttijd is dan langer maar plaatsing kwalitatief beter.
-
-## Geluidsisolatie cijfermatig
-
-Voor wie aan een drukke weg woont, het werkelijke geluidseffect:
-
-- Snelweg op 50m afstand: 70-75 dB binnen bij enkel glas, 50-55 dB bij triple glas akoestisch
-- Treinspoor: 65-70 dB binnen bij oud dubbel glas, 45-50 dB bij triple
-- Voetganger en fietsverkeer: vaak met HR++ al goed te dempen
-
-Triple glas akoestisch (asymmetrisch met PVB-folie tussenlaag) is hier de gouden standaard, maar dat kost 600-800 euro per m2. Voor "gewone" stedelijke geluidsoverlast volstaat HR++ asymmetrisch in 80 procent van de gevallen.
-
-## Total cost of ownership over 25 jaar
-
-Mensen kijken te vaak naar de aanschafprijs en vergeten dat glas 25-30 jaar mee gaat. Voor een gemiddelde tussenwoning met 12 m2 glas op het zuiden en 8 m2 op het noorden ziet het plaatje er zo uit. HR++ kost circa 5.500 euro inclusief plaatsing, jaarlijkse besparing 320 euro versus oud dubbelglas, totaal voordeel over 25 jaar 8.000 euro netto. Triple kost circa 8.200 euro, jaarlijkse besparing 410 euro, totaal voordeel 10.250 euro — maar pas na 17 jaar betaalt het verschil zich terug. In de meeste gevallen rendeert de extra 2.700 euro beter in vloerisolatie of een PV-uitbreiding. Tenzij je all-electric gaat met aanvoertemperatuur 35 graden — dan loopt de besparing op naar 480-520 euro per jaar omdat je warmtepomp efficiënter draait.
-
-## Niche-situaties waar triple glas écht uitmaakt
-
-Drie gevallen waarin triple ongeacht de meerprijs te verdedigen is. Ten eerste: noord-georiënteerde slaapkamers waar je 's winters condensvorming op het glas hebt — triple voorkomt dat door een binnenoppervlaktetemperatuur van 17 graden in plaats van 13 bij HR++. Ten tweede: woningen met vloerverwarming als enige warmtebron — daar voelt elke koude glasvlak als tocht. Ten derde: kindersaapkamers boven onverwarmde garages of carports, waar je extra isolatie naar buiten wilt. In die gevallen verslaat het comfortargument elk rekensommetje.
-
-## Rekenvoorbeeld: jaren-30 woning
-
-Modelberekening voor een jaren-30 woning met 14 m2 oud dubbelglas (U=2,8) en een energierekening van circa 2.840 euro per jaar. Bij vervanging door HR++ daalt die met ongeveer 380 euro per jaar, gerekend met de U-waardeverbetering en 2.700 graaddagen.
-
-Een triple-offerte voor hetzelfde oppervlak kost circa 2.300 euro meer; de extra besparing bovenop HR++ is zo klein dat de terugverdientijd op die meerprijs richting 24 jaar loopt. Diezelfde 2.300 euro in 18 m2 vloerisolatie (PIR 80 mm) levert in de berekening circa 240 euro per jaar op.
-
-Samen dus circa 620 euro per jaar voor hetzelfde budget in plaats van circa 400 euro — dat is wat bedoeld wordt met "het verschil slimmer besteden".
-
-## Extra FAQ
-
-**Krimpt of zet triple glas uit bij temperatuurverschillen?**
-Ja, alle isolatieglas zet uit en krimpt. Bij triple is dat sterker omdat de buitenruit meer absorbeert dan bij HR++. Zwart-omkaderd triple aan zuidkant kan in de zomer 70 graden worden — dat zet 1,5 mm uit per meter. Goede sponning en flexibele kit vangen dat op, slechte plaatsing leidt tot scheuren binnen 5 jaar.
-
-**Mag ik triple combineren met buitenzonwering?**
-Absoluut, en het wordt zelfs sterk aanbevolen voor zuidkanten. Triple houdt warmte binnen, maar laat in de zomer ook minder warmte ontsnappen 's nachts. Buitenzonwering (screens of lamellen) voorkomt oververhitting beter dan binnenrolgordijnen, omdat je de warmte buiten houdt.
-
-**Hoe oud mogen mijn kozijnen zijn voor triple?**
-Houten kozijnen jonger dan 15 jaar zijn meestal geschikt mits in goede staat. Aluminium kozijnen vóór 2005 hebben vaak te smalle sponning. Kunststof van merken zoals Schüco, Veka of Aluplast uit periode 2010+ ondersteunen triple zonder probleem. Laat altijd door de glaszetter de sponningmaat opmeten — minimaal 28 mm diepte voor triple.
+Triple glas is de moeite waard als je toch nieuwe kozijnen plaatst, als je all-electric gaat met lage aanvoertemperatuur, of als geluid en koudestraling het probleem zijn dat je oplost. Ga je alleen op de energierekening af, dan verdient de meerprijs zich niet terug binnen de levensduur van de ruit — en is datzelfde bedrag in vloer- of dakisolatie beter besteed.
 
 Verder lezen:
-- [Beste isolatie voor warmtepomp 2026](/posts/beste-isolatie-voor-warmtepomp-2026/)
-- [Isolatie subsidie nederland 2026](/posts/isolatie-subsidie-nederland-2026/)
-- [Spouwmuur isolatie kosten 2026](/posts/spouwmuur-isolatie-kosten-2026/)
-- [Dakraam vs dakkapel isolatie 2026](/posts/dakraam-vs-dakkapel-isolatie-2026/)
-- [Energielabel verbeteren stappenplan 2026](/posts/energielabel-verbeteren-stappenplan-2026/)
-- [Kierdichting glaswol tochtstrip 2026](/posts/kierdichting-glaswol-tochtstrip-2026/)
-- [Hybride vs volledige warmtepomp 2026](/posts/hybride-vs-volledige-warmtepomp-2026/)
-- [Vloer isolatie vs spouwmuur isolatie 2026](/posts/vloer-isolatie-vs-spouwmuur-isolatie-2026/)
+
+- [Beste isolatie voor een warmtepomp](/posts/beste-isolatie-voor-warmtepomp-2026/)
+- [Isolatiesubsidies 2026](/posts/isolatie-subsidie-nederland-2026/)
+- [Spouwmuurisolatie kosten 2026](/posts/spouwmuur-isolatie-kosten-2026/)
+- [Dakraam vs dakkapel: warmteverlies](/posts/dakraam-vs-dakkapel-isolatie-2026/)
+- [Energielabel verbeteren: stappenplan](/posts/energielabel-verbeteren-stappenplan-2026/)
+- [Kierdichting, glaswol en tochtstrips](/posts/kierdichting-glaswol-tochtstrip-2026/)
+- [Hybride of volledige warmtepomp](/posts/hybride-vs-volledige-warmtepomp-2026/)
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE](https://www.rvo.nl/subsidies-financiering/isde). ISDE-voorwaarden opgehaald op 21 augustus 2026.

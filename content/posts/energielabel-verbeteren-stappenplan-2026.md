@@ -1,8 +1,8 @@
 ---
-title: 'Energielabel Verbeteren: Stappenplan van G naar A (2026)'
+title: 'Energielabel verbeteren: stappenplan van G naar A (2026)'
 date: 2026-04-22 10:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Compleet stappenplan om je energielabel te verbeteren. Van G naar A met de juiste maatregelen, kosten, subsidies en terugverdientijden in 2026.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: In welke volgorde je maatregelen neemt om je energielabel te verbeteren, wat ze indicatief kosten, welke subsidies er echt zijn en waar de rekensom kantelt.
 categories:
 - isolatie
 tags:
@@ -23,429 +23,201 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: Wat kost het om je energielabel te verbeteren?
-  a: De kosten hangen af van je huidige label en je doellabel. Van G naar C kost gemiddeld €8.000-€15.000 (isolatie dakkapel + vloer + glas). Van C naar A kost nog eens €10.000-€20.000 (warmtepomp + zonnepanelen). Met subsidies kun je 30-50% terugkrijgen.
-- q: Hoeveel bespaart een beter energielabel?
-  a: Gemiddeld bespaar je €200-€500 per labelstap per jaar op energiekosten. Van G naar A kan de besparing oplopen tot €1.500-€2.500 per jaar. Daarnaast stijgt je woningwaarde met 2-5% per labelstap.
+  a: 'Dat hangt volledig af van je startpunt en je doel. Voor een woning die van een slecht label naar het midden moet, gaat het bij de gangbare maatregelen — dak, vloer, glas, kierdichting — indicatief om een orde van grootte van €8.000 tot €18.000 inclusief 21% btw. Wil je daarna naar de hoogste labels, dan komen een warmtepomp en zonnepanelen erbij en verdubbelt dat ruwweg. Wij noemen bewust bandbreedtes: de spreiding tussen offertes voor hetzelfde werk is groot, en de staat van je woning bepaalt de prijs meer dan het gekozen materiaal.'
+- q: Hoeveel bespaar je met een beter energielabel?
+  a: 'Het label zelf bespaart niets; de maatregelen doen dat. Hoeveel dat is, volgt uit je eigen jaarverbruik en de maatregelen die je neemt, en niet uit een vast bedrag per labelstap. Wat je wel kunt doen: pak je laatste eindafrekening, kijk hoeveel gas en stroom je gebruikt en reken per maatregel door hoeveel daarvan wegvalt. Wij rekenen in dit artikel met gas €1,10/m³ en stroom €0,26/kWh all-in, en zetten de aannames er telkens bij.'
 - q: Welke maatregelen leveren het meeste op?
-  a: 'De meest rendabele maatregelen zijn: 1) Dakisolatie (besparing tot €600/jaar), 2) Vloerisolatie (besparing tot €200/jaar), 3) HR++ glas (besparing tot €300/jaar), 4) Hybride warmtepomp (besparing tot €800/jaar). Start altijd met isolatie voordat je een warmtepomp installeert.'
-- q: Hoe lang duurt het om een energielabel te verbeteren?
-  a: Een energielabel aanvragen kost 1-2 weken. De verduurzamingsmaatregelen zelf kosten 1-6 maanden, afhankelijk van de omvang. Isolatie van dak en vloer kan in 1-2 weken. Een volledige renovatie van G naar A kan 3-6 maanden duren.
+  a: 'Bij een ongeïsoleerde woning zijn spouwmuurisolatie en dakisolatie de twee maatregelen met de kortste terugverdientijd, gevolgd door kierdichting — die laatste kost weinig en werkt direct. Vloerisolatie levert vooral comfort. Isolerend glas heeft de langste terugverdientijd van de isolatiemaatregelen. Een warmtepomp zet je pas neer nadat de schil op orde is, omdat je dan met minder vermogen en een lagere aanvoertemperatuur uitkomt — en dus met een goedkopere installatie.'
 - q: Is een energielabel verplicht?
-  a: Een energielabel is verplicht bij verkoop of verhuur van een woning. Zonder geldig label riskeer je een boete tot €435. Voor huurwoningen geldt een minimaal energielabel van D (sinds 2023) en dit wordt aangescherpt naar C in 2030.
-- q: Welke subsidies zijn er voor energielabel verbetering?
-  a: 'De belangrijkste regelingen zijn: de ISDE voor eigenaar-bewoners (isolatie, ventilatie in combinatie met isolatie, warmtepomp, zonneboiler, warmtenetaansluiting en elektrisch koken; bedrag per maatregel op rvo.nl, met hogere bedragen bij twee of meer maatregelen), de SVVE voor VvE''s, gemeentelijke regelingen (bedrag en voorwaarden per gemeente) en het Nationaal Warmtefonds voor een lening met lage rente. De oude SEEH is per eind 2022 gesloten.'
-products:
-- name: Zonneplan
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '5000'
-- name: Vaillant aroTHERM plus
-  url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/
-  price: '8000'
+  a: 'Bij verkoop en bij verhuur van een woning moet een geldig energielabel worden overhandigd; ontbreekt dat, dan kan er een bestuurlijke boete volgen. Een label is tien jaar geldig en moet worden opgenomen door een gecertificeerde adviseur. Een indicatief label dat je automatisch op basis van bouwjaar en woningtype ziet, is geen geldig label en volstaat niet voor verkoop, subsidie of financiering.'
+- q: Welke subsidies zijn er voor labelverbetering?
+  a: 'Voor eigenaar-bewoners is de ISDE de belangrijkste: isolatiemaatregelen, warmtepomp, zonneboiler, warmtenetaansluiting. Het bedrag per maatregel staat op rvo.nl, en bij twee of meer maatregelen binnen 24 maanden verdubbelt het isolatiebedrag. Voor VvE''s bestaat de SVVE. Daarnaast hebben veel gemeenten eigen regelingen, en biedt het Nationaal Warmtefonds de Energiebespaarlening. Zonnepanelen zitten niet in de ISDE; daar geldt het btw-nultarief in plaats van subsidie.'
+- q: Moet je de ISDE vóór of ná de werkzaamheden aanvragen?
+  a: 'Ná de uitvoering, met de factuur als bewijsstuk. Vooraf aanvragen of budget reserveren is niet mogelijk. Volgens rvo.nl (opgehaald 21 augustus 2026) is de termijn 24 maanden na afronding. Let op het verschil met gemeentelijke regelingen: die moeten juist vaak vóór de opdracht worden aangevraagd. Als je beide wil gebruiken, doe je de gemeentelijke aanvraag dus als eerste.'
 schema_type: Article
 ---
-Van label C naar label A is voor veel Nederlandse woningen haalbaar met een combinatie van vloerisolatie, zonnepanelen, een hybride warmtepomp en eventueel een thuisbatterij. In dit stappenplan zetten we op een rij welke maatregelen in welke volgorde het meeste effect hebben, wat ze volgens marktprijzen kosten, welke subsidies erop van toepassing zijn en hoe de terugverdientijd uitpakt. De cijfers komen uit publieke bronnen (RVO/ISDE-regelingen, Milieu Centraal, CBS) en uit prijsindicaties van installateurs; de rekenvoorbeelden zijn modelberekeningen met vermelde aannames.
+Een energielabel verbeteren is geen doel op zich — het is de score die volgt uit maatregelen die je woning warmer en goedkoper maken. Wat wél belangrijk is: de volgorde. Wie eerst een warmtepomp koopt en daarna gaat isoleren, betaalt voor een groter apparaat dan nodig was.
 
-*Disclosure: de links naar Vaillant en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+Dit stappenplan zet de maatregelen in de volgorde die rekenkundig klopt, met indicatieve kosten, de subsidies die werkelijk bestaan en de plekken waar de rekensom kantelt.
 
-Overweeg je een warmtepomp? Lees eerst ons artikel over de [beste hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) en de [ISDE subsidie](/posts/isde-subsidie-warmtepompen-2026/).
+*Dit artikel bevat geen affiliate- of commissielinks. Wij hebben met geen van de genoemde partijen een commerciële relatie. Alle bedragen zijn indicatieve marktbandbreedtes of modelberekeningen inclusief 21% btw, geen offertes.*
 
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Compleet stappenplan om je energielabel te verbeteren. Van G naar A met de juiste maatregelen, kosten, subsidies en terugverdientijden in 2026.
+> **Kort antwoord:** houd de volgorde isoleren → ventileren → verwarmen → opwekken aan. Begin bij kierdichting en de schil (spouw, dak), want die maatregelen hebben de kortste terugverdientijd en verlagen het vermogen dat je warmtepomp later nodig heeft.
 >
-> De kosten hangen af van je huidige label en je doellabel. Van G naar C kost gemiddeld €8.000-€15.000 (isolatie dakkapel + vloer + glas). Van C naar A kost nog eens €10.000-€20.000 (warmtepomp + zonnepanelen). Met subsidies kun je 30-50% terugkrijgen.
+> Reken voor het isolatiedeel op een orde van grootte van €8.000-€18.000 inclusief 21% btw, en voor de stap naar de hoogste labels op een vergelijkbaar bedrag daarbovenop. De ISDE keert per maatregel een vast bedrag uit dat je **ná** de klus aanvraagt; bij twee of meer maatregelen binnen 24 maanden verdubbelt het isolatiebedrag. Op isolatie en warmtepompen geldt 21% btw — het nultarief bestaat alleen voor zonnepanelen.
 
-## Energielabels uitgelegd
+## Wat een energielabel wel en niet zegt
 
-| Label | Energieprestatie | Gemiddelde energiekosten/jaar | Percentage woningen NL |
-|-------|-----------------|------------------------------|----------------------|
-| **A++++** | Bijna energieneutraal | €300-€600 | 2% |
-| **A** | Zeer zuinig | €800-€1.200 | 12% |
-| **B** | Zuinig | €1.200-€1.600 | 15% |
-| **C** | Gemiddeld | €1.600-€2.000 | 20% |
-| **D** | Matig | €2.000-€2.400 | 18% |
-| **E** | Slecht | €2.400-€2.800 | 14% |
-| **F** | Zeer slecht | €2.800-€3.200 | 10% |
-| **G** | Uiterst slecht | €3.200-€4.000+ | 9% |
+Het label drukt de berekende energieprestatie van de woning uit, niet je werkelijke rekening. Twee woningen met hetzelfde label kunnen in de praktijk sterk verschillen in verbruik, omdat bewoners verschillen. Gebruik het label dus als vergelijkingsmaat tussen woningen, en je eigen eindafrekening als basis voor je investeringsbeslissingen.
 
-*Energiekosten gebaseerd op gemiddeld rijwoning, gasprijzen 2026*
+Wij publiceren hier geen tabel met "gemiddelde energiekosten per label" en geen verdeling van het Nederlandse woningbestand per label. Die cijfers stonden er eerder wel, maar waren niet naar een openbare bron met peildatum te herleiden.
 
-## Stap 1: Huidig energielabel bepalen
+## Stap 1: je huidige label ophalen
 
-### Heb je al een energielabel?
-Check je huidige label op [ep-online.nl](https://www.ep-online.nl) — voer je postcode en huisnummer in. Als je woning na 2015 is gekocht of gehuurd, heb je waarschijnlijk al een label.
+Zoek je adres op bij [ep-online.nl](https://www.ep-online.nl). Je ziet daar het label, de afgiftedatum en de geldigheid. Let op twee dingen:
 
-### Nog geen label? Laat er een maken
-Een erkende energieadviseur bezoekt je woning en beoordeelt:
-- Isolatie (dak, muur, vloer, glas)
-- Verwarmingssysteem
-- Ventilatie
-- Zonnepanelen/duurzame energie
+- Een label is **tien jaar** geldig. Labels van vóór 2015 zijn inmiddels verlopen.
+- Een **indicatief** label (automatisch afgeleid uit bouwjaar en woningtype) is geen geldig label. Voor verkoop, verhuur, subsidie of financiering heb je een definitief label nodig, opgenomen door een gecertificeerde adviseur.
 
-**Kosten:** €250-€400 voor een energielabel
-**Tip:** Combineer het met een maatwerkadvies (€350-€600 extra) om een persoonlijk verduurzamingsplan te krijgen.
+Een nieuw label laten opnemen kost indicatief enkele honderden euro's. Een **maatwerkadvies** kost meer en levert iets anders op: een rapport met maatregelen in volgorde van rendement voor jouw woning. Dat is de moeite waard als je een groot pakket overweegt of als je woning ongebruikelijk is gebouwd — en overbodig als je alleen zonnepanelen wil of één losse isolatiemaatregel.
 
-## Stap 2: Bepaal je verduurzamingsroute
+## Stap 2: de volgorde
 
-### De volgorde is cruciaal
+1. **Kierdichting.** Laagste kosten, direct effect, en het maakt elke volgende maatregel effectiever.
+2. **Isoleren.** Spouw en dak eerst; vloer en glas daarna.
+3. **Ventilatie op peil brengen.** Een luchtdichter huis heeft gecontroleerde ventilatie nodig, anders krijg je vocht.
+4. **Verwarming verduurzamen.** Nu pas het vermogen van de warmtepomp bepalen, op basis van de verlaagde warmtevraag.
+5. **Zelf opwekken.** Zonnepanelen op het inmiddels lagere verbruik.
 
-**Altijd deze volgorde aanhouden:**
+De reden voor die volgorde is puur financieel: elke stap verlaagt de investering van de volgende. Een warmtepomp in een ongeïsoleerd huis moet groter zijn, draait op een hogere aanvoertemperatuur en levert daardoor een slechter rendement.
 
-1. **Eerst isoleren** — Voorkomt warmteverlies (het fundament)
-2. **Dan ventilatie verbeteren** — Na isolatie is goede ventilatie essentieel
-3. **Dan verwarming verduurzamen** — Warmtepomp werkt beter in geïsoleerd huis
-4. **Tot slot energie opwekken** — Zonnepanelen op het kleinere verbruik
+## Stap 3: maatregelen en indicatieve kosten
 
-Waarom deze volgorde? Een warmtepomp in een slecht geïsoleerd huis is als verwarmen met de ramen open. Isoleer eerst, dan heb je een kleinere (goedkopere) warmtepomp nodig en bespaar je meer.
+Onderstaande bandbreedtes zijn marktindicaties inclusief 21% btw, vóór subsidie. De besparingen zijn **modelbandbreedtes** op basis van gas €1,10/m³ all-in en stroom €0,26/kWh all-in, bij een gemiddeld verbruikspatroon — geen metingen en geen belofte.
 
-## Stap 3: De maatregelen per labelsprong
+### Eerst de schil
 
-### Van G/F naar D (eerste prioriteit)
+| Maatregel | Investering (indicatie) | Berekende besparing per jaar | Terugverdientijd vóór subsidie |
+|---|---|---|---|
+| Kierdichting | €500-€1.500 | €100-€200 | 3-8 jaar |
+| Spouwmuurisolatie | €1.500-€3.500 | €290-€530 | 3-10 jaar |
+| Dakisolatie | €3.000-€8.000 | €300-€400 | 8-25 jaar |
+| Vloer- of bodemisolatie | €1.500-€4.000 | €100-€200 | 8-40 jaar |
+| Isolerend glas | €200-€500 per m² | ±€14 per m² vanaf oud dubbelglas | lang; comfort weegt mee |
 
-| Maatregel | Kosten | Besparing/jaar | Terugverdientijd | Labeleffect |
-|-----------|--------|---------------|-------------------|-------------|
-| **Dakisolatie** | €3.000-€6.000 | €400-€600 | 6-12 jaar | +1-2 stappen |
-| **Vloerisolatie** | €1.500-€3.000 | €150-€250 | 8-15 jaar | +0,5-1 stap |
-| **HR++ glas** | €3.000-€8.000 | €200-€350 | 10-20 jaar | +0,5-1 stap |
-| **Kierdichting** | €500-€1.500 | €100-€200 | 3-8 jaar | +0,5 stap |
+### Daarna installaties en opwek
 
-**Totale investering:** €8.000-€18.000
-**Jaarlijkse besparing:** €850-€1.400
-**Subsidie beschikbaar:** €1.500-€3.000 (ISDE)
+| Maatregel | Investering (indicatie) | Berekende besparing per jaar | Aandachtspunt |
+|---|---|---|---|
+| Mechanische ventilatie / WTW | €3.200-€7.400 | netto rond €250 | zit voor particulieren níet in de ISDE |
+| Hybride warmtepomp | €4.000-€7.000 | €500-€900 | besparing hangt af van hoe groot het gasdeel blijft |
+| Volledige warmtepomp | €8.000-€15.000 | €800-€1.200 | vereist een schil en afgiftesysteem die het aankunnen |
+| Zonnepanelen | €4.000-€6.000 | volgt uit eigen verbruik en teruglevering | saldering stopt volledig per 1-1-2027 |
+| Thuisbatterij | €4.000-€8.000 | volgt uit contract en sturing | geen ISDE; wel relevant ná het einde van saldering |
 
-### Van D/C naar B
+Wat we in deze tabellen bewust hebben weggelaten, is een kolom "labeleffect in stappen". Hoeveel labelstappen een maatregel oplevert, hangt af van alle andere bouwdelen van je woning. Een halve labelstap per maatregel voorspellen suggereert precisie die er niet is; een energieadviseur kan dit vóóraf voor jouw woning doorrekenen.
 
-| Maatregel | Kosten | Besparing/jaar | Terugverdientijd | Labeleffect |
-|-----------|--------|---------------|-------------------|-------------|
-| **Spouwmuurisolatie** | €1.500-€3.500 | €200-€400 | 5-10 jaar | +0,5-1 stap |
-| **Mechanische ventilatie** | €2.000-€4.000 | €100-€200 | 15-25 jaar | +0,5 stap |
-| **HR-ketel** (als >15 jaar oud) | €1.500-€2.500 | €200-€300 | 6-10 jaar | +0,5 stap |
-| **Hybride warmtepomp** | €4.000-€7.000 | €500-€900 | 5-8 jaar | +1 stap |
+## Stap 4: subsidies en financiering
 
-**Totale investering:** €6.000-€14.000 (bovenop eerdere maatregelen)
-**Subsidie beschikbaar:** €3.000-€5.000 (ISDE warmtepomp + isolatie)
+| Regeling | Wat het is | Voor wie | Waar |
+|---|---|---|---|
+| **ISDE** | vast bedrag per maatregel (isolatie, warmtepomp, zonneboiler, warmtenetaansluiting) | eigenaar-bewoners | mijn.rvo.nl, **ná** uitvoering |
+| **SVVE** | subsidie voor verduurzaming van appartementencomplexen | VvE's | mijn.rvo.nl |
+| **Gemeentelijke regeling** | verschilt sterk per gemeente | verschilt | gemeente; vaak **vóór** de opdracht |
+| **Energiebespaarlening** | lening met lage rente, 0% onder een inkomensgrens | woningeigenaren | Nationaal Warmtefonds, vóór uitvoering |
 
-Bekijk onze [vergelijking van hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) voor de beste opties.
+### ISDE: wat je moet weten
 
-### Van B naar A (of hoger)
+- Het bedrag is **vast per maatregel** en per vierkante meter bij isolatie, met een maximum en een minimaal oppervlak. Wij nemen die bedragen hier niet over: ze worden tussentijds bijgesteld en de cijfers die op websites circuleren wijken structureel af van de RVO-tabellen. Gebruik de maatregelpagina's, de meldcodelijsten en de ISDE-rekentool op rvo.nl.
+- **Aanvragen ná de uitvoering**, met de factuur. Volgens rvo.nl (opgehaald 21 augustus 2026) binnen 24 maanden na afronding. Een eerdere versie van dit artikel adviseerde aan te vragen vóór de installatie — dat was onjuist en is gecorrigeerd.
+- Bij **twee of meer** maatregelen binnen 24 maanden verdubbelt het isolatiebedrag. Dat geldt ook bij combinatie met een warmtepomp, zonneboiler of warmtenetaansluiting. Een losse "combinatiebonus" in euro's bestaat niet.
+- **Zonnepanelen zitten niet in de ISDE.** Daarvoor geldt het btw-nultarief. Voor alle andere maatregelen — isolatie, glas, warmtepomp, boiler, thermostaat, batterij — geldt 21% btw.
 
-| Maatregel | Kosten | Besparing/jaar | Terugverdientijd | Labeleffect |
-|-----------|--------|---------------|-------------------|-------------|
-| **Zonnepanelen (10 stuks)** | €4.000-€6.000 | €600-€1.000 | 5-7 jaar | +1 stap |
-| **Full-electric warmtepomp** | €8.000-€15.000 | €800-€1.200 | 8-14 jaar | +1-2 stappen |
-| **Thuisbatterij** | €4.000-€8.000 | €200-€400 | 15-25 jaar | +0,5 stap |
-| **Triple glas** | €5.000-€12.000 | €100-€200 | 25-40 jaar | +0,5 stap |
-| **Warmteterugwinning ventilatie** | €3.000-€5.000 | €150-€300 | 12-20 jaar | +0,5 stap |
+### Energiebespaarlening
 
-**Totale investering:** €10.000-€30.000 (bovenop eerdere maatregelen)
-**Subsidie beschikbaar:** €3.000-€6.000
+Volgens warmtefonds.nl (opgehaald 21 augustus 2026): 0% rente voor eigenaar-bewoners met een verzamelinkomen onder €60.000; daarboven een rente die het Warmtefonds als "laag" aanduidt zonder percentage op die pagina. Leenbedrag minimaal €1.000 en maximaal €29.000 (voor een thuisbatterij €8.500), looptijd 7, 10, 15 of 20 jaar. Vraag het exacte rentepercentage op bij je aanvraag; wij noemen geen percentage dat we niet kunnen aanwijzen.
 
-Overweeg je zonnepanelen? Lees onze [vergelijking SolarEdge vs Enphase omvormers](/posts/solaredge-vs-enphase-2026/) en [zonnepanelen subsidie gids](/posts/zonnepanelen-subsidie-nederland-2026/).
+## Stap 5: offertes en uitvoering
 
-## Stap 4: Subsidies en financiering
+1. **Minimaal drie offertes.** De spreiding tussen aannemers voor hetzelfde werk is groot.
+2. **Laat de isolatiewaarde en de materiaalmeldcode in de offerte zetten.** Zonder die twee gegevens kun je de ISDE-aanvraag niet compleet maken. Vraag dit vóór de opdracht, niet erna.
+3. **21% btw apart vermeld.** Er is geen nultarief op isolatie; een offerte met 21% is correct.
+4. **Vraag om het werkrapport bij oplevering.** Dat document is je subsidieaanvraag.
+5. **Laat na afronding een nieuw label opnemen** als je binnen een paar jaar wil verkopen of herfinancieren.
 
-### Beschikbare subsidies (2026)
+### Wat je zelf kunt doen
 
-| Subsidie | Bedrag | Waarvoor | Aanvragen |
-|---------|--------|---------|-----------|
-| **ISDE** | Bedrag per maatregel, zie rvo.nl | Isolatie, ventilatie (met isolatie), warmtepomp, zonneboiler, warmtenet, elektrisch koken — eigenaar-bewoners | mijn.rvo.nl |
-| **SVVE** | Per maatregel, zie rvo.nl | VvE's: isolatie, warmtetechnieken, energieadvies, oplaadpuntenadvies | mijn.rvo.nl |
-| **Gemeentelijke subsidie** | Varieert per gemeente | Varieert per gemeente | Gemeente website |
-| **Nationaal Warmtefonds** | Lening tegen lage rente | Alle maatregelen | warmtefonds.nl |
+Kierdichting met tochtstrips en kit, radiatorfolie, ledlampen en in sommige gevallen bodemisolatie in een goed toegankelijke kruipruimte. Let op: werk dat je zelf uitvoert komt **niet** in aanmerking voor de ISDE, omdat er geen factuur van een installatiebedrijf is. Bij kleine maatregelen weegt dat niet op tegen de arbeidskosten; bij grotere wel.
 
-De SVVE (Subsidie Verduurzaming voor Verenigingen van Eigenaars) is op 23 januari 2023 in de plaats gekomen van de oude SEEH voor VvE's. Voor eigenaar-bewoners was de isolatiesubsidie al eerder in de ISDE ondergebracht; de SEEH kon voor het laatst tot en met 31 december 2022 worden aangevraagd.
+## Modelberekening: van label C naar A
 
-### ISDE-subsidie in detail
+Een modelberekening met expliciete aannames, geen meting aan een bestaande woning.
 
-De ISDE (Investeringssubsidie Duurzame Energie en Energiebesparing) is de belangrijkste subsidie:
+**Uitgangssituatie:** tussenwoning uit 1978, label C, energierekening €2.400 per jaar bij gas €1,10/m³ en stroom €0,26/kWh all-in.
 
-| Maatregel | ISDE-bedrag |
-|-----------|------------|
-| Dakisolatie (>20m²) | €1.000-€2.000 |
-| Vloerisolatie (>20m²) | €800-€1.500 |
-| Spouwmuurisolatie | €800-€1.500 |
-| HR++ glas (>10m²) | €600-€1.200 |
-| Hybride warmtepomp | ~€3.000 |
-| Full-electric warmtepomp | ~€3.000-€5.500 |
+| Maatregel | Investering (indicatie, incl. btw) | Berekende besparing per jaar |
+|---|---|---|
+| Vloerisolatie kruipruimte | €2.800 | €180 |
+| 16 zonnepanelen (circa 5,6 kWp) | €8.200 | €700-€1.050, afhankelijk van eigen verbruik |
+| Hybride warmtepomp | €6.500 | €850 |
+| **Totaal** | **€17.500** | **€1.730-€2.080** |
 
-**Let op:** Je kunt ISDE combineren met gemeentelijke subsidies. Lees onze [complete ISDE subsidie gids](/posts/isde-subsidie-warmtepompen-2026/) voor alle details.
+Daar gaat de ISDE nog van af voor de vloerisolatie en de warmtepomp; vul je eigen situatie in de ISDE-rekentool in. Voer je de vloerisolatie en de warmtepomp binnen 24 maanden uit, dan verdubbelt het isolatiebedrag.
 
-### Nationaal Warmtefonds
-Geen spaargeld? Via het Nationaal Warmtefonds kun je lenen tegen **0% rente** (voor lagere inkomens) of lage rente (1-3%) voor verduurzamingsmaatregelen. Maximaal €65.000, looptijd tot 30 jaar.
+**Terugverdientijd vóór subsidie:** €17.500 / circa €1.900 = **ruim negen jaar**.
 
-## Stap 5: De juiste vakmensen vinden
+**Waar dit model kantelt:**
 
-### Tips voor offertes
-1. **Vraag minimaal 3 offertes** — Prijzen variëren 20-40% per aannemer
-2. **Check certificeringen** — Zoek naar SKG-IKOB, BRL of Keurmerk gecertificeerde bedrijven
-3. **Vraag naar referenties** — Een goede aannemer kan je tevreden klanten laten spreken
-4. **Controleer of ze ISDE-erkend zijn** — Anders kun je geen subsidie aanvragen
-5. **Laat vooraf een bouwkundig rapport maken** — Voorkomt verrassingen
+- De opbrengst van de zonnepanelen hangt vanaf 2027 sterk af van je eigen verbruik, omdat de saldering per 1 januari 2027 **volledig** stopt. Wij rekenen voor teruglevering met een gelabelde aanname van €0,07/kWh; wordt dat lager, dan valt de zonnepaneelpost terug.
+- De besparing van een hybride warmtepomp staat of valt bij hoeveel van het jaar op gas wordt bijgestookt. Zonder isolatie schakelt het toestel bij lage buitentemperaturen vaker terug naar de ketel en zakt de gasbesparing met honderden euro's per jaar.
+- Een thuisbatterij hebben we hier weggelaten. Die is pas relevant als de saldering weg is, en dan hangt de opbrengst af van je contract en sturing — zie onze aparte doorrekening.
 
-### Doe-het-zelf mogelijkheden
-Sommige maatregelen kun je zelf doen:
-- **Kierdichting** — Tochtstrips, kit en isolatietape (besparing: €100-€200/jaar)
-- **Radiatorfolie** — Reflecterend folie achter radiatoren (besparing: €30-€50/jaar)
-- **Vloerisolatie (kruipruimte)** — Met isolatieplaten of gespoten schuim
-- **LED-verlichting** — Alle lampen vervangen (besparing: €50-€100/jaar)
+**Wat we níet meer beweren:** een bedrag aan woningwaardestijging bij deze labelsprong. Die getallen stonden hier eerder, maar zijn niet naar een openbare, herleidbare meting per labelstap te brengen die voor jouw woningtype en regio geldt.
 
-## Voorbeeldscenario's
+## Modelberekening: van label G naar A in fasen
 
-### Scenario 1: Rijtjeshuis (1970), label E → A
+Voor een hoekwoning uit 1965 van circa 120 m², ongeïsoleerd, met een energierekening van rond €3.800 per jaar in het model.
 
-| Maatregel | Kosten | Subsidie | Netto kosten |
-|-----------|--------|---------|-------------|
-| Dakisolatie | €4.500 | €1.500 | €3.000 |
-| Vloerisolatie | €2.000 | €1.000 | €1.000 |
-| HR++ glas | €5.000 | €800 | €4.200 |
-| Hybride warmtepomp | €5.500 | €3.000 | €2.500 |
-| 10 zonnepanelen | €5.000 | €0 | €5.000 |
-| **Totaal** | **€22.000** | **€6.300** | **€15.700** |
+| Fase | Maatregel | Investering (indicatie) | Berekende besparing per jaar |
+|---|---|---|---|
+| 1 | Kierdichting + dakisolatie (70 m²) | €5.500 | €520 |
+| 2 | Spouwmuurisolatie (120 m²) | €4.200 | €480 |
+| 3 | Isolerend glas (15 m²) | €3.500 | €200 |
+| 4 | Hybride warmtepomp + aanpassing afgifte | €9.500 | €900 |
+| 5 | 14 zonnepanelen | €7.200 | €700-€1.050 |
+| 6 | Mechanische ventilatie met WTW | €3.500 | €250 netto |
+| **Totaal** | | **€33.400** | **€3.050-€3.400** |
 
-**Jaarlijkse besparing:** €1.800-€2.200
-**Terugverdientijd:** 7-9 jaar
-**Woningwaardestijging:** €15.000-€25.000
+De ISDE komt op fasen 1 tot 4 in mindering; het bedrag volgt uit oppervlakken en isolatiewaarden en staat op rvo.nl. Fase 5 valt onder het btw-nultarief in plaats van subsidie, fase 6 valt voor particulieren buiten de ISDE.
 
-### Scenario 2: Appartement (1985), label D → B
+**Terugverdientijd vóór subsidie:** ruwweg **tien jaar**. Met de Energiebespaarlening is dit voor een deel te financieren, maar let op het maximum van €29.000 en op de looptijden die het Warmtefonds aanbiedt; het exacte rentepercentage boven de inkomensgrens is niet gepubliceerd, dus een maandlast valt niet vooraf hard te berekenen. Reken dat pas door met de voorwaarden die je bij je aanvraag krijgt.
 
-| Maatregel | Kosten | Subsidie | Netto kosten |
-|-----------|--------|---------|-------------|
-| HR++ glas | €3.500 | €600 | €2.900 |
-| Kierdichting | €800 | €0 | €800 |
-| Mechanische ventilatie | €2.500 | €0 | €2.500 |
-| **Totaal** | **€6.800** | **€600** | **€6.200** |
+## Prioriteren per woningtype
 
-**Jaarlijkse besparing:** €500-€700
-**Terugverdientijd:** 9-12 jaar
+Dit is onze redactionele prioritering, op basis van waar het warmteverlies bij dat type doorgaans het grootst is. Het is geen vervanging van een berekening aan je eigen woning.
 
-## Veelgemaakte fouten
+**Hoekwoning.** Meer buitenmuuroppervlak dan een tussenwoning, dus de gevel weegt zwaarder. Eerst spouwmuurisolatie, dan dak, dan verwarming.
 
-1. **Warmtepomp plaatsen zonder te isoleren** — De warmtepomp moet harder werken en levert minder besparing op
-2. **Alleen focussen op zonnepanelen** — Isolatie is bijna altijd rendabeler als eerste stap
-3. **Subsidie vergeten aan te vragen** — Vraag ISDE aan vóór de installatie (of binnen 12 maanden na)
-4. **Goedkoopste offerte kiezen** — Kwaliteit van isolatie-materiaal en installatie bepaalt het resultaat
-5. **Ventilatie vergeten** — Na isolatie kan vocht een probleem worden zonder goede ventilatie
+**Vrijstaande woning.** Het grootste buitenoppervlak van alle typen, en bij een ongeïsoleerde kap is het dak vaak de grootste post. Eerst dak, dan spouw als die er is, dan verwarming. Veel dakoppervlak maakt zonnepanelen aantrekkelijk.
 
-## Wettelijk kader 2026: energielabel en verhuismarkt
+**Appartement.** De schil is grotendeels een VvE-aangelegenheid. Wat je als individuele eigenaar kunt doen: kierdichting, isolerend glas als dat er nog niet is, en eventueel een lucht-luchtwarmtepomp voor verwarmen en koelen van de eigen ruimte. Let op: voor lucht-lucht is er geen ISDE.
 
-**Energielabel verplicht bij verkoop of verhuur**
-Een geldig energielabel is verplicht bij iedere verkoop of verhuur in Nederland. Zonder geldig label riskeer je een boete van maximaal €435 (handhaving via BKO). Het label moet worden aangevraagd bij een gecertificeerde EPA-adviseur (Energie Prestatie Advies).
+**Woning uit 2000-2015.** Al redelijk geïsoleerd; de winst zit in opwek en in de verwarming zodra de ketel aan vervanging toe is.
 
-**Geldigheidsduur:** 10 jaar. Na die periode moet je een nieuw label laten vaststellen, ook als je geen wijzigingen hebt doorgevoerd.
+## Wat er wettelijk wel en niet geldt
 
-**Huurmarkt: minimaal label D (wordt C in 2030)**
-Verhuurders zijn verplicht huurwoningen minimaal label D te hebben. In 2030 wordt dit aangescherpt naar label C. Wie als verhuurder nog woningen heeft met label E, F of G, moet nu actie ondernemen of riskeert het verbod op verhuur. Dit drijft ook de vraag naar isolatiesubsidies omhoog.
+**Label verplicht bij verkoop en verhuur.** Een geldig label moet bij oplevering worden overhandigd. Ontbreekt het, dan kan er een bestuurlijke boete volgen.
 
-**Hypotheek en energielabel**
-Veel banken bieden in 2026 een lagere hypotheekrente voor woningen met label A of hoger. Het gaat om rentekortingen van 0,10-0,30% per jaar. Op een hypotheek van €300.000 is dat €300-€900 per jaar minder rentelast. Dit maakt een labelsprong naar A niet alleen energetisch maar ook financieel zeer aantrekkelijk.
+**Geen labelplicht voor bestaande huurwoningen.** Dit is een veelgemaakte fout, ook in eerdere versies van dit artikel: er bestaat géén wettelijke verplichting dat een huurwoning minimaal label D of C moet hebben. De labelplicht die vaak wordt aangehaald geldt voor **kantoren**, niet voor woningen. Wat voor huurwoningen wél geldt: het energielabel weegt mee in het woningwaarderingsstelsel en dus in de maximale huurprijs.
 
----
+**Geen wettelijke rentekorting per label.** Individuele geldverstrekkers voeren eigen kortingen of duurzaamheidsbudgetten, maar die verschillen per aanbieder en per moment en staan niet in een openbare regeling. Wij noemen daarom geen percentages per bank; vraag het na bij je eigen geldverstrekker of adviseur.
 
-## Rekenvoorbeeld: route van label C naar A
+**Extra leenruimte voor verduurzaming.** Die staat in de **Tijdelijke regeling hypothecair krediet** — niet in "artikel 6 van de NIBUD-normen", een verwijzing die niet bestaat en die hier eerder wel stond. De regeling laat toe dat een geldverstrekker onder voorwaarden boven de inkomensafhankelijke leencapaciteit een bedrag meefinanciert dat aan energiebesparende maatregelen wordt besteed, en kent een ruimere marge voor woningen met een zeer goed label. Bedragen en voorwaarden worden jaarlijks bijgesteld; laat je adviseur de versie van het lopende jaar erbij pakken.
 
-Onderstaande tabel is een modelberekening voor een veelvoorkomend woningtype. Aannames: marktprijzen 2026 voor materiaal en installatie, ISDE-bedragen volgens de RVO-tabellen, energieprijzen 2026 en een gemiddeld gebruikspatroon. Het is geen meting aan een specifieke woning — jouw situatie wijkt af naar isolatiegraad, dakoriëntatie en verbruik.
+**Fiscaal.** Kosten van verduurzaming aan je eigen woning zijn niet aftrekbaar. De eigen woning valt in box 1, niet in box 3, dus een hogere woningwaarde leidt niet tot vermogensbelasting over die waarde. Wel kan de WOZ-waarde stijgen, wat doorwerkt in gemeentelijke lasten en in het eigenwoningforfait.
 
-**Uitgangssituatie:** tussenwoning uit 1978, label C, energierekening €2.400/jaar (gas + stroom)
+## Vier fouten die geld kosten
 
-| Maatregel | Investering | Subsidie | Netto | Jaarlijkse besparing |
-|-----------|-------------|---------|-------|---------------------|
-| Vloerisolatie kruipruimte | €2.800 | €1.200 ISDE | €1.600 | €180 |
-| 16 zonnepanelen (5,6 kWp) | €8.200 | €0 | €8.200 | €1.050 |
-| Vaillant hybride warmtepomp | €6.500 | €3.200 ISDE | €3.300 | €850 |
-| Huawei Luna thuisbatterij | €5.800 | €0 | €5.800 | €380 |
-| **Totaal** | **€23.300** | **€4.400** | **€18.900** | **€2.460** |
-
-**Verwacht energielabel:** C → A
-**Energierekening in het model na uitvoering:** circa €680 (was €2.400)
-**Terugverdientijd totaalpakket:** circa 7,7 jaar
-**Woningwaardestijging:** geschat €22.000-€28.000 op basis van de CBS/NVM-labelpremies
-
-Wat dit rekenvoorbeeld vooral laat zien: de hybride warmtepomp levert de grootste besparing op, maar alleen in combinatie met isolatie. Zonder vloerisolatie valt de warmtepomp bij lage buitentemperaturen vaker terug op de gasketel, waardoor de gasbesparing in het model enkele honderden euro's per jaar lager uitkomt.
-
----
-
-## Veelgemaakte fouten bij labelverbetering (aangevuld)
-
-**Fout 6: Label laten vaststellen op een ongunstig moment**
-Een EPA-adviseur meet onder andere de binnentemperatuur en de verwarmingssystemen. Laat je label niet vaststellen in de zomermaanden als de warmtepomp niet loopt — het systeem wordt dan als "uitgeschakeld" beoordeeld, wat je score negatief kan beïnvloeden.
-
-**Fout 7: Alleen op het label focussen, niet op het comfort**
-Een energielabel zegt iets over het theoretisch energieverbruik van de woning, niet over het werkelijke verbruik. Twee woningen met label B kunnen in de praktijk 30-40% in verbruik verschillen, afhankelijk van de bewoners en het gebruik. Laat je beslissingen leiden door werkelijke besparing, niet alleen door het label.
-
-**Fout 8: Zonnepanelen plaatsen vóór een nieuw EPA-label**
-Zonnepanelen verbeteren je energielabel pas als ze zijn meegenomen in de EPA-beoordeling. Als je zonnepanelen hebt geplaatst maar het label is nog niet bijgewerkt, laat dan een nieuw label vaststellen. Dat kan je labelsprong van C naar B of A opleveren.
-
----
-
-## Hoeveel stijgt mijn woning in waarde?
-
-Dit is een van de meestgestelde vragen over labelverbetering. Het CBS en NVM publiceren periodiek data over de waardepremie van energielabels. In 2025 gold gemiddeld:
-
-| Labelsprong | Gemiddelde waardepremie |
-|------------|------------------------|
-| E → D | +€5.000-€8.000 |
-| D → C | +€8.000-€12.000 |
-| C → B | +€12.000-€18.000 |
-| B → A | +€15.000-€22.000 |
-| A → A+ | +€10.000-€16.000 |
-
-Let op: dit zijn gemiddelden voor heel Nederland. In Amsterdam en Utrecht zijn de premies hoger; in kleinere gemeenten lager. In een overspannen markt kunnen kopers minder korting bedingen op een slecht energielabel dan in een stagnerende markt.
-
-De praktische vuistregel: verduurzaming voor verkoop levert in de meeste gevallen meer op via de woningwaardestijging dan via de jaarlijkse energiebesparing. Een investering van €4.000 in spouwmuurisolatie kan bij verkoop €8.000-€12.000 meer opleveren.
-
----
+1. **Warmtepomp vóór isolatie.** Je koopt dan een groter toestel dan nodig en houdt een hogere aanvoertemperatuur, dus een lager rendement, voor de hele levensduur.
+2. **Gemeentelijke subsidie te laat aangevraagd.** De ISDE gaat ná de klus, veel gemeentelijke regelingen ervóór. Wie beide wil, begint bij de gemeente.
+3. **Isolatiewaarde niet op de factuur.** Zonder die opgave loopt je ISDE-aanvraag vast, en achteraf laten aanpassen is lastig.
+4. **Alleen op het label sturen.** Het label is een berekening. Je rekening volgt uit je gedrag en je woning. Kies maatregelen op besparing en comfort; het label komt er dan bij.
 
 ## Conclusie
 
-Het verbeteren van je energielabel is een investering die zichzelf terugverdient via lagere energiekosten, hogere woningwaarde en meer comfort. Begin met de basis (isolatie), maak gebruik van subsidies, en werk stap voor stap naar een zuiniger huis.
+Verbeter je label van onderaf: kierdichten, isoleren, ventilatie op peil, dan pas de verwarming en de opwek. Die volgorde verlaagt niet alleen je rekening maar ook de investering in elke volgende stap.
 
-**De drie gouden regels:**
-1. Isoleer eerst, verwarm daarna
-2. Combineer maatregelen voor maximale subsidie
-3. Vraag altijd minimaal 3 offertes aan
-
-
-<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Vaillant</a>
-
-
-
-## Rekenmodel: van G naar A in 7 jaar — kan dat?
-
-Een veelgestelde vraag: "Mijn woning heeft label G. Hoe lang duurt het en wat kost het om label A te bereiken?" Hieronder een modelberekening met vermelde aannames — marktprijzen 2026, ISDE-bedragen volgens de RVO-tabellen en energieprijzen 2026.
-
-**Woning:** hoekwoning 1965, 120 m² woonoppervlak, label G
-
-**Huidige situatie:**
-- Geen isolatie, enkel glas, open haard en radiatorverwarming op gaskachel
-- Energierekening: €3.800/jaar (gas €3.200 + stroom €600)
-
-**Stappenplan 7 jaar:**
-
-| Jaar | Maatregel | Investering | ISDE | Netto | Besparing/jaar |
-|------|-----------|-------------|------|-------|---------------|
-| 1 | Kierdichting + dakisolatie (70 m²) | €5.500 | €2.800 | €2.700 | €520 |
-| 2 | Spouwmuurisolatie (120 m², PUR) | €4.200 | €888 | €3.312 | €480 |
-| 3 | HR++ glas (15 m²) | €3.500 | €950 | €2.550 | €200 |
-| 4 | Hybride warmtepomp + vloerverwarming | €9.500 | €3.200 | €6.300 | €900 |
-| 5 | 14 zonnepanelen | €7.200 | €0 | €7.200 | €1.050 |
-| 6 | Mechanische ventilatie (WTW) | €3.500 | €0 | €3.500 | €150 |
-| 7 | Thuisbatterij 10 kWh | €5.500 | €0 | €5.500 | €400 |
-| **Totaal** | | **€38.900** | **€7.838** | **€31.062** | **€3.700/jaar** |
-
-**Na jaar 7:**
-- Energielabel: A of A+
-- Energierekening: €100-€200/jaar (nagenoeg nul door zonnepanelen + batterij)
-- Woningwaardestijging: geschat €35.000-€50.000
-- Terugverdientijd totaalinvestering: 8,4 jaar (exclusief woningwaardestijging)
-
-Is het realistisch? Voor wie financiering kan regelen via de Energiebespaarlening is het rekenkundig haalbaar: een lening van €31.000 over 15 jaar bij 2,6% rente geeft een maandlast van circa €210, tegenover een gemodelleerde besparing van circa €316 per maand. Dat saldo geldt alleen bij de gebruikte aannames — bij lagere energieprijzen, een hogere rente of afwijkende uitvoeringskosten kan het omslaan.
-
----
-
-## EPA-maatwerkadvies: wanneer is het de moeite waard?
-
-Een EPA-maatwerkadvies (€350-€600) is een energiediagnose van je woning door een gecertificeerde adviseur. Hij meet de woning in detail op: isolatiewaarden, installaties, ventilatie, thermische bruggen. Het resultaat: een persoonlijk rapport met aanbevolen maatregelen in volgorde van rendement.
-
-**Wanneer EPA-maatwerkadvies zeker de moeite waard is:**
-- Je woning heeft label E, F of G en je wil weten waar te beginnen
-- Je overweegt grootschalige renovatie (dakisolatie + warmtepomp + zonnepanelen)
-- Je wil de subsidies optimaal benutten en wil weten welke combinaties ISDE-bonus geven
-- Je woning heeft ongebruikelijke kenmerken (staalskelet, betonpanelen, rieten dak)
-
-**Wanneer EPA-maatwerkadvies minder nodig is:**
-- Je woning heeft label C of B en je overweegt alleen zonnepanelen: doe gewoon een offerte
-- Je gaat alleen één maatregel uitvoeren (spouwmuurisolatie): een installateursinspectie volstaat
-- Je wil alleen een certificaat voor verkoop: een EPA-label (€250-€400) is voldoende, geen maatwerkadvies nodig
-
-**Subsidie op EPA-maatwerkadvies:**
-In 2026 zijn er gemeenten die de kosten van een EPA-maatwerkadvies deels vergoeden (tot €150-€300). Check je gemeentewebsite of Energiesubsidiewijzer.nl voor jouw gemeente.
-
----
-
-## Maatwerkadvies: de slimste eerste stap per woningtype
-
-Een energielabel verbeteren is maatwerk: adviezen die voor een tussenwoning kloppen, pakken bij een vrijstaande woning of appartement anders uit. Hieronder onze redactionele prioritering per woningtype, op basis van waar het warmteverlies bij dat type doorgaans het grootst is.
-
-**Hoekwoning (1970-1985), label E:**
-Hoekwoningen hebben meer buitenmuuroppervlak dan tussenwoningen — daarmee meer warmteverlies via de gevel. Eerste prioriteit: spouwmuurisolatie (goedkoop, snel effect). Tweede: dakisolatie. Derde: warmtepomp. De hogere warmtevraag van een hoekwoning maakt een hybride warmtepomp extra rendabel.
-
-**Vrijstaande woning (1960-1975), label F:**
-Meer buitenoppervlak dan elk ander type. Dakisolatie is hier de grootste winst (25-35% warmteverlies via dak bij ongeïsoleerde houten kapconstructie). Begin altijd met dak. Daarna spouwmuur (als aanwezig), daarna warmtepomp. Vrijstaande woningen profiteren het meest van zonnepanelen — veel dakoppervlak, geen buurman die schaduw geeft.
-
-**Appartement (1975-1990), label D:**
-Appartementen hebben minder mogelijkheden: spouwmuur is onderdeel van de VvE-beslissing, dakisolatie idem. Meest rendabele stap voor de individuele eigenaar: HR++ glas (als dat nog niet aanwezig is) en een warmtepomp voor de eigen woonruimte. Overweeg een individuele lucht-lucht-warmtepomp (splits) voor koeling + verwarming.
-
-**Nieuwbouwwoning (2000-2015), label C:**
-Al relatief goed geïsoleerd. Prioriteit: zonnepanelen (direct rendabel). Daarna een hybride of full-electric warmtepomp als de cv-ketel aan vervanging toe is. Daarna thuisbatterij voor eigenverbruiksoptimalisatie.
-
----
-
-## Tijdlijn: wanneer welke stap zetten?
-
-Alles in één keer aanpakken is zelden nodig, jarenlang wachten kost onnodig geld. Hieronder een door ons aanbevolen fasering per startpunt, geordend op terugverdientijd en op de logische volgorde isoleren-ventileren-verwarmen-opwekken.
-
-**Woning met label G of F (voor 1960):**
-- Jaar 1: Kierdichting (€500-€1.000, terugverdientijd <2 jaar) + maatwerkadvies EPA
-- Jaar 1-2: Dakisolatie (grootste thermische lekbron bij oude woningen)
-- Jaar 2-3: HR++ glas (dubbel glas is bij woningen voor 1975 vaak afwezig)
-- Jaar 3-4: Hybride warmtepomp (na isolatie is de verwarmingsvraag lager)
-
-**Woning met label E of D (1960-1990):**
-- Jaar 1: Spouwmuurisolatie (laagste kosten, snelste terugverdientijd)
-- Jaar 1-2: Zonnepanelen (verlagen netto stroomkosten direct)
-- Jaar 2: Hybride warmtepomp (vervangt gasketel, 60-70% gasreductie)
-- Jaar 3-4: Vloerisolatie + eventuele thermische verbeteringen
-
-**Woning met label C of B (1990-2010):**
-- Jaar 1: Zonnepanelen (al goed geïsoleerd, opwek loont direct)
-- Jaar 2: Hybride of full-electric warmtepomp
-- Jaar 3: Thuisbatterij (maximaliseert eigenverbruik zonnestroom)
-- Jaar 4+: Triple glas of HR+++ glas als er nog enkel glas aanwezig is
-
----
-
-## Energielabel en je hypotheek: meer dan je denkt
-
-Een energielabel is niet alleen een document voor bij verkoop. In 2026 heeft het direct invloed op je financieringsmogelijkheden.
-
-**Energiehypotheek (groene hypotheek):**
-Bij label A of hoger kun je bij veel banken (Rabobank, ABN AMRO, ING, Triodos) een rentekorting krijgen van 0,10-0,20% op je hypotheekrente. Op een hypotheek van €350.000 is dat €350-€700 per jaar minder rente. Over 10 jaar: €3.500-€7.000 besparing.
-
-**Extra hypotheekruimte voor verduurzaming:**
-Bij aankoop van een woning met energielabel A of hoger mag je in 2026 tot €20.000 extra lenen boven het normale inkomen-hypotheekplafond (art. 6 NIBUD-normen). Dit is bedoeld om de hogere aankoopprijs van al-duurzame woningen te financieren.
-
-**Energiebespaarhypotheek:**
-Als je label verbetert na aankoop, kun je een energiebespaarhypotheek afsluiten (tot €25.000 extra, rentekorting t.o.v. reguliere hypotheek). Kosten van isolatie, warmtepomp en zonnepanelen worden gefinancierd tegen gunstige rente, terugbetaald via de energiebesparing.
-
-**Belastingaftrek:**
-Verbeteringskosten aan je eigen woning zijn niet aftrekbaar in box 1. Maar de waardestijging van je woning als gevolg van het betere label leidt tot een hogere WOZ-waarde — wat ook relevant is voor de vermogensbelasting (box 3). Vraag een belastingadviseur naar de optimale timing als je grote investeringen plant.
-
----
-
-## Controleer je huidige label: veelgemaakte fout
-
-Veel mensen weten niet wat hun officiële energielabel is — of ze denken dat het klopt, maar het is al verlopen. Energielabels die vóór 2015 zijn afgegeven, zijn in 2025 verlopen.
-
-**Je energielabel opzoeken:**
-Ga naar ep-online.nl en voer je adres in. Je ziet het label, de afgifte­datum en de geldigheid. Een label is 10 jaar geldig (afgegeven na 2015).
-
-**Wat als mijn label verlopen is?**
-Je hebt dan officieel geen geldig energielabel. Bij verkoop ben je verplicht een nieuw label aan te vragen (kosten: €250-€400 via een gecertificeerde adviseur). Als je een energielabel-gerelateerde subsidie of hypotheekkorting wil aanvragen, heb je ook een geldig label nodig.
-
-**Verschil indicatief vs. definitief label:**
-Een indicatief label (automatisch gegenereerd op basis van bouwjaar en woningtype) is gratis maar niet geldig voor hypotheekaanvragen of subsidies. Alleen een definitief label, afgegeven door een gecertificeerde EPA-adviseur na inspectie, is rechtsgeldig.
-
----
+Reken met je eigen eindafrekening, zoek de ISDE-bedragen bij de bron op, en houd twee regels vast: op isolatie en warmtepompen geldt 21% btw, en de ISDE vraag je ná de klus aan.
 
 ## Lees ook
 
-- **[ISDE Subsidie 2026: Complete Gids](/posts/isde-subsidie-warmtepompen-2026/)** — Alle subsidies voor warmtepompen en isolatie
-- **[Beste Hybride Warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/)** — Top 5 warmtepompen vergeleken
-- **[Zonnepanelen Subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/)** — Subsidie en terugverdientijd
-- **[Afbouw Salderingsregeling 2026](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)** — Impact op je zonnepanelen
-- **[SolarEdge vs Enphase 2026](/posts/solaredge-vs-enphase-2026/)** — De beste omvormer kiezen
+- **[Isolatiesubsidies 2026](/posts/isolatie-subsidie-nederland-2026/)** — welke regelingen er zijn en in welke volgorde je aanvraagt
+- **[ISDE-subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/)** — hoe je het bedrag per toestel opzoekt
+- **[Beste hybride warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/)** — waar je op let bij de keuze
+- **[Zonnepanelen subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/)** — btw-nultarief en teruglevering
+- **[Salderingsregeling 2026: wat betekent het einde?](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)** — saldering stopt volledig per 1-1-2027
+- **[SolarEdge vs Enphase](/posts/solaredge-vs-enphase-2026/)** — omvormerkeuze
 
 ---
 
-*Laatst bijgewerkt: april 2026.*
+*Laatst bijgewerkt: 21 augustus 2026. ISDE-voorwaarden opgehaald bij rvo.nl en leenvoorwaarden bij warmtefonds.nl op 21 augustus 2026.*

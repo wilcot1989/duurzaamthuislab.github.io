@@ -1,7 +1,7 @@
 ---
-title: Dakisolatie Binnenuit vs Buitenuit 2026
+title: 'Dakisolatie van binnenuit of van buitenaf (2026)'
 date: 2026-06-18 09:00:00+01:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: Dakisolatie van binnenuit of buitenuit? PUR, glaswol en EPS vergeleken. Wanneer kies je welke methode, en wat zijn de echte kosten in 2026?
 categories:
 - isolatie
@@ -31,31 +31,25 @@ faq:
   a: Dakisolatie van buitenuit (bij vervanging van het dak) kost €80-€200 per m² inclusief nieuwe dakbedekking. Alleen de isolatielaag toevoegen op een bestaand dak (PIR-platen op plat dak) kost €40-€80 per m² voor de platen, plus dakdekkerswerkzaamheden.
 - q: 'Welk materiaal isoleert het beste: PUR, glaswol of EPS?'
   a: PUR/PIR heeft de beste isolatiewaarde per centimeter dikte (lambda ≈ 0,022-0,026 W/mK), gevolgd door EPS (lambda ≈ 0,032-0,038) en glaswol (lambda ≈ 0,030-0,044). PUR is ideaal als de ruimte beperkt is; glaswol is goedkoper en ademend voor hellende daken.
-- q: Hoe dik moet dakisolatie zijn om aan de bouwbesluit-eisen te voldoen?
-  a: Het Bouwbesluit eist voor daken een Rc-waarde van minimaal 6,0 m²K/W bij nieuwbouw en ≥3,5 m²K/W bij renovatie. Voor glaswol (lambda 0,040) betekent dat minimaal 24 cm bij nieuwbouw. Met PUR (lambda 0,024) is 14-15 cm voldoende voor dezelfde Rc-waarde.
+- q: Hoe dik moet dakisolatie zijn om aan de eisen te voldoen?
+  a: 'Voor nieuwbouw geldt sinds 1 januari 2024 het Besluit bouwwerken leefomgeving (Bbl, de opvolger van het Bouwbesluit) met een Rc-eis voor daken in de orde van 6 m²K/W. Bij verbouw geldt een lager verbouwniveau. Los daarvan stelt de ISDE een eigen minimale isolatiewaarde (Rd) per maatregel — zoek die op bij de maatregelpagina van dakisolatie op rvo.nl, want die eis bepaalt of je aanvraag wordt toegekend. Vuistregel voor de dikte: met glaswol heb je ruwweg anderhalf tot twee keer zoveel centimeters nodig als met PUR of PIR voor dezelfde waarde.'
 - q: Kan ik dakisolatie zelf aanbrengen?
   a: Deels. Glaswolrollen in een hellend dak zelf plaatsen is haalbaar voor een doe-het-zelver met enige ervaring. Spuitschuim (PUR) moet altijd door een gecertificeerd bedrijf worden aangebracht vanwege de chemische reactie en de noodzaak van gelijke dikte. Bij een plat dak is professionele dakdekkersinzet noodzakelijk.
 - q: Heeft dakisolatie gevolgen voor de ventilatie in huis?
   a: Ja. Betere dakisolatie betekent een luchtdichter huis. Zonder aanpassing van de ventilatie kan dit leiden tot vochtproblemen, condens en ongezonde lucht. Zorg altijd voor mechanische ventilatie (WTW of CO₂-gestuurde ventilatie) bij grootschalige isolatie.
 - q: Is er subsidie voor dakisolatie in 2026?
-  a: Ja. Via de ISDE (Investeringssubsidie Duurzame Energie) is er subsidie beschikbaar voor dakisolatie met Rc ≥ 3,5 m²K/W. In 2026 bedraagt de subsidie €30 per m² tot een maximum van 30% van de investering. Vraag aan via RVO.nl. Sommige gemeenten hebben aanvullende subsidies.
-products:
-- name: Tibber
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '0'
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
+  a: 'Ja, via de ISDE. Die keert een vast bedrag per geïsoleerde vierkante meter uit, mits het materiaal de vereiste isolatiewaarde haalt en een minimaal oppervlak wordt geïsoleerd. Het actuele bedrag per m², het maximum en de materiaaleisen staan op de maatregelpagina van dakisolatie op rvo.nl; wij noemen hier bewust geen bedrag, omdat die bedragen tussentijds worden bijgesteld. Je vraagt de subsidie aan ná de uitvoering, met de factuur als bewijs.'
+- q: Vraag je de ISDE voor dakisolatie vóór of ná de klus aan?
+  a: 'Ná de uitvoering. De factuur is het bewijsstuk, dus vooraf aanvragen kan niet en er is geen budget te reserveren. Volgens de ISDE-pagina voor woningeigenaren op rvo.nl (opgehaald 21 augustus 2026) dien je in binnen 24 maanden na afronding van het werk. Bij gemeentelijke regelingen is het vaak omgekeerd: die moeten regelmatig wél vóór de opdracht worden aangevraagd.'
 schema_type: Article
 ---
 Bij dakisolatie in een bestaande woning valt de grootste beslissing al voordat je aan materiaal denkt: isoleer je van binnenuit of van buitenuit? Het verschil in kosten loopt bij een gemiddelde rijtjeswoning al snel in de duizenden euro's, en de staat van je dak bepaalt grotendeels welke kant het uit moet. In dit artikel zetten we beide methodes naast elkaar, met de materiaalkeuzes, richtprijzen per vierkante meter en de subsidievoorwaarden voor 2026.
 
----
+*Dit artikel bevat geen affiliate- of commissielinks. Prijzen per m² zijn indicatieve marktbandbreedtes, geen offertes.*
 
-
-> **Kort antwoord:** Dakisolatie van binnenuit of buitenuit? PUR, glaswol en EPS vergeleken. Wanneer kies je welke methode, en wat zijn de echte kosten in 2026?
+> **Kort antwoord:** is je dakbedekking nog goed, dan is isoleren van binnenuit vrijwel altijd de rationele keuze — je raakt het dak niet aan en de investering per m² is een fractie van die van buitenisolatie. Moet het dak toch vernieuwd worden, dan is van buitenaf isoleren de betere optie: geen koudebruggen door de sporren, geen verlies aan zolderhoogte, en je betaalt alleen de meerprijs van de isolatielaag.
 >
-> Buitenisolatie geeft thermisch betere resultaten (geen koudebruggen, behoud van dakvorm), maar is duurder en geschikt voor renovatie bij dakvervanging. Binnenisolatie is goedkoper en minder ingrijpend, maar vermindert het woonoppervlak licht en is gevoeliger voor vochtproblemen als het niet goed wordt uitgevoerd.
+> Materiaal volgt uit de beschikbare dikte: glaswol als er sporrendiepte genoeg is, PUR of PIR als elke centimeter telt. Op isolatiewerk geldt **21% btw** — het nultarief bestaat alleen voor zonnepanelen. De ISDE keert een bedrag per m² uit dat je ná de klus aanvraagt; het actuele bedrag staat op rvo.nl.
 
 ## Het fundamentele verschil
 
@@ -81,7 +75,7 @@ Binnenisolatie is de meest voorkomende keuze bij bestaande woningen, en om een g
 ### Nadelen van binnenisolatie:
 
 - **Verlies van ruimte.** Een isolatiedikte van 14-18 cm neemt woonruimte weg als je de zolder wilt gebruiken.
-- **Koudebruggen.** De sporren zelf isoleren niet — ze zijn een directe warmtebrug naar buiten. Dat vereist een extra isolatielaag dwars op de sporren (kruisisolatie), anders haal je de Rc-waarde van 3,5 niet.
+- **Koudebruggen.** De sporren zelf isoleren niet — ze zijn een directe warmtebrug naar buiten. Dat vereist een extra isolatielaag dwars op de sporren (kruisisolatie), anders blijft de effectieve isolatiewaarde van het pakket achter bij wat het materiaal op papier belooft.
 - **Dampscherm verplicht.** Bij binnenisolatie moet je altijd een dampscherm aanbrengen om condensatie in de isolatielaag te voorkomen. Dat is technisch correct uitvoeren, niet triviaal.
 - **Luchtdichting is complex.** Alle aansluitingen (dakraam, goot, muurplaat) moeten luchtdicht worden afgewerkt — anders verlies je 20-40% van de berekende isolatiewaarde.
 
@@ -148,7 +142,7 @@ Glaswol is het meest gebruikte materiaal voor schuine daken, en terecht. Het is 
 - Als ademend materiaal gewenst is
 - Als je zelf wilt plaatsen (doe-het-zelver-vriendelijk)
 
-**Nadeel glaswol:** Je hebt meer dikte nodig voor dezelfde Rc-waarde als PUR. Bij sporren van 14 cm diepte is glaswol alleen onvoldoende voor de Rc ≥ 3,5 norm — dan moet je een extra laag kruisisolatie aanbrengen.
+**Nadeel glaswol:** Je hebt meer dikte nodig voor dezelfde Rc-waarde als PUR. Bij sporren van 14 cm diepte haal je met glaswol alleen zelden de isolatiewaarde die de ISDE eist — dan is een extra laag kruisisolatie nodig.
 
 **Praktisch tip:** Gebruik glaswol altijd in combinatie met een dampscherm aan de warme zijde (binnenkant). Zet het dampscherm strak en tape alle overlappen. Dat klinkt simpel, maar een slecht aangebracht dampscherm is de meest voorkomende fout bij doe-het-zelvers.
 
@@ -182,7 +176,7 @@ EPS — het witte schuim dat iedereen kent van verpakkingsmateriaal — wordt ge
 
 | Methode | Dikte | Rc-waarde | Kosten materiaal/m² | Kosten aannemer/m² |
 |---------|-------|-----------|--------------------|--------------------|
-| Glaswol tussen sparren | 14 cm | 3,2 | €8 | €35-€55 |
+| Glaswol tussen sporren | 14 cm | 3,2 | €8 | €35-€55 |
 | Glaswol tussen + kruisisolatie | 14+5 cm | 4,3 | €14 | €50-€75 |
 | PUR gespoten (gecertificeerd) | 12 cm | 4,3 | €25 | €55-€80 |
 
@@ -210,12 +204,12 @@ Onderstaande berekening is een model op basis van de richtprijzen uit de tabelle
 - Dakpannen circa tien jaar oud en in goede staat, dus vervanging is niet nodig
 - Zolder wordt niet als woonruimte gebruikt, dus het verlies aan hoogte weegt niet mee
 - Uitvoering: glaswol tussen de sporren plus 5 cm kruisisolatie, met damprem en afwerking in plaatmateriaal, door een aannemer
-- ISDE-subsidie van circa €30 per m², binnen de voorwaarde van maximaal 30 procent van de investering
+- Alle prijzen inclusief 21% btw; op isolatiewerk geldt geen nultarief
 
 **Uitkomst van het model:**
-- Rc-waarde van dit pakket: circa 4,3 m²K/W, ruim boven de renovatie-eis van 3,5
+- Rc-waarde van dit pakket: circa 4,3 m²K/W, wat comfortabel boven de gebruikelijke ISDE-drempel voor de isolatiewaarde ligt (check de actuele eis op de maatregelpagina van rvo.nl)
 - Kosten binnenisolatie bij €50-€75 per m² inclusief dampscherm en afwerking: circa €3.250 tot €4.900
-- Na ISDE-subsidie (65 m² × €30 = €1.950, mits binnen de 30-procentgrens): circa €1.700 tot €3.200 netto
+- Daar gaat de ISDE nog van af. Het bedrag per m² en het maximum staan op rvo.nl; vul je eigen 65 m² in de ISDE-rekentool in. Voer je binnen 24 maanden een tweede maatregel uit, dan verdubbelt het isolatiebedrag.
 - Zou hetzelfde dak van buitenuit worden geïsoleerd, dan komt daar de volledige dakvervanging bij. Op basis van de bandbreedtes voor buitenisolatie inclusief nieuwe dakbedekking loopt de investering dan naar een orde van grootte die twee tot drie keer hoger uitkomt.
 
 De conclusie die uit dit model volgt, en die in de meeste vergelijkbare situaties opgaat: is het dak in goede staat, dan is binnenisolatie de rationele keuze. Buitenisolatie verdient zichzelf pas terug als de dakbedekking toch aan vervanging toe was, want dan betaal je alleen de meerprijs van de isolatielaag.
@@ -236,29 +230,34 @@ Betere isolatie maakt je huis luchtdichter. Dat is goed voor de warmte, maar zon
 
 ### 3. Dakventilatielaag behouden bij schuine daken
 
-Bij schuine daken moet er altijd een ventilatieruimte zijn tussen de buitenzijde van de isolatie en de onderkant van de dakpannen. Die ventilatielaag (minimaal 2-3 cm) voorkomt ophoping van vocht en condensormate. Dit is een punt dat door sommige installateurs wordt overgeslagen bij eenvoudige binnenisolatie-projecten.
+Bij schuine daken moet er altijd een ventilatieruimte zijn tussen de buitenzijde van de isolatie en de onderkant van de dakpannen. Die ventilatielaag (minimaal 2-3 cm) voorkomt ophoping van vocht en condensvorming. Dit is een punt dat door sommige installateurs wordt overgeslagen bij eenvoudige binnenisolatie-projecten.
 
 ### 4. Zonnepanelen achteraf
 
-Als je overweegt zonnepanelen te laten plaatsen, doe dit dan na de dakisolatie. Een goed geïsoleerd dak met nieuwe dakbedekking biedt een stabielere basis voor panelen. En de extra sparrenbevestiging voor zonnepanelen kan gecombineerd worden met de isolatiewerkzaamheden.
+Als je overweegt zonnepanelen te laten plaatsen, doe dit dan na de dakisolatie. Een goed geïsoleerd dak met nieuwe dakbedekking biedt een stabielere basis voor panelen. En de dakdoorvoeren en bevestigingspunten voor de panelen kun je dan in één keer meenemen met het isolatiewerk, zonder later door een afgewerkte damprem te hoeven prikken.
 
 ---
 
 ## Subsidies in 2026
 
-### ISDE (Investeringssubsidie Duurzame Energie)
+### ISDE (Investeringssubsidie Duurzame Energie en Energiebesparing)
 
-De ISDE biedt subsidie voor dakisolatie die voldoet aan Rc ≥ 3,5 m²K/W. In 2026 bedraagt de subsidie ca. €30 per m² voor platte daken en schuine daken.
+De ISDE keert voor dakisolatie een **vast bedrag per geïsoleerde vierkante meter** uit, met een maximum per maatregel en een minimaal te isoleren oppervlak. Wij noemen dat bedrag hier niet: het wordt tussentijds bijgesteld en de cijfers die op websites circuleren wijken structureel af van de RVO-tabellen. Zoek het op bij de bron, vóór je opdracht geeft:
 
-**Voorwaarden:**
-- Minimale Rc-waarde van 3,5 m²K/W
-- Aangevraagd bij RVO vóór aanvang van de werken (of aanvraag achteraf via eigen bewijs)
-- Factuur van een erkend bedrijf (zelf doen telt niet mee)
-- De woning moet je eigen woning zijn (geen verhuur)
+- de **maatregelpagina dakisolatie** op rvo.nl: bedrag per m², maximum, minimaal oppervlak en de vereiste isolatiewaarde (Rd);
+- de **meldcodelijst**: staat het materiaal dat je installateur wil gebruiken erop?
+- de **ISDE-rekentool**: wat levert jóuw oppervlak op?
 
-### Gemeente-subsidies
+**Wat je over de procedure moet weten:**
 
-Veel gemeenten bieden aanvullende subsidies voor dakisolatie, soms specifiek gericht op oudere woningen of lage inkomens. Check de Subsidiewijzer op de website van je gemeente, of gebruik de Subsidiewijzer van het Nibud.
+- Je vraagt aan **ná** de uitvoering, met de factuur als bewijsstuk. Vooraf aanvragen of budget reserveren kan niet. Een eerdere versie van dit artikel suggereerde dat wel — dat was onjuist.
+- Volgens rvo.nl (opgehaald 21 augustus 2026) is de termijn **24 maanden na afronding** van het werk. Deze termijn is in het verleden gewijzigd; check hem bij je aanvraag.
+- Het werk moet door een installatiebedrijf zijn uitgevoerd; zelf doen komt niet in aanmerking, ook niet als je materiaal identiek is.
+- Voer je binnen 24 maanden **twee of meer** maatregelen uit — of combineer je isolatie met een warmtepomp, zonneboiler of warmtenetaansluiting — dan verdubbelt het subsidiebedrag voor de isolatie (rvo.nl, 21 augustus 2026).
+
+### Gemeentelijke regelingen
+
+Veel gemeenten hebben aanvullende regelingen, soms gericht op oudere woningen of lagere inkomens. Doe de subsidiecheck van Milieu Centraal op [verbeterjehuis.nl](https://www.verbeterjehuis.nl) met je postcode en kijk daarnaast op de site van je eigen gemeente. Vraag bij het energieloket expliciet of je vóór of ná de opdracht moet aanvragen — bij gemeentelijke potjes is dat vaak vóóraf, en dat is precies omgekeerd aan de ISDE.
 
 ---
 
@@ -280,22 +279,13 @@ Isoleren is een van de weinige verduurzamingsmaatregelen waarbij je niet hoeft t
 
 ---
 
-## Dakisolatie en energielabel: hoeveel stijgt mijn label?
+## Dakisolatie en energielabel
 
-Een dakisolatie-investering heeft direct effect op het energielabel van je woning. Het energielabel wordt berekend op basis van de totale warmtedoorgangswaarde van de schil — dak, vloer, muren, ramen.
+Dakisolatie werkt door in het energielabel, omdat het label wordt berekend uit de warmteverliezen van de hele schil — dak, vloer, muren en ramen samen — in combinatie met de installaties. Hoeveel labelstappen je maakt, is daarom niet vooraf te zeggen op basis van de dakisolatie alleen: bij een woning met verder alles ongeïsoleerd weegt het dak zwaar, bij een woning waar de rest al goed is nauwelijks.
 
-Indicatieve labelstijging door dakisolatie (afhankelijk van situatie):
+Wat we hier bewust **niet** meer noemen: een tabel met labelstappen per beginsituatie, en een percentage of bedrag aan waardestijging per labelstap. Die cijfers stonden hier eerder wel, maar zijn niet naar een herleidbare, openbare meting te brengen die per woningtype en regio geldig is. Voor een betrouwbare uitkomst laat je een energieadviseur je woning doorrekenen; alleen die berekening geldt voor jouw dak.
 
-| Beginsituatie | Na dakisolatie (Rc ≥ 3,5) | Labelstijging |
-|---------------|--------------------------|--------------|
-| Label G (geen dakisolatie) | Label E | +2 klassen |
-| Label F (dunne isolatie, Rc < 1,5) | Label D | +2 klassen |
-| Label E (Rc ≈ 1,5-2,5) | Label C of B | +2-3 klassen |
-| Label D (Rc ≈ 2,5-3,5) | Label B | +1-2 klassen |
-
-Bij verkoop van de woning is elk label-verschil aantoonbaar van invloed op de verkoopprijs. Onderzoek van Kadaster en Calcasa toont aan dat woningen met label A of B gemiddeld 5-10% hogere verkoopopbrengst realiseren dan vergelijkbare woningen met label D of lager.
-
-Dakisolatie is daarmee niet alleen een verduurzamingsmaatregel, maar ook een waarde-investering.
+Praktisch wel relevant: laat het label opnieuw opnemen nadat de isolatie klaar is, als je binnen een paar jaar wil verkopen of herfinancieren. Het oude label doet je dan tekort.
 
 ---
 
@@ -350,7 +340,7 @@ Bij een kap van 50 m² zijn de materiaalkosten dan €750-€1.250. Vergelijk da
 
 Betere isolatie maakt je woning luchtdichter. Dat klinkt goed, maar het heeft een directe keerzijde: de luchtverversing vermindert. En lucht die te lang in de woning blijft circuleren, leidt tot:
 
-- Hogere CO₂-concentraties (vermoeideidsgevoel, concentratieproblemen)
+- Hogere CO₂-concentraties (vermoeidheidsgevoel, concentratieproblemen)
 - Hogere luchtvochtigheid (condensvorming, schimmelgroei)
 - Slechtere luchtkwaliteit (stof, vluchtige stoffen)
 
@@ -360,7 +350,7 @@ Betere isolatie maakt je woning luchtdichter. Dat klinkt goed, maar het heeft ee
 - Bij een oud roosterventilatiesysteem: overweeg een mechanisch systeem (WTW of CO₂-gestuurd)
 - Laat de installateur de luchtdichtheid meten na de werkzaamheden (blowerdoor-test)
 
-Een blowerdoor-test kost €300-€500 en toont exact aan hoe luchtdicht de woning is na isolatie. Dat geeft ook informatie over de benodigde ventilatiecapaciteit.
+Een blowerdoortest kost indicatief €300-€500 en laat zien hoe luchtdicht de woning is na isolatie. Dat geeft ook informatie over de benodigde ventilatiecapaciteit.
 
 ---
 
@@ -434,23 +424,23 @@ In veel oudere rijtjeswoningen is het dakoverstek minimaal of afwezig. Dat maakt
 
 Dakisolatie scheelt energie — maar hoeveel precies? Dat hangt sterk af van je beginsituatie.
 
-### Schatting van de jaarlijkse besparing (ongeïsoleerd naar Rc ≥ 3,5)
+### Modelberekening van de jaarlijkse besparing (volledig ongeïsoleerd dak naar goed geïsoleerd)
 
-| Woning | Besparing aardgas per jaar | Besparing €/jaar (€1,50/m³) |
+Aannames: gasprijs all-in **€1,10/m³** (marktprijs ±€0,30 incl. btw + energiebelasting €0,7268 incl. btw + aanname voor opslag en vaste-kostenomslag), volledig ongeïsoleerd dak als vertrekpunt, geen gedragsverandering na de ingreep.
+
+| Woning | Aangenomen gasbesparing per jaar | Besparing bij €1,10/m³ |
 |--------|--------------------------|---------------------------|
-| Rijtjeswoning, 100 m² | 300-450 m³ | €450-€675 |
-| Twee-onder-een-kap, 140 m² | 400-600 m³ | €600-€900 |
-| Vrijstaande woning, 180 m² | 500-800 m³ | €750-€1.200 |
+| Rijtjeswoning, 100 m² | 300-450 m³ | €330-€495 |
+| Twee-onder-een-kap, 140 m² | 400-600 m³ | €440-€660 |
+| Vrijstaande woning, 180 m² | 500-800 m³ | €550-€880 |
 
-*Gebaseerd op een volledig ongeïsoleerd dak; de besparing is lager als er al gedeeltelijke isolatie aanwezig is.*
+*Modelbandbreedtes, geen metingen. Is er al gedeeltelijke isolatie aanwezig, dan valt de besparing lager uit — bij een dak met 6 cm oude glaswol soms tot de helft lager.*
 
 ### Terugverdientijd
 
-Bij een dakisolatie-project van €4.000 (aannemer, 50 m², glaswol + kruisisolatie) en een jaarlijkse besparing van €600:
-- Terugverdientijd: 6,7 jaar
-- Na ISDE-subsidie (€1.500): 4,2 jaar
+Bij een project van €4.000 inclusief 21% btw (aannemer, 50 m², glaswol plus kruisisolatie) en een berekende besparing van €440 per jaar komt de terugverdientijd vóór subsidie op **circa 9 jaar**. Bij €660 besparing is dat **circa 6 jaar**. De ISDE verkort dat; met hoeveel volgt uit het bedrag per m² dat op dat moment geldt en of je een tweede maatregel binnen 24 maanden meeneemt.
 
-Dat is een van de kortste terugverdientijden van alle verduurzamingsmaatregelen — beter dan zonnepanelen, beter dan een warmtepomp, vergelijkbaar met vloerisolatie.
+Daarmee zit dakisolatie in de middengroep: sneller dan isolerend glas, duidelijk langzamer dan spouwmuurisolatie bij een ongeïsoleerde spouw. Wie beide kan doen, doet de spouw eerst.
 
 ---
 
@@ -459,10 +449,10 @@ Dat is een van de kortste terugverdientijden van alle verduurzamingsmaatregelen 
 Naast energiebesparing is het comfort-effect significant. Dat is iets wat pas echt voelbaar is nadat je de maatregel hebt genomen.
 
 **Warmer in de winter**
-Een geïsoleerd dak voorkomt warmteverlies omhoog. De plafonds voelen warmer aan — letterlijk, want een kouder plafond straalt negatieve warmte naar mensen in de ruimte. Na isolatie is het effect direct merkbaar.
+Een geïsoleerd dak voorkomt warmteverlies omhoog. De plafonds voelen warmer aan — letterlijk, want een kouder plafond straalt koudestraling naar mensen in de ruimte. Na isolatie is het effect direct merkbaar.
 
 **Koeler in de zomer**
-Dit is een effect dat veel mensen vergeten: een goed geïsoleerd dak houdt ook de zon buiten. In een heetere zomer (steeds vaker) blijft een geïsoleerde kamer aanzienlijk koeler dan een ongeïsoleerde, zelfs zonder airco.
+Dit is een effect dat veel mensen vergeten: een goed geïsoleerd dak houdt ook de zon buiten. In een warme zomer blijft een geïsoleerde kamer aanzienlijk koeler dan een ongeïsoleerde, zelfs zonder airco.
 
 **Stillere woning**
 Isolatiemateriaal dempt ook geluid: minerale wol heeft een geluidsabsorberende werking, wat regen op dakpannen, verkeer en vliegtuiglawaai hoorbaar dempt. Het is een neveneffect dat in gebruikerservaringen vaak wordt genoemd als onverwachte meerwaarde.
@@ -479,22 +469,19 @@ Een luchtdicht aangebracht dampscherm reduceert ook tochtgevoelens. Koude lucht 
 | Binnenuit of buitenuit? | Binnenuit als dak goed is; buitenuit bij dakrenovatie |
 | Beste materiaal hellend dak | Glaswol (kosteneffectief) of PUR (dunste laag) |
 | Beste materiaal plat dak | PIR-platen (standaard bij dakrenovatie) |
-| Minimum Rc (renovatie) | 3,5 m²K/W |
-| Subsidie beschikbaar? | Ja, ISDE ~€30/m² (check RVO.nl) |
+| Isolatiewaarde-eis | Bbl-eis bij nieuwbouw; ISDE stelt een eigen Rd-eis per maatregel (rvo.nl) |
+| Subsidie beschikbaar? | Ja, ISDE: vast bedrag per m², aanvragen ná de klus (bedrag op rvo.nl) |
+| Btw | 21% — geen nultarief op isolatie |
 | Zelf doen? | Glaswol ja; PUR nee; plat dak nee |
 | Dampscherm nodig? | Ja, altijd bij glaswol binnenuit |
 | Gemiddelde terugverdientijd | 4-8 jaar na subsidie |
 
-Dakisolatie is de verduurzamingsmaatregel met de beste prijs-prestatieverhouding voor woningen met een ongeïsoleerd of slecht geïsoleerd dak. Begin hier, vóórdat je nadenkt over warmtepompen of zonnepanelen.
-
-
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
-
-
+Bij een ongeïsoleerd of slecht geïsoleerd dak is dakisolatie een van de maatregelen die zich het beste laten doorrekenen: de besparing volgt uit oppervlak en isolatiewaarde, niet uit aannames over gedrag. Isoleer eerst de schil, bepaal daarna het vermogen van een eventuele warmtepomp — in die volgorde is de warmtepomp goedkoper.
 
 ## Gerelateerde artikelen
 
-- [Isolatie Subsidie Nederland 2026: Alle Regelingen en](/posts/isolatie-subsidie-nederland-2026/)
+- [Isolatiesubsidies 2026: welke regelingen er zijn](/posts/isolatie-subsidie-nederland-2026/)
+- [Spouwmuurisolatie kosten 2026](/posts/spouwmuur-isolatie-kosten-2026/)
 - [Kierdichting, glaswol en tochtstrip in 2026](/posts/kierdichting-glaswol-tochtstrip-2026/)
 - [Dakraam vs dakkapel isolatie 2026: warmteverlies](/posts/dakraam-vs-dakkapel-isolatie-2026/)
 - [Energielabel Verbeteren: Stappenplan van G naar A (2026)](/posts/energielabel-verbeteren-stappenplan-2026/)

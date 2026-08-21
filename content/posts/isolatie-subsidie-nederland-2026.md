@@ -1,8 +1,8 @@
 ---
-title: 'Isolatie Subsidie Nederland 2026: Alle Regelingen en'
+title: 'Isolatie subsidie 2026: welke regelingen er zijn en hoe je ze aanvraagt'
 date: 2026-05-27 10:00:00+01:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: Compleet overzicht van alle isolatiesubsidies in 2026. ISDE, gemeentelijke subsidies, energiebespaarlening en subsidie per isolatiemaatregel.
+lastmod: 2026-08-21 08:00:00+02:00
+description: Welke subsidies en leningen er in 2026 zijn voor isolatie, waar de actuele ISDE-bedragen staan, en in welke volgorde je aanvraagt zonder je recht op subsidie te verspelen.
 categories:
 - isolatie
 tags:
@@ -21,467 +21,171 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
-- q: Welke isolatiesubsidies zijn er in 2026?
-  a: 'De belangrijkste subsidie is de ISDE (Investeringssubsidie Duurzame Energie): €900-€3.800 per isolatiemaatregel afhankelijk van oppervlakte en Rc-waarde. Daarnaast zijn er gemeentelijke subsidies (€500-€2.500), de Energiebespaarlening (2,6% rente), en soms provinciale regelingen. Je kunt meerdere subsidies combineren.'
-- q: Hoeveel ISDE subsidie krijgen wij voor isolatie?
-  a: 'ISDE-bedragen in 2026: spouwmuurisolatie €900-€2.400, dakisolatie €1.200-€3.800, vloerisolatie €700-€1.800, gevelisolatie €1.500-€3.800, HR++ glas €95-€145 per m². De exacte hoogte hangt af van het geïsoleerde oppervlak en de behaalde Rc-waarde.'
-- q: Kan ik isolatiesubsidie combineren met andere subsidies?
-  a: 'Ja, je kunt ISDE combineren met gemeentelijke subsidies en de Energiebespaarlening. Let op: bij sommige gemeentelijke regelingen wordt de ISDE verrekend. Combinatie met ISDE voor warmtepomp geeft een extra bonus van €500-€1.000 bovenop de individuele bedragen.'
-- q: Hoe vraag ik ISDE subsidie aan voor isolatie?
-  a: 'Vraag ISDE aan via mijn.rvo.nl ná uitvoering van de werkzaamheden. Je hebt nodig: factuur van een erkend installateur, foto''s van de isolatie, bewijs van Rc-waarde (productdatablad), en je DigiD. Aanvragen kan tot 12 maanden na de factuurdatum. Uitbetaling binnen 13 weken.'
-- q: Moet ik een erkend installateur gebruiken voor isolatiesubsidie?
-  a: Ja, voor ISDE moet de isolatie zijn uitgevoerd door een bij RVO geregistreerd bedrijf. Zelf isoleren komt niet in aanmerking voor ISDE. Voor gemeentelijke subsidies gelden soms andere regels — sommige gemeenten subsidiëren ook doe-het-zelf isolatie.
-- q: Welke isolatie heeft de beste terugverdientijd met subsidie?
-  a: 'Spouwmuurisolatie heeft de beste terugverdientijd: 2-4 jaar (kosten €1.500-€3.000 minus €900-€2.400 subsidie). Dakisolatie volgt met 4-7 jaar. Vloerisolatie: 4-6 jaar. HR++ glas heeft de langste terugverdientijd: 8-15 jaar. Met subsidie verbetert de terugverdientijd met 30-50%.'
-products:
-- name: Vaillant aroTHERM plus
-  url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/
-  price: '8000'
+- q: Welke subsidies zijn er in 2026 voor isolatie?
+  a: 'De landelijke regeling is de ISDE (Investeringssubsidie Duurzame Energie en Energiebesparing) voor spouwmuur-, dak-, vloer-, bodem- en gevelisolatie en voor isolerend glas. Daarnaast hebben veel gemeenten en enkele provincies eigen regelingen, en biedt het Nationaal Warmtefonds de Energiebespaarlening. Wij noemen bewust geen ISDE-bedragen in dit artikel: die staan per maatregel en per meldcode op rvo.nl en veranderen tussentijds. Zoek het bedrag daar op voordat je een offerte ondertekent.'
+- q: Hoeveel ISDE-subsidie krijg je voor isolatie?
+  a: 'Dat hangt af van de maatregel, het aantal geïsoleerde vierkante meters en de behaalde isolatiewaarde. RVO publiceert per maatregel een vast bedrag per m² met een maximum, plus meldcodelijsten per materiaal en een ISDE-rekentool. Wij nemen die bedragen hier niet over, omdat rondgestrooide bedragen op websites structureel afwijken van de actuele RVO-tabellen. Reken je aanvraag altijd door met de rekentool op rvo.nl.'
+- q: Vraag je ISDE aan vóór of ná de isolatie?
+  a: 'Ná de uitvoering. Je hebt de factuur nodig als bewijs, dus een aanvraag vóór de werkzaamheden is niet mogelijk. Volgens de ISDE-pagina voor woningeigenaren op rvo.nl (opgehaald 21 augustus 2026) dien je de aanvraag in binnen 24 maanden na afronding van de werkzaamheden. Controleer die termijn bij je eigen aanvraag: hij is in de afgelopen jaren gewijzigd. Let op dat bij gemeentelijke regelingen vaak het omgekeerde geldt — daar moet je soms wél vóór de opdracht aanvragen.'
+- q: Geldt er 0% btw op isolatie?
+  a: 'Nee. Het btw-nultarief geldt alleen voor de levering en installatie van zonnepanelen en direct noodzakelijke onderdelen. Isolatiewerk, glas, warmtepompen, boilers en thermostaten vallen onder het normale tarief van 21%. Een offerte met 21% btw op isolatiewerk is dus correct — stuur die niet terug en spreek je installateur er niet op aan.'
+- q: Kun je ISDE combineren met een gemeentelijke subsidie?
+  a: 'Meestal wel, maar niet altijd: sommige gemeenten verrekenen de ISDE of sluiten cumulatie uit in hun voorwaarden. Lees die voorwaarden vóór je opdracht geeft. Er bestaat géén losse ISDE-combinatiebonus in euro''s. Wat RVO wél kent, is een verdubbeling: voer je twee of meer maatregelen uit binnen 24 maanden — of een isolatiemaatregel samen met een warmtepomp, zonneboiler of warmtenetaansluiting — dan verdubbelt het subsidiebedrag voor de isolatie (rvo.nl, opgehaald 21 augustus 2026).'
+- q: Moet de isolatie door een erkend bedrijf worden uitgevoerd?
+  a: 'Voor de ISDE moet het werk zijn uitgevoerd door een installatiebedrijf en moet je een factuur kunnen overleggen; zelf isoleren komt niet in aanmerking. Welke eisen precies gelden per maatregel — denk aan materiaalmeldcodes en de op te geven isolatiewaarde — staat in de voorwaardenpagina van die maatregel op rvo.nl. Gemeentelijke regelingen stellen soms andere of ruimere eisen, en subsidiëren in een enkel geval ook doe-het-zelfwerk.'
 schema_type: Article
 ---
-Vloerisolatie voor een gemiddelde tussenwoning kost rond de €2.800. Blijft er na een ISDE-subsidie van €1.200 en een gemeentelijke bijdrage van €500 nog €1.100 over, dan is de terugverdientijd bij een gasverbruik van 1.800 m³ ongeveer tweeënhalf jaar. Daarmee is isolatie de snelst rendabele verduurzamingsmaatregel die er is — en de reden dat wij aanraden eerst te isoleren en pas daarna een warmtepomp te overwegen. Hier vind je alle subsidies van 2026 op een rij.
+Isolatie is de maatregel met de kortste terugverdientijd van alle verduurzamingsstappen, en de subsidieregels zijn er tegelijk het slechtst gedocumenteerd. Op veel websites — tot voor kort ook op deze — staan ISDE-bedragen die niet met de RVO-tabellen overeenkomen, en staat het advies om de subsidie aan te vragen vóór de klus. Dat laatste is precies verkeerd om en kan je de hele subsidie kosten.
 
-*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+Dit artikel doet daarom twee dingen: het legt de structuur van de regelingen uit, en het wijst je per regeling naar de plek waar het actuele bedrag staat. Bedragen die wij niet naar een bron met datum kunnen herleiden, staan er niet in.
 
-Wil je weten welke isolatiemaatregelen het meest opleveren voor jouw woning? Lees onze [stap-voor-stap gids energielabel verbeteren](/posts/energielabel-verbeteren-stappenplan-2026/).
+*Dit artikel bevat geen affiliate- of commissielinks. Wij ontvangen niets als je op basis hiervan een offerte aanvraagt of subsidie krijgt.*
 
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Compleet overzicht van alle isolatiesubsidies in 2026. ISDE, gemeentelijke subsidies, energiebespaarlening en subsidie per isolatiemaatregel.
+> **Kort antwoord:** de ISDE is de landelijke isolatiesubsidie. Je vraagt hem áltijd ná de uitvoering aan, met de factuur als bewijs — volgens rvo.nl (21 augustus 2026) binnen 24 maanden na afronding. Het bedrag hangt af van maatregel, oppervlak en isolatiewaarde en staat per meldcode op rvo.nl; er bestaat geen vaste combinatiebonus in euro's, maar bij twee of meer maatregelen binnen 24 maanden verdubbelt het isolatiebedrag.
 >
-> De belangrijkste subsidie is de ISDE (Investeringssubsidie Duurzame Energie): €900-€3.800 per isolatiemaatregel afhankelijk van oppervlakte en Rc-waarde. Daarnaast zijn er gemeentelijke subsidies (€500-€2.500), de Energiebespaarlening (2,6% rente), en soms provinciale regelingen. Je kunt meerdere subsidies combineren.
+> Op isolatiewerk geldt **21% btw**, niet 0%. Het nultarief bestaat alleen voor zonnepanelen. Naast de ISDE zijn er gemeentelijke regelingen (voorwaarden en volgorde verschillen per gemeente) en de Energiebespaarlening van het Nationaal Warmtefonds.
 
-## Overzicht Isolatiesubsidies 2026
+## Wat er in 2026 te halen valt
 
-| Subsidie | Bedrag | Voor wie | Aanvragen via |
-|----------|--------|----------|---------------|
-| **ISDE (landelijk)** | €700-€3.800 per maatregel | Woningeigenaren | mijn.rvo.nl |
-| **Gemeentelijke subsidie** | €500-€2.500 | Verschilt per gemeente | Gemeente website |
-| **Energiebespaarlening** | 2,6% rente, max €25.000 | Woningeigenaren | Nationaal Warmtefonds |
-| **ISDE combinatiebonus** | €500-€1.000 extra | Bij 2+ maatregelen | mijn.rvo.nl |
-| **VvE subsidie** | €500-€5.000 per woning | Appartementseigenaren | mijn.rvo.nl |
+| Regeling | Wat het is | Voor wie | Aanvragen via |
+|---|---|---|---|
+| **ISDE** | Vast bedrag per m² per maatregel, met maximum; verdubbeling bij 2+ maatregelen | Woningeigenaren (en VvE's) | mijn.rvo.nl, ná uitvoering |
+| **Gemeentelijke of provinciale regeling** | Verschilt sterk; soms vast bedrag, soms percentage | Verschilt per gemeente | Gemeente of provincie, vaak vóór opdracht |
+| **Energiebespaarlening** | Lening met lage rente, 0% onder een inkomensgrens | Woningeigenaren | Nationaal Warmtefonds, vóór uitvoering |
 
-## ISDE Subsidie per Isolatiemaatregel
+Wat hier níet in staat, staat er bewust niet in: exacte ISDE-bedragen per maatregel en exacte gemeentelijke maxima. Die zijn alleen betrouwbaar bij de bron zelf, en een verouderd bedrag in een tabel is erger dan geen bedrag.
 
-De ISDE (Investeringssubsidie Duurzame Energie en Energiebesparing) is de belangrijkste landelijke subsidie voor isolatie. De bedragen zijn afhankelijk van het geïsoleerde oppervlak en de behaalde isolatiewaarde (Rc-waarde).
+## ISDE voor isolatie: hoe de regeling in elkaar zit
 
-### Spouwmuurisolatie
+De ISDE werkt niet met een percentage van de rekening, maar met een **vast bedrag per vierkante meter** per maatregel. Dat bedrag verschilt per maatregel (spouwmuur, dak, vloer, bodem, gevel, glas) en er geldt per maatregel een maximum bedrag en een minimum te isoleren oppervlak. Daarnaast moet het materiaal een isolatiewaarde halen die per maatregel is vastgelegd, en moet je die waarde bij de aanvraag kunnen aantonen met het productdatablad.
 
-| Oppervlakte | Rc ≥ 1,1 | Rc ≥ 3,5 |
-|-------------|-----------|-----------|
-| 10-25 m² | €900 | €1.200 |
-| 25-50 m² | €1.200 | €1.800 |
-| 50-100 m² | €1.800 | €2.400 |
+De actuele bedragen en eisen vind je op drie plekken op rvo.nl:
 
-**Kosten:** €1.500-€3.000 (afhankelijk van woningtype)
-**Terugverdientijd met subsidie:** 2-4 jaar
-**Energiebesparing:** 15-25% op gasverbruik
+1. de voorwaardenpagina van de betreffende maatregel (minimaal oppervlak, vereiste isolatiewaarde, bedrag per m² en maximum);
+2. de **meldcodelijsten**, waarin per isolatiemateriaal staat of het in aanmerking komt;
+3. de **ISDE-rekentool**, waarmee je je totale subsidie kunt uitrekenen als je meerdere maatregelen binnen 24 maanden uitvoert.
 
-### Dakisolatie
+### De verdubbeling bij meerdere maatregelen
 
-| Oppervlakte | Rc ≥ 3,5 | Rc ≥ 6,0 |
-|-------------|-----------|-----------|
-| 15-35 m² | €1.200 | €1.800 |
-| 35-70 m² | €1.800 | €2.800 |
-| 70-130 m² | €2.800 | €3.800 |
+Er bestaat geen aparte bonus van €500 of €1.000 bovenop de bedragen — die claim staat op veel sites, ook lange tijd op deze, maar is niet naar RVO te herleiden. Wat er wél is: voer je **meer dan één** isolatiemaatregel uit, dan verdubbelt het subsidiebedrag voor de isolatie. Dat geldt ook als je één isolatiemaatregel combineert met een warmtepomp, zonneboiler of warmtenetaansluiting. De volgende maatregel moet binnen 24 maanden na de vorige zijn afgerond (rvo.nl, opgehaald 21 augustus 2026).
 
-**Kosten:** €4.000-€12.000 (afhankelijk van daktype en methode)
-**Terugverdientijd met subsidie:** 4-7 jaar
-**Energiebesparing:** 15-20% op gasverbruik
+Praktisch betekent dat: als je toch twee klussen van plan bent, is het financieel bijna altijd verstandig ze binnen die 24 maanden te houden. Het is geen reden om een maatregel te nemen die je niet nodig hebt.
 
-### Vloerisolatie
+### Volgorde: eerst uitvoeren, dan aanvragen
 
-| Oppervlakte | Rc ≥ 3,5 | Rc ≥ 6,0 |
-|-------------|-----------|-----------|
-| 10-25 m² | €700 | €900 |
-| 25-50 m² | €900 | €1.200 |
-| 50-80 m² | €1.200 | €1.800 |
+Dit is het punt waarop lezers het vaakst geld verspelen, en waar dit artikel eerder zelf de fout in ging. Voor de ISDE geldt:
 
-**Kosten:** €1.500-€4.000
-**Terugverdientijd met subsidie:** 4-6 jaar
-**Energiebesparing:** 5-10% op gasverbruik
+- Je vraagt aan **ná** de uitvoering. De factuur is het bewijsstuk; zonder factuur is er niets aan te vragen.
+- De termijn is volgens rvo.nl (21 augustus 2026) **24 maanden na afronding** van de werkzaamheden. Deze termijn is de laatste jaren gewijzigd — check hem bij je eigen aanvraag.
+- Er is geen budget te "reserveren" vóór de installatie. Wie wacht met opdracht geven omdat hij eerst een toekenning wil zien, wacht op iets dat niet bestaat.
 
-### Gevelisolatie (buitenzijde)
+Voor **gemeentelijke** regelingen geldt vaak het omgekeerde: daar moet je regelmatig aanvragen vóórdat je de opdracht geeft, omdat de gemeente de situatie vooraf wil kunnen vaststellen. Zoek dat per gemeente op voordat je een aannemer inschakelt. De **Energiebespaarlening** vraag je ook vóór de uitvoering aan, omdat de lening het werk moet financieren.
 
-| Oppervlakte | Rc ≥ 3,5 | Rc ≥ 6,0 |
-|-------------|-----------|-----------|
-| 10-25 m² | €1.500 | €2.200 |
-| 25-50 m² | €2.200 | €3.000 |
-| 50-100 m² | €3.000 | €3.800 |
+## Btw op isolatie: 21%, en dat blijft zo
 
-**Kosten:** €8.000-€20.000
-**Terugverdientijd met subsidie:** 10-15 jaar
-**Energiebesparing:** 20-30% op gasverbruik
+Op veel plekken circuleert het idee dat er sinds 2023 een btw-nultarief op isolatiewerk zou gelden. Dat is onjuist. Het nultarief in de Wet OB geldt voor de levering en installatie van **zonnepanelen** en de daarvoor direct noodzakelijke onderdelen. Isolatie, isolerend glas, warmtepompen, boilers, thermostaten en thuisbatterijen vallen onder het normale tarief van **21%**.
 
-### HR++ Glas
+Concreet: een offerte waarin 21% btw op isolatiewerk staat, is correct. Stuur die niet terug voor "correctie" en confronteer de installateur er niet mee — je hebt dan ongelijk, en het kost je goodwill bij de partij die straks je isolatiewaarde op de factuur moet vermelden.
 
-| Type | Subsidie per m² |
-|------|----------------|
-| HR++ glas (U ≤ 1,2) | €95/m² |
-| Triple glas (U ≤ 0,7) | €145/m² |
+## Gemeentelijke en provinciale regelingen
 
-**Kosten:** €200-€500 per m² (inclusief kozijn)
-**Terugverdientijd met subsidie:** 8-15 jaar
-**Energiebesparing:** 5-10% op gasverbruik
+Deze verschillen te sterk en veranderen te vaak om in een tabel te zetten. De betrouwbare route is:
 
-## ISDE Combinatiebonus
+1. Doe de subsidiecheck van Milieu Centraal op [verbeterjehuis.nl](https://www.verbeterjehuis.nl) met je postcode.
+2. Zoek daarnaast op de site van je eigen gemeente op "subsidie" of "duurzaamheid" — lokale potjes komen niet altijd in landelijke overzichten terecht.
+3. Bel bij twijfel het energieloket van je gemeente of regio, en vraag expliciet: moet ik aanvragen vóór of ná de opdracht, en wordt de ISDE verrekend?
 
-Voer je twee of meer isolatiemaatregelen tegelijk uit? Dan krijg je een extra bonus bovenop de individuele bedragen.
-
-| Combinatie | Extra bonus |
-|-----------|------------|
-| 2 isolatiemaatregelen | €500 |
-| 3 isolatiemaatregelen | €750 |
-| Isolatie + warmtepomp | €1.000 |
-| Isolatie + zonneboiler | €500 |
-
-**Voorbeeld:** Spouwmuurisolatie (€1.800) + dakisolatie (€2.800) + combinatiebonus (€500) = **€5.100 subsidie**.
-
-Overweeg je een warmtepomp? Bekijk onze [warmtepomp vs CV-ketel vergelijking](/posts/warmtepomp-vs-cv-ketel-2026/) en de [ISDE subsidie gids](/posts/isde-subsidie-warmtepomp-2026/).
-
-## Gemeentelijke Subsidies
-
-Naast de landelijke ISDE bieden veel gemeenten eigen isolatiesubsidies. Deze variëren sterk per gemeente.
-
-### Voorbeelden (2026)
-
-| Gemeente | Subsidie | Voorwaarden |
-|----------|---------|-------------|
-| Amsterdam | Tot €2.500 | Woning bouwjaar <2000, energielabel D of lager |
-| Rotterdam | Tot €2.000 | Woningeigenaar, specifieke wijken |
-| Utrecht | Tot €1.500 | Woning bouwjaar <1992 |
-| Den Haag | Tot €2.000 | Woning bouwjaar <2000 |
-| Eindhoven | Tot €1.000 | Woningeigenaar, geen huurwoning |
-
-### Hoe te vinden
-
-1. Zoek op [energiesubsidiewijzer.nl](https://www.energiesubsidiewijzer.nl) — vul je postcode in
-2. Check de website van je gemeente onder "Subsidies" of "Duurzaamheid"
-3. Bel het Regionaal Energieloket voor persoonlijk advies
-
-**Let op:** Gemeentelijke subsidies hebben vaak een beperkt budget. Wie het eerst komt, het eerst maalt. Check vroeg in het jaar of er budget beschikbaar is.
+Dat derde punt is de vraag die het meeste geld scheelt en die het minst vaak wordt gesteld.
 
 ## Energiebespaarlening (Nationaal Warmtefonds)
 
-Niet genoeg eigen geld? Het Nationaal Warmtefonds biedt een gunstige lening speciaal voor verduurzaming.
+Volgens warmtefonds.nl (opgehaald 21 augustus 2026):
 
-| Kenmerk | Details |
-|---------|---------|
-| **Rente** | 2,6% (vast, 2026) |
-| **Maximaal bedrag** | €25.000 |
-| **Looptijd** | Tot 20 jaar |
-| **Aflossingsvrij** | Eerste 6 maanden |
-| **Boetevrij aflossen** | Ja, altijd |
-| **Combineren met subsidie** | Ja |
+| Kenmerk | Wat er staat |
+|---|---|
+| Rente | 0% voor eigenaar-bewoners met een verzamelinkomen onder €60.000; daarboven een rente die het Warmtefonds als "laag" aanduidt zonder percentage op deze pagina |
+| Leenbedrag | minimaal €1.000, maximaal €29.000 (voor een thuisbatterij: €8.500) |
+| Looptijd | 7, 10, 15 of 20 jaar |
 
-### Waarvoor te gebruiken
-- Alle vormen van isolatie
-- Warmtepomp
-- Zonnepanelen
-- HR++ glas
-- Ventilatie met warmteterugwinning
+Het exacte rentepercentage boven die inkomensgrens staat niet op de pagina die wij hebben opgehaald; vraag het op bij je aanvraag. Wij noemen hier bewust geen percentage dat we niet kunnen aanwijzen.
 
-**Rekenvoorbeeld:** €8.000 lening voor dakisolatie + spouwmuur. Maandlast: €45/maand over 20 jaar. Energiebesparing: €80-€120/maand. Je gaat er dus maandelijks op vooruit.
+Waarvoor je de lening kunt gebruiken: isolatie, glas, warmtepomp, zonnepanelen, ventilatie met warmteterugwinning en (tot het genoemde bedrag) een thuisbatterij.
 
-## Stappenplan Subsidie Aanvragen
+## Modelberekening: wat isolatie oplevert
 
-### Stap 1: Inventariseer je woning
-- Bepaal je huidige energielabel (check [EP-online](https://www.ep-online.nl))
-- Maak foto's van de huidige situatie
-- Vraag 2-3 offertes aan bij erkende installateurs
+Hieronder een **modelberekening met expliciete aannames**, geen meting en geen praktijkgeval. Reken hem na met je eigen jaarverbruik van de laatste eindafrekening.
 
-### Stap 2: Check beschikbare subsidies
-- ISDE: altijd beschikbaar (check budget op rvo.nl)
-- Gemeente: check budget en voorwaarden op je gemeentesite
-- Energiebespaarlening: aanvragen bij Nationaal Warmtefonds
+**Aannames:** tussenwoning bouwjaar rond 1975, gasverbruik 1.800 m³ per jaar, gasprijs all-in **€1,10/m³** (marktprijs ±€0,30 incl. btw + energiebelasting €0,7268 incl. btw + een aanname voor opslag en vaste-kostenomslag). Gasrekening in het model: **€1.980 per jaar**. Investeringsbedragen zijn marktindicaties uit offertebandbreedtes, geen vaste prijzen; vraag altijd drie offertes.
 
-### Stap 3: Laat de werkzaamheden uitvoeren
-- Kies een bij RVO geregistreerd bedrijf (verplichting voor ISDE)
-- Bewaar alle facturen, foto's en productdatabladen
-- Laat de Rc-waarde documenteren
+| Maatregel | Investering (indicatie) | Aangenomen gasbesparing | Besparing per jaar | Terugverdientijd vóór subsidie |
+|---|---|---|---|---|
+| Spouwmuurisolatie | €1.500-€3.000 | 15-25% | €297-€495 | 3-10 jaar |
+| Vloer- of bodemisolatie | €1.500-€4.000 | 5-10% | €99-€198 | 8-40 jaar |
+| Dakisolatie | €4.000-€12.000 | 15-20% | €297-€396 | 10-40 jaar |
+| Isolerend glas (vervanging) | €200-€500 per m² | 5-10% | €99-€198 | lang; comfort en geluid wegen mee |
+| Gevelisolatie buitenzijde | €8.000-€20.000 | 20-30% | €396-€594 | 13-50 jaar; alleen bij grote renovatie |
 
-### Stap 4: Vraag ISDE aan (ná uitvoering)
-1. Ga naar [mijn.rvo.nl](https://mijn.rvo.nl) en log in met DigiD
-2. Kies "ISDE aanvragen"
-3. Upload factuur, foto's, productbladen
-4. Dien de aanvraag in (maximaal 12 maanden na factuurdatum)
-5. Ontvang bevestiging per e-mail
-6. Uitbetaling binnen 13 weken
+De bandbreedtes zijn breed omdat ze dat in de praktijk ook zijn: een onverwacht slecht bereikbare kruipruimte of een dak dat eerst moet worden hersteld verschuift de investering meer dan de subsidie hem verlaagt. De ISDE verkort elke terugverdientijd in deze tabel, maar met welk bedrag hangt af van je oppervlak en isolatiewaarde — vul je eigen situatie in de ISDE-rekentool op rvo.nl in en trek dat bedrag van de investering af.
 
-### Stap 5: Vraag gemeentelijke subsidie aan
-- Vaak vóór uitvoering aanvragen (check voorwaarden!)
-- Upload factuur en bewijs van uitvoering
-- Wachttijd verschilt per gemeente (2-12 weken)
+Wat we uit dit model wél hard durven te zeggen: spouwmuurisolatie is bij een ongeïsoleerde spouw vrijwel altijd de eerste stap, en gevelisolatie aan de buitenzijde is zelden rendabel als losse maatregel.
 
-## Rekenvoorbeelden
+## In welke volgorde isoleren
 
-### Tussenwoning (bouwjaar 1975)
+| Prioriteit | Maatregel | Waarom |
+|---|---|---|
+| 1 | Spouwmuurisolatie | laagste investering per bespaarde m³ gas, mits de spouw geschikt is |
+| 2 | Dakisolatie | grootste absolute warmteverlies bij een ongeïsoleerd dak |
+| 3 | Vloer- of bodemisolatie | vooral comfortwinst (koude voeten), beperkte gasbesparing |
+| 4 | Isolerend glas | comfort en geluid; als investering het traagst |
+| 5 | Gevelisolatie buitenzijde | alleen meenemen bij een gevelrenovatie die er toch al aankomt |
 
-| Maatregel | Kosten | ISDE | Gemeente | Netto kosten | Besparing/jaar |
-|-----------|--------|------|----------|-------------|---------------|
-| Spouwmuur (40 m²) | €2.500 | €1.800 | €500 | **€200** | €350 |
-| Dakisolatie (50 m²) | €6.000 | €2.800 | €500 | **€2.700** | €400 |
-| Vloerisolatie (35 m²) | €2.000 | €900 | — | **€1.100** | €150 |
-| HR++ glas (8 m²) | €3.200 | €760 | — | **€2.440** | €100 |
-| Combinatiebonus | — | €750 | — | **-€750** | — |
-| **Totaal** | **€13.700** | **€7.010** | **€1.000** | **€5.690** | **€1.000** |
+Isoleren vóór je aan een warmtepomp begint is geen dogma maar rekenkunde: een lagere warmtevraag verlaagt het benodigde vermogen en de aanvoertemperatuur, en dus de investering in de warmtepomp zelf. Zie ook onze [vergelijking van hybride en volledige warmtepompen](/posts/hybride-vs-volledige-warmtepomp-2026/).
 
-**Terugverdientijd:** 5,7 jaar (netto kosten / jaarlijkse besparing)
+## De aanvraag bij RVO stap voor stap
 
-### Hoekwoning (bouwjaar 1985)
+**1. Inloggen.** Ga naar mijn.rvo.nl en log in met DigiD. Voor een VvE of bedrijf is eHerkenning nodig.
 
-| Maatregel | Kosten | ISDE | Netto kosten | Besparing/jaar |
-|-----------|--------|------|-------------|---------------|
-| Spouwmuur (55 m²) | €3.000 | €2.400 | **€600** | €400 |
-| Dakisolatie (60 m²) | €7.500 | €2.800 | **€4.700** | €450 |
-| **Totaal** | **€10.500** | **€5.700** | **€4.800** | **€850** |
+**2. Kies ISDE, categorie woningeigenaren.** Je vult per maatregel in: type maatregel, geïsoleerd oppervlak in m², de behaalde isolatiewaarde, de meldcode van het materiaal, de factuurdatum en de gegevens van het installatiebedrijf.
 
-**Terugverdientijd:** 5,6 jaar
+**3. Documenten.** Reken op de factuur (met btw-bedrag; dat is bij isolatie 21%), het productdatablad met de isolatiewaarde, en foto's van de situatie. Welke bijlagen RVO precies verlangt staat in het aanvraagformulier — dat wijkt per maatregel af.
 
-## Veelgemaakte Fouten
+**4. Indienen en wachten.** Je krijgt een bevestiging met referentienummer. De beslistermijn staat op de ISDE-pagina van RVO; wij noemen hier geen doorlooptijd in weken omdat die per jaar en per drukte verschilt.
 
-1. **Te laat aanvragen** — ISDE moet binnen 12 maanden na de factuurdatum. Vraag zo snel mogelijk aan
-2. **Niet-erkend bedrijf** — ISDE vereist een bij RVO geregistreerd installatiebedrijf. Check vooraf
-3. **Gemeente subsidie niet vooraf aanvragen** — Sommige gemeenten eisen aanvraag vóór uitvoering
-4. **Geen foto's bewaard** — RVO kan foto's opvragen als bewijs. Maak foto's voor, tijdens en na installatie
-5. **Rc-waarde niet gedocumenteerd** — Bewaar het productdatablad van het isolatiemateriaal
-6. **Budget op** — Gemeentelijke subsidies hebben een eindig budget. Check vroeg in het jaar
+### De vier fouten die aanvragen laten mislukken
 
-## Isolatie Prioriteren: Wat Eerst?
+1. **Isolatiewaarde niet gedocumenteerd.** Als de offerte en factuur geen isolatiewaarde en geen materiaalaanduiding vermelden, kun je de aanvraag niet compleet maken. Vraag dit vóór de opdracht, niet erna.
+2. **Materiaal zonder meldcode.** Niet elk isolatiemateriaal staat op de RVO-lijst. Laat de installateur het merk en type opgeven en check het zelf.
+3. **Oppervlak te klein.** Per maatregel geldt een minimaal te isoleren oppervlak. Een halve zolder haalt de drempel soms niet.
+4. **Gemeentelijke subsidie te laat aangevraagd.** De ISDE gaat ná de klus, maar diverse gemeentelijke regelingen gaan ervóór. Wie beide wil, moet de gemeentelijke aanvraag dus als eerste doen.
 
-| Prioriteit | Maatregel | Waarom eerst |
-|-----------|-----------|-------------|
-| 1 | **Spouwmuurisolatie** | Laagste kosten, hoogste subsidie, snelste terugverdientijd |
-| 2 | **Dakisolatie** | Grootste energiebesparing, veel subsidie |
-| 3 | **Vloerisolatie** | Comfortverbetering, redelijke subsidie |
-| 4 | **HR++ glas** | Comfort + geluid, maar langste terugverdientijd |
-| 5 | **Gevelisolatie** | Alleen bij grote renovatie (hoge kosten) |
+## Isolatie, hypotheek en leenruimte
 
-## Wettelijk kader 2026: wat verandert er?
+Er bestaat geen landelijke, vastgelegde rentekorting per energielabel. Individuele geldverstrekkers voeren wel eigen kortingen of duurzaamheidsbudgetten, maar die verschillen per aanbieder en per moment, en ze staan niet in een openbare regeling. Wij noemen daarom geen percentages per bank: dat zijn commerciële voorwaarden die je alleen bij je eigen geldverstrekker of adviseur kunt navragen.
 
-**0% BTW op isolatie**
-Sinds 1 april 2023 geldt 0% BTW op isolatiewerkzaamheden aan woningen. Dit is automatisch — je hoeft niets aan te vragen. Check altijd je offerte: sommige installateurs zijn gewend de BTW te vermelden maar rekenen wel 0%. Een offerte met "21% BTW op isolatiewerk" mag je dus terugsturen voor correctie.
+Wat wél in regelgeving staat, is de **extra leenruimte voor energiebesparende maatregelen**. Die staat in de Tijdelijke regeling hypothecair krediet, niet in "artikel 6 van de NIBUD-normen" — die verwijzing bestaat niet. De regeling laat toe dat een geldverstrekker onder voorwaarden boven de inkomensafhankelijke leencapaciteit een bedrag meefinanciert dat aan verduurzaming wordt besteed, en kent daarnaast een ruimere marge voor woningen met een zeer goed energielabel. De exacte bedragen en voorwaarden worden jaarlijks bijgesteld; laat je adviseur de versie van het lopende jaar erbij pakken.
 
-**ISDE 2026: budget en aanpassingen**
-Het ISDE-budget voor 2026 is vastgesteld op €800 miljoen voor alle categorieën (warmtepompen + isolatie + zonneboilers). In 2025 was het budget voor isolatie in september al uitgeput. Vraag vroeg in het jaar aan — bij voorkeur Q1 of Q2.
+## Huurders: minder mogelijkheden, niet nul
 
-Nieuwe in 2026: de ISDE-combinatiebonus is verhoogd. Wie drie of meer isolatiemaatregelen combineert, ontvangt nu een bonus van €750 in plaats van de eerdere €500. Wie daarboven ook een warmtepomp aanschaft, stijgt naar €1.250 extra.
+De meeste subsidies zijn voor eigenaar-bewoners. Als huurder blijft over:
 
-**Nationaal Warmtefonds renteverlaging**
-Per 1 januari 2026 is de rente op de Energiebespaarlening (Nationaal Warmtefonds) verlaagd van 3,0% naar 2,6% voor eigenaar-bewoners. Voor lagere inkomens (tot 120% sociaal minimum) geldt zelfs 0% rente. Dit maakt verduurzaming ook voor wie geen spaargeld heeft financieel interessant.
-
-**VvE-subsidie uitgebreid**
-Appartementseigenaren kunnen via de VvE (Vereniging van Eigenaren) subsidie aanvragen voor collectieve isolatie. In 2026 is het maximale subsidiebedrag voor VvE's verhoogd naar €7.500 per woning voor dakisolatie van flatgebouwen.
-
----
-
-## Jaarberekening: concrete terugverdientijd per maatregel
-
-Rekenvoorbeeld met de volgende aannames: representatieve tussenwoning uit 1975, gasverbruik 1.800 m³ per jaar, gasprijs €1,15/m³.
-
-**Gassrekening voor verduurzaming: €2.070/jaar**
-
-### Spouwmuurisolatie (80 m², EPS-parels)
-
-- Investering: €2.200
-- Minus ISDE: €400 (€5,00/m²)
-- Minus 0% BTW besparing: €0 (al 0%)
-- **Netto investering: €1.800**
-- Gasbesparing: 25% × 1.800 m³ × €1,15 = **€518/jaar**
-- Terugverdientijd: **3,5 jaar**
-
-### Dakisolatie (50 m², Rc 6,0)
-
-- Investering: €5.500
-- Minus ISDE: €2.800
-- **Netto investering: €2.700**
-- Gasbesparing: 18% × 1.800 m³ × €1,15 = **€373/jaar**
-- Terugverdientijd: **7,2 jaar**
-
-### Combinatie spouwmuur + dakisolatie
-
-- Investering: €7.700
-- Minus ISDE: €3.200 + €750 combinatiebonus = **€3.950 subsidie**
-- **Netto investering: €3.750**
-- Gecombineerde besparing: **€891/jaar** (40% gasreductie)
-- Terugverdientijd: **4,2 jaar**
-
-### Dezelfde tussenwoning na 10 jaar (cumulatief)
-
-| Post | Bedrag |
-|------|--------|
-| Netto investering | €3.750 |
-| Besparing jaar 1-10 (€891/jr) | €8.910 |
-| Stijging energieprijzen (3%/jr, gem.) | +€1.200 |
-| **Netto winst na 10 jaar** | **€6.360** |
-
-Isolatie is geen kostenpost. Het is een investering die structureel geld oplevert.
-
----
-
-## Veelgemaakte fouten (aangevuld)
-
-De fouten die bij subsidieaanvragen het vaakst tot afwijzing of tot een lager bedrag leiden:
-
-**Fout 7: Combinatiebonus niet combineren**
-Veel mensen voeren één maatregel uit en vragen ISDE aan. Maar de combinatiebonus (€500-€1.250) is alleen beschikbaar als je twee of meer maatregelen in dezelfde aanvraag opneemt. Plan maatregelen dus samen, ook al worden ze in twee bouwfases uitgevoerd — zolang de factuurdatums binnen 12 maanden van elkaar liggen, kun je ze combineren in één ISDE-aanvraag.
-
-**Fout 8: Rc-waarde niet specificeren in de offerte**
-ISDE hanteert Rc-waardecategorieën. Als de offerte geen Rc-waarde vermeldt, kan RVO de aanvraag afwijzen. Vraag de installateur altijd om de Rc-waarde van het te plaatsen materiaal te vermelden in de offerte én op de factuur.
-
-**Fout 9: Wachten op "het perfecte moment"**
-Energieprijzen zijn onzeker. Subsidiebudgetten zijn gelimiteerd. De beste tijd om te isoleren was gisteren, de op een na beste is nu. In 2025 zagen we dat het ISDE-budget voor dakisolatie in september al op was. Wie wacht tot Q4, riskeert geen subsidie meer te ontvangen.
-
----
+- **Kleine maatregelen** die je zelf mag aanbrengen: tochtstrips, radiatorfolie, brievenbusborstel, zware gordijnen. Lage kosten, direct effect op comfort.
+- **Verbeterverzoek bij de verhuurder.** Voor bestaande huurwoningen bestaat géén wettelijke verplichting om label C of D te halen — die labelplicht geldt voor kantoren, niet voor woningen. Wat je wél hebt: het energielabel weegt mee in het woningwaarderingsstelsel, en over onderhoud en gebreken kun je naar de Huurcommissie. Dat is een ander en beperkter instrument dan "een lagere huur afdwingen omdat je woning slecht geïsoleerd is".
+- **Lokale huurdersregelingen.** Enkele gemeenten hebben aparte potjes voor huurders. Of dat in jouw gemeente zo is, staat op de gemeentesite; landelijke overzichten zijn hier onbetrouwbaar.
 
 ## Conclusie
 
-Met de subsidies van 2026 is isolatie toegankelijker dan ooit. Spouwmuurisolatie kost na subsidie soms maar €200 eigen bijdrage en verdient zich in 2-4 jaar terug. Combineer maatregelen voor de extra ISDE-bonus en check altijd je gemeentelijke regelingen.
+De belangrijkste twee dingen uit dit artikel zijn geen bedragen maar regels. Eén: de ISDE vraag je ná de uitvoering aan, met de factuur, binnen de termijn die RVO op dat moment noemt — wachten op een toekenning vóór de klus bestaat niet en kost je de subsidie. Twee: op isolatie geldt 21% btw, niet 0%.
 
-Begin met een inventarisatie, vraag offertes aan bij erkende installateurs, en pak de subsidies mee. De investering verdient zich altijd terug — met subsidie alleen maar sneller.
-
-
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
-
-
-
-## Isolatie en hypotheek: wat verandert er?
-
-Banken koppelen hypotheekrentes steeds vaker aan het energielabel. Hier zijn de concrete voordelen in 2026:
-
-**Groene hypotheek (label A of hoger):**
-- ABN AMRO: 0,15% rentekorting op hypotheek bij label A
-- ING: 0,20% rentekorting bij label A of hoger
-- Rabobank: tot 0,25% korting + €2.500 duurzaamheidspremie bij verbouwing
-- Triodos: 0,20% korting + adviesgesprek verduurzaming
-
-**Rekenvoorbeeld:** Hypotheek €280.000 met 3,5% rente. Bij 0,20% rentekorting = 3,3% rente. Verschil: €560 per jaar minder rente. Dat is bovenop de lagere energierekening.
-
-**Energiehypotheek:**
-Met een energiehypotheek kun je tot €30.000 extra lenen voor verduurzaming, boven je maximale leencapaciteit op basis van inkomen. Voorwaarde: het geld moet worden besteed aan energiebesparende maatregelen (isolatie, warmtepomp, zonnepanelen).
-
-Praktijkgeval: een gezin met maximale leencapaciteit van €320.000 kan met energiehypotheek €350.000 lenen als de extra €30.000 volledig naar verduurzaming gaat. Zo kun je een woning kopen én meteen verduurzamen, ook als je niet genoeg spaargeld hebt.
-
----
-
-## ISDE aanvragen: stap voor stap
-
-Hieronder het volledige aanvraagproces zoals RVO het voor woningeigenaren beschrijft, met de gegevens die je per stap nodig hebt.
-
-**Stap 1: Inloggen op mijn.rvo.nl**
-Ga naar rvo.nl → klik op "Mijn RVO" → log in met DigiD (of eHerkenning voor bedrijven). Je hebt minimaal DigiD betrouwbaarheidsniveau "Midden" nodig (via de DigiD app).
-
-**Stap 2: ISDE aanvragen**
-Na inloggen klik je op "Aanvragen en melden" → "ISDE" → "Woningbouw". Je ziet een formulier in drie secties: adres, maatregelen, upload.
-
-**Stap 3: Maatregelen invoeren**
-Per maatregel voer je in:
-- Type maatregel (bijv. "Vloerisolatie")
-- Geïsoleerd oppervlak in m²
-- Behaalde Rc-waarde (staat op het productdatablad van het isolatiemateriaal)
-- Factuurdatum van de installateur
-- Naam en KvK-nummer van de installateur
-
-**Stap 4: Documenten uploaden**
-Verplicht te uploaden:
-- PDF van de factuur (met BTW-bedrag, ook al is dat €0)
-- Productdatablad van het isolatiemateriaal (met Rc-waarde)
-- Foto's voor en na de isolatie (minimaal 2 foto's)
-- Kopie KOMO- of BRL-certificaat van de installateur (deze heeft hij zelf)
-
-**Stap 5: Indienen en bevestiging**
-Je ontvangt een bevestigingsmail met een referentienummer. Doorlooptijd: 6-13 weken voor uitbetaling. Bij goedkeuring wordt het bedrag binnen 2 weken na beslissing overgemaakt.
-
-**Doorlooptijd in de praktijk:** RVO noemt zelf 6 tot 13 weken tussen indiening en uitbetaling. Aanvragen waarbij alle documenten in één keer compleet zijn, hebben geen aanvullend contact nodig en zitten aan de korte kant van die bandbreedte.
-
----
-
-## Welke subsidie wanneer aanvragen?
-
-Een terugkerend punt van verwarring: ISDE aanvragen vóór of na de installatie?
-
-**ISDE (landelijk):** ALTIJD ná de installatie. Je dient de aanvraag in met de factuur als bewijs. Maximale termijn: 12 maanden na factuurdatum.
-
-**Gemeentelijke subsidies:** Check per gemeente. Sommige gemeenten (bijv. Rotterdam) vereisen aanvraag vóór de installatie — dan moeten ze het werk kunnen controleren. Anderen accepteren alleen een aanvraag ná installatie. Bij twijfel: bel de gemeente.
-
-**Energiebespaarlening (Nationaal Warmtefonds):** Aanvragen vóór de installatie. De lening wordt uitbetaald na goedkeuring, waarna je het werk kunt laten uitvoeren.
-
----
-
-## Erkende installateurs vinden: hoe pak je dat aan?
-
-Voor ISDE-subsidie moet de installateur bij RVO geregistreerd zijn. Maar hoe vind je er een die ook goed is?
-
-**Officiële route via RVO:**
-1. Ga naar rvo.nl → zoek op "erkende installateurs ISDE"
-2. Filter op maatregel (bijv. "dakisolatie" of "spouwmuurisolatie")
-3. Vul je postcode in voor regionale resultaten
-
-**Alternatieve routes:**
-- Zoekloket.nl: vraag 3 offertes aan bij gecertificeerde bedrijven in jouw regio
-- KOMO-keurmerk.nl: zoek op woningisolatie + regio
-- Energiesubsidiewijzer.nl: geeft ook een installateursgids
-
-**Waarop letten bij een offerte:**
-1. Vermeldt de offerte het KOMO- of BRL-certificaatnummer?
-2. Staat er expliciet "0% BTW conform Wet OB"?
-3. Is de Rc-waarde van het te plaatsen materiaal vermeld?
-4. Is het geïsoleerde oppervlak in m² vermeld?
-5. Is de installateur bereid een installatierapport te leveren na afronding?
-
-Als één van deze vijf punten ontbreekt in de offerte, is dat een rode vlag. Vraag de installateur om de offerte aan te vullen of kies een andere partij.
-
-**Referentiecheck:** Vraag altijd naar 2-3 recente klanten die je kunt bellen. Een goede installateur heeft dit direct paraat. Een installateur die dit niet kan of wil geven: skip.
-
----
-
-## Subsidie voor huurders: beperkt maar niet nul
-
-Huurders worden vaak vergeten in de isolatiediscussie — en dat klopt, want de meeste subsidies zijn voor eigenaar-bewoners. Toch zijn er mogelijkheden.
-
-**Wat huurders wél kunnen:**
-- Kleine maatregelen eigen rekening: tochtstrips, radiatorfolie, gordijnen kosten €100-€300 en leveren €50-€150 per jaar op
-- Energiebespaarlening via Nationaal Warmtefonds: in 2026 beschikbaar voor huurders van particuliere verhuurders voor maatregelen die ze zelf mogen aanbrengen
-- Gemeentelijke huurdersbijdragen: steden als Utrecht, Amsterdam en Rotterdam hebben aparte potjes voor huurders die kleine verduurzamingsmaatregelen nemen
-
-**Wat verhuurders verplicht zijn:**
-Verhuurders zijn wettelijk verplicht om huurwoningen voor 2030 te verbeteren naar minimaal energielabel C. Als jouw verhuurder niets doet, kun je bij de Huurcommissie een lagere huur afdwingen. Dat is een krachtig instrument dat weinig huurders kennen — en dat weinig verhuurders je spontaan vertellen.
-
----
-
-## Combinatiebonus ISDE: hier laat je geld liggen
-
-De meest gemiste kans bij ISDE-aanvragen is de combinatiebonus. ISDE-bedragen zijn per maatregel vast, maar de praktische besparing zit in het samenvoegen van klussen.
-
-**Voorbeeld: dakisolatie + vloerisolatie tegelijk**
-
-Bij gelijktijdige uitvoering bespaar je op mobilisatiekosten van de aannemer. Een steiger kostt €500-€800 per keer dat hij opgebouwd wordt. Als dakisolatie en gevelwerk tegelijk plaatsvinden, hoef je de steiger maar één keer te betalen. Voor een gemiddelde woning scheelt dat €500-€1.200 op de totaalrekening.
-
-**Concrete situatie:**
-- Dakisolatie: €5.200 kosten, €1.800 ISDE
-- Spouwmuurisolatie: €2.800 kosten, €600 ISDE
-- Totaal apart: €8.000 kosten, €2.400 ISDE
-- Totaal gecombineerd: €6.800 kosten (€1.200 bespaard op installatie), €2.400 ISDE
-- Nettokosten gecombineerd: €4.400 vs €5.600 apart
-
-Dat is bijna €1.200 extra voordeel, alleen door slim plannen. Ons advies: laat nooit een maatregel uitvoeren als je weet dat je binnen 2 jaar een aangrenzende maatregel wil nemen.
-
-**Volgorde van aanvragen bij combinaties:**
-Je kunt meerdere maatregelen in één ISDE-aanvraag indienen, zolang ze op dezelfde factuur of tegelijk zijn gerealiseerd. Dit vereenvoudigt de administratie en verkleint de kans op fouten. Laat je installateur één gecombineerde factuur uitschrijven in plaats van losse facturen per maatregel — dat maakt de aanvraag stukken overzichtelijker voor de RVO-behandelaar.
-
-Ook de gemeentelijke subsidie en de ISDE kunnen naast elkaar worden aangevraagd voor dezelfde maatregel. Ze zijn cumuleerbaar, tenzij de gemeentesubsidie dit expliciet uitsluit in de voorwaarden. Controleer dit altijd vóór aanvraag via de gemeentewebsite of Energiesubsidiewijzer.nl.
-
----
+Alles daarnaast is rekenwerk met je eigen cijfers: pak je laatste eindafrekening, vul je oppervlakken in de ISDE-rekentool, en vraag drie offertes met isolatiewaarde en materiaalmeldcode erin. Dan weet je wat een maatregel je netto kost, en dat is de enige uitkomst die voor jouw woning geldt.
 
 ## Lees ook
 
-- **[Energielabel Verbeteren Stappenplan](/posts/energielabel-verbeteren-stappenplan-2026/)** — Van label G naar A
-- **[ISDE Subsidie Warmtepomp 2026](/posts/isde-subsidie-warmtepomp-2026/)** — Subsidie voor verwarming
-- **[Warmtepomp vs CV-ketel](/posts/warmtepomp-vs-cv-ketel-2026/)** — Na isolatie: slim verwarmen
-- **[Vloerverwarming + Warmtepomp](/posts/vloerverwarming-warmtepomp-combinatie-2026/)** — De ideale combinatie
-- **[Beste Zonnepanelen 2026](/posts/beste-zonnepanelen-2026/)** — Eigen stroom na isolatie
+- **[Energielabel verbeteren: stappenplan](/posts/energielabel-verbeteren-stappenplan-2026/)** — welke stap welk effect heeft
+- **[Spouwmuurisolatie: kosten en aandachtspunten](/posts/spouwmuur-isolatie-kosten-2026/)** — de maatregel met de kortste terugverdientijd
+- **[Dakisolatie van binnen of van buiten](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/)** — verschil in kosten en resultaat
+- **[Triple glas vs. HR++](/posts/triple-glas-vs-hr-plus-plus-glas-2026/)** — wanneer triple glas zin heeft
+- **[Hybride of volledige warmtepomp](/posts/hybride-vs-volledige-warmtepomp-2026/)** — de stap ná isolatie
 
 ---
 
-*Laatst bijgewerkt: mei 2026.*
+*Laatst bijgewerkt: 21 augustus 2026. ISDE-voorwaarden opgehaald bij rvo.nl en Energiebespaarlening-voorwaarden bij warmtefonds.nl op 21 augustus 2026.*

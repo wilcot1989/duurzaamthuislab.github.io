@@ -1,8 +1,8 @@
 ---
 title: 'Hybride warmtepomp vs volledige warmtepomp 2026: welke past bij jou?'
 date: 2026-09-06 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Hybride of volledige warmtepomp in 2026? Investering, COP, gasverbruik en terugverdientijd doorgerekend voor acht woningprofielen. Eerlijke beslisboom.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: Hybride of volledig elektrisch? Investering, gasverbruik en terugverdientijd doorgerekend in één consistent model, met de variabelen die de uitkomst kantelen.
 categories:
 - warmtepomp
 tags:
@@ -23,380 +23,219 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1565182999561-18d7dc61c393&w=1200&output=webp&q=70
 faq:
-- q: 'Wat is het verschil tussen hybride en volledige warmtepomp?'
-  a: 'Hybride warmtepomp werkt samen met een cv-ketel: warmtepomp doet 70-85% van de warmtevraag, cv-ketel springt bij koud weer of warmwater bij. Volledige warmtepomp (all-electric) doet alles zelf: ruimteverwarming én warmtap-water. Hybride is goedkoper in aanschaf (€4.500-€7.500) maar verbruikt nog gas (~250-450 m³/jaar). Volledig elektrisch kost €8.500-€14.000 maar is gasvrij.'
-- q: 'Welke is goedkoper in 2026: hybride of volledige warmtepomp?'
-  a: 'In aanschaf hybride: €4.500-€7.500 vs €8.500-€14.000 voor volledig. Operationeel hangt af van isolatie en gasprijs. Bij label B+ huis met €1,30/m³ gas en €0,30/kWh stroom: volledig elektrisch is €280-€420/jaar goedkoper. Bij label D met slechte isolatie: hybride wint €120-€220/jaar door cv-ketel-back-up. Terugverdientijd extra investering volledig: 8-14 jaar.'
-- q: 'Heb ik isolatie label B nodig voor volledige warmtepomp?'
-  a: 'Niet absoluut, maar wel sterk aanbevolen. Volledige warmtepomp werkt efficiënt bij aanvoertemperatuur 35-45°C, wat bij label C of slechter vaak niet voldoende is. Onder label B krijg je bijwarmen via elektrische weerstand (eats ~30% van COP). Hybride werkt prima vanaf label D omdat cv-ketel bijspringt. Vuistregel: B+ → all-electric, C → twijfel, D-G → hybride.'
-- q: 'Hoeveel CO2 bespaar ik met hybride vs volledig?'
-  a: 'Hybride bespaart ~60% CO2 t.o.v. cv-ketel (~1.200 kg/jaar). Volledig elektrisch met groene stroom bespaart 100% CO2 (~2.000 kg/jaar). Met grijze stroom (Nederlandse mix 2026): volledig elektrisch ~70% besparing (~1.400 kg/jaar). Verschil 200-800 kg CO2/jaar afhankelijk van stroommix.'
-- q: 'Werkt hybride of volledig beter met zonnepanelen?'
-  a: 'Volledig elektrisch wint duidelijk met zonnepanelen omdat alle warmte uit stroom komt. Bij 4 kWp panelen + dynamisch contract: 25-35% van warmtepomp-verbruik kan gratis. Hybride benut zonneoverschot beperkt omdat cv-ketel ''s avonds en winter draait. Voor maximale zonnepanelen-zelfconsumptie: volledig elektrisch.'
-- q: 'Wat is de COP van hybride versus volledige warmtepomp?'
-  a: 'Hybride SCOP 3,9-4,2 (gemiddeld over jaar incl cv-ketel-bijspringen). Volledig elektrisch SCOP 4,3-5,1 afhankelijk van afgiftesysteem en isolatie. Bij vloerverwarming + label A: SCOP 5+. Bij LT-radiatoren + label B: 4,3-4,7. Volledig is technisch efficiënter, hybride is praktisch goedkoper bij slechtere woningen.'
-- q: 'Wat zijn de geluidsverschillen?'
-  a: 'Hybride buitenunits 35-42 dB op 1 meter (Quatt 38-42, Atag Hybrid 36-40). Volledige warmtepompen zijn vaak iets groter en stiller: Vaillant aroTHERM Plus 35-40 dB met nachtmodus 31 dB. Daikin Altherma 3 32-37 dB. Beide voldoen aan 40 dB norm op erfgrens, maar volledige warmtepompen hebben vaker nachtmodus.'
-- q: 'Hoe lang gaan hybride en volledige warmtepompen mee?'
-  a: 'Hybride 12-15 jaar (warmtepomp-deel), cv-ketel binnen hybride 8-12 jaar. Volledige warmtepomp 18-22 jaar. Verschil komt door: minder draaiuren bij hybride per component, geen cv-ketel-vervanging bij volledig, en betere kwaliteit componenten in volledige systemen. Over 20 jaar: hybride vervangt cv-ketel 2x én warmtepomp 1x = €5.000-€8.000 vervangingskosten.'
-- q: 'Welke subsidie is er in 2026 voor beide?'
-  a: 'ISDE 2026: hybride €1.450-€2.300, volledig €1.950-€4.000 afhankelijk van vermogen en model. Volledige warmtepompen krijgen meer subsidie vanwege gasvrij maken. Daarnaast lokale gemeentesubsidies (€500-€1.500 in Amsterdam, Utrecht, Rotterdam). Lees [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/).'
-- q: 'Kan ik later van hybride naar volledig overstappen?'
-  a: 'Ja, dat is een goede strategie. Eerst hybride installeren (€4.500-€7.500), na isolatie-renovatie eventueel cv-ketel verwijderen en warmtepomp upgraden naar groter model met warmwater-functie. Extra kosten omschakeling: €3.500-€6.000. Voordeel: gespreide investering, eerste deel werkt direct, tweede stap pas als woning gereed is. Nadeel: totaal duurder dan in één keer volledig.'
-products:
-- name: Quatt hybride warmtepomp
-  url: https://go.duurzaamthuislab.nl/quatt
-  price: '4495'
-- name: Atag Hybrid warmtepomp
-  url: https://www.atag.nl/
-  price: '5295'
-- name: Vaillant aroTHERM Plus 5 kW
-  url: https://www.vaillant.nl/
-  price: '8500'
-- name: Daikin Altherma 3 R
-  url: https://www.daikin.nl/
-  price: '11500'
+- q: Wat is het verschil tussen een hybride en een volledige warmtepomp?
+  a: 'Een hybride warmtepomp werkt samen met de bestaande cv-ketel: de warmtepomp neemt het grootste deel van de ruimteverwarming over en de ketel springt bij op koude dagen en meestal ook voor warm tapwater. Een volledige (all-electric) warmtepomp doet alles zelf, inclusief tapwater via een boiler, en de gasaansluiting kan eruit. Hybride is aanzienlijk goedkoper in aanschaf maar houdt een gasrekening; volledig elektrisch vraagt een woning en een afgiftesysteem die met lage aanvoertemperatuur uit de voeten kunnen.'
+- q: Welke is goedkoper?
+  a: 'In aanschaf de hybride, met een orde van grootte van €4.500-€7.500 tegen €8.500-€14.000 voor volledig elektrisch, beide inclusief 21% btw en installatie. In gebruik hangt het af van je isolatie en van de verhouding tussen de gas- en de stroomprijs. In onze modelberekening met gas €1,10/m³ en stroom €0,26/kWh all-in bespaart de volledige warmtepomp ruwweg €400 per jaar meer dan de hybride, waarmee de extra investering zich in de orde van tien tot twaalf jaar terugverdient. Bij een slecht geïsoleerde woning kantelt dat naar de hybride.'
+- q: Heb je een goed energielabel nodig voor een volledige warmtepomp?
+  a: 'Niet het label is bepalend, maar het afgiftesysteem. Een volledige warmtepomp werkt efficiënt bij een aanvoertemperatuur van ongeveer 35 tot 45 graden. Als je radiatoren op de koudste dag meer dan 50 graden nodig hebben, moet je ze vergroten of vloerverwarming aanleggen — anders val je terug op elektrisch bijverwarmen en zakt het rendement in. Laat daarom een warmteverliesberekening maken vóór je kiest; die vertelt meer dan je labelletter.'
+- q: Werkt hybride of volledig beter met zonnepanelen?
+  a: 'Volledig elektrisch benut zonnestroom beter, simpelweg omdat alle warmte uit stroom komt en het verbruik dus groter is. Let wel op de seizoenen: je warmtevraag piekt in de winter en je opbrengst in de zomer, dus de overlap is beperkt. Met het volledig stoppen van de saldering per 1 januari 2027 wordt eigen verbruik op het moment van productie belangrijker dan het jaartotaal — dat pleit voor sturing en eventueel opslag, niet automatisch voor meer panelen.'
+- q: Wat is de COP en SCOP van beide?
+  a: 'COP is het rendement op één moment, SCOP het gemiddelde over een heel seizoen; SCOP is het getal waar je naar moet vragen. Fabrikanten geven SCOP-waarden op onder gestandaardiseerde omstandigheden en bij een gespecificeerde aanvoertemperatuur — vergelijk dus altijd bij dezelfde aanvoertemperatuur. Wij nemen hier geen SCOP-waarden per merk over, omdat die alleen betekenis hebben in combinatie met de meetconditie die erbij hoort. Vraag de opgave uit het datablad op bij je installateur.'
+- q: Hoe zit het met geluid?
+  a: 'Voor een buiten opgestelde warmtepomp geldt het Besluit bouwwerken leefomgeving: op de perceelgrens maximaal 45 dB(A) overdag en 40 dB(A) in de avond en nacht. Die norm geldt ongeacht merk of type. Fabrikanten publiceren geluidsniveaus in hun databladen, meestal als geluidsvermogen — dat is niet hetzelfde als wat je op een meter afstand meet. Laat de installateur de verwachte waarde op de perceelgrens berekenen op basis van de opstelling, en vraag naar een nachtmodus.'
+- q: Welke subsidie geldt er in 2026?
+  a: 'Voor beide typen bestaat ISDE-subsidie. Het bedrag hangt af van het toestel en staat per typenummer in de apparatenlijst en de rekentool op rvo.nl; wij noemen hier geen bedragen, omdat de RVO-pagina''s daarover onderling niet eenduidig zijn en de bedragen tussentijds wijzigen. Zoek het bedrag voor het specifieke type in je offerte op vóór je ondertekent. Je vraagt aan ná de installatie, binnen 24 maanden. Op de warmtepomp geldt 21% btw; het btw-nultarief bestaat alleen voor zonnepanelen.'
+- q: Kun je later van hybride naar volledig overstappen?
+  a: 'Ja, en dat is een veelgekozen route: eerst hybride, en na een isolatieronde de ketel eruit en de warmtepomp vervangen door een groter model met tapwatervoorziening. Het voordeel is de gespreide investering en dat het eerste deel meteen werkt. Het nadeel is dat twee stappen samen duurder uitvallen dan één keer volledig, omdat je een deel van de installatie twee keer betaalt.'
 schema_type: Article
 ---
-Er bestaat geen "beste" warmtepomp — alleen de juiste keuze voor een specifieke woning. Soms is hybride €5.000 goedkoper en simpelweg logischer; soms verdient een volledige warmtepomp zich binnen tien jaar terug. Wat de keuze bepaalt is een handvol harde variabelen: isolatielabel, afgiftesysteem, investeringshorizon en de verhouding tussen de gas- en stroomprijs. Hieronder zetten wij die variabelen op een rij en rekenen wij acht woningprofielen door, op basis van fabrieksspecificaties, SCOP-opgaven, ISDE-bedragen en publieke energieprijzen.
+Er bestaat geen "beste" warmtepomp — alleen de juiste keuze voor een specifieke woning. Wat die keuze bepaalt is een handvol harde variabelen: de isolatiegraad, het afgiftesysteem, hoelang je blijft wonen en de verhouding tussen de gas- en de stroomprijs.
 
-*Disclosure: dit artikel bevat links die kunnen omklappen naar affiliate-links zodra er een samenwerking bestaat; op dit moment hebben wij met de genoemde warmtepompmerken geen actieve affiliate-relatie. De analyse is gebaseerd op fabrieksspecificaties, handleidingen, publieke data en geverifieerde gebruikersreviews.*
+Dit artikel rekent beide opties door in **één** consistent model, zodat de bedragen in de tabellen, de FAQ en de conclusie hetzelfde zeggen. Waar wij iets niet kunnen onderbouwen — merkspecifieke SCOP's, ISDE-bedragen per model, toekomstige energieprijzen — staat het er niet.
 
----
+*Disclosure: dit artikel bevat links die kunnen omklappen naar affiliate-links zodra er een samenwerking bestaat; op dit moment hebben wij met de genoemde warmtepompmerken geen actieve affiliate-relatie en ontvangen wij voor deze verwijzingen geen vergoeding. De analyse is gebaseerd op fabrieksspecificaties, handleidingen en publieke data.*
 
-💡 *Twijfel je of je radiatoren wel geschikt zijn? Lees [radiatoren vervangen voor warmtepomp 2026](/posts/radiatoren-vervangen-warmtepomp-2026/).*
+💡 *Twijfel je of je radiatoren geschikt zijn? Lees [radiatoren vervangen voor warmtepomp](/posts/radiatoren-vervangen-warmtepomp-2026/) — dat is vaker de bepalende factor dan het toestel zelf.*
 
-
-> **Kort antwoord:** Hybride of volledige warmtepomp in 2026? Investering, COP, gasverbruik en terugverdientijd doorgerekend voor acht woningprofielen. Eerlijke beslisboom.
+> **Kort antwoord:** de hybride is goedkoper in aanschaf (€4.500-€7.500 inclusief 21% btw) en werkt in vrijwel elke bestaande woning, omdat de ketel de koudste dagen opvangt. Volledig elektrisch kost €8.500-€14.000 en vraagt een afgiftesysteem dat met 35-45 graden aanvoer uitkomt.
 >
-> Hybride warmtepomp werkt samen met een cv-ketel: warmtepomp doet 70-85% van de warmtevraag, cv-ketel springt bij koud weer of warmwater bij. Volledige warmtepomp (all-electric) doet alles zelf: ruimteverwarming én warmtap-water. Hybride is goedkoper in aanschaf (€4.500-€7.500) maar verbruikt nog gas (~250-450 m³/jaar). Volledig elektrisch kost €8.500-€14.000 maar is gasvrij.
+> In onze modelberekening voor een rijtjeshuis met 1.500 m³ gasverbruik bespaart de hybride circa €500 per jaar en de volledige warmtepomp circa €940 per jaar. Het verschil van ruwweg €440 per jaar tegen een meerinvestering van rond €5.000 geeft een terugverdientijd van tien tot twaalf jaar op de meerprijs. Blijf je korter wonen of is je woning slecht geïsoleerd, dan wint de hybride.
+>
+> Let op twee dingen die vaak fout staan: de **hybride-verplichting bij ketelvervanging is ingetrokken**, niet uitgesteld. En de ISDE vraag je aan **ná** de installatie, binnen 24 maanden.
 
-## Wat is het verschil precies?
+## Het verschil in één tabel
 
 | Aspect | Hybride warmtepomp | Volledige warmtepomp |
 |---|---|---|
-| Werking | Warmtepomp + cv-ketel samen | Alleen warmtepomp |
-| Cv-ketel? | Blijft staan | Wordt verwijderd |
-| Gasverbruik | 250-450 m³/jaar | 0 m³ |
-| Stroomverbruik | 1.500-2.500 kWh/jaar | 3.500-5.500 kWh/jaar |
-| Investering | €4.500-€7.500 | €8.500-€14.000 |
-| Isolatie-eis | Vanaf label D OK | Liefst label B+ |
-| Warm tapwater | Cv-ketel | Warmtepomp + boiler |
+| Werking | warmtepomp plus cv-ketel | alleen warmtepomp |
+| Cv-ketel | blijft staan | verdwijnt, gasaansluiting kan eruit |
+| Gasverbruik in ons model | ±450 m³/jaar | 0 |
+| Stroomverbruik in ons model | ±2.500 kWh/jaar | ±3.500 kWh/jaar |
+| Investering (indicatie, incl. 21% btw) | €4.500-€7.500 | €8.500-€14.000 |
+| Eis aan de woning | werkt vrijwel altijd | afgifte moet met 35-45 °C aanvoer kunnen |
+| Warm tapwater | doorgaans via de ketel | via boiler bij de warmtepomp |
 
-## Acht woningprofielen doorgerekend
+## De modelberekening
 
-De twee tabellen hieronder zijn **modelberekeningen**, geen gemeten praktijkgevallen. Aannames: verbruik geschat op basis van woonoppervlak, bouwjaar en isolatielabel volgens de NTA 8800-referentiewaarden, de SCOP-opgaven van de fabrikanten, en energieprijzen van €0,30/kWh en €1,30/m³. Investeringsbedragen zijn richtprijzen inclusief installatie, exclusief ISDE.
+Alle bedragen hieronder komen uit hetzelfde model. Het is een berekening met expliciete aannames, geen meting aan een bestaande woning.
 
-### Vier hybride profielen
+**Aannames:**
 
-| Profiel | Bouwjaar | Label | Hybride model | Investering | Gas/jaar | Stroom/jaar | Totaal/jaar |
-|---|---|---|---|---|---|---|---|
-| 1 | 1968 | C na isolatie | Quatt | €4.495 | 320 m³ | 1.800 kWh | €1.080 |
-| 2 | 1978 | D | Atag Hybrid | €5.295 | 410 m³ | 1.650 kWh | €1.250 |
-| 3 | 1985 | C | Daikin Altherma Hybrid | €6.890 | 290 m³ | 1.950 kWh | €1.060 |
-| 4 | 1992 | B | Vaillant Hybrid | €7.450 | 240 m³ | 2.100 kWh | €1.020 |
+- Rijtjeshuis, gasverbruik vóór verduurzaming **1.500 m³** per jaar, inclusief tapwater.
+- Gas all-in **€1,10/m³** (marktprijs ±€0,30 incl. btw + energiebelasting €0,7268 incl. btw + opslagaanname). Gasrekening vooraf: **€1.650**.
+- Stroom all-in **€0,26/kWh** (EPEX-jaargemiddelde €0,105 incl. btw + energiebelasting €0,11085 incl. btw + €0,044 opslag- en vaste-kostenaanname).
+- Warmtevraag afgeleid uit het gasverbruik met 9,77 kWh per m³ en een ketelrendement van 0,85: circa **12.500 kWh warmte** per jaar.
+- Hybride: de warmtepomp dekt 70% van de warmtevraag bij een aangenomen seizoensrendement van 3,5; de ketel doet de rest.
+- Volledig elektrisch: alle warmte plus tapwater, circa 14.000 kWh warmte, bij een aangenomen seizoensrendement van 4,0.
 
-Gemiddeld: **€1.103/jaar** energiekosten
+**Uitkomst:**
 
-### Vier volledig elektrische profielen
+| | Huidige situatie (alleen ketel) | Hybride | Volledig elektrisch |
+|---|---|---|---|
+| Gas | 1.500 m³ = €1.650 | ±450 m³ = €496 | 0 |
+| Stroom voor verwarming | — | ±2.500 kWh = €650 | ±3.500 kWh = €910 |
+| Vaste kosten gasaansluiting | blijft | blijft | vervalt |
+| **Kosten per jaar** | **€1.650** | **±€1.146** | **±€910** |
+| **Besparing per jaar** | — | **±€504** | **±€740, plus de vervallen vaste gaskosten** |
 
-| Profiel | Bouwjaar | Label | Volledig model | Investering | Stroom/jaar | Totaal/jaar |
-|---|---|---|---|---|---|---|
-| 5 | 1995 | B | Vaillant aroTHERM Plus 5 kW | €8.500 | 3.800 kWh | €1.140 |
-| 6 | 2005 | A | Daikin Altherma 3 R 6 kW | €11.500 | 3.200 kWh | €960 |
-| 7 | 2018 | A++ | Mitsubishi Ecodan 5 kW | €10.800 | 2.900 kWh | €870 |
-| 8 | 1985 | B (na grondige reno) | Nibe S1255 | €13.200 | 4.100 kWh | €1.230 |
+De vaste kosten van een gasaansluiting staan op je jaarnota bij netbeheerkosten en bedragen enkele honderden euro's per jaar. Reken je die mee bij de volledige warmtepomp, dan komt de besparing op ruwweg **€940 per jaar**.
 
-Gemiddeld: **€1.050/jaar** energiekosten
+**Terugverdientijden in dit model, vóór ISDE:**
 
-**Verschil**: circa €53/jaar in het voordeel van de volledige warmtepomp, bij een gemiddeld €5.380 hogere investering. Let op de vertekening: de volledig elektrische profielen zijn nieuwere en beter geïsoleerde woningen. Dat is geen toeval maar de kern van de keuze — een volledige warmtepomp is alleen zuinig in een woning die er geschikt voor is.
+- Hybride ten opzichte van doorgaan met alleen de ketel: €4.500-€7.500 ÷ €504 = **9 tot 15 jaar**.
+- Volledig elektrisch ten opzichte van alleen de ketel: €8.500-€14.000 ÷ €940 = **9 tot 15 jaar**.
+- De **meerprijs** van volledig elektrisch boven hybride: circa €5.000 ÷ €440 extra besparing = **11 tot 12 jaar**.
 
-## Terugverdientijd extra investering
+De ISDE verkort al deze termijnen. Met hoeveel, hangt af van het toestel: het bedrag staat per typenummer in de apparatenlijst en de rekentool op rvo.nl. Wij noemen hier geen bedragen, omdat de RVO-pagina's daarover onderling niet eenduidig zijn.
 
-Volledig elektrisch is gemiddeld €5.380 duurder maar bespaart €53/jaar in vergelijking met hybride. Dat is 100+ jaar terugverdientijd. **Op kosten alleen verliest volledig elektrisch.**
+### Waar dit model kantelt
 
-Maar er zijn andere factoren die dat omkeren:
+| Verandering in de aanname | Effect |
+|---|---|
+| Gas naar €0,90/m³ | alle besparingen dalen; hybride wordt relatief minder aantrekkelijk dan doorgaan met de ketel |
+| Stroom naar €0,32/kWh | de volledige warmtepomp verliest het grootste deel van zijn voorsprong op de hybride |
+| Seizoensrendement volledig 3,2 in plaats van 4,0 (te hoge aanvoertemperatuur) | het voordeel van volledig elektrisch verdampt vrijwel geheel |
+| Slecht geïsoleerde woning, hoger gasverbruik | de hybride wint, omdat de ketel de piek opvangt zonder extra investering |
 
-### Voordeel volledig elektrisch
+Die derde regel is de belangrijkste van het hele artikel: het rendement van een volledige warmtepomp staat of valt bij de aanvoertemperatuur die je afgiftesysteem nodig heeft.
 
-1. **Geen cv-ketel meer**: bespaart €280-€450/jaar onderhoudscontract
-2. **Geen gas-aansluitkosten**: Liander rekent €230/jaar gas-aansluitvergoeding
-3. **CO2-reductie**: 800-1.400 kg/jaar extra
-4. **Levensduur**: 18-22 jaar vs hybride 12-15 jaar (componenten samen)
-5. **Toekomstbestendig**: bij gas-uitfasering 2030-2035 niets meer doen
+## Waarom volledig elektrisch misgaat in een "redelijk" geïsoleerd huis
 
-Met deze factoren erbij: volledig elektrisch verdient zich terug in **8-14 jaar** afhankelijk van situatie.
+Een woning met dakisolatie en isolerend glas lijkt op papier geschikt, maar als de radiatoren zijn ontworpen voor 70 tot 80 graden aanvoer, gaat het bij milde temperaturen goed en bij een vorstperiode niet. De warmtepomp haalt de benodigde aanvoertemperatuur dan niet meer zonder elektrisch bijverwarmen, en dan zakken comfort én rendement.
 
-### Voordeel hybride
+Dan blijven drie opties over: radiatoren vergroten of vloerverwarming aanleggen (een forse extra investering), permanent elektrisch bijverwarmen (rendementsverlies), of terugvallen op een hybride opstelling met de bestaande ketel als piekvoorziening.
 
-1. **Lage instap**: €4.500 toegankelijk voor veel mensen
-2. **Werkt zonder isolatie-renovatie**: cv-ketel doet zware werk in koude
-3. **Geen radiator-vervanging nodig** meestal
-4. **Snelle ROI**: 4-6 jaar t.o.v. cv-ketel alleen
-5. **Gefaseerde aanpak**: later upgraden naar volledig kan
-6. **Geen warmwater-issues**: cv-ketel doet douche en bad krachtig
+Ons oordeel: het label is geen garantie voor geschiktheid — het afgiftesysteem is de bepalende factor. Laat vóór de keuze een warmteverliesberekening maken en vraag welke aanvoertemperatuur je radiatoren op de koudste dag nodig hebben. Is dat boven de 50 graden, dan is hybride realistischer.
 
-## Voor welke woning past wat?
-
-### Beslisboom
+## Beslisboom
 
 ```
-Welk isolatielabel heeft je woning?
-├── A of A++ → Volledig elektrisch (no-brainer)
-├── B → Volledig elektrisch (mits LT-radiatoren of vloerverwarming)
-├── C → Beide kunnen, hangt af van budget en investeringshorizon
-│      ├── Blijf 5+ jaar wonen → Volledig (na isolatie)
-│      └── Verhuist binnen 5 jaar → Hybride
-├── D → Hybride bijna altijd beste keuze
-└── E-G → Hybride, isolatie eerst!
+Wat heeft je afgiftesysteem op de koudste dag nodig?
+├── ≤ 45 °C (vloerverwarming of ruim gedimensioneerde radiatoren)
+│      ├── blijf je 10+ jaar wonen → volledig elektrisch
+│      └── verhuis binnen 5 jaar   → hybride
+├── 45-55 °C → beide kunnen; reken de kosten van afgifte-aanpassing mee
+└── > 55 °C → hybride, en isoleer eerst
 ```
 
-### Concrete adviezen
+**Kies hybride bij:** beperkt budget, geen ruimte voor een tapwaterboiler, verhuisplannen binnen vijf tot zeven jaar, of een woning waar de afgifte een hoge aanvoertemperatuur nodig heeft.
 
-**Kies hybride bij:**
+**Kies volledig elektrisch bij:** een afgiftesysteem dat met lage temperatuur uitkomt, een horizon van tien jaar of meer, en de ambitie om van het gas af te gaan.
 
-- Woning met label C of slechter
-- Beperkt budget (€5.000 max)
-- Geen plek voor warmwater-boiler (200-300L)
-- Verhuisplannen binnen 5-7 jaar
-- Niet bereid grootschalig isoleren
+## Wat de overheid wél en niet vraagt
 
-**Kies volledig bij:**
+Dit is een correctie op eerdere versies van dit artikel, waarin stond dat een hybride warmtepomp bij ketelvervanging verplicht zou zijn — eerst vanaf 2026, dan "uitgesteld naar 2027", met een boeterisico erbij. Dat is onjuist.
 
-- Woning label A/B (nieuwbouw of grondige renovatie)
-- Vloerverwarming aanwezig
-- Investeringshorizon 10+ jaar
-- Ambitie: gasvrij wonen
-- Veel zonnepanelen (>4 kWp)
+**De normering voor ruimteverwarming bij ketelvervanging is ingetrokken.** Er is geen verplichting om bij het vervangen van een cv-ketel een hybride warmtepomp te nemen, en er is dus ook geen boete. Wie nu een ketel laat vervangen, kiest vrij. Laat je door verkoopargumenten over een naderende verplichting niet opjagen.
 
-## Welke modellen komen in aanmerking?
+Wat wél geldt:
 
-### Top 3 hybride 2026
+- **ISDE** voor beide typen, met een bedrag per toestel dat je opzoekt in de apparatenlijst en rekentool op rvo.nl.
+- **Aanvragen ná de installatie**, binnen 24 maanden. Er is niets te reserveren vooraf.
+- **21% btw** op de warmtepomp, de boiler en de installatie. Het nultarief bestaat alleen voor zonnepanelen.
+- **Geluidsnorm uit het Bbl** voor buiten opgestelde units: 45 dB(A) op de perceelgrens overdag, 40 dB(A) in de avond en nacht. Er is géén wettelijke minimumafstand tot de erfgrens; wat telt is de geluidswaarde op de grens.
 
-1. **Quatt hybride** (€4.495 all-in) — beste prijs-kwaliteit, abonnement-model. Lees [Quatt review](/posts/quatt-warmtepomp-review-2026/).
-2. **Atag Hybrid** (€5.295) — Nederlandse merk, goede service. Lees [Atag review](/posts/atag-warmtepomp-review-2026/).
-3. **Vaillant Hybrid** (€7.450) — premium kwaliteit, lange garantie.
+## Modellen: waar je op let in plaats van een ranglijst
 
-### Top 3 volledig elektrisch 2026
+Wij publiceren hier geen ranglijst met prijzen, COP's en ISDE-bedragen per model. De reden: wij meten niet zelf, prijzen van hybride systemen zijn deels niet publiek (Quatt publiceert bijvoorbeeld geen vaste consumentenprijslijst voor alle varianten), en rendementscijfers zijn alleen vergelijkbaar bij dezelfde meetconditie. Cijfers die dat negeren zetten je op het verkeerde been — in eerdere versies van dit artikel stonden voor hetzelfde Quatt-product twee verschillende prijzen.
 
-1. **Vaillant aroTHERM Plus** (€8.500) — beste prijs-prestatie, SCOP 4,8-5,1. Lees [Vaillant review](/posts/vaillant-arotherm-warmtepomp-review-2026/).
-2. **Daikin Altherma 3 R** (€11.500) — premium, stilste, hoogste COP. Lees [Daikin review](/posts/daikin-altherma-3-review-2026/).
-3. **Mitsubishi Ecodan** (€10.800) — Japanse betrouwbaarheid, lage onderhoudskosten. Lees [Mitsubishi Ecodan review](/posts/mitsubishi-ecodan-warmtepomp-review-2026/).
+Waar je in plaats daarvan op let, in deze volgorde:
+
+1. **Het benodigde vermogen uit een warmteverliesberekening**, niet uit vierkante meters. Een te kleine warmtepomp laat de ketel te vaak inspringen; een te grote pendelt en slijt.
+2. **De aanvoertemperatuur die je afgifte vraagt**, en de SCOP van het toestel bij precies die temperatuur.
+3. **Het koudemiddel.** De herziene F-gassenverordening bouwt HFK's zoals R32 stapsgewijs af, met verbodsdata per toesteltype. Propaan (R290) valt daar niet onder en is in dat opzicht toekomstbestendiger. Vraag je installateur welke verbodsdatum voor het aangeboden toestel geldt.
+4. **Serviceorganisatie en onderdelen in Nederland.** Bij een storing in januari is dat belangrijker dan een half punt SCOP.
+5. **Nachtmodus en opstelling**, als je een buitenunit dicht bij de erfgrens of bij een slaapkamerraam plaatst.
+
+Merken die in Nederland breed worden geïnstalleerd, hybride en volledig: Quatt, Atag, Remeha, Itho Daalderop, Vaillant, Daikin, Mitsubishi Electric, Panasonic en Nibe. Onze afzonderlijke reviews staan onderaan dit artikel; daarin houden wij ons aan fabrieksopgaven met bron en ophaaldatum.
 
 ## Combinatie met zonnepanelen
 
-Met 4 kWp zonnepanelen + dynamisch contract:
+Volledig elektrisch benut zonnestroom beter dan hybride, om de simpele reden dat het stroomverbruik groter is. Maar wees precies over de seizoenen: je warmtevraag piekt in december en januari, je opbrengst in juni en juli. De overlap is daardoor beperkt, en met het **volledig stoppen van de saldering per 1 januari 2027** wordt niet je jaaropbrengst maar je gelijktijdige eigen verbruik bepalend.
 
-| Setup | Stroomverbruik warmtepomp | Gratis uit zon (zomer) | Gratis uit zon (winter) | Jaarbesparing |
-|---|---|---|---|---|
-| Hybride | 1.500-2.500 kWh | 30% | 5% | €110-€180 |
-| Volledig | 3.500-5.500 kWh | 35% | 8% | €280-€450 |
+Wat dat praktisch betekent: sturing (warm tapwater maken op het moment dat de zon schijnt) levert meer op dan extra panelen. Zie ook [batterij na 2027 zonder zonnepanelen](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/).
 
-**Volledig elektrisch profiteert duidelijk meer** van zonnepanelen. Dit is een belangrijke factor.
-
-Lees ook [batterij na 2027 zonder zonnepanelen zin](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/) voor de saldering-impact.
-
-## Geluid en buitenunit
-
-| Aspect | Hybride (Quatt) | Volledig (Vaillant) |
-|---|---|---|
-| Geluid 1m | 38-42 dB | 35-40 dB |
-| Nachtmodus | Beperkt | 31 dB |
-| Buitenunit grootte | 65x90x35 cm | 75x110x40 cm |
-| Plaatsingsregels | 1m van erfgrens | 1m + akoestiek-isolatie |
-
-Volledige warmtepompen zijn gemiddeld stiller maar groter. Bij krappe achtertuinen kan hybride praktischer zijn.
-
-## Wat doet de overheid in 2026?
-
-Vanaf 2026 is een belangrijke ontwikkeling: bij vervanging van een cv-ketel boven de €2.500 (= praktisch alle CV-ketels) is een **hybride warmtepomp verplicht** voor woningen met label C of beter. Deze regel was eerst gepland voor 2026 maar is uitgesteld naar 2027 vanwege capaciteitstekort installateurs.
-
-Voor 2026 betekent dit: **wie nu een cv-ketel laat vervangen kan kiezen**, vanaf 2027 niet meer. Veel mensen kiezen daarom strategisch:
-
-- Late-2026: vervang cv-ketel + hybride installeren (combineert subsidie + vooruit zijn)
-- Late-2027: bij defecte cv-ketel kun je niet meer naar nieuwe cv-ketel zonder hybride
-
-Voor wie volledig elektrisch wil: subsidie blijft hoger en aantrekkelijk in 2026.
-
-## Energieprijzen 2026 en de impact
-
-In maart 2026 betalen we gemiddeld:
-
-- Stroom: €0,30/kWh (vast contract)
-- Gas: €1,30/m³ (vast contract)
-
-Verhouding stroom:gas is **3,8:1** per kWh-equivalent (1 m³ gas = 8,8 kWh thermisch equivalent). Voor warmtepomp-rendabiliteit is verhouding <4:1 ideaal — boven 4:1 verliest de warmtepomp zijn voordeel. Met SCOP 4 break je gelijk op rendement.
-
-Verwachting voor 2027-2030 volgens PBL:
-
-- Gas wordt duurder door uitfasering (€1,50-€1,80/m³)
-- Stroom blijft stabiel-licht-stijgend (€0,30-€0,33/kWh)
-- Verhouding zal richting 5:1 gaan = warmtepomp wint sterker
-
-## Hybride én volledig: vergelijkingsspecificatie
-
-| Aspect | Quatt (hybride) | Vaillant aroTHERM (volledig) |
-|---|---|---|
-| Bouwjaar geschikt | 1965-2010 | 1995-heden, na isolatie ook ouder |
-| Vermogen verwarming | 6-7 kW (combo cv) | 5/7/10 kW |
-| Vermogen tapwater | via cv-ketel | via boiler 200-300L |
-| Aanvoer max | 60°C | 75°C maar inefficiënt |
-| Aanvoer optimum | 45-55°C | 35-45°C |
-| Buitenunit gewicht | 56 kg | 84 kg |
-| Buitenunit afmeting | 65x90x35 cm | 75x110x40 cm |
-| Koudemiddel | R32 | R290 (natuurlijk, lagere GWP) |
-| Smart Grid Ready | Nee | Ja |
-| App-functies | basaal | uitgebreid (myVAILLANT) |
-
-R290 (propaan) als koudemiddel bij Vaillant aroTHERM Plus is een toekomstbestendige keuze — F-gassenrichtlijn 2030 verbiedt R32 in nieuwe units. R290 blijft toegestaan.
-
-## Lange termijn beslisanalyse
-
-Investeringscomparison over 20 jaar:
-
-### Hybride scenario
-
-- Jaar 0: warmtepomp + bestaande cv €5.500
-- Jaar 8-12: cv-ketel vervangen €2.500
-- Jaar 15: warmtepomp vervangen €5.000
-- Jaarlijkse kosten energie: €1.150 gemiddeld
-- **Totaal 20 jaar**: €36.000
-
-### Volledig elektrisch scenario
-
-- Jaar 0: volledige warmtepomp €11.000
-- Jaar 18-20: vervangen €9.000 (verwachte deflatie)
-- Jaarlijkse kosten energie: €1.050 gemiddeld
-- **Totaal 20 jaar**: €41.000
-
-Verschil: **€5.000 in voordeel van hybride** over 20 jaar — maar zonder rekening te houden met:
-
-- Gas-uitfasering (mogelijk verplicht uit 2030-2035)
-- CO2-prijs op stroom verhoging
-- Comfort-verschil
-- Verkoopwaarde woning (volledig elektrisch +1.5-3% woningwaarde 2030+)
+Wij noemen hier geen percentages "gratis uit de zon" per opstelling: die hangen af van je verbruiksprofiel, oriëntatie en aanwezigheid thuis, en een tabel met vaste percentages suggereert precisie die er niet is.
 
 ## Twee situaties, twee logische uitkomsten
 
-Om te laten zien hoe de variabelen de uitkomst kantelen, twee voorbeeldsituaties:
+**Woning uit 1985, na isolatie, bewoner blijft vijftien jaar of langer.** Volledig elektrisch is hier verdedigbaar: de lange horizon laat de hogere investering terugverdienen en de isolatie is toereikend voor een lage aanvoertemperatuur. In ons model komt de terugverdientijd van de meerprijs rond de twaalf jaar uit — mits de afgifte klopt.
 
-**Woning uit 1985, label C na isolatie, bewoner blijft 15+ jaar.** Hier is volledig elektrisch (bijvoorbeeld een Vaillant aroTHERM Plus) verdedigbaar: de lange horizon laat de hogere investering terugverdienen, de isolatie is toereikend voor lage aanvoertemperatuur, en het gasrisico na 2030 vervalt. In het model komt de terugverdientijd van de extra investering rond de twaalf jaar uit.
+**Woning met een matig label, bewoner blijft nog acht tot tien jaar.** Hier is een hybride de nuchtere keuze: lage instap, geen verbouwing, direct effect op het gasverbruik. Volledig elektrisch zou hier een isolatie- en afgifterenovatie vergen die zich binnen die horizon niet terugverdient.
 
-**Woning met label D, bewoner blijft nog 8-10 jaar.** Hier is een hybride (bijvoorbeeld Quatt) de nuchtere keuze: lage instap, geen verbouwing, direct effect op het gasverbruik. Een volledige warmtepomp zou hier een isolatie- en afgifterenovatie vergen die zich binnen die horizon niet terugverdient.
+De les: horizon en afgiftesysteem bepalen de uitkomst, niet de voorkeur voor gasvrij als principe.
 
-De les: de horizon en het isolatielabel bepalen de uitkomst, niet de voorkeur voor gasvrij als principe.
+## Total cost of ownership over vijftien jaar
 
----
+Een modelberekening met dezelfde aannames als hierboven, plus: onderhoud aan een hybride opstelling omvat zowel de ketel als de warmtepomp, en de ketel gaat binnen vijftien jaar één keer op de bon.
+
+| Post | Hybride | Volledig elektrisch |
+|---|---|---|
+| Aanschaf plus plaatsing | €5.800 | €13.200 |
+| ISDE | af te trekken; bedrag per toestel op rvo.nl | af te trekken; bedrag per toestel op rvo.nl |
+| Energiekosten 15 jaar (huidig prijspeil, geen inflatie) | €17.190 | €13.650 |
+| Vaste kosten gasaansluiting 15 jaar | blijft | vervalt |
+| Ketelvervanging binnen de looptijd | ±€2.500 | niet van toepassing |
+| Onderhoud 15 jaar | twee systemen | één systeem |
+| **Orde van grootte** | **±€25.500 plus onderhoud** | **±€26.850 plus onderhoud, minus de vervallen gaskosten** |
+
+De twee komen daarmee dicht bij elkaar uit, en dat is het eerlijke antwoord: over vijftien jaar is dit bij huidige prijzen geen uitgemaakte zaak. Welke kant het opvalt, wordt bepaald door de prijsverhouding gas-stroom en door de vraag of jouw afgiftesysteem het lage-temperatuurrendement waarmaakt.
+
+Wat wij hier bewust **niet** doen, is een gasprijs voor 2035 invullen of een percentage woningwaardestijging voor gasvrije woningen opnemen. Die getallen stonden hier eerder en waren niet onderbouwd; ze bepaalden vervolgens wel de conclusie. Dat is precies de fout die we niet nog eens maken.
+
+## Vijf fouten die geld kosten
+
+**1. Volledig elektrisch kiezen zonder warmteverliesberekening.** Dan koop je een rendement dat je woning niet kan leveren.
+
+**2. Het bivalentpunt van een hybride verkeerd instellen.** De ketel hoort pas onder een ingestelde buitentemperatuur bij te springen. Staat dat verkeerd, dan draait de ketel structureel mee en haal je een fractie van de bedoelde gasreductie. Vraag na oplevering welke waarde is ingesteld en laat het gasverbruik na het eerste stookseizoen controleren.
+
+**3. Te klein vermogen voor de hybride.** Dan springt de ketel te vaak bij. Laat het vermogen bepalen door de warmteverliesberekening, niet door het woonoppervlak.
+
+**4. ISDE te laat of verkeerd aanvragen.** Ná installatie, binnen 24 maanden, met de factuur. Niet vooraf, en niet "binnen zes maanden" zoals soms wordt geadviseerd.
+
+**5. Kiezen op een verplichting die niet bestaat.** Er is geen hybride-verplichting bij ketelvervanging. Wie op die grond haast maakt, koopt onder tijdsdruk die er niet is.
+
+## Wanneer geen van beide de moeite waard is
+
+- **Slecht geïsoleerde woning zonder isolatieplan.** Isoleer eerst; dan pas de keuze maken.
+- **Verhuisplannen binnen vier jaar.** Geen van beide terugverdientijden wordt dan gehaald.
+- **Oude flat met een collectieve gasaansluiting.** Vaak technisch niet zelfstandig te doen zonder de VvE.
+- **Geen buitenruimte voor een unit.** Dan blijft een klein aanbod van compacte binnenopstellingen over, met beperkingen.
+
+## Verder lezen
+
+- [Beste hybride warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/)
+- [Quatt warmtepomp review](/posts/quatt-warmtepomp-review-2026/)
+- [Vaillant aroTHERM review](/posts/vaillant-arotherm-warmtepomp-review-2026/)
+- [Daikin Altherma 3 review](/posts/daikin-altherma-3-review-2026/)
+- [Mitsubishi Ecodan review](/posts/mitsubishi-ecodan-warmtepomp-review-2026/)
+- [Radiatoren vervangen voor een warmtepomp](/posts/radiatoren-vervangen-warmtepomp-2026/)
+- [Warmtepompgeluid en de norm op de perceelgrens](/posts/warmtepomp-geluid-buren-2026-norm/)
+- [ISDE-subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)
+- [Isolatiesubsidies 2026](/posts/isolatie-subsidie-nederland-2026/)
 
 ## Conclusie
 
-In 2026 is de keuze tussen hybride en volledige warmtepomp **niet absoluut**. Hybride past bij minder geïsoleerde woningen, beperkter budget, kortere horizon. Volledig elektrisch past bij goed geïsoleerde woningen, langere horizon en zonnepanelen-eigenaren.
+De keuze is niet absoluut. Hybride past bij minder geïsoleerde woningen, een beperkter budget en een kortere horizon. Volledig elektrisch past bij een afgiftesysteem dat met lage aanvoertemperatuur uitkomt en bij een horizon van tien jaar of meer.
 
-**Hybride starter**: <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Quatt hybride bekijken →</a>
+Wat je in beide gevallen eerst doet: een warmteverliesberekening laten maken en vragen welke aanvoertemperatuur je radiatoren op de koudste dag nodig hebben. Dat ene getal bepaalt de uitkomst sterker dan de merkkeuze, de subsidie en de prijsverhouding samen.
 
-**Volledig elektrisch premium**: <a href="https://go.duurzaamthuislab.nl/vaillant" target="_blank" rel="nofollow noopener">Vaillant aroTHERM bekijken →</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk Quatt (hybride)</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk Vaillant (volledig elektrisch)</a>
 
----
-
-Verder lezen op DuurzaamThuisLab:
-
-- [Beste hybride warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/)
-- [Beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/)
-- [Quatt warmtepomp review](/posts/quatt-warmtepomp-review-2026/)
-- [Vaillant aroTHERM review](/posts/vaillant-arotherm-warmtepomp-review-2026/)
-- [Quatt vs Vaillant warmtepomp](/posts/quatt-vs-vaillant-warmtepomp-2026/)
-- [Daikin vs Atag warmtepomp](/posts/daikin-vs-atag-warmtepomp-2026/)
-- [HR-ketel vervangen 2026 vs warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
-- [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)
-- [Beste warmtepomp installateur kiezen](/posts/beste-warmtepompinstallateur-kiezen-2026/)
-
-## Waarom full-electric misgaat in een "redelijk" geïsoleerd huis
-
-Een terugkerend patroon in gebruikersreviews en installateursklachten: een woning met label B, dakisolatie en HR++-glas lijkt op papier geschikt voor volledig elektrisch, maar de bestaande radiatoren zijn ontworpen voor 70-80°C aanvoer. Bij milde temperaturen gaat dat goed. Bij een week strenge vorst (-9 tot -12°C) haalt de warmtepomp de benodigde aanvoertemperatuur niet meer zonder elektrisch bijverwarmen, en dan zakken zowel comfort als rendement in.
-
-Wat er dan overblijft zijn drie opties: radiatoren vergroten of vloerverwarming aanleggen (een forse extra investering), permanent elektrisch bijverwarmen (rendementsverlies), of terugvallen op een hybride opstelling met de bestaande HR-ketel als piekvoorziening.
-
-Ons oordeel: label B is geen garantie voor geschiktheid — het afgiftesysteem is de bepalende factor. Laat vóór de keuze een warmteverliesberekening maken en check welke aanvoertemperatuur je radiatoren op de koudste dag nodig hebben. Is dat boven de 50°C, dan is hybride realistischer dan full-electric.
-
-## Diepgang per merk: hybride opties NL-markt
-
-| Merk | Type | COP | Prijs incl install | ISDE 2026 | NL servicedichtheid |
-|------|------|-----|---------------------|-----------|---------------------|
-| Quatt Quatt-Pro | Hybride | 3,4 | €5.900-€6.800 | €1.950 | Hoog (eigen netwerk) |
-| Itho Daalderop HP CUBE | Hybride | 3,2 | €7.200-€8.400 | €1.800 | Zeer hoog |
-| Atag Energion | Hybride | 3,5 | €6.800-€7.900 | €1.950 | Zeer hoog |
-| Remeha eHP | Hybride | 3,3 | €7.500-€8.600 | €1.800 | Hoog |
-| Vaillant aroTHERM hybride | Hybride | 3,4 | €7.800-€9.200 | €1.950 | Hoog |
-
-Voor full-electric: Daikin Altherma 3, Mitsubishi Ecodan, Panasonic Aquarea zijn de drie meest gangbare in NL. Alle drie hebben goede dealers en NL-servicedichtheid.
-
-## Rekenvoorbeeld: jaren-70 hoekwoning, label C, gezin van vier
-
-Zo pakt de vergelijking uit bij een woning die zowel hybride als volledig elektrisch kan dragen. Modelberekening op basis van gangbare offerteprijzen en de ISDE-bedragen 2026; uitgangspunt is een gasverbruik van 1.420 m³/jaar vóór verduurzaming.
-
-- **Hybride (Quatt-klasse)**: €5.900 min €1.950 ISDE = netto €3.950. Resterend gasverbruik naar circa 360 m³/jaar. Daling energiekosten: circa €890/jaar. Terugverdientijd: ruim 4 jaar.
-- **Volledig elektrisch (Daikin Altherma-klasse)**: €14.500 plus €4.200 voor uitbreiding van de vloerverwarming boven = €18.700, min €4.500 ISDE = netto €14.200. Daling energiekosten: circa €1.420/jaar. Terugverdientijd: circa 10 jaar.
-
-Het verschil in netto investering is ruim €10.000. Onze inschatting: bij dit type woning is hybride de verstandigste eerste stap, met de optie om over zes tot acht jaar alsnog volledig over te stappen — tegen die tijd zijn de warmtepompprijzen vermoedelijk verder gedaald en is de isolatie mogelijk verbeterd. Het nadeel blijft dat twee opeenvolgende stappen in totaal duurder uitpakken dan één keer volledig.
-
-## Veelgemaakte fouten
-
-**Fout 1: Volledig elektrisch zonder isolatie-audit**
-Een huis dat niet onder 50 W/m²/°C verlies blijft, krijgt comfort-problemen op koude dagen. Eerst isolatie, dan warmtepomp.
-
-**Fout 2: Hybride met tandem-werking onjuist instellen**
-De CV-ketel moet ALLEEN bijspringen onder bivalentpunt (vaak -2 of -5 °C). Veel installaties laten ketel constant meedraaien — dan haal je gasreductie van 80% niet, eerder 30-40%.
-
-**Fout 3: Te kleine warmtepomp kiezen voor hybride**
-Een 4 kW unit op een woning van 130 m² betekent dat de ketel veel te vaak inspringt. Vuistregel: 6-8 kW voor een doorsnee Nederlands rijtjeshuis — laat het definitieve vermogen altijd bepalen door een warmteverliesberekening, niet door de vierkante meters alleen.
-
-**Fout 4: ISDE niet aanvragen binnen 24 maanden**
-ISDE-aanvraag moet binnen 24 maanden na aankoop, vaak verkeerd geadviseerd als "binnen 6 maanden". Maar wacht ook niet te lang — subsidie kan tussentijds wijzigen.
-
-**Fout 5: Bouwbesluit hybride-norm 2026 over hoofd zien**
-Sinds 2026 is hybride min. norm bij ketelvervanging. Wie nieuwe ketel zonder warmtepomp koopt zonder isolatie-uitzondering, kan boete krijgen — handhaving start pas later, maar de norm geldt nu.
-
-## Wanneer hybride of volledige NIET de moeite waard is
-
-- **Label E/F/G zonder isolatie-plan**: comfort-probleem onvermijdelijk
-- **Verhuisplan binnen 4 jaar**: terugverdientijd niet gehaald
-- **Gemeenschappelijk gas-aansluiting (oude flat)**: vaak technisch onmogelijk zonder coordinatie VVE
-- **Plat dak zonder buitenruimte voor unit**: alleen all-in-one binnenunits, beperkt aanbod
-
-## Extra FAQ
-
-**Hoe verhoudt zich aardwarmte (bodembron) tot hybride en lucht-water?**
-Bodemwarmte heeft beste COP (4,2-5,0) maar hoge investering (€18-€28K) en boorvergunning nodig. Voor doorsnee bestaand woning niet rendabel. Voor nieuwbouw of zeer goed geïsoleerd huis wel.
-
-**Wat is COP en SCOP?**
-COP is rendement op één moment (bv. 3,5 = 1 kWh elektriciteit levert 3,5 kWh warmte). SCOP is gemiddeld over heel jaar. SCOP is realistischer; vraag altijd naar SCOP.
-
-**Mijn radiatoren zijn klein — werkt full-electric warmtepomp dan?**
-Vrijwel altijd niet zonder uitbreiding. Lage-temperatuur warmtepomp wil 35-45 °C aanvoer; oude radiatoren ontworpen voor 70-80 °C. Vergroot radiatoren of installeer vloerverwarming/Type-W radiatoren.
-
-**Hoe luid is een warmtepomp 's nachts in stadse omgeving?**
-Moderne units 35-42 dB op 1 m. Op perceelgrens 30-37 dB. Praktisch onhoorbaar in slaapkamer als unit op normale afstand. Lees [warmtepomp geluid buren norm](/posts/warmtepomp-geluid-buren-2026-norm/).
-
-## Vervolg-tabel: total cost of ownership 15 jaar
-
-Tot slot een TCO-**modelberekening** over 15 jaar voor dezelfde rijtjeswoning (aannames: label C, 1.500 m³ gas vóór de warmtepomp, 8 zonnepanelen, energie-inflatie 2,5% per jaar):
-
-| Component | Hybride | Volledig elektrisch |
-|-----------|---------|---------------------|
-| Aanschaf + plaatsing | 5.800 | 13.200 |
-| ISDE 2026 | -2.000 | -3.500 |
-| Gemiddeld jaarverbruik | 850 m3 gas + 1.400 kWh | 4.200 kWh |
-| Energiekosten 15 jr (incl. inflatie 2,5%) | 23.400 | 25.800 |
-| Onderhoud 15 jr | 1.500 | 2.250 |
-| Eindwaarde jaar 15 | 800 | 1.600 |
-| **Netto TCO 15 jaar** | **28.900** | **34.150** |
-
-Hybride wint op TCO, maar bij volledig elektrisch ben je in jaar 16-25 spekkoper omdat aardgas tegen die tijd vermoedelijk 2,80-3,40 euro per m3 kost (CO2-toeslag + leveringsschaarste). Bij die prijzen draait hybride binnen 5 jaar minder gunstig. Wie 20+ jaar in zijn huis verwacht te blijven, verdient volledig elektrisch terug rond jaar 18-19.
-
-## Niche-use-case: hybride met houtkachel als piekvoorziening
-
-Een combinatie die in landelijke gebieden regelmatig terugkomt: hybride warmtepomp plus efficiënte houtkachel (8 kW Rocket-mass-stove of pelletkachel) als piekvoorziening op vorstdagen onder -8 graden. De gedachte: de cv-ketel springt dan niet bij op de koudste dagen, wat naar schatting enkele procenten van het resterende gasverbruik wegneemt — hoeveel precies hangt volledig af van hoe vaak de kachel daadwerkelijk gestookt wordt. Bewustzijn vereist: pelletkachel kost 4.500-7.000 euro plus 6 m3 opslag, alleen interessant als je toch al hout-affiniteit hebt. Voor stedelijke gevallen blijft dit uitgesloten wegens fijnstof-regelgeving.
+*Beide links zijn gewone verwijzingen: wij ontvangen hiervoor op dit moment geen vergoeding.*
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE](https://www.rvo.nl/subsidies-financiering/isde). ISDE-voorwaarden opgehaald op 21 augustus 2026.
