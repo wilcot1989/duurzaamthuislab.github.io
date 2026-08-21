@@ -383,7 +383,10 @@
     .faq-item summary::after { content: "+"; font-size: 1.2rem; color: var(--accent); flex-shrink: 0; margin-left: 1rem; }
     .faq-item[open] summary::after { content: "\2212"; }
     .faq-item summary::-webkit-details-marker { display: none; }
-    .faq-item p { padding: 0 1.25rem 1rem; color: var(--text); margin: 0; }
+    .faq-item > div { padding: 0 1.25rem 1rem; color: var(--text); line-height: 1.6; }
+    .faq-item > div p { padding: 0; margin: 0 0 .75rem; }
+    .faq-item > div p:last-child { margin-bottom: 0; }
+    .faq-item > p { padding: 0 1.25rem 1rem; color: var(--text); margin: 0; }
 
     /* Cookie Banner */
     .cookie-banner { position: fixed; bottom: 0; left: 0; right: 0; background: var(--primary-dark); color: #cbd5e1; padding: 1rem; z-index: 9999; display: none; }
