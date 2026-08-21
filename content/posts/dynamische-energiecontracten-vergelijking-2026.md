@@ -1,7 +1,7 @@
 ---
 title: Dynamische Energiecontracten Vergelijking 2026
-date: 2026-04-14 10:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
+date: 2026-04-14 10:00:00+02:00
+lastmod: '2026-08-21 08:00:00+02:00'
 description: Vergelijking van de beste dynamische energiecontracten in 2026. Tibber, ANWB Energie, Frank Energie en meer. Kosten, apps en bespaarpotentieel.
 categories:
 - energie
@@ -34,35 +34,20 @@ faq:
   a: Ja, een slimme meter is verplicht voor een dynamisch energiecontract. Netbeheerders zoals Liander, Stedin en Enexis plaatsen slimme meters gratis. Als je nog een oude meter hebt, kun je via je netbeheerder een slimme meter aanvragen.
 - q: Kan ik met een dynamisch contract en thuisbatterij geld verdienen?
   a: 'In theorie ja. Door stroom te kopen wanneer de prijs laag of negatief is en te gebruiken (of terug te leveren) wanneer de prijs hoog is, kun je het prijsverschil benutten. Wat dat oplevert, volgt uit één rekenregel: (dagelijkse spread in euro per kWh minus rendementsverlies) maal bruikbare capaciteit maal het aantal cyclusdagen per jaar. Vul die in met de spread van je eigen weken in plaats van met een vast jaarbedrag: in de zomer met veel zon is die spread heel anders dan in een windstille winterweek.'
-products:
-- name: Tibber
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '6'
-- name: Frank Energie
-  url: https://www.frankenergie.nl/
-  price: '0'
-- name: ANWB Energie
-  url: https://www.anwb.nl/huis/energie
-  price: '6'
-- name: Zonneplan ONE
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '6'
 schema_type: Article
 ---
-Dynamische contracten liggen inmiddels dicht bij elkaar op prijs, maar niet op functionaliteit. Is Tibber de beste keuze, of ben je goedkoper uit bij Frank Energie, ANWB Energie of EasyEnergy? Wij vergelijken de tarieven, apps en functies van de belangrijkste dynamische leveranciers op basis van hun publieke tarievenpagina's, handleidingen, geverifieerde gebruikersreviews en publieke EPEX-data.
+Dynamische contracten liggen inmiddels dicht bij elkaar op prijs, maar niet op functionaliteit. Is Tibber de beste keuze, of ben je goedkoper uit bij Frank Energie, ANWB Energie of EasyEnergy? Wij vergelijken de tarieven, apps en functies van de belangrijkste dynamische leveranciers op basis van hun publieke tarievenpagina's, hun eigen handleidingen en publieke EPEX-data. Wij nemen geen gemeten waarden van derden over en verifiëren geen gebruikersreviews.
 
-*Disclosure: de links naar Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+*Disclosure: de links naar Tibber en Zonneplan zijn gewone verwijzingen — met deze partijen hebben wij geen affiliate- of commissierelatie en wij ontvangen er geen vergoeding voor. Op onze [vergelijker van dynamische contracten](/dynamisch-energiecontract-vergelijken/) is energiedirect de enige aanbieder waaraan wij kunnen verdienen; daar staat die link met `rel="sponsored"` gemarkeerd. Zie [hoe we geld verdienen](/how-we-earn/).*
 
 Heb je een thuisbatterij? Lees dan ook ons artikel over [dynamische energiecontracten in combinatie met een thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
 
 💡 *Alle actuele aanbieders met tarieven en go-links staan in onze [vergelijker dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/), en de [live uurprijzen](/stroomprijzen/) verversen elk kwartier.*
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Vergelijking van de beste dynamische energiecontracten in 2026. Tibber, ANWB Energie, Frank Energie en meer. Kosten, apps en bespaarpotentieel.
+> **Kort antwoord:** de beursprijs is bij elke dynamische leverancier gelijk, dus de keuze gaat over drie posten: de inkoopvergoeding per kWh, de vaste maandkosten en of de app je verbruik echt kan verschuiven. Van de partijen in dit artikel publiceren alleen Tibber (€0,0248/kWh en €5,99 per maand per energiesoort) en ANWB Energie (€0,018/kWh) hun bedragen openbaar; Frank, Zonneplan en easyEnergy niet.
 >
-> Bij een dynamisch energiecontract betaal je de actuele uurprijs voor stroom op de Europese energiebeurs (EPEX). De prijs wisselt elk uur en kan zelfs negatief worden (dan krijg je geld toe). Je ziet een dag van tevoren wat de prijzen per uur worden.
+> Het verschil tussen leveranciers is enkele tientjes per jaar. Het verschil tussen dynamisch en vast, en tussen wel en niet verschuiven van je verbruik, loopt in de honderden euro's. Kies dus eerst op verschuifbaarheid en pas daarna op tarief.
 
 ## Waar het verschil tussen leveranciers echt zit
 
@@ -76,29 +61,21 @@ Gaat je keuze specifiek tussen deze twee? Dan is het directe duel het snelste an
 
 **ANWB Energie** — €0,018/kWh inkoopkosten inclusief btw (anwb.nl/energie/actuele-tarieven, peildatum 20 augustus 2026), dus iets lager dan Tibber; het vaste maandbedrag publiceert ANWB niet openbaar, dat rolt uit de persoonlijke aanbodberekening. Verder ledenkorting, Nederlandse telefonische support en de mogelijkheid van een vast maandtermijnbedrag met jaarlijkse verrekening. Sterk voor wie waarde legt bij een bekende partij en bereikbare klantenservice.
 
-**Let op prijspieken.** Bij een dynamisch contract betaal je op piekuren het volle actuele tarief. In koude, windstille winterperiodes zijn uurprijzen boven €0,50/kWh geen uitzondering. Controleer bij aanmelding wat je leverancier in zijn wettelijk verplichte risicoverklaring meldt over piekuren (zie het kopje over het wettelijk kader verderop) — dat is de enige harde bron over hoe een leverancier met pieken omgaat.
+**Let op prijspieken.** Bij een dynamisch contract betaal je op piekuren het volle actuele tarief. In koude, windstille winterperiodes komen uurprijzen boven €0,50/kWh voor, maar het zijn uitschieters en geen regel: het duurste uur van heel 2025 was €0,63/kWh (20 januari, 17:00; EPEX day-ahead incl. btw via EnergyZero) en het jaargemiddelde lag op €0,105/kWh. Controleer bij aanmelding wat je leverancier in zijn wettelijk verplichte risicoverklaring meldt over piekuren (zie het kopje over het wettelijk kader verderop) — dat is de enige harde bron over hoe een leverancier met pieken omgaat.
 
 ---
 
 ## Modelberekening: dynamisch versus vast bij een gemiddeld huishouden
 
-De onderstaande tabel is een **modelberekening**, geen factuurdata. Aannames: 4.500 kWh verbruik per jaar, 16 zonnepanelen, geen elektrische auto, thuisbatterij van 10 kWh, verbruiksverdeling volgens het standaard NEDU-profiel voor huishoudens, EPEX day-ahead maandgemiddelden en een vast referentietarief van €0,30/kWh. Je eigen uitkomst wijkt af zodra je verbruikspatroon of je terugleveringen afwijken.
+Hieronder de rekenmethode in plaats van een maandtabel met schijnprecisie. Een uitsplitsing per maand met bedragen tot op de euro suggereert factuurdata; wij hebben die niet, en de uitkomst hangt volledig aan de aannames.
 
-| Maand | Dynamisch (model) | Vast €0,30/kWh (model) | Verschil |
-|---|---|---|---|
-| Jun | -€22 (credit) | €62 | €84 |
-| Jul | -€31 (credit) | €55 | €86 |
-| Aug | -€18 (credit) | €63 | €81 |
-| Sep | €41 | €120 | €79 |
-| Okt | €68 | €148 | €80 |
-| Nov | €98 | €188 | €90 |
-| Dec | €131 | €229 | €98 |
-| Jan | €148 | €242 | €94 |
-| Feb | €94 | €181 | €87 |
-| Mrt | €72 | €155 | €83 |
-| Apr | €21 | €112 | €91 |
+**Aannames:** 4.500 kWh verbruik per jaar, 16 zonnepanelen, geen elektrische auto, thuisbatterij van 10 kWh die in goedkope uren laadt en in dure uren ontlaadt, verbruiksverdeling volgens het standaard NEDU-profiel, en als referentie een vast tarief van **€0,32/kWh all-in** — een gelabelde aanname, geen aanbod.
 
-**Modeluitkomst over 11 maanden**: circa €600 verschil, op jaarbasis ruwweg **€800**. Twee kanttekeningen: dit model gaat uit van een batterij die 's nachts goedkoop laadt en overdag op dure uren ontlaadt, én van de relatief hoge prijsvolatiliteit van de winter 2025-2026. Zonder batterij of in een rustiger prijsjaar valt de uitkomst duidelijk lager uit — het gelabelde rekenvoorbeeld verderop in dit artikel gaat van conservatievere aannames uit en komt daardoor lager uit.
+**Rekenregel:** jaarverbruik × (vast referentietarief − het uurgewogen tarief dat jij werkelijk betaalt) − vaste maandkosten − inkoopvergoeding + effect van batterij en verschuiving.
+
+**Uitwerking met onze aannames.** Het EPEX-jaargemiddelde over 2025 was €0,105/kWh inclusief btw. Wie passief dynamisch afneemt, betaalt daar door het verbruikspatroon iets boven (aanname: +8 procent), en komt met energiebelasting en opslag op circa €0,272/kWh all-in — dus vrijwel gelijk aan het vaste referentietarief. Wie wél stuurt, zit door de load-weighted afslag rond €0,243/kWh, ofwel circa €0,077 onder de referentie: bij 4.500 kWh is dat **circa €350 per jaar**, minus circa €72 vaste maandkosten bij Tibber en circa €110 inkoopvergoeding, dus netto in de orde van **€170**. De batterij komt daar bovenop; onze canonieke afleiding komt bij 10 kWh op circa €350 per jaar vanaf 2027.
+
+**Waarom dit belangrijker is dan het lijkt.** De uitkomst kantelt op de referentie. Zet je die op €0,28/kWh in plaats van €0,32, dan verdwijnt het voordeel van passief dynamisch afnemen volledig en blijft alleen de winst uit verschuiven en opslag over. Dat is precies waarom wij geen jaarbedrag als belofte opschrijven: reken met je eigen vaste tarief en met de uurprijzen van je eigen weken, te vinden op onze pagina's met [actuele stroomprijzen](/stroomprijzen/) en [historische stroomprijzen](/stroomprijzen-historie/).
 
 ---
 
@@ -106,7 +83,7 @@ De onderstaande tabel is een **modelberekening**, geen factuurdata. Aannames: 4.
 
 Bij een vast contract betaal je een vaste prijs per kWh, ongeacht het moment. Bij een dynamisch contract betaal je de **actuele uurprijs** op de Europese energiebeurs (EPEX SPOT), plus een opslag van de leverancier en energiebelasting.
 
-De prijzen worden een dag van tevoren bekendgemaakt (om 14:00 voor de volgende dag). Dit geeft je de mogelijkheid om je verbruik te verschuiven naar goedkope uren.
+De prijzen voor de volgende dag worden in de middag bekend, nadat de day-ahead-veiling is afgerond. Het exacte moment waarop je ze in de app ziet, verschilt per leverancier — van rond 13:00 uur bij de vroegste aanbieders tot later in de middag bij andere; per aanbieder staat dat in onze [vergelijker](/dynamisch-energiecontract-vergelijken/). Vanaf dat moment kun je je verbruik voor de volgende dag plannen.
 
 ### Wanneer is stroom het goedkoopst?
 
@@ -238,17 +215,17 @@ EasyEnergy was een van de eerste dynamische leveranciers in Nederland en profile
 
 ### Voorbeeld: gemiddeld huishouden (3.500 kWh/jaar)
 
-Ook dit is een **modelberekening**. De tariefaannames (€0,30/kWh vast en een uurgewogen gemiddelde van €0,22/kWh dynamisch) zijn geen gepubliceerde tarieven maar rekenwaarden; in een jaar met vlakke prijzen liggen die twee dicht bij elkaar en verdwijnt het verschil.
+Ook dit is een **modelberekening**. De tariefaannames (€0,32/kWh all-in vast en een uurgewogen gemiddelde van €0,243/kWh met sturing) zijn geen gepubliceerde tarieven maar rekenwaarden; in een jaar met vlakke prijzen liggen die twee dicht bij elkaar en verdwijnt het verschil.
 
-| Kostenpost | Vast €0,30/kWh (aanname) | Dynamisch gem. €0,22/kWh (aanname) |
+| Kostenpost | Vast €0,32/kWh (aanname) | Dynamisch gem. €0,243/kWh (aanname) |
 |-----------|--------------------------|---------------------------|
-| Stroomkosten | €1.050 | €770 |
+| Stroomkosten all-in | €1.120 | €851 |
 | Inkoopvergoeding leverancier | €0 | €63 bij €0,018/kWh tot €87 bij €0,0248/kWh (gepubliceerde bedragen ANWB/Tibber) |
 | Vaste kosten | aanname, leverancierafhankelijk | €5,99/mnd bij Tibber (peildatum 20 aug 2026); Frank, ANWB en EasyEnergy publiceren geen openbaar bedrag — zie hun eigen site |
 | Energiebelasting | gelijk bij elke leverancier | gelijk bij elke leverancier |
-| **Modeluitkomst** | **circa €1.500** | **circa €1.250-€1.300** |
+| **Modeluitkomst** | **circa €1.120** | **circa €1.010-€1.040** |
 
-Het verschil van enkele honderden euro's in dit model komt volledig uit de aangenomen €0,08/kWh tariefkloof. Vervang die aanname door je eigen cijfers voordat je er een beslissing op baseert.
+Het verschil in dit model komt volledig uit de aangenomen tariefkloof van €0,077/kWh, en die kloof bestaat alleen als je je verbruik daadwerkelijk verschuift. Vervang die aanname door je eigen cijfers voordat je er een beslissing op baseert.
 
 ### Met thuisbatterij of EV
 
@@ -329,9 +306,9 @@ Omdat alleen Tibber en ANWB hun bedragen openbaar publiceren, werken wij één g
 | Vast maandbedrag | 12 × €5,99 (Tibber; andere leveranciers: zie eigen site) | €72 |
 | Teruglevercredit | -1.800 × €0,13 (aanname) | -€234 |
 | **Modeluitkomst dynamisch** | | **circa €875-€900** |
-| **Modeluitkomst vast €0,30/kWh** | 3.500 × €0,30 + €420 - 1.800 × €0,09 | **circa €1.310** |
+| **Modeluitkomst vast €0,32/kWh** | 3.500 × €0,32 + €420 - 1.800 × €0,09 | **circa €1.378** |
 
-De modeluitkomst laat dus een verschil van ruwweg €400 per jaar zien bij dit profiel. Dat is een uitkomst van de bovenstaande aannames en geen resultaat dat je kunt verwachten: vervang de tariefaannames door de actuele cijfers en je eigen verbruik, en de uitkomst schuift mee.
+De modeluitkomst laat dus een verschil van ruwweg €480 per jaar zien bij dit profiel. Dat is een uitkomst van de bovenstaande aannames en geen resultaat dat je kunt verwachten: vervang de tariefaannames door de actuele cijfers en je eigen verbruik, en de uitkomst schuift mee.
 
 Wat het model wél robuust laat zien: het verschil tussen leveranciers (enkele tientjes per jaar op de inkoopvergoeding en de vaste kosten) is klein ten opzichte van het verschil tussen dynamisch en vast, en klein ten opzichte van wat je met verschuiven van verbruik zelf kunt beïnvloeden.
 
@@ -404,20 +381,18 @@ Ongeacht welke leverancier je kiest: dit is de volgorde die wij aanraden.
 ## Lees ook
 
 - **[Dynamische Energiecontracten + Thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)** — Hoe je een thuisbatterij combineert met een dynamisch contract
-- **[Afbouw Salderingsregeling 2026](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)** — Waarom dynamische contracten steeds relevanter worden
+- **[Einde van de salderingsregeling per 1 januari 2027](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)** — waarom dynamische contracten daarna zwaarder wegen
 - **[Beste Thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/)** — De top 5 thuisbatterijen vergeleken
 - **[Thuisbatterij Terugverdientijd Berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)** — Rendabel verduurzamen berekend
 
 ---
-
-*Laatst bijgewerkt: 20 augustus 2026.*
 
 
 **Ons oordeel**: voor huishoudens die hun verbruik kunnen verschuiven — en zeker met zonnepanelen, een batterij of een elektrische auto — is een dynamisch contract een van de weinige stappen die geen investering vragen. De modelberekeningen in dit artikel komen bij de daar genoemde aannames uit op enkele honderden euro's verschil per jaar — een uitkomst van het model, geen belofte — en een dynamisch contract is de basis waarop slim laden en batterijsturing pas rendabel worden. Ben je niet bereid je verbruik aan te passen of wil je maandelijkse zekerheid, dan blijft een vast contract de rustiger keuze.
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
-
+Dit is een gewone verwijzing zonder commissie: wij ontvangen geen vergoeding als je hier klikt.
 
 ---
 

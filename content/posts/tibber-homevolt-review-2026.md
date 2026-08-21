@@ -1,7 +1,7 @@
 ---
 title: 'Tibber Homevolt: wat het is en voor wie het rekent'
 date: 2026-09-09 08:00:00+02:00
-lastmod: 2026-09-09 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: 'Tibber Homevolt is de thuisbatterij die Tibber via de eigen app stuurt. Wat er wel en niet geverifieerd is over beschikbaarheid in Nederland, en waarom de prijsspreiding per dag bepaalt of zon batterij rekent.'
 draft: false
 categories:
@@ -26,7 +26,7 @@ faq:
 - q: Wat is de Tibber Homevolt?
   a: 'Homevolt is de thuisbatterijlijn die bij Tibber hoort en die via de Tibber-app op het energietarief wordt gestuurd. Dat Homevolt onderdeel van Tibber is, is goed te zien aan het webadres: homevolt.com leidt met een permanente doorverwijzing door naar tibber.com.'
 - q: Is de Homevolt in Nederland te koop?
-  a: 'Dat kunnen wij niet bevestigen op basis van de Nederlandse Tibber Store. Bij onze controle op 20 augustus 2026 stonden daar laadpunten, de Pulse-meter en slimme thermostaten met prijs, en een categorie voor batterijen en zonne-energie zonder concrete modellen, capaciteiten of prijzen. Vraag beschikbaarheid, capaciteit en prijs voor Nederland dus na bij Tibber zelf voordat je ergens op rekent.'
+  a: 'Dat kunnen wij niet bevestigen op basis van de Nederlandse Tibber Store. Bij onze controle op 21 augustus 2026 stonden daar laadpunten, de Pulse-meter en slimme thermostaten met prijs, en een categorie voor batterijen en zonne-energie zonder concrete modellen, capaciteiten of prijzen. Vraag beschikbaarheid, capaciteit en prijs voor Nederland dus na bij Tibber zelf voordat je ergens op rekent.'
 - q: Wat kost de Homevolt?
   a: 'Op de Nederlandse Tibber-pagina''s vonden wij geen prijs voor de Homevolt. Op vergelijkings- en blogsites circuleren wel bedragen, maar die zijn niet door Tibber zelf op de Nederlandse site gepubliceerd; wij nemen ze daarom niet als vaststaand over. Laat een prijsopgave voor jouw situatie maken en zet die naast de kilowattuurprijs van alternatieven.'
 - q: Heb je een Tibber-contract nodig voor de Homevolt?
@@ -39,7 +39,7 @@ schema_type: Article
 ---
 "Homevolt" verschijnt sinds kort in de zoeksuggesties naast Tibber, en de vragen die erbij horen zijn steeds dezelfde: wat is het, wat kost het, en levert het iets op. Dit artikel geeft op twee van die drie vragen een antwoord, en legt bij de derde uit waarom wij het antwoord niet geven.
 
-Wat hieronder staat, is gebaseerd op de Nederlandse Tibber-pagina's en de Nederlandse Tibber Store, opgehaald op 20 augustus 2026, en op onze eigen prijsdata voor de Nederlandse markt. Wij hebben deze batterij niet zelf geïnstalleerd of gemeten.
+Wat hieronder staat, is gebaseerd op de Nederlandse Tibber-pagina's en de Nederlandse Tibber Store, opgehaald op 21 augustus 2026, en op onze eigen prijsdata voor de Nederlandse markt. Wij hebben deze batterij niet zelf geïnstalleerd of gemeten.
 
 *Disclosure: de links naar Tibber zijn gewone verwijzingen — wij hebben met Tibber geen affiliate- of commissierelatie.*
 

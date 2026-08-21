@@ -1,7 +1,7 @@
 ---
 title: 'Tibber ervaringen 2026: review, app, Pulse en servicegeld'
 date: 2026-05-04 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 description: 'Tibber ervaringen 2026 op een rij: de plussen en minnen die gebruikers melden over de app, Tibber Pulse, teruglevering en het servicegeld van €5,99 per maand.'
 categories:
 - energie
@@ -28,7 +28,7 @@ faq:
 - q: Hoe werkt slim laden bij Tibber?
   a: Tibber's app verbindt met je EV (direct via API, of via een Tibber Pulse + slimme laadpaal). De app laadt automatisch wanneer de stroomprijs het laagst is in een door jou gekozen tijdvenster. Wat dat oplevert, hangt volledig af van het verschil tussen de goedkoopste nachturen en de avondpiek in die week; die spread kun je nakijken op onze pagina met dynamische stroomprijzen per uur.
 - q: Is Tibber duurder dan een vast contract?
-  a: 'Dat verschilt per jaar en per verbruikspatroon: in jaren met veel prijsvolatiliteit valt een dynamisch contract goedkoper uit, in een jaar met vlakke prijzen verdwijnt dat voordeel grotendeels. Let op de pieken: tijdens een winterstorm kan de uurprijs enkele uren boven €0,80/kWh liggen. Wie verbruik kan verschuiven, merkt daar minder van.'
+  a: 'Dat verschilt per jaar en per verbruikspatroon: in jaren met veel prijsvolatiliteit valt een dynamisch contract goedkoper uit, in een jaar met vlakke prijzen verdwijnt dat voordeel grotendeels. Let op de pieken: in een koude, windstille winterperiode kan de uurprijs een paar uur ver boven het gemiddelde uitschieten. Om dat op maat te houden: het duurste uur van heel 2025 was €0,63/kWh (EPEX day-ahead incl. btw, 20 januari 17:00) tegen een jaargemiddelde van €0,105/kWh. Wie verbruik kan verschuiven, merkt van die uren het minst.'
 - q: Wat zijn de nadelen van Tibber?
   a: 'Drie nadelen: (1) servicegeld €5,99/mnd zelfs als je weinig verbruikt, (2) klantenservice vooral via chat — geen telefonisch contact behalve voor noodgevallen, (3) geen vaste tarieven — onvoorspelbaarheid in dure maanden kan stressen voor wie strakke budgetcontrole wil.'
 - q: Werkt Tibber met zonnepanelen?
@@ -39,30 +39,17 @@ faq:
   a: 'Via de Tibber app of website. Vul postcode + huisnummer in, kies start-datum (meestal 1e van volgende maand). Tibber regelt opzegging bij vorige leverancier automatisch. Ben je in een lopend vast contract? Check eerst de opzegvergoeding. Sinds de Energiewet (1 januari 2026) mag een leverancier die zo berekenen: het resterende verbruik tot de einddatum × het verschil tussen jouw contracttarief en het actuele tarief voor een vergelijkbaar contract bij diezelfde leverancier (bron: acm.nl, opzegvergoeding energiecontract, geraadpleegd 20 augustus 2026). Er bestaat dus geen vast boetebedrag: is het tariefverschil klein of je resterende verbruik laag, dan is de vergoeding laag. Vraag het exacte bedrag op bij je leverancier.'
 - q: Hoe stop ik met Tibber als het me niet bevalt?
   a: 'Eenvoudig: via de app of email. Opzegtermijn 1 maand. Geen boete. Je servicegeld stopt direct, je leveringsovereenkomst eindigt aan het einde van die maand.'
-products:
-- name: Tibber dynamisch contract
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '6'
-- name: Tibber Pulse
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '0'
-- name: Frank Energie (alternatief)
-  url: https://www.frankenergie.nl/
-  price: '0'
-schema_type: Review
+schema_type: Article
 ---
-**Tibber ervaringen, kort samengevat:** in geverifieerde gebruikersreviews komen steeds dezelfde vier punten terug. Positief: de app (realtime inzicht, prijsnotificaties, slim laden van de EV) en het ontbreken van een risico- of winstopslag op de stroomprijs. Negatief: het servicegeld van €5,99 per maand dat ook doorloopt bij weinig verbruik, klantenservice die alleen via chat werkt, en maandbedragen die per seizoen sterk schommelen. Klachten over foute facturen of trage overstap komen opvallend weinig voor.
+**Tibber ervaringen, kort samengevat:** in publieke reviews en gebruikersfora komen steeds dezelfde vier punten terug. Wij verifiëren die reviews niet en nemen er geen cijfers uit over; het gaat om het patroon, niet om een score. Positief: de app (realtime inzicht, prijsnotificaties, slim laden van de EV) en het ontbreken van een risico- of winstopslag op de stroomprijs. Negatief: het servicegeld van €5,99 per maand dat ook doorloopt bij weinig verbruik, klantenservice die alleen via chat werkt, en maandbedragen die per seizoen sterk schommelen. Klachten over foute facturen of trage overstap komen opvallend weinig voor.
 
 **Onze datagedreven beoordeling:** Tibber is in 2026 een sterke keuze voor wie een EV heeft of een smart home wil aansturen, omdat het voordeel dan uit gestuurd verbruik komt en niet uit het tarief. Wie geen EV en geen automatisering heeft, betaalt bij Tibber voor functies die dan niets opleveren; die huishoudens kunnen beter puur op de twee kostenposten vergelijken (inkoopvergoeding per kWh en vaste maandkosten), bijvoorbeeld met Frank Energie. Frank publiceert die bedragen niet op een openbare tarievenpagina, dus vraag ze op in de aanbodberekening. Hieronder een doorgerekend kostenmodel met expliciete aannames, plus de directe [Frank Energie vs Tibber-vergelijking](/posts/frank-energie-vs-tibber-2026/).
 
 Wil je zien waar de uurprijzen vandaag op staan waarop dit hele contract is gebaseerd? Die staan live op onze pagina met [dynamische stroomprijzen per uur](/stroomprijzen/).
 
-*Disclosure: wij hebben op het moment van publicatie geen commissie-afspraak met Tibber; de links naar Tibber zijn gewone verwijzingen. De beoordeling is gebaseerd op tarieven, voorwaarden, app-functies en geverifieerde gebruikersreviews.*
+*Disclosure: wij hebben op het moment van publicatie geen commissie-afspraak met Tibber; de links naar Tibber zijn gewone verwijzingen. Wij ontvangen geen vergoeding als je op die links klikt. De beoordeling is gebaseerd op de gepubliceerde tarieven en voorwaarden van Tibber, op de app-functies zoals Tibber die beschrijft, en op publieke EPEX-data; wij nemen geen gemeten waarden van derden over en verifiëren geen gebruikersreviews.*
 
 ---
-
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
 
 > **Kort antwoord:** de ervaringen met Tibber zijn overwegend positief over de app en de transparante prijsopbouw, en kritisch over het vaste servicegeld, de chat-only klantenservice en de schommelende maandbedragen.
 >
@@ -155,6 +142,8 @@ Onderstaande cijfers zijn een modelberekening met expliciete aannames, geen geme
 | Augustus | −€18 | €58 | €76 |
 | September | €25 | €78 | €53 |
 
+De negatieve maandbedragen in mei tot en met augustus zijn geen uitbetaling maar een saldo-effect: zolang de salderingsregeling geldt, wordt de teruglevering van die maanden weggestreept tegen de afname. Per 1 januari 2027 verdwijnt dat mechanisme, en dan verdwijnen deze negatieve maanden dus ook uit het model — reken er niet mee voor de jaren daarna.
+
 In dit model komt een jaar dynamisch uit op circa €700 tegenover circa €1.500 op het vaste referentietarief. Dat verschil van ongeveer €800 is géén garantie: het volgt volledig uit de aangenomen prijsvolatiliteit. In een jaar met vlakke prijzen valt het grootste deel van dat voordeel weg, en in een jaar met een dure winter kan een vast contract dat je vóór de prijsstijging vastzette juist gunstiger uitpakken.
 
 **Waar het voordeel in dit model vandaan komt** is opvallend: niet zozeer uit slim laden (er is geen EV in dit profiel), maar uit het verschuiven van wasprogramma's en boilerverwarming naar gunstige uren. Dat is precies wat de app zichtbaar maakt.
@@ -170,7 +159,7 @@ Het slimste onderdeel van Tibber. De app is meer dan een rekening — het is een
 - Maand-overzicht en jaarvergelijking
 - CO₂-impact per kWh in realtime
 
-Geen andere energiemaatschappij in NL heeft een vergelijkbare app. Niet Eneco, niet Vattenfall, niet Frank.
+In de Nederlandse markt is dit een van de uitgebreidste apps van een energieleverancier — een claim over "de beste" of "de enige" maken wij niet, omdat wij de apps van alle leveranciers niet naast elkaar hebben getest.
 
 ### 2. Slim laden EV (de killer feature)
 
@@ -218,7 +207,7 @@ Optionele aankoop, maar de helft van Tibber's smart-features zijn pas écht nutt
 
 ### 5. Marge op duurste uren is hoog
 
-Wanneer marktprijs €0,80/kWh is, betaal je dat ook. Plus btw + netbeheer = €1+/kWh tijdens piekuren. Als je dan de wasmachine en oven aan hebt staan zonder erop te letten, kan een uur €5+ kosten.
+Staat de beursprijs in een piekuur op €0,60/kWh, dan betaal je dat ook — plus energiebelasting kom je dan boven €0,70/kWh all-in uit, tegen circa €0,26 gemiddeld. Draaien op zo'n moment de oven, de droger en de warmtepomp samen, dan tikt dat ene uur een paar euro aan. Ter maat: het duurste uur van 2025 was €0,63/kWh (EPEX day-ahead incl. btw).
 
 ### 6. Geen Nederlandse bedrijfssteun
 
@@ -291,7 +280,7 @@ De meestgestelde vraag over een dynamisch contract is: wat betaal ik dan concree
 | Teruglevercredit | -2.000 kWh × €0,13 (aanname) | -€260 |
 | **Modeluitkomst per jaar** | | **circa €790** |
 
-Op een vast referentietarief van €0,30/kWh komt hetzelfde profiel in dit model rond de €1.500 per jaar uit. Het verschil van enkele honderden euro's volgt dus volledig uit de aangenomen prijzen en niet uit een gemeten resultaat: valt het gemiddelde uurtarief hoger uit, dan krimpt het verschil, en in een jaar met vlakke prijzen verdwijnt het grotendeels. Reken je eigen situatie na met je werkelijke jaarverbruik en de actuele tarieven van de leverancier.
+Op het vaste referentietarief van €0,32/kWh (gelabelde aanname) komt hetzelfde profiel in dit model rond de €1.500 per jaar uit. Het verschil van enkele honderden euro's volgt dus volledig uit de aangenomen prijzen en niet uit een gemeten resultaat: valt het gemiddelde uurtarief hoger uit, dan krimpt het verschil, en in een jaar met vlakke prijzen verdwijnt het grotendeels. Reken je eigen situatie na met je werkelijke jaarverbruik en de actuele tarieven van de leverancier.
 
 ---
 
@@ -352,7 +341,7 @@ Voor wie een Tesla Model 3/Y bezit: Tibber integreert direct via de Tesla API. J
 
 Per 2026 zijn er een paar relevante wettelijke veranderingen voor Tibber-klanten.
 
-**Salderingsafbouw**: Per 1 januari 2027 eindigt de saldering volledig. Teruggeleverde stroom levert dan alleen nog de terugleververgoeding van de leverancier op. Bij een dynamisch contract is dat het uurtarief van het moment van teruglevering, verminderd met de verkoopvergoeding die de leverancier rekent — bij Tibber €0,0248 per teruggeleverde kWh (bron: tibber.com/nl/energiecontract, geraadpleegd 20 augustus 2026). Wat dat gemiddeld per kWh oplevert, is niet vooraf te zeggen: dat hangt af van de uurprijzen op je productiemomenten. Voor klanten die nu al het uurtarief krijgen verandert het mechanisme weinig; voor vast-contract-klanten is de omschakeling groter.
+**Einde saldering per 1 januari 2027**: de saldering stopt in één keer; er is geen afbouwpad. Teruggeleverde stroom levert dan alleen nog de terugleververgoeding van de leverancier op. Bij een dynamisch contract is dat het uurtarief van het moment van teruglevering, verminderd met de verkoopvergoeding die de leverancier rekent — bij Tibber €0,0248 per teruggeleverde kWh (bron: tibber.com/nl/energiecontract, geraadpleegd 20 augustus 2026). Wat dat gemiddeld per kWh oplevert, is niet vooraf te zeggen: dat hangt af van de uurprijzen op je productiemomenten. Voor klanten die nu al het uurtarief krijgen verandert het mechanisme weinig; voor vast-contract-klanten is de omschakeling groter.
 
 **Netcongestie-flexibiliteit**: Netbeheerders en marktpartijen experimenteren met vergoedingen voor flexibel verbruik tijdens piekbelasting. Er is geen landelijk vastgesteld tarief voor particuliere flexibiliteit dat wij kunnen bevestigen, dus verwacht hier voorlopig geen vast bedrag per kWh. Wil je weten of er in jouw regio een regeling loopt, check dan de site van je eigen netbeheerder.
 
@@ -380,7 +369,7 @@ Alle drie rekenen dezelfde EPEX-uurprijs door. Vergelijk daarom op twee posten: 
 
 De app-scores in deze tabel zijn ons redactionele oordeel op basis van de functies in de publieke documentatie, geen meetresultaat.
 
-**Wanneer ANWB Dynamisch beter is dan Tibber**: als je bang bent voor sterk schommelende maandlasten. Belangrijke nuance: bij élk dynamisch contract loopt je uurtarief bij extreme prijzen één-op-één mee omhoog — een uurprijs boven €1/kWh is in eerdere winters daadwerkelijk voorgekomen. Wij vinden op de openbare ANWB-pagina's geen maximumtarief of prijsplafond per uur; wat ANWB wél biedt is een vast maandtermijnbedrag met jaarlijkse verrekening, waardoor je maandlasten vlak blijven terwijl het uurtarief dat niet is. Wil je weten of jouw leverancier een dempingsmechanisme kent, controleer dan de contractvoorwaarden bij aanmelding — dat is de enige harde bron.
+**Wanneer ANWB Dynamisch beter is dan Tibber**: als je bang bent voor sterk schommelende maandlasten. Belangrijke nuance: bij élk dynamisch contract loopt je uurtarief bij extreme prijzen één-op-één mee omhoog — in de energiecrisis van 2022 zijn uurprijzen boven €0,60/kWh meermaals voorgekomen, en in 2025 lag de piek op €0,63/kWh (EPEX day-ahead incl. btw). Een bovengrens bestaat niet. Wij vinden op de openbare ANWB-pagina's geen maximumtarief of prijsplafond per uur; wat ANWB wél biedt is een vast maandtermijnbedrag met jaarlijkse verrekening, waardoor je maandlasten vlak blijven terwijl het uurtarief dat niet is. Wil je weten of jouw leverancier een dempingsmechanisme kent, controleer dan de contractvoorwaarden bij aanmelding — dat is de enige harde bron.
 
 **Wanneer Eneco Dynamisch beter is**: dat valt zonder openbare bedragen niet hard te maken. Eneco publiceert zijn inkoopvergoeding en vaste leveringskosten niet op de tarievenpagina, dus vraag beide op in de aanbodberekening en zet ze naast de gepubliceerde Tibber-bedragen. Op app-functionaliteit en smart-home-integratie is Tibber duidelijk verder.
 
@@ -399,9 +388,11 @@ Wat de ervaringen van gebruikers en de modelberekening samen laten zien: het voo
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
+Dit is een gewone verwijzing zonder commissie: wij ontvangen geen vergoeding als je hier klikt.
+
 ## Tibber in de winter: wat een koudegolf doet met je rekening
 
-De grootste zorg bij een dynamisch contract is de winter. Bij een koudegolf van enkele dagen met temperaturen onder nul draait een warmtepomp bijna continu, terwijl de EPEX-prijs op piekmomenten tot boven de €1 per kWh kan uitkomen — dat is in eerdere winters daadwerkelijk voorgekomen.
+De grootste zorg bij een dynamisch contract is de winter. Bij een koudegolf van enkele dagen met temperaturen onder nul draait een warmtepomp bijna continu, terwijl de EPEX-prijs op piekmomenten ver boven het jaargemiddelde uitkomt: de piek van 2025 lag op €0,63/kWh (incl. btw), tegen €0,105/kWh gemiddeld over het jaar.
 
 Zo ziet zo'n maand uit in het model hierboven:
 

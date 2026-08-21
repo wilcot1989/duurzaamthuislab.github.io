@@ -1,7 +1,7 @@
 ---
 title: 'Warmtepomp-onderhoudscontract vergelijken: merken en kosten'
 date: 2026-09-15 08:00:00+02:00
-lastmod: 2026-09-15 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: 'Wat een warmtepomp-onderhoudscontract dekt, wanneer een losse beurt goedkoper is, en wat ATAG, Daikin, Itho Daalderop, Vaillant en Feenstra volgens hun eigen paginas aanbieden.'
 draft: false
 categories:
@@ -24,7 +24,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1621905251189-08b45d6a269e&w=1200&output=webp&q=70
 faq:
 - q: Is onderhoud aan een warmtepomp wettelijk verplicht?
-  a: 'Voor de warmtepomp als geheel bestaat geen algemene wettelijke onderhoudsplicht zoals bij een cv-ketel de keuringsplicht. Wél geldt Europese F-gassenregelgeving voor apparatuur met gefluoreerde koudemiddelen: hoe groter de koudemiddelvulling, hoe vaker een lekcontrole verplicht is, en werkzaamheden aan het koudemiddelcircuit mogen alleen door gecertificeerde monteurs worden uitgevoerd. Of jouw toestel onder de controleplicht valt, hangt af van de vulling; dat staat op het typeplaatje en in de handleiding.'
+  a: 'Voor de warmtepomp als geheel bestaat geen algemene wettelijke onderhoudsplicht. Die bestaat, anders dan vaak wordt gedacht, ook niet voor een cv-ketel: onderhoud is daar een garantie- en veiligheidsafspraak met de fabrikant of installateur, geen wettelijke keuringsplicht. Wél geldt Europese F-gassenregelgeving voor apparatuur met gefluoreerde koudemiddelen: hoe groter de koudemiddelvulling, hoe vaker een lekcontrole verplicht is, en werkzaamheden aan het koudemiddelcircuit mogen alleen door gecertificeerde monteurs worden uitgevoerd. Of jouw toestel onder de controleplicht valt, hangt af van de vulling; dat staat op het typeplaatje en in de handleiding.'
 - q: Hoe vaak moet een warmtepomp onderhoud hebben?
   a: 'Dat verschilt per fabrikant, en de verschillen zijn groter dan je zou verwachten. Vaillant houdt bij Vaillant Care een onderhoudsbeurt eens per twee jaar aan voor warmtepompen. Daikin koppelt de verlengde garantie aan jaarlijks onderhoud waarvan je het bewijs moet uploaden. Volg altijd het voorschrift van je eigen fabrikant, want daar hangt je garantie aan vast.'
 - q: Wat is het verschil tussen een basisabonnement en een all-in contract?
@@ -37,7 +37,7 @@ faq:
   a: 'Dan loop je risico. Daikin geeft aan dat een verlengde garantie alleen geldig is als je het jaarlijkse onderhoud laat uitvoeren en het bewijs daarvan uploadt in het eigen platform. Vaillant stelt als voorwaarde dat de installatie is geplaatst door een erkende installateur volgens de Vaillant-voorschriften. Bewaar dus altijd facturen en logboekgegevens.'
 schema_type: Article
 ---
-Een warmtepomp is geen cv-ketel, en dat verschil zit ook in het onderhoud: geen jaarlijkse keuringsplicht zoals bij een gasketel, intervallen die per merk uiteenlopen van één tot twee jaar, en een kostenpost die niet in het onderhoud zelf zit maar in wat er gebeurt als het koudemiddelcircuit erbij betrokken raakt.
+Een warmtepomp is geen cv-ketel, en dat verschil zit ook in het onderhoud: intervallen die per merk uiteenlopen van één tot twee jaar, en een kostenpost die niet in het onderhoud zelf zit maar in wat er gebeurt als het koudemiddelcircuit erbij betrokken raakt.
 
 Dit artikel vergelijkt wat vijf partijen volgens hun eigen pagina's aanbieden: ATAG, Daikin, Itho Daalderop, Vaillant en Feenstra. Wij noemen alleen bedragen en intervallen die daar staan; is een prijs niet gepubliceerd, dan staat er "zie site".
 

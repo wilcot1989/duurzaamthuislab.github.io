@@ -1,410 +1,170 @@
 ---
-title: 'Quatt warmtepomp review 2026: slim abonnement of dure'
+title: 'Quatt warmtepomp review 2026: wat er wel en niet gepubliceerd is'
 date: 2026-07-03 08:00:00+02:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: 'Quatt biedt een warmtepomp als abonnement: geen aanbetaling, all-in service. Maar is het goedkoper dan gewoon kopen? Onze berekening over 10 jaar.'
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Quatt publiceert geen consumentenprijs en werkt met een configurator. Wat er wel vaststaat over het aanbod, waarom de eigendomsvraag de ISDE bepaalt, en hoe je warmte-als-dienst tegen kopen afzet.'
 categories:
 - warmtepompen
 tags:
 - Quatt
-- warmtepomp abonnement
 - hybride warmtepomp
-- lucht-water warmtepomp
-- Quatt Connect
+- all-electric warmtepomp
+- warmte als dienst
 - review
 keywords:
 - Quatt warmtepomp review
 - Quatt ervaringen
-- Quatt Connect
 - Quatt warmtepomp prijs
 - Quatt vs kopen
-- warmtepomp abonnement
 - Quatt nadelen
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-- q: Wat kost Quatt per maand?
-  a: Quatt Connect kost €59 per maand voor het basis-abonnement, €79 voor het standaard-abonnement en €99 voor premium (inclusief meer monitoring en onderhoud). De contractduur is minimaal 10 jaar. Er is geen aanbetaling vereist — Quatt installeert de warmtepomp kosteloos en rekent alles in via de maandelijkse fee.
-- q: Hoeveel bespaar je met Quatt ten opzichte van gas?
-  a: Quatt claimit een gasbesparing van 50 tot 70% voor een gemiddeld huishouden. Bij 2.000 m³ gasverbruik en een gasprijs van €1,05/m³ betekent dat €1.050 tot €1.470 bruto besparing per jaar. Trek daar de abonnementskosten (€708–€1.188/jaar) en de extra elektriciteitskosten af, dan houd je circa €0 tot €400 netto per jaar over — afhankelijk van je abonnement en verbruik.
-- q: Is Quatt goedkoper dan een warmtepomp kopen?
-  a: Over 10 jaar betaal je met Quatt Connect Standaard (€79/mnd) in totaal €9.480 aan abonnementskosten, exclusief eventuele extra kosten. Een vergelijkbare ATAG of Daikin hybride warmtepomp kost €5.000–€6.500 netto na ISDE-subsidie, met een jaarlijks onderhoudscontract van €150–€250. Kopen is bijna altijd goedkoper over 10 jaar.
-- q: Kun je een Quatt-abonnement vroegtijdig opzeggen?
-  a: Ja, maar er zijn exitkosten. Quatt hanteert een afkoopregeling die afloopt naarmate het contract ouder is. In het eerste jaar zijn de kosten het hoogst — volgens ervaringen van gebruikers is dat circa €2.000 tot €3.500 afhankelijk van het moment. Lees het contract goed door voor je tekent.
-- q: Werkt Quatt in een slecht geïsoleerde woning?
-  a: 'Quatt is een hybride warmtepomp: hij werkt samen met de bestaande cv-ketel. De ketel springt bij als het buiten heel koud is of de vraag hoog is. Daardoor werkt Quatt ook in matig geïsoleerde woningen (label C en D). Quatt beoordeelt zelf of jouw woning geschikt is bij de intake.'
-- q: Hoe snel is Quatt geïnstalleerd?
-  a: Quatt claimt installatie op één dag. Op basis van ervaringen van gebruikers klopt dat voor de meeste woningen. De buitenunit wordt geplaatst, de binnenunit (warmtewisselaar) wordt gekoppeld aan de cv-ketel, en alles wordt digitaal ingeregeld. Je hebt direct warm water en verwarming.
-- q: Wat gebeurt er als Quatt failliet gaat?
-  a: Dit is een reëel risico bij een jong bedrijf. Quatt is opgericht in 2020 en heeft investeringen opgehaald, maar is nog niet winstgevend. Als het bedrijf failliet gaat terwijl jij een actief abonnement hebt, hangt het van de curator af wat er met de hardware en het contract gebeurt. Vraag dit expliciet na voor je tekent.
-- q: Is er ISDE-subsidie mogelijk bij een Quatt-abonnement?
-  a: Nee. Omdat jij de warmtepomp niet koopt maar huurt, is de eigendom niet van jou — Quatt is de eigenaar. Daardoor kom je niet in aanmerking voor de ISDE-subsidie van RVO. Dit is een concreet financieel nadeel ten opzichte van kopen.
-products:
-- name: Quatt Connect abonnement
-  url: https://go.duurzaamthuislab.nl/quatt
-  price: '79'
-- name: ATAG ENERGION hybride (vergelijking)
-  url: https://go.duurzaamthuislab.nl/atag
-  price: '7500'
-schema_type: Review
+- q: Wat kost een Quatt-warmtepomp?
+  a: 'Dat publiceert Quatt niet. Bij onze controle van quatt.io op 21 augustus 2026 stond er geen consumentenprijs en geen maandbedrag: de site leidt naar een configurator ("Configureer jouw warmtepomp") en een adviesgesprek. Bedragen die je elders over Quatt leest, komen dus niet van de fabrikant zelf. Vraag een schriftelijke opgave op en zet die naast twee offertes van gekochte systemen.'
+- q: Werkt Quatt met een abonnement of met koop?
+  a: 'Op de eigen site stuurt Quatt aan op een configuratie en een adviesgesprek, met een apart onderhoudspakket (Quatt Care) ernaast. Een abonnements- of huurconstructie met vaste maandbedragen hebben wij daar niet gepubliceerd gevonden, en wij nemen bedragen die op andere sites circuleren niet als feit over. Laat daarom in de aanbieding expliciet vastleggen welke constructie je krijgt en wie eigenaar wordt van het apparaat.'
+- q: Waarom is de eigendomsvraag zo belangrijk?
+  a: 'Omdat de ISDE een investeringssubsidie voor de eigenaar van het apparaat is. Koop je de warmtepomp, dan kun je zelf ISDE aanvragen. Krijg je hem via een abonnements-, lease- of huurconstructie, dan is het apparaat niet jouw eigendom en valt die subsidie voor jou weg. Dat is bij elke vorm van warmte-als-dienst de zwaarste financiële post in de vergelijking.'
+- q: Levert Quatt hybride of all-electric?
+  a: 'Beide. Op quatt.io stonden op 21 augustus 2026 zowel een hybride opstelling als een all-electric lijn, naast koeling, een thuisbatterij en eigen energiediensten. De keuze tussen hybride en all-electric hangt niet af van het merk maar van je isolatieniveau, afgiftesysteem en gasverbruik.'
+- q: Hoeveel bespaar je met een hybride warmtepomp op gas?
+  a: 'Dat hangt af van je gasverbruik en van welk deel van de warmtevraag de warmtepomp overneemt. In onze modelberekening hieronder — 2.000 m³ gas, hybride neemt circa 60 procent van de ruimteverwarming over, gas €1,10/m³ en stroom €0,26/kWh — komt de netto besparing op de orde van €450 tot €550 per jaar. Dat is een modeluitkomst met zichtbare aannames, geen belofte: bij een lager gasverbruik of een lagere SCOP schuift hij snel naar beneden.'
+- q: Kan ik ISDE aanvragen voor een Quatt?
+  a: 'Als je het apparaat koopt: ja, mits het met zijn meldcode op de RVO-lijst staat. Het bedrag hangt aan het typenummer van het apparaat en niet aan de merknaam, je zoekt het op via de meldcodelijst en de rekentool op rvo.nl, en je vraagt aan ná installatie, binnen 24 maanden na afronding van de werkzaamheden. Onze uitleg van die route staat in ons artikel over de Quatt-subsidie.'
+- q: Wat moet ik vragen voordat ik een contract voor warmte-als-dienst onderteken?
+  a: 'Vijf dingen, schriftelijk: het maandbedrag en wat er precies in zit, de minimale contractduur, de afkoopstaffel per contractjaar, wat er bij verhuizing en verkoop van de woning gebeurt, en wie juridisch eigenaar is van de hardware. Zonder die vijf antwoorden kun je de constructie niet tegen kopen afzetten.'
+schema_type: Article
 ---
-"Geen aanbetaling, alles geregeld, en ze monitoren hem op afstand." Dat is de belofte van Quatt, en het is precies waarom het abonnementsmodel aanslaat: voor rond de €79 per maand krijg je een warmtepomp zonder investering vooraf en zonder eigen verantwoordelijkheid voor onderhoud of storingen.
+Quatt is een van de bekendste Nederlandse namen in warmtepompen, en tegelijk een van de moeilijkste om over te schrijven: het bedrijf publiceert geen consumentenprijs. Wie zoekt op "Quatt prijs" of "Quatt abonnement" komt daarom uit bij bedragen van derden — vergelijkingssites, blogs, forums — en die bedragen zijn niet te controleren bij de bron.
 
-Quatt is een jong Amsterdams bedrijf, opgericht in 2020. Het businessmodel is slim: geen grote rekening vooraf, maar een langlopend abonnement. Voor huishoudens die hun cashflow willen beschermen en nul technische zorgen willen, klinkt dat aantrekkelijk.
+Dit artikel doet het daarom anders. Wij zetten op een rij wat er wél gepubliceerd staat, benoemen expliciet wat niet, en geven de rekenmethode waarmee je een aanbieding van Quatt (of van een andere aanbieder van warmte-als-dienst) zelf tegen kopen afzet.
 
-De cijfers vertellen echter een genuanceerder verhaal, en het verschil zit op drie punten die in de reclame niet aan bod komen: de ISDE-subsidie, de eigendomsopbouw en de contractduur. Hieronder rekenen wij het door.
+Bron en peildatum: quatt.io, opgehaald op 21 augustus 2026, en de ISDE-pagina's voor woningeigenaren van rvo.nl, opgehaald op 21 augustus 2026. Wij hebben deze warmtepomp niet zelf geïnstalleerd of gemeten en nemen geen gemeten waarden van derden over.
 
-In dit artikel: een eerlijke analyse van Quatt Connect. Wat het kost, wat het oplevert, wanneer het verstandig is — en wanneer je beter gewoon koopt.
+*Disclosure: wij hebben met Quatt geen affiliate- of commissierelatie en ontvangen geen vergoeding voor de verwijzingen in dit artikel. Wij vergelijken op basis van specificaties, publieke regelgeving en publieke data.*
 
-*Werkwijze: deze analyse is gebaseerd op de publieke tarieven en voorwaarden van Quatt, de ISDE-regels van RVO, geverifieerde gebruikersreviews en onze eigen modelberekeningen.*
+> **Kort antwoord:** Quatt publiceert geen prijs. De site leidt naar een configurator en een adviesgesprek, en levert zowel een hybride als een all-electric lijn. De beslissende vraag in elke aanbieding is niet het maandbedrag maar het eigendom: wordt de warmtepomp van jou, dan kun je zelf ISDE aanvragen; wordt hij dat niet, dan valt die subsidie weg en is dat de grootste post in het nadeel van warmte-als-dienst.
 
----
+## Wat er op de eigen site staat — en wat niet
 
+Bij onze controle op 21 augustus 2026 presenteerde quatt.io een breder pakket dan alleen een warmtepomp: naast een hybride opstelling en een all-electric lijn staan er koeling, een thuisbatterij, een eigen energiedienst, een app met energiemanagement en een onderhoudspakket onder de naam Quatt Care.
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+Wat er niet staat, is een bedrag. Geen aanschafprijs, geen maandbedrag, geen "vanaf"-prijs. De route naar een prijs loopt via "Configureer jouw warmtepomp" en een adviesgesprek. Over subsidie is de site wel concreet in de vorm: er wordt naar de ISDE verwezen en gemeld dat de bedragen in 2027 lager uitvallen — zonder dat wij dat als bedrag overnemen, want de bedragen horen bij het apparaat en staan op de meldcodelijst van RVO.
 
-> **Kort antwoord:** het Quatt-abonnement kost over tien jaar meer dan kopen, vooral doordat je geen ISDE-subsidie kunt aanvragen en geen eigendom opbouwt. Voor wie geen investeringsruimte heeft of nul technische zorgen wil, kan die meerprijs alsnog verdedigbaar zijn.
->
-> Quatt Connect kost €59 per maand voor het basis-abonnement, €79 voor het standaard-abonnement en €99 voor premium (inclusief meer monitoring en onderhoud). De contractduur is minimaal 10 jaar. Er is geen aanbetaling vereist — Quatt installeert de warmtepomp kosteloos en rekent alles in via de maandelijkse fee.
+**Waarom wij hier geen bedragen invullen.** Bij een warmtepomp bepaalt de netto investering na subsidie vrijwel volledig of de rekensom uitkomt. Een prijs die uit een ander jaar komt, of uit een pakket met een andere inhoud, kantelt die uitkomst. Een ontbrekend bedrag leidt tot een vraag aan de leverancier; een verkeerd bedrag leidt tot een beslissing. Datzelfde geldt voor de abonnementsvarianten en exitkosten die elders over Quatt circuleren: wij hebben die niet op quatt.io kunnen terugvinden en laten ze daarom weg.
 
-## Wie is Quatt?
+## Wat een hybride opstelling technisch doet
 
-**Quatt BV** is opgericht in 2020 in Amsterdam door Hidde Kamst en Roel Huisman. Het bedrijf heeft meerdere investeringsrondes opgehaald en is actief in Nederland en België. Ze zijn niet winstgevend, maar groeien snel.
+Een hybride warmtepomp werkt samen met de bestaande cv-ketel. De warmtepomp neemt het grootste deel van het jaar de ruimteverwarming over; bij lage buitentemperaturen of een hoge warmtevraag springt de ketel bij. Dat maakt de opstelling geschikt voor woningen die nog niet naar een lage aanvoertemperatuur zijn doorgetrokken — precies het segment waar all-electric vaak nog niet uit komt.
 
-Het concept:
-- Quatt installeert een hybride lucht-water warmtepomp bij jou thuis
-- Jij betaalt een maandelijks abonnement (Quatt Connect)
-- Quatt blijft eigenaar van de hardware
-- Monitoring, onderhoud en storingsdienst zijn inbegrepen
+Twee gevolgen daarvan zijn belangrijker dan de merkkeuze:
 
-Dat laatste is het kernargument: je hoeft nooit zelf na te denken over storingen, software-updates of onderhoud. Quatt doet het via remote monitoring en stuur een monteur als het nodig is.
+1. **Je gasaansluiting blijft.** Je houdt de vaste kosten van gas, plus het gasverbruik voor tapwater en voor de bijstook op koude dagen. De besparing zit dus in een deel van je gasrekening, niet in de hele rekening.
+2. **De dekkingsgraad is de variabele die alles bepaalt.** Neemt de warmtepomp 40 procent van de ruimteverwarming over of 70 procent? Dat verschil is groter dan het verschil tussen twee merken, en het hangt af van dimensionering, stooklijn en afgiftesysteem.
 
----
+Welke specificaties bij het apparaat horen — vermogen, SCOP bij testcondities, maximale aanvoertemperatuur, koudemiddel — hoort in de technische documentatie bij de aanbieding te staan. Wij vullen die hier niet in met cijfers die wij niet aan een gepubliceerd datasheet kunnen koppelen; vraag dat blad op en leg de opgaven van twee aanbieders naast elkaar bij dezelfde testcondities.
 
-## Technische specificaties
+## Modelberekening: wat een hybride opstelling op gas uitspaart
 
-| Kenmerk | Quatt warmtepomp |
-|---|---|
-| Type | Hybride lucht-water warmtepomp |
-| Fabrikant hardware | Mitsubishi Electric (compressor), Quatt (besturingssoftware) |
-| Vermogen | 5 kW / 7 kW (afhankelijk van woning) |
-| SCOP (A7/W35) | circa 4,0 – 4,5 |
-| Max. aanvoertemperatuur | 55°C |
-| Werkbereik buitentemperatuur | -15°C tot +35°C |
-| Koudemiddel | R32 |
-| Installatie | 1 dag |
-| Eigendom | Quatt (niet jij) |
-| ISDE-subsidie | Niet van toepassing (geen eigenaar) |
+Hieronder de rekenmethode met zichtbare aannames. Dit is een modelberekening, geen meting en geen aanbod van een leverancier. Vul je eigen gasverbruik en je eigen tarieven in.
 
-**Let op de SCOP**: Quatt scoort circa 4,0–4,5. Vergelijkbare hybride warmtepompen die je koopt (ATAG, Daikin) scoren 4,3–4,8 bij A7/W35. Het verschil is klein, maar bij kopen én hogere SCOP haal je méér besparingen uit dezelfde euro elektriciteit.
+**Aannames:**
 
----
-
-## De drie abonnementen
-
-Quatt biedt (begin 2026) drie varianten van Quatt Connect:
-
-| Abonnement | Prijs/maand | Prijs/jaar | Wat erbij |
-|---|---|---|---|
-| Connect Basis | €59 | €708 | Hardware, installatie, monitoring |
-| Connect Standaard | €79 | €948 | + Onderhoud, storingsdienst |
-| Connect Premium | €99 | €1.188 | + Uitgebreid onderhoud, snellere responstijd |
-
-Minimale contractduur: **10 jaar**. Er zijn exitkosten bij voortijdige beëindiging.
-
----
-
-## Voor wie is Quatt de juiste keuze?
-
-**Ja, als:**
-- Je geen €5.000–€8.000 wilt of kunt voorfinancieren — cashflowbescherming is jouw prioriteit
-- Je geen technische kennis hebt en écht nul zorgen wilt rondom beheer en storingen
-- Je woning label C of D heeft en toch van gas wilt (hybride werkt ook dan)
-- Je in een huurwoning zit waar de verhuurder bereid is (zij kunnen de warmtepomp van Quatt ook aanvragen)
-
-**Nee, als:**
-- Je totale kosten over 10 jaar zo laag mogelijk wilt houden — kopen is dan goedkoper
-- Je de ISDE-subsidie wilt benutten — bij een Quatt abonnement kom je er niet voor in aanmerking
-- Je vermogensverschuiving wilt voorkomen: de warmtepomp verhoogt de waarde van je huis niet, omdat je hem niet bezit
-- Je moeite hebt met langdurige contracten bij een jong, niet-winstgevend bedrijf
-
----
-
-## De eerlijke rekensom: Quatt vs. kopen
-
-Dit is de kern van dit artikel. Hieronder rekenen wij twee scenario's door voor een gemiddeld rijtjeshuis. Modelberekeningen; vul je eigen gasverbruik en de actuele tarieven in.
-
-**Gemeenschappelijke aannames:**
-- Woning: rijtjeshuis, label C, gasverbruik 2.000 m³/jaar
-- Gasprijs: €1,05/m³ | Elektriciteitsprijs: €0,23/kWh
-- Hybride: 60% van het verwarmingsvraag via warmtepomp
-- Gasbesparing: circa 1.200 m³/jaar = €1.260
-- Extra elektriciteitsverbruik warmtepomp: circa 1.000 kWh/jaar = €230
-- Netto besparing op energierekening: **€1.030/jaar**
-
-### Scenario A: Quatt Connect Standaard (€79/mnd)
-
-| Jaar | Cumulatieve abonnementskosten | Cumulatieve energiebesparing | Netto positie |
-|---|---|---|---|
-| 1 | €948 | €1.030 | +€82 |
-| 2 | €1.896 | €2.060 | +€164 |
-| 3 | €2.844 | €3.090 | +€246 |
-| 5 | €4.740 | €5.150 | +€410 |
-| 7 | €6.636 | €7.210 | +€574 |
-| 10 | €9.480 | €10.300 | +€820 |
-
-Na 10 jaar: **€820 netto voordeel** — én je bezit de warmtepomp nog steeds niet.
-
-### Scenario B: Zelf kopen (ATAG ENERGION hybride)
-
-- Aanschafkosten: €8.000 (incl. montage)
-- ISDE-subsidie: –€3.000
-- Netto investering: **€5.000**
-- Jaarlijks onderhoud: €200 (service-abonnement)
-
-| Jaar | Cumulatieve kosten (investering + onderhoud) | Cumulatieve energiebesparing | Netto positie |
-|---|---|---|---|
-| 1 | €5.200 | €1.030 | –€4.170 |
-| 2 | €5.400 | €2.060 | –€3.340 |
-| 3 | €5.600 | €3.090 | –€2.510 |
-| 5 | €6.000 | €5.150 | –€850 |
-| 6 | €6.200 | €6.180 | –€20 |
-| 7 | €6.400 | €7.210 | +€810 |
-| 10 | €7.000 | €10.300 | +€3.300 |
-
-Na 10 jaar: **€3.300 netto voordeel** — én je bezit een warmtepomp die de woningwaarde verhoogt.
-
-### Samenvatting
-
-| | Quatt Connect Standaard | Zelf kopen (ATAG) |
+| Aanname | Waarde | Herkomst |
 |---|---|---|
-| Upfront kosten | €0 | €5.000 netto (na subsidie) |
-| Netto voordeel na 10 jaar | €820 | €3.300 |
-| Eigendom na 10 jaar | Nee | Ja |
-| ISDE-subsidie | Nee | Ja (€2.500–€4.000) |
-| Risico bij faillissement | Ja | Nee |
+| Gasverbruik | 2.000 m³/jaar | eigen aanname (rijtjeshuis, label C) |
+| Waarvan ruimteverwarming | 1.700 m³ | aanname; rest is tapwater en koken |
+| Dekkingsgraad warmtepomp | 60% van de ruimteverwarming | aanname |
+| Gasprijs all-in | €1,10/m³ | rekenconstante DTL (markt + energiebelasting incl. btw) |
+| Stroomprijs all-in | €0,26/kWh | rekenconstante DTL |
+| Ketelrendement | 85% | aanname |
+| SCOP warmtepomp in bedrijf | 3,5 | aanname; vraag de opgave bij testcondities op |
 
-**Conclusie rekensom:** Quatt is €2.480 duurder over 10 jaar dan zelf kopen — bij gelijke aannames. Quatt's waarde is niet financieel; het is gemak en cashflowvriendelijkheid.
+**Uitwerking:** 60 procent van 1.700 m³ is 1.020 m³ gas dat je niet meer verbruikt, wat bij €1,10/m³ neerkomt op €1.122 minder gaskosten. Diezelfde 1.020 m³ leverde bij 9,77 kWh per m³ en 85 procent ketelrendement circa 8.470 kWh warmte. Die warmte moet de warmtepomp maken: bij een SCOP van 3,5 kost dat ongeveer 2.420 kWh stroom, ofwel €629. De netto besparing komt daarmee op de orde van **€490 per jaar**.
 
----
+**Gevoeligheid.** Zet de dekkingsgraad op 45 procent en de besparing zakt naar ongeveer €370. Zet de SCOP op 3,0 en hij zakt naar ongeveer €390. Reken met een gasprijs van €1,00 en hij zakt naar ongeveer €400. Er is geen enkele combinatie van realistische aannames waarin een hybride opstelling in een rijtjeshuis meer dan enkele honderden euro's per jaar oplevert — dat is precies waarom de investering (of het maandbedrag) de knop is waar het op aankomt.
 
-## Wat Quatt wél goed doet
+De volledige varianten van deze rekensom, inclusief all-electric, staan in onze [warmtepomp-kostencalculator](/warmtepomp-kosten-berekenen/).
 
-Er zijn dingen die Quatt oprecht goed oplost, en die horen in de afweging thuis:
+## De vergelijking die je zelf moet maken: kopen of warmte-als-dienst
 
-**Monitoring en inregeling**: Quatt's software regelt de warmtepomp continu bij op basis van weersvoorspellingen en jouw verwarmingspatroon. Bij een gekochte warmtepomp doet je installateur dit eenmalig in, en daarna ben je grotendeels op jezelf aangewezen. Remote inregeling is echt een voordeel.
+Bij warmte-als-dienst betaal je een maandbedrag en investeer je niets vooraf. Bij kopen doe je een investering en vraag je zelf subsidie aan. De vergelijking valt op vier posten uiteen, en drie ervan moet je bij de aanbieder opvragen omdat ze niet gepubliceerd zijn.
 
-**Installatiesnelheid**: één dag is snel, en dat is een reëel voordeel — bij traditionele merken loopt de wachttijd voor een installateur in het seizoen op tot weken.
+| Post | Bij kopen | Bij warmte-als-dienst |
+|---|---|---|
+| Investering vooraf | ja, aanschafprijs inclusief montage | geen |
+| ISDE | jij vraagt aan, bedrag via meldcode op rvo.nl | niet mogelijk: je bent geen eigenaar |
+| Onderhoud en storingen | eigen contract of losse beurten | doorgaans inbegrepen — controleer wat precies |
+| Eigendom na de contractperiode | het apparaat is van jou | opvragen: overname, verlenging of verwijdering |
 
-**Drempelverlagend**: voor huishoudens die nooit eerder warmtepomp overwogen vanwege de hoge kosten, is Quatt een reële instap. En een hybride warmtepomp, ook onder abonnement, is beter voor het klimaat dan een gasbrandende cv-ketel.
+**Rekenmethode (vul je eigen getallen in).** Zet de tienjaarskosten van beide routes naast elkaar:
 
-**Ondersteuning**: meerdere gebruikers melden dat de klantenservice snel reageert en dat storingen binnen 24-48 uur worden opgelost.
+- *Kopen:* aanschafprijs inclusief montage − ISDE-bedrag van rvo.nl + tien jaar onderhoud.
+- *Warmte-als-dienst:* maandbedrag × 120 + eventuele startkosten + de afkoopsom als je tussentijds stopt.
 
----
+**Voorbeeld met gelabelde plaatsvervangende getallen** — dit zijn géén tarieven van Quatt, maar cijfers om de methode te laten zien: bij een maandbedrag van €80 kost tien jaar dienst €9.600. Bij een netto koopinvestering van €5.500 na subsidie en €250 per jaar onderhoud kost tien jaar kopen €8.000, en houd je een apparaat over. Het verschil van €1.600 is de ontzorgingspremie, en die valt of staat volledig bij de werkelijke getallen in jouw aanbieding.
 
-## De risico's die Quatt zelf niet benadrukt
+Wat je hieruit meeneemt is niet het verschil, maar de structuur: **de ISDE en de eigendomswaarde na tien jaar zijn de twee posten die warmte-als-dienst structureel duurder maken**, en ze zijn onafhankelijk van het maandbedrag. Een dienstconstructie wint het daarom vooral op cashflow en op het wegvallen van eigen regelwerk, niet op totale kosten.
 
-### 1. Faillissementsrisico
+Onze kant-en-klare vergelijking van gekochte hybride systemen staat in [beste hybride warmtepomp](/posts/beste-hybride-warmtepomp-2026/), en de subsidieroute per typenummer in [Quatt-subsidie: ISDE-bedrag opzoeken en aanvragen](/posts/quatt-subsidie-isde-2026/).
 
-Quatt is in 2026 nog niet winstgevend. Ze zijn afhankelijk van externe financiering. Als ze failliet gaan, kom je met een warmtepomp te zitten die van een curator is. Hoe dat uitpakt, is onduidelijk. Dit is een reëel risico bij een 10-jarig contract.
+## Wat een dienstconstructie echt oplost
 
-### 2. Exitkosten
+Er zijn reële voordelen, en die horen in de afweging:
 
-Wie voortijdig wil stoppen, betaalt een afkoopsom. Uit gebruikersreviews blijkt dat die in de eerste contractjaren in de orde van enkele duizenden euro's ligt. Vraag de exacte afkoopstaffel per contractjaar schriftelijk op vóórdat je ondertekent — dat is het bedrag dat bepaalt hoe vast je zit.
+**Actieve inregeling op afstand.** Een warmtepomp die op een te hoge stooklijn staat, kost elk jaar geld zonder ooit een storing te geven. Aanbieders die het apparaat blijven beheren, hebben er zelf belang bij dat de stooklijn scherp staat; bij een gekocht systeem regelt de installateur dat eenmalig in en daarna ben je op je eigen app aangewezen. Dit is het onderschatte voordeel van warmte-als-dienst.
 
-### 3. Geen subsidie
+**Eén aanspreekpunt.** Geen zoektocht naar een installateur die het merk kent, geen discussie over wie verantwoordelijk is voor een storing. Dat is geld waard voor wie geen tijd of affiniteit heeft om dat zelf te regelen.
 
-De ISDE-subsidie loopt per 2026 al een aantal jaren. Het is niet zeker of hij er over 5 jaar nog is, maar nu is het verlies concreet: €2.500 tot €4.000 die je niet krijgt omdat Quatt eigenaar is van de pomp, niet jij.
+**Geen investeringsdrempel.** Voor huishoudens die enkele duizenden euro's niet vrij kunnen maken, is dit vaak het verschil tussen wel en geen warmtepomp.
 
-### 4. Geen toename woningwaarde
+## De risico's die je vóór ondertekening op papier wilt
 
-Een warmtepomp die jij bezit, verhoogt de waarde en het energielabel van je woning. Een Quatt-abonnement is een operationele kostenpost — de hardware is niet van jou. Bij verkoop van je woning moet je het contract overdragen of afkopen.
+**De contractduur.** Bij een langlopend contract kan in de tussentijd veel veranderen: verhuizing, gezinssituatie, een andere warmtebron in de straat. Vraag de afkoopstaffel per contractjaar op — dat bedrag bepaalt hoe vast je zit, en het is bij elke aanbieder anders.
 
----
+**Verkoop van de woning.** Laat vastleggen wat er gebeurt bij verkoop: is het contract overdraagbaar, en wat als de koper dat niet wil? Een lopend contract kan een verkoopgesprek beïnvloeden.
 
-## Vergelijking met twee alternatieven
+**Continuïteit van de aanbieder.** Bij een contract van jaren is de vraag "wat als deze partij ophoudt te bestaan" legitiem, ongeacht om welk bedrijf het gaat. Dat is geen uitspraak over de financiële positie van één onderneming — die kennen wij niet en die schrijven wij dus ook niet op. Vraag wél naar de contractuele voorziening: wie neemt onderhoud en garantie over, en wat is jouw positie ten aanzien van de hardware? Blijft dat antwoord vaag, beschouw dat als informatie.
 
-| Kenmerk | Quatt Connect (abonnement) | ATAG ENERGION hybride (koop) | Daikin Altherma 3 H HT (koop) |
-|---|---|---|---|
-| Upfront kosten | €0 | €5.000 netto (na subsidie) | €5.500–€7.000 netto |
-| Maandelijkse kosten | €59–€99 | €0 (+ onderhoud) | €0 (+ onderhoud) |
-| Totaal 10 jaar | €9.480 (standaard) | €7.000 | €7.500 |
-| Eigendom | Nee | Ja | Ja |
-| ISDE-subsidie | Nee | Ja | Ja |
-| SCOP (A7/W35) | ~4,0–4,5 | ~4,5 | ~4,8 |
-| Onderhoud | Inbegrepen | Servicecontract €150–€250/jr | Servicecontract €150–€250/jr |
-| Monitoring | Actief (Quatt regelt) | App (handmatig) | App (handmatig) |
-| Installatietijd | 1 dag | 1–3 weken wachttijd | 1–3 weken wachttijd |
-| Flexibiliteit | Contract 10 jaar | Vrij | Vrij |
+**Het energielabel.** Een warmtepomp die jij bezit, telt mee in de energieprestatie van je woning. Bij een dienstconstructie is de hardware niet van jou; laat je aanbieder uitleggen hoe dat in het label doorwerkt voordat je op een labelsprong rekent.
 
----
+## Voor wie dit type aanbod logisch is
 
-## Plus- en minpunten
+**Wel logisch:** wie de investering niet wil of kan voorfinancieren, wie geen technische betrokkenheid wil bij beheer en storingen, en wie een woning heeft waarin een hybride opstelling nu al werkt (label C tot E, bestaand afgiftesysteem, gasaansluiting aanwezig).
 
-**Pluspunten:**
-- Geen aanbetaling — cashflowvriendelijk
-- Installatie in één dag
-- Monitoring en onderhoud inbegrepen
-- Hybride werkt ook in matig geïsoleerde woningen
-- Actieve software-inregeling
-- Goede klantenservice-reviews
+**Niet logisch:** wie de totale kosten over tien jaar als kompas gebruikt, wie de ISDE wil benutten, wie een korte horizon heeft in de woning, of wie een goed geïsoleerde woning heeft waarin all-electric de logischer stap is.
 
-**Minpunten:**
-- Over 10 jaar duurder dan kopen (circa €2.000–€2.500 meer)
-- Geen ISDE-subsidie (gemis van €2.500–€4.000)
-- Contract van minimaal 10 jaar, exitkosten bij stoppen
-- Warmtepomp is niet van jou — geen eigendomsopbouw, geen woningwaarde-effect
-- Faillissementsrisico bij jong bedrijf
-- SCOP iets lager dan topmodellen bij koop
+## Onderhoud: wat het bij kopen werkelijk kost
 
----
+De belangrijkste tegenwerping tegen kopen is het onderhoud. Dat is een reële post, maar het is geen open eind. Wat fabrikanten en servicebedrijven publiceren over intervallen, contractvormen en de F-gassenkant hebben wij op één plek uitgezocht in [warmtepomp-onderhoudscontract vergelijken](/posts/warmtepomp-onderhoudscontract-vergelijken-2026/). Twee dingen daaruit zijn hier direct relevant: het onderhoudsinterval verschilt per merk van één tot twee jaar — dat halveert of verdubbelt de kosten per beurt — en bij sommige merken is aantoonbaar onderhoud een voorwaarde voor de verlengde garantie.
 
-## Praktische installatie-info
+Voor de vergelijking met een dienstconstructie betekent dat: reken bij kopen met een onderhoudspost, maar reken die door op het interval van jouw merk in plaats van met een vuistregel.
 
-### Hoe vraag je Quatt aan?
+## Hybride of all-electric: laat de subsidie niet beslissen
 
-Via de Quatt-website: je vult je woninggegevens in (bouwjaar, oppervlakte, isolatiewaarde, gasverbruik), waarna Quatt aangeeft of jouw woning geschikt is. Als dat zo is, volgt een intake-gesprek en plannen ze de installatie in.
+Quatt levert beide, en dat maakt de keuze binnen één aanbieder actueel. De valkuil is dat het subsidiebedrag de techniekkeuze gaat sturen. Dat gebeurt omdat de ISDE per apparaat wordt toegekend: een duo-opstelling staat op de meldcodelijst als twee subsidiabele apparaten en telt op, terwijl een enkele all-electric unit één regel is. Daardoor kan de hybride route op papier meer subsidie opleveren.
 
-### Wat heb je nodig?
-
-- Een aardgasaansluiting en een bestaande cv-ketel (hybride)
-- Een geschikte buitenlocatie voor de unit (vergelijkbaar met een split-airco)
-- Een stroomaansluiting nabij de buitenunit (16A groep)
-- Een internetverbinding voor de monitoring
-
-### Geschikt voor welke woningen?
-
-Quatt richt zich op woningen met label C, D of E. De hybride opzet maakt het ook werkzaam in minder goed geïsoleerde huizen. Quatt screent zelf of jouw situatie geschikt is — ze installeren niet als de energiebesparing te laag zou zijn om hun business case te halen.
-
----
-
-## Ons advies: wat koop je precies?
-
-Waar het op neerkomt: de meerprijs van het abonnement over tien jaar is een ontzorgingspremie. Voor een huishouden met een drukke baan, geen affiniteit met techniek en geen zin in installateurs zoeken, is dat een verdedigbare uitgave — je koopt er rust en zekerheid over de maandlasten voor.
-
-Maar voor wie de netto investering van rond de €5.000 kan dragen, is kopen financieel duidelijk verstandiger. Elke euro extra aan abonnementskosten is een euro die je niet in isolatie, zonnepanelen of een thuisbatterij kunt steken — en die maatregelen verlagen je energierekening blijvend, terwijl een abonnement dat niet doet.
-
-Wat je in beide gevallen moet weten voordat je kiest: het exacte bedrag van de afkoopsom per contractjaar, wat er bij verhuizing gebeurt, en wat je positie is als Quatt in financiële problemen komt.
-
----
-
-## Onderhouds- en servicekosten bij Quatt vs. kopen
-
-Een van de sterkste argumenten die Quatt naar voren brengt is dat onderhoud en storingen in het abonnement zijn inbegrepen. Dat klinkt aantrekkelijk. Maar wat zijn de werkelijke onderhoudskosten als je zelf koopt?
-
-**Onderhoudskosten bij zelf kopen (ATAG of Daikin hybride):**
-
-| Post | Frequentie | Kosten |
-|------|-----------|--------|
-| Jaarlijks onderhoud warmtepomp | 1× per jaar | €150-€200 |
-| Jaarlijks onderhoud cv-ketel | 1× per jaar | €100-€130 |
-| Filter reinigen buitenunit | 2× per jaar | Zelf (15 min) |
-| Koelmiddel controle | Elke 4 jaar | €100 |
-| **Totaal per jaar** | — | **€270-€360** |
-| **10-jaar totaal** | — | **€2.700-€3.600** |
-
-Bij Quatt Connect Standaard (€79 per maand) betaal je circa €948 per jaar aan abonnementskosten. Bij kopen betaal je alleen onderhoud, doorgaans enkele honderden euro's per jaar. Het verschil loopt over tien jaar op tot enkele duizenden euro's, bovenop het gemis van de ISDE-subsidie. Reken beide varianten volledig door met de tarieven die op jouw moment gelden.
-
-Sterker gesteld: de €820 netto voordeel van Quatt over 10 jaar verdwijnt als je de werkelijke onderhoudskosten van kopen meeneemt. Je betaalt bij Quatt feitelijk meer voor iets dat je zelf goedkoper kunt regelen.
-
-**Quatt's tegenargument:** zij nemen ook het risico van grote reparaties op zich. Als de compressor na 8 jaar kapot gaat (€1.200-€1.500 bij zelf kopen), dekt Quatt dat. Dat is een reëel voordeel — al is compressorverlies in de eerste 10 jaar zeldzaam bij een goed product.
-
-## Verlengde FAQ
-
-**Wat staat er precies in het Quatt-contract qua exitkosten?**
-
-Op basis van Quatt's publieke documentatie (begin 2026) geldt een degressieve afkoopsom. In jaar 1 is de exitkost het hoogst: naar schatting €2.500-€3.500 afhankelijk van het moment. In jaar 5 is dit gedaald naar circa €1.000-€1.500. In jaar 10 vervalt de exitkost. Vraag Quatt om een concrete berekening bij de offerte — dit staat niet altijd prominent in de marketingcommunicatie.
-
-**Is de ISDE-subsidie nog aan te vragen als je na 3 jaar het contract afkoopt en de warmtepomp overneemt?**
-
-In theorie ja, maar dan moet je aantonen dat de warmtepomp nu van jou is (eigendomsoverdracht), dat het product nog op de ISDE-lijst staat én dat de aanvraag binnen 12 maanden na de overdracht valt. Dit is een complex traject dat wij niet aanraden zonder juridisch advies. Quatt biedt hier zelf geen standaardpad voor.
-
-**Wat gebeurt er met het abonnement bij verkoop van de woning?**
-
-Quatt stelt dat het contract overdraagbaar is: de koper neemt het abonnement over. In de praktijk kan dit een belemmering zijn bij de verkoop — niet elke koper wil een lopend 10-jarig contract overnemen, zeker als er nog exitkosten zijn. Vraag altijd naar de exacte procedure bij verkoop voordat je tekent.
-
-**Is Quatt in heel Nederland beschikbaar?**
-
-Quatt is actief in heel Nederland maar screent woningen op geschiktheid. Als je woning label F of G heeft, of een uitzonderlijk hoge warmtevraag, is de kans dat Quatt je afwijst reëel — hun businessmodel vereist dat jouw besparing groot genoeg is om hun kosten te dekken. Je hoort dit bij de intake.
-
-**Hoe werkt de monitoring van Quatt precies?**
-
-Quatt koppelt de warmtepomp via internet aan hun cloud-platform. Ze volgen real-time het verbruik, de SCOP en de status van de compressor. Als iets afwijkt — te lage SCOP, ongewoon hoog stroomverbruik, sensoralarm — stuurt Quatt automatisch een melding en neemt contact op voor een controlebezoek. Dit is in de praktijk een van hun sterkste punten, zeker vergeleken met gekochte warmtepompen waarbij je afhankelijk bent van je eigen app-monitoring.
-
-**Wat is het verschil tussen Quatt Connect Basis, Standaard en Premium in concreet gedrag?**
-
-- **Basis (€59):** hardware, installatie, remote monitoring. Storingen zijn gedekt maar responstijd is niet gegarandeerd.
-- **Standaard (€79):** toevoeging van jaarlijks preventief onderhoud en een gegarandeerde responstijd bij storingen (48 uur).
-- **Premium (€99):** snellere responstijd (24 uur), uitgebreider onderhoudsrapport, telefonische prioriteit. Voor de meeste woningen is Standaard voldoende.
-
-## Veelgemaakte fouten bij het kiezen voor Quatt
-
-### 1. Niet vergelijken met kopen
-
-"Quatt is goedkoop, €79 per maand" is een conclusie die vaak wordt getrokken zonder dat de koopoptie is doorgerekend. De eerlijke vergelijking — inclusief ISDE-subsidie, onderhoudskosten en eigendomsopbouw — wijst bijna altijd in de richting van kopen als je de middelen hebt.
-
-### 2. Contractduur onderschatten
-
-10 jaar is lang. In die tijd kun je verhuizen, je situatie kan veranderen, of Quatt kan failliet gaan. Lees het contract op exitvoorwaarden, overdraagbaarheid en wat er bij faillissement van Quatt gebeurt met jouw warmtepomp. Dit zijn geen hypothetische risico's.
-
-### 3. Aannemen dat je de besparing volledig zakgeld is
-
-Bij Quatt heb je net genoeg besparing op gas om de abonnementskosten te dekken — en weinig meer. Bij kopen hou je elk jaar €600-€800 over na aftrek van onderhoud. Dat verschil telt op over 10 jaar en kan elders worden geïnvesteerd.
-
-### 4. De impact op woningwaarde negeren
-
-Een gekochte warmtepomp verbetert het energielabel van je woning. Bij een woning van €350.000 betekent één labelstap gemiddeld €8.000-€15.000 meer waarde (NVM-statistieken 2025). Een Quatt-abonnement verbetert je energielabel niet — de warmtepomp is immers van Quatt, niet van jou.
-
-## Quatt in vergelijking: nieuwbouw versus bestaande bouw
-
-Quatt is uitsluitend gericht op bestaande bouw. Bij nieuwbouw is de vraag irrelevant — nieuwbouwwoningen moeten voldoen aan BENG-normen en worden sowieso zonder gasaansluiting gebouwd.
-
-Voor bestaande bouw uit de jaren 1970-1995 (label C-D), gasverbruik 1.500-2.500 m³/jaar: hier is Quatt het meest relevant. De hybride opzet werkt, de installatie is snel, en de woning hoeft niet eerst te worden geïsoleerd.
-
-Voor bestaande bouw van label B of beter: hier is een all-electric warmtepomp zinvoller dan Quatt's hybride, en kopen is dan financieel nog aantrekkelijker. Quatt richt zich niet op dit segment.
+Dat maakt hybride niet beter. De juiste vraag is welke aanvoertemperatuur jouw afgiftesysteem aankan en hoeveel gas er na de ingreep overblijft. Een all-electric systeem in een woning die er nog niet klaar voor is, levert een hoge stroomrekening op; een hybride systeem in een goed geïsoleerde woning laat een gasaansluiting in stand die je niet meer nodig had. Onze vergelijking van beide routes staat in [warmtepomp versus hybride warmtepomp](/posts/warmtepomp-vs-hybride-warmtepomp-2026/).
 
 ## Conclusie
 
-Quatt Connect is een slim product voor een specifieke doelgroep: mensen die warmte-als-dienst willen, geen aanbetaling kunnen of willen doen, en de installatie en service liever uit handen geven. De installatiesnelheid, monitoring en all-in aanpak zijn oprecht goed.
+Over Quatt als product is op basis van gepubliceerde gegevens minder te zeggen dan de zoekresultaten suggereren: er is geen consumentenprijs, geen gepubliceerd maandbedrag, en de route naar een aanbod loopt via een configurator en een adviesgesprek. Wat wél vaststaat, is het aanbodbereik (hybride én all-electric, met koeling, batterij en energiediensten ernaast) en het feit dat de ISDE aan eigendom hangt.
 
-Maar financieel is het suboptimaal. Je mist de ISDE-subsidie, je betaalt over 10 jaar meer en je bouwt geen eigendom op. Wie de initiële investering kán dragen, doet er verstandig aan een warmtepomp te kopen — bij ATAG, Daikin of een ander merk.
-
-Kies Quatt als cashflow en ontzorging het zwaarste wegen. Koop als de totale kosten over 10 jaar jouw kompas zijn.
-
-<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Quatt Connect abonnementen</a>
-
+Daarmee is het advies concreet ondanks de ontbrekende cijfers. Vraag één aanbieding op waarin het maandbedrag óf de aanschafprijs, de contractduur, de afkoopstaffel, het eigendom en de meldcode staan. Zoek het ISDE-bedrag zelf op bij die meldcode op rvo.nl. Zet die getallen in de tienjaarssom hierboven, naast twee offertes van gekochte systemen. De uitkomst van die som is jouw antwoord — en die kan per woning een andere kant op vallen dan bij je buren.
 
 <a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Quatt</a>
 
-## De toekomst van Quatt: scenario's
-
-Quatt is in 2026 een groeiend bedrijf met een bewezen product, maar de financiële toekomst is onzeker. Drie scenario's:
-
-**Scenario A: Quatt groeit door en blijft operationeel**
-Het meest waarschijnlijke scenario. Quatt heeft investeerders en een groeiend klantenbestand. Jouw abonnement loopt door, monitoring blijft actief, storingen worden verholpen. Na 10 jaar kun je het contract verlengen of beëindigen.
-
-**Scenario B: Quatt wordt overgenomen door een groter bedrijf**
-Dit is ook reëel — startups in de energiesector worden regelmatig overgenomen (vgl. Tibber, Frank Energie). Bij overname neemt de koper doorgaans de abonnementen over. Jouw positie verandert weinig, maar de serviceformule kan veranderen.
-
-**Scenario C: Quatt gaat failliet**
-Het minst waarschijnlijke maar meest ingrijpende scenario. Bij faillissement bepaalt de curator wat er met de hardware gebeurt. Jij zit met een warmtepomp die van een boedelkrediet is. Juridisch is je positie dan kwetsbaar. Er is geen standaard procedure voor dit geval. Dit risico is reëel bij een 10-jarig contract met een jong, niet-winstgevend bedrijf.
-
-Ons advies: kies je voor Quatt, vraag dan expliciet naar je positie bij een faillissement en laat het antwoord schriftelijk vastleggen. Lees de algemene voorwaarden op dit punt. Blijft het antwoord vaag, beschouw dat als een signaal.
-
----
-
-*Twijfel je tussen Quatt en kopen? Reken beide varianten door met je eigen gasverbruik en het ISDE-bedrag dat voor jouw woning geldt — dat zijn de twee cijfers die de uitkomst bepalen.*
+Dit is een gewone verwijzing zonder commissie: wij ontvangen geen vergoeding als je hier klikt.
 
 ## Gerelateerde artikelen
 
-- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [ATAG warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/)
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
 - [Vaillant aroTHERM plus review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)
-- [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
-- [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)
+- [Beste hybride warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/)
+- [Daikin Altherma 3 review 2026](/posts/daikin-altherma-3-review-2026/)
 
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) (opgehaald 21 augustus 2026).
