@@ -87,4 +87,15 @@ Toon de actuele dynamische stroomprijzen per uur op je eigen site — automatisc
   title="Stroomprijzen vandaag — DuurzaamThuisLab"></iframe>
 ```
 
+## Saldering-countdown-widget
+
+Toont hoeveel dagen er nog zijn tot het einde van de salderingsregeling op 1 januari 2027, met één zin duiding en een link naar onze gids. Rekent zelf mee in de browser van je bezoeker — je hoeft niets bij te werken:
+
+```html
+<iframe src="https://duurzaamthuislab.nl/widget-saldering/"
+  width="100%" height="190" frameborder="0" loading="lazy"
+  title="Saldering-countdown — DuurzaamThuisLab"
+  style="border:1px solid #e0e0e0;border-radius:10px;max-width:520px;"></iframe>
+```
+
 Voorwaarde voor gebruik: de bronvermelding met link naar duurzaamthuislab.nl blijft zichtbaar.

@@ -151,7 +151,7 @@ Wat je eruit kunt halen: **het model** per leverancier, en dat is de beslissing 
 
 Wat je er niet uit kunt halen: een sluitende jaarrekening. Zes van de twaalf leveranciers publiceren geen bedrag: bij vier (Eneco, ENGIE, Greenchoice en Oxxio) staat het tarief per kWh alleen in je contract, de app of de mijn-omgeving, en bij Vattenfall staat de staffel alleen in een los tarievendocument (de Frank-staffel hebben wij op 21 augustus 2026 uit de afbeelding op hun site uitgelezen — zie de tabel). De staffels die wél openbaar staan hebben verschillende peildata (Budget Thuis 16 dec 2025, Essent 1 jan 2025, Vattenfall per 1 mei 2026 in een los document). Wie deze cijfers optelt tot "leverancier X kost je € Y per jaar", rekent met aannames.
 
-Meer achtergrond bij de staffels zelf staat in ons overzicht van de [terugleverstaffels per energieleverancier](/posts/terugleverstaffel-energieleveranciers-2026/).
+Wil je weten wat de gepubliceerde staffels bij jouw eigen teruglevervolume betekenen, dan rekent onze [terugleverkosten-rekentool](/terugleverkosten-berekenen/) dat per leverancier uit — inclusief de melding waar een leverancier geen bedrag publiceert. Meer achtergrond bij de staffels zelf staat in ons overzicht van de [terugleverstaffels per energieleverancier](/posts/terugleverstaffel-energieleveranciers-2026/).
 
 ## Zo ontloop je terugleverkosten
 

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Saldering-countdown — DuurzaamThuisLab</title>
+<style>
+  body { margin:0; font:14px/1.5 system-ui,sans-serif; background:#faf7f0; color:#1a2b1f; }
+  .w { padding:12px 14px; }
+  .kop { font-size:.72rem; letter-spacing:.05em; text-transform:uppercase; color:#8a5a34; }
+  .dagen { font-size:1.65rem; font-weight:700; line-height:1.15; margin:2px 0 4px; }
+  .duiding { font-size:.8rem; color:#444; margin:0; }
+  .voet { margin-top:9px; font-size:.7rem; color:#777; }
+  .voet a { color:#c66e3f; text-decoration:none; font-weight:600; }
+</style>
+</head>
+<body>
+<div class="w">
+  <div class="kop">Einde salderingsregeling · 1 januari 2027</div>
+  <div class="dagen" id="sw-dagen">—</div>
+  <p class="duiding">Vanaf die datum wordt teruggeleverde stroom niet meer weggestreept tegen je afname: het verschil tussen je afnameprijs en je terugleververgoeding bepaalt dan wat een kWh je nog waard is.</p>
+  <div class="voet">Bron: <a href="https://duurzaamthuislab.nl/posts/saldering-stopt-2027-volledige-gids/?utm_source=widget" target="_blank" rel="noopener">DuurzaamThuisLab.nl — gids einde saldering</a> · geen rechten te ontlenen</div>
+</div>
+<script>
+(function(){
+  var el = document.getElementById('sw-dagen');
+  var nu = new Date();
+  var vandaag = Date.UTC(nu.getFullYear(), nu.getMonth(), nu.getDate());
+  var einde = Date.UTC(2027, 0, 1);
+  var dagen = Math.round((einde - vandaag) / 86400000);
+  if (dagen > 1) el.textContent = 'nog ' + dagen.toLocaleString('nl-NL') + ' dagen';
+  else if (dagen === 1) el.textContent = 'nog 1 dag';
+  else if (dagen === 0) el.textContent = 'vandaag is de laatste dag';
+  else el.textContent = 'de saldering is gestopt';
+})();
+</script>
+</body>
+</html>
