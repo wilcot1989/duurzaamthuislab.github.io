@@ -53,7 +53,7 @@ last_updated: '2026-10-14'
 
 Een rijtjeshuis uit de jaren tachtig met energielabel F en een winterse gasrekening van honderden euro's per maand is in drie jaar volledig van het gas af te halen, zonder dat je in één keer een verbouwing van vijftig mille aangaat. Er zit geen truc achter: het gaat om de juiste volgorde van maatregelen, een paar goed onderbouwde keuzes en het geduld om niet alles tegelijk te willen. Deze gids zet die volgorde op een rij, met de rekenregels waarmee je elke stap voor je eigen woning kunt doorrekenen.
 
-*Disclosure: DuurzaamThuisLab heeft geen affiliate- of commissierelatie met Sessy, Marstek, Tibber, Frank Energie of Zonneplan (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Onze aanbevelingen blijven onafhankelijk: wij beoordelen op specificaties, subsidievoorwaarden, publieke marktdata en geverifieerde gebruikersreviews, en benoemen nadelen expliciet.*
+*Disclosure: DuurzaamThuisLab heeft geen affiliate- of commissierelatie met Sessy, Marstek, Tibber, Frank Energie of Zonneplan (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Onze aanbevelingen blijven onafhankelijk: wij beoordelen op specificaties, subsidievoorwaarden, publieke marktdata en openbare fabrikantdocumentatie en publieke bronnen, en benoemen nadelen expliciet.*
 
 ---
 
