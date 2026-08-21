@@ -23,7 +23,7 @@
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">{{ end }}
   {{ if .IsPage }}
-  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+  <meta property="article:published_time" content="{{ (cond .Date.IsZero .Lastmod .Date).Format "2006-01-02T15:04:05Z07:00" }}">
   <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
   {{ range .Params.tags }}<meta property="article:tag" content="{{ . }}">
   {{ end }}
@@ -60,10 +60,10 @@
     "headline": "{{ .Title }}",
     "description": "{{ .Description }}",
     "inLanguage": "nl",
-    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+    "datePublished": "{{ (cond .Date.IsZero .Lastmod .Date).Format "2006-01-02T15:04:05Z07:00" }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
     "author": {
-      "@type": "{{ if .Params.author }}Person{{ else }}Organization{{ end }}",
+      "@type": "Organization",
       "name": "{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author }}{{ end }}",
       "url": "{{ .Site.BaseURL }}about/"
     },
@@ -98,7 +98,7 @@
   {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    "itemListOrder": "https://schema.org/ItemListOrderDescending",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
     "numberOfItems": {{ len .Params.products }},
     "itemListElement": [
       {{ range $i, $p := .Params.products }}{{ if $i }},{{ end }}
@@ -146,26 +146,7 @@
 
   
   {{ if and .IsPage .Params.categories }}
-  {{/* HowTo schema for guides/stappenplan/tutorial */}}
-  {{ if and .File (or (in .File.BaseFileName "stappenplan") (in .File.BaseFileName "how-to") (in .File.BaseFileName "guide") (in .File.BaseFileName "tutorial") (in .File.BaseFileName "step-by-step")) }}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "HowTo",
-    "name": {{ .Title | jsonify }},
-    "description": {{ .Description | jsonify }},
-    "datePublished": "{{ .Date.Format "2006-01-02" }}",
-    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
-    "totalTime": "PT30M",
-    "step": [
-      {{ $h2s := findRESubmatch `(?m)^## (.+)$` .RawContent }}
-      {{ range $i, $m := $h2s }}{{ if $i }},{{ end }}
-      { "@type": "HowToStep", "position": {{ add $i 1 }}, "name": {{ index $m 1 | jsonify }} }
-      {{ end }}
-    ]
-  }
-  </script>
-  {{ end }}
+
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -193,7 +174,7 @@
   <script>
     /* ── GA4 affiliate click tracking ── */
     document.addEventListener('click', function(e){
-      var link = e.target.closest('a[rel*="sponsored"], .cta-affiliate');
+      var link = e.target.closest('a[rel*="sponsored"]');
       if(!link) return;
       if(typeof gtag === 'function'){
         var dest = '';
@@ -225,6 +206,7 @@
       --forest: #2D4A3A;
       --forest-deep: #1F3528;
       --terracotta: #C66E3F;
+      --terracotta-tekst: #A85325; /* AA-contrast op cream voor kleine tekst */
       --terracotta-deep: #A8552B;
       --clay: #8B7355;
       /* Backwards compat aliases */

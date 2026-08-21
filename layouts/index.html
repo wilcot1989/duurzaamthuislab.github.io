@@ -3,7 +3,7 @@
 <!-- Top edition bar -->
 <div style="background:var(--forest-deep);color:var(--cream);font-family:var(--mono);font-size:.7rem;letter-spacing:.05em;padding:.55rem 0;">
   <div class="container wide" style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:.5rem;">
-    <span style="opacity:.7;">Nr. <strong style="color:var(--terracotta);font-weight:500;opacity:1;">{{ now.Format "002" }}</strong> · {{ now.Format "January 2006" }} · Het Lente-dossier</span>
+    <span style="opacity:.7;">Nr. <strong style="color:var(--terracotta);font-weight:500;opacity:1;">{{ now.Format "002" }}</strong> · {{ now.Format "January 2006" }} · {{ $m := int (now.Format "1") }}{{ $seizoen := "Winter" }}{{ if and (ge $m 3) (le $m 5) }}{{ $seizoen = "Lente" }}{{ else if and (ge $m 6) (le $m 8) }}{{ $seizoen = "Zomer" }}{{ else if and (ge $m 9) (le $m 11) }}{{ $seizoen = "Herfst" }}{{ end }}Het {{ $seizoen }}-dossier</span>
     <a href="#newsletter" style="opacity:.7;color:var(--cream);">Krijg het volgende dossier in je inbox →</a>
   </div>
 </div>
@@ -12,7 +12,7 @@
 <section style="position:relative;min-height:clamp(500px,72vh,720px);overflow:hidden;display:grid;place-items:end center;background-image:linear-gradient(180deg,rgba(26,43,31,.15) 0%,rgba(26,43,31,0) 35%,rgba(26,43,31,.55) 100%),url('https://images.unsplash.com/photo-1623005399662-b55f006328c2?auto=format&fit=crop&w=2000&q=80');background-size:cover;background-position:center 60%;color:var(--cream);">
   <div style="position:absolute;top:clamp(1.5rem,4vh,2.5rem);right:clamp(1.5rem,5vw,3rem);text-align:right;font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;line-height:1.7;">
     <div style="font-family:var(--display);font-size:2.5rem;font-style:italic;color:var(--terracotta);line-height:1;margin-bottom:.5rem;">{{ now.Format "002" }}</div>
-    <div>{{ now.Format "January · 2006" }}<br>Lente-dossier</div>
+    <div style="text-shadow:0 1px 8px rgba(26,26,26,.55);">{{ now.Format "January · 2006" }}<br>{{ $seizoen }}-dossier</div>
   </div>
   <div style="position:relative;z-index:2;padding:0 clamp(1.5rem,5vw,3rem) clamp(2.5rem,8vh,5rem);max-width:62rem;width:100%;margin:0 auto;text-align:center;">
     <div style="font-family:var(--mono);font-size:.75rem;letter-spacing:.18em;text-transform:uppercase;margin-bottom:1.25rem;display:inline-flex;align-items:center;gap:.75rem;">
@@ -43,8 +43,8 @@
         <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:rgba(250,247,240,.65);margin-top:.75rem;">Saldering eindigt</div>
       </div>
       <div style="border-top:1px solid rgba(250,247,240,.18);padding-top:1.25rem;">
-        <div style="font-family:var(--display);font-size:clamp(2.5rem,5vw,4rem);line-height:.95;letter-spacing:-.03em;font-weight:400;"><em style="color:var(--terracotta);font-style:italic;">100</em>%</div>
-        <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:rgba(250,247,240,.65);margin-top:.75rem;">Onafhankelijk</div>
+        <div style="font-family:var(--display);font-size:clamp(2.5rem,5vw,4rem);line-height:.95;letter-spacing:-.03em;font-weight:400;"><em style="color:var(--terracotta);font-style:italic;">0</em></div>
+        <div style="font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:rgba(250,247,240,.65);margin-top:.75rem;">Gesponsorde rangschikkingen</div>
       </div>
     </div>
   </div>
@@ -73,9 +73,9 @@
     saldering: {
       title: 'Top 3 voor saldering 2027',
       items: [
-        { name: 'Sessy thuisbatterij', badge: '5 kWh', url: 'https://go.duurzaamthuislab.nl/sessy', desc: 'Plug & play, Nederlandse support, uitbreidbaar per module' },
+        { name: 'Sessy thuisbatterij', badge: '5 kWh', url: 'https://go.duurzaamthuislab.nl/sessy', desc: 'Nederlandse fabrikant (Charged), gepubliceerde prijzen, vaste installatie' },
         { name: 'Tibber dynamisch contract', badge: 'Gratis app', url: 'https://go.duurzaamthuislab.nl/tibber', desc: 'Laad op als stroom goedkoop is, lever terug als het duur is' },
-        { name: 'Marstek Venus', badge: 'Instapper', url: 'https://go.duurzaamthuislab.nl/marstek', desc: 'Laagst geprijsde 5 kWh-instap in ons overzicht, breed leverbaar' }
+        { name: 'HomeWizard Plug-In Battery', badge: 'Plug-in', url: 'https://go.duurzaamthuislab.nl/homewizard', desc: 'Gepubliceerde prijs (1.195 euro, 2,7 kWh), in een gewoon stopcontact' }
       ]
     },
     gas: {
@@ -91,7 +91,7 @@
       items: [
         { name: 'EcoFlow DELTA 2', badge: '1 kWh', url: 'https://go.duurzaamthuislab.nl/ecoflow', desc: 'Snelladend (80% in ±1 uur volgens spec), breed leverbaar, UPS-functie' },
         { name: 'Anker SOLIX C1000', badge: '1 kWh', url: 'https://go.duurzaamthuislab.nl/anker-solix', desc: 'Compacte behuizing, stille ventilator, 2400W uitgang' },
-        { name: 'Jackery Explorer 1000 Pro', badge: '1 kWh', url: 'https://go.duurzaamthuislab.nl/jackery', desc: 'Eenvoudige bediening, licht en compact voor deze capaciteit' }
+        { name: 'Jackery Explorer 1000 v2', badge: '1 kWh', url: 'https://go.duurzaamthuislab.nl/jackery', desc: 'Licht en compact, in circa een uur opgeladen (opgave Jackery)' }
       ]
     },
     isolatie: {
@@ -122,10 +122,11 @@
       html += '<span style="font-family:var(--mono);font-size:.75rem;background:#C66E3F;color:#FAF7F0;padding:.2rem .6rem;border-radius:999px;white-space:nowrap;">' + item.badge + '</span>';
       html += '</div>';
       html += '<p style="font-size:.88rem;color:var(--ink-soft);line-height:1.5;margin:0 0 .75rem;">' + item.desc + '</p>';
-      html += '<span style="font-family:var(--mono);font-size:.7rem;color:#C66E3F;letter-spacing:.05em;">Bekijk →</span>';
+      html += '<span style="font-family:var(--mono);font-size:.7rem;color:var(--terracotta-tekst,#A85325);letter-spacing:.05em;">Bekijk →</span>';
       html += '</a>';
     });
     html += '</div>';
+    html += '<p style="font-size:.72rem;color:var(--ink-soft);margin:.9rem 0 0;font-family:var(--mono);letter-spacing:.02em;">Sommige links hierboven zijn affiliate-links: koop of sluit je iets af via zo\'n link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Aan deze suggesties kunnen geen rechten worden ontleend.</p>';
 
     var el = document.getElementById('dtl-r');
     el.innerHTML = html;
@@ -160,12 +161,15 @@
     .lab-bloknaam { font-family:var(--display); font-size:1.15rem; font-weight:500; line-height:1.2; letter-spacing:-.01em; }
     .lab-bloksub { font-size:.85rem; color:var(--ink-soft); line-height:1.45; }
     .lab-blokpijl { margin-top:auto; font-family:var(--mono); font-size:.8rem; color:var(--blokkleur,var(--terracotta)); opacity:0; transform:translateX(-4px); transition:opacity .18s, transform .18s; }
-    .lab-blok:hover .lab-blokpijl { opacity:1; transform:none; }
+    .lab-blok:hover .lab-blokpijl, .lab-blok:focus-visible .lab-blokpijl { opacity:1; transform:none; }
+    .lab-blok:focus-visible, .lab-herokaart:focus-visible { outline:2px solid var(--terracotta-tekst,#A85325); outline-offset:2px; }
+    .lab-herochip { opacity:1; }
+    .lab-herosub { opacity:1; }
   </style>
   <div class="container">
     <div style="font-family:var(--mono);font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--terracotta);margin-bottom:.75rem;">— 02 / Het lab</div>
     <h2 style="font-family:var(--display);font-size:clamp(1.6rem,3vw,2.25rem);line-height:1.1;font-weight:400;letter-spacing:-.02em;color:var(--ink);margin-bottom:.5rem;">Live data &amp; <em style="font-style:italic;color:var(--terracotta);">rekentools</em></h2>
-    <p style="font-family:var(--display);color:var(--ink-soft);font-size:1rem;max-width:44rem;margin-bottom:2rem;">Wij meten en archiveren de energiemarkt elke dag in ons eigen lab-archief. Alles live, alles narekenbaar — aan niets kunnen rechten worden ontleend.</p>
+    <p style="font-family:var(--display);color:var(--ink-soft);font-size:1rem;max-width:44rem;margin-bottom:2rem;">Wij halen elke dag de publieke energiemarktdata op en archiveren die in ons eigen lab-archief. Alles live, alles narekenbaar — aan niets kunnen rechten worden ontleend.</p>
 
     <div class="lab-hero">
       <a href="/stroomprijzen/" class="lab-herokaart lab-hero-donker">
@@ -346,9 +350,9 @@
 <section id="newsletter" style="padding:clamp(3.5rem,8vh,5rem) 0;background:var(--cream-soft);border-top:1px solid var(--ink-line);">
   <div class="container">
     <div style="text-align:center;">
-      <div style="font-family:var(--mono);font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--terracotta);margin-bottom:.75rem;">— 06 / Het kwartaalbericht</div>
-      <h2 style="font-family:var(--display);font-size:clamp(1.75rem,3.5vw,2.5rem);line-height:1.1;font-weight:400;letter-spacing:-.025em;margin-bottom:1rem;">Krijg het <em style="font-style:italic;color:var(--terracotta);">seizoens-dossier</em> als eerste.</h2>
-      <p style="font-family:var(--display);color:var(--ink-soft);font-size:1.05rem;line-height:1.6;max-width:32rem;margin:0 auto 1.75rem;">Vier keer per jaar een dossier in je inbox: cijfers, dekens-vergelijkingen, eerlijke reviews. Geen wekelijkse spam, geen affiliate-deuntjes.</p>
+      <div style="font-family:var(--mono);font-size:.7rem;letter-spacing:.22em;text-transform:uppercase;color:var(--terracotta);margin-bottom:.75rem;">— 06 / De maandelijkse energiebrief</div>
+      <h2 style="font-family:var(--display);font-size:clamp(1.75rem,3.5vw,2.5rem);line-height:1.1;font-weight:400;letter-spacing:-.025em;margin-bottom:1rem;">Krijg de <em style="font-style:italic;color:var(--terracotta);">maandelijkse energiebrief</em> als eerste.</h2>
+      <p style="font-family:var(--display);color:var(--ink-soft);font-size:1.05rem;line-height:1.6;max-width:32rem;margin:0 auto 1.75rem;">Eén keer per maand in je inbox: cijfers, vergelijkingen en eerlijke reviews. Geen wekelijkse spam.</p>
       <form action="https://formsubmit.co/wt@port-it.nl" method="POST" style="display:flex;gap:.5rem;flex-wrap:wrap;justify-content:center;max-width:30rem;margin:0 auto;">
         <input type="hidden" name="_subject" value="DTL Nieuwsbrief Aanmelding">
         <input type="hidden" name="_captcha" value="false">
@@ -356,7 +360,7 @@
         <input type="email" name="email" placeholder="je@email.nl" required style="flex:1;min-width:14rem;padding:.95rem 1.15rem;background:var(--paper);border:1px solid var(--ink-line);border-radius:2px;font-family:var(--sans);font-size:.95rem;color:var(--ink);outline:none;">
         <button type="submit" style="padding:.95rem 1.75rem;background:var(--ink);color:var(--cream);font-family:var(--sans);font-weight:500;font-size:.95rem;border:none;border-radius:2px;cursor:pointer;">Aanmelden</button>
       </form>
-      <p style="font-family:var(--mono);font-size:.7rem;letter-spacing:.05em;color:var(--ink-soft);margin-top:1rem;">Geen spam. Uitschrijven met één klik.</p>
+      <p style="font-family:var(--mono);font-size:.7rem;letter-spacing:.05em;color:var(--ink-soft);margin-top:1rem;">Geen spam. Afmelden kan altijd met een korte reply.</p>
     </div>
   </div>
 </section>

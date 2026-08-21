@@ -46,9 +46,9 @@
       <div class="verdict-row">
         <div>
           <div class="verdict-name">{{ .name }}</div>
-          <div class="verdict-price">Vanaf &euro;{{ .price }}</div>
+          {{ if and .price (ne (printf "%v" .price) "0") (ne (printf "%v" .price) "") }}<div class="verdict-price">Vanaf &euro;{{ .price }}</div>{{ end }}
         </div>
-        <a href="{{ .url }}" target="_blank" rel="noopener noreferrer{{ if $.Params.affiliate }} sponsored{{ end }}" class="cta cta-affiliate">Bekijk {{ .name }} &rarr;</a>
+        <a href="{{ .url }}" target="_blank" rel="noopener nofollow{{ if or .sponsored $.Params.affiliate }} sponsored{{ end }}" class="cta cta-affiliate">Bekijk {{ .name }} &rarr;</a>
       </div>
     </div>
     {{ end }}{{ end }}
@@ -62,9 +62,9 @@
       <div class="product-row">
         <div>
           <div class="product-name">{{ add $i 1 }}. {{ $p.name }}</div>
-          <div class="product-price">Vanaf &euro;{{ $p.price }}</div>
+          {{ if and $p.price (ne (printf "%v" $p.price) "0") (ne (printf "%v" $p.price) "") }}<div class="product-price">Vanaf &euro;{{ $p.price }}</div>{{ end }}
         </div>
-        <a href="{{ $p.url }}" target="_blank" rel="noopener noreferrer{{ if $.Params.affiliate }} sponsored{{ end }}" class="cta cta-affiliate cta-sm">Bekijk &rarr;</a>
+        <a href="{{ $p.url }}" target="_blank" rel="noopener nofollow{{ if or $p.sponsored $.Params.affiliate }} sponsored{{ end }}" class="cta cta-affiliate cta-sm">Bekijk &rarr;</a>
       </div>
       {{ end }}
     </div>
@@ -89,10 +89,10 @@
 
     <div class="author-box">
       {{ if .Params.author }}
-      <div class="author-avatar">{{ index (split .Params.author " ") 0 | truncate 1 "" }}{{ index (split .Params.author " ") 1 | truncate 1 "" }}</div>
+      {{ $delen := split .Params.author " " }}<div class="author-avatar">{{ index $delen 0 | truncate 1 "" }}{{ if gt (len $delen) 1 }}{{ index $delen 1 | truncate 1 "" }}{{ end }}</div>
       <div class="author-info">
         <div class="author-name">{{ .Params.author }}</div>
-        <div class="author-bio">{{ with .Params.author_bio }}{{ . }}{{ else }}Energieadviseur en redacteur bij DuurzaamThuisLab.nl.{{ end }}</div>
+        <div class="author-bio">{{ with .Params.author_bio }}{{ . }}{{ else }}Team DuurzaamThuisLab schrijft datagedreven over verduurzaming: specificaties, publieke data en narekenbare modelberekeningen.{{ end }}</div>
       </div>
       {{ else }}
       <div class="author-avatar">DTL</div>
