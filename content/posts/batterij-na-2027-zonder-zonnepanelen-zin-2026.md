@@ -1,7 +1,7 @@
 ---
 title: 'Thuisbatterij Zonder Zonnepanelen: Heeft Het Zin in 2027?'
 date: 2026-06-23 09:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 description: Heeft een thuisbatterij zonder zonnepanelen zin in 2027? Met een dynamisch energiecontract en slimme thuisbatterij kun je toch besparen op je energierekening.
 categories:
 - thuisbatterijen
@@ -24,45 +24,33 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Heeft een thuisbatterij zonder zonnepanelen zin?
-  a: Ja, mits je een dynamisch energiecontract hebt. Door 's nachts of op spotmarkt-laagtepunten goedkoop te laden en te ontladen op dure uren, bespaar je €200-€600 per jaar afhankelijk van je verbruik en de marktvariatie. Zonder dynamisch contract is de besparing minimaal.
+  a: 'Alleen met een dynamisch energiecontract, en dan financieel beperkt. In onze modelberekening levert een batterij van 5 kWh die dagelijks één cyclus maakt €120 tot €315 per jaar op. Dat komt doordat arbitrage alleen verdient op het beursdeel van de prijs: de energiebelasting van €0,11085 per kWh inclusief btw betaal je in elk uur, ook in een uur met een negatieve beursprijs. Zonder dynamisch contract is de besparing nul.'
 - q: Wat is een dynamisch energiecontract?
   a: 'Bij een dynamisch energiecontract betaal je per uur de actuele groothandelsprijs (EPEX-spotprijs) plus een vaste opslag van de leverancier. De prijs varieert sterk: ''s nachts en bij veel wind/zon is stroom soms bijna gratis of zelfs negatief geprijsd; in de avondspits is hij het duurst.'
 - q: Wat verdien je terug met een thuisbatterij zonder zonnepanelen?
-  a: Bij een Sessy (5 kWh, ca. €4.200) en een dynamisch contract is de jaarlijkse besparing €300-€600 afhankelijk van prijsvariatie. De terugverdientijd is daarmee 7-14 jaar. Dat is langer dan bij combinatie met zonnepanelen (5-9 jaar).
+  a: 'Reken met een investering van €3.550 voor een Sessy van 5 kWh (prijs van de fabrikant, inclusief btw en exclusief installatie) plus €400 tot €600 installatie, dus ongeveer €4.000. Tegen een modelopbrengst van €120 tot €315 per jaar is de terugverdientijd 13 tot 34 jaar — langer dan de levensduur van het systeem. Zonder zonnepanelen is dit dus geen investering die zichzelf terugbetaalt; met zonnepanelen erbij verandert dat beeld, omdat je dan ook vermeden inkoop tegen €0,26 per kWh meerekent.'
 - q: Welke thuisbatterij werkt het beste met een dynamisch contract?
-  a: De Sessy is specifiek ontworpen voor dynamische contracten — het algoritme koopt en verkoopt automatisch op EPEX-spotprijzen. Marstek heeft ook een dynamische ladingsstrategie. Systemen zoals Huawei Luna en Tesla Powerwall zijn minder geoptimaliseerd voor pure spotmarkt-arbitrage.
+  a: 'De Sessy heeft een modus die op de dag-vooruitprijzen stuurt, wat voor dit doel logisch is. Let wel op het vermogen: laden gaat met 2,2 kW en ontladen met 1,7 kW, dus je hebt twee tot drie aaneengesloten goedkope uren nodig om 5 kWh vol te krijgen, en je kunt in de avondpiek maximaal 1,7 kW afdekken. Marstek biedt eveneens een dynamische laadstrategie. Vergelijk vooral op vermogen en op de vraag of het systeem de uurprijzen van jóuw leverancier kan uitlezen.'
 - q: Wat zijn de beste dynamische energieproviders in Nederland?
-  a: De bekendste zijn Tibber, ANWB Energie (dynamisch), Zonneplan en ENGIE. Tibber heeft een actieve community en apps voor thuisbatterij-integratie. ANWB Energie heeft soms gunstigere vaste opslagen. Vergelijk altijd de totale jaarverwachting, niet alleen de opslag per kWh.
+  a: 'Vergelijk op drie getallen: de vaste kosten per maand, de inkoopvergoeding per kWh en eventuele terugleverkosten. Tibber publiceert de eerste twee volledig: €5,99 per maand per energiesoort en €0,0248 per kWh, maandelijks opzegbaar. ANWB Energie rekent €0,018 per kWh inkoopkosten. Frank Energie publiceert zijn vaste kosten niet en hanteert sinds 1 juni 2025 een terugleverstaffel. Vergelijk de totale jaarverwachting, niet alleen de opslag per kWh — onze eigen vergelijking staat op /dynamisch-energiecontract-vergelijken/.'
 - q: Kan ik terugleveren aan het net met een thuisbatterij zonder zonnepanelen?
   a: Technisch gezien kun je ontladen naar het net (arbitrage), maar dat is juridisch ingewikkeld in Nederland. Feedin (terugleveren zonder eigen opwekking) is niet standaard toegestaan voor particulieren. De meeste batterijsystemen ontladen alleen voor eigen gebruik, niet voor teruglevering zonder zonnepanelen.
 - q: Zijn er negatieve uren bij dynamische contracten waarbij stroom gratis is?
-  a: Ja. In 2025 waren er in Nederland ruim 180 uren met een negatieve EPEX-spotprijs, voornamelijk in de zomer bij veel zon en wind gecombineerd met laag verbruik. Bij een dynamisch contract betaal je dan niets of ontvang je zelfs een kleine vergoeding per kWh. Een thuisbatterij laadt automatisch in die uren.
+  a: 'Negatieve uren bestaan — in 2025 waren er in Nederland 212 uren met een negatieve EPEX day-ahead-prijs — maar gratis laden is een misvatting. De energiebelasting van €0,09161 per kWh, met btw €0,11085, betaal je in élk uur, ongeacht de beursprijs. Een negatief uur is dus goedkoper dan een gemiddeld uur, niet kosteloos. Reken op een voordeel in de orde van €0,19 per kWh ten opzichte van het jaargemiddelde van €0,105, niet op nul.'
 - q: Wat verandert er in 2027 dat relevant is voor thuisbatterijen?
-  a: De salderingsregeling wordt in 2027 volledig afgebouwd. Voor huishoudens zonder zonnepanelen heeft dat geen directe impact. Maar het maakt thuisbatterijen interessanter voor de bredere markt, wat kan leiden tot lagere prijzen. Verwacht wordt dat thuisbatterijprijzen in 2027-2028 verder dalen door schaalvoordelen.
-products:
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '4499'
-- name: Marstek thuisbatterij
-  url: https://go.duurzaamthuislab.nl/marstek
-  price: '3999'
-- name: Tibber dynamisch energiecontract
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: variabel
+  a: 'De salderingsregeling stopt per 1 januari 2027 volledig — niet stapsgewijs en zonder afbouwpad. Voor huishoudens zonder zonnepanelen verandert dat niets: saldering gold alleen voor teruglevering van zelf opgewekte stroom. Voor huishoudens mét panelen is het wél de kern van de zaak, omdat zelfverbruik dan pas echt gaat lonen. Over toekomstige batterijprijzen doen wij geen voorspelling.'
 schema_type: Article
 ---
-"Ik heb geen zonnepanelen en ga die ook niet nemen — mijn dak ligt op het noorden. Heeft een thuisbatterij dan nog zin?" Het is een van de meestgestelde vragen over thuisbatterijen, en het antwoord is: ja, maar met een kanttekening die zwaar weegt.
+"Ik heb geen zonnepanelen en ga die ook niet nemen — mijn dak ligt op het noorden. Heeft een thuisbatterij dan nog zin?" Het is een van de meestgestelde vragen over thuisbatterijen. Het antwoord: technisch werkt het, financieel valt het in onze doorrekening niet uit.
 
-In dit artikel rekenen we door wat je kunt verwachten, welke batterijen het beste werken zonder zonnepanelen, en of het financieel verstandig is om nu te investeren of te wachten. De cijfers komen uit publieke EPEX-marktdata, leveranciersvoorwaarden en fabrieksspecificaties; de rekenvoorbeelden zijn modelberekeningen met vermelde aannames.
+In dit artikel rekenen we door wat je kunt verwachten, welke batterijen het beste werken zonder zonnepanelen, en waar je je geld beter aan besteedt als rendement je doel is. De cijfers komen uit publieke EPEX-marktdata, leveranciersvoorwaarden en fabrieksspecificaties; de rekenvoorbeelden zijn modelberekeningen met vermelde aannames.
 
 *Disclosure: de links naar Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 
 
-> **Kort antwoord:** Heeft een thuisbatterij zonder zonnepanelen zin in 2027? Met een dynamisch energiecontract en slimme thuisbatterij kun je toch besparen op je energierekening.
->
-> Ja, mits je een dynamisch energiecontract hebt. Door 's nachts of op spotmarkt-laagtepunten goedkoop te laden en te ontladen op dure uren, bespaar je €200-€600 per jaar afhankelijk van je verbruik en de marktvariatie. Zonder dynamisch contract is de besparing minimaal.
+> **Kort antwoord:** Alleen met een dynamisch energiecontract, en dan financieel beperkt. In onze modelberekening levert een batterij van 5 kWh die dagelijks één cyclus maakt €120 tot €315 per jaar op — tegenover een investering van ongeveer €4.000. Zonder dynamisch contract is de besparing nul.
 
 ## Het fundamentele principe: arbitrage
 
@@ -78,38 +66,46 @@ In de traditionele energiemarkt werkt dit niet, omdat je bij een vast of variabe
 
 ## Hoe groot is de prijsvariatie in de praktijk?
 
-In 2025 was de gemiddelde EPEX-spotprijs in Nederland circa €0,08-€0,12 per kWh (exclusief belastingen en opslag leverancier). Maar dat gemiddelde verbergt een enorme spreiding:
+Over heel 2025 lag de gemiddelde EPEX day-ahead-prijs in Nederland op **€0,105 per kWh** (exclusief belastingen en de opslag van je leverancier). Dat gemiddelde verbergt een grote spreiding. Twee harde ijkpunten uit dat jaar: er waren **212 uren met een negatieve prijs**, en het duurste uur was **€0,63 op 20 januari 2025 om 17:00**.
 
-| Situatie | Typische EPEX-prijs (2025) |
+| Situatie | Indicatie EPEX-prijs (2025) |
 |----------|--------------------------|
-| Nacht (2-6 uur) | €0,02-€0,06/kWh |
-| Avondspits (17-21 uur winter) | €0,15-€0,35/kWh |
-| Windpiek (veel aanbod) | €0,00-€0,03/kWh |
-| Negatieve uren | -€0,05 tot -€0,20/kWh |
-| Hoge vraag + weinig aanbod | €0,40-€0,80/kWh (piekuren) |
+| Jaargemiddelde | €0,105/kWh |
+| Nacht en windpieken | rond of onder €0,05/kWh |
+| Avondspits winter | €0,15-€0,30/kWh |
+| Negatieve uren (212 in 2025) | onder €0,00/kWh |
+| Duurste uur van 2025 | €0,63/kWh (20 januari, 17:00) |
 
-Het verschil tussen het goedkoopste en duurste uur is gemiddeld **€0,15-€0,25 per kWh**. Met een batterij van 5 kWh die dagelijks de cyclus goedkoop laden / duur gebruiken voltrekt, is de potentiële besparing per dag **€0,75-€1,25**.
+Nu de rekenval waar de meeste artikelen over dit onderwerp in trappen. Arbitrage verdient **alleen op het beursdeel** van je prijs. De energiebelasting van €0,09161 per kWh (€0,11085 inclusief btw) betaal je in elk uur van het jaar, of de beursprijs nu €0,63 of −€0,05 is. Netbeheerkosten zijn een vast jaarbedrag en spelen al helemaal geen rol. Wat je wint is dus: het prijsverschil op de beurs, plus 21% btw daarover, minus het omzetverlies van de batterij.
 
-Per jaar: **€270-€450 zuiver op arbitrage**, vóór de vaste kosten van de leverancier.
+**Modelberekening.** Aannames: een bruikbare capaciteit van 5 kWh, één volledige cyclus per dag, een rendement van 90% en een dagelijkse beursspreiding tussen laden en ontladen van €0,08 tot €0,18 per kWh (een aanname — de werkelijke spreiding verschilt per dag en per seizoen).
+
+| Scenario | Spreiding op de beurs | Opbrengst per cyclus | Cycli/jaar | Opbrengst per jaar |
+|---|---|---|---|---|
+| Vlakke markt | €0,08/kWh | €0,44 | 280 | **±€120** |
+| Gemiddeld | €0,12/kWh | €0,65 | 300 | **±€195** |
+| Volatiele markt | €0,18/kWh | €0,98 | 320 | **±€315** |
+
+Per jaar dus **€120 tot €315 zuiver op arbitrage**, vóór de vaste kosten van je leverancier. Dat is een stuk minder dan de bedragen die je elders leest, en het verschil zit vrijwel volledig in die energiebelasting die in elk uur gelijk is.
 
 ---
 
 ## Wat verandert er in 2027?
 
-De vraag in de titel verwijst naar 2027, het jaar dat de salderingsregeling wordt afgebouwd. Voor huishoudens **zonder** zonnepanelen heeft die afbouw geen directe invloed — de salderingsregeling gold alleen voor teruglevering van zelf opgewekte stroom.
+De vraag in de titel verwijst naar 2027, het jaar dat de salderingsregeling **volledig stopt** — per 1 januari, in één keer, zonder afbouwpad. Voor huishoudens **zonder** zonnepanelen heeft dat geen directe invloed: saldering gold alleen voor teruglevering van zelf opgewekte stroom.
 
 Maar 2027 markeert wel een bredere energietransitie:
 
 **1. Meer dynamische contracten**
-Naarmate meer huishoudens een slimme meter hebben (in 2026 heeft circa 80% van de Nederlandse huishoudens een slimme meter), zullen dynamische contracten gangbaarder worden. Meer concurrentie betekent betere opslagtarieven.
+Ruim 90% van de Nederlandse huishoudens heeft inmiddels een slimme meter, dus de technische voorwaarde is voor bijna iedereen vervuld. Of dat tot gunstigere inkoopvergoedingen leidt, valt niet te voorspellen.
 
 **2. Grotere prijsvariatie**
-Meer zonne- en windenergie op het net leidt tot meer uren met overschot (goedkoop) en meer uren met tekort (duur). Dat vergroot de arbitrage-mogelijkheden voor thuisbatterijen.
+Meer zonne- en windenergie op het net leidt tot meer uren met overschot en meer uren met tekort. Dat de spreiding daardoor toeneemt, is een redelijke verwachting — hoeveel, weten wij niet, en de arbitragewaarde hangt daar direct van af.
 
-**3. Lagere batterijprijzen**
-De prijs van lithium-ijzerfosfaat (LiFePO4) batterijen daalt structureel. In 2022 kostte een thuisbatterij nog €1.000-€1.400 per kWh; in 2026 is dat €750-€900 per kWh. Verwacht wordt dat dit in 2028-2030 daalt naar €500-€600 per kWh.
+**3. Batterijprijzen**
+Als ijkpunt voor vandaag: Sessy vraagt €3.550 voor 5 kWh en €5.500 voor 10 kWh, inclusief btw en exclusief installatie. Dat is respectievelijk €710 en €550 per kWh. Dat prijzen per kWh de afgelopen jaren zijn gedaald, is zichtbaar; waar ze in 2028 staan, voorspellen wij niet — en een investeringsbesluit uitstellen op een prijsdaling die wij niet kunnen onderbouwen, is geen advies dat wij geven.
 
-Dat betekent: wachten op 2028 met een thuisbatterijinvestering kan slim zijn als je de besparing meeneemt in je beslissing.
+Wat je er wél uit kunt halen: 10 kWh is per kWh goedkoper dan 5 kWh, maar zonder zonnepanelen heb je die extra capaciteit alleen nodig als je verbruik in de dure uren groot genoeg is om hem dagelijks leeg te maken.
 
 ---
 
@@ -126,15 +122,18 @@ De Sessy is het meest besproken product in dit segment. Het Nederlandse bedrijf 
 - Het algoritme bepaalt automatisch de optimale laad- en ontlaadmomenten
 - Je hoeft niets handmatig in te stellen — het systeem optimaliseert zichzelf
 
-**Capaciteit:** 5 kWh
-**Vermogen:** 3,68 kW (continu)
-**Prijs:** ca. €4.200-€4.499 inclusief installatie (richtprijs 2026)
-**Garantie:** 7 jaar
+**Capaciteit:** 5 kWh (er zijn ook uitvoeringen van 10 kWh en een Plus van 15 kWh)
+**Vermogen:** 2,2 kW laden / 1,7 kW ontladen
+**Prijs:** €3.550 voor 5 kWh, €5.500 voor 10 kWh, €9.400 voor de Plus van 15 kWh — inclusief btw, **exclusief installatie**. Wil je de noodstroomfunctie, dan komt daar een basisinstallatie van €1.200 bij
+**Levensduur:** 6.000+ cycli volgens de fabrikant
+**Modi:** zelfverbruik, dynamisch, onbalans en congestiepreventie
+
+**Let op dat laad- en ontlaadvermogen.** Met 2,2 kW laden duurt een volle cyclus van 5 kWh ruim twee uur, dus je hebt twee tot drie aaneengesloten goedkope uren nodig. En met 1,7 kW ontladen dek je in de avondpiek niet je hele huis af: een waterkoker, oven of inductieplaat vraagt meer, dus dat verschil koop je alsnog tegen de piekprijs in. Voor arbitrage is dat geen probleem — je haalt je cyclus rond — maar het maakt de belofte "je koopt in de avond niets meer in" onjuist.
 
 **Wat gebruikers zonder zonnepanelen melden:**
-In gebruikersforums en reviews worden bij actief gebruik met een dynamisch contract besparingen genoemd in de orde van €300 tot €550 per jaar. In periodes met weinig prijsvariatie zakt dat naar €200 tot €300. Dit zijn door gebruikers zelf opgegeven bedragen; ze zijn niet onafhankelijk gecontroleerd en sterk afhankelijk van verbruik en marktjaar.
+In gebruikersforums en reviews worden besparingen genoemd die uiteenlopen van €200 tot €550 per jaar. Dit zijn door gebruikers zelf opgegeven bedragen; ze zijn niet onafhankelijk gecontroleerd en sterk afhankelijk van verbruik en marktjaar. Onze eigen modelberekening hierboven komt met expliciete aannames lager uit, op €120 tot €315 — houd er rekening mee dat zelf gerapporteerde bedragen zelden alle kosten meenemen.
 
-**Ons redactionele oordeel:** De Sessy is de meest logische keuze als je geen zonnepanelen hebt en een dynamisch contract wil afsluiten. Het systeem is specifiek voor dit doel gebouwd.
+**Ons redactionele oordeel:** de Sessy is van de hier genoemde systemen het meest op dynamische tarieven toegesneden, en de fabrikant is transparant over zijn prijzen. Dat maakt hem tot een logische kandidaat — het maakt de investering zonder zonnepanelen niet rendabel.
 
 [Bekijk de Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy)
 
@@ -142,19 +141,13 @@ In gebruikersforums en reviews worden bij actief gebruik met een dynamisch contr
 
 ### Marstek: goedkopere concurrent met vergelijkbare strategie
 
-Marstek is een relatief nieuw merk op de Nederlandse markt (Chinees, maar met Europese certificering). De Marstek B5000 en vergelijkbare modellen zijn goedkoper dan de Sessy maar bieden een vergelijkbare dynamische laadstrategie.
+Marstek is een relatief nieuw merk op de Nederlandse markt (Chinees, met Europese certificering) en positioneert zich onder de Sessy. Twee dingen om scherp te houden.
 
-**Capaciteit:** 5 kWh
-**Prijs:** ca. €3.500-€4.000 inclusief installatie
-**Garantie:** 5 jaar
+**Kijk naar de juiste modellen.** De huidige lijn bestaat uit de Mini 2, de E 4.0 (5 kWh) en de E MAX (10 kWh). De Venus-serie en de B5000 zijn de vórige generatie; kom je die nog tegen in een aanbieding, dan koop je een uitgaand model.
 
-**Verschil met Sessy:**
-- Goedkoper in aanschaf
-- Kortere garantie (5 vs. 7 jaar)
-- Minder volwassen software — de integratie met EPEX is minder geraffineerd
-- Kleinere community = minder gebruikerservaringen beschikbaar
+**Er is geen publieke consumentenprijs.** Marstek publiceert voor deze thuisbatterijen zelf geen prijs — het enige bedrag dat het merk wél openbaar maakt, is €599 voor de Jupiter C Plus. Bedragen die je online tegenkomt, komen dus van wederverkopers en lopen uiteen. Wij noemen hier daarom geen prijs, en een prijsvergelijking met de Sessy kunnen wij niet onderbouwd maken. Let daarnaast op twee praktische punten: de Nederlandse webshop staat op het moment van schrijven als "coming soon", en de garantie vervalt buiten het land van aankoop — bij aankoop via een buitenlandse shop sta je er dus alleen voor.
 
-**Ons redactionele oordeel:** Interessant als je de Sessy te duur vindt en bereid bent iets meer zelf te monitoren. Voor de meeste mensen is het prijsverschil van €300-€500 de verminderde software-kwaliteit niet waard, maar het is een legitieme optie.
+**Ons redactionele oordeel:** mogelijk een goedkoper alternatief, maar zolang de prijs en de garantieroute in Nederland niet vaststaan, kunnen wij er geen aanbeveling op bouwen. Vraag een prijs op inclusief installatie én de garantievoorwaarden voor Nederland, en leg die naast de €3.550 van de Sessy.
 
 [Bekijk de Marstek thuisbatterij](https://go.duurzaamthuislab.nl/marstek)
 
@@ -170,9 +163,11 @@ Een thuisbatterij voor arbitrage is zinloos zonder een dynamisch energiecontract
 - Community-forum met gedeelde ladingsstrategieën
 - Tibber Pulse: een P1-slimme-meter-reader die realtime data naar de app stuurt
 
-**Vaste opslag Tibber (2026):** circa €0,03-€0,05/kWh bovenop de EPEX-prijs, plus maandelijkse abonnementskosten.
+**Kosten Tibber:** €5,99 per maand **per energiesoort** — heb je stroom én gas, dan betaal je dat dus twee keer — plus een inkoopvergoeding van **€0,0248 per kWh** bovenop de beursprijs. Het contract is maandelijks opzegbaar. De prijs van de Tibber Pulse is niet publiek; vraag die op voordat je hem meerekent.
 
-**Let op:** Bij dynamische contracten is de totale energieprijs onzeker. In een duur jaar (koud, weinig wind) zijn je energiekosten hoger dan bij een vast contract. Dinamische contracten lonen het meest als je actief en bewust energie stuurt.
+Reken die vaste kosten mee in je arbitragesom: alleen stroom is €71,88 per jaar. Bij een modelopbrengst van €195 per jaar houd je daar €123 van over, en dat is precies waarom dit verhaal zonder zonnepanelen zo krap is.
+
+**Let op:** bij een dynamisch contract is de totale energieprijs onzeker. In een duur jaar — koud en weinig wind — ben je duurder uit dan bij een vast contract. Dynamische contracten lonen het meest als je actief en bewust energie stuurt.
 
 [Bekijk Tibber dynamisch contract](https://go.duurzaamthuislab.nl/tibber)
 
@@ -180,37 +175,41 @@ Een thuisbatterij voor arbitrage is zinloos zonder een dynamisch energiecontract
 
 ## De rekensom: is het rendabel?
 
-Laten we een concrete situatie doorrekenen: een huishouden zonder zonnepanelen, jaarverbruik 3.500 kWh, dynamisch contract bij Tibber, Sessy thuisbatterij.
+Een **modelberekening** voor een huishouden zonder zonnepanelen: jaarverbruik 3.500 kWh, dynamisch contract, Sessy van 5 kWh. Aannames zoals hierboven: één cyclus per dag, 90% rendement, beursspreiding €0,08-€0,18 per kWh, en de vaste contractkosten van €5,99 per maand voor stroom.
 
-### Aanschafkosten Sessy
+### Aanschafkosten
 
 | Post | Kosten |
 |------|--------|
-| Sessy thuisbatterij | €3.999 |
+| Sessy thuisbatterij 5 kWh (fabrieksprijs, incl. btw, excl. installatie) | €3.550 |
 | Installatie | €400-€600 |
-| **Totaal investering** | **€4.400-€4.600** |
+| **Totaal investering** | **€3.950-€4.150** |
 
-### Jaarlijkse besparing (scenario's)
+Er is geen subsidie: de ISDE dekt geen thuisbatterijen, en op een batterij geldt 21% btw — het nultarief voor zonnepanelen strekt zich niet uit tot accupakketten.
 
-| Scenario | Jaarlijkse besparing |
-|----------|---------------------|
-| Laag (weinig prijsvariatie) | €250-€300 |
-| Gemiddeld | €350-€500 |
-| Hoog (actieve markt, koude winter) | €550-€750 |
+### Jaarlijkse opbrengst, na aftrek van de vaste contractkosten
 
-### Terugverdientijd
+| Scenario | Arbitrage bruto | Vaste kosten | Netto per jaar |
+|----------|---|---|---|
+| Vlakke markt | €120 | −€72 | **€48** |
+| Gemiddeld | €195 | −€72 | **€123** |
+| Volatiele markt | €315 | −€72 | **€243** |
 
-| Scenario | Terugverdientijd |
-|----------|-----------------|
-| Laag | 15-18 jaar |
-| Gemiddeld | 9-13 jaar |
-| Hoog | 6-8 jaar |
+Hier moet één ding bij: die vaste kosten betaal je ook zonder batterij, dus of je ze aan de batterij mag toerekenen, hangt ervan af of je het dynamische contract puur voor de batterij afsluit. Doe je dat toch al, reken dan met de brutokolom.
 
-De Sessy heeft een garantie van 7 jaar en een verwachte levensduur van 10-12 jaar. In het gemiddelde scenario verdien je de investering terug in 9-13 jaar — dat is aan het eind van de levensduur, of zelfs daarna.
+### Terugverdientijd (op €4.050 gemiddelde investering)
 
-**Eerlijke conclusie: financieel gezien is een thuisbatterij zonder zonnepanelen risicovol.**
+| Scenario | Op arbitrage bruto | Inclusief de vaste contractkosten |
+|----------|---|---|
+| Vlakke markt | 34 jaar | ruim 80 jaar |
+| Gemiddeld | 21 jaar | 33 jaar |
+| Volatiele markt | 13 jaar | 17 jaar |
 
-De terugverdientijd is lang, de onzekerheid over toekomstige energieprijzen en marktdynamiek is groot, en de technologie wordt over 3-5 jaar goedkoper.
+De fabrikant geeft 6.000+ cycli op, wat bij één cyclus per dag op ruim zestien jaar neerkomt. **In geen van de drie scenario's wordt de investering binnen die technische levensduur terugverdiend.**
+
+**Eerlijke conclusie: zonder zonnepanelen betaalt een thuisbatterij zich in dit model niet terug.**
+
+Dat is een scherpere uitkomst dan je elders leest, en het verschil komt uit twee correcties: arbitrage verdient alleen op het beursdeel van de prijs, niet op de energiebelasting die in elk uur gelijk is, en het laad- en ontlaadvermogen van 2,2 respectievelijk 1,7 kW beperkt wat je per dag kunt verzetten. Wie een batterij op deze grond koopt, koopt hem om andere redenen dan rendement — en dat kan een geldige keuze zijn, zie de volgende paragraaf.
 
 ---
 
@@ -236,17 +235,16 @@ Als je binnenkort toch zonnepanelen overweegt, of als je je huis binnenkort gaat
 
 ---
 
-## Ons advies: wacht nog twee jaar
+## Ons advies: zet je geld eerst elders in
 
-Heb je geen zonnepanelen en overweeg je een thuisbatterij, dan is ons redactionele advies: **wacht nog twee jaar**.
+Heb je geen zonnepanelen en overweeg je een thuisbatterij puur voor arbitrage, dan is ons redactionele advies: **doe eerst de maatregelen die zich wél terugbetalen.**
 
-De redenen:
-1. **Prijzen dalen nog.** In 2028-2029 verwachten analisten een prijsdaling van 20-30% per kWh batterijcapaciteit. Een Sessy-equivalent gaat dan wellicht €3.000-€3.500 kosten.
-2. **De marktdynamiek wordt groter.** Meer wind- en zonne-energie op het net = meer variatie = hogere arbitrage-mogelijkheden.
-3. **Software wordt beter.** De laadsoftware van zowel Sessy als Marstek is in actieve ontwikkeling. Wachten twee jaar betekent profiteren van verbeterde algoritmes.
-4. **Combineer met andere maatregelen.** Isoleer eerst, pas daarna een warmtepomp of batterij toe. De volgorde maakt uit voor de totale terugverdientijd.
+1. **Isolatie gaat voor.** Dakisolatie en glas hebben een terugverdientijd in de orde van zes tot negen jaar — een factor drie beter dan de batterij in het model hierboven.
+2. **Zonnepanelen, als je dak het toelaat.** Zij zijn precies wat er in dit verhaal ontbreekt: ze geven je opgeslagen kWh's een waarde van €0,26 aan vermeden inkoop in plaats van een spreiding van een paar cent.
+3. **Slim laden en slim verwarmen zijn goedkoper dan opslag.** Een laadpaal of warmtepomp die op de uurprijs meebeweegt, verschuift veel meer kWh's dan een batterij van 5 kWh, zonder dat je iets opslaat.
+4. **Wachten op een prijsdaling adviseren wij niet.** Dat batterijprijzen per kWh de afgelopen jaren zijn gedaald, is zichtbaar. Waar ze in 2028 staan, weten wij niet, en een aankoopbesluit uitstellen op een cijfer dat wij niet kunnen onderbouwen is geen advies.
 
-Zit je in een van de uitzonderingssituaties hierboven en wil je nu beginnen? Dan is de combinatie van een spotmarkt-geoptimaliseerde batterij (Sessy) met een dynamisch contract dat de uurprijzen transparant doorgeeft (Tibber) volgens onze analyse de meest logische keuze.
+Zit je in een van de uitzonderingssituaties hierboven en wil je nu beginnen? Dan is een batterij met een expliciete dynamische modus (zoals de Sessy) gecombineerd met een leverancier die de uurprijzen transparant doorgeeft de meest logische invulling — met de kanttekening dat het rendement dat wij hierboven berekenden, daarmee niet verandert.
 
 ---
 
@@ -254,13 +252,13 @@ Zit je in een van de uitzonderingssituaties hierboven en wil je nu beginnen? Dan
 
 | Vraag | Antwoord |
 |-------|---------|
-| Heeft een thuisbatterij zonder ZP zin? | Ja, maar beperkt |
+| Heeft een thuisbatterij zonder ZP zin? | Technisch ja, financieel nee |
 | Voorwaarde? | Dynamisch energiecontract vereist |
-| Beste batterij? | Sessy (spotmarkt-geoptimaliseerd) |
-| Beste contract? | Tibber of vergelijkbare dynamische aanbieder |
-| Jaarlijkse besparing? | €250-€600 afhankelijk van markt en verbruik |
-| Terugverdientijd? | 9-14 jaar (gemiddeld scenario) |
-| Ons advies? | Wacht 2 jaar tenzij bijzondere situatie |
+| Batterij met dynamische modus? | Sessy, €3.550 voor 5 kWh (excl. installatie) |
+| Waar vergelijk je leveranciers op? | Vaste kosten per maand, inkoopvergoeding per kWh, terugleverkosten |
+| Jaarlijkse opbrengst in ons model? | €120-€315 bruto arbitrage |
+| Terugverdientijd? | 13-34 jaar; buiten de opgegeven 6.000 cycli |
+| Ons advies? | Eerst isolatie en zonnepanelen; batterij alleen om niet-financiële redenen |
 
 Een thuisbatterij zonder zonnepanelen is geen no-brainer. Het is een product dat past bij een specifiek type gebruiker, een specifiek type woning en een specifiek type energiestrategie. Doe je huiswerk, reken je situatie door, en neem een beslissing op basis van jouw cijfers — niet op basis van enthousiaste sales-praatjes.
 
@@ -278,7 +276,7 @@ Een dynamisch contract is de sleutelfactor voor succes van een thuisbatterij zon
 Boven op de spotprijs rekent de leverancier een opslag voor zijn diensten. Dit varieert van €0,02/kWh tot €0,08/kWh. Bij een jaarverbruik van 3.500 kWh maakt dat een verschil van €70-€280 per jaar. Vergelijk dit getal altijd.
 
 **2. Vaste maandelijkse kosten**
-Sommige leveranciers rekenen een abonnementsfee (Tibber ca. €4-5/maand). Andere verwerken dat in de opslag per kWh. Voor laagverbruikers kan een hogere opslag per kWh uiteindelijk voordeliger zijn dan een hoge vaste fee.
+Tibber rekent €5,99 per maand **per energiesoort**: met stroom en gas is dat €11,98 per maand, oftewel bijna €144 per jaar. Andere leveranciers verwerken hun kosten (deels) in de vergoeding per kWh, en Frank Energie publiceert zijn vaste kosten helemaal niet. Voor laagverbruikers kan een hogere vergoeding per kWh uiteindelijk voordeliger zijn dan een hoge vaste fee — reken beide posten samen door op jouw verbruik.
 
 **3. Prognose-transparantie**
 Hoe makkelijk is het om de uurprijzen voor morgen te zien? Tibber toont die in de app. Bij andere leveranciers moet je soms naar externe sites (zoals ENTSO-E of energyzero.nl). Hoe makkelijker het inzicht, hoe beter je jouw batterij kunt laten optimaliseren.
@@ -287,31 +285,32 @@ Hoe makkelijk is het om de uurprijzen voor morgen te zien? Tibber toont die in d
 De Sessy en Marstek kunnen worden gekoppeld aan externe energiemanagement-systemen (Home Assistant, domotica). Een leverancier met een open API (Tibber heeft die) geeft meer mogelijkheden voor automatisering.
 
 **5. Slimme meter-vereiste**
-Dynamische contracten vereisen altijd een slimme meter (P1-poort). In 2026 heeft meer dan 80% van de Nederlandse huishoudens een slimme meter — maar controleer dit voordat je overstapt.
+Dynamische contracten vereisen altijd een slimme meter met werkende P1-poort. Ruim 90% van de Nederlandse huishoudens heeft er een — maar controleer dit voordat je overstapt.
 
-### Vergelijkingstabel dynamische contracten 2026
+### Wat wij van de tarieven wél en niet weten
 
-| Leverancier | Opslag per kWh | Vaste fee | API | Batterij-integratie |
-|-------------|--------------|-----------|-----|---------------------|
-| Tibber | €0,03-€0,04 | €4,95/mnd | Ja | Uitstekend |
-| ANWB Energie (dyn.) | €0,04-€0,06 | Nee | Beperkt | Matig |
-| Zonneplan | €0,03-€0,05 | Nee | Nee | Beperkt |
-| ENGIE Stroom & Zo | €0,04-€0,07 | Nee | Nee | Matig |
+| Leverancier | Inkoopvergoeding per kWh | Vaste kosten |
+|-------------|--------------|-----------|
+| Tibber | €0,0248 | €5,99/mnd **per energiesoort**, maandelijks opzegbaar |
+| ANWB Energie | €0,018 | niet door ons geverifieerd |
+| Frank Energie | inkoopvergoeding + terugleverstaffel (sinds 1-6-2025) | publiceert geen consumentenprijs |
 
-*Tarieven zijn indicatief voor 2026 en kunnen wijzigen. Vergelijk altijd actueel via Energievergelijk.nl of de leverancier zelf.*
+Wij zetten hier bewust geen leveranciers in de tabel waarvan wij de tarieven niet uit een publieke bron kunnen halen, en wij geven geen kolom "batterij-integratie" met een oordeel dat wij niet hebben getest. Een prijsplafond of dempingsmechanisme dat sommige aanbieders zou hebben, hebben wij niet kunnen verifiëren en noemen wij daarom niet.
+
+*Tarieven zijn een momentopname en kunnen wijzigen; controleer ze bij de leverancier zelf. Onze eigen vergelijking staat op [dynamisch energiecontract vergelijken](/dynamisch-energiecontract-vergelijken/).*
 
 ---
 
 ## De rol van negatieve stroomprijzen
 
-In 2025 waren er in Nederland **182 uren met een negatieve EPEX-spotprijs**. Dat wil zeggen: er was meer stroom op het net dan er verbruikt werd, voornamelijk op zonnige en winderige dagen in de lente en zomer.
+In 2025 waren er in Nederland **212 uren met een negatieve EPEX day-ahead-prijs**. Dat wil zeggen: er was meer stroom op het net dan er verbruikt werd, voornamelijk op zonnige en winderige dagen in de lente en zomer.
 
-Bij een dynamisch contract ontvang je in die uren geen stroom-factuur — je betaalt niets (of ontvangt zelfs een kleine vergoeding, afhankelijk van de opslag van je leverancier).
+**Belangrijk: negatieve beursprijs is niet hetzelfde als gratis stroom.** Dit is de meest voorkomende misvatting over dynamische contracten. Wat je in zo'n uur betaalt is de beursprijs (negatief) plus de inkoopvergoeding van je leverancier plus de energiebelasting van €0,09161 per kWh, en over het geheel 21% btw. Die energiebelasting is een vast bedrag per kWh dat in élk uur van het jaar geldt. Bij een beursprijs van −€0,05 kom je dus nog altijd op ongeveer €0,05 per kWh uit — laag, maar niet nul, en zeker niet negatief.
 
 **Wat doet een slimme thuisbatterij in die uren?**
-De batterij laadt volautomatisch op. Hij detecteert de spotprijs, ziet dat die negatief is, en trekt zo snel mogelijk stroom van het net. Zo laad je gratis — of zelfs met een kleine vergoeding.
+Die laadt automatisch: hij leest de uurprijzen voor de volgende dag in, ziet welke uren de goedkoopste zijn en vult daar. Let op het laadvermogen van 2,2 kW: een enkel negatief uur levert dus maximaal ongeveer 2,2 kWh op, niet een volle batterij.
 
-In 2025 waren er gemiddeld 3-4 negatieve uren per week in de zomerperiode. Dat is 12-16 gratis laadsessies per maand in de zomer. Bij een batterij van 5 kWh die dan volledig oplaadt: 5 kWh × 16 = 80 kWh gratis per maand. Dat is zo'n €20-€30 besparing per maand, of €60-€90 in de zomer.
+Wat is een negatief uur dan waard? Het verschil met het jaargemiddelde van €0,105 is ongeveer €0,155 per kWh op de beurs, met btw circa €0,19. Laad je in de zomer twaalf keer per maand 5 kWh in dergelijke uren, dan is dat 60 kWh × €0,19 ≈ **€11 per maand**, dus grofweg €35 over een zomer. Een reëel voordeel, maar een orde van grootte kleiner dan "gratis laden" suggereert.
 
 ---
 
@@ -340,7 +339,7 @@ Kleine apparaten, maar bij bewust gebruik te sturen naar goedkope uren. Sommige 
 Een dynamisch contract is geen vrijbrief voor lage energiekosten. Er zijn situaties waarbij je duurder uit bent dan bij een vast contract.
 
 **Risico 1: Koude winter met weinig wind**
-In een strenge winter met weinig wind en veel vraag stijgen de EPEX-prijzen sterk. In februari 2024 lagen de EPEX-prijzen in Nederland op piekmomenten boven €0,50/kWh. Als je geen goede batterijbuffer hebt, betaal je tijdens de avondspits veel.
+In een strenge winter met weinig wind en veel vraag stijgen de beursprijzen sterk. Het duurste uur van 2025 was €0,63 per kWh, op 20 januari om 17:00 — en dat is dan nog exclusief inkoopvergoeding, energiebelasting en btw. Met een batterij van 1,7 kW ontlaadvermogen dek je zo'n uur maar deels af.
 
 **Risico 2: Vlakke markt**
 Als de prijsvariatie tussen uren klein is (€0,05-€0,10 verschil), is er weinig te arbitreren. In periodes met stabiele vraag en stabiel aanbod is de meerwaarde van een dynamisch contract beperkt.
@@ -363,8 +362,8 @@ Gebruik deze checklist om je beslissing te onderbouwen:
 
 **Financieel:**
 - [ ] Je jaarverbruik is minimaal 2.500 kWh (lager = minder arbitrage-mogelijkheden)
-- [ ] Je hebt budget voor de investering (€3.500-€5.000)
-- [ ] Je accepteert een terugverdientijd van 8-14 jaar
+- [ ] Je hebt budget voor de investering (€3.950-€4.150 voor een Sessy van 5 kWh inclusief installatie)
+- [ ] Je accepteert dat de investering zich in ons model niet binnen de technische levensduur terugbetaalt
 
 **Gedragsmatig:**
 - [ ] Je bent bereid een dynamisch energiecontract te nemen
@@ -413,7 +412,7 @@ Een winter met veel koude, windstille dagen levert forse avondpieken op en dus v
 **Factor 3: heb je andere flexibele verbruikers?**
 De sterkste combinatie is een batterij naast een warmtepomp of een elektrische auto. Dan kun je op goedkope uren niet alleen de batterij vullen, maar ook warmte of laadenergie inkopen — en dan draait de investering niet meer alleen op het beperkte volume van 5 kWh per dag.
 
-**Wat dat samen betekent:** de bandbreedte van €250 tot €600 per jaar die je in reviews terugziet, is geen ruis maar een spectrum. Een huishouden met laag verbruik zonder warmtepomp zit aan de onderkant; een huishouden met hoog verbruik, een warmtepomp en een volatiele winter aan de bovenkant. Reken met de onderkant als je een besluit neemt — niet met de bovenkant.
+**Wat dat samen betekent:** de spreiding in gerapporteerde bedragen is geen ruis maar een spectrum. Een huishouden met laag verbruik zonder warmtepomp zit aan de onderkant, een huishouden met hoog verbruik, een warmtepomp en een volatiele winter aan de bovenkant. Onze eigen modelbandbreedte van €120 tot €315 per jaar volgt dezelfde logica en ligt lager dan de €250 tot €600 die je in reviews terugziet, omdat wij de energiebelasting per kWh en het beperkte laad- en ontlaadvermogen wél meerekenen. Reken met de onderkant als je een besluit neemt — niet met de bovenkant.
 
 ---
 
@@ -436,9 +435,9 @@ Dit klinkt technisch — en dat is het ook. Maar er is een grote community en ve
 
 ### Slimme laadpaal
 
-Als je een elektrische auto hebt, is een slimme laadpaal met dynamisch laden een waardevolle aanvulling. De auto laadt automatisch op de goedkoopste uren van de dag — vaak 's nachts tussen 2-6 uur. Bij een auto die 10.000 kWh per jaar verbruikt en een prijsverschil van €0,15/kWh, is de besparing al €1.500 per jaar.
+Als je een elektrische auto hebt, is een slimme laadpaal met dynamisch laden een waardevolle aanvulling. De auto laadt automatisch in de goedkoopste uren, vaak 's nachts. Reken het na met realistische cijfers: bij 15.000 km per jaar en 17 kWh per 100 km laad je ongeveer **2.550 kWh** per jaar. Verschuif je die van een gemiddeld uur naar een goedkoop uur, en neem je daarvoor een beursverschil van €0,08 per kWh aan (met btw ongeveer €0,10), dan kom je op **circa €250 per jaar**.
 
-Dat is meer besparing dan een thuisbatterij van 5 kWh ooit kan realiseren — voor minder investering (€800-€1.500 voor een slimme laadpaal).
+Dat is nog altijd meer dan de €120 tot €315 die een batterij van 5 kWh in ons model oplevert, en het vergt geen opslagverliezen — bij een investering van €800 tot €1.500 voor een slimme laadpaal. Dat is de reden dat wij slim laden vóór opslag zetten. De €1.500 per jaar die je hier en daar leest, veronderstelt een jaarverbruik van 10.000 kWh aan laadstroom; dat komt neer op zo'n 60.000 km per jaar en is voor vrijwel geen enkel huishouden een reëel uitgangspunt.
 
 **Onze prioriteitslijst:**
 1. Slimme laadpaal (als je EV rijdt) — hoogste rendement, laagste investering
@@ -453,11 +452,11 @@ Dat is meer besparing dan een thuisbatterij van 5 kWh ooit kan realiseren — vo
 
 Tot slot een blik vooruit. Want als je overweegt te wachten, is het goed te weten waarop je wacht.
 
-**Batterijprijzen dalen verder**
-De prijs van LiFePO4-cellen is de afgelopen vijf jaar met 50-60% gedaald. Analisten verwachten een verdere daling van 20-30% in de periode 2026-2030. Een Sessy-equivalent zou dan €2.800-€3.200 kunnen kosten.
+**Batterijprijzen**
+Dat de prijs per kWh de afgelopen jaren is gedaald, is zichtbaar in de markt. Concrete prijsvoorspellingen voor 2028-2030 laten wij weg: wij hebben er geen bron voor, en een aankoopbesluit uitstellen op zo'n cijfer is niet verantwoord. Het ijkpunt van vandaag: €3.550 voor 5 kWh en €5.500 voor 10 kWh bij Sessy, exclusief installatie.
 
-**Meer variatie in spotprijzen**
-Naarmate meer hernieuwbare energie op het net komt, neemt de variatie toe. Meer zonne-energie in de zomer = meer negatieve prijzen en meer winst voor batterijen. Het arbitrage-potentieel neemt toe.
+**Meer variatie in beursprijzen**
+Naarmate meer hernieuwbare energie op het net komt, is meer variatie een redelijke verwachting: in 2025 stond de teller op 212 negatieve uren. Meer variatie betekent meer arbitragewaarde per cyclus. Maar let op de rem die daar altijd op staat: de energiebelasting per kWh verandert niet mee, en je laad- en ontlaadvermogen bepaalt hoeveel van een goedkoop uur je kunt benutten.
 
 **Verbeterde software**
 De laadalgoritmes worden slimmer. Sommige systemen leren van jouw persoonlijke verbruikspatroon en optimaliseren daar specifiek op. Dat leidt tot hogere besparingen per kWh capaciteit.

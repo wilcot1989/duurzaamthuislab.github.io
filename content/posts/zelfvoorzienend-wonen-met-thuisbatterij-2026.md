@@ -1,7 +1,7 @@
 ---
 title: Zelfvoorzienend Wonen met Thuisbatterij 2026
 date: 2026-10-16 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
 description: "Hoe haalbaar is energie-autarkie in Nederland? Sessy, Tesla Powerwall en Marstek vergeleken. Rekenvoorbeeld 4-persoons gezin — 75% gemiddelde autarkie."
 categories:
@@ -28,11 +28,11 @@ faq:
 - q: Wat kost een autarkie-setup van 90% in Nederland?
   a: 'Reken op €18.000 tot €28.000: 6000-8000Wp zonnepanelen (€6.500-€9.000), 13,5-20 kWh thuisbatterij (€8.000-€14.000), slimme omvormer (€1.500-€2.500), EV-charger met overschot-laden (€800-€1.500) en installatie (€1.500-€2.500).'
 - q: Welke batterij is het beste voor maximale autarkie?
-  a: 'Voor zuivere autarkie-focus: Tesla Powerwall 3 (13,5 kWh, 5 kW continu) of stapelbare Marstek Venus (5-25 kWh modulair). Sessy is sterker in dynamisch handelen dan in pure autarkie. Combineer eventueel.'
+  a: 'Voor autarkie kijk je naar bruikbare capaciteit én vermogen. De Tesla Powerwall 3 (13,5 kWh, 5 kW continu) is daarin de sterkste eenheid, met een back-upgateway voor eilandbedrijf. Sessy is met 2,2 kW laden en 1,7 kW ontladen bewust bescheiden gedimensioneerd en daardoor meer geschikt voor gestuurd zelfverbruik dan voor het afdekken van piekvermogen. Van Marstek is de huidige lijn Mini 2, E 4.0 (5 kWh) en E MAX (10 kWh); die kunnen gestapeld worden, maar Marstek publiceert er geen consumentenprijs voor.'
 - q: Heeft volledige autarkie zin nu er terugleverkosten zijn?
-  a: 'Ja, terugleverkosten maken autarkie juist aantrekkelijker — elke kWh die je zelf verbruikt vermijdt zowel inkoopkosten als terugleverboete. Bij €0,15 inkoop + €0,12 terugleverkosten praat je over €0,27 per zelfverbruikte kWh.'
+  a: 'Terugleverkosten maken zelfverbruik inderdaad waardevoller: elke kWh die je zelf gebruikt, vermijdt zowel de inkoopprijs als de terugleverkosten. Wij rekenen met een all-in inkoopprijs van €0,26 per kWh; dát is de waarde van een zelfverbruikte kWh. Wat er aan terugleverkosten bovenop komt, verschilt sterk per leverancier en per staffel, dus daar noemen wij geen vast bedrag bij.'
 - q: Hoe werkt slim EV-laden bij overschot?
-  a: 'De EV-charger (bijv. Zaptec, Easee) communiceert met je omvormer of energiemanager. Zodra zonnepanelen meer produceren dan het huis verbruikt, gaat het overschot naar de auto. In zomer kun je zo 15-25 kWh/dag gratis laden — dat is 80-150 km gratis rijden.'
+  a: 'De EV-charger (bijvoorbeeld Zaptec of Easee) communiceert met je omvormer of energiemanager. Zodra de zonnepanelen meer produceren dan het huis verbruikt, gaat het overschot naar de auto. Op een goede zomerdag gaat het om 15-25 kWh, oftewel 80-150 km. Dat is niet "gratis": je vermijdt inkoop tegen €0,26 per kWh en je ziet af van de terugleververgoeding op diezelfde stroom. Het netto voordeel is dus het verschil tussen die twee, niet de volle prijs.'
 - q: Wat is het verschil tussen autarkie en zelfconsumptie?
   a: 'Zelfconsumptie = hoeveel van je opgewekte stroom je zelf direct gebruikt (zonder batterij meestal 30-35%, met batterij 65-85%). Autarkie = welk percentage van je totale verbruik je zelf opwekt + opslaat. Twee verschillende getallen die vaak door elkaar worden gebruikt.'
 - q: 'Hoeveel m² dak heb ik nodig voor 90% autarkie?'
@@ -40,29 +40,13 @@ faq:
 - q: 'Werkt autarkie ook met oost-west dak?'
   a: 'Ja, vaak zelfs beter voor zelfconsumptie omdat je opbrengst gespreid is over de dag. Totale jaaropbrengst is wel 10-15% lager dan zuid, maar autarkie-percentage komt vaak hoger uit.'
 - q: 'Mag ik mijn batterij zelf installeren?'
-  a: 'Nee. Sinds 2024 vereist elke thuisbatterij installatie door een gecertificeerd vakman (NEN1010-keuring + verzekeringseis). Wie het zelf doet, riskeert dekking van opstalverzekering te verliezen.'
+  a: 'Er bestaat geen wettelijke regel die installatie door een gecertificeerd vakman voorschrijft — die eis komt uit voorwaarden, niet uit wetgeving. Wat er wél speelt: een vaste batterij wordt op een eigen groep in de meterkast aangesloten en die installatie moet aan NEN 1010 voldoen, fabrikanten stellen installatie door een erkend installateur vaak als garantievoorwaarde, en opstalverzekeraars kunnen eisen stellen aan de installatie. Vraag die drie punten dus na bij fabrikant en verzekeraar. Stekkerbatterijen die op een gewoon stopcontact werken, vallen hier buiten.'
 - q: 'Hoe verhoudt autarkie zich tot een warmtepomp?'
-  a: 'Een warmtepomp is verreweg de grootste winterverbruiker. Zonder warmtepomp haal je makkelijker 85% autarkie. Met warmtepomp realistisch 70-75%. Toch is de combinatie superieur — je vervangt gas door eigen stroom.'
+  a: 'Een warmtepomp is verreweg de grootste winterverbruiker en drukt daarom je autarkiepercentage: zonder warmtepomp haal je makkelijker 85%, met warmtepomp is 70-75% realistischer. Maar dat percentage is niet het doel. Je vervangt met een warmtepomp gas door eigen stroom, en de gasrekening is de grootste post — met €1,10 per m³ all-in. Een lager autarkiepercentage mét warmtepomp kan financieel dus gunstiger zijn dan een hoger percentage zonder.'
 - q: 'Wat als de batterij stuk gaat na 8 jaar?'
-  a: 'Tesla, Sessy en Marstek geven 10 jaar garantie op 60-80% restcapaciteit. Marstek module-vervangen kost ~€2.000, Tesla Powerwall hele unit ±€8.000. Reken er voor de zekerheid op dat je in jaar 12-15 een vervanging hebt.'
+  a: 'Garantietermijnen en restcapaciteitsgaranties verschillen per fabrikant en per model; vraag de exacte voorwaarden op bij aanschaf en leg ze vast. Sessy geeft voor zijn systemen 6.000+ cycli op. Vervangingskosten na tien jaar zijn niet publiek te vinden, dus wij noemen er geen bedrag bij — neem in je berekening wél op dat een batterij een eindige levensduur heeft en dat er ooit een vervanging komt.'
 - q: 'Is salderen of autarkie beter na 2027?'
-  a: 'Saldering vervalt in 2027 stapsgewijs. Daarna is autarkie (= eigen opslag) de enige manier om panelen rendabel te houden. Wie nu zonnepanelen heeft zonder batterij gaat richting 2028-2029 zwaar inleveren.'
-products:
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
-- name: Marstek Venus E
-  url: https://go.duurzaamthuislab.nl/marstek
-  price: '2500'
-- name: Tesla Powerwall 3
-  url: https://go.duurzaamthuislab.nl/tesla-powerwall
-  price: '11000'
-- name: Zonneplan zonnepanelen
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '6995'
-- name: Tibber dynamisch
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '0'
+  a: 'Saldering stopt per 1 januari 2027 volledig — niet stapsgewijs en zonder afbouwpad. Tot die datum saldeer je nog voor 100%, en is een teruggeleverde kWh net zoveel waard als een kWh die je niet inkoopt. Daarna telt alleen zelfverbruik (waarde: de vermeden inkoopprijs van €0,26 per kWh) plus wat je leverancier voor teruglevering geeft. Dát is de reden dat opslag en slim verbruik na 2027 zwaarder wegen.'
 schema_type: Article
 last_updated: '2026-10-16'
 category: thuisbatterijen
@@ -106,17 +90,17 @@ Wil je een diepere kostenvergelijking per batterijtype, lees dan de [thuisbatter
 
 Niet elke thuisbatterij is even geschikt voor pure autarkie. De drie populairste in NL hebben elk hun karakter, en het verschil zit hem in hoe ze omgaan met zelfverbruik versus net-handelen.
 
-**Tesla Powerwall 3** is technisch de sterkste keuze voor autarkie. 13,5 kWh bruikbaar in één unit, 11,5 kW piekvermogen, 5 kW continu, en — cruciaal — een ingebouwde back-up gateway die je huis bij stroomuitval automatisch op eilandbedrijf zet. Dat is precies wat je wilt als je écht onafhankelijk wil voelen. Nadeel: prijs (€11.000+) en de Tesla-app is gesloten — geen open API voor home automation. Voor wie puur zoveel mogelijk zelf wil draaien, is de Powerwall het best afgestemde product.
+**Tesla Powerwall 3** is technisch de sterkste keuze voor autarkie. 13,5 kWh bruikbaar in één unit, 11,5 kW piekvermogen, 5 kW continu, en — cruciaal — een ingebouwde back-up gateway die je huis bij stroomuitval automatisch op eilandbedrijf zet. Dat is precies wat je wilt als je je écht onafhankelijk wil voelen. Nadelen: de app is gesloten, dus er is geen open API voor home automation, en de prijs is de hoogste van de drie. Een exact bedrag noemen wij niet — Tesla publiceert voor de Nederlandse markt geen vaste consumentenprijs inclusief installatie, dus vraag een offerte op. Voor wie zoveel mogelijk zelf wil draaien, is de Powerwall het best afgestemde product.
 
-**Sessy** is een andere filosofie. Standaard 5 kWh, schaalbaar door meerdere units, en de software is geoptimaliseerd voor dynamische tarieven — Sessy verdient geld door slim in en uit te kopen op de Tibber/Frank-spotmarkt. Dat is geweldig voor terugverdientijd, maar voor autarkie soms contraproductief: Sessy verkoopt jouw zomeroverschot soms door in plaats van het te bewaren voor 's avonds. Je kunt het instellen op "zelfverbruik-prioriteit", maar dan laat je rendement liggen. Lees [Sessy vs Marstek thuisbatterij 2026](/posts/sessy-vs-marstek-thuisbatterij-2026/) voor de detailcijfers.
+**Sessy** volgt een andere filosofie. Standaard 5 kWh, schaalbaar door meerdere units, met een modus die op de dag-vooruitprijzen stuurt. De fabrikant (Charged, uit Andelst) is open over zijn prijzen: €3.550 voor 5 kWh, €5.500 voor 10 kWh en €9.400 voor de Plus van 15 kWh, inclusief btw en exclusief installatie; wil je noodstroom, dan komt daar €1.200 basisinstallatie bij. Let voor autarkie op het vermogen: 2,2 kW laden en 1,7 kW ontladen. Dat is genoeg om je basislast 's avonds te dekken, maar niet om een oven of inductieplaat op te vangen — die pieken koop je alsnog in. Wie op dynamisch handelen instelt in plaats van op zelfverbruik, verkoopt bovendien overschot dat je 's avonds zelf had kunnen gebruiken; dat is een instelkeuze, geen defect. Lees [Sessy vs Marstek thuisbatterij 2026](/posts/sessy-vs-marstek-thuisbatterij-2026/) voor de detailcijfers.
 
-**Marstek Venus E** is de prijsbreker. €2.500 voor 5 kWh, stapelbaar tot 25 kWh. Geen ingebouwde back-up, geen automatisch eilandbedrijf, maar puur als "energie-opslag voor zelfverbruik" doet hij het uitstekend. Drie units = 15 kWh voor ±€7.500, ruim onder Tesla. Lees de uitgebreide [Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/) voor de volledige analyse.
+**Marstek** wordt vaak als prijsbreker genoemd, maar wij kunnen dat niet onderbouwen. Het merk publiceert voor zijn thuisbatterijen geen consumentenprijs — de enige prijs die het zelf openbaar maakt, is €599 voor de Jupiter C Plus. Bedragen die online circuleren komen van wederverkopers. Let daarnaast op de modellijn: actueel zijn de Mini 2, de E 4.0 (5 kWh) en de E MAX (10 kWh); Venus, Venus A, Venus E en B5000 zijn de vorige generatie. De Nederlandse webshop staat op het moment van schrijven als "coming soon", en de garantie vervalt buiten het land van aankoop — koop je via een buitenlandse shop, dan sta je er bij een defect alleen voor. Lees de uitgebreide [Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/) voor de achtergrond.
 
-Onze aanbeveling voor 90% autarkie: **Tesla Powerwall 3 als je het beste wilt en €11k+ niet erg vindt**. **Marstek-stack als je dezelfde kWh wilt voor de helft van het geld**, accepteer dat je geen back-up bij stroomuitval hebt. Sessy is een prima keus, maar dan eerlijk: voor handelsrendement, niet voor autarkie-puurheid. Voor een complete drieweg-vergelijking inclusief Huawei lees [Huawei LUNA vs Tesla Powerwall vs Sessy 2026](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/).
+Onze afweging voor maximale autarkie: **de Tesla Powerwall 3** is de sterkste eenheid als je 13,5 kWh in één unit wilt met eilandbedrijf bij netuitval, tegen de hoogste prijs en met een gesloten app. **De Sessy** is de enige van de drie waarvan de prijs, de capaciteitsstappen en het vermogen volledig publiek zijn, wat vergelijken mogelijk maakt — maar reken op meerdere units als je 13,5 kWh wilt, en op bescheiden vermogen. **Marstek** kan goedkoper uitvallen, maar zonder publieke prijs en met een garantie die aan het aankoopland hangt, kunnen wij er geen aanbeveling op bouwen: vraag een prijs inclusief installatie én de Nederlandse garantievoorwaarden op, en leg die naast de €3.550 van de Sessy. Voor een complete drieweg-vergelijking inclusief Huawei lees [Huawei LUNA vs Tesla Powerwall vs Sessy 2026](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/tesla-powerwall" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Tesla Powerwall 3</a>
+<a href="https://go.duurzaamthuislab.nl/tesla-powerwall" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tesla Powerwall 3</a>
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek Venus</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek</a>
 
 ## Maandelijkse autarkie-grafiek (jan t/m dec)
 
@@ -137,7 +121,7 @@ Hier wordt het concreet. Rekenvoorbeeld met de volgende aannames: 6.500 Wp aan p
 | November | 45% | Donker, weinig zon, hoog verbruik |
 | December | 30% | Diepste dip — 10% van zomeropbrengst, max verbruik |
 
-**Gemiddeld over het jaar: 75%.** Dat is met een goed afgestelde 6,5 kWp + 13,5 kWh setup. Wil je naar 85-90%? Dan moet je het systeem groter maken (8.000-10.000 Wp + 20 kWh batterij), en de meerinvestering verdient zich in NL nauwelijks terug — je betaalt €8.000 extra om in de zomer méér overschot te dumpen waar terugleverkosten op zitten.
+**Gemiddeld over het jaar: 75%.** Dat is met een goed afgestelde 6,5 kWp + 13,5 kWh setup. Wil je naar 85-90%? Dan moet het systeem groter (8.000-10.000 Wp + 20 kWh batterij), en die meerinvestering verdient zich in Nederland moeilijk terug. De reden is meetkundig: de extra capaciteit die je nodig hebt om december te dekken, staat de rest van het jaar grotendeels stil, en in de zomer levert hij overschot op dat na 2027 alleen nog de terugleververgoeding waard is — in ons model €0,07 per kWh in plaats van de €0,26 die zelfverbruik oplevert. Je betaalt dus volle prijs voor capaciteit die je op de goedkoopste kWh's afrekent.
 
 Daarom geldt: **75 procent is de sweet spot.** Daarboven daalt het rendement per geïnvesteerde euro hard.
 
@@ -145,7 +129,7 @@ Daarom geldt: **75 procent is de sweet spot.** Daarboven daalt het rendement per
 
 Een elektrische auto is feitelijk een tweede batterij van 50-80 kWh op wielen. Als je die slim integreert met je zonnepanelen, schiet je autarkie omhoog. Het principe: zodra je dak meer opwekt dan het huis verbruikt, gaat het overschot naar de auto in plaats van naar het net.
 
-In de praktijk werkt dat zo: je EV-charger (Zaptec Go, Easee Home, Wallbox Pulsar Plus) leest via P1-poort de momentaan opgewekte stroom af. Verbruikt het huis 500W en wekken de panelen 3.500W op? Dan laadt de auto met 13A — exact het verschil. Wolk over? Laadt terug naar 6A of pauzeert. Resultaat: in zomermaanden kun je 15-25 kWh per dag gratis naar je auto sluizen, ofwel 80-150 km rijden zonder een cent kosten.
+In de praktijk werkt dat zo: je EV-charger (Zaptec Go, Easee Home, Wallbox Pulsar Plus) leest via P1-poort de momentaan opgewekte stroom af. Verbruikt het huis 500W en wekken de panelen 3.500W op? Dan laadt de auto met 13A — exact het verschil. Wolk over? Laadt terug naar 6A of pauzeert. Resultaat: op een goede zomerdag sluis je 15-25 kWh naar je auto, ofwel 80-150 km. "Gratis" is dat niet — je vermijdt inkoop tegen €0,26 per kWh, maar je ziet op diezelfde kWh's de terugleververgoeding mis. Het netto voordeel is het verschil tussen die twee, en dat is precies waarom deze route na 2027 zoveel aantrekkelijker wordt: dan valt de saldering weg en zakt de waarde van teruglevering.
 
 Belangrijk: doe dit *na* je thuisbatterij in de prioriteitsketen. Eerst huis, dan batterij vol, dan auto. Anders laad je je auto vol terwijl je batterij leeg blijft en je 's avonds alsnog moet inkopen. De complete uitleg staat in [EV laden met thuisbatterij](/posts/ev-laden-met-thuisbatterij/) en voor de hardware-keuze [beste laadpaal thuis 2026](/posts/beste-laadpaal-thuis-2026/).
 
@@ -161,36 +145,39 @@ Hier zit de hele crux. December en januari zijn in NL een wiskundig onmogelijke 
 - **Verbruik piekt:** de warmtepomp draait 4 tot 6 uur per dag, de verlichting brandt lang, er wordt elektrisch gekookt — in het model komt het dagverbruik uit op 35 tot 45 kWh.
 - **Batterij is te klein:** 13,5 kWh bruikbaar dekt nog geen halve dag. En je kunt hem maar twee à drie keer per week vullen met zonneoverschot.
 
-Om dec/jan 100% zelf te dekken zou je nodig hebben: ~20.000 Wp zonnepanelen (vier daken) of een seizoensbatterij van 800+ kWh. Beide bestaan praktisch niet, en als het zou kunnen kost het €60.000-€100.000. Vergeleken met die ene kachelmaand bij de leverancier (€350-€500) is dat economisch onzin.
+Om dec/jan 100% zelf te dekken zou je nodig hebben: ~20.000 Wp zonnepanelen (vier daken) of een seizoensbatterij van 800+ kWh. Beide bestaan praktisch niet, en als het zou kunnen kost het €60.000-€100.000. Zet dat naast wat die twee maanden inkoop je werkelijk kosten: in het model hierboven koop je over het hele jaar 2.025 kWh in, en het grootste deel daarvan valt in december en januari. Tegen €0,26 per kWh is dat een paar honderd euro. Een investering van tienduizenden euro's om die post weg te nemen, is economisch onzin.
 
-Dus: accepteer dec/jan als "net-maand". Schakel je batterij dan op dynamische inkoop (lees [dynamisch contract met batterij rekenmodel 2026](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/)) en handel slim op nachtprijzen. Zo wordt zelfs je net-afhankelijke maand nog ongeveer 30% goedkoper dan een gewoon vast contract.
+Dus: accepteer dec/jan als "net-maand". Schakel je batterij dan op dynamische inkoop (lees [dynamisch contract met batterij rekenmodel 2026](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/)) en laad in de goedkope uren. Hoeveel dat scheelt, hangt af van de prijsspreiding in die weken; wat het in elk geval níet doet, is die maand gratis maken — de energiebelasting van €0,11085 per kWh inclusief btw betaal je in elk uur, ook in een uur met een negatieve beursprijs.
 
 ## Investering vs besparing: terugverdientijd
 
-Het hard gerekende stuk. Stel: €24.000 totale investering (panelen + batterij + EV-charger + installatie). Wat levert het op?
+Het hard gerekende stuk — en hier gaat het in de meeste artikelen over autarkie mis. De valkuil is dubbeltellen: het EV-verbruik zit al in het jaarverbruik van 8.100 kWh, dus je mag "EV-laden op eigen stroom" niet nóg een keer als aparte besparing opvoeren. Dat doen wij hieronder dus niet.
+
+**Aannames.** Investering €24.000 (het midden van de bandbreedte hierboven: panelen, batterij, EV-charger, energiemanager en installatie). Jaarverbruik 8.100 kWh, waarvan 2.200 kWh voor de auto. Jaarproductie 6.600 kWh. Autarkie 75%, dus 6.075 kWh van het verbruik komt uit eigen productie en opslag; 2.025 kWh koop je in en 525 kWh lever je terug. Stroom all-in €0,26 per kWh; terugleververgoeding een aangenomen €0,07 per kWh, want tarieven voor de periode na 2027 zijn nog niet gepubliceerd. Wij rekenen ná het einde van saldering: tot en met 2026 is een teruggeleverde kWh onder saldering nog de volle €0,26 waard, en zou de uitkomst dus gunstiger zijn.
 
 **Besparing per jaar:**
-- 6.000 kWh zelfverbruik à €0,27 (inkoop + vermeden terugleverkosten) = €1.620
-- 600 kWh overschot teruglevering à €0,03 (na kosten) = €18
-- EV-laden 4.000 kWh zelf opgewekt = €1.080 vermeden laadkosten
-- Dynamisch handelen batterij (gemiddeld €250/jaar)
-- **Totaal: ±€2.970 per jaar**
+- 6.075 kWh zelfverbruik × €0,26 vermeden inkoop = **€1.580**
+- 525 kWh teruglevering × €0,07 (aanname) = **€37**
+- Dynamisch handelen met de batterij in de winter, wanneer er geen zonoverschot is: geschat **€200** — een aanname, want dit hangt volledig af van de prijsspreiding in dat jaar
+- **Totaal: ongeveer €1.815 per jaar**
 
-Rijkssubsidie is hier €0: de ISDE dekt isolatie, ventilatie (i.c.m. isolatie), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — geen thuisbatterijen en geen zonnepanelen. Op de batterij geldt bovendien 21% btw; het nultarief voor panelen sluit accupakketten uit. Wel mogelijk: een gemeentelijke of provinciale batterijregeling van €300-€750, afhankelijk van waar je woont. Effectieve investering blijft in dit model dus €24.000 (of €23.250-€23.700 met een lokale regeling).
+Ter controle: zonder dit systeem koop je 8.100 kWh × €0,26 = €2.106 per jaar in. Met het systeem blijft er €527 aan inkoop over. Het verschil van €1.580 is precies de zelfverbruikpost hierboven — de som klopt dus rond, zonder dubbeltelling.
 
-**Terugverdientijd: €24.000 / €2.970 = 8,1 jaar.** Met onderhoud en wat batterij-degradatie reken op 8-9 jaar. Daarna draai je 15-17 jaar gratis op je systeem (panelen 25 jaar garantie, batterij 10-15 jaar).
+Rijkssubsidie is hier €0: de ISDE dekt isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — geen thuisbatterijen en geen zonnepanelen. Op de batterij geldt 21% btw; het nultarief voor panelen sluit accupakketten uit. Sommige gemeenten en provincies hebben een eigen batterijregeling; of die er is en hoe hoog, verschilt per woonplaats, dus wij rekenen er hier niet mee.
 
-Belangrijk: deze cijfers gelden alleen als je *na* het einde van saldering rekent. Wie nu al zonder saldering werkt (vanaf 2027), heeft een batterij echt nodig om panelen rendabel te houden. Lees [batterij na 2027 zonder zonnepanelen zin 2026](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/) en [beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) voor de details.
+**Terugverdientijd: €24.000 ÷ €1.815 = ongeveer 13 jaar.** Neem je onderhoud en batterijdegradatie mee, dan komt dat eerder op 13 tot 15 jaar uit. De panelen gaan daar ruim voorbij (25 jaar productgarantie), de batterij mogelijk niet — reken erop dat er binnen die periode een vervanging kan vallen, en dat die de terugverdientijd verder oprekt.
+
+Dat is aanmerkelijk langer dan de acht jaar die je in verkooppraatjes en in oudere versies van dit soort rekensommen tegenkomt. Het verschil zit vrijwel volledig in twee correcties: de auto-post niet dubbel tellen, en rekenen met een realistische inkoopprijs van €0,26 per kWh in plaats van €0,15. Wil je dit sneller terugverdienen, dan zit de winst niet in méér panelen of een grotere batterij, maar in het schrappen van de dure laatste procenten autarkie. Lees [batterij na 2027 zonder zonnepanelen zin 2026](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/) en [beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) voor de details.
 
 ## Nadelen: kosten, complexiteit, terugleverkosten
 
 Autarkie heeft serieuze nadelen die installateurs zelden noemen.
 
-**1. Hoge initiële investering.** €20k-€28k is geen kleinigheid. Voor veel mensen is dat de hypotheek-verbouwingsruimte. Je kunt het financieren via groene hypotheek (1,5-2% rente), maar dan verschuift de break-even naar 9-10 jaar.
+**1. Hoge initiële investering.** €20k-€28k is geen kleinigheid. Voor veel mensen is dat de hypotheek-verbouwingsruimte. Financieren kan via een verduurzamingshypotheek met rentekorting, maar de hoogte van die korting verschilt per bank en per moment — vraag het actuele percentage op en reken de rentelast bij de terugverdientijd op, want die schuift daardoor verder op dan de dertien jaar uit het model.
 
 **2. Complexiteit.** Een autarkie-setup heeft 4-5 systemen die met elkaar praten: omvormer, batterij, EV-charger, energiemanager, slimme meter. Als één onderdeel raar doet, zit je in een rabbit hole van protocollen (Modbus, P1, MQTT). Niet voor wie geen IT-affiniteit heeft. Ons overzicht [beste omvormer zonnepanelen 2026](/posts/beste-omvormer-zonnepanelen-2026/) helpt bij de keuze.
 
-**3. Terugleverkosten worden duurder.** In 2026 vragen de meeste leveranciers €100-€350/jaar terugleverkosten. Dat ondermijnt het rendement van panelen zonder batterij flink. Mét batterij is het minder erg — je voorkomt teruglevering — maar het is een politiek risico dat ieder jaar kan stijgen. Zie ook [frank energie vs tibber 2026](/posts/frank-energie-vs-tibber-2026/) voor leveranciers met laagste terugleverkosten.
+**3. Terugleverkosten.** Veel leveranciers rekenen kosten over wat je teruglevert, en die zijn per leverancier anders opgebouwd: soms een vast bedrag, soms een staffel die oploopt met het teruggeleverde volume — Frank Energie doet dat laatste sinds 1 juni 2025. Eén bandbreedte voor de hele markt noemen wij niet, want die zou de verschillen verhullen: haal het tarief van jouw leverancier op en vergelijk het met je verwachte teruglevering. Met een batterij weegt deze post minder zwaar, simpelweg omdat je minder teruglevert. Zie ook [frank energie vs tibber 2026](/posts/frank-energie-vs-tibber-2026/) voor de vergelijking van die twee.
 
 **4. Onderhoud en degradatie.** Een batterij verliest ~2% capaciteit per jaar. Na 10 jaar heeft je 13,5 kWh nog ~11 kWh. Vervanging is een kostenpost om mee te nemen.
 
@@ -206,7 +193,7 @@ Eerlijk: voor 95% van de Nederlanders is "75-85% autarkie" de slimste keuze. Maa
 
 **2. Onbetrouwbaar net (bijv. landelijk gebied met regelmatige uitval).** Bij stroomuitvallen meerdere keren per jaar wint een back-up-systeem aan waarde. Tesla Powerwall met Gateway 3 schakelt binnen 100ms op eilandbedrijf — je hele huis blijft werken.
 
-**3. Toekomstige zorgen over netcongestie.** In delen van NL kun je in 2026-2028 een terugleverboete krijgen of zelfs geen aansluitcapaciteit. Een batterij omzeilt dat.
+**3. Netcongestie.** In delen van Nederland is de beschikbare aansluitcapaciteit een reëel knelpunt. Wat dat in de komende jaren voor kleinverbruikers gaat betekenen, voorspellen wij niet — maar een batterij die je overschot opvangt in plaats van het net op duwt, maakt je minder afhankelijk van hoe dat uitpakt.
 
 Voor verreweg de meeste situaties — gewoon huis in gewone wijk — geldt: **streef naar 75-85% autarkie, accepteer dat je dec/jan blijft inkopen, optimaliseer met dynamisch contract.** Lees voor de panelen-kant [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/).
 

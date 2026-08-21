@@ -1,465 +1,231 @@
 ---
 title: "Terugleverkosten zonnepanelen 2026"
 date: 2026-04-30T08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: "Welke energieleveranciers rekenen terugleverkosten in 2026, hoe hoog zijn ze en hoe vermijd je verrassingen op je rekening? Per leverancier uitgesplitst."
+lastmod: 2026-08-21 08:00:00+02:00
+description: "Wat terugleverkosten zijn, in welke vormen ze voorkomen en hoe je zelf uitrekent wat ze jou kosten — met de rekenregel in plaats van tarieven die morgen verouderd zijn."
 categories: ["zonne-energie", "energie"]
-tags: ["terugleverkosten", "zonnepanelen", "saldering 2027", "energieleveranciers", "Eneco", "Vattenfall", "Greenchoice"]
-keywords: ["terugleverkosten zonnepanelen", "terugleverkosten 2026", "terugleverkosten Eneco", "terugleverkosten Vattenfall", "welke energieleverancier geen terugleverkosten"]
+tags: ["terugleverkosten", "zonnepanelen", "saldering 2027", "energieleveranciers"]
+keywords: ["terugleverkosten zonnepanelen", "terugleverkosten 2026", "terugleverkosten berekenen", "welke energieleverancier geen terugleverkosten"]
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 faq:
   - q: "Wat zijn terugleverkosten precies?"
-    a: "Terugleverkosten zijn extra kosten die energieleveranciers in rekening brengen voor klanten met zonnepanelen. Ze worden gerechtvaardigd als compensatie voor het verlies dat de leverancier maakt op teruggeleverde stroom (negatieve marktprijzen, onbalans-kosten). De hoogte varieert van €5 tot €40 per maand afhankelijk van leverancier en hoeveelheid teruglevering."
+    a: "Een toeslag die je energieleverancier alleen rekent aan klanten met zonnepanelen. De onderbouwing die leveranciers geven: op momenten dat veel zonnepanelen tegelijk terugleveren is de marktprijs laag of negatief, en de leverancier moet die stroom alsnog afzetten. De toeslag compenseert dat verlies. De hoogte verschilt sterk per leverancier en per teruglevervolume — die staat in je tariefblad, niet in een algemeen overzicht."
   - q: "Mogen energieleveranciers terugleverkosten rekenen?"
-    a: "Ja, op grond van de Elektriciteitswet mogen leveranciers vrij hun voorwaarden bepalen. De ACM heeft in 2024 bevestigd dat differentiatie naar zonnepaneelbezit mag, mits transparant gecommuniceerd. Bij overstappen mag je niet worden geweigerd, maar wel anders worden geprijsd."
-  - q: "Welke leveranciers rekenen geen terugleverkosten in 2026?"
-    a: "In april 2026 zijn de leveranciers zonder expliciete terugleverkosten: Tibber, Frank Energie, ANWB Dynamisch, en enkele kleinere lokale aanbieders. Alle drie de eerste zijn dynamische contracten — de 'kosten' zitten effectief in de marktprijs verwerkt."
-  - q: "Kan ik de terugleverkosten ontwijken?"
-    a: "Ja, op drie manieren: (1) overstappen naar een leverancier zonder terugleverkosten, (2) je teruglevering verlagen door slimmer eigen verbruik, (3) een thuisbatterij kopen waarmee je teruglevering bijna volledig kunt elimineren."
+    a: "Ja. Leveranciers mogen hun tarieven en voorwaarden binnen de wettelijke kaders zelf bepalen, en differentiëren naar zonnepaneelbezit is toegestaan mits het transparant in het tariefblad staat. Wat niet mag: je de toegang tot een contract weigeren. Wel mag je anders geprijsd worden."
+  - q: "Welke leveranciers rekenen geen terugleverkosten?"
+    a: "Wij kunnen dat alleen zeggen over de partijen waarvan wij het zelf op de site hebben nagekeken. ANWB Energie geeft aan geen aparte terugleverkosten te rekenen (anwb.nl, peildatum 21 augustus 2026). Tibber rekent evenmin een aparte terugleverstaffel. Frank Energie hanteert sinds 1 juni 2025 wél een terugleverstaffel. Voor alle andere leveranciers geldt: zoek in het tariefblad op 'terugleverkosten' of 'terugleverstaffel'. Wij nemen hier geen tabel met bedragen op, omdat die per periode wijzigen."
+  - q: "Kan ik terugleverkosten ontwijken?"
+    a: "Op drie manieren, in deze volgorde van moeite: overstappen naar een leverancier zonder staffel; je teruglevering verlagen door meer zelf te gebruiken op zonuren; of een thuisbatterij, die het duurst is en apart doorgerekend moet worden."
   - q: "Wat is het verschil tussen terugleverkosten en netbeheerkosten?"
-    a: "Netbeheerkosten zijn vaste lasten van de netbeheerder (Stedin, Liander) voor het transport van stroom. Die zijn voor iedereen gelijk. Terugleverkosten zijn een toeslag van je energieleverancier specifiek voor zonnepanelen — bovenop netbeheerkosten."
-  - q: "Hoe veel betaal ik gemiddeld extra in 2026?"
-    a: "Voor een huishouden met 2.500 kWh teruglevering: bij Eneco €17/maand, Vattenfall €22/maand, Essent €15/maand, Greenchoice €12/maand. Op jaarbasis: €144 tot €264 extra. Vanaf 2027 (saldering-stop) komt daar nog €450-€800 verlies bij."
+    a: "Netbeheerkosten zijn een vast jaarbedrag van je netbeheerder voor je aansluiting en het transport. Die zijn niet leverancierafhankelijk en veranderen niet door zonnepanelen. Terugleverkosten zijn een toeslag van je energieleverancier, specifiek voor zonnepanelen, bovenop de netbeheerkosten."
+  - q: "Hoe reken ik uit wat terugleverkosten mij kosten?"
+    a: "Zoek je jaarlijkse teruglevering op (jaarafrekening of slimme-meter-app), zoek de staffel in je tariefblad en lees af in welke trede je valt. Dat bedrag is een directe aftrek van de opbrengst van je panelen. Vergelijk dat met een leverancier zonder staffel, en let er dan op dat je ook de opslag per kWh en de vaste kosten meeneemt — anders vergelijk je één post in plaats van je hele rekening."
   - q: "Worden de terugleverkosten in 2027 hoger?"
-    a: "Ja, vrijwel zeker. De leveranciers verwachten meer onbalans-kosten omdat saldering wegvalt en negatieve prijzen vaker voorkomen. Marktanalyse: tarieven gaan in 2027 ongeveer 30-50% omhoog ten opzichte van 2026 niveau."
-  - q: '"Ik blijf wel bij mijn vaste contract, dat is veiliger"'
-    a: 'In 2026 nog: ja, dat is voorspelbaarder. In 2027: nee, want dan komen extra terugleverkosten erbij. Wacht niet tot je de eerste rekening met de nieuwe tarieven krijgt.'
-  - q: '"Dynamisch is te risicovol"'
-    a: 'Klopte tot 2024. Sinds 2025 zijn de prijsschommelingen meer voorspelbaar geworden door grotere batterijen op het net. Voor zonnepaneel-bezitters is het risico bovendien beperkt tot uren waarin je verbruikt — het overgrote deel van de tijd lever je terug, en dat gaat tegen marktprijs.'
-  - q: '"Ik wacht tot 2027 om te zien wat er gebeurt"'
-    a: 'Wachten kost je 8-12 maanden besparing. Nu overstappen levert al voordeel op vóór de saldering-stop ingaat.'
-products:
-  - name: "Tibber dynamisch contract"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "6"
-  - name: "Frank Energie"
-    url: "https://www.frankenergie.nl/"
-    price: "0"
-  - name: "ANWB Energie Dynamisch"
-    url: "https://www.anwb.nl/energie"
-    price: "0"
-  - name: "Sessy 5 kWh thuisbatterij"
-    url: "https://go.duurzaamthuislab.nl/sessy"
-    price: "3795"
+    a: "Dat is een open vraag en wij doen er geen voorspelling over. Wat wel vaststaat: de saldering stopt volledig per 1 januari 2027, waardoor je teruglevering apart wordt afgerekend en er dus meer volume tegen de markt wordt afgezet. Of leveranciers hun staffels daarop aanpassen, en in welke richting, blijkt pas uit de tariefbladen voor 2027."
 ---
-Een maandbedrag dat met tientjes omhoog gaat zonder dat er meer verbruikt wordt: het is een van de meest gestelde vragen sinds leveranciers terugleverkosten invoerden. De verklaring zit bijna altijd in het tweede jaar met zonnepanelen, wanneer de gestaffelde terugleverkosten op basis van het teruggeleverde volume van vorig jaar worden berekend.
+Een maandbedrag dat met tientjes omhoog gaat zonder dat er meer verbruikt wordt: dat is een van de meest gestelde vragen sinds leveranciers terugleverkosten invoerden. De verklaring zit vaak in het tweede jaar met zonnepanelen, wanneer de gestaffelde terugleverkosten worden berekend op basis van het teruggeleverde volume van het jaar ervoor.
 
-Hieronder het volledige overzicht van wat de leveranciers in 2026 rekenen — op basis van hun publieke tarievenkaarten, zonder leverancier-loyaliteit.
+Dit artikel legt uit wat terugleverkosten zijn, in welke vormen ze voorkomen, en vooral: **hoe je zelf uitrekent wat ze jou kosten.** Wij nemen bewust geen tabel met bedragen per leverancier op. Die tarieven wijzigen per periode, en een overzicht dat vandaag klopt is over een half jaar misleidend. Het tariefblad van je eigen leverancier is de enige bron die op het moment van kiezen geldt.
 
-*Cijfers in dit artikel gelden voor april 2026 en kunnen wijzigen. Check altijd de actuele tarievenkaart van je leverancier voor je beslist.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met de leveranciers die in dit artikel worden genoemd (stand augustus 2026). De links zijn gewone verwijzingen en leveren ons geen vergoeding op.*
 
 ---
 
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Welke energieleveranciers rekenen terugleverkosten in 2026, hoe hoog zijn ze en hoe vermijd je verrassingen op je rekening? Per leverancier uitgesplitst.
->
-> Terugleverkosten zijn extra kosten die energieleveranciers in rekening brengen voor klanten met zonnepanelen. Ze worden gerechtvaardigd als compensatie voor het verlies dat de leverancier maakt op teruggeleverde stroom (negatieve marktprijzen, onbalans-kosten). De hoogte varieert van €5 tot €40 per maand afhankelijk van leverancier en hoeveelheid teruglevering.
+> **Kort antwoord:** terugleverkosten zijn een toeslag die alleen zonnepaneelbezitters betalen, meestal als staffel op basis van je jaarlijkse teruglevering. Ze komen rechtstreeks van de opbrengst van je panelen af. De rekenregel staat verderop in dit artikel; de bedragen staan in je tariefblad. Van de partijen die wij zelf hebben nagekeken rekent ANWB Energie geen aparte terugleverkosten, Tibber evenmin, en Frank Energie sinds 1 juni 2025 wél.
 
 ## Wat zijn terugleverkosten?
 
-Terugleverkosten zijn een extra heffing die je energieleverancier in rekening brengt **alleen aan klanten met zonnepanelen**. Ze worden meestal als maandbedrag of staffelbedrag berekend, gekoppeld aan de hoeveelheid teruggeleverde kWh per jaar.
+Terugleverkosten zijn een toeslag die je energieleverancier in rekening brengt **alleen aan klanten met zonnepanelen**. Meestal als maandbedrag, gekoppeld aan het aantal kWh dat je per jaar teruglevert.
 
-De redenering van leveranciers:
-- Wanneer veel klanten op hetzelfde moment terugleveren (zonnige zomerse middag), zijn marktprijzen vaak laag of negatief
-- De leverancier moet die stroom op de markt afzetten, soms met verlies
-- De terugleverkosten compenseren dit verlies
+De onderbouwing van leveranciers:
 
-Of dat een eerlijke uitleg is, daar verschillen de meningen over. De ACM heeft begin 2024 in een uitspraak bevestigd dat leveranciers dit mogen, mits transparant. Daarmee staat het juridisch vast.
+- als veel klanten op hetzelfde moment terugleveren — een zonnige zomermiddag — is de marktprijs laag of negatief;
+- de leverancier moet die stroom alsnog op de markt afzetten, soms met verlies;
+- de terugleverkosten compenseren dat verlies.
 
-### Vier vormen waarin terugleverkosten verschijnen
+Of dat een volledige verklaring is, daar verschillen de meningen over: leveranciers verdienen op andere momenten ook aan de handel in diezelfde stroom. Wat juridisch vaststaat, is dat de toeslag mag, zolang hij transparant in het tariefblad is opgenomen.
 
-1. **Vast maandbedrag** — €5-€15/maand, ongeacht teruglevering
-2. **Staffelbedrag** — €5 t/m 1.000 kWh, €10 t/m 2.500 kWh, €25 daarboven (etc.)
-3. **Per kWh teruglevering** — €0,02-€0,06 per geleverde kWh
-4. **Verstopt in lager leveringstarief** — geen aparte regel maar 1-2 ct/kWh duurder afnamesisp
+### Vier vormen waarin terugleverkosten voorkomen
 
-De meeste leveranciers gebruiken **vorm 2 (staffel)**, omdat die het 'eerlijkst' lijkt en hoog-volume leveraars meer betalen.
+1. **Vast maandbedrag** — een bedrag per maand, ongeacht hoeveel je teruglevert.
+2. **Staffel** — treden op basis van je jaarlijkse teruglevering: tot X kWh een laag bedrag, daarboven meer. Dit is de meest voorkomende vorm.
+3. **Per teruggeleverde kWh** — een bedrag per kWh, soms alleen boven een drempel.
+4. **Verwerkt in het leveringstarief** — geen aparte regel op je rekening, maar een hoger tarief per afgenomen kWh voor klanten met panelen.
 
-## Volledig overzicht per leverancier (april 2026)
+Vorm 4 is de lastigste, omdat je hem niet op je factuur ziet staan. Wil je dat uitsluiten, vergelijk dan het kWh-tarief dat je leverancier aanbiedt aan klanten mét en zonder zonnepanelen.
 
-Hier het eerlijke overzicht van wat de grote leveranciers in 2026 rekenen aan terugleverkosten. Cijfers gebaseerd op de publieke tarievenkaarten van de leveranciers.
+## De rekenregel: wat kosten terugleverkosten jou?
 
-### Eneco
+**Stap 1 — zoek je jaarlijkse teruglevering op.** Die staat op je jaarafrekening, en per dag in de app van je slimme meter of P1-uitlezer. Gebruik het werkelijke getal, niet een schatting van je installateur.
 
-**Tarief**: Staffel
-- 0-500 kWh teruglevering/jr: €5/maand
-- 500-2.000 kWh/jr: €12/maand
-- 2.000-3.500 kWh/jr: €20/maand
-- 3.500-5.000 kWh/jr: €28/maand
-- 5.000+ kWh/jr: €35/maand
+**Stap 2 — zoek de staffel in je tariefblad.** Zoek op "terugleverkosten" of "terugleverstaffel". Lees af in welke trede jouw volume valt en wat het maandbedrag is. Maal twaalf.
 
-**Hoe wordt teruglevering gemeten?** Op basis van vorig jaarverbruik. Dus eerste jaar zonnepanelen kost je niets extra, vanaf jaar 2 wel.
+**Stap 3 — zet het naast de opbrengst van je panelen.** Dat is de vergelijking die telt, en die valt in 2026 en 2027 heel verschillend uit.
 
-**Rekenvoorbeeld Eneco**: 14 panelen, circa 2.800 kWh teruglevering → €20/maand → **€240/jaar extra**
+Hieronder een **modelberekening** met de constantes van deze site.
 
-### Vattenfall
+**Aannames:**
 
-**Tarief**: Staffel + per-kWh combinatie
-- Vast: €4/maand bij elke aansluiting met zonnepanelen
-- Variabel: €0,03/kWh boven 1.500 kWh teruglevering/jaar
+| Variabele | Waarde | Onderbouwing |
+|---|---|---|
+| Installatie | 12 panelen, 4,2 kWp | modelaanname |
+| Opbrengst | 875 kWh/kWp → 3.675 kWh/jaar | NL-gemiddelde; reken je eigen dakvlak na met PVGIS |
+| Direct eigen verbruik | 40% → 1.470 kWh | modelaanname |
+| Teruglevering | 60% → 2.205 kWh | volgt uit het bovenstaande |
+| Stroom all-in | €0,26/kWh | (€0,105 EPEX-jaargemiddelde 2025 + €0,02 opslag-aanname + €0,09161 energiebelasting) × 1,21 btw |
+| Terugleververgoeding 2027 | €0,07/kWh | **gelabelde aanname** — de tarieven voor 2027 zijn niet gepubliceerd |
 
-**Voorbeeld 2.500 kWh teruglevering/jr**:
-- Vast: €48/jaar
-- Variabel: 1.000 × €0,03 = €30/jaar
-- **Totaal €78/jaar**
+**In 2026, zolang de saldering geldt.** Elke teruggeleverde kWh wordt weggestreept tegen een kWh die je anders had moeten kopen. De volle 3.675 kWh is dus €0,26 waard:
 
-Vattenfall is daardoor relatief gunstig voor middenvolume-terugleveraars.
+3.675 × €0,26 = **€956 opbrengst per jaar**
 
-### Essent
+**In 2027, na de saldering-stop.** Je eigen verbruik blijft het inkooptarief waard, je teruglevering alleen nog de terugleververgoeding:
 
-**Tarief**: Staffel
-- 0-1.000 kWh: €0/maand (gratis)
-- 1.000-2.500 kWh: €10/maand
-- 2.500-4.000 kWh: €18/maand
-- 4.000+ kWh: €25/maand
+(1.470 × €0,26) + (2.205 × €0,07) = €382 + €154 = **€536 opbrengst per jaar**
 
-**Voorbeeld 2.500 kWh**: precies op de grens — €120/jr
-**Voorbeeld 4.500 kWh**: €300/jr
+**En nu de terugleverkosten erbij.** Die komen in beide jaren rechtstreeks van dat bedrag af:
 
-### Greenchoice
-
-**Tarief**: Vast staffel
-- 0-1.500 kWh: €5/maand
-- 1.500-3.000 kWh: €10/maand
-- 3.000+ kWh: €18/maand
-
-Greenchoice is doorgaans één van de gunstigere voor zonneklanten — zij hebben veel zonnepaneel-bezitters in hun base en hanteren dus een gemiddelde dat realistisch is.
-
-### Engie
-
-**Tarief**: Mix
-- Vast: €3/maand zonnetoeslag
-- Variabel: €0,02/kWh teruglevering
-
-**Voorbeeld 2.500 kWh**: €36 + €50 = €86/jaar — zeer schappelijk.
-
-### Budget Energie
-
-**Tarief**: €8/maand vast bij elke aansluiting met zonnepanelen, ongeacht teruglevering. **€96/jr** vlak.
-
-### NLE (Nederlandse Energie Maatschappij)
-
-**Tarief**: €0,04/kWh teruglevering, geen vast bedrag.
-
-**Voorbeeld 2.500 kWh**: €100/jr.
-
-### Tibber, Frank Energie, ANWB Dynamisch
-
-**Tarief**: Géén expliciete terugleverkosten.
-
-Bij dynamische contracten betaal je per uur de actuele markttarieven — als die negatief zijn (zomerse middagen) lever je terug tegen een negatief tarief, wat in de praktijk soms €0,05-€0,08/kWh kost. Maar er is geen aparte staffel.
-
-In de praktijk komt dat voor een 2.500 kWh-terugleveraar uit op effectief €40-€80 per jaar netto verlies door uren met negatieve tarieven. Lager dan vrijwel alle vaste leveranciers.
-
-## Vergelijkingstabel — €/jaar terugleverkosten
-
-Voor vier scenarios, gebaseerd op april 2026 tarieven:
-
-| Leverancier | 1.000 kWh/jr | 2.500 kWh/jr | 4.000 kWh/jr | 5.500 kWh/jr |
-|---|---|---|---|---|
-| Eneco | €60 | €240 | €336 | €420 |
-| Vattenfall | €48 | €78 | €123 | €168 |
-| Essent | €0 | €120 | €216 | €300 |
-| Greenchoice | €60 | €120 | €216 | €216 |
-| Engie | €56 | €86 | €116 | €146 |
-| Budget Energie | €96 | €96 | €96 | €96 |
-| NLE | €40 | €100 | €160 | €220 |
-| **Tibber** | €15-25 | €40-80 | €70-120 | €100-160 |
-| **Frank Energie** | €15-25 | €40-80 | €70-120 | €100-160 |
-| **ANWB Dynamisch** | €20-35 | €50-100 | €90-150 | €130-200 |
-
-**Conclusie**: voor wie meer dan 1.500 kWh per jaar teruglevert, is een dynamisch contract bijna altijd voordeliger dan een vast contract met terugleverkosten. Voor lage terugleveraars (<1.000 kWh) zijn Essent of Engie vaak goedkoper.
-
-## Hoe ontwijk je terugleverkosten?
-
-### Strategie 1: Overstap naar dynamisch contract
-
-Het simpelste en goedkoopste antwoord op terugleverkosten. Zowel **Tibber** als **Frank Energie** rekenen geen aparte terugleverkosten. De effectieve kosten via negatieve tarieven zijn meestal lager dan een vast contract.
-
-**Rekenvoorbeeld**: een huishouden met 2.800 kWh teruglevering dat van Eneco naar Tibber overstapt, bespaart in het model circa €20 per maand op het vaste leveringstarief plus de €18 tot €20 aan terugleverkosten. Uitkomst: rond de **€38 per maand, ofwel €456 per jaar**.
-
-[Lees Tibber review →](/posts/tibber-review-ervaringen-2026/) of [Frank Energie review →](/posts/frank-energie-review-ervaringen-2026/)
-
-### Strategie 2: Verlaag je teruglevering
-
-Hoe minder je teruglevert, hoe minder kosten. Dit kan zonder investering:
-
-- **Vaatwasser, wasmachine, droger**: programmeer ze voor 11-15u (zon-piek)
-- **EV laden**: alleen tussen 11-16u in zomer, 's nachts in winter (lage dynamische tarieven)
-- **Boiler/warmtepompboiler**: timer op zonuren
-- **Airco**: laat 'm overdag op een wat hogere instelling draaien als alternatief voor energieopslag
-
-**Verwacht effect**: 20-30% minder teruglevering, dus 20-30% minder terugleverkosten.
-
-### Strategie 3: Thuisbatterij
-
-Een thuisbatterij elimineert teruglevering bijna volledig. Met een 10 kWh batterij kan een gemiddeld huishouden de teruglevering met 80-90% verminderen.
-
-**Effect op terugleverkosten**: bij 2.500 kWh teruglevering en €240/jr Eneco-kosten → bij Eneco met batterij <500 kWh teruglevering → €60/jr → **€180 besparing**.
-
-Dat alleen weegt nog niet op tegen een batterij van €5.500. Maar combineer het met andere voordelen (saldering-stop voorbereiding, dynamisch arbitrage) en de batterij wordt rendabel. [Volledige terugverdienberekening →](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)
-
-### Strategie 4: Combinatie
-
-De gouden combo:
-1. Dynamisch contract (geen terugleverkosten) — direct €100-€300/jr besparing
-2. Slimmer verbruik (programmeerbare apparaten) — extra €50-€150/jr
-3. Op termijn: thuisbatterij (eliminatie teruglevering + arbitrage)
-
-Stap 1 en 2 zijn direct uitvoerbaar en kosten niets. Stap 3 vraagt een investering: voor de meeste huishoudens is het verstandig daarmee te wachten tot de batterijprijzen verder gezakt zijn.
-
-## Regionale verschillen in terugleverkosten
-
-Terugleverkosten zijn nationaal, maar de effecten kunnen regionaal variëren door netwerkcongestie en lokale energiemix.
-
-**Provincies met hoge teruglevering-congestie (2026):**
-- Zeeland: hoge concentratie zonnepanelen + wind. Op zonnige/winderige dagen zijn negatieve prijzen frequenter. Dynamisch contract is hier nog voordeliger.
-- Groningen en Drenthe: agrarisch gebied met veel zon-op-dak. Terugleverkosten bij vaste contracten voelen hier harder aan door de hoge teruglevering per huishouden.
-- Utrecht en Noord-Holland: hoge energieprijzen, veel energiebewuste huishoudens met zonnepanelen. Dynamisch contract geeft hier meer arbitragevoordeel door hogere piekprijzen.
-
-**Netcongestie:**
-Sommige gebieden hebben netcongestie-problemen waarbij de netbeheerder het netinvoedvermogen beperkt. Dit kan betekenen dat je zonnepanelen op drukke piekmomenten worden begrensd. In dat geval zijn terugleverkosten een bijkomstig probleem — je kunt sowieso niet alles terugleveren. Een thuisbatterij of slim eigen verbruik wordt dan nog relevanter.
-
-## Wat verwachten we voor 2027?
-
-Met de saldering-stop per 1-1-2027 verandert ook de terugleverkosten-markt:
-
-1. **Nieuwe tarieven**: Vrijwel alle leveranciers zullen hun tarieven aanpassen. Verwachting analisten: 30-50% verhoging.
-2. **Meer differentiatie**: Komt waarschijnlijk pricing-per-uur teruglevering, in plaats van staffel.
-3. **Nieuwe spelers**: Aanbieders met 'no-saldering-pijn' contracten — Tibber en Frank waren first movers, anderen volgen.
-4. **Meer subsidies voor batterij**: De overheid heeft aangekondigd dat de SDE++-subsidie voor thuisbatterijen wordt uitgebreid in 2027.
-
-Ons advies: kies nu een leverancier die past bij jouw profiel **en** die ook in 2027 redelijk blijft. De drie dynamische aanbieders (Tibber, Frank, ANWB) zijn de veiligste keuzes voor zonnepaneel-bezitters.
-
-## Rekenvoorbeeld: wat de keuze van leverancier concreet kost
-
-Rekenvoorbeeld met de volgende aannames: 14 panelen, circa 2.800 kWh teruglevering per jaar, netto afname na saldering 1.200 kWh, en de tarieven van Eneco en Tibber zoals hierboven. Uitkomst van het model over 2026:
-
-**Bij Eneco (2.800 kWh teruglevering):**
-- Terugleverkosten gestaffeld: €20/maand = €240/jaar
-- Leveringstarief (vaste prijs): €0,32/kWh
-- Afname netto na saldering: 1.200 kWh
-- Kosten afname: 1.200 × €0,32 = €384
-- Terugleverkosten: €240
-- **Totaal energiedeel: €624**
-
-**Bij Tibber (dynamisch):**
-- Terugleverkosten: €0 apart
-- Effectieve afnamekosten: 1.200 kWh × gemiddeld €0,27 = €324
-- Effectieve teruglevering: 2.800 kWh × effectief ~€0,11 (marktprijs) = -€308
-- Netto energiedeel: €16
-- **Totaal energiedeel: €16**
-
-Verschil: **€608 per jaar** — alleen door te switchen van Eneco naar Tibber, zonder enige investering. In 2027 (na saldering-stop) loopt dit verschil verder op tot ~€850.
-
-## Saldering stop 2027: extra impact op terugleverkosten
-
-Mensen focussen op de saldering-stop zelf, maar vergeten dat terugleverkosten ook omhoog gaan als saldering wegvalt. Hier is waarom:
-
-**Waarom terugleverkosten stijgen in 2027:**
-
-1. **Meer teruglevering op het net**: Als saldering wegvalt, heeft niemand meer een incentief om minder terug te leveren. Klanten met batterijen doen dat al, maar de massa niet. Er komt juist meer aanbod op piekmomenten.
-
-2. **Meer negatieve prijsuren**: Op zonnige zomerse middagen zijn er in 2026 al ~150-200 uur per jaar met negatieve groothandelsprijzen. In 2027 verwachten analisten 200-300 uur — meer teruglevering betekent meer marktpijn voor leveranciers.
-
-3. **Meer onbalanskosten**: De TSO (TenneT) rekent leveranciers meer voor onbalans. Die kosten worden doorberekend.
-
-**Verwachte tarieven grote leveranciers in 2027:**
-
-| Leverancier | 2026 (2.500 kWh) | 2027 verwacht | Stijging |
+| Terugleverkosten per maand | Per jaar | Van je €956 in 2026 blijft | Van je €536 in 2027 blijft |
 |---|---|---|---|
-| Eneco | €240/jr | €310-350/jr | +30-45% |
-| Vattenfall | €78/jr | €100-120/jr | +28-54% |
-| Essent | €120/jr | €155-180/jr | +29-50% |
-| Greenchoice | €120/jr | €145-165/jr | +21-38% |
-| **Tibber/Frank** | €40-80/jr | €45-90/jr | +5-15% |
+| €0 | €0 | €956 | €536 |
+| €10 | €120 | €836 | €416 |
+| €20 | €240 | €716 | €296 |
+| €30 | €360 | €596 | €176 |
 
-Dynamische aanbieders stijgen nauwelijks — zij hebben geen aparte staffel maar verwerken de kosten in marktprijzen.
+**Dit is het punt waar het om gaat.** In 2026, met saldering, kost een staffel van €20 per maand je een kwart van je paneelopbrengst. In 2027, zonder saldering, kost diezelfde staffel je bijna de helft. De terugleverkosten worden dus niet duurder — je opbrengst wordt kleiner, waardoor ze relatief veel zwaarder gaan wegen.
 
-## Vergelijking: welke leverancier voor welk profiel?
+Wie een staffel betaalt, heeft daarom vanaf 2027 een sterker belang bij overstappen dan nu. En omgekeerd: wie nu op een contract zonder staffel zit, hoeft daar niets aan te doen.
 
-Alle doorrekeningen bij elkaar leveren deze matrix op, voor de meest voorkomende profielen in Nederland:
+## Van welke leveranciers wij het hebben nagekeken
 
-**Profiel 1: Kleine installatie (<1.500 kWh teruglevering)**
-- Beste keuze: Essent of Engie — lage terugleverkosten bij lage volumes, vast tarief is overzichtelijk
-- Te vermijden: Eneco, Budget Energie — vaste terugleverkosten relativeren het voordeel
-- Dynamisch: Tibber werkt ook prima, maar het verschil is klein
+Wij nemen alleen op wat wij zelf op de site van de leverancier hebben teruggevonden, met de datum erbij.
 
-**Profiel 2: Middengroep (1.500-3.000 kWh teruglevering)**
-- Beste keuze: Tibber of Frank Energie
-- Besparing vs Eneco: €180-€360/jaar
-- Overweging: Check of je slimme meter werkt en of je verbruikspatroon past bij dynamisch
+| Leverancier | Terugleverkosten | Bron en peildatum |
+|---|---|---|
+| ANWB Energie | Geen aparte terugleverkosten | anwb.nl, 21 augustus 2026 |
+| Tibber | Geen aparte terugleverstaffel | tibber.com, 21 augustus 2026 |
+| Frank Energie | Terugleverstaffel sinds 1 juni 2025 — bedragen opvragen | frankenergie.nl, 21 augustus 2026 |
 
-**Profiel 3: Grote installatie (>3.000 kWh teruglevering)**
-- Beste keuze: Frank Energie + thuisbatterij plannen
-- Eneco kost bij 4.000 kWh teruglevering €336/jaar aan terugleverkosten alleen — dat is onacceptabel
-- Dynamisch + batterij is hier de optimale combinatie
+Voor alle overige leveranciers geldt: zoek het op in het tariefblad. Dat is geen ontwijkend antwoord maar de enige manier om er zeker van te zijn; wij zien tariefbladen op dit punt regelmatig wijzigen.
 
-**Profiel 4: EV + zonnepanelen (weinig teruglevering)**
-- Beste keuze: Tibber vanwege smart charging voor EV
-- Teruglevering laag maar EV nachtladen is enorm voordelig dynamisch
-- Besparing EV laden: €300-€600/jaar extra voordeel
+Let bij dynamische contracten wel op een nuance. Ook zonder staffel is teruglevering daar niet gratis: je krijgt de uurprijs van het moment waarop je teruglevert, en dat is op zonnige middagen juist laag, omdat alle panelen in Nederland dan tegelijk produceren. Bij negatieve uurprijzen betaal je zelfs om terug te leveren. Verderop rekenen wij door wat dat kost.
 
-## Communicatie met de leverancier: hoe te onderhandelen
+## Wat negatieve uurprijzen werkelijk kosten
 
-Iets wat weinig mensen proberen: direct onderhandelen met hun leverancier over terugleverkosten.
+Dit is de post die bij dynamische contracten in de plaats komt van een staffel — en het is goed om te weten hoe groot hij is.
 
-**Wat werkt:**
-- Bel de klantenservice en geef aan dat je overstapt als ze de terugleverkosten niet verlagen of kwijtschelden
-- Grote leveranciers (Eneco, Vattenfall) hebben retentieteams die klanten kunnen aanbieden: "we verlagen uw terugleverkosten met 20% als u 2 jaar blijft"
-- Dit werkt niet altijd maar is de moeite waard voor wie een langdurige relatie heeft (5+ jaar klant)
+In 2025 waren er in Nederland **212 uren met een negatieve EPEX day-ahead prijs** (EPEX-data via EnergyZero, geteld door onze redactie, peildatum 21 augustus 2026). Ze lagen geconcentreerd tussen maart en september, met een piek van 59 uur in mei.
 
-**Wat niet werkt:**
-- "Ik ken mijn rechten en terugleverkosten zijn illegaal" — dat kloppen ze niet, de ACM heeft dit bevestigd
-- Alleen via e-mail klagen — bel altijd voor retentie-aanbiedingen
+**Modelberekening.** Gemiddelde negatieve prijs in die uren: circa −€0,04/kWh. Terugleververmogen van een installatie van 4,2 kWp op zo'n moment: ongeveer 2 kW, dus 2 kWh per uur. Dan geldt:
 
-**Wat retentie in de praktijk oplevert:** klanten melden op consumentenforums dat een telefoontje met een concrete overstapdreiging soms enkele maanden kwijtschelding van de terugleverkosten oplevert. Geen garantie, maar bij €20 per maand is een kwartier bellen het proberen waard.
+212 uur × 2 kWh × €0,04 = **circa €17 per jaar**
 
-## Onze concrete aanbevelingen
+Dat is een orde van grootte lager dan een staffel van €120 tot €360 per jaar. Dat is precies de reden dat een dynamisch contract voor zonnepaneelbezitters met veel teruglevering doorgaans gunstiger uitpakt — niet omdat teruglevering daar gratis is, maar omdat de kosten in de praktijk klein blijven.
 
-Op basis van profiel:
+Twee kanttekeningen. Het aantal negatieve uren loopt de laatste jaren op met de groei van zon en wind; hoeveel het in 2027 wordt, weten wij niet en voorspellen wij niet. En je omvormer kan bij negatieve prijzen mogelijk terugregelen als je leverancier of energiemanagementsysteem dat ondersteunt, waardoor de kosten nog lager uitvallen.
 
-**Klein huishouden, <1.500 kWh teruglevering**: Engie of Greenchoice. Lage vaste lasten, geen of beperkte terugleverkosten.
+## Hoe verlaag je terugleverkosten?
 
-**Gemiddeld, 1.500-3.500 kWh teruglevering**: **Tibber** of **Frank Energie**. Dynamisch contract = geen aparte terugleverkosten + arbitragevoordeel. <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie</a>
+### Strategie 1: kijk of een contract zonder staffel bij je past
 
-**Groot, 3.500+ kWh teruglevering**: Frank Energie + thuisbatterij plannen. De combinatie is de enige die zowel terugleverkosten als saldering-pijn elimineert.
+Het simpelste antwoord, en het kost niets behalve een overstap. Let er wel op dat je de hele rekening vergelijkt en niet één post: de opslag per kWh en de vaste kosten kunnen een lagere terugleverstaffel weer opeten. Zie [beste dynamisch energiecontract 2026](/posts/beste-dynamisch-energiecontract-2026/) voor die vergelijking.
 
-**Speciaal voor wie nu bij Eneco/Vattenfall zit**: Stap binnen 30 dagen over. De terugleverkosten van die twee zijn de hoogste in de markt, en je kunt zonder boete weg na een vast contracttermijn van 1 jaar.
+Zit je nog in een lopend vast contract, dan geldt de opzegvergoeding: de ACM begrenst die tot €50 tot €125 per energievorm, afhankelijk van de resterende looptijd. Zet die af tegen wat de staffel je per maand kost.
 
----
+### Strategie 2: verlaag je teruglevering door meer zelf te gebruiken
 
-## Hoe terugleverkosten je rendement beïnvloeden: een rekenmodel
+Elke kWh die je zelf gebruikt in plaats van teruglevert, verlaagt je volume en kan je dus een staffeltrede lager brengen. Bovendien is die kWh vanaf 2027 €0,19 meer waard: het verschil tussen zelf gebruiken (€0,26) en terugleveren (€0,07, aanname).
 
-Twee huishoudens met een identieke installatie (12 panelen, 4,2 kWp), maar een verschillende contractkeuze.
-
-**Installatie-aanname:**
-- Opwekking: 3.780 kWh/jaar
-- Eigen verbruik 40%: 1.512 kWh
-- Teruglevering 60%: 2.268 kWh
-- Aanschafkosten: €4.800
-
-**Scenario A: Eneco (vaste prijs), 2026-2030**
-
-| Jaar | Besparing eigen verbruik | Terugleververgoeding | Terugleverkosten | Netto per jaar |
-|---|---|---|---|---|
-| 2026 (saldering) | €454 | €680* | €240 | €894 |
-| 2027 (stop saldering) | €463 | €227** | €312 | €378 |
-| 2028 | €472 | €230 | €312 | €390 |
-| 2029 | €481 | €235 | €312 | €404 |
-| 2030 | €491 | €240 | €312 | €419 |
-| **Totaal 5 jaar** | | | | **€2.485** |
-
-*Gesaldeerd 2.268 kWh × €0,30 = €680
-**Terugleververgoeding 2.268 kWh × €0,10 = €227; terugleverkosten staffel bij 2.268 kWh Eneco: €26/maand = €312/jaar
-
-**Scenario B: Frank Energie (dynamisch), 2026-2030**
-
-| Jaar | Besparing eigen verbruik | Terugleververgoeding | Terugleverkosten | Netto per jaar |
-|---|---|---|---|---|
-| 2026 | €408 | €680* | €0 | €1.088 |
-| 2027 | €419 | €249** | €0 | €668 |
-| 2028 | €430 | €255 | €0 | €685 |
-| 2029 | €440 | €260 | €0 | €700 |
-| 2030 | €451 | €266 | €0 | €717 |
-| **Totaal 5 jaar** | | | | **€3.858** |
-
-*Saldering gelijk aan Eneco
-**Dynamisch marktprijs teruglevering gemiddeld €0,11/kWh
-
-**Verschil over 5 jaar: €3.858 - €2.485 = €1.373** in het voordeel van dynamisch.
-
-Dit verschil is puur door contractkeuze — zelfde panelen, zelfde opwekking. Bij hogere teruglevering (meer panelen) wordt het verschil groter.
-
----
-
-## Slim verbruik: hoeveel kun je teruglevering verlagen?
-
-Veel zonnepaneel-bezitters weten niet hoeveel potentieel er zit in slim verbruiksmanagement. De meeste mensen leven op een 9-17 uur werkpatroon buiten huis en laten de zonnestroom ongebruikt terugleveren.
-
-**Apparaten die je overdag kunt plannen:**
-
-| Apparaat | Wattage | Optimale timing | Effect op teruglevering |
+| Apparaat | Vermogen | Optimale timing | Verschuifbaar per beurt |
 |---|---|---|---|
-| Vaatwasser | 1.200-2.000W | 11:00-14:00 | -300-500 Wh/dag |
-| Wasmachine | 400-800W | 11:00-15:00 | -300-600 Wh/dag |
-| Droger | 1.500-2.500W | 12:00-15:00 | -500-800 Wh/dag |
-| Elektrische boiler | 1.500-3.000W | 12:00-15:00 | -500-1.000 Wh/dag |
-| EV opladen | 3.700-11.000W | 11:00-16:00 | -1.000-5.000 Wh/dag |
-| Warmtepompboiler | 1.000-2.000W | 11:00-14:00 | -300-800 Wh/dag |
+| Vaatwasser | 1.200-2.000 W | 11:00-14:00 | 0,8-1,2 kWh |
+| Wasmachine | 400-800 W | 11:00-15:00 | 0,5-1,0 kWh |
+| Droger (condens) | 1.500-2.500 W | 12:00-15:00 | 1,5-2,5 kWh |
+| Elektrische boiler | 1.500-3.000 W | 12:00-15:00 | 1,5-3,0 kWh |
+| Warmtepompboiler | 1.000-2.000 W | 11:00-14:00 | 0,5-1,5 kWh |
+| EV opladen | 3,7-11 kW | 11:00-16:00 | 5-20 kWh |
 
-**Realistisch effect voor een gemiddeld gezin (geen EV):**
-Door de vaatwasser, wasmachine en boiler te plannen op zonne-piekuren: -600 tot -1.200 Wh per dag op zonnige zomerdagen. Over een volledig jaar (60 zonnige zomerdagen met overproductie): -36.000 tot -72.000 Wh = 36-72 kWh minder teruglevering per jaar.
+**Wat dat oplevert, eerlijk gerekend.** Voor een gezin zonder EV: door vaatwasser, wasmachine en boiler op zonuren te plannen verschuif je op een zonnige dag met overschot 1 tot 2 kWh. Zulke dagen zijn er in Nederland grofweg 100 tot 150 per jaar. Dat komt neer op **100 tot 300 kWh minder teruglevering per jaar** — op 2.205 kWh dus 5 tot 14%. Genoeg om soms een staffeltrede te zakken, en vanaf 2027 €19 tot €57 per jaar waard.
 
-Bij 2.268 kWh totale teruglevering: dat is 1,6-3,2% reductie. Niet spectaculair, maar gratis.
+**Met een EV die overdag laadt, verandert de orde van grootte.** Een auto neemt 5 tot 20 kWh per laadsessie op. Wie een of twee keer per week op zonoverschot laadt, verschuift 500 tot 1.500 kWh per jaar. Dat is een factor vijf tot tien meer dan alle huishoudelijke apparaten samen, en het is de reden dat een EV in de praktijk een effectievere "batterij" is dan een thuisbatterij van 5 kWh.
 
-**Met een EV die overdag laadt:** effecten zijn enorm. Een gezin dat de EV overdag (12:00-16:00) laadt op zonne-overschot kan de teruglevering met 500-1.500 kWh per jaar reduceren — afhankelijk van rijgedrag en installatiegrootte.
+### Strategie 3: thuisbatterij — reken het apart door
 
----
+Een thuisbatterij kan je teruglevering flink verlagen, maar hij lost het terugleverkostenprobleem niet gratis op. De besparing op de staffel alleen is meestal ruim onvoldoende om de aanschaf te dekken: in het voorbeeld hierboven scheelt het verschil tussen €240 en €120 per jaar aan staffel €120, tegen een aanschafprijs van duizenden euro's.
 
-## De echte kosten van negatieve marktprijzen
+De batterij moet het dus halen uit de combinatie van drie dingen: minder terugleverkosten, meer zelfverbruik na de saldering-stop, en eventueel arbitrage op een dynamisch contract. Reken dat door in de [energiekosten calculator 2027](/posts/energiebesparing-calculator-2027/) of de [thuisbatterij terugverdientijd-vergelijking](/thuisbatterij-terugverdientijd-vergelijken/), en let daar vooral op de maximale doorzet: een batterij van 5 kWh kan in Nederland niet meer dan circa 1.500 kWh per jaar rondzetten.
 
-Dynamische contracten hebben géén aparte terugleverkosten — maar er is een verborgen kost: uren met negatieve marktprijzen.
+### Strategie 4: de volgorde die het meeste oplevert
 
-**Wat zijn negatieve marktprijzen?**
-Op zonnige zomerse middagen wanneer veel zonnestroom op het net komt, kan de groothandelsprijs negatief worden. Dat betekent: producenten betalen om hun stroom kwijt te raken op de markt. Bij een dynamisch contract word jij (als terugleverende zonnepaneel-bezitter) effectief ook "gestraft" — je krijgt niet alleen niets, je betaalt.
+1. **Contract checken en zo nodig overstappen** — kost niets, effect direct.
+2. **Verbruik verschuiven naar de zonuren** — kost niets, effect groeit vanaf 2027.
+3. **Grote verbruikers verplaatsen** (EV, boiler, warmtepomp) — grootste hefboom van de drie gratis maatregelen.
+4. **Dan pas een batterij doorrekenen** — met je eigen teruglevering en je eigen offerte, niet met een vuistregel.
 
-**Hoe vaak dit voorkomt in Nederland:**
-- 2023: ~120 uur met negatieve EPEX-prijs NL
-- 2024: ~180 uur
-- 2025: ~230 uur (verwachting op basis van Q1-Q3)
-- 2027 verwachting (na saldering-stop): ~280-350 uur
+## Wat de saldering-stop hieraan verandert
 
-**Wat dit concreet kost:**
-Gemiddelde negatieve prijs: circa -€0,04/kWh. Gemiddeld vermogen teruglevering in die uren: ~2 kW (12 panelen, goede dag). Per uur: 2 kWh × €0,04 = €0,08 "kosten". Over 230 uur in 2025: 230 × €0,08 = **€18,40 per jaar** effectieve kosten door negatieve uren.
+Per 1 januari 2027 stopt de salderingsregeling volledig. Er is geen afbouwpad: het wetsvoorstel met een stapsgewijze afbouw is verworpen. Tot en met 31 december 2026 saldeer je nog voor 100%.
 
-Ter vergelijking: Eneco terugleverkosten bij 2.500 kWh/jaar teruglevering: €240/jaar. Dynamisch negatieve uren: ~€18-€40/jaar. Het verschil is groot.
+Wat dat voor terugleverkosten betekent, hebben wij hierboven doorgerekend: het bedrag verandert niet, maar de opbrengst waar het van af gaat wordt kleiner. Een staffel die nu 25% van je paneelopbrengst kost, kost vanaf 2027 bijna de helft.
 
----
+Wat wij hier **niet** doen, is voorspellen hoe leveranciers hun staffels voor 2027 gaan aanpassen. Er circuleren percentages, maar er is geen gepubliceerd tariefblad voor 2027 om ze aan te toetsen. Zodra die er zijn, valt het door te rekenen met exact dezelfde som als hierboven — vul het nieuwe maandbedrag in en lees af wat er van je opbrengst overblijft.
 
-## Tools en apps voor contractvergelijking
+Hetzelfde geldt voor subsidies: er is op dit moment geen landelijke subsidieregeling voor thuisbatterijen, en aankondigingen daarover die wij tegenkwamen zijn niet te herleiden naar een officiële bron. Ga daar dus niet van uit in je berekening.
 
-**Voor zelf doorrekenen:**
+## Praten met je leverancier
 
-1. **Frank Energie app** — toont je verwachte jaarbesparing op basis van je verbruiksprofiel (handige simulatie)
-2. **Tibber app** — toont historische prijzen en verwacht verbruik na switch
-3. **Energieprijzen.nl** — vergelijkt actuele tarieven van alle leveranciers
-4. **P1 Monitor** (met Homewizard Energy of DSMR-logger) — meet je werkelijke teruglevering per dag zodat je weet in welke staffel je valt
+Iets wat weinig mensen proberen: rechtstreeks navragen bij hun leverancier wat er aan de terugleverkosten te doen is.
 
-**De stap-voor-stap aanpak:**
-1. Download je jaarverbruik van Mijn Netbeheerder of via je leverancier-app
-2. Kijk op welke tijden je teruglevert (je slimme meter heeft dit)
-3. Bereken op basis van de staffels welke leverancier het goedkoopst is
-4. Switch naar dynamisch als je >1.500 kWh/jaar teruglevert
+**Wat je kunt doen.** Bel de klantenservice met een concreet alternatief in de hand: welk contract je hebt bekeken en wat dat je per jaar zou schelen. Grote leveranciers hebben retentieteams die tot op zekere hoogte ruimte hebben. Of dat leidt tot een aanpassing, verschilt per leverancier en per geval — wij kunnen er geen slagingskans aan hangen.
 
----
+**Wat niet werkt.** Stellen dat terugleverkosten illegaal zijn. Dat zijn ze niet, zolang ze transparant in het tariefblad staan. En alleen mailen: voor dit soort aanpassingen moet je bellen.
+
+**Leg vast wat je afspreekt.** Vraag om een schriftelijke bevestiging van een eventuele aanpassing, en check hem op de eerstvolgende factuur.
+
+## Onze aanbevelingen
+
+**Kijk eerst wat je nu betaalt.** Pak je jaarafrekening, zoek de regel terugleverkosten en je teruggeleverde kWh. Zonder die twee getallen is elke vergelijking een gok.
+
+**Vergelijk de hele rekening, niet één post.** Een leverancier zonder terugleverstaffel kan duurder zijn op de opslag per kWh of op de vaste kosten. Reken met je eigen netto afname.
+
+**Weeg 2027 zwaarder dan 2026.** Zolang de saldering geldt, is de schade van een staffel beperkt. Vanaf 2027 wordt hij relatief veel groter. Wie nu een contract kiest voor meerdere jaren, moet op dat tweede scenario beslissen.
+
+**Doe de gratis dingen eerst.** Verbruik verschuiven kost niets en werkt in beide scenario's. Een batterij is een investering die op zichzelf moet kunnen staan.
+
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> · <a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Frank Energie</a> · <a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk ANWB Energie</a>
+
+*Wij ontvangen geen vergoeding als je via een van deze links overstapt.*
+
+## Zelf doorrekenen: wat je nodig hebt
+
+1. **Je jaarverbruik en je teruglevering** — van je jaarafrekening of via het portaal van je netbeheerder.
+2. **Wanneer je teruglevert** — je slimme meter of P1-uitlezer laat dat per dag en per uur zien. Een P1-uitlezer zoals de HomeWizard Wi-Fi P1 kost €24,95 (homewizard.com, peildatum 21 augustus 2026).
+3. **Het tariefblad van je huidige leverancier** en van de kandidaat waarmee je vergelijkt — met daarin de opslag per kWh, de vaste kosten én de terugleverkosten.
+4. **De rekenregel uit dit artikel**: opbrengst = (eigen verbruik × inkooptarief) + (teruglevering × terugleververgoeding) − terugleverkosten.
+
+Met die vier gegevens kun je elke vergelijker natrekken, en dat is meer waard dan een tabel die iemand anders voor je heeft ingevuld.
 
 ## Conclusie
 
-Terugleverkosten zijn de eerste van twee klappen die zonnepaneel-bezitters opvangen — saldering-stop in 2027 wordt de tweede. De goede leveranciers (Tibber, Frank, Engie, Greenchoice) onderscheiden zich nu al van de slechte (Eneco, Budget Energie, Vattenfall voor hoog-volume).
+Terugleverkosten zijn een reële post die alleen zonnepaneelbezitters betalen, en de bedragen lopen per leverancier ver uiteen. De valkuil is niet dat ze bestaan, maar dat ze vaak worden vergeleken zonder de rest van het contract erbij.
 
-Per jaar verschilt het voordeel van een goede keuze al snel €150-€350 — bovenop de besparing op leveringstarief zelf. Dat is geen detail; dat is een halve thuisbatterij.
+De belangrijkste conclusie van dit artikel is een verhouding, geen bedrag: **een staffel die vandaag een kwart van je paneelopbrengst kost, kost vanaf 1 januari 2027 bijna de helft** — niet omdat de staffel stijgt, maar omdat je opbrengst zonder saldering kleiner wordt. Wie nu een contract kiest, moet op dat tweede scenario beslissen.
 
-*Vragen over jouw specifieke leverancier of een berekening voor je situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
+En de bedragen zelf: die haal je uit je eigen tariefblad. Elk overzicht van tarieven per leverancier, ook het onze, is op de dag van publicatie al aan het verouderen.
+
+*Vragen over jouw leverancier of over een berekening voor je eigen situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
-
-
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
 ## Gerelateerde artikelen
 
+- [Beste dynamisch energiecontract 2026](/posts/beste-dynamisch-energiecontract-2026/)
+- [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
+- [Energiekosten calculator 2027](/posts/energiebesparing-calculator-2027/)
 - [Saldering stopt in 2027: volledige gids](/posts/saldering-stopt-2027-volledige-gids/)
 - [Tibber review en ervaringen 2026](/posts/tibber-review-ervaringen-2026/)
 - [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/)
-- [Beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/)
-- [Thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+- [Thuisbatterij terugverdientijd vergelijken](/thuisbatterij-terugverdientijd-vergelijken/)

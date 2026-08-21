@@ -12,6 +12,7 @@ keywords:
   - eindafrekening energie verhuizen
   - dynamisch contract nieuw adres
 author: Team DuurzaamThuisLab
+affiliate: false
 featured_image: "/images/energiecontract-verhuizen.jpg"
 category: "Energie"
 tags:
@@ -22,15 +23,9 @@ tags:
   - Frank Energie
   - slimme meter
   - eindafrekening
-products:
-  - tibber
-  - frank-energie
-  - zonneplan
-  - sessy
-  - marstek
 schema_type: "Article"
 last_updated: 2026-06-12
-lastmod: 2026-08-20
+lastmod: 2026-08-21
 faq:
 - q: "Hoe zeg ik mijn energiecontract op bij verhuizing?"
   a: "Meld je verhuizing aan bij je huidige energieleverancier, minimaal 4 weken van tevoren. Je hebt nodig: de verhuisdatum, het nieuwe adres en de EAN-nummers van zowel de oude als de nieuwe aansluiting. De leverancier regelt de opzegging en de eindafrekening op de leveringsdatum."
@@ -39,11 +34,11 @@ faq:
 - q: "Wat is een eindafrekening bij verhuizing?"
   a: "Een eindafrekening is de afsluitende jaarrekening van je energieleverancier op de datum dat jij de woning verlaat. De netbeheerder neemt op die datum de meterstand op. Op basis daarvan berekent de leverancier wat je nog moet bijbetalen of terugkrijgt over het lopende jaar."
 - q: "Moet ik bij verhuizing overstappen naar een ander energiecontract?"
-  a: "Niet verplicht, maar het is een goed moment om dit te evalueren. Als je geen dynamisch contract had en de nieuwe woning heeft een slimme meter en zonnepanelen, is een overstap naar Tibber of Frank Energie nu extra interessant. Bovendien: bij verhuizing geldt bij de meeste aanbieders geen opzegboete."
+  a: "Niet verplicht, maar het is een goed moment om dit te evalueren. Heeft de nieuwe woning een slimme meter en zonnepanelen, dan is een dynamisch contract het overwegen waard — vergelijk daarbij de vaste kosten per maand én de inkoopvergoeding per kWh, want die twee bepalen samen wat je bovenop de beursprijs betaalt. Bovendien geldt bij verhuizing bij de meeste aanbieders geen opzegboete."
 - q: "Hoe lees ik de slimme meter uit bij oplevering?"
   a: "Noteer de P1-meterstand (elektriciteit dag en nacht, en gas) direct op de opleveringsdatum. Maak een foto van het meter-display. De netbeheerder doet dit ook automatisch, maar jouw eigen documentatie is een back-up bij eventuele geschillen over de eindafrekening."
 - q: "Hoe lang duurt het aansluiten van een nieuw energiecontract na verhuizing?"
-  a: "Bij een bestaande aansluiting met slimme meter: 1–5 werkdagen. De netbeheerder registreert de eigendomsoverdracht en de nieuwe leverancier activeert het contract. Zonder slimme meter kan dit langer duren. In nieuwbouwwoningen duurt de eerste aansluiting soms 4–8 weken."
+  a: "Bij een bestaande aansluiting met een werkende slimme meter is het doorgaans een kwestie van enkele werkdagen: de netbeheerder verwerkt de wisseling en de leverancier activeert het contract. Voor een nieuwe aansluiting in nieuwbouw geldt een aanmerkelijk langere doorlooptijd. Exacte termijnen verschillen per netbeheerder en per leverancier — vraag ze na bij het aanmelden in plaats van uit te gaan van een vuistregel."
 - q: "Kan ik bij verhuizing meteen overstappen naar een dynamisch contract?"
   a: "Ja, en dat is zelfs een goed moment. Verhuizing geldt als nieuw contract — geen opzegboete van een oud vast contract. Je kunt direct bij Tibber of Frank Energie een dynamisch contract afsluiten voor het nieuwe adres."
 - q: 'Energiecontract overzetten bij verhuizen: hoe lang van tevoren?'
@@ -55,7 +50,7 @@ faq:
 - q: 'Kan ik bij verhuizing zonder boete overstappen?'
   a: 'Ja. Verhuizing wordt door vrijwel alle energieleveranciers erkend als gegronde reden voor opzegging zonder boete, ook bij een vast contract met resterende looptijd. Vraag dit expliciet na bij jouw leverancier.'
 - q: 'Hoe zit het met energiecontracten bij tijdelijk verblijf tussen twee woningen?'
-  a: 'Als je in een overgangsperiode een tijdelijke huurwoning betrekt: sluit geen langdurig vast contract. Kies voor een dynamisch contract zonder abonnement (Frank Energie) of maand-tot-maand. Zo zit je nergens aan vast.'
+  a: 'Als je in een overgangsperiode een tijdelijke huurwoning betrekt: sluit geen langdurig vast contract. Kies iets dat maandelijks opzegbaar is — een dynamisch contract bij Tibber is dat bijvoorbeeld, tegen €5,99 per maand per energiesoort plus €0,0248 per kWh inkoopvergoeding. Let bij elke aanbieder op de vaste maandkosten: die loop je door, ook als je nauwelijks verbruikt.'
 ---
 
 *Disclosure: de links naar Frank Energie, Sessy, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
@@ -91,17 +86,17 @@ Bij de meeste leveranciers kan dit via de app of het online klantenportaal. Zoek
 3. Kies of je op het nieuwe adres meteen begint of een startdatum instelt
 4. Je historische verbruiksdata blijft beschikbaar in de app
 
-**Let op:** Tibber rekent op het nieuwe adres opnieuw de aansluiting in. Als je Tibber Pulse had aangesloten op de P1-poort van je oude woning, ontkoppel die dan en meenemen — de Pulse werkt op elk adres.
+**Let op:** Tibber rekent op het nieuwe adres opnieuw de aansluiting in. Had je een Tibber Pulse op de P1-poort van je oude woning zitten, ontkoppel die dan en neem hem mee — de Pulse werkt op elk adres. Reken bij Tibber met vaste kosten van €5,99 per maand **per energiesoort**: heb je stroom én gas, dan betaal je dus twee keer dat bedrag. Daarbovenop komt een inkoopvergoeding van €0,0248 per kWh. Het contract is maandelijks opzegbaar, wat bij een verhuizing met een onzekere datum prettig is.
 
 ### Frank Energie verhuizen
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a> heeft geen maandabonnement en maakt overstappen relatief goedkoop. Bij verhuizing:
+Bij <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow noopener">Frank Energie</a> regel je een verhuizing via je account:
 
 1. Log in op frank.energie → Mijn account → Verhuizen
-2. Vul nieuwe adres en startdatum in
-3. Frank Energie stuurt een bevestiging binnen 2 werkdagen
+2. Vul nieuw adres en startdatum in
+3. Wacht de bevestiging af en controleer of de startdatum klopt met je leveringsdatum
 
-Voordeel van Frank Energie bij verhuizing: geen abonnementskosten, dus zelfs als je tijdelijk ergens anders verblijft voor de definitieve verhuisdatum, betaal je geen dubbele vaste kosten.
+Eén ding kunnen wij hier niet voor je invullen: **Frank Energie publiceert zijn vaste kosten niet op een openbare tarievenpagina.** De veelgehoorde bewering dat Frank "geen abonnementskosten" rekent, hebben wij niet kunnen verifiëren — vraag het bedrag op vóór je tekent, zeker als je een periode met twee adressen overbrugt. Reken er daarnaast op dat Frank naast een inkoopvergoeding sinds 1 juni 2025 ook een terugleverstaffel hanteert; dat is relevant zodra je in de nieuwe woning zonnepanelen hebt.
 
 ---
 
@@ -143,25 +138,26 @@ Een verhuizing is hét moment om je energiecontract te heroverwegen. Je hebt gee
 
 ### Dynamisch vs. vast: wat past bij jouw nieuwe situatie?
 
-| Situatie | Aanbevolen contract |
+| Situatie | Waar je op let bij de contractkeuze |
 |---|---|
-| Nieuwe woning met zonnepanelen | Dynamisch (Tibber of Frank Energie) |
-| Nieuwe woning met laadpaal of EV | Dynamisch (Tibber voor beste integratie) |
-| Kleine flat, geen laadpaal, geen panelen | Frank Energie (geen abonnement) |
-| Tijdelijke woning, wil geen gedoe | Vast contract, kortste looptijd |
-| Nieuwe woning + thuisbatterij gepland | Tibber (beste batterij-integraties) |
+| Nieuwe woning met zonnepanelen | Dynamisch is kansrijk, maar vergelijk de terugleververgoeding én eventuele terugleverkosten of -staffels |
+| Nieuwe woning met laadpaal of EV | Dynamisch, mits je de laadmomenten kunt sturen; check of je laadpaal met de prijs van je leverancier kan werken |
+| Kleine flat, geen laadpaal, geen panelen | Weinig te sturen; laat de vaste maandkosten zwaarder wegen dan de opslag per kWh |
+| Tijdelijke woning, wil geen gedoe | Maandelijks opzegbaar contract, of een vast contract met de kortste looptijd |
+| Nieuwe woning + thuisbatterij gepland | Dynamisch; controleer vooraf of jouw batterij de uurprijzen van deze leverancier kan uitlezen |
 
 ### Waarom nu dynamisch kiezen?
 
-Na 2027 stopt de salderingsregeling volledig. Wie zonnepanelen heeft in de nieuwe woning — of ze overweegt — doet er verstandig aan om nú al gewend te raken aan een dynamisch contract. De goedkope nachturen benutten voor thuisbatterij en EV-lader is een gewoonte die je opbouwt. Lees meer in [beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) en [dynamisch vs vast contract 2026](/posts/dynamisch-vs-vast-contract-2026/).
+De salderingsregeling stopt **volledig per 1 januari 2027** — niet geleidelijk en zonder afbouwpad. Wie zonnepanelen heeft in de nieuwe woning, of ze overweegt, verdient vanaf dat moment aan zelfverbruik en aan de terugleververgoeding, niet meer aan verrekening met de eigen afname. De goedkope uren benutten voor thuisbatterij en EV-lader is een gewoonte die je alvast kunt opbouwen. Lees meer in [beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) en [dynamisch vs vast contract 2026](/posts/dynamisch-vs-vast-contract-2026/).
 
 ### Tibber of Frank Energie?
 
-Onze inschatting, op basis van de tariefstructuur en de gedocumenteerde integraties van beide aanbieders:
-- **Tibber**: als je een laadpaal, thuisbatterij of Sessy gaat aanschaffen in de nieuwe woning. De integraties zijn beter.
-- **Frank Energie**: als je een kleinere woning betrekt, geen maandelijks abonnement wil betalen, of nog twijfelt over smart home-investeringen.
+Wat wij op basis van publieke informatie kunnen vaststellen:
 
-Beiden leveren uitstekend terug bij zonnepanelen: je krijgt de actuele spotprijs op het moment van teruglevering, wat na 2027 aanzienlijk meer kan zijn dan een vast teruglevertarief. Zie ook [saldering vs dynamisch contract rekenmodel](/posts/saldering-vs-dynamisch-contract-rekenmodel/).
+- **Tibber** is transparant over zijn kosten: €5,99 per maand per energiesoort en €0,0248 per kWh inkoopvergoeding, maandelijks opzegbaar. Er is een gedocumenteerde API, wat voor koppelingen met thuisbatterijen en laadpalen praktisch is. De prijs van de Tibber Pulse is niet publiek; vraag die op.
+- **Frank Energie** publiceert zijn vaste kosten niet, en rekent naast een inkoopvergoeding sinds 1 juni 2025 een terugleverstaffel. Zonder die twee getallen valt een vergelijking niet rond te rekenen — vraag ze op.
+
+Wij noemen daarom bewust geen winnaar: bij één van de twee ontbreken de cijfers die het antwoord bepalen. Bij beide krijg je voor teruglevering de uurprijs van dat moment, maar wat dat netto oplevert hangt af van de inkoopvergoeding en van eventuele terugleverkosten. Zie ook [saldering vs dynamisch contract rekenmodel](/posts/saldering-vs-dynamisch-contract-rekenmodel/).
 
 ### Vattenfall, Eneco en Essent: wanneer toch een vast contract?
 
@@ -185,7 +181,7 @@ Controleer dit bij het tekenen van de koopakte of via de website van de netbehee
 
 Een slimme meter heeft een communicatiemodule (GPRS of PLC) die de meterstand doorstelt naar de netbeheerder. In sommige oudere woningen is die module verouderd of uitgeschakeld. Symptoom: de leverancier krijgt geen uurdata, jij kunt geen uurafrekening zien in de app.
 
-Oplossing: bel je netbeheerder en vraag of de communicatiemodule actief is en metingen doorstuurt. Dit is een bekende probleem in woningen gebouwd vóór 2015.
+Oplossing: bel je netbeheerder en vraag of de communicatiemodule actief is en metingen doorstuurt. Het komt vooral voor bij meters van de eerste uitrolgeneratie; hoe vaak precies, is niet uit publieke cijfers af te leiden.
 
 ### P1-poort koppelen voor realtime monitoring
 
@@ -214,9 +210,10 @@ Dit overkomt meer mensen dan je denkt. Bel direct je netbeheerder (Enexis, Liand
 
 ## Verhuistaken-planning
 
-De energieoverstap is één van de tientallen taken die bij een verhuizing komen kijken. Een verhuisplanner zoals [verhuisplanner.app](https://verhuisplanner.app) houdt al die taken overzichtelijk bij: van adreswijzigingen en energiecontracten tot het regelen van de verzekeringen en het omzetten van abonnementen. Dat scheelt vergeten taken en last-minute stress.
+De energieoverstap is één van de tientallen taken die bij een verhuizing komen kijken, en juist de energiezaken hebben een harde deadline. Zet daarom twee herinneringen in je agenda — in welk lijstje of welke app je dat doet, maakt niet uit:
 
-Specifiek voor energie: plan in de app een herinnering om het contract minimaal 4 weken voor de verhuisdatum te melden, en een herinnering voor de dag ná oplevering om de meterstand te controleren in de nieuwe woning.
+- **Vier weken vóór de verhuisdatum:** melding bij je huidige leverancier, met het nieuwe adres en de EAN-nummers.
+- **De dag ná oplevering:** meterstand in de nieuwe woning controleren en vastleggen, en nakijken of het nieuwe contract daadwerkelijk is geactiveerd.
 
 ---
 
@@ -226,11 +223,11 @@ Als je in de nieuwe woning ook zonnepanelen gaat plaatsen of een thuisbatterij o
 
 ### Scenario 1: nieuwe woning met bestaande zonnepanelen
 
-De vorige eigenaar had panelen. Jij neemt ze over. Direct dynamisch contract afsluiten — dat is de optimale keuze voor maximale teruglevering na 2027. Vergelijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> en <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>. Vraag de installatiedocumentatie en monitoring-inloggegevens op van de vorige eigenaar.
+De vorige eigenaar had panelen. Jij neemt ze over. Omdat saldering per 1 januari 2027 wegvalt, gaat het vanaf dan om zelfverbruik en om wat je netto voor teruglevering krijgt. Vergelijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> en <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow noopener">Frank Energie</a> op drie posten tegelijk: vaste kosten per maand, inkoopvergoeding per kWh en eventuele terugleverkosten of -staffel. Vraag daarnaast de installatiedocumentatie en monitoring-inloggegevens op bij de vorige eigenaar.
 
 ### Scenario 2: nieuwe woning zonder panelen, jij gaat ze plaatsen
 
-Sluit eerst een dynamisch contract af. Daarna offertes aanvragen bij installateurs. Als je kiest voor <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener">Zonneplan</a> (betalen per kWh, geen aanschafkosten): check of Zonneplan actief is in jouw regio en of het contract samengaat met een dynamisch elektriciteitscontract.
+Sluit eerst een dynamisch contract af. Daarna offertes aanvragen bij installateurs. Vraag er ook één op bij <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener">Zonneplan</a>: dat is een koopconstructie zoals bij elke andere installateur — geen lease en geen betalen-per-kWh — dus je kunt de offerte één-op-één naast die van een lokale partij leggen.
 
 ### Scenario 3: nieuwbouwwoning zonder gas
 

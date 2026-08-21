@@ -1,7 +1,7 @@
 ---
 title: Bewust Duurzaam Thuis — Complete Gids 2026
 date: 2026-10-14 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
 description: "Hoe verduurzaam je je huis stap voor stap in 2026? Isolatie, zonnepanelen, warmtepomp, EV en dynamisch contract — een driejarig stappenplan met cijfers."
 categories:
@@ -26,43 +26,27 @@ faq:
 - q: Waar begin je met het verduurzamen van een huis?
   a: 'Isolatie eerst: dakisolatie levert de hoogste besparing per euro. Daarna pas zonnepanelen of warmtepomp — een ongeïsoleerd huis met warmtepomp wordt nooit warm en kost je een vermogen.'
 - q: Wat kost een complete verduurzaming gemiddeld?
-  a: 'Voor een rijtjeshuis bouwjaar 1980: €25.000 tot €45.000 voor isolatie + zonnepanelen + hybride warmtepomp. Volledige all-electric met thuisbatterij: €40.000 tot €65.000. Subsidies dekken 15-25%.'
+  a: 'Voor een rijtjeshuis bouwjaar 1980: €25.000 tot €45.000 voor isolatie + zonnepanelen + hybride warmtepomp. Volledige all-electric met thuisbatterij: €40.000 tot €65.000. Wat de ISDE daarvan dekt, hangt af van welke maatregelen je uitvoert en van het bedrag per maatregel; dat zoek je op via de apparatenlijst en rekentool op rvo.nl. Zonnepanelen, thuisbatterijen en laadpalen vallen niet onder de ISDE.'
 - q: Welke subsidies zijn er in 2026?
   a: 'Eigenaar-bewoners vallen onder de ISDE: warmtepomp, zonneboiler, isolatie, ventilatie in combinatie met isolatie, warmtenetaansluiting en elektrisch koken, met een bedrag per maatregel (zie rvo.nl) en hogere bedragen bij twee of meer maatregelen. VvE''s vallen onder de SVVE. Daarnaast zijn er gemeentelijke regelingen (variabel) en de verduurzamingshypotheek met lagere rente. BTW op zonnepanelen blijft 0%. De oude SEEH is per eind 2022 gesloten.'
 - q: Verdien je de investering ooit terug?
-  a: 'Isolatie: 6-9 jaar. Zonnepanelen: 7-10 jaar afhankelijk van saldering. Warmtepomp: 12-18 jaar zonder subsidie, 8-12 met. Thuisbatterij: 9-14 jaar afhankelijk van dynamisch contract.'
+  a: 'In modelberekeningen met een stroomprijs van €0,26/kWh en een gasprijs van €1,10/m³ komen isolatiemaatregelen doorgaans op 6 tot 9 jaar uit, zonnepanelen op 7 tot 10 jaar, een warmtepomp op 12 tot 18 jaar vóór subsidie en een thuisbatterij op 9 tot 14 jaar. Twee waarschuwingen: de ISDE korting de warmtepomptermijn in, maar met welk bedrag hangt van je typenummer af (rvo.nl), en vanaf 2027 telt bij zonnepanelen alleen nog zelfverbruik plus de terugleververgoeding mee — saldering is er dan niet meer.'
 - q: Is een warmtepomp zinvol zonder goede isolatie?
   a: 'Nee. Een lucht-water-warmtepomp werkt het beste bij aanvoertemperatuur 35-45 graden — dat haal je alleen met label B of beter. Eerst isoleren, dan warmtepomp. Een hybride opstelling kan een tussenstap zijn.'
 - q: Hoeveel is er per jaar te besparen op energie?
-  a: 'Gemiddeld €2.500 tot €4.500 per jaar voor een gezin in een goed verduurzaamd huis (was €4.500 gas + €1.800 stroom). Met dynamisch contract en thuisbatterij komt er nog €400-€800 per jaar bij.'
+  a: 'Dat volgt uit je eigen verbruik, niet uit een gemiddelde. Reken het zo na: het gasverbruik dat je wegneemt maal €1,10 per m³, plus de netto-import elektriciteit die je wegneemt maal €0,26 per kWh. Voor het rijtjeshuis in de modelberekening onderaan dit artikel — 2.100 m³ gas naar nul en 3.000 kWh minder import — komt dat uit op ongeveer €3.100 per jaar. Een dynamisch contract en een thuisbatterij voegen daar arbitragewinst aan toe, maar die hangt af van de prijsspreiding in dat jaar en is geen vast bedrag.'
 - q: 'Hoeveel CO2 bespaar je met een complete verduurzaming?'
-  a: 'Een gemiddeld rijtjeshuis stoot 6,5 ton CO2 per jaar uit voor verwarming en elektriciteit. Na volledige verduurzaming (label A+ + zon + warmtepomp + groene stroom) blijft daar ongeveer 1,2 ton van over — een reductie van 82%. Inclusief EV in plaats van benzineauto kom je op netto 0,4 ton CO2 per jaar.'
+  a: 'Het grootste deel van de winst zit in het wegnemen van aardgas: elke kubieke meter die je niet meer stookt, scheelt ongeveer 1,8 kg CO2. Voor het rijtjeshuis in de modelberekening onderaan — 2.100 m³ gas naar nul — is dat in de orde van 3,8 ton per jaar. Wat er daarna aan elektriciteitsuitstoot overblijft, hangt af van de CO2-intensiteit van het net op de uren dat je inkoopt, en die verschilt per jaar en per uur. Wij noemen daarom geen vast eindpercentage: reken met je eigen gasverbruik en behandel de stroomkant als variabel.'
 - q: 'Wat is het verschil tussen label B en A++?'
   a: 'Label B betekent in 2026 een netto energiebehoefte van 110-160 kWh/m²/jaar, label A++ duidt op een passiefhuis-niveau van onder 30 kWh/m²/jaar. Voor de meeste bestaande huizen is label A realistisch en kostenefficiënt — A++ vereist vaak triple glas, 30 cm gevelisolatie en mechanische ventilatie met warmteterugwinning. Daarvoor moet de investering omhoog naar €70.000+.'
 - q: 'Moet je de gasaansluiting echt schrappen?'
   a: 'Niet automatisch. Een aansluiting kost €150-€250 per jaar vast. Schrappen levert dus pas geld op als je vrijwel nul m³ gas gebruikt. Schrappen kost eenmalig €700-€1.300. Bij verkoop zien sommige kopers het als pluspunt, anderen als beperking. Ons advies: schrap pas als je structureel onder de 100 m³ per jaar zit.'
 - q: 'Wat doet de Wet betaalbare huur met verduurzaming?'
-  a: 'Verhuurders zijn vanaf 2026 verplicht woningen met label E/F/G aan te pakken — of huurverlaging te verstrekken. Voor huurders betekent dit dat je kunt aankloppen bij je verhuurder voor isolatie of warmtepomp. Voor particuliere verhuurders: investeer NU want over twee jaar verlies je verhuurinkomsten.'
+  a: 'De Wet betaalbare huur regelt geen verduurzamingsplicht. Wat de wet doet, is het woningwaarderingsstelsel dwingend maken voor het middenhuursegment, en in dat stelsel telt het energielabel mee: een slecht label levert minpunten op en verlaagt daarmee de maximaal toegestane huur. Het effect is dus indirect — beter label, hogere toegestane huur. Als huurder kun je je huurprijs laten toetsen door de Huurcommissie en met je verhuurder in gesprek over isolatie. Concrete label-deadlines noemen wij hier niet: die staan niet in deze wet.'
 - q: 'Hoe vind je een betrouwbare installateur?'
   a: 'Drie checks: 1) erkend bij InstallQ, Techniek Nederland of Holland Solar, 2) minimaal 5 jaar bedrijfsregistratie KvK, 3) Google reviews boven 4,4 met minstens 50 beoordelingen. Vraag altijd drie offertes op. Een aanbieding die "alleen vandaag" geldig is, is het duidelijkste alarmsignaal dat er is.'
 - q: 'Wat als je in een appartement woont?'
-  a: 'Binnen een VvE kun je zelf alleen klein werk doen: HR++ glas (indien toegestaan), balkonpanelen (in 2026 in 80% van VvE''s toegestaan), inductie koken, water besparen. Voor zonnedak en warmtepomp moet de VvE besluiten — daar zijn aparte subsidies voor (SCE). Spreek je VvE aan en wijs ze op de wettelijke verplichting tot een meerjaren-onderhoudsplan inclusief verduurzaming.'
-products:
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
-- name: Marstek Venus E
-  url: https://go.duurzaamthuislab.nl/marstek
-  price: '2500'
-- name: Tibber dynamisch contract
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '0'
-- name: Frank Energie
-  url: https://go.duurzaamthuislab.nl/frank-energie
-  price: '0'
-- name: Zonneplan
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '6995'
+  a: 'Binnen een VvE kun je zelf alleen klein werk doen: HR++ glas (indien toegestaan), inductie koken, water besparen en eventueel balkonpanelen. Voor balkonpanelen heb je vrijwel altijd toestemming van de VvE nodig, want ze veranderen het aanzicht van het gebouw; hoeveel VvE''s dat toestaan is niet uit publieke cijfers bekend, dus reken er niet op dat het vanzelf gaat. Voor een zonnedak of een collectieve warmtepomp moet de VvE besluiten — daarvoor bestaan de SVVE (voor de VvE zelf) en de SCE (voor collectieve opwek).'
 schema_type: Article
 last_updated: '2026-10-14'
 category: verduurzamen
@@ -95,7 +79,7 @@ Wie deze volgorde negeert en bijvoorbeeld eerst een warmtepomp installeert in ee
 
 Een huis isoleren is saai. Er hangt geen flitsende app aan, je laat het niet aan visite zien, en de installateur graaft drie weken in je gevel. Maar isolatie is in 2026 nog steeds de maatregel met de hoogste besparing per geïnvesteerde euro: gemiddeld 6 tot 9 jaar terugverdientijd, daarna 20+ jaar gratis besparing.
 
-Dakisolatie is doorgaans de maatregel met de kortste terugverdientijd. Bij een ongeïsoleerd dak van een rijtjeshuis levert een isolatiepakket van 12 cm PIR (Rd rond 5,4) een besparing op die in de orde van vele honderden kubieke meters gas per jaar ligt. Reken het door met je eigen cijfers: het aandeel van je warmtevraag dat via het dak weglekt, maal je gasverbruik, maal je gasprijs. Bij een investering van enkele duizenden euro's en de ISDE-subsidie erbij komt de terugverdientijd bij een slecht geïsoleerd dak vaak onder de vijf jaar.
+Dakisolatie is doorgaans de maatregel met de kortste terugverdientijd. Bij een ongeïsoleerd dak van een rijtjeshuis levert een isolatiepakket van 12 cm PIR (Rd rond 5,4) een besparing op die in de orde van vele honderden kubieke meters gas per jaar ligt. Reken het door met je eigen cijfers: het aandeel van je warmtevraag dat via het dak weglekt, maal je gasverbruik, maal je gasprijs. In dit artikel rekenen wij consequent met **€1,10 per m³ gas** en **€0,26 per kWh stroom** — beide all-in inclusief energiebelasting en btw, en beide een aanname; vul je eigen tarieven in als die afwijken. Bespaar je op die manier 600 m³ gas op een investering van €4.200, dan zit je vóór subsidie rond de zes jaar. De ISDE korting daar nog wat af, maar het bedrag hangt af van de maatregel en staat op rvo.nl; let op dat je isolatiesubsidie ná uitvoering aanvraagt, binnen twaalf maanden.
 
 **De juiste volgorde voor isolatie:**
 
@@ -104,15 +88,22 @@ Dakisolatie is doorgaans de maatregel met de kortste terugverdientijd. Bij een o
 - **Vloerisolatie**: vaak vergeten maar levert 8-12% besparing, kosten €25-€45 per m². Bij kruipruimte met bodemfolie + spouwvulling
 - **Spouwmuurisolatie**: alleen als de spouw open is en niet vochtig. €1.200-€2.500 voor doorsnee tussenwoning
 
-De SVVE-subsidie dekt tot 30% van de isolatiekosten in 2026 mits je twee of meer maatregelen tegelijk uitvoert. Alle details staan in [de complete gids isolatie-subsidies 2026](/posts/isolatie-subsidie-nederland-2026/) — let op de eis dat je werkbon van een erkende installateur moet komen, klusbedrijf zonder VCA-certificaat wordt niet vergoed.
+Let op welke regeling voor jou geldt: de **SVVE is uitsluitend voor VvE's** en andere verenigingen van eigenaars. Ben je eigenaar-bewoner van een eengezinswoning, dan loopt isolatie via de **ISDE**, met een bedrag per maatregel (op te zoeken op rvo.nl) en een hoger bedrag zodra je twee of meer maatregelen combineert. Aanvragen doe je ná uitvoering, binnen twaalf maanden. Alle details staan in [de complete gids isolatie-subsidies 2026](/posts/isolatie-subsidie-nederland-2026/) — let ook op de eis dat de werkbon van een erkend installatiebedrijf moet komen.
 
 Voor wie elektrisch gaat koken na isolatie: zie ook [inductie versus gas koken](/posts/elektrisch-koken-inductie-vs-gas-2026/) — een vaak vergeten stap die nodig is om uiteindelijk de gasaansluiting te kunnen schrappen.
 
 ## Energie opwekken: zonnepanelen + thuisbatterij
 
-Zonnepanelen waren tot 2023 de no-brainer van duurzaam wonen. Door de afbouw van de salderingsregeling (definitief gestopt per 1 januari 2027) verandert het rekensommetje fundamenteel. Maar zonnepanelen blijven rendabel — alleen de strategie verschuift.
+Zonnepanelen waren tot 2023 de no-brainer van duurzaam wonen. Doordat de salderingsregeling per 1 januari 2027 stopt, verandert het rekensommetje fundamenteel. Maar zonnepanelen blijven rendabel — alleen de strategie verschuift.
 
-In 2026 saldeer je nog 64% van wat je teruglevert. Vanaf 2027 nul. Dat betekent dat zelfverbruik (direct of via batterij) bepaalt hoeveel rendement je haalt. Een 4.000 kWh-installatie die 30% direct verbruikt levert in 2027 nog steeds €900 per jaar op, eentje die 70% zelf verbruikt €1.400.
+Eerst het misverstand uit de weg: **er is geen afbouwpad.** In 2026 saldeer je nog voor 100% van wat je teruglevert; per 1 januari 2027 is het nul. Het schema waarin het percentage tussen 2027 en 2031 stapsgewijs zou dalen (73%, 64%, 55%, 46%) hoort bij een wetsvoorstel dat het niet heeft gehaald, en circuleert helaas nog breed. Zolang er gesaldeerd wordt, is een teruggeleverde kWh net zoveel waard als een kWh die je niet inkoopt — €0,26 in onze rekenconstante. Dat is precies waarom 2027 zo'n harde knip is.
+
+Vanaf dat moment bepaalt zelfverbruik (direct of via een batterij) je rendement. **Modelberekening** met €0,26/kWh voor vermeden inkoop en een aangenomen terugleververgoeding van €0,07/kWh — dat laatste bedrag is een aanname, want leveranciers hebben hun tarieven voor 2027 nog niet gepubliceerd:
+
+- Installatie van 4.000 kWh, 30% direct zelfverbruik: 1.200 kWh × €0,26 + 2.800 kWh × €0,07 = **ongeveer €510 per jaar**
+- Dezelfde installatie, 70% zelfverbruik: 2.800 kWh × €0,26 + 1.200 kWh × €0,07 = **ongeveer €810 per jaar**
+
+Het verschil van zo'n €300 per jaar tussen die twee is de hele reden dat batterijen, warmtepompen en slim laden na 2027 interessanter worden. En het laat zien hoe groot de knip is: onder saldering was diezelfde 4.000 kWh ruim €1.000 waard.
 
 **Referentie-installatie:** 12 panelen van 450 Wp is 5,4 kWp, met een omvormer van vergelijkbaar vermogen. Reken op een all-in prijs rond de €6.800 en, volgens PVGIS bij een gunstige oriëntatie in Nederland, op een jaaropbrengst van grofweg 4.500 tot 5.000 kWh. Laat een PVGIS-simulatie maken voor jouw dakvlak — dat is de enige opbrengstindicatie die voor jouw huis geldt.
 
@@ -123,9 +114,9 @@ Wil je dit jaar nog instappen, kijk dan kritisch naar de offerte:
 - Garantievoorwaarden: minimaal 25 jaar productgarantie op de panelen
 - Installateur erkend bij InstallQ of Holland Solar
 
-Volledige merkvergelijking voor 2026 staat in [de beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/), en voor wie laat instapt: [zonnepanelen kopen na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) legt uit waarom 8-10 panelen vaak slimmer is dan 16. Vergeet ook niet de [BTW-teruggaaf-stappen voor zonnepanelen](/posts/btw-teruggeven-zonnepanelen-2026-stappenplan/) — dit is de stap die het vaakst wordt overgeslagen, en het gaat om honderden euro's.
+Volledige merkvergelijking voor 2026 staat in [de beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/), en voor wie laat instapt: [zonnepanelen kopen na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) legt uit waarom 8-10 panelen vaak slimmer is dan 16. Over btw: op zonnepanelen en de direct noodzakelijke onderdelen geldt sinds 2023 het **nultarief**, en daarmee is de oude teruggaveroute verdwenen. Je hoeft je dus niet meer als ondernemer aan te melden om btw terug te vragen — er zit geen btw meer in de rekening. Voor de warmtepomp, de boiler, de isolatie en de thuisbatterij geldt wél 21%.
 
-Een goedkopere instap voor huurders of mensen met klein dak: [balkon-zonnepanelen plug-in](/posts/balkon-zonnepanelen-plug-in-nederland-2026/) — vanaf €299 voor 400 Wp en geen installateur nodig.
+Een goedkopere instap voor huurders of mensen met een klein dak: [balkon-zonnepanelen plug-in](/posts/balkon-zonnepanelen-plug-in-nederland-2026/). Je hebt er geen installateur voor nodig, maar aanmelden bij de netbeheerder is verplicht en de VvE of verhuurder moet met de bevestiging instemmen.
 
 <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan offerte</a>
 
@@ -133,29 +124,33 @@ Een goedkopere instap voor huurders of mensen met klein dak: [balkon-zonnepanele
 
 Een batterij van 5 kWh op een dynamisch contract verdient op twee manieren: door zonneoverschot op te slaan in plaats van terug te leveren, en door prijsarbitrage (laden op de goedkoopste uren, ontladen tijdens de piek). De opbrengst volgt uit je bruikbare capaciteit maal het aantal cycli per jaar maal de gemiddelde prijsspreiding, minus de omzetverliezen. Die spreiding verschilt sterk per seizoen, dus reken met een jaargemiddelde en niet met een goede maand. Wij vergelijken [Sessy versus Marstek thuisbatterij](/posts/sessy-vs-marstek-thuisbatterij-2026/), en tegen Tesla en Huawei: [Huawei Luna vs Tesla Powerwall vs Sessy](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/).
 
+Sessy (van Charged, uit Andelst) is de aanbieder die zijn prijzen wel gewoon publiceert: **5 kWh voor €3.550, 10 kWh voor €5.500 en de Plus van 15 kWh voor €9.400**, inclusief btw maar **exclusief installatie**. Wil je de noodstroomfunctie gebruiken, dan komt daar een basisinstallatie van €1.200 bij. Reken bij het laadvermogen op 2,2 kW laden en 1,7 kW ontladen en op 6.000+ cycli — dat laadvermogen is bewust bescheiden, wat betekent dat je een goedkoop uur van één uur niet volledig kunt benutten. Op een thuisbatterij geldt 21% btw; het nultarief voor zonnepanelen strekt zich niet uit tot accupakketten, en de ISDE dekt batterijen niet.
+
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy thuisbatterij</a>
 
-Voor het goedkopere segment is Marstek een serieuze speler — lees [onze Marstek Venus E review](/posts/marstek-venus-review-thuisbatterij/) en check de [actuele thuisbatterij-prijzen vergelijking](/posts/thuisbatterij-prijzen-vergelijking-2026/).
+Voor het goedkopere segment is Marstek een serieuze speler. Let wel op twee dingen. De huidige lijn bestaat uit de Mini 2, de E 4.0 (5 kWh) en de E MAX (10 kWh); de Venus-modellen zijn de vorige generatie, dus laat je niet een oude serie verkopen. En Marstek publiceert voor die thuisbatterijen geen consumentenprijs — de enige prijs die het merk zelf openbaar maakt, is €599 voor de Jupiter C Plus. Bedragen die je online tegenkomt, komen dus van wederverkopers en variëren. Let daarnaast op dat de garantie vervalt buiten het land van aankoop en dat de Nederlandse webshop op het moment van schrijven nog als "coming soon" staat. Lees [onze Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/) en de [actuele thuisbatterij-prijzen vergelijking](/posts/thuisbatterij-prijzen-vergelijking-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek Venus E</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek</a>
 
 Een veelgestelde vraag: heeft een [batterij na 2027 zonder zonnepanelen nog zin](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/)? Antwoord: alleen met een dynamisch contract, en dan puur op arbitrage — de terugverdientijd loopt in dat geval flink op omdat de post zonneoverschot wegvalt.
 
 ## Verwarming: van HR-ketel naar warmtepomp
 
-Hier wordt de duurste fout gemaakt. De cv-installateur belt met de mededeling dat je ketel is afgeschreven en biedt een nieuwe HR-ketel aan. Zeg je ja, dan zit je weer vijftien jaar aan gas vast. In 2026, met gasprijzen die structureel boven €1,40/m³ blijven en de aangekondigde energiebelastingverhoging op gas tot 2030, is dat een dure beslissing.
+Hier wordt de duurste fout gemaakt. De cv-installateur belt met de mededeling dat je ketel is afgeschreven en biedt een nieuwe HR-ketel aan. Zeg je ja, dan zit je weer vijftien jaar aan gas vast. Met de gasprijs waarmee wij hier rekenen — €1,10 per m³ all-in, waarvan €0,7268 alleen al energiebelasting inclusief btw is — kost een verbruik van 1.400 m³ je zo'n €1.540 per jaar. Waar de gasprijs de komende jaren heen gaat, weten wij niet en voorspellen wij niet; wat vaststaat is dat het belastingdeel het grootste en meest politiek gevoelige deel van die rekening is.
 
 **De drie opties:**
 
-1. **Hybride warmtepomp**: lucht/water voor verwarming + bestaande HR-ketel voor tapwater en koudste dagen. Investering €5.500-€9.000, ISDE-subsidie €1.950. Geschikt voor label C/D huizen
-2. **Volledige lucht/water-warmtepomp**: vervangt gas helemaal, vereist label B of beter. Investering €13.000-€22.000, ISDE €2.925-€4.000
+1. **Hybride warmtepomp**: lucht/water voor verwarming + bestaande HR-ketel voor tapwater en de koudste dagen. Investering €5.500-€9.000 inclusief 21% btw. Geschikt voor label C/D
+2. **Volledige lucht/water-warmtepomp**: vervangt gas helemaal, vereist label B of beter. Investering €13.000-€22.000 inclusief 21% btw
 3. **Bodemwarmtepomp**: hoogste rendement (COP 4,5+), hoogste investering €20.000-€35.000. Pas vanaf 200 m² of bij weinig dakruimte
+
+Wij noemen hier bewust geen ISDE-bedragen. De RVO-pagina's zijn daarover onderling niet eenduidig, en het bedrag hangt af van het **typenummer** van het toestel dat je laat plaatsen. De route die werkt: zoek jouw model op in de RVO-apparatenlijst of rekentool, en vraag de subsidie **ná** installatie aan, binnen 24 maanden. Voor isolatie is dat binnen 12 maanden na uitvoering. Een combinatiebonus of een 30%-regeling bestaat niet.
 
 Voor wie nu een aflopende ketel heeft is de [hybride warmtepomp in 2026](/posts/beste-hybride-warmtepomp-2026/) vaak de slimste tussenstap. Bij een typisch rijtjeshuis bespaar je 60-65% gas zonder dat je hele installatie op de schop hoeft.
 
 Welk merk? Daikin, NIBE, Vaillant en Atlantic staan al jaren in de kopgroep — alle voor- en nadelen in [de beste warmtepomp-merken vergelijking 2026](/posts/beste-warmtepomp-merk-2026/). Specifiek voor mensen met een rijtjeshuis (geluidsnormen!): [welke warmtepomp past in een rijtjeshuis](/posts/beste-warmtepomp-rijtjeshuis-2026/).
 
-De subsidie is in 2026 nog steeds aantrekkelijk maar wordt jaarlijks lager — details staan in [ISDE-subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/). Een tip: koop voor 1 oktober want het ISDE-budget loopt elk jaar eind oktober leeg.
+De voorwaarden en de route om het bedrag voor jouw toestel op te zoeken, staan in [ISDE-subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/). Wij raden je niet aan je aankoop te haasten vanwege een dreigend budgetplafond: of en wanneer het ISDE-budget in een jaar opraakt, is niet vooraf te weten, en een gehaaste keuze voor het verkeerde toestel kost meer dan de subsidie oplevert. Controleer wel de actuele status op rvo.nl vóórdat je opdracht geeft.
 
 Voor de techniekliefhebbers: een warmtepomp met Modbus-interface is via Home Assistant op stroomprijs aan te sturen. Hoe dat werkt staat in [Home Assistant warmtepomp integratie 2026](/posts/home-assistant-warmtepomp-integratie-2026/).
 
@@ -198,11 +193,11 @@ Een elektrische auto past niet in elke situatie. Rijd je 8.000 km per jaar en he
 
 **Zo reken je het uit** (modelvoorbeeld met een compacte EV van rond de 64 kWh):
 
-- Verbruik: reken op 16 tot 18 kWh per 100 km bij gemengd gebruik
-- Thuisladen tegen het nachttarief van een dynamisch contract: dat komt bij een gemiddelde spreiding neer op grofweg €0,07 per kilometer
-- Benzine ter vergelijking: bij €1,95 per liter en 1 op 14 kom je op circa €0,14 per kilometer
+- Verbruik: reken op 16 tot 18 kWh per 100 km bij gemengd gebruik, dus ongeveer 17 kWh
+- Thuisladen tegen de all-in stroomprijs van €0,26/kWh: 17 × €0,26 = €4,42 per 100 km, dus **€0,044 per kilometer**. Laad je gericht in de goedkope uren van een dynamisch contract, dan valt dit lager uit — maar dat is geen bedrag dat wij hard kunnen maken, dus wij rekenen met het all-in tarief
+- Benzine ter vergelijking: bij €1,95 per liter en 1 op 14 kom je op **€0,139 per kilometer**
 
-Het verschil is dus ruwweg zeven cent per kilometer. Bij 28.000 kilometer per jaar is dat rond de €1.900 aan brandstofkosten; bij 10.000 kilometer nog geen €700. Daar komen lagere onderhoudskosten bij (geen olie, geen uitlaat) en, voorlopig, een gunstiger wegenbelastingregime. Vul je eigen jaarkilometrage in — dat is de variabele die bepaalt of de overstap uitkomt.
+Het verschil is dus ruwweg **9,5 cent per kilometer**. Bij 20.000 kilometer per jaar is dat €1.900 aan brandstofkosten, bij 10.000 kilometer €950 en bij 28.000 kilometer €2.660. Daar komen lagere onderhoudskosten bij (geen olie, geen uitlaat). Over toekomstige belastingregimes doen wij geen uitspraak. Vul je eigen jaarkilometrage in — dat is de variabele die bepaalt of de overstap uitkomt.
 
 Voor de laadinfrastructuur: lees [de beste thuislaadpaal 2026](/posts/beste-laadpaal-thuis-2026/) en let goed op het stekker-type — [type 2 versus CCS](/posts/ev-thuislader-stekker-type-2-ccs-2026/) is verwarrend voor nieuwkomers.
 
@@ -212,8 +207,12 @@ De optimale opzet is laden op zonneoverschot met een thuisbatterij als buffer. H
 
 Dit is in 2026 de maatregel met het beste rendement per geïnvesteerde euro — niet omdat hij de meeste euro's bespaart, maar omdat de investering nul is: je ruilt de risicopremie van een vast contract in voor de inkoopprijs zelf. Voorwaarde: je accepteert dat de prijs per uur fluctueert.
 
-**Hoe dynamisch contract werkt:**
-Je betaalt de uurprijs van de stroombeurs (EPEX-spot) plus een vast opslag (€0,02-€0,03 per kWh) en de leveringskosten. In 2025 lag de gemiddelde dynamische prijs €0,18/kWh tegenover €0,32/kWh bij een vast contract.
+**Hoe een dynamisch contract werkt:**
+Je betaalt per uur de prijs van de stroombeurs (EPEX day-ahead), plus een inkoopvergoeding per kWh, plus energiebelasting en btw, plus de vaste kosten van je leverancier. Netbeheerkosten staan daar los van: dat is een **vast jaarbedrag** en geen prijs per kWh, dus die post verandert niet als je van contractvorm wisselt.
+
+De cijfers waarmee je kunt rekenen, over heel 2025 gemeten: de EPEX day-ahead-prijs lag gemiddeld op **€0,105/kWh**. Er waren **212 uren met een negatieve prijs**, en het duurste uur van het jaar was €0,63 op 20 januari 2025 om 17:00. Tel je bij dat jaargemiddelde een inkoopvergoeding van ongeveer €0,02 en de energiebelasting van €0,09161 op, en zet je 21% btw over het geheel, dan kom je op de **€0,26/kWh** waarmee wij in dit artikel rekenen.
+
+Of dat goedkoper is dan een vast contract, kunnen wij niet in het algemeen zeggen: dat hangt af van het vaste tarief dat je aangeboden krijgt en van de vraag of je verbruik in de dure of de goedkope uren valt. Een dynamisch contract belóóft geen lagere prijs — het geeft je de beursprijs, met het risico en de stuurruimte die daarbij horen.
 
 Vooral interessant als je:
 - Zonnepanelen hebt (terugleveren tegen actuele uurprijs)
@@ -223,11 +222,11 @@ Vooral interessant als je:
 
 Geen van deze? Dan kan vast contract veiliger zijn. Lees [dynamisch versus vast contract 2026](/posts/dynamisch-vs-vast-contract-2026/) voor de afweging.
 
-De drie grote spelers vergelijken wij in [de dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/). Onze inschatting: Tibber is het sterkst op app en API, Frank Energie op prijs en telefonische bereikbaarheid. De directe duel: [Frank Energie versus Tibber](/posts/frank-energie-vs-tibber-2026/).
+De grote spelers vergelijken wij in [de dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/). Wat wij op publieke informatie kunnen vaststellen: **Tibber** publiceert zijn kosten volledig — €5,99 per maand **per energiesoort** (met stroom én gas betaal je dat dus twee keer) plus €0,0248 per kWh inkoopvergoeding, maandelijks opzegbaar. De prijs van de Tibber Pulse is niet publiek. **Frank Energie** publiceert zijn vaste kosten niet en rekent naast een inkoopvergoeding sinds 1 juni 2025 een terugleverstaffel; wie panelen heeft, moet die staffel opvragen voordat een vergelijking zinvol is. Wij wijzen daarom geen winnaar aan op prijs: bij één van de twee ontbreken de getallen. De directe duel: [Frank Energie versus Tibber](/posts/frank-energie-vs-tibber-2026/).
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber dynamisch contract</a>
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Frank Energie</a>
 
 Voor zonnepaneelbezitters specifiek: [het beste dynamische contract bij zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) en onze [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/). Een alternatieve speler die opkomt is ANWB Energie — zie de [ANWB Energie dynamisch review 2026](/posts/anwb-energie-dynamisch-review-2026/).
 
@@ -243,53 +242,56 @@ In 2026 lopen er meer subsidies dan ooit — en juist daarom raken mensen verstr
 - **SVVE** (VvE's): isolatie, warmtetechnieken, energieadvies en oplaadpuntenadvies. Deze regeling kwam op 23 januari 2023 in de plaats van de oude SEEH, die tot en met 31 december 2022 aan te vragen was
 - **SCE** (collectieve zon): voor VvE's en buurtcoöperaties
 - **Gemeentelijke subsidies**: variabel, controleer eigen gemeente via energieloket
-- **BTW-teruggaaf zonnepanelen**: 0% BTW blijft 2026, particulier kan BTW terugvorderen
-- **Verduurzamingshypotheek**: 0,3-0,7% lagere rente bij grote banken
+- **Btw**: 0% op zonnepanelen en de direct noodzakelijke onderdelen. Dat nultarief vervángt de oude teruggaveroute — sinds 1 januari 2023 valt er niets meer terug te vragen, want er zit geen btw in de rekening. Op een warmtepomp, boiler, isolatie, thermostaat, inductieplaat en thuisbatterij geldt 21%
+- **Verduurzamingshypotheek**: verschillende banken geven een rentekorting op het deel dat je voor verduurzaming leent. De hoogte verschilt per bank en per moment; vraag het actuele verschil op
 
-Financiering is in 2026 vaak slimmer dan eigen geld. Bij een verduurzamingshypotheek van €30.000 over 20 jaar betaal je ongeveer €170 per maand — terwijl je besparing €280-€320 per maand is. Netto cashflow positief vanaf maand 1. Vergelijk de opties in [verduurzamingshypotheek 2026 vergelijking](/posts/verduurzamingshypotheek-2026-vergelijking/) en ruimere [financiering warmtepomp zonnepanelen](/posts/financiering-warmtepomp-zonnepanelen-2026/).
+Financiering kan slimmer zijn dan eigen geld, maar reken het na met de rente die jij krijgt. Een **modelvoorbeeld**: leen je €30.000 over 20 jaar tegen 4% annuïtair, dan betaal je ongeveer €182 per maand. De besparing in de modelberekening onderaan dit artikel is €3.090 per jaar, oftewel €258 per maand. In dát geval is de cashflow vanaf de eerste maand positief — maar bij een hogere rente, een kleinere besparing of een gefaseerde uitvoering geldt dat niet automatisch. Vergelijk de opties in [verduurzamingshypotheek 2026 vergelijking](/posts/verduurzamingshypotheek-2026-vergelijking/) en ruimere [financiering warmtepomp zonnepanelen](/posts/financiering-warmtepomp-zonnepanelen-2026/).
 
-Tip: stapel subsidies waar het mag. ISDE + gemeentelijke isolatiesubsidie + lagere rente verduurzamingshypotheek = vaak 20-30% effectieve kostprijsverlaging. Check altijd of regelingen combineerbaar zijn, ze sluiten elkaar in sommige gemeenten uit.
+Tip: stapel regelingen waar het mag. ISDE plus een gemeentelijke isolatiesubsidie plus een rentekorting kan de effectieve kostprijs merkbaar verlagen. Check altijd of de regelingen combineerbaar zijn — in sommige gemeenten sluiten ze elkaar uit.
 
 ## Een driejarig stappenplan, doorgerekend
 
-Onderstaand een **modelberekening** voor een rijtjeshuis uit 1981 van circa 118 m² met energielabel F bij aankoop, dat in drie jaar volledig van het gas gaat. Alle bedragen zijn richtprijzen; de subsidiebedragen gelden per het genoemde jaar en wijzigen. Het punt van dit schema is niet het exacte bedrag maar de **volgorde**: elke stap maakt de volgende goedkoper of effectiever.
+Onderstaand een **modelberekening** voor een rijtjeshuis uit 1981 van circa 118 m² met energielabel F bij de start, dat in drie jaar volledig van het gas gaat. Alle bedragen zijn richtprijzen inclusief btw. Wij rekenen met de constanten uit dit artikel: **€1,10 per m³ gas** en **€0,26 per kWh stroom**, beide all-in en beide een aanname. Het punt van dit schema is niet het exacte bedrag maar de **volgorde**: elke stap maakt de volgende goedkoper of effectiever.
 
-**Jaar 1 (2022): de schil dichtmaken — €11.000**
-- Dakisolatie 12 cm PIR vanuit binnen: €4.200 (in dit model €840 isolatiesubsidie, in 2022 nog via de SEEH; die regeling sloot eind 2022 — isolatie loopt sindsdien via de ISDE)
-- HR++ glas voor 8 ramen achterzijde: €4.600
-- 12 zonnepanelen Trina Vertex S+ 5,4 kWp: €6.800 (BTW teruggevorderd €1.180)
+**Jaar 1 — de schil dichtmaken en opwekken: €15.600**
+- Dakisolatie 12 cm PIR vanuit binnen: €4.200 (21% btw)
+- HR++ glas voor 8 ramen achterzijde: €4.600 (21% btw)
+- 12 zonnepanelen van 450 Wp, samen 5,4 kWp, all-in: €6.800 (0% btw, dus geen teruggaveroute)
 - Voorlopig label: D
-- Resultaat: gasverbruik van 2.100 naar 1.400 m³, stroom van 4.200 naar 800 kWh import
+- Resultaat: gasverbruik van 2.100 naar 1.400 m³, netto stroomimport van 4.200 naar 800 kWh
 
-**Jaar 2 (2023): verwarming halveren — €13.300**
-- Vloerisolatie kruipruimte met Knauf Supafil: €1.800
-- HR++ glas voorzijde + dakkapel: €3.500
-- Hybride lucht/water-warmtepomp Daikin Altherma 3 H HT: €8.000 (ISDE €1.950 ontvangen)
+**Jaar 2 — verwarming halveren: €13.300**
+- Vloerisolatie kruipruimte: €1.800 (21% btw)
+- HR++ glas voorzijde + dakkapel: €3.500 (21% btw)
+- Hybride lucht/water-warmtepomp: €8.000 (21% btw)
 - Label: B
-- Resultaat: gasverbruik naar 580 m³, totaal energieverbruik €1.450 per jaar
+- Resultaat: gasverbruik naar 580 m³
 
-**Jaar 3 (2024-2025): optimalisatie en EV — €13.500**
-- Sessy thuisbatterij 5 kWh: €4.500
-- Easee Home laadpaal + meterkast-upgrade: €1.800
-- Overstap naar Tibber dynamisch contract: €0
-- Tweedehands Hyundai Kona Electric (apart budget €23.500, niet meegerekend)
+**Jaar 3 — optimaliseren en elektrificeren: €13.100**
+- Thuisbatterij 5 kWh (Sessy, €3.550 inclusief btw en exclusief installatie) plus installatie: €4.100
+- Laadpaal + meterkast-upgrade: €1.800
+- Overstap naar een dynamisch contract: €0
+- Gebruikte elektrische auto (apart budget, **niet** in deze investering meegerekend)
 - 4 extra zonnepanelen oostzijde: €2.200
-- Schrappen gasaansluiting + tapwater warmtepompboiler: €5.000
+- Gasaansluiting schrappen + warmtepompboiler voor tapwater: €5.000
 - Label: A
-- Resultaat: nul gasverbruik, netto stroomimport 1.200 kWh per jaar à €0,18 = €216 per jaar
+- Resultaat: nul gasverbruik; netto stroomimport 1.200 kWh per jaar
 
-**Totaal investering 3 jaar: €37.800**
-- Subsidies: €4.770 (isolatiesubsidie + ISDE + gemeente; wie dit schema nu start rekent isolatie én warmtepomp onder de ISDE, bedrag per maatregel op rvo.nl)
-- BTW teruggave zonnepanelen: €1.580
-- **Netto: €31.450**
+**Totale investering over drie jaar: €15.600 + €13.300 + €13.100 = €42.000**
 
-**Besparing per jaar:**
-- Gas (was €3.045 per jaar): nul
-- Stroom (was €1.350, nu €216): €1.134
-- Brandstof EV vs benzine: €1.900
-- **Totaal: €5.879 per jaar**
+Wat gaat daar nog af? De ISDE op de isolatiemaatregelen en de warmtepomp. Wij vullen daar geen bedrag in, omdat dat van het typenummer van het toestel en van de gekozen isolatiemaatregelen afhangt — zoek het op via de RVO-apparatenlijst en vraag ná uitvoering aan. Voor de zonnepanelen, de batterij en de laadpaal is er niets: die vallen niet onder de ISDE, en de btw-teruggaveroute op panelen bestaat sinds 2023 niet meer omdat er 0% btw op zit.
 
-Terugverdientijd op de netto investering in dit model: ruim vijf jaar. Twee kanttekeningen. Ten eerste: de post brandstofbesparing van de EV hoort strikt genomen niet bij de woninginvestering — laat je die weg, dan loopt de terugverdientijd op naar ongeveer acht jaar. Ten tweede: een labelsprong van F naar A verhoogt de woningwaarde, maar hoeveel precies verschilt per woning en per markt; laat dat door een taxateur bepalen in plaats van met een vast bedrag te rekenen.
+**Besparing per jaar in dit model:**
+- Gas: 2.100 m³ naar nul, à €1,10 = **€2.310**
+- Stroom: 3.000 kWh minder netto-import (van 4.200 naar 1.200), à €0,26 = **€780**
+- **Woninggebonden totaal: €3.090 per jaar**
+- Brandstof: de elektrische auto scheelt bij 20.000 km per jaar ongeveer €1.900, maar dat is een **autopost, geen woningpost** — wij houden die apart
+
+Terugverdientijd op de woninginvestering in dit model: **€42.000 ÷ €3.090 = ongeveer 13,5 jaar** vóór subsidie. Trek je de ISDE op isolatie en warmtepomp eraf, dan komt dat lager uit; hoeveel lager, bepaalt jouw subsidiebeschikking. Tel je de brandstofbesparing van de auto wél mee, dan daalt de termijn naar ongeveer 8,5 jaar — maar dat is een andere vraag dan of de woningmaatregelen zichzelf terugbetalen, dus wij noemen die 13,5 jaar als het eerlijke getal.
+
+Dat is aanzienlijk langer dan de vijf tot zeven jaar die je in verkooppraatjes hoort. Twee dingen verklaren het verschil: de complete route inclusief het schrappen van de gasaansluiting is duurder dan losse maatregelen, en wij rekenen niet met een subsidiebedrag dat wij niet kunnen onderbouwen. Wie alleen de maatregelen met de kortste terugverdientijd uitvoert — dakisolatie, glas, panelen — zit ruim onder de tien jaar. De laatste stap naar volledig gasloos is de duurste per bespaarde euro.
+
+Eén post laten wij bewust buiten de rekensom: een labelsprong van F naar A verhoogt de woningwaarde, maar hoeveel precies verschilt per woning en per markt. Laat dat door een taxateur bepalen in plaats van met een vast bedrag te rekenen.
 
 ## Nadelen en waarom verduurzamen niet altijd loont
 
@@ -299,10 +301,10 @@ Verduurzamen kent ook gevallen waarin de rekensom niet uitkomt. Die horen erbij:
 - **Monumenten of slechte gevel-oriëntatie**: dakisolatie buitenom mag soms niet, en noord-georiënteerd dak levert 30% minder PV
 - **Huurwoningen**: meeste maatregelen behoren bij verhuurder. Vraag huurverlaging of verduurzamingsplan op
 - **Te kleine investeringsruimte**: een halve warmtepomp werkt slechter dan een hele HR-ketel
-- **Geluidsnormen**: warmtepomp buiten-unit in compact rijtjeshuis is regelmatig een gedoe met de buren
-- **Subsidiekorting in 2027**: ISDE-bedragen dalen jaarlijks 5-8%, dus elke maand uitstel is geld
+- **Geluidsnormen**: een warmtepomp-buitenunit bij een compact rijtjeshuis is regelmatig een gedoe met de buren. De norm is 45 dB op de perceelgrens overdag en 40 dB in de avond en nacht; een wettelijke minimumafstand tot de erfgrens bestaat níet
+- **Onzekerheid over regelingen**: subsidiebedragen en voorwaarden veranderen. In welke richting en met hoeveel, voorspellen wij niet — controleer de stand op rvo.nl op het moment dat je opdracht geeft
 
-Verder zijn er **vermijdbare valkuilen**: te dure aanbiedingen via deur-aan-deur verkoop (regelmatig 40% boven marktprijs), katvanger-installateurs zonder garantie, en het klassieke "panelen op alle dakzijden" advies dat zelden klopt — oost en west presteren goed, noord niet.
+Verder zijn er **vermijdbare valkuilen**: fors overprijsde aanbiedingen via deur-aan-deurverkoop, katvanger-installateurs zonder garantie, en het klassieke "panelen op alle dakzijden"-advies dat zelden klopt — oost en west presteren goed, noord niet. Drie offertes opvragen is de goedkoopste bescherming die er is.
 
 En ten slotte: bewust duurzaam wonen betekent ook **minder kopen**. Een tweede tv, derde laptop, vierde apparaat — elke nieuwe aankoop heeft een CO2-rugzak. Soms is geen aanschaf de duurzaamste keuze.
 

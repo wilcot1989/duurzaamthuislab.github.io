@@ -1,8 +1,8 @@
 ---
 title: Groene Stroom vs Grijze Stroom 2026
 date: 2026-06-17 10:00:00+01:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: Het verschil tussen groene en grijze stroom uitgelegd. Kosten vergeleken, is groene stroom echt duurzamer, en welk energiecontract past bij jou in 2026?
+lastmod: 2026-08-21 08:00:00+02:00
+description: Het verschil tussen groene en grijze stroom uitgelegd. Wat GvO-certificaten werkelijk kosten, hoe je het stroometiket van je leverancier controleert en waar je CO2-winst écht zit.
 categories:
 - energie
 tags:
@@ -22,397 +22,196 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Wat is het verschil tussen groene en grijze stroom?
-  a: 'Groene stroom is opgewekt uit hernieuwbare bronnen: wind, zon, water of biomassa. Grijze stroom komt uit fossiele bronnen: aardgas, kolen of kernenergie. Fysiek komt dezelfde stroom uit je stopcontact — het verschil zit in de Garanties van Oorsprong (GvO''s): certificaten die bewijzen dat er ergens groene stroom is opgewekt.'
+  a: 'Groene stroom is opgewekt uit hernieuwbare bronnen: wind, zon, water of biomassa. Grijze stroom komt uit fossiele bronnen, vooral aardgas en kolen. Kernenergie is geen fossiele bron en heeft over de hele levensduur een lage CO2-uitstoot, maar geldt evenmin als hernieuwbaar. Fysiek komt uit je stopcontact altijd dezelfde netmix — het verschil zit in de Garanties van Oorsprong (GvO''s): certificaten die bewijzen dat er ergens hernieuwbare stroom is opgewekt.'
 - q: Is groene stroom duurder dan grijze stroom?
-  a: Nauwelijks. Het prijsverschil is €0-€50/jaar voor een gemiddeld huishouden. Sommige groene aanbieders zijn zelfs goedkoper dan grijze. Dat komt doordat de kosten van wind- en zonne-energie fors zijn gedaald. De energiebelasting en netkosten (80% van je rekening) zijn hetzelfde voor groen en grijs.
+  a: 'Nauwelijks, en dat is te herleiden tot de prijs van de certificaten. Een GvO dekt 1 MWh. Voor een huishouden van 3.500 kWh gaat het om 3,5 certificaten per jaar. Bij Nederlandse wind- of zon-GvO''s van €2-€8 per MWh kost het groene label je dus €7-€28 per jaar. Bij goedkope buitenlandse waterkracht-GvO''s van €0,20-€1,00 per MWh is het €1-€4. Het verschil dat je op je rekening ziet, komt vaker uit de tariefstelling van de leverancier dan uit de kleur van de stroom.'
 - q: Is groene stroom echt groen?
-  a: Dat hangt af van de leverancier. Sommige kopen goedkope GvO-certificaten uit het buitenland (bijv. Noorse waterkracht) zonder dat er extra groene stroom wordt opgewekt — dat is 'greenwashing'. Betere leveranciers investeren in nieuwe Nederlandse wind- en zonneparken. Check het energielabel van je leverancier bij de ACM.
-- q: Welke energieleverancier is het groenst?
-  a: 'De groenste leveranciers investeren in nieuwe Nederlandse opwek: Vandebron (direct van Nederlandse windmolens en zonneparken), Greenchoice (100% Nederlands groen + investeringen), en Pure Energie (eigen windparken). Check het ACM energielabel: leveranciers met >90% Nederlands groen scoren het best.'
+  a: Dat hangt van de leverancier af. Wie goedkope certificaten koopt van waterkrachtcentrales die al decennia draaien, verandert daarmee niets aan de opwek. Wie certificaten koopt van Nederlandse wind- en zonneparken, of zelf in nieuwe projecten investeert, wel. Het onderscheid staat niet in de reclame maar in het stroometiket dat elke leverancier jaarlijks moet publiceren.
+- q: Hoe controleer ik hoe groen mijn leverancier is?
+  a: 'Zoek op de site van je leverancier naar ''stroometiket'' of ''energiemix'' — publiceren is een wettelijke verplichting. Kijk naar het percentage hernieuwbare energie uit Nederland: dat is het getal dat iets zegt over de bijdrage aan de Nederlandse energietransitie. Wij nemen die percentages hier niet als tabel over, omdat ze jaarlijks met de inkoopmix verschuiven en dus verouderen.'
 - q: Maakt het uit of ik groene stroom kies?
-  a: Ja, indirect. Door groene stroom te kiezen, creëer je vraag naar GvO-certificaten, wat de businesscase voor nieuwe groene projecten verbetert. Het directe effect is beperkt als je leverancier alleen buitenlandse certificaten koopt. Het grootste effect heb je door zelf zonnepanelen te plaatsen of een leverancier te kiezen die investeert in nieuwe opwek.
+  a: 'Ja, indirect, en minder dan vaak wordt gesuggereerd. Door voor groen te kiezen creëer je vraag naar certificaten, wat de businesscase voor nieuwe projecten verbetert. Maar het is een boekhoudkundig effect: de fysieke netmix verandert er niet van. Veel meer effect hebben eigen opwek, isolatie en het elektrificeren van je verwarming en vervoer.'
 - q: Wat zijn Garanties van Oorsprong (GvO's)?
-  a: 'GvO''s zijn certificaten die bewijzen dat er per MWh hernieuwbare stroom is opgewekt. Leveranciers kopen GvO''s om hun stroom ''groen'' te labelen. Probleem: GvO''s uit Noorwegen (waterkracht) kosten slechts €0,20-€1,00/MWh — zo goedkoop dat het geen prikkel geeft voor nieuwe opwek. Nederlandse GvO''s (wind/zon) zijn duurder en stimuleren wel nieuwe projecten.'
-products:
-- name: Tibber
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '6'
-- name: Frank Energie
-  url: https://www.frankenergie.nl/
-  price: '5'
-- name: Vattenfall Groene Stroom
-  url: https://www.vattenfall.nl/producten/stroom-en-gas/
-  price: '7'
+  a: 'GvO''s zijn certificaten die bewijzen dat er per MWh hernieuwbare stroom is opgewekt. Leveranciers kopen ze om hun stroom als groen te mogen labelen. Het knelpunt: certificaten van bestaande buitenlandse waterkracht zijn zo goedkoop dat ze geen prikkel geven voor nieuwe opwek, terwijl ze wel hetzelfde label opleveren als certificaten van een nieuw Nederlands windpark.'
 schema_type: Article
 ---
-Bijna elke Nederlandse energieleverancier verkoopt inmiddels "100% groene stroom". Toch verschilt de werkelijke CO₂-intensiteit tussen die contracten met een factor tien. De verklaring zit in het systeem van Garanties van Oorsprong (GvO's): certificaten die van €0,20 tot €15 per MWh kosten en enorm verschillen in wat ze feitelijk toevoegen. Wij leggen op basis van de ACM-stroometiketten, publieke GvO-prijzen en de wettelijke kaders uit waar het verschil zit — en hoe je een contract kiest dat meer is dan een label.
+Bijna elke Nederlandse energieleverancier verkoopt inmiddels "100% groene stroom". Toch verschilt wat die contracten feitelijk toevoegen aan de energietransitie enorm. De verklaring zit in het systeem van Garanties van Oorsprong (GvO's): certificaten die van enkele dubbeltjes tot vijftien euro per MWh kosten en sterk verschillen in wat ze in beweging zetten.
 
-*Disclosure: de links naar Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+Dit artikel legt uit hoe dat systeem werkt, wat het groene label je werkelijk kost, en hoe je zelf controleert wat je leverancier levert.
 
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Het verschil tussen groene en grijze stroom uitgelegd. Kosten vergeleken, is groene stroom echt duurzamer, en welk energiecontract past bij jou in 2026?
->
-> Groene stroom is opgewekt uit hernieuwbare bronnen: wind, zon, water of biomassa. Grijze stroom komt uit fossiele bronnen: aardgas, kolen of kernenergie. Fysiek komt dezelfde stroom uit je stopcontact — het verschil zit in de Garanties van Oorsprong (GvO's): certificaten die bewijzen dat er ergens groene stroom is opgewekt.
-
-## Groene vs Grijze Stroom: De Feiten
-
-| Aspect | Groene stroom | Grijze stroom |
-|--------|-------------|--------------|
-| **Bron** | Wind, zon, water, biomassa | Aardgas, kolen, kernenergie |
-| **CO₂-uitstoot** | 0 g/kWh (wind/zon) | 400-900 g/kWh |
-| **Prijs** | ≈ gelijk (+€0-€50/jaar) | ≈ gelijk |
-| **Uit je stopcontact** | Zelfde stroom als iedereen | Zelfde stroom als iedereen |
-| **Het verschil** | Leverancier koopt GvO-certificaten | Geen GvO-certificaten |
-
-### Hoe werkt het?
-
-Alle stroom in Nederland gaat in hetzelfde elektriciteitsnet. Je kunt niet kiezen welke elektronen uit je stopcontact komen. Het verschil zit in de boekhouding:
-
-1. **Groene leverancier** koopt Garanties van Oorsprong (GvO's) — certificaten die bewijzen dat ergens groene stroom is opgewekt
-2. Per MWh die jij verbruikt, wordt 1 GvO afgeboekt
-3. Zo wordt gegarandeerd dat jouw verbruik "gedekt" is door groene opwek
-
-## Het GvO-Probleem
-
-Niet alle groene stroom is even groen:
-
-| Type GvO | Bron | Prijs/MWh | Effect op verduurzaming |
-|----------|------|----------|----------------------|
-| **Noors water** | Bestaande waterkrachtcentrales | €0,20-€1,00 | Minimaal (bestond al) |
-| **Europees wind** | Bestaande windparken | €0,50-€2,00 | Beperkt |
-| **Nederlands wind/zon** | Nederlandse wind- en zonneparken | €2,00-€8,00 | Goed (stimuleert investering) |
-| **Additioneel** | Nieuw project mede door jouw vraag | €5,00-€15,00 | Best (creëert nieuwe opwek) |
-
-**Het probleem:** Een leverancier die voor €0,50/MWh Noorse waterkracht-GvO's koopt, labelt zijn stroom als "100% groen" — terwijl die waterkrachtcentrale al 50 jaar bestaat en niets extra bijdraagt aan de energietransitie.
-
-## ACM Energielabel
-
-De ACM (Autoriteit Consument & Markt) verplicht leveranciers om hun energiemix te publiceren. Zo kun je controleren hoe groen je leverancier echt is.
-
-### Hoe te checken
-1. Ga naar de website van je leverancier
-2. Zoek naar "stroometiket" of "energiemix"
-3. Check het percentage **Nederlandse hernieuwbare energie**
-4. Hoe hoger het % Nederlandse opwek, hoe groener
-
-## De Groenste Leveranciers 2026
-
-| Leverancier | Type groen | NL opwek | Investeert in nieuwe opwek | Prijs |
-|-------------|-----------|---------|--------------------------|-------|
-| **Vandebron** | Direct van NL boeren/parken | >90% | ✅ | Marktconform |
-| **Greenchoice** | NL wind + zon | >80% | ✅ | Marktconform |
-| **Pure Energie** | Eigen NL windparken | >90% | ✅ | Marktconform |
-| **Eneco** | Mix NL + EU | 60-80% | ✅ | Marktconform |
-| **Budget Energie** | GvO-mix | 50-70% | Beperkt | Goedkoper |
-| **Vattenfall** | GvO-mix | 40-60% | ✅ (via moederbedrijf) | Marktconform |
-
-## Kostenvergelijking
-
-### Gemiddeld huishouden (3.500 kWh/jaar stroom)
-
-| Component | Groen | Grijs | Verschil |
-|-----------|-------|-------|---------|
-| Energiebelasting | €600 | €600 | €0 |
-| Netbeheerkosten | €350 | €350 | €0 |
-| Leveringskosten | €550 | €520 | €30 |
-| **Totaal/jaar** | **€1.500** | **€1.470** | **€30** |
-
-Het verschil is verwaarloosbaar: €0-€50 per jaar. Soms is groene stroom zelfs goedkoper omdat groene leveranciers concurreren op prijs.
-
-## Wat Is de Beste Keuze?
-
-### Meest impact (van groot naar klein)
-
-| Actie | CO₂-reductie/jaar | Kosten |
-|-------|-------------------|--------|
-| **1. Zonnepanelen** | 1.500-3.000 kg | €4.000-€8.000 (eenmalig) |
-| **2. Warmtepomp** | 1.000-2.000 kg | €5.000-€15.000 (eenmalig) |
-| **3. Dynamisch contract + slim verbruik** | 200-500 kg | €0-€5/mnd |
-| **4. Groene leverancier (NL opwek)** | 100-300 kg | €0-€50/jaar |
-| **5. Groene leverancier (buitenlandse GvO)** | 0-50 kg | €0-€30/jaar |
-
-### Onze aanbeveling
-
-1. **Investeer eerst in eigen opwek** — Zonnepanelen leveren het meeste op
-2. **Kies een dynamisch contract** — Verschuif verbruik naar goedkope/groene momenten
-3. **Kies een groene leverancier die investeert** — Vandebron, Greenchoice of Pure Energie
-4. **Verlaag je verbruik** — Isolatie, LED, slimme apparaten
-
-Vergelijk dynamische energiecontracten in onze [uitgebreide vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/).
-
-## Jaarberekening: wat kost groene stroom extra?
-
-De uitspraak "groene stroom kost bijna niets extra" blijft meestal vaag. Hieronder de rekensom, als **modelberekening** op basis van de gepubliceerde tarieven en de wettelijke belastingtarieven voor 2026.
-
-**Profiel (aanname): huishouden 3.500 kWh/jaar**
-
-| Component | Grijze stroom (vast Eneco) | Groene stroom (Vandebron dynamisch) | Verschil |
-|---|---|---|---|
-| Energiebelasting | €597 | €597 | €0 |
-| Netbeheerkosten | €350 | €350 | €0 |
-| Variabele leveringskosten | €490 | €475 | -€15 |
-| Vaste leveringskosten/servicegeld | €70 | €60 | -€10 |
-| GvO-toeslag leverancier | €0 | €25 | +€25 |
-| **Totaal per jaar** | **€1.507** | **€1.507** | **€0** |
-
-Opvallend: in dit scenario kost groene stroom letterlijk hetzelfde als grijze stroom. Dat is 2026 de realiteit voor de meeste huishoudens.
-
-In sommige scenario's is groene stroom zelfs goedkoper:
-- Vandebron en Greenchoice bieden regelmatig actietarieven voor nieuwe klanten
-- Groene leveranciers hebben lagere marge omdat hun inkoopstructuur anders is
-- GvO-kosten zijn gedaald van €5-€8/MWh (2021) naar €2-€4/MWh (2026)
+*Disclosure: wij hebben geen affiliate- of commissierelatie met de leveranciers die in dit artikel worden genoemd (stand augustus 2026). De links zijn gewone verwijzingen en leveren ons geen vergoeding op.*
 
 ---
+
+> **Kort antwoord:** fysiek is er geen verschil — uit je stopcontact komt altijd de netmix. Het verschil is administratief: bij groene stroom koopt je leverancier per verbruikte MWh een Garantie van Oorsprong. Die certificaten kosten €0,20 tot €15 per MWh, dus voor een huishouden van 3.500 kWh gaat het om €1 tot €53 per jaar. Wat je leverancier daadwerkelijk toevoegt, lees je niet in de reclame maar in het stroometiket.
+
+## Groen versus grijs: wat er wel en niet verschilt
+
+| Aspect | Groene stroom | Grijze stroom |
+|---|---|---|
+| **Bron** | Wind, zon, water, biomassa | Vooral aardgas en kolen |
+| **CO₂ over de levensduur** | Wind 7-15 g/kWh, zon 20-50 g/kWh (IPCC-levenscyclusranges) | Aardgas circa 490 g/kWh, kolen hoger |
+| **Uit je stopcontact** | De netmix — voor iedereen dezelfde | De netmix — voor iedereen dezelfde |
+| **Het verschil** | Leverancier boekt per MWh een GvO af | Geen GvO's |
+
+Kernenergie hoort in geen van beide kolommen. Het is geen fossiele bron en de CO₂-uitstoot over de levensduur is laag — vergelijkbaar met wind — maar het geldt niet als hernieuwbaar en levert dus geen GvO's op.
+
+### Hoe het mechanisme werkt
+
+Alle stroom in Nederland gaat in hetzelfde net. Je kunt niet kiezen welke elektronen uit je stopcontact komen. Het verschil zit in de boekhouding:
+
+1. Een groene leverancier koopt Garanties van Oorsprong: certificaten die bewijzen dat er ergens hernieuwbare stroom is opgewekt.
+2. Per MWh die jij verbruikt, wordt één GvO afgeboekt.
+3. Daarmee is jouw verbruik administratief "gedekt" door hernieuwbare opwek.
+
+## Het GvO-probleem: niet alle certificaten doen hetzelfde
+
+| Type GvO | Bron | Indicatieve prijs/MWh | Effect op verduurzaming |
+|---|---|---|---|
+| Buitenlandse waterkracht | Centrales die al decennia draaien | €0,20-€1,00 | Minimaal — die opwek bestond al |
+| Europese wind | Bestaande windparken | €0,50-€2,00 | Beperkt |
+| Nederlandse wind/zon | Nederlandse parken | €2,00-€8,00 | Stimuleert investering in NL |
+| Additioneel groen | Nieuw project mede door jouw vraag | €5,00-€15,00 | Grootst — creëert nieuwe opwek |
+
+De prijsranges zijn indicatief: de GvO-markt is een handelsmarkt en de tarieven bewegen. Het punt is de verhouding, niet het exacte bedrag.
+
+**Waar het schuurt:** een leverancier die voor enkele dubbeltjes per MWh certificaten koopt van een waterkrachtcentrale die al vijftig jaar draait, mag zijn stroom "100% groen" noemen. Er is dan geen kWh hernieuwbare stroom bijgekomen die er zonder jouw contract niet was geweest.
+
+## Wat het groene label je werkelijk kost
+
+Dit is de rekensom die zelden expliciet wordt gemaakt. Een **modelberekening** voor een huishouden van 3.500 kWh per jaar:
+
+**Aannames:**
+
+| Variabele | Waarde | Bron |
+|---|---|---|
+| Verbruik | 3.500 kWh/jaar | modelaanname |
+| Stroom all-in dynamisch | €0,26/kWh | modelconstante: (€0,105 EPEX-jaargemiddelde 2025 + €0,02 opslag-aanname + €0,09161 energiebelasting) × 1,21 btw |
+| Netbeheerkosten | vast jaarbedrag, per netbeheerder verschillend | niet leverancierafhankelijk |
+| GvO-prijzen | zie tabel hierboven | GvO-handelsmarkt, indicatief |
+
+| Post | Berekening | Bedrag |
+|---|---|---|
+| Stroom all-in | 3.500 × €0,26 | €910 |
+| GvO's Nederlandse wind/zon | 3,5 MWh × €2-€8 | €7-€28 |
+| GvO's buitenlandse waterkracht | 3,5 MWh × €0,20-€1,00 | €1-€4 |
+| GvO's additioneel groen | 3,5 MWh × €5-€15 | €18-€53 |
+
+**Wat hieruit volgt:** het verschil tussen het goedkoopste en het beste groene certificaat is voor dit huishouden **€17 tot €52 per jaar** — op een stroomrekening van rond de duizend euro exclusief netbeheer. Dat is het hele bedrag waar de discussie over gaat.
+
+Ziet je rekening er bij een "groene" leverancier tientallen euro's duurder uit dan bij een grijze, dan komt dat vrijwel zeker niet uit de certificaten maar uit het tariefmodel: de opslag per kWh en de vaste leveringskosten. Vergelijk daar dus op, niet op de kleur.
+
+## Hoe je controleert of je leverancier echt groen is
+
+**Stap 1.** Zoek op de site van je leverancier naar "stroometiket" of "energiemix". Elke leverancier is verplicht dit jaarlijks te publiceren.
+
+**Stap 2.** Kijk naar het percentage **hernieuwbare energie uit Nederland**. Dat is het getal dat iets zegt over de bijdrage aan de Nederlandse energietransitie. Buitenlandse waterkracht telt mee als hernieuwbaar, maar voegt daar niets aan toe.
+
+**Stap 3.** Kijk of de leverancier ook zelf investeert in nieuwe opwek, of alleen certificaten inkoopt. Dat staat doorgaans in het jaarverslag of op een aparte duurzaamheidspagina, niet op het etiket.
+
+Wij nemen hier bewust **geen tabel met percentages per leverancier** op. Die cijfers verschuiven jaarlijks met de inkoopmix, en een tabel die vandaag klopt is over een jaar misleidend. Het actuele etiket van je eigen leverancier is de enige bron die op het moment van kiezen geldt.
+
+## Waar je CO₂-winst werkelijk zit
+
+Dit is het punt waar de meeste artikelen over groene stroom de mist ingaan: de CO₂-"besparing" van overstappen naar een groene leverancier is een **boekhoudkundige** besparing. Je fysieke stroom verandert niet, de netmix verandert niet, en de centrale die op dat moment moet bijregelen verandert ook niet.
+
+Dat maakt de keuze niet zinloos — vraag naar goede certificaten verbetert de businesscase voor nieuwe projecten — maar het maakt de rangorde van maatregelen wel duidelijk:
+
+| Actie | Aard van het effect | Ordegrootte |
+|---|---|---|
+| Zelf zonnepanelen plaatsen | Fysiek: er komt hernieuwbare opwek bij | Groot |
+| Van gas naar warmtepomp | Fysiek: gasverbruik verdwijnt | Groot |
+| Van brandstofauto naar EV | Fysiek: brandstofverbruik verdwijnt | Groot |
+| Verbruik verlagen (isolatie, apparaten) | Fysiek: minder vraag | Middel |
+| Dynamisch contract + verbruik verschuiven | Fysiek: je neemt af als er veel wind en zon is | Klein tot middel |
+| Leverancier met additioneel groen | Administratief, met indirecte prikkel | Klein |
+| Leverancier met goedkope buitenlandse GvO's | Administratief, zonder prikkel | Verwaarloosbaar |
+
+Wij geven hier geen kilo's CO₂ per maatregel: dat vraagt een berekening op jouw woning, jouw verbruik en jouw netmix, en de bandbreedtes die in omloop zijn lopen te ver uiteen om als getal te publiceren.
+
+### Onze aanbeveling in volgorde
+
+1. **Eigen opwek eerst.** Stroom van je eigen dak is de enige groene stroom waarvoor geen certificaat nodig is.
+2. **Dan het tariefmodel.** Een dynamisch contract laat je afnemen op de uren met veel wind en zon — goedkoper én feitelijk groener dan een vast tarief.
+3. **Dan het label.** Kies binnen dat tariefmodel een leverancier met een hoog Nederlands aandeel op het stroometiket.
+4. **En blijf verbruik verlagen.** Isolatie en efficiëntere apparaten werken door in alle drie de stappen hierboven.
+
+Vergelijk dynamische contracten in onze [uitgebreide vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/) of in het overzicht [beste dynamisch energiecontract 2026](/posts/beste-dynamisch-energiecontract-2026/).
 
 ## Veelgemaakte fouten bij de keuze van groene stroom
 
-**Fout 1: Vertrouwen op het "100% groen" label**
-Bijna alle Nederlandse leveranciers claimen 100% groene stroom. Dat zegt niets over de kwaliteit van het groen. Budget Energie koopt Noorse waterkracht-GvO's voor €0,50/MWh; Vandebron verbindt je direct aan Nederlandse windmolens. Beiden claimt "100% groen". Alleen het stroometiket (ACM) laat het verschil zien.
+**Fout 1: vertrouwen op het "100% groen"-label.** Bijna elke Nederlandse leverancier claimt dat. Het zegt niets over de kwaliteit van de certificaten. Alleen het stroometiket laat het verschil zien.
 
-**Fout 2: Denken dat groene stroom zichtbaar groener is**
-Fysiek stroomt de stroom van de dichtstbijzijnde centrale door jouw kabels. Je kunt niet kiezen welke elektronen je gebruikt. Het verschil is administratief — GvO-certificaten bewijzen dat er ergens groene energie opgewekt is. Dat is het hele systeem.
+**Fout 2: denken dat groene stroom fysiek anders is.** Je kunt niet kiezen welke elektronen je gebruikt. Het verschil is administratief. Dat is het hele systeem — en het is belangrijk om dat te snappen voordat je je keuze eraan ophangt.
 
-**Fout 3: Vergeten dat je eigen gedrag meer impact heeft**
-Voor- en tegenstanders discussiëren eindeloos over GvO's. Ondertussen mist iedereen het punt: LED-lampen, een slimme thermostaat en verbruik verschuiven naar goedkope uren heeft 3-5× meer impact op je CO₂-voetafdruk dan kiezen tussen groene leveranciers.
+**Fout 3: op de kleur vergelijken in plaats van op het tarief.** De prijs van de certificaten is enkele tientjes per jaar. De opslag per kWh en de vaste leveringskosten gaan over honderden euro's. Vergelijk daar op.
 
-**Fout 4: Niet combineren met een dynamisch contract**
-De groenste keuze is stroom verbruiken op het moment dat er veel wind- en zonne-energie beschikbaar is. Dat is precies wanneer de dynamische prijs laag is. Een dynamisch contract bij een groene leverancier (Vandebron, Tibber) combineert financieel voordeel met de hoogste feitelijke groene impact.
+**Fout 4: niet combineren met een dynamisch contract.** Stroom verbruiken wanneer er veel wind en zon is, is de enige vorm van "groener verbruiken" die fysiek doorwerkt. Dat is precies wanneer de dynamische prijs laag is.
 
-**Fout 5: Stoppen bij de leverancierskeuze**
-Groene stroom kiezen is een kleine stap. De echte stappen: zonnepanelen plaatsen (1.500-3.000 kg CO₂/jaar reductie), warmtepomp installeren (1.000-2.000 kg/jaar reductie), en je auto elektrisch maken (1.500-3.500 kg/jaar reductie afhankelijk van rijkilometers). Dat zijn de beslissingen die echt meetbaar zijn.
+**Fout 5: stoppen bij de leverancierskeuze.** Groene stroom kiezen kost je vijf minuten en enkele tientjes. Zonnepanelen, isolatie en een warmtepomp kosten meer moeite, en dat is precies waarom ze effect hebben.
 
----
+## Groene stroom en belasting
 
-## Wettelijk kader 2026: wat verandert er?
+**De energiebelasting is gelijk voor groen en grijs.** In 2026 bedraagt de energiebelasting op stroom €0,09161/kWh exclusief btw, oftewel €0,11085/kWh inclusief btw. Dat is een rijksbelasting en staat volledig los van hoe je stroom is opgewekt. De ODE bestaat sinds 2023 niet meer als aparte heffing. De schijfgrenzen en de tarieven van hogere schijven staan op de site van de Belastingdienst; controleer die daar, want ze wijzigen jaarlijks.
 
-**GvO-regelgeving aangescherpt:** De Europese Commissie heeft in 2025 besloten dat leveranciers vanaf 2027 het land van herkomst van GvO's expliciet op de rekening moeten vermelden. Buitenlandse GvO's (Noorwegen, Italië) moeten voortaan apart gelabeld worden van Nederlandse. Dit maakt greenwashing inzichtelijker.
+**Coöperatieve opwek.** De oude postcoderoosregeling is opgevolgd door de **SCE**, de Subsidieregeling Coöperatieve Energieopwekking. Die werkt met een subsidie per opgewekte kWh voor het coöperatieve project, niet met een belastingkorting voor de deelnemer. Kijk voor de actuele voorwaarden en openstellingsronden op rvo.nl.
 
-**Additioneel groen:** De begrip "additioneel" (stroom die alleen opgewekt wordt dankzij de vraag naar groene certificaten) wordt in Europees kader vastgelegd. Leveranciers die additioneel groen claimen moeten aantonen dat ze nieuwe projecten financieren. Dit is een stap richting echte transparantie.
+**Zonnepanelen en saldering.** Zolang de saldering geldt — tot en met 31 december 2026 — wordt je teruglevering weggestreept tegen je afname, waardoor je over dat deel effectief geen energiebelasting betaalt. Per 1 januari 2027 stopt de salderingsregeling volledig; er is geen afbouwpad. Vanaf dan betaal je energiebelasting over elke kWh die je van het net afneemt, ook als je op andere momenten teruglevert.
 
-**Energielabel leveranciers (ACM):** Het ACM-stroometiket dat elke leverancier jaarlijks moet publiceren, wordt per 2026 uitgebreid met een CO₂-intensiteitsgetal (g CO₂ per kWh). Zo kun je ook objectief vergelijken welke leverancier de laagste koolstofintensiteit heeft — los van de GvO-certificaten.
+## Overstappen van grijs naar echt groen
 
----
+**Stap 1: check je huidige contract.** Zoek het stroometiket van je leverancier op. Zit je in een vast contract, kijk dan naar de opzegvergoeding: de ACM begrenst die tot €50 tot €125 per energievorm, afhankelijk van de resterende looptijd.
 
-## Vergelijking: drie niveaus van groen
+**Stap 2: kies op drie criteria.** Een hoog percentage hernieuwbare opwek uit Nederland op het etiket; een tariefmodel dat bij je past (dynamisch als je verbruik kunt verschuiven); en geen lock-in, dus maandelijks opzegbaar.
 
-Als je kiest voor groene stroom, zijn er grofweg drie niveaus:
-
-| Niveau | Wat het is | Voorbeeld | CO₂-effect | Extra kosten |
-|---|---|---|---|---|
-| **Basis-groen** | Buitenlandse GvO's (Noorwegen, Albanië) | Vattenfall, Budget Energie | Minimaal | €0-€10/jaar |
-| **Middel-groen** | Europese GvO's mix (deels NL) | Greenchoice, Eneco | Beperkt | €10-€30/jaar |
-| **Echt groen** | Direct gekoppeld aan NL wind/zon | Vandebron, Pure Energie | Goed | €20-€50/jaar |
-
-De meest effectieve keuze is **echt groen + dynamisch contract**: je koopt stroom op de uren dat er het meest wind- en zonne-energie in het net zit, én je leverancier investeert in nieuwe Nederlandse opwek. Vandebron biedt beide.
-
----
-
-## Jaarberekening: groene vs grijze stroom over 10 jaar
-
-Onderstaande tabel is een **modelberekening** met een vooruitblik van vijf jaar, doorgerekend naar tien.
-
-**Profiel (aannames): 3.500 kWh/jaar verbruik, geen zonnepanelen, appartement**
-
-| Jaar | Groene stroom (Vandebron dynamisch) | Grijze stroom (Vattenfall vast) | Verschil | CO₂-besparing |
-|------|-------------------------------------|----------------------------------|---------|---------------|
-| 2026 | €1.507 | €1.540 | -€33 | 500 kg CO₂ |
-| 2027 | €1.552 | €1.586 | -€34 | 515 kg CO₂ |
-| 2028 | €1.599 | €1.634 | -€35 | 530 kg CO₂ |
-| 2029 | €1.647 | €1.683 | -€36 | 546 kg CO₂ |
-| 2030 | €1.696 | €1.733 | -€37 | 562 kg CO₂ |
-
-*Aanname: 3% energieprijsstijging per jaar, CO₂-intensiteit grijze stroom 450 g/kWh*
-
-Over 10 jaar bespaar je met groene stroom €350 op je energierekening (groene is gemiddeld goedkoper) én vermijd je 5.200 kg CO₂. Dat is de impact van een auto die 2 jaar niet rijdt.
-
-Het model is bewust conservatief: er is gerekend met een leverancier die een iets hogere GvO-kwaliteitsopslag rekent. Let op de aannames — een andere prijsstijging of een ander teruglevertarief verandert de uitkomst direct. Reken het na met de actuele tarieven van je eigen leverancier voordat je conclusies trekt.
-
----
-
-## Wat je écht kunt doen met dezelfde €30-€50
-
-Als je wil denken in impact-per-euro, dan is hier de vergelijking:
-
-| Actie | Kosten/jaar | CO₂-reductie/jaar |
-|-------|------------|------------------|
-| Overstap naar groene stroom (NL GvO) | €0-€50 | 100-300 kg |
-| LED-verlichting vervangen (alle lampen) | €50 eenmalig | 80 kg/jaar |
-| Thermostaat 1°C lager 's nachts | €0 | 60 kg/jaar |
-| Vlees 2× per week minder eten | €0 | 250 kg/jaar |
-| Vliegreis Londen-Amsterdam vermijden (retour) | €0 | 200 kg |
-| Zonnepanelen (10 stuks) | €5.500 eenmalig | 1.800 kg/jaar × 25 jaar |
-
-Groene stroom kiezen is zinvol maar niet de game-changer. Energie besparen, isoleren en zelf opwekken heeft een veelvoud van het effect.
-
----
-
-## Hoe controleer je of je leverancier echt groen is?
-
-Stap 1: ga naar de website van je leverancier. Zoek naar "stroometiket" of "energiemix". Elke leverancier is verplicht dit jaarlijks te publiceren (ACM-eis).
-
-Stap 2: kijk naar het percentage "hernieuwbare energie uit Nederland". Dat is het getal dat ertoe doet. Noors water telt als "hernieuwbaar" maar voegt niets toe aan de Nederlandse energietransitie.
-
-**Indicatieve referentiepunten op basis van gepubliceerde stroometiketten (boekjaar 2025).** Deze percentages verschuiven jaarlijks met de inkoopmix van de leverancier — controleer altijd het actuele etiket op de site van je eigen leverancier:
-
-| Leverancier | % Hernieuwbaar NL | % Buiten-EU | CO₂ g/kWh |
-|------------|------------------|-------------|-----------|
-| Vandebron | 94% | 0% | 12 |
-| Pure Energie | 91% | 0% | 18 |
-| Greenchoice | 83% | 8% | 24 |
-| Eneco Groene Stroom | 67% | 18% | 62 |
-| Vattenfall Groen | 54% | 29% | 89 |
-| Budget Energie "Groen" | 38% | 51% | 143 |
-
-Het verschil is enorm. Vandebron's 12 g CO₂/kWh vs Budget Energie's 143 g CO₂/kWh: voor hetzelfde "100% groen" label betaal je in één geval voor Noorse waterkracht uit 1975, in het andere geval voor directe Nederlandse windstroom.
-
----
-
-## Conclusie
-
-Het prijsverschil tussen groen en grijs is verwaarloosbaar (€0-€50/jaar). Kies daarom altijd groen — maar kijk verder dan het label. De echt groene leveranciers investeren in nieuwe Nederlandse wind- en zonneparken. Check het ACM-stroometiket en kies een leverancier met >80% Nederlandse opwek.
-
-Maar vergeet niet: het grootste effect heb je met eigen zonnepanelen, een warmtepomp en slim energiegebruik.
-
-
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
-
-
+**Stap 3: regel de overstap.** Je nieuwe leverancier zegt het oude contract op. Reken op enkele weken doorlooptijd. Hoeveel je erop vooruitgaat, volgt uit het tariefverschil maal je eigen verbruik — daar is geen algemeen bedrag voor te geven.
 
 ## Groene stroom voor bedrijven: andere spelregels
 
 Als zzp'er of klein bedrijf heb je andere opties dan als particulier.
 
-**EKO-certificering:**
-Bedrijven die duurzaamheid willen aantonen aan klanten of voor een ISO 14001-certificering, kunnen een "EKO-energieverklaring" aanvragen. Dit is meer dan een GvO-certificaat — het vereist additioneel groen en een verificatie door een externe auditor.
+**Directe PPA (Power Purchase Agreement).** Grote afnemers sluiten meerjarige contracten rechtstreeks met een windpark- of zonneparkexploitant, inclusief GvO's. Dat is de meest directe vorm van groene inkoop: additioneel en traceerbaar. Voor het mkb is dit doorgaans niet toegankelijk vanwege de omvang en de looptijd.
 
-**Zakelijk groene contracten:**
-Grote bedrijven sluiten directe PPA's (Power Purchase Agreements) met windparken. Ze kopen stroom voor 10-20 jaar rechtstreeks van de producent — additioneel, traceerbaar, vaak ook rendabel. Dit is de goudstandaard van groen inkopen. Voor mkb niet direct beschikbaar, maar Vandebron en Pure Energie bieden collectieve PPA-varianten aan.
+**Zakelijk dynamisch contract.** Kleinere bedrijven kunnen net als particulieren een dynamisch contract afsluiten. Je betaalt de marktprijs plus opslag zonder dat de leverancier een risicopremie rekent. Nadeel: het vraagt actief beheer van verbruikspieken.
 
-**Niet-ETS-bedrijven en CO₂-rapportage:**
-Als mkb-bedrijf moet je vanaf 2025 voor bepaalde rapportages (CSRD, scope 2-emissies) aantonen welke stroom je hebt verbruikt en hoe groen die is. GvO's zijn daarvoor acceptabel, maar auditors kijken steeds kritischer naar de kwaliteit: additioneel groen scoort beter dan Noors water.
+**Gezamenlijke inkoop via een coöperatie of brancheorganisatie.** Dat levert onderhandelingsruimte die een individueel mkb-bedrijf niet heeft — zowel op de opslag als op de kwaliteit van de certificaten.
 
----
-
-## Ons oordeel: waar de leverancierskeuze wel en niet uitmaakt
-
-Zelf opwekken is de enige vorm van groene stroom waarvoor geen certificaat nodig is. Een dakvol zonnepanelen levert in Nederland ruwweg 300-350 kWh per paneel per jaar — dat is stroom die feitelijk groen is, ongeacht welk contract eronder ligt.
-
-Voor de stroom die je alsnog van het net afneemt, is onze inschatting dat de leverancierskeuze vooral langs twee lijnen loopt die vaak door elkaar worden gehaald. De eerste is het **groene label**: dat zegt weinig, tenzij het stroometiket een hoog percentage Nederlandse opwek laat zien. De tweede is het **tariefmodel**: een dynamisch contract laat je stroom afnemen op de uren met veel wind en zon, en dat is zowel goedkoper als feitelijk groener dan een vast tarief.
-
-Wie moet kiezen: pak eerst het tariefmodel, dan het label. Een dynamisch contract bij een leverancier met een hoog Nederlands aandeel op het stroometiket combineert beide. De grotere CO₂-winst zit daarna in eigen opwek, isolatie en elektrificatie van verwarming en vervoer — niet in het vinken van een groen-vakje bij dezelfde leverancier.
-
----
-
-## Groene stroom en belasting: wat je moet weten
-
-**Energiebelasting (EB) is gelijk voor groen en grijs**
-De energiebelasting die je betaalt is identiek voor groene en grijze stroom: €0,12281/kWh (2026, eerste 2.900 kWh) en €0,03623/kWh daarboven. Dit is een rijksbelasting en heeft niets te maken met hoe je stroom is opgewekt.
-
-**Postcoderoos (oud systeem, afgebouwd)**
-Tot 2023 was er een "postcoderoos" regeling: leden van een energiecoöperatie in de buurt van een wind- of zonproject konden belastingkorting krijgen. Dit systeem is vervangen door de Saldering Coöperatie Regeling (SCR), die in 2026 nog actief is maar afgebouwd wordt.
-
-**Teruggave energiebelasting bij eigen opwek**
-Als je zonnepanelen hebt, krijg je via de saldering al een fiscaal voordeel: je teruggeleverde stroom wordt weggestreept tegen je verbruik, waardoor je effectief minder energiebelasting betaalt. Dit verandert na 2027 — dan betaal je energiebelasting over elke kWh die je van het net afneemt, ook als je tegelijkertijd teruglevering hebt.
-
----
-
-## Praktisch overstapgids: van grijs naar echt groen in 3 stappen
-
-**Stap 1: Check je huidige contract**
-Ga naar je energierekening of online portaal. Kijk naar:
-- Heet je leverancier "groen"? Zoek het stroometiket op.
-- Staat er "100% hernieuwbaar"? Dat zegt niets. Zoek het % Nederlandse opwek.
-- Zit je in een vast contract? Check de boete bij vroegtijdig stoppen (vaak €100-€150 bij Eneco/Vattenfall).
-
-**Stap 2: Kies een nieuwe leverancier**
-Minimale criteria voor echt groene stroom:
-- >80% hernieuwbare opwek uit Nederland (check ACM-stroometiket)
-- Geen marge op EPEX-prijs (Frank Energie, Tibber, Vandebron)
-- Geen lock-in (maandelijks opzegbaar)
-
-**Stap 3: Overstap regelen**
-Overstappen naar een nieuwe energieleverancier is wettelijk geregeld:
-- Je nieuwe leverancier regelt de opzegging bij de oude
-- De overstap is gratis (tenzij je in een vast contract zit met boete)
-- Doorlooptijd: 1-4 weken (afhankelijk van je einddatum lopend contract)
-- Jaarlijkse besparing: €30-€800 afhankelijk van welk contract je nu hebt
-
----
-
-## Wat doen de meest progressieve leveranciers in 2026?
-
-Niet alle groene leveranciers zijn gelijk. Hier zijn de concrete duurzaamheidsinitiatieven van de koplopers:
-
-**Vandebron:**
-- Direct stroom inkopen van individuele Nederlandse boeren en windparken
-- Transparantie per kWh: je ziet van welk windpark of zonnedak jouw stroom komt
-- "Energie community": je kunt zelf aanbieder worden als je zonnepanelen hebt
-
-**Pure Energie:**
-- Eigenaar van eigen windparken in Friesland en Drenthe
-- Investeert 100% van winst in nieuwe groene projecten
-- Geen externe aandeelhouders, coöperatief model
-
-**Greenchoice:**
-- Investeert in batterijopslag en net-balancering met eigen activa
-- Participaties in offshore windprojecten (Hollandse Kust Noord)
-- Actief in flexibiliteitsmarkt: klanten worden beloond voor slim verbruik
-
-De groep die het minst investeert: budget-leveranciers die uitsluitend buitenlandse GvO's kopen. Ze zijn goedkoop maar dragen niets bij aan de Nederlandse energietransitie.
-
----
-
-## Groene stroom voor bedrijven: andere regels
-
-Bedrijven die groene stroom afnemen spelen in een ander veld dan particulieren. De GvO-markt voor zakelijke klanten is groter, transparanter, maar ook complexer.
-
-**Directe PPA (Power Purchase Agreement):**
-Grote bedrijven (>1 MW verbruik) sluiten directe contracten met windpark-exploitanten. Ze kopen stroom tegen een vaste prijs voor 10-15 jaar, met GvO's inbegrepen. Dat is de meest directe vorm van groene inkoop — maar niet toegankelijk voor MKB.
-
-**Zakelijk dynamisch contract:**
-MKB-bedrijven (tot ca. €100.000/jaar energiekosten) kunnen net als particulieren een dynamisch contract afsluiten. Frank Energie en Tibber bieden dit aan. Voordeel: je betaalt EPEX-prijs + opslag, zonder vaste inkooprisico's van de leverancier. Nadeel: vraagt actief beheer van verbruikspieken.
-
-**Energie-inkoop via coöperatie:**
-Brancheorganisaties en regionale coöperaties bieden soms gezamenlijke inkoop voor leden. Dit geeft onderhandelingsvoordeel dat een individueel MKB-bedrijf niet heeft. Resultaat: lagere opslag en betere GvO-kwaliteit.
-
-**Zakelijke rapportage (CSRD 2026):**
-Bedrijven die onder de Corporate Sustainability Reporting Directive vallen (vanaf 2026 voor mid-size bedrijven) moeten rapporteren over Scope 2-emissies. Groene stroom met additionele GvO's verlaagt de gerapporteerde CO₂-uitstoot. Dat is niet alleen duurzaamheid — het is compliance.
-
----
+**Rapportageverplichtingen.** Bedrijven die onder de CSRD vallen, moeten rapporteren over hun scope 2-emissies. GvO's zijn daarvoor bruikbaar, maar de kwaliteit van de certificaten is onderwerp van discussie bij accountants en auditors. Laat je hierover adviseren door je accountant en ga niet uit van wat een leverancier erover zegt; wij nemen hierover geen stelling in.
 
 ## Vijf vragen die lezers ons stellen
 
 **"Is groene stroom duurder dan grijze stroom?"**
-Niet per se. Dynamische leveranciers als Frank Energie en Tibber bieden 100% groene stroom (hoog NL-aandeel) en zijn gemiddeld goedkoper dan vaste contracten van Eneco of Vattenfall met grijze of gedeeltelijk groene stroom. Het hangt af van je contract, niet van de kleur.
+De certificaten kosten enkele tientjes per jaar. Wat je op je rekening ziet, wordt bepaald door het tariefmodel van de leverancier, niet door de kleur van de stroom. Dynamische contracten met een hoog Nederlands aandeel op het etiket zijn gemiddeld goedkoper dan vaste contracten — dat komt door het tariefmodel, niet door het groene label.
 
 **"Wat als mijn leverancier failliet gaat?"**
-Je energielevering stopt nooit zomaar. De netbeheerder (Enexis, Liander, Stedin) zorgt voor ononderbroken levering. Je wordt automatisch overgedragen aan een noodleverancier. Je hoeft zelf niets te doen — wel wordt het tarief tijdelijk hoger totdat je een nieuw contract afsluit.
+Je levering stopt niet. De wettelijke regeling zorgt dat je wordt overgedragen aan een andere leverancier. Je hoeft zelf niets te doen, maar het tarief in die tussenperiode kan ongunstiger zijn dan je oude contract — sluit dus wel snel een nieuw contract af.
 
-**"Heeft groene stroom invloed op mijn slim laden?"**
-Indirect ja. Windstroom en zonnestroom zijn het goedkoopst op momenten dat er veel productie is (overdag bij zon, 's nachts bij wind). Een dynamisch contract in combinatie met een EV-laadpaal is de meest kostenefficiënte manier om "groen te laden" — je laadt automatisch wanneer groene stroom het goedkoopst is.
+**"Heeft groene stroom invloed op slim laden?"**
+Indirect. Stroom is het goedkoopst wanneer er veel wind- of zonproductie is, en dat is precies wanneer de netmix het groenst is. Een dynamisch contract in combinatie met slim laden is daarmee de manier waarop "groen laden" fysiek doorwerkt in plaats van alleen administratief.
 
-**"Kan ik zelf groene stroom verkopen als prosumer?"**
-Als particulier niet direct. Je levert terug aan het net via je netbeheerder, die het saldeert of vergoedt via het teruglevertarief van je leverancier. Dat teruglevertarief is bij dynamische leveranciers gelijk aan de EPEX-prijs, dus je krijgt de marktprijs voor je teruggeleverde zonnestroom.
+**"Kan ik als particulier zelf groene stroom verkopen?"**
+Niet rechtstreeks aan andere afnemers. Je levert terug via je netbeheerder; je leverancier verrekent dat. Bij een dynamisch contract krijg je daarvoor de uurprijs van het moment van teruglevering — op zonnige middagen is die laag, omdat alle panelen dan tegelijk produceren.
 
-**"Wat is het verschil tussen windstroom en zonnestroom qua CO₂?"**
-Beide zijn nagenoeg CO₂-vrij in gebruik. Over de hele levenscyclus (productie + transport + installatie) heeft wind iets minder CO₂-voetafdruk dan zon: 7-15 gCO₂/kWh voor wind vs. 20-50 gCO₂/kWh voor zon. Ter vergelijking: aardgas = 490 gCO₂/kWh. Beide zijn een factor 10-70× beter dan fossiel.
+**"Wind of zon: wat is beter qua CO₂?"**
+Beide zijn in gebruik nagenoeg CO₂-vrij. Over de hele levenscyclus, inclusief productie en installatie, liggen de gangbare IPCC-ranges rond 7-15 g CO₂/kWh voor wind en 20-50 g CO₂/kWh voor zon, tegen circa 490 g/kWh voor aardgas. Voor je eigen dak is de vraag "wind of zon" trouwens niet aan de orde — daar is zon de enige praktische optie.
+
+## Conclusie
+
+Het prijsverschil tussen groen en grijs is klein en goed te herleiden: voor een huishouden van 3.500 kWh gaat het om €1 tot €53 per jaar aan certificaten, afhankelijk van hun kwaliteit. Kies daarom groen — maar kijk verder dan het label en vergelijk vooral op het tariefmodel, want daar gaat het echte geld om.
+
+En houd de verhoudingen in het oog: overstappen naar een groene leverancier is een administratieve verbetering met een indirecte prikkel. Eigen zonnepanelen, isolatie en het elektrificeren van je verwarming en vervoer zijn fysieke veranderingen. Die eerste stap kost je vijf minuten; de rest kost meer, en levert daarom ook meer op.
+
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
+
+*Wij ontvangen geen vergoeding als je via deze link een contract afsluit.*
 
 ---
 
 ## Lees ook
 
-- **[Dynamische Energiecontracten 2026](/posts/dynamische-energiecontracten-vergelijking-2026/)** — Slim energie inkopen
-- **[Beste Zonnepanelen 2026](/posts/beste-zonnepanelen-2026/)** — Eigen groene stroom
-- **[Zonnepanelen Huren vs Kopen](/posts/zonnepanelen-huren-vs-kopen-2026/)** — Flexibel verduurzamen
-- **[Energielabel Verbeteren](/posts/energielabel-verbeteren-stappenplan-2026/)** — Verbruik verlagen
-- **[Smart Home Energiebeheer](/posts/smart-home-energiebeheer-2026/)** — Slim verbruiken
-
----
-
-*Laatst bijgewerkt: juni 2026.*
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+- **[Beste dynamisch energiecontract 2026](/posts/beste-dynamisch-energiecontract-2026/)** — de drie grote dynamische spelers naast elkaar
+- **[Dynamische energiecontracten 2026](/posts/dynamische-energiecontracten-vergelijking-2026/)** — slim energie inkopen
+- **[Beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/)** — eigen groene stroom
+- **[Zonnepanelen huren vs kopen](/posts/zonnepanelen-huren-vs-kopen-2026/)** — flexibel verduurzamen
+- **[Energielabel verbeteren](/posts/energielabel-verbeteren-stappenplan-2026/)** — verbruik verlagen
+- **[Smart home energiebeheer](/posts/smart-home-energiebeheer-2026/)** — slim verbruiken
