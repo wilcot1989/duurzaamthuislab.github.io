@@ -32,7 +32,7 @@ faq:
 - q: Wat is het verschil tussen een warmtepompboiler en een gewone warmtepomp?
   a: 'Een warmtepompboiler maakt alleen warm tapwater voor douche en kraan; hij verwarmt je huis niet. Een lucht-water warmtepomp doet beide: ruimteverwarming én tapwater. Een warmtepompboiler is daardoor een veel kleinere investering en is bedoeld voor wie de cv-ketel voorlopig houdt maar minder gas wil verbruiken voor warm water.'
 - q: Hoeveel bespaar ik met een warmtepompboiler per jaar?
-  a: 'Dat hangt af van wat je nu hebt. Vervang je een elektrische weerstandsboiler, dan is de besparing groot: bij een tapwatervraag van 1.800 kWh warmte per jaar gebruikt een weerstandsboiler ook 1.800 kWh stroom, terwijl een warmtepompboiler met een rendement van 3,0 daar ongeveer 600 kWh voor nodig heeft. Bij €0,26/kWh all-in (gelabelde aanname) is dat circa €310 per jaar. Vervang je een gasgeiser, dan is de besparing veel kleiner en de terugverdientijd dus langer.'
+  a: 'Dat hangt af van wat je nu hebt en van hoeveel warm water je gebruikt. Vervang je een elektrische weerstandsboiler, dan is de besparing groot: bij een tapwatervraag van 1.800 kWh warmte per jaar — het profiel van circa 100 liter warm water per dag, waarmee dit artikel rekent — gebruikt een weerstandsboiler ook 1.800 kWh stroom, terwijl een warmtepompboiler met een rendement van 3,0 daar ongeveer 600 kWh voor nodig heeft. Bij €0,26/kWh all-in (gelabelde aanname) is dat circa €310 per jaar. Bij een ruimer profiel van 200 liter per dag (circa 3.650 kWh) verdubbelt dat ongeveer. Vervang je een gasgeiser, dan is de besparing veel kleiner en de terugverdientijd dus langer.'
 - q: Kan ik ISDE-subsidie krijgen voor een warmtepompboiler?
   a: 'Ja, mits het toestel op de apparatenlijst van de RVO staat. Wij noemen hier geen bedrag: dat verschilt per typenummer en per rendementsklasse, en de lijst is de enige betrouwbare bron. Belangrijk voor de planning: je vraagt de ISDE aan ná de installatie, binnen 24 maanden. Vóór installatie aanvragen kan niet.'
 - q: Werkt een warmtepompboiler goed samen met zonnepanelen?
@@ -137,7 +137,11 @@ Twee waarschuwingen bij zulke lijstjes. Modelnamen wisselen: een naam die in een
 
 ## Wat het rendementsverschil werkelijk waard is
 
-Een modelberekening met aannames, om het rendementsverschil op zijn juiste waarde te schatten. Aannames: tapwatervraag 1.800 kWh warmte per jaar (een gezin van drie tot vier), all-in stroomprijs €0,26/kWh — onze gelabelde aanname (EPEX-jaargemiddelde 2025 plus energiebelasting en een opslagaanname, alles inclusief btw).
+Een modelberekening met aannames, om het rendementsverschil op zijn juiste waarde te schatten.
+
+**Welk tapprofiel?** Dit artikel rekent met een tapwatervraag van **1.800 kWh warmte per jaar**. Dat hoort bij ongeveer **100 liter warm water per dag**, opgewarmd van 12°C naar 55°C (100 × 4,186 × 43 ÷ 3.600 × 365 ≈ 1.825 kWh) — het profiel van een zuinig twee- tot driepersoonshuishouden, of van een gezin dat kort doucht. Verbruikt jouw huishouden ruimer, reken dan met **200 liter per dag = circa 3.650 kWh** per jaar; dat is het profiel dat wij aanhouden in [boiler of doorstroomgeiser: de warmwateropties na het gas](/posts/boiler-vs-doorstroomgeiser-2026/), en alle bedragen hieronder verdubbelen dan ongeveer. Kijk dus eerst welk van de twee profielen bij je past voordat je de bedragen overneemt.
+
+Verdere aanname: all-in stroomprijs €0,26/kWh — gelabelde aanname (EPEX-jaargemiddelde 2025 plus energiebelasting en een opslagaanname, alles inclusief btw).
 
 | Toestel | Rendement | Stroomverbruik per jaar | Kosten per jaar |
 |---|---|---|---|
@@ -195,7 +199,7 @@ Dat komt bovenop de besparing uit het rendementsverschil hierboven. Verandert de
 
 Dit onderscheid bepaalt of de investering rendeert.
 
-**Elektrische weerstandsboiler vervangen.** De duidelijkste situatie. Uit de modelberekening hierboven: bij 1.800 kWh warmtevraag gaat het om circa €300 lagere energiekosten per jaar. Bij een investering van pakweg €2.000 inclusief montage, vóór ISDE, is dat een terugverdientijd rond de zeven jaar — en met het subsidiebedrag voor jouw typenummer erop in mindering korter.
+**Elektrische weerstandsboiler vervangen.** De duidelijkste situatie. Uit de modelberekening hierboven: bij 1.800 kWh warmtevraag gaat het om circa €300 lagere energiekosten per jaar. Bij een investering van pakweg €2.000 inclusief montage — een indicatiebedrag, geen gepubliceerde adviesprijs; vraag twee offertes op — en vóór ISDE, is dat een terugverdientijd rond de zeven jaar, en met het subsidiebedrag voor jouw typenummer erop in mindering korter. Ligt jouw tapwatervraag op het ruimere profiel van 3.650 kWh, dan is de besparing bijna twee keer zo groot en de terugverdientijd ongeveer half zo lang.
 
 **Gasgeiser of combiketel vervangen.** Hier is de rekening minder gunstig. Een aparte gasgeiser of combiketel gebruikt voor tapwater in de orde van 200 tot 300 m³ gas per jaar. Bij een all-in gasprijs van €1,10/m³ — onze gelabelde aanname — is dat €220 tot €330 per jaar. Een warmtepompboiler kost in hetzelfde model ongeveer €150 aan stroom. Het verschil is dan enkele tientallen tot ruim honderd euro per jaar, en de terugverdientijd loopt daarmee in de richting van de levensduur van het toestel.
 

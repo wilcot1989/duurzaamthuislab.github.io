@@ -23,11 +23,11 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1508514177221-188b1cf16e9d&w=1200&output=webp&q=70
 faq:
 - q: Wat is het beste alternatief voor Zonneplan?
-  a: 'Er is geen partij die voor iedereen het beste alternatief is, en wie dat wel beweert, kent jouw dak niet. Het antwoord hangt af van drie dingen: wil je kopen of huren, hoeveel service wil je inkopen, en is er in jouw regio genoeg lokale concurrentie? Voor huren of leasen zijn Solease en Sungevity de landelijk actieve partijen. Voor kopen zijn er naast de landelijke namen honderden gecertificeerde lokale installateurs, en die zijn in veel regio''s scherper geprijsd.'
+  a: 'Er is geen partij die voor iedereen het beste alternatief is, en wie dat wel beweert, kent jouw dak niet. Het antwoord hangt af van drie dingen: wil je kopen of huren, hoeveel service wil je inkopen, en is er in jouw regio genoeg lokale concurrentie? Voor huren is Solease de partij met het langste trackrecord. Voor kopen zijn er naast de landelijke namen honderden gecertificeerde lokale installateurs, en die zijn in veel regio''s scherper geprijsd.'
 - q: Is Zonneplan duurder dan andere installateurs?
   a: 'Dat is niet in het algemeen te zeggen, omdat prijzen per dak, per regio en per systeemgrootte verschillen en geen enkele aanbieder een vaste consumentenprijs publiceert. Wat wél vaststaat, is dat het verschil tussen de hoogste en de laagste offerte voor dezelfde installatie in de Nederlandse markt fors kan zijn. Vraag daarom minstens drie offertes op en reken ze allemaal om naar prijs per Wattpiek — dat is de enige maatstaf waarmee je installaties van verschillende omvang eerlijk vergelijkt.'
 - q: Kan ik zonnepanelen huren of leasen in plaats van kopen?
-  a: 'Ja. Solease verhuurt zonnepanelen sinds 2011: je betaalt een vast maandbedrag en de aanbieder regelt verzekering, onderhoud, garantie en service. Sungevity werkt ook met een huurcontract en noemt daarbij een minimumopbrengstgarantie. Let bij elk huur- of leasecontract op drie punten: de looptijd, wat opzeggen kost, en wat er gebeurt bij verkoop van je woning. Zonneplan verkoopt zijn systemen; dat is dus koop, geen lease.'
+  a: 'Ja. Solease verhuurt zonnepanelen sinds 2011: je betaalt een vast maandbedrag en de aanbieder regelt verzekering, onderhoud, garantie en service (solease.nl, opgehaald 21 augustus 2026). Andere landelijke namen adverteren wisselend met huur- of leasevormen; vraag per aanbieder op welke constructie op dit moment daadwerkelijk wordt aangeboden, want dat verandert. Let bij elk huur- of leasecontract op drie punten: de looptijd, wat opzeggen kost, en wat er gebeurt bij verkoop van je woning. Zonneplan verkoopt zijn systemen; dat is dus koop, geen lease.'
 - q: Krijg ik subsidie op zonnepanelen?
   a: 'Nee, niet in de vorm van een subsidieregeling. Op zonnepanelen en de onderdelen die daar direct voor nodig zijn geldt sinds 2023 een btw-tarief van 0 procent — je betaalt de btw dus niet meer en hoeft hem ook niet meer terug te vragen. De oude route via de btw-teruggaaf bestaat niet meer. ISDE is bedoeld voor onder meer warmtepompen en isolatie en geldt niet voor zonnepanelen voor particulieren. Een installateur die ISDE op je paneeloffertes belooft, heeft het mis.'
 - q: Welke paneelmerken kom ik tegen?
@@ -41,7 +41,7 @@ products:
   url: https://go.duurzaamthuislab.nl/zonneplan
 schema_type: Article
 ---
-"Ik heb een offerte van Zonneplan voor zestien panelen. Is dat een normale prijs?" Dat is een van de meest gestelde vragen rond zonnepanelen, en meestal is er op dat moment nog maar één offerte aangevraagd. Zonneplan adverteert breed en heeft een verzorgde website, maar dat maakt het bedrijf niet automatisch de beste of goedkoopste keuze voor elke daksituatie.
+Is een offerte van Zonneplan voor zestien panelen een normale prijs? Die vraag is zonder een tweede offerte niet te beantwoorden, en dat is precies het probleem waar veel mensen op dit punt in vastlopen. Zonneplan adverteert breed en heeft een verzorgde website, maar dat maakt het bedrijf niet automatisch de beste of goedkoopste keuze voor elke daksituatie.
 
 Dit artikel is voor iedereen die offertes vergelijkt. **Wat je hier niet vindt, zijn prijslijsten en reviewscores per installateur.** Die getallen zijn niet controleerbaar, ze verouderen binnen maanden, en ze zijn precies de reden dat vergelijkingssites elkaar tegenspreken. Wat je wél vindt: welke landelijk actieve partijen er verifieerbaar zijn, en de methode om daar je eigen offertes langs te leggen.
 
@@ -49,7 +49,7 @@ Dit artikel is voor iedereen die offertes vergelijkt. **Wat je hier niet vindt, 
 
 ---
 
-> **Kort antwoord:** de belangrijkste keuze is niet welke naam je kiest, maar of je koopt of huurt, en of je genoeg offertes hebt om te weten wat een normale prijs is. Voor huren of leasen zijn Solease en Sungevity de landelijk actieve partijen. Voor kopen concurreren de landelijke aanbieders met honderden lokale gecertificeerde installateurs. Vraag drie tot vijf offertes op en reken ze om naar prijs per Wattpiek — dan pas kun je zien of een aanbod scherp is.
+> **Kort antwoord:** de belangrijkste keuze is niet welke naam je kiest, maar of je koopt of huurt, en of je genoeg offertes hebt om te weten wat een normale prijs is. Voor huren is Solease de landelijke partij met het langste trackrecord. Voor kopen concurreren de landelijke aanbieders met honderden lokale gecertificeerde installateurs. Vraag drie tot vijf offertes op en reken ze om naar prijs per Wattpiek — dan pas kun je zien of een aanbod scherp is.
 
 ---
 
@@ -77,17 +77,17 @@ Solease verhuurt zonnepanelen sinds 2011 en is daarmee een van de langstlopende 
 
 **Waar je op moet letten:** de looptijd, wat tussentijds opzeggen kost, en wat er gebeurt bij verkoop van je woning. Vraag ook expliciet wat er gebeurt aan het einde van de looptijd: worden de panelen van jou, blijven ze van de aanbieder, of worden ze weggehaald?
 
-### Sungevity — huurcontract met opbrengstgarantie
+### Sungevity — actief, maar via partners
 
-Sungevity werkt in Nederland eveneens met een huurcontract: geen grote investering vooraf, een vast maandbedrag, en de aanbieder regelt de rest. Sungevity noemt daarbij een minimumopbrengstgarantie.
+Sungevity heeft een actieve Nederlandse website met een vestigingsadres in Heerhugowaard en verwijst bezoekers voor de daadwerkelijke installatie door naar partnerbedrijven (sungevity.nl, opgehaald 21 augustus 2026). Of Sungevity op dit moment ook een huurconstructie of een minimumopbrengstgarantie aanbiedt, konden wij op de publieke site niet vaststellen; wij noemen die voorwaarden daarom niet.
 
-**Waarom overwegen:** een opbrengstgarantie neemt het risico weg dat je dak minder oplevert dan voorgespiegeld.
+**Waarom overwegen:** een landelijke naam als eerste aanspreekpunt, met een partnerbedrijf voor de uitvoering.
 
-**Waar je op moet letten:** lees precies waar de garantie op slaat. Een minimumopbrengstgarantie is een contractuele belofte met voorwaarden — welke opbrengst wordt gegarandeerd, hoe wordt die gemeten, en wat gebeurt er als hij niet wordt gehaald? Vraag dat schriftelijk.
+**Waar je op moet letten:** vraag als eerste wie de installatie feitelijk uitvoert en bij wie je garantie claimt — bij Sungevity of bij het partnerbedrijf. Vraag daarna schriftelijk welke constructie je precies krijgt (koop, huur of lease), welke opbrengst er eventueel wordt gegarandeerd, hoe die wordt gemeten en wat er gebeurt als hij niet wordt gehaald.
 
 ### Coolblue — kopen met één aanspreekpunt
 
-Coolblue verkoopt en laat zonnepanelen installeren, en heeft daarnaast een eigen energietak. Voor wie panelen koopt is het relevante punt de organisatievorm: het klantcontact loopt via één partij, ook als de installatie door een partner wordt uitgevoerd.
+Coolblue verkoopt en laat zonnepanelen installeren, en heeft daarnaast een eigen energietak (coolblue.nl, opgehaald 21 augustus 2026). Voor wie panelen koopt is het relevante punt de organisatievorm: het klantcontact loopt via één partij, ook als de installatie door een partner wordt uitgevoerd.
 
 **Waarom overwegen:** één aanspreekpunt, en een organisatie die bereikbaar blijft. Dat is precies waar het bij kleine installateurs weleens misgaat na oplevering.
 
@@ -95,7 +95,7 @@ Coolblue verkoopt en laat zonnepanelen installeren, en heeft daarnaast een eigen
 
 ### Essent — panelen naast een energiecontract
 
-Essent biedt zonnepanelen aan naast zijn energieproducten. De aantrekkingskracht zit in het pakket: één partij voor stroom, panelen en soms meer.
+Essent biedt zonnepanelen aan naast zijn energieproducten (essent.nl, opgehaald 21 augustus 2026). De aantrekkingskracht zit in het pakket: één partij voor stroom, panelen en soms meer.
 
 **Waarom overwegen:** administratief gemak en een bekende naam.
 
@@ -138,7 +138,7 @@ Deel de totaalprijs door het totale vermogen in Wp. Een offerte van €5.800 voo
 Een merknaam is niet genoeg — binnen één merk bestaan tientallen varianten met verschillend vermogen, rendement en garantietermijn. Vraag het volledige typenummer en het datasheet erbij. Daarin staat de vermogensgarantie en de jaarlijkse degradatie, en die kun je zelf vergelijken.
 
 **Stap 3: kijk naar de omvormer, niet alleen naar de panelen.**
-De omvormer is het onderdeel dat statistisch als eerste vervangen moet worden. Vraag om merk en type, om de garantietermijn, en of monitoring per string of per paneel is. Meer daarover in [beste omvormer zonnepanelen 2026](/posts/beste-omvormer-zonnepanelen-2026/).
+De omvormer is doorgaans het onderdeel dat als eerste aan vervanging toe is: fabrikanten geven er kortere garantietermijnen op dan op de panelen, en dat verschil in garantietermijn is het beste publieke signaal dat er is. Vraag om merk en type, om de garantietermijn, en of monitoring per string of per paneel is. Meer daarover in [beste omvormer zonnepanelen 2026](/posts/beste-omvormer-zonnepanelen-2026/).
 
 **Stap 4: pluis de garantiestructuur uit.**
 Er zijn drie afzonderlijke garanties en ze lopen via verschillende partijen:
@@ -186,7 +186,7 @@ Vul de tabel in met de bedragen uit je eigen offertes. Zit je aan de bovenkant, 
 
 ## Voor wie is welke route?
 
-**Huren of leasen (Solease, Sungevity)** past bij wie geen bedrag ineens wil of kan investeren, of wie het risico op onderhoud en defecten buiten de deur wil houden. Je betaalt daarvoor over de looptijd meer dan bij koop — dat is de prijs van risico-overdracht, en die kan het waard zijn. Reken uit wat het totaal over de looptijd is voordat je tekent.
+**Huren of leasen (Solease, en vraag bij de andere landelijke namen na wat zij momenteel aanbieden)** past bij wie geen bedrag ineens wil of kan investeren, of wie het risico op onderhoud en defecten buiten de deur wil houden. Je betaalt daarvoor over de looptijd meer dan bij koop — dat is de prijs van risico-overdracht, en die kan het waard zijn. Reken uit wat het totaal over de looptijd is voordat je tekent.
 
 **Kopen bij een landelijke aanbieder (Coolblue, Essent, Zonneplan)** past bij wie één aanspreekpunt wil dat over tien jaar nog bestaat, en die daar een meerprijs voor over heeft. Vergelijk die meerprijs wel: vraag ernaast één lokale offerte op, zodat je weet hoeveel de service kost.
 
@@ -216,7 +216,7 @@ De kern van onze aanbeveling:
 
 - **Vraag drie tot vijf offertes op** en zorg dat ze over dezelfde installatie gaan.
 - **Reken alles om naar prijs per Wp** — niet vergelijken op totaalbedrag.
-- **Wil je huren of leasen**, kijk dan naar Solease of Sungevity, en lees de exitvoorwaarden vóór de maandprijs.
+- **Wil je huren of leasen**, begin dan bij Solease, vraag bij de andere landelijke aanbieders na welke constructie zij op dit moment bieden, en lees de exitvoorwaarden vóór de maandprijs.
 - **Wil je kopen**, zet dan altijd minstens één lokale gecertificeerde installateur naast de landelijke aanbieders.
 - **Reken met 0 procent btw en zonder subsidie** op de panelen zelf.
 - **Beoordeel de arbeidsgarantie** en de vraag wie hem afhandelt als het bedrijf verdwijnt.

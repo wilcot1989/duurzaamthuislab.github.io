@@ -34,7 +34,7 @@ faq:
 - q: Is een warmtepomp zinvol zonder goede isolatie?
   a: 'Nee. Een lucht-water-warmtepomp werkt het beste bij aanvoertemperatuur 35-45 graden — dat haal je alleen met label B of beter. Eerst isoleren, dan warmtepomp. Een hybride opstelling kan een tussenstap zijn.'
 - q: Hoeveel is er per jaar te besparen op energie?
-  a: 'Dat volgt uit je eigen verbruik, niet uit een gemiddelde. Reken het zo na: het gasverbruik dat je wegneemt maal €1,10 per m³, plus de netto-import elektriciteit die je wegneemt maal €0,26 per kWh. Voor het rijtjeshuis in de modelberekening onderaan dit artikel — 2.100 m³ gas naar nul en 3.000 kWh minder import — komt dat uit op ongeveer €3.100 per jaar. Een dynamisch contract en een thuisbatterij voegen daar arbitragewinst aan toe, maar die hangt af van de prijsspreiding in dat jaar en is geen vast bedrag.'
+  a: 'Dat volgt uit je eigen verbruik, niet uit een gemiddelde. Reken het zo na: neem je energierekening van nu (gasverbruik maal €1,10 per m³ plus netto-import maal €0,26 per kWh) en zet daar de rekening van de eindsituatie tegenover — want als je all-electric gaat, verdwijnt het gas maar stijgt je stroomverbruik. Voor het rijtjeshuis in de modelberekening onderaan dit artikel gaat de energierekening van circa €3.400 naar circa €680 per jaar, dus een besparing van ongeveer €2.720, plus het vastrecht van de gasaansluiting dat je niet meer betaalt. Een dynamisch contract en een thuisbatterij voegen daar arbitragewinst aan toe, maar die hangt af van de prijsspreiding in dat jaar en is geen vast bedrag.'
 - q: 'Hoeveel CO2 bespaar je met een complete verduurzaming?'
   a: 'Het grootste deel van de winst zit in het wegnemen van aardgas: elke kubieke meter die je niet meer stookt, scheelt ongeveer 1,8 kg CO2. Voor het rijtjeshuis in de modelberekening onderaan — 2.100 m³ gas naar nul — is dat in de orde van 3,8 ton per jaar. Wat er daarna aan elektriciteitsuitstoot overblijft, hangt af van de CO2-intensiteit van het net op de uren dat je inkoopt, en die verschilt per jaar en per uur. Wij noemen daarom geen vast eindpercentage: reken met je eigen gasverbruik en behandel de stroomkant als variabel.'
 - q: 'Wat is het verschil tussen label B en A++?'
@@ -48,12 +48,11 @@ faq:
 - q: 'Wat als je in een appartement woont?'
   a: 'Binnen een VvE kun je zelf alleen klein werk doen: HR++ glas (indien toegestaan), inductie koken, water besparen en eventueel balkonpanelen. Voor balkonpanelen heb je vrijwel altijd toestemming van de VvE nodig, want ze veranderen het aanzicht van het gebouw; hoeveel VvE''s dat toestaan is niet uit publieke cijfers bekend, dus reken er niet op dat het vanzelf gaat. Voor een zonnedak of een collectieve warmtepomp moet de VvE besluiten — daarvoor bestaan de SVVE (voor de VvE zelf) en de SCE (voor collectieve opwek).'
 schema_type: Article
-last_updated: '2026-10-14'
 ---
 
 Een rijtjeshuis uit de jaren tachtig met energielabel F en een winterse gasrekening van honderden euro's per maand is in drie jaar volledig van het gas af te halen, zonder dat je in één keer een verbouwing van vijftig mille aangaat. Er zit geen truc achter: het gaat om de juiste volgorde van maatregelen, een paar goed onderbouwde keuzes en het geduld om niet alles tegelijk te willen. Deze gids zet die volgorde op een rij, met de rekenregels waarmee je elke stap voor je eigen woning kunt doorrekenen.
 
-*Disclosure: DuurzaamThuisLab heeft geen affiliate- of commissierelatie met Sessy, Marstek, Tibber, Frank Energie of Zonneplan (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Onze aanbevelingen blijven onafhankelijk: wij beoordelen op specificaties, subsidievoorwaarden, publieke marktdata en openbare fabrikantdocumentatie en publieke bronnen, en benoemen nadelen expliciet.*
+*Disclosure: DuurzaamThuisLab heeft geen affiliate- of commissierelatie met Sessy, Marstek, Tibber, Frank Energie of Zonneplan (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Onze aanbevelingen blijven onafhankelijk: wij beoordelen op specificaties, subsidievoorwaarden, publieke marktdata en openbare fabrikantdocumentatie, en benoemen nadelen expliciet.*
 
 ---
 
@@ -168,11 +167,11 @@ De totale investering blijft onder de tweehonderd euro. De besparing zit voor he
 
 Voor wie groter wil denken: een grijswatersysteem met opvang van douche/wasmachine-water voor toiletspoeling kost €3.500-€6.500 maar bespaart 30-40% drinkwater. Alleen rendabel bij nieuwbouw of grote verbouwing.
 
-Een vaak vergeten besparing: warmtepomp-boiler voor warm tapwater. Vervangt een gasgestookte boiler en gebruikt 70% minder energie. Pas dit toe als onderdeel van [de warmtepomp-keuze](/posts/beste-warmtepomp-merk-2026/) of overweeg een losse warmtepompboiler bij behoud HR-ketel — gecombineerd met [zonnepanelen na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) is dat een uitstekend zelfverbruik-koppel.
+Een vaak vergeten besparing: een warmtepompboiler voor warm tapwater. Die vervangt een gasgestookte boiler en heeft bij een rendement van 3,0 ongeveer een derde van de energie nodig die een elektrische weerstandsboiler zou vragen. Pas dit toe als onderdeel van [de warmtepomp-keuze](/posts/beste-warmtepomp-merk-2026/) of overweeg een losse warmtepompboiler bij behoud HR-ketel — gecombineerd met [zonnepanelen na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) is dat een uitstekend zelfverbruik-koppel.
 
 ## Voedsel en kringloop thuis
 
-Verduurzaming stopt niet bij energie. Voedselverspilling kost een gemiddeld huishouden €600-€800 per jaar en is verantwoordelijk voor ongeveer 8% van de CO2-voetafdruk van een Nederlands gezin. De winst zit hier vooral in gewoonteverandering, niet in dure apparaten.
+Verduurzaming stopt niet bij energie. Het [Voedingscentrum](https://www.voedingscentrum.nl/encyclopedie/voedselverspilling.aspx) becijfert dat een Nederlandse consument in 2025 gemiddeld 25,5 kilo vast voedsel per jaar thuis weggooide — vooral brood (4,3 kg), groente (3,6 kg) en fruit (3,5 kg) — en dat je door niets te verspillen ongeveer **€100 per persoon per jaar** bespaart. Voor een gezin van vier is dat dus in de orde van €400 per jaar (geraadpleegd 21 augustus 2026). Hoe groot het CO2-aandeel van die verspilling in een huishoudvoetafdruk precies is, noemen wij niet: daar circuleren percentages voor die wij niet naar één publieke bron kunnen herleiden. De winst zit hier vooral in gewoonteverandering, niet in dure apparaten.
 
 **Wat wij aanraden:**
 
@@ -209,7 +208,18 @@ Dit is in 2026 de maatregel met het beste rendement per geïnvesteerde euro — 
 **Hoe een dynamisch contract werkt:**
 Je betaalt per uur de prijs van de stroombeurs (EPEX day-ahead), plus een inkoopvergoeding per kWh, plus energiebelasting en btw, plus de vaste kosten van je leverancier. Netbeheerkosten staan daar los van: dat is een **vast jaarbedrag** en geen prijs per kWh, dus die post verandert niet als je van contractvorm wisselt.
 
-De cijfers waarmee je kunt rekenen, over heel 2025 gemeten: de EPEX day-ahead-prijs lag gemiddeld op **€0,105/kWh**. Er waren **212 uren met een negatieve prijs**, en het duurste uur van het jaar was €0,63 op 20 januari 2025 om 17:00. Tel je bij dat jaargemiddelde een inkoopvergoeding van ongeveer €0,02 en de energiebelasting van €0,09161 op, en zet je 21% btw over het geheel, dan kom je op de **€0,26/kWh** waarmee wij in dit artikel rekenen.
+De cijfers waarmee je kunt rekenen, over heel 2025 gemeten: de EPEX day-ahead-prijs lag gemiddeld op **€0,105/kWh inclusief btw**. Er waren **212 uren met een negatieve prijs**, en het duurste uur van het jaar was €0,63 inclusief btw, op 20 januari 2025 om 17:00.
+
+Zo komen wij aan de €0,26/kWh waarmee dit artikel rekent — alle posten inclusief btw, dus er gaat géén extra 21% meer over de som:
+
+| Post | Bedrag per kWh (incl. btw) |
+|---|---|
+| EPEX-jaargemiddelde 2025 | €0,105 |
+| Energiebelasting 2026 | €0,11085 |
+| Inkoopopslag + omslag vaste kosten (aanname) | €0,044 |
+| **All-in** | **€0,26** |
+
+Die laatste post is onze eigen aanname, geen gepubliceerd tarief: leveranciers rekenen een inkoopvergoeding per kWh plus een vast maandbedrag, en hoe zwaar dat vaste bedrag per kWh weegt hangt af van je verbruik. Betaal je minder vaste kosten of verbruik je meer, dan valt je all-in prijs lager uit. De ODE bestaat sinds 2023 niet meer als aparte post; die zit in de energiebelasting.
 
 Of dat goedkoper is dan een vast contract, kunnen wij niet in het algemeen zeggen: dat hangt af van het vaste tarief dat je aangeboden krijgt en van de vraag of je verbruik in de dure of de goedkope uren valt. Een dynamisch contract belóóft geen lagere prijs — het geeft je de beursprijs, met het risico en de stuurruimte die daarbij horen.
 
@@ -244,7 +254,7 @@ In 2026 lopen er meer subsidies dan ooit — en juist daarom raken mensen verstr
 - **Btw**: 0% op zonnepanelen en de direct noodzakelijke onderdelen. Dat nultarief vervángt de oude teruggaveroute — sinds 1 januari 2023 valt er niets meer terug te vragen, want er zit geen btw in de rekening. Op een warmtepomp, boiler, isolatie, thermostaat, inductieplaat en thuisbatterij geldt 21%
 - **Verduurzamingshypotheek**: verschillende banken geven een rentekorting op het deel dat je voor verduurzaming leent. De hoogte verschilt per bank en per moment; vraag het actuele verschil op
 
-Financiering kan slimmer zijn dan eigen geld, maar reken het na met de rente die jij krijgt. Een **modelvoorbeeld**: leen je €30.000 over 20 jaar tegen 4% annuïtair, dan betaal je ongeveer €182 per maand. De besparing in de modelberekening onderaan dit artikel is €3.090 per jaar, oftewel €258 per maand. In dát geval is de cashflow vanaf de eerste maand positief — maar bij een hogere rente, een kleinere besparing of een gefaseerde uitvoering geldt dat niet automatisch. Vergelijk de opties in [verduurzamingshypotheek 2026 vergelijking](/posts/verduurzamingshypotheek-2026-vergelijking/) en ruimere [financiering warmtepomp zonnepanelen](/posts/financiering-warmtepomp-zonnepanelen-2026/).
+Financiering kan slimmer zijn dan eigen geld, maar reken het na met de rente die jij krijgt. Een **modelvoorbeeld**: leen je €30.000 over 20 jaar tegen 4% annuïtair, dan betaal je ongeveer €182 per maand. De besparing in de modelberekening onderaan dit artikel is €2.720 per jaar, oftewel €227 per maand. In dát geval is de cashflow vanaf de eerste maand positief. Financier je echter het volledige pakket van €44.400 op dezelfde voorwaarden, dan is de maandlast ongeveer €269 en is de cashflow juist negatief — het verschil moet dan uit eigen geld of uit een langere looptijd komen. Bij een hogere rente, een kleinere besparing of een gefaseerde uitvoering schuift dit beeld dus wezenlijk. Vergelijk de opties in [verduurzamingshypotheek 2026 vergelijking](/posts/verduurzamingshypotheek-2026-vergelijking/) en ruimere [financiering warmtepomp zonnepanelen](/posts/financiering-warmtepomp-zonnepanelen-2026/).
 
 Tip: stapel regelingen waar het mag. ISDE plus een gemeentelijke isolatiesubsidie plus een rentekorting kan de effectieve kostprijs merkbaar verlagen. Check altijd of de regelingen combineerbaar zijn — in sommige gemeenten sluiten ze elkaar uit.
 
@@ -252,43 +262,57 @@ Tip: stapel regelingen waar het mag. ISDE plus een gemeentelijke isolatiesubsidi
 
 Onderstaand een **modelberekening** voor een rijtjeshuis uit 1981 van circa 118 m² met energielabel F bij de start, dat in drie jaar volledig van het gas gaat. Alle bedragen zijn richtprijzen inclusief btw. Wij rekenen met de constanten uit dit artikel: **€1,10 per m³ gas** en **€0,26 per kWh stroom**, beide all-in en beide een aanname. Het punt van dit schema is niet het exacte bedrag maar de **volgorde**: elke stap maakt de volgende goedkoper of effectiever.
 
+Het startverbruik van 2.100 m³ gas splitsen wij in dit model op als **1.830 m³ voor ruimteverwarming, 220 m³ voor tapwater en 50 m³ voor koken**. Die splitsing is nodig om te zien wat er in jaar 3 nog aan gas overblijft — want een gasaansluiting schrappen kan alleen als álle drie de posten weg zijn.
+
 **Jaar 1 — de schil dichtmaken en opwekken: €15.600**
 - Dakisolatie 12 cm PIR vanuit binnen: €4.200 (21% btw)
 - HR++ glas voor 8 ramen achterzijde: €4.600 (21% btw)
 - 12 zonnepanelen van 450 Wp, samen 5,4 kWp, all-in: €6.800 (0% btw, dus geen teruggaveroute)
 - Voorlopig label: D
-- Resultaat: gasverbruik van 2.100 naar 1.400 m³, netto stroomimport van 4.200 naar 800 kWh
+- Resultaat: gasverbruik van 2.100 naar 1.400 m³ (verwarming 1.830 → 1.130), netto stroomimport van 4.200 naar 800 kWh
 
-**Jaar 2 — verwarming halveren: €13.300**
+**Jaar 2 — verwarming volledig elektrificeren: €16.800**
 - Vloerisolatie kruipruimte: €1.800 (21% btw)
 - HR++ glas voorzijde + dakkapel: €3.500 (21% btw)
-- Hybride lucht/water-warmtepomp: €8.000 (21% btw)
+- **Volledige** lucht-water warmtepomp voor de ruimteverwarming, HR-ketel blijft nog even staan voor tapwater: €11.500 (21% btw)
 - Label: B
-- Resultaat: gasverbruik naar 580 m³
+- Resultaat: de resterende verwarmingsvraag van circa 880 m³ gasequivalent (≈ 7.300 kWh warmte) gaat naar de warmtepomp: bij SCOP 3,5 is dat ongeveer 2.100 kWh stroom. Gasverbruik zakt naar circa 270 m³ — alleen nog tapwater en koken
 
-**Jaar 3 — optimaliseren en elektrificeren: €13.100**
+Hier zit de keuze die dit plan bepaalt. Wie in jaar 3 van het gas af wil, moet in jaar 2 **all-electric** kiezen en niet hybride. Een hybride warmtepomp is een prima tussenstap als je de gasaansluiting wílt houden, maar dan houd je de ketel — en dan komt de stap "gasaansluiting schrappen" in jaar 3 te vervallen. Kies dus vooraf welke van de twee routes je loopt; ze zijn niet te combineren zonder dat je het gastoestel van jaar 2 na één seizoen alweer afschrijft.
+
+**Jaar 3 — het laatste gas eruit en optimaliseren: €12.000**
+- Warmtepompboiler 200 liter voor tapwater, ter vervanging van de HR-ketel: €2.000 (21% btw). Tapwatervraag 220 m³ gas ≈ 1.800 kWh warmte; bij COP 3,0 is dat circa 600 kWh stroom
+- Inductieplaat + geschikte pannenset: €900 (21% btw). Vervangt de laatste 50 m³ kookgas, circa 200 kWh stroom
+- Gasaansluiting laten verwijderen: €1.000
 - Thuisbatterij 5 kWh (Sessy, €3.550 inclusief btw en exclusief installatie) plus installatie: €4.100
 - Laadpaal + meterkast-upgrade: €1.800
+- 4 extra zonnepanelen oostzijde: €2.200 (0% btw)
 - Overstap naar een dynamisch contract: €0
 - Gebruikte elektrische auto (apart budget, **niet** in deze investering meegerekend)
-- 4 extra zonnepanelen oostzijde: €2.200
-- Gasaansluiting schrappen + warmtepompboiler voor tapwater: €5.000
 - Label: A
-- Resultaat: nul gasverbruik; netto stroomimport 1.200 kWh per jaar
+- Resultaat: **nul gasverbruik**, en pas nu kan de aansluiting er echt uit
 
-**Totale investering over drie jaar: €15.600 + €13.300 + €13.100 = €42.000**
+**Totale investering over drie jaar: €15.600 + €16.800 + €12.000 = €44.400**
 
 Wat gaat daar nog af? De ISDE op de isolatiemaatregelen en de warmtepomp. Wij vullen daar geen bedrag in, omdat dat van het typenummer van het toestel en van de gekozen isolatiemaatregelen afhangt — zoek het op via de RVO-apparatenlijst en vraag ná uitvoering aan. Voor de zonnepanelen, de batterij en de laadpaal is er niets: die vallen niet onder de ISDE, en de btw-teruggaveroute op panelen bestaat sinds 2023 niet meer omdat er 0% btw op zit.
 
-**Besparing per jaar in dit model:**
-- Gas: 2.100 m³ naar nul, à €1,10 = **€2.310**
-- Stroom: 3.000 kWh minder netto-import (van 4.200 naar 1.200), à €0,26 = **€780**
-- **Woninggebonden totaal: €3.090 per jaar**
-- Brandstof: de elektrische auto scheelt bij 20.000 km per jaar ongeveer €1.900, maar dat is een **autopost, geen woningpost** — wij houden die apart
+**Besparing per jaar in dit model.** Let op: all-electric maken betekent dat de gasrekening naar nul gaat, maar dat het stroomverbruik juist stíjgt. Dat moet je tegen elkaar wegstrepen, anders wordt de besparing overschat.
 
-Terugverdientijd op de woninginvestering in dit model: **€42.000 ÷ €3.090 = ongeveer 13,5 jaar** vóór subsidie. Trek je de ISDE op isolatie en warmtepomp eraf, dan komt dat lager uit; hoeveel lager, bepaalt jouw subsidiebeschikking. Tel je de brandstofbesparing van de auto wél mee, dan daalt de termijn naar ongeveer 8,5 jaar — maar dat is een andere vraag dan of de woningmaatregelen zichzelf terugbetalen, dus wij noemen die 13,5 jaar als het eerlijke getal.
+*Uitgangssituatie:* 2.100 m³ gas × €1,10 = €2.310, plus 4.200 kWh netto-import × €0,26 = €1.092. Samen **€3.402 per jaar** (exclusief het vastrecht van de gasaansluiting).
 
-Dat is aanzienlijk langer dan de vijf tot zeven jaar die je in verkooppraatjes hoort. Twee dingen verklaren het verschil: de complete route inclusief het schrappen van de gasaansluiting is duurder dan losse maatregelen, en wij rekenen niet met een subsidiebedrag dat wij niet kunnen onderbouwen. Wie alleen de maatregelen met de kortste terugverdientijd uitvoert — dakisolatie, glas, panelen — zit ruim onder de tien jaar. De laatste stap naar volledig gasloos is de duurste per bespaarde euro.
+*Eindsituatie:* de elektriciteitsvraag van het huis is opgelopen naar circa 7.100 kWh — 4.200 kWh huishoudelijk, 2.100 kWh warmtepomp, 600 kWh warmtepompboiler en 200 kWh inductie. Daar staat circa 6.000 kWh eigen opwek tegenover: de 5,4 kWp uit jaar 1 plus de vier panelen op oost uit jaar 3. Rekenen we met 65% zelfverbruik, mogelijk gemaakt door de batterij, het slim laden en de warmtepompboiler, dan blijft er 3.190 kWh netto-import over en lever je 2.100 kWh terug:
+
+- Inkoop: 3.190 × €0,26 = €829
+- Teruglevering: 2.100 × €0,07 (gelabelde aanname voor 2027) = **−€147**
+- **Energierekening eindsituatie: circa €680 per jaar**
+
+*Besparing:* €3.402 − €680 = **circa €2.720 per jaar** woninggebonden. Daar komt nog het vastrecht van de gasaansluiting bij dat je niet meer betaalt: reken op €150 tot €250 per jaar.
+
+De elektrische auto scheelt bij 20.000 km per jaar ongeveer €1.900, maar dat is een **autopost, geen woningpost** — wij houden die apart.
+
+Terugverdientijd op de woninginvestering in dit model: **€44.400 ÷ €2.720 = ongeveer 16 jaar** vóór subsidie, of ruim 15 jaar als je het vervallen gasvastrecht meerekent. Trek je de ISDE op de isolatiemaatregelen, de warmtepomp, de warmtepompboiler en het elektrisch koken eraf, dan komt dat lager uit; hoeveel lager, bepaalt jouw subsidiebeschikking. Tel je de brandstofbesparing van de auto wél mee, dan daalt de termijn naar ongeveer 9,6 jaar — maar dat is een andere vraag dan of de woningmaatregelen zichzelf terugbetalen, dus wij noemen die 16 jaar als het eerlijke getal.
+
+Dat is aanzienlijk langer dan de vijf tot zeven jaar die je in verkooppraatjes hoort. Drie dingen verklaren het verschil. De complete route inclusief het schrappen van de gasaansluiting is duurder dan losse maatregelen. Wij rekenen niet met een subsidiebedrag dat wij niet kunnen onderbouwen. En het laatste stuk — warmtepompboiler, inductie, aansluiting verwijderen — kost geld maar levert weinig extra euro's op, omdat je die warmte nu met stroom maakt in plaats van met gas. Wie alleen de maatregelen met de kortste terugverdientijd uitvoert (dakisolatie, glas, panelen) zit ruim onder de tien jaar; wie puur op geld optimaliseert, stopt na jaar 2. Van het gas af gaan is dus vooral een keuze, geen investering die zich vanzelf terugbetaalt.
 
 Eén post laten wij bewust buiten de rekensom: een labelsprong van F naar A verhoogt de woningwaarde, maar hoeveel precies verschilt per woning en per markt. Laat dat door een taxateur bepalen in plaats van met een vast bedrag te rekenen.
 

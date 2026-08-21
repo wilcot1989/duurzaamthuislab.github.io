@@ -25,7 +25,7 @@ faq:
 - q: Mag ik als huurder zonnepanelen plaatsen zonder toestemming van de verhuurder?
   a: 'Nee. Voor een vaste installatie op dak of gevel heb je schriftelijke toestemming van de verhuurder nodig; het dak is eigendom van de verhuurder. Voor losstaande balkonpanelen ligt het anders — die zijn niet aan de woning bevestigd — maar een huurcontract kan ze alsnog verbieden. Vraag ook daarvoor vooraf toestemming, schriftelijk.'
 - q: Wat kan ik doen als de verhuurder weigert?
-  a: 'Vraag eerst om de reden; een weigering met een concrete zorg (dakschade, lekkage, monumentenstatus) is vaak te ondervangen met een installatievoorstel. Komt u er niet uit en huur je in de gereguleerde sector, dan kun je de zaak voorleggen aan de Huurcommissie. In het uiterste geval kan een huurder naar de kantonrechter. Laat je bij die stap juridisch adviseren — dit artikel is algemene informatie, geen juridisch advies.'
+  a: 'Vraag eerst om de reden; een weigering met een concrete zorg (dakschade, lekkage, monumentenstatus) is vaak te ondervangen met een installatievoorstel. Kom je er niet uit en huur je in de gereguleerde sector, dan kun je de zaak voorleggen aan de Huurcommissie. In het uiterste geval kan een huurder naar de kantonrechter. Laat je bij die stap juridisch adviseren — dit artikel is algemene informatie, geen juridisch advies.'
 - q: Kan ik als huurder subsidie krijgen voor zonnepanelen?
   a: 'Er is geen landelijke subsidie op zonnepanelen; de ISDE dekt panelen niet, voor eigenaren noch voor huurders. Wat wel bestaat, is deelname aan een energiecoöperatie via de SCE-regeling (de opvolger van de postcoderoosregeling), waarbij je meeprofiteert van een gezamenlijke installatie zonder dat je het dak nodig hebt. Sommige gemeenten hebben daarnaast een eigen regeling voor huurders; controleer dat bij je eigen gemeente.'
 - q: Wat zijn balkonzonnepanelen?
@@ -42,7 +42,7 @@ schema_type: Article
 ---
 *Disclosure: dit artikel bevat geen affiliate-links. De genoemde partijen zijn gewone verwijzingen — wij hebben met hen geen affiliate- of commissierelatie en verdienen niets aan dit artikel. De juridische passages zijn algemene informatie op basis van Nederlandse huurwetgeving; voor je eigen situatie is een jurist of het Juridisch Loket de aangewezen route.*
 
-Ongeveer een derde van de Nederlandse huishoudens huurt. Voor die groep is het gesprek over zonnepanelen anders dan voor een huiseigenaar: niet "wat kost het en wat levert het op", maar eerst "mag het, en wat gebeurt er als ik verhuis".
+Ongeveer 43 procent van de Nederlandse woningvoorraad is huurwoning (CBS, cijfers woningvoorraad naar eigendom — controleer het actuele percentage op cbs.nl). Voor die groep is het gesprek over zonnepanelen anders dan voor een huiseigenaar: niet "wat kost het en wat levert het op", maar eerst "mag het, en wat gebeurt er als ik verhuis".
 
 Dit artikel behandelt die twee vragen op volgorde: wat het huurrecht wel en niet regelt, hoe een toestemmingsverzoek eruitziet dat kans van slagen heeft, en welke routes er overblijven als het dak geen optie is.
 

@@ -24,7 +24,7 @@ faq:
 - q: Hoeveel kan ik besparen op mijn energierekening?
   a: 'Dat hangt volledig af van hoeveel je investeert. Gratis gedragsmaatregelen en ingrepen onder €100 leveren in onze modelberekening samen enkele honderden euro''s per jaar op. Stapel je daar de grote maatregelen bovenop — isolatie, zonnepanelen, een hybride warmtepomp, een batterij en een dynamisch contract — dan komt het model uit op ruwweg €2.000 per jaar bij een investering in de orde van €18.000 vóór subsidie. Alle aannames van die berekening staan onderaan het artikel.'
 - q: Wat zijn de goedkoopste manieren om energie te besparen?
-  a: 'Kierdichting, de thermostaat een graad lager, LED-verlichting en radiatorfolie geven de beste verhouding tussen investering en besparing. Een graad lager scheelt bij een gasverbruik van 1.500 m3 ongeveer €99-€116 per jaar, LED-verlichting in een woning met twintig lampen ongeveer €105-€140 per jaar.'
+  a: 'Kierdichting, de thermostaat een graad lager, LED-verlichting en radiatorfolie geven de beste verhouding tussen investering en besparing. Een graad lager scheelt bij een gasverbruik van 1.500 m3 ongeveer €99-€116 per jaar, LED-verlichting bij vijftien lampen die twee uur per dag branden ongeveer €95-€150 per jaar.'
 - q: Is een dynamisch energiecontract echt goedkoper?
   a: 'Alleen als je verbruik kunt verschuiven. In dit artikel rekenen wij met een bandbreedte van €150 tot €400 per jaar, afhankelijk van hoeveel van je verbruik je naar goedkope uren kunt verplaatsen. Zonder flexibel verbruik is het voordeel klein en bij veel verbruik tijdens avondpieken kun je duurder uit zijn.'
 - q: Wanneer is een warmtepomp financieel interessant?
@@ -182,7 +182,7 @@ Slimme thermostaatknoppen (Tado, Bosch, Netatmo) sturen elke radiator individuee
 
 ### 25. LED-verlichting in alle armaturen (€50-€150 totaal)
 
-Een gloeilamp of halogeenlamp verbruikt 40-60 watt, een LED-equivalent 6-8 watt. Voor een woning met 20 lampen die gemiddeld 4 uur per dag branden, bespaar je **€105-€140 per jaar**.
+Een gloeilamp of halogeenlamp verbruikt 40-60 watt, een LED-equivalent circa 7 watt. Reken het na met realistische aannames: 15 lampen die gemiddeld 2 uur per dag branden. Per lamp scheelt dat 33 tot 53 watt, dus 15 × 2 × 365 × 0,033 tot 0,053 kWh = **360 tot 580 kWh per jaar**, oftewel **€95-€150** bij €0,26/kWh. Branden er in jouw huis meer lampen of langer, dan schaalt het bedrag recht mee — maar de klassieke "20 lampen, 4 uur per dag" is voor de meeste woningen te ruim.
 
 ### 26. Slimme stekker voor monitoring (€15-€25 per stuk)
 
@@ -222,7 +222,7 @@ Inductie is 85-90% efficiënt; gas is 40-55% efficiënt. Een los inductieveld vo
 
 ### 35. Gebruik een slowcooker voor stoofpotjes (€40-€80)
 
-Een slowcooker gebruikt 70-150 watt gedurende 6-8 uur. Een oven voor hetzelfde gerecht: 1.800-2.500 watt voor 2 uur. Besparing per gebruik: circa €0,30. Bij twee keer per week: **€30 per jaar**.
+Een slowcooker gebruikt 70-150 watt gedurende 6-8 uur: reken op circa 0,7 kWh per gerecht. Een oven heeft een aansluitwaarde van 1.800-2.500 watt, maar het element schakelt na het voorwarmen aan en uit — over twee uur is de gemiddelde opname eerder rond 0,9 kW, dus circa 1,8 kWh. Het verschil is dan 1,1 kWh, ofwel **€0,29 per gerecht** bij €0,26/kWh. Bij twee keer per week: **circa €30 per jaar**. Reken je met de volle aansluitwaarde van de oven, dan kom je veel hoger uit — maar zo verbruikt een oven niet.
 
 ### 36. Koel voedsel af voor het in de koelkast gaat
 
@@ -266,7 +266,7 @@ Een platform als Home Assistant of Google Home centraliseert alle slimme apparat
 
 ### 45. EV-lader met dynamisch laden (indien relevant)
 
-Als je een elektrische auto hebt, is slim laden cruciaal. Laad 's nachts in plaats van tijdens de avondpiek. Let op wat er precies verschilt: de energiebelasting (€0,11085/kWh inclusief btw) is elk uur even hoog, dus alleen het marktdeel van de prijs beweegt. Een nachtprijs van €0,05-€0,08/kWh op de markt komt all-in uit op ongeveer €0,16-€0,19/kWh, tegenover circa €0,30/kWh overdag. Bij 15.000 km per jaar (ruwweg 3.000 kWh) is het verschil dus **€330-€420 per jaar**.
+Als je een elektrische auto hebt, is slim laden cruciaal. Laad 's nachts in plaats van tijdens de avondpiek. Let op wat er precies verschilt: alleen het marktdeel van de prijs beweegt. De energiebelasting (€0,11085/kWh inclusief btw) en de opslag van je leverancier (in onze modellen €0,044/kWh, een gelabelde aanname) zijn elk uur even hoog. Een marktprijs van €0,05-€0,08/kWh inclusief btw in de nacht komt all-in dus uit op **€0,205 tot €0,235/kWh**; wij rekenen voor gericht nachtladen met **€0,220/kWh**, tegenover de all-in €0,26/kWh die we voor een gemiddeld etmaal aanhouden. Het verschil is dan circa €0,04/kWh. Bij 15.000 km per jaar (ruwweg 3.000 kWh) komt dat uit op **circa €120 per jaar**. Dat is een stuk minder dan de bedragen die je elders ziet, en de reden is simpel: het grootste deel van je stroomprijs bestaat uit belasting en opslag die niet per uur verschillen.
 
 ### 46. Warmwaterpomp of circulatieleiding afschakelen
 
@@ -368,9 +368,9 @@ Oudere HR-ketels staan soms ingesteld op te hoge retourtemperaturen waardoor ze 
 
 Een thermostaat die op schema werkt (bijv. 7 dagen hetzelfde), stookt ook als je er niet bent. Een slimme thermostaat die aanwezigheid detecteert, niet. Verschil: **€50-€150 per jaar** bij gemiddeld 3 uur/dag afwezigheid.
 
-### 70. Zonneplan voor warm water via zonnepanelen
+### 70. Power-to-heat via je omvormer
 
-Sommige omvormers (SolarEdge, Growatt) kunnen overproductie van zonnepanelen direct omzetten naar warm water via een weerstandselement in de boiler. Gratis warm water op zonnige zomerdagen.
+Sommige omvormers (SolarEdge, Growatt) kunnen overproductie van zonnepanelen direct omzetten naar warm water via een weerstandselement in de boiler. Op zonnige zomerdagen maak je zo warm water van stroom die je anders voor de terugleververgoeding had weggegeven. Of jouw omvormer dit ondersteunt en welke extra hardware daarvoor nodig is, staat in de installatiehandleiding — vraag het na vóór de aanschaf.
 
 ---
 
@@ -446,17 +446,17 @@ Overproductie van zonnepanelen kun je inzetten via de boiler, EV of thuisbatteri
 
 Een [Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy) slaat overdag goedkope of zelf opgewekte stroom op en levert die 's avonds. Publieke prijzen: 5 kWh €3.550, 10 kWh €5.500 en Plus 15 kWh €9.400, inclusief btw maar exclusief installatie (sessy.nl, geraadpleegd 21-8-2026). In ons model levert de combinatie met een dynamisch contract vanaf 2027 **circa €300-€450 per jaar** op: ongeveer €240 aan extra zelfverbruik plus €95-€190 aan prijsarbitrage in het winterhalfjaar.
 
-### 86. Virtuele batterij via [Tibber](https://go.duurzaamthuislab.nl/tibber)
+### 86. Controleer of er een terugleverlimiet in je omvormer staat
 
-Tibber biedt via sommige partners een virtueel batterij-systeem waarbij je credits verdient bij teruglevering en inzet bij hoge prijzen. Geen hardware nodig.
+Bij een zware groep of een beperkte aansluiting stellen installateurs soms een exportlimiet in de omvormer in. Staat die te laag, dan kap je op zonnige dagen opbrengst weg zonder dat je het merkt. Kijk in de omvormer-app naar de productiecurve van een heldere zomerdag: zie je die dagen achtereen kaarsrecht afgetopt op precies hetzelfde vermogen, terwijl je piek onder je geïnstalleerde kWp blijft, dan is dat het signaal. Vraag de installateur de instelling na en laat hem toelichten waarom die er staat. Kosten: nul.
 
 ### 87. Zonnepanelen op oost-west oriëntatie voor betere spreiding
 
 Een oost-west opstelling levert 80-85% van de opbrengst van een perfect zuidopstelling, maar spreidt de productie beter over de dag. Dit verhoogt het zelfverbruikspercentage van 30% naar 40-45% zonder thuisbatterij.
 
-### 88. Micro-omvormers voor panelen met schaduw
+### 88. Vergelijk terugleververgoeding én terugleverkosten, niet één van de twee
 
-Bij gedeeltelijke schaduw werken panelen met micro-omvormers (Enphase) of power optimizers (SolarEdge) 10-25% beter. Meerprijs: €300-€600. Terugverdientijd: 2-4 jaar bij veel schaduw.
+Een hoge terugleververgoeding zegt niets zolang je de kosten aan de andere kant niet meeneemt. Meerdere leveranciers rekenen een aparte terugleverstaffel: hoe meer kWh je in een jaar teruglevert, hoe hoger het bedrag per kWh dat je daarvoor betaalt. Frank Energie doet dat sinds 1 juni 2025. Vraag dus per aanbieder om béide getallen en reken met het netto resultaat. Vanaf 1 januari 2027, als de saldering volledig stopt, is dit de post die bepaalt wat een teruggeleverde kilowattuur je nog oplevert — en dan is dit voor iedereen met panelen een van de zwaarste posten van het contract.
 
 ### 89. Deelnemen aan energiecoöperatie
 
@@ -494,7 +494,7 @@ Sommige energiebedrijven bieden hogere teruglevertarieven aan als je vraagt of a
 
 ### 96. Sluit een meerjarig vast contract als gasprijzen laag zijn
 
-Bij lage gasprijzen (onder €0,80/m3) kan een meerjarig vast contract verstandig zijn als bescherming tegen prijsstijgingen.
+Bij lage gasprijzen kan een meerjarig vast contract verstandig zijn als bescherming tegen prijsstijgingen. Kijk daarbij goed naar wélk getal je vergelijkt: het **leveringstarief** (de kale marktprijs die de leverancier je rekent, in onze modellen circa €0,30/m³) of de **all-in prijs** inclusief energiebelasting van €0,7268/m³ en btw, die in onze modellen op €1,10/m³ uitkomt. Een aanbieding van "€0,80 per kubieke meter" betekent iets heel anders naargelang welke van de twee bedoeld is — vraag het expliciet na voordat je vergelijkt.
 
 ### 97. Controleer je energierekening maandelijks op fouten
 

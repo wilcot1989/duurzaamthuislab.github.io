@@ -2,7 +2,7 @@
 title: Kierdichting, glaswol en tochtstrip in 2026
 date: 2026-05-25 08:00:00+02:00
 lastmod: 2026-08-21 08:00:00+02:00
-description: 'Kierdichting is de goedkoopste verduurzaming die er is: circa €95 aan materiaal tegenover €265-€350 per jaar in onze modelberekening voor een tochtige woning. Met materiaallijst, stappenplan en de fouten die je moet vermijden.'
+description: 'Kierdichting is de goedkoopste verduurzaming die er is: €96-€159 aan materiaal tegenover €265-€350 per jaar in onze modelberekening voor een tochtige woning. Met doorgerekende materiaallijst, stappenplan en de fouten die je moet vermijden.'
 categories:
 - isolatie
 tags:
@@ -23,7 +23,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel kan ik besparen met kierdichting?
-  a: 'Dat hangt volledig af van hoe tochtig je woning nu is. In onze modelberekening voor een tochtige woning uit de jaren 70-80 met 1.580 m³ gasverbruik komt een grondige kierdichtingsronde uit op 240 tot 320 m³ gas per jaar, oftewel circa €265 tot €350 bij €1,10/m³ — tegenover circa €95 aan materiaal. In een woning die al redelijk dicht is, valt de besparing veel lager uit. Meet het na met je eigen gasverbruik over twee stookseizoenen, gecorrigeerd voor graaddagen.'
+  a: 'Dat hangt volledig af van hoe tochtig je woning nu is. In onze modelberekening voor een tochtige woning uit de jaren 70-80 met 1.580 m³ gasverbruik komt een grondige kierdichtingsronde uit op 240 tot 320 m³ gas per jaar, oftewel circa €265 tot €350 bij €1,10/m³ — tegenover €96 tot €159 aan materiaal, doorgerekend in de materiaallijst in dit artikel. De terugverdientijd komt daarmee op ongeveer vier tot zeven maanden. In een woning die al redelijk dicht is, valt de besparing veel lager uit. Meet het na met je eigen gasverbruik over twee stookseizoenen, gecorrigeerd voor graaddagen.'
 - q: Hoe weet ik waar de kieren in mijn woning zitten?
   a: De grootste kieren bevinden zich onder en rondom deuren (voordeur, achterdeur, tussendeur), rondom raamkozijnen, bij doorvoeringen van leidingen en kabels, bij de overgang van muren naar vloeren, en bij ventilatieopeningen. Houd op een koude dag een aansteker of wierookstokje bij verdachte plekken — als je vlam of rookpluim beweegt, is er een lek.
 - q: Wat is het verschil tussen EPDM-strip en schuimstrip voor deuren?
@@ -36,20 +36,20 @@ faq:
   a: Elektrische stopcontacten en schakelkasten aan buitenmuren (koudluchtlekken), de overgang van plinten naar de vloer, doorvoeringen van stroom- en waterleidingen in buitenmuren, de kap van de cv-ketel-schoorsteen, en het deksel van het kruipluik.
 schema_type: Article
 ---
-De goedkoopste energiebesparende maatregel die bestaat, kost geen duizenden euro's maar ongeveer honderd: kieren dichten. En je kunt in een half uur zelf vaststellen of het bij jou iets oplevert — met een wierookstokje langs ramen, deuren en plinten. Staat de rook horizontaal bij de voordeur of beweegt hij bij de plint, dan stook je op dat moment naar buiten.
+De goedkoopste energiebesparende maatregel die bestaat, kost geen duizenden euro's maar ruwweg honderd tot honderdzestig: kieren dichten. En je kunt in een half uur zelf vaststellen of het bij jou iets oplevert — met een wierookstokje langs ramen, deuren en plinten. Staat de rook horizontaal bij de voordeur of beweegt hij bij de plint, dan stook je op dat moment naar buiten.
 
-In een tochtige woning is de rekensom vrijwel altijd gunstig: reken op €80-€120 aan materiaal en twee middagen werk, tegenover een besparing die in de meeste gevallen in de honderden euro's per jaar loopt. Dat is een terugverdientijd van maanden in plaats van jaren.
+In een tochtige woning is de rekensom vrijwel altijd gunstig: reken op €96 tot €159 aan materiaal — doorgerekend in de lijst verderop — en twee middagen werk, tegenover een besparing die in ons model op €265 tot €350 per jaar uitkomt. Dat is een terugverdientijd van ongeveer vier tot zeven maanden: minder dan één stookseizoen.
 
 In dit artikel staat stap voor stap hoe je het aanpakt, met een volledige materiaallijst en de fouten die je moet vermijden.
 
-*Dit artikel bevat geen affiliate links voor isolatieproducten.*
+*Disclosure: dit artikel bevat geen affiliate links en wij hebben met de genoemde producten en merken geen affiliate- of commissierelatie (stand augustus 2026).*
 
 ---
 
 
 > **Kort antwoord:** begin met een rooktest langs deuren, kozijnen, plinten, leidingdoorvoeren en stopcontacten aan buitenmuren. Dicht daarna in deze volgorde: deuren met EPDM en een borstelseal, kozijnen met acrylaatkit, doorvoeren met purschuim plus kit, en de vloer-muur-overgang achter de plint.
 >
-> Materiaalkosten voor de volledige ronde: circa €95. In onze modelberekening voor een tochtige woning uit de jaren 70-80 (1.580 m³ gas) levert dat 240 tot 320 m³ gas per jaar op, oftewel €265 tot €350 bij €1,10/m³. Voor een woning die al redelijk luchtdicht is, is de opbrengst een fractie daarvan — reken met je eigen gasverbruik, niet met dit voorbeeld.
+> Materiaalkosten voor de volledige ronde: €96 tot €159, doorgerekend verderop in dit artikel. In onze modelberekening voor een tochtige woning uit de jaren 70-80 (1.580 m³ gas) levert dat 240 tot 320 m³ gas per jaar op, oftewel €265 tot €350 bij €1,10/m³ — een terugverdientijd van ongeveer vier tot zeven maanden. Voor een woning die al redelijk luchtdicht is, is de opbrengst een fractie daarvan — reken met je eigen gasverbruik, niet met dit voorbeeld.
 
 ## Hoeveel warmte verliest je woning via kieren?
 
@@ -69,31 +69,33 @@ Kierdichting haalt daar niet het volledige bedrag uit — een woning moet blijve
 
 ## De vijf grootste bronnen van luchtlekkage
 
-### 1. Deuren (30-40% van totale lekkage)
+De percentages hieronder zijn **indicatieve, overlappende aandelen** uit bouwfysische vuistregels, geen opdeling die netjes op 100% uitkomt. Ze zijn bedoeld om de zoekvolgorde te bepalen: begin bij deuren en kozijnen, want daar zit vrijwel altijd het grootste deel. Welk aandeel bij jouw woning waar zit, komt alleen uit een rooktest of een blower-doortest.
+
+### 1. Deuren — doorgaans de grootste post
 
 De voordeur is de grootste crimineel. Een niet-gedichte voordeur heeft typisch 3-6 mm kier aan de zijkanten en een centimeter of meer onderaan. Bij wind van kracht 4-5 is dat een constante stroom koude lucht.
 
 Ook de achterdeur, tussendeur naar bijkeuken, en garagedeuren zijn vaak slecht gedicht.
 
-### 2. Raamkozijnen (20-30% van totale lekkage)
+### 2. Raamkozijnen — tweede in omvang
 
 Oude houten kozijnen krimpen en zwellen, waardoor de afsluiting achteruitgaat. Kit die 10+ jaar oud is scheurt en laat los. Veel bewoners denken dat hun ramen goed sluiten, maar de lekkage zit in het kozijn, niet in het raamkader zelf.
 
-### 3. Leidingdoorvoeringen (10-20% van totale lekkage)
+### 3. Leidingdoorvoeringen — klein oppervlak, groot effect
 
-Cv-leidingen, waterleidingen, electrische kabels en gasaansluiting die door buitenmuren of vloeren gaan, zijn vrijwel altijd slecht afgedicht. De openingen rondom zijn soms centimeters breed.
+Cv-leidingen, waterleidingen, elektrische kabels en gasaansluiting die door buitenmuren of vloeren gaan, zijn vrijwel altijd slecht afgedicht. De openingen rondom zijn soms centimeters breed.
 
-### 4. Vloer-muur overgang (5-15% van totale lekkage)
+### 4. Vloer-muur overgang — de vergeten doorlopende kier
 
 De overgang van de begane grondvloer naar de buitenmuur — vaak verborgen achter plinten — is een doorlopende kier bij veel oudere woningen. Koude lucht trekt hier omhoog uit de kruipruimte.
 
-### 5. Elektradozen en stopcontacten (5-10% van totale lekkage)
+### 5. Elektradozen en stopcontacten — de kleinste post
 
 Elektrische inbouwdozen in buitenmuren zijn open verbindingen met de spouwmuurholte of de buitenlucht. Op een koude dag kun je hier soms letterlijk koude lucht voelen.
 
 ---
 
-## Materialen en tools: de volledige boodschappenlijst voor €100
+## Materialen en tools: de volledige boodschappenlijst, doorgerekend
 
 Een complete materiaallijst voor een gemiddelde tussenwoning, met indicatieve winkelprijzen:
 
@@ -109,9 +111,24 @@ Een complete materiaallijst voor een gemiddelde tussenwoning, met indicatieve wi
 | Stopcontact-isolatie (zelfklevend schuim) | Inbouwdozen buitenmuur | €4-€7 | 1 pakket |
 | Radiatorfolie | Achter radiatoren buitenmuur | €8-€12 | 1 rol |
 | Kitpistool | Hulpgereedschap | €5-€15 | 1 stuk |
-| **Totaal** | | **€62-€103** | |
 
-Met dit materiaal kom je uit op €62-€103 afhankelijk van je keuzes en hoeveel deuren en ramen je woning heeft.
+Die stuksprijzen zeggen nog niets zolang je ze niet met de hoeveelheden vermenigvuldigt. Dat is precies waar de meeste "kierdichting voor €50"-lijstjes de fout in gaan. Dus hier de som:
+
+| Materiaal | Stuksprijs | Hoeveelheid | Regeltotaal |
+|---|---|---|---|
+| EPDM-tochtstrip (rol 6 m) | €8-€12 | 2 rollen | €16-€24 |
+| Borstelseal | €12-€18 | 1 meter | €12-€18 |
+| Zelfklevend schuimstrip (rol 5 m) | €5-€8 | 2 rollen | €10-€16 |
+| Acrylaatkit | €4-€6 | 4 tubes | €16-€24 |
+| Siliconenkit | €5-€7 | 1 tube | €5-€7 |
+| Purschuim | €8-€12 | 1 bus | €8-€12 |
+| Manchetten | €3-€6 | 4 stuks | €12-€24 |
+| Stopcontact-isolatie | €4-€7 | 1 pakket | €4-€7 |
+| Radiatorfolie | €8-€12 | 1 rol | €8-€12 |
+| Kitpistool | €5-€15 | 1 stuk | €5-€15 |
+| **Totaal** | | | **€96-€159** |
+
+Voor een gemiddelde tussenwoning kom je dus op **€96 tot €159**, en niet op de €50 tot €100 die je vaak leest. Heb je meer deuren, meer kozijnen of meer leidingdoorvoeringen, dan schalen de hoeveelheden en dus het bedrag mee. Hieronder rekenen wij met het midden van die band: **circa €130**.
 
 ---
 
@@ -245,7 +262,7 @@ Voor kierdichting rondom ramen en deuren heeft glaswol geen directe toepassing �
 - 12 stopcontacten buitenmuur: isolatieschuim achter dekplaat
 - Vloer-muur overgang begane grond (6 meter): kit na plint verwijderen
 
-**Materiaalkosten: circa €95**
+**Materiaalkosten voor precies deze lijst: €96 tot €159, in dit rekenvoorbeeld gerekend met circa €130** (zie de doorgerekende materiaaltabel hierboven)
 
 **Wat dat aan besparing oplevert (rekenvoorbeeld, aannames expliciet):**
 
@@ -302,7 +319,7 @@ Na goede kierdichting voel je geen tocht meer maar je moet de kamer nog steeds v
 
 Zet je alle verduurzamingsmaatregelen naast elkaar — zonnepanelen, thuisbatterij, warmtepomp, spouwmuurisolatie — dan heeft kierdichting met afstand de kortste terugverdientijd: maanden in plaats van jaren. Dat komt niet doordat de besparing zo groot is, maar doordat de investering zo klein is.
 
-Voor een woning die op tocht staat is een middag met €100 aan materialen daarom het logische startpunt. Niet zichtbaar en niet indrukwekkend, maar in verhouding tot de kosten het hoogste rendement dat er te halen valt.
+Voor een woning die op tocht staat zijn twee middagen met €96 tot €159 aan materialen daarom het logische startpunt: terugverdiend in ongeveer vier tot zeven maanden. Niet zichtbaar en niet indrukwekkend, maar in verhouding tot de kosten het hoogste rendement dat er te halen valt.
 
 Doe de rooktest, breng je lekken in kaart, koop de juiste materialen (EPDM, acrylaat, purschuim) en trek er twee middagen voor uit. Vergelijk daarna je gasverbruik over een volledig stookseizoen — gecorrigeerd voor graaddagen — om te zien wat het werkelijk heeft opgeleverd.
 
@@ -450,31 +467,31 @@ Als je overstapt van ongecontroleerde ventilatie (kieren) naar een mechanisch ve
 - Tochtstrips bij voordeur: €12
 - Radiatorfolie achter twee radiatoren: €10
 - Stopcontact-isolatie 6 stuks: €6
-- Verwachte besparing: €60-€100/jaar
+- Verwachte besparing: ruwweg een kwart tot een derde van het effect van de volledige aanpak, dus circa 60-105 m³ gas ofwel **€65-€115 per jaar** in ons model
 
 **Budget €50:**
 - Alles uit €25-scenario
 - Tochtstrip achterdeur en tussendeur: €10
 - Acrylaatkit twee kozijnen: €10
 - Kitpistool: €8
-- Verwachte besparing: €120-€180/jaar
+- Verwachte besparing: ruwweg de helft van het effect van de volledige aanpak, dus circa 120-160 m³ gas ofwel **€130-€175 per jaar** in ons model
 
-**Budget €100 (de volledige aanpak):**
+**Budget €130 (de volledige aanpak):**
 - Alle deuren volledig gedicht (EPDM + borstelseal)
-- Acht kozijnen gekitted
+- Acht kozijnen gekit
 - Vier leidingdoorvoeringen afgedicht
 - Twaalf stopcontacten geïsoleerd
 - Vloer-muur overgang begane grond
 - Verwachte besparing in ons model: €265-€350/jaar bij een tochtige woning
 
-**Budget €200:**
-- Alles uit €100-scenario
+**Budget €200 (met controlemeting):**
+- Alles uit het €130-scenario
 - Blower-door test (of thermografische camera huren): €60-€100
 - Bijwerking op basis van gevonden restlekken
 - Airtight tape voor resterende naden
 - Verwachte besparing: dezelfde €265-€350/jaar, maar met meer zekerheid dat je de lekken werkelijk gevonden hebt
 
-De incrementele besparing per extra €50 investering daalt naarmate de makkelijkste lekken al zijn gedicht. Ook bij €200 investering blijft de terugverdientijd in dit model onder één jaar — maar de winst van die laatste €100 zit in zekerheid, niet in extra kubieke meters gas.
+De incrementele besparing per extra vijftig euro daalt naarmate de makkelijkste lekken al zijn gedicht. Ook bij €200 investering blijft de terugverdientijd in dit model onder het jaar — maar de winst van die laatste €70 zit in zekerheid, niet in extra kubieke meters gas.
 
 ## Gerelateerde artikelen
 

@@ -122,7 +122,7 @@ Wat het oplevert, valt niet in één bedrag te vangen: het hangt af van je jaarv
 
 **De salderingsregeling stopt per 1 januari 2027 volledig**, ook voor zakelijke kleinverbruikers. Er is geen afbouw in stappen.
 
-Wat dat verschuift: onder saldering was het financieel om het even of je een kilowattuur direct verbruikte of teruglverde — beide werden tegen je leveringstarief verrekend. Na de stop krijg je voor teruglevering een terugleververgoeding die aanzienlijk lager ligt dan je leveringstarief, terwijl een zelf verbruikte kilowattuur nog steeds de volle inkoopprijs uitspaart.
+Wat dat verschuift: onder saldering was het financieel om het even of je een kilowattuur direct verbruikte of terugleverde — beide werden tegen je leveringstarief verrekend. Na de stop krijg je voor teruglevering een terugleververgoeding die aanzienlijk lager ligt dan je leveringstarief, terwijl een zelf verbruikte kilowattuur nog steeds de volle inkoopprijs uitspaart.
 
 Voor bedrijfsdaken is dat relatief gunstig nieuws: het verbruik valt daar grotendeels overdag, precies wanneer de panelen produceren. Het aandeel eigen verbruik ligt op een bedrijfsdak doorgaans hoger dan op een woning, en juist dat aandeel behoudt zijn waarde. De prioriteit verschuift daarmee van "zoveel mogelijk opwekken" naar **"zoveel mogelijk zelf verbruiken op het moment van opwek"**.
 
@@ -147,7 +147,7 @@ Aangenomen profiel: 12.000 kWh verbruik in de werkplaats en 5.000 kWh voor het k
 | Laadpaal opwaarderen voor de tweede bus | €3.200 | €1.280 | Melding binnen drie maanden na opdracht |
 | Geen batterij | — | — | Bij dit profiel weegt extra opwek zwaarder |
 
-Totale aangenomen investering: €12.700, met €5.080 aan aftrek. Wat dat netto waard is, hangt af van rechtsvorm en tarief — bij een tarief van 49,5 procent en met de mkb-winstvrijstelling in het achterhoofd ligt het effect ruim onder het aftrekbedrag zelf. Wat de casus vooral laat zien: **de volgorde bepaalt de uitkomst.** Eerst het contract en het verbruiksprofiel, dan pas de hardware — anders investeer je in opwek die je op het verkeerde moment terugleververt.
+Totale aangenomen investering: €12.700, met €5.080 aan aftrek. Wat dat netto waard is, hangt af van rechtsvorm en tarief — bij een tarief van 49,5 procent en met de mkb-winstvrijstelling in het achterhoofd ligt het effect ruim onder het aftrekbedrag zelf. Wat de casus vooral laat zien: **de volgorde bepaalt de uitkomst.** Eerst het contract en het verbruiksprofiel, dan pas de hardware — anders investeer je in opwek die je op het verkeerde moment teruglevert.
 
 ## Stappenplan
 

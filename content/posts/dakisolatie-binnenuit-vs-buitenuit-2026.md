@@ -26,7 +26,7 @@ faq:
 - q: 'Wat is beter: dakisolatie van binnenuit of buitenuit?'
   a: Buitenisolatie geeft thermisch betere resultaten (geen koudebruggen, behoud van dakvorm), maar is duurder en geschikt voor renovatie bij dakvervanging. Binnenisolatie is goedkoper en minder ingrijpend, maar vermindert het woonoppervlak licht en is gevoeliger voor vochtproblemen als het niet goed wordt uitgevoerd.
 - q: Wat kost dakisolatie van binnenuit per m²?
-  a: Dakisolatie van binnenuit kost €20-€60 per m², afhankelijk van het materiaal (glaswol, PUR, EPS) en de uitvoering (zelf doen of aannemer). Inclusief dampscherm en afwerking kom je al snel op €50-€90 per m² bij een aannemer.
+  a: 'Dat hangt vooral af van wie het doet. Doe je het zelf, dan zijn de materiaalkosten €15-€25 per m² (glaswol, kruisisolatie, damprem, tape). Laat je het door een aannemer uitvoeren inclusief damprem, luchtdichting en afwerking, dan is €50-€90 per m² de band waarmee wij in dit artikel consequent rekenen. Dat is dezelfde band die in de rekenvoorbeelden verderop terugkomt.'
 - q: Wat kost dakisolatie van buitenuit per m²?
   a: Dakisolatie van buitenuit (bij vervanging van het dak) kost €80-€200 per m² inclusief nieuwe dakbedekking. Alleen de isolatielaag toevoegen op een bestaand dak (PIR-platen op plat dak) kost €40-€80 per m² voor de platen, plus dakdekkerswerkzaamheden.
 - q: 'Welk materiaal isoleert het beste: PUR, glaswol of EPS?'
@@ -77,7 +77,7 @@ Binnenisolatie is de meest voorkomende keuze bij bestaande woningen, en om een g
 - **Verlies van ruimte.** Een isolatiedikte van 14-18 cm neemt woonruimte weg als je de zolder wilt gebruiken.
 - **Koudebruggen.** De sporren zelf isoleren niet — ze zijn een directe warmtebrug naar buiten. Dat vereist een extra isolatielaag dwars op de sporren (kruisisolatie), anders blijft de effectieve isolatiewaarde van het pakket achter bij wat het materiaal op papier belooft.
 - **Dampscherm verplicht.** Bij binnenisolatie moet je altijd een dampscherm aanbrengen om condensatie in de isolatielaag te voorkomen. Dat is technisch correct uitvoeren, niet triviaal.
-- **Luchtdichting is complex.** Alle aansluitingen (dakraam, goot, muurplaat) moeten luchtdicht worden afgewerkt — anders verlies je 20-40% van de berekende isolatiewaarde.
+- **Luchtdichting is complex.** Alle aansluitingen (dakraam, goot, muurplaat) moeten luchtdicht worden afgewerkt. Gebeurt dat niet, dan haal je de berekende isolatiewaarde niet — hoeveel je precies verliest, hangt af van hoeveel en hoe groot de naden zijn en is zonder luchtdichtheidsmeting niet te kwantificeren. Wij noemen daar bewust geen percentage bij.
 
 ---
 
@@ -120,7 +120,7 @@ PUR is het materiaal met de hoogste isolatiewaarde per centimeter. Het wordt ges
 - Als je de hoogste Rc-waarde wil in de minste centimeters
 - Voor platte daken als PIR-platen (standaard toepassing)
 
-**Nadeel PUR:** Niet ademend. Bij gespoten PUR is een dampscherm niet altijd nodig omdat het schuim zelf dampopen kan zijn, maar de uitvoering vereist precisie en certificering. Verkeerd aangebrachte PUR geeft vochtproblemen.
+**Nadeel PUR/PIR:** het dampgedrag verschilt sterk per product en dat is precies waar het misgaat. Geslotencellig PUR en PIR-platen zijn vrijwel dampdicht; van gespoten schuim bestaan ook opencellige varianten die juist wél damp doorlaten. Of er in jouw opbouw een dampscherm of een damprem nodig is, volgt dus uit de sd-waarde van het gebruikte product en uit de rest van de opbouw. Laat de uitvoerder die sd-waarde en de bijbehorende dampopbouw schriftelijk opgeven en ga niet uit van een vuistregel. Verkeerd aangebrachte PUR geeft vochtproblemen.
 
 ---
 
@@ -208,7 +208,7 @@ Onderstaande berekening is een model op basis van de richtprijzen uit de tabelle
 
 **Uitkomst van het model:**
 - Rc-waarde van dit pakket: circa 4,3 m²K/W, wat comfortabel boven de gebruikelijke ISDE-drempel voor de isolatiewaarde ligt (check de actuele eis op de maatregelpagina van rvo.nl)
-- Kosten binnenisolatie bij €50-€75 per m² inclusief dampscherm en afwerking: circa €3.250 tot €4.900
+- Kosten binnenisolatie bij €50-€90 per m² inclusief damprem en afwerking — de band die wij in dit artikel aanhouden, en die neerkomt op de €50-€75 uit de tabel plus €3-5 damprem plus afwerking: circa **€3.250 tot €5.850** voor 65 m²
 - Daar gaat de ISDE nog van af. Het bedrag per m² en het maximum staan op rvo.nl; vul je eigen 65 m² in de ISDE-rekentool in. Voer je binnen 24 maanden een tweede maatregel uit, dan verdubbelt het isolatiebedrag.
 - Zou hetzelfde dak van buitenuit worden geïsoleerd, dan komt daar de volledige dakvervanging bij. Op basis van de bandbreedtes voor buitenisolatie inclusief nieuwe dakbedekking loopt de investering dan naar een orde van grootte die twee tot drie keer hoger uitkomt.
 
@@ -226,7 +226,7 @@ Een niet-luchtdicht afgewerkt dampscherm kost een aanzienlijk deel van de bereke
 
 ### 2. Ventilatie aanpassen
 
-Betere isolatie maakt je huis luchtdichter. Dat is goed voor de warmte, maar zonder aanpassing van de ventilatie stijgt de luchtvochtigheid. Controleer of je ventilatiesysteem voldoende capaciteit heeft na de isolatiewerken.
+Betere isolatie maakt je huis luchtdichter, en daarmee stijgt de luchtvochtigheid als je de ventilatie niet meeneemt. Dit is geen bijzaak maar een randvoorwaarde; wij werken het verderop uit in de paragraaf *Dakisolatie en ventilatie*.
 
 ### 3. Dakventilatielaag behouden bij schuine daken
 
@@ -301,7 +301,7 @@ Een dampscherm aan de warme zijde (binnenkant, warm) vertraagt of stopt dit voch
 
 ### Damprem versus dampscherm
 
-- **Dampscherm (sd > 100 m):** Vrijwel ondoorlatend. Gebruik dit in koude daken (buitentemperatuur < 0°C in winter) of bij PUR-isolatie zonder ventilatie-laag.
+- **Dampscherm (sd > 100 m):** vrijwel ondoorlatend. Van toepassing bij een **koud dak** — dat is een opbouw met een geventileerde luchtlaag boven de isolatie, niet een dak dat 's winters koud is — of bij een dampdichte isolatielaag zonder ventilatielaag erboven.
 - **Damprem (sd 0,5-10 m):** Variabele weerstand — laat in de zomer iets meer vocht door (uitdrogen) maar blokkeert in de winter. Geschikt voor de meeste Nederlandse toepassingen bij dakisolatie binnenuit.
 
 De meeste installateurs gebruiken een damprem met een sd-waarde van 2-10 m. Dat is in de meeste situaties correct — maar vraag er expliciet naar als jouw installateur er niets over zegt.
@@ -332,7 +332,7 @@ Dakisolatie van binnenuit met glaswolrollen is technisch haalbaar voor een ervar
 - Tape en bevestigingselementen ≈ €1-€2/m²
 - Totaal materiaal ≈ **€15-€25/m²**
 
-Bij een kap van 50 m² zijn de materiaalkosten dan €750-€1.250. Vergelijk dat met €50-€75/m² bij een aannemer (€2.500-€3.750) en je bespaart €1.500-€2.500 — maar investeer dan wel 30-50 uur eigen tijd.
+Bij een kap van 50 m² zijn de materiaalkosten dan €750-€1.250. Vergelijk dat met de €50-€90/m² die een aannemer rekent (€2.500-€4.500) en je bespaart €1.250-€3.750 — maar investeer dan wel 30-50 uur eigen tijd, en neem het risico dat je de luchtdichting minder goed krijgt dan een vakman. Let ook op de subsidiekant: de ISDE vraagt een factuur van een uitvoerend bedrijf, dus zelf doen betekent doorgaans geen subsidie.
 
 ---
 
@@ -360,11 +360,11 @@ Dakisolatie is zelden een losstaande maatregel. De grootste winst behaal je als 
 
 ### Dakisolatie + vloerisolatie
 
-Een oud rijtjeshuis met een ongeïsoleerde kap én een kruipruimte verliest warmte via beide kanten. Dakisolatie + vloerisolatie samen geeft een energiebesparing van 30-45% op je verwarmingsbehoefte.
+Een oud rijtjeshuis met een ongeïsoleerde kap én een kruipruimte verliest warmte via beide kanten. Dakisolatie plus vloerisolatie komt in modelberekeningen samen op ruwweg 30-45% van de verwarmingsbehoefte. Let op dat dit géén optelsom is van de losse percentages: de tweede maatregel werkt op de warmtevraag die na de eerste nog resteert, dus het gecombineerde effect is altijd lager dan de som.
 
 ### Dakisolatie + HR++ beglazing
 
-Dubbele beglazing van vóór 2005 presteert doorgaans slechter dan moderne HR++. Als je ook oude ramen hebt, combineer dan de isolatiewerkzaamheden. De besparing op de energierekening is groter dan de som der delen, omdat je de koudebruggen (raamkozijnen, dakrand) aanpakt als geheel.
+Dubbele beglazing van vóór 2005 presteert doorgaans slechter dan moderne HR++. Als je ook oude ramen hebt, combineer dan de isolatiewerkzaamheden — dat scheelt steigerwerk en stelt je in staat de aansluiting tussen dakrand en kozijn in één keer goed te maken. Reken de besparingen wel **sub-additief** op: als je twee maatregelen bij elkaar optelt, valt het totaal lager uit dan de som van de losse percentages. Elke maatregel verlaagt namelijk de warmtevraag waar de volgende maatregel nog een deel van kan wegnemen. Praktisch gezegd: dak 25% plus glas 15% is geen 40%, maar eerder ruim 35%. Een besparing die "groter is dan de som der delen" bestaat bij isolatie niet.
 
 ### Dakisolatie + warmtepomp
 
@@ -438,7 +438,9 @@ Aannames: gasprijs all-in **€1,10/m³** (marktprijs ±€0,30 incl. btw + ener
 
 ### Terugverdientijd
 
-Bij een project van €4.000 inclusief 21% btw (aannemer, 50 m², glaswol plus kruisisolatie) en een berekende besparing van €440 per jaar komt de terugverdientijd vóór subsidie op **circa 9 jaar**. Bij €660 besparing is dat **circa 6 jaar**. De ISDE verkort dat; met hoeveel volgt uit het bedrag per m² dat op dat moment geldt en of je een tweede maatregel binnen 24 maanden meeneemt.
+Neem een rijtjeswoning met een kap van 50 m². Bij €80 per m² inclusief 21% btw (aannemer, glaswol plus kruisisolatie) is dat een project van **€4.000** — netjes binnen de band van €50-€90 per m² die wij hierboven aanhouden. De besparing hoort dan bij de eerste regel van de tabel: **300-450 m³ gas, ofwel €330 tot €495 per jaar** bij €1,10/m³.
+
+Terugverdientijd vóór subsidie: €4.000 ÷ €495 = **ruim 8 jaar** in het gunstige geval, en €4.000 ÷ €330 = **ruim 12 jaar** in het ongunstige. Reken dus op **8 tot 12 jaar**, en op de bovenkant van die band als er al gedeeltelijke isolatie aanwezig is. De ISDE verkort dat; met hoeveel volgt uit het bedrag per m² dat op dat moment geldt en of je een tweede maatregel binnen 24 maanden meeneemt.
 
 Daarmee zit dakisolatie in de middengroep: sneller dan isolerend glas, duidelijk langzamer dan spouwmuurisolatie bij een ongeïsoleerde spouw. Wie beide kan doen, doet de spouw eerst.
 
@@ -462,19 +464,20 @@ Een luchtdicht aangebracht dampscherm reduceert ook tochtgevoelens. Koude lucht 
 
 ---
 
-## Samenvatting: kernpunten dakisolatie 2026
+## Kernpunten op één rij
+
+De keuze binnenuit versus buitenuit staat in de beslistabel hierboven; hieronder de overige punten die je bij een offerte nodig hebt.
 
 | Vraag | Antwoord |
 |-------|---------|
-| Binnenuit of buitenuit? | Binnenuit als dak goed is; buitenuit bij dakrenovatie |
 | Beste materiaal hellend dak | Glaswol (kosteneffectief) of PUR (dunste laag) |
 | Beste materiaal plat dak | PIR-platen (standaard bij dakrenovatie) |
 | Isolatiewaarde-eis | Bbl-eis bij nieuwbouw; ISDE stelt een eigen Rd-eis per maatregel (rvo.nl) |
 | Subsidie beschikbaar? | Ja, ISDE: vast bedrag per m², aanvragen ná de klus (bedrag op rvo.nl) |
 | Btw | 21% — geen nultarief op isolatie |
 | Zelf doen? | Glaswol ja; PUR nee; plat dak nee |
-| Dampscherm nodig? | Ja, altijd bij glaswol binnenuit |
-| Gemiddelde terugverdientijd | 4-8 jaar na subsidie |
+| Dampscherm nodig? | Bij glaswol binnenuit altijd een damprem of dampscherm; de benodigde sd-waarde volgt uit de opbouw |
+| Terugverdientijd in ons model | 8-12 jaar vóór subsidie voor een rijtjeswoning; korter zodra de ISDE eraf gaat |
 
 Bij een ongeïsoleerd of slecht geïsoleerd dak is dakisolatie een van de maatregelen die zich het beste laten doorrekenen: de besparing volgt uit oppervlak en isolatiewaarde, niet uit aannames over gedrag. Isoleer eerst de schil, bepaal daarna het vermogen van een eventuele warmtepomp — in die volgorde is de warmtepomp goedkoper.
 

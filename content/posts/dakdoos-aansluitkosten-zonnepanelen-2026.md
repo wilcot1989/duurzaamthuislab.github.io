@@ -41,7 +41,7 @@ faq:
   a: 'Het registreren van teruglevering zonder fysieke aanpassing gaat snel. Een verzwaring vraagt planning en menskracht en duurt aanzienlijk langer, met uitschieters in drukke of congestiegevoelige regio''s. Vraag bij de aanvraag om een indicatie van de doorlooptijd en houd daar in je planning rekening mee.'
 schema_type: Article
 ---
-Een zonnepaneel-offerte van €8.400 die uiteindelijk €10.200 kost, is geen uitzondering. Het verschil zit vrijwel altijd in dezelfde posten: een dakdoorvoer, kabelwerk binnenshuis en soms een aanpassing aan de aansluiting die de netbeheerder in rekening brengt. Geen van die posten is bijzonder — ze staan alleen zelden in de hoofdofferte.
+Een zonnepaneel-offerte van €8.400 die uiteindelijk €9.100 kost, is geen uitzondering. Dat verschil van enkele honderden euro's zit vrijwel altijd in dezelfde posten: een dakdoorvoer, kabelwerk binnenshuis en de registratie bij de netbeheerder. Geen van die posten is bijzonder — ze staan alleen zelden in de hoofdofferte. Eén post kan het bedrag wél veel verder laten oplopen, en dat is een verzwaring van je aansluiting; die komt van de netbeheerder en niet van de installateur, en juist daar zit de grootste spreiding.
 
 Hieronder zetten wij op een rij welke kosten er naast de panelen en de omvormer bij komen, waar die vandaan komen en hoe je ze vóór het tekenen boven water krijgt.
 
@@ -177,7 +177,7 @@ Gebruik deze checklist bij elk offertegesprek.
 - [ ] Is de dakdoorvoer inbegrepen, en wie is aansprakelijk bij lekkage?
 - [ ] Is het binnenwerk inbegrepen (kabelgoot, schakelaar, aarding)?
 - [ ] Is de registratie bij de netbeheerder inbegrepen?
-- [ ] Controleer je vooraf of mijn aansluiting voldoende capaciteit heeft?
+- [ ] Controleer je vooraf of de aansluiting voldoende capaciteit heeft?
 - [ ] Wat als de netbeheerder een verzwaring vereist — wie regelt dat en wie betaalt?
 - [ ] Is de omvormerbevestiging inbegrepen, ook als die niet naast de meterkast zit?
 

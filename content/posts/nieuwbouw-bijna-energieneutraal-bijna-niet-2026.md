@@ -17,7 +17,7 @@ keywords:
 - beng eisen 2026
 - nieuwbouw zonnepanelen verplicht
 - nul op de meter nieuwbouw
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
@@ -35,7 +35,7 @@ faq:
 schema_type: Article
 last_updated: '2026-08-21'
 ---
-*Dit artikel bevat geen affiliate links en geen commerciële verwijzingen. Wij baseren ons op publieke informatie van RVO over de BENG-eisen, op de energiebelastingtarieven 2026 en op narekenbare modelberekeningen met expliciete aannames.*
+*Disclosure: dit artikel bevat één affiliate link, naar de HomeWizard P1-meter. Koop je via die link, dan ontvangen wij een commissie; jij betaalt daardoor niet meer. Op onze beoordeling verandert dat niets — wij baseren ons op publieke informatie van RVO over de BENG-eisen, op de energiebelastingtarieven 2026 en op narekenbare modelberekeningen met expliciete aannames. Alle overige verwijzingen in dit artikel zijn gewone links waaraan wij niets verdienen.*
 
 Een nieuwbouwwoning met een goede BENG-score kan een hogere energierekening hebben dan een goed gerenoveerde woning uit de jaren zeventig. Dat klinkt als een fout in de norm, maar het is de norm precies zoals hij bedoeld is: BENG gaat over het gebouw, niet over jouw rekening.
 
@@ -89,7 +89,7 @@ Waar je op moet letten bij de inregeling staat in [vloerverwarming combineren me
 2. **"Verplichte zonnepanelen zijn het optimale aantal."** Het is het aantal dat de berekening laat kloppen. Vraag hoeveel er nog bij kan.
 3. **"Een warmtepomp betekent automatisch laag verbruik."** Het toestel bepaalt de bovengrens, de inregeling bepaalt wat je ervan haalt.
 4. **"De ventilatie staat goed omdat hij nieuw is."** Balansventilatie met warmteterugwinning verliest zijn winst als de zomerbypass niet werkt of de filters dicht zitten. Zie [ventilatie met warmteterugwinning](/posts/ventilatie-warmteterugwinning-wtw-2026/).
-5. **"Ik zie het wel op de jaarafrekening."** Dan zie je één getal, twaalf maanden te laat. Een P1-meter op de slimme meter geeft je hetzelfde inzicht per kwartier; de HomeWizard P1-meter staat op de eigen webshop voor €24,95 (prijspeil augustus 2026, homewizard.com).
+5. **"Ik zie het wel op de jaarafrekening."** Dan zie je één getal, twaalf maanden te laat. Een P1-meter op de slimme meter geeft je hetzelfde inzicht per kwartier; de [HomeWizard P1-meter](https://go.duurzaamthuislab.nl/homewizard) staat op de eigen webshop voor €24,95 (prijspeil augustus 2026, homewizard.com).
 
 ## Wanneer BENG-nieuwbouw wél doet wat de brochure belooft
 
@@ -123,4 +123,4 @@ Vaak wel, maar zelden voor het bedrag dat in advertenties staat, en nooit zonder
 
 ---
 
-**Bronnen:** [RVO — BENG-eisen](https://www.rvo.nl/onderwerpen/wetten-en-regels-gebouwen/beng) voor de drie indicatoren en de ingangsdatum van 1 januari 2021 (geraadpleegd 21 augustus 2026; geen aanscherping voor 2025/2026 vermeld). Grenswaarden per gebouwfunctie: [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/BWBR0041297/). Prijs P1-meter: [homewizard.com](https://www.homewizard.com/), prijspeil augustus 2026.
+**Bronnen:** [RVO — BENG-eisen](https://www.rvo.nl/onderwerpen/wetten-en-regels-gebouwen/beng) voor de drie indicatoren en de ingangsdatum van 1 januari 2021 (geraadpleegd 21 augustus 2026; geen aanscherping voor 2025/2026 vermeld). Grenswaarden per gebouwfunctie: [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/BWBR0041297/). Prijs P1-meter: [HomeWizard](https://go.duurzaamthuislab.nl/homewizard), prijspeil augustus 2026 — dit is een affiliate link, zie de disclosure bovenaan.

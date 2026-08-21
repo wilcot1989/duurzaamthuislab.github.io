@@ -46,6 +46,16 @@ Zoek je op "zonnepanelen zzp aftrekbaar", dan kom je twee soorten antwoorden teg
 
 Dit artikel zet die drie uit elkaar, met de bedragen zoals de Belastingdienst en RVO ze publiceren (opgehaald 21 augustus 2026). Het is geen belastingadvies: de vermogensetikettering is bij aanschaf definitief en fout kiezen is duur, dus laat de keuze eenmalig door een fiscalist toetsen.
 
+---
+
+> **Kort antwoord:** wat bepaalt of je zonnepanelen zakelijk kunnen, is je **zakelijke stroomverbruik**, niet het vloeroppervlak van je werkkamer. Onder 10 procent zakelijk gebruik zijn de panelen verplicht privévermogen en valt er niets af te schrijven; vanaf 10 procent is het keuzevermogen en mag je ze (of een deel) op de balans zetten.
+>
+> Dat is een andere vraag dan of je **werkruimte** fiscaal zelfstandig is — die eis (eigen opgang, eigen voorzieningen) haalt een zolder- of logeerkamer vrijwel nooit, en daar struikelt de meerderheid van de zzp'ers met een werkkamer.
+>
+> Zet je de panelen op de balans, dan is de **KIA** de regeling die er doorgaans op van toepassing is. De EIA is in 2026 40 procent maar geldt alleen voor bedrijfsmiddelen op de RVO-Energielijst, en standaard zonnepanelen op een woning staan daar niet op. Een **btw-teruggaveroute bestaat niet meer**: sinds 1 januari 2023 geldt op zonnepanelen het nultarief, dus er zit geen btw in de rekening die je terug zou kunnen vragen.
+>
+> Onderbouw je zakelijke percentage met een tussenmeter of een P1-uitlezing, niet met een schatting achteraf. En laat de etikettering vóór de aanschaf eenmalig door een fiscalist toetsen: die keuze is achteraf niet meer te draaien.
+
 ## Vraag 1: horen de panelen bij de onderneming?
 
 Dit is de kern, en hij gaat níet over vierkante meters. Bij aanschaf van een bedrijfsmiddel bepaal je de **vermogensetikettering**: privévermogen, ondernemingsvermogen of keuzevermogen. De hoofdlijn die in de fiscale praktijk wordt gehanteerd voor zonnepanelen op een woning:

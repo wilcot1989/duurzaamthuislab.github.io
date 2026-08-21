@@ -27,11 +27,11 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is goedkoper: een elektrische boiler of een doorstroomgeiser?'
-  a: 'In gebruik is een doorstroomgeiser iets goedkoper dan een elektrische weerstandsboiler, omdat je alleen water verwarmt dat je daadwerkelijk gebruikt; een boiler houdt de hele dag 150-200 liter warm. In de modelberekening in dit artikel scheelt dat ongeveer €90 per jaar. Het echte verschil zit elders: een warmtepompboiler komt in datzelfde model op circa €390 per jaar voor een gezin van vier, tegen circa €1.090 voor een elektrische boiler.'
+  a: 'In gebruik is een doorstroomgeiser goedkoper dan een elektrische weerstandsboiler, omdat je alleen water verwarmt dat je daadwerkelijk gebruikt; een boiler houdt de hele dag 200 liter warm. In de modelberekening in dit artikel scheelt dat vatverlies ongeveer €140 per jaar. Het echte verschil zit elders: een warmtepompboiler komt in datzelfde model op circa €390 per jaar voor een gezin van vier, tegen circa €1.090 voor een elektrische boiler.'
 - q: Hoeveel kW heeft een elektrische doorstroomgeiser nodig?
-  a: Een doorstroomgeiser voor douche en keuken verbruikt 6 tot 12 kW per punt. Voor een normaal douchedebiet (8 liter/minuut bij 38°C) heb je bij 15°C koud water circa 9 kW nodig. De meeste woningen hebben een 3×25A aansluiting (maximaal 17,3 kW). Dat is krap. Laat een installateur de groepenkast en het aansluitvermogen narekenen voordat je een doorstroomgeiser plaatst.
+  a: Meer dan de meeste mensen denken. Een douchedebiet van 8 liter/minuut op 38°C vraagt bij 15°C koud water 12,8 kW (8 liter/min × 4,186 kJ/kg·K × 23 K), en bij 10°C aanvoer in de winter zelfs circa 15,6 kW. Een geiser van 12 kW haalt bij die 23 K dus ongeveer 7,5 liter per minuut — een zuinige straal. De meeste woningen hebben een 3×25A aansluiting (maximaal 17,3 kW). Dat is krap. Laat een installateur de groepenkast en het aansluitvermogen narekenen voordat je een doorstroomgeiser plaatst.
 - q: Wat is een warmtepompboiler en hoe werkt die?
-  a: 'Een warmtepompboiler (ook: heat pump water heater) verwarmt water met dezelfde technologie als een warmtepomp: het onttrekt warmte aan de omgevingslucht en brengt die over op het water. COP van 2,5 tot 4,0 afhankelijk van omgevingstemperatuur. Vereist ruimte: minimaal 10-15 m³ omgevingsvolume (garage, kelder, bijkeuken). Koelt de ruimte lichtjes af terwijl het water verwarmt.'
+  a: 'Een warmtepompboiler (ook: heat pump water heater) verwarmt water met dezelfde technologie als een lucht-water warmtepomp: het onttrekt warmte aan de omgevingslucht en brengt die over op het water. COP van 2,5 tot 4,0 afhankelijk van omgevingstemperatuur. Vereist ruimte: 10 tot 20 m³ omgevingsvolume afhankelijk van het model — de exacte eis staat in het productblad (garage, kelder, bijkeuken). Koelt de ruimte lichtjes af terwijl het water verwarmt.'
 - q: Kan ik een zonneboiler combineren met een warmtepomp?
   a: 'Ja. Een zonneboiler verwarmt tapwater via zonnecollectoren op het dak. Bij een all-electric woning met warmtepomp is een zonneboiler een logische aanvulling: de zonnecollectoren verwarmen tapwater direct van de zon, de warmtepomp neemt de verwarmingstaak over. Let op: een warmtepomp-combiboiler (tapwater + ruimteverwarming) is vaak efficiënter dan twee aparte systemen.'
 - q: Is er subsidie voor een warmtepompboiler?
@@ -41,7 +41,7 @@ faq:
 - q: Hoeveel liter boiler heb ik nodig voor een gezin van 4?
   a: Voor een gezin van 4 personen adviseren wij minimaal 150 liter, liefst 200 liter. Reken op circa 40-50 liter warm water per persoon per dag voor douchen, koken en afwassen. Een 150-liter boiler kan bij herlaadtijd van 2 tot 3 uur een gezin van 4 bedienen. Een warmtepompboiler heeft door de langere verwarmingstijd (4-8 uur bij lage omgevingstemperatuur) idealiter 200-250 liter inhoud.
 - q: Wat is de jaarlijkse kostenpost van warm water voor een gezin van 4?
-  a: 'Modelberekening met aannames: 200 liter warm water per dag voor een gezin van vier, van 12°C naar 55°C, is circa 4.200 kWh warmte per jaar. Bij een all-in stroomprijs van €0,26/kWh (gelabelde aanname) kost dat met een elektrische weerstandsboiler circa €1.090 per jaar, met een doorstroomgeiser circa €1.000 (geen standby-verlies) en met een warmtepompboiler bij COP 2,8 circa €390.'
+  a: 'Modelberekening met aannames: 200 liter warm water per dag voor een gezin van vier, van 12°C naar 55°C, is circa 3.650 kWh nuttige warmte per jaar. Bij een opslagvat komt daar circa 550 kWh vatverlies bij (1,5 kWh per dag), samen 4.200 kWh. Bij een all-in stroomprijs van €0,26/kWh (gelabelde aanname) kost dat met een elektrische weerstandsboiler circa €1.090 per jaar, met een doorstroomgeiser circa €950 (geen vatverlies) en met een warmtepompboiler bij COP 2,8 circa €390. Reken je met een kleiner tapprofiel van circa 100 liter per dag, dan halveert de warmtevraag naar circa 1.800 kWh — dat is het profiel dat wij in onze warmtepompboiler-vergelijking gebruiken.'
 - q: 'Kan ik een warmtepompboiler buiten plaatsen?'
   a: 'Technisch is het mogelijk als de unit voor buitengebruik is gecertificeerd. Maar buitenopstellingen zijn zeldzaam en hebben nadelen: de omgevingstemperatuur is in de winter laag, waardoor het rendement sterk daalt, er zijn beschermingsmaatregelen nodig en de unit is kwetsbaarder voor weersinvloeden. Standaard is een opstelling binnen.'
 - q: 'Mijn waterdruk is laag — welke optie past bij mij?'
@@ -54,9 +54,6 @@ products:
 - name: Daikin warmtepompboiler (tapwater)
   url: https://go.duurzaamthuislab.nl/daikin
   price: op aanvraag
-- name: Zonneboiler vs. warmtepompboiler vergeleken
-  url: /posts/zonneboiler-vs-warmtepompboiler-2026
-  price: zie artikel
 schema_type: Article
 ---
 Een veelvoorkomende misser bij het afsluiten van de gasaansluiting: de warmtepomp verwarmt het huis prima, maar de cv-ketel die ook het tapwater maakte is weg. Wat volgt is dan een noodoplossing, bijvoorbeeld een goedkope elektrische doorstroomgeiser op één bestaande groep. Het gevolg is voorspelbaar: de zekering slaat eruit zodra er tegelijk gedoucht en gekookt wordt.
@@ -70,9 +67,9 @@ Dit artikel loopt alle opties langs, maakt de rekening voor een gezin van vier e
 ---
 
 
-> **Kort antwoord:** heb je een technische ruimte, garage of kelder van ruwweg 15 m³ of meer, dan is een warmtepompboiler de goedkoopste route: in onze modelberekening circa €390 per jaar tegen circa €1.090 voor een elektrische weerstandsboiler bij hetzelfde verbruik.
+> **Kort antwoord:** heb je een technische ruimte, garage of kelder met genoeg luchtvolume (afhankelijk van het model 10 tot 20 m³, zie het productblad), dan is een warmtepompboiler de goedkoopste route: in onze modelberekening circa €390 per jaar tegen circa €1.090 voor een elektrische weerstandsboiler bij dezelfde warmtevraag van 3.650 kWh.
 >
-> Is er geen geschikte ruimte, dan is een elektrische boiler de praktische keuze. Een doorstroomgeiser is aantrekkelijk qua aanschaf, maar vraagt 9 tot 12 kW aansluitvermogen — bij een 3×25A-aansluiting is dat het eerste waar het misgaat. Laat dus altijd eerst je groepenkast en aansluitwaarde narekenen.
+> Is er geen geschikte ruimte, dan is een elektrische boiler de praktische keuze. Een doorstroomgeiser is aantrekkelijk qua aanschaf, maar een volwaardige douchestraal van 8 liter per minuut vraagt 12,8 kW — bij een 3×25A-aansluiting (17,3 kW) is dat het eerste waar het misgaat. Laat dus altijd eerst je groepenkast en aansluitwaarde narekenen.
 
 ## Waarom tapwater een apart probleem is
 
@@ -91,7 +88,7 @@ Veel mensen denken dat een lucht-water warmtepomp ook tapwater maakt. Dat klopt,
 
 De eenvoudigste oplossing. Een opslagboiler van 80 tot 200 liter met een elektrisch verwarmingselement (2 tot 3 kW). Goedkoop om te kopen (€300 tot €600), eenvoudig te installeren, nauwelijks onderhoud.
 
-**Hoe het werkt:** het water in de boiler wordt opgewarmd tot 60-65°C en gehouden op temperatuur totdat je het nodig hebt. Standby-verlies: circa 1 tot 2 kWh per dag door warmteverlies door de mantel.
+**Hoe het werkt:** het water in de boiler wordt opgewarmd tot 60-65°C en gehouden op temperatuur totdat je het nodig hebt. Vatverlies: circa 1 tot 2 kWh per dag door warmteverlies door de mantel; in onze modelberekening rekenen we met 1,5 kWh per dag, ofwel circa 550 kWh per jaar.
 
 **Kosten per jaar (gezin van 4):** circa €1.090 in de modelberekening onderaan dit artikel, afhankelijk van gebruik en de isolatiekwaliteit van de boiler.
 
@@ -112,24 +109,24 @@ De eenvoudigste oplossing. Een opslagboiler van 80 tot 200 liter met een elektri
 
 ### Optie 2: Elektrische doorstroomgeiser
 
-Een doorstroomgeiser verwarmt water op het moment dat je de kraan opendraait. Geen opslag, geen standby-verlies. Meer flexibel dan een boiler.
+Een doorstroomgeiser verwarmt water op het moment dat je de kraan opendraait. Geen opslag, dus ook geen vatverlies. Meer flexibel dan een boiler.
 
-**Hoe het werkt:** water stroomt door een verwarmingselement van 6 tot 12 kW. De verwarmingscapaciteit bepaalt het debiet bij de gewenste uitlooptemperatuur. Bij koud water (10°C) in de winter heb je meer vermogen nodig dan in de zomer (15°C aanvoer).
+**Hoe het werkt:** water stroomt door een verwarmingselement van 6 tot 12 kW. De verwarmingscapaciteit bepaalt het debiet bij de gewenste uitlooptemperatuur. Reken zelf mee: liters per minuut × 4,186 × temperatuurstijging ÷ 60 = benodigd kilowatt. Voor 8 liter per minuut van 15°C naar 38°C is dat 12,8 kW; met 10°C leidingwater in de winter loopt dat op naar 15,6 kW. Omgekeerd: een geiser van 12 kW levert bij die 23 K stijging ongeveer 7,5 liter per minuut.
 
 **Typen:**
 - *Enkelvoudig (1 tappunt)*: voor wasbak of keuken, 3,5 tot 6 kW
 - *Hydraulisch geregeld (meerdere tappunten)*: 10 tot 12 kW, debietsensor regelt de temperatuur automatisch
 - *Elektronisch geregeld*: nauwkeurigste temperatuurregeling, 6 tot 12 kW
 
-**Kosten per jaar (gezin van 4):** circa €1.000 in dezelfde modelberekening — iets lager dan een boiler doordat er geen standby-verlies is.
+**Kosten per jaar (gezin van 4):** circa €950 in dezelfde modelberekening — circa €140 lager dan een boiler doordat er geen vatverlies is.
 
 **Voordelen:**
 - Geen wachttijd op heet water (direct)
 - Compact (geen opslagtank)
-- Lager standby-verlies dan boiler
+- Geen vatverlies zoals bij een boiler
 
 **Nadelen:**
-- Hoog aansluitvermogen nodig: 9 tot 12 kW vraagt een stevige groep (40A of meer)
+- Hoog aansluitvermogen nodig: een douchestraal van 8 liter per minuut vraagt 12,8 kW en dus een stevige groep (40A of meer)
 - Niet geschikt bij zwakke elektriciteitsaansluiting
 - Temperatuurschommelingen bij wisselend debiet
 - Één tappunt tegelijk bij lagere vermogens
@@ -140,7 +137,7 @@ Een doorstroomgeiser verwarmt water op het moment dat je de kraan opendraait. Ge
 
 ### Optie 3: Warmtepompboiler
 
-Dit is de meest efficiënte elektrische optie voor tapwater. Een warmtepompboiler combineert een kleine luchtluchtwarmtepomp met een opslagtank van 150 tot 300 liter.
+Dit is de meest efficiënte elektrische optie voor tapwater. Een warmtepompboiler combineert een kleine lucht-water warmtepomp met een opslagtank van 150 tot 300 liter.
 
 **Hoe het werkt:** de warmtepomp onttrekt warmte aan de omgevingslucht (garage, kelder, technische ruimte) en brengt die over op het water in de tank. COP: 2,5 tot 4,0 afhankelijk van omgevingstemperatuur.
 
@@ -156,12 +153,12 @@ Dit is de meest efficiënte elektrische optie voor tapwater. Een warmtepompboile
 - Kan ook ruimte koelen (bijproduct: de omgeving van de unit wordt iets koeler)
 
 **Nadelen:**
-- Hogere aanschafprijs (€1.200 tot €2.500 inclusief installatie)
-- Vereist minimaal 10-15 m³ omgevingslucht — niet voor een kleine kast
-- Produceert geluid (compressor): 40-50 dB(A), niet geschikt naast een slaapkamer
+- Hogere aanschafprijs (€1.400 tot €2.800 inclusief installatie)
+- Vereist 10 tot 20 m³ omgevingslucht, afhankelijk van het model — niet voor een kleine kast
+- Produceert geluid (compressor): fabrikanten geven doorgaans 40 tot 50 dB(A) op; kijk voor jouw model in het productblad. Niet geschikt naast een slaapkamer
 - Langere verwarmingstijd bij lage omgevingstemperatuur
 
-**Ideale plaatsing:** garage, bijkeuken, kelder, of technische ruimte met voldoende volume. In een goed geïsoleerde ruimte loopt de prestatie terug — de warmtepompboiler heeft "afval-warmte" nodig om van te leven.
+**Ideale plaatsing:** garage, bijkeuken, kelder, of technische ruimte met voldoende luchtvolume. Wat de prestatie bepaalt is niet de isolatiegraad van de ruimte maar het luchtvolume en de luchttemperatuur: in een te kleine of te koude ruimte koelt de lucht weg en zakt de COP.
 
 ---
 
@@ -173,9 +170,9 @@ Een zonneboiler gebruikt zonnecollectoren op het dak om water direct te verwarme
 
 **Dekking:** in Nederland dekt een zonneboiler gemiddeld 50 tot 70% van de jaarlijkse tapwater-energiebehoefte.
 
-**Investering:** €2.500 tot €5.000 inclusief installatie (collectoren + boiler + regelapparatuur).
+**Investering:** €3.000 tot €5.500 inclusief installatie (collectoren + boiler + regelapparatuur) — oriëntatiebedragen, geen gepubliceerde adviesprijzen.
 
-**Kosten per jaar:** circa €300 tot €550 voor de elektrische naverwarming, bij een dekking van 50 tot 70%.
+**Kosten per jaar:** circa €330 tot €550 voor de elektrische naverwarming, bij een dekking van 50 tot 70%.
 
 **Voordelen:**
 - Laagste verbruikskosten op lange termijn
@@ -207,11 +204,13 @@ Voor grote gezinnen (4+ personen) met hoog warmwaterverbruik is een **aparte war
 | Optie | Aanschaf incl. installatie | Jaarkosten (gezin 4) | COP | ISDE-subsidie |
 |---|---|---|---|---|
 | Elektrische boiler (200L) | €600 tot €900 | circa €1.090 | 1,0 | Nee |
-| Doorstroomgeiser (hydraulisch) | €400 tot €700 | circa €1.000 | 1,0 | Nee |
+| Doorstroomgeiser (hydraulisch) | €400 tot €700 | circa €950 | 1,0 | Nee |
 | Warmtepompboiler (200L) | €1.400 tot €2.800 | circa €390 | 2,5-4,0 | Toestelafhankelijk, zie RVO-apparatenlijst |
-| Zonneboiler + naverwarmer | €3.000 tot €5.500 | circa €300 tot €550 | n.v.t. | Toestelafhankelijk, zie RVO-apparatenlijst |
+| Zonneboiler + naverwarmer | €3.000 tot €5.500 | circa €330 tot €550 | n.v.t. | Toestelafhankelijk, zie RVO-apparatenlijst |
 
-*Modelberekening met aannames: 4.200 kWh warmtevraag per jaar (200 liter warm water per dag voor een gezin van vier, van 12°C naar 55°C) en een all-in stroomprijs van €0,26/kWh — onze gelabelde aanname (EPEX-jaargemiddelde 2025 plus energiebelasting en een opslagaanname, alles inclusief btw). Voor de zonneboiler is gerekend met een dekking van 50 tot 70% en elektrische naverwarming. Aanschafbedragen zijn oriëntatiebedragen, geen gepubliceerde adviesprijzen.*
+*Modelberekening met aannames. Warmtevraag: 200 liter warm water per dag voor een gezin van vier, van 12°C naar 55°C. Dat is 200 × 4,186 × 43 ÷ 3.600 = 10,0 kWh per dag, ofwel **3.650 kWh nuttige warmte per jaar**. Bij de drie systemen met een opslagvat komt daar 1,5 kWh per dag vatverlies bij (550 kWh per jaar), samen 4.200 kWh; de doorstroomgeiser heeft dat vatverlies niet en blijft op 3.650 kWh. Stroomprijs: all-in €0,26/kWh — onze gelabelde aanname (EPEX-jaargemiddelde 2025 plus energiebelasting en een opslagaanname, alles inclusief btw). Voor de zonneboiler is gerekend met een dekking van 50 tot 70% en elektrische naverwarming. Aanschafbedragen zijn oriëntatiebedragen, geen gepubliceerde adviesprijzen.*
+
+*Twee tapprofielen, twee uitkomsten.* Deze 3.650 kWh hoort bij een ruim verbruikend gezin van vier (200 liter per dag). Woon je met twee personen of gebruik je bewust minder warm water, dan is circa 100 liter per dag realistischer en halveert de warmtevraag naar **circa 1.800 kWh per jaar**. Dat kleinere profiel gebruiken wij in [de vergelijking van warmtepompboilers](/posts/beste-warmtepompboiler-2026/); de bedragen daar zijn dus ongeveer de helft van de bedragen hierboven. Kijk eerst welk profiel bij jouw huishouden past voordat je twee artikelen naast elkaar legt.
 
 ---
 
@@ -222,9 +221,9 @@ Voor een all-electric woning met een gezin van 4 en een technische ruimte of gar
 Redenen:
 - Het verschil in jaarkosten ten opzichte van een elektrische weerstandsboiler is in de modelberekening hierboven ongeveer €700 per jaar
 - Op een investering van €1.400 tot €2.800 is dat een terugverdientijd van twee tot vier jaar, vóór eventuele ISDE — een van de kortste terugverdientijden in het hele verduurzamingspakket
-- Een ruimte van 20 m³ of meer die in de zomer wel wat koeler mag worden, is een gunstige plek voor de unit
+- Een ruimte die ruim boven het door de fabrikant gevraagde luchtvolume zit en in de zomer wel wat koeler mag worden, is een gunstige plek voor de unit
 
-Is er geen geschikte technische ruimte, dan is een **elektrische boiler van 150 liter** de praktische keuze, bij voorkeur slim geladen met zonne-energie: timer op de zonnige middaguren en het setpoint verhogen naar 70°C om meer warmte op te slaan.
+Is er geen geschikte technische ruimte, dan is een **elektrische boiler van 200 liter** de praktische keuze, bij voorkeur slim geladen met zonne-energie: timer op de zonnige middaguren en het setpoint verhogen naar 70°C om meer warmte op te slaan.
 
 Een doorstroomgeiser is in een oudere woning met een 3×25A aansluiting risicovol vanwege het hoge aansluitvermogen. In nieuwere woningen met een 3×40A aansluiting is het een prima optie.
 
@@ -237,7 +236,7 @@ Een doorstroomgeiser is in een oudere woning met een 3×25A aansluiting risicovo
 - 3×40A of 3×50A: doorstroomgeiser goed mogelijk
 
 **Stap 2: check de beschikbare ruimte**
-- Minimaal 10 m³: warmtepompboiler mogelijk
+- Zoek in het productblad het gevraagde luchtvolume op (doorgaans 10 tot 20 m³) en meet je ruimte na: past het, dan is een warmtepompboiler mogelijk
 - Minder ruimte: elektrische boiler of doorstroomgeiser
 
 **Stap 3: bereken de terugverdientijd van een warmtepompboiler**
@@ -280,7 +279,7 @@ Gebruik je een boiler op een laag setpoint (50°C of lager), bestaat er kans op 
 Een goede installatie van een warmwater-voorziening vereist meer dan het aansluiten van een apparaat. Dit zijn de punten om bij een installateur op te letten:
 
 **Bij een warmtepompboiler:**
-- Correcte ruimte-inschatting: controleert de monteur of er 10-15 m³ luchtvolume aanwezig is?
+- Correcte ruimte-inschatting: controleert de monteur of het luchtvolume dat de fabrikant voor dít model vraagt (doorgaans 10 tot 20 m³) daadwerkelijk aanwezig is?
 - Condensatieafvoer: de warmtepompboiler produceert condenswater dat afvoer nodig heeft
 - Geluidsisolatie: wordt de warmtepompboiler op een trillings-absorberende mat geplaatst?
 - Aarding en beveiliging: aparte groep op de groepenkast, met aardlekbeveiliging
@@ -302,7 +301,7 @@ Bij de overstap naar all-electric komen steeds dezelfde fouten terug:
 Een 80-liter boiler voor een gezin van 4 is te weinig. Bij 3 personen die na elkaar douchen is de boiler leeg. Consequentie: wachten op herlading (2-3 uur bij elektrische boiler). Kies altijd ruim: 150 liter voor 3 personen, 200 liter voor 4.
 
 **Fout 2: Warmtepompboiler in te kleine ruimte plaatsen**
-Een bijkeuken van 4 m² is te klein. De warmtepompboiler onttrekt warmte aan de omgevingslucht — als de ruimte te klein is, koelt die volledig af en daalt de COP dramatisch. Minimaal 10 m³, liefst 15-20 m³.
+Een bijkeuken van 4 m² is voor de meeste modellen te klein. De warmtepompboiler onttrekt warmte aan de omgevingslucht — als het luchtvolume te klein is, koelt de ruimte weg en daalt de COP hard. Neem het volume dat de fabrikant voor jouw model opgeeft (doorgaans 10 tot 20 m³) als ondergrens, en ruimer als het kan.
 
 **Fout 3: Doorstroomgeiser zonder groepenkast-controle**
 Een doorstroomgeiser van 10 kW op een bestaande 16A-groep is gevaarlijk. Altijd vooraf controleren of de groepenkast het aansluitvermogen aankan.
