@@ -1,0 +1,26 @@
+name: Dagelijkse stroomprijzen-morgen-pagina
+on:
+  schedule:
+    - cron: '20 13 * * *'   # ~15:20 NL zomertijd, net na publicatie day-ahead
+    - cron: '10 15 * * *'   # retry ~17:10 NL voor late publicatie / wintertijd
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  genereer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Genereer pagina uit day-ahead-data
+        run: python3 scripts/genereer-stroomprijzen-morgen.py
+      - name: Commit en push bij wijziging
+        run: |
+          git config user.name "dtl-bot"
+          git config user.email "actions@duurzaamthuislab.nl"
+          if ! git diff --quiet content/stroomprijzen-morgen.md; then
+            git add content/stroomprijzen-morgen.md
+            git commit -m "Stroomprijzen morgen: automatische dagelijkse update"
+            git pull --rebase && git push
+          else
+            echo "Geen nieuwe data; niets te committen."
+          fi

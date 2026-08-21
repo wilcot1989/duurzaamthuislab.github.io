@@ -198,6 +198,7 @@
 
     <div class="lab-grid">
       {{ $blokken := slice
+        (dict "url" "/stroomprijzen-morgen/" "groep" "Meten" "kleur" "var(--terracotta)" "naam" "Stroomprijzen morgen" "sub" "Elke middag automatisch: de uurprijzen en beste blokken van morgen")
         (dict "url" "/negatieve-stroomprijzen/" "groep" "Meten" "kleur" "var(--terracotta)" "naam" "Negatieve stroomprijzen" "sub" "Live telling van uren onder nul, vandaag en morgen")
         (dict "url" "/stroomprijzen-historie/" "groep" "Meten" "kleur" "var(--terracotta)" "naam" "Prijshistorie" "sub" "Elke dag terug te kijken tot 2014")
         (dict "url" "/beste-tijd-wasmachine/" "groep" "Rekenen" "kleur" "var(--forest)" "naam" "Beste tijd wasmachine" "sub" "Goedkoopste 2-uursblok van vandaag en morgen")

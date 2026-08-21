@@ -14,7 +14,7 @@ faq:
 - q: 'Wat betekent "opbrengst per kWp"?'
   a: 'kWp is het piekvermogen van je installatie. Heb je bijvoorbeeld 10 panelen van 400 Wp (= 4 kWp) en staat er 3,0 kWh per kWp, dan is de verwachte dagopbrengst circa 12 kWh — bij gemiddelde oriëntatie en zonder schaduw (modelberekening).'
 - q: 'Wat is de beste tijd om de wasmachine aan te zetten?'
-  a: 'Met een dynamisch contract: het goedkoopste 2-uursblok van de dag — dat staat live (met het blok van morgen) op [beste tijd wasmachine](/beste-tijd-wasmachine/). Met een vast contract maakt het tijdstip voor je kWh-prijs niet uit.'
+  a: 'Een dagelijkse analyse van de prijzen van morgen — met de beste blokken voor wasmachine en EV — staat op de pagina stroomprijzen morgen. Met een dynamisch contract: het goedkoopste 2-uursblok van de dag — dat staat live (met het blok van morgen) op [beste tijd wasmachine](/beste-tijd-wasmachine/). Met een vast contract maakt het tijdstip voor je kWh-prijs niet uit.'
 - q: 'Wanneer is stroom meestal het goedkoopst?'
   a: 'Structureel rond het middaguur op zonnige dagen (veel zonnestroom) en ''s nachts; het duurst in de ochtend- en avondpiek. Uitzonderingen komen voor — daarom staat deze pagina er.'
 lastmod: 2026-08-20
