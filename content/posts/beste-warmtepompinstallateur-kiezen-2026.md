@@ -23,7 +23,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1581094271901-8022df4466f9&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1621905251189-08b45d6a269e&w=1200&output=webp&q=70
 faq:
 - q: Waar herken ik een goede warmtepompinstallateur aan?
   a: 'Aan drie dingen. (1) Hij maakt een warmteverliesberekening volgens EN 12831 vóórdat hij een vermogen noemt, en laat je die berekening zien. (2) Hij heeft een geldig F-gassencertificaat als er met koudemiddel wordt gewerkt — dat is wettelijk verplicht en je mag het bewijs opvragen. (3) Hij kan referenties van recente installaties in jouw regio noemen. Wie een vermogen noemt zonder berekening, gokt met jouw energierekening.'

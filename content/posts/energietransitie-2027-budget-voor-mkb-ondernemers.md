@@ -23,7 +23,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497366811353-6870744d04b2&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1454165804606-c3d57bc86b40&w=1200&output=webp&q=70
 faq:
   - q: 'Wat is het verschil tussen ISDE en EIA voor ondernemers?'
     a: 'ISDE is een investeringssubsidie: een bedrag dat na installatie wordt uitgekeerd, voor warmtepompen, zonneboilers en isolatie. EIA is een fiscale aftrek op de winst voor energie-investeringen die op de Energielijst van RVO staan, zoals zakelijke zonnepanelen, energieopslag en laadinfrastructuur. ISDE is cash, EIA verlaagt je belastbare winst.'

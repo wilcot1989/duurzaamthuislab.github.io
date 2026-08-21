@@ -1,9 +1,9 @@
 ---
-title: 'ISDE-subsidie aanvragen 2026: complete stappen + screenshots'
+title: 'ISDE aanvragen 2026: stappenplan van factuur tot uitbetaling'
 date: '2026-08-12 08:00:00+02:00'
-lastmod: 2026-08-20
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: ISDE-subsidie voor warmtepomp of zonneboiler aanvragen via RVO. Volledig stappenplan met screenshots, benodigde documenten en doorlooptijd uit eigen ervaring.
+description: 'Hoe je de ISDE voor warmtepomp, zonneboiler of isolatie aanvraagt bij RVO: waarom pas ná de uitvoering, binnen welke termijn, welke documenten en waar het bedrag voor jouw toestel staat.'
 categories:
 - subsidie
 tags:
@@ -22,295 +22,122 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Hoeveel ISDE-subsidie krijg ik in 2026?
-  a: Het bedrag hangt aan het specifieke apparaat (meldcode op de RVO-apparatenlijst), niet aan het merk; het startbedrag voor warmtepompen is in 2026 €1.025, met een energielabelbonus van €200 (bron RVO-wijzigingen 2026). Hybride warmtepompen vallen in 2026 gewoon onder de ISDE. Zoek het exacte bedrag voor jouw model op via rvo.nl.
-- q: Hoe lang duurt de aanvraag?
-  a: RVO geeft beschikking binnen 8 weken, in praktijk vaak 4-6 weken. Geld op rekening 2-3 weken na beschikking. Aanvragen kan tot 24 maanden na installatie.
+- q: Hoeveel ISDE-subsidie krijg ik?
+  a: 'Dat hangt aan het specifieke apparaat, niet aan het merk en niet aan een percentage van de factuur. De ISDE werkt met vaste bedragen per meldcode of typenummer uit de apparatenlijst van RVO. Zoek jouw exacte model op via rvo.nl of laat je installateur de meldcode aanleveren; dan weet je het bedrag vóór je opdracht geeft. De ISDE is geen 30 procent-regeling — kom je dat ergens tegen, dan lees je een verouderd of onjuist artikel.'
+- q: Vraag ik de ISDE aan vóór of ná de installatie?
+  a: 'Ná de uitvoering. Je laat de maatregel eerst uitvoeren en vraagt daarna aan, binnen 24 maanden na de uitvoering. Dat geldt zowel voor een warmtepomp of zonneboiler als voor isolatie (rvo.nl, gecontroleerd 21 augustus 2026). Een aanvraag die je vóór de uitvoering indient, wordt afgewezen.'
+- q: Krijg ik meer als ik twee maatregelen tegelijk neem?
+  a: Ja. Voer je binnen 24 maanden twee of meer maatregelen uit, dan verdubbelt het subsidiebedrag (rvo.nl, gecontroleerd 21 augustus 2026). Dat is de echte regeling; verhalen over een aparte "combinatiebonus" met eigen bedragen kloppen niet. Let op dat de maatregelen elk op zichzelf aan de voorwaarden moeten voldoen.
 - q: Welke documenten heb ik nodig?
-  a: Factuur (gespecificeerd per onderdeel), meld-code installateur (bedrijven moeten ISDE-erkend zijn), foto van het apparaat met serienummer, en je BSN.
+  a: 'Een gespecificeerde factuur waaruit blijkt welk toestel of welke maatregel is uitgevoerd, het betaalbewijs, de meldcode of het typenummer van het apparaat, en bij isolatie de aangebrachte oppervlakte en de Rd-waarde. Je vraagt aan met DigiD via mijn.rvo.nl, dus je hebt ook je BSN nodig. Bewaar alles: RVO kan achteraf controleren.'
 - q: Mag ik zelf installeren?
-  a: Nee, ISDE vereist installatie door een erkend bedrijf met geldige meldcode. Doe-het-zelf is uitgesloten.
-- q: Krijg ik subsidie als ik in een huurwoning woon?
-  a: Alleen als je toestemming hebt van de verhuurder en de installatie zelf betaalt. Verhuurders en VvE's hebben aparte regelingen.
-products:
-- name: Quatt warmtepomp
-  url: https://go.duurzaamthuislab.nl/quatt
-  price: '0'
-- name: ATAG warmtepomp
-  url: https://go.duurzaamthuislab.nl/atag
-  price: '0'
+  a: Nee. Voor de installatie van een warmtepomp of zonneboiler is een erkend installatiebedrijf vereist; doe-het-zelf is uitgesloten. Bij isolatie geldt dat de maatregel door een bedrijf moet zijn uitgevoerd en op de factuur moet staan met de gegevens die RVO vraagt.
 schema_type: Article
-last_updated: '2026-08-12'
 ---
-*Disclosure: de links naar ATAG en Quatt in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Dit artikel bevat geen affiliate-links en beveelt geen installateur of merk aan. De ISDE is een rijkssubsidie; wij verdienen niets aan je aanvraag. Aan dit artikel kunnen geen rechten worden ontleend — rvo.nl is leidend.*
 
-"ISDE-subsidie aanvragen 2026 — werkt dat in de praktijk?" is een van de vaakst gestelde vragen over dit onderwerp. Hieronder zetten we op een rij wat de specificaties, handleidingen en publieke data zeggen, en waar de praktijk afwijkt van de brochure.
+> **Kort antwoord:** de ISDE vraag je aan **ná** de uitvoering, binnen 24 maanden, met DigiD via mijn.rvo.nl. Het bedrag hangt niet aan een percentage van je factuur maar aan het specifieke apparaat: RVO kent per meldcode of typenummer een vast bedrag toe. Voer je binnen 24 maanden twee of meer maatregelen uit, dan verdubbelt het bedrag. De twee meest voorkomende oorzaken van afwijzing zijn een aanvraag die te vroeg is ingediend en een factuur waaruit niet blijkt welk toestel is geplaatst.
 
+## Waarom hier geen screenshots en geen bedragen staan
 
-> **Kort antwoord:** ISDE-subsidie voor warmtepomp of zonneboiler aanvragen via RVO. Volledig stappenplan met screenshots, benodigde documenten en doorlooptijd uit eigen ervaring.
->
-> Het bedrag hangt aan het specifieke apparaat (meldcode op de RVO-apparatenlijst), niet aan het merk; het startbedrag voor warmtepompen is in 2026 €1.025, met een energielabelbonus van €200 (bron RVO-wijzigingen 2026). Hybride warmtepompen vallen in 2026 gewoon onder de ISDE. Zoek het exacte bedrag voor jouw model op via rvo.nl.
+Twee eerlijke beperkingen vooraf, zodat je weet wat je hier wel en niet vindt.
 
-## Korte conclusie
+**Geen screenshots van het portaal.** RVO past de schermen van mijn.rvo.nl regelmatig aan. Een reeks afbeeldingen van een aanvraagformulier van vorig jaar helpt niet en leidt af van de stappen die wél hetzelfde blijven: de juiste documenten en de juiste volgorde.
 
-Voor wie weinig tijd heeft, de samenvatting in vijf punten.
+**Geen subsidiebedragen per merk of model.** De ISDE kent per apparaat een eigen bedrag, vastgelegd in de apparatenlijst van RVO en per jaar opnieuw vastgesteld. Wij zetten die bedragen hier niet neer, omdat een verkeerd getal in een subsidieartikel je een investeringsbeslissing kan laten nemen die niet uitkomt. Zoek het bedrag voor jouw exacte type op via rvo.nl, of laat je installateur de meldcode aanleveren en zoek daarop.
 
-- **Werkt het?** Ja, mits je de juiste setup hebt — uitleg verderop.
-- **Kosten?** Tussen €0 en €2.500 afhankelijk van scope.
-- **Terugverdientijd?** 2-7 jaar in de meeste gevallen.
-- **Beste keuze 2026?** Vaak Quatt warmtepomp — zie [de uitgebreide uitleg](/posts/isde-subsidie-warmtepompen-2026/).
-- **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
+Wat je wel krijgt: de spelregels, de volgorde, de documenten en de fouten waar aanvragen op stuklopen.
 
-> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a> en bouw stapsgewijs uit — niet alles in één keer.
+## De vijf regels die de aanvraag bepalen
 
-## 1. Wat is het probleem?
+1. **Aanvragen ná de uitvoering.** Niet ervoor. Dit is de belangrijkste regel en tegelijk de meest gemaakte fout — mede doordat er andere subsidies bestaan waarbij het precies omgekeerd is.
+2. **Binnen 24 maanden na de uitvoering.** Deze termijn geldt voor warmtepomp en zonneboiler én voor isolatie (rvo.nl, gecontroleerd 21 augustus 2026).
+3. **Het bedrag hangt aan het apparaat, niet aan de factuur.** Vaste bedragen per meldcode of typenummer. Geen percentage, geen maximum van een percentage.
+4. **Twee of meer maatregelen binnen 24 maanden verdubbelt het bedrag.** Dat is de regeling zelf, geen aparte bonus.
+5. **Erkend uitvoerend bedrijf.** Voor warmtepomp en zonneboiler is een erkend installatiebedrijf vereist. Zelf plaatsen sluit de subsidie uit.
 
-Zonnepanelen en een warmtepomp leveren op zichzelf besparing op, maar zonder sturing blijft er geld liggen: apparaten draaien op de duurste uren en de batterij is leeg precies wanneer de prijs piekt. Dat speelt vooral bij dynamische contracten en subsidie.
+Twee dingen die geregeld door elkaar lopen en geld kosten: de ISDE dekt **geen thuisbatterijen**, en het btw-tarief van 0 procent geldt **alleen** voor zonnepanelen en de daarvoor direct noodzakelijke onderdelen. Op een warmtepomp, zonneboiler, isolatie of batterij betaal je 21 procent btw.
 
-De kern: subsidie is niet plug-and-play. Je hebt drie dingen nodig: data (P1-meter), sturing (app of platform) en een doel (besparing of comfort). Mis je één van deze drie, dan blijft het rendement achter.
+## Stap voor stap
 
-Voor context — zie ook [het bredere plaatje](/posts/isolatie-subsidie-nederland-2026/) en [wat het einde van saldering betekent](/posts/gemeentelijke-subsidie-zonnepanelen-2026/).
+### Stap 1 — check of je maatregel in de regeling valt
 
-## 2. Wat heb je nodig?
+De ISDE is er voor woningeigenaren die hun bestaande woning verduurzamen: warmtepompen, zonneboilers, isolatiemaatregelen en enkele aanverwante posten. Controleer op rvo.nl of jouw maatregel dit jaar open staat, want de categorieën en het jaarbudget worden per jaar vastgesteld en het budget kan in de loop van het jaar uitgeput raken.
 
-Een werkende opstelling bestaat uit vier componenten:
+### Stap 2 — kies een toestel dat op de apparatenlijst staat
 
-1. **Slimme meter met werkende P1-poort.** Sinds 2018 standaard in NL.
-2. **Realtime energiemonitor** (HomeWizard P1, Sessy P1, of Smartgateways).
-3. **Een apparaat of contract om op te sturen**, bijvoorbeeld Quatt warmtepomp.
-4. **Een platform of app.** Tibber, Frank, Home Assistant of OpenHAB.
+Dit is het moment waarop je het subsidiebedrag kunt beïnvloeden, en het enige moment. Vraag je installateur bij de offerte om de **meldcode of het typenummer** van het toestel dat hij aanbiedt, en zoek dat op in de apparatenlijst. Twee toestellen die op papier vergelijkbaar zijn, kunnen een verschillend subsidiebedrag hebben — en een toestel dat niet op de lijst staat, geeft niets.
 
-De fout die in gebruikersforums het vaakst terugkomt: stap 4 overslaan. Zonder platform heb je losse apparaten die elkaar niet kennen. Je warmtepomp gaat aan terwijl je batterij oplaadt — dubbel gebruik, dubbele kosten.
+Laat de meldcode ook op de offerte zetten. Verandert de installateur later van model, dan zie je dat terug.
 
-Lees ook: [de gedetailleerde guide](/posts/thuisbatterij-subsidie-2026-overzicht/) en [de vergelijking in de praktijk](/posts/quatt-warmtepomp-review-2026/).
+### Stap 3 — laat uitvoeren en betaal
 
-## 3. Stap-voor-stap aanpak
+De maatregel wordt uitgevoerd en de factuur betaald. Maak bij oplevering foto's van het geplaatste toestel met een **leesbaar typeplaatje**; RVO noemt onduidelijke documentatie zelf als vertragingsoorzaak. Bij isolatie: zorg dat de factuur de aangebrachte oppervlakte in vierkante meters en de Rd-waarde vermeldt.
 
-### Stap 1: meet eerst
+### Stap 4 — verzamel de documenten
 
-Voordat je iets koopt: meet je verbruik in kwartiergegevens. Bij Frank, Tibber of via je leverancier-portal kun je 365 dagen historie downloaden. Plot dit in Excel — je ziet meteen waar de pieken zitten.
+Een aanvraag valt of staat hier. Wat je nodig hebt:
 
-In een gemiddeld gezinsprofiel liggen de pieken rond 07:00-09:00 (douche en ontbijt) en 17:00-21:00 (koken en EV laden). Dat zijn ook de duurste uren op een dynamisch contract.
+| Document | Waar het op vast moet zitten |
+|---|---|
+| Gespecificeerde factuur | Welk toestel of welke maatregel, met meldcode of typenummer en per onderdeel gespecificeerd |
+| Betaalbewijs | De factuur moet betaald zijn en op naam staan van de aanvrager |
+| Foto van het apparaat | Typeplaatje leesbaar, apparaat op zijn plek |
+| Bij isolatie | Oppervlakte in m² en de Rd-waarde van het aangebrachte materiaal |
+| DigiD en BSN | Je vraagt aan als particulier via mijn.rvo.nl |
 
-### Stap 2: bepaal het doel
+Staat de factuur op naam van je partner terwijl jij eigenaar bent? Laat die eerst aanpassen. Uitbetaling loopt via de aanvrager, en dat moet met de factuurnaam en het eigendom kloppen.
 
-Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden leveren al een groot deel van de winst; de batterij voegt daar arbitrage en extra zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, moet je met je eigen verbruikscijfers narekenen — bij een klein prijsverschil per jaar loopt de terugverdientijd van een batterij snel op tot ver boven de tien jaar.
+### Stap 5 — dien de aanvraag in
 
-Reken het voor jezelf door — zie [het rekenmodel](/posts/atag-warmtepomp-review-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow noopener">Bekijk ATAG</a> voor concrete prijzen.
+Inloggen met DigiD op mijn.rvo.nl, de ISDE voor woningeigenaren kiezen, de maatregel invullen en de documenten uploaden. Reken op één zitting van een halfuur als je stap 4 hebt gedaan, en op een tweede ronde als dat niet zo is.
 
-### Stap 3: koop de juiste hardware
+Voer je meerdere maatregelen op, doe dat dan in één aanvraag als ze binnen de termijn vallen — dat is ook de route waarlangs de verdubbeling bij twee of meer maatregelen wordt toegepast.
 
-Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is overkill tenzij je een EV thuis laadt of een groot huishouden hebt. Voor warmtepompen: kies op vermogen + COP, niet op merk.
+### Stap 6 — beschikking en uitbetaling
 
-Onze inschatting per scenario:
+Je ontvangt een beschikking; de behandeltermijn hangt af van de drukte bij RVO. Wij noemen hier geen doorlooptijd in weken: die varieert per jaar en per periode, en RVO publiceert er zelf geen harde belofte over die wij kunnen overnemen. Na een positieve beschikking volgt de uitbetaling op het door jou opgegeven rekeningnummer.
 
-- **Klein huis, geen EV:** een 5 kWh batterij — marktprijs circa €3.550 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites); in de meeste rekenmodellen 6-8 jaar terugverdientijd (modelberekening).
-- **Middelgroot, 1 EV:** 10 kWh batterij plus slim laden op een dynamisch tarief.
-- **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg ATAG warmtepomp.
+### Stap 7 — bewaar je dossier
 
-### Stap 4: configureer het platform
+RVO kan achteraf controleren. Bewaar factuur, betaalbewijs, foto's en beschikking bij elkaar. Ga je later een tweede maatregel doen en wil je de verdubbeling gebruiken, dan heb je de datum van de eerste uitvoering nodig.
 
-Dit is waar de meeste mensen vastlopen. Volgens de documentatie en gebruikerservaringen is een fabrikant-app in een kwartier ingericht, Home Assistant kost een avond en OpenHAB aanzienlijk meer. Onze aanbeveling: begin met de fabrikant-app en stap pas over op Home Assistant als je tegen beperkingen aanloopt.
+## Voorbeeldtijdlijn: isolatie en een hybride warmtepomp
 
-Voor batterij-sturing op dynamisch contract: zie [de uitgebreide uitleg](/posts/beste-warmtepomp-merk-2026/).
+Onderstaande tijdlijn is opgebouwd uit de ISDE-voorwaarden van RVO en dient als illustratie van de volgorde — geen praktijkgeval, en bewust zonder subsidiebedragen.
 
-## 4. Wat kost het?
+1. **Maand 1: isolatie uitgevoerd.** Factuur met oppervlakte en Rd-waarde. Nog niet aanvragen als je binnen 24 maanden een tweede maatregel plant en beide in één aanvraag wilt opvoeren; check dan wel per maatregel de termijn.
+2. **Maand 6: hybride warmtepomp geplaatst.** Erkend installateur, meldcode op de factuur, foto van het typeplaatje.
+3. **Maand 7: aanvraag ingediend.** Beide maatregelen, ná uitvoering, binnen 24 maanden na de eerste. Twee maatregelen binnen 24 maanden betekent verdubbeling van het bedrag.
+4. **Daarna: beoordeling en beschikking.** Bij een incomplete aanvraag volgt een verzoek om aanvulling; dat is de meest voorkomende oorzaak van vertraging.
+5. **Tot slot: uitbetaling en bewaren.**
 
-Indicatieve marktprijzen voor 2026, exclusief eventuele subsidies:
+Wat je met het subsidiebedrag doet, is een aparte beslissing. Heb je de investering geleend, dan is boetevrij extra aflossen met de subsidie vaak de goedkoopste bestemming — zie [financiering van warmtepomp en zonnepanelen](/posts/financiering-warmtepomp-zonnepanelen-2026/).
 
-| Onderdeel | Kosten | Terugverdientijd |
-|---|---|---|
-| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
-| P1-meter (HomeWizard) | €99 | < 1 jaar |
-| Home Assistant Yellow | €199 | n.v.t. (tool) |
-| Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
-| ATAG warmtepomp | €0-€2.000 | varieert |
+## Vijf fouten waar aanvragen op stuklopen
 
-Voor een volledige kostenberekening: zie [de uitgebreide berekening](/posts/warmtepomp-installatie-kosten-2026/). Daar staan ook subsidies op een rij.
+1. **Te vroeg aanvragen.** Vóór de uitvoering indienen leidt tot afwijzing. Dit blijft de nummer één.
+2. **Een factuur die niet zegt wát er is geplaatst.** "Levering en installatie warmtepomp" zonder type of meldcode is niet genoeg. Vraag om een gespecificeerde factuur.
+3. **Factuur op de verkeerde naam.** De aanvrager, de factuurnaam en het eigendom moeten op elkaar aansluiten.
+4. **Een toestel dat niet op de apparatenlijst staat.** Controleer dit bij de offerte, niet na de installatie — daarna is het niet meer te repareren.
+5. **Rekenen met bedragen uit een artikel in plaats van uit de apparatenlijst.** Ook met dit artikel: gebruik rvo.nl voor het bedrag.
 
-## 5. Drie valkuilen bij de aanschaf
+## Combineren met andere regelingen
 
-**Valkuil 1: te groot kopen.** Een batterij die groter is dan je dagelijkse nuttige doorzet, staat een deel van het jaar stil. Bereken eerst hoeveel kWh je per dag daadwerkelijk kunt verschuiven; dat is bijna altijd minder dan de nominale capaciteit.
+- **Gemeentelijke en provinciale subsidies.** De ISDE is een rijkssubsidie en in de regel stapelbaar met lokale regelingen, maar lokale regelingen stellen eigen voorwaarden — soms met een maximum op het totaal aan subsidie. Lees de voorwaarden van jouw gemeente; een landelijk overzicht van gemeentelijke potjes is bijna altijd verouderd.
+- **Lening van het Nationaal Warmtefonds.** Stapelbaar. Je financiert de investering en gebruikt de subsidie later om af te lossen. Zie [verduurzamingshypotheek en de andere routes](/posts/verduurzamingshypotheek-2026-vergelijking/).
+- **Btw.** Geen 0 procent-tarief op warmtepomp, zonneboiler of isolatie. Alleen zonnepanelen en direct noodzakelijke onderdelen vallen onder 0 procent, en sinds 1 januari 2023 bestaat er geen teruggaveroute meer op panelen.
 
-**Valkuil 2: vendor lock-in.** Bij DC-gekoppelde batterijen (Goodwe, Huawei, SolaX) zit je vast aan dat merk omvormer. Bij AC-gekoppeld (Sessy, Marstek, Powerwall) ben je vrij. Voor toekomstvastheid heeft AC onze voorkeur.
+## Als je aanvraag wordt afgewezen
 
-**Valkuil 3: geen meetbaar doel.** "Ik wil verduurzamen" is geen doel. "€500 per jaar besparen" wel. Maak het concreet, anders koop je verkeerde spullen.
+Vraag eerst de gemotiveerde afwijzing op. In de praktijk gaat het vaak om ontbrekende of onduidelijke documenten of om een toestel dat niet op de apparatenlijst staat. Het eerste is meestal te herstellen, het tweede niet. Tegen een beschikking staat bezwaar open binnen de termijn die in de beschikking zelf staat; houd die brief er dus bij.
 
-## 6. Welk product past bij wie?
-
-### Voor budgetbewuste huishoudens
-Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a>
-
-### Voor early adopters die alles slim willen
-Combineer Quatt warmtepomp met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd 2-4 uur, levert structureel 15-25 procent meer besparing.
-
-### Voor grote huishoudens of off-grid ambities
-Modulair systeem zoals BYD Battery-Box of ATAG warmtepomp, in combinatie met een hybride-omvormer (Goodwe, SolaX). Investering €12.000-€18.000.
-
-## 7. Rekenvoorbeeld: wat levert een complete opstelling op?
-
-Onderstaand voorbeeld is een rekenvoorbeeld met expliciete aannames — geen meting. Vul je eigen cijfers in en de uitkomst verandert mee.
-
-Aannames:
-
-- **Stroomverbruik:** 4.380 kWh per jaar (gezin van 4)
-- **Zonneproductie:** 4.920 kWh (14 panelen, zuid en west)
-- **Teruglevering zonder batterij:** 1.890 kWh
-- **Batterij:** 10 kWh, gemiddelde bruikbare dag-spread €0,18/kWh na belasting
-
-Uitkomst van het model: circa €350-€400 aan arbitrage, plus €300 aan slim laden van een EV ten opzichte van een vast tarief. Bij een investering van €11.200 voor panelen, omvormer, batterij en laadpaal komt de terugverdientijd op ongeveer 10 jaar.
-
-De spread is de dominante variabele in dit model: halveert die, dan verdwijnt het grootste deel van de arbitragewinst. Na het einde van de saldering verschuift het verdienmodel van teruglevering naar eigen gebruik — daarom wordt sturing op dynamisch tarief belangrijker.
-
-## 8. Veelgemaakte vragen uit de praktijk
-
-**"Mijn installateur zegt dat het niet kan."**
-Vraag een tweede mening. Er zijn installateurs met ervaring met deze setups — zie [de installateur-checklist](/posts/isde-subsidie-warmtepompen-2026/).
-
-**"Het is te duur."**
-Reken het door met je eigen cijfers. In veel rekenvoorbeelden ligt de terugverdientijd op 6-9 jaar bij een verwachte levensduur van 15-20 jaar. Wat dat als rendement betekent, hangt af van de prijsspreads en de restwaarde — behandel het als een schatting met een brede marge, niet als een gegarandeerd rendement.
-
-**"Ik woon in een huurwoning."**
-Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/posts/isolatie-subsidie-nederland-2026/).
-
-## 9. Conclusie
-
-Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
-
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
-
-Verder lezen: [het overzichtsartikel](/posts/gemeentelijke-subsidie-zonnepanelen-2026/), [de rekenmodellen](/posts/thuisbatterij-subsidie-2026-overzicht/) en [de verzamelde gebruikerservaringen](/posts/quatt-warmtepomp-review-2026/).
-
-## 10. Technische details: hoe werkt het onder de motorkap?
-
-Hieronder de technische kern voor wie wil begrijpen waaróm dingen werken zoals ze werken bij subsidie.
-
-### Energiestromen in kaart
-
-Op een gemiddelde voorjaarsdag lopen er vier energiestromen door elkaar: zonneproductie (4-6 kW piek rond het middaguur), huishoudelijk verbruik (basislast rond 350 W, pieken tot 7 kW bij koken), warmtepomp (1,2-2,8 kW modulerend) en EV-laden (3,7 kW of 11 kW). De som van deze stromen bepaalt of je op dat moment kost of verdient.
-
-Zonder slimme sturing lopen deze door elkaar: je warmtepomp draait 's avonds op spitstarief, je batterij is leeg precies wanneer EV-laden begint. Resultaat: je betaalt de piekprijs voor stroom die uren eerder bijna gratis was.
-
-### De rol van forecasting
-
-Tibber, Frank en Home Assistant gebruiken weersvoorspellingen en dag-vooruitprijzen om beslissingen 24 uur vooruit te nemen: laden om 03:00 tot 70% omdat de prijs de volgende dag om 17:00 piekt. Dat is een algoritmische beslissing, geen menselijke.
-
-De kwaliteit van die forecasting bepaalt een aanzienlijk deel van je besparing. Goede platforms gebruiken zowel weersdata als historische verbruiksprofielen; simpele implementaties reageren alleen op de huidige prijs.
-
-### Communicatieprotocollen
-
-Drie protocollen domineren de markt:
-
-- **Modbus TCP** — industrieel, betrouwbaar, lokaal. Vrijwel alle warmtepompen, omvormers en batterijen ondersteunen het.
-- **MQTT** — lichtgewicht message-broker, populair voor IoT. Ideaal voor Home Assistant en zelfbouw-systemen.
-- **REST API (HTTP)** — cloud-only, leverancier-afhankelijk. Werkt overal maar valt uit als internet uitvalt.
-
-Voor toekomstvastheid verdient Modbus TCP de voorkeur boven cloud-API's: lokale besturing blijft werken als een fabrikant zijn cloud uitzet.
-
-## 11. Onderhoud en levensduur
-
-Een vaak vergeten kostencomponent. Indicatieve bedragen op basis van onderhoudscontracten en fabrikantopgaven voor subsidie:
-
-| Component | Onderhoud/jaar | Levensduur |
-|---|---|---|
-| Zonnepanelen | €0-€50 | 25-30 jaar |
-| Omvormer | €0-€80 | 12-15 jaar |
-| Thuisbatterij (LiFePO4) | €0-€120 | 15-20 jaar |
-| Warmtepomp lucht-water | €175-€275 | 15-20 jaar |
-| Slim laadpaal | €25-€80 | 10-12 jaar |
-
-Belangrijke nuance: garantie en levensduur zijn niet hetzelfde. Een omvormer met 10 jaar garantie gaat volgens fabrikantopgaven doorgaans 12-15 jaar mee. Reken voor je terugverdienberekening met verwachte levensduur, niet met de garantieperiode.
-
-### Wat gaat er kapot?
-
-De faalmodi die installateurs en fabrikant-servicedocumentatie het vaakst noemen, ongeveer in volgorde van frequentie:
-
-1. **Omvormer-koeling.** Stof, ventilatordefect. Eenvoudige reparatie of vervanging na 10 jaar.
-2. **Bypass-diode in panelen.** Bij hotspots door schaduw. Lost zichzelf vaak op of paneel vervangen onder garantie.
-3. **Batterij-BMS.** Zelden, maar bij goedkope merken (geen tier-1) komt het voor.
-4. **Connector-corrosie.** Door slechte installatie. Voorkomen door MC4-vet bij installatie.
-
-Voor preventief onderhoud: zie [de jaaronderhoud-checklist](/posts/atag-warmtepomp-review-2026/).
-
-## 12. Wat gaat er veranderen in 2027-2030?
-
-Onze verwachting op basis van wetgeving en marktontwikkeling — geen zekerheden:
-
-**2027: einde saldering.** Zelfconsumptie wordt waardevoller; het verdienmodel van een batterij verschuift van teruglevering naar eigen gebruik en arbitrage.
-
-**2028: bredere V2G-uitrol.** De eerste massamarktauto's ondersteunen bidirectioneel laden; de verwachting is dat bidirectionele laadpalen verder in prijs dalen.
-
-**2029: dynamisch contract als norm.** Vaste contracten worden waarschijnlijk niche, mogelijk in de vorm van dynamisch met prijsplafond.
-
-**2030: strengere eisen bij ketelvervanging.** De richting van het beleid is hybride of volledig elektrisch; hoe de regels exact luiden, hangt af van besluitvorming die nog loopt.
-
-Wie nu investeert in toekomstvaste hardware (open protocollen, AC-gekoppelde batterij, modulaire warmtepomp) staat sterker dan wie kiest voor gesloten cloud-systemen. Lees ook [de beleidsanalyse](/posts/beste-warmtepomp-merk-2026/).
-
-## 13. Rekenvoorbeelden per situatie
-
-Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijsindicaties, terugverdientijden volgen uit het model in hoofdstuk 7:
-
-**Situatie A: rijtjeshuis, 2 personen, geen EV, 2.800 kWh verbruik**
-Ga voor 8-10 zonnepanelen + Quatt warmtepomp (5 kWh) + dynamisch contract. Investering €8.500. Terugverdientijd 6,5 jaar. Geen warmtepomp nodig — eerst isoleren.
-
-**Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow noopener">Bekijk ATAG</a>.
-
-**Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
-20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.
-
-**Situatie D: appartement, 1-2 personen, 1.800 kWh**
-Geen panelen mogelijk? Begin met een dynamisch contract, een slimme thermostaat en waar mogelijk lokale elektrische bijverwarming. Investering circa €600, besparing in het model €180-€280 per jaar.
-
-## 14. Slot
-
-Verduurzamen is een marathon, geen sprint. Alles in één keer verbouwen levert een lange wachttijd op je terugverdientijd op; per jaar de meest renderende stap zetten werkt beter.
-
-De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
-
-1. Isoleren (kruipruimte, spouwmuur, zolder) — €0-€8.000 — direct comfort en besparing.
-2. Dynamisch contract plus monitoring — €0-€100 — in de meeste modellen €100-€300 per jaar.
-3. Zonnepanelen — €4.000-€8.000 — terugverdientijd 6-8 jaar.
-4. Warmtepomp (hybride of vol) — €4.000-€18.000 — terugverdientijd 7-12 jaar.
-5. Thuisbatterij — €4.000-€10.000 — terugverdientijd 6-9 jaar in de meeste modellen.
-6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
-
-Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
-
-## ISDE 2026 versus 2025 — verschillen
-
-Belangrijke wijzigingen die je moet kennen voor je aanvraag indient. Subsidiebedragen warmtepomp: ongewijzigd, 30 procent (max 5.000 euro). Subsidie isolatieglas: gestegen van 60 naar 65 euro per m2 voor triple, ongewijzigd 45 euro voor HR++. Nieuwe categorie 2026: vloerisolatie kruipruimte EPS-pa rels (4 euro per m2 extra). Verdwenen: subsidie pelletkachel (uitgefaseerd door fijnstof-zorgen). Aanvragingstermijn nu 12 maanden na uitvoering (was 6) — meer flexibiliteit. Het jaarbudget voor ISDE wordt per jaar vastgesteld en kan in de loop van het jaar uitgeput raken; controleer de actuele budgetstand en de openstaande categorieën op rvo.nl voordat je opdracht geeft.
-
-## Voorbeeldtraject: isolatie en hybride warmtepomp in één aanvraag
-
-Een voorbeeldtijdlijn op basis van de ISDE-voorwaarden van RVO, om te laten zien hoe het traject loopt bij twee maatregelen tegelijk (fictief rekenvoorbeeld):
-
-1. **Opdracht en uitvoering.** Twee maatregelen: isolatie (factuur €4.200) en een hybride warmtepomp (factuur €9.500).
-2. **Aanvraag na uitvoering.** De aanvraag moet ná uitvoering worden ingediend, binnen de termijn die RVO voor dat jaar hanteert. Een aanvraag vóór oplevering wordt afgewezen.
-3. **Documenten.** Facturen met de maatregelcodes, het bewijs van eigendom en — bij isolatie — de gegevens over aangebrachte oppervlakte en Rd-waarde.
-4. **Beoordeling.** Reken op enkele weken tot enkele maanden, afhankelijk van de drukte bij RVO.
-5. **Bedrag.** Bij twee maatregelen tegelijk gelden de bedragen per maatregel; controleer de actuele tarieven op rvo.nl, want die worden per jaar vastgesteld.
-
-Praktische tip die RVO zelf noemt: lever duidelijke documentatie van de uitgevoerde maatregel mee, inclusief foto's van het geplaatste toestel met zichtbaar typeplaatje. Een incomplete aanvraag is de meest voorkomende oorzaak van vertraging.
-
-## Veelgemaakte fouten 2026
-
-Vier nieuwe valkuilen. Een: aannemen dat ISDE 2025-tarieven nog gelden — sommige tarieven gewijzigd. Check actuele bedragen op rvo.nl. Twee: factuur op partner-naam terwijl jij eigenaar bent — uitbetaling alleen aan factuur-naam = vraag aanpassing van factuur. Drie: aanvraag indienen voor maatregel klaar is — automatisch afwijzing. Vier: vergeten woningchecker-rapport te bewaren — moet bij aanvraag bijgeleverd. Geen rapport = geen subsidie.
-
-**Mag ik ISDE stapelen met gemeentelijke subsidie?**
-Ja, ISDE is rijkssubsidie en stapelbaar met gemeentelijke en provinciale regelingen. Wel let op: gemeentelijk maximaal 35 procent van investering, ISDE 30 procent — zorg dat totaal niet boven 65 procent komt anders verlagen sommige gemeenten hun bijdrage.
-
-**Wat als mijn aanvraag afgewezen wordt?**
-Bezwaartermijn 6 weken vanaf beschikking. Vraag eerst gemotiveerde afwijzing op. Vaak ligt het aan ontbrekende documenten of niet-gecertificeerde installateur. In veel gevallen kun je dat herstellen en opnieuw indienen.
-
-
-
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/warmtepomp-installatie-kosten-2026/) voor verdieping.
+Wil je vóór de opdracht weten of de rekensom klopt, reken de maatregel dan eerst zelfstandig door — bijvoorbeeld met [de warmtepomp-kostenberekening](/warmtepomp-kosten-berekenen/) — en behandel de subsidie als korting op de investering, niet als de reden ervoor. Achtergrond bij de regeling voor warmtepompen specifiek staat in [ISDE-subsidie voor warmtepompen](/posts/isde-subsidie-warmtepompen-2026/).
 
 ---
 
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
+*Laatst bijgewerkt op 21 augustus 2026 door de redactie. Voorwaarden gecontroleerd op rvo.nl op 21 augustus 2026. Bedragen, categorieën en budget worden per jaar vastgesteld en kunnen in de loop van het jaar wijzigen — rvo.nl is leidend. Aan dit artikel kunnen geen rechten worden ontleend.*
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE-subsidie](https://www.rvo.nl/subsidies-financiering/isde) — de officiële regelingpagina met de apparatenlijst en de actuele voorwaarden.

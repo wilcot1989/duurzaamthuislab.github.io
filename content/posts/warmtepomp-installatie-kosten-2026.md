@@ -22,7 +22,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1517490232338-06b912a786b5&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: 'Wat kost een complete warmtepomp installatie in 2026?'
   a: 'Een complete all-electric installatie ligt tussen 13.000 en 22.000 euro inclusief apparaat, montage, elektra en aanpassingen. Een hybride opstelling is goedkoper: 7.500 tot 12.000 euro. Daar gaat het ISDE-bedrag vanaf dat bij het gekozen apparaat hoort; dat staat per typenummer op de apparatenlijst van RVO. Op toestel en installatie geldt 21% btw.'

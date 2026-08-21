@@ -21,7 +21,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1626896143376-e0d1cd5adf1c&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Wat is de Tibber Homevolt?
   a: 'Homevolt is de thuisbatterijlijn die bij Tibber hoort en die via de Tibber-app op het energietarief wordt gestuurd. Dat Homevolt onderdeel van Tibber is, is goed te zien aan het webadres: homevolt.com leidt met een permanente doorverwijzing door naar tibber.com.'

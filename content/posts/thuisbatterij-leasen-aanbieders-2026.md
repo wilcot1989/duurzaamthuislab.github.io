@@ -23,7 +23,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1592833159057-6faf1dbdcd3f&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1620714223084-8fcacc6dfd8d&w=1200&output=webp&q=70
 faq:
 - q: Welke partijen bieden een thuisbatterij in lease of huur aan?
   a: 'Otovo noemt op de eigen site verhuur vanaf €80 per maand met een looptijd van tien jaar. HalloStroom adverteert op de eigen homepage "thuisbatterij huren vanaf €30 per maand, inclusief service". Zonneplan biedt uitdrukkelijk géén lease: op hun eigen huurpagina staat dat zij zich alleen op verkoop richten. Bij andere partijen wisselt het aanbod snel; vraag altijd de actuele voorwaarden op.'

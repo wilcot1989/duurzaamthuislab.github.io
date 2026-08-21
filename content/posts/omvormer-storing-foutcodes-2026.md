@@ -1,16 +1,16 @@
 ---
-title: Omvormer storing? Foutcodes Goodwe, Solis, Huawei verklaard
+title: 'Omvormer storing: GoodWe- en Solis-foutcodes, en Huawei opzoeken'
 date: '2026-08-18 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: Overzicht van de meest voorkomende omvormer-foutcodes per merk, wat je zelf kunt oplossen en wanneer je de installateur moet bellen.
+description: 'De foutmeldingen die GoodWe en Solis zelf publiceren, met betekenis en eerste actie. Voor Huawei publiceert de fabrikant geen open codelijst — daarom staat hier de route om jouw alarm op te zoeken, plus de universele diagnosestappen die bij elk merk werken.'
 categories:
 - onderhoud
 tags:
 - onderhoud
-- verduurzamen
-- duurzaam wonen
 - omvormer
+- foutcodes
+- storing
 keywords:
 - omvormer storing
 - omvormer foutcode
@@ -22,288 +22,136 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Hoe vaak moet ik de omvormer onderhouden?
-  a: 'Een string-omvormer heeft geen jaarlijks onderhoud nodig. Wel: koelribben jaarlijks afstoffen, ventilator (indien aanwezig) controleren, en updates installeren via de fabrikant-app.'
-- q: Wat zijn de meest voorkomende warmtepomp-storingen?
-  a: Lage druk (lekkage of verstopping), foutcode E16/E17 bij Quatt (luchtvolume), en te lage flow door verstopt vuilfilter. Filter reinigen kun je zelf in 15 minuten.
-- q: Wat kost een jaarservice warmtepomp?
-  a: Gemiddeld 175-275 euro inclusief BTW. Sommige merken (Quatt, Itho) bieden onderhoudsabonnement vanaf 12,50 euro per maand met voorrang en 24/7 storingsdienst.
-- q: Moet ik mijn zonnepanelen schoonmaken?
-  a: Niet jaarlijks. In stedelijk gebied of onder bomen elke 2-3 jaar. Regen reinigt het meeste vuil. Vogelpoep en pollen kunnen 5-15 procent rendement kosten.
-- q: Wat doe ik bij een omvormer-foutcode?
-  a: Fotografeer de code, check het manual of fabrikant-app, en herstart eenmaal (DC + AC scheiders uit, 2 minuten wachten). Persisteert de fout? Bel installateur. Doe nooit zelf aan de DC-kant.
-products:
-- name: Huawei Luna
-  url: https://go.duurzaamthuislab.nl/huawei-luna
-  price: '0'
+- q: Wat doe ik als eerste bij een omvormer-foutcode?
+  a: 'Fotografeer de melding met tijdstip, zoek de code op in de handleiding van jouw exacte modelnummer of in de fabrikant-app, en herstart eenmaal volgens de handleiding — AC- en DC-scheider uit, twee minuten wachten, in omgekeerde volgorde weer aan. Blijft de melding terugkomen, bel dan je installateur. Werk nooit zelf aan de gelijkspanningszijde: daar staat bij daglicht spanning op die niet met een schakelaar verdwijnt.'
+- q: Publiceren de fabrikanten hun foutcodes openbaar?
+  a: 'Gedeeltelijk. GoodWe beschrijft in de eigen FAQ een reeks foutmeldingen bij naam met oorzaak en actie. Solis heeft in het servicekennisbank een categorie "Alarm Code Troubleshooting" met artikelen per code. Huawei publiceert geen open codelijst op de website: de alarmen staan in de productdocumentatie en in de FusionSolar-omgeving. De volledige lijst zit bij alle drie de merken in de handleiding van jouw specifieke model.'
+- q: Wat betekent een netgerelateerde foutmelding?
+  a: 'Dat de omvormer afschakelt omdat de netspanning of netfrequentie buiten de toegestane bandbreedte valt. Op een Nederlands laagspanningsnet moet de spanning binnen 207-253 V blijven; komt die structureel aan de bovengrens, dan schakelt een omvormer volgens NEN-EN 50549-1 verplicht af. Dat is geen defect aan je omvormer maar een netsituatie, en een nieuwe omvormer lost het niet op.'
+- q: Hoeveel kan ik zelf oplossen?
+  a: 'Aan de wisselspanningszijde en in de app: een eenmalige herstart, controleren of de AC-groep niet is uitgeschakeld, firmware bijwerken, koelribben afstoffen. Alles wat met isolatieweerstand, aardlekstroom, DC-spanning of stringmetingen te maken heeft, hoort bij de installateur. Dat is niet een kwestie van moeilijk maar van gevaarlijk.'
+- q: Wanneer is vervangen echt nodig?
+  a: 'Als de fout na herstel van de oorzaak blijft terugkomen en de fabrikant of installateur een defect vaststelt: bij herhaalde isolatiefouten zonder aanwijsbare oorzaak in de installatie, bij zichtbaar opgezwollen condensatoren, of bij een defecte MPPT-ingang waarvan de reparatie meer kost dan een vervangende omvormer. Vraag in alle gevallen eerst de foutlogs op: voor een garantieclaim heb je die historie nodig.'
+- q: Wat zet ik in een supportticket?
+  a: 'Serienummer, exact modelnummer, firmwareversie, de foutcode met datum en tijdstip, een foto van het display of een schermafdruk uit de app, en de gemeten netspanning op het moment van de fout. Met die zes gegevens erbij hoeft de servicedesk niet eerst een week te vragen wat je al weet.'
 schema_type: Article
-last_updated: '2026-04-29'
 ---
-*Disclosure: de links naar Huawei in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
-Een vraag die vaak terugkomt: "Omvormer storing? Foutcodes Goodwe, Solis, Huawei verklaard? werkt dat in de praktijk?" Dit artikel geeft het antwoord op basis van fabrieksspecificaties, handleidingen, geverifieerde gebruikersreviews en publieke marktdata — geen marketingverhaal, maar wat de bronnen laten zien.
+*Disclosure: GoodWe, Solis, Huawei en SMA worden in dit artikel redactioneel besproken. Wij hebben met geen van deze partijen een affiliate- of commissierelatie en ontvangen voor dit artikel geen vergoeding. Er staan geen commerciële links in; de links hieronder gaan naar de supportpagina's van de fabrikanten.*
 
+Een omvormer die op storing staat, kost per dag opbrengst. Het probleem is dat de meeste overzichten van foutcodes op internet lijsten met codes bevatten die aan geen enkel merk toe te wijzen zijn. Dit artikel doet het omgekeerd: **alleen wat de fabrikanten zelf publiceren, met vermelding van waar het staat.** Opgehaald op 21 augustus 2026.
 
-> **Kort antwoord:** de meeste omvormer-storingen zijn netgerelateerd of firmware-gerelateerd, niet defecte hardware. Hieronder de meest voorkomende foutcodes per merk, wat je zelf kunt oplossen en wanneer je de installateur moet bellen.
->
-> Een string-omvormer heeft geen jaarlijks onderhoud nodig. Wel: koelribben jaarlijks afstoffen, ventilator (indien aanwezig) controleren, en updates installeren via de fabrikant-app.
+Voor twee van de drie merken levert dat een echte tabel op. Voor Huawei niet — die fabrikant publiceert geen open codelijst, en dan zeggen we dat in plaats van er een te verzinnen.
 
-## Korte conclusie
+> **Kort antwoord:** de meeste omvormerstoringen zijn netgerelateerd of installatiegerelateerd, niet een defecte omvormer. Fotografeer de melding, zoek hem op in de handleiding van jouw exacte modelnummer, herstart eenmaal en meet je netspanning voordat je iets vervangt. GoodWe en Solis publiceren hun foutmeldingen; bij Huawei lees je het alarm uit in FusionSolar en zoek je het op in de productdocumentatie.
 
-Voor wie weinig tijd heeft: dit artikel behandelt de meest voorkomende omvormer-foutcodes per merk, wat je zelf kunt oplossen en wanneer je de installateur moet bellen. Hieronder onze samenvatting in vijf punten.
+## Eerst dit: de universele route
 
-- **Werkt het?** Ja, mits je de juiste setup hebt — uitleg verderop.
-- **Kosten?** Tussen €0 en €2.500 afhankelijk van scope.
-- **Terugverdientijd?** 2-7 jaar in de meeste gevallen.
-- **Beste keuze 2026?** Huawei Luna — zie [onze diepere uitleg hier](/posts/zonnepanelen-onderhoud-schoonmaken-2026/).
-- **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
+Deze vijf stappen gelden bij elk merk en in deze volgorde.
 
-> **Ons advies:** start met <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> en bouw stapsgewijs uit. Niet alles in één keer.
+1. **Leg de melding vast.** Foto van het display of schermafdruk uit de app, met datum en tijdstip. Zonder dat heb je later geen garantiedossier.
+2. **Zoek de code op bij jouw exacte modelnummer.** Codes zijn merkspecifiek en soms zelfs seriespecifiek. Een F-code van het ene merk betekent bij het andere iets anders. Het typeplaatje op de omvormer geeft het modelnummer.
+3. **Herstart eenmaal, volgens de handleiding.** Doorgaans: AC-scheider uit, DC-scheider uit, twee minuten wachten, DC aan, AC aan. Eén keer. Blijft de fout terugkomen, dan maskeert herstarten het probleem in plaats van het op te lossen.
+4. **Meet je netspanning.** Via de P1-poort van de slimme meter of via de app van de omvormer. Dit is de meest onderschatte stap; zie de sectie over netspanning verderop.
+5. **Bel de installateur voor alles aan de DC-kant.** Isolatieweerstand, aardlekstroom, stringspanning: daar staat bij daglicht spanning op die niet met een schakelaar verdwijnt.
 
-## 1. Wat is het probleem?
+## GoodWe: de meldingen die de fabrikant zelf beschrijft
 
-Veel huiseigenaren denken dat zonnepanelen plus warmtepomp het werk is. Klaar. In de praktijk blijft er geld liggen zodra de sturing niet klopt — met name bij dynamische contracten en onderhoud.
+GoodWe beschrijft in de eigen FAQ zes foutmeldingen bij naam, met oorzaak en aanbevolen actie. Dit is de tabel zoals de fabrikant hem geeft; de volledige lijst per model staat in de handleiding in het download center.
 
-De kern: onderhoud is niet plug-and-play. Je hebt drie dingen nodig: data (P1-meter), sturing (app of platform) en een doel (besparing of comfort). Mis je één van deze drie, dan werkt het niet.
-
-Voor context — wij schreven eerder uitgebreid over [het bredere plaatje](/posts/warmtepomp-onderhoud-kosten-2026/) en [wat saldering 2027 betekent](/posts/cv-ketel-onderhoudscontract-2026-zin/).
-
-## 2. Wat heb je nodig?
-
-Een werkende setup bestaat uit vier componenten:
-
-1. **Slimme meter met werkende P1-poort.** Sinds 2018 standaard in NL.
-2. **Realtime energiemonitor** (HomeWizard P1, Sessy P1, of Smartgateways).
-3. **Een product om te sturen.** In dit artikel als voorbeeld: Huawei Luna.
-4. **Een platform of app.** Tibber, Frank, Home Assistant of OpenHAB.
-
-De fout die we het vaakst tegenkomen: stap 4 overslaan. Zonder platform heb je losse apparaten die elkaar niet kennen. Je warmtepomp gaat aan terwijl je batterij oplaadt — dubbel gebruik, dubbele kosten.
-
-Lees ook: [onze gedetailleerde guide](/posts/beste-omvormer-zonnepanelen-2026/) en [de praktijkvergelijking](/posts/huawei-luna-2000-review-2026/).
-
-## 3. Stap-voor-stap aanpak
-
-### Stap 1: meet eerst
-
-Voordat je iets koopt: meet je verbruik in kwartiergegevens. Bij Frank, Tibber of via je leverancier-portal kun je 365 dagen historie downloaden. Plot dit in Excel — je ziet meteen waar de pieken zitten.
-
-In een gemiddeld Nederlands huishouden liggen de pieken tussen 07:00 en 09:00 (douche en ontbijt) en tussen 17:00 en 21:00 (koken en EV laden). Dat zijn ook de duurste uren op een dynamisch contract.
-
-### Stap 2: bepaal het doel
-
-Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus een slimme laadpaal leveren al een flink deel van de besparing op; een thuisbatterij voegt daar bovenop iets toe, maar tegen een investering van enkele duizenden euro's. Reken dat verschil apart door: de terugverdientijd van die laatste stap is vaak fors langer dan die van de eerste.
-
-Reken het voor jezelf door — zie [ons rekenmodel](/posts/quatt-warmtepomp-review-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> voor concrete prijzen.
-
-### Stap 3: koop de juiste hardware
-
-Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is overkill tenzij je een EV thuis laadt of een groot huishouden hebt. Voor warmtepompen: kies op vermogen + COP, niet op merk.
-
-Onze aanbeveling per scenario:
-
-- **Klein huis, geen EV:** een 5 kWh batterij — circa €3.550 incl. btw, excl. installatie (Sessy 5 kWh als referentie, prijspeil aug 2026), in 6-8 jaar terugverdiend volgens modelberekening. Actuele Huawei Luna-prijs: zie vendor-site.
-- **Middelgroot, 1 EV:** 10 kWh batterij + slim laden via Tibber.
-- **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Huawei Luna.
-
-### Stap 4: configureer het platform
-
-Dit is waar de meeste mensen vastlopen. Home Assistant kost een avond om op te zetten, Tibber 15 minuten. OpenHAB anderhalve dag. Onze inschatting: begin met de fabrikant-app en stap pas over op Home Assistant als je tegen de beperkingen daarvan aanloopt.
-
-Voor batterij-sturing op dynamisch contract: zie [onze diepe uitleg](/posts/atag-warmtepomp-review-2026/).
-
-## 4. Wat kost het?
-
-Realistische cijfers voor 2026, exclusief eventuele subsidies:
-
-| Onderdeel | Kosten | Terugverdientijd |
+| Melding | Wat GoodWe als oorzaak noemt | Eerste actie volgens GoodWe |
 |---|---|---|
-| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
-| P1-meter (HomeWizard) | €99 | < 1 jaar |
-| Home Assistant Yellow | €199 | n.v.t. (tool) |
-| Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
-| Huawei Luna | €0-€2.000 | varieert |
+| Utility Loss | Geen spanning gedetecteerd aan de AC-zijde | Controleer of het net eraf is, of de AC-groep is ingeschakeld en of de aansluitingen goed vastzitten |
+| Vac Failure | AC-spanning buiten het bereik van de ingestelde veiligheidsnorm (safety country) | Meet de AC-spanning met een multimeter en controleer of de juiste landinstelling is gekozen |
+| Fac Failure | AC-frequentie buiten het bereik van de ingestelde veiligheidsnorm | Controleer de actuele netfrequentie en de landinstelling |
+| ISO Failure | Isolatieweerstand van de panelen naar aarde te laag | Panelen één voor één opnieuw aansluiten, controleren op een onderbroken aardverbinding of beschadigde bekabeling |
+| Ground I Failure | Lekstroom te hoog | Panelen één voor één opnieuw aansluiten om het foute paneel te vinden, aarding en bekabeling inspecteren |
+| PV overvoltage | Paneelspanning boven het DC-bereik van de omvormer | Paneelspanning meten en zo nodig het aantal panelen in de string verlagen |
 
-Voor een volledige kostenberekening verwijzen wij naar [onze berekening](/posts/garantie-zonnepanelen-uitleg-2026/). Daar staan ook subsidies op een rij.
+Bron: [GoodWe FAQ](https://en.goodwe.com/faqs), opgehaald 21 augustus 2026.
 
-## 5. Drie valkuilen die we het vaakst zien
+Twee kanttekeningen bij die tabel. De acties bij **ISO Failure** en **Ground I Failure** — panelen één voor één opnieuw aansluiten — zijn werk aan de gelijkspanningszijde. GoodWe schrijft ze op voor installateurs; doe dat niet zelf. En bij **Vac Failure** en **Fac Failure** is de veiligheidsnorminstelling ("safety country") de eerste verdachte: staat die op een ander land dan Nederland, dan schakelt de omvormer op verkeerde grenswaarden af. Dat is een instelling die de installateur bij oplevering had moeten zetten.
 
-**Valkuil 1: te groot kopen.** Een 15 kWh-batterij is voor de meeste huishoudens overgedimensioneerd: wie per dag maar 8 kWh nuttig kan verschuiven, haalt met 10 kWh hetzelfde resultaat voor duizenden euro's minder. Reken dus eerst je dagelijks energiestroom door.
+Voor de complete codelijst verwijst GoodWe naar de handleiding van het specifieke type in het [download center](https://en.goodwe.com/support) en naar het eigen supportportaal.
 
-**Valkuil 2: vendor lock-in.** Bij DC-gekoppelde batterijen (Goodwe, Huawei, SolaX) zit je vast aan dat merk omvormer. Bij AC-gekoppeld (Sessy, Marstek, Powerwall) ben je vrij. Voor toekomstvastheid is AC-gekoppeld de veiliger keuze.
+## Solis: de alarmcodes uit het servicekennisbank
 
-**Valkuil 3: geen meetbaar doel.** "Ik wil verduurzamen" is geen doel. "€500 per jaar besparen" wel. Maak het concreet, anders koop je verkeerde spullen.
+Solis heeft in het servicekennisbank een aparte categorie **"Alarm Code Troubleshooting"**, met artikelen per code. De codes die daar op 21 augustus 2026 als eigen artikel stonden:
 
-## 6. Welk product past bij wie?
+| Alarmcode | Waar het over gaat |
+|---|---|
+| GRID-INTF | Netinterferentie: de omvormer stelt een netsituatie vast waarop hij niet kan of mag blijven leveren |
+| PV ISO PRO | Isolatiebeveiliging aan de PV-zijde — de tegenhanger van GoodWe's ISO Failure |
+| I-Leak-Pro / Leakage current | Lekstroombeveiliging |
+| AFCI Protection | De vlambogendetectie heeft aangeslagen |
 
-### Voor budgetbewuste huishoudens
-Ga voor de basisversie van <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a>. Compact, goede app, geen vendor lock-in. Gebruikersreviews zijn over dit model overwegend positief.
+Bron: [Solis service- en supportportaal, kennisbank](https://solis-service.solisinverters.com/nl/support/home), opgehaald 21 augustus 2026.
 
-### Voor early adopters die alles slim willen
-Combineer Huawei Luna met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd 2-4 uur, levert structureel 15-25 procent meer besparing.
+Het kennisbank bevat naast deze codes ook artikelen over een omvormer die niet opstart, een leeg of beschadigd HMI-scherm, de keuze van een externe aardlekschakelaar, AC-groepen die afslaan en batterijdiagnose voor Pylontech, BYD en WeCo. Handleidingen en datasheets staan in het Solis **downloadcenter**; voor Nederland publiceert Solis een eigen servicenummer, **+31 85 048 1300**. Dat lokale kanaal is een reëel voordeel bij een garantietraject.
 
-### Voor grote huishoudens of off-grid ambities
-Modulair systeem zoals BYD Battery-Box of Huawei Luna, in combinatie met een hybride-omvormer (Goodwe, SolaX). Investering €12.000-€18.000.
+Eén ding om te weten over **AFCI Protection**: vlambogendetectie is een veiligheidsfunctie, geen storingsmelding die je wegklikt. Slaat die herhaald aan, dan is dat een reden om de installateur met urgentie te laten komen kijken, niet om te resetten tot het stil blijft.
 
-## 7. Wat levert het op — en waar komen die cijfers vandaan?
+## Huawei: geen open codelijst, wel een vaste route
 
-Rendementscijfers zijn sterk huishoudafhankelijk, en veel getallen die online rondgaan zijn niet te herleiden naar een bron. Wij rekenen daarom liever met de variabelen dan met één "gemiddelde":
+Huawei publiceert op de website geen vrij toegankelijke tabel met alarm-ID's voor residentiële SUN2000-omvormers. Wat er wél is:
 
-- **Verbruik:** haal je jaarverbruik uit je jaarafrekening of P1-data, niet uit een landelijk gemiddelde.
-- **Zonneproductie:** reken met de opbrengstindicatie van je installateur op basis van dakvlak, oriëntatie en hellingshoek.
-- **Batterij-arbitrage:** hangt af van de spreiding tussen dal- en piekuren op je dynamische contract; die spreiding verschilt per jaar.
-- **Slim laden:** de winst is het verschil tussen je gemiddelde en je laagste uurtarief, maal het aantal kWh dat je thuis laadt.
+- **De FusionSolar-app of het portaal.** Daar staat het actieve alarm met naam en tijdstip. Dat is je uitgangspunt, en het is de reden dat je de Smart Dongle bij oplevering wilt hebben; zonder verbinding zie je alleen ledlampjes.
+- **Het productdocumentatieportaal van Huawei.** Daar staan de gebruikershandleidingen en de O&M-documentatie per productserie, met de alarmbeschrijvingen erin.
+- **Het Smart PV Forum en het online support-kanaal.** Huawei verwijst daar zelf naar voor vragen die technisch personeel beantwoordt.
 
-Wie een terugverdientijd wil weten, vult deze vier posten in met eigen data. Cijfers die wij niet uit een specificatie, een publieke dataset of een openbare test kunnen halen, laten we bewust weg. Wat wél vaststaat: door de afbouw van de saldering wordt zelf verbruiken belangrijker dan terugleveren, en daarmee weegt slimme sturing zwaarder mee in de berekening.
+Bron: [Huawei FusionSolar support](https://solar.huawei.com/en/support), opgehaald 21 augustus 2026.
 
-## 8. Veelgemaakte vragen uit de praktijk
+De praktische route is dus: alarm uitlezen in FusionSolar, exacte alarmnaam en modelnummer noteren, en die opzoeken in de handleiding van jouw serie of doorgeven aan je installateur. Wat wij níet doen is een lijst met Huawei-alarmcodes publiceren die we niet bij de fabrikant hebben kunnen terugvinden. Kom je zulke lijsten elders tegen zonder bronvermelding, behandel ze dan met wantrouwen: een verkeerd geïnterpreteerd alarm leidt tot een onnodige vervanging.
 
-**"Mijn installateur zegt dat het niet kan."**
-Vraag een tweede mening. In Nederland zijn er installateurs die wel ervaring hebben met deze setups — zie [onze installateur-checklist](/posts/zonnepanelen-onderhoud-schoonmaken-2026/).
+## Netspanning: waarom "F47" bij SMA vaak geen defect is
 
-**"Het is te duur."**
-Reken het door. Vaak is de terugverdientijd 6-9 jaar, levensduur 15-20 jaar. Dus 6-11 jaar puur winst. Dat is een rendement van 8-12 procent per jaar, beter dan veel beleggingen.
+Het duidelijkste voorbeeld van een netgerelateerde melding is **F47 bij SMA-omvormers**: netonderspanning. De omvormer schakelt af omdat de netspanning buiten de toegestane bandbreedte valt.
 
-**"Ik woon in een huurwoning."**
-Dan zijn je opties beperkter, maar niet nul. Zie [onze huurwoning-guide](/posts/warmtepomp-onderhoud-kosten-2026/).
+Volgens de Nederlandse netcode moet de spanning op een laagspanningsnet binnen **207-253 V** blijven; komt die structureel aan de bovengrens (rond 250 V) of onder de ondergrens, dan schakelt een omvormer volgens **NEN-EN 50549-1** verplicht af. Dat betekent dat zo'n melding vaak géén defecte omvormer aanwijst maar een netprobleem in de straat — iets wat in wijken met veel zonnestroom op zonnige middagen structureel voorkomt.
 
-## 9. Conclusie
+De route is dan:
 
-Wij adviseren stapsgewijs verduurzamen: begin met meten, voeg dan een slim product toe en bouw daar het platform omheen. Niet andersom.
+1. Netspanning uitlezen via de P1-poort van je slimme meter (de sensor "voltage") of via de app van de omvormer.
+2. De meetwaarden over enkele dagen vastleggen, met tijdstippen.
+3. Melding doen bij je netbeheerder, met die meetreeks erbij.
 
-Onze concrete aanbeveling voor 2026: start met <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> en koppel het aan je dynamisch contract. Investering circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites), terugverdientijd 6-8 jaar (modelberekening), levensduur 15-20 jaar. Geen vendor lock-in.
+Netbeheerders kunnen de tap-stand van de wijktransformator aanpassen wanneer de spanning aantoonbaar te hoog of te laag is. **Les: controleer eerst je netspanning voordat je een nieuwe omvormer koopt.** Vervanging lost een netprobleem niet op — de nieuwe omvormer schakelt op dezelfde grenswaarde af.
 
-Verder lezen: [overzicht artikelen](/posts/cv-ketel-onderhoudscontract-2026-zin/), [gedetailleerde rekenmodellen](/posts/beste-omvormer-zonnepanelen-2026/) en [praktijkervaringen](/posts/huawei-luna-2000-review-2026/).
+Dezelfde logica geldt voor de netgerelateerde meldingen van de andere merken in dit artikel: GoodWe's Vac Failure en Fac Failure en Solis' GRID-INTF wijzen in eerste instantie naar het net of naar de landinstelling, niet naar de hardware.
 
-## 10. Technische details: hoe werkt het onder de motorkap?
+## Vijf fouten bij het diagnosticeren
 
-Veel artikelen blijven aan de oppervlakte. Hieronder de technische kern voor wie wil snappen waaróm dingen werken zoals ze werken bij onderhoud.
+1. **Direct de installateur bellen zonder de handleiding open te doen.** Een deel van de meldingen is met de bijlage in de handleiding en een eenmalige herstart af te handelen.
+2. **Blijven resetten.** Bij een netmelding of een isolatiefout bestaat het probleem na de reset nog steeds; je verliest alleen de logregels die het bewijzen.
+3. **Geen logbestand bewaren.** Voor een garantieclaim heb je vaak een aantal weken historie nodig. Exporteer de logs zodra de fout optreedt.
+4. **Firmware niet controleren.** Een deel van de meldingen verdwijnt met een firmware-update die de fabrikant al heeft uitgebracht.
+5. **Zelf aan de DC-kant gaan meten.** Zonder de juiste referentie en meetapparatuur levert dat foutieve waarden op, en het is de gevaarlijkste kant van de installatie.
 
-### Energiestromen in kaart
+## Wanneer een omvormer écht vervangen wordt
 
-Op een gemiddelde dag in maart lopen er in een verduurzaamd huis vier energiestromen tegelijk: zonneproductie (4-6 kW piek rond 13:00), huishoudelijk verbruik (basislast 350 W, piek 7 kW bij koken), warmtepomp (1,2-2,8 kW modulerend) en EV laden (3,7 kW of 11 kW). De som van deze stromen bepaalt of je kost of verdient.
+Er zijn drie situaties waarin vervanging de uitkomst is, en in alle drie stelt de installateur of de fabrikant dat vast — niet een codelijst op internet:
 
-Zonder slimme sturing lopen deze door elkaar: je warmtepomp draait 's avonds op spitstarief, je batterij is leeg precies wanneer EV-laden begint. Resultaat: je betaalt premium prijs voor stroom die je 8 uur eerder gratis had.
+- **Herhaalde isolatiefouten** waarbij de installateur geen oorzaak in de bekabeling, de panelen of de aarding kan aanwijzen.
+- **Zichtbaar opgezwollen condensatoren.** Dat is een veiligheidskwestie; laat het toestel dan spanningsloos maken.
+- **Een defecte MPPT-ingang** waarbij één string niet meer werkt en de reparatiekosten in de buurt van of boven een vervangende omvormer liggen.
 
-### De rol van forecasting
+Reken bij die afweging met een verwachte levensduur van 12 tot 15 jaar voor een omvormer op een paneelinstallatie die 25 jaar meegaat: één omvormervervanging in de looptijd is een normale kostenpost, geen incident. Hoe je dat in je opbrengstberekening meeneemt, staat op [zonnepanelen opbrengst berekenen](/zonnepanelen-opbrengst-berekenen/).
 
-Tibber, Frank en Home Assistant gebruiken weersvoorspellingen om beslissingen 24 uur vooruit te nemen. Een batterij begint dan bijvoorbeeld om 03:00 op te laden tot 70 procent omdat de prijs de volgende dag om 17:00 piekt. Dit is geen menselijke beslissing — een algoritme doet dit.
+## Een supportticket dat in één keer wordt opgepakt
 
-De kwaliteit van die forecasting bepaalt een groot deel van je besparing. Goede platforms gebruiken zowel weersdata als historische verbruiksprofielen. Slechte platforms reageren alleen op huidige prijzen.
+Zet deze zes gegevens in de eerste mail:
 
-### Communicatieprotocollen
+1. Serienummer en exact modelnummer (typeplaatje).
+2. Firmwareversie.
+3. De foutcode of alarmnaam, met datum en tijdstip.
+4. Foto van het display of schermafdruk uit de app.
+5. Gemeten netspanning op het moment van de fout.
+6. Wat je al hebt gedaan (bijvoorbeeld: eenmaal herstart volgens handleiding, fout kwam na X minuten terug).
 
-Drie protocollen domineren de markt:
+Dat scheelt de heen-en-weer-mail waarin de servicedesk precies deze zes dingen opvraagt.
 
-- **Modbus TCP** — industrieel, betrouwbaar, lokaal. Alle warmtepompen, omvormers en batterijen ondersteunen het. Bestaat sinds 1979.
-- **MQTT** — lichtgewicht message-broker, populair voor IoT. Ideaal voor Home Assistant en zelfbouw-systemen.
-- **REST API (HTTP)** — cloud-only, leverancier-afhankelijk. Werkt overal maar valt uit als internet uitvalt.
+## Bronnen
 
-Voor toekomstvastheid is Modbus TCP een veiliger keuze dan cloud-API's. Eén keer firmware-update en je kunt nog 15 jaar door zonder fabrikant-dependency.
-
-## 11. Onderhoud en levensduur
-
-Een vaak vergeten kostencomponent. Onderstaande bandbreedtes komen uit onderhoudstarieven van installateurs en de onderhoudsvoorschriften van fabrikanten, voor onderhoud:
-
-| Component | Onderhoud/jaar | Levensduur |
-|---|---|---|
-| Zonnepanelen | €0-€50 | 25-30 jaar |
-| Omvormer | €0-€80 | 12-15 jaar |
-| Thuisbatterij (LiFePO4) | €0-€120 | 15-20 jaar |
-| Warmtepomp lucht-water | €175-€275 | 15-20 jaar |
-| Slim laadpaal | €25-€80 | 10-12 jaar |
-
-Belangrijke nuance: garantie en levensduur zijn niet hetzelfde. Een omvormer heeft doorgaans 10 jaar fabrieksgarantie, terwijl de verwachte technische levensduur 12-15 jaar is. Reken voor je terugverdienberekening met verwachte levensduur, niet garantieperiode.
-
-### Wat gaat er kapot?
-
-De onderdelen die het meest kwetsbaar zijn, met de meest storingsgevoelige bovenaan:
-
-1. **Omvormer-koeling.** Stof, ventilatordefect. Eenvoudige reparatie of vervanging na 10 jaar.
-2. **Bypass-diode in panelen.** Bij hotspots door schaduw. Lost zichzelf vaak op of paneel vervangen onder garantie.
-3. **Batterij-BMS.** Zelden, maar bij goedkope merken (geen tier-1) komt het voor.
-4. **Connector-corrosie.** Door slechte installatie. Voorkomen door MC4-vet bij installatie.
-
-Voor preventief onderhoud verwijzen wij naar [onze jaaronderhoud-checklist](/posts/quatt-warmtepomp-review-2026/).
-
-## 12. Wat gaat er veranderen in 2027-2030?
-
-Onze verwachting op basis van wetgeving en marktontwikkeling:
-
-**2027: einde saldering.** Zelfconsumptie wordt veel waardevoller. Een batterij wordt daardoor waardevoller, omdat elke zelf verbruikte kWh dan de volle leveringsprijs uitspaart in plaats van het teruglevertarief.
-
-**2028: V2G publiekelijk uitgerold.** Eerste massa-marktauto's (VW, Hyundai, Polestar) ondersteunen het. Bidirectionele laadpalen onder €3.000.
-
-**2029: dynamisch contract default.** Vast contract wordt niche. Leveranciers die nu vast aanbieden migreren naar dynamisch met prijsplafond.
-
-**2030: warmtepomp verplicht bij ketelvervanging.** Hybride mag nog, gas-only niet meer. ISDE-subsidie wordt afgebouwd, want het wordt standaard.
-
-Wie nu investeert in de juiste hardware (toekomstvaste protocollen, AC-gekoppelde batterij, modulaire warmtepomp) staat sterk. Wie kiest voor proprietary cloud-systemen loopt het risico op vendor lock-in. Lees ook [onze beleidsanalyse](/posts/atag-warmtepomp-review-2026/).
-
-## 13. Onze aanbevelingen per situatie
-
-Dit is de vraag die het vaakst gesteld wordt. Hieronder onze redactionele keuze per situatie, met de afweging erbij:
-
-**Situatie A: rijtjeshuis, 2 personen, geen EV, 2.800 kWh verbruik**
-Ga voor 8-10 zonnepanelen + Huawei Luna (5 kWh) + dynamisch contract. Investering €8.500. Terugverdientijd 6,5 jaar. Geen warmtepomp nodig — eerst isoleren.
-
-**Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen + 10 kWh batterij + warmtepomp + slimme laadpaal. Investering €24.000. Terugverdientijd 8,2 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a>.
-
-**Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
-20+ panelen + 15-20 kWh modulair + warmtepomp + 2 laadpalen. Investering €38.000-€45.000. Terugverdientijd 9-11 jaar maar maximaal autonoom.
-
-**Situatie D: appartement, 1-2 personen, 1.800 kWh**
-Geen panelen mogelijk? Begin met dynamisch contract + slimme thermostaat + waar mogelijk een infraroodpaneel. Investering €600. Besparing €180-€280 per jaar.
-
-## 14. Slot — wat wij je écht willen meegeven
-
-Verduurzamen is een marathon, geen sprint. Wie in één keer voor €50.000 verbouwt, wacht daarna jaren op de terugverdientijd. Onze aanpak: investeer stap voor stap, en begin elk jaar met de maatregel die op dat moment het meeste rendeert.
-
-Volgorde die wij aanhouden:
-
-1. Isoleren (kruipruimte, spouwmuur, zolder) — €0-€8.000 — direct comfort en besparing.
-2. Dynamisch contract + slimme meter monitoring — €0 — direct €100-€300/jaar.
-3. Zonnepanelen — €4.000-€8.000 — terugverdientijd 6-8 jaar.
-4. Warmtepomp (hybride of vol) — €4.000-€18.000 — terugverdientijd 7-12 jaar.
-5. Thuisbatterij — €4.000-€10.000 — terugverdientijd 6-9 jaar (post-2027).
-6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
-
-Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
-
-Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> voor concrete prijzen, en lees [onze aanvullende guide](/posts/garantie-zonnepanelen-uitleg-2026/) voor verdieping.
-
-## Diagnosevoorbeeld — F47 (Grid undervoltage) uitgelegd
-
-F47 is bij SMA-omvormers de code voor netonderspanning. De omvormer schakelt dan af omdat de netspanning buiten de toegestane bandbreedte valt. Volgens de Nederlandse netcode moet de spanning op een laagspanningsnet binnen 207-253 V blijven; komt die structureel aan de bovengrens (rond 250 V) of onder de ondergrens, dan schakelt een omvormer volgens NEN-EN 50549-1 verplicht af.
-
-Dat betekent dat F47 vaak géén defecte omvormer aanwijst maar een netprobleem in de straat. De route is dan: netspanning uitlezen via de P1-poort van je slimme meter (sensor "voltage"), de meetwaardes vastleggen en een melding doen bij je netbeheerder. Netbeheerders kunnen de tap-stand van de wijktransformator aanpassen wanneer de spanning aantoonbaar te hoog of te laag is.
-
-Les: controleer eerst je netspanning voordat je een nieuwe omvormer koopt. Vervanging lost een netprobleem niet op — de nieuwe omvormer schakelt op dezelfde grenswaarde af.
-
-## Veelgemaakte fouten bij foutcodes-diagnose
-
-1. **Direct installateur bellen voor F-codes.** Bekijk eerst handleiding-bijlage — 60 procent zelf op te lossen.
-2. **Reset zonder reden.** Bij F35/F47 bestaat probleem nog steeds; reset maskeert het.
-3. **Geen logbestand bewaren.** Voor garantie-claim heb je vaak 30 dagen historie nodig.
-4. **Firmware niet checken.** Veel "storingen" zijn known-bugs in oudere firmware.
-5. **Verkeerde aarding bij metingen.** Spanningsmeting tussen L en N vereist correcte referentie — anders foutieve waardes.
-
-## Wanneer een omvormer écht vervangen?
-
-Bij isolatie-fouten (F23/F27/Riso) na 8+ jaar gebruik. Bij capacitor-bulging (zichtbaar opzwellen) — direct aanraadbaar voor brandveiligheid. Bij MPPT-tracker-defect waarbij één string niet meer werkt en reparatie >€600 kost terwijl tweedehands omvormer €450 doet.
-
-## Extra FAQ
-
-**Welke 3 foutcodes zien we het meest in NL?**
-F47 (Grid undervoltage), F35 (Permanent failure), F11 (DC overvoltage). Eerste twee zijn netgerelateerd, laatste vaak strings te lang.
-
-**Hoe maak ik een goed support-ticket?**
-Voeg toe: serienummer, firmware-versie, foutcode + tijdstip, foto datalogger-display, schermafdruk app, en netspanning op moment van fout. Spaart 3-5 dagen mailheen-en-weer.
-
----
-
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-18 door de redactie van DuurzaamThuisLab. Heb je een vraag of klopt er iets niet? Laat het ons weten — wij werken dit artikel actief bij.*
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+- [GoodWe FAQ](https://en.goodwe.com/faqs) en [GoodWe support](https://en.goodwe.com/support), opgehaald 21 augustus 2026: de zes beschreven foutmeldingen met oorzaak en actie, en de verwijzing naar handleiding en download center voor de volledige lijst.
+- [Solis service- en supportportaal](https://solis-service.solisinverters.com/nl/support/home), opgehaald 21 augustus 2026: de categorie Alarm Code Troubleshooting met GRID-INTF, PV ISO PRO, I-Leak-Pro en AFCI Protection, en het Nederlandse servicenummer.
+- [Huawei FusionSolar support](https://solar.huawei.com/en/support), opgehaald 21 augustus 2026: geen open alarmcodelijst; verwijzing naar productdocumentatie, O&M-guides en het Smart PV Forum.

@@ -23,7 +23,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1513279014891-1bff5e7eb38c&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1502672260266-1c1ef2d93688&w=1200&output=webp&q=70
 faq:
 - q: Wat is het verschil tussen HR++ en triple glas?
   a: 'HR++ bestaat uit twee glasplaten met een argongevulde spouw en een warmtereflecterende coating; de U-waarde is ongeveer 1,1 W/m²K. Triple glas heeft drie platen en twee spouwen en komt op ongeveer 0,5 tot 0,8. Triple isoleert dus zo''n derde tot de helft beter per vierkante meter, maar is per m² fors duurder, dikker en zwaarder. In onze modelberekening scheelt de stap van HR++ naar triple ongeveer €3,50 per m² glas per jaar — bij een gemiddelde woning dus enkele tientjes.'

@@ -21,7 +21,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1558618666-fcd25c85cd64&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een Mitsubishi Ecodan in 2026?
   a: 'Mitsubishi Ecodan PUZ-WM 5 kW met installatie en buffervat: €9.500-€11.800 inclusief btw. Ecodan 8 kW: €11.500-€14.500. Daar gaat ISDE-subsidie €1.450-€2.700 vanaf. Netto investering: €7.000-€11.800. Iets duurder dan Vaillant aroTHERM en Atag Energion, maar lagere onderhoudskosten op lange termijn.'

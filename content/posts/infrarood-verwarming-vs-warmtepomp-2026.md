@@ -22,7 +22,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1558618666-fcd25c85cd64&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1502672260266-1c1ef2d93688&w=1200&output=webp&q=70
 faq:
 - q: 'Wat is goedkoper: infrarood of een warmtepomp?'
   a: 'In de meeste woningen de warmtepomp, en het verschil is groot. Een infraroodpaneel zet één kilowattuur stroom om in één kilowattuur warmte. Een warmtepomp haalt daar een veelvoud uit door warmte uit de buitenlucht te verplaatsen. Voor dezelfde hoeveelheid warmte verbruikt infrarood dus drie tot vier keer zoveel stroom, en dat verschil loopt elk jaar opnieuw op.'

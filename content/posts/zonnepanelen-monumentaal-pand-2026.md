@@ -22,7 +22,7 @@ keywords:
 - rijksmonument zonne-energie
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1494380544893-3a39f4eaa9b9&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1503594384566-461fe158e797&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: false
 faq:

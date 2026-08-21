@@ -1,7 +1,9 @@
 ---
 title: 'Jackery Explorer 2000 v2 vs 2000 Plus: welke versie is nu de koop'
 date: 2026-11-04 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
+aliases:
+- /posts/jackery-explorer-2000-plus-test-2026/
 description: 'Jackery Explorer 2000 v2 of 2000 Plus? Dezelfde 2.042 Wh, maar 10 kg verschil, ander continu vermogen en een groot verschil in leverbaarheid in Nederland. De vergelijking op geverifieerde specificaties.'
 draft: false
 categories:
@@ -23,17 +25,17 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
-- q: Wat is het verschil tussen de Jackery Explorer 2000 v2 en de 2000 Plus?
+- q: 'Wat is het verschil tussen de Jackery Explorer 2000 v2 en de 2000 Plus?'
   a: 'De capaciteit is bij beide 2.042 Wh met LiFePO4-cellen, dus daar zit het verschil niet. Het verschil zit in vermogen, gewicht en uitbreidbaarheid: de v2 geeft 2.200 W nominaal bij 17,5 kg, de Plus 3.000 W continu bij 27,9 kg en is met losse accumodules uit te breiden. De v2 is de compacte, draagbare uitvoering; de Plus is de zwaardere basis van een uitbreidbaar systeem.'
-- q: Welke van de twee moet ik nu kopen?
+- q: 'Welke van de twee moet ik nu kopen?'
   a: 'Voor het overgrote deel van de gebruikers de v2. Je krijgt dezelfde bruikbare energie in een toestel dat ruim tien kilo lichter is, sneller laadt en in Nederland gewoon leverbaar is. De Plus is de betere keuze in precies twee gevallen: je hebt meer dan 2.200 W continu nodig, of je wil de capaciteit later met extra accumodules uitbreiden.'
-- q: Wat kost de Jackery Explorer 2000 v2?
+- q: 'Wat kost de Jackery Explorer 2000 v2?'
   a: 'Op nl.jackery.com stond de Explorer 2000 v2 op 20 augustus 2026 op € 899,00, afgeprijsd van € 1.599,00. Dat is een actieprijs en geen vaste adviesprijs, dus controleer het bedrag op het moment dat je koopt. Voor de 2000 Plus vonden wij op diezelfde datum geen Nederlandse prijs, omdat het model niet in het Nederlandse assortiment stond.'
-- q: Is de Explorer 2000 Plus nog leverbaar?
+- q: 'Is de Explorer 2000 Plus nog leverbaar?'
   a: 'Op het overzicht van powerstations op nl.jackery.com stonden op 20 augustus 2026 alleen de Explorer 500, 1000, 2000 en 3000 in de v2-uitvoering; de 2000 Plus stond daar niet tussen. Op de internationale Jackery-site was het model nog wel te vinden, inclusief de bijbehorende Battery Pack 2000 Plus. Wie specifiek de Plus wil, is dus afhankelijk van resterende voorraad bij dealers of van de internationale winkel — met de bijbehorende vragen over garantieafhandeling.'
-- q: Hoe snel laadt de Explorer 2000 v2 op?
+- q: 'Hoe snel laadt de Explorer 2000 v2 op?'
   a: 'Jackery noemt voor de 2000 v2 noodopladen tot 100 procent in 1,33 uur via netstroom. Met zonnepanelen geeft Jackery bij twee panelen van 200 W een volledige lading in ongeveer 5,5 uur onder ideale omstandigheden. Reken in Nederland niet op die ideale omstandigheden: bij bewolking en een lage zonnestand loopt die tijd fors op.'
-- q: Kan ik de Explorer 2000 v2 uitbreiden met een extra accu?
+- q: 'Kan ik de Explorer 2000 v2 uitbreiden met een extra accu?'
   a: 'Op de Nederlandse productpagina van de 2000 v2 vonden wij op 20 augustus 2026 geen uitbreidingsaccu voor dit model, terwijl bij de 2000 Plus de Battery Pack 2000 Plus wel expliciet als accessoire wordt aangeboden. Uitbreidbaarheid is daarmee het duidelijkste functionele argument voor de Plus. Wil je vooral meer energie in één toestel, dan is de stap naar de Explorer 3000 v2 de logischer route.'
 products:
 - name: Jackery Explorer 2000 v2

@@ -21,7 +21,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1510515853-2cdcb24f54a4&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: 'Wat kost een Nibe warmtepomp in 2026?'
   a: 'NIBE publiceert geen consumentenprijzen en levert via gecertificeerde installateurs. In Nederlandse offertes ligt een complete lucht-water installatie uit deze klasse doorgaans tussen de €11.500 en €14.500 inclusief montage en 21% btw; een bodemgebonden installatie ligt daar ver boven vanwege het bronwerk. Dat zijn marktrichtprijzen, geen fabrikantsprijzen. Op een warmtepomp geldt 21% btw — het 0%-tarief bestaat alleen voor zonnepanelen.'

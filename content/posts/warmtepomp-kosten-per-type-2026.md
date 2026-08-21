@@ -10,7 +10,7 @@ keywords: [warmtepomp kosten, warmtepomp prijs 2026, lucht water warmtepomp prij
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1631545308456-15ef38d5a1f4&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een warmtepomp gemiddeld in 2026?
   a: 'Er is geen gemiddelde, en dat is het eerlijke antwoord: "warmtepomp" is een categorie met vier types die in prijs een factor tien uiteenlopen. Wat je wél kunt doen is de kostenopbouw per type naast je offerte leggen, en per post controleren of die erin zit. Reken daarbij met 21% btw — het nultarief geldt uitsluitend voor zonnepanelen — en trek daarna het ISDE-bedrag af dat bij het aangeboden typenummer hoort.'

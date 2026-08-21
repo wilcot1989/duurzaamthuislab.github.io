@@ -23,7 +23,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1558618666-fcd25c85cd64&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: "Welke warmtepomp is het stilst voor een rijtjeshuis?"
   a: "Dat is niet uit de reclamewaarden af te leiden: fabrikanten meten op verschillende afstanden en belastingen, en sommige geven geluidsdruk terwijl andere geluidsvermogen (Lw) opgeven. Vraag het geluidsvermogen uit het productblad en laat de installateur daarmee het niveau op de perceelgrens berekenen. De norm is 45 dB(A) overdag en 40 dB(A) in de avond en nacht, gemeten op de perceelgrens."

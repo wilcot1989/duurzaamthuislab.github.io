@@ -23,7 +23,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1631545806609-ee85b1b1e5cf&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Hoe heet de hybride warmtepomp van Intergas?
   a: 'Intergas noemt op de eigen site de **Xtend** als hybride warmtepomp, in een uitvoering van 5 kW met het koudemiddel R290 (propaan) en energielabel A+++ (intergas-verwarming.nl, opgehaald 21 augustus 2026). Kom je online de naam "Xtreme" tegen als warmtepomp, dan gaat dat mis: Xtreme is een cv-ketellijn van Intergas, geen warmtepomp.'

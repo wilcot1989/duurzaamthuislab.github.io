@@ -13,7 +13,7 @@ keywords:
   - dynamisch contract nieuw adres
 author: Team DuurzaamThuisLab
 affiliate: false
-featured_image: "/images/energiecontract-verhuizen.jpg"
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1600585154340-be6161a56a0c&w=1200&output=webp&q=70
 category: "Energie"
 tags:
   - energie

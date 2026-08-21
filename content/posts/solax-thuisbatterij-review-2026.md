@@ -1,9 +1,9 @@
 ---
-title: 'Solax Triple Power thuisbatterij review 2026: betaalbaar alternatief'
+title: 'Solax thuisbatterij review 2026: Triple Power weg, LD-serie ervoor'
 date: '2026-09-03 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: 'Solax Triple Power koppelt aan Solax-omvormers. Wij beoordelen de 5,8 kWh-module op prijs, app, specificaties en hoe die zich verhouden tot Pylontech en BYD.'
+description: 'Solax Triple Power staat niet meer in het actuele assortiment: de huidige lijn is LD5 en LD16. Wat de fabrikant wél en niet publiceert, en waarom DC-koppeling hier de kernvraag is.'
 categories:
 - thuisbatterijen
 tags:
@@ -15,306 +15,115 @@ keywords:
 - solax triple power
 - solax thuisbatterij review
 - solax t-bat
-- solax x3 batterij
+- solax ld5
 - solax nederland
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Wat zijn de pluspunten van deze batterij?
-  a: Goede prijs-kwaliteit, robuuste behuizing, en (bij sommige merken) ondersteuning voor dynamische contracten via API. Lokale support in Nederland is wisselend per merk.
-- q: Wat zijn de minpunten?
-  a: Soms beperkte lokale service in Nederland, app niet altijd Nederlandstalig, en minder integraties met Home Assistant dan grote merken zoals Sessy of Tesla.
-- q: Wat kost het inclusief installatie?
-  a: Reken op 800-1.200 euro per kWh inclusief installatie, omvormer en BMS. Voor een 10 kWh-systeem zit je rond 8.000-11.500 euro afhankelijk van merk en installateur.
-- q: Hoe lang is de garantie?
-  a: Standaard 10 jaar of 6.000 cycli bij 70-80 procent restcapaciteit. Sommige merken bieden 12 of 15 jaar garantie tegen meerprijs.
-- q: Werkt het systeem met een dynamisch contract?
-  a: Ja, via API of via een externe controller (HomeWizard, Sessy P1). Voor volledige automatisering werkt Sessy en Marstek out-of-the-box; andere merken vragen meer setup.
-products:
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '0'
-- name: Marstek Venus
-  url: https://go.duurzaamthuislab.nl/marstek
-  price: '0'
+- q: 'Is de Solax Triple Power nog leverbaar?'
+  a: 'Op solaxpower.com stonden op 21 augustus 2026 onder de opslagbatterijen voor woningen alleen de LD5 en de LD14/LD16. Een product met de naam Triple Power, T-BAT, T58 of T63 stond er niet meer bij. Wie nog een Triple Power aangeboden krijgt, koopt uit restvoorraad — vraag dan expliciet naar de garantieafhandeling en naar de firmwareondersteuning op langere termijn.'
+- q: 'Welke Solax-batterijen zijn er nu wel?'
+  a: 'De LD5 met 5,1 kWh en de LD14/LD16 met 16,0 kWh, beide met LFP-cellen en een nominale spanning van 51,2 V. Van beide geldt: maximaal 16 stuks parallel, dus 5,1 tot 81,9 kWh bij de LD5 en tot 256 kWh bij de LD16. Beide hebben IP65 en zijn optioneel te bestellen met een aerosol-blussysteem en een CO-detector (solaxpower.com, 21 augustus 2026).'
+- q: 'Wat publiceert Solax niet over deze batterijen?'
+  a: 'Op de productpagina''s van de LD5 en de LD16 vonden wij op 21 augustus 2026 geen round-trip rendement, geen bedrijfs- of laadtemperatuurbereik, geen cyclusaantal en geen garantietermijn. Dat zijn precies de vier gegevens die je nodig hebt voor een terugverdienberekening. Vraag ze op bij de installateur of de distributeur en laat ze schriftelijk vastleggen, in plaats van ze uit een review over te nemen.'
+- q: 'Wat kost een Solax-thuisbatterij?'
+  a: 'Solax publiceert geen consumentenprijzen. Wij noemen daarom geen bedrag voor deze merken. Voor een prijspeil gebruiken wij op deze site de Sessy 5 kWh op €3.550 inclusief btw en exclusief installatie (sessy.nl, augustus 2026) als referentiepunt; een Solax-systeem valt daar afhankelijk van omvormer en installatie boven of onder.'
+- q: 'Zit ik met een Solax-batterij vast aan een Solax-omvormer?'
+  a: 'In de praktijk wel. De LD-serie is DC-gekoppeld en werkt binnen het Solax-opslagsysteem, met een DC-scheider als onderdeel van de installatie. Dat is efficiënter dan een AC-gekoppelde batterij, maar het betekent dat een defecte of verouderde omvormer je batterijkeuze vastlegt en omgekeerd. Wie die afhankelijkheid niet wil, kiest een AC-gekoppelde batterij die achter elke omvormer werkt.'
+- q: 'Kan een Solax-batterij mijn EV-laden opvangen?'
+  a: 'Dat hangt niet van de batterij af maar van het ontlaadvermogen van je omvormer. Een 1-fase hybride omvormer van 3 kW blijft in de avondpiek achter zodra je gelijktijdig kookt en een auto laadt op 3,7 of 11 kW. Reken door met het ontlaadvermogen op het typeplaatje, niet met de capaciteit in kWh: die twee zeggen iets heel anders.'
 schema_type: Article
-last_updated: '2026-04-29'
 ---
-*Disclosure: de links naar Marstek en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Dit artikel bevat geen affiliate- of commissielinks. Wij hebben met Solax geen affiliate- of commissierelatie en ontvangen voor dit artikel van geen enkele partij een vergoeding. Alles hieronder komt uit de productpagina's van solaxpower.com, opgehaald op 21 augustus 2026, of is expliciet als aanname gelabeld.*
 
-"Solax Triple Power thuisbatterij review 2026 — werkt dat in de praktijk?" is een van de vaakst gestelde vragen over dit onderwerp. Hieronder zetten we op een rij wat de specificaties, handleidingen en publieke data zeggen, en waar de praktijk afwijkt van de brochure.
+Wie in 2026 zoekt op "Solax Triple Power" loopt tegen iets ongemakkelijks aan: dat product staat niet meer in het actuele assortiment van de fabrikant. Op de eigen site van Solax bestaat de categorie opslagbatterijen voor woningen nog wel, maar die bevat de LD5 en de LD14/LD16 — geen Triple Power, geen T-BAT, geen T58 of T63.
 
+Dat maakt dit artikel een ander verhaal dan een gewone review. De vraag is niet meer of de Triple Power een goede koop is, maar wat je moet doen als je hem nog ergens aangeboden krijgt, en wat er nu in de plaats voor staat.
 
-> **Kort antwoord:** Solax Triple Power koppelt aan Solax-omvormers. Wij beoordelen de 5,8 kWh-module op prijs, app, specificaties en hoe die zich verhouden tot Pylontech en BYD.
->
-> Goede prijs-kwaliteit, robuuste behuizing, en (bij sommige merken) ondersteuning voor dynamische contracten via API. Lokale support in Nederland is wisselend per merk.
+> **Kort antwoord:** de Triple Power-lijn is uit de catalogus verdwenen; de huidige Solax-huisbatterijen zijn de LD5 (5,1 kWh) en de LD14/LD16 (16,0 kWh), beide LFP op 51,2 V en tot zestien stuks parallel te plaatsen. Solax publiceert op die productpagina's géén rendement, temperatuurbereik, cyclusaantal of garantietermijn — en geen prijs. De echte beslissing bij dit merk gaat daarom niet over kWh, maar over de vraag of je je batterij en je omvormer aan hetzelfde merk wil vastleggen.
 
-## Korte conclusie
+## Wat er nog wel in het assortiment staat
 
-Voor wie weinig tijd heeft, de samenvatting in vijf punten.
+De twee huisbatterijen die Solax op 21 augustus 2026 zelf presenteert, met de specificaties zoals de fabrikant ze geeft:
 
-- **Werkt het?** Ja, mits je de juiste setup hebt — uitleg verderop.
-- **Kosten?** Tussen €0 en €2.500 afhankelijk van scope.
-- **Terugverdientijd?** 2-7 jaar in de meeste gevallen.
-- **Beste keuze 2026?** Vaak Sessy thuisbatterij — zie [de uitgebreide uitleg](/posts/sessy-review-thuisbatterij-nederland/).
-- **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
-
-> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> en bouw stapsgewijs uit — niet alles in één keer.
-
-## 1. Wat is het probleem?
-
-Zonnepanelen en een warmtepomp leveren op zichzelf besparing op, maar zonder sturing blijft er geld liggen: apparaten draaien op de duurste uren en de batterij is leeg precies wanneer de prijs piekt. Dat speelt vooral bij dynamische contracten en thuisbatterijen.
-
-De kern: thuisbatterijen is niet plug-and-play. Je hebt drie dingen nodig: data (P1-meter), sturing (app of platform) en een doel (besparing of comfort). Mis je één van deze drie, dan blijft het rendement achter.
-
-Voor context — zie ook [het bredere plaatje](/posts/marstek-venus-review-thuisbatterij/) en [wat het einde van saldering betekent](/posts/tesla-powerwall-review-nederland-2026/).
-
-## 2. Wat heb je nodig?
-
-Een werkende opstelling bestaat uit vier componenten:
-
-1. **Slimme meter met werkende P1-poort.** Sinds 2018 standaard in NL.
-2. **Realtime energiemonitor** (HomeWizard P1, Sessy P1, of Smartgateways).
-3. **Een apparaat of contract om op te sturen**, bijvoorbeeld Sessy thuisbatterij.
-4. **Een platform of app.** Tibber, Frank, Home Assistant of OpenHAB.
-
-De fout die in gebruikersforums het vaakst terugkomt: stap 4 overslaan. Zonder platform heb je losse apparaten die elkaar niet kennen. Je warmtepomp gaat aan terwijl je batterij oplaadt — dubbel gebruik, dubbele kosten.
-
-Lees ook: [de gedetailleerde guide](/posts/huawei-luna-2000-review-2026/) en [de vergelijking in de praktijk](/posts/beste-thuisbatterij-nederland-2026/).
-
-## 3. Stap-voor-stap aanpak
-
-### Stap 1: meet eerst
-
-Voordat je iets koopt: meet je verbruik in kwartiergegevens. Bij Frank, Tibber of via je leverancier-portal kun je 365 dagen historie downloaden. Plot dit in Excel — je ziet meteen waar de pieken zitten.
-
-In een gemiddeld gezinsprofiel liggen de pieken rond 07:00-09:00 (douche en ontbijt) en 17:00-21:00 (koken en EV laden). Dat zijn ook de duurste uren op een dynamisch contract.
-
-### Stap 2: bepaal het doel
-
-Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden leveren al een groot deel van de winst; de batterij voegt daar arbitrage en extra zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, moet je met je eigen verbruikscijfers narekenen — bij een klein prijsverschil per jaar loopt de terugverdientijd van een batterij snel op tot ver boven de tien jaar.
-
-Reken het voor jezelf door — zie [het rekenmodel](/posts/thuisbatterij-vergelijking-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Bekijk Marstek</a> voor concrete prijzen.
-
-### Stap 3: koop de juiste hardware
-
-Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is overkill tenzij je een EV thuis laadt of een groot huishouden hebt. Voor warmtepompen: kies op vermogen + COP, niet op merk.
-
-Onze inschatting per scenario:
-
-- **Klein huis, geen EV:** een 5 kWh batterij — circa €3.550 incl. btw, excl. installatie (Sessy 5 kWh als referentie, prijspeil aug 2026); in de meeste rekenmodellen 6-8 jaar terugverdientijd (modelberekening).
-- **Middelgroot, 1 EV:** 10 kWh batterij plus slim laden op een dynamisch tarief.
-- **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Marstek Venus.
-
-### Stap 4: configureer het platform
-
-Dit is waar de meeste mensen vastlopen. Volgens de documentatie en gebruikerservaringen is een fabrikant-app in een kwartier ingericht, Home Assistant kost een avond en OpenHAB aanzienlijk meer. Onze aanbeveling: begin met de fabrikant-app en stap pas over op Home Assistant als je tegen beperkingen aanloopt.
-
-Voor batterij-sturing op dynamisch contract: zie [de uitgebreide uitleg](/posts/pylontech-thuisbatterij-review-2026/).
-
-## 4. Wat kost het?
-
-Indicatieve marktprijzen voor 2026, exclusief eventuele subsidies:
-
-| Onderdeel | Kosten | Terugverdientijd |
+| Specificatie | LD5 | LD16 |
 |---|---|---|
-| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
-| P1-meter (HomeWizard) | €99 | < 1 jaar |
-| Home Assistant Yellow | €199 | n.v.t. (tool) |
-| Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
-| Marstek Venus | €0-€2.000 | varieert |
+| Nominale capaciteit | 5,1 kWh | 16,0 kWh |
+| Celchemie | LFP | LFP |
+| Nominale spanning | 51,2 V DC | 51,2 V DC |
+| Spanningsbereik | 42,4 – 57,6 V DC | 42,4 – 57,6 V DC |
+| Max. laadstroom | 100 A | 155 A |
+| Max. ontlaadstroom | 135 A (130 A voor de Europese LD5-ME) | 210 A |
+| Piekvermogen | 10,2 kW gedurende 10 s | 32,1 kW gedurende 3 s |
+| Max. parallel | 16 stuks (5,1 – 81,9 kWh) | 16 stuks (tot 256 kWh) |
+| Afmetingen | niet vermeld op de productpagina | 406 × 1008 × 281 mm |
+| Gewicht | niet vermeld op de productpagina | 118 kg (±1) |
+| Beschermingsgraad | IP65 | IP65 |
+| Veiligheidsopties | aerosol-blussysteem, CO-detector | aerosol-blussysteem, CO-detector |
 
-Voor een volledige kostenberekening: zie [de uitgebreide berekening](/posts/byd-battery-box-review-2026/). Daar staan ook subsidies op een rij.
+Twee dingen vallen daaraan op.
 
-## 5. Drie valkuilen bij de aanschaf
+Ten eerste de **schaalbaarheid**. Zestien stuks parallel is geen woninggetal; dat is bedoeld voor bedrijfspanden en voor installaties die met de vraag mee moeten groeien. Voor een rijtjeshuis is één LD5 al meer dan het dagelijks verschuifbare volume — zie [het rekenmodel voor een batterij op een dynamisch contract](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/), waarin een 5 kWh-systeem in het model op circa €177 per jaar uitkomt.
 
-**Valkuil 1: te groot kopen.** Een batterij die groter is dan je dagelijkse nuttige doorzet, staat een deel van het jaar stil. Bereken eerst hoeveel kWh je per dag daadwerkelijk kunt verschuiven; dat is bijna altijd minder dan de nominale capaciteit.
+Ten tweede het **piekvermogen versus het continue vermogen**. De 10,2 kW piek van de LD5 geldt tien seconden. Dat is de aanloopstroom van een apparaat, niet iets waarop je een woning kunt laten draaien. Wat je continu uit het systeem kunt halen, wordt bepaald door de omvormer waar de batterij aan hangt — en dat cijfer staat niet op de batterijpagina.
 
-**Valkuil 2: vendor lock-in.** Bij DC-gekoppelde batterijen (Goodwe, Huawei, SolaX) zit je vast aan dat merk omvormer. Bij AC-gekoppeld (Sessy, Marstek, Powerwall) ben je vrij. Voor toekomstvastheid heeft AC onze voorkeur.
+## Wat Solax níet publiceert, en waarom dat uitmaakt
 
-**Valkuil 3: geen meetbaar doel.** "Ik wil verduurzamen" is geen doel. "€500 per jaar besparen" wel. Maak het concreet, anders koop je verkeerde spullen.
+Op de productpagina's van de LD5 en de LD16 vonden wij op 21 augustus 2026 geen:
 
-## 6. Welk product past bij wie?
+- **round-trip rendement** — het percentage van de geladen energie dat je er weer uit haalt;
+- **bedrijfs- en laadtemperatuurbereik**;
+- **cyclusaantal en de restcapaciteit waarbij dat aantal geldt**;
+- **garantietermijn**;
+- **consumentenprijs**.
 
-### Voor budgetbewuste huishoudens
-Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>
+Dat is geen detail. Precies deze vijf getallen bepalen samen wat een batterij oplevert en hoe lang. Zonder rendement kun je het verschuifbare volume niet omrekenen naar euro's; zonder cycli en garantietermijn kun je de investering niet over een periode uitsmeren; zonder temperatuurbereik weet je niet of het apparaat in een onverwarmde bijkeuken mag hangen.
 
-### Voor early adopters die alles slim willen
-Combineer Sessy thuisbatterij met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd 2-4 uur, levert structureel 15-25 procent meer besparing.
+Wij vullen die gaten hier niet met getallen uit andere bronnen. Wat je in plaats daarvan doet: laat de installateur het datasheet van het exacte type meesturen bij de offerte, en laat rendement, cycli en garantietermijn in de offerte zelf opnemen. Dat is niet lastig gevraagd — het is het gegeven waarop je de rest van je berekening bouwt.
 
-### Voor grote huishoudens of off-grid ambities
-Modulair systeem zoals BYD Battery-Box of Marstek Venus, in combinatie met een hybride-omvormer (Goodwe, SolaX). Investering €12.000-€18.000.
+Eén ding kunnen we wel algemeen zeggen over LFP-cellen, ongeacht merk: laden onder het vriespunt is schadelijk, en batterijmanagementsystemen blokkeren dat daarom. Staat een batterij in een onverwarmde carport of schuur, dan kan hij in de winter weigeren te laden. Dat is bescherming, geen defect — maar het betekent dat je precies in de maanden waarin de spreiding op de dagmarkt het grootst is, minder aan het systeem hebt. Vraag daarom expliciet naar het laadtemperatuurbereik van jouw type voordat je een plaats kiest.
 
-## 7. Rekenvoorbeeld: wat levert een complete opstelling op?
+En één rekenregel: het rendement dat je in de praktijk haalt, ligt onder de datasheetwaarde. Standby-verbruik van de omvormer en conversieverliezen bij deellast tellen mee, en die staan zelden in de opgave. Reken in je eigen model met enkele procentpunten marge onder de fabrieksopgave in plaats van met het opgegeven getal.
 
-Onderstaand voorbeeld is een rekenvoorbeeld met expliciete aannames — geen meting. Vul je eigen cijfers in en de uitkomst verandert mee.
+## De echte keuzevraag bij Solax: DC of AC
 
-Aannames:
+Dit is waar het bij dit merk om draait, en waar de meeste spijt achteraf vandaan komt.
 
-- **Stroomverbruik:** 4.380 kWh per jaar (gezin van 4)
-- **Zonneproductie:** 4.920 kWh (14 panelen, zuid en west)
-- **Teruglevering zonder batterij:** 1.890 kWh
-- **Batterij:** 10 kWh, gemiddelde bruikbare dag-spread €0,18/kWh na belasting
+De Solax-opslagbatterijen zijn onderdeel van een **DC-gekoppeld** systeem: de batterij hangt aan de gelijkstroomzijde van een hybride omvormer van hetzelfde merk. De LD16 heeft daarvoor een eigen DC-scheider aan boord.
 
-Uitkomst van het model: circa €350-€400 aan arbitrage, plus €300 aan slim laden van een EV ten opzichte van een vast tarief. Bij een investering van €11.200 voor panelen, omvormer, batterij en laadpaal komt de terugverdientijd op ongeveer 10 jaar.
+**Voordeel van DC-koppeling:** de zonnestroom gaat rechtstreeks van paneel naar batterij zonder tussenstap van gelijkstroom naar wisselstroom en terug. Dat scheelt een conversieverlies, en het is de reden dat DC-systemen op papier efficiënter zijn.
 
-De spread is de dominante variabele in dit model: halveert die, dan verdwijnt het grootste deel van de arbitragewinst. Na het einde van de saldering verschuift het verdienmodel van teruglevering naar eigen gebruik — daarom wordt sturing op dynamisch tarief belangrijker.
+**Nadeel:** je legt twee aankopen aan hetzelfde merk vast, en niet op hetzelfde moment. Wie in 2020 een Solax-omvormer liet plaatsen en in 2026 een batterij wil bijzetten, zit vast aan wat dan nog compatibel is met die omvormer — en een omvormer gaat volgens fabrikantopgaven doorgaans twaalf tot vijftien jaar mee, korter dan een LFP-batterij. Andersom geldt hetzelfde: gaat je omvormer over acht jaar stuk, dan bepaalt de batterij mede welke vervanger je kunt kiezen.
 
-## 8. Veelgemaakte vragen uit de praktijk
+Een **AC-gekoppelde** batterij werkt achter elke omvormer en kent die afhankelijkheid niet, tegen een paar procentpunt rendementsverlies. Onze afweging: voor wie panelen en batterij in één project laat plaatsen en het merk bewust kiest, is DC verdedigbaar. Voor wie later bijbouwt op een bestaande installatie, weegt de vrijheid van AC in de praktijk zwaarder dan het rendementsverschil. Zie ook [de vergelijking met de BYD Battery-Box](/posts/byd-battery-box-review-2026/), die dezelfde DC-afweging heeft.
 
-**"Mijn installateur zegt dat het niet kan."**
-Vraag een tweede mening. Er zijn installateurs met ervaring met deze setups — zie [de installateur-checklist](/posts/sessy-review-thuisbatterij-nederland/).
+## Waar het bij de installatie op vastloopt
 
-**"Het is te duur."**
-Reken het door met je eigen cijfers. In veel rekenvoorbeelden ligt de terugverdientijd op 6-9 jaar bij een verwachte levensduur van 15-20 jaar. Wat dat als rendement betekent, hangt af van de prijsspreads en de restwaarde — behandel het als een schatting met een brede marge, niet als een gegarandeerd rendement.
+Deze punten komen bij DC-gekoppelde systemen van alle merken terug en zijn het waard om bij de offerte na te vragen:
 
-**"Ik woon in een huurwoning."**
-Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/posts/marstek-venus-review-thuisbatterij/).
-
-## 9. Conclusie
-
-Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
-
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
-
-Verder lezen: [het overzichtsartikel](/posts/tesla-powerwall-review-nederland-2026/), [de rekenmodellen](/posts/huawei-luna-2000-review-2026/) en [de verzamelde gebruikerservaringen](/posts/beste-thuisbatterij-nederland-2026/).
-
-## 10. Technische details: hoe werkt het onder de motorkap?
-
-Hieronder de technische kern voor wie wil begrijpen waaróm dingen werken zoals ze werken bij thuisbatterijen.
-
-### Energiestromen in kaart
-
-Op een gemiddelde voorjaarsdag lopen er vier energiestromen door elkaar: zonneproductie (4-6 kW piek rond het middaguur), huishoudelijk verbruik (basislast rond 350 W, pieken tot 7 kW bij koken), warmtepomp (1,2-2,8 kW modulerend) en EV-laden (3,7 kW of 11 kW). De som van deze stromen bepaalt of je op dat moment kost of verdient.
-
-Zonder slimme sturing lopen deze door elkaar: je warmtepomp draait 's avonds op spitstarief, je batterij is leeg precies wanneer EV-laden begint. Resultaat: je betaalt de piekprijs voor stroom die uren eerder bijna gratis was.
-
-### De rol van forecasting
-
-Tibber, Frank en Home Assistant gebruiken weersvoorspellingen en dag-vooruitprijzen om beslissingen 24 uur vooruit te nemen: laden om 03:00 tot 70% omdat de prijs de volgende dag om 17:00 piekt. Dat is een algoritmische beslissing, geen menselijke.
-
-De kwaliteit van die forecasting bepaalt een aanzienlijk deel van je besparing. Goede platforms gebruiken zowel weersdata als historische verbruiksprofielen; simpele implementaties reageren alleen op de huidige prijs.
-
-### Communicatieprotocollen
-
-Drie protocollen domineren de markt:
-
-- **Modbus TCP** — industrieel, betrouwbaar, lokaal. Vrijwel alle warmtepompen, omvormers en batterijen ondersteunen het.
-- **MQTT** — lichtgewicht message-broker, populair voor IoT. Ideaal voor Home Assistant en zelfbouw-systemen.
-- **REST API (HTTP)** — cloud-only, leverancier-afhankelijk. Werkt overal maar valt uit als internet uitvalt.
-
-Voor toekomstvastheid verdient Modbus TCP de voorkeur boven cloud-API's: lokale besturing blijft werken als een fabrikant zijn cloud uitzet.
-
-## 11. Onderhoud en levensduur
-
-Een vaak vergeten kostencomponent. Indicatieve bedragen op basis van onderhoudscontracten en fabrikantopgaven voor thuisbatterijen:
-
-| Component | Onderhoud/jaar | Levensduur |
-|---|---|---|
-| Zonnepanelen | €0-€50 | 25-30 jaar |
-| Omvormer | €0-€80 | 12-15 jaar |
-| Thuisbatterij (LiFePO4) | €0-€120 | 15-20 jaar |
-| Warmtepomp lucht-water | €175-€275 | 15-20 jaar |
-| Slim laadpaal | €25-€80 | 10-12 jaar |
-
-Belangrijke nuance: garantie en levensduur zijn niet hetzelfde. Een omvormer met 10 jaar garantie gaat volgens fabrikantopgaven doorgaans 12-15 jaar mee. Reken voor je terugverdienberekening met verwachte levensduur, niet met de garantieperiode.
-
-### Wat gaat er kapot?
-
-De faalmodi die installateurs en fabrikant-servicedocumentatie het vaakst noemen, ongeveer in volgorde van frequentie:
-
-1. **Omvormer-koeling.** Stof, ventilatordefect. Eenvoudige reparatie of vervanging na 10 jaar.
-2. **Bypass-diode in panelen.** Bij hotspots door schaduw. Lost zichzelf vaak op of paneel vervangen onder garantie.
-3. **Batterij-BMS.** Zelden, maar bij goedkope merken (geen tier-1) komt het voor.
-4. **Connector-corrosie.** Door slechte installatie. Voorkomen door MC4-vet bij installatie.
-
-Voor preventief onderhoud: zie [de jaaronderhoud-checklist](/posts/thuisbatterij-vergelijking-2026/).
-
-## 12. Wat gaat er veranderen in 2027-2030?
-
-Onze verwachting op basis van wetgeving en marktontwikkeling — geen zekerheden:
-
-**2027: einde saldering.** Zelfconsumptie wordt waardevoller; het verdienmodel van een batterij verschuift van teruglevering naar eigen gebruik en arbitrage.
-
-**2028: bredere V2G-uitrol.** De eerste massamarktauto's ondersteunen bidirectioneel laden; de verwachting is dat bidirectionele laadpalen verder in prijs dalen.
-
-**2029: dynamisch contract als norm.** Vaste contracten worden waarschijnlijk niche, mogelijk in de vorm van dynamisch met prijsplafond.
-
-**2030: strengere eisen bij ketelvervanging.** De richting van het beleid is hybride of volledig elektrisch; hoe de regels exact luiden, hangt af van besluitvorming die nog loopt.
-
-Wie nu investeert in toekomstvaste hardware (open protocollen, AC-gekoppelde batterij, modulaire warmtepomp) staat sterker dan wie kiest voor gesloten cloud-systemen. Lees ook [de beleidsanalyse](/posts/pylontech-thuisbatterij-review-2026/).
-
-## 13. Rekenvoorbeelden per situatie
-
-Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijsindicaties, terugverdientijden volgen uit het model in hoofdstuk 7:
-
-**Situatie A: rijtjeshuis, 2 personen, geen EV, 2.800 kWh verbruik**
-Ga voor 8-10 zonnepanelen + Sessy thuisbatterij (5 kWh) + dynamisch contract. Investering €8.500. Terugverdientijd 6,5 jaar. Geen warmtepomp nodig — eerst isoleren.
-
-**Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Bekijk Marstek</a>.
-
-**Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
-20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.
-
-**Situatie D: appartement, 1-2 personen, 1.800 kWh**
-Geen panelen mogelijk? Begin met een dynamisch contract, een slimme thermostaat en waar mogelijk lokale elektrische bijverwarming. Investering circa €600, besparing in het model €180-€280 per jaar.
-
-## 14. Slot
-
-Verduurzamen is een marathon, geen sprint. Alles in één keer verbouwen levert een lange wachttijd op je terugverdientijd op; per jaar de meest renderende stap zetten werkt beter.
-
-De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
-
-1. Isoleren (kruipruimte, spouwmuur, zolder) — €0-€8.000 — direct comfort en besparing.
-2. Dynamisch contract plus monitoring — €0-€100 — in de meeste modellen €100-€300 per jaar.
-3. Zonnepanelen — €4.000-€8.000 — terugverdientijd 6-8 jaar.
-4. Warmtepomp (hybride of vol) — €4.000-€18.000 — terugverdientijd 7-12 jaar.
-5. Thuisbatterij — €4.000-€10.000 — terugverdientijd 6-9 jaar in de meeste modellen.
-6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
-
-Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
-
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/byd-battery-box-review-2026/) voor verdieping.
-
-## Wat de specificaties zeggen en waar op te letten
-
-Volgens het datasheet van de Triple Power 5.8 in combinatie met een X1 Hybrid-omvormer:
-
-- Nominale capaciteit 5,8 kWh, bruikbaar circa 5,5 kWh
-- Round-trip rendement circa 92% (fabrieksopgave, batterij plus omvormer)
-- Bedrijfstemperatuur laden vanaf 0 °C; onder het vriespunt blokkeert het BMS het laden
-
-Die laatste specificatie is het belangrijkste praktijkpunt. Wie de batterij in een onverwarmde carport, schuur of buitenruimte plaatst, loopt in de winter tegen BMS-afschakelingen aan — dat is geen defect maar bescherming van de cellen. Plaats de unit in een ruimte die boven het vriespunt blijft.
-
-Tweede aandachtspunt: het rendement dat je in de praktijk haalt ligt onder de datasheetwaarde, doordat standby-verbruik van de omvormer en conversieverliezen bij deellast meetellen. Reken in je rekenmodel met enkele procentpunten marge onder de fabrieksopgave in plaats van met het opgegeven getal.
-
-## Veelgemaakte fouten bij Solax-installatie
-
-1. **Verkeerde firmware-versie van omvormer.** Vóór firmware 1.34 communiceerde Triple Power slecht met X1-Hybrid. Update is verplicht.
-2. **Te lage CAN-bus terminator.** Solax vereist 120 ohm-eind, vaak vergeten.
-3. **Geen aarde tussen batterijmodules.** Bij stacking moet PE-rail correct doorlopend zijn — vaak fout.
-4. **Solax Cloud zonder local fallback.** Bij internet-uitval verliest systeem rekenfunctie. Inschakelen "local mode" via installateur.
-5. **Verkeerd dimensioneren omvormer.** X1 Hybrid 3.0 kan slechts 3 kW ontladen — bij grote pieken te beperkt.
+1. **Dimensionering van de omvormer, niet van de batterij.** Een 1-fase hybride omvormer van 3 kW kan maximaal 3 kW ontladen. Kook je terwijl de auto laadt, dan is dat de bindende grens en niet je 5,1 kWh. Vraag naar het continue ontlaadvermogen en leg dat naast je eigen avondpiek uit je P1-data.
+2. **Doorlopende aarde bij het stapelen van modules.** Bij meerdere modules moet de PE-verbinding correct doorlopen. Dit is een standaard controlepunt bij oplevering — laat het aftekenen.
+3. **Correcte busafsluiting op de communicatiekabel.** Batterijmodules communiceren over een bus die aan het einde afgesloten moet worden. Wordt dat vergeten, dan krijg je onregelmatige communicatiefouten die zich als willekeurige uitval voordoen.
+4. **Lokale werking bij internetuitval.** Monitoring en aansturing lopen bij dit merk via de eigen cloudomgeving. Vraag expliciet wat het systeem doet als het internet wegvalt: valt het terug op zelfverbruik, of stopt de sturing? Voor wie op prijs wil sturen is dat een wezenlijk verschil. Zie ook [de platformkeuze voor lokale sturing](/posts/domoticz-vs-home-assistant-energie-2026/).
+5. **1-fase of 3-fase.** Laad je een auto op 11 kW, dan is een 3-fase opstelling doorgaans de enige die de piek aankan. Dit is een keuze die je bij de installatie maakt en later niet goedkoop terugdraait.
 
 ## Wanneer Solax niet de juiste keuze is
 
-Laad je een EV op dezelfde fase, dan is een X1 Hybrid 3.0 of 5.0 volgens de vermogensspecificaties in piekuren snel de beperkende factor. Kies dan Solax X3-Hybrid (3-fase) of een ander merk met meer reserve.
+- **Je hebt al panelen met een omvormer van een ander merk.** Dan kost een DC-gekoppelde Solax je een nieuwe omvormer erbovenop. Een AC-batterij is dan bijna altijd de goedkopere en simpelere route.
+- **Je wil de batterij lokaal aansturen vanuit Home Assistant of een vergelijkbaar platform.** Controleer eerst welke Modbus-registers de fabrikant vrijgeeft; is dat niet gedocumenteerd, dan ben je afhankelijk van de cloud.
+- **Je wil vóór aanschaf een terugverdientijd kunnen berekenen.** Zolang rendement, cycli en garantie niet gepubliceerd zijn en er geen prijs bekend is, kun je dat niet — en een leverancier die die gegevens niet op papier wil zetten, is zelf het antwoord op de vraag.
+- **Je zoekt noodstroom.** Of een systeem bij netuitval doorwerkt, hangt af van de omvormer en van een aparte back-upvoorziening, niet van de batterij. Vraag om een omschrijving van wat er precies blijft werken en wat dat extra kost.
 
-## Extra FAQ
+## Conclusie
 
-**Kan ik later modules toevoegen?**
-Tot 11,6 kWh totaal (2 modules van 5,8 kWh). Boven die grens nieuw rack nodig.
+De Solax Triple Power is geen actueel product meer; wie er nog een tegenkomt, koopt restvoorraad en moet vooral naar garantie en firmwareondersteuning kijken. De LD5 en de LD16 die ervoor in de plaats staan, zijn op papier degelijke LFP-systemen die ver doorschalen — maar Solax publiceert er precies die gegevens niet bij die je nodig hebt om ze met andere merken te vergelijken.
 
-**Wat doet Solax Pocket Wifi/4G dongle?**
-Geeft monitoring via Solax Cloud-app. Werkt redelijk maar logging is beperkt tot 30 dagen — voor jaaranalyse exporteer maandelijks naar CSV.
+Ons oordeel is daarom voorwaardelijk: Solax kan een verstandige keuze zijn als je panelen, omvormer en batterij in één project laat plaatsen bij een installateur die de datasheets, het rendement, het cyclusaantal en de garantietermijn schriftelijk meelevert. Ontbreken die, dan is er geen review — van ons of van iemand anders — die dat gat kan dichten.
+
+Voor een bredere afweging: [de vergelijking van thuisbatterijen in Nederland](/posts/beste-thuisbatterij-nederland-2026/) en, voordat je hardware kiest, [het rekenmodel dat laat zien wat een batterij op een dynamisch contract oplevert](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/).
 
 ---
 
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
-
----
-
-**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).
+**Externe bron:** de productpagina's van [Solax Power](https://www.solaxpower.com/) — geraadpleegd op 21 augustus 2026 voor het actuele batterijassortiment en de bijbehorende specificaties.

@@ -1,9 +1,9 @@
 ---
-title: 'OpenHAB voor zonnepanelen + batterij: praktijkconfig 2026'
+title: 'openHAB voor zonnepanelen en thuisbatterij: things, rules en sitemap'
 date: '2026-08-04 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: OpenHAB als open-source alternatief voor Home Assistant. Een werkende configuratie voor Sessy, zonnepanelen en een dynamisch tarief, met regels en sitemap-voorbeelden.
+description: openHAB als open-source alternatief voor Home Assistant. Werkende voorbeelden van things, items, rules en een sitemap voor zonnepanelen, een thuisbatterij en een dynamisch tarief.
 categories:
 - smart-home
 tags:
@@ -17,300 +17,296 @@ keywords:
 - openhab modbus
 - openhab energie dashboard
 - slim laden openhab
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Werkt mijn warmtepomp met Home Assistant?
-  a: De meeste merken (Quatt, Daikin, Mitsubishi, Atag) hebben Modbus TCP of een open API. Quatt heeft een officiele HA-integratie sinds 2025, Daikin Onecta werkt via cloud-API. Volledig lokale sturing vereist meestal Modbus en een EVOK-relais.
-- q: Wat is het verschil tussen Domoticz, Home Assistant en OpenHAB?
-  a: Home Assistant heeft de grootste community en de meeste integraties (>2.500). Domoticz is lichter en draait prima op een oude Raspberry Pi 3. OpenHAB is technisch sterker voor regels (Java DSL) maar heeft een steile leercurve.
-- q: Heb ik een P1-meter nodig?
-  a: Ja, voor realtime verbruiksdata. Een HomeWizard P1, Smartgateways of een ESP32 met dsmr-leesbril werkt allemaal. Zonder P1 ben je beperkt tot kwartiergegevens van je leverancier.
-- q: Kan ik mijn dynamische contract automatiseren?
-  a: 'Ja. Tibber heeft een officiele HA-integratie, Frank werkt via Frank API of EnergyZero. Je kunt automatiseringen maken zoals: warmtepomp aan tussen 02:00 en 05:00 als prijs onder gemiddelde min 5 cent.'
-- q: Hoe veilig is het om mijn batterij via HA te sturen?
-  a: Zolang je sturing binnen de fabrikant-grenzen blijft (bijv. SoC 10-95 procent) is er geen risico. Bij agressieve patronen kan garantie vervallen — check altijd de voorwaarden van Sessy of Marstek.
+- q: 'Waarom openHAB kiezen en niet Home Assistant?'
+  a: 'Twee redenen komen in de forums structureel terug: je hebt al een openHAB-installatie en migreren is te bewerkelijk, of je wil de Modbus- en Rules-DSL-implementatie van openHAB gebruiken bij industriële apparatuur. Begin je nieuw en wil je alleen energiesturing, dan is Home Assistant of EVCC doorgaans de kortere route — meer kant-en-klare integraties voor consumentenhardware.'
+- q: 'Welke bindings heb ik nodig voor een energieopstelling?'
+  a: 'Meestal drie: de Modbus-binding voor omvormer en batterij, de HTTP-binding voor API''s die geen eigen binding hebben (day-ahead-prijzen, de lokale API van een P1-meter) en een persistence-service zoals InfluxDB of rrd4j om te kunnen graphen. Sommige merken hebben een eigen binding; check altijd de bindings-lijst van jouw openHAB-versie, want de Modbus-binding is tussen major releases gewijzigd.'
+- q: 'Kan ik met openHAB mijn thuisbatterij op prijs laten laden?'
+  a: 'Ja, mits je batterij een lokale schrijfbare interface heeft: Modbus TCP of een gedocumenteerde lokale HTTP-API. Je zet dan de bedrijfsmodus of het laadvermogen vanuit een rule. Batterijen die alleen via de fabrikantcloud te sturen zijn, kun je uitlezen maar niet betrouwbaar aansturen.'
+- q: 'Hoe voorkom ik dat een fout in een rule mijn batterij leegtrekt?'
+  a: 'Bouw drie dingen in: een minimum-SoC waaronder de rule niet meer ontlaadt, een timeout die de modus na maximaal een paar uur terugzet naar automatisch, en caching van de prijsdata zodat een mislukte API-aanroep niet als prijs nul wordt gelezen. Een prijs die als 0 binnenkomt is de klassieke oorzaak van ongewenst laden.'
+- q: 'Op welke hardware draait openHAB stabiel?'
+  a: 'Een x86-mini-pc of NAS met SSD is de veilige keuze; een Raspberry Pi met SSD (dus niet op een SD-kaart) werkt voor kleine opstellingen. Reken vooral op geheugen: openHAB draait op de JVM en een setup met persistence en veel items gebruikt beduidend meer RAM dan een lichte installatie.'
 products:
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '0'
-- name: Marstek Venus
-  url: https://go.duurzaamthuislab.nl/marstek
-  price: '0'
+- name: HomeWizard P1-meter
+  url: https://go.duurzaamthuislab.nl/homewizard
+  price: '24.95'
 schema_type: Article
-last_updated: '2026-04-29'
+last_updated: '2026-08-21'
 ---
-*Disclosure: de links naar Marstek en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
-
-"OpenHAB voor zonnepanelen + batterij — werkt dat in de praktijk?" is een van de vaakst gestelde vragen over dit onderwerp. Hieronder zetten we op een rij wat de specificaties, handleidingen en publieke data zeggen, en waar de praktijk afwijkt van de brochure.
-
-
-> **Kort antwoord:** OpenHAB is een open-source alternatief voor Home Assistant. Hieronder een werkende configuratie voor Sessy, zonnepanelen en een dynamisch tarief, met regels en sitemap-voorbeelden.
->
-> De meeste merken (Quatt, Daikin, Mitsubishi, Atag) hebben Modbus TCP of een open API. Quatt heeft een officiele HA-integratie sinds 2025, Daikin Onecta werkt via cloud-API. Volledig lokale sturing vereist meestal Modbus en een EVOK-relais.
-
-## Korte conclusie
-
-Voor wie weinig tijd heeft, de samenvatting in vijf punten.
-
-- **Werkt het?** Ja, mits je de juiste setup hebt — uitleg verderop.
-- **Kosten?** Tussen €0 en €2.500 afhankelijk van scope.
-- **Terugverdientijd?** 2-7 jaar in de meeste gevallen.
-- **Beste keuze 2026?** Vaak Sessy thuisbatterij — zie [de uitgebreide uitleg](/posts/smart-home-energiebeheer-2026/).
-- **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
-
-> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> en bouw stapsgewijs uit — niet alles in één keer.
-
-## 1. Wat is het probleem?
-
-Zonnepanelen en een warmtepomp leveren op zichzelf besparing op, maar zonder sturing blijft er geld liggen: apparaten draaien op de duurste uren en de batterij is leeg precies wanneer de prijs piekt. Dat speelt vooral bij dynamische contracten en smart-home.
-
-De kern: smart-home is niet plug-and-play. Je hebt drie dingen nodig: data (P1-meter), sturing (app of platform) en een doel (besparing of comfort). Mis je één van deze drie, dan blijft het rendement achter.
-
-Voor context — zie ook [het bredere plaatje](/posts/beste-energiemonitor-p1-meter-2026/) en [wat het einde van saldering betekent](/posts/sessy-software-update-2026-radar/).
-
-## 2. Wat heb je nodig?
-
-Een werkende opstelling bestaat uit vier componenten:
-
-1. **Slimme meter met werkende P1-poort.** Sinds 2018 standaard in NL.
-2. **Realtime energiemonitor** (HomeWizard P1, Sessy P1, of Smartgateways).
-3. **Een apparaat of contract om op te sturen**, bijvoorbeeld Sessy thuisbatterij.
-4. **Een platform of app.** Tibber, Frank, Home Assistant of OpenHAB.
-
-De fout die in gebruikersforums het vaakst terugkomt: stap 4 overslaan. Zonder platform heb je losse apparaten die elkaar niet kennen. Je warmtepomp gaat aan terwijl je batterij oplaadt — dubbel gebruik, dubbele kosten.
-
-Lees ook: [de gedetailleerde guide](/posts/tibber-review-ervaringen-2026/) en [de vergelijking in de praktijk](/posts/frank-energie-vs-tibber-2026/).
-
-## 3. Stap-voor-stap aanpak
-
-### Stap 1: meet eerst
-
-Voordat je iets koopt: meet je verbruik in kwartiergegevens. Bij Frank, Tibber of via je leverancier-portal kun je 365 dagen historie downloaden. Plot dit in Excel — je ziet meteen waar de pieken zitten.
-
-In een gemiddeld gezinsprofiel liggen de pieken rond 07:00-09:00 (douche en ontbijt) en 17:00-21:00 (koken en EV laden). Dat zijn ook de duurste uren op een dynamisch contract.
-
-### Stap 2: bepaal het doel
-
-Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden leveren al een groot deel van de winst; de batterij voegt daar arbitrage en extra zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, moet je met je eigen verbruikscijfers narekenen — bij een klein prijsverschil per jaar loopt de terugverdientijd van een batterij snel op tot ver boven de tien jaar.
-
-Reken het voor jezelf door — zie [het rekenmodel](/posts/dynamische-energiecontracten-thuisbatterij-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Bekijk Marstek</a> voor concrete prijzen.
-
-### Stap 3: koop de juiste hardware
-
-Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is overkill tenzij je een EV thuis laadt of een groot huishouden hebt. Voor warmtepompen: kies op vermogen + COP, niet op merk.
-
-Onze inschatting per scenario:
-
-- **Klein huis, geen EV:** een 5 kWh batterij — circa €3.550 incl. btw, excl. installatie (Sessy 5 kWh als referentie, prijspeil aug 2026); in de meeste rekenmodellen 6-8 jaar terugverdientijd (modelberekening).
-- **Middelgroot, 1 EV:** 10 kWh batterij plus slim laden op een dynamisch tarief.
-- **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Marstek Venus.
-
-### Stap 4: configureer het platform
-
-Dit is waar de meeste mensen vastlopen. Volgens de documentatie en gebruikerservaringen is een fabrikant-app in een kwartier ingericht, Home Assistant kost een avond en OpenHAB aanzienlijk meer. Onze aanbeveling: begin met de fabrikant-app en stap pas over op Home Assistant als je tegen beperkingen aanloopt.
-
-Voor batterij-sturing op dynamisch contract: zie [de uitgebreide uitleg](/posts/sessy-vs-marstek-vergelijking-2026/).
-
-## 4. Wat kost het?
-
-Indicatieve marktprijzen voor 2026, exclusief eventuele subsidies:
-
-| Onderdeel | Kosten | Terugverdientijd |
-|---|---|---|
-| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
-| P1-meter (HomeWizard) | €99 | < 1 jaar |
-| Home Assistant Yellow | €199 | n.v.t. (tool) |
-| Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
-| Marstek Venus | €0-€2.000 | varieert |
-
-Voor een volledige kostenberekening: zie [de uitgebreide berekening](/posts/beste-thuisbatterij-nederland-2026/). Daar staan ook subsidies op een rij.
-
-## 5. Drie valkuilen bij de aanschaf
-
-**Valkuil 1: te groot kopen.** Een batterij die groter is dan je dagelijkse nuttige doorzet, staat een deel van het jaar stil. Bereken eerst hoeveel kWh je per dag daadwerkelijk kunt verschuiven; dat is bijna altijd minder dan de nominale capaciteit.
-
-**Valkuil 2: vendor lock-in.** Bij DC-gekoppelde batterijen (Goodwe, Huawei, SolaX) zit je vast aan dat merk omvormer. Bij AC-gekoppeld (Sessy, Marstek, Powerwall) ben je vrij. Voor toekomstvastheid heeft AC onze voorkeur.
-
-**Valkuil 3: geen meetbaar doel.** "Ik wil verduurzamen" is geen doel. "€500 per jaar besparen" wel. Maak het concreet, anders koop je verkeerde spullen.
-
-## 6. Welk product past bij wie?
-
-### Voor budgetbewuste huishoudens
-Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>
-
-### Voor early adopters die alles slim willen
-Combineer Sessy thuisbatterij met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd 2-4 uur, levert structureel 15-25 procent meer besparing.
-
-### Voor grote huishoudens of off-grid ambities
-Modulair systeem zoals BYD Battery-Box of Marstek Venus, in combinatie met een hybride-omvormer (Goodwe, SolaX). Investering €12.000-€18.000.
-
-## 7. Rekenvoorbeeld: wat levert een complete opstelling op?
-
-Onderstaand voorbeeld is een rekenvoorbeeld met expliciete aannames — geen meting. Vul je eigen cijfers in en de uitkomst verandert mee.
-
-Aannames:
-
-- **Stroomverbruik:** 4.380 kWh per jaar (gezin van 4)
-- **Zonneproductie:** 4.920 kWh (14 panelen, zuid en west)
-- **Teruglevering zonder batterij:** 1.890 kWh
-- **Batterij:** 10 kWh, gemiddelde bruikbare dag-spread €0,18/kWh na belasting
-
-Uitkomst van het model: circa €350-€400 aan arbitrage, plus €300 aan slim laden van een EV ten opzichte van een vast tarief. Bij een investering van €11.200 voor panelen, omvormer, batterij en laadpaal komt de terugverdientijd op ongeveer 10 jaar.
-
-De spread is de dominante variabele in dit model: halveert die, dan verdwijnt het grootste deel van de arbitragewinst. Na het einde van de saldering verschuift het verdienmodel van teruglevering naar eigen gebruik — daarom wordt sturing op dynamisch tarief belangrijker.
-
-## 8. Veelgemaakte vragen uit de praktijk
-
-**"Mijn installateur zegt dat het niet kan."**
-Vraag een tweede mening. Er zijn installateurs met ervaring met deze setups — zie [de installateur-checklist](/posts/smart-home-energiebeheer-2026/).
-
-**"Het is te duur."**
-Reken het door met je eigen cijfers. In veel rekenvoorbeelden ligt de terugverdientijd op 6-9 jaar bij een verwachte levensduur van 15-20 jaar. Wat dat als rendement betekent, hangt af van de prijsspreads en de restwaarde — behandel het als een schatting met een brede marge, niet als een gegarandeerd rendement.
-
-**"Ik woon in een huurwoning."**
-Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/posts/beste-energiemonitor-p1-meter-2026/).
-
-## 9. Conclusie
-
-Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
-
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
-
-Verder lezen: [het overzichtsartikel](/posts/sessy-software-update-2026-radar/), [de rekenmodellen](/posts/tibber-review-ervaringen-2026/) en [de verzamelde gebruikerservaringen](/posts/frank-energie-vs-tibber-2026/).
-
-## 10. Technische details: hoe werkt het onder de motorkap?
-
-Hieronder de technische kern voor wie wil begrijpen waaróm dingen werken zoals ze werken bij smart-home.
-
-### Energiestromen in kaart
-
-Op een gemiddelde voorjaarsdag lopen er vier energiestromen door elkaar: zonneproductie (4-6 kW piek rond het middaguur), huishoudelijk verbruik (basislast rond 350 W, pieken tot 7 kW bij koken), warmtepomp (1,2-2,8 kW modulerend) en EV-laden (3,7 kW of 11 kW). De som van deze stromen bepaalt of je op dat moment kost of verdient.
-
-Zonder slimme sturing lopen deze door elkaar: je warmtepomp draait 's avonds op spitstarief, je batterij is leeg precies wanneer EV-laden begint. Resultaat: je betaalt de piekprijs voor stroom die uren eerder bijna gratis was.
-
-### De rol van forecasting
-
-Tibber, Frank en Home Assistant gebruiken weersvoorspellingen en dag-vooruitprijzen om beslissingen 24 uur vooruit te nemen: laden om 03:00 tot 70% omdat de prijs de volgende dag om 17:00 piekt. Dat is een algoritmische beslissing, geen menselijke.
-
-De kwaliteit van die forecasting bepaalt een aanzienlijk deel van je besparing. Goede platforms gebruiken zowel weersdata als historische verbruiksprofielen; simpele implementaties reageren alleen op de huidige prijs.
-
-### Communicatieprotocollen
-
-Drie protocollen domineren de markt:
-
-- **Modbus TCP** — industrieel, betrouwbaar, lokaal. Vrijwel alle warmtepompen, omvormers en batterijen ondersteunen het.
-- **MQTT** — lichtgewicht message-broker, populair voor IoT. Ideaal voor Home Assistant en zelfbouw-systemen.
-- **REST API (HTTP)** — cloud-only, leverancier-afhankelijk. Werkt overal maar valt uit als internet uitvalt.
-
-Voor toekomstvastheid verdient Modbus TCP de voorkeur boven cloud-API's: lokale besturing blijft werken als een fabrikant zijn cloud uitzet.
-
-## 11. Onderhoud en levensduur
-
-Een vaak vergeten kostencomponent. Indicatieve bedragen op basis van onderhoudscontracten en fabrikantopgaven voor smart-home:
-
-| Component | Onderhoud/jaar | Levensduur |
-|---|---|---|
-| Zonnepanelen | €0-€50 | 25-30 jaar |
-| Omvormer | €0-€80 | 12-15 jaar |
-| Thuisbatterij (LiFePO4) | €0-€120 | 15-20 jaar |
-| Warmtepomp lucht-water | €175-€275 | 15-20 jaar |
-| Slim laadpaal | €25-€80 | 10-12 jaar |
-
-Belangrijke nuance: garantie en levensduur zijn niet hetzelfde. Een omvormer met 10 jaar garantie gaat volgens fabrikantopgaven doorgaans 12-15 jaar mee. Reken voor je terugverdienberekening met verwachte levensduur, niet met de garantieperiode.
-
-### Wat gaat er kapot?
-
-De faalmodi die installateurs en fabrikant-servicedocumentatie het vaakst noemen, ongeveer in volgorde van frequentie:
-
-1. **Omvormer-koeling.** Stof, ventilatordefect. Eenvoudige reparatie of vervanging na 10 jaar.
-2. **Bypass-diode in panelen.** Bij hotspots door schaduw. Lost zichzelf vaak op of paneel vervangen onder garantie.
-3. **Batterij-BMS.** Zelden, maar bij goedkope merken (geen tier-1) komt het voor.
-4. **Connector-corrosie.** Door slechte installatie. Voorkomen door MC4-vet bij installatie.
-
-Voor preventief onderhoud: zie [de jaaronderhoud-checklist](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
-
-## 12. Wat gaat er veranderen in 2027-2030?
-
-Onze verwachting op basis van wetgeving en marktontwikkeling — geen zekerheden:
-
-**2027: einde saldering.** Zelfconsumptie wordt waardevoller; het verdienmodel van een batterij verschuift van teruglevering naar eigen gebruik en arbitrage.
-
-**2028: bredere V2G-uitrol.** De eerste massamarktauto's ondersteunen bidirectioneel laden; de verwachting is dat bidirectionele laadpalen verder in prijs dalen.
-
-**2029: dynamisch contract als norm.** Vaste contracten worden waarschijnlijk niche, mogelijk in de vorm van dynamisch met prijsplafond.
-
-**2030: strengere eisen bij ketelvervanging.** De richting van het beleid is hybride of volledig elektrisch; hoe de regels exact luiden, hangt af van besluitvorming die nog loopt.
-
-Wie nu investeert in toekomstvaste hardware (open protocollen, AC-gekoppelde batterij, modulaire warmtepomp) staat sterker dan wie kiest voor gesloten cloud-systemen. Lees ook [de beleidsanalyse](/posts/sessy-vs-marstek-vergelijking-2026/).
-
-## 13. Rekenvoorbeelden per situatie
-
-Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijsindicaties, terugverdientijden volgen uit het model in hoofdstuk 7:
-
-**Situatie A: rijtjeshuis, 2 personen, geen EV, 2.800 kWh verbruik**
-Ga voor 8-10 zonnepanelen + Sessy thuisbatterij (5 kWh) + dynamisch contract. Investering €8.500. Terugverdientijd 6,5 jaar. Geen warmtepomp nodig — eerst isoleren.
-
-**Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Bekijk Marstek</a>.
-
-**Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
-20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.
-
-**Situatie D: appartement, 1-2 personen, 1.800 kWh**
-Geen panelen mogelijk? Begin met een dynamisch contract, een slimme thermostaat en waar mogelijk lokale elektrische bijverwarming. Investering circa €600, besparing in het model €180-€280 per jaar.
-
-## 14. Slot
-
-Verduurzamen is een marathon, geen sprint. Alles in één keer verbouwen levert een lange wachttijd op je terugverdientijd op; per jaar de meest renderende stap zetten werkt beter.
-
-De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
-
-1. Isoleren (kruipruimte, spouwmuur, zolder) — €0-€8.000 — direct comfort en besparing.
-2. Dynamisch contract plus monitoring — €0-€100 — in de meeste modellen €100-€300 per jaar.
-3. Zonnepanelen — €4.000-€8.000 — terugverdientijd 6-8 jaar.
-4. Warmtepomp (hybride of vol) — €4.000-€18.000 — terugverdientijd 7-12 jaar.
-5. Thuisbatterij — €4.000-€10.000 — terugverdientijd 6-9 jaar in de meeste modellen.
-6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
-
-Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
-
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/beste-thuisbatterij-nederland-2026/) voor verdieping.
+*Disclosure: de link naar HomeWizard in dit artikel is een affiliate-link (via Daisycon). Koop je daarvia, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Met de overige genoemde merken (Sessy, SMA, BYD) hebben wij géén commissie- of affiliaterelatie; de link naar Sessy levert ons niets op. HomeWizard-prijs: homewizard.com, prijspeil augustus 2026.*
+
+> **Kort antwoord:** in openHAB bouw je een energieopstelling op in vier lagen: **things** (verbinding met omvormer, batterij en prijsbron), **items** (de meetwaarden en stuurgrepen), **rules** (wanneer laden en ontladen) en een **sitemap** (het dashboard). Hieronder van elke laag een werkend voorbeeld dat je kunt aanpassen aan je eigen hardware.
+
+## Wat je nodig hebt
+
+- **openHAB 4.x** op een machine die 24/7 aan staat.
+- De **Modbus-binding** voor omvormer en batterij. Let op: de configuratiesyntax van deze binding is tussen major versies gewijzigd — kopieer geen voorbeelden uit oude forumposts zonder te checken voor welke versie ze zijn.
+- De **HTTP-binding** voor alles zonder eigen binding: day-ahead-prijzen en de lokale API van een P1-meter.
+- Een **persistence-service** (rrd4j is standaard, InfluxDB als je langere reeksen en Grafana wil).
+- Een **P1-meter** om te kunnen controleren of je sturing werkelijk iets doet. De HomeWizard P1 heeft een gedocumenteerde lokale API die je zonder cloud kunt uitlezen. <a href="https://go.duurzaamthuislab.nl/homewizard?ref=/posts/openhab-zonnepanelen-batterij-sturing-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de HomeWizard P1-meter (€24,95)</a>
+
+Voor de batterij geldt dezelfde regel als bij Home Assistant: je kunt alleen sturen wat lokaal schrijfbaar is. Sessy documenteert een open API voor koppeling met domotica; Modbus TCP is bij omvormers (SMA, SolarEdge, Huawei, Goodwe) de gebruikelijke route. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Sessy</a> — wij verdienen niets aan deze link.
+
+## Laag 1: things
+
+Twee dingen tegelijk: de Modbus-verbinding met omvormer en batterij, en de HTTP-verbinding voor de prijsdata.
+
+```java
+// things/energie.things
+
+// Omvormer via Modbus TCP
+Bridge modbus:tcp:omvormer [ host="192.168.1.50", port=502, id=3 ] {
+    Bridge poller pvData [ start=30775, length=6, refresh=5000, type="input" ] {
+        Thing data pvVermogen  [ readStart="30775", readValueType="int32" ]
+        Thing data pvDagTotaal [ readStart="30777", readValueType="uint32", readTransform="JS:divide1000.js" ]
+    }
+}
+
+// Batterij via Modbus TCP (registeradressen zijn voorbeelden — zie het
+// Modbus-document van jouw fabrikant; verkeerde adressen schrijven is riskant)
+Bridge modbus:tcp:batterij [ host="192.168.1.60", port=502, id=1 ] {
+    Bridge poller battStatus [ start=0, length=8, refresh=5000, type="holding" ] {
+        Thing data soc      [ readStart="0", readValueType="uint16" ]
+        Thing data vermogen [ readStart="2", readValueType="int16" ]
+    }
+    Bridge poller battControl [ start=100, length=2, refresh=10000, type="holding" ] {
+        Thing data setpoint [ readStart="100", readValueType="int16",
+                              writeStart="100", writeValueType="int16", writeType="holding" ]
+    }
+}
+
+// Day-ahead-prijzen via de HTTP-binding: hele JSON als string binnenhalen
+Thing http:url:prijzen "Day-ahead prijzen" [
+    baseURL="https://beheer.wtdigital.nl/api/public/stroomprijzen",
+    refresh=900,
+    timeout=5000
+] {
+    Channels:
+        Type string : json [ stateTransformation="JSONPATH:$" ]
+        Type number : gemiddelde [ stateTransformation="JSONPATH:$.gemiddelde" ]
+}
+
+// Lokale API van de P1-meter
+Thing http:url:p1 "P1-meter" [
+    baseURL="http://192.168.1.70/api/v1/data",
+    refresh=10000
+] {
+    Channels:
+        Type number : verbruikNu [ stateTransformation="JSONPATH:$.active_power_w" ]
+}
+```
+
+De prijsbron in dit voorbeeld is onze eigen open endpoint. Die geeft per uur de kale day-ahead-prijs terug (EPEX inclusief btw, **exclusief** energiebelasting en inkoopvergoeding). Voor sturing maakt dat niet uit — de belasting is elk uur gelijk, dus de spread tussen uren blijft hetzelfde — maar reken je je besparing uit, tel dan €0,11085 energiebelasting per kWh (inclusief btw, tarief 2026) plus de opslag van je leverancier erbij.
+
+## Laag 2: items
+
+```java
+// items/energie.items
+
+Group gEnergie
+Group:Number:AVG gPrijs
+
+Number:Power     PV_Vermogen      "Zonneproductie [%.0f W]"      <solarplant> (gEnergie)
+    { channel="modbus:data:omvormer:pvData:pvVermogen:number" }
+Number:Energy    PV_DagTotaal     "Opbrengst vandaag [%.1f kWh]" <energy>     (gEnergie)
+    { channel="modbus:data:omvormer:pvData:pvDagTotaal:number" }
+
+Number           Batterij_SOC     "Batterij [%.0f %%]"           <battery>    (gEnergie)
+    { channel="modbus:data:batterij:battStatus:soc:number" }
+Number:Power     Batterij_Vermogen "Batterijvermogen [%.0f W]"   <energy>     (gEnergie)
+    { channel="modbus:data:batterij:battStatus:vermogen:number" }
+Number           Batterij_Setpoint "Setpoint [%.0f W]"           <energy>
+    { channel="modbus:data:batterij:battControl:setpoint:number" }
+String           Batterij_Modus   "Modus [%s]"                   <settings>
+
+Number:Power     P1_VerbruikNu    "Netafname [%.0f W]"           <energy>     (gEnergie)
+    { channel="http:url:p1:verbruikNu:number" }
+
+String           Prijs_Json       "Prijzen JSON [%s]"
+    { channel="http:url:prijzen:json" }
+Number           Prijs_Gemiddeld  "Gemiddelde dagprijs [%.3f EUR/kWh]" <price> (gPrijs)
+    { channel="http:url:prijzen:gemiddelde:number" }
+Number           Prijs_Nu         "Prijs dit uur [%.3f EUR/kWh]"       <price> (gPrijs)
+Switch           Goedkoop_Uur     "Goedkoop uur [%s]"                  <price>
+```
+
+`Prijs_Nu` en `Goedkoop_Uur` hebben geen channel: die vult de rule hieronder, uit de JSON die de HTTP-binding ophaalt.
+
+## Laag 3: rules
+
+Voorbeeld in de klassieke Rules DSL (bestand `rules/energie.rules`). Werk je met de nieuwe JS-scripting-add-on, dan is de logica dezelfde maar de syntax anders.
+
+```java
+// rules/energie.rules
+
+rule "Prijs van dit uur uit de JSON halen"
+when
+    Item Prijs_Json changed or
+    Time cron "0 1 * * * ?"
+then
+    val json = Prijs_Json.state.toString
+    if (json === null || json.length < 10) {
+        logWarn("energie", "Geen prijsdata — sturing blijft op automatisch")
+        return;
+    }
+    val uur = now.getHour
+    val prijs = transform("JSONPATH", "$.uren[" + uur + "].prijs", json)
+    if (prijs === null || prijs == "") {
+        logWarn("energie", "Uur " + uur + " niet gevonden in prijsdata")
+        return;
+    }
+    Prijs_Nu.postUpdate(Float::parseFloat(prijs))
+
+    val gem = (Prijs_Gemiddeld.state as Number).floatValue
+    if (Float::parseFloat(prijs) < (gem - 0.05)) {
+        Goedkoop_Uur.postUpdate(ON)
+    } else {
+        Goedkoop_Uur.postUpdate(OFF)
+    }
+end
+
+rule "Batterij laden in de goedkoopste uren"
+when
+    Item Goedkoop_Uur changed to ON
+then
+    val soc = (Batterij_SOC.state as Number).intValue
+    if (soc >= 95) {
+        logInfo("energie", "Batterij vol — niet laden")
+        return;
+    }
+    // Positief setpoint = laden. Blijf onder het maximale laadvermogen
+    // dat je fabrikant opgeeft; buiten die grenzen kan garantie vervallen.
+    Batterij_Setpoint.sendCommand(2000)
+    Batterij_Modus.postUpdate("LADEN")
+end
+
+rule "Ontladen op de dagpiek, met ondergrens"
+when
+    Item Prijs_Nu changed
+then
+    val prijs = (Prijs_Nu.state as Number).floatValue
+    val gem   = (Prijs_Gemiddeld.state as Number).floatValue
+    val soc   = (Batterij_SOC.state as Number).intValue
+
+    if (prijs > (gem + 0.05) && soc > 20) {
+        Batterij_Setpoint.sendCommand(-1700)   // negatief = ontladen
+        Batterij_Modus.postUpdate("ONTLADEN")
+    } else if (soc <= 20) {
+        Batterij_Setpoint.sendCommand(0)
+        Batterij_Modus.postUpdate("AUTO")
+    }
+end
+
+rule "Failsafe: nooit langer dan drie uur handmatig gestuurd"
+when
+    Time cron "0 */15 * * * ?"
+then
+    if (Batterij_Modus.state.toString != "AUTO") {
+        val minuten = (now.toEpochSecond() -
+            (Batterij_Modus.lastUpdate("rrd4j").toEpochSecond())) / 60
+        if (minuten > 180) {
+            Batterij_Setpoint.sendCommand(0)
+            Batterij_Modus.postUpdate("AUTO")
+            logWarn("energie", "Failsafe: modus teruggezet naar automatisch")
+        }
+    }
+end
+
+rule "Waarschuwing bij verouderde prijsdata"
+when
+    Time cron "0 30 * * * ?"
+then
+    if (Prijs_Gemiddeld.state == NULL || Prijs_Gemiddeld.state == UNDEF) {
+        Batterij_Setpoint.sendCommand(0)
+        Batterij_Modus.postUpdate("AUTO")
+        logWarn("energie", "Prijsbron onbereikbaar — sturing uitgeschakeld")
+    }
+end
+```
+
+De laatste twee rules zijn geen luxe. Een prijs die als `0` of `NULL` binnenkomt bij een mislukte API-aanroep is de meest voorkomende oorzaak van een batterij die op het duurste moment gaat laden.
+
+Voor de `lastUpdate`-aanroep heb je persistence nodig:
+
+```java
+// persistence/rrd4j.persist
+Strategies {
+    everyMinute : "0 * * * * ?"
+    default = everyChange
+}
+Items {
+    gEnergie*, gPrijs*, Batterij_Modus : strategy = everyChange, everyMinute, restoreOnStartup
+}
+```
+
+## Laag 4: sitemap
+
+```java
+// sitemaps/energie.sitemap
+
+sitemap energie label="Energie" {
+    Frame label="Nu" {
+        Text   item=PV_Vermogen      icon="solarplant"
+        Text   item=P1_VerbruikNu    icon="energy"
+        Text   item=Batterij_SOC     icon="battery"
+        Text   item=Batterij_Vermogen
+    }
+    Frame label="Prijs" {
+        Text   item=Prijs_Nu         icon="price"
+        Text   item=Prijs_Gemiddeld
+        Text   item=Goedkoop_Uur     icon="price"
+    }
+    Frame label="Sturing" {
+        Selection item=Batterij_Modus icon="settings"
+            mappings=["AUTO"="Automatisch", "LADEN"="Laden", "ONTLADEN"="Ontladen"]
+        Setpoint  item=Batterij_Setpoint minValue=-1700 maxValue=2200 step=100
+    }
+    Frame label="Vandaag" {
+        Chart  item=PV_Vermogen      period=D refresh=60000
+        Chart  item=Batterij_SOC     period=D refresh=60000
+        Chart  item=Prijs_Nu         period=D refresh=300000
+    }
+    Frame label="Week" {
+        Chart  item=PV_DagTotaal     period=W
+    }
+}
+```
+
+De `Setpoint`-grenzen in dit voorbeeld (2.200 W laden, 1.700 W ontladen) zijn de opgaven van één specifieke batterij. Vul hier de waarden van je eigen toestel in; sturen buiten de fabrieksgrenzen is de snelste manier om een garantiediscussie te krijgen.
+
+## Wat levert het op? Een modelberekening
+
+Onderstaande cijfers zijn een modelberekening met expliciete aannames, geen meting.
+
+Aannames: een batterij van 10 kWh, een dynamisch contract en een verschuifbaar volume van ongeveer 1.350 kWh per jaar (10 kWh × 150 zoncycli, begrensd door overschot en afname), retourrendement 90 procent. Bij een all-in inkoopprijs van €0,26/kWh (EPEX €0,105 + energiebelasting €0,11085 + €0,044 opslag en vaste-kostenomslag, alles inclusief btw, de opslag is een gelabelde aanname) en een aangenomen terugleververgoeding van €0,07/kWh vanaf 2027, komt de waarde van zelfverbruik uit op circa €230 per jaar. Daar bovenop rekenen wij €8 per kWh capaciteit per jaar aan netarbitrage — een eigen afleiding uit ongeveer 100 wintercycli met €0,10 netto spreiding, alleen haalbaar op een dynamisch contract — dus €80. Samen circa **€310 per jaar** voor een systeem van 10 kWh.
+
+Wat openHAB daar precies aan toevoegt, is niet los te meten: de batterij zou met de eigen fabrieksregeling ook een deel van dat bedrag halen. De winst van eigen sturing zit in de uren die de fabrieksregeling laat liggen, en die winst is voor iedereen anders. Wie een percentage noemt zonder je eigen kwartiergegevens te kennen, verzint het.
+
+Reken het door met je eigen cijfers: zie [de terugverdientijd-vergelijker voor thuisbatterijen](/thuisbatterij-terugverdientijd-vergelijken/) en [de day-ahead-prijzen per uur](/stroomprijzen/).
 
 ## Voorbeeldopzet: openHAB met SMA-omvormer en BYD-batterij
 
-Een opzet die met publiek beschikbare bindings te bouwen is: openHAB 4.x op een NAS of NUC, een SMA Sunny Boy via de SMA-binding, een BYD Battery-Box via Modbus TCP, en dag-vooruitprijzen via een leveranciers-binding. Van daaruit stuur je zowel batterij-laden als EV-laden met regels.
+Een opzet die met publiek beschikbare bindings te bouwen is: openHAB 4.x op een NAS of mini-pc, een SMA Sunny Boy via Modbus (SMA documenteert zijn Modbus-profiel), een BYD Battery-Box via Modbus TCP, en de day-ahead-prijzen via de HTTP-binding zoals hierboven. Van daaruit stuur je zowel batterij-laden als EV-laden met rules.
 
-Wat je met zo'n opzet kunt bereiken, is een aanzienlijk hogere zelfconsumptie dan zonder sturing — hoe hoog precies, hangt af van je verbruikprofiel, de batterijcapaciteit en hoeveel van je verbruik verschuifbaar is. Reken het door met je eigen kwartiergegevens.
+Wat je met zo'n opzet bereikt is een hogere zelfconsumptie dan zonder sturing — hoe hoog precies, hangt af van je verbruikprofiel, de batterijcapaciteit en hoeveel van je verbruik verschuifbaar is. Reken het door met je eigen kwartiergegevens.
 
-Waarom openHAB en niet Home Assistant? Twee redenen komen in de forums structureel terug: een bestaande openHAB-installatie waarvan migreren te bewerkelijk is, en de voorkeur voor openHAB's Modbus-implementatie bij industriële apparatuur. Voor wie nieuw begint met alleen energiesturing is Home Assistant of EVCC doorgaans de eenvoudigere route.
+## Veelgemaakte fouten in een openHAB-energiestack
 
-## Veelgemaakte fouten in openHAB-energiestack
-
-1. **Modbus-binding te oud.** v3.0 was buggy met BYD; minimaal v4.1 vereist.
-2. **Persistence niet ingesteld.** Zonder InfluxDB+Grafana mis je grafieken — tekst-only logs zijn ondoorzoekbaar.
-3. **Rules in JavaScript zonder typecheck.** Run-time errors die op middernacht stuk gaan.
-4. **EPEX-prijs niet gecached.** Bij rate-limit Tibber-API blokkeer je je hele sturing.
-5. **Geen failsafe voor batterij-soc.** Bij rule-bug kan batterij naar 0 procent zakken — bouw min-SOC=20 procent altijd in.
+1. **Voorbeelden van de verkeerde versie kopiëren.** De Modbus-binding heeft tussen major releases een andere configuratiesyntax gehad; oude forumvoorbeelden geven cryptische fouten. Check altijd voor welke openHAB-versie een voorbeeld is geschreven.
+2. **Geen persistence ingesteld.** Zonder rrd4j of InfluxDB heb je geen grafieken, geen `lastUpdate` en dus ook geen bruikbare failsafe.
+3. **Rules zonder typecheck en zonder null-check.** `state as Number` op een item dat `NULL` is, laat de hele rule stilvallen — vaak precies op het moment dat je hem nodig hebt.
+4. **Prijsdata niet cachen of niet valideren.** Een mislukte aanroep die als prijs 0 wordt gelezen, laat je batterij op de duurste momenten laden.
+5. **Geen minimum-SoC.** Bouw een ondergrens (bijvoorbeeld 20 procent) in de ontlaadrule, niet alleen in de app van de fabrikant.
+6. **Buiten de fabrieksgrenzen sturen.** Laad- en ontlaadvermogens hebben een maximum. Sturen daarboven kan garantie kosten; check de voorwaarden van je fabrikant.
 
 ## Wanneer openHAB minder geschikt is
 
-Beginners zonder Java/Linux-kennis komen vaker in problemen dan met Home Assistant. Voor pure energie-sturing zonder bredere domotica is EVCC eenvoudiger en doelgerichter.
+Zonder ervaring met Linux, JVM-onderhoud en een teksteditor kom je in openHAB vaker vast te zitten dan in Home Assistant, dat meer via de interface werkt. Wil je uitsluitend slim laden en batterijsturing, dan is EVCC eenvoudiger en doelgerichter. Heb je al een openHAB-installatie met tientallen things voor licht, verwarming en beveiliging, dan is de energiestack erbij bouwen juist de logische keuze.
 
-## Extra FAQ
-
-**Kan ik openHAB en HA naast elkaar?**
-Via een MQTT-bridge kan het, maar het betekent dubbel onderhoud. Onze aanbeveling: kies één platform.
-
-**Welke hardware draait openHAB stabiel 24/7?**
-Synology DS220+ of nieuwer, of een NUC met Linux. Pi 4 met SSD werkt voor kleine setups (10-20 things).
-
----
-
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
-
----
-
-**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).
+Verder lezen: [Home Assistant en een warmtepomp koppelen](/posts/home-assistant-warmtepomp-integratie-2026/), [P1-meters en energiemonitors vergeleken](/posts/beste-energiemonitor-p1-meter-2026/) en [de day-ahead-prijzen per uur](/stroomprijzen/).

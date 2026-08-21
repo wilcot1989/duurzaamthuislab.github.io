@@ -21,7 +21,7 @@ keywords:
 affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509395176047-4a66953fd231&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: 'Heet het model Sessy Pro of Sessy Plus?'
   a: 'Plus. Charged verkoopt de 15 kWh-variant onder de naam Sessy Plus; een model met de naam "Sessy Pro" bestaat niet. Wie een aanbieding voor een "Sessy Pro" krijgt, doet er goed aan te vragen welk model precies bedoeld wordt en het typenummer op de offerte te laten zetten.'

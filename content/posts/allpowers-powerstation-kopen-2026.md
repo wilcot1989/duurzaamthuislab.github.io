@@ -22,7 +22,7 @@ keywords:
 affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1617178803944-31d4d3ef2b6b&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
 - q: Waar staat ALLPOWERS voor in het powerstation-segment?
   a: 'ALLPOWERS positioneert zich onder EcoFlow, Jackery en Bluetti op prijs. Op basis van de prijzen op de Nederlandse webshop (prijspeil augustus 2026) komt het assortiment op circa €0,44 tot €0,77 per Wh uit, waarbij de middenklasse rond €0,44 tot €0,49 per Wh zit. Dat is gunstiger dan wat wij bij vergelijkbare EcoFlow-modellen zien; het merk heeft wel een kleiner ecosysteem en minder onafhankelijke tests achter zich.'

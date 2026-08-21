@@ -1,9 +1,9 @@
 ---
-title: 'EPEX spot-prijzen uitleg 2026: zo werkt jouw dynamisch tarief'
+title: 'EPEX spot-prijzen uitleg 2026: zo ontstaat jouw uurtarief'
 date: '2026-09-11 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: EPEX spot bepaalt je uurprijs bij Tibber, Frank en ANWB. Hoe komt de prijs tot stand, wat zijn negatieve uren, en hoe stuur je erop?
+description: Hoe de day-ahead-veiling van EPEX de uurprijs voor Nederland bepaalt, waarom die prijs negatief kan worden, en wat je leverancier er nog bovenop rekent.
 categories:
 - energiecontracten
 tags:
@@ -22,16 +22,16 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Wat is een terugleverstaffel?
-  a: Een prijssysteem waarbij je hoger tarief voor teruglevering betaalt naarmate je meer teruglevert. Bijvoorbeeld 0-1.500 kWh gratis, 1.501-3.000 kWh kost 6 cent per kWh extra.
-- q: Welke leverancier heeft de laagste terugleverkosten in 2026?
-  a: Frank Energie en Tibber rekenen geen extra staffel — je krijgt direct de spot-prijs. Vast-contract leveranciers (Eneco, Vattenfall) rekenen 9-15 cent per kWh staffel boven 2.500 kWh.
-- q: Hoe werkt EPEX spot prijsvorming?
-  a: EPEX (European Power Exchange) houdt elke dag om 12:00 een veiling voor de 24 uren van de volgende dag. Vraag en aanbod bepalen de uurprijs. Negatieve prijzen ontstaan bij overschot zon/wind en weinig vraag.
-- q: Wanneer is dynamisch goedkoper dan vast?
-  a: Bij verbruik buiten piekuren (18:00-22:00) en/of zonnepanelen + batterij. Voor laagverbruikers zonder slimme apparaten kan vast voordeliger zijn.
-- q: Heb ik een slimme meter nodig?
-  a: 'Voor dynamisch contract: ja, met kwartiergegevens. Bijna alle Nederlandse meters sinds 2018 voldoen. Check via de meterstand-app of je P1-poort werkt.'
+- q: Wat is EPEX precies?
+  a: 'EPEX SPOT is de Europese stroombeurs waarop leveranciers, handelaren en producenten stroom kopen en verkopen. Voor Nederland is vooral de day-ahead-veiling van belang: daar wordt per tijdsblok van de volgende dag één prijs vastgesteld voor de hele Nederlandse biedzone. EPEX is geen leverancier en stuurt jou geen rekening; je leverancier koopt er in en rekent zijn eigen opslagen en de energiebelasting bovenop.'
+- q: Hoe komt de day-ahead-prijs tot stand?
+  a: 'Kopers en verkopers dienen tot 12:00 CET hun biedingen in voor alle tijdsblokken van de volgende dag. Daarna rekent één gekoppeld Europees algoritme de veiling in één keer door en publiceert het de uitkomst in de vroege middag. Het is een blinde veiling: je ziet vooraf niet wat anderen bieden, en er is per tijdsblok één prijs die voor alle deelnemers geldt.'
+- q: Waarom kan de stroomprijs negatief worden?
+  a: Omdat er momenten zijn waarop het goedkoper is om bij te betalen dan om te stoppen met produceren. Zon- en windvermogen heeft vrijwel geen brandstofkosten, en centrales die net stilgelegd en weer opgestart moeten worden hebben daar kosten voor. Valt veel zon of wind samen met lage vraag, dan komt de veiling onder nul uit. In 2025 waren er 212 uren met een negatieve day-ahead-prijs voor Nederland.
+- q: Betaal ik als klant precies de EPEX-prijs?
+  a: 'Nee. Op de beursprijs komen de inkoopvergoeding van je leverancier, de energiebelasting (2026: € 0,11085 per kWh inclusief btw), btw en de vaste kosten voor levering en netbeheer. De netbeheerkosten zijn bij kleinverbruikers een vast bedrag per jaar op basis van je aansluitcapaciteit, geen bedrag per kWh — die zakken dus niet mee als de beursprijs laag is.'
+- q: Waar kan ik de EPEX-uurprijzen zelf zien?
+  a: 'De uurprijzen voor vandaag en morgen staan live op onze pagina stroomprijzen per uur; de prijzen voor morgen verschijnen daar zodra de veiling van 12:00 CET is afgerond. Historische reeksen vanaf 2014 staan in ons eigen energie-archief op de historie-pagina. De onderliggende data is ook publiek op te vragen via het ENTSO-E Transparency Platform.'
 products:
 - name: Tibber
   url: https://go.duurzaamthuislab.nl/tibber
@@ -40,277 +40,125 @@ products:
   url: https://go.duurzaamthuislab.nl/frank-energie
   price: '0'
 schema_type: Article
-last_updated: '2026-04-29'
 ---
-*Disclosure: de links naar Frank Energie en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Tibber en Frank Energie in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en ontvangen geen vergoeding als je bij ze overstapt. Wij vergelijken op basis van publieke data en de eigen tariefpagina's van de leveranciers.*
 
-"EPEX spot-prijzen uitleg 2026 — werkt dat in de praktijk?" is een van de vaakst gestelde vragen over dit onderwerp. Hieronder zetten we op een rij wat de specificaties, handleidingen en publieke data zeggen, en waar de praktijk afwijkt van de brochure.
+> **Kort antwoord:** de prijs die je op een dynamisch contract per uur betaalt, komt uit één veiling. Elke dag om 12:00 CET sluit de day-ahead-veiling van EPEX voor alle tijdsblokken van de volgende dag. Per tijdsblok geldt daarna één prijs voor de hele Nederlandse biedzone, en die prijs wordt gezet door het duurste bod dat nog nodig is om de vraag te dekken — meestal een gascentrale, soms een zonneoverschot dat onder nul moet. Wat jij betaalt is die prijs plus de inkoopvergoeding van je leverancier, de energiebelasting en btw; de vaste netkosten staan er los van.
 
+## Wat EPEX is, en wat het niet is
 
-> **Kort antwoord:** EPEX spot bepaalt je uurprijs bij Tibber, Frank en ANWB. Hoe komt de prijs tot stand, wat zijn negatieve uren, en hoe stuur je erop?
->
-> Een prijssysteem waarbij je hoger tarief voor teruglevering betaalt naarmate je meer teruglevert. Bijvoorbeeld 0-1.500 kWh gratis, 1.501-3.000 kWh kost 6 cent per kWh extra.
+EPEX SPOT is een beurs, geen energieleverancier. Producenten, handelaren en leveranciers kopen en verkopen er stroom voor de korte termijn. Voor huishoudens met een dynamisch contract is precies één product relevant: de **day-ahead-veiling** voor de Nederlandse biedzone. Daar wordt vastgesteld wat een kilowattuur op elk tijdsblok van de volgende dag waard is.
 
-## Korte conclusie
+Twee dingen die daarbij vaak door elkaar lopen:
 
-Voor wie weinig tijd heeft, de samenvatting in vijf punten.
+- **Day-ahead is niet real-time.** De day-ahead-prijs staat een halve dag vóór levering vast. Daarnaast bestaat er een intradaymarkt waarop partijen tot kort voor levering bijkopen en -verkopen, en balanceren netbeheerder en programmaverantwoordelijken de laatste afwijkingen. Huishoudens zitten op de day-ahead-prijs; de rest van de keten zit achter de meterkast.
+- **De beursprijs is niet jouw tarief.** Wie de day-ahead-prijs van vandaag opzoekt en schrikt van hoe laag die is, vergeet de belasting en de opslagen. Verderop staat de volledige opbouw.
 
-- **Werkt het?** Ja, mits je de juiste setup hebt — uitleg verderop.
-- **Kosten?** Tussen €0 en €2.500 afhankelijk van scope.
-- **Terugverdientijd?** 2-7 jaar in de meeste gevallen.
-- **Beste keuze 2026?** Hangt af van je profiel — zie [de uitgebreide uitleg](/posts/dynamische-energiecontracten-vergelijking-2026/).
-- **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
+De actuele uurprijzen voor vandaag en morgen houden wij live bij op [stroomprijzen per uur](/stroomprijzen/), met daarnaast de gasdagprijs op [gasprijs vandaag](/gasprijs/) en een eigen archief met reeksen vanaf 2014 op [stroomprijzen historie](/stroomprijzen-historie/).
 
-> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> en bouw stapsgewijs uit — niet alles in één keer.
+## Zo werkt de day-ahead-veiling stap voor stap
 
-## 1. Wat is het probleem?
+### 1. Bieden tot 12:00 CET
 
-Zonnepanelen en een warmtepomp leveren op zichzelf besparing op, maar zonder sturing blijft er geld liggen: apparaten draaien op de duurste uren en de batterij is leeg precies wanneer de prijs piekt. Dat speelt vooral bij dynamische contracten en energiecontracten.
+Tot 12:00 CET dienen marktpartijen hun biedingen in voor élk tijdsblok van de volgende dag. Verkopers geven aan hoeveel megawatt ze tegen welke prijs willen leveren, kopers hoeveel ze tegen welke prijs willen afnemen. Het is een **blinde veiling**: er is geen doorlopend orderboek waarin je ziet wat de tegenpartij doet, zoals bij een aandelenbeurs.
 
-De kern: energiecontracten is niet plug-and-play. Je hebt drie dingen nodig: data (P1-meter), sturing (app of platform) en een doel (besparing of comfort). Mis je één van deze drie, dan blijft het rendement achter.
+Dat verklaart ook waarom de prijs voor morgen niet geleidelijk ontstaat maar in één keer verschijnt. Er is geen koers die de hele ochtend beweegt — er is één moment waarop alles doorgerekend wordt.
 
-Voor context — zie ook [het bredere plaatje](/posts/frank-energie-vs-tibber-2026/) en [wat het einde van saldering betekent](/posts/tibber-review-ervaringen-2026/).
+### 2. Eén algoritme, één gekoppelde markt
 
-## 2. Wat heb je nodig?
+Na sluiting rekent één Europees algoritme alle biedzones tegelijk door, inclusief de transportcapaciteit tussen die zones. Dat is de reden dat de Nederlandse prijs zelden losstaat van de Duitse of Belgische: zolang er nog transportcapaciteit vrij is, stroomt goedkope stroom naar het dure gebied tot de prijzen gelijk zijn. Pas als een verbinding vol zit, lopen de prijzen uiteen. Nederland is dan geen eiland maar ook geen deelgebied van Duitsland: het is een aparte biedzone die soms met de buren meebeweegt en soms niet.
 
-Een werkende opstelling bestaat uit vier componenten:
+Vandaar ook het antwoord op de veelgestelde vraag waarom de Nederlandse prijs bij veel wind hoger blijft dan de Duitse: als de interconnectie vol zit, kan het Duitse overschot er niet meer bij, en zet in Nederland weer een gascentrale de prijs.
 
-1. **Slimme meter met werkende P1-poort.** Sinds 2018 standaard in NL.
-2. **Realtime energiemonitor** (HomeWizard P1, Sessy P1, of Smartgateways).
-3. **Een apparaat of contract om op te sturen** (batterij, laadpaal, warmtepomp, dynamisch tarief).
-4. **Een platform of app.** Tibber, Frank, Home Assistant of OpenHAB.
+### 3. Merit order: het duurste benodigde bod zet de prijs voor iedereen
 
-De fout die in gebruikersforums het vaakst terugkomt: stap 4 overslaan. Zonder platform heb je losse apparaten die elkaar niet kennen. Je warmtepomp gaat aan terwijl je batterij oplaadt — dubbel gebruik, dubbele kosten.
+Dit is de kern van de prijsvorming, en het onderdeel dat het meest wordt misbegrepen. De veiling sorteert alle verkoopbiedingen van goedkoop naar duur — de **merit order** — en werkt die lijst af tot de vraag gedekt is. Het laatste, duurste bod dat nog nodig is, bepaalt de prijs. Die prijs krijgt vervolgens *iedereen* die verkoopt, ook de goedkoopste aanbieder. Dat heet uniforme of marginale prijsvorming.
 
-Lees ook: [de gedetailleerde guide](/posts/frank-energie-review-ervaringen-2026/) en [de vergelijking in de praktijk](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
+De volgorde in die lijst wordt bepaald door de variabele kosten van produceren:
 
-## 3. Stap-voor-stap aanpak
-
-### Stap 1: meet eerst
-
-Voordat je iets koopt: meet je verbruik in kwartiergegevens. Bij Frank, Tibber of via je leverancier-portal kun je 365 dagen historie downloaden. Plot dit in Excel — je ziet meteen waar de pieken zitten.
-
-In een gemiddeld gezinsprofiel liggen de pieken rond 07:00-09:00 (douche en ontbijt) en 17:00-21:00 (koken en EV laden). Dat zijn ook de duurste uren op een dynamisch contract.
-
-### Stap 2: bepaal het doel
-
-Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden leveren al een groot deel van de winst; de batterij voegt daar arbitrage en extra zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, moet je met je eigen verbruikscijfers narekenen — bij een klein prijsverschil per jaar loopt de terugverdientijd van een batterij snel op tot ver boven de tien jaar.
-
-Reken het voor jezelf door — zie [het rekenmodel](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a> voor concrete prijzen.
-
-### Stap 3: koop de juiste hardware
-
-Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is overkill tenzij je een EV thuis laadt of een groot huishouden hebt. Voor warmtepompen: kies op vermogen + COP, niet op merk.
-
-Onze inschatting per scenario:
-
-- **Klein huis, geen EV:** 5 kWh batterij — marktprijs vanaf circa €3.550 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites); in de meeste rekenmodellen 6-8 jaar terugverdientijd (modelberekening).
-- **Middelgroot, 1 EV:** 10 kWh batterij plus slim laden op een dynamisch tarief.
-- **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Frank Energie.
-
-### Stap 4: configureer het platform
-
-Dit is waar de meeste mensen vastlopen. Volgens de documentatie en gebruikerservaringen is een fabrikant-app in een kwartier ingericht, Home Assistant kost een avond en OpenHAB aanzienlijk meer. Onze aanbeveling: begin met de fabrikant-app en stap pas over op Home Assistant als je tegen beperkingen aanloopt.
-
-Voor batterij-sturing op dynamisch contract: zie [de uitgebreide uitleg](/posts/terugleverkosten-zonnepanelen-2026/).
-
-## 4. Wat kost het?
-
-Indicatieve marktprijzen voor 2026, exclusief eventuele subsidies:
-
-| Onderdeel | Kosten | Terugverdientijd |
+| Positie in de merit order | Type vermogen | Waarom daar |
 |---|---|---|
-| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
-| P1-meter (HomeWizard) | €99 | < 1 jaar |
-| Home Assistant Yellow | €199 | n.v.t. (tool) |
-| Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
-| Frank Energie | €0-€2.000 | varieert |
+| Eerst | Zon en wind | Vrijwel geen brandstofkosten; de zon stuurt geen rekening |
+| Daarna | Kern- en afvalcentrales, warmtekracht | Draaien het liefst constant door; stoppen en opstarten kost geld |
+| Daarna | Gascentrales (STEG) | Brandstofkosten en CO₂-kosten bepalen het bod |
+| Als laatste | Piekvermogen en flexibele vraag | Wordt alleen ingezet als het echt nodig is |
 
-Voor een volledige kostenberekening: zie [de uitgebreide berekening](/posts/dynamisch-vs-vast-contract-2026/). Daar staan ook subsidies op een rij.
+Twee gevolgen die je in de uurprijzen terugziet. Ten eerste: **de gasprijs zit in je stroomprijs**, ook als je stroom groen inkoopt, omdat in Nederland vaak een gascentrale het laatste benodigde bod doet. Ten tweede: **veel zon of wind duwt de hele curve naar rechts**, zodat een goedkopere centrale de prijs zet. Daarom is het middagdal op zonnige dagen geen toeval maar de merit order in actie.
 
-## 5. Drie valkuilen bij de aanschaf
+### 4. Publicatie, en dan door naar je app
 
-**Valkuil 1: te groot kopen.** Een batterij die groter is dan je dagelijkse nuttige doorzet, staat een deel van het jaar stil. Bereken eerst hoeveel kWh je per dag daadwerkelijk kunt verschuiven; dat is bijna altijd minder dan de nominale capaciteit.
+De uitkomst van de veiling wordt in de vroege middag gepubliceerd. Vanaf dat moment weet je leverancier de prijzen voor alle tijdsblokken van morgen, en verschijnen ze in de app en op prijspagina's — bij ons op [stroomprijzen per uur](/stroomprijzen/), waar je met één klik kunt doorschakelen naar morgen zodra de veiling binnen is. Alles wat vóór die publicatie over de prijzen van morgen wordt gezegd, is een voorspelling.
 
-**Valkuil 2: vendor lock-in.** Bij DC-gekoppelde batterijen (Goodwe, Huawei, SolaX) zit je vast aan dat merk omvormer. Bij AC-gekoppeld (Sessy, Marstek, Powerwall) ben je vrij. Voor toekomstvastheid heeft AC onze voorkeur.
+Overigens is het klassieke uurblok niet meer het enige product: leveranciers als Zonneplan en Tibber rekenen inmiddels met kwartierprijzen (eigen sites, gecontroleerd 20 augustus 2026). Het mechanisme blijft hetzelfde, de blokjes worden korter.
 
-**Valkuil 3: geen meetbaar doel.** "Ik wil verduurzamen" is geen doel. "€500 per jaar besparen" wel. Maak het concreet, anders koop je verkeerde spullen.
+## Waarom de prijs negatief kan worden
 
-## 6. Welk product past bij wie?
+Een negatieve prijs betekent dat een producent bijbetaalt om zijn stroom kwijt te raken. Dat lijkt onlogisch, tot je ernaar kijkt vanuit de kosten van *niet* produceren:
 
-### Voor budgetbewuste huishoudens
-Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
+1. **Stoppen en opstarten kost geld.** Een centrale die enkele uren uit moet en daarna weer opgestart, heeft opstartkosten en verliest rendement. Is dat verlies groter dan een paar uur bijbetalen, dan is bijbetalen de goedkoopste optie.
+2. **Sommige productie heeft weinig keus.** Warmtekrachtinstallaties die aan een warmtevraag vastzitten, kunnen niet zomaar uit.
+3. **Zonnestroom heeft geen marginale kosten.** Op een zonnige, windige zondag in mei staat er veel vermogen aan de aanbodzijde terwijl de vraag laag is: geen industrie, geen kantoren. De veiling moet dan onder nul clearen om vraag en aanbod gelijk te krijgen.
 
-### Voor early adopters die alles slim willen
-Combineer de installatie met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd volgens de documentatie 2-4 uur; je krijgt er fijnmazigere sturing voor terug dan met alleen de fabrikant-app.
+Negatieve prijzen zijn dus geen storing en geen bewijs dat het systeem stukloopt. Het is het prijssignaal dat doet wat het moet doen: het vraagt om verbruik en het ontmoedigt productie.
 
-### Voor grote huishoudens of off-grid ambities
-Modulair systeem zoals BYD Battery-Box of Frank Energie, in combinatie met een hybride-omvormer (Goodwe, SolaX). Investering €12.000-€18.000.
+Hoe vaak het gebeurt, groeit met het opgestelde zonvermogen. Voor 2025 komen we op **212 uren met een negatieve day-ahead-prijs** voor Nederland; het jaargemiddelde lag op circa € 0,105 per kWh inclusief btw en het duurste uur van dat jaar was 20 januari 2025 om 17:00 met circa € 0,63 per kWh. De actuele aantallen per jaar zijn na te rekenen op het [ENTSO-E Transparency Platform](https://transparency.entsoe.eu/) en staan uitgewerkt op onze pagina over [negatieve stroomprijzen](/negatieve-stroomprijzen/).
 
-## 7. Rekenvoorbeeld: wat levert een complete opstelling op?
+Wat het praktisch waard is, valt te overzien. Bij een negatieve prijs van 3 cent per kWh krijg je op een lading van 5 kWh ongeveer 15 cent betaald — bovenop het feit dat de energie zelf gratis is. Over enkele tientallen negatieve uren per jaar praat je over tientjes, niet over honderden euro's. Het echte voordeel zit in het gratis wegzetten van energie die je later op een duur uur gebruikt. De praktische consequentie is dan ook simpel: bij negatieve prijzen zet je juist álles aan — wasmachine, vaatwasser, droger, boiler, auto — in plaats van te wachten. Welke uren dat doorgaans zijn, staat op [de beste tijd om de wasmachine te laten draaien](/beste-tijd-wasmachine/).
 
-Onderstaand voorbeeld is een rekenvoorbeeld met expliciete aannames — geen meting. Vul je eigen cijfers in en de uitkomst verandert mee.
+## Van beursprijs naar jouw tarief: de volledige opbouw
 
-Aannames:
+Hieronder de opbouw van een all-in kWh-prijs voor een huishouden op een dynamisch contract in 2026. Het EPEX-deel is een jaargemiddelde, niet het tarief van een specifiek uur.
 
-- **Stroomverbruik:** 4.380 kWh per jaar (gezin van 4)
-- **Zonneproductie:** 4.920 kWh (14 panelen, zuid en west)
-- **Teruglevering zonder batterij:** 1.890 kWh
-- **Batterij:** 10 kWh, gemiddelde bruikbare dag-spread €0,18/kWh na belasting
-
-Uitkomst van het model: circa €350-€400 aan arbitrage, plus €300 aan slim laden van een EV ten opzichte van een vast tarief. Bij een investering van €11.200 voor panelen, omvormer, batterij en laadpaal komt de terugverdientijd op ongeveer 10 jaar.
-
-De spread is de dominante variabele in dit model: halveert die, dan verdwijnt het grootste deel van de arbitragewinst. Na het einde van de saldering verschuift het verdienmodel van teruglevering naar eigen gebruik — daarom wordt sturing op dynamisch tarief belangrijker.
-
-## 8. Veelgemaakte vragen uit de praktijk
-
-**"Mijn installateur zegt dat het niet kan."**
-Vraag een tweede mening. Er zijn installateurs met ervaring met deze setups — zie [de installateur-checklist](/posts/dynamische-energiecontracten-vergelijking-2026/).
-
-**"Het is te duur."**
-Reken het door met je eigen cijfers. In veel rekenvoorbeelden ligt de terugverdientijd op 6-9 jaar bij een verwachte levensduur van 15-20 jaar. Wat dat als rendement betekent, hangt af van de prijsspreads en de restwaarde — behandel het als een schatting met een brede marge, niet als een gegarandeerd rendement.
-
-**"Ik woon in een huurwoning."**
-Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/posts/frank-energie-vs-tibber-2026/).
-
-## 9. Conclusie
-
-Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
-
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
-
-Verder lezen: [het overzichtsartikel](/posts/tibber-review-ervaringen-2026/), [de rekenmodellen](/posts/frank-energie-review-ervaringen-2026/) en [de verzamelde gebruikerservaringen](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
-
-## 10. Technische details: hoe werkt het onder de motorkap?
-
-Hieronder de technische kern voor wie wil begrijpen waaróm dingen werken zoals ze werken bij energiecontracten.
-
-### Energiestromen in kaart
-
-Op een gemiddelde voorjaarsdag lopen er vier energiestromen door elkaar: zonneproductie (4-6 kW piek rond het middaguur), huishoudelijk verbruik (basislast rond 350 W, pieken tot 7 kW bij koken), warmtepomp (1,2-2,8 kW modulerend) en EV-laden (3,7 kW of 11 kW). De som van deze stromen bepaalt of je op dat moment kost of verdient.
-
-Zonder slimme sturing lopen deze door elkaar: je warmtepomp draait 's avonds op spitstarief, je batterij is leeg precies wanneer EV-laden begint. Resultaat: je betaalt de piekprijs voor stroom die uren eerder bijna gratis was.
-
-### De rol van forecasting
-
-Tibber, Frank en Home Assistant gebruiken weersvoorspellingen en dag-vooruitprijzen om beslissingen 24 uur vooruit te nemen: laden om 03:00 tot 70% omdat de prijs de volgende dag om 17:00 piekt. Dat is een algoritmische beslissing, geen menselijke.
-
-De kwaliteit van die forecasting bepaalt een aanzienlijk deel van je besparing. Goede platforms gebruiken zowel weersdata als historische verbruiksprofielen; simpele implementaties reageren alleen op de huidige prijs.
-
-### Communicatieprotocollen
-
-Drie protocollen domineren de markt:
-
-- **Modbus TCP** — industrieel, betrouwbaar, lokaal. Vrijwel alle warmtepompen, omvormers en batterijen ondersteunen het.
-- **MQTT** — lichtgewicht message-broker, populair voor IoT. Ideaal voor Home Assistant en zelfbouw-systemen.
-- **REST API (HTTP)** — cloud-only, leverancier-afhankelijk. Werkt overal maar valt uit als internet uitvalt.
-
-Voor toekomstvastheid verdient Modbus TCP de voorkeur boven cloud-API's: lokale besturing blijft werken als een fabrikant zijn cloud uitzet.
-
-## 11. Onderhoud en levensduur
-
-Een vaak vergeten kostencomponent. Indicatieve bedragen op basis van onderhoudscontracten en fabrikantopgaven voor energiecontracten:
-
-| Component | Onderhoud/jaar | Levensduur |
+| Component | Bedrag per kWh | Toelichting |
 |---|---|---|
-| Zonnepanelen | €0-€50 | 25-30 jaar |
-| Omvormer | €0-€80 | 12-15 jaar |
-| Thuisbatterij (LiFePO4) | €0-€120 | 15-20 jaar |
-| Warmtepomp lucht-water | €175-€275 | 15-20 jaar |
-| Slim laadpaal | €25-€80 | 10-12 jaar |
+| EPEX day-ahead, jaargemiddelde 2025 | ca. € 0,105 incl. btw | Beweegt per tijdsblok mee; kan negatief zijn |
+| Energiebelasting 2026 | € 0,11085 incl. btw | Vast bedrag per kWh, ongeacht het uur |
+| Inkoopvergoeding en omslag vaste kosten | ca. € 0,044 incl. btw | **Gelabelde aanname** — verschilt per leverancier |
+| **All-in indicatie** | **ca. € 0,26** | Modelmatige uitkomst, geen aanbod |
 
-Belangrijke nuance: garantie en levensduur zijn niet hetzelfde. Een omvormer met 10 jaar garantie gaat volgens fabrikantopgaven doorgaans 12-15 jaar mee. Reken voor je terugverdienberekening met verwachte levensduur, niet met de garantieperiode.
+Drie dingen die hier vaak fout gaan:
 
-### Wat gaat er kapot?
+- **De opslag voor de leverancier is geen percentage van de beursprijs.** Tibber rekent bijvoorbeeld een inkoopvergoeding van € 0,0248 per kWh inclusief btw, ANWB Energie noemt € 0,018 per kWh aan inkoopkosten. Die posten blijven staan als de beursprijs zakt.
+- **Netbeheerkosten zijn geen bedrag per kWh.** Bij kleinverbruikers reken je een vast bedrag per jaar op basis van je aansluitcapaciteit. Dat is de reden dat je jaarrekening niet halveert als de beursprijs halveert.
+- **De ODE bestaat niet meer.** Die opslag is sinds 2023 opgegaan in de energiebelasting. Staat er nog een aparte ODE-post in een rekenvoorbeeld, dan is dat een verouderd artikel.
 
-De faalmodi die installateurs en fabrikant-servicedocumentatie het vaakst noemen, ongeveer in volgorde van frequentie:
+Aan de bedragen in deze tabel kunnen geen rechten worden ontleend; het is een modelberekening met de aannames die erbij staan.
 
-1. **Omvormer-koeling.** Stof, ventilatordefect. Eenvoudige reparatie of vervanging na 10 jaar.
-2. **Bypass-diode in panelen.** Bij hotspots door schaduw. Lost zichzelf vaak op of paneel vervangen onder garantie.
-3. **Batterij-BMS.** Zelden, maar bij goedkope merken (geen tier-1) komt het voor.
-4. **Connector-corrosie.** Door slechte installatie. Voorkomen door MC4-vet bij installatie.
+## Hoe Nederlandse leveranciers de prijs doorgeven
 
-Voor preventief onderhoud: zie [de jaaronderhoud-checklist](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/).
+Het mechanisme is bij alle dynamische aanbieders hetzelfde — beursprijs plus opslagen plus belasting — maar de kleine letters verschillen. Wat de leveranciers zelf publiceren (gecontroleerd 20 augustus 2026):
 
-## 12. Wat gaat er veranderen in 2027-2030?
+- **Tibber.** Vaste kosten van € 5,99 per maand **per energiesoort**, plus een inkoopvergoeding van € 0,0248 per kWh inclusief btw. Maandelijks opzegbaar. De prijs van de Pulse-meter is niet publiek. Zie de <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="noopener nofollow">voorwaarden van Tibber</a>.
+- **Frank Energie.** Rekent een inkoopvergoeding én, sinds 1 juni 2025, een terugleverstaffel bij vaste en variabele contracten. De vaste maandkosten publiceert Frank niet vrij toegankelijk. Zie de <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="noopener nofollow">voorwaarden van Frank Energie</a>.
+- **ANWB Energie.** Inkoopkosten van € 0,018 per kWh; over een eventueel prijsplafond of demping doen wij geen uitspraak, dat konden wij niet verifiëren.
+- **Zonneplan en Tibber** rekenen met kwartierprijzen in plaats van uurprijzen.
 
-Onze verwachting op basis van wetgeving en marktontwikkeling — geen zekerheden:
+Wie de aanbieders naast elkaar wil zien met de posten die ze wél publiceren: dat staat in onze [vergelijking van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/). Heb je zonnepanelen, kijk dan ook naar de terugleverkant, want daar zit een groter verschil dan in de inkoopvergoeding: [terugleverkosten per leverancier](/terugleverkosten-vergelijken/).
 
-**2027: einde saldering.** Zelfconsumptie wordt waardevoller; het verdienmodel van een batterij verschuift van teruglevering naar eigen gebruik en arbitrage.
+## Wat je met de uurprijzen kunt doen
 
-**2028: bredere V2G-uitrol.** De eerste massamarktauto's ondersteunen bidirectioneel laden; de verwachting is dat bidirectionele laadpalen verder in prijs dalen.
+De waarde van een dynamisch contract zit niet in de gemiddelde prijs maar in het verschil tussen de uren, en in hoeveel van je verbruik je daarheen kunt schuiven.
 
-**2029: dynamisch contract als norm.** Vaste contracten worden waarschijnlijk niche, mogelijk in de vorm van dynamisch met prijsplafond.
+1. **Kijk eerst naar je eigen profiel.** Download je kwartiergegevens bij je leverancier en zoek de uren waarop je de meeste kilowattuur afneemt. Zitten die vast rond 18:00, dan begin je met een handicap.
+2. **Verschuif wat verschuifbaar is.** Vaatwasser, wasmachine, droger, boiler en vooral het laden van een elektrische auto zijn de goedkoopste knoppen: die kosten geen investering.
+3. **Overweeg pas daarna hardware.** Een thuisbatterij vergroot de hoeveelheid verschuifbaar volume, maar of dat uit kan hangt af van je verbruik en de spreiding tussen dag- en nachtprijzen. Reken dat na met [de terugverdientijd-berekening voor thuisbatterijen](/terugverdientijd-thuisbatterij/) in plaats van met een vuistregel.
 
-**2030: strengere eisen bij ketelvervanging.** De richting van het beleid is hybride of volledig elektrisch; hoe de regels exact luiden, hangt af van besluitvorming die nog loopt.
+Voor het bredere plaatje: [dynamisch versus vast contract](/posts/dynamisch-vs-vast-contract-2026/) zet de afweging op een rij, en [gemiddelde uurprijzen per dagdeel](/posts/dynamische-prijzen-gemiddeld-uur-2026/) laat zien hoe de dagcurve er doorgaans uitziet.
 
-Wie nu investeert in toekomstvaste hardware (open protocollen, AC-gekoppelde batterij, modulaire warmtepomp) staat sterker dan wie kiest voor gesloten cloud-systemen. Lees ook [de beleidsanalyse](/posts/terugleverkosten-zonnepanelen-2026/).
+## Vijf misverstanden over EPEX
 
-## 13. Rekenvoorbeelden per situatie
+1. **"EPEX-prijs = mijn tarief."** Nee. Er komt energiebelasting (€ 0,11085 per kWh incl. btw in 2026) en een inkoopvergoeding bij, en daarnaast staan de vaste leverings- en netbeheerkosten per jaar op je rekening.
+2. **"Day-ahead is real-time."** Nee. Day-ahead wordt een halve dag vooruit vastgesteld in de veiling die om 12:00 CET sluit. De intradaymarkt daarna is voor marktpartijen, niet voor huishoudens.
+3. **"Een hoge EPEX-prijs betekent energiecrisis."** Meestal betekent het windstilte plus weinig zon plus hoge vraag op één avond. Dat is een piek van enkele uren, geen structurele prijsstijging.
+4. **"Een negatieve prijs betekent dat er iets stuk is."** Nee, dat is de veiling die vraagt om verbruik bij een overschot. Zie hierboven.
+5. **"De prijs is in heel Europa hetzelfde."** Nee. Nederland, Duitsland en België zijn aparte biedzones. Zolang de verbindingen ertussen niet vol zitten lopen de prijzen gelijk op; zit een verbinding vol, dan lopen ze uiteen.
 
-Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijsindicaties, terugverdientijden volgen uit het model in hoofdstuk 7:
+## Wanneer het volgen van EPEX weinig oplevert
 
-**Situatie A: rijtjeshuis, 2 personen, geen EV, 2.800 kWh verbruik**
-8-10 zonnepanelen, 5 kWh batterij, dynamisch contract. Investering circa €8.500, terugverdientijd in het model 6-8 jaar. Warmtepomp nog niet aan de orde — eerst isoleren.
+Er zijn profielen waarbij een dynamisch contract vooral administratie oplevert. Ligt je verbruik vast op kantooruren, heb je apparaten zonder timer, of bestaat een groot deel van je afname uit niet-verschuifbaar basisverbruik (oude vrieskast, zwembadpomp, ventilatie), dan valt er weinig te schuiven. Het voordeel blijft dan beperkt en moet worden afgezet tegen de vaste maandkosten van het contract en tegen het risico van een dure winterweek.
 
-**Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>.
-
-**Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
-20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.
-
-**Situatie D: appartement, 1-2 personen, 1.800 kWh**
-Geen panelen mogelijk? Begin met een dynamisch contract, een slimme thermostaat en waar mogelijk lokale elektrische bijverwarming. Investering circa €600, besparing in het model €180-€280 per jaar.
-
-## 14. Slot
-
-Verduurzamen is een marathon, geen sprint. Alles in één keer verbouwen levert een lange wachttijd op je terugverdientijd op; per jaar de meest renderende stap zetten werkt beter.
-
-De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
-
-1. Isoleren (kruipruimte, spouwmuur, zolder) — €0-€8.000 — direct comfort en besparing.
-2. Dynamisch contract plus monitoring — €0-€100 — in de meeste modellen €100-€300 per jaar.
-3. Zonnepanelen — €4.000-€8.000 — terugverdientijd 6-8 jaar.
-4. Warmtepomp (hybride of vol) — €4.000-€18.000 — terugverdientijd 7-12 jaar.
-5. Thuisbatterij — €4.000-€10.000 — terugverdientijd 6-9 jaar in de meeste modellen.
-6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
-
-Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
-
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/dynamisch-vs-vast-contract-2026/) voor verdieping.
-
-## Wat negatieve prijzen praktisch betekenen
-
-Negatieve EPEX-prijzen zijn in Nederland geen uitzondering meer: bij veel zon of wind en lage vraag komen ze vooral midden op de dag voor. De actuele aantallen negatieve uren per jaar zijn na te kijken op het ENTSO-E Transparency Platform.
-
-Wat dat waard is, is snel uitgerekend. Bij een negatieve prijs van bijvoorbeeld 3 cent per kWh krijg je op een 5 kWh batterijlading ongeveer 15 cent betaald om te laden — bovenop het feit dat de energie zelf gratis is. Over tientallen negatieve uren per jaar praat je over enkele tientjes.
-
-Het echte voordeel zit dus niet in de betaling voor het laden, maar in het gratis wegzetten van energie die je later in de dure uren gebruikt. Praktische consequentie: bij negatieve prijzen zet je juist alles aan — wasmachine, vaatwasser, droger, EV laden, boiler — in plaats van te wachten.
-
-## Veelgemaakte misverstanden over EPEX
-
-1. **EPEX = mijn tarief.** Nee. Op EPEX-prijs komt belasting (€0,131), netbeheer (€0,02-€0,04) en marge leverancier (€0,015) erbij.
-2. **Day-ahead = real-time.** EPEX day-ahead vastgesteld om 12:42 voor de volgende dag. Real-time is intraday-markt — alleen leveranciers handelen daar.
-3. **Hoge EPEX = energiecrisis.** Pieken ontstaan bij windstilte + lage zon + hoge vraag — kortdurend, niet structureel.
-4. **Negatieve prijs = systeem stuk.** Gewoon overschot bij hoge wind/zon en lage vraag. Markt-mechanisme werkt zoals bedoeld.
-5. **EPEX in andere landen identiek.** Nee. EPEX-DE, EPEX-FR, EPEX-NL hebben eigen prijszones door capaciteitsbeperking (interconnect).
-
-## Wanneer EPEX-volgen niet nuttig is
-
-Bij een verbruik dat vast op kantooruren ligt, apparaten zonder timer of een hoog niet-verschuifbaar basisverbruik (oude vrieskast, zwembadpomp) is er weinig te verschuiven. Het voordeel blijft dan beperkt tot enkele tientjes tot ruim honderd euro per jaar — reken dat af tegen de vaste maandkosten van een dynamisch contract voordat je overstapt.
-
-## Extra FAQ
-
-**Kan ik EPEX zelf opvragen?**
-Ja, gratis via ENTSO-E Transparency Platform. Tibber, Frank, ANWB Energie tonen het in apps voor klanten.
-
-**Waarom is Nederlandse EPEX vaak hoger dan Duitse?**
-Gascentrales bepalen vaker de marginale prijs in NL door minder windcapaciteit. Bij veel wind in DE zakt EPEX-DE terwijl NL hoog blijft.
+De omgekeerde situatie is even reëel: wie een elektrische auto thuis laadt, een warmtepomp met buffer heeft of een batterij bezit, heeft juist veel verschuifbaar volume en profiteert het meest van de spreiding tussen de uren.
 
 ---
 
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+*Laatst bijgewerkt op 21 augustus 2026 door de redactie. Bronnen: eigen energie-archief en de tariefpagina's van de genoemde leveranciers (gecontroleerd 20 augustus 2026), ENTSO-E Transparency Platform. Klopt er iets niet? Laat het ons weten.*

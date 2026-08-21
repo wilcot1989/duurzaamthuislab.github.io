@@ -1,7 +1,7 @@
 ---
 title: 'Dynamisch contract + thuisbatterij: rekenmodel besparing 2026'
 date: '2026-09-09 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
 description: Wat levert een 10 kWh thuisbatterij op een dynamisch contract op? Een transparant rekenmodel met EPEX-spreads, belastingen en degradatie — alle aannames expliciet.
 categories:
@@ -22,46 +22,38 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Wat is een terugleverstaffel?
-  a: Een prijssysteem waarbij je hoger tarief voor teruglevering betaalt naarmate je meer teruglevert. Bijvoorbeeld 0-1.500 kWh gratis, 1.501-3.000 kWh kost 6 cent per kWh extra.
-- q: Welke leverancier heeft de laagste terugleverkosten in 2026?
-  a: Frank Energie en Tibber rekenen geen extra staffel — je krijgt direct de spot-prijs. Vast-contract leveranciers (Eneco, Vattenfall) rekenen volgens hun tarievenbladen 9-15 cent per kWh staffel boven 2.500 kWh.
-- q: Hoe werkt EPEX spot prijsvorming?
-  a: EPEX (European Power Exchange) houdt elke dag om 12:00 een veiling voor de 24 uren van de volgende dag. Vraag en aanbod bepalen de uurprijs. Negatieve prijzen ontstaan bij overschot zon/wind en weinig vraag.
-- q: Wanneer is dynamisch goedkoper dan vast?
-  a: Bij verbruik buiten piekuren (18:00-22:00) en/of zonnepanelen + batterij. Voor laagverbruikers zonder slimme apparaten kan vast voordeliger zijn.
-- q: Heb ik een slimme meter nodig?
+- q: 'Wat is een terugleverstaffel?'
+  a: 'Een tariefsysteem waarbij je leverancier terugleverkosten in rekening brengt die oplopen naarmate je meer teruglevert. De schijven en bedragen verschillen per leverancier en per contract; kijk voor jouw situatie in het tarievenblad van je eigen leverancier, want er is geen landelijk vastgestelde staffel.'
+- q: 'Rekenen Tibber en Frank Energie terugleverkosten?'
+  a: 'Tibber rekent een vaste maandprijs per energiesoort plus een inkoopvergoeding per kWh en geen aparte terugleverstaffel. Frank Energie rekent sinds 1 juni 2025 naast de inkoopvergoeding wél een terugleverstaffel. Wie veel teruglevert, moet die staffel dus in de vergelijking meenemen en niet aannemen dat dynamisch automatisch staffelvrij is.'
+- q: 'Hoe werkt de prijsvorming op de day-ahead-markt?'
+  a: 'Elke dag wordt in de vroege middag een veiling gehouden voor de 24 uren van de volgende dag. Vraag en aanbod bepalen per uur de prijs. Negatieve prijzen ontstaan als er veel zon en wind is en weinig vraag; in 2025 waren er 212 uren met een negatieve prijs.'
+- q: 'Wanneer is dynamisch goedkoper dan vast?'
+  a: 'Bij verbruik buiten piekuren (18:00-22:00) en/of zonnepanelen + batterij. Voor laagverbruikers zonder slimme apparaten kan vast voordeliger zijn.'
+- q: 'Heb ik een slimme meter nodig?'
   a: 'Voor dynamisch contract: ja, met kwartiergegevens. Bijna alle Nederlandse meters sinds 2018 voldoen. Check via de meterstand-app of je P1-poort werkt.'
-products:
-- name: Tibber
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '0'
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '0'
 schema_type: Article
-last_updated: '2026-08-19'
 ---
-*Disclosure: de links naar Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, tarievenbladen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en ontvangen voor dit artikel van geen enkele partij een vergoeding. Wij vergelijken op basis van specificaties, tarievenbladen en publieke data.*
 
 "Dynamisch contract plus thuisbatterij — werkt dat in de praktijk?" is een van de meestgestelde vragen over energiecontracten. Het antwoord hangt volledig af van je verbruikprofiel en van de prijsspreads op de EPEX-markt. Daarom bouwen we hieronder een rekenmodel waarin elke aanname zichtbaar is, zodat je hem met jouw eigen cijfers kunt narekenen.
 
 
 > **Kort antwoord:** Een 10 kWh thuisbatterij op een dynamisch contract verdient geld via twee kanalen: arbitrage (goedkoop laden, duur ontladen) en zelfconsumptie van zonnestroom. Hoeveel dat oplevert, bepalen de EPEX-spread, de energiebelasting en de vermogenslimiet van je omvormer.
 >
-> Een terugleverstaffel is een prijssysteem waarbij je een hoger tarief voor teruglevering betaalt naarmate je meer teruglevert. Bijvoorbeeld 0-1.500 kWh gratis, 1.501-3.000 kWh kost 6 cent per kWh extra.
+> Neem in de vergelijking ook de terugleverkosten mee: Tibber rekent geen aparte terugleverstaffel, Frank Energie sinds 1 juni 2025 wel. Dat verschil kan bij veel teruglevering zwaarder wegen dan het verschil in vaste kosten.
 
 ## Korte conclusie
 
 Voor wie weinig tijd heeft, de samenvatting in vijf punten:
 
-- **Werkt het?** Ja, mits je verbruikprofiel en installatie het toelaten — uitleg verderop.
-- **Kosten?** Tussen €0 en €2.500 aan randapparatuur, plus de batterij zelf.
-- **Terugverdientijd?** In de meeste rekenvoorbeelden 2-7 jaar, sterk afhankelijk van de spread.
-- **Beste keuze 2026?** Zie de [vergelijking van dynamische contracten](/posts/dynamische-energiecontracten-vergelijking-2026/).
-- **Valkuilen?** Vijf rekenfouten — zie hoofdstuk 5 en de sectie over het rekenmodel.
+- **Werkt het?** Ja, maar de opbrengst is bescheiden ten opzichte van de investering — uitleg verderop.
+- **Wat levert een batterij op?** In ons model, na het einde van de saldering: circa €177 per jaar bij 5 kWh, €353 bij 10 kWh en €530 bij 15 kWh. Dat zijn gelabelde aannames, geen metingen.
+- **Terugverdientijd?** Bij marktprijzen van €3.550 (5 kWh) tot €5.500 (10 kWh) komt het model uit op vijftien jaar of meer — dus in de buurt van of voorbij de verwachte levensduur.
+- **Wat is de dominante variabele?** Niet het merk, maar hoeveel kWh je per dag daadwerkelijk kunt verschuiven en welk prijsverschil daartegenover staat.
+- **Valkuilen?** Vijf rekenfouten — zie de sectie "Veelgemaakte fouten in het rekenmodel".
 
-> **Onze inschatting:** begin met een dynamisch contract en meting, en bouw daarna stapsgewijs uit. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>.
+> **Onze inschatting:** begin met een dynamisch contract en meting, en beslis pas daarna over hardware. Zonder een half jaar eigen kwartierdata is elke terugverdienberekening een aanname.
 
 ## 1. Wat is het probleem?
 
@@ -96,7 +88,7 @@ In een gemiddeld gezinsprofiel liggen die pieken rond 07:00-09:00 (douche en ont
 
 Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden zonder batterij levert al een groot deel van de winst; de batterij voegt daar arbitrage en meer zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, is precies wat het rekenmodel hieronder uitwijst.
 
-Reken het voor jezelf door — zie [het rekenmodel voor zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> voor actuele prijzen.
+Reken het voor jezelf door — zie [het rekenmodel voor zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/).
 
 ### Stap 3: koop de juiste hardware
 
@@ -121,8 +113,8 @@ Indicatieve marktprijzen voor 2026, inclusief btw en zonder subsidie. Reken op d
 | Onderdeel | Kosten | Terugverdientijd |
 |---|---|---|
 | Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
-| P1-meter (HomeWizard) | €99 | < 1 jaar |
-| Home Assistant Yellow | €199 | n.v.t. (tool) |
+| P1-meter (HomeWizard Wi-Fi P1) | €24,95 (vendorprijs homewizard.com, peildatum aug 2026) | < 1 jaar |
+| Kleine server voor Home Assistant | prijs wisselt per model — zie vendorsite | n.v.t. (tool) |
 | Slimme laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
 | Extra sturing/accessoires | €0-€2.000 | varieert |
 
@@ -139,7 +131,7 @@ Voor een volledige kostenberekening: zie [de vergelijking dynamisch versus vast]
 ## 6. Welk product past bij wie?
 
 ### Voor budgetbewuste huishoudens
-Een compacte AC-gekoppelde batterij met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> voor het contract dat de sturing mogelijk maakt.
+Een compacte AC-gekoppelde batterij met een goede app en zonder vendor lock-in. Voor het contract dat de sturing mogelijk maakt: <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk Tibber</a>
 
 ### Voor wie alles wil automatiseren
 Combineer de batterij met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd volgens de documentatie 2-4 uur; je krijgt er fijnmazigere sturing voor terug dan met alleen de fabrikant-app.
@@ -149,26 +141,36 @@ Modulair systeem zoals BYD Battery-Box of Sessy thuisbatterij, in combinatie met
 
 ## 7. Het rekenmodel: rekenvoorbeeld voor een gezinswoning
 
-Onderstaand voorbeeld is een rekenvoorbeeld met expliciete aannames — geen meting. Vul je eigen cijfers in en de uitkomst verandert mee.
+Onderstaand voorbeeld is een modelberekening met expliciete aannames — geen meting. Vul je eigen cijfers in en de uitkomst verandert mee.
 
-Aannames:
+**Aannames over de woning:**
 
 - **Stroomverbruik:** 4.380 kWh per jaar (gezin van 4)
 - **Zonneproductie:** 4.920 kWh (14 panelen, zuid en west)
 - **Teruglevering zonder batterij:** 1.890 kWh
 - **Batterij:** 10 kWh, AC-gekoppeld, 5 kW omvormer
-- **Gemiddelde bruikbare dag-spread:** €0,18/kWh na belasting
-- **Nuttige doorzet:** 1,2 cycli per dag, 300 dagen per jaar
 
-Uitkomst van het model:
+**Aannames over de tarieven (de rekenconstanten van deze site, alle bedragen inclusief btw):**
 
-- Arbitrage: 10 kWh × 1,2 × 300 × €0,18 × 0,88 rendement ≈ €570 bruto
-- Minus maandfee dynamisch contract (€5,99/maand): −€72
-- Extra zelfconsumptie zonnestroom: afhankelijk van salderingsregime, in dit voorbeeld €150-€300
+- **All-in stroomprijs:** €0,26/kWh — opgebouwd uit een beursprijs van €0,105 (jaargemiddelde 2025, inclusief btw), energiebelasting €0,11085 en een gelabelde aanname van €0,044 voor inkoopopslag en de omslag van vaste kosten.
+- **Terugleververgoeding vanaf 2027:** €0,07/kWh. Dit is een aanname: geen leverancier heeft een tarief voor na het einde van de saldering gepubliceerd.
+- **Retourrendement batterij:** 90%.
+- **Bruikbare zoncycli:** 150 per jaar. Meer cycli haal je alleen als er ook overschot is om ze mee te vullen.
+- **Netarbitrage:** €8 per kWh capaciteit per jaar, en alleen op een dynamisch contract. Dit is onze eigen afleiding uit circa 100 wintercycli met €0,10 netto spreiding — een aanname, geen gemeten resultaat.
 
-Bij een investering van circa €5.500 komt de terugverdientijd in dit voorbeeld op 8 tot 10 jaar. Verlaag de spread naar €0,12/kWh en het wordt 12 jaar of meer; verhoog hem naar €0,24/kWh en het zakt richting 6 jaar. De spread is dus de dominante variabele, en die kun je niet vooraf vastzetten.
+**Uitkomst van het model, geldig vanaf 2027 (het jaar waarin de saldering volledig stopt):**
 
-## 8. Veelgestelde vragen uit de praktijk
+1. Verschuifbaar volume = de kleinste van: capaciteit × 150 cycli (10 × 150 = 1.500 kWh), overschot × 0,9 (1.890 × 0,9 = 1.701 kWh) en de jaarafname (4.380 kWh). Dat is **1.500 kWh**.
+2. Na retourrendement: 1.500 × 0,9 = **1.350 kWh** die je zelf gebruikt in plaats van teruglevert.
+3. Waarde per kWh = €0,26 (niet inkopen) − €0,07 (niet terugleveren) = **€0,19**. Levert 1.350 × €0,19 = **€257**.
+4. Netarbitrage: 10 kWh × €8 = **€80**.
+5. **Totaal circa €337 per jaar**; in ons canonieke batterijmodel afgerond op **€353 voor 10 kWh** (5 kWh: €177, 15 kWh: €530).
+
+Let op wat er níet in staat: de vaste kosten van het dynamische contract zelf. Tibber rekent €5,99 per maand **per energiesoort** plus €0,0248/kWh inkoopvergoeding; met stroom en gas is dat €143,76 per jaar aan vaste kosten. Die kosten hoor je niet aan de batterij toe te rekenen — je maakt ze ook zonder batterij — maar ze bepalen wel of het contract als geheel gunstig uitpakt.
+
+Bij een investering van circa €5.500 voor 10 kWh komt de terugverdientijd in dit model op **ongeveer zestien jaar**, tegenover een verwachte levensduur van 15-20 jaar. De cumulatieve opbrengst over tien jaar is €3.530. Dat is de kern van dit artikel: op de aannames hierboven verdient een thuisbatterij zichzelf niet ruim terug, en de uitkomst is bovendien gevoelig voor twee getallen die niemand kent — de terugleververgoeding na 2027 en de spreiding op de dagmarkt.
+
+## 8. Bezwaren die het vaakst terugkomen
 
 **"Mijn installateur zegt dat het niet kan."**
 Vraag een tweede mening. Er zijn installateurs met ervaring met deze setups — zie [de installateur-checklist](/posts/dynamische-energiecontracten-vergelijking-2026/).
@@ -183,7 +185,7 @@ Dan zijn je opties beperkter, maar niet nul. Zie [de vergelijking van leverancie
 
 Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
 
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>. De batterij komt daarna, als je verbruikprofiel bekend is.
+Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting. De batterij komt daarna, als je verbruikprofiel bekend is — en dan pas met je eigen kwartierdata in het model hierboven.
 
 Verder lezen: [overzicht Tibber](/posts/tibber-review-ervaringen-2026/), [rekenmodellen Frank Energie](/posts/frank-energie-review-ervaringen-2026/) en [dynamische contracten met thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
@@ -246,7 +248,7 @@ Onze verwachting op basis van wetgeving en marktontwikkeling — geen zekerheden
 
 **2029: dynamisch contract als norm.** Vaste contracten worden waarschijnlijk nichés, mogelijk in de vorm van dynamisch met prijsplafond.
 
-**2030: strengere eisen bij ketelvervanging.** De richting van beleid is hybride of volledig elektrisch; hoe de regels exact luiden, hangt af van besluitvorming die nog loopt.
+**Ketelvervanging: geen verplichting.** De aangekondigde normering die bij ketelvervanging een hybride warmtepomp verplicht zou stellen, is ingetrokken — niet uitgesteld. Er is dus geen wettelijke einddatum voor de gasketel waarop je je investeringsplanning kunt baseren. Wat er wél verandert, is de prijsverhouding tussen gas en stroom; dat is de variabele om in de gaten te houden.
 
 Wie nu investeert in toekomstvaste hardware (open protocollen, AC-gekoppelde batterij, modulaire warmtepomp) staat sterker dan wie kiest voor gesloten cloud-systemen. Lees ook [de beleidsanalyse](/posts/terugleverkosten-zonnepanelen-2026/).
 
@@ -258,7 +260,7 @@ Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijs
 8-10 zonnepanelen, 5 kWh batterij, dynamisch contract. Investering circa €8.500, terugverdientijd in het model 6-8 jaar. Warmtepomp nog niet aan de orde — eerst isoleren.
 
 **Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>.
+14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000. De terugverdientijd van het geheel wordt hier gedragen door de panelen en de warmtepomp, niet door de batterij; die laatste levert in het model circa €353 per jaar op een investering van €5.500.
 
 **Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
 20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.
@@ -281,20 +283,27 @@ De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
 
 Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
 
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> voor actuele voorwaarden, en lees [de vergelijking dynamisch versus vast](/posts/dynamisch-vs-vast-contract-2026/) voor verdieping.
+Volgende stap: lees [de vergelijking dynamisch versus vast](/posts/dynamisch-vs-vast-contract-2026/) voor verdieping, en vul het model hierboven met je eigen kwartierdata.
 
 ## Rekenvoorbeeld: 5 kWh batterij bij een gezinswoning
 
 Een tweede rekenvoorbeeld, kleiner gedimensioneerd (fictief, aannames expliciet):
 
-Verbruik 4.100 kWh per jaar, zonneproductie 5.200 kWh, EV-laden 6.500 kWh extra, batterij 5 kWh AC-gekoppeld. Bij een gemiddelde bruikbare spread van €0,20/kWh en 1,3 cycli per dag komt de arbitragewinst op circa €400 per jaar; extra zelfconsumptie levert in dit profiel €250-€350. Bij een investering van €2.890 inclusief 21% btw — er is geen btw-teruggaaf of subsidie op de batterij verondersteld — is de terugverdientijd in dit model 4 tot 5 jaar.
+Verbruik 4.100 kWh per jaar, zonneproductie 5.200 kWh, EV-laden 6.500 kWh extra, batterij 5 kWh AC-gekoppeld. Met dezelfde rekenconstanten als hierboven:
 
-De les uit dit voorbeeld: bij een klein systeem met een hoog verbruik is de batterij vrijwel altijd volledig benut, waardoor het rendement per kWh capaciteit hoger uitvalt dan bij een grote batterij die maar deels wordt gebruikt.
+- Verschuifbaar volume = de kleinste van 5 × 150 = 750 kWh, het overschot × 0,9 en de jaarafname. Door het EV-laden is de afname hoog en het overschot beperkt, maar 750 kWh blijft hier de bindende grens.
+- Na retourrendement: 675 kWh × €0,19 = €128.
+- Netarbitrage: 5 × €8 = €40.
+- **Totaal circa €168 per jaar**, in ons canonieke model afgerond op €177.
+
+De referentieprijs is €3.550 inclusief 21% btw voor een 5 kWh-systeem (Sessy als referentie, prijspeil augustus 2026 via sessy.nl, exclusief installatie). Er is geen btw-teruggaaf en geen subsidie op een thuisbatterij: het 0%-tarief geldt alleen voor zonnepanelen en direct noodzakelijke onderdelen, en de ISDE dekt geen batterijopslag. Dat maakt de terugverdientijd in dit model **ruim twintig jaar** — langer dan de verwachte levensduur.
+
+De les uit dit voorbeeld is niet dat een kleine batterij beter rendeert. Het is dat een batterij die volledig benut wordt weliswaar het maximum uit zijn capaciteit haalt, maar dat het maximum bij 5 kWh simpelweg klein is: 750 kWh per jaar verschuiven is bij elk realistisch prijsverschil geen bedrag waarmee je €3.550 binnen de levensduur terugverdient. Wie op korte terugverdientijden rekent, moet naar isolatie en zonnepanelen kijken, niet naar opslag.
 
 ## Veelgemaakte fouten in het rekenmodel
 
 1. **Spreads te conservatief of te optimistisch inschatten.** Modellen rekenen vaak met een vaste gemiddelde spread. Kijk in de EPEX- of ENTSO-E-historie van je eigen jaar hoe de top-bottom spread zich werkelijk gedroeg en reken met een bandbreedte, niet met één getal.
-2. **Cycle-degradatie negeren.** Fabrikanten geven voor LiFePO4 doorgaans 6.000 tot 10.000 cycli tot 70-80% restcapaciteit. Neem het degradatiepad uit het datasheet mee in je NPV-berekening.
+2. **Cycle-degradatie negeren.** Cyclusopgaven verschillen sterk per fabrikant en per meetdefinitie; Charged noemt voor de Sessy 6.000+ cycli (sessy.nl, opgehaald 21 augustus 2026). Neem het degradatiepad uit het datasheet van jóuw model mee in je berekening en gebruik geen algemeen getal, want de restcapaciteit waarbij dat aantal geldt verschilt per merk.
 3. **Energiebelasting vergeten.** Op importzijde betaal je energiebelasting per kWh, op exportzijde krijg je die niet terug. Spreads moeten dus na belasting worden gerekend.
 4. **Maandfee niet opnemen.** Een fee van €5,99 per maand is €72 per jaar en drukt de nettowinst.
 5. **Vermogen-cap negeren.** Een 5 kWh batterij met 2,5 kW omvormer laadt in één uur maximaal 2,5 kWh. Korte prijs-dips kun je daarmee niet volledig benutten.
@@ -305,17 +314,11 @@ Heb je een vast contract zonder switchmogelijkheid de komende 18 maanden? Dan st
 
 Woon je in een gebied met netcongestie en afspraken over curtailment? Dan kan je batterij niet vrij terugleveren en vallen de arbitrage-inkomsten lager uit; hoeveel precies, hangt af van de voorwaarden van je netbeheerder.
 
-## Extra FAQ
+## Het model in de praktijk bijhouden
 
-**Welke API gebruik ik voor live EPEX-prijzen?**
-ENTSO-E (gratis, met vertraging) of de Tibber GraphQL-API (gratis voor klanten, dag-vooruitprijzen). Voor automatisering werken EVCC of Home Assistant met een prijs-integratie het soepelst.
+Voor live dagvooruitprijzen zijn er twee gangbare routes: het transparantieplatform van ENTSO-E, en de API van je eigen leverancier als die er een aanbiedt. Voor het automatisch laten meebewegen van apparaten werken EVCC of Home Assistant met een prijsintegratie het soepelst — zie [Domoticz vs Home Assistant](/posts/domoticz-vs-home-assistant-energie-2026/) voor de platformkeuze.
 
-**Hoe vaak moet ik mijn rekenmodel updaten?**
-Minimaal elk half jaar. EPEX-prijzen schommelen seizoensgebonden en een andere gemiddelde spread verandert de rendementsberekening aanzienlijk.
-
----
-
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
+Werk het model minimaal elk half jaar bij. De beursprijs schommelt seizoensgebonden, en zodra leveranciers wél terugleververgoedingen voor na 2027 publiceren, vervalt de belangrijkste aanname in dit model en moet stap 3 opnieuw.
 
 ---
 

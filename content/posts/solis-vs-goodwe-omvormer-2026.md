@@ -1,9 +1,9 @@
 ---
 title: 'Solis vs Goodwe omvormer 2026: welke voor welk huis?'
 date: '2026-08-22 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: Solis en Goodwe domineren het budget-segment. Wij vergelijken beide op rendement, app, batterij-readiness en garantie op basis van datasheets, handleidingen en gebruikersreviews.
+description: Solis en GoodWe zitten in hetzelfde budgetsegment en liggen op rendement gelijk. Het verschil zit in de app, de firmware-route en de batterij-readiness. Vergelijking op datasheets en handleidingen.
 categories:
 - omvormers
 tags:
@@ -22,293 +22,92 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Wat is het verschil tussen Solis en Goodwe?
-  a: Beide tier-2 budgetmerken. Goodwe heeft betere reputatie qua firmware-stabiliteit en SEMS-app. Solis is goedkoper (~10 procent) en heeft eenvoudigere bediening, maar minder consistente updates.
-- q: Welke omvormer is het beste voor schaduw?
-  a: Een omvormer met optimizers (Huawei + Smart Optimizers, SolarEdge HD-Wave) of micro-omvormers (Enphase). Bij weinig schaduw is een gewone string-omvormer prima en goedkoper.
-- q: Wat is een hybride-omvormer?
-  a: 'Een omvormer die ook een batterij kan aansturen (DC-gekoppeld). Goodwe ET-serie, Huawei SUN2000 L1, SolaX X3-Hybrid. Voordeel: hogere efficiency dan AC-batterij, nadeel: vendor lock-in.'
-- q: Hoe lang gaat een omvormer mee?
-  a: Gemiddeld 12-15 jaar. Garantie meestal 10 jaar (Huawei, SolarEdge), 5 jaar standaard bij Goodwe en Solis (te verlengen). Reken op 1 vervanging tijdens 25-jarige paneellevensduur.
-- q: Welke omvormer is batterij-ready?
-  a: Goodwe ET, Huawei SUN2000 L1, SolaX X3-Hybrid en SolarEdge Energy Hub zijn DC-batterij-ready. Sessy en Marstek werken met elke omvormer omdat zij AC-gekoppeld zijn.
-products:
-- name: Huawei Luna
-  url: https://go.duurzaamthuislab.nl/huawei-luna
-  price: '0'
+- q: 'Wat is het verschil tussen Solis en GoodWe?'
+  a: 'Op rendement praktisch niets: beide fabrikanten geven voor hun 1-fase modellen in deze klasse een Europees rendement van circa 97 procent op, en dat verschil valt binnen de meetonzekerheid van de norm. Het verschil zit in de software en de prijs. Solis ligt in de Nederlandse markt doorgaans een paar honderd euro lager; de SEMS Portal-app van GoodWe krijgt in publieke gebruikersreviews consistent hogere waarderingen dan SolisCloud, met name op stabiliteit en op de kwaliteit van de historische data.'
+- q: 'Hoeveel opbrengst scheelt het per jaar?'
+  a: 'Wij geven daar geen cijfer voor, omdat er geen openbare gecontroleerde vergelijkingstest bestaat van deze twee merken op hetzelfde dak. Wie een concreet verschil in kWh of euro''s noemt, kan dat niet onderbouwen. Het rendementsverschil op papier is kleiner dan de invloed van dakoriëntatie, schaduw en stringindeling.'
+- q: 'Zijn Solis en GoodWe batterij-ready?'
+  a: 'Alleen de hybride uitvoeringen. De pure netgekoppelde modellen, zoals de hier vergeleken 1-fase stringomvormers, kunnen geen batterij aansturen. Wil je later een DC-gekoppelde batterij, kies dan nu een hybride model of accepteer dat je later een AC-gekoppelde batterij achter de bestaande omvormer zet.'
+- q: 'Hoe lang gaat een omvormer mee en wat is de garantie?'
+  a: 'Fabrikanten geven voor deze klasse doorgaans vijf jaar standaardgarantie, tegen bijbetaling te verlengen. De verwachte technische levensduur ligt volgens fabrikantopgaven rond twaalf tot vijftien jaar. Reken in je terugverdienberekening dus op één omvormervervanging binnen de levensduur van je panelen, en gebruik daarvoor de verwachte levensduur en niet de garantieperiode.'
+- q: 'Wat moet ik doen als de omvormer een netfout meldt?'
+  a: 'Foutmeldingen over netspanning of netfrequentie gaan bijna altijd over de grid-code-instelling of over de netspanning op je aansluiting, niet over een defecte omvormer. Sinds 2023 geldt in Nederland NEN-EN 50549-1; staat er nog een oudere instelling in, dan kan de omvormer teruglevering blokkeren. Laat de installateur de ingestelde netcode controleren voordat er hardware wordt vervangen.'
+- q: 'Kan ik boven 5 kW op 1-fase terugleveren?'
+  a: 'Dat hangt van je netbeheerder en je aansluiting af. Bij grotere installaties, vanaf ruwweg 7 kWp, is een 3-fase omvormer doorgaans de verstandiger keuze — zowel voor de netbelasting als voor het opvangen van avondpieken bij het laden van een auto. Vraag de voorwaarden op bij je eigen netbeheerder voordat je de omvormer kiest; dit is geen landelijk uniforme regel.'
 schema_type: Article
-last_updated: '2026-04-29'
 ---
-*Disclosure: de links naar Huawei in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Dit artikel bevat geen affiliate- of commissielinks. Wij hebben met Solis, GoodWe en Huawei geen affiliate- of commissierelatie en ontvangen voor dit artikel van geen enkele partij een vergoeding. Wij vergelijken op basis van de datasheets en handleidingen van de fabrikanten en van wat gebruikers in publieke reviews rapporteren.*
 
-Een vraag die vaak terugkomt: "Solis vs Goodwe omvormer 2026? werkt dat in de praktijk?" Dit artikel geeft het antwoord op basis van fabrieksspecificaties, handleidingen, geverifieerde gebruikersreviews en publieke marktdata — geen marketingverhaal, maar wat de bronnen laten zien.
+Solis en GoodWe komen in vrijwel elke budgetofferte voor zonnepanelen terug, en ze worden vaak als uitwisselbaar gepresenteerd. Op het cijfer waar de meeste mensen naar kijken — het rendement — zijn ze dat ook. Het verschil zit elders: in de app, in hoe je aan firmware-updates komt, en in de vraag of je later een batterij wil koppelen.
 
+> **Kort antwoord:** op rendement is er tussen deze twee geen keuze te maken. Op prijs wint Solis doorgaans met enkele honderden euro's, op software wint GoodWe met de SEMS Portal-app. Wil je later een DC-gekoppelde batterij, dan is de keuze niet Solis-of-GoodWe maar hybride-of-niet — en dat besluit neem je nú, niet over vijf jaar.
 
-> **Kort antwoord:** Solis en Goodwe domineren het budget-segment. Wij vergelijken beide op rendement, app, batterij-readiness en garantie op basis van de datasheets, de handleidingen en wat gebruikers over de apps rapporteren.
->
-> Beide tier-2 budgetmerken. Goodwe heeft betere reputatie qua firmware-stabiliteit en SEMS-app. Solis is goedkoper (~10 procent) en heeft eenvoudigere bediening, maar minder consistente updates.
+## De specificaties naast elkaar
 
-## Korte conclusie
+Wat de datasheets van de vergelijkbare 1-fase modellen in deze klasse melden:
 
-Voor wie weinig tijd heeft: dit artikel vergelijkt Solis en Goodwe op rendement, app, batterij-readiness en garantie. Hieronder onze samenvatting in vijf punten.
-
-- **Werkt het?** Ja, mits je de juiste setup hebt — uitleg verderop.
-- **Kosten?** Tussen €0 en €2.500 afhankelijk van scope.
-- **Terugverdientijd?** 2-7 jaar in de meeste gevallen.
-- **Beste keuze 2026?** Huawei Luna — zie [onze diepere uitleg hier](/posts/beste-omvormer-zonnepanelen-2026/).
-- **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
-
-> **Ons advies:** start met <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> en bouw stapsgewijs uit. Niet alles in één keer.
-
-## 1. Wat is het probleem?
-
-Veel huiseigenaren denken dat zonnepanelen plus warmtepomp het werk is. Klaar. In de praktijk blijft er geld liggen zodra de sturing niet klopt — met name bij dynamische contracten en omvormers.
-
-De kern: omvormers is niet plug-and-play. Je hebt drie dingen nodig: data (P1-meter), sturing (app of platform) en een doel (besparing of comfort). Mis je één van deze drie, dan werkt het niet.
-
-Voor context — wij schreven eerder uitgebreid over [het bredere plaatje](/posts/omvormer-kiezen-welke-past-2026/) en [wat saldering 2027 betekent](/posts/micro-omvormer-vs-string-omvormer-2026/).
-
-## 2. Wat heb je nodig?
-
-Een werkende setup bestaat uit vier componenten:
-
-1. **Slimme meter met werkende P1-poort.** Sinds 2018 standaard in NL.
-2. **Realtime energiemonitor** (HomeWizard P1, Sessy P1, of Smartgateways).
-3. **Een product om te sturen.** In dit artikel als voorbeeld: Huawei Luna.
-4. **Een platform of app.** Tibber, Frank, Home Assistant of OpenHAB.
-
-De fout die we het vaakst tegenkomen: stap 4 overslaan. Zonder platform heb je losse apparaten die elkaar niet kennen. Je warmtepomp gaat aan terwijl je batterij oplaadt — dubbel gebruik, dubbele kosten.
-
-Lees ook: [onze gedetailleerde guide](/posts/huawei-luna-2000-review-2026/) en [de praktijkvergelijking](/posts/solaredge-vs-enphase-2026/).
-
-## 3. Stap-voor-stap aanpak
-
-### Stap 1: meet eerst
-
-Voordat je iets koopt: meet je verbruik in kwartiergegevens. Bij Frank, Tibber of via je leverancier-portal kun je 365 dagen historie downloaden. Plot dit in Excel — je ziet meteen waar de pieken zitten.
-
-In een gemiddeld Nederlands huishouden liggen de pieken tussen 07:00 en 09:00 (douche en ontbijt) en tussen 17:00 en 21:00 (koken en EV laden). Dat zijn ook de duurste uren op een dynamisch contract.
-
-### Stap 2: bepaal het doel
-
-Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus een slimme laadpaal leveren al een flink deel van de besparing op; een thuisbatterij voegt daar bovenop iets toe, maar tegen een investering van enkele duizenden euro's. Reken dat verschil apart door: de terugverdientijd van die laatste stap is vaak fors langer dan die van de eerste.
-
-Reken het voor jezelf door — zie [ons rekenmodel](/posts/beste-zonnepanelen-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> voor concrete prijzen.
-
-### Stap 3: koop de juiste hardware
-
-Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is overkill tenzij je een EV thuis laadt of een groot huishouden hebt. Voor warmtepompen: kies op vermogen + COP, niet op merk.
-
-Onze aanbeveling per scenario:
-
-- **Klein huis, geen EV:** een 5 kWh batterij — circa €3.550 incl. btw, excl. installatie (Sessy 5 kWh als referentie, prijspeil aug 2026), in 6-8 jaar terugverdiend volgens modelberekening. Actuele Huawei Luna-prijs: zie vendor-site.
-- **Middelgroot, 1 EV:** 10 kWh batterij + slim laden via Tibber.
-- **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Huawei Luna.
-
-### Stap 4: configureer het platform
-
-Dit is waar de meeste mensen vastlopen. Home Assistant kost een avond om op te zetten, Tibber 15 minuten. OpenHAB anderhalve dag. Onze inschatting: begin met de fabrikant-app en stap pas over op Home Assistant als je tegen de beperkingen daarvan aanloopt.
-
-Voor batterij-sturing op dynamisch contract: zie [onze diepe uitleg](/posts/montagesysteem-zonnepanelen-vergelijking-2026/).
-
-## 4. Wat kost het?
-
-Realistische cijfers voor 2026, exclusief eventuele subsidies:
-
-| Onderdeel | Kosten | Terugverdientijd |
+| | Solis (1-fase, 5 kW-klasse) | GoodWe (1-fase, 5 kW-klasse) |
 |---|---|---|
-| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
-| P1-meter (HomeWizard) | €99 | < 1 jaar |
-| Home Assistant Yellow | €199 | n.v.t. (tool) |
-| Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
-| Huawei Luna | €0-€2.000 | varieert |
+| Europees rendement | circa 97% | circa 97% |
+| Eigenverbruik in stand-by | enkele watts | enkele watts |
+| Standaardgarantie | 5 jaar, te verlengen | 5 jaar, te verlengen |
+| Verwachte levensduur | 12-15 jaar (fabrikantopgave) | 12-15 jaar (fabrikantopgave) |
+| Monitoring | SolisCloud | SEMS Portal |
+| Batterij mogelijk | alleen in de hybride uitvoering | alleen in de hybride uitvoering |
+| Prijspositie in NL | doorgaans enkele honderden euro's lager | doorgaans iets hoger |
 
-Voor een volledige kostenberekening verwijzen wij naar [onze berekening](/posts/garantie-zonnepanelen-uitleg-2026/). Daar staan ook subsidies op een rij.
+Drie observaties daarbij.
 
-## 5. Drie valkuilen die we het vaakst zien
+**Het rendementsverschil is geen argument.** Beide liggen op circa 97 procent Europees rendement, en dat verschil valt binnen de meetonzekerheid van de norm waarmee het bepaald wordt (EN 50530). Voor een dakinstallatie in Nederland is het niet merkbaar in de jaaropbrengst. Een concreet cijfer voor het opbrengstverschil geven wij daarom niet: er bestaat geen openbare, gecontroleerde vergelijkingstest van deze twee merken op hetzelfde dak, en wie zo'n cijfer noemt, kan het niet onderbouwen.
 
-**Valkuil 1: te groot kopen.** Een 15 kWh-batterij is voor de meeste huishoudens overgedimensioneerd: wie per dag maar 8 kWh nuttig kan verschuiven, haalt met 10 kWh hetzelfde resultaat voor duizenden euro's minder. Reken dus eerst je dagelijks energiestroom door.
+**Het standby-verbruik is een verwaarloosbare post.** Enkele watts nachtverbruik komt over een jaar neer op enkele tientallen kWh — bij een all-in prijs van €0,26/kWh een paar euro. Zet dat niet in je vergelijking.
 
-**Valkuil 2: vendor lock-in.** Bij DC-gekoppelde batterijen (Goodwe, Huawei, SolaX) zit je vast aan dat merk omvormer. Bij AC-gekoppeld (Sessy, Marstek, Powerwall) ben je vrij. Voor toekomstvastheid is AC-gekoppeld de veiliger keuze.
+**De prijs is wel een argument, maar niet het grootste.** Het verschil tussen twee offertes voor dezelfde installatie wordt vaker bepaald door de installatiemarge, het montagesysteem en de kabelweg dan door het omvormermerk. Vraag altijd twee offertes op en vergelijk de totaalprijs, niet de regel met het omvormermerk erin.
 
-**Valkuil 3: geen meetbaar doel.** "Ik wil verduurzamen" is geen doel. "€500 per jaar besparen" wel. Maak het concreet, anders koop je verkeerde spullen.
+## Waar GoodWe voorloopt: de software
 
-## 6. Welk product past bij wie?
+Dit is het enige punt waarop de twee merken in publieke gebruikersreviews consistent verschillen. De SEMS Portal-app van GoodWe krijgt hogere waarderingen dan SolisCloud, met name op twee dingen: stabiliteit van de verbinding en de kwaliteit van de historische data. Wie na drie jaar wil terugkijken hoeveel een string in mei opleverde, heeft daar iets aan.
 
-### Voor budgetbewuste huishoudens
-Ga voor de basisversie van <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a>. Compact, goede app, geen vendor lock-in. Gebruikersreviews zijn over dit model overwegend positief.
+Twee vragen om vóór de aanschaf bij je installateur te stellen, omdat het antwoord per merk en per model verschilt en niet altijd in de brochure staat:
 
-### Voor early adopters die alles slim willen
-Combineer Huawei Luna met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd 2-4 uur, levert structureel 15-25 procent meer besparing.
+1. **Hoe komen firmware-updates op mijn omvormer?** Gaat dat via het portaal en de wifi-dongle, of is er een installateursbezoek nodig? Dat verschil bepaalt hoe snel je een firmwarefout kwijt bent — en of dat je iets kost.
+2. **Kan ik de productiedata lokaal uitlezen, of alleen via de cloud van de fabrikant?** Wie later op prijs wil sturen of een eigen dashboard wil bouwen, heeft een lokale route nodig. Zie [de platformkeuze voor energiebeheer](/posts/domoticz-vs-home-assistant-energie-2026/).
 
-### Voor grote huishoudens of off-grid ambities
-Modulair systeem zoals BYD Battery-Box of Huawei Luna, in combinatie met een hybride-omvormer (Goodwe, SolaX). Investering €12.000-€18.000.
+Voor monitoring geldt bij beide merken hetzelfde risico: valt de cloud van de fabrikant weg, dan verlies je je historie als je die niet zelf hebt weggeschreven. Exporteer periodiek naar CSV, of laat de productiedata parallel in een eigen platform binnenlopen.
 
-## 7. Wat levert het op — en waar komen die cijfers vandaan?
+## De keuze die je nu maakt en niet kunt terugdraaien: hybride of niet
 
-Rendementscijfers zijn sterk huishoudafhankelijk, en veel getallen die online rondgaan zijn niet te herleiden naar een bron. Wij rekenen daarom liever met de variabelen dan met één "gemiddelde":
+De modellen die in dit soort vergelijkingen naast elkaar worden gezet, zijn pure netgekoppelde stringomvormers. Die kunnen geen batterij aansturen. Beide merken hebben daarvoor aparte hybride series.
 
-- **Verbruik:** haal je jaarverbruik uit je jaarafrekening of P1-data, niet uit een landelijk gemiddelde.
-- **Zonneproductie:** reken met de opbrengstindicatie van je installateur op basis van dakvlak, oriëntatie en hellingshoek.
-- **Batterij-arbitrage:** hangt af van de spreiding tussen dal- en piekuren op je dynamische contract; die spreiding verschilt per jaar.
-- **Slim laden:** de winst is het verschil tussen je gemiddelde en je laagste uurtarief, maal het aantal kWh dat je thuis laadt.
+Dat maakt de vraag concreet: verwacht je binnen tien jaar een thuisbatterij?
 
-Wie een terugverdientijd wil weten, vult deze vier posten in met eigen data. Cijfers die wij niet uit een specificatie, een publieke dataset of een openbare test kunnen halen, laten we bewust weg. Wat wél vaststaat: door de afbouw van de saldering wordt zelf verbruiken belangrijker dan terugleveren, en daarmee weegt slimme sturing zwaarder mee in de berekening.
+- **Ja, en je wil DC-gekoppeld.** Kies dan nu een hybride model. Een DC-gekoppelde batterij hangt aan de gelijkstroomzijde van de omvormer, scheelt een conversiestap en is daardoor iets efficiënter — maar het legt batterij en omvormer aan hetzelfde merk vast.
+- **Ja, maar je wil vrij blijven.** Kies dan de goedkopere netgekoppelde omvormer en zet later een AC-gekoppelde batterij achter je bestaande installatie. Dat kost een paar procentpunt rendement en geeft je merkvrijheid terug. Omdat een omvormer met twaalf tot vijftien jaar korter meegaat dan een batterij, is dat voor veel huishoudens de verstandiger route.
+- **Nee.** Neem dan de goedkoopste van de twee die je installateur goed kent, en steek het prijsverschil in een extra paneel.
 
-## 8. Veelgemaakte vragen uit de praktijk
+Reken voordat je hierop besluit door wat een batterij daadwerkelijk oplevert. In [ons rekenmodel](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/) komt een 10 kWh-systeem na het einde van de saldering op circa €353 per jaar uit — bij een investering rond €5.500. Dat verandert de vraag of je nu voor een duurdere hybride omvormer moet kiezen.
 
-**"Mijn installateur zegt dat het niet kan."**
-Vraag een tweede mening. In Nederland zijn er installateurs die wel ervaring hebben met deze setups — zie [onze installateur-checklist](/posts/beste-omvormer-zonnepanelen-2026/).
+## Vijf dingen die bij de installatie fout gaan
 
-**"Het is te duur."**
-Reken het door. Vaak is de terugverdientijd 6-9 jaar, levensduur 15-20 jaar. Dus 6-11 jaar puur winst. Dat is een rendement van 8-12 procent per jaar, beter dan veel beleggingen.
+Deze punten komen bij beide merken terug en zijn het waard om bij de oplevering na te lopen:
 
-**"Ik woon in een huurwoning."**
-Dan zijn je opties beperkter, maar niet nul. Zie [onze huurwoning-guide](/posts/omvormer-kiezen-welke-past-2026/).
+1. **DC-werkschakelaar ontbreekt.** Een scheidingsmogelijkheid aan de gelijkstroomzijde hoort bij de installatie. Bij scherp geprijsde offertes wordt dit weggelaten — controleer of het erin zit.
+2. **Wifi-dongle niet geconfigureerd.** Zolang de dongle niet is aangemeld in het portaal, heb je geen monitoring en geen updateroute. Laat dit bij de oplevering aftekenen, niet "later zelf doen".
+3. **Verkeerde grid-code.** Sinds 2023 geldt in Nederland NEN-EN 50549-1. Staat er nog een oudere instelling in, dan kan de omvormer teruglevering blokkeren of onnodig afschakelen. Dit is de eerste plek om te kijken bij netgerelateerde foutmeldingen.
+4. **Asymmetrisch verdeelde strings.** Bij twee MPPT-ingangen verdeel je panelen zo gelijkmatig mogelijk. Een zware onbalans kost opbrengst zonder dat er een foutmelding komt — je ziet het alleen door de strings in het portaal te vergelijken.
+5. **Aarding niet doorgemeten.** Frame, rails en omvormer horen doorlopend geaard te zijn. Dit is een veiligheidspunt en het is bij schade ook een verzekeringspunt; laat het opnemen in het opleveringsrapport.
 
-## 9. Conclusie
+## Wanneer geen van beide de juiste keuze is
 
-Wij adviseren stapsgewijs verduurzamen: begin met meten, voeg dan een slim product toe en bouw daar het platform omheen. Niet andersom.
+- **Bij veel schaduw op het dak.** Dan is het merk van de stringomvormer niet de vraag, maar de vraag of je optimizers of micro-omvormers nodig hebt. Zie [micro-omvormer versus stringomvormer](/posts/micro-omvormer-vs-string-omvormer-2026/) en [SolarEdge versus Enphase](/posts/solaredge-vs-enphase-2026/).
+- **Bij installaties vanaf ruwweg 7 kWp.** Dan wordt een 3-fase omvormer de logischer keuze. Beide merken hebben 3-fase uitvoeringen; de afweging verschuift dan naar netbelasting en naar hoe je avondpiek eruitziet.
+- **Als je een auto op 11 kW thuis laadt.** Dan bepaalt de fase-indeling meer dan het merk. Deze keuze maak je bij de installatie en draai je later niet goedkoop terug.
+- **Als je installateur maar één van de twee merken echt kent.** Een omvormer waarvan je installateur de instellingen, de foutcodes en de garantieroute uit zijn hoofd kent, is in de praktijk meer waard dan een paar tienden procent rendement.
 
-Onze concrete aanbeveling voor 2026: start met <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> en koppel het aan je dynamisch contract. Investering circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites), terugverdientijd 6-8 jaar (modelberekening), levensduur 15-20 jaar. Geen vendor lock-in.
+## Conclusie
 
-Verder lezen: [overzicht artikelen](/posts/micro-omvormer-vs-string-omvormer-2026/), [gedetailleerde rekenmodellen](/posts/huawei-luna-2000-review-2026/) en [praktijkervaringen](/posts/solaredge-vs-enphase-2026/).
+Op de cijfers waar de discussie meestal over gaat, zijn Solis en GoodWe niet van elkaar te onderscheiden: hetzelfde rendement, hetzelfde standby-verbruik, dezelfde standaardgarantie van vijf jaar. Solis is doorgaans goedkoper, GoodWe heeft de betere app en de betere historische data.
 
-## 10. Technische details: hoe werkt het onder de motorkap?
+Onze afweging: kies GoodWe als je zelf naar de opbrengstdata wil kijken en die over de jaren wil kunnen vergelijken. Kies Solis als je de omvormer vooral als infrastructuur ziet die z'n werk moet doen, en steek het prijsverschil in een extra paneel of in de garantieverlenging. En stel de vraag over hybride of niet vóór de installatie, want dat is de enige beslissing hier die je later niet zonder kosten kunt herzien.
 
-Veel artikelen blijven aan de oppervlakte. Hieronder de technische kern voor wie wil snappen waaróm dingen werken zoals ze werken bij omvormers.
-
-### Energiestromen in kaart
-
-Op een gemiddelde dag in maart lopen er in een verduurzaamd huis vier energiestromen tegelijk: zonneproductie (4-6 kW piek rond 13:00), huishoudelijk verbruik (basislast 350 W, piek 7 kW bij koken), warmtepomp (1,2-2,8 kW modulerend) en EV laden (3,7 kW of 11 kW). De som van deze stromen bepaalt of je kost of verdient.
-
-Zonder slimme sturing lopen deze door elkaar: je warmtepomp draait 's avonds op spitstarief, je batterij is leeg precies wanneer EV-laden begint. Resultaat: je betaalt premium prijs voor stroom die je 8 uur eerder gratis had.
-
-### De rol van forecasting
-
-Tibber, Frank en Home Assistant gebruiken weersvoorspellingen om beslissingen 24 uur vooruit te nemen. Een batterij begint dan bijvoorbeeld om 03:00 op te laden tot 70 procent omdat de prijs de volgende dag om 17:00 piekt. Dit is geen menselijke beslissing — een algoritme doet dit.
-
-De kwaliteit van die forecasting bepaalt een groot deel van je besparing. Goede platforms gebruiken zowel weersdata als historische verbruiksprofielen. Slechte platforms reageren alleen op huidige prijzen.
-
-### Communicatieprotocollen
-
-Drie protocollen domineren de markt:
-
-- **Modbus TCP** — industrieel, betrouwbaar, lokaal. Alle warmtepompen, omvormers en batterijen ondersteunen het. Bestaat sinds 1979.
-- **MQTT** — lichtgewicht message-broker, populair voor IoT. Ideaal voor Home Assistant en zelfbouw-systemen.
-- **REST API (HTTP)** — cloud-only, leverancier-afhankelijk. Werkt overal maar valt uit als internet uitvalt.
-
-Voor toekomstvastheid is Modbus TCP een veiliger keuze dan cloud-API's. Eén keer firmware-update en je kunt nog 15 jaar door zonder fabrikant-dependency.
-
-## 11. Onderhoud en levensduur
-
-Een vaak vergeten kostencomponent. Onderstaande bandbreedtes komen uit onderhoudstarieven van installateurs en de onderhoudsvoorschriften van fabrikanten, voor omvormers:
-
-| Component | Onderhoud/jaar | Levensduur |
-|---|---|---|
-| Zonnepanelen | €0-€50 | 25-30 jaar |
-| Omvormer | €0-€80 | 12-15 jaar |
-| Thuisbatterij (LiFePO4) | €0-€120 | 15-20 jaar |
-| Warmtepomp lucht-water | €175-€275 | 15-20 jaar |
-| Slim laadpaal | €25-€80 | 10-12 jaar |
-
-Belangrijke nuance: garantie en levensduur zijn niet hetzelfde. Een omvormer heeft doorgaans 10 jaar fabrieksgarantie, terwijl de verwachte technische levensduur 12-15 jaar is. Reken voor je terugverdienberekening met verwachte levensduur, niet garantieperiode.
-
-### Wat gaat er kapot?
-
-De onderdelen die het meest kwetsbaar zijn, met de meest storingsgevoelige bovenaan:
-
-1. **Omvormer-koeling.** Stof, ventilatordefect. Eenvoudige reparatie of vervanging na 10 jaar.
-2. **Bypass-diode in panelen.** Bij hotspots door schaduw. Lost zichzelf vaak op of paneel vervangen onder garantie.
-3. **Batterij-BMS.** Zelden, maar bij goedkope merken (geen tier-1) komt het voor.
-4. **Connector-corrosie.** Door slechte installatie. Voorkomen door MC4-vet bij installatie.
-
-Voor preventief onderhoud verwijzen wij naar [onze jaaronderhoud-checklist](/posts/beste-zonnepanelen-2026/).
-
-## 12. Wat gaat er veranderen in 2027-2030?
-
-Onze verwachting op basis van wetgeving en marktontwikkeling:
-
-**2027: einde saldering.** Zelfconsumptie wordt veel waardevoller. Een batterij wordt daardoor waardevoller, omdat elke zelf verbruikte kWh dan de volle leveringsprijs uitspaart in plaats van het teruglevertarief.
-
-**2028: V2G publiekelijk uitgerold.** Eerste massa-marktauto's (VW, Hyundai, Polestar) ondersteunen het. Bidirectionele laadpalen onder €3.000.
-
-**2029: dynamisch contract default.** Vast contract wordt niche. Leveranciers die nu vast aanbieden migreren naar dynamisch met prijsplafond.
-
-**2030: warmtepomp verplicht bij ketelvervanging.** Hybride mag nog, gas-only niet meer. ISDE-subsidie wordt afgebouwd, want het wordt standaard.
-
-Wie nu investeert in de juiste hardware (toekomstvaste protocollen, AC-gekoppelde batterij, modulaire warmtepomp) staat sterk. Wie kiest voor proprietary cloud-systemen loopt het risico op vendor lock-in. Lees ook [onze beleidsanalyse](/posts/montagesysteem-zonnepanelen-vergelijking-2026/).
-
-## 13. Onze aanbevelingen per situatie
-
-Dit is de vraag die het vaakst gesteld wordt. Hieronder onze redactionele keuze per situatie, met de afweging erbij:
-
-**Situatie A: rijtjeshuis, 2 personen, geen EV, 2.800 kWh verbruik**
-Ga voor 8-10 zonnepanelen + Huawei Luna (5 kWh) + dynamisch contract. Investering €8.500. Terugverdientijd 6,5 jaar. Geen warmtepomp nodig — eerst isoleren.
-
-**Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen + 10 kWh batterij + warmtepomp + slimme laadpaal. Investering €24.000. Terugverdientijd 8,2 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a>.
-
-**Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
-20+ panelen + 15-20 kWh modulair + warmtepomp + 2 laadpalen. Investering €38.000-€45.000. Terugverdientijd 9-11 jaar maar maximaal autonoom.
-
-**Situatie D: appartement, 1-2 personen, 1.800 kWh**
-Geen panelen mogelijk? Begin met dynamisch contract + slimme thermostaat + waar mogelijk een infraroodpaneel. Investering €600. Besparing €180-€280 per jaar.
-
-## 14. Slot — wat wij je écht willen meegeven
-
-Verduurzamen is een marathon, geen sprint. Wie in één keer voor €50.000 verbouwt, wacht daarna jaren op de terugverdientijd. Onze aanpak: investeer stap voor stap, en begin elk jaar met de maatregel die op dat moment het meeste rendeert.
-
-Volgorde die wij aanhouden:
-
-1. Isoleren (kruipruimte, spouwmuur, zolder) — €0-€8.000 — direct comfort en besparing.
-2. Dynamisch contract + slimme meter monitoring — €0 — direct €100-€300/jaar.
-3. Zonnepanelen — €4.000-€8.000 — terugverdientijd 6-8 jaar.
-4. Warmtepomp (hybride of vol) — €4.000-€18.000 — terugverdientijd 7-12 jaar.
-5. Thuisbatterij — €4.000-€10.000 — terugverdientijd 6-9 jaar (post-2027).
-6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
-
-Stap 1 en 2 doen iedereen, ongeacht inkomen. Stap 3-6 hangt af van budget en levensfase.
-
-Volgende stappen voor jou: bekijk <a href="https://go.duurzaamthuislab.nl/huawei-luna" target="_blank" rel="nofollow sponsored noopener">Bekijk Huawei Luna</a> voor concrete prijzen, en lees [onze aanvullende guide](/posts/garantie-zonnepanelen-uitleg-2026/) voor verdieping.
-
-## Spec-vergelijking — Solis 5K-2G versus GoodWe DNS-5G
-
-Op papier liggen deze twee modellen dicht bij elkaar. Wat de datasheets van beide fabrikanten melden:
-
-- **Europees rendement:** volgens de specificaties liggen beide op circa 97 procent. Het verschil valt binnen de meetonzekerheid van de norm (EN 50530) en is voor een dakinstallatie in Nederland niet merkbaar in de jaaropbrengst.
-- **Eigenverbruik in stand-by:** beide fabrikanten geven een nachtverbruik van enkele watts op. Over een jaar is dat een verwaarloosbare post in vergelijking met de opbrengst.
-- **Garantie:** standaard 5 jaar bij beide, tegen bijbetaling te verlengen tot 10 of 20 jaar.
-- **Prijs:** Solis ligt in de Nederlandse markt doorgaans een paar honderd euro lager dan de vergelijkbare GoodWe. Vraag altijd twee offertes op — de installatiemarge weegt hier zwaarder mee dan het merkverschil.
-
-Onze inschatting: op rendement is er geen keuze te maken, op prijs wint Solis en op software wint GoodWe. De SEMS Portal-app van GoodWe krijgt in gebruikersreviews consistent hogere waarderingen dan SolisCloud, met name op stabiliteit en op de kwaliteit van de historische data. Voor wie monitoring belangrijk vindt, weegt dat zwaarder dan het prijsverschil.
-
-Een concreet cijfer voor het opbrengstverschil geven wij niet: daar bestaat geen openbare, gecontroleerde vergelijkingstest van deze twee modellen op hetzelfde dak.
-
-## Veelgemaakte fouten bij Solis/GoodWe-installatie
-
-1. **Solis zonder DC-switch geïnstalleerd.** Verplicht in NL, vaak vergeten bij goedkope offertes.
-2. **GoodWe wifi-dongle niet geactiveerd.** Eerste 7 dagen na install moet config in SEMS — anders fabrieksreset nodig.
-3. **Verkeerde grid-code.** Sinds 2023 NEN-EN 50549-1, oudere settings (G83/2) blokkeren teruglevering.
-4. **MPPT-strings asymmetrisch.** Bij 14 panelen 7+7 verdelen, niet 9+5.
-5. **Geen aarding tussen frame en omvormer.** Bij brand- of bliksem-incident geen verzekeringsdekking.
-
-## Wanneer geen van beide top-keuze is
-
-Bij installaties >7 kWp denk aan 3-fase omvormers (Solis 6K-3P, GoodWe DNS-G3 versie). Op 1-fase loop je tegen netbeheerder-grenzen — sommige netbeheerders weigeren teruglevering boven 5 kW op 1-fase.
-
-## Extra FAQ
-
-**Welke firmware-update-ervaring is beter?**
-Solis vereist installateur-bezoek. GoodWe doet OTA-updates via SEMS-app. GoodWe wint hier.
-
-**Kan ik beide combineren met thuisbatterij?**
-Ja, beide hebben hybrid-versies (Solis RHI, GoodWe ES Series). Niet de DNS-G modellen die hier vergeleken zijn — die zijn pure on-grid.
-
----
-
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-22 door de redactie van DuurzaamThuisLab. Heb je een vraag of klopt er iets niet? Laat het ons weten — wij werken dit artikel actief bij.*
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+Verder lezen: [de bredere vergelijking van omvormers](/posts/beste-omvormer-zonnepanelen-2026/) en [wat de garantievoorwaarden op zonnepanelen en omvormers werkelijk dekken](/posts/garantie-zonnepanelen-uitleg-2026/).

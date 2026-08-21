@@ -21,7 +21,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1504328345606-18bbc8c9d7d1&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1621905251189-08b45d6a269e&w=1200&output=webp&q=70
 faq:
 - q: Welke vragen moet je stellen aan een warmtepompinstallateur?
   a: 'Vraag minimaal deze acht dingen. Hoe berekent u de benodigde capaciteit voor mijn woning, en mag ik die warmteverliesberekening zien? Welke aanvoertemperatuur heeft mijn afgiftesysteem op de koudste dag nodig? Levert u een geluidsberekening op de perceelgrens? Bent u gecertificeerd voor het werk aan het koudemiddelcircuit (F-gassen) en onder welke erkenningsregeling werkt u? Wat is de garantietermijn, uitgesplitst naar materiaal en arbeid? Wie is bij een storing mijn aanspreekpunt? Wat kost het jaarlijkse onderhoud en wat zit daarin? En: staat het aangeboden toestel op de ISDE-apparatenlijst van RVO?'

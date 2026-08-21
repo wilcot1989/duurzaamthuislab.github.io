@@ -1,9 +1,9 @@
 ---
 title: 'Domoticz vs Home Assistant: welke is beter voor energie 2026?'
 date: '2026-08-03 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: Domoticz, Home Assistant of OpenHAB voor energie-automatisering? Wij vergelijken ze op basis van documentatie en gebruikersreviews. Vergelijking op P1, dynamische tarieven, batterij-sturing en updates.
+description: Domoticz of Home Assistant voor energiebeheer? Wij vergelijken installatie, hardware-eisen, P1/DSMR- en Modbus-koppelingen, dynamische tarieven, het energiedashboard en het onderhoud.
 categories:
 - smart-home
 tags:
@@ -15,309 +15,157 @@ keywords:
 - domoticz vs home assistant
 - beste smart home platform energie
 - ha vs domoticz
-- openhab vs ha
-- slim energiebeheer platform
+- domoticz p1 meter
+- home assistant energy dashboard
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Werkt mijn warmtepomp met Home Assistant?
-  a: De meeste merken (Quatt, Daikin, Mitsubishi, Atag) hebben Modbus TCP of een open API. Quatt heeft een officiele HA-integratie sinds 2025, Daikin Onecta werkt via cloud-API. Volledig lokale sturing vereist meestal Modbus en een EVOK-relais.
-- q: Wat is het verschil tussen Domoticz, Home Assistant en OpenHAB?
-  a: Home Assistant heeft de grootste community en de meeste integraties (>2.500). Domoticz is lichter en draait prima op een oude Raspberry Pi 3. OpenHAB is technisch sterker voor regels (Java DSL) maar heeft een steile leercurve.
-- q: Heb ik een P1-meter nodig?
-  a: Ja, voor realtime verbruiksdata. Een HomeWizard P1, Smartgateways of een ESP32 met dsmr-leesbril werkt allemaal. Zonder P1 ben je beperkt tot kwartiergegevens van je leverancier.
-- q: Kan ik mijn dynamische contract automatiseren?
-  a: 'Ja. Tibber heeft een officiele HA-integratie, Frank werkt via Frank API of EnergyZero. Je kunt automatiseringen maken zoals: warmtepomp aan tussen 02:00 en 05:00 als prijs onder gemiddelde min 5 cent.'
-- q: Hoe veilig is het om mijn batterij via HA te sturen?
-  a: Zolang je sturing binnen de fabrikant-grenzen blijft (bijv. SoC 10-95 procent) is er geen risico. Bij agressieve patronen kan garantie vervallen — check altijd de voorwaarden van Sessy of Marstek.
-products:
-- name: Tibber
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '0'
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '0'
+- q: 'Wat is het grootste verschil tussen Domoticz en Home Assistant?'
+  a: 'Domoticz is een compacte C++-applicatie die je als één programma installeert en die met weinig rekenkracht toe kan. Home Assistant is een Python-platform met een eigen add-on-ecosysteem, een veel langere integratielijst en een ingebouwd energiedashboard, maar het vraagt structureel meer rekenkracht en schijf-I/O.'
+- q: 'Kan Domoticz een P1-meter uitlezen?'
+  a: 'Ja. Domoticz heeft een ingebouwd hardware-type voor de P1 slimme meter, zowel via een USB-kabel op de meter als via een netwerk-leesbril. Home Assistant doet hetzelfde via de DSMR-integratie of via de lokale API van een netwerk-P1-module. Op dit punt is er inhoudelijk geen verschil.'
+- q: 'Welk platform is beter voor een dynamisch energiecontract?'
+  a: 'Home Assistant, omdat het energiedashboard uur- en dagprijzen naast je verbruik kan zetten en er kant-en-klare integraties voor dagvooruitprijzen bestaan. In Domoticz kan het ook, maar je bouwt de prijsopvraag en de kostenberekening zelf met een script of een dummy-sensor.'
+- q: 'Kan ik een omvormer of thuisbatterij via Modbus sturen?'
+  a: 'In beide platforms wel. Home Assistant heeft een generieke Modbus-integratie waarin je registers in de configuratie vastlegt; Domoticz heeft geen kern-Modbus-ondersteuning en werkt met een plug-in of een tussenlaag die de registers naar MQTT publiceert. Controleer altijd eerst in de handleiding van het apparaat welke registers de fabrikant vrijgeeft.'
+- q: 'Welke hardware heb ik minimaal nodig?'
+  a: 'Voor Domoticz is een Raspberry Pi 3 met een paar tientallen apparaten in de praktijk nog werkbaar. Voor Home Assistant is een Raspberry Pi 4 of 5 met SSD of een kleine x86-mini-pc de praktische ondergrens; op een SD-kaart met veel historie loopt de database vast of raakt de kaart versleten.'
+- q: 'Kan ik van Domoticz naar Home Assistant overstappen zonder alles opnieuw te doen?'
+  a: 'Niet automatisch. Er is geen importroute die apparaten, automatiseringen en historie meeneemt. Je koppelt de apparaten opnieuw, herschrijft de automatiseringen en bouwt het dashboard opnieuw op. Laat de oude installatie draaien tot de nieuwe stabiel is.'
 schema_type: Article
-last_updated: '2026-04-29'
 ---
-*Disclosure: de links naar Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Dit artikel bevat geen affiliate- of commissielinks. Wij vergelijken op basis van de officiële documentatie van beide projecten en van wat gebruikers in publieke forums rapporteren; wij ontvangen van geen van beide projecten een vergoeding.*
 
-"Domoticz vs Home Assistant — werkt dat in de praktijk?" is een van de vaakst gestelde vragen over dit onderwerp. Hieronder zetten we op een rij wat de specificaties, handleidingen en publieke data zeggen, en waar de praktijk afwijkt van de brochure.
+Domoticz en Home Assistant zijn beide gratis, open source en draaien op hardware die je in een meterkast kunt hangen. Toch pakken ze energiebeheer fundamenteel anders aan. Hieronder de vergelijking op de punten die voor stroom, gas, zon en batterij daadwerkelijk verschil maken: installatie, hardware-eisen, P1- en Modbus-koppelingen, dynamische tarieven, het energiedashboard en het onderhoud op langere termijn.
 
+> **Kort antwoord:** wil je één plek waar verbruik, opbrengst, gas en uurprijzen naast elkaar staan en waar je op prijs kunt sturen, dan is Home Assistant het sterkere platform — het energiedashboard en de integratielijst zijn daarvoor gebouwd. Wil je vooral betrouwbaar en zuinig een P1-meter, een paar schakelaars en wat sensoren loggen op bestaande hardware, dan doet Domoticz dat met een fractie van de rekenkracht en het onderhoud.
 
-> **Kort antwoord:** Domoticz, Home Assistant of OpenHAB voor energie-automatisering? Wij vergelijken ze op basis van documentatie en gebruikersreviews. Vergelijking op P1, dynamische tarieven, batterij-sturing en updates.
->
-> De meeste merken (Quatt, Daikin, Mitsubishi, Atag) hebben Modbus TCP of een open API. Quatt heeft een officiele HA-integratie sinds 2025, Daikin Onecta werkt via cloud-API. Volledig lokale sturing vereist meestal Modbus en een EVOK-relais.
+## 1. Twee verschillende ontwerpkeuzes
 
-## Korte conclusie
+Domoticz is één programma, geschreven in C++, met een SQLite-database en een webinterface. Je installeert het, kiest onder *Setup → Hardware* een apparaattype en klaar. Alles wat het platform kan, zit in die ene binary; uitbreiden gebeurt met Python-plug-ins of met scripts (Lua, dzVents, bash) die op events reageren.
 
-Voor wie weinig tijd heeft, de samenvatting in vijf punten.
+Home Assistant is een Python-platform waarin elke koppeling een aparte integratie is. Daarnaast draait er in de gangbare installatievorm (Home Assistant OS) een supervisor met add-ons: Mosquitto, InfluxDB, Node-RED, ESPHome. Het aantal officiële integraties is een orde van grootte groter dan wat Domoticz aan hardwaretypes kent — het exacte aantal verschuift per release, dus kijk op de integratiepagina van home-assistant.io in plaats van op een getal in een artikel.
 
-- **Werkt het?** Ja, mits je de juiste setup hebt — uitleg verderop.
-- **Kosten?** Tussen €0 en €2.500 afhankelijk van scope.
-- **Terugverdientijd?** 2-7 jaar in de meeste gevallen.
-- **Beste keuze 2026?** Hangt af van je profiel — zie [de uitgebreide uitleg](/posts/smart-home-energiebeheer-2026/).
-- **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
+Dat verschil in architectuur verklaart bijna alles wat volgt. Domoticz is klein en stabiel omdat het weinig doet. Home Assistant kan veel meer omdat er veel meer in beweging is — en dat betekent ook meer updates, meer breaking changes en meer hardware.
 
-> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> en bouw stapsgewijs uit — niet alles in één keer.
+## 2. Installatie en hardware-eisen
 
-## 1. Wat is het probleem?
-
-Zonnepanelen en een warmtepomp leveren op zichzelf besparing op, maar zonder sturing blijft er geld liggen: apparaten draaien op de duurste uren en de batterij is leeg precies wanneer de prijs piekt. Dat speelt vooral bij dynamische contracten en smart-home.
-
-De kern: smart-home is niet plug-and-play. Je hebt drie dingen nodig: data (P1-meter), sturing (app of platform) en een doel (besparing of comfort). Mis je één van deze drie, dan blijft het rendement achter.
-
-Voor context — zie ook [het bredere plaatje](/posts/beste-energiemonitor-p1-meter-2026/) en [wat het einde van saldering betekent](/posts/sessy-software-update-2026-radar/).
-
-## 2. Wat heb je nodig?
-
-Een werkende opstelling bestaat uit vier componenten:
-
-1. **Slimme meter met werkende P1-poort.** Sinds 2018 standaard in NL.
-2. **Realtime energiemonitor** (HomeWizard P1, Sessy P1, of Smartgateways).
-3. **Een apparaat of contract om op te sturen** (batterij, laadpaal, warmtepomp, dynamisch tarief).
-4. **Een platform of app.** Tibber, Frank, Home Assistant of OpenHAB.
-
-De fout die in gebruikersforums het vaakst terugkomt: stap 4 overslaan. Zonder platform heb je losse apparaten die elkaar niet kennen. Je warmtepomp gaat aan terwijl je batterij oplaadt — dubbel gebruik, dubbele kosten.
-
-Lees ook: [de gedetailleerde guide](/posts/tibber-review-ervaringen-2026/) en [de vergelijking in de praktijk](/posts/frank-energie-vs-tibber-2026/).
-
-## 3. Stap-voor-stap aanpak
-
-### Stap 1: meet eerst
-
-Voordat je iets koopt: meet je verbruik in kwartiergegevens. Bij Frank, Tibber of via je leverancier-portal kun je 365 dagen historie downloaden. Plot dit in Excel — je ziet meteen waar de pieken zitten.
-
-In een gemiddeld gezinsprofiel liggen de pieken rond 07:00-09:00 (douche en ontbijt) en 17:00-21:00 (koken en EV laden). Dat zijn ook de duurste uren op een dynamisch contract.
-
-### Stap 2: bepaal het doel
-
-Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden leveren al een groot deel van de winst; de batterij voegt daar arbitrage en extra zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, moet je met je eigen verbruikscijfers narekenen — bij een klein prijsverschil per jaar loopt de terugverdientijd van een batterij snel op tot ver boven de tien jaar.
-
-Reken het voor jezelf door — zie [het rekenmodel](/posts/dynamische-energiecontracten-thuisbatterij-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> voor concrete prijzen.
-
-### Stap 3: koop de juiste hardware
-
-Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is overkill tenzij je een EV thuis laadt of een groot huishouden hebt. Voor warmtepompen: kies op vermogen + COP, niet op merk.
-
-Onze inschatting per scenario:
-
-- **Klein huis, geen EV:** 5 kWh batterij — marktprijs vanaf circa €3.550 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites); in de meeste rekenmodellen 6-8 jaar terugverdientijd (modelberekening).
-- **Middelgroot, 1 EV:** 10 kWh batterij plus slim laden op een dynamisch tarief.
-- **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Sessy thuisbatterij.
-
-### Stap 4: configureer het platform
-
-Dit is waar de meeste mensen vastlopen. Volgens de documentatie en gebruikerservaringen is een fabrikant-app in een kwartier ingericht, Home Assistant kost een avond en OpenHAB aanzienlijk meer. Onze aanbeveling: begin met de fabrikant-app en stap pas over op Home Assistant als je tegen beperkingen aanloopt.
-
-Voor batterij-sturing op dynamisch contract: zie [de uitgebreide uitleg](/posts/sessy-vs-marstek-vergelijking-2026/).
-
-## 4. Wat kost het?
-
-Indicatieve marktprijzen voor 2026, exclusief eventuele subsidies:
-
-| Onderdeel | Kosten | Terugverdientijd |
+| | Domoticz | Home Assistant |
 |---|---|---|
-| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
-| P1-meter (HomeWizard) | €99 | < 1 jaar |
-| Home Assistant Yellow | €199 | n.v.t. (tool) |
-| Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
-| Sessy thuisbatterij | €0-€2.000 | varieert |
+| Gangbare installatievorm | pakket of Docker-container op een bestaande Linux-machine | Home Assistant OS op eigen hardware, of container op Linux |
+| Database | SQLite, één bestand | SQLite (standaard) of externe database, plus recorder-instellingen |
+| Praktische ondergrens hardware | Raspberry Pi 3, SD-kaart nog werkbaar | Raspberry Pi 4 of 5 met SSD, of x86-mini-pc |
+| Configuratie | volledig via de webinterface | webinterface, met YAML voor de zwaardere onderdelen |
+| Add-on-ecosysteem | geen; plug-ins en scripts | supervisor met add-ons (MQTT-broker, database, Node-RED) |
 
-Voor een volledige kostenberekening: zie [de uitgebreide berekening](/posts/beste-thuisbatterij-nederland-2026/). Daar staan ook subsidies op een rij.
+De hardware-eis is de belangrijkste praktische scheidslijn. Home Assistant houdt standaard alle sensorwaarden in een recorder-database bij, en energiesensoren die elke paar seconden een nieuwe waarde leveren laten die database snel groeien. Op een SD-kaart is dat een dubbel probleem: traag én slijtage. Domoticz schrijft veel minder weg en overleeft daarom jaren op precies dezelfde hardware.
 
-## 5. Drie valkuilen bij de aanschaf
+Stroomverbruik als modelberekening, met de all-in prijs van €0,26/kWh die wij op deze site als rekenconstante gebruiken: een Raspberry Pi met SSD in de orde van 4 W kost ongeveer 35 kWh en dus circa €9 per jaar; een kleine mini-pc in de orde van 12 W komt op ruim 100 kWh en circa €27 per jaar. Het zijn schattingen op basis van typische verbruikswaarden, geen metingen — maar de conclusie houdt: het verschil in energierekening is klein ten opzichte van wat sturing kan opleveren.
 
-**Valkuil 1: te groot kopen.** Een batterij die groter is dan je dagelijkse nuttige doorzet, staat een deel van het jaar stil. Bereken eerst hoeveel kWh je per dag daadwerkelijk kunt verschuiven; dat is bijna altijd minder dan de nominale capaciteit.
+## 3. De P1-meter uitlezen
 
-**Valkuil 2: vendor lock-in.** Bij DC-gekoppelde batterijen (Goodwe, Huawei, SolaX) zit je vast aan dat merk omvormer. Bij AC-gekoppeld (Sessy, Marstek, Powerwall) ben je vrij. Voor toekomstvastheid heeft AC onze voorkeur.
+Dit is voor energiebeheer de belangrijkste koppeling, en hier zijn de platforms verrassend gelijkwaardig.
 
-**Valkuil 3: geen meetbaar doel.** "Ik wil verduurzamen" is geen doel. "€500 per jaar besparen" wel. Maak het concreet, anders koop je verkeerde spullen.
+**Domoticz** heeft *P1 Smart Meter* als ingebouwd hardwaretype, in twee varianten: seriële USB-kabel rechtstreeks op de P1-poort van de meter, of een netwerkverbinding naar een leesbril die de DSMR-telegrammen over TCP doorstuurt. Je krijgt automatisch tellers voor levering, teruglevering, actueel vermogen en gas.
 
-## 6. Welk product past bij wie?
+**Home Assistant** heeft de DSMR-integratie voor exact dezelfde twee routes, plus aparte integraties voor netwerk-P1-modules die een eigen lokale API aanbieden. Die laatste route is de eenvoudigste: je vult een IP-adres in en de sensoren verschijnen.
 
-### Voor budgetbewuste huishoudens
-Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
+Twee aandachtspunten die voor beide gelden:
 
-### Voor early adopters die alles slim willen
-Combineer de installatie met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd volgens de documentatie 2-4 uur; je krijgt er fijnmazigere sturing voor terug dan met alleen de fabrikant-app.
+- De P1-poort levert één telegram per seconde in de nieuwere DSMR-versies, en in oudere meters per tien seconden. Dat bepaalt hoe fijnmazig je kunt sturen — niet je software.
+- Een meter kan maar één P1-verbinding tegelijk aan. Wil je zowel je platform als een aparte energiemonitor of de app van je leverancier voeden, dan heb je een splitter of een leesbril nodig die het telegram doorgeeft aan meerdere afnemers.
 
-### Voor grote huishoudens of off-grid ambities
-Modulair systeem zoals BYD Battery-Box of Sessy thuisbatterij, in combinatie met een hybride-omvormer (Goodwe, SolaX). Investering €12.000-€18.000.
+Meer over de hardwarekant: [de vergelijking van P1-energiemonitors](/posts/beste-energiemonitor-p1-meter-2026/).
 
-## 7. Rekenvoorbeeld: wat levert een complete opstelling op?
+## 4. Omvormer, warmtepomp en batterij: Modbus en MQTT
 
-Onderstaand voorbeeld is een rekenvoorbeeld met expliciete aannames — geen meting. Vul je eigen cijfers in en de uitkomst verandert mee.
+Wie niet alleen wil meten maar ook sturen, komt vroeg of laat bij Modbus TCP uit. Vrijwel elke hybride omvormer, thuisbatterij en lucht-waterwarmtepomp heeft een Modbus-interface; welke registers de fabrikant vrijgeeft, staat in de installatie- of Modbus-handleiding van dat specifieke model. Zoek dat document op vóór je hardware koopt — het bepaalt wat je überhaupt kunt uitlezen en schrijven.
 
-Aannames:
+**Home Assistant** heeft een generieke Modbus-integratie. Je definieert in YAML per register een sensor of een schakelaar, met adres, datatype en schaalfactor. Voor de bekendste merken bestaan daarnaast kant-en-klare integraties of HACS-projecten die de registerkaart al hebben ingevuld.
 
-- **Stroomverbruik:** 4.380 kWh per jaar (gezin van 4)
-- **Zonneproductie:** 4.920 kWh (14 panelen, zuid en west)
-- **Teruglevering zonder batterij:** 1.890 kWh
-- **Batterij:** 10 kWh, gemiddelde bruikbare dag-spread €0,18/kWh na belasting
+**Domoticz** heeft geen Modbus in de kern. De gangbare route is een tussenlaag die Modbus naar MQTT vertaalt en de waarden als dummy-devices in Domoticz zet. Dat werkt, maar het is een extra component die je zelf moet onderhouden.
 
-Uitkomst van het model: circa €350-€400 aan arbitrage, plus €300 aan slim laden van een EV ten opzichte van een vast tarief. Bij een investering van €11.200 voor panelen, omvormer, batterij en laadpaal komt de terugverdientijd op ongeveer 10 jaar.
+Voor MQTT zijn beide platforms goed uitgerust: Domoticz heeft MQTT-client- en MQTT-autodiscovery-hardwaretypes, Home Assistant heeft de MQTT-integratie met discovery. Zelfbouwsensoren op ESP-basis werken in beide even goed.
 
-De spread is de dominante variabele in dit model: halveert die, dan verdwijnt het grootste deel van de arbitragewinst. Na het einde van de saldering verschuift het verdienmodel van teruglevering naar eigen gebruik — daarom wordt sturing op dynamisch tarief belangrijker.
+Praktisch advies: geef bij nieuwe hardware voorrang aan apparaten met een gedocumenteerde lokale interface (Modbus TCP of een lokale HTTP-API) boven apparaten die alleen via de cloud van de fabrikant te bereiken zijn. Een cloud-API kan worden uitgezet of achter een abonnement worden gezet; een Modbus-register blijft doen wat het doet. Zie ook [de Modbus-route voor warmtepompen](/posts/home-assistant-warmtepomp-integratie-2026/).
 
-## 8. Veelgemaakte vragen uit de praktijk
+## 5. Dynamische tarieven en sturen op prijs
 
-**"Mijn installateur zegt dat het niet kan."**
-Vraag een tweede mening. Er zijn installateurs met ervaring met deze setups — zie [de installateur-checklist](/posts/smart-home-energiebeheer-2026/).
+Hier loopt Home Assistant duidelijk voor.
 
-**"Het is te duur."**
-Reken het door met je eigen cijfers. In veel rekenvoorbeelden ligt de terugverdientijd op 6-9 jaar bij een verwachte levensduur van 15-20 jaar. Wat dat als rendement betekent, hangt af van de prijsspreads en de restwaarde — behandel het als een schatting met een brede marge, niet als een gegarandeerd rendement.
+Het **energiedashboard** van Home Assistant is expliciet gebouwd voor deze use case. Je wijst per categorie een sensor aan — netlevering, teruglevering, zonneproductie, gas, batterij, individuele apparaten — en je kunt aan de levering- en teruglevercategorie een prijsentiteit koppelen. Vul daar een dagvooruitprijs in en het dashboard rekent per uur je werkelijke kosten en opbrengsten uit. Voor de dagvooruitprijzen zijn er integraties die de uurprijzen van de day-ahead-markt ophalen; sommige leveranciers hebben daarnaast een eigen integratie voor klanten.
 
-**"Ik woon in een huurwoning."**
-Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/posts/beste-energiemonitor-p1-meter-2026/).
+Op die prijsentiteit bouw je vervolgens automatiseringen: laad de batterij in de goedkoopste uren van het aankomende venster, zet de boiler aan als de prijs onder het daggemiddelde minus een marge zakt, stel het laden van de auto uit tot na de avondpiek. Omdat de prijzen als attribuut met een volledig uurlijstje beschikbaar zijn, kun je vooruit plannen in plaats van alleen reageren op de huidige prijs — dat is het verschil tussen een goede en een matige besparing.
 
-## 9. Conclusie
+In **Domoticz** kan hetzelfde, maar je bouwt de onderdelen zelf: een script dat de uurprijzen ophaalt en in een dummy-sensor of een tekstvariabele zet, en een dzVents- of Lua-script dat daarop schakelt. Voor wie graag scripts schrijft is dat prima; voor wie een dashboard wil dat kosten en opbrengsten netjes optelt, is het veel handwerk.
 
-Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
+Let bij het inrichten op één ding dat vaak fout gaat: de beursprijs is niet je tarief. Bij je leverancier komen energiebelasting, btw en een inkoopvergoeding bovenop de inkoopprijs, en aan de terugleverzijde krijg je die belastingcomponent niet terug. Reken in je automatiseringen met je eigen all-in tarief, niet met de kale uurprijs — anders lijkt verschuiven aantrekkelijker dan het is. Zie [het rekenmodel voor een batterij op een dynamisch contract](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/).
 
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
+## 6. Dashboards en historie
 
-Verder lezen: [het overzichtsartikel](/posts/sessy-software-update-2026-radar/), [de rekenmodellen](/posts/tibber-review-ervaringen-2026/) en [de verzamelde gebruikerservaringen](/posts/frank-energie-vs-tibber-2026/).
+Domoticz levert per apparaat standaardgrafieken op dag-, maand- en jaarniveau. Ze zijn functioneel en je hoeft er niets voor te doen, maar samenstellen wat jij wil zien is beperkt.
 
-## 10. Technische details: hoe werkt het onder de motorkap?
+Home Assistant heeft naast het energiedashboard een vrij indeelbaar dashboard met kaarten; voor fijnmazige grafieken gebruiken veel mensen een grafiekkaart uit de community-store. Dat is krachtiger, maar het is ook de plek waar de meeste tijd in gaat zitten en waar een update van een community-component je dashboard kan breken.
 
-Hieronder de technische kern voor wie wil begrijpen waaróm dingen werken zoals ze werken bij smart-home.
+Voor langetermijnhistorie geldt in beide gevallen: zet een backup in. Home Assistant houdt naast de recorder-database langetermijnstatistieken per uur bij, waardoor het energiedashboard jaren terug kan kijken zonder dat de database onbeheersbaar groeit. Domoticz comprimeert historie zelf naar dag- en maandwaarden. Verlies van de database betekent in beide systemen verlies van je historie — en dat is precies het gegeven waarmee je over vijf jaar wil aantonen wat een maatregel heeft opgeleverd.
 
-### Energiestromen in kaart
+## 7. Onderhoud en updates
 
-Op een gemiddelde voorjaarsdag lopen er vier energiestromen door elkaar: zonneproductie (4-6 kW piek rond het middaguur), huishoudelijk verbruik (basislast rond 350 W, pieken tot 7 kW bij koken), warmtepomp (1,2-2,8 kW modulerend) en EV-laden (3,7 kW of 11 kW). De som van deze stromen bepaalt of je op dat moment kost of verdient.
+Dit is de post die mensen bij de keuze systematisch onderschatten.
 
-Zonder slimme sturing lopen deze door elkaar: je warmtepomp draait 's avonds op spitstarief, je batterij is leeg precies wanneer EV-laden begint. Resultaat: je betaalt de piekprijs voor stroom die uren eerder bijna gratis was.
-
-### De rol van forecasting
-
-Tibber, Frank en Home Assistant gebruiken weersvoorspellingen en dag-vooruitprijzen om beslissingen 24 uur vooruit te nemen: laden om 03:00 tot 70% omdat de prijs de volgende dag om 17:00 piekt. Dat is een algoritmische beslissing, geen menselijke.
-
-De kwaliteit van die forecasting bepaalt een aanzienlijk deel van je besparing. Goede platforms gebruiken zowel weersdata als historische verbruiksprofielen; simpele implementaties reageren alleen op de huidige prijs.
-
-### Communicatieprotocollen
-
-Drie protocollen domineren de markt:
-
-- **Modbus TCP** — industrieel, betrouwbaar, lokaal. Vrijwel alle warmtepompen, omvormers en batterijen ondersteunen het.
-- **MQTT** — lichtgewicht message-broker, populair voor IoT. Ideaal voor Home Assistant en zelfbouw-systemen.
-- **REST API (HTTP)** — cloud-only, leverancier-afhankelijk. Werkt overal maar valt uit als internet uitvalt.
-
-Voor toekomstvastheid verdient Modbus TCP de voorkeur boven cloud-API's: lokale besturing blijft werken als een fabrikant zijn cloud uitzet.
-
-## 11. Onderhoud en levensduur
-
-Een vaak vergeten kostencomponent. Indicatieve bedragen op basis van onderhoudscontracten en fabrikantopgaven voor smart-home:
-
-| Component | Onderhoud/jaar | Levensduur |
+| | Domoticz | Home Assistant |
 |---|---|---|
-| Zonnepanelen | €0-€50 | 25-30 jaar |
-| Omvormer | €0-€80 | 12-15 jaar |
-| Thuisbatterij (LiFePO4) | €0-€120 | 15-20 jaar |
-| Warmtepomp lucht-water | €175-€275 | 15-20 jaar |
-| Slim laadpaal | €25-€80 | 10-12 jaar |
+| Releasetempo | rustig; stabiele versies met lange tussenpauzes | maandelijkse feature-release, plus patch-releases |
+| Breaking changes | zeldzaam | komen voor; per release gedocumenteerd |
+| Backup | database- en configuratiebestand kopiëren | ingebouwde snapshot van configuratie en add-ons |
+| Community-uitbreidingen | plug-ins en scripts | add-ons en een community-store |
+| Onderhoud per jaar | laag | reken op enkele uren, meer bij veel community-componenten |
 
-Belangrijke nuance: garantie en levensduur zijn niet hetzelfde. Een omvormer met 10 jaar garantie gaat volgens fabrikantopgaven doorgaans 12-15 jaar mee. Reken voor je terugverdienberekening met verwachte levensduur, niet met de garantieperiode.
+Home Assistant vraagt om iemand die af en toe de release-notes leest. Wie een jaar niet update en dan in één keer doorspringt, loopt tegen opgestapelde wijzigingen aan. Domoticz vraagt vrijwel niets, maar geeft je ook geen nieuwe integraties.
 
-### Wat gaat er kapot?
+Twee vaste aanraders, ongeacht je keuze: draai van SSD in plaats van SD-kaart, en zet automatische backups aan naar een plek buiten het apparaat.
 
-De faalmodi die installateurs en fabrikant-servicedocumentatie het vaakst noemen, ongeveer in volgorde van frequentie:
+## 8. Overstappen van Domoticz naar Home Assistant
 
-1. **Omvormer-koeling.** Stof, ventilatordefect. Eenvoudige reparatie of vervanging na 10 jaar.
-2. **Bypass-diode in panelen.** Bij hotspots door schaduw. Lost zichzelf vaak op of paneel vervangen onder garantie.
-3. **Batterij-BMS.** Zelden, maar bij goedkope merken (geen tier-1) komt het voor.
-4. **Connector-corrosie.** Door slechte installatie. Voorkomen door MC4-vet bij installatie.
+De meest voorkomende reden om over te stappen is een ontbrekende integratie: een laadpaal, een dynamische leverancier of een batterij waarvoor Home Assistant een officiële koppeling heeft en Domoticz geen hardwaretype.
 
-Voor preventief onderhoud: zie [de jaaronderhoud-checklist](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
+Wat de overstap volgens de documentatie van beide projecten praktisch betekent:
 
-## 12. Wat gaat er veranderen in 2027-2030?
+- Sensoren en apparaten koppel je opnieuw. Er is geen automatische importroute van Domoticz naar Home Assistant.
+- Automatiseringen (Domoticz-events, Lua- of dzVents-scripts) herschrijf je naar Home Assistant-automatiseringen of YAML.
+- Het dashboard bouw je opnieuw op.
+- Historie gaat niet mee. Wil je die bewaren, exporteer dan eerst je Domoticz-grafieken naar CSV.
+- Home Assistant vraagt structureel meer rekenkracht en schijf-I/O. Draait je Domoticz op een Pi 3, dan hoort nieuwe hardware bij het overstapbudget.
 
-Onze verwachting op basis van wetgeving en marktontwikkeling — geen zekerheden:
+Reken bij enkele tientallen sensoren op een avond tot een dag werk, en houd de oude installatie draaiend tot de nieuwe stabiel is. Een tussenvorm die goed werkt: laat Domoticz de bestaande hardware uitlezen en publiceer alles via MQTT naar Home Assistant. Zo migreer je stap voor stap. Permanent twee systemen naast elkaar draaien is af te raden — twee keer updaten, twee dashboards, twee logbestanden.
 
-**2027: einde saldering.** Zelfconsumptie wordt waardevoller; het verdienmodel van een batterij verschuift van teruglevering naar eigen gebruik en arbitrage.
+## 9. Veelgemaakte fouten in de keuze
 
-**2028: bredere V2G-uitrol.** De eerste massamarktauto's ondersteunen bidirectioneel laden; de verwachting is dat bidirectionele laadpalen verder in prijs dalen.
+1. **Hardware onderschatten.** Home Assistant met energiesensoren op een Pi 3 met SD-kaart wordt traag en frustrerend. Pi 4 of 5 met SSD, of een mini-pc.
+2. **Domoticz afschrijven om de interface.** Onder de motorkap is Domoticz licht en stabiel. Voor een P1-meter, wat schakelaars en een handvol sensoren is het een uitstekende keuze die jaren vergeten in de meterkast kan hangen.
+3. **Community-componenten verwarren met kernfunctionaliteit.** Veel Home Assistant-tutorials gebruiken onderdelen uit de community-store. Die zijn niet gebonden aan het releaseproces van het project; bij een update kan zo'n component stilvallen.
+4. **Geen backups instellen.** Een corrupte SD-kaart kost je in beide systemen al je historie.
+5. **Meteen met YAML beginnen.** Beide platforms hebben interfacegestuurde flows. Leer eerst wat het platform zelf kan voordat je gaat programmeren.
+6. **Sturen zonder doel.** Meten is de eerste stap, maar een dashboard bespaart niets. Bepaal welk apparaat je wil verschuiven en op welk signaal, anders bouw je een mooi paneel zonder resultaat.
 
-**2029: dynamisch contract als norm.** Vaste contracten worden waarschijnlijk niche, mogelijk in de vorm van dynamisch met prijsplafond.
+## 10. Wanneer je geen van beide nodig hebt
 
-**2030: strengere eisen bij ketelvervanging.** De richting van het beleid is hybride of volledig elektrisch; hoe de regels exact luiden, hangt af van besluitvorming die nog loopt.
+Heb je alleen zonnepanelen, een dynamisch contract en een elektrische auto? Dan doet EVCC — open source, licht, gericht op laden op zon en prijs — wat nodig is zonder een volledige home-automation-stack. Het draait op zeer bescheiden hardware.
 
-Wie nu investeert in toekomstvaste hardware (open protocollen, AC-gekoppelde batterij, modulaire warmtepomp) staat sterker dan wie kiest voor gesloten cloud-systemen. Lees ook [de beleidsanalyse](/posts/sessy-vs-marstek-vergelijking-2026/).
+Wil je uitsluitend monitoren zonder te sturen? Dan is een netwerk-P1-module met de eigen app van de fabrikant genoeg. Je hebt direct grafieken en er is geen platform om te onderhouden. De grens ligt bij het moment waarop je op basis van die data iets wil aan- of uitzetten — dan heb je een platform nodig.
 
-## 13. Rekenvoorbeelden per situatie
+## 11. Conclusie: welke voor wie
 
-Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijsindicaties, terugverdientijden volgen uit het model in hoofdstuk 7:
+**Kies Home Assistant** als energie het doel is en je op prijs wil sturen: het energiedashboard, de prijsintegraties, de generieke Modbus-integratie en de lengte van de integratielijst maken het geheel dat je anders zelf in scripts bouwt. Voorwaarde is dat je bereid bent in fatsoenlijke hardware te investeren en een paar keer per jaar release-notes te lezen.
 
-**Situatie A: rijtjeshuis, 2 personen, geen EV, 2.800 kWh verbruik**
-8-10 zonnepanelen, 5 kWh batterij, dynamisch contract. Investering circa €8.500, terugverdientijd in het model 6-8 jaar. Warmtepomp nog niet aan de orde — eerst isoleren.
+**Kies Domoticz** als je een bestaande, werkende installatie hebt, of als je doel meten en eenvoudig schakelen is op zuinige hardware met minimaal onderhoud. Het is geen tweede keus — het is een ander uitgangspunt.
 
-**Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>.
+**Kies OpenHAB** als je een sterke regelengine wil en je niet laat afschrikken door een stevige leercurve. Voor wie specifiek zonnepanelen en een batterij wil sturen: [openHAB voor zonnepanelen en batterijsturing](/posts/openhab-zonnepanelen-batterij-sturing-2026/).
 
-**Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
-20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.
-
-**Situatie D: appartement, 1-2 personen, 1.800 kWh**
-Geen panelen mogelijk? Begin met een dynamisch contract, een slimme thermostaat en waar mogelijk lokale elektrische bijverwarming. Investering circa €600, besparing in het model €180-€280 per jaar.
-
-## 14. Slot
-
-Verduurzamen is een marathon, geen sprint. Alles in één keer verbouwen levert een lange wachttijd op je terugverdientijd op; per jaar de meest renderende stap zetten werkt beter.
-
-De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
-
-1. Isoleren (kruipruimte, spouwmuur, zolder) — €0-€8.000 — direct comfort en besparing.
-2. Dynamisch contract plus monitoring — €0-€100 — in de meeste modellen €100-€300 per jaar.
-3. Zonnepanelen — €4.000-€8.000 — terugverdientijd 6-8 jaar.
-4. Warmtepomp (hybride of vol) — €4.000-€18.000 — terugverdientijd 7-12 jaar.
-5. Thuisbatterij — €4.000-€10.000 — terugverdientijd 6-9 jaar in de meeste modellen.
-6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
-
-Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
-
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/beste-thuisbatterij-nederland-2026/) voor verdieping.
-
-## Wat een overstap van Domoticz naar Home Assistant inhoudt
-
-De meest voorkomende reden om over te stappen is een ontbrekende integratie: Domoticz heeft geen equivalent voor veel nieuwere apparaten (laadpalen, dynamische leveranciers) waarvoor Home Assistant een officiële integratie heeft.
-
-Wat de overstap praktisch betekent, volgens de migratiedocumentatie van beide projecten en ervaringsverslagen in de forums:
-
-- Sensoren en apparaten moet je opnieuw koppelen; er is geen automatische importroute van Domoticz naar Home Assistant.
-- Automatiseringen (Domoticz-events of Lua-scripts) moet je herschrijven naar HA-automations of YAML.
-- Het dashboard bouw je opnieuw op; Home Assistant biedt met kaarten als ApexCharts fijnmaziger grafieken.
-- Home Assistant vraagt structureel meer rekenkracht en schijf-I/O dan Domoticz. Op een Raspberry Pi 3 loopt het volgens de systeemeisen van het project tegen zijn grenzen aan; Pi 4 met SSD of een NUC is de praktische ondergrens.
-
-Reken op een avond tot een dag werk bij een setup met enkele tientallen sensoren, en houd de oude installatie draaiend tot de nieuwe stabiel is.
-
-## Veelgemaakte fouten in de keuze
-
-1. **Hardware onderschatten.** Home Assistant op een Pi 3 is traag en frustrerend. Minimaal Pi 4 of liever NUC.
-2. **Domoticz afschrijven om de UI.** Onder de motorkap is Domoticz light en stabiel — voor een eenvoudige setup met 10-15 sensoren is het prima.
-3. **Add-ons en HACS verwarren met core-functionaliteit.** Veel HA-tutorials gebruiken HACS-only componenten die in productie minder stabiel zijn.
-4. **Geen backups instellen.** Een corrupte SD-card kost je in beide systemen alle historie. SSD-boot is verplicht.
-5. **Direct met YAML beginnen.** Beide systemen hebben GUI-flows — leer eerst die vóór code.
-
-## Wanneer geen van beide nodig is
-
-Heb je alleen panelen, een dynamisch contract en een EV? Dan doet EVCC (open source, lichtgewicht) alles wat nodig is zonder de complexiteit van een full home-automation stack. Loopt op een Pi Zero 2.
-
-Wil je puur energiemonitoring zonder sturing? Dan is een P1-monitor met Home Wizard cloud genoeg — kost €69 en je hebt direct grafieken in een app, zonder onderhoud.
-
-## Extra FAQ
-
-**Kan ik beide tegelijk draaien?**
-Technisch ja, via MQTT als doorgeefluik. Praktisch is dat onderhouds-hel: twee systemen updaten, twee dashboards, twee logbestanden.
-
-**Welke is energiezuiniger om 24/7 te draaien?**
-Domoticz op een Pi Zero 2: ongeveer 1,5 watt continu, 13 kWh per jaar (€4). Home Assistant op een NUC: 8-12 watt, 80-105 kWh per jaar (€25-€32).
+Wat je ook kiest: begin bij de P1-meter, laat een paar weken draaien, en beslis daarna welk apparaat je gaat verschuiven. Die volgorde levert meer op dan een dashboard dat op dag één alles laat zien.
 
 ---
 
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bronnen:** de integratiedocumentatie van [Home Assistant](https://www.home-assistant.io/integrations/) en de hardware- en scriptdocumentatie van [Domoticz](https://www.domoticz.com/wiki/Main_Page) — beide geraadpleegd op 21 augustus 2026.

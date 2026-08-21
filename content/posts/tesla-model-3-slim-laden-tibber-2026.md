@@ -1,9 +1,9 @@
 ---
-title: 'Tesla Model 3 slim laden met Tibber: zo bespaar je op laadkosten'
+title: 'Tesla Model 3 slim laden met Tibber: koppeling, schema en opbrengst'
 date: '2026-08-08 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: Een Tesla Model 3 automatisch laten laden op de goedkoopste uren via Tibber en de Tesla API. Setup, kosten, valkuilen en een rekenmodel voor de besparing.
+description: Een Tesla Model 3 laten laden op de goedkoopste uren van een dynamisch contract. Hoe de koppeling met Tibber werkt, hoe je een laadschema op day-ahead-prijzen bouwt en wat het per jaar oplevert.
 categories:
 - elektrisch-rijden
 tags:
@@ -17,305 +17,114 @@ keywords:
 - tesla dynamisch tarief
 - tesla api laden
 - goedkoop laden tesla
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Wat is het verschil tussen V2H en V2G?
-  a: V2H (vehicle-to-home) levert stroom uit je auto naar je huis, V2G ook naar het net. V2G heeft contract met netbeheerder nodig, V2H niet. In Nederland is V2H technisch al mogelijk, V2G is in pilotfase.
-- q: Welke autos kunnen V2H of V2G in 2026?
-  a: Nissan Leaf en Ariya, Hyundai Ioniq 5/6, Kia EV6/EV9, Polestar 3 (vanaf 2026), VW ID.Buzz GTX en MG ZS EV. Tesla nog niet officieel — een hardware-update wordt verwacht in 2026/2027.
-- q: Welke laadpaal heb ik nodig voor V2H?
-  a: Een bidirectionele DC-paal zoals Wallbox Quasar 2 of Ambibox Carbi. Kostprijs 4.000-8.000 euro. AC-bidirectioneel komt in 2026 op de markt en wordt naar verwachting goedkoper.
-- q: Bespaar ik echt geld met slim laden via Tibber?
-  a: Ja, mits je een dynamisch contract hebt. Hoeveel je bespaart hangt af van je jaarkilometrage en van het verschil tussen dal- en piekprijs; reken met je eigen laadvolume en de spread uit de EPEX-historie. Tussen leveranciers zit verschil door de manier waarop onbalanskosten worden doorberekend.
-- q: Kan ik mijn ID.3 net zo slim laden als een Tesla?
-  a: Bijna. ID.3 ondersteunt slim laden via We Connect ID en sommige laadpalen (Easee, Zaptec). Tesla heeft een directe API die responsiever is, maar de besparing is vergelijkbaar als de paal de prijscurve volgt.
+- q: 'Hoeveel scheelt slim laden per kWh?'
+  a: 'Minder dan vaak wordt gesuggereerd. Onze modelaanname voor laden in de nachtelijke daluren is €0,220 per kWh all-in, tegenover €0,26 per kWh als je ongestuurd over de dag verdeeld laadt. Dat is ongeveer 4 cent per kWh. Het voordeel zit dus niet in de prijs per kWh maar in het jaarvolume: bij 3.000 kWh thuisladen is dat circa €120 per jaar.'
+- q: 'Hoe koppel je een Tesla aan Tibber?'
+  a: 'Via drie routes. Je koppelt je Tesla-account in de Tibber-app zodat Tibber de laadsessies plant; je laat de wallbox plannen (die kent de prijzen via zijn eigen koppeling) en zet in de auto alleen een laadlimiet; of je stuurt zelf via Home Assistant of EVCC. De autorisatie-eisen van Tesla voor koppelingen van derden zijn de afgelopen jaren gewijzigd, dus check bij je leverancier wat op dit moment ondersteund is.'
+- q: 'Moet de auto of de laadpaal het schema bepalen?'
+  a: 'Eén van de twee, nooit beide. Staat er zowel in de Tesla-app als in de laadpaal een schema, dan blokkeren ze elkaar: de auto wacht op zijn venster terwijl de paal al vrijgeeft, of omgekeerd. Kies de partij die de prijsdata heeft en zet de andere op ongelimiteerd.'
+- q: 'Kan de auto te leeg blijven door prijssturing?'
+  a: 'Ja, als je alleen op prijs stuurt. Stel altijd een ondergrens met deadline in: bijvoorbeeld minimaal 60 procent om 07:00, ongeacht de prijs. Bij meerdaagse hoge prijzen laadt een puur prijsgestuurd schema anders bijna niet.'
+- q: 'Heb ik een dynamisch contract nodig?'
+  a: 'Voor prijssturing wel. Op een vast contract is elk uur even duur en valt er niets te verschuiven; dan blijft alleen laden op eigen zonnestroom over. Reken bij een dynamisch contract ook de vaste kosten mee: Tibber rekent €5,99 per maand per energiesoort plus €0,0248 per kWh inkoopvergoeding.'
 products:
-- name: Tibber
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '0'
-- name: Tesla Powerwall
-  url: https://go.duurzaamthuislab.nl/tesla-powerwall
-  price: '0'
+- name: HomeWizard P1-meter
+  url: https://go.duurzaamthuislab.nl/homewizard
+  price: '24.95'
 schema_type: Article
-last_updated: '2026-04-29'
+last_updated: '2026-08-21'
 ---
-*Disclosure: de links naar Tesla en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de link naar HomeWizard in dit artikel is een affiliate-link (via Daisycon); koop je daarvia, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Met Tibber en Tesla hebben wij géén commissie- of affiliaterelatie — aan die links verdienen wij niets. Tarieven Tibber: tibber.com. HomeWizard-prijs: homewizard.com, prijspeil augustus 2026.*
 
-"Tesla Model 3 slim laden met Tibber — werkt dat in de praktijk?" is een van de vaakst gestelde vragen over dit onderwerp. Hieronder zetten we op een rij wat de specificaties, handleidingen en publieke data zeggen, en waar de praktijk afwijkt van de brochure.
+> **Kort antwoord:** je laat de Tesla Model 3 thuis laden in de uren met de laagste day-ahead-prijs, met één partij die het schema bepaalt (de Tibber-app, de wallbox of je eigen sturing) en een ondergrens met deadline zodat de auto nooit te leeg staat. Het voordeel per kWh is klein — in ons model circa 4 cent — maar op een jaarvolume van duizenden kWh loopt dat op tot honderden euro's.
 
+## Wat er precies gestuurd wordt
 
-> **Kort antwoord:** Een Tesla Model 3 laat je automatisch laden op de goedkoopste uren via Tibber en de Tesla API. Hieronder de setup, de kosten, de valkuilen en een rekenmodel voor de besparing.
->
-> V2H (vehicle-to-home) levert stroom uit je auto naar je huis, V2G ook naar het net. V2G heeft contract met netbeheerder nodig, V2H niet. In Nederland is V2H technisch al mogelijk, V2G is in pilotfase.
+Slim laden klinkt ingewikkelder dan het is. Er zijn maar drie schakelaars:
 
-## Korte conclusie
+1. **Wanneer** er stroom naar de auto gaat (het laadvenster).
+2. **Hoe hard** er geladen wordt (het laadvermogen, in ampère per fase).
+3. **Tot hoeveel** procent (de laadlimiet in de auto).
 
-Voor wie weinig tijd heeft, de samenvatting in vijf punten.
+Prijssturing verandert alleen de eerste. De prijs per uur komt van de day-ahead-veiling: elke dag rond het middaguur worden de uurprijzen voor de volgende dag bekend. Wie die prijzen kent, kan een laadsessie van vier uur precies in de vier goedkoopste uren van de nacht leggen.
 
-- **Werkt het?** Ja, mits je de juiste setup hebt — uitleg verderop.
-- **Kosten?** Tussen €0 en €2.500 afhankelijk van scope.
-- **Terugverdientijd?** 2-7 jaar in de meeste gevallen.
-- **Beste keuze 2026?** Hangt af van je profiel — zie [de uitgebreide uitleg](/posts/beste-laadpaal-thuis-2026/).
-- **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
+Wat je *niet* verandert: het totale aantal kWh dat je laadt. Slim laden maakt stroom niet minder, alleen goedkoper per kWh.
 
-> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> en bouw stapsgewijs uit — niet alles in één keer.
+## Drie routes om het te koppelen
 
-## 1. Wat is het probleem?
+**Route 1 — de auto koppelen in de app van je leverancier.** Je verbindt je Tesla-account met de Tibber-app; Tibber ziet de laadstatus en de gewenste limiet en start en stopt het laden zelf. Voordeel: werkt ook zonder slimme laadpaal, want de auto zelf is het schakelpunt. Nadeel: je bent afhankelijk van de koppeling tussen leverancier en autofabrikant. Tesla heeft de voorwaarden voor toegang van derden tot de auto in de loop der jaren gewijzigd; check wat op dit moment ondersteund wordt voordat je hier je hele opzet op bouwt.
 
-Zonnepanelen en een warmtepomp leveren op zichzelf besparing op, maar zonder sturing blijft er geld liggen: apparaten draaien op de duurste uren en de batterij is leeg precies wanneer de prijs piekt. Dat speelt vooral bij dynamische contracten en elektrisch-rijden.
+**Route 2 — de laadpaal laten plannen.** Een slimme wallbox met een koppeling naar prijsdata (via je leverancier, via OCPP-backend of via een eigen integratie) bepaalt het venster. In de auto zet je dan alleen een laadlimiet en verder niets. Voordeel: onafhankelijk van de auto-API en werkt met elke auto. Nadeel: de paal weet niet wat de accu doet, dus het regelt grover.
 
-De kern: elektrisch-rijden is niet plug-and-play. Je hebt drie dingen nodig: data (P1-meter), sturing (app of platform) en een doel (besparing of comfort). Mis je één van deze drie, dan blijft het rendement achter.
+**Route 3 — zelf sturen via Home Assistant of EVCC.** Je haalt de prijzen binnen als entiteit en schrijft zelf de logica: start laden als de prijs onder het daggemiddelde min een marge zit, stop bij de deadline-SoC. Meeste vrijheid, meeste onderhoud. Zie [het YAML-stappenplan voor Home Assistant](/posts/home-assistant-warmtepomp-integratie-2026/) voor de opzet van de prijsentiteit; die is identiek voor een auto.
 
-Voor context — zie ook [het bredere plaatje](/posts/laadpaal-thuis-kosten-subsidie-2026/) en [wat het einde van saldering betekent](/posts/ev-laden-met-thuisbatterij/).
+Wat je in geen geval doet: routes combineren. Twee schedulers die elkaar tegenwerken is de meest gemelde oorzaak van "hij heeft vannacht niet geladen".
 
-## 2. Wat heb je nodig?
+## Een laadschema op day-ahead-prijzen bouwen
 
-Een werkende opstelling bestaat uit vier componenten:
+Het schema dat in de praktijk werkt, bestaat uit vier regels:
 
-1. **Slimme meter met werkende P1-poort.** Sinds 2018 standaard in NL.
-2. **Realtime energiemonitor** (HomeWizard P1, Sessy P1, of Smartgateways).
-3. **Een apparaat of contract om op te sturen** (batterij, laadpaal, warmtepomp, dynamisch tarief).
-4. **Een platform of app.** Tibber, Frank, Home Assistant of OpenHAB.
+1. **Bepaal het benodigde volume, niet het venster.** Je hebt bijvoorbeeld 30 kWh nodig voor morgen. Bij 11 kW laden is dat bijna drie uur. Geef die drie uur op als benodigde laadtijd en laat de scheduler zelf de goedkoopste drie uur kiezen.
+2. **Zet een deadline met minimum-SoC.** Bijvoorbeeld: minimaal 60 procent om 07:00, ongeacht de prijs. Dit is de belangrijkste regel van het hele artikel.
+3. **Laad in één blok, niet in dipjes.** Een scheduler die het laden opdeelt in blokjes van een half uur, verliest per opstart een beetje energie aan het conditioneren van de accu en aan de communicatie. Geef een minimale blokduur op als je systeem dat ondersteunt.
+4. **Reken met een bovengrens voor dagelijks laden.** Voor de accu is dagelijks tot 80 procent laden vriendelijker dan tot 100 procent; Tesla zelf adviseert 100 procent te bewaren voor lange ritten. Dat is een vendoradvies uit de handleiding, geen meting van ons.
 
-De fout die in gebruikersforums het vaakst terugkomt: stap 4 overslaan. Zonder platform heb je losse apparaten die elkaar niet kennen. Je warmtepomp gaat aan terwijl je batterij oplaadt — dubbel gebruik, dubbele kosten.
+Zit je op route 3, dan is de kern van de automatisering: sorteer de uurprijzen van vannacht, neem de N goedkoopste uren waarin je het benodigde volume kwijt kunt, en schrijf een override als de deadline-SoC in gevaar komt.
 
-Lees ook: [de gedetailleerde guide](/posts/tibber-review-ervaringen-2026/) en [de vergelijking in de praktijk](/posts/frank-energie-review-ervaringen-2026/).
+## Wat het oplevert: modelberekening
 
-## 3. Stap-voor-stap aanpak
+Onderstaande cijfers zijn een **modelberekening met gelabelde aannames**, geen meting aan een eigen auto.
 
-### Stap 1: meet eerst
+Uitgangspunten:
 
-Voordat je iets koopt: meet je verbruik in kwartiergegevens. Bij Frank, Tibber of via je leverancier-portal kun je 365 dagen historie downloaden. Plot dit in Excel — je ziet meteen waar de pieken zitten.
+- Verbruik 18-20 kWh per 100 km, dus 3.000 kWh thuisladen bij circa 15.000 km per jaar dat je thuis laadt.
+- Laadverlies (auto plus paal) circa 5 procent; dat betekent dat je iets meer inkoopt dan er in de accu komt.
+- **Ongestuurd laden**, verdeeld over de dag: €0,26 per kWh all-in. Dat bedrag is opgebouwd uit de EPEX-prijs van gemiddeld €0,105 per kWh (jaargemiddelde 2025, inclusief btw), energiebelasting €0,11085 per kWh (tarief 2026, inclusief btw) en €0,044 per kWh aan inkoopvergoeding en omgeslagen vaste kosten — dat laatste is een gelabelde aanname.
+- **Gestuurd nachtladen:** €0,220 per kWh all-in. Ook een aanname, gebaseerd op de gemiddelde afslag van de nachtelijke daluren op het daggemiddelde; wij hebben dit niet gemeten.
 
-In een gemiddeld gezinsprofiel liggen de pieken rond 07:00-09:00 (douche en ontbijt) en 17:00-21:00 (koken en EV laden). Dat zijn ook de duurste uren op een dynamisch contract.
+| Scenario | Prijs per kWh | 3.000 kWh per jaar | 6.000 kWh per jaar |
+|---|---|---|---|
+| Ongestuurd, dynamisch contract | €0,26 (aanname) | €780 | €1.560 |
+| Gestuurd nachtladen, dynamisch | €0,220 (aanname) | €660 | €1.320 |
+| Vast contract, referentie | €0,32 (aanname) | €960 | €1.920 |
 
-### Stap 2: bepaal het doel
+Het verschil tussen ongestuurd en gestuurd is dus **circa €120 per jaar bij 3.000 kWh** en €240 bij 6.000 kWh. Dat is eerlijk gezegd bescheiden — 4 cent per kWh — maar het is wél geld dat je zonder extra hardware kunt pakken als je al een dynamisch contract hebt.
 
-Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden leveren al een groot deel van de winst; de batterij voegt daar arbitrage en extra zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, moet je met je eigen verbruikscijfers narekenen — bij een klein prijsverschil per jaar loopt de terugverdientijd van een batterij snel op tot ver boven de tien jaar.
+Twee dingen die je erbij moet rekenen voordat je conclusies trekt:
 
-Reken het voor jezelf door — zie [het rekenmodel](/posts/dynamische-energiecontracten-vergelijking-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/tesla-powerwall" target="_blank" rel="nofollow sponsored noopener">Bekijk Powerwall</a> voor concrete prijzen.
+- **De vaste kosten van het dynamische contract.** Tibber rekent €5,99 per maand per energiesoort plus €0,0248 per kWh inkoopvergoeding. Op een huishouden met 4.500 kWh totaal verbruik is dat circa €72 aan abonnement plus circa €112 aan inkoopvergoeding per jaar. Die kosten maak je ook als je niet slim laadt — maar ze bepalen wel of dynamisch in totaal gunstiger is dan vast.
+- **De referentie €0,32 voor een vast contract is een aanname en gevoelig.** Ligt het vaste tarief dat jij kunt krijgen op €0,28, dan verdwijnt een groot deel van het voordeel van dynamisch — ook mét slimme sturing. Vul je eigen aanbod in voordat je overstapt.
 
-### Stap 3: koop de juiste hardware
+Reken het door met de werkelijke prijzen van jouw dagen: [de day-ahead-prijzen per uur](/stroomprijzen/) en [de historie sinds 2014](/stroomprijzen-historie/).
 
-Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is overkill tenzij je een EV thuis laadt of een groot huishouden hebt. Voor warmtepompen: kies op vermogen + COP, niet op merk.
+## Wat het kost
 
-Onze inschatting per scenario:
-
-- **Klein huis, geen EV:** 5 kWh batterij — circa €3.550 incl. btw, excl. installatie (Sessy 5 kWh als referentie, prijspeil aug 2026); in de meeste rekenmodellen 6-8 jaar terugverdientijd (modelberekening).
-- **Middelgroot, 1 EV:** 10 kWh batterij plus slim laden op een dynamisch tarief.
-- **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Tesla Powerwall.
-
-### Stap 4: configureer het platform
-
-Dit is waar de meeste mensen vastlopen. Volgens de documentatie en gebruikerservaringen is een fabrikant-app in een kwartier ingericht, Home Assistant kost een avond en OpenHAB aanzienlijk meer. Onze aanbeveling: begin met de fabrikant-app en stap pas over op Home Assistant als je tegen beperkingen aanloopt.
-
-Voor batterij-sturing op dynamisch contract: zie [de uitgebreide uitleg](/posts/powerwall-3-vs-sessy-2026/).
-
-## 4. Wat kost het?
-
-Indicatieve marktprijzen voor 2026, exclusief eventuele subsidies:
-
-| Onderdeel | Kosten | Terugverdientijd |
+| Onderdeel | Kosten | Bron |
 |---|---|---|
-| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
-| P1-meter (HomeWizard) | €99 | < 1 jaar |
-| Home Assistant Yellow | €199 | n.v.t. (tool) |
-| Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
-| Tesla Powerwall | €0-€2.000 | varieert |
+| HomeWizard P1-meter | €24,95 | homewizard.com, prijspeil aug 2026 |
+| Tibber-abonnement | €5,99 per maand per energiesoort | tibber.com |
+| Tibber-inkoopvergoeding | €0,0248 per kWh | tibber.com |
+| Slimme wallbox 11 kW | prijzen verschillen sterk per merk en installatie — zie [het laadpaal-overzicht](/posts/beste-laadpaal-thuis-2026/) | — |
+| Eigen sturing via Home Assistant/EVCC | software gratis, kost tijd | — |
 
-Voor een volledige kostenberekening: zie [de uitgebreide berekening](/posts/tesla-powerwall-review-nederland-2026/). Daar staan ook subsidies op een rij.
+Wat wij hier bewust **niet** in een kostentabel zetten: de prijs van een Tibber Pulse (niet publiek gepubliceerd), de abonnementskosten van externe Tesla-apps (variëren en veranderen) en een thuisbatterij. Een thuisbatterij hoort niet in een kostentabel over slim laden: dat is een aparte investering van een heel andere orde. Wat een Tesla Powerwall in Nederland kost, staat in [onze Powerwall-review](/posts/tesla-powerwall-review-nederland-2026/): een marktindicatie van €8.500-€9.500 — een andere orde van grootte dan de onderdelen in de tabel hierboven.
 
-## 5. Drie valkuilen bij de aanschaf
+## Veelgemaakte fouten
 
-**Valkuil 1: te groot kopen.** Een batterij die groter is dan je dagelijkse nuttige doorzet, staat een deel van het jaar stil. Bereken eerst hoeveel kWh je per dag daadwerkelijk kunt verschuiven; dat is bijna altijd minder dan de nominale capaciteit.
+1. **Twee schedulers tegelijk.** Auto én laadpaal een schema geven. Kies één.
+2. **Alleen op prijs sturen, zonder deadline-SoC.** Bij een week met hoge prijzen sta je met een lege auto.
+3. **Op een gewoon stopcontact laden.** Met circa 2 kW (10 A, 1 fase) duurt 30 kWh vijftien uur — dan past de laadsessie niet meer in de goedkope uren en verdwijnt het hele voordeel. Voor prijssturing wil je minimaal 7,4 kW.
+4. **Preconditioning vergeten.** Het voorwarmen of koelen van de auto voor vertrek trekt stroom buiten je laadvenster, vaak precies in een duur ochtenduur.
+5. **Laadverlies negeren in je berekening.** Je betaalt voor kWh aan de meter, niet voor kWh in de accu. Reken met enkele procenten verlies.
+6. **Denken dat de spread altijd gelijk is.** In 2025 lag het EPEX-jaargemiddelde op €0,105 per kWh en waren er 212 uren met een negatieve prijs, maar het duurste uur kwam op €0,63 (20 januari 2025, 17:00). Die spreiding verschilt sterk per seizoen; een berekening op één maand zegt niets over het jaar.
 
-**Valkuil 2: vendor lock-in.** Bij DC-gekoppelde batterijen (Goodwe, Huawei, SolaX) zit je vast aan dat merk omvormer. Bij AC-gekoppeld (Sessy, Marstek, Powerwall) ben je vrij. Voor toekomstvastheid heeft AC onze voorkeur.
+## Wanneer slim laden de moeite niet is
 
-**Valkuil 3: geen meetbaar doel.** "Ik wil verduurzamen" is geen doel. "€500 per jaar besparen" wel. Maak het concreet, anders koop je verkeerde spullen.
+Laad je minder dan een paar honderd kWh per jaar thuis — korte ritten, veel publiek laden, een leaseauto met laadpas — dan blijft het voordeel binnen de tientjes en weegt dat niet op tegen het opzetten en onderhouden. Heb je een vast contract, dan is er niets te verschuiven. En zit je in een appartement zonder eigen laadpunt, dan begint het verhaal bij [laden in een VvE](/posts/laadpaal-vve-installatie-2026/), niet bij prijssturing.
 
-## 6. Welk product past bij wie?
-
-### Voor budgetbewuste huishoudens
-Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
-
-### Voor early adopters die alles slim willen
-Combineer de installatie met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd volgens de documentatie 2-4 uur; je krijgt er fijnmazigere sturing voor terug dan met alleen de fabrikant-app.
-
-### Voor grote huishoudens of off-grid ambities
-Modulair systeem zoals BYD Battery-Box of Tesla Powerwall, in combinatie met een hybride-omvormer (Goodwe, SolaX). Investering €12.000-€18.000.
-
-## 7. Rekenvoorbeeld: wat levert een complete opstelling op?
-
-Onderstaand voorbeeld is een rekenvoorbeeld met expliciete aannames — geen meting. Vul je eigen cijfers in en de uitkomst verandert mee.
-
-Aannames:
-
-- **Stroomverbruik:** 4.380 kWh per jaar (gezin van 4)
-- **Zonneproductie:** 4.920 kWh (14 panelen, zuid en west)
-- **Teruglevering zonder batterij:** 1.890 kWh
-- **Batterij:** 10 kWh, gemiddelde bruikbare dag-spread €0,18/kWh na belasting
-
-Uitkomst van het model: circa €350-€400 aan arbitrage, plus €300 aan slim laden van een EV ten opzichte van een vast tarief. Bij een investering van €11.200 voor panelen, omvormer, batterij en laadpaal komt de terugverdientijd op ongeveer 10 jaar.
-
-De spread is de dominante variabele in dit model: halveert die, dan verdwijnt het grootste deel van de arbitragewinst. Na het einde van de saldering verschuift het verdienmodel van teruglevering naar eigen gebruik — daarom wordt sturing op dynamisch tarief belangrijker.
-
-## 8. Veelgemaakte vragen uit de praktijk
-
-**"Mijn installateur zegt dat het niet kan."**
-Vraag een tweede mening. Er zijn installateurs met ervaring met deze setups — zie [de installateur-checklist](/posts/beste-laadpaal-thuis-2026/).
-
-**"Het is te duur."**
-Reken het door met je eigen cijfers. In veel rekenvoorbeelden ligt de terugverdientijd op 6-9 jaar bij een verwachte levensduur van 15-20 jaar. Wat dat als rendement betekent, hangt af van de prijsspreads en de restwaarde — behandel het als een schatting met een brede marge, niet als een gegarandeerd rendement.
-
-**"Ik woon in een huurwoning."**
-Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/posts/laadpaal-thuis-kosten-subsidie-2026/).
-
-## 9. Conclusie
-
-Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
-
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
-
-Verder lezen: [het overzichtsartikel](/posts/ev-laden-met-thuisbatterij/), [de rekenmodellen](/posts/tibber-review-ervaringen-2026/) en [de verzamelde gebruikerservaringen](/posts/frank-energie-review-ervaringen-2026/).
-
-## 10. Technische details: hoe werkt het onder de motorkap?
-
-Hieronder de technische kern voor wie wil begrijpen waaróm dingen werken zoals ze werken bij elektrisch-rijden.
-
-### Energiestromen in kaart
-
-Op een gemiddelde voorjaarsdag lopen er vier energiestromen door elkaar: zonneproductie (4-6 kW piek rond het middaguur), huishoudelijk verbruik (basislast rond 350 W, pieken tot 7 kW bij koken), warmtepomp (1,2-2,8 kW modulerend) en EV-laden (3,7 kW of 11 kW). De som van deze stromen bepaalt of je op dat moment kost of verdient.
-
-Zonder slimme sturing lopen deze door elkaar: je warmtepomp draait 's avonds op spitstarief, je batterij is leeg precies wanneer EV-laden begint. Resultaat: je betaalt de piekprijs voor stroom die uren eerder bijna gratis was.
-
-### De rol van forecasting
-
-Tibber, Frank en Home Assistant gebruiken weersvoorspellingen en dag-vooruitprijzen om beslissingen 24 uur vooruit te nemen: laden om 03:00 tot 70% omdat de prijs de volgende dag om 17:00 piekt. Dat is een algoritmische beslissing, geen menselijke.
-
-De kwaliteit van die forecasting bepaalt een aanzienlijk deel van je besparing. Goede platforms gebruiken zowel weersdata als historische verbruiksprofielen; simpele implementaties reageren alleen op de huidige prijs.
-
-### Communicatieprotocollen
-
-Drie protocollen domineren de markt:
-
-- **Modbus TCP** — industrieel, betrouwbaar, lokaal. Vrijwel alle warmtepompen, omvormers en batterijen ondersteunen het.
-- **MQTT** — lichtgewicht message-broker, populair voor IoT. Ideaal voor Home Assistant en zelfbouw-systemen.
-- **REST API (HTTP)** — cloud-only, leverancier-afhankelijk. Werkt overal maar valt uit als internet uitvalt.
-
-Voor toekomstvastheid verdient Modbus TCP de voorkeur boven cloud-API's: lokale besturing blijft werken als een fabrikant zijn cloud uitzet.
-
-## 11. Onderhoud en levensduur
-
-Een vaak vergeten kostencomponent. Indicatieve bedragen op basis van onderhoudscontracten en fabrikantopgaven voor elektrisch-rijden:
-
-| Component | Onderhoud/jaar | Levensduur |
-|---|---|---|
-| Zonnepanelen | €0-€50 | 25-30 jaar |
-| Omvormer | €0-€80 | 12-15 jaar |
-| Thuisbatterij (LiFePO4) | €0-€120 | 15-20 jaar |
-| Warmtepomp lucht-water | €175-€275 | 15-20 jaar |
-| Slim laadpaal | €25-€80 | 10-12 jaar |
-
-Belangrijke nuance: garantie en levensduur zijn niet hetzelfde. Een omvormer met 10 jaar garantie gaat volgens fabrikantopgaven doorgaans 12-15 jaar mee. Reken voor je terugverdienberekening met verwachte levensduur, niet met de garantieperiode.
-
-### Wat gaat er kapot?
-
-De faalmodi die installateurs en fabrikant-servicedocumentatie het vaakst noemen, ongeveer in volgorde van frequentie:
-
-1. **Omvormer-koeling.** Stof, ventilatordefect. Eenvoudige reparatie of vervanging na 10 jaar.
-2. **Bypass-diode in panelen.** Bij hotspots door schaduw. Lost zichzelf vaak op of paneel vervangen onder garantie.
-3. **Batterij-BMS.** Zelden, maar bij goedkope merken (geen tier-1) komt het voor.
-4. **Connector-corrosie.** Door slechte installatie. Voorkomen door MC4-vet bij installatie.
-
-Voor preventief onderhoud: zie [de jaaronderhoud-checklist](/posts/dynamische-energiecontracten-vergelijking-2026/).
-
-## 12. Wat gaat er veranderen in 2027-2030?
-
-Onze verwachting op basis van wetgeving en marktontwikkeling — geen zekerheden:
-
-**2027: einde saldering.** Zelfconsumptie wordt waardevoller; het verdienmodel van een batterij verschuift van teruglevering naar eigen gebruik en arbitrage.
-
-**2028: bredere V2G-uitrol.** De eerste massamarktauto's ondersteunen bidirectioneel laden; de verwachting is dat bidirectionele laadpalen verder in prijs dalen.
-
-**2029: dynamisch contract als norm.** Vaste contracten worden waarschijnlijk niche, mogelijk in de vorm van dynamisch met prijsplafond.
-
-**2030: strengere eisen bij ketelvervanging.** De richting van het beleid is hybride of volledig elektrisch; hoe de regels exact luiden, hangt af van besluitvorming die nog loopt.
-
-Wie nu investeert in toekomstvaste hardware (open protocollen, AC-gekoppelde batterij, modulaire warmtepomp) staat sterker dan wie kiest voor gesloten cloud-systemen. Lees ook [de beleidsanalyse](/posts/powerwall-3-vs-sessy-2026/).
-
-## 13. Rekenvoorbeelden per situatie
-
-Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijsindicaties, terugverdientijden volgen uit het model in hoofdstuk 7:
-
-**Situatie A: rijtjeshuis, 2 personen, geen EV, 2.800 kWh verbruik**
-8-10 zonnepanelen, 5 kWh batterij, dynamisch contract. Investering circa €8.500, terugverdientijd in het model 6-8 jaar. Warmtepomp nog niet aan de orde — eerst isoleren.
-
-**Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/tesla-powerwall" target="_blank" rel="nofollow sponsored noopener">Bekijk Powerwall</a>.
-
-**Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
-20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.
-
-**Situatie D: appartement, 1-2 personen, 1.800 kWh**
-Geen panelen mogelijk? Begin met een dynamisch contract, een slimme thermostaat en waar mogelijk lokale elektrische bijverwarming. Investering circa €600, besparing in het model €180-€280 per jaar.
-
-## 14. Slot
-
-Verduurzamen is een marathon, geen sprint. Alles in één keer verbouwen levert een lange wachttijd op je terugverdientijd op; per jaar de meest renderende stap zetten werkt beter.
-
-De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
-
-1. Isoleren (kruipruimte, spouwmuur, zolder) — €0-€8.000 — direct comfort en besparing.
-2. Dynamisch contract plus monitoring — €0-€100 — in de meeste modellen €100-€300 per jaar.
-3. Zonnepanelen — €4.000-€8.000 — terugverdientijd 6-8 jaar.
-4. Warmtepomp (hybride of vol) — €4.000-€18.000 — terugverdientijd 7-12 jaar.
-5. Thuisbatterij — €4.000-€10.000 — terugverdientijd 6-9 jaar in de meeste modellen.
-6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
-
-Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
-
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Bekijk Tibber</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/tesla-powerwall-review-nederland-2026/) voor verdieping.
-
-## Rekenvoorbeeld: Model 3 op een dynamisch contract
-
-Een rekenvoorbeeld met expliciete aannames (geen meting), zodat je het met je eigen laadvolume kunt narekenen:
-
-- Thuis geladen: 6.420 kWh per jaar (veelrijder, circa 35.000 km)
-- Gemiddelde laadprijs bij sturing op de goedkoopste uren: 11-13 cent per kWh inclusief belasting en netkosten
-- Zelfde volume op een vast tarief van €0,31/kWh: circa €1.990
-- Bij 12 cent gemiddeld: circa €770
-
-Het verschil in dit voorbeeld is dus ruim €1.200 per jaar — maar let op wat die uitkomst drijft: het hoge laadvolume en een groot verschil tussen dal- en vasttarief. Bij 2.000 kWh per jaar valt hetzelfde percentage terug op enkele honderden euro's, en bij smalle spreads verdwijnt een groot deel van het voordeel.
-
-Praktisch aandachtspunt uit de documentatie en gebruikersforums: stuur niet alleen op prijs. Stel een minimum-SoC met een deadline in (bijvoorbeeld minimaal 60% om 07:00, ongeacht de prijs). Zonder die ondergrens kan de auto bij meerdaagse hoge prijzen te leeg blijven.
-
-## Veelgemaakte fouten bij slim laden
-
-1. **Tibber alleen op prijs configureren.** Bij meerdaagse hoge prijzen kun je leeglopen.
-2. **Geen kortste laad-window opgeven.** Tibber kiest dan in dipjes van 30 min — minder efficiënt voor de batterij.
-3. **Tesla Mobile Connector op stopcontact.** 1,8 kW laden duurt te lang om profielen te benutten — installeer een wallbox van min 7,4 kW.
-4. **Tessie-fee onderschatten.** €54 per jaar — kleine kosten maar reken het mee.
-5. **Tibber Charge zonder Pulse-meter.** Dan mist Tibber je live verbruik en laadt niet optimaal samen met andere belasting.
-
-## Wanneer slim laden niet de moeite is
-
-Laad je minder dan 200 kWh per maand thuis (kortere ritten of veel publiek laden)? Dan is besparing €100-€150 per jaar — niet de moeite voor opzet en onderhoud.
-
-## Extra FAQ
-
-**Werkt het ook met Tesla Powerwall?**
-Ja, en dan kan de sturing auto en huisbatterij samen optimaliseren. Hoeveel dat extra oplevert, hangt af van hoeveel energie je met de batterij extra kunt verschuiven; reken het door met de capaciteit en het laadvermogen van je eigen systeem in plaats van met een vast percentage.
-
-**Hoe gaat het bij stroomuitval?**
-Tibber Pulse logt offline 12 uur. Tesla laadt door op laatste setting tot connectie hersteld is.
-
----
-
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+Verder lezen: [laadpalen thuis vergeleken](/posts/beste-laadpaal-thuis-2026/), [ID.3 en Polestar 2 slim laden](/posts/vw-id3-polestar-slim-laden-vergelijking-2026/) en [wat V2H en V2G in Nederland wel en niet kunnen](/posts/v2h-v2g-thuisbatterij-2026/).

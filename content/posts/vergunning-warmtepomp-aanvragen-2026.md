@@ -22,7 +22,7 @@ keywords:
 - warmtepomp aanvraag gemeente
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1581094271901-8022df4466f9&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1554224155-1696413565d3&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: false
 faq:

@@ -1,316 +1,109 @@
 ---
-title: 'LG Chem RESU thuisbatterij review 2026: nog kopen?'
-date: '2026-09-01 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+title: 'LG RESU thuisbatterij: de recall, en hoe je je serienummer checkt'
+date: '2026-08-21 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: LG Chem RESU Prime werd jarenlang aanbevolen, daarna kwam de recall. Wat is de status in 2026, prijs, en welke alternatieven zijn beter?
+description: 'LG Energy Solution voert een terugroepactie op RESU-thuisbatterijen met cellen van vóór augustus 2019. Welke modellen het betreft, hoe de serienummercheck werkt, wat de twee herstelroutes zijn en wat je als eigenaar nu moet doen.'
 categories:
 - thuisbatterijen
 tags:
 - thuisbatterijen
-- verduurzamen
-- duurzaam wonen
 - lg
+- recall
+- veiligheid
 keywords:
 - lg chem resu review
 - lg chem thuisbatterij
-- resu prime review
-- lg chem 10h
+- resu recall
+- lg resu serienummer check
 - lg chem nederland
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Wat zijn de pluspunten van deze batterij?
-  a: Goede prijs-kwaliteit, robuuste behuizing, en (bij sommige merken) ondersteuning voor dynamische contracten via API. Lokale support in Nederland is wisselend per merk.
-- q: Wat zijn de minpunten?
-  a: Soms beperkte lokale service in Nederland, app niet altijd Nederlandstalig, en minder integraties met Home Assistant dan grote merken zoals Sessy of Tesla.
-- q: Wat kost het inclusief installatie?
-  a: Reken op 800-1.200 euro per kWh inclusief installatie, omvormer en BMS. Voor een 10 kWh-systeem zit je rond 8.000-11.500 euro afhankelijk van merk en installateur.
-- q: Hoe lang is de garantie?
-  a: Standaard 10 jaar of 6.000 cycli bij 70-80 procent restcapaciteit. Sommige merken bieden 12 of 15 jaar garantie tegen meerprijs.
-- q: Werkt het systeem met een dynamisch contract?
-  a: Ja, via API of via een externe controller (HomeWizard, Sessy P1). Voor volledige automatisering werkt Sessy en Marstek out-of-the-box; andere merken vragen meer setup.
-products:
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '0'
+- q: Welke LG RESU-modellen vallen onder de terugroepactie?
+  a: 'Op de Europese recallpagina noemt LG de RESU3.3, RESU6.5, RESU10, RESU13, RESU7H (Type C en Type R), RESU10H (Type C en Type R) en de RESU10M. De serienummercheck zelf toont de reeks RESU 3.3, 6.5, 10, 13, 7H en 10H plus de S/A Gen2 in een 1P- en een 2P-uitvoering. Of jouw exemplaar erbij zit, bepaalt niet het model maar het serienummer.'
+- q: Welke batterijen zijn getroffen en welke niet?
+  a: 'LG stelt dat het gaat om batterijen met cellen die zijn geproduceerd vóór augustus 2019. Dat is geen datum die je aan de buitenkant ziet: hij zit in het serienummer. Daarom is de serienummercheck de enige manier om het vast te stellen — ook als je eerder al hebt gecontroleerd, want LG meldt dat de actie in de loop van de tijd is uitgebreid met extra modellen en batterijen.'
+- q: Hoe check ik mijn serienummer?
+  a: 'Via de officiële controlepagina van LG op recall.lgessbattery.com. Je voert het serienummer van de batterij in; dat begint met een R en bestaat uit 23 tekens. De uitkomst is een van vier: geen actie nodig, vervanging, een op afstand uitgevoerde diagnose-software-update, of een bezoek op locatie. In alle gevallen behalve de eerste neemt LG zelf contact op om het in te plannen.'
+- q: Wat is het risico dat LG noemt?
+  a: 'LG schrijft op de recallpagina dat getroffen batterijen kunnen overhitten en in brand vliegen, met ernstige schade of ernstig letsel als gevolg, en dat er incidenten zijn geweest. Bij een uitkomst "vervanging" is de instructie dan ook om de batterij onmiddellijk uit te schakelen en niet meer te gebruiken tot hij is vervangen.'
+- q: Wat kost de vervanging?
+  a: 'Niets, volgens LG. De fabrikant biedt kosteloze vervanging inclusief het kosteloos verwijderen van de getroffen batterij. Bij de tweede route — de diagnose-software-update — blijft de batterij in bedrijf met bewaking die hem automatisch uitschakelt zodra een risico wordt gedetecteerd; volgt die uitschakeling, dan wordt de batterij alsnog kosteloos vervangen.'
+- q: Is er een deadline om je aan te melden?
+  a: 'Op de door ons gecontroleerde pagina''s staat geen einddatum of aanmelddeadline. LG dringt wel herhaaldelijk aan op urgentie en adviseert opnieuw te controleren, ook als je al eerder hebt gecheckt. Wij lezen daar geen garantie in dat de regeling onbeperkt open blijft: check en registreer nu.'
 schema_type: Article
-last_updated: '2026-04-29'
----
-*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
-
-"LG Chem RESU thuisbatterij review 2026 — werkt dat in de praktijk?" is een van de vaakst gestelde vragen over dit onderwerp. Hieronder zetten we op een rij wat de specificaties, handleidingen en publieke data zeggen, en waar de praktijk afwijkt van de brochure.
-
-
-> **Kort antwoord:** LG Chem RESU Prime werd jarenlang aanbevolen, daarna kwam de recall. Wat is de status in 2026, prijs, en welke alternatieven zijn beter?
->
-> Goede prijs-kwaliteit, robuuste behuizing, en (bij sommige merken) ondersteuning voor dynamische contracten via API. Lokale support in Nederland is wisselend per merk.
-
-## Korte conclusie
-
-Voor wie weinig tijd heeft, de samenvatting in vijf punten.
-
-- **Werkt het?** Ja, mits je de juiste setup hebt — uitleg verderop.
-- **Kosten?** Tussen €0 en €2.500 afhankelijk van scope.
-- **Terugverdientijd?** 2-7 jaar in de meeste gevallen.
-- **Beste keuze 2026?** Vaak Sessy thuisbatterij — zie [de uitgebreide uitleg](/posts/sessy-review-thuisbatterij-nederland/).
-- **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
-
-> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> en bouw stapsgewijs uit — niet alles in één keer.
-
-## 1. Wat is het probleem?
-
-Zonnepanelen en een warmtepomp leveren op zichzelf besparing op, maar zonder sturing blijft er geld liggen: apparaten draaien op de duurste uren en de batterij is leeg precies wanneer de prijs piekt. Dat speelt vooral bij dynamische contracten en thuisbatterijen.
-
-De kern: thuisbatterijen is niet plug-and-play. Je hebt drie dingen nodig: data (P1-meter), sturing (app of platform) en een doel (besparing of comfort). Mis je één van deze drie, dan blijft het rendement achter.
-
-Voor context — zie ook [het bredere plaatje](/posts/marstek-venus-review-thuisbatterij/) en [wat het einde van saldering betekent](/posts/tesla-powerwall-review-nederland-2026/).
-
-## 2. Wat heb je nodig?
-
-Een werkende opstelling bestaat uit vier componenten:
-
-1. **Slimme meter met werkende P1-poort.** Sinds 2018 standaard in NL.
-2. **Realtime energiemonitor** (HomeWizard P1, Sessy P1, of Smartgateways).
-3. **Een apparaat of contract om op te sturen**, bijvoorbeeld Sessy thuisbatterij.
-4. **Een platform of app.** Tibber, Frank, Home Assistant of OpenHAB.
-
-De fout die in gebruikersforums het vaakst terugkomt: stap 4 overslaan. Zonder platform heb je losse apparaten die elkaar niet kennen. Je warmtepomp gaat aan terwijl je batterij oplaadt — dubbel gebruik, dubbele kosten.
-
-Lees ook: [de gedetailleerde guide](/posts/huawei-luna-2000-review-2026/) en [de vergelijking in de praktijk](/posts/beste-thuisbatterij-nederland-2026/).
-
-## 3. Stap-voor-stap aanpak
-
-### Stap 1: meet eerst
-
-Voordat je iets koopt: meet je verbruik in kwartiergegevens. Bij Frank, Tibber of via je leverancier-portal kun je 365 dagen historie downloaden. Plot dit in Excel — je ziet meteen waar de pieken zitten.
-
-In een gemiddeld gezinsprofiel liggen de pieken rond 07:00-09:00 (douche en ontbijt) en 17:00-21:00 (koken en EV laden). Dat zijn ook de duurste uren op een dynamisch contract.
-
-### Stap 2: bepaal het doel
-
-Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden leveren al een groot deel van de winst; de batterij voegt daar arbitrage en extra zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, moet je met je eigen verbruikscijfers narekenen — bij een klein prijsverschil per jaar loopt de terugverdientijd van een batterij snel op tot ver boven de tien jaar.
-
-Reken het voor jezelf door — zie [het rekenmodel](/posts/thuisbatterij-vergelijking-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> voor concrete prijzen.
-
-### Stap 3: koop de juiste hardware
-
-Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is overkill tenzij je een EV thuis laadt of een groot huishouden hebt. Voor warmtepompen: kies op vermogen + COP, niet op merk.
-
-Onze inschatting per scenario:
-
-- **Klein huis, geen EV:** een 5 kWh batterij — circa €3.550 incl. btw, excl. installatie (Sessy 5 kWh als referentie, prijspeil aug 2026); in de meeste rekenmodellen 6-8 jaar terugverdientijd (modelberekening).
-- **Middelgroot, 1 EV:** 10 kWh batterij plus slim laden op een dynamisch tarief.
-- **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Sessy thuisbatterij.
-
-### Stap 4: configureer het platform
-
-Dit is waar de meeste mensen vastlopen. Volgens de documentatie en gebruikerservaringen is een fabrikant-app in een kwartier ingericht, Home Assistant kost een avond en OpenHAB aanzienlijk meer. Onze aanbeveling: begin met de fabrikant-app en stap pas over op Home Assistant als je tegen beperkingen aanloopt.
-
-Voor batterij-sturing op dynamisch contract: zie [de uitgebreide uitleg](/posts/pylontech-thuisbatterij-review-2026/).
-
-## 4. Wat kost het?
-
-Indicatieve marktprijzen voor 2026, exclusief eventuele subsidies:
-
-| Onderdeel | Kosten | Terugverdientijd |
-|---|---|---|
-| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
-| P1-meter (HomeWizard) | €99 | < 1 jaar |
-| Home Assistant Yellow | €199 | n.v.t. (tool) |
-| Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
-| Sessy thuisbatterij | €0-€2.000 | varieert |
-
-Voor een volledige kostenberekening: zie [de uitgebreide berekening](/posts/byd-battery-box-review-2026/). Daar staan ook subsidies op een rij.
-
-## 5. Drie valkuilen bij de aanschaf
-
-**Valkuil 1: te groot kopen.** Een batterij die groter is dan je dagelijkse nuttige doorzet, staat een deel van het jaar stil. Bereken eerst hoeveel kWh je per dag daadwerkelijk kunt verschuiven; dat is bijna altijd minder dan de nominale capaciteit.
-
-**Valkuil 2: vendor lock-in.** Bij DC-gekoppelde batterijen (Goodwe, Huawei, SolaX) zit je vast aan dat merk omvormer. Bij AC-gekoppeld (Sessy, Marstek, Powerwall) ben je vrij. Voor toekomstvastheid heeft AC onze voorkeur.
-
-**Valkuil 3: geen meetbaar doel.** "Ik wil verduurzamen" is geen doel. "€500 per jaar besparen" wel. Maak het concreet, anders koop je verkeerde spullen.
-
-## 6. Welk product past bij wie?
-
-### Voor budgetbewuste huishoudens
-Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>
-
-### Voor early adopters die alles slim willen
-Combineer Sessy thuisbatterij met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd 2-4 uur, levert structureel 15-25 procent meer besparing.
-
-### Voor grote huishoudens of off-grid ambities
-Modulair systeem zoals BYD Battery-Box of Sessy thuisbatterij, in combinatie met een hybride-omvormer (Goodwe, SolaX). Investering €12.000-€18.000.
-
-## 7. Rekenvoorbeeld: wat levert een complete opstelling op?
-
-Onderstaand voorbeeld is een rekenvoorbeeld met expliciete aannames — geen meting. Vul je eigen cijfers in en de uitkomst verandert mee.
-
-Aannames:
-
-- **Stroomverbruik:** 4.380 kWh per jaar (gezin van 4)
-- **Zonneproductie:** 4.920 kWh (14 panelen, zuid en west)
-- **Teruglevering zonder batterij:** 1.890 kWh
-- **Batterij:** 10 kWh, gemiddelde bruikbare dag-spread €0,18/kWh na belasting
-
-Uitkomst van het model: circa €350-€400 aan arbitrage, plus €300 aan slim laden van een EV ten opzichte van een vast tarief. Bij een investering van €11.200 voor panelen, omvormer, batterij en laadpaal komt de terugverdientijd op ongeveer 10 jaar.
-
-De spread is de dominante variabele in dit model: halveert die, dan verdwijnt het grootste deel van de arbitragewinst. Na het einde van de saldering verschuift het verdienmodel van teruglevering naar eigen gebruik — daarom wordt sturing op dynamisch tarief belangrijker.
-
-## 8. Veelgemaakte vragen uit de praktijk
-
-**"Mijn installateur zegt dat het niet kan."**
-Vraag een tweede mening. Er zijn installateurs met ervaring met deze setups — zie [de installateur-checklist](/posts/sessy-review-thuisbatterij-nederland/).
-
-**"Het is te duur."**
-Reken het door met je eigen cijfers. In veel rekenvoorbeelden ligt de terugverdientijd op 6-9 jaar bij een verwachte levensduur van 15-20 jaar. Wat dat als rendement betekent, hangt af van de prijsspreads en de restwaarde — behandel het als een schatting met een brede marge, niet als een gegarandeerd rendement.
-
-**"Ik woon in een huurwoning."**
-Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/posts/marstek-venus-review-thuisbatterij/).
-
-## 9. Conclusie
-
-Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
-
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
-
-Verder lezen: [het overzichtsartikel](/posts/tesla-powerwall-review-nederland-2026/), [de rekenmodellen](/posts/huawei-luna-2000-review-2026/) en [de verzamelde gebruikerservaringen](/posts/beste-thuisbatterij-nederland-2026/).
-
-## 10. Technische details: hoe werkt het onder de motorkap?
-
-Hieronder de technische kern voor wie wil begrijpen waaróm dingen werken zoals ze werken bij thuisbatterijen.
-
-### Energiestromen in kaart
-
-Op een gemiddelde voorjaarsdag lopen er vier energiestromen door elkaar: zonneproductie (4-6 kW piek rond het middaguur), huishoudelijk verbruik (basislast rond 350 W, pieken tot 7 kW bij koken), warmtepomp (1,2-2,8 kW modulerend) en EV-laden (3,7 kW of 11 kW). De som van deze stromen bepaalt of je op dat moment kost of verdient.
-
-Zonder slimme sturing lopen deze door elkaar: je warmtepomp draait 's avonds op spitstarief, je batterij is leeg precies wanneer EV-laden begint. Resultaat: je betaalt de piekprijs voor stroom die uren eerder bijna gratis was.
-
-### De rol van forecasting
-
-Tibber, Frank en Home Assistant gebruiken weersvoorspellingen en dag-vooruitprijzen om beslissingen 24 uur vooruit te nemen: laden om 03:00 tot 70% omdat de prijs de volgende dag om 17:00 piekt. Dat is een algoritmische beslissing, geen menselijke.
-
-De kwaliteit van die forecasting bepaalt een aanzienlijk deel van je besparing. Goede platforms gebruiken zowel weersdata als historische verbruiksprofielen; simpele implementaties reageren alleen op de huidige prijs.
-
-### Communicatieprotocollen
-
-Drie protocollen domineren de markt:
-
-- **Modbus TCP** — industrieel, betrouwbaar, lokaal. Vrijwel alle warmtepompen, omvormers en batterijen ondersteunen het.
-- **MQTT** — lichtgewicht message-broker, populair voor IoT. Ideaal voor Home Assistant en zelfbouw-systemen.
-- **REST API (HTTP)** — cloud-only, leverancier-afhankelijk. Werkt overal maar valt uit als internet uitvalt.
-
-Voor toekomstvastheid verdient Modbus TCP de voorkeur boven cloud-API's: lokale besturing blijft werken als een fabrikant zijn cloud uitzet.
-
-## 11. Onderhoud en levensduur
-
-Een vaak vergeten kostencomponent. Indicatieve bedragen op basis van onderhoudscontracten en fabrikantopgaven voor thuisbatterijen:
-
-| Component | Onderhoud/jaar | Levensduur |
-|---|---|---|
-| Zonnepanelen | €0-€50 | 25-30 jaar |
-| Omvormer | €0-€80 | 12-15 jaar |
-| Thuisbatterij (LiFePO4) | €0-€120 | 15-20 jaar |
-| Warmtepomp lucht-water | €175-€275 | 15-20 jaar |
-| Slim laadpaal | €25-€80 | 10-12 jaar |
-
-Belangrijke nuance: garantie en levensduur zijn niet hetzelfde. Een omvormer met 10 jaar garantie gaat volgens fabrikantopgaven doorgaans 12-15 jaar mee. Reken voor je terugverdienberekening met verwachte levensduur, niet met de garantieperiode.
-
-### Wat gaat er kapot?
-
-De faalmodi die installateurs en fabrikant-servicedocumentatie het vaakst noemen, ongeveer in volgorde van frequentie:
-
-1. **Omvormer-koeling.** Stof, ventilatordefect. Eenvoudige reparatie of vervanging na 10 jaar.
-2. **Bypass-diode in panelen.** Bij hotspots door schaduw. Lost zichzelf vaak op of paneel vervangen onder garantie.
-3. **Batterij-BMS.** Zelden, maar bij goedkope merken (geen tier-1) komt het voor.
-4. **Connector-corrosie.** Door slechte installatie. Voorkomen door MC4-vet bij installatie.
-
-Voor preventief onderhoud: zie [de jaaronderhoud-checklist](/posts/thuisbatterij-vergelijking-2026/).
-
-## 12. Wat gaat er veranderen in 2027-2030?
-
-Onze verwachting op basis van wetgeving en marktontwikkeling — geen zekerheden:
-
-**2027: einde saldering.** Zelfconsumptie wordt waardevoller; het verdienmodel van een batterij verschuift van teruglevering naar eigen gebruik en arbitrage.
-
-**2028: bredere V2G-uitrol.** De eerste massamarktauto's ondersteunen bidirectioneel laden; de verwachting is dat bidirectionele laadpalen verder in prijs dalen.
-
-**2029: dynamisch contract als norm.** Vaste contracten worden waarschijnlijk niche, mogelijk in de vorm van dynamisch met prijsplafond.
-
-**2030: strengere eisen bij ketelvervanging.** De richting van het beleid is hybride of volledig elektrisch; hoe de regels exact luiden, hangt af van besluitvorming die nog loopt.
-
-Wie nu investeert in toekomstvaste hardware (open protocollen, AC-gekoppelde batterij, modulaire warmtepomp) staat sterker dan wie kiest voor gesloten cloud-systemen. Lees ook [de beleidsanalyse](/posts/pylontech-thuisbatterij-review-2026/).
-
-## 13. Rekenvoorbeelden per situatie
-
-Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijsindicaties, terugverdientijden volgen uit het model in hoofdstuk 7:
-
-**Situatie A: rijtjeshuis, 2 personen, geen EV, 2.800 kWh verbruik**
-Ga voor 8-10 zonnepanelen + Sessy thuisbatterij (5 kWh) + dynamisch contract. Investering €8.500. Terugverdientijd 6,5 jaar. Geen warmtepomp nodig — eerst isoleren.
-
-**Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>.
-
-**Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
-20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.
-
-**Situatie D: appartement, 1-2 personen, 1.800 kWh**
-Geen panelen mogelijk? Begin met een dynamisch contract, een slimme thermostaat en waar mogelijk lokale elektrische bijverwarming. Investering circa €600, besparing in het model €180-€280 per jaar.
-
-## 14. Slot
-
-Verduurzamen is een marathon, geen sprint. Alles in één keer verbouwen levert een lange wachttijd op je terugverdientijd op; per jaar de meest renderende stap zetten werkt beter.
-
-De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
-
-1. Isoleren (kruipruimte, spouwmuur, zolder) — €0-€8.000 — direct comfort en besparing.
-2. Dynamisch contract plus monitoring — €0-€100 — in de meeste modellen €100-€300 per jaar.
-3. Zonnepanelen — €4.000-€8.000 — terugverdientijd 6-8 jaar.
-4. Warmtepomp (hybride of vol) — €4.000-€18.000 — terugverdientijd 7-12 jaar.
-5. Thuisbatterij — €4.000-€10.000 — terugverdientijd 6-9 jaar in de meeste modellen.
-6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
-
-Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
-
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/byd-battery-box-review-2026/) voor verdieping.
-
-## Wat de specificaties zeggen over het eerste jaar
-
-Volgens het datasheet van de RESU 10H Prime:
-
-- Nominale capaciteit 9,6 kWh, bruikbaar circa 9,8 kWh bij de opgegeven DoD
-- Round-trip rendement circa 90-92% inclusief omvormer
-- Degradatie in het eerste jaar in de orde van enkele procenten, daarna vlakker verlopend
-- Garantie: 10 jaar met een opgegeven restcapaciteit; controleer de exacte percentages in de garantieverklaring die bij jouw serienummer hoort
-
-Wat in gebruikersreviews en de handleiding het meest terugkomt als praktijkpunt is het wintergedrag. De RESU heeft celverwarming; bij lage omgevingstemperaturen wordt het beschikbare ontlaadvermogen begrensd en verbruikt de verwarming zelf stroom. Dat is normaal gedrag, geen defect — maar het betekent dat een onverwarmde berging of carport een slechtere plek is dan een garage die boven de vijf graden blijft.
-
-## Veelgemaakte fouten bij LG Chem-installatie
-
-1. **In een te koude ruimte zetten.** Onder 5 graden start celverwarming, eet capaciteit weg.
-2. **Vergeten de Smart Energy Box te configureren.** Standaard staat die op fabrieksprofiel. Voor optimaal arbitrage moet hij op self-consumption + tijdsblokken.
-3. **Geen monitoring-account aanmaken.** LG Pro Connect-app vereist installateur-link. Zonder app geen historie.
-4. **Te dicht tegen omvormer plaatsen.** Minimaal 30 cm tussenruimte voor warmte-afvoer.
-5. **Recall-batches niet checken.** Tussen 2017-2020 waren bepaalde RESU-batches risicovol. Vraag installateur naar serienummer en recall-status.
-
-## Wanneer LG Chem niet de juiste keuze is
-
-Heb je een variabel laadprofiel (EV-laden, sterk wisselend verbruik), dan is een modulaire batterij (BYD Battery-Box, Pylontech) beter passend. De RESU is een gesloten systeem dat je niet later kunt uitbreiden — dat is de belangrijkste beperking om vooraf te wegen.
-
-## Extra FAQ
-
-**Wat als LG terugtrekt uit Europa?**
-LG Energy Solution heeft Europese garantie tot 2034 contractueel vastgelegd. Service via geautoriseerde partners (BENZTECH, eFlowSolar in NL).
-
-**Kan ik LG Chem koppelen aan een andere omvormer dan SolarEdge?**
-Ja: Fronius (sinds 2023), Sungrow, Huawei (vanaf firmware 2024.06). Niet met goedkope merken zoals MPP Solar.
-
 ---
 
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
+*Disclosure: LG Energy Solution wordt in dit artikel redactioneel besproken. Wij hebben met LG geen affiliate- of commissierelatie en ontvangen voor dit artikel geen vergoeding. Er staan geen commerciële links in; de links hieronder gaan naar de officiële recallpagina's van de fabrikant.*
 
----
+De vraag "moet ik een LG RESU nog kopen" is voor de meeste mensen die hier komen de verkeerde vraag. De juiste is: **er hangt er al een aan mijn muur — valt die onder de terugroepactie?** Dit artikel behandelt daarom eerst dat, met de officiële informatie van de fabrikant, opgehaald op 21 augustus 2026.
 
-**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).
+Wij hebben deze batterij niet zelf geïnstalleerd of gemeten. Alles hieronder komt uit de recall-communicatie van LG zelf.
+
+> **Kort antwoord:** LG Energy Solution roept RESU-thuisbatterijen terug waarvan de cellen vóór augustus 2019 zijn geproduceerd, omdat die kunnen overhitten en in brand vliegen. Welk model je hebt bepaalt het niet — je serienummer bepaalt het. Check dat op recall.lgessbattery.com. De uitkomst is: geen actie, kosteloze vervanging, een software-update op afstand, of een bezoek op locatie. Bij "vervanging" is de instructie de batterij per direct uit te zetten.
+
+## Wat er precies is teruggeroepen
+
+LG voert twee opeenvolgende acties uit, die op de eigen recallsite naast elkaar staan:
+
+1. **De vervangingsactie.** Een deel van de batterijen wordt kosteloos vervangen, inclusief kosteloze verwijdering van het oude toestel. Eigenaren van een batterij in deze categorie moeten het toestel onmiddellijk uitschakelen en niet meer gebruiken tot de vervanging is uitgevoerd.
+2. **De diagnose-software-update.** Een tweede groep krijgt bewakingssoftware die de batterijcellen monitort en het toestel automatisch uitschakelt zodra een risico op overhitting wordt gedetecteerd. Volgt die uitschakeling, dan wordt de batterij kosteloos vervangen. Toestellen die online staan, krijgen die update op afstand; staat een toestel niet online, dan plant LG een monteursbezoek in.
+
+In de Amerikaanse variant van de campagne is de tijdlijn expliciet: de eerste terugroepactie liep vanaf december 2020 en werd in augustus 2021 uitgebreid; de tweede actie, met de diagnosesoftware, kwam in oktober 2022. LG noemt daar een verkoopperiode van maart 2017 tot maart 2020 via diverse distributeurs, en de Amerikaanse toezichthouder CPSC is bij die actie betrokken.
+
+**Welke modellen:** op de Europese pagina staan RESU3.3, RESU6.5, RESU10, RESU13, RESU7H (Type C en Type R), RESU10H (Type C en Type R) en RESU10M. In de serienummercheck zelf staan RESU 3.3, 6.5, 10, 13, 7H en 10H, plus de S/A Gen2 in 1P- en 2P-uitvoering.
+
+**Welk criterium:** cellen geproduceerd vóór augustus 2019. Dat is de kern en tegelijk de reden dat modelnamen je niet verder helpen: binnen één modelnaam zijn zowel getroffen als niet-getroffen exemplaren gebouwd.
+
+## De serienummercheck, stap voor stap
+
+1. Zoek het serienummer op het typeplaatje van de batterij. Het begint met een **R** en bestaat uit **23 tekens** — letters en cijfers. LG geeft als voorbeeld de reeks R15563P3SSEG11610317001.
+2. Ga naar de officiële controlepagina: [recall.lgessbattery.com/eu/serialcheck.html](https://recall.lgessbattery.com/eu/serialcheck.html).
+3. Voer het nummer in en lees de uitkomst. Er zijn vier mogelijke antwoorden:
+   - **Geen actie nodig** — jouw batterij valt buiten de actie.
+   - **Vervanging** — LG neemt contact op om een kosteloze vervanging en verwijdering in te plannen. Zet de batterij tot die tijd uit.
+   - **Diagnose-software-update** — LG bevestigt dat jouw batterij de update op afstand heeft gekregen of gaat krijgen. Laat het toestel daarvoor aan en online.
+   - **Bezoek op locatie** — LG plant een monteursbezoek in.
+4. Herhaal de check ook als je hem eerder al hebt gedaan. LG meldt zelf dat de acties zijn uitgebreid met extra modellen en batterijen.
+
+Kom je er niet uit, of staat de batterij niet online? De Europese contactgegevens die LG publiceert zijn **campaign@lgensol.com** en telefoonnummer **+49 (0) 6196 5719 660**. Loopt je installateur nog, dan is dat de snellere route: die heeft het serienummer in zijn dossier.
+
+Wat wij niet hebben kunnen vinden: een aparte Nederlandse waarschuwing of terugroepmelding met eigen instructies. De pagina die wij daarvoor bij de NVWA controleerden bestond op 21 augustus 2026 niet. De officiële route voor Nederlandse eigenaren loopt dus via de Europese recallpagina van LG en via de eigen installateur.
+
+## Wat dit betekent voor de vraag "nog kopen?"
+
+Drie dingen, en geen ervan is een merkoordeel op basis van cijfers die we niet hebben.
+
+**Een tweedehands RESU koop je niet zonder serienummercheck.** Dit is de meest concrete consequentie. Op marktplaatsen staan RESU-batterijen uit installaties die zijn ontmanteld. Vraag het serienummer vóór aankoop en check het op de LG-pagina. Een batterij in de vervangingscategorie is geen koopje maar een risico, en de vervangingsregeling loopt via de oorspronkelijke eigenaar en installatie.
+
+**Bij een nieuw systeem is de garantieroute de vraag, niet het merk.** Deze terugroepactie laat precies zien waar het bij een thuisbatterij op aankomt: niet op een tiende procent rendement, maar op de vraag of er een partij is die na jaren nog een module komt vervangen. Dat LG dit uitvoert met kosteloze vervanging en verwijdering is een sterk punt van de fabrikant; dat de campagne twee keer is uitgebreid, is er een tegen. Wat er op dit moment in Nederland leverbaar is en wie de service uitvoert, staat in [beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/).
+
+**Capaciteitscijfers per type noemen wij hier niet.** LG heeft meerdere RESU-generaties onder vergelijkbare namen gevoerd, en de bruikbare energie hangt af van de opgegeven ontlaaddiepte. Wat altijd geldt: **de bruikbare capaciteit is kleiner dan de nominale capaciteit, nooit groter.** Kom je ergens een opgave tegen waarin het omgekeerde staat, dan is dat een schrijffout — en reken in een terugverdienberekening altijd met de bruikbare waarde. Het datasheet dat bij jouw serienummer hoort is de enige juiste bron; vraag dat op bij je installateur.
+
+## Praktijkpunten die in de documentatie terugkomen
+
+Deze punten gelden voor lithium-ion-thuisbatterijen in het algemeen en komen in fabrikantdocumentatie steeds terug. Het zijn geen eigen metingen.
+
+- **Koude opstelplaats kost vermogen.** Bij lage omgevingstemperaturen begrenzen batterijen het beschikbare laad- en ontlaadvermogen, en celverwarming verbruikt zelf stroom. Een onverwarmde carport of buitenberging is daarmee een slechtere plek dan een garage die boven het vriespunt blijft. Dat is normaal gedrag, geen defect.
+- **Vrije ruimte rondom.** Houd je aan de montage-instructie van de fabrikant voor de afstand tot omvormer en wand. Er bestaat geen algemene Nederlandse norm die een vaste vrije ruimte in meters voorschrijft; wat geldt is de installatie-instructie plus NEN 1010 voor de elektrische installatie, uitgevoerd door een installateur.
+- **Zonder monitoringaccount geen historie.** Wie later een garantieclaim wil onderbouwen, heeft meetgeschiedenis nodig. Laat de installateur bij oplevering het monitoringaccount op jouw naam zetten, niet op zijn eigen.
+- **Een gesloten systeem is niet uit te breiden.** Verwacht je een groeiend verbruik, bijvoorbeeld door een elektrische auto, dan is een modulair systeem passender dan een vaste eenheid. Dat is een ontwerpkeuze die je vooraf maakt, niet achteraf.
+
+## Financiële context in Nederland
+
+Voor de volledigheid, want deze punten worden vaak verkeerd verteld:
+
+- **Btw op een thuisbatterij is 21 procent.** Het 0 procent-tarief geldt alleen voor zonnepanelen en direct noodzakelijke onderdelen.
+- **De ISDE dekt geen thuisbatterijen.** Ook geen omvormers of laadpalen.
+- **De salderingsregeling stopt volledig per 1 januari 2027.** Er is geen afbouwpad; het wetsvoorstel met een trapsgewijze afbouw is verworpen. Vanaf dat moment verschuift de waarde van een batterij van teruglevering naar eigen gebruik en sturing.
+
+Wat dat samen met een concrete capaciteit betekent, reken je door op onze pagina [terugverdientijd thuisbatterij](/terugverdientijd-thuisbatterij/).
+
+## Bronnen
+
+- [LG ESS Battery — recallinformatie](https://www.lgessbattery.com/), opgehaald 21 augustus 2026: modellen, serienummeropbouw, verkoopperiode, de twee acties en de Amerikaanse tijdlijn.
+- [LG ESS Battery — Europese recallpagina](https://recall.lgessbattery.com/eu), opgehaald 21 augustus 2026: modellenlijst voor Europa, het criterium "cellen geproduceerd vóór augustus 2019", de risicoformulering, de twee herstelroutes en de Europese contactgegevens.
+- [LG ESS Battery — serienummercheck](https://recall.lgessbattery.com/eu/serialcheck.html), opgehaald 21 augustus 2026: de vier mogelijke uitkomsten en de modellenlijst in de check.

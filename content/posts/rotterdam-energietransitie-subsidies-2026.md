@@ -22,7 +22,7 @@ keywords:
 - rotterdam aardgasvrij
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1518709268805-4e9042af2176&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1545324418-cc1a3fa10c00&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: false
 faq:

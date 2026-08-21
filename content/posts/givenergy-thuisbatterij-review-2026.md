@@ -1,319 +1,139 @@
 ---
-title: 'GivEnergy thuisbatterij in Nederland 2026: pluspunten en haken'
-date: '2026-09-05 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+title: 'GivEnergy All in One 2: wat de fabrikant publiceert (en niet)'
+date: '2026-08-21 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: GivEnergy is groot in UK en komt op in Nederland. All-in-one 9,5 kWh + omvormer. Wij beoordelen het systeem op installatie-eisen, app en mogelijkheden voor dynamisch laden.
+description: 'GivEnergy is een Britse batterijfabrikant. Wat staat er in de eigen productdocumentatie over de All in One 2 — capaciteit, vermogen, garantie — en wat publiceert het merk niet: prijs, cyclusaantal en een Nederlandse serviceorganisatie.'
 categories:
 - thuisbatterijen
 tags:
 - thuisbatterijen
+- givenergy
 - verduurzamen
 - duurzaam wonen
-- givenergy
 keywords:
 - givenergy nederland
 - givenergy review
 - all in one batterij
-- givenergy gen3
+- givenergy all in one 2
 - givenergy installatie
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Wat zijn de pluspunten van deze batterij?
-  a: Goede prijs-kwaliteit, robuuste behuizing, en (bij sommige merken) ondersteuning voor dynamische contracten via API. Lokale support in Nederland is wisselend per merk.
-- q: Wat zijn de minpunten?
-  a: Soms beperkte lokale service in Nederland, app niet altijd Nederlandstalig, en minder integraties met Home Assistant dan grote merken zoals Sessy of Tesla.
-- q: Wat kost het inclusief installatie?
-  a: Reken op 800-1.200 euro per kWh inclusief installatie, omvormer en BMS. Voor een 10 kWh-systeem zit je rond 8.000-11.500 euro afhankelijk van merk en installateur.
-- q: Hoe lang is de garantie?
-  a: Standaard 10 jaar of 6.000 cycli bij 70-80 procent restcapaciteit. Sommige merken bieden 12 of 15 jaar garantie tegen meerprijs.
-- q: Werkt het systeem met een dynamisch contract?
-  a: Ja, via API of via een externe controller (HomeWizard, Sessy P1). Voor volledige automatisering werkt Sessy en Marstek out-of-the-box; andere merken vragen meer setup.
-products:
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '0'
-- name: Marstek Venus
-  url: https://go.duurzaamthuislab.nl/marstek
-  price: '0'
-schema_type: Article
-last_updated: '2026-04-29'
----
-*Disclosure: de links naar Marstek en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
-
-"GivEnergy thuisbatterij in Nederland 2026 — werkt dat in de praktijk?" is een van de vaakst gestelde vragen over dit onderwerp. Hieronder zetten we op een rij wat de specificaties, handleidingen en publieke data zeggen, en waar de praktijk afwijkt van de brochure.
-
-
-> **Kort antwoord:** GivEnergy is groot in UK en komt op in Nederland. All-in-one 9,5 kWh + omvormer. Wij beoordelen het systeem op installatie-eisen, app en mogelijkheden voor dynamisch laden.
->
-> Goede prijs-kwaliteit, robuuste behuizing, en (bij sommige merken) ondersteuning voor dynamische contracten via API. Lokale support in Nederland is wisselend per merk.
-
-## Korte conclusie
-
-Voor wie weinig tijd heeft, de samenvatting in vijf punten.
-
-- **Werkt het?** Ja, mits je de juiste setup hebt — uitleg verderop.
-- **Kosten?** Tussen €0 en €2.500 afhankelijk van scope.
-- **Terugverdientijd?** 2-7 jaar in de meeste gevallen.
-- **Beste keuze 2026?** Vaak Sessy thuisbatterij — zie [de uitgebreide uitleg](/posts/sessy-review-thuisbatterij-nederland/).
-- **Valkuilen?** Drie veelgemaakte fouten — zie hoofdstuk 5.
-
-> **Onze inschatting:** begin met <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> en bouw stapsgewijs uit — niet alles in één keer.
-
-## 1. Wat is het probleem?
-
-Zonnepanelen en een warmtepomp leveren op zichzelf besparing op, maar zonder sturing blijft er geld liggen: apparaten draaien op de duurste uren en de batterij is leeg precies wanneer de prijs piekt. Dat speelt vooral bij dynamische contracten en thuisbatterijen.
-
-De kern: thuisbatterijen is niet plug-and-play. Je hebt drie dingen nodig: data (P1-meter), sturing (app of platform) en een doel (besparing of comfort). Mis je één van deze drie, dan blijft het rendement achter.
-
-Voor context — zie ook [het bredere plaatje](/posts/marstek-venus-review-thuisbatterij/) en [wat het einde van saldering betekent](/posts/tesla-powerwall-review-nederland-2026/).
-
-## 2. Wat heb je nodig?
-
-Een werkende opstelling bestaat uit vier componenten:
-
-1. **Slimme meter met werkende P1-poort.** Sinds 2018 standaard in NL.
-2. **Realtime energiemonitor** (HomeWizard P1, Sessy P1, of Smartgateways).
-3. **Een apparaat of contract om op te sturen**, bijvoorbeeld Sessy thuisbatterij.
-4. **Een platform of app.** Tibber, Frank, Home Assistant of OpenHAB.
-
-De fout die in gebruikersforums het vaakst terugkomt: stap 4 overslaan. Zonder platform heb je losse apparaten die elkaar niet kennen. Je warmtepomp gaat aan terwijl je batterij oplaadt — dubbel gebruik, dubbele kosten.
-
-Lees ook: [de gedetailleerde guide](/posts/huawei-luna-2000-review-2026/) en [de vergelijking in de praktijk](/posts/beste-thuisbatterij-nederland-2026/).
-
-## 3. Stap-voor-stap aanpak
-
-### Stap 1: meet eerst
-
-Voordat je iets koopt: meet je verbruik in kwartiergegevens. Bij Frank, Tibber of via je leverancier-portal kun je 365 dagen historie downloaden. Plot dit in Excel — je ziet meteen waar de pieken zitten.
-
-In een gemiddeld gezinsprofiel liggen de pieken rond 07:00-09:00 (douche en ontbijt) en 17:00-21:00 (koken en EV laden). Dat zijn ook de duurste uren op een dynamisch contract.
-
-### Stap 2: bepaal het doel
-
-Niet elke setup hoeft volledig zelfvoorzienend te zijn. Zonnepanelen plus slim laden leveren al een groot deel van de winst; de batterij voegt daar arbitrage en extra zelfconsumptie aan toe. Of dat extra bedrag de investering rechtvaardigt, moet je met je eigen verbruikscijfers narekenen — bij een klein prijsverschil per jaar loopt de terugverdientijd van een batterij snel op tot ver boven de tien jaar.
-
-Reken het voor jezelf door — zie [het rekenmodel](/posts/thuisbatterij-vergelijking-2026/) of bekijk <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Bekijk Marstek</a> voor concrete prijzen.
-
-### Stap 3: koop de juiste hardware
-
-Voor de meeste huishoudens is een 5 kWh of 10 kWh batterij genoeg. Groter is overkill tenzij je een EV thuis laadt of een groot huishouden hebt. Voor warmtepompen: kies op vermogen + COP, niet op merk.
-
-Onze inschatting per scenario:
-
-- **Klein huis, geen EV:** een 5 kWh batterij — marktprijs circa €3.550 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites); in de meeste rekenmodellen 6-8 jaar terugverdientijd (modelberekening).
-- **Middelgroot, 1 EV:** 10 kWh batterij plus slim laden op een dynamisch tarief.
-- **Groot, 2 EV's:** 15-20 kWh modulair systeem — overweeg Marstek Venus.
-
-### Stap 4: configureer het platform
-
-Dit is waar de meeste mensen vastlopen. Volgens de documentatie en gebruikerservaringen is een fabrikant-app in een kwartier ingericht, Home Assistant kost een avond en OpenHAB aanzienlijk meer. Onze aanbeveling: begin met de fabrikant-app en stap pas over op Home Assistant als je tegen beperkingen aanloopt.
-
-Voor batterij-sturing op dynamisch contract: zie [de uitgebreide uitleg](/posts/pylontech-thuisbatterij-review-2026/).
-
-## 4. Wat kost het?
-
-Indicatieve marktprijzen voor 2026, exclusief eventuele subsidies:
-
-| Onderdeel | Kosten | Terugverdientijd |
-|---|---|---|
-| Thuisbatterij 5-10 kWh | circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) | 6-8 jaar (modelberekening) |
-| P1-meter (HomeWizard) | €99 | < 1 jaar |
-| Home Assistant Yellow | €199 | n.v.t. (tool) |
-| Slim laadpaal (Easee/Wallbox) | €1.099-€1.599 | 3-5 jaar |
-| Marstek Venus | €0-€2.000 | varieert |
-
-Voor een volledige kostenberekening: zie [de uitgebreide berekening](/posts/byd-battery-box-review-2026/). Daar staan ook subsidies op een rij.
-
-## 5. Drie valkuilen bij de aanschaf
-
-**Valkuil 1: te groot kopen.** Een batterij die groter is dan je dagelijkse nuttige doorzet, staat een deel van het jaar stil. Bereken eerst hoeveel kWh je per dag daadwerkelijk kunt verschuiven; dat is bijna altijd minder dan de nominale capaciteit.
-
-**Valkuil 2: vendor lock-in.** Bij DC-gekoppelde batterijen (Goodwe, Huawei, SolaX) zit je vast aan dat merk omvormer. Bij AC-gekoppeld (Sessy, Marstek, Powerwall) ben je vrij. Voor toekomstvastheid heeft AC onze voorkeur.
-
-**Valkuil 3: geen meetbaar doel.** "Ik wil verduurzamen" is geen doel. "€500 per jaar besparen" wel. Maak het concreet, anders koop je verkeerde spullen.
-
-## 6. Welk product past bij wie?
-
-### Voor budgetbewuste huishoudens
-Kies een compacte AC-gekoppelde oplossing met een goede app en zonder vendor lock-in. <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>
-
-### Voor early adopters die alles slim willen
-Combineer Sessy thuisbatterij met Home Assistant en een dynamisch contract via Tibber of Frank. Setup-tijd 2-4 uur, levert structureel 15-25 procent meer besparing.
-
-### Voor grote huishoudens of off-grid ambities
-Modulair systeem zoals BYD Battery-Box of Marstek Venus, in combinatie met een hybride-omvormer (Goodwe, SolaX). Investering €12.000-€18.000.
-
-## 7. Rekenvoorbeeld: wat levert een complete opstelling op?
-
-Onderstaand voorbeeld is een rekenvoorbeeld met expliciete aannames — geen meting. Vul je eigen cijfers in en de uitkomst verandert mee.
-
-Aannames:
-
-- **Stroomverbruik:** 4.380 kWh per jaar (gezin van 4)
-- **Zonneproductie:** 4.920 kWh (14 panelen, zuid en west)
-- **Teruglevering zonder batterij:** 1.890 kWh
-- **Batterij:** 10 kWh, gemiddelde bruikbare dag-spread €0,18/kWh na belasting
-
-Uitkomst van het model: circa €350-€400 aan arbitrage, plus €300 aan slim laden van een EV ten opzichte van een vast tarief. Bij een investering van €11.200 voor panelen, omvormer, batterij en laadpaal komt de terugverdientijd op ongeveer 10 jaar.
-
-De spread is de dominante variabele in dit model: halveert die, dan verdwijnt het grootste deel van de arbitragewinst. Na het einde van de saldering verschuift het verdienmodel van teruglevering naar eigen gebruik — daarom wordt sturing op dynamisch tarief belangrijker.
-
-## 8. Veelgemaakte vragen uit de praktijk
-
-**"Mijn installateur zegt dat het niet kan."**
-Vraag een tweede mening. Er zijn installateurs met ervaring met deze setups — zie [de installateur-checklist](/posts/sessy-review-thuisbatterij-nederland/).
-
-**"Het is te duur."**
-Reken het door met je eigen cijfers. In veel rekenvoorbeelden ligt de terugverdientijd op 6-9 jaar bij een verwachte levensduur van 15-20 jaar. Wat dat als rendement betekent, hangt af van de prijsspreads en de restwaarde — behandel het als een schatting met een brede marge, niet als een gegarandeerd rendement.
-
-**"Ik woon in een huurwoning."**
-Dan zijn je opties beperkter, maar niet nul. Zie [de guide voor huurwoningen](/posts/marstek-venus-review-thuisbatterij/).
-
-## 9. Conclusie
-
-Stapsgewijs verduurzamen werkt beter dan alles in één keer: begin met meten, voeg dan sturing toe, en bouw daar het platform omheen. Niet andersom.
-
-Voor 2026 is de logische eerste stap een dynamisch contract met goede data-ontsluiting: <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>. Hardware met een investering van circa €3.550-€5.500 (prijspeil aug 2026, Sessy als referentie via sessy.nl; andere merken wijken af — zie vendorsites) en een verwachte levensduur van 15-20 jaar komt daarna, als je verbruikprofiel bekend is.
-
-Verder lezen: [het overzichtsartikel](/posts/tesla-powerwall-review-nederland-2026/), [de rekenmodellen](/posts/huawei-luna-2000-review-2026/) en [de verzamelde gebruikerservaringen](/posts/beste-thuisbatterij-nederland-2026/).
-
-## 10. Technische details: hoe werkt het onder de motorkap?
-
-Hieronder de technische kern voor wie wil begrijpen waaróm dingen werken zoals ze werken bij thuisbatterijen.
-
-### Energiestromen in kaart
-
-Op een gemiddelde voorjaarsdag lopen er vier energiestromen door elkaar: zonneproductie (4-6 kW piek rond het middaguur), huishoudelijk verbruik (basislast rond 350 W, pieken tot 7 kW bij koken), warmtepomp (1,2-2,8 kW modulerend) en EV-laden (3,7 kW of 11 kW). De som van deze stromen bepaalt of je op dat moment kost of verdient.
-
-Zonder slimme sturing lopen deze door elkaar: je warmtepomp draait 's avonds op spitstarief, je batterij is leeg precies wanneer EV-laden begint. Resultaat: je betaalt de piekprijs voor stroom die uren eerder bijna gratis was.
-
-### De rol van forecasting
-
-Tibber, Frank en Home Assistant gebruiken weersvoorspellingen en dag-vooruitprijzen om beslissingen 24 uur vooruit te nemen: laden om 03:00 tot 70% omdat de prijs de volgende dag om 17:00 piekt. Dat is een algoritmische beslissing, geen menselijke.
-
-De kwaliteit van die forecasting bepaalt een aanzienlijk deel van je besparing. Goede platforms gebruiken zowel weersdata als historische verbruiksprofielen; simpele implementaties reageren alleen op de huidige prijs.
-
-### Communicatieprotocollen
-
-Drie protocollen domineren de markt:
-
-- **Modbus TCP** — industrieel, betrouwbaar, lokaal. Vrijwel alle warmtepompen, omvormers en batterijen ondersteunen het.
-- **MQTT** — lichtgewicht message-broker, populair voor IoT. Ideaal voor Home Assistant en zelfbouw-systemen.
-- **REST API (HTTP)** — cloud-only, leverancier-afhankelijk. Werkt overal maar valt uit als internet uitvalt.
-
-Voor toekomstvastheid verdient Modbus TCP de voorkeur boven cloud-API's: lokale besturing blijft werken als een fabrikant zijn cloud uitzet.
-
-## 11. Onderhoud en levensduur
-
-Een vaak vergeten kostencomponent. Indicatieve bedragen op basis van onderhoudscontracten en fabrikantopgaven voor thuisbatterijen:
-
-| Component | Onderhoud/jaar | Levensduur |
-|---|---|---|
-| Zonnepanelen | €0-€50 | 25-30 jaar |
-| Omvormer | €0-€80 | 12-15 jaar |
-| Thuisbatterij (LiFePO4) | €0-€120 | 15-20 jaar |
-| Warmtepomp lucht-water | €175-€275 | 15-20 jaar |
-| Slim laadpaal | €25-€80 | 10-12 jaar |
-
-Belangrijke nuance: garantie en levensduur zijn niet hetzelfde. Een omvormer met 10 jaar garantie gaat volgens fabrikantopgaven doorgaans 12-15 jaar mee. Reken voor je terugverdienberekening met verwachte levensduur, niet met de garantieperiode.
-
-### Wat gaat er kapot?
-
-De faalmodi die installateurs en fabrikant-servicedocumentatie het vaakst noemen, ongeveer in volgorde van frequentie:
-
-1. **Omvormer-koeling.** Stof, ventilatordefect. Eenvoudige reparatie of vervanging na 10 jaar.
-2. **Bypass-diode in panelen.** Bij hotspots door schaduw. Lost zichzelf vaak op of paneel vervangen onder garantie.
-3. **Batterij-BMS.** Zelden, maar bij goedkope merken (geen tier-1) komt het voor.
-4. **Connector-corrosie.** Door slechte installatie. Voorkomen door MC4-vet bij installatie.
-
-Voor preventief onderhoud: zie [de jaaronderhoud-checklist](/posts/thuisbatterij-vergelijking-2026/).
-
-## 12. Wat gaat er veranderen in 2027-2030?
-
-Onze verwachting op basis van wetgeving en marktontwikkeling — geen zekerheden:
-
-**2027: einde saldering.** Zelfconsumptie wordt waardevoller; het verdienmodel van een batterij verschuift van teruglevering naar eigen gebruik en arbitrage.
-
-**2028: bredere V2G-uitrol.** De eerste massamarktauto's ondersteunen bidirectioneel laden; de verwachting is dat bidirectionele laadpalen verder in prijs dalen.
-
-**2029: dynamisch contract als norm.** Vaste contracten worden waarschijnlijk niche, mogelijk in de vorm van dynamisch met prijsplafond.
-
-**2030: strengere eisen bij ketelvervanging.** De richting van het beleid is hybride of volledig elektrisch; hoe de regels exact luiden, hangt af van besluitvorming die nog loopt.
-
-Wie nu investeert in toekomstvaste hardware (open protocollen, AC-gekoppelde batterij, modulaire warmtepomp) staat sterker dan wie kiest voor gesloten cloud-systemen. Lees ook [de beleidsanalyse](/posts/pylontech-thuisbatterij-review-2026/).
-
-## 13. Rekenvoorbeelden per situatie
-
-Vier fictieve rekenvoorbeelden met expliciete aannames. Bedragen zijn marktprijsindicaties, terugverdientijden volgen uit het model in hoofdstuk 7:
-
-**Situatie A: rijtjeshuis, 2 personen, geen EV, 2.800 kWh verbruik**
-Ga voor 8-10 zonnepanelen + Sessy thuisbatterij (5 kWh) + dynamisch contract. Investering €8.500. Terugverdientijd 6,5 jaar. Geen warmtepomp nodig — eerst isoleren.
-
-**Situatie B: 2-onder-1-kap, 4 personen, 1 EV, 5.200 kWh + 18.000 km/jaar**
-14 panelen, 10 kWh batterij, warmtepomp, slimme laadpaal. Investering circa €24.000, terugverdientijd 8-10 jaar. Combineer met <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Bekijk Marstek</a>.
-
-**Situatie C: vrijstaand, 5 personen, 2 EV's, 7.800 kWh + 30.000 km/jaar**
-20+ panelen, 15-20 kWh modulair, warmtepomp, 2 laadpalen. Investering €38.000-€45.000, terugverdientijd 9-11 jaar bij maximale autonomie.
-
-**Situatie D: appartement, 1-2 personen, 1.800 kWh**
-Geen panelen mogelijk? Begin met een dynamisch contract, een slimme thermostaat en waar mogelijk lokale elektrische bijverwarming. Investering circa €600, besparing in het model €180-€280 per jaar.
-
-## 14. Slot
-
-Verduurzamen is een marathon, geen sprint. Alles in één keer verbouwen levert een lange wachttijd op je terugverdientijd op; per jaar de meest renderende stap zetten werkt beter.
-
-De volgorde die in vrijwel elk rekenmodel het beste uitpakt:
-
-1. Isoleren (kruipruimte, spouwmuur, zolder) — €0-€8.000 — direct comfort en besparing.
-2. Dynamisch contract plus monitoring — €0-€100 — in de meeste modellen €100-€300 per jaar.
-3. Zonnepanelen — €4.000-€8.000 — terugverdientijd 6-8 jaar.
-4. Warmtepomp (hybride of vol) — €4.000-€18.000 — terugverdientijd 7-12 jaar.
-5. Thuisbatterij — €4.000-€10.000 — terugverdientijd 6-9 jaar in de meeste modellen.
-6. Slim laden EV + V2H — €1.500-€8.000 — varieert sterk.
-
-Stap 1 en 2 zijn voor vrijwel iedereen zinvol. Stap 3-6 hangt af van budget en levensfase.
-
-Volgende stap: bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> voor actuele voorwaarden, en lees [de aanvullende guide](/posts/byd-battery-box-review-2026/) voor verdieping.
-
-## Wat de specificaties beloven en waar op te letten
-
-Volgens het datasheet van de Giv-Bat 9.5 met All-in-One omvormer (5 kW):
-
-- Nominale capaciteit 9,5 kWh, waarvan circa 9,1 kWh bruikbaar
-- Round-trip rendement circa 92,5% (fabrieksopgave, inclusief omvormer)
-- Garantie 12 jaar product met 80% restcapaciteit
-- Monitoring via de GivEnergy-cloudportal, met lokale Modbus-RTU als alternatief
-
-Twee aandachtspunten die in gebruikersreviews en de fabrikantdocumentatie terugkomen. Ten eerste: het gerealiseerde round-trip rendement in een woning ligt structureel iets onder de datasheetwaarde, omdat standby-verbruik en conversieverliezen bij deellast meetellen — reken in je rekenmodel met een marge van één tot twee procentpunt. Ten tweede: de cloudportal is een sterk punt van GivEnergy (real-time data, uitgebreide historie), maar firmware-updates en monitoring lopen erover. Support werkt op werkdagen; buiten kantooruren duurt reactie langer.
-
-## Veelgemaakte fouten bij GivEnergy
-
-1. **CT-clamp verkeerd geïnstalleerd.** Pijl moet richting net wijzen — bij verkeerde richting laadt batterij omgekeerd.
-2. **Eco-mode niet geactiveerd.** Standaard staat batterij in 'Idle' bij eerste opstart. Activeer Eco voor self-consumption.
-3. **Vergeten App-koppeling.** Zonder GivEnergy Cloud-account werkt EVCC- of HA-integratie niet.
-4. **Wifi-signaal te zwak.** Batterij vereist stabiel >2 staafjes wifi. Anders connection drops.
-5. **Onvoldoende rackruimte.** Bij stack > 2 modules, koeling vereist 50 cm boven de bovenste module.
-
-## Wanneer GivEnergy minder geschikt is
-
-Voor zwaar arbitrage-gebruik (meer dan één cyclus per dag) is het opgegeven round-trip rendement van circa 92,5% niet het hoogste in de markt; Sungrow en BYD geven in hun datasheets 94-95% op. Op een arbitragevolume van 1.500 kWh per jaar scheelt twee procentpunt rendement circa 30 kWh — bij een spread van €0,15/kWh is dat enkele tientjes per jaar.
-
-## Extra FAQ
-
-**Werkt GivEnergy zonder cloud?**
-Lokaal Modbus-RTU werkt, maar firmware-updates en monitoring vereisen cloud. Bij crash UK-server staat batterij stil zonder lokale override.
-
-**Welke garantievoorwaarden gelden in NL?**
-12 jaar product, 80 procent capaciteit gegarandeerd. Service via GivEnergy NL importeur (Solar Pro Solutions).
-
+- q: Zijn dit jullie eigen ervaringen met een GivEnergy-batterij?
+  a: 'Nee. Wij hebben deze batterij niet geïnstalleerd, niet gemeten en niet in gebruik gehad. Dit artikel vat samen wat GivEnergy zelf op givenergy.com publiceert, opgehaald op 21 augustus 2026. Waar wij een oordeel geven, is dat een redactionele afweging op basis van die documentatie.'
+- q: Welke producten voert GivEnergy voor woningen?
+  a: 'Op de pagina met residentiële hardware noemt GivEnergy de All in One 2 (samen met de Gateway 2), een uitbreidingsbatterij van 13,5 kWh, hybride omvormers Gen 3 in een laagspanningsvariant van 3,6 en 5 kW en een hoogspanningsvariant van 8 en 10 kW, een 3-fase hybride omvormer in 6, 8, 10, 12 en 20 kW, een AC-gekoppelde omvormer en een laadpunt voor een elektrische auto.'
+- q: Hoe groot is de All in One 2?
+  a: 'GivEnergy geeft voor de All in One 2 met MPPT een bruikbare capaciteit van 13,5 kWh op bij een design energy van 15,9 kWh. Het nominale AC-vermogen loopt van 6,0 tot 12,0 kW, off-grid noemt de fabrikant 12 kVA nominaal en 14,4 kVA piek gedurende 10 seconden. De unit meet 600 x 950 x 280 mm en weegt 181,3 kg met batterijen. Het systeem is uit te breiden met maximaal twee uitbreidingsbatterijen, tot een door GivEnergy genoemd maximum van 40,5 kWh.'
+- q: Wat is de garantie?
+  a: 'GivEnergy noemt op de productpagina van de All in One 2 een garantie van 15 jaar. Een restcapaciteitspercentage en een maximaal aantal cycli of een doorzetlimiet in MWh staan er niet bij. Vraag daarom vóór ondertekening de volledige garantieverklaring op en let specifiek op die twee punten: een termijn zonder restcapaciteitsgrens en zonder doorzetgrens zegt weinig.'
+- q: Wat kost een GivEnergy-systeem in Nederland?
+  a: 'Dat publiceert GivEnergy niet. Op de eigen site staan geen consumentenprijzen; de fabrikant verwijst naar installateurs. Wij verzinnen die prijs niet. Vraag twee offertes op waarin de batterij, de omvormer, de Gateway en het installatiewerk apart staan, en leg die naast de modelberekening verderop in dit artikel.'
+- q: Is er service in Nederland?
+  a: 'GivEnergy beschrijft zichzelf als een van de grootste fabrikanten van batterijopslag in het Verenigd Koninkrijk die inmiddels internationaal opereert. Een Nederlandse vestiging, importeur of servicepartner noemt de site niet met naam. Wel is er een Nederlandse taalversie van de site en een set algemene voorwaarden voor de EU. Voor een systeem met vijftien jaar garantie is de vraag wie dat in Nederland uitvoert een harde vraag voor je installateur, niet een detail.'
+schema_type: Review
 ---
 
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
+*Disclosure: GivEnergy wordt in dit artikel redactioneel besproken. Wij hebben met GivEnergy geen affiliate- of commissierelatie en ontvangen voor dit artikel geen vergoeding. Er staan geen commerciële links in.*
 
----
+Wie zoekt op "GivEnergy Nederland" wil twee dingen weten: wat kan dit systeem, en kun je er in Nederland op vertrouwen als er over acht jaar iets stukgaat. Dit artikel beantwoordt de eerste vraag met de documentatie van de fabrikant zelf en is over de tweede vraag eerlijk: die informatie publiceert GivEnergy niet.
 
-**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).
+**Alles hieronder komt van givenergy.com, opgehaald op 21 augustus 2026.** Wij hebben dit systeem niet zelf geïnstalleerd, niet gemeten en geen meterstanden vergeleken.
+
+> **Kort antwoord:** GivEnergy is een Britse fabrikant met een all-in-one systeem, de All in One 2: 13,5 kWh bruikbaar, 6 tot 12 kW AC, 15 jaar garantie, IP65, uitbreidbaar tot 40,5 kWh. Wat de fabrikant níet publiceert is even relevant: geen consumentenprijs, geen round-trip rendement, geen cyclusaantal of doorzetlimiet bij die 15 jaar, en geen Nederlandse servicepartner met naam.
+
+## Wat GivEnergy voor woningen levert
+
+De residentiële hardwarepagina noemt zes productlijnen:
+
+| Product | Wat GivEnergy opgeeft |
+|---|---|
+| All in One 2 | Batterij, omvormer en beheer in één kast; werkt samen met de Gateway 2 |
+| Uitbreidingsbatterij | 13,5 kWh per module; maximaal twee per All in One 2 |
+| Hybride omvormer Gen 3 (laagspanning) | 3,6 en 5 kW |
+| Hybride omvormer Gen 3 (hoogspanning) | 8 en 10 kW |
+| 3-fase hybride omvormer | 6, 8, 10, 12 en 20 kW |
+| AC-gekoppelde omvormer | Voor koppeling op een bestaande zonnestroominstallatie |
+
+Bron: givenergy.com/residential-hardware, opgehaald 21 augustus 2026. Er staat ook een laadpunt voor elektrische auto's in het assortiment.
+
+Die laatste twee regels zijn voor Nederland de interessantste. Veel Nederlandse woningen hebben een 3-fase aansluiting, en veel huishoudens die nu een batterij overwegen hebben al jaren zonnepanelen liggen met een bestaande omvormer. Voor die situatie is een AC-gekoppelde oplossing meestal logischer dan een hybride omvormer, omdat je de werkende installatie niet hoeft te vervangen. Waarom dat onderscheid financieel uitmaakt, staat in [micro-omvormer versus string-omvormer](/posts/micro-omvormer-vs-string-omvormer-2026/).
+
+## De All in One 2 in cijfers
+
+De specificaties die GivEnergy op de productpagina van de All in One 2 met MPPT opgeeft:
+
+| Specificatie | Opgave GivEnergy |
+|---|---|
+| Bruikbare capaciteit | 13,5 kWh |
+| Design energy | 15,9 kWh |
+| Nominaal AC-vermogen | 6,0 tot 12,0 kW |
+| Off-grid nominaal | 12 kVA |
+| Piekvermogen | 14,4 kVA gedurende 10 seconden |
+| Beschermingsklasse | IP65, binnen of buiten |
+| Bedrijfstemperatuur | −20 tot 55 °C |
+| Afmetingen | 600 x 950 x 280 mm |
+| Gewicht | 181,3 kg met batterijen, 56,5 kg zonder |
+| MPPT-module | 600 x 145 x 280 mm, 17,8 kg |
+| Garantie | 15 jaar |
+| Maximale uitbreiding | Tot 40,5 kWh met uitbreidingsbatterijen |
+
+Twee dingen vallen op. Het verschil tussen **design energy (15,9 kWh) en bruikbare capaciteit (13,5 kWh)** is de reserve die het batterijmanagement aanhoudt; dat is normaal en het is netjes dat de fabrikant beide getallen noemt. Reken in een terugverdienberekening altijd met de bruikbare waarde — bruikbaar is per definitie kleiner dan nominaal, nooit groter.
+
+Het tweede is het **gewicht van 181,3 kg**. Dat is geen wandkast die je aan een gipsplaten scheidingswand hangt. Bij een All in One 2 plus twee uitbreidingsbatterijen komt daar per module nog massa bij. Laat de installateur de ondergrond en de opstelplaats expliciet in de offerte benoemen, en vraag bij een plaatsing binnen naar de eisen die jouw inboedelverzekeraar stelt.
+
+## Wat GivEnergy niet publiceert
+
+Dit is de helft van de review die op de meeste sites ontbreekt, en het is de helft die je bij de offerte nodig hebt.
+
+- **Geen consumentenprijs.** De fabrikant verwijst naar installateurs. Wij verzinnen geen prijs en nemen er ook geen over uit forums.
+- **Geen round-trip rendement.** In de opgehaalde documentatie staat geen percentage voor het retourrendement van het complete systeem. Reken in je eigen model met een aanname en label die als aanname; wij gebruiken sitebreed 90 procent voor de heen-en-terugweg door een AC-gekoppelde batterij.
+- **Geen cyclusaantal en geen doorzetlimiet bij de garantie.** Vijftien jaar klinkt sterk, maar een garantietermijn krijgt pas betekenis met een restcapaciteitspercentage en een grens in cycli of doorgezette MWh. Fabrikanten die dagelijkse handel op de beurs toestaan, zetten die grenzen doorgaans hoog; wie ze niet publiceert, laat de vraag open.
+- **Geen Nederlandse servicepartner met naam.** De site noemt internationale activiteit, duizenden installaties op meerdere continenten en een Nederlandse taalversie met EU-voorwaarden. Een adres, importeur of RMA-route voor Nederland staat er niet bij.
+
+Dat laatste punt weegt zwaarder dan een tiende procent rendement. Bij een thuisbatterij is de garantieroute het product: als er in jaar negen een module uitvalt, bepaalt de vraag wie hem komt vervangen of die vijftien jaar iets waard is. Vraag je installateur op papier wie de garantie uitvoert en wat er gebeurt als die partij ophoudt te bestaan.
+
+## Modelberekening: wat mag een 13,5 kWh-systeem kosten?
+
+Omdat GivEnergy geen prijs publiceert, draaien we de rekensom om: wat mag zo'n systeem kosten om binnen tien jaar rond te komen? Dit is een **modelberekening met expliciete aannames, geen meting en geen belofte**.
+
+Aannames, gelijk aan het rekenmodel achter onze [terugverdientijd-thuisbatterij](/terugverdientijd-thuisbatterij/):
+
+- Saldering stopt volledig per 1 januari 2027; vanaf dan is de waarde van zelf verbruikte stroom het volle inkooptarief en de waarde van teruglevering slechts een vergoeding.
+- All-in stroomtarief €0,26/kWh (EPEX-jaargemiddelde 2025 van €0,105 inclusief btw, plus energiebelasting €0,11085 inclusief btw, plus een gelabelde aanname van €0,044 voor inkoopopslag en vaste kosten).
+- Terugleververgoeding-aanname €0,07/kWh vanaf 2027 (gelabelde aanname, niet gepubliceerd beleid).
+- Retourrendement 90 procent; circa 150 zoncycli per jaar waarin de batterij een dagoverschot opslaat.
+- Netarbitrage op een dynamisch contract: €8 per kWh capaciteit per jaar (eigen afleiding: circa 100 wintercycli tegen €0,10 netto spreiding).
+
+Bij 13,5 kWh bruikbaar komt het model uit op **circa €475 per jaar** aan gecombineerde zelfverbruiks- en arbitragewinst — mits je verbruik groot genoeg is om die capaciteit dagelijks daadwerkelijk rond te zetten. Bij een huishouden met 2.800 kWh jaarverbruik is 13,5 kWh dat niet; dan zakt de opbrengst mee.
+
+Wat betekent dat voor de prijsvraag? Om binnen tien jaar terug te verdienen mag het complete systeem inclusief installatie niet meer dan circa €4.800 kosten. Voor 13,5 kWh met omvormer, gateway en installatiewerk is dat in de Nederlandse markt geen realistisch bedrag. **Reken dus op een horizon boven de tien jaar**, en behandel elke aanbieder die een terugverdientijd van twee tot vijf jaar noemt als iemand die andere aannames gebruikt dan hij laat zien.
+
+Let bij de kostenkant ook op de fiscale werkelijkheid: op een thuisbatterij geldt **21 procent btw**, het 0 procent-tarief bestaat alleen voor zonnepanelen en direct noodzakelijke onderdelen. De ISDE dekt geen thuisbatterijen. De EIA (40 procent in 2026) is een zakelijke regeling en geldt niet voor particulieren.
+
+## Wanneer GivEnergy wél en niet in beeld komt
+
+**Wel in beeld** als je een grote batterij zoekt met noodstroomcapaciteit, een 3-fase aansluiting hebt en een installateur die dit merk aantoonbaar al eerder heeft opgeleverd én de garantieroute op papier kan zetten. 13,5 kWh met 12 kVA off-grid en een piek van 14,4 kVA is voor een woning ruim bemeten — dat is een functionele voorsprong op de compacte plug-in-batterijen.
+
+**Niet in beeld** als je hoofdmotief besparing is bij een gemiddeld verbruik. Dan is de vraag niet welk merk, maar welke capaciteit; bij minder dan circa 3.500 kWh jaarverbruik zet je 13,5 kWh niet dagelijks rond en betaal je voor stilstand. Wat je wél nodig hebt, reken je door in [thuisbatterij grootte berekenen](/posts/thuisbatterij-grootte-berekenen-2026/).
+
+**Ook niet in beeld** als je vooral zekerheid over service wilt. Merken met een aantoonbare Nederlandse serviceorganisatie zijn op dat punt een veiliger keuze, ook als ze op papier iets minder bieden. Onze vergelijking van wat er in Nederland leverbaar is, staat in [beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/).
+
+## Vijf vragen voor je installateur
+
+1. Welk exact modelnummer en welke firmwaregeneratie staat in de offerte — All in One 2, welke omvormervariant, met of zonder MPPT-module?
+2. Wat staat er in de garantieverklaring over restcapaciteit en over een grens in cycli of MWh doorzet?
+3. Wie voert de garantie in Nederland uit, en wat is de RMA-route en levertijd van een vervangmodule?
+4. Is de batterij op een dynamisch contract te sturen via een lokale interface, of alleen via de cloud van de fabrikant? Valt de sturing stil als die cloud onbereikbaar is?
+5. Wat is de opstelplaats, en houdt de constructie 181,3 kg plus eventuele uitbreidingsmodules?
+
+Antwoord vier is voor Nederlandse kopers doorslaggevend geworden: zonder saldering komt het rendement uit sturing, en sturing die alleen via een buitenlandse cloud loopt, is een afhankelijkheid met een prijs.
+
+## Bronnen
+
+- [GivEnergy — residentiële hardware](https://givenergy.com/residential-hardware/), opgehaald 21 augustus 2026: assortiment en vermogens.
+- [GivEnergy — All in One 2](https://givenergy.com/all-in-one-2/), opgehaald 21 augustus 2026: capaciteit, vermogens, garantietermijn, afmetingen en gewicht.
+- [GivEnergy — over het bedrijf](https://givenergy.com/about-us/), opgehaald 21 augustus 2026: geen Nederlandse vestiging of servicepartner genoemd.

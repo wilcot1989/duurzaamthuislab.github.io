@@ -22,7 +22,7 @@ keywords:
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1591866962471-e1c1cdedf3c9&w=1200&output=webp&q=70
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
 - q: Wat is het verschil tussen de Marstek Venus E 4.0 en de E MAX?
   a: 'Capaciteit en vermogen. De Venus E 4.0 geeft Marstek op als 5 kWh met 3 kW bidirectioneel vermogen, uitbreidbaar met de SmartBox tot 9 kW en 15 kWh. De Venus E MAX staat op 10 kWh met 3,6 kW bidirectioneel en met SmartBox tot 10,8 kW en 30 kWh. Beide hebben back-upvermogen met een omschakeltijd onder 10 ms.'
