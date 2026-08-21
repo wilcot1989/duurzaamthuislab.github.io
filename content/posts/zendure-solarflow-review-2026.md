@@ -1,7 +1,7 @@
 ---
 title: 'Zendure SolarFlow review 2026: plug-in batterij op het balkon'
 date: 2026-08-24 08:00:00+02:00
-lastmod: 2026-08-24 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: 'Zendure SolarFlow review 2026: geverifieerde specs van de SolarFlow 800 en AB2000-accu, prijzen van zendure.nl, doorgerekende besparing en de vergelijking met een klassieke thuisbatterij.'
 draft: false
 categories:
@@ -59,7 +59,7 @@ Deze review is gebaseerd op de specificaties en prijzen van zendure.nl (opgehaal
 
 ---
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+*Achtergrond bij de saldering-stop van 2027: [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
 > **Kort antwoord:** de Zendure SolarFlow 800 met één AB2000-accu is een serieuze instap in energieopslag voor rond €750, met 1920 Wh en 800 W ontlaadvermogen.
 >

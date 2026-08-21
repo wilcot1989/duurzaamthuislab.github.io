@@ -1,7 +1,7 @@
 ---
 title: 'AlphaESS thuisbatterij review 2026: SMILE-G3 specs, garantie en NL-praktijk'
 date: '2026-10-09 08:00:00+02:00'
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
 description: 'AlphaESS review 2026: alle geverifieerde specs van de SMILE-G3-serie (LFP-modules van 3,8, 8,2 en 10,1 kWh, 3,68-5 kW enkelfasig, 4-20 kW driefasig), de garantietermijnen en waarom Frank Energie dit merk aanstuurt.'
 categories:
@@ -27,7 +27,7 @@ faq:
 - q: Welke AlphaESS-modellen zijn relevant voor Nederland?
   a: 'Voor een enkelfasige woning is dat de SMILE-G3-serie: de S3.6 en S5 als hybride omvormer met batterij, en de B5 als AC-gekoppelde variant die je naast een bestaande omvormer zet. Voor een driefasige aansluiting zijn er de SMILE-G3-T4~10 (4 tot 10 kW) en T12~20 (12 tot 20 kW). De all-in-one SMILE-M5 vermeldt AlphaESS als alleen leverbaar in Spanje, Frankrijk en Australië.'
 - q: Hoeveel kWh kan een AlphaESS SMILE-G3 kwijt?
-  a: 'AlphaESS geeft drie batterijmodules op: 3,8 kWh (1 tot 4 in serie, alleen Europa), 8,2 kWh en 10,1 kWh (elk 1 tot 6 parallel). Daarmee loopt het capaciteitsbereik volgens de fabrikant van 3,8 tot 15,4 kWh, van 8,2 tot 49,2 kWh of van 10,1 tot 60,5 kWh, afhankelijk van welke module je kiest. De ontlaaddiepte staat op 95 procent.'
+  a: 'AlphaESS geeft drie batterijmodules op: 3,8 kWh (1 tot 4 in serie, alleen Europa), 8,2 kWh en 10,1 kWh (elk 1 tot 6 parallel). De fabrikant noemt daarbij de bereiken 3,8 tot 15,4 kWh, 8,2 tot 49,2 kWh en 10,1 tot 60,5 kWh (productpagina AlphaESS, opgehaald 21 augustus 2026). Reken je de modules zelf door, dan kom je op 15,2 en 60,6 kWh — het kleine verschil zit in de afronding van de fabrikant. De ontlaaddiepte staat op 95 procent.'
 - q: Hoeveel noodstroom levert een AlphaESS-systeem?
   a: 'Volgens de datasheet heeft de SMILE-G3 een aparte backup-poort met een nominaal schijnbaar vermogen van 3.680 VA bij de S3.6 en 5.000 VA bij de S5 en B5, met UPS-functie. Dat is genoeg voor de basis van een huishouden — koelkast, verlichting, netwerk, cv-pomp — maar niet voor een warmtepomp of inductiekookplaat op vol vermogen.'
 - q: Wat is de garantie op een AlphaESS-batterij?
@@ -89,8 +89,10 @@ Alle waarden hieronder komen uit de datasheet van de SMILE-G3-S3.6/S5/B5 en de <
 | Module | Capaciteit | Bruikbaar | Uitbreiding | Bijzonderheid |
 |---|---|---|---|---|
 | SMILE-G3-BAT-3.8S | 3,8 kWh | 3,6 kWh | 1 – 4 in serie | alleen Europa |
-| SMILE-G3-BAT-8.2P | 8,2 kWh | 7,8 kWh | 1 – 6 parallel | 256 V nominaal |
-| SMILE-G3-BAT-10.1P | 10,1 kWh | 9,6 kWh | 1 – 6 parallel | 96 V nominaal |
+| SMILE-G3-BAT-8.2P | 8,2 kWh | 7,8 kWh | 1 – 6 parallel | 8,2 tot 49,2 kWh systeembereik |
+| SMILE-G3-BAT-10.1P | 10,1 kWh | 9,6 kWh | 1 – 6 parallel | 10,1 tot 60,5 kWh systeembereik |
+
+De nominale modulespanning noemt AlphaESS op de productpagina niet; die staat per modeljaar in de datasheet die je installateur meelevert. Wij nemen hier geen spanningswaarde op die wij niet bij de fabrikant konden terugvinden.
 
 Alle modules zijn LFP (LiFePO4) met 95 procent ontlaaddiepte, een bedrijfstemperatuur van -10 tot 50 °C en een opgegeven cyclusleven van 10.000 cycli. Bij die laatste waarde tekent AlphaESS zelf aan dat die onder specifieke testomstandigheden geldt — behandel het dus als een bovengrens, niet als een verwachting.
 
@@ -106,11 +108,11 @@ Verder claimt AlphaESS bij de driefasige T-serie een overlastcapaciteit van 150 
 
 ## Waarom dit merk juist bij een dynamisch contract past
 
-Frank Energie stuurt in zijn batterijplatform een vaste lijst merken direct aan, en AlphaESS staat daarop — net als Sigenergy, Sessy, Enphase en GivEnergy. Daarom vinden wij dit merk interessanter dan zijn Nederlandse naamsbekendheid suggereert: bij handelen op uurprijzen is niet de capaciteit bepalend, maar of de batterij aangestuurd kán worden door een partij die op de energiemarkten handelt. AlphaESS noemt VPP-geschiktheid zelf als eigenschap van de SMILE-G3.
+Frank Energie publiceert een overzicht van thuisbatterijmerken die het platform direct kan aansturen; AlphaESS staat daarop, net als Sigenergy, Sessy, Enphase, SolarEdge en GivEnergy (<a href="https://www.frankenergie.nl/thuisbatterij" rel="noopener nofollow" target="_blank">frankenergie.nl/thuisbatterij</a>, opgehaald op 21 augustus 2026). Daarom vinden wij dit merk interessanter dan zijn Nederlandse naamsbekendheid suggereert: bij handelen op uurprijzen is niet de capaciteit bepalend, maar of de batterij aangestuurd kán worden door een partij die op de energiemarkten handelt. AlphaESS noemt VPP-geschiktheid zelf als eigenschap van de SMILE-G3.
 
 Wat je daaraan overhoudt hangt af van je contract, je verbruikspatroon en je laadvermogen. De verschillen tussen aanbieders staan in onze [vergelijking van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/); of de investering in jouw situatie rond komt, reken je door met de [terugverdientijd-vergelijker voor thuisbatterijen](/thuisbatterij-terugverdientijd-vergelijken/). De uurtarieven waarop dat rekenwerk rust staan op onze pagina met [dynamische stroomprijzen](/stroomprijzen/), en de bredere afweging in [dynamische energiecontracten en thuisbatterijen](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
-Let bij dat rekenwerk op de maximale laad- en ontlaadstroom van 60 A. Bij 230 V komt dat op ongeveer 13,8 kW aan de batterijzijde, maar de omvormer begrenst je alsnog op 3,68 of 5 kW aan de netzijde. Die 5 kW is je werkelijke plafond per uur — bepalend voor hoeveel je in één goedkoop uur kunt wegzetten.
+Let bij dat rekenwerk niet op de maximale laad- en ontlaadstroom van 60 A. Dat is een DC-stroom aan de batterijzijde, en hoeveel kilowatt daar bij hoort hangt af van de nominale spanning van jouw modulestapel — niet van de 230 V aan de netkant. Wat je werkelijke plafond bepaalt, is de omvormer: 3,68 kW bij de S3.6 en 5 kW bij de S5 en B5. Die 5 kW is het maximum dat je in één goedkoop uur kunt wegzetten, ongeacht wat de batterij zelf zou kunnen.
 
 ## AlphaESS tegenover Sessy en Marstek
 

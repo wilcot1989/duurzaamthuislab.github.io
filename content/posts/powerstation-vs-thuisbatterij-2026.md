@@ -1,7 +1,7 @@
 ---
-title: 'Powerstation vs Thuisbatterij: Wat is het Verschil en Wat'
+title: 'Powerstation of thuisbatterij: het verschil en wat bij jou past'
 date: 2026-03-14 12:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 description: Powerstation of thuisbatterij? Ontdek de verschillen in capaciteit, kosten, installatie en gebruik. Met helder keuzekader voor jouw situatie.
 categories:
 - powerstations
@@ -26,7 +26,7 @@ faq:
 - q: Wat is het verschil tussen een powerstation en een thuisbatterij?
   a: Een powerstation is draagbaar, heeft ingebouwde stopcontacten en werkt direct uit de doos. Een thuisbatterij wordt vast geïnstalleerd, is gekoppeld aan je zonnepanelen en het elektriciteitsnet, en vereist een professionele installatie.
 - q: Is een powerstation goedkoper dan een thuisbatterij?
-  a: Per kWh capaciteit is een powerstation duurder (€600-900/kWh) dan een thuisbatterij (€450-700/kWh inclusief installatie). Maar de totale aanschafprijs van een powerstation is lager omdat je minder capaciteit koopt.
+  a: 'Per kWh capaciteit lopen ze minder uiteen dan je zou denken: draagbare stations zitten op de webshopprijzen van augustus 2026 tussen ruwweg €450 en €800 per kWh (kleine modellen zijn per kWh het duurst), een thuisbatterij op €450 tot €700 per kWh inclusief installatie. Het echte verschil is de instap: een powerstation koop je vanaf een paar honderd euro, een thuisbatterij niet onder de paar duizend.'
 - q: Kan een powerstation mijn huis van stroom voorzien bij een stroomstoring?
   a: Ja, maar beperkt. Een powerstation van 2000Wh kan je basisbehoeften (verlichting, wifi, telefoon, koelkast) 8-12 uur van stroom voorzien. Een thuisbatterij van 10kWh kan een volledig huishouden een dag lang draaien.
 - q: Heb ik zonnepanelen nodig voor een thuisbatterij?
@@ -40,27 +40,21 @@ faq:
 products:
 - name: EcoFlow Delta 2 Max
   url: https://go.duurzaamthuislab.nl/ecoflow
-  price: '1899'
-- name: Huawei Luna 2000
-  url: https://solar.huawei.com/eu/residential/luna
-  price: '6000'
-- name: Tesla Powerwall 3
-  url: https://www.tesla.com/nl_nl/powerwall
-  price: '9500'
+  price: '949'
 schema_type: Article
 ---
 Een thuisbatterij en een powerstation worden vaak in één adem genoemd, maar het zijn twee totaal verschillende producten: het ene is vast geïnstalleerde opslag achter je omvormer, het andere een draagbaar apparaat met eigen stopcontacten. Toch is "welke van de twee moet ik hebben?" een van de meestgestelde vragen. Hieronder het verschil op basis van specificaties, installatievoorwaarden en publieke marktprijzen.
 
-*Disclosure: de links naar Sessy, Huawei en Tesla in dit artikel zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie. De links naar EcoFlow en Bluetti zijn affiliate-links via het AWIN-netwerk: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: wij noemen in dit artikel ook Sessy, Huawei en Tesla. Met die partijen hebben wij geen affiliate- of commissierelatie, en er staan dan ook geen links naar hun webshops in dit artikel. De links naar EcoFlow en Bluetti zijn affiliate-links via het AWIN-netwerk: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Onze beoordeling rust op openbare fabrikantdocumentatie (specificaties en handleidingen) en publieke bronnen; wij testen zelf niet en nemen geen gemeten waarden van derden over.*
 
 ---
 
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+*Achtergrond bij de saldering-stop van 2027: [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
-> **Kort antwoord:** Powerstation of thuisbatterij? Ontdek de verschillen in capaciteit, kosten, installatie en gebruik. Met helder keuzekader voor jouw situatie.
+> **Kort antwoord:** het zijn geen concurrenten. Een powerstation is een draagbaar apparaat met eigen stopcontacten dat direct uit de doos werkt — bedoeld voor noodstroom, camping en klussen. Een thuisbatterij is vast geïnstalleerde, netgekoppelde opslag die automatisch je zonnestroom en je uurprijzen benut, en die een installateur moet plaatsen.
 >
-> Een powerstation is draagbaar, heeft ingebouwde stopcontacten en werkt direct uit de doos. Een thuisbatterij wordt vast geïnstalleerd, is gekoppeld aan je zonnepanelen en het elektriciteitsnet, en vereist een professionele installatie.
+> Wil je je energierekening structureel verlagen, dan is alleen de thuisbatterij een kandidaat; een powerstation bespaart per definitie niets op je afrekening. Wil je bij een storing gegarandeerd stroom hebben, dan is het powerstation juist het eenvoudige antwoord: een thuisbatterij schakelt bij netuitval standaard uit zonder backup-box.
 
 ## Wat is een powerstation?
 
@@ -72,7 +66,7 @@ Een **draagbaar powerstation** is een grote, oplaadbare batterij met ingebouwde 
 - **Oplaadbaar** via stopcontact, zonnepanelen of autolader
 - **Typische capaciteit** -- 500 Wh tot 3.000 Wh (0,5-3 kWh)
 
-Populaire voorbeelden zijn de [EcoFlow Delta 2 Max](/posts/beste-draagbare-powerstation-2026/), [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) en Jackery Explorer 2000 Plus.
+Populaire voorbeelden zijn de [EcoFlow Delta 2 Max](/posts/beste-draagbare-powerstation-2026/), [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) en de [Jackery Explorer 2000 v2](/posts/jackery-explorer-2000-v2-vs-plus-2026/).
 
 ---
 
@@ -103,11 +97,11 @@ Populaire voorbeelden zijn de [Huawei Luna 2000](/posts/huawei-luna-2000-review-
 | **Koppeling zonnepanelen** | Draagbare panelen | Dakpanelen via omvormer |
 | **Netgekoppeld** | Nee | Ja |
 | **Slimme aansturing** | Beperkt (app) | Uitgebreid (dynamische tarieven, TOU) |
-| **Prijs per kWh** | €600-900 | €450-700 (incl. installatie) |
-| **Totale investering** | €500-2.500 | €4.000-12.000 |
+| **Prijs per kWh** | €450-800 (kleine modellen het duurst) | €450-700 (incl. installatie) |
+| **Totale investering** | €200-2.500 | €4.000-12.000 |
 | **Terugverdientijd** | N.v.t. (geen netbesparing) | 8-15 jaar |
-| **Levensduur** | 3.000-3.500 cycli | 5.000-6.000 cycli |
-| **Garantie** | 2-5 jaar | 10 jaar |
+| **Levensduur** | 3.000-4.000 cycli (fabrieksopgave) | 5.000-6.000 cycli (fabrieksopgave) |
+| **Garantie** | 2-5 jaar, merkafhankelijk (Jackery: 3 jaar plus 2 jaar bij registratie) | meestal 10 jaar |
 | **Noodstroom** | Direct beschikbaar | Alleen met backup-box (meerprijs) |
 
 ---
@@ -116,9 +110,9 @@ Populaire voorbeelden zijn de [Huawei Luna 2000](/posts/huawei-luna-2000-review-
 
 ### 1. Capaciteit en vermogen
 
-Een thuisbatterij wint ruimschoots op **capaciteit**. De populaire Huawei Luna 2000 biedt 5 tot 15 kWh, terwijl het grootste gangbare powerstation (Jackery Explorer 2000 Plus) start op 2 kWh. Wel kun je powerstations uitbreiden: de Bluetti AC200MAX reikt met extra B300-batterijen tot 8,2 kWh.
+Een thuisbatterij wint ruimschoots op **capaciteit**. De Huawei Luna 2000 loopt van 5 tot 15 kWh, terwijl een groot draagbaar station (zoals de Jackery Explorer 2000 v2) op circa 2 kWh zit. Wel kun je powerstations uitbreiden: de Bluetti AC200MAX reikt met extra B300-batterijen tot 8,2 kWh.
 
-Qua **vermogen** is het beeld genuanceerder. Een powerstation als de Jackery Explorer 2000 Plus levert 3000W continu, terwijl een Huawei Luna 2000 (5kWh) op 2500W zit. Bij thuisbatterijen met grotere configuraties loopt het vermogen op tot 5000W of meer.
+Qua **vermogen** is het beeld genuanceerder. Een groot powerstation levert 2.200 tot 3.000 W continu (de Jackery Explorer 2000 v2 zit op 2.200 W), terwijl een Huawei Luna 2000 (5 kWh) op 2500 W zit. Bij thuisbatterijen met grotere configuraties loopt het vermogen op tot 5000W of meer.
 
 **Conclusie**: voor dagelijks thuisgebruik met zonnepanelen wint de thuisbatterij. Voor specifiek, gericht gebruik (camping, noodstroom, tuin) volstaat een powerstation.
 
@@ -128,12 +122,12 @@ De **totale investering** verschilt enorm:
 
 | | Powerstation (middenklasse) | Thuisbatterij (middenklasse) |
 |---|---|---|
-| Product | €1.700 (2 kWh) | €5.800 (10 kWh) |
-| Installatie | €0 | €1.200 |
-| Optioneel zonnepaneel | €700 (draagbaar 350W) | €0 (bestaande dakpanelen) |
-| **Totaal** | **€2.400** | **€7.000** |
+| Product | €949 (EcoFlow Delta 2 Max, 2 kWh, nl.ecoflow.com 21 aug 2026) | €5.800 (10 kWh, rekenaanname) |
+| Installatie | €0 | €1.200 (rekenaanname) |
+| Optioneel zonnepaneel | €700 (draagbaar, rekenaanname) | €0 (bestaande dakpanelen) |
+| **Totaal** | **€1.650** | **€7.000** |
 
-Per kWh is een powerstation **duurder**: circa €850/kWh voor de Bluetti AC200MAX versus circa €700/kWh voor de Huawei Luna 2000 (inclusief installatie). Maar de absolute investering is veel lager, waardoor een powerstation financieel **laagdrempeliger** is.
+Per kWh is een powerstation in dit voorbeeld **duurder**: circa €465/kWh voor het station zelf tegenover €700/kWh voor een compleet geïnstalleerde 10 kWh-batterij lijkt gunstig, maar dan vergelijk je een apparaat zonder netkoppeling met een systeem inclusief montage. De absolute investering is veel lager, en dat is de werkelijke reden dat een powerstation **laagdrempeliger** is.
 
 ### 3. Installatie en gebruiksgemak
 
@@ -189,9 +183,9 @@ Thuisbatterijen gaan langer mee:
 
 | | Powerstation | Thuisbatterij |
 |---|---|---|
-| Cycli tot 80% capaciteit | 3.000-3.500 | 5.000-6.000 |
-| Geschatte levensduur | 8-10 jaar | 15-20 jaar |
-| Garantie | 2-5 jaar | 10 jaar |
+| Cycli (fabrieksopgave) | 3.000-4.000 | 5.000-6.000 |
+| Geschatte levensduur bij niet-dagelijks gebruik | 8-10 jaar | 15-20 jaar |
+| Garantie | 2-5 jaar, merkafhankelijk | meestal 10 jaar |
 | Batterijtype | LiFePO4 | LiFePO4 |
 
 ---
@@ -224,9 +218,7 @@ Thuisbatterijen gaan langer mee:
 - **Automatische energieoptimalisatie** wilt zonder handmatig ingrijpen
 - **Op lange termijn** in je woning wilt investeren
 
-**Onze inschatting**: de [Huawei Luna 2000](/posts/huawei-luna-2000-review-2026/) biedt in Nederland de beste prijs-kwaliteitverhouding, gemeten naar prijs per kWh, garantietermijn en beschikbaarheid van installateurs.
-
-**[Bekijk de Huawei Luna 2000 >>>](https://solar.huawei.com/nl/residential/luna2000)**
+**Onze inschatting**: er is in dit segment geen merk dat wij als "de beste koop" kunnen aanwijzen, want de bepalende factoren — totaalprijs inclusief installatie, garantietermijn en welke installateur bij jou in de buurt service levert — verschillen per woning en per aanbieding. Wat je wél kunt doen: vraag minimaal twee installateurs een totaalprijs, vergelijk die op prijs per bruikbare kWh, en check of het merk door je energieleverancier aangestuurd kan worden als je op uurprijzen wilt handelen. Onze uitwerking per merk staat in de [Huawei Luna 2000 review](/posts/huawei-luna-2000-review-2026/) en de [thuisbatterij vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/); hoe je een installateur selecteert, staat in [installateur kiezen](/installateur-kiezen/).
 
 ### Kies beide als je:
 
@@ -287,18 +279,26 @@ Meer capaciteit is niet altijd nodig. Een gemiddeld huishouden heeft aan 5-10 kW
 
 ## Kostenoverzicht 2026
 
-| Optie | Capaciteit | Totale kosten (ca.) | Per kWh (ca.) |
+**Powerstations — geverifieerde webshopprijzen**
+
+| Optie | Capaciteit | Totale kosten | Per kWh |
 |---|---|---|---|
 | EcoFlow River 2 Pro | 0,8 kWh | €549 | €715 |
 | EcoFlow Delta 2 Max | 2 kWh | €949 | €464 |
 
 *Prijzen nl.ecoflow.com, peildatum 21 augustus 2026. Bluetti en Anker publiceerden op de peildatum geen controleerbare NL-prijzen; die staan daarom niet in deze tabel — check de actuele prijs via de productlinks.*
-| Huawei Luna 2000 5kWh | 5 kWh | €4.200* | €840 |
-| Huawei Luna 2000 10kWh | 10 kWh | €7.000* | €700 |
-| Huawei Luna 2000 15kWh | 15 kWh | €10.000* | €667 |
-| Tesla Powerwall 2 | 13,5 kWh | €9.500* | €704 |
 
-*Inclusief installatie*
+**Thuisbatterijen — rekenaannames, geen gepubliceerde prijzen**
+
+Huawei en Tesla publiceren voor Nederland geen consumentenprijs: die systemen lopen via installateurs, en de totaalprijs hangt af van montage, meterkastwerk en de configuratie. Wij verzinnen die prijzen niet. De bedragen hieronder zijn de rekenaannames die wij in de modellen in dit artikel gebruiken, gebaseerd op de orde van grootte die installateurs voor een compleet systeem noemen. Vraag altijd twee eigen totaalprijzen op en reken het model met die cijfers opnieuw door.
+
+| Optie | Capaciteit | Rekenaanname totaal (incl. installatie) | Per kWh |
+|---|---|---|---|
+| Thuisbatterij klein (bijv. Huawei Luna 2000, 5 kWh) | 5 kWh | €4.200 | €840 |
+| Thuisbatterij midden (10 kWh) | 10 kWh | €7.000 | €700 |
+| Thuisbatterij groot (15 kWh) | 15 kWh | €10.000 | €667 |
+
+De Tesla Powerwall 2 lieten wij hier weg: dat model wordt niet meer verkocht. Tesla levert inmiddels de Powerwall 3, en ook daarvoor geldt dat de prijs via de installateur loopt.
 
 Zoals de tabel laat zien, wordt de **prijs per kWh lager** naarmate je meer capaciteit kiest. Thuisbatterijen zijn per kWh voordeliger dan powerstations, maar de minimale investering is veel hoger.
 
@@ -320,7 +320,7 @@ Een veelvoorkomende combinatie is een vaste thuisbatterij van circa 10 kWh gekop
 - Elektrische apparatuur in de tuin en het tuinhuis
 - Overbrugging als de thuisbatterij uit staat voor onderhoud
 
-De overlap is minimaal, en dat is precies waarom de combinatie voorkomt. Reken wel met de som van beide investeringen: circa €7.000 voor een 10 kWh thuisbatterij plus €1.500-€1.800 voor een stevig powerstation.
+De overlap is minimaal, en dat is precies waarom de combinatie voorkomt. Reken wel met de som van beide investeringen: circa €7.000 als rekenaanname voor een 10 kWh thuisbatterij plus ongeveer €950 tot €1.800 voor een stevig powerstation, afhankelijk van capaciteit en merk.
 
 ---
 
@@ -336,7 +336,7 @@ Dit is een van de meestgestelde vragen over thuisbatterijen: werkt zo'n batterij
 
 ### Scenario B: Thuisbatterij met backup-box
 
-**Wat er gebeurt:** Bij netuitval schakelt de backup-box in <20 milliseconden over naar eilandmodus. Je slimme meter registreert de storing, maar jouw huis werkt gewoon door op batterij + eventuele zonnepanelen.
+**Wat er gebeurt:** Bij netuitval schakelt de backup-box over naar eilandmodus. Fabrikanten geven daarvoor omschakeltijden op in de orde van tientallen milliseconden (rond 20 ms is een gangbare opgave); de exacte tijd staat in de datasheet van het merk dat je installateur aanbiedt. Je slimme meter registreert de storing, maar jouw huis werkt gewoon door op batterij + eventuele zonnepanelen.
 
 **Beperking:** Je kunt alleen verbruiken wat de batterij + zonnepanelen op dat moment leveren. Maximaal vermogen: wat de omvormer aankan (2.500-5.000W bij de meeste thuisbatterijen).
 
@@ -352,7 +352,7 @@ Dit is een van de meestgestelde vragen over thuisbatterijen: werkt zo'n batterij
 | Hele huis | ❌ | ✅ (binnen vermogenslimiet) | ❌ (alleen aangesloten apparaten) |
 | Meerkosten | €0 | €500-€1.500 | €0 (al meegeleverd) |
 | Installatie vereist | Ja | Ja | Nee |
-| Reactietijd | N.v.t. | <20 ms | Handmatig (1-5 min) |
+| Reactietijd | N.v.t. | tientallen ms (fabrieksopgave, verschilt per merk) | Handmatig (1-5 min) |
 
 ---
 
@@ -361,20 +361,20 @@ Dit is een van de meestgestelde vragen over thuisbatterijen: werkt zo'n batterij
 Laten we de werkelijke kosten doorrekenen — niet alleen de aanschafprijs, maar de totale kosten over de levensduur per kWh opgeslagen energie.
 
 **Powerstation: EcoFlow Delta 2 Max**
-- Aanschafprijs: €1.799
+- Aanschafprijs: €949 (nl.ecoflow.com, peildatum 21 augustus 2026)
 - Capaciteit: 2 kWh
-- Cycli tot 80%: 3.000
+- Cycli tot 80%: 3.000 (fabrieksopgave)
 - Bruikbare kWh over levensduur: 2 kWh × 0,85 (gemiddeld beschikbare capaciteit) × 3.000 = 5.100 kWh
-- Kosten per kWh over levensduur: €1.799 / 5.100 = **€0,35/kWh**
+- Kosten per kWh over levensduur: €949 / 5.100 = **€0,19/kWh**
 
-**Thuisbatterij: Huawei Luna 2000 (10 kWh)**
-- Aanschafprijs inclusief installatie: €7.000
+**Thuisbatterij van 10 kWh**
+- Aanschafprijs inclusief installatie: €7.000 (rekenaanname, zie de toelichting bij het kostenoverzicht)
 - Capaciteit: 10 kWh
-- Cycli tot 80%: 6.000
+- Cycli tot 80%: 6.000 (fabrieksopgave)
 - Bruikbare kWh over levensduur: 10 × 0,85 × 6.000 = 51.000 kWh
 - Kosten per kWh over levensduur: €7.000 / 51.000 = **€0,14/kWh**
 
-De thuisbatterij is per opgeslagen kWh dus 2,5× goedkoper dan een powerstation over de levensduur. Maar de absolute investering is 4× hoger, en de thuisbatterij heeft geen mobiele functie.
+De thuisbatterij is per opgeslagen kWh in dit model ruwweg een derde goedkoper dan een powerstation over de levensduur — minder spectaculair dan vaak wordt gesuggereerd, en het verschil hangt volledig aan de aangenomen installatieprijs. Waar het wél hard uiteenloopt: de instap is ruim zeven keer zo hoog, en de thuisbatterij verdient alleen iets terug omdat hij netgekoppeld is. Een powerstation levert geen besparing op je afrekening, ongeacht de kosten per kWh.
 
 ---
 
@@ -384,14 +384,15 @@ Met maximale uitbreidingsmodules naderen sommige powerstations het capaciteitsge
 
 | Systeem | Capaciteit | Kosten | Mobiel | Netgekoppeld | Kosten/kWh |
 |---|---|---|---|---|---|
-| Bluetti AC200MAX + 2× B300 | 8,2 kWh | €5.300 | ✅ | ❌ | €0,65/kWh (levensduur) |
-| Jackery 2000 Plus + 3× Battery Pack | 8,2 kWh | €6.400 | ✅ | ❌ | €0,58/kWh |
-| Sessy 5 kWh thuisbatterij | 5 kWh | €3.550 (excl. installatie) | ❌ | ✅ | €0,17/kWh |
-| Huawei Luna 2000 10 kWh | 10 kWh | €7.000 | ❌ | ✅ | €0,14/kWh |
+| Bluetti AC200MAX + 2× B300 | 8,2 kWh | €5.300 (richtprijs) | ✅ | ❌ | €0,65/kWh (levensduur) |
+| Sessy 5 kWh thuisbatterij | 5 kWh | €3.550 excl. installatie (sessy.nl, prijspeil augustus 2026) | ❌ | ✅ | €0,17/kWh |
+| Thuisbatterij 10 kWh | 10 kWh | €7.000 (rekenaanname) | ❌ | ✅ | €0,14/kWh |
+
+Jackery's uitbreidbare 2000 Plus staat hier niet in: dat model is in Nederland niet in het assortiment, zoals we uitwerken in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/). Uitbreiden met accumodules loopt hier dus via EcoFlow en Bluetti.
 
 De uitgebreide powerstations zijn 3-4× duurder per kWh over de levensduur dan een thuisbatterij, en missen de netgekoppelde automatisering. Maar ze zijn wél mobiel — dat is de prijs van mobiliteit.
 
-**Conclusie**: zodra je meer dan €3.500 uitgeeft aan een uitgebreid powerstation-systeem, ben je financieel beter af met een thuisbatterij als het thuis-gebruik je primaire doel is.
+**Conclusie**: zodra je aan een uitgebreid powerstation-systeem meer besteedt dan aan een kleine vaste thuisbatterij — de Sessy-rij hierboven is het ijkpunt — ben je financieel beter af met die thuisbatterij, mits thuisgebruik je primaire doel is. Blijft mobiliteit belangrijk, dan koop je met dat prijsverschil precies dat.
 
 ---
 
@@ -442,8 +443,5 @@ Meer weten? Bekijk onze gidsen:
 - [Bluetti AC200MAX review](/posts/bluetti-ac200max-review-2026/)
 - [Huawei Luna 2000 review](/posts/huawei-luna-2000-review-2026/)
 - [Beste zonnepaneel + powerstation combinatie 2026](/posts/beste-zonnepaneel-powerstation-combinatie-2026/)
-
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 

@@ -1,7 +1,7 @@
 ---
 title: 'EcoFlow Delta 2 review 2026: 1 kWh, 1800 W en €599'
 date: 2026-08-22 08:00:00+02:00
-lastmod: 2026-08-22 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: 'EcoFlow Delta 2 review 2026: alle geverifieerde specs (1024 Wh LFP, 1800 W, 2400 W X-Boost), doorgerekende autonomie en de vergelijking met de Delta 2 Max en River 2 Pro.'
 draft: false
 categories:
@@ -58,7 +58,7 @@ Deze review is opgebouwd uit de specificaties op de Nederlandse EcoFlow-productp
 
 ---
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+*Achtergrond bij de saldering-stop van 2027: [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
 > **Kort antwoord:** de Delta 2 is met 1024 Wh, 1800 W continu vermogen en 12 kg het meest evenwichtige EcoFlow-station voor camping, klussen en basale noodstroom.
 >
@@ -113,7 +113,7 @@ De bruikbare energie is lager dan de nominale capaciteit, omdat de omvormer verl
 | Compressorkoelbox | 45 W gemiddeld | circa 20 uur |
 | Koelkast | 80 W gemiddeld over compressorcycli | circa 11 uur |
 | CPAP zonder verwarmde slang | 30 W | circa 30 uur |
-| Waterkoker 1800 W | 1800 W | circa 30 minuten (ruim 10 liter koken) |
+| Waterkoker 1800 W | 1800 W | circa 30 minuten (ruwweg 8 liter water koken, gerekend met 0,11 kWh per liter vanaf leidingwatertemperatuur) |
 
 De belangrijkste aanname zit bij de koelkast en de koelbox. Op het typeplaatje staat het piekvermogen van de compressor, vaak 100 tot 150 W, maar die compressor draait maar een deel van de tijd. Het gemiddelde over een etmaal bepaalt je autonomie. Wie met 150 W rekent in plaats van met 80 W, komt op zes uur uit in plaats van elf — hetzelfde station, alleen een andere aanname.
 

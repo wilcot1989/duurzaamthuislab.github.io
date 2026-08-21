@@ -1,7 +1,7 @@
 ---
 title: 'Bluetti AC180 review 2026 — 1152Wh powerstation'
 date: 2026-10-10 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
 description: "Bluetti AC180 review: 1152Wh LiFePO4, 1800W output, laden in 1 uur. Wat de specificaties betekenen voor zzp-gebruik en thuisbackup."
 categories:
@@ -26,7 +26,7 @@ faq:
 - q: 'Is de Bluetti AC180 geschikt als UPS voor mijn desktop-pc?'
   a: 'Nee, niet zonder extra UPS ertussen. De switchover duurt 20 ms, wat genoeg is voor de meeste apparaten maar een desktop-pc kan dat niet aan. Voor laptops en NAS is het geen probleem.'
 - q: 'Kan ik de Bluetti AC180 opladen met zonnepanelen?'
-  a: 'Ja. De AC180 accepteert tot 500W via DC-ingang. Met een 200W paneel duurt volledig opladen circa 6 uur bij goed zonlicht. Combineer met een 400W paneel voor sneller resultaat.'
+  a: 'Ja. De AC180 accepteert tot 500W via de DC-ingang. Reken bij een 200W-paneel niet met 200W maar met 70 tot 90 procent van dat nominale vermogen op de betere momenten van de dag: volledig opladen vanuit leeg duurt dan ruwweg zes tot acht uur bij goed zonlicht. Met twee panelen halveert dat ongeveer, tot het plafond van 500W.'
 - q: 'Hoeveel laadcycli gaat de LiFePO4 batterij mee?'
   a: '3500 cycli tot 80% capaciteit. Bij dagelijks gebruik is dat bijna 10 jaar. LiFePO4 is stabiel en veiliger dan lithium-ion bij hoge temperaturen.'
 - q: 'Wat is het verschil tussen de Bluetti AC180 en de AC200Max?'
@@ -42,7 +42,7 @@ products:
   url: https://go.duurzaamthuislab.nl/ecoflow
   price: '849'
 schema_type: Article
-last_updated: '2026-10-10'
+last_updated: '2026-08-21'
 category: powerstations
 ---
 
@@ -114,7 +114,7 @@ Het gewicht van 17 kg is de belangrijkste praktische beperking bij mobiel gebrui
 
 De AC180 heeft geen aparte 'stille modus', maar je kunt via de Bluetooth-app het laadvermogen begrenzen. Dat is de knop waarmee je het geluid regelt: bij een lager laadvermogen draait de koelventilator langzamer.
 
-Op vol laadvermogen draait de ventilator hard. In gebruikersreviews wordt het geluid op korte afstand als duidelijk hoorbaar beschreven, vergelijkbaar met een staande ventilator op een middenstand. Naast een bureau tijdens het werken is dat te doen; snelladen in een slaapkamer is minder aangenaam. Op een begrensd laadvermogen is de unit aanzienlijk stiller.
+Op vol laadvermogen draait de ventilator hard — dat volgt uit de laadsnelheid: bijna 1200 W in een toestel van deze afmetingen moet actief gekoeld worden. Bluetti publiceert voor de AC180 geen geluidsniveau in decibel, en wij hebben het toestel niet zelf gemeten; wij noemen daarom ook geen dB-waarde. Wat je wél kunt sturen is de oorzaak: begrens het laadvermogen in de app en de ventilator draait langzamer. Wie snellaadt in een slaapkamer of vergaderruimte, doet dat dus beter op een begrensd vermogen.
 
 De laadsnelheid is het sterkste punt van dit model: volgens de fabrieksopgave 80% in 45 minuten en volledig in iets meer dan een uur. Dat is sneller dan de meeste concurrenten in deze prijsklasse, wat in de praktijk betekent dat een vergeten oplaadronde in een uur is ingehaald.
 
@@ -124,7 +124,7 @@ De laadsnelheid is het sterkste punt van dit model: volgens de fabrieksopgave 80
 
 De AC180 accepteert volgens de specificaties tot 500W via de DC-ingang, bij een ingangsspanning van 12-60V. Dat bepaalt welke panelen je kunt aansluiten en hoe snel het gaat.
 
-Reken bij een 200W-paneel niet met 200W: onder Nederlandse omstandigheden haalt een paneel over de dag gemiddeld ruwweg 80-90% van zijn nominale vermogen op de betere momenten, en fors minder bij bewolking. Met één 200W-paneel is volledig opladen vanuit leeg daarom een dagtaak van ongeveer zes uur bij goed zonlicht.
+Reken bij een 200W-paneel niet met 200W. Fabrikanten geven het nominale vermogen op (gemeten onder standaardtestcondities); reken in de praktijk op 70 tot 90 procent daarvan op de betere momenten van de dag, afhankelijk van instraling, opstelhoek en paneeltemperatuur — en op fors minder bij bewolking. Met één 200W-paneel is volledig opladen vanuit leeg daarom een dagtaak van ruwweg zes tot acht uur bij goed zonlicht.
 
 Met twee 200W-panelen (mits spanning en stroom binnen het ingangsbereik blijven) halveert die tijd ongeveer. De grens van 500W is het plafond: grotere paneelsets kun je niet volledig benutten. Zie ook het overzicht van [zonnepaneel-powerstation combinaties](/posts/beste-zonnepaneel-powerstation-combinatie-2026/).
 
@@ -143,10 +143,12 @@ Drie modellen die in dit segment het vaakst tegen elkaar worden afgezet. Alle wa
 | Laadcycli | 3500 | 2000 | 3000 |
 | App | Bluetooth | Bluetooth + wifi | Wifi |
 | Stopcontacten | Europese Schuko | Europese Schuko | Europese Schuko |
-| Garantie | 5 jaar | 3 jaar | 5 jaar |
-| Prijs (indicatief) | ~€999 | ~€899 | ~€849 |
+| Garantie | 5 jaar | 3 jaar, plus 2 jaar bij registratie | 5 jaar |
+| Prijs (eerder genoteerd) | ~€999 | ~€899 | ~€849 |
 
-**Jackery Explorer 1000 v2:** lichter (11,5 kg) en goedkoper, maar minder capaciteit, lagere AC-uitgang en volgens het datasheet aanzienlijk minder laadcycli. De wifi-app is een voordeel als je op afstand wilt monitoren. Zie ook de [EcoFlow vs Jackery vergelijking 2026](/posts/ecoflow-vs-jackery-2026/).
+*Over de prijzen: deze bedragen zijn eerder genoteerd op de Europese webshops van de drie merken. Wij konden ze op 21 augustus 2026 niet opnieuw verifiëren (de Bluetti-webshop blokkeerde onze controle), dus behandel ze als richtprijs en check de actuele prijs via de productlinks. Bij powerstations wisselen actieprijzen snel.*
+
+**Jackery Explorer 1000 v2:** lichter (11,5 kg) en goedkoper, maar minder capaciteit, lagere AC-uitgang en volgens het datasheet minder laadcycli. Jackery geeft 3 jaar garantie plus 2 jaar bij registratie, zoals we in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/) uitwerken. De wifi-app is een voordeel als je op afstand wilt monitoren. Zie ook de [EcoFlow vs Jackery vergelijking 2026](/posts/ecoflow-vs-jackery-2026/).
 
 **EcoFlow River 3 Max:** vergelijkbare laadsnelheid, iets minder capaciteit, wifi-app in plaats van alleen Bluetooth. EcoFlow specificeert daarnaast een UPS-modus met een kortere switchover, wat uitmaakt voor gevoelige apparatuur. Een grotere variant is de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/).
 
@@ -158,10 +160,10 @@ Drie modellen die in dit segment het vaakst tegen elkaar worden afgezet. Alle wa
 
 ## Nadelen
 
-Vijf beperkingen die uit de specificaties volgen of consequent in gebruikersreviews terugkomen.
+Vijf beperkingen die rechtstreeks uit de specificaties en de handleiding volgen.
 
-**1. Ventilatorgeluid onder belasting**
-Op vol laadvermogen is de koelventilator in een stille ruimte duidelijk hoorbaar. Dat is geen showstopper, maar reken op achtergrondgeluid als je ernaast werkt tijdens snelladen. Bij lichte belasting blijft het stil; boven een paar honderd watt uitgangsvermogen slaat de ventilator ook aan.
+**1. Actieve koeling bij hoog laad- of ontlaadvermogen**
+De AC180 laadt met bijna 1200 W en levert tot 1800 W; dat vraagt actieve koeling, dus draait er een ventilator zodra je het toestel hard gebruikt. Bluetti geeft geen geluidsniveau op en wij hebben niet gemeten, maar de knop zit in de app: begrens het laadvermogen en de ventilator draait langzamer. Bij lichte belasting blijft het toestel passief.
 
 **2. Geen echte UPS-modus**
 De switchover bij stroomuitval duurt 20 milliseconden. Dat is prima voor koelkasten, CV-pompen, NAS-systemen en laptops — die overleven dat zonder probleem. Een desktop-pc of bepaalde medische apparatuur kan dat niet verdragen. De [Bluetti AC200Max](/posts/bluetti-ac200max-review-2026/) heeft wel een echte UPS-modus met veel kortere switchover. Als UPS essentieel is, betaal je dus extra.
@@ -169,8 +171,8 @@ De switchover bij stroomuitval duurt 20 milliseconden. Dat is prima voor koelkas
 **3. App alleen via Bluetooth**
 Bluetooth werkt binnen dezelfde ruimte, maar niet vanaf een andere plek in het huis. Wil je de unit in een schuur of garage zetten en vanuit de woonkamer monitoren, dan kan dat niet. EcoFlow en Jackery bieden wifi. Voor mobiel gebruik maakt het niets uit; voor een vaste opstelling is het een reële beperking.
 
-**4. Display bij fel licht**
-Het display is functioneel maar niet bijzonder helder. Op een zonnige buitenlocatie is het volgens gebruikersreviews soms lastig af te lezen. Klein punt, maar merkbaar als je snel de laadstatus wilt zien.
+**4. Geen opgave over de leesbaarheid van het display**
+Bluetti specificeert wel wát het lcd-display toont (in- en uitgaand vermogen, laadstatus, resterende tijd) maar geen helderheid. Of het buiten in vol zonlicht goed leesbaar is, kunnen wij niet vaststellen — wij hebben het toestel niet in handen gehad. Wie het toestel vooral buiten gebruikt, kan de status ook via de app uitlezen.
 
 **5. Geen wielen of trolley**
 17 kilogram is niet licht. Zonder wielen betekent dat sjouwen. Als je de AC180 regelmatig verplaatst — van auto naar locatie, van garage naar woonkamer — merk je dat. Een draaggreep is aanwezig, maar één handgreep voor 17 kg is niet ideaal voor langere afstanden.
@@ -206,7 +208,7 @@ Wil je een groter systeem voor thuisopslag vergelijken? Kijk dan naar het rekenm
 <a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk de actuele prijs van de Bluetti AC180</a>
 
 ---
-*Disclosure: wij hebben affiliate-partnerships met Bluetti, Jackery en EcoFlow via AWIN. Deze review is gebaseerd op specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: wij hebben affiliate-partnerships met Bluetti, Jackery en EcoFlow via AWIN. Koop je via een van deze links, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Deze review is gebaseerd op openbare fabrikantdocumentatie (specificaties en handleidingen) en publieke bronnen; wij hebben dit toestel niet zelf getest en nemen geen gemeten waarden van derden over.*
 
 ---
 

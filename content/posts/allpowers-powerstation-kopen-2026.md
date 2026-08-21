@@ -1,7 +1,7 @@
 ---
 title: 'ALLPOWERS powerstations: het assortiment doorgelicht'
 date: 2026-09-21 08:00:00+02:00
-lastmod: 2026-09-21 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: 'ALLPOWERS powerstations van 99 Wh tot 3.456 Wh, met de geverifieerde prijzen van de Nederlandse webshop (prijspeil augustus 2026), de prijs per Wh per model en een eerlijke vergelijking met EcoFlow en Jackery op specificaties.'
 draft: false
 categories:
@@ -52,6 +52,10 @@ Dit artikel doet één ding: het legt het volledige Nederlandse assortiment naas
 
 *Dit artikel bevat affiliate links. ALLPOWERS is sinds augustus 2026 partner van DuurzaamThuisLab via het affiliatenetwerk AWIN; ook EcoFlow en Jackery zijn affiliatepartners. Koop je via zo'n link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dat heeft geen invloed op de cijfers in dit artikel — de prijzen en specificaties komen van de webshops zelf en zijn na te lopen.*
 
+> **Kort antwoord:** ALLPOWERS is in Nederland het goedkoopste van de bekendere powerstation-merken: op de webshopprijzen van augustus 2026 komt het assortiment uit op €0,44 tot €0,80 per Wh, met de klasse van 1.000 tot 2.000 Wh als gunstigste deel.
+>
+> De R2500-V2 (1.920 Wh, 2500 W, €849) is met €0,44 per Wh het scherpste punt in de reeks, de R1500 LITE (1.056 Wh, €474) het gunstigste instappunt. Wat je inlevert tegenover EcoFlow, Jackery en Bluetti staat niet in de specificaties: minder onafhankelijke tests, een kleiner servicenetwerk en een korter trackrecord.
+
 ## Het assortiment, met de prijs per Wh erbij
 
 De prijs per Wh in de laatste kolom is onze eigen **modelberekening**: webshopprijs gedeeld door de opgegeven nominale capaciteit, afgerond op één cent. Het is een vergelijkingsmaat, geen prijs die iemand rekent.
@@ -72,6 +76,8 @@ De prijs per Wh in de laatste kolom is onze eigen **modelberekening**: webshoppr
 | R4000 | 3.456 Wh | 4000 W | €1.797 | €0,52 |
 | R3500 | 3.168 Wh | 3500 W | €2.299 | €0,73 |
 | B1000 uitbreidingsaccu | 1.152 Wh | n.v.t. | €499 | €0,43 |
+
+Eén naam in die tabel valt uit de toon: de kleinste unit staat op iallpowers.nl als "SOLAX P100 DC draagbare powerstation, 128W 99Wh" (gecontroleerd op 21 augustus 2026). Dat is dus geen tikfout van ons maar de modelaanduiding van de webshop zelf; het is bovendien een DC-only station, zonder 230V-stopcontact.
 
 Er zit een duidelijke logica in die kolom. Onder de duizend wattuur betaal je overal €0,62 tot €0,80 per Wh — dat is de prijs van de elektronica, het display en de behuizing die je bij elk formaat nodig hebt. Tussen 1.000 en 2.000 Wh zakt het naar €0,44 tot €0,54, en dat is het gunstigste deel van het assortiment. Daarboven loopt het weer op, met de R3500 als duurste model per Wh.
 
