@@ -1,18 +1,18 @@
 ---
-title: 'Beste warmtepompboiler 2026: vergelijking van 6 modellen'
+title: 'Beste warmtepompboiler 2026: zo kies je het juiste toestel'
 date: 2026-07-27 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
-description: Op zoek naar de beste warmtepompboiler van 2026? Een vergelijking van 6 modellen op COP, inhoud, prijs en ISDE-subsidie.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Zes warmtepompboilers die in Nederland leverbaar zijn, en de vier gegevens waarop je ze écht vergelijkt — inclusief de route naar het ISDE-bedrag per typenummer.'
 categories:
 - warmtepompboilers
 tags:
 - warmtepompboiler
-- ATAG E-HP
-- Daikin EKHWP
+- ATAG
+- Daikin
 - Itho Daalderop
-- Inventum Ecolution
-- Bosch Compress
-- ARISTON Lydos
+- Inventum
+- Bosch
+- Ariston
 - ISDE subsidie
 - zonnepanelen
 - warmwater
@@ -30,416 +30,240 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
 - q: Wat is het verschil tussen een warmtepompboiler en een gewone warmtepomp?
-  a: 'Een warmtepompboiler maakt alleen warm water voor de douche en kraan — hij verwarmt je huis niet. Een ''gewone'' warmtepomp (lucht-water) doet dat wél: die verwarmt zowel tapwater als de woning via radiatoren of vloerverwarming. Een warmtepompboiler is een stuk goedkoper (€1.500–€3.500 versus €8.000–€15.000) en is geschikt als je je cv-ketel wilt houden maar minder gas wil verbruiken voor warm tapwater.'
+  a: 'Een warmtepompboiler maakt alleen warm tapwater voor douche en kraan; hij verwarmt je huis niet. Een lucht-water warmtepomp doet beide: ruimteverwarming én tapwater. Een warmtepompboiler is daardoor een veel kleinere investering en is bedoeld voor wie de cv-ketel voorlopig houdt maar minder gas wil verbruiken voor warm water.'
 - q: Hoeveel bespaar ik met een warmtepompboiler per jaar?
-  a: Een gemiddeld huishouden verbruikt circa 1.800 kWh elektriciteit per jaar voor warm tapwater via een elektrische boiler. Een warmtepompboiler met COP 3,0 doet hetzelfde met 600 kWh. Bij €0,23/kWh is dat €276 besparing per jaar. Ten opzichte van een gasgeiser met 1.500 kWh aardgasequivalent (circa €160 aan gas) is de besparing kleiner, maar dan lever je ook de CO2-uitstoot in.
+  a: 'Dat hangt af van wat je nu hebt. Vervang je een elektrische weerstandsboiler, dan is de besparing groot: bij een tapwatervraag van 1.800 kWh warmte per jaar gebruikt een weerstandsboiler ook 1.800 kWh stroom, terwijl een warmtepompboiler met een rendement van 3,0 daar ongeveer 600 kWh voor nodig heeft. Bij €0,26/kWh all-in (gelabelde aanname) is dat circa €310 per jaar. Vervang je een gasgeiser, dan is de besparing veel kleiner en de terugverdientijd dus langer.'
 - q: Kan ik ISDE-subsidie krijgen voor een warmtepompboiler?
-  a: Ja. Warmtepompboilers staan op de ISDE-lijst van RVO. De subsidie in 2026 loopt van €725 tot €1.500, afhankelijk van het model en het COP-niveau. De aanvraag gaat vóór installatie. Je installateur regelt dit doorgaans, maar controleer altijd of het specifieke model op de actuele RVO-lijst staat.
+  a: 'Ja, mits het toestel op de apparatenlijst van de RVO staat. Wij noemen hier geen bedrag: dat verschilt per typenummer en per rendementsklasse, en de lijst is de enige betrouwbare bron. Belangrijk voor de planning: je vraagt de ISDE aan ná de installatie, binnen 24 maanden. Vóór installatie aanvragen kan niet.'
 - q: Werkt een warmtepompboiler goed samen met zonnepanelen?
-  a: Dat is eigenlijk de ideale combinatie. Overdag heb je zonne-overschot — in plaats van dat terug te leveren aan het net (met lage terugleververgoeding), laad je de boiler op. De meeste moderne warmtepompboilers hebben een PV-koppeling of slimme timer waarmee je dit automatiseert. Je effectieve COP wordt daardoor nog hoger, want je gebruikt stroom die je anders weggeeft.
+  a: 'Ja, en dat wordt vanaf 1 januari 2027 belangrijker, want dan stopt de salderingsregeling volledig. Een boiler is een goedkope warmtebuffer: je warmt het water op tijdens de zonnige uren en gebruikt het ''s avonds. Kijk bij de modelkeuze of het toestel een timer heeft of kan reageren op een signaal van je omvormer of P1-poort — dat verschilt per toestel en per uitvoering.'
 - q: Wat is de levensduur van een warmtepompboiler?
-  a: Gemiddeld 12 tot 15 jaar. De compressor is het meest gevoelige onderdeel — vergelijkbaar met een koelkast of airconditioner. De meeste fabrikanten geven 2 tot 5 jaar garantie op de compressor. Goed onderhoud (jaarlijkse check van de anode, geen kalk in hard-water gebieden) verlengt de levensduur.
-- q: Welke warmtepompboiler is het meest geschikt voor een gezin van vier?
-  a: Voor een gezin van vier adviseren wij minimaal 200 liter inhoud — liever 270 liter als er meerdere mensen 's ochtends douchen. De Itho Daalderop HP Cube (270L), de Daikin EKHWP (270L) of de ARISTON Lydos Hybrid (250L) zijn dan goede keuzes. De 150-liter modellen zijn geschikt voor een- of tweepersoonshuishoudens.
+  a: 'Reken op ruwweg twaalf tot vijftien jaar, met de compressor als meest kritische onderdeel. Vraag per model de garantietermijn op de compressor apart na: die is vaak korter dan de garantie op het vat. Onderhoud van de anode en, in gebieden met hard water, ontkalking horen bij het jaarlijkse rondje.'
+- q: Welke inhoud heb ik nodig voor een gezin van vier?
+  a: 'Voor vier personen is 200 liter een verstandige ondergrens; douchen meerdere mensen kort na elkaar, dan is 250 tot 270 liter comfortabeler. Een warmtepompboiler laadt langzamer bij dan een cv-ketel, dus de buffer moet de ochtendpiek kunnen opvangen. Voor een- en tweepersoonshuishoudens is 150 liter doorgaans genoeg.'
 - q: Heeft een warmtepompboiler een speciale elektriciteitsaansluiting nodig?
-  a: 'Nee, de meeste warmtepompboilers draaien op een gewone 230V/16A groep — dezelfde als een wasmachine. Er is geen 3-fasen aansluiting nodig. Wel heb je voldoende ruimte nodig voor de buitenluchtaansluiting: de boiler trekt warme lucht aan en blaast koude lucht uit. Dat kan via een rooster in de muur of via luchtkanaaltjes naar buiten.'
+  a: 'Nee, de meeste toestellen werken op een gewone 230V-groep; een driefasenaansluiting is niet nodig. Waar het wél op vastloopt, is lucht: het toestel onttrekt warmte aan de omgevingslucht en blaast koude lucht uit. Je hebt dus een ruimte met voldoende luchtvolume nodig, of luchtkanalen naar een grotere ruimte of naar buiten.'
 products:
-- name: ATAG E-HP warmtepompboiler
+- name: ATAG warmtepompboiler
   url: https://go.duurzaamthuislab.nl/atag
-  price: '2200'
-- name: Daikin EKHWP warmtepompboiler
+  price: op aanvraag
+- name: Daikin warmtepompboiler
   url: https://go.duurzaamthuislab.nl/daikin
-  price: '2500'
-- name: Itho Daalderop HP Cube
+  price: op aanvraag
+- name: Itho Daalderop warmtepompboiler
   url: https://go.duurzaamthuislab.nl/itho-daalderop
-  price: '2800'
-- name: Inventum Ecolution Solo
-  url: https://go.duurzaamthuislab.nl/inventum
-  price: '1699'
-- name: Bosch Compress 5000DW
-  url: https://go.duurzaamthuislab.nl/bosch
-  price: '2100'
-- name: ARISTON Lydos Hybrid
-  url: https://go.duurzaamthuislab.nl/ariston
-  price: '1950'
+  price: op aanvraag
 schema_type: Article
 ---
-Een veelvoorkomende situatie: je hebt zonnepanelen, maar in de zomer lever je veel terug aan het net voor een lage vergoeding. Kan die stroom niet nuttiger worden ingezet? Vaak gaat het om een woning met een gasgeiser voor warm water, redelijke isolatie, en geen behoefte aan een complete warmtepompinstallatie van €12.000.
+Een veelvoorkomende situatie: je hebt zonnepanelen, maar in de zomer lever je veel terug aan het net. Vanaf 1 januari 2027 stopt de salderingsregeling volledig, en dan wordt de vraag urgent of die stroom niet nuttiger kan worden ingezet. Vaak gaat het om een woning met een gasgeiser of combiketel voor warm water, redelijke isolatie, en geen behoefte aan een complete warmtepompinstallatie.
 
-Een warmtepompboiler is dan een van de meest genoemde tussenoplossingen: een investering van circa €2.000 tot €2.500, ISDE-subsidie van €725 tot €1.500, en een terugverdientijd die sterk afhangt van wat je nu gebruikt voor tapwater.
+Een warmtepompboiler is dan een van de meest genoemde tussenoplossingen: een relatief kleine investering, een toestel dat onder de ISDE kan vallen, en een terugverdientijd die volledig afhangt van wat je nu voor tapwater gebruikt.
 
-Maar welke warmtepompboiler is de beste? Het antwoord is genuanceerder dan de meeste koopgidsen doen geloven. In dit artikel vergelijken we zes populaire modellen op basis van COP, inhoud, prijs, subsidie en praktische bruikbaarheid — op basis van specificaties, handleidingen en publiek beschikbare informatie.
+Maar welke warmtepompboiler is de beste? Het antwoord is genuanceerder dan de meeste koopgidsen doen geloven — en het hangt aan gegevens die je zelf per toestel moet ophalen. Dit artikel legt uit welke dat zijn, waar ze staan, en welke afweging daarna overblijft.
 
-*Disclosure: wij hebben geen commerciële relatie met de genoemde fabrikanten. Prijzen zijn indicatief en gebaseerd op publieke informatie van begin 2026.*
-
----
-
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Op zoek naar de beste warmtepompboiler van 2026? Een vergelijking van 6 modellen op COP, inhoud, prijs en ISDE-subsidie.
-
-## Wat is een warmtepompboiler, en voor wie is hij geschikt?
-
-Een warmtepompboiler is geen warmtepomp die je huis verwarmt. Dat is een veelgehoord misverstand. Hij doet maar één ding: warm tapwater maken voor de douche, kraan en afwasmachine.
-
-De technologie is hetzelfde als bij een koelkast of airco, maar omgekeerd: hij onttrekt warmte aan de omgevingslucht en brengt die over op het water in de tank. Daarvoor heeft hij elektriciteit nodig, maar veel minder dan een elektrische weerstandsboiler: een COP van 2,5 tot 3,5 betekent dat hij voor elke kilowattuur elektriciteit 2,5 tot 3,5 kWh aan warmte produceert.
-
-**Voor wie is hij geschikt?**
-
-- Je hebt een cv-ketel die je wilt houden (verwarming loopt goed), maar je wilt minder gas verbruiken voor tapwater
-- Je hebt een elektrische boiler (weerstandsverwarming) en wilt fors besparen op elektriciteitskosten
-- Je hebt zonnepanelen met terugleveringsprobleem — de boiler is een uitstekende thermische batterij
-- Je wilt als tussenstap richting all-electric gaan zonder direct de hele cv-installatie te vervangen
-
-**Voor wie is hij minder geschikt?**
-
-- Je hebt al een combiketel die prima werkt en weinig gas verbruikt — dan is de terugverdientijd lang
-- Je plaatst hem in een kleine, slecht geventileerde ruimte zonder luchtaansluiting naar buiten
-- Je wilt ook je verwarming elektrisch maken — dan is een echte lucht-water warmtepomp logischer
+*Disclosure: wij hebben met de genoemde fabrikanten geen affiliate- of commissierelatie en ontvangen voor de verwijzingen in dit artikel geen vergoeding (stand augustus 2026). Wij hebben zelf geen toestellen getest of gemeten; alle rekenvoorbeelden zijn modelberekeningen met expliciete aannames.*
 
 ---
 
-## De zes modellen in dit vergelijk
+> **Kort antwoord:** er is geen "beste" warmtepompboiler, maar er zijn wel vier gegevens die de keuze bepalen: het rendement bij de luchttemperatuur van jóuw opstelplek, de inhoud van het vat, of het typenummer op de apparatenlijst van de RVO staat, en de garantietermijn op de compressor.
+>
+> Die eerste twee staan in het officiële productblad, de derde in de RVO-apparatenlijst — daar staan ook het rendement volgens de norm en het subsidiebedrag per typenummer. Dat is de enige plek waar je die twee gegevens naast elkaar en actueel vindt. De business case is het sterkst als je een elektrische weerstandsboiler vervangt, en zwak als je een goed werkende combiketel vervangt.
 
-We vergelijken de volgende zes warmtepompboilers, alle beschikbaar in Nederland in 2026:
+## Wat een warmtepompboiler wel en niet doet
 
-1. **ATAG E-HP boiler** — Nederland, bekend cv-merk
-2. **Daikin EKHWP** — Japan, sterke technische reputatie
-3. **Itho Daalderop HP Cube** — Nederland, bekende naam in ventilatie en verwarming
-4. **Inventum Ecolution Solo** — Nederland, sterk op betaalbare segment
-5. **Bosch Compress 5000DW** — Duitsland, breed servicenetwerk
-6. **ARISTON Lydos Hybrid** — Italië, groot in Zuid-Europa en nu ook NL
+Een warmtepompboiler is geen warmtepomp die je huis verwarmt. Dat misverstand kost mensen geld, want het is een compleet ander toestel met een andere prijsklasse. Hij doet één ding: warm tapwater maken.
 
----
+De techniek is die van een koelkast, omgekeerd ingezet: het toestel onttrekt warmte aan de omgevingslucht en brengt die over op het water in het vat. Daarvoor is elektriciteit nodig, maar veel minder dan bij een elektrisch verwarmingselement. Een rendement (COP) van 2,5 tot 3,5 betekent dat elke kilowattuur stroom 2,5 tot 3,5 kilowattuur warmte oplevert. Een weerstandsboiler zit per definitie op 1,0.
 
-## Overzichtstabel: alle zes modellen vergeleken
+**Geschikt als:**
 
-| Model | COP (A15/W55) | Inhoud | Opwarmtijd | Prijs (incl. 0% btw) | ISDE 2026 | Garantie |
-|---|---|---|---|---|---|---|
-| ATAG E-HP | 3,2 | 200L / 270L | ~3,5 uur | €1.950 – €2.450 | €1.050 | 2+3 jaar |
-| Daikin EKHWP | 3,6 | 200L / 270L | ~3 uur | €2.300 – €2.900 | €1.250 | 5 jaar |
-| Itho Daalderop HP Cube | 3,4 | 150L / 200L / 270L | ~3 uur | €2.200 – €3.100 | €1.100 | 5 jaar |
-| Inventum Ecolution Solo | 2,8 | 150L / 200L | ~4 uur | €1.500 – €1.850 | €725 | 2 jaar |
-| Bosch Compress 5000DW | 3,1 | 200L / 270L | ~3,5 uur | €1.900 – €2.400 | €1.050 | 5 jaar |
-| ARISTON Lydos Hybrid | 3,2 | 80L / 100L / 150L / 200L / 250L | ~3,5 uur | €1.750 – €2.200 | €1.050 | 2+2 jaar |
+- Je een cv-ketel hebt die je wilt houden, maar minder gas wil gebruiken voor tapwater
+- Je nu een elektrische weerstandsboiler hebt — dan is de besparing het grootst
+- Je zonnepanelen hebt en een goedkope warmtebuffer zoekt voor je overschot
+- Je in stappen naar all-electric wil zonder de hele verwarmingsinstallatie te vervangen
 
-*COP A15/W55: bij omgevingstemperatuur 15°C, water opgewarmd tot 55°C. Hogere omgevingstemperatuur = hogere COP. Prijzen inclusief 0% btw, exclusief montage (reken €400–€800 extra).*
+**Minder geschikt als:**
+
+- Je een goed werkende combiketel hebt met een laag gasverbruik voor tapwater — dan is de terugverdientijd lang
+- De enige beschikbare plek een kleine, koude, slecht geventileerde ruimte is
+- Je toch al van plan bent de verwarming elektrisch te maken — dan is een lucht-water warmtepomp met tapwatermodule logischer
 
 ---
 
-## 1. ATAG E-HP boiler
+## De vier gegevens waarop je vergelijkt
 
-ATAG is een vertrouwde naam in Nederlandse huishoudens, vooral vanwege hun cv-ketels. De E-HP boiler is hun antwoord op de groeiende vraag naar warmtapwateropwekking zonder gas. Hij werkt standalone — naast een bestaande cv-installatie dus.
+Hier gaat het in vergelijkingsartikelen bijna altijd mis: er wordt één COP-getal en één prijs per merk genoemd, terwijl beide per uitvoering verschillen en snel verouderen. Vergelijk daarom zelf, op deze vier punten.
 
-**Technische kern:**
-De E-HP boiler heeft een COP van circa 3,2 bij standaardomstandigheden. Dat is solide, niet uitzonderlijk. Wat hij wél heeft: een NL-specifieke gebruikersinterface, een LAN-aansluiting voor thuisautomatisering (koppeling met Home Assistant is mogelijk, al niet officieel ondersteund), en de mogelijkheid om hem via een slimme timer te programmeren op zonne-overschot.
+### 1. Het rendement bij jouw luchttemperatuur
 
-De 200-liter variant is voor een gezin van twee tot drie personen. De 270-liter is geschikt voor vier of meer mensen.
+Fabrikanten geven het rendement op bij gedefinieerde condities, bijvoorbeeld bij een omgevingstemperatuur van 15°C en water dat tot 55°C wordt opgewarmd. Dat is een testconditie, geen belofte voor jouw bijkeuken.
 
-**Rekenvoorbeeld (modelberekening):**
-Aannames: tweepersoonshuishouden, 200L-variant, warmtevraag voor tapwater circa 1.750 kWh per jaar (het niveau dat een elektrische weerstandsboiler ook daadwerkelijk aan stroom verbruikt), COP 3,2 volgens de specificaties, stroomprijs €0,23/kWh. Uitkomst van het model: circa 550 kWh elektriciteit per jaar, dus ruim 1.200 kWh minder dan met een weerstandsboiler. Dat komt neer op circa **€275 per jaar** aan lagere elektriciteitskosten. In een koude opstelruimte valt de werkelijke COP lager uit en de besparing dus ook.
+Het verschil is groot: in een onverwarmde garage die in januari 5°C is, levert hetzelfde toestel aanzienlijk minder rendement dan in een technische ruimte van 18°C. Vraag daarom de opgaven bij méérdere condities op — die staan in het uitgebreide productblad — en kijk welke conditie het dichtst bij jouw opstelplek komt.
 
-**Plus:**
-- Nederlandstalige service, ATAG-dealer netwerk
-- Goede LAN-koppeling
-- Compact ontwerp, makkelijk te plaatsen naast cv-ketel
+Voor de subsidieklasse geldt bovendien een genormeerde meetmethode. Het rendement volgens die norm staat per typenummer in de apparatenlijst van de RVO, en dat is dus het getal dat je tussen toestellen echt kunt vergelijken.
 
-**Min:**
-- COP iets lager dan Daikin
-- App is functioneel maar niet de meest uitgebreide
-- Garantie op compressor slechts 3 jaar (totaal 5 jaar als je uitgebreide garantie aanvraagt)
+### 2. De inhoud van het vat
 
-**Adviesprijs:** €1.950 (200L) – €2.450 (270L), ISDE €1.050, netto investering circa **€900–€1.400 exclusief montage**
+Een warmtepompboiler laadt langzamer bij dan een cv-ketel. De buffer moet daarom de ochtendpiek opvangen. Praktische vuistregel: 150 liter voor één tot twee personen, 200 liter voor drie tot vier, 250 tot 270 liter als er meerdere mensen kort na elkaar douchen.
 
----
+Let ook op de opwarmtijd van een volledig koud vat. In de praktijk is het vat zelden helemaal leeg, maar het getal zegt iets over hoe snel het toestel herstelt na een piek.
 
-## 2. Daikin EKHWP
+### 3. Of het typenummer op de RVO-apparatenlijst staat
 
-Daikin is de technologische koploper in warmtepomptechnologie. De EKHWP (de afkorting staat voor Exhaust air heat pump voor warm water) is hun dedicated warmtepompboiler en heeft de hoogste COP in dit vergelijk: 3,6.
+Dit is een harde ja-of-nee. Staat het typenummer niet op de apparatenlijst van de RVO, dan is er geen ISDE mogelijk — hoe goed het toestel verder ook is en wat de verkoper ook beweert. Controleer het typenummer uit de offerte letterlijk tegen de lijst, niet de modelnaam.
 
-**Technische kern:**
-COP 3,6 betekent: bij 15°C omgevingstemperatuur verbruikt hij voor 1 kWh warmte slechts 0,28 kWh elektriciteit. Dat is een kwart minder dan de Inventum Ecolution Solo (COP 2,8). Op jaarbasis scheelt dat bij een gezin van vier al gauw 200 kWh — circa €46 per jaar. Niet enorm, maar het telt op over 12 jaar levensduur.
+### 4. De garantie, uitgesplitst
 
-De opwarmtijd is circa drie uur voor een volledig koude tank van 270 liter. In de praktijk is de boiler zelden volledig leeg, dus de werkelijke opwarmtijd per cyclus is korter.
-
-Daikin levert de EKHWP met hun Daikin Smart App — dezelfde app als voor hun airconditioners en warmtepompen. De integratie is goed: je ziet het verbruik per dag, kunt een PV-koppeling instellen en ontvangt een melding bij storingen.
-
-**Rekenvoorbeeld (modelberekening):**
-Aannames: gezin van vijf, 270L-variant, vervanging van een gasgeiser die circa 300 m³ gas per jaar gebruikt voor tapwater bij €1,05/m³ (circa €315), COP 3,6 volgens de fabrikant, stroomprijs €0,23/kWh. Uitkomst van het model: circa 420 kWh elektriciteit per jaar, ongeveer €95 aan stroom. Verschil met de gasgeiser: circa **€220 per jaar**. Bij een aanschafprijs van €2.900, €1.250 ISDE en €600 montage is de netto investering circa €2.250 en de terugverdientijd ruim tien jaar — bij een levensduur van 12 tot 15 jaar dus krap. Bij vervanging van een elektrische boiler valt die terugverdientijd fors korter uit.
-
-**Plus:**
-- Hoogste COP in dit vergelijk (3,6)
-- Beste app-integratie + PV-koppeling
-- 5 jaar garantie inclusief compressor
-- Bewezen Daikin-compressor, trackrecord in klimaatbeheersing
-
-**Min:**
-- Duurste model in dit vergelijk (€2.300–€2.900)
-- Service loopt via dealer, minder direct dan ATAG of Itho Daalderop
-- Leveringstijd kan oplopen bij drukte installateurs (Daikin is populair)
-
-**Adviesprijs:** €2.300 (200L) – €2.900 (270L), ISDE €1.250, netto investering circa **€1.050–€1.650 exclusief montage**
+Vraag de garantietermijn apart op voor het vat, de compressor en de elektronica. Die verschillen in de praktijk, en de compressor is het onderdeel waarvan een reparatie het meest kost. Een "5 jaar garantie" in een advertentie betekent zelden vijf jaar op alles.
 
 ---
 
-## 3. Itho Daalderop HP Cube
+## Zes toestellen die in Nederland leverbaar zijn
 
-Itho Daalderop is een Nederlandse fabrikant met een lange traditie in ventilatiesystemen en warmtapwateroplossingen. De HP Cube is hun warmtepompboiler, en hij heeft een opvallend design: een compacte kubusvorm die in kleine technische ruimtes past.
+Onderstaande merken en modelfamilies worden in Nederland via installateurs en groothandels geleverd. Wij zetten hier bewust géén COP-, prijs- of garantiegetallen per model bij: die verschillen per uitvoering en per handelskanaal, en een getal zonder gedateerde bron is in deze markt binnen een half jaar onjuist. Wat er per merk wél te zeggen valt, staat erbij.
 
-**Technische kern:**
-COP van 3,4 bij standaardomstandigheden — goed, net onder Daikin. Het specifieke pluspunt is het brede aanbod: 150L, 200L en 270L, waardoor hij voor ieder huishoudformaat beschikbaar is. De 150L-variant is de enige in dit vergelijk die écht compact is: 58 cm breed, 70 cm diep.
+| Toestel | Waar het merk zich op onderscheidt | Waar je specifiek naar vraagt |
+|---|---|---|
+| **ATAG** warmtepompboiler | Nederlands merk met een dicht dealernetwerk en Nederlandstalige service | Welke inhouden leverbaar zijn en of er een koppeling met huisautomatisering is |
+| **Daikin** warmtepompboiler | Sterke reputatie in warmtepomptechniek; app die ook andere Daikin-toestellen bedient | Het rendement bij lage omgevingstemperatuur en de garantie op de compressor |
+| **Itho Daalderop** warmtepompboiler | Nederlandse fabrikant met veel ervaring in ventilatie en tapwater; compacte uitvoeringen | Of het toestel op een P1- of PV-signaal kan reageren, en het benodigde luchtvolume |
+| **Inventum** warmtepompboiler | Nederlands merk in het instapsegment; eenvoudige bediening | Het rendement — instaptoestellen zitten vaak in een lagere klasse — en of er een timer is |
+| **Bosch** warmtepompboiler | Breed servicenetwerk; integratie met de eigen cv-toestellen | Of het elektrische back-upelement automatisch bijspringt en wat dat met het jaarrendement doet |
+| **Ariston** warmtepompboiler | Breed aanbod aan inhouden, inclusief kleine vaten voor appartementen | Waar de Nederlandse service vandaan komt en welke inhouden hier daadwerkelijk leverbaar zijn |
 
-De HP Cube heeft een slimme PV-koppeling via een ingebouwde slimme meter-koppeling (P1-poort). Dat maakt hem interessant voor wie al een slimme meter heeft: de boiler reageert automatisch op terugleverpieken.
-
-**Waar je in de praktijk op moet letten:**
-Bij plaatsing in een kleine berging of bijkeuken is het aanbrengen van de luchtkanaaltjes doorgaans de lastigste stap; installateurs rekenen daar extra tijd voor. Belangrijker is het effect op de efficiëntie: een tweepersoonshuishouden komt met de 150L-variant volgens een modelberekening (warmtevraag circa 1.200 kWh, COP 3,4) uit op circa 350 kWh stroom per jaar — maar alleen als de opstelruimte warm genoeg blijft.
-
-Dat is een belangrijk punt: de COP op het label geldt bij 15°C omgevingstemperatuur. In een koude bijkeuken of garage in de winter zakt de COP naar 2,2–2,5. Zet de boiler bij voorkeur in een verwarmde ruimte of een ruimte die boven de 10°C blijft.
-
-**Plus:**
-- Brede range (150L–270L)
-- Compacte kubusvorm, past in kleine ruimtes
-- P1-koppeling voor automatische PV-sturing
-- Goed Nederlands servicenetwerk
-- 5 jaar garantie
-
-**Min:**
-- Duurste in compacte 150L-segement
-- COP iets lager dan Daikin
-- Luchtkanaaltjes vereisen soms extra installatiewerk
-
-**Adviesprijs:** €2.200 (150L) – €3.100 (270L), ISDE €1.100, netto investering circa **€1.100–€2.000 exclusief montage**
+Twee waarschuwingen bij zulke lijstjes. Modelnamen wisselen: een naam die in een oud artikel of forumbericht staat, is vaak al opgevolgd. En een lagere aanschafprijs met een lager rendement kan alsnog de beste keuze zijn, omdat het verschil in jaarkosten tussen rendement 2,8 en 3,6 kleiner is dan mensen denken — zie de volgende paragraaf.
 
 ---
 
-## 4. Inventum Ecolution Solo
+## Wat het rendementsverschil werkelijk waard is
 
-De Inventum Ecolution Solo is de betaalbare optie in dit vergelijk. Inventum is een Nederlands merk dat zich richt op de mid-budget markt — en dat zie je terug in de prijs: €1.500–€1.850, de goedkoopste van de zes.
+Een modelberekening met aannames, om het rendementsverschil op zijn juiste waarde te schatten. Aannames: tapwatervraag 1.800 kWh warmte per jaar (een gezin van drie tot vier), all-in stroomprijs €0,26/kWh — onze gelabelde aanname (EPEX-jaargemiddelde 2025 plus energiebelasting en een opslagaanname, alles inclusief btw).
 
-**Technische kern:**
-COP van 2,8 — de laagste in dit vergelijk. Dat is nog altijd bijna drie keer zo efficiënt als een elektrische weerstandsboiler (COP 1,0), maar duidelijk minder dan Daikin (3,6) of Itho Daalderop (3,4). In euro's: bij 500 kWh warmteproductie per jaar verbruikt de Ecolution Solo circa 179 kWh, de Daikin 139 kWh — een verschil van 40 kWh × €0,23 = **€9 per jaar**. Over 10 jaar: €90. Dat is minder dan het prijsverschil tussen de modellen.
+| Toestel | Rendement | Stroomverbruik per jaar | Kosten per jaar |
+|---|---|---|---|
+| Elektrische weerstandsboiler | 1,0 | 1.800 kWh | €468 |
+| Warmtepompboiler, lagere klasse | 2,8 | 643 kWh | €167 |
+| Warmtepompboiler, middenklasse | 3,2 | 563 kWh | €146 |
+| Warmtepompboiler, hoge klasse | 3,6 | 500 kWh | €130 |
 
-De Ecolution Solo heeft een basisfunctionaliteit: timer, instelbare temperatuur (40–75°C), geen WiFi of app. Voor wie simpel wil: prima. Voor wie wil koppelen met PV-systeem via een app: niet de juiste keuze.
+Twee conclusies die de aanschafbeslissing bepalen:
 
-**Rekenvoorbeeld (modelberekening):**
-Aannames: 200L-variant als vervanging van een elektrische weerstandsboiler die 1.850 kWh per jaar gebruikt, COP 2,8 volgens de specificaties, stroomprijs €0,23/kWh. Uitkomst van het model: circa 660 kWh per jaar, dus bijna 1.200 kWh minder — circa **€273 besparing per jaar**. Bij €1.800 aanschaf, €725 ISDE en €450 montage is de netto investering circa €1.525 en de terugverdientijd circa 5,6 jaar. In dit model de kortste terugverdientijd van de zes, puur omdat de aanschafprijs zo laag is.
+**De stap van weerstandsboiler naar warmtepompboiler is groot:** circa €300 per jaar in dit model. Dat is de business case.
 
-**Plus:**
-- Laagste prijs (€1.500–€1.850)
-- Kortste terugverdientijd bij vervanging elektrische boiler
-- Simpel te bedienen, geen ingewikkelde software
-- Beschikbaar bij grote bouwmarktketens
+**De stap tussen warmtepompboilers is klein:** van rendement 2,8 naar 3,6 scheelt in dit model ongeveer €37 per jaar, oftewel ruim €400 over een levensduur van twaalf jaar. Betaal je voor dat hogere rendement €500 extra, dan verdien je dat niet terug op de energierekening. Kies het duurdere toestel dus om een andere reden — inhoud, garantie, service of sturingsmogelijkheden — of niet.
 
-**Min:**
-- Laagste COP (2,8)
-- Geen WiFi of app-koppeling
-- Alleen 150L en 200L — geen 270L voor grote gezinnen
-- Kortste garantie (2 jaar)
-- ISDE lager (€725) door lagere COP
-
-**Adviesprijs:** €1.500 (150L) – €1.850 (200L), ISDE €725, netto investering circa **€775–€1.125 exclusief montage**
+Let op wat er wél zwaar meeweegt: als je toestel in een koude ruimte staat en het werkelijke rendement over het jaar naar 2,2 zakt, verdampt het verschil tussen de klassen volledig. De opstelplek is belangrijker dan de merkkeuze.
 
 ---
 
-## 5. Bosch Compress 5000DW
+## ISDE: de route, niet het bedrag
 
-Bosch is een gevestigde naam in verwarmingsland — ze zijn ook de moedermaatschappij van Buderus en Junkers. De Compress 5000DW is hun warmtepompboiler voor de Nederlandse markt.
+Een warmtepompboiler kan onder de Investeringssubsidie Duurzame Energie (ISDE) vallen. Wij noemen in dit artikel geen bedragen, en dat is een bewuste keuze: het subsidiebedrag hangt af van het typenummer en de rendementsklasse van het specifieke toestel, en alleen de apparatenlijst van de RVO geeft dat actueel en per model.
 
-**Technische kern:**
-COP van 3,1 bij standaardcondities — solide mid-range. Beschikbaar in 200L en 270L. Opwarmtijd circa 3,5 uur voor een volle tank. Bosch levert de 5000DW met een EasyControl app die ook werkt met hun cv-ketels — handig als je al een Bosch Nefit cv-ketel hebt.
+De route in vier stappen:
 
-De Compress 5000DW heeft een ingebouwde elektrische weerstandsverwarmer als backup: als de buitentemperatuur te laag is (onder -5°C) of als de warmtevraag piekelt, schakelt de elektrische weerstand bij. Dat houdt de COP-prestatie hoog onder normale omstandigheden.
+1. **Zoek het typenummer op in de apparatenlijst van de RVO** — daar staat of het toestel in aanmerking komt, in welke klasse het valt en welk bedrag eraan hangt. Doe dit vóór je de opdracht geeft, want dit kan de keuze tussen twee toestellen kantelen.
+2. **Laat de meldcode of het typenummer op de factuur zetten.** Zonder die gegevens loop je vast bij de aanvraag.
+3. **Laat het toestel installeren.**
+4. **Vraag de subsidie ná de installatie aan**, binnen 24 maanden, via mijn.rvo.nl. Dit is het punt waarop veel voorlichting het fout heeft: aanvragen vóór installatie kan niet, en je installateur "regelt het" niet voor je tenzij je hem daar expliciet voor machtigt.
 
-Een technisch detail dat opvalt: het toestel heeft een legionellaprogramma dat de tank wekelijks opwarmt tot 65°C (in de nacht), volledig automatisch. Bij warmtepompboilers is dat standaard, maar Bosch maakt het extra eenvoudig instelbaar.
-
-**Rekenvoorbeeld (modelberekening):**
-Aannames: huishoudens van twee tot vier personen met een tapwatervraag van 1.800 tot 2.200 kWh warmte per jaar, COP 3,1 volgens de specificaties. Uitkomst van het model: circa 580 tot 710 kWh elektriciteit per jaar. Praktisch voordeel dat losstaat van de cijfers: het Bosch-Nefit servicenetwerk in Nederland is breed, waardoor monteurs en onderdelen relatief goed beschikbaar zijn.
-
-**Plus:**
-- Breed Bosch-Nefit servicenetwerk in Nederland
-- EasyControl app + integratie met Bosch cv-ketels
-- Automatisch legionellaprogramma
-- 5 jaar garantie
-- Goede beschikbaarheid bij installateurs
-
-**Min:**
-- COP (3,1) iets lager dan Daikin en Itho Daalderop
-- Geen P1-koppeling voor directe PV-sturing
-- Prijs vergelijkbaar met Daikin maar lagere COP
-
-**Adviesprijs:** €1.900 (200L) – €2.400 (270L), ISDE €1.050, netto investering circa **€850–€1.350 exclusief montage**
+Bewaar de factuur; de RVO kan achteraf controleren.
 
 ---
 
-## 6. ARISTON Lydos Hybrid
+## Warmtepompboiler plus zonnepanelen
 
-ARISTON is een Italiaans merk, groot in Zuid-Europa en inmiddels serieus aanwezig in Nederland. De Lydos Hybrid is hun warmtepompboiler en onderscheidt zich door het brede aanbod aan inhoudsmaten: van 80 liter (studio) tot 250 liter (groot gezin).
+Dit is het scenario uit de inleiding, en het is de reden dat de belangstelling voor deze toestellen toeneemt.
 
-**Technische kern:**
-COP van 3,2 bij standaardcondities. De "Hybrid" in de naam verwijst niet naar een combinatie met een cv-ketel, maar naar de ingebouwde elektrische weerstandsverwarmer die als backup dient — net als bij de Bosch. De ARISTON Lydos Hybrid heeft een opvallend kenmerk: het toestel werkt in vier modi, waaronder een PV-koppeling modus (ARISTON Net-app) waarbij hij zonne-overschot voorrang geeft.
+**Wat er verandert:** de salderingsregeling stopt **volledig per 1 januari 2027**. Er is geen afbouwpad — het wetsvoorstel met stapsgewijze percentages is verworpen. Vanaf dat moment is een teruggeleverde kilowattuur alleen nog waard wat je leverancier ervoor vergoedt, en die vergoeding ligt ver onder wat je voor afname betaalt.
 
-De 250L variant is een interessante keuze voor grote gezinnen die de Itho Daalderop HP Cube 270L te duur vinden: hij is circa €500–€700 goedkoper.
+**Wat de boiler doet:** in plaats van het overschot terug te leveren, warm je er water mee op. Een geïsoleerd vat houdt die warmte uren vast, dus je doucht 's avonds op de zon van die middag. Een boiler is daarmee de goedkoopste warmtebuffer die er is — veel goedkoper per opgeslagen kilowattuur dan een thuisbatterij, met de beperking dat je die energie alleen als warm water terugkrijgt.
 
-**Rekenvoorbeeld (modelberekening):**
-De Lydos Hybrid wordt vaak gekozen als eerste stap naar all-electric, met de cv-ketel voorlopig nog in bedrijf. Aannames: 200L-variant ter vervanging van een elektrische boiler die 1.620 kWh per jaar gebruikt, COP 3,2 volgens de specificaties, stroomprijs €0,23/kWh. Uitkomst van het model: circa 610 kWh per jaar, een besparing van circa **€233 per jaar**.
+**Modelberekening met aannames.** Stel dat 500 kWh van je jaarlijkse boilerverbruik binnen de zonuren valt en dat je die stroom anders had teruggeleverd. Voor de terugleververgoeding na 2027 rekenen we met €0,07/kWh — een **gelabelde aanname**, want leveranciers hebben hun tarieven voor 2027 nog niet gepubliceerd. Tegenover een all-in afnametarief van €0,26/kWh:
 
-Een aandachtspunt bij ARISTON: de Nederlandstalige service is minder ver uitgebouwd dan bij ATAG, Itho Daalderop of Bosch. Bij technische vragen kom je soms bij een Belgische of internationale helpdesk uit.
+- Terugleveren: 500 × €0,07 = €35
+- Zelf gebruiken via de boiler: 500 × €0,26 vermeden afname = €130
+- Verschil: **circa €95 per jaar**
 
-**Plus:**
-- Brede range van 80L tot 250L
-- PV-koppeling via ARISTON Net-app
-- Gunstige prijs-kwaliteitsverhouding
-- Vier bedrijfsmodi voor flexibele sturing
+Dat komt bovenop de besparing uit het rendementsverschil hierboven. Verandert de terugleververgoeding, dan schuift dit bedrag mee — vul je eigen tarief in zodra je dat kent.
 
-**Min:**
-- Nederlandstalige service minder goed dan NL-merken
-- App gebruiksvriendelijkheid kan beter
-- Garantie (2+2 jaar) korter dan Daikin, Bosch en Itho Daalderop
-
-**Adviesprijs:** €1.750 (150/200L) – €2.200 (250L), ISDE €1.050, netto investering circa **€700–€1.150 exclusief montage**
+**Wat je hiervoor nodig hebt in het toestel:** minimaal een timer waarmee je de opwarmcyclus in de middaguren legt. Comfortabeler is een toestel dat op een extern signaal reageert, bijvoorbeeld van de omvormer of via de P1-poort van de slimme meter. Of jouw toestel dat kan, en of daar extra hardware voor nodig is, staat in de installatiehandleiding — vraag het uit vóór de aanschaf, want achteraf toevoegen kan meestal niet.
 
 ---
 
-## ISDE-subsidie 2026: wat je moet weten
+## Vervang je een elektrische boiler of een gasgeiser?
 
-De **Investeringssubsidie Duurzame Energie (ISDE)** van RVO geldt ook voor warmtepompboilers. In 2026 loopt de subsidie van **€725 tot €1.500** per toestel, afhankelijk van het COP-niveau en de inhoud.
+Dit onderscheid bepaalt of de investering rendeert.
 
-Hoe hogere COP → hogere subsidie. De exacte bedragen zijn:
+**Elektrische weerstandsboiler vervangen.** De duidelijkste situatie. Uit de modelberekening hierboven: bij 1.800 kWh warmtevraag gaat het om circa €300 lagere energiekosten per jaar. Bij een investering van pakweg €2.000 inclusief montage, vóór ISDE, is dat een terugverdientijd rond de zeven jaar — en met het subsidiebedrag voor jouw typenummer erop in mindering korter.
 
-| COP | ISDE-bedrag (2026) |
-|---|---|
-| ≥ 2,5 (minimale eis) | €725 |
-| ≥ 2,9 | €1.050 |
-| ≥ 3,2 | €1.250 |
-| ≥ 3,5 | €1.500 |
+**Gasgeiser of combiketel vervangen.** Hier is de rekening minder gunstig. Een aparte gasgeiser of combiketel gebruikt voor tapwater in de orde van 200 tot 300 m³ gas per jaar. Bij een all-in gasprijs van €1,10/m³ — onze gelabelde aanname — is dat €220 tot €330 per jaar. Een warmtepompboiler kost in hetzelfde model ongeveer €150 aan stroom. Het verschil is dan enkele tientallen tot ruim honderd euro per jaar, en de terugverdientijd loopt daarmee in de richting van de levensduur van het toestel.
 
-*Let op: bovenstaande bedragen zijn indicatief op basis van de 2025/2026 regelgeving. Controleer altijd de actuele RVO-lijst voor het exacte bedrag van jouw model.*
+Dat betekent niet dat het onzinnig is: minder gasafhankelijk zijn, de gasaansluiting op termijn kunnen opzeggen en je zonnestroom benutten zijn reële argumenten. Maar noem het dan wat het is — een verduurzamingskeuze, geen investering die zich vanzelf terugbetaalt.
 
-**Praktische stappen voor ISDE:**
-
-1. Kies een model dat op de [RVO ISDE-lijst](https://www.rvo.nl/subsidies-financiering/isde) staat
-2. Vraag de subsidie aan **vóór** start van de installatie — dit doet de installateur doorgaans namens jou
-3. Bewaar de factuur — RVO controleert achteraf
-4. Installateur moet een erkend bedrijf zijn (SKW-certificering of equivalent)
+Let op één randvoorwaarde bij het opzeggen van de gasaansluiting: dan moet ook je ruimteverwarming van het gas af. Een warmtepompboiler alleen is daarvoor niet genoeg.
 
 ---
 
-## Warmtepompboiler + zonnepanelen: de ideale combinatie
+## Aanbeveling per situatie
 
-Dit is het scenario uit de inleiding, en het meest interessante verdienmodel van een warmtepompboiler in 2026.
+**Je hebt een elektrische weerstandsboiler.** Kies op inhoud en op garantie, niet op het hoogste rendement. Het verschil tussen de rendementsklassen weegt in dit geval niet op tegen een groot prijsverschil; de winst zit al in de overstap zelf.
 
-**De situatie voor veel huishoudens:**
-Saldering wordt stapsgewijs afgebouwd. In 2025 is de salderingskorting al verlaagd en in 2027 verdwijnt die volledig. Terugleveren aan het net levert dan nog maar €0,03–€0,08 per kWh — een fractie van wat je betaalt bij afname (€0,23–€0,28).
+**Je hebt zonnepanelen en wilt je overschot benutten.** Kies een toestel dat op een extern signaal kan reageren of dat minstens een fijnmazige timer heeft, en zet het in een ruimte die ook in de winter niet ver onder de 10°C zakt.
 
-**Hoe de warmtepompboiler helpt:**
-In plaats van zonne-overschot terug te leveren, gebruik je het om het water in de boiler op te warmen. Je "laadt" de boiler overdag op — de warmte blijft uren bewaard in de geïsoleerde tank. 's Avonds douche je op opgeslagen zonne-energie.
+**Je hebt een groot gezin.** Inhoud gaat hier voor rendement. Een toestel met een hoog rendement en een te klein vat levert een koude tweede douche op, en dat is precies waar de klachten over gaan.
 
-**Rekenvoorbeeld met de volgende aannames (8 panelen, ~6.000 kWh/jaar opbrengst):**
+**Je hebt een klein budget.** Een instaptoestel met een lagere rendementsklasse is een verdedigbare keuze — maar controleer of het typenummer op de RVO-apparatenlijst staat, want een lagere klasse betekent ook een lager subsidiebedrag, en soms geen.
 
-- Eigen gebruik: ~3.200 kWh/jaar
-- Terugleveroverschot: ~2.800 kWh/jaar
-- Verbruik warmtepompboiler voor tapwater: ~600 kWh/jaar (COP 3,2, 1.920 kWh warmte)
-- Van die 600 kWh valt ~500 kWh binnen de zonnepiek (10:00–16:00)
-
-Uitkomst van het model, ten opzichte van terugleveren:
-- Terugleveren: 500 kWh × €0,05 = €25
-- Eigen gebruik via boiler: 500 kWh × €0,23 (vermeden afname) = **€115**
-- Extra voordeel per jaar: **€90**
-
-Klein maar reëel. Over 12 jaar levensduur: €1.080 extra voordeel bovenop de reguliere COP-besparing.
-
-**De PV-koppeling instellen:**
-- **Daikin EKHWP**: via Daikin Smart App → "PV-timer" → stel in op 10:00–15:00 (of koppel via P1-meter voor volledig automatische sturing)
-- **Itho Daalderop HP Cube**: ingebouwde P1-koppeling, automatisch
-- **ARISTON Lydos Hybrid**: via ARISTON Net-app → "PV-modus"
-- **ATAG E-HP / Bosch Compress / Inventum**: via timer programmeren op zonnepiekuren (geen directe P1-koppeling)
+**Je zit in een appartement of hebt weinig ruimte.** Kijk eerst naar het benodigde luchtvolume en de mogelijkheid om luchtkanalen aan te sluiten. Pas als dat kan, is de rest van de vergelijking relevant.
 
 ---
 
-## Vervangt een gasgeiser of elektrische boiler?
+## Installatie: wat je praktisch regelt
 
-**Vervanging elektrische weerstandsboiler:**
-Dit is de duidelijkste businesscase. Een elektrische weerstandsboiler heeft COP 1,0 (bij elke kWh in, komt 1 kWh warmte). Bij 1.800 kWh verbruik per jaar bespaar je met een warmtepompboiler (COP 3,2):
+Een warmtepompboiler plaatsen is geen doe-het-zelfklus, vooral vanwege de lucht- en condensaansluitingen en de eisen die aan de factuur worden gesteld voor de subsidieaanvraag.
 
-- Nieuwe verbruik: 562 kWh/jaar
-- Besparing: 1.238 kWh × €0,23 = **€285/jaar**
-- Netto investering na subsidie (Bosch 200L): ~€850 + €500 montage = €1.350
-- Terugverdientijd: **4,7 jaar**
+**Wat de installateur doet:**
 
-**Vervanging gasgeiser:**
-Een combiketel of aparte gasgeiser voor warm water verbruikt circa 200–300 m³ gas per jaar puur voor tapwater. Bij €1,05/m³ = €210–€315 per jaar. Een warmtepompboiler kost circa €130–€170 per jaar aan elektriciteit. Besparing: **€40–€145 per jaar** — kleiner, dus terugverdientijd langer (8–15 jaar). Toch de moeite als je toch al investeert in verduurzaming en minder gasafhankelijk wil zijn.
+- De bestaande boiler of geiser verwijderen en afvoeren
+- Het toestel plaatsen en waterzijdig aansluiten
+- De luchtaansluiting maken: warme lucht aanzuigen, koude lucht afvoeren, via roosters of kanalen
+- De condensafvoer aansluiten — een warmtepompboiler produceert condenswater
+- De elektrische aansluiting op een eigen groep verzorgen
+- Het legionellaprogramma en, indien aanwezig, de timer of PV-sturing instellen
 
----
+**Ruimte en lucht.** Het toestel moet warmte uit de lucht kunnen halen. Een kleine, dichte kast werkt niet: de ruimte koelt af en het rendement zakt. Vraag de installateur om het benodigde luchtvolume uit de handleiding van het gekozen toestel en om de vrije doorstroomoppervlakte van de roosters of kanalen.
 
-## Onze aanbeveling per situatie
+**Geluid.** Er zit een compressor in, dus het toestel maakt geluid — vergelijkbaar met een vaatwasser of koelkast, maar langer achtereen. In een technische ruimte of garage merk je er niets van; direct naast een slaapkamer is het een aandachtspunt. Vraag de geluidsopgave uit het productblad.
 
-**Je hebt een elektrische weerstandsboiler:**
-Kies de **Inventum Ecolution Solo** (laagste prijs, kortste terugverdientijd) of de **Bosch Compress 5000DW** (hogere COP, betere app, langere garantie). Bij een gezin van vier: altijd de 200L-variant.
-
-**Je hebt zonnepanelen en wilt zonne-overschot benutten:**
-Kies de **Itho Daalderop HP Cube** (automatische P1-koppeling) of de **Daikin EKHWP** (beste PV-app). Hogere aanschafprijs, maar de combinatie geeft de kortste effectieve terugverdientijd.
-
-**Je wilt de beste COP, ongeacht prijs:**
-**Daikin EKHWP**, COP 3,6, beste app, 5 jaar garantie. De meerprijs ten opzichte van de Bosch (€400) verdien je in circa acht jaar terug via lagere elektriciteitskosten.
-
-**Je hebt een klein budget en een simpele behoefte:**
-**Inventum Ecolution Solo** of **ARISTON Lydos Hybrid** — beide onder €1.900, solide basisapparaten.
-
-**Je hebt een groot gezin (4+ personen):**
-**Daikin EKHWP 270L**, **Itho Daalderop HP Cube 270L** of **ARISTON Lydos Hybrid 250L**. De 150L en 200L modellen lopen bij druk tapwaterverbruik te snel leeg.
+**Legionella.** Werk je met een lager setpoint om het rendement hoog te houden, laat dan het legionellaprogramma actief: het vat gaat dan periodiek naar een hogere temperatuur. Dat kost wat rendement en is niet optioneel.
 
 ---
 
-## Installatie: wat je praktisch moet regelen
+## Conclusie
 
-Een warmtepompboiler plaatsen is geen doe-het-zelf klus — niet vanwege technische complexiteit, maar vanwege de ISDE-aanvraag (erkend installateur verplicht) en de luchtkanaaltjes.
+Er bestaat geen enkelvoudig "beste" warmtepompboiler, en artikelen die er één aanwijzen op basis van één COP-getal per merk, vergelijken toestellen die niet vergelijkbaar zijn.
 
-**Wat de installateur moet doen:**
-- ISDE aanvragen vóór start werkzaamheden
-- Bestaande boiler of geiser verwijderen
-- Warmtepompboiler ophangen of plaatsen
-- Luchtkanaaltjes aanbrengen (warm lucht aanzuigen, koude lucht afvoeren — of via rooster in de muur)
-- Elektrische aansluiting 230V/16A
-- Eventuele app/WiFi configuratie
+Wat wél concreet is:
 
-**Installatiekosten:** €400–€800, afhankelijk van complexiteit van de luchtkanaaltjes.
+- **De overstap van een elektrische weerstandsboiler naar een warmtepompboiler is de sterkste business case** in dit hele onderwerp: in onze modelberekening circa €300 per jaar.
+- **Het verschil tussen rendementsklassen is klein** — enkele tientjes per jaar. Laat dat geen groot prijsverschil rechtvaardigen.
+- **De opstelplek weegt zwaarder dan de merkkeuze.** Een toestel in een koude garage presteert onder elke klasse.
+- **Het ISDE-bedrag hangt aan het typenummer**, staat in de apparatenlijst van de RVO en wordt ná installatie aangevraagd, binnen 24 maanden.
+- **Zonder saldering, vanaf 1 januari 2027, wordt de boiler als warmtebuffer waardevoller.** In ons model circa €95 per jaar extra, bij een gelabelde aanname voor de terugleververgoeding.
 
-**Ruimtevereisten:**
-De warmtepompboiler heeft luchtcirculatie nodig. Minimaal 5 m² vrije ruimte rondom het apparaat, of luchtkanaaltjes naar een grotere ruimte of buiten. In een kleine badkamer of kitchenette is plaatsing moeilijk; in een bijkeuken, garage of technische ruimte gaat het goed.
+Neem die vijf punten mee naar de offerte en vraag om het productblad en het typenummer. Dat is meer informatie dan de meeste kopers hebben — en het is precies wat je nodig hebt om twee offertes eerlijk naast elkaar te leggen.
 
-**Geluidsproductie:**
-Warmtepompboilers produceren 40–50 dB(A) tijdens werking — vergelijkbaar met een vaatwasser. In een aparte technische ruimte hoor je er niets van. Direct naast een slaapkamer is plaatsing niet aan te raden.
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk het ATAG-assortiment</a>
+
+*Deze link naar ATAG levert ons geen vergoeding op; wij hebben met ATAG geen affiliate- of commissierelatie.*
 
 ---
-
-## Conclusie: welke is de beste warmtepompboiler van 2026?
-
-Er is geen enkelvoudig "beste" model — het hangt af van jouw situatie. Maar het is wel concreet te maken:
-
-**Beste prijs-kwaliteitverhouding:** Bosch Compress 5000DW — COP 3,1, 5 jaar garantie, groot servicenetwerk, ISDE €1.050. Netto investering circa €850–€1.350 na subsidie en exclusief montage. Solide allrounder.
-
-**Beste technische prestaties:** Daikin EKHWP — COP 3,6, beste app, 5 jaar garantie. Kies dit model als je zonnepanelen hebt en optimaal wilt sturen.
-
-**Beste voor automatische PV-koppeling:** Itho Daalderop HP Cube — ingebouwde P1-koppeling maakt zonnestroom-sturing volledig automatisch.
-
-**Beste budget-keuze:** Inventum Ecolution Solo — laagste prijs, prima als je geen app-sturing of PV-koppeling nodig hebt.
-
-Voor het scenario uit de inleiding — bestaande cv-ketel, zonnepanelen, veel teruglevering — komt de Itho Daalderop HP Cube 200L er in ons model het beste uit, vooral vanwege de P1-koppeling en het Nederlandse servicenetwerk. Rekenvoorbeeld met de volgende aannames: €2.200 voor het apparaat, €550 montage, €1.100 ISDE, dus een netto investering van **€1.650**. Bij een besparing van €285 per jaar plus €90 PV-voordeel komt het model uit op een terugverdientijd van circa **4,4 jaar**.
-
----
-
-*Vragen over jouw specifieke situatie — welk model past bij jouw woning, zonnepanelen of huishoudgrootte? Laat een reactie achter.*
-
-
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
-
-
 
 ## Gerelateerde artikelen
 
-- [Zonneboiler vs warmtepompboiler 2026: welke levert meer op?](/posts/zonneboiler-vs-warmtepompboiler-2026/)
-- [Boiler of doorstroomgeiser: warmwater opties na het gas](/posts/boiler-vs-doorstroomgeiser-2026/)
+- [Zonneboiler vs. warmtepompboiler: welke levert meer op?](/posts/zonneboiler-vs-warmtepompboiler-2026/)
+- [Boiler of doorstroomgeiser: warmwateropties na het gas](/posts/boiler-vs-doorstroomgeiser-2026/)
 - [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
-- [Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken](/posts/beste-omvormer-zonnepanelen-2026/)
-- [Beste Zonnepanelen 2026: Top 5 Merken Vergeleken](/posts/beste-zonnepanelen-2026/)
+- [Beste omvormer voor zonnepanelen 2026](/posts/beste-omvormer-zonnepanelen-2026/)
+- [Beste zonnepanelen 2026: merken vergeleken](/posts/beste-zonnepanelen-2026/)

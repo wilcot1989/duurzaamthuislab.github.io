@@ -1,7 +1,7 @@
 ---
 title: 'Vloerverwarming en Warmtepomp: De Perfecte Combinatie (2026)'
 date: 2026-05-12 10:00:00+01:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: '2026-08-21 08:00:00+02:00'
 description: Waarom vloerverwarming en een warmtepomp de ideale combinatie zijn. Kosten, besparing, installatietips en wanneer het wel en niet rendabel is.
 categories:
 - warmtepompen
@@ -35,23 +35,23 @@ faq:
   a: Ja, vloerverwarming biedt een gelijkmatiger warmteverdeling (warm bij de voeten, koeler bij het hoofd — ideaal comfort). Er is minder luchtcirculatie, wat minder stof opwervelt en beter is voor mensen met allergieën. Radiatoren creëren meer temperatuurverschillen en luchtstromen.
 products:
 - name: Vaillant aroTHERM plus
-  url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/
-  price: '8000'
+  url: https://go.duurzaamthuislab.nl/vaillant
+  price: op aanvraag
 - name: Daikin Altherma 3
-  url: https://www.daikin.nl/nl_nl/producten.html
-  price: '9000'
+  url: https://go.duurzaamthuislab.nl/daikin
+  price: op aanvraag
 schema_type: Article
 ---
 Een warmtepomp haalt bij 35°C aanvoertemperatuur volgens de fabrieksspecificaties een COP rond de 4,5; bij 60°C — wat klassieke radiatoren vragen — zakt diezelfde pomp naar ongeveer 2,8. Dat is bijna 40 procent meer stroom voor dezelfde warmte. Wie een warmtepomp overweegt, moet daarom eerst naar het afgiftesysteem kijken: vloerverwarming is de investering die het rendement maakt of breekt.
 
-*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: de links naar Vaillant en Daikin in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en ontvangen voor deze verwijzingen geen vergoeding (stand augustus 2026). De bedragen in dit artikel zijn oriëntatiebedragen en modelberekeningen met aannames; wij hebben zelf geen installaties gemeten.*
 
-Zoek je een warmtepomp? Lees onze [top 5 hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) of de vergelijking [warmtepomp vs CV-ketel](/posts/warmtepomp-vs-cv-ketel-2026/).
+Zoek je een warmtepomp? Lees onze [vergelijking van hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) of de vergelijking [warmtepomp vs. cv-ketel](/posts/warmtepomp-vs-cv-ketel-2026/).
 
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+💡 *Wat de stop op de saldering per 1 januari 2027 voor jouw situatie betekent, staat in de [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
-> **Kort antwoord:** Waarom vloerverwarming en een warmtepomp de ideale combinatie zijn. Kosten, besparing, installatietips en wanneer het wel en niet rendabel is.
+> **Kort antwoord:** vloerverwarming verdient zichzelf bij een bestaande, redelijk geïsoleerde woning zelden terug op de energierekening alleen — het rendementsverschil met LT-radiatoren is klein. De echte argumenten zijn comfort en het feit dat je bij een verbouwing tóch de vloer open hebt. Ligt je vloer er goed in en verbouw je niet, dan zijn LT-radiatoren de verstandiger keuze.
 >
 > Vloerverwarming werkt op lage watertemperatuur (30-40°C) terwijl radiatoren 60-70°C nodig hebben. Een warmtepomp is het efficiëntst bij lage temperaturen: de COP stijgt van 2,5-3,0 (bij 60°C) naar 4,0-5,0 (bij 35°C). Dit betekent 30-50% lagere energiekosten.
 
@@ -63,12 +63,12 @@ De COP (Coefficient of Performance) van een warmtepomp geeft aan hoeveel warmte 
 
 | Watertemperatuur | COP warmtepomp | Verbruik voor 10 kWh warmte | Kosten* |
 |-----------------|---------------|----------------------------|---------|
-| **35°C (vloerverwarming)** | 4,5 | 2,2 kWh stroom | €0,55 |
-| **45°C (LT-radiatoren)** | 3,5 | 2,9 kWh stroom | €0,73 |
-| **55°C (standaard radiatoren)** | 2,8 | 3,6 kWh stroom | €0,90 |
-| **65°C (oude radiatoren)** | 2,2 | 4,5 kWh stroom | €1,13 |
+| **35°C (vloerverwarming)** | 4,5 | 2,2 kWh stroom | €0,57 |
+| **45°C (LT-radiatoren)** | 3,5 | 2,9 kWh stroom | €0,75 |
+| **55°C (standaard radiatoren)** | 2,8 | 3,6 kWh stroom | €0,94 |
+| **65°C (oude radiatoren)** | 2,2 | 4,5 kWh stroom | €1,17 |
 
-*Bij stroomprijs €0,25/kWh
+*Bij een all-in stroomprijs van €0,26/kWh — onze gelabelde aanname (EPEX-jaargemiddelde 2025 plus energiebelasting en een opslagaanname, alles inclusief btw). De COP-waarden zijn fabrieksopgaven bij gedefinieerde testcondities, geen metingen van ons.
 
 **Conclusie:** Vloerverwarming (35°C) kost **51% minder** aan energie dan verwarming via oude radiatoren (65°C) met dezelfde warmtepomp.
 
@@ -105,10 +105,14 @@ De COP (Coefficient of Performance) van een warmtepomp geeft aan hoeveel warmte 
 
 ### Totaalkosten: vloerverwarming + warmtepomp
 
-| Combinatie | Kosten | Na ISDE subsidie | Jaarlijkse besparing | Terugverdientijd |
-|-----------|--------|-----------------|---------------------|-----------------|
-| Vloerverwarming + hybride WP | €8.000-€13.000 | €5.000-€10.000 | €800-€1.200 | 5-9 jaar |
-| Vloerverwarming + full-electric WP | €12.000-€22.000 | €7.000-€17.000 | €1.000-€1.500 | 7-12 jaar |
+| Combinatie | Investering (oriëntatie) |
+|---|---|
+| Vloerverwarming + hybride warmtepomp | €8.000-€13.000 |
+| Vloerverwarming + volledig elektrische warmtepomp | €12.000-€22.000 |
+
+Op deze bedragen komt de ISDE voor het warmtepomptoestel nog in mindering. Wij noemen daar geen bedrag bij: dat hangt af van het typenummer van het toestel en staat in de apparatenlijst van de RVO. De aanvraag doe je ná installatie, binnen 24 maanden.
+
+Een jaarlijkse besparing en terugverdientijd zetten we hier bewust niet in de tabel. Die volgen uit je huidige verbruik, je isolatie en je contract — en zoals de modelberekening verderop laat zien, is het rendementsverschil tussen vloerverwarming en LT-radiatoren klein. Reken je eigen situatie door met de [warmtepomp-kostencalculator](/warmtepomp-kosten-berekenen/).
 
 ## Wanneer is het rendabel?
 
@@ -128,21 +132,21 @@ De COP (Coefficient of Performance) van een warmtepomp geeft aan hoeveel warmte 
 
 ## Hoeveel kWh bespaart vloerverwarming per jaar in de praktijk?
 
-Op die vraag past geen enkel getal, maar een rekenvoorbeeld maakt het concreet. Aannames: tussenwoning van 120 m², label B na renovatie, vloerverwarming op de begane grond en radiatoren op de verdieping, stroomprijs €0,23/kWh.
+Op die vraag past geen enkel getal, maar een **modelberekening met aannames** maakt het concreet. Aannames: tussenwoning van 120 m², label B na renovatie, vloerverwarming op de begane grond en radiatoren op de verdieping, all-in stroomprijs €0,26/kWh (gelabelde aanname).
 
 **Zonder vloerverwarming (alleen radiatoren, 52°C aanvoer):**
 - SCOP warmtepomp: 3,7
 - Jaarlijks stroomverbruik warmtepomp: 4.050 kWh
-- Kosten: 4.050 × €0,23 = €932
+- Kosten: 4.050 × €0,26 = €1.053
 
 **Met vloerverwarming (gecombineerd, gemiddeld 42°C aanvoer):**
 - SCOP warmtepomp: 4,1
 - Jaarlijks stroomverbruik: 3.850 kWh
-- Kosten: 3.850 × €0,23 = €886
+- Kosten: 3.850 × €0,26 = €1.001
 
-Verschil: **€46/jaar**. Op het eerste gezicht teleurstellend voor een investering van €3.360.
+Verschil: **circa €52 per jaar**. Op het eerste gezicht teleurstellend voor een investering van ruim €3.000.
 
-Maar dat is de directe energiebesparing op de warmtepomp. De bredere winst is: (a) het comfort van de begane grond is fundamenteel beter — egale warmte, geen tochtige radiatoren; (b) de woning haalt een beter energielabel (A+ in plaats van A), goed voor €8.000-€15.000 woningwaarde; (c) de warmtepomp heeft een langere levensduur door minder extreme temperatuurcycli.
+Maar dat is alleen de directe energiebesparing op de warmtepomp. Wat er verder tegenover staat: het comfort van de begane grond is wezenlijk anders — egale warmte, geen radiatoren die de ruimte-indeling bepalen — en de warmtepomp kan op een lagere, stabielere stooklijn draaien. Over een effect op het energielabel of de woningwaarde doen we hier geen uitspraak: dat stelt een geregistreerde energieadviseur per woning vast en het is niet in een vast bedrag uit te drukken.
 
 Kortom: reken vloerverwarming niet terug op de energierekening alleen. Wie de investering puur financieel beoordeelt, komt bij een bestaande, redelijk geïsoleerde woning bijna altijd op een te lange terugverdientijd. De comfortwinst en het effect op het energielabel zijn de argumenten die de doorslag geven.
 
@@ -206,25 +210,25 @@ De zonnepanelen wekken overdag stroom op die de warmtepomp aandrijft. Met een [d
 | Zonnepanelen + hybride WP + vloerverw. | €15.000-€22.000 | €9.000-€16.000 | 70-85% |
 | Zonnepanelen + full-electric WP + vloerverw. | €20.000-€32.000 | €14.000-€24.000 | 85-100% |
 
-## Praktijkvoorbeeld: de complete berekening voor een renovatiewoning
+## Modelberekening: een renovatiewoning compleet doorgerekend
 
-Rekenvoorbeeld met de volgende aannames: tussenwoning uit 1988 (label D, 115 m²) die ingrijpend gerenoveerd wordt, waarbij tegelijk vloerverwarming op de begane grond wordt gelegd en een Daikin Altherma 3 H/M 8 kW wordt geplaatst. Gasprijs €1,05/m³, stroomprijs €0,23/kWh.
+Een **modelberekening met aannames**, geen bestaande installatie. Aannames: tussenwoning uit 1988 (label D, 115 m²) die ingrijpend wordt gerenoveerd, waarbij tegelijk vloerverwarming op de begane grond wordt gelegd en een lucht-water warmtepomp van 8 kW wordt geplaatst. Gasprijs €1,10/m³ all-in en stroomprijs €0,26/kWh all-in (beide gelabelde aannames, inclusief btw).
 
 **De investering:**
 - Droog vloerverwarmingssysteem begane grond (48 m²): €3.360 (€70/m² inclusief installatie)
-- Daikin Altherma 3 H/M 8 kW: €9.800 (installatie inbegrepen)
-- ISDE-subsidie warmtepomp: –€3.700
-- Netto totaalinvestering: **€9.460**
+- Warmtepomp 8 kW inclusief installatie: €9.800
+- Bruto totaalinvestering: **€13.160**, waarop de ISDE voor het toestel nog in mindering komt (bedrag per typenummer via de RVO-apparatenlijst, aanvraag ná installatie)
 
 **Het energieverbruik na installatie:**
 - Begane grond (vloerverwarming, aanvoer 37°C): COP volgens fabrieksopgave circa 4,6
 - Eerste verdieping (bestaande radiatoren, aanvoer 52°C): COP volgens fabrieksopgave circa 3,7
-- Gemiddelde COP over het jaar: circa 4,1
+- Gewogen jaarrendement in dit model: circa 4,1
 - Jaarlijks stroomverbruik warmtepomp: 3.850 kWh
-- Jaarlijks stroomkosten: 3.850 × €0,23 = **€886**
-- Vorig gasverbruik: 2.100 m³/jaar = €2.205
-- Netto besparing: **€1.319/jaar**
-- Terugverdientijd: 9.460 / 1.319 = **7,2 jaar**
+- Jaarlijkse stroomkosten: 3.850 × €0,26 = **€1.001**
+- Vorig gasverbruik: 2.100 m³ × €1,10 = **€2.310**
+- Verschil in energiekosten in dit model: **circa €1.309 per jaar**
+
+Deel de netto investering — dus ná de ISDE voor jouw typenummer — door dat verschil en je hebt de terugverdientijd van dit model. Bij de bruto investering van €13.160 komt dat op ruim tien jaar; met een subsidiebedrag erop in mindering korter. Let op wat er niet in zit: onderhoud, de prijsontwikkeling van gas en stroom, en het feit dat een systeemrendement in de praktijk lager kan uitvallen dan de fabrieksopgave.
 
 In dit model had de investering lager gekund met alleen LT-radiatoren in plaats van vloerverwarming. Het verschil in energiekosten tussen die twee opties is klein; het verschil in comfort niet. Bij een open woonkamer met een groot vloeroppervlak is de warmteverdeling met radiatoren structureel ongelijkmatiger — dat is de reden dat veel huishoudens alsnog voor vloerverwarming kiezen.
 
@@ -248,13 +252,13 @@ Een droog systeem is ideaal voor bestaande houten balkenvloeren. Op een massieve
 
 ### 5. Geen zones aanleggen
 
-Wie de hele begane grond als één zone instelt, verwarmt altijd alle ruimten gelijk. In de praktijk wil je de keuken, hal en slaapkamers (als die op de begane grond liggen) op een andere temperatuur regelen dan de woonkamer. Zonering kost €150-€300 extra per zone maar bespaart op jaarbasis 8-12% op het energieverbruik van de vloerverwarming.
+Wie de hele begane grond als één zone instelt, verwarmt altijd alle ruimten gelijk. In de praktijk wil je de keuken, hal en slaapkamers (als die op de begane grond liggen) op een andere temperatuur regelen dan de woonkamer. Zonering kost grofweg €150-€300 extra per zone. Wat het oplevert, hangt af van hoeveel ruimten je daadwerkelijk lager stookt en hoe lang; een vast besparingspercentage is hier niet te geven.
 
 ## Installatie-specifieke aandachtspunten in Nederland
 
-### Bouwbesluit en drempelwaarden
+### Bouwregels en vloerhoogte
 
-Bij het leggen van vloerverwarming in bestaande bouw ontstaat een vloerhoogteverhoging. Bij natte systemen (7-8 cm opbouw) is dit een vergunningplichtige aanpassing in sommige woningen — met name bij monumenten of woningen met een specifiek bestemmingsplan. Check dit met je gemeente als je twijfelt.
+De bouwregelgeving heet sinds 1 januari 2024 het Besluit bouwwerken leefomgeving (Bbl); het Bouwbesluit bestaat niet meer. Voor vloerverwarming zelf is dat zelden het knelpunt — de opbouwhoogte is dat wel. Bij een nat systeem van 7 tot 8 centimeter veranderen de vrije hoogte, de traphoogte en de doorgangen onder deuren en drempels. Bij een beschermd monument of in een beschermd stads- of dorpsgezicht kan een aanpassing wél vergunningplichtig zijn; controleer dat via de vergunningcheck in het Omgevingsloket of bij je gemeente voordat je begint.
 
 ### Wachttijd dekvloer
 
@@ -262,7 +266,7 @@ Een natte anhydriet dekvloer heeft een droogtijd van 4-6 weken bij normale omsta
 
 ### Combinatie met bestaande radiatorgroepen
 
-Wie vloerverwarming op de begane grond combineert met bestaande radiatoren op de verdieping, heeft een menggroep nodig. De menggroep verlaagt de aanvoertemperatuur voor de vloerverwarming (35-40°C) terwijl de radiatoren op hogere temperatuur (50-55°C) kunnen werken. Kosten menggroep inclusief installatie: €400-€700. Dit is een verplicht onderdeel — zonder menggroep krijgen je vloerverwarming ofwel te warm water (brandhaar risico) of de radiatoren te koud water.
+Wie vloerverwarming op de begane grond combineert met bestaande radiatoren op de verdieping, heeft een menggroep nodig. De menggroep verlaagt de aanvoertemperatuur voor de vloerverwarming (35-40°C) terwijl de radiatoren op hogere temperatuur (50-55°C) kunnen werken. Kosten menggroep inclusief installatie: €400-€700. Dit is een verplicht onderdeel — zonder menggroep krijgen je vloerverwarming ofwel te warm water (risico op een te hoge vloertemperatuur) of de radiatoren te koud water.
 
 ## Onderhoud van vloerverwarming
 
@@ -272,24 +276,19 @@ Vloerverwarming heeft vergeleken met radiatoren nauwelijks onderhoud nodig. De l
 - **Waterbehandeling:** een correct waterbehandelingsmiddel in het verwarmingswater voorkomt corrosie en kalkafzetting. Controleer elk jaar bij het onderhoud van de warmtepomp of dit nog op peil is.
 - **Verdeler controleren:** de verdeler (het centrale verdeelstuk) heeft thermische actuatoren die per zone de doorstroming regelen. Deze actuatoren gaan 10-15 jaar mee en kosten €25-€40 per stuk om te vervangen.
 
-## ISDE voor vloerverwarming: wat is mogelijk?
+## ISDE en vloerverwarming: wat wel en niet kan
 
-Vloerverwarming als zelfstandige maatregel is niet subsidiabel via ISDE. De ISDE is bedoeld voor warmtepompen en isolatie.
+Vloerverwarming is **geen** subsidiabele maatregel binnen de ISDE. De regeling geeft een vast bedrag per warmtepomptoestel, gekoppeld aan het typenummer uit de apparatenlijst van de RVO, en daarnaast bedragen voor isolatiemaatregelen. Leidingwerk, dekvloeren, verdelers en menggroepen vallen daar niet onder — ook niet als ze op dezelfde factuur staan.
 
-Maar de combinatie pakt gunstig uit: de warmtepomp is wel subsidiabel (€2.700-€4.000), en de lagere aanvoertemperatuur die vloerverwarming mogelijk maakt, vergroot de SCOP en daarmee de jaarlijkse besparing. Indirect verdient de investering in vloerverwarming zichzelf daardoor sneller terug.
+Drie dingen die je moet weten:
 
-Bij Leon in het voorbeeld hierboven: zonder vloerverwarming zou de SCOP gemiddeld 3,7 zijn geweest (alleen radiatoren bij 52°C), in plaats van 4,1 (gecombineerd). Dat verschil van 0,4 SCOP betekent 3.850 kWh × (1/3,7 – 1/4,1) = 98 kWh/jaar minder stroomverbruik = €22,50/jaar extra besparing. Klein, maar over 15 jaar is dat €338.
+1. **Het bedrag voor jouw toestel** zoek je op in de apparatenlijst van de RVO. Wij noemen hier geen bedrag; dat verschilt per typenummer en capaciteit.
+2. **De aanvraag doe je ná de installatie**, binnen 24 maanden. Voor isolatiemaatregelen geldt: ná uitvoering, binnen 12 maanden.
+3. **Het indirecte effect is echt, maar klein.** Uit de modelberekening hierboven volgt hoe klein: het verschil tussen een gemiddeld systeemrendement van 3,7 (alleen radiatoren bij 52°C) en 4,1 (gecombineerd) is bij 3.850 kWh ongeveer 98 kWh per jaar, ofwel circa €25 bij €0,26/kWh. Over vijftien jaar iets minder dan €400. Dat is niet het argument voor vloerverwarming.
 
-## Subsidie voor vloerverwarming in combinatie met warmtepomp
+Wat wél in de afweging thuishoort, is de dimensionering van het toestel. Kun je door de lagere aanvoertemperatuur met een kleiner toestel toe, dan scheelt dat in de aanschafprijs. Laat je installateur beide varianten doorrekenen op basis van de warmteverliesberekening, in plaats van dit als vuistregel aan te nemen.
 
-Vloerverwarming als zelfstandige maatregel is niet subsidiabel via ISDE. Maar de combinatie pakt financieel goed uit:
-
-1. **ISDE voor de warmtepomp:** €2.700-€4.000 afhankelijk van model en vermogen
-2. **Indirect effect:** vloerverwarming verlaagt de benodigde aanvoertemperatuur, wat de SCOP verhoogt en de jaarlijkse energiekosten verlaagt — wat de terugverdientijd van de totale investering verkort
-
-Bij Leon uit het praktijkvoorbeeld: zonder vloerverwarming zou hij een grotere warmtepomp nodig hebben gehad (10 kW in plaats van 8 kW, vanwege hogere aanvoertemperatuur). De grotere pomp kost €1.500 meer — dat geld kun je ook in vloerverwarming steken. En dan heb je ook nog het comfort erbij.
-
-## Verlengde FAQ
+## Praktische aandachtspunten bij het gebruik
 
 **Kan ik vloerverwarming combineren met vloerkleden?**
 
@@ -311,30 +310,13 @@ Ja. Stel de thermostaat in op een lagere temperatuur dan je gewend bent (bijv. 1
 
 Bij een goede instelling niet. De slaapkamer instellen op 17-18°C en de warmte geleidelijk laten dalen in de nacht. Vloerverwarming met een slimme thermostaat per zone doet dit automatisch. Te hoge slaapkamertemperatuur (> 20°C) is inderdaad slecht voor de slaapkwaliteit — maar dat geldt voor elke verwarmingsvorm, niet specifiek voor vloerverwarming.
 
-## Subsidie en energielabel: het gecombineerde effect
+## Energielabel: wat er wel en niet over te zeggen valt
 
-Een vaak onderbelicht voordeel van de combinatie vloerverwarming + warmtepomp is het effect op het energielabel en daarmee op de woningwaarde.
+Isolatie en een warmtepomp kunnen samen meerdere labelstappen opleveren, en vloerverwarming draagt daar indirect aan bij doordat het systeemrendement stijgt. Hoeveel labelstappen dat in jouw woning zijn, stelt een geregistreerde energieadviseur vast op basis van de opname; dat is niet vooraf in te schatten.
 
-Een woning van label D die wordt voorzien van:
-- Spouwmuurisolatie (label D → C)
-- Dakisolatie (label C → B)
-- Full-electric warmtepomp (label B → A)
-- Vloerverwarming op begane grond (verlaagt benodigde aanvoertemperatuur, verbetert SCOP, draagt bij aan A+)
+Wat wij hier **niet** doen, is een woningwaardestijging per labelstap in euro's noemen. Dat soort bedragen circuleert veel, maar hangt af van woningtype, regio en marktmoment, en wij kunnen ze niet naar een controleerbare, gedateerde publicatie herleiden. Wie zijn verbouwing op zo'n bedrag baseert, rekent met een getal dat niemand kan garanderen.
 
-...kan uitkomen op label A of zelfs A+. Dat is een stijging van 5 labelstappen. Elke labelstap is goed voor circa €8.000-€15.000 woningwaarde (NVM 2025-data). Dat betekent een potentiële waardetoevoeging van €40.000-€75.000 voor een gemiddelde rijtjeswoning — naast de jaarlijkse energiebesparingen.
-
-De gecombineerde investering (isolatie + warmtepomp + vloerverwarming): €15.000-€25.000 netto na subsidie. De woningwaardestijging: €40.000-€75.000. Dat is een verhouding van 2:1 tot 3:1 in jouw voordeel — afgezien van de energiebesparing.
-
-## Conclusie
-
-Vloerverwarming + warmtepomp is de gouden combinatie voor maximaal comfort en minimaal energieverbruik. Als je toch gaat verbouwen of nieuw bouwt, is vloerverwarming een no-brainer. Bij bestaande bouw is het een grotere investering die zich in 5-12 jaar terugverdient.
-
-**Tip:** Begin met isolatie en een hybride warmtepomp op je bestaande radiatoren. Wanneer je later toch gaat verbouwen, leg dan vloerverwarming aan en schakel over naar full-electric.
-
-
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
-
-## Verlengde FAQ: praktische vragen over vloerverwarming en warmtepomp
+## Praktische vragen over de installatie
 
 **Hoe lang duurt het installeren van vloerverwarming?**
 
@@ -342,7 +324,7 @@ Een droog systeem op de begane grond (50 m²): 2-3 werkdagen voor de vloerverwar
 
 **Welke warmtepomp past het best bij vloerverwarming?**
 
-Elke full-electric lucht-water warmtepomp die 35-40°C aanvoer kan leveren is geschikt. In de praktijk: Daikin Altherma 3 H/M (SCOP 4,8 bij 35°C — uitstekend), Vaillant aroTHERM plus, Mitsubishi Ecodan. Bij hybride warmtepompen geldt hetzelfde — ze werken prima op vloerverwarming, maar de ketel springt er bij kouder weer toch bij, wat het efficiëntievoordeel gedeeltelijk compenseert.
+Elke volledig elektrische lucht-water warmtepomp die 35-40°C aanvoer kan leveren, is in principe geschikt. Kies niet op merknaam maar op de opgegeven SCOP **bij 35°C aanvoer** uit het officiële productblad — dat getal staat er voor elk toestel in en verschilt per model en capaciteit. Bij hybride warmtepompen geldt hetzelfde — ze werken prima op vloerverwarming, maar de ketel springt er bij kouder weer toch bij, wat het efficiëntievoordeel gedeeltelijk compenseert.
 
 **Kan ik vloerverwarming al installeren als ik de warmtepomp later pas wil aanschaffen?**
 
@@ -353,7 +335,13 @@ Ja. Je kunt vloerverwarming leggen met tijdelijk een menggroep die de aanvoertem
 Slaapkamers met vloerverwarming zijn comfortabel maar niet altijd zinvol. De meeste mensen slapen goed bij een lager gestookte slaapkamer (17-18°C), waarvoor je minder dan 30 W/m² warmtevermogen nodig hebt — dat halen zelfs LT-radiatoren zonder extra kosten. Op de begane grond, waar je veel tijd doorbrengt op blote voeten, is het effect het meest merkbaar. Bij een verbouwing op de verdieping: leg de infrastructuur wel aan (leidingen, verdeler), maar de kosten zijn dan laag — later beslissen of je het activeert.
 
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
+## Conclusie
+
+Vloerverwarming en een warmtepomp passen technisch uitstekend bij elkaar: een lagere aanvoertemperatuur betekent een hoger rendement, en dat verband is hard. De financiële conclusie is nuchterder dan de techniek suggereert.
+
+- **Ga je toch verbouwen of bouw je nieuw?** Dan is vloerverwarming een logische keuze: de vloer is open, de meerkosten zijn beperkt en het comfortverschil is groot.
+- **Ligt je vloer er goed in?** Dan is de energiebesparing ten opzichte van LT-radiatoren klein — in onze modelberekening enkele tientallen euro's per jaar. Kies dan LT-radiatoren in de vertrekken die achterblijven, zoals uitgewerkt in [radiatoren vervangen voor een warmtepomp](/posts/radiatoren-vervangen-warmtepomp-2026/).
+- **Beperkt budget?** Begin met isolatie en een hybride warmtepomp op je bestaande radiatoren, en houd vloerverwarming aan voor het moment dat de vloer er toch uit gaat.
 
 ## Lees ook
 
@@ -362,10 +350,6 @@ Slaapkamers met vloerverwarming zijn comfortabel maar niet altijd zinvol. De mee
 - **[ISDE Subsidie 2026](/posts/isde-subsidie-warmtepompen-2026/)** — Subsidie voor warmtepompen
 - **[Energielabel Verbeteren](/posts/energielabel-verbeteren-stappenplan-2026/)** — Isoleer eerst, verwarm daarna
 - **[Dynamische Energiecontracten 2026](/posts/dynamische-energiecontracten-vergelijking-2026/)** — Slim verwarmen
-
----
-
-*Laatst bijgewerkt: mei 2026.*
 
 ---
 

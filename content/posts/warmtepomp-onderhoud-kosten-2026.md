@@ -1,8 +1,8 @@
 ---
 title: 'Warmtepomp Onderhoud 2026: Wat Moet Wanneer en Wat Kost Het?'
 date: 2026-06-13 09:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Welk onderhoud heeft een warmtepomp jaarlijks nodig, wat kost het 5-jaarlijkse onderhoud.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Welk onderhoud een warmtepomp echt nodig heeft, wat een jaarbeurt en de grote beurt kosten, en welke merken hun onderhoudsprijs publiceren.'
 categories:
 - warmtepompen
 tags:
@@ -25,7 +25,7 @@ faq:
 - q: Hoe vaak moet een warmtepomp onderhoud hebben?
   a: Een warmtepomp heeft jaarlijks een basiscontrole nodig (filters, kondensaat, druk) en elke 3-5 jaar een uitgebreid service-beurt inclusief controle van het koudemiddel, de elektrische aansluitingen en het verwarmingssysteem. Raadpleeg altijd de handleiding van jouw model.
 - q: Wat kost het jaarlijkse onderhoud van een warmtepomp?
-  a: 'Een jaarlijkse onderhoudsbeurt kost gemiddeld €150-€350 bij een erkend installateur. Fabrikant-eigen contracten zijn er ook: Vaillant publiceert voor zijn Vaillant Care-pakketten €181,50 tot €347,27 per jaar inclusief btw bij tweejaarlijks onderhoud (prijspeil augustus 2026). Daikin, Feenstra en ATAG publiceren geen vaste prijs voor warmtepomponderhoud en werken met een aanbod op basis van jouw installatie.'
+  a: 'Zonder contract is €120-€200 per beurt een reëel oriëntatiebedrag; een onderhoudscontract loopt van circa €150 tot €350 per jaar, afhankelijk van de dekking. Fabrikant-eigen contracten zijn er ook: Vaillant publiceert voor zijn Vaillant Care-pakketten €181,50 tot €347,27 per jaar inclusief btw bij tweejaarlijks onderhoud (prijspeil augustus 2026). Daikin, Feenstra en ATAG publiceren geen vaste prijs voor warmtepomponderhoud en werken met een aanbod op basis van jouw installatie.'
 - q: Wat kost het 5-jaarlijkse onderhoud van een warmtepomp?
   a: Een uitgebreide 5-jaarlijkse beurt kost doorgaans €350-€700, afhankelijk van het merk, de omvang van het systeem en eventueel te vervangen onderdelen. Het vervangen van het koudemiddel (R32 of R410A) valt onder een gecertificeerde monteur en kost €150-€400 extra.
 - q: Kan ik warmtepomp-onderhoud zelf doen?
@@ -35,7 +35,7 @@ faq:
 - q: Moet ik een servicecontract afsluiten voor mijn warmtepomp?
   a: 'Dat hangt af van je situatie. Een servicecontract biedt zekerheid en predictable kosten, maar is niet altijd de goedkoopste optie. Reken het uit: als de jaarlijkse onderhoudskosten zonder contract vergelijkbaar zijn met het contract, is het contract handig vanwege de garantie op responstijd.'
 - q: Wat is het verschil in onderhoud tussen een hybride en een volledige warmtepomp?
-  a: Een hybride warmtepomp (combinatie met cv-ketel) heeft onderhoud nodig voor zowel de warmtepomp als de ketel. De ketel vraagt jaarlijks een APK-keuring (wettelijk verplicht voor cv-ketels). Dat maakt het onderhoud iets duurder dan bij een volledige warmtepomp alleen.
+  a: 'Een hybride warmtepomp (combinatie met cv-ketel) vraagt onderhoud aan twee toestellen: de warmtepomp én de ketel. Er bestaat géén wettelijke keuringsplicht voor cv-ketels in woningen — een verplichte jaarlijkse APK bestaat niet. Wél geldt dat werkzaamheden aan gasgestookte toestellen alleen mogen worden uitgevoerd door een bedrijf met een CO-certificering. Fabrikanten schrijven zelf een onderhoudsinterval voor; dat is wat je garantie in stand houdt.'
 - q: Hoe herken ik dat mijn warmtepomp storing heeft?
   a: 'Signalen zijn: foutcodes op het display, hoorbare trillingen of piepen die er normaal niet zijn, hogere energierekening zonder duidelijke reden, onvoldoende warmte in huis ondanks dat het systeem draait, of tapwater dat minder warm is dan normaal.'
 products:
@@ -46,20 +46,22 @@ schema_type: Article
 ---
 Een warmtepomp vraagt in de eerste jaren vrijwel geen aandacht — en juist daar gaat het mis. De meest voorkomende oorzaak van een onnodig servicebezoek is een gedaalde waterdruk in het leidingnet: iets wat je zelf kunt bijvullen, maar wat zonder kennis van de procedure een bezoek van €150 tot €200 kost.
 
-Onderhoud van een warmtepomp is niet ingewikkeld, maar je moet weten wat je wanneer moet doen — en wat het kost. Dit artikel zet dat op een rij, op basis van de onderhoudsvoorschriften van de fabrikanten en de tarieven die installateurs en fabrikanten voor 2026 publiceren.
+Onderhoud van een warmtepomp is niet ingewikkeld, maar je moet weten wat je wanneer moet doen — en wat het kost. Dit artikel zet dat op een rij op basis van de onderhoudsvoorschriften en de prijsopgaven die fabrikanten en serviceverleners zelf publiceren. Waar een partij geen prijs publiceert, staat dat er zo. Wij hebben zelf geen installaties gemeten of getest.
 
-*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie en ontvangen voor deze verwijzingen geen vergoeding (stand augustus 2026).*
 
 ---
 
 
-> **Kort antwoord:** Welk onderhoud heeft een warmtepomp jaarlijks nodig, wat kost het 5-jaarlijkse onderhoud.
+> **Kort antwoord:** reken op een jaarlijkse basiscontrole en om de drie tot vijf jaar een uitgebreide beurt. Zonder contract kost een jaarbeurt doorgaans €120-€200; een onderhoudscontract loopt van circa €150 tot €350 per jaar, afhankelijk van wat er gedekt is. Voor de grote beurt is €350-€700 een reële bandbreedte.
+>
+> Van de grote merken publiceert alleen Vaillant een compleet prijslijstje (Vaillant Care: €181,50 tot €347,27 per jaar inclusief btw bij tweejaarlijks onderhoud, prijspeil augustus 2026). Daikin, Feenstra, ATAG en Itho Daalderop werken met een aanbod op maat. Let bij het vergelijken op het aantal beurten, de dekking van onderdelen en of de F-gassencontrole erin zit.
 >
 > Een warmtepomp heeft jaarlijks een basiscontrole nodig (filters, kondensaat, druk) en elke 3-5 jaar een uitgebreid service-beurt inclusief controle van het koudemiddel, de elektrische aansluitingen en het verwarmingssysteem. Raadpleeg altijd de handleiding van jouw model.
 
 ## Waarom warmtepomp-onderhoud anders is dan cv-ketelonderhoud
 
-Een cv-ketel brandt gas. Verbrandingsgassen moeten worden afgevoerd. De ketel heeft een CO-risico. Onderhoud is verplicht voor veiligheid en mag alleen door een erkend installateur worden uitgevoerd.
+Een cv-ketel brandt gas. Verbrandingsgassen moeten worden afgevoerd en er is een koolmonoxiderisico. Onderhoud aan een gasgestookt toestel mag daarom alleen worden uitgevoerd door een bedrijf met een CO-certificering — maar let op: dat is een eis aan de uitvoerder, geen wettelijke plicht om de ketel jaarlijks te laten keuren. Verderop in dit artikel staat wat er precies wel en niet verplicht is.
 
 Een warmtepomp werkt op elektriciteit en koudemiddel. Er is geen verbrandingsrisico. Maar het systeem heeft wél kwetsbare onderdelen:
 
@@ -124,18 +126,18 @@ Een goede installateur geeft je na elke beurt een rapportje: gemeten COP, waterd
 
 ---
 
-## Kosten servicebeurt per leverancier (2026)
+## Wat kost een servicebeurt? De bandbreedtes
 
-Onderstaande bedragen zijn de tarieven die installateurs en fabrikanten voor 2026 publiceren voor onderhoud aan lucht-water warmtepompen:
+Er bestaat voor warmtepomponderhoud geen landelijk tarievenoverzicht. Onderstaande bandbreedtes zijn daarom **oriëntatiegetallen** om offertes tegen te houden, niet gemeten marktgemiddelden. De enige harde, gepubliceerde prijzen in dit artikel staan in de Vaillant-paragraaf verderop.
 
-| Type onderhoud | Kosten |
-|---------------|--------|
-| Jaarlijkse servicebeurt zonder contract | €120-200 |
-| Onderhoudscontract basis (1×/jaar) | €150-250/jaar |
-| Onderhoudscontract inclusief storingsdienst | €200-350/jaar |
-| Keuring bij aankoop tweedehands woning | €175-300 |
+| Type onderhoud | Oriëntatiebedrag |
+|---|---|
+| Jaarlijkse servicebeurt zonder contract | €120-€200 |
+| Onderhoudscontract, alleen preventief onderhoud | €150-€250 per jaar |
+| Onderhoudscontract inclusief storingsdienst en dekking | €200-€350 per jaar |
+| Eenmalige inspectie bij aankoop van een woning | €175-€300 |
 
-Onafhankelijke installateurs zitten soms goedkoper (€130-170/jaar), maar controleer of ze gecertificeerd zijn voor jouw merk. Een Nibe-pomp laten onderhouden door een technicus die Daikin gewend is gaat soms fout bij software-updates en koudemiddelstanden.
+Vraag altijd twee offertes op en controleer of het bedrijf voor jouw merk gecertificeerd is. Dat laatste is niet vrijblijvend: fabrikanten koppelen garantie aan onderhoud door een erkende partij, en software- en koudemiddelprocedures verschillen per merk.
 
 Wat de fabrikanten en grote serviceverleners zélf aanbieden, verschilt sterk — en niet iedereen publiceert er een prijs bij. Dat zetten we hieronder per merk op een rij, uitsluitend op basis van wat er op hun eigen sites staat.
 
@@ -165,7 +167,7 @@ Vaillant is de enige partij in dit rijtje die de prijzen voor warmtepomponderhou
 
 *Opgave Vaillant Nederland, prijspeil augustus 2026. Smart Care en Complete Care vereisen een Vaillant-gateway met een stabiele internetverbinding; Essential Care niet. Essential Care is af te sluiten tot 15 jaar na installatie, Smart en Complete tot 10 jaar.*
 
-Twee dingen om te wegen bij deze prijzen. Ten eerste is het onderhoud **tweejaarlijks**, dus je betaalt een jaarbedrag voor gemiddeld een halve beurt per jaar — de rest van het bedrag is dekking en beschikbaarheid. Ten tweede is het verschil tussen Essential en Complete circa €166 per jaar: dat is de premie die je betaalt om onderdelen en arbeid niet apart te hoeven afrekenen. Vaillant rekent buiten contract een uurtarief van €137,34 inclusief btw plus €114,35 voorrijkosten, dus één reparatiebezoek met wat onderdelen kan die premie al benaderen.
+Twee dingen om te wegen bij deze prijzen. Ten eerste is het onderhoud **tweejaarlijks**, dus je betaalt een jaarbedrag voor gemiddeld een halve beurt per jaar — de rest van het bedrag is dekking en beschikbaarheid. Ten tweede is het verschil tussen Essential en Complete circa €166 per jaar: dat is de premie die je betaalt om onderdelen en arbeid niet apart te hoeven afrekenen. Vaillant rekent buiten contract een uurtarief van €137,34 inclusief btw plus €114,35 voorrijkosten (opgave Vaillant Nederland, prijspeil augustus 2026), dus één reparatiebezoek met wat onderdelen kan die premie al benaderen.
 
 ### Daikin — via de installateur, en anders via Stand By Me
 
@@ -183,7 +185,7 @@ Er staat dus geen kant-en-klaar maandbedrag voor warmtepompen op de site; je kri
 
 Bij ATAG lopen twee dingen door elkaar die je goed moet scheiden. ATAG Verwarming (de fabrikant) adviseert onderhoud aan een warmtepomp "na het eerste bedrijfsjaar en vervolgens om het jaar", en stelt dat de onderhoudskosten van een warmtepomp vergelijkbaar zijn met die van een cv-ketel. Een onderhoudsabonnement voor warmtepompen met een gepubliceerde prijs is er niet; ATAG werkt met een aanvraagformulier voor een onderhoudsabonnement en met een dealernetwerk voor de uitvoering.
 
-ATAGwarmte, de servicetak, publiceert wél een all-in serviceabonnement — maar dat is er voor **cv-ketels**: €99 voor de technische opname bij de start en daarna €15,60 per maand, met een onderhoudsbeurt elke twee jaar. Reken dat bedrag dus niet één-op-één door naar een warmtepomp; vraag om een aanbod voor jouw toestel.
+ATAGwarmte, de servicetak, publiceert wél een all-in serviceabonnement — maar dat is er voor **cv-ketels**: €99 voor de technische opname bij de start en daarna €15,60 per maand, met een onderhoudsbeurt elke twee jaar (opgave ATAGwarmte, opgehaald augustus 2026). Reken dat bedrag dus niet één-op-één door naar een warmtepomp; vraag om een aanbod voor jouw toestel.
 
 ### Itho Daalderop — geen eigen abonnement, wel een servicenetwerk
 
@@ -226,37 +228,29 @@ In een verwarmingssysteem accumuleert lucht. Na 5 jaar: volledig ontluchten via 
 
 ---
 
-## Wat kost een warmtepomp in totaal over 15 jaar?
+## Wat kost het onderhoud over 15 jaar? (modelberekening)
 
-Een eerlijk totaalplaatje is belangrijk, want de onderhoudskosten worden bij de investeringsbeslissing vaak vergeten.
+De onderhoudskosten worden bij de investeringsbeslissing vaak vergeten. Onderstaande opstelling is een **modelberekening met aannames**, geen meting en geen gemiddelde uit een onderzoek. De aannames staan er expliciet bij, zodat je ze met je eigen offerte kunt vervangen.
 
-**Aanschaf + installatie:**
-- Hybride warmtepomp: €5.000-8.000 na ISDE-subsidie
-- All-electric: €6.000-10.000 na ISDE-subsidie
+| Post over 15 jaar | Aanname | Bedrag |
+|---|---|---|
+| Jaarlijks onderhoud | €200 per jaar (midden van de bandbreedte hierboven) | €3.000 |
+| Grote beurt, 2× | €500 per beurt | €1.000 |
+| Kleine reparaties buiten garantie | totaalpost, geen frequentie bekend | ± €500 |
+| **Totaal onderhoud in 15 jaar** | | **± €4.500** |
 
-**Jaarlijks onderhoud (15 jaar):**
-- Gemiddeld €200/jaar × 15 = **€3.000**
+Voor de vergelijking: een cv-ketel vraagt ook onderhoud, en de ketel zelf gaat doorgaans 12 tot 15 jaar mee. Vraag voor die bedragen een actuele opgave bij je installateur — wij nemen hier geen landelijke gemiddelden over die we niet in een gedateerde bron kunnen aanwijzen.
 
-**Groot onderhoud (5-jaarlijks, 2× in 15 jaar):**
-- Gemiddeld €500 × 2 = **€1.000**
+Over de energiebesparing doen we in dit artikel geen uitspraak in euro's: die hangt af van je isolatie, je afgiftesysteem, je systeemrendement en je contractvorm. Wat een warmtepomp bij jouw woning oplevert, reken je narekenbaar door in onze [warmtepomp-kostencalculator](/warmtepomp-kosten-berekenen/).
 
-**Reparaties (statistische verwachting):**
-- Kleine reparaties: ca. €500 over 15 jaar
-- Grote reparatie (pomp, sensor): €300-800 statistische kans
-- Compressorwissel na 15 jaar: optioneel, reden om te vervangen
-
-**Totaal onderhoudskosten in 15 jaar:** ca. **€4.500-5.500**
-
-Dat klinkt als veel, maar een cv-ketel heeft ook onderhoud (€100-150/jaar), en de cv-ketel zelf moet na 12-15 jaar ook worden vervangen (€2.500-4.000).
-
-De warmtepomp wint op energiebesparing: bij een goed systeem en redelijke isolatie bespaar je €600-1.200/jaar ten opzichte van een cv-ketel op gas. Over 15 jaar: €9.000-18.000 besparing.
+De ISDE laten we hier bewust buiten de berekening. Het subsidiebedrag hangt af van het typenummer van het toestel; dat zoek je op in de apparatenlijst van de RVO. De aanvraag doe je **ná** installatie, binnen 24 maanden.
 
 ---
 
 ## Veelgemaakte fouten in warmtepomp-onderhoud
 
 **Fout 1: Niks doen tot het stuk gaat**
-Dit gaat vaak mis: de installateur zegt "weinig onderhoud nodig" en de eigenaar leest dat als "geen onderhoud nodig". Een COP-verlies van 0,5 kost je bij een systeem van 5.000 kWh/jaar verbruik zo'n €150-200 extra per jaar.
+Dit gaat vaak mis: de installateur zegt "weinig onderhoud nodig" en de eigenaar leest dat als "geen onderhoud nodig". Wat een rendementsverlies kost, is narekenbaar. **Modelberekening met aannames:** een woning met 10.000 kWh warmtevraag en een systeemrendement van 3,5 gebruikt 2.857 kWh stroom; zakt het rendement naar 3,0, dan is dat 3.333 kWh. Dat is 476 kWh extra, à €0,26 per kWh all-in ongeveer **€124 per jaar**. Het stroomtarief van €0,26 is onze gelabelde aanname (EPEX-jaargemiddelde 2025 plus energiebelasting en een opslagaanname, alles inclusief btw); vul je eigen tarief in en het bedrag schuift mee.
 
 **Fout 2: Buitenunit dichtzetten in winter**
 Sommige mensen dekken de buitenunit af met een kap als hij niet draait. Slecht idee: de warmtepomp kan toch aanspringen voor ontdooicycli, en een afgedekte unit kan overblazen of corroderen.
@@ -307,7 +301,7 @@ Print dit uit en hang het bij je warmtepomp:
 
 Een warmtepomp is een investering van €6.000-12.000. Onderhoud van €200/jaar is 1,5-3% van die investering. Voor een auto zou je dat normaal vinden. Voor een warmtepomp ook.
 
-Het verschil met een auto: goed onderhoud kan bij een warmtepomp een COP-verlies van 0,5 voorkomen, wat jaarlijks €100-200 oplevert. Dat maakt onderhoud niet alleen preventief, maar ook renderend.
+Het verschil met een auto: bij een warmtepomp voorkom je met onderhoud vooral een sluipend rendementsverlies. Uit de modelberekening eerder in dit artikel volgt dat een half punt systeemrendement bij een gemiddelde warmtevraag rond de €125 per jaar kost. Daarmee is een deel van de onderhoudsbeurt terugverdiend voordat je aan storingen begint te denken.
 
 Plan je jaarlijkse servicebeurt in het voorjaar of de zomer — dan is de installateur minder druk dan in de herfst. En je hebt de garantie dat de pomp klaar is voor het verwarmingsseizoen.
 
@@ -371,22 +365,21 @@ Er zijn situaties waarbij je rustig kunt wachten tot de volgende geplande beurt,
 
 ---
 
-## ATAG warmtepompen: wat is bijzonder aan dit merk?
+## Onderhoud en merkkeuze: waar het op vastloopt
 
-ATAG scoort in gebruikersreviews structureel goed op service en bereikbaarheid. Het is een Nederlands merk met een lange geschiedenis in verwarmingstechniek — ze begonnen als cv-ketelmaker en zijn relatief recent actief in warmtepompen.
+De merkkeuze heeft meer met onderhoud te maken dan mensen verwachten. Drie punten die je vóór de opdracht helder wilt hebben, ongeacht welk merk je overweegt:
 
-**Sterkste punten:**
-- Goed Nederlands installateurnetwerk (geen maandenlange wachttijden zoals bij sommige andere merken)
-- Nederlandse klantenservice (echte mensen, bereikbaar)
-- De iS en J Series zijn speciaal afgestemd op de Nederlandse markt: hoge COP bij lage buitentemperaturen (relevant gezien onze winters)
-- Betrouwbare app-monitoring via het ATAG-platform
+**1. Wie mag het toestel onderhouden zonder dat de garantie sneuvelt?** Bij de meeste fabrikanten is dat een gecertificeerde installateur of dealer van dat merk. Vraag hoeveel van die bedrijven er in jouw regio zijn — dat bepaalt je onderhandelingspositie bij het contract én je wachttijd bij een storing.
 
-**Aandachtspunten:**
-- Minder bekend dan Daikin of Vaillant in het hogere segment
-- Onderhoud vereist een ATAG-gecertificeerde installateur voor garantiebehoud
-- De buitenunits zijn aan de grotere kant — niet altijd geschikt voor krappe tuinen
+**2. Wat schrijft de fabrikant precies voor?** De intervallen verschillen: jaarlijks, na het eerste bedrijfsjaar en daarna om het jaar, of volgens de handleiding van het specifieke toestel. Dat interval is bepalend voor je jaarkosten, en het staat in het onderhoudsvoorschrift bij het toestel — niet in de brochure.
 
-Voor onderhoud en service via ATAG: [bekijk het ATAG-serviceaanbod](https://go.duurzaamthuislab.nl/atag).
+**3. Is er onderhoud op afstand mogelijk?** Toestellen met een netwerkverbinding laten een servicebedrijf een storing vaak eerst op afstand inschatten. Dat scheelt voorrijkosten, maar vraag na of die dienst inbegrepen is of apart wordt gefactureerd.
+
+Wat wij hier niet doen, is merken tegen elkaar wegzetten op servicekwaliteit. Daar bestaat geen publieke, controleerbare meting van; wat er circuleert zijn reviewscores op platformen met zelfselectie. Voor één merk in detail hebben we een aparte review: [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/).
+
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk het ATAG-assortiment</a>
+
+*Deze link naar ATAG levert ons geen vergoeding op; wij hebben met ATAG geen affiliate- of commissierelatie.*
 
 ---
 
@@ -430,7 +423,7 @@ Zet dit in je agenda:
 - Verwarmingscircuit volledig ontluchten
 - Overweeg omvormer/regelaar update als technologie is verbeterd
 
-Met dit schema haal je het maximale uit je warmtepomp — zowel in efficiëntie als in levensduur. En als je op zoek bent naar een betrouwbare warmtepomp met goed serviceaanbod: [bekijk de ATAG-modellen via deze link](https://go.duurzaamthuislab.nl/atag).
+Met dit schema haal je het maximale uit je warmtepomp — zowel in efficiëntie als in levensduur. Leg de uitgevoerde punten met datum vast; dat is bij een garantieclaim of bij verkoop van de woning je enige bewijs.
 
 ---
 
@@ -438,18 +431,19 @@ Met dit schema haal je het maximale uit je warmtepomp — zowel in efficiëntie 
 
 Bij een hybride warmtepomp (warmtepomp + cv-ketel als back-up) zijn er twee systemen die onderhoud vragen. Dat is duurder dan een all-electric warmtepomp, maar de hybride heeft een belangrijk voordeel: de ketel neemt het over als het buiten extreem koud is.
 
-### Jaarlijkse ketelkeuring (wettelijk verplicht)
+### Ketelonderhoud: geen keuringsplicht, wél een certificeringsplicht
 
-De cv-ketel in een hybride systeem valt onder de normale onderhoudsplicht voor cv-ketels. In Nederland is jaarlijkse onderhoud verplicht voor cv-ketels op grond van de wetgeving milieubeheer. Dat betekent:
+Hier gaat veel voorlichting de mist in, dus expliciet: **er bestaat in Nederland geen wettelijke verplichting om je cv-ketel jaarlijks te laten keuren.** Een "APK voor de cv-ketel" bestaat niet, en er staat geen boete op het overslaan van een onderhoudsbeurt.
 
-- Een erkend installateur controleert de verbranding, CO-emissie en veiligheidsklep
-- Kosten: €80-€150 per beurt
-- Je ontvangt een sticker op de ketel als bewijs
+Wat er wél geldt:
 
-Verwaarloosde ketelonderhoud kan leiden tot:
-- Hogere CO-emissies (onzichtbaar en gevaarlijk)
-- Vervallen van je verzekeringsdekking bij een incident
-- Boetes bij controle van de gemeente (zeldzaam, maar mogelijk)
+- **Werkzaamheden aan gasgestookte toestellen mogen alleen door een gecertificeerd bedrijf worden uitgevoerd.** Sinds de invoering van het wettelijk stelsel voor koolmonoxide moet een bedrijf dat installatie-, onderhouds- of ombouwwerk aan een gasketel doet daarvoor gecertificeerd zijn. Controleer dat vóór je een opdracht geeft; het register is openbaar.
+- **De fabrikant schrijft zelf een onderhoudsinterval voor.** Houd je je daar niet aan, dan kan dat je fabrieksgarantie raken. Dat is een contractuele consequentie, geen wettelijke.
+- **Je verzekeraar kan voorwaarden stellen.** Of dat zo is, staat in jouw polis. Ga er niet op voorhand van uit — lees het na of vraag het schriftelijk na.
+
+Een onderhoudsbeurt aan een cv-ketel kost bij de meeste installateurs iets minder dan een warmtepompbeurt; vraag een actueel tarief op, want dit verschilt sterk per regio en per bedrijf.
+
+De inhoudelijke reden om het toch te doen, blijft staan: bij een slecht onderhouden gastoestel is koolmonoxide een reëel risico, en dat is niet te ruiken of te zien.
 
 ### Afstemming warmtepomp en ketel
 
@@ -470,13 +464,11 @@ Als je zowel een warmtepomp als zonnepanelen hebt, is het slim om die te combine
 
 Stel de warmtepomp in om overdag meer te verwarmen als de zonnepanelen produceren. De warmte wordt opgeslagen in de thermische massa van het huis of in een boilervat. 's Avonds hoeft de warmtepomp minder hard te werken — de warmte is er al.
 
-Dit heet **PV-monitoring** of **Solar-Priority-mode** en wordt ondersteund door:
-- Huawei ATAG via koppeling met Huawei FusionSolar
-- Nibe via Nibe Uplink
-- Vaillant via VaillantSense
-- ATAG via ATAG One-thermostaat (beperkte PV-koppeling)
+Deze functie heet bij de ene fabrikant PV-optimalisatie en bij de andere iets als solar-prioriteit. Of jouw combinatie het kan, hangt af van drie dingen: of de warmtepompregelaar een ingang of API voor een PV-signaal heeft, of je omvormer dat signaal kan afgeven, en of het merk de koppeling voor jouw specifieke model vrijgeeft. Wij noemen hier geen merkspecifieke platformnamen: die veranderen tussen productgeneraties en een verkeerde naam kost je een vergeefse serviceafspraak.
 
-Bij ATAG vraag je je installateur om de PV-koppeling te activeren als die beschikbaar is voor jouw model. Dat kan de COP over het jaar met 5-15% verhogen.
+Vraag het daarom concreet uit bij je installateur: is er voor mijn toestel en mijn omvormer een PV-koppeling beschikbaar, en wat kost het activeren ervan?
+
+Wat het oplevert, hangt volledig af van de opstelling — hoeveel warmte je woning kan bufferen, hoe groot je PV-installatie is en hoe je contract in elkaar zit. Een percentage noemen zonder die gegevens zou een getal zijn zonder betekenis. Wél belangrijk om te weten: vanaf 1 januari 2027 stopt de salderingsregeling volledig, en daarmee wordt eigen verbruik van je eigen zonnestroom meer waard. Dat maakt deze koppeling relevanter dan hij tot nu toe was.
 
 ---
 
@@ -501,40 +493,27 @@ Warmtepompen produceren warm water op 45-55°C — lager dan een cv-ketel. Bij d
 
 ---
 
-## De totale eigendomskosten van een warmtepomp in perspectief
+## Onderhoud meewegen in de investeringsbeslissing
 
-Laten we alles bij elkaar optellen: aanschaf, installatie, exploitatie, onderhoud en de verwachte besparing op energiekosten.
+Wat onderhoud met de terugverdientijd doet, is eenvoudiger te zien dan een compleet TCO-plaatje suggereert: het is een vaste jaarlast die van je jaarlijkse besparing af gaat.
 
-**Voorbeeldberekening: all-electric warmtepomp, 10 kW, 25 jaar levensduur**
+Met de bandbreedtes uit dit artikel — €150 tot €350 per jaar voor een contract, plus twee tot drie grote beurten in de levensduur — komt het onderhoud neer op ruwweg €250 tot €400 per jaar over de hele periode. Dat is het bedrag dat je in een terugverdientijdberekening bij de exploitatiekosten moet optellen. Laat je het weg, dan valt je terugverdientijd een aantal jaren te gunstig uit.
 
-| Post | Kosten/opbrengst |
-|------|-----------------|
-| Aanschaf + installatie | €10.000 |
-| ISDE-subsidie | -€2.000 |
-| **Netto investering** | **€8.000** |
-| Jaarlijks onderhoud (25 jaar) | €200 × 25 = €5.000 |
-| Groot onderhoud (5×) | €500 × 5 = €2.500 |
-| Compressorvervanging (eenmaal, jaar 15) | €2.000 |
-| **Totale kosten 25 jaar** | **€17.500** |
-| Jaarlijkse besparing op gas | €900 (gemiddeld) |
-| **Totale besparing 25 jaar** | **€22.500** |
-| **Netto voordeel over 25 jaar** | **+€5.000** |
+Twee dingen die wij bewust **niet** in een totaaltabel zetten:
 
-Dat is een bescheiden maar positief resultaat — en dan is er nog de meerwaarde van comfort (gelijkmatigere warmte, minder tocht), lagere CO₂-uitstoot en de stijging van de WOZ-waarde bij een hoger energielabel.
+- **Het ISDE-bedrag.** Dat hangt af van het typenummer van het toestel; je zoekt het op in de apparatenlijst van de RVO en vraagt de subsidie ná installatie aan, binnen 24 maanden. Een vast bedrag noemen zou voor de meeste lezers het verkeerde getal zijn.
+- **De jaarlijkse energiebesparing.** Die volgt uit je isolatie, je afgiftesysteem, je systeemrendement en je contractvorm — niet uit een landelijk gemiddelde. Reken je eigen situatie door met onze [warmtepomp-kostencalculator](/warmtepomp-kosten-berekenen/), waar de aannames zichtbaar en aanpasbaar zijn.
 
-De warmtepomp verdient zichzelf terug — maar alleen als het systeem goed wordt onderhouden en efficiënt wordt ingezet.
-
-
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
+Wat wel algemeen geldt: het rendement van een warmtepomp staat of valt met de instelling en het onderhoud. Een systeemrendement dat een half punt lager uitkomt dan bedoeld, kost jaarlijks meer dan de hele onderhoudsbeurt. Dat is de kern van dit artikel.
 
 ## Gerelateerde artikelen
 
 - [Vloerverwarming aanleggen in bestaande woning](/posts/vloerverwarming-aanleggen-kosten-2026/)
-- [Warmtepomp geluid buren 2026: 40dB norm](/posts/warmtepomp-geluid-buren-2026-norm/)
-- [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
-- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
-- [Beste Hybride Warmtepomp 2026: Top 5 Vergeleken](/posts/beste-hybride-warmtepomp-2026/)
+- [Warmtepompgeluid en de buren: de 45/40 dB-norm](/posts/warmtepomp-geluid-buren-2026-norm/)
+- [Aardwarmte warmtepomp bodembron 2026: kosten en rendement](/posts/aardwarmte-warmtepomp-bodembron-2026/)
+- [ATAG warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/)
+- [Beste hybride warmtepomp 2026 vergeleken](/posts/beste-hybride-warmtepomp-2026/)
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE-subsidie](https://www.rvo.nl/subsidies-financiering/isde) — de officiële pagina met de apparatenlijst en de aanvraagvoorwaarden.

@@ -1,42 +1,41 @@
 ---
-title: 'Warmtepomp geluid buren 2026: 40dB norm'
+title: 'Warmtepomp geluid buren 2026: de 45/40 dB-norm'
 date: 2026-06-09 08:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: 40dB regel, plaatsing erfgrens, juridische geschillen. Praktijkvoorbeelden van rechtszaken plus oplossingen.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Wat het Bbl eist op de perceelgrens, hoe je van geluidsvermogen naar geluidsdruk rekent, en welke maatregelen aantoonbaar effect hebben.'
 categories:
 - warmtepompen
 tags:
 - warmtepomp geluid
-- 40 dB norm
+- 45/40 dB norm
 - erfgrens warmtepomp
 - geluidsoverlast buren
-- ATAG warmtepomp
 - warmtepomp plaatsing
 keywords:
 - warmtepomp geluid buren 2026
 - warmtepomp 40 dB norm
 - warmtepomp erfgrens afstand
-- geluidsoverlast warmtepomp juridisch
-- stille warmtepomp buiten unit
+- geluidsoverlast warmtepomp
+- stille warmtepomp buitenunit
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-- q: Wat is de 40 dB-norm voor warmtepompen in Nederland?
-  a: De 40 dB(A)-norm is de maximale geluidsnorm die een warmtepomp-buitenunit mag produceren op de erfgrens of bij de gevel van het naburige perceel. Deze norm is vastgelegd in het Activiteitenbesluit en geldt specifiek voor warmtepompen bij woningen. Overschrijding kan juridisch worden aangevochten door buren.
-- q: Hoeveel dB maakt een moderne warmtepomp buitenunit?
-  a: 'Moderne warmtepompen (2023-2026) produceren bij vollas tussen 42 en 58 dB(A) op 1 meter afstand. Op grotere afstand neemt het geluid af met circa 6 dB per verdubbeling van de afstand. Op 3 meter afstand is een 52 dB(A)-unit circa 44 dB(A). Op 5 meter: circa 38 dB(A).'
-- q: Op welke afstand van de erfgrens moet ik mijn warmtepomp plaatsen?
-  a: 'Er is geen wettelijk vastgestelde minimale erfgrensafstand voor warmtepompen. Maar om te voldoen aan de 40 dB(A)-norm op de erfgrens, moet je de afstand berekenen op basis van het geluidsvermogen van je specifieke model. Als vuistregel: bij een unit van 52 dB(A) op 1 meter, heb je minimaal 3–4 meter afstand tot de erfgrens nodig om aan de norm te voldoen.'
-- q: Mag de buur bezwaar maken als mijn warmtepomp te luid is?
-  a: Ja. Als de warmtepomp op de erfgrens meer dan 40 dB(A) produceert, kan de buur een klacht indienen bij de gemeente (handhaving Activiteitenbesluit). De gemeente kan een maatwerkbesluit opleggen waarbij je de warmtepomp stiller moet maken of verplaatsen. In extreme gevallen kan de rechter worden ingeschakeld.
-- q: Welke warmtepompen zijn het stilst in 2026?
-  a: De stilste buitenunits in 2026 zijn de ATAG Energion i (40–44 dB(A) bij normaal gebruik), Mitsubishi Ecodan Zubadan (44 dB(A)), Daikin Altherma 3 (45 dB(A)) en Vaillant aroTHERM plus (45 dB(A)). ATAG is hiermee een van de stilste opties voor een rijtjeshuis met beperkte tuin.
-- q: Hoe kan ik de warmtepomp stiller maken zonder hem te verplaatsen?
-  a: 'Effectieve maatregelen: anti-vibratiemat onder de buitenunit (vermindert geleidingsgeluid), geluidswerende schermen rondom de unit (3–8 dB reductie), richtingverandering van de uitblaasrichting weg van de erfgrens, en software-instellingen om het maximale geluidsvermogen te beperken (op kosten van COP).'
-- q: Geldt de 40 dB-norm ook voor warmtepompen in een appartement?
-  a: Voor appartementen gelden de normen van het Bouwbesluit voor luchtgeluid tussen woningen. Een warmtepomp die via structuurgeluid trillingen doorgeeft aan aangrenzende woningen valt onder geluidsoverlast-regelgeving. De 40 dB-norm is specifiek voor buitenruimten; binnenshuis gelden strengere normen (35 dB(A) in slaapkamers).
+- q: Welke geluidsnorm geldt voor een warmtepomp buiten de woning?
+  a: 'De eis staat in het Besluit bouwwerken leefomgeving (Bbl), niet in het Activiteitenbesluit. Milieu Centraal vat de norm samen als maximaal 45 dB op de erfgrens overdag en maximaal 40 dB in de avond en nacht. Deze norm geldt sinds april 2021 voor buiten opgestelde installaties voor warmte- en koudeopwekking bij woningen.'
+- q: Waar wordt de geluidsnorm precies gemeten?
+  a: 'Dat verschilt per situatie. Staan de woningen op verschillende percelen (rijtjeshuis, twee-onder-een-kap), dan geldt de waarde op de perceelgrens (artikel 4.107, lid 2 Bbl). Staan ze op hetzelfde perceel, zoals bij een appartementencomplex, dan geldt de waarde bij een te openen raam of deur van de aangrenzende woning (artikel 4.108, lid 3). Bij verbouw geldt via artikel 5.14, lid 2 dezelfde waarde als bij nieuwbouw.'
+- q: Wat betekent het dB-getal in het productblad van een warmtepomp?
+  a: 'Fabrikanten geven meestal het geluidsvermogensniveau (LWA) op. Dat is een eigenschap van de bron en géén waarde op één meter afstand. Wat er op de perceelgrens overblijft is de geluidsdruk (Lp) en die is altijd lager: die hangt af van afstand, opstelling en reflecterende vlakken. Het verwarren van LWA met Lp is de meest gemaakte rekenfout in offertes.'
+- q: Is er een wettelijke minimale afstand tot de erfgrens?
+  a: 'Nee. Er bestaat geen wettelijke afstandseis voor een warmtepomp-buitenunit tot de erfgrens. De eis is een geluidswaarde op het meetpunt, niet een aantal meters. Formeel mag een unit dicht op de grens staan zolang de waarde daar binnen de norm blijft; bij een luidere unit is dat in de praktijk niet haalbaar.'
+- q: Mag de buur bezwaar maken als de warmtepomp te luid is?
+  a: 'Ja. Wordt de norm op het meetpunt overschreden, dan kan de buur handhaving vragen bij de gemeente. De gemeente kan een meting laten uitvoeren en maatregelen eisen. Daarnaast kan een buur zich beroepen op onrechtmatige hinder (artikel 6:162 BW) en naar de civiele rechter stappen.'
+- q: Hoe maak ik een warmtepomp stiller zonder hem te verplaatsen?
+  a: 'De maatregelen met het meeste effect: trillingsontkoppeling onder de unit en op de wandbeugel, de uitblaasrichting van de erfgrens af draaien, een massief scherm of akoestische ombouwkast aan de kant van de buren met de uitblaaszijde vrij, en de nachtmodus van het toestel activeren. Hoeveel elk van die maatregelen oplevert, verschilt per opstelling; laat het narekenen in plaats van het uit een tabel over te nemen.'
+- q: Welke warmtepomp is de stilste keuze?
+  a: 'Dat is niet in één merknaam te beantwoorden en de opgaven verschillen per model, capaciteit en bedrijfspunt. Vraag per toestel het geluidsvermogensniveau uit het officiële productblad op en laat je installateur met de rekentool van de Rijksoverheid uitrekenen wat dat op jouw perceelgrens betekent. Wij nemen geen dB-waarden over die niet uit een gedateerd fabrieksdocument komen.'
 products:
 - name: ATAG warmtepomp
   url: https://go.duurzaamthuislab.nl/atag
@@ -46,376 +45,237 @@ products:
   price: zie artikel
 schema_type: Article
 ---
-"Die unit zoemt elke nacht, ik slaap er niet van." Het is de meest gemelde klacht over warmtepompen bij gemeenten en geschillencommissies, en bijna altijd is de oorzaak dezelfde: de buitenunit staat vlak naast de erfgrens, op een paar meter van het slaapkamerraam van de buren.
+"Die unit zoemt elke nacht, ik slaap er niet van." Het is een van de meest gemelde klachten over warmtepompen bij gemeenten, en meestal is de oorzaak dezelfde: de buitenunit staat vlak naast de erfgrens, op een paar meter van het slaapkamerraam van de buren.
 
-Dat is grotendeels te voorkomen, mits je vóór de installatie weet hoe de geluidsnorm werkt, wat er op de erfgrens gemeten wordt en hoe het geluid van een buitenunit zich over afstand gedraagt. Dit artikel zet dat op een rij: de wettelijke norm uit het Bbl, de rekenregels en de maatregelen die daadwerkelijk effect hebben.
+Dat is grotendeels te voorkomen, mits je vóór de installatie weet welke norm geldt, waar die wordt gemeten en hoe je van het getal uit het productblad naar het niveau op de perceelgrens komt. Dit artikel zet dat op een rij: de eis uit het Besluit bouwwerken leefomgeving (Bbl), de rekenregels en de maatregelen die effect hebben. Wij hebben zelf niets gemeten; waar wij een norm of specificatie noemen, staat de bron erbij.
 
-*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: dit artikel bevat geen affiliate links en wij hebben met de genoemde merken en partijen geen affiliate- of commissierelatie (stand augustus 2026). Verwijzingen naar merken leveren ons geen vergoeding op.*
 
 ---
 
 
-> **Kort antwoord:** 40dB regel, plaatsing erfgrens, juridische geschillen. Praktijkvoorbeelden van rechtszaken plus oplossingen.
+> **Kort antwoord:** voor een buiten opgestelde warmtepomp geldt de geluidseis uit het Bbl, niet uit het Activiteitenbesluit. Milieu Centraal vat die samen als maximaal 45 dB op de erfgrens overdag en maximaal 40 dB in de avond en nacht. Die norm geldt sinds april 2021.
 >
-> De 40 dB(A)-norm is de maximale geluidsnorm die een warmtepomp-buitenunit mag produceren op de erfgrens of bij de gevel van het naburige perceel. Deze norm is vastgelegd in het Activiteitenbesluit en geldt specifiek voor warmtepompen bij woningen. Overschrijding kan juridisch worden aangevochten door buren.
+> Het getal in het productblad is meestal het geluidsvermogen (LWA) van de bron en niet de waarde op één meter. Reken van LWA naar geluidsdruk op het meetpunt, of laat de rekentool van de Rijksoverheid dat doen. Een wettelijke minimumafstand tot de erfgrens bestaat niet.
 
-## De wettelijke basis: Activiteitenbesluit en de 40 dB-norm
+## De wettelijke basis: het Bbl, niet het Activiteitenbesluit
 
-### Wat zegt het Activiteitenbesluit?
+Sinds april 2021 staat de geluidseis voor buiten opgestelde installaties voor warmte- en koudeopwekking bij woningen in de bouwregelgeving. Per 1 januari 2024 is dat het Besluit bouwwerken leefomgeving (Bbl), de opvolger van het Bouwbesluit. Het Activiteitenbesluit milieubeheer speelt hier geen rol: dat gaat over milieubelastende activiteiten van bedrijven, niet over een warmtepomp bij een woning.
 
-Het Activiteitenbesluit milieubeheer (en de opvolger: het Besluit activiteiten leefomgeving, Bal) regelt de geluidsnormen voor "kleinschalige installaties bij woningen", waaronder warmtepompen. De relevante norm:
+Milieu Centraal vat de norm samen als: maximaal 45 decibel op de erfgrens overdag, en maximaal 40 decibel in de avond en nacht. Er is dus geen aparte, strengere nachtwaarde van 35 dB — die waarde circuleert veel, maar staat niet in de regelgeving.
 
-**40 dB(A) op de erfgrens of gevel van een naburig perceel, gemeten als LAeq (equivalent gemiddeld geluidsniveau) over de gebruiksperiode.**
+**Het meetpunt verschilt per situatie**, en dat bepaalt op een klein perceel of een opstelling haalbaar is:
 
-Specifieke tijdvensters gelden voor de avondperiode (19:00–23:00) en nachtperiode (23:00–07:00), waarbij de normen strenger zijn:
+| Situatie | Waar de waarde geldt | Bbl-artikel |
+|---|---|---|
+| Woningen op **verschillende percelen** (rijtjeshuis, twee-onder-een-kap) | op de perceelgrens | 4.107, lid 2 |
+| Woningen op **hetzelfde perceel** (appartementencomplex) | bij een te openen raam of deur van de aangrenzende woning | 4.108, lid 3 |
+| **Verbouw** bij een woning die aan een andere woning grenst | dezelfde waarde als bij nieuwbouw | 5.14, lid 2 |
 
-| Periode | Dagperiode (07:00–19:00) | Avondperiode (19:00–23:00) | Nachtperiode (23:00–07:00) |
-|---------|--------------------------|---------------------------|---------------------------|
-| Norm (LAeq, 1h) | 45 dB(A) | 40 dB(A) | 35 dB(A) |
+Bron: het Informatiepunt Leefomgeving (IPLO), dat de Bbl-artikelen voor warmte- en koudeopwekking toelicht, en de samenvatting van Milieu Centraal. Opgehaald 21 augustus 2026.
 
-Dat betekent dat de 40 dB-norm die doorgaans gecommuniceerd wordt eigenlijk de avondnorm is. 's Nachts geldt zelfs 35 dB(A). Overdag mag het iets meer: 45 dB(A).
+### Hoe geluid wordt uitgedrukt — en waar het misgaat
 
-Warmtepompen draaien 's nachts ook, en soms juist zwaarder bij lage buitentemperatuur. De nachtperiode-norm van 35 dB(A) is dan maatgevend.
+Er zijn twee grootheden die in offertes voortdurend door elkaar lopen:
 
-### Hoe wordt geluid gemeten?
+- **LWA — geluidsvermogensniveau.** Een eigenschap van de bron zelf: hoeveel akoestisch vermogen het toestel afgeeft. Dit is het getal dat fabrikanten in het productblad zetten. Het hoort **geen** afstand bij; "43 dB(A) op 1 meter" is een verkeerde lezing van een LWA-opgave.
+- **Lp — geluidsdrukniveau.** Wat je op een bepaalde plek meet, bijvoorbeeld op de perceelgrens. Dit is de grootheid waarop de norm is geschreven.
 
-Geluid van warmtepompen wordt uitgedrukt in:
-- **dB(A)** — A-gewogen decibel, gewogen naar de gevoeligheid van het menselijk oor voor frequenties
-- **LWA** — geluidsvermogensniveau op 1 meter (in productdatasheets)
-- **Lp** — geluidsdrukniveau op een bepaalde afstand
+Lp is altijd lager dan LWA, en hoeveel lager hangt af van de afstand, de opstelling en de reflecterende vlakken eromheen. Sommige fabrikanten geven daarnaast een geluidsdruk op een gedefinieerde afstand (vaak 1 of 3 meter) op; kijk dus altijd welke van de twee grootheden in het datasheet staat voordat je gaat rekenen.
 
-Het verband tussen LWA en de geluidsnorm op de erfgrens is afhankelijk van:
-- Afstand tot de erfgrens
-- Aanwezigheid van reflecterende of absorberende oppervlakken
-- Hoogte van plaatsing
-- Richting van uitblaas
+### Van LWA naar de waarde op de perceelgrens
 
-**Vuistregel voor geluidsdaling met afstand:**
-Per verdubbeling van de afstand daalt het geluid in open veld met circa **6 dB(A)** (puntbron in vrije ruimte). In de praktijk (reflectie muur, gevel) is dit 4–5 dB per verdubbeling.
+Voor een puntbron die in een halve ruimte uitstraalt — een unit op een verharde ondergrond in de openlucht — geldt als eerste benadering:
 
----
+**Lp ≈ LWA − 8 − 20 × log(afstand in meters)**
 
-## Geluidsniveaus van populaire warmtepompen in 2026
+Dat geeft de volgende indicatie voor de afstand die nodig is om op 40 dB(A) uit te komen, de avond- en nachtwaarde:
 
-De fabrikant vermeldt het geluidsvermogensniveau (LWA in dB(A)) in het productblad. Dit is het geluid gemeten op 1 meter in gecertificeerde omstandigheden. In de praktijk zijn de werkelijke niveaus soms hoger bij lage buitentemperaturen wanneer de compressor op hoog toerental draait.
+| Geluidsvermogen toestel (LWA) | Afstand voor circa 40 dB(A) |
+|---|---|
+| 50 dB(A) | ± 1,3 m |
+| 55 dB(A) | ± 2,2 m |
+| 60 dB(A) | ± 4,0 m |
+| 65 dB(A) | ± 7,1 m |
+| 70 dB(A) | ± 12,6 m |
 
-### Vergelijkingstabel geluid buitenunits 2026
+Dit is een **modelberekening met aannames**: puntbron, halve ruimte, geen reflecties van gevels of schuttingen, geen tonaal karakter. In een achtertuin tussen twee gemetselde gevels valt het ongunstiger uit; met een massief scherm tussen unit en grens gunstiger. De Rijksoverheid heeft voor deze situatie een **rekentool voor geluid van buiten opgestelde installaties voor warmte- en koudeopwekking** gepubliceerd. Die uitkomst is wat bij een gemeente of rechter meeweegt — niet de vuistregel hierboven, en niet de mededeling van een installateur dat het "wel zal passen".
 
-| Warmtepomp model | LWA (1m) | Opmerkingen |
-|-----------------|----------|-------------|
-| **ATAG Energion i** | 40–44 dB(A) | Een van de stilste in zijn klasse |
-| Mitsubishi Ecodan Zubadan | 44 dB(A) | Uitstekend bij lage buitentemp. |
-| Daikin Altherma 3 R | 45 dB(A) | Goed presterende stilte |
-| Vaillant aroTHERM plus | 46 dB(A) | Populair NL-model |
-| Nibe F2120 | 46 dB(A) | Lucht/water, schaalbaar |
-| Bosch Compress CS7000i | 49 dB(A) | Middenklasse |
-| Samsung EHS TDM | 52 dB(A) | Hoger, goede prijs-prestatie |
-| Viessmann Vitocal 252-A | 54 dB(A) | Compact, maar luider |
-| Midea M-Thermal | 55 dB(A) | Budgetmodel, luidst in vergelijking |
-
-### Hoe ver moet de ATAG Energion i van de erfgrens?
-
-De ATAG Energion i heeft een LWA van circa 43 dB(A). Voor de nachtperiode-norm van 35 dB(A) op de erfgrens:
-
-Benodigde afstandsberekening (vereenvoudigd, open terrein):
-- LWA = 43 dB(A)
-- Doel: Lp ≤ 35 dB(A) op erfgrens
-- Verschil: 43 - 35 = 8 dB reductie nodig
-- Per verdubbeling afstand: 6 dB reductie
-- 8/6 = 1,3 verdubbeling nodig
-- Start bij 1 meter: 1m × 2^1,3 = **2,5 meter**
-
-Een ATAG Energion i geplaatst op 2,5 meter van de erfgrens voldoet theoretisch aan de 35 dB(A) nachtperiode-norm in open terrein. Bij reflectie (muur, schutting) heb je meer afstand nodig.
-
-### Voor een luidere unit (52 dB(A)):
-
-- LWA = 52 dB(A)
-- Doel: 35 dB(A) op erfgrens
-- Verschil: 17 dB reductie nodig
-- 17/6 = 2,8 verdubbeling
-- Start bij 1 meter: 1m × 2^2,8 = **7 meter**
-
-Een unit van 52 dB(A) zou dus theoretisch 7 meter van de erfgrens moeten staan voor naleving van de 35 dB(A) nachtperiode-norm. In een gemiddeld rijtjeshuis met een tuin van 8 meter diep is dat onmogelijk.
-
-**Dit is waarom stille warmtepompen zoals de ATAG cruciaal zijn voor dichtbebouwde wijken.**
-
-**[Bekijk ATAG warmtepomp](https://go.duurzaamthuislab.nl/atag)**
+Vraag daarom bij elke offerte twee dingen: het officiële productblad met de gedateerde geluidsopgave, en de berekening met die rekentool voor jóuw opstelling.
 
 ---
 
-## Erfgrens en vergunningplicht: wat zijn de regels?
+## Merkkeuze: waar je op moet letten
 
-### Vergunningplicht voor warmtepompen
+Het verschil in geluidsvermogen tussen toestellen is groter dan wat je met maatregelen achteraf repareert. Op een klein perceel is de toestelkeuze daarom de belangrijkste beslissing.
 
-Warmtepompen zijn in Nederland in de meeste gevallen **vergunningsvrij**, mits voldaan wordt aan:
-- Geplaatst op achtererf of zijerf (niet op voorerf bij de straat in principe)
-- Maximale afmeting buitenunit ≤ 1 m³ volume
-- Geen plaatsing op dak van beschermd rijksmonument
+Wat wij hier expliciet **niet** doen, is een dB-ranglijst per merk publiceren. Fabrikanten geven per model en per capaciteit verschillende waarden, soms als geluidsvermogen en soms als geluidsdruk op een eigen referentie-afstand, en die opgaven wijzigen tussen productgeneraties. Een tabel met één getal per merk suggereert een precisie die er niet is — en het is precies dat soort tabel waarop offertes stranden.
 
-Bij appartementen en VvE's gelden aanvullende VvE-regels die in de statuten kunnen vereisen dat gemeenschappelijke goedkeuring nodig is.
+Praktische werkwijze bij de keuze:
 
-### Burenrecht en erfgrensafstand
+1. Vraag per kandidaat-toestel het **productblad met datum** op en noteer welke grootheid erin staat (LWA of Lp, en bij welke afstand).
+2. Vraag de opgave bij het **bedrijfspunt dat voor jou telt**: het geluid bij lage buitentemperatuur en hoog compressortoerental, niet de waarde in de gunstigste testconditie.
+3. Vraag of het toestel een **nachtmodus** heeft, met welke reductie én met welk capaciteitsverlies.
+4. Laat de **rekentool-uitkomst** voor jouw opstelling in de offerte opnemen.
 
-Het Nederlandse BW (Boek 5) geeft buren het recht om hinder te bestrijden die "de maatstaf van normaal gebruik" overschrijdt. Geluid boven de geldende normen valt daaronder.
-
-Er is **geen wettelijke minimale erfgrensafstand** voor warmtepompen in de wet. De norm is geluidsgerelateerd, niet afstandsgerelateerd. Dit betekent dat je formeel een warmtepomp op 20 cm van de erfgrens kunt plaatsen — als het op de erfgrens maar voldoet aan de 40 dB-norm.
-
-In de praktijk is dit bij luide units onmogelijk.
-
-### Wat als de erfgrens al gesitueerde beplanting of schutting bevat?
-
-Een schutting of dichte haag werkt als geluidsscherm. Een solide schutting van 1,8 meter biedt circa 5–10 dB(A) reductie voor geluid dat van een laagopgestelde buitenunit komt.
-
-**Berekening met schutting:**
-- Warmtepomp 52 dB(A), erfgrens 3 meter, schutting 1,8 m tussenin
-- Afstandsreductie: 3m → circa 46 dB(A) (6 dB bij verdubbeling, 3m is 1,6 verdubbeling van 1m = ~10 dB reductie)
-- Schutting reductie: -6 dB(A)
-- **Eindniveau op erfgrens: circa 40 dB(A)**
-
-Met een standaard schutting en 3 meter afstand voldoet een gemiddelde 52 dB(A)-unit nét aan de avondnorm. Voor de nachtperiode (35 dB) nog niet. Vandaar dat stille modellen en aanvullende maatregelen noodzakelijk zijn.
+Op zoek naar een hybride opstelling? Ons [overzicht van de beste hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) zet de typen naast elkaar; voor één merk in detail is er de [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/).
 
 ---
 
-## Praktische plaatsingstips om geluidshinder te voorkomen
+## Erfgrens en vergunning: wat zijn de regels?
 
-### Tip 1: Kies de stilste unit voor je perceel
+### Vergunningplicht
 
-Als je een rijhuis hebt met een tuin van 6–10 meter diep en directe aangrenzende woningen, kies dan voor een unit met LWA ≤ 45 dB(A). De ATAG Energion i (40–44 dB(A)), Mitsubishi Ecodan Zubadan (44 dB(A)) en Daikin Altherma 3 (45 dB(A)) zijn de beste opties.
+Een warmtepomp-buitenunit is in veel gevallen vergunningvrij te plaatsen, maar de voorwaarden hangen af van de plek op het perceel, de afmetingen van het bouwwerk en de status van het pand (beschermd monument, beschermd stads- of dorpsgezicht). Wij noemen hier bewust geen maximale afmeting: de precieze grenzen zijn per situatie te controleren via de vergunningcheck in het Omgevingsloket, en dat is ook wat een gemeente bij een klacht als uitgangspunt neemt.
 
-**Budget-modellen (52–58 dB(A)) zijn alleen geschikt bij ruime percelen van 15+ meter.**
+Bij een appartement of een VvE geldt daarnaast het VvE-reglement: vrijwel altijd is voor plaatsing op de gevel of het dak schriftelijke toestemming van het bestuur of de vergadering nodig. Regel dat vóór de opdracht, niet erna.
 
-### Tip 2: Uitblaasrichting weg van de buren
+### Burenrecht
 
-De meeste buitenunits hebben een voorkeuruitblaasrichting (naar voren of naar boven). Richt de uitblaas van de ventilator weg van de erfgrens richting de buren. Geluid verspreidt zich het sterkst in de uitblaasrichting.
+Boek 5 van het Burgerlijk Wetboek geeft buren het recht hinder te bestrijden die verder gaat dan wat bij normaal gebruik hoort. Geluid boven de geldende norm valt daaronder.
 
-Sommige modellen (o.a. Mitsubishi, Daikin) bieden de optie van een zijuitblaas-kit die de luchtrichting 90° kan draaien.
+Er is **geen wettelijke minimale erfgrensafstand** voor een warmtepomp. De norm is een geluidswaarde op een meetpunt, geen aantal meters. Dat werkt twee kanten op: een stille unit mag dicht op de grens staan, en een luide unit is ook op afstand nog een probleem als de waarde op het meetpunt niet gehaald wordt.
 
-### Tip 3: Anti-vibratiemat
+### Wat doet een schutting?
 
-Plaatsing van de buitenunit op een anti-vibratiemat (EPDM of neopreen, €40–€120) reduceert het structuurgeluid dat via de fundering de tuin in trekt. Dit is een eenvoudige maar effectieve ingreep.
-
-Structuurgeluid is het geluidstype dat het meest irritant is voor buren: een zoemend of trillend geluid dat continu aanwezig is en moeilijk af te schermen is.
-
-### Tip 4: Geluidsscherm plaatsen
-
-Een L-vormig of U-vormig geluidsscherm rondom de buitenunit reduceert het uitgestraalde geluid richting de erfgrens met 5–12 dB(A). Er zijn kant-en-klare warmtepomp-geluidsschermen beschikbaar (circa €200–€600) die speciaal zijn ontworpen om de luchtstroom niet te blokkeren.
-
-**Let op:** een volledig gesloten scherm blokkeert de luchtstroom en vermindert de COP sterk. Gebruik altijd schermen die open zijn aan de voorzijde (uitblaasrichting vrij) en gesloten aan de zijkant richting buren.
-
-### Tip 5: Nachtmodus instellen in de software
-
-Vrijwel alle moderne warmtepompen (ATAG, Mitsubishi, Daikin, Vaillant) hebben een nachtmodus waarbij het maximale compressortoerental wordt beperkt. Dit verlaagt het geluidsniveau met 3–8 dB(A) maar ook de maximale verwarmingscapaciteit.
-
-In de meeste Nederlandse nachten (buitentemperatuur >2°C) is de verminderde capaciteit voldoende. Bij extreme kou (<-5°C) kan de warmtepomp in nachtmodus niet altijd de volledige warmtevraag dekken.
-
-Instelling: via de thermostaat of controlebediening van het systeem. Tijdschema 23:00–07:00 in nachtmodus.
+Een massief vlak tussen unit en meetpunt werkt als geluidsscherm; een schutting met kieren doet vrijwel niets. Hoeveel een scherm oplevert, hangt af van de hoogte ten opzichte van de zichtlijn tussen bron en meetpunt, de massa van het materiaal en de afwezigheid van openingen. Dat is precies waarvoor de rekentool bedoeld is: de winst van een scherm laat zich niet met één vast aantal dB'en invullen.
 
 ---
 
-## Juridische geschillen: hoe lopen ze in de praktijk?
+## Praktische plaatsingsmaatregelen
 
-### Stap 1: Melding bij gemeente
+### 1. Kies op geluidsvermogen, niet op prijs
 
-Als de buur van mening is dat de warmtepomp te luid is, kan hij of zij een klacht indienen bij de gemeente (afdeling milieu/handhaving). De gemeente heeft de bevoegdheid om een meting te laten uitvoeren.
+Op een perceel waar de grens binnen enkele meters van elke logische opstelplek ligt, is het geluidsvermogen van het toestel de bepalende factor. Reken met de tabel hierboven wat er op jouw afstand nog haalbaar is voordat je een toestel kiest.
 
-**Proces:**
-1. Klacht ingediend → gemeente stuurt handhavingsinspecteur
-2. Geluidsmeting ter plaatse (LWA gemeten op de erfgrens, meerdere meetpunten)
-3. Als norm overschreden: aanschrijving eigenaar om maatregel te treffen binnen bepaalde termijn
-4. Geen verbetering: bestuursdwang of dwangsom
+### 2. Uitblaasrichting van de grens af
 
-De doorlooptijd van klacht tot maatwerkbesluit is typisch 4–12 weken.
+Geluid straalt het sterkst uit in de uitblaasrichting van de ventilator. Draai die weg van de erfgrens en van slaapkamerramen. Voor sommige toestellen is een zijuitblaas-set leverbaar die de luchtrichting kwart draait; vraag ernaar bij de fabrikant van het toestel dat je overweegt.
 
-### Stap 2: Maatwerkbesluit
+### 3. Trillingsontkoppeling
 
-Bij een aangetoonde normoverschrijding legt de gemeente een "maatwerkbesluit" op met de eis om de geluidsuitstraling te reduceren. Dit kan vereisen:
-- Verplaatsing van de unit
-- Plaatsing van geluidsscherm
-- Softwarebegrenzing van het vermogen
-- In extreme gevallen: verwijdering van de unit
+Zet de buitenunit op trillingsdempende voeten of een EPDM- of neopreenmat, en gebruik bij wandmontage trillingsdempende beugels. Structuurgeluid — een laagfrequent zoemen dat via de constructie reist — is het lastigst af te schermen en wordt als het meest hinderlijk ervaren. Deze maatregel is goedkoop en hoort standaard in de offerte te staan.
 
-### Stap 3: Civiele procedure
+### 4. Scherm of ombouwkast, met de uitblaaszijde vrij
 
-Als de buur meent dat de gemeente onvoldoende optreedt, of als er sprake is van onrechtmatige hinder (Art. 6:162 BW), kan hij of zij naar de rechtbank stappen. De rechter kan dan:
-- Verplaatsing van de warmtepomp opleggen
-- Schadevergoeding toewijzen voor gezondheidsschade of waardevermindering woning
-- Een verbod op bepaalde gebruikstijden opleggen
+Een massief scherm aan de kant van de buren helpt, en een kant-en-klare akoestische ombouwkast helpt meestal meer omdat die aan de binnenzijde absorberend is. Twee randvoorwaarden gelden altijd:
 
-**Uitspraken in de praktijk:**
+- **Geen kieren.** Elke opening in het schermvlak beperkt de werking sterk.
+- **Uitblaas- en aanzuigzijde vrij.** Een dichte kist laat het toestel zijn eigen koude lucht opnieuw aanzuigen. Dat kost rendement op precies de koudste dagen, en kan tot storingen leiden.
 
-In 2024 deed de rechtbank Zeeland-West-Brabant uitspraak in een zaak waarbij een buurman klaagde over een warmtepomp die 's nachts 43 dB(A) produceerde op zijn slaapkamerraam. De rechter oordeelde dat dit de norm van 35 dB(A) overtrof en dat de eigenaar verplicht was binnen 3 maanden een geluidsscherm te plaatsen of de unit te verplaatsen, op last van een dwangsom van €500 per dag.
+Vraag de leverancier van een ombouwkast om de akoestische onderbouwing bij de kast die je overweegt, en om de vrije doorstroomoppervlakte. Reductiegetallen uit advertenties zijn zonder meetrapport en opstelling niets waard.
 
-Dit toont aan dat rechters de 35 dB(A) nachtperiode-norm serieus nemen.
+### 5. Nachtmodus
+
+Vrijwel elk modern toestel kan het maximale compressortoerental in een tijdvenster begrenzen. Dat verlaagt het geluid, maar ook de maximaal beschikbare capaciteit. Op de meeste Nederlandse nachten is dat geen probleem; bij strenge vorst kan het dat wel zijn. Laat de installateur het tijdvenster instellen en vastleggen wat de begrenzing met de capaciteit doet.
+
+### 6. Beplanting
+
+Een dichte, wintergroene haag geeft vooral visuele en psychologische winst en akoestisch aanzienlijk minder dan een massief scherm. Reken er niet op om een normoverschrijding op te lossen, en houd er rekening mee dat een haag jaren nodig heeft om dicht te groeien.
+
+---
+
+## Als er een geschil ontstaat
+
+### Stap 1: melding bij de gemeente
+
+Meent een buur dat het toestel te luid is, dan kan hij of zij handhaving vragen bij de gemeente. De gemeente kan een meting laten uitvoeren op het meetpunt dat volgens het Bbl geldt. Bij een aangetoonde overschrijding volgt een aanschrijving om maatregelen te treffen; blijft dat uit, dan kan de gemeente bestuursrechtelijke middelen inzetten. De doorlooptijd hangt af van de gemeente en de meetomstandigheden — een harde landelijke termijn is er niet.
+
+### Stap 2: maatregelen
+
+De maatregelen waar het in de praktijk op uitdraait, zijn dezelfde als hierboven: verplaatsen, afschermen, trillingsontkoppelen of het vermogen begrenzen. Welke combinatie voldoende is, volgt uit de meting en de berekening.
+
+### Stap 3: civiele procedure
+
+Los van de bestuursrechtelijke route kan een buur zich beroepen op onrechtmatige hinder (artikel 6:162 BW). Een rechter kan verplaatsing opleggen, gebruiksbeperkingen stellen of schadevergoeding toewijzen. Hoe zo'n zaak uitpakt, hangt af van de gemeten waarden, het meetpunt en de vraag of de eigenaar redelijke maatregelen heeft genomen; wij noemen hier geen individuele uitspraken die wij niet in een publieke bron kunnen aanwijzen.
 
 ### Verzekering
 
-Controleer je aansprakelijkheidsverzekering (AVP). Een claim van de buur voor geluidsoverlast of waardevermindering van zijn woning kan in theorie worden verheld op je AVP. Maar: als je wist of had kunnen weten dat de warmtepomp te luid was (opzet of ernstige nalatigheid bij installatie), kan de verzekeraar weigeren.
+Kijk je aansprakelijkheidsverzekering (AVP) na en vraag desnoods schriftelijk na hoe je verzekeraar een burenclaim over geluidshinder behandelt. Ga er niet van uit dat het gedekt is: polissen sluiten schade uit die het gevolg is van bewust genomen risico, en de voorwaarden verschillen per verzekeraar.
 
 ---
 
-## Hoe communiceer je met de buren vóór installatie?
+## Vóór de installatie met de buren praten
 
-De beste juridische bescherming is voorkomen dat er een geschil ontstaat. Onze aanbeveling:
+De beste bescherming is voorkomen dat er een geschil ontstaat.
 
-**Vóór de installatie:**
-1. Informeer de aangrenzende buren dat je een warmtepomp installeert
-2. Leg uit waar je hem plaatst en wat het verwachte geluidsniveau is
-3. Vraag of ze specifieke bezwaren hebben (bijv. slaapkamerraam op 2 meter afstand)
-4. Zeg toe dat je na installatie een geluidsmeting laat doen als ze dat willen
+**Vooraf:**
+
+1. Vertel de aangrenzende buren dat je een warmtepomp laat plaatsen.
+2. Laat zien waar het toestel komt en wat de berekening voor de perceelgrens oplevert.
+3. Vraag of er bezwaren zijn die je nog kunt ondervangen — een slaapkamerraam op twee meter is een reëel argument.
+4. Zeg toe dat je na installatie een meting laat doen als zij daar prijs op stellen.
 
 **Na installatie:**
-1. Check na 2 weken bij de buren of het geluid acceptabel is
-2. Als er bezwaren zijn: neem ze serieus en onderzoek of een geluidsscherm of nachtmodus helpt
-3. Documenteer: stuur een email als bevestiging van afspraken ("Zoals besproken is de nachtmodus ingesteld op 23:00...")
 
-Dit klinkt als veel werk, maar het voorkomt maandenlange juridische procedures en verstoorde burenrelaties.
+1. Vraag na een paar weken of het geluid acceptabel is.
+2. Zijn er klachten, onderzoek dan eerst nachtmodus en trillingsontkoppeling — die zijn snel en goedkoop te realiseren.
+3. Leg afspraken schriftelijk vast, al is het per e-mail.
 
----
+Dit kost een paar gesprekken en voorkomt maandenlange procedures.
 
-## ATAG Energion: de stille keuze voor Nederlandse rijtjeshuizen
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk het ATAG-assortiment</a>
 
-Voor wie in een rijtjeshuis woont met een tuin van 6–10 meter en buren die dichtbij zijn, is de [ATAG Energion i](https://go.duurzaamthuislab.nl/atag) op geluidsspecificaties de sterkste keuze. ATAG is een Nederlands merk (fabriek in Ulft, Gelderland) dat zijn warmtepompen specifiek ontwikkelt voor de Nederlandse marktsituatie: kleinere tuinen, aangrenzende bebouwing, strenge geluidsnormen.
-
-De ATAG Energion i scoort 40–44 dB(A) op 1 meter — dat is 8–12 dB stiller dan een gemiddeld Aziatisch budget-model. In de praktijk betekent dit dat je bij 3 meter van de erfgrens in de meeste situaties aan de nachtperiode-norm voldoet, zelfs zonder extra maatregelen.
-
-Andere troeven van de ATAG: ISDE-gecertificeerd, Nederlandse onderdelen- en servicenetwerk, en de R290-koelmiddel-variant (propaan) die milieuvriendelijker is dan de gangbare R32 en R410A.
-
-**[Bekijk ATAG warmtepomp](https://go.duurzaamthuislab.nl/atag)**
+*Deze link naar ATAG levert ons geen vergoeding op; wij hebben met ATAG geen affiliate- of commissierelatie.*
 
 ---
 
-## Samenvatting: de 40 dB-norm in de praktijk
+## Samenvatting
 
 | Situatie | Wat je moet weten |
-|---------|-------------------|
-| Rijwoning, tuin <8m | Kies een unit ≤44 dB(A) + anti-vibratiemat; informeer buren vooraf |
-| Vrijstaande woning, tuin >15m | Standaard unit (52–55 dB(A)) voldoet bij 7m+ afstand; meting voor zekerheid |
-| Appartement | VvE-toestemming vereist; structuurgeluid aandacht |
-| Buur klaagt al | Laat geluidsmeting uitvoeren; overweeg geluidsscherm of nachtmodus |
-| Juridisch geschil | Gemeente handhaving → maatwerkbesluit → civiele rechter (laatste redmiddel) |
-| Preventief | Praat met buren vóór installatie; kies stille unit; documenteer alles |
+|---|---|
+| Rijwoning, kleine tuin | Toestelkeuze is bepalend; laat de rekentool-uitkomst in de offerte zetten en ontkoppel trillingen |
+| Vrijstaande woning, ruim perceel | Afstand doet het werk; bevestig met een berekening voordat je een luider toestel kiest |
+| Appartement of VvE | Meetpunt is het te openen raam of de deur van de aangrenzende woning (art. 4.108, lid 3); VvE-toestemming schriftelijk regelen |
+| Buur klaagt al | Laat meten op het juiste meetpunt; begin met nachtmodus en trillingsontkoppeling |
+| Juridisch geschil | Gemeentelijke handhaving en zo nodig de civiele rechter (art. 6:162 BW) |
+| Preventief | Buren informeren vóór installatie, berekening delen, afspraken vastleggen |
 
-De 40 dB-norm (avond) en 35 dB-norm (nacht) zijn reëel afdwingbaar. Een warmtepomp die 's nachts meer dan 35 dB(A) op de erfgrens produceert, kan juridisch worden aangevochten — met succes, zoals de rechtbankuitspraken tonen.
+De norm van 45 dB(A) overdag en 40 dB(A) in de avond en nacht op het meetpunt is afdwingbaar. De twee fouten die het vaakst tot problemen leiden, zijn een dB-getal uit een productblad lezen als een waarde op één meter, en een toestel kiezen zonder berekening voor de eigen perceelgrens. Beide zijn vóór de opdracht op te lossen.
 
-Investeer in een stille unit van meet af aan. Die extra €300–€600 voor een ATAG of Mitsubishi in plaats van een goedkoop budgetmodel betaalt zichzelf terug in vermeden gedoe met buren, gemeenten en rechtbanken.
-
-En mocht je toch al in een geschil zitten: zorg voor een gecertificeerde geluidsmeting door een onafhankelijk akoestisch bureau. Dat rapport bepaalt de uitkomst van elke verdere procedure.
-
-Lees voor meer hulp bij de keuze van een warmtepomp ons [overzicht van de beste hybride warmtepompen](/posts/beste-hybride-warmtepomp-2026/) en de gedetailleerde [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/).
+Zit je toch in een geschil: laat de meting doen door een geaccrediteerd akoestisch adviesbureau. Een meting door de installateur zelf is bruikbaar om te oriënteren, maar weegt in een formele procedure minder zwaar. Tarieven verschillen per bureau en per opdracht — vraag twee offertes en laat vastleggen welke tijdvakken en meetpunten worden meegenomen. Adressen van bureaus zijn onder meer te vinden via de Nederlandse Stichting Geluidshinder.
 
 ---
 
-## Wat doet geluid van een warmtepomp met de slaapkwaliteit?
+## Wat geluid met slaapkwaliteit doet
 
-Het juridische kader is één aspect. De gezondheidsimpact is een ander. Onderstaande punten zijn gebaseerd op de WHO-richtlijnen voor omgevingsgeluid (Environmental Noise Guidelines for the European Region) en op RIVM-publicaties over geluidhinder, toegepast op warmtepompen:
+Het juridische kader is één ding, de gezondheidskant een ander. De WHO beschrijft in de *Environmental Noise Guidelines for the European Region* dat nachtelijk omgevingsgeluid de slaap kan verstoren, ook zonder dat mensen wakker worden: het gaat om kortdurende arousals die de diepe slaap onderbreken. Het RIVM publiceert vergelijkbare bevindingen over geluidhinder in Nederland.
 
-**Drempel voor slaapverstoring:** onderzoek toont dat geluidsniveaus boven 30 dB(A) in de slaapkamer de slaapkwaliteit kunnen verslechteren, ook als mensen er niet wakker van worden. Het gaat om microwakingen (kortdurende arousals) die de diepe slaap verstoren zonder dat je het merkt.
+Daaruit volgen twee praktische punten voor een warmtepomp:
 
-**35 dB(A) is een borderline niveau:** de nacht-norm van 35 dB(A) op de erfgrens is opgesteld om slaapverstoring te beperken. Maar: geluid bij de erfgrens is niet hetzelfde als geluid in de slaapkamer. Als het slaapkamerraam op de erfgrens staat en open staat 's nachts, is het geluid in de slaapkamer nagenoeg gelijk aan het buitenniveau.
+**De norm is een bovengrens, geen comfortdoel.** 40 dB(A) op de erfgrens is wat de regelgeving toestaat, niet wat een buur als onhoorbaar zal ervaren. Ligt het slaapkamerraam van de buren richting de unit en staat dat raam 's nachts open, dan is het niveau binnen niet veel lager dan buiten.
 
-**Tonaal geluid (tonen, zoemen) is erger dan breedbandig geluid:** het specifieke karakter van warmtepomp-geluid — een doorgaand zoemend geluid van de compressor en een ritme van de ventilator — is psychoakoestisch storend dan ruis op hetzelfde niveau. Dit verklaart waarom mensen meer hinder melden van warmtepompen dan van vergelijkbaar luide verkeersgeluid.
+**Tonaal geluid weegt zwaarder dan het getal suggereert.** Het karakter van warmtepompgeluid — een continu zoemen van de compressor met een ritmische ventilatorcomponent — wordt als hinderlijker ervaren dan breedbandige ruis op hetzelfde niveau. Dat verklaart waarom klachten ontstaan bij niveaus die op papier bescheiden lijken.
 
-**Praktische implicatie:** bij een buur met slaapkamerraam richting je warmtepomp, is 35 dB(A) op de erfgrens niet de veilige ondergrens — het is de wettelijke grens. Voor goed burengedrag streef je naar 30 dB(A) of lager op de erfgrens.
-
----
-
-## Geluidsschermen voor warmtepompen: typen en effectiviteit
-
-Hieronder drie typen geluidsschermen, met de reductie die de leveranciers opgeven en de akoestische randvoorwaarden die daarvoor gelden:
-
-### Type 1: Massief houten scherm (doe-het-zelf)
-
-Een massief houten scherm (geperst spaanplaat of multiplex, 18–22 mm dik) geeft 8–12 dB geluidsreductie aan de afgeschermde kant. Voorwaarden:
-- Minimale hoogte: 20 cm boven de buitenunit
-- Geen openingen of kieren (elke opening vermindert de isolatie drastisch)
-- Uitblaaszijde van de unit moet open blijven (anders oververhitting unit)
-
-Kosten: €150–€350 voor een L-vormig scherm rondom 3 zijden, inclusief materiaal.
-
-**Aandachtspunt:** een volledig gesloten scherm veroorzaakt recirculatie van warme uitblaaslucht. Dit verlaagt de COP. Laat altijd de uitblaaszijde volledig open.
-
-### Type 2: Akoestische absorptiepanelen (kant-en-klaar)
-
-Merken als Noise Stop en Soundex bieden warmtepomp-geluidsschermen aan die speciaal zijn ontworpen voor gebruik in buitenruimten. Ze bestaan uit een massieve buitenschil met absorberend materiaal aan de binnenzijde.
-
-Effectiviteit: 10–15 dB reductie aan de geschermde zijde. Kosten: €400–€800 voor een compleet set rondom een standaard buitenunit.
-
-### Type 3: Landschappelijke afscherming (beplanting)
-
-Een dichte haag van 1,8–2 meter hoog biedt circa 3–6 dB reductie — minder dan een massief scherm, maar esthetisch aantrekkelijker. Soorten die geschikt zijn:
-
-- Taxus baccata (hulst): wintergroen, dicht, groeit langzaam
-- Prunus laurocerasus (laurier): snel groeiend, wintergroen, robuust
-- Thuja plicata (Westerse levensboom): dicht, snel groeiend, houdt wind
-
-Nadeel: duurt 2–5 jaar voordat de haag effectieve geluidsisolatie biedt.
+Wie ruimte heeft, doet er daarom goed aan onder de norm te blijven in plaats van er precies aan te voldoen.
 
 ---
 
-## Appartementen en VvE: warmtepomp-geluid in collectieve situaties
+## Structuurgeluid in appartementen
 
-In appartementen zijn de geluidsproblemen complexer dan bij vrijstaande woningen of rijtjeshuizen. Structuurgeluid speelt hier een dominante rol.
+In een appartementencomplex is structuurgeluid meestal dominanter dan luchtgeluid.
 
-### Structuurgeluid versus luchtgeluid
+**Luchtgeluid** verplaatst zich door de lucht: ventilator- en uitblaasgeluid. Dat is wat een buur buiten hoort.
 
-**Luchtgeluid:** geluid dat zich via de lucht verspreidt (de ventilator, de uitblaasgeluiden van de buitenunit). Dit is het geluid dat de buur buiten hoort.
+**Structuurgeluid** reist door de constructie. De compressor geeft laagfrequente trillingen af die via een muurbeugel, vloer of leiding worden doorgegeven — soms tot in woningen die niet naast de unit liggen. Dat is de reden dat een appartementklacht vaak niet met een scherm te verhelpen is.
 
-**Structuurgeluid:** trillingen die via de fundering, vloer, muur of plafond worden doorgegeven. De compressor van een warmtepomp produceert ook trillingen in het frequentiebereik van 30–120 Hz die via de constructie worden doorgegeven.
+Wat helpt:
 
-In een appartement op de 3e etage kan een warmtepomp die via een muurbeugel is bevestigd aan de gevel zijn trillingen direct via de gevelconstructie doorgeven aan aangrenzende woningen — ook woningen die niet eens naast de buitenunit staan.
-
-### Oplossingen voor structuurgeluid in appartementen
-
-1. **Gummien trillingsisolatie op de wandbeugel:** zorg dat de buitenunit via neopreen of EPDM-trillingsdempende beugels is bevestigd. Dit onderbreekt de trillingsoverdracht voor hoge frequenties.
-
-2. **Inwendige trillingsisolatie binnenunit:** de binnenunit (hydro-module, warmtewisselaar) mag niet direct op de vloer of muur rusten zonder trillingsisolatie.
-
-3. **Flexibele leidingaansluitingen:** de verbindingsleidingen tussen binnen- en buitenunit moeten via flexibele koppelingen zijn aangesloten, niet rigide.
-
-4. **VvE-reglement checken:** de meeste VvE-reglementen vereisen toestemming van het bestuur voor het plaatsen van een warmtepomp-buitenunit op de geveal of het dak. Vraag dit altijd schriftelijk aan vóór installatie.
+1. **Trillingsdempende wandbeugels** onder de buitenunit, in plaats van een starre bevestiging aan de gevel.
+2. **Trillingsisolatie onder de binnenunit**, die niet star op vloer of muur mag staan.
+3. **Flexibele leidingaansluitingen** tussen binnen- en buitendeel, zodat trillingen niet via het leidingwerk doorlopen.
+4. **VvE-toestemming schriftelijk**, met de opstelling en de trillingsmaatregelen erin benoemd. Dat is later ook je bewijs dat de opstelling is goedgekeurd.
 
 ---
-
-## Meetbare geluidsmeting laten uitvoeren: hoe en wat kost het?
-
-Als je een geschil wil voorkomen of oplossen, is een gecertificeerde geluidsmeting het sterkste instrument.
-
-### Wie mag meten?
-
-Een geluidsrapport dat juridisch of bij de gemeente standhoudt, moet worden uitgevoerd door een gecertificeerd akoestisch bureau (ISO 17025-geaccrediteerd of equivalent). Een meting door een particulier of door de warmtepomp-installateur zelf is juridisch aanvechtbaar.
-
-Gecertificeerde akoestische adviesbureaus zijn te vinden via de Nederlandse Vereniging voor Bouw- en Woningkwaliteit (NVBW) of via het Platform Akoestiek.
-
-### Wat kost een geluidsmeting?
-
-- **Eenvoudige meting** (3–5 meetpunten op erfgrens, dagperiode): €350–€650
-- **Uitgebreide meting** (dag + avond + nachtperiode, meetrapport voor bezwaarschrift): €800–€1.500
-- **Indicatieve meting door installateur** (niet gecertificeerd, alleen oriëntatie): €100–€200
-
-Voor een minnelijke regeling met de buur is een indicatieve meting door de installateur vaak voldoende. Voor een formele procedure bij gemeente of rechtbank is een gecertificeerde meting noodzakelijk.
-
-### Wat staat er in een geluidsmeting-rapport?
-
-Een volledig geluidsmeetrapport bevat:
-- Beschrijving van de meetlocatie en -omstandigheden (wind, achtergrondgeluiden)
-- Gemeten waarden per meetpunt (LAeq, LCeq, LAmax)
-- Vergelijking met de normen (Activiteitenbesluit / Bal)
-- Conclusie: wel of geen normoverschrijding
-- Aanbevelingen indien overschrijding
-
-Dit rapport is het document dat je nodig hebt als je bij de gemeente een klacht indient of als bewijs in een civiele procedure.
-
-
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
 
 ## Gerelateerde artikelen
 
-- [Warmtepomp monoblock vs split 2026: keuze gids](/posts/warmtepomp-monoblock-vs-split-2026/)
-- [Warmtepomp Onderhoud 2026: Wat Moet Wanneer en Wat Kost Het?](/posts/warmtepomp-onderhoud-kosten-2026/)
+- [Warmtepomp buitenunit plaatsen bij een rijtjeshuis](/posts/warmtepomp-buitenunit-rijtjeshuis-plaatsing-2026/)
+- [Warmtepomp monoblock vs split 2026: keuzegids](/posts/warmtepomp-monoblock-vs-split-2026/)
+- [Warmtepomp onderhoud 2026: wat moet wanneer en wat kost het?](/posts/warmtepomp-onderhoud-kosten-2026/)
 - [Vloerverwarming aanleggen in bestaande woning](/posts/vloerverwarming-aanleggen-kosten-2026/)
-- [Aardwarmte warmtepomp bodembron 2026: kosten + ROI](/posts/aardwarmte-warmtepomp-bodembron-2026/)
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [Informatiepunt Leefomgeving — geluid van installaties voor warmte- en koudeopwekking](https://iplo.nl/) — toelichting op de Bbl-artikelen die hierboven zijn genoemd.

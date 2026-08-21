@@ -1,8 +1,7 @@
 ---
 title: 'Radiatoren vervangen voor warmtepomp 2026: wanneer wel, wanneer niet?'
-date: 2026-09-04 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
-last_updated: 2026-04-29
+date: 2026-08-19 08:00:00+02:00
+lastmod: '2026-08-21 08:00:00+02:00'
 description: Moeten radiatoren vervangen worden bij overstap naar warmtepomp? Wanneer LT-radiatoren nodig zijn, wat ze kosten en hoe je met de 65°C-test onnodige vervangingen voorkomt.
 categories:
 - warmtepomp
@@ -29,11 +28,11 @@ faq:
 - q: 'Wat zijn LT-radiatoren en wat kosten ze?'
   a: 'Low Temperature radiatoren zijn radiatoren die ontworpen zijn voor 35-45°C aanvoertemperatuur (i.p.v. 70-80°C bij cv-ketels). Ze hebben grotere oppervlakte of ingebouwde ventilator. Kosten in 2026: passieve LT-radiator €350-€650, actieve (met ventilator) €750-€1.250. Inclusief installatie reken op €450-€1.500 per stuk.'
 - q: 'Hoe weet ik of mijn bestaande radiatoren geschikt zijn voor een warmtepomp?'
-  a: 'Doe de "65°C test": draai cv-ketel terug naar 65°C aanvoer. Bij -5°C buitentemperatuur moet je woning binnen 4 uur op streefemperatuur blijven. Lukt dat: warmtepomp werkt op 50°C, dus bestaande radiatoren voldoen meestal. Lukt het niet: woning niet warm genoeg geïsoleerd of radiatoren te klein. Vaillant en Daikin bieden gratis "low-temp scan" voor potentiële klanten.'
+  a: 'Doe de 65°C-test: draai de cv-ketel in de winter terug naar 65°C aanvoer en kijk per vertrek of de streeftemperatuur nog gehaald wordt. Haalt een vertrek dat niet, dan is daar de afgifte of de isolatie het knelpunt. Vraag daarnaast om de warmteverliesberekening per vertrek; dat is het document waarop een goed radiatoradvies rust.'
 - q: 'Is vloerverwarming altijd beter dan radiatoren bij een warmtepomp?'
   a: 'Technisch wel: vloerverwarming werkt op 30-35°C aanvoer wat 10-15% hogere COP geeft dan LT-radiatoren op 40-45°C. Maar vloerverwarming aanleggen kost €60-€110/m² (dus €6.000-€11.000 voor begane grond), terwijl LT-radiatoren een fractie kosten. Voor renovatie zonder vloer breken zijn LT-radiatoren vaak praktischer.'
 - q: 'Wat is een actieve LT-radiator (met ventilator)?'
-  a: 'Een radiator met ingebouwde ventilator die warme lucht actief uitblaast. Hierdoor kan hij meer warmte afgeven bij lagere watertemperatuur (35-40°C) dan passieve radiatoren (45-50°C). Merken: Jaga Strada, Vasco Niva, Brugman Centric. Kosten €750-€1.250 per stuk maar levert 8-12% hogere COP en silent operation onder 30 dB.'
+  a: 'Een radiator met een ingebouwde ventilator die de warme lucht actief langs de lamellen blaast. Daardoor geeft hij bij een lagere watertemperatuur meer warmte af dan een passieve radiator van hetzelfde formaat. Oriëntatieprijs €750-€1.250 per stuk. Het rendementsvoordeel voor de warmtepomp volgt uit de lagere aanvoertemperatuur die daardoor mogelijk is; hoeveel dat in jouw woning is, hangt af van de stooklijn. Vraag per model het geluidsniveau en het opgenomen ventilatorvermogen uit het productblad op.'
 - q: 'Kan ik gefaseerd radiatoren vervangen?'
   a: 'Ja, en dat is vaak de verstandigste route. Vervang eerst alleen de radiatoren in de vertrekken die bij de 65°C-test onvoldoende presteren, en beoordeel daarna per winter of er nog een bij moet. Een mix van enkele LT-radiatoren en bestaande grotere radiatoren is doorgaans aanzienlijk goedkoper dan alles vervangen, zonder comfortverlies.'
 - q: 'Welke isolatie moet ik eerst doen voordat ik radiatoren vervang?'
@@ -41,26 +40,23 @@ faq:
 - q: 'Werkt een warmtepomp met cv-buizen die in 1980 gelegd zijn?'
   a: 'Meestal wel. Cv-leidingen van koper of staal uit 1980 zijn ruimer gedimensioneerd dan moderne (toen rekenden ze met 70°C). Een warmtepomp draait met 35-45°C wat lagere flow vereist en dus beter past bij oude leidingen. Bij PEX-leidingen na 2000 ook geen probleem. Alleen heel oude (pre-1970) galvaniseerde leidingen vereisen vaak vervanging — anders verzadigingsrisico.'
 - q: 'Heb ik subsidie voor LT-radiatoren in 2026?'
-  a: 'Niet als losse subsidie, maar wel als onderdeel van ISDE-warmtepompsubsidie. ISDE 2026: tot €4.000 voor warmtepomp + bijbehorende aanpassingen (incl LT-radiatoren als ze in offerte staan). Voorwaarde: warmtepomp via erkende installateur en gehele systeem in één opdracht. Kun je niet apart aanvragen voor radiatoren.'
+  a: 'Nee. De ISDE subsidieert het warmtepomptoestel op basis van het typenummer uit de RVO-apparatenlijst; radiatoren zijn geen subsidiabele maatregel, ook niet als ze op dezelfde offerte of factuur staan. Laat je installateur ze dus niet "meenemen voor de subsidie" — in het slechtste geval levert een onduidelijke factuur juist een afwijzing op. Het bedrag voor jouw toestel zoek je op in de apparatenlijst; de aanvraag doe je ná installatie, binnen 24 maanden.'
 - q: 'Welke radiator-merken werken het beste met een warmtepomp?'
-  a: 'Voor passieve LT-radiatoren: Jaga (België) en Vasco (Belgisch-Nederlands) zijn marktleiders. Voor actieve LT-radiatoren: Jaga Strada Hybrid is industrie-standaard, Brugman Centric goed alternatief. Ikea verkoopt geen LT-radiatoren. Bij Praxis/Gamma vooral budget-modellen die voor 45-50°C werken — niet ideaal maar acceptabel voor goed-geïsoleerde huizen.'
+  a: 'Kies niet op merk maar op afgegeven vermogen bij de aanvoertemperatuur die jouw warmtepomp gaat draaien. Elke fabrikant publiceert vermogenstabellen per model bij verschillende aanvoer- en retourtemperaturen; die tabel bij 40 of 45°C is het enige getal dat telt. Een radiator die bij 75°C indrukwekkend presteert, kan bij 40°C de helft minder afgeven.'
 products:
-- name: Vaillant aroTHERM Plus 5 kW
-  url: https://www.vaillant.nl/
-  price: '8500'
+- name: Vaillant aroTHERM
+  url: https://go.duurzaamthuislab.nl/vaillant
+  price: op aanvraag
 - name: Quatt hybride warmtepomp
   url: https://go.duurzaamthuislab.nl/quatt
-  price: '4495'
-- name: Jaga Strada Hybrid LT-radiator
-  url: https://www.jaga.nl/
-  price: '950'
+  price: op aanvraag
 schema_type: Article
 ---
-"Alle radiatoren vervangen, dat is verplicht bij een warmtepomp" is een van de meestgehoorde adviezen bij een warmtepomp-offerte. Bij een woning met negen radiatoren gaat het dan al snel om €11.500-€14.000 alleen aan radiatoren.
+"Alle radiatoren vervangen, dat is verplicht bij een warmtepomp" is een van de meestgehoorde adviezen bij een warmtepomp-offerte. Bij een woning met negen radiatoren gaat het dan al snel om €4.000 tot €9.000 alleen aan radiatoren, afhankelijk van passieve of actieve modellen.
 
 Dat advies klopt vaak niet. Een warmtepomp heeft geen LT-radiatoren nodig, maar voldoende warmteafgifte per vertrek bij een lage aanvoertemperatuur. Of die afgifte uit grote bestaande radiatoren komt of uit nieuwe LT-radiatoren, maakt thermodynamisch niet uit. Met de 65°C-test hieronder stel je per vertrek vast wat werkelijk nodig is — in veel woningen is dat een deel van de radiatoren, niet allemaal.
 
-*Disclosure: wij hebben geen affiliate-relatie met Vaillant, Daikin, Jaga of Vasco. Onderstaande informatie is gebaseerd op fabrikantspecificaties, installatievoorschriften en publieke bronnen zoals RVO.*
+*Disclosure: wij hebben met Vaillant, Quatt, Daikin, Jaga en Vasco geen affiliate- of commissierelatie; de links naar deze partijen leveren ons geen vergoeding op (stand augustus 2026). Onderstaande informatie is gebaseerd op fabrikantspecificaties, installatievoorschriften en publieke bronnen zoals de RVO. Wij hebben zelf geen installaties gemeten.*
 
 ---
 
@@ -75,7 +71,7 @@ De kern van de rekensom: wat levert een lagere aanvoertemperatuur op, en wat kos
 
 Uit de COP-curves van lucht-water warmtepompen volgt dat elke graad lagere aanvoertemperatuur ongeveer 2 tot 2,5% rendementswinst geeft. Ga je van gemiddeld 45°C naar 40°C, dan is dat in de orde van 10% op je verwarmingsstroom.
 
-Reken dat door voor een woning die circa 2.400 kWh per jaar aan de warmtepomp verbruikt: 10% is 240 kWh, bij €0,30/kWh circa €70 per jaar. Zes extra LT-radiatoren kosten €2.700 (passief) tot €6.000 (actief). Zelfs bij de goedkoopste variant is de terugverdientijd daarmee decennia.
+Reken dat door voor een woning die circa 2.400 kWh per jaar aan de warmtepomp verbruikt: 10% is 240 kWh, bij €0,26/kWh all-in circa €62 per jaar. Dat stroomtarief is onze gelabelde aanname (EPEX-jaargemiddelde 2025 plus energiebelasting en een opslagaanname, alles inclusief btw). Zes extra LT-radiatoren kosten €2.700 (passief) tot €6.000 (actief). Zelfs bij de goedkoopste variant is de terugverdientijd daarmee decennia.
 
 Dat is de reden om selectief te vervangen: de winst zit in het wegnemen van de vertrekken die de stooklijn omhoog dwingen, niet in het vervangen van radiatoren die al ruim genoeg zijn. Eén te kleine radiator bepaalt namelijk de aanvoertemperatuur van het hele systeem — vervang die, en de rest hoeft niet.
 
@@ -134,8 +130,8 @@ De overige radiatoren (badkamer, kinderkamers, hal, keuken) blijven in dit voorb
 **Actieve LT-radiatoren** (met ventilator):
 
 - Werken op 35-40°C aanvoer
-- Hogere COP voor warmtepomp (8-12%)
-- Geluid 28-32 dB op laagste stand
+- Maken een lagere stooklijn mogelijk, wat het rendement van de warmtepomp ten goede komt
+- Hebben een ventilator, dus een geluidsopgave en een (klein) eigen stroomverbruik: vraag beide uit het productblad op
 - Duurder: €750-€1.250 per stuk
 - Merken: Jaga Strada Hybrid, Vasco E-volve, Brugman Bosca
 - Geschikt voor: lage aanvoertemp gewenst, ruimtes waar grote radiator niet past
@@ -171,7 +167,7 @@ Bij actieve LT-radiatoren kan afmeting 30-40% kleiner zijn voor zelfde vermogen.
 
 Nogmaals, want dit is de belangrijkste regel: **eerst isoleren, dan de radiator-beslissing**. In volgorde:
 
-1. **Spouwmuurisolatie** (€8-€18/m², ROI 4-6 jaar) — lees [spouwmuur isolatie kosten](/posts/spouwmuur-isolatie-kosten-2026/)
+1. **Spouwmuurisolatie** (€8-€18/m²; de terugverdientijd hangt af van je gasverbruik en de gasprijs) — lees [spouwmuur isolatie kosten](/posts/spouwmuur-isolatie-kosten-2026/)
 2. **Dakisolatie** (€35-€75/m²) — lees [dakisolatie binnenuit vs buitenuit](/posts/dakisolatie-binnenuit-vs-buitenuit-2026/)
 3. **HR++/HR+++ glas** (€220-€350/m²)
 4. **Kierdichting** (€200-€500 totaal) — lees [kierdichting buitendeur](/posts/kierdichting-buitendeur-2026/)
@@ -181,13 +177,15 @@ De reden is rekenkundig: spouwmuur- en dakisolatie verlagen de warmtebehoefte pe
 
 ## Subsidie via ISDE 2026
 
-ISDE-warmtepompsubsidie 2026: tot €4.000 voor warmtepomp + aanpassingen. Voorwaarde:
+Op dit punt gaat veel advies mis, dus expliciet: **de ISDE subsidieert geen radiatoren.** De regeling werkt met een vast bedrag per warmtepomp, gekoppeld aan het typenummer van het toestel zoals dat in de apparatenlijst van de RVO staat. Radiatoren, leidingwerk en een nieuwe circulatiepomp zijn geen subsidiabele maatregel.
 
-- Warmtepomp moet via erkende installateur (RVO-lijst)
-- LT-radiatoren in **dezelfde offerte** als warmtepomp
-- Aanvragen binnen 24 maanden na plaatsing
+Wat wel klopt:
 
-Tip: vraag installateur om radiatoren in de warmtepomp-offerte op te nemen, ook als je gefaseerd installeert. Dan tellen ze voor ISDE. Lees [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/).
+- Je zoekt het bedrag voor jouw toestel op via de **apparatenlijst van de RVO**. Wij noemen hier bewust geen bedrag: dat verschilt per typenummer en per capaciteit.
+- De aanvraag doe je **ná** installatie, binnen **24 maanden** na de uitvoering. Vóór installatie aanvragen kan niet.
+- Bewaar de factuur en de meldcode van het toestel.
+
+Laat je installateur dus niet radiatoren "meenemen zodat ze voor de subsidie tellen". Dat helpt niet, en een factuur waarin toestel en verbouwkosten niet gescheiden zijn, maakt de aanvraag alleen ingewikkelder. Lees [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/).
 
 ## Wanneer vloerverwarming wel zinvol is
 
@@ -206,7 +204,7 @@ Vijf fouten die in installatievoorschriften en op installateursforums structuree
 
 ### Fout 1: alle radiatoren tegelijk vervangen zonder test
 
-Mensen denken: "klaar in één keer". Resultaat: gemiddeld €4.000-€7.000 onnodig uitgegeven aan radiatoren die niet vervangen hadden hoeven worden.
+De gedachte is "klaar in één keer". Het gevolg is dat je ook radiatoren vervangt die het bij een lagere aanvoertemperatuur al hadden gered. Hoeveel dat kost, laat de tabel hierboven zien: het verschil tussen drie en negen radiatoren loopt bij passieve modellen al in de duizenden euro's. De test kost niets en gaat hieraan vooraf.
 
 ### Fout 2: kleine LT-radiatoren omdat het mooi is
 
@@ -214,7 +212,7 @@ Strakke design-radiatoren zoals Vasco Niva ogen mooi maar geven minder vermogen 
 
 ### Fout 3: vergeten thermostaatknoppen te vervangen
 
-Bestaande thermostaatknoppen zijn vaak ingesteld voor 70-80°C systeem. Bij warmtepomp werken ze niet correct (te grote spreiding). Vervangen door **slimme thermostaatknoppen** zoals Eve Thermo of Bosch Easy Control: €60-€120 per stuk, ROI binnen 2-3 jaar door betere efficiency.
+Bestaande thermostaatkranen zijn afgestemd op een systeem dat op 70-80°C draait; bij een warmtepomp is de spreiding tussen aanvoer en retour veel kleiner en regelen ze grof. Slimme of op lage temperatuur afgestemde thermostaatkranen kosten grofweg €60-€120 per stuk. Wat ze opleveren, hangt af van je gebruikspatroon en je stooklijn — een terugverdientijd noemen zou hier een verzonnen getal zijn.
 
 ### Fout 4: cv-buisdiameter te smal
 
@@ -236,9 +234,9 @@ Er zijn situaties waarbij volledig vervangen toch zinvol is:
 
 ## Vergelijking aanvoertemperaturen
 
-Verschillende afgiftesystemen vereisen verschillende aanvoertemperaturen:
+Verschillende afgiftesystemen vereisen verschillende aanvoertemperaturen. De percentages hieronder zijn **indicatief en afgeleid** uit het algemene verband dat elke graad lagere aanvoertemperatuur ongeveer 2 tot 2,5% rendement oplevert; ze zijn geen meting en verschillen per toestel en per klimaatjaar.
 
-| Systeem | Optimale aanvoer | COP-impact warmtepomp |
+| Systeem | Optimale aanvoer | Indicatief rendementseffect |
 |---|---|---|
 | Vloerverwarming | 30-35°C | +15-20% (referentie) |
 | Plafondverwarming | 32-38°C | +10% |
@@ -251,7 +249,7 @@ Een hogere aanvoertemperatuur kost niet alleen efficiency maar ook levensduur. B
 
 ## Werkt warmtepomp met enkel-glas?
 
-Eerlijk antwoord: **niet effectief**. Bij enkelglas is warmteverlies via ramen 4-5x groter dan bij HR++. Een warmtepomp moet dan zo hoog draaien dat efficiency verloren gaat. Eerst minstens HR++ glas (3.000-€5.000 voor gemiddeld huis), daarna pas warmtepomp.
+Eerlijk antwoord: **niet effectief**. Bij enkelglas is warmteverlies via ramen 4-5x groter dan bij HR++. Een warmtepomp moet dan zo hoog draaien dat efficiency verloren gaat. Eerst minstens HR++-glas — de kosten daarvan hangen sterk af van het aantal m² en het kozijnwerk, dus vraag daarvoor een offerte — en daarna pas de warmtepomp.
 
 Lees [dakraam vs dakkapel isolatie](/posts/dakraam-vs-dakkapel-isolatie-2026/) voor isolatie-aspecten.
 
@@ -271,7 +269,7 @@ Een hoge-efficiency-pomp (Wilo Yonos PARA, Grundfos Alpha 2) is vereist voor lag
 
 Drie zaken die regelmatig misgaan tussen klant en installateur.
 
-**Garantie verschilt per merk.** Jaga geeft 5 jaar product + 2 jaar lekkage. Vasco geeft 10 jaar product. Brugman 5 jaar. Voor actieve LT-radiatoren met ventilator: ventilator zelf vaak maar 2-3 jaar. Vraag schriftelijke garantievoorwaarden vóór tekening.
+**Garantie verschilt per merk en per onderdeel.** Vraag de garantievoorwaarden schriftelijk op vóór je tekent, en let op twee dingen: of de garantie op de radiator dezelfde looptijd heeft als die op de ventilator van een actief model (dat is vaak niet zo), en wat er precies onder lekkageschade valt. Wij nemen hier geen garantietermijnen per merk over; die wijzigen en staan alleen betrouwbaar in de actuele voorwaarden van de fabrikant zelf.
 
 **Installateur-garantie op aansluiting.** Vaak slechts 1-2 jaar. Bij lekkage na jaar 3 betaal je arbeidsuren zelf. Vraag offertes met minimaal 5 jaar werk-garantie — dat scheelt bij eventueel storing later.
 
@@ -295,9 +293,9 @@ Het gefaseerde alternatief:
 
 **Stap 2 — 65°C-test.** Stel vast welke vertrekken achterblijven. In een woning van dit type zijn dat er doorgaans twee tot vier, niet negen.
 
-**Stap 3 — warmtepomp plus alleen de nodige radiatoren.** Warmtepomp circa €8.700 na ISDE, plus drie passieve LT-radiatoren circa €2.450.
+**Stap 3 — warmtepomp plus alleen de nodige radiatoren.** Warmtepomp circa €9.800 volgens de offerte hierboven, plus drie passieve LT-radiatoren circa €2.450. De ISDE laten we hier buiten de vergelijking: het bedrag hangt af van het typenummer van het toestel en komt in beide routes even hard in mindering.
 
-**Totaal in dit voorbeeld:** circa €14.400 voor isolatie, warmtepomp én radiatoren — tegenover €15.200 voor warmtepomp en negen radiatoren zónder isolatie. Voor ongeveer hetzelfde bedrag krijg je in de gefaseerde route een beter geïsoleerde woning en een warmtepomp die op een lagere stooklijn kan draaien.
+**Totaal in dit voorbeeld:** circa €15.500 voor isolatie, warmtepomp én radiatoren — tegenover €15.200 voor warmtepomp en negen radiatoren zónder isolatie. Voor ongeveer hetzelfde bedrag krijg je in de gefaseerde route een beter geïsoleerde woning en een warmtepomp die op een lagere stooklijn kan draaien.
 
 De les: de volgorde bepaalt het rendement. Isolatie verlaagt de warmtebehoefte permanent en verkleint tegelijk het aantal radiatoren dat je moet vervangen — dat is dubbele winst op dezelfde euro.
 
@@ -315,11 +313,11 @@ Eerlijk: er zijn situaties waarin LT-radiatoren geen goede investering zijn.
 
 Drie zaken die in NL afwijken van algemene Europese info.
 
-**ISDE-aanvraag procedure.** ISDE (€3.000-€4.000 voor warmtepomp) is alleen aan te vragen door de eindgebruiker — niet door installateur. Aanvraag binnen 24 maanden via mijn.rvo.nl met de meldcode van het apparaat. Bewaar facturen 5 jaar voor controle. LT-radiatoren tellen alleen mee in subsidie als ze op dezelfde factuur staan als de warmtepomp.
+**ISDE-aanvraag procedure.** De ISDE vraag je zelf aan, niet je installateur. Dat gebeurt ná de installatie, binnen 24 maanden, via mijn.rvo.nl met de meldcode van het toestel. Het bedrag hangt af van het typenummer en zoek je op in de apparatenlijst van de RVO — daarom noemen wij hier geen bedrag. Radiatoren tellen niet mee, op welke factuur ze ook staan. Bewaar de factuur voor een eventuele controle.
 
 **BTW op LT-radiatoren.** Op materiaal geldt het algemene BTW-tarief. Voor arbeid aan woningen ouder dan twee jaar kan onder voorwaarden het verlaagde tarief gelden; dat scheelt alleen als materiaal en arbeid gesplitst op de factuur staan. Vraag je installateur expliciet om een gesplitste factuur en check de actuele voorwaarden bij de Belastingdienst — de regels en tarieven wijzigen.
 
-**Bouwbesluit en VVE.** In appartementen met collectieve cv (Bouwbesluit afdeling 6) mag je niet zomaar overstappen op individuele warmtepomp zonder VVE-toestemming. LT-radiatoren binnen je eigen woning vervangen mag wel zonder vergadering. Bij collectieve overgang: VVE-besluit vereist bij gewone meerderheid (artikel 5:128 BW).
+**Appartementen en VvE.** De bouwregelgeving heet sinds 1 januari 2024 het Besluit bouwwerken leefomgeving (Bbl); het Bouwbesluit bestaat niet meer. Voor een appartement is niet het Bbl maar je VvE het beslissende kader: overstappen van een collectieve installatie naar een individuele warmtepomp raakt gemeenschappelijke zaken en vraagt een besluit van de vergadering. Welke meerderheid daarvoor nodig is, staat in jouw splitsingsakte en het bijbehorende reglement — die verschillen per complex, dus lees ze na of vraag het bestuur. Radiatoren binnen je eigen woning vervangen valt doorgaans wél onder je privégedeelte; ook dat check je in de akte.
 
 **Gemeentelijke regelingen.** Verschillende gemeenten hebben aanvullende regelingen voor warmtepompen, doorgaans stapelbaar met ISDE. De bedragen en voorwaarden verschillen per gemeente en wijzigen per jaar; check je gemeentelijke website vóór je tekent, want soms moet je je vooraf aanmelden.
 
@@ -327,9 +325,11 @@ Drie zaken die in NL afwijken van algemene Europese info.
 
 Radiatoren vervangen voor een warmtepomp is **niet altijd nodig**, vaak **gefaseerd mogelijk**, en altijd **na isolatie te beoordelen**. Doe eerst de 65°C-test, isoleer waar mogelijk, en vervang alleen radiatoren in vertrekken die het werkelijk nodig hebben. In veel woningen scheelt dat duizenden euro's zonder comfortverlies.
 
-Twijfel je over welke warmtepomp het beste past? Bekijk [Quatt hybride](https://go.duurzaamthuislab.nl/quatt) (geschikt voor woningen met bestaande radiatoren) of [Vaillant aroTHERM](https://go.duurzaamthuislab.nl/vaillant) (volledig elektrisch met LT-systeem).
+Twijfel je over welke warmtepomp bij jouw afgiftesysteem past? Een hybride opstelling houdt de cv-ketel als achtervang en stelt daardoor lagere eisen aan de radiatoren; een volledig elektrische warmtepomp vraagt een lagere stooklijn en dus meer afgifte per vertrek. Die afweging staat uitgewerkt in [hybride vs. volledige warmtepomp](/posts/hybride-vs-volledige-warmtepomp-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/quatt" target="_blank" rel="nofollow noopener">Bekijk Quatt warmtepomp →</a>
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk het Quatt-aanbod</a>
+
+*Deze link naar Quatt levert ons geen vergoeding op; wij hebben met Quatt geen affiliate- of commissierelatie.*
 
 ---
 
