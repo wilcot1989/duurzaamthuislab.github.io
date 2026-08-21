@@ -16,7 +16,7 @@ faq:
 lastmod: 2026-08-20
 ---
 
-*Disclosure: deze pagina bevat affiliate-links naar batterijfabrikanten. Koop je via zo'n link, dan ontvangen wij mogelijk een commissie — dit kost jou niets extra en heeft geen invloed op de rekentool: die rekent alleen met de waarden die jij invult.*
+*Disclosure: de links naar Zendure en EcoFlow onderaan deze pagina zijn affiliate-links; met beide merken hebben wij een goedgekeurd partnerprogramma. Koop je daar iets, dan ontvangen wij mogelijk een commissie — dat kost jou niets extra en heeft geen invloed op de rekentool: die rekent alleen met de waarden die jij invult.*
 
 Hoe lang duurt het voordat een thuisbatterij zichzelf terugbetaalt? Dat hangt af van zes variabelen. Vul ze hieronder in — de tool rekent de jaaropbrengst uit en telt de opbrengst per jaar op tot je de investering eruit hebt, waarbij de capaciteit elk jaar afneemt door degradatie.
 
@@ -172,7 +172,7 @@ Waarom die onzekerheid zo groot is:
 
 Reken daarom liever met een lage spread als ondergrens en een hoge als bovengrens, en beschouw het verschil als je risicomarge.
 
-## Waarom de saldering-afbouw dit plaatje verandert
+## Waarom de salderings-stop dit plaatje verandert
 
 De rekentool hierboven gaat alleen over handelen op prijsverschillen. Maar het tweede been van een thuisbatterij — je eigen zonnestroom opslaan in plaats van terugleveren — wordt juist waardevoller naarmate de salderingsregeling verdwijnt. Zolang je onbeperkt kunt salderen, is het net feitelijk een gratis batterij; zonder saldering is het verschil tussen de afnameprijs en de terugleververgoeding pure winst voor elke kWh die je zelf opslaat.
 

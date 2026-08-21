@@ -108,7 +108,7 @@ Hieronder staan twee tools. De eerste rekent de runtime uit, de tweede toetst of
     { id:'allpowers-r600',    naam:'ALLPOWERS R600',             wh:299,  w:600,  prijs:'€ 229',   merk:'allpowers' },
     { id:'allpowers-r1500',   naam:'ALLPOWERS R1500',            wh:1152, w:1800, prijs:'€ 569',   merk:'allpowers' },
     { id:'allpowers-r2500',   naam:'ALLPOWERS R2500-V2',         wh:1920, w:2500, prijs:'€ 849',   merk:'allpowers' },
-    { id:'jackery-2000plus',  naam:'Jackery Explorer 2000 Plus',  wh:2042, w:3000, prijs:'zie site', merk:'jackery' },
+    { id:'jackery-2000v2',    naam:'Jackery Explorer 2000 v2',   wh:2042, w:2200, prijs:'zie site', merk:'jackery' },
     { id:'anker-c1000',       naam:'Anker SOLIX C1000',          wh:1056, w:1800, prijs:'zie site', merk:'anker-solix' },
     { id:'bluetti-eb70s',     naam:'Bluetti EB70S',              wh:716,  w:800,  prijs:'zie site', merk:'bluetti' }
   ];
@@ -234,15 +234,12 @@ Hieronder staan twee tools. De eerste rekent de runtime uit, de tweede toetst of
 
 Wil je de modellen naast elkaar zien op looptijd, gewicht en laadsnelheid in plaats van alleen op vermogen? Die vergelijking staat in [beste draagbare powerstation 2026](/posts/beste-draagbare-powerstation-2026/), en voor kampeergebruik in [beste powerstation voor camping 2026](/posts/beste-powerstation-camping-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk de EcoFlow Delta-serie →</a>
-
-<a href="https://go.duurzaamthuislab.nl/allpowers?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk ALLPOWERS (R600 · R1500 · R2500-V2) →</a>
-
-<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Anker SOLIX C1000 →</a>
-
-<a href="https://go.duurzaamthuislab.nl/jackery?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Jackery Explorer 2000 Plus →</a>
-
-<a href="https://go.duurzaamthuislab.nl/bluetti?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Bluetti EB70S →</a>
+Heb je een model uit de lijst op het oog? De actuele prijs en voorraad staan bij de leverancier zelf:
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored">EcoFlow Delta-serie</a> ·
+<a href="https://go.duurzaamthuislab.nl/allpowers?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored">ALLPOWERS R600 · R1500 · R2500-V2</a> ·
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored">Anker SOLIX C1000</a> ·
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored">Jackery Explorer 2000 v2</a> ·
+<a href="https://go.duurzaamthuislab.nl/bluetti?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored">Bluetti EB70S</a>
 
 ## Wattuur en watt: twee getallen die niet uitwisselbaar zijn
 

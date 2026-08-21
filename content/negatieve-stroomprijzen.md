@@ -18,7 +18,7 @@ faq:
 lastmod: 2026-08-20
 ---
 
-*Disclosure: dit artikel bevat affiliate-links naar energieaanbieders. Sluit je via zo'n link een contract af, dan ontvangen wij mogelijk een commissie — dit kost jou niets extra en beïnvloedt de getoonde prijzen niet: die komen rechtstreeks van de stroombeurs.*
+*Disclosure: de link naar Frank Energie onderaan deze pagina is een gewone verwijzing — wij hebben met die leverancier op dit moment geen commissierelatie en ontvangen er dus niets voor. Komt er wel een samenwerking, dan passen we deze regel aan en markeren we de link als `sponsored`. De getoonde prijzen komen rechtstreeks van de stroombeurs en staan los van welke samenwerking dan ook.*
 
 Negatieve stroomprijzen betekenen dat de kale beursprijs voor een uur onder nul staat: wie op dat moment stroom afneemt, krijgt voor die kilowattuurprijs geld toe in plaats van dat hij betaalt. Hieronder staat de live stand voor vandaag en (na circa 15:00) morgen, op basis van de day-ahead-veiling.
 
@@ -178,4 +178,4 @@ Daar komt bij dat de salderingsregeling verdwijnt. Vanaf dat moment bepaalt niet
 
 **Contractvorm heroverwegen.** Een dynamisch contract maakt negatieve uren zichtbaar en bruikbaar, maar legt het uurrisico wel bij jou. Zonder automatisering (batterij, slimme laadsessies, apparaten die je echt verschuift) is het voordeel klein. De aanbieders en hun opbouw staan naast elkaar in onze [vergelijker van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/).
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/negatieve-stroomprijzen/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Frank Energie (dynamisch contract) →</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/negatieve-stroomprijzen/" target="_blank" rel="noopener nofollow" class="cta">Bekijk Frank Energie (dynamisch contract) →</a>

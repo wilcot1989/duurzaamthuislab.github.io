@@ -10,7 +10,7 @@ faq:
 - q: 'Waarom wijkt de dagverwachting soms sterk af van wat mijn omvormer laat zien?'
   a: 'De verwachting gebruikt één landelijk instralingscijfer en een vaste performance ratio. Lokale bewolking, schaduw op jouw dak en de dimensionering van je omvormer zorgen voor afwijkingen in beide richtingen. Over een langere periode lopen model en werkelijkheid doorgaans dichter bij elkaar dan op een enkele dag.'
 - q: 'Kan ik met deze tool berekenen of zonnepanelen zich terugverdienen?'
-  a: 'Niet direct: de tool rekent opbrengst in kWh, geen euro''s. Wat een kWh je waard is, hangt af van je contractvorm, hoeveel je zelf verbruikt, eventuele terugleverkosten en de afbouw van de saldering. Voor de financiële kant zijn de pagina''s over [terugleverkosten](/posts/terugleverkosten-zonnepanelen-2026/) en [het einde van de saldering](/posts/saldering-stopt-2027-volledige-gids/) het startpunt.'
+  a: 'Niet direct: de tool rekent opbrengst in kWh, geen euro''s. Wat een kWh je waard is, hangt af van je contractvorm, hoeveel je zelf verbruikt, eventuele terugleverkosten en het einde van de saldering per 1 januari 2027. Voor de financiële kant zijn de pagina''s over [terugleverkosten](/posts/terugleverkosten-zonnepanelen-2026/) en [het einde van de saldering](/posts/saldering-stopt-2027-volledige-gids/) het startpunt.'
 lastmod: 2026-08-20
 ---
 

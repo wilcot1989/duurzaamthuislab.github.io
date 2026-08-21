@@ -17,10 +17,10 @@ faq:
 - q: 'Kan ik overstappen om terugleverkosten te ontlopen?'
   a: 'Vaak wel, maar niet altijd zonder gevolgen. Een dynamisch contract is bij de aanbieders in deze tabel meestal maandelijks of dagelijks opzegbaar, terwijl een lopend vast contract een opzegvergoeding kan hebben. Let ook op de andere kant van de rekening: bij dynamisch verruil je een voorspelbaar staffelbedrag voor een opbrengst die per uur meebeweegt. Bekijk daarom eerst wat je werkelijk teruglevert en of je dat aandeel kunt verlagen door zelf te verbruiken.'
 - q: 'Bepaalt jullie commissie de volgorde van deze tabel?'
-  a: 'Nee. De tabel staat op alfabetische volgorde van leveranciersnaam — dat is de enige rangschikkingsparameter. Bij een deel van de leveranciers kunnen wij een affiliate-vergoeding ontvangen, bij een ander deel niet, en dat verandert de volgorde of de tekst niet.'
+  a: 'Nee. De tabel staat op alfabetische volgorde van leveranciersnaam — dat is de enige rangschikkingsparameter. Bij één leverancier (energiedirect) ontvangen wij een affiliate-vergoeding, bij de rest niet, en dat verandert de volgorde of de tekst niet.'
 ---
 
-*Disclosure: deze pagina bevat affiliate-links naar energieleveranciers. Sluit je via zo'n link een contract af, dan ontvangen wij mogelijk een commissie — dit kost jou niets extra en beïnvloedt niet welke aanbieders we opnemen of in welke volgorde ze staan. Zie [hoe we geld verdienen](/how-we-earn/).*
+*Disclosure: met één leverancier in deze tabel hebben wij een affiliate-relatie — energiedirect. Sluit je via die link een contract af, dan ontvangen wij mogelijk een commissie; dat kost jou niets extra. De links naar alle andere leveranciers zijn gewone verwijzingen zonder vergoeding. Dat beïnvloedt niet welke leveranciers we opnemen of in welke volgorde ze staan. Zie [hoe we geld verdienen](/how-we-earn/).*
 
 > **Kort antwoord:** terugleverkosten verschillen niet een paar procent maar een factor tien tussen leveranciers, en ze hangen vooral af van je **contracttype**. Bij vaste en variabele contracten rekenen Budget Thuis, energiedirect, Essent, Frank Energie en Vattenfall met een **staffel** — een vast bedrag per dag of per jaar op basis van hoeveel je teruglevert. Eneco, ENGIE, Greenchoice en Oxxio rekenen een **vast bedrag per teruggeleverde kWh**, maar publiceren dat bedrag niet vrij: dat zie je pas in je contract of de app. Bij de **dynamische** contracten die wij konden controleren — ANWB Energie, Budget Thuis, Eneco Dynamisch, energiedirect, Tibber, Vattenfall FlexPrijs en Zonneplan — worden **geen terugleverkosten** gerekend; daar zit de prijs al in de uurtarieven verwerkt.
 
@@ -28,7 +28,7 @@ faq:
 
 Je zonnepanelen leveren op het moment dat het hele land zon heeft. Dat is precies het moment waarop stroom het minst waard is. Op zonnige lentemiddagen zakt de beursprijs regelmatig onder nul: je leverancier moet dan bijbetalen om jouw kilowattuur kwijt te raken. Hoe dat werkt en hoe vaak het gebeurt staat op onze pagina over [negatieve stroomprijzen](/negatieve-stroomprijzen/); de actuele uurprijzen van vandaag en morgen staan live op [stroomprijzen per uur](/stroomprijzen/).
 
-Bij een vast of variabel contract heeft je leverancier daar geen ventiel voor. Hij heeft jou een vast tarief per kWh belooft, moet jouw teruglevering inkopen tegen de prijs van dat moment, en draait daarnaast op voor de onbalanskosten van een productie die niemand precies kan voorspellen. Sinds medio 2024 hebben vrijwel alle grote leveranciers daar een aparte post voor ingevoerd: terugleverkosten.
+Bij een vast of variabel contract heeft je leverancier daar geen ventiel voor. Hij heeft jou een vast tarief per kWh beloofd, moet jouw teruglevering inkopen tegen de prijs van dat moment, en draait daarnaast op voor de onbalanskosten van een productie die niemand precies kan voorspellen. Sinds medio 2024 hebben vrijwel alle grote leveranciers daar een aparte post voor ingevoerd: terugleverkosten.
 
 Belangrijk om te snappen: terugleverkosten en terugleververgoeding zijn **twee verschillende dingen die apart verrekend worden**. ENGIE zegt dat expliciet op de eigen site — ze hebben "geen invloed op elkaar". Je kunt dus een mooie vergoeding per kWh krijgen en er toch per saldo op achteruitgaan, omdat de kosten daarnaast staan. Essent noemt bijvoorbeeld een terugleververgoeding van € 0,15/kWh én een staffel met terugleverkosten.
 
@@ -70,7 +70,7 @@ Twee valkuilen in de kleine letters:
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.budgetthuis.nl/energie/terugleverkosten" target="_blank" rel="noopener nofollow">budgetthuis.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/eneco?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Eneco</a></strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/eneco?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Eneco</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Variabel, vast en VoordeelMomenten</td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Vast tarief per teruggeleverde kWh</strong> — model wél gepubliceerd, bedrag niet: "In onze app en Mijn Eneco zie je de tarieven die voor jouw contract gelden". Bedrag: <em>zie site</em>.<br><strong>Eneco Dynamisch: geen terugleverkosten</strong>; je krijgt per uur hetzelfde leveringstarief als voor afname, wel een verkoopvergoeding over wat je méér teruglevert dan afneemt.</td>
       <td style="padding:.7rem;vertical-align:top;">Model 20 aug 2026<br><span style="color:#666;font-size:.82rem;">bedrag: zie site</span></td>
@@ -81,7 +81,7 @@ Twee valkuilen in de kleine letters:
       <td style="padding:.7rem;vertical-align:top;">Variabel en vast<br><span style="color:#666;font-size:.82rem;">dynamisch apart, zie hieronder</span></td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Staffel, vast bedrag per dag.</strong> Gepubliceerde ankerpunten: 0–250 kWh <strong>€ 0,00/dag</strong>, 251–500 kWh <strong>€ 0,13367/dag</strong> (€ 4,07/mnd), 1.001–1.250 kWh <strong>€ 0,40059/dag</strong> (€ 12,19/mnd), vanaf 10.000 kWh <strong>€ 3,65069/dag</strong> (€ 111,04/mnd). Vast contract gestart vóór 1 jun 2024: pas na aflopen contract.<br><strong>Dynamisch: geen extra kosten voor teruglevering.</strong></td>
       <td style="padding:.7rem;vertical-align:top;">20 aug 2026<br><span style="color:#666;font-size:.82rem;">staffel per 1 jun / 1 jul 2024</span></td>
-      <td style="padding:.7rem;vertical-align:top;"><a href="https://www.energiedirect.nl/klantenservice/terugleverkosten" target="_blank" rel="noopener nofollow">energiedirect.nl</a></td>
+      <td style="padding:.7rem;vertical-align:top;">energiedirect.nl/klantenservice/terugleverkosten</td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
       <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/engie?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">ENGIE</a></strong></td>
@@ -91,14 +91,14 @@ Twee valkuilen in de kleine letters:
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.engie.nl/product-advies/zonnepanelen/orientatie/terugleverkosten" target="_blank" rel="noopener nofollow">engie.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;background:#fafbfc;">
-      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/essent?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Essent</a></strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/essent?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Essent</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Vast en variabel<br><span style="color:#666;font-size:.82rem;">wanneer je betaalt hangt af van je contractdatum</span></td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Staffel, vast bedrag per dag</strong> op basis van jaarlijkse teruglevering. Gepubliceerde ankerpunten (incl. btw): 0–250 kWh <strong>€ 0,00/dag</strong>, 251–500 kWh <strong>€ 0,13367/dag</strong> (€ 4,07/mnd), vanaf 10.000 kWh <strong>€ 3,65069/dag</strong> (€ 111,04/mnd). Terugleververgoeding <strong>€ 0,15000/kWh</strong>, verhoogd per 1 jul 2025. Vanaf 1 jan 2027 andere berekening.</td>
       <td style="padding:.7rem;vertical-align:top;">20 aug 2026<br><span style="color:#666;font-size:.82rem;">tarievenblad per 1 jan 2025</span></td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.essent.nl/zonnepanelen/kosten/terugleverkosten" target="_blank" rel="noopener nofollow">essent.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Frank Energie</a></strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Frank Energie</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Vast en variabel</td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Staffel per jaar</strong> op basis van teruggeleverd volume, "zoals Frank Energie die vanaf 1 juni 2025 toepast bij vaste en variabele contracten". De staffeltabel staat op de eigen pagina als <strong>afbeelding</strong>, niet als tekst — daarom: <em>staffel, zie site</em>. De bedragen in de rekenvoorbeelden op die pagina zijn illustratief en nemen wij niet als tarief over.</td>
       <td style="padding:.7rem;vertical-align:top;">Model 20 aug 2026<br><span style="color:#666;font-size:.82rem;">bedragen: zie site</span></td>
@@ -112,7 +112,7 @@ Twee valkuilen in de kleine letters:
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.greenchoice.nl/klantenservice/terugleverkosten/" target="_blank" rel="noopener nofollow">greenchoice.nl</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/oxxio?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Oxxio</a></strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/oxxio?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Oxxio</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Vast, variabel, dynamisch en hybride<br><span style="color:#666;font-size:.82rem;">eigen site noemt deze vier</span></td>
       <td style="padding:.7rem;vertical-align:top;"><strong>"Een vast bedrag per teruggeleverde kilowattuur (kWh)."</strong> Bedrag niet publiek: "Je persoonlijke tarieven en kosten vind je altijd terug in de Oxxio App of in Mijn Oxxio". Bedrag: <em>zie site</em>. Oxxio differentieert de gepubliceerde uitleg niet per contracttype.</td>
       <td style="padding:.7rem;vertical-align:top;">Model 20 aug 2026<br><span style="color:#666;font-size:.82rem;">bedrag: zie site</span></td>
@@ -126,7 +126,7 @@ Twee valkuilen in de kleine letters:
       <td style="padding:.7rem;vertical-align:top;"><a href="https://tibber.com/nl/energiecontract" target="_blank" rel="noopener nofollow">tibber.com</a></td>
     </tr>
     <tr style="border-bottom:1px solid #e2e8f0;">
-      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/vattenfall?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored" style="color:inherit;">Vattenfall</a></strong></td>
+      <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/vattenfall?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Vattenfall</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Variabel en vast vanaf 1 jul 2024<br><span style="color:#666;font-size:.82rem;">FlexPrijs apart, zie hieronder</span></td>
       <td style="padding:.7rem;vertical-align:top;"><strong>Vaste terugleverkosten volgens staffel</strong>, sinds 1 jul 2024. Drempel: "Lever je minder terug dan 500 kWh, dan betaal je geen vaste terugleverkosten." Een vast contract dat vóór 1 jul 2024 startte betaalt niets zolang het loopt. De staffeltabel per 1 mei 2026 publiceert Vattenfall als los tarievendocument, niet als leesbare tekst op de pagina — daarom: <em>staffel, zie site</em>. Vanaf 1 jan 2027 gaat Vattenfall over op variabele terugleverkosten: "een bedrag per kWh".<br><strong>FlexPrijs (dynamisch): "betaal je nu geen vaste terugleverkosten".</strong></td>
       <td style="padding:.7rem;vertical-align:top;">Model 20 aug 2026<br><span style="color:#666;font-size:.82rem;">staffelbedragen: zie site (per 1 mei 2026)</span></td>
@@ -149,7 +149,7 @@ Twee valkuilen in de kleine letters:
 
 Wat je eruit kunt halen: **het model** per leverancier, en dat is de beslissing die het meeste geld scheelt. Een staffel per dag betaal je ook op dagen dat je bijna niets teruglevert; een bedrag per kWh beweegt mee met je opbrengst; bij dynamisch betaal je geen aparte post maar wordt de waarde van je stroom per uur bepaald.
 
-Wat je er niet uit kunt halen: een sluitende jaarrekening. Vier van de twaalf leveranciers publiceren het bedrag niet, en de staffels die wél openbaar staan hebben verschillende peildata (Budget Thuis 16 dec 2025, Essent 1 jan 2025, Vattenfall per 1 mei 2026 in een los document). Wie deze cijfers optelt tot "leverancier X kost je € Y per jaar", rekent met aannames.
+Wat je er niet uit kunt halen: een sluitende jaarrekening. Zes van de twaalf leveranciers publiceren geen bedrag: bij vier (Eneco, ENGIE, Greenchoice en Oxxio) staat het tarief per kWh alleen in je contract, de app of de mijn-omgeving, en bij twee (Frank Energie en Vattenfall) staat de staffel alleen als afbeelding of los tarievendocument. De staffels die wél openbaar staan hebben verschillende peildata (Budget Thuis 16 dec 2025, Essent 1 jan 2025, Vattenfall per 1 mei 2026 in een los document). Wie deze cijfers optelt tot "leverancier X kost je € Y per jaar", rekent met aannames.
 
 Meer achtergrond bij de staffels zelf staat in ons overzicht van de [terugleverstaffels per energieleverancier](/posts/terugleverstaffel-energieleveranciers-2026/).
 
@@ -161,7 +161,7 @@ Er zijn drie routes, en ze zijn te combineren.
 
 Een concreet aandachtspunt: Frank Energie past de terugleverstaffel toe bij vaste en variabele contracten, en publiceert de bedragen alleen als afbeelding. Heb je panelen en overweeg je Frank, lees die pagina dan eerst zelf met je eigen teruglevervolume erbij.
 
-<p style="margin:1.4rem 0;"><a class="cta cta-affiliate" href="https://go.duurzaamthuislab.nl/frank-energie?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow sponsored">Bekijk Frank Energie →</a></p>
+<p style="margin:1.4rem 0;"><a class="cta" href="https://go.duurzaamthuislab.nl/frank-energie?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow">Bekijk Frank Energie →</a></p>
 
 Bij energiedirect staat op de eigen klantenservicepagina expliciet dat je met een dynamisch contract geen extra kosten voor teruglevering betaalt, terwijl het variabele contract onder de dagstaffel valt. Dat is precies het verschil dat deze pagina probeert zichtbaar te maken.
 
@@ -175,9 +175,9 @@ De volledige achtergrond bij deze post — hoe hij is ontstaan en hoe hij zich v
 
 ## Transparantie: hoe wij aan deze pagina verdienen
 
-- **Wat wij verdienen.** Bij een deel van de leveranciers in deze tabel kunnen wij een affiliate-vergoeding ontvangen wanneer je via onze knop een contract afsluit. Op het moment van publiceren loopt dat niet bij alle partijen: waar geen programma actief is, brengt de knop je gewoon rechtstreeks naar de site van de leverancier. Geen leverancier staat hier *omdat* er commissie tegenover staat, en geen leverancier is weggelaten omdat die niets oplevert.
+- **Wat wij verdienen.** Op het moment van bijwerken loopt er één actieve affiliate-samenwerking met een leverancier uit deze tabel: energiedirect. Bij alle andere leveranciers brengt de knop je zonder vergoeding rechtstreeks naar de site van de leverancier; bij een deel van hen kan daar op termijn een programma bijkomen. Geen leverancier staat hier *omdat* er commissie tegenover staat, en geen leverancier is weggelaten omdat die niets oplevert.
 - **Rangschikkingsparameters (art. 6:193e BW).** De volgorde in de tabel is **alfabetisch op leveranciersnaam**. Dat is de enige parameter: geen weging op commissiehoogte, geen betaalde plaatsing, geen "aanbevolen" positie bovenaan.
-- **Waar de feiten vandaan komen.** Alles in deze vergelijking is op 20 augustus 2026 gecontroleerd op de website of het helpcentrum van de leverancier zelf, en de bronkolom linkt naar de pagina waar we het vandaan hebben. Wat wij daar niet konden teruglezen, staat er niet in — vandaar de "zie site"-vermeldingen bij Eneco, ENGIE, Greenchoice en Oxxio en bij de staffelbedragen van Frank Energie en Vattenfall. Wij nemen geen tarieven over van vergelijkingssites.
-- **Wat wij niet doen.** Geen betaalde reviews, geen gesponsorde plaatsingen, geen verborgen links. Elke commerciële link op deze pagina is gemarkeerd met `rel="sponsored"`. Meer hierover in [hoe we geld verdienen](/how-we-earn/) en de [affiliate-disclosure](/affiliate-disclosure/).
+- **Waar de feiten vandaan komen.** Alles in deze vergelijking is op 20 augustus 2026 gecontroleerd op de website of het helpcentrum van de leverancier zelf, en de bronkolom noemt de pagina waar we het vandaan hebben (bij energiedirect als platte tekst, omdat een directe link daar een commerciële link zou zijn). Wat wij daar niet konden teruglezen, staat er niet in — vandaar de "zie site"-vermeldingen bij Eneco, ENGIE, Greenchoice en Oxxio en bij de staffelbedragen van Frank Energie en Vattenfall. Wij nemen geen tarieven over van vergelijkingssites.
+- **Wat wij niet doen.** Geen betaalde reviews, geen gesponsorde plaatsingen, geen verborgen links. Elke link waaraan wij kunnen verdienen is gemarkeerd met `rel="sponsored"` — dat is op deze pagina alleen energiedirect. De overige links zijn gewone verwijzingen en dragen dat kenmerk dus niet. Meer hierover in [hoe we geld verdienen](/how-we-earn/) en de [affiliate-disclosure](/affiliate-disclosure/).
 
 De veelgestelde vragen over terugleverkosten staan hieronder.

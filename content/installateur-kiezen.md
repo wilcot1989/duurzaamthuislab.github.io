@@ -16,7 +16,9 @@ faq:
 lastmod: 2026-08-20
 ---
 
-*Disclosure: deze pagina bevat affiliate-links naar een offerteplatform. Vraag je daar een offerte aan, dan ontvangen wij mogelijk een vergoeding — dit kost jou niets extra en heeft geen invloed op de criteria in de checklist: die zijn allemaal zelfstandig verifieerbaar.*
+*Disclosure: de link naar het offerteplatform op deze pagina is een gewone verwijzing — wij ontvangen daar op dit moment geen vergoeding voor. Komt daar een samenwerking uit, dan passen we deze regel aan en markeren we die link als `sponsored`. De criteria in de checklist zijn allemaal zelfstandig verifieerbaar en veranderen daar niet van.*
+
+> **Kort antwoord:** vraag om drie dingen die je zelf kunt nachecken — het KvK-nummer (zoek het op in het Handelsregister), de exacte naam van de erkenningsregeling plus het registernummer (InstallQ voor pv en warmtepompen, BRL 6000-21 voor bodemgebonden systemen), en twee referentieadressen van vergelijkbare projecten uit de afgelopen twee jaar. Laat daarnaast een substantieel deel van het bedrag pas ná oplevering betalen en leg schriftelijk vast wat "opgeleverd" betekent. Een installateur die op geen van die punten iets kan laten zien, valt af — ongeacht de prijs.
 
 De meeste klachten over zonnepanelen- en warmtepompinstallaties gaan niet over het product, maar over de installatie: een verkeerd gedimensioneerd systeem, werk dat niet volgens de normen is aangesloten, of een bedrijf dat na de aanbetaling niet meer opneemt. Het goede nieuws is dat je de belangrijkste risico's vóór het ondertekenen kunt uitsluiten — met vragen waarop het antwoord controleerbaar is.
 
@@ -154,7 +156,7 @@ Praktische aanpak:
 3. **Loop de zeven punten hierboven per aanbieder na** en bewaar de antwoorden schriftelijk.
 4. **Laat de laagste prijs niet automatisch winnen.** Een lagere prijs die de meterkastaanpassing of het waterzijdig inregelen buiten de opdracht laat, is geen lagere prijs.
 
-<a href="https://go.duurzaamthuislab.nl/slimster?ref=/installateur-kiezen/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Offertes van installateurs in je regio vergelijken →</a>
+<a href="https://go.duurzaamthuislab.nl/slimster?ref=/installateur-kiezen/" target="_blank" rel="noopener nofollow" class="cta">Offertes van installateurs in je regio vergelijken →</a>
 
 Ook via een offerteplatform blijft de checklist hierboven je eigen werk: een platform selecteert bedrijven op zijn eigen voorwaarden, niet op de jouwe.
 
