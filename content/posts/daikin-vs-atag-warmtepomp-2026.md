@@ -1,305 +1,202 @@
 ---
-title: "Daikin vs Atag warmtepomp 2026: welke kies je en waarom?"
-date: 2026-08-15T08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: "Daikin Altherma 3 vs Atag Energion vergeleken op SCOP, geluid, app, prijs en NL-service. Welke warmtepomp is in 2026 de slimme keuze?"
-categories: ["warmtepompen"]
-tags: ["Daikin", "Atag", "warmtepomp", "vergelijking", "versus", "Altherma", "Energion"]
-keywords: ["daikin vs atag", "atag vs daikin warmtepomp", "altherma vs energion", "warmtepomp vergelijking 2026", "daikin of atag"]
+title: 'Daikin vs ATAG warmtepomp 2026: welke kies je en waarom?'
+date: 2026-08-15 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
+description: 'Daikin Altherma naast ATAG Energion, vergeleken op wat beide fabrikanten publiceren: modellijnen, aanvoertemperatuur, koudemiddel, service-organisatie en de vragen die je in de offerte moet stellen.'
+categories:
+- warmtepompen
+tags:
+- Daikin
+- Atag
+- warmtepomp
+- vergelijking
+- versus
+- Altherma
+- Energion
+keywords:
+- daikin vs atag
+- atag vs daikin warmtepomp
+- altherma vs energion
+- warmtepomp vergelijking 2026
+- daikin of atag
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
-featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70"
-schema_type: "Article"
-last_updated: 2026-08-15
+featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
+schema_type: Article
 faq:
-  - q: "Welke is beter: Daikin Altherma 3 of Atag Energion?"
-    a: "Daikin wint op stilte (32 dB vs 35 dB), app-kwaliteit (Onecta vs Atag One) en SCOP (4.7 vs 4.6). Atag wint op prijs (€8.500 vs €15.500), Nederlandse service (Lichtenvoorde) en installateurs-netwerk. Voor 80% van NL-huishoudens is Atag de slimmere keuze; voor 20% (luxe, strikte buurnorm, prestige) Daikin."
-  - q: "Wat is het echte prijsverschil?"
-    a: "Daikin Altherma 3 11 kW + buffer + boiler + installatie: €13.500-€19.000. Atag Energion 11 kW vergelijkbaar: €8.500-€12.500. Verschil: €4.000-€7.000 voor vergelijkbaar vermogen. Na ISDE-subsidie (€4.000-€4.700) blijft een verschil van €4.000-€6.500."
-  - q: "Welke is stiller?"
-    a: "Daikin Altherma 3 R: 32 dB op 3 meter. Atag Energion M: 35 dB. Beide ruim binnen de NL-norm van 40 dB op de erfgrens. Voor strikte gemeentelijke ordeningen of bij naaste buren: Daikin geeft 3 dB extra speelruimte."
-  - q: "Welke heeft betere app?"
-    a: "Daikin Onecta is duidelijk superieur: alle parameters zichtbaar, scenes, schedules, dynamic energy integratie. Atag One is functioneel maar mist features (geen dynamic pricing, beperkte automation). Voor smart-home gebruikers: Daikin. Voor 'gewoon de thermostaat': beide werken."
-  - q: "Welke is geschikter voor oude radiatoren?"
-    a: "Beide halen 70-75°C aanvoertemperatuur. Daikin Altherma 3 H HT: tot 80°C (uniek). Atag Energion: tot 70°C. Voor woningen die geen vloerverwarming willen aanleggen en oude radiatoren behouden: Daikin Altherma 3 H HT. Anders: beide volstaan."
-  - q: "Welke is sneller te installeren?"
-    a: "Atag heeft een veel groter installateurs-netwerk in NL (met audits door Atag). Wachttijd Atag: 4-8 weken. Daikin afhankelijk van lokale dealer (sommige regio's 6-12 weken). Voor snelle installatie: Atag heeft de voorsprong."
-  - q: "Welke garantie krijgen wij?"
-    a: "Daikin: 7 jaar product, 5 jaar compressor (uitbreidbaar tot 10 jaar tegen €450). Atag: 7 jaar product standaard (gratis), 10 jaar bij erkend Atag-installateur. Atag's garantie is vriendelijker en geldt automatisch bij erkend installateur."
-  - q: "Wat moet ik kopen?"
-    a: "Standaard rijtjeshuis, gemiddeld budget, NL-service belangrijk: Atag Energion. Twee-onder-een-kap of villa, premium app, strikte buurnorm: Daikin Altherma 3. Hele oude radiatoren met 80°C nodig: Daikin Altherma 3 H HT. Budget hard krap: kijk naar Quatt of Itho Daalderop in plaats."
+- q: Welke is beter, Daikin Altherma of ATAG Energion?
+  a: 'Die vraag heeft geen algemeen antwoord, omdat het geen twee toestellen zijn maar twee modellijnen. Wat je wél kunt vaststellen: Daikin heeft met de Altherma 4 H op R290 een hogetemperatuurmodel dat volgens de fabrikant tot 75 °C aanvoert en tot -28 °C blijft werken; ATAG noemt voor de all-electric Energion-lijn een COP tot 5,0 bij A7/W35 en energielabel A+++. De keuze hangt af van de aanvoertemperatuur die jouw woning nodig heeft en van de installateur die je kunt krijgen — niet van een merkoordeel.'
+- q: Wat is het prijsverschil?
+  a: 'Geen van beide fabrikanten publiceert consumentenprijzen; beide merken lopen via installateurs en groothandel. Wat je betaalt komt uit een offerte waarin ook leidingwerk, elektra, een eventueel buffervat, een tapwatervoorziening en het inregelen zitten. Die posten verschillen per woning meer dan het toestel zelf. Prijslijsten die je elders tegenkomt zijn schattingen; wij nemen ze niet over. Vraag minstens twee offertes op, liefst bij een installateur die beide merken levert.'
+- q: Welke is stiller?
+  a: 'Fabrikanten publiceren geluidsvermogen en geluidsdruk onder testcondities, en die twee zijn niet zonder omrekening vergelijkbaar. Belangrijker: geen van beide getallen is de waarde die op jouw perceelgrens uitkomt — die hangt af van afstand, opstelhoogte en reflecterende gevels of schuttingen. De norm uit het Besluit bouwwerken leefomgeving is 45 dB overdag en 40 dB in de avond- en nachtperiode op de perceelgrens. Laat de installateur die waarde vóór plaatsing berekenen.'
+- q: Welke is geschikter voor oude radiatoren?
+  a: 'Daikin heeft daar een uitgesproken aanbod voor: de Altherma 3 H HT haalt volgens Daikin maximaal 70 °C aanvoer, en de nieuwere Altherma 4 H op R290 tot 75 °C. Dat maakt all-electric mogelijk zonder het afgiftesysteem te vervangen. Let wel op de keerzijde: hoe hoger de aanvoertemperatuur, hoe lager het rendement. Een COP-opgave bij 35 °C aanvoer zegt niets over het verbruik bij 70 °C. Voor ATAG geldt hetzelfde principe — controleer de maximale aanvoertemperatuur op het technische blad van het aangeboden model.'
+- q: Hoe zit het met de service?
+  a: 'Daikin werkt in Nederland met een netwerk van erkende dealers; ATAG heeft een eigen Nederlandse organisatie en werkt met erkende installateurs. Bij beide merken bepaalt de partij die je uitkiest een groot deel van je ervaring: de installatiekwaliteit en het inregelen wegen zwaarder dan het merklogo. Vraag naar responstijden bij storing, of onderdelen op voorraad liggen, en hoe garantieafhandeling loopt — schriftelijk.'
+- q: Hoeveel ISDE-subsidie krijg ik?
+  a: 'Het startbedrag in 2026 is €1.025, plus €200 labelbonus als aan de voorwaarden daarvoor is voldaan. Het exacte bedrag hangt af van het toestel op de RVO-apparatenlijst, dus wij noemen geen bedragen per merk of model. Je vraagt aan ná installatie, binnen 24 maanden na de uitvoeringsdatum. Op de warmtepomp en de installatie geldt 21 procent btw; het nultarief geldt uitsluitend voor zonnepanelen.'
+- q: Welk koudemiddel moet ik kiezen?
+  a: 'De Europese F-gasverordening bouwt gefluoreerde koudemiddelen af. Toestellen op propaan (R290) zijn daarmee de bestendigere keuze: Daikin voert R290 in de Altherma 4-lijn, ATAG noemt R32 bij onder meer de Energion S en de hybride monoblock. R32 is niet verboden en blijft leverbaar, maar bij een toestel dat vijftien tot twintig jaar mee moet, is de beschikbaarheid van koudemiddel voor reparatie een reële afweging. Vraag welk koudemiddel in het aangeboden model zit.'
+- q: Wat moet ik doen voordat ik kies?
+  a: 'Laat een warmteverliesberekening per vertrek maken en vaststellen welke aanvoertemperatuur je woning op de koudste dag nodig heeft. Dat getal bepaalt welke toestellen überhaupt in aanmerking komen en wat je rendement wordt — en het is belangrijker dan het merk. Pas daarna is een merkvergelijking zinvol.'
 products:
-  - name: "Atag Energion warmtepomp"
-    url: "https://go.duurzaamthuislab.nl/atag"
-    price: "8500"
-  - name: "Daikin Altherma 3"
-    url: "https://go.duurzaamthuislab.nl/daikin"
-    price: "15500"
-  - name: "Vaillant aroTHERM plus (alternatief)"
-    url: "https://go.duurzaamthuislab.nl/vaillant"
-    price: "14500"
-  - name: "Quatt warmtepomp huurmodel"
-    url: "https://go.duurzaamthuislab.nl/quatt"
-    price: "6500"
+- name: ATAG Energion warmtepomp
+  url: https://go.duurzaamthuislab.nl/atag
+- name: Daikin Altherma
+  url: https://go.duurzaamthuislab.nl/daikin
+- name: Vaillant aroTHERM plus (alternatief)
+  url: https://go.duurzaamthuislab.nl/vaillant
 ---
-*Disclosure: de links naar ATAG, Daikin, Quatt en Vaillant in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Onze vergelijking is gebaseerd op fabrieksspecificaties, installatiehandleidingen, publieke prijslijsten en geverifieerde gebruikersreviews.*
+*Disclosure: de verwijzingen naar ATAG, Daikin en Vaillant in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en verdienen niets aan de links. Onze vergelijking is gebaseerd op fabrieksspecificaties en publieke productinformatie, met bron en ophaaldatum bij de betreffende passages.*
 
-Twee vergelijkbare twee-onder-een-kapwoningen van 140 m² met hetzelfde vroegere gasverbruik (circa 1.450 m³) en dezelfde isolatie, en toch een prijsverschil van duizenden euro's: een Daikin Altherma 3 H 11 kW gaat in courante offertes rond de €17.000 all-in, een Atag Energion M 11 kW rond de €9.800. Verschil: ruim €7.000.
+Daikin en ATAG komen in Nederlandse offertes vaak naast elkaar te staan, en de conclusie die erbij wordt geleverd is meestal een prijsverhaal: het ene merk zou duizenden euro's duurder zijn dan het andere. Dat verhaal is niet te onderbouwen, om een simpele reden: **geen van beide fabrikanten publiceert consumentenprijzen.** Wat je betaalt komt uit een offerte, en die verschilt per woning en per installateur meer dan per merk.
 
-Dat is een serieus bedrag voor wat in essentie hetzelfde apparaat is. Wint Daikin het ergens met €7.400? Of is Atag gewoon de slimmere koop voor 95% van NL? Laten we het uitrekenen.
+Wat wél te vergelijken valt, is het assortiment, de aanvoertemperatuur, het koudemiddel en de manier waarop beide merken hun service in Nederland hebben georganiseerd. **Wij hebben geen van beide systemen zelf geïnstalleerd en geen meterstanden vergeleken.** Waar wij een oordeel geven, is dat een redactionele afweging op basis van publieke specificaties.
+
+> **Kort antwoord:** Daikin heeft het sterkere aanbod voor woningen die een hoge aanvoertemperatuur nodig hebben — de Altherma 3 H HT haalt volgens de fabrikant 70 °C en de Altherma 4 H op R290 tot 75 °C. ATAG heeft een breed Nederlands assortiment met all-electric (Energion M, Energion S, Premion) én hybride (Energion M Hybrid) en een eigen Nederlandse serviceorganisatie. De keuze hangt af van de benodigde aanvoertemperatuur en van de installateur die je kunt krijgen, niet van een merkoordeel.
 
 ---
 
+## Wat de twee merken aanbieden
 
-> **Kort antwoord:** Daikin Altherma 3 vs Atag Energion vergeleken op SCOP, geluid, app, prijs en NL-service. Welke warmtepomp is in 2026 de slimme keuze?
->
-> Daikin wint op stilte (32 dB vs 35 dB), app-kwaliteit (Onecta vs Atag One) en SCOP (4.7 vs 4.6). Atag wint op prijs (€8.500 vs €15.500), Nederlandse service (Lichtenvoorde) en installateurs-netwerk. Voor 80% van NL-huishoudens is Atag de slimmere keuze; voor 20% (luxe, strikte buurnorm, prestige) Daikin.
+**Daikin** voert de Altherma-lijn. Voor woningen met een hoge warmtevraag of bestaande radiatoren is er de hogetemperatuurlijn: de Altherma 3 H HT levert volgens Daikin water tot maximaal 70 °C, waarvoor het bedrijf een aparte compressor heeft ontwikkeld. In april 2025 introduceerde Daikin daarnaast de Altherma 4 H op propaan (R290), volgens de fabrikant met aanvoertemperaturen tot 75 °C en betrouwbaar bedrijf tot -28 °C buitentemperatuur. (Bron: daikin.nl, opgehaald 21 augustus 2026.)
 
-## Snelle vergelijking
+**ATAG** voert de Energion-lijn. Voor all-electric zijn er onder meer de Energion M, de Energion S (split, met gescheiden binnen- en buitenunit, op R32) en de Premion. ATAG noemt voor de all-electric lijn een COP tot 5,0 bij A7/W35 en energielabel A+++. Daarnaast is er een hybride monoblock (Energion M Hybrid) die parallel aan een cv-ketel werkt, volgens ATAG in warmtepompmodus blijft draaien tot -20 °C, en waarvoor geen binnenunit nodig is. ATAG heeft ook een lijn warmtepompboilers. Het merk is sinds 2014 onderdeel van de Italiaanse Ariston Group, die sinds november 2021 beursgenoteerd is in Milaan.
 
-| Punt | Daikin Altherma 3 | Atag Energion |
-|------|-------------------|----------------|
-| **Prijs incl. installatie** | €13.500-€19.000 | €8.500-€12.500 |
-| **Na ISDE-subsidie 2026** | €9.500-€14.500 | €4.500-€8.500 |
-| **SCOP (NL klimaat)** | 4.7 | 4.6 |
-| **Geluid 3m** | 32 dB | 35 dB |
-| **Aanvoertemperatuur max** | 75°C (Altherma 3) / 80°C (3 H HT) | 70°C |
-| **App** | Onecta (premium) | Atag One (basis) |
-| **Garantie product** | 7 jaar | 7 jaar (10 bij erkend) |
-| **NL-service** | Via dealers | Eigen NL-organisatie |
-| **Wachttijd installatie** | 6-12 weken | 4-8 weken |
-| **R290 koudemiddel** | Ja (Altherma 3 R) | Ja (Energion M) |
-| **Dynamic energy ready** | Ja, native | Beperkt (firmware update gepland) |
+Dat verschil in assortiment is de eerste zeef. Wil je een hybride opstelling met behoud van de cv-ketel, dan is de Energion M Hybrid een directe optie binnen ATAG. Heb je bestaande radiatoren die een hoge aanvoertemperatuur vragen en wil je toch all-electric, dan is de hogetemperatuurlijn van Daikin het meest expliciete antwoord in deze twee assortimenten.
 
-**Korte conclusie:** Atag voor prijs/kwaliteit, Daikin voor premium gemak.
+## Aanvoertemperatuur: het getal dat de keuze bepaalt
 
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag →</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Daikin →</a>
+Dit is de belangrijkste technische parameter, en de meest verwaarloosde in verkoopgesprekken.
 
----
+Elke woning heeft op de koudste dag een bepaalde aanvoertemperatuur nodig om warm te blijven. Dat getal volgt uit de warmtevraag per vertrek en de afgiftecapaciteit van je radiatoren of vloerverwarming. Een woning met vloerverwarming zit rond de 35 °C; een woning met oorspronkelijke radiatoren uit de cv-tijd kan 70 °C of meer vragen.
 
-## 1. Prijs in detail
+Twee dingen volgen daaruit:
 
-### Daikin Altherma 3 R (lucht/water, R290) prijslijst 2026
-| Vermogen | Hardware | + Installatie | Totaal incl. BTW |
-|----------|----------|----------------|-------------------|
-| 6 kW | €7.500 | €5.000 | €13.500 |
-| 8 kW | €8.500 | €5.500 | €15.500 |
-| 11 kW | €10.000 | €6.000 | €17.500 |
-| 14 kW | €12.000 | €6.500 | €19.000 |
+**Ten eerste: het toestel moet die temperatuur kunnen leveren.** Kan het dat niet, dan wordt het op de koudste dagen niet warm — en is bijstoken met een elektrisch element de dure noodoplossing. De hogetemperatuurmodellen van Daikin zijn precies voor die situatie ontwikkeld.
 
-Inclusief: buitenunit, binnenunit, buffervat 100L, RTC-aansluiting, verticale aanvoer.
-Exclusief: warmtapwater-boiler (€1.500-€2.500 extra), vloerverwarming-omschakeling.
+**Ten tweede: het rendement zakt naarmate de aanvoertemperatuur stijgt.** Een COP-opgave van 5,0 of 5,4 geldt altijd bij A7/W35 — 7 °C buiten en 35 °C aanvoer. Dat is een genormeerd meetpunt, geen jaarrendement, en al helemaal niet het rendement bij 70 °C aanvoer op een vriesdag. Wie een all-electric warmtepomp op hoge temperatuur laat draaien, koopt comfort en gasloosheid, maar niet het rendement uit de brochure.
 
-### Atag Energion M (lucht/water, R290) prijslijst 2026
-| Vermogen | Hardware | + Installatie | Totaal incl. BTW |
-|----------|----------|----------------|-------------------|
-| 6 kW | €4.800 | €3.500 | €8.300 |
-| 8 kW | €5.500 | €4.000 | €9.500 |
-| 11 kW | €6.500 | €4.500 | €11.000 |
-| 14 kW | €7.500 | €5.000 | €12.500 |
+Dat is meteen de reden waarom wij hier geen SCOP-tabel per merk neerzetten. Getallen die niet bij dezelfde aanvoertemperatuur en dezelfde meetnorm horen, naast elkaar zetten, suggereert een precisie die er niet is. Vraag in plaats daarvan om het technische blad van het aangeboden model, met de opgave bij de aanvoertemperatuur die jóuw woning nodig heeft.
 
-Inclusief: idem als Daikin. Soms ook tapwater-boiler in pakket (vraag specifiek).
+Wat je woning nodig heeft, laat je vaststellen met een warmteverliesberekening per vertrek. Onze gids [installateur kiezen](/installateur-kiezen/) beschrijft hoe je die opvraagt en hoe je herkent of hij serieus is gemaakt.
 
-### Het echte verschil
+## Prijzen: waarom je hier geen tabel vindt
 
-Voor hetzelfde 11 kW vermogen: **Atag €11.000, Daikin €17.500. Verschil: €6.500**.
+Op internet circuleren gedetailleerde "prijslijsten" voor beide merken, uitgesplitst per vermogen en inclusief installatiekosten. Die lijsten zijn niet afkomstig van de fabrikanten — geen van beide publiceert consumentenprijzen — en zijn dus schattingen, meestal van elkaar overgeschreven.
 
-Na ISDE-subsidie (~€4.700 voor 11 kW lucht/water): netto Atag €6.300, netto Daikin €12.800. Verschil blijft €6.500.
+Wij nemen ze niet over. Wat wij wél kunnen zeggen over de kostenopbouw, en wat je in je eigen offertes moet terugvinden:
 
-**Wat krijg je voor die €6.500 extra?** 3 dB stiller, betere app, 5°C hogere aanvoer. Voor de meeste situaties: niet €6.500 waard.
+- **Het toestel** (buitenunit, eventuele binnenunit).
+- **Warm tapwater**: een boiler of geïntegreerde unit. Dit is een aparte, forse post die in vergelijkingen vaak wordt weggelaten.
+- **Buffervat**, als het systeem dat nodig heeft.
+- **Leidingwerk en elektra**, inclusief eventueel een zwaardere aansluiting of een aparte groep.
+- **Verwijderen van de cv-ketel** en het afmelden van de gasaansluiting, bij all-electric.
+- **Aanpassing van het afgiftesysteem**, als de benodigde aanvoertemperatuur omlaag moet.
+- **Inregelen en oplevering**, inclusief een nacontrole na het eerste stookseizoen.
 
-Lees [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/) voor subsidie-details.
+Vraag om een offerte waarin deze posten apart staan. Twee offertes met alleen een eindbedrag zijn niet vergelijkbaar; twee offertes met deze uitsplitsing wél. En vraag idealiter minstens één offerte bij een installateur die beide merken voert — die geeft een eerlijker beeld dan een merkgebonden verkoper.
 
----
+## Btw en subsidie
 
-## 2. Rendement (SCOP) en stookkosten
+Op een warmtepomp en de bijbehorende installatie geldt **21 procent btw**. Het nultarief geldt uitsluitend voor zonnepanelen en de onderdelen die daar direct voor nodig zijn. Een offerte die een warmtepomp "inclusief 0% btw" opvoert, klopt niet.
 
-| | Daikin SCOP | Atag SCOP |
-|---|-------------|-----------|
-| Bij 35°C aanvoer (vloerverwarming) | 4.7 | 4.6 |
-| Bij 55°C aanvoer (radiatoren) | 3.4 | 3.3 |
-| Bij 70°C aanvoer (oude radiatoren) | 2.8 | 2.7 |
+Voor ISDE geldt in 2026 een startbedrag van **€1.025**, plus **€200 labelbonus** als aan de voorwaarden is voldaan. Het exacte bedrag hangt af van het toestel zoals dat op de RVO-apparatenlijst staat; wij noemen daarom geen bedragen per merk, model of vermogensklasse. **Je vraagt aan ná installatie**, binnen 24 maanden na de uitvoeringsdatum — niet vooraf.
 
-**Wat doet 0,1 SCOP verschil in stookkosten?**
-Bij 12.000 kWh warmtebehoefte/jaar (typisch 130 m² huis):
-- Daikin SCOP 4.7: 2.553 kWh stroom × €0,32 = €817/jaar
-- Atag SCOP 4.6: 2.609 kWh stroom × €0,32 = €835/jaar
-- Verschil: **€18/jaar = €180 over 10 jaar**
+Twee onjuistheden die hardnekkig rondgaan en die je gerust mag tegenspreken: er bestaat geen regel dat ISDE wordt afgewezen als je installateur niet een bepaald keurmerk heeft, en er bestaat geen "30 procent terug"-regeling. Controleer subsidievoorwaarden bij RVO en niet bij een verkoper.
 
-Met €6.500 prijsverschil compenseert SCOP-voordeel maar 3% van het verschil. Verwaarloosbaar.
+Meer daarover in [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/).
 
----
+## Geluid en de regels
 
-## 3. Geluid in detail
+Sinds 1 januari 2024 geldt het Besluit bouwwerken leefomgeving (Bbl). Dat stelt een grens aan het geluid van een buiten opgestelde installatie op de perceelgrens: **45 dB overdag, 40 dB in de avond- en nachtperiode**.
 
-### Daikin Altherma 3 R 8 kW
-- 32 dB(A) op 3 meter (lage modus)
-- 38 dB(A) op 3 meter (volle belasting, koud weer)
-- Stille modus 's nachts: 28 dB
+Wat er níet is:
 
-### Atag Energion M 8 kW
-- 35 dB(A) op 3 meter (lage modus)
-- 41 dB(A) op 3 meter (volle belasting, koud weer)
-- Stille modus 's nachts: 32 dB
+- Er is **geen wettelijke afstandseis** tussen buitenunit en erfgrens.
+- Er is **geen algemene meldplicht bij de gemeente** voor een buitenunit. Of een vergunning nodig is, hangt af van plaatsing en gemeentelijke regels — check dat bij je eigen gemeente.
 
-### Wat betekent 3 dB?
+Wij zetten hier geen dB-tabel per merk neer. Fabrikanten publiceren verschillende grootheden (geluidsvermogen versus geluidsdruk op een genoemde afstand), en geen van beide is de waarde op jouw perceelgrens: die hangt af van afstand, opstelhoogte, reflectie tegen gevels en schuttingen. Drie decibel verschil in een brochure zegt niets over drie decibel verschil bij de buren.
 
-In de praktijk: bij 5+ meter afstand niet hoorbaar verschil. Bij 1-2 meter (op de erfgrens met buren in een hoekhuis): wel hoorbaar. Daikin geeft je 3 dB extra speelruimte voor:
-- Strikte gemeentelijke ordeningen (40 dB norm)
-- Naaste buren in slaapkamer-positie
-- Voorgevel-installatie naast woonkamer-raam
+Het enige zinvolle advies: **laat de installateur vóór opdracht de verwachte geluidsdruk op de perceelgrens berekenen**, met een aparte waarde voor de nachtperiode, en laat die berekening in de offerte opnemen. Zie ook [warmtepomp geluid en buren](/posts/warmtepomp-geluid-buren-2026-norm/) en [vergunning warmtepomp aanvragen](/posts/vergunning-warmtepomp-aanvragen-2026/).
 
-Voor middenwoningen op een normaal perceel: nauwelijks relevant.
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta" rel="nofollow noopener" target="_blank">Bekijk ATAG →</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta" rel="nofollow noopener" target="_blank">Bekijk Daikin →</a>
 
-Lees [warmtepomp geluid buren 2026 norm](/posts/warmtepomp-geluid-buren-2026-norm/).
+*Beide links zijn gewone verwijzingen; wij ontvangen hiervoor geen vergoeding.*
 
----
+## Koudemiddel: R290 of R32
 
-## 4. App-vergelijking
+De Europese F-gasverordening bouwt gefluoreerde koudemiddelen stapsgewijs af. Dat is geen verbod dat je toestel op een datum onbruikbaar maakt, maar het beïnvloedt wel de beschikbaarheid en de prijs van koudemiddel voor reparatie op de lange termijn.
 
-### Daikin Onecta
-**Wat het kan:**
-- Real-time temperaturen, druk, COP, stroomverbruik
-- Per-zone bediening (max 4 zones)
-- Schedules (per dag, vakantie-modus)
-- Scenes (slim, eco, comfort)
-- Dynamic Pricing module (nieuw 2025): automatische temperatuur-aanpassing op stroomprijs
-- Integratie met Tibber, EnergyZero, Frank Energie
-- Forecasting (24h vooruit op weer)
-- Open API voor Home Assistant
+Beide merken hebben R290-modellen in het programma; Daikin heeft R290 in de Altherma 4-lijn, ATAG voert bij onder meer de Energion S en de hybride monoblock R32. Propaan (R290) heeft een zeer lage GWP-waarde en is daarmee de bestendigere keuze voor een toestel dat vijftien tot twintig jaar mee moet. Daar staat tegenover dat propaan brandbaar is, wat opstellingseisen met zich meebrengt die je installateur moet kennen.
 
-**Negatief:** vereist Daikin Cloud-account (data deelt met Daikin Japan).
+Praktische vraag voor de offerte: **welk koudemiddel zit in het aangeboden model, en wat betekent dat voor de opstellingsvoorschriften?** Een installateur die dat niet vlot kan beantwoorden, is niet de partij die je wilt.
 
-### Atag One
-**Wat het kan:**
-- Temperatuur instellen
-- Schedules
-- Verbruiksgeschiedenis (dag/maand)
-- Storingsmeldingen
-- Update firmware over WiFi
+## Service: twee verschillende organisaties
 
-**Wat het NIET kan:**
-- Geen dynamic pricing integratie (firmware-update gepland Q4 2026)
-- Geen API
-- Geen scenes
-- Geen per-zone bediening
+Hier zit een reëel verschil, en het is er een van organisatievorm — niet van kwaliteit.
 
-**Verschil voor smart-home:** als je dynamische stroomprijzen wilt benutten: Daikin doet dit native, Atag (nog) niet. Voor warmtepomp + dynamisch contract bespaart Daikin Onecta automatisch €120-€220/jaar door slim te draaien op goedkope uren.
+**Daikin** werkt in Nederland met een netwerk van erkende dealers. Dat geeft een grote spreiding en veel keuze, maar de kwaliteit die je krijgt hangt af van de dealer die je uitkiest.
 
-Over 10 jaar: ~€1.500-€2.000 voordeel. Compenseert 25-30% van het prijsverschil.
+**ATAG** heeft een eigen Nederlandse organisatie en werkt met erkende installateurs, met garantieafhandeling die via het merk zelf loopt. Dat maakt de route bij een geschil korter.
 
-Lees [smart home energiebeheer 2026](/posts/smart-home-energiebeheer-2026/).
+Wat wij hier bewust *niet* doen, is responstijden, storingspercentages of aantallen dealers noemen. Die cijfers circuleren volop, maar zijn niet uit een controleerbare bron te halen, en een storingspercentage per merk is zonder gelijke installatiebasis sowieso betekenisloos.
 
----
+Wat je wél kunt uitvragen, per offerte en op papier:
 
-## 5. Aanvoertemperatuur en oude radiatoren
+1. Wat is de toegezegde responstijd bij een storing waarbij je zonder verwarming zit?
+2. Liggen kritieke onderdelen op voorraad in Nederland, of komen ze uit een centraal magazijn?
+3. Hoe loopt garantieafhandeling: via de installateur of via de fabrikant?
+4. Welke garantietermijn geldt op het toestel en op de compressor, en is registratie daarvoor vereist?
 
-Heel veel woningen in NL hebben oude radiatoren die 70-80°C aanvoer vragen om voldoende warmte af te geven. Deze radiatoren vervangen door grotere of door vloerverwarming kost €5.000-€20.000.
+Dat laatste is belangrijk: garantietermijnen verschillen per model en soms per registratiestatus. Laat ze in de offerte opnemen in plaats van ze uit een vergelijkingstabel over te nemen.
 
-### Daikin opties
-- **Altherma 3 R:** tot 65°C aanvoer (genoeg voor 80% van Nederlandse radiatoren)
-- **Altherma 3 H HT:** tot **80°C aanvoer** — uniek in de markt. Voor bestaande oude radiatoren ideaal.
+## Een modelberekening die je zelf kunt narekenen
 
-### Atag opties
-- **Energion M:** tot 70°C aanvoer
+Onderstaande som is **een modelberekening met aannames**, geen offerte en geen meting. Hij laat zien hoe de aanvoertemperatuur je exploitatiekosten stuurt — het punt waar de merkkeuze uiteindelijk om draait.
 
-**Wanneer maakt dit uit?**
-- Als je radiatoren oud zijn EN niet wilt vervangen: Daikin Altherma 3 H HT is de enige goede keuze
-- Bij vloerverwarming (35°C aanvoer): beide gelijk
-- Bij moderne radiatoren (60-70°C voldoende): beide gelijk
+Uitgangspunten: warmtevraag 14.000 kWh per jaar, stroomprijs €0,28 per kWh, gasprijs €1,35 per m³ inclusief belasting, 9,28 kWh nuttige warmte per m³ gas bij een ketelrendement van 0,95.
 
-Lees [vloerverwarming aanleggen kosten 2026](/posts/vloerverwarming-aanleggen-kosten-2026/) en [vloerverwarming warmtepomp combinatie 2026](/posts/vloerverwarming-warmtepomp-combinatie-2026/).
+| Scenario | Aangenomen SCOP | Stroom | Kosten |
+|---|---|---|---|
+| Vloerverwarming, lage aanvoer | 4,5 | 3.111 kWh | €871 |
+| Gemengd afgiftesysteem | 3,8 | 3.684 kWh | €1.032 |
+| Bestaande radiatoren, hoge aanvoer | 3,0 | 4.667 kWh | €1.307 |
+| Ter vergelijking: cv-ketel op gas | n.v.t. | 1.509 m³ | €2.037 |
 
----
+Wat hieruit volgt: het verschil tussen een lage en een hoge aanvoertemperatuur is in dit model ruim €430 per jaar — vele malen meer dan het rendementsverschil tussen twee merken op hetzelfde meetpunt. Daarom is de investering in een lagere aanvoertemperatuur (isoleren, radiatoren vergroten, vloerverwarming) vaak lonender dan het duurdere toestel.
 
-## 6. Service-kwaliteit in NL
+De aannames zijn nadrukkelijk aannames: vervang de SCOP door het cijfer uit het technische blad bij jóuw aanvoertemperatuur, en de tarieven door je eigen contract. Onze rekenpagina [warmtepomp kosten berekenen](/warmtepomp-kosten-berekenen/) gaat daar stap voor stap doorheen.
 
-### Daikin
-- 70+ erkend dealers in NL
-- Service via lokale dealer (kwaliteit varieert sterk)
-- Reactie op storingsmelding: gemiddeld 2-4 dagen
-- Onderdelen: meestal binnen 1 week leverbaar
-- Garantie afhandeling: via dealer naar Daikin Belgium-warehouse
+## Welke past bij welke situatie
 
-**Beeld uit gebruikersreviews:** sterk afhankelijk van regio. In de Randstad worden dealers overwegend goed beoordeeld, in het oosten en zuiden wisselt dat.
+**Bestaande radiatoren, geen zin of ruimte in een afgifterenovatie, wél van het gas af.** Dit is het scenario waarvoor Daikin het meest expliciete aanbod heeft: de Altherma 3 H HT tot 70 °C, of de Altherma 4 H op R290 tot 75 °C. Reken wel met het lagere rendement bij die aanvoertemperatuur.
 
-### Atag
-- Atag-NL hoofdkantoor in Lichtenvoorde
-- 200+ erkend Atag-Selectie-installateurs (gecertificeerd door Atag)
-- Reactie op storingsmelding: gemiddeld 24-48 uur
-- Onderdelen: meestal binnen 2-3 dagen
-- Garantie afhandeling direct via Atag
+**Cv-ketel is nog goed of net vervangen, gasverbruik moet fors omlaag zonder verbouwing.** Dan is een hybride opstelling de logische route, en heeft ATAG met de Energion M Hybrid een monoblock die parallel aan de bestaande ketel werkt zonder binnenunit.
 
-**Beeld uit gebruikersreviews:** consistenter door heel Nederland. Atag heeft hoorbaar in het servicenetwerk geïnvesteerd.
+**Vloerverwarming of ruim gedimensioneerde radiatoren, all-electric gewenst.** Beide merken zijn hier kandidaat en de keuze wordt bepaald door de offerte en de installateur, niet door het merk. Kijk in dat geval ook naar alternatieven zoals de [Vaillant aroTHERM plus](/posts/vaillant-arotherm-warmtepomp-review-2026/) of de [Bosch Compress](/posts/bosch-compress-warmtepomp-review-2026/).
 
-Voor wie service belangrijk vindt (en dat ben je bij €15.000-investering): Atag heeft duidelijke voorsprong.
+**Slecht geïsoleerde woning zonder isolatieplan.** Dan is geen van beide de eerste stap. Isoleren verlaagt de benodigde aanvoertemperatuur én het vermogen dat je moet inkopen; in die volgorde koop je goedkoper en efficiënter. Zie [beste isolatie voor warmtepomp](/posts/beste-isolatie-voor-warmtepomp-2026/).
 
-Lees [warmtepomp onderhoud kosten 2026](/posts/warmtepomp-onderhoud-kosten-2026/).
+**Appartement zonder eigen buitenruimte.** Plaatsing van een buitenunit vraagt toestemming van de VvE en soms een gevelwijziging die niet is toegestaan. Onderzoek dat vóórdat je offertes aanvraagt.
 
----
+## Veelgemaakte fouten in deze keuze
 
-## 7. Levensduur en betrouwbaarheid
+1. **Kiezen op een COP-cijfer zonder de aanvoertemperatuur erbij.** Een COP bij A7/W35 zegt niets over het verbruik in een woning die 60 °C nodig heeft.
+2. **De tapwatervoorziening vergeten.** Een boiler of geïntegreerde unit is een forse aparte post die offertes onvergelijkbaar maakt zodra hij bij de één wel en bij de ander niet is meegenomen.
+3. **Vermogen kiezen op een vuistregel per m².** Te klein levert comfortklachten op koude dagen; te groot levert pendelgedrag en slijtage op. Alleen een warmteverliesberekening geeft uitsluitsel.
+4. **Het inregelen als bijzaak behandelen.** De stooklijn bepaalt een groot deel van het jaarrendement. Laat vastleggen op welke stooklijn wordt opgeleverd en of er een nacontrole is inbegrepen.
+5. **Radiatoren laten zitten zonder te controleren of ze de warmte kwijt kunnen.** Dat is geen detail maar de kern van de rekensom hierboven.
 
-Beide merken hebben een uitstekende reputatie. Daikin heeft langere historie (sinds 1924, warmtepompen in EU sinds 2000). Atag entree warmtepomp-markt: 2018, snelle groei.
+## Ons oordeel
 
-**Storings-statistieken (uit installateurs-data 2020-2025):**
-- Daikin Altherma 3: 4-6% storing per 5 jaar (sluit aan bij hoge betrouwbaarheid)
-- Atag Energion: 5-8% per 5 jaar (jongere unit, weinig data — maar OK)
+De eerlijkste conclusie is dat "Daikin of ATAG" niet de vraag is die je moet stellen. Beide merken leveren volwaardige toestellen, en het bedrag onder aan je offerte wordt voor een groot deel bepaald door zaken die niets met het merklogo te maken hebben: welke aanvoertemperatuur je woning nodig heeft, hoe je tapwater is opgelost, en wie de installatie inregelt.
 
-Geen significant verschil in betrouwbaarheid. Beide gaan 18-22 jaar mee bij goed onderhoud.
+Waar de merken wel uiteenlopen: Daikin heeft het duidelijkste antwoord voor woningen die een hoge aanvoertemperatuur nodig hebben en toch van het gas af willen. ATAG heeft een breder Nederlands assortiment inclusief een hybride monoblock, en een garantieroute die via de eigen organisatie loopt.
 
----
-
-## 8. R290 koudemiddel — toekomstbestendigheid
-
-EU F-gas regelgeving fasiseert HFC-koudemiddelen uit (R32, R410A) tegen 2030. Beide merken hebben R290-modellen (propaan, natuurlijk koudemiddel):
-- Daikin Altherma 3 R: R290 (huidig)
-- Atag Energion M: R290 (huidig)
-
-Beide zijn daarmee toekomstbestendig. Niet-R290-modellen zouden wij in 2026 niet meer aanschaffen: die kunnen na 2030 in reparatiescenario's lastig worden.
-
----
-
-## 9. Welke past bij welk profiel?
-
-### Profiel A: Rijtjeshuis 110 m², standaard radiatoren, gemiddeld budget
-**Atag Energion M 8 kW** — €9.500 incl. installatie, na ISDE €5.500 netto. Volstaat ruim, NL-service top.
-
-### Profiel B: Twee-onder-een-kap 140 m², luxe inrichting, dynamic contract
-**Daikin Altherma 3 R 11 kW** — Onecta-app benut dynamic pricing, 32 dB stilte voor mooie tuin. Premium gevoel. €17.500 incl. installatie, €12.800 netto.
-
-### Profiel C: Villa 200 m², oude radiatoren, geen vloerverwarming
-**Daikin Altherma 3 H HT 14 kW** — alleen Daikin haalt 80°C aanvoer voor oude radiatoren zonder ze te vervangen.
-
-### Profiel D: Modern nieuwbouw 130 m² met vloerverwarming
-**Atag Energion M 8 kW** of **Daikin Altherma 3 R 8 kW** — beide werken perfect, kies op prijs (Atag wint).
-
-Lees [beste warmtepomp rijtjeshuis 2026](/posts/beste-warmtepomp-rijtjeshuis-2026/).
-
----
-
-## 10. Alternatieven om te overwegen
-
-Als budget doorslaggevend is: **Quatt** (€6.500 + €100/maand huurmodel — zie [Quatt warmtepomp review 2026](/posts/quatt-warmtepomp-review-2026/)).
-
-Als je R290 + premium app wilt zonder Daikin-prijs: **Vaillant aroTHERM plus** (€11.500-€16.500 — middenweg, zie [Vaillant aroTherm review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)).
-
-Als robustheid > app belangrijk: **Bosch Compress 7400i** ([review](/posts/bosch-compress-warmtepomp-review-2026/)).
-
-Lees ook [beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/) voor de bredere markt.
-
----
-
-## Ons advies
-
-Voor 80% van de Nederlandse huishoudens: **Atag Energion** is de slimmere koop. €5.000-€7.000 prijsverschil compenseer je niet met SCOP-verschil of stilte-voordeel. NL-service is sneller en consistenter.
-
-Voor 20% — luxe huizen, oude radiatoren (80°C nodig), strikte buurnorm, premium gevoel — is **Daikin Altherma 3** wel de juiste keuze. Hier compenseert app-kwaliteit en stilte-voordeel het prijsverschil.
-
-Bij twijfel: vraag offertes voor beide. De installateur die Daikin én Atag levert geeft je een eerlijker beeld dan een merk-specifieke verkoper.
-
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag →</a> · <a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Daikin →</a> · <a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Vaillant →</a>
+Doe het daarom in deze volgorde: eerst een warmteverliesberekening, dan vaststellen welke aanvoertemperatuur nodig is, dan bepalen of je die omlaag wilt brengen, en pas daarna offertes met uitgesplitste posten opvragen — het liefst bij een installateur die beide merken voert.
 
 *Vragen over jouw specifieke situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
@@ -307,57 +204,17 @@ Bij twijfel: vraag offertes voor beide. De installateur die Daikin én Atag leve
 
 ## Gerelateerde artikelen
 
-- [Atag warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/)
+- [ATAG warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/)
 - [Daikin Altherma 3 review 2026](/posts/daikin-altherma-3-review-2026/)
 - [Beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/)
 - [Beste warmtepomp rijtjeshuis 2026](/posts/beste-warmtepomp-rijtjeshuis-2026/)
 - [Beste hybride warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/)
-- [Warmtepomp vs CV ketel 2026](/posts/warmtepomp-vs-cv-ketel-2026/)
+- [Warmtepomp vs cv-ketel 2026](/posts/warmtepomp-vs-cv-ketel-2026/)
 - [Warmtepomp monoblock vs split 2026](/posts/warmtepomp-monoblock-vs-split-2026/)
 - [Warmtepomp geluid buren 2026 norm](/posts/warmtepomp-geluid-buren-2026-norm/)
 - [Warmtepomp onderhoud kosten 2026](/posts/warmtepomp-onderhoud-kosten-2026/)
 - [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)
 
-## Wat de systemen in de praktijk doen
-
-Wat het verbruik betreft liggen beide merken dicht bij hun fabrieksopgave. Een rekenvoorbeeld op basis van de opgegeven SCOP-waarden: bij een warmtevraag van 14.500 kWh en een SCOP van 3,5 komt het stroomverbruik uit op ongeveer 4.150 kWh per jaar; bij 11.200 kWh warmtevraag en dezelfde SCOP op ongeveer 3.200 kWh. Dat zijn modeluitkomsten, geen metingen: de werkelijke jaarprestatie hangt af van aanvoertemperatuur, afgiftesysteem en instellingen.
-
-De service-organisatie verschilt wel wezenlijk. Daikin werkt met een dealernetwerk (Daikin Comfort Expert), Atag heeft eigen monteurs in dienst. Dat verklaart de responstijden die beide fabrikanten zelf noemen: bij Atag 24-48 uur, bij Daikin afhankelijk van de dealer. Voor wie service-snelheid zwaar laat wegen, heeft Atag in Nederland een streepje voor.
-
-## NL-specifiek: ISDE, Bouwbesluit en BTW
-
-ISDE-subsidie 2026: bij Daikin Altherma 3 H HT 8 kW krijg je €2.875 subsidie, bij Atag Energion 6 kW €2.350. Het verschil zit in vermogen en SCOP-categorie. Aanvraag moet binnen 24 maanden na installatie en factuurdatum voor datum aanvraag — vraag installateur om dit zelf te regelen, gemiddelde slagingskans bij installateur 96%, bij DIY-aanvraag 78%. Via RVO Bouwbesluit-loket valt te checken of je woning isolatie-eisen haalt voor warmtepomp; RC onder 2,5 betekent dat warmtepomp niet rendabel is zonder eerst isoleren.
-
-BTW van 21% komt op zowel apparaat als installatie. Voor zakelijk gebruik (kantoor aan huis, B&B) kun je een proportioneel deel terugvorderen. Bouwbesluit eist sinds 2021 dat warmtepompen onder 40 dB op de erfgrens halen — Daikin scoort 38 dB op 3 meter, Atag 35 dB. Bij dichte bebouwing telt dat verschil.
-
-## Veelgemaakte fouten
-
-1. **Warmtepomp kiezen zonder isolatie te checken.** RC kleiner dan 2,5 betekent inefficient draaien en COP onder 2,0.
-2. **Te klein vermogen kopen.** Bij koudegolf onder -10°C draait een onderdimensionerde pomp continu en haalt comfort-temperatuur niet.
-3. **Vergeten geluidsmelding bij gemeente.** Sinds 2022 verplicht voor buitenunit dichter dan 5 meter bij erfgrens.
-4. **Goedkoopste installateur kiezen zonder Solatherm/ISSO-certificering.** ISDE wordt afgewezen bij niet-gecertificeerde installateur.
-5. **CV-radiatoren laten staan zonder LT-conversie.** Klassieke radiatoren werken op 70°C, warmtepomp op 35-45°C — vereist grotere radiatoren of vloerverwarming.
-
-## Wanneer NIET een warmtepomp?
-
-Sla over als je woning slecht geïsoleerd is (RC kleiner dan 2,0), als je minder dan 5 jaar in de woning blijft, of als je gasaansluiting al €0/jaar capaciteitstarief heeft. Bij appartementen zonder eigen buitenruimte is plaatsing vaak niet mogelijk — VvE-toestemming voor gevel-units kost gemiddeld 9 maanden onderhandeling. Bij monumentale panden waar gevelwijziging niet is toegestaan: kies een hybride of een binnenunit-warmtepomp.
-
-## Rekenvoorbeeld: jaren-90 woning
-
-Rekenvoorbeeld met de volgende aannames: jaren-90 woning met RC 3,5 (dak), 2,8 (muur) en 4,5 (vloer), warmtevraag 14.000 kWh, Daikin Altherma 3 H HT 8 kW voor €10.800 inclusief installatie, ISDE-subsidie €2.875, gasprijs zoals in 2026 gangbaar en stroomprijs €0,29/kWh. Uitkomst van het model: bij een SCOP van 3,5 een stroomverbruik van circa 4.000 kWh (ongeveer €1.160 per jaar) tegen een gasrekening van circa €2.400, dus een besparing van rond de €1.200 per jaar en een terugverdientijd van bijna 7 jaar op de netto-investering. Vervangt geen offerte: reken met je eigen warmtevraag en tarieven.
-
-## Wat je in het eerste jaar kunt verwachten
-
-Eerste maand: reken op een leercurve bij het instellen van de stooklijn. De Daikin-app vraagt volgens de handleiding een eerste configuratie van een halfuur; de Atag-unit komt voorgemonteerd en is sneller bedrijfsklaar.
-
-Eerste jaar: de opgegeven SCOP-waarden van beide toestellen liggen tussen 3,4 en 3,6 (opgave fabrikant, gemeten conform EN 14825). Onderhoudsbeurten kosten volgens de servicetarieven van de merken circa €160 tot €185 per jaar. Onze inschatting: Daikin heeft het voordeel op SCOP en monoblock-eenvoud, Atag op service-snelheid in Nederland.
-
-## Extra FAQ-vragen
-
-Hoe lang duurt het verschil in installatie? Daikin Altherma vraagt gemiddeld 2 dagen voor monoblock, 3 dagen voor split-systeem. Atag Energion meestal 1,5 dag dankzij voorgemonteerde unit. Het verschil van een halve dag vertaalt zich in €240-€360 lagere arbeidskosten bij Atag.
-
-Welke heeft de langere garantie? Atag biedt standaard 5 jaar fabrieksgarantie op compressor en 2 jaar op overige onderdelen. Daikin geeft 3 jaar standaard, uit te breiden tot 7 jaar bij contract via Comfort Expert. Voor wie zekerheid wil zonder extra contract: Atag.
-
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE-subsidie](https://www.rvo.nl/subsidies-financiering/isde) — officiële voorwaarden, bedragen en apparatenlijst.
