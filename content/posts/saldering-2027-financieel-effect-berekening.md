@@ -28,10 +28,8 @@ products:
   price: '3550'
 - name: Tibber dynamisch contract
   url: https://go.duurzaamthuislab.nl/tibber
-  price: '6'
 - name: Frank Energie
   url: https://go.duurzaamthuislab.nl/frank-energie
-  price: '5'
 schema_type: Article
 last_updated: '2026-09-28'
 category: saldering
@@ -122,26 +120,28 @@ Volgens de fabrikant geldt tien jaar garantie op de Sessy. Onze inschatting: ond
 
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
 <strong>Sessy thuisbatterij — ons oordeel</strong><br>
-Nederlandse fabrikant met eigen service, doet eigen verbruik en dynamisch handelen tegelijk, en de app maakt inzichtelijk wat het systeem doet. Bij 3.500 kWh teruglevering of meer komt de terugverdientijd in het model op 5 tot 7 jaar. De volledige <a href="/posts/sessy-review-thuisbatterij-nederland/">Sessy review</a> staat hier.<br><br>
-<a href="https://go.duurzaamthuislab.nl/sessy" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Sessy prijzen &rarr;</a>
+Nederlandse fabrikant (Charged, Andelst) met eigen service, doet eigen verbruik en dynamisch handelen tegelijk, en de app maakt inzichtelijk wat het systeem doet. Bij 3.500 kWh teruglevering of meer komt de terugverdientijd in het model op 5 tot 7 jaar. De volledige <a href="/posts/sessy-review-thuisbatterij-nederland/">Sessy review</a> staat hier. Wij ontvangen voor deze verwijzing geen vergoeding.<br><br>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Sessy prijzen &rarr;</a>
 </div>
 
 ## Alternatief 2: dynamisch contract Tibber of Frank Energie
 
 Dit is de goedkoopste verdedigingslinie: geen investering, alleen een ander contract. Je betaalt het uurtarief van de stroombeurs plus belastingen. Was de stroom om 14:00 een paar cent? Dan laad je je auto of zet je je vaatwasser aan. Geen panelen verplicht.
 
-| Aanbieder | Maandkosten | Bruto jaarvoordeel in het model | Vereist apparaat | Ons oordeel |
+| Aanbieder | Vaste kosten | Inkoopvergoeding | Bruto jaarvoordeel in het model | Aandachtspunt |
 |---|---|---|---|---|
-| Tibber | 5,99 EUR | 150-400 EUR | Smart EV-lader of batterij ideaal | Beste app, sterke EV-integratie |
-| Frank Energie | 4,99 EUR | 150-380 EUR | App + slim apparaat | Geen vaste maandkosten op variant |
-| ANWB Energie Dynamisch | 6,95 EUR | 130-350 EUR | Geen vereist | Voor wie merknaam belangrijk vindt |
+| Tibber | 5,99 EUR per maand **per energiesoort** (stroom en gas apart) | 0,0248 EUR per kWh | 150-400 EUR | Maandelijks opzegbaar; de prijs van de Pulse-meter publiceert Tibber niet |
+| Frank Energie | niet gepubliceerd | niet gepubliceerd als vast bedrag; Frank rekent een inkoopvergoeding **én** een terugleverstaffel (sinds 1-6-2025) | 150-380 EUR | Die terugleverstaffel maakt Frank juist bij veel teruglevering duurder — reken hem mee |
+| ANWB Energie Dynamisch | niet gepubliceerd | 0,018 EUR per kWh inkoopkosten | 130-350 EUR | Vaste kosten opvragen vóór je overstapt |
+
+Let op de opbouw van de kosten. Bij Tibber gaat het om 5,99 euro per maand per energiesoort: heb je stroom én gas, dan betaal je dus twee keer dat bedrag. Vaste kosten die niet publiek zijn, vullen wij niet in met een schatting — vraag ze op en laat ze schriftelijk bevestigen, samen met de inkoopvergoeding en eventuele terugleverkosten. Dat zijn de posten die het verschil tussen aanbieders bepalen, niet het maandbedrag alleen.
 
 Het exacte voordeel hangt sterk af van of je flexibel kunt zijn. Iemand met EV en warmtepomp kan 400+ euro per jaar besparen. Iemand zonder beide haalt eerder 150 euro. Maandkosten wijzigen regelmatig, dus controleer die op de site van de aanbieder. Lees de [Tibber review](/posts/tibber-review-ervaringen-2026/) en de [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/) voor de details, of de vergelijking [dynamisch versus vast contract in 2026](/posts/dynamisch-vs-vast-contract-2026/).
 
 <div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
-<strong>Tibber — dynamisch contract zonder gedoe</strong><br>
-Pure Pris-tarief plus maandelijks vast bedrag. App is uitstekend, EV-integratie met Tesla, Polestar, Hyundai en MG werkt out-of-the-box. Geen jaarcontract, opzegbaar per maand.<br><br>
-<a href="https://go.duurzaamthuislab.nl/tibber" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Probeer Tibber &rarr;</a>
+<strong>Tibber — dynamisch contract, maandelijks opzegbaar</strong><br>
+Je betaalt het uurtarief van de beurs plus 5,99 euro per maand per energiesoort en een inkoopvergoeding van 0,0248 euro per kWh. Geen jaarcontract, maandelijks opzegbaar; de app stuurt het laden van auto of batterij naar de goedkope uren. Wij ontvangen voor deze verwijzing geen vergoeding.<br><br>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Tibber &rarr;</a>
 </div>
 
 ## De combinatie: panelen + batterij + dynamisch contract
@@ -178,12 +178,12 @@ Zo neem je een deel van het verlies terug via dynamisch handelen en houd je de o
 
 **"Geldt dit ook voor mijn SDE-installatie op het bedrijfsdak?"** Nee, dit artikel gaat over particuliere saldering (kleinverbruikers). Zakelijke installaties hebben hun eigen regelingen via SDE++ en die wijzigen niet op deze datum.
 
-**"Wat als ik mijn panelen wil verkopen?"** Tweedehands paneelmarkt is klein en de afschrijving is fors. Houd ze, ze leveren ook na 2027 nog netto geld op via eigen verbruik. Lees [of een batterij ook zonder zonnepanelen zin heeft](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026.md) voor het omgekeerde scenario.
+**"Wat als ik mijn panelen wil verkopen?"** Tweedehands paneelmarkt is klein en de afschrijving is fors. Houd ze, ze leveren ook na 2027 nog netto geld op via eigen verbruik. Lees [of een batterij ook zonder zonnepanelen zin heeft](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/) voor het omgekeerde scenario.
 
 ## Een concreet 4-stappenplan
 
 1. **Bepaal je profiel.** Pak je jaarafrekening en kijk hoeveel kWh je teruglevert. Niet hoeveel je opwekt — dat is iets anders.
-2. **Stap over op dynamisch.** Geen investering, direct effect. Onze inschatting: Tibber bij een elektrische auto vanwege de laad-integratie, Frank Energie als lage vaste kosten belangrijker zijn.
+2. **Stap over op dynamisch.** Geen investering, direct effect. Onze inschatting: Tibber bij een elektrische auto vanwege de laad-integratie. Bij Frank Energie moet je de vaste kosten én de terugleverstaffel opvragen voordat je kunt vergelijken — Frank publiceert die vaste kosten niet.
 3. **Reken een batterij door bij 3.500 kWh teruglevering of meer.** Vraag concrete offertes, niet alleen voor Sessy maar ook bij aanbieders als Zonneplan, EcoFlow en Marstek.
 4. **Neem de definitieve beslissing pas als de 2027-voorwaarden bekend zijn.** Dan weet je wat je leverancier voor teruglevering betaalt en welke terugleverkosten hij rekent — de twee cijfers die de hele berekening bepalen.
 

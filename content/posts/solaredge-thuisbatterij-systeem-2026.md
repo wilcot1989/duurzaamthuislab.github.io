@@ -32,13 +32,17 @@ faq:
 - q: Wat betekent DC-gekoppeld bij SolarEdge?
   a: 'De batterij hangt aan de gelijkspanningszijde van de omvormer. Zonnestroom gaat rechtstreeks naar de batterij zonder tussentijdse omzetting naar 230 V. SolarEdge geeft in de datasheet van de 3-fase Home Hub 98,4 procent op voor PV naar batterij en 96,1 procent voor batterij naar net; een AC-gekoppelde batterij verliest per omzetting een paar procent meer.'
 - q: Hoeveel batterijmodules kan ik aan één omvormer hangen?
-  a: 'Volgens de datasheet van de 3-fase Home Hub (SE5K/SE8K/SE10K-RWB48) worden 1 tot 5 modules van het type BAT-05K48 ondersteund. Bij 4,6 kWh per module komt dat op ongeveer 23 kWh. Het maximale laad- en ontlaadvermogen blijft daarbij 5000 W: meer capaciteit betekent niet meer vermogen.'
+  a: 'Volgens de datasheet van de 3-fase Home Hub (SE5K/SE8K/SE10K-RWB48) worden 1 tot 5 modules van het type BAT-05K48 ondersteund; SolarEdge noemt 23 kWh als systeemmaximum. Per module is de bruikbare capaciteit 4,6 kWh, met één uitzondering: SolarEdge verhoogde die per januari 2025 naar 4,85 kWh, maar alleen bij een batterij achter een 3-fase Home Hub die na januari 2025 is geactiveerd. Laat daarom in de offerte zetten welke waarde voor jouw opstelling geldt. Het maximale laad- en ontlaadvermogen blijft in beide gevallen 5000 W: meer capaciteit betekent niet meer vermogen.'
 - q: Wat kost een SolarEdge-systeem?
-  a: 'Dat verschilt per installateur, omdat arbeid, bekabeling en groepenkast zwaarder wegen dan de componentprijs. Losse componentprijzen bij Nederlandse dealers, prijspeil augustus 2026: SolarEdge Home Battery 48V 4,6 kWh circa €1.495 (batterijmodule, exclusief omvormer en installatie) en de 1-fase SE2200H circa €599. Vraag altijd twee of drie offertes met de complete componentlijst erbij.'
+  a: 'Dat verschilt per installateur, omdat arbeid, bekabeling en groepenkast zwaarder wegen dan de componentprijs. Losse componentprijzen bij Nederlandse dealers, prijspeil augustus 2026: SolarEdge Home Battery 48V (4,6 kWh bruikbaar) circa €1.495 (batterijmodule, exclusief omvormer en installatie) en de 1-fase SE2200H circa €599. Vraag altijd twee of drie offertes met de complete componentlijst erbij.'
 schema_type: Article
 ---
 
 *Disclosure: de verwijzingen naar SolarEdge in dit artikel zijn gewone verwijzingen — wij hebben met SolarEdge geen affiliate- of commissierelatie. Wij schrijven op basis van specificaties, publieke documentatie en vendorinformatie.*
+
+> **Kort antwoord:** een SolarEdge-thuisbatterijsysteem bestaat altijd uit drie lagen die je in de offerte apart terug moet zien: een optimizer per paneel, een Home Hub-omvormer met batterijingang, en één tot vijf batterijmodules BAT-05K48 (4,6 kWh bruikbaar per module, 23 kWh als systeemmaximum).
+>
+> De batterij is DC-gekoppeld, wat een paar procent rendement scheelt ten opzichte van AC-koppeling, maar hij werkt alleen achter een SolarEdge-omvormer. Het laad- en ontlaadvermogen blijft 5000 W, ook als je meer modules stapelt — meer capaciteit is dus niet meer vermogen. Consumentenprijzen publiceert SolarEdge niet; wij noemen alleen de dealerprijzen die wij hebben kunnen verifiëren.
 
 Wie "SolarEdge" in een offerte ziet staan, ziet zelden waar het systeem uit bestaat. Er staat een omvormertype, een aantal optimizers en soms een batterij — en de vraag welke onderdelen bij elkaar horen en waarom, blijft onbeantwoord. Dit artikel legt de opbouw uit: welke lagen een SolarEdge-systeem heeft, hoe 1-fase en 3-fase verschillen, wat DC-gekoppeld precies betekent en welke getallen uit de officiële datasheets komen.
 
@@ -108,7 +112,7 @@ DC-gekoppeld betekent dat de batterij aan de gelijkspanningszijde van de omvorme
 
 De datasheet van de 3-fase Home Hub kwantificeert dat met drie piekefficiënties: 98 procent van PV naar net, 98,4 procent van PV naar batterij en 96,1 procent van batterij naar net. Een AC-gekoppelde batterij zoals de Enphase IQ Battery of Sessy heeft per definitie een extra omzetting in het pad zon-naar-batterij.
 
-**Modelberekening, met de aannames erbij.** Stel dat je per jaar 1.500 kWh zonnestroom door de batterij laat lopen. Een DC-gekoppeld pad met 98,4 procent laden en 96,1 procent ontladen levert een rondgangsrendement van ongeveer 94,6 procent volgens de opgegeven piekefficiënties. Scheelt een AC-gekoppeld systeem in de praktijk drie procentpunt in dat pad, dan is dat circa 45 kWh per jaar. Bij €0,30 per kWh gaat het om ongeveer €14 per jaar. Dat is echt: het is ook klein genoeg om de keuze niet te bepalen als je op andere punten liever een AC-batterij hebt. De tegenkant van DC-koppeling is namelijk vendor lock-in — de batterij werkt alleen achter de eigen omvormer.
+**Modelberekening, met de aannames erbij.** Stel dat je per jaar 1.500 kWh zonnestroom door de batterij laat lopen. Een DC-gekoppeld pad met 98,4 procent laden en 96,1 procent ontladen levert een rondgangsrendement van ongeveer 94,6 procent volgens de opgegeven piekefficiënties. Scheelt een AC-gekoppeld systeem in de praktijk drie procentpunt in dat pad, dan is dat circa 45 kWh per jaar. Bij €0,26 per kWh (onze all-in aanname) gaat het om ongeveer €12 per jaar. Dat is echt: het is ook klein genoeg om de keuze niet te bepalen als je op andere punten liever een AC-batterij hebt. De tegenkant van DC-koppeling is namelijk vendor lock-in — de batterij werkt alleen achter de eigen omvormer.
 
 Hoe die afweging uitpakt tegenover micro-omvormers staat in onze vergelijking [SolarEdge versus Enphase](/posts/solaredge-vs-enphase-2026/).
 
@@ -121,11 +125,11 @@ Hieronder de opbouw van een systeem, met alleen prijzen die wij bij Nederlandse 
 | Optimizer S-serie | 1 per paneel | vraag installateur (25 jaar garantie) |
 | Omvormer 1-fase SE2200H (HD-Wave) | 1 | circa €599 bij een Nederlandse webshop, btw-vermelding ontbrak op de pagina |
 | Omvormer 3-fase Home Hub SE5K/SE8K/SE10K-RWB48 | 1 | vraag installateur |
-| Home Battery 48V, module BAT-05K48 (4,6 kWh) | 1–5 | circa €1.495 per module bij een Nederlandse dealer, exclusief omvormer, toebehoren en installatie |
+| Home Battery 48V, module BAT-05K48 (4,6 kWh; 4,85 kWh achter een na januari 2025 geactiveerde 3-fase Home Hub) | 1–5 | circa €1.495 per module bij een Nederlandse dealer, exclusief omvormer, toebehoren en installatie |
 | Meter voor energiebeheer/terugleverbegrenzing | 1 | vraag installateur |
 | Back-upcomponenten | n.v.t. | vraag installateur; SolarEdge noemt in de datasheet expliciet dat aanvullende componenten en een firmware-upgrade nodig kunnen zijn |
 
-Wat een dealer voor de batterijmodule van 4,6 kWh vraagt, zegt daarmee weinig over de systeemprijs. De omvormer, de optimizers, de meter, de bekabeling en de arbeid zitten er niet in, en juist daar loopt het verschil tussen offertes op.
+Wat een dealer voor één batterijmodule vraagt, zegt daarmee weinig over de systeemprijs. De omvormer, de optimizers, de meter, de bekabeling en de arbeid zitten er niet in, en juist daar loopt het verschil tussen offertes op.
 
 ## Waar wij op zouden letten in een SolarEdge-offerte
 

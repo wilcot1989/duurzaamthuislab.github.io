@@ -59,8 +59,6 @@ Deze vergelijking staat op de specificaties en prijzen van beide fabrikanten, op
 
 ---
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
 > **Kort antwoord:** begin je vanaf nul, dan is Zendure SolarFlow 800 met een AB2000-accu de completere en per kilowattuur gunstigere keuze.
 >
 > Heb je al een EcoFlow-powerstation staan, dan is een EcoFlow-omvormer erbij de goedkoopste route — maar kies dan de nieuwere STREAM Microinverter, want de PowerStream staat niet meer als hoofdunit in het Europese assortiment.

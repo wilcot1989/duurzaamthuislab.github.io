@@ -39,6 +39,10 @@ schema_type: Article
 
 *Disclosure: de verwijzingen naar Enphase in dit artikel zijn gewone verwijzingen — wij hebben met Enphase geen affiliate- of commissierelatie. Wij schrijven op basis van specificaties, publieke documentatie en vendorinformatie.*
 
+> **Kort antwoord:** Enphase publiceert geen consumentenprijs voor de IQ Battery 5P. Op de Nederlandse productpagina staat geen bedrag, alleen een verwijzing naar een distributiepartner — wat jij betaalt, bepalen distributeur en installateur.
+>
+> Wat wél vaststaat volgens Enphase: 5,0 kWh bruikbaar, 3,84 kVA continu, zes ingebouwde micro-omvormers en 15 jaar garantie bij 6.000 cycli. Vraag daarom minimaal drie offertes op en laat elke offerte de onderdelen apart benoemen: batterijmodules, IQ System Controller (nodig voor noodstroom), gateway, bekabeling, groepenkast en arbeid.
+
 "Enphase thuisbatterij prijs" is een van de meest gestelde vragen over dit merk, en juist die vraag heeft geen kort antwoord. Enphase publiceert namelijk geen consumentenprijs. Op de Nederlandse productpagina van de IQ Battery 5P staat geen bedrag; er staat een verwijzing naar een distributiepartner. De prijs die jij betaalt, wordt dus volledig bepaald door de distributeur en de installateur — en dat is meteen het belangrijkste dat je over die prijs moet weten.
 
 Dit artikel doet daarom twee dingen: het zet op een rij welke specificaties officieel bekend zijn, en het legt uit uit welke onderdelen een Enphase-installatie bestaat, zodat je offertes met elkaar kunt vergelijken in plaats van met een fantasiebedrag.

@@ -114,7 +114,7 @@ De pagina noemt daarnaast "Annual Savings up to €1,310". Dat is een marketingg
 
 De Jupiter-lijn is geen Venus, maar hij komt in dezelfde vergelijkingen terecht en is daarom het vermelden waard. Marstek geeft voor de Jupiter C Plus op: 800 W on-grid plug-and-play, 2,4 kW PV-input met 4 MPPT, anti feed-in in combinatie met de Marstek CT002/CT003 of een Shelly, een hd-touchscreen, een gestapeld ontwerp uitbreidbaar tot 10,24 kWh en IP65-waterdichtheid.
 
-Het onderscheidende punt zit in de vier MPPT-ingangen en de IP65-classificatie: dit is een systeem waar je panelen rechtstreeks op aansluit en dat buiten kan staan. Voor een balkon, tuinhuis of carport zonder bestaande omvormer is dat een andere aankoop dan een Venus, die achter een bestaande installatie hangt. Het vermogen blijft wel op 800 W, de plug-in-grens. Meer over dit model staat in de [Marstek Jupiter review](/posts/marstek-jupiter-thuisbatterij-review-2026/).
+Het onderscheidende punt zit in de vier MPPT-ingangen en de IP65-classificatie: dit is een systeem waar je panelen rechtstreeks op aansluit en dat buiten kan staan. Voor een balkon, tuinhuis of carport zonder bestaande omvormer is dat een andere aankoop dan een Venus, die achter een bestaande installatie hangt. Het vermogen blijft wel op 800 W, de plug-in-grens. Wat er publiek over dit model bekend is — en waarom de "15 kWh"-variant die in overzichten circuleert niet bestaat — staat in ons artikel [Marstek Jupiter: wat het model écht is](/posts/marstek-jupiter-thuisbatterij-review-2026/).
 
 Dit is ook het enige model in dit overzicht met een prijs op de eigen pagina: €599, stand augustus 2026.
 

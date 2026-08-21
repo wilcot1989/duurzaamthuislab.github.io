@@ -40,30 +40,18 @@ faq:
   a: Het rendement van moderne omvormers ligt tussen 96% en 98,5%. Dit betekent dat slechts 1,5-4% van de opgewekte energie verloren gaat bij de omzetting van DC naar AC. Micro-omvormers en optimizers kunnen een hoger systeemrendement bieden bij schaduwsituaties.
 - q: Heb ik een nieuwe omvormer nodig als ik een thuisbatterij wil?
   a: Als je een standaard (niet-hybride) string-omvormer hebt, moet je deze meestal vervangen door een hybride model om een DC-gekoppelde thuisbatterij aan te sluiten. Een alternatief is een AC-gekoppelde batterij, waarvoor geen nieuwe omvormer nodig is.
-products:
-- name: SolarEdge HD-Wave
-  url: https://www.solaredge.com/nl/products/residential/inverters
-  price: '1500'
-- name: Enphase IQ8
-  url: https://enphase.com/nl/homeowners/microinverters-iq8
-  price: '1800'
-- name: Huawei SUN2000
-  url: https://solar.huawei.com/eu/residential/inverter
-  price: '1200'
 schema_type: Article
 ---
 De omvormer is het onderdeel van een zonnepanelensysteem waar de meeste mensen het minst over nadenken — en juist daar zit de keuze die je over tien jaar geld kost of oplevert. Kies je nu een hybride model, dan kun je later een thuisbatterij aansluiten zonder de omvormer te vervangen. Kies je verkeerd, dan betaal je die vervanging alsnog.
 
-In dit overzicht vergelijken wij de vijf omvormers die in 2026 het meest worden geïnstalleerd in Nederland, op rendement, garantie, batterijcompatibiliteit, monitoring en prijs. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.
+In dit overzicht vergelijken wij de vijf omvormers die in 2026 het meest worden geïnstalleerd in Nederland, op rendement, garantie, batterijcompatibiliteit, monitoring en prijs. Wij vergelijken op basis van openbare fabrikantdocumentatie (datasheets en handleidingen) en publieke bronnen; wij nemen geen gemeten waarden van derden over en hebben deze omvormers niet zelf getest.
 
 *Disclosure: de links naar Huawei in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
 
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** De 5 beste omvormers voor zonnepanelen in 2026 vergeleken. String-omvormers vs micro-omvormers, rendement, monitoring en prijs-kwaliteitverhouding.
+> **Kort antwoord:** op een schaduwvrij dak zonder batterijplan is een gewone hybride string-omvormer de beste koop — het rendementsverschil tussen de merken in dit overzicht is minder dan één procentpunt en weegt niet op tegen honderden euro's meerprijs.
 >
-> Een string-omvormer is een centraal apparaat dat alle zonnepanelen aanstuurt. Micro-omvormers zitten onder elk individueel paneel. Micro-omvormers presteren beter bij schaduw en bieden monitoring per paneel, maar zijn duurder. String-omvormers zijn goedkoper en hebben een bewezen trackrecord.
+> Kies wél voor optimalisatie per paneel (Enphase, SolarEdge, of Huawei met optionele Smart Module Controllers) als je structurele schaduw hebt of meerdere dakvlakken. Let daarnaast op twee dingen die vaker geld kosten dan het rendement: of de omvormer hybride is, zodat een thuisbatterij later zonder vervanging kan, en hoe lang de garantie loopt.
 
 ## Snelle vergelijkingstabel
 
@@ -71,9 +59,13 @@ In dit overzicht vergelijken wij de vijf omvormers die in 2026 het meest worden 
 |---|---|---|---|---|---|---|
 | **Huawei SUN2000** | Hybride string | 2-12 kW | 98,4% | 10 jaar | €800 - €1.500 | Ja (Luna 2000) |
 | **Enphase IQ8+** | Micro-omvormer | 300W per stuk | 97,5% | 25 jaar | €130 - €170/stuk | Ja (IQ Battery) |
-| **SolarEdge + Optimizers** | String + optimizers | 3-10 kW | 99,5% (optimizer) | 12 + 25 jaar | €1.100 - €2.200 | Ja (Home Battery) |
+| **SolarEdge + Optimizers** | String + optimizers | 3-10 kW | 98,7% (systeem) | 12 + 25 jaar | €1.100 - €2.200 | Ja (Home Battery) |
 | **Fronius Primo Gen24** | Hybride string | 3-6 kW | 98,1% | 10 jaar | €1.200 - €1.800 | Ja (BYD, LG) |
 | **SMA Sunny Tripower** | String | 3-25 kW | 98,3% | 10 jaar | €900 - €1.600 | Beperkt |
+
+**Lees de rendementskolom goed.** Bij SolarEdge staan er twee apparaten in de keten: de optimizer onder het paneel (maximaal rendement 99,5 procent volgens de S-serie-datasheet) en de omvormer (99,2 procent). Die percentages tellen niet op maar door elkaar: 0,995 × 0,992 ≈ **98,7 procent** voor het systeem. Wie in een vergelijkingstabel alleen de 99,5 procent van de optimizer naast de 98,4 procent van een omvormer zet, maakt een categoriefout — het zijn twee verschillende apparaten — en laat SolarEdge onterecht als winnaar uit de bus komen. Bovendien zegt geen van deze getallen iets over het verschil dat in de praktijk telt: hoe het systeem zich bij schaduw gedraagt. De verliezen die je hier ziet, schelen op een jaaropbrengst van 4.500 kWh enkele tientallen kilowattuur.
+
+De prijsindicaties in deze tabel zijn bandbreedtes voor de omvormer inclusief toebehoren, geen fabrikantsprijzen: geen van deze merken publiceert een consumentenprijs. Wat je betaalt, bepaalt de installateur — vraag daarom twee of drie offertes met een uitgesplitste componentlijst.
 
 ---
 
@@ -346,7 +338,7 @@ Zijn er bomen, schoorstenen of andere obstakels die schaduw op je panelen veroor
 
 ### Je wilt later een thuisbatterij toevoegen
 
-Met de [afbouw van de salderingsregeling](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) wordt een thuisbatterij steeds interessanter. Kies dan nu al een **hybride omvormer** die batterij-ready is:
+Met het [einde van de salderingsregeling per 1 januari 2027](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) — een harde stop, geen afbouwpad — wordt een thuisbatterij interessanter. Kies dan nu al een **hybride omvormer** die batterij-ready is:
 
 - **Huawei SUN2000** + [Huawei Luna 2000](/posts/huawei-luna-2000-review-2026/)
 - **SolarEdge** + SolarEdge Home Battery
@@ -380,7 +372,7 @@ De conclusie is duidelijk: bij een **schaduwvrij dak** maakt het type omvormer w
 
 ### Salderingsregeling en de omvormer
 
-De [salderingsregeling](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) heeft indirect invloed op je omvormerkeuze. Met de afbouw vanaf 2027 wordt het steeds belangrijker om zoveel mogelijk opgewekte stroom zelf te verbruiken. Een hybride omvormer die je later kunt koppelen aan een thuisbatterij helpt daarbij. Lees meer in ons artikel over de [afbouw van de salderingsregeling](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/).
+De [salderingsregeling](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) heeft indirect invloed op je omvormerkeuze. Omdat de regeling per 1 januari 2027 volledig stopt, wordt het belangrijker om zoveel mogelijk opgewekte stroom zelf te verbruiken. Een hybride omvormer die je later kunt koppelen aan een thuisbatterij helpt daarbij.
 
 ### ISDE-subsidie: niet voor omvormers, en ook niet voor batterijen
 
@@ -424,7 +416,7 @@ De komst van de saldering-stop maakt de omvormer-keuze strategisch belangrijker.
 
 **Zonder thuisbatterij (na 2027):** Teruglevering is veel minder waard. Een omvormer die maximale opbrengst biedt bij bewolkt weer (micro-omvormers, optimizers) verdient zichzelf iets sneller terug omdat ook elke "grijze" kWh die je direct verbruikt waarde heeft.
 
-**Met thuisbatterij (na 2027):** Je wilt een hybride omvormer die efficiënt laadt en ontlaadt. DC-koppeling (Huawei, SolarEdge) is efficiënter dan AC-koppeling (Enphase IQ Battery). Efficiëntieverschil: rond-trip 90% vs 86%. Bij 1.500 kWh batterijgebruik per jaar: 60 kWh meer opbrengst bij DC = €18/jaar. Niet enorm, maar meetbaar.
+**Met thuisbatterij (na 2027):** Je wilt een hybride omvormer die efficiënt laadt en ontlaadt. DC-koppeling (Huawei, SolarEdge) is efficiënter dan AC-koppeling (Enphase IQ Battery). Het verschil zit in het aantal omzettingen: bij AC-koppeling gaat zonnestroom een extra keer door een omvormer. Reken in een modelberekening met enkele procenten rondgangsverschil — bij 1.500 kWh batterijgebruik per jaar en €0,26/kWh gaat het om een orde van grootte van €10 tot €20 per jaar. Harde rondgangsrendementen publiceren de fabrikanten niet per combinatie; vraag ze op voor de configuratie in je offerte.
 
 **Voor wie nu nog geen batterij heeft:** Kies altijd een hybride omvormer voor toekomstbestendigheid. Het kostenverschil tussen hybride en niet-hybride is €100-€300 bij aanschaf, maar achteraf omvormer vervangen voor batterij-aansluiting kost €800-€1.500.
 
@@ -444,7 +436,7 @@ Na 2027 wil je weten: wanneer produceren mijn panelen optimaal, wanneer verbruik
 
 ### Fout 4: Garantie-extensies vergeten
 
-Standaard garantie Huawei en Fronius: 10 jaar. SolarEdge: 12 jaar. Enphase: 25 jaar standaard. Als je 25 jaar lang geen omvormervervanging wilt plannen, betaalt een garantie-extensie van Huawei (€300 voor 10 extra jaar) zichzelf terug.
+Standaard garantie Huawei en Fronius: 10 jaar. SolarEdge: 12 jaar. Enphase: 25 jaar standaard. Wil je 25 jaar lang geen omvormervervanging plannen, vraag dan de prijs van een garantieverlenging op vóór je kiest — die prijzen staan niet publiek op de fabrikantspagina's en verschillen per distributeur. Zet die meerprijs naast de kosten van één vervanging (€800-€1.500 inclusief arbeid).
 
 ### Fout 5: Omvormer en batterij van verschillende merken kopen
 
@@ -463,16 +455,13 @@ In theorie kan het, via AC-koppeling. In de praktijk is de integratie slechter: 
 
 ## Conclusie
 
-Voor de meeste Nederlandse huishoudens biedt de **Huawei SUN2000** in 2026 de beste combinatie van prijs, prestaties en toekomstbestendigheid. Het is een hybride omvormer die direct klaar is voor de Huawei Luna 2000 thuisbatterij -- een groot voordeel met het oog op de afbouw van de salderingsregeling.
+Voor de meeste Nederlandse huishoudens biedt de **Huawei SUN2000** in 2026 de beste combinatie van prijs, prestaties en toekomstbestendigheid. Het is een hybride omvormer die direct klaar is voor de Huawei Luna 2000 thuisbatterij -- een voordeel met het oog op de salderingsstop per 1 januari 2027.
 
 Heb je te maken met schaduw of wil je maximale monitoring? Dan zijn **Enphase micro-omvormers** of **SolarEdge met optimizers** de investering waard. De **Fronius Gen24** is een uitstekend Europees alternatief met brede batterijcompatibiliteit, en de **SMA Sunny Tripower** is onverslaanbaar voor grotere installaties.
 
-Het belangrijkste advies: kies een omvormer die past bij je huidige situatie en toekomstige plannen. De salderingsregeling verandert, energieprijzen blijven stijgen, en een thuisbatterij wordt steeds aantrekkelijker. Een hybride omvormer die je vandaag koopt, bespaart je morgen de kosten van een vervanging.
+Het belangrijkste advies: kies een omvormer die past bij je huidige situatie en toekomstige plannen. De saldering stopt per 1 januari 2027, en daarmee wordt eigenverbruik — en dus een thuisbatterij — voor meer huishoudens interessant. Een hybride omvormer die je vandaag koopt, bespaart je morgen de kosten van een vervanging.
 
 Benieuwd welke thuisbatterij het beste bij jouw omvormer past? Lees ons complete overzicht van de [beste thuisbatterijen voor Nederland in 2026](/posts/beste-thuisbatterij-nederland-2026/).
-
-
-<a href="https://go.duurzaamthuislab.nl/huawei-luna" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Huawei Luna</a>
 
 
 

@@ -39,6 +39,10 @@ schema_type: Review
 
 *Disclosure: de verwijzingen naar Huawei in dit artikel zijn gewone verwijzingen — wij hebben met Huawei geen affiliate- of commissierelatie. Wij schrijven op basis van specificaties en publieke documentatie.*
 
+> **Kort antwoord:** de SUN2000 is een technisch sterke omvormer met een maximaal rendement van 98,4 procent (3-fase MB0-serie) en optimizers die optioneel zijn in plaats van verplicht — je plaatst een Smart Module Controller alleen onder de panelen die schaduw hebben.
+>
+> De aandachtspunten zitten niet in de hardware: je hebt een Smart Dongle nodig voor monitoring, de batterijkeuze zit vast aan de LUNA2000-serie, en Huawei publiceert geen consumentenprijzen — die bepaalt je installateur. Wij verzinnen ze niet en werken hier alleen met de officiële datasheets.
+
 Wie zoekt op "Huawei omvormer ervaringen" wil weten of dit merk in de praktijk bevalt. Dat is een eerlijke vraag met een oneerlijk antwoord op de meeste sites: ervaringen worden er verzonnen of overgeschreven. Wij doen dat niet. **Dit artikel is een samenvatting van de publieke documentatie van Huawei** — de officiële datasheets van de SUN2000-serie en van de Smart Module Controllers, plus de productinformatie op de Nederlandse Huawei-site, opgehaald op 20 augustus 2026. Wij hebben deze omvormer niet zelf geïnstalleerd en geen meterstanden vergeleken. Waar wij een oordeel geven, is dat een redactionele afweging op basis van die specificaties.
 
 Wij hebben geen commerciële relatie met Huawei.

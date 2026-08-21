@@ -39,13 +39,6 @@ faq:
   a: Nee. De Huawei Luna BESS-batterij werkt alleen met Huawei FusionSolar omvormers. Wil je een thuisbatterij toevoegen aan een Enphase-systeem, gebruik dan de Enphase IQ Battery of een compatibele oplossing via een hybride omvormer.
 - q: Is APsystems een goede keuze voor Nederlandse daken?
   a: APsystems (voorheen APS) maakt betrouwbare micro-omvormers in de middenklasse die goed presteren op Nederlandse daken. Ze zijn populair als goedkoper alternatief voor Enphase. De garantie is 10–15 jaar, app-kwaliteit is iets minder dan Enphase maar functioneel.
-products:
-- name: Huawei Luna thuisbatterij
-  url: https://go.duurzaamthuislab.nl/huawei-luna
-  price: op aanvraag
-- name: Beste omvormers zonnepanelen 2026
-  url: /posts/beste-omvormer-zonnepanelen-2026
-  price: zie artikel
 schema_type: Article
 ---
 Installateurs adviseren SolarEdge of Enphase vaak met hetzelfde argument: één schaduwrijke boom aan de west- of oostkant trekt bij een gewone string-omvormer de opbrengst van de hele string naar beneden. Dat argument is technisch juist, maar het kost wel enkele honderden euro's meerprijs — en die meerprijs is niet in elke situatie terug te verdienen.
@@ -59,9 +52,9 @@ In dit artikel zetten wij alle opties naast elkaar op basis van fabrieksspecific
 ---
 
 
-> **Kort antwoord:** SolarEdge, Enphase, Huawei en APsystems vergeleken — wanneer micro-omvormer slim, wanneer string-omvormer voldoende voor jouw NL-dak.
+> **Kort antwoord:** heeft je dak geen schaduw en één oriëntatie, dan is een gewone string-omvormer voldoende — de meerprijs van micro-omvormers of optimizers verdien je daar niet terug.
 >
-> Een string-omvormer zit centraal en converteert de DC-stroom van alle panelen samen naar AC. Een micro-omvormer zit per paneel en converteert per paneel individueel. Bij micro-omvormers heeft schaduw of vervuiling op één paneel geen invloed op de andere panelen.
+> Heb je wél structurele schaduw van een boom, dakkapel of schoorsteen, of meerdere dakvlakken, dan lonen paneel-voor-paneel-oplossingen: een string-omvormer laat het zwakste paneel de hele string meetrekken, micro-omvormers en optimizers voorkomen dat. Reken met een meeropbrengst in de orde van 5 tot 9 procent van de jaaropbrengst en zet daar de meerprijs tegenover.
 
 ## De basisprincipes: hoe werken omvormers?
 
@@ -159,9 +152,7 @@ Bij micro-omvormers zit er bij elk paneel een eigen kleine omvormer. Elk paneel 
 - Compleet systeem: **€9.500–€12.000**
 
 **De LUNA2000 batterij:**
-De Huawei Luna is een van de best beoordeelde thuisbatterijen in Nederland in 2026. Koppeling met de SUN2000-omvormer is naadloos — geen extra gateway nodig. De LUNA2000 heeft een hoog round-trip rendement (>95%) en uitstekende app-integratie.
-
-**[Bekijk Huawei Luna](https://go.duurzaamthuislab.nl/huawei-luna)**
+De LUNA2000 koppelt direct aan de SUN2000-omvormer; volgens de datasheet van de omvormer is daar geen extra gateway voor nodig. Rendements- en capaciteitswaarden nemen wij alleen over uit de datasheet van het model dat in je offerte staat — een algemeen percentage zegt hier weinig. Welke LUNA2000-varianten Huawei per omvormermodel noemt, staat in onze [Huawei SUN2000-review](/posts/huawei-sun2000-omvormer-review-2026/).
 
 **Wanneer Huawei kiezen?**
 - Je wil panelen + batterij als geïntegreerd systeem
@@ -231,15 +222,13 @@ Besparing ten opzichte van SolarEdge: €700–€1.200.
 
 **Beste keuze: SolarEdge HD-Wave + P730 power optimizers**
 
-SolarEdge biedt per paneel optimalisatie zonder de hoge kosten van echte micro-omvormers. Voor de meeste Nederlandse daken met beperkte schaduw is dit de optimale prijs-prestatieverhouding. De opbrengstverbetering door power optimizers bij gedeeltelijke schaduw is goed gedocumenteerd: 5–25% hogere opbrengst ten opzichte van een gewone string-omvormer afhankelijk van de schaduwintensiteit.
+SolarEdge biedt per paneel optimalisatie zonder de hoge kosten van echte micro-omvormers. Voor de meeste Nederlandse daken met beperkte schaduw is dit de optimale prijs-prestatieverhouding. De opbrengstverbetering door power optimizers bij gedeeltelijke schaduw ligt in onze modelberekeningen in de orde van 5 tot 9 procent van de jaaropbrengst, afhankelijk van de schaduwintensiteit en het aantal beschaduwde panelen — de uitwerking staat in [omvormer kiezen: welke past bij jouw dak](/posts/omvormer-kiezen-welke-past-2026/). Hogere percentages die je in verkoopmateriaal tegenkomt, gelden voor het beschaduwde paneel en niet voor de hele installatie.
 
 ### Scenario 3: Complex dak met meerdere oriëntaties + geplande batterij
 
 **Beste keuze: Huawei SUN2000 hybride omvormer + LUNA2000**
 
-Als je nu al een thuisbatterij wilt of dat zeker plant voor de saldering-afbouw in 2027, dan is het Huawei-ecosysteem de meest geïntegreerde keuze. De SUN2000 hybride omvormer heeft twee onafhankelijke MPPT-trackers voor twee dakvlakken, en de koppeling met LUNA2000 werkt zonder extra hardware.
-
-**[Bekijk Huawei Luna thuisbatterij](https://go.duurzaamthuislab.nl/huawei-luna)**
+Als je nu al een thuisbatterij wilt of dat zeker plant voor het einde van de saldering per 1 januari 2027, dan is het Huawei-ecosysteem de meest geïntegreerde keuze. De SUN2000 hybride omvormer heeft twee onafhankelijke MPPT-trackers voor twee dakvlakken, en de koppeling met LUNA2000 werkt zonder extra hardware.
 
 ### Scenario 4: Complex dak, maximale betrouwbaarheid prioriteit
 
@@ -257,7 +246,7 @@ Voor een kleinere installatie op bijgebouw, garagecomplex of bij strakke budgetr
 
 ## Thuisbatterij-integratie: de beslissende factor?
 
-In 2026 kopen steeds meer huiseigenaren zonnepanelen met het expliciete plan om later een thuisbatterij toe te voegen, gezien de saldering-afbouw in 2027. Dit maakt de batterij-compatibiliteit van je omvormer een strategische keuze.
+In 2026 kopen steeds meer huiseigenaren zonnepanelen met het expliciete plan om later een thuisbatterij toe te voegen, gezien het einde van de saldering per 1 januari 2027. Dit maakt de batterij-compatibiliteit van je omvormer een strategische keuze.
 
 ### Overzicht batterij-compatibiliteit
 
@@ -306,8 +295,6 @@ Op basis van de specificaties, garantievoorwaarden en prijsniveaus hierboven kom
 
 Lees ook onze vergelijking van de [beste omvormers voor zonnepanelen in 2026](/posts/beste-omvormer-zonnepanelen-2026/) voor aanvullende modellen en prijsoverzichten.
 
-**[Meer over Huawei Luna thuisbatterij](https://go.duurzaamthuislab.nl/huawei-luna)**
-
 ---
 
 ## Uitval en storing: hoe betrouwbaar zijn de vier systemen in de praktijk?
@@ -317,7 +304,7 @@ Na de theoretische specs is de volgende vraag: hoe storen deze systemen in de pr
 ### SolarEdge storingen in de praktijk
 
 De meest gemelde storingen bij SolarEdge:
-- **Omvormer uitval (20–30% van alle SolarEdge-storingen):** de centrale omvormer is het zwakste onderdeel. Uitval = volledig systeem staat stil. Gemiddelde levertijd vervangingsomvormer: 5–14 werkdagen.
+- **Uitval van de centrale omvormer:** dit is het structurele zwakke punt van de architectuur — valt de omvormer uit, dan staat het hele systeem stil, terwijl bij micro-omvormers alleen dat ene paneel wegvalt. Hoe vaak dat gebeurt, publiceert geen enkele fabrikant; wij noemen daarom geen percentage. Wat je wél kunt vastleggen: hoe lang je installateur over een vervangende omvormer doet en of er een leenexemplaar is.
 - **Arc fault detection (AFCI) valse alarmen:** SolarEdge omvormers hebben een ingebouwde boogstoringdetectie. Deze geeft soms valse meldingen bij normale kabellengte/lossere verbindingen. Oplossing: firmware-update, maar dit irriteert gebruikers.
 - **Power optimizer degradatie na 8+ jaar:** sommige gebruikers rapporteren dat individuele optimizers na 8–10 jaar defectraken. Ze worden één voor één vervangen (garantie 25 jaar dekt dit).
 
@@ -388,14 +375,12 @@ Bij structurele ochtend- of avondschaduw is SolarEdge in dit prijsbeeld de midde
 Bij gedeeltelijke schaduw op enkele panelen zakt de opbrengst van die panelen doorgaans met 15 tot 25 procent gedurende de schaduwuren. Zonder power optimizers trekt het zwakste paneel in een string de hele string mee naar beneden; met optimizers blijven de niet-beschaduwde panelen op hun eigen werkpunt. Dat verschil is per paneel zichtbaar in de monitoring van SolarEdge en Enphase.
 
 **Stap 3 — Jaarproductie:**
-5,6 kWp × circa 900 vollasturen (het Nederlandse gemiddelde) = ongeveer 5.000 kWh per jaar. Bij dezelfde schaduwsituatie zonder optimizers ligt de verwachting 10 tot 15 procent lager: 500 tot 750 kWh, oftewel €110 tot €165 per jaar aan opbrengst die de optimizers opleveren.
+5,6 kWp × circa 900 vollasturen (de gangbare vuistregel voor Nederland) = ongeveer 5.000 kWh per jaar. Bij dezelfde schaduwsituatie zonder optimizers ligt de verwachting 5 tot 9 procent lager: 250 tot 450 kWh. Bij €0,26/kWh (de all-in inkoopprijs uit onze aannames) is dat €65 tot €117 per jaar aan opbrengst die de optimizers opleveren.
 
-Meerkosten optimizers ten opzichte van gewone string: €1.400. Terugverdientijd die meerkosten: **8,5–12,7 jaar** — aan de grens maar acceptabel voor een 25-jaar systeem.
+Meerkosten optimizers ten opzichte van gewone string: €1.400. Terugverdientijd van die meerkosten: **12 tot 21 jaar**.
 
-**Conclusie uit dit rekenvoorbeeld:** bij een schaduwrijk dak is SolarEdge verdedigbaar, ook al zit de terugverdientijd van de meerprijs aan de grens. Bij een schaduwvrij dak is de goedkopere string-omvormer de logische keuze — dat verschil van €1.400 levert meer op als je het in een thuisbatterij of extra isolatie steekt.
+**Conclusie uit dit rekenvoorbeeld:** met deze aannames verdient de meerprijs van €1.400 zich binnen de levensduur nauwelijks terug. Optimizers of micro-omvormers zijn te verdedigen bij zwaardere of structurele schaduw, bij meerdere dakvlakken of als de meerprijs lager uitvalt dan €1.400 — maar niet als standaardkeuze. Bij een schaduwvrij dak is de goedkopere string-omvormer de logische keuze: dat verschil van €1.400 levert meer op als je het in een thuisbatterij of extra isolatie steekt. En let op: de winst geldt alleen voor kWh die je zelf verbruikt, want teruglevering is vanaf 2027 minder waard dan €0,26.
 
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 
