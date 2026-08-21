@@ -19,7 +19,7 @@ keywords:
 - homewizard batterij prijs
 - homewizard thuisbatterij ervaringen
 - homewizard batterij 2,7 kwh
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -135,9 +135,9 @@ Dat is geen argument tegen deze batterij in het bijzonder — het geldt voor elk
 - **Grootverbruikers.** Bij een jaarverbruik boven de 5.000 kWh is 2,7 kWh een kleine buffer, en vier units kopen (€4.780 plus een groep) is prijstechnisch niet meer aantrekkelijk tegenover een vaste batterij van 10 kWh.
 - **Wie op maximaal rendement uit is.** 70 tot 85 procent is de eigen opgave; DC-gekoppelde systemen zitten hoger.
 
-<a href="https://go.duurzaamthuislab.nl/homewizard?ref=/posts/homewizard-thuisbatterij-review-2026/" class="cta" rel="nofollow noopener" target="_blank">Bekijk de HomeWizard Plug-In Battery</a>
+<a href="https://go.duurzaamthuislab.nl/homewizard?ref=/posts/homewizard-thuisbatterij-review-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de HomeWizard Plug-In Battery</a>
 
-*Disclosure: wij hebben op dit moment geen commerciële relatie met HomeWizard en verdienen niets aan de link hierboven. De specificaties en prijzen komen van homewizard.com, opgehaald op 20 augustus 2026.*
+*Disclosure: dit artikel bevat affiliate-links naar HomeWizard (via Daisycon). Koop je via zo'n link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Op de inhoud heeft dat geen invloed: de specificaties en prijzen komen van homewizard.com, opgehaald op 20 augustus 2026.*
 
 ## Ons oordeel
 

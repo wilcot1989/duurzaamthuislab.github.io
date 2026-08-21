@@ -44,9 +44,9 @@ faq:
   a: 'Alleen voor spullen die je meeneemt: P1-meter, plug-in batterij, slimme stekkers. Vaste installaties (slimme thermostaat aansluitkabel, kabelgaten) NIET. Vandaar dat de plug-and-play-route voor huurders vrijwel altijd de beste keuze is.'
 - q: 'Kan ik mijn verhuurder dwingen om te verduurzamen?'
   a: 'Bij corporaties: ja, via Huurcommissie bij label E/F/G sinds 2023. Bij particuliere verhuurder vanaf 2030 verplicht label C voor nieuwe contracten. Tot die tijd: schriftelijk verzoek, bij weigering Huurcommissie. Doorlooptijd 8-14 weken.'
-affiliate: false
+affiliate: true
 ---
-*Disclosure: de links naar Frank Energie, HomeWizard, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: dit artikel bevat een affiliate-link naar HomeWizard (Daisycon) — koop je daarvia, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. De links naar Frank Energie, Sessy en Tibber zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 Als huurder voel je je bij verduurzamen snel machteloos: geen eigen dak, geen toestemming voor bouwkundige ingrepen, en energieprijzen waar je niets aan kunt doen. Dat beeld is maar half waar. Een flink deel van de winst zit in apparaten en contracten waarvoor je juridisch niemand iets hoeft te vragen — en die je bij verhuizing gewoon meeneemt.
 

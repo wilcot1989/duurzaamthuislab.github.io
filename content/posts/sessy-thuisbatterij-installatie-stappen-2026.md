@@ -43,7 +43,7 @@ faq:
 - q: 'Wanneer verdient een Sessy zichzelf terug?'
   a: 'In ons rekenmodel is een batterij vanaf 1-1-2027 op een dynamisch contract circa €177 per jaar waard bij 5 kWh en €353 bij 10 kWh. Tegen de vendorprijzen van €3.550 en €5.500 exclusief installatie is dat circa 20 respectievelijk 15,6 jaar, en met installatiekosten erbij langer. Op een vast contract valt de arbitragecomponent weg en loopt het verder op.'
 ---
-*Disclosure: de links naar Sessy (Charged), Frank Energie, Tibber en HomeWizard in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en ontvangen hiervoor geen vergoeding. Wij baseren ons op specificaties en installatievoorschriften van de fabrikant en op publieke data. Wij meten niet zelf.*
+*Disclosure: dit artikel bevat een affiliate-link naar HomeWizard (Daisycon) — koop je daarvia, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. De links naar Sessy (Charged), Frank Energie en Tibber zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie. Wij baseren ons op specificaties en installatievoorschriften van de fabrikant en op publieke data. Wij meten niet zelf.*
 
 Het verschil tussen een soepele Sessy-installatie en een die vastloopt, zit vrijwel nooit in de hardware maar in de voorbereiding: de groepenkast, de locatie, het dynamische contract en de P1-poort. Hieronder staat het hele traject op een rij, met de punten waarop het volgens de installatievoorschriften het vaakst misgaat.
 
@@ -138,7 +138,7 @@ Vraag het contract een aantal weken vóór de installatie aan. Je wilt op de dag
 
 De Sessy leest je verbruik uit via de P1-poort van je slimme meter. Vrijwel alle in Nederland geplaatste slimme meters hebben die poort, maar bij oudere meters kan de datastroom beperkt zijn. Bij twijfel: stuur een foto van je meter (met het typenummer) naar Charged of je installateur en laat het bevestigen.
 
-Heb je nog geen P1-monitoring? Een <a href="https://go.duurzaamthuislab.nl/homewizard" target="_blank" rel="noopener nofollow">HomeWizard P1-meter</a> (€24,95, opgave homewizard.com, peildatum 21-8-2026) geeft je vóór de batterijaankoop enkele maanden aan eigen verbruiksdata. Met die data kun je het rekenmodel met je eigen cijfers doorrekenen in plaats van met aannames.
+Heb je nog geen P1-monitoring? Een <a href="https://go.duurzaamthuislab.nl/homewizard" target="_blank" rel="noopener nofollow sponsored">HomeWizard P1-meter</a> (€24,95, opgave homewizard.com, peildatum 21-8-2026) geeft je vóór de batterijaankoop enkele maanden aan eigen verbruiksdata. Met die data kun je het rekenmodel met je eigen cijfers doorrekenen in plaats van met aannames.
 
 *Gewone verwijzing; wij ontvangen hiervoor geen vergoeding.*
 

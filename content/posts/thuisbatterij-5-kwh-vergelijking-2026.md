@@ -19,7 +19,7 @@ keywords:
 - kleine thuisbatterij
 - sessy 5 kwh
 - marstek venus 5 kwh
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497440001374-f26997328c1b&w=1200&output=webp&q=70
@@ -138,4 +138,4 @@ Voor een huishouden met een verbruik tot circa 3.000 kWh, 8 tot 12 panelen en ge
 
 Binnen de 5 kWh-klasse is de keuze vooral een vermogenskeuze. Wil je 3 kW en back-up, dan kom je bij een systeem als de Venus E 4.0 uit, met de aantekening dat de Nederlandse prijs en het servicepad per verkoper verschillen. Wil je de laagste drempel en geen installateur, dan zijn twee gestapelde plug-in-units het antwoord, met 1.600 W en zonder noodstroom. En wil je een vaste installatie met Nederlandse service en een publieke adviesprijs, dan is Sessy op 5 kWh het meest transparante uitgangspunt.
 
-*Disclosure: wij hebben op dit moment geen commerciële relatie met Sessy, Marstek of HomeWizard en verdienen niets aan de links in dit artikel. Specificaties en prijzen komen van sessy.nl, eu.marstekenergy.com en homewizard.com, opgehaald op 20 augustus 2026.*
+*Disclosure: dit artikel bevat affiliate-links naar HomeWizard (via Daisycon) — koop je daarvia, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Met Sessy en Marstek hebben wij geen commerciële relatie. Specificaties en prijzen komen van sessy.nl, eu.marstekenergy.com en homewizard.com, opgehaald op 20 augustus 2026.*

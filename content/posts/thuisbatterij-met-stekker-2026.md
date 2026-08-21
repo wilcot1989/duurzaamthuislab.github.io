@@ -43,7 +43,7 @@ De categorie is in 2026 volwassen geworden: HomeWizard, Marstek, Zendure en EcoF
 
 Alle specificaties en prijzen komen van de productpagina's van de fabrikanten, opgehaald op 20 augustus 2026. Waar een fabrikant een waarde niet publiceert, staat dat er. Wij hebben deze systemen niet zelf getest.
 
-*Disclosure: dit artikel bevat affiliate-links voor EcoFlow (AWIN) en Zendure (Daisycon). Bij een aankoop via zo'n link ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. De links naar Marstek en HomeWizard zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie.*
+*Disclosure: dit artikel bevat affiliate-links voor EcoFlow (AWIN), Zendure en HomeWizard (Daisycon). Bij een aankoop via zo'n link ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. De links naar Marstek zijn gewone verwijzingen — met die partij hebben wij geen affiliate- of commissierelatie.*
 
 > **Kort antwoord:** de plug-in categorie splitst zich in twee groepen. Compacte kasten die alleen uit het net laden en ontladen (HomeWizard, Marstek Venus), en systemen die óók zonnepanelen direct opnemen via eigen MPPT-ingangen (Zendure SolarFlow, EcoFlow STREAM).
 >
@@ -80,7 +80,7 @@ De HomeWizard Plug-In Battery is de zuiverste vorm van de categorie: 2,7 kWh, 80
 
 Marstek zet in dezelfde groep een bredere lijn neer. Op de Europese site staan de Venus E Mini (2 kWh, 1,5 kW), de Venus E 4.0 (5 kWh, 3 kW) en de Venus E MAX (10 kWh, 3,6 kW), die Marstek zelf presenteert als de eerste 10 kWh all-in-one plug-in batterij. Prijzen publiceert Marstek daar niet, dus die staan hier ook niet. Onze beoordeling van de lijn staat in de [Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/); voor de zonne-variant zie de [Marstek Jupiter review](/posts/marstek-jupiter-thuisbatterij-review-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/homewizard?ref=/posts/thuisbatterij-met-stekker-2026/" class="cta" rel="noopener nofollow" target="_blank">Bekijk de HomeWizard Plug-In Battery</a>
+<a href="https://go.duurzaamthuislab.nl/homewizard?ref=/posts/thuisbatterij-met-stekker-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de HomeWizard Plug-In Battery</a>
 
 <a href="https://go.duurzaamthuislab.nl/marstek?ref=/posts/thuisbatterij-met-stekker-2026/" class="cta" rel="noopener nofollow" target="_blank">Bekijk het Marstek-assortiment</a>
 

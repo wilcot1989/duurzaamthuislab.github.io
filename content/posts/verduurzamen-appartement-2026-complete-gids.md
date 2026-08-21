@@ -44,9 +44,9 @@ faq:
   a: 'In de meeste rekenmodellen komt een appartement van 70-90 m2 uit op circa 200-450 euro per jaar met een dynamisch contract, slimme thermostaat, P1-meter en een kleine plug-in batterij. Niet spectaculair, maar de terugverdientijd blijft daarmee meestal binnen 3-5 jaar.'
 - q: 'Kan ik balkonzonnepanelen gebruiken in plaats van dakpanelen?'
   a: 'Sinds 2025 mag dat in Nederland zonder vergunning tot 800 W. Wel VvE-toestemming nodig voor zichtbare montage. Productie circa 350-650 kWh per jaar bij goede ligging — zie ons artikel over balkonpanelen voor de details.'
-affiliate: false
+affiliate: true
 ---
-*Disclosure: de links naar Frank Energie, HomeWizard, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: dit artikel bevat een affiliate-link naar HomeWizard (Daisycon) — koop je daarvia, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. De links naar Frank Energie, Sessy en Tibber zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
 
 "Ik woon in een appartement. Geen eigen dak, een VvE die alles tegenhoudt en blokverwarming. Kan ik überhaupt iets met verduurzamen?" Dat is een van de meest gestelde vragen over verduurzaming. Het eerlijke antwoord: ja, maar verwacht geen wonderen. Wel een paar honderd euro per jaar, en flink wat comfort.
 
