@@ -1,8 +1,8 @@
 ---
 title: 'Warmtenet of eigen warmtepomp 2026: keuze maken'
 date: 2026-06-25 10:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Warmtenet of toch een eigen warmtepomp? Wij leggen uit wanneer een warmtenet slim is, wat de kosten zijn en hoe je de keuze maakt als jouw wijk het aanbiedt.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: Wanneer is aansluiten op een warmtenet verstandig en wanneer een eigen warmtepomp? Met de door de ACM vastgestelde maximumtarieven voor 2026 en de stand van de Wet collectieve warmte.
 categories:
 - warmtepompen
 tags:
@@ -25,384 +25,211 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-- q: Wat is het verschil tussen een warmtenet en stadsverwarming?
-  a: 'Stadsverwarming is de oudere term voor hetzelfde concept: warmte via buizen naar woningen leveren. Moderne warmtenetten zijn technisch geavanceerder en kunnen warmte op lagere temperaturen leveren (laagtemperatuurwarmtenetten), wat efficiënter is maar hogere eisen stelt aan woningisolatie.'
-- q: Ben ik verplicht aan te sluiten op het warmtenet?
-  a: Dat hangt af van de gemeente en het specifieke project. In nieuwbouwgebieden is aansluiting vaak verplicht. In bestaande bouw bij transformatiewijken kun je in veel gevallen nog kiezen voor een eigen warmtepomp. Controleer de gemeentelijke Transitievisie Warmte voor jouw gemeente.
-- q: Wat kost aansluiting op een warmtenet?
-  a: 'De aansluitbijdrage loopt sterk uiteen: van €0 (bij verplichte aansluiting in nieuwbouw, inbegrepen in de woningprijs) tot €4.000-€10.000 bij vrijwillige aansluiting in bestaande bouw. Bovenop het aansluitbedrag betaal je een vast abonnementstarief (€100-€200/maand) en een variabel tarief per GJ geleverde warmte.'
-- q: Hoe hoog is de warmteprijs bij een warmtenet?
-  a: In Nederland is de warmteprijs voor consumenten gebonden aan het wettelijk maximum (NMDA-tarief, 'Niet Meer Dan Anders'). In 2026 ligt dit op circa €40-€44 per GJ, inclusief vastrecht. Dit is de politiek bepaalde grens die vergelijkbaar moet zijn met de kosten van een gasgestookte cv-ketel.
-- q: Kan ik zonnepanelen combineren met een warmtenet?
-  a: Ja. Zonnepanelen leveren elektriciteit; het warmtenet levert warmte. Dit zijn twee onafhankelijke systemen. Je hebt bij een warmtenet geen eigen warmtepomp of cv-ketel nodig, dus je hebt minder eigen elektriciteitsverbruik voor verwarming. Zonnepanelen dekken dan je huishoudelijk stroomverbruik.
-- q: Wat gebeurt er als de warmteleverancier failliet gaat?
-  a: Dit is een reëel risico dat recent actueler werd met de problemen rondom Vattenfall Warmte en andere leveranciers. Bij faillissement heeft de gemeente een leveringsplicht en moet doorlevering worden gegarandeerd. In de Warmtewet zijn regels voor continuïteit, maar in de praktijk zijn de opties beperkt als je verplicht bent aangesloten.
-- q: Is een warmtenet duurzamer dan een eigen warmtepomp?
-  a: Dat hangt af van de warmtebron van het net. Een warmtenet op geothermie, restwarmte of aquathermie is aanzienlijk duurzamer. Een warmtenet op aardgas is niet duurzamer dan een moderne warmtepomp op groene stroom. Vraag altijd naar de duurzaamheidsscore (CO2-uitstoot per GJ) van je lokale warmteleverancier.
-- q: 'Mijn CV-ketel is pas 3 jaar oud. Moet ik hem vervangen voor een warmtepomp?'
-  a: 'Nee. Een hybride warmtepomp werkt samen met je bestaande cv-ketel. Je ketels hoeft niet vervangen te worden. Na 10-12 jaar (het einde van de gemiddelde ketellevensduur) kun je volledig overstappen.'
-- q: 'Mijn huis is slecht geïsoleerd. Moet ik eerst isoleren voordat ik een warmtepomp kan?'
-  a: 'Voor een volledige warmtepomp: ideaal wel, maar een hybride warmtepomp werkt ook zonder grondige isolatie. Bij slechte isolatie is de gas-besparing kleiner (40-50% i.p.v. 70-85%), maar de investering loont al bij gemiddelde isolatieniveaus.'
-- q: 'Ik woon in een VvE-appartement. Kan ik individueel een warmtepomp nemen?'
-  a: 'Dit is een lastig vraagstuk. Een lucht-water warmtepomp vereist een buitenunit, wat bij appartementen toestemming van de VvE vereist. Lucht-lucht-systemen zijn eenvoudiger te installeren maar verwarmen minder efficiënt. Laat een installateur beoordelen wat technisch mogelijk is in jouw situatie.'
+- q: 'Wat is het verschil tussen een warmtenet en stadsverwarming?'
+  a: 'Stadsverwarming is de oudere term voor hetzelfde principe: warmte via leidingen naar woningen brengen. Het verschil zit in de temperatuur. De oudere netten werken op hoge temperatuur en passen daardoor bij bestaande radiatoren; nieuwere netten leveren op lagere temperatuur, wat efficiënter is maar hogere eisen stelt aan isolatie en afgiftesysteem.'
+- q: 'Ben je verplicht aan te sluiten op het warmtenet?'
+  a: 'Dat hangt af van de gemeente en het project. In nieuwbouwgebieden is aansluiting vaak vastgelegd in de bouwplannen. In bestaande wijken kun je in veel gevallen nog voor een eigen oplossing kiezen. Wat er voor jouw adres geldt, staat in het warmteprogramma of de transitievisie warmte van je gemeente — vraag het schriftelijk na.'
+- q: 'Wat mag een warmtenet in 2026 kosten?'
+  a: 'De ACM stelt jaarlijks maximumtarieven vast. Voor 2026 is het maximale variabele tarief € 40,97 per GJ (2025: € 43,79) en bedragen de maximale vaste kosten € 827,91 per jaar (2025: € 760,77). Dat zijn maxima: een leverancier mag daaronder zitten en mag het maximum alleen vragen als dat werkelijk nodig is.'
+- q: 'Kun je zonnepanelen combineren met een warmtenet?'
+  a: 'Ja, maar ze raken elkaar niet. Zonnepanelen leveren elektriciteit, het warmtenet levert warmte. Je zonnestroom verlaagt dus je elektriciteitsrekening en niet je warmterekening. Bij een eigen warmtepomp is dat anders: daar kun je eigen opwek wél direct in warmte omzetten, wat na het stoppen van de saldering per 1 januari 2027 zwaarder gaat wegen.'
+- q: 'Wat gebeurt er als de warmteleverancier stopt?'
+  a: 'Een warmtenet is een gebonden markt: je kunt niet overstappen naar een andere leverancier zoals bij gas en stroom. De wet regelt daarom continuïteit van levering en er is toezicht van de ACM, maar de afhankelijkheid zelf blijft bestaan. Dat is een van de zwaarste argumenten om vooraf goed te weten wie de leverancier is en hoe de continuïteit is geborgd.'
+- q: 'Is een warmtenet duurzamer dan een eigen warmtepomp?'
+  a: 'Dat hangt volledig af van de bron van het net. Geothermie, aquathermie en industriële restwarmte scoren goed; een net dat nog grotendeels op aardgas draait niet. Vraag de leverancier om de CO₂-uitstoot per geleverde GJ en om het pad naar de komende jaren, en leg dat naast de emissiefactor van elektriciteit voor een warmtepomp.'
+- q: 'Moet je eerst isoleren voordat een warmtepomp zinvol is?'
+  a: 'Voor een volledig elektrische warmtepomp is een goede schil vrijwel een voorwaarde, omdat het rendement daalt naarmate de gevraagde aanvoertemperatuur stijgt. Een hybride opstelling is vergevingsgezinder: de cv-ketel vangt de koudste dagen op. In beide gevallen levert isoleren zowel comfort als rendement op en is het zelden een verkeerde eerste stap.'
 products:
-- name: Daikin Altherma 3 warmtepomp
+- name: Daikin warmtepomp
   url: https://go.duurzaamthuislab.nl/daikin
-  price: '4500'
-- name: Bosch Compress 7000i warmtepomp
+- name: Bosch warmtepomp
   url: https://go.duurzaamthuislab.nl/bosch
-  price: '3900'
 schema_type: Article
 ---
-"De gemeente wil ons op een warmtenet aansluiten — is dat goed nieuws of gaat dit mij geld kosten?" Het is een van de meest gestelde vragen rond de wijkaanpak. Het eerlijke antwoord is: het hangt er van af.
+"De gemeente wil onze wijk op een warmtenet aansluiten — is dat goed nieuws?" Het eerlijke antwoord is dat het ervan afhangt, en vooral van twee dingen: welke bron het net gebruikt, en of je woning geschikt is voor het alternatief.
 
-Warmtenetten zijn complexe infrastructurele projecten die je energiehuishouding voor decennia vastleggen. De keuze tussen aansluiten op het warmtenet of investeren in een eigen warmtepomp is een van de moeilijkste energiebeslissingen die een huiseigenaar in 2026 kan maken.
+Een warmtenet is geen product dat je koopt maar een infrastructuur waar je decennialang aan vastzit, zonder de mogelijkheid van leverancier te wisselen. Dat maakt de afweging zwaarder dan bij de keuze tussen twee warmtepompmerken.
 
-Dit artikel geeft het kader om die keuze te maken — zonder politieke slogans, zonder verkooppraatjes. Wij baseren ons op de Warmtewet, gepubliceerde ACM-tarieven en de specificaties van de besproken systemen.
+Dit artikel geeft het kader voor die keuze, op basis van de door de ACM vastgestelde tarieven voor 2026, de stand van de wetgeving en de eigenschappen van beide systemen.
 
-*Disclosure: de links naar Bosch, Daikin en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+*Disclosure: dit artikel bevat geen affiliate-links. Wij hebben met Daikin, Bosch of de genoemde warmteleveranciers geen affiliate- of commissierelatie.*
 
----
-
-
-> **Kort antwoord:** Warmtenet of toch een eigen warmtepomp? Wij leggen uit wanneer een warmtenet slim is, wat de kosten zijn en hoe je de keuze maakt als jouw wijk het aanbiedt.
+> **Kort antwoord:** kijk eerst naar de bron van het net en pas daarna naar het tarief. Een net op geothermie, aquathermie of restwarmte is een wezenlijk andere keuze dan een net dat nog grotendeels op aardgas draait.
 >
-> Stadsverwarming is de oudere term voor hetzelfde concept: warmte via buizen naar woningen leveren. Moderne warmtenetten zijn technisch geavanceerder en kunnen warmte op lagere temperaturen leveren (laagtemperatuurwarmtenetten), wat efficiënter is maar hogere eisen stelt aan woningisolatie.
+> De tarieven staan vast aan een bovengrens: voor 2026 heeft de ACM het maximale variabele tarief bepaald op € 40,97 per GJ en de maximale vaste kosten op € 827,91 per jaar. In een goed geïsoleerde woning met ruimte voor een buitenunit is een eigen warmtepomp in gebruik doorgaans goedkoper; het warmtenet wint op toegankelijkheid en op woningen die zich slecht laten isoleren.
 
-## Hoe werkt een warmtenet?
+## Hoe een warmtenet werkt
 
-Een warmtenet is een systeem van ondergrondse leidingen die warm water transporteren van een centrale warmtebron naar woningen. Bij de woning staat een **warmtewisselaar** (afgiftestation) die de warmte overdraagt aan het verwarmingssysteem van de woning — vloerverwarming, radiatoren of luchtverwarming.
+Een warmtenet transporteert warm water via ondergrondse leidingen van een centrale bron naar woningen. In de woning zit een afleverset — in feite een warmtewisselaar — die de warmte overdraagt aan de eigen verwarmingsinstallatie: radiatoren, vloerverwarming of luchtverwarming.
 
-### De warmtebronnen
+### De bron bepaalt de duurzaamheid
 
-De duurzaamheid van een warmtenet hangt volledig af van de warmtebron:
-
-| Warmtebron | Duurzaamheid | Beschikbaarheid NL |
+| Warmtebron | Duurzaamheid | Beschikbaarheid in Nederland |
 |---|---|---|
-| Aardgas | Slecht (fossiel) | Breed (verouderde netten) |
-| Industriële restwarmte | Goed (hergebruik) | Beperkt (nabij industrie) |
-| Geothermie | Uitstekend | Groeiend (Noord-Holland, Zeeland) |
-| Aquathermie (oppervlaktewater) | Uitstekend | Groeiend |
-| Biomassa | Matig (discussieus) | Aanwezig |
-| Grootschalige warmtepomp | Goed | Nieuw (pilots) |
-| Datacenters restwarmte | Goed | Beperkt |
+| Aardgas | Slecht (fossiel) | Breed, vooral oudere netten |
+| Industriële restwarmte | Goed (hergebruik) | Beperkt, nabij industrie |
+| Geothermie | Goed tot uitstekend | Groeiend |
+| Aquathermie (oppervlaktewater) | Goed tot uitstekend | Groeiend |
+| Biomassa | Omstreden | Aanwezig |
+| Grootschalige warmtepomp | Goed | Nieuw |
+| Restwarmte datacenters | Goed | Beperkt |
 
-Vraag bij je warmteleverancier altijd naar de **primaire energiefactor** en de **CO2-uitstoot per GJ geleverde warmte**. Dit bepaalt of het warmtenet echt duurzamer is dan een eigen warmtepomp.
+Vraag de leverancier expliciet om de CO₂-uitstoot per geleverde GJ en om het pad naar de komende jaren. Dat cijfer bepaalt of het net inderdaad duurzamer is dan een eigen warmtepomp — en zonder dat cijfer is die vergelijking niet te maken.
 
-### Temperatuurniveaus
+### Temperatuurniveaus en wat ze van je woning vragen
 
-Er zijn drie typen warmtenetten met sterk verschillende consequenties voor de woning:
+**Hoge temperatuur (circa 70 tot 90 °C).** De klassieke stadsverwarming. Werkt met bestaande radiatoren en stelt weinig eisen aan de woning. Wel meer warmteverlies in het net.
 
-**Hoge temperatuur (70-90°C):** De traditionele stadsverwarming. Werkt met bestaande radiatoren. Veel Nederlandse netten zijn dit type — gebouwd in de jaren '70 tot '90.
+**Middentemperatuur (circa 55 tot 70 °C).** Gangbaar bij nieuwere en gerenoveerde netten. Vraagt soms grotere radiatoren.
 
-**Midden temperatuur (55-70°C):** Gangbaar bij nieuwe en gerenoveerde netten. Vraagt soms aanpassing van radiatoren (grotere oppervlakken).
+**Lage temperatuur (circa 35 tot 50 °C).** Efficiënt voor het net, maar de woning moet goed geïsoleerd zijn en een laagtemperatuurafgiftesysteem hebben. In veel bestaande woningen betekent dat een ingrijpende aanpassing.
 
-**Lage temperatuur (35-50°C):** Efficiënter voor het net, maar de woning moet goed geïsoleerd zijn en vloerverwarming of grote radiatoren hebben. Meest toekomstgericht.
+## Wat een warmtenet in 2026 mag kosten
 
----
+De warmteprijs bestaat uit drie delen: een eenmalige aansluitbijdrage, vaste jaarlijkse kosten en een variabel tarief per geleverde gigajoule. Over de laatste twee gaat de ACM.
 
-## De financiële werkelijkheid van warmtenetten
+**De maximumtarieven voor 2026** (bron: ACM, tarievenbesluit warmteleveranciers 2026, opgehaald 21 augustus 2026):
 
-Laat me concreet worden. De warmteprijs bij een warmtenet is opgebouwd uit drie componenten.
+| Post | 2026 | 2025 |
+|---|---|---|
+| Variabel tarief | € 40,97 per GJ | € 43,79 per GJ |
+| Vaste kosten per jaar (totaal) | € 827,91 | € 760,77 |
 
-### 1. Aansluitbijdrage (eenmalig)
+Twee dingen zijn hierbij belangrijk. Ten eerste zijn dit **maxima**, geen tarieven: de ACM benadrukt dat leveranciers het maximum alleen mogen vragen wanneer dat werkelijk nodig is. Kijk dus naar het daadwerkelijke tariefblad van jouw leverancier. Ten tweede zit in die vaste kosten meer dan alleen het leveringsvastrecht: ook het meettarief en de huur van de afleverset vallen eronder.
 
-Dit is het bedrag dat je betaalt om aangesloten te worden op het net. Dit varieert enorm:
+Wat betekent dat voor een huishouden? Bij een verbruik van 25 GJ per jaar betaal je onder het maximum ruwweg € 1.024 aan variabele kosten plus maximaal € 827,91 vast. Rekent je leverancier het maximum, dan kom je uit rond € 1.850 per jaar. Bij een laag verbruik wegen de vaste kosten relatief zwaar — de ACM rekent zelf voor dat een huishouden met 5 GJ per jaar in 2026 juist duurder uit kan zijn dan in 2025.
 
-- **Nieuwbouw (verplicht):** Doorgaans inbegrepen in de koopprijs, soms €0 extra
-- **Bestaande bouw (vrijwillig):** €2.000-€10.000 afhankelijk van afstand tot het net en lokaal beleid
-- **Herbouw aansluitbijdrage:** Bij sommige leveranciers verplicht na 20-30 jaar
+De **aansluitbijdrage** is niet landelijk gereguleerd op dezelfde manier en verschilt sterk per project: bij nieuwbouw zit hij vaak in de koopsom verwerkt, bij vrijwillige aansluiting in bestaande bouw kan het om een aanzienlijk bedrag gaan. Laat dat bedrag schriftelijk bevestigen voordat je iets tekent.
 
-### 2. Vastrecht (periodiek)
+## Modelberekening: warmtenet naast een eigen warmtepomp
 
-Je betaalt dit altijd, ongeacht hoeveel warmte je gebruikt. Gemiddeld in Nederland in 2026: **€1.200-€2.400 per jaar** (€100-€200/maand). Het vastrecht dekt de kosten van de infrastructuur.
+Onderstaand een **modelberekening met expliciete aannames**, geen meting en geen offerte.
 
-### 3. Variabel tarief (per GJ)
+**Uitgangspunt:** een rijtjeshuis met een warmtevraag van 25 GJ per jaar voor ruimteverwarming en warm water. Dat is omgerekend circa 6.944 kWh warmte.
 
-Je betaalt voor elke GJ (gigajoule) geleverde warmte. Het NMDA-maximumtarief in 2026 ligt op ca. **€40-€44/GJ**. Een gemiddeld rijtjeshuis verbruikt 20-30 GJ warmte per jaar voor verwarming en warm water.
+**Warmtenet, gerekend op de maximumtarieven van 2026:**
 
-### Rekenvoorbeeld: rijtjeshuis
+- Variabel: 25 GJ × € 40,97 = € 1.024
+- Vast: maximaal € 827,91
+- **Samen: circa € 1.852 per jaar**
 
-Een doorsnee rijtjeshuis (150 m², label D → isolatie verbeterd naar C):
+**Eigen lucht-waterwarmtepomp:**
 
-**Warmtenet:**
-- Vastrecht: €1.800/jaar
-- Variabel (25 GJ à €42): €1.050/jaar
-- **Totaal: €2.850/jaar**
+- Warmtevraag 6.944 kWh, aangenomen seizoensrendement COP 3,5
+- Stroomverbruik: 6.944 ÷ 3,5 = 1.984 kWh
+- Bij € 0,28 per kWh: € 555
+- Onderhoud: post die per installateur verschilt; reken hem apart mee met het tarief uit je eigen contract
+- **Samen: circa € 555 aan energie plus onderhoud**
 
-**Eigen warmtepomp (Daikin Altherma 3, COP 3,5):**
-- Warmtevraag: 25 GJ = 6.944 kWh warmte
-- Stroomverbruik: 6.944 / 3,5 = 1.984 kWh elektriciteit
-- Stroomkosten à €0,28/kWh: €555/jaar
-- Onderhoud: €150/jaar
-- **Totaal: €705/jaar**
+Het verschil in gebruikskosten valt duidelijk uit in het voordeel van de warmtepomp. Daar staat tegenover dat de warmtepomp een investering vooraf vraagt en het warmtenet niet — dat is precies de afruil waar de beslissing over gaat.
 
-Investeringskosten warmtepomp: €8.000-€12.000 (inclusief installatie, na ISDE-subsidie).
+Twee kanttekeningen bij dit model. Als je leverancier onder het maximum zit, wordt het verschil kleiner. En het rendement van 3,5 geldt voor een woning waarin de warmtepomp op een lage aanvoertemperatuur kan draaien; in een slecht geïsoleerde woning met hoge-temperatuurradiatoren zakt dat getal, en daarmee het voordeel.
 
-Terugverdientijd extra kosten warmtepomp t.o.v. warmtenet: niet van toepassing — de warmtepomp is goedkoper in gebruik. Het warmtenet is duurder, maar heeft een lagere drempel (geen grote investering ineens).
+## Wat de wet regelt
 
-*Let op: dit is een vereenvoudigd voorbeeld. Werkelijke kosten hangen af van je woningtype, isolatieniveau, lokale tarieven en gedrag.*
+### Het NMDA-principe en de rol van de ACM
 
----
+Warmteklanten zitten in een gebonden markt en worden daarom beschermd door een maximumtarief, gebaseerd op het principe "niet meer dan anders": je zou niet meer moeten betalen dan een vergelijkbaar huishouden met gas. De ACM stelt die maxima jaarlijks vast.
 
-## De Warmtewet: wat zijn je rechten?
+De belangrijkste kritiek daarop is dat de meetlat een cv-ketel op aardgas is. Een efficiënte warmtepomp is goedkoper dan die meetlat. NMDA beschermt je dus tegen het duurste alternatief, niet tegen het beste.
 
-In Nederland regelt de Warmtewet de rechten van warmtenetconsumenten. Belangrijkste punten voor 2026:
+### De Wet collectieve warmte
 
-### NMDA-bescherming
+De Wet collectieve warmte (Wcw) is op 9 december 2025 door de Eerste Kamer aangenomen. De beoogde inwerkingtreding, samen met het bijbehorende Besluit collectieve warmte, is **1 januari 2027**. De wet was in 2025 dus nog niet van kracht — een misverstand dat je op veel plekken tegenkomt.
 
-Het "Niet Meer Dan Anders"-principe bepaalt dat warmtenet-gebruikers niet meer mogen betalen dan vergelijkbare gasgebruikers. De ACM (Autoriteit Consument & Markt) stelt jaarlijks het maximumtarief vast.
+Wat de wet gaat regelen, gaat onder meer over publieke sturing op warmtebedrijven, tariefregulering en transparantie over de kostenopbouw. Omdat de uitwerking in lagere regelgeving nog loopt, publiceren wij hier geen concrete rendements- of tariefpercentages: die liggen op dit moment niet vast in een vorm die je kunt narekenen. Volg de publicaties van de ACM voor de definitieve invulling.
 
-**Kritiek op NMDA:** De maatstaf is een cv-ketel op aardgas. Een efficiënte warmtepomp is goedkoper. NMDA beschermt je tegen de slechtste optie, niet tegen de beste.
+### Leveringszekerheid en informatie
 
-### Leveringszekerheid
+Warmteleveranciers zijn gebonden aan regels over ononderbroken levering en compensatie bij langdurige storingen, en je hebt recht op inzage in je verbruik, de tariefopbouw en de duurzaamheid van het net. Vraag die informatie op; ze is niet altijd uit zichzelf beschikbaar.
 
-Warmteleveranciers zijn verplicht continue levering te garanderen (max. 8 uur onderbreking per jaar zonder compensatie). Langere storingen geven recht op compensatie.
+## Wanneer het warmtenet de betere keuze is
 
-### Recht op informatie
+**Bij een woning die zich slecht laat isoleren.** Een monument, een woning met een bijzondere constructie of een appartement in een gemengd complex. Een hogetemperatuurnet werkt daar waar een warmtepomp op een laag rendement zou blijven steken.
 
-Je hebt recht op:
-- Jaarlijkse duurzaamheidsscore van het net
-- Specificatie van je verbruik en tarieven
-- Inzage in de tariefopbouw
+**Als er geen plek is voor een buitenunit.** In dichte stedelijke bebouwing, bij galerijflats of woningen zonder eigen buitenruimte is plaatsing soms simpelweg niet mogelijk.
 
-### Nieuwe Warmtewet 2025
+**Als je de investering niet wilt of kunt doen.** Aansluiten op bestaande infrastructuur heeft een lagere drempel dan een eigen installatie, ook al liggen de jaarlijkse kosten hoger.
 
-Per 2025 is een herziene Warmtewet van kracht die meer bescherming biedt. Nieuw:
-- Maximumrendement voor warmtebedrijven (10,7%)
-- Meer transparantie over kostenopbouw
-- Verbeterde klachtenprocedure
+**Als de bron aantoonbaar duurzaam is.** Bij geothermie, aquathermie of restwarmte met een lage CO₂-uitstoot per GJ kan het net groener zijn dan een warmtepomp op netstroom.
 
----
+**Als je huurt.** Dan ligt de keuze bij de verhuurder of corporatie.
 
-## Wanneer is het warmtenet een goede keuze?
+## Wanneer een eigen warmtepomp beter uitpakt
 
-Er zijn situaties waarbij het warmtenet duidelijk beter is dan een eigen warmtepomp.
+**Bij een goed geïsoleerde woning.** Een lage aanvoertemperatuur betekent een hoog rendement en daarmee lage gebruikskosten.
 
-### 1. Je woning is slecht isoleerbaar
+**Als je zonnepanelen hebt of neemt.** Eigen opwek kun je direct in warmte omzetten. Dat wordt belangrijker na 1 januari 2027, wanneer de salderingsregeling volledig stopt — er is geen afbouwpad, de regeling eindigt in één keer. Bij een warmtenet heeft je zonnestroom geen enkele invloed op je warmterekening.
 
-Een monumentale woning, een appartement in een gemengd complex of een woning met bijzondere constructie kan moeilijk of niet goed te isoleren zijn. Een warmtepomp vereist een goed geïsoleerde woning voor efficiënte werking (anders daalt de COP naar 2,0-2,5, wat het financieel minder aantrekkelijk maakt).
+**Als je grip wilt op je kosten.** Je kiest zelf je stroomleverancier en je contractvorm. Bij een warmtenet is er één leverancier en geen marktkeuze.
 
-Een warmtenet op hogere temperatuur werkt ook in slecht geïsoleerde woningen.
+**Als je lang blijft wonen.** De investering wordt over de jaren terugverdiend; hoe langer de horizon, hoe gunstiger.
 
-### 2. Je woning heeft geen buitenruimte voor een buitenunit
+**Als het lokale net op aardgas draait.** Dan kies je met het warmtenet bewust voor fossiele warmte, terwijl een warmtepomp meebeweegt met de vergroening van het elektriciteitsnet.
 
-Een warmtepomp heeft een buitenunit nodig (bij lucht-water warmtepompen). In dichte stedelijke omgevingen, bij galerijflats of woningen zonder tuin kan plaatsing fysiek onmogelijk zijn. Voor bewoners van dergelijke woningen is het warmtenet vaak de enige collectieve optie.
+Voor de eigen warmtepomp geldt bovendien de ISDE: in 2026 een startbedrag van € 1.025, plus € 225 per kW vermogen, plus € 200 energielabelbonus bij een A+++-label (bron: rvo.nl, opgehaald 21 augustus 2026). Aanvragen doe je ná installatie, binnen 24 maanden, en het toestel moet met het volledige typenummer op de meldcodelijst van RVO staan. Op de warmtepomp betaal je 21% btw; het 0%-tarief geldt alleen voor zonnepanelen.
 
-### 3. Je wilt geen grote investering vooraf
+## Het afhankelijkheidsrisico
 
-Een eigen warmtepomp kost €8.000-€15.000 inclusief installatie. Na ISDE-subsidie (€3.000-€4.000) hou je €5.000-€11.000 over. Aansluiting op het warmtenet (als de infrastructuur al aangelegd is) heeft een lagere drempel, ook al zijn de jaarlijkse kosten hoger.
+Het zwaarste argument tegen een warmtenet is niet het tarief maar de gebondenheid. Bij gas en stroom kun je overstappen als je leverancier tegenvalt; bij warmte niet. De prijs is gereguleerd, de service en de investeringsagenda van het warmtebedrijf zijn dat veel minder.
 
-### 4. Het warmtenet heeft een uitstekende duurzaamheidsscore
+De afgelopen jaren hebben laten zien dat eigendom en strategie van warmtebedrijven kunnen verschuiven, met gevolgen voor investeringsplannen en tempo van verduurzaming. De wet regelt continuïteit van levering, maar niet dat je een andere keuze kunt maken.
 
-Als het lokale warmtenet gebruik maakt van geothermie, industriële restwarmte of aquathermie, en de CO2-uitstoot per GJ aanzienlijk lager is dan een warmtepomp op grijze stroom, is het warmtenet de groenere keuze. Dit varieert sterk per regio.
+Wat je daaraan kunt doen: vraag vóórdat je tekent wie de leverancier is, wie er achter dat bedrijf zit, hoe de continuïteit is geborgd en wat er gebeurt als je later toch wilt overstappen.
 
-### 5. Je bent huurder
+## Laagtemperatuurnetten
 
-Als huurder kun je in de meeste gevallen niet eigenhandig een warmtepomp installeren. In warmtenetten-wijken wordt de keuze voor je gemaakt door de verhuurder of corporatie.
+Het laagtemperatuurwarmtenet is technisch de meest interessante ontwikkeling. Het werkt met watertemperaturen rond de 25 tot 45 graden en heeft daardoor minder verlies in het net en toegang tot bronnen die op hogere temperatuur niet bruikbaar zijn, zoals aquathermie.
 
----
+De keerzijde is de eis aan de woning: uitstekende isolatie en een laagtemperatuurafgiftesysteem, in de praktijk vloerverwarming. Voor nieuwbouw is dat vanzelfsprekend, voor bestaande bouw een forse ingreep. Wie in een bestaande wijk een laagtemperatuurnet aangeboden krijgt, moet daarom scherp vragen wie de aanpassingen in de woning betaalt en op basis van welk isolatieniveau de leverancier zijn capaciteit heeft berekend.
 
-## Wanneer kies je beter voor een eigen warmtepomp?
+## Wat je aan de gemeente moet vragen
 
-### 1. Je woning is goed geïsoleerd (label B of beter)
+Bij een bewonersavond of informatiebrief zijn dit de vragen die het verschil maken:
 
-Een goed geïsoleerde woning met vloerverwarming is het ideale scenario voor een warmtepomp. COP-waarden van 3,5-5,0 zijn haalbaar, wat de operationele kosten laag houdt.
+1. **Wat is de primaire warmtebron, nu en over tien jaar?** Vraag een concreet pad, geen doelstelling voor 2040.
+2. **Wat is de CO₂-uitstoot per geleverde GJ?** Zonder dat getal is een duurzaamheidsvergelijking niet te maken.
+3. **Wat is de aansluitbijdrage en wat zijn de verwachte vaste en variabele kosten?** Schriftelijk, niet mondeling.
+4. **Is aansluiting verplicht of vrijwillig voor mijn adres?** Dit bepaalt je juridische positie.
+5. **Wat gebeurt er als ik later wil overstappen?** Zijn er kosten aan verbonden, en welke?
+6. **Wie is de leverancier en hoe is de continuïteit geborgd?** Publiek bedrijf, private partij, of een constructie daartussenin?
 
-### 2. Je hebt zonnepanelen of wilt die installeren
+Wat er voor jouw wijk op de planning staat, vind je in het warmteprogramma of de transitievisie warmte van je gemeente. Dat is ook de plek om te controleren of jouw wijk überhaupt in beeld is — dat weegt mee als je nu voor de keuze staat om in een eigen installatie te investeren.
 
-Met eigen zonnepanelen kun je overdag de warmtepomp draaien op (bijna) gratis zonnestroom. In combinatie met een thuisbatterij en een slimme energiemanager (zoals de Sessy of Marstek met integratie) bereik je een sterk geïntegreerde energiehuishouding.
+## Als je voor een eigen warmtepomp kiest
 
-Een warmtenet staat volledig los van je zonnepanelen; je profiteert niet van je eigen goedkope zonnestroom voor verwarming.
+Kies je voor een eigen installatie, dan draait de merkkeuze minder om het merk dan om drie controleerbare zaken: staat het volledige typenummer op de meldcodelijst van RVO, welke aanvoertemperatuur haalt het toestel, en zit er in jouw regio een installateur die dit merk regelmatig plaatst en inregelt.
 
-### 3. Je wilt controle over je energierekening
+Merken die je in Nederlandse offertes veel tegenkomt zijn onder meer [Daikin](https://go.duurzaamthuislab.nl/daikin) en [Bosch](https://go.duurzaamthuislab.nl/bosch). Prestatiecijfers per model staan in de datasheets van de fabrikant zelf en verschillen per typenummer en per meetconditie; wij nemen ze hier niet zonder die bron over.
 
-Bij een eigen warmtepomp heb je volledige controle over je stroomleverancier, je tarief en je verbruik. Bij een warmtenet ben je gebonden aan de tarieven van één leverancier, zonder marktkeuze.
+Twijfel je of je woning al klaar is voor een volledig elektrisch systeem, dan is een hybride opstelling de tussenstap: de warmtepomp doet het grootste deel van het stookseizoen, de bestaande cv-ketel vangt de koudste dagen op. Zie ons overzicht over het [kiezen van een hybride warmtepomp](/posts/beste-hybride-warmtepomp-2026/).
 
-### 4. Je verwacht langdurig in de woning te blijven
+## Warmtepompen en het elektriciteitsnet
 
-De terugverdientijd van een warmtepomp is 8-15 jaar. Als je 20+ jaar in de woning blijft, betaalt de warmtepomp zichzelf ruimschoots terug ten opzichte van warmtenetkosten.
+Een argument dat regelmatig voor warmtenetten wordt gebruikt, is de belasting van het elektriciteitsnet bij massale elektrificatie van de warmtevraag. Dat is een reëel planningsvraagstuk voor netbeheerders, maar het is zelden een reden om als individuele huiseigenaar van een warmtepomp af te zien.
 
-### 5. Het warmtenet in jouw wijk is op aardgas
+De piekbelasting van een warmtepomp is bovendien deels stuurbaar: met een slimme regeling, een buffervat en eventueel zonnepanelen en een thuisbatterij kun je verbruik verschuiven naar momenten waarop er ruimte is. Dat is precies de flexibiliteit die een warmtenetaansluiting je niet geeft.
 
-Als het lokale warmtenet nog hoofdzakelijk op aardgas draait, kies je bewust voor fossiele warmte. Een warmtepomp op groene stroom is dan duurzamer — ook als de absolute kosten vergelijkbaar zijn.
+## Conclusie
 
----
+Een warmtenet is niet per definitie goed of slecht; het past goed bij dichte bebouwing, bij woningen die zich slecht laten isoleren en bij netten met een aantoonbaar duurzame bron. Het is de minst veeleisende oplossing voor de woning en de meest veeleisende voor je keuzevrijheid.
 
-## De Vattenfall-casus: een waarschuwend verhaal
+Een eigen warmtepomp vraagt een investering en een geschikte woning, maar geeft lagere gebruikskosten, grip op leverancier en tarief, en de mogelijkheid om eigen opwek in warmte om te zetten — iets wat vanaf 2027 zwaarder gaat wegen.
 
-In 2023-2024 speelde in Nederland een incident rond Vattenfall Warmte (eigenaar van warmtenetten in Utrecht, Almere en Amsterdam). Door financiële problemen en hoge gasprijs-exposure overwoog het bedrijf verkoop of afstoting van de netten. Consumenten waren afhankelijk en hadden geen alternatief.
-
-Dit laat zien dat een warmtenet een **monopolistisch product** is: je kunt niet overstappen naar een andere leverancier als je aansluitplicht hebt.
-
-In de warmtewet van 2025 zijn verbeterde beschermingen opgenomen, maar de fundamentele afhankelijkheid blijft. Als de leverancier stopt, besluit de gemeente over de opvolging — en dat proces kan lang duren.
-
----
-
-## Laagtemperatuurwarmtenet: de toekomst?
-
-Het meest veelbelovende type warmtenet is het laagtemperatuurwarmtenet (LT-warmtenet). Dit werkt op watertemperaturen van 25-45°C.
-
-**Voordelen:**
-- Hogere efficiëntie in het net (minder warmteverlies in de grond)
-- Warmtebronnen op lagere temperatuur zijn goedkoper en abundanter (aquathermie, geothermie)
-- Mogelijkheid tot warmterugwinning vanuit woningen (bidirectioneel net)
-
-**Nadelen:**
-- Vereist uitstekende isolatie van de woning (label A of A+)
-- Vereist lagetemperatuurafgiftesysteem (vloerverwarming)
-- In de meeste bestaande woningen ingrijpende aanpassingen nodig
-
-Pilots in onder andere Leiden (Warmtenet 2.0), Venlo en Apeldoorn. Dit is de richting voor nieuwbouw na 2027, maar voor bestaande bouw is het een zware eis.
-
----
-
-## Checklist: warmtenet of warmtepomp?
-
-Gebruik dit beslisschema als je de keuze moet maken.
-
-**Kies het warmtenet als:**
-- [ ] Je woning is moeilijk isoleerbaar (monument, oud gebouw)
-- [ ] Je hebt geen buitenruimte voor warmtepomp-unit
-- [ ] Je wilt geen grote investering vooraf
-- [ ] Het warmtenet gebruikt geothermie of restwarmte (CO2-uitstoot < 30 kg/GJ)
-- [ ] Je bent huurder
-- [ ] Het warmtenet heeft een LT-net én je woning is goed geïsoleerd
-
-**Kies een eigen warmtepomp als:**
-- [ ] Je woning heeft energielabel B of beter (of je gaat dat bereiken)
-- [ ] Je hebt buitenruimte voor een warmtepomp
-- [ ] Je hebt (of wilt) zonnepanelen
-- [ ] Je wilt controle over je energieleverancier
-- [ ] Je verwacht 15+ jaar in de woning te blijven
-- [ ] Het warmtenet in jouw wijk draait op aardgas
-- [ ] Je wilt de laagste operationele kosten op lange termijn
-
----
-
-## Populaire warmtepompen voor de keuze naar eigen installatie
-
-Als je na de afweging kiest voor een eigen warmtepomp, zijn dit de modellen die op basis van specificaties en prijs-kwaliteit het meest in aanmerking komen bij goed geïsoleerde rijtjeswoningen:
-
-### Daikin Altherma 3
-
-Een van de meest verkochte warmtepompen in Nederland. Betrouwbaar, breed beschikbaar bij installateurs, uitstekende integratie met digitale energie-systemen.
-
-- COP tot 5,1 bij gunstige omstandigheden
-- Beschikbaar in 4-16 kW
-- Ingebouwde 230-liter boiler voor warm tapwater
-
-[Bekijk de Daikin Altherma 3](https://go.duurzaamthuislab.nl/daikin)
-
-### Bosch Compress 7000i
-
-Bekende merknaam, breed service-netwerk, goede prijs-kwaliteitverhouding.
-
-- COP tot 4,8
-- Modbus-integratie voor slimme energiesystemen
-- Geschikt voor monovalent en hybride gebruik
-
-[Bekijk de Bosch Compress warmtepomp](https://go.duurzaamthuislab.nl/bosch)
-
----
-
-## Hybride warmtepomp als tussenstap
-
-Als je twijfelt of je woning klaar is voor een volledige warmtepomp, is de **hybride warmtepomp** een interessante tussenstap. Dit combineert:
-
-- Een warmtepomp die bij milde temperaturen (boven 5-7°C) de verwarming verzorgt
-- Een bestaande cv-ketel die bijspringt bij extreme kou
-
-Voordelen:
-- Lagere investeringskosten dan volledig warmtepomp-systeem
-- Geen noodzaak voor grondige isolatie eerst
-- Gemiddeld 40-60% lager gasverbruik
-
-Zie ook ons artikel over de [beste hybride warmtepomp van 2026](/posts/beste-hybride-warmtepomp-2026/) voor een vergelijkend overzicht.
-
----
-
-## Onze conclusie
-
-Het warmtenet is niet per definitie goed of slecht. Het is een infrastructurele oplossing die goed past bij specifieke situaties — dichte stedelijke omgeving, slecht isoleerbare woningen, duurzame warmtebronnen — en minder goed bij andere.
-
-De grote zwakte van het warmtenet in 2026 is de **afhankelijkheidsrelatie**: je kiest niet voor een product, maar voor een infrastructuur die je decennialang aan één leverancier bindt. De Warmtewet biedt bescherming, maar geen volledige vrijheid.
-
-Een eigen warmtepomp geeft controle, lagere operationele kosten in een goed geïsoleerde woning, en de vrijheid om je energiesysteem aan te passen. De investering is hoger, maar over 15-20 jaar is de eigen warmtepomp doorgaans goedkoper.
-
-Als je de keuze krijgt tussen warmtenet en eigen warmtepomp — en je woning is goed geïsoleerd — is onze inschatting dat de eigen warmtepomp bijna altijd de betere keuze is. Tenzij het warmtenet aantoonbaar duurzamere bronnen gebruikt en de tarieven significant gunstiger zijn.
-
----
-
-## Hoe voer je het gesprek met de gemeente?
-
-Als de gemeente jouw wijk aanwijst voor warmtenet-transitie, word je uitgenodigd voor bewonersavonden of informatiebrieven. Dit zijn de vragen die bewoners in zo'n avond zouden moeten stellen:
-
-**Vraag 1: Wat is de primaire warmtebron?**
-Aardgas, geothermie, restwarmte of aquathermie? Dit bepaalt de duurzaamheidscore en de toekomstbestendigheid.
-
-**Vraag 2: Wat is de CO2-uitstoot per GJ in 2026, 2030 en 2035?**
-Vraag een concreet pad. Veel warmteleveranciers beloven "fossielvrij in 2040" maar hebben nog geen concreet plan.
-
-**Vraag 3: Wat is de aansluitbijdrage en de verwachte vaste kosten per jaar?**
-Leg dit vast op papier. Mondelinge toezeggingen zijn niet bindend.
-
-**Vraag 4: Is aansluiting verplicht of vrijwillig?**
-Dit heeft grote juridische implicaties voor je keuzevrijheid.
-
-**Vraag 5: Wat gebeurt er als ik later toch wil overstappen naar een warmtepomp?**
-Zijn er uitstappingskosten? Wat zijn de juridische consequenties?
-
-**Vraag 6: Wie is de warmteleverancier en hoe is de continuïteit geborgd?**
-Is het een publiek bedrijf of een private investeerder? Zijn er borgstellingen?
-
----
-
-## Warmtenetten in de praktijk: drie Nederlandse gemeenten vergeleken
-
-### Utrecht (Eneco/Vattenfall)
-
-Utrecht heeft een van de grootste warmtenetten van Nederland, bestaand uit meerdere deelnetten. De primaire bron varieert per wijk: aardgas, geothermie (Nieuwegein-pilot), biomassa en restwarmte.
-
-**Stand van zaken 2026:** Vattenfall Warmte heeft het Utrecht-net overgenomen na reorganisatie. Tarieven liggen op NMDA-maximum. Bewoners in wijken met verplichte aansluiting hebben beperkte keuzevrijheid. Geothermie-uitbreiding loopt vertraging op vanwege boorgerelateerde veiligheidsdiscussies na het Groningse gaswinningsdebat.
-
-### Almere (Vattenfall Warmte)
-
-Almere heeft een groot stadsverwarmingsnet dat veel nieuwbouwwijken bedient. Hoge temperatuurnet (80°C), historisch op aardgas, transitie richting restwarmte en aquathermie gepland.
-
-**Stand van zaken 2026:** Bewoners in Almere-Haven en Almere-Stad met warmtenet zijn volledig afhankelijk van Vattenfall. De tarieven zijn NMDA-conform maar het vastrecht is hoog (€160-€180/maand). Alternatief warmtepomp is voor veel woningen door bestaande aansluiting juridisch gecompliceerd.
-
-### Den Haag (Aardgasvrij-pilot Duindorp)
-
-Een kleinere, interessante casus. Den Haag experimenteert met wijk-warmtepompen op aquathermie (Noordzee-water) voor de Duindorp-wijk. Laagtemperatuurnet, goed geïsoleerde woningen vereist.
-
-**Stand van zaken 2026:** Pilot loopt. Technisch geslaagd, maar hoge investering per woning. Financieringsmodel nog niet volledig uitgewerkt. Interessant als toekomstmodel.
-
----
-
-## Warmtepompen en het elektriciteitsnet: een aandachtspunt
-
-Als massaal mensen overschakelen op warmtepompen, stelt dit eisen aan het elektriciteitsnet. Dit is een argument dat soms voor warmtenetten wordt gebruikt: ze verdelen de vraag anders over het net.
-
-**De werkelijkheid:** De Nederlandse netbeheerders investeren fors in netverzwaring. De piekbelasting van warmtepompen kan gespreid worden met slimme sturing (nachttarieven, vraagrespons). Dit is een reëel planningsvraagstuk, maar geen argument om individueel af te zien van een warmtepomp.
-
-Een warmtepomp met een slim energiemanagementsysteem — gecombineerd met zonnepanelen en een thuisbatterij — kan zelfs netondersteunend zijn door flexibel te laden op overschotmomenten.
-
----
-<a href="https://go.duurzaamthuislab.nl/daikin" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Daikin Altherma 3 warmtepomp</a>
-
-<a href="https://go.duurzaamthuislab.nl/bosch" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Bosch Compress warmtepomp</a>
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
+Is je woning goed geïsoleerd en heb je ruimte voor een buitenunit, dan valt de afweging in de meeste gevallen uit in het voordeel van de eigen warmtepomp. Kan dat niet, of gebruikt het net aantoonbaar een duurzame bron tegen een tarief onder het maximum, dan is het warmtenet een verdedigbare en soms betere keuze.
 
 ## Gerelateerde artikelen
 
-- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [ATAG warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/)
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
-- [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)
-- [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
-- [ISDE Subsidie 2026: Complete Gids voor Warmtepompen &](/posts/isde-subsidie-warmtepompen-2026/)
+- [Daikin Altherma 3 review 2026](/posts/daikin-altherma-3-review-2026/)
+- [HR-ketel vervangen in 2026](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
+- [ISDE-subsidie 2026: complete gids](/posts/isde-subsidie-warmtepompen-2026/)
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+*Laatst bijgewerkt: 21 augustus 2026. Warmtetarieven gecontroleerd bij de ACM (tarievenbesluit warmteleveranciers 2026), de status van de Wet collectieve warmte bij de Eerste Kamer en de ACM, en de ISDE-voorwaarden op rvo.nl — alle op 21 augustus 2026.*
+
+---
+
+**Externe bron:** [ACM — tarieven warmte en koude](https://www.acm.nl/nl/energie/warmte-en-koude/warmtetarieven/tarieven-warmte-en-koude) — de officiële maximumtarieven per jaar.

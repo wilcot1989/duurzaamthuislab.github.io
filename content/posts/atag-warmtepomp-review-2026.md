@@ -1,13 +1,13 @@
 ---
-title: 'ATAG warmtepomp review 2026: eerlijke test van een'
+title: 'ATAG warmtepomp review 2026: de Energion-serie beoordeeld'
 date: 2026-06-28 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: ATAG maakt warmtepompen in Nederland — maar zijn ze ook goed? Onze review van de ENERGION hybride warmtepomp op basis van specificaties, ISDE-lijst en gebruikersreviews.
+lastmod: 2026-08-21 08:00:00+02:00
+description: 'ATAG maakt warmtepompen in Lichtenvoorde. Onze review van de Energion-serie op basis van de gepubliceerde documentatie: wat het merk levert, wat de hybride opstelling oplevert en waar offertes misgaan.'
 categories:
 - warmtepompen
 tags:
 - ATAG
-- ENERGION
+- Energion
 - warmtepomp
 - hybride warmtepomp
 - lucht-water warmtepomp
@@ -15,7 +15,7 @@ tags:
 - review
 keywords:
 - ATAG warmtepomp review
-- ATAG ENERGION review
+- ATAG Energion review
 - ATAG warmtepomp ervaringen
 - ATAG hybride warmtepomp
 - ATAG warmtepomp prijs
@@ -26,355 +26,299 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-- q: Wat kost een ATAG ENERGION warmtepomp in 2026?
-  a: 'Een ATAG ENERGION hybride warmtepomp kost circa €6.500 tot €9.500 inclusief 0% btw. De all-electric variant ligt aan de bovenkant. Inclusief ISDE-subsidie (€2.500 tot €4.000 afhankelijk van het model en vermogen) kom je netto op €4.000 tot €6.500. Montagekosten variëren per installateur: reken op €800 tot €1.500 extra.'
-- q: Wat is de COP van een ATAG warmtepomp?
-  a: 'ATAG ENERGION heeft een seizoensprestatiefactor (SCOP) van circa 4,0 tot 4,7 afhankelijk van het model en de omstandigheden. Dat betekent: per kilowattuur elektriciteit levert de pomp 4 tot 4,7 kWh warmte. Op kouder water (lage aanvoertemperatuur) presteert elk model beter.'
-- q: Kan ik ISDE-subsidie krijgen voor een ATAG warmtepomp?
-  a: Ja. ATAG ENERGION modellen staan op de ISDE-lijst van RVO. De subsidie is €2.500 tot €4.000 per warmtepomp, afhankelijk van het type en het nominale vermogen. Je moet de aanvraag doen vóór installatie — de installateur regelt dit doorgaans.
-- q: Werkt een ATAG warmtepomp in een oudere woning?
-  a: De hybride variant (ENERGION hybride) werkt uitstekend in slecht geïsoleerde woningen. De cv-ketel springt bij als de warmtepomp het alleen niet redt. Voor een goed geïsoleerde woning (label A of beter) is de all-electric variant zinvoller. ATAG raadt zelf aan eerst te kijken naar isolatie als je woning label D of lager heeft.
-- q: Hoeveel bespaar ik per jaar met een ATAG warmtepomp?
-  a: 'Bij een gemiddeld rijtjeshuis met 2.000 m³ gasverbruik en de hybride variant: circa €600 tot €900 per jaar, afhankelijk van gas- en elektriciteitsprijs. Bij all-electric (mits goed geïsoleerd): tot €1.200 per jaar. Terugverdientijd: 6 tot 11 jaar inclusief subsidie.'
-- q: Is de service van ATAG goed?
-  a: ATAG heeft een uitgebreid netwerk van erkende installateurs in Nederland en een eigen technische dienst. Garantie is 5 jaar op de warmtepomp zelf, 2 jaar op onderdelen. Storingen worden doorgaans binnen 24-48 uur opgepakt. Dat is een sterk punt ten opzichte van internationale merken.
-- q: Wat is het verschil tussen ATAG ENERGION hybride en all-electric?
-  a: De hybride variant combineert de warmtepomp met een bestaande cv-ketel. Geschikt voor matig geïsoleerde woningen. De all-electric variant vervangt de cv-ketel volledig. Goedkoper in gebruik, maar vereist goede isolatie (label B of beter) en lage aanvoertemperatuur (max. 55°C).
-- q: Maakt ATAG de warmtepompen zelf?
-  a: ATAG is onderdeel van de Italiaanse groep IRSAP (sinds 2019), maar de engineering en eindmontage van ENERGION-modellen vindt grotendeels in Nederland plaats (Lichtenvoorde, Gelderland). De compressor komt van Mitsubishi Electric — een gangbare keuze in de industrie. ATAG's toegevoegde waarde zit in de NL-specifieke regelapparatuur en integratie met hun cv-ketels.
-products:
-- name: ATAG ENERGION hybride warmtepomp
-  url: https://go.duurzaamthuislab.nl/atag
-  price: '7500'
-- name: ATAG ENERGION all-electric warmtepomp
-  url: https://go.duurzaamthuislab.nl/atag
-  price: '9000'
+- q: 'Wat kost een ATAG warmtepomp in 2026?'
+  a: 'ATAG verkoopt niet rechtstreeks aan consumenten en publiceert geen consumentenprijs; het merk werkt met installateurs, die zelf hun montagemarge bepalen. Wij nemen daarom geen prijs op die niet bij de fabrikant te verifiëren is. Wat je wel moet weten: op een warmtepomp geldt 21% btw — het 0%-tarief bestaat alleen voor zonnepanelen. Vraag minimaal twee offertes met een uitgesplitste componentlijst.'
+- q: 'Wat is de SCOP van een ATAG warmtepomp?'
+  a: 'ATAG geeft per model een seizoensprestatiefactor op in de datasheets en prijslijsten op de eigen site. Die waarden gelden bij een vastgesteld testpunt, meestal A7/W35 — dus bij +7°C buiten en 35°C aanvoertemperatuur. In een woning met radiatoren op hogere aanvoer valt de werkelijke jaarprestatie lager uit. Vergelijk SCOP-waarden tussen merken alleen bij hetzelfde testpunt.'
+- q: 'Kan ik ISDE-subsidie krijgen voor een ATAG warmtepomp?'
+  a: 'Ja, mits het exacte typenummer op de ISDE-apparatenlijst van RVO staat. Let op de volgorde: je laat de warmtepomp eerst installeren en vraagt de subsidie daarna aan, binnen 24 maanden na de installatiedatum. Het bedrag hangt af van het apparaat; gebruik de ISDE-rekentool van RVO met het typenummer uit je offerte.'
+- q: 'Werkt een ATAG warmtepomp in een oudere woning?'
+  a: 'De hybride varianten uit de Energion-serie zijn juist bedoeld voor woningen die nog niet all-electric kunnen: de warmtepomp neemt het grootste deel van de stookdagen over en de cv-ketel springt bij tijdens de koudepiek. Een all-electric opstelling vraagt een lage aanvoertemperatuur en dus een goed geïsoleerde woning of aangepaste radiatoren.'
+- q: 'Hoeveel bespaar ik per jaar met een ATAG warmtepomp?'
+  a: 'Dat hangt volledig af van je huidige gasverbruik, je tarieven en het deel van de warmtevraag dat de warmtepomp overneemt. In dit artikel staan drie modelberekeningen met expliciete aannames die je met je eigen jaarafrekening kunt narekenen. Een merkgebonden besparingsbedrag bestaat niet — wie dat wel noemt, rekent met andermans huis.'
+- q: 'Is de service van ATAG goed?'
+  a: 'ATAG werkt met een landelijk netwerk van erkende installateurs en heeft een eigen technische organisatie in Nederland. Dat is voor veel kopers het hoofdargument voor dit merk. Reactietijden en garantietermijnen leggen wij niet in cijfers vast: die staan in de garantievoorwaarden bij jouw specifieke model en contract, en daar hoor je ze te lezen.'
+- q: 'Wat is het verschil tussen een hybride en een all-electric opstelling?'
+  a: 'Een hybride opstelling combineert de warmtepomp met een bestaande cv-ketel en is geschikt voor matig geïsoleerde woningen. Een all-electric opstelling vervangt de ketel volledig, is goedkoper in gebruik maar vraagt goede isolatie en een lage aanvoertemperatuur. Het bivalentpunt — de buitentemperatuur waarbij de ketel bijspringt — bepaalt bij een hybride het grootste deel van je besparing.'
+- q: 'Maakt ATAG de warmtepompen zelf?'
+  a: 'ATAG Verwarming Nederland B.V. is gevestigd in Lichtenvoorde (Gelderland) en is onderdeel van Ariston Group. Welke componenten van welke toeleverancier komen, publiceert ATAG niet per model; wij nemen daar dus geen leverancier bij naam over. Let op dat ATAG Verwarming een ander bedrijf is dan het gelijknamige merk voor keukenapparatuur.'
 schema_type: Review
 ---
-"Ik heb een offerte voor een ATAG warmtepomp van dertienduizend euro. Is dat normaal?" Het is de vraag die bij dit merk het vaakst gesteld wordt, en het antwoord hangt volledig af van wat er in de offerte zit. Bij bedragen rond de dertienduizend euro blijkt vaak dat vloerverwarming, een meerjarig onderhoudscontract en een nieuwe groepenkast zijn meegenomen. Voor de warmtepomp zelf blijft dan een bedrag rond de €8.000 over — en dat is voor deze klasse realistisch.
+*Disclosure: DuurzaamThuisLab heeft geen affiliate- of commissierelatie met ATAG (stand augustus 2026). Dit artikel bevat geen affiliate-links en geen betaalde vermeldingen.*
 
-Maar de echte vraag zit daaronder: is ATAG goed? Voor veel kopers weegt mee dat het een Nederlands merk is met Nederlandstalige service — geen fabrikant waarvan je bij een storing niet eens een telefoonnummer in je eigen taal vindt.
+"Ik heb een offerte voor een ATAG warmtepomp van dertienduizend euro. Is dat normaal?" Het is de vraag die bij dit merk het vaakst terugkomt, en het antwoord hangt volledig af van wat er in de offerte zit. Bij bedragen rond de dertienduizend euro blijkt vaak dat vloerverwarming, een meerjarig onderhoudscontract en een nieuwe groepenkast zijn meegenomen — posten die niets met het merk te maken hebben.
 
-Hieronder zetten wij de ENERGION-serie op een rij: wat de specificaties zeggen, wat er op de ISDE-apparatenlijst staat, hoe het merk zich verhoudt tot Daikin en Intergas, en welke installatiefouten in gebruikersreviews en installateursvoorlichting steeds terugkomen.
+De echte vraag zit daaronder: waar staat ATAG als warmtepompmerk? Voor veel kopers weegt mee dat het een Nederlandse fabrikant is met Nederlandstalige service, in plaats van een importmerk waarvan je bij een storing geen aanspreekpunt in je eigen taal vindt.
 
-*Werkwijze: wij beoordelen op fabrieksspecificaties, technische documentatie, de ISDE-apparatenlijst van RVO en geverifieerde gebruikersreviews. Waar wij een cijfer niet uit een bron kunnen halen, noemen wij het niet.*
+Hieronder zetten wij de Energion-serie op een rij: wat ATAG feitelijk levert, hoe een hybride opstelling rekenkundig uitpakt, en welke installatiefouten in de documentatie staan en in de praktijk alsnog gemaakt worden.
 
----
-
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** ATAG levert een degelijke, in Nederland ondersteunde hybride warmtepomp met een Mitsubishi-compressor. Niet de hoogste SCOP en niet de laagste prijs, maar sterk op service en op integratie met een bestaande ATAG-ketel.
->
-> Een ATAG ENERGION hybride warmtepomp kost circa €6.500 tot €9.500 inclusief 0% btw. De all-electric variant ligt aan de bovenkant. Inclusief ISDE-subsidie (€2.500 tot €4.000 afhankelijk van het model en vermogen) kom je netto op €4.000 tot €6.500. Montagekosten variëren per installateur: reken op €800 tot €1.500 extra.
-
-## Wie is ATAG eigenlijk?
-
-ATAG is opgericht in 1936 in Ulft, Gelderland — als fabrikant van fornuizen. Cv-ketels kwamen er later bij. Tegenwoordig zijn ze onderdeel van de Italiaanse IRSAP-groep, maar de naam, het servicenetwerk en de engineering in Nederland zijn behouden gebleven.
-
-De warmtepomp-lijn heet **ENERGION** en bestaat uit twee hoofdvarianten:
-
-- **ENERGION hybride**: combineert een lucht-water warmtepomp met een bestaande ATAG-ketel (of andere cv-ketels via adapter). Geschikt voor woningen met label C, D of slechter.
-- **ENERGION all-electric**: vervangt de cv-ketel volledig. Hogere investering, lager verbruik, vereist goede isolatie.
-
-Beide varianten zijn lucht-water warmtepompen: de buitenunit haalt warmte uit buitenlucht, de binnenunit stuurt warm water naar radiatoren of vloerverwarming.
-
-De compressor komt van **Mitsubishi Electric** — hetzelfde component dat je in veel Japanse en Europese merken terugvindt. Dat is goed nieuws voor betrouwbaarheid; het is een beproefde technologie. ATAG's eigen bijdrage is de regelapparatuur, de integratie met hun cv-ketel en het service-netwerk.
+*Werkwijze: wij beoordelen op de gepubliceerde documentatie van ATAG (productpagina's, installatiehandleidingen, prijslijsten en specificatiebladen, geraadpleegd 21 augustus 2026) en op de voorwaarden van RVO. Wij hebben deze warmtepompen niet zelf geïnstalleerd of gemeten. Waar wij een cijfer niet uit een bron kunnen halen, noemen wij het niet.*
 
 ---
 
-## Technische specificaties
+> **Kort antwoord:** ATAG is een Nederlandse fabrikant met een eigen servicenetwerk en een hybride lijn die is ontworpen om met de bestaande cv-ketel samen te werken. Dat servicenetwerk is het sterkste koopargument. Prijzen publiceert ATAG niet, en het 0%-btw-verhaal dat in veel offertes rondzingt klopt niet: op een warmtepomp geldt 21%.
 
-| Kenmerk | ENERGION hybride | ENERGION all-electric |
-|---|---|---|
-| Type | Lucht-water, hybride | Lucht-water, mono |
-| Vermogen | 6 kW / 8 kW | 8 kW / 12 kW / 16 kW |
-| Max. aanvoertemperatuur | 65°C | 60°C |
-| SCOP (A7/W35) | circa 4,5 | circa 4,7 |
-| Werkbereik buitentemperatuur | -20°C tot +35°C | -20°C tot +35°C |
-| Geluidsniveau buitenunit | 47-52 dB(A) | 48-54 dB(A) |
-| Koudemiddel | R32 | R32 |
-| Garantie warmtepomp | 5 jaar | 5 jaar |
-| ISDE-subsidie mogelijk | Ja | Ja |
-| Btw-tarief | 0% | 0% |
-| Adviesprijs (incl. btw, excl. montage) | €6.500 – €8.000 | €8.000 – €9.500 |
+## Wie is ATAG?
 
-**SCOP A7/W35** betekent: bij een buitentemperatuur van +7°C en een aanvoertemperatuur van 35°C. Lagere aanvoertemperatuur = betere SCOP. Wie vloerverwarming heeft (35°C aanvoer), haalt meer rendement dan wie met hoge-temperatuur radiatoren rijdt (70°C aanvoer).
+ATAG Verwarming Nederland B.V. zit in Lichtenvoorde, in de Gelderse Achterhoek, en is onderdeel van Ariston Group. Het bedrijf maakt al decennia cv-ketels voor de Nederlandse markt en heeft daar zijn installateursnetwerk op gebouwd.
+
+Eén verwarring vooraf, omdat die op vergelijkingssites structureel misgaat: **ATAG Verwarming is niet hetzelfde bedrijf als het merk ATAG dat fornuizen en keukenapparatuur maakt.** Dezelfde naam, andere onderneming, andere eigenaar, andere vestigingsplaats. Wie een verhaal leest over "ATAG, opgericht in Ulft als fornuizenfabrikant", leest over het andere bedrijf.
+
+De warmtepompen lopen onder de naam **Energion**. Op de eigen site en in de installatiedocumentatie komen onder meer voor:
+
+- **Energion M Hybrid** en **Energion M Hybrid Light** — hybride monoblock-opstellingen die samenwerken met een cv-ketel
+- **Energion M** — monoblock lucht-water voor all-electric toepassing
+- **Energion Nuos Plus** — een warmtepompboiler voor warm tapwater
+- **Interion** — de nieuwere lijn op koudemiddel R290
+
+Welke modellen en vermogens op dit moment leverbaar zijn, verschilt per periode en per distributeur. Vraag altijd het volledige typenummer op en leg dat naast de datasheet en de ISDE-apparatenlijst — dat is de enige manier om te weten wat je koopt.
+
+---
+
+## Wat je zelf uit de datasheet moet halen
+
+Wij nemen geen specificatietabel met ronde getallen over die niet per typenummer klopt. Wat wél werkt: dit rijtje langslopen met de datasheet van het exacte model uit je offerte ernaast.
+
+| Waarde in de datasheet | Waarom die telt |
+|---|---|
+| Nominaal warmtevermogen | Moet passen bij de warmtebehoefte van jouw woning, niet bij het gemiddelde |
+| SCOP en het testpunt (A7/W35 of anders) | Alleen vergelijkbaar tussen merken bij hetzelfde testpunt |
+| Maximale aanvoertemperatuur | Bepaalt of je bestaande radiatoren kunnen blijven zitten |
+| Werkbereik buitentemperatuur | Relevant voor het bivalentpunt bij een hybride |
+| Geluidsvermogen én geluidsdruk met afstand | Voor de toets op de erfgrens; twee verschillende grootheden |
+| Koudemiddel en vulhoeveelheid | Bepaalt de certificeringseis voor de monteur |
+| Garantietermijn per component | Compressor en toestel hebben vaak verschillende termijnen |
+| Typenummer op de ISDE-apparatenlijst | Zonder vermelding geen subsidie |
+
+Een offerte waarin het typenummer ontbreekt, is geen offerte maar een indicatie.
 
 ---
 
 ## Voor wie is ATAG de juiste keuze?
 
-**Ja, als:**
-- Je al een ATAG cv-ketel hebt en de hybride variant overweegt — de integratie is dan naadloos, de installateur hoeft geen adapter te monteren
-- Je waarde hecht aan Nederlandstalige service en een lokaal netwerk
-- Je woning label C of D heeft en niet direct grote isolatiestappen wilt zetten
-- Je liever een bewezen merk neemt dan een jong startup
+**Wel, als:**
 
-**Nee, als:**
-- Je op zoek bent naar de absolute laagste prijs — Intergas Xtreme of Itho Daalderop zijn goedkoper
-- Je een all-electric oplossing wilt zonder cv-ketel én een slechte isolatiewaarde hebt — dan moet je eerst isoleren
-- Je fulltime op afstand wilt beheren via een geavanceerde app — ATAG's app is functioneel maar niet het meest uitgebreid op de markt
+- Je al een ATAG cv-ketel hebt en een hybride opstelling overweegt — dan koop je een systeem dat op die combinatie is ontworpen
+- Je waarde hecht aan Nederlandstalige service en een fabrikant met een eigen organisatie in Nederland
+- Je woning label C of D heeft en je niet eerst grote isolatiestappen wilt zetten
+- Je liever een merk kiest waar je installateur al mee werkt dan het merk met het hoogste getal op papier
 
----
+**Niet, als:**
 
-## Rekenvoorbeelden: drie woningtypen doorgerekend
-
-Onderstaande drie scenario's zijn **modelberekeningen**, geen gemeten installaties. Alle bedragen volgen uit twee aannames: gas op €1,05/m³ (inclusief vastrecht en transport) en elektriciteit op €0,23/kWh, prijspeil begin 2026. De aangenomen gasbesparing per woningtype komt uit de vuistregel dat een hybride warmtepomp bij correct ingesteld bivalentpunt 55 tot 65 procent van de warmtevraag overneemt. Vul je eigen gasverbruik en tarieven in en de uitkomsten verschuiven.
-
-**Scenario 1 – Rijtjeshuis 1970, label C, ENERGION hybride 6 kW**
-Uitgangspunt: gasverbruik 2.100 m³/jaar, hybride opstelling met aanvoer van maximaal 55°C via bestaande radiatoren.
-
-- Gasverbruik jaar 1: 780 m³ (besparing: 1.320 m³ × €1,05 = **€1.386**)
-- Extra elektriciteitsverbruik warmtepomp: circa 1.400 kWh × €0,23 = **€322**
-- Netto besparing jaar 1: **€1.064**
-- Investeringskosten: €8.200 (incl. montage) – €3.200 (ISDE) = **€5.000 netto**
-- Terugverdientijd: circa **4,7 jaar**
-
-Dit is het gunstigste scenario: een hoog gasverbruik dat sterk terugloopt, waardoor de investering relatief snel rond komt.
-
-**Scenario 2 – Tussenwoning 1985, label D, ENERGION hybride 6 kW**
-Uitgangspunt: gasverbruik 1.650 m³/jaar.
-
-- Gasverbruik jaar 1: 680 m³ (besparing: 970 m³ × €1,05 = **€1.018**)
-- Extra elektriciteit: 1.100 kWh × €0,23 = **€253**
-- Netto besparing: **€765**
-- Investeringskosten: €7.600 – €2.900 (ISDE) = **€4.700 netto**
-- Terugverdientijd: circa **6,1 jaar**
-
-**Scenario 3 – Vrijstaand huis 2005, label B, ENERGION all-electric 12 kW**
-Uitgangspunt: gasverbruik 3.200 m³/jaar, vloerverwarming aanwezig.
-
-- Na installatie all-electric (vloerverwarming aanwezig, 35°C aanvoer): volledig van gas af
-- Elektriciteitsverbruik warmtepomp: circa 4.800 kWh × €0,23 = **€1.104**
-- Oude gaskosten (3.200 m³ × €1,05): **€3.360**
-- Netto besparing: **€2.256/jaar**
-- Investeringskosten: €12.500 (incl. sanering cv, montage) – €3.800 (ISDE) = **€8.700 netto**
-- Terugverdientijd: circa **3,9 jaar**
+- Je op zoek bent naar de laagste aanschafprijs — er zijn goedkopere merken in dezelfde klasse
+- Je all-electric wilt in een slecht geïsoleerde woning; dan is isoleren de eerste stap, ongeacht het merk
+- Je een app met diepgaande smart-home-integratie of directe sturing op je P1-meter wilt; daar zijn andere merken verder in
 
 ---
 
-## Besparingsberekening over 10 jaar
+## Drie doorgerekende woningen
 
-Wij nemen scenario 2 als het meest representatieve geval voor een gemiddeld Nederlands rijtjeshuis (label D, hybride):
+Onderstaande scenario's zijn **modelberekeningen**, geen gemeten installaties. Alle bedragen volgen uit twee aannames: gas op €1,05/m³ inclusief vastrecht en transport, en elektriciteit op €0,23/kWh, prijspeil begin 2026. De aangenomen gasbesparing komt uit de vuistregel dat een hybride warmtepomp bij een correct ingesteld bivalentpunt ruwweg 55 tot 65 procent van de warmtevraag overneemt. De investeringsbedragen zijn richtprijzen uit de markt vóór subsidie, inclusief 21% btw. Vul je eigen gasverbruik en tarieven in en de uitkomsten verschuiven.
 
-| Jaar | Cumulatieve besparing | Cumulatieve kosten |
+**Scenario 1 — rijtjeshuis uit 1970, label C, hybride opstelling**
+Uitgangspunt: 2.100 m³ gas per jaar, bestaande radiatoren op maximaal 55°C aanvoer.
+
+- Resterend gasverbruik: circa 780 m³ — besparing 1.320 m³ × €1,05 = **€1.386**
+- Extra stroomverbruik warmtepomp: circa 1.400 kWh × €0,23 = **€322**
+- **Netto besparing: circa €1.064 per jaar**
+- Investering vóór subsidie: circa €8.200 inclusief montage
+- Terugverdientijd vóór subsidie: circa **7,7 jaar** — met ISDE korter
+
+**Scenario 2 — tussenwoning uit 1985, label D, hybride opstelling**
+Uitgangspunt: 1.650 m³ gas per jaar.
+
+- Resterend gasverbruik: circa 680 m³ — besparing 970 m³ × €1,05 = **€1.018**
+- Extra stroomverbruik: circa 1.100 kWh × €0,23 = **€253**
+- **Netto besparing: circa €765 per jaar**
+- Investering vóór subsidie: circa €7.600
+- Terugverdientijd vóór subsidie: circa **9,9 jaar** — met ISDE korter
+
+**Scenario 3 — vrijstaand huis uit 2005, label B, all-electric**
+Uitgangspunt: 3.200 m³ gas per jaar, vloerverwarming aanwezig, aanvoer 35°C.
+
+- Gasverbruik na installatie: 0 m³ — vervallen gaskosten 3.200 m³ × €1,05 = **€3.360**
+- Stroomverbruik warmtepomp: circa 4.800 kWh × €0,23 = **€1.104**
+- **Netto besparing: circa €2.256 per jaar**
+- Investering vóór subsidie: circa €12.500 inclusief sanering cv en montage
+- Terugverdientijd vóór subsidie: circa **5,5 jaar** — met ISDE korter
+
+De drie uitkomsten laten dezelfde regel zien: de besparing volgt het gasverbruik dat je kwijtraakt, niet het merk op de unit.
+
+---
+
+## Scenario 2 uitgezet over tien jaar
+
+Scenario 2 is het meest representatief voor een gemiddeld Nederlands rijtjeshuis. Uitgezet over tien jaar, met dezelfde aannames:
+
+| Jaar | Cumulatieve besparing | Bijzonderheid |
 |---|---|---|
-| 0 | €0 | €4.700 (netto na subsidie) |
+| 0 | €0 | investering €7.600 vóór subsidie |
 | 1 | €765 | – |
-| 2 | €1.530 | – |
 | 3 | €2.295 | – |
-| 4 | €3.060 | – |
-| 5 | €3.825 | Onderhoud: +€200 |
-| 6 | €4.590 | Break-even |
+| 5 | €3.825 | grote onderhoudsbeurt ingecalculeerd |
 | 7 | €5.355 | – |
-| 8 | €6.120 | Onderhoud: +€200 |
-| 9 | €6.885 | – |
 | 10 | €7.650 | – |
 
-**Na 10 jaar netto voordeel: circa €2.750** (bij stabiele energieprijzen). Als gas duurder wordt — wat historisch de trend is — loopt dit op.
+Zonder subsidie ligt het break-evenpunt bij deze aannames net na jaar tien; met ISDE schuift dat naar voren. Wordt gas duurder — historisch de trend — dan verkort dat de termijn verder. Dalen de gasprijzen, dan verlengt hij.
 
-*Let op: deze tabel rekent met de prijzen van begin 2026 — gas op €1,05/m³ inclusief vastrecht en transport, elektriciteit op €0,23/kWh. Verander die aannames en het plaatje verschuift.*
+*Aannames: gas €1,05/m³, elektriciteit €0,23/kWh, prijspeil begin 2026, exclusief subsidie.*
 
 ---
 
-## Vergelijking met twee concurrenten
+## Hoe ATAG zich verhoudt tot Daikin en Intergas
 
-| Kenmerk | ATAG ENERGION hybride | Daikin Altherma 3 H HT | Intergas Xtreme hybride |
-|---|---|---|---|
-| Herkomst | NL (compressor: Mitsubishi) | Japan | NL |
-| Max. aanvoertemperatuur | 65°C | 70°C | 60°C |
-| SCOP (A7/W35) | ~4,5 | ~4,8 | ~4,3 |
-| Prijs excl. montage | €6.500–€8.000 | €7.500–€9.000 | €5.500–€7.000 |
-| ISDE-subsidie | Ja | Ja | Ja |
-| App-kwaliteit | Functioneel | Goed | Basis |
-| Service NL | Eigen netwerk | Via dealers | Eigen netwerk |
-| Garantie | 5 jaar | 5 jaar | 5 jaar |
-| Integratie eigen ketel | Naadloos (ATAG-ketel) | Via adapter | Naadloos (Intergas-ketel) |
-| Sterk punt | NL-service, betrouwbaar | Hoge aanvoertemp, SCOP | Prijs |
-| Zwak punt | App, minder ervaring all-electric | Prijs, internationale service | Lagere SCOP |
+Wij zetten hier geen tabel met SCOP-getallen per merk neer, om één reden: die waarden zijn alleen vergelijkbaar per exact model en per testpunt, en op merkniveau zeggen ze niets. Wat wél op merkniveau te zeggen valt:
 
-**Onze conclusie uit de vergelijking:**
+- **Daikin** is het grootste merk in dit segment en biedt modellen met een hogere maximale aanvoertemperatuur, wat telt bij oudere radiatoren die je niet wilt vervangen. Service loopt via een dealernetwerk in plaats van via de fabrikant.
+- **Intergas** is net als ATAG een Nederlandse ketelfabrikant met een eigen hybride lijn en een eigen installateursnetwerk. Vergelijkbare logica, ander merk aan de ketelkant.
+- **ATAG** onderscheidt zich op de combinatie van een eigen Nederlandse service-organisatie en een hybride lijn die op de eigen ketels is afgestemd.
 
-- **Daikin Altherma** is technisch sterker (hogere SCOP, hogere aanvoertemperatuur — relevant voor slecht geïsoleerde huizen met oudere radiatoren). Maar je betaalt er meer voor en de service loopt via dealernetwerken die minder direct zijn dan ATAG's eigen dienst.
-- **Intergas** is goedkoper. Als prijs de doorslag geeft en je al een Intergas-ketel hebt, is dat logisch. De SCOP is iets lager, maar in de praktijk merk je dat verschil nauwelijks.
-- **ATAG** zit er tussenin. Niet de goedkoopste, niet de hoogste SCOP, maar het sterkste op Nederlandse service en integratie met de eigen cv-serie.
+De praktische conclusie: als je al een ketel van een van deze drie merken hebt en die wilt houden, is de merkkeuze grotendeels al gemaakt. Heb je geen voorkeurketel, dan is de belangrijkste vergelijking niet die tussen merken maar die tussen offertes — de spreiding in montagekosten is groter dan de spreiding tussen fabrikanten.
 
 ---
 
 ## Plus- en minpunten
 
 **Pluspunten:**
-- Uitgebreid service-netwerk in heel Nederland, eigen technische dienst
-- Naadloze integratie met ATAG cv-ketels (hybride variant)
-- R32 koudemiddel: lagere GWP dan R410A
-- 0% btw en ISDE-subsidie van toepassing
-- Bewezen compressor (Mitsubishi Electric)
-- Goed geluidsgedrag: 47-52 dB(A) — vergelijkbaar met een gewone airco-buitenunit
+
+- Landelijk installateursnetwerk met een eigen technische organisatie in Nederland
+- Hybride lijn die is ontworpen op samenwerking met de eigen cv-ketels
+- Nederlandstalige documentatie, handleidingen en ondersteuning
+- Modellen op R290 in de nieuwere Interion-lijn, met een aanzienlijk lagere GWP dan R32
 
 **Minpunten:**
-- App is functioneel maar niet de meest intuïtieve op de markt
-- Minder trackrecord in all-electric vergeleken met merken die al langer puur elektrisch bouwden
-- Prijsniveau is hoog vergeleken met Intergas
-- Installateurs rekenen soms premium voor het ATAG-label — vergelijk offertes
+
+- Geen gepubliceerde consumentenprijzen, waardoor vergelijken alleen via offertes kan
+- Minder trackrecord in all-electric dan merken die daar langer op bouwen
+- De app is functioneel maar mist de smart-home-diepgang van enkele concurrenten
+- Sommige installateurs rekenen een merkopslag — vergelijk daarom altijd meerdere offertes
 
 ---
 
-## Praktische installatie-info
+## Praktische installatie-informatie
 
-### ISDE-subsidie aanvragen
+### ISDE aanvragen: let op de volgorde
 
-De **Investeringssubsidie Duurzame Energie (ISDE)** van RVO dekt een deel van de aanschafkosten van een warmtepomp. Voor de ATAG ENERGION:
+De Investeringssubsidie Duurzame Energie en Energiebesparing (ISDE) van RVO dekt een deel van de aanschafkosten. Drie punten die in offertes structureel verkeerd staan:
 
-- Hybride 6 kW: circa €2.500
-- Hybride 8 kW: circa €3.000
-- All-electric 8-12 kW: circa €3.500–€4.000
+- **Je vraagt de subsidie aan ná installatie**, binnen 24 maanden na de installatiedatum. Niet ervoor. Wie wacht op een toekenning voordat de monteur komt, wacht op iets wat niet bestaat.
+- **Het bedrag hangt af van het exacte apparaat** en staat per typenummer op de ISDE-apparatenlijst. Wij noemen geen bedragen per merk of model; gebruik de rekentool van RVO met het typenummer uit je offerte.
+- **De woning moet aan de bouwjaareis voldoen**: gebouwd vóór 1 januari 2019, of omgevingsvergunning aangevraagd vóór 1 juli 2018.
 
-De aanvraag moet **vóór** start van de installatie worden ingediend. Dit doet de installateur in de meeste gevallen namens jou. Controleer altijd of het exacte model op de [RVO ISDE-lijst](https://www.rvo.nl/subsidies-financiering/isde) staat.
+Leg bij de opdrachtverlening schriftelijk vast wie de ISDE aanvraagt en vóór welke datum. Blijft die aanvraag na oplevering liggen en verstrijkt de termijn, dan is de subsidie definitief weg.
 
-### Plaatsingseisen
+*Bron: RVO, ISDE voor warmtepompen (geraadpleegd 21 augustus 2026).*
 
-- **Buitenunit**: minimaal 50 cm van erfgrens (gemeentelijke regels kunnen afwijken), niet direct onder een slaapkamerraam van jezelf of buren
-- **Binnenunit**: vervangt of staat naast de bestaande cv-ketel, in de meterkast of technische ruimte
-- **Stroom**: de warmtepomp heeft een eigen groep nodig (16A), geen 3-fasen vereist voor de meeste hybride modellen
+### Btw: 21 procent, geen 0 procent
 
-### Vergelijking van aanvoertemperaturen
+Het 0%-btw-tarief geldt uitsluitend voor zonnepanelen en de daarvoor direct noodzakelijke onderdelen. Op een warmtepomp — hybride of all-electric — betaal je 21% btw, net als op een boiler, isolatie of een thermostaat. Offertes waarin een warmtepomp tegen 0% btw staat, kloppen niet. Vraag daar hard op door, want het verschil is aanzienlijk.
 
-Bij de ATAG ENERGION hybride is de maximale aanvoertemperatuur 65°C. Dat is hoger dan de meeste concurrenten (60°C). Dit maakt de ATAG geschikt voor woningen met oudere, niet-gewijzigde radiatoren die hoge watertemperaturen nodig hebben. Neem je een huis uit 1970 met gietijzeren radiatoren die vroeger op 80°C stonden? Dan is 65°C aanvoer van de ATAG de meest pragmatische keuze zonder dat je de radiatoren moet vervangen.
+### Plaatsingseisen buitenunit
+
+- Houd rekening met de vrije ruimte rondom die de fabrikant in de handleiding voorschrijft; die is er voor de luchtstroom, niet voor de netheid
+- Plaats de unit niet direct onder een slaapkamerraam van jezelf of de buren
+- De warmtepomp vraagt een eigen groep in de meterkast; bij grotere vermogens kan een driefase-aansluiting nodig zijn
+- Er bestaat geen wettelijke minimumafstand tot de erfgrens. Wat wél geldt is de geluidsnorm, en die bepaalt in de praktijk waar de unit mag staan
+
+### Geluid en de norm op de erfgrens
+
+Sinds 1 januari 2024 staan de eisen in het Besluit bouwwerken leefomgeving (Bbl); het Bouwbesluit bestaat niet meer. Voor een buiten opgestelde warmtepomp bij een woning geldt een grenswaarde op de perceelgrens van de buren van 45 dB(A) overdag en 40 dB(A) in de avond- en nachtperiode.
+
+Twee dingen die daarbij misgaan. Ten eerste worden geluidsvermogen en geluidsdruk door elkaar gehaald: een fabrikant die "54 dB(A)" opgeeft als geluidsvermogen zegt iets anders dan een fabrikant die "40 dB(A) op 3 meter" opgeeft als geluidsdruk. Ten tweede rekent bijna niemand de opstelling door. Laat de installateur de geluidsberekening op de perceelgrens aanleveren vóór ondertekening, en bespreek de plaatsing met de buren. Een unit die achteraf verplaatst of ingepakt moet worden, kost honderden euro's extra.
 
 ### Leveranciers en installateurs
 
-ATAG werkt uitsluitend via erkende installateurs — je koopt de pomp niet rechtstreeks. Op de ATAG-website vind je een installateurvinder. Vraag altijd minimaal twee offertes op: bij warmtepompinstallaties zit het grootste deel van de prijsvariatie in de montagemarge, niet in het apparaat, en die marge verschilt sterk per installateur.
-
-Tip: vraag de installateur expliciet of hij ook de ISDE aanvraagt en of de offerte inclusief of exclusief btw is. Rond het btw-tarief ontstaat in offertes regelmatig verwarring.
+ATAG levert via erkende installateurs; je koopt de warmtepomp niet rechtstreeks. Vraag minimaal twee offertes op. Bij warmtepompinstallaties zit het grootste deel van de prijsverschillen in de montagemarge en de bijkomende posten, niet in het apparaat zelf. Hoe je die offertes naast elkaar legt, staat in onze gids [installateur kiezen](/installateur-kiezen/).
 
 ---
 
-## Veelgemaakte fouten bij een ATAG-installatie
+## Vier fouten die bij hybride installaties blijven terugkomen
 
-Bij hybride installaties komen steeds dezelfde vier valkuilen terug. Ze staan alle vier in de installatievoorschriften, en gaan in de praktijk alsnog mis.
+Ze staan alle vier in de installatievoorschriften, en gaan in de praktijk alsnog mis.
 
-### 1. De ISDE-aanvraag te laat doen
+### 1. De ISDE-aanvraag laten liggen
 
-Bij ATAG regelt de installateur doorgaans de ISDE-aanvraag. Dat gaat mis zodra het "even later" gebeurt en vervolgens blijft liggen: de ISDE kent een aanvraagtermijn na installatie, en na het verstrijken daarvan is de subsidie definitief weg. Laat daarom bij de opdrachtverlening schriftelijk vastleggen wie de ISDE aanvraagt en voor welke datum.
+Regelt de installateur de aanvraag, dan gaat het mis zodra die "even later" gebeurt en vervolgens blijft liggen. De aanvraagtermijn na installatie is hard. Leg schriftelijk vast wie aanvraagt en wanneer.
 
-### 2. Hybride op verkeerd bivalentpunt instellen
+### 2. Het bivalentpunt op de fabriekswaarde laten staan
 
-Het bivalentpunt — de buitentemperatuur waarbij de cv-ketel bijspringt — staat standaard bij ATAG op +2°C. In een gemiddeld rijtjeshuis met label C kan dat veilig omlaag naar -2 tot -5°C, waardoor de warmtepomp meer uren draait en de gasketel minder vaak aanslaat. Dit is een instelling die bij oplevering vaak op de fabriekswaarde blijft staan. Vraag je installateur expliciet welk bivalentpunt is ingesteld en laat het aanpassen als het op +2°C staat; het is de goedkoopste manier om je gasverbruik verder te verlagen.
+Het bivalentpunt is de buitentemperatuur waaronder de cv-ketel het overneemt. Staat dat te hoog, dan draait de ketel meer uren dan nodig en bespaar je minder gas. In een redelijk geïsoleerde woning kan het doorgaans een aantal graden omlaag. Dit is de instelling die bij oplevering het vaakst ongemoeid blijft, en het aanpassen ervan kost niets. Vraag expliciet welk bivalentpunt is ingesteld en waarom.
 
-### 3. Onjuiste aanvoertemperatuur instellen
+### 3. De aanvoertemperatuur te hoog instellen
 
-De ATAG ENERGION hybride kan tot 65°C aanvoer leveren. Maar bij bestaande radiatoren van 1985-2000 is 55°C in de meeste gevallen al voldoende. Elke 5°C minder aanvoer scheelt circa 6-8% efficiëntie (SCOP). Een installateur die de aanvoertemperatuur conservatief instelt op 65°C "voor de zekerheid" kost je geld. Vraag expliciet: op welke aanvoertemperatuur staat het systeem ingesteld en waarom?
+Een installateur die "voor de zekerheid" de maximale aanvoertemperatuur instelt, kost je rendement: elke graad lager verbetert de prestatie. Bij radiatoren uit de jaren tachtig en negentig is een lagere aanvoer vaak al voldoende. Vraag op welke aanvoertemperatuur het systeem staat ingeregeld en op basis waarvan.
 
-### 4. Geen onderhoud voor de cv-ketel meenemen
+### 4. Het ketelonderhoud vergeten
 
-Met een hybride installatie blijft je cv-ketel in gebruik. Jaarlijks onderhoud voor zowel de ketel als de warmtepomp is verplicht voor de garantie én praktisch verstandig. De ketel wordt daarbij regelmatig vergeten, met als gevolg dat een storing buiten garantie valt en tegen urgentietarief wordt verholpen.
+Bij een hybride opstelling blijft de cv-ketel in gebruik. Onderhoud aan zowel ketel als warmtepomp is voorwaarde voor de garantie. De ketel wordt daarbij regelmatig vergeten, met als gevolg dat een storing buiten garantie valt en tegen spoedtarief wordt verholpen.
 
-### 5. Buitenunit te dicht bij een slaapkamerraam plaatsen
+---
 
-Geluid is de meest onderschatte plaatsingsfactor. De ENERGION zit volgens de specificaties op 47-52 dB(A). Sinds april 2021 geldt in het Bouwbesluit een grenswaarde van 40 dB(A) op de perceelgrens bij een naburige woning ('s nachts), en dat betekent dat een unit op korte afstand van een slaapkamerraam van de buren al snel te luid is — met name in de nachtstand bij vorst, wanneer de ventilator op vol toerental draait. Reken bij een unit dicht op de erfgrens op geluidsmaatregelen of verplaatsing, wat honderden euro's extra kost. Bespreek de plaatsing van tevoren met de buren en laat de installateur de geluidsberekening op de perceelgrens aanleveren.
+## Onderhoud en servicekosten
 
-## Onderhoud en servicekosten over 10 jaar
+Wij nemen geen tienjarige kostentabel op met bedragen per post: onderhoudstarieven verschillen per installateur en per contract, en een landelijk gemiddelde bestaat er niet. Wat je wel kunt doen, is dit uitvragen bij de offerte:
 
-Een realistische kostenschatting voor een hybride ATAG-installatie:
+- Wat kost jaarlijks onderhoud aan de warmtepomp, en wat aan de cv-ketel bij een hybride opstelling?
+- Zit er een onderhoudscontract bij, en verlengt dat de garantie? Zo ja, met welke termijn en onder welke voorwaarden?
+- Wat valt er wel en niet onder: voorrijkosten, onderdelen, storingen buiten kantooruren?
+- Wat is het uurtarief buiten contract?
 
-| Post | Frequentie | Kosten |
-|------|-----------|--------|
-| Jaarlijks onderhoud warmtepomp | 1× per jaar | €160-€200 |
-| Jaarlijks onderhoud cv-ketel | 1× per jaar | €110-€140 |
-| Filter buitenunit reinigen | 2× per jaar | Zelf (15 min) |
-| Koelmiddel controle | Elke 4 jaar | €100-€140 |
-| **Geschat per jaar** | — | **€300-€380** |
-| **10-jaar totaal** | — | **€3.000-€3.800** |
-
-Bij een onderhoudscontract van €280-€320/jaar dekt ATAG doorgaans zowel de ketel als de warmtepomp. Dat is iets duurder dan los, maar geeft je prioriteit bij storingen en garantieverlenging tot 7 jaar.
-
-**Vergelijking met alleen een cv-ketel:** die kost circa €120-€150/jaar aan onderhoud. Het verschil (€150-€230/jaar) weegt op tegen de €600-€1.000 jaarlijkse energiebesparing — dus de extra onderhoudskosten zijn geen argument om de warmtepomp af te wijzen.
+Zet die vier antwoorden van twee installateurs naast elkaar en je hebt een reëel beeld — beter dan elk gemiddelde dat wij zouden kunnen opschrijven.
 
 ### Storingen in de praktijk
 
-Storingen bij warmtepompen concentreren zich op twee momenten: in de eerste maanden na oplevering (vrijwel altijd installatie- en instelfouten, niet defecte hardware) en na circa tien jaar (slijtage van de compressor). De periode daartussen is doorgaans rustig. De ENERGION gebruikt een compressor van Mitsubishi Electric, een blok dat ook in andere merken wordt toegepast en daardoor goed leverbaar blijft voor reparatie. Een storingspercentage voor dit specifieke model noemen wij niet: ATAG publiceert geen faalcijfers en er is geen openbare Nederlandse dataset waaruit dat te herleiden is.
-
-## Combinatie met zonnepanelen en dynamisch tarief
-
-De ATAG ENERGION hybride werkt uitstekend samen met zonnepanelen. Overdag, als je panelen op vol vermogen draaien, gebruik je de goedkope of "gratis" stroom om de warmtepomp te laten draaien en de woning voor te verwarmen of de boiler op te laden.
-
-**Rekenvoorbeeld (scenario 1, aangevuld met 10 zonnepanelen):**
-
-- Zonnepanelen opwek: 3.400 kWh/jaar
-- Warmtepomp verbruik: 1.400 kWh/jaar
-- Eigenverbruik warmtepomp via zonnepanelen: geschat 700 kWh (50%)
-- Besparing op stroomkosten warmtepomp: 700 kWh × €0,23 = €161/jaar
-- Effect op totale besparing: stijgt van €1.064 naar **€1.225/jaar**
-- Terugverdientijd warmtepomp daalt van 4,7 naar **4,1 jaar**
-
-Bij een dynamisch contract (Tibber) kun je de warmtepomp programmeren op nacht-uren of momenten van lage tarieven. In de winter, wanneer zon schaars is, draait de warmtepomp dan op goedkope stroomuren (soms €0,04-€0,08/kWh) in plaats van het dagtarief.
-
-## Subsidie-update: ATAG ENERGION en ISDE 2026
-
-ATAG ENERGION-modellen staan op de erkende ISDE-apparatenlijst van RVO. De actuele bedragen voor 2026:
-
-| Model | Vermogen | ISDE-bedrag (indicatief) |
-|-------|---------|------------------------|
-| ENERGION hybride | 6 kW | €2.700 |
-| ENERGION hybride | 8 kW | €3.000 |
-| ENERGION all-electric | 8 kW | €3.400 |
-| ENERGION all-electric | 12 kW | €3.800 |
-| ENERGION all-electric | 16 kW | €4.200 |
-
-Daarnaast: bij de hybride variant kunt u ook ISDE-subsidie combineren met isolatiesubsidie (spouwmuur, dak, glas) in dezelfde aanvraag. Bij situatie 2 in Veenendaal deed het stel dit ook: naast de warmtepomp (€2.900) kregen ze €950 voor spouwmuurisolatie van 95 m². Totale subsidie: €3.850, wat de terugverdientijd terugbracht van 6,1 naar 3,7 jaar.
-
-## Verlengde FAQ
-
-**Kan ik de ATAG ENERGION koppelen aan een merk-vreemde cv-ketel?**
-
-Technisch kan het via een adapter, maar ATAG raadt dit af. De regelapparatuur is geoptimaliseerd voor integratie met ATAG cv-ketels. Bij een Intergas, Remeha of Vaillant ketel werkt de warmtepomp wel, maar de hybride sturing is minder nauwkeurig en de garantie op de hybridekoppeling vervalt. Als je geen ATAG-ketel hebt, vergelijk dan ook ATAG ENERGION met Remeha Elga Ace (bij een Remeha ketel) of Vaillant aroTHERM plus.
-
-**Wat als ATAG stopt met de ENERGION-lijn?**
-
-ATAG is onderdeel van de IRSAP-groep. Vraag bij de aanschaf naar de contractuele onderdelen- en servicetermijn voor jouw model; die staat in de garantievoorwaarden en is het enige harde antwoord op deze vraag. Wat in ATAG's voordeel werkt: de Mitsubishi-compressor wordt ook in andere merken gebruikt, waardoor een compressorreparatie niet afhankelijk is van één leverancier. Dat is een reëel verschil met kleine fabrikanten die met eigen, exclusieve componenten werken.
-
-**Kan ik de ATAG ENERGION zelf installeren?**
-
-Nee. Het koelmiddel (R32) vereist een gecertificeerd F-gassen installateur. Bovendien vervalt de ISDE-subsidie als de installatie niet door een erkend bedrijf is uitgevoerd. Zelfinstallatie is technisch onwettig voor het koelmiddelgedeelte.
-
-**Is de ATAG-app vergelijkbaar met Daikin One?**
-
-Nee, de Daikin One-app is visueel beter en heeft meer functionaliteit (dynamisch tariefbeheer, grafische verbruikshistorie per uur). De ATAG-app toont verbruik, status en alarmmeldingen goed, maar heeft minder diepgang. Voor de meeste gebruikers is dit geen dealbreaker — maar als app-kwaliteit prioriteit heeft, scoort Daikin hoger.
-
-**Wat kost een gemiddelde storing buiten garantie?**
-
-Een kompressorreparatie na garantieperiode (10-15 jaar): €800-€1.500. Een lekkage koelmiddel herstellen: €200-€400. Een printplaat vervangen: €300-€600. Vergelijk dit met een cv-ketel storing buiten garantie (€200-€500 voor de meeste reparaties) — warmtepompen zijn iets duurder om te repareren, maar hebben ook minder bewegende delen die kunnen falen.
-
-## Conclusie: kopen of niet?
-
-Als je al een ATAG cv-ketel hebt en je woning heeft energielabel C of D, is de ENERGION hybride warmtepomp een logische, betrouwbare keuze. Je hoeft de ketel niet te vervangen, de service is goed en de terugverdientijd is reëel — zes tot zeven jaar inclusief subsidie, bij gemiddeld gasverbruik.
-
-Als je de absolute top wilt op SCOP-prestaties, ga dan naar Daikin. Als je wilt besparen op de aanschaf, kijk dan naar Intergas. ATAG zit bewust in het midden: degelijk, Nederlands, service-gericht.
-
-Onze aanbeveling bij twijfel: kies ATAG, maar laat de installateur er ook een Intergas-offerte naast leggen. Valt het prijsverschil richting de duizend euro of meer, steek dat bedrag dan liever in extra isolatie — dat verlaagt de warmtevraag zelf, en dat levert op de lange termijn meer op dan een iets hogere SCOP op papier.
-
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk ATAG ENERGION warmtepompen</a>
-
-
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
-
-## Levensduur en vervanging na 15 jaar
-
-Een ATAG ENERGION-installatie heeft een verwachte levensduur van 15-20 jaar voor de warmtepomp zelf. De compressor (Mitsubishi Electric) is het onderdeel met de meeste slijtage bij intensief gebruik.
-
-Na 10-12 jaar: mogelijk compressorcheck aan te raden (kosten €100-€150). Na 15 jaar: overweeg of de pomp volledig vervangen moet worden, of dat een compressorreparatie (€900-€1.500) zinvoller is. Bij een reparatieprijs van meer dan 50% van de vervangingswaarde van een nieuwe pomp: vervangen.
-
-Een vervangen warmtepomp na 15 jaar heeft dan de voordelen van de technologie van 2041: hogere SCOP-waarden (nu al richting 5,0-5,5 bij nieuwste modellen), stillere buitenunits en mogelijk zwaardere ISDE-subsidie als het klimaatakkoord oplevert wat beleidsmakers willen.
+Storingen bij warmtepompen concentreren zich op twee momenten: in de eerste maanden na oplevering — vrijwel altijd installatie- en instelfouten, geen defecte hardware — en na een jaar of tien, bij slijtage van de compressor. De periode daartussen is doorgaans rustig. Een storingspercentage voor deze modellen noemen wij niet: ATAG publiceert geen faalcijfers en er is geen openbare Nederlandse dataset waaruit die te herleiden zijn.
 
 ---
 
-*Heb je vragen over jouw specifieke situatie — isolatiewaarde, bestaande installatie, subsidie? Laat een reactie achter; wij beantwoorden ze zo snel mogelijk.*
+## Combinatie met zonnepanelen en een dynamisch tarief
+
+Een hybride warmtepomp en zonnepanelen werken goed samen, maar minder spectaculair dan vaak wordt gesuggereerd — en de reden is timing. De warmtepomp draait vooral in de winter, vroeg in de ochtend en aan het begin van de avond. Precies dan leveren je panelen weinig tot niets.
+
+**Modelberekening bij scenario 1**, aangevuld met tien panelen:
+
+- Opwek panelen: circa 3.400 kWh per jaar
+- Verbruik warmtepomp: circa 1.400 kWh per jaar
+- Deel dat je uit eigen opwek kunt dekken: geschat de helft, circa 700 kWh
+- Besparing daarop: 700 × €0,23 = **€161 per jaar**
+- Totale besparing stijgt daarmee van €1.064 naar circa **€1.225 per jaar**
+
+Bij een dynamisch contract kun je de warmtepomp op goedkope uren laten draaien of de boiler dan opladen. Hoeveel dat oplevert, hangt af van de spreiding tussen de uurprijzen en van hoeveel warmte je kunt bufferen — niet van het merk warmtepomp. Wat uurprijzen in Nederland doen, kun je volgen op onze pagina [stroomprijzen](/stroomprijzen/).
+
+---
+
+## Nog vier vragen die vaak terugkomen
+
+**Kan ik een ATAG-warmtepomp koppelen aan een cv-ketel van een ander merk?**
+
+Technisch kan er veel, maar de hybride sturing is afgestemd op de eigen ketels. Bij een vreemde ketel werkt het systeem wel, maar minder nauwkeurig, en de garantie op de hybridekoppeling kan vervallen. Heb je een ketel van een ander merk, vergelijk dan ook de hybride lijn van díe fabrikant — dat is vaak de goedkoopste en eenvoudigste route.
+
+**Wat als ATAG stopt met de Energion-lijn?**
+
+Vraag bij aanschaf naar de contractuele onderdelen- en servicetermijn voor jouw model. Die staat in de garantievoorwaarden en is het enige harde antwoord op deze vraag; al het andere is speculatie.
+
+**Kan ik de warmtepomp zelf installeren?**
+
+Nee. Het koudemiddelcircuit vraagt een gecertificeerde monteur, en bij R290 gelden aanvullende eisen voor brandbare koudemiddelen. Bovendien stelt de ISDE eisen aan de uitvoering; zelfinstallatie kost je de subsidie.
+
+**Wat kost een storing buiten garantie?**
+
+Dat verschilt per onderdeel en per installateur, en wij vullen er geen bedragen bij in. Wat je vooraf kunt regelen: vraag naar het uurtarief, de voorrijkosten en de beschikbaarheid van onderdelen voor jouw model. Onderdelenbeschikbaarheid is bij warmtepompen belangrijker dan het uurtarief.
+
+---
+
+## Conclusie: kopen of niet?
+
+Heb je al een ATAG cv-ketel en een woning met label C of D, dan is een hybride Energion een logische keuze: je houdt de ketel, de sturing is op die combinatie ontworpen, en het servicenetwerk is Nederlands. Dat is een reëel voordeel dat je pas waardeert op het moment dat er iets stukgaat.
+
+Wil je de scherpste prijs of de hoogste opgegeven prestatie, dan zijn er andere merken die daarop beter scoren. Maar leg de offertes eerst naast elkaar op de posten die je echt kunt vergelijken: typenummer, aanvoertemperatuur, geluidsberekening op de erfgrens, bivalentpunt en montagekosten. Valt het prijsverschil met een alternatief richting duizend euro of meer, steek dat bedrag dan liever in isolatie — dat verlaagt de warmtevraag zelf, en dat levert op termijn meer op dan een iets hoger getal op de datasheet.
+
+---
 
 ## Gerelateerde artikelen
 
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
 - [Vaillant aroTHERM plus review 2026](/posts/vaillant-arotherm-warmtepomp-review-2026/)
-- [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)
-- [Quatt warmtepomp review 2026: slim abonnement of dure](/posts/quatt-warmtepomp-review-2026/)
-- [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
+- [Daikin Altherma 3 review 2026](/posts/daikin-altherma-3-review-2026/)
+- [Quatt warmtepomp review 2026](/posts/quatt-warmtepomp-review-2026/)
+- [HR-ketel vervangen in 2026 of overstappen op een warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)

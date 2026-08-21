@@ -1,8 +1,8 @@
 ---
 title: 'Nibe warmtepomp review 2026: Zweedse kwaliteit voor NL-huizen?'
 date: 2026-08-23 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Volledige review van Nibe warmtepompen in Nederland 2026. COP, kosten, geluid en service op basis van fabrieksspecificaties en gebruikersreviews. Past Nibe bij een Nederlandse woning?
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Review van de NIBE S2125 en de bodemgebonden S1255 in Nederland: wat de fabrikant opgeeft over prestatie, geluid en aanvoertemperatuur, en voor welke woning dit premiummerk werkelijk logisch is.'
 categories:
 - warmtepomp
 tags:
@@ -23,417 +23,235 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1510515853-2cdcb24f54a4&w=1200&output=webp&q=70
 faq:
-- q: Wat kost een Nibe warmtepomp in 2026?
-  a: 'Nibe S2125-8 lucht-water 8 kW: €11.800-€14.500 inclusief installatie en buffervat. Nibe S1255 bodemwarmtepomp 6 kW: €18.500-€26.000 inclusief bodemlus. ISDE-subsidie: €2.450-€4.150 afhankelijk van model. Netto: €9.000-€10.500 voor lucht-water, €15.000-€22.000 voor bodem. Premium prijssegment.'
-- q: Wat is de SCOP van Nibe?
-  a: 'Nibe S2125 lucht-water SCOP 4,8-5,3 onder Nederlandse omstandigheden bij 35°C aanvoer. Nibe F1255 bodemwarmtepomp SCOP 5,5-6,2 — een van de hoogste in de markt. Hoge SCOP komt door geavanceerde inverter-techniek en grote warmtewisselaars. Bij radiatoren 50°C zakt SCOP naar 3,7-4,0.'
-- q: Hoe stil is een Nibe?
-  a: 'Nibe S2125-8 buitenunit: 36-40 dB op 1 meter normaal, 31 dB nachtmodus. Vergelijkbaar met Mitsubishi Ecodan en stiller dan Vaillant aroTHERM. Voor erfgrens-norm 40 dB nacht ruim binnen marge. Bodemwarmtepompen Nibe F1255 staan binnen en zijn vrijwel onhoorbaar (~30 dB binnen-unit).'
-- q: Hoe is de service in Nederland?
-  a: 'Nibe werkt via een beperkt netwerk van ~45 gecertificeerde dealers in Nederland. Minder dicht dan Vaillant of Daikin. Voordeel: hoge specialisatie. Nadeel: bij storing kan reactietijd langer zijn dan bij massamerken. Garantie: 5 jaar standaard, 7 jaar op compressor, uitbreidbaar tot 10 jaar via dealer.'
-- q: Hoe lang gaat een Nibe mee?
-  a: 'Nibe-warmtepompen halen gemiddeld 20-25 jaar bij goed onderhoud. Bodemwarmtepompen Nibe F1255: vaak 25+ jaar omdat ze binnen staan en geen weersbelasting hebben. Compressor-vervanging gangbaar rond jaar 18-20 (€1.800-€2.500). Een van de langste levensduren in de Europese markt.'
-- q: Heeft Nibe smart-home integratie?
-  a: 'Ja, via myUplink-app + Nibe Modbus-RS485 connectie kun je integreren met Home Assistant, Domoticz of professionele BMS-systemen. Beste smart-home koppeling van alle premium warmtepompen op de Nederlandse markt. Smart Grid Ready volwaardig geïmplementeerd: kan op zonneoverschot opdraaien.'
-- q: Past Nibe bij een Nederlandse woning?
-  a: 'Bij goed-geïsoleerde woning (label B+) en vloerverwarming: zeker. Bij label C met lage-T radiatoren: ook geschikt mits je accepteert dat COP iets lager uitvalt. Bij label D of slechter: niet eerste keus — overweeg eerst isolatie of een hybride zoals Quatt. Nibe is een premium-merk, voor mensen die maximaal rendement willen.'
-- q: 'Nibe versus Mitsubishi Ecodan: welke kies ik?'
-  a: 'Ecodan en Nibe zijn beide premium met SCOP 4,7-4,9. Verschillen: Nibe heeft betere smart-home integratie en bodemwarmtepomp-optie (Mitsubishi heeft die niet). Ecodan heeft groter dealer-netwerk en eenvoudigere service. Nibe heeft hogere instapprijs maar vaak nog langere levensduur. Voor smart-home: Nibe. Voor eenvoud: Ecodan.'
-products:
-- name: Nibe S2125-8 lucht-water 8 kW
-  url: https://www.nibe.eu/nl-nl
-  price: '13000'
-- name: Nibe S2125-12 lucht-water 12 kW
-  url: https://www.nibe.eu/nl-nl
-  price: '15800'
-- name: Nibe F1255 bodemwarmtepomp 6 kW
-  url: https://www.nibe.eu/nl-nl
-  price: '21500'
+- q: 'Wat kost een Nibe warmtepomp in 2026?'
+  a: 'NIBE publiceert geen consumentenprijzen en levert via gecertificeerde installateurs. In Nederlandse offertes ligt een complete lucht-water installatie uit deze klasse doorgaans tussen de €11.500 en €14.500 inclusief montage en 21% btw; een bodemgebonden installatie ligt daar ver boven vanwege het bronwerk. Dat zijn marktrichtprijzen, geen fabrikantsprijzen. Op een warmtepomp geldt 21% btw — het 0%-tarief bestaat alleen voor zonnepanelen.'
+- q: 'Wat is de SCOP van de NIBE S2125?'
+  a: 'NIBE geeft voor de S2125 een SCOP tot circa 5,0 bij een aanvoertemperatuur van 35°C op; bij een hogere aanvoertemperatuur, bijvoorbeeld met bestaande radiatoren, valt die waarde duidelijk lager uit. Het is een fabrikantsopgave bij een vastgesteld testpunt, geen gemeten jaarprestatie in een woning. Vergelijk deze waarde alleen met de opgave van een ander merk bij hetzelfde testpunt.'
+- q: 'Hoe stil is een NIBE S2125?'
+  a: 'NIBE profileert de S2125 als een van de stilste monoblock lucht-water warmtepompen op de Nederlandse markt en geeft in de documentatie geluidsvermogenniveaus op in de orde van 39 tot 44 dB(A), oplopend met het vermogen van het model. Let op dat geluidsvermogen iets anders is dan geluidsdruk op een afstand: voor de toets op de perceelgrens heb je een berekening nodig, geen enkel getal.'
+- q: 'Hoe is de service van NIBE in Nederland?'
+  a: 'NIBE werkt in Nederland via een netwerk van gecertificeerde dealers dat dunner is dan dat van massamerken als Daikin of Vaillant. Het voordeel is specialisatie, het nadeel is dat de reactietijd bij een storing sterker afhangt van je afstand tot de dichtstbijzijnde dealer. Check de dealerdekking in je eigen regio vóór je kiest, en leg de responstijd contractueel vast.'
+- q: 'Hoe lang gaat een NIBE mee?'
+  a: 'Een goed onderhouden lucht-water warmtepomp gaat in de praktijk vijftien tot twintig jaar mee; bodemgebonden systemen doorgaans langer, omdat de warmtepomp binnen staat en de bron zelf vrijwel onbeperkt meegaat. Exacte levensduur- of faalcijfers per model noemen wij niet: NIBE publiceert die niet en er is geen onafhankelijke Nederlandse dataset.'
+- q: 'Heeft NIBE smart-home integratie?'
+  a: 'Ja. Naast de eigen app biedt NIBE een Modbus-koppeling waarmee je het toestel lokaal in Home Assistant, Domoticz of een gebouwbeheersysteem kunt opnemen. Dat is het onderscheidende punt van dit merk: je kunt de warmtepomp laten reageren op zonneoverschot of op uurprijzen zonder omwegen of ongesupporte trucs.'
+- q: 'Past NIBE bij een Nederlandse woning?'
+  a: 'Bij een goed geïsoleerde woning met vloerverwarming of lage-temperatuur radiatoren: zeker. Bij label C met aangepaste afgifte ook, mits je accepteert dat de jaarprestatie lager uitvalt dan de datasheetwaarde. Bij label D of slechter is het niet de eerste keuze — dan is isoleren of een hybride opstelling logischer, ongeacht het merk.'
+- q: 'NIBE of Mitsubishi Ecodan: welke kies ik?'
+  a: 'Beide zijn premiummerken met opgegeven prestaties die dicht bij elkaar liggen. Het onderscheid zit elders: NIBE heeft een diepere lokale smart-home-koppeling en levert ook bodemgebonden warmtepompen, terwijl Mitsubishi een dichter dealernetwerk heeft en daarmee eenvoudiger service. Kies op basis van wat je zelf nodig hebt, niet op basis van een paar tienden SCOP.'
 schema_type: Review
 ---
-Nibe is een van de weinige premium-merken dat warmtepompen ontwerpt voor Scandinavische winters en die vervolgens ongewijzigd op de Nederlandse markt brengt. De vraag is of dat overshoot is of juist voordeel oplevert. Wij beoordelen de S2125-8 op fabrieksspecificaties, de prestatiecurves uit de technische documentatie, de garantievoorwaarden en geverifieerde gebruikersreviews.
+*Disclosure: DuurzaamThuisLab heeft geen affiliate- of commissierelatie met NIBE (stand augustus 2026). Dit artikel bevat geen affiliate-links. Alle cijfers hieronder komen uit de fabrieksdocumentatie of zijn gelabelde modelberekeningen — geen eigen metingen.*
 
-*Disclosure: er is geen affiliate-relatie met Nibe Energy. De CTA-link verwijst naar de algemene productpagina. Alle cijfers hieronder komen uit de fabrieksdocumentatie of zijn gelabelde modelberekeningen — geen eigen metingen.*
+NIBE is een van de weinige premiummerken dat warmtepompen ontwerpt voor Scandinavische winters en die vervolgens vrijwel ongewijzigd op de Nederlandse markt brengt. De vraag is of dat overkill is of juist voordeel oplevert.
+
+Wij beoordelen de S2125 op de gepubliceerde fabrieksspecificaties, de prestatiecurves uit de technische documentatie en de garantievoorwaarden. Wij hebben deze warmtepompen niet zelf geïnstalleerd of gemeten.
 
 ---
 
-💡 *Twijfel je tussen lucht-water en bodemwarmtepomp? Lees [aardwarmte warmtepomp bodembron](/posts/aardwarmte-warmtepomp-bodembron-2026/) voor de basis.*
+> **Kort antwoord:** de S2125 is een monoblock lucht-water warmtepomp op propaan (R290) met een hoge opgegeven prestatie, een uitzonderlijk laag geluidsvermogen en een hoge maximale aanvoertemperatuur — die laatste maakt hem ook bruikbaar in bestaande bouw met radiatoren. Het echte onderscheid zit in de lokale Modbus-koppeling. Het risico zit in de dealerdichtheid: die is dunner dan bij de massamerken.
 
+## Wie is NIBE?
 
-> **Kort antwoord:** Volledige review van Nibe warmtepompen in Nederland 2026. COP, kosten, geluid en service na een jaar testen. Past Nibe bij een Nederlandse woning?
->
-> Nibe S2125-8 lucht-water 8 kW: €11.800-€14.500 inclusief installatie en buffervat. Nibe S1255 bodemwarmtepomp 6 kW: €18.500-€26.000 inclusief bodemlus. ISDE-subsidie: €2.450-€4.150 afhankelijk van model. Netto: €9.000-€10.500 voor lucht-water, €15.000-€22.000 voor bodem. Premium prijssegment.
+NIBE is een Zweeds bedrijf dat sinds 1952 bestaat en zich heeft gespecialiseerd in warmtepompen voor noordelijke klimaten. In Scandinavië is het merk groot; in Nederland kleiner, maar wel duidelijk aanwezig in het premiumsegment.
 
-## Wie is Nibe?
+Het praktische gevolg van die herkomst: de toestellen zijn ontworpen voor omstandigheden die in Nederland zelden voorkomen. Dat is geen marketingargument maar een dimensioneringsargument — een unit die op ontwerpcondities van -20°C is gebouwd, werkt bij een Nederlandse koudegolf van -8°C nog ruim binnen zijn bereik.
 
-Nibe is een Zweeds bedrijf opgericht in 1952. Wereldwijd marktleider in warmtepompen voor noordelijke klimaten. In Scandinavië heeft Nibe 30%+ marktaandeel; in Nederland kleiner maar groeiend.
+---
 
-Sterk punt: warmtepompen ontworpen voor strenge winters (Zweden -30°C is normaal). In Nederlands klimaat (-7°C koudegolf) draait Nibe daarom nog uiterst efficiënt.
+## Wat NIBE opgeeft over de S2125
+
+De S2125 is een monoblock lucht-water warmtepomp: het volledige koudemiddelcircuit zit in de buitenunit, en er gaat alleen water naar binnen. De serie bestaat uit meerdere vermogensvarianten. Wat de fabrikant publiceert:
+
+| Kenmerk | Opgave van NIBE |
+|---|---|
+| Type | Monoblock lucht-water, modulerend |
+| Koudemiddel | R290 (propaan), GWP 3 |
+| SCOP | tot circa 5,0 bij 35°C aanvoer |
+| Maximale aanvoertemperatuur | tot 70°C bij -7°C buiten, tot 75°C bij mildere buitentemperaturen |
+| Geluidsvermogen | in de orde van 39 tot 44 dB(A), oplopend met het vermogen |
+| Plaatsing t.o.v. erfgrens | NIBE noemt in de eigen communicatie dat de units doorgaans op enkele meters van de perceelgrens kunnen staan zonder geluidsbeperkende maatregelen |
+
+*Bron: NIBE, productdocumentatie S2125 en eigen publicaties (geraadpleegd 21 augustus 2026).*
+
+Twee punten die deze specificatie bijzonder maken in Nederlandse context.
+
+**De hoge aanvoertemperatuur.** De meeste lucht-water warmtepompen in dit segment stoppen rond de 55 tot 60°C. Een toestel dat tot 70°C komt bij vrieskou, kan bestaande radiatoren bedienen zonder dat je ze eerst vergroot. Dat is niet efficiënt — hoe hoger de aanvoer, hoe lager het rendement — maar het maakt de warmtepomp wel toepasbaar in woningen waar andere modellen afvallen.
+
+**Het koudemiddel R290.** Propaan heeft een GWP van 3, tegenover 675 voor R32 en 2.088 voor R410A. Het is brandbaar, wat aanvullende eisen aan plaatsing en aan de certificering van de monteur stelt. Bij een buitenopstelling is dat in de praktijk geen bezwaar, maar het beperkt wel wie de installatie mag uitvoeren.
+
+---
 
 ## Het referentieprofiel in dit artikel
 
-Alle doorrekeningen hieronder gaan uit van onderstaand modelprofiel: een gerenoveerde jaren-30 woning in het noorden van het land.
+Alle doorrekeningen hieronder gaan uit van één **modelprofiel**. Het is een rekenvoorbeeld met expliciete aannames, geen bestaande installatie en geen meetreeks.
 
-| Eigenschap | Waarde |
+| Eigenschap | Aanname |
 |---|---|
-| Bouwjaar | 1936, gerenoveerd 2022 |
-| Label | B (na isolatie) |
+| Woning | jaren-30, gerenoveerd, label B na isolatie |
 | Woonoppervlak | 184 m² |
-| Bewoners | 2 volwassenen + 2 kinderen |
-| Verwarming | Vloerverwarming begane grond + lage-T radiatoren boven |
-| Warmtepomp | Nibe S2125-8 (8 kW lucht-water) |
-| Buffervat | Nibe VPB S200 (180 liter) |
-| Investering | €12.500 (na ISDE €2.150) |
-| Zonnepanelen | 22 stuks (oost-west, 8,2 kWp) |
+| Afgifte | vloerverwarming beneden, lage-temperatuur radiatoren boven |
+| Warmtepomp | S2125, 8 kW-klasse |
+| Buffervat | 180 liter |
+| Investering | circa €12.500 na subsidie, inclusief 21% btw |
+| Zonnepanelen | 22 stuks, oost-west |
+| Uitgangssituatie | cv-ketel met 2.480 m³ gas per jaar |
 
-## Investering en alternatieven
+---
 
-Hij vergeleek vier offertes in 2024:
+## Verwachte prestatie per seizoen (modelberekening)
 
-- Vaillant aroTHERM Plus 7 kW: €11.200 (na ISDE)
-- Daikin Altherma 3 R 8 kW: €11.500 (na ISDE)
-- Mitsubishi Ecodan PUZ-WM 8 kW: €13.500 (na ISDE)
-- **Nibe S2125-8 (gekozen)**: €12.500 (na ISDE)
+Onderstaande tabel is een modelberekening: de prestatiecurve die NIBE in de technische documentatie opgeeft, toegepast op de maandgemiddelde buitentemperaturen in Nederland. Het zijn verwachtingswaarden op basis van fabrieksspecificaties, geen gemeten waarden bij één installatie.
 
-Hij koos Nibe omdat hij de beste smart-home integratie wilde — hij heeft Home Assistant en wilde de warmtepomp orkestreren met zijn zonnepanelen + EV + boiler. Nibe's Modbus-API maakte dat mogelijk zonder hacks.
-
-## Verwachte COP per seizoen (modelberekening)
-
-Onderstaande tabel is een modelberekening: de COP-curve die Nibe in de technische documentatie van de S2125 opgeeft (COP bij A7/W35, A2/W35 en A-7/W35), toegepast op de maandgemiddelde buitentemperaturen van het KNMI voor het noorden van Nederland. Het zijn dus verwachtingswaarden op basis van fabrieksspecificaties, geen gemeten waarden bij één installatie.
-
-| Maand | Buitentemp gem. | Verwachte SCOP |
+| Periode | Buitentemperatuur | Verwachte COP |
 |---|---|---|
-| januari | -1°C | 3,8 |
+| januari | −1°C | 3,8 |
 | februari | +2°C | 4,1 |
 | maart | +6°C | 4,7 |
 | april-mei | +10°C | 5,1 |
-| juni-aug | +18-21°C (alleen warm tapwater) | 5,3-5,8 |
+| juni-augustus (alleen tapwater) | +18 tot +21°C | 5,3 – 5,8 |
 | september | +14°C | 4,9 |
 | oktober | +9°C | 4,5 |
 | november | +5°C | 4,1 |
 | december | +1°C | 3,7 |
-| koudegolf (-8°C) | -8°C | 2,9 |
-| **Jaargemiddelde in het model** | | **4,8** |
+| koudegolf | −8°C | 2,9 |
+| **Jaargemiddelde in dit model** | | **circa 4,8** |
 
-Jaargemiddelde SCOP van 4,8 volgt uit dit model voor een noordelijk klimaat. Tijdens een koudegolf van -8°C zakt de COP naar circa 2,9, zonder dat de unit capaciteit inlevert. Volgens Nibe haalt deze unit nog 100% capaciteit bij -15°C — onder Nederlandse omstandigheden ruimschoots voldoende.
-
-## Stroomverbruik en kosten (modelberekening)
-
-Bij het referentieprofiel hierboven en een SCOP van 4,8 komt het jaarverbruik voor verwarming plus tapwater uit op circa **3.585 kWh**.
-
-Tegen €0,32/kWh = **€1.147/jaar** voor verwarming + tapwater.
-
-Vergelijking met de uitgangssituatie in het model (cv-ketel + 2.480 m³ gas voor 184 m²):
-- Gas vroeger: €3.475/jaar  
-- Stroom voor warmwater electrisch + cv-pomp: €380/jaar
-- **Vroeger totaal verwarming/warmwater: €3.855/jaar**
-
-Nu:
-- Stroom totaal verwarming/warmwater: €1.147/jaar
-- **Besparing: €2.708/jaar**
-
-Op een netto-investering van €12.500 komt de rekenkundige terugverdientijd uit op 4,6 jaar, waarna nog 15 tot 20 jaar technische levensduur resteert. Zo'n korte terugverdientijd is uitzonderlijk en komt hier vooral door het hoge gasverbruik van de uitgangssituatie — bij een kleinere woning met 1.200 m³ gas verdubbelt de terugverdientijd ruwweg.
-
-## Geluid volgens de fabrieksspecificatie
-
-Nibe geeft voor de S2125 de volgende geluidsdrukniveaus op 1 meter van de buitenunit op:
-
-- Vol vermogen koudegolf: 39 dB
-- Normaal verwarmen: 33 dB
-- Nachtmodus: 30 dB
-- Defrost: piekt 5 sec op 42 dB
-
-Geluid neemt bij een puntbron met circa 6 dB af per verdubbeling van de afstand. Op 6 meter komt dat neer op ongeveer 22 dB bij normaal bedrijf en 18 dB in nachtmodus — onder het achtergrondniveau van een rustige woonwijk, en ruim binnen de norm van 40 dB op de erfgrens 's nachts.
-
-Zachter dan Vaillant aroTHERM (38 dB normaal). Vergelijkbaar met Mitsubishi Ecodan (33 dB normaal).
-
-## Smart-home integratie: het echte voordeel
-
-Hier blinkt Nibe uit. Via Home Assistant en de Modbus-koppeling is bijvoorbeeld deze automatisering mogelijk:
-
-- Bij zonneoverschot >2 kW: vloerverwarming +1°C, buffervat opwarmen tot 70°C
-- Bij dynamisch tarief <€0,15/kWh: voorlading buffervat
-- Bij dynamisch tarief >€0,40/kWh: warmtepomp gepauzeerd (1 uur), comfort blijft door buffervat
-- Bij zonopkomst-prognose: voorverwarming -2 graden (gebruikt zon)
-
-Wat zo'n opzet kan opleveren, hangt af van paneelvermogen en tariefspreiding. Bij het referentieprofiel hierboven komt het model uit op een stijging van de zelfconsumptie van circa 38 naar 54 procent en 15 tot 20 procent lagere stroomkosten voor de warmtepomp.
-
-Geen ander warmtepomp-merk (Vaillant, Daikin, Mitsubishi) biedt deze diepe integratie zonder hacks. <a href="https://go.duurzaamthuislab.nl/nibe" target="_blank" rel="nofollow sponsored noopener">Nibe S2125</a> is voor smart-home enthousiastelingen veruit de beste keus.
-
-Lees [zonnepanelen na 2027 rendement](/posts/zonnepanelen-na-2027-rendement-berekenen/) voor wat smart-grid voor je portemonnee betekent post-saldering.
-
-## Service en betrouwbaarheid
-
-Wat gebruikersreviews en de onderhoudsvoorschriften laten zien:
-
-- **Storingen**: sensordefecten (warmwatersensor) zijn de meest gemelde kinderziekte; vervanging valt onder garantie
-- **Servicebeurten**: jaarlijks aanbevolen, circa €175 per beurt
-- **Software-updates**: automatisch via myUplink
-
-De servicekwaliteit is sterk dealer-afhankelijk. Woon je op 30 kilometer of meer van de dichtstbijzijnde Nibe-dealer, dan is dat prima voor gepland onderhoud maar ongunstig bij een storing in de winter.
-
-In west-Nederland (Randstad) is dealer-spreiding beter. In Limburg, Zeeland en Drenthe: kan tegenvallen — check eerst dealer-locator op nibe.nl.
-
-## App-ervaring
-
-myUplink-app van Nibe:
-
-**Goed**:
-- Gedetailleerde COP-uitlezing per dag/week/maand
-- Energieverbruik real-time
-- Tijdschema's flexibel  
-- Tapwater piek-instelling
-- Thermostaat-curve aanpasbaar
-
-**Minder**:
-- UI iets ouder dan Quatt of Tibber
-- Vereist account-registratie en internet
-- Beperkte taalondersteuning (NL beschikbaar, niet alle teksten vertaald)
-
-Voor power-users: dit is de beste app van premium warmtepompen. Voor basic-users: prima maar niet de mooiste.
-
-## Levensduur en restwaarde
-
-Nibe is op de Europese markt actief sinds 1952. Veldtests in Scandinavië laten levensduur 22-28 jaar zien voor S-serie modellen. In Nederlandse omstandigheden (milder klimaat) is 20 tot 25 jaar een realistische verwachting.
-
-Compressor-vervanging gangbaar rond jaar 18-20: €1.800-€2.500.
-
-Over 25 jaar: één Nibe + één compressor-revisie = €14.500-€15.000 totaal investering. Vergelijkbaar met Mitsubishi Ecodan, lager dan 2x Quatt-systeem (€9.000-€10.000 huidige prijs, plus inflatie).
-
-## Bodemwarmtepomp: wanneer wel?
-
-Nibe biedt ook bodemwarmtepompen (F1255). SCOP 5,5-6,2 — hoger dan elke lucht-water op de markt. Maar:
-
-- Investering €18.500-€26.000 (zonder bodemlus-werk)
-- Bodemlus-werk kost €4.000-€8.000 (afhankelijk van techniek)
-- Vereist tuin van minimaal 200 m² of vergunning voor verticale boring
-- Levensduur 25-35 jaar (extreem lang)
-
-Voor wie groot huis (250+ m²) heeft, lange-termijn focus en tuin: Nibe F1255 is rationeel. Voor doorsnee Nederlandse rijwoning: lucht-water (S2125) is beter geprijsd.
-
-Lees [aardwarmte warmtepomp bodembron](/posts/aardwarmte-warmtepomp-bodembron-2026/) voor uitleg en wanneer het zinvol is.
-
-## Voor wie is Nibe slim?
-
-✅ **Goede match**:
-- Goed-geïsoleerde woning (label B+) of nieuwbouw  
-- Vloerverwarming of lage-T radiatoren
-- Smart-home enthousiast (Home Assistant, Domoticz)
-- Lange-termijn focus (15+ jaar)
-- Veel zonnepanelen (smart-grid voordeel)
-- Friesland, Groningen, Drenthe (kouder klimaat: Nibe blinkt uit)
-- Budget €12.000-€15.000 (lucht-water) of €19.000-€26.000 (bodem)
-
-❌ **Slechte match**:
-- Beperkt budget (<€10.000)
-- Bestaand huis label D of slechter
-- Wens voor eenvoud zonder smart-home
-- Geen Nibe-dealer in nabije omtrek (check eerst)
-
-## Concrete jaarrekening 2026
-
-Voor een typisch profiel (12.000 kWh warmtevraag, label B, vloerverwarming):
-
-- Stroom: 12.000 / 4,8 = 2.500 kWh × €0,32 = **€800**
-- Onderhoud: **€175**
-- **Totaal exploitatie: €975/jaar**
-
-Vergelijking 25 jaar lifetime:
-- Investering: €12.500 (na ISDE)
-- Exploitatie 25 jaar: €24.375
-- Compressor-revisie jaar 18: €2.000
-- **Totaal lifetime: €38.875**
-
-Vergelijkbaar met Mitsubishi Ecodan (€37.150) en Vaillant aroTHERM (€37.500). Nibe scoort iets hoger op lifetime, maar wint op smart-home features die €300-€500/jaar besparen voor smart-grid actieve gebruikers — dat compenseert.
-
-## Onze aanbeveling
-
-Nibe is **de slimste keus voor de smart-home enthousiast** met goed-geïsoleerde woning. SCOP 4,8 jaar-gemiddeld, fluisterstil, beste software-integratie van alle premium-merken.
-
-Voor de gemiddelde Nederlander zonder smart-home affiniteit: Vaillant aroTHERM is goedkoper en even efficiënt. Voor wie premium wil zonder smart-home complexiteit: Mitsubishi Ecodan.
-
-Maar als je Home Assistant draait, dynamisch contract hebt en zonnepanelen wilt orkestreren met je warmtepomp: Nibe is op één.
-
-## Nibe S2125 vs S1255: lucht-water of bodem?
-
-Nibe biedt twee hoofdseries: S2125 (lucht-water) en F1255/S1255 (bodemwarmtepomp). Belangrijk verschil:
-
-| | S2125 lucht-water | F1255 bodemwarmtepomp |
-|---|---|---|
-| Investering | €11.500-€14.500 | €19.000-€26.000 |
-| Bodemlus-werk | n.v.t. | €4.000-€8.000 extra |
-| SCOP | 4,8-5,3 | 5,5-6,2 |
-| Levensduur | 18-22 jaar | 25-35 jaar |
-| Plaatsing | Buitenunit + binnenunit | Alleen binnen (stilst) |
-| Geluid buiten | 36-40 dB | n.v.t. (binnen) |
-| Voor welke woning | Standaard tot groot | Groot huis (250m²+) of nieuwbouw |
-| Tuin nodig | Nee | Ja (verticale of horizontale lus) |
-
-Voor 80% van Nederlandse huizen is S2125 lucht-water de juiste keus. Bodemwarmtepomp loont alleen bij grote huizen + lange-termijn focus + tuin beschikbaar. Voor woningen tussen 80-150 m²: meeropbrengst bodem t.o.v. lucht-water levert €120-€220/jaar — niet genoeg om €5.000-€10.000 extra investering te rechtvaardigen.
-
-Lees [aardwarmte warmtepomp bodembron](/posts/aardwarmte-warmtepomp-bodembron-2026/) voor uitleg over bodemwarmtepompen.
-
-## Smart-grid in praktijk: een voorbeeldconfiguratie
-
-Een werkbare Home Assistant-configuratie voor de S2125 ziet er zo uit:
-
-```yaml
-# Bij dynamisch tarief <€0,15:
-- voorlading buffervat tot 70°C
-- vloerverwarming +1°C (thermische opslag in vloer)
-
-# Bij dynamisch tarief >€0,40:
-- warmtepomp 1 uur uit
-- comfort blijft via buffer
-
-# Bij zonneoverschot >2 kW:
-- buffervat extra opwarmen
-- accenten zelfconsumptie zonnepanelen
-```
-
-Resultaat over 12 maanden:
-- 18% lagere stroomkosten warmtepomp
-- 16% extra zelfconsumptie zonnepanelen
-- Geen comfortklachten
-- App-cijfers transparant beschikbaar
-
-Bij Vaillant zou dit kunnen via sensoApp + Loxone, bij Mitsubishi alleen via Modbus-extension. Bij Nibe out-of-the-box. Verschil: 4-6 uur configuratiewerk uitgespaard.
-
-## Service in de regio: belangrijk om te checken
-
-Nibe heeft ~45 gecertificeerde dealers in Nederland. Spreiding:
-- Randstad: dichtbevolkt, 12-15 dealers
-- Brabant: 8 dealers
-- Gelderland/Overijssel: 7 dealers
-- Friesland/Groningen/Drenthe: 5 dealers
-- Limburg: 4 dealers
-- Zeeland: 2 dealers
-
-Voor wie buiten Randstad of Brabant woont: check vooraf op nibe.nl/dealer-locator. Bij grote afstand naar dealer: reactietijd bij storing kan langer zijn (8-14 dagen i.p.v. 3-7).
-
-Dat maakt de dealerdichtheid een reëel selectiecriterium: in Zeeland of Drenthe kan een merk met een dichter servicenetwerk (Vaillant, Daikin) de betere keuze zijn, ook als de Nibe technisch beter scoort.
-
-## Geluid op afstand: doorgerekend uit de fabrieksspecificatie
-
-Onderstaande tabel is een berekening, geen meting: uitgangspunt is het door Nibe opgegeven geluidsdrukniveau op 1 meter, met de standaard afname van circa 6 dB per verdubbeling van de afstand bij vrije veldopstelling.
-
-| Afstand buitenunit | dB normaal | dB nachtmodus |
-|---|---|---|
-| 1 meter | 33 | 30 |
-| 2 meter | 30 | 27 |
-| 4 meter (slaapkamer) | 22 | 18 |
-| 6 meter (buurman) | 17 | 13 |
-| 10 meter (straat) | 12 | <10 |
-
-Op 6 meter — een gangbare afstand tot het slaapkamerraam van de buren — komt de berekening uit onder het achtergrondgeluid van een rustige woonwijk. Voor de erfgrensnorm van 40 dB 's nachts zit dat ruim binnen. Let op: reflecterende muren of een plaatsing in een hoek verhogen het niveau met enkele dB.
-
-Lees [warmtepomp geluid en buren 2026](/posts/warmtepomp-geluid-buren-2026-norm/) voor wat acceptabel is.
-
-## ISDE-bedragen voor Nibe
-
-Nibe komt in aanmerking voor ISDE-subsidie omdat ze EHPA-gecertificeerd zijn (Europese warmtepompen-keurmerk). Bedragen 2026:
-
-- S2125-8 (8 kW): €2.450 ISDE
-- S2125-12 (12 kW): €3.450 ISDE
-- F1255-6 bodemwarmtepomp: €4.150 ISDE
-- F1255-12 bodemwarmtepomp: €5.450 ISDE
-
-Aanvraag via geselecteerd dealer of zelf bij RVO. Lever bewijs van plaatsing + COP-data + energielabel. Standaarddoorlooptijd: 6-10 weken.
-
-Lees [ISDE subsidie 2026](/posts/isde-subsidie-warmtepompen-2026/) voor stappenplan.
-
-## Vergelijking met goedkopere all-electric warmtepompen
-
-| | Nibe S2125-8 | Vaillant aroTHERM Plus 7 kW | Daikin Altherma 3 R 8 kW |
-|---|---|---|---|
-| Prijs incl install | €12.500 | €11.000 | €11.500 |
-| SCOP gemeten | 4,8 | 4,6 | 4,5 |
-| Geluid normaal | 33 dB | 38 dB | 36 dB |
-| Smart-home | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
-| Dealer-spreiding | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Levensduur | 20-25 jr | 18-22 jr | 16-20 jr |
-| Garantie standaard | 5 jaar | 5 jaar | 5 jaar |
-
-Nibe wint op smart-home, geluid en levensduur. Vaillant wint op prijs en dealer-spreiding. Daikin op massadistributie en bekendheid.
-
-Voor de gemiddelde Nederlander zonder smart-home: Vaillant is iets goedkoper en even goed. Voor de smart-home power-user: Nibe extra €1.500 waard.
-
-## Verzekering en financiering
-
-Voor Nibe-installatie €12.000+: veel mensen kiezen voor Energiebespaarlening (EBL) van het Rijk: rente 2,4% over 10 jaar voor verduurzaming. Maandlasten ~€115 voor €12.000 lening.
-
-Tegenover gas-besparing €1.270/jaar: nettoresultaat positief vanaf maand 1.
-
-Verzekering: Nibe-installatie is automatisch gedekt onder opstal-verzekering ("vast onderdeel woning"). Geen aparte verzekering nodig.
+Tijdens een koudegolf zakt het rendement naar circa 2,9 zonder dat de unit capaciteit inlevert — dat laatste is precies waar het Scandinavische ontwerp voor bedoeld is. Merk op dat het modelgemiddelde van 4,8 lager ligt dan de datasheetwaarde bij 35°C aanvoer, en dat hoort ook zo: die waarde geldt onder testcondities.
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/nibe" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Nibe</a> · [Mitsubishi Ecodan alternatief →](/posts/mitsubishi-ecodan-warmtepomp-review-2026/)
+## Stroomverbruik en kosten (modelberekening)
 
-## Nibe Uplink en data-toegang
+Bij het referentieprofiel en een jaarprestatie van 4,8 komt het verbruik voor verwarming plus tapwater uit op circa **3.585 kWh** per jaar. Tegen €0,32/kWh is dat **circa €1.147 per jaar**.
 
-myUplink (Nibe-app) levert uitgebreide data:
-- Energieverbruik per uur, dag, week, maand
-- COP per dag uitgesplitst
-- Buitentemperatuur correlatie
-- Tapwater-verbruik
-- Defrost-cycli logging
-- Compressor-runtime statistics
+De uitgangssituatie in het model — een cv-ketel met 2.480 m³ gas — kost bij een gasprijs van €1,05/m³ inclusief vastrecht en transport circa **€2.604 per jaar**, plus circa €380 aan stroom voor pompen en warm water. Samen circa €2.984.
 
-Voor data-mensen: Nibe is veruit het transparantste warmtepomp-merk. Vergelijk met Quatt (alleen huidige status) of Vaillant sensoApp (week-data).
+- **Besparing in dit model: circa €1.837 per jaar**
+- Op een netto investering van €12.500 komt de rekenkundige terugverdientijd daarmee op **circa 6,8 jaar**
 
-API-toegang: Nibe ondersteunt Modbus RS-485 voor lokale integratie. Geen cloud-afhankelijkheid voor automation.
+Die uitkomst is gunstig, en dat komt vooral door het hoge gasverbruik van de uitgangssituatie. Bij een kleinere woning met 1.200 m³ gas halveert de besparing ruwweg en verdubbelt de terugverdientijd. Reken daarom met je eigen jaarafrekening, niet met dit voorbeeld.
 
-## Geluidsoptimalisatie tips voor Nibe
+---
 
-Deze maatregelen reduceren het geluidsniveau verder; de genoemde effecten zijn de waarden die de leveranciers van de betreffende materialen opgeven:
+## Geluid: waarom één getal niet genoeg is
 
-1. **Anti-trillingsmat onder buitenunit** (€85): -2 dB
-2. **Geluidsdempende kap** (€340): -4 dB bij hoge belasting
-3. **Plaatsing tegen woningmuur i.p.v. tuinmuur**: -3 dB richting buurman
-4. **Nachtmodus standaard ingeschakeld**: -3 dB tussen 22:00-07:00
+NIBE profileert de S2125 als een van de stilste monoblock warmtepompen op de markt, en de opgegeven geluidsvermogenniveaus ondersteunen dat. Maar er zit een valkuil in de manier waarop die getallen circuleren.
 
-Cumulatief: 35 dB op 1 meter terug naar 28 dB. Vrijwel onhoorbaar zelfs op 1 meter afstand.
+**Geluidsvermogen** is de totale akoestische energie die de unit uitzendt — een eigenschap van het apparaat, onafhankelijk van waar je staat. **Geluidsdruk** is wat je op een bepaalde afstand hoort, en die neemt af naarmate je verder weg staat: bij een puntbron in het vrije veld met ruwweg 6 dB per verdubbeling van de afstand.
 
-Voor wie kleine tuin heeft of dichte buren: deze investeringen lonen.
+Voor de toets op de perceelgrens heb je dus een berekening nodig, niet één getal uit een folder. En twee dingen die zo'n berekening beïnvloeden worden vaak vergeten: reflecterende muren en een opstelling in een hoek verhogen het niveau met enkele dB, en decibellen tel je niet bij elkaar op zoals gewone getallen. Wie een reeks maatregelen afzonderlijk "−2 dB, −3 dB, −4 dB" optelt tot een gegarandeerde uitkomst, rekent verkeerd.
 
-## Combinatie met Nibe-zonneboiler en zonnepanelen
+Sinds 1 januari 2024 staan de eisen in het Besluit bouwwerken leefomgeving (Bbl); het Bouwbesluit bestaat niet meer. Op de perceelgrens van de buren geldt 45 dB(A) overdag en 40 dB(A) in de avond- en nachtperiode. Er is geen wettelijke minimumafstand tot de erfgrens — de norm bepaalt waar de unit kan staan. Laat de installateur de berekening voor jouw opstelling aanleveren. Meer daarover in [warmtepomp geluid en buren](/posts/warmtepomp-geluid-buren-2026-norm/).
 
-Nibe biedt eigen zonneboiler (Nibe SOL) en compatibele zonnepaneel-omvormers. Combinatie:
-- Zonnepanelen produceren overdag overschot
-- Overschot stuurt warmtepomp om buffervat extra op te warmen
-- Eventueel restant naar zonneboiler-circuit
-- Warmtepomp + zonneboiler vullen elkaar aan
+---
 
-Resultaat: 60-75% zelfvoorzienend tapwater + verwarming in zomer. Voor wie volledig autarkisch wil: Nibe biedt het complete ecosysteem.
+## Smart-home integratie: het echte voordeel
 
-Niet voor iedereen rendabel — alleen bij groot dak (8+ panelen voor zonnepaneel-deel) en groot huis (200+ m²).
+Hier onderscheidt NIBE zich. Naast de eigen app is er een Modbus-koppeling waarmee het toestel lokaal in een domoticasysteem valt op te nemen, zonder cloudafhankelijkheid en zonder ongesupporte trucs. Wat je daarmee kunt bouwen:
 
-## Lange-termijn betrouwbaarheid statistics
+- Bij zonneoverschot boven een ingestelde drempel: buffervat extra opwarmen en de vloertemperatuur iets verhogen, zodat je overschot in warmte opslaat
+- Bij een lage uurprijs: het buffervat voorladen
+- Bij een hoge uurprijs: de warmtepomp tijdelijk pauzeren; het comfort blijft op peil via het buffervat
+- Op basis van de weersverwachting: vooruit verwarmen als er zon aankomt
 
-Nibe publiceert betrouwbaarheid-statistics jaarlijks. Voor S2125-serie (lucht-water):
+Wat zo'n opzet oplevert, hangt af van je paneelvermogen en van de spreiding tussen de uurprijzen, niet van het merk warmtepomp. Bij het referentieprofiel komt het model uit op een stijging van de zelfconsumptie van ongeveer 38 naar 54 procent en op een aantal procenten lagere stroomkosten voor de warmtepomp. Wat uurprijzen in Nederland doen, zie je op onze pagina [stroomprijzen](/stroomprijzen/); wat de salderingsstop per 1 januari 2027 betekent, staat in [zonnepanelen na 2027](/posts/zonnepanelen-na-2027-rendement-berekenen/).
 
-- Mean Time Between Failures (MTBF): 12.500 uur
-- Compressor-vervanging gemiddeld: 18 jaar
-- Sensor-storingen: 1 per 4.500 uur
-- Software-bugs: 1-2 per jaar (kosteloos via update)
+---
 
-Dat is industrieel-betrouwbaar niveau, vergelijkbaar met Mitsubishi en boven Daikin/Vaillant in dezelfde categorie.
+## Service en betrouwbaarheid
+
+Wat de onderhoudsvoorschriften en gebruikersreviews laten zien:
+
+- **Storingen** concentreren zich in de eerste maanden na oplevering — vrijwel altijd instel- en installatiefouten — en veel later bij slijtage van de compressor. Sensordefecten worden als kinderziekte het vaakst genoemd en vallen onder garantie.
+- **Onderhoud** is jaarlijks aanbevolen; wat een beurt kost verschilt per installateur en per contract.
+- **Software-updates** verlopen via de app.
+
+Faalcijfers of gemiddelde tijden tussen storingen noemen wij niet: NIBE publiceert die niet en er bestaat geen onafhankelijke Nederlandse dataset waaruit ze te herleiden zijn.
+
+De servicekwaliteit is bij dit merk sterker dealerafhankelijk dan bij massamerken, simpelweg omdat het netwerk dunner is. Woon je ver van de dichtstbijzijnde gecertificeerde dealer, dan is dat prima voor gepland onderhoud maar ongunstig bij een storing in januari. Check de dealerdekking in je eigen regio via de dealerlocator van NIBE vóórdat je kiest — dat is voor dit merk een reëel selectiecriterium, en in sommige regio's een reden om voor een merk met een dichter netwerk te gaan.
+
+---
+
+## De app
+
+De app van NIBE geeft gedetailleerd inzicht: verbruik per uur, dag, week en maand, prestatie per dag, tijdschema's, tapwaterinstellingen en de stooklijn. Voor wie zijn installatie wil begrijpen in plaats van alleen bedienen, is dat een van de completere omgevingen in dit segment.
+
+De keerzijde: de interface is functioneler dan modern, en een account met internetverbinding is nodig. De lokale Modbus-route is daarom voor gevorderde gebruikers interessanter dan de app zelf.
+
+---
+
+## Bodemgebonden: wanneer wel?
+
+NIBE levert naast lucht-water ook bodemgebonden warmtepompen (de S1255- en F1255-lijn). Die halen een hogere prestatie dan elke lucht-water warmtepomp, omdat de bron het hele jaar op temperatuur blijft. Daar staat tegenover:
+
+- Het bronwerk — boren of graven — vormt een aanzienlijke extra investering bovenop het toestel
+- Er is voldoende perceel nodig voor een horizontale lus, of een boring met de bijbehorende melding of vergunning
+- De doorlooptijd is langer vanwege dat vergunningtraject
+
+Voor een groot huis met een hoge warmtevraag en een lange horizon kan dat rationeel zijn. Voor een doorsnee Nederlandse rijwoning is lucht-water beter geprijsd — de volledige afweging, inclusief rekenvoorbeeld, staat in [aardwarmte warmtepomp bodembron](/posts/aardwarmte-warmtepomp-bodembron-2026/).
+
+---
+
+## Voor wie is NIBE slim?
+
+**Goede match:**
+
+- Goed geïsoleerde woning of nieuwbouw, met vloerverwarming of lage-temperatuur radiatoren
+- Een bestaande woning met radiatoren die je níet wilt vervangen — de hoge aanvoertemperatuur maakt dat mogelijk
+- Smart-home gebruikers die lokaal willen koppelen
+- Veel zonnepanelen en een dynamisch contract
+- Een dealer in de buurt
+
+**Slechte match:**
+
+- Beperkt budget; dit is een premiummerk
+- Label D of slechter zonder isolatieplannen
+- Behoefte aan eenvoud zonder configuratiewerk
+- Geen gecertificeerde dealer in de omgeving
+
+---
+
+## Subsidie en btw
+
+**ISDE.** Je vraagt de subsidie aan **ná** installatie, binnen 24 maanden na de installatiedatum — niet ervoor. Of je toestel in aanmerking komt, hangt af van het exacte typenummer op de ISDE-apparatenlijst van RVO, en het bedrag verschilt per apparaat. Wij noemen geen bedragen per model; gebruik de rekentool van RVO met het typenummer uit je offerte. De woning moet van vóór 1 januari 2019 zijn, of de omgevingsvergunning moet vóór 1 juli 2018 zijn aangevraagd. *(Bron: RVO, geraadpleegd 21 augustus 2026.)*
+
+**Btw.** Op een warmtepomp geldt 21% btw. Het 0%-tarief bestaat alleen voor zonnepanelen en de daarvoor direct noodzakelijke onderdelen.
+
+**Financiering.** Het Nationaal Warmtefonds en verschillende gemeenten bieden leningen voor verduurzaming. Rentepercentages en voorwaarden veranderen periodiek en verschillen per doelgroep; kijk voor de actuele voorwaarden op warmtefonds.nl. Wij noemen hier geen rentepercentage, omdat dat op het moment van lezen alweer verouderd kan zijn.
+
+Meer over de aanvraag staat in [ISDE subsidie 2026](/posts/isde-subsidie-warmtepompen-2026/).
+
+---
+
+## Hoe NIBE zich verhoudt tot Vaillant en Daikin
+
+Wij zetten hier geen tabel met SCOP-getallen per merk neer: die waarden zijn alleen vergelijkbaar per exact typenummer en testpunt. Op merkniveau valt dit te zeggen:
+
+- **NIBE** onderscheidt zich op lokale integratie, op geluid en op de combinatie van een hoge aanvoertemperatuur met R290. Het aandachtspunt is de dealerdichtheid.
+- **Vaillant** zit met de aroTHERM plus in hetzelfde technische kamp — ook R290, ook stil — met een dichter installateursnetwerk. Zie onze [Vaillant aroTHERM plus review](/posts/vaillant-arotherm-warmtepomp-review-2026/).
+- **Daikin** heeft het breedste dealernetwerk en een sterke app, en is de meest voorspelbare keuze wanneer service en beschikbaarheid zwaarder wegen dan het laatste procentje prestatie.
+
+Voor de gemiddelde koper zonder smart-home-ambities is het verschil tussen deze drie kleiner dan het verschil tussen een goede en een matige installateur.
+
+---
 
 ## Conclusie
 
-Ons oordeel op basis van specificaties, prestatiecurves en gebruikersreviews: de Nibe S2125 is een uitstekende warmtepomp. Hoge COP, fluisterstil, lange levensduur. Het echte verschil zit in smart-home integratie — geen ander premium-merk komt in de buurt.
+Ons oordeel op basis van de specificaties en de prestatiecurves: de S2125 is een sterke warmtepomp. Een hoge opgegeven prestatie, een laag geluidsvermogen, een natuurlijk koudemiddel en — het meest onderschatte punt — een aanvoertemperatuur die hoog genoeg is voor bestaande radiatoren. Dat laatste maakt hem toepasbaar in woningen waar veel concurrenten afvallen.
 
-De prijs is iets hoger dan Vaillant en Daikin, maar de extra investering verdient zich terug via betere zonneoverschot-benutting (post-2027) en optimalisatie via dynamisch contract. Bij het referentieprofiel hierboven — een grote woning met hoog gasverbruik en zonnepanelen — komt de rekenkundige terugverdientijd op 4,6 jaar.
+Het echte onderscheid zit in de lokale koppeling: wie zijn warmtepomp wil laten meebewegen met zonneoverschot en uurprijzen, komt hier verder dan bij vrijwel elk ander premiummerk.
 
-Niet voor iedereen geschikt. Wel voor wie weet wat hij wil en bereid is een premium-merk de tijd te geven.
+De prijs ligt hoger dan bij de massamerken, en het dealernetwerk is dunner. Dat laatste is voor dit merk het echte risico — niet de techniek. Controleer dus eerst wie jou in jouw regio bedient bij een storing in januari, en pas daarna welke datasheet het mooiste getal heeft.
 
 *Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
+
+---
 
 ## Gerelateerde artikelen
 
 - [Mitsubishi Ecodan review](/posts/mitsubishi-ecodan-warmtepomp-review-2026/)
-- [Vaillant aroTHERM review](/posts/vaillant-arotherm-warmtepomp-review-2026/)
+- [Vaillant aroTHERM plus review](/posts/vaillant-arotherm-warmtepomp-review-2026/)
 - [Daikin Altherma 3 review](/posts/daikin-altherma-3-review-2026/)
 - [Aardwarmte warmtepomp bodembron](/posts/aardwarmte-warmtepomp-bodembron-2026/)
 - [Warmtepomp monoblock vs split](/posts/warmtepomp-monoblock-vs-split-2026/)
@@ -444,4 +262,4 @@ Niet voor iedereen geschikt. Wel voor wie weet wat hij wil en bereid is een prem
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE voor warmtepompen](https://www.rvo.nl/subsidies-financiering/isde) — de officiële voorwaarden, bedragen en apparatenlijst.

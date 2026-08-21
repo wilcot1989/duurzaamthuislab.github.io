@@ -1,9 +1,9 @@
 ---
 title: 'Infrarood verwarming vs warmtepomp 2026: welke is rendabeler?'
 date: 2026-09-16 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
-description: Infrarood panelen of warmtepomp in 2026? Wij vergelijken verbruik, kosten, comfort en terugverdientijd. Voor wie is infrarood echt slim, en wanneer kies je toch warmtepomp?
+description: Infraroodpanelen of een warmtepomp? Het rendementsverschil van factor drie à vier bepaalt bijna alles — behalve in een paar situaties waarin infrarood juist de betere keuze is.
 categories:
 - verwarming
 tags:
@@ -24,267 +24,158 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1558618666-fcd25c85cd64&w=1200&output=webp&q=70
 faq:
-- q: 'Wat is goedkoper: infrarood of warmtepomp?'
-  a: 'In de meeste woningen is een warmtepomp veel goedkoper in gebruik. Een warmtepomp heeft een COP van 3,5-4,5 — per kWh stroom levert hij 3,5-4,5 kWh warmte. Een infraroodpaneel heeft een rendement van 1,0 — 1 kWh stroom is 1 kWh warmte. Voor dezelfde warmte verbruikt infrarood dus 3-4 keer zoveel stroom.'
-- q: 'Wanneer is infrarood verwarming wel slim?'
-  a: 'Bij beperkt gebruik in een goed geisoleerde ruimte: een vakantiehuisje, hobbykamer, garage of badkamer voor 1-2 uur per dag. Of als bijverwarming in een ruimte die tijdelijk extra warmte nodig heeft. Voor de hoofdverwarming van een hele woning is infrarood vrijwel nooit rendabel — tenzij je heel weinig verwarmt.'
-- q: 'Wat kost een infrarood paneel inclusief installatie?'
-  a: 'Een goed IR-paneel van 600-800 watt kost 250-450 euro. Plaatsing is simpel: ophangen aan plafond of wand en stekker in stopcontact, dus geen installatiekosten. Voor een hele woning heb je 6-12 panelen nodig, dus circa 2.000-4.000 euro totaal. Bij een aparte slimme thermostaat per kamer komen daar nog 80-150 euro per ruimte bij.'
-- q: 'Krijg ik subsidie op infrarood verwarming?'
-  a: 'Nee. ISDE-subsidie geldt alleen voor warmtepompen, isolatie, zonneboilers en aansluiting op warmtenet. Infrarood paneel valt onder reguliere elektrische verwarming en is niet subsidiabel. Sommige gemeentes hebben een breder duurzaamheidsfonds, maar in de praktijk staat infrarood er zelden op.'
-- q: 'Werkt infrarood goed bij een slecht geisoleerd huis?'
-  a: 'Nee, juist niet. Infrarood verwarmt mensen en objecten direct, niet de lucht. Bij slechte isolatie verdwijnt de geabsorbeerde warmte snel via muren en ramen. Resultaat: panelen draaien continu, stroomverbruik schiet omhoog. Een warmtepomp werkt ook beter bij goede isolatie, maar is door de hoge COP veel vergevingsgezinder.'
-- q: 'Kan ik infrarood combineren met zonnepanelen?'
-  a: 'Ja, en dat is de enige situatie waarin infrarood echt rendabel kan zijn. Met overproductie van zonnepanelen in lente en herfst kun je een paneel schakelen via een dynamisch contract of slimme schakelaar. Verbruik je vooral overdag en heb je veel zonnestroom over, dan kun je netto onder de gas-kosten uitkomen. Maar in januari, als je het meest verwarmt, levert je dak weinig op.'
-products:
-- name: ISDE-subsidie warmtepomp
-  url: https://go.duurzaamthuislab.nl/isde
-  price: '0'
+- q: 'Wat is goedkoper: infrarood of een warmtepomp?'
+  a: 'In de meeste woningen de warmtepomp, en het verschil is groot. Een infraroodpaneel zet één kilowattuur stroom om in één kilowattuur warmte. Een warmtepomp haalt daar een veelvoud uit door warmte uit de buitenlucht te verplaatsen. Voor dezelfde hoeveelheid warmte verbruikt infrarood dus drie tot vier keer zoveel stroom, en dat verschil loopt elk jaar opnieuw op.'
+- q: 'Wanneer is infraroodverwarming wel verstandig?'
+  a: 'Bij kortdurend gebruik in een afgebakende ruimte: een badkamer voor een halfuur per dag, een hobbykamer, een garage. Of in een ruimte die je maar een deel van het jaar gebruikt, zoals een vakantiewoning. Het rendementsnadeel weegt dan minder zwaar dan de lage investering en het ontbreken van installatiekosten.'
+- q: 'Krijg je subsidie op infraroodverwarming?'
+  a: 'Nee. De ISDE geldt voor warmtepompen, isolatie, zonneboilers en aansluiting op een warmtenet. Een infraroodpaneel valt onder gewone elektrische verwarming en komt niet in aanmerking. Sommige gemeenten hebben een bredere duurzaamheidslening waarmee je het kunt financieren, maar lenen om vervolgens duurdere warmte te kopen is zelden een goed plan.'
+- q: 'Werkt infrarood goed in een slecht geïsoleerd huis?'
+  a: 'Juist niet. Infrarood verwarmt oppervlakken en mensen in plaats van lucht, maar die warmte verdwijnt bij een slechte schil net zo hard naar buiten. De panelen draaien dan vrijwel continu. Een warmtepomp heeft in dezelfde situatie ook last van slechte isolatie, maar vangt dat door het hogere rendement veel beter op.'
+- q: 'Helpt combineren met zonnepanelen?'
+  a: 'Minder dan gehoopt, want de momenten waarop je het meest verwarmt en de momenten waarop je dak het meest produceert, vallen in Nederland grotendeels buiten elkaar. In het stookseizoen levert een gemiddeld dak een fractie van wat een infraroodinstallatie vraagt. Sturen op goedkope uren met een dynamisch contract scheelt wel iets, maar heft het rendementsverschil niet op.'
+- q: 'Hoeveel vermogen heb je per vierkante meter nodig?'
+  a: 'Als richtlijn wordt vaak 60 tot 100 watt per m² bij een goed geïsoleerde ruimte aangehouden en 100 tot 150 watt per m² bij matige isolatie. De veelgemaakte fout is te weinig vermogen ophangen: het paneel draait dan continu zonder de ruimte op temperatuur te krijgen, wat het verbruik juist opdrijft.'
 schema_type: Article
 ---
-"Infrarood panelen zijn 50 procent goedkoper dan een warmtepomp" — die claim circuleert breed in Facebookgroepen en op verkooppagina's van IR-leveranciers. Vaak is de bron een partij die zelf IR-panelen verkoopt. Dit artikel zet de claim naast de fysica en de tarieven van 2026, met het voorbehoud dat infrarood in een paar specifieke situaties wél de betere keuze is.
+"Infraroodpanelen zijn veel goedkoper dan een warmtepomp" — die claim circuleert breed, en vaak komt hij van een partij die zelf panelen verkoopt. Aan de aanschafkant klopt hij ook. Aan de gebruikskant draait hij om.
 
-*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
+Dit artikel legt de claim naast de natuurkunde en naast de tarieven van 2026, met het voorbehoud dat infrarood in een aantal specifieke situaties wél de verstandige keuze is. Alle bedragen hieronder komen uit modelberekeningen met zichtbare aannames; wij meten zelf niet.
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om 500-2000 euro per jaar veilig te stellen.*
+*Disclosure: dit artikel bevat geen affiliate-links. Wij hebben met de genoemde merken en leveranciers geen affiliate- of commissierelatie.*
 
-
-> **Kort antwoord:** Infrarood panelen of warmtepomp in 2026? Wij vergelijken verbruik, kosten, comfort en terugverdientijd. Voor wie is infrarood echt slim, en wanneer kies je toch warmtepomp?
+> **Kort antwoord:** het hele verschil zit in één getal. Een infraroodpaneel levert per kilowattuur stroom één kilowattuur warmte; een warmtepomp levert er drie tot vier. Dat verschil betaal je elk jaar opnieuw, en het loopt bij een normale woning snel op tot duizenden euro's per stookseizoen.
 >
-> In de meeste woningen is een warmtepomp veel goedkoper in gebruik. Een warmtepomp heeft een COP van 3,5-4,5 — per kWh stroom levert hij 3,5-4,5 kWh warmte. Een infraroodpaneel heeft een rendement van 1,0 — 1 kWh stroom is 1 kWh warmte. Voor dezelfde warmte verbruikt infrarood dus 3-4 keer zoveel stroom.
+> Infrarood is daarmee geen hoofdverwarming voor een gewone woning, maar wél een verstandige keuze voor ruimten die je kort of zelden verwarmt: badkamer, garage, hobbyruimte, vakantiewoning. ISDE krijg je er niet voor.
 
-## Hoe werkt infrarood verwarming?
+## Hoe infraroodverwarming werkt
 
-Een infrarood paneel zet stroom om in lange-golf infraroodstraling. Die straling verwarmt geen lucht, maar oppervlakken — muren, vloeren, meubels, mensen. Vergelijkbaar met de zon: in de schaduw is het koud, in de zon warm, ondanks dezelfde luchttemperatuur.
+Een infraroodpaneel zet stroom om in langgolvige infraroodstraling. Die straling verwarmt geen lucht maar oppervlakken: vloeren, muren, meubels en mensen. Vergelijk het met de zon — in de schaduw is het koud, in de zon warm, bij dezelfde luchttemperatuur.
 
-Voordeel: snel gevoel van warmte, geen luchtbeweging, geen droge lucht.
-Nadeel: rendement is exact 1,0. Per kilowattuur stroom krijg je 1 kWh warmte. Geen verlies, maar ook geen winst.
+Het voordeel is een snel gevoel van warmte, zonder luchtbeweging. Het nadeel is fundamenteel: het rendement is precies 1,0. Er gaat niets verloren, maar er komt ook niets bij.
 
-Een warmtepomp werkt anders. Die verplaatst warmte van buitenlucht naar binnen via een koudemiddelcyclus. Per kilowattuur stroom levert hij 3-5 kWh warmte. De COP (Coefficient of Performance) bepaalt hoe hoog dat rendement is — afhankelijk van merk, isolatie en aanvoertemperatuur.
+Een warmtepomp werkt anders. Die verplaatst warmte van buiten naar binnen met een koudemiddelkringloop, en verbruikt stroom alleen om die verplaatsing aan te drijven. Daardoor levert hij per kilowattuur stroom meerdere kilowatturen warmte. Hoeveel precies, hangt af van het toestel, de isolatie en vooral de gevraagde aanvoertemperatuur.
 
-## De fundamentele kostenvergelijking
+## De kostenvergelijking in één tabel
 
-Stel: je woning heeft een warmtevraag van 12.000 kWh per jaar (gemiddeld rijtjeshuis na isolatie).
+**Modelberekening met expliciete aannames.** Uitgangspunt: een woning met een warmtevraag van 12.000 kWh per jaar, een stroomprijs van € 0,30 per kWh en een gasprijs van € 1,05 per m³.
 
-| Verwarming | Rendement | Stroomverbruik | Kosten (0,30 euro/kWh) |
+| Verwarming | Rendement | Verbruik | Kosten per jaar |
 |---|---|---|---|
-| **Infrarood paneel** | 1,0 | 12.000 kWh | 3.600 euro/jaar |
-| **Warmtepomp lucht-water (SCOP 4)** | 4,0 | 3.000 kWh | 900 euro/jaar |
-| **Warmtepomp lucht-water (SCOP 3)** | 3,0 | 4.000 kWh | 1.200 euro/jaar |
-| **Hybride warmtepomp + gas** | 2,8 stroom + gas | gemengd | 1.400-1.800 euro/jaar |
-| **CV-ketel (gas, 95%)** | 0,95 | 1.300 m3 gas | 1.700 euro/jaar |
+| Infraroodpanelen | 1,0 | 12.000 kWh | € 3.600 |
+| Lucht-waterwarmtepomp, SCOP 4 | 4,0 | 3.000 kWh | € 900 |
+| Lucht-waterwarmtepomp, SCOP 3 | 3,0 | 4.000 kWh | € 1.200 |
+| Cv-ketel op gas, rendement 0,95 | 0,95 | circa 1.300 m³ | € 1.365 |
 
-Het verschil is dramatisch: infrarood kost 2.700-3.000 euro per jaar meer dan een warmtepomp. Over 15 jaar is dat 40.000-45.000 euro. Geen enkele subsidie of slim contract gaat dat goedmaken.
+Het verschil tussen infrarood en een warmtepomp bedraagt in dit model € 2.400 tot € 2.700 per jaar. Over vijftien jaar praat je over tienduizenden euro's. Geen subsidie, geen slim contract en geen zonnedak maakt dat verschil goed — het is geen prijsverschil maar een rendementsverschil.
 
-## Drie scenario's waarin infrarood wel slim is
+Verander de aannames en de bedragen schuiven, maar de verhouding blijft: infrarood verbruikt voor dezelfde warmte drie tot vier keer zoveel stroom.
 
-Toch zijn er situaties waarin IR-panelen wél de betere keuze zijn. Dit zijn de drie:
+## Waar infrarood wél de betere keuze is
 
-**1. Bijverwarming in een specifieke ruimte (1-3 uur per dag)**
+**Kortdurende bijverwarming van één ruimte.** Een badkamer waar je 's ochtends twintig minuten staat, een hobbykamer die je twee avonden per week gebruikt, een garage voor een klusuurtje. Een paneel van 600 watt dat één uur draait verbruikt 0,6 kWh — bij € 0,30 per kWh is dat achttien cent. Voor dat gebruikspatroon is een warmtepompinstallatie niet terug te verdienen.
 
-Een badkamer waar je 's ochtends 30 minuten staat. Een hobbykamer waar je twee avonden per week werkt. Een garage waar je in de winter een uurtje bezig bent. In dit soort situaties is infrarood snel, lokaal en zonder onderhoud. Het verbruik is laag — 600 watt maal 1 uur is 0,6 kWh, oftewel 18 cent.
+**Ruimten die je niet permanent bewoont.** Een vakantiewoning die je een aantal weekenden per jaar gebruikt, een tweede verblijf, een caravan op een vaste plek. Panelen hebben geen stilstandverlies en zijn direct uit te schakelen.
 
-**2. Niet-permanent bewoonde ruimtes**
+**Zeer goed geïsoleerde woningen met een lage warmtevraag.** Bij een warmtevraag onder ongeveer 3.000 kWh per jaar wordt de rekensom anders: het absolute verbruik is dan zo laag dat de meerprijs van een warmtepomp zich niet meer terugverdient binnen een redelijke termijn. Dit soort woningen is in de bestaande bouw zeldzaam.
 
-Vakantiewoning in Brabant die je 20 weekenden per jaar gebruikt. Een tweede huis op je kavel. Een caravan op een vaste standplaats. Een complete warmtepomp-installatie verdient zich niet terug bij dit lage gebruik. IR-panelen wel — ze zijn snel uit te schakelen en hebben geen verlies bij stilstand.
+**Situaties waarin je niets mag installeren.** In een huurwoning zonder toestemming voor vaste installaties is een plug-in paneel soms de enige optie. Voor vast gemonteerde panelen met eigen bedrading heb je wél schriftelijke toestemming van de verhuurder nodig; zonder die toestemming kun je bij oplevering aansprakelijk zijn.
 
-**3. Hoog-geisoleerde nieuwbouw met heel lage warmtevraag**
+## Waar het juist misgaat
 
-Bij passiefhuizen met warmtevraag onder 3.000 kWh per jaar wordt het anders. Dan is het verbruik zo laag dat de meerprijs van een warmtepomp (8.000-12.000 euro) zich niet meer terugverdient binnen redelijke tijd. IR-panelen zijn dan een legitieme optie. Maar: deze woningen zijn zeldzaam in de bestaande bouw.
+- **Permanent bewoonde woonkamer.** De warmtevraag van één grote leefruimte is al genoeg om de jaarrekening te laten ontsporen.
+- **Slecht geïsoleerde woning (label E tot G).** Eerst de schil, dan het toestel. Dat geldt voor beide technieken, maar bij infrarood zijn de gevolgen direct zichtbaar op de meter.
+- **Woningen met bestaande vloerverwarming.** Dat systeem is ontworpen voor lage aanvoertemperatuur en dus voor een warmtepomp. Er infrarood naast zetten is dubbelop.
+- **Zonder eigen opwek.** Zonder zonnestroom tegen een lage opwekkostprijs is infrarood per definitie duurder dan een warmtepomp op netstroom.
 
-## Investeringskosten vergeleken
+## De marketingargumenten, nagelopen
 
-| Component | Infrarood (hele woning) | Warmtepomp all-electric |
-|---|---|---|
-| **Apparaten** | 2.000-4.000 (8 panelen) | 9.000-13.000 |
-| **Slimme thermostaten/schakelaars** | 600-1.200 | inbegrepen |
-| **Installatie** | 0-300 | 2.500-5.000 |
-| **Elektra-aanpassingen** | 200-500 | 800-2.500 |
-| **Subsidie** | 0 | -2.500 tot -4.500 |
-| **Netto investering** | 2.800-6.000 | 9.800-16.000 |
+**"Infrarood heeft 100% rendement, een warmtepomp 350%."** Beide getallen kloppen — en het tweede is 3,5 keer zo hoog als het eerste. Dit argument pleit tegen infrarood.
 
-Op investering wint infrarood met 3.000-10.000 euro. Maar je verliest dat verschil binnen 1-3 jaar terug aan stroomverbruik.
+**"Infrarood verwarmt mensen direct en voelt daardoor warmer bij een lagere temperatuur."** Klopt bij directe blootstelling. Zodra je uit het stralingsveld stapt of naar een aangrenzende ruimte loopt, val je terug op de luchttemperatuur. In een woonhuis zit je zelden een hele dag recht voor een paneel.
 
-## Het rekenvoorbeeld dat alles laat zien
+**"Infrarood heeft geen onderhoud nodig."** Klopt. Een warmtepomp wel. Alleen weegt dat verschil in onderhoudskosten niet op tegen het jaarlijkse verschil in stroomverbruik.
 
-**Modelberekening** voor een vrijstaande woning uit 1985, label C, 140 m2, met een warmtevraag van 18.000 kWh per jaar na lichte isolatie. Vergeleken worden IR-panelen voor de volledige woning en een Daikin Altherma van 8 kW. Gerekend met €0,30/kWh en een seizoens-COP van 3,5 voor de warmtepomp.
+**"Met goedkope nachtstroom wint infrarood."** Nee. Een warmtepomp kan óók op goedkope uren draaien, bijvoorbeeld door een buffervat voor te verwarmen. Het rendementsverschil blijft bij elk tarief bestaan: 12.000 kWh tegen € 0,15 is € 1.800, tegenover 3.000 kWh tegen € 0,15 is € 450.
 
-| Scenario | Investering | Jaarlijkse kosten | 15-jaar totaal |
-|---|---|---|---|
-| **Infrarood (8 panelen + slim)** | 4.500 | 5.400 | 85.500 |
-| **Daikin all-electric (na ISDE)** | 13.500 | 1.350 | 33.750 |
+**"Infrarood is beter voor het milieu, want geen koudemiddel."** Een warmtepomp bevat inderdaad koudemiddel, tegenwoordig meestal R32 of het natuurlijke R290. Maar het drie- tot viervoudige stroomverbruik van infrarood weegt zwaarder dan het lekrisico van een correct geïnstalleerd en onderhouden systeem.
 
-Verschil over 15 jaar: 51.750 euro in het voordeel van warmtepomp. Met 14 zonnepanelen erbij (-700 euro stroomkosten per jaar) wordt het verschil nog groter.
+## De investeringskant
 
-De uitkomst van dit model — circa 1.350 euro per jaar aan stroom voor verwarming en warm water — ligt in lijn met de verbruikscijfers die Milieu Centraal publiceert voor all-electric woningen van dit type.
+Aan de aanschafkant wint infrarood met afstand: panelen kosten een fractie van een warmtepompinstallatie en vragen nauwelijks montagewerk. Wat in offertes stelselmatig ontbreekt of wordt onderschat:
 
-## De marketingverhalen rondom infrarood
+- **Btw.** Op infraroodpanelen geldt 21%, net als op warmtepompen. Het 0%-tarief bestaat alleen voor zonnepanelen en de onderdelen die daar direct voor nodig zijn — dus niet voor verwarmingspanelen. Een offerte zonder duidelijke btw-vermelding is een reden om door te vragen.
+- **Groepen in de meterkast.** Een paneel van 800 watt trekt ruim 3,5 ampère. Meerdere panelen op één bestaande lichtgroep gaat mis. Reken op een aparte groep, aangelegd door een erkend installateur.
+- **Regeling per ruimte.** Zonder thermostaat of slimme schakelaar per paneel draait de installatie langer dan nodig. Die regeling is een aparte post.
+- **Subsidie.** Voor een warmtepomp bestaat de ISDE in 2026 uit een startbedrag van € 1.025, plus € 225 per kW vermogen, plus € 200 energielabelbonus bij A+++ (bron: rvo.nl, opgehaald 21 augustus 2026), aan te vragen ná installatie binnen 24 maanden. Voor infrarood is er niets.
 
-Verkopers van IR-panelen gebruiken een paar terugkerende argumenten. Dit is wat er feitelijk van klopt:
+Het netto verschil in investering valt daarmee kleiner uit dan de bruto prijskaartjes suggereren — en dat verschil is bovendien eenmalig, terwijl het verbruiksverschil elk jaar terugkomt.
 
-**"Infrarood is 100 procent rendement, warmtepomp maar 350 procent."**
-Inderdaad: 100 procent vs 350 procent. Dat betekent dat warmtepomp 3,5 keer zo efficient is. Argument tegen jezelf.
+## Wat je bij een hybride aanpak kunt doen
 
-**"Infrarood verwarmt mensen direct, dus voelt warmer bij lagere temperatuur."**
-Klopt deels — bij directe blootstelling. Maar op het moment dat je uit het IR-veld stapt of in een aangrenzende ruimte komt, voel je gewone luchttemperatuur. In een woonhuis verblijf je niet 24/7 voor een paneel.
+De combinatie die in de praktijk het meest logisch is: een warmtepomp voor de ruimten die je permanent gebruikt, en één of twee infraroodpanelen voor plekken die zich slecht laten aansluiten of die je kort gebruikt. Een zolderkantoor dat niet op de vloerverwarming zit, of een badkamer voor een halfuur per dag.
 
-**"Infrarood vereist geen onderhoud."**
-Klopt. Een warmtepomp wel: 100-180 euro per jaar. Maar over 15 jaar is dat 1.500-2.700 euro — peanuts vergeleken met het stroomverschil van 40.000+ euro.
+De investering in die twee panelen is beperkt en het verbruik blijft laag zolang de gebruiksduur laag blijft. Het is een comfortkeuze in de marge van een systeem dat verder efficiënt is — en dat is iets anders dan infrarood als hoofdverwarming.
 
-**"Infrarood is sneller warm."**
-Inderdaad, een IR-paneel is binnen 2 minuten op temperatuur. Maar moderne warmtepompen met goede regelaar reageren snel genoeg voor permanent bewoonde ruimtes.
+## Comfort, gezondheid en koeling
 
-## Wanneer infrarood echt de betere keuze is
+Wat feitelijk verschilt:
 
-Concrete situaties waarin de rekensom in het voordeel van IR uitvalt:
+- **Luchtbeweging.** Infrarood veroorzaakt geen luchtstroom, wat sommige mensen als prettig ervaren. Een warmtepomp met vloerverwarming doet dat overigens ook niet; met radiatoren of met een lucht-luchtsysteem wel.
+- **Droge lucht.** Het idee dat infrarood de lucht minder uitdroogt, is een misverstand. De relatieve luchtvochtigheid daalt bij elke methode die de luchttemperatuur verhoogt.
+- **Koelen.** Een warmtepomp kan in de zomer koelen, een infraroodpaneel niet. Naarmate de Nederlandse zomers warmer worden, weegt dat zwaarder mee dan een paar jaar geleden.
 
-- **Tuinhuis met thuiswerkplek 2 dagen per week**: 1 paneel van 600W, 250 euro, jaarverbruik circa 200 kWh = 60 euro. Warmtepomp niet rendabel.
-- **Badkamer 8 m2**: 1 paneel van 350-500W als bijverwarming. Hoofdverwarming via warmtepomp.
-- **Onverwarmde garage** voor klusuurtjes: 1 paneel, alleen aan tijdens gebruik.
-- **Slaapkamer die zelden wordt gebruikt** (logeerkamer): paneel als seizoensoplossing.
-- **Tijdelijke huur** waarbij je geen warmtepomp mag installeren: per kamer 1 paneel als overgang.
+## Levensduur en garantie
 
-## Combinatie met zonnepanelen — kan dat helpen?
+Infraroodpanelen hebben geen bewegende delen en gaan lang mee; de wettelijke conformiteitsplicht geldt onverkort, en verschillende fabrikanten geven daarbovenop een langere productgarantie op het verwarmingselement. Bij een defect vervang je meestal het hele paneel.
 
-Theoretisch ja, praktisch nauwelijks. Het probleem: je verwarmt vooral in november-februari. In die maanden levert een 12-paneel zonnedak 50-150 kWh per maand op. Je verwarmingsbehoefte is in dezelfde maanden 1.500-3.000 kWh. Het gat is enorm.
+Een warmtepomp heeft een compressor en een koudemiddelkringloop en vraagt daardoor periodiek onderhoud. Daar staat een vergelijkbare technische levensduur tegenover, en bij een storing een reparatie in plaats van vervanging van het hele systeem.
 
-Bij dynamisch contract (Tibber, Frank, ANWB) kun je IR-panelen aansturen op goedkope uren. Dat scheelt 10-25 procent. Maar zelfs een infrarood-installatie gestookt op 0,15 euro/kWh kost meer dan een warmtepomp op 0,35 euro/kWh — door het rendementsverschil.
+## De CO₂-kant
 
-Lees [dynamisch vs vast contract 2026](/posts/dynamisch-vs-vast-contract-2026/) en [smart home energiebeheer 2026](/posts/smart-home-energiebeheer-2026/).
+De emissiefactor van Nederlandse elektriciteit lag in maart 2026 rond de 0,21 kg CO₂ per kWh volgens het Nationaal Energie Dashboard, en die factor daalt al jaren door het groeiende aandeel hernieuwbare opwek.
 
-## Subsidies en financiering
+Omdat een infraroodinstallatie voor dezelfde warmte drie tot vier keer zoveel kilowatturen vraagt, is de bijbehorende uitstoot ook drie tot vier keer zo hoog — ongeacht hoe groen het net wordt. Groene stroom inkopen verandert de administratieve toerekening, niet de verhouding tussen de twee systemen.
 
-Voor een warmtepomp krijg je 2.500-5.500 euro ISDE-subsidie en vaak nog gemeentelijke aanvullingen. Bekijk je opties via <a href="https://go.duurzaamthuislab.nl/isde" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">RVO ISDE-pagina</a>.
+## Over de gasregels
 
-Voor infrarood is geen ISDE beschikbaar. Sommige gemeentes hebben een algemene duurzaamheidslening waarmee je IR-panelen kunt financieren tegen 1,5-2,5 procent rente. Maar lenen om dure stroom te verbruiken is geen goede strategie.
+Nieuwbouwwoningen krijgen in Nederland al sinds **1 juli 2018** in beginsel geen gasaansluiting meer; dat is geen nieuwe regel van 2026. Voor bestaande bouw geldt geen verplichting om over te stappen, en de aangekondigde hybride-verplichting bij ketelvervanging is **ingetrokken**, niet uitgesteld.
 
-## Comfort en gezondheid
+Wie in een gasloze nieuwbouwwoning infrarood als hoofdverwarming overweegt, doet er goed aan eerst een offerte voor een goed gedimensioneerde warmtepomp op te vragen. In nieuwbouw is de warmtevraag laag en de installatie relatief eenvoudig, en de ISDE geldt daar ook.
 
-Wat wel waar is: infrarood geeft een ander soort warmte dan een warmtepomp. Sommige mensen ervaren IR-warmte als prettiger — vergelijkbaar met zonnewarmte op je huid. De meeste mensen merken het verschil nauwelijks zodra ze in een ruimte zijn met stabiel klimaat.
+## Veelgemaakte fouten bij infraroodinstallaties
 
-Kritische verschillen:
+**Te weinig vermogen.** Eén paneel van 800 watt voor een ruimte van 25 m² is te krap. Het paneel draait dan continu zonder resultaat, wat het verbruik juist opdrijft.
 
-- **Geen luchtbeweging bij IR**: voor allergiepatienten kan dat prettig zijn (geen stof in beweging). Een warmtepomp met vloerverwarming heeft ook geen luchtbeweging. Met radiatoren wel.
-- **Drogere lucht bij IR is een mythe**: relatieve luchtvochtigheid daalt bij elke verwarmingsmethode die luchttemperatuur verhoogt. Geen verschil tussen IR en warmtepomp.
-- **Warmtepomp als koeling**: in zomer kan een warmtepomp ook koelen (3-5 graden onder buitentemperatuur). IR-panelen kunnen dat niet. In de toekomstige Nederlandse zomers met regelmatig 32+ graden weken is dat een groot voordeel.
+**Verkeerde montageplek.** Een plafondpaneel richt zijn straling vooral op hoofdhoogte. Bij hoge plafonds verlies je effect; voor een zit- of werkplek is wandmontage vaak effectiever.
 
-## Onderhoud en levensduur
+**Verkeerde verwachting over opwarmtijd.** De stralingswarmte voel je vrijwel meteen, maar de luchttemperatuur in de ruimte stijgt langzaam. Wie de hele ruimte warm wil hebben, moet met kwartieren rekenen, niet met minuten.
 
-**IR-paneel:**
-- Geen bewegende onderdelen, geen koudemiddel
-- Geen onderhoud, alleen stof afnemen
-- Levensduur 15-25 jaar (LED-stuurprint of weerstandselementen)
-- Bij defect: simpelweg paneel vervangen, 250-450 euro
+**Vergelijken op aanschafprijs.** Reken altijd vijftien jaar verbruik door, met een realistische gebruiksduur en een realistisch tarief.
 
-**Warmtepomp:**
-- Compressor en koudemiddelcyclus
-- Jaarlijks onderhoud aanbevolen, 100-180 euro
-- Levensduur 15-20 jaar
-- Bij defect: reparatie 300-1.500 euro of vervanging 8.000-13.000 euro
+## Conclusie
 
-Op onderhoudskosten lijkt IR aantrekkelijker. Maar het verschil is over 15 jaar 1.500-2.700 euro — peanuts vergeleken met de 40.000+ euro stroomverschil.
+Infraroodverwarming heeft een duidelijke plek: als bijverwarming, in ruimten die je kort of zelden gebruikt, en in woningen met een uitzonderlijk lage warmtevraag. Daar is de lage investering en het ontbreken van installatiewerk doorslaggevend.
 
-## Hoe een hybride aanpak werkt
+Voor de hoofdverwarming van een gewone Nederlandse woning is het dat niet. Het rendementsverschil van factor drie à vier is te groot om met tarieven, subsidies of slimme sturing te overbruggen. De warmtepomp is duurder in aanschaf en verdient dat verschil in gebruik terug.
 
-In sommige situaties is een combinatie van beide het meest logisch. Een rekenvoorbeeld:
-
-- Hoofdverwarming via warmtepomp (woonkamer, slaapkamer, hal)
-- 1 IR-paneel in een zolderkantoor dat 6 uur per dag wordt gebruikt — een zolder is vaak moeilijk te koppelen aan vloerverwarming
-- 1 IR-paneel in de badkamer voor 's ochtends 20 minuten
-
-Totaal IR-investering: 600 euro. Stroomverbruik IR: circa 600 kWh per jaar = 180 euro. Acceptabel als luxe-oplossing voor twee specifieke gebruikssituaties, terwijl de rest van het huis efficient via warmtepomp wordt verwarmd.
-
-## Onze conclusie
-
-Infrarood verwarming heeft zijn plek — als bijverwarming, in niet-permanent bewoonde ruimtes, of in passiefhuizen met extreem lage warmtevraag. Voor de hoofdverwarming van een normale Nederlandse woning is een warmtepomp in 95 procent van de gevallen 2.500-4.000 euro per jaar goedkoper.
-
-De argumenten voor infrarood die je in advertenties hoort, kloppen technisch maar leiden tot verkeerde conclusies. Een warmtepomp is duurder in aanschaf, maar verdient die meerprijs binnen 3-5 jaar terug en bespaart daarna decennialang.
-
-Ons dringende advies: laat je niet verleiden door de lage instapprijs van IR-panelen. Reken altijd 15 jaar verbruik door bij realistisch warmtegebruik en realistische stroomtarieven. In bijna alle gevallen is een warmtepomp — al dan niet hybride — de slimme keuze.
-
-## Veelgemaakte rekenfouten met infrarood
-
-In offertes en advertenties komen dezelfde rekentrucs telkens terug:
-
-**1. "Infrarood verwarmt direct, dus minder uren nodig."**
-Theorie: panelen sneller op temperatuur dus korter aan. Praktijk: in een woonkamer staat de bewoner zelden in directe straling van het paneel. Effectieve gebruiksduur is 80-90 procent van wat een normale verwarming nodig heeft, niet 50 procent zoals adverteerders suggereren.
-
-**2. "Goedkope nachtstroom + infrarood = goedkoper dan warmtepomp."**
-Een warmtepomp kan ook draaien op goedkope nachtstroom (vooropladen buffervat). Bovendien blijft het rendementsverschil van factor 3-4 bestaan. 12.000 kWh op 0,15 euro is 1.800 euro. 3.000 kWh op 0,15 euro is 450 euro. Warmtepomp wint nog steeds.
-
-**3. "Infrarood is goed voor het milieu want geen koudemiddel."**
-Klopt: een warmtepomp gebruikt R32 of R290 koudemiddel. Maar de extra CO2-uitstoot door 3-4 keer meer stroomverbruik weegt zwaarder dan het lekkrisico van een goed onderhouden warmtepomp.
-
-**4. "Mijn buurman heeft het en is tevreden."**
-Anekdotisch bewijs. Vraag wat zijn jaarlijkse stroomrekening is, niet of hij er warm bij zit. In 9 van de 10 gevallen blijkt de jaarlijkse stroomrekening 2.500-4.000 euro hoger dan met een warmtepomp.
-
-## Wat betekent de ban op gas voor infrarood?
-
-Vanaf 2026 mogen nieuwbouwwoningen geen gasaansluiting meer krijgen. Dat geldt niet voor bestaande bouw. Voor verbouwingen geldt een toename van eisen, maar geen verplichting tot warmtepomp.
-
-Voor wie nu in een gasloze nieuwbouw infrarood overweegt: doe het niet. Een goed gedimensioneerde warmtepomp inclusief alle subsidies kost vaak maar 5.000-9.000 euro netto in nieuwbouw, en bespaart structureel 1.500-3.000 euro per jaar. Geen rationele case voor IR-hoofdverwarming.
-
-## Wanneer infrarood NIET de moeite waard is
-
-Naast de adviezen hierboven zijn er specifieke situaties waarin infrarood af te raden is:
-
-- **Permanent bewoonde woonkamer >30 m2.** De warmtevraag is te hoog. Verbruik schiet door 4.000 kWh per jaar voor één ruimte alleen. Onbetaalbaar bij stroom van €0,30/kWh.
-- **Slecht geisoleerde woning (label E-G).** Infrarood bij open spouw of enkelglas is geld verbranden. Eerst isoleren, dan pas verwarming kiezen.
-- **Huurders zonder eigen aansluiting.** De verhuurder rekent vaak geen meerverbruik op de stookkosten — maar bij stroomverbruik via je eigen meter wel. Een infrarood-installatie verdrievoudigt je elektriciteitsrekening.
-- **Woningen met bestaande vloerverwarming.** Vloerverwarming + warmtepomp is bijna altijd efficienter dan vloerverwarming + IR-bijverwarming. Het systeem is al gebouwd voor lage aanvoertemperatuur.
-- **Wie geen zonnepanelen heeft of plant.** Zonder eigen opwekking tegen een lage opwekkostprijs is infrarood altijd duurder dan een warmtepomp die op netstroom draait.
-
-## Veelgemaakte fouten bij infrarood-installatie
-
-Dit zijn de missers die in installatieverslagen en forumdiscussies het vaakst terugkomen:
-
-**1. Verkeerde wattage per m2 berekenen.** Vuistregel: 60-100 watt per m2 bij goed geisoleerd, 100-150 watt per m2 bij matig. Mensen kopen vaak één paneel van 800 watt voor een ruimte van 25 m2 — dat is te weinig. Het paneel draait dan continu zonder de ruimte echt warm te krijgen.
-
-**2. Plafondmontage zonder rekening te houden met warmtestraling.** Een plafondpaneel verwarmt het hoofd van de bewoner het meest. Bij hoge plafonds (>3 meter) verlies je veel effect — kies dan wandmontage op heuphoogte voor zit-werkplekken.
-
-**3. BTW vergeten in totaalberekening.** Een paneel van €299 lijkt goedkoop, maar bij 21 procent BTW kom je op €361 per stuk. Voor 6 panelen scheelt dat €372 — een aanzienlijk verschil bij de offerte-vergelijking.
-
-**4. Geen aparte groep in de meterkast.** Een paneel van 800 watt trekt 3,5 ampère. Drie panelen samen op één bestaande lichtgroep van 16A is te veel. Reken op €350-€600 voor een nieuwe groep door erkend installateur.
-
-**5. Verkeerde verwachting over opwarmtijd.** Verkopers beloven "binnen 2 minuten warm". De stralingswarmte is direct merkbaar, maar de luchttemperatuur in de ruimte stijgt traag (15-30 minuten). Bewoners die de hele ruimte willen opwarmen worden teleurgesteld.
-
-## Mini case-study: vakantiehuis Drenthe
-
-Familie B. (vakantiehuis 65 m2, gebruikt 25 weekenden per jaar, label B). Investeerde najaar 2024 in 4 IR-panelen (woonkamer 1000W, slaapkamer 600W, badkamer 350W, eetkamer 600W) plus slimme schakelaars per paneel via Shelly. Totale investering inclusief BTW: €2.310. Geen ISDE want infrarood valt buiten de regeling.
-
-Verbruik gemeten over 12 maanden via P1-meter: 1.870 kWh. Bij €0,32/kWh = €598 per jaar stookkosten. Vergelijkbare warmtepomp-investering zou €11.500 inclusief installatie hebben gekost — bij 25 weekenden gebruik niet rendabel terug te verdienen. De familie schakelt panelen aan via dynamisch contract op goedkope uren ('s nachts voorverwarmen, overdag bijregelen).
-
-Conclusie: voor laag-frequent gebruik is infrarood hier de juiste keuze. Bij permanent bewonen zou de jaarrekening boven €4.000 zijn uitgekomen — dan was warmtepomp slimmer geweest.
-
-## Garantie, levensduur en BTW
-
-IR-panelen vallen onder reguliere consumentengarantie van 2 jaar (wettelijk minimum). Goede merken (Frico, Welltherm, Vasner) bieden 5-10 jaar productgarantie op het verwarmingselement. Defectkans is laag — er zijn geen bewegende onderdelen. Bij defect vervang je het hele paneel voor €250-€450.
-
-BTW op IR-panelen is 21 procent. Sinds 2023 geldt het verlaagde BTW-tarief van 0 procent op zonnepanelen, maar dat geldt expliciet niet voor verwarmingspanelen. Een offerte zonder BTW-vermelding is een rode vlag — vraag altijd bruto- en netto-prijs.
-
-Voor een warmtepomp geldt 21 procent BTW maar je krijgt netto via ISDE €2.500-€5.500 terug. Het netto verschil tussen IR-installatie en warmtepomp valt na subsidie dus nog kleiner uit dan de bruto-prijs suggereert.
-
-## Drie aanvullende vragen
-
-**Mag een verhuurder verbieden dat ik infrarood-panelen installeer?**
-Ja. Vaste installaties (boren, bedrading) vallen onder huurdersbescherming maar wel met toestemming. Een huurder die in een sociale woning IR-panelen plaatst zonder schriftelijke toestemming kan bij oplevering aansprakelijk gesteld worden. Voor losse plug-in panelen op een stopcontact heb je geen toestemming nodig.
-
-**Hoe verhoudt infrarood zich tot een airco met warmtepompfunctie?**
-Een mono-split airco met warmtepompfunctie heeft een COP van 3,5-4,5 — vergelijkbaar met een lucht-water warmtepomp maar dan voor één ruimte. Investering €1.200-€2.000 inclusief installatie. Voor een 30 m2 ruimte met permanent gebruik bijna altijd goedkoper dan IR. Verschil: airco kan ook koelen 's zomers.
-
-**Wat is het echte CO2-verschil per kWh?**
-Bij Nederlandse stroommix in 2026 (steeds groener): circa 280 gram CO2 per kWh. IR-paneel verbruikt 4× meer kWh dan warmtepomp voor dezelfde warmte = 4× zoveel CO2. Een warmtepomp op groene stroom (Vandebron, Pure Energie) zit op 0-50 gram CO2 per kWh warmte. Verschil over 15 jaar: tonnen CO2.
+Laat je dus niet leiden door de instapprijs, maar door de vraag hoeveel uren per jaar het toestel echt gaat draaien. Dat ene getal bepaalt het antwoord.
 
 Verder lezen:
+
 - [Beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/)
-- [Beste hybride warmtepomp 2026](/posts/beste-hybride-warmtepomp-2026/)
+- [Hybride warmtepomp kiezen in 2026](/posts/beste-hybride-warmtepomp-2026/)
 - [Warmtepomp vs cv-ketel 2026](/posts/warmtepomp-vs-cv-ketel-2026/)
 - [Warmtepomp installatie kosten 2026](/posts/warmtepomp-installatie-kosten-2026/)
 - [Beste isolatie voor warmtepomp 2026](/posts/beste-isolatie-voor-warmtepomp-2026/)
 - [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/)
-- [Pellet kachel vs warmtepomp 2026](/posts/pellet-kachel-vs-warmtepomp-2026/)
+- [Pelletkachel vs warmtepomp 2026](/posts/pellet-kachel-vs-warmtepomp-2026/)
 - [Smart home energiebeheer 2026](/posts/smart-home-energiebeheer-2026/)
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+*Laatst bijgewerkt: 21 augustus 2026. ISDE-voorwaarden gecontroleerd op rvo.nl; CO₂-emissiefactor elektriciteit via het Nationaal Energie Dashboard — beide op 21 augustus 2026.*
+
+---
+
+**Externe bron:** [RVO — ISDE-subsidie](https://www.rvo.nl/subsidies-financiering/isde) — officiële voorwaarden en overzicht van subsidiabele technieken.

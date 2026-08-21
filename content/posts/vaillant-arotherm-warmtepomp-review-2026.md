@@ -1,8 +1,8 @@
 ---
-title: Vaillant aroTHERM plus review 2026
+title: 'Vaillant aroTHERM plus review 2026'
 date: 2026-08-01 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: De Vaillant aroTHERM plus is een van de meest besproken warmtepompen van 2026. Wij namen de specificaties, de kosten en drie typische woningscenario's door.
+lastmod: 2026-08-21 08:00:00+02:00
+description: 'De Vaillant aroTHERM plus werkt op propaan, haalt een hoge opgegeven prestatie en komt tot 75°C aanvoer. Wij namen de specificaties, de kosten en drie doorgerekende woningscenario''s door.'
 categories:
 - warmtepompen
 tags:
@@ -28,355 +28,278 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-- q: Wat kost een Vaillant aroTHERM plus warmtepomp in 2026?
-  a: Een Vaillant aroTHERM plus kost €9.500 tot €14.000 inclusief 0% btw, exclusief montage. De prijs hangt af van het vermogen (3,5 kW tot 12 kW) en de binnenunit die erbij geleverd wordt. Montage kost doorgaans €1.500 tot €3.000 extra, afhankelijk van de complexiteit. Na ISDE-subsidie (€2.500 tot €4.500) kom je netto op €8.500 tot €12.500 inclusief alles.
-- q: Wat is de SCOP van de Vaillant aroTHERM plus?
-  a: De Vaillant aroTHERM plus heeft een SCOP van 5,0 tot 5,4, afhankelijk van het vermogensmodel en de aanvoertemperatuur. SCOP A7/W35 (het meest gebruikte vergelijkingspunt) is voor de 7 kW variant circa 5,1 — dat behoort tot de beste in zijn klasse. Bij hogere aanvoertemperaturen (55°C voor oudere radiatoren) daalt de SCOP naar circa 3,8.
-- q: Waarom gebruikt de Vaillant aroTHERM plus R290 als koudemiddel?
-  a: R290 is propaan — een natuurlijk koudemiddel met een GWP (Global Warming Potential) van slechts 3, tegenover 675 voor R32 en 2.088 voor R410A. Dat maakt R290 aanzienlijk milieuvriendelijker bij eventuele lekkage. Het nadeel is dat propaan licht ontvlambaar is, wat extra installatievereisten meebrengt (buiten plaatsing van de buitenunit, geen installatie in besloten ruimtes). In de praktijk is dit veilig mits correct geïnstalleerd.
-- q: Kan ik ISDE-subsidie aanvragen voor de Vaillant aroTHERM plus?
-  a: Ja. De Vaillant aroTHERM plus staat op de ISDE-lijst van RVO. De subsidie is €2.500 tot €4.500, afhankelijk van het vermogen. De aanvraag moet vóór start van de installatie worden ingediend door een erkende installateur. Vaillant-installateurs zijn doorgaans gecertificeerd voor ISDE-aanvragen.
-- q: Hoe stil is de Vaillant aroTHERM plus?
-  a: 'De aroTHERM plus is een van de stilste warmtepompen in zijn klasse: 33 dB(A) bij volledige belasting, gemeten op 1 meter afstand van de buitenunit. Ter vergelijking: een normaal gesprek is circa 60 dB(A). ''s Nachts moduleert het systeem naar zeer lage belasting, wat het geluid verder reduceert. In de praktijk hoor je hem nauwelijks als de buurman hem niet actief zoekt.'
-- q: Werkt de Vaillant aroTHERM plus in een slecht geïsoleerde woning?
-  a: Dat hangt af van het model en de bestaande radiatorengroep. De aroTHERM plus werkt het efficiëntst bij aanvoertemperaturen van 35–45°C (vloerverwarming of lage-temperatuur radiatoren). Bij slecht geïsoleerde woningen met hoge-temperatuur radiatoren (70°C) zakt de efficiëntie sterk. Vaillant biedt ook hybride configuraties aan waarbij een cv-ketel bijspringt — maar dat is een aparte installatie, niet de aroTHERM plus als standalone.
-- q: Wat is het verschil tussen de Vaillant aroTHERM plus en de aroTHERM exclusive?
-  a: De aroTHERM plus (R290) is de nieuwste generatie met het milieuvriendelijkere koudemiddel en hogere SCOP. De aroTHERM exclusive (oudere lijn, R32) is iets goedkoper maar heeft een lagere milieuscore. In 2026 is de plus-lijn de standaardaanbeveling.
-products:
-- name: Vaillant aroTHERM plus warmtepomp
-  url: https://go.duurzaamthuislab.nl/vaillant
-  price: '11500'
+- q: 'Wat kost een Vaillant aroTHERM plus in 2026?'
+  a: 'Vaillant publiceert geen consumentenprijs en levert via installateurs. In Nederlandse offertes ligt het toestel zelf doorgaans tussen de €9.500 en €14.000 inclusief 21% btw en exclusief montage, afhankelijk van het vermogen en de bijbehorende binnenunit; montage komt daar met €1.500 tot €3.000 bovenop. Dat zijn marktrichtprijzen, geen fabrikantsprijzen. Let op: het 0%-btw-tarief geldt alleen voor zonnepanelen, niet voor warmtepompen.'
+- q: 'Wat is de prestatie van de Vaillant aroTHERM plus?'
+  a: 'Vaillant geeft voor de aroTHERM plus een COP tot circa 5,4 op bij het testpunt A7/W35 — dus bij +7°C buitentemperatuur en 35°C aanvoertemperatuur. Dat is een fabrikantsopgave bij een vastgesteld testpunt, geen jaarprestatie in een woning. Bij een hogere aanvoertemperatuur, bijvoorbeeld met bestaande radiatoren, ligt de werkelijke seizoensprestatie duidelijk lager.'
+- q: 'Waarom gebruikt de Vaillant aroTHERM plus R290 als koudemiddel?'
+  a: 'R290 is propaan: een natuurlijk koudemiddel met een GWP van 3, tegenover 675 voor R32 en 2.088 voor R410A. Bij lekkage is het klimaateffect daarmee vele malen kleiner. Het nadeel is dat propaan brandbaar is, wat aanvullende eisen aan de plaatsing stelt en een monteur vraagt met een certificering voor brandbare koudemiddelen. Bij een buitenopstelling is dat in de praktijk goed te organiseren.'
+- q: 'Kan ik ISDE-subsidie aanvragen voor de Vaillant aroTHERM plus?'
+  a: 'Ja, mits het exacte typenummer op de ISDE-apparatenlijst van RVO staat. Let op de volgorde: je laat de warmtepomp eerst installeren en vraagt de subsidie daarna aan, binnen 24 maanden na de installatiedatum. Het bedrag hangt af van het apparaat; reken het na met de ISDE-rekentool van RVO en het typenummer uit je offerte.'
+- q: 'Hoe stil is de Vaillant aroTHERM plus?'
+  a: 'Vaillant geeft voor de fluistermodus een geluidsdruk van circa 28 dB(A) op 3 meter afstand op. Let goed op wat een fabrikant precies noemt: geluidsvermogen en geluidsdruk zijn verschillende grootheden, en een geluidsdrukwaarde zegt alleen iets in combinatie met de afstand. Voor de toets op de perceelgrens is een berekening nodig, geen enkel getal uit een folder.'
+- q: 'Werkt de Vaillant aroTHERM plus in een slecht geïsoleerde woning?'
+  a: 'Technisch wel — het toestel komt tot een hoge aanvoertemperatuur en kan daarmee bestaande radiatoren bedienen. Rendabel is iets anders: hoe hoger de aanvoertemperatuur, hoe lager de seizoensprestatie en hoe langer de terugverdientijd. In een slecht geïsoleerde woning is isoleren of een hybride opstelling in de regel de verstandiger eerste stap.'
+- q: 'Wat is het verschil tussen de aroTHERM plus en oudere aroTHERM-modellen?'
+  a: 'De aroTHERM plus werkt op R290 en heeft een hogere opgegeven prestatie en een hogere maximale aanvoertemperatuur dan de oudere lijnen op R32. Welke uitvoering je krijgt, staat in het typenummer in je offerte — vraag dat op en leg het naast de datasheet en de ISDE-apparatenlijst.'
 schema_type: Review
 ---
-Vaillant is bij Nederlandse installateurs een gevestigde naam, opgebouwd met cv-ketels die decennia meegaan. In de warmtepompmarkt moest het merk de Japanse concurrentie (Daikin, Mitsubishi) en ATAG inhalen. Met de aroTHERM plus lijkt dat gelukt: op papier heeft dit toestel de hoogste SCOP en het laagste geluidsniveau in zijn klasse, en het werkt op propaan in plaats van een F-gas.
+*Disclosure: DuurzaamThuisLab heeft geen affiliate- of commissierelatie met Vaillant of met Vaillant-installateurs (stand augustus 2026). Dit artikel bevat geen affiliate-links. Onze analyse is gebaseerd op fabrieksspecificaties, handleidingen en publieke bronnen.*
 
-Wij hebben de technische documentatie, de ISDE-registratie en de gangbare installatiekosten doorgenomen, en de uitkomst doorgerekend voor drie typische Nederlandse woningen.
+Vaillant is bij Nederlandse installateurs een gevestigde naam, opgebouwd met cv-ketels die decennia meegaan. In de warmtepompmarkt moest het merk de Japanse concurrentie inhalen. Met de aroTHERM plus is dat grotendeels gelukt: op papier heeft dit toestel een van de hoogste opgegeven prestaties in zijn klasse, een uitzonderlijk laag geluidsniveau in fluistermodus, en het werkt op propaan in plaats van op een F-gas.
 
-*Disclosure: wij hebben geen commerciële relatie met Vaillant of een van hun installateurs. Deze analyse is gebaseerd op fabrieksspecificaties, handleidingen en publieke bronnen.*
-
----
-
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** De Vaillant aroTHERM plus is een van de meest besproken warmtepompen van 2026. Wij namen de specificaties, de kosten en drie typische woningscenario's door.
->
-> Een Vaillant aroTHERM plus kost €9.500 tot €14.000 inclusief 0% btw, exclusief montage. De prijs hangt af van het vermogen (3,5 kW tot 12 kW) en de binnenunit die erbij geleverd wordt. Montage kost doorgaans €1.500 tot €3.000 extra, afhankelijk van de complexiteit. Na ISDE-subsidie (€2.500 tot €4.500) kom je netto op €8.500 tot €12.500 inclusief alles.
-
-## Vaillant: 150 jaar cv-ervaring, nu in warmtepompen
-
-Vaillant is opgericht in 1874 in Remscheid, Duitsland. Ze begonnen met geisers en cv-ketels en zijn inmiddels actief in meer dan 60 landen. In Nederland zijn ze bekend via hun cv-ketelnetwerk — elke loodgieter kent het merk.
-
-De overstap naar warmtepompen was logisch, maar niet vanzelfsprekend. Warmtepompen zijn een ander soort product dan een cv-ketel: minder mechanisch, meer elektrisch en digitaal. De eerste Vaillant warmtepompen (aroTHERM serie 1 en 2) kregen gemengde recensies — goede hardware, maar software en app bleven achter.
-
-De aroTHERM plus (derde generatie, geïntroduceerd in 2023) is duidelijk beter. Het meest opvallende verschil: het koudemiddel is gewisseld van R32 naar **R290 (propaan)**. Dat is een strategische keuze die Vaillant onderscheidt van Daikin (R32) en Bosch (R32) en hem mee in de koplopers plaatst op milieuvriendelijkheid.
+Wij hebben de technische documentatie, de ISDE-voorwaarden en de gangbare installatiekosten doorgenomen, en de uitkomst doorgerekend voor drie typische Nederlandse woningen. Wij hebben dit toestel niet zelf geïnstalleerd of gemeten; de scenario's hieronder zijn modelberekeningen met expliciete aannames.
 
 ---
 
-## Technische specificaties
+> **Kort antwoord:** de aroTHERM plus combineert drie dingen die zelden samengaan: een hoge opgegeven prestatie, een aanvoertemperatuur die hoog genoeg is voor bestaande radiatoren, en een natuurlijk koudemiddel met een GWP van 3. De prijs ligt boven die van de grote concurrenten, en niet elke installateur is gecertificeerd voor brandbare koudemiddelen.
 
-| Kenmerk | Vaillant aroTHERM plus VWL 35–125/6 |
+## Vaillant: van cv-ketels naar warmtepompen
+
+Vaillant is in 1874 opgericht in Remscheid, Duitsland, begon met geisers en cv-ketels en is inmiddels in tientallen landen actief. In Nederland kent vrijwel elke installateur het merk via de ketellijn.
+
+De overstap naar warmtepompen was logisch maar niet vanzelfsprekend: een warmtepomp is een ander type product, minder mechanisch en meer elektronisch. De eerste generaties kregen gemengde recensies — degelijke hardware, achterblijvende software.
+
+Met de aroTHERM plus is dat beeld gekanteld. Het meest opvallende verschil met de vorige generaties is het koudemiddel: **R290, propaan**. Dat is een strategische keuze die Vaillant onderscheidt van merken die op R32 blijven, en die het toestel bovendien in staat stelt hoger op te warmen.
+
+---
+
+## Wat Vaillant opgeeft
+
+| Kenmerk | Opgave van Vaillant |
 |---|---|
-| Type | Lucht-water, mono (all-electric) |
-| Vermogen | 3,5 – 12,5 kW (meerdere modellen) |
-| Koudemiddel | R290 (propaan, GWP = 3) |
-| SCOP (A7/W35) | 5,0 – 5,4 (modelafhankelijk) |
-| Max. aanvoertemperatuur | 75°C (aanvulling elektrisch) / 55°C (warmtepomp alleen) |
-| Werkbereik buitentemperatuur | -20°C tot +43°C |
-| Geluidsniveau buitenunit | 33 – 42 dB(A) bij vollast |
-| Modulatiebereik | 30% – 100% (inverter-gestuurd) |
-| App | Vaillant myVAILLANT Pro |
-| Btw-tarief | 0% |
-| Garantie | 5 jaar warmtepomp, 10 jaar compressor |
-| Prijs (incl. 0% btw, excl. montage) | €9.500 – €14.000 |
-| ISDE-subsidie 2026 | €2.500 – €4.500 |
+| Type | Lucht-water, monoblock, all-electric |
+| Vermogensbereik | circa 3,5 tot 12 kW, meerdere modellen |
+| Koudemiddel | R290 (propaan), GWP 3 |
+| COP bij A7/W35 | tot circa 5,4, modelafhankelijk |
+| Maximale aanvoertemperatuur | tot 75°C |
+| Modulatie | invertergestuurd, met een ruim regelbereik |
+| Geluid | circa 28 dB(A) geluidsdruk op 3 meter in fluistermodus |
+| Btw-tarief | 21% |
 
-**SCOP A7/W35** is het standaard testpunt: buitentemperatuur +7°C, aanvoertemperatuur 35°C. Een SCOP van 5,1 is uitzonderlijk goed. In de praktijk — met wisselende buitentemperaturen en een mix van 35°C en 45°C aanvoer — verwachten wij een werkelijke seizoensprestatiefactor van 3,8 tot 4,5 in een gemiddeld Nederlands klimaat.
+*Bron: productdocumentatie en handelsinformatie Vaillant aroTHERM plus (geraadpleegd 21 augustus 2026). Vraag altijd de datasheet van het exacte typenummer uit je offerte op — de waarden verschillen per model.*
 
-Het modulatiebereik van 30% tot 100% is een sleutelpunt. Een warmtepomp die kan terugschakelen naar 30% van zijn nominaal vermogen hoeft veel minder te "aan/uit-cyclen" dan een model dat pas bij 70% inschakelt. Minder cycli = minder slijtage = langere levensduur, en betere efficiëntie bij milde buitentemperaturen.
+**Over het testpunt.** A7/W35 betekent: +7°C buiten, 35°C aanvoer. Een COP van rond de 5 bij dat punt is uitzonderlijk goed, maar het is een testwaarde. In de praktijk — met wisselende buitentemperaturen en een mix van 35°C en 45°C aanvoer — is een werkelijke seizoensprestatie van 3,8 tot 4,5 in een gemiddeld Nederlands klimaat een realistischer verwachting. Reken daar ook mee in je terugverdientijd.
+
+**Over de aanvoertemperatuur.** Dit is het meest onderschatte punt van dit toestel. De meeste lucht-water warmtepompen in dit segment stoppen rond de 55 tot 60°C. Eentje die tot 75°C komt, kan bestaande radiatoren bedienen zonder dat je ze eerst vergroot. Dat is niet efficiënt — hoe hoger de aanvoer, hoe lager het rendement — maar het maakt de warmtepomp wel toepasbaar in woningen waar andere modellen afvallen.
+
+**Over de modulatie.** Een warmtepomp die ver kan terugregelen, hoeft op milde dagen niet steeds aan en uit te schakelen. Minder starts betekent minder slijtage en een beter rendement in de herfst en het voorjaar — precies de maanden met de meeste draaiuren.
 
 ---
 
-## R290: wat betekent propaan als koudemiddel in de praktijk?
+## R290: wat propaan in de praktijk betekent
 
-Bij elke Vaillant-installatie komt dezelfde vraag terug: "Zit er propaan in? Is dat gevaarlijk?"
+Bij vrijwel elke offerte komt dezelfde vraag terug: "Zit er propaan in? Is dat gevaarlijk?"
 
-Het antwoord is genuanceerd.
+**R290 is brandbaar** — dat klopt. Maar de hoeveelheid koudemiddel in een woningwarmtepomp is klein, het circuit is volledig gesloten, en de buitenunit staat buiten. Bij normale werking komt er geen propaan vrij.
 
-**R290 (propaan) is licht ontvlambaar** — dat klopt. Maar de hoeveelheid koudemiddel in een warmtepomp is zeer klein (typisch 500–800 gram) en het systeem is volledig gesloten. Bij normale werking komt er geen propaan vrij. Lekkage is theoretisch mogelijk, maar de veiligheidsmarges zijn ontworpen voor buitenopstelling — precies waar de buitenunit van de aroTHERM plus staat.
+De milieuwinst is concreet: R290 heeft een GWP van 3, tegenover 675 voor R32 en 2.088 voor R410A. Bij een volledige lekkage is het klimaateffect vele malen kleiner dan bij een vergelijkbare R32-installatie.
 
-**De milieuresultaten zijn concreet:**
-- R290 GWP: 3
-- R32 GWP: 675
-- R410A GWP: 2.088
+**Praktische gevolgen voor de installatie:**
 
-Als er bij de aroTHERM plus een volledige lekkage optreedt (worst case), is het klimaateffect 225 keer kleiner dan bij een vergelijkbare R32-installatie. Over 15 jaar levensduur telt dat mee.
+- De buitenunit hoort buiten, niet in een besloten garage of kelder
+- De monteur moet gecertificeerd zijn voor brandbare koudemiddelen (categorie A3), bovenop het reguliere F-gassencertificaat
+- De fabrikant schrijft minimale afstanden voor tot ventilatieopeningen, elektrische installaties en ontstekingsbronnen; die staan in de installatiehandleiding en zijn bindend
+- Voor de bewoner verandert er in het dagelijks gebruik niets
 
-**Praktische installatievereisten voor R290:**
-- Buitenunit buiten plaatsen (standaard toch al)
-- Installateur moet gecertificeerd zijn voor brandbare koudemiddelen (F-gassen certificaat voor klasse A3)
-- Niet installeren in besloten garages of kelders
-- In de praktijk: geen extra complexiteit voor de bewoner
+Controleer de A3-certificering bij het aanvragen van offertes. Niet elke installateur heeft die.
 
 ---
 
 ## Drie doorgerekende woningscenario's
 
-### Scenario 1 — Vrijstaande woning, bouwjaar 2003, label B
+Alle drie zijn **modelberekeningen** met expliciete aannames, geen gemeten installaties. Prijsaannames: gas €1,05/m³ inclusief vastrecht en transport, elektriciteit €0,23/kWh, prijspeil 2026. De warmtevraag is telkens afgeleid uit het gasverbruik met de vuistregel 8,8 kWh warmte per m³ gas maal een ketelrendement van 0,9. Investeringsbedragen zijn richtprijzen uit de markt, inclusief 21% btw, vóór subsidie.
 
-**Situatie:** 160 m², vloerverwarming in woonkamer + begane grond, radiatoren op verdieping (55°C aanvoer). Gezin van vier. Gasverbruik voor installatie: 2.800 m³/jaar.
+### Scenario 1 — vrijstaande woning uit 2003, label B
 
-**Gekozen model:** aroTHERM plus VWL 75/6 (7,5 kW), met uniTOWER binnenunit.
+**Situatie:** 160 m², vloerverwarming op de begane grond, radiatoren op de verdieping die naar lage temperatuur worden omgebouwd. Gasverbruik vóór installatie: 2.800 m³ per jaar.
 
-**Kosten:**
-- Apparaat + installatie: €15.200 (inclusief aanpassing radiatoren verdieping naar lage-temp)
-- ISDE: €3.800
-- Netto investering: €11.400
+- Warmtevraag: 2.800 × 8,8 × 0,9 ≈ **22.200 kWh**
+- Aangenomen seizoensprestatie: 4,0 → stroomverbruik circa **5.550 kWh**
+- Nieuwe stroomkosten: 5.550 × €0,23 = **€1.277**
+- Vervallen gaskosten: 2.800 × €1,05 = **€2.940**
+- **Besparing: circa €1.663 per jaar**
+- Investering inclusief aanpassing radiatoren: circa €15.200 vóór subsidie
+- Terugverdientijd vóór subsidie: circa **9,1 jaar** — met ISDE korter
 
-**Uitkomst van het model (12 maanden, gasprijs €1,05/m³, stroomprijs €0,23/kWh):**
-- Gasverbruik: 0 m³ (volledig van gas af)
-- Elektriciteitsverbruik warmtepomp: 4.200 kWh
-- Berekende SCOP: 3.800 kWh warmte (gebouwbehoefte) / 4.200 kWh elektra ≈ **4,45**
-- Oude gaskosten: 2.800 m³ × €1,05 = €2.940
-- Nieuwe elektriciteitkosten: 4.200 kWh × €0,23 = **€966**
-- Jaarlijkse besparing: **€1.974**
-- Terugverdientijd: €11.400 / €1.974 = **5,8 jaar**
+Bij dit woningtype is geluid vaak de tweede afweging na de kosten. Met een opgegeven fluistermodus van circa 28 dB(A) op 3 meter behoort dit toestel tot de stilste in zijn klasse, wat de opstelling in een krappe tuin aanzienlijk vereenvoudigt.
 
-Bij dit woningtype is het geluid vaak de tweede afweging na de kosten. Met de opgegeven 33 dB(A) is dit het stilste toestel in zijn klasse; op een afstand van 8 meter tot een slaapkamerraam blijft het geluidsniveau daarmee rekenkundig ruim onder de norm die het Bouwbesluit stelt. In gebruikersreviews is stilte consequent het meest genoemde positieve punt.
+### Scenario 2 — jaren-zestig rijtjeshuis, label D
 
-### Scenario 2 — Jaren-zestig rijtjeshuis, label D
+**Situatie:** 90 m², hoge-temperatuur radiatoren die niet worden vervangen, matig geïsoleerde spouwmuur. Gasverbruik: 2.100 m³ per jaar.
 
-**Situatie:** 90 m², hoge-temperatuur radiatoren (70°C aanvoer — niet vervangen), slecht geïsoleerde spouwmuur. Gasverbruik: 2.100 m³/jaar. Eigenaar wilde no-nonsense warmtepomp zonder grote renovatie.
+Dit is het scenario waarbij wij een volledig elektrische warmtepomp normaal gesproken relativeren. Het toestel kán deze woning verwarmen dankzij de hoge aanvoertemperatuur, maar dan werkt hij structureel op zijn ongunstigste punt.
 
-Dit is precies het scenario waarbij wij een volledige warmtepomp normaal gesproken afraden, of op zijn minst sterk relativeren.
+- Warmtevraag: circa **16.600 kWh**
+- Aangenomen seizoensprestatie bij hoge aanvoer: 3,0 → stroomverbruik circa **5.500 kWh**
+- Nieuwe stroomkosten: 5.500 × €0,23 = **€1.265**
+- Vervallen gaskosten: 2.100 × €1,05 = **€2.205**
+- **Besparing: circa €940 per jaar**
+- Terugverdientijd vóór subsidie bij een investering van circa €13.000: **circa 14 jaar**
 
-**Gekozen model:** aroTHERM plus VWL 35/6 (3,5 kW) in combinatie met een Vaillant ecoTEC cv-ketel als hybride setup (niet standaard door Vaillant aangeboden, maar wel gerealiseerd door een ervaren installateur via cascadeschakeling).
+De conclusie is niet dat het niet kan, maar dat isoleren hier eerst meer oplevert dan de warmtepomp. Elke graad die de aanvoertemperatuur omlaag kan, verkort deze termijn substantieel.
 
-**Uitkomst van het model (hybride opstelling, halfjaarbasis geëxtrapoleerd):**
-- De warmtepomp draait bij buitentemperaturen boven 5°C
-- Onder 5°C schakelt de cv-ketel bij
-- Gasverbruik eerste wintermaanden: 60% van vorig jaar
-- Extrapolatie: verwachte besparing circa **€800/jaar**
-- Netto investering (hybride setup): €9.200 (ISDE was lager vanwege hybride configuratie: €2.200)
-- Netto na subsidie: €7.000
-- Terugverdientijd verwacht: **8–9 jaar**
+### Scenario 3 — nieuwbouwwoning uit 2018, label A+
 
-Dit is een eerlijk verhaal: de aroTHERM plus is goed, maar in een slecht geïsoleerde woning met hoge-temp radiatoren is hij suboptimaal. De besparing is kleiner, de terugverdientijd langer. Isoleren eerst loont hier meer.
+**Situatie:** 130 m², vloerverwarming, warmteterugwinning, 12 zonnepanelen, gasloos. Tot nu toe verwarmd met een elektrisch weerstandselement.
 
-### Scenario 3 — Nieuwbouwwoning 2018, label A+
+- Warmtevraag: circa **11.500 kWh**
+- Aangenomen seizoensprestatie bij 35°C aanvoer: 4,5 → stroomverbruik circa **2.550 kWh**
+- Stroomkosten: 2.550 × €0,23 = **€587**
+- Ter vergelijking: dezelfde warmtevraag met een weerstandselement (rendement 1) vraagt circa 11.500 kWh en kost circa **€2.645**
+- **Besparing: circa €2.058 per jaar**
 
-**Situatie:** 130 m², vloerverwarming, warmte-terugwinning, 12 zonnepanelen. Gasloze woning — warmtepomp was altijd al de plan, maar de bouwer had een elektrische weerstandsverwarmer geplaatst als tijdelijke oplossing.
-
-**Gekozen model:** aroTHERM plus VWL 55/6 (5,5 kW), met uniTOWER en geïntegreerde boiler 185L.
-
-**Uitkomst van het model:**
-- Jaarlijks warmtepompverbruik: 2.800 kWh
-- Verwachte SCOP: **5,2** — de labelwaarde is bij aanvoer op 35°C in een A+-woning realistisch
-- Elektriciteitkosten warmtepomp: 2.800 × €0,23 = **€644**
-- Hiervan dekt zonne-overschot circa 1.200 kWh → effectieve kosten: 1.600 × €0,23 = **€368**
-- Ter vergelijking: dezelfde woning met een elektrische weerstandsverwarmer (COP 1) vraagt ruim 14.000 kWh en komt daarmee op meer dan €3.000 per jaar
-
-Dit laat zien wat er mogelijk is bij een A+-woning met zonnepanelen en een warmtepomp: verwarming en warm water voor rond de **€370 per jaar** in het model.
+Dit scenario laat zien wat een warmtepomp in de meest gunstige omstandigheden doet: lage aanvoertemperatuur, goed geïsoleerde schil, en een uitgangssituatie die energetisch het slechtst denkbare is.
 
 ---
 
-## Sterk: modulatie tot 30% — wat dat betekent in de praktijk
+## Besparingsberekening uitgezet over de jaren
 
-De meeste warmtepompen moduleren van 50% tot 100% van het nominale vermogen. De aroTHERM plus gaat naar beneden tot 30%. Dat klinkt als een technisch detail, maar het heeft concrete gevolgen.
+Modelberekening voor een tussenwoning uit 1990, label C, verbeterd naar label B na dakisolatie, met de aanvoertemperatuur teruggebracht naar 45°C via radiatorvervanging. Gasverbruik vóór de ingreep: 2.200 m³ per jaar.
 
-**Scenario:** het is 10°C buiten, je woning heeft weinig warmtevraag. Een warmtepomp die niet laag genoeg kan moduleren, gaat aan en uit — "cykling". Bij elke start verbruikt hij meer energie dan bij doorlopend werken. Meer cycli = meer slijtage.
+| Post | Bedrag |
+|---|---|
+| Aanschaf toestel plus binnenunit | €12.500 |
+| Montage inclusief aanpassing hydrauliek | €2.200 |
+| Totale investering inclusief 21% btw | €14.700 |
+| ISDE-subsidie | afhankelijk van typenummer, zie hieronder |
 
-De aroTHERM plus draait bij 10°C buiten op 30% vermogen — hij hoeft niet uit te schakelen. Dat is efficiënter én stiller. In de herfst en lente, de maanden met de meeste draaiuren, haalt hij daarmee zijn beste prestaties.
+Bij een warmtevraag van circa 17.400 kWh en een aangenomen seizoensprestatie van 4,2 verbruikt de warmtepomp circa 4.150 kWh per jaar:
 
-In praktijkinstallatie 3 (Almere, A+ label) draaide het systeem meer dan 80% van de tijd tussen de 30% en 50% modulatie. Cycli per dag in april: gemiddeld 2. Bij een minder goed modulerende pomp zou dat 8–12 cycli zijn.
+- Nieuwe stroomkosten: 4.150 × €0,23 = **€955**
+- Vervallen gaskosten: 2.200 × €1,05 = **€2.310**
+- **Jaarlijkse besparing: circa €1.355**
+
+| Jaar | Cumulatieve besparing | Saldo t.o.v. €14.700 investering |
+|---|---|---|
+| 1 | €1.355 | −€13.345 |
+| 5 | €6.775 | −€7.925 |
+| 10 | €13.550 | −€1.150 |
+| 11 | €14.905 | **break-even** |
+| 15 | €20.325 | +€5.625 |
+
+Zonder subsidie ligt het break-evenpunt bij deze aannames rond jaar elf; met ISDE schuift dat naar voren. Wordt gas duurder, dan verkort dat de termijn; blijft je aanvoertemperatuur hoger dan aangenomen, dan verlengt hij. De verwachte technische levensduur van een lucht-water warmtepomp ligt op vijftien tot twintig jaar.
+
+*Aannames: gas €1,05/m³, elektriciteit €0,23/kWh, prijspeil 2026, seizoensprestatie 4,2, exclusief subsidie, inclusief 21% btw.*
 
 ---
 
-## App en bediening: myVAILLANT Pro
+## App en bediening
 
-De Vaillant myVAILLANT Pro-app is een duidelijke verbetering ten opzichte van de vorige generatie. Hij toont:
-
-- Actueel vermogen en COP
-- Dag/week/maand energieverbruik en warmteproductie
-- Verwacht verbruik op basis van weersvoorspelling
-- Storingen met foutcode + aanbevolen actie
-- Tapwatertemperatuur en -schema
-- Mogelijkheid om installateur toegang te geven voor remote diagnose
+De app van Vaillant is een duidelijke verbetering ten opzichte van de vorige generatie. Hij toont het actuele vermogen en rendement, verbruik en warmteproductie per dag, week en maand, een verbruiksverwachting op basis van het weer, storingen met foutcode, en de tapwaterinstellingen. Je kunt je installateur toegang geven voor diagnose op afstand.
 
 **Wat wij minder goed vinden:**
-- De app heeft geen directe koppeling met P1-meter of PV-systeem voor automatische sturing op zonne-overschot. Je kunt wel een timer instellen, maar een Daikin of Itho Daalderop HP Cube heeft hier nativere oplossingen.
-- De installateursmodus (voor het instellen van de hydraulische parameters) is apart van de gebruikersapp — dit betekent dat de installateur ter plekke moet zijn voor sommige aanpassingen, of remote toegang moet hebben.
-- Notificaties bij kleine afwijkingen (bijvoorbeeld drukval in de hydraulische kring) zijn volgens gebruikersreviews soms alarmistisch: eigenaren melden waarschuwingen die de installateur vervolgens irrelevant noemt.
 
-Eerlijk gezegd: de app is nu goed genoeg. Niet de beste in de markt (dat is Daikin), maar voldoende voor dagelijkse bediening.
+- Geen directe koppeling met een P1-meter of een PV-installatie voor automatische sturing op zonneoverschot. Een timer kan wel, maar dat is iets anders dan reageren op wat er werkelijk wordt opgewekt.
+- De installateursmodus voor de hydraulische parameters staat los van de gebruikersapp, wat betekent dat sommige aanpassingen een bezoek of een toegangsverzoek vragen.
+- Gebruikers melden dat notificaties bij kleine afwijkingen soms alarmistischer overkomen dan nodig.
+
+Voor dagelijkse bediening is de app ruim voldoende. Wie zijn warmtepomp actief wil laten meebewegen met zonneoverschot of uurprijzen, moet dat buiten de app om organiseren.
 
 ---
 
 ## Plus- en minpunten
 
 **Pluspunten:**
-- SCOP 5,0+ — top-tier efficiëntie bij lage aanvoertemperaturen
-- R290 koudemiddel: laagste GWP in zijn klasse
-- Stille werking: 33 dB(A), merkbaar stiller dan de meeste concurrenten
-- Modulatie van 30% tot 100%: minder cycli, minder slijtage, beter op milde dagen
-- 10 jaar garantie op de compressor — langste in dit vergelijk
-- Breed vermogensbereik (3,5–12 kW) voor diverse woningtypes
-- Vaillant-installateursnetwerk in Nederland (ca. 800 erkende partners)
+
+- Hoge opgegeven prestatie bij lage aanvoertemperatuur
+- R290 als koudemiddel: GWP 3 in plaats van 675
+- Zeer stil in fluistermodus, wat de opstelling in een krappe tuin vereenvoudigt
+- Aanvoertemperatuur tot 75°C, waardoor bestaande radiatoren kunnen blijven zitten
+- Ruim modulatiebereik: minder aan-uitgedrag op milde dagen
+- Breed vermogensbereik voor uiteenlopende woningtypes
 
 **Minpunten:**
-- Prijs (€9.500–€14.000) is hoger dan Daikin Altherma 3 (€8.500–€12.000) en Bosch Compress 7800i (€8.000–€11.500)
-- Dealernetwerk in Nederland minder dicht dan ATAG (eigen netwerk) en kleiner dan Daikin bij de grotere steden
-- App mist native P1/PV-koppeling
-- R290-installatie vereist gecertificeerde monteur — niet alle installateurs zijn hiervoor gecertificeerd (nog)
-- In slecht geïsoleerde woningen met hoge-temperatuur radiatoren duidelijk suboptimaal
+
+- Prijsniveau ligt boven dat van de grote concurrenten
+- Geen native koppeling met P1-meter of PV-installatie
+- Niet elke installateur is gecertificeerd voor brandbare koudemiddelen
+- In een slecht geïsoleerde woning met hoge-temperatuur radiatoren technisch mogelijk maar economisch zwak
 
 ---
 
-## Vergelijking: aroTHERM plus vs. Daikin Altherma 3 vs. Bosch Compress 7800i
+## Hoe de aroTHERM plus zich verhoudt tot Daikin en Bosch
 
-| Kenmerk | Vaillant aroTHERM plus | Daikin Altherma 3 | Bosch Compress 7800i |
-|---|---|---|---|
-| Koudemiddel | R290 (GWP 3) | R32 (GWP 675) | R32 (GWP 675) |
-| SCOP (A7/W35) | 5,0–5,4 | 4,8–5,1 | 4,5–4,8 |
-| Modulatiebereik | 30–100% | 25–100% | 35–100% |
-| Max. aanvoertemperatuur (WP) | 55°C | 70°C | 65°C |
-| Geluid buitenunit | 33–42 dB(A) | 35–45 dB(A) | 37–47 dB(A) |
-| Garantie compressor | 10 jaar | 5 jaar | 5 jaar |
-| App kwaliteit | Goed | Uitstekend | Goed |
-| PV-koppeling | Timer (geen P1) | P1 + app | Timer |
-| Prijs excl. montage | €9.500–€14.000 | €8.500–€12.000 | €8.000–€11.500 |
-| ISDE 2026 | €2.500–€4.500 | €2.500–€4.000 | €2.500–€4.000 |
-| Netwerk NL | ~800 installateurs | Breed (via dealers) | Breed (Bosch-Nefit) |
-| Sterk punt | SCOP, geluid, milieu, garantie | Max aanvoertemp, app, PV | Prijs, Bosch-netwerk |
-| Zwak punt | Prijs, PV-app | Prijs, R32 | Lagere SCOP |
+Wij zetten hier geen tabel met prestatiegetallen per merk neer: die zijn alleen vergelijkbaar per exact typenummer en testpunt. Wat op merkniveau wél te zeggen valt:
 
-**Onze lezing van de vergelijking:**
+**Kies de aroTHERM plus als** milieuprestatie van het koudemiddel meeweegt, stilte een prioriteit is, je woning een lage aanvoertemperatuur aankan — óf juist niet, want de hoge maximale aanvoer maakt bestaande radiatoren mogelijk — en je bereid bent voor die combinatie meer te betalen.
 
-**Kies aroTHERM plus als:**
-- Je milieuprestaties meewegen in je beslissing (R290 vs R32)
-- Stille werking een prioriteit is — 33 dB(A) is meetbaar beter
-- Je een A- of B-gelabelde woning hebt met lage aanvoertemperaturen
-- Je waarde hecht aan 10 jaar garantie op de compressor
+**Kies Daikin als** je de breedste dealerdekking en de sterkste app-integratie wilt, inclusief koppeling met je meter, en je op de aanschafprijs wilt besparen. Zie onze [Daikin Altherma 3 review](/posts/daikin-altherma-3-review-2026/).
 
-**Kies Daikin Altherma 3 als:**
-- Je een slecht geïsoleerde woning hebt met hoge-temperatuur radiatoren (Daikin gaat tot 70°C aanvoer, Vaillant tot 55°C)
-- Je de beste app-integratie en PV-koppeling wilt
-- Je €1.000–€2.000 wilt besparen op de aanschafprijs
+**Kies Bosch als** een hybride opstelling met een bestaande ketel je route is en budget zwaarder weegt dan het laatste procentje prestatie. Zie onze [Bosch Compress review](/posts/bosch-compress-warmtepomp-review-2026/).
 
-**Kies Bosch Compress 7800i als:**
-- Budget de doorslag geeft
-- Je al een Bosch/Nefit-installateur kent
-- Een iets lagere SCOP acceptabel is in ruil voor een lagere prijs
-
----
-
-## Besparingsberekening: wat levert de aroTHERM plus op?
-
-Rekenvoorbeeld met de volgende aannames: tussenwoning uit 1990, label C, verbeterd naar label B na dakisolatie (aanvoertemperatuur teruggebracht naar 45°C via radiatorvervanging), gasverbruik voor de ingreep 2.200 m³ per jaar.
-
-| Post | Bedrag |
-|---|---|
-| Aanschaf aroTHERM plus 7,5 kW + uniTOWER | €12.500 |
-| Montage (inclusief aanpassing hydrauliek) | €2.200 |
-| Totaal investering | €14.700 |
-| ISDE-subsidie | -€3.500 |
-| **Netto investering** | **€11.200** |
-
-| Jaar | Jaarlijkse besparing | Cumulatieve besparing | Saldo |
-|---|---|---|---|
-| 0 | – | – | -€11.200 |
-| 1 | €1.450 | €1.450 | -€9.750 |
-| 2 | €1.450 | €2.900 | -€8.300 |
-| 3 | €1.450 | €4.350 | -€6.850 |
-| 4 | €1.450 | €5.800 | -€5.400 |
-| 5 | €1.450 | €7.250 | -€3.950 |
-| 6 | €1.450 | €8.700 | -€2.500 |
-| 7 | €1.450 | €10.150 | -€1.050 |
-| 7,7 | – | €11.200 | **break-even** |
-| 10 | €1.450 | €14.500 | +€3.300 |
-| 15 | €1.450 | €21.750 | +€10.550 |
-
-*Aannames: gas €1,05/m³, elektriciteit €0,23/kWh, SCOP 4,2 reëel, warmtevraag 8.500 kWh/jaar, 2.025 kWh elektra voor warmtepomp.*
-
-**Break-even in jaar 7,7.** Dat is realistisch voor een warmtepomp in label B-woning. Bij stijgende gasprijzen (historische trend) korter, bij dalende energieprijzen langer. De aroTHERM plus heeft een verwachte levensduur van 15–20 jaar, dus je verwacht na break-even nog 7–12 jaar netto voordeel.
+Voor de meeste kopers geldt: het verschil tussen een goede en een matige installatie is groter dan het verschil tussen deze drie merken.
 
 ---
 
 ## Praktische installatie-informatie
 
-### ISDE aanvragen
+### ISDE: let op de volgorde
 
-De Vaillant aroTHERM plus staat op de RVO ISDE-lijst. Subsidie 2026:
+- **Je vraagt de subsidie aan ná installatie**, binnen 24 maanden na de installatiedatum. Niet ervoor. Dit is de fout die op de meeste warmtepompsites nog steeds staat.
+- **Het bedrag hangt af van het exacte apparaat** en staat per typenummer op de ISDE-apparatenlijst van RVO. Wij noemen geen bedragen per model; gebruik de rekentool van RVO met het typenummer uit je offerte.
+- **Bouwjaareis:** de woning moet van vóór 1 januari 2019 zijn, of de omgevingsvergunning moet vóór 1 juli 2018 zijn aangevraagd.
 
-- VWL 35/6 (3,5 kW): circa €2.500
-- VWL 55/6 (5,5 kW): circa €3.200
-- VWL 75/6 (7,5 kW): circa €3.800
-- VWL 105/6 (10 kW) + VWL 125/6 (12 kW): circa €4.200–€4.500
+Leg bij de opdrachtverlening schriftelijk vast wie de aanvraag doet en vóór welke datum.
 
-De aanvraag gaat via de installateur, vóór start van de werkzaamheden. Controleer altijd of het exacte modelnummer op de actuele [RVO ISDE-lijst](https://www.rvo.nl/subsidies-financiering/isde) staat.
+*Bron: RVO, ISDE voor warmtepompen (geraadpleegd 21 augustus 2026).*
 
-### Installatievereisten R290
+### Btw: 21 procent
 
-Vanwege het brandbare koudemiddel R290 gelden aanvullende eisen:
+Op een warmtepomp geldt 21% btw. Het 0%-tarief bestaat uitsluitend voor zonnepanelen en de daarvoor direct noodzakelijke onderdelen. Offertes met 0% btw op een warmtepomp kloppen niet.
 
-- Installateur moet gecertificeerd zijn voor klasse A3 brandbare koudemiddelen (aanvullend F-gassentrainingsmodule)
-- Buitenunit mag niet in een besloten ruimte (garage, kelder) worden geplaatst
-- Minimale afstand tot ventilatieopeningen, elektrische installaties en open vuur: 3 meter
-- Vaillant-erkende installateurs hebben dit certificaat, maar controleer dit bij offerteaanvraag
+### Geluid en de norm op de erfgrens
+
+Sinds 1 januari 2024 staan de eisen in het Besluit bouwwerken leefomgeving (Bbl). Op de perceelgrens van de buren geldt 45 dB(A) overdag en 40 dB(A) in de avond- en nachtperiode. Er is geen wettelijke minimumafstand tot de erfgrens; de geluidsnorm bepaalt in de praktijk waar de unit kan staan.
+
+Let bij het vergelijken van merken op welke grootheid een fabrikant noemt. Geluidsvermogen is een eigenschap van het apparaat; geluidsdruk hoort altijd bij een afstand. Twee getallen naast elkaar leggen zonder dat onderscheid te maken, levert een verkeerde conclusie op. Laat de installateur de geluidsberekening voor jouw opstelling aanleveren vóór ondertekening — reflecterende muren en een plaatsing in een hoek verhogen het niveau met enkele dB.
 
 ### Wat kost een volledige installatie?
 
-Bij het aanvragen van offertes voor de aroTHERM plus: vraag minimaal twee offertes. Voor dezelfde configuratie lopen offertes van verschillende installateurs €1.500 tot €2.500 uiteen. De grootste variabelen:
+Vraag minimaal twee offertes. Voor dezelfde configuratie lopen offertes van verschillende installateurs makkelijk €1.500 tot €2.500 uiteen. De grootste variabelen:
 
-- Aanpassing bestaande hydrauliek (radiatoren, vloerverwarming, circulatiepomp)
-- Verwijdering bestaande cv-ketel
-- Groepenkast aanpassing (soms nodig voor 3-fasen bij grotere modellen)
-- Warmtapwater: aparte boiler of geïntegreerde uniTOWER
+- Aanpassing van de bestaande hydrauliek: radiatoren, vloerverwarming, circulatiepomp
+- Verwijdering van de bestaande cv-ketel
+- Aanpassing van de groepenkast, bij grotere modellen soms een driefase-aansluiting
+- Warm tapwater: aparte boiler of geïntegreerde binnenunit
 
-Een complete installatie in een gemiddelde woning (90–140 m², label B/C na isolatie): **€13.000–€18.000 inclusief alles, vóór subsidie**.
+Een complete installatie in een gemiddelde woning van 90 tot 140 m² ligt in Nederlandse offertes doorgaans op **€13.000 tot €18.000 inclusief alles en inclusief 21% btw, vóór subsidie**. Hoe je die offertes naast elkaar legt, staat in onze gids [installateur kiezen](/installateur-kiezen/).
 
 ---
 
 ## Voor wie is de aroTHERM plus de juiste keuze?
 
-**Ja, als:**
-- Je woning label B of beter heeft (of je bent bereid te isoleren voor installatie)
-- Je aanvoertemperaturen onder 55°C kunt realiseren — vloerverwarming of lage-temp radiatoren
-- Geluidsniveau een prioriteit is (buren dichtbij, slaapkamer aan achterkant)
-- Milieu-impact van koudemiddel meespeelt in je beslissing
-- Je de 10-jaars compressorgarantie als gemoedsrust ziet
+**Wel, als:**
 
-**Nee, als:**
-- Je woning label D of slechter heeft en je de radiatoren niet wil vervangen — kies dan voor een hybride of wacht tot je ook isoleert
-- Budget de doorslag geeft — Daikin of Bosch zijn €1.000–€3.000 goedkoper
-- Je maximale PV-koppeling wilt zonder extra configuratie
-- Je installateurskeuze beperkt is — niet elke installateur is R290-gecertificeerd (nóg niet)
+- Je woning label B of beter heeft, of je bereid bent eerst te isoleren
+- Je een lage aanvoertemperatuur kunt realiseren met vloerverwarming of aangepaste radiatoren
+- Geluid een prioriteit is: buren dichtbij, een slaapkamer aan de tuinzijde
+- De milieu-impact van het koudemiddel voor je meeweegt
+- Je een woning hebt met bestaande radiatoren die je níet wilt vervangen — de hoge aanvoertemperatuur maakt dat mogelijk, mits je de lagere prestatie accepteert
+
+**Niet, als:**
+
+- Je woning label D of slechter heeft en je noch wilt isoleren noch de radiatoren wilt aanpakken; kies dan eerst een hybride opstelling
+- Budget de doorslag geeft
+- Je maximale koppeling met je zonnepanelen wilt zonder extra configuratie
+- Er in je regio geen installateur met A3-certificering beschikbaar is
 
 ---
 
 ## Conclusie
 
-De Vaillant aroTHERM plus is een serieuze warmtepomp die de hogere prijs rechtvaardigt als je de juiste woning hebt. SCOP 5,0+ is top-tier, het geluid van 33 dB(A) is de stilste in zijn klasse, en de keuze voor R290 is een principiële en toekomstgerichte beslissing.
+De aroTHERM plus is een serieuze warmtepomp die zijn hogere prijs rechtvaardigt als je woning erbij past. De opgegeven prestatie is top-tier, de fluistermodus behoort tot de stilste in de markt, en de keuze voor R290 is principieel en toekomstgericht.
 
-Waar hij tekortkomt: de maximale aanvoertemperatuur van 55°C (warmtepomp only) betekent dat hij in slecht geïsoleerde woningen met hoge-temp radiatoren niet de juiste keuze is. En de hogere prijs ten opzichte van Daikin is lastig te rechtvaardigen op puur financiële gronden — de 10-jaars compressorgarantie is een deel van het antwoord, maar niet het hele verhaal.
+Het meest onderschatte pluspunt is de hoge maximale aanvoertemperatuur: die maakt het toestel toepasbaar in bestaande bouw waar veel concurrenten afvallen. Het is geen vrijbrief — hoe hoger de aanvoer, hoe lager de opbrengst — maar het geeft je de ruimte om stapsgewijs te verduurzamen in plaats van eerst je hele afgiftesysteem te vervangen.
 
-In gebruikersreviews komt de keuze voor R290 opvallend vaak terug als reden om de meerprijs boven Daikin te accepteren. Dat is een legitieme afweging — maar het is een milieukeuze, geen financiële.
-
-Als je een goed geïsoleerde woning hebt, waarde hecht aan stilte en duurzaamheid, en bereid bent de meerprijs te betalen: de aroTHERM plus is uitstekend. Als je puur wilt optimaliseren op prijs of PV-koppeling: kijk ook naar Daikin.
-
-<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk de Vaillant aroTHERM plus</a>
+Waar hij tekortschiet: de prijs ten opzichte van Daikin is op puur financiële gronden lastig te verdedigen, en de app mist de directe koppeling met je meter of je panelen. Heb je een goed geïsoleerde woning, hecht je aan stilte en duurzaamheid, en ben je bereid de meerprijs te betalen, dan is dit een uitstekende keuze. Optimaliseer je puur op prijs of op integratie met je zonnepanelen, kijk dan ook naar Daikin.
 
 ---
 
-*Vragen over je eigen woning, isolatieniveau of de vraag of de aroTHERM plus bij jouw situatie past? Laat een reactie achter.*
-
-
-<a href="https://go.duurzaamthuislab.nl/vaillant" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Vaillant</a>
-
 ## Gerelateerde artikelen
 
-- [ATAG warmtepomp review 2026: eerlijke test van een](/posts/atag-warmtepomp-review-2026/)
+- [ATAG warmtepomp review 2026](/posts/atag-warmtepomp-review-2026/)
 - [Bosch Compress warmtepomp review 2026](/posts/bosch-compress-warmtepomp-review-2026/)
-- [Daikin Altherma 3 review 2026: marktleider verdient die](/posts/daikin-altherma-3-review-2026/)
-- [Quatt warmtepomp review 2026: slim abonnement of dure](/posts/quatt-warmtepomp-review-2026/)
-- [HR-ketel vervangen in 2026: warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)
+- [Daikin Altherma 3 review 2026](/posts/daikin-altherma-3-review-2026/)
+- [Quatt warmtepomp review 2026](/posts/quatt-warmtepomp-review-2026/)
+- [HR-ketel vervangen in 2026 of overstappen op een warmtepomp](/posts/hr-ketel-vervangen-2026-vs-warmtepomp/)

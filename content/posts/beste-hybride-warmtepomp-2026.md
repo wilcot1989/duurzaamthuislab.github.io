@@ -1,8 +1,8 @@
 ---
-title: 'Beste Hybride Warmtepomp 2026: Top 5 Vergeleken'
+title: 'Hybride warmtepomp kiezen in 2026: vijf merken naast elkaar'
 date: 2026-04-10 10:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: De 5 beste hybride warmtepompen van 2026 vergeleken op prijs, COP-waarde, geluid en subsidie. Remeha, Daikin, Quatt, Bosch en Vaillant naast elkaar.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: Remeha, Daikin, Quatt, Bosch en Vaillant naast elkaar op de punten die je in een offerte kunt controleren — koudemiddel, aanvoertemperatuur, bivalentpunt, servicenetwerk en ISDE.
 categories:
 - warmtepompen
 tags:
@@ -22,405 +22,207 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1715620329644-36b9f5b9fca3&w=1200&output=webp&q=70
 faq:
-- q: Wat kost een hybride warmtepomp inclusief installatie?
-  a: Een hybride warmtepomp kost inclusief installatie gemiddeld €4.000-€7.000. De aanschafprijs ligt tussen €3.000-€5.500, installatiekosten bedragen €1.000-€2.000. Na aftrek van ISDE subsidie (circa €3.000) kom je uit op €1.000-€4.000 netto.
-- q: Hoeveel bespaar je met een hybride warmtepomp?
-  a: Een hybride warmtepomp bespaart gemiddeld 40-60% op je gasverbruik, wat neerkomt op €500-€900 per jaar. De exacte besparing hangt af van je woningisolatie, het huidige gasverbruik en de COP-waarde.
-- q: Voor welke woningen is een hybride warmtepomp geschikt?
-  a: Een hybride warmtepomp is geschikt voor de meeste bestaande woningen, zelfs als ze niet optimaal geïsoleerd zijn. De cv-ketel springt bij als het buiten koud is. Ideaal voor woningen met energielabel C tot en met A.
-- q: Wat is het verschil tussen een hybride en een full-electric warmtepomp?
-  a: Een hybride warmtepomp combineert een warmtepomp met je bestaande cv-ketel. Bij milde temperaturen verwarmt de warmtepomp, bij kou neemt de cv-ketel het over. Een full-electric warmtepomp verwarmt volledig zonder gas, maar vereist betere isolatie en vaak vloerverwarming.
-- q: Welke hybride warmtepomp is het beste?
-  a: De Remeha Elga Ace HT scoort het beste vanwege de hoge COP-waarde en het brede werkbereik tot -20°C. De Quatt is het interessantst qua prijs-kwaliteit dankzij het unieke abonnementsmodel.
-- q: Is er subsidie voor een hybride warmtepomp?
-  a: Ja, via de ISDE-regeling ontvang je circa €3.000 subsidie. Daarnaast bieden veel gemeenten aanvullende subsidies van €500-€1.500. De subsidie vraag je aan na installatie via mijn.rvo.nl.
+- q: 'Wat kost een hybride warmtepomp inclusief installatie?'
+  a: 'Dat verschilt te veel per woning om één bedrag te noemen, en de meeste fabrikanten publiceren geen consumentenprijs. De prijs hangt af van het vermogen, de staat van je cv-installatie, de plek van de buitenunit en het leidingwerk dat daarvoor nodig is. Vraag daarom minimaal drie offertes op waarin apparaat, materiaal, arbeid en inregeling apart zijn gespecificeerd, en reken pas daarna terug wat de ISDE ervan afhaalt.'
+- q: 'Hoeveel bespaar je met een hybride warmtepomp?'
+  a: 'De besparing schaalt vrijwel volledig mee met je huidige gasverbruik: de warmtepomp neemt bij een correct ingesteld bivalentpunt het grootste deel van de warmtevraag over, en dat percentage vertaalt zich één op één naar minder kubieke meters gas. Daar gaat het extra stroomverbruik weer vanaf. In de modelberekening verderop in dit artikel staat hoe dat voor een rijtjeshuis met 1.650 m³ gas uitpakt, met alle aannames erbij.'
+- q: 'Voor welke woningen is een hybride warmtepomp geschikt?'
+  a: 'Voor de meeste bestaande woningen met radiatoren, ook als de isolatie niet optimaal is — dat is precies het punt van de hybride opstelling: de cv-ketel springt bij als de warmtepomp het bij lage buitentemperaturen niet meer alleen redt. Bij een gasverbruik onder circa 1.000 m³ per jaar valt de besparing in euro''s klein uit en is isoleren doorgaans de betere eerste stap.'
+- q: 'Wat is het verschil tussen een hybride en een full-electric warmtepomp?'
+  a: 'Een hybride warmtepomp werkt samen met je bestaande cv-ketel: bij milde temperaturen verwarmt de warmtepomp, bij kou neemt de ketel het over. Een full-electric warmtepomp verwarmt volledig zonder gas en stelt daarom zwaardere eisen aan isolatie en afgiftesysteem, vaak vloerverwarming of laagtemperatuurradiatoren.'
+- q: 'Welke hybride warmtepomp is de beste keuze?'
+  a: 'Die vraag heeft geen merkantwoord. Wij testen zelf niet en publiceren daarom geen ranglijst. Wat je wél kunt vergelijken zijn controleerbare zaken: het koudemiddel, de maximale aanvoertemperatuur, of het model met het volledige typenummer op de RVO-meldcodelijst staat, en hoe dicht het servicenetwerk bij je woont. Dat zijn de punten waarop dit artikel de vijf merken naast elkaar zet.'
+- q: 'Is er subsidie voor een hybride warmtepomp?'
+  a: 'Ja, via de ISDE. In 2026 bestaat het bedrag voor een eerste lucht-waterwarmtepomp uit een startbedrag van € 1.025, plus € 225 per kW vermogen, plus € 200 energielabelbonus bij een A+++-label (bron: rvo.nl, opgehaald 21 augustus 2026). Je vraagt de subsidie aan ná installatie, binnen 24 maanden. Het exacte bedrag hangt af van de meldcode van jouw toestel; de ISDE-rekentool op rvo.nl geeft de schatting.'
 products:
 - name: Vaillant aroTHERM plus
-  url: https://www.vaillant.nl/consumenten/producten/warmtepompen/arotherm-plus/
-  price: '8000'
-- name: Daikin Altherma 3 H HT
-  url: https://www.daikin.nl/nl_nl/producten/product.html/EPRA-DV.html
-  price: '9000'
-- name: Remeha Mercuria
-  url: https://www.remeha.nl/producten/warmtepompen/mercuria-ace
-  price: '8500'
+  url: https://go.duurzaamthuislab.nl/vaillant
+- name: Daikin Altherma hybride
+  url: https://go.duurzaamthuislab.nl/daikin
+- name: Remeha Elga Ace
+  url: https://www.remeha.nl/product/elga-ace
 schema_type: Article
 ---
-Een hybride warmtepomp neemt volgens de installatievoorschriften bij een correct ingesteld bivalentpunt 55 tot 65 procent van de warmtevraag over. Bij een gasverbruik rond de 1.500 m³ per jaar betekent dat een besparing van honderden euro's per jaar, en met de ISDE-subsidie van circa €3.000 komt de terugverdientijd voor veel woningen onder de vijf jaar. Welk merk je moet kiezen, hangt af van je bestaande ketel en je aanvoertemperatuur. Wij hebben de vijf belangrijkste hybride warmtepompen van 2026 naast elkaar gezet.
+Een hybride warmtepomp neemt bij een correct ingesteld bivalentpunt het grootste deel van de warmtevraag over van de cv-ketel. De ketel blijft staan en springt bij als het buiten te koud wordt om de warmtepomp alleen te laten werken. Dat maakt het de meest praktische stap voor een bestaande woning met radiatoren: je hoeft niet eerst het hele afgiftesysteem te vervangen.
 
-*Disclosure: de links naar ATAG in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+De vraag "welk merk is het beste" is daarbij minder nuttig dan hij lijkt. Wij testen zelf geen warmtepompen en publiceren daarom geen eindcijfers of ranglijsten. Wat we wél kunnen doen is de vijf merken die in Nederland het vaakst in offertes opduiken naast elkaar zetten op punten die je zelf kunt nalezen en in een offerte kunt afdwingen.
 
-Bekijk ook onze gids over de [ISDE subsidie](/posts/isde-subsidie-warmtepompen-2026/) om te zien hoeveel subsidie je kunt krijgen.
+*Disclosure: dit artikel bevat geen affiliate-links. Wij hebben met Remeha, Daikin, Quatt, Bosch en Vaillant geen affiliate- of commissierelatie. De productlinks zijn gewone verwijzingen naar de fabrikant.*
 
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** De 5 beste hybride warmtepompen van 2026 vergeleken op prijs, COP-waarde, geluid en subsidie. Remeha, Daikin, Quatt, Bosch en Vaillant naast elkaar.
+> **Kort antwoord:** kies niet op merk maar op vier controleerbare punten. Staat het volledige typenummer op de RVO-meldcodelijst (anders geen ISDE)? Welk koudemiddel zit erin, R32 of het natuurlijke R290? Welke aanvoertemperatuur haalt het toestel, want daarmee bepaal je of je radiatoren kunnen blijven hangen? En hoe dicht zit het servicenetwerk?
 >
-> Een hybride warmtepomp kost inclusief installatie gemiddeld €4.000-€7.000. De aanschafprijs ligt tussen €3.000-€5.500, installatiekosten bedragen €1.000-€2.000. Na aftrek van ISDE subsidie (circa €3.000) kom je uit op €1.000-€4.000 netto.
+> De ISDE bedraagt in 2026 voor een eerste lucht-waterwarmtepomp € 1.025 startbedrag plus € 225 per kW plus € 200 labelbonus bij A+++, aan te vragen ná installatie binnen 24 maanden. Op de warmtepomp zelf betaal je 21% btw — het 0%-tarief geldt alleen voor zonnepanelen.
 
-## Snelle vergelijking
+## Wat je wel en niet kunt vergelijken
 
-| Warmtepomp | Prijs (excl. install.) | COP (A7/W35) | Geluid buiten | Werkbereik | Subsidie |
-|-----------|----------------------|-------------|--------------|-----------|---------|
-| **Remeha Elga Ace HT** | €4.500-€5.500 | 4.0 | 47 dB(A) | Tot -20°C | ~€3.000 |
-| **Daikin Altherma 3 H Hybrid** | €4.000-€5.000 | 3.8 | 46 dB(A) | Tot -25°C | ~€3.000 |
-| **Quatt** | €3.500-€4.500 | 3.5 | 45 dB(A) | Tot -15°C | ~€3.000 |
-| **Bosch Compress 3000 AWS** | €3.800-€4.800 | 3.7 | 48 dB(A) | Tot -20°C | ~€3.000 |
-| **Vaillant aroTHERM plus** | €4.200-€5.200 | 3.9 | 46 dB(A) | Tot -22°C | ~€3.000 |
+Bijna elke merkvergelijking op internet zet COP-waarden, decibellen en prijzen in één tabel. Dat oogt overzichtelijk, maar die getallen zijn zelden onderling vergelijkbaar en vaak niet te herleiden naar een bron.
 
-## 1. Remeha Elga Ace HT — Beste prestaties
+Drie redenen waarom wij die tabel hier niet reproduceren:
 
-De Remeha Elga Ace HT is de toppresteerder in onze vergelijking. Dit Nederlandse merk (onderdeel van BDR Thermea) levert een hybride warmtepomp die uitblinkt in efficiëntie en bereik.
+- **COP en SCOP gelden per typenummer en per meetconditie.** Een COP bij A7/W35 zegt iets heel anders dan bij A2/W55, en binnen één productlijn verschillen de 4 kW- en de 6 kW-variant. Remeha publiceert voor de Elga Ace bijvoorbeeld een COP van 4,50 en een SCOP van 4,33 voor het 4 kW-model, en een COP van 4,54 met een SCOP van 4,23 voor het 6 kW-model (bron: remeha.nl, opgehaald 21 augustus 2026). Dat zijn keurige, gepubliceerde cijfers — maar ze zeggen alleen iets als je ze naast dezelfde meetconditie van een ander toestel legt.
+- **Geluidsopgaven zijn vaak geluidsvermogen, geen geluidsdruk.** Fabrikanten geven meestal het geluidsvermogenniveau op. Wat je bij de erfgrens meet, is geluidsdruk, en dat is een ander getal dat afhangt van afstand, ondergrond en reflectie. Een dB-vergelijking tussen merken zonder dat onderscheid is betekenisloos.
+- **Consumentenprijzen worden nauwelijks gepubliceerd.** Quatt noemt op de eigen site geen maandbedrag of aanschafprijs meer; de prijs komt uit de configurator (gecontroleerd 21 augustus 2026). Voor de andere vier merken loopt de verkoop via installateurs, die hun eigen inkoop- en arbeidsmarges hanteren.
 
-### Specificaties
-- **COP bij A7/W35:** 4.0 (beste in test)
-- **Verwarmingscapaciteit:** 4-8 kW
-- **Werkbereik:** Tot -20°C
-- **Geluidsniveau buiten:** 47 dB(A)
-- **Koelmiddel:** R32
-- **Garantie:** 5 jaar (verlengbaar tot 7 jaar)
-- **Geschikt voor:** Bestaande CV-installaties met radiatoren
+Wat je wél kunt vergelijken, staat hieronder.
 
-### Waarom de Elga Ace HT uitblinkt
+## De vijf merken naast elkaar
 
-De HT-variant (Hoge Temperatuur) kan watertemperaturen tot 65°C leveren, waardoor hij ook bij koudere buitentemperaturen effectief warmte levert via bestaande radiatoren. De meeste hybride warmtepompen schakelen al bij 2-5°C over naar de cv-ketel, terwijl de Elga Ace HT doorwerkt tot -20°C.
+| Merk | Herkomst en positionering | Koudemiddel | Aanbodmodel |
+|---|---|---|---|
+| **Remeha Elga Ace** | Nederlands merk, onderdeel van BDR Thermea; gebouwd om aan een bestaande cv-ketel te koppelen | R32 (vanaf 2020) | Koop via installateur |
+| **Daikin Altherma hybride** | Japanse fabrikant, groot wereldwijd servicenetwerk; eigen Onecta-app voor monitoring | R32 | Koop via installateur/dealer |
+| **Quatt** | Nederlandse aanbieder die apparaat, installatie en service als één pakket levert | R290 (propaan) | Pakket via Quatt zelf |
+| **Bosch Compress** | Duitse fabrikant, breed installateursnetwerk in Nederland, EasyControl-thermostaat | R32 | Koop via installateur |
+| **Vaillant aroTHERM plus** | Duitse fabrikant, positioneert zich op de hogere aanvoertemperaturen | R290 (propaan) | Koop via installateur |
 
-**✅ Voordelen:**
-- Hoogste COP-waarde in deze vergelijking
-- Werkt door tot -20°C (minder gasverbruik)
-- Nederlands merk met uitgebreid servicenetwerk
-- Koppelbaar met Remeha slimme thermostaat
+Het onderscheid tussen R32 en R290 is het meest concrete verschil in dit rijtje. R290 is propaan: een natuurlijk koudemiddel met een verwaarloosbaar broeikaseffect, dat bovendien buiten de aanscherpende F-gassenregels valt. Daar staat tegenover dat propaan brandbaar is, waardoor er installatie-eisen gelden voor de opstelling van de buitenunit en de afstand tot openingen in de gevel. Vraag je installateur expliciet welke opstellingseisen bij het gekozen toestel horen.
 
-**❌ Nadelen:**
-- Iets duurder dan concurrenten
-- Buitenunit is relatief groot
-- Geen abonnementsmodel beschikbaar
+Het tweede echte onderscheid is de maximale aanvoertemperatuur. Kan een toestel water van rond de 60 tot 65 graden leveren, dan kunnen bestaande radiatoren blijven hangen en hoef je het afgiftesysteem niet aan te passen. Kan het dat niet, dan schuift het bivalentpunt omhoog en neemt de ketel eerder over — waarmee de gasbesparing daalt. De opgegeven maximale aanvoertemperatuur staat in het datasheet van het exacte typenummer; laat die in de offerte opnemen.
 
-**Prijs inclusief installatie:** €5.500-€7.500 | **Na ISDE subsidie:** €2.500-€4.500
+Het derde punt is service. Alle vijf merken hebben landelijke dekking, maar de praktische vraag is of er in jouw regio een installateur zit die dit specifieke merk regelmatig plaatst en inregelt. Een verkeerd ingeregelde topmachine presteert slechter dan een correct ingeregelde middenklasser.
 
-## 2. Daikin Altherma 3 H Hybrid — Bewezen betrouwbaarheid
+## Wat de ISDE in 2026 werkelijk oplevert
 
-Daikin is wereldmarktleider in warmtepompen en airconditioners. De Altherma 3 H Hybrid combineert Japanse engineering met een breed werkbereik tot -25°C.
+Voor hybride warmtepompen geldt de ISDE, en die is per 2026 anders opgebouwd dan in eerdere jaren. Volgens rvo.nl (opgehaald 21 augustus 2026) bestaat het bedrag voor een **eerste** lucht-waterwarmtepomp uit drie delen:
 
-### Specificaties
-- **COP bij A7/W35:** 3.8
-- **Verwarmingscapaciteit:** 4-8 kW
-- **Werkbereik:** Tot -25°C (breedste in test)
-- **Geluidsniveau buiten:** 46 dB(A)
-- **Koelmiddel:** R32
-- **Garantie:** 5 jaar
-- **Geschikt voor:** Alle bestaande CV-installaties
+- een startbedrag van **€ 1.025** (in 2025 was dat € 1.250);
+- **€ 225 per kW** vermogen, vanaf de eerste kW;
+- een **energielabelbonus van € 200** bij een A+++-label.
 
-### Waarom Daikin een sterke keuze is
+Voor een eerste lucht-waterwarmtepomp van 4 kW met A+++-label komt dat volgens het rekenvoorbeeld van RVO uit op € 1.025 + 4 × € 225 + € 200 = **€ 2.125**. Plaats je in hetzelfde jaar een tweede of volgende warmtepomp, dan vervallen het startbedrag en de labelbonus voor dat toestel.
 
-Daikin heeft het breedste werkbereik (-25°C) van alle geteste warmtepompen. In de praktijk betekent dit dat de warmtepomp zelfs tijdens de koudste Nederlandse winterdagen nog kan bijdragen aan de verwarming. De Onecta app biedt uitstekende monitoring en slimme besturing.
+Drie voorwaarden die vaak misgaan:
 
-**✅ Voordelen:**
-- Breedste werkbereik tot -25°C
-- Uitstekende app voor monitoring en besturing
-- Sterk merk met wereldwijd servicenetwerk
-- Zeer stil in bedrijf (46 dB)
+1. **Je vraagt de subsidie aan ná installatie**, niet ervoor. De termijn is 24 maanden na installatie. (Voor isolatiemaatregelen is die termijn 12 maanden — verwar de twee niet.)
+2. **Het toestel moet met het volledige typenummer op de RVO-meldcodelijst staan** op het moment van installatie. Fabrikanten voeren typenummers af na een productupdate. Controleer het nummer op je offerte op rvo.nl vóórdat je tekent, en nog een keer op de factuur.
+3. **Op de warmtepomp betaal je 21% btw.** Het 0%-tarief geldt uitsluitend voor zonnepanelen en de onderdelen die daar direct voor nodig zijn — niet voor warmtepompen, boilers, isolatie of thermostaten.
 
-**❌ Nadelen:**
-- Service soms via externe partijen, niet altijd Daikin direct
-- Buitenunit vereist voldoende vrije ruimte
-- Iets lagere COP dan Remeha
+Wij noemen bewust geen ISDE-bedrag per merk of model. Dat bedrag volgt uit het vermogen en de meldcode, niet uit de merknaam; de ISDE-rekentool op rvo.nl geeft de schatting voor jouw exacte toestel.
 
-**Prijs inclusief installatie:** €5.000-€7.000 | **Na ISDE subsidie:** €2.000-€4.000
+Sommige gemeenten en provincies hebben aanvullende regelingen, maar die wisselen per jaar en per budget. Kijk voor jouw postcode op de energiesubsidiewijzer van je gemeente in plaats van af te gaan op bedragen uit een artikel.
 
-## 3. Quatt — Meest innovatieve aanpak
+## Modelberekening: rijtjeshuis met 1.650 m³ gas
 
-Quatt hanteert een uniek model: in plaats van kopen, neem je een abonnement. Quatt blijft eigenaar van de warmtepomp, verzorgt installatie, onderhoud en eventuele reparaties. Dit verlaagt de drempel enorm.
+Onderstaand een **modelberekening met expliciete aannames**, geen meting en geen praktijkcase. Uitgangspunt: een rijtjeshuis uit 1985, energielabel C, ongeveer 105 m², gasverbruik vóór installatie 1.650 m³ per jaar.
 
-### Specificaties
-- **COP bij A7/W35:** 3.5
-- **Verwarmingscapaciteit:** 3-6 kW
-- **Werkbereik:** Tot -15°C
-- **Geluidsniveau buiten:** 45 dB(A) (stilste in test)
-- **Koelmiddel:** R290 (propaan — natuurlijk)
-- **Model:** Abonnement €59-€89/maand OF koop
-- **Garantie:** Onbeperkt bij abonnement
+**Aannames:**
 
-### Het Quatt-model
+- Gasprijs € 1,05 per m³ inclusief energiebelasting en btw
+- Stroomprijs € 0,23 per kWh
+- Gemiddelde COP over het stookseizoen: 3,7
+- De warmtepomp neemt 65% van de warmtevraag over
 
-Bij het abonnement betaal je €59-€89/maand (afhankelijk van je situatie). Quatt installeert de warmtepomp, regelt de ISDE-subsidie (die zij ontvangen), en draagt zorg voor onderhoud en garantie. Je hebt geen hoge aanschafkosten.
-
-**✅ Voordelen:**
-- Geen hoge aanschafkosten (abonnementsmodel)
-- Installatie, onderhoud en garantie inbegrepen
-- Stilste warmtepomp in test (45 dB)
-- Natuurlijk koelmiddel R290 (milieuvriendelijkst)
-- ISDE-aanvraag wordt door Quatt geregeld
-
-**❌ Nadelen:**
-- Bij abonnement bouw je geen eigendom op
-- Op lange termijn (10+ jaar) duurder dan kopen
-- Lager werkbereik (-15°C) dan concurrenten
-- Lagere COP-waarde dan premium modellen
-- Beschikbaarheid per regio kan variëren
-
-**Abonnement:** €59-€89/maand | **Koop inclusief installatie:** €4.500-€6.500
-
-## 4. Bosch Compress 3000 AWS — Solide middenklasser
-
-Bosch levert met de Compress 3000 AWS een degelijke hybride warmtepomp die goed presteert in de Nederlandse klimaatomstandigheden. Betrouwbaar, zonder verrassingen.
-
-### Specificaties
-- **COP bij A7/W35:** 3.7
-- **Verwarmingscapaciteit:** 4-7 kW
-- **Werkbereik:** Tot -20°C
-- **Geluidsniveau buiten:** 48 dB(A)
-- **Koelmiddel:** R32
-- **Garantie:** 5 jaar (verlengbaar)
-- **Geschikt voor:** Bestaande CV-installaties
-
-**✅ Voordelen:**
-- Betrouwbaar Duits merk
-- Goede prijs-kwaliteitverhouding
-- Breed installateurnetwerk in Nederland
-- Eenvoudige bediening via EasyControl thermostaat
-
-**❌ Nadelen:**
-- Luidste in deze vergelijking (48 dB)
-- Minder geavanceerde app dan Daikin
-- Design van buitenunit is functioneel maar niet fraai
-
-**Prijs inclusief installatie:** €4.800-€6.800 | **Na ISDE subsidie:** €1.800-€3.800
-
-## 5. Vaillant aroTHERM plus — Premium kwaliteit
-
-Vaillant is een gevestigde naam in de verwarmingsindustrie en levert met de aroTHERM plus een premium hybride warmtepomp met uitstekende specificaties.
-
-### Specificaties
-- **COP bij A7/W35:** 3.9
-- **Verwarmingscapaciteit:** 3-7 kW
-- **Werkbereik:** Tot -22°C
-- **Geluidsniveau buiten:** 46 dB(A)
-- **Koelmiddel:** R290 (propaan — natuurlijk)
-- **Garantie:** 5 jaar (verlengbaar tot 10 jaar)
-- **Geschikt voor:** Alle bestaande CV-installaties
-
-**✅ Voordelen:**
-- Hoge COP-waarde (3.9, bijna net zo goed als Remeha)
-- Natuurlijk koelmiddel R290
-- Breed werkbereik tot -22°C
-- Premium build quality, lange levensduur
-- Verlengbare garantie tot 10 jaar
-
-**❌ Nadelen:**
-- Hogere aanschafprijs
-- Minder installateurs beschikbaar dan Remeha of Bosch
-- Langere levertijden bij bepaalde modellen
-
-**Prijs inclusief installatie:** €5.200-€7.200 | **Na ISDE subsidie:** €2.200-€4.200
-
-## Keuzegids: Welke warmtepomp past bij jouw woning?
-
-| Jouw situatie | Beste keuze | Waarom |
-|-------------|-------------|--------|
-| Maximale gasbesparing | **Remeha Elga Ace HT** | Hoogste COP, breed werkbereik |
-| Geen hoge investering | **Quatt** | Abonnement vanaf €59/maand |
-| Koude locatie/slechte isolatie | **Daikin Altherma 3 H Hybrid** | Werkbereik tot -25°C |
-| Beste prijs-kwaliteit (koop) | **Bosch Compress 3000** | Degelijk en betaalbaar |
-| Premium + milieuvriendelijk | **Vaillant aroTHERM plus** | R290 koelmiddel, 10 jaar garantie |
-| Geluidsoverlast vermijden | **Quatt** | Stilste op 45 dB(A) |
-
-### Praktische tips bij het kiezen
-
-1. **Vraag minimaal 3 offertes aan** — Prijzen variëren sterk per installateur
-2. **Check de RVO-apparatenlijst** — Niet alle modellen komen in aanmerking voor ISDE
-3. **Meet je gasverbruik** — Bij minder dan 1.000 m³ gas per jaar is een hybride warmtepomp minder rendabel
-4. **Let op de locatie** — De buitenunit moet voldoende afstand hebben tot de erfgrens (check gemeentelijke regels)
-5. **Vraag naar referenties** — Een goede installateur kan je in contact brengen met tevreden klanten
-
-## Praktijkvoorbeeld: berekening voor een doorsnee rijtjeshuis
-
-Onderstaand een **modelberekening**, geen meting. Uitgangspunt: een rijtjeshuis uit 1985, energielabel C, 105 m², gezin van vier personen, gasverbruik voor installatie 1.650 m³ per jaar.
-
-**Uitgangspunten:**
-- Gasprijs: €1,05/m³ inclusief transport en vastrecht
-- Stroomprijs: €0,23/kWh
-- Hybride warmtepomp (COP gemiddeld 3,7 bij NL-klimaat)
-- Warmtepomp levert 65% van de warmtevraag
-
-**Berekening jaar 1:**
+**Uitkomst jaar 1:**
 
 | Post | Bedrag |
 |------|--------|
-| Gasverbruik voor installatie (1.650 m³ × €1,05) | €1.733 |
-| Gasverbruik na installatie (577 m³ × €1,05) | €606 |
-| Extra elektra warmtepomp (1.580 kWh × €0,23) | €363 |
-| **Netto besparing** | **€764** |
+| Gas vóór installatie (1.650 m³ × € 1,05) | € 1.733 |
+| Gas ná installatie (577 m³ × € 1,05) | € 606 |
+| Extra elektra warmtepomp (1.580 kWh × € 0,23) | € 363 |
+| **Netto besparing** | **€ 764** |
 
-De terugverdientijd bij een netto investering van €2.800 (na €3.000 ISDE): 3,7 jaar. Dat is realistisch voor een goed geïsoleerde tussenwoning. Bij een slechter geïsoleerde woning of lager gasverbruik loopt de terugverdientijd op naar 6-8 jaar.
+Bij een netto investering van € 2.800 na subsidie levert dat een terugverdientijd van ongeveer 3,7 jaar op. Verander één aanname — een lagere gasprijs, een hoger bivalentpunt, een slechter geïsoleerde woning — en die uitkomst schuift op. Reken hem daarom na met je eigen jaarafrekening in plaats van dit getal over te nemen.
 
 ### Wat de besparing bepaalt
 
-De variatie tussen woningen is groot, en er is precies één variabele die die variatie verklaart: je huidige gasverbruik. De hybride warmtepomp neemt een vast percentage van je warmtevraag over, dus hoe meer gas je nu stookt, hoe meer euro's die 55 tot 65 procent waard is.
+De variatie tussen woningen is groot, en er is vooral één variabele die die variatie verklaart: je huidige gasverbruik. De warmtepomp neemt een min of meer vast percentage van de warmtevraag over, dus hoe meer gas je nu stookt, hoe meer euro's dat percentage waard is.
 
-Twee uitersten, doorgerekend met dezelfde aannames als hierboven:
+Twee uitersten, doorgerekend met dezelfde aannames:
 
-- **Woning uit de jaren zeventig, label D, 2.300 m³ gas per jaar**: de besparing loopt op tot boven de duizend euro per jaar, en de terugverdientijd komt onder de vier jaar.
-- **Woning uit 2008, label B, 900 m³ gas per jaar**: de besparing komt uit op enkele honderden euro's per jaar en de terugverdientijd loopt op naar acht tot negen jaar. Nog steeds rendabel, maar duidelijk minder aantrekkelijk.
+- **Woning uit de jaren zeventig, label D, 2.300 m³ gas per jaar:** de besparing loopt op tot boven de duizend euro per jaar en de terugverdientijd komt onder de vier jaar.
+- **Woning uit 2008, label B, 900 m³ gas per jaar:** de besparing komt uit op enkele honderden euro's per jaar en de terugverdientijd loopt op naar acht à negen jaar.
 
-**Vuistregel:** hoe hoger je gasverbruik, hoe korter de terugverdientijd. Bij een gasverbruik onder circa 1.000 m³ per jaar is isoleren vrijwel altijd de betere eerste stap.
+**Vuistregel:** hoe hoger je gasverbruik, hoe korter de terugverdientijd. Onder ongeveer 1.000 m³ gas per jaar is isoleren vrijwel altijd de betere eerste stap.
 
-**Vuistregel:** hoe hoger je gasverbruik, hoe sneller de terugverdientijd.
+## Vijf fouten die de besparing opeten
 
-## Veelgemaakte fouten bij de aanschaf
+### 1. Te klein model kiezen om te besparen op de aanschaf
 
-Bij de aanschaf van een hybride warmtepomp komen steeds dezelfde vijf vergissingen terug.
-
-### 1. Te klein model kiezen om te besparen op aanschaf
-
-Een hybride warmtepomp van 4 kW is €300 goedkoper dan de 6 kW variant. Maar een onderbemeten pomp schakelt eerder over naar de cv-ketel, waardoor de gasbesparing tereenvalt. Laat altijd een warmteverliesberekening maken — dat kost de installateur een uur en kost jou niets.
-
-De vuistregel: voor een rijtjeshuis van 100-130 m² met label C/D volstaat 5-6 kW. Grotere woningen of label D/E: kies 7-8 kW.
+Een kleinere warmtepomp is goedkoper, maar een onderbemeten toestel schakelt eerder over naar de cv-ketel en levert daardoor minder gasbesparing. Laat altijd een warmteverliesberekening maken voordat het vermogen wordt vastgelegd; een serieuze installateur doet dat standaard en rekent het niet apart door.
 
 ### 2. Het bivalentpunt verkeerd instellen
 
-Het bivalentpunt is de buitentemperatuur waaronder de cv-ketel bijspringt. Standaard staat dit bij veel fabrikanten op +2°C. Dat klinkt logisch, maar als je de warmtepomp op hoge aanvoertemperatuur (60-65°C) laat rijden, is het zinvoller het bivalentpunt te verlagen naar -3 tot -5°C en de aanvoertemperatuur te optimaliseren. Een goed ingesteld systeem scheelt gemakkelijk 80-120 m³ gas per jaar extra.
+Het bivalentpunt is de buitentemperatuur waaronder de cv-ketel bijspringt. Staat dat punt hoog, dan neemt de ketel al bij milde vorst het werk over en verdampt een deel van de besparing. Staat het laag terwijl de aanvoertemperatuur te krap is bemeten, dan wordt het niet warm. Dit is een inregelkwestie, geen merkkwestie: laat vastleggen welk bivalentpunt en welke stooklijn worden ingesteld, en laat na het eerste stookseizoen bijstellen.
 
-### 3. Geen ISDE aanvragen vóór installatie
+### 3. De ISDE-aanvraag verkeerd timen of het typenummer niet controleren
 
-Dit is de duurste fout. De ISDE vraag je na installatie aan, maar het model moet op het moment van installatie op de RVO-apparatenlijst staan. Wordt een type van de lijst afgevoerd, bijvoorbeeld na een productupdate van de fabrikant, dan is de subsidie weg. Controleer daarom het exacte typenummer op je offerte op rvo.nl vóórdat je ondertekent — en nog een keer op de factuur.
+Je vraagt de ISDE aan ná installatie, binnen 24 maanden. De duurste fout zit niet in de timing maar in het typenummer: staat het exacte type op het moment van installatie niet op de RVO-meldcodelijst, dan is de subsidie weg. Controleer het nummer op de offerte én op de factuur.
 
 ### 4. Installateur kiezen op laagste prijs
 
-Een offerte die honderden euro's lager is, kan achteraf duurder uitpakken als het systeem verkeerd is ingeregeld: een te hoog bivalentpunt of een te hoge aanvoertemperatuur kost je jaar na jaar rendement. Vraag naar de garantie op de installatie, controleer of de installateur gecertificeerd is (F-gassen, STEK) en vraag welk bivalentpunt en welke aanvoertemperatuur worden ingesteld.
+Een offerte die honderden euro's lager uitvalt, kan jaar na jaar rendement kosten als het systeem verkeerd is ingeregeld. Vraag naar de garantie op de installatie, controleer of de installateur voor het werk gecertificeerd is (F-gassen, STEK) en vraag welke stooklijn en welk bivalentpunt worden ingesteld.
 
-### 5. Gevelventilatie vergeten
+### 5. Isolatie overslaan
 
-Een hybride warmtepomp verwarmt je huis efficiënter, maar als je daarna via slecht geïsoleerde spouwmuren veel warmte verliest, heb je een lekkende emmer gevuld. Spouwmuurisolatie kost €1.200-€1.800 en levert via de ISDE al €700-€1.000 subsidie op. De combinatie van een hybride warmtepomp met spouwmuurisolatie verdient zich bij een woning met een hoog gasverbruik doorgaans binnen vier jaar terug — sneller dan elk van beide maatregelen afzonderlijk, omdat isoleren de aanvoertemperatuur verlaagt en daarmee het rendement van de warmtepomp verhoogt.
+Een hybride warmtepomp verwarmt efficiënter, maar bij een woning die veel warmte verliest vul je een lekkende emmer. Isoleren verlaagt bovendien de benodigde aanvoertemperatuur, waardoor het rendement van de warmtepomp stijgt — de twee maatregelen versterken elkaar. De ISDE vergoedt isolatiemaatregelen met een vast bedrag per vierkante meter per maatregel; de actuele bedragen en de voorwaarde van minimaal twee maatregelen staan op rvo.nl. Let op de afwijkende termijn: isolatiesubsidie vraag je aan binnen 12 maanden na uitvoering.
 
-## Installatie-specifieke informatie: wat je van tevoren moet weten
+## Plaatsing, geluid en vergunning
 
-### Geluidseisen en plaatsing
+Voor het geluid van een buitenunit bij een woning geldt sinds 2021 een landelijke grenswaarde, inmiddels ondergebracht in het Besluit bouwwerken leefomgeving (Bbl, sinds 1 januari 2024 de opvolger van het Bouwbesluit). De norm is **45 dB overdag en 40 dB in de avond- en nachtperiode**, gemeten op de perceelgrens bij een naburige woning.
 
-De Nederlandse overheid en gemeentes hanteren regels voor geluidsoverlast van buitenunits. De meeste gemeenten hanteren 40-45 dB(A) als maximale geluidsbelasting op de erfgrens bij dag. Bij nacht is dat 35-40 dB(A).
+Wat er níet is: een wettelijke minimumafstand tussen de buitenunit en de erfgrens. Die eis duikt vaak op in artikelen en offertes, maar staat niet in de wet. Wat telt is of je op de perceelgrens onder de grenswaarde blijft. In de praktijk helpt afstand daar wel bij, net als een geluidsscherm of een opstelling die niet recht op een slaapkamerraam is gericht.
 
-Alle vijf warmtepompen in deze vergelijking zitten met 45-48 dB(A) op de grens. Dat betekent: bij plaatsing dichtbij de erfgrens kan het tijdens piekbelasting net te luid zijn. Praktische aanbevelingen:
+Voor de meeste buitenunits geldt dat plaatsing vergunningvrij kan zijn, maar dat hangt af van de plek en de omvang. Een unit tegen de gevel aan de achterzijde ligt anders dan een unit op een plat dak of aan de voorgevel. Vraag het bij twijfel na bij het omgevingsloket van je gemeente vóórdat de installateur komt.
 
-- **Afstand erfgrens:** minimaal 1 meter, liefst 2 meter
-- **Niet direct onder slaapkamerramen** van jezelf of buren
-- **Geluidscherm:** bij krap perceel kan een kleine schutting of groenstrook 3-5 dB dempen
-- **Bouwbesluit:** een buitenunit tot 0,75 m³ vereist in de meeste gemeenten geen vergunning (vergunningvrij bouwwerk). Grotere units: check met je gemeente.
+Nog een punt dat regelmatig verkeerd wordt weergegeven: de aangekondigde **verplichting om vanaf 2026 bij ketelvervanging hybride te gaan, is ingetrokken** — niet uitgesteld. Er is dus geen wettelijke plicht die je tot een hybride warmtepomp dwingt.
 
-De Quatt scoort het beste op geluid (45 dB), de Bosch het minst goed (48 dB). Bij Jeroen in Apeldoorn heeft zijn buurman geen klachten over zijn Remeha — maar hij heeft de unit wél achter een houten scherm geplaatst op 1,5 meter van de erfgrens.
+## Aansluiting op de bestaande installatie
 
-### Stroomaansluiting
+De meeste hybride warmtepompen tot 6 à 8 kW werken op enkelfase 230 V met een eigen groep. Controleer of je meterkast ruimte heeft voor een extra groep; bij oudere kasten met weinig groepen is dat een aparte post in de offerte.
 
-De meeste hybride warmtepompen (tot 6-8 kW) werken op enkelfase 230V met een eigen groep van 16A. Controleer of jouw meterkast vrij heeft voor een extra groep. Oudere meterkastjes met 8-10 groepen kunnen een probleem zijn. De extra groep installeren kost €150-€300.
+Aan de waterzijde sluit de warmtepomp aan op je bestaande cv-installatie. Laat de installateur beoordelen of het leidingwater schoon genoeg is: vervuild systeemwater kan de warmtewisselaar aantasten. Spoelen of een filter plaatsen is aanzienlijk goedkoper dan een warmtewisselaar vervangen.
 
-### Loodgieterswerk
+Of je de cv-ketel meteen moet vervangen, hangt van zijn leeftijd af. Een ketel van minder dan acht à tien jaar oud die goed functioneert, is een prima partner voor de warmtepomp. Is de ketel ouder dan vijftien jaar of heeft hij al meerdere storingen gehad, dan is gelijktijdige vervanging logischer: je betaalt de installateur dan één keer voor het voorrijden en het aansluitwerk.
 
-Een hybride warmtepomp sluit aan op je bestaande verwarmingsinstallatie. Bij een ATAG of Bosch met eigen cv-ketel is dat naadloos. Bij andere combinaties past de installateur een aansluiting aan. Controleer of de bestaande cv-leidingen schoon zijn — vervuild leidingwater kan de warmtewisselaar aantasten.
+## Onderhoud en levensduur
 
-## Onderhoud en servicekosten over 10 jaar
+Een hybride opstelling betekent twee toestellen die onderhoud vragen: de warmtepomp en de cv-ketel. Onderhoudstarieven verschillen sterk per installateur en per contractvorm, en er is geen landelijk gepubliceerd tarief; vraag het bedrag daarom op vóórdat je tekent, en vraag erbij of het contract beide toestellen dekt of alleen de ketel.
 
-Een hybride warmtepomp vereist meer onderhoud dan een zuivere cv-ketel, maar minder dan je zou verwachten. Dit zijn de reële kosten:
+Waar je op moet letten in zo'n contract:
 
-| Post | Frequentie | Kosten |
-|------|-----------|--------|
-| Jaarlijks onderhoud warmtepomp | 1× per jaar | €150-€200 |
-| Jaarlijks onderhoud cv-ketel | 1× per jaar | €100-€130 |
-| Filter reinigen buitenunit | 2× per jaar | Zelf doen |
-| Koelmiddel controleren | Elke 3-5 jaar | €80-€120 |
-| Totaal per jaar (schatting) | — | €280-€380 |
+- Dekt het alleen de jaarlijkse beurt, of ook voorrijkosten en arbeid bij storing?
+- Zijn onderdelen inbegrepen of apart?
+- Is er een reactietermijn afgesproken bij uitval in het stookseizoen?
+- Verlengt onderhoud via het merknetwerk de fabrieksgarantie? Verschillende fabrikanten koppelen garantieverlenging aan onderhoud door een eigen partner — laat opschrijven welke voorwaarde precies geldt.
 
-Over 10 jaar: €2.800-€3.800 aan onderhoudskosten. Dat is €800-€1.300 meer dan een pure cv-ketel, maar de energiebesparing (€6.000-€9.000 over 10 jaar) compenseert dit ruimschoots.
+Over de levensduur: een compressor in een warmtepomp en een moderne cv-ketel gaan beide in de orde van vijftien tot twintig jaar mee, maar niet noodzakelijk gelijktijdig. Dat spreidt de vervangingskosten. Wanneer de ketel het uiteindelijk begeeft, is het moment om opnieuw te rekenen: als je woning tegen die tijd beter geïsoleerd is, kan volledig elektrisch verwarmen dan wél uit.
 
-**Tip:** sluit een onderhoudscontract af met de installateur. Dit kost €200-€280 per jaar maar dekt zowel de warmtepomp als de cv-ketel, en geeft prioriteit bij storingen. Verschillende fabrikanten (Remeha, Vaillant) bieden garantieverlenging tot 7-10 jaar als onderhoud via hun eigen netwerk verloopt.
+## Combinatie met zonnepanelen en een dynamisch contract
 
-### Levensduur en vervanging
+De warmtepomp verbruikt overdag de meeste stroom, en dat is ook het moment waarop zonnepanelen leveren. Met een dynamisch contract kun je bovendien sturen op uren met lage prijzen.
 
-Een compressor in een hybride warmtepomp gaat gemiddeld 15-20 jaar mee. De cv-ketel erbij: ook 15-20 jaar. In de praktijk betekent dit dat je beide systemen niet gelijktijdig vervangt, wat de kosten spreidt.
+Een **modelberekening**, opnieuw met expliciete aannames: een woning met tien zonnepanelen, een warmtepompverbruik van 1.600 kWh per jaar en een stroomprijs van € 0,23 per kWh.
 
-Na 15 jaar: overweeg dan of een full-electric warmtepomp zinvoller is. Tegen die tijd zijn de isolatienormen voor bestaande bouw aangescherpt, zijn de elektriciteitsprijzen relatief gedaald ten opzichte van gas, en zijn de warmtepompen verder geëvolueerd. De investering in de hybride vandaag is ook een stap in die richting.
+- Via eigen opwek gedekt: 900 kWh
+- Resterend: 700 kWh × € 0,23 = € 161
+- Zonder zonnepanelen: 1.600 kWh × € 0,23 = € 368
+- Verschil: **€ 207 per jaar**
 
-## Subsidie-update 2026: concrete ISDE-bedragen per model
-
-De ISDE is in 2026 onverminderd van toepassing op hybride warmtepompen. De bedragen zijn afhankelijk van het nominale vermogen en de SCOP-waarde. Dit zijn de actuele (indicatieve) bedragen voor de vijf modellen in dit artikel:
-
-| Model | Vermogen | ISDE-bedrag 2026 |
-|-------|---------|-----------------|
-| Remeha Elga Ace HT | 6-8 kW | €2.800-€3.200 |
-| Daikin Altherma 3 H Hybrid | 4-8 kW | €2.700-€3.100 |
-| Quatt (koop) | 5-7 kW | €2.500-€2.800 |
-| Bosch Compress 3000 AWS | 4-7 kW | €2.600-€3.000 |
-| Vaillant aroTHERM plus | 3-7 kW | €2.700-€3.100 |
-
-**Belangrijk:** het exacte bedrag staat in de RVO-apparatenlijst bij het volledige typenummer. Kleine varianten (bijv. R32 vs R290) kunnen een ander bedrag hebben. Vraag je installateur het typenummer te bevestigen vóór je tekent.
-
-Daarnaast bieden veel gemeenten aanvullende subsidies. Utrecht geeft €500 extra op een warmtepomp als je ook gevelisolatie neemt. Amsterdam heeft een Duurzaamheidsfonds met leningen van 0% rente. Check energieloket.nl voor jouw gemeente.
-
-## Combinatie met zonnepanelen en dynamisch contract
-
-De sterkste combinatie is een hybride warmtepomp met zonnepanelen (10 tot 12 panelen) en een dynamisch energiecontract.
-
-**Hoe het werkt:**
-
-De warmtepomp verbruikt het meeste stroom overdag, tussen 09:00 en 15:00 uur — precies wanneer je zonnepanelen op vol vermogen draaien. Bij een dynamisch contract (Tibber, Frank Energie) koppel je de warmtepomp aan uren met lage stroomprijzen. In de zomer draait de warmtepomp soms op 2-4 cent/kWh in plaats van 23 cent.
-
-**Rekenvoorbeeld (woning met 10 zonnepanelen, 3.500 kWh eigenverbruik):**
-
-- Jaarlijk stroomverbruik warmtepomp: 1.600 kWh
-- Via eigen opwek gedekt: 900 kWh (effectief gratis)
-- Resterende kosten: 700 kWh × €0,23 = €161
-- Versus zonder zonnepanelen: 1.600 kWh × €0,23 = €368
-- Extra besparing door zonnepanelen: **€207/jaar**
-
-De terugverdientijd van de warmtepomp daalt door de zonnepanelen van 3,7 naar circa 2,9 jaar. Dat is een significant effect.
-
-## Verlengde FAQ: veelgestelde vragen
-
-**Kan een hybride warmtepomp een woning verwarmen bij -15°C?**
-
-Ja, maar niet alleen via de warmtepomp. Bij extreme kou neemt de cv-ketel het over — dat is precies de bedoeling van het hybride concept. De Daikin Altherma 3 H Hybrid werkt door tot -25°C, maar bij die temperaturen draait hij op veel lagere COP en springt de ketel bij. In een doorsnee Nederlandse winter (gemiddeld slechts 5-8 dagen onder -5°C) heeft dit minimale invloed op je jaarbesparing.
-
-**Moet de cv-ketel vervangen worden bij een hybride warmtepomp?**
-
-Niet noodzakelijk. Als je cv-ketel minder dan 8-10 jaar oud is en goed functioneert, is hij ideaal als partner voor de warmtepomp. Is de ketel ouder dan 15 jaar of heeft hij al meerdere storingen gehad? Dan is gelijktijdige vervanging logisch — je bespaart op installatiekosten en hebt één werkende installatie. Overleg dit met de installateur.
-
-**Hoeveel kWh stroom verbruikt een hybride warmtepomp per jaar?**
-
-Bij een gemiddeld rijtjeshuis (label C, 1.600 m³ gas vóór installatie) verwacht je een stroomverbruik van de warmtepomp van 1.200-1.800 kWh/jaar. Bij een grotere woning of lager geïsoleerde woning: 2.000-2.800 kWh/jaar. Ter vergelijking: een gezin verbruikt gemiddeld 3.000-4.000 kWh/jaar aan huishoudstroom. De warmtepomp voegt dus 30-50% toe aan het stroomverbruik.
-
-**Gaat er stookcomfort verloren met een hybride warmtepomp?**
-
-Nee, bij een goed geconfigureerd systeem merk je geen verschil. De warmtepomp werkt geruisloos op de achtergrond en de cv-ketel springt bij als hij nodig is. Sommige mensen merken dat de woning gelijkmatiger warm is — de warmtepomp draait op deellast en houdt de temperatuur stabiel, terwijl een cv-ketel korter maar heter stookt.
-
-**Kan een hybride warmtepomp ook in een appartement?**
-
-In een appartement heb je een buitenunit nodig die ergens kan worden geplaatst (tuin, balkon, gemeenschappelijk dak). Dit vereist toestemming van de VvE. De meeste VvE's staan dit toe als de unit voldoet aan geluidslimieten. Vraag dit altijd schriftelijk na bij de VvE vóór je een offerte aanvraagt.
-
-**Wat als de warmtepomp kapot gaat en het vriest?**
-
-De cv-ketel neemt het volledig over — je huis blijft warm. Een hybride warmtepomp is per definitie een failsafe systeem: zelfs als de warmtepomp volledig uitvalt, heb je de ketel als back-up. Dit is een van de grote voordelen ten opzichte van een full-electric systeem.
+Twee kanttekeningen die deze som beïnvloeden. De salderingsregeling stopt **volledig per 1 januari 2027**; er is geen afbouwpad. Vanaf dat moment telt zelf verbruiken op het moment van opwek zwaarder dan terugleveren, wat de combinatie warmtepomp-plus-panelen juist gunstiger maakt dan in bovenstaande som. En het 0%-btw-tarief geldt alleen voor de panelen, niet voor de warmtepomp.
 
 ## Conclusie
 
-Voor de meeste Nederlandse huishoudens is de **Remeha Elga Ace HT** de beste keuze: de hoogste efficiëntie, een breed werkbereik en een sterk Nederlands servicenetwerk. Wil je geen hoge investering? Dan is het **Quatt**-abonnementsmodel een slimme keuze om direct te beginnen met gasbesparing.
+Er is geen merk dat voor iedere woning het beste is, en wie dat wel beweert, heeft het toestel niet naast jouw warmteverliesberekening gelegd. Wat wél generiek geldt:
 
-Vergeet niet dat je circa **€3.000 ISDE-subsidie** kunt ontvangen, plus eventuele gemeentelijke subsidies. Lees onze [complete ISDE subsidie gids](/posts/isde-subsidie-warmtepompen-2026/) voor alle details.
+- Laat het vermogen bepalen door een warmteverliesberekening, niet door een vuistregel of een prijslijst.
+- Controleer het volledige typenummer op de RVO-meldcodelijst vóór ondertekening — dat bepaalt of je ISDE krijgt.
+- Kies bewust tussen R32 en R290 en vraag welke opstellingseisen daarbij horen.
+- Laat bivalentpunt en stooklijn in de offerte vastleggen en na het eerste seizoen bijstellen; daar zit meer besparing dan in het verschil tussen twee merken.
+- Reken met je eigen gasverbruik. Onder ongeveer 1.000 m³ per jaar is isoleren de betere eerste investering.
 
-
-<a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Atag</a>
-
-
+Lees ook onze [gids over de ISDE-subsidie](/posts/isde-subsidie-warmtepompen-2026/) voor de aanvraagprocedure stap voor stap.
 
 ## Lees ook
 
-- **[ISDE Subsidie 2026: Complete Gids](/posts/isde-subsidie-warmtepompen-2026/)** — Alles over subsidie voor warmtepompen en isolatie
-- **[Zonnepanelen Subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/)** — Combineer je warmtepomp met zonnepanelen
-- **[Thuisbatterij Terugverdientijd Berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)** — Rendabel verduurzamen berekend
-- **[Dynamische Energiecontracten + Thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)** — Slimmer omgaan met je energie
+- **[ISDE Subsidie 2026: Complete Gids](/posts/isde-subsidie-warmtepompen-2026/)** — voorwaarden, bedragen en aanvraagvolgorde
+- **[Zonnepanelen Subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/)** — wat er per 2027 verandert aan saldering
+- **[Thuisbatterij Terugverdientijd Berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)** — narekenbaar model
+- **[Dynamische Energiecontracten + Thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)** — sturen op uurprijzen
 
 ---
 
-*Laatst bijgewerkt: april 2026.*
+*Laatst bijgewerkt: 21 augustus 2026. ISDE-bedragen en -voorwaarden gecontroleerd op rvo.nl, Remeha-specificaties op remeha.nl, Quatt-informatie op quatt.io, alle op 21 augustus 2026.*
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE-subsidie](https://www.rvo.nl/subsidies-financiering/isde) — officiële voorwaarden en rekentool.
