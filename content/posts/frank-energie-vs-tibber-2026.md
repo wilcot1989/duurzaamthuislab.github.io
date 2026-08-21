@@ -70,7 +70,7 @@ Wat dat in de praktijk oplevert en hoe de uurprijzen lopen, staat in [dynamische
 | Terugleverkosten | terugleverstaffel sinds 1 juni 2025 | geen aparte staffel gepubliceerd |
 | Prijsinterval | keuze uit uurprijzen of kwartierprijzen | uurprijzen |
 | Eigen hardware | geen, merkonafhankelijk | Pulse (P1-uitlezer), prijs niet openbaar |
-| Opzegbaarheid | zie voorwaarden | maandelijks opzegbaar |
+| Opzegbaarheid | eigen opgave: geen contractduur, maandelijks opzegbaar — niet in een publiek tariefblad terug te vinden | maandelijks opzegbaar |
 
 Peildatum: augustus 2026, op basis van de eigen websites van beide leveranciers.
 
@@ -128,7 +128,7 @@ Dat laatste is een reden om terughoudend te zijn met leverancier-gebonden hardwa
 
 ## Het risico dat je met beide accepteert
 
-Een dynamisch contract geeft geen prijszekerheid. Bij marktstress kunnen de uurprijzen fors uitlopen; het duurste uur van 2025 kostte 0,63 EUR per kWh kaal. Geen van beide leveranciers biedt daar een plafond tegen — het "prijsplafond" dat online aan Frank Energie wordt toegeschreven, bestaat niet.
+Een dynamisch contract geeft geen prijszekerheid. Bij marktstress kunnen de uurprijzen fors uitlopen; het duurste uur van 2025 kostte 0,63 EUR per kWh inclusief btw (beursprijs, exclusief energiebelasting en leverancierskosten). Geen van beide leveranciers biedt daar een plafond tegen — het "prijsplafond" dat online aan Frank Energie wordt toegeschreven, bestaat niet.
 
 Wat je er wél tegen kunt doen is verbruik verschuiven en, bij extreme prijzen, tijdelijk niet verbruiken. Dat is precies waar de apps en de automatisering voor zijn. Wie dat risico niet wil dragen, kiest een vast contract en betaalt daar een risico-opslag voor. Dat is een verdedigbare keuze, geen fout — zie [dynamisch contract vs vast contract](/posts/dynamisch-vs-vast-contract-2026/).
 

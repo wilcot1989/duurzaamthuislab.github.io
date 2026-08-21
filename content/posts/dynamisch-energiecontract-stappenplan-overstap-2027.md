@@ -52,15 +52,15 @@ Alle tarieven hieronder zijn de bedragen die de leveranciers zelf publiceren, op
 
 De overstap duurt vanaf aanmelding doorgaans vier tot acht weken. Dat komt door de opzegtermijn bij je huidige leverancier — meestal dertig dagen — plus de tijd die de nieuwe leverancier nodig heeft voor de administratieve verwerking en de melding bij de netbeheerder. Afgeleid van die doorlooptijd ziet de planning er zo uit:
 
-| Aanmelddatum | Verwachte start (4–8 weken) | Haal je 1 januari 2027? |
+| Moment van aanmelden | Verwachte start (4–8 weken later) | Haal je 1 januari 2027? |
 |---|---|---|
-| 1 oktober | eind oktober – eind november | ruim, marge voor problemen |
-| 15 oktober | half november – half december | comfortabel |
-| 1 november | eind november – eind december | net op tijd |
-| 15 november | half december – half januari | mogelijk twee weken te laat |
-| 1 december | eind december – eind januari | waarschijnlijk een maand te laat |
+| drie maanden vóór de streefdatum | ruim ervoor | ruim, met marge voor problemen |
+| tien weken ervoor | kort ervoor tot ruim ervoor | comfortabel |
+| acht weken ervoor | net ervoor tot op de datum | net op tijd |
+| zes weken ervoor | rond of net na de datum | mogelijk twee weken te laat |
+| vier weken ervoor | na de datum | waarschijnlijk een maand te laat |
 
-Dit is een afgeleide planning, geen toezegging. De enige datum die telt is die in de bevestigingsmail van je nieuwe leverancier. Staat daar een startdatum ná 1 januari en wil je dat niet, neem dan contact op — leveranciers kunnen een geplande datum soms vervroegen als de opzegging al rond is.
+Voor een start op 1 januari 2027 komt dat neer op: aanmelden in oktober, uiterlijk begin november. Dit is een afgeleide planning, geen toezegging. De enige datum die telt is die in de bevestigingsmail van je nieuwe leverancier. Staat daar een startdatum ná 1 januari en wil je dat niet, neem dan contact op — leveranciers kunnen een geplande datum soms vervroegen als de opzegging al rond is.
 
 Waarom 1 januari 2027 als richtpunt? Omdat de salderingsregeling per die datum volledig stopt. Er is geen afbouwpad: het wetsvoorstel met een geleidelijke afbouw is verworpen, dus per 1 januari 2027 vervalt saldering in één keer. Wat je vanaf dat moment voor teruglevering krijgt, bepaalt je leverancier. De structurele afweging tussen beide contractvormen staat in onze [vergelijking dynamisch vs vast contract](/posts/dynamisch-vs-vast-contract-2026/).
 
@@ -85,23 +85,23 @@ Hieronder een modelberekening met expliciete aannames. Dit zijn geen gemeten res
 
 **Aannames**
 
-- Gemiddelde day-ahead-prijs: 0,105 EUR/kWh (jaargemiddelde 2025).
-- Een huishouden verbruikt relatief meer in de ochtend- en avondpiek dan gemiddeld. Wij rekenen daarom met een profielopslag van 5 procent: 0,110 EUR/kWh voor ongestuurd verbruik.
-- Vast contract: 0,13 EUR/kWh kaal, exclusief btw. **Dit is een aanname**, geen marktgemiddelde — vul hier het tarief uit je eigen aanbod in.
-- Energiebelasting (0,09161 EUR/kWh excl. btw in 2026), netbeheerkosten en btw zijn in beide scenario's gelijk en vallen tegen elkaar weg. Alleen het kale leveringstarief en de vaste kosten verschillen dus.
-- Btw: 21 procent.
+- Gemiddelde day-ahead-prijs 2025: 0,105 EUR/kWh. **Let op: die beursprijs is al inclusief btw** (geverifieerd op de uurdata via EnergyZero), dus er gaat in deze som geen enkele keer nog een btw-stap over de marktprijs. Wie dat wél doet, telt de btw dubbel.
+- Wij rekenen daarom alles op **all-in basis**: marktprijs + energiebelasting van 0,11085 EUR/kWh inclusief btw + een opslag- en vaste-kostenaanname van 0,044 EUR/kWh inclusief btw. Dat geeft een all-in modelconstante van **0,26 EUR/kWh** voor dynamische stroom bij een vlak verbruiksprofiel.
+- Een huishouden verbruikt relatief meer in de ochtend- en avondpiek dan gemiddeld. Voor ongestuurd verbruik rekenen wij daarom met een profielopslag van **8 procent**, wat uitkomt op **0,272 EUR/kWh all-in**. Wordt verbruik wél naar de nacht verschoven — bijvoorbeeld het laden van een auto — dan rekenen wij met **0,220 EUR/kWh all-in**.
+- Vast contract: **0,32 EUR/kWh all-in** als referentie. **Dit is een gelabelde aanname**, geen marktgemiddelde — vul hier het tarief uit je eigen aanbod in, en let erop dat je een all-in tarief met een all-in tarief vergelijkt.
+- Netbeheerkosten zijn in beide scenario's gelijk en vallen tegen elkaar weg. De vaste kosten per maand van de leverancier staan hier los van; die zet je apart naast elkaar.
 
 **Scenario A — geen sturing, 2.800 kWh per jaar**
 
-Kaal dynamisch: 0,110 + 0,0248 inkoopvergoeding = 0,1348 EUR/kWh. Kaal vast: 0,13 EUR/kWh. Verschil: 0,0048 EUR/kWh in het nadeel van dynamisch, ofwel 13 EUR exclusief btw over 2.800 kWh — circa 16 EUR inclusief btw per jaar. Daar komen de vaste kosten nog bovenop, en die betaal je bij een vast contract meestal ook, dus die moet je één op één naast elkaar leggen.
+Dynamisch passief 0,272 EUR/kWh tegenover de vaste referentie van 0,32 EUR/kWh: een verschil van 0,048 EUR/kWh, ofwel circa **134 EUR per jaar** in het voordeel van dynamisch.
 
-De conclusie van dit scenario is dat het verschil kleiner is dan de onzekerheid in de aanname over het vaste tarief. Wie niets kan verschuiven, stapt niet over om geld te besparen.
+Dat bedrag staat en valt met de referentie, en dat is precies de zwakke plek. Kun je een vast contract krijgen voor 0,28 EUR/kWh all-in, dan blijft er 0,008 EUR/kWh over — circa **22 EUR per jaar**, minder dan de vaste kosten van de meeste leveranciers. Met andere woorden: wie niets kan verschuiven, stapt niet over om geld te besparen, maar om van de prijsvorm zelf gebruik te kunnen maken op het moment dat er wél iets te sturen valt.
 
 **Scenario B — 2.400 kWh verschoven naar goedkope uren**
 
-Stel dat een elektrische auto 2.400 kWh per jaar laadt en dat volledig 's nachts doet. Aanname: het gemiddelde over die uren ligt 40 procent onder het jaargemiddelde, dus 0,063 EUR/kWh. Plus inkoopvergoeding: 0,0878 EUR/kWh, tegenover 0,13 EUR/kWh bij vast. Verschil: 0,0422 EUR/kWh × 2.400 kWh = 101 EUR exclusief btw, ofwel circa 123 EUR inclusief btw per jaar. Trek daar de vaste kosten van af die je bij een vast contract niet zou betalen, en houd rekening met de opslag op het ongestuurde deel van je verbruik uit scenario A.
+Stel dat een elektrische auto 2.400 kWh per jaar laadt en dat volledig 's nachts doet, tegen onze nachtconstante van 0,220 EUR/kWh all-in. Tegenover de vaste referentie van 0,32 EUR/kWh is dat 0,10 EUR/kWh × 2.400 kWh = circa **240 EUR per jaar**. Trek daar de vaste kosten van af die je bij een vast contract niet zou betalen, en houd rekening met de profielopslag op het ongestuurde deel van je verbruik uit scenario A.
 
-Die 40 procent is de gevoeligste aanname in de hele som. Hoe groot de spreiding tussen goedkoopste en duurste uur op dit moment werkelijk is, kun je zien op onze pagina met [actuele stroomprijzen](/stroomprijzen/). Halveert de spreiding, dan halveert het voordeel.
+De vaste referentie is ook hier de gevoeligste aanname: bij 0,28 EUR/kWh vast zakt het voordeel naar circa **144 EUR per jaar**. De tweede gevoeligheid is de spreiding tussen de uren. Hoe groot die op dit moment werkelijk is, zie je op onze pagina met [actuele stroomprijzen](/stroomprijzen/). Halveert de spreiding, dan halveert dit voordeel mee.
 
 **Scenario C — met thuisbatterij**
 
@@ -149,7 +149,7 @@ ANWB Energie geeft de marktprijs door met inkoopkosten van 0,018 EUR/kWh en schr
 
 **"Ik wacht tot januari, dan weet ik pas wat er met saldering gebeurt."** De salderingsregeling stopt per 1 januari 2027; dat staat vast en daar kan geen leverancier van afwijken. Wat nog niet vaststaat is wat individuele leveranciers daarna voor teruglevering betalen. Dat verandert echter niets aan de doorlooptijd van een overstap, dus wachten kost je alleen tijd.
 
-**"Dynamisch is alleen iets voor mensen die de hele dag naar een grafiek kijken."** Dat hoeft niet, maar het omgekeerde klopt ook niet: wie níet stuurt, haalt er volgens scenario A vrijwel geen voordeel uit. Het rendement zit in de automatisering, niet in het contract zelf.
+**"Dynamisch is alleen iets voor mensen die de hele dag naar een grafiek kijken."** Dat hoeft niet, maar het omgekeerde klopt ook niet: het voordeel van scenario A valt volledig binnen de onzekerheid van het vaste tarief waarmee je vergelijkt, en kan bij een scherp vast aanbod zelfs verdwijnen. Het rendement zit in de automatisering, niet in het contract zelf.
 
 **"Ik wissel gewoon weer als het tegenvalt."** Dat kan meestal, maar elke wissel kost opnieuw vier tot acht weken. Reken liever vooraf door dan achteraf te corrigeren.
 

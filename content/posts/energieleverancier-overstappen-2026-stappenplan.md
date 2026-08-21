@@ -75,7 +75,7 @@ Het Nederlandse stroomnet is sterk verweven met Duitsland, België en andere buu
 ### Wat heb je nodig?
 
 1. **Een slimme meter** — verplicht. Controleer je huidige situatie via de app van je netbeheerder (Liander, Enexis, Stedin of Coteq). Heb je nog geen slimme meter? Vraag hem gratis aan.
-2. **Een P1-poort of slim energiesysteem** — niet verplicht maar sterk aanbevolen. De P1-poort op je slimme meter leest je verbruik realtime uit. Combineer met een Tibber Pulse (Tibber publiceert daarvoor geen prijs, zie de Tibber Store) of een HomeWizard Wi-Fi P1-meter (**€24,95**, homewizard.com, peildatum 21 augustus 2026) om je verbruik per kwartier te monitoren.
+2. **Een P1-poort of slim energiesysteem** — niet verplicht maar sterk aanbevolen. De P1-poort op je slimme meter leest je verbruik realtime uit. Combineer met een Tibber Pulse (Tibber publiceert daarvoor geen prijs, zie de Tibber Store) of een <a href="https://go.duurzaamthuislab.nl/homewizard" target="_blank" rel="nofollow noopener sponsored">HomeWizard Wi-Fi P1-meter</a> (**€24,95**, opgave HomeWizard, peildatum 21 augustus 2026) om je verbruik per kwartier te monitoren.
 3. **Verschuifbaar verbruik** — hoe meer grote apparaten je kunt programmeren (wasmachine, vaatwasser, laadpaal, warmtepompboiler), hoe groter de besparing.
 
 ---
@@ -93,8 +93,8 @@ Tibber is een Noorse leverancier die naast Nederland ook in Duitsland en Scandin
 - Teruglevering: je krijgt de uurprijs van het moment; voor de exacte vergoedingsregels geldt het tariefblad van Tibber
 
 **Sterktes:**
-- App: de beste in zijn klasse. Per uur je kosten, grafieken, tips voor goedkope uren, pushberichten bij lage of hoge prijzen
-- Integraties: Homey Pro, IFTTT, Home Assistant, Pluggy, BMW/Tesla-laadpalen
+- App: op de featurelijst de meest uitgebreide van de drie — kosten per uur, grafieken, markering van goedkope uren en pushberichten bij lage of hoge prijzen
+- Integraties: volgens de eigen integratiepagina onder meer Homey, Home Assistant en laadpalen van diverse merken; welke koppelingen op dit moment actief zijn, staat daar en wijzigt regelmatig
 - Tibber Pulse: eigen P1-lezer die realtime data naar de app stuurt — Tibber publiceert de prijs niet op de site, dus check de Tibber Store
 - API: open API voor zelfbouwers en home automation-enthousiastelingen
 
@@ -103,7 +103,7 @@ Tibber is een Noorse leverancier die naast Nederland ook in Duitsland en Scandin
 - Klantenservice soms traag (chat-only, geen telefoon)
 - Geen separate gas-spotprijzen — gas loopt via vaste opslag
 
-**Onze inschatting:** de app is de sterkste van de drie. Je ziet dagelijks een overzicht van de goedkope uren, en de automatiseringen werken zonder dat je zelf iets hoeft in te stellen — een thuisbatterij of laadpaal laat je bijvoorbeeld automatisch laden in de goedkoopste uren van de nacht. Dat is precies waar het verschil met de concurrentie zit.
+**Onze inschatting:** op functies gemeten biedt Tibber van de drie het meeste: een overzicht van de goedkope uren en een gedocumenteerde API waarmee een laadpaal of thuisbatterij op het uurtarief kan sturen. Wij hebben de apps niet zelf beoordeeld; wat een specifieke koppeling in jouw situatie doet, staat in de documentatie van de leverancier en van je eigen hardware.
 
 ### Frank Energie
 
@@ -143,9 +143,9 @@ ANWB Energie biedt naast vaste contracten ook een dynamisch product. Het richt z
 - Geschikt voor mensen die minder technisch zijn en vertrouwen willen
 
 **Zwaktes:**
-- App minder geavanceerd
-- Minder focus op community en optimalisatie
-- Integraties met smart home-systemen beperkt
+- Geen gedocumenteerde open API en geen eigen uitleesapparaat, waardoor sturen op uurprijzen via derde partijen moet
+- Minder gericht op zelf optimaliseren dan Tibber
+- Je betaalt de inkoopkosten per kWh ook als je niets verschuift
 
 **Onze inschatting:** ANWB Energie Dynamisch is een goede instap voor wie dynamisch wil zonder zich in techniek te verdiepen, en het vaste termijnbedrag voorkomt een schrikrekening midden in een koudegolf. Je betaalt daar €0,018/kWh inkoopkosten voor. Wil je actief besparen en automatiseren, dan zijn Tibber of Frank de betere keuze.
 
@@ -202,7 +202,7 @@ Meld je aan via de website van de gekozen leverancier. Je hebt nodig: EAN-code (
 
 De nieuwe leverancier stuurt namens jou een opzegging naar de oude leverancier. Jij ontvangt een bevestiging met de overstapdata. Er is geen stroomonderbreking — de netbeheerder blijft hetzelfde.
 
-Doorgaans duurt de overstap 2–3 weken. Soms iets langer in drukke perioden (januari, september).
+Reken op 2 tot 4 weken, net als hierboven in de veelgestelde vragen. In drukke perioden kan het langer duren; de datum die telt is die in je bevestigingsmail.
 
 ### Stap 5: Installeer de app en stel meldingen in (dag 1 na activering)
 
@@ -256,11 +256,15 @@ Die situatie is veranderd. Waarom?
 
 Veel huishoudens gebruiken gas voor koken en verwarming naast hun elektriciteitstarief. Hoe werkt dat bij een dynamisch contract?
 
-**Gas is niet dynamisch.** Tibber, Frank Energie en de meeste dynamische aanbieders leveren gas op een variabel kwartaaltarief — dat wil zeggen, de gasprijs wordt ieder kwartaal bijgesteld op basis van de markt, maar is niet per uur variabel. Dat is anders dan elektriciteit.
+**Gas is niet dynamisch.** Bij dynamische aanbieders loopt gas doorgaans op een variabel tarief dat periodiek wordt bijgesteld, niet per uur. Hoe vaak die bijstelling plaatsvindt verschilt per leverancier en staat in het tariefblad; wij noemen daarom geen vaste periode. Wel geldt bij alle aanbieders: gas volgt niet de uurprijs zoals elektriciteit dat doet.
 
-**Vergelijk het gastartief apart.** Let op de leveringsopslag voor gas bij elk contract. Sommige aanbieders hebben een lagere opslag voor elektriciteit maar compenseren dat met een hogere gasopslag.
+**Vergelijk het gastarief apart.** Let op de leveringsopslag voor gas bij elk contract. Sommige aanbieders hebben een lagere opslag voor elektriciteit maar compenseren dat met een hogere gasopslag.
 
-**Teruglevering zonnepanelen.** Als je zonnepanelen hebt en je levert terug aan het net, vergelijk je de terugleververgoeding. Bij een dynamisch contract krijg je de spotprijs van het moment terug (meestal 80–100%). Bij een vast contract krijg je een vaste vergoeding per kWh — vaak lager dan de spotprijzen op zonnige middagen.
+**Moet gas via dezelfde leverancier?** Niet per se. Je kunt elektriciteit bij de ene en gas bij de andere leverancier afnemen. Dat kan gunstig uitpakken bij een hoog gasverbruik, maar levert wel twee facturen en twee klantenservices op. Vergelijken kun je met onze eigen [vergelijker voor dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/) en met het tariefblad van de aanbieders zelf.
+
+**Komt er binnenkort een warmtepomp?** Dan daalt je gasverbruik sterk, en is het minder zinvol om gas voor één of twee jaar vast te zetten. Een variabel gastarief houdt je dan vrij op het moment dat de warmtepomp er staat.
+
+**Teruglevering zonnepanelen.** Als je zonnepanelen hebt en je levert terug aan het net, vergelijk je de terugleververgoeding. Bij een dynamisch contract is de vergoeding gekoppeld aan de uurprijs van het moment; hoe die precies wordt berekend en welke posten er nog afgaan, staat in het tariefblad van je leverancier. Percentages van de spotprijs die online circuleren, komen zelden uit een gepubliceerd tariefblad — neem ze dus niet over. Bij een vast contract krijg je een vaste vergoeding per kWh, die op zonnige middagen hoger of lager kan uitvallen dan de uurprijs.
 
 Concreet: stel de spotprijs is €0,12/kWh om 13:00 en je levert terug. Tibber geeft je €0,12/kWh. Een vast contract geeft misschien €0,07/kWh. Bij 500 kWh teruglevering per jaar is het verschil: €25. Klein, maar het telt.
 
@@ -292,8 +296,6 @@ Naast de apps van de leveranciers zijn er extra tools die helpen bij slimme verb
 <a href="https://go.duurzaamthuislab.nl/homewizard" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk de HomeWizard P1-meter →</a>
 
 **Home Assistant (gratis, open source):** voor de meer technische gebruikers. Integreert met Tibber API, P1-meters, slimme thermostaten, laadpalen en thuisbatterijen. Volledig automatiseerbaar via scripts en automations.
-
-**Pluggy:** gratis app die verbindt met meer dan 100 energieapparaten en dynamische contracten. Plant je verbruik automatisch in goedkope uren.
 
 **ENTSO-E Transparency Platform:** openbare data over Europese spotprijzen, gratis toegankelijk. Handig om historische prijspatronen te begrijpen.
 
@@ -330,28 +332,13 @@ Wees ook eerlijk over de gevallen waar dynamisch niet loont:
 Als je nog 11 maanden vastzit aan een contract met €180 opzegboete, maar je besparing €150/jaar is, ben je het eerste jaar slechter af.
 
 **Fout 2: Verwachten dat je niks hoeft te doen.**
-Je kunt dynamisch aanmelden en achteroverleunen — maar dan spaar je slechts 5–8%. De echte winst zit in gedragsaanpassing.
+Je kunt dynamisch aanmelden en achteroverleunen, maar dan betaal je ongeveer het gewogen gemiddelde van de uurprijzen plus de opslag van je leverancier — en dat ligt dicht bij een vast tarief. De winst zit in het daadwerkelijk verschuiven van verbruik; hoeveel dat is, volgt uit je eigen verschoven kWh maal het prijsverschil.
 
 **Fout 3: Vergeten de terugleverkosten te vergelijken.**
 Als je zonnepanelen hebt, is de terugleverpost vaak groter dan het servicegeld. Frank rekent sinds 1 juni 2025 een staffel: hoe meer je terugleverde, hoe hoger het tarief per kWh. Vergelijk die staffel en de terugleververgoeding per leverancier op hun eigen tariefblad — percentages van de spotprijs die je online tegenkomt, staan zelden in een gepubliceerd tariefblad.
 
 **Fout 4: Geen realtime monitoring instellen.**
-Zonder P1-lezer of slimme meter-koppeling vlieg je blind. Een HomeWizard Wi-Fi P1-meter kost €24,95 (peildatum 21 augustus 2026); voor de Tibber Pulse publiceert Tibber geen prijs.
-
----
-
-## Gas bij een dynamisch contract: separate overweging
-
-Veel mensen vergeten dat een energiecontract twee onderdelen heeft: elektriciteit en gas. De dynamische aanbieder regelt de elektriciteit per uur dynamisch; gas gaat doorgaans op een kwartaalvariabel tarief.
-
-**Moet gas via dezelfde leverancier?**
-Niet per se. Je kunt elektriciteit bij Tibber afnemen en gas bij een andere leverancier. Sommige huishoudens splitsen dit bewust om de beste prijs voor gas te krijgen. Maar twee facturen en twee klantenservices — dat is niet voor iedereen handig.
-
-**Wanneer vergelijk je gas apart?**
-Als je een hoog gasverbruik hebt (>1.800 m³/jaar), kan een aparte gasaanbieder met gunstig kwartaaltarief of een gasvaste prijs voordelig zijn. Vergelijkhoudende sites als Gaslicht.com of Energievergelijk.nl zijn hiervoor handig.
-
-**Wat als er binnenkort een warmtepomp komt?**
-Dan daalt je gasverbruik drastisch. Dat maakt het minder zinvol om je gas vast te zetten tegen een lage prijs voor 1 of 2 jaar — je hebt dat gas straks nauwelijks nog nodig. Kies dan liever een variabel kwartaaltarief voor gas, zodat je geen contract uitloopt als de warmtepomp aankomt.
+Zonder P1-lezer of slimme meter-koppeling vlieg je blind. Een <a href="https://go.duurzaamthuislab.nl/homewizard" target="_blank" rel="nofollow noopener sponsored">HomeWizard Wi-Fi P1-meter</a> kost €24,95 (opgave HomeWizard, peildatum 21 augustus 2026); voor de Tibber Pulse publiceert Tibber geen prijs.
 
 ---
 

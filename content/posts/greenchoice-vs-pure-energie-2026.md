@@ -168,4 +168,4 @@ Het tweede is teruglevering. Met het einde van de saldering op 1 januari 2027 wo
 - [Energieleverancier overstappen: stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/)
 - [Dynamisch vs vast contract](/posts/dynamisch-vs-vast-contract-2026/)
 - [Saldering stopt in 2027](/posts/saldering-stopt-2027-volledige-gids/)
-- [Salderingsregeling afbouw: wat betekent het](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)
+- [Einde saldering: wat betekent het voor jou](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)

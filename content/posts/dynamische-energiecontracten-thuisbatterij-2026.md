@@ -20,7 +20,7 @@ keywords:
 - energie arbitrage
 - slim laden thuisbatterij
 - dynamisch tarief batterij
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -28,7 +28,7 @@ faq:
 - q: 'Wat is een dynamisch energiecontract?'
   a: 'Bij een dynamisch energiecontract betaal je per uur een wisselende prijs voor stroom, gebaseerd op de day-ahead marktprijs. Bij veel wind of zon is stroom goedkoop of zelfs negatief; bij hoge vraag op koude windstille avonden is stroom duur. Je profiteert door verbruik te verschuiven naar goedkope uren.'
 - q: 'Hoeveel kun je besparen met een dynamisch contract en thuisbatterij?'
-  a: 'In onze modelberekening met een batterij van 10 kWh levert het opslaan van eigen zonnestroom circa 385 euro per jaar op en handelen op prijsverschillen circa 110 tot 195 euro per jaar. Na aftrek van de vaste contractkosten van circa 72 euro komt het model uit op circa 420 tot 510 euro per jaar. De uitkomst hangt volledig af van de prijsspreiding in dat jaar en van je eigen verbruikspatroon.'
+  a: 'In onze modelberekening met een batterij van 10 kWh levert het opslaan van eigen zonnestroom circa 273 euro per jaar op en handelen op prijsverschillen circa 80 euro per jaar, samen circa 353 euro. Na aftrek van de vaste contractkosten van circa 72 euro blijft er circa 281 euro per jaar over. Wij rekenen bewust met 150 volle zoncycli per jaar en niet met een cyclus per dag: in de winterhelft is er structureel geen overschot om mee te laden. De uitkomst hangt verder af van de prijsspreiding in dat jaar en van je eigen verbruikspatroon.'
 - q: 'Welke dynamische energieleveranciers zijn er in Nederland?'
   a: 'Onder meer Tibber, Zonneplan, ANWB Energie, easyEnergy, Frank Energie, Vandebron, EnergyZero en Eneco. Tarieven en vaste kosten verschillen sterk en wijzigen regelmatig; controleer ze op de tarievenpagina van de leverancier voordat je kiest.'
 - q: 'Kan elke thuisbatterij automatisch laden en ontladen op dynamische tarieven?'
@@ -43,11 +43,11 @@ schema_type: Article
 ---
 Een thuisbatterij gekoppeld aan een dynamisch energiecontract kan op twee manieren geld opleveren: door zonnestroom op te slaan voor eigen gebruik én door te handelen op prijsverschillen — laden als de uurprijs laag is, ontladen als hij hoog is. In dit artikel leggen we uit hoe dat mechanisme werkt, welke leverancierstarieven publiek zijn en wat het volgens een narekenbare modelberekening oplevert.
 
-*Disclosure: wij hebben geen affiliate- of commissierelatie met Tibber, Frank Energie, ANWB Energie of Zonneplan (stand augustus 2026) en ontvangen geen vergoeding als je via onze links overstapt. De links naar deze leveranciers zijn gewone verwijzingen.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Tibber, Frank Energie, ANWB Energie of Zonneplan (stand augustus 2026) en ontvangen geen vergoeding als je via onze links overstapt — dat zijn gewone verwijzingen. De link naar EcoFlow is wél een partnerlink: koop je daar iets, dan ontvangen wij een commissie, zonder extra kosten voor jou. Dat verandert niets aan wat er in dit artikel staat.*
 
 💡 *Niet zeker over de stop van de saldering per 1 januari 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
-> **Kort antwoord:** de combinatie van een thuisbatterij en een dynamisch contract levert in onze modelberekening circa 420 tot 510 euro per jaar op bij een batterij van 10 kWh — opgebouwd uit circa 385 euro aan opgeslagen zonnestroom en circa 110 tot 195 euro aan handelen op prijsverschillen, min circa 72 euro vaste contractkosten. Bij een investering van 5.500 euro komt de terugverdientijd daarmee op circa 11 tot 13 jaar. Alle aannames staan verderop in dit artikel.
+> **Kort antwoord:** de combinatie van een thuisbatterij en een dynamisch contract levert in onze modelberekening circa 353 euro per jaar op bij een batterij van 10 kWh — opgebouwd uit circa 273 euro aan opgeslagen zonnestroom (150 volle zoncycli, geen cyclus per dag) en circa 80 euro aan handelen op prijsverschillen. Na aftrek van circa 72 euro vaste contractkosten blijft er circa 281 euro over. Bij een investering van 5.500 euro is de terugverdientijd daarmee circa 20 jaar — langer dan de garantietermijn van vrijwel elke batterij. Alle aannames staan verderop in dit artikel.
 
 ## De tarieven waarmee we rekenen
 
@@ -99,7 +99,7 @@ Praktisch gevolg: één of twee maanden meten geeft geen betrouwbaar beeld van h
 | Sessy | ja, open API | ja |
 | Marstek | beperkt | ja |
 | Tesla Powerwall 3 | beperkt | ja, complex |
-| EcoFlow PowerOcean | beperkt | ja |
+| <a href="https://go.duurzaamthuislab.nl/ecoflow" target="_blank" rel="nofollow noopener sponsored">EcoFlow</a> PowerOcean | beperkt | ja |
 | BYD Battery-Box | via omvormer | ja |
 
 Welke leverancier welke batterij rechtstreeks aanstuurt, wisselt: integraties worden toegevoegd en verdwijnen weer. Controleer dat vóór aankoop bij zowel de batterijfabrikant als de leverancier, in plaats van op een tabel in een artikel te vertrouwen. Wij nemen hier geen integratieclaims per leverancier over die wij niet in de documentatie van beide partijen konden terugvinden.
@@ -134,7 +134,7 @@ Ter illustratie een dagpatroon (geen gemeten dag, maar een typisch verloop):
 | 17:00-21:00 | hoog | ontladen voor eigen gebruik |
 | 22:00-01:00 | midden | standby of licht laden |
 
-Rekenvoorbeeld per cyclus, met een aangenomen bruikbaar verschil in marktprijs van 0,12 euro/kWh: dat is 0,12 euro voordeel per kWh. Bij een batterij van 10 kWh en 90% rendement is dat 10 x 0,9 x 0,12 = **circa 1,08 euro per volledige cyclus**. De actuele uurprijzen van vandaag en morgen staan op onze [stroomprijzenpagina](/stroomprijzen/); daar zie je zelf hoe groot het verschil op een gegeven dag is.
+Rekenvoorbeeld per cyclus, met een aangenomen netto bruikbaar verschil in marktprijs van 0,10 euro/kWh: bij een batterij van 10 kWh en 90% rendement is dat 10 x 0,9 x 0,10 = **circa 0,90 euro per volledige cyclus**. Over circa 100 bruikbare wintercycli komt dat neer op de 80 euro per jaar waarmee wij verderop rekenen — ofwel onze constante van 8 euro per kWh capaciteit. De actuele uurprijzen van vandaag en morgen staan op onze [stroomprijzenpagina](/stroomprijzen/); daar zie je zelf hoe groot het verschil op een gegeven dag is.
 
 ## Twee opbrengstbronnen naast elkaar
 
@@ -156,21 +156,25 @@ Dit is een modelberekening, geen meting. De aannames:
 - **Jaarverbruik:** 3.500 kWh
 - **Afnameprijs dynamisch:** 0,26 euro/kWh all-in (jaargemiddelde 2025 van 0,105 incl. btw + energiebelasting 2026 van 0,11085 incl. btw + opslag-aanname 0,044 incl. btw)
 - **Terugleververgoeding:** 0,07 euro/kWh (aanname; niet gepubliceerd en per contract verschillend)
-- **Bruikbaar verschil in marktprijs voor handelen:** 0,12 euro/kWh (aanname)
+- **Netarbitrage:** 8 euro per kWh capaciteit per jaar (gelabelde eigen afleiding: circa 100 wintercycli tegen een netto spreiding van 0,10 euro per kWh; alleen mogelijk op een dynamisch contract)
+- **Aantal volle zoncycli:** 150 per jaar. Meer is niet realistisch: van oktober tot maart is er te weinig overschot om de batterij dagelijks vol te laden
 - **Vaste contractkosten:** 71,88 euro per jaar (Tibber, 5,99 euro per maand voor één energiesoort)
 - **Situatie:** na 1 januari 2027, dus zonder saldering
 
-**Bron 1 — zonnestroom opslaan:** 2.250 kWh per jaar door de batterij, maal 90% rendement = 2.025 kWh die je zelf verbruikt in plaats van terug te leveren. Waarde per kWh: 0,26 − 0,07 = 0,19 euro. Opbrengst: 2.025 x 0,19 = **385 euro per jaar**.
+**Bron 1 — zonnestroom opslaan:** 10 kWh maal 150 volle zoncycli = 1.500 kWh per jaar die je via de batterij zelf verbruikt in plaats van terug te leveren. Elke kWh die je zo verbruikt bespaart de afnameprijs van 0,26 euro, maar kost de terugleververgoeding over de kWh die je ervoor moet inladen — en door het rendementsverlies is dat 1/0,9 kWh. De waarde is dus 0,26 − 0,07/0,9 = **0,182 euro per kWh**. Opbrengst: 1.500 x 0,182 = **273 euro per jaar**.
 
-**Bron 2 — handelen op prijsverschillen:** 100 volledige cycli per jaar naast de zonne-opslag, 10 kWh per cyclus, 90% rendement, 0,12 euro voordeel per kWh: 100 x 10 x 0,9 x 0,12 = **108 euro per jaar**. In een jaar met veel prijsspreiding en 180 bruikbare cycli: **194 euro per jaar**.
+**Bron 2 — handelen op prijsverschillen:** volgens onze modelconstante van 8 euro per kWh capaciteit per jaar komt dat bij 10 kWh uit op **80 euro per jaar**. Die constante is bewust laag: de spreiding is niet elke dag groot en op grijze winterdagen valt hij vaak helemaal weg. Reken nooit met een volle cyclus per dag tegen de maximale spreiding.
 
-| Component | Conservatief | Gunstig jaar |
-|---|---|---|
-| Zonnestroom opslaan | 385 euro | 385 euro |
-| Handelen op prijsverschillen | 108 euro | 194 euro |
-| Vaste kosten dynamisch contract | −72 euro | −72 euro |
-| **Netto per jaar** | **421 euro** | **507 euro** |
-| **Terugverdientijd bij 5.500 euro** | **circa 13,1 jaar** | **circa 10,8 jaar** |
+| Component | Modeluitkomst 10 kWh |
+|---|---|
+| Zonnestroom opslaan (1.500 kWh x 0,182 euro) | 273 euro |
+| Netarbitrage (10 kWh x 8 euro) | 80 euro |
+| **Bruto per jaar** | **353 euro** |
+| Vaste kosten dynamisch contract | −72 euro |
+| **Netto per jaar** | **281 euro** |
+| **Terugverdientijd bij 5.500 euro** | **circa 20 jaar** |
+
+Ter referentie, met hetzelfde model: 5 kWh levert circa 177 euro bruto per jaar op, 15 kWh circa 530 euro.
 
 Voor een thuisbatterij bestaat geen ISDE-subsidie, dus reken met de volledige investering inclusief 21% btw. Vervang de aannames door je eigen cijfers — vooral het investeringsbedrag en de aangenomen prijsspreiding hebben grote invloed op de uitkomst.
 
@@ -264,7 +268,7 @@ Controleer in de eerste weken dagelijks of de sturing echt op de goedkoopste ure
 
 ## Conclusie
 
-Een thuisbatterij op een dynamisch contract heeft twee opbrengstbronnen die elkaar door het jaar heen afwisselen. In onze modelberekening met een batterij van 10 kWh komt dat neer op circa 420 tot 510 euro per jaar en een terugverdientijd van circa 11 tot 13 jaar bij een investering van 5.500 euro — zonder rijkssubsidie, want die is er voor batterijen niet, en met 21% btw op de accu.
+Een thuisbatterij op een dynamisch contract heeft twee opbrengstbronnen die elkaar door het jaar heen afwisselen. In onze modelberekening met een batterij van 10 kWh komt dat neer op circa 353 euro bruto per jaar, circa 281 euro na de vaste contractkosten, en een terugverdientijd van circa 20 jaar bij een investering van 5.500 euro — zonder rijkssubsidie, want die is er voor batterijen niet, en met 21% btw op de accu. Dat is langer dan de garantietermijn van vrijwel elke batterij, en dus de eerlijke conclusie: op deze aannames is een thuisbatterij financieel geen sluitende investering.
 
 Of dat voor jou uitkomt, hangt af van drie dingen die je zelf moet invullen: je investeringsbedrag, hoeveel zonnestroom je werkelijk door de batterij stuurt, en hoe groot de prijsspreiding in jouw jaar is.
 

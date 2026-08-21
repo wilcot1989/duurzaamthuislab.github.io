@@ -12,9 +12,11 @@ keywords:
   - eindafrekening energie verhuizen
   - dynamisch contract nieuw adres
 author: Team DuurzaamThuisLab
-affiliate: false
+affiliate: true
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1600585154340-be6161a56a0c&w=1200&output=webp&q=70
-category: "Energie"
+categories:
+  - energiecontracten
+  - smart-home
 tags:
   - energie
   - verhuizen
@@ -24,7 +26,7 @@ tags:
   - slimme meter
   - eindafrekening
 schema_type: "Article"
-last_updated: 2026-06-12
+last_updated: 2026-08-21
 lastmod: 2026-08-21
 faq:
 - q: "Hoe zeg ik mijn energiecontract op bij verhuizing?"
@@ -53,9 +55,9 @@ faq:
   a: 'Als je in een overgangsperiode een tijdelijke huurwoning betrekt: sluit geen langdurig vast contract. Kies iets dat maandelijks opzegbaar is — een dynamisch contract bij Tibber is dat bijvoorbeeld, tegen €5,99 per maand per energiesoort plus €0,0248 per kWh inkoopvergoeding. Let bij elke aanbieder op de vaste maandkosten: die loop je door, ook als je nauwelijks verbruikt.'
 ---
 
-*Disclosure: de links naar Frank Energie, Sessy, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+*Disclosure: de link naar HomeWizard is een affiliate-link; koop je via die link, dan ontvangen wij een commissie. De links naar Frank Energie, Sessy, Tibber en Zonneplan zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie. Dat verandert niets aan wat er in dit artikel staat.*
 
-Het energiecontract overzetten bij een verhuizing is op zichzelf een klus van een uur. Het gaat vooral mis wanneer het te laat wordt gemeld: dan valt de nieuwe woning terug op het standaardtarief, of blijkt de slimme meter nog niet geschikt te zijn voor uurafrekening bij een dynamisch contract. Dat zijn de twee klachten die het vaakst terugkomen in gebruikersforums en in de informatie van de netbeheerders.
+Het energiecontract overzetten bij een verhuizing is op zichzelf een klus van een uur. Het gaat vooral mis wanneer het te laat wordt gemeld: dan valt de nieuwe woning terug op het standaardtarief, of blijkt de slimme meter nog niet geschikt te zijn voor uurafrekening bij een dynamisch contract. Dat zijn precies de twee punten waar de verhuisprocedures van leveranciers en netbeheerders het meest nadrukkelijk op wijzen.
 
 In dit artikel zetten wij stap voor stap uit elkaar hoe je je energiecontract overzet bij een verhuizing, hoe je de slimme meter uitleest, hoe de eindafrekening werkt en welk contract in 2026 het best past bij je nieuwe woning. Wij baseren ons daarbij op de verhuisprocedures van de leveranciers, de informatie van netbeheerders en de regels van toezichthouder ACM.
 
@@ -111,7 +113,7 @@ Op de leveringsdatum (de dag dat jij de sleutels overdraagt) noteert de netbehee
 2. De **beginrekening** van de nieuwe eigenaar bij zijn leverancier
 
 **Typische timing:**
-- Eindafrekening ontvang je 4–8 weken na de verhuisdatum
+- De eindafrekening volgt enkele weken na de verhuisdatum; de exacte termijn verschilt per leverancier en staat in de eigen voorwaarden — vraag hem na in plaats van uit te gaan van een vuistregel
 - Bij te veel betaalde voorschotten: je krijgt het verschil terug
 - Bij te weinig betaald: je ontvangt een naheffing
 
@@ -128,7 +130,7 @@ De netbeheerder registreert automatisch — maar dat systeem is niet foutloos. E
 
 Een slimme meter heeft twee manieren om uit te lezen:
 1. **Het display:** druk op de knop en blader door de standen. Zoek naar "1.8.1" (dag) en "1.8.2" (nacht) voor elektriciteit, en "2.8.1"/"2.8.2" voor teruglevering bij zonnepanelen. Gas staat onder code "0-1:24.2.1."
-2. **P1-poort via een lezer:** als je een [HomeWizard P1-meter of Tibber Pulse](/posts/beste-energiemonitor-p1-meter-2026/) hebt, kun je de exacte meterstand uitlezen via de bijbehorende app. Handig als het display niet makkelijk leesbaar is.
+2. **P1-poort via een lezer:** als je een P1-uitleesapparaat hebt — bijvoorbeeld de <a href="https://go.duurzaamthuislab.nl/homewizard" target="_blank" rel="nofollow noopener sponsored">HomeWizard P1-meter</a> (24,95 EUR, opgave HomeWizard, augustus 2026) of de Tibber Pulse — kun je de exacte meterstand uitlezen via de bijbehorende app. Handig als het display niet makkelijk leesbaar is. Een vergelijking staat in [beste energiemonitor P1-meter 2026](/posts/beste-energiemonitor-p1-meter-2026/).
 
 ---
 
@@ -161,7 +163,7 @@ Wij noemen daarom bewust geen winnaar: bij één van de twee ontbreken de cijfer
 
 ### Vattenfall, Eneco en Essent: wanneer toch een vast contract?
 
-Als je verhuist naar een nieuwbouwwoning waarbij de gasloos-eis al is ingebouwd (warmtepomp + all-electric), kan een speciaal warmtepomp-tarief van Vattenfall of Eneco interessant zijn. Sommige leveranciers bieden "E-only" contracten met lagere tarieven voor volledig elektrische huishoudens. Vergelijk dit altijd met een dynamisch contract via [energieleverancier overstappen 2026 stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/).
+Verhuis je naar een all-electric woning zonder gasaansluiting, dan gaat je stroomverbruik flink omhoog en weegt de prijs per kWh zwaarder dan de vaste kosten. Of een van de grote leveranciers daar met een speciaal tarief voor volledig elektrische huishoudens beter uitkomt, is zonder gepubliceerde tarieven niet te beoordelen: vraag bij de aanbieders die je overweegt het actuele tariefblad op en zet dat naast een dynamisch contract. Vergelijk dit altijd met een dynamisch contract via [energieleverancier overstappen 2026 stappenplan](/posts/energieleverancier-overstappen-2026-stappenplan/).
 
 ---
 
@@ -174,7 +176,7 @@ Niet elke woning heeft een slimme meter. En niet elke slimme meter is goed gecon
 Controleer dit bij het tekenen van de koopakte of via de website van de netbeheerder (postcode + huisnummer). Heb je nog geen slimme meter in de nieuwe woning?
 
 1. Vraag hem aan bij de netbeheerder — gratis en verplicht beschikbaar voor alle huishoudens
-2. Doorlooptijd: 4–8 weken
+2. Doorlooptijd: reken op enkele weken; de netbeheerder noemt bij de aanvraag zelf een termijn, en die verschilt per regio en per periode
 3. Je kunt pas echt een dynamisch contract afrekenen als de slimme meter actief is en metingen doorstuurt
 
 ### Communicatiemodule controleren
@@ -185,7 +187,7 @@ Oplossing: bel je netbeheerder en vraag of de communicatiemodule actief is en me
 
 ### P1-poort koppelen voor realtime monitoring
 
-Als de slimme meter actief is, is de P1-poort (de kleine RJ11-aansluiting aan de onderkant) jouw gateway naar realtime monitoring. Met een [Tibber Pulse of HomeWizard P1](/posts/tibber-pulse-p1-meter-review-2026/) koppel je jouw meter direct aan de app. Dit is een van de eerste dingen die je in een nieuwe woning kunt regelen: het geeft vanaf dag één inzicht in het verbruiksprofiel, wat handig is bij het instellen van een dynamisch contract.
+Als de slimme meter actief is, is de P1-poort (de RJ12-aansluiting aan de onderkant) jouw gateway naar realtime monitoring. Met een Tibber Pulse (zie onze [Tibber Pulse review](/posts/tibber-pulse-p1-meter-review-2026/)) of de <a href="https://go.duurzaamthuislab.nl/homewizard" target="_blank" rel="nofollow noopener sponsored">HomeWizard P1-meter</a> koppel je jouw meter direct aan de app. Dit is een van de eerste dingen die je in een nieuwe woning kunt regelen: het geeft vanaf dag één inzicht in het verbruiksprofiel, wat handig is bij het instellen van een dynamisch contract.
 
 ---
 
@@ -235,7 +237,7 @@ Alles elektrisch (warmtepomp, inductiekookplaat). Je verbruik van elektriciteit 
 
 ### Thuisbatterij als buffer
 
-Overweeg je een plug-in thuisbatterij zoals <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a> of de Marstek Venus? Met een dynamisch contract laad je die op in de goedkoopste uren (doorgaans 's nachts) en ontlaad je tijdens de dure avonduren. Wat dat oplevert, hangt volledig af van de batterijcapaciteit, het aantal cycli per jaar en het dagelijkse prijsverschil op de spotmarkt — er is geen vast bedrag te noemen. Een doorrekening met expliciete aannames staat in [dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
+Overweeg je een plug-in thuisbatterij zoals <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a> of een model uit de huidige Marstek-lijn (Mini 2, E 4.0 of E MAX)? Met een dynamisch contract laad je die op in de goedkoopste uren (doorgaans 's nachts) en ontlaad je tijdens de dure avonduren. Wat dat oplevert, hangt volledig af van de batterijcapaciteit, het aantal cycli per jaar en het dagelijkse prijsverschil op de spotmarkt — er is geen vast bedrag te noemen. Een doorrekening met expliciete aannames staat in [dynamische energiecontracten thuisbatterij 2026](/posts/dynamische-energiecontracten-thuisbatterij-2026/).
 
 ---
 
