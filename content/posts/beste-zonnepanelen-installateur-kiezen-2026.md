@@ -1,7 +1,7 @@
 ---
 title: 'Beste zonnepanelen-installateur kiezen 2026: 11 checks voor elke offerte'
 date: 2026-08-29 08:00:00+02:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: Hoe kies je in 2026 een goede zonnepanelen-installateur? 11 concrete checks, de rode vlaggen die in offertes opduiken, en waar het prijsverschil tussen offertes vandaan komt.
 categories:
 - zonnepanelen
@@ -32,46 +32,40 @@ faq:
 - q: 'Wat als de installateur na een paar jaar failliet gaat?'
   a: 'Dan vervalt de bedrijfsgarantie maar niet de fabrieksgarantie op de panelen zelf. Trina, JA Solar en LONGi geven 25 jaar productgarantie direct via de fabrikant. Voor de omvormer (Enphase, SolarEdge) geldt 10-25 jaar fabrieksgarantie. Wat je verliest is de installatie-garantie en de gratis service. Dat is de reden om bij voorkeur te kopen bij een Zonnekeur-installateur met verzekerde garantie.'
 - q: 'Is een goedkope zonnepanelen-installateur een rode vlag?'
-  a: 'Niet automatisch, maar wel als de prijs ver onder het marktgemiddelde ligt. In 2026 ligt de gangbare offerteprijs op circa €450-€550 per paneel inclusief BTW, omvormer en montage. Ligt een offerte daar tientallen procenten onder, dan zit het verschil vaak in B-grade panelen, een 1-fase omvormer waar 3-fasig nodig is, of een ontbrekende NEN1010-controle. Vraag bij verdacht lage offertes altijd om de exacte productcodes en controleer die op de website van de fabrikant.'
+  a: 'Niet automatisch, maar wel als de prijs ver onder het marktgemiddelde ligt. Vergelijk daarvoor niet per paneel maar per wattpiek: een gangbare offerteprijs ligt rond €0,80-€1,05 per Wp inclusief btw, omvormer en montage. Bij panelen van 440 Wp komt dat neer op ongeveer €350-€460 per paneel. Ligt een offerte daar tientallen procenten onder, dan zit het verschil vaak in B-grade panelen, een 1-fase omvormer waar 3-fasig nodig is, of een ontbrekende NEN1010-controle. Vraag bij verdacht lage offertes altijd om de exacte productcodes en controleer die op de website van de fabrikant.'
 - q: 'Moet de installateur een dakcheck doen voordat ik teken?'
   a: 'Ja, altijd. Een serieuze installateur stuurt iemand voor een fysieke dakinspectie of vraagt om foto''s van dakhelling, dakpannen, schoorsteen en zolderconstructie. Wie een offerte stuurt op basis van alleen Google Maps of postcode levert vaak panelen die niet passen of waarvoor extra kosten komen ná installatie. Naheffingen van enkele honderden euro''s voor een "onverwachte dakdoorvoer" na ondertekening zijn een bekend gevolg.'
 - q: 'Hoe weet ik of de panelen écht uit Europa komen?'
   a: 'Vraag om de batchcode en de exacte fabrikant. Trina is China, Meyer Burger is Zwitserland, Solitek is Litouwen. "Europese kwaliteit" op een offerte betekent niets — het kan een Chinees paneel met EU-keuring zijn. Voor Made in Europe betaal je 15-25% meer maar krijg je betere garantievoorwaarden en lagere CO2-footprint per kWh.'
 - q: 'Wat moet ik vragen over saldering-stop 2027?'
-  a: 'Vraag concreet: "Hoe verandert mijn terugverdientijd na 1 januari 2027?" Een goede installateur rekent met dynamische prijzen en terugleververgoeding 6-9 ct/kWh, niet met saldering. Veel installateurs verkopen nog op oude rekenmodellen waarbij saldering blijft — dat is misleidend. Vraag ook of ze thuisbatterij-uitbreiding ondersteunen voor na 2027.'
+  a: 'Vraag concreet: "Hoe verandert mijn terugverdientijd na 1 januari 2027?" De saldering stopt op die datum volledig — er is geen afbouwpad. Een goede installateur rekent daarom met je eigen verbruik plus een terugleververgoeding, en niet meer met saldering. Voor die vergoeding hebben de leveranciers nog geen tarieven voor 2027 gepubliceerd; wie met een concreet getal rekent, hanteert een aanname en hoort dat er ook bij te zeggen. Vraag ook of thuisbatterij-uitbreiding wordt ondersteund.'
 - q: 'Is een installateur met ster-reviews op Google betrouwbaar?'
   a: 'Wel een indicator, geen bewijs. Kijk naar minimaal 50 reviews die over minstens drie jaar verspreid staan; veel reviews in korte tijd is verdacht. Check daarnaast Klacht.nl, Trustpilot en een zoekopdracht op "[bedrijfsnaam] failliet". Consumentenprogramma''s en de Consumentenbond publiceren regelmatig over probleemgevallen in de zonnepanelenbranche — de bedrijfsnaam googelen kost twee minuten.'
 - q: 'Wat als ik klacht heb na installatie en de installateur reageert niet?'
   a: 'Eerst aangetekend brief sturen met deadline 14 dagen. Daarna naar Stichting Geschillencommissie (alleen bij Zonnekeur-leden) of Consumentenbond. Bij verzekerde garantie via SolarTOTAL of HollandSolar: contact opnemen met de garantieverzekeraar. Bij faillissement: curator aanmelden binnen 6 maanden. Voor elektrotechnische storingen: NEN1010-keurmeester inschakelen voor objectieve beoordeling.'
-products:
-- name: Zonneplan dakcheck
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '0'
-- name: Vergelijking installateurs (gratis quickscan)
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '0'
 schema_type: Article
 ---
-Tekenen bij de eerste installateur die belt is nog steeds de meest gemaakte fout. Een veelvoorkomend patroon: veertien panelen en een omvormer voor rond de €9.500, waarbij bij nader inzien een 1-fase omvormer op een 3-fasen meterkast staat gepland, de panelen B-grade zijn en het bedrijf pas een paar maanden bestaat. Wie in zo'n situatie vijf nieuwe offertes ophaalt, komt vaak duizenden euro's lager uit met betere componenten. **Het verschil zit niet in geluk, maar in vergelijken.**
+Tekenen bij de eerste installateur die belt is nog steeds de meest gemaakte fout. Het patroon dat je in offertevergelijkingen terugziet: veertien panelen met omvormer voor rond de €9.500 — omgerekend ruim €1,50 per wattpiek, ver boven de gangbare bandbreedte — waarbij bij nader inzien een 1-fase omvormer op een 3-fasen meterkast staat ingetekend, de panelen geen modelcode hebben en het bedrijf pas een paar maanden bestaat. Wie in zo'n situatie extra offertes ophaalt, komt vaak fors lager uit met betere componenten. **Het verschil zit niet in geluk, maar in vergelijken.**
 
-*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: de verwijzingen naar Zonneplan in dit artikel leveren ons geen vergoeding op — met deze partij hebben wij geen affiliate- of commissierelatie.*
 
 ---
 
 💡 *Nog twijfels of zonnepanelen anno 2026 nog wel rendabel zijn? Lees [beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-2026-na-saldering/) voor de cijfers.*
 
 
-> **Kort antwoord:** Hoe kies je in 2026 een goede zonnepanelen-installateur? 11 concrete checks, de rode vlaggen die in offertes opduiken, en waar het prijsverschil tussen offertes vandaan komt.
+> **Kort antwoord:** vergelijk offertes op **prijs per wattpiek** (gangbaar: €0,80-€1,05/Wp inclusief btw, omvormer en montage), eis volledige productcodes van panelen en omvormer, en controleer of de installateur zijn installatiegarantie verzekerd heeft bij een derde partij. Die drie checks filteren de meeste slechte offertes er al uit.
+>
+> Vraag minstens drie en liefst vijf offertes aan, en teken nooit tijdens het eerste bezoek.
 
-## Waarom 2026 het lastigste jaar ooit is om te kiezen
+## Waarom de keuze in 2026 extra nauw luistert
 
-In 2025 stopte de saldering-uitfasering tijdelijk door politieke discussie, in 2026 is duidelijk: vanaf 2027 saldeer je niet meer 100%. Dat heeft drie effecten op de installateurs-markt:
+Eén ding staat vast: **de saldering stopt volledig per 1 januari 2027.** Er is geen afbouwpad en geen overgangsregeling; het afbouwschema dat nog rondgaat, hoort bij een wetsvoorstel dat is verworpen. Dat heeft twee gevolgen voor de manier waarop je een installateur beoordeelt:
 
-1. **Kleine bedrijven vallen om.** De vraag naar nieuwe installaties liep terug en dat is in de hele keten te zien; een installateur die vandaag garantie belooft, hoeft er over vijf jaar niet meer te zijn.
-2. **Verkoopdruk neemt toe.** Verkopers proberen oude rekenmodellen te slijten waarbij saldering blijft — niet correct.
-3. **Marges staan onder druk.** Dat drukt de prijzen, maar zwakke installateurs leveren ook ondermaats om te overleven.
+1. **Rekenmodellen kloppen niet meer.** Elke offerte die de terugverdientijd baseert op saldering, rekent met een regeling die er vanaf 2027 niet meer is. Vraag door: waar komt het bedrag per teruggeleverde kWh vandaan, en is dat een gepubliceerd tarief of een aanname? Leveranciers hebben hun terugleververgoedingen voor 2027 nog niet gepubliceerd, dus het antwoord kan alleen "een aanname" zijn — een installateur die dat toegeeft, is betrouwbaarder dan een die een hard getal noemt.
+2. **De garantie moet de installateur overleven.** Een installatiegarantie is niet meer waard dan het bedrijf dat hem afgeeft. Daarom staat de financiële check hieronder op nummer één.
 
-Wie nu kiest moet dus **dubbel** zorgvuldig zijn. Hieronder de 11 checks.
+Hieronder de 11 checks.
 
 ## Check 1: KvK + jaarrekening + verzekering
 
@@ -316,9 +310,9 @@ Eén categorie valt altijd af: bedrijven die na een faillissement onder een nieu
 
 In 2026 is een goede installateur kiezen geen kwestie van "voelt goed" maar van **systematisch checken**. Doe het KvK-onderzoek, vraag minstens 5 offertes, eis productcodes en garantievoorwaarden zwart-op-wit. De duizenden euro's verschil tussen offertes zijn het gevolg van vergelijken, niet van geluk.
 
-Begin met een [gratis dakcheck via Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) om te weten wat je dak aankan, en leg daarna deze 11 checks naast elke offerte die je krijgt.
+Een dakcheck is een goed startpunt om te weten wat je dak aankan; <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta" rel="nofollow noopener" target="_blank">Zonneplan biedt zo'n check aan</a>. Leg daarna deze 11 checks naast elke offerte die je krijgt.
 
-[Vraag nu een gratis dakcheck aan](https://go.duurzaamthuislab.nl/zonneplan) — onverbindend en geen verkoopdruk. <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener">Zonneplan dakcheck →</a>
+*Voor deze verwijzing naar Zonneplan ontvangen wij geen vergoeding.*
 
 ---
 
@@ -329,8 +323,9 @@ Een typische vergelijking, uitgewerkt met fictieve maar realistische bedragen vo
 | | Offerte A | Offerte B | Offerte C |
 |---|---|---|---|
 | Prijs | €8.200 | €10.400 | €7.450 |
-| Panelen | JA Solar 450 Wp | Trina Vertex S+ | "Chinees A-merk", geen modelcode |
-| Omvormer | Solis, met typenummer | SolarEdge HD-Wave | geen typenummer |
+| Panelen | JA Solar 450 Wp (8.100 Wp) | Trina Vertex S+ 450 Wp (8.100 Wp) | "Chinees A-merk", geen modelcode |
+| Prijs per Wp | €1,01 | €1,28 | €0,92 |
+| Omvormer | Solis, met typenummer | SolarEdge HD-Wave met optimizers | geen typenummer |
 | Levertijd | 4 weken | 8 weken | "in overleg" |
 
 De laagste prijs is hier de zwakste offerte: C valt af op check 5, want zonder productcodes is niets te controleren en is een garantieclaim later lastig. B is technisch in orde, maar optimizers en een premium omvormer leveren op een schaduwvrij dak weinig extra op — je betaalt voor functionaliteit die je niet gebruikt. A is in deze opzet de logische keuze: complete specificatie, marktconforme prijs per Wp en een realistische levertijd.
@@ -343,7 +338,7 @@ Drie situaties waarin DIY of een online pakket gunstiger uitvalt. Ten eerste: je
 
 Vier fouten die keer op keer terugkomen. Eén: kiezen op basis van Trustpilot-score zonder te checken of de reviews echt zijn — sommige bedrijven kopen recensies. Twee: tekenen na één bezoek omdat de verkoper zegt "deze prijs geldt alleen vandaag" — dat is per definitie misleiding (Wet OHP). Drie: geen aanbetalingsbeperking in het contract — bij faillissement van de installateur ben je je 50 procent kwijt. Maximaal 25 procent aanbetaling is gangbaar. Vier: de eindfactuur betalen voordat het keuringsrapport binnen is — eis betaling pas na NEN1010-oplevering en correcte registratie bij netbeheerder.
 
-## Extra FAQ
+## Nog drie vragen over faillissement en verkoopdruk
 
 **Wat als mijn installateur halverwege failliet gaat?**
 Dan bepaalt vooral je betaalwijze hoe groot de schade is. Een gewone SEPA-overschrijving biedt geen bescherming: je bent concurrent schuldeiser en staat achteraan in de rij bij de curator. Bij creditcardbetaling kun je in sommige gevallen een chargeback aanvragen bij je kaartuitgever — de voorwaarden verschillen per uitgever, dus check dat vooraf. De praktische bescherming zit dus in de contractvorm: kleine aanbetaling, betalen in termijnen, eindbetaling pas na oplevering. Vraag daarnaast expliciet naar een afbouw- of garantieregeling via een derde partij; binnen het Zonnekeur-stelsel horen zulke afspraken erbij.

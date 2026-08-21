@@ -1,7 +1,7 @@
 ---
 title: 'Energiekosten besparen: 100 praktische tips voor 2026'
 date: 2026-05-14 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 description: 100 bewezen manieren om je energierekening te verlagen in 2026. Van gratis gedragsverandering tot grote investeringen.
 categories:
 - energie
@@ -21,37 +21,32 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Hoeveel kan ik gemiddeld besparen op mijn energierekening?
-  a: Een gemiddeld huishouden geeft €2.400-€3.200 per jaar uit aan energie. Met een combinatie van gedragsverandering, kleine ingrepen en grote maatregelen is besparing van 30-60% realistisch — dat is €720-€1.920 per jaar.
+- q: Hoeveel kan ik besparen op mijn energierekening?
+  a: 'Dat hangt volledig af van hoeveel je investeert. Gratis gedragsmaatregelen en ingrepen onder €100 leveren in onze modelberekening samen enkele honderden euro''s per jaar op. Stapel je daar de grote maatregelen bovenop — isolatie, zonnepanelen, een hybride warmtepomp, een batterij en een dynamisch contract — dan komt het model uit op ruwweg €2.000 per jaar bij een investering in de orde van €18.000 vóór subsidie. Alle aannames van die berekening staan onderaan het artikel.'
 - q: Wat zijn de goedkoopste manieren om energie te besparen?
-  a: Kierdichting (€10-€50), verwarmingsthermostaat een graad lager (€70/jaar besparing), LED verlichting (€50 investering, €150/jaar besparing) en radiatorfolie (€15) geven de beste verhouding tussen investering en rendement.
+  a: 'Kierdichting, de thermostaat een graad lager, LED-verlichting en radiatorfolie geven de beste verhouding tussen investering en besparing. Een graad lager scheelt bij een gasverbruik van 1.500 m3 ongeveer €99-€116 per jaar, LED-verlichting in een woning met twintig lampen ongeveer €105-€140 per jaar.'
 - q: Is een dynamisch energiecontract echt goedkoper?
-  a: Voor huishoudens met zonnepanelen en/of een thuisbatterij is een dynamisch contract gemiddeld €300-€600/jaar goedkoper. Zonder flexibel verbruik is het voordeel kleiner en soms zelfs nadelig bij hoge piekmomenten.
+  a: 'Alleen als je verbruik kunt verschuiven. In dit artikel rekenen wij met een bandbreedte van €150 tot €400 per jaar, afhankelijk van hoeveel van je verbruik je naar goedkope uren kunt verplaatsen. Zonder flexibel verbruik is het voordeel klein en bij veel verbruik tijdens avondpieken kun je duurder uit zijn.'
 - q: Wanneer is een warmtepomp financieel interessant?
-  a: Een hybride warmtepomp is financieel interessant bij een gasverbruik van meer dan 1.500 m3/jaar en een woning met minimaal energielabel C. Na ISDE-subsidie van ~€3.000 ligt de terugverdientijd vaak onder de 5 jaar.
-- q: Wat levert zonnepanelen gemiddeld op in Nederland?
-  a: Een systeem van 10 panelen (3.300 Wp) levert circa 2.800-3.000 kWh per jaar op. Bij een stroomprijs van €0,32/kWh bespaar je €896-€960 per jaar, exclusief de saldering-afbouw na 2027.
+  a: 'Een hybride warmtepomp wordt interessanter naarmate je gasverbruik hoger is en je woning beter geisoleerd is. Let op de netto besparing: je bespaart gas, maar verbruikt extra stroom. In onze modelberekening blijft daar bij een verbruik van 1.500 m3 ongeveer €320 per jaar van over. Er is ISDE-subsidie op warmtepompen; het bedrag hangt af van het typenummer van het toestel en zoek je op via de apparatenlijst of rekentool van RVO. Vraag de subsidie aan na de installatie, binnen 24 maanden.'
+- q: Wat leveren zonnepanelen gemiddeld op in Nederland?
+  a: 'Een systeem van 10 panelen (3.300 Wp) levert circa 2.800-3.000 kWh per jaar op. Zolang de saldering nog geldt (tot en met 31 december 2026) is elke opgewekte kWh je inkoopprijs waard: bij €0,26/kWh is dat €730-€780 per jaar. Vanaf 1 januari 2027 stopt de saldering volledig en telt alleen nog wat je zelf verbruikt tegen €0,26; de rest gaat tegen de terugleververgoeding van je leverancier. Bij 30-35% zelfverbruik en een aangenomen terugleververgoeding van €0,07/kWh komt het model dan uit op €355-€420 per jaar.'
 - q: Welke subsidies zijn beschikbaar in 2026?
-  a: De ISDE-regeling geeft eigenaar-bewoners subsidie op warmtepompen, zonneboilers, isolatie, ventilatie in combinatie met isolatie, een warmtenetaansluiting en elektrisch koken. Het bedrag verschilt per maatregel (zie rvo.nl) en is hoger bij twee of meer maatregelen. Aanvullend zijn er gemeentelijke regelingen en het Nationaal Warmtefonds (lening). VvE's vallen onder de SVVE. Het oude SEEH-programma bestaat niet meer en kon tot en met 31 december 2022 worden aangevraagd.
-products:
-- name: Tibber dynamisch energiecontract
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: variabel
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '3999'
+  a: 'De ISDE-regeling geeft eigenaar-bewoners subsidie op warmtepompen, zonneboilers, isolatie, ventilatie in combinatie met isolatie, een warmtenetaansluiting en elektrisch koken. Het bedrag verschilt per maatregel en per typenummer; zoek het op via de apparatenlijst of rekentool op rvo.nl. Vraag de subsidie aan na de installatie: bij een warmtepomp binnen 24 maanden, bij isolatie binnen 12 maanden. Aanvullend zijn er gemeentelijke regelingen en het Nationaal Warmtefonds (lening). VvE''s vallen onder de SVVE. Het oude SEEH-programma bestaat niet meer en kon tot en met 31 december 2022 worden aangevraagd.'
 schema_type: Article
 ---
-Een energierekening van ruim €3.000 terugbrengen naar rond de €1.000 lukt zelden met één grote ingreep. Het is de stapeling van tientallen kleine en middelgrote maatregelen die het verschil maakt. In dit artikel staan 100 concrete tips, gesorteerd van gratis naar duurder. De genoemde besparingen zijn richtbedragen op basis van gemiddelde Nederlandse verbruikscijfers (Milieu Centraal, Nibud) en de energietarieven van 2026 — je eigen resultaat hangt af van woning, gezinssamenstelling en contract.
+Een energierekening fors verlagen lukt zelden met één grote ingreep. Het is de stapeling van tientallen kleine en middelgrote maatregelen die het verschil maakt. In dit artikel staan 100 concrete tips, gesorteerd van gratis naar duurder.
+
+Alle bedragen zijn **modelberekeningen** op basis van een gemiddeld Nederlands verbruik en de tarieven hieronder. Het zijn geen metingen en geen garanties: je eigen resultaat hangt af van woning, gezinssamenstelling, isolatieniveau en contract.
 
 *Disclosure: de links naar Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
 
 ---
 
 
-> **Kort antwoord:** 100 bewezen manieren om je energierekening te verlagen in 2026. Van gratis gedragsverandering tot grote investeringen.
+> **Kort antwoord:** begin bij de maatregelen die niets of bijna niets kosten — de thermostaat een graad lager, korter douchen, kierdichting, LED — want die leveren per geinvesteerde euro veruit het meeste op. De grote maatregelen (isolatie, zonnepanelen, warmtepomp, batterij) leveren in absolute euro's meer op, maar vragen een investering in de orde van duizenden euro's.
 >
-> Een gemiddeld huishouden geeft €2.400-€3.200 per jaar uit aan energie. Met een combinatie van gedragsverandering, kleine ingrepen en grote maatregelen is besparing van 30-60% realistisch — dat is €720-€1.920 per jaar.
+> In onze modelberekening onderaan dit artikel komt het stapelen van de tien sterkste maatregelen uit op ruwweg €2.000 besparing per jaar bij circa €18.000 investering vóór subsidie — een terugverdientijd van ongeveer negen jaar.
 
 ## Hoe dit artikel is opgebouwd
 
@@ -65,7 +60,19 @@ De 100 tips zijn verdeeld in zeven categorieën:
 6. **Opwek en opslag** (tips 83-92)
 7. **Contract en leverancier** (tips 93-100)
 
-Bij elk blok staat een indicatie van de jaarlijkse besparing op basis van gemiddelde Nederlandse verbruikscijfers (2.500 kWh stroom, 1.500 m3 gas, stroomprijs €0,32/kWh, gasprijs €1,10/m3).
+### De aannames waarmee gerekend is
+
+Alle bedragen in dit artikel volgen uit deze uitgangspunten. Vervang ze door je eigen cijfers en de bedragen schuiven mee.
+
+| Aanname | Waarde | Herkomst |
+|---|---|---|
+| Stroomverbruik | 2.500 kWh/jaar | gemiddeld huishouden |
+| Gasverbruik | 1.500 m3/jaar, waarvan ±1.200 m3 ruimteverwarming en ±250 m3 warm water | gemiddeld huishouden |
+| Stroomprijs | **€0,26/kWh** | EPEX-jaargemiddelde 2025 €0,105 + inkoopopslag €0,02 + energiebelasting €0,09161, alles excl. btw, x 1,21 |
+| Gasprijs | **€1,10/m3** | marktprijs ±€0,30 + energiebelasting €0,60066, excl. btw, x 1,21 |
+| Terugleververgoeding vanaf 2027 | €0,07/kWh | **aanname** — leveranciers hebben hun tarieven voor 2027 nog niet gepubliceerd |
+
+Netbeheerkosten zitten hier niet in: dat is een vast jaarbedrag dat niet meebeweegt met je verbruik. De energiebelasting is per 1 januari 2023 samengevoegd met de opslag duurzame energie; een aparte ODE-post bestaat niet meer.
 
 ---
 
@@ -87,7 +94,7 @@ Sluit radiatoren in ongebruikte kamers en zet de thermostaatknop op stand 1 of 2
 
 ### 4. Kort douchen
 
-Een douchebeurt van 5 minuten in plaats van 10 minuten scheelt jaarlijks circa 160 liter warm water per persoon per dag — of tientallen euro's aan gaskosten. Voor een gezin van 4: **€80-€120 per jaar**.
+Vijf minuten korter douchen scheelt bij een douchekop van circa 8 liter per minuut ongeveer **40 liter warm water per persoon per dag** — voor een gezin van vier dus 160 liter per dag. Opwarmen van 10 naar 40 graden kost daarvoor ruwweg 2.000 kWh aan warmte per jaar; met een cv-ketel is dat circa 230 m3 gas. Bij €1,10/m3 komt dat op **€200-€290 per jaar** voor een gezin van vier, afhankelijk van je douchekop en douchetemperatuur. Dit is de grootste gratis besparing in dit hele artikel.
 
 ### 5. Douche op lagere temperatuur
 
@@ -107,11 +114,11 @@ De eco-stand van een vaatwasser gebruikt 20-30% minder energie dan het normale p
 
 ### 9. Laat de vaatwasser niet standby staan
 
-Een vaatwasser in standby verbruikt 1-5 watt continu. Over een jaar is dat 9-44 kWh, ofwel **€3-€14 per jaar**. Klein, maar gratis te fixen door de stekker eruit te trekken.
+Een vaatwasser in standby verbruikt 1-5 watt continu. Over een jaar is dat 9-44 kWh, ofwel **€2-€11 per jaar**. Klein, maar gratis te fixen door de stekker eruit te trekken.
 
 ### 10. Schakel apparaten écht uit — geen standby
 
-Een TV op standby verbruikt 0,5-2 watt. Een settopbox zelfs 5-15 watt. Samen 30 watt aan standby-apparaten staat gelijk aan **€84 per jaar**. Gebruik een stekkerdoos met schakelaar.
+Een TV op standby verbruikt 0,5-2 watt. Een settopbox zelfs 5-15 watt. Samen 30 watt aan standby-apparaten is 263 kWh per jaar, oftewel **€68 per jaar**. Gebruik een stekkerdoos met schakelaar.
 
 ### 11. Kook met deksel op de pan
 
@@ -147,7 +154,7 @@ Een desktopcomputer op volledige kracht verbruikt 150-300 watt. Op energiebespar
 
 ### 19. Hang de was buiten of op een rek
 
-Een wasdroger verbruikt 2-4 kWh per cyclus. Bij vier keer per week drogen is dat 416-832 kWh per jaar — **€133-€266 per jaar**. Gratis besparing: hang de was op.
+Een wasdroger verbruikt 2-4 kWh per cyclus. Bij vier keer per week drogen is dat 416-832 kWh per jaar — **€108-€216 per jaar**. Gratis besparing: hang de was op.
 
 ### 20. Dek ramen af met dikke gordijnen 's nachts
 
@@ -175,7 +182,7 @@ Slimme thermostaatknoppen (Tado, Bosch, Netatmo) sturen elke radiator individuee
 
 ### 25. LED-verlichting in alle armaturen (€50-€150 totaal)
 
-Een gloeilamp of halogeenlamp verbruikt 40-60 watt, een LED-equivalent 6-8 watt. Voor een woning met 20 lampen die gemiddeld 4 uur per dag branden, bespaar je **€130-€175 per jaar**.
+Een gloeilamp of halogeenlamp verbruikt 40-60 watt, een LED-equivalent 6-8 watt. Voor een woning met 20 lampen die gemiddeld 4 uur per dag branden, bespaar je **€105-€140 per jaar**.
 
 ### 26. Slimme stekker voor monitoring (€15-€25 per stuk)
 
@@ -191,7 +198,7 @@ Veel mensen laten de thermostaatkleppen op stand 5 staan. Dat is te hoog voor de
 
 ### 29. Kook met een waterkoker in plaats van de ketel op gas
 
-Elektrisch water koken is efficiënter dan op gas, zeker met zonnepanelen of een goedkoop stroomcontract. Een liter water koken op elektriciteit kost circa €0,024, op gas circa €0,033. Bij 3 liter per dag bespaar je **€10-€15 per jaar**.
+Een waterkoker verwarmt gerichter dan een ketel op een gaspit, waar een groot deel van de warmte langs de pan verdwijnt. Het bedrag is klein: bij drie liter per dag gaat het om **enkele euro's per jaar**. De echte winst zit in snelheid, en met zonnepanelen in het feit dat je eigen stroom gebruikt in plaats van gas.
 
 ### 30. Gebruik een afzuigkap op lage stand i.p.v. hoge stand
 
@@ -235,7 +242,7 @@ Stel een tijdschakelaar in voor je entertainment-installatie. Na 23:00 alles aut
 
 ### 40. P1-meter voor realtime inzicht (€30-€80)
 
-Een P1-meter koppelt aan je slimme meter en geeft realtime inzicht in je verbruik per minuut. Alleen al het bewustzijn van wat apparaten verbruiken, leidt tot 5-10% verbruiksreductie. Besparing: **€50-€100 per jaar**.
+Een P1-meter koppelt aan je slimme meter en geeft realtime inzicht in je verbruik per minuut. Alleen al het inzicht in wat apparaten verbruiken leidt volgens gedragsonderzoek tot enkele procenten verbruiksreductie. Rekenen we met 5-10% over het variabele deel van de rekening (€650 stroom + €1.650 gas = €2.300), dan gaat het om **€115-€230 per jaar** — mits je er ook naar handelt.
 
 ---
 
@@ -247,7 +254,7 @@ Een slimme thermostaat (Tado, Netatmo, Bosch EasyControl) leert je stookpatroon,
 
 ### 42. Tibber of ander dynamisch stroomcontract
 
-Met een [dynamisch energiecontract via Tibber](https://go.duurzaamthuislab.nl/tibber) betaal je de actuele marktprijs per uur. Door grote verbruikers (wasmachine, vaatwasser, EV-lader) in de goedkope uren te draaien, bespaar je **€150-€400 per jaar** afhankelijk van verbruik en flexibiliteit.
+Met een [dynamisch energiecontract via Tibber](https://go.duurzaamthuislab.nl/tibber) betaal je de actuele marktprijs per uur. Door grote verbruikers (wasmachine, vaatwasser, EV-lader) in de goedkope uren te draaien, bespaar je in ons model **€150-€400 per jaar**, volledig afhankelijk van hoeveel van je verbruik je daadwerkelijk kunt verschuiven. Let op de vaste kosten van een dynamisch contract: bij Tibber is dat €5,99 per maand **per energiesoort** plus een inkoopvergoeding van €0,0248/kWh (tibber.com, geraadpleegd 21-8-2026). Bij stroom en gas samen is dat €143,76 per jaar aan vaste kosten die van je voordeel af gaan.
 
 ### 43. Automatiseer je apparaten op goedkope uren
 
@@ -259,7 +266,7 @@ Een platform als Home Assistant of Google Home centraliseert alle slimme apparat
 
 ### 45. EV-lader met dynamisch laden (indien relevant)
 
-Als je een elektrische auto hebt, is slim laden cruciaal. Laad 's nachts tussen 01:00 en 06:00 op dynamisch tarief (soms €0,05-€0,08/kWh) in plaats van overdag (€0,25-€0,35/kWh). Besparing bij 15.000 km/jaar: **€200-€400 per jaar**.
+Als je een elektrische auto hebt, is slim laden cruciaal. Laad 's nachts in plaats van tijdens de avondpiek. Let op wat er precies verschilt: de energiebelasting (€0,11085/kWh inclusief btw) is elk uur even hoog, dus alleen het marktdeel van de prijs beweegt. Een nachtprijs van €0,05-€0,08/kWh op de markt komt all-in uit op ongeveer €0,16-€0,19/kWh, tegenover circa €0,30/kWh overdag. Bij 15.000 km per jaar (ruwweg 3.000 kWh) is het verschil dus **€330-€420 per jaar**.
 
 ### 46. Warmwaterpomp of circulatieleiding afschakelen
 
@@ -267,11 +274,11 @@ Als je een circulatieleiding voor warm water hebt, overweeg een timer: alleen aa
 
 ### 47. Koelkast met energielabel A+++ aanschaffen als vervanging (€400-€700)
 
-Een 15 jaar oude koelkast verbruikt 300-400 kWh per jaar. Een moderne A+++ koelkast 100-150 kWh. Bij vervanging op het moment dat de oude kapot gaat, bespaar je **€50-€80 per jaar**.
+Een 15 jaar oude koelkast verbruikt 300-400 kWh per jaar. Een moderne A+++ koelkast 100-150 kWh. Bij vervanging op het moment dat de oude kapot gaat, bespaar je 150-300 kWh, oftewel **€40-€80 per jaar**.
 
 ### 48. Warmtepomp-droger in plaats van condensdroger (€500-€900)
 
-Een warmtepomp-droger gebruikt 1,5-2 kWh per cyclus, een condensdroger 4-5 kWh. Bij vier keer per week: besparing van **€100-€150 per jaar** aan stroom.
+Een warmtepomp-droger gebruikt 1,5-2 kWh per cyclus, een condensdroger 4-5 kWh. Bij vier keer per week scheelt dat 520-624 kWh, oftewel **€135-€160 per jaar** aan stroom.
 
 ### 49. Inductiekookplaat vervangt gasfornuis
 
@@ -279,11 +286,11 @@ Een volledige overstap van gas naar inductie scheelt 100-200 m3 gas per jaar. In
 
 ### 50. Slimme zonnepaneel-omvormer voor monitoring
 
-Een omvormer met monitoring (SolarEdge, Enphase) toont welk paneel minder presteert door vervuiling of schaduw. Tijdige schoonmaak of bijsturing verhoogt de opbrengst met 3-8%. Bij 3.000 kWh/jaar productie: **€30-€80 extra per jaar**.
+Een omvormer met monitoring (SolarEdge, Enphase) toont welk paneel minder presteert door vervuiling of schaduw. Tijdige schoonmaak of bijsturing kan enkele procenten opbrengst schelen. Bij 3.000 kWh productie en 3-8% meeropbrengst gaat het om 90-240 kWh, oftewel **€25-€60 per jaar** — mits je die kWh zelf verbruikt.
 
 ### 51. Thuisbatterij voor zelfverbruik overdag (€3.000-€6.000)
 
-Een [thuisbatterij zoals de Sessy](https://go.duurzaamthuislab.nl/sessy) slaat overdag opgewekte zonnestroom op voor gebruik 's avonds. Zelfverbruikspercentage stijgt van 30-35% naar 70-80%. Bij 3.000 kWh productie en €0,32/kWh tarief: **€400-€600 extra besparing per jaar**.
+Een [thuisbatterij zoals de Sessy](https://go.duurzaamthuislab.nl/sessy) slaat overdag opgewekte zonnestroom op voor gebruik 's avonds. Het zelfverbruikspercentage stijgt daarmee van 30-35% naar 70-80%. Reken dit voorzichtig door: een kWh die je zelf verbruikt in plaats van teruglevert, is het **verschil** tussen inkoopprijs en terugleververgoeding waard, niet de volle inkoopprijs. Bij 3.000 kWh productie gaat het om circa 1.275 kWh extra zelfverbruik x (€0,26 − €0,07) = **circa €240 per jaar** vanaf 2027. Zolang de saldering nog loopt, tot en met 31 december 2026, is die winst vrijwel nul.
 
 ### 52. Virtuele batterij via Tibber
 
@@ -291,7 +298,7 @@ Een [thuisbatterij zoals de Sessy](https://go.duurzaamthuislab.nl/sessy) slaat o
 
 ### 53. Zonnepanelen schoonmaken
 
-Vuile panelen leveren 5-15% minder op. Schoonmaak met een zachte borstel en lauw water twee keer per jaar geeft kosteloos extra opbrengst. Bij 3.000 kWh/jaar productie: **€48-€144 extra per jaar**.
+Sterk vervuilde panelen leveren merkbaar minder op; hoeveel precies hangt af van de ligging, de dakhelling en de mate van vervuiling. Rekenen we met 5-15% opbrengstverlies bij 3.000 kWh productie, dan gaat het om 150-450 kWh, oftewel **€40-€115 per jaar**. Bij een steil dak in een schone omgeving spoelt regen het meeste vanzelf weg en is de winst een stuk kleiner.
 
 ### 54. Micro-omvormers voor panelen met schaduw
 
@@ -335,7 +342,7 @@ Vloerverwarming werkt optimaal bij 35-40°C aanvoer. Hogere temperaturen kosten 
 
 ### 63. Hybride warmtepomp installeren (€4.000-€7.000 na subsidie)
 
-Een hybride warmtepomp combineert een warmtepomp met je bestaande cv-ketel. Besparing: **€500-€900 per jaar** op gasverbruik. ISDE-subsidie: tot €2.750.
+Een hybride warmtepomp combineert een warmtepomp met je bestaande cv-ketel en neemt het grootste deel van de ruimteverwarming over. Reken met de **netto** besparing, want je bespaart gas maar verbruikt extra stroom. In ons model: 720 m3 gas minder (€792) tegenover ongeveer 1.810 kWh extra stroom (€471), dus **circa €320 per jaar netto**. Er is ISDE-subsidie op warmtepompen; het bedrag hangt af van het typenummer en zoek je op via de apparatenlijst of rekentool van RVO. Aanvragen doe je **na** de installatie, binnen 24 maanden. Op een warmtepomp geldt 21% btw.
 
 ### 64. Full-electric warmtepomp (€8.000-€18.000 na subsidie)
 
@@ -423,7 +430,13 @@ Kantelramen hebben vaak een slechte afdichting aan de bovenzijde. Een nieuwe EPD
 
 ### 83. Zonnepanelen installeren (€5.000-€9.000 voor 10-14 panelen)
 
-Tien panelen (3.300 Wp) leveren 2.800-3.000 kWh per jaar op in Nederland. Bij zelfverbruik van 30-35% bespaar je direct **€300-€350 per jaar**. Met thuisbatterij loopt dit op tot **€700-€900 per jaar**.
+Tien panelen (3.300 Wp) leveren 2.800-3.000 kWh per jaar op in Nederland. Wat dat waard is, verandert per 1 januari 2027, als de saldering volledig stopt:
+
+- **Tot en met 2026 (saldering):** elke opgewekte kWh is je inkoopprijs waard. 2.800-3.000 kWh x €0,26 = **€730-€780 per jaar**.
+- **Vanaf 2027:** alleen wat je zelf verbruikt telt tegen €0,26. Bij 30-35% zelfverbruik is dat 840-1.050 kWh (€218-€273), plus 1.950-2.100 kWh teruglevering tegen de aangenomen €0,07 (€137-€147). Samen **€355-€420 per jaar**.
+- **Vanaf 2027 met thuisbatterij** (zelfverbruik naar 70-80%): **€560-€670 per jaar**.
+
+Op zonnepanelen en direct noodzakelijke onderdelen geldt 0% btw; op een thuisbatterij niet, daar geldt 21%.
 
 ### 84. Meer panelen dan je nodig hebt installeren (power-to-heat strategie)
 
@@ -431,7 +444,7 @@ Overproductie van zonnepanelen kun je inzetten via de boiler, EV of thuisbatteri
 
 ### 85. Thuisbatterij als buffer voor piekverbruik (€3.000-€6.000)
 
-Een [Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy) slaat overdag goedkope stroom op en levert dit 's avonds. Besparing in combinatie met dynamisch contract: **€400-€800 per jaar**.
+Een [Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy) slaat overdag goedkope of zelf opgewekte stroom op en levert die 's avonds. Publieke prijzen: 5 kWh €3.550, 10 kWh €5.500 en Plus 15 kWh €9.400, inclusief btw maar exclusief installatie (sessy.nl, geraadpleegd 21-8-2026). In ons model levert de combinatie met een dynamisch contract vanaf 2027 **circa €300-€450 per jaar** op: ongeveer €240 aan extra zelfverbruik plus €95-€190 aan prijsarbitrage in het winterhalfjaar.
 
 ### 86. Virtuele batterij via [Tibber](https://go.duurzaamthuislab.nl/tibber)
 
@@ -451,7 +464,9 @@ Via lokale energiecoöperaties (Energie Samen) kun je meedoen aan gezamenlijke o
 
 ### 90. Salderingsregeling maximaal benutten vóór 2027
 
-De salderingsregeling loopt tot 2027 af. Wie nu nog panelen installeert (2026), profiteert nog van volledige saldering tot 2031. Installeer bij twijfel nu.
+De saldering stopt **volledig per 1 januari 2027** — er is geen afbouwpad en er is geen overgangsregeling voor wie eerder installeert. Het afbouwschema dat je nog wel eens tegenkomt (73/64/55/46% of 64/28/0%) komt uit een wetsvoorstel dat is **verworpen**.
+
+Wat dat betekent: panelen die je in 2026 laat plaatsen, profiteren nog van saldering over de resterende maanden van dit jaar en daarna niet meer. Reken het voordeel van vervroegd installeren dus over die maanden, niet over jaren. Vier panelen die in november worden geplaatst, leveren in de laatste twee maanden van het jaar maar een fractie van hun jaaropbrengst op — in de donkerste maanden van het jaar is dat een bedrag in de orde van tientallen euro's, geen honderden.
 
 ### 91. Windmolen (kleine turbine) als aanvulling
 
@@ -467,7 +482,7 @@ Geavanceerde systemen kunnen warmte uit dakregenwater terugwinnen. Nog weinig to
 
 ### 93. Vergelijk energiecontracten via onafhankelijke vergelijker
 
-Prijsverschillen tussen leveranciers kunnen oplopen tot €300-€500 per jaar. Vergelijk elk jaar opnieuw via Energievergelijker.nl of Gaslicht.com. Overstappen is gratis en vergt 15 minuten.
+Prijsverschillen tussen leveranciers kunnen oplopen tot enkele honderden euro's per jaar. Vergelijk daarom elk jaar opnieuw. Voor dynamische contracten hebben wij een eigen overzicht gemaakt waarin de vaste kosten en de inkoopvergoeding per aanbieder naast elkaar staan: [dynamisch energiecontract vergelijken](/dynamisch-energiecontract-vergelijken/). Overstappen is gratis en kost een kwartier.
 
 ### 94. Kies een dynamisch contract met zonnepanelen
 
@@ -475,7 +490,7 @@ Met zonnepanelen is een [dynamisch contract via Tibber](https://go.duurzaamthuis
 
 ### 95. Onderhandel over je teruglevertarief
 
-Sommige energiebedrijven bieden hogere teruglevertarieven aan als je vraagt of als je overstapt. Het verschil tussen aanbieders kan €0,05-€0,10/kWh bedragen — bij 1.000 kWh teruglevering is dat **€50-€100 per jaar**.
+Sommige energiebedrijven bieden hogere teruglevertarieven aan als je vraagt of als je overstapt. Het verschil tussen aanbieders kan €0,05-€0,10/kWh bedragen — bij 1.000 kWh teruglevering is dat **€50-€100 per jaar**. Vanaf 2027, als de saldering is gestopt, wordt dit tarief een van de belangrijkste posten van je contract; vraag er expliciet naar bij het vergelijken.
 
 ### 96. Sluit een meerjarig vast contract als gasprijzen laag zijn
 
@@ -499,37 +514,45 @@ Een energieaudit (€100-€300 door een erkend adviseur) geeft een geprioriteer
 
 ---
 
-## Top 10 maatregelen op besparing per jaar
+## Top 10 maatregelen, doorgerekend als één model
 
-Gesorteerd op berekende jaarbesparing bij een gemiddelde tussenwoning, met de bijbehorende investering:
+Hieronder staan de tien sterkste maatregelen naast elkaar, met de aannames uit de tabel bovenaan dit artikel: 2.500 kWh stroom, 1.500 m3 gas, €0,26/kWh, €1,10/m3 en een aangenomen terugleververgoeding van €0,07/kWh vanaf 2027. Dit is een **modelberekening**, geen gemeten resultaat en geen garantie.
 
-| Maatregel | Berekende besparing | Investering |
+Eén ding vooraf, want daar gaat het in dit soort lijstjes bijna altijd mis: **de gasmaatregelen overlappen elkaar.** Isolatie, kierdichting, een slimme thermostaat en een hybride warmtepomp besparen alle vier op dezelfde warmtevraag. Tel je hun losse besparingen bij elkaar op, dan kom je hoger uit dan je hele gasrekening — wat onmogelijk is. Daarom staat hieronder eerst wat elke maatregel los oplevert, en daarna wat er overblijft als je ze stapelt.
+
+| Maatregel | Losse besparing in dit model | Investering (indicatie) |
 |-----------|---------------|-------------|
-| Hybride warmtepomp | €820/jaar | €3.900 na subsidie |
-| Zonnepanelen (12 panelen) | €650/jaar | €6.800 |
-| Sessy thuisbatterij | €420/jaar | €3.999 |
-| Dynamisch contract Tibber | €310/jaar | €0 |
-| Spouwmuurisolatie | €280/jaar | €950 |
-| Slimme thermostaat | €190/jaar | €180 |
-| LED overal | €160/jaar | €120 |
-| Kierdichting | €140/jaar | €65 |
-| Wasdroger weg | €130/jaar | €0 |
-| Douche verkorten | €95/jaar | €0 |
+| Douche verkorten (gezin van 4) | €200-€290/jaar | €0 |
+| Zonnepanelen (12 panelen), vanaf 2027 | €430/jaar | €6.800 |
+| Hybride warmtepomp (netto, na extra stroom) | €320/jaar | €5.000-€8.000 vóór ISDE |
+| Thuisbatterij 5 kWh + dynamisch contract | €300/jaar | €3.550 excl. installatie |
+| Spouwmuurisolatie | €265/jaar | €950 |
+| Dynamisch contract | €150-€400/jaar | €0 |
+| Wasdroger weg | €108-€216/jaar | €0 |
+| Slimme thermostaat | €150/jaar | €180 |
+| Kierdichting | €130/jaar | €65 |
+| LED overal | €105-€140/jaar | €120 |
 
-**Totaal in dit rekenvoorbeeld: €3.195/jaar besparing** bij een investering van circa €16.000 (exclusief subsidies). Rekenen we in dit model met circa €3.000 ISDE-subsidie (het werkelijke bedrag verschilt per maatregel, zie rvo.nl), dan blijft er netto circa €13.000 investering over. Rekenkundige terugverdientijd: 4,1 jaar. Dit is een gelabelde modelberekening met bovenstaande aannames, geen gemeten resultaat.
+**Gestapeld, met correctie voor overlap:**
+
+- *Gaskant.* Korter douchen, kierdichting, een slimme thermostaat en spouwmuurisolatie brengen het gasverbruik in dit model van 1.500 naar ongeveer 1.000 m3 — een besparing van circa **€550**. De hybride warmtepomp neemt daarna nog ongeveer 60% van de resterende ruimteverwarming over: €528 minder gas, €315 meer stroom, dus **€213 netto**. Samen circa **€763 per jaar**.
+- *Stroomkant.* Zonnepanelen €430, thuisbatterij €300, dynamisch contract €250, LED €130 en de wasdroger wegdoen €160. Samen circa **€1.270 per jaar**.
+
+**Totaal in dit model: circa €2.030 per jaar**, bij een investering van ruwweg **€18.000 vóór subsidie**. Rekenkundige terugverdientijd: **ongeveer negen jaar**, korter zodra de ISDE-subsidie op de warmtepomp en de isolatie is verrekend — dat bedrag hangt af van het typenummer en het geïsoleerde oppervlak, dus zoek het op via rvo.nl en vul het zelf in.
+
+Zet dat bedrag naast je rekening: het variabele deel van een gemiddelde energierekening is in dit model €650 stroom plus €1.650 gas, samen €2.300. Een besparing van €2.030 is dus vrijwel het maximum dat met deze maatregelen te halen valt — de bovengrens van stapelen, niet een gemiddelde verwachting. De vaste netbeheerkosten blijven hoe dan ook staan.
 
 ---
 
 ## Conclusie: begin klein, denk groot
 
-Je hoeft niet alle 100 tips in één keer te implementeren. Begin met de gratis maatregelen (tips 1-20) en kleine ingrepen onder €100 (tips 21-40). Daarmee red je al 20-30% van je energierekening zonder enige investering.
+Je hoeft niet alle 100 tips in één keer uit te voeren. Begin met de gratis maatregelen (tips 1-20) en de kleine ingrepen onder €100 (tips 21-40): korter douchen, kierdichting, de thermostaat een graad lager en LED-verlichting leveren in dit model samen al enkele honderden euro's per jaar op zonder noemenswaardige investering.
 
-Stapel vervolgens de grotere maatregelen op basis van je budget en woning. Een goed geïsoleerde woning met zonnepanelen, een hybride warmtepomp en een dynamisch contract kan je energierekening halveren of zelfs met 70% verlagen.
+Stapel daarna de grotere maatregelen, in de volgorde die bij jouw woning past. Houd daarbij twee dingen in het oog: gasmaatregelen overlappen elkaar, en de waarde van zonnepanelen en een thuisbatterij verandert per 1 januari 2027, wanneer de saldering volledig stopt.
 
-De vraag is niet óf je energiekosten kunt verlagen — maar hoe snel je ermee begint.
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
 
-
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
+*Voor de verwijzingen naar Tibber en Sessy in dit artikel ontvangen wij geen vergoeding.*
 
 ## Gerelateerde artikelen
 
