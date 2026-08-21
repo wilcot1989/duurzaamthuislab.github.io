@@ -1,22 +1,22 @@
 ---
-title: 'Intergas Xtreme warmtepomp review 2026: de Nederlandse hybride doorgelicht'
+title: 'Intergas warmtepomp review 2026: de Xtend hybride doorgelicht'
 date: 2026-08-25 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: Intergas maakt al jaren cv-ketels, sinds 2023 ook warmtepompen. Eerlijke review van de Xtreme Hybrid op basis van specificaties, handleiding en gebruikersreviews — kosten, COP, app en advies 2026.
+lastmod: 2026-08-21 08:00:00+02:00
+description: 'Wat Intergas op de eigen productpagina over de Xtend hybride warmtepomp publiceert — en wat niet: vermogen, koudemiddel, prestatiegarantie, de ISDE-route en een narekenbare modelberekening voor een label C-tussenwoning.'
 categories:
 - warmtepompen
 tags:
 - Intergas
-- Xtreme
+- Xtend
 - hybride warmtepomp
 - review
 - Nederlandse warmtepomp
 - ISDE subsidie
 keywords:
 - intergas warmtepomp review
-- intergas xtreme review
+- intergas xtend review
 - intergas hybride warmtepomp
-- intergas xtreme hybrid
+- intergas xtend hybride
 - intergas warmtepomp ervaringen
 - intergas vs atag
 - nederlandse warmtepomp
@@ -25,301 +25,184 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1631545806609-ee85b1b1e5cf&w=1200&output=webp&q=70
 faq:
-- q: Wat kost een Intergas Xtreme warmtepomp in 2026?
-  a: 'Intergas Xtreme Hybrid: €5.500-€7.500 inclusief installatie en 0% btw. All-electric Intergas Xtreme: nog niet leverbaar in 2026 (verwacht 2027). Met ISDE-subsidie (€2.500-€3.500): netto €3.000-€5.000. Dat is iets onder het marktgemiddelde voor een hybride installatie, vergelijkbaar met ATAG ENERGION.'
-- q: Werkt Intergas met mijn bestaande cv-ketel?
-  a: 'De Intergas Xtreme Hybrid combineert exclusief met een Intergas cv-ketel (Kombi Kompakt of Xtreme-serie). Heb je een ATAG, Remeha of Vaillant cv-ketel? Dan moet je deze vervangen, of een ander hybride-merk kiezen. Dat is de grootste beperking. Voor wie al een Intergas-ketel heeft: perfecte upgrade. Voor anderen: switching-kosten.'
-- q: Hoe goed is de COP van Intergas Xtreme?
-  a: 'Intergas geeft SCOP 4,3 op (gemeten conform EN 14825). Gebruikers rapporteren in de praktijk waarden rond de 4,0-4,2 — vergelijkbaar met ATAG ENERGION en iets onder Daikin Altherma 3 (4,5-4,7). Goed voor een hybride, niet wereldschokkend. Voor het gros van Nederlandse woningen voldoende.'
-- q: Heeft Intergas een app?
-  a: 'Ja, sinds 2024 de InterApp. Functioneel: schema instellen, energieverbruik per dag, foutmeldingen, contact installateur. Niet zo gepolijst als Daikin Onecta of Toon, maar werkt. Volledig Nederlandstalig. Voor de tech-nerd: minimaal. Voor de gemiddelde gebruiker: ruim voldoende.'
+- q: Hoe heet de hybride warmtepomp van Intergas?
+  a: 'Intergas noemt op de eigen site de **Xtend** als hybride warmtepomp, in een uitvoering van 5 kW met het koudemiddel R290 (propaan) en energielabel A+++ (intergas-verwarming.nl, opgehaald 21 augustus 2026). Kom je online de naam "Xtreme" tegen als warmtepomp, dan gaat dat mis: Xtreme is een cv-ketellijn van Intergas, geen warmtepomp.'
+- q: Wat kost een Intergas warmtepomp in 2026?
+  a: 'Intergas publiceert geen consumentenprijs voor de Xtend. Wat je betaalt, staat in de offerte van je installateur en hangt af van het werk in jouw woning: leidingwerk, elektra, de plek van de buitenunit en of de cv-ketel meteen mee wordt vervangen. Reken met 21% btw — het nultarief geldt uitsluitend voor zonnepanelen — en zoek het ISDE-bedrag op per typenummer op rvo.nl.'
+- q: Wat is de SCOP van de Intergas Xtend?
+  a: Intergas noemt op de productpagina van de Xtend geen SCOP- of COP-waarde; wel het energielabel A+++. Vraag de installateur daarom om het technische datablad van het aangeboden typenummer en lees de SCOP daar af, met de conditie erbij (A7/W35 of anders). Wij hebben deze warmtepomp niet zelf gemeten en nemen geen praktijkwaarden over die wij niet kunnen herleiden.
+- q: Werkt de Intergas Xtend met mijn bestaande cv-ketel?
+  a: 'Een hybride opstelling werkt samen met een cv-ketel die bij lage buitentemperatuur of grote warmwatervraag bijspringt. Of de Xtend op jouw specifieke ketel — of op een ketel van een ander merk — kan worden aangesloten, is de belangrijkste vraag bij dit toestel, en het antwoord staat niet op de publieke productpagina. Laat de installateur dit schriftelijk bevestigen vóórdat je tekent; is een nieuwe ketel nodig, dan is dat een kostenpost die de hele afweging kan omdraaien.'
 - q: Kan ik ISDE-subsidie krijgen voor een Intergas warmtepomp?
-  a: 'Ja, Intergas Xtreme Hybrid staat op de RVO ISDE-lijst sinds september 2023. Subsidie €2.500-€3.500 afhankelijk van vermogen. Vraag de installateur om de RVO-nummer en aanvraag samen te doen na installatie. Aanvraag online via mijn.rvo.nl, beslissing 8-13 weken.'
-- q: Hoe verhoudt Intergas zich tot ATAG?
-  a: 'Beide zijn Nederlandse merken, beide hybride met Mitsubishi-compressor, beide vergelijkbare prijs en SCOP. Verschil: Intergas heeft een sterkere positie in Noord-Nederland en bij installateurs die al cv-ketel-klant zijn. ATAG heeft een breder dealer-netwerk en een all-electric variant beschikbaar. Voor pure prijs/COP: vergelijkbaar.'
-- q: Hoe lang duurt de installatie?
-  a: 'Voor wie al een Intergas cv-ketel heeft: 1 dag. De Xtreme Hybrid wordt op de bestaande ketel gemonteerd plus een buitenunit. Wie een nieuwe ketel + warmtepomp tegelijk laat installeren: 2 dagen. Vergelijkbaar met ATAG, sneller dan all-electric installaties (3-5 dagen).'
-- q: Is Intergas servicegevoelig?
-  a: 'De garantie is 5 jaar op het product en 2 jaar op onderdelen. Intergas geeft aan dat storingen bij gecertificeerde installateurs binnen 24-48 uur worden opgepakt — sneller dan bij veel internationale merken die via een importeur lopen. In gebruikersreviews gaan meldingen vooral over instellingsfouten bij oplevering (aanvoertemperatuur), niet over hardwaredefecten.'
-products:
-- name: Intergas Xtreme Hybrid warmtepomp
-  url: https://go.duurzaamthuislab.nl/intergas
-  price: '6500'
-- name: Intergas Kombi Kompakt cv-ketel (vereist)
-  url: https://go.duurzaamthuislab.nl/intergas
-  price: '2200'
-- name: ATAG ENERGION (alternatief)
-  url: https://go.duurzaamthuislab.nl/atag
-  price: '7500'
+  a: 'Dat hangt af van het exacte typenummer: alleen toestellen die met dat nummer op de ISDE-apparatenlijst van RVO staan komen in aanmerking, en het bedrag hangt eveneens aan dat nummer. Intergas noemt op de eigen pagina zelf een subsidiebedrag, maar de bron die uitbetaalt is RVO — controleer het dus in de apparatenlijst. Twee regels die het vaakst misgaan: je vraagt aan ná de installatie, en je hebt daarvoor 24 maanden.'
+- q: Hoe zit het met de prestatiegarantie die Intergas noemt?
+  a: 'Intergas zet op de Xtend-pagina een "unieke prestatiegarantie" van minimaal €3.500 energiebesparing over zeven jaar (opgehaald 21 augustus 2026). Dat is een claim van de fabrikant, geen uitkomst die wij hebben nagerekend of gemeten. Vraag de voorwaarden op vóórdat je erop rekent: waartegen wordt de besparing afgezet, welk verbruik en welke tarieven worden aangenomen, wat moet je zelf doen om er aanspraak op te maken, en wie stelt de uitkomst vast.'
+- q: Is er ook een all-electric warmtepomp van Intergas?
+  a: Ja, Intergas voert naast hybride ook een all-electric categorie, naast cv-ketels, warmwatertoestellen en waterstoftechniek. Welke modellen daar op dit moment onder vallen en wat de specificaties zijn, staat op de productpagina's van Intergas zelf — die is bij dit merk de enige betrouwbare bron, omdat het assortiment de laatste jaren snel is gewijzigd.
+- q: Ben ik verplicht een hybride warmtepomp te nemen bij ketelvervanging?
+  a: 'Nee. De aangekondigde verplichting om bij vervanging van een cv-ketel een hybride warmtepomp te plaatsen is ingetrokken — niet uitgesteld. Je mag dus een gewone HR-ketel plaatsen. Dat maakt de afweging puur financieel en praktisch: wat kost het, wat levert het op, en past het bij je afgiftesysteem.'
 schema_type: Review
 ---
-"Mijn cv-ketel uit 2008 is op zijn eind en de installateur biedt een complete Intergas-installatie aan: nieuwe ketel én warmtepomp samen. Is Intergas wel goed?" Het is een van de meest gestelde vragen over dit merk, en logisch ook: Intergas is groot in cv-ketels, maar levert pas sinds 2023 warmtepompen.
+"Mijn cv-ketel is op zijn eind en de installateur biedt een complete Intergas-installatie aan: nieuwe ketel én warmtepomp samen. Is Intergas wel goed?" Het is een van de meest gestelde vragen over dit merk, en logisch ook: Intergas is groot in cv-ketels, maar de warmtepompen zijn van veel recentere datum.
 
-Intergas-cv-ketels hebben een goede reputatie voor levensduur. Voor de warmtepompen is die reputatie nog in opbouw. Wij hebben de specificaties, de installatiehandleiding, de ISDE-registratie en de beschikbare gebruikersreviews naast elkaar gelegd.
+Deze review is opgezet vanuit één principe: wij nemen alleen over wat Intergas zelf publiceert, met de datum waarop wij het hebben opgehaald. Dat levert een kortere review op dan je elders vindt — en dat is precies het punt. Over dit toestel circuleren online specificaties, SCOP-waarden en zelfs modelnamen die niet op de site van de fabrikant terug te vinden zijn.
 
-Dit is een onafhankelijke review: niet betaald en niet aangeleverd door Intergas.
-
-*Disclosure: wij hebben geen commerciële relatie met Intergas. Deze analyse is gebaseerd op fabrieksspecificaties, handleidingen, publieke data en geverifieerde gebruikersreviews.*
+*Dit artikel bevat geen affiliate-links. Wij ontvangen geen vergoeding van Intergas of van installateurs, en wij hebben deze warmtepomp niet zelf geïnstalleerd of gemeten.*
 
 ---
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+💡 *Vraag je je af wat de salderingsstop van 1 januari 2027 voor jou betekent? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
+> **Kort antwoord:** de hybride warmtepomp van Intergas heet **Xtend** (5 kW, koudemiddel R290, label A+++). Intergas publiceert er geen prijs en geen SCOP bij, dus vraag het datablad en het typenummer op bij je installateur. Reken met **21% btw**, zoek het ISDE-bedrag op per typenummer en vraag aan **ná** installatie. De belangrijkste vraag vóór het tekenen: werkt dit toestel met jouw huidige cv-ketel, of moet die ook vervangen worden?
 
-> **Kort antwoord:** Intergas maakt al jaren cv-ketels, sinds 2023 ook warmtepompen. Eerlijke review van de Xtreme Hybrid op basis van specificaties, handleiding en gebruikersreviews — kosten, COP, app en advies 2026.
->
-> Intergas Xtreme Hybrid: €5.500-€7.500 inclusief installatie en 0% btw. All-electric Intergas Xtreme: nog niet leverbaar in 2026 (verwacht 2027). Met ISDE-subsidie (€2.500-€3.500): netto €3.000-€5.000. Dat is iets onder het marktgemiddelde voor een hybride installatie, vergelijkbaar met ATAG ENERGION.
+## Wat Intergas publiceert — en wat niet
 
-## Wie is Intergas?
+Intergas is een Nederlandse fabrikant van verwarmingstoestellen met een vestiging in Coevorden. Het assortiment is op de eigen site verdeeld over vijf categorieën: cv-ketels, hybride, all-electric, warm water en waterstof.
 
-Intergas is een Nederlands bedrijf, opgericht in 1971, hoofdkantoor in Coevorden (Drenthe). Sinds de oprichting maken ze cv-ketels, gespecialiseerd in compacte combiketels. Ze hebben ongeveer 12% marktaandeel in Nederlandse cv-ketelmarkt. Geen gigant, maar respectabel.
+Bij de hybride warmtepompen staat één toestel centraal, dat Intergas zelf presenteert als de nieuwe hybride warmtepomp: de **Xtend** (uitvoering Xtend Eco). Wat de fabrikant er wél bij vermeldt, stand 21 augustus 2026:
 
-Sinds 2023 maken ze ook warmtepompen onder de **Xtreme**-naam:
-- **Xtreme Hybrid**: lucht-water hybride warmtepomp die op een Intergas cv-ketel wordt gemonteerd
-- **Xtreme HRsolo**: cv-ketel met hoog rendement (vervangt jouw oude ketel)
-- **Xtreme Solo**: all-electric warmtepomp (verwacht 2027, nu nog niet leverbaar)
+| Gegeven | Opgave Intergas |
+|---|---|
+| Vermogen | 5 kW |
+| Koudemiddel | R290 (propaan) |
+| Gewicht buitenunit | 64 kg |
+| Energielabel | A+++ |
+| Geluid | Geen dB-waarde vermeld; optionele geluidsdempers leverbaar |
+| Prestatiegarantie | Minimaal €3.500 energiebesparing over 7 jaar (voorwaarden bij Intergas) |
+| Consumentenprijs | Niet gepubliceerd |
+| SCOP / COP | Niet op de productpagina vermeld |
 
-De warmtepomp-business is voor Intergas relatief nieuw, maar ze gebruiken bewezen technologie van Mitsubishi (compressor) en eigen ontwikkeling voor regelapparatuur. De engineering en eindmontage van warmtepompen vindt deels in Coevorden plaats, met componenten uit Japan en Italië.
+*Bron: productpagina van Intergas, opgehaald op 21 augustus 2026. Wij nemen hier geen waarden over uit andere bronnen die wij niet kunnen herleiden naar de fabrikant.*
 
-## Referentiewoning in dit artikel
+Twee dingen vallen op in die tabel. Ten eerste het koudemiddel: R290 is propaan, met een Global Warming Potential van 3 — factoren lager dan het R32 dat de meeste concurrenten gebruiken. Propaan is wel brandbaar, wat eisen stelt aan de plaatsing van de buitenunit en aan de installateur. Dat is geen bezwaar, maar het is een gespreksonderwerp bij de offerte: vraag waar de unit komt en welke veiligheidsafstanden de fabrikant voorschrijft.
 
-Alle berekeningen hieronder gaan uit van deze woning:
+Ten tweede: de ontbrekende SCOP. Dat is geen verwijt aan Intergas — het label A+++ zegt al iets — maar het betekent dat je zonder datablad geen rendement kunt narekenen. Vraag daar dus om, met het typenummer erbij.
 
-- Tussenwoning, bouwjaar 1985, label C
-- 110 m² woonoppervlak
+### Let op de modelnaam
+
+Op meerdere sites, en soms ook in offertes, duikt "Intergas Xtreme warmtepomp" op. Dat is een verwarring: **Xtreme is een cv-ketellijn van Intergas, geen warmtepomp**. Kom je die naam in een aanbieding tegen, vraag dan wat er precies geleverd wordt en welk typenummer erbij hoort. Dat typenummer heb je toch al nodig voor de ISDE.
+
+## Het punt waar deze keuze op vastloopt: je huidige ketel
+
+Bij elke hybride warmtepomp is de kernvraag niet "hoe goed is het toestel" maar "past het op wat er al staat". Een hybride opstelling bestaat uit drie delen: een buitenunit, een binnendeel en een cv-ketel die bijspringt als het buiten te koud wordt of als er veel warm water nodig is.
+
+Of de Xtend op jouw bestaande ketel kan — en zeker: op een ketel van een ander merk — staat niet op de publieke productpagina. Dit is dus de eerste vraag die je bij de offerte stelt, en het antwoord wil je schriftelijk:
+
+1. **Werkt dit toestel op mijn huidige ketel, met merk en type erbij?**
+2. **Zo niet: wat kost de nieuwe ketel, en staat die apart in de offerte?**
+3. **Wie regelt de aansturing tussen ketel en warmtepomp, en via welk protocol?**
+
+Waarom dat zo zwaar weegt: moet de ketel eruit terwijl hij nog jaren mee kon, dan verdwijnt een deel van je voordeel in een investering die je zonder de warmtepomp niet had gedaan. Is de ketel toch al aan het eind van zijn leven, dan valt de rekening precies de andere kant op — dan betaal je de ketel toch al en komt er alleen een warmtepomp bij.
+
+## Modelberekening: wat een hybride op een label C-tussenwoning doet
+
+Onderstaande berekening is een **model met gelabelde aannames**, geen meting aan een bestaande installatie. Wij hebben geen woning met dit toestel gemonitord.
+
+**Uitgangspunten:**
+
+- Tussenwoning uit 1985, label C, 110 m², radiatoren (geen vloerverwarming)
 - Gasverbruik vorig jaar: 1.450 m³
-- Stroomverbruik: 2.800 kWh
-- Geen vloerverwarming (alleen radiatoren)
-- Drie radiatoren vergroot voorgeschreven door installateur
-- Gasaansluiting blijft (hybride-systeem)
-- Investering: €6.500 inclusief Intergas Kombi Kompakt + Xtreme Hybrid + 3 nieuwe radiatoren + montage. Na ISDE €4.000.
+- Gasprijs **€1,10/m³** all-in en stroomprijs **€0,26/kWh** all-in — beide gelabelde aannames, opgebouwd uit marktprijs, energiebelasting 2026 en een aanname voor opslag en vaste kosten
+- Verbrandingswaarde 9,77 kWh per m³ gas, rendement oude HR-ketel 0,9
+- De warmtepomp neemt **60%** van de jaarwarmtevraag over, de ketel de resterende 40% — een aanname; het werkelijke aandeel hangt af van de inregeling en van de aanvoertemperatuur die je radiatoren nodig hebben
+- Seizoensrendement van het warmtepompdeel: **3,8** — een aanname die past bij radiatoren op circa 50°C aanvoer, niet bij de labcondities
 
-## Rekenvoorbeeld: verwarmingskosten over een stookseizoen
+**Uitkomst:**
 
-Rekenvoorbeeld met de volgende aannames: de referentiewoning hierboven, een gasprijs van €1,15/m³, een stroomprijs van €0,29/kWh en de door Intergas opgegeven SCOP van 4,3 voor het warmtepompdeel. De hybride neemt in het model de basislast over en de cv-ketel springt bij onder circa 0°C buitentemperatuur.
+| Post | Vóór | Met hybride |
+|---|---|---|
+| Warmtevraag | 12.750 kWh thermisch | 12.750 kWh thermisch |
+| Gasverbruik | 1.450 m³ | circa 580 m³ |
+| Extra stroomverbruik | – | circa 2.010 kWh |
+| Gaskosten | €1.595 | €638 |
+| Stroomkosten (extra) | €0 | €523 |
+| **Totaal** | **€1.595** | **€1.161** |
 
-**Uitkomst van het model:**
+**Modelmatige besparing: circa €434 per jaar.**
 
-| Periode | Gasverbruik | Stroomverbruik (extra) | Verwarmingskosten |
-|---|---|---|---|
-| Zomermaanden (mei-aug, warm tapwater) | 20-30 m³/maand | +10-20 kWh/maand | €30-€55/maand |
-| Najaar (sep-okt) | 40-80 m³/maand | +25-95 kWh/maand | €65-€140/maand |
-| Winter (nov-dec) | 140-200 m³/maand | +185-245 kWh/maand | €255-€360/maand |
+De terugverdientijd kunnen wij niet voorrekenen, omdat de twee getallen die je daarvoor nodig hebt niet publiek zijn: het offertebedrag en het ISDE-bedrag van het aangeboden typenummer. De rekenregel is:
 
-Ten opzichte van dezelfde woning met alleen een HR-ketel komt het model op een besparing van €650 tot €800 per jaar. Let op: dit is een modeluitkomst met gradendag-gemiddelden, geen meting. Een strenge winter of een hoger tapwaterverbruik schuift de uitkomst omlaag.
+**(offertebedrag incl. 21% btw − ISDE-bedrag) ÷ €434 = terugverdientijd in jaren**, bij dit verbruik en deze aannames.
 
-Met de €4.000 netto-investering: terugverdientijd ongeveer **5-7 jaar**. In lijn met ATAG ENERGION en typisch voor een hybride bij label C-woning.
+### Hoe gevoelig is dit?
 
-## SCOP en COP in de praktijk
+Dat is de eerlijkste vraag bij zo'n model, en het antwoord is: behoorlijk.
 
-Intergas geeft SCOP 4,3 op, gemeten conform EN 14825. Dat is een labwaarde bij gestandaardiseerde condities; in woningen met radiatoren en een hogere aanvoertemperatuur valt de jaarprestatie doorgaans lager uit. Gebruikers melden waarden rond de 4,0-4,2.
+- **Meer gasverbruik helpt sterk.** Bij 2.500 m³ in plaats van 1.450 m³ komt dezelfde berekening uit op circa **€747 besparing per jaar**. Er valt eenvoudig meer te verschuiven.
+- **De aanvoertemperatuur is de grootste knop.** Zakt het seizoensrendement van 3,8 naar 3,0 omdat de radiatoren 60°C nodig hebben, dan verdampt een flink deel van het voordeel. Radiatoren vergroten of bijplaatsen is daarom geen luxe maar onderdeel van de businesscase.
+- **De tariefverhouding kan het omdraaien.** Stijgt de stroomprijs harder dan de gasprijs, dan krimpt de besparing. Wie op een dynamisch contract zit en de warmtepomp kan laten draaien op de goedkope uren, zit gunstiger — maar dat vraagt aansturing die je bij dit toestel expliciet moet uitvragen.
 
-Vergelijking met andere hybride warmtepompen, op basis van de opgegeven SCOP-waarden van de fabrikanten:
-- Daikin Altherma 3 H: SCOP 4,5-4,7
-- ATAG ENERGION Hybrid: SCOP 4,2-4,4
-- Vaillant aroTHERM hybrid: SCOP 4,3-4,5
-- Intergas Xtreme Hybrid: SCOP 4,0-4,2
+## Geluid: waar je écht aan moet toetsen
 
-**Intergas zit aan de onderkant van de hybride-categorie**, maar binnen de range. Voor de prijs niet onredelijk. Voor wie maximaal SCOP wil: kies Daikin of Vaillant.
+Intergas noemt op de Xtend-pagina geen decibelwaarde, wel dat er geluidsdempers als optie leverbaar zijn. Wij vullen dat gat niet met een getal uit een andere bron.
 
-Lees ook: [Daikin Altherma 3 review](/posts/daikin-altherma-3-review-2026/) en [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/).
+Wat wél vaststaat, is de norm. Sinds 1 januari 2024 geldt het Besluit bouwwerken leefomgeving (Bbl, de opvolger van het Bouwbesluit). Dat stelt voor een buiten opgestelde installatie bij een woning **maximaal 45 dB op de erfgrens overdag en 40 dB in de avond en nacht**. Er bestaat **geen wettelijke minimumafstand** tot de erfgrens — laat je dus niet vertellen dat "50 centimeter" of "3 meter" een eis is. Dat is het niet; de geluidswaarde is de eis.
 
-## De Intergas Xtreme Hybrid: hoe werkt het?
+Praktisch betekent dat drie dingen:
 
-Het systeem bestaat uit drie componenten:
+1. Laat de installateur in de offerte onderbouwen dat de gekozen plek binnen die 40 dB blijft.
+2. Let bij het vergelijken van datasheets op de grondslag: een geluidsvermogenniveau is geen geluidsdrukniveau op afstand, en alleen het tweede zegt iets over wat de buren horen.
+3. Komt de plek niet onder de norm, dan is een andere positie of een omkasting nodig — geen software-instelling.
 
-1. **Buitenunit** (Mitsubishi-compressor, lucht-water principe). Geluidsniveau 50 dB op 1 meter, 35 dB op 5 meter.
-2. **Binnenunit** (compact, monteerbaar op cv-ketel)
-3. **Cv-ketel** (Intergas Kombi Kompakt of Xtreme Solo) — als bijspring bij koud weer of veel warmwatervraag
+Meer hierover in [Warmtepomp geluid en buren](/posts/warmtepomp-geluid-buren-2026-norm/).
 
-Bij buitentemperatuur >5°C draait de warmtepomp solo (geen gas). Bij lager dan 5°C of bij grote warmwatervraag (douche): cv-ketel springt bij. Bij <-5°C buiten: cv-ketel doet meer dan 50%.
+## De ISDE-route bij dit toestel
 
-In Nederland (Coevorden klimaat): warmtepomp doet ~70% van de jaarwarmtevraag, cv-ketel 30%. Dat is hoger dan ATAG (60-65% warmtepomp) doordat Intergas iets aggressiever de ketel uit laat.
+De ISDE keert geen bedrag uit per merk of per categorie, maar per **typenummer**. Daarom staat er in dit artikel geen enkel subsidiebedrag: dat zou een getal zijn dat wij niet kunnen garanderen en dat per lijstversie verandert.
 
-## InterApp: de software-ervaring
+Zo doe je het wel:
 
-De InterApp is de bedienings-interface. Functies:
+1. Vraag de installateur om het **volledige typenummer** van het toestel dat hij levert.
+2. Zoek dat typenummer op in de ISDE-apparatenlijst op [rvo.nl/isde](https://www.rvo.nl/subsidies-financiering/isde) en lees het bedrag af.
+3. Zet dat bedrag in je eigen berekening en in de opdrachtbevestiging, zodat een afwijking op de factuur direct opvalt.
+4. Installeer eerst, vraag daarna aan — een aanvraag vóór de installatie wordt afgewezen. Je hebt **24 maanden** vanaf de installatie.
 
-✅ **Werkt goed:**
-- Real-time aanvoer- en retourtemperatuur
-- Energie-verbruik per dag (gas + stroom)
-- Klokprogramma (per dag, per kamer met thermostaat)
-- Foutmeldingen + contact-installateur knop
-- Kalibratie buitenunit op afstand
-- Vakantie-modus
+Intergas noemt op de eigen productpagina zelf een subsidiebedrag. Dat kan kloppen, maar de partij die uitbetaalt is RVO; de apparatenlijst is dus leidend, niet de brochure.
 
-❌ **Werkt minder goed:**
-- Geen integraties met Home Assistant (bestond modbus-koppeling beloofd voor 2026, nog niet geleverd)
-- Geen dynamisch-tarief integratie (geen Tibber/Frank-koppeling)
-- Statistieken zijn basaal (niet zo mooi als Daikin Onecta)
-- Geen voorspelling van energieverbruik
+En let op het btw-tarief: een warmtepomp valt onder het normale tarief van **21%**. Het nultarief bestaat alleen voor zonnepanelen en de daarvoor direct noodzakelijke onderdelen. Staat er 0% btw op een warmtepompofferte, dan is die onjuist.
 
-Voor de gemiddelde gebruiker is de app voldoende. Voor smart-home-enthousiastelingen: te beperkt. Vergeleken met ATAG (vergelijkbaar) en Daikin (beter): Intergas zit middelmatig.
+## Voor wie is dit een logische keuze?
 
-## Geluid en plaatsing
+**Goede match:**
 
-Buitenunit: 50 dB op 1 meter, in lijn met de gehele markt. Met afdekking en correcte plaatsing op stevige sokkels: 35 dB op afstand 5 m.
+- Je cv-ketel is toch al aan vervanging toe, of je hebt al een Intergas-ketel waarop dit toestel volgens de installateur kan
+- Je woning heeft label C of D en radiatoren die je op een lagere temperatuur kunt krijgen — dan is hybride verdedigbaar en all-electric voorlopig niet
+- Je gasverbruik ligt aan de hoge kant; dan is er simpelweg meer te verschuiven
+- Je vindt het koudemiddel relevant: R290 heeft een veel lagere GWP dan R32
 
-In de referentiesituatie staat de buitenunit in de tuin tegen de achterzijde van de woning, op ruim 5 meter van de dichtstbijzijnde slaapkamer van de buren. Met de opgegeven 50 dB op 1 meter blijft het geluidsniveau op die afstand rekenkundig onder de 40 dB-grens die het Bouwbesluit 's nachts op de erfgrens stelt. Laat de installateur de waarde bij oplevering wel meten en vastleggen.
+**Minder goede match:**
 
-Ten aanzien van [Warmtepomp geluid en buren](/posts/warmtepomp-geluid-buren-2026-norm/): Intergas haalt ruim de norm. Vergelijkbaar met ATAG, iets stiller dan oudere Daikin-modellen.
+- Je hebt een goed werkende ketel van een ander merk en die zou vervangen moeten worden
+- Je wil naar volledig gasloos — kijk dan naar de all-electric lijn, van Intergas of van een ander merk
+- Je wil de warmtepomp koppelen aan een thuisbatterij, dynamische tarieven of een domoticaplatform. Wat dit toestel op dat vlak kan, staat niet op de productpagina; vraag het expliciet uit en neem het antwoord schriftelijk mee
+- Je woning heeft label A of A+ en vloerverwarming; dan is een hybride met gasketel een halve stap
 
-## Wat Intergas goed doet
+## Wat je bij de offerte moet uitvragen
 
-### 1. Naadloze integratie met Intergas-ketel
+Omdat de publieke informatie over dit toestel beperkt is, verschuift het werk naar de offertefase. Vraag in ieder geval:
 
-Voor wie al een Intergas-ketel heeft: het systeem voelt als één geheel. Geen losse componenten met verschillende protocols. De binnenunit zit op de ketel, alle besturing loopt via één panel en één app.
+- Het **volledige typenummer**, en of dat op de ISDE-apparatenlijst staat
+- Het **technische datablad** met SCOP en de conditie waarbij die is bepaald
+- De **geluidsonderbouwing** voor de gekozen plek van de buitenunit, getoetst aan 45/40 dB op de erfgrens
+- De **compatibiliteit met je huidige ketel**, schriftelijk
+- De **voorwaarden van de prestatiegarantie**: welk verbruik en welke tarieven zijn aangenomen, en wie stelt de uitkomst vast
+- De **garantietermijnen** op toestel en onderdelen, en of jaarlijks onderhoud een garantievoorwaarde is
+- Het **onderhoudstarief** en wat een storingsbezoek buiten garantie kost
+- De **levertijd**, met datum
 
-### 2. Nederlandse service
-
-Intergas heeft eigen technische dienst in Coevorden, plus 200+ erkende installateurs verspreid over Nederland (zwaartepunt Noord en Oost). Storingen worden binnen 24-48 uur opgepakt, gemiddelde reactietijd is 1,8 dagen volgens hun jaarrapport.
-
-### 3. Compact ontwerp
-
-De binnenunit is significant kleiner dan Daikin of Vaillant — 30% minder vloeroppervlak. Voor kleine technische ruimtes (typische jaren-70 huizen) is dat een echte plus.
-
-### 4. Prijs onder gemiddelde
-
-€6.500 voor het complete pakket (cv-ketel + warmtepomp + installatie) is iets onder het marktgemiddelde voor hybride. Voor wie geen Daikin-prestige nodig heeft maar wel kwaliteit: aantrekkelijke deal.
-
-### 5. ISDE-subsidie geregeld
-
-Intergas Xtreme Hybrid staat op de RVO-lijst, subsidie €2.500-€3.500. Gecertificeerde installateurs kunnen de aanvraag volledig voor je doen; RVO noemt zelf een beslistermijn van 8 tot 13 weken.
-
-### 6. Bewezen technologie
-
-Mitsubishi-compressor + Intergas-regelapparatuur. Geen experimenten — alles is beproefd. Voor wie geen tech-pionier wil zijn: solide keuze.
-
-## Wat Intergas minder doet
-
-### 1. Vereiste Intergas-cv-ketel
-
-Hier zit de echte beperking. De Xtreme Hybrid werkt **alleen** met een Intergas Kombi Kompakt of Xtreme Solo cv-ketel. Heb je een ATAG, Remeha of Vaillant ketel? Dan moet die eruit, en dat kost €1.500-€2.500 extra.
-
-Voor wie al Intergas-ketel heeft: perfect. Voor anderen: switching-kosten verkleinen het voordeel.
-
-### 2. Geen smart-home integratie
-
-Geen Home Assistant koppeling, geen dynamisch-tarief integratie. In 2026 is dat een gemis. ATAG heeft Modbus, Daikin heeft eigen Onecta-API, Vaillant heeft Sensofloor. Intergas: niets.
-
-Voor wie HVAC wil koppelen aan thuisbatterij of EV-laden: Intergas valt af.
-
-### 3. SCOP iets onder topmerken
-
-4,0-4,2 in de praktijk versus 4,5-4,7 voor Daikin. Op jaarbasis = €40-€80 verschil in stroomkosten. Niet wereldschokkend maar over 15 jaar wel €600-€1.200.
-
-### 4. All-electric variant ontbreekt nog
-
-Wie naar gasloos wil: Intergas heeft op moment van schrijven geen all-electric variant. Verwacht in 2027. Voor wie nu een definitieve gasloze installatie wil: kies Daikin of Vaillant.
-
-### 5. Beperkt tot hybride-segment
-
-Intergas is sterk als hybride-merk. Voor specifieke toepassingen (collectieve installaties, grootschalige lucht-water): andere merken zijn meer ontwikkeld.
-
-### 6. Smaller dealer-netwerk
-
-200+ Intergas-erkende installateurs is in NL niet weinig, maar minder dan ATAG (500+) of Daikin (350+). In sommige regio's (Limburg, Zeeland) lastig om snel een Intergas-installateur te vinden.
-
-## Concrete jaarberekening Intergas Xtreme Hybrid
-
-Voor de referentiewoning (110 m², label C, 1.450 m³ gas in het voorgaande jaar), met een gasprijs van €1,15/m³ en een stroomprijs van €0,29/kWh:
-
-| Bron | Vorig jaar | Met Intergas | Verschil |
-|---|---|---|---|
-| Gas (m³) | 1.450 | 435 | -1.015 |
-| Stroom (kWh extra) | 0 | 2.800 | +2.800 |
-| Kosten gas (€1,15/m³) | €1.668 | €500 | -€1.168 |
-| Kosten stroom extra (€0,29/kWh) | €0 | €812 | +€812 |
-| **Netto besparing per jaar** | | | **€356/jaar** |
-| Saldering-bonus zonnepanelen | | | +€80 (door eigen-verbruik tijdens zonneschijn) |
-| **Totale besparing** | | | **€436/jaar** |
-
-Met netto-investering €4.000 (na ISDE): terugverdientijd ongeveer 9 jaar.
-
-Dat is langer dan de 5 tot 7 jaar die vaak wordt genoemd. De reden: de stroomprijs ligt in 2026 hoog (rond €0,29 gemiddeld), en in dit model staan maar 8 zonnepanelen op het dak, waardoor het eigen verbruik beperkt is.
-
-**Voor wie geen panelen heeft**: terugverdientijd 10-12 jaar. Voor wie 14+ panelen heeft: 6-8 jaar door beter eigen-verbruik.
-
-## Voor wie is Intergas Xtreme een slimme keus?
-
-✅ **Goede match**:
-- Je hebt al een Intergas cv-ketel (geen switching-kosten)
-- Je woont in Noord of Oost Nederland (sterk dealer-netwerk)
-- Je woning heeft label C of D (hybride is logisch, niet all-electric)
-- Je wilt een Nederlandse fabrikant met NL-service
-- Je hebt geen smart-home integratie-eisen
-- Je budget is rond de €5.000-€6.000 netto
-
-❌ **Slechte match**:
-- Je hebt een ATAG, Remeha of Vaillant cv-ketel die nog goed werkt
-- Je wilt all-electric (Intergas heeft dit nog niet)
-- Je woont in zuidelijke provincies met beperkt dealer-aanbod
-- Je wilt smart-home koppelen via Home Assistant
-- Je woning is label A of A+ (kies dan all-electric van een ander merk)
-
-## Vergelijking met concurrentie
-
-| Aspect | Intergas Xtreme Hybrid | ATAG ENERGION Hybrid | Daikin Altherma 3 H |
-|---|---|---|---|
-| Prijs (netto na ISDE) | €4.000 | €4.500 | €6.000 |
-| SCOP (opgave fabrikant) | 4,0-4,3 | 4,2-4,4 | 4,5-4,7 |
-| Cv-ketel afhankelijkheid | Alleen Intergas | Eigen of derden | Geen (all-electric) |
-| App | Basaal | Basaal | Uitgebreid |
-| NL-service | Sterk (Coevorden) | Sterk (Lichtenvoorde) | Via importeur |
-| Dealer-netwerk | 200+ | 500+ | 350+ |
-| Smart-home | Geen | Modbus | Onecta API |
-| Garantie | 5+2 jaar | 5+2 jaar | 5+2 jaar |
-| All-electric optie | Nee (2027 verwacht) | Ja (ENERGION SOLO) | Ja (Altherma 3) |
-
-**Intergas wint op prijs** en geschiktheid voor wie al Intergas-ketel heeft.
-**ATAG wint op marktdekking** en breder portfolio.
-**Daikin wint op SCOP en smart-home**.
-
-Voor de gemiddelde Nederlander zonder voorkeur: ATAG. Voor wie Intergas-ketel al heeft: Intergas. Voor wie maximaal rendement wil: Daikin.
-
-## Service en software
-
-De meldingen die in gebruikersreviews terugkomen gaan opvallend vaak niet over defecten maar over instellingen: een compressormelding bij de eerste vorst blijkt dan een aanvoertemperatuur die te hoog staat ingesteld. Zulke correcties vallen binnen de servicebeurt van de installateur.
-
-De klantenservice van Intergas is Nederlandstalig en direct bereikbaar — dat is een structureel voordeel boven merken die de eerste lijn via een importeur laten lopen.
-
-De InterApp krijgt met enige regelmaat updates. De belangrijkste uitbreiding tot nu toe is de koppeling met slimme thermostaten, nuttig voor wie al een slim thermostaatsysteem heeft.
-
-## Ons advies
-
-Voor wie al een Intergas cv-ketel heeft die binnen 5 jaar aan vervanging toe is: **upgrade naar de Xtreme Hybrid bij ketelvervanging**. Eén bezoek, één garantie, één app. Logisch.
-
-Voor wie een andere ketel heeft die nog goed werkt: **wacht of kies anders**. Switching-kosten naar Intergas-ketel + warmtepomp is zelden de moeite waard.
-
-In de referentiesituatie is de keuze verdedigbaar: de 16 jaar oude ketel was sowieso aan vervanging toe, waardoor de all-in oplossing van €4.000 netto logisch uitpakt. Het model komt uit op €350 tot €450 besparing per jaar bij een geïntegreerd systeem dat volgens de fabrikant 10 jaar of langer meegaat.
-
-<a href="https://go.duurzaamthuislab.nl/intergas" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Intergas warmtepompen</a> · <a href="https://go.duurzaamthuislab.nl/atag" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk ATAG (alternatief)</a>
-
-## FAQ extra
-
-**Werkt Intergas Xtreme met vloerverwarming?**
-Ja, optimaal zelfs. Een lagere aanvoertemperatuur (35°C) levert een betere COP. Heb je alleen radiatoren, dan is het vaak nodig een aantal radiatoren te vergroten om de aanvoertemperatuur rond de 50°C te kunnen houden.
-
-**Wat als Intergas faalt of overgenomen wordt?**
-Intergas is sinds 2018 onderdeel van Honeywell. Stabiele eigenaar. Risico op faillissement: zeer laag. Onderdelen blijven verkrijgbaar.
-
-**Werkt het in een appartement?**
-Ja, mits er een eigen meterkast is en er ruimte is voor een buitenunit op balkon of achtergevel. Voor flats in stadshuizen: vaak niet praktisch.
-
-**Hoe zit het met onderhoud?**
-Jaarlijkse controle aanbevolen, ~€150-€200 (cv-ketel + warmtepomp samen). Filter buitenunit jaarlijks vervangen (€20). Inwendige check elke 3 jaar (€80).
-
----
+Die lijst is geen wantrouwen tegen dit merk. Het is de lijst die je bij elk toestel langs zou moeten gaan — alleen valt bij een fabrikant die weinig publiceert des te meer op wat er ontbreekt.
 
 ## Conclusie
 
-Intergas Xtreme Hybrid is een prima Nederlandse hybride warmtepomp voor mensen met een Intergas cv-ketel. SCOP 4,0-4,2, prijs onder gemiddelde, NL-service, beperkt smart-home aanbod.
+De Xtend is op papier een verdedigbare hybride warmtepomp: 5 kW, R290 als koudemiddel met een lage GWP, label A+++ en een Nederlandse fabrikant met een eigen serviceorganisatie. Dat is een reëel voordeel boven merken waarbij de eerste lijn via een importeur loopt.
 
-In het rekenmodel hierboven komt de besparing uit op circa €440 per jaar bij €4.000 netto-investering — een terugverdientijd van ongeveer 9 jaar. Niet spectaculair, maar solide.
+Maar de review kan niet verder komen dan dat, en dat is de belangrijkste boodschap. Intergas publiceert bij dit toestel geen prijs, geen SCOP en geen geluidswaarde, en op de site staat niet met welke ketels het samenwerkt. Wie online wél harde getallen tegenkomt — SCOP 4,3, een prijs van rond de €6.500, decibelwaarden per meter — leest cijfers die niet naar de fabrikant te herleiden zijn. Wij nemen ze daarom niet over.
 
-Voor wie écht maximale efficiëntie wil: kies Daikin Altherma 3 H. Voor wie betaalbaarheid en NL-service wil: Intergas of ATAG. Voor wie al Intergas-ketel heeft: Intergas is logisch.
+Blijft over: de rekenkant. In ons model met gelabelde aannames levert een hybride op een label C-tussenwoning met 1.450 m³ gasverbruik circa €434 per jaar op, en bij 2.500 m³ ruim €700. Of dat een goede investering is, hangt volledig af van twee dingen die in jouw offerte staan en niet in een review: het bedrag onderaan, en of je cv-ketel mee moet.
 
-*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
+<a href="https://go.duurzaamthuislab.nl/intergas" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk de warmtepompen van Intergas</a>
+
+*Wij ontvangen geen vergoeding als je op deze link klikt of iets aanschaft; er is geen affiliate- of commissierelatie met Intergas.*
 
 ---
 
@@ -334,38 +217,6 @@ Voor wie écht maximale efficiëntie wil: kies Daikin Altherma 3 H. Voor wie bet
 - [Warmtepomp onderhoud kosten](/posts/warmtepomp-onderhoud-kosten-2026/)
 - [Warmtepomp geluid en buren](/posts/warmtepomp-geluid-buren-2026-norm/)
 
-## Rekenvoorbeeld: grotere woning met hoge stookkosten
-
-Rekenvoorbeeld met de volgende aannames: vrijstaande woning met stookkosten van €2.460 per jaar op een oude HR-ketel, een Intergas Xtreme Hybride van €8.900 met €2.900 ISDE (netto €6.000), en dezelfde energieprijzen als hierboven.
-
-**Uitkomst van het model:**
-- Stookkosten na plaatsing: circa €1.180 per jaar
-- Besparing: rond de €1.280 per jaar
-- Terugverdientijd op de netto-investering: ongeveer 4,7 jaar
-- Jaarlijkse servicebeurt: €200-€250
-
-De terugverdientijd valt in dit model korter uit dan bij de tussenwoning, simpelweg omdat er meer te besparen valt. Bij een lagere gasprijs schuift de uitkomst richting 6 jaar.
-
-## Veelgemaakte fouten bij Intergas-installatie
-
-1. **Niet-erkende installateur kiezen.** Intergas heeft eigen plaatsingnetwerk — buiten dat netwerk geen volledige garantie.
-2. **Bestaande HR-ketel houden naast Xtreme.** Werkt theoretisch maar regeling wordt complex en COP zakt.
-3. **Buffer-vat oversize.** Voor hybride is 40-60 liter buffer optimaal — installateurs leggen vaak 100+ liter.
-4. **Geluidsisolatie binnen vergeten.** Buitendeel maakt 38-42 dB op 1 meter — bij slaapkamer aan straatzijde extra dempen.
-5. **Filter binnenunit niet vervangen.** Jaarlijks vereist; bij oversla daling COP 8-12 procent.
-
-## Wanneer Intergas niet de juiste keuze is
-
-Bij eindgebruik volledig elektrisch (geen gas-aansluiting wenselijk) is Intergas Xtreme niet geschikt — die is hybride-only. Kies dan voor Vaillant aroTHERM, Daikin Altherma 3 of Mitsubishi Ecodan.
-
-## Extra FAQ
-
-**Werkt de Intergas-app stabiel?**
-Comfort Cloud is redelijk maar minder polished dan Daikin Onecta. Schedule-instellingen werken, geo-fencing niet stabiel.
-
-**Hoe vergelijkt Intergas met Quatt qua TCO?**
-Intergas Xtreme: €6.000 netto + €235/jaar service = €9.525 over 15 jaar. Quatt Hybrid: €7.500 + €300/jaar abonnement = €12.000 over 15 jaar. Intergas €2.475 voordeliger TCO bij gelijke besparing.
-
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE-subsidie](https://www.rvo.nl/subsidies-financiering/isde) — de apparatenlijst en de voorwaarden van de regeling.
