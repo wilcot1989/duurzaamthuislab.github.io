@@ -102,6 +102,8 @@ Twee uitsluitingen verdienen extra aandacht omdat ze praktische gevolgen hebben:
 
 **Installatie buiten het land van aankoop is niet gedekt.** Dat is direct relevant, omdat Marstek in Duitsland een eigen webwinkel heeft en in Nederland niet. Wie in Duitsland koopt om hier te installeren, komt volgens de letter van deze voorwaarde buiten de dekking te staan. Dat is een reëel risico bij een prijsverschil van een paar honderd euro.
 
+Let op het verschil tussen fabrikant en verkoper: de Nederlandse distributeur marstek.nl — die zichzelf "één van de weinige officiële distributeurs" noemt — publiceert wél prijzen (Venus E Max vanaf €2.474, pre-order; Venus E 3.0 met P1-meter €1.074 — peildatum 21 augustus 2026) en geeft zelf 10 jaar garantie. Dat zijn toezeggingen van die verkoper, niet van de fabrikant: op de where-to-buy-pagina van eu.marstekenergy.com stond Nederland op 21 augustus nog als "coming soon". Praktisch advies: kopen bij een Nederlandse verkoper is prima — het aankoopland is dan Nederland, dus de aankoopland-clausule werkt in je voordeel — maar laat de garantietermijn en wat die dekt schriftelijk op de offerte of factuur zetten.
+
 Voor claims verwijst Marstek naar support@marstekenergy.com of de MARSTEK-app, met vermelding van ordernummer, aankoopkanaal, adres en telefoonnummer. Het after-sales-team antwoordt per e-mail.
 
 ## Retourneren: 30 dagen, met een EU-uitzondering van 14
