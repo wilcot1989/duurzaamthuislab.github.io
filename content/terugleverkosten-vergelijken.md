@@ -100,7 +100,7 @@ Twee valkuilen in de kleine letters:
     <tr style="border-bottom:1px solid #e2e8f0;">
       <td style="padding:.7rem;vertical-align:top;"><strong><a href="https://go.duurzaamthuislab.nl/frank-energie?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow" style="color:inherit;">Frank Energie</a></strong></td>
       <td style="padding:.7rem;vertical-align:top;">Vast en variabel</td>
-      <td style="padding:.7rem;vertical-align:top;"><strong>Staffel per jaar</strong> op basis van teruggeleverd volume, "zoals Frank Energie die vanaf 1 juni 2025 toepast bij vaste en variabele contracten". De staffeltabel staat op de eigen pagina als <strong>afbeelding</strong>, niet als tekst — daarom: <em>staffel, zie site</em>. De bedragen in de rekenvoorbeelden op die pagina zijn illustratief en nemen wij niet als tarief over.</td>
+      <td style="padding:.7rem;vertical-align:top;"><strong>Staffel per maand</strong> op basis van je jaarlijkse teruglevering, vanaf 1 juni 2025 bij vaste en variabele contracten. Wij hebben de staffeltabel (die op de Frank-pagina als afbeelding staat) op 21 augustus 2026 uitgelezen: 0-5 kWh/jaar €0,00 · 5-500 €5,06 · 500-1.000 €10,12 · 1.000-1.500 €15,18 · 1.500-2.000 €20,23 · 2.000-2.500 €25,29 · 2.500-3.000 €30,35 · 3.000-3.500 €35,41 · 3.500-4.000 €40,47 per maand (incl. btw), daarboven verder oplopend tot €217,48 bij 20.500+ kWh. Reken dus: een gemiddeld dak met 3.500 kWh teruglevering kost bij Frank <strong>€425-486 per jaar</strong> aan terugleverkosten. Controleer de actuele tabel op frankenergie.nl vóór je tekent.</td>
       <td style="padding:.7rem;vertical-align:top;">Model 20 aug 2026<br><span style="color:#666;font-size:.82rem;">bedragen: zie site</span></td>
       <td style="padding:.7rem;vertical-align:top;"><a href="https://www.frankenergie.nl/nl/terugleverkosten" target="_blank" rel="noopener nofollow">frankenergie.nl</a></td>
     </tr>
@@ -149,7 +149,7 @@ Twee valkuilen in de kleine letters:
 
 Wat je eruit kunt halen: **het model** per leverancier, en dat is de beslissing die het meeste geld scheelt. Een staffel per dag betaal je ook op dagen dat je bijna niets teruglevert; een bedrag per kWh beweegt mee met je opbrengst; bij dynamisch betaal je geen aparte post maar wordt de waarde van je stroom per uur bepaald.
 
-Wat je er niet uit kunt halen: een sluitende jaarrekening. Zes van de twaalf leveranciers publiceren geen bedrag: bij vier (Eneco, ENGIE, Greenchoice en Oxxio) staat het tarief per kWh alleen in je contract, de app of de mijn-omgeving, en bij twee (Frank Energie en Vattenfall) staat de staffel alleen als afbeelding of los tarievendocument. De staffels die wél openbaar staan hebben verschillende peildata (Budget Thuis 16 dec 2025, Essent 1 jan 2025, Vattenfall per 1 mei 2026 in een los document). Wie deze cijfers optelt tot "leverancier X kost je € Y per jaar", rekent met aannames.
+Wat je er niet uit kunt halen: een sluitende jaarrekening. Zes van de twaalf leveranciers publiceren geen bedrag: bij vier (Eneco, ENGIE, Greenchoice en Oxxio) staat het tarief per kWh alleen in je contract, de app of de mijn-omgeving, en bij Vattenfall staat de staffel alleen in een los tarievendocument (de Frank-staffel hebben wij op 21 augustus 2026 uit de afbeelding op hun site uitgelezen — zie de tabel). De staffels die wél openbaar staan hebben verschillende peildata (Budget Thuis 16 dec 2025, Essent 1 jan 2025, Vattenfall per 1 mei 2026 in een los document). Wie deze cijfers optelt tot "leverancier X kost je € Y per jaar", rekent met aannames.
 
 Meer achtergrond bij de staffels zelf staat in ons overzicht van de [terugleverstaffels per energieleverancier](/posts/terugleverstaffel-energieleveranciers-2026/).
 
@@ -159,7 +159,7 @@ Er zijn drie routes, en ze zijn te combineren.
 
 **1. Kies een contracttype zonder terugleverkosten.** Dit is de snelste ingreep. Bij alle gecontroleerde dynamische contracten ontbreekt de post volledig — geen staffel, geen bedrag per kWh. De keerzijde: je opbrengst per teruggeleverde kWh beweegt mee met de markt en kan op een zonnige middag richting nul of onder nul gaan. Welke aanbieders er zijn en waarin ze verschillen staat in onze [vergelijking van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/).
 
-Een concreet aandachtspunt: Frank Energie past de terugleverstaffel toe bij vaste en variabele contracten, en publiceert de bedragen alleen als afbeelding. Heb je panelen en overweeg je Frank, lees die pagina dan eerst zelf met je eigen teruglevervolume erbij.
+Een concreet aandachtspunt: Frank Energie past de terugleverstaffel toe bij vaste en variabele contracten. Wij hebben de bedragen op 21 augustus 2026 uitgelezen (zie de Frank-rij hierboven): bij een gemiddeld dak met 3.500 kWh teruglevering praat je over €425-486 per jaar — geen bijzaak. Controleer vóór het tekenen de actuele tabel op de Frank-pagina met je eigen teruglevervolume erbij.
 
 <p style="margin:1.4rem 0;"><a class="cta" href="https://go.duurzaamthuislab.nl/frank-energie?ref=/terugleverkosten-vergelijken/" target="_blank" rel="noopener nofollow">Bekijk Frank Energie →</a></p>
 
