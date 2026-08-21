@@ -30,7 +30,7 @@ faq:
 - q: "Wat kost een warmtepomp voor een rijtjeshuis in 2026 inclusief installatie?"
   a: "Een hybride opstelling ligt doorgaans tussen €7.500 en €12.000 inclusief installatie, een volledige lucht-water warmtepomp tussen €13.000 en €22.000. De spreiding komt vooral door elektra-aanpassingen, leidinglengte en het al dan niet vervangen van radiatoren. Op toestel en installatie geldt 21% btw."
 - q: "Hoeveel ISDE-subsidie is er in 2026?"
-  a: "Dat hangt af van het specifieke apparaat: RVO publiceert het bedrag per typenummer op de ISDE-apparatenlijst. Het startbedrag voor een warmtepomp is in 2026 €1.025, met daarbovenop €200 labelbonus. Je vraagt de subsidie aan ná de installatie, binnen 24 maanden, via mijn.rvo.nl. De installatie moet door een bouwinstallatiebedrijf zijn uitgevoerd."
+  a: "Dat hangt af van het specifieke apparaat: RVO publiceert het bedrag per typenummer op de ISDE-apparatenlijst, met een rekentool erbij. Zoek het typenummer uit je offerte daar op. Je vraagt de subsidie aan ná de installatie, binnen 24 maanden, via mijn.rvo.nl. Voer je binnen 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld. De installatie moet door een bouwinstallatiebedrijf zijn uitgevoerd."
 - q: "Past een warmtepomp wel in een klein rijtjeshuis?"
   a: "Ja, maar je moet rekening houden met drie dingen: plek voor de buitenunit (minimaal 1 meter vrij rondom), ruimte binnen voor de hydrobox (kast van 60×60×180 cm) en geluidsoverlast voor de buren. In een tussenwoning is een hybride vaak verstandiger dan een full electric omdat de buitenunit kleiner is."
 - q: "Wat is een goede COP voor een rijtjeshuis?"
@@ -56,7 +56,6 @@ products:
   url: https://go.duurzaamthuislab.nl/tibber
 schema_type: Article
 last_updated: '2026-08-21'
-category: warmtepompen
 ---
 
 Geluidsoverlast van de buitenunit van de buren is bij rijtjeshuizen de klacht die het vaakst bij gemeenten terechtkomt, en het is precies de reden waarom de merkkeuze hier anders uitpakt dan bij een vrijstaande woning. In een tussenwoning staat de buitenunit onvermijdelijk dicht op de erfgrens, en dan weegt het opgegeven geluidsniveau zwaarder dan de SCOP of de prijs.
@@ -195,7 +194,7 @@ De prijzen zijn indicatieve bandbreedtes voor een complete installatie; de SCOP-
 
 ## Kosten en ISDE-subsidie 2026
 
-Het ISDE-bedrag hangt af van het specifieke apparaat en staat per typenummer op de apparatenlijst van RVO. Bedragen per merk of vermogensklasse zijn daarom niet in een artikel te vangen — ze verschillen per toestel en worden periodiek bijgesteld. Het startbedrag voor een warmtepomp is in 2026 €1.025, met daarbovenop €200 labelbonus.
+Het ISDE-bedrag hangt af van het specifieke apparaat en staat per typenummer op de apparatenlijst van RVO. Bedragen per merk of vermogensklasse zijn daarom niet in een artikel te vangen — ze verschillen per toestel en worden periodiek bijgesteld. Zoek het typenummer uit je offerte op in de apparatenlijst en de rekentool op rvo.nl. Combineer je binnen 24 maanden twee of meer maatregelen, dan wordt het subsidiebedrag verdubbeld.
 
 Voorwaarden 2026:
 - De volledige installatie wordt uitgevoerd door een bouwinstallatiebedrijf

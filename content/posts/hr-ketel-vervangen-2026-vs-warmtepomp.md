@@ -49,7 +49,7 @@ Dit artikel is bedoeld om die afweging vooraf te maken, zodat je hem niet in twi
 
 *Disclosure: dit artikel bevat geen affiliate-links. Wij hebben met ATAG, Quatt, Intergas, Remeha, Vaillant en Bosch geen affiliate- of commissierelatie. De links naar deze merken zijn gewone verwijzingen.*
 
-> **Kort antwoord:** het moment waarop je ketel vervangen moet worden, is het goedkoopste moment om over te stappen op een hybride warmtepomp — je betaalt dan alleen de meerprijs, en daar gaat de ISDE nog vanaf. Die ISDE bedraagt in 2026 voor een eerste lucht-waterwarmtepomp € 1.025 startbedrag plus € 225 per kW plus € 200 labelbonus bij A+++, aan te vragen ná installatie binnen 24 maanden.
+> **Kort antwoord:** het moment waarop je ketel vervangen moet worden, is het goedkoopste moment om over te stappen op een hybride warmtepomp — je betaalt dan alleen de meerprijs, en daar gaat de ISDE nog vanaf. Die ISDE vraag je aan ná installatie, binnen 24 maanden; het bedrag staat per typenummer in de apparatenlijst en rekentool op rvo.nl.
 >
 > Een nieuwe HR-ketel blijft verdedigbaar bij een slecht geïsoleerde woning, bij een naderende verkoop of verbouwing, of als het simpelweg niet kan wachten. Subsidie krijg je er niet voor, en dat verandert ook niet meer: sinds 1 januari 2025 mogen EU-lidstaten stand-alone fossiele ketels niet meer subsidiëren.
 
@@ -115,21 +115,17 @@ Wat dit betekent voor de beslissing: niet de totale prijs van de warmtepomp bepa
 
 Reken de aannames na met je eigen jaarafrekening. Een lagere gasprijs, een hoger bivalentpunt of een slechter geïsoleerde woning schuift de uitkomst zichtbaar op.
 
-## De ISDE in 2026: hoe het bedrag is opgebouwd
+## De ISDE in 2026: hoe je jouw bedrag vindt
 
-Volgens rvo.nl (opgehaald 21 augustus 2026) bestaat de ISDE voor een **eerste** lucht-waterwarmtepomp in 2026 uit:
+De ISDE hangt het subsidiebedrag aan het **typenummer** van het toestel, niet aan de categorie en niet aan het merk. RVO publiceert daarvoor een apparatenlijst met een rekentool: vraag je installateur om het volledige typenummer uit de offerte en zoek dat daar op. Dan weet je met welk bedrag je mag rekenen.
 
-- een startbedrag van **€ 1.025** (in 2025 nog € 1.250);
-- **€ 225 per kW** vermogen, vanaf de eerste kW;
-- **€ 200 energielabelbonus** bij een A+++-label.
+Voer je binnen 24 maanden twee of meer maatregelen uit — bijvoorbeeld de hybride warmtepomp én een isolatiemaatregel — dan wordt het subsidiebedrag verdubbeld. Dat is de enige "bonus" die de regeling kent.
 
-Het rekenvoorbeeld van RVO zelf: een eerste lucht-waterwarmtepomp van 4 kW met A+++-label geeft € 1.025 + 4 × € 225 + € 200 = **€ 2.125**. Plaats je in hetzelfde jaar een tweede of volgende warmtepomp, dan vervallen het startbedrag en de labelbonus voor dat toestel.
-
-Wij publiceren bewust geen subsidietabel per SCOP-klasse of per geluidsniveau en ook geen bedrag per merk of model. Het bedrag volgt uit het vermogen en de meldcode van het specifieke toestel; die staat op de meldcodelijst van RVO en de ISDE-rekentool rekent hem voor je door.
+Wij publiceren bewust geen subsidietabel per SCOP-klasse of per geluidsniveau en ook geen bedrag per merk of model. Het bedrag volgt uit het typenummer van het specifieke toestel; dat staat op de meldcodelijst van RVO en de ISDE-rekentool rekent het voor je door.
 
 De belangrijkste procedurepunten:
 
-- **Aanvragen doe je ná installatie**, binnen 24 maanden. Voor isolatiemaatregelen geldt een afwijkende termijn van 12 maanden na uitvoering.
+- **Aanvragen doe je ná installatie**, binnen 24 maanden. Voor isolatiemaatregelen geldt dezelfde termijn van 24 maanden na uitvoering.
 - **Het toestel moet met het volledige typenummer op de meldcodelijst staan** op het moment van installatie. Controleer dat nummer op je offerte én op je factuur.
 - **De installatie moet door een bedrijf worden uitgevoerd**; zelf installeren geeft geen recht op subsidie.
 - **Op de warmtepomp betaal je 21% btw.** Het 0%-tarief is er alleen voor zonnepanelen en de onderdelen die daar direct voor nodig zijn.
@@ -220,7 +216,7 @@ De veelgemaakte fout is niet het kiezen van het verkeerde merk, maar het niet ve
 
 ---
 
-*Laatst bijgewerkt: 21 augustus 2026. ISDE-bedragen en -voorwaarden gecontroleerd op rvo.nl; EPBD-termijnen op de publicaties van Volkshuisvesting Nederland; Quatt-prijsinformatie op quatt.io — alle op 21 augustus 2026.*
+*Laatst bijgewerkt: 21 augustus 2026. ISDE-voorwaarden gecontroleerd op rvo.nl; EPBD-termijnen op de publicaties van Volkshuisvesting Nederland; Quatt-prijsinformatie op quatt.io — alle op 21 augustus 2026.*
 
 ---
 

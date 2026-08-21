@@ -273,13 +273,13 @@ Lees [warmtepomp onderhoud kosten 2026](/posts/warmtepomp-onderhoud-kosten-2026/
 
 ## ISDE-subsidie 2026 en btw
 
-Het ISDE-subsidiebedrag hangt af van het specifieke apparaat en staat per toestel vermeld op de apparatenlijst van RVO. Bedragen per merk of model zijn daarom niet in een artikel als dit te vangen: ze verschillen per typenummer en worden periodiek bijgesteld. Het startbedrag voor een warmtepomp is in 2026 €1.025, met daarbovenop €200 labelbonus.
+Het ISDE-subsidiebedrag hangt af van het specifieke apparaat en staat per toestel vermeld op de apparatenlijst van RVO. Bedragen per merk of model zijn daarom niet in een artikel als dit te vangen: ze verschillen per typenummer en worden periodiek bijgesteld. Zoek het typenummer uit je offerte op in de apparatenlijst en de rekentool op rvo.nl. Voer je binnen 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld.
 
 De belangrijkste voorwaarden:
 
 - De volledige installatie wordt uitgevoerd door een bouwinstallatiebedrijf.
 - Het apparaat staat op de ISDE-apparatenlijst van RVO.
-- Je vraagt de subsidie aan **ná** de installatie, binnen 24 maanden.
+- Je vraagt de subsidie aan **ná** de installatie, binnen 24 maanden (dezelfde termijn geldt voor isolatiemaatregelen).
 
 Op de warmtepomp en de installatie geldt 21% btw. Het 0%-tarief geldt uitsluitend voor zonnepanelen en de daarvoor direct noodzakelijke onderdelen — een warmtepomp valt daar niet onder.
 

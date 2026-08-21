@@ -123,12 +123,12 @@ Tijdens een koudegolf zakt het rendement naar circa 2,9 zonder dat de unit capac
 
 ## Stroomverbruik en kosten (modelberekening)
 
-Bij het referentieprofiel en een jaarprestatie van 4,8 komt het verbruik voor verwarming plus tapwater uit op circa **3.585 kWh** per jaar. Tegen €0,32/kWh is dat **circa €1.147 per jaar**.
+Bij het referentieprofiel en een jaarprestatie van 4,8 komt het verbruik voor verwarming plus tapwater uit op circa **3.585 kWh** per jaar. Tegen de sitebrede modelconstante van €0,26/kWh all-in (€0,105 EPEX-jaargemiddelde 2025 incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslag-aanname) is dat **circa €932 per jaar**.
 
-De uitgangssituatie in het model — een cv-ketel met 2.480 m³ gas — kost bij een gasprijs van €1,05/m³ inclusief vastrecht en transport circa **€2.604 per jaar**, plus circa €380 aan stroom voor pompen en warm water. Samen circa €2.984.
+De uitgangssituatie in het model — een cv-ketel met 2.480 m³ gas — kost bij de sitebrede gasconstante van €1,10/m³ all-in circa **€2.728 per jaar**, plus circa €380 aan stroom voor pompen en warm water. Samen circa €3.108.
 
-- **Besparing in dit model: circa €1.837 per jaar**
-- Op een netto investering van €12.500 komt de rekenkundige terugverdientijd daarmee op **circa 6,8 jaar**
+- **Besparing in dit model: circa €2.176 per jaar**
+- Op een netto investering van €12.500 komt de rekenkundige terugverdientijd daarmee op **circa 5,7 jaar**
 
 Die uitkomst is gunstig, en dat komt vooral door het hoge gasverbruik van de uitgangssituatie. Bij een kleinere woning met 1.200 m³ gas halveert de besparing ruwweg en verdubbelt de terugverdientijd. Reken daarom met je eigen jaarafrekening, niet met dit voorbeeld.
 

@@ -49,7 +49,6 @@ faq:
   a: 'Saldering stopt per 1 januari 2027 volledig — niet stapsgewijs en zonder afbouwpad. Tot die datum saldeer je nog voor 100%, en is een teruggeleverde kWh net zoveel waard als een kWh die je niet inkoopt. Daarna telt alleen zelfverbruik (waarde: de vermeden inkoopprijs van €0,26 per kWh) plus wat je leverancier voor teruglevering geeft. Dát is de reden dat opslag en slim verbruik na 2027 zwaarder wegen.'
 schema_type: Article
 last_updated: '2026-10-16'
-category: thuisbatterijen
 ---
 
 Op een zonnige zaterdag in juli kan een goed afgestemd huis uren op nul staan: geen import, geen export, alles wat de panelen opwekken gaat naar het huis, de auto en de batterij. Dat is het moment waarop zelfvoorzienend wonen tastbaar wordt. Zes maanden later, in januari, koopt datzelfde huis in één week ruim honderd kWh van het net in. Dat is de kern van autarkie in Nederland: het is geen toestand, het is een jaargemiddelde.
@@ -77,7 +76,7 @@ Om daar 90% van zelf te dekken, heb je nodig:
 - **Zonnepanelen:** 6.000-7.000 Wp (16-18 panelen van 400W). Jaaropbrengst in NL met goede zuid-oriëntatie: 5.700-6.600 kWh. Kosten: €6.500-€9.000 geïnstalleerd.
 - **Thuisbatterij:** minimaal 13,5 kWh bruikbaar. Tesla Powerwall 3 (13,5 kWh) of stapel van twee Marstek Venus (10 kWh). Kosten: €8.000-€14.000.
 - **Slimme omvormer + energiemanager:** Huawei SUN2000 of SolarEdge met overschot-sturing. €1.500-€2.500.
-- **EV-charger met overschot-laden:** Zaptec Go, Easee Home of vergelijkbaar met dynamisch laadprotocol. €800-€1.500.
+- **EV-charger met overschot-laden:** Zaptec Go, een Easee Up of Max of vergelijkbaar met dynamisch laadprotocol. €800-€1.500 (eigen aanname: Easee en Zaptec publiceren geen consumentenprijs, dus vraag dit bedrag op in je offerte).
 - **Installatie + meterkast-aanpassing:** €1.500-€2.500.
 
 Totaal: **€18.300 tot €29.500**. In het midden ongeveer €24.000. Voor dat geld haal je in jaar 1 al ongeveer 75-80% autarkie, en als je het systeem netjes inregelt (zie verder) kruip je naar 85-90%.
@@ -129,7 +128,7 @@ Daarom geldt: **75 procent is de sweet spot.** Daarboven daalt het rendement per
 
 Een elektrische auto is feitelijk een tweede batterij van 50-80 kWh op wielen. Als je die slim integreert met je zonnepanelen, schiet je autarkie omhoog. Het principe: zodra je dak meer opwekt dan het huis verbruikt, gaat het overschot naar de auto in plaats van naar het net.
 
-In de praktijk werkt dat zo: je EV-charger (Zaptec Go, Easee Home, Wallbox Pulsar Plus) leest via P1-poort de momentaan opgewekte stroom af. Verbruikt het huis 500W en wekken de panelen 3.500W op? Dan laadt de auto met 13A — exact het verschil. Wolk over? Laadt terug naar 6A of pauzeert. Resultaat: op een goede zomerdag sluis je 15-25 kWh naar je auto, ofwel 80-150 km. "Gratis" is dat niet — je vermijdt inkoop tegen €0,26 per kWh, maar je ziet op diezelfde kWh's de terugleververgoeding mis. Het netto voordeel is het verschil tussen die twee, en dat is precies waarom deze route na 2027 zoveel aantrekkelijker wordt: dan valt de saldering weg en zakt de waarde van teruglevering.
+In de praktijk werkt dat zo: je EV-charger (Zaptec Go, Easee Up of Max, Wallbox Pulsar Plus) leest via P1-poort de momentaan opgewekte stroom af. Verbruikt het huis 500W en wekken de panelen 3.500W op? Dan laadt de auto met 13A — exact het verschil. Wolk over? Laadt terug naar 6A of pauzeert. Resultaat: op een goede zomerdag sluis je 15-25 kWh naar je auto, ofwel 80-150 km. "Gratis" is dat niet — je vermijdt inkoop tegen €0,26 per kWh, maar je ziet op diezelfde kWh's de terugleververgoeding mis. Het netto voordeel is het verschil tussen die twee, en dat is precies waarom deze route na 2027 zoveel aantrekkelijker wordt: dan valt de saldering weg en zakt de waarde van teruglevering.
 
 Belangrijk: doe dit *na* je thuisbatterij in de prioriteitsketen. Eerst huis, dan batterij vol, dan auto. Anders laad je je auto vol terwijl je batterij leeg blijft en je 's avonds alsnog moet inkopen. De complete uitleg staat in [EV laden met thuisbatterij](/posts/ev-laden-met-thuisbatterij/) en voor de hardware-keuze [beste laadpaal thuis 2026](/posts/beste-laadpaal-thuis-2026/).
 

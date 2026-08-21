@@ -33,7 +33,7 @@ faq:
 - q: 'Waarom staan er in dit artikel geen bedragen per regeling?'
   a: 'Omdat wij alleen bedragen publiceren die met naam, bron en ophaaldatum te staven zijn. Gemeentelijke regelingen kennen een eigen budget en openstellingsperiode en muteren tussentijds. Een artikel dat bedragen noemt, is binnen enkele maanden deels onjuist — gebruik de gemeentepagina en de Energiesubsidiewijzer voor de actuele stand.'
 - q: 'Moet ik aanvragen vóór of ná de installatie?'
-  a: 'Dat verschilt per laag. ISDE vraag je aan ná installatie: binnen 24 maanden bij warmtepomp of zonneboiler, binnen 12 maanden bij isolatie. Gemeentelijke regelingen vragen vaak juist om een aanvraag vóór de opdracht. Bij een gecombineerd pakket houd je die twee volgordes tegelijk aan.'
+  a: 'Dat verschilt per laag. ISDE vraag je aan ná installatie of uitvoering, binnen 24 maanden — bij warmtepomp, zonneboiler én isolatie. Gemeentelijke regelingen vragen vaak juist om een aanvraag vóór de opdracht. Bij een gecombineerd pakket houd je die twee volgordes tegelijk aan.'
 - q: 'Hoeveel ISDE hoort er bij mijn warmtepomp?'
   a: 'Het bedrag hangt aan het exacte typenummer van het apparaat. RVO houdt daarvoor een apparatenlijst met rekenhulp bij. Vraag het typenummer uit de offerte en zoek het daar op; bandbreedtes zonder typenummer zeggen niets.'
 - q: 'Krijg ik ISDE voor zonnepanelen?'
@@ -81,7 +81,7 @@ De twee dingen die hieruit volgen, gelden voor elk Rotterdams project:
 
 - RVO publiceert een **apparatenlijst met rekenhulp**; daar zoek je op merk en typenummer welk bedrag aan het apparaat hangt. Zie de [ISDE-pagina van RVO](https://www.rvo.nl/subsidies-financiering/isde).
 - Vraag je installateur om het **typenummer uit de offerte**, niet om een inschatting van het subsidiebedrag.
-- **Termijn:** binnen 24 maanden na installatie (warmtepomp, zonneboiler), binnen 12 maanden na uitvoering (isolatie).
+- **Termijn:** binnen 24 maanden na installatie of uitvoering, voor warmtepomp, zonneboiler en isolatie gelijk. Bij twee of meer maatregelen binnen die 24 maanden wordt het subsidiebedrag verdubbeld.
 - **Voorwaarde:** eigen woning als hoofdverblijf, apparaat op de apparatenlijst.
 
 Meer daarover in [ISDE subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/).

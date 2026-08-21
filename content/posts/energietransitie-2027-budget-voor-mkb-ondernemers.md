@@ -97,7 +97,7 @@ Twee kanttekeningen die het beeld nuanceren. Bij een eenmanszaak of VOF verlaagt
 ISDE is een directe uitkering, geen aftrek, en dekt warmtepomp, warmtepompboiler, zonneboiler, isolatiemaatregelen en aansluiting op een warmtenet. Zonnepanelen, thuisbatterijen en laadpalen vallen er niet onder.
 
 - **Het bedrag hangt aan het typenummer.** RVO publiceert een apparatenlijst met rekenhulp; daar zoek je op merk en type welk bedrag eraan hangt. Vraag je installateur om het typenummer uit de offerte.
-- **Je vraagt aan ná uitvoering:** binnen 24 maanden na installatie bij warmtepomp en zonneboiler, binnen 12 maanden na uitvoering bij isolatie.
+- **Je vraagt aan ná uitvoering:** binnen 24 maanden na installatie of uitvoering — die termijn geldt zowel voor warmtepomp en zonneboiler als voor isolatie. Voer je binnen 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld.
 - **Stapelen met EIA op dezelfde investering kan niet.** Per investering kies je één route; welke gunstiger is, hangt af van het bedrag en je belastingtarief.
 
 Zie ook ons [ISDE aanvragen stappenplan](/posts/isde-aanvragen-stappenplan-2026/) en [ISDE subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/).

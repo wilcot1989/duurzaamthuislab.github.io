@@ -226,7 +226,7 @@ De ISDE geldt voor warmtepompen die met hun exacte typenummer op de apparatenlij
 Let daarna op de volgorde, want hier gaat het het vaakst mis:
 
 - Je vraagt de ISDE aan **ná** de installatie. Een aanvraag vóór de installatie wordt afgewezen.
-- Je hebt daarvoor **24 maanden** vanaf de installatie (voor isolatie is dat 12 maanden na uitvoering).
+- Je hebt daarvoor **24 maanden** vanaf de installatie; voor isolatiemaatregelen geldt dezelfde termijn van 24 maanden na uitvoering. Voer je binnen die 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld.
 - De aanvraag is jouw verantwoordelijkheid. Een installateur mag hem met een machtiging voor je indienen, maar leg dat schriftelijk vast — anders blijft het liggen.
 - Reken in de offerte met **21% btw**. Het nultarief geldt alleen voor zonnepanelen; op een warmtepomp is 0% btw onjuist.
 

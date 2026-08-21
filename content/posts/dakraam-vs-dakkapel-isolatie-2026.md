@@ -265,7 +265,7 @@ Slechte dakkapel-isolatie kan het energielabel actief verslechteren. Een dakkape
 
 **ISDE 2026:** Niet van toepassing op dakramen of dakkapellen als losstaande maatregel. Wel kan dakisolatie (inclusief het isolatiemateriaal van de dakkapel) via een gecombineerde ISDE-aanvraag worden meegenomen als onderdeel van een breder verduurzamingsproject (bijv. in combinatie met warmtepompisolatiepakket).
 
-**Nationaal Warmtefonds:** biedt leningen voor verduurzaming aan eigenaar-bewoners, met een rentepercentage dat afhangt van het inkomen en de looptijd — voor de laagste inkomensgroepen is dat 0%. Of dakraam- of dakkapelrenovatie in jouw geval als isolatiemaatregel kwalificeert, en tegen welke rente, staat in de actuele voorwaarden op warmtefonds.nl. Wij nemen die percentages hier niet over omdat ze periodiek wijzigen.
+**Nationaal Warmtefonds:** verstrekt de Energiebespaarlening aan eigenaar-bewoners. Op warmtefonds.nl stond op 21 augustus 2026 een leenbedrag van **€1.000 tot €29.000** (voor een thuisbatterij een apart maximum van €8.500), met looptijden van 7, 10, 15 of 20 jaar. Bij een verzamelinkomen onder **€60.000** is de rente **0%**; daarboven gold volgens de rentetabel van 13 augustus 2026 4,02% tot 4,52%, afhankelijk van de looptijd. Of dakraam- of dakkapelrenovatie in jouw geval als kwalificerende maatregel meetelt, en tegen welke rente, staat in de actuele voorwaarden op warmtefonds.nl — die tarieven worden periodiek bijgesteld.
 
 **Woonsubsidie via gemeente:** Sommige gemeenten bieden aanvullende subsidies voor schilverbeteringen. Controleer gemeentelijk subsidieloket.
 

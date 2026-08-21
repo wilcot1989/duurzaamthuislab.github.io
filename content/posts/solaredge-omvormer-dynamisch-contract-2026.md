@@ -39,7 +39,6 @@ faq:
   a: 'Financieel niet. Tot 1 januari 2027 krijg je voor teruglevering hetzelfde tarief als voor afname, dus batterij-arbitrage kost je per saldo rendement en cyclusslijtage. De saldering stopt daarna volledig, zonder afbouwpad. Overweeg dus de omvormer nu en de batterij vanaf het moment dat teruglevering minder waard wordt. Ons overzicht [dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/) gaat hier dieper op in.'
 schema_type: Article
 last_updated: '2026-08-21'
-category: zonnepanelen
 ---
 
 Een veelvoorkomende situatie: veertien panelen op het zuiddak, een SolarEdge-omvormer en een dynamisch contract — en toch een besparing die achterblijft bij de verwachting. Leg de productiecurve naast de uurtarieven en het patroon is meteen zichtbaar: de omvormer levert keurig terug rond het middaguur, precies wanneer de beursprijs op zijn laagst staat, terwijl de EV in de avondspits laadt tegen het duurste tarief van de dag. Het gat zit niet in de hardware maar in de instellingen.

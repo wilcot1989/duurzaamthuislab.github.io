@@ -164,7 +164,7 @@ Wat je wél kunt stapelen: de ISDE op de warmtepomp — het bedrag per toestel s
 
 Waar wel echte winst zit: gedeelde installatiekosten. Komt de elektricien toch al voor de warmtepomp, dan valt het meerwerk voor de batterij lager uit dan bij een losse opdracht. Vraag daarom expliciet om een gecombineerde installatieprijs naast de losse prijzen; het verschil zit in arbeid die je één keer betaalt.
 
-Let op de ISDE-termijnen bij de warmtepomp zelf: aanvragen kan ná installatie, binnen 24 maanden. Voor isolatie geldt: ná uitvoering, binnen 12 maanden.
+Let op de ISDE-termijn bij de warmtepomp zelf: aanvragen kan ná installatie, binnen 24 maanden. Voor isolatie geldt dezelfde termijn: ná uitvoering, binnen 24 maanden.
 
 ## Collectief inkopen als alternatief
 

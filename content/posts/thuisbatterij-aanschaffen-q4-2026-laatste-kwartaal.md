@@ -37,7 +37,6 @@ faq:
 - q: 'Is een thuisbatterij zinvol bij een lage teruglevering?'
   a: 'Bij een paar honderd kilowattuur teruglevering per jaar valt er weinig te verschuiven en loopt de terugverdientijd snel op boven de levensduur van het systeem. Reken je eigen situatie door met je jaarafrekening in de hand voordat je een offerte aanvraagt; een dynamisch contract zonder batterij is dan vaak de logischer eerste stap.'
 schema_type: Article
-category: thuisbatterij
 ---
 
 Het laatste kwartaal van 2026 is voor veel huishoudens het moment waarop de vraag "moet ik nog een thuisbatterij" concreet wordt: per 1 januari 2027 stopt de salderingsregeling volledig. Dat leidt tot drukte bij installateurs en tot verkoopteksten waarin haast het belangrijkste argument is geworden.
@@ -112,9 +111,9 @@ Prijs- en specpeil 20 augustus 2026. Waar een fabrikant geen waarde publiceert, 
 
 Onderstaande som is een **modelberekening met expliciete aannames**, geen gemeten resultaat en geen belofte. Vul je eigen getallen in.
 
-Aannames: 4.800 kWh teruglevering per jaar, een Sessy van 5 kWh voor €3.550 plus €1.200 basisinstallatie met noodstroom (samen €4.750), een terugleververgoeding van €0,05/kWh en een leveringstarief van €0,30/kWh na het wegvallen van de saldering.
+Aannames: 4.800 kWh teruglevering per jaar, een Sessy van 5 kWh voor €3.550 plus €1.200 basisinstallatie met noodstroom (samen €4.750), een terugleververgoeding van €0,07/kWh (gelabelde aanname voor 2027 — de tarieven zijn nog niet gepubliceerd) en een leveringstarief van €0,26/kWh all-in (sitebrede modelconstante: €0,105 EPEX-jaargemiddelde 2025 incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslag-aanname) na het wegvallen van de saldering.
 
-Elke kilowattuur die je via de batterij zelf gebruikt in plaats van teruglevert, is in dit model €0,25 waard. Verschuif je met een batterij van 5 kWh 2.000 kWh per jaar van teruglevering naar eigen verbruik, dan is het brutovoordeel €500 per jaar; bij 3.000 kWh is het €750. Op een investering van €4.750 komt dat neer op een terugverdientijd van ongeveer negen respectievelijk zes jaar, vóór rendementsverlies bij laden en ontladen en vóór eventuele opbrengst uit dynamisch handelen.
+Elke kilowattuur die je via de batterij zelf gebruikt in plaats van teruglevert, is in dit model €0,19 waard. Verschuif je met een batterij van 5 kWh 2.000 kWh per jaar van teruglevering naar eigen verbruik, dan is het brutovoordeel €380 per jaar; bij 3.000 kWh is het €570. Op een investering van €4.750 komt dat neer op een terugverdientijd van ongeveer twaalf respectievelijk acht jaar, vóór rendementsverlies bij laden en ontladen en vóór eventuele opbrengst uit dynamisch handelen.
 
 De uitkomst hangt dus vrijwel volledig af van hoeveel kilowattuur je daadwerkelijk kunt verschuiven, en dat hangt af van je verbruikspatroon — niet van het merk. Wie overdag niet thuis is, geen EV laadt en geen warmtepomp heeft, verschuift minder dan dit model aanneemt. Onze [ROI-berekening voor een thuisbatterij na saldering](/posts/roi-thuisbatterij-na-saldering-2027-berekening/) laat je dat per profiel narekenen.
 

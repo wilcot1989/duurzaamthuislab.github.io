@@ -100,7 +100,7 @@ De uitkomst: in exploitatie ontlopen de twee elkaar niet dramatisch, met een voo
 
 De exploitatiekosten zijn niet waar de beslissing wordt gemaakt. Drie andere posten wegen zwaarder:
 
-**Subsidie.** Op een warmtepomp krijg je ISDE, op een pelletkachel niets. Dat is geen klein verschil: de ISDE bedraagt in 2026 voor een eerste lucht-waterwarmtepomp een startbedrag van € 1.025, plus € 225 per kW vermogen, plus € 200 energielabelbonus bij een A+++-label (bron: rvo.nl, opgehaald 21 augustus 2026). Voor een toestel van 4 kW met A+++-label rekent RVO dat voor als € 2.125. Aanvragen doe je ná installatie, binnen 24 maanden, en het toestel moet met het volledige typenummer op de meldcodelijst staan.
+**Subsidie.** Op een warmtepomp krijg je ISDE, op een pelletkachel niets. Dat is geen klein verschil. Het bedrag hangt aan het typenummer van het toestel: zoek dat op in de apparatenlijst en de rekentool op rvo.nl. Aanvragen doe je ná installatie, binnen 24 maanden, en het toestel moet met het volledige typenummer op de meldcodelijst staan. Combineer je binnen 24 maanden twee of meer maatregelen, dan wordt het subsidiebedrag verdubbeld.
 
 **Onderhoud.** Een pelletkachel produceert as en rookgassen en vraagt daardoor structureel meer werk: wekelijks de aslade legen, periodiek de branderkop reinigen, jaarlijks onderhoud en periodiek een schoorsteenveger voor het rookkanaal. Een warmtepomp vraagt filterreiniging die je zelf doet en een servicebeurt die je kunt uitbesteden. Beide posten verschillen per aanbieder; de richting is echter eenduidig.
 
@@ -152,7 +152,7 @@ De juiste volgorde is in beide gevallen dezelfde: eerst de schil, dan het toeste
 
 **Stap 1 — laat een maatwerkadvies opstellen.** Een EPA-maatwerkadvies geeft een prioriteitenlijst van maatregelen met kosten en besparing voor jouw specifieke woning, in plaats van een algemene vuistregel. Sommige gemeenten vergoeden een deel van de kosten; kijk dat na bij je eigen energieloket.
 
-**Stap 2 — isoleer eerst.** Dak, gevel en vloer in de volgorde die uit het advies komt. Voor isolatie geldt ook ISDE, met een afwijkende aanvraagtermijn: binnen 12 maanden na uitvoering, tegen 24 maanden voor een warmtepomp. Op isolatie geldt bovendien 21% btw.
+**Stap 2 — isoleer eerst.** Dak, gevel en vloer in de volgorde die uit het advies komt. Voor isolatie geldt ook ISDE, met dezelfde aanvraagtermijn als bij een warmtepomp: binnen 24 maanden na uitvoering. Op isolatie geldt bovendien 21% btw.
 
 **Stap 3 — controleer het afgiftesysteem.** Kunnen de bestaande radiatoren bij een aanvoertemperatuur van rond de 45 °C genoeg warmte afgeven? Laat dat doorrekenen voordat de warmtepomp wordt gekozen; het antwoord bepaalt of je radiatoren moet vergroten.
 

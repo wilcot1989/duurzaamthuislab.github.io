@@ -38,7 +38,7 @@ faq:
 - q: 'Hoeveel ISDE hoort er bij mijn warmtepomp?'
   a: 'Het bedrag hangt aan het exacte typenummer van het apparaat. RVO houdt daarvoor een apparatenlijst met rekenhulp bij. Vraag het typenummer uit de offerte op en zoek het daar op; een bandbreedte zonder typenummer zegt niets.'
 - q: 'Moet ik aanvragen vóór of ná de installatie?'
-  a: 'Dat verschilt per laag. ISDE vraag je aan ná installatie: binnen 24 maanden bij een warmtepomp of zonneboiler, binnen 12 maanden bij isolatie. Veel provinciale en gemeentelijke regelingen willen juist een aanvraag vóór de opdracht. Bij een gecombineerd project houd je dus twee volgordes tegelijk aan.'
+  a: 'Dat verschilt per laag. ISDE vraag je aan ná installatie of uitvoering, binnen 24 maanden — bij warmtepomp, zonneboiler én isolatie. Veel provinciale en gemeentelijke regelingen willen juist een aanvraag vóór de opdracht. Bij een gecombineerd project houd je dus twee volgordes tegelijk aan.'
 - q: 'Kan ik de btw op mijn zonnepanelen nog terugvragen?'
   a: 'Niet bij nieuwe installaties. Sinds 1 januari 2023 geldt het nultarief btw op zonnepanelen en de direct noodzakelijke onderdelen; er valt dan geen btw meer terug te vragen. De oude teruggaveroute speelt alleen nog bij installaties van vóór die datum.'
 - q: 'Telt mijn woonadres of mijn werkadres?'
@@ -86,7 +86,7 @@ Bandbreedtes als "€1.800 tot €4.500 voor een warmtepomp" kom je overal tegen
 
 - RVO publiceert een **apparatenlijst met rekenhulp**: je zoekt op merk en typenummer en ziet welk bedrag daaraan hangt.
 - Vraag je installateur om het **typenummer uit de offerte**, niet om een schatting van het subsidiebedrag.
-- **Aanvraagtermijn:** binnen 24 maanden na installatie voor warmtepomp en zonneboiler, binnen 12 maanden na uitvoering voor isolatie.
+- **Aanvraagtermijn:** binnen 24 maanden na installatie of uitvoering, voor warmtepomp, zonneboiler en isolatie gelijk. Bij twee of meer maatregelen binnen die 24 maanden wordt het subsidiebedrag verdubbeld.
 - **Voorwaarde:** het gaat om je eigen woning als hoofdverblijf, en het apparaat moet op de apparatenlijst staan.
 
 Meer daarover in [ISDE subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/).

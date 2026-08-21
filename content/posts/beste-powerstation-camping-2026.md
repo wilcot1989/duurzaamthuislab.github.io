@@ -57,7 +57,7 @@ Deze vergelijking is helemaal op **kamperen** toegespitst: gewicht dat je van de
 
 > **Kort antwoord:** voor de meeste kampeerders is de EcoFlow River 2 Pro (768 Wh, 7,8 kg, €549 op nl.ecoflow.com op 21 augustus 2026) de beste balans tussen draagbaar gewicht en genoeg capaciteit voor koelbox, licht en telefoons. Wie ultralicht reist, komt uit bij de EcoFlow River 2 (256 Wh, 3,5 kg); wie met een groot gezin of langer dan een week kampeert, bij de Jackery Explorer 1000-klasse.
 >
-> **Over de prijzen.** Alleen het bedrag van EcoFlow hebben wij op 21 augustus 2026 op de Nederlandse fabrikantwebshop kunnen nakijken. Voor Bluetti, Anker SOLIX en de Jackery Explorer 1000 Plus noemen wij geen bedrag: die konden wij op die datum niet verifiëren, en een prijs die wij niet hebben nagekeken nemen wij niet over. Specificaties zijn fabrieksopgaven; wij hebben deze toestellen niet zelf getest.
+> **Over de prijzen.** Alleen het bedrag van EcoFlow hebben wij op 21 augustus 2026 op de Nederlandse fabrikantwebshop kunnen nakijken. Het bedrag van de Jackery Explorer 1000 v2 (€519, van €799) stond op diezelfde datum op nl.jackery.com. Voor Bluetti en Anker SOLIX noemen wij geen bedrag: die konden wij op die datum niet verifiëren, en een prijs die wij niet hebben nagekeken nemen wij niet over. Specificaties zijn fabrieksopgaven; wij hebben deze toestellen niet zelf getest.
 
 ## Waar moet je op letten bij een camping-powerstation?
 
@@ -98,7 +98,7 @@ Op een stille camping wil je geen zoemende ventilator. De beste camping-powersta
 | Powerstation | Capaciteit | Vermogen | Gewicht | Solar max | Laadtijd AC | Prijs (NL, 21-8-2026) |
 |---|---|---|---|---|---|---|
 | **EcoFlow River 2 Pro** | 768 Wh | 800 W | 7,8 kg | 220 W | 42 min (0-80%) | €549 |
-| **Jackery Explorer 1000 Plus** | 1264 Wh | 2000 W | 14,5 kg | 800 W | 75 min (0-80%) | niet door ons geverifieerd |
+| **Jackery Explorer 1000 v2** | 1.070 Wh | 1500 W | 10,8 kg | niet vermeld | ~60 min (0-100%) | €519 |
 | **Bluetti EB70S** | 716 Wh | 800 W | 9,7 kg | 200 W | 100 min (0-80%) | niet door ons geverifieerd |
 | **Anker SOLIX C800** | 768 Wh | 1200 W | 10,5 kg | 300 W | 58 min (0-80%) | niet door ons geverifieerd |
 | **EcoFlow River 2** | 256 Wh | 300 W | 3,5 kg | 110 W | 40 min (0-80%) | niet door ons geverifieerd |
@@ -151,50 +151,53 @@ De EcoFlow River 2 Pro is de ideale middenweg: licht genoeg om mee te nemen, kra
 
 ---
 
-## 2. Jackery Explorer 1000 Plus -- Beste voor grote gezinnen en lange trips
+## 2. Jackery Explorer 1000 v2 -- Beste voor grote gezinnen en lange trips
 
-Heb je meer vermogen en capaciteit nodig? De **Jackery Explorer 1000 Plus** biedt met 1264Wh en 2000W continu vermogen aanzienlijk meer kracht dan de River 2 Pro.
+Heb je meer capaciteit en vermogen nodig? De **Jackery Explorer 1000 v2** biedt met 1.070 Wh en 1.500 W continu vermogen ruim meer dan de River 2 Pro, en weegt daarbij nog geen elf kilo.
+
+**Waarom niet de 1000 Plus?** In veel vergelijkingen staat op deze plek de Explorer 1000 **Plus** met zijn uitbreidbare accumodules — ook in eerdere versies van dit artikel. Bij onze controle van nl.jackery.com op 21 augustus 2026 stonden op het powerstation-overzicht alleen de v2-modellen: Explorer 500 v2 (€329), 1000 v2 (€519), 2000 v2 (€899) en 3000 v2 (€1.599). De Plus-modellen troffen wij daar niet aan. Wie specifiek de Plus wil, is aangewezen op resterende dealervoorraad of de internationale winkel, met de garantievraag die daarbij hoort. Het verschil tussen beide generaties staat in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/); dezelfde afweging geldt in de 1000-klasse. Wij adviseren hier het model dat je vandaag in Nederland kunt kopen.
 
 ### Specificaties
 
 | Specificatie | Waarde |
 |---|---|
-| Capaciteit | 1264 Wh |
-| Continu vermogen | 2000 W |
-| Gewicht | 14,5 kg |
-| Afmetingen | 35,6 x 26 x 28,3 cm |
-| AC-uitgangen | 3x Schuko |
-| USB-C | 2x (100W PD) |
-| USB-A | 2x |
-| Solar-input max | 800 W |
+| Capaciteit | 1.070 Wh |
+| Continu vermogen | 1.500 W |
+| Gewicht | 10,8 kg |
+| Laadtijd via het net | circa 1 uur vol (opgave Jackery) |
 | Batterijtype | LFP (LiFePO4) |
-| Levensduur | ~4000 cycli |
-| Uitbreidbaar | Ja (+ Battery Pack) |
+| Levensduur | 4.000 cycli |
+| Garantie | 3 jaar + 2 jaar bij registratie |
+| Solar-input max | niet vermeld op de Nederlandse productpagina |
+| Uitbreidbaar | niet vermeld op de Nederlandse productpagina |
+| Prijs (NL, 21-8-2026) | €519 (van €799) |
+
+*Specificaties zijn fabrieksopgaven van nl.jackery.com, opgehaald op 21 augustus 2026. Waar Jackery een gegeven niet publiceert, vullen wij het niet in.*
 
 ### Waarom voor camping?
 
-Met **14,5 kg** is de Explorer 1000 Plus nog steeds door één persoon te dragen, en de grotere capaciteit maakt langere kampeertrips zonder stroomaansluiting mogelijk. Het indrukwekkende continu vermogen van **2000W** betekent dat je ook zwaardere apparaten kunt gebruiken, zoals een waterkoker, tosti-ijzer of kleine inductiekookplaat.
+Met **10,8 kg** blijft de Explorer 1000 v2 met één hand te tillen, en de 1.070 Wh maakt langere kampeertrips zonder stroomaansluiting mogelijk. Het continu vermogen van **1.500 W** is genoeg voor een waterkoker of tosti-ijzer van 1.000 W; voor een inductiekookplaat op vol vermogen zit je er te dicht op.
 
-De **uitbreidbaarheid** is een uniek voordeel: met een extra Battery Pack vergroot je de capaciteit naar 2528Wh. En de hoge solar-input van **800W** maakt snel opladen met zonnepanelen mogelijk.
-
-**Let op de modelnaam en de leverbaarheid.** Op nl.jackery.com stonden op 21 augustus 2026 alleen de v2-modellen van de Explorer-lijn (de Explorer 1000 v2 stond daar op €519); de Plus-modellen troffen wij daar niet aan. Wil je specifiek de Plus met zijn uitbreidbare accumodules, reken dan op resterende dealervoorraad of de internationale winkel — met de garantievraag die daarbij hoort. Het verschil tussen beide generaties staat in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/); dezelfde afweging geldt in de 1000-klasse. Wij noemen voor de 1000 Plus geen prijs, omdat wij die op de Nederlandse webshop niet hebben kunnen nakijken.
+Twee dingen om te controleren voordat je kiest: Jackery publiceert op de Nederlandse productpagina geen maximale zonne-input en geen accu-uitbreiding voor dit model. Wil je bijladen met een paneel van 400 W of meer, of later uitbreiden, vraag die opgaven dan op of vergelijk met een toestel waarvoor ze wél gepubliceerd zijn — zie [EcoFlow versus Jackery](/posts/ecoflow-vs-jackery-2026/).
 
 ### Hoeveel uur campingapparaten?
 
+Gerekend met circa 90 procent bruikbare capaciteit (≈ 960 Wh van de 1.070 Wh) — een modelbenadering, geen meting:
+
 | Apparaat | Geschatte draaitijd |
 |---|---|
-| Compressorkoelbox (40W) | ~27 uur |
-| LED-verlichting (10W) | ~107 uur |
-| Laptop opladen (60Wh) | ~18 ladingen |
-| Smartphone (15Wh) | ~71 ladingen |
-| Waterkoker (1000W) | ~1 uur |
-| Elektrische koelbox + verlichting + telefoon | ~20 uur |
+| Compressorkoelbox (40W) | ~24 uur |
+| LED-verlichting (10W) | ~96 uur |
+| Laptop opladen (60Wh) | ~16 ladingen |
+| Smartphone (15Wh) | ~64 ladingen |
+| Waterkoker (1000W) | ~55 minuten |
+| Elektrische koelbox + verlichting + telefoon | ~18 uur |
 
 ### Oordeel
 
-De Jackery Explorer 1000 Plus is ideaal als je langere kampeerperiodes plant, met een groter gezin kampeert, of de mogelijkheid wilt om uit te breiden. Het hogere gewicht is de trade-off voor significant meer capaciteit en vermogen.
+De Jackery Explorer 1000 v2 is de logische stap omhoog als je langere kampeerperiodes plant of met een groter gezin gaat: 40 procent meer capaciteit dan de River 2 Pro voor drie kilo extra, tegen €519 op de peildatum. Het is een actieprijs die per periode wisselt, dus controleer het bedrag bij aankoop.
 
-<a href="https://go.duurzaamthuislab.nl/jackery" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Jackery Explorer 1000 Plus</a>
+<a href="https://go.duurzaamthuislab.nl/jackery" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Jackery Explorer 1000 v2</a>
 
 ---
 
@@ -332,15 +335,15 @@ De EcoFlow River 2 is geen krachtpatser, maar dat is ook niet de bedoeling. Het 
 
 Om je te helpen bij de keuze, hebben we berekend hoe lang elk powerstation typische campingapparaten kan voeden:
 
-| Apparaat (vermogen) | River 2 (256Wh) | EB70S (716Wh) | River 2 Pro (768Wh) | SOLIX C800 (768Wh) | Explorer 1000 Plus (1264Wh) |
+| Apparaat (vermogen) | River 2 (256Wh) | EB70S (716Wh) | River 2 Pro (768Wh) | SOLIX C800 (768Wh) | Explorer 1000 v2 (1.070Wh) |
 |---|---|---|---|---|---|
-| **Smartphone laden (15Wh)** | 14x | 40x | 43x | 43x | 71x |
-| **Laptop laden (60Wh)** | 3x | 10x | 10x | 10x | 18x |
-| **LED-lamp (10W)** | 21 u | 60 u | 65 u | 65 u | 107 u |
-| **Koelbox (40W)** | 5 u | 15 u | 16 u | 16 u | 27 u |
-| **Mini-ventilator (20W)** | 10 u | 30 u | 32 u | 32 u | 53 u |
-| **Speaker (10W)** | 21 u | 60 u | 65 u | 65 u | 107 u |
-| **CPAP-apparaat (40W)** | 5 u | 15 u | 16 u | 16 u | 27 u |
+| **Smartphone laden (15Wh)** | 14x | 40x | 43x | 43x | 60x |
+| **Laptop laden (60Wh)** | 3x | 10x | 10x | 10x | 15x |
+| **LED-lamp (10W)** | 21 u | 60 u | 65 u | 65 u | 91 u |
+| **Koelbox (40W)** | 5 u | 15 u | 16 u | 16 u | 23 u |
+| **Mini-ventilator (20W)** | 10 u | 30 u | 32 u | 32 u | 45 u |
+| **Speaker (10W)** | 21 u | 60 u | 65 u | 65 u | 91 u |
+| **CPAP-apparaat (40W)** | 5 u | 15 u | 16 u | 16 u | 23 u |
 
 *Waarden zijn geschat op basis van 85% omzettingsefficiëntie.*
 
@@ -356,7 +359,7 @@ Als je kampeert zonder stroomaansluiting, zijn zonnepanelen de beste manier om j
 | Bluetti EB70S | 716 Wh | ~5,5 uur |
 | EcoFlow River 2 Pro | 768 Wh | ~6 uur |
 | Anker SOLIX C800 | 768 Wh | ~6 uur |
-| Jackery Explorer 1000 Plus | 1264 Wh | ~4,5 uur (met 2x paneel) |
+| Jackery Explorer 1000 v2 | 1.070 Wh | ~7,5 uur (of ~4 uur met 2x paneel) |
 
 **Tips voor zonnepaneel-opladen:**
 
@@ -379,8 +382,8 @@ Je hebt genoeg aan 250-700Wh voor telefoon, verlichting en een speaker. Licht en
 Met 768Wh en de mogelijkheid om een koelbox en meerdere apparaten tegelijk te voeden, zit je goed voor een week.
 
 ### Langdurig kamperen of campervan (2+ weken)
-**Aanbevolen: Jackery Explorer 1000 Plus**
-De grotere capaciteit, het hoge vermogen en de uitbreidbaarheid maken langere trips comfortabel -- zeker in combinatie met zonnepanelen.
+**Aanbevolen: Jackery Explorer 1000 v2**
+De grotere capaciteit en de 1.500 W maken langere trips comfortabel -- zeker in combinatie met zonnepanelen. Let op: een maximale zonne-input publiceert Jackery voor dit model niet, dus vraag die op voordat je een paneel van 400 W of meer koopt.
 
 ### Minimalistisch/fietscamping
 **Aanbevolen: EcoFlow River 2**
@@ -409,7 +412,7 @@ Het **beste powerstation voor camping** hangt af van je persoonlijke situatie en
 - **Beste allrounder**: **EcoFlow River 2 Pro** -- de ideale balans van gewicht, capaciteit en laadsnelheid voor de meeste kampeerders
 - **Beste budget**: **Bluetti EB70S** -- degelijk, betaalbaar en met een LiFePO4-batterij die jaren meegaat
 - **Beste prijs-prestatie**: **Anker SOLIX C800** -- meer vermogen dan je zou verwachten voor de prijs
-- **Beste voor grote gezinnen/lange trips**: **Jackery Explorer 1000 Plus** -- maximale capaciteit en uitbreidbaarheid
+- **Beste voor grote gezinnen/lange trips**: **Jackery Explorer 1000 v2** -- de grootste capaciteit in deze selectie (€519 op 21 augustus 2026)
 - **Beste ultralicht**: **EcoFlow River 2** -- 3,5 kg van pure campingvrijheid
 
 Welk model je ook kiest, een goed powerstation maakt kamperen comfortabeler zonder de natuur te verstoren -- geen lawaai van aggregaten, geen uitstoot, en altijd stroom voor de apparaten die je echt nodig hebt.

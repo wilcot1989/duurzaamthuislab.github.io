@@ -76,7 +76,7 @@ Uitgangspunten: twee huishoudens met dezelfde 11 kW-wallbox en hetzelfde dynamis
 
 - **Ongestuurd laden**, verdeeld over de dag: €0,26 per kWh all-in. Opbouw: EPEX-jaargemiddelde 2025 €0,105 per kWh (inclusief btw) + energiebelasting €0,11085 per kWh (2026, inclusief btw) + €0,044 per kWh inkoopvergoeding en omgeslagen vaste kosten — dat laatste is een gelabelde aanname.
 - **Gestuurd nachtladen:** €0,220 per kWh all-in (aanname, geen meting).
-- **Vast contract als referentie:** €0,32 per kWh all-in (aanname).
+- **Vast contract als referentie:** €0,32 per kWh all-in (aanname). Die referentie bepaalt de uitkomst: bij €0,28 per kWh verdwijnt het voordeel van passief dynamisch afnemen volledig.
 
 | Scenario | Prijs per kWh | 3.000 kWh per jaar |
 |---|---|---|

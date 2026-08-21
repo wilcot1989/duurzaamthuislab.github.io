@@ -118,7 +118,7 @@ Prijzen noemen wij bij deze componenten niet als vaststaand gegeven: de meeste f
 
 Let er ook op dat het nultarief niet doorloopt naar een thuisbatterij of powerstation: die vallen onder het normale tarief van 21 procent.
 
-**Subsidie.** De ISDE geeft **geen** subsidie op zonnepanelen. De regeling is er voor onder meer warmtepompen, zonneboilers en isolatie. Of een recreatiewoning voor die onderdelen in aanmerking komt en welk bedrag daarbij hoort, hangt af van het typenummer van het apparaat en van de voorwaarden die RVO stelt; die bedragen zoek je op via de apparatenlijst en de rekentool van RVO. Aanvragen doe je bij een warmtepomp **ná** installatie en binnen 24 maanden; bij isolatie ná uitvoering en binnen 12 maanden. Wij noemen geen bedragen, omdat die per typenummer verschillen.
+**Subsidie.** De ISDE geeft **geen** subsidie op zonnepanelen. De regeling is er voor onder meer warmtepompen, zonneboilers en isolatie. Of een recreatiewoning voor die onderdelen in aanmerking komt en welk bedrag daarbij hoort, hangt af van het typenummer van het apparaat en van de voorwaarden die RVO stelt; die bedragen zoek je op via de apparatenlijst en de rekentool van RVO. Aanvragen doe je bij een warmtepomp **ná** installatie en binnen 24 maanden; bij isolatie ná uitvoering, met dezelfde termijn van 24 maanden. Wij noemen geen bedragen, omdat die per typenummer verschillen.
 
 Gemeentelijke en provinciale regelingen bestaan, maar wisselen per jaar en sluiten recreatiewoningen regelmatig uit. Gebruik de subsidiechecker van je eigen gemeente of provincie in plaats van een landelijk overzicht.
 

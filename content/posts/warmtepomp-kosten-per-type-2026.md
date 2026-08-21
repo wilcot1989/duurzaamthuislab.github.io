@@ -17,7 +17,7 @@ faq:
 - q: Hoeveel ISDE-subsidie krijg ik in 2026?
   a: 'Dat hangt aan het exacte typenummer van het toestel, niet aan het type warmtepomp. RVO stelt per goedgekeurd apparaat een bedrag vast en publiceert dat in de ISDE-apparatenlijst; wij nemen die bedragen hier niet over omdat ze per lijstversie wijzigen en per subvariant verschillen. Wat wel vaststaat: lucht/lucht warmtepompen (split-airco''s) komen niet in aanmerking, en de ISDE dekt geen thuisbatterijen.'
 - q: Wanneer vraag ik de ISDE aan?
-  a: Ná de installatie, nooit ervoor. Voor een warmtepomp heb je daarvoor 24 maanden vanaf de installatie; voor isolatie is dat 12 maanden na uitvoering. Een aanvraag vóór de installatie wordt afgewezen. Zorg dat het typenummer op de factuur overeenkomt met het typenummer waarmee je in de apparatenlijst hebt gekeken.
+  a: Ná de installatie, nooit ervoor. Je hebt daarvoor 24 maanden vanaf de installatie of uitvoering — dezelfde termijn voor warmtepomp en isolatie. Een aanvraag vóór de installatie wordt afgewezen. Zorg dat het typenummer op de factuur overeenkomt met het typenummer waarmee je in de apparatenlijst hebt gekeken.
 - q: Welk type warmtepomp is het goedkoopst in gebruik?
   a: 'Een bodemwarmtepomp heeft doorgaans het hoogste en meest stabiele seizoensrendement, omdat de bodemtemperatuur het hele jaar rond de 8 tot 12 graden ligt. Daarna komt all-electric lucht/water. Een hybride zit ertussenin, omdat je op koude dagen nog gas gebruikt. Bepalend is echter niet het type maar de aanvoertemperatuur die jouw afgiftesysteem nodig heeft: elke graad extra kost rendement.'
 - q: Publiceert Quatt een prijs voor de hybride warmtepomp?
@@ -28,7 +28,6 @@ faq:
   a: Dat verschilt sterk per woning, want het zit vooral in leidingwerk, elektrawerk en de vraag of het afgiftesysteem moet worden aangepast. Bij een bodemwarmtepomp is de grondboring vaak de grootste post. De enige betrouwbare bandbreedte is die van je eigen drie offertes; vraag ze daarom op dezelfde woninggegevens en met dezelfde posten uitgesplitst.
 schema_type: Article
 last_updated: '2026-09-27'
-category: warmtepompen
 ---
 
 Vier offertes voor "een warmtepomp" die uiteenlopen van zesduizend tot achtentwintigduizend euro: het is een van de meest gestelde vragen rond verwarmen. Hoe kan het verschil zo groot zijn?
@@ -156,7 +155,7 @@ De route in vier stappen:
 1. Vraag de installateur om het **volledige typenummer** van het toestel dat hij levert.
 2. Zoek dat nummer op in de ISDE-apparatenlijst op [rvo.nl/isde](https://www.rvo.nl/subsidies-financiering/isde) en lees het bedrag af. RVO werkt met een meldcode per goedgekeurd apparaat; staat het toestel er niet op, dan is er geen subsidie.
 3. Zet het typenummer in de opdrachtbevestiging, zodat een wijziging op de factuur direct opvalt.
-4. Vraag aan **ná** de installatie, binnen **24 maanden**. Voor isolatie geldt 12 maanden na uitvoering.
+4. Vraag aan **ná** de installatie, binnen **24 maanden**. Voor isolatie geldt dezelfde termijn van 24 maanden na uitvoering; bij twee of meer maatregelen binnen die 24 maanden wordt het subsidiebedrag verdubbeld.
 
 Let op dat sommige leveranciers op hun eigen site een subsidiebedrag noemen. Dat kan kloppen, maar de partij die uitbetaalt is RVO — de apparatenlijst is dus leidend, niet de brochure. Meer details in [ISDE subsidie warmtepompen 2026](/posts/isde-subsidie-warmtepompen-2026/).
 

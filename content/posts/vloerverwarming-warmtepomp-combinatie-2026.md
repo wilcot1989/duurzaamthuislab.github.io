@@ -283,7 +283,7 @@ Vloerverwarming is **geen** subsidiabele maatregel binnen de ISDE. De regeling g
 Drie dingen die je moet weten:
 
 1. **Het bedrag voor jouw toestel** zoek je op in de apparatenlijst van de RVO. Wij noemen hier geen bedrag; dat verschilt per typenummer en capaciteit.
-2. **De aanvraag doe je ná de installatie**, binnen 24 maanden. Voor isolatiemaatregelen geldt: ná uitvoering, binnen 12 maanden.
+2. **De aanvraag doe je ná de installatie**, binnen 24 maanden. Voor isolatiemaatregelen geldt dezelfde termijn: ná uitvoering, binnen 24 maanden. Voer je binnen 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld.
 3. **Het indirecte effect is echt, maar klein.** Uit de modelberekening hierboven volgt hoe klein: het verschil tussen een gemiddeld systeemrendement van 3,7 (alleen radiatoren bij 52°C) en 4,1 (gecombineerd) is bij 3.850 kWh ongeveer 98 kWh per jaar, ofwel circa €25 bij €0,26/kWh. Over vijftien jaar iets minder dan €400. Dat is niet het argument voor vloerverwarming.
 
 Wat wél in de afweging thuishoort, is de dimensionering van het toestel. Kun je door de lagere aanvoertemperatuur met een kleiner toestel toe, dan scheelt dat in de aanschafprijs. Laat je installateur beide varianten doorrekenen op basis van de warmteverliesberekening, in plaats van dit als vuistregel aan te nemen.

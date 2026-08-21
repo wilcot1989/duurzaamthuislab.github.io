@@ -118,16 +118,16 @@ Corporaties stellen hun daken hier soms voor beschikbaar. Vraag ernaar; het is e
 
 Onderstaande berekening is een **modelberekening met aannames**, geen praktijkgeval en geen toezegging over wat jouw corporatie doet.
 
-Aannames: zeven panelen op een portiekwoning, aangenomen opbrengst 2.400 kWh per jaar, aangenomen leveringstarief €0,30 per kWh, aangenomen aandeel direct eigen verbruik 45 procent.
+Aannames: zeven panelen op een portiekwoning, aangenomen opbrengst 2.400 kWh per jaar, aangenomen leveringstarief €0,26 per kWh all-in (sitebrede modelconstante: €0,105 EPEX-jaargemiddelde 2025 incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslag-aanname), aangenomen aandeel direct eigen verbruik 45 procent.
 
-| Post | 2026, met saldering | Vanaf 2027, zonder saldering (aanname terugleververgoeding €0,09/kWh) |
+| Post | 2026, met saldering | Vanaf 2027, zonder saldering (aanname terugleververgoeding €0,07/kWh) |
 |---|---|---|
-| Zelf verbruikt (1.080 kWh) | €324 | €324 |
-| Teruggeleverd (1.320 kWh) | €396 | €119 |
-| Bruto jaarvoordeel | €720 | €443 |
-| Per maand | €60 | €37 |
+| Zelf verbruikt (1.080 kWh) | €281 | €281 |
+| Teruggeleverd (1.320 kWh) | €343 | €92 |
+| Bruto jaarvoordeel | €624 | €373 |
+| Per maand | €52 | €31 |
 
-Daar gaat de EPV of de servicekostenbijdrage vanaf. Of het netto positief uitpakt, hangt dus volledig af van de hoogte van die bijdrage — en dat is precies het getal dat je bij je corporatie moet opvragen voordat je akkoord gaat. Wat het model ook laat zien: **na de salderingsstop halveert de waarde van het teruggeleverde deel bijna.** Verbruik verschuiven naar de dag is voor huurders daarmee de goedkoopste optimalisatie die er is.
+Daar gaat de EPV of de servicekostenbijdrage vanaf. Of het netto positief uitpakt, hangt dus volledig af van de hoogte van die bijdrage — en dat is precies het getal dat je bij je corporatie moet opvragen voordat je akkoord gaat. Wat het model ook laat zien: **na de salderingsstop zakt de waarde van het teruggeleverde deel naar ruim een kwart.** Verbruik verschuiven naar de dag is voor huurders daarmee de goedkoopste optimalisatie die er is.
 
 ## Saldering: wat er per 1 januari 2027 verandert
 

@@ -54,7 +54,6 @@ products:
   url: https://go.duurzaamthuislab.nl/tibber
 schema_type: Article
 last_updated: '2026-08-21'
-category: thuisbatterijen
 ---
 Per 1 januari 2027 stopt de saldering. Dat is inmiddels breed bekend — wat er daarna met jouw jaarvoordeel gebeurt, is dat minder. Veel huishoudens wachten af en hopen dat het meevalt. Dat doet het niet: bij een gemiddeld teruglevervolume zakt het jaarvoordeel met honderden euro's.
 

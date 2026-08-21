@@ -24,7 +24,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1605152276897-4f618f831968&w=1200&output=webp&q=70
 faq:
 - q: Wat kost een Quatt warmtepomp vergeleken met een Vaillant?
-  a: 'Quatt publiceert consumentenprijzen: op 21 augustus 2026 stond de Hybrid Single (7 kW) op €4.249 en de Hybrid Duo (14 kW) op €4.999, beide als bedrag ''na subsidie''. Vaillant publiceert geen consumentenprijzen — de aroTHERM plus loopt via installateurs, en wat je betaalt komt uit een offerte waarin ook leidingwerk, elektra, een eventueel buffervat en het inregelen zitten. Een all-electric installatie is substantieel duurder dan een hybride pakket, maar hoeveel precies is zonder offerte niet te zeggen.'
+  a: 'Geen van beide publiceert een consumentenprijs. Bij onze controle van quatt.io op 21 augustus 2026 stond er geen aanschafprijs en geen maandbedrag: de site leidt naar een configurator en een adviesgesprek. Vaillant publiceert eveneens geen consumentenprijzen — de aroTHERM plus loopt via installateurs, en wat je betaalt komt uit een offerte waarin ook leidingwerk, elektra, een eventueel buffervat en het inregelen zitten. Een all-electric installatie is substantieel duurder dan een hybride pakket, maar hoeveel precies is zonder offerte niet te zeggen.'
 - q: Welke heeft het hogere rendement?
   a: 'Vaillant noemt voor de aroTHERM plus een COP tot 5,4 bij A7/W35 en energielabel A+++. Dat is een genormeerd meetpunt bij 7 °C buiten en 35 °C aanvoertemperatuur — bij hogere aanvoertemperatuur ligt het rendement lager. Quatt publiceert op de productpagina geen rendementscijfer per model. Bovendien is een hybride rendement per definitie een gemengd getal, omdat de cv-ketel een deel van de warmte levert. De twee zijn daarom niet zonder meer naast elkaar te leggen.'
 - q: Is Quatt geschikt voor een matig geïsoleerd huis?
@@ -32,11 +32,11 @@ faq:
 - q: Hoeveel geluid mag een buitenunit maken?
   a: 'Het Besluit bouwwerken leefomgeving (Bbl, sinds 1 januari 2024) stelt een grens op de perceelgrens: 45 dB overdag en 40 dB in de avond- en nachtperiode. Fabrikanten publiceren geluidsvermogen en geluidsdruk onder testcondities; dat is niet de waarde die op jouw erfgrens uitkomt, want die hangt af van afstand, reflecterende gevels en opstelhoogte. Laat de installateur die waarde vóór plaatsing berekenen en in de offerte opnemen.'
 - q: Hoe is de service en garantie geregeld?
-  a: 'Quatt geeft standaard twee jaar productgarantie en biedt daarnaast een optioneel serviceplan (Quatt Care); verkoop, installatie en service liggen bij één partij. Vaillant loopt via een installateurs- en dealernetwerk: de fabrieksgarantie staat in de garantievoorwaarden bij het toestel, en onderhoud en storingen koop je in bij de installateur die je kiest. Vraag in beide gevallen schriftelijk op wat gedekt is, wat de responstijd is en wat een storingsuur buiten garantie kost.'
+  a: 'Bij Quatt liggen verkoop, installatie en service bij één partij, met een onderhoudspakket onder de naam Quatt Care ernaast; bedragen, voorwaarden en garantietermijn daarvan staan niet op de site en moet je dus schriftelijk opvragen. Vaillant loopt via een installateurs- en dealernetwerk: de fabrieksgarantie staat in de garantievoorwaarden bij het toestel, en onderhoud en storingen koop je in bij de installateur die je kiest. Vraag in beide gevallen schriftelijk op wat gedekt is, wat de responstijd is en wat een storingsuur buiten garantie kost.'
 - q: Wat betekent de salderingsstop voor deze keuze?
   a: 'De salderingsregeling stopt volledig per 1 januari 2027; er is geen afbouwpad. Daarna telt zelfverbruik zwaarder: stroom die je zelf gebruikt op het moment dat je panelen produceren, is meer waard dan stroom die je teruglevert. Voor de merkkeuze betekent dat vooral: vraag welke aansturingsmogelijkheden het aangeboden toestel heeft — OpenTherm, Modbus, een open koppeling of alleen een eigen app. Dat is controleerbaar, in tegenstelling tot een besparingspercentage.'
 - q: Krijg ik ISDE op beide?
-  a: 'ISDE geldt voor warmtepompen die op de RVO-apparatenlijst staan, hybride en all-electric. Het startbedrag in 2026 is €1.025, plus €200 labelbonus als aan de voorwaarden daarvoor is voldaan. Aanvragen doe je ná installatie, binnen 24 maanden na de uitvoeringsdatum. Het exacte bedrag hangt af van het toestel; wij noemen daarom geen bedragen per merk of model.'
+  a: 'ISDE geldt voor warmtepompen die op de RVO-apparatenlijst staan, hybride en all-electric. Het bedrag hangt af van het toestel: zoek het typenummer uit je offerte op in de apparatenlijst en de rekentool op rvo.nl. Wij noemen daarom geen bedragen per merk of model. Aanvragen doe je ná installatie, binnen 24 maanden na de uitvoeringsdatum. Voer je binnen 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld.'
 - q: Welke kies ik bij nieuwbouw?
   a: 'Bij nieuwbouw is er geen gasaansluiting en geen cv-ketel, dus een hybride opstelling heeft er geen functie. De keuze gaat dan tussen all-electric toestellen onderling, en daar hoort de aroTHERM plus bij. Sinds 1 juli 2018 hebben nieuwbouwwoningen standaard geen aansluitplicht op het gasnet meer; dat is dus geen nieuwe regel voor 2026.'
 products:
@@ -56,21 +56,21 @@ Dit artikel zet ze naast elkaar op wat beide fabrikanten publiceren — assortim
 
 💡 *Twijfel je over warmtepomp of cv-ketel houden? Lees [warmtepomp vs cv-ketel 2026](/posts/warmtepomp-vs-cv-ketel-2026/) voor de basis-rekening.*
 
-> **Kort antwoord:** Quatt is één hybride pakket met een gepubliceerde prijs, geleverd en onderhouden door het bedrijf zelf; gas blijft de achtervang. De Vaillant aroTHERM plus is een all-electric warmtepomp uit een breed leverbaar assortiment, geleverd via installateurs, met een aanvoertemperatuur tot 75 °C waardoor hij ook op bestaande radiatoren inzetbaar is. De keuze gaat dus eerst over gas houden of niet, en pas daarna over merk.
+> **Kort antwoord:** Quatt is één hybride pakket dat het bedrijf zelf levert en onderhoudt, zonder gepubliceerde prijs — de route naar een bedrag loopt via een configurator en een adviesgesprek; gas blijft de achtervang. De Vaillant aroTHERM plus is een all-electric warmtepomp uit een breed leverbaar assortiment, geleverd via installateurs, met een aanvoertemperatuur tot 75 °C waardoor hij ook op bestaande radiatoren inzetbaar is. De keuze gaat dus eerst over gas houden of niet, en pas daarna over merk.
 
 ## Wat je precies vergelijkt
 
-**Quatt** levert een hybride warmtepomp die parallel aan je bestaande cv-ketel draait. Op de productpagina (opgehaald 21 augustus 2026) staan twee varianten: de Hybrid Single met 7 kW en de Hybrid Duo met 14 kW. Als koudemiddel gebruikt Quatt propaan (R290). Het bedrijf presenteert zichzelf als partij die productontwikkeling, installatie én service in eigen hand houdt.
+**Quatt** levert een hybride warmtepomp die parallel aan je bestaande cv-ketel draait; op quatt.io stonden op 21 augustus 2026 daarnaast een all-electric lijn, koeling en een thuisbatterij. Als koudemiddel noemt Quatt propaan (R290). Vermogens per uitvoering publiceert het bedrijf niet op de productpagina's — die horen in het technische blad bij je aanbieding. Quatt presenteert zichzelf als partij die productontwikkeling, installatie én service in eigen hand houdt.
 
 **Vaillant** levert met de aroTHERM plus een all-electric lucht-waterwarmtepomp, eveneens op R290. Vaillant noemt op vaillant.nl (opgehaald 21 augustus 2026) een maximale aanvoertemperatuur van 75 °C en een COP tot 5,4 bij A7/W35, met energielabel A+++. Die hoge aanvoertemperatuur is het argument waarom een all-electric warmtepomp tegenwoordig ook in een woning met bestaande radiatoren te overwegen valt.
 
 Eén nuance daarbij die verkopers weleens weglaten: 75 °C aanvoer is niet uniek voor Vaillant — meer fabrikanten leveren inmiddels R290-toestellen met een vergelijkbaar bereik. En belangrijker: *kunnen* leveren op 75 °C is iets anders dan *efficiënt* leveren op 75 °C. Hoe hoger de aanvoertemperatuur, hoe lager de COP. De 5,4 uit de brochure geldt bij 35 °C aanvoer, niet bij 75.
 
-## Prijzen: het één publiek, het ander niet
+## Prijzen: geen van beide publiceert een consumentenprijs
 
-**Quatt publiceert wel.** Op quatt.io stond op 21 augustus 2026 de Hybrid Single (7 kW) op €4.249 en de Hybrid Duo (14 kW) op €4.999. Beide bedragen presenteert Quatt als prijs *na subsidie*, met daarnaast een maandbedrag bij financiering (vanaf €32 respectievelijk €38 per maand). Standaard geldt twee jaar productgarantie; een serviceplan (Quatt Care) is optioneel bij te kopen.
+**Quatt publiceert geen prijs.** Bij onze controle van quatt.io op 21 augustus 2026 stond er geen aanschafprijs, geen "vanaf"-bedrag en geen maandbedrag; de route naar een prijs loopt via een configurator en een adviesgesprek. Aanschafbedragen, financieringstermijnen en maandbedragen voor een servicecontract die elders over Quatt circuleren, hebben wij op de eigen site niet kunnen terugvinden en nemen wij daarom niet over. Wat er wél staat: er bestaat een onderhoudspakket onder de naam Quatt Care. Wat dat kost, wat erin zit en hoe lang de garantietermijn is, vraag je op.
 
-Let op wat "na subsidie" betekent: er is een bedrag verrekend dat je zelf nog moet aanvragen en pas ná installatie ontvangt. Reken voor je liquiditeit dus met de brutoprijs, en controleer het toestel zelf op de RVO-apparatenlijst.
+Let op wat het betekent als een aanbieder een bedrag *na subsidie* presenteert: er is dan een ISDE-bedrag verrekend dat je zelf nog moet aanvragen en pas ná installatie ontvangt. Reken voor je liquiditeit met de brutoprijs, en zoek het subsidiebedrag zelf op bij de meldcode van het toestel op rvo.nl.
 
 **Vaillant publiceert geen consumentenprijzen.** De aroTHERM plus loopt via installateurs en groothandel. Wat je betaalt komt uit een offerte waarin naast het toestel ook leidingwerk, elektra, een eventueel buffervat, het verwijderen van de cv-ketel en het inregelen zitten. Die posten verschillen per woning meer dan het toestel zelf. Bedragen die elders op internet als "de Vaillant-prijs" circuleren, zijn schattingen; wij nemen ze niet over.
 
@@ -80,7 +80,7 @@ De praktische consequentie: je kunt Quatt vergelijken met een concrete Vaillant-
 
 Op een warmtepomp geldt het gewone btw-tarief van **21 procent**. Het nultarief geldt alleen voor zonnepanelen en de onderdelen die daar direct voor nodig zijn. Een offerte waarin een warmtepomp "inclusief 0% btw" staat, klopt niet.
 
-Voor ISDE geldt in 2026 een startbedrag van **€1.025**, plus **€200 labelbonus** als aan de voorwaarden is voldaan. Je vraagt aan **ná installatie**, binnen 24 maanden na de uitvoeringsdatum — niet vooraf. Het exacte bedrag hangt af van het toestel op de RVO-apparatenlijst; wij noemen daarom geen bedragen per merk, model of vermogensklasse. Er bestaat geen combinatiebonus en geen "30 procent terug"-regeling.
+Het ISDE-bedrag hangt af van het toestel op de RVO-apparatenlijst; wij noemen daarom geen bedragen per merk, model of vermogensklasse — zoek het typenummer uit je offerte op in de apparatenlijst en de rekentool op rvo.nl. Je vraagt aan **ná installatie**, binnen 24 maanden na de uitvoeringsdatum — niet vooraf, en dezelfde termijn geldt voor isolatiemaatregelen. Er bestaat geen aparte combinatiebonus en geen "30 procent terug"-regeling; wat er wél is, is een verdubbeling van het subsidiebedrag bij twee of meer maatregelen binnen 24 maanden.
 
 Dat betekent ook dat je een claim als "all-electric krijgt duizend euro meer subsidie dan hybride" niet zomaar moet aannemen: het bedrag hangt aan het specifieke typenummer, niet aan de categorie. Zoek het op voordat je het in je som verwerkt.
 
@@ -88,23 +88,23 @@ Dat betekent ook dat je een claim als "all-electric krijgt duizend euro meer sub
 
 Onderstaande sommen zijn **modelberekeningen met aannames**, geen gemeten praktijkgevallen en geen offertes.
 
-Uitgangspunten: een warmtevraag van 12.000 kWh per jaar. Aangenomen tarieven €0,28 per kWh en €1,35 per m³ inclusief belasting. Voor de omrekening gas naar warmte: 9,77 kWh per m³ bij een ketelrendement van 0,95, dus circa 9,28 kWh nuttige warmte per m³.
+Uitgangspunten: een warmtevraag van 12.000 kWh per jaar. Aangenomen tarieven €0,26 per kWh en €1,10 per m³ inclusief belasting (de sitebrede rekenconstanten). Voor de omrekening gas naar warmte: 9,77 kWh per m³ bij een ketelrendement van 0,95, dus circa 9,28 kWh nuttige warmte per m³.
 
-**Uitgangssituatie — alleen cv-ketel:** 12.000 / 9,28 = circa 1.293 m³ gas → **€1.746 per jaar**.
+**Uitgangssituatie — alleen cv-ketel:** 12.000 / 9,28 = circa 1.293 m³ gas → **€1.422 per jaar**.
 
 **Hybride opstelling** (warmtepomp dekt 70 procent van de warmtevraag, aangenomen SCOP 3,8 over dat deel):
 
 | Post | Berekening | Bedrag |
 |---|---|---|
-| Stroom warmtepomp | 8.400 kWh warmte / 3,8 = 2.211 kWh | €619 |
-| Resterend gas | 3.600 kWh warmte / 9,28 = 388 m³ | €524 |
-| **Totaal** | | **€1.143** |
+| Stroom warmtepomp | 8.400 kWh warmte / 3,8 = 2.211 kWh | €575 |
+| Resterend gas | 3.600 kWh warmte / 9,28 = 388 m³ | €427 |
+| **Totaal** | | **€1.002** |
 
-**All-electric bij lage aanvoertemperatuur** (vloerverwarming of ruim gedimensioneerde radiatoren, aangenomen SCOP 4,6): 12.000 / 4,6 = 2.609 kWh → **€730 per jaar**.
+**All-electric bij lage aanvoertemperatuur** (vloerverwarming of ruim gedimensioneerde radiatoren, aangenomen SCOP 4,6): 12.000 / 4,6 = 2.609 kWh → **€678 per jaar**.
 
-**All-electric bij hoge aanvoertemperatuur** (bestaande radiatoren, aangenomen SCOP 4,0): 12.000 / 4,0 = 3.000 kWh → **€840 per jaar**.
+**All-electric bij hoge aanvoertemperatuur** (bestaande radiatoren, aangenomen SCOP 4,0): 12.000 / 4,0 = 3.000 kWh → **€780 per jaar**.
 
-Wat hieruit volgt: het exploitatievoordeel van all-electric ten opzichte van hybride ligt in dit model tussen circa €300 en €410 per jaar. Dat is een reëel maar bescheiden bedrag naast een investeringsverschil dat al snel enkele duizenden euro's is. De gevoeligste aannames zijn de dekkingsgraad van 70 procent bij hybride en de SCOP bij all-electric — laat de installateur beide onderbouwen met een warmteverliesberekening, en gebruik de tabel om zijn cijfers na te rekenen.
+Wat hieruit volgt: het exploitatievoordeel van all-electric ten opzichte van hybride ligt in dit model tussen circa €220 en €325 per jaar. Dat is een reëel maar bescheiden bedrag naast een investeringsverschil dat al snel enkele duizenden euro's is. De gevoeligste aannames zijn de dekkingsgraad van 70 procent bij hybride en de SCOP bij all-electric — laat de installateur beide onderbouwen met een warmteverliesberekening, en gebruik de tabel om zijn cijfers na te rekenen.
 
 Wat de som **niet** meeneemt: onderhoudskosten, de vaste gaskosten die bij een hybride opstelling gewoon doorlopen, energie-inflatie, en het verschil tussen dag- en nachttarief. Onze rekenpagina [warmtepomp kosten berekenen](/warmtepomp-kosten-berekenen/) gaat daar stap voor stap doorheen.
 
@@ -128,7 +128,7 @@ Het advies is voor beide merken hetzelfde: **laat de installateur vóór opdrach
 
 Hier zit het duidelijkste structurele verschil, en het is geen kwaliteitsoordeel maar een verschil in afhankelijkheid.
 
-**Bij Quatt** loopt alles via één partij: verkoop, installatie, monitoring en service. Standaard krijg je twee jaar productgarantie; het serviceplan is een aparte keuze. Voordeel: één aanspreekpunt en geen discussie over wie verantwoordelijk is. Nadeel: functionaliteit én service liggen bij hetzelfde bedrijf, en het bedrijf bestaat sinds 2021 — over het gedrag van het systeem na jaar tien is nog geen publieke data beschikbaar.
+**Bij Quatt** loopt alles via één partij: verkoop, installatie, monitoring en service. Het onderhoudspakket (Quatt Care) is een aparte keuze; garantietermijn en pakketvoorwaarden staan niet op de site en moet je opvragen. Voordeel: één aanspreekpunt en geen discussie over wie verantwoordelijk is. Nadeel: functionaliteit én service liggen bij hetzelfde bedrijf, en het bedrijf bestaat sinds 2021 — over het gedrag van het systeem na jaar tien is nog geen publieke data beschikbaar.
 
 **Bij Vaillant** koop je een toestel van een fabrikant met een lange staat van dienst, en huur je afzonderlijk een installateur in. De garantietermijn staat in de garantievoorwaarden bij het toestel; onderhoud en storingsafhandeling koop je in bij de partij die je kiest. Dat is een risico én een kans: de kwaliteit van je installatie en van je inregeling hangt af van wie je uitkiest.
 
@@ -171,7 +171,7 @@ Wie je een keuze probeert aan te praten met een naderende verplichting, verkoopt
 
 ## Wanneer kies je welke
 
-**Kies een hybride opstelling — en daarmee Quatt — wanneer** je cv-ketel toch aan vervanging toe is of nog goed werkt, je woning bestaande radiatoren heeft en een hogere aanvoertemperatuur nodig heeft, je budget begrensd is, of je vooral één aanspreekpunt en een vooraf bekende prijs wilt. Je levert daarvoor in op flexibiliteit: één concept, geen vrije capaciteitskeuze, en gas blijft nodig — met de vaste kosten van een gasaansluiting die daarbij horen.
+**Kies een hybride opstelling — en daarmee Quatt — wanneer** je cv-ketel toch aan vervanging toe is of nog goed werkt, je woning bestaande radiatoren heeft en een hogere aanvoertemperatuur nodig heeft, je budget begrensd is, of je vooral één aanspreekpunt en één totaalbedrag in de aanbieding wilt. Je levert daarvoor in op flexibiliteit: één concept, geen vrije capaciteitskeuze, en gas blijft nodig — met de vaste kosten van een gasaansluiting die daarbij horen.
 
 **Kies all-electric — en daarmee de aroTHERM plus of een vergelijkbaar toestel — wanneer** je van het gas af wilt en je woning de warmte kwijt kan bij een acceptabele aanvoertemperatuur, of wanneer een afgifterenovatie toch al gepland staat. Ook bij nieuwbouw is dit de enige zinnige route, want daar is geen ketel om mee samen te werken.
 
@@ -190,7 +190,7 @@ Wie je een keuze probeert aan te praten met een naderende verplichting, verkoopt
 
 ## Ons oordeel
 
-Quatt verkoopt voorspelbaarheid: een gepubliceerde prijs, één partij, weinig keuzes, en een techniek die geen renovatie vooraf vraagt. Dat is een verdedigbare keuze voor een groot deel van de bestaande Nederlandse woningvoorraad — mits je accepteert dat gas de achtervang blijft en dat je van één bedrijf afhankelijk bent voor zowel software als service.
+Quatt verkoopt voorspelbaarheid: één partij voor levering, installatie en service, weinig keuzes, en een techniek die geen renovatie vooraf vraagt. Dat is een verdedigbare keuze voor een groot deel van de bestaande Nederlandse woningvoorraad — mits je accepteert dat gas de achtervang blijft en dat je van één bedrijf afhankelijk bent voor zowel software als service.
 
 Vaillant verkoopt een toestel dat je van het gas af kan halen, met een aanvoertemperatuur die dat ook in bestaande woningen mogelijk maakt. De keerzijde: de uitkomst hangt grotendeels af van je installateur en van hoe goed het systeem is ingeregeld, en zonder offertes weet je niet wat je gaat betalen.
 

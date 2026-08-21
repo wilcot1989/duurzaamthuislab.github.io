@@ -26,7 +26,7 @@ faq:
 - q: Welke subsidie is er voor een thuislaadpaal?
   a: Er is in 2026 geen landelijke subsidie voor een particuliere thuislaadpaal. De ISDE dekt laadpalen niet, en de oude SEEH (gesloten per eind 2022) ging over isolatie, niet over laadpalen. Wel mogelijk is een regeling van je eigen gemeente — die bestaat in sommige gemeenten wel en in de meeste niet, met per gemeente eigen voorwaarden. Een werkgever mag een thuislaadpaal via de werkkostenregeling vergoeden; overleg dat met je werkgever. Bij zakelijk gebruik kan de investering fiscaal aftrekbaar zijn.
 - q: Welke laadpaal is het beste voor thuis?
-  a: 'De Easee Home is de beste alleskunner: compact, slim laden, dynamische tarieven en zonnepaneel-integratie. De Alfen Eve Single S-Line is de beste Nederlandse keuze met uitstekende kwaliteit. De Wallbox Pulsar Plus is het beste budget-alternatief. Alle drie laden met 11 kW (3-fase) of 7,4 kW (1-fase).'
+  a: 'Easee is de beste alleskunner — voor thuis voert het merk op easee.com/nl de Up en de Max (de Easee Home en Charge Lite uit oudere lijstjes staan daar niet meer in): compact, slim laden, dynamische tarieven en zonnepaneel-integratie. De Alfen Eve Single S-Line is de beste Nederlandse keuze met uitstekende kwaliteit. De Wallbox Pulsar Plus is het beste budget-alternatief. Alle drie laden met 11 kW (3-fase) of 7,4 kW (1-fase).'
 - q: Is 3-fase stroom nodig voor een laadpaal?
   a: Niet per se. Met 1-fase laad je op 7,4 kW (ca. 40 km range per uur). Met 3-fase laad je op 11 kW (ca. 60 km range per uur). Voor de meeste thuisgebruikers is 1-fase voldoende (je laadt 's nachts). 3-fase is fijn als je snel moet laden of een hoog dagelijks verbruik hebt.
 - q: Kun je een laadpaal koppelen aan zonnepanelen?
@@ -75,25 +75,25 @@ De laatste regel werkt anders: zonnestroom is niet "gratis", want je had die kWh
 
 ## Beste thuislaadpalen 2026
 
-De prijzen hieronder zijn **richtprijzen exclusief installatie**, opgehaald 21 augustus 2026 bij Nederlandse webwinkels; laadpaalfabrikanten publiceren zelf zelden een consumentenprijs en de straatprijzen wisselen per week.
+De prijzen hieronder zijn **richtprijzen exclusief installatie**, opgehaald 21 augustus 2026 bij Nederlandse webwinkels; laadpaalfabrikanten publiceren zelf zelden een consumentenprijs en de straatprijzen wisselen per week. Voor Easee vullen wij geen bedrag in: op easee.com/nl stond op 21 augustus 2026 geen consumentenprijs, en de modelnamen Charge Lite en Easee Home uit oudere vergelijkingen stonden daar niet meer in het assortiment — voor thuis voert Easee nu de Up en de Max.
 
 | Laadpaal | Richtprijs | Vermogen | Slim laden | App | Beste voor |
 |----------|-------|---------|-----------|-----|-----------|
-| **Easee Home** | €850 | 7,4/11/22 kW | ✅ | ✅ | Alleskunner |
+| **Easee Up / Max** | geen gepubliceerde prijs | 7,4/11/22 kW | ✅ | ✅ | Alleskunner |
 | **Alfen Eve Single S-Line** | €950 | 7,4/11 kW | ✅ | ✅ | Kwaliteit, NL |
 | **Wallbox Pulsar Plus** | €680 | 7,4/11 kW | ✅ | ✅ | Budget |
 | **ABB Terra AC** | €750 | 7,4/11 kW | ✅ | ✅ | Betrouwbaarheid |
 | **Charge Amps Halo** | €1.100 | 7,4/11 kW | ✅ | ✅ | Design |
 
-### 1. Easee Home — Beste alleskunner
+### 1. Easee Up / Max — Beste alleskunner
 
-De Easee Home is de populairste thuislaadpaal in Europa. Compact design, krachtige functies en uitstekende integraties.
+Easee is een van de meestgeplaatste merken in Nederland. Voor thuisgebruik voert het merk op easee.com/nl de Up en de Max (opgehaald 21 augustus 2026); de Charge Lite en de Easee Home die je in oudere vergelijkingen tegenkomt, staan daar niet meer tussen. Een consumentenprijs publiceert Easee niet — de aanschaf loopt via installateurs en webshops.
 
 **Waarom de beste:**
 - **Dynamisch vermogensbeheer** — Past laadvermogen aan op basis van huishoudverbruik
 - **Tibber/ANWB integratie** — Automatisch slim laden op goedkoopste uren
-- **Zonnepaneel-integratie** — Laad met overschot via P1-meter
-- **Compact design** — Kleinste laadpaal op de markt (26×22×10 cm)
+- **Zonnepaneel-integratie** — Laad met overschot via de Equalizer op de meter
+- **Compact design** — een van de kleinste laadpalen op de markt
 - **Load balancing** — Meerdere Easee's delen het beschikbare vermogen
 - **OCPP-ondersteuning** — Werkt met alle energiemanagement-systemen
 
@@ -317,7 +317,7 @@ Nederland kampt met netcongestie — het stroomnet raakt overbelast, met name in
 
 Hieronder de drie laadpalen die in Nederland het vaakst geplaatst worden, vergeleken op de punten die in de praktijk het verschil maken. De vermogens en functies komen uit de specificaties van de fabrikanten; de prijzen zijn richtprijzen exclusief installatie en wijzigen regelmatig.
 
-| Kenmerk | Easee Home | Alfen Eve S-Line | Wallbox Pulsar Plus |
+| Kenmerk | Easee (Up / Max) | Alfen Eve S-Line | Wallbox Pulsar Plus |
 |------|------------|-----------------|---------------------|
 | Installatietijd (indicatie) | circa 1,5 uur | circa 2 uur | circa 1,5 uur |
 | P1-meter integratie (eigen zonnestroom) | ja | ja | ja |
@@ -326,7 +326,7 @@ Hieronder de drie laadpalen die in Nederland het vaakst geplaatst worden, vergel
 | MID-meetcertificaat (voor declaratie) | nee | ja | nee |
 | Firmware-updates | automatisch | via installateur/app | automatisch |
 | Hardwaregarantie | 3 jaar | 5 jaar | 3 jaar |
-| Richtprijs (excl. installatie) | €850 | €950 | €680 |
+| Richtprijs (excl. installatie) | geen gepubliceerde prijs | €950 | €680 |
 
 **Onze conclusie:** het maximale laadvermogen is bij alle drie gelijk — dat wordt bepaald door je aansluiting, niet door de paal. Kies daarom op de andere kolommen. Gebruik je Tibber, dan is Easee de logische keuze door de native integratie. Wil je de laagste prijs zonder in te leveren op functies, dan is de Wallbox Pulsar Plus dat. Rijd je zakelijk en moet je laadsessies kunnen declareren, dan heb je een MID-gecertificeerde meter nodig en kom je bij Alfen uit.
 
@@ -336,7 +336,7 @@ Hieronder de drie laadpalen die in Nederland het vaakst geplaatst worden, vergel
 
 Een thuislaadpaal is voor wie dagelijks rijdt een van de snelst rendabele verduurzamingsinvesteringen. Reken op €800-€2.500 inclusief installatie, **zonder subsidie**: die bestaat landelijk niet voor particulieren, en wie een vast bedrag hoort noemen, moet dat op rvo.nl of op de site van de eigen gemeente kunnen terugvinden. Tegenover die investering staat in ons model €842 tot €1.393 per jaar minder laadkosten dan bij publiek laden, afhankelijk van waar je nu laadt.
 
-De Easee Home is onze aanbeveling voor wie op de uurprijs wil sturen; de Wallbox Pulsar Plus is het scherpste budgetalternatief; en wie zakelijk laadsessies moet declareren, heeft de MID-meter van de Alfen nodig.
+De Easee Up of Max is onze aanbeveling voor wie op de uurprijs wil sturen; de Wallbox Pulsar Plus is het scherpste budgetalternatief; en wie zakelijk laadsessies moet declareren, heeft de MID-meter van de Alfen nodig.
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Tibber</a>
 

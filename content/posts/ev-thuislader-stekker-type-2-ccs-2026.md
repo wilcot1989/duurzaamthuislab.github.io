@@ -42,7 +42,7 @@ faq:
 - q: 'Mag je zelf een laadpaal installeren?'
   a: 'Nee. Volgens de NEN1010 en de eisen van Liander, Stedin en Enexis moet de aansluiting door een erkend installateur gebeuren met een aansluitmelding bij de netbeheerder. Zelf installeren is technisch mogelijk maar maakt je verzekering ongeldig en is bij brand een serieus probleem.'
 - q: 'Hoeveel kost laden thuis vergeleken met snelladen?'
-  a: 'Thuisladen op vast contract: €0,28-€0,32 per kWh. Op dynamisch ''s nachts: €0,08-€0,18. Snelladen onderweg: €0,55-€0,79 per kWh. Voor 15.000 km/jaar betekent dat €600-€1.400 verschil per jaar tussen consequent thuisladen en alleen snelladen.'
+  a: 'Thuisladen op een vast contract: €0,28-€0,32 per kWh all-in (gelabelde aanname; wij rekenen op deze site met €0,32 als referentie). Op dynamisch ''s nachts circa €0,205-€0,22 all-in: €0,05 EPEX incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslag-aanname. Snelladen onderweg: €0,55-€0,79 per kWh. Voor 15.000 km/jaar betekent dat €600-€1.500 verschil per jaar tussen consequent thuisladen en alleen snelladen.'
 - q: 'Wat als je geen eigen oprit hebt?'
   a: 'Vraag bij gemeente een laadpaal in de openbare ruimte aan (Vattenfall InCharge, Allego, EVnetNL leveren). Wachttijd 3-9 maanden. Alternatief: een laadpunt aan de gevel op eigen erf met een kabelgoot over de stoep. Of dat mag, en onder welke voorwaarden, bepaalt je gemeente in de APV — dat verschilt per gemeente, dus check het bij de jouwe.'
 ---
@@ -202,7 +202,7 @@ Hoofdaansluiting:
 ### Stap 4: Type 2 lader kiezen
 
 Drie merken die je in Nederland veel bij installateurs tegenkomt:
-- **Easee Home** — compact, app-gestuurd, slim laden.
+- **Easee (Up of Max)** — compact, app-gestuurd, slim laden. Let op de modelnaam: de Charge Lite en de Easee Home uit oudere vergelijkingen stonden op 21 augustus 2026 niet meer op easee.com/nl; voor thuis voert Easee nu de Up en de Max.
 - **Wallbox Pulsar Plus** — compacte behuizing, vaste kabel.
 - **Alfen Eve Single Pro** — Nederlandse fabrikant, veel gebruikt in zakelijke situaties.
 
@@ -392,7 +392,7 @@ Lees [batterij na 2027 zonder zonnepanelen](/posts/batterij-na-2027-zonder-zonne
 Voor 99,5% van Nederlandse EV-eigenaars: Type 2 thuislader (11 kW als je 3-fase hebt, 7 kW als 1-fase). Geen CCS nodig — die gebruik je alleen onderweg op publieke snelladers.
 
 Onze aanbevelingen:
-1. **Type 2 (Mennekes) thuislader**: Easee Home of Wallbox Pulsar Plus
+1. **Type 2 (Mennekes) thuislader**: Easee (Up of Max) of Wallbox Pulsar Plus
 2. **11 kW als 3-fase, 7 kW als 1-fase**: match je auto en aansluiting
 3. **Smart features benutten**: tijdgebaseerd, zonneoverschot, dynamisch
 4. **Kabel voor onderweg**: 5 m Type 2, losse aanschaf

@@ -46,7 +46,6 @@ products:
   url: https://go.duurzaamthuislab.nl/marstek
 schema_type: Article
 last_updated: '2026-08-21'
-category: thuisbatterijen
 ---
 
 Vier offertes voor een thuisbatterij naast elkaar leggen levert bedragen op die ver uit elkaar liggen. Dat verschil is grotendeels te verklaren, en bijna nooit door de kwaliteit van de batterij: de goedkoopste offertes bevatten geen installatie, sommige rekenen exclusief btw, en een deel van de bedragen die in vergelijkingen circuleren is helemaal geen gepubliceerde prijs.

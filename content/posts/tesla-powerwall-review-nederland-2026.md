@@ -140,12 +140,12 @@ Wie het all-in-one principe van de Powerwall aantrekkelijk vindt maar niet aan h
 
 Onderstaande berekening is een **model met expliciete aannames**. Verander één aanname en de uitkomst verandert mee.
 
-**Uitgangspunten:** 14 zonnepanelen (circa 5.250 Wp), een jaaropbrengst rond 5.000 kWh, een huishoudelijk verbruik van 3.800 kWh, een stroomprijs van €0,30 per kWh, een terugleververgoeding tussen €0,08 en €0,12 per kWh, en een investering van €10.500 inclusief installatie.
+**Uitgangspunten:** 14 zonnepanelen (circa 5.250 Wp), een jaaropbrengst rond 5.000 kWh, een huishoudelijk verbruik van 3.800 kWh, een stroomprijs van €0,26 per kWh all-in (sitebrede modelconstante: €0,105 EPEX-jaargemiddelde 2025 incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslag-aanname), een terugleververgoeding van €0,07 per kWh (gelabelde aanname voor 2027; de tarieven zijn nog niet gepubliceerd), en een investering van €10.500 inclusief installatie.
 
 | Situatie | Jaarlijkse besparing in het model | Terugverdientijd in het model |
 |---|---|---|
-| Met saldering (tot en met 2026) | €650 – €850 | 12 – 16 jaar |
-| Na het stoppen van de saldering (vanaf 2027) | €1.000 – €1.350 | 8 – 10 jaar |
+| Met saldering (tot en met 2026) | €560 – €735 | 14 – 19 jaar |
+| Na het stoppen van de saldering (vanaf 2027) | €950 – €1.280 | 8 – 11 jaar |
 
 De salderingsregeling stopt per 1 januari 2027 volledig; er is geen afbouwpad, want het wetsvoorstel met een geleidelijke afbouw is verworpen. Dat is precies de reden dat de tweede regel gunstiger uitpakt: vanaf dat moment is elke kilowattuur die je zelf verbruikt in plaats van teruglevert direct geld waard.
 

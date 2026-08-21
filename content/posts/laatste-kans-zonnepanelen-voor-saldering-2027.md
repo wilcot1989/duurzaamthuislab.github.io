@@ -38,7 +38,6 @@ faq:
     a: 'Vraag om een schriftelijke installatiedatum bij het tekenen. Zonder datum heb je geen rechten. Bij vertraging boven de 8 weken kun je het contract ontbinden conform standaard consumentenrecht.'
 schema_type: Article
 last_updated: '2026-10-20'
-category: saldering
 ---
 
 Een veelvoorkomende situatie in het najaar van 2026: huishoudens die hun beslissing over zonnepanelen maandenlang uitstelden omdat ze "eerst de saldering-stop wilden afwachten", en nu met de vraag zitten of het nog zin heeft. "Als we nu bestellen, halen we 31 december toch nooit?" Dat is de juiste vraag, en het antwoord is voor de meesten inderdaad nee. Dit artikel legt uit waarom dat geen ramp is.

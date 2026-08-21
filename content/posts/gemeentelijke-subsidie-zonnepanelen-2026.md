@@ -75,7 +75,7 @@ Hoe je daarop stuurt — met verbruik verschuiven, een dynamisch contract of een
 
 ### ISDE geldt niet voor zonnepanelen
 
-ISDE dekt warmtepomp, warmtepompboiler, zonneboiler, isolatiemaatregelen en aansluiting op een warmtenet — geen zonnepanelen en geen thuisbatterijen. Voor de maatregelen die er wél onder vallen, hangt het bedrag aan het exacte typenummer van het apparaat: RVO publiceert daarvoor een apparatenlijst met rekenhulp. Aanvragen doe je ná uitvoering: binnen 24 maanden bij een warmtepomp of zonneboiler, binnen 12 maanden bij isolatie. Zie de [ISDE-pagina van RVO](https://www.rvo.nl/subsidies-financiering/isde) en [ISDE subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/).
+ISDE dekt warmtepomp, warmtepompboiler, zonneboiler, isolatiemaatregelen en aansluiting op een warmtenet — geen zonnepanelen en geen thuisbatterijen. Voor de maatregelen die er wél onder vallen, hangt het bedrag aan het exacte typenummer van het apparaat: RVO publiceert daarvoor een apparatenlijst met rekenhulp. Aanvragen doe je ná uitvoering, binnen 24 maanden — die termijn geldt zowel voor een warmtepomp of zonneboiler als voor isolatie. Voer je binnen 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld. Zie de [ISDE-pagina van RVO](https://www.rvo.nl/subsidies-financiering/isde) en [ISDE subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/).
 
 ### SCE: alleen voor coöperaties en VvE's
 

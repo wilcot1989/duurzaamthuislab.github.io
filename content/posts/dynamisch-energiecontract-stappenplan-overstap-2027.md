@@ -38,7 +38,6 @@ faq:
     a: 'Tot en met 31 december 2026 mag je salderen, ook onder een dynamisch contract; per kWh teruglevering geldt dan het uurtarief van dat moment. Per 1 januari 2027 stopt de salderingsregeling volledig — er is geen afbouwpad. Wat je daarna voor teruglevering krijgt, bepaalt je leverancier zelf en verschilt per contract.'
 schema_type: Article
 last_updated: '2026-08-21'
-category: energiecontracten
 ---
 
 *Disclosure: de links naar Tibber, Frank Energie en ANWB Energie in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*

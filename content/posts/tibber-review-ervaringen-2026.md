@@ -124,7 +124,7 @@ Onderstaande cijfers zijn een modelberekening met expliciete aannames, geen geme
 - Verbruik 4.500 kWh/jaar (warmtepomp, twee personen)
 - 16 zonnepanelen oost-west, circa 4.700 kWh productie per jaar
 - Geen EV
-- Referentie: een vast contract van €0,32/kWh
+- Referentie: een vast contract van €0,32/kWh — een gelabelde aanname; bij €0,28/kWh verdwijnt het voordeel van passief dynamisch afnemen volledig
 - Aanname voor het dynamische deel: het gemiddelde uurgewogen EPEX-tarief plus belastingen en netkosten, met een verbruikspatroon dat licht is verschoven naar goedkope uren
 
 | Maand | Dynamisch (model) | Vast contract | Verschil |

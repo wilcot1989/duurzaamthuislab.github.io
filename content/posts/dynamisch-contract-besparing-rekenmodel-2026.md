@@ -26,7 +26,6 @@ faq:
     a: 'Ja. Voor een dynamisch contract zijn uur- of kwartierwaarden nodig, en die levert alleen een slimme meter. Check bij je netbeheerder of je meter op afstand uitleesbaar is en of de P1-poort openstaat.'
 schema_type: Article
 last_updated: '2026-08-21'
-category: energie
 ---
 
 Een vast contract van 0,33 euro per kWh met jaren lock-in tegenover een dynamisch contract dat de uurprijs volgt: welke is voordeliger? Het eerlijke antwoord is dat het afhangt van je verbruik, je flexibiliteit en van welke tarieven je invult. Daarom staat hieronder geen uitspraak maar een rekenmodel: alle aannames staan erbij, zodat je ze kunt vervangen door je eigen cijfers.

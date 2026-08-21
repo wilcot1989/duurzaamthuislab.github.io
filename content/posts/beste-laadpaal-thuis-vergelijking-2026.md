@@ -41,7 +41,6 @@ faq:
   a: 'Nee. Een laadpaal hoort door een gecertificeerd installateur aangesloten en opgeleverd te worden, zeker bij 3-fase of bij aanpassingen aan de meterkast. Zelf monteren zet je garantie en je verzekeringsdekking op het spel, en je mist het opleveringsrapport dat je bij verkoop van de woning nodig hebt.'
 schema_type: Article
 last_updated: '2026-08-21'
-category: elektrisch rijden
 ---
 
 "Welke laadpaal moet ik hebben, en hoe voorkom ik dat die auto me €120 per maand aan stroom kost?" Dat zijn in de praktijk twee losse vragen, en de tweede is de belangrijkste: de besparing komt vrijwel volledig van de software die de regie heeft over het laden, niet van de paal zelf.

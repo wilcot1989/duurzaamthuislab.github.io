@@ -154,7 +154,7 @@ Standaardaannames (naast de rekenbasis bovenaan dit artikel):
 - Vaste kosten: €80/jaar (verzekering, klein onderhoud)
 - "Dynamisch contract" is gemodelleerd als een aanname van €60 tot €120 per jaar aan voordeel door verbruik naar goedkope uren te verschuiven, afhankelijk van hoeveel verbruik je kunt verplaatsen — niet als een hoger teruglevertarief
 - "Smart home" is gemodelleerd als een verhoging van het eigen verbruik met 15 procentpunt, met een maximum van 60%
-- Thuisbatterijprijzen zijn de publieke prijzen van Sessy (5 kWh €3.550, 10 kWh €5.500, incl. btw **excl.** installatie, sessy.nl, opgehaald 21 augustus 2026). Het batterijmodel rekent alleen met extra zelfverbruik, niet met handel op de dagmarkt
+- Thuisbatterijprijzen zijn de publieke prijzen van Sessy (5 kWh €3.550, 10 kWh €5.500, incl. btw **excl.** installatie, sessy.nl, opgehaald 21 augustus 2026). Het batterijmodel rekent hier **alleen met extra zelfverbruik**, niet met handel op de dagmarkt; wat de handelskant eraan toevoegt en waarom die hier buiten de tabellen blijft, staat in [de sectie over de batterijgrens](#waarom-de-batterijregels-hier-conservatief-zijn) verderop
 
 ### Profiel A: Stel zonder kinderen, beiden buitenshuis werkend
 
@@ -171,7 +171,7 @@ Standaardaannames (naast de rekenbasis bovenaan dit artikel):
 | + smart home (eigen verbruik naar 40%) | €444 | 8,1 jaar |
 | + thuisbatterij 5 kWh (€3.550, excl. installatie) | €626 | 11,4 jaar op het geheel |
 
-**Aanbeveling A**: dynamisch contract + smart home. **Niet** de thuisbatterij: die kost €3.550 en levert in dit model €181 per jaar extra op — een terugverdientijd van bijna twintig jaar op de batterij alleen, terwijl de verwachte levensduur daar niet boven ligt.
+**Aanbeveling A**: dynamisch contract + smart home. **Niet** de thuisbatterij: die kost €3.550 en levert in dit model €181 per jaar extra op — een terugverdientijd van bijna twintig jaar op de batterij alleen, terwijl de verwachte levensduur daar niet boven ligt. Met netarbitrage op een dynamisch contract erbij (5 × €8 = €40 per jaar) komt dat op circa zestien jaar; zie [waarom de batterijregels hier conservatief zijn](#waarom-de-batterijregels-hier-conservatief-zijn).
 
 ### Profiel B: Gezin met 2 kinderen, parttime thuis
 
@@ -188,7 +188,7 @@ Standaardaannames (naast de rekenbasis bovenaan dit artikel):
 | + smart home (eigen verbruik naar 50%) | €641 | 7,0 jaar |
 | + thuisbatterij 10 kWh (€5.500, excl. installatie) | €859 | 11,6 jaar op het geheel |
 
-**Aanbeveling B**: dynamisch + smart home. De thuisbatterij is geen grensgeval maar in dit model duidelijk niet rendabel op zelfverbruik alleen: €5.500 voor €218 extra per jaar is vijfentwintig jaar. Wie een batterij overweegt, moet die beoordelen op handel op de dagmarkt en op noodstroom — zie onze [terugverdientijd-vergelijking van thuisbatterijen](/thuisbatterij-terugverdientijd-vergelijken/).
+**Aanbeveling B**: dynamisch + smart home. De thuisbatterij is geen grensgeval maar in dit model duidelijk niet rendabel op zelfverbruik alleen: €5.500 voor €218 extra per jaar is vijfentwintig jaar. Reken je op een dynamisch contract ook de netarbitrage mee (€8 per kWh per jaar, dus €80), dan wordt het €298 per jaar en 18,5 jaar — nog altijd ruim boven de garantietermijn. Zie [waarom de batterijregels hier conservatief zijn](#waarom-de-batterijregels-hier-conservatief-zijn) en de [terugverdientijd-vergelijking van thuisbatterijen](/thuisbatterij-terugverdientijd-vergelijken/).
 
 ### Profiel C: Gezin met EV, 1 thuiswerker
 
@@ -205,7 +205,7 @@ Standaardaannames (naast de rekenbasis bovenaan dit artikel):
 | + smart home (eigen verbruik naar 60%) | €1.025 | 6,1 jaar |
 | + thuisbatterij 10 kWh (€5.500, excl. installatie) | €1.229 | 9,6 jaar op het geheel |
 
-**Aanbeveling C**: dynamisch contract en slim laden van de EV. Een EV is hier de effectiefste "batterij": het laden schuift naar de zonuren zonder dat je iets bijkoopt. Een thuisbatterij voegt €203 per jaar toe voor €5.500 en is op zelfverbruik alleen niet rendabel.
+**Aanbeveling C**: dynamisch contract en slim laden van de EV. Een EV is hier de effectiefste "batterij": het laden schuift naar de zonuren zonder dat je iets bijkoopt. Een thuisbatterij voegt €203 per jaar toe voor €5.500 en is op zelfverbruik alleen niet rendabel; met netarbitrage erbij (€283 per jaar) kom je op ruim negentien jaar.
 
 ### Profiel D: Groot huis + warmtepomp + EV
 
@@ -221,7 +221,7 @@ Standaardaannames (naast de rekenbasis bovenaan dit artikel):
 | + dynamisch contract (aanname €120) | €1.307 | 6,2 jaar |
 | + thuisbatterij 10 kWh (€5.500, excl. installatie) | €1.634 | 8,3 jaar op het geheel |
 
-**Aanbeveling D**: dynamisch contract en gestuurd verbruik. Dit is het enige profiel waarin de batterij nog enigszins in de buurt komt: €327 per jaar extra op €5.500 is bijna zeventien jaar op de batterij alleen. Ook hier geldt: de batterij moet het van handel en noodstroom hebben, niet van zelfverbruik. Smart home voegt in dit profiel niets toe omdat het eigen verbruik al op 60% zit.
+**Aanbeveling D**: dynamisch contract en gestuurd verbruik. Dit is het enige profiel waarin de batterij nog enigszins in de buurt komt: €327 per jaar extra op €5.500 is bijna zeventien jaar op de batterij alleen, en met netarbitrage op een dynamisch contract erbij (€407 per jaar) circa 13,5 jaar. Ook hier geldt: de batterij moet het van handel en noodstroom hebben, niet van zelfverbruik — de uitwerking staat in [waarom de batterijregels hier conservatief zijn](#waarom-de-batterijregels-hier-conservatief-zijn). Smart home voegt in dit profiel niets toe omdat het eigen verbruik al op 60% zit.
 
 ### Profiel E: Klein huishouden, veel weg
 
@@ -254,7 +254,32 @@ Standaardaannames (naast de rekenbasis bovenaan dit artikel):
 | + smart home (eigen verbruik naar 60%) | €1.011 | +€155 |
 | + thuisbatterij 10 kWh (€5.500, excl. installatie) | €1.218 | +€207 |
 
-**Aanbeveling F**: bij een al afgeschreven systeem gaat het alleen nog om de vraag of een batterij loont. Op zelfverbruik alleen komt die hier op €207 per jaar tegen €5.500 aanschaf, oftewel ruim vijfentwintig jaar — dus nee, niet op deze grond. Het goedkope deel zit in de bovenste twee regels: die kosten niets of bijna niets en leveren samen €245 per jaar op.
+**Aanbeveling F**: bij een al afgeschreven systeem gaat het alleen nog om de vraag of een batterij loont. Op zelfverbruik alleen komt die hier op €207 per jaar tegen €5.500 aanschaf, oftewel ruim vijfentwintig jaar; met netarbitrage op een dynamisch contract erbij (€287 per jaar) circa negentien jaar — dus nee, op deze grond niet. Het goedkope deel zit in de bovenste twee regels: die kosten niets of bijna niets en leveren samen €245 per jaar op.
+
+## Waarom de batterijregels hier conservatief zijn {#waarom-de-batterijregels-hier-conservatief-zijn}
+
+De batterijregels in de zes tabellen hierboven rekenen **uitsluitend** met de extra zonnestroom die je door opslag zelf gaat verbruiken. Dat is een bewuste modelgrens, en die verdient uitleg — want op onze eigen batterijpagina's rekenen wij met een breder model, en dan valt de uitkomst gunstiger uit.
+
+**Het canonieke batterijmodel op deze site** rekent met twee opbrengstbronnen:
+
+1. **Zonverschuiving.** Het volume dat je daadwerkelijk kunt verschuiven is de laagste van drie grenzen: capaciteit × 150 bruikbare zoncycli per jaar, je overschot × 90 procent retourrendement, en je netafname (meer dan je uit het net haalt kun je niet vermijden). Dat volume is de spread tussen inkoop en teruglevering waard: €0,26 − €0,07 = **€0,19 per kWh**.
+2. **Netarbitrage**, en alleen op een dynamisch contract: circa **€8 per kWh capaciteit per jaar**, een eigen afleiding uit ongeveer honderd wintercycli tegen een netto spreiding van €0,10.
+
+Voor een systeem van 10 kWh dat tegen de cyclusgrens aanloopt komt dat model op **€353 per jaar** (€273 zonverschuiving + €80 netarbitrage). Dat is de bovengrens; de zes profielen hierboven zitten eronder, omdat een batterij in een woning met een klein overschot of een lage netafname die 150 cycli per jaar simpelweg niet volmaakt.
+
+**Wat dat betekent voor de terugverdientijd van de batterij alleen** — dezelfde investering, twee modellen naast elkaar:
+
+| Rekenbasis | Jaarwaarde 10 kWh | TVT op €5.500 |
+|---|---|---|
+| Alleen extra zelfverbruik (de tabellen hierboven) | €207 tot €327 | 17 tot 27 jaar |
+| + netarbitrage op een dynamisch contract (€8/kWh/jr) | €287 tot €407 | 13,5 tot 19 jaar |
+| Canoniek model bij een volle cyclusbenutting | €353 | 15,6 jaar |
+
+De conclusie verschuift daarmee niet: ook in het gunstigste van deze drie sommen ligt de terugverdientijd van de batterij ruim boven de tienjarige garantietermijn die fabrikanten op deze systemen geven. Wat wél verschuift, is de reden. Op zelfverbruik alleen is een batterij bij deze prijzen niet te verdedigen; met arbitrage erbij wordt het een kwestie van de aanschafprijs. Bij een jaarwaarde van €353 sluit de rekening binnen tien jaar pas onder circa **€3.530 aan totale investering** — een grens die plug-in systemen inmiddels halen en vaste, ingebouwde systemen niet.
+
+Wij houden de tabellen hierboven op zelfverbruik alleen, om drie redenen. Ten eerste hangt de arbitrageopbrengst aan een dynamisch contract dat niet elk huishouden heeft of wil. Ten tweede is die €8 per kWh een eigen afleiding uit historische spreads, en dus gevoeliger voor toekomstige marktontwikkeling dan de spread tussen inkoop en teruglevering. Ten derde is de vraag in dít artikel of je *panelen* na 2027 nog terugverdient — een batterij is daar een aparte investeringsbeslissing naast, geen onderdeel van.
+
+Die aparte beslissing hoort dus op de batterijpagina's, met het volledige model: [terugverdientijd thuisbatterij berekenen](/terugverdientijd-thuisbatterij/) voor je eigen cijfers, [thuisbatterijen vergelijken op terugverdientijd](/thuisbatterij-terugverdientijd-vergelijken/) per systeem, en [beste thuisbatterij Nederland](/posts/beste-thuisbatterij-nederland-2026/) voor de prijzen per kWh.
 
 ## De DCF-analyse: wat is het over 25 jaar waard?
 

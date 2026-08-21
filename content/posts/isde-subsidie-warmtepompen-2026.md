@@ -24,9 +24,9 @@ faq:
 - q: Hoeveel ISDE-subsidie krijg je voor een warmtepomp?
   a: 'Dat is niet met één bedrag te beantwoorden en wij noemen daarom geen bedragen per merk of model. RVO koppelt het subsidiebedrag aan het exacte typenummer van het apparaat: je zoekt jouw type op in de ISDE-apparatenlijst op rvo.nl en leest daar het bedrag af. Vraag je installateur dus om het volledige typenummer inclusief suffix en controleer dat zelf, vóór de opdracht.'
 - q: Hoe vraag je ISDE-subsidie aan?
-  a: 'Je vraagt de ISDE aan via mijn.rvo.nl, ná installatie van de maatregel — niet ervoor. Je hebt nodig: DigiD of eHerkenning, de factuur van de installateur, een betaalbewijs en de productgegevens (typenummer en serienummer). Voor een warmtepomp moet de aanvraag binnen 24 maanden na de installatie zijn ingediend; voor isolatie geldt 12 maanden na uitvoering.'
+  a: 'Je vraagt de ISDE aan via mijn.rvo.nl, ná installatie van de maatregel — niet ervoor. Je hebt nodig: DigiD of eHerkenning, de factuur van de installateur, een betaalbewijs en de productgegevens (typenummer en serienummer). De aanvraag moet binnen 24 maanden na de installatie of uitvoering zijn ingediend — die termijn geldt voor warmtepomp én isolatie.'
 - q: Is ISDE-subsidie te combineren met andere subsidies?
-  a: Ja, de ISDE is te combineren met gemeentelijke subsidies en met een lening van het Nationaal Warmtefonds tegen lage rente. Een aparte isolatiesubsidie bovenop de ISDE bestaat niet meer. De oude SEEH kon tot en met 31 december 2022 worden aangevraagd en isolatie voor eigenaar-bewoners loopt sindsdien via de ISDE zelf, met hogere bedragen bij twee of meer maatregelen. VvE's vallen onder de SVVE.
+  a: Ja, de ISDE is te combineren met gemeentelijke subsidies en met een lening van het Nationaal Warmtefonds tegen lage rente. Een aparte isolatiesubsidie bovenop de ISDE bestaat niet meer. De oude SEEH kon tot en met 31 december 2022 worden aangevraagd en isolatie voor eigenaar-bewoners loopt sindsdien via de ISDE zelf, met een verdubbeling van het bedrag bij twee of meer maatregelen binnen 24 maanden. VvE's vallen onder de SVVE.
 - q: Hoe lang duurt het voordat de ISDE-subsidie wordt uitbetaald?
   a: RVO publiceert de actuele beslistermijn op rvo.nl. Reken er in de planning op dat er enkele maanden tussen aanvraag en uitbetaling zitten en dat je de investering in die periode zelf voorschiet. Een incomplete aanvraag is de belangrijkste oorzaak van extra vertraging.
 - q: Geldt ISDE subsidie ook voor huurwoningen?
@@ -49,7 +49,7 @@ De vraag "hoeveel ISDE krijg ik voor een warmtepomp?" heeft geen algemeen antwoo
 
 💡 *Vraag je je af wat de salderingsstop van 1 januari 2027 voor jou betekent? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
-> **Kort antwoord:** het ISDE-bedrag voor een warmtepomp staat per typenummer in de RVO-apparatenlijst — zoek jouw type daar op en reken met dát bedrag. Je vraagt aan **ná** installatie, binnen **24 maanden** (isolatie: binnen 12 maanden na uitvoering). Op een warmtepomp geldt **21% btw**; het 0%-tarief bestaat alleen voor zonnepanelen.
+> **Kort antwoord:** het ISDE-bedrag voor een warmtepomp staat per typenummer in de RVO-apparatenlijst — zoek jouw type daar op en reken met dát bedrag. Je vraagt aan **ná** installatie, binnen **24 maanden** — die termijn geldt ook voor isolatie, gerekend vanaf de uitvoering. Bij twee of meer maatregelen binnen 24 maanden wordt het subsidiebedrag verdubbeld. Op een warmtepomp geldt **21% btw**; het 0%-tarief bestaat alleen voor zonnepanelen.
 
 ## Wat is de ISDE?
 
@@ -76,7 +76,7 @@ Wat wél vaststaat: **lucht-lucht warmtepompen (split-airco's) zijn niet subsidi
 
 ### Isolatie
 
-Voor isolatie werkt de ISDE met een bedrag per vierkante meter per maatregel, met een minimum-oppervlakte en een minimum Rd-waarde. Die bedragen en eisen staan per maatregel op rvo.nl en worden periodiek herzien; wij nemen ze hier niet over, omdat een verouderd bedrag in jouw begroting duurder is dan geen bedrag. Belangrijk verschil met de warmtepomp: **isolatie moet je binnen 12 maanden na uitvoering aanvragen** en er is geen aparte combinatiebonus — er gelden hógere bedragen per maatregel wanneer je twee of meer maatregelen laat uitvoeren.
+Voor isolatie werkt de ISDE met een bedrag per vierkante meter per maatregel, met een minimum-oppervlakte en een minimum Rd-waarde. Die bedragen en eisen staan per maatregel op rvo.nl en worden periodiek herzien; wij nemen ze hier niet over, omdat een verouderd bedrag in jouw begroting duurder is dan geen bedrag. De termijn is dezelfde als bij de warmtepomp: **aanvragen ná uitvoering, binnen 24 maanden**. Een aparte combinatiebonus bestaat niet; wat de regeling wél doet, is het subsidiebedrag **verdubbelen** wanneer je binnen 24 maanden twee of meer maatregelen laat uitvoeren.
 
 **Btw:** op isolatie, een warmtepomp, een warmtepompboiler of een thermostaat geldt het normale tarief van **21%**. Het nultarief bestaat alleen voor zonnepanelen en de direct daarvoor noodzakelijke onderdelen. Een installateur die 0% btw op je warmtepomp rekent, factureert onjuist.
 
@@ -121,7 +121,7 @@ Na de installatie heb je nodig:
 - Bij goedkeuring volgt de uitbetaling kort na de beschikking
 - Bij ontbrekende documenten krijg je een verzoek tot aanvulling
 
-**Deadline:** voor een warmtepomp dien je in **binnen 24 maanden** na de installatie; voor isolatie binnen **12 maanden** na uitvoering. En let op de volgorde: eerst installeren, dán aanvragen — een aanvraag vóór de installatie wordt afgewezen.
+**Deadline:** je dient in **binnen 24 maanden** na de installatie of uitvoering — dezelfde termijn voor warmtepomp en isolatie. En let op de volgorde: eerst installeren, dán aanvragen — een aanvraag vóór de installatie wordt afgewezen.
 
 ## Combinatie met andere subsidies
 
@@ -133,11 +133,11 @@ Een deel van de gemeenten en provincies heeft eigen regelingen bovenop de ISDE: 
 
 **Tip:** zoek jouw gemeente en provincie op in de subsidiechecker op [verbeterjehuis.nl](https://www.verbeterjehuis.nl/subsidiecheck/) en lees daar de volgorde van aanvragen. Doe dat vóórdat je de opdracht geeft.
 
-### Twee of meer maatregelen: hogere ISDE-bedragen
+### Twee of meer maatregelen: verdubbeling van het bedrag
 
 Er is geen aparte isolatiesubsidie meer bovenop de ISDE. De oude SEEH (Subsidie Energiebesparing Eigen Huis) kon voor het laatst tot en met 31 december 2022 worden aangevraagd; voor eigenaar-bewoners is de isolatiesubsidie in de ISDE ondergebracht en voor VvE's is per 23 januari 2023 de SVVE in de plaats gekomen.
 
-Wat er wél is: binnen de ISDE zelf gelden hogere subsidiebedragen per isolatiemaatregel wanneer je twee of meer maatregelen uitvoert. Voer je één maatregel uit, dan krijg je het lagere bedrag per vierkante meter. De actuele bedragen per maatregel — en de vraag of jouw combinatie kwalificeert — staan op rvo.nl/isde. Reken dus niet met een vast bonuspercentage, maar zoek de bedragen op voor de maatregelen die jij laat uitvoeren.
+Wat er wél is: binnen de ISDE zelf wordt het subsidiebedrag **verdubbeld** wanneer je binnen 24 maanden twee of meer maatregelen laat uitvoeren. Voer je één maatregel uit, dan blijft het bij het enkele bedrag. De bedragen per maatregel — en de vraag of jouw combinatie kwalificeert — staan op rvo.nl/isde. Reken dus niet met een los bedacht bonuspercentage, maar zoek de bedragen op voor de maatregelen die jij laat uitvoeren.
 
 ### ISDE + Nationaal Warmtefonds
 
@@ -149,7 +149,7 @@ Als je een warmtepomp installeert en hierdoor minder gas verbruikt, bespaar je o
 
 ## Tips voor maximale subsidie
 
-1. **Combineer maatregelen** — de ISDE keert per isolatiemaatregel een hoger bedrag uit als je er twee of meer laat uitvoeren
+1. **Combineer maatregelen** — bij twee of meer maatregelen binnen 24 maanden verdubbelt de ISDE het subsidiebedrag
 2. **Check je gemeente eerst** — sommige gemeentelijke regelingen moet je juist vóór de installatie aanvragen
 3. **Gebruik de RVO-apparatenlijst** — controleer vóór de opdracht of jouw typenummer erop staat, en lees daar het bedrag af
 4. **Bewaar alles** — facturen, betaalbewijzen, foto's en specificaties; ontbrekende documenten vertragen je aanvraag
@@ -190,7 +190,7 @@ Wij zetten hier bewust geen tabel met kant-en-klare terugverdientijden: die zou 
 ## Veelgemaakte fouten
 
 - **Vóór de installatie aanvragen** — dat leidt tot afwijzing; de ISDE loopt altijd achteraf
-- **Te laat aanvragen** — voor een warmtepomp is de termijn 24 maanden na installatie, voor isolatie 12 maanden na uitvoering
+- **Te laat aanvragen** — de termijn is 24 maanden na de installatie of uitvoering, voor warmtepomp en isolatie gelijk
 - **Verkeerd product** — niet elk toestel staat op de apparatenlijst; controleer het typenummer vóór de opdracht
 - **0% btw op de factuur** — dat tarief geldt alleen voor zonnepanelen; op een warmtepomp hoort 21%
 - **Ontbrekende documenten** — incomplete aanvragen leiden tot weken vertraging
@@ -229,7 +229,7 @@ De praktische conclusie verandert daar niet van: dien in zodra je aanvraag compl
 
 ## Combinatie van maatregelen: hoe je een pakket doorrekent
 
-Een pakket levert vaak meer op dan één losse maatregel, om twee redenen: de ISDE keert per isolatiemaatregel een hoger bedrag uit vanaf twee maatregelen, en een beter geïsoleerde woning laat een warmtepomp op een lagere aanvoertemperatuur draaien — wat het rendement verhoogt. Dat effect is reëel; de exacte bedragen zijn dat alleen als je ze zelf opzoekt.
+Een pakket levert vaak meer op dan één losse maatregel, om twee redenen: de ISDE verdubbelt het subsidiebedrag vanaf twee maatregelen binnen 24 maanden, en een beter geïsoleerde woning laat een warmtepomp op een lagere aanvoertemperatuur draaien — wat het rendement verhoogt. Dat effect is reëel; de exacte bedragen zijn dat alleen als je ze zelf opzoekt.
 
 Zo pak je het aan, in deze volgorde:
 

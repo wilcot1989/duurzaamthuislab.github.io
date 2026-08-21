@@ -34,7 +34,7 @@ faq:
 - q: 'Kan ik een gemeentelijke subsidie combineren met ISDE?'
   a: 'Dat kan per regeling verschillen en staat in de voorwaarden van de betreffende regeling. Er is geen algemene regel dat cumulatie altijd mag of altijd verboden is. Lees per regeling de passage over samenloop met andere subsidies voordat je een aanvraag indient.'
 - q: 'Moet ik ISDE aanvragen vóór of ná de installatie?'
-  a: 'Voor woningeigenaren geldt: je vraagt ISDE aan ná installatie, binnen 24 maanden na de installatiedatum. Voor isolatiemaatregelen is dat binnen 12 maanden na uitvoering. Gemeentelijke regelingen kennen soms een andere volgorde en vragen wél om aanvraag vooraf — dat is precies waarom je de volgorde per regeling nakijkt.'
+  a: 'Voor woningeigenaren geldt: je vraagt ISDE aan ná installatie, binnen 24 maanden na de installatiedatum. Voor isolatiemaatregelen geldt dezelfde termijn: binnen 24 maanden na uitvoering. Gemeentelijke regelingen kennen soms een andere volgorde en vragen wél om aanvraag vooraf — dat is precies waarom je de volgorde per regeling nakijkt.'
 - q: 'Hoeveel ISDE krijg ik voor mijn warmtepomp?'
   a: 'Dat hangt af van het exacte typenummer van het apparaat. RVO houdt een apparatenlijst bij waarin per merk en type het subsidiebedrag staat, met een rekenhulp erbij. Vraag je installateur om het typenummer uit de offerte en zoek dat op bij RVO — bedragen die niet aan een typenummer hangen, zeggen niets.'
 - q: 'Geldt het 0%-btw-tarief ook voor mijn warmtepomp of isolatie?'
@@ -94,7 +94,7 @@ Voor warmtepomp, warmtepompboiler, zonneboiler en isolatie is ISDE de landelijke
 Zo werkt het wel:
 
 - **Het bedrag hangt aan het typenummer van het apparaat.** RVO publiceert een apparatenlijst waarin per merk en type staat welk bedrag eraan verbonden is, met een rekenhulp. Vraag je installateur om het exacte typenummer uit de offerte en zoek dat op via de [ISDE-pagina van RVO](https://www.rvo.nl/subsidies-financiering/isde). Een bedrag zonder typenummer is een gok.
-- **Je vraagt ná installatie aan.** Voor een warmtepomp of zonneboiler geldt een termijn van 24 maanden na de installatiedatum. Voor isolatiemaatregelen is dat 12 maanden na uitvoering.
+- **Je vraagt ná installatie aan.** Voor een warmtepomp of zonneboiler geldt een termijn van 24 maanden na de installatiedatum; voor isolatiemaatregelen geldt dezelfde termijn van 24 maanden na uitvoering (rvo.nl, gecontroleerd 21 augustus 2026).
 - **Let op de volgorde-botsing.** Sommige gemeentelijke regelingen willen juist een aanvraag vóór uitvoering. Dat betekent dat je bij een gecombineerd project twee verschillende volgordes tegelijk moet aanhouden: eerst de gemeentelijke aanvraag indienen, dan uitvoeren, dan de ISDE-aanvraag doen.
 - **ISDE dekt geen zonnepanelen en geen thuisbatterijen.** Voor panelen is het fiscale voordeel het nultarief btw; voor thuisbatterijen bestaat geen landelijke consumentensubsidie.
 
@@ -152,7 +152,7 @@ Los van de subsidies zijn er vier Amsterdamse omstandigheden die de planning be�
 3. **Vraag offertes op bij minimaal twee installateurs**, met btw-tarief per regel en het typenummer van de warmtepomp erin.
 4. **Dien de regelingen die vooraf moeten worden aangevraagd in vóór de opdracht.** Dit is de fout die het vaakst tot een afwijzing leidt.
 5. **Voer uit en bewaar alles**: facturen, betaalbewijzen, foto's van de uitvoering, labels voor en na.
-6. **Dien ISDE ná oplevering in**, binnen 24 maanden (warmtepomp) of 12 maanden (isolatie).
+6. **Dien ISDE ná oplevering in**, binnen 24 maanden na installatie of uitvoering (zowel warmtepomp als isolatie).
 
 Waar het meestal misloopt, is stap 2 en stap 4: mensen lezen één regeling goed en gaan er dan van uit dat de andere regelingen dezelfde volgorde hanteren. Dat is niet zo.
 

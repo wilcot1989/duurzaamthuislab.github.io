@@ -105,13 +105,13 @@ Het verschil vóór subsidie ligt daarmee ergens tussen de €10.000 en €20.00
 
 Onderstaande som is een **modelberekening**, geen gemeten resultaat.
 
-Aannames: een bodembron-installatie van €22.000 tegenover een lucht-water installatie van €10.000, dus €12.000 meerinvestering. Warmtevraag 15.000 kWh per jaar, stroomprijs €0,30/kWh, seizoensprestatie 4,5 voor de bodembron en 3,5 voor lucht-water.
+Aannames: een bodembron-installatie van €22.000 tegenover een lucht-water installatie van €10.000, dus €12.000 meerinvestering. Warmtevraag 15.000 kWh per jaar, stroomprijs €0,26/kWh all-in (de sitebrede modelconstante: EPEX-jaargemiddelde 2025 €0,105 incl. btw + energiebelasting €0,11085 incl. btw + €0,044 opslag-aanname), seizoensprestatie 4,5 voor de bodembron en 3,5 voor lucht-water.
 
-- Bodembron: 15.000 / 4,5 × €0,30 = **€1.000 per jaar aan stroom**
-- Lucht-water: 15.000 / 3,5 × €0,30 = **€1.286 per jaar aan stroom**
-- Verschil: **€286 per jaar**
+- Bodembron: 15.000 / 4,5 × €0,26 = **€867 per jaar aan stroom**
+- Lucht-water: 15.000 / 3,5 × €0,26 = **€1.114 per jaar aan stroom**
+- Verschil: **€247 per jaar**
 
-Terugverdientijd van de meerinvestering: €12.000 / €286 ≈ **42 jaar**.
+Terugverdientijd van de meerinvestering: €12.000 / €247 ≈ **49 jaar**.
 
 Dat is langer dan de technische levensduur van de warmtepomp zelf. Bij deze aannames wint een bodembron financieel dus niet, en dat is precies waarom hij in een gemiddeld rijtjeshuis zelden wordt aangelegd. Verander de aannames en het beeld verschuift: bij een veel hogere warmtevraag of een groter prestatieverschil wordt de termijn aanzienlijk korter, zoals de volgende paragraaf laat zien.
 
@@ -125,7 +125,7 @@ In een dichtbebouwde omgeving met kleine tuinen kan de geluidsnormering voor de 
 
 ### Situatie 2: hoog energieverbruik
 
-Hoe groter de warmtevraag, hoe zwaarder het prestatieverschil weegt. Rekenen we dezelfde aannames door voor een vrijstaande woning met 30.000 kWh warmtevraag in plaats van 15.000 kWh, dan verdubbelt het jaarlijkse verschil naar ruwweg €570 en halveert de terugverdientijd van de meerinvestering. Nog steeds lang, maar bij een installatie die twintig tot dertig jaar meegaat komt het in beeld.
+Hoe groter de warmtevraag, hoe zwaarder het prestatieverschil weegt. Rekenen we dezelfde aannames door voor een vrijstaande woning met 30.000 kWh warmtevraag in plaats van 15.000 kWh, dan verdubbelt het jaarlijkse verschil naar ruwweg €495 en halveert de terugverdientijd van de meerinvestering naar circa 24 jaar. Nog steeds lang, maar bij een installatie die twintig tot dertig jaar meegaat komt het in beeld.
 
 ### Situatie 3: nieuwbouw met voldoende perceel
 
@@ -248,7 +248,9 @@ Voor een woning met vloerverwarming is dat functioneel een gratis bijproduct van
 
 ## De meerinvestering financieren
 
-**Warmtefonds en gemeentelijke leningen.** Het Nationaal Warmtefonds en verschillende gemeenten bieden leningen voor verduurzaming, met looptijden die op de levensduur van de maatregel zijn afgestemd. De voorwaarden en rentepercentages veranderen periodiek en verschillen per doelgroep; kijk voor de actuele voorwaarden op warmtefonds.nl en bij je eigen gemeente. Wij noemen hier geen rentepercentage, omdat dat op het moment van lezen alweer verouderd kan zijn.
+**Warmtefonds en gemeentelijke leningen.** Het Nationaal Warmtefonds verstrekt de Energiebespaarlening aan eigenaar-bewoners. Op warmtefonds.nl stond op 21 augustus 2026 een leenbedrag van **€1.000 tot €29.000** (voor een thuisbatterij geldt een apart maximum van €8.500), met looptijden van 7, 10, 15 of 20 jaar. Voor eigenaar-bewoners met een verzamelinkomen onder **€60.000** geldt **0% rente**; daarboven gold volgens de rentetabel van 13 augustus 2026 een tarief van 4,02% tot 4,52%, afhankelijk van de looptijd. Die tarieven worden periodiek bijgesteld, dus controleer ze op warmtefonds.nl vóór je een lening aanvraagt — en kijk daarnaast bij je eigen gemeente, die soms een eigen regeling heeft.
+
+Let op de verhouding tussen dat maximum en de investering: bij een bodemgebonden systeem in de bandbreedte hierboven dekt de lening het project meestal wel, maar bij een gecombineerde ingreep (bronnen, warmtepomp én afgifterenovatie) kun je tegen het plafond van €29.000 aanlopen.
 
 **Combineren met nieuwbouw of een grote verbouwing.** Dit is de grootste kostenverlager die er is: als de grond toch open ligt, vervalt het duurste deel van het prijsverschil.
 

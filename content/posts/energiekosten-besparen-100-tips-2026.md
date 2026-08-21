@@ -32,7 +32,7 @@ faq:
 - q: Wat leveren zonnepanelen gemiddeld op in Nederland?
   a: 'Een systeem van 10 panelen (3.300 Wp) levert circa 2.800-3.000 kWh per jaar op. Zolang de saldering nog geldt (tot en met 31 december 2026) is elke opgewekte kWh je inkoopprijs waard: bij €0,26/kWh is dat €730-€780 per jaar. Vanaf 1 januari 2027 stopt de saldering volledig en telt alleen nog wat je zelf verbruikt tegen €0,26; de rest gaat tegen de terugleververgoeding van je leverancier. Bij 30-35% zelfverbruik en een aangenomen terugleververgoeding van €0,07/kWh komt het model dan uit op €355-€420 per jaar.'
 - q: Welke subsidies zijn beschikbaar in 2026?
-  a: 'De ISDE-regeling geeft eigenaar-bewoners subsidie op warmtepompen, zonneboilers, isolatie, ventilatie in combinatie met isolatie, een warmtenetaansluiting en elektrisch koken. Het bedrag verschilt per maatregel en per typenummer; zoek het op via de apparatenlijst of rekentool op rvo.nl. Vraag de subsidie aan na de installatie: bij een warmtepomp binnen 24 maanden, bij isolatie binnen 12 maanden. Aanvullend zijn er gemeentelijke regelingen en het Nationaal Warmtefonds (lening). VvE''s vallen onder de SVVE. Het oude SEEH-programma bestaat niet meer en kon tot en met 31 december 2022 worden aangevraagd.'
+  a: 'De ISDE-regeling geeft eigenaar-bewoners subsidie op warmtepompen, zonneboilers, isolatie, ventilatie in combinatie met isolatie, een warmtenetaansluiting en elektrisch koken. Het bedrag verschilt per maatregel en per typenummer; zoek het op via de apparatenlijst of rekentool op rvo.nl. Vraag de subsidie aan na de installatie of uitvoering, binnen 24 maanden — die termijn geldt voor warmtepomp en isolatie. Voer je binnen 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld. Aanvullend zijn er gemeentelijke regelingen en het Nationaal Warmtefonds (lening). VvE''s vallen onder de SVVE. Het oude SEEH-programma bestaat niet meer en kon tot en met 31 december 2022 worden aangevraagd.'
 schema_type: Article
 ---
 Een energierekening fors verlagen lukt zelden met één grote ingreep. Het is de stapeling van tientallen kleine en middelgrote maatregelen die het verschil maakt. In dit artikel staan 100 concrete tips, gesorteerd van gratis naar duurder.
@@ -378,7 +378,7 @@ Sommige omvormers (SolarEdge, Growatt) kunnen overproductie van zonnepanelen dir
 
 ### 71. Spouwmuurisolatie (€800-€1.500 investering)
 
-Spouwmuurisolatie is de meest kostenefficiënte maatregel voor de meeste Nederlandse woningen (bouwjaar 1940-1985). Spouwmuurisolatie staat op de ISDE-maatregellijst; het subsidiebedrag hangt af van het geïsoleerde oppervlak en of je twee of meer maatregelen combineert — zie rvo.nl. Terugverdientijd: **3-6 jaar**. Besparing: **€200-€500 per jaar**.
+Spouwmuurisolatie is de meest kostenefficiënte maatregel voor de meeste Nederlandse woningen (bouwjaar 1940-1985). Spouwmuurisolatie staat op de ISDE-maatregellijst; het subsidiebedrag hangt af van het geïsoleerde oppervlak en wordt verdubbeld als je binnen 24 maanden twee of meer maatregelen combineert — zie rvo.nl. Terugverdientijd: **3-6 jaar**. Besparing: **€200-€500 per jaar**.
 
 ### 72. Vloerisolatie via kruipruimte (€1.000-€2.500)
 

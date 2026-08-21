@@ -294,7 +294,7 @@ Prijsverschillen van 20–40% zijn normaal. Zorg dat de offertes vergelijkbaar z
 Als je vloerverwarming aanlegt zonder tegelijk een warmtepomp te installeren, betaal je straks een tweede keer voor de aansluiting en loodgieterswerk. Plan beide tegelijk — de besparing op arbeidskosten kan €1.000–€2.000 bedragen.
 
 **Stap 5: Controleer subsidie**
-Voor een lucht-water warmtepomp is ISDE-subsidie beschikbaar. Wij noemen bewust geen bedrag: dat hangt af van het typenummer en is alleen betrouwbaar op te zoeken in de ISDE-apparatenlijst op rvo.nl. Vloerverwarming zelf is geen ISDE-maatregel. De aanvraag doe je **ná** installatie, binnen **24 maanden**; voor isolatiemaatregelen is dat binnen 12 maanden na uitvoering. Check per merk en typenummer of het apparaat op de lijst staat — ook bij [ATAG](https://go.duurzaamthuislab.nl/atag) verschilt dat per model.
+Voor een lucht-water warmtepomp is ISDE-subsidie beschikbaar. Wij noemen bewust geen bedrag: dat hangt af van het typenummer en is alleen betrouwbaar op te zoeken in de ISDE-apparatenlijst op rvo.nl. Vloerverwarming zelf is geen ISDE-maatregel. De aanvraag doe je **ná** installatie, binnen **24 maanden**; voor isolatiemaatregelen geldt dezelfde termijn van 24 maanden na uitvoering, en bij twee of meer maatregelen binnen die 24 maanden wordt het subsidiebedrag verdubbeld. Check per merk en typenummer of het apparaat op de lijst staat — ook bij [ATAG](https://go.duurzaamthuislab.nl/atag) verschilt dat per model.
 
 ---
 

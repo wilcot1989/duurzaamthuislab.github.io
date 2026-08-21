@@ -33,7 +33,7 @@ faq:
 - q: 'Welke hybride warmtepomp is de beste keuze?'
   a: 'Die vraag heeft geen merkantwoord. Wij testen zelf niet en publiceren daarom geen ranglijst. Wat je wél kunt vergelijken zijn controleerbare zaken: het koudemiddel, de maximale aanvoertemperatuur, of het model met het volledige typenummer op de RVO-meldcodelijst staat, en hoe dicht het servicenetwerk bij je woont. Dat zijn de punten waarop dit artikel de vijf merken naast elkaar zet.'
 - q: 'Is er subsidie voor een hybride warmtepomp?'
-  a: 'Ja, via de ISDE. In 2026 bestaat het bedrag voor een eerste lucht-waterwarmtepomp uit een startbedrag van € 1.025, plus € 225 per kW vermogen, plus € 200 energielabelbonus bij een A+++-label (bron: rvo.nl, opgehaald 21 augustus 2026). Je vraagt de subsidie aan ná installatie, binnen 24 maanden. Het exacte bedrag hangt af van de meldcode van jouw toestel; de ISDE-rekentool op rvo.nl geeft de schatting.'
+  a: 'Ja, via de ISDE. Het bedrag hangt af van het typenummer van het toestel: zoek dat nummer uit je offerte op in de apparatenlijst en rekentool op rvo.nl, want daar staat het bedrag dat er werkelijk bij hoort. Je vraagt de subsidie aan ná installatie, binnen 24 maanden. Voer je binnen die 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld.'
 products:
 - name: Vaillant aroTHERM plus
   url: https://go.duurzaamthuislab.nl/vaillant
@@ -51,7 +51,7 @@ De vraag "welk merk is het beste" is daarbij minder nuttig dan hij lijkt. Wij te
 
 > **Kort antwoord:** kies niet op merk maar op vier controleerbare punten. Staat het volledige typenummer op de RVO-meldcodelijst (anders geen ISDE)? Welk koudemiddel zit erin, R32 of het natuurlijke R290? Welke aanvoertemperatuur haalt het toestel, want daarmee bepaal je of je radiatoren kunnen blijven hangen? En hoe dicht zit het servicenetwerk?
 >
-> De ISDE bedraagt in 2026 voor een eerste lucht-waterwarmtepomp € 1.025 startbedrag plus € 225 per kW plus € 200 labelbonus bij A+++, aan te vragen ná installatie binnen 24 maanden. Op de warmtepomp zelf betaal je 21% btw — het 0%-tarief geldt alleen voor zonnepanelen.
+> De ISDE vraag je aan ná installatie, binnen 24 maanden; het bedrag staat per typenummer in de apparatenlijst en rekentool op rvo.nl. Op de warmtepomp zelf betaal je 21% btw — het 0%-tarief geldt alleen voor zonnepanelen.
 
 ## Wat je wel en niet kunt vergelijken
 
@@ -81,23 +81,19 @@ Het tweede echte onderscheid is de maximale aanvoertemperatuur. Kan een toestel 
 
 Het derde punt is service. Alle vijf merken hebben landelijke dekking, maar de praktische vraag is of er in jouw regio een installateur zit die dit specifieke merk regelmatig plaatst en inregelt. Een verkeerd ingeregelde topmachine presteert slechter dan een correct ingeregelde middenklasser.
 
-## Wat de ISDE in 2026 werkelijk oplevert
+## Wat de ISDE in 2026 oplevert en waar je het bedrag vindt
 
-Voor hybride warmtepompen geldt de ISDE, en die is per 2026 anders opgebouwd dan in eerdere jaren. Volgens rvo.nl (opgehaald 21 augustus 2026) bestaat het bedrag voor een **eerste** lucht-waterwarmtepomp uit drie delen:
+Voor hybride warmtepompen geldt de ISDE. Wij noemen hier geen bedrag, om een simpele reden: **het subsidiebedrag hangt aan het typenummer van het toestel**, niet aan het merk en niet aan een algemene bandbreedte. Op rvo.nl staat de apparatenlijst met per typenummer het bijbehorende bedrag, plus een rekentool. Vraag je installateur om het volledige typenummer uit de offerte en zoek dat daar op — dan weet je wat er in jouw geval te halen valt.
 
-- een startbedrag van **€ 1.025** (in 2025 was dat € 1.250);
-- **€ 225 per kW** vermogen, vanaf de eerste kW;
-- een **energielabelbonus van € 200** bij een A+++-label.
-
-Voor een eerste lucht-waterwarmtepomp van 4 kW met A+++-label komt dat volgens het rekenvoorbeeld van RVO uit op € 1.025 + 4 × € 225 + € 200 = **€ 2.125**. Plaats je in hetzelfde jaar een tweede of volgende warmtepomp, dan vervallen het startbedrag en de labelbonus voor dat toestel.
+Voer je binnen 24 maanden twee of meer maatregelen uit (bijvoorbeeld een warmtepomp én isolatie), dan wordt het subsidiebedrag verdubbeld. Dat is de reden dat het loont om maatregelen te bundelen in plaats van ze over meerdere jaren uit te smeren.
 
 Drie voorwaarden die vaak misgaan:
 
-1. **Je vraagt de subsidie aan ná installatie**, niet ervoor. De termijn is 24 maanden na installatie. (Voor isolatiemaatregelen is die termijn 12 maanden — verwar de twee niet.)
+1. **Je vraagt de subsidie aan ná installatie**, niet ervoor. De termijn is 24 maanden na de installatie- of uitvoeringsdatum — die termijn geldt zowel voor een warmtepomp als voor isolatiemaatregelen.
 2. **Het toestel moet met het volledige typenummer op de RVO-meldcodelijst staan** op het moment van installatie. Fabrikanten voeren typenummers af na een productupdate. Controleer het nummer op je offerte op rvo.nl vóórdat je tekent, en nog een keer op de factuur.
 3. **Op de warmtepomp betaal je 21% btw.** Het 0%-tarief geldt uitsluitend voor zonnepanelen en de onderdelen die daar direct voor nodig zijn — niet voor warmtepompen, boilers, isolatie of thermostaten.
 
-Wij noemen bewust geen ISDE-bedrag per merk of model. Dat bedrag volgt uit het vermogen en de meldcode, niet uit de merknaam; de ISDE-rekentool op rvo.nl geeft de schatting voor jouw exacte toestel.
+Wij noemen bewust geen ISDE-bedrag per merk of model. Dat bedrag volgt uit het typenummer op de apparatenlijst, niet uit de merknaam; de ISDE-rekentool op rvo.nl geeft de schatting voor jouw exacte toestel.
 
 Sommige gemeenten en provincies hebben aanvullende regelingen, maar die wisselen per jaar en per budget. Kijk voor jouw postcode op de energiesubsidiewijzer van je gemeente in plaats van af te gaan op bedragen uit een artikel.
 
@@ -121,7 +117,7 @@ Onderstaand een **modelberekening met expliciete aannames**, geen meting en geen
 | Extra elektra warmtepomp (1.580 kWh × € 0,23) | € 363 |
 | **Netto besparing** | **€ 764** |
 
-Bij een netto investering van € 2.800 na subsidie levert dat een terugverdientijd van ongeveer 3,7 jaar op. Verander één aanname — een lagere gasprijs, een hoger bivalentpunt, een slechter geïsoleerde woning — en die uitkomst schuift op. Reken hem daarom na met je eigen jaarafrekening in plaats van dit getal over te nemen.
+Wat dat aan terugverdientijd oplevert, hangt af van wat je zelf betaalt: deel je eigen investering (het offertebedrag minus het ISDE-bedrag dat bij jouw typenummer hoort) door die € 764 besparing. Per € 1.000 eigen inleg is dat in dit model ongeveer 1,3 jaar. Verander één aanname — een lagere gasprijs, een hoger bivalentpunt, een slechter geïsoleerde woning — en die uitkomst schuift op. Reken hem daarom na met je eigen jaarafrekening in plaats van dit getal over te nemen.
 
 ### Wat de besparing bepaalt
 
@@ -154,7 +150,7 @@ Een offerte die honderden euro's lager uitvalt, kan jaar na jaar rendement koste
 
 ### 5. Isolatie overslaan
 
-Een hybride warmtepomp verwarmt efficiënter, maar bij een woning die veel warmte verliest vul je een lekkende emmer. Isoleren verlaagt bovendien de benodigde aanvoertemperatuur, waardoor het rendement van de warmtepomp stijgt — de twee maatregelen versterken elkaar. De ISDE vergoedt isolatiemaatregelen met een vast bedrag per vierkante meter per maatregel; de actuele bedragen en de voorwaarde van minimaal twee maatregelen staan op rvo.nl. Let op de afwijkende termijn: isolatiesubsidie vraag je aan binnen 12 maanden na uitvoering.
+Een hybride warmtepomp verwarmt efficiënter, maar bij een woning die veel warmte verliest vul je een lekkende emmer. Isoleren verlaagt bovendien de benodigde aanvoertemperatuur, waardoor het rendement van de warmtepomp stijgt — de twee maatregelen versterken elkaar. De ISDE vergoedt isolatiemaatregelen met een vast bedrag per vierkante meter per maatregel; de actuele bedragen en voorwaarden staan op rvo.nl. Ook hier geldt: aanvragen ná uitvoering, binnen 24 maanden. Combineer je de warmtepomp en isolatie binnen die 24 maanden, dan wordt het subsidiebedrag verdubbeld.
 
 ## Plaatsing, geluid en vergunning
 
@@ -214,14 +210,14 @@ Lees ook onze [gids over de ISDE-subsidie](/posts/isde-subsidie-warmtepompen-202
 
 ## Lees ook
 
-- **[ISDE Subsidie 2026: Complete Gids](/posts/isde-subsidie-warmtepompen-2026/)** — voorwaarden, bedragen en aanvraagvolgorde
+- **[ISDE Subsidie 2026: Complete Gids](/posts/isde-subsidie-warmtepompen-2026/)** — voorwaarden, aanvraagvolgorde en waar je het bedrag opzoekt
 - **[Zonnepanelen Subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/)** — wat er per 2027 verandert aan saldering
 - **[Thuisbatterij Terugverdientijd Berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)** — narekenbaar model
 - **[Dynamische Energiecontracten + Thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)** — sturen op uurprijzen
 
 ---
 
-*Laatst bijgewerkt: 21 augustus 2026. ISDE-bedragen en -voorwaarden gecontroleerd op rvo.nl, Remeha-specificaties op remeha.nl, Quatt-informatie op quatt.io, alle op 21 augustus 2026.*
+*Laatst bijgewerkt: 21 augustus 2026. ISDE-voorwaarden gecontroleerd op rvo.nl, Remeha-specificaties op remeha.nl, Quatt-informatie op quatt.io, alle op 21 augustus 2026.*
 
 ---
 

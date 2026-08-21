@@ -15,7 +15,7 @@ faq:
   a: 'De tool rekent met je feitelijke gasverbruik, en daarin zit het ketelrendement al verwerkt: die m³ heb je nodig gehad om je huis warm te krijgen. De vermeden m³ vertegenwoordigen dus geleverde warmte inclusief ketelverlies — dat is de eerlijke vergelijking, omdat de warmtepomp precies diezelfde warmtebehoefte moet dekken.'
 - q: 'De uitkomst is negatief. Doe ik iets verkeerd?'
   a: 'Niet noodzakelijk. Bij een lage SCOP, een hoge stroomprijs en een relatief lage gasprijs kan de rekening op jaarbasis inderdaad slechter uitpakken. Dat is precies de informatie waarvoor de tool bedoeld is. Kijk dan eerst naar isolatie en afgiftetemperatuur — die verhogen de SCOP — voordat je een toestel bestelt.'
-lastmod: 2026-08-20
+lastmod: 2026-08-21
 ---
 
 *Wij hebben geen affiliate- of samenwerkingsrelatie met warmtepompfabrikanten of -installateurs. Deze pagina bevat dus geen affiliate-links naar warmtepompen; de rekentool rekent uitsluitend met de waarden die jij invult.*
@@ -63,8 +63,8 @@ De terugverdientijd kun je pas berekenen met een **echt offertebedrag**. Wij vul
     </div>
     <div>
       <label for="wp-gasprijs" style="display:block;font-weight:600;margin-bottom:.3rem;">Gasprijs all-in (€/m³)</label>
-      <input id="wp-gasprijs" type="number" min="0" max="5" step="0.01" value="1.53" oninput="wpReken()" style="width:100%;padding:.5rem;border:1px solid #ccc;border-radius:6px;font:inherit;">
-      <span id="wp-gas-hint" style="font-size:.8rem;color:#666;">Wordt geladen: kale dagprijs van de gasbeurs + € 0,7268 energiebelasting incl. btw (2026) + de opslag hieronder.</span>
+      <input id="wp-gasprijs" type="number" min="0" max="5" step="0.01" value="1.10" oninput="wpReken()" style="width:100%;padding:.5rem;border:1px solid #ccc;border-radius:6px;font:inherit;">
+      <span id="wp-gas-hint" style="font-size:.8rem;color:#666;">Startwaarde € 1,10/m³ (rekenconstante van deze site). Wordt geladen: kale dagprijs van de gasbeurs + € 0,7268 energiebelasting incl. btw (2026) + de opslag hieronder.</span>
     </div>
     <div>
       <label for="wp-gasopslag" style="display:block;font-weight:600;margin-bottom:.3rem;">Leveranciersopslag gas (€/m³)</label>
@@ -73,8 +73,8 @@ De terugverdientijd kun je pas berekenen met een **echt offertebedrag**. Wij vul
     </div>
     <div>
       <label for="wp-stroomprijs" style="display:block;font-weight:600;margin-bottom:.3rem;">Stroomprijs all-in (€/kWh)</label>
-      <input id="wp-stroomprijs" type="number" min="0" max="2" step="0.005" value="0.32" oninput="wpReken()" style="width:100%;padding:.5rem;border:1px solid #ccc;border-radius:6px;font:inherit;">
-      <span id="wp-stroom-hint" style="font-size:.8rem;color:#666;">Wordt geladen: daggemiddelde van de uurprijzen + € 0,11085 energiebelasting incl. btw (2026) + de opslag hieronder.</span>
+      <input id="wp-stroomprijs" type="number" min="0" max="2" step="0.005" value="0.26" oninput="wpReken()" style="width:100%;padding:.5rem;border:1px solid #ccc;border-radius:6px;font:inherit;">
+      <span id="wp-stroom-hint" style="font-size:.8rem;color:#666;">Startwaarde € 0,26/kWh (rekenconstante van deze site). Wordt geladen: daggemiddelde van de uurprijzen + € 0,11085 energiebelasting incl. btw (2026) + de opslag hieronder.</span>
     </div>
     <div>
       <label for="wp-stroomopslag" style="display:block;font-weight:600;margin-bottom:.3rem;">Leveranciersopslag stroom (€/kWh)</label>

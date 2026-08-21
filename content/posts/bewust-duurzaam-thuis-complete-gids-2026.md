@@ -28,7 +28,7 @@ faq:
 - q: Wat kost een complete verduurzaming gemiddeld?
   a: 'Voor een rijtjeshuis bouwjaar 1980: €25.000 tot €45.000 voor isolatie + zonnepanelen + hybride warmtepomp. Volledige all-electric met thuisbatterij: €40.000 tot €65.000. Wat de ISDE daarvan dekt, hangt af van welke maatregelen je uitvoert en van het bedrag per maatregel; dat zoek je op via de apparatenlijst en rekentool op rvo.nl. Zonnepanelen, thuisbatterijen en laadpalen vallen niet onder de ISDE.'
 - q: Welke subsidies zijn er in 2026?
-  a: 'Eigenaar-bewoners vallen onder de ISDE: warmtepomp, zonneboiler, isolatie, ventilatie in combinatie met isolatie, warmtenetaansluiting en elektrisch koken, met een bedrag per maatregel (zie rvo.nl) en hogere bedragen bij twee of meer maatregelen. VvE''s vallen onder de SVVE. Daarnaast zijn er gemeentelijke regelingen (variabel) en de verduurzamingshypotheek met lagere rente. BTW op zonnepanelen blijft 0%. De oude SEEH is per eind 2022 gesloten.'
+  a: 'Eigenaar-bewoners vallen onder de ISDE: warmtepomp, zonneboiler, isolatie, ventilatie in combinatie met isolatie, warmtenetaansluiting en elektrisch koken, met een bedrag per maatregel (zie rvo.nl) en een verdubbeling van dat bedrag bij twee of meer maatregelen binnen 24 maanden. VvE''s vallen onder de SVVE. Daarnaast zijn er gemeentelijke regelingen (variabel) en de verduurzamingshypotheek met lagere rente. BTW op zonnepanelen blijft 0%. De oude SEEH is per eind 2022 gesloten.'
 - q: Verdien je de investering ooit terug?
   a: 'In modelberekeningen met een stroomprijs van €0,26/kWh en een gasprijs van €1,10/m³ komen isolatiemaatregelen doorgaans op 6 tot 9 jaar uit, zonnepanelen op 7 tot 10 jaar, een warmtepomp op 12 tot 18 jaar vóór subsidie en een thuisbatterij op 9 tot 14 jaar. Twee waarschuwingen: de ISDE korting de warmtepomptermijn in, maar met welk bedrag hangt van je typenummer af (rvo.nl), en vanaf 2027 telt bij zonnepanelen alleen nog zelfverbruik plus de terugleververgoeding mee — saldering is er dan niet meer.'
 - q: Is een warmtepomp zinvol zonder goede isolatie?
@@ -49,7 +49,6 @@ faq:
   a: 'Binnen een VvE kun je zelf alleen klein werk doen: HR++ glas (indien toegestaan), inductie koken, water besparen en eventueel balkonpanelen. Voor balkonpanelen heb je vrijwel altijd toestemming van de VvE nodig, want ze veranderen het aanzicht van het gebouw; hoeveel VvE''s dat toestaan is niet uit publieke cijfers bekend, dus reken er niet op dat het vanzelf gaat. Voor een zonnedak of een collectieve warmtepomp moet de VvE besluiten — daarvoor bestaan de SVVE (voor de VvE zelf) en de SCE (voor collectieve opwek).'
 schema_type: Article
 last_updated: '2026-10-14'
-category: verduurzamen
 ---
 
 Een rijtjeshuis uit de jaren tachtig met energielabel F en een winterse gasrekening van honderden euro's per maand is in drie jaar volledig van het gas af te halen, zonder dat je in één keer een verbouwing van vijftig mille aangaat. Er zit geen truc achter: het gaat om de juiste volgorde van maatregelen, een paar goed onderbouwde keuzes en het geduld om niet alles tegelijk te willen. Deze gids zet die volgorde op een rij, met de rekenregels waarmee je elke stap voor je eigen woning kunt doorrekenen.
@@ -79,7 +78,7 @@ Wie deze volgorde negeert en bijvoorbeeld eerst een warmtepomp installeert in ee
 
 Een huis isoleren is saai. Er hangt geen flitsende app aan, je laat het niet aan visite zien, en de installateur graaft drie weken in je gevel. Maar isolatie is in 2026 nog steeds de maatregel met de hoogste besparing per geïnvesteerde euro: gemiddeld 6 tot 9 jaar terugverdientijd, daarna 20+ jaar gratis besparing.
 
-Dakisolatie is doorgaans de maatregel met de kortste terugverdientijd. Bij een ongeïsoleerd dak van een rijtjeshuis levert een isolatiepakket van 12 cm PIR (Rd rond 5,4) een besparing op die in de orde van vele honderden kubieke meters gas per jaar ligt. Reken het door met je eigen cijfers: het aandeel van je warmtevraag dat via het dak weglekt, maal je gasverbruik, maal je gasprijs. In dit artikel rekenen wij consequent met **€1,10 per m³ gas** en **€0,26 per kWh stroom** — beide all-in inclusief energiebelasting en btw, en beide een aanname; vul je eigen tarieven in als die afwijken. Bespaar je op die manier 600 m³ gas op een investering van €4.200, dan zit je vóór subsidie rond de zes jaar. De ISDE korting daar nog wat af, maar het bedrag hangt af van de maatregel en staat op rvo.nl; let op dat je isolatiesubsidie ná uitvoering aanvraagt, binnen twaalf maanden.
+Dakisolatie is doorgaans de maatregel met de kortste terugverdientijd. Bij een ongeïsoleerd dak van een rijtjeshuis levert een isolatiepakket van 12 cm PIR (Rd rond 5,4) een besparing op die in de orde van vele honderden kubieke meters gas per jaar ligt. Reken het door met je eigen cijfers: het aandeel van je warmtevraag dat via het dak weglekt, maal je gasverbruik, maal je gasprijs. In dit artikel rekenen wij consequent met **€1,10 per m³ gas** en **€0,26 per kWh stroom** — beide all-in inclusief energiebelasting en btw, en beide een aanname; vul je eigen tarieven in als die afwijken. Bespaar je op die manier 600 m³ gas op een investering van €4.200, dan zit je vóór subsidie rond de zes jaar. De ISDE korting daar nog wat af, maar het bedrag hangt af van de maatregel en staat op rvo.nl; let op dat je isolatiesubsidie ná uitvoering aanvraagt, binnen 24 maanden.
 
 **De juiste volgorde voor isolatie:**
 
@@ -88,7 +87,7 @@ Dakisolatie is doorgaans de maatregel met de kortste terugverdientijd. Bij een o
 - **Vloerisolatie**: vaak vergeten maar levert 8-12% besparing, kosten €25-€45 per m². Bij kruipruimte met bodemfolie + spouwvulling
 - **Spouwmuurisolatie**: alleen als de spouw open is en niet vochtig. €1.200-€2.500 voor doorsnee tussenwoning
 
-Let op welke regeling voor jou geldt: de **SVVE is uitsluitend voor VvE's** en andere verenigingen van eigenaars. Ben je eigenaar-bewoner van een eengezinswoning, dan loopt isolatie via de **ISDE**, met een bedrag per maatregel (op te zoeken op rvo.nl) en een hoger bedrag zodra je twee of meer maatregelen combineert. Aanvragen doe je ná uitvoering, binnen twaalf maanden. Alle details staan in [de complete gids isolatie-subsidies 2026](/posts/isolatie-subsidie-nederland-2026/) — let ook op de eis dat de werkbon van een erkend installatiebedrijf moet komen.
+Let op welke regeling voor jou geldt: de **SVVE is uitsluitend voor VvE's** en andere verenigingen van eigenaars. Ben je eigenaar-bewoner van een eengezinswoning, dan loopt isolatie via de **ISDE**, met een bedrag per maatregel (op te zoeken op rvo.nl) en een verdubbeling van het bedrag zodra je binnen 24 maanden twee of meer maatregelen combineert. Aanvragen doe je ná uitvoering, binnen 24 maanden. Alle details staan in [de complete gids isolatie-subsidies 2026](/posts/isolatie-subsidie-nederland-2026/) — let ook op de eis dat de werkbon van een erkend installatiebedrijf moet komen.
 
 Voor wie elektrisch gaat koken na isolatie: zie ook [inductie versus gas koken](/posts/elektrisch-koken-inductie-vs-gas-2026/) — een vaak vergeten stap die nodig is om uiteindelijk de gasaansluiting te kunnen schrappen.
 
@@ -144,7 +143,7 @@ Hier wordt de duurste fout gemaakt. De cv-installateur belt met de mededeling da
 2. **Volledige lucht/water-warmtepomp**: vervangt gas helemaal, vereist label B of beter. Investering €13.000-€22.000 inclusief 21% btw
 3. **Bodemwarmtepomp**: hoogste rendement (COP 4,5+), hoogste investering €20.000-€35.000. Pas vanaf 200 m² of bij weinig dakruimte
 
-Wij noemen hier bewust geen ISDE-bedragen. De RVO-pagina's zijn daarover onderling niet eenduidig, en het bedrag hangt af van het **typenummer** van het toestel dat je laat plaatsen. De route die werkt: zoek jouw model op in de RVO-apparatenlijst of rekentool, en vraag de subsidie **ná** installatie aan, binnen 24 maanden. Voor isolatie is dat binnen 12 maanden na uitvoering. Een combinatiebonus of een 30%-regeling bestaat niet.
+Wij noemen hier bewust geen ISDE-bedragen. De RVO-pagina's zijn daarover onderling niet eenduidig, en het bedrag hangt af van het **typenummer** van het toestel dat je laat plaatsen. De route die werkt: zoek jouw model op in de RVO-apparatenlijst of rekentool, en vraag de subsidie **ná** installatie aan, binnen 24 maanden. Voor isolatie geldt dezelfde termijn van 24 maanden na uitvoering. Wat wél bestaat, is een verdubbeling van het subsidiebedrag als je binnen 24 maanden twee of meer maatregelen uitvoert; een aparte "combinatiebonus" of een 30%-regeling bestaat niet.
 
 Voor wie nu een aflopende ketel heeft is de [hybride warmtepomp in 2026](/posts/beste-hybride-warmtepomp-2026/) vaak de slimste tussenstap. Bij een typisch rijtjeshuis bespaar je 60-65% gas zonder dat je hele installatie op de schop hoeft.
 
@@ -238,7 +237,7 @@ In 2026 lopen er meer subsidies dan ooit — en juist daarom raken mensen verstr
 
 **Belangrijkste subsidies:**
 
-- **ISDE** (eigenaar-bewoners): warmtepomp, zonneboiler, isolatie, ventilatie in combinatie met isolatie, warmtenetaansluiting, elektrisch koken. Bedrag per maatregel op rvo.nl; bij twee of meer maatregelen gelden hogere bedragen
+- **ISDE** (eigenaar-bewoners): warmtepomp, zonneboiler, isolatie, ventilatie in combinatie met isolatie, warmtenetaansluiting, elektrisch koken. Bedrag per maatregel op rvo.nl; bij twee of meer maatregelen binnen 24 maanden wordt het bedrag verdubbeld
 - **SVVE** (VvE's): isolatie, warmtetechnieken, energieadvies en oplaadpuntenadvies. Deze regeling kwam op 23 januari 2023 in de plaats van de oude SEEH, die tot en met 31 december 2022 aan te vragen was
 - **SCE** (collectieve zon): voor VvE's en buurtcoöperaties
 - **Gemeentelijke subsidies**: variabel, controleer eigen gemeente via energieloket

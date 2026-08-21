@@ -29,7 +29,7 @@ faq:
 - q: 'Wat is het verschil tussen apparaat- en montagekosten?'
   a: 'Het apparaat zelf (buiten- en binnenunit) kost 4.000-9.000 euro voor hybride en 7.000-13.000 euro voor all-electric. Montagekosten (arbeid, materiaal, leidingwerk) liggen op 2.500-5.000 euro. Daarnaast komen elektra-aanpassingen (groepenkast, kabel) van 800-2.500 euro en eventueel radiatorvervanging.'
 - q: 'Hoeveel ISDE-subsidie krijg ik in 2026?'
-  a: 'Dat hangt af van het specifieke apparaat: RVO publiceert het bedrag per typenummer op de ISDE-apparatenlijst. Het startbedrag voor een warmtepomp is in 2026 1.025 euro, met daarbovenop 200 euro labelbonus. Je vraagt de subsidie aan ná de installatie, binnen 24 maanden. De eis aan de uitvoerder is dat een bouwinstallatiebedrijf de volledige installatie doet — er bestaat geen register van RVO-erkende installateurs.'
+  a: 'Dat hangt af van het specifieke apparaat: RVO publiceert het bedrag per typenummer op de ISDE-apparatenlijst, met een rekentool erbij. Zoek het typenummer uit je offerte daar op. Je vraagt de subsidie aan ná de installatie, binnen 24 maanden; voer je binnen 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld. De eis aan de uitvoerder is dat een bouwinstallatiebedrijf de volledige installatie doet — er bestaat geen register van RVO-erkende installateurs.'
 - q: 'Moet de groepenkast vervangen worden voor een warmtepomp?'
   a: 'Bij een all-electric warmtepomp boven 6 kW vrijwel altijd. Een typische groepenkast uit een rijtjeshuis (3x25A of 1x40A) is meestal te krap. Reken op 800-2.500 euro voor groepenkast-uitbreiding inclusief eventuele krachtstroom-aanleg. Bij hybride is dit zelden nodig.'
 - q: 'Wat zit er meestal niet in de standaardofferte?'
@@ -138,7 +138,7 @@ Lees [vloerverwarming aanleggen kosten 2026](/posts/vloerverwarming-aanleggen-ko
 
 ## ISDE-subsidie 2026
 
-Het ISDE-bedrag hangt af van het specifieke apparaat en staat per typenummer op de apparatenlijst van RVO. Bedragen per merk of vermogensklasse zijn daarom niet in een artikel te vangen: ze verschillen per toestel en worden periodiek bijgesteld. Het startbedrag voor een warmtepomp is in 2026 €1.025, met daarbovenop €200 labelbonus.
+Het ISDE-bedrag hangt af van het specifieke apparaat en staat per typenummer op de apparatenlijst van RVO. Bedragen per merk of vermogensklasse zijn daarom niet in een artikel te vangen: ze verschillen per toestel en worden periodiek bijgesteld. Zoek het typenummer uit je offerte op in de apparatenlijst en de rekentool op rvo.nl. Combineer je binnen 24 maanden twee of meer maatregelen, dan wordt het subsidiebedrag verdubbeld.
 
 Voorwaarden:
 

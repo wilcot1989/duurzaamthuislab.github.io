@@ -106,16 +106,16 @@ Acht punten. Ontbreekt er één, dan is de offerte niet compleet genoeg om te te
 
 Onderstaande som is een **modelberekening met aannames**, geen offerte en geen meting bij een huishouden.
 
-*Aannames:* jaarverbruik 2.500 kWh; opbrengst 900 kWh per kWp per jaar; zelfverbruik zonder batterij 30 procent van de opwek; afnameprijs €0,30 per kWh; terugleververgoeding na afloop van de saldering €0,08 per kWh.
+*Aannames:* jaarverbruik 2.500 kWh; opbrengst 900 kWh per kWp per jaar; zelfverbruik zonder batterij 30 procent van de opwek; afnameprijs €0,26 per kWh all-in (sitebrede modelconstante: €0,105 EPEX-jaargemiddelde 2025 incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslag-aanname); terugleververgoeding na afloop van de saldering €0,07 per kWh (gelabelde aanname, tarieven voor 2027 zijn nog niet gepubliceerd).
 
 | | 2,5 kWp | 5,0 kWp |
 |---|---|---|
 | Opwek per jaar | 2.250 kWh | 4.500 kWh |
 | Direct zelf gebruikt (30%) | 675 kWh | 1.350 kWh |
 | Teruggeleverd | 1.575 kWh | 3.150 kWh |
-| Waarde zelfverbruik (€0,30) | €203 | €405 |
-| Waarde teruglevering (€0,08) | €126 | €252 |
-| **Opbrengst per jaar** | **€329** | **€657** |
+| Waarde zelfverbruik (€0,26) | €176 | €351 |
+| Waarde teruglevering (€0,07) | €110 | €221 |
+| **Opbrengst per jaar** | **€286** | **€572** |
 
 Het grotere pakket levert in dit model absoluut meer op, maar de tweede helft van de panelen verdient per kilowattuur minder dan de eerste, omdat die opwek grotendeels wordt teruggeleverd tegen het lage tarief. Verhoog je het zelfverbruik — met een batterij, een warmtepomp of gestuurd laden — dan verschuift die verhouding weer. Verander de aannames en de uitkomst verandert mee; dat is precies waarom een prognose zonder zichtbare aannames niets waard is.
 

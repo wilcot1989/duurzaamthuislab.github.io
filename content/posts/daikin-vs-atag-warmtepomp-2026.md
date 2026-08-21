@@ -36,7 +36,7 @@ faq:
 - q: Hoe zit het met de service?
   a: 'Daikin werkt in Nederland met een netwerk van erkende dealers; ATAG heeft een eigen Nederlandse organisatie en werkt met erkende installateurs. Bij beide merken bepaalt de partij die je uitkiest een groot deel van je ervaring: de installatiekwaliteit en het inregelen wegen zwaarder dan het merklogo. Vraag naar responstijden bij storing, of onderdelen op voorraad liggen, en hoe garantieafhandeling loopt — schriftelijk.'
 - q: Hoeveel ISDE-subsidie krijg ik?
-  a: 'Het startbedrag in 2026 is €1.025, plus €200 labelbonus als aan de voorwaarden daarvoor is voldaan. Het exacte bedrag hangt af van het toestel op de RVO-apparatenlijst, dus wij noemen geen bedragen per merk of model. Je vraagt aan ná installatie, binnen 24 maanden na de uitvoeringsdatum. Op de warmtepomp en de installatie geldt 21 procent btw; het nultarief geldt uitsluitend voor zonnepanelen.'
+  a: 'Het bedrag hangt af van het toestel: RVO publiceert per typenummer wat er bij hoort, met een rekentool erbij. Zoek het typenummer uit je offerte daar op; wij noemen geen bedragen per merk of model. Je vraagt aan ná installatie, binnen 24 maanden na de uitvoeringsdatum. Voer je binnen 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld. Op de warmtepomp en de installatie geldt 21 procent btw; het nultarief geldt uitsluitend voor zonnepanelen.'
 - q: Welk koudemiddel moet ik kiezen?
   a: 'De Europese F-gasverordening bouwt gefluoreerde koudemiddelen af. Toestellen op propaan (R290) zijn daarmee de bestendigere keuze: Daikin voert R290 in de Altherma 4-lijn, ATAG noemt R32 bij onder meer de Energion S en de hybride monoblock. R32 is niet verboden en blijft leverbaar, maar bij een toestel dat vijftien tot twintig jaar mee moet, is de beschikbaarheid van koudemiddel voor reparatie een reële afweging. Vraag welk koudemiddel in het aangeboden model zit.'
 - q: Wat moet ik doen voordat ik kies?
@@ -103,7 +103,7 @@ Vraag om een offerte waarin deze posten apart staan. Twee offertes met alleen ee
 
 Op een warmtepomp en de bijbehorende installatie geldt **21 procent btw**. Het nultarief geldt uitsluitend voor zonnepanelen en de onderdelen die daar direct voor nodig zijn. Een offerte die een warmtepomp "inclusief 0% btw" opvoert, klopt niet.
 
-Voor ISDE geldt in 2026 een startbedrag van **€1.025**, plus **€200 labelbonus** als aan de voorwaarden is voldaan. Het exacte bedrag hangt af van het toestel zoals dat op de RVO-apparatenlijst staat; wij noemen daarom geen bedragen per merk, model of vermogensklasse. **Je vraagt aan ná installatie**, binnen 24 maanden na de uitvoeringsdatum — niet vooraf.
+Het ISDE-bedrag hangt af van het toestel zoals dat op de RVO-apparatenlijst staat; wij noemen daarom geen bedragen per merk, model of vermogensklasse. Zoek het typenummer uit je offerte op in de apparatenlijst en de rekentool op rvo.nl. **Je vraagt aan ná installatie**, binnen 24 maanden na de uitvoeringsdatum — niet vooraf. Combineer je binnen 24 maanden twee of meer maatregelen, dan wordt het subsidiebedrag verdubbeld.
 
 Twee onjuistheden die hardnekkig rondgaan en die je gerust mag tegenspreken: er bestaat geen regel dat ISDE wordt afgewezen als je installateur niet een bepaald keurmerk heeft, en er bestaat geen "30 procent terug"-regeling. Controleer subsidievoorwaarden bij RVO en niet bij een verkoper.
 

@@ -107,7 +107,7 @@ Aan de aanschafkant wint infrarood met afstand: panelen kosten een fractie van e
 - **Btw.** Op infraroodpanelen geldt 21%, net als op warmtepompen. Het 0%-tarief bestaat alleen voor zonnepanelen en de onderdelen die daar direct voor nodig zijn — dus niet voor verwarmingspanelen. Een offerte zonder duidelijke btw-vermelding is een reden om door te vragen.
 - **Groepen in de meterkast.** Een paneel van 800 watt trekt ruim 3,5 ampère. Meerdere panelen op één bestaande lichtgroep gaat mis. Reken op een aparte groep, aangelegd door een erkend installateur.
 - **Regeling per ruimte.** Zonder thermostaat of slimme schakelaar per paneel draait de installatie langer dan nodig. Die regeling is een aparte post.
-- **Subsidie.** Voor een warmtepomp bestaat de ISDE in 2026 uit een startbedrag van € 1.025, plus € 225 per kW vermogen, plus € 200 energielabelbonus bij A+++ (bron: rvo.nl, opgehaald 21 augustus 2026), aan te vragen ná installatie binnen 24 maanden. Voor infrarood is er niets.
+- **Subsidie.** Voor een warmtepomp is er ISDE: het bedrag staat per typenummer in de apparatenlijst en rekentool op rvo.nl, en je vraagt het aan ná installatie, binnen 24 maanden. Voor infrarood is er niets.
 
 Het netto verschil in investering valt daarmee kleiner uit dan de bruto prijskaartjes suggereren — en dat verschil is bovendien eenmalig, terwijl het verbruiksverschil elk jaar terugkomt.
 

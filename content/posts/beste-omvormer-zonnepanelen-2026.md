@@ -362,9 +362,9 @@ Het verschil in rendement tussen de top omvormers is relatief klein: 97,5% tot 9
 | **Zonnepanelen** | 12x 420Wp | 12x 420Wp | 12x 420Wp | 12x 420Wp |
 | **Jaaropbrengst (geen schaduw)** | 4.940 kWh | 4.914 kWh | 4.200 kWh | 4.700 kWh |
 | **Verschil per jaar** | -- | -26 kWh | -740 kWh | -214 kWh |
-| **Financieel verschil (€0,30/kWh)** | -- | -€7,80/jaar | -€222/jaar | -€64/jaar |
+| **Financieel verschil (€0,26/kWh all-in, modelconstante)** | -- | -€6,80/jaar | -€192/jaar | -€56/jaar |
 
-De conclusie is duidelijk: bij een **schaduwvrij dak** maakt het type omvormer weinig verschil in opbrengst. Bij **schaduwproblemen** leveren micro-omvormers of optimizers honderden euro's per jaar meer op. Over 15 jaar kan dat oplopen tot **€2.000-€3.000 verschil**.
+De conclusie is duidelijk: bij een **schaduwvrij dak** maakt het type omvormer weinig verschil in opbrengst. Bij **schaduwproblemen** leveren micro-omvormers of optimizers in dit model circa **€135 per jaar** meer op. Over 15 jaar komt dat neer op ruwweg **€2.000 verschil**.
 
 ---
 

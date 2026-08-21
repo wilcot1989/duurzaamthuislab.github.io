@@ -43,7 +43,6 @@ products:
   price: '849'
 schema_type: Article
 last_updated: '2026-08-21'
-category: powerstations
 ---
 
 > **Kort antwoord:** De Bluetti AC180 is een solide 1152Wh LiFePO4-powerstation voor freelancers, campers en mensen die een thuisbackup willen voor een stroomstoring van een paar uur. Hij laadt snel, heeft Europese stopcontacten en een degelijke garantie. Geen UPS-modus, geen wifi-app en 17 kg zonder wieltjes zijn de voornaamste beperkingen. Voor puur mobiel werk of kortdurende backup in huis is het een verstandige keuze rond de duizend euro.

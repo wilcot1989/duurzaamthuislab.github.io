@@ -43,7 +43,7 @@ faq:
 - q: 'Is de warmtepomp op de ISDE-productlijst van RVO?'
   a: 'Controleer dit zelf op mijn.rvo.nl — niet alle warmtepompen staan op de lijst, ook al zijn het kwalitatief goede modellen.'
 - q: 'Wie vraagt de ISDE-subsidie aan?'
-  a: 'De aanvraag is jouw verantwoordelijkheid; een installateur mag hem met een machtiging voor je indienen. Leg dat schriftelijk vast, want anders blijft het liggen. En let op de volgorde en de termijn: aanvragen doe je ná de installatie, binnen 24 maanden (bij isolatie geldt 12 maanden na uitvoering). Een aanvraag vóór de installatie wordt afgewezen.'
+  a: 'De aanvraag is jouw verantwoordelijkheid; een installateur mag hem met een machtiging voor je indienen. Leg dat schriftelijk vast, want anders blijft het liggen. En let op de volgorde en de termijn: aanvragen doe je ná de installatie, binnen 24 maanden (bij isolatie geldt dezelfde termijn van 24 maanden na uitvoering). Een aanvraag vóór de installatie wordt afgewezen.'
 schema_type: Article
 ---
 Full-electric of hybride: het is de kernvraag voor iedere huiseigenaar die van de gasketel af wil. Voor een woning met energielabel C, deels dubbel glas en gewone radiatoren zijn de omstandigheden voor een full-electric warmtepomp niet ideaal — en juist dan wordt een hybride opstelling financieel interessant. Maar dat geldt niet voor elke woning.

@@ -53,7 +53,6 @@ products:
   price: '3299'
 schema_type: Article
 last_updated: '2026-08-21'
-category: powerstations
 ---
 
 *Volledige vergelijking van alle typen: [beste draagbare powerstation 2026](/posts/beste-draagbare-powerstation-2026/) — deze pagina is de keuzehulp voor noodstroom bij stroomuitval.*

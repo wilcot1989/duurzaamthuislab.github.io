@@ -42,7 +42,6 @@ faq:
     a: 'Bij beide wordt teruggeleverde stroom afgerekend tegen de uurprijs van dat moment, dus de systematiek verandert nauwelijks. Let bij Frank Energie wel op de terugleverstaffel die sinds 1 juni 2025 geldt. De salderingsregeling stopt volledig per 1 januari 2027; er is geen afbouwpad.'
 schema_type: Article
 last_updated: '2026-08-21'
-category: energiecontracten
 ---
 
 Tibber of Frank Energie? Op papier lijken ze sterk op elkaar: twee dynamische leveranciers die de uurprijs van de markt doorgeven en die zich richten op huishoudens met flexibel verbruik. Het verschil zit in de tarieven die ze publiceren, in wat hun app kan, en in de vraag of je die functies daadwerkelijk gaat gebruiken.

@@ -331,17 +331,17 @@ Veel offertes rekenen met zes tot acht jaar. Hoe hard dat is, hangt volledig van
 - All-in prijs: €9.000
 - Jaarproductie: 5.200 kWh (zuid, 35 graden)
 - Eigen verbruik: 50 procent (2.600 kWh), teruggeleverd 2.600 kWh
-- Afnameprijs: €0,30/kWh
+- Afnameprijs: €0,26/kWh all-in (sitebrede modelconstante: EPEX-jaargemiddelde 2025 €0,105 incl. btw + energiebelasting €0,11085 incl. btw + €0,044 opslag-aanname)
 
-**Zolang de saldering loopt (tot en met 2026)** wordt de teruggeleverde stroom weggestreept tegen afname. De hele productie is dan de afnameprijs waard: 5.200 × €0,30 = €1.560 per jaar, minus de terugleverkosten die je leverancier rekent. Reken in dit model met circa €1.400 netto.
+**Zolang de saldering loopt (tot en met 2026)** wordt de teruggeleverde stroom weggestreept tegen afname. De hele productie is dan de afnameprijs waard: 5.200 × €0,26 = €1.352 per jaar, minus de terugleverkosten die je leverancier rekent. Reken in dit model met circa €1.200 netto.
 
 **Vanaf 1 januari 2027** valt dat weg:
 
-- Eigen verbruik: 2.600 × €0,30 = €780
-- Teruglevering: 2.600 × €0,05 = €130
-- Totaal: **€910 per jaar**
+- Eigen verbruik: 2.600 × €0,26 = €676
+- Teruglevering: 2.600 × €0,07 = €182 (terugleveraanname 2027 — gelabelde aanname, de tarieven voor 2027 zijn nog niet gepubliceerd)
+- Totaal: **€858 per jaar**
 
-Over de volledige levensduur komt de gemiddelde jaaropbrengst in dit model daarmee rond de €950 uit, en de terugverdientijd op **negen à tien jaar** — niet de zes jaar waarmee vaak gerekend wordt.
+Over de volledige levensduur komt de gemiddelde jaaropbrengst in dit model daarmee rond de €880 uit, en de terugverdientijd op **tien à elf jaar** — niet de zes jaar waarmee vaak gerekend wordt.
 
 Wil je die uitkomst verbeteren, dan is er maar één knop die er echt toe doet: het aandeel eigen verbruik. Dat is precies waarom een warmtepomp, een EV of een thuisbatterij de rekensom na 2027 verandert.
 

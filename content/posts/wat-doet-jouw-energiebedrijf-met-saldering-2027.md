@@ -39,7 +39,6 @@ faq:
     a: 'De salderingsregeling stopt volledig; er is geen afbouwpad. Je mag je teruglevering dan niet meer wegstrepen tegen je afname. In plaats daarvan krijg je voor elke teruggeleverde kWh een vergoeding van je leverancier, en betaal je daarnaast terugleverkosten. Zelf verbruiken op het moment van opwek wordt daarmee financieel het gunstigst.'
 schema_type: Article
 last_updated: '2026-08-21'
-category: saldering
 ---
 
 *Disclosure: de links naar Eneco, Essent, Greenchoice, Tibber en Vattenfall in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en ontvangen voor deze links geen vergoeding.*

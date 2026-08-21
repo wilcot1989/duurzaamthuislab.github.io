@@ -91,15 +91,15 @@ Het gevolg voor deze vergelijking is dat het verschil tussen leveringstarief en 
 
 Onderstaande som is een **modelberekening met expliciete aannames**, geen gemeten uitkomst en geen belofte. Vervang de aannames door je eigen cijfers.
 
-Aannames: een leveringstarief van €0,30/kWh, een terugleververgoeding van €0,05/kWh na het wegvallen van de saldering, en een rendementsverlies van tien procent per laad-/ontlaadcyclus.
+Aannames: een leveringstarief van €0,26/kWh all-in (sitebrede modelconstante: €0,105 EPEX-jaargemiddelde 2025 incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslag-aanname), een terugleververgoeding van €0,07/kWh na het wegvallen van de saldering (gelabelde aanname — de tarieven voor 2027 zijn nog niet gepubliceerd), en een rendementsverlies van tien procent per laad-/ontlaadcyclus.
 
 | Verschoven per jaar | Bruto voordeel | Na 10% cyclusverlies |
 |---|---|---|
-| 1.000 kWh | €250 | €225 |
-| 2.000 kWh | €500 | €450 |
-| 3.000 kWh | €750 | €675 |
+| 1.000 kWh | €190 | €171 |
+| 2.000 kWh | €380 | €342 |
+| 3.000 kWh | €570 | €513 |
 
-Zet daar de all-in investering uit je offerte tegenover en je hebt een terugverdientijd. Bij een systeem van €6.000 en 2.000 verschoven kilowattuur is dat ruim dertien jaar; bij 3.000 kilowattuur bijna negen. De gevoeligste variabele is dus niet het merk, maar hoeveel je daadwerkelijk verschuift — en dat hangt af van je verbruikspatroon, niet van de folder. Reken je eigen situatie door met onze [terugverdientijdberekening](/posts/thuisbatterij-terugverdientijd-berekenen-2026/).
+Zet daar de all-in investering uit je offerte tegenover en je hebt een terugverdientijd. Bij een systeem van €6.000 en 2.000 verschoven kilowattuur is dat ruim zeventien jaar; bij 3.000 kilowattuur bijna twaalf. De gevoeligste variabele is dus niet het merk, maar hoeveel je daadwerkelijk verschuift — en dat hangt af van je verbruikspatroon, niet van de folder. Reken je eigen situatie door met onze [terugverdientijdberekening](/posts/thuisbatterij-terugverdientijd-berekenen-2026/).
 
 ## Vijf fouten die de aanschaf duur maken
 

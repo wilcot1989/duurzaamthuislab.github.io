@@ -246,7 +246,7 @@ Hier is een beslisboom op basis van profiel:
 Om te laten zien hoe de drie maatregelen samen uitpakken, rekenen we een compleet profiel door. Let op: dit is een **modelberekening**, geen gemeten resultaat. Uitgangspunt: 16 panelen (5,6 kWp, zuid en oost-west), lucht-water warmtepomp van 6 kW, geen EV, jaarverbruik 4.500 kWh, jaarteruglevering 4.100 kWh onder saldering.
 
 **Aannames en maatregelen:**
-1. **Dynamisch contract** in plaats van vast. In ons model daalt de effectieve stroomprijs met sturing van €0,26 naar €0,243/kWh; bij 4.500 kWh afname is dat €77 per jaar. Vergelijk je met een vast contract van €0,32/kWh, dan is het verschil groter — maar dat vaste tarief is een aanname, dus vul in wat je zelf kunt krijgen.
+1. **Dynamisch contract** in plaats van vast. In ons model daalt de effectieve stroomprijs met sturing van €0,26 naar €0,243/kWh; bij 4.500 kWh afname is dat €77 per jaar. Vergelijk je met een vast contract van €0,32/kWh, dan is het verschil groter — maar dat vaste tarief is een aanname, dus vul in wat je zelf kunt krijgen. Bij €0,28/kWh verdwijnt het voordeel van passief dynamisch afnemen volledig.
 2. **Thuisbatterij 10 kWh**: €5.500 incl. btw, exclusief installatie (sessy.nl, peildatum 21 augustus 2026). Op een thuisbatterij geldt 21% btw — het nultarief voor zonnepanelen geldt hier niet. Een landelijke subsidie bestaat niet: de ISDE dekt thuisbatterijen niet. Sommige gemeenten hebben een eigen regeling; check de subsidiechecker van jouw gemeente in plaats van met een bedrag te rekenen.
 3. **Slimme sturing** via Home Assistant of een vergelijkbaar systeem: boiler en witgoed op gunstige tarieven.
 

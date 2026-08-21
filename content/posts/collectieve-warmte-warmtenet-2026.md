@@ -167,7 +167,7 @@ Warmteleveranciers zijn gebonden aan regels over ononderbroken levering en compe
 
 **Als het lokale net op aardgas draait.** Dan kies je met het warmtenet bewust voor fossiele warmte, terwijl een warmtepomp meebeweegt met de vergroening van het elektriciteitsnet.
 
-Voor de eigen warmtepomp geldt bovendien de ISDE: in 2026 een startbedrag van € 1.025, plus € 225 per kW vermogen, plus € 200 energielabelbonus bij een A+++-label (bron: rvo.nl, opgehaald 21 augustus 2026). Aanvragen doe je ná installatie, binnen 24 maanden, en het toestel moet met het volledige typenummer op de meldcodelijst van RVO staan. Op de warmtepomp betaal je 21% btw; het 0%-tarief geldt alleen voor zonnepanelen.
+Voor de eigen warmtepomp geldt bovendien de ISDE. Het bedrag hangt af van het typenummer van het toestel: zoek dat op in de apparatenlijst en rekentool op rvo.nl. Aanvragen doe je ná installatie, binnen 24 maanden, en het toestel moet met het volledige typenummer op de meldcodelijst van RVO staan. Voer je binnen 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld. Op de warmtepomp betaal je 21% btw; het 0%-tarief geldt alleen voor zonnepanelen.
 
 ## Het afhankelijkheidsrisico
 

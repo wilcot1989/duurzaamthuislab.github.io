@@ -32,7 +32,6 @@ products:
   url: https://go.duurzaamthuislab.nl/tibber
 schema_type: Article
 last_updated: '2026-08-21'
-category: zonnepanelen
 ---
 
 Een offerte van €5.350 voor 14 panelen (5.880 Wp) inclusief omvormer en montage, en dan de vraag: kan dit nog wel, nu de saldering stopt? Het is de meest gestelde vraag over zonnepanelen in 2026, en het antwoord is: ja, maar je moet anders rekenen dan vijf jaar geleden.

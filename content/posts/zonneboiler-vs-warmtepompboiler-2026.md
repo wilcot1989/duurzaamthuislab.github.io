@@ -304,7 +304,7 @@ Wij noemen in dit artikel bewust geen subsidiebedragen. De reden: het bedrag han
 2. Noteer het bedrag dat daar bij dat typenummer staat, mét de datum waarop je het hebt opgezocht.
 3. Neem dat bedrag mee in je eigen berekening — niet een bedrag uit een koopgids.
 
-**Volgorde van aanvragen.** Voor een warmtepompboiler of zonneboiler vraag je de ISDE aan **ná installatie**, binnen **24 maanden** na de installatiedatum. Voor isolatiemaatregelen is het ná uitvoering, binnen 12 maanden. Je hoeft dus niet te wachten met installeren, maar je moet de factuur en het betaalbewijs bewaren.
+**Volgorde van aanvragen.** Voor een warmtepompboiler of zonneboiler vraag je de ISDE aan **ná installatie**, binnen **24 maanden** na de installatiedatum. Voor isolatiemaatregelen geldt dezelfde termijn: ná uitvoering, binnen 24 maanden. Voer je binnen 24 maanden twee of meer maatregelen uit, dan wordt het subsidiebedrag verdubbeld. Je hoeft dus niet te wachten met installeren, maar je moet de factuur en het betaalbewijs bewaren.
 
 Huurders kunnen zelf geen ISDE aanvragen; dat loopt via de verhuurder. Voor VvE's is de SVVE de route. De oude SEEH (Subsidie Energiebesparing Eigen Huis) is per eind 2022 gesloten en bestaat dus niet meer.
 

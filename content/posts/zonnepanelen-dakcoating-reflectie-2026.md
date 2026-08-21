@@ -124,16 +124,16 @@ Overweeg je een lichte dakbedekking mede vanwege de PV-opbrengst, kies dan bewus
 
 Onderstaande som is een **modelberekening met expliciete aannames**, bedoeld om de structuur te laten zien — niet om als uitkomst te worden overgenomen.
 
-*Aannames:* een plat dak van 80 m² met een PV-systeem van 8 kWp; een jaaropbrengst van 900 kWh per kWp, dus 7.200 kWh per jaar in de uitgangssituatie; een opbrengstwinst door de lichte coating van 5 procent (een aanname, geen meting); 60 procent van de opwek wordt zelf verbruikt tegen €0,30 per kWh en 40 procent wordt teruggeleverd tegen €0,08 per kWh.
+*Aannames:* een plat dak van 80 m² met een PV-systeem van 8 kWp; een jaaropbrengst van 900 kWh per kWp, dus 7.200 kWh per jaar in de uitgangssituatie; een opbrengstwinst door de lichte coating van 5 procent (een aanname, geen meting); 60 procent van de opwek wordt zelf verbruikt tegen €0,26 per kWh all-in (sitebrede modelconstante: €0,105 EPEX-jaargemiddelde 2025 incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslag-aanname) en 40 procent wordt teruggeleverd tegen €0,07 per kWh (gelabelde terugleveraanname voor 2027).
 
 - Extra opbrengst: 7.200 × 5% = 360 kWh per jaar
-- Waarde zelfverbruikt deel: 360 × 0,60 × €0,30 = €65
-- Waarde teruggeleverd deel: 360 × 0,40 × €0,08 = €12
-- **Extra opbrengst per jaar: ongeveer €77**
+- Waarde zelfverbruikt deel: 360 × 0,60 × €0,26 = €56
+- Waarde teruggeleverd deel: 360 × 0,40 × €0,07 = €10
+- **Extra opbrengst per jaar: ongeveer €66**
 
 Leg daar een investering naast die voor een professionele coating op 80 m² al snel in de duizenden euro's loopt, en de conclusie is onontkoombaar: **een dakcoating verdient zichzelf niet terug uit PV-opbrengst alleen.** De terugverdientijd overschrijdt in dit model de levensduur van de coating, en dat blijft zo bij elke redelijke variatie op de aannames.
 
-Neem je in plaats van 5 procent een optimistische 10 procent, dan verdubbelt de jaarlijkse opbrengst naar ongeveer €154 en blijft de conclusie overeind. Dat is het nuttige van deze som: hij is robuust tegen de onzekerheid in de aanname.
+Neem je in plaats van 5 procent een optimistische 10 procent, dan verdubbelt de jaarlijkse opbrengst naar ongeveer €132 en blijft de conclusie overeind. Dat is het nuttige van deze som: hij is robuust tegen de onzekerheid in de aanname.
 
 ### Waar de som wél uitkomt
 

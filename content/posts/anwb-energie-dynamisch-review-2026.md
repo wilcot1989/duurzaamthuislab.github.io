@@ -35,7 +35,7 @@ faq:
 - q: Wat als je wilt overstappen?
   a: 'ANWB regelt de opzegging bij je vorige leverancier. Volgens de eigen site geldt een opzegtermijn van 30 dagen zonder boete (peildatum 21 augustus 2026). Zit je nog in een lopend vast contract, check dan eerst de opzegvergoeding daar: de ACM begrenst die tot €50 tot €125 per energievorm.'
 - q: Wat is de jaarbesparing vs een vast contract?
-  a: 'Dat hangt volledig af van je verbruik en van het vaste maandbedrag dat ANWB jou rekent. In onze modelberekening hieronder (3.500 kWh, EPEX-jaargemiddelde 2025 van €0,105/kWh incl. btw) komt het variabele deel bij ANWB op circa €818 per jaar tegen €1.050 bij een vast contract van €0,30/kWh all-in. Tel daar de vaste kosten van beide contracten bij op voordat je de besparing hard maakt.'
+  a: 'Dat hangt volledig af van je verbruik en van het vaste maandbedrag dat ANWB jou rekent. In onze modelberekening hieronder (3.500 kWh, EPEX-jaargemiddelde 2025 van €0,105/kWh incl. btw) komt het variabele deel bij ANWB op circa €818 per jaar tegen €1.120 bij een vast contract van €0,32/kWh all-in. Die €0,32 is een gelabelde aanname: ligt het vaste tarief dat jij kunt krijgen op €0,28, dan verdwijnt het voordeel van passief dynamisch afnemen vrijwel volledig. Tel daar de vaste kosten van beide contracten bij op voordat je de besparing hard maakt.'
 - q: Wat zijn de nadelen?
   a: 'Drie zaken: (1) de inkoopkosten van €0,018/kWh maken ANWB per kWh duurder dan Frank, (2) er is geen open API en geen native slim laden voor EV''s, (3) het vaste termijnbedrag vlakt je cashflow maar verlaagt je jaarkosten niet — een dure winter kom je bij de jaarafrekening alsnog tegen.'
 schema_type: Review
@@ -97,7 +97,7 @@ Onderstaand een **modelberekening**, geen meting. De aannames staan er expliciet
 | Inkoopvergoeding Tibber | €0,0248/kWh incl. btw | tibber.com, peildatum 21 augustus 2026 |
 | Vaste kosten Tibber | €5,99/mnd per energiesoort (hier: alleen stroom, €72/jaar) | tibber.com |
 | Marge Frank op EPEX | €0,00/kWh; vaste kosten niet publiek | frankenergie.nl |
-| Benchmark vast contract | €0,30/kWh all-in | modelaanname — een vast contract bevat een risicopremie en ligt daarom boven het dynamische tarief |
+| Benchmark vast contract | €0,32/kWh all-in | modelaanname — een vast contract bevat een risicopremie en ligt daarom boven het dynamische tarief. Gevoelig: bij €0,28/kWh verdwijnt het voordeel van passief dynamisch afnemen volledig |
 
 Netbeheerkosten laten wij buiten de vergelijking: dat is een vast jaarbedrag dat bij elke leverancier hetzelfde is.
 
@@ -113,7 +113,7 @@ Ter oriëntatie hanteren wij op deze site een all-in modelconstante van **€0,2
 
 | Contract | Variabele kosten | Vaste kosten | Totaal |
 |---|---|---|---|
-| Vast contract €0,30/kWh | €840 | n.v.t. | €840 |
+| Vast contract €0,32/kWh | €896 | n.v.t. | €896 |
 | ANWB Dynamisch | €655 | zie anwb.nl | €655 + vast bedrag |
 | Tibber | €674 | €72 | €746 |
 | Frank Energie | €604 | zie frankenergie.nl | €604 + vast bedrag |
@@ -122,7 +122,7 @@ Ter oriëntatie hanteren wij op deze site een all-in modelconstante van **€0,2
 
 | Contract | Variabele kosten | Vaste kosten | Totaal |
 |---|---|---|---|
-| Vast contract €0,30/kWh | €1.050 | n.v.t. | €1.050 |
+| Vast contract €0,32/kWh | €1.120 | n.v.t. | €1.120 |
 | ANWB Dynamisch | €818 | zie anwb.nl | €818 + vast bedrag |
 | Tibber | €842 | €72 | €914 |
 | Frank Energie | €755 | zie frankenergie.nl | €755 + vast bedrag |
@@ -131,7 +131,7 @@ Ter oriëntatie hanteren wij op deze site een all-in modelconstante van **€0,2
 
 | Contract | Variabele kosten | Vaste kosten | Totaal |
 |---|---|---|---|
-| Vast contract €0,30/kWh | €1.560 | n.v.t. | €1.560 |
+| Vast contract €0,32/kWh | €1.664 | n.v.t. | €1.664 |
 | ANWB Dynamisch | €1.216 | zie anwb.nl | €1.216 + vast bedrag |
 | Tibber | €1.251 | €72 | €1.323 |
 | Frank Energie | €1.122 | zie frankenergie.nl | €1.122 + vast bedrag |
