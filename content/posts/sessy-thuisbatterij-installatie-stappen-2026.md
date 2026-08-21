@@ -1,9 +1,9 @@
 ---
 title: 'Sessy installatie 2026: stappen, wachttijd en eerste week'
 date: 2026-11-05 08:00:00+01:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
-description: 'Sessy laten installeren? Elke stap van bestelling tot eerste week: wachttijden, voorbereiding, groep, app-setup en kosten.'
+description: 'Sessy laten installeren? Elke stap van bestelling tot eerste week: voorbereiding, groep, locatie-eisen, app-setup en wat de installatie bovenop de €3.550 kost.'
 keywords:
 - Sessy installatie
 - Sessy thuisbatterij stappen
@@ -14,7 +14,8 @@ keywords:
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1620714223084-8fcacc6dfd8d&w=1200&output=webp&q=70
-category: thuisbatterij
+categories:
+- thuisbatterijen
 tags:
 - Sessy
 - thuisbatterij
@@ -22,362 +23,341 @@ tags:
 - stappenplan
 - dynamisch contract
 products:
-- name: Sessy
+- name: Sessy 5 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '2495'
-- name: Tibber
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '0'
-- name: Frank Energie
-  url: https://go.duurzaamthuislab.nl/frank-energie
-  price: '0'
+  price: '3550'
+- name: Sessy 10 kWh
+  url: https://go.duurzaamthuislab.nl/sessy
+  price: '5500'
 schema_type: Article
-last_updated: '2026-08-19'
+last_updated: '2026-08-21'
 faq:
 - q: 'Hoelang duurt een Sessy-installatie zelf?'
-  a: 'De fysieke installatie duurt 2-4 uur. Voorbereiding (voorbespreking, locatie-bepaling, groep-check) en nazorg (app-koppeling, eerste optimalisatie-instellingen) samen nog eens 2 uur. Totaal dus zo n hele ochtend of middag.'
-- q: 'Hoelang is de wachttijd na bestelling in 2026?'
-  a: 'Bij Sessy direct via hun website: 4-8 weken voor levering, daarna 2-6 weken voor installatie afhankelijk van regio. Totale doorlooptijd 6-14 weken. Bij installateurs zoals Solartoday of GreenHome iets sneller (5-9 weken totaal).'
+  a: 'Charged geeft voor een standaardsituatie 2 tot 3 uur op voor de fysieke installatie. Daar komt jouw eigen voorbereiding bij (locatie bepalen, groepenkast laten checken, dynamisch contract regelen) en na de installatie de app-koppeling en de eerste instellingen. Reken op een dagdeel voor de installatie zelf.'
+- q: 'Hoelang is de wachttijd na bestelling?'
+  a: 'Charged publiceert geen levertijd per model en wij hebben geen betrouwbare, actuele doorlooptijden per installateur. Vraag de levertijd en de installatieplanning dus op bij Charged of je installateur vóór je bestelt, en vraag die voor jouw regio — dat is de enige manier om er een reëel getal voor te krijgen.'
 - q: 'Heb ik een aparte groep nodig voor Sessy?'
-  a: 'Aanbevolen: ja, een eigen 16A-groep voor de Sessy-thuisbatterij. Dat kost 180-320 euro extra als je groepenkast die ruimte heeft. Zonder eigen groep kan het op een bestaande zware groep, maar dan deel je vermogen — verkort de capaciteit van andere apparaten.'
+  a: 'De Sessy wordt op een eigen groep met de juiste beveiliging aangesloten; welke beveiliging dat is, bepaalt je installateur op basis van NEN 1010 en je bestaande groepenkast. Is er geen ruimte vrij, dan moet er een groep bij of moet de kast worden vervangen. Laat dat vóór de bestelling bekijken: dit is de kostenpost die het vaakst voor een verrassing zorgt.'
 - q: 'Wat doet de installateur, wat doe ik zelf?'
-  a: 'Installateur doet de fysieke installatie, P1-koppeling, eerste app-pairing en demo. Jij doet de bestelling, de locatie-voorbereiding (vrije ruimte, schoon, droog), de dynamisch-contract-aanvraag en de instellingen voor jouw verbruik. Reken op 4-6 uur eigen werk.'
-- q: 'Wanneer verdient Sessy zichzelf terug in 2026?'
-  a: 'Dat hangt af van de prijsspreads en van je gebruik. Bij actief gebruik op een dynamisch contract komen rekenmodellen doorgaans uit op 6-9 jaar bij een verwachte levensduur van 15-20 jaar. Op een vast contract, waar alleen de hogere zelfconsumptie meetelt, loopt de terugverdientijd op tot ver boven de tien jaar — dan is het meestal niet rendabel.'
+  a: 'De installateur doet de fysieke installatie, de aansluiting op de groepenkast, de P1-koppeling en de eerste pairing. Jij doet de bestelling, de locatievoorbereiding (vrije, droge, vorstvrije ruimte), de aanvraag van een dynamisch contract en de instellingen die bij jouw verbruik passen.'
+- q: 'Wanneer verdient een Sessy zichzelf terug?'
+  a: 'In ons rekenmodel is een batterij vanaf 1-1-2027 op een dynamisch contract circa €177 per jaar waard bij 5 kWh en €353 bij 10 kWh. Tegen de vendorprijzen van €3.550 en €5.500 exclusief installatie is dat circa 20 respectievelijk 15,6 jaar, en met installatiekosten erbij langer. Op een vast contract valt de arbitragecomponent weg en loopt het verder op.'
 ---
-*Disclosure: de links naar Frank Energie, HomeWizard, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij baseren ons op specificaties, installatievoorschriften, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Sessy (Charged), Frank Energie, Tibber en HomeWizard in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en ontvangen hiervoor geen vergoeding. Wij baseren ons op specificaties en installatievoorschriften van de fabrikant en op publieke data. Wij meten niet zelf.*
 
-Het verschil tussen een soepele Sessy-installatie en een die vastloopt, zit vrijwel nooit in de hardware maar in de voorbereiding: de groepenkast, de locatie, het dynamische contract en de P1-poort. Hieronder staat het hele traject op een rij, met de punten waarop het volgens installatievoorschriften en gebruikersverslagen het vaakst misgaat.
+Het verschil tussen een soepele Sessy-installatie en een die vastloopt, zit vrijwel nooit in de hardware maar in de voorbereiding: de groepenkast, de locatie, het dynamische contract en de P1-poort. Hieronder staat het hele traject op een rij, met de punten waarop het volgens de installatievoorschriften het vaakst misgaat.
 
-> **Kort antwoord:** een Sessy laten installeren duurt 6-14 weken doorlooptijd, fysieke installatie 2-4 uur. Voorbereiding (groep, locatie, dynamisch contract) is cruciaal. Investering circa 2.500-2.900 euro voor 5 kWh inclusief installatie. App-setup duurt 30-60 minuten, eerste optimalisatie 1-2 weken.
+> **Kort antwoord:** de fysieke installatie van een Sessy duurt volgens Charged 2 tot 3 uur; de doorlooptijd van bestelling tot installatie moet je per regio opvragen, want daar publiceert de fabrikant geen termijn voor. De vendorprijs is €3.550 voor 5 kWh en €5.500 voor 10 kWh, **inclusief btw en exclusief installatie** (opgave sessy.nl, peildatum 21-8-2026). Het meeste voorbereidingswerk zit in de groepenkast, de locatie en het dynamische contract.
 
 ## Waar de verschillen tussen installaties zitten
 
 Het stappenplan is bij elke Sessy-installatie hetzelfde; wat verschilt, is de woning. De drie variabelen die de doorlooptijd en de kosten bepalen:
 
-- **Groepenkast.** Is er een vrije 16A-groep, of moet er een groep bij (of zelfs een nieuwe kast)?
-- **Locatie.** Droog, vorstvrij, geventileerd en dicht bij de groepenkast en de slimme meter?
+- **Groepenkast.** Is er ruimte voor een eigen groep met de juiste beveiliging, of moet er een groep bij (of zelfs een nieuwe kast)?
+- **Locatie.** Droog, vorstvrij, toegankelijk en dicht bij de groepenkast en de slimme meter?
 - **Contract.** Staat het dynamische contract al actief op de dag van installatie?
 
 Loopt een installatie uit de planning, dan zit het vrijwel altijd op een van deze drie.
 
 Voor wie eerst overweegt: lees de [Sessy review](/posts/sessy-review-thuisbatterij-nederland/) of vergelijk met [alternatieven voor Sessy](/posts/alternatief-voor-sessy-thuisbatterij-2026/). Voor de Sessy-versus-Marstek-vergelijking zie [hier](/posts/sessy-vs-marstek-thuisbatterij-2026/).
 
-Klaar om te starten? Bekijk <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy direct</a> voor de actuele prijzen.
+<a href="https://go.duurzaamthuislab.nl/sessy?ref=/posts/sessy-thuisbatterij-installatie-stappen-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk de actuele Sessy-prijzen</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-## 1. Stap 1: bestelling en wachttijd (week 0-8)
+## 1. Stap 1: bestelling en levertijd
 
 ### 1a. Maat bepalen
 
-Voor een gemiddeld gezin (3.500-5.000 kWh per jaar) volstaat 5 kWh. Boven 5.500 kWh met EV-laden thuis is 10 kWh (twee gekoppelde units) logischer. Onder 2.800 kWh is 5 kWh ruim voldoende.
+Charged levert de Sessy in 5 kWh en 10 kWh, en de Sessy Plus in 15 kWh. Let op: de 10 kWh is **één apparaat** van €5.500, geen twee gekoppelde units van 5 kWh.
 
-Bepalend is niet je jaarverbruik maar je dagelijkse verschuifbare verbruik: hoeveel kWh kun je per etmaal daadwerkelijk uit de batterij halen? Bij een gezin van vier met één EV die 's nachts op de goedkope uren laadt, is dat vaak minder dan mensen denken — de EV komt niet uit de batterij.
+Bepalend voor de maatkeuze is niet je jaarverbruik maar je dagelijkse verschuifbare verbruik: hoeveel kWh haal je per etmaal daadwerkelijk uit de batterij? Twee begrenzingen die daarbij vaak worden vergeten:
 
-### 1b. Bestellen via Sessy of via installateur
+- **Je zonneoverschot.** Meer capaciteit dan je overschot vult zich nooit volledig.
+- **Het ontlaadvermogen van 1,7 kW.** De Sessy geeft per uur maximaal 1,7 kWh af. Een avondpiek van 3 kW dek je dus nooit volledig, ongeacht de capaciteit die je koopt. Een EV laden gaat helemaal niet uit deze batterij.
 
-Twee opties:
+De volledige specificaties staan in onze [Sessy review](/posts/sessy-review-thuisbatterij-nederland/).
 
-- **Direct via Sessy** (sessy.nl): inclusief installatie via hun partner-netwerk. Wachttijd 6-14 weken.
-- **Via Solartoday, GreenHome of zelfstandige installateur.** Snellere doorlooptijd (5-9 weken), iets duurder (50-180 euro meer), maar je kunt locale referenties checken.
+### 1b. Bestellen via Charged of via een installateur
 
-Verschil in doorlooptijd tussen die twee routes is in de praktijk enkele weken; vraag bij beide om een indicatie voor jouw regio voordat je bestelt.
+Twee routes:
 
-### 1c. Wachttijd: wat gebeurt er?
+- **Direct via sessy.nl.** Charged rekent de installatiekosten bij het bestellen apart af, afhankelijk van je situatie en van de vraag of je een Sessy-partner inschakelt of zelf installeert.
+- **Via een installateur.** Dan koop je hardware en installatie in één opdracht en kun je lokale referenties navragen.
 
-- Week 0-1: bevestiging bestelling, plannings-vragen via mail (groep-foto, locatie-foto, slimme-meter-foto).
-- Week 2-3: contact met installateur, eerste afspraak ingepland.
-- Week 4-6: levering Sessy-unit (mag bij jou thuis of bij installateur).
-- Week 6-12: installatie-afspraak (varieert sterk per regio).
+Wat de doorlooptijd in beide routes is, publiceert Charged niet en wij hebben er geen betrouwbare cijfers over. Vraag het op — voor jouw postcode — vóór je bestelt, en zet het antwoord op papier als de installatiedatum voor jou uitmaakt.
 
-## 2. Stap 2: voorbereiding (jouw werk, 4-6 uur)
+### 1c. Wat er tijdens de wachttijd gebeurt
+
+De vaste stappen tussen bestellen en installeren, in deze volgorde:
+
+1. Bevestiging van de bestelling en een aantal plannings­vragen: foto's van je groepenkast, de geplande locatie en je slimme meter.
+2. Contact met de installateur en het inplannen van de afspraak.
+3. Levering van de unit — bij jou thuis of bij de installateur.
+4. De installatieafspraak zelf.
+
+## 2. Stap 2: voorbereiding (jouw werk)
 
 ### 2a. Locatie kiezen
 
-Checklist op basis van de installatievoorschriften:
+Checklist op basis van de installatievoorschriften en de specificaties van Charged:
 
-- **Droog en vorstvrij.** Sessy mag niet in garage zonder verwarming als die onder -5°C komt.
-- **Goede ventilatie.** Niet in een kleine afgesloten ruimte. Minimaal 0,5 m vrije ruimte rondom.
-- **In de buurt van groepenkast.** Maximale kabelloop 12-15 m voor de communicatie, anders signaal-problemen.
-- **In de buurt van slimme meter.** Voor P1-koppeling — kabel óf draadloze brug.
-- **Stabiele wand of vloer.** Sessy 5 kWh weegt 51 kg. Niet aan een gipsplaat-wand zonder houtstijl.
-
-Geschikte plekken in de praktijk: een bijkeuken naast de groepenkast, een verwarmde garage of een technische ruimte achter de meterkast. Ongeschikt: een onverwarmde garage of schuur die in de winter onder nul komt, en een gipsplaatwand zonder houtstijl.
+- **Droog en vorstvrij.** De opgegeven bedrijfstemperatuur is **0 tot 40 °C**. Dat is een strakker bereik dan bij veel andere batterijen: een onverwarmde garage of schuur die in de winter onder nul zakt, valt buiten dat bereik.
+- **Vrije ruimte rondom.** Houd de vrije ruimte aan die de installatiehandleiding van Charged voorschrijft. Er bestaat geen wettelijke of NEN 1010-eis van een vast aantal centimeters rondom een thuisbatterij; het is een fabrikants- en installateursvoorschrift.
+- **Dicht bij de groepenkast.** Houd de kabelloop kort en overleg met je installateur wat in jouw situatie haalbaar is.
+- **Dicht bij de slimme meter.** Voor de P1-koppeling — via kabel of via een draadloze brug.
+- **Stabiele wand of vloer.** Volgens sessy.nl weegt de 5 kWh **46 kg** en de 10 kWh **96 kg**. Dat is geen gewicht voor een gipsplaatwand zonder houtstijl.
+- **Geluid.** Charged geeft circa 40 dB nominaal op. Dat is hoorbaar in een stille ruimte: kies een garage, bijkeuken of technische ruimte, niet een plek tegen een slaapkamerwand.
 
 ### 2b. Groep voorbereiden
 
-Een eigen 16A-groep is sterk aan te raden. Indicatieve kosten:
+De Sessy komt op een eigen groep met de juiste beveiliging. Welke beveiliging dat is, bepaalt je installateur op basis van NEN 1010 en je bestaande kast — laat dat niet door een review bepalen.
 
-- Reservegroep al aanwezig in groepenkast: 80-140 euro voor installateur om te activeren.
-- Nieuwe groep aanleggen incl. aardlek B-type: 180-320 euro.
-- Volledige nieuwe groepenkast (bij oude woningen): 480-880 euro.
+Wat de mogelijke uitkomsten zijn:
 
-Bij woningen van voor circa 1975 is de bestaande groepenkast vaak te krap voor een extra groep met een aardlekautomaat van het juiste type. Dat is de post die het vaakst voor een onaangename verrassing zorgt — laat je groepenkast dus vóór de bestelling bekijken, niet op de installatiedag.
+- Er is een reservegroep vrij: alleen activeren en aansluiten.
+- Er is geen ruimte: er moet een groep bij, inclusief de juiste aardlekbeveiliging.
+- De kast is te oud of te krap: volledige vervanging van de groepenkast.
+
+Bij woningen van vóór circa 1975 is de bestaande groepenkast vaak te krap. Dat is de post die het vaakst voor een onaangename verrassing zorgt. Wij noemen hier bewust geen bedragen: die verschillen sterk per woning en per installateur, en een tarief uit een artikel is geen offerte. Laat je groepenkast dus vóór de bestelling bekijken en vraag het bedrag op papier — niet op de installatiedag.
 
 ### 2c. Dynamisch contract aanvragen
 
-Een Sessy rendeert vooral op een dynamisch contract. Twee leveranciers met een directe Sessy-integratie:
+Een Sessy haalt in ons rekenmodel circa €8 per kWh capaciteit per jaar uit netarbitrage, en die component valt op een vast contract volledig weg. Een dynamisch contract is dus geen extraatje maar een voorwaarde.
 
-- <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> — uitgebreide app en directe Sessy-koppeling. Overstaptijd volgens eigen opgave 2-4 weken.
-- <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a> — geen hardware-abonnement, scherpe tarieven. Overstaptijd 2-3 weken.
+Twee aanbieders die veel Sessy-eigenaren gebruiken:
 
-Vraag dit aan 4-6 weken vóór installatie. Je wilt op de dag van installatie al een actief dynamisch contract hebben — anders mis je de eerste arbitrage-besparing.
+- <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="noopener nofollow">Tibber</a> — €5,99 per maand per energiesoort plus €0,0248 per kWh inkoopvergoeding, maandelijks opzegbaar.
+- <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="noopener nofollow">Frank Energie</a> — rekent een inkoopvergoeding én een terugleverstaffel; de vaste kosten publiceert Frank niet.
+
+*Beide links zijn gewone verwijzingen; wij ontvangen hiervoor geen vergoeding.*
+
+Welke integraties op dit moment zonder configuratie werken, verandert met firmware-updates. Controleer dat bij Charged voor jouw leverancier in plaats van te vertrouwen op een lijstje in een artikel. Zie ook onze [vergelijker van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/).
+
+Vraag het contract een aantal weken vóór de installatie aan. Je wilt op de dag van installatie al een actief dynamisch contract hebben — anders is er de eerste dagen niets te optimaliseren.
 
 ### 2d. P1-meter checken
 
-Sessy heeft een werkende P1-poort op je slimme meter nodig. Sinds 2018 hebben alle slimme meters dit. Mocht je twijfelen: foto van je meter naar Sessy of installateur sturen.
+De Sessy leest je verbruik uit via de P1-poort van je slimme meter. Vrijwel alle in Nederland geplaatste slimme meters hebben die poort, maar bij oudere meters kan de datastroom beperkt zijn. Bij twijfel: stuur een foto van je meter (met het typenummer) naar Charged of je installateur en laat het bevestigen.
 
-Heb je nog geen P1-monitoring? <a href="https://go.duurzaamthuislab.nl/homewizard" target="_blank" rel="nofollow sponsored noopener">HomeWizard P1-meter</a> kun je los kopen voor data-monitoring vóór Sessy er staat — geeft je 2-3 maanden data om te zien of je verbruikspatroon klopt met je verwachte besparing.
+Heb je nog geen P1-monitoring? Een <a href="https://go.duurzaamthuislab.nl/homewizard" target="_blank" rel="noopener nofollow">HomeWizard P1-meter</a> (€24,95, opgave homewizard.com, peildatum 21-8-2026) geeft je vóór de batterijaankoop enkele maanden aan eigen verbruiksdata. Met die data kun je het rekenmodel met je eigen cijfers doorrekenen in plaats van met aannames.
+
+*Gewone verwijzing; wij ontvangen hiervoor geen vergoeding.*
 
 Zie ook de [P1-meter-vergelijking](/posts/beste-energiemonitor-p1-meter-2026/).
 
-## 3. Stap 3: installatie-dag (2-4 uur)
+## 3. Stap 3: installatiedag
 
-### Wat de installateur doet:
+Charged geeft 2 tot 3 uur op voor een standaardsituatie. Aanpassingen aan de groepenkast komen daar bovenop.
 
-- 30 min: locatie-check, materiaal binnenbrengen.
-- 30-60 min: groep aansluiten, eventueel nieuwe groep aanleggen.
-- 30-45 min: Sessy fysiek monteren (vloer of muur).
-- 30-45 min: P1-koppeling en eerste pairing.
-- 15-30 min: app-koppeling demonstreren, vragen beantwoorden.
+### Wat de installateur doet
 
-### Wat jij doet:
+- Locatie-check en materiaal binnenbrengen
+- De groep aansluiten, en zo nodig een groep aanleggen
+- De Sessy fysiek monteren (wand of vloer)
+- De P1-koppeling maken en de eerste pairing uitvoeren
+- De app-koppeling demonstreren en je vragen beantwoorden
 
-- Aanwezig zijn voor vragen (sleutel-toegang, voorkeur instellingen).
-- Eerste app-account aanmaken op je telefoon.
-- Vragen stellen over jouw specifieke verbruiksprofiel.
+### Wat jij doet
 
-### Wat soms misgaat:
+- Aanwezig zijn voor toegang en voorkeursinstellingen
+- Je app-account aanmaken
+- Vragen stellen over jouw specifieke verbruiksprofiel
+
+### Wat soms misgaat
 
 - **Te kleine groepenkast** — extra kosten, en soms een tweede afspraak.
-- **Wifi-signaal te zwak** waar Sessy staat — wifi-extender nodig (29-69 euro).
-- **Oude slimme meter zonder P1** — Liander/Stedin moet vervangen (gratis, 3-6 weken wachttijd).
+- **Wifi-signaal te zwak** op de plek waar de batterij staat — dan is een extender of een netwerkkabel nodig.
+- **Slimme meter waarvan de P1-poort niet of onvolledig werkt** — dan moet de netbeheerder eraan te pas komen; vraag bij je netbeheerder na wat dat kost en hoelang het duurt.
 
-## 4. Stap 4: app-setup (30-60 min)
+## 4. Stap 4: app-setup
 
-Na installatie open je de Sessy-app. Stappen:
+Na installatie open je de Sessy-app. De stappen:
 
 1. Account aanmaken.
-2. Sessy-unit koppelen via QR-code (zit op het apparaat).
-3. Locatie-gegevens invoeren.
-4. Energiecontract koppelen — als je Tibber of Frank hebt, vraagt de app om autorisatie.
-5. P1-meter verbinden — meestal automatisch detectie.
-6. Voorkeuren instellen: laden tijdens lage tarieven, ontladen tijdens hoge tarieven.
+2. De unit koppelen via de QR-code op het apparaat.
+3. Locatiegegevens invoeren.
+4. Je energiecontract koppelen — de app vraagt om autorisatie bij je leverancier.
+5. De P1-meter verbinden.
+6. Voorkeuren instellen: laden op lage tarieven, ontladen op hoge tarieven.
 
-Verstandige startinstellingen voor de eerste week:
-
-- Modus: "Dynamic arbitrage" (Tibber/Frank-modus).
-- Minimum reserve: 10 procent (voor stroomstoringen).
-- Max laad/ontlaad-snelheid: 80 procent (zachter voor batterijgezondheid).
-
-Na 2-3 weken pas je dit aan op basis van je werkelijke verbruik.
+Verstandige startinstellingen voor de eerste weken: houd een minimumreserve aan zoals Charged die aanbeveelt, en verander niet meer dan één instelling per week. Anders weet je bij een afwijkende opbrengst niet welke wijziging het deed.
 
 ## 5. Eerste week: wat je kunt verwachten
 
 ### Dag 1-2
 
-Een Sessy wordt doorgaans deels geladen geleverd. In de eerste uren ontlaadt hij naar de ingestelde ondergrens, waarna de arbitrage-cyclus start.
+Een Sessy wordt doorgaans deels geladen geleverd. In de eerste uren ontlaadt hij naar de ingestelde ondergrens, waarna de normale cyclus start.
 
-Verwacht in de eerste dagen nog geen representatieve besparing: het systeem heeft historie nodig om je verbruikspatroon te voorspellen.
+Verwacht in de eerste dagen nog geen representatieve besparing: het systeem heeft historie nodig om je verbruikspatroon te voorspellen. Charged waarschuwt daar in de app zelf voor.
 
 ### Dag 3-7
 
-De app toont de besparing per dag. Wat dat bedrag is, volgt uit één rekensom: bruikbare capaciteit × aantal cycli × spread na belasting × rendement. Bij 4,5 kWh bruikbaar, één cyclus en een spread van €0,18/kWh is dat rond de €0,70 per dag; bij bredere spreads in de winter loopt dat op. Dagen met kleine spreads leveren bijna niets op — dat is normaal en geen storing.
+De app toont de besparing per dag. Wat dat bedrag ongeveer is, volgt uit één rekensom: bruikbare kWh × aantal cycli × prijsspreiding × retourrendement. Bij een 5 kWh-unit, één cyclus en een netto spreiding van €0,10 per kWh is dat rond de €0,45 per dag. Dagen met kleine spreiding leveren bijna niets op — dat is normaal en geen storing.
 
-### Wat normaal is, wat niet:
+Belangrijk: extrapoleer een enkele dag of week nooit naar een jaar. De prijsspreiding is sterk seizoensgebonden.
 
-- **Normaal:** lichte sis-geluiden bij laden/ontladen (ventilatie).
-- **Normaal:** temperatuur unit 25-35°C.
-- **Normaal:** unit slaat tijdens prijspieken vol (90-95 procent), ontlaadt bij hoge prijzen tot 15-20 procent.
-- **Niet normaal:** continue ventilator-geluid (mogelijk slechte locatie), oranje LED (storing), capaciteits-warning binnen 3 maanden.
+### Wat normaal is, wat niet
+
+- **Normaal:** geluid rond de 40 dB tijdens laden en ontladen; dat is de opgegeven waarde.
+- **Normaal:** de unit laadt niet vol op dagen met weinig overschot of weinig prijsverschil.
+- **Normaal:** een lagere opbrengst dan verwacht in de eerste weken.
+- **Reden voor contact met Charged:** een storingsmelding of foutcode in de app, een P1-verbinding die geen data doorgeeft, of een unit die na twee weken nog geen enkele cyclus heeft gemaakt.
 
 ## 6. Eerste maand: optimaliseren
 
 Na drie à vier weken zie je een patroon. Checklist voor de eerste optimalisatieronde:
 
 - **Extrapoleer voorzichtig.** Een eerste maand in de winter geeft een te rooskleurig jaarbeeld, een eerste maand in de zomer een te pessimistisch. Reken pas na een volledig jaar met een jaarcijfer.
-- **Minimumreserve.** Verlagen van 10 naar 5 procent geeft meer arbitrage-ruimte; onder 5 procent is af te raden voor de levensduur.
-- **Maximale laadsnelheid.** Omhoog zetten laat de batterij korte prijsdips beter benutten, ten koste van iets meer celbelasting.
-- **Uurinstellingen.** Wie het geluid 's nachts niet wil, kan ontladen beperken tot de dag — dat kost wel een deel van de avondpiek-winst.
+- **Minimumreserve.** Lager zetten geeft meer arbitrageruimte maar meer celbelasting. Blijf binnen wat Charged aanbeveelt.
+- **Uurinstellingen.** Wie het geluid 's nachts niet wil, kan het ontladen beperken tot de dag — dat kost wel een deel van de avondpiekwinst.
+- **Vergelijk met je eigen P1-data**, niet met bedragen uit reviews.
 
-## 7. Veelgemaakte fouten bij Sessy-installatie
+## 7. Veelgemaakte fouten bij de Sessy-installatie
 
-**Fout 1: vast contract houden.** Op een vast contract levert een thuisbatterij alleen de winst van hogere zelfconsumptie op — in de meeste rekenmodellen een fractie van wat arbitrage op een dynamisch contract doet. Dat is het grootste bedrag dat je kunt laten liggen.
+**Fout 1: een vast contract houden.** Op een vast contract valt de netarbitrage volledig weg. Van de €353 modelmatige jaarwaarde bij 10 kWh blijft dan circa €273 over, en die hangt af van hoeveel zonneoverschot je hebt.
 
-**Fout 2: te diep ontladen instellen.** Onder 5 procent reserve verkort je batterij-levensduur. Houd 5-10 procent minimum aan.
+**Fout 2: de installatiekosten niet vooraf opvragen.** De prijzen op sessy.nl zijn exclusief installatie. Zonder dat bedrag kun je de terugverdientijd niet uitrekenen en niet eerlijk met andere merken vergelijken.
 
-**Fout 3: P1-koppeling slecht.** Geen P1-data = Sessy weet niet wat je verbruikt, kan niet slim laden. Check binnen 24 uur na installatie of de data binnenkomt.
+**Fout 3: de P1-koppeling niet controleren.** Zonder P1-data weet de batterij niet wat je verbruikt en kan hij niet gericht sturen. Check binnen 24 uur na installatie of de data binnenkomt.
 
-**Fout 4: subsidiemogelijkheden niet nakijken.** Voor thuisbatterijen bestaat geen landelijke subsidie zoals ISDE. Wel hebben sommige gemeenten en provincies regelingen of leningen; check je gemeentewebsite vóór je bestelt, want aanmelden moet soms vooraf.
+**Fout 4: op capaciteit letten en het vermogen vergeten.** 1,7 kW ontladen betekent dat een deel van je avondpiek altijd uit het net komt.
 
-## 8. Kosten-totaaloverzicht 2026
+**Fout 5: subsidiemogelijkheden niet nakijken.** Voor thuisbatterijen bestaat **geen** landelijke subsidie: de ISDE dekt ze niet en er geldt geen 0%-btw-regeling (die geldt alleen voor zonnepanelen en direct noodzakelijke onderdelen). Wel hebben sommige gemeenten en provincies eigen regelingen of leningen. Check de subsidiechecker van jouw gemeente of provincie vóór je bestelt, want aanmelden moet soms vooraf.
 
-| Onderdeel | Kosten |
-|---|---|
-| Sessy 5 kWh unit incl. standaard installatie | 2.495 |
-| Eventuele extra groep | 180-320 |
-| Eventuele groepenkast-upgrade | 480-880 (alleen oude woningen) |
-| Wifi-extender (bij zwak signaal) | 29-69 |
-| Dynamisch contract overstap | 0 |
-| **Totaal gemiddeld** | **2.495-3.764** |
+## 8. Kostenoverzicht
+
+| Onderdeel | Bedrag | Bron |
+|---|---|---|
+| Sessy 5 kWh, incl. btw, **excl.** installatie | €3.550 | sessy.nl, 21-8-2026 |
+| Sessy 10 kWh, incl. btw, **excl.** installatie | €5.500 | sessy.nl, 21-8-2026 |
+| Sessy Plus 15 kWh, incl. btw, **excl.** installatie | €9.400 | sessy.nl, 21-8-2026 |
+| Basisinstallatie noodstroom (alleen Sessy Plus) | €1.200 | sessy.nl, 21-8-2026 |
+| Installatie | wordt bij het bestellen apart berekend | sessy.nl |
+| Eventuele groep of groepenkast | offerte installateur | — |
+| Overstap naar een dynamisch contract | €0 | — |
+
+Wij noemen geen bandbreedte voor de installatie- en groepenkastkosten: die verschillen te sterk per woning om er een zinnig getal bij te zetten, en een bedrag uit een artikel is geen offerte. Vraag het op bij Charged of je installateur en tel het bij de vendorprijs op voordat je met andere merken vergelijkt.
 
 Voor de uitgebreide vergelijking met andere thuisbatterijen zie de [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-thuisbatterij-2026/), [Sessy vs Huawei Luna](/posts/sessy-vs-huawei-luna-2000-2026/) en [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/).
 
 ## 9. Wat een Sessy op jaarbasis kan opleveren
 
-Onderstaande bedragen zijn modeluitkomsten, geen metingen. De rekenwijze voor een 5 kWh-unit met circa 4,5 kWh bruikbaar:
+Hieronder de uitkomst van het rekenmodel dat wij site-breed gebruiken. Het is een **modelberekening met expliciete aannames**, geen meting en geen prognose. De volledige onderbouwing staat in [ROI thuisbatterij na saldering 2027](/posts/roi-thuisbatterij-na-saldering-2027-berekening/).
 
-| Aanname | Uitkomst per jaar |
+**Aannames (peildatum 21-8-2026):** leveringstarief €0,26 per kWh all-in incl. btw; terugleververgoeding vanaf 2027 €0,07 per kWh (een gelabelde aanname, geen gepubliceerd tarief); verschuifbaar volume = capaciteit × 150 zoncycli, begrensd door je overschot × 0,9 en je afname; retourrendement 90 procent (Charged geeft zelf 85 procent op, dus in werkelijkheid iets lager); netarbitrage €8 per kWh capaciteit per jaar, alleen met een dynamisch contract; saldering stopt volledig op 1-1-2027 zonder afbouwpad.
+
+| Model | Prijs excl. installatie | Modelmatige jaarwaarde vanaf 2027 | Terugverdientijd (excl. installatie) |
+|---|---|---|---|
+| Sessy 5 kWh | €3.550 | €177 | circa 20 jaar |
+| Sessy 10 kWh | €5.500 | €353 | circa 15,6 jaar |
+| Sessy Plus 15 kWh | €9.400 | €530 | circa 17,7 jaar |
+
+Met de installatiekosten erbij lopen die termijnen verder op. Om binnen de batterijgarantie van tien jaar terug te verdienen mag de totale investering niet boven circa €1.770 (5 kWh), €3.530 (10 kWh) of €5.300 (15 kWh) uitkomen — dat lukt met deze prijzen niet.
+
+Dat is geen reden om geen batterij te kopen, maar wel om te weten wat je koopt: gemak, merkonafhankelijkheid en Nederlandse support, niet het snelst terugverdiende systeem.
+
+## 10. Welke maat past bij wie?
+
+De jaarwaarden hieronder komen uit het model in hoofdstuk 9 en gelden bij een dynamisch contract vanaf 1-1-2027.
+
+### Klein huishouden, beperkt zonneoverschot
+Sessy 5 kWh. Vendorprijs €3.550 excl. installatie, modelmatige jaarwaarde €177.
+
+### Middelgroot gezin met zonneoverschot van circa 1.800-3.500 kWh
+Sessy 10 kWh (één apparaat). Vendorprijs €5.500 excl. installatie, modelmatige jaarwaarde €353. Dit is per kWh de goedkoopste stap in het assortiment.
+
+### Groot zonneoverschot, of noodstroom voor een deel van de woning
+Sessy Plus 15 kWh. Vendorprijs €9.400 excl. installatie, modelmatige jaarwaarde €530; reken de €1.200 basisinstallatie noodstroom mee als je die functie wil.
+
+## 11. Technische details
+
+### LFP-batterijchemie
+
+Sessy gebruikt lithium-ijzerfosfaat (LFP). Dat is de gangbare chemie voor thuisopslag, met een vlakkere degradatiecurve en een hogere thermische stabiliteit dan NMC. Charged geeft **6.000+ cycli** op en een garantie van 10 jaar op de batterij en 5 jaar op de omvormer (sessy.nl, 21-8-2026).
+
+Wij doen geen uitspraken over brandveiligheid in absolute termen en noemen geen vergelijkende veiligheidsfactoren: dat zijn claims die alleen de fabrikant, de norm en je verzekeraar kunnen maken. Het nadeel van LFP is de lagere energiedichtheid, en dat is te zien in het gewicht: 46 kg voor 5 kWh en 96 kg voor 10 kWh.
+
+### Vermogen
+
+Laden 2,2 kW, ontladen 1,7 kW (opgave sessy.nl). Dat is het belangrijkste technische kenmerk van dit product en de reden dat een Sessy een avondpiek nooit volledig dekt. Retourrendement 85 procent volgens Charged, standby-verbruik 3 W.
+
+### Sturing en integraties
+
+De Sessy heeft een ingebouwde AC-omvormer en werkt volgens Charged met zonne-omvormers van elk merk, op 1-fase en 3-fase installaties. De batterij stuurt op de day-ahead-uurprijzen van je dynamische contract en op je verbruik zoals dat via P1 binnenkomt.
+
+Voor lokale integratie is er een API. Die is beperkt en niet volledig open; welke functies er op dit moment in zitten en of community-integraties met Home Assistant of Homey blijven werken na een firmware-update, verandert per release. Wij noemen daarom geen versienummers of releasedatums: controleer de actuele API-documentatie van Charged als eigen automatisering voor jou belangrijk is.
+
+## 12. Onderhoud en levensduur
+
+Charged geeft geen onderhoudsinterval op. De harde, gepubliceerde getallen zijn:
+
+| Gegeven | Opgave Charged |
 |---|---|
-| 1 cyclus/dag, spread €0,12/kWh | circa €195 |
-| 1 cyclus/dag, spread €0,18/kWh | circa €290 |
-| 1,3 cyclus/dag, spread €0,18/kWh | circa €380 |
-| 1,3 cyclus/dag, spread €0,24/kWh | circa €500 |
+| Cycli | 6.000+ |
+| Garantie batterij | 10 jaar |
+| Garantie omvormer | 5 jaar |
+| Standby-verbruik | 3 W |
 
-(Berekening: bruikbare kWh × cycli × 365 × spread × 0,9 rendement, minus de vaste kosten van het dynamische contract.)
+Bij het cyclusprofiel uit ons model — circa 150 zoncycli plus circa 100 wintercycli, dus ruwweg 250 per jaar — is 6.000 cycli op papier ruim twee decennia. De garantietermijn is daarmee de bindende grens, niet het aantal cycli. Onafhankelijke langetermijnmetingen aan dit specifieke product bestaan niet; wij nemen daarom geen restwaarde na jaar 10 mee in de terugverdienberekening.
 
-Bij een investering van circa €2.500 komt de terugverdientijd daarmee tussen ruwweg vijf en dertien jaar te liggen — met de spread als dominante variabele. Reken daarom altijd twee scenario's door voordat je bestelt, en gebruik de EPEX-historie van het afgelopen jaar in plaats van één gunstige maand.
+Praktisch advies dat wél houdt: log vanaf dag één de bruikbare capaciteit per volledige cyclus. Zonder eigen gegevens is een garantieclaim op capaciteitsverlies moeilijk te onderbouwen.
 
-## 10. Welk Sessy-pakket past bij wie?
+## 13. Voorbeeldtijdlijn
 
-De jaarbesparingen hieronder volgen uit het model in hoofdstuk 9 en zijn dus schattingen bij een gemiddelde spread.
+De vaste fasen, zonder termijnen die wij niet kunnen onderbouwen:
 
-### Klein huishouden (1-2 personen, <2.800 kWh)
-Sessy 5 kWh. Investering €2.500-€2.700. Modelbesparing €240-€310 per jaar.
-
-### Middelgroot gezin (3-4 personen, 3.000-5.500 kWh)
-Sessy 5 kWh. Investering €2.500-€2.900. Modelbesparing €340-€440 per jaar.
-
-### Groot gezin of huishouden met EV (>5.500 kWh, EV-laden thuis)
-Sessy dual-unit 10 kWh. Investering €4.800-€5.400. Modelbesparing €620-€820 per jaar — mits je die dubbele capaciteit dagelijks daadwerkelijk benut.
-
-## 11. Technische details: hoe werkt Sessy onder de motorkap?
-
-Wie de basisinstallatie begrijpt wil vaak ook weten waaróm Sessy goed werkt op dynamische contracten. Hier de technische kern.
-
-### LiFePO4-batterijchemie
-
-Sessy gebruikt lithium-ijzerfosfaat (LiFePO4) cellen. Voordelen ten opzichte van NMC (lithium-nikkel-mangaan-cobalt):
-
-- **Veiligheid.** Brand-veiligheid 3-4x beter dan NMC. Geen thermische runaway-risico.
-- **Levensduur.** 6.000-8.000 laadcycli versus 2.500-4.000 bij NMC.
-- **Diepteontlading.** Tot 100 procent ontlading zonder schade aan de cellen.
-- **Temperatuurtolerantie.** Werkt tussen -10°C en +50°C zonder degradatie.
-
-Nadeel: energie-dichtheid 30 procent lager dan NMC, vandaar dat Sessy 51 kg weegt bij 5 kWh capaciteit.
-
-### Slim laden via Tibber-API en Frank-API
-
-Sessy heeft directe API-koppelingen met Tibber, Frank Energie en sinds 2024 ook met enkele andere leveranciers. Hierdoor weet Sessy de exacte uurprijzen 24 uur vooruit. Beslissingsalgoritme:
-
-1. Voorspel verbruik komende 24 uur op basis van historie.
-2. Voorspel zonneproductie (indien gekoppeld) op basis van weersmodel.
-3. Optimaliseer laad/ontlaad-schema voor maximale arbitrage.
-4. Houd minimaal 5 procent reserve voor noodgevallen.
-
-Het verschil met simpelere batterij-controllers: Sessy plant 24 uur vooruit in plaats van alleen op het huidige moment te reageren. Dat levert meer nuttige cycli op de juiste momenten op — hoeveel precies, hangt af van het prijsverloop in dat jaar.
-
-### Modbus TCP voor lokale controle
-
-Sessy ondersteunt sinds firmware 2.1 (medio 2024) Modbus TCP voor lokale integratie met Home Assistant of OpenHAB. Voordeel: ook bij internet-uitval blijft Sessy slim laden op basis van laatste bekende prijsdata. Bij uitsluitend cloud-API (zoals goedkopere batterijen) valt het slim laden weg bij internet-uitval.
-
-## 12. Onderhoud en levensduur Sessy
-
-| Onderdeel | Onderhoud/jaar | Verwachte levensduur |
-|---|---|---|
-| LiFePO4-cellen | 0 | 15-20 jaar (60-80% capaciteit) |
-| Omvormer | 0-45 (ventilator-stof) | 12-15 jaar |
-| BMS (battery management) | 0 | 15-20 jaar |
-| Behuizing | 0 | 20+ jaar |
-| Wifi-module | 0 | 8-12 jaar |
-
-Sessy biedt 10 jaar garantie op de cellen, 5 jaar op de elektronica. Verwachte werkelijke levensduur 15-18 jaar bij normaal gebruik.
-
-### Wat er doorgaans kapot gaat
-
-De faalmodi die bij dit type systeem het vaakst worden gemeld in gebruikersreviews en servicedocumentatie, ongeveer in volgorde van frequentie:
-
-1. **Ventilator van de omvormer.** Stof en warmte; reparatie of vervanging van een onderdeel.
-2. **Connectiviteit van de wifi-module.** Meestal met een firmware-update verholpen, soms vervanging onder garantie.
-3. **Capaciteitsverlies sneller dan de garantiecurve.** Dan volgt een claim; log daarom vanaf dag één de bruikbare capaciteit per volledige cyclus, want zonder eigen gegevens is een claim moeilijk te onderbouwen.
-
-Wat je in deze categorie niet tegenkomt zijn veiligheidsincidenten met de cellen — dat is precies het argument voor LiFePO4 boven NMC.
-
-## 13. Vergelijking Sessy 5 vs 10 kWh
-
-| Aspect | Sessy 5 kWh | Sessy 10 kWh (dual) |
-|---|---|---|
-| Investering incl. installatie | 2.500-2.900 | 4.800-5.400 |
-| Jaarbesparing dynamisch contract | 320-440 | 620-820 |
-| Terugverdientijd | 6,5-8,5 jaar | 6,5-8,5 jaar |
-| Geschikt voor verbruik | <5.500 kWh/jaar | 5.500-9.000 kWh/jaar |
-| Geschikt voor EV-laden? | Beperkt | Goed |
-| Vloeroppervlak nodig | 0,3 m2 | 0,6 m2 |
-
-## 14. Externe bron
-
-Voor onafhankelijke informatie over thuisbatterijen en dynamische contracten: [Milieu Centraal — thuisbatterij](https://www.milieucentraal.nl/energie-besparen/zonnepanelen/thuisbatterij/) — onafhankelijke voorlichting over dit onderwerp.
-
-## 12. Onze aanbeveling
-
-Een Sessy laten installeren is een traject van 6-14 weken — maar de voorbereiding is belangrijker dan de wachttijd. Vier kernpunten:
-
-1. **Vraag een dynamisch contract aan vóór installatie.** Met een directe Sessy-koppeling: <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>.
-2. **Plan een eigen groep in.** 180-320 euro extra, voorkomt storing-issues later.
-3. **Bestel <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy direct</a> of via een lokale installateur** — afhankelijk van regio en wachttijd.
-4. **Reserveer een dagdeel voor installatie en 2-4 uur voor app-setup en eerste optimalisatie.**
-
-Verder lezen: [Sessy review](/posts/sessy-review-thuisbatterij-nederland/), [Sessy vs Marstek](/posts/sessy-vs-marstek-thuisbatterij-2026/), [alternatieven Sessy](/posts/alternatief-voor-sessy-thuisbatterij-2026/), [Sessy software updates](/posts/sessy-software-update-2026-radar/), [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/), [Huawei Luna vs Tesla vs Sessy](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/), [P1-meter-vergelijking](/posts/beste-energiemonitor-p1-meter-2026/), [smart home energiebeheer](/posts/smart-home-energiebeheer-2026/).
-
-Per maand ziet de opbrengst er bescheiden uit; over een levensduur van 15-20 jaar loopt dat met de bedragen uit het model in hoofdstuk 9 op tot een veelvoud van de aanschafprijs. Of dat uitkomt, hangt volledig af van de prijsspreads over die periode.
-
-## 15. Voorbeeldtijdlijn: installatie van A tot Z
-
-Een voorbeeldtijdlijn bij een vrijstaande woning met een moderne groepenkast, gebaseerd op de doorlooptijden die Sessy en installateurs zelf opgeven:
-
-| Fase | Duur |
+| Fase | Wat je moet weten |
 |---|---|
-| Bestelling tot levering | 4-8 weken |
-| Levering tot installatie-afspraak | 2-6 weken |
-| Fysieke installatie | 2-4 uur (met assistent) |
-| App-setup en eerste instellingen | 30-60 minuten |
+| Bestelling tot levering | Termijn opvragen bij Charged of installateur; niet gepubliceerd |
+| Levering tot installatieafspraak | Termijn opvragen; verschilt per regio en installateur |
+| Fysieke installatie | 2-3 uur volgens Charged, exclusief werk aan de groepenkast |
+| App-setup en eerste instellingen | Een half tot heel uur |
 
-Twee dingen die deze tijdlijn kunnen laten uitlopen: een groepenkast zonder ruimte voor een extra 16A-groep (extra werk, soms een tweede afspraak) en een slimme meter zonder werkende P1-poort (vervanging door de netbeheerder, enkele weken).
+Twee dingen die deze tijdlijn kunnen laten uitlopen: een groepenkast zonder ruimte voor een extra groep (extra werk, soms een tweede afspraak) en een slimme meter waarvan de P1-poort vervangen of aangepast moet worden.
 
-De meest gemaakte planningsfout: het dynamische contract pas na de installatie aanvragen. Je batterij staat dan een aantal dagen te draaien zonder dat er iets te optimaliseren is. Regel dat contract vier tot zes weken vóór de installatiedag.
+De meest gemaakte planningsfout: het dynamische contract pas na de installatie aanvragen. Je batterij staat dan een aantal dagen te draaien zonder dat er iets te optimaliseren is.
 
-## 16. Bestelling overwegen — checklist vóór je tekent
+## 14. Checklist vóór je tekent
 
-Voordat je <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy bestelt</a>, doorloop deze 8 punten:
+1. Klopt mijn zonneoverschot en avondverbruik met de gekozen capaciteit?
+2. Begrijp ik dat het ontlaadvermogen 1,7 kW is en wat dat voor mijn piekverbruik betekent?
+3. Heb ik (of plan ik) een dynamisch contract?
+4. Is mijn locatie geschikt: droog, tussen 0 en 40 °C, dicht bij groepenkast en meter, en sterk genoeg voor 46 of 96 kg?
+5. Heb ik het bedrag voor de installatie én voor eventueel werk aan de groepenkast schriftelijk?
+6. Is mijn wifi-signaal op de geplande locatie sterk genoeg, of leg ik een netwerkkabel?
+7. Werkt mijn P1-poort, bevestigd door Charged of de installateur?
+8. Ken ik de levertijd en installatieplanning voor mijn regio?
 
-1. Klopt mijn verbruikspatroon met de 5 of 10 kWh-keuze?
-2. Heb ik (of plan ik) een dynamisch contract bij Tibber, Frank of vergelijkbaar?
-3. Is mijn locatie geschikt (droog, ventilatie, dichtbij groepenkast en meter)?
-4. Heb ik een vrije 16A-groep beschikbaar of plan ik die in?
-5. Is mijn wifi-signaal op de geplande locatie sterk genoeg?
-6. Werkt mijn P1-poort? (sinds 2018 standaard, maar check bij twijfel)
-7. Begrijp ik dat optimaal rendement actief gebruik vereist?
-8. Heb ik de doorlooptijd van 6-14 weken in mijn planning?
+Bij twijfel over één punt: stel de vraag aan Charged of een gespecialiseerde installateur vóór je bestelt. Twee weken extra plannen is beter dan een installatiedag die vastloopt op de groepenkast.
 
-Bij twijfel over één punt: stuur een vraag naar Sessy of een gespecialiseerde installateur. Beter 2 weken extra plannen dan een installatie-dag die vastloopt op een groep-probleem.
+## 15. Veelgestelde vragen na installatie
 
-## 17. Veelgemaakte vragen na installatie
-
-**"Mijn Sessy maakt geluid 's nachts."**
-Normaal. De ventilator draait bij laden/ontladen. Bij continu geluid: check de locatie (te warm, te weinig luchtstroom).
+**"Mijn Sessy maakt geluid."**
+Charged geeft circa 40 dB nominaal op; geluid tijdens laden en ontladen hoort erbij. Is het duidelijk meer, of continu terwijl de batterij niets doet, neem dan contact op met Charged.
 
 **"Ik zie nog geen besparing in de app."**
-Eerste 7-14 dagen is leertijd. Daarna zou de besparing zichtbaar moeten oplopen. Bij geen besparing na 3 weken: check P1-koppeling.
+De eerste twee weken zijn leertijd. Blijft de besparing daarna nul, controleer dan eerst de P1-koppeling en daarna of je dynamische contract actief is.
 
 **"Kan ik mijn Sessy combineren met zonnepanelen?"**
-Ja, en dat is de sterkste combinatie: naast arbitrage komt de winst uit hogere zelfconsumptie van je eigen stroom. In de rekenmodellen loopt de jaaropbrengst daarmee aanzienlijk hoger uit dan bij arbitrage alleen — hoeveel, hangt af van je productie en van hoeveel je nu teruglevert. Voor de combinatie zie [batterij na 2027 zonder zonnepanelen](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/) en [beste-dynamisch-contract-met-zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/).
+Ja, en dat is de sterkste combinatie: naast netarbitrage komt de winst dan uit het verschuiven van je zonneoverschot, wat in ons model de grootste van de twee posten is. Zie [batterij na 2027 zonder zonnepanelen](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/) en [beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/).
 
-**"Wat als mijn slimme meter vervangen moet worden?"**
-Liander/Stedin doet dit gratis, doorlooptijd 3-6 weken. Sessy plannen tot na meter-vervanging.
+**"Wat als mijn slimme meter aangepast moet worden?"**
+Dat loopt via je netbeheerder. Vraag daar de doorlooptijd en eventuele kosten op en plan de installatie erna.
+
+## 16. Onze aanbeveling
+
+1. **Regel het dynamische contract vóór de installatie.** Zonder dat contract valt de netarbitragecomponent van €8 per kWh capaciteit per jaar volledig weg.
+2. **Laat je groepenkast vóór de bestelling bekijken** en vraag het bedrag schriftelijk op.
+3. **Vraag de installatiekosten op en tel ze bij de vendorprijs op** voordat je met andere merken vergelijkt. De vendorprijzen op sessy.nl zijn exclusief installatie.
+4. **Reserveer een dagdeel** voor de installatie en een uur voor de app-setup.
+
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk Sessy op sessy.nl</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
+
+Verder lezen: [Sessy review](/posts/sessy-review-thuisbatterij-nederland/), [Sessy vs Marstek](/posts/sessy-vs-marstek-thuisbatterij-2026/), [alternatieven voor Sessy](/posts/alternatief-voor-sessy-thuisbatterij-2026/), [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/), [Huawei Luna vs Tesla vs Sessy](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/), [P1-meter-vergelijking](/posts/beste-energiemonitor-p1-meter-2026/), [smart home energiebeheer](/posts/smart-home-energiebeheer-2026/).
 
 ---
 
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
+*Dit artikel is voor het laatst bijgewerkt op 2026-08-21 door de redactie. Klopt er iets niet? Laat het ons weten via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ---
 
-**Externe bron:** [Milieu Centraal — thuisbatterij informatie](https://www.milieucentraal.nl/energie-besparen/zonnepanelen/thuisbatterij/) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [Milieu Centraal — thuisbatterij](https://www.milieucentraal.nl/energie-besparen/zonnepanelen/thuisbatterij/) — onafhankelijke voorlichting over thuisbatterijen.

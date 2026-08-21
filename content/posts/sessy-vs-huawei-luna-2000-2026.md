@@ -1,11 +1,11 @@
 ---
 title: Sessy vs Huawei Luna 2000 vergelijking 2026
 date: 2026-10-02 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
-description: 'Sessy of Huawei Luna 2000? Eerlijke vergelijking op prijs, app, omvormer-integratie, garantie en schaalbaarheid voor Nederlandse huishoudens in 2026.'
+description: 'Sessy of Huawei Luna 2000? Vergelijking op prijs, vermogen, omvormer-integratie, garantie en schaalbaarheid — met de vendorprijzen die publiek zijn en een eerlijke aanname waar ze dat niet zijn.'
 categories: [thuisbatterijen]
-tags: [Sessy, Huawei Luna 2000, thuisbatterij, vergelijking, premium, omvormer]
+tags: [Sessy, Huawei Luna 2000, thuisbatterij, vergelijking, omvormer]
 keywords: [sessy vs huawei, huawei luna 2000 review, sessy review, thuisbatterij vergelijking, premium thuisbatterij]
 affiliate: false
 author: Team DuurzaamThuisLab
@@ -13,372 +13,296 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
   - q: Wat is het verschil tussen Sessy en Huawei Luna 2000?
-    a: 'Sessy is een Nederlandse batterij (€5.500 incl. btw excl. installatie, 10 kWh) met eigen smart trading-algoritme, onafhankelijk van je omvormer. Huawei Luna 2000 (€6.500, 5-30 kWh modulair) is diep geïntegreerd met Huawei SUN2000-omvormers en blinkt uit in schaalbaarheid. Sessy wint op prijs en flexibiliteit van energiecontract. Luna wint op schaalbaarheid en piekvermogens bij grotere systemen.'
-  - q: Is de Huawei Luna 2000 veilig?
-    a: 'Ja. De Luna 2000 gebruikt LFP-chemie (lithiumijzerfosfaat), de veiligste lithium-technologie op de markt. Geen thermisch doorslaanrisico zoals bij NMC-chemie. Huawei heeft ook een eigen BMS dat actief cellen bewaakt. Het enige veiligheidspunt is het Chinese merk voor mensen met bezwaren over data-soevereiniteit.'
+    a: 'Sessy is een AC-gekoppelde batterij van het Nederlandse Charged met een eigen omvormer: hij werkt naast elke bestaande zonne-omvormer en Charged publiceert de prijs (10 kWh €5.500 incl. btw, excl. installatie). De Huawei Luna 2000 is DC-gekoppeld en werkt alleen met een Huawei SUN2000-omvormer; hij is modulair van 5 tot 15 kWh per toren en levert veel meer vermogen. Huawei publiceert geen consumentenprijzen. Sessy wint op prijstransparantie en omvormer-onafhankelijkheid, Luna op vermogen en schaalbaarheid.'
   - q: Kan ik de Huawei Luna 2000 combineren met een andere omvormer dan Huawei?
-    a: 'Beperkt. Technisch werkt de Luna via AC-koppeling ook met andere omvormers, maar je verliest dan de diepte-integratie (SolarEdge ModbusTCP is een uitzondering). Voordelen zoals batterij-gestuurd clipping en gecombineerde monitoring via de FusionSolar-app vallen grotendeels weg. Huawei Luna 2000 is duidelijk ontworpen voor het eigen SUN2000-ecosysteem.'
-  - q: Welke thuisbatterij heeft de beste app?
-    a: 'Sessy wint op gebruiksgemak en transparantie van de trading-strategie. Huawei FusionSolar wint op datadepth en grafische detail, maar heeft een steile leercurve. Voor de gemiddelde gebruiker die gewoon wil zien hoeveel hij verdient: Sessy. Voor de tech-nerd die elk uur wil analyseren: FusionSolar.'
+    a: 'Niet volwaardig. De Luna 2000 is ontworpen als DC-gekoppeld onderdeel van het Huawei SUN2000-systeem. Zonder die omvormer verlies je de integratie en de gecombineerde monitoring via FusionSolar, en komt de prijs van een omvormer bij je investering. Heb je een SMA-, SolarEdge-, Fronius- of Enphase-omvormer, dan is een AC-gekoppelde batterij als de Sessy de logische route.'
   - q: Hoelang gaat een Sessy of Huawei Luna 2000 mee?
-    a: 'Beide geven 10 jaar garantie. LFP-chemie (beide gebruiken dit) haalt in de praktijk 15-20 jaar bij normaal gebruik. Sessy garandeert 80% capaciteitsbehoud na 4.000 cycli (~11 jaar bij dagelijks gebruik). Huawei garandeert 60% na 6.000 cycli (~16 jaar bij dagelijks gebruik) — Huawei scoort hier beter op papier.'
+    a: 'Beide fabrikanten geven 10 jaar garantie op de batterij. Charged geeft voor de Sessy 6.000+ cycli op en 5 jaar garantie op de ingebouwde omvormer. Huawei geeft voor de Luna 2000 6.000+ cycli tot 70 procent restcapaciteit op. Onafhankelijke langetermijnmetingen aan beide producten bestaan niet; reken met de garantietermijn, niet met een optimistischer scenario.'
   - q: Is de Sessy of Luna 2000 beter voor iemand die al Huawei-panelen heeft?
-    a: 'Bij een Huawei SUN2000-omvormer is de Luna 2000 de logische keus. De integratie is diep en naadloos, installatie is eenvoudiger, en de gecombineerde monitoring via FusionSolar werkt uitstekend. Sessy werkt ook met Huawei-omvormers via AC-koppeling, maar je benut de Huawei-integratie dan niet.'
+    a: 'Bij een bestaande Huawei SUN2000-omvormer is de Luna 2000 de logische keus: de DC-koppeling scheelt een omzettingsstap en de monitoring loopt via één app. Een Sessy werkt in die woning ook, maar dan benut je de Huawei-integratie niet. Vraag in dat geval wel een offerte op, want de Luna-prijs is niet publiek.'
   - q: Kan de Huawei Luna 2000 worden uitgebreid?
-    a: 'Ja, dat is juist de sterkte. Je begint met één module van 5 kWh en voegt later modules toe tot maximaal 30 kWh (6 × 5 kWh). Elke module kost ~€1.500-€1.800. Sessy is niet modulair uitbreidbaar — je koopt een vaste 10 kWh unit.'
-  - q: Welke batterij is beter voor dynamisch stroomhandel?
-    a: 'Sessy. Het systeem is specifiek gebouwd voor de Nederlandse energiemarkt met eigen EPEX SPOT-integratie. Werkt met elk dynamisch contract (Tibber, Frank Energie, etc.). Huawei Luna 2000 heeft minder geavanceerde native trading-software en is meer gericht op maximaliseren van eigen verbruik dan actief arbitrage.'
+    a: 'Ja, dat is de sterkste eigenschap. Je begint met één module van 5 kWh en stapelt tot drie modules per toren (15 kWh); meerdere torens parallel is ook mogelijk. Op de Nederlandse Huawei-site staat inmiddels ook de opvolger, de S1-serie tot 21 kWh. Wat een extra module kost, publiceert Huawei niet — dat staat in je offerte.'
+  - q: Welke batterij is beter voor een dynamisch contract?
+    a: 'Beide kunnen op uurprijzen sturen. De Sessy is expliciet voor de Nederlandse markt en dynamische contracten gebouwd; de Luna stuurt via time-of-use-instellingen in FusionSolar en is primair op maximaal eigen verbruik gericht. In ons rekenmodel is de netarbitragecomponent voor beide gelijk gesteld op €8 per kWh capaciteit per jaar — wij hebben geen meetdata waarmee we het ene algoritme boven het andere kunnen stellen.'
+  - q: Wat kost een Huawei Luna 2000 in Nederland?
+    a: 'Huawei publiceert geen consumentenprijzen (solar.huawei.com/nl, geraadpleegd 21-8-2026). De prijs komt uit de offerte van je installateur en verschilt per configuratie. In de rekenvoorbeelden in dit artikel gebruiken wij dezelfde aanname als in onze Luna-review: €7.000 inclusief installatie voor 10 kWh. Wijkt jouw offerte daarvan af, vervang dan dat bedrag en herbereken.'
 products:
   - name: Sessy thuisbatterij 10 kWh
     url: https://go.duurzaamthuislab.nl/sessy
     price: '5500'
   - name: Huawei Luna 2000 10 kWh
-    url: https://go.duurzaamthuislab.nl/sessy
-    price: '6500'
-  - name: Marstek Venus 5 kWh (budget alt)
-    url: https://go.duurzaamthuislab.nl/marstek
-    price: '2500'
-  - name: Tibber dynamisch contract
-    url: https://go.duurzaamthuislab.nl/tibber
-    price: '6'
+    url: https://go.duurzaamthuislab.nl/huawei-luna
+    price: '0'
+  - name: EcoFlow STREAM AC 5000
+    url: https://go.duurzaamthuislab.nl/ecoflow
+    price: '1599'
 schema_type: Article
-last_updated: '2026-10-02'
-category: thuisbatterijen
+last_updated: '2026-08-21'
 ---
-Een veelvoorkomende situatie: er ligt een offerte voor een Huawei Luna 2000, 10 kWh, rond €6.500 inclusief installatie. Online staat de Sessy een stuk lager geprijsd. Wat is dan precies het verschil?
+Een veelvoorkomende situatie: er ligt een offerte voor een Huawei Luna 2000 van 10 kWh, en online staat de Sessy met een gepubliceerde prijs. Wat is dan precies het verschil?
 
-Het antwoord is langer dan de prijskaartjes suggereren. Het verschil tussen Sessy en de Huawei Luna 2000 is niet simpelweg "NL vs China" of "goedkoop vs duur". Het zit vooral in hoe jouw bestaande installatie eruitziet, wat je van de software verwacht, en of je nu 10 kWh wilt of later misschien 20 kWh.
+Het antwoord is langer dan de prijskaartjes suggereren — en het begint met de vaststelling dat er bij de Luna geen prijskaartje is. Het verschil tussen Sessy en de Huawei Luna 2000 zit vooral in hoe jouw bestaande installatie eruitziet, hoeveel vermogen je nodig hebt, en of je nu 10 kWh wilt of later misschien 20 kWh.
 
 Dit artikel zet die afweging op papier.
 
-*Disclosure: de links naar Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: de links naar Sessy (Charged) en Huawei in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en ontvangen hiervoor geen vergoeding. De link naar EcoFlow is wél een affiliate-link: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Wij vergelijken op basis van fabrieksspecificaties, handleidingen en publieke data; wij meten en testen niet zelf.*
 
 ---
 
-> **Kort antwoord:** Sessy (€5.500 incl. btw, excl. installatie, 10 kWh) is de betere keus voor wie dynamisch wil handelen op de energiemarkt en geen Huawei-omvormer heeft. Huawei Luna 2000 (€6.500, 5-30 kWh) wint als je al een Huawei SUN2000-omvormer hebt of wilt opschalen naar 15-30 kWh. Voor de gemiddelde koopwoning met 6-12 panelen en geen uitbreidingsplannen: Sessy.
+> **Kort antwoord:** de Sessy is de logische keus als je géén Huawei SUN2000-omvormer hebt: hij is AC-gekoppeld met eigen omvormer, werkt naast elk merk, en Charged publiceert de prijs (10 kWh €5.500 incl. btw, excl. installatie; sessy.nl, 21-8-2026). De Huawei Luna 2000 is de logische keus als die omvormer er al hangt, als je vermogen nodig hebt (5 kW tegen 1,7 kW bij Sessy) of als je later naar 15 kWh of meer wilt. Huawei publiceert geen consumentenprijs; die moet uit je offerte komen.
 
 ## Wat zijn Sessy en Huawei Luna 2000 precies?
 
-Voordat we vergelijken, eerst de feiten op een rij.
+**Sessy** is een product van **Charged**, gevestigd in Andelst (opgave sessy.nl, 21-8-2026). Het is een AC-gekoppelde batterij met een **ingebouwde omvormer**, waardoor het merk van je bestaande zonne-omvormer niet uitmaakt — volgens Charged werkt de Sessy op zowel 1-fase- als 3-fase-installaties. De batterij stuurt zelf op je verbruik (via de P1-poort) en op de day-ahead-uurprijzen van een dynamisch contract. Verkrijgbaar in 5 kWh (€3.550), 10 kWh (€5.500) en als Sessy Plus 15 kWh (€9.400), alle inclusief btw en exclusief installatie.
 
-**Sessy** is een Nederlands product van Sessytech BV uit Rotterdam, opgericht in 2020. Het systeem is specifiek ontworpen voor de Nederlandse energiemarkt: AC-gekoppeld (werkt dus met elke omvormer), met een eigen smart-trading-algoritme dat op EPEX SPOT-uurprijzen draait. Je hebt geen specifieke omvormer nodig. Sessy werkt op basis van een eigen energiebeheersysteem dat je batterij stuurt op basis van actuele marktprijzen.
+**Huawei Luna 2000** is onderdeel van Huawei's Smart PV-systeem. Het is een DC-gekoppeld systeem dat werkt in combinatie met een Huawei SUN2000-omvormer. Het systeem is modulair: de basiseenheid is 5 kWh en je stapelt tot drie modules per toren (15 kWh); meerdere torens parallel is mogelijk. Op de Nederlandse Huawei-site staat inmiddels ook de opvolger vermeld, de **LUNA2000-S1-serie** met capaciteiten tot 21 kWh (solar.huawei.com/nl, geraadpleegd 21-8-2026); gedetailleerde specificaties en prijzen publiceert Huawei daar niet. Controleer in je offerte welke serie je krijgt aangeboden.
 
-**Huawei Luna 2000** is onderdeel van Huawei's Smart PV-ecosysteem. Het is een DC-gekoppeld systeem dat diep integreert met Huawei's eigen SUN2000-omvormers. Het systeem is modulair: de basiseenheid is 5 kWh, en je kunt tot 6 modules koppelen voor maximaal 30 kWh. Huawei is wereldwijd de grootste omvormerproducent en heeft een stevige positie in Nederland bij installateurs die de SUN2000-lijn verkopen.
-
-Beide systemen gebruiken LFP-chemie (lithiumijzerfosfaat) — de veiligste en meest duurzame lithiumtechnologie.
+Beide systemen gebruiken LFP-cellen (lithium-ijzerfosfaat), de gangbare chemie voor thuisopslag.
 
 ## Technische vergelijking: de harde cijfers
 
-Laten we beginnen met de technische specificaties naast elkaar:
-
-| Specificatie | Sessy 10 kWh | Huawei Luna 2000 10 kWh |
+| Specificatie | Sessy 10 kWh | Huawei Luna 2000 10 kWh (S0) |
 |---|---|---|
-| Capaciteit (brutaal) | 11,5 kWh | 10 kWh (2× 5 kWh module) |
-| Bruikbare capaciteit | 10,0 kWh | 10,0 kWh |
-| Piekontlaadvermogen | 3,68 kW | 5,0 kW |
-| Continu laadvermogen | 3,68 kW | 2,5 kW per module (5 kW totaal) |
-| Koppeling | AC | DC (SUN2000) / AC-backup |
+| Bruikbare capaciteit | 10 kWh | 10 kWh (2 × 5 kWh module) |
+| Laadvermogen | 2,2 kW | 5 kW nominaal bij 10-15 kWh |
+| Ontlaadvermogen | 1,7 kW | 5 kW nominaal bij 10-15 kWh |
+| Koppeling | AC, eigen omvormer ingebouwd | DC, vereist Huawei SUN2000 |
 | Celchemie | LFP | LFP |
-| Cyclusgarantie | 4.000 cycli @ 80% | 6.000 cycli @ 60% |
-| Gewicht | 67 kg | 2× 35 kg = 70 kg |
-| Afmetingen (h×b×d) | 750×480×250 mm | 670×500×200 mm per module |
-| IP-klasse | IP55 | IP55 |
-| Temperatuurbereik | 0 tot 40°C | −10 tot 55°C |
-| Garantie | 10 jaar | 10 jaar |
+| Opgegeven cycli | 6.000+ | 6.000+ tot 70% restcapaciteit |
+| Gewicht | 96 kg (één unit) | 63,8 kg per module (2 × = 127,6 kg) |
+| Afmetingen | 41 × 27 × 78 cm | 67 × 15 × 60 cm per module |
+| Bedrijfstemperatuur | 0 tot 40 °C | volgens datasheet ruimer; controleer je configuratie |
+| Retourrendement | 85% (opgave Charged) | niet als één getal gepubliceerd |
+| Garantie | 10 jaar batterij, 5 jaar omvormer | 10 jaar |
+| Consumentenprijs | €5.500 (gepubliceerd) | niet publiek |
 
-Een paar dingen vallen op. De Sessy heeft iets meer brutale capaciteit (11,5 kWh) maar dezelfde bruikbare 10 kWh. Het piekontlaadvermogen van de Luna (5 kW bij 2 modules) is hoger dan de Sessy (3,68 kW) — relevant als je een warmtepomp of EV wilt sturen die pieken trekt. De Luna heeft ook een ruimer temperatuurbereik: −10°C, dus ook in een onverwarmde schuur in een koude Drentse winter.
+*Bronnen: sessy.nl en solar.huawei.com/nl, beide geraadpleegd 21 augustus 2026. Wij hebben geen van beide systemen zelf nagemeten.*
 
-## Prijs per kWh en totale kostenplaatje
+Wat hier opvalt is niet de capaciteit maar het **vermogen**. De Sessy geeft maximaal 1,7 kW af en laadt maximaal 2,2 kW; de Luna zit bij 10 kWh op 5 kW nominaal. Voor een woning met een warmtepomp, inductie en een EV is dat het beslissende verschil: de Sessy dekt een avondpiek van 3 tot 5 kW nooit volledig, de Luna wel.
 
-Een prijsverschil van rond €1.000 voelt fors. Maar het loont om verder te kijken dan de sticker.
+Het gewicht werkt de andere kant op: 63,8 kg per Luna-module is per stuk lichter dan de 96 kg van een Sessy 10 kWh, maar twee modules samen wegen meer. Voor de montage is dat een aandachtspunt in beide gevallen.
 
-| Kostencategorie | Sessy 10 kWh | Luna 2000 10 kWh |
-|---|---|---|
-| Aankoopprijs | €5.500 | €6.500 |
-| Installatie | €500-€800 | €400-€600 (bij Huawei-installateur) |
-| Totaal instap | ~€6.000-€6.300 | ~€6.900-€7.100 |
-| Prijs/kWh (aanschaf) | €550/kWh | €650/kWh |
-| Prijs/kWh (totaal) | €650-€680/kWh | €690-€710/kWh |
-| Uitbreiden naar 15 kWh | Niet mogelijk | +€2.500-€3.000 (1 module) |
-| Uitbreiden naar 20 kWh | Niet mogelijk | +€5.000-€6.000 (2 modules) |
+## Prijs: wat je wel en niet kunt vergelijken
 
-Sessy wint op prijs/kWh voor de instap-10-kWh-configuratie. Maar als je overweegt later uit te breiden naar 15 of 20 kWh, wordt de Luna aantrekkelijker: je hebt al je omvormer, bekabeling en installatie betaald — elke extra module is relatief goedkoop.
+Dit is het eerlijke deel van dit artikel, en het staat in de meeste vergelijkingen niet: **de prijzen van deze twee systemen zijn niet op dezelfde manier bekend.**
 
-Voor een woning met 10 zonnepanelen (circa 3 kWp) en geen uitbreidingsplannen is Sessy de scherpere deal.
+- **Sessy:** Charged publiceert de prijs op sessy.nl. 5 kWh €3.550, 10 kWh €5.500, Plus 15 kWh €9.400 — inclusief btw, **exclusief** installatie. De installatiekosten worden bij het bestellen apart berekend.
+- **Huawei Luna 2000:** Huawei publiceert géén consumentenprijzen (solar.huawei.com/nl, geraadpleegd 21-8-2026). Elk bedrag dat je op vergelijkingssites tegenkomt komt uit individuele offertes, en dat geldt ook voor prijzen per extra module.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy prijzen en specs</a>
+Daarom noemen wij hier geen prijs per Luna-module en geen prijstabel per configuratie. In de rekenvoorbeelden hieronder gebruiken wij één expliciete **aanname**, dezelfde als in onze [Huawei Luna 2000 review](/posts/huawei-luna-2000-review-2026/): **€7.000 inclusief installatie voor 10 kWh**. Wijkt jouw offerte daarvan af, vervang dat bedrag dan en herbereken — de terugverdientijd schaalt recht evenredig mee.
+
+Op beide systemen geldt **21 procent btw**. Het 0-procenttarief bestaat alleen voor zonnepanelen en direct noodzakelijke onderdelen, niet voor thuisbatterijen.
+
+<a href="https://go.duurzaamthuislab.nl/sessy?ref=/posts/sessy-vs-huawei-luna-2000-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk de actuele Sessy-prijzen</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
 ## Omvormer-integratie: hier zit het grootste verschil
 
 Dit is het onderdeel dat de meeste mensen missen als ze een batterij kiezen.
 
-**Sessy is AC-gekoppeld.** Dat betekent: de batterij zit achter de omvormer, net als je wasmachine en koelkast. Zonne-energie van je panelen gaat via je omvormer naar wisselstroom (230V), en die wisselstroom laadt je Sessy. Voordeel: Sessy werkt met elke omvormer — SMA, SolarEdge, Fronius, Enphase, Huawei. Je hoeft niets te veranderen aan je bestaande installatie.
+**Sessy is AC-gekoppeld en heeft zijn eigen omvormer.** De batterij zit achter de meter, net als je wasmachine. Zonne-energie gaat via je bestaande omvormer naar wisselstroom, en die wisselstroom laadt de Sessy. Voordeel: het merk van je zonne-omvormer doet niet mee — SMA, SolarEdge, Fronius, Enphase of Huawei. Je hoeft niets aan je bestaande installatie te veranderen. Nadeel: er zit een extra omzettingsstap in, en dat kost rendement. Charged geeft 85 procent retourrendement op.
 
-**Huawei Luna 2000 is DC-gekoppeld bij gebruik met een SUN2000-omvormer.** De panelen, de omvormer én de batterij zijn één geïntegreerd systeem. Zonne-energie gaat rechtstreeks van de panelen naar de batterij, zonder eerst naar wisselstroom te worden omgezet. Efficiëntievoordeel: ~3-5% minder conversieverliezen. Bovendien kan de omvormer de batterij gebruiken voor "clipping-optimalisatie" — bij hoge piekproductie die de omvormer normaal zou afkappen, slaat de batterij dat overschot op.
+**Huawei Luna 2000 is DC-gekoppeld en vereist een SUN2000-omvormer.** De panelen, de omvormer en de batterij vormen één systeem. Zonne-energie gaat rechtstreeks van de panelen naar de batterij zonder tussenstap naar wisselstroom, wat conversieverlies scheelt. Bovendien kan de omvormer overschot dat hij anders zou afkappen naar de batterij sturen.
 
 Wat betekent dit in de praktijk?
 
-| Scenario | Sessy | Luna 2000 |
+| Jouw situatie | Sessy | Luna 2000 |
 |---|---|---|
-| Je hebt een Huawei SUN2000-omvormer | Werkt, maar geen DC-integratie | Optimale DC-koppeling |
-| Je hebt een SMA/SolarEdge/Fronius omvormer | Werkt perfect | Werkt via AC, maar minder optimaal |
-| Je wil nieuwe installatie (omvormer + batterij) | Kies je omvormer vrij | Kies Huawei SUN2000 voor max voordeel |
-| Je wil Home Assistant integratie | Goede integratie beschikbaar | FusionSolar heeft beperkingen |
+| Huawei SUN2000-omvormer aanwezig | Werkt, maar zonder DC-integratie | De logische keus |
+| SMA, SolarEdge, Fronius of Enphase aanwezig | De logische keus | Vereist ook een nieuwe omvormer |
+| Nieuwe installatie, omvormer nog vrij te kiezen | Vrije keuze, prijs is bekend | Alleen met SUN2000; prijs uit offerte |
+| Geen zonnepanelen, alleen arbitrage | Werkt zelfstandig | Niet logisch — DC-systeem rond panelen |
 
-Bij een SMA-omvormer is het advies eenvoudig: Sessy. Staat er al een Huawei SUN2000, dan wordt de afweging interessanter en weegt de DC-integratie mee.
+Bij een niet-Huawei-omvormer is het advies eenvoudig: dan valt de Luna praktisch af, want de kosten van een nieuwe omvormer komen erbij. Staat er al een SUN2000, dan wordt de afweging interessant.
 
-## App en software: dagelijkse bruikbaarheid
+## App en software
 
-Software is naar onze inschatting minstens zo belangrijk als hardware. Een batterij die je niet begrijpt, benut je niet optimaal.
+**Sessy-app** (op basis van de functiebeschrijving van Charged):
+- Overzichtelijke hoofdpagina: huidig vermogen, laadstatus, resultaat van vandaag
+- De uurprijzen van vandaag en morgen
+- Inzicht in waarom de batterij op dit moment laadt of ontlaadt
+- Statistieken per dag, week en maand
+- Een beperkte, niet volledig open API
 
-**Sessy app** — op basis van de handleiding, de functiebeschrijving van de fabrikant en gebruikersreviews:
-- Simpele en overzichtelijke hoofdpagina: huidig vermogen, laadstatus, vandaag verdiend
-- EPEX-integratie: de app toont de uurprijzen voor vandaag en morgen
-- Trading-strategie: je ziet waarom de batterij nu laadt of ontlaadt
-- Statistieken: dagelijks/wekelijks/maandelijks, inclusief "verdiend door arbitrage"
-- Koppeling met Tibber, Frank Energie en andere dynamische contracten
-- API beschikbaar voor Home Assistant-integratie
+**Huawei FusionSolar** (op basis van de documentatie van Huawei):
+- Omvormer, batterij en panelen in één dashboard
+- Monitoring tot op stringniveau
+- Time-of-use-instellingen waarmee je laad- en ontlaadvensters vastlegt
+- Meer instelmogelijkheden, en daardoor een steilere leercurve
 
-**Huawei FusionSolar app** — op basis van de documentatie van Huawei en gebruikersreviews:
-- Rijke data: tot op uur-niveau alle energie-flows in grafieken
-- Omvormer + batterij + panelen in één dashboard
-- Goede monitoring van individuele strings/panelen
-- Smart Energy Management: je kunt prioriteiten instellen (eigen verbruik vs netexport vs batterijladen)
-- Minder transparant over arbitrage-strategie dan Sessy
-- Leercurve is hoger: je hebt meer knoppen dan je nodig hebt
+Wij kennen geen scores toe aan apps. Dat zou een eigen test veronderstellen en die doen wij niet. Wat we wél kunnen zeggen: de Sessy-app is gebouwd rond één vraag ("wat levert de batterij op?"), FusionSolar rond het volledige zonnesysteem. Welke van de twee beter bij je past, hangt af van of je alleen een batterij beheert of een compleet Huawei-systeem.
 
-| App-aspect | Sessy | Huawei FusionSolar |
-|---|---|---|
-| Gebruiksgemak eerste week | ★★★★★ | ★★★☆☆ |
-| Datadepth en grafieken | ★★★☆☆ | ★★★★★ |
-| Trading-transparantie | ★★★★★ | ★★★☆☆ |
-| Home Assistant integratie | ★★★★☆ | ★★☆☆☆ |
-| Meldingen bij afwijkingen | ★★★★☆ | ★★★☆☆ |
-| iOS + Android parity | ★★★★☆ | ★★★☆☆ |
+Voor eigen automatisering: bij beide systemen is de API beperkt. Wil je vergaand koppelen met Home Assistant of Homey, controleer dan bij de fabrikant wat de huidige firmware toestaat — dat verandert per release, en garanties dat een community-integratie na een update blijft werken zijn er niet.
 
-Voor de gemiddelde gebruiker die wil zien "hoeveel heb ik deze maand bespaard": Sessy-app wint. Voor de techneut die elk energie-flow wil analyseren: FusionSolar heeft meer diepte.
+## Sturing op uurprijzen
 
-## Smart trading: arbitrage op de energiemarkt
+Beide systemen kunnen op uurprijzen sturen, maar op een verschillende manier.
 
-Dit is waar Sessy echt is ontworpen voor en wat Huawei minder goed doet.
+De Sessy bepaalt zelf, op basis van de day-ahead-prijzen en je P1-data, wanneer hij laadt en ontlaadt. Je stelt hooguit randvoorwaarden in. De Luna werkt met time-of-use-vensters die je (of je installateur) in FusionSolar instelt, aangevuld met de sturing op maximaal eigen verbruik.
 
-Sessy's algoritme kijkt dagelijks naar de EPEX SPOT-uurprijzen voor de volgende dag. Als stroom 's nachts €0,05/kWh kost en overdag €0,28/kWh, laadt Sessy maximaal op tussen 01:00 en 05:00 en ontlaadt tussen 17:00 en 20:00. Het algoritme houdt ook rekening met je eigen zonne-opbrengst-voorspelling en je verbruikspatroon.
+Wat dat oplevert, houden wij in ons rekenmodel voor beide gelijk: **€8 per kWh capaciteit per jaar aan netarbitrage**, alleen op een dynamisch contract. Die aanname komt uit circa 100 extra wintercycli tegen €0,10 netto spreiding na omzettingsverliezen. Het is een eigen afleiding, geen meting, en wij hebben geen data waarmee we het ene algoritme boven het andere kunnen stellen.
 
-Wat levert dat op? Onderstaand rekenvoorbeeld is een modelberekening, geen meting. De aannames staan er expliciet bij, zodat je ze kunt vervangen door je eigen situatie.
-
-| Aanname in het model | Waarde |
-|---|---|
-| Bruikbare capaciteit | 10 kWh |
-| Volledige cycli per dag | 1 |
-| Retourrendement (laden + ontladen) | 90% |
-| Gemiddeld dagverschil goedkoopste/duurste uur | €0,10-€0,15 per kWh |
-| Aantal dagen per jaar waarop het spel opgaat | ~330 |
-
-| Uitkomst van het model | Bandbreedte |
-|---|---|
-| Voordeel per dag | €0,90-€1,35 |
-| Voordeel per maand | €27-€41 |
-| Arbitrage per jaar | circa €300-€450 |
-
-Daar bovenop komt het voordeel van meer eigen verbruik van je zonnestroom, dat in de zomermaanden juist het grootste is terwijl de arbitragewinst dan doorgaans kleiner is. In een winter met veel prijsuitschieters valt de arbitrage hoger uit dan dit model, in een vlakke markt lager. Reken dus met een bandbreedte, niet met één getal.
-
-Huawei Luna 2000 doet ook "slim laden" via de FusionSolar-app, maar het is minder geavanceerd als pure arbitrage-machine. Huawei's primaire focus ligt op maximaal eigen verbruik — zon opslaan en thuis gebruiken. Arbitrage op uurprijzen is een secundaire functie die minder actief wordt beheerd dan bij Sessy.
-
-**Vuistregel:** op een dynamisch contract (Tibber of Frank Energie) haal je met Sessy naar onze inschatting meer arbitragevoordeel dan met een Luna 2000 op hetzelfde contract, puur doordat het algoritme actiever op de uurprijzen stuurt. Hoeveel precies hangt volledig af van de prijsvolatiliteit in dat jaar; een hard bedrag is niet te geven.
+Wat de spreiding waard is, verschilt sterk per jaar. Het EPEX-jaargemiddelde over 2025 lag op €0,105 per kWh (inclusief btw), met 212 negatieve uren en één uitschieter van €0,63 per kWh (20 januari 2025, 17:00). Actuele uurprijzen staan in ons [overzicht van de stroomprijzen per uur](/stroomprijzen/), en de langere reeks in de [prijshistorie](/stroomprijzen-historie/).
 
 Lees ook: [Tibber review — werkt dynamisch echt?](/posts/tibber-review-ervaringen-2026/)
 
-## Schaalbaarheid: de Luna wint hier duidelijk
+## Schaalbaarheid
 
-Hier zit de grootste troef van de Luna, en voor een bepaald profiel is die doorslaggevend.
+**De Luna 2000 is modulair.** Eén module is 5 kWh; je stapelt tot drie modules per toren (15 kWh) en kunt meerdere torens parallel plaatsen. De S1-serie loopt volgens de Nederlandse Huawei-site tot 21 kWh. Wat een extra module kost, publiceert Huawei niet.
 
-**Sessy is één eenheid van 10 kWh.** Je kunt er geen tweede naast zetten (niet officieel ondersteund). Als je later meer capaciteit wilt, koop je een nieuwe batterij — hogere installatiekosten en dubbele hardware.
+**De Sessy is per apparaat vast.** Er zijn drie modellen (5, 10 en 15 kWh) en volgens Charged zijn meerdere units te koppelen voor meer capaciteit — maar voor die configuraties staat geen prijs op de site. Wil je boven 15 kWh uitkomen, vraag dan een opgave bij Charged of je installateur.
 
-**Huawei Luna 2000 is modulair.** Eén LUNA2000-S0 module: 5 kWh. Je kunt er maximaal 6 aan koppelen voor 30 kWh totale capaciteit. Elke module kost extra ~€1.500-€1.800 plus relatief lage installatiekosten (kabels zijn al aanwezig).
+Voor wie is schaalbaarheid werkelijk relevant? Huishoudens die op termijn een warmtepomp én een EV krijgen en dan boven de 15 kWh uitkomen. Voor een woning met 6 tot 12 panelen zonder uitbreidingsplan is het geen argument: de begrenzing zit dan bij je zonneoverschot, niet bij de capaciteit.
 
-| Configuratie | Huawei Luna 2000 | Sessy equivalent |
+## Noodstroom bij stroomuitval
+
+Hier stond in eerdere versies van dit artikel een onjuiste beschrijving. De feiten:
+
+**Sessy:** noodstroom is **geen standaardfunctie**. Charged schrijft zelf dat de Sessy "niet bedoeld [is] voor volledige autonome noodstroomvoorziening". Het apparaat heeft een 48 V-uitgang; met een externe omvormer (Charged noemt een oplossing van het type Victron) kun je een beperkte selectie apparaten van stroom blijven voorzien zolang er lading in de batterij zit. Er is geen automatische omschakeling in de standaarduitvoering. Voor de **Sessy Plus (15 kWh)** biedt Charged een basisinstallatie noodstroom aan als betaalde optie van **€1.200** (opgave sessy.nl, 21-8-2026).
+
+**Huawei Luna 2000:** met de SUN2000-omvormer en een backup-box schakelt het systeem automatisch over op batterijvoeding bij netuitval; één groep in de meterkast blijft dan gevoed. Wat die box kost, publiceert Huawei niet — vraag het op in je offerte.
+
+| Noodstroom | Sessy | Luna 2000 + backup-box |
 |---|---|---|
-| 5 kWh | €3.500-€4.000 | Niet beschikbaar |
-| 10 kWh | €6.500-€7.000 | €5.500-€6.000 |
-| 15 kWh | €9.000-€10.000 | 2× Sessy ~€13.000+ |
-| 20 kWh | €11.500-€13.000 | 2× Sessy ~€13.000+ |
-| 30 kWh | ~€17.000-€19.000 | Niet praktisch |
+| Automatische omschakeling | Nee | Ja |
+| Standaard meegeleverd | Nee | Nee, optie |
+| Meerprijs | €1.200 basisinstallatie, alleen bij de Plus | Niet publiek, uit offerte |
+| Dekking | Beperkte selectie apparaten via externe omvormer | Eén groep |
 
-Vanaf 15 kWh wordt de Luna duidelijk voordeliger als je al een Huawei SUN2000-omvormer hebt.
+Wie noodstroom als hoofdreden voor een batterij heeft, moet dit onderdeel dus zwaar laten wegen — en bij de Sessy vooral goed lezen wat er níet standaard bij zit.
 
-Voor wie schaalbaarheid relevant is: gezinnen met een warmtepomp + EV die op termijn 15-20 kWh nodig hebben, of zzp'ers met een thuiskantoor die ook 's nachts stroom-intensief werken.
-
-Voor de gemiddelde koopwoning met 6-10 panelen en geen uitbreidingsplan: schaalbaarheid is geen argument.
-
-## Backup bij stroomuitval
-
-Beide systemen bieden backup, maar met een belangrijk verschil in uitvoering.
-
-**Sessy backup:** Sessy heeft een backup-functie, maar die werkt niet automatisch. Je moet handmatig overschakelen via de app of een fysieke schakelaar. Dit betekent: bij stroomuitval ben je afhankelijk van of je het merkt en handelt. Voor wie echt oninterruptible backup wil: dit is een nadeel.
-
-**Huawei Luna 2000 backup:** Bij gebruik met de SUN2000-omvormer en de optionele Smart Backup Box (SBB) schakelt het systeem binnen milliseconden automatisch over op batterijvoeding. Één groep in je meterkast blijft gevoed. Dit is een echte UPS-achtige backup — je merkt een storing nauwelijks.
-
-| Backup-aspect | Sessy | Luna 2000 + SBB |
-|---|---|---|
-| Automatische omschakeling | Nee | Ja (<20 ms) |
-| Meerprijs voor backup | Gering (schakelaar) | €500-€800 (SBB) |
-| Aantal gevulde groepen | 1 (handmatig) | 1 (automatisch) |
-| Opstarttijd | ~10-30 seconden | <1 seconde |
-
-Voor wie in een gebied met regelmatige netonderbrekingen woont, is de automatische backup van de Luna + SBB serieus de moeite waard. Voor stadswoningen waar stroomuitval zeldzaam is: de Sessy-backup volstaat.
-
-## Garantie en lokale service
-
-Sessy is een Nederlands bedrijf. Dat klinkt als een simpel feit, maar het heeft consequenties.
+## Garantie en service
 
 **Sessy:**
-- 10 jaar productgarantie
-- 10 jaar capaciteitsgarantie (80% behoud na 4.000 cycli)
-- Service via Nederlandse helpdesk (NL-nummer, NL-medewerkers)
-- Software-updates direct beschikbaar voor NL-markt
-- Bedrijf actief betrokken bij EPEX SPOT-optimalisaties voor NL
-- Risico: kleiner bedrijf, minder financieel bufferkapitaal dan Huawei
+- 10 jaar garantie op de batterij, 5 jaar op de ingebouwde omvormer (sessy.nl, 21-8-2026)
+- 6.000+ cycli opgegeven
+- Nederlandse fabrikant met eigen helpdesk in het Nederlands, tijdens kantooruren
+- Kleiner bedrijf dan Huawei; dat is een reëel aandachtspunt bij een garantietermijn van tien jaar
 
 **Huawei Luna 2000:**
-- 10 jaar productgarantie
-- Capaciteitsgarantie: 60% na 6.000 cycli (~16 jaar bij dagelijks gebruik)
-- Service via geautoriseerde installateurs (niet via Huawei direct)
-- Software-updates via FusionSolar — soms Aziatische prioriteit vóór Europese features
-- Huawei is 's werelds grootste telecom/IT-bedrijf — faillissementsrisico nihil
-- Zorg: Chinese bedrijf met databezorgdheden bij sommige klanten
+- 10 jaar garantie
+- 6.000+ cycli tot 70 procent restcapaciteit
+- Service via geautoriseerde installateurs, niet via Huawei direct
+- Wereldwijd platform; functies voor de Nederlandse markt krijgen niet automatisch prioriteit
 
-| Garantie-aspect | Sessy | Huawei Luna 2000 |
-|---|---|---|
-| Garantieduur | 10 jaar | 10 jaar |
-| Cyclusgarantie | 4.000 @ 80% | 6.000 @ 60% |
-| Verwachte levensduur | 12-15 jaar | 15-20 jaar |
-| Serviceloket | NL direct | Via installateur |
-| Financiële stabiliteit | Klein bedrijf | Multinational |
-| Data-soevereiniteit | NL-servers | Chinese servers |
+Let op het verschil in de cyclusopgave: Charged noemt 6.000+ cycli zonder restcapaciteitspercentage in de publieke specificaties, Huawei noemt 6.000+ tot 70 procent. Die twee getallen zijn dus niet één-op-één vergelijkbaar. Vraag bij beide de garantievoorwaarden op papier op voordat je koopt — daar staat wat er werkelijk gedekt is.
 
-De Huawei cyclusgarantie (6.000 cycli) is op papier beter dan Sessy's 4.000 cycli. Maar Sessy garandeert 80% restcapaciteit (beter) terwijl Huawei 60% garandeert (minder). In de praktijk halen beide batterijen 15+ jaar.
+Onafhankelijke langetermijnmetingen aan beide producten bestaan niet. Reken met de garantietermijn en niet met een verwachte levensduur die niemand kan onderbouwen.
 
-## Software-updates: wie blijft actueel?
+## Terugverdientijd: het rekenmodel
 
-Een thuisbatterij is zo goed als zijn laatste software-update. Dit is een aspect dat weinig mensen controleren bij aanschaf.
+Hieronder de uitkomst van het rekenmodel dat wij site-breed gebruiken. Het is een **modelberekening met expliciete aannames**, geen meting en geen prognose. De volledige onderbouwing staat in [ROI thuisbatterij na saldering 2027](/posts/roi-thuisbatterij-na-saldering-2027-berekening/).
 
-**Sessy** heeft sinds de introductie meerdere functionele updates uitgebracht, onder andere rond EPEX-integratie en ondersteuning van meer dynamische leveranciers. Als klein NL-bedrijf zijn ze wendbaar — een update voor de NL-markt (bijv. na saldering-stop 2027) kan snel worden uitgerold.
+**Aannames (peildatum 21-8-2026):**
+- Leveringstarief €0,26 per kWh all-in inclusief btw
+- Terugleververgoeding vanaf 2027 €0,07 per kWh — een gelabelde aanname; geen leverancier heeft dit tarief gepubliceerd
+- Verschuifbaar volume = capaciteit × 150 zoncycli, begrensd door je overschot × 0,9 en je afname van het net
+- Retourrendement 90 procent (Charged geeft voor de Sessy zelf 85 procent op; daarmee valt de uitkomst iets lager uit)
+- Netarbitrage €8 per kWh capaciteit per jaar, alleen met een dynamisch contract
+- Saldering stopt volledig op 1-1-2027; er is geen afbouwpad
+- Investering Luna 2000 10 kWh inclusief installatie: **€7.000 (aanname)**; Sessy 10 kWh **€5.500 exclusief installatie (gepubliceerd)**
 
-**Huawei Luna 2000** krijgt updates via het FusionSolar-platform. Het platform is rijp en stabiel. Wel is het een wereldwijd platform: functies die specifiek op de Nederlandse markt zijn gericht hebben in de regel minder prioriteit dan bij een leverancier die alleen hier actief is.
+| Systeem | Investering | Modelmatige jaarwaarde vanaf 2027 | Terugverdientijd |
+|---|---|---|---|
+| Sessy 10 kWh | €5.500 excl. installatie | €353 | circa 15,6 jaar |
+| Huawei Luna 2000 10 kWh | €7.000 incl. installatie (aanname) | €353 | circa 19,8 jaar |
 
-Voor de [saldering-stop in 2027](/posts/saldering-stopt-2027-volledige-gids/) — die de spelregels voor thuisbatterijen opnieuw definieert — is onze inschatting dat Sessy sneller met een algoritme-update zal reageren dan Huawei.
+De jaarwaarde is in dit model voor beide systemen **gelijk**, en dat is een bewuste keuze: bij dezelfde capaciteit, hetzelfde verbruiksprofiel en hetzelfde contract verschuiven beide batterijen hetzelfde volume. Het verschil in terugverdientijd komt dus volledig uit de investering, niet uit de hardware.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Sessy bestellen of offerte aanvragen</a>
+Twee kanttekeningen die de vergelijking eerlijk houden:
+
+1. **Bij de Sessy komt de installatie er nog bij.** Die 15,6 jaar is dus een ondergrens; met installatiekosten loopt die op naar de buurt van de Luna.
+2. **Bij de Luna is de €7.000 een aanname.** Ligt jouw offerte op €6.000, dan is de terugverdientijd 17,0 jaar; op €8.000 is het 22,7 jaar.
+
+**Wat hier ook staat:** in geen van deze scenario's verdient de batterij zich binnen de garantietermijn van tien jaar terug. Om dat te halen mag de totale investering bij 10 kWh niet boven circa €3.530 uitkomen. Dat lukt met een vast ingebouwd systeem niet — wél met een plug-in systeem.
+
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/sessy-vs-huawei-luna-2000-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow STREAM-serie (affiliate) →</a>
+
+Wil je dit met je eigen cijfers doorrekenen? Gebruik de [thuisbatterij terugverdientijd-vergelijker](/thuisbatterij-terugverdientijd-vergelijken/).
 
 ## Voor wie is welke batterij de juiste keus?
 
-Na alle technische vergelijkingen: onze praktische aanbevelingen per situatie.
-
 **Kies Sessy als:**
 - Je geen Huawei SUN2000-omvormer hebt (of niet wilt)
-- Je dynamisch wil handelen op EPEX-uurprijzen
-- Je Home Assistant gebruikt of wilt gebruiken
-- Je geen uitbreidingsplan hebt boven 10 kWh
-- Je wil werken met Tibber of Frank Energie
-- Je prijs/kWh het zwaarst laat wegen
+- Je een gepubliceerde prijs wil kunnen vergelijken in plaats van één offerte
+- Je avondverbruik grotendeels binnen 1,7 kW past
+- Je geen uitbreidingsplan hebt boven 15 kWh
+- Je waarde legt op een Nederlandse fabrikant met Nederlandstalige support
 
 **Kies Huawei Luna 2000 als:**
-- Je al een Huawei SUN2000-omvormer hebt
-- Je nu met 5 kWh wil beginnen en later uitbreiden
-- Je gaat voor 15+ kWh totaalcapaciteit
-- Je automatische backup (UPS) belangrijk vindt
-- Je installateurservices via je bestaande Huawei-partner wil regelen
+- Er al een Huawei SUN2000-omvormer hangt
+- Je vermogen nodig hebt: 5 kW tegen 1,7 kW bij de Sessy
+- Je klein wil beginnen (5 kWh) en later wil uitbreiden
+- Je automatische noodstroom op één groep belangrijk vindt
+- Je de service via je bestaande Huawei-installateur wil regelen
 
 | Profiel | Aanbeveling | Reden |
 |---|---|---|
-| Nieuwbouw, geen panelen/omvormer | Sessy of kies Luna met Huawei SUN2000 | Vrije keuze, Sessy goedkoper |
-| Bestaand SMA/SolarEdge/Fronius systeem | Sessy | AC-koppeling werkt perfect, geen reden voor Luna |
-| Bestaand Huawei SUN2000 systeem | Luna 2000 | DC-integratie is sterk voordeel |
-| Wil 5 kWh instappen, later uitbreiden | Luna 2000 | Sessy heeft geen 5 kWh variant |
-| Wil 20+ kWh | Luna 2000 | Sessy niet schaalbaar |
-| Focus op energiearbitrage | Sessy | Beter algoritme |
-| Warmtepomp + EV, hoog vermogen nodig | Luna 2000 | 5 kW piek vs 3,68 kW Sessy |
-| Budget-bewust, budget alternatief | [Marstek Venus 5 kWh](/posts/marstek-venus-review-thuisbatterij/) | €2.500 voor 5 kWh |
+| Bestaand SMA-, SolarEdge-, Fronius- of Enphase-systeem | Sessy | AC-koppeling; bij de Luna komt een nieuwe omvormer erbij |
+| Bestaand Huawei SUN2000-systeem | Luna 2000 | DC-integratie zonder extra investering in een omvormer |
+| Warmtepomp plus inductie plus EV, hoge gelijktijdige pieken | Luna 2000 | 5 kW tegen 1,7 kW |
+| Wil met 5 kWh instappen en later uitbreiden | Luna 2000 | Modulair per 5 kWh |
+| Alleen arbitrage, geen zonnepanelen | Sessy | Werkt zelfstandig, DC-systeem is dan zinloos |
+| Prijs per kWh is doorslaggevend | Vergelijk eerst met een plug-in systeem | Bij vaste systemen is de investering de dominante factor |
+| Wil een prijs kunnen controleren vóór het gesprek met een installateur | Sessy | Enige van de twee met publieke prijs |
 
 ## Uitgewerkte situatie: bestaande Huawei-omvormer, bescheiden verbruik
 
-Terug naar de situatie uit de inleiding. Neem een woning met een Huawei SUN2000-omvormer die er al twee jaar hangt, 10 zonnepanelen, een verbruik van ruim 4.000 kWh per jaar, geen EV en geen warmtepomp.
+Terug naar de situatie uit de inleiding. Neem een woning met een Huawei SUN2000-omvormer die er al twee jaar hangt, tien zonnepanelen, een verbruik van ruim 4.000 kWh per jaar, geen EV en geen warmtepomp.
 
-Onze inschatting: **Huawei Luna 2000, maar beginnen met 5 kWh (één module, circa €4.000 totaal).** Reden:
-1. De SUN2000-integratie levert DC-koppeling zonder extra investering
-2. Het verbruiksprofiel is bescheiden — 10 kWh is dan overgedimensioneerd, 5 kWh dekt de avondpiek
-3. Komt er over twee jaar een warmtepomp, dan is een tweede module eenvoudig bij te plaatsen
+Onze inschatting: **beginnen met één Luna-module van 5 kWh**, om drie redenen:
 
-Bij een SMA-omvormer in dezelfde woning zou het advies Sessy zijn, zonder twijfel.
+1. De SUN2000 is er al, dus de DC-koppeling kost geen extra investering in een omvormer.
+2. Het verbruiksprofiel is bescheiden — bij dit overschot vult 10 kWh zich vaak niet, dus dan koop je capaciteit die stilstaat.
+3. Komt er over twee jaar een warmtepomp, dan is een tweede module bij te plaatsen.
 
-Vergelijkbare overwegingen gelden trouwens ook als je kijkt naar de [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/) voor wie budget een grotere rol speelt.
+Vraag daarbij wel om de prijs per module in de offerte, want die is niet publiek en bepaalt of de rekensom sluit.
 
-Wil je weten hoe dit alles uitpakt in je terugverdientijd? Bekijk onze [thuisbatterij prijs per kWh analyse voor 2026](/posts/thuisbatterij-prijs-per-kwh-2026/).
+Bij een SMA-omvormer in dezelfde woning zou het advies de Sessy 5 kWh zijn: €3.550 exclusief installatie, een prijs die je vooraf kent.
 
-## Terugverdientijd: wat is realistisch?
-
-Ook dit is een modelberekening, met deze aannames: een huishouden van 4.500 kWh verbruik per jaar, 3.500 kWh zonne-opbrengst, een dynamisch contract, één cyclus per dag en de prijsspreiding uit het rekenvoorbeeld hierboven.
-
-**Sessy 10 kWh:**
-- Aanschafprijs incl. installatie in het model: €6.200
-- Modeluitkomst jaarvoordeel (extra eigen verbruik + arbitrage): circa €700-€1.000
-- Terugverdientijd in het model: **6-9 jaar**
-
-**Huawei Luna 2000 10 kWh (met SUN2000-omvormer):**
-- Aanschafprijs incl. installatie in het model: €7.100
-- Modeluitkomst jaarvoordeel (vooral extra eigen verbruik): circa €550-€800
-- Terugverdientijd in het model: **9-12 jaar**
-
-Het verschil in terugverdientijd heeft twee oorzaken: Sessy is goedkoper bij aanschaf én het arbitrage-algoritme voegt een inkomstenpost toe die de Luna nauwelijks benut. Beide uitkomsten schuiven flink op bij andere energieprijzen, dus behandel ze als richting, niet als belofte.
-
-Na [de saldering-stop in 2027](/posts/saldering-stopt-2027-volledige-gids/) verbeteren beide terugverdientijden in het model. Teruglevering wordt minder waard, eigen verbruik via de batterij wordt meer waard. Hoeveel de terugverdientijd korter wordt, hangt af van de terugleververgoeding en de kaleprijs na 2027 — die zijn nu niet bekend, dus een exact aantal jaren is niet te geven.
-
-Voor wie de aankoop overweegt in 2026: de timing is gunstig. Zowel Sessy als Luna zijn rijpe producten met bewezen track records.
+Vergelijkbare overwegingen gelden ook in de [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/), en de bredere prijsanalyse staat in [thuisbatterij prijs per kWh 2026](/posts/thuisbatterij-prijs-per-kwh-2026/).
 
 ## Snelle samenvatting
 
-| Criterium | Sessy 10 kWh | Luna 2000 10 kWh | Winnaar |
+| Criterium | Sessy 10 kWh | Luna 2000 10 kWh | Wat het betekent |
 |---|---|---|---|
-| Prijs instap | €5.500 | €6.500 | Sessy |
-| Prijs/kWh | €550/kWh | €650/kWh | Sessy |
-| Schaalbaarheid | Niet mogelijk | Tot 30 kWh | Luna |
-| Piekontlaadvermogen | 3,68 kW | 5,0 kW | Luna |
-| Smart trading/arbitrage | Uitstekend | Redelijk | Sessy |
-| Omvormer-onafhankelijkheid | Ja | Nee (optimaal Huawei) | Sessy |
-| Backup automatisch | Nee | Ja (+ SBB) | Luna |
-| App gebruiksgemak | ★★★★★ | ★★★☆☆ | Sessy |
-| App datadepth | ★★★☆☆ | ★★★★★ | Luna |
-| Cyclusgarantie | 4.000 @ 80% | 6.000 @ 60% | Gelijk |
-| Lokale service | Direct NL | Via installateur | Sessy |
-| Terugverdientijd (model) | 6-9 jaar | 9-12 jaar | Sessy |
+| Prijs | €5.500 excl. installatie, gepubliceerd | Niet publiek; aanname €7.000 incl. installatie | Sessy is vooraf te controleren |
+| Ontlaadvermogen | 1,7 kW | 5 kW | Luna dekt pieken, Sessy niet |
+| Laadvermogen | 2,2 kW | 5 kW | Luna vangt meer zonoverschot per uur op |
+| Omvormer-onafhankelijk | Ja, eigen omvormer | Nee, vereist SUN2000 | Beslissend bij een bestaande installatie |
+| Schaalbaarheid | Drie vaste modellen, koppelen mogelijk | Modulair per 5 kWh tot 15 (S0) of 21 kWh (S1) | Luna bij uitbreidingsplannen |
+| Noodstroom | Niet standaard; €1.200 optie bij de Plus | Automatisch met backup-box (prijs uit offerte) | Luna sterker |
+| Cycli | 6.000+ | 6.000+ tot 70% | Niet één-op-één vergelijkbaar |
+| Garantie | 10 jaar batterij, 5 jaar omvormer | 10 jaar | Vraag de voorwaarden op |
+| Service | Nederlandse helpdesk | Via installateur | Voorkeurskwestie |
+| Terugverdientijd (model) | circa 15,6 jaar (excl. installatie) | circa 19,8 jaar bij €7.000 | Verschil komt uit de investering |
 
-Sessy wint in de meeste categorieën voor de "gemiddelde" Nederlandse woning zonder Huawei-omvormer. Luna wint op de punten die specifiek relevant zijn voor Huawei-ecosysteem-gebruikers en wie wil opschalen.
+De keuze wordt in de praktijk door twee vragen beslist: **welke omvormer hangt er, en hoeveel vermogen heb je nodig?** Die twee wegen zwaarder dan het verschil op de offerte.
 
 ## Alternatieven om ook te overwegen
 
-Sessy en Luna zijn premium opties. Niet iedereen heeft €6.000-€7.000 beschikbaar of noodzakelijk.
+Beide systemen hierboven zijn vast ingebouwde batterijen in de prijsklasse waar de terugverdientijd buiten de garantie valt. Twee andere routes:
 
-**Marstek Venus 5 kWh (~€2.500):** Chinees, budget, AC-gekoppeld. Geen geavanceerd trading-algoritme maar degelijke basis-batterij. Lees onze [Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/) voor details.
+**Plug-in systemen.** De EcoFlow STREAM AC 5000 (5 kWh, 3.000 W) staat op €1.599 en de uitbreidingsaccu op €1.299 (nl.ecoflow.com, peildatum 21-8-2026). Voor circa 10 kWh kom je daarmee op €2.898 — een fractie van de systemen hierboven, met als prijs dat het geen vast ingebouwd systeem is en dat de plaatsing en aansluiting andere eisen stellen. In het rekenmodel is dit de enige categorie waarin de investering binnen tien jaar terugverdiend wordt.
 
-**Tesla Powerwall 3 (~€9.500):** Meer vermogen (11,5 kW piek), 13,5 kWh, ingebouwde backup, maar duurder en wachttijden. Bekijk de [Powerwall 3 vs Sessy vergelijking](/posts/powerwall-3-vs-sessy-2026/).
+**Tesla Powerwall 3.** 13,5 kWh, LFP, in de EU als 1-fase-systeem met 11,04 kW en standaard noodstroom. Tesla publiceert voor Nederland geen vaste consumentenprijs; zie de [Powerwall 3 vs Sessy vergelijking](/posts/powerwall-3-vs-sessy-2026/).
 
-**Minder capaciteit nodig?** Als je verbruik onder 3.500 kWh/jaar ligt, is 10 kWh in beide gevallen overdimensionering. Overweeg een 5 kWh Luna of een budgetbatterij.
+**Minder capaciteit nodig?** Ligt je zonneoverschot onder circa 1.800 kWh per jaar, dan is 10 kWh in beide gevallen overgedimensioneerd. Dan is een 5 kWh-systeem de betere keus.
 
-Voor een brede marktoverzicht: [thuisbatterij vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/) en specifiek [10 kWh thuisbatterijen naast elkaar](/posts/thuisbatterij-10-kwh-vergelijking-2026/).
+Voor een breed marktoverzicht: [thuisbatterij vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/) en [10 kWh thuisbatterijen naast elkaar](/posts/thuisbatterij-10-kwh-vergelijking-2026/).
 
 ---
 
 ## Conclusie
 
-Sessy en Huawei Luna 2000 zijn beide goede thuisbatterijen, maar voor verschillende situaties.
+Sessy en Huawei Luna 2000 zijn beide degelijke thuisbatterijen, maar ze concurreren minder met elkaar dan de prijsvergelijking suggereert.
 
-Sessy is de beste keus voor de meerderheid van de Nederlandse huishoudens: scherper geprijsd, beter trading-algoritme, eenvoudig te koppelen aan elke omvormer, directe NL-service. Als je geen Huawei SUN2000 hebt en niet boven 10 kWh wilt schalen: kies Sessy.
+De Sessy is de keus voor wie geen Huawei-omvormer heeft: hij werkt naast elk merk, de prijs is publiek en de fabrikant zit in Nederland. Daar staat een laag ontlaadvermogen van 1,7 kW tegenover en een terugverdientijd die in ons model op circa 15,6 jaar uitkomt, exclusief installatie.
 
-De Luna 2000 is de betere keus voor wie al in het Huawei-ecosysteem zit, of voor wie nu klein wil beginnen (5 kWh) en weet dat hij later uitbreidt. De DC-koppeling, hogere cyclustolerantie en schaalbaarheid zijn reële voordelen die de hogere prijs in specifieke situaties rechtvaardigen.
+De Luna 2000 is de keus voor wie al in het Huawei-systeem zit, vermogen nodig heeft of modulair wil uitbreiden. Het prijsnadeel is niet vast te stellen zolang Huawei geen consumentenprijzen publiceert — vraag de offerte op en reken hem door met het model hierboven.
 
-De praktische vuistregel blijft dus simpel: kijk eerst welke omvormer er hangt en of je later wilt uitbreiden. Die twee vragen bepalen de keuze sterker dan het prijsverschil op de offerte.
+En de conclusie die voor beide geldt: bij een modelmatige jaarwaarde van €353 voor 10 kWh valt de terugverdientijd van een vast ingebouwd systeem buiten de garantietermijn van tien jaar. Koop zo'n systeem voor het gemak, het vermogen of de noodstroom — niet primair voor het rendement.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy — offerte aanvragen</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk Sessy op sessy.nl</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
 *Vragen over jouw specifieke situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
@@ -386,15 +310,15 @@ De praktische vuistregel blijft dus simpel: kijk eerst welke omvormer er hangt e
 
 ## Gerelateerde artikelen
 
-- [Sessy review — uitgebreide test](/posts/sessy-review-thuisbatterij-nederland/)
+- [Sessy review](/posts/sessy-review-thuisbatterij-nederland/)
 - [Huawei Luna 2000 review](/posts/huawei-luna-2000-review-2026/)
-- [Sessy vs Marstek — budget vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/)
+- [Sessy vs Marstek — vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/)
 - [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/)
 - [Thuisbatterij vergelijking 2026 — alle merken](/posts/thuisbatterij-vergelijking-2026/)
 - [Thuisbatterij 10 kWh — marktoverzicht](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
 - [Saldering stopt 2027 — wat betekent dat voor jou?](/posts/saldering-stopt-2027-volledige-gids/)
-- [Tibber review — dynamisch contract in de praktijk](/posts/tibber-review-ervaringen-2026/)
+- [ROI thuisbatterij na saldering 2027](/posts/roi-thuisbatterij-na-saldering-2027-berekening/)
 
 ---
 
-**Externe bron:** [Milieu Centraal — thuisbatterijen vergelijken](https://www.milieucentraal.nl/energie-besparen/zonnepanelen/thuisbatterij/) — onafhankelijke consumenteninformatie over thuisbatterijen in Nederland.
+**Externe bron:** [Milieu Centraal — thuisbatterijen](https://www.milieucentraal.nl/energie-besparen/zonnepanelen/thuisbatterij/) — onafhankelijke consumenteninformatie over thuisbatterijen in Nederland.
