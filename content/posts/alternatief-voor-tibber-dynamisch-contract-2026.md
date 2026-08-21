@@ -1,13 +1,13 @@
 ---
 title: Alternatief voor Tibber dynamisch contract 2026
 date: 2026-10-05 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
 description: 'Tibber te duur of niet geschikt? Bekijk de 5 beste alternatieven: Frank Energie, ANWB, Greenchoice, Vattenfall en Eneco eFlex vergeleken.'
 categories: [energiecontracten]
 tags: [Tibber alternatief, Frank Energie, ANWB Energie, Greenchoice, dynamisch contract]
 keywords: [alternatief tibber, tibber te duur, frank energie, anwb energie dynamisch, greenchoice dynamisch]
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497435334941-8c899ee9e8e9&w=1200&output=webp&q=70
@@ -21,27 +21,13 @@ faq:
 - q: 'Heeft ANWB Energie dynamisch een prijsplafond?'
   a: 'Een uurprijs-plafond hebben wij niet op anwb.nl kunnen verifiëren. Wat ANWB wél doet: werken met een vast maandtermijnbedrag met jaarverrekening, waardoor je maandlasten vlakken ook als de uurprijzen schommelen. ANWB rekent volgens hun tarievenpagina €0,018/kWh inkoopkosten (incl. btw, peildatum 20 augustus 2026) — dat is de post waarop je ANWB met margeloze aanbieders vergelijkt.'
 - q: 'Is Greenchoice dynamisch echt groen?'
-  a: 'Greenchoice levert 100% Nederlandse groene stroom en koopt Garanties van Oorsprong in. Voor wie ook met een dynamisch contract specifiek groene energie wil steunen, is Greenchoice de enige aanbieder die dit transparant combineert.'
+  a: 'Greenchoice levert volgens eigen opgave 100% Nederlandse groene stroom en koopt daarvoor Garanties van Oorsprong in. Van de vijf aanbieders in dit overzicht is dat het enige met een expliciet NL-GvO-profiel bij een dynamisch contract; of andere leveranciers buiten dit overzicht hetzelfde doen, hebben wij niet nagelopen.'
 - q: 'Wat zijn de nadelen van Eneco eFlex?'
   a: 'Eneco eFlex rekent een opslag per kWh bovenop de EPEX-prijs; de actuele hoogte daarvan staat op eneco.nl — wij vonden er geen publiek geverifieerd bedrag voor. Reken dus zelf na wat die opslag bij jouw verbruik kost. De app is minder geavanceerd dan Tibber of Frank; het voordeel is de klantenservice van een groot bedrijf.'
 - q: 'Kun je makkelijk van Tibber overstappen naar een alternatief?'
   a: 'Ja. Tibber heeft geen vaste contractduur en geen opzegboete. Opzegtermijn is 1 maand. Je nieuwe leverancier regelt de overstap automatisch zodra je een nieuw contract afsluit.'
-products:
-- name: Frank Energie dynamisch
-  url: https://go.duurzaamthuislab.nl/frank-energie
-  price: '5.99'
-- name: ANWB Energie dynamisch
-  url: https://go.duurzaamthuislab.nl/anwb-energie
-  price: '5.99'
-- name: Tibber dynamisch
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '6'
-- name: Sessy thuisbatterij combo
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
 schema_type: Article
-last_updated: '2026-10-05'
-category: energiecontracten
+last_updated: '2026-08-21'
 ---
 
 In gebruikersreviews en forumdiscussies over Tibber komt telkens hetzelfde terug: de besparing valt goed uit, maar de app vraagt aandacht. Wie niet elke dag naar de uurtarieven wil kijken, zoekt een dynamisch contract dat even voordelig is zonder die prikkel.
@@ -50,7 +36,7 @@ Dat is de reden voor dit overzicht. Tibber is niet voor iedereen de beste keus, 
 
 In dit overzicht vergelijken wij de vijf belangrijkste alternatieven voor Tibber in 2026: Frank Energie, ANWB Energie, Greenchoice dynamisch, Vattenfall Dynamisch en Eneco eFlex. Met cijfers, niet met brochure-taal.
 
-*Disclosure: de links naar ANWB Energie, Frank Energie, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+*Disclosure: de links naar ANWB Energie, Frank Energie, Sessy en Tibber zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie en wij ontvangen er dus geen vergoeding voor. De link naar HomeWizard is wél een partnerlink: als je daar iets koopt, ontvangen wij een commissie, zonder extra kosten voor jou. Dat verandert niets aan wat er in dit artikel staat.*
 
 ---
 
@@ -81,7 +67,7 @@ Frank Energie is de meest voor de hand liggende keuze voor wie dynamisch wil, ma
 
 ### Wat maakt Frank anders dan Tibber?
 
-Frank Energie is al actief in Nederland since 2018 — drie jaar vóór Tibber. Ze bieden hetzelfde principe: geen marge op de EPEX-spotprijs, maandelijks opzegbaar. Wat de vaste kosten precies zijn publiceert Frank niet op de site; vraag het actuele bedrag op via frankenergie.nl.
+Frank Energie is een Nederlandse leverancier met een vestigingsadres in Amsterdam (frankenergie.nl/over-frank, opgehaald 21 augustus 2026). Een oprichtingsjaar en oprichtersnamen publiceert Frank daar niet, dus noemen wij die ook niet. Het principe is hetzelfde als bij Tibber: geen marge op de EPEX-spotprijs, maandelijks opzegbaar. Wat de vaste kosten precies zijn publiceert Frank niet op de site; vraag het actuele bedrag op via frankenergie.nl.
 
 Het verschil zit in de uitvoering. Frank is functioneel, Tibber is premium. Frank's app toont je verbruik en tarieven, maar heeft geen ingebakken slim laden voor EV's, geen native smart-home koppeling en geen realtime P1-sensor zoals de Tibber Pulse. Wat Frank wél heeft: telefonische klantenservice op werkdagen.
 
@@ -102,7 +88,11 @@ Op de kale EPEX-inkoopprijs zitten beide gelijk. Het verschil zit in de vaste ko
 
 ### Frank Energie en thuisbatterijen
 
-Frank werkt goed samen met Home Assistant en EVCC voor dynamische sturing. Je koppelt je P1-meter (HomeWizard Wi-Fi P1, €24,95) aan Home Assistant, voegt de Frank/EnergyZero-integratie toe, en je batterij of laadpaal stuurt op uurtarief. Minder plug-and-play dan Tibber, maar als je al Home Assistant hebt: even goed.
+Frank werkt goed samen met Home Assistant en EVCC voor dynamische sturing. Je koppelt je P1-meter aan Home Assistant, voegt de Frank/EnergyZero-integratie toe, en je batterij of laadpaal stuurt op uurtarief. Minder plug-and-play dan Tibber, maar als je al Home Assistant hebt: even goed.
+
+De goedkoopste route naar uitleesbare meterdata is de HomeWizard Wi-Fi P1-meter: **€24,95** (homewizard.com, peildatum 21 augustus 2026).
+
+<a href="https://go.duurzaamthuislab.nl/homewizard" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk de HomeWizard P1-meter →</a>
 
 Overweeg je een thuisbatterij? Lees dan ook onze [Sessy review — thuisbatterij in de praktijk](/posts/sessy-review-thuisbatterij-nederland/) voor een eerlijk plaatje van de terugverdientijd.
 
@@ -113,7 +103,7 @@ Overweeg je een thuisbatterij? Lees dan ook onze [Sessy review — thuisbatterij
 - Je hebt geen EV of een EV-merk dat niet native met Tibber integreert
 - Je wil een Nederlands bedrijf steunen
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk Frank Energie dynamisch →</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk Frank Energie dynamisch →</a>
 
 Wil je de twee direct naast elkaar? [Frank Energie vs Tibber — volledige vergelijking](/posts/frank-energie-vs-tibber-2026/)
 
@@ -146,7 +136,9 @@ ANWB Energie heeft een basisintegratie met laadpalen, maar geen native auto-API-
 - Je woont in een koude regio (Groningen, Drenthe) waar koudegolven vaker voorkomen
 - Je bent ouder en prefereert een vertrouwd Nederlands bedrijf met breed klantenservicenetwerk
 
-<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk ANWB Energie dynamisch →</a>
+<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk ANWB Energie dynamisch →</a>
+
+*Ook voor deze link ontvangen wij geen vergoeding.*
 
 Uitgebreide vergelijking: [Tibber vs ANWB Energie dynamisch](/posts/tibber-vs-anwb-energie-dynamisch-2026/) en [ANWB Energie dynamisch review](/posts/anwb-energie-dynamisch-review-2026/)
 
@@ -154,11 +146,11 @@ Uitgebreide vergelijking: [Tibber vs ANWB Energie dynamisch](/posts/tibber-vs-an
 
 ## Alternatief 3: Greenchoice dynamisch — groen + dynamisch
 
-Greenchoice is de enige aanbieder in dit rijtje die dynamisch contract combineert met gecertificeerde groene stroom uit Nederlandse bronnen.
+Greenchoice is van de vijf aanbieders in dit overzicht de enige die een dynamisch contract combineert met gecertificeerde groene stroom uit Nederlandse bronnen.
 
 ### Wat maakt Greenchoice anders?
 
-Bij Tibber, Frank en ANWB koop je stroom op de spotmarkt — dat is een mix van grijze en groene stroom. Greenchoice koopt actief **Garanties van Oorsprong (GvO)** in voor 100% Nederlandse wind- en zonne-energie. Als herkomst van je stroom je wat waard is, is Greenchoice de enige serieuze keus.
+Bij Tibber, Frank en ANWB koop je stroom op de spotmarkt — dat is een mix van grijze en groene stroom. Greenchoice koopt actief **Garanties van Oorsprong (GvO)** in voor 100% Nederlandse wind- en zonne-energie. Als herkomst van je stroom je wat waard is, is Greenchoice binnen dit overzicht de enige die dat expliciet vastlegt.
 
 **De prijs van groen**: Greenchoice dynamisch rekent een opslag per kWh bovenop de EPEX-prijs, plus een vast maandbedrag. Publiek geverifieerde bedragen hebben wij niet gevonden — kijk voor de actuele opslag en het servicegeld op greenchoice.nl en reken die door met je eigen jaarverbruik.
 
@@ -241,7 +233,6 @@ Voor iedereen die bewust kiest: Frank Energie of Tibber zijn rationeel de betere
 | Opslag per kWh | €0,0248 inkoopvergoeding | Geen marge | €0,018 inkoopkosten (incl. btw) | Zie site | Zie site | Zie site |
 | Vaste kosten/mnd | €5,99 per energiesoort | Zie site | Zie site | Zie site | Zie site | Zie site |
 | Vlakke maandlasten | Nee | Nee | Ja (vast termijnbedrag) | Nee | Nee | Nee |
-| App-kwaliteit | 9/10 | 7/10 | 6/10 | 6/10 | 5/10 | 6/10 |
 | EV slim laden | Native top-tier | Via derde partij | Beperkt | Nee | Beperkt | Beperkt |
 | Smart home | Uitstekend | Via HA | Beperkt | Via HA | Nee | Nee |
 | Batterij-integratie | Native (Sessy etc.) | Via HA | Nee | Nee | Nee | Beperkt |
@@ -266,7 +257,7 @@ Frank Energie of Tibber — beide zonder marge en zonder terugleverkosten. Kies 
 ANWB Energie dynamisch. Het vaste termijnbedrag met jaarverrekening houdt je maandlasten gelijk, ook in een koudegolf — de verrekening komt later. Daar staat een opslag per kWh tegenover (€0,018/kWh inkoopkosten). Voor wie een strak budget heeft, weegt die rust vaak op tegen die opslag.
 
 **Je wil dynamisch én bewust groen steunen**
-Greenchoice dynamisch. Je betaalt een premie voor gecertificeerde Nederlandse groene stroom — hoeveel, staat op greenchoice.nl. Geen andere aanbieder in dit rijtje biedt dit niveau van groene transparantie.
+Greenchoice dynamisch. Je betaalt een premie voor gecertificeerde Nederlandse groene stroom — hoeveel, staat op greenchoice.nl. Van de vijf alternatieven hier legt geen andere aanbieder de herkomst zo expliciet vast.
 
 **Je verbruikt weinig (<2.000 kWh/jaar)**
 Eneco eFlex heeft in dit rijtje een relatief laag maandbedrag (zie eneco.nl) — dat maakt het bij laag verbruik soms gunstig, omdat de opslag per kWh dan minder zwaar weegt. Alternatief: check of een normaal vast goedkoop contract niet simpeler is. [Dynamisch vs vast contract](/posts/dynamisch-vs-vast-contract-2026/) helpt je die afweging maken.
@@ -321,11 +312,13 @@ Tibber is een sterk product, maar niet voor iedereen. Wie last heeft van de app-
 - **Vattenfall Dynamisch**: alleen als je al klant bent of erg groot bedrijf wilt. Niet de goedkoopste optie.
 - **Eneco eFlex**: alleen interessant bij verbruik onder 2.000 kWh/jaar. Anders te duur per kWh.
 
-Voor iedereen die twijfelt: de ACM's [ConsuWijzer energievergelijker](https://www.consuwijzer.nl/) is een onafhankelijke tool om actuele tarieven te vergelijken zonder commercieel belang.
+Voor iedereen die twijfelt: [ConsuWijzer](https://www.consuwijzer.nl/) van de ACM is geen vergelijker maar een informatieloket — daar staat wél welke rechten je hebt bij overstappen en waar je op moet letten in een tariefblad. De tarieven zelf haal je bij de leveranciers of bij een vergelijker die zijn provisiemodel publiceert.
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Ga naar Frank Energie — het beste Tibber-alternatief →</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Ga naar Frank Energie — het beste Tibber-alternatief →</a>
+
+*Voor deze link naar Frank Energie ontvangen wij geen vergoeding.*
 
 *Vragen over je eigen situatie? Stuur een mail naar [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 

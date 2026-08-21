@@ -1,7 +1,7 @@
 ---
 title: Beste zonnepanelen 2026 na saldering
 date: 2026-04-29 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: Saldering stopt in 2027. Welke zonnepanelen zijn dan nog zinvol, hoe maximaliseer je zelfconsumptie, en welke combinatie met een batterij werkt het beste?
 categories:
 - zonne-energie
@@ -26,24 +26,21 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Zijn zonnepanelen na 2027 nog zinvol?
-  a: Ja, maar de rekensomme verandert. Na 2027 is elk kWh die je zelf verbruikt €0,25–€0,32 waard (vermeden afname), maar elk kWh die je teruglevert slechts €0,04–€0,10. De strategie verschuift van 'zoveel mogelijk terugleveren' naar 'zoveel mogelijk zelf verbruiken'. Dat doe je met een thuisbatterij, een dynamisch tarief of een energieslurpende apparaten overdag aanzetten.
+  a: 'Ja, maar de rekensom verandert. In ons model is elke kWh die je zelf verbruikt €0,26 waard (vermeden afname, all-in) en elke kWh die je teruglevert €0,07 (gelabelde aanname — leveranciers hebben hun 2027-tarieven nog niet gepubliceerd). Het verschil van €0,19 verschuift de strategie van ''zoveel mogelijk terugleveren'' naar ''zoveel mogelijk zelf verbruiken'': met een thuisbatterij, een dynamisch tarief, of simpelweg de grote verbruikers overdag aanzetten.'
 - q: Hoeveel panelen zijn zinvol als saldering wegvalt?
   a: Het optimale aantal panelen verschuift naar jouw daadwerkelijke dagverbruik overdag. Stel je verbruikt overdag 5 kWh en 's avonds 7 kWh. Dan dek je met 8–10 panelen de dagproductie en hoef je niet te veel terug te leveren. Een batterij van 5 kWh vangt de rest op. Meer panelen zijn minder rendabel als je niet meer kunt salderen.
 - q: Welk merk zonnepanelen is het beste in 2026?
-  a: 'In 2026 zijn Longi Hi-MO 6, Jinko Tiger Neo en SunPower Maxeon 6 de technisch sterkste. Voor de NL-markt zijn SunPower en Jinko het meest beschikbaar via installateurs. Voor prijs-kwaliteit: Jinko of Longi. Voor maximale prestaties op klein oppervlak: SunPower.'
+  a: 'Op moduleniveau zijn Longi Hi-MO 6, Jinko Tiger Neo en SunPower Maxeon (7) de sterkste; de efficiëntiecijfers in dit artikel komen uit de datasheets van de fabrikanten, opgehaald 21 augustus 2026. Let op het modelnummer: Maxeon 6 en Maxeon 7 verschillen in efficiëntie, dus vergelijk niet het ene merk-model met het andere. Voor prijs-kwaliteit: Jinko of Longi. Voor maximale opbrengst op een klein dak: SunPower.'
 - q: Wat is het verschil tussen monokristallijn en TOPCon-panelen?
   a: 'Monokristallijn PERC-panelen zijn de standaard: 20–22% efficiëntie, betrouwbaar, betaalbaar. TOPCon (Tunnel Oxide Passivated Contact) is de nieuwere generatie: 22–24% efficiëntie, betere prestaties bij lage instraling (bewolking), hogere prijs. Voor NL-klimaat is TOPCon interessanter dan elders vanwege de hoge bewolkingsgraad.'
 - q: Is een dynamisch energiecontract beter dan vast na saldering?
   a: 'Bij een goede thuisbatterij en slimme meter: ja. Dynamische contracten (Tibber, ANWB Energie) laten je opladen als stroom goedkoop is en ontladen als het duur is. Zonder batterij is een dynamisch contract riskanter — je verkoopt overdag erg goedkoop. Met batterij is het de meest optimale combinatie post-2027.'
 - q: Wat doet Zonneplan anders dan andere installateurs?
-  a: 'Zonneplan werkt met een vaste prijs per installatie, inclusief materiaal, installatie en een 25-jarige opbrengstgarantie. Ze installeren voornamelijk zonnepanelen en koppelen dat aan een monitoring-app. Onderscheidend: geen verborgen kosten, duidelijke communicatie over verwachte opbrengst, en een servicecontract dat ook na 10 jaar nog loopt.'
+  a: 'Zonneplan (opgericht 2012, Zwolle) werkt met een vaste prijs per installatie inclusief materiaal en montage, en koppelt de installatie aan een eigen monitoring-app en slimme aansturing. Welke garantietermijnen daarbij horen, staat in hun eigen voorwaarden — wij nemen hier geen garantietermijn over die wij niet in die voorwaarden hebben kunnen teruglezen. Vraag de garantie dus schriftelijk op vóór je ondertekent.'
 - q: Kan ik mijn bestaande installatie uitbreiden met panelen en een batterij?
   a: Dat hangt af van je omvormer. Een string-omvormer kan uitgebreid worden als er nog input-capaciteit vrij is. Een micro-omvormer-setup is het makkelijkst uit te breiden paneel voor paneel. Voor een hybride batterij moet de omvormer of uitbreid-inverter compatibel zijn. Laat dit altijd beoordelen door een installateur.
 products:
-- name: Zonneplan zonnepanelen installatie
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: ''
-- name: Sessy thuisbatterij (5 kWh)
+- name: Sessy thuisbatterij 5 kWh
   url: https://go.duurzaamthuislab.nl/sessy
   price: '3550'
 schema_type: Article
@@ -54,14 +51,12 @@ Die rekensom klopt nog steeds, maar hij vertelt niet het hele verhaal. Want na 2
 
 Wie in 2026 zonnepanelen overweegt, of wie er al heeft en nu een batterij overweegt, moet begrijpen wat er post-2027 anders is. Wij zetten het hieronder zo helder mogelijk op een rij.
 
-*Disclosure: wij hebben geen affiliate- of commissierelatie met Zonneplan, Sessy of Tibber (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen.*
+*Disclosure: voor de links naar Zonneplan, Sessy en Tibber ontvangen wij geen vergoeding — met deze partijen hebben wij geen affiliate- of commissierelatie (stand 21 augustus 2026). Het zijn gewone verwijzingen.*
 
 ---
 
 
-> **Kort antwoord:** Saldering stopt in 2027. Welke zonnepanelen zijn dan nog zinvol, hoe maximaliseer je zelfconsumptie, en welke combinatie met een batterij werkt het beste?
->
-> Ja, maar de rekensomme verandert. Na 2027 is elk kWh die je zelf verbruikt €0,25–€0,32 waard (vermeden afname), maar elk kWh die je teruglevert slechts €0,04–€0,10. De strategie verschuift van 'zoveel mogelijk terugleveren' naar 'zoveel mogelijk zelf verbruiken'. Dat doe je met een thuisbatterij, een dynamisch tarief of een energieslurpende apparaten overdag aanzetten.
+> **Kort antwoord:** zonnepanelen blijven na 1 januari 2027 rendabel, maar de rekensom kantelt. In ons model is elke kWh die je zelf verbruikt €0,26 waard en elke kWh die je teruglevert €0,07 (aanname) — een verschil van €0,19. Daarmee bepaal je niet langer het aantal panelen op je jaarverbruik, maar op wat je overdag zélf kunt gebruiken plus wat een batterij kan opvangen. Een groter dak dat vooral terugstuurt, verdient zich vanaf 2027 langzamer terug dan een kleiner dak met hoge zelfconsumptie.
 
 ## Wat verandert er op 1 januari 2027?
 
@@ -69,19 +64,19 @@ Saldering betekent: de kilowatturen die jij teruglevert aan het net worden afget
 
 Per 1 januari 2027 vervalt dit systeem. In plaats van netto verrekening krijg je:
 
-- Een **leveringstarief** voor terug te leveren stroom: dit is de kale energieprijs zonder netwerkkosten en belastingen. In 2026 is dat circa €0,04–€0,10 per kWh (afhankelijk van energieleverancier en contract).
-- Je blijft voor afname de volle prijs betalen: circa €0,25–€0,32 per kWh inclusief alles.
+- Een **terugleververgoeding** voor de stroom die je terugstuurt: de kale energieprijs zonder netwerkkosten en belastingen. Wat leveranciers daarvoor in 2027 gaan rekenen, is nog niet gepubliceerd; wij rekenen met een gelabelde aanname van **€0,07/kWh**.
+- Voor afname blijf je de volle prijs betalen: in ons model **€0,26/kWh** all-in (EPEX-jaargemiddelde 2025 €0,105 incl. btw + energiebelasting €0,11085 incl. btw + €0,044 aan opslag en omgeslagen vaste kosten — die laatste post is een aanname).
 
-Het gat is dus €0,15–€0,25 per kWh. Elke kWh die je terugelevert is €0,15–€0,25 minder waard dan een kWh die je zelf verbruikt.
+Het gat is dus **€0,19 per kWh**.
 
-**Rekenvoorbeeld:**
+**Rekenvoorbeeld (modelberekening):**
 Je hebt 14 panelen en produceert 4.900 kWh per jaar. Je verbruikt 3.800 kWh.
 - Overproductie: 1.100 kWh
-- Met saldering: 1.100 × €0,28 = €308 voordeel
+- Met saldering: 1.100 × €0,26 = €286 voordeel
 - Na saldering: 1.100 × €0,07 = €77 voordeel
-- Verlies per jaar: €231
+- Minder voordeel per jaar: €209
 
-Met een 5 kWh batterij kun je circa 900 van die 1.100 kWh zelf opslaan en gebruiken. Dan daalt de teruggevoerde stroom van 1.100 naar 200 kWh. Verlies nog slechts €30.
+Met een 5 kWh batterij verschuif je in dit model ongeveer 750 kWh van teruglevering naar eigen verbruik (5 kWh × 150 zoncycli, gecorrigeerd voor 90% retourrendement). Dat is 750 × €0,19 = **€143 per jaar**, plus netarbitrage van €8 per kWh capaciteit als je een dynamisch contract hebt: samen €183. De teruglevering daalt dan van 1.100 naar ongeveer 350 kWh.
 
 ---
 
@@ -109,7 +104,7 @@ Een elektrische auto overdag laden op zonne-energie is post-2027 de meest waarde
 
 TOPCon-technologie is in 2025–2026 de nieuwe standaard geworden. De meeste leidende merken (Jinko, Longi, REC, Trina) zijn overgestapt van PERC naar TOPCon. Dit is relevant voor Nederland omdat:
 
-1. **Betere prestaties bij lage instraling:** een bewolkte dag in november levert met TOPCon 8–15% meer energie dan met PERC. In NL is dat significant.
+1. **Betere prestaties bij lage instraling:** TOPCon presteert bij zwak licht beter dan PERC. Een percentage noemen wij niet — de winst hangt af van module, temperatuur en instralingsniveau, en de cijfers die je online tegenkomt komen vrijwel altijd uit fabrikantenmarketing zonder meetprotocol.
 2. **Lagere temperatuurcoëfficiënt:** in de zomer, bij hoge temperaturen (het paneel kan 60–70°C worden), verliest TOPCon minder vermogen.
 3. **Hogere efficiëntie:** meer vermogen per m², nuttig bij beperkt dakoppervlak.
 
@@ -119,72 +114,77 @@ TOPCon-technologie is in 2025–2026 de nieuwe standaard geworden. De meeste lei
 |------|------|-------------|----------|-----------|
 | Jinko Tiger Neo | TOPCon N-type | 22,3% | €0,28–€0,35 | Breed leverbaar in NL |
 | Longi Hi-MO 6 | TOPCon N-type | 22,8% | €0,30–€0,38 | Sterkste efficiëntie/prijs |
-| SunPower Maxeon 7 | IBC | 24,1% | €0,55–€0,70 | Beste prestaties, premium prijs |
+| SunPower Maxeon 7 | IBC | 24,1% | €0,55–€0,70 | Hoogste efficiëntie, premium prijs |
 | REC Alpha Pro | HJT+TOPCon | 22,6% | €0,38–€0,45 | Sterk bij hoge temp |
 | Trina Vertex S+ | TOPCon N-type | 22,5% | €0,28–€0,34 | Concurrerende prijs |
+
+*Efficiënties uit de datasheets van de fabrikanten, opgehaald 21 augustus 2026; prijzen per Wp zijn richtprijzen van Nederlandse leveranciers en wisselen per maand. **Let op het modelnummer:** de oudere SunPower Maxeon 6 zit op 22,8% en niet op 24,1% — vergelijk dus modellen, niet merken.*
 
 Voor de meeste NL-huishoudens: **Jinko Tiger Neo** of **Longi Hi-MO 6** bieden de beste prijs-kwaliteit verhouding. **SunPower** is interessant als je klein dakoppervlak hebt en maximale productie per m² nodig hebt.
 
 ---
 
-## Zonneplan — de installateur die wij aanbevelen
+## Zonneplan als installateur: wat je wel en niet weet
 
-[Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) komt in publieke klantreviews consistent positief naar voren. Wat hen onderscheidt:
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Zonneplan</a> is opgericht in 2012 in Zwolle en is een van de grotere Nederlandse partijen die panelen, batterijen en sturing in één hand aanbiedt. Wat er over hun aanbod te zeggen valt op basis van hun eigen site (zonneplan.nl, opgehaald 21 augustus 2026):
 
-**Transparante vaste prijs.** Geen verborgen kosten voor de groepenkast, geen extra rekening achteraf voor "meer werk dan verwacht". Je krijgt vooraf één prijs.
+**Vaste prijs per installatie.** Materiaal en montage in één bedrag, in plaats van nacalculatie voor "meer werk dan verwacht".
 
-**25-jarige opbrengstgarantie.** Als de installatie minder produceert dan de garantie, vergoeden ze het verschil. Dat dwingt hen ook om kwalitatieve panelen te installeren.
+**Eigen sturing en app.** Zonneplan noemt zijn sturing **"slimme aansturing"** (met de Gridguard- en Nexus-componenten). Let op: "Radar" is een televisieprogramma van AVROTROS en geen Zonneplan-functie, ook al kom je die naam in vergelijkingen tegen.
 
-**Post-2027 advies.** Zonneplan informeert klanten nu al over de batterijkoppeling en post-salderingstrategie. Ze koppelen ook aan Sessy-batterijen.
+**Batterijaanbod.** Zonneplan verkoopt batterijen zelf, in de vorm van koop — géén lease. De prijzen die Zonneplan noemt (10 kWh €4.690, 15 kWh €5.490, 20 kWh €7.290, 35 kWh €9.090) zijn Zonneplans eigen advertentieframe "na btw-teruggave". Let op dat er voor een losse thuisbatterij geen btw-teruggaveroute bestaat: daarop geldt altijd 21% btw.
 
-**Monitoring-app.** Realtimedata, historische productie per paneel, en waarschuwingen bij uitval.
+**Wat wij niet kunnen bevestigen:**
+- Een garantietermijn: welke termijn en welke voorwaarden er precies gelden, staat in hun eigen voorwaarden en niet in een publiek overzicht dat wij konden inzien. Vraag het schriftelijk op.
+- Een samenwerking of technische partnerschap tussen Zonneplan en Sessy. Die claim komt in vergelijkingen vaak voorbij, maar wij hebben hem bij geen van beide partijen kunnen terugvinden. Ga er dus niet van uit dat een Sessy in het Zonneplan-ecosysteem past.
 
-**Wat wij minder goed vinden:**
-- Niet de goedkoopste. Je betaalt voor service en garantie.
-- Niet overal in Nederland even snel beschikbaar.
-
-Als je prijs de doorslaggevende factor is, zijn er goedkopere installateurs. Maar voor de langetermijn combinatie (panelen + batterij + service) is Zonneplan onze aanbeveling.
+Als prijs de doorslaggevende factor is, zijn er goedkopere installateurs. Vraag altijd twee of drie offertes op en vergelijk op componenten, niet op totaalbedrag.
 
 ---
 
-## De Zonneplan + Sessy combinatie post-2027
+## Panelen plus batterij post-2027: wat de combinatie oplevert
 
-De meest waardevolle opstelling post-2027 voor een gemiddeld huishouden:
+De opstelling die post-2027 het meest oplevert voor een gemiddeld huishouden bestaat uit twee delen: een dak dat past bij je dagverbruik, en een batterij die het overschot opvangt.
 
-1. **Zonnepanelen via [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan):** passend bij je dagverbruik + batterijcapaciteit
-2. **Thuisbatterij via [Sessy](https://go.duurzaamthuislab.nl/sessy):** 5 kWh plug & play, slimme lading
+Voor de batterij rekenen wij met ons vaste model: verschuifbaar volume = het kleinste van capaciteit × 150 zoncycli, het overschot × 0,9, of je eigen afname; waarde €0,19 per verschoven kWh; plus €8 per kWh capaciteit aan netarbitrage als je een dynamisch contract hebt.
 
-Deze twee zijn expliciet compatible. Sessy integreert met Zonneplan's monitoring. De gecombineerde opbrengst:
+| Capaciteit | Opbrengst per jaar (model) |
+|---|---|
+| 5 kWh | €177 |
+| 10 kWh | €353 |
+| 15 kWh | €530 |
 
-- Zelfconsumptie stijgt van circa 40% (panelen alleen) naar 75–85% (panelen + 5 kWh batterij)
-- Teruglevering daalt van 60% van productie naar 15–25%
-- Jaarlijkse besparing stijgt met €300–€500 per jaar ten opzichte van panelen zonder batterij
+Zelfconsumptie stijgt daarmee van ongeveer 40% (panelen alleen) naar 75–85% (panelen plus 5 kWh batterij) bij een gemiddeld verbruiksprofiel. Bedragen van €300 tot €500 per jaar voor een 5 kWh batterij, zoals je die in advertenties tegenkomt, halen wij met deze uitgangspunten niet: die veronderstellen meer cycli of een grotere spreiding dan de markt geeft.
+
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk de Sessy thuisbatterij</a>
+
+*Voor de links naar Zonneplan en Sessy ontvangen wij geen vergoeding.*
 
 ---
 
 ## De terugverdientijd post-2027: eerlijk doorgerekend
 
-Stel: je koopt nu 14 TOPCon-panelen (5,46 kWp) + Sessy-batterij.
+Stel: je koopt nu 14 TOPCon-panelen (5,46 kWp) plus een Sessy van 5 kWh.
 
 **Kosten:**
-- 14 panelen installatie: circa €6.500–€8.500
-- Sessy thuisbatterij: €5.500 incl. btw, excl. installatie (prijspeil aug 2026), plus circa €1.200 basisinstallatie
-- Totaal: €13.200–€15.200
+- 14 panelen inclusief installatie: circa €6.500–€8.500 (richtprijs; vraag twee offertes op, want dit verschilt sterk per dak)
+- Sessy 5 kWh: **€3.550** incl. btw, exclusief installatie (sessy.nl, peildatum 21 augustus 2026). Op een thuisbatterij geldt 21% btw — het nultarief voor zonnepanelen geldt hier niet. Noodstroom vraagt een basisinstallatie van €1.200 en is alleen mogelijk bij de Plus van 15 kWh, dus die post valt hier weg.
+- Totaal: €10.050–€12.050
 
-**Opbrengst per jaar (schatting, post-2027 tarieven):**
-- Eigen gebruik dankzij zonnepanelen: 2.800 kWh × €0,30 = €840
-- Eigen gebruik dankzij batterij (extra 1.200 kWh): €360
+**Opbrengst per jaar (model, post-2027 tarieven):**
+- Eigen gebruik dankzij zonnepanelen: 2.800 kWh × €0,26 = €728
+- Extra eigen gebruik dankzij de batterij: €177 (batterijmodel, 5 kWh)
 - Resterende teruglevering: 500 kWh × €0,07 = €35
-- Totaal: circa €1.235/jaar
+- Totaal: circa **€940 per jaar**
 
-**Terugverdientijd:** 10–12 jaar
+**Rekenkundige terugverdientijd:** €10.050 ÷ €940 = ongeveer 11 jaar; bij €12.050 ongeveer 13 jaar.
 
-Dat is langer dan de 6–8 jaar in de salderingsperiode. Maar het is eerlijk: post-2027 is zonnestroom minder winstgevend als je niet zelf verbruikt.
+Dat is langer dan in de salderingsperiode, en dat is de eerlijke uitkomst: post-2027 is zonnestroom minder winstgevend zodra je hem niet zelf verbruikt.
 
 Kanttekeningen:
-- Bij stijgende energieprijzen (historisch gemiddeld +3%/jaar) daalt de terugverdientijd
-- Na de terugverdientijd zijn de kosten nul en is de opbrengst puur winst — 10–15 jaar lang
-- De combinatie biedt ook noodstroomzekerheid (bij een Sessy die dat ondersteunt) en EV-laadvoordeel
+- Stijgen de stroomprijzen, dan wordt de terugverdientijd korter. Een percentage per jaar noemen wij niet: de energieprijs is de afgelopen jaren allesbehalve een rechte lijn geweest, dus een historisch gemiddelde zegt weinig over de komende tien jaar.
+- Na de terugverdientijd blijven de panelen produceren; de kosten zijn dan alleen nog onderhoud en een eventuele omvormervervanging.
+- Bedenk dat het paneelgedeelte en het batterijgedeelte verschillende terugverdientijden hebben: de panelen leveren €728 op €6.500–€8.500 (rond de tien jaar), de batterij €177 op €3.550 (rekenkundig twintig jaar). Wie op rendement kiest, doet de panelen eerst.
 
 ---
 
@@ -192,10 +192,7 @@ Kanttekeningen:
 
 Als je voor 2027 al panelen hebt geïnstalleerd zonder batterij, is de strategische vraag: wanneer voeg je een batterij toe?
 
-**Ons advies:** doe dit in 2026 of vroeg in 2027. Redenen:
-1. Installatiekosten voor batterijen dalen langzaam maar continu
-2. Je profiteert van de laatste maanden saldering zolang dat loopt
-3. Na 2027 is de vraag naar batterijen waarschijnlijk hoog, wat de wacht- en levertijden verlengt
+**Ons advies:** begin met de maatregelen die niets kosten — verbruik verschuiven naar de zonuren — en beslis over de batterij op basis van je eigen teruglevering. Voorspellingen over prijsdalingen of oplopende levertijden laten wij weg: daar hebben wij geen publieke cijfers bij, en het functioneert vooral als koopargument. Wat wél zeker is: zolang de saldering loopt (tot en met 31 december 2026) levert een batterij je minder op dan daarna, omdat je teruglevering nu nog het volle tarief waard is.
 
 Bekijk of je bestaande omvormer hybride-compatibel is. Veel installateurs van pre-2022 systemen hebben nog SMA, Fronius of Solaredge omvormers — die zijn doorgaans hybride-uitbreidbaar.
 
@@ -217,8 +214,10 @@ Bekijk of je bestaande omvormer hybride-compatibel is. Veel installateurs van pr
 
 Zonnepanelen zijn na 2027 nog zinvol — maar alleen als je de strategie aanpast. De combi-aanpak (panelen + thuisbatterij + dynamisch contract) is de manier om post-2027 maximaal te profiteren.
 
-**Installateur:** [Zonneplan](https://go.duurzaamthuislab.nl/zonneplan) — transparant, gegarandeerde opbrengst, batterij-integratie.  
-**Thuisbatterij:** [Sessy](https://go.duurzaamthuislab.nl/sessy) — beste gebruiksgemak, Zonneplan-compatible, NL-support.
+**Installateur:** <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Zonneplan</a> is een van de partijen die panelen, batterij en sturing in één hand levert — vraag de garantievoorwaarden schriftelijk op en leg er twee andere offertes naast.
+**Thuisbatterij:** <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Sessy</a> — Nederlandse fabrikant (Charged, Andelst), publiceert wél prijzen, 6.000+ cycli. Een technische koppeling met Zonneplan hebben wij niet kunnen bevestigen; ga daar dus niet van uit.
+
+*Voor beide links ontvangen wij geen vergoeding.*
 
 Overweeg je panelen zónder batterij? Dan is het raadzaam de omvormer al hybride-compatibel te kiezen, zodat je de batterij later kunt toevoegen zonder de hele omvormer te hoeven vervangen.
 
@@ -226,15 +225,15 @@ Overweeg je panelen zónder batterij? Dan is het raadzaam de omvormer al hybride
 
 ## De toekomstige ontwikkeling van salderingsvervanging: wat we weten
 
-In de politieke discussie over de saldering-afbouw heeft een deel van de Kamer gevraagd om een overgangsregeling. Hier is de stand van zaken per april 2026:
+Over de saldering circuleren nog allerlei varianten. Wat er feitelijk geldt:
 
-**Officieel beleid:** saldering vervalt per 1 januari 2027 voor álle kleinverbruikers (de afbouwregeling is vervangen door een harde stopzetting). Dit is opgenomen in de Wet fiscale Klimaatmaatregelen (WFK) en is wetgeving, niet een beleidsvoornemen.
+**Officieel:** de saldering vervalt per 1 januari 2027 voor álle kleinverbruikers, in één keer. Het voorstel voor een stapsgewijze afbouw tot 2031 is verworpen — de percentagereeksen die daarbij hoorden (73/64/55/46 en 64/28/0) gelden dus nergens, en er is geen overgangsregeling voor bestaande installaties.
 
-**Wat er in de markt leeft:** sommige energiebedrijven bieden "post-salderings"-contracten aan, waarbij je een hogere terugleververgoedingg ontvangt als je een batterij of slimme sturing hebt. Dit is commerciële dienstverlening, geen wettelijk recht.
+**Wat er in de markt leeft:** sommige leveranciers bieden contracten aan waarin je een hogere terugleververgoeding krijgt als je een batterij of slimme sturing hebt. Dat is commerciële dienstverlening, geen wettelijk recht, en je kunt het niet afdwingen.
 
-**Dynamisch stroom:** de ACM (Autoriteit Consument & Markt) heeft netbeheerders gevraagd om post-2027 een standaard dynamisch terugleveringstarief aan te bieden. Dit is nog geen realiteit maar wordt verwacht in 2026–2027.
+**Wat wij níet weten:** hoe hoog de terugleververgoedingen in 2027 uitpakken. Die tarieven zijn nog niet gepubliceerd; alle bedragen in dit artikel zijn daarom gelabelde aannames. Kom je een artikel tegen dat 2027-tarieven per leverancier noemt, controleer dan of daar een gepubliceerd tariefblad bij staat.
 
-**Onze inschatting:** de stop gaat gewoon door. Er is geen politieke meerderheid voor uitstel of herstel van de saldering. Wie in 2026 installeert zonder batterij, moet rekenen met de post-2027-wereld.
+**Onze inschatting:** de stop gaat door. Wie in 2026 installeert, moet rekenen met de post-2027-wereld: op zelfconsumptie, niet op teruglevering.
 
 ---
 
@@ -248,7 +247,7 @@ De panelen zijn misschien het meest zichtbare onderdeel, maar de installateur ma
 - Maakt een beschaduwingsanalyse met software (PVsyst of Solargis). Niet "het ziet er goed uit" maar een berekening per uur op je specifieke locatie.
 - Specificeert de omvormer expliciet in de offerte — niet alleen "een geschikte omvormer".
 - Heeft een eigen servicedienst of aantoonbare onderhoudspartner. Vraag: wie bel ik over 5 jaar als de omvormer uitvalt?
-- Werkt met erkende installateurs (MCS of gelijkwaardig) en geeft een certificaat van oplevering.
+- Werkt met erkende monteurs en geeft een certificaat van oplevering plus een installatieverklaring. Let op de terminologie: MCS is een Brits keurmerk en SEIA een Amerikaanse branchevereniging — in Nederland kijk je naar aansluiting bij Techniek Nederland en naar Scope 12-inspectie voor zakelijke installaties.
 
 **Wat een matige installateur doet:**
 
@@ -256,11 +255,11 @@ De panelen zijn misschien het meest zichtbare onderdeel, maar de installateur ma
 - Heeft geen schaduwnanalyse gedaan.
 - Kan niet uitleggen welke omvormer en waarom.
 - Heeft geen duidelijk garantieproces.
-- Vertelt je niet over de melding bij de netbeheerder (verplicht bij systemen >800W peak in NL).
+- Regelt de aanmelding van je installatie op energieleveren.nl niet, of vertelt je er niet over. Die aanmelding hoort bij een installatie die op het net teruglevert; je installateur kan dat voor je doen.
 
-**Waarom Zonneplan anders is:**
+**Waar Zonneplan zich op onderscheidt:**
 
-Zonneplan werkt met een vaste installatieprijs per kWp, specificeert alle componenten, geeft een gegarandeerde jaaropbrengstbelofte, en heeft een structureel servicecontract. Dat is niet goedkoop, maar het voorkomt de bovenstaande problemen.
+Een vaste installatieprijs per kWp, gespecificeerde componenten en één aanspreekpunt voor panelen, batterij en sturing. Wat de garantie precies dekt, moet je opvragen — wij hebben dat niet in een publieke voorwaardenpagina kunnen terugvinden. Leg de offerte altijd naast twee andere.
 
 ---
 
@@ -289,7 +288,7 @@ Zonneplan werkt met een vaste installatieprijs per kWp, specificeert alle compon
 ### Situatie 4: Post-saldering met batterijplan
 **Strategie:** panelen + thuisbatterij nu samen plannen  
 **Aanbeveling:** Jinko/Longi panelen + hybride omvormer (Solaredge of GoodWe) + Sessy batterij later  
-**Waarom:** hybride omvormer maakt batterijtoevoeging later goedkoper; Sessy is Zonneplan-compatible  
+**Waarom:** een hybride omvormer maakt het later toevoegen van een batterij goedkoper. Check vóór aanschaf bij de batterijfabrikant of jouw omvormer op zijn compatibiliteitslijst staat; ga niet uit van compatibiliteit tussen merken die niet in beide documentaties wordt genoemd.  
 **Totaal inclusief 14 panelen + hybride omvormer:** €7.500–€9.500
 
 ---
@@ -300,23 +299,22 @@ Als je al panelen hebt maar nog geen batterij, is de impact van de saldering-sto
 
 **Voorbeeld: installatie uit 2021, 14 panelen (5,46 kWp), 4.900 kWh productie, 3.800 kWh verbruik**
 
-Met saldering (2026): teruglevering 1.100 kWh × €0,28 = €308 voordeel  
-Zonder saldering (2027+): teruglevering 1.100 kWh × €0,07 = €77 voordeel  
-Jaarlijks verlies: €231
+Met saldering (2026): teruglevering 1.100 kWh × €0,26 = €286 voordeel
+Zonder saldering (2027+): teruglevering 1.100 kWh × €0,07 = €77 voordeel
+Jaarlijks minder voordeel: €209
 
 **Oplossing A: batterij toevoegen**
-5 kWh batterij vangt 900 kWh op; teruglevering daalt naar 200 kWh.  
-Besparing: €231 − €(200 × 0,07) = €217/jaar extra ten opzichte van scenario zonder batterij  
-Kosten Marstek Venus (installatie inbegrepen): €3.100  
-Terugverdientijd van de batterijinvestering: 14 jaar — te lang?
+Een 5 kWh batterij verschuift in ons model ongeveer 750 kWh naar eigen verbruik. Opbrengst: €177 per jaar (inclusief netarbitrage bij een dynamisch contract).
+Kosten: Sessy 5 kWh **€3.550** incl. btw, exclusief installatie (sessy.nl, peildatum 21 augustus 2026). Marstek heeft voor zijn huidige lijn — Mini 2, E 4.0 (5 kWh) en E MAX (10 kWh) — geen Nederlandse consumentenprijs gepubliceerd, en de garantie vervalt buiten het land van aankoop; wij noemen daarvoor dus geen bedrag.
+Rekenkundige terugverdientijd: €3.550 ÷ €177 = ongeveer 20 jaar.
 
-Niet per se. De batterij geeft ook noodstroomzekerheid, verlaagt je afhankelijkheid van netprijsschommelingen, en de stroomprijs kan de komende 14 jaar stijgen. En: als stroomprijs stijgt naar €0,40, wordt de besparing €300/jaar en de terugverdientijd 10 jaar.
+Dat is lang, en dat moet je weten voordat je koopt. Wie de batterij vooral wil voor onafhankelijkheid van prijsschommelingen kiest op een ander argument dan rendement. Stijgt de all-in stroomprijs naar €0,40/kWh, dan wordt de waarde per verschoven kWh €0,33 en de opbrengst ongeveer €288 per jaar — dan is het rekenkundig twaalf jaar.
 
 **Oplossing B: dynamisch tarief**
-Zonder batterij maar met een dynamisch contract (Tibber): verkoop overdag op momenten dat de beursprijs hoog is. Effect: teruglevering-inkomsten stijgen van €77 naar €130–€170/jaar. Goedkoper dan een batterij, maar minder rendabel.
+Zonder batterij maar met een dynamisch contract wordt je teruglevering per uur gewaardeerd in plaats van tegen één laag jaartarief. Dat helpt vooral als je opwek deels buiten de zonnepiek valt (oost-westdak). Een bedrag noemen wij hier niet: dat hangt volledig af van je productieprofiel per uur, en de terugleverkosten die sommige leveranciers rekenen gaan er nog van af.
 
 **Oplossing C: verbruiksoptimalisatie**
-Verschuif verbruik naar overdag: was draaien, vaatwasser, EV laden — allemaal zoveel mogelijk overdag op zonnestroom. Effect: zelfconsumptie stijgt van 55% naar 65–70%, teruglevering daalt. Kosten: nul.
+Verschuif verbruik naar overdag: was, vaatwasser, boiler, EV laden — zoveel mogelijk op je eigen zonnestroom. Elke verschoven kWh is €0,19 waard. Verschuif je 400 kWh per jaar, dan is dat €76. Kosten: nul. Dit is de maatregel met de beste verhouding tussen opbrengst en investering, en daarom de eerste die je doet.
 
 ---
 
@@ -362,11 +360,11 @@ Eén van de onderschatte voordelen van moderne installaties is de monitoring. Je
 
 Zonnepaneleninstallaties komen doorgaans met drie soorten garanties:
 
-**Productgarantie (fabrikant):** dekt defecten in het paneel zelf. Standaard 10–15 jaar. SunPower biedt 25 jaar, wat uniek is.
+**Productgarantie (fabrikant):** dekt defecten in het paneel zelf. Doorgaans 10–15 jaar; premiummerken bieden langere termijnen. Kijk de exacte termijn na op de datasheet van jouw model, want die verschilt per serie.
 
-**Vermogensgarantie (fabrikant):** garandeert minimumproductie na X jaar. Typisch: 90% na 10 jaar, 80% na 25 jaar. TOPCon-panelen scoort hier beter dan PERC.
+**Vermogensgarantie (fabrikant):** garandeert een minimumproductie na een aantal jaren, bijvoorbeeld 80–90% na 25 jaar. Ook dit staat per model op de datasheet.
 
-**Installatiegarantie (Zonneplan):** dekt werk- en montagefouten. Zonneplan biedt een 25-jarige opbrengstgarantie, wat betekent: als de totale installatie minder produceert dan de opgegeven prognose, compenseren ze het verschil. Dit is zeldzaam in de markt.
+**Installatiegarantie (installateur):** dekt werk- en montagefouten. Een *opbrengstgarantie* — waarbij de installateur het verschil vergoedt als de installatie minder produceert dan geprognosticeerd — is een aparte belofte en zeldzaam. Wordt die je aangeboden, vraag dan schriftelijk op wat de referentieopbrengst is, hoe die wordt gemeten en welke uitzonderingen er gelden. Zonder die drie antwoorden is een opbrengstgarantie een verkoopargument en geen recht.
 
 **Let op bij goedkope installateurs:** een 10-jarige installatiegarantie is waardeloos als het installatiebureau over 10 jaar niet meer bestaat. Check hoe lang het bedrijf al actief is en of ze een eigen serviceafdeling hebben.
 
@@ -390,7 +388,7 @@ Zonnepanelen produceren na 25 jaar nog steeds stroom — alleen minder. Een gemi
 
 **BTW 0% op zonnepanelen:** geldt voor particuliere woningbezitters die panelen op of bij de woning plaatsen. Dit bespaart je 21% over de installatiekosten — significant.
 
-**Saldering (nog geldig in 2026):** nog tot 31 december 2026. Elke kWh die je terugelevert, trek je af van je afname. Installeren in 2026 betekent nog 6–12 maanden volledige saldering profiteren.
+**Saldering (nog geldig in 2026):** tot en met 31 december 2026 trek je elke teruggeleverde kWh af van je afname. Daarna stopt dat volledig, zonder overgangsregeling. Installeer je in 2026, dan profiteer je nog van de resterende maanden — maar laat dat geen reden zijn om een offerte te ondertekenen die je anders niet zou ondertekenen: de panelen liggen er daarna nog 25 jaar.
 
 **Warmtefonds:** als je tegelijk isoleert of een warmtepomp installeert, kun je dit combineren met een Warmtefonds-lening.
 
@@ -417,7 +415,9 @@ Gebruik deze lijst om een offerte te beoordelen:
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Tibber</a>
+
+*Ook voor deze link ontvangen wij geen vergoeding.*
 
 ## Gerelateerde gidsen
 
@@ -427,4 +427,4 @@ Gebruik deze lijst om een offerte te beoordelen:
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — btw-nultarief zonnepanelen](https://www.rvo.nl/onderwerpen/zonne-energie) — de vindplaats voor het 0%-btw-tarief op zonnepanelen. Let op: de ISDE geldt níet voor zonnepanelen, thuisbatterijen of laadpalen.
