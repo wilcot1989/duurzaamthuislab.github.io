@@ -1,6 +1,6 @@
 ---
 title: 'Huawei vs SolarEdge: optimizers optioneel of verplicht?'
-date: '2026-08-21 08:00:00+02:00'
+date: '2026-08-26 08:00:00+02:00'
 lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
 description: 'Het echte verschil tussen Huawei SUN2000 en SolarEdge zit niet in het rendement maar in de architectuur: bij SolarEdge is een optimizer per paneel verplicht, bij Huawei optioneel. Wat dat betekent voor prijs, schaduw, monitoring en garantie — met de waarden uit de datasheets.'

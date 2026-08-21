@@ -1,6 +1,6 @@
 ---
 title: 'JinkoSolar vs Trina: wat de garantievoorwaarden echt zeggen'
-date: '2026-08-21 08:00:00+02:00'
+date: '2026-08-24 08:00:00+02:00'
 lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
 description: 'JinkoSolar publiceert een lineaire vermogensgarantie van 30 jaar — dat is niet hetzelfde als 30 jaar productgarantie. Wat het verschil betekent, wat er in de Tiger Neo-specificaties staat en waarom bij twee vergelijkbare panelen de prijs de doorslag geeft.'

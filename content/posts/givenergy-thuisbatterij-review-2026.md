@@ -1,6 +1,6 @@
 ---
 title: 'GivEnergy All in One 2: wat de fabrikant publiceert (en niet)'
-date: '2026-08-21 08:00:00+02:00'
+date: '2026-09-05 08:00:00+02:00'
 lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
 description: 'GivEnergy is een Britse batterijfabrikant. Wat staat er in de eigen productdocumentatie over de All in One 2 — capaciteit, vermogen, garantie — en wat publiceert het merk niet: prijs, cyclusaantal en een Nederlandse serviceorganisatie.'

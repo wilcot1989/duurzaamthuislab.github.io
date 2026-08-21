@@ -1,6 +1,6 @@
 ---
 title: 'LG RESU thuisbatterij: de recall, en hoe je je serienummer checkt'
-date: '2026-08-21 08:00:00+02:00'
+date: '2026-09-01 08:00:00+02:00'
 lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
 description: 'LG Energy Solution voert een terugroepactie op RESU-thuisbatterijen met cellen van vóór augustus 2019. Welke modellen het betreft, hoe de serienummercheck werkt, wat de twee herstelroutes zijn en wat je als eigenaar nu moet doen.'
