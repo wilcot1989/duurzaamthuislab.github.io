@@ -1,19 +1,19 @@
 ---
-title: Thuisbatterij kopen of leasen 2026
+title: 'Thuisbatterij kopen of leasen 2026: het model, niet de maandprijs'
 date: 2026-05-12 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Thuisbatterij kopen of leasen? Volledig rekenmodel over 10 jaar voor Sessy, Zonneplan en Marstek. Voor wie wel, voor wie niet.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Thuisbatterij kopen of leasen? De afweging tussen eigendom en een maandbedrag, doorgerekend met expliciete aannames — en de contractpunten die de uitkomst bepalen.'
 categories:
 - thuisbatterijen
 tags:
 - thuisbatterij kopen
 - thuisbatterij leasen
-- Zonneplan lease
+- financiering
 - financieel
 keywords:
 - thuisbatterij kopen vs leasen
 - thuisbatterij lease
-- zonneplan lease review
+- thuisbatterij huren of kopen
 - thuisbatterij financieren
 - is thuisbatterij lease verstandig
 affiliate: false
@@ -21,421 +21,158 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-- q: Is leasen of kopen voordeliger?
-  a: 'Bij gemiddeld gebruik over 10 jaar is kopen €600-€1.200 voordeliger dan leasen. Maar lease beschermt je tegen technologische veroudering, defectrisico en heeft geen grote eenmalige investering. Voor mensen met cashflow-zorgen: lease is rationeel.'
-- q: Welke leveranciers bieden lease aan?
-  a: Zonneplan is de hoofdspeler in Nederland (€34/mnd 5 kWh, €54/mnd 10 kWh). EnergyZero biedt batterij-as-service voor selecte gebieden. Tesla en Sessy bieden geen lease in 2026 — alleen koop.
-- q: Wat zijn de leasevoorwaarden?
-  a: 'Bij Zonneplan: minimaal 1 jaar opzegtermijn, daarna maandelijks opzegbaar. Bij opzegging neemt Zonneplan de batterij terug — geen koopoptie. Defect = vervangen door Zonneplan binnen 5 werkdagen, geen kosten.'
-- q: Kan ik later van lease naar koop overgaan?
-  a: 'Bij Zonneplan niet — lease blijft lease. Wel kun je opzeggen en separaat een nieuwe batterij kopen, maar de oude moet terug. Bij EnergyZero soms wel: na 5 jaar lease kun je restwaarde overnemen voor ~30% van originele prijs.'
-- q: Wie is verantwoordelijk voor onderhoud bij lease?
-  a: De leasegever (Zonneplan, EnergyZero). Geen kosten voor jou bij defect, software-update, of vervanging. Bij koop ben je zelf verantwoordelijk maar binnen 10 jaar garantie krijgt fabrikant het meestal opgelost.
-- q: Is lease fiscaal aftrekbaar?
-  a: 'Voor particulieren niet. Maandelijks bedrag is consumptiekosten. Voor ZZP''ers/MKB met thuiswerken: deel van de lease (in verhouding tot werkruimte) kan zakelijke kost zijn — overleg met je accountant.'
-- q: Wat als de lease-leverancier failliet gaat?
-  a: 'Bij Zonneplan failliet: de batterij blijft eigendom van Zonneplan, dus curator zou hem kunnen opeisen. Praktisch is dit risico klein voor Zonneplan (groot bedrijf), maar wel iets om mee te wegen vs koop (waarbij batterij van jou is).'
-- q: Heeft lease invloed op verzekering?
-  a: Nee niet direct — Zonneplan zorgt voor verzekering van de hardware. Bij koop moet je het apparaat eventueel onder je inboedelverzekering laten registreren (bij batterij >€2.000).
-products:
-- name: Zonneplan thuisbatterij koop 10 kWh
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '6995'
-- name: Zonneplan thuisbatterij lease 10 kWh
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '54'
-- name: Sessy 10 kWh (alternatief koop)
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '5500'
-- name: Marstek Venus E (alternatief koop)
-  url: https://marstekenergy.com/venus-e
-  price: '2299'
+- q: 'Is leasen of kopen voordeliger?'
+  a: 'Over de volle looptijd is kopen in de meeste doorrekeningen goedkoper, omdat een maandbedrag ook rente, service en risico van de aanbieder afdekt. Leasen wint op cashflow en op het wegnemen van defectrisico. Welke van de twee voor jou uitkomt, hangt vooral af van de looptijd en van de vraag wie na afloop eigenaar is.'
+- q: 'Welke partijen bieden in Nederland lease of huur aan?'
+  a: 'Het aanbod is dun. Otovo noemt op de eigen site verhuur vanaf €80 per maand bij een looptijd van tien jaar, HalloStroom adverteert huur vanaf €30 per maand inclusief service. Zonneplan biedt uitdrukkelijk géén lease en richt zich alleen op verkoop. Het volledige overzicht staat in ons artikel over lease-aanbieders.'
+- q: 'Ben ik na de leaseperiode eigenaar?'
+  a: 'Dat verschilt per aanbieder en is het belangrijkste contractpunt. Otovo schrijft op de eigen site dat je aan het einde van het contract eigenaar bent en dat tussentijds afkopen zonder extra kosten kan. Bij andere constructies blijft de aanbieder eigenaar en haalt hij het systeem op. Laat dit zwart-op-wit vastleggen voordat je tekent.'
+- q: 'Wie is verantwoordelijk voor onderhoud bij lease?'
+  a: 'Bij huur- en leaseconstructies is service inbegrepen — dat is het verkoopargument. Hoe snel een defect wordt verholpen en wat er buiten de dekking valt, staat in de voorwaarden en niet op de productpagina. Vraag de reactietermijn en de uitsluitingen op papier op.'
+- q: 'Is lease fiscaal aftrekbaar?'
+  a: 'Voor particulieren niet: het maandbedrag is een consumptieve uitgave. Voor ondernemers met een werkruimte thuis kan een deel zakelijk zijn, maar dat hangt volledig af van je situatie — leg dat voor aan je accountant in plaats van er in een rekenmodel op te rekenen.'
+- q: 'Wat als de lease-aanbieder failliet gaat?'
+  a: 'Blijft de aanbieder eigenaar van de batterij, dan valt het apparaat in de boedel en kan een curator er aanspraak op maken. Bij een constructie waarin je gaandeweg of aan het eind eigenaar wordt, is dat risico kleiner. Vraag daarom expliciet na wie tijdens de looptijd juridisch eigenaar is.'
+- q: 'Krijg ik subsidie op een thuisbatterij?'
+  a: 'Op rijksniveau niet: de ISDE dekt onder meer isolatie, warmtepompen en zonneboilers, maar geen energieopslag. Wat de ISDE per maatregel wél vergoedt, staat in de apparatenlijst en de rekentool van RVO. Gemeentelijke en provinciale regelingen bestaan wel, maar verschillen per regio en per jaar — en gelden vrijwel altijd alleen voor kopers.'
 schema_type: Article
 ---
-"Een thuisbatterij wil ik wel, maar geen €7.000 cash neerleggen" — dat is de situatie waarin de lease-vraag opkomt. Hieronder het rekensommetje over tien en vijftien jaar, met de aannames erbij, zonder het standaardverhaal dat lease altijd slechter of kopen altijd beter is.
+"Een thuisbatterij wil ik wel, maar niet duizenden euro's in één keer neerleggen" — dat is de situatie waarin de leasevraag opkomt. Dit artikel gaat over die afweging: het model, de contractpunten en een doorrekening met expliciete aannames.
 
----
+Welke partijen in Nederland daadwerkelijk verhuren en wat zij publiceren, staat in ons overzicht van [lease- en huuraanbieders](/posts/thuisbatterij-leasen-aanbieders-2026/). Dat is de bronpagina voor de bedragen die hieronder terugkomen; alle prijzen zijn opgehaald op 20 augustus 2026.
 
+*Disclosure: dit artikel bevat geen affiliate-links. De links naar Sessy en Zonneplan zijn gewone verwijzingen — wij hebben met die partijen geen affiliate- of commissierelatie en ontvangen hiervoor geen vergoeding.*
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Thuisbatterij kopen of leasen? Volledig rekenmodel over 10 jaar voor Sessy, Zonneplan en Marstek. Voor wie wel, voor wie niet.
+> **Kort antwoord:** kopen is over de volle looptijd in de meeste doorrekeningen goedkoper, omdat een maandbedrag ook rente, service en risico van de aanbieder afdekt. Leasen koopt je cashflow en het wegnemen van defectrisico.
 >
-> Bij gemiddeld gebruik over 10 jaar is kopen €600-€1.200 voordeliger dan leasen. Maar lease beschermt je tegen technologische veroudering, defectrisico en heeft geen grote eenmalige investering. Voor mensen met cashflow-zorgen: lease is rationeel.
+> Het beslispunt is zelden het maandbedrag. Het zijn de looptijd, de vraag wie na afloop eigenaar is, en wat er gebeurt bij verhuizing of faillissement.
 
-## Waarom de koop/lease-keuze niet zo simpel is als die lijkt
+## Waarom de keuze minder eenduidig is dan hij lijkt
 
-Op het eerste gezicht lijkt kopen altijd beter: je bent eigenaar, geen maandelijkse verplichtingen, restwaarde na jaren. Maar vier factoren maken het genuanceerder:
+Op het eerste gezicht wint kopen altijd: je bent eigenaar, je hebt geen maandelijkse verplichting en er is restwaarde. Vier factoren maken het genuanceerder.
 
-**1. Cashflow**: €5.500 of €2.679 in één keer neerleggen is voor veel huishoudens niet triviaal. Huishoudens met een smalle marge — hypotheek, kinderopvang, auto — kiezen lease niet uit luiheid maar uit noodzaak.
+**Cashflow.** Een compleet systeem kost duizenden euro's. Charged noemt voor de Sessy €3.550 voor 5 kWh, €5.500 voor 10 kWh en €9.400 voor de Sessy Plus met 15 kWh, inclusief btw en exclusief installatie, met €1.200 voor een basisinstallatie met noodstroomvoorziening. Dat bedrag heeft niet iedereen liggen.
 
-**2. Technologische veroudering**: batterijprijzen dalen 12-15% per jaar. Een 10 kWh batterij die je in 2026 voor €5.500 koopt, kost in 2030 mogelijk €3.500. Bij lease is dit Zonneplan's probleem, niet het jouwe.
+**Defectrisico.** Een thuisbatterij is techniek met een omvormer, software en een cloudkoppeling. Bij huur ligt dat risico bij de aanbieder; bij koop bij jou, met de fabrieksgarantie als vangnet.
 
-**3. Verhuisrisico**: koop je een woning maar weet je niet zeker of je over 3 jaar verhuist? Een gekochte batterij meenemen kost €300-€600 herinstallatie. Een geleasede batterij laat je gewoon staan.
+**Verhuizing.** Weet je niet of je hier over vijf jaar nog woont, dan is een constructie zonder eigen investering aantrekkelijker — mits het contract je bij verhuizing niet klemzet.
 
-**4. Verantwoordelijkheid**: defecten, verzekering, software-updates — bij lease is alles inbegrepen. Bij koop regel je dat zelf (al dekt garantie de meeste defecten).
+**Onzekerheid over het rendement.** Met het einde van de saldering per 1 januari 2027 en dynamische tarieven die per uur bewegen, weet niemand precies wat een batterij over tien jaar oplevert. Wie dat risico wil afkopen, betaalt daarvoor in het maandbedrag.
 
----
+## Wat er in Nederland te leasen valt
 
-## Uitgebreide vergelijking kopen vs leasen: alle aspecten
+Kort samengevat, met de bedragen van de aanbieders zelf (20 augustus 2026):
 
-Laat ik koop en lease naast elkaar leggen voor de meest voorkomende Nederlandse situaties in 2026:
-
-### Aspect 1 — Btw: geen voordeel, bij koop noch bij lease
-
-Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Er is dus geen btw-voordeel dat koop aantrekkelijker maakt dan lease; de prijzen die verkopers noemen zijn consumentenprijzen inclusief die 21%.
-
-Eén uitzondering, en dan echt een specifieke: lever je stroom terug en ben je daarvoor btw-ondernemer, dan kun je btw op de aanschaf in bepaalde gevallen terugvragen. De Belastingdienst stelt daar voorwaarden aan, waaronder een energiemanagementsysteem en een dynamisch contract, en je draagt dan ook btw af over je terugleververgoeding. Reken hier niet standaard op — check je situatie op belastingdienst.nl of bij je adviseur.
-
-### Aspect 2 — Subsidies
-
-Op rijksniveau bestaat er geen subsidie voor thuisbatterijen: de ISDE dekt isolatie, ventilatie, warmtepompen, zonneboilers, warmtenetaansluitingen en elektrisch koken, geen energieopslag. Wél hebben sommige gemeenten en provincies eigen regelingen of leningen. Die zijn bijna altijd alleen voor kopers, omdat de batterij bij Zonneplan-lease eigendom van Zonneplan blijft. Bedragen en voorwaarden verschillen per regio en per jaar, en aanmelden moet soms vóór aanschaf — check dus je gemeentewebsite voordat je bestelt.
-
-### Aspect 3 — Waardeontwikkeling woning
-
-In theorie verhoogt een thuisbatterij de woningwaarde. In de praktijk is dat moeilijk te kwantificeren. Taxateurs nemen thuisbatterijen mee als "energiebesparende maatregel" maar in 2026 zijn de normen nog vaag. Geschat voordeel bij verkoop: €0-€2.000 afhankelijk van taxateur. Bij lease: de batterij gaat weg bij verkoop, dus nul bijdrage aan woningwaarde.
-
-### Aspect 4 — Impact op hypotheek
-
-Een thuisbatterij van €5.500 kopen levert mogelijk extra hypotheekruimte op via de Nationale Hypotheek Garantie (NHG) — woningverbetering mag worden meegefinancierd. Vraag je hypotheekadviseur. Dit is bij lease niet van toepassing.
-
-### Aspect 5 — Einde levensduur
-
-Na 10 jaar is een gekochte Sessy nog steeds van jou. Batterij presteert op ~80% capaciteit. Je kunt hem doorverkopen (secundaire markt), zelf houden, of vernieuwen. Na 10 jaar Zonneplan-lease: Zonneplan neemt de batterij terug. Jij staat met lege handen, tenzij je een nieuwe lease of koop aangaat.
-
----
-
-## Het rekenmodel
-
-Wij vergelijken drie scenario's voor een 10 kWh thuisbatterij over 10 jaar. Het zijn modelberekeningen op basis van de aannames eronder, geen gemeten uitkomsten:
-
-**Scenario A — Koop Sessy 10 kWh**: €5.500 cash (incl. btw, excl. installatie; prijspeil aug 2026 — een basisinstallatie met noodstroom rekent Sessy op €1.200), eigen verzekering, klaar
-**Scenario B — Lease Zonneplan 10 kWh**: €54/maand × 120 maanden = €6.480, alles inclusief
-**Scenario C — Koop Marstek Venus E 8,2 kWh**: €2.679 cash, prijs-kampioen
-
-Aannames:
-- Beide huishoudens: dynamisch contract Frank Energie
-- Beide huishoudens: gemiddeld €750/jaar batterij-besparing
-- Inflatie 2,5%/jaar
-- Verzekering bij koop: €40/jaar
-- Onderhoud bij koop: €0 in jaar 1-9, €100 in jaar 10 (mogelijk inverter-onderhoud)
-
-## Scenario A — Koop Sessy
-
-| Jaar | Uitgave | Cumulatief |
-|---|---|---|
-| 0 (aankoop) | €5.500 + €40 verzekering = **€5.540** | €5.540 |
-| 1 | €40 verzekering | €5.580 |
-| 2 | €41 | €5.621 |
-| 3 | €42 | €5.663 |
-| 4-9 | ~€42-50/jr | tot €5.925 |
-| 10 | €100 onderhoud + €51 verz. | €6.076 |
-
-**10 jaar totale uitgaven**: €6.571
-**Maandelijks gemiddeld**: €54,76
-
-Plus: jij bent eigenaar. Restwaarde na 10 jaar: ~30-50% van originele prijs (€1.800-€3.000) afhankelijk van marktontwikkeling.
-
-## Scenario B — Lease Zonneplan
-
-| Jaar | Uitgave | Cumulatief |
-|---|---|---|
-| 0 | €0 (geen aanbetaling) | €0 |
-| 1 | €54 × 12 = €648 | €648 |
-| 2 | €648 | €1.296 |
-| ... | ... | ... |
-| 10 | €648 | €6.480 |
-
-**10 jaar totale uitgaven**: €6.480
-**Maandelijks gemiddeld**: €54,00
-
-Geen eigendom. Aan einde lease neemt Zonneplan batterij terug. Wel inbegrepen: alle onderhoud, verzekering, software-updates, vervanging bij defect, Radar-algoritme.
-
-## Scenario C — Koop Marstek Venus E
-
-| Jaar | Uitgave | Cumulatief |
-|---|---|---|
-| 0 (aankoop) | €2.679 + €40 verz. = **€2.719** | €2.719 |
-| 1-9 | ~€42/jr | €3.097 |
-| 10 | €120 onderhoud + €52 verz. | €3.269 |
-
-**10 jaar totale uitgaven**: €3.269
-**Maandelijks gemiddeld**: €27,24
-
-**Marstek wint groot** op pure euro's — €3.300 minder over 10 jaar dan Zonneplan lease.
-
-## Het verborgen verschil — wat krijg je voor je geld?
-
-Pure euro's vertellen niet het hele verhaal:
-
-| Aspect | Sessy koop | Zonneplan lease | Marstek koop |
+| Aanbieder | Publiek maandbedrag | Looptijd | Eigendom na afloop |
 |---|---|---|---|
-| Eenmalige investering | €5.500 (excl. installatie) | €0 | €2.679 |
-| 10 jaar totaal | €6.076 | €6.480 | €3.269 |
-| Eigendom | Jij | Zonneplan | Jij |
-| Onderhoud | Jij regelt | Inclusief | Jij regelt |
-| Vervanging bij defect | Garantie 10jr | Direct, 5 dagen | Garantie 10jr (4-8 wkn) |
-| Verzekering | €40/jaar zelf | Inclusief | €40/jaar zelf |
-| Software-updates | Automatisch | Inclusief | Automatisch (HA) |
-| NL-marktintegratie | Ja, native | Ja, Radar | Nee, zelf bouwen (HA) |
-| Restwaarde jaar 10 | €1.800-€3.000 | €0 | €600-€1.000 |
-| Risico fabrikant fail | Eigen risico | Lease-curator-risico | Eigen risico |
+| Otovo | vanaf €80 | tien jaar | ja, volgens eigen site; tussentijds afkopen mogelijk |
+| HalloStroom | vanaf €30, service inbegrepen | niet gepubliceerd | niet gepubliceerd |
+| Zonneplan | biedt geen lease aan | n.v.t. | n.v.t. |
 
-**Rekening houdend met restwaarde**:
-- Sessy effectieve kosten: €6.571 - €2.500 (gem. restwaarde) = **€4.071**
-- Zonneplan effectieve kosten: **€6.480** (geen restwaarde)
-- Marstek effectieve kosten: €3.269 - €800 = **€2.469**
+Let op wat er níet in die tabel staat. Bij HalloStroom is niet publiek welk model onder het instaptarief valt, hoe lang het contract loopt en wie na afloop eigenaar is. Dat zijn precies de variabelen die de eindsom bepalen — vraag ze op voordat je een maandbedrag met een ander maandbedrag vergelijkt.
 
-Marstek blijft veruit goedkoopst. Sessy wint van Zonneplan over 10 jaar door restwaarde.
+## Vijf aspecten waarop koop en lease verschillen
 
-## Wanneer is leasen slim?
+### Btw: geen voordeel, bij koop noch bij lease
 
-✅ **Lease zinvol als:**
-- Je hebt geen €3.000-€7.000 cash beschikbaar
-- Je verhuist mogelijk binnen 10 jaar (lease eenvoudig opzeggen)
-- Je hebt geen tijd voor onderhoud / techniek
-- Je waardeert "alles geregeld" boven €600 besparing
-- Je hebt geen affiniteit met Home Assistant of dynamisch contract zelf instellen
+Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij, ook niet bij gelijktijdige aanschaf met panelen. Er is dus geen btw-voordeel dat de koopoptie op papier goedkoper maakt.
 
-❌ **Lease niet zinvol als:**
-- Je hebt cash beschikbaar (Marstek koop = €3.300 voordeel)
-- Je blijft 10+ jaar in dit huis
-- Je bent technisch en wilt zelf optimaliseren
-- Je waardeert eigendom
+### Subsidie: alleen lokaal, en alleen voor kopers
 
-## Rente vs lease — wat is goedkoper?
+Op rijksniveau bestaat er geen subsidie voor thuisbatterijen; de ISDE dekt geen energieopslag. Wat er per maatregel wél in de ISDE zit, staat in de apparatenlijst en de rekentool van RVO. Gemeentelijke en provinciale regelingen bestaan wel, verschillen per regio en per jaar en vragen soms aanmelding vóór aanschaf. Ze gelden vrijwel altijd alleen voor de eigenaar van het systeem — bij huur is dat de aanbieder. Check de subsidiechecker van je eigen gemeente en provincie.
 
-Belangrijke realiteit: een persoonlijke lening voor €6.000 thuisbatterij kost in 2026 ongeveer €60-€80/maand bij 5-7% rente over 10 jaar.
+### Waardeontwikkeling van de woning
 
-| Optie | Maandelijks | 10 jaar totaal |
+Een gekochte batterij hoort bij de woning en kan in een taxatie als energiebesparende maatregel meetellen. Hoeveel dat oplevert, is niet te kwantificeren met een landelijk bedrag; dat hangt af van de taxateur en de markt. Bij huur gaat het systeem bij verkoop weg of over, en levert het dus niets op voor de woningwaarde.
+
+### Financiering
+
+Wie wil kopen maar het bedrag niet heeft liggen, heeft naast lease nog een derde route: een lening voor verduurzaming. Het Nationaal Warmtefonds verstrekt leningen voor het verduurzamen van woningen, en veel gemeenten hebben een eigen duurzaamheidslening. Of een thuisbatterij onder de voorwaarden valt, en tegen welke rente, verschilt per regeling en per inkomen — dat staat op nationaalwarmtefonds.nl en op de site van je gemeente, en die voorwaarden veranderen te vaak om ze hier over te nemen. Het punt van de vergelijking is wel structureel: bij een lening ben je na afloop eigenaar, bij huur niet.
+
+### Einde levensduur
+
+Na tien jaar is een gekochte batterij nog steeds van jou, met een deel van de oorspronkelijke capaciteit over — hoeveel precies, staat in de capaciteitsgarantie van de fabrikant. Je kunt hem houden, doorverkopen of vervangen. Bij een huurconstructie zonder eigendomsoverdracht eindigt het contract en gaat het systeem weg; je begint dan opnieuw.
+
+## Een doorrekening met expliciete aannames
+
+Onderstaande vergelijking is een **modelberekening**, geen gemeten uitkomst en geen aanbod. De aannames staan erbij; verander je die, dan verandert de uitkomst.
+
+**Aannames:** een systeem van circa 10 kWh, een looptijd van tien jaar, koopprijs €5.500 exclusief installatie (Sessy 10 kWh, prijspeil augustus 2026), een huurconstructie van €80 per maand over tien jaar (het gepubliceerde starttarief van Otovo), en aan beide kanten hetzelfde jaarvoordeel — want dat wordt bepaald door je verbruik en je contract, niet door de financieringsvorm.
+
+| | Kopen | Huren (€80/mnd, tien jaar) |
 |---|---|---|
-| Cash kopen Sessy | n.v.t. | €6.571 |
-| Lening Sessy 5,5% rente | €65 | €7.800 |
-| Lease Zonneplan | €54 | €6.480 |
+| Eenmalige uitgave | €5.500 excl. installatie | geen |
+| Uitgaven over tien jaar | €5.500 plus installatie, verzekering en eventueel onderhoud | €9.600 |
+| Eigenaar tijdens looptijd | jij | de aanbieder |
+| Eigenaar na afloop | jij | afhankelijk van het contract |
+| Defectrisico | bij jou, met fabrieksgarantie | bij de aanbieder |
+| Restwaarde | onbekend, maar niet nul | geen, tenzij het contract eigendom overdraagt |
 
-**Conclusie**: lease is goedkoper dan een lening. Cash kopen is goedkoopst van allemaal (geen rente, geen lease-marge).
+Het verschil van ruwweg vierduizend euro over tien jaar is wat je betaalt voor gespreide betaling, service en risico-overname. Of dat een goede deal is, hangt af van hoe zwaar die drie voor jou wegen — en van de vraag of het contract je aan het eind eigenaar maakt. Doet het dat, zoals Otovo op de eigen site stelt, dan is de constructie feitelijk een gespreide aankoop en verandert de vergelijking wezenlijk.
 
-## Rekenvoorbeeld: lease bij een gemiddeld gezinsprofiel
+Wat de berekening níet meeneemt, omdat wij het niet kunnen onderbouwen: prijsindexering van het maandbedrag, de exacte restwaarde na tien jaar en de kosten van een vervangende omvormer. Vraag de indexeringsclausule op bij de aanbieder en tel die zelf bij het maandbedrag op.
 
-Onderstaande cijfers zijn een modelberekening met expliciete aannames, geen praktijkmeting. Profiel: 10 zonnepanelen (3,6 kWp), verbruik 3.800 kWh per jaar, geen EV, dynamisch contract, geleasede batterij van 10 kWh voor €54 per maand.
+## Wat een batterij per jaar oplevert — en waarom dat losstaat van de financieringsvorm
 
-Aannames in het model: de batterij verschuift gemiddeld 6 kWh per dag van goedkope naar dure uren, de gemiddelde bruikbare spread ligt op €0,12 per kWh in het zomerhalfjaar en €0,16 in het winterhalfjaar, en de zelfconsumptie van zonnestroom stijgt met circa 900 kWh per jaar.
+Het rendement van een thuisbatterij komt uit twee bronnen: stroom die je zelf gebruikt in plaats van teruglevert, en verbruik dat je verschuift naar goedkopere uren. Beide hangen af van je verbruikspatroon en je energiecontract, niet van de vraag of je het apparaat koopt of huurt.
 
-| Post | Zomerhalfjaar (per maand) | Winterhalfjaar (per maand) |
-|---|---|---|
-| Voordeel uit verschoven verbruik | €22 | €29 |
-| Voordeel uit hogere zelfconsumptie | €48 | €38 |
-| Bruto voordeel | €70 | €67 |
-| Leaseprijs | −€54 | −€54 |
-| **Netto per maand** | **€16** | **€13** |
+Een voorbeeld met aannames: verschuif je 2.000 kWh per jaar van teruglevering naar eigen verbruik, en is het verschil tussen leveringstarief en terugleververgoeding €0,25 per kWh, dan is het brutovoordeel €500 per jaar — vóór rendementsverlies bij laden en ontladen. Bij €80 per maand huur (€960 per jaar) is dat model verliesgevend; bij een gekocht systeem betaal je die €500 per jaar af tegen je investering. Verdubbelt de verschoven hoeveelheid, dan kantelt het beeld.
 
-Netto komt dit model uit op circa €175 per jaar voordeel ten opzichte van geen batterij nemen. Bescheiden, maar zonder eigen investering.
+Reken dit door met je eigen jaarafrekening voordat je een financieringsvorm kiest. Onze [ROI-berekening voor een thuisbatterij na saldering](/posts/roi-thuisbatterij-na-saldering-2027-berekening/) en het overzicht van de [prijs per kWh](/posts/thuisbatterij-prijs-per-kwh-2026/) helpen daarbij.
 
-Dat is ook de kern van lease: het is niet het scherpste rekensommetje, maar wel het enige model waarbij het voordeel positief kan zijn zonder dat je duizenden euro's inlegt. Let op de gevoeligheid: valt de spread in een rustig prijsjaar naar €0,08 per kWh, dan wordt het netto resultaat negatief en betaal je effectief voor het gemak.
+## Vier fouten die de keuze scheeftrekken
 
-## Veelgemaakte fouten bij de keuze kopen vs leasen
+**Alleen op het maandbedrag letten.** Een laag maandbedrag zegt weinig zonder de looptijd, de indexering en de eigendomsvraag. €30 per maand voor een klein plug-in-systeem en €80 per maand voor een volwaardige installatie zijn geen vergelijkbare aanbiedingen.
 
-**Fout 1: Alleen op de maandprijs letten**
+**Uitgaan van een vast maandbedrag.** Contracten kennen vaak een indexeringsclausule. Vraag hoe die luidt en reken de looptijd door met indexering, niet met het starttarief.
 
-"Lease is maar €54/mnd, dat is goedkoop!" klopt — maar de vergelijking klopt pas als je ook de alternatieve kosten meeneemt. Marstek kopen kost €27/mnd gemiddeld. Wie lease aantrekkelijk vindt omdat €54/mnd laag lijkt, betaalt al gauw twee keer zoveel als nodig.
+**Rekenen met een btw-voordeel dat niet bestaat.** Op een thuisbatterij zit 21% btw, ook bij gelijktijdige aanschaf met panelen. Wie een btw-teruggave in zijn koopberekening zet, maakt kopen op papier goedkoper dan het is.
 
-**Fout 2: Ervan uitgaan dat leasebedragen vaststaan**
+**Verhuizen vergeten.** Vraag bij huur expliciet: kan het contract worden overgedragen aan de koper van de woning, kun je afkopen, en wat kost verplaatsen? Zonder die antwoorden op papier weet je niet wat een verhuizing kost.
 
-Zonneplan kan in principe de leaseprijs aanpassen bij contractverlenging. De huidige overeenkomst geldt voor de contractduur — check de kleine lettertjes over prijsindexering. Bij een inflatieclausule van 2,5% per jaar is de lease in jaar 10 geen €54 maar €67/mnd.
+## Wat het einde van de saldering verandert
 
-**Fout 3: Niet nadenken over verhuizen**
+Per 1 januari 2027 stopt de salderingsregeling volledig. Het gefaseerde afbouwpad waarover lang is geschreven, hoorde bij een verworpen wetsvoorstel. Vanaf die datum is zelf verbruikte stroom meer waard dan teruggeleverde stroom, en dat maakt de businesscase van opslag beter dan onder saldering.
 
-Bij koop kun je de batterij meenemen naar je nieuwe huis (aanpassen en heraansluiten kost €300-€600 maar dan is hij van jou). Bij lease neem je de batterij niet mee — die blijft bij het huis of gaat terug naar Zonneplan. Dit maakt lease eigenlijk juist aantrekkelijk als je snel gaat verhuizen: je hebt geen last van de demontage, Zonneplan haalt het apparaat op.
+Dat effect komt terecht bij degene die het voordeel incasseert, en dat ben jij in beide constructies — je betaalt immers je eigen energierekening. Wat verschilt, is dat een eigenaar dat voordeel na de terugverdienperiode volledig houdt, terwijl een huurder het maandbedrag blijft betalen zolang het contract loopt. Bij een lange horizon telt dat op. De achtergrond staat in onze [gids over het stoppen van de saldering](/posts/saldering-stopt-2027-volledige-gids/).
 
-**Fout 4: rekenen met een btw-voordeel dat niet bestaat**
+## Vijf vragen die de keuze meestal beslissen
 
-Op een thuisbatterij betaal je 21% btw, ook bij koop en ook bij gelijktijdige aanschaf met zonnepanelen. Wie €1.000 of meer aan "btw-voordeel" in zijn koopberekening zet, maakt de koopoptie op papier goedkoper dan hij is. Wat wél alleen voor kopers geldt: eventuele gemeentelijke of provinciale regelingen. Check die vóór je bestelt en reken verder met de volle prijs inclusief btw.
+1. **Heb ik het bedrag beschikbaar zonder dat het knelt?** Zo nee, dan valt kopen zonder financiering af en gaat de vergelijking tussen huur en een lening.
+2. **Blijf ik hier de komende jaren wonen?** Bij twijfel weegt de overdraagbaarheid van een contract zwaarder dan het maandbedrag.
+3. **Word ik aan het eind eigenaar?** Staat dat niet in het contract, dan koop je tien jaar gebruik — reken het dan ook zo door.
+4. **Wat is de indexeringsclausule?** Zonder dat percentage is elke tienjaarsvergelijking onvolledig.
+5. **Wil ik zelf sturen?** Wie via Home Assistant of een dynamisch contract zelf wil optimaliseren, heeft aan een systeem in eigendom met open koppeling meer dan aan een dichtgetimmerde dienst.
 
-## Hoe saldering-stop 2027 de koop/lease-keuze verandert
+## Onze afweging per profiel
 
-Vanaf 1 januari 2027 stopt saldering. Dat heeft gevolgen voor de besparing die een batterij oplevert:
+**Geen ruimte voor een eenmalige investering, geen behoefte aan techniek.** Een huurconstructie is dan verdedigbaar — mits je de looptijd, de indexering en de eigendomsvraag hebt uitgevraagd. Ga niet af op het bedrag in de advertentie.
 
-- **Nu** (saldering actief): batterij spaart gemiddeld €600-€800/jaar bij 10 zonnepanelen + dynamisch contract
-- **Na 2027** (geen saldering): batterij spaart gemiddeld €800-€1.100/jaar — de besparing stijgt doordat zelfverbruik nóg waardevoller wordt
+**Wel ruimte, wel affiniteit met techniek.** Kopen, en dan een systeem met een open koppeling zodat je zelf kunt sturen. De laagste kosten per kWh vind je aan de onderkant van de markt, tegen meer eigen inregelwerk.
 
-Hogere jaarlijkse besparing maakt de terugverdientijd bij koop korter. Dat verschuift het voordeel verder richting kopen:
+**Het brede midden.** Kopen bij een leverancier die zijn prijzen publiceert en zijn service in Nederland heeft belegd. Dat kost meer dan de goedkoopste optie en levert je een aanspreekpunt op — de reden dat de meeste huishoudens uiteindelijk voor die route kiezen.
 
-| Scenario | Terugverdientijd Sessy koop | Terugverdientijd Marstek koop |
-|---|---|---|
-| Nu (saldering actief) | 7-9 jaar | 3-4 jaar |
-| Na 2027 (geen saldering) | 5-7 jaar | 2-3 jaar |
+[Sessy: specificaties en prijzen →](/posts/sessy-review-thuisbatterij-nederland/) · [Marstek Venus →](/posts/marstek-venus-review-thuisbatterij/) · [Zonneplan →](/posts/zonneplan-thuisbatterij-review-2026/)
 
-Wie nu leaset maar na 2027 de hogere besparing wil verzilveren als eigenaar, zit vast: lease laat geen eigendomsoverdracht toe. Wie nu koopt, profiteert automatisch van de hogere waardering van zelfverbruik na 2027.
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Sessy</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-## Gedetailleerde jaarberekening: Sessy koop vs Zonneplan lease over 15 jaar
-
-De vraag die over blijft: hoe ziet het over vijftien jaar uit? Hieronder de volledige berekening, inclusief de saldering-overgang in 2027. Ook dit is een modelberekening met expliciete aannames:
-
-**Aannames:**
-- Huishouden: 3.800 kWh verbruik/jaar, 10 zonnepanelen (3,5 kWp)
-- Dynamisch contract Frank Energie
-- Besparing 2026: €680/jaar (met saldering)
-- Besparing 2027+: €920/jaar (zonder saldering, hogere zelfverbruikwaarde)
-- Inflatie energieprijzen: 2% per jaar
-- Inflatie lease-prijs Zonneplan: 2,5% per jaar (clausule in contract)
-
-**Scenario A — Koop Sessy 10 kWh:**
-
-| Periode | Jaarlijkse kosten | Jaarlijkse besparing | Netto per jaar |
-|---|---|---|---|
-| Jaar 0 (aankoop) | €5.500 + €40 verz. | €680 | -€4.860 |
-| Jaar 1-2 (met saldering) | €41 verz. | €694 | +€653 |
-| Jaar 3-10 (geen saldering) | €43-50 verz. | €920-€1.076 | +€870-€1.026 |
-| Jaar 11-15 | €52-55 verz. | €1.100-€1.215 | +€1.045-€1.160 |
-| **Cumulatief jaar 15** | **~€6.215 totaal kosten** | **~€14.400 totaal besparing** | **+€8.185** |
-
-**Scenario B — Lease Zonneplan 10 kWh:**
-
-| Periode | Jaarlijkse lease (incl. indexering) | Jaarlijkse besparing | Netto per jaar |
-|---|---|---|---|
-| Jaar 1-2 (met saldering) | €648 | €680 | +€32 |
-| Jaar 3 | €666 | €920 | +€254 |
-| Jaar 5 | €700 | €956 | +€256 |
-| Jaar 10 | €793 | €1.056 | +€263 |
-| Jaar 15 | €899 | €1.165 | +€266 |
-| **Cumulatief jaar 15** | **~€11.400 totaal kosten** | **~€14.400 totaal besparing** | **+€3.000** |
-
-**Conclusie over 15 jaar:**
-- Sessy koop: €7.690 netto voordeel
-- Zonneplan lease: €3.000 netto voordeel
-- Verschil: **€4.690 ten gunste van kopen**
-
-Over 15 jaar is het verschil dus bijna €5.000 — niet €600 zoals over 10 jaar. Dit komt door twee factoren: de lease-prijs stijgt door indexering terwijl de batterij al lang is terugverdiend, en de besparing na 2027 stijgt voor de eigenaar zonder extra kosten.
-
-## Lease of koop bij verhuizing: wat zijn de regels?
-
-Een vraag die ik vaak krijg: "Wat als ik ga verhuizen? Kan ik de batterij meenemen of overdragen?"
-
-Dit verschilt sterk tussen kopen en leasen:
-
-**Bij koop:**
-De batterij is van jou. Je hebt twee opties bij verhuizing:
-1. **Meenemen**: demontage kost €200-€400, herinstallatie in nieuwe woning €200-€400. Totaal €400-€800. Alleen zinvol als nieuwe woning geschikt is (zonnepanelen, geschikte meterkast).
-2. **Achterlaten en verrekenen**: de batterij vergroot de waarde van je woning. Een geïnstalleerde 10 kWh thuisbatterij voegt €2.000-€4.000 toe aan verkoopprijs (afhankelijk van leeftijd en merk). Laat hem zitten en verhoog je vraagprijs.
-
-**Bij lease:**
-Je belt Zonneplan, zegt op, zij halen de batterij op. Dat is alles. Geen gedoe, geen keuzes. Wil je in je nieuwe woning ook een batterij: nieuw leasecontract afsluiten. Naadloos — dat is het echte voordeel van lease bij verhuizers.
-
-**Praktijkadvies:** Ben je van plan binnen 5 jaar te verhuizen, is lease aantrekkelijk puur vanwege de flexibiliteit. Ben je stabiel gevestigd en koop je: achterlaten bij verkoop is het makkelijkste en levert via de verkoopprijs geld terug.
-
-## Thuisbatterij financieren via groene lening: derde optie
-
-Naast kopen en leasen is er een derde route die ik onderbenut zie: de groene lening of duurzaamheidslening via je gemeente of het Nationaal Warmtefonds.
-
-**Nationaal Warmtefonds:**
-
-Het Nationaal Warmtefonds biedt renteloze leningen voor verduurzaming van woningen. In 2026 is de rente op een energiehypotheek via het Warmtefonds 0% voor huishoudens tot 150% van het sociaal minimum. Voor hogere inkomens geldt een rente van 0,5-1,5% afhankelijk van looptijd.
-
-Een lening van €6.000 voor een Sessy 10 kWh over 10 jaar kost bij 0% rente €50/maand. Bij 1,5% rente: €54/maand. Vergelijk dat met Zonneplan-lease van €54/maand — de lening is qua maandlast identiek maar de batterij is van jou na 10 jaar.
-
-**Gemeentelijke duurzaamheidsleningen:**
-
-Veel gemeenten hebben eigen duurzaamheidsleningen via het Stimuleringsfonds Volkshuisvesting (SVn). Rentes variëren van 0,5% tot 2%, afhankelijk van gemeente en inkomen. Looptijden van 7-15 jaar.
-
-| Financieringsoptie | Maandlast | 10 jaar totaal | Eigendom |
-|---|---|---|---|
-| Cash kopen Sessy | n.v.t. (eenmalig €5.500) | €6.076 | Jij |
-| Warmtefonds 0% | €50 | €6.000 | Jij |
-| Warmtefonds 1,5% | €54 | €6.480 | Jij |
-| Gemeentelijke lening 1% | €52 | €6.240 | Jij |
-| Zonneplan lease | €54 | €6.480 | Zonneplan |
-
-De Warmtefonds-lening op 1,5% is financieel identiek aan Zonneplan-lease maar na 10 jaar is de batterij van jou. Dit maakt de Warmtefonds-lening de superieure optie voor iedereen die een batterij wil maar geen €6.000 cash heeft.
-
-Hoe aanvragen: nationaalwarmtefonds.nl → "Lening aanvragen" → verduurzamingsplan invullen. Beslissing binnen 5 werkdagen.
-
-## Technologisch risico: veroudering van de batterij
-
-Een argument vóór lease dat ik serieus neem: het risico van technologische veroudering. Thuisbatterijen zijn een snel evoluerende technologie. In 2020 kostte een 10 kWh batterij €12.000. In 2024: €6.000. In 2026: €5.000-€6.000. De verwachting is dat de prijs verder daalt naar €3.000-€4.000 rond 2030.
-
-Als je nu circa €5.500 plus installatie betaalt voor een Sessy 10 kWh en over 5 jaar zijn vergelijkbare batterijen €3.500, heb je relatief duur gekocht. Bij lease ben je flexibeler: je kunt opzeggen, inleveren en een nieuwe generatie leasen.
-
-**Hoe groot is dit risico in de praktijk?**
-
-Realistisch gezien zijn de grootste prijsdalingen al achter de rug. Van €12.000 naar €6.000 was een halvering in 4 jaar. De volgende halvering naar €3.000 zal langzamer gaan — verwacht 8-12 jaar. Bovendien: zelfs als de prijs daalt, heeft de batterij al zijn terugverdientijd gehaald voor jij er last van hebt.
-
-| Jaar | Verwachte marktprijs 10 kWh batterij | Sessy afschrijving (lineair) |
-|---|---|---|
-| 2026 (aankoop) | €5.500 | €5.500 |
-| 2028 | ~€5.000 | ~€4.400 |
-| 2030 | ~€4.200 | ~€3.300 |
-| 2033 | ~€3.500 | ~€2.200 |
-| 2036 | ~€3.000 | ~€1.100 |
-
-De marktwaardedaling en de boekwaardedaling lopen min of meer gelijk. Je verliest geen extra waarde door de veroudering van de markt — jouw batterij doet ook minder waard wat hij doet.
-
-Technologisch risico is reëel maar niet doorslaggevend. De veilige conclusie: wie nu koopt en 10 jaar houdt, heeft ruim de investering terugverdiend ongeacht marktontwikkelingen.
-
-## Vijf vragen die je jezelf moet stellen vóór je kiest
-
-Een eenvoudig keuzemodel voor wie twijfelt. Beantwoord deze vijf vragen eerlijk:
-
-**1. Heb ik €3.000+ beschikbaar zonder financiële stress?**
-- Ja → koop overweging
-- Nee → lease overweging
-
-**2. Blijf ik zeker 7+ jaar in dit huis?**
-- Ja → koop overweging
-- Nee / onzeker → lease overweging
-
-**3. Ben ik bereid 2-3 uur per jaar aan apps, instellingen en updates te besteden?**
-- Ja → koop overweging
-- Nee → lease overweging
-
-**4. Wil ik maximale controle over mijn energiesysteem (Home Assistant, API, eigen optimalisatie)?**
-- Ja → koop (Marstek of Sessy)
-- Nee → lease of Sessy koop (natiever platform)
-
-**5. Is de subsidie-situatie in mijn gemeente gunstig?**
-- Ja, >€400 lokale subsidie beschikbaar → koop wordt aanzienlijk aantrekkelijker
-- Nee, geen lokale regeling → koop blijft over tien jaar meestal gunstiger, maar het verschil met lease is klein
-
-**Score:**
-- 4-5× koop-antwoord → kopen is duidelijk verstandiger
-- 3× koop + 2× lease → kopen met Marstek (laagste risico door lage investering)
-- 4-5× lease-antwoord → lease is rationele keuze voor jouw situatie
-
-## Onze aanbeveling per profiel
-
-**Cashflow-bewust, geen techaffiniteit, blijft minstens 10 jaar wonen**: lease is dan een verdedigbare keuze. Vast maandbedrag, alles inbegrepen, geen eigen investering — met de aantekening dat je het eigendom en het voordeel na 2027 laat liggen.
-
-**Cash beschikbaar en smart-home-affiniteit**: kopen, en dan aan de onderkant van de markt. Een Marstek Venus E rond de €2.679 plus eigen automatisering via Home Assistant geeft de laagste kosten per kWh, tegen meer eigen inregelwerk.
-
-**De middenweg voor de meeste huishoudens**: een Sessy kopen rond €5.500 exclusief installatie — service inbegrepen, eigendom, Nederlandse leverancier, geen lease-lock-in.
-
-[Volledige Sessy review →](/posts/sessy-review-thuisbatterij-nederland/) · [Marstek review →](/posts/marstek-venus-review-thuisbatterij/) · [Zonneplan review →](/posts/zonneplan-thuisbatterij-review-2026/)
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan</a>
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Zonneplan</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
 ---
 
 ## Conclusie
 
-**Pure euro's**: kopen wint, vooral met Marstek (~€3.300 voordeel over 10 jaar).
-**Cashflow + comfort**: lease wint — zelfde kosten als koop maar gespreid en alles inbegrepen.
-**Eigendom + restwaarde**: kopen wint.
+Op pure euro's wint kopen in vrijwel elke doorrekening, omdat je bij huur ook rente, service en risico-overname betaalt. Op cashflow en gemak wint huren. En het punt dat het vaakst over het hoofd wordt gezien: bij een contract dat je aan het eind eigenaar maakt, verdwijnt het grootste bezwaar tegen huren — dan is het een gespreide aankoop met service.
 
-Voor 70% van Nederlandse huishoudens met een gezond cashflow en geen verhuisplannen: kopen. Voor 30% (krappe cashflow of mogelijk verhuizen): lease.
-
-*Eigen rekensom willen? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
-
----
-
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
+Beslis daarom niet op het maandbedrag, maar op de drie clausules eronder: looptijd, indexering en eigendom.
 
 ## Gerelateerde artikelen
 
-- [Beste thuisbatterij 10 kWh vergelijking](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
+- [Thuisbatterij leasen: de aanbieders en hun voorwaarden](/posts/thuisbatterij-leasen-aanbieders-2026/)
+- [Thuisbatterij van 10 kWh: de merken vergeleken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
 - [Thuisbatterij prijs per kWh](/posts/thuisbatterij-prijs-per-kwh-2026/)
-- [Sessy review](/posts/sessy-review-thuisbatterij-nederland/)
-- [Zonneplan review](/posts/zonneplan-thuisbatterij-review-2026/)
-- [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
+- [Zonneplan thuisbatterij](/posts/zonneplan-thuisbatterij-review-2026/)
+- [Saldering stopt in 2027](/posts/saldering-stopt-2027-volledige-gids/)
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 'Thuisbatterij binnen of buiten plaatsen: veilig 2026'
 date: 2026-06-21 10:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Thuisbatterij buiten of binnen installeren? Wat veiliger is, welke locaties werken (garage, schuur, woonkamer) en wat de installatie-eisen zijn volgens NEN 1010.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Thuisbatterij buiten of binnen installeren? Welke locaties in de praktijk werken (garage, schuur, bijkeuken, woonkamer), wat de fabrikanten in hun handleidingen eisen en waar garantie en verzekering op stuklopen.'
 categories:
 - thuisbatterijen
 tags:
@@ -25,41 +25,34 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-- q: Mag een thuisbatterij buiten staan?
-  a: Ja, maar alleen als de batterij specifiek gecertificeerd is voor buitenopstelling (IP55 of hoger). Niet elke thuisbatterij is geschikt voor directe blootstelling aan regen, vorst of hitte. Controleer altijd de IP-classificatie van het specifieke model.
-- q: Is een LiFePO4 thuisbatterij veilig in huis?
-  a: LiFePO4-batterijen (lithium-ijzerfosfaat) zijn aanzienlijk veiliger dan oudere lithium-ion-types. Ze zijn niet brandbaar bij normale bedrijfstemperaturen en kennen geen thermische runaway onder gewone omstandigheden. De brandweer en verzekeraars accepteren LiFePO4 in woonruimtes, mits correct geïnstalleerd.
-- q: Welke temperatuur heeft een thuisbatterij nodig?
-  a: De meeste thuisbatterijen presteren optimaal tussen 10°C en 35°C. Onder 5°C daalt de laadcapaciteit en sommige systemen weigeren te laden om degradatie te voorkomen. Boven 40°C schakelt het BMS naar beschermmodus. Een onverwarmde buitenruimte kan in de winter problemen geven.
-- q: Hoever moet een thuisbatterij van brandbare materialen staan?
-  a: De Nederlandse installatienorm (NEN 1010) schrijft minimaal 0,5 meter vrije ruimte rondom de batterijkast voor. Voor buitenopstelling adviseert de brandweer minimaal 1 meter afstand van brandbare gevels of opslagmateriaal.
-- q: Kan ik mijn Sessy of Marstek buiten plaatsen?
-  a: De Sessy heeft IP21-classificatie en is niet geschikt voor buitenopstelling. De Marstek B5000 heeft IP55 en kan in een overdekte buitenruimte staan. Raadpleeg altijd de installatiehandleiding en bespreek de locatie met je installateur.
-- q: Vervalt mijn garantie als ik de batterij verkeerd plaatst?
-  a: Ja. Beide fabrikanten (Sessy en Marstek) stellen duidelijke eisen aan de installatieomgeving in hun garantievoorwaarden. Plaatsing buiten de opgegeven temperatuur- of IP-klasse kan leiden tot garantieverval.
-- q: Wat kost installatie van een thuisbatterij gemiddeld?
-  a: De installatiekosten liggen doorgaans tussen €500 en €1.500, afhankelijk van de locatie, kabellengte naar de meterkast en of er aanpassingen aan de groepenkast nodig zijn. Plaatsing dicht bij de meterkast spaart kosten.
-products:
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '3999'
-- name: Marstek B5000
-  url: https://go.duurzaamthuislab.nl/marstek
-  price: '3499'
+- q: 'Mag een thuisbatterij buiten staan?'
+  a: 'Alleen als de fabrikant het model expliciet vrijgeeft voor buitenopstelling. Dat lees je af aan de IP-classificatie in de installatiehandleiding: een kast die alleen tegen spatwater beschermd is, hoort niet in weer en wind. Voor Nederlandse omstandigheden telt naast regen ook vorst, want de meeste systemen mogen onder 0°C niet laden.'
+- q: 'Is een LiFePO4-thuisbatterij veilig in huis?'
+  a: 'LiFePO4 (lithium-ijzerfosfaat) heeft een hogere drempel voor thermische problemen dan de NMC-cellen uit oudere accupakketten, en is daarmee de gangbare keuze voor thuisopslag. Nul risico bestaat niet: de veiligheid zit vooral in een correcte installatie door een erkend installateur, de juiste beveiliging in de groepenkast en voldoende ventilatie rond de kast.'
+- q: 'Welke temperatuur heeft een thuisbatterij nodig?'
+  a: 'Het toegestane bereik staat per model in de handleiding en verschilt behoorlijk. Wat vrijwel overal terugkomt: onder ongeveer 5°C daalt de bruikbare laadcapaciteit merkbaar, onder 0°C weigeren de meeste systemen te laden om celschade te voorkomen, en bij hoge temperaturen schakelt het BMS terug in vermogen. Een onverwarmde buitenruimte geeft in de winter dus minder capaciteit dan de nominale waarde.'
+- q: 'Hoever moet een thuisbatterij van brandbare materialen staan?'
+  a: 'Er bestaat geen algemene Nederlandse norm die één vaste afstand in meters voorschrijft voor thuisbatterijen. Bepalend is wat de fabrikant in de installatiehandleiding als vrije ruimte rondom de kast eist, plus de eis uit NEN 1010 dat de installatie veilig en toegankelijk moet zijn. Houd brandbare opslag hoe dan ook niet direct tegen de kast aan.'
+- q: 'Kan ik mijn Sessy of Marstek buiten plaatsen?'
+  a: 'Dat hangt af van het exacte model en staat in de installatiehandleiding, niet in de brochure. De Sessy is ontworpen voor binnenopstelling. Bij Marstek verschilt het per lijn en per model, en let op dat de garantie bij dat merk vervalt buiten het land van aankoop. Leg de beoogde locatie voor aan je installateur voordat je bestelt.'
+- q: 'Vervalt mijn garantie als ik de batterij verkeerd plaats?'
+  a: 'Dat kan. Fabrikanten stellen in hun garantievoorwaarden eisen aan de installatieomgeving — temperatuurbereik, vochtbelasting, vrije ruimte en installatie door een erkend installateur. Plaats je de kast buiten die voorwaarden, dan is een garantieclaim bij schade een moeizaam traject.'
+- q: 'Wat kost installatie van een thuisbatterij?'
+  a: 'Dat bepaalt de offerte, niet een landelijk gemiddelde: de kosten hangen af van de kabelafstand naar de meterkast, de aanpassingen in de groepenkast en de bereikbaarheid van de locatie. Plaatsing dicht bij de meterkast scheelt het meest. Charged rekent voor de Sessy bijvoorbeeld €1.200 voor een basisinstallatie met noodstroomvoorziening (prijspeil augustus 2026).'
 schema_type: Article
 ---
 Over de vraag waar een thuisbatterij hoort te hangen, lopen de adviezen sterk uiteen: van "gewoon bij de meterkast" tot "absoluut niet in een woonruimte". De juiste keuze staat nauwkeuriger beschreven in de installatiehandleidingen en de norm dan in de brochures — en het zijn precies die details die bepalen of je garantie en verzekering intact blijven.
 
-Dit artikel is gebaseerd op de installatiehandleidingen en garantievoorwaarden van Sessy en Marstek, de NEN 1010-norm, de adviezen van Brandweer Nederland en de polisvoorwaarden van grote Nederlandse verzekeraars. Want "buiten of binnen?" is niet alleen een ruimtekwestie — het gaat over veiligheid, prestaties en garantie.
+Dit artikel gaat uit van wat fabrikanten in hun installatiehandleidingen en garantievoorwaarden vastleggen, van de uitgangspunten van NEN 1010 voor laagspanningsinstallaties en van wat gangbare inboedelpolissen van een vaste elektrische installatie vragen. Wij hebben zelf geen batterij geplaatst of doorgemeten; waar een waarde per model verschilt, verwijzen wij naar de handleiding in plaats van er een getal voor in te vullen. Stand van zaken: augustus 2026.
 
-*Disclosure: de links naar Marstek en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+*Disclosure: de links naar Marstek en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en ontvangen voor deze links geen vergoeding.*
 
 ---
 
 
-> **Kort antwoord:** Thuisbatterij buiten of binnen installeren? Wat veiliger is, welke locaties werken (garage, schuur, woonkamer) en wat de installatie-eisen zijn volgens NEN 1010.
+> **Kort antwoord:** de beste plek is bijna altijd een droge, geventileerde binnenruimte dicht bij de meterkast — technische ruimte, bijkeuken of een droge garage. Buitenopstelling kan alleen als de fabrikant het model daarvoor vrijgeeft, en levert in de Nederlandse winter minder bruikbare capaciteit op.
 >
-> Ja, maar alleen als de batterij specifiek gecertificeerd is voor buitenopstelling (IP55 of hoger). Niet elke thuisbatterij is geschikt voor directe blootstelling aan regen, vorst of hitte. Controleer altijd de IP-classificatie van het specifieke model.
+> Bepalend zijn drie documenten: de installatiehandleiding van de fabrikant, het opleveringsbewijs van je installateur en de voorwaarden van je verzekeraar. Niet de brochure.
 
 ## Waarom de plaatsingskeuze er echt toe doet
 
@@ -69,9 +62,9 @@ Een thuisbatterij is geen koelkast die je zomaar ergens neerzet. Er spelen vijf 
 2. **Prestaties** — temperatuur beïnvloedt laad- en ontlaadcapaciteit direct
 3. **Levensduur** — extreme temperaturen versnellen degradatie
 4. **Garantie** — verkeerde plaatsing kan garantie laten vervallen
-5. **Installatie-eisen** — de NEN 1010 en verzekeringsvoorwaarden stellen eisen
+5. **Installatie-eisen** — NEN 1010 en de voorwaarden van je verzekeraar stellen eisen aan uitvoering en toegankelijkheid
 
-Hieronder lopen we alle plaatsingsopties langs: buiten, garage, schuur, technische ruimte, woonkamer en meterkast — met per optie een redactioneel oordeel op basis van de fabrieksvoorwaarden en de norm.
+Hieronder lopen we alle plaatsingsopties langs: buiten, garage, schuur, technische ruimte, woonkamer en meterkast — met per optie een redactionele afweging op basis van de fabrieksvoorwaarden en de norm.
 
 ---
 
@@ -85,13 +78,12 @@ De meeste moderne thuisbatterijen — waaronder Sessy en Marstek — gebruiken *
 
 | Eigenschap | LiFePO4 | NMC |
 |---|---|---|
-| Thermische runaway drempel | ~270°C | ~150°C |
-| Brandrisico bij overbelasting | Laag | Matig |
-| Levensduur (cycli) | 3.000-6.000 | 1.000-2.000 |
-| Energiedichtheid | Lager | Hoger |
-| Gebruik in thuisbatterijen 2026 | >90% marktaandeel | Afnemend |
+| Drempel voor thermische runaway | hoger | lager |
+| Energiedichtheid | lager | hoger |
+| Cyclusaantal in fabrieksopgaven | doorgaans hoger | doorgaans lager |
+| Toepassing | thuisopslag, stationair | compacte accupakketten, e-bikes |
 
-LiFePO4 is de veiligste gangbare batterijchemie voor thuisgebruik. Dat neemt risico's niet weg, maar maakt plaatsing in woonruimtes acceptabeler dan bij oudere technologie.
+Dit is een kwalitatieve vergelijking; exacte drempelwaarden en cyclusaantallen verschillen per cel en per fabrikant en staan in het datablad van het model dat je koopt. Het praktische punt: LiFePO4 is de gangbare chemie voor stationaire thuisopslag omdat de veiligheidsmarge groter is. Dat neemt risico's niet weg, maar maakt plaatsing binnenshuis verdedigbaar mits de installatie klopt.
 
 ### Wat het BMS doet
 
@@ -120,16 +112,15 @@ IP staat voor "Ingress Protection" en geeft aan hoeveel bescherming de behuizing
 | IP65 | Volledig stofdicht + waterstralen | Ja, ook direct blootgesteld |
 | IP67 | Tijdelijk onderdompeling tot 1m | Niet nodig voor thuisbatterij |
 
-**Sessy:** IP21 — niet geschikt voor buitenopstelling, ook niet in open schuur.
-**Marstek B5000:** IP55 — geschikt voor overdekte buitenruimte.
+Welke klasse jouw model heeft, staat in de installatiehandleiding — niet op de productfoto. De Sessy is een binnenunit; Marstek voert modellen met verschillende behuizingen, dus daar moet je per model kijken. Vraag je installateur om de handleidingpagina waarop de klasse staat, en bewaar die bij je installatiepapieren.
 
 ### Temperatuurrisico buiten
 
-Het Nederlandse klimaat kent winters met meerdere vorstperiodes per jaar. Temperaturen onder 5°C verminderen de laadcapaciteit van LiFePO4 met 15-30%. Onder 0°C weigeren de meeste systemen te laden om celbeschadiging te voorkomen.
+Het Nederlandse klimaat kent winters met meerdere vorstperiodes per jaar. Bij lage temperaturen daalt de bruikbare laadcapaciteit van LiFePO4-cellen merkbaar, en onder 0°C weigeren de meeste systemen te laden om celbeschadiging te voorkomen. Hoeveel capaciteit je precies inlevert, hangt af van cel en BMS; de fabrikant geeft daar in het datablad een laadstroomcurve of een temperatuurbereik voor.
 
-In de zomer kan een donkere metaalbehuizing in direct zonlicht oplopen tot 60-70°C. De meeste thuisbatterijen schakelen boven 45°C naar beschermmodus.
+Aan de andere kant van het jaar speelt hetzelfde omgekeerd: een donkere kast in de volle zon wordt aanzienlijk warmer dan de buitenlucht, en boven het toegestane bereik schakelt het BMS terug in vermogen of stopt het met laden.
 
-**Conclusie buitenopstelling:** Alleen met IP55+, beschut tegen direct zonlicht en regen, en geïsoleerd of verwarmd bij vorst. In Nederland werkt dit seizoensmatig suboptimaal.
+**Conclusie buitenopstelling:** alleen met een behuizing die de fabrikant daarvoor vrijgeeft, beschut tegen direct zonlicht en regen. In Nederland levert het seizoensmatig minder op dan een binnenopstelling.
 
 ---
 
@@ -141,7 +132,7 @@ Voor de doorsnee Nederlandse woning is de garage vaak de beste beschikbare plek.
 
 **Temperatuurstabiliteit:** Een onverwarmde garage heeft in de winter doorgaans temperaturen tussen 5°C en 15°C — onder de optimal range, maar acceptabel voor de meeste systemen. In de zomer zelden boven 30°C als er ventilatie is.
 
-**Ruimte voor installatie:** Je hebt de vrije ruimte die NEN 1010 vereist: 0,5 meter rondom de unit, toegankelijk voor onderhoud.
+**Ruimte voor installatie:** je hebt er doorgaans genoeg vrije ruimte rondom de kast om de eis van de fabrikant te halen en het systeem bereikbaar te houden voor onderhoud.
 
 **Nabijheid meterkast:** Veel garages liggen naast de technische ruimte. Korte kabelafstand = lagere installatiekosten en minder verliesvermogens.
 
@@ -152,13 +143,13 @@ Voor de doorsnee Nederlandse woning is de garage vaak de beste beschikbare plek.
 ### Aandachtspunten voor de garage
 
 - **Vocht:** Een garage met condensproblemen of optrekkend vocht is geen goede keuze. Controleer of de vloer en muren droog zijn.
-- **Auto's met brandstoftanks:** Houd minimaal 1 meter afstand van de brandstoftank van je auto — niet vanwege realistisch brandgevaar, maar vanwege verzekeringsvoorwaarden.
-- **Inbraakbeveiliging:** Een thuisbatterij kost €3.000-€5.000. Zorg dat de garage goed afgesloten is.
-- **Stroom voor verwarming in extreme vorst:** Bij temperaturen onder -5°C (zeldzaam in Nederland, maar niet onmogelijk) kan een kleine verwarmingsweerstand van 50-100W nodig zijn.
+- **Auto's en brandstof:** houd de kast vrij van brandstof, jerrycans en andere brandbare opslag, en leg de opstelling voor aan je verzekeraar als je twijfelt.
+- **Inbraakbeveiliging:** een thuisbatterij is een investering van enkele duizenden euro's. Zorg dat de garage goed afgesloten is.
+- **Vorst:** in een onverwarmde garage kan de temperatuur in de koudste weken onder het laadbereik van het systeem zakken. Bespreek met je installateur of dat bij jouw model tot stilstand leidt en of een plek tegen een binnenmuur dat oplost.
 
 ### Sessy in de garage: waar je op moet letten
 
-De Sessy is volgens de fabrikant geschikt voor een omgevingstemperatuur van 0°C tot 40°C, met een aanbeveling van boven de 5°C. Een droge, gemetselde garage blijft in Nederland doorgaans binnen die grenzen, maar zit in de winternachten wel aan de onderkant.
+Het toegestane omgevingstemperatuurbereik van de Sessy staat in de installatiehandleiding van Charged. Een droge, gemetselde garage blijft in Nederland doorgaans binnen zulke grenzen, maar zit in de winternachten wel aan de onderkant.
 
 Wat dat praktisch betekent: bij omgevingstemperaturen rond of onder de 5°C daalt de beschikbare capaciteit van LiFePO4-cellen merkbaar — de fabrikanten specificeren zelf een lagere laadstroom bij lage temperatuur. Verwacht in de koudste weken dus minder bruikbare capaciteit dan de nominale waarde, en herstel zodra de temperatuur weer stijgt. Dat is normaal gedrag, geen defect. Wie dit wil beperken: plaats de unit tegen een binnenmuur die grenst aan de verwarmde woning in plaats van tegen een buitenmuur.
 
@@ -177,7 +168,7 @@ Vergelijkbaar met een garage. Wel aandacht voor:
 - Geen klimaatbeheersing in extreme koude
 - Toegankelijkheid voor installateur
 
-Geschikt voor Marstek B5000 (IP55), conditioneel voor Sessy (check met installateur).
+Of dit voor jouw model kan, hangt af van de IP-klasse en het temperatuurbereik in de handleiding — check dat met je installateur voordat je een gemetselde schuur als locatie afspreekt.
 
 ### Houten tuinhuis of schuur
 
@@ -204,23 +195,24 @@ NEN 1010 (Nederlandse installatienorm voor laagspanningsinstallaties) verbiedt t
 - Afstand tot brandbare materialen
 - Toegankelijkheid voor onderhoud
 
-Bij LiFePO4 systemen die zijn gecertificeerd voor woonruimtegebruik (sommige fabrikanten specificeren dit expliciet) is plaatsing in een technische ruimte, berging of zelfs woonkamer toegestaan.
+Waar het in de praktijk op neerkomt: als de fabrikant het model voor die ruimte vrijgeeft en de installatie conform de norm is uitgevoerd, is plaatsing in een technische ruimte, berging of woonkamer niet verboden.
 
-### Wat verzekeraars zeggen
+### Wat je bij je verzekeraar moet nagaan
 
-Wij hebben de voorwaarden van drie grote Nederlandse verzekeraars nagelopen (Centraal Beheer, Interpolis, Nationale Nederlanden). Geen van hen verbiedt LiFePO4-thuisbatterijen in huis. Ze stellen als eis:
+Wij hebben geen polissen van individuele verzekeraars nagelopen en doen daar dus geen uitspraak over. Wat je zelf moet uitzoeken bij je eigen verzekeraar — bij voorkeur schriftelijk, vóór de installatie:
 
-1. CE-keurmerk
-2. Installatie door gecertificeerd installateur
-3. Schriftelijke installatieverklaring (E-formulier)
+1. of een vaste thuisbatterij onder je inboedel- of opstalpolis valt en tot welk bedrag;
+2. of er een eis geldt dat de installatie door een erkend installatiebedrijf is uitgevoerd;
+3. welk opleveringsbewijs of installatieattest je moet kunnen overleggen bij schade;
+4. of er een meldplicht geldt boven een bepaalde opslagcapaciteit of investeringswaarde.
 
-Sommige verzekeraars vragen om een aanvullende melding bij hogere opslagcapaciteiten (>10 kWh).
+Dat kost één e-mail en voorkomt de discussie die je anders pas na een schade voert.
 
 ### Praktische overwegingen woonkamer
 
-**Geluid:** Thuisbatterijen hebben geen bewegende delen, maar het BMS en omvormer kunnen een zachte zoem produceren. Bij de Sessy is dit <35 dB — nauwelijks hoorbaar maar merkbaar in een stille slaapkamer. In de woonkamer overdag geen probleem.
+**Geluid:** thuisbatterijen hebben geen bewegende delen, maar het BMS en de omvormer kunnen een zachte zoem produceren. Of dat hinderlijk is, hangt af van de ruimte en van jou; fabrikanten publiceren hier zelden een geluidsniveau voor. Vraag er bij een showroombezoek naar en monteer de kast niet tegen een slaapkamerwand.
 
-**Esthetiek:** Sessy is expliciet ontworpen voor woonruimteplaatsing — het ontwerp is opvallend en sommige mensen vinden het decoratief. De Marstek is meer industrieel.
+**Esthetiek:** de Sessy is nadrukkelijk vormgegeven als apparaat dat in het zicht mag hangen. Andere merken zijn functioneler uitgevoerd. Dit is smaak, geen prestatieverschil.
 
 **Warmteafgifte:** Een thuisbatterij produceert bij vol laden/ontladen enkele honderden watt aan warmte. In de zomer kun je dit als onwenselijke warmtebelasting voelen in een kleine ruimte.
 
@@ -231,7 +223,7 @@ Sommige verzekeraars vragen om een aanvullende melding bij hogere opslagcapacite
 Ga voor de woonkamer als:
 - Je geen garage of schuur hebt
 - De berging/bijkeuken te krap is
-- Je de Sessy als designobject wilt inzetten
+- Je een kast kiest die je in het zicht wilt hebben hangen
 - De meterkast in de woonkamer staat en kabelafstand een probleem is
 
 Vermijd de woonkamer als:
@@ -257,50 +249,37 @@ In nieuwbouwwoningen is de technische ruimte vaak de logische eerste keuze. Bij 
 
 ## Vergelijking per locatie
 
-| Locatie | Temperatuur | Veiligheid | Installatie | Prestaties | Score |
+| Locatie | Temperatuur | Veiligheid | Installatie | Prestaties | Redactionele afweging |
 |---|---|---|---|---|---|
-| Buiten (IP55 unit) | Wisselend | Matig | Simpel | Suboptimaal | 5/10 |
-| Garage (droog) | Matig | Goed | Ideaal | Goed | 8/10 |
-| Gemetselde schuur | Matig | Redelijk | Goed | Goed | 7/10 |
-| Houten schuur | Slecht | Matig | Ontraden | Slecht | 3/10 |
-| Technische ruimte | Uitstekend | Uitstekend | Ideaal | Uitstekend | 10/10 |
-| Bijkeuken | Goed | Goed | Goed | Uitstekend | 9/10 |
-| Woonkamer | Uitstekend | Goed | Acceptabel | Uitstekend | 7/10 |
-| Slaapkamer | Uitstekend | Goed | Ontraden | Uitstekend | 4/10 |
+| Buiten (vrijgegeven model) | Wisselend | Aandachtspunt | Simpel | Suboptimaal | Alleen als de handleiding het toestaat |
+| Garage (droog) | Matig | Goed | Ideaal | Goed | Goed alternatief |
+| Gemetselde schuur | Matig | Redelijk | Goed | Goed | Kan, mits droog |
+| Houten schuur | Slecht | Aandachtspunt | Ontraden | Slecht | Afgeraden |
+| Technische ruimte | Stabiel | Goed | Ideaal | Optimaal | Eerste keuze |
+| Bijkeuken | Goed | Goed | Goed | Optimaal | Sterke tweede keuze |
+| Woonkamer | Stabiel | Goed | Acceptabel | Optimaal | Kan, let op geluid |
+| Slaapkamer | Stabiel | Goed | Ontraden | Optimaal | Afgeraden vanwege geluid |
 
 ---
 
-## Sessy: installatiespecifieke eisen
+## Wat je per model in de handleiding opzoekt
 
-De Sessy is ontworpen als woonkamerunit. De fabrikant stelt de volgende eisen:
+Wij nemen hier bewust geen lijstje met temperatuurgrenzen, IP-klassen en gewichten per merk op: die waarden verschillen per model en per productiejaar, en fabrikanten passen ze aan zonder aankondiging. Verkeerde cijfers zijn hier gevaarlijker dan geen cijfers, want ze bepalen of je garantie standhoudt.
 
-- Minimumtemperatuur omgeving: 0°C (maar aanbevolen: >5°C)
-- Maximumtemperatuur omgeving: 40°C
-- IP-classificatie: IP21 (niet voor buiten)
-- Minimale wandafstand: 10 cm aan de zijkanten, 30 cm boven
-- Vloermontage of wandmontage beide mogelijk
-- Installatieverplichting: gecertificeerde elektrotechnicus
+Zoek in de installatiehandleiding van jouw exacte model deze zes waarden op, en leg ze naast de beoogde locatie:
 
-De Sessy weegt 68 kg. Wandmontage vereist een draagmuur of extra verstevigde wand.
+1. **Toegestaan omgevingstemperatuurbereik** — apart voor laden en ontladen, want die verschillen bijna altijd.
+2. **IP-klasse van de behuizing** — bepaalt of buiten of een open schuur überhaupt mag.
+3. **Voorgeschreven vrije ruimte** — boven, opzij en aan de voorkant, in centimeters.
+4. **Gewicht en montagewijze** — bepaalt of je een draagmuur of een verstevigde wand nodig hebt.
+5. **Vereiste beveiliging in de groepenkast** — welk type aardlekschakelaar en welke zekering.
+6. **Installatievoorwaarde in de garantie** — vrijwel altijd: uitgevoerd door een erkend installatiebedrijf.
 
-[Bekijk de Sessy op onze productpagina](https://go.duurzaamthuislab.nl/sessy)
+Voor de Sessy geldt daarbij dat het een binnenunit is en dat Charged de prijzen wel publiceert: €3.550 voor 5 kWh, €5.500 voor 10 kWh en €9.400 voor de Sessy Plus met 15 kWh, inclusief btw en exclusief installatie, met €1.200 voor een basisinstallatie met noodstroomvoorziening (prijspeil augustus 2026). Voor Marstek geldt dat de huidige lijn uit de Venus E Mini 2, de Venus E 4.0 en de Venus E MAX bestaat, dat het merk op de EU-site geen prijzen per model publiceert en dat de garantie vervalt buiten het land van aankoop — een reden te meer om de handleiding van precies jouw model erbij te pakken.
 
----
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Sessy</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-## Marstek B5000: installatiespecifieke eisen
-
-De Marstek B5000 is een meer robuste unit met bredere installatietolerantie:
-
-- Minimumtemperatuur: -10°C (laden alleen boven 0°C)
-- Maximumtemperatuur: 50°C
-- IP-classificatie: IP55 (geschikt voor overdekte buitenruimte)
-- Vrije ruimte rondom: 20 cm aan alle zijden
-- Wandmontage of vloerplaatsing
-- Gewicht: 75 kg
-
-De Marstek biedt meer flexibiliteit in plaatsing, maar heeft minder verfijnd design voor woonruimtegebruik.
-
-[Bekijk de Marstek B5000 op onze productpagina](https://go.duurzaamthuislab.nl/marstek)
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Marstek</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
 ---
 
@@ -315,18 +294,19 @@ Brand in een LiFePO4-thuisbatterij is extreem zeldzaam — maar nul risico besta
 3. **Externe brand** — nabijgelegen brand veroorzaakt oververhitting batterij
 4. **Fysieke beschadiging** — sterk mechanisch geweld (onwaarschijnlijk thuis)
 
-### Statistisch perspectief
+### Wat er over aantallen bekend is
 
-In Nederland zijn 2026 circa 25.000 thuisbatterijen actief (Netbeheer Nederland schatting). Het aantal brandincidenten met LiFePO4-thuisbatterijen in Nederland in de afgelopen 3 jaar: 0 gedocumenteerde gevallen bij correcte installatie. Ter vergelijking: e-bike accu's (veelal NMC) veroorzaken jaarlijks enkele tientallen branden.
+Er is geen openbare, actuele registratie van het aantal geïnstalleerde thuisbatterijen in Nederland en evenmin een landelijk incidentcijfer specifiek voor thuisopslag. Wij noemen hier daarom geen aantallen: elk getal dat je online tegenkomt — inclusief geruststellende — is zonder bron niet te controleren. Wat wel vaststaat, is dat de risico's die er zijn vooral uit installatiefouten en beschadiging voortkomen, en niet uit normaal gebruik van een correct geplaatste LiFePO4-kast.
 
-### Brandweer-advies
+### Verstandige voorzorgsmaatregelen
 
-De Nederlandse brandweer (Brandweer Nederland, 2025-rapport) adviseert voor thuisbatterijen:
+Ongeacht wat de statistiek zegt, zijn dit de maatregelen die weinig kosten en veel schelen:
 
-- Rookmelder direct boven de installatielocatie
-- Vluchtroute vrij houden
-- Noodnummer op sticker bij de unit
-- Geen andere brandbare opslag direct naast de unit
+- Een rookmelder in dezelfde ruimte als de installatie
+- De vluchtroute vrij houden
+- Contactgegevens van de installateur zichtbaar bij de unit
+- Geen brandbare opslag direct tegen de kast aan
+- Het opleveringsbewijs van de installatie bewaren bij je woningdocumenten
 
 ---
 
@@ -351,14 +331,11 @@ Ongeacht de locatie zijn er vaste elektrotechnische eisen:
 
 Langere kabels bij plaatsing in de garage of schuur leiden tot hogere installatiekosten. Dit is een reëel financieel argument voor installatie dicht bij de meterkast.
 
-### E-formulier en certificering
+### Opleveringsbewijs en certificering
 
-Na installatie is de installateur verplicht een **E-formulier** (elektrotechnisch installatieattest) af te geven. Dit document:
+Vraag je installateur om een schriftelijk opleveringsbewijs waarin staat dat de installatie conform NEN 1010 is uitgevoerd, met de toegepaste beveiliging en de gemeten waarden erin. Of dat document formeel verplicht is, hangt af van je situatie en van je polis — maar het is wél het papier waar je verzekeraar naar vraagt op het moment dat er schade is, en het is het bewijsstuk in een garantiediscussie met de fabrikant.
 
-- Bevestigt dat de installatie voldoet aan NEN 1010
-- Is vereist voor je inboedelverzekering
-- Heb je nodig bij eventuele schade-claims
-- Bewaar dit bij je eigendomsdocumenten
+Bewaar het bij je woningdocumenten, samen met de installatiehandleiding en de aankoopfactuur.
 
 ---
 
@@ -366,15 +343,15 @@ Na installatie is de installateur verplicht een **E-formulier** (elektrotechnisc
 
 De locatiekeuze heeft directe invloed op de installatiekosten:
 
-| Locatie | Extra kosten t.o.v. meterkastnis |
+| Locatie | Extra kosten t.o.v. meterkastnis (marktrichtprijs, geen fabrikantsprijs) |
 |---|---|
-| Meterkastnis (ideaal) | €0 referentie |
-| Garage direct naast meterkast | +€0 tot +€200 |
-| Garage 10m van meterkast | +€300 tot +€600 |
-| Buitenschuur 15m kabelafstand | +€500 tot +€900 |
-| Woonkamer boven meterkast | +€0 tot +€150 |
+| Meterkastnis (ideaal) | referentie |
+| Garage direct naast meterkast | vrijwel geen meerkosten |
+| Garage circa 10 m van de meterkast | enkele honderden euro's |
+| Buitenschuur met lange kabelroute | enkele honderden tot bijna duizend euro |
+| Woonkamer boven de meterkast | beperkte meerkosten |
 
-Elke meter extra kabel kost circa €20-€40 inclusief arbeid en materiaal. Kabelgoten in de gevel kosten extra.
+Dit zijn **marktrichtprijzen, geen fabrikantsprijzen**: de werkelijke meerkosten staan in je offerte en hangen af van de kabelroute, de doorvoeren en het uurtarief van de installateur. Laat de installateur de meerprijs per locatie apart benoemen — dan zie je meteen wat een paar meter verderop je kost.
 
 ---
 
@@ -383,25 +360,25 @@ Elke meter extra kabel kost circa €20-€40 inclusief arbeid en materiaal. Kab
 Gebruik dit voor je gesprek met de installateur:
 
 **Stap 1: Temperatuur**
-- [ ] Temperatuur nooit onder 0°C (voor laden), aanbevolen >5°C
-- [ ] Temperatuur nooit boven 40°C (voor de meeste systemen)
+- [ ] Toegestaan bereik uit de handleiding opgezocht (apart voor laden en ontladen)
+- [ ] Getoetst aan de koudste en warmste weken op de beoogde plek
 
 **Stap 2: Bescherming**
 - [ ] Geen direct regenwater of condensatie
-- [ ] Als buiten: IP55 of hoger vereist
+- [ ] Bij buitenopstelling: IP-klasse van het model laat het toe
 
 **Stap 3: Ruimte**
-- [ ] Minimaal 0,5 m vrij rondom de unit
+- [ ] Vrije ruimte rondom conform de eis van de fabrikant
 - [ ] Toegankelijk voor jaarlijks onderhoud
 
 **Stap 4: Afstand**
-- [ ] Geen brandbare materialen direct naast de unit
-- [ ] Bij garage: minimaal 1 m van brandstoftank auto
+- [ ] Geen brandbare materialen of brandstofopslag direct naast de unit
+- [ ] Bij een gedeelde wand: niet tegen een slaapkamer van de buren
 
 **Stap 5: Elektrotechnisch**
 - [ ] Kabelafstand naar meterkast bepaald
-- [ ] Installateur gevraagd naar kabeldikte en kosten
-- [ ] E-formulier besproken
+- [ ] Installateur gevraagd naar kabeldikte en meerkosten
+- [ ] Opleveringsbewijs conform NEN 1010 afgesproken
 
 **Stap 6: Garantie**
 - [ ] Fabriekshandleiding gelezen op locatie-eisen
@@ -415,13 +392,13 @@ Gebruik dit voor je gesprek met de installateur:
 De kruipruimte lijkt handig omdat de ruimte toch leegstaat, maar is ongeschikt: vochtproblemen, beperkte ventilatie, moeizame toegang voor onderhoud en grote temperatuurwisselingen. Geen enkele fabrikant specificeert de kruipruimte als toegestane locatie.
 
 **Fout 2: Verkeerde of ontbrekende aardlekschakelaar**
-Een thuisbatterij vraagt een aardlekschakelaar van het type dat de fabrikant voorschrijft (type A of B, afhankelijk van het systeem). Een verkeerd type — of het hergebruiken van een bestaande groep — is een veiligheidsrisico en maakt de installatie non-conform NEN 1010. Vraag de installateur expliciet welk type is toegepast en laat dat op het E-formulier vastleggen.
+Een thuisbatterij vraagt een aardlekschakelaar van het type dat de fabrikant voorschrijft (type A of B, afhankelijk van het systeem). Een verkeerd type — of het hergebruiken van een bestaande groep — is een veiligheidsrisico en maakt de installatie non-conform NEN 1010. Vraag de installateur expliciet welk type is toegepast en laat dat in het opleveringsbewijs vastleggen.
 
 **Fout 3: Plaatsen zonder vrije ventilatie**
 Een thuisbatterij inbouwen in een afgesloten kast of nis zonder ventilatie zorgt voor warmteophoping. Het BMS schakelt dan periodiek terug in vermogen of sluit volledig af.
 
 **Fout 4: Zelf aansluiten**
-In Nederland mag alleen een gecertificeerd installateur (erkend installatiebedrijf UNETO-VNI) een thuisbatterij aansluiten op het net. Zelf aansluiten vervalt garantie en inboedelverzekering.
+Een thuisbatterij die vast op de installatie wordt aangesloten, hoort door een erkend installatiebedrijf te worden aangesloten en bij de netbeheerder te worden gemeld. Doe je het zelf, dan heb je geen opleveringsbewijs, loop je een reëel risico op garantieverval en sta je bij schade zwak tegenover je verzekeraar.
 
 ---
 
@@ -443,11 +420,11 @@ De locatiekeuze is één van de gesprekken die je vóór de aanschaf moet voeren
 
 ## Hoe onderhoud en inspectie samenhangen met locatie
 
-Een onderschat aspect van thuisbatterij-plaatsing is de toegankelijkheid voor periodiek onderhoud. De meeste thuisbatterijen vereisen jaarlijkse inspectie door een erkende onderhoudstechnicus. Wat houdt dat in, en wat betekent het voor je locatiekeuze?
+Een onderschat aspect van thuisbatterij-plaatsing is de toegankelijkheid voor periodiek onderhoud. Of periodieke inspectie verplicht is, verschilt per fabrikant en staat in de garantievoorwaarden — sommige merken koppelen de garantietermijn eraan, andere niet. Ga daar dus vóór aanschaf achteraan. Wat een inspectiebeurt inhoudt, is bij de meeste systemen wel vergelijkbaar.
 
-### Wat een jaarlijkse inspectie omvat
+### Wat een inspectiebeurt omvat
 
-Bij een standaard onderhoudsbeurt voor een thuisbatterij controleert de technicus:
+Bij een onderhoudsbeurt voor een thuisbatterij controleert de technicus doorgaans:
 
 - **Visuele inspectie** van de behuizing op beschadiging, roestvorming of waterindringing
 - **Kabelverbindingen** controleren op oxidatie of losse contacten
@@ -458,7 +435,7 @@ Bij een standaard onderhoudsbeurt voor een thuisbatterij controleert de technicu
 - **Aardlekschakelaar** testen
 - **Vrije ruimte** rondom de unit controleren
 
-De gehele inspectie duurt doorgaans 30-90 minuten. Kosten: €80-€180 per beurt bij de meeste installateursbedrijven.
+Zo'n beurt kost doorgaans niet meer dan een uur werk. De prijs staat niet vast en verschilt per installatiebedrijf; vraag het tarief op bij de partij die je installatie doet en neem het mee in je totale kostenplaatje.
 
 ### Locatie-impact op onderhoudsgemak
 
@@ -489,25 +466,19 @@ Wat er wél kan zijn: gemeentelijke of provinciale regelingen en leningen voor e
 
 ## Verzekeringstips specifiek voor thuisbatterijen
 
-Wij hebben de polisvoorwaarden van drie grote Nederlandse verzekeraars doorgenomen op het punt van thuisbatterijen. De praktische punten die je moet weten:
+Wij hebben geen individuele polissen beoordeeld en kunnen dus niet zeggen wat jouw verzekeraar dekt. Wel weten we welke vragen je moet stellen — en dat scheelt in de praktijk meer dan een algemeen overzicht.
 
-### Inboedelverzekering
+### Vraag na waar de batterij onder valt
 
-Een thuisbatterij valt onder de inboedelverzekering als het een "vast" installatie is die eigendom is van de bewoner. De meeste inboedelverzekeringen dekken:
+Een vast aangesloten thuisbatterij hoort bij de woning of bij de inboedel, en welke van de twee bepaalt onder welke polis schade valt. Bij een gemengde situatie (huurder met eigen installatie, VvE-complex, appartement) is dat vaker onduidelijk dan je denkt. Laat je verzekeraar dit schriftelijk bevestigen.
 
-- Schade door brand (ook als de thuisbatterij zelf de brand veroorzaakt, mits geen opzet of grove nalatigheid)
-- Diefstal uit de garage of het huis
-- Overstroming/waterschade (beperkte dekking, check de polis)
+### Vraag na welke eisen aan de installatie worden gesteld
 
-### Wat je typisch niet automatisch meekrijgt
+De terugkerende voorwaarde in polissen voor vaste elektrische installaties is dat het werk door een erkend installatiebedrijf is uitgevoerd. Zorg dus dat je het opleveringsbewijs hebt en bewaar het. Zelf aansluiten is precies het scenario waarin een verzekeraar de discussie aangaat.
 
-- Schade door verkeerde installatie door de eigenaar zelf
-- Garantie-issues (dat is productkwestie, niet verzekeringskwestie)
-- Schade als de installatie niet conform NEN 1010 was (geen E-formulier)
+### Vraag na of er een meldplicht is
 
-### Melding bij verzekeraar
-
-Bij aanschaf van een thuisbatterij boven €2.000 is het verstandig dit te melden bij je verzekeraar. Sommige verzekeraars hebben een maximumbedrag voor elektrische installaties onder de standaardpolis; hogere waarden vereisen een aanvullende clausule.
+Sommige polissen kennen een maximumbedrag voor elektrische installaties of een meldplicht boven een bepaalde waarde of capaciteit. Melden kost een e-mail; niet melden kost je in het slechtste geval de dekking.
 
 ---
 
@@ -533,20 +504,13 @@ Waar de norm en de fabrikant vrij zijn in de locatie, is je portemonnee dat niet
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Sessy thuisbatterij</a>
-
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Marstek B5000</a>
-
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
-
 ## Gerelateerde artikelen
 
-- [Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
-- [Thuisbatterij Zonder Zonnepanelen: Heeft Het Zin in 2027?](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/)
-- [Marstek Venus review 2026: de goedkoopste slimme](/posts/marstek-venus-review-thuisbatterij/)
-- [Sessy review 2026: eerlijke test van de Nederlandse](/posts/sessy-review-thuisbatterij-nederland/)
-- [Huawei Luna vs Tesla Powerwall vs Sessy 2026](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/)
+- [Thuisbatterij van 10 kWh: de merken vergeleken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
+- [Thuisbatterij zonder zonnepanelen: heeft het zin na 2027?](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/)
+- [Marstek Venus: wat de fabrikant opgeeft](/posts/marstek-venus-review-thuisbatterij/)
+- [Sessy: specificaties, prijzen en modi](/posts/sessy-review-thuisbatterij-nederland/)
+- [Huawei Luna vs. Tesla Powerwall vs. Sessy](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/)
 
 ---
 

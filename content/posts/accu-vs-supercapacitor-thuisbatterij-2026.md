@@ -1,8 +1,8 @@
 ---
 title: Accu vs supercapacitor thuisbatterij 2026
 date: 2026-06-29 10:00:00+01:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: Lithium vs nieuwe accu-technologieën — wanneer relevant, wat is hype, wat werkt nu al voor Nederlandse huishoudens.
+lastmod: 2026-08-21 08:00:00+02:00
+description: 'Supercapacitors, natrium-ion en solid-state naast LiFePO4: wat de fysica toelaat, wat er in Nederland te koop is en wanneer wachten op een nieuwe generatie zinvol is.'
 categories:
 - thuisbatterijen
 tags:
@@ -24,20 +24,20 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-- q: Zijn supercapacitors beter dan lithium-batterijen voor thuis?
-  a: Nee, voor thuisopslag zijn supercapacitors in 2026 geen beter alternatief. Supercapacitors hebben uitstekende snelle laad-/ontlaadprestaties maar een energiedichtheid die 10-50 keer lager ligt dan lithium. Een bruikbare thuisbatterij van 10 kWh zou in supercapacitor-technologie onpraktisch groot en duur worden.
-- q: Wanneer komen solid-state batterijen voor thuis beschikbaar?
-  a: Commercieel beschikbare solid-state thuisbatterijen worden verwacht rond 2027-2029 in de premium-markt, met bredere beschikbaarheid na 2030. Pioniersfabrikanten zoals QuantumScape (VS) en Toyota (Japan) richten zich eerst op de EV-markt; de vertaling naar stationaire opslag volgt met vertraging.
-- q: Is natrium-ion een goed alternatief voor lithium-ion?
-  a: Natrium-ion is een veelbelovende technologie die goedkoper en beter beschikbaar is (natrium is overvloediger dan lithium). De energiedichtheid is 20-30% lager dan LiFePO4. CATL heeft natrium-ion-batterijen in productie; thuisbatterijen op basis van natrium-ion worden verwacht in 2026-2028 in het betaalsegment.
-- q: Wat is het verschil tussen een condensator en een supercapacitor?
+- q: 'Zijn supercapacitors beter dan lithium-batterijen voor thuis?'
+  a: 'Nee, voor thuisopslag zijn supercapacitors in 2026 geen beter alternatief. Supercapacitors hebben uitstekende snelle laad-/ontlaadprestaties maar een energiedichtheid die 10-50 keer lager ligt dan lithium. Een bruikbare thuisbatterij van 10 kWh zou in supercapacitor-technologie onpraktisch groot en duur worden.'
+- q: 'Wanneer komen solid-state batterijen voor thuis beschikbaar?'
+  a: 'Commercieel beschikbare solid-state thuisbatterijen worden verwacht rond 2027-2029 in de premium-markt, met bredere beschikbaarheid na 2030. Pioniersfabrikanten zoals QuantumScape (VS) en Toyota (Japan) richten zich eerst op de EV-markt; de vertaling naar stationaire opslag volgt met vertraging.'
+- q: 'Is natrium-ion een goed alternatief voor lithium-ion?'
+  a: 'Natrium-ion is een veelbelovende technologie die goedkoper en beter beschikbaar is (natrium is overvloediger dan lithium). De energiedichtheid is 20-30% lager dan LiFePO4. CATL heeft natrium-ion-batterijen in productie; thuisbatterijen op basis van natrium-ion worden verwacht in 2026-2028 in het betaalsegment.'
+- q: 'Wat is het verschil tussen een condensator en een supercapacitor?'
   a: 'Een gewone condensator slaat energie op in een elektrisch veld tussen twee platen. Een supercapacitor (ook: ultracapacitor of EDLC) heeft een veel groter oppervlak via poröse koolstof-elektroden en kan daardoor 10.000-100.000 keer meer energie opslaan dan een gewone condensator. Toch is de energiedichtheid nog altijd 30-100 keer lager dan een lithium-batterij.'
-- q: Combineren sommige thuisbatterijen lithium en supercapacitor?
-  a: Ja. Hybride systemen die een supercapacitor combineren met een lithium-batterij bestaan in industriële toepassingen. De supercapacitor vangt snelle piekvraag op (hoge C-rate), de lithium-batterij levert de basiscapaciteit. Voor thuisopslag zijn dergelijke hybride systemen in 2026 nog niet commercieel beschikbaar in Nederland.
-- q: Wat zijn de voordelen van LiFePO4 boven NMC voor thuis?
-  a: LiFePO4 (lithium-ijzerfosfaat) heeft een langere levensduur (3.000-6.000 cycli vs 1.000-2.000 voor NMC), is thermisch stabieler (minder brandgevaar), degradeert langzamer en is minder afhankelijk van kobalt (betere leveringszekerheid). Het nadeel is een lagere energiedichtheid, wat echter voor stationaire opslag geen praktisch probleem is.
-- q: Moet ik wachten op nieuwe batterij-technologie voordat ik een thuisbatterij koop?
-  a: Nee, niet als je nu concrete energiebehoefte hebt. LiFePO4-thuisbatterijen zijn volwassen en betrouwbaar. Let wel op dat de ISDE volgens RVO geen thuisbatterijen dekt — reken dus niet op rijkssubsidie, ongeacht welke celchemie je kiest. De kans dat de volgende generatie (solid-state, natrium-ion) significant goedkoper is binnen 2-3 jaar is klein. Wacht niet op perfectie als de huidige technologie al uitstekend is.
+- q: 'Combineren sommige thuisbatterijen lithium en supercapacitor?'
+  a: 'Ja. Hybride systemen die een supercapacitor combineren met een lithium-batterij bestaan in industriële toepassingen. De supercapacitor vangt snelle piekvraag op (hoge C-rate), de lithium-batterij levert de basiscapaciteit. Voor thuisopslag zijn dergelijke hybride systemen in 2026 nog niet commercieel beschikbaar in Nederland.'
+- q: 'Wat zijn de voordelen van LiFePO4 boven NMC voor thuis?'
+  a: 'LiFePO4 (lithium-ijzerfosfaat) heeft een langere levensduur (3.000-6.000 cycli vs 1.000-2.000 voor NMC), is thermisch stabieler (minder brandgevaar), degradeert langzamer en is minder afhankelijk van kobalt (betere leveringszekerheid). Het nadeel is een lagere energiedichtheid, wat echter voor stationaire opslag geen praktisch probleem is.'
+- q: 'Moet ik wachten op nieuwe batterij-technologie voordat ik een thuisbatterij koop?'
+  a: 'Nee, niet als je nu concrete energiebehoefte hebt. LiFePO4-thuisbatterijen zijn volwassen en betrouwbaar. Let wel op dat de ISDE volgens RVO geen thuisbatterijen dekt — reken dus niet op rijkssubsidie, ongeacht welke celchemie je kiest. De kans dat de volgende generatie (solid-state, natrium-ion) significant goedkoper is binnen 2-3 jaar is klein. Wacht niet op perfectie als de huidige technologie al uitstekend is.'
 - q: 'Ik heb gelezen dat grafeen-supercapacitors alles gaan veranderen. Klopt dat?'
   a: 'Grafeen-supercapacitors zijn een actief onderzoeksgebied. Grafeen heeft theoretisch uitstekende eigenschappen: hoge geleidbaarheid en groot oppervlak per gewichtseenheid. De meest veelbelovende grafeen-supercapacitor-prototypes halen energiedichtheden van 30-60 Wh/kg — beter dan traditionele EDLC, maar nog steeds 3-5 keer lager dan LiFePO4. Het produceren van grafeen in voldoende kwaliteit en kwantiteit voor commerciële energieopslag is in 2026 nog geen opgelost productievraagstuk. Voor thuisopslag is dit niet relevant op korte termijn.'
 - q: 'Zijn er thuisbatterijen met geïntegreerde supercapacitor voor piekbelasting?'
@@ -47,30 +47,23 @@ faq:
 - q: 'Mijn installateur raadde een NMC-batterij aan. Is dat slecht?'
   a: 'NMC is minder wenselijk dan LiFePO4 voor thuisopslag: kortere levensduur, iets minder thermisch stabiel, en hogere degradatie bij intensief gebruik. Als een installateur NMC aanraadt in 2026, vraag dan waarom en vergelijk de specificaties kritisch. In de meeste gevallen is LiFePO4 de betere langetermijnkeuze.'
 - q: 'Kan ik mijn thuisbatterij later uitbreiden met extra capaciteit?'
-  a: 'Dat hangt af van het systeem. Modulaire systemen zoals BYD HVS, Huawei LUNA 2000 en Pylontech ondersteunen uitbreiding door extra modules toe te voegen (zolang de omvormer het aankan). De Sessy en Marstek zijn in 2026 minder eenvoudig uit te breiden. Bespreek dit bij aanschaf als je verwacht in de toekomst meer capaciteit nodig te hebben.'
+  a: 'Dat hangt af van het systeem, en het is een vraag die je vóór aanschaf moet stellen. Modulaire systemen zoals BYD, Huawei LUNA2000 en Pylontech breid je uit door modules bij te plaatsen, zolang de omvormer het aankan. Bij andere merken loopt uitbreiden via een tweede unit of helemaal niet. Vraag het na bij de fabrikant of installateur en laat het antwoord in de offerte zetten.'
 - q: 'Is er subsidie op nieuwe technologieën zoals natrium-ion?'
   a: 'Niet via de ISDE. Die regeling geldt voor woningeigenaren uitsluitend voor isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken — batterijopslag valt er niet onder, welke celchemie het ook betreft. Kijk wel naar gemeentelijke of provinciale regelingen; die verschillen per regio.'
-products:
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '3999'
-- name: Marstek B5000
-  url: https://go.duurzaamthuislab.nl/marstek
-  price: '3499'
 schema_type: Article
 ---
 Crowdfundingprojecten die een thuisbatterij op basis van supercapacitors beloven — met een miljoen laadcycli — duiken elk jaar opnieuw op. De vraag die daarbij hoort: moet je wachten op de volgende generatie opslagtechnologie, of is de huidige LiFePO4-techniek al goed genoeg?
 
 Het antwoord zit in de specificaties, en die vallen bij supercapacitors precies verkeerd uit voor thuisgebruik. Dit artikel legt uit waarom.
 
-*Disclosure: de links naar Marstek en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+*Disclosure: de links naar Marstek en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en ontvangen hiervoor geen vergoeding.*
 
 ---
 
 
-> **Kort antwoord:** Lithium vs nieuwe accu-technologieën — wanneer relevant, wat is hype, wat werkt nu al voor Nederlandse huishoudens.
+> **Kort antwoord:** een supercapacitor slaat energie op in een elektrisch veld en niet in een chemische reactie. Dat levert extreem veel cycli en een hoog vermogen op, maar een energiedichtheid die een orde van grootte lager ligt dan die van lithium.
 >
-> Nee, voor thuisopslag zijn supercapacitors in 2026 geen beter alternatief. Supercapacitors hebben uitstekende snelle laad-/ontlaadprestaties maar een energiedichtheid die 10-50 keer lager ligt dan lithium. Een bruikbare thuisbatterij van 10 kWh zou in supercapacitor-technologie onpraktisch groot en duur worden.
+> Voor thuisopslag, waar je energie over uren tot dagen wilt vasthouden, valt die afweging verkeerd uit. LiFePO4 blijft in 2026 de praktische keuze; natrium-ion is de eerste serieuze uitdager, solid-state ligt verder weg.
 
 ## Hoe energieopslag werkt: drie fundamentele mechanismes
 
@@ -115,7 +108,7 @@ Dezelfde capaciteit in supercapacitors: circa 700-2.000 kg.
 
 **Snelle zelfdischarge:** Supercapacitors verliezen energie snel via lekkage. Een volledig geladen supercapacitor verliest 10-40% van zijn lading per dag bij kamertemperatuur. Een LiFePO4-batterij verliest <1-3% per maand.
 
-**Kostprijs per kWh:** Supercapacitors kosten in 2026 circa €1.000-€5.000 per kWh opslagcapaciteit. LiFePO4-thuisbatterijen kosten €400-€700 per kWh.
+**Kostprijs per kWh:** per opgeslagen kilowattuur is een supercapacitor een veelvoud duurder dan een lithiumcel. Precieze bedragen hangen af van celtype en afname en zijn voor consumenten niet publiek; de orde van grootte is het punt.
 
 ### De vuistregel
 
@@ -209,15 +202,15 @@ Ja, en hier is waarom.
 
 ### Kostenplaatje
 
-| Technologie | Prijs/kWh (2026) | Levensduur (cycli) | Kosten per cyclus |
+| Technologie | Prijs per kWh opslag | Cycluslevensduur volgens fabrieksopgaven | Praktische betekenis |
 |---|---|---|---|
-| LiFePO4 (thuisbatterij) | €400-€700 | 3.000-6.000 | €0,07-€0,23/cyclus |
-| NMC (oudere thuisbatterijen) | €350-€600 | 1.000-2.000 | €0,18-€0,60/cyclus |
-| Natrium-ion | €350-€550 (proj. 2027) | 1.500-2.500 | €0,14-€0,37/cyclus |
-| Solid-state | €1.000-€2.000+ | 1.000-5.000 | €0,20-€2,00/cyclus |
-| Supercapacitor | €1.000-€5.000 | 500.000-1.000.000 | €0,001-€0,01/cyclus |
+| LiFePO4 (thuisbatterij) | laagst van dit rijtje | hoog | de gangbare keuze voor thuisopslag |
+| NMC | vergelijkbaar tot lager | lager dan LiFePO4 | nauwelijks nog in thuisbatterijen |
+| Natrium-ion | nog niet uitgekristalliseerd | in vroege generaties lager | eerste producten, nog beperkt in EU |
+| Solid-state | hoog | onbekend voor stationair | nog geen consumentenproduct |
+| Supercapacitor | veelvoud hoger | zeer hoog | ongeschikt als energieopslag voor uren |
 
-*Supercapacitors winnen op kosten per cyclus maar zijn 3-10x duurder per kWh opgeslagen energie.*
+Concrete bedragen per kWh laten wij hier weg: ze verschillen per celtype, per afnamevolume en per kwartaal, en de enige prijs die je kunt controleren is die in je eigen offerte. Ter ijking: Charged noemt voor de Sessy €3.550 voor 5 kWh en €5.500 voor 10 kWh, inclusief btw en exclusief installatie (prijspeil augustus 2026) — dat komt neer op ongeveer €550 tot €710 per kilowattuur op systeemniveau.
 
 ### Volwassenheid van de keten
 
@@ -266,7 +259,7 @@ Er is één scenario waarbij supercapacitor-technologie wél een rol kan spelen 
 
 Snel laden van elektrische auto's (DC-snellaad, >50 kW) vraagt pieken van stroom die de thuisaansluiting (3×25A = 17,25 kW max) overschrijden. Een supercapacitor als lokale buffer kan deze piek opvangen, de thuisaansluiting beschermen en tegelijkertijd sneller laden.
 
-Producten die dit doen: Qucik (Duits bedrijf) werkt aan supercapacitor-buffered home chargers. Dit is een niche toepassing, niet een vervanging van de thuisbatterij.
+Dit soort bufferoplossingen bestaat in de industriële en laadinfrastructuurhoek, maar wij hebben er in augustus 2026 geen consumentenproduct van gevonden dat in Nederland verkrijgbaar is. Het blijft een nichetoepassing en is geen vervanging van een thuisbatterij.
 
 ---
 
@@ -316,13 +309,15 @@ In de praktijk doen de meeste thuisbatterijen niet elke dag een volledige cyclus
 
 ### Factoren die degradatie versnellen
 
-| Factor | Effect |
+| Factor | Effect op de levensduur |
 |---|---|
-| Hoge laadsnelheid (>1C) | +15-25% versnelde degradatie |
-| Opladen tot 100% dagelijks | +10-20% versneld |
-| Bewaren bij >35°C | +20-40% versneld (per 10°C extra: 2x sneller) |
-| Diepontlading (<10%) | +5-15% bij regelmatige herhaling |
-| Celonbalans (slecht BMS) | Variabel, potentieel groot |
+| Hoge laad- of ontlaadstroom | versnelt degradatie |
+| Dagelijks tot 100% laden | versnelt degradatie |
+| Langdurig hoge omgevingstemperatuur | versnelt degradatie sterk |
+| Regelmatig diep ontladen | versnelt degradatie |
+| Celonbalans door een zwak BMS | wisselend, potentieel groot |
+
+Dit zijn richtingen, geen percentages: hoeveel elke factor precies scheelt, hangt af van de cel en van het BMS, en fabrikanten publiceren daar zelden cijfers over. Wat de fabrikant wél publiceert, is de capaciteitsgarantie — dat is het getal waarop je hem kunt aanspreken.
 
 ### Hoe levensduur te maximaliseren
 
@@ -334,7 +329,7 @@ De praktijken die wij aanbevelen:
 4. **Zorg voor koele installatieruimte** (<25°C ideaal)
 5. **Houd firmware up-to-date** — BMS-verbeteringen kunnen de levensduur verlengen
 
-Sessy biedt software-instellingen voor opslaglimieten (boven- en ondergrens instelbaar). Marstek heeft vergelijkbare opties. Gebruik ze.
+Of je die grenzen zelf kunt instellen, verschilt per systeem en per app-versie. Vraag er bij de aanschaf naar: een batterij waarbij je de laad- en ontlaadgrenzen niet kunt aanpassen, dwingt je tot het gebruikspatroon van de fabrikant.
 
 ---
 
@@ -346,12 +341,9 @@ Een onderschat onderwerp bij de aanschaf van een thuisbatterij is de levenseinde
 
 LiFePO4-batterijen kunnen gerecycled worden, maar de huidige recyclingprocessen zijn minder efficiënt dan voor NMC-batterijen (NMC bevat kobalt, dat waardevoller is om terug te winnen).
 
-In Nederland zijn gedaan:
-- **BATT2RECYC** — Europees project voor LFP-recycling, loopt in 2024-2027
-- **Rijkswaterstaat-pilot** — recycling van zonnepaneel-accupakketten
-- **Umicore en anderen** — accepteren batterijpakketten voor smelten en metaalterugwinning
+Het juridische kader is wel geregeld: de Europese batterijverordening legt producenten een uitgebreide producentenverantwoordelijkheid op, inclusief inzameling en verwerking aan het einde van de levensduur. Dat geldt voor iedereen die batterijen op de Europese markt brengt, dus ook voor de merken die je in een offerte tegenkomt.
 
-Praktisch advies: vraag bij aanschaf al naar het retourprogramma van de fabrikant. Sessy en Marstek hebben terugname-verplichtingen conform EU Battery Regulation (2023). Dit is wettelijk geregeld.
+Praktisch advies: vraag bij aanschaf naar het retour- en inzamelprogramma van de fabrikant en laat het antwoord vastleggen. Wie na twaalf jaar een kast van tientallen kilo's kwijt moet, heeft weinig aan een verwijzing naar een verordening.
 
 ### Second life-toepassingen
 
@@ -360,7 +352,7 @@ Thuisbatterijen die 80% restcapaciteit hebben zijn nog bruikbaar voor minder kri
 - Off-grid tuinhuisje
 - Tijdelijke bouwplaats-energievoorziening
 
-Er zijn in Europa al bedrijven (o.a. Aceleron, The Battery Company) die gedegradeerde thuisbatterijen opkopen voor second-life-toepassingen. Dit maakt de economie van thuisbatterijen gunstiger.
+Er zijn in Europa partijen die zich op hergebruik van accupakketten richten, maar een volwassen tweedehandsmarkt voor gedegradeerde thuisbatterijen is er in Nederland nog niet. Reken in je terugverdientijd dus niet op een restwaarde die je niet kunt onderbouwen.
 
 ---
 
@@ -395,31 +387,29 @@ Een batterij van 5-7 kWh is voor dit huishouden de meest kostenefficiënte keuze
 
 De markt voor thuisbatterijen in Nederland is de afgelopen 3 jaar sterk gegroeid. De belangrijkste aanbieders in 2026:
 
-| Merk | Herkomst | Chemie | Capaciteit | Prijs (excl. installatie) |
-|---|---|---|---|---|
-| Sessy | Nederland | LiFePO4 | 5 kWh | €3.800-€4.200 |
-| Marstek B5000 | China/EU | LiFePO4 | 4,8 kWh | €3.200-€3.800 |
-| BYD HVS | China | LiFePO4 | 5,1-20,4 kWh | €3.500-€12.000 |
-| Pylontech US5000 | China | LiFePO4 | 4,8 kWh | €2.800-€3.500 |
-| Huawei LUNA 2000 | China | LiFePO4 | 5-30 kWh | €3.500-€15.000 |
-| Tesla Powerwall 3 | VS | LiFePO4 | 13,5 kWh | €9.500-€11.000 |
+| Merk | Herkomst fabrikant | Chemie | Publieke prijs |
+|---|---|---|---|
+| Sessy (Charged) | Nederland, Andelst | LiFePO4 | ja: €3.550 (5 kWh), €5.500 (10 kWh), €9.400 (Plus 15 kWh), excl. installatie |
+| Marstek | hoofdkantoor Hongkong | LiFePO4 | nee, geen prijs per model op de EU-site |
+| BYD Battery-Box | China | LiFePO4 | nee, via installateur |
+| Pylontech | China | LiFePO4 | nee, via installateur of distributeur |
+| Huawei LUNA2000 | China | LiFePO4 | nee, via installateur |
+| Tesla Powerwall 3 | VS | LiFePO4 | nee, via Tesla of dealer |
 
-Alle bovengenoemde producten gebruiken LiFePO4-chemie. NMC-thuisbatterijen zijn vrijwel verdwenen uit de Nederlandse markt.
+Prijspeil augustus 2026. De meeste fabrikanten publiceren geen Nederlandse consumentenprijs; die staat in de offerte. Alle genoemde systemen werken met LiFePO4-cellen — NMC is in thuisbatterijen vrijwel verdwenen.
 
 ---
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Sessy thuisbatterij (LiFePO4)</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Sessy</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Marstek B5000 (LiFePO4)</a>
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Marstek</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
 ## Gerelateerde artikelen
 
-- [Beste Thuisbatterij 2026: Top 5 voor Nederlandse Huishoudens](/posts/beste-thuisbatterij-nederland-2026/)
-- [Dynamische Energiecontracten + Thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)
-- [Marstek Venus review 2026: de goedkoopste slimme](/posts/marstek-venus-review-thuisbatterij/)
-- [Sessy review 2026: eerlijke test van de Nederlandse](/posts/sessy-review-thuisbatterij-nederland/)
-- [Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
+- [Beste thuisbatterij 2026 voor Nederlandse huishoudens](/posts/beste-thuisbatterij-nederland-2026/)
+- [Dynamische energiecontracten en een thuisbatterij](/posts/dynamische-energiecontracten-thuisbatterij-2026/)
+- [Marstek Venus: wat de fabrikant opgeeft](/posts/marstek-venus-review-thuisbatterij/)
+- [Sessy: specificaties, prijzen en modi](/posts/sessy-review-thuisbatterij-nederland/)
+- [Thuisbatterij van 10 kWh: de merken vergeleken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
 
 ---
 
