@@ -1,7 +1,7 @@
 ---
 title: 'Dakraam vs dakkapel isolatie 2026: warmteverlies'
 date: 2026-06-05 08:00:00+01:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: '2026-08-21 08:00:00+02:00'
 description: Warmteverlies dakraam en dakkapel, energielabel-impact, kosten van isolatie en welke methode wanneer.
 categories:
 - isolatie
@@ -33,27 +33,31 @@ faq:
 - q: Welke subsidie is er in 2026 voor dakraam-isolatie?
   a: De ISDE-subsidie is in 2026 niet van toepassing op individuele dakramen of dakkapellen. Wel kom je in aanmerking voor de Subsidie Verduurzaming en Onderhoud Huurwoningen (SVOH) als verhuurder, of voor de energie-investeringsaftrek (EIA) als ondernemer. Particuliere eigenaar-bewoners kunnen via de warmtefonds financiering regelen maar ontvangen geen directe subsidie voor ramen.
 - q: Hoeveel bespaar ik door mijn oude dakraam te vervangen door een HR++-model?
-  a: Bij vervanging van een oud enkel-glas dakraam (U-waarde 3,5) naar HR++ (U-waarde 1,1) op 1 m² bespaar je circa 63 kWh per stookseizoen. Bij €0,27/kWh is dat €17 per jaar per m² raam. Een Velux M04 (78x98 cm = 0,76 m²) bespaar je circa €13/jaar — terugverdientijd is bij kosten van €400–€600 ongeveer 30–45 jaar.
+  a: 'Bij vervanging van een oud enkel-glas dakraam (U-waarde 3,5) naar HR++ (U-waarde 1,1) bespaar je in ons model circa 149 kWh warmte per m² per stookseizoen. Verwarm je op gas, dan kost een kWh warmte circa €0,13 (gasprijs €1,10/m³, ketelrendement 85%) — dat is circa €19 per jaar per m² raam. Voor een Velux M04 (78×98 cm = 0,76 m²) komt dat op circa €14 per jaar. Bij kosten van €400–€600 is de terugverdientijd dan 29 tot 43 jaar. Een dakraam vervang je dus om comfort, lekkage of daglicht, niet om de energierekening.'
 - q: Wat kost het om een dakraam te isoleren met rolluik of isolatiedeken?
   a: Een Velux isolatierolluik (zwart-out met thermische laag) kost €120–€250 per dakraam en verlaagt de U-waarde effectief met 30–40%. Dit is financieel aantrekkelijker dan raamvervanging. Een thermische dakraamdeken (tijdelijke oplossing) kost €30–€80 per stuk.
 - q: Heeft een dakkapel invloed op de constructieve veiligheid van het dak?
   a: Ja. Een dakkapel vereist constructief inpassen in de dakstructuur. In de meeste gevallen is een constructieberekening verplicht bij een bouwvergunning. De spanten moeten worden doorbroken en herbegrensd. Dit werk moet door een erkend aannemer worden uitgevoerd.
-products:
-- name: Isolatiematerialen vergelijking
-  url: /posts/dakisolatie-materialen-vergelijking-2026
-  price: zie artikel
 schema_type: Article
 ---
 Een zolderkamer die in januari niet warm te krijgen is: vaak zitten de oorzaken in de dakramen en de dakkapel. Dakramen uit begin deze eeuw hebben doorgaans een U-waarde rond 3,0 W/m²K, en dakkapellen die ooit "goed geïsoleerd" waren verliezen hun prestatie zodra de kierdichting het opgeeft. Zo'n etage verbruikt merkbaar meer dan de rest van de woning.
 
 De vraag is telkens dezelfde: is de ingreep de investering waard? In dit artikel zetten wij de berekeningen en het afwegingskader op een rij, op basis van U-waarden uit productdocumentatie en gangbare aannemersprijzen.
 
-*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+**Rekenbasis van dit artikel (modelaannames, peildatum 21 augustus 2026).** Warmteverlies drukken wij uit in kWh warmte en rekenen wij af tegen de prijs van warmte, niet tegen een stroomtarief:
+
+| Aanname | Waarde | Toelichting |
+|---|---|---|
+| Graaddagen | 2.600 | Gangbare Nederlandse rekenwaarde voor een stookseizoen (oktober–april). |
+| Gasprijs all-in | €1,10/m³ | (marktprijs ±€0,30 + €0,60066 energiebelasting) × 1,21 btw. De ODE bestaat sinds 2023 niet meer. |
+| Prijs per kWh **warmte** | €0,13 | €1,10 ÷ (9,77 kWh/m³ × 85% ketelrendement). Verwarm je met een warmtepomp op SCOP 4,0 en stroom van €0,26/kWh, dan is warmte juist circa €0,065/kWh en halveren alle besparingsbedragen hieronder. |
+
+Dat onderscheid is belangrijk: veel koopgidsen rekenen warmteverlies af tegen een **stroom**tarief van €0,26 of hoger, wat de besparing bij een gasgestookte woning ongeveer verdubbelt.
 
 ---
 
 
-> **Kort antwoord:** Warmteverlies dakraam en dakkapel, energielabel-impact, kosten van isolatie en welke methode wanneer.
+> **Kort antwoord:** een dakraam vervangen is als pure isolatiemaatregel vrijwel nooit rendabel — in ons model 47 tot 56 jaar terugverdientijd. Kierdichting en aansluitfolies zijn de kosteneffectieve ingreep. Bij een dakkapel is het omgekeerde waar: wanden en dak van de kapconstructie zijn een substantiële verliespost, en die isoleren verdient zich in ons model in circa 10 jaar terug bij binnenisolatie.
 >
 > Een dakraam met HR++-glas (U-waarde 1,1 W/m²K) verliest bij -5°C buiten en +20°C binnen circa 28 W/m². Een goed geïsoleerde dakkapel met triple glas (U-waarde 0,7 W/m²K) verliest circa 18 W/m². Maar een dakkapel heeft ook wanden en een dak, die bij slechte isolatie meer verliezen kunnen veroorzaken dan het raam zelf.
 
@@ -76,7 +80,7 @@ Elk van deze routes vraagt om een andere aanpak.
 De U-waarde (warmtedoorgangscoëfficiënt) geeft aan hoeveel watt warmte per vierkante meter per graad temperatuurverschil verloren gaat. Hoe lager, hoe beter.
 
 **Referentiewaarden 2026:**
-- Eis nieuwbouw (Bouwbesluit 2026): U ≤ 1,5 W/m²K voor ramen
+- Eis nieuwbouw (Besluit bouwwerken leefomgeving, het Bbl — sinds 1-1-2024 de opvolger van het Bouwbesluit): U ≤ 1,5 W/m²K voor ramen
 - Eis energielabel A+: circa U ≤ 1,2 W/m²K
 - Beste beschikbare dakramen: U ≈ 0,55–0,75 W/m²K (triple)
 
@@ -114,9 +118,9 @@ Voor een dakraam van 0,92 m²:
 - HR++ (huidige standaard): **63 kWh/jaar verlies**
 - Triple glas: **40 kWh/jaar verlies**
 
-Vervanging van oud enkel glas naar HR++ bespaart: **138 kWh/jaar** × €0,27 = **€37/jaar**
+Vervanging van oud enkel glas naar HR++ bespaart: **138 kWh warmte per jaar** × €0,13 = **circa €18/jaar** per raam (per m²: 149 kWh, circa €19).
 
-Vervanging van HR++ naar triple bespaart: **23 kWh/jaar** × €0,27 = **€6,20/jaar**
+Vervanging van HR++ naar triple bespaart: **23 kWh warmte per jaar** × €0,13 = **circa €3/jaar** per raam.
 
 ---
 
@@ -127,8 +131,8 @@ Vervanging van HR++ naar triple bespaart: **23 kWh/jaar** × €0,27 = **€6,20
 - Materiaalkosten Velux GGL M06 HR++: circa €650 inclusief inbouwpakket
 - Arbeidskosten installateur: €200–€350
 - Totaal: **€850–€1.000**
-- Besparing per jaar: **€37**
-- Terugverdientijd: **23–27 jaar**
+- Besparing per jaar: **circa €18**
+- Terugverdientijd: **47–56 jaar**
 
 Dat is financieel niet aantrekkelijk op zichzelf. Maar: als je het dakraam toch al moet vervangen (lekkage, beschadiging, verrotting), dan is de extra investering voor HR++ ten opzichte van een goedkoper model marginaal.
 
@@ -136,8 +140,8 @@ Dat is financieel niet aantrekkelijk op zichzelf. Maar: als je het dakraam toch 
 
 - Kosten triple dakraam (Velux GGL M06 triple): circa €900–€1.100 vs €550–€700 voor HR++
 - Meerprijs triple: **€300–€400**
-- Meerwaarde ten opzichte van HR++: **€6,20/jaar**
-- Terugverdientijd van de meerprijs: **48–65 jaar**
+- Meerwaarde ten opzichte van HR++: **circa €3/jaar**
+- Terugverdientijd van de meerprijs: **100 jaar of meer**
 
 Triple glas in een dakraam is financieel bijna nooit rendabel als doel op zich. De reden voor triple glas is comfort (geen koud stralingsglas, geen condensatie) en geluidsisolatie — niet energiebesparing.
 
@@ -154,9 +158,9 @@ Een binnenrolluik met thermische laag reduceert de effectieve U-waarde significa
 - U-waardeverbetering: van 1,3 naar circa 0,85 W/m²K (35% verbetering)
 - Extra: complete verduistering, geluidsreductie
 
-Besparing voor enkel raam (0,92 m²): van 63 kWh/jaar naar circa 41 kWh/jaar = **22 kWh/jaar** × €0,27 = **€5,90/jaar**
+Besparing voor één raam (0,92 m²): van 63 kWh/jaar naar circa 41 kWh/jaar = **22 kWh warmte/jaar** × €0,13 = **circa €2,90/jaar**
 
-Terugverdientijd rolluik: €175 ÷ €5,90 = **30 jaar** — ook niet spectaculair financieel, maar het rolluik biedt ook verduistering en comfort.
+Terugverdientijd rolluik: €175 ÷ €2,90 = **circa 60 jaar**. Financieel is dit dus geen isolatiemaatregel; je koopt een rolluik voor verduistering, comfort en zonwering, met een klein energie-effect als bijkomstigheid.
 
 ### 2. Kierdichting en aansluitfolie rondom dakraam
 
@@ -191,23 +195,19 @@ Een gemiddelde dakkapel (2,5 m breed, 1 m diep, voorgevel 2,5 × 1,8 m = 4,5 m²
 
 *Berekend per jaar, bij 2.600 graaddagen, per m²*
 
-Bij een slecht geïsoleerde dakkapel is het totale jaarlijkse warmteverlies:
-- Raam: 1,5 × 11,5 × 2.600 = **44.850 kWh** … wacht, dat is verkeerd geschaald.
+**De formule, met de eenheden erbij:**
 
-Laten we opnieuw rekenen met de juiste eenheden (watt-uur per jaar):
+Q (kWh/jaar) = U (W/m²K) × A (m²) × graaddagen × 24 ÷ 1.000
 
-**Warmteverlies per jaar:**
-Q (kWh/jaar) = U (W/m²K) × A (m²) × graaddagen × 24 / 1000
+Toegepast op de wanden van deze dakkapel:
 
-Voor de wanden van de dakkapel (slechte situatie, U=3,5, A=3,0 m²):
-Q = 3,5 × 3,0 × 2600 × 24 / 1000 = **655 kWh/jaar**
+| Situatie | Berekening | Warmteverlies |
+|---|---|---|
+| Wanden zonder isolatie (U = 3,5; A = 3,0 m²) | 3,5 × 3,0 × 2.600 × 24 ÷ 1.000 | **655 kWh/jaar** |
+| Wanden met Rc 3,5 (U = 0,29; A = 3,0 m²) | 0,29 × 3,0 × 2.600 × 24 ÷ 1.000 | **54 kWh/jaar** |
+| **Besparing** | 601 kWh warmte × €0,13 | **circa €78/jaar** |
 
-Voor de wanden (goed geïsoleerd, U=0,29, A=3,0 m²):
-Q = 0,29 × 3,0 × 2600 × 24 / 1000 = **54 kWh/jaar**
-
-**Besparing door goede wandisolatie dakkapel: 601 kWh/jaar × €0,27 = €162/jaar**
-
-Dit is significant. Een goed geïsoleerde dakkapel met Rc 3,5 voor wanden en dak bespaart per stookseizoen meer dan 600 kWh alleen al via de wanden.
+Alleen al via de wanden gaat er in de slechte situatie dus meer dan 600 kWh warmte per jaar verloren — drie keer zoveel als via een compleet dakraam met enkel glas. Dat is de reden dat een dakkapel bij het isoleren vóór de dakramen komt.
 
 ---
 
@@ -221,8 +221,14 @@ Een bestaande slecht geïsoleerde dakkapel alsnog isoleren is mogelijk maar arbe
 - **Binnenisolatie** (steenwol of PIR-plaat aan de binnenkant): €800–€1.800 — goedkoper maar verlies van ca. 5–8 cm binnenruimte
 - **Ramen vervangen** (HR++ of triple): €600–€1.200 per draai-kiepraam inclusief kozijn
 
-Bij een totale isolatie-investering van €4.000 en een besparing van €162/jaar op verwarming:
-Terugverdientijd: **24 jaar** — aan de lange kant, maar je verbetert ook het wooncomfort en het energielabel.
+Wat dat betekent voor de terugverdientijd hangt volledig af van de route die je kiest en van wat je meeneemt. Twee modeluitkomsten met dezelfde warmteprijs van €0,13/kWh:
+
+| Aanpak | Besparing | Kosten | Terugverdientijd |
+|---|---|---|---|
+| Alleen de wanden, buitenisolatie | €78/jaar | €4.000 | **circa 51 jaar** |
+| Wanden **én** dakkapel-dak, binnenisolatie | €143/jaar (zie het rekenmodel onderaan) | €1.400 | **circa 10 jaar** |
+
+Het verschil tussen die twee zit niet in de fysica maar in de kostenroute en de omvang van de ingreep: binnenisolatie is een fractie van de prijs van buitenisolatie, en het dakje van de dakkapel meenemen verhoogt de besparing met bijna de helft. Wie de dakkapel toch vanbinnen openlegt, doet er goed aan beide in één keer te doen.
 
 ### Optie B: nieuwe dakkapel met hoogwaardige isolatie
 
@@ -237,7 +243,7 @@ Meerkosten voor hoogwaardige isolatie versus standaard dakkapel: **€1.500–�
 
 ## Impact op energielabel
 
-De energieprestatie van een woning wordt berekend via de NEN 7120-norm (EP2). Dakramen en dakkapellen zijn daarin onderdelen van de "schilberekening."
+De energieprestatie van een woning wordt sinds 2021 berekend volgens de **NTA 8800** (die de oude NEN 7120/EP2-methode heeft vervangen). Dakramen en dakkapellen zijn daarin onderdelen van de schilberekening.
 
 ### Dakramen en energielabel
 
@@ -251,7 +257,7 @@ Een standaard Velux HR++ dakraam (U=1,3) telt mee in de schilberekening. Vervang
 
 Slechte dakkapel-isolatie kan het energielabel actief verslechteren. Een dakkapel die net aan Bouwbesluit-eisen voldoet (Rc 3,5, ramen U 1,5) heeft een neutrale labeleffect. Een goed geïsoleerde dakkapel (Rc 5,0+, triple ramen U 0,7) kan positief bijdragen.
 
-**Praktijkadvies:** als je een dakkapel laat plaatsen, vraag de aannemer altijd om de EP2-berekening vóór en ná de dakkapel. Bij nieuwbouw en verbouwing met omgevingsvergunning is dit soms verplicht.
+**Praktijkadvies:** als je een dakkapel laat plaatsen, vraag de aannemer altijd om de NTA 8800-berekening vóór en ná de dakkapel. Bij nieuwbouw en verbouwing met omgevingsvergunning is dit soms verplicht.
 
 ---
 
@@ -259,7 +265,7 @@ Slechte dakkapel-isolatie kan het energielabel actief verslechteren. Een dakkape
 
 **ISDE 2026:** Niet van toepassing op dakramen of dakkapellen als losstaande maatregel. Wel kan dakisolatie (inclusief het isolatiemateriaal van de dakkapel) via een gecombineerde ISDE-aanvraag worden meegenomen als onderdeel van een breder verduurzamingsproject (bijv. in combinatie met warmtepompisolatiepakket).
 
-**Nationaal Warmtefonds:** Lening tegen 0% rente voor isolatie-investeringen door eigenaar-bewoners met lager inkomen. Dakraam- en dakkapelrenovatie valt hier wel degelijk onder als isolatiemaatregel.
+**Nationaal Warmtefonds:** biedt leningen voor verduurzaming aan eigenaar-bewoners, met een rentepercentage dat afhangt van het inkomen en de looptijd — voor de laagste inkomensgroepen is dat 0%. Of dakraam- of dakkapelrenovatie in jouw geval als isolatiemaatregel kwalificeert, en tegen welke rente, staat in de actuele voorwaarden op warmtefonds.nl. Wij nemen die percentages hier niet over omdat ze periodiek wijzigen.
 
 **Woonsubsidie via gemeente:** Sommige gemeenten bieden aanvullende subsidies voor schilverbeteringen. Controleer gemeentelijk subsidieloket.
 
@@ -286,33 +292,29 @@ Slechte dakkapel-isolatie kan het energielabel actief verslechteren. Een dakkape
 
 ---
 
-
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk verduurzamen →</a>
-
 ## Conclusie: het verschil tussen dakraam en dakkapel als isolatieproject
 
-Een dakraam vervangen is zelden financieel rendabel als pure isolatiemaatregel. De terugverdientijden liggen op 25–50 jaar. Kierdichten en goede aansluitfolies zijn de meest kosteneffectieve ingrepen.
+Een dakraam vervangen is zelden financieel rendabel als pure isolatiemaatregel. De terugverdientijden in ons model liggen op 47 tot 56 jaar, en bij de stap van HR++ naar triple loopt dat op tot boven de honderd jaar. Kierdichten en goede aansluitfolies zijn de kosteneffectieve ingrepen — die kosten €80 tot €200 per raam en pakken juist de luchtlekkage aan, die in de praktijk een groot deel van het verlies vormt.
 
-Een dakkapel is het omgekeerde: slecht geïsoleerde wanden en een slecht geïsoleerd dak van de kapconstructie vormen een substantieel warmteverliespost. Hier is de opbrengst van isoleren significant (€100–€250/jaar), en de terugverdientijd van een retrofit is 15–25 jaar.
+Bij een dakkapel is het omgekeerde waar: slecht geïsoleerde wanden en een slecht geïsoleerd dak van de kapconstructie vormen samen een substantiële verliespost. De opbrengst van isoleren komt in ons model op circa **€143 per jaar** (wanden én dak), en de terugverdientijd loopt van circa 10 jaar bij binnenisolatie tot 17 à 35 jaar bij buitenisolatie.
 
-Voor wie serieus aan het energielabel wil werken: begin met dakvlak-isolatie (als dat nog niet op orde is), ga daarna naar de dakkapel-wanden. Dakramen zijn het laatste onderdeel dat je aanpakt.
+Voor wie serieus aan het energielabel wil werken: begin met dakvlak-isolatie (als dat nog niet op orde is), ga daarna naar de dakkapel-wanden en het dakkapel-dak. Dakramen zijn het laatste onderdeel dat je aanpakt — en dan bij voorkeur op het moment dat ze toch vervangen moeten worden.
 
-En als je toch een nieuwe dakkapel laat plaatsen: bestel de houtnerf-HSB-variant met ingebouwde PIR-panelen en triple glas standaard. De meerprijs van €1.500 verdient zichzelf terug op de termijn en je doet het nooit meer over.
+En als je toch een nieuwe dakkapel laat plaatsen: vraag om Rc ≥ 3,5 voor wanden en dak, ramen met een U-waarde van 1,0 of lager, en een uitgewerkt luchtdichtingsdetail op de aansluiting tussen dakkapel en dakvlak. Meerkosten voor hoogwaardige isolatie liggen in de orde van €1.500 tot €3.000 op een totaalproject; of dat zich terugverdient hangt af van je warmteprijs, maar het is het moment waarop het het goedkoopst is om het goed te doen.
+
+Materiaalkeuze voor het isolatiewerk zelf staat in onze [vergelijking van dakisolatiematerialen](/posts/dakisolatie-materialen-vergelijking-2026/).
 
 ---
 
-
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan</a>
-
 ## Energielabel-verbetering in de praktijk: wat levert dit op?
 
-Als je een woning wil verkopen of een hypotheek wil oversluiten, is het energielabel commercieel relevant. Banken bieden in 2026 groenehypotheekkorting voor woningen met energielabel A of hoger — typisch 0,1–0,2% rentepunten lager.
+Als je een woning wil verkopen of een hypotheek wil oversluiten, is het energielabel commercieel relevant. Verschillende geldverstrekkers werken met een rentekorting voor woningen met een gunstig energielabel, maar de hoogte daarvan verschilt per aanbieder en per moment en is niet als algemeen percentage te geven — vraag het op bij je eigen geldverstrekker of adviseur. Wij noemen hier daarom geen rentepercentage en geen bijbehorend jaarbedrag.
 
-Bij een hypotheek van €300.000 en 0,15% rentevoordeel: **€450 besparing per jaar aan hypotheekrente**. Dat is meer dan de isolatiebesparing op de energierekening bij een dakraam of dakkapel. De commerciële waarde van een labelsprong is dus soms groter dan de directe energiebesparing.
+Wat wel vaststaat: bij een dakraam of dakkapel is het effect op de energierekening klein (zie de bedragen hierboven), terwijl een labelsprong bij verkoop of herfinanciering commercieel kan meewegen. Dat is een reden om naar het hele pakket te kijken in plaats van naar één raam.
 
 ### Wat kost een labelstap en hoeveel verbetert isolatie?
 
-Een energielabel wordt berekend via de NEN7120 EPscore. Elke maatregel draagt een fractie bij. Dakisolatie is een van de zwaarste wegende factoren.
+Een energielabel wordt berekend volgens de NTA 8800. Elke maatregel draagt een fractie bij. Dakisolatie is een van de zwaarste wegende factoren.
 
 | Maatregel | Typische bijdrage aan labelverbetering |
 |-----------|----------------------------------------|
@@ -368,9 +370,9 @@ Dakramen zijn hellend geplaatst — ideaal voor invallende zomerzon. Een dakraam
 
 - Zomerse instraling op een schuin dak: 600–900 W/m² bij direct zonlicht
 - Dagraam met HR++-glas heeft g-waarde van circa 0,6 (60% van zonnestraling passeert)
-- Dakraam 0,92 m²: 0,92 × 800 W × 0,6 = **442 W warmte per uur per dakraam**
+- Dakraam 0,92 m²: 0,92 × 800 W/m² × 0,6 = **circa 440 W warmte-instraling per dakraam**
 
-Dit is aanzienlijk. Twee dakramen geven samen bijna 900 W zomerse warmte-input — gelijk aan een elektrisch kacheltje dat aan staat.
+Dit is aanzienlijk. Twee dakramen geven bij vol zonlicht samen bijna 900 W warmte-instraling — vergelijkbaar met een elektrisch kacheltje dat aan staat. Let op de eenheid: dit is een momentaan vermogen in watt, niet een hoeveelheid energie per uur.
 
 **Oplossingen:**
 1. **Velux zonwering (integra of extern):** reduceert g-waarde van 0,6 naar 0,1 — 83% minder warmte-instraling. Kosten: €200–€500 per dakraam.
@@ -420,7 +422,7 @@ Warmteverlies wanden (slechte isolatie, U=3,5):
 
 **Stap 2: Besparing door goede isolatie**
 - Zelfde formule maar dan met U = 0,29 (Rc 3,5 m²K/W)
-- Verschil × €0,27/kWh = jaarlijkse geldbesparing
+- Verschil × €0,13/kWh warmte = jaarlijkse geldbesparing (bij een gasgestookte woning; met een warmtepomp op SCOP 4,0 reken je met circa €0,065)
 
 **Stap 3: Terugverdientijd**
 - Isolatiekosten ÷ jaarlijkse besparing = terugverdientijd in jaren
@@ -428,11 +430,11 @@ Warmteverlies wanden (slechte isolatie, U=3,5):
 Uitgewerkt rekenvoorbeeld voor een gemiddelde dakkapel van 2,5 × 1 m, wandoppervlak 3,0 m², dakoppervlak 2,5 m² (modeluitkomsten met de aannames hierboven):
 - Totaal warmteverlies slecht: 655 kWh/jaar (wanden) + 546 kWh/jaar (dak) = 1.201 kWh/jaar
 - Totaal warmteverlies goed: 55 kWh/jaar (wanden) + 45 kWh/jaar (dak) = 100 kWh/jaar
-- Besparing: 1.101 kWh/jaar × €0,27 = **€297/jaar**
+- Besparing: 1.101 kWh warmte/jaar × €0,13 = **circa €143/jaar**
 - Isolatiekosten retrofit (binnenisolatie): €1.400
-- **Terugverdientijd: 4,7 jaar**
+- **Terugverdientijd: circa 10 jaar**
 
-Dat is aanzienlijk beter dan de 30-jarige terugverdientijd van een enkel dakraam. Dakkapel-wanden isoleren loont dus wél.
+Dat is aanzienlijk gunstiger dan de bijna vijftig jaar van een dakraamvervanging. Dakkapel-wanden en -dak isoleren loont dus wél. Kies je voor buitenisolatie (€2.500–€5.000), dan loopt de terugverdientijd in hetzelfde model op naar 17 tot 35 jaar. En verwarm je met een warmtepomp in plaats van gas, dan halveert de besparing naar circa €72 per jaar en verdubbelen alle terugverdientijden — de warmteprijs is in dit soort berekeningen de gevoeligste variabele.
 
 ## Gerelateerde artikelen
 
@@ -445,3 +447,5 @@ Dat is aanzienlijk beter dan de 30-jarige terugverdientijd van een enkel dakraam
 ---
 
 **Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+
+*Over deze pagina: dit artikel bevat geen affiliate-links en wij ontvangen geen vergoeding voor de genoemde merken of maatregelen. Alle bedragen zijn modelberekeningen met de aannames bovenaan dit artikel (peildatum 21 augustus 2026) en gangbare aannemersprijzen — geen offerte.*
