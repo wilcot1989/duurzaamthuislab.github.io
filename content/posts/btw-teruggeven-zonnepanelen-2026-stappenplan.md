@@ -97,7 +97,7 @@ Reken die 21% dus mee in je terugverdientijd. Bij een batterij van € 5.500 inc
 Drie regelingen worden voortdurend door elkaar gehaald. Kort uit elkaar getrokken:
 
 - **Btw-nultarief.** Loopt via de prijs op je factuur, geen aanvraag, geen formulier. Geldt alleen voor zonnepanelen bij woningen.
-- **ISDE.** Loopt via RVO en geldt voor warmtepompen, zonneboilers en isolatiemaatregelen — **niet** voor zonnepanelen en **niet** voor thuisbatterijen. Het subsidiebedrag hangt af van het typenummer van het apparaat; zoek dat op via de apparatenlijst van RVO. Aanvragen doe je ná installatie: bij een warmtepomp binnen 24 maanden na de installatiedatum, bij isolatie binnen 12 maanden na uitvoering.
+- **ISDE.** Loopt via RVO en geldt voor warmtepompen, zonneboilers en isolatiemaatregelen — **niet** voor zonnepanelen en **niet** voor thuisbatterijen. Het subsidiebedrag hangt af van het typenummer van het apparaat; zoek dat op via de apparatenlijst van RVO. Aanvragen doe je ná installatie: binnen 24 maanden na installatie of uitvoering — die termijn geldt voor warmtepompen én isolatie (rvo.nl, gecontroleerd 21 augustus 2026).
 - **Saldering.** Loopt via je energieleverancier, geen aanvraag. Deze regeling **stopt volledig per 1 januari 2027**; er is geen afbouwpad — het wetsvoorstel daarvoor is verworpen.
 
 Deze drie sluiten elkaar niet uit. Je kunt panelen tegen 0% btw kopen, ISDE aanvragen voor een warmtepomp en tot eind 2026 salderen.

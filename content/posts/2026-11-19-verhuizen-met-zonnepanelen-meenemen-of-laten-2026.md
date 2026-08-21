@@ -13,7 +13,7 @@ keywords:
 author: Team DuurzaamThuisLab
 affiliate: false
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1503594384566-461fe158e797&w=1200&output=webp&q=70
-category: "Zonnepanelen"
+categories: [zonnepanelen]
 tags:
   - zonnepanelen
   - verhuizen
