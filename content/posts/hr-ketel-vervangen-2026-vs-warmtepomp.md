@@ -33,7 +33,7 @@ faq:
 - q: 'Moet ik mijn bestaande ketel weggooien als ik een hybride warmtepomp kies?'
   a: 'Nee. Bij een hybride opstelling blijft de cv-ketel juist staan als back-up voor koude dagen en voor warm tapwater. Alleen bij een full-electric systeem verdwijnt de ketel.'
 - q: 'Hoeveel extra stroom verbruikt een hybride warmtepomp?'
-  a: 'Dat schaalt mee met de warmtevraag die de warmtepomp overneemt en met de gemiddelde COP. In de modelberekening in dit artikel komt een tussenwoning met 1.800 m³ gas uit op ruim 1.500 kWh extra stroom per jaar. Reken het na met je eigen jaarverbruik in plaats van met een vuistregel.'
+  a: 'Dat schaalt mee met de warmtevraag die de warmtepomp overneemt en met de gemiddelde COP. In de modelberekening in dit artikel komt een tussenwoning met 1.800 m³ gas, een overnamepercentage van 60% en een COP van 3,5 uit op circa 2.560 kWh extra stroom per jaar. Reken het na met je eigen jaarverbruik in plaats van met een vuistregel.'
 - q: 'Wat als de ketel kapot gaat terwijl ik de hybride warmtepomp gebruik?'
   a: 'Dan verwarmt de warmtepomp door zolang het niet te koud is. Je zit dus niet meteen zonder verwarming, en de reparatie van de ketel is minder urgent dan in een woning zonder warmtepomp. Het warm tapwater komt bij de meeste hybride opstellingen wél van de ketel — dat merk je dus wel.'
 products:
@@ -97,21 +97,24 @@ Onderstaand een **modelberekening met expliciete aannames**, geen meting en geen
 
 **Aannames:**
 
-- Gasprijs € 1,05 per m³ inclusief energiebelasting en btw
-- Stroomprijs € 0,23 per kWh
+- Gasprijs € 1,10 per m³ all-in, inclusief energiebelasting en btw
+- Stroomprijs € 0,26 per kWh all-in
+- Verbrandingswaarde aardgas 9,77 kWh per m³, ketelrendement 0,85
 - De hybride warmtepomp neemt 60% van de warmtevraag over
 - Gemiddelde COP over het stookseizoen: 3,5
+
+**De tussenstap die de tabel verklaart:** 60% van 1.800 m³ is 1.080 m³ gas dat wegvalt. Die kubieke meters staan voor 1.080 × 9,77 × 0,85 = circa 8.970 kWh warmte. Bij COP 3,5 kost dezelfde warmte 8.970 ÷ 3,5 = circa 2.560 kWh stroom.
 
 **Uitkomst:**
 
 | Post | Bedrag |
 |---|---|
-| Gas vóór installatie (1.800 m³ × € 1,05) | € 1.890 |
-| Gas ná installatie (720 m³ × € 1,05) | € 756 |
-| Extra elektra warmtepomp (circa 1.550 kWh × € 0,23) | € 357 |
-| **Netto besparing per jaar** | **€ 777** |
+| Gas vóór installatie (1.800 m³ × € 1,10) | € 1.980 |
+| Gas ná installatie (720 m³ × € 1,10) | € 792 |
+| Extra elektra warmtepomp (circa 2.560 kWh × € 0,26) | € 666 |
+| **Netto besparing per jaar** | **€ 522** |
 
-Wat dit betekent voor de beslissing: niet de totale prijs van de warmtepomp bepaalt of het uit kan, maar de **meerprijs ten opzichte van de nieuwe ketel die je toch al zou kopen**, verminderd met de ISDE. Ligt die meerprijs na subsidie rond de € 1.500, dan is die in ongeveer twee jaar terugverdiend. Ligt hij op € 4.000, dan praat je over ruim vijf jaar. Vul in de offertes je eigen twee bedragen in en trek de ISDE-schatting uit de rekentool van RVO ervan af.
+Wat dit betekent voor de beslissing: niet de totale prijs van de warmtepomp bepaalt of het uit kan, maar de **meerprijs ten opzichte van de nieuwe ketel die je toch al zou kopen**, verminderd met de ISDE. Ligt die meerprijs na subsidie rond de € 1.500, dan is die in ongeveer drie jaar terugverdiend. Ligt hij op € 4.000, dan praat je over bijna acht jaar. Vul in de offertes je eigen twee bedragen in en trek de ISDE-schatting uit de rekentool van RVO ervan af.
 
 Reken de aannames na met je eigen jaarafrekening. Een lagere gasprijs, een hoger bivalentpunt of een slechter geïsoleerde woning schuift de uitkomst zichtbaar op.
 
@@ -132,15 +135,19 @@ De belangrijkste procedurepunten:
 
 ## De aanbieders die je in offertes tegenkomt
 
-### [Quatt](https://go.duurzaamthuislab.nl/quatt)
+### Quatt
 
 Quatt is een Nederlandse aanbieder die het apparaat, de installatie en de service als één pakket levert, met een eigen regelaar die per moment kiest tussen warmtepomp en ketel. Quatt publiceert op de eigen site geen consumentenprijs of maandbedrag meer; de prijs komt uit de configurator (gecontroleerd 21 augustus 2026). Wij noemen daarom geen bedrag.
 
 Waar je bij dit model op moet letten: de looptijd van de overeenkomst, wat er gebeurt bij verhuizing, en of het genoemde bedrag alleen het apparaat dekt of ook onderhoud en storingsafhandeling. Laat dat schriftelijk bevestigen voordat je tekent.
 
-### [ATAG](https://go.duurzaamthuislab.nl/atag)
+<a href="https://go.duurzaamthuislab.nl/quatt" class="cta" target="_blank" rel="nofollow noopener">Bekijk Quatt</a>
+
+### ATAG
 
 ATAG is een in Nederland bekend merk voor cv-ketels en levert daarnaast warmtepompen via een dealernetwerk, met een klassiek aankoopmodel: je koopt het toestel en vraagt zelf de ISDE aan. De prestatiecijfers per model staan in de datasheets van ATAG zelf; wij nemen ze hier niet over zonder die bron erbij, omdat SCOP-waarden per typenummer en per meetconditie verschillen.
+
+<a href="https://go.duurzaamthuislab.nl/atag" class="cta" target="_blank" rel="nofollow noopener">Bekijk ATAG</a>
 
 ### Intergas, Remeha, Vaillant en Bosch
 
@@ -216,7 +223,7 @@ De veelgemaakte fout is niet het kiezen van het verkeerde merk, maar het niet ve
 
 ---
 
-*Laatst bijgewerkt: 21 augustus 2026. ISDE-voorwaarden gecontroleerd op rvo.nl; EPBD-termijnen op de publicaties van Volkshuisvesting Nederland; Quatt-prijsinformatie op quatt.io — alle op 21 augustus 2026.*
+*Laatst bijgewerkt: 21 augustus 2026. ISDE-voorwaarden gecontroleerd op rvo.nl; EPBD-termijnen op de publicaties van Volkshuisvesting Nederland; op quatt.io vastgesteld dat Quatt geen consumentenprijs publiceert — alle op 21 augustus 2026.*
 
 ---
 

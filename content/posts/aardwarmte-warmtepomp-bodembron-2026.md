@@ -29,7 +29,7 @@ faq:
 - q: 'Wat is het verschil tussen een bodembron en een lucht-water warmtepomp?'
   a: 'Een lucht-water warmtepomp haalt warmte uit buitenlucht; een bodembron-warmtepomp haalt warmte uit de bodem. De bodemtemperatuur is het hele jaar vrijwel stabiel (circa 10-12°C in Nederland), terwijl buitenlucht in de winter koud is — precies wanneer de warmtevraag piekt. Daardoor ligt de seizoensprestatie van een bodembron hoger en stabieler, en is er geen buitenunit die geluid maakt.'
 - q: 'Hoeveel kost een bodembron-warmtepomp in 2026?'
-  a: 'Een complete bodembron-installatie — boren of graven, bronleidingen, warmtepomp, montage — ligt in Nederlandse offertes doorgaans tussen €18.000 en €35.000, afhankelijk van het brontype, de bodem en het aantal boringen. Een lucht-water installatie ligt op €8.000 tot €14.000. Beide bedragen zijn richtprijzen uit de markt en geen fabrikantsprijs; vraag altijd meerdere offertes op.'
+  a: 'Dat hangt vooral af van het brontype. Een complete installatie met verticale boringen ligt in Nederlandse offertes doorgaans tussen €11.000 en €31.000, afhankelijk van de bodem en het aantal boringen; een open bodembron tussen €15.000 en €25.000, en een horizontale lus — alleen mogelijk bij een groot perceel — tussen €8.000 en €15.000. Een lucht-water installatie ligt op €8.000 tot €14.000. Beide bedragen zijn richtprijzen uit de markt en geen fabrikantsprijs; vraag altijd meerdere offertes op.'
 - q: 'Hoe diep moet een bodembron worden geboord?'
   a: 'In Nederland komen drie vormen voor: een open bodembron met grondwateronttrekking, verticale gesloten bodemlussen in boringen van globaal 50 tot 150 meter, en horizontale gesloten lussen op 1 tot 2 meter diepte. Welke variant kan, hangt af van je grondtype, het beschikbare oppervlak en het lokale bodembeleid. Laat dat vaststellen vóór je een offerte tekent.'
 - q: 'Heb ik een vergunning nodig voor een bodembron?'
@@ -37,7 +37,7 @@ faq:
 - q: 'Wat is de SCOP van een bodembronwarmtepomp versus lucht-water?'
   a: 'Fabrikanten geven voor bodemgebonden warmtepompen doorgaans hogere seizoensprestaties op dan voor lucht-water modellen, en het verschil is het grootst in koude perioden — de bodem blijft immers op temperatuur terwijl buitenlucht afkoelt. Vergelijk SCOP-waarden alleen bij dezelfde aanvoertemperatuur en hetzelfde testpunt; anders vergelijk je twee verschillende metingen.'
 - q: 'Is er subsidie voor een bodembronwarmtepomp?'
-  a: 'Ja, de ISDE van RVO geldt ook voor water-water en bodemgebonden warmtepompen. Het bedrag hangt af van het exacte apparaat en staat per model in de ISDE-apparatenlijst; RVO noemt een minimum van €500 per (hybride) warmtepomp. Belangrijk: je vraagt de ISDE aan ná installatie, binnen 24 maanden. Wij noemen geen bedragen per merk of model — reken met de ISDE-rekentool van RVO.'
+  a: 'Ja, de ISDE van RVO geldt ook voor water-water en bodemgebonden warmtepompen. Het bedrag hangt af van het exacte apparaat en staat per typenummer in de ISDE-apparatenlijst. Wij noemen bewust geen bedragen, ook geen minimum, omdat de RVO-pagina''s daarover onderling niet eenduidig zijn — zoek het bedrag op met de rekentool en het typenummer uit je offerte. Belangrijk: je vraagt de ISDE aan ná installatie, binnen 24 maanden. Wij noemen geen bedragen per merk of model — reken met de ISDE-rekentool van RVO.'
 - q: 'Hoe groot moet mijn tuin zijn voor een horizontale bodembron?'
   a: 'Een horizontale bodemlus vraagt een veelvoud van het te verwarmen vloeroppervlak aan vrij, onbebouwd en onbeschaduwd tuinoppervlak — in de praktijk al snel enkele honderden vierkante meters voor een gemiddelde woning. Bij een rijtjeshuis of appartement is dat er zelden. Dan blijft een verticale boring of een lucht-water warmtepomp over.'
 - q: 'Maakt een bodembronwarmtepomp ook geluid?'
@@ -95,11 +95,11 @@ Het praktische gevolg: bij een milde Nederlandse winter is het verschil in jaarl
 
 | Kostenpost | Bodembron (verticaal) | Lucht-water |
 |---|---|---|
-| Warmtepomp-unit | €6.000 – €9.000 | €5.000 – €8.000 |
-| Boren of grondwerk | €8.000 – €18.000 | €0 |
-| Complete installatie | €18.000 – €35.000 | €8.000 – €14.000 |
+| Warmtepomp en montage | €7.000 – €10.000 | €5.000 – €8.000 |
+| Boren of grondwerk (1-3 boringen) | €4.000 – €21.000 | €0 |
+| **Complete installatie (som)** | **€11.000 – €31.000** | **€8.000 – €14.000** |
 
-Het verschil vóór subsidie ligt daarmee ergens tussen de €10.000 en €20.000. Beide typen komen in aanmerking voor ISDE, dus de subsidie verkleint het verschil maar heft het niet op — zie de subsidieparagraaf verderop.
+De onderste regel is de som van de twee erboven, en geldt voor verticale boringen — het type dat bij woningen het meest wordt toegepast. Het verschil met lucht-water ligt bij één boring rond de €5.000 en bij twee of drie boringen boven de €15.000. Beide typen komen in aanmerking voor ISDE, dus de subsidie verkleint het verschil maar heft het niet op — zie de subsidieparagraaf verderop.
 
 ### Terugverdientijd van de meerinvestering
 
@@ -151,9 +151,9 @@ Het meest toegepaste type voor woningen zonder groot perceel.
 
 - Kosten per boring van circa 100 meter, inclusief leidingwerk: **€4.000 – €7.000**
 - Aantal boringen: afhankelijk van de warmtevraag. Een kleine, goed geïsoleerde tussenwoning komt vaak met één boring toe; een vrijstaande woning met een hoge warmtevraag vraagt er twee tot drie.
-- Totale boorkosten: **€6.000 – €20.000**
+- Totale boorkosten bij één tot drie boringen: **€4.000 – €21.000**
 - Warmtepomp en montage: **€7.000 – €10.000**
-- **Totaal: €18.000 – €30.000**
+- **Totaal (som van de twee posten hierboven): €11.000 – €31.000**
 
 ### Open bodembron (grondwater)
 
@@ -167,7 +167,7 @@ Alleen mogelijk bij geschikt en bereikbaar grondwater.
 
 Alleen bij een groot, vrij perceel.
 
-- Kosten inclusief graafwerk en warmtepomp: **€8.000 – €15.000**
+- Kosten inclusief graafwerk en warmtepomp: **€8.000 – €15.000** — daarmee valt dit type aan de onderkant van de bandbreedte voor verticale boringen, omdat graafwerk aanzienlijk goedkoper is dan boren
 - Nadeel: presteert minder consistent dan verticale boringen. In een strenge winter zakt de bodemtemperatuur op één tot twee meter diepte weg, precies wanneer de warmtevraag piekt.
 
 ---
@@ -177,8 +177,8 @@ Alleen bij een groot, vrij perceel.
 De ISDE van RVO geldt ook voor water-water en bodemgebonden warmtepompen. Drie dingen die in offertes en op vergelijkingssites regelmatig verkeerd staan:
 
 - **Je vraagt de ISDE aan ná installatie, niet ervoor.** RVO schrijft expliciet: eerst laten installeren, daarna aanvragen, binnen 24 maanden na de installatiedatum. Wie wacht op een toekenning voordat de monteur komt, wacht op iets wat niet bestaat.
-- **Het bedrag hangt af van het exacte apparaat.** Elk toestel staat met een eigen bedrag op de ISDE-apparatenlijst; RVO noemt een minimum van €500 per (hybride) warmtepomp. Wij noemen daarom geen bedragen per merk of model — gebruik de ISDE-rekentool van RVO met het typenummer uit je offerte.
-- **De woning moet aan de bouwjaareis voldoen.** RVO stelt als voorwaarde dat het gebouw van vóór 1 januari 2019 is, of dat de omgevingsvergunning vóór 1 juli 2018 is aangevraagd.
+- **Het bedrag hangt af van het exacte apparaat.** Elk toestel staat met een eigen bedrag op de ISDE-apparatenlijst. Wij noemen daarom geen bedragen per merk of model, en ook geen minimumbedrag — gebruik de ISDE-rekentool van RVO met het typenummer uit je offerte.
+- **Er gelden eisen aan het gebouw.** De ISDE stelt voorwaarden aan het type gebouw en het bouwjaar, en die worden per subsidiejaar vastgesteld. Wij nemen ze hier niet als jaartal over; controleer ze in de actuele voorwaarden op rvo.nl vóór je ondertekent.
 
 Let ook op het btw-tarief: het 0%-tarief geldt alleen voor zonnepanelen en de daarvoor direct noodzakelijke onderdelen. Op een warmtepomp — lucht-water of bodemgebonden — betaal je 21% btw. Offertes waarin dat anders staat, kloppen niet.
 
@@ -301,7 +301,7 @@ Voor woningen in een gebied met concrete warmtenetplannen kan afwachten verstand
 
 ## Conclusie: neem de tijd voor deze beslissing
 
-Een bodembron-warmtepomp is een investering van €18.000 tot €35.000 die twintig tot dertig jaar meegaat. Dat is geen beslissing op basis van één offerte.
+Een bodembron-warmtepomp is een investering van €8.000 tot €31.000, afhankelijk van het brontype, die twintig tot dertig jaar meegaat. Dat is geen beslissing op basis van één offerte.
 
 Wie er serieus over nadenkt, doorloopt in onze ogen deze volgorde: eerst de bodemopbouw van het perceel in beeld brengen, dan drie offertes bij gespecialiseerde bodembron-installateurs opvragen, dan de terugverdientijd narekenen met je eigen warmtevraag en tarieven in plaats van met voorbeeldgetallen, dan het vergunningregime bij de gemeente controleren, en pas daarna tekenen.
 

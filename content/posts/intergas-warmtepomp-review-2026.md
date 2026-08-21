@@ -43,7 +43,7 @@ faq:
   a: 'Nee. De aangekondigde verplichting om bij vervanging van een cv-ketel een hybride warmtepomp te plaatsen is ingetrokken — niet uitgesteld. Je mag dus een gewone HR-ketel plaatsen. Dat maakt de afweging puur financieel en praktisch: wat kost het, wat levert het op, en past het bij je afgiftesysteem.'
 schema_type: Review
 ---
-"Mijn cv-ketel is op zijn eind en de installateur biedt een complete Intergas-installatie aan: nieuwe ketel én warmtepomp samen. Is Intergas wel goed?" Het is een van de meest gestelde vragen over dit merk, en logisch ook: Intergas is groot in cv-ketels, maar de warmtepompen zijn van veel recentere datum.
+De situatie waarin dit merk meestal in beeld komt: de cv-ketel is op zijn eind en de installateur biedt een complete Intergas-installatie aan, nieuwe ketel én warmtepomp samen. De vraag die daarbij hoort, is of de warmtepompen van Intergas net zo degelijk zijn als de ketels. Dat is een terechte vraag, want Intergas is groot in cv-ketels terwijl de warmtepompen van veel recentere datum zijn.
 
 Deze review is opgezet vanuit één principe: wij nemen alleen over wat Intergas zelf publiceert, met de datum waarop wij het hebben opgehaald. Dat levert een kortere review op dan je elders vindt — en dat is precies het punt. Over dit toestel circuleren online specificaties, SCOP-waarden en zelfs modelnamen die niet op de site van de fabrikant terug te vinden zijn.
 

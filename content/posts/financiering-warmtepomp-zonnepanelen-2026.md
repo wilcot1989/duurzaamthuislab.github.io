@@ -10,7 +10,7 @@ tags:
 - financiering
 - verduurzamen
 - duurzaam wonen
-- financiering
+- energiebespaarlening
 keywords:
 - financiering warmtepomp
 - financiering zonnepanelen
@@ -27,7 +27,7 @@ faq:
 - q: Wat is de rente van de Energiebespaarlening?
   a: 'Het Warmtefonds publiceert de effectieve jaarrente per looptijd. In de tabel van 13 augustus 2026 stond: 7 jaar 4,02 procent, 10 jaar 4,04 procent, 15 jaar 4,44 procent en 20 jaar 4,52 procent, vast voor de hele looptijd. Ligt het bruto huishoudinkomen onder € 60.000 per jaar, dan is de rente 0 procent. Deze tarieven wijzigen; kijk ze na op warmtefonds.nl voordat je rekent.'
 - q: Wat is het verschil met extra hypotheek opnemen?
-  a: 'Een hypotheekverhoging heeft doorgaans een lagere rente en de rente kan aftrekbaar zijn als het geld aantoonbaar in de eigen woning gaat zitten, maar er komen notaris- en afsluitkosten bij en de looptijd is veel langer. Een Energiebespaarlening is consumptief krediet: geen notaris, geen renteaftrek, kortere looptijd en daardoor minder rente in totaal. Voor kleinere bedragen wint de korte looptijd het vaak van het lagere rentepercentage.'
+  a: 'Een hypotheekverhoging heeft doorgaans een lagere rente en de rente kan aftrekbaar zijn als het geld aantoonbaar in de eigen woning gaat zitten, maar er komen notaris- en afsluitkosten bij en de looptijd is veel langer. Een Energiebespaarlening loopt buiten de hypotheek om: geen notaris, kortere looptijd en daardoor minder rente in totaal. Of de rente aftrekbaar is, ligt niet vast aan de leenvorm maar aan de vraag of de lening fiscaal als eigenwoningschuld kwalificeert — dat kan ook bij een lening zonder hypothecaire inschrijving, mits je aan de voorwaarden voldoet en de lening op de juiste manier bij de Belastingdienst opgeeft. Ga daar niet van uit en ga het niet uit de weg: check het bij de Belastingdienst of bij je adviseur vóór je afsluit. Voor kleinere bedragen wint de korte looptijd het vaak van het lagere rentepercentage.'
 - q: Kan ik lenen én ISDE-subsidie krijgen?
   a: 'Ja, die zijn stapelbaar. Let op de volgorde: de ISDE vraag je aan ná installatie, binnen 24 maanden na de uitvoering. Je schiet de investering dus eerst voor en gebruikt de subsidie daarna om af te lossen. Bij twee of meer maatregelen binnen 24 maanden verdubbelt het ISDE-bedrag (rvo.nl, gecontroleerd 21 augustus 2026).'
 - q: Mag ik al beginnen voordat de financiering rond is?
@@ -92,7 +92,7 @@ Deze route is dus vooral logisch als je **toch al** naar de hypotheek gaat: bij 
 
 ## Route 4: persoonlijke lening en overige kredieten
 
-Een persoonlijke lening is snel, vraagt geen onderpand en heeft geen notaris nodig. Daar staat een duidelijk hoger rentepercentage tegenover en geen renteaftrek. Als route is die vooral verdedigbaar bij urgentie — een kapotte ketel in november — en dan bij voorkeur als tijdelijke oplossing die je later herfinanciert.
+Een persoonlijke lening is snel, vraagt geen onderpand en heeft geen notaris nodig. Daar staat een duidelijk hoger rentepercentage tegenover, en of de rente aftrekbaar is hangt af van de vraag of de lening als eigenwoningschuld kwalificeert — check dat bij de Belastingdienst voordat je ervan uitgaat. Als route is die vooral verdedigbaar bij urgentie — een kapotte ketel in november — en dan bij voorkeur als tijdelijke oplossing die je later herfinanciert.
 
 Wat we hier níet doen is een percentage noemen alsof het een markttarief is: dat verschilt per aanbieder, bedrag en looptijd. Vraag een concreet aanbod op en vergelijk het op **totale kosten**, niet op maandlast.
 
@@ -102,7 +102,7 @@ Wil je de investering helemaal niet zelf doen, dan bestaat er voor zonnepanelen 
 
 ## De routes naast elkaar over 10 jaar
 
-Onderstaande vergelijking is een **modelberekening**, geen aanbod. Uitgangspunt: € 14.000 aan investering (hybride warmtepomp plus acht panelen), tien jaar, annuïtair aflossen, geen tussentijdse extra aflossing.
+Onderstaande vergelijking is een **modelberekening**, geen aanbod. Uitgangspunt: € 14.000 aan investering (hybride warmtepomp plus tien panelen), tien jaar, annuïtair aflossen, geen tussentijdse extra aflossing.
 
 | Route | Rente-aanname | Totale rentekosten over 10 jaar |
 |---|---|---|
@@ -118,7 +118,7 @@ Wat het model laat zien is niet welke aanbieder wint, maar dat de sprong van 0 p
 
 ## Rekenvoorbeeld: blijft de maandlast onder de besparing?
 
-Ook dit is een modelberekening met expliciete aannames, geen praktijkgeval. Rijtjeswoning met label C en een kapotte cv-ketel; plan is een hybride warmtepomp plus tien panelen voor € 11.200 in totaal.
+Ook dit is een modelberekening met expliciete aannames, geen praktijkgeval. Rijtjeswoning met label C en een kapotte cv-ketel; plan is een hybride warmtepomp plus acht panelen voor € 11.200 in totaal.
 
 - Eigen middelen: € 4.000
 - Restbedrag via Energiebespaarlening: € 7.200, looptijd 8 jaar (in de praktijk kies je 7 of 10 jaar)

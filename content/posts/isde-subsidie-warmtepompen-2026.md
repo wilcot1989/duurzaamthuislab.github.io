@@ -93,7 +93,7 @@ Voorwaarden:
 ### Stap 2: Kies een gecertificeerd installateur
 
 - Vraag minimaal 3 offertes aan
-- Controleer of de installateur gecertificeerd is (bijv. STEK voor warmtepompen)
+- Controleer het F-gassencertificaat van bedrijf én monteur (verplicht bij werk aan het koudemiddelcircuit)
 - Vraag expliciet of het gekozen product op de RVO-apparatenlijst staat
 - Laat de installatie uitvoeren en bewaar alle documenten
 
@@ -103,8 +103,10 @@ Na de installatie heb je nodig:
 - **Factuur** van de installateur (met specificatie van product, type en hoeveelheid)
 - **Bewijs van betaling** (bankafschrift met overboeking)
 - **Productspecificaties** (merk, type, serienummer)
-- **Foto's** van de uitgevoerde werkzaamheden (voor isolatie)
+- **Foto's** van de uitgevoerde werkzaamheden (voor isolatie), en voor een warmtepomp een foto waarop het serienummerlabel op de buitenunit leesbaar is
 - **DigiD of eHerkenning** voor het inloggen op mijn.rvo.nl
+
+Twee dingen die hier misgaan. Controleer het typenummer op de **factuur** nog één keer tegen de apparatenlijst: wijkt het af van de offerte, meld dat direct bij de installateur. En let op een naamsverschil — staat de factuur op een andere naam dan de aanvrager, dan volgt een verzoek tot aanvulling. Een kadastraal uittreksel hoort er niet standaard bij; de exacte documentenlijst staat in de aanvraagtoelichting op rvo.nl en die is leidend.
 
 ### Stap 4: Dien de aanvraag in
 
@@ -119,7 +121,7 @@ Na de installatie heb je nodig:
 
 - RVO beoordeelt je aanvraag binnen de beslistermijn die op rvo.nl staat
 - Bij goedkeuring volgt de uitbetaling kort na de beschikking
-- Bij ontbrekende documenten krijg je een verzoek tot aanvulling
+- Bij ontbrekende documenten krijg je een verzoek tot aanvulling; reageer daar direct op, want elke dag vertraging in je antwoord schuift de uitbetaling op
 
 **Deadline:** je dient in **binnen 24 maanden** na de installatie of uitvoering — dezelfde termijn voor warmtepomp en isolatie. En let op de volgorde: eerst installeren, dán aanvragen — een aanvraag vóór de installatie wordt afgewezen.
 
@@ -143,9 +145,9 @@ Wat er wél is: binnen de ISDE zelf wordt het subsidiebedrag **verdubbeld** wann
 
 Het Nationaal Warmtefonds verstrekt leningen voor verduurzaming, met een rente die afhangt van het huishoudinkomen. Dat is geen subsidie, maar het is wel te combineren met de ISDE. Het maximale leenbedrag, de actuele rentetabel en de looptijden staan op [warmtefonds.nl](https://www.warmtefonds.nl/) — die percentages wijzigen, dus lees ze daar en niet hier.
 
-### ISDE + Energiebelasting teruggave
+### Minder gas betekent ook minder energiebelasting
 
-Als je een warmtepomp installeert en hierdoor minder gas verbruikt, bespaar je ook op energiebelasting. Dit is geen subsidie maar een extra financieel voordeel dat meeweegt in de terugverdientijd.
+Er bestaat géén teruggaveregeling voor energiebelasting bij een warmtepomp. Wat wél gebeurt: je verbruikt minder gas, en over dat gas betaal je dus ook geen energiebelasting meer. In 2026 is die belasting €0,60066 per m³ exclusief btw, ofwel €0,7268 inclusief btw — het grootste deel van de gasprijs. Dat voordeel zit al in de gasbesparing in je terugverdienberekening; tel het er niet nog een keer bovenop.
 
 ## Tips voor maximale subsidie
 
@@ -206,21 +208,6 @@ Veel sites publiceren tabellen met "ISDE 2026 per merk en model". Wij doen dat n
 
 Het alternatief kost je vijf minuten: typenummer opvragen bij de installateur, invoeren op [rvo.nl/isde](https://www.rvo.nl/subsidies-financiering/isde), bedrag aflezen, en dat bedrag schriftelijk in je eigen berekening zetten. Zet het typenummer ook in de opdrachtbevestiging, zodat een wijziging op de factuur direct opvalt.
 
-## De aanvraag stap voor stap — en waar het blijft hangen
-
-**Direct na installatie:** de installateur stelt de warmtepomp in dienst en levert de factuur. Controleer het typenummer op de factuur nog één keer tegen de RVO-apparatenlijst; wijkt het af van de offerte, meld dat direct.
-
-**Documenten verzamelen.** Je hebt nodig:
-- de factuur met typenummer en serienummer;
-- een betaalbewijs (bankafschrift of screenshot van de betaling);
-- een foto van de buitenunit waarop het serienummerlabel leesbaar is.
-
-Een kadastraal uittreksel hoort daar níet bij: RVO ziet via DigiD en de BAG-registratie al of jij op het adres staat ingeschreven en vraagt het uittreksel niet standaard op. Wat wél knelt, is een naamsverschil: staat de factuur op een andere naam dan de aanvrager, dan volgt een verzoek tot aanvulling. Controleer dat vóór het indienen. De exacte documentenlijst staat in de aanvraagtoelichting op rvo.nl — die is leidend.
-
-**De aanvraag zelf** doe je op mijn.rvo.nl met DigiD (of eHerkenning). Het formulier is in een half uur gedaan als je alle documenten klaar hebt liggen. Je ontvangt direct een bevestigingsmail.
-
-**Daarna wachten.** Op de goedkeuringsbeschikking wacht je in de praktijk enkele maanden; RVO betaalt binnen een paar werkdagen na de beschikking uit. Reageer direct als RVO om aanvullende informatie vraagt — elke dag vertraging in je antwoord schuift de uitbetaling op.
-
 ## Budgetplafond ISDE: wat je erover kunt weten
 
 De ISDE heeft een jaarbudget dat het kabinet vaststelt, en aanvragen worden behandeld op volgorde van binnenkomst. Als het budget in een jaar wordt overschreden, worden latere aanvragen aangehouden of afgewezen. Het bedrag dat voor dit jaar geldt, en de stand van de uitputting, publiceert RVO zelf op [rvo.nl/isde](https://www.rvo.nl/subsidies-financiering/isde) — dat is de enige plek waar dat cijfer actueel is, en daarom noemen wij hier geen bedrag.
@@ -243,7 +230,7 @@ Een cijfervoorbeeld zou hier een subsidiebedrag moeten aannemen dat wij niet ken
 
 ## Nationaal Warmtefonds: lenen voor verduurzaming
 
-Niet iedereen heeft het bedrag voor een warmtepomp vrij liggen. Het Nationaal Warmtefonds verstrekt daarvoor leningen voor verduurzaming, met een rente die afhangt van het huishoudinkomen; voor de laagste inkomensgroepen is die rente 0%. Het maximale leenbedrag, de rentetabel, de looptijden en de voorwaarden bij verkoop van de woning staan op [warmtefonds.nl](https://www.warmtefonds.nl/). Die cijfers wijzigen periodiek, dus lees ze daar en niet in een artikel.
+Niet iedereen heeft het bedrag voor een warmtepomp vrij liggen. Het Nationaal Warmtefonds verstrekt daarvoor leningen voor verduurzaming, met een rente die afhangt van het huishoudinkomen; voor de laagste inkomensgroepen kan die 0 procent zijn. De actuele percentages met peildatum staan in ons overzicht [financiering warmtepomp en zonnepanelen](/posts/financiering-warmtepomp-zonnepanelen-2026/), maar warmtefonds.nl is de bron die telt. Het maximale leenbedrag, de rentetabel, de looptijden en de voorwaarden bij verkoop van de woning staan op [warmtefonds.nl](https://www.warmtefonds.nl/). Die cijfers wijzigen periodiek, dus lees ze daar en niet in een artikel.
 
 Waar je zelf op moet rekenen: de maandlast van de lening tegenover de maandelijkse besparing. Valt de maandlast hoger uit dan de besparing, dan is de lening nog steeds verdedigbaar (je woning wordt er beter van), maar dan is het geen gratis maatregel — en zo hoort een aanbieder het ook te presenteren.
 
@@ -267,7 +254,7 @@ Ja, er zijn adviesbureaus die de aanvraag tegen een vergoeding voor je doen. Dat
 
 **Wat als de warmtepomp na twee jaar kapot gaat — moet de subsidie dan terug?**
 
-Nee. De ISDE-subsidie wordt uitbetaald na installatie en is niet gebonden aan een verplichte gebruiksduur. Als de warmtepomp kapot gaat, is de subsidie al ontvangen en hoef je die niet terug te betalen. Wel verlies je het rendement van de investering — maar dat is een apart risico.
+De subsidie is dan al uitbetaald. Of RVO in zo'n geval iets kan terugvorderen, hangt af van de subsidievoorwaarden en de verplichtingen die in de beschikking staan; wij nemen daar geen stelling in en verwijzen naar de voorwaarden op rvo.nl en naar je eigen beschikking. Wat je in elk geval kwijt bent, is het rendement van de investering — en dat is het grotere risico van de twee. Vraag daarom vóór aanschaf de garantietermijnen per component op (compressor, warmtewisselaar, regeling) en laat ze in de offerte opnemen.
 
 **Een warmtepomp huren (bij Quatt of vergelijkbaar): is daar ISDE op mogelijk?**
 

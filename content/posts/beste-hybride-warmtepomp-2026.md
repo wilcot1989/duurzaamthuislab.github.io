@@ -47,7 +47,7 @@ Een hybride warmtepomp neemt bij een correct ingesteld bivalentpunt het grootste
 
 De vraag "welk merk is het beste" is daarbij minder nuttig dan hij lijkt. Wij testen zelf geen warmtepompen en publiceren daarom geen eindcijfers of ranglijsten. Wat we wél kunnen doen is de vijf merken die in Nederland het vaakst in offertes opduiken naast elkaar zetten op punten die je zelf kunt nalezen en in een offerte kunt afdwingen.
 
-*Disclosure: dit artikel bevat geen affiliate-links. Wij hebben met Remeha, Daikin, Quatt, Bosch en Vaillant geen affiliate- of commissierelatie. De productlinks zijn gewone verwijzingen naar de fabrikant.*
+*Disclosure: wij hebben met Remeha, Daikin, Quatt, Bosch en Vaillant geen affiliate- of commissierelatie (stand augustus 2026) en verdienen dus niets aan de links in dit artikel. Twee ervan lopen via ons eigen go-domein, zodat wij zien welke verwijzingen worden gebruikt; ze leiden naar de fabrikant en leveren ons geen commissie op. De derde link gaat direct naar remeha.nl.*
 
 > **Kort antwoord:** kies niet op merk maar op vier controleerbare punten. Staat het volledige typenummer op de RVO-meldcodelijst (anders geen ISDE)? Welk koudemiddel zit erin, R32 of het natuurlijke R290? Welke aanvoertemperatuur haalt het toestel, want daarmee bepaal je of je radiatoren kunnen blijven hangen? En hoe dicht zit het servicenetwerk?
 >
@@ -103,21 +103,24 @@ Onderstaand een **modelberekening met expliciete aannames**, geen meting en geen
 
 **Aannames:**
 
-- Gasprijs € 1,05 per m³ inclusief energiebelasting en btw
-- Stroomprijs € 0,23 per kWh
+- Gasprijs € 1,10 per m³ all-in, inclusief energiebelasting en btw
+- Stroomprijs € 0,26 per kWh all-in
+- Verbrandingswaarde aardgas 9,77 kWh per m³, ketelrendement 0,85
 - Gemiddelde COP over het stookseizoen: 3,7
 - De warmtepomp neemt 65% van de warmtevraag over
+
+**De tussenstap die de tabel verklaart:** het gas dat wegvalt is 65% van 1.650 = 1.072 m³. Die kubieke meters vertegenwoordigen 1.072 × 9,77 × 0,85 = circa 8.900 kWh warmte. Bij COP 3,7 kost dezelfde warmte 8.900 ÷ 3,7 = circa 2.410 kWh stroom.
 
 **Uitkomst jaar 1:**
 
 | Post | Bedrag |
 |------|--------|
-| Gas vóór installatie (1.650 m³ × € 1,05) | € 1.733 |
-| Gas ná installatie (577 m³ × € 1,05) | € 606 |
-| Extra elektra warmtepomp (1.580 kWh × € 0,23) | € 363 |
-| **Netto besparing** | **€ 764** |
+| Gas vóór installatie (1.650 m³ × € 1,10) | € 1.815 |
+| Gas ná installatie (578 m³ × € 1,10) | € 636 |
+| Extra elektra warmtepomp (2.410 kWh × € 0,26) | € 626 |
+| **Netto besparing** | **€ 553** |
 
-Wat dat aan terugverdientijd oplevert, hangt af van wat je zelf betaalt: deel je eigen investering (het offertebedrag minus het ISDE-bedrag dat bij jouw typenummer hoort) door die € 764 besparing. Per € 1.000 eigen inleg is dat in dit model ongeveer 1,3 jaar. Verander één aanname — een lagere gasprijs, een hoger bivalentpunt, een slechter geïsoleerde woning — en die uitkomst schuift op. Reken hem daarom na met je eigen jaarafrekening in plaats van dit getal over te nemen.
+Wat dat aan terugverdientijd oplevert, hangt af van wat je zelf betaalt: deel je eigen investering (het offertebedrag minus het ISDE-bedrag dat bij jouw typenummer hoort) door die € 553 besparing. Per € 1.000 eigen inleg is dat in dit model ongeveer 1,8 jaar; bij een eigen inleg van € 5.000 dus rond de negen jaar. Verander één aanname — een lagere gasprijs, een hoger bivalentpunt, een slechter geïsoleerde woning — en die uitkomst schuift op. Reken hem daarom na met je eigen jaarafrekening in plaats van dit getal over te nemen.
 
 ### Wat de besparing bepaalt
 
@@ -125,8 +128,8 @@ De variatie tussen woningen is groot, en er is vooral één variabele die die va
 
 Twee uitersten, doorgerekend met dezelfde aannames:
 
-- **Woning uit de jaren zeventig, label D, 2.300 m³ gas per jaar:** de besparing loopt op tot boven de duizend euro per jaar en de terugverdientijd komt onder de vier jaar.
-- **Woning uit 2008, label B, 900 m³ gas per jaar:** de besparing komt uit op enkele honderden euro's per jaar en de terugverdientijd loopt op naar acht à negen jaar.
+- **Woning uit de jaren zeventig, label D, 2.300 m³ gas per jaar:** gas vóór € 2.530, gas ná (805 m³) € 886, extra stroom circa 3.360 kWh = € 873. Netto besparing circa **€ 770 per jaar**, ofwel 1,3 jaar per € 1.000 eigen inleg.
+- **Woning uit 2008, label B, 900 m³ gas per jaar:** gas vóór € 990, gas ná (315 m³) € 347, extra stroom circa 1.310 kWh = € 341. Netto besparing circa **€ 300 per jaar**, ofwel 3,3 jaar per € 1.000 eigen inleg.
 
 **Vuistregel:** hoe hoger je gasverbruik, hoe korter de terugverdientijd. Onder ongeveer 1.000 m³ gas per jaar is isoleren vrijwel altijd de betere eerste stap.
 
@@ -187,14 +190,14 @@ Over de levensduur: een compressor in een warmtepomp en een moderne cv-ketel gaa
 
 De warmtepomp verbruikt overdag de meeste stroom, en dat is ook het moment waarop zonnepanelen leveren. Met een dynamisch contract kun je bovendien sturen op uren met lage prijzen.
 
-Een **modelberekening**, opnieuw met expliciete aannames: een woning met tien zonnepanelen, een warmtepompverbruik van 1.600 kWh per jaar en een stroomprijs van € 0,23 per kWh.
+Een **modelberekening**, opnieuw met expliciete aannames en met hetzelfde warmtepompverbruik als in het rekenvoorbeeld hierboven: een woning met tien zonnepanelen, een warmtepompverbruik van 2.410 kWh per jaar en een stroomprijs van € 0,26 per kWh all-in.
 
-- Via eigen opwek gedekt: 900 kWh
-- Resterend: 700 kWh × € 0,23 = € 161
-- Zonder zonnepanelen: 1.600 kWh × € 0,23 = € 368
-- Verschil: **€ 207 per jaar**
+- Via eigen opwek op het moment van verbruik gedekt: 900 kWh
+- Resterend van het net: 1.510 kWh × € 0,26 = € 393
+- Zonder zonnepanelen: 2.410 kWh × € 0,26 = € 627
+- Verschil: **€ 234 per jaar**
 
-Twee kanttekeningen die deze som beïnvloeden. De salderingsregeling stopt **volledig per 1 januari 2027**; er is geen afbouwpad. Vanaf dat moment telt zelf verbruiken op het moment van opwek zwaarder dan terugleveren, wat de combinatie warmtepomp-plus-panelen juist gunstiger maakt dan in bovenstaande som. En het 0%-btw-tarief geldt alleen voor de panelen, niet voor de warmtepomp.
+Twee kanttekeningen die deze som beïnvloeden. De salderingsregeling stopt **volledig per 1 januari 2027**; er is geen afbouwpad. Zolang je nog saldeert, is de winst van zelf verbruiken feitelijk nul: die 900 kWh had je anders tegen hetzelfde tarief teruggeleverd. Vanaf 2027 is zelf verbruiken wél waardevol, maar het verschil is dan de all-in prijs minus de terugleververgoeding die je misloopt. Bij een aangenomen terugleververgoeding van € 0,07 per kWh — een aanname, want de tarieven voor 2027 zijn nog niet gepubliceerd — is die 900 kWh 900 × (0,26 − 0,07) = **circa € 171 per jaar** waard. Dat is het bedrag om mee te rekenen, niet de € 234. En het 0%-btw-tarief geldt alleen voor de panelen, niet voor de warmtepomp.
 
 ## Conclusie
 

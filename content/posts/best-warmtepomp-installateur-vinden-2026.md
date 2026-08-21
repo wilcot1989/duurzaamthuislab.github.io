@@ -8,19 +8,20 @@ description: De installateur bepaalt het praktijkrendement van je warmtepomp. Zo
 keywords:
 - warmtepomp installateur vinden
 - RVO erkende installateur
-- sterren keurmerk warmtepomp
+- F-gassencertificaat installateur
 - offerte warmtepomp vergelijken
 - warmtepomp installatie kiezen
 - duurzaamheid certificering installateur
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1581094288338-2314dddb7ece&w=1200&output=webp&q=70
-category: warmtepomp
+categories:
+- warmtepompen
 tags:
 - warmtepomp
 - installateur
 - offerte
-- keurmerk
+- certificering
 - RVO
 products:
 - name: Tibber
@@ -39,13 +40,13 @@ faq:
 - q: 'Hoe lang duurt het van offerte tot installatie in 2026?'
   a: 'Reken buiten het hoogseizoen op enkele weken tot een paar maanden, en in de drukke periode van het najaar tot in de winter op aanzienlijk langer. Bij monumenten of complexe woningen loopt het verder op. Vraag de installateur naar zijn actuele planning en laat de installatiedatum in de offerte opnemen.'
 - q: 'Wat kost een goede warmtepomp installatie in 2026?'
-  a: 'Een hybride opstelling ligt doorgaans tussen 7.500 en 12.000 euro inclusief installatie, een volledige lucht-water warmtepomp tussen 13.000 en 22.000 euro, en een bodemwarmtepomp inclusief boring aanzienlijk hoger. Daar gaat het ISDE-bedrag vanaf dat bij het gekozen apparaat hoort; dat staat per typenummer op de apparatenlijst van RVO. Op toestel en installatie geldt 21% btw.'
+  a: 'Als indicatieve bandbreedte: een hybride opstelling circa 8.400 tot 14.600 euro inclusief installatie, een volledige lucht-water warmtepomp circa 13.800 tot 22.800 euro, en een bodemwarmtepomp inclusief boring circa 24.400 tot 39.600 euro. Dat zijn marktindicaties, geen prijsopgave. Daar gaat het ISDE-bedrag vanaf dat bij het gekozen apparaat hoort; dat staat per typenummer op de apparatenlijst van RVO. Op toestel en installatie geldt 21% btw.'
 - q: 'Wat zijn de meest voorkomende valkuilen in een offerte?'
   a: 'Ten eerste een te kleine warmtepomp, waardoor de offerte goedkoper oogt maar de cv-ketel permanent moet bijspringen. Ten tweede een offerte zonder warmteverliesberekening, waardoor het vermogen op gevoel is gekozen. Ten derde ontbrekende posten: elektra, radiatoren, buffervat en de inregeling. Vraag een specificatie per regel.'
 ---
 *Disclosure: de links naar ATAG, Frank Energie en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij schrijven alleen over producten en diensten die wij grondig hebben onderzocht.*
 
-Een veelvoorkomend scenario: drie offertes voor dezelfde warmtepomp, van 11.400 tot 18.800 euro. De laagste lijkt de logische keuze, tot blijkt dat de pomp onderdimensioneerd is, constant op vol vermogen draait en de cv-ketel permanent moet bijspringen. Herstel kost dan duizenden euro's, en een schadeclaim strandt meestal op de vraag wie welke berekening had moeten maken. Het verschil tussen een goede en een slechte installateur is daarmee groter dan het verschil tussen merken warmtepomp.
+Een veelvoorkomend scenario: drie offertes voor dezelfde warmtepomp in dezelfde woning, met duizenden euro's verschil tussen de laagste en de hoogste. De laagste lijkt de logische keuze, tot blijkt dat de pomp onderdimensioneerd is, constant op vol vermogen draait en de cv-ketel permanent moet bijspringen. Herstel kost dan duizenden euro's, en een schadeclaim strandt meestal op de vraag wie welke berekening had moeten maken. Het verschil tussen een goede en een slechte installateur is daarmee groter dan het verschil tussen merken warmtepomp.
 
 > **Kort antwoord:** beoordeel een installateur op wat hij vóór de offerte doet, niet op wat hij belooft. Een goede installateur meet de woning door, controleert de isolatie, maakt een warmteverliesberekening en levert een geluidsberekening op de perceelgrens — pas daarna komt er een prijs.
 >
@@ -63,7 +64,7 @@ Vier soorten schade die in de praktijk het vaakst optreden. De bedragen hieronde
 
 - **Te grote of te kleine warmtepomp.** Te klein betekent dat de cv-ketel of het elektrische element permanent moet bijspringen; te groot betekent pendelen, snellere slijtage en een lager seizoensrendement. Beide kosten jaarlijks stroom en verkorten de levensduur.
 - **Slecht ingeregeld.** Een stookcurve die te hoog staat of een hydraulisch onbalans-systeem drukt het seizoensrendement met tientallen procenten. Dat is de duurste en tegelijk de minst zichtbare fout, want het toestel wordt gewoon warm.
-- **Verkeerde plaatsing van de buitenunit.** Overschrijd je de geluidsnorm op de perceelgrens, dan volgt na een klacht een handhavingstraject en moet je alsnog dempen of verplaatsen. Reken op enkele honderden tot enkele duizenden euro's herstel.
+- **Verkeerde plaatsing van de buitenunit.** Overschrijd je de geluidsnorm op de perceelgrens (Bbl: 45 dB dag, 40 dB avond en nacht), dan volgt na een klacht een handhavingstraject en moet je alsnog dempen of verplaatsen. Wat dempen of verplaatsen kost, hangt volledig af van de situatie; laat het vooraf uitrekenen in plaats van achteraf.
 - **Subsidie misgelopen.** Als de installatie niet aan de ISDE-voorwaarden voldoet of het apparaat niet op de apparatenlijst staat, valt de subsidie weg. Controleer dat vóór ondertekening, niet achteraf.
 
 Bij elkaar loopt dit eenvoudig op tot een veelvoud van wat je op de offerte bespaarde door de goedkoopste te kiezen.
@@ -93,7 +94,7 @@ Sommige installateurs zijn door een fabrikant erkend voor diens toestellen. Dat 
 Checklist voor het eerste bezoek (reken op 60 tot 90 minuten; korter betekent bijna altijd dat er stappen zijn overgeslagen):
 
 - **Isolatie-inspectie.** Spouwmuur, zolder, vloer, ramen. Bij onvoldoende isolatie moet de installateur dit melden vóór offerte.
-- **Warmteverlies-berekening.** Bij voorkeur op basis van NTA 8800 of vergelijkbare methode. Niet "schat in" maar berekenen.
+- **Warmteverliesberekening.** De norm hiervoor is NEN-EN 12831 (warmteverlies per ruimte en voor de hele woning). NTA 8800 is de rekenmethode voor het energielabel en is géén dimensioneringsberekening. Niet "schat in" maar berekenen.
 - **Radiator-check.** Zijn de huidige radiatoren geschikt voor lage temperatuur (35-50°C aanvoer)? Anders vervanging nodig.
 - **Buitenunit-locatie.** Geluidsoverlast-impact buren, esthetiek, onderhoudbaarheid.
 - **Binnenunit-locatie.** Bijkeuken, technische ruimte, buffer-vat-positie.
@@ -157,7 +158,7 @@ De bedragen hieronder zijn indicatieve bandbreedtes voor een complete installati
 - Toestel: 4.200-7.800 euro.
 - Installatie: 2.800-4.400 euro.
 - Buffervat en inregeling: 1.400-2.400 euro.
-- **Bruto totaal: circa 8.400-12.800 euro.**
+- **Bruto totaal: circa 8.400-14.600 euro.**
 
 ### Volledig elektrische lucht-water warmtepomp
 
@@ -175,11 +176,14 @@ De bedragen hieronder zijn indicatieve bandbreedtes voor een complete installati
 
 ### Eventuele meerkosten
 
-- Nieuwe radiatoren of LT-convectoren: 280-540 euro per stuk.
-- Isolatie-meerwerk (spouwmuur, zolder): 4.000-12.000 euro.
-- Uitbreiding groepenkast: 480-880 euro.
+Deze posten komen bovenop de bedragen hierboven en verschillen sterk per woning. Vraag ze altijd als aparte regel op de offerte, met een prijs per stuk:
 
-Voor de uitgebreide kostenanalyse zie [ons artikel over het kiezen van een warmtepomp-installateur](/posts/beste-warmtepompinstallateur-kiezen-2026/) en [aardwarmte/bodembron](/posts/aardwarmte-warmtepomp-bodembron-2026/).
+- Nieuwe radiatoren of LT-convectoren (per stuk).
+- Isolatie-meerwerk (spouwmuur, zolder, vloer) — hiervoor geldt de ISDE ook, en bij twee of meer maatregelen binnen 24 maanden wordt het subsidiebedrag verdubbeld.
+- Uitbreiding of vervanging van de groepenkast.
+- Vervangen van cv-leidingen met een te kleine diameter.
+
+Voor de uitgebreide kostenanalyse zie [ons artikel over het kiezen van een warmtepomp-installateur](/posts/beste-warmtepompinstallateur-kiezen-2026/), de [rekentool warmtepompkosten](/warmtepomp-kosten-berekenen/) en [aardwarmte/bodembron](/posts/aardwarmte-warmtepomp-bodembron-2026/).
 
 ## 7. Vergelijking: warmtepomp-installateur vs zonnepanelen-installateur
 
@@ -187,11 +191,11 @@ Hier het verschil dat veel mensen niet zien:
 
 | Aspect | Zonnepanelen-installateur | Warmtepomp-installateur |
 |---|---|---|
-| Werktijd op locatie | 4-8 uur | 16-32 uur |
+| Werktijd op locatie | Meestal één dag | Meerdere dagen |
 | Vereiste expertise | Elektro + dakwerk | Elektro + loodgieter + koudetechniek + warmteberekening |
-| Foutkosten bij slecht werk | 800-3.200 euro | 4.000-12.000 euro |
+| Gevolg van slecht werk | Lagere opbrengst, herstelbaar per paneel | Structureel lager seizoensrendement, vaak alleen met ingrijpen te herstellen |
 | Wettelijke eis | Elektrotechnische vakbekwaamheid | F-gassencertificaat bij koudemiddelwerk |
-| Subsidieroute | 0%-btw op panelen | ISDE, aanvraag ná installatie |
+| Subsidieroute | 0%-btw op panelen | ISDE (21% btw), aanvraag ná installatie |
 | Garantie-relevantie | Hoog | Zeer hoog |
 
 Lees ook [ons artikel over zonneplan-installateur-alternatieven](/posts/alternatief-voor-zonneplan-installateur-2026/) om de zonnepanelen-kant te begrijpen.
@@ -200,7 +204,11 @@ Lees ook [ons artikel over zonneplan-installateur-alternatieven](/posts/alternat
 
 ### Rijtjeshuis uit 1985, 102 m²
 
-Stel: drie offertes van 10.200, 13.800 en 16.400 euro. Bij dit woningtype valt de middelste offerte doorgaans het gunstigst uit, omdat de goedkoopste vrijwel altijd de elektra-aanpassing en de radiatoren buiten beschouwing laat. **Modelberekening met aannames:** bij een bruto-investering van 13.800 euro, een subsidiebedrag dat je opzoekt in de apparatenlijst en een jaarlijkse besparing in de orde van 1.500 euro kom je op een terugverdientijd van ruwweg zes tot acht jaar. Vul de subsidie en je eigen verbruik in en de uitkomst verschuift snel.
+Stel: drie offertes van 10.200, 13.800 en 16.400 euro. Bij dit woningtype valt de middelste offerte doorgaans het gunstigst uit, omdat de goedkoopste vrijwel altijd de elektra-aanpassing en de radiatoren buiten beschouwing laat.
+
+**Modelberekening met aannames.** Uitgangspunt: 1.200 m³ gas per jaar, verbrandingswaarde 9,77 kWh/m³, ketelrendement 0,85 — dat is circa 9.970 kWh warmte. Gaskosten: 1.200 × 1,10 euro = 1.320 euro. Met een volledig elektrische warmtepomp bij een praktijk-SCOP van 3,25 kost dezelfde warmte 9.970 ÷ 3,25 = circa 3.070 kWh × 0,26 euro = circa 800 euro. **Netto besparing op de energierekening: circa 520 euro per jaar**, plus het vastrecht gas als de aansluiting eruit gaat.
+
+Op een netto-investering van 13.800 euro min het ISDE-bedrag uit de apparatenlijst is dat een terugverdientijd die ruim boven de tien jaar ligt — bij deze tarieven is een warmtepomp in een goed geïsoleerd rijtjeshuis geen snelle financiële winst. Reken je eigen situatie na met de [rekentool warmtepompkosten](/warmtepomp-kosten-berekenen/); tarieven van 1,10 euro per m³ en 0,26 euro per kWh zijn modelaannames, geen voorspelling.
 
 ### Vrijstaande woning uit 2002, 165 m²
 
@@ -219,32 +227,51 @@ Bij twijfel altijd. Concreet:
 - Bij complexe situaties (monument, gestapelde woningen, slechte isolatie).
 - Als installateur dingen belooft die je niet kunt verifiëren ("99 procent kans dat het werkt").
 
-Een onafhankelijk energieadviseur kost 350-650 euro. Bij installaties >15.000 euro vrijwel altijd de moeite waard.
+Een onafhankelijk energieadviseur rekent doorgaans een dagdeel- of vast adviestarief; vraag het bedrag vooraf op. Bij een investering van tienduizenden euro's is dat vrijwel altijd de moeite waard.
 
 ## 10. Drie veelgemaakte fouten
 
-**Fout 1: alleen op prijs vergelijken.** Twee offertes zien er identiek uit, een is 18.400, ander 22.800. Mensen kiezen 18.400. Vier maanden later blijkt dat de duurdere ook isolatie-werk en betere inregeling bevatte.
+**Fout 1: alleen op eindbedrag vergelijken.** Twee offertes lijken identiek, met duizenden euro's verschil. De keuze valt op de goedkoopste, tot later blijkt dat de duurdere ook isolatiewerk en een volledige inregeling bevatte. Vergelijk daarom regel voor regel, niet eindtotaal tegen eindtotaal.
 
 **Fout 2: geen referenties bellen.** Drie referentie-adressen bellen kost 30 minuten en geeft enorm veel informatie. Doen.
 
 **Fout 3: te snel tekenen.** Goede installateurs hebben wachttijd. Als iemand binnen een week kan beginnen, vraag waarom. Vaak: capaciteit-probleem, slechte reviews, of niet vakkundig genoeg.
 
-## 11. Welk type installateur past bij wie?
+## 11. Welke eisen stel je bij welk woningtype?
+
+Er bestaat in Nederland **geen sterrenclassificatie voor warmtepompinstallateurs**. Wie je een "3-sterren" of "5-sterren" erkenning aanbiedt, verwijst naar iets dat niet bestaat. Wat wél bestaat, zijn de vier toetsbare punten hieronder — en hoe zwaar ze wegen, verschilt per woning.
+
+De vier toetsbare punten:
+
+1. **F-gassencertificaat** van bedrijf én uitvoerend monteur (wettelijk verplicht bij werk aan het koudemiddelcircuit).
+2. **Erkenningsregeling of branchelidmaatschap**, waaronder InstallQ en de BRL-regelingen voor warmtepompinstallaties (BRL 6000-21 gaat over het ontwerpen, installeren en beheren van individuele warmtepompsystemen). Vraag welk certificaat het bedrijf heeft en op welke werkzaamheden de scope betrekking heeft.
+3. **Warmteverliesberekening volgens NEN-EN 12831**, op papier, vóór de offerte.
+4. **Referenties**: drie adressen van vergelijkbare woningen die je zelf mag bellen, en een geschillenregeling voor als het misgaat.
 
 ### Eenvoudige rijtjeswoning, goed geïsoleerd
-3-sterren installateur volstaat. Hybride of vol-elektrisch.
+
+Punten 1, 3 en 4 zijn genoeg. Vraag naar het F-gassencertificaat, de warmteverliesberekening en twee of drie referenties in hetzelfde woningtype. Hybride of volledig elektrisch is hier meestal beide haalbaar.
 
 ### Vrijstaande woning of complexe situatie
-4-sterren installateur. Stelt isolatie-vragen, geeft schriftelijke SCOP.
 
-### Monument, gestapelde bouw, of zeer specifieke situatie
-5-sterren installateur of specialist. Reken op hogere offerte maar minder risico.
+Vraag alle vier de punten, en daarnaast een erkenning waarvan de scope het ontwerp van de installatie dekt (BRL 6000-21 of gelijkwaardig). Laat een aanvoertemperatuur en een SCOP-toezegging schriftelijk in de offerte vastleggen, plus een geluidsberekening op de perceelgrens.
+
+### Monument, gestapelde bouw of zeer specifieke situatie
+
+Vraag naast alle vier de punten om referenties in exact dit type pand — geen vergelijkbare woningen, maar monumenten of appartementengebouwen. Hier is aantoonbare ervaring belangrijker dan een certificaat, want de knelpunten zitten in de vergunning, de plaatsing van de buitenunit en de bestaande leidingschachten. Reken op een hogere offerte en op minder installateurs die de opdracht willen aannemen.
 
 ## 12. Stroom-contract na installatie
 
-Een warmtepomp verbruikt 2.400-4.800 kWh extra per jaar. Op een vast contract betaal je dat tegen middentarief. Op een dynamisch contract met slimme sturing 25-40 procent goedkoper.
+Een warmtepomp verbruikt in de orde van 2.400 tot 4.800 kWh extra per jaar. Wat dat kost, hangt niet alleen van je contract af, maar van het moment waarop de pomp draait — en dat is een groot deel van het stookseizoen juist in de duurste uren.
 
-Onze aanbeveling: bij warmtepomp-installatie direct overstap naar <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber dynamisch contract</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow noopener">Frank Energie</a>. Besparing op warmtepomp-deel alleen al 240-480 euro per jaar.
+**Modelaannames** (geen meting): op een dynamisch contract zonder sturing komt een warmtepomp op circa 0,272 euro per kWh uit, iets boven het etmaalgemiddelde van 0,26 euro, omdat de warmtevraag samenvalt met de ochtend- en avondpieken. Met slimme sturing — voorverwarmen in goedkope uren, terugschakelen in de piek — komt dat gewogen tarief op circa 0,243 euro. Een vast contract nemen we op 0,32 euro per kWh als referentie.
+
+Wat dat betekent bij 2.400 tot 4.800 kWh warmtepompverbruik:
+
+- Dynamisch mét sturing versus dynamisch zónder sturing: circa 70 tot 140 euro per jaar verschil.
+- Dynamisch mét sturing versus de vaste referentie van 0,32 euro: circa 185 tot 370 euro per jaar.
+
+Let op de gevoeligheid: ligt het vaste tarief dat jij kunt krijgen rond 0,28 euro per kWh, dan verdwijnt het voordeel van dynamisch zónder sturing volledig. Het verschil zit in de sturing, niet in het contract. Wil je die route verkennen, dan zijn <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> en <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow noopener">Frank Energie</a> de twee bekendste dynamische aanbieders; vergelijk ze eerst in [ons overzicht van dynamische contracten](/posts/beste-dynamisch-energiecontract-2026/).
 
 ## 13. Technische details: wat is SCOP en waarom is het de belangrijkste vraag?
 
@@ -257,9 +284,9 @@ Vier factoren:
 1. **Aanvoertemperatuur.** Hoe lager, hoe hoger de SCOP. 35°C aanvoer = SCOP 4,2-4,8. 55°C aanvoer = SCOP 2,8-3,3.
 2. **Isolatieniveau van de woning.** Slecht geïsoleerd = hogere aanvoer nodig = lagere SCOP.
 3. **Buitentemperatuur.** Bij -10°C buiten zakt SCOP, bij +10°C juist hoger.
-4. **Kwaliteit van de inregeling.** Slecht ingeregeld = 25-40 procent slechter SCOP dan goed ingeregeld.
+4. **Kwaliteit van de inregeling.** Een te hoog ingestelde stookcurve of een hydraulisch onbalans-systeem drukt de SCOP substantieel. Hoeveel precies is per installatie anders; het is de enige factor die volledig in de hand van de installateur ligt.
 
-Factor 4 is waar installateur-kwaliteit zit. Identieke warmtepomp, identieke woning, twee installateurs: SCOP-verschil 2,9 versus 4,1. Verschil op stroomverbruik: 38 procent.
+Factor 4 is waar de kwaliteit van de installateur zit. Neem twee identieke warmtepompen in dezelfde woning, de een op SCOP 2,9 en de ander op 4,1. Voor dezelfde warmtevraag verbruikt de tweede 1 − 2,9/4,1 = **circa 29 procent minder stroom** — jaar in, jaar uit, zonder dat je aan het toestel iets kunt zien.
 
 ### Welke SCOP-vraag moet je stellen?
 
@@ -275,9 +302,9 @@ Spreek er meteen bij af hóe het rendement wordt vastgesteld — via de uitlezin
 
 Een goede offerte bevat de volgende 7 specifieke vermeldingen:
 
-1. **Warmtebehoefte van de woning** in kWth, berekend volgens NTA 8800 of NEN-EN 12831.
+1. **Warmtebehoefte van de woning** in kW, berekend volgens NEN-EN 12831.
 2. **Specifiek warmtepomp-model en type** (geen "vergelijkbaar" of "of gelijkwaardig").
-3. **Geluidsdruk-niveau** van de buitenunit op 3 m afstand, conform fabrikantsspecificatie.
+3. **Geluid van de buitenunit.** Fabrikanten geven het geluidsvermogenniveau (Lw) op; de wettelijke toets is de geluidsdruk op de perceelgrens. Vraag daarom niet alleen de fabrieksopgave, maar de berekende waarde op de perceelgrens bij de gekozen plaatsing.
 4. **Buffervat-volume** en aansluitwijze (in serie of in parallel).
 5. **Aanvoertemperatuur** per situatie (bij -10°C buiten, bij gemiddelde winter, bij overgangsdagen).
 6. **Inregelings-protocol** dat de installateur volgt (Techniek Nederland-protocol of fabrikant-protocol).
@@ -320,8 +347,6 @@ Vijf stappen voor 2026:
 
 Verder lezen: [beste warmtepomp-installateur-kiezen](/posts/beste-warmtepompinstallateur-kiezen-2026/), [beste warmtepomp merk 2026](/posts/beste-warmtepomp-merk-2026/), [beste hybride warmtepomp](/posts/beste-hybride-warmtepomp-2026/), [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/), [aardwarmte bodembron warmtepomp](/posts/aardwarmte-warmtepomp-bodembron-2026/), [beste warmtepomp rijtjeshuis](/posts/beste-warmtepomp-rijtjeshuis-2026/), [beste isolatie voor warmtepomp](/posts/beste-isolatie-voor-warmtepomp-2026/), [zonnepanelen-installateur-alternatieven](/posts/alternatief-voor-zonneplan-installateur-2026/).
 
-Een goede installateur kost je 1.500-3.500 euro meer dan de goedkoopste, en bespaart je 4.000-12.000 euro over de levensduur. Dat is een rendement waar weinig beleggingen aan komen.
-
 De meerprijs van een zorgvuldige installateur ten opzichte van de goedkoopste offerte ligt doorgaans in de orde van enkele duizenden euro's. Daar staat tegenover dat de posten die de goedkoopste weglaat — elektra, radiatoren, buffervat, inregeling — vroeg of laat alsnog betaald moeten worden, en dat een slecht ingeregelde installatie vijftien jaar lang stroom kost. Dat is de rekensom die je moet maken, niet de vergelijking van twee eindbedragen.
 
 ## 18. Waar je op moet letten in het eerste jaar
@@ -334,7 +359,7 @@ Een zorgvuldige installateur komt vier tot acht weken na installatie terug voor 
 - Warmtepomp-geluid bij verschillende werkstanden.
 - Mogelijke optimalisatie via integratie dynamisch contract.
 
-Doet je installateur zo'n controle niet, schakel dan na twaalf maanden zelf een onafhankelijke energieadviseur in (reken op 350 tot 650 euro) om het rendement vast te stellen. Doe dat binnen de garantietermijn, want daarna heb je geen positie meer.
+Doet je installateur zo'n controle niet, schakel dan na twaalf maanden zelf een onafhankelijke energieadviseur in om het rendement vast te stellen. Doe dat binnen de garantietermijn, want daarna heb je geen positie meer.
 
 Voor de optimalisatie via een dynamisch contract: zie ons overzicht [beste dynamisch energiecontract](/posts/beste-dynamisch-energiecontract-2026/) en [beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/). Hoeveel de combinatie van een warmtepomp met een dynamisch contract via <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> oplevert, hangt af van je tariefspreiding en van hoeveel van de warmtevraag je kunt verschuiven — reken dat na met je eigen verbruik.
 

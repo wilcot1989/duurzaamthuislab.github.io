@@ -26,7 +26,7 @@ faq:
 - q: Wat is het verschil tussen een hybride en een volledige warmtepomp?
   a: 'Een hybride warmtepomp werkt samen met de bestaande cv-ketel: de warmtepomp neemt het grootste deel van de ruimteverwarming over en de ketel springt bij op koude dagen en meestal ook voor warm tapwater. Een volledige (all-electric) warmtepomp doet alles zelf, inclusief tapwater via een boiler, en de gasaansluiting kan eruit. Hybride is aanzienlijk goedkoper in aanschaf maar houdt een gasrekening; volledig elektrisch vraagt een woning en een afgiftesysteem die met lage aanvoertemperatuur uit de voeten kunnen.'
 - q: Welke is goedkoper?
-  a: 'In aanschaf de hybride, met een orde van grootte van €4.500-€7.500 tegen €8.500-€14.000 voor volledig elektrisch, beide inclusief 21% btw en installatie. In gebruik hangt het af van je isolatie en van de verhouding tussen de gas- en de stroomprijs. In onze modelberekening met gas €1,10/m³ en stroom €0,26/kWh all-in bespaart de volledige warmtepomp ruwweg €400 per jaar meer dan de hybride, waarmee de extra investering zich in de orde van tien tot twaalf jaar terugverdient. Bij een slecht geïsoleerde woning kantelt dat naar de hybride.'
+  a: 'In aanschaf de hybride, met een orde van grootte van €4.500-€7.500 tegen €8.500-€14.000 voor volledig elektrisch, beide inclusief 21% btw en installatie. In gebruik hangt het af van je isolatie en van de verhouding tussen de gas- en de stroomprijs. In onze modelberekening met gas €1,10/m³ en stroom €0,26/kWh all-in bespaart de volledige warmtepomp circa €435 per jaar meer dan de hybride, waarmee de extra investering van ongeveer €5.000 zich in ruim elf jaar terugverdient. Bij een slecht geïsoleerde woning kantelt dat naar de hybride.'
 - q: Heb je een goed energielabel nodig voor een volledige warmtepomp?
   a: 'Niet het label is bepalend, maar het afgiftesysteem. Een volledige warmtepomp werkt efficiënt bij een aanvoertemperatuur van ongeveer 35 tot 45 graden. Als je radiatoren op de koudste dag meer dan 50 graden nodig hebben, moet je ze vergroten of vloerverwarming aanleggen — anders val je terug op elektrisch bijverwarmen en zakt het rendement in. Laat daarom een warmteverliesberekening maken vóór je kiest; die vertelt meer dan je labelletter.'
 - q: Werkt hybride of volledig beter met zonnepanelen?
@@ -51,7 +51,7 @@ Dit artikel rekent beide opties door in **één** consistent model, zodat de bed
 
 > **Kort antwoord:** de hybride is goedkoper in aanschaf (€4.500-€7.500 inclusief 21% btw) en werkt in vrijwel elke bestaande woning, omdat de ketel de koudste dagen opvangt. Volledig elektrisch kost €8.500-€14.000 en vraagt een afgiftesysteem dat met 35-45 graden aanvoer uitkomt.
 >
-> In onze modelberekening voor een rijtjeshuis met 1.500 m³ gasverbruik bespaart de hybride circa €500 per jaar en de volledige warmtepomp circa €940 per jaar. Het verschil van ruwweg €440 per jaar tegen een meerinvestering van rond €5.000 geeft een terugverdientijd van tien tot twaalf jaar op de meerprijs. Blijf je korter wonen of is je woning slecht geïsoleerd, dan wint de hybride.
+> In onze modelberekening voor een rijtjeshuis met 1.500 m³ gasverbruik bespaart de hybride circa €505 per jaar en de volledige warmtepomp circa €940 per jaar. Het verschil van circa €435 per jaar tegen een meerinvestering van rond €5.000 geeft een terugverdientijd van ruim elf jaar op de meerprijs. Blijf je korter wonen of is je woning slecht geïsoleerd, dan wint de hybride.
 >
 > Let op twee dingen die vaak fout staan: de **hybride-verplichting bij ketelvervanging is ingetrokken**, niet uitgesteld. En de ISDE vraag je aan **ná** de installatie, binnen 24 maanden.
 
@@ -84,19 +84,19 @@ Alle bedragen hieronder komen uit hetzelfde model. Het is een berekening met exp
 
 | | Huidige situatie (alleen ketel) | Hybride | Volledig elektrisch |
 |---|---|---|---|
-| Gas | 1.500 m³ = €1.650 | ±450 m³ = €496 | 0 |
+| Gas | 1.500 m³ = €1.650 | ±450 m³ = €495 | 0 |
 | Stroom voor verwarming | — | ±2.500 kWh = €650 | ±3.500 kWh = €910 |
 | Vaste kosten gasaansluiting | blijft | blijft | vervalt |
-| **Kosten per jaar** | **€1.650** | **±€1.146** | **±€910** |
-| **Besparing per jaar** | — | **±€504** | **±€740, plus de vervallen vaste gaskosten** |
+| **Kosten per jaar** | **€1.650** | **±€1.145** | **±€910** |
+| **Besparing per jaar** | — | **±€505** | **±€740, plus de vervallen vaste gaskosten** |
 
-De vaste kosten van een gasaansluiting staan op je jaarnota bij netbeheerkosten en bedragen enkele honderden euro's per jaar. Reken je die mee bij de volledige warmtepomp, dan komt de besparing op ruwweg **€940 per jaar**.
+De vaste kosten van een gasaansluiting staan op je jaarnota bij netbeheerkosten. Wij rekenen hier met een aangenomen €200 per jaar; kijk je eigen bedrag na op je jaarnota. Reken je die mee bij de volledige warmtepomp, dan komt de besparing op ruwweg **€940 per jaar**, en is het verschil tussen volledig elektrisch en hybride €940 − €505 = **circa €435 per jaar**.
 
 **Terugverdientijden in dit model, vóór ISDE:**
 
-- Hybride ten opzichte van doorgaan met alleen de ketel: €4.500-€7.500 ÷ €504 = **9 tot 15 jaar**.
+- Hybride ten opzichte van doorgaan met alleen de ketel: €4.500-€7.500 ÷ €505 = **9 tot 15 jaar**.
 - Volledig elektrisch ten opzichte van alleen de ketel: €8.500-€14.000 ÷ €940 = **9 tot 15 jaar**.
-- De **meerprijs** van volledig elektrisch boven hybride: circa €5.000 ÷ €440 extra besparing = **11 tot 12 jaar**.
+- De **meerprijs** van volledig elektrisch boven hybride: circa €5.000 ÷ €435 extra besparing = **ruim 11 jaar**.
 
 De ISDE verkort al deze termijnen. Met hoeveel, hangt af van het toestel: het bedrag staat per typenummer in de apparatenlijst en de rekentool op rvo.nl. Wij noemen hier geen bedragen, omdat de RVO-pagina's daarover onderling niet eenduidig zijn.
 
@@ -105,7 +105,7 @@ De ISDE verkort al deze termijnen. Met hoeveel, hangt af van het toestel: het be
 | Verandering in de aanname | Effect |
 |---|---|
 | Gas naar €0,90/m³ | alle besparingen dalen; hybride wordt relatief minder aantrekkelijk dan doorgaan met de ketel |
-| Stroom naar €0,32/kWh | de volledige warmtepomp verliest het grootste deel van zijn voorsprong op de hybride |
+| Stroom naar €0,32/kWh | het jaarlijkse verschil tussen volledig elektrisch en hybride krimpt van circa €435 naar circa €375, ongeveer 14% minder — merkbaar, maar niet beslissend |
 | Seizoensrendement volledig 3,2 in plaats van 4,0 (te hoge aanvoertemperatuur) | het voordeel van volledig elektrisch verdampt vrijwel geheel |
 | Slecht geïsoleerde woning, hoger gasverbruik | de hybride wint, omdat de ketel de piek opvangt zonder extra investering |
 

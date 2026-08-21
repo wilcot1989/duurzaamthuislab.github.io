@@ -22,7 +22,7 @@ faq:
   - q: 'Welk merk heeft de beste app?'
     a: 'Wij geven geen cijfers aan apps, omdat wij ze niet zelf testen. Wat je wel kunt controleren voordat je koopt: kun je de stookcurve zelf aanpassen, is er een open koppeling met Home Assistant of een dynamisch contract, en kun je verbruiksdata exporteren? Die drie vragen onderscheiden de apps in de praktijk meer dan het uiterlijk.'
   - q: 'Wat kost een warmtepomp gemiddeld in 2026?'
-    a: 'Een hybride warmtepomp ligt doorgaans tussen €7.500 en €12.000 inclusief installatie, een volledige lucht-water warmtepomp tussen €13.000 en €22.000. Op het apparaat en de installatie geldt 21% btw; het 0%-tarief geldt alleen voor zonnepanelen. Daar gaat nog ISDE-subsidie vanaf.'
+    a: 'Dat verschilt sterk per merk en per woning. In de merkentabel verderop in dit artikel loopt een hybride opstelling van circa €5.800 tot €8.000 en een volledig elektrische lucht-water warmtepomp van circa €7.500 tot €19.000 inclusief installatie — het instapsegment aan de onderkant, de premiummerken in een grote woning aan de bovenkant. Dat zijn indicatieve bandbreedtes, geen prijsopgave. Op het apparaat en de installatie geldt 21% btw; het 0%-tarief geldt alleen voor zonnepanelen. Daar gaat nog ISDE-subsidie vanaf.'
   - q: 'Welk merk heeft de beste service in Nederland?'
     a: 'Merken met een eigen Nederlandse organisatie (Atag, Itho Daalderop, Inventum, Intergas) hebben korte lijnen; bij internationale merken hangt de kwaliteit sterk af van de lokale dealer. Vraag daarom per offerte wie de service doet, wat de responstijd bij een storing is en of dat schriftelijk vastligt.'
   - q: 'Wat is COP en SCOP, en welke waarde is goed?'
@@ -227,13 +227,13 @@ Lees [warmtepomp vs hybride warmtepomp 2026](/posts/warmtepomp-vs-hybride-warmte
 
 SCOP is het seizoensgemiddelde rendement volgens NEN-EN 14825: bij SCOP 4,5 levert het toestel 4,5 kWh warmte per kWh stroom. Let op dat SCOP een verhouding tussen energie-eenheden is en geen "kWh per euro" — dat maakt het onafhankelijk van de stroomprijs.
 
-**Modelberekening, met aannames.** Neem een woning met 12.000 kWh warmtevraag per jaar en een stroomprijs van €0,30 per kWh:
+**Modelberekening, met aannames.** Neem een woning met 12.000 kWh warmtevraag per jaar en een all-in stroomprijs van €0,26 per kWh:
 
-- Bij SCOP 4,5 is dat 2.667 kWh stroom, ofwel circa €800 per jaar.
-- Bij SCOP 4,0 is dat 3.000 kWh stroom, ofwel circa €900 per jaar.
-- Het verschil is dus circa €100 per jaar, of €1.000 over tien jaar.
+- Bij SCOP 4,5 is dat 2.667 kWh stroom, ofwel circa €693 per jaar.
+- Bij SCOP 4,0 is dat 3.000 kWh stroom, ofwel circa €780 per jaar.
+- Het verschil is dus circa €87 per jaar, of ruim €850 over tien jaar.
 
-Dat is reëel geld, maar het weegt niet op tegen een prijsverschil van enkele duizenden euro's tussen merken. En het valt in het niet bij het effect van de inregeling: een slecht afgestelde installatie zakt eenvoudig van SCOP 4,0 naar 3,0, en dat kost bij dezelfde aannames circa €300 per jaar. Vandaar de conclusie verderop: besteed je aandacht aan de installateur, niet aan het laatste tiende puntje SCOP.
+Dat is reëel geld, maar het weegt niet op tegen een prijsverschil van enkele duizenden euro's tussen merken. En het valt in het niet bij het effect van de inregeling: een slecht afgestelde installatie zakt eenvoudig van SCOP 4,0 naar 3,0, en dan is het 4.000 kWh × €0,26 = €1.040 per jaar — circa €260 per jaar méér dan bij SCOP 4,0. Vandaar de conclusie verderop: besteed je aandacht aan de installateur, niet aan het laatste tiende puntje SCOP.
 
 ---
 
