@@ -215,7 +215,7 @@ function berekenSaldering() {
     adviesText = '<strong>Substantieel verschil</strong> - €500 tot €900 per jaar. Je hebt veel teruglevering. Kijk eerst naar grote verbruikers die je naar de middag kunt verplaatsen (warmwaterboiler, EV, warmtepomp), want die kosten niets en werken direct. Daarna is een batterij een rekensom, geen automatisme.';
   } else {
     adviesKleur = '#f5b0a0';
-    adviesText = '<strong>Groot verschil</strong> - meer dan €900 per jaar. Bij dit volume is de eerste vraag niet ''welke batterij'' maar ''hoeveel van mijn overschot kan ik zelf gebruiken''. Een batterij van 5 kWh dekt maximaal circa 1.500 kWh per jaar; heb je veel meer overschot dan dat, dan blijft er ook met batterij een groot deel onbenut.';
+    adviesText = '<strong>Groot verschil</strong> - meer dan €900 per jaar. Bij dit volume is de eerste vraag niet "welke batterij" maar "hoeveel van mijn overschot kan ik zelf gebruiken". Een batterij van 5 kWh dekt maximaal circa 1.500 kWh per jaar; heb je veel meer overschot dan dat, dan blijft er ook met batterij een groot deel onbenut.';
   }
 
   document.getElementById('res-advies').style.borderColor = adviesKleur;
