@@ -1,8 +1,8 @@
 ---
-title: 'Enphase IQ Battery 5P Review 2026: Eerlijke Test'
+title: 'Enphase IQ Battery 5P (2026): specificaties, sterke en zwakke punten'
 date: 2026-07-01 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: 'Enphase IQ Battery 5P review: wij analyseren de modulaire AC-batterij van 5 kWh voor de Nederlandse markt. Specificaties, prijs, app, voor- en nadelen.'
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Wat Enphase publiceert over de IQ Battery 5P: 5,0 kWh bruikbaar, 3,84 kVA continu, zes ingebouwde micro-omvormers en 15 jaar garantie tot 6.000 cycli. Plus waar het systeem in de Nederlandse markt tekortschiet.'
 draft: false
 categories:
 - thuisbatterijen
@@ -11,315 +11,166 @@ tags:
 - IQ Battery 5P
 - thuisbatterij
 - micro-omvormer
-- review
+- AC-gekoppeld
 keywords:
 - enphase iq battery 5p review
 - enphase thuisbatterij nederland
 - enphase 5p prijs
-- enphase batterij ervaringen
+- enphase batterij specificaties
 - enphase vs sessy
-- enphase modulair
-- enphase iq8
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: false
 faq:
-- q: Wat kost een Enphase IQ Battery 5P in Nederland?
-  a: De adviesprijs ligt rond €4.200 inclusief installatie voor één 5 kWh module. Twee modules (10 kWh) kost ongeveer €7.800. Prijzen exclusief eventuele extra bedrading of een nieuwe groepenkast.
-- q: 'Werkt Enphase 5P met mijn bestaande zonnepanelen?'
-  a: Ja, het is AC-gekoppeld dus werkt met elke zonnepaneelinstallatie (string-omvormer of micro-omvormers). Je hoeft geen Enphase micro-omvormers te hebben om de batterij te gebruiken.
-- q: Hoe verhoudt Enphase zich tot Sessy of Marstek?
-  a: Enphase is duurder per kWh maar heeft uitstekende monitoring (Enlighten app), 15 jaar garantie en betere integratie met zonnepaneelmonitoring. Sessy en Marstek zijn 25-35% goedkoper en gericht op dynamisch contract handel.
-- q: Heeft Enphase 5P noodstroom?
-  a: Ja, in combinatie met de IQ System Controller (extra €1.500) kun je een backup-circuit voeden bij stroomuitval. Zonder die controller is er geen noodstroom.
+- q: 'Wat kost een Enphase IQ Battery 5P in Nederland?'
+  a: 'Enphase publiceert geen consumentenprijs. De productpagina van de Nederlandse Enphase-store noemt geen bedrag en verwijst naar distributiepartners en installateurs. De prijs komt dus via een offerte tot stand en verschilt per project. Vraag minstens twee offertes op, inclusief btw en inclusief installatie, en laat de posten uitgesplitst opnemen.'
+- q: 'Werkt de 5P met mijn bestaande zonnepanelen?'
+  a: 'Ja. Het is een AC-gekoppeld systeem, dus het werkt achter vrijwel elke bestaande installatie, of die nu op een string-omvormer of op micro-omvormers draait. Je hebt geen Enphase-micro-omvormers nodig om de batterij te laten werken — al vervalt zonder Enphase-panelen wel het monitoringvoordeel per paneel.'
 - q: 'Welke garantie geeft Enphase?'
-  a: 15 jaar fabrieksgarantie op de batterij (capaciteitsbehoud minimaal 60% na 15 jaar bij dagelijkse cyclus). Dat is langer dan Sessy (10 jaar) en vergelijkbaar met Tesla Powerwall (10 jaar).
-- q: 'Hoeveel cycli haalt de batterij?'
-  a: 'Enphase specificeert 6.000 cycli bij 100 procent DoD. Bij één cyclus per dag komt dat op ruim 16 jaar. De garantie loopt tot 15 jaar met een gegarandeerde restcapaciteit; die garantiecurve is het cijfer om mee te rekenen, niet een degradatiemeting over enkele maanden.'
-- q: 'Kun je later modules bijplaatsen?'
-  a: 'Ja, dat is juist het sterke punt. Eerste module €4.200 inclusief installatie, extra modules €3.400 per stuk (alleen hardware, installatie 2 uur).'
-- q: 'Werkt Enphase met een SolarEdge omvormer?'
-  a: 'Ja, want het is AC-gekoppeld. De Envoy-monitoring werkt dan beperkt (alleen verbruik en batterij, geen panelen-data). Lees [SolarEdge vs Enphase](/posts/solaredge-vs-enphase-2026/) voor meer.'
-- q: 'Is er ISDE-subsidie op deze batterij?'
-  a: 'Op dit moment niet, want ISDE geldt voor warmtepompen en zonneboilers, niet voor thuisbatterijen. Sommige gemeentes hebben wel een aparte batterijsubsidie. Zie [thuisbatterij subsidie 2026](/posts/thuisbatterij-subsidie-2026-overzicht/).'
-- q: 'Wat als Enphase Nederland verlaat?'
-  a: 'Onwaarschijnlijk maar mogelijk. Dan blijft de batterij werken (lokale werking), maar de app stopt en garantie wordt lastiger te claimen. Sessy is een Nederlands bedrijf — daar heb je dat risico minder.'
+  a: 'Enphase noemt op de eigen productpagina 15 jaar garantie tot 6.000 cycli. Dat is langer dan de tien jaar die de meeste concurrenten in dit segment opgeven. Vraag het garantieblad van het exacte artikelnummer op en let op de gegarandeerde restcapaciteit aan het eind van die termijn; dat cijfer is bij een claim het enige dat telt.'
+- q: 'Heeft de 5P noodstroom?'
+  a: 'Niet uit zichzelf. Voor een back-upcircuit heb je aanvullende Enphase-apparatuur nodig, en dat is een aparte investeringspost. Vraag die post expliciet uit in de offerte: bij systemen waar back-up standaard is meegeleverd, vergelijk je anders ongelijke configuraties.'
+- q: 'Kan de 5P zelfstandig handelen op een dynamisch contract?'
+  a: 'Niet native voor de Nederlandse markt. Wie op uurprijzen wil sturen, moet dat zelf inrichten via een koppeling met een domotica-omgeving. Dat werkt, maar het is geen plug-and-play functie zoals bij systemen die dynamische sturing als eigen modus aanbieden. Dat verschil telt vooral in de winter, wanneer de opbrengst grotendeels uit het dal-piekverschil komt.'
+- q: 'Is er subsidie op deze batterij?'
+  a: 'Nee. De ISDE dekt geen thuisbatterijen, en het btw-nultarief geldt alleen voor zonnepanelen en de direct noodzakelijke onderdelen daarvan. Op een thuisbatterij betaal je 21% btw, ook bij gelijktijdige plaatsing met panelen. Sommige gemeenten hebben een eigen regeling of duurzaamheidslening; controleer dat bij je eigen gemeente.'
+- q: 'Kan ik later modules bijplaatsen?'
+  a: 'Ja, het systeem is modulair opgebouwd. Wat de prijs per extra module is, publiceert Enphase niet; vraag die op bij je installateur en laat hem in de offerte vastleggen voordat je een uitbreidingsplan maakt.'
+- q: 'Werkt de 5P samen met een SolarEdge-omvormer?'
+  a: 'Technisch wel, want het systeem is AC-gekoppeld en hangt achter je bestaande installatie. Wat je dan mist, is de monitoring per paneel in de Enphase-app — die werkt alleen met Enphase-micro-omvormers. Zie ook onze vergelijking [SolarEdge vs Enphase](/posts/solaredge-vs-enphase-2026/).'
 products:
 - name: Enphase IQ Battery 5P
-  url: https://enphase.com/nl/homeowners/iq-battery
-  price: '4200'
+  url: https://enphase.com/nl-nl/store/storage/iq-battery-5p
 - name: Sessy 5 kWh
   url: https://go.duurzaamthuislab.nl/sessy
   price: '3550'
-- name: Tibber dynamisch contract
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '6'
 ---
-Wie zijn zonnepanelen wil uitbreiden met opslag komt in Nederland vrijwel altijd uit bij dezelfde drie kandidaten: Sessy, Tesla Powerwall en de Enphase IQ Battery 5P. De Enphase is daarvan de minst bekende, en de keuze ervoor hangt sterk af van één ding: wat er al op je dak hangt.
+Wie zijn zonnepanelen wil uitbreiden met opslag komt in Nederland vrijwel altijd uit bij dezelfde handvol kandidaten, en de Enphase IQ Battery 5P is daarvan de minst besproken. De keuze ervoor hangt sterk af van één ding: wat er al op je dak hangt.
 
-Hieronder onze analyse: wat de specificaties beloven, waar de zwaktes zitten voor de Nederlandse markt, en voor wie deze batterij daadwerkelijk de juiste keuze is.
+Dit artikel gaat over wat Enphase zelf publiceert over dit systeem, opgehaald op de Nederlandse Enphase-store op 21 augustus 2026, en over waar het in de Nederlandse markt tegenaan loopt. Wij hebben dit systeem niet zelf geïnstalleerd of doorgemeten; er is ook geen onafhankelijke Nederlandse test waarin de 5P onder gelijke condities naast concurrenten is beproefd. Waar iets niet publiek is, staat dat erbij.
 
-*Disclosure: de links naar Frank Energie, Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+*Disclosure: wij hebben met Enphase, Charged (Sessy) en de overige in dit artikel genoemde partijen geen affiliate- of commissierelatie en verdienen niets aan de links in dit artikel.*
 
+> **Kort antwoord:** de 5P is degelijke, AC-gekoppelde hardware met de langste garantie in dit segment — 15 jaar tot 6.000 cycli — en met monitoring die tot op paneelniveau gaat als je Enphase-omvormers hebt. De twee zwakke punten voor Nederland zijn dat het systeem niet zelfstandig op uurprijzen stuurt, en dat Enphase geen consumentenprijs publiceert, waardoor je de vergelijking alleen met offertes in de hand kunt maken.
 
-> **Kort antwoord:** de Enphase IQ Battery 5P is uitstekende hardware met de beste monitoring van de markt, maar hij handelt niet zelfstandig op een dynamisch contract en kost aanzienlijk meer dan een Sessy of Marstek. Logisch als je al een Enphase-systeem hebt; anders niet.
->
-> De adviesprijs ligt rond €4.200 inclusief installatie voor één 5 kWh module. Twee modules (10 kWh) kost ongeveer €7.800. Prijzen exclusief eventuele extra bedrading of een nieuwe groepenkast.
+## Wat Enphase publiceert over de IQ Battery 5P
 
-## Wat is de Enphase IQ Battery 5P?
-
-De IQ Battery 5P is de tweede generatie thuisbatterij van het Amerikaanse Enphase, bekend van micro-omvormers. Het is een AC-gekoppelde batterij van 5 kWh netto bruikbaar (5,12 kWh nominaal) per module. Modulair uit te breiden tot 20 kWh.
-
-Specificaties:
-- Capaciteit: 5 kWh per module (uitbreidbaar tot 4 modules = 20 kWh)
-- Continu vermogen: 3,84 kW
-- Piek vermogen: 7,68 kW (3 sec)
-- Chemie: lithium-ijzer-fosfaat (LFP, veilig)
-- Afmetingen: 110 × 39 × 20 cm per module, 75 kg
-- Garantie: 15 jaar / 6.000 cycli
-- IP-classificatie: IP55 (binnen of buiten)
-- Werktemperatuur: -15°C tot +55°C
-
-Enphase positioneert het product als een premium oplossing met sterke focus op monitoring en lange garantie.
-
-## Installatie: vlot maar duur
-
-De installatie duurde één dag. Twee monteurs, gespecialiseerd in Enphase systemen. Ze moesten:
-
-1. Twee 5P modules op de bijkeukenmuur ophangen
-2. De IQ System Controller plaatsen (vereist voor backup en voor netcommunicatie)
-3. Een aparte aardlekautomaat plaatsen
-4. De Envoy gateway verbinden met internet
-5. CT-meters klemmen rond de hoofdvoeding
-
-Totale kosten in deze case:
-- 2x IQ Battery 5P: €7.800
-- IQ System Controller: €1.500
-- Installatiematerialen: €450
-- Totaal: €9.750 inclusief BTW
-
-Vergelijk dat met Sessy 10 kWh: €5.500 incl. btw, excl. installatie (prijspeil aug 2026), plus circa €1.200 basisinstallatie — circa €6.700 totaal. Dat is circa €3.000 verschil voor dezelfde capaciteit.
-
-## Eerste indruk app: dit is waar Enphase wint
-
-De Enlighten-app (gratis, iOS en Android) is waar Enphase echt het verschil maakt. Je ziet per minuut:
-
-- Productie van panelen (per paneel als je micro-omvormers hebt)
-- Verbruik in huis
-- Lading/ontlading van de batterij
-- Netinvoer/-afname
-
-Dat detailniveau is in de praktijk waardevoller dan het klinkt: het legt sluipverbruik bloot dat je op je jaarafrekening nooit ziet. Klassieke vondsten zijn een oude tweede vrieskist op zolder of in de garage en apparatuur die 24 uur per dag doorloopt. Een oude vrieskist kan alleen al enkele honderden kWh per jaar kosten — dat is een besparing die je met inzicht in één keer pakt, zonder dat de batterij er iets aan bijdraagt.
-
-Sessy en Marstek hebben ook apps, maar minder uitgebreid op verbruiksinzicht.
-
-## Prestaties volgens de specificaties
-
-| Metric | Opgave volgens datasheet |
-|--------|--------|
+| Kenmerk | Opgave Enphase (21-08-2026) |
+|---|---|
 | Bruikbare capaciteit | 5,0 kWh per module |
-| Continu vermogen | 3,84 kW per module |
-| Round-trip rendement | circa 90 procent op systeemniveau |
-| Celtechnologie | LFP (lithium-ijzerfosfaat) |
-| Cyclusspecificatie | 6.000 cycli bij 100 procent DoD |
-| Garantie | 15 jaar |
-| Beschermingsklasse | IP55 |
+| Continu vermogen | 3,84 kVA |
+| Opbouw | AC-gekoppeld all-in-one systeem met zes ingebouwde micro-omvormers |
+| Celchemie | LFP (lithium-ijzerfosfaat) volgens de datasheet |
+| Uitbreiding | Modulair, meerdere modules te combineren |
+| Garantie | 15 jaar, tot 6.000 cycli |
+| Prijs | Niet gepubliceerd; via distributiepartner of installateur |
 
-De 15 jaar garantie is het sterkste papieren punt: dat is langer dan wat de meeste concurrenten geven. Het opgegeven rendement van circa 90 procent is normaal voor een AC-gekoppelde batterij — omzetting van gelijk- naar wisselspanning kost onvermijdelijk enkele procenten, en daarin is een AC-batterij structureel iets minder efficiënt dan een DC-gekoppeld systeem.
+Wat er op de Nederlandse productpagina niet staat: afmetingen, gewicht, IP-klasse, temperatuurbereik en round-trip-rendement. Die gegevens staan in de datasheet van het exacte artikelnummer; vraag die op bij je installateur en beoordeel op dat document, niet op een brochure of een overzichtsartikel.
 
-Wij nemen geen "gemeten" rendementen of degradatiecijfers over voor dit model: er is geen onafhankelijke Nederlandse test waarin de 5P onder gelijke condities naast Sessy en Powerwall is doorgemeten. Beoordeel degradatie op de garantiecurve in het garantieblad — dat is het enige cijfer waar je bij een claim ook daadwerkelijk iets aan hebt.
+De zes ingebouwde micro-omvormers zijn het kenmerkende ontwerpkeuze: in plaats van één centrale omvormer zit de omzetting verdeeld over meerdere kleine eenheden. Het praktische gevolg is dat de uitval van één omvormer niet het hele systeem stillegt.
 
-## Waar Enphase het laat liggen
+## AC-gekoppeld: wat dat betekent
 
-**1. Geen native dynamisch contract handel**
+De 5P hangt achter je bestaande installatie in plaats van ertussen. Dat heeft één duidelijk voordeel en één onvermijdelijk nadeel.
 
-Dit is het grootste minpunt voor de Nederlandse markt. Sessy en Marstek handelen automatisch op de dynamische prijs (kopen goedkope nachturen, verkopen dure piekuren). Enphase doet dit alleen via een omweg: je moet IFTTT of Home Assistant koppelen om handmatig regels in te stellen.
+Het voordeel is compatibiliteit. Je hoeft je bestaande omvormer niet te vervangen en je bent niet gebonden aan een merk op het dak. Bij een bestaande installatie die nog jaren meegaat, is dat een reëel argument.
 
-Dat verschil is in de winter het grootst. In november tot februari komt de opbrengst van een batterij nauwelijks nog uit zonoverschot maar bijna volledig uit het verschil tussen dal- en piekuren op een dynamisch contract. Een systeem dat daar zelf op handelt, pakt die opbrengst; een systeem dat wacht op jouw handmatige regels laat er een groot deel van liggen.
+Het nadeel is rendement. Bij een AC-gekoppeld systeem gaat de zonnestroom van gelijkspanning naar wisselspanning, dan terug naar gelijkspanning voor de batterij en bij ontlading weer naar wisselspanning. Elke omzetting kost enkele procenten. Een DC-gekoppeld systeem slaat een stap over en is daarin structureel iets efficiënter. Hoe groot dat verschil in jouw situatie is, hangt af van hoeveel van je opwek daadwerkelijk door de batterij loopt.
 
-**2. Prijs**
+## Waar de 5P sterk in is
 
-Per kWh kost Enphase ongeveer €975. Sessy: €600. Powerwall: €700. Voor 4 modules (20 kWh) zit je op €17.000 — dat is fors.
+**De garantietermijn.** Vijftien jaar tot 6.000 cycli is langer dan de tien jaar die in dit segment gebruikelijk is. Bij één cyclus per dag is 6.000 cycli ruim zestien jaar, dus de termijn en het cyclusaantal liggen redelijk in elkaars verlengde. Beoordeel degradatie op de garantiecurve in het garantieblad — dat is het enige cijfer waar je bij een claim iets aan hebt.
 
-**3. IQ System Controller verplicht voor noodstroom**
+**De monitoring, mits je Enphase-panelen hebt.** De Enphase-app toont productie, verbruik, batterijstand en netuitwisseling. Met Enphase-micro-omvormers komt daar productie per paneel bij. Dat detailniveau is in de praktijk waardevoller dan het klinkt: het legt sluipverbruik bloot dat je op een jaarafrekening nooit ziet — een oude vrieskist op zolder kan alleen al enkele honderden kWh per jaar kosten.
 
-€1.500 extra voor backup. Powerwall heeft dat ingebouwd.
+Belangrijke nuance daarbij: dat inzicht hoort niet bij de batterij. Je haalt dezelfde vondst met een P1-meter van enkele tientjes. Reken die besparing dus niet mee in de terugverdientijd van de batterij.
 
-## Voor wie is het geschikt?
+**Modulariteit.** Je kunt klein beginnen en later bijplaatsen. Vraag wel vooraf de prijs per extra module; die publiceert Enphase niet.
 
-Enphase IQ Battery 5P is een goede keuze als:
-- Je al Enphase micro-omvormers hebt (perfecte integratie)
-- Je waarde hecht aan 15 jaar garantie en premium monitoring
-- Je vooral zon-zelfconsumptie wilt maximaliseren (niet zozeer dynamisch handelen)
-- Je een groot huis hebt met hoog piekverbruik
+## Waar de 5P het laat liggen
 
-Niet geschikt als:
-- Je primair geld wilt verdienen via dynamisch contract → kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a> of <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Marstek</a>
-- Je een strak budget hebt
-- Je een kleine woning met laag verbruik hebt
+**1. Geen zelfstandige sturing op uurprijzen.** Dit is voor de Nederlandse markt het grootste minpunt. Systemen die dynamische sturing als eigen modus hebben, laden zelf op goedkope uren en ontladen op dure. Bij de 5P moet je dat zelf inrichten via een koppeling met bijvoorbeeld Home Assistant.
 
-## Vergelijking met concurrenten
+Dat verschil is in de winter het grootst. Van november tot februari komt de opbrengst van een batterij nauwelijks nog uit zonoverschot, maar vrijwel volledig uit het verschil tussen dal- en piekuren. Een handmatig ingestelde regel is daar per definitie minder scherp dan een algoritme dat elke dag de volledige prijscurve gebruikt.
 
-| Model | Capaciteit | Prijs all-in | €/kWh | Garantie | Dyn. handel |
-|-------|-----------|------------|-------|----------|-------------|
-| Enphase 5P (2 modules) | 10 kWh | €9.750 | €975 | 15 jaar | Via IFTTT |
-| Sessy 10 kWh | 10 kWh | €6.700* | €670 | 10 jaar | Native |
-| Tesla Powerwall 3 | 13,5 kWh | €9.500 | €704 | 10 jaar | Via app |
-| Marstek Venus | 5 kWh | €1.999 | €400 | 10 jaar | Native |
-| Huawei Luna 2000 | 10 kWh | €6.800 | €680 | 10 jaar | Beperkt |
+**2. Geen publieke prijs.** Dat maakt vergelijken lastig en het maakt onderhandelen ondoorzichtig. Bij een Sessy staat de richtprijs op de site (€3.550 voor 5 kWh, incl. btw, excl. installatie); bij Enphase moet je op offertes vertrouwen. Vraag er minstens twee.
 
-*Sessy: €5.500 hardware (incl. btw, excl. installatie, prijspeil aug 2026) plus circa €1.200 basisinstallatie.
+**3. Noodstroom kost extra apparatuur.** Back-up bij netuitval vraagt aanvullende Enphase-hardware. Bij systemen waar back-up in het toestel zit, is dat een verschil dat je in de vergelijking moet meenemen — anders vergelijk je twee dingen die niet hetzelfde doen.
 
-Voor een uitgebreidere vergelijking lees [Sessy vs Marstek](/posts/sessy-vs-marstek-vergelijking-2026/), [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/) en [Huawei Luna vs Tesla vs Sessy](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/).
+## Voor wie dit systeem past
 
-## Combinatie met dynamisch contract
+**Passend als:**
 
-Wil je toch dynamisch handelen met Enphase, dan zijn <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> en <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a> de logische keuzes. Beide bieden een API die via Home Assistant met Enphase te koppelen is. Reken erop dat je die koppeling zelf moet inrichten en testen — het is geen plug-and-play oplossing.
+- Je al Enphase-micro-omvormers hebt. Dan krijg je één app, één leverancier en één supportlijn, en werkt de monitoring per paneel.
+- Je waarde hecht aan de langere garantietermijn.
+- Je vooral zelfverbruik van zonnestroom wilt maximaliseren en niet primair op uurprijzen wilt sturen.
+- Je een bestaande installatie hebt die je niet wilt vervangen.
 
-Lees ook onze [dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/) voor de juiste keuze.
+**Niet passend als:**
 
-## Saldering 2027 en Enphase
+- Je primair op een dynamisch contract wilt sturen. Kies dan een systeem dat dat zelf doet.
+- Je een strak budget hebt en de prijs vooraf wilt kennen.
+- Je panelen niet op Enphase draaien. Dan betaal je voor een monitoringvoordeel dat je niet krijgt.
 
-Met de afbouw van saldering (zie [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/)) wordt zon-zelfconsumptie steeds belangrijker. Een batterij verlengt je salderingsvoordeel effectief door overschot op te slaan voor de avond. Enphase doet dit automatisch — daar werkt het systeem het beste.
+## Het ecosysteem is de kern van de afweging
 
-Reken voor jouw situatie de [terugverdientijd van een thuisbatterij](/posts/thuisbatterij-terugverdientijd-berekenen-2026/) door.
-
-## Veiligheid
-
-LFP-chemie (lithium-ijzer-fosfaat) is brandveiliger dan NMC (gebruikt in oudere Powerwall). Geen koeling nodig, geen ventilatieruimte verplicht, en ingebouwde brandsensor. IP55 betekent dat je hem in een garage of zelfs aan de buitenmuur kunt plaatsen.
-
-## Conclusie: premium maar duur
-
-De Enphase IQ Battery 5P is een uitstekende batterij voor wie:
-- Een Enphase ecosysteem heeft of wil
-- Premium garantie wil (15 jaar)
-- Monitoring belangrijk vindt
-- Niet primair op dynamisch handel mikt
-
-Maar voor de gemiddelde Nederlander die een thuisbatterij koopt voor de combinatie zon-zelfconsumptie + dynamisch handel, is Sessy of Marstek 30-50% goedkoper en functioneel beter.
-
-Voor een 5 kWh setup is dit onze rangorde:
-1. Sessy 5 kWh (€3.550 incl. btw, excl. installatie) — beste prijs/prestatie voor Nederlandse markt
-2. Enphase 5P (€4.200) — als je al Enphase ecosysteem hebt
-3. Marstek Venus (€1.999) — goedkoopste optie
-
-Lees ook [beste thuisbatterij eengezinswoning](/posts/beste-thuisbatterij-eengezinswoning-2026/) voor onze complete vergelijking.
-
-Voor de juiste omvormerkeuze, zie ook [SolarEdge vs Enphase](/posts/solaredge-vs-enphase-2026/) en [micro-omvormer vs string-omvormer](/posts/micro-omvormer-vs-string-omvormer-2026/).
-
-## Wat gebruikers rapporteren
-
-Het beeld in gebruikersreviews is bij deze batterij opvallend eenduidig, en het valt uiteen in twee delen. Over de hardware en de Enlighten-app is de waardering hoog: het systeem doet wat het moet doen en het verbruiksinzicht wordt als de beste van de markt beschreven.
-
-De kritiek richt zich vrijwel volledig op de prijsopbouw, en met name op één post: de IQ System Controller die je apart moet aanschaffen om noodstroom te krijgen. Dat maakt noodstroom bij Enphase een aanzienlijke meerprijs, terwijl het bij een Powerwall 3 in het systeem zit. Reken die controller daarom mee in je vergelijking als noodstroom voor jou een reden is om een batterij te kopen — anders vergelijk je ongelijke systemen.
-
-Een eerlijke samenvatting van een tevreden maar kritische klant.
-
-## Software updates en betrouwbaarheid
-
-Firmware-updates komen bij een nieuw geïnstalleerd systeem in de eerste maanden het vaakst voorbij; tijdens een update staat de batterij in standby en levert hij niets. Enphase plant die updates in de nacht, wat betekent dat je er in de praktijk weinig van merkt. Sessy doet dit ook; bij Marstek komen updates volgens gebruikersreviews ook overdag voorbij, wat je wel merkt in de opbrengst van die dag.
-
-## Energiebeheer-strategie
-
-Voor maximaal rendement met de Enphase 5P is dit de opzet die wij zouden aanhouden:
-
-1. **Zomer (april-september):** "Self-Consumption" mode. Alles wat panelen produceren gaat eerst naar verbruik, dan naar batterij, dan pas naar net. Salderen we nog van het kleine restje.
-2. **Winter (oktober-maart):** "Time-of-Use" mode via IFTTT. Laden tussen 02:00-06:00 (goedkope nachturen op Tibber dynamisch), ontladen tussen 17:00-21:00 (piekuren).
-
-Het verschil met een batterij die zelf handelt, zit vrijwel volledig in de wintermaanden: in januari komt de opbrengst niet uit zonoverschot maar uit het verschil tussen dal- en piekuren, en daar is een handmatig ingestelde regel per definitie minder scherp dan een algoritme dat elke dag de volledige prijscurve gebruikt.
-
-## Onderhoud
-
-Geen onderhoud nodig. Geen jaarlijkse keuring, geen filter-vervanging, geen koelvloeistof. Wel aan te raden:
-- Eens per maand de Enlighten-app checken op storingen
-- Eens per jaar de bedrading visueel inspecteren (gratis, 5 min)
-- IP55-classificatie betekent waterdicht, maar geen direct regen — plaats hem onder een afdak als hij buiten staat
-
-## Noodstroom in praktijk
-
-Noodstroom werkt bij Enphase alleen met de IQ System Controller, en die kost apart geld. Volgens de specificaties schakelt de controller binnen enkele tientallen milliseconden over — snel genoeg dat apparaten op het backup-circuit niet uitvallen.
-
-Wat je op dat circuit zet, bepaal je bij de installatie: doorgaans koelkast, verlichting, modem en één of twee wandcontactdozen. Hoe lang je daarmee vooruit komt, reken je zelf: bruikbare capaciteit gedeeld door het vermogen van het backup-circuit. Een circuit dat gemiddeld 300 watt trekt, houdt op 10 kWh ruim dertig uur vol; zet je er een kookplaat of wasdroger op, dan is het in enkele uren leeg. Dimensioneer het backup-circuit dus krap.
-
-Powerwall 3 zou hetzelfde doen zonder extra apparaten. Sessy heeft sinds januari 2026 ook noodstroom, maar je moet handmatig overschakelen.
-
-## ROI berekening
-
-Onderstaand is een **modelberekening**, geen meting. Uitgangspunt: één 5P-module plus de IQ System Controller voor noodstroom, totale investering rond de €9.750, bij een woning met zonnepanelen en een dynamisch contract.
-
-- Besparing door meer zon-zelfconsumptie: in dit model €420/jaar
-- Opbrengst uit prijsverschuiving op een dynamisch contract, handmatig ingericht: in dit model €280/jaar
-- Netto opbrengst in dit model: circa €700/jaar, en daarmee een terugverdientijd van ruim tien jaar
-
-Twee waarschuwingen bij dit model. Ten eerste: de besparing die je haalt uit het opsporen van sluipverbruik met de Enlighten-app tellen wij hier niet mee. Die is vaak reëel, maar hij hoort niet bij de batterij — je haalt hem net zo goed met een P1-meter van 69 euro.
-
-Ten tweede: het bedrag voor de System Controller weegt in deze berekening zwaar. Heb je geen noodstroom nodig, laat die post dan weg en de terugverdientijd verbetert aanzienlijk. Na de afbouw van de saldering wordt zelf verbruiken meer waard, wat de eerste post verhoogt — maar reken dat door met de tarieven die dan gelden, niet met een aanname.
-
-## Ons eindoordeel: 7,5/10
-
-Plus: top monitoring, lange garantie, robuuste hardware, LFP veiligheid, betrouwbaarheid.
-Min: prijs te hoog, geen native dynamische handel, System Controller verplicht voor backup.
-
-Voor 90% van Nederlandse huishoudens is Sessy of Marstek een betere keuze. Voor de 10% die premium en monitoring willen, is Enphase een uitstekende batterij. Combineer hem met een dynamisch contract van [Tibber](/posts/tibber-review-ervaringen-2026/) of [Frank Energie](/posts/frank-energie-review-ervaringen-2026/) voor het maximale rendement.
-
-
-Voor verdere context lees ook [thuisbatterij prijs per kWh 2026](/posts/thuisbatterij-prijs-per-kwh-2026/) en [batterij na 2027 zonder zonnepanelen zin](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/).
-
-## Het belangrijkste aandachtspunt: het ecosysteem
-
-De 5P is technisch AC-gekoppeld en werkt daardoor achter vrijwel elke omvormer. Maar de reden om voor Enphase te kiezen — de Enlighten-app met monitoring per paneel — vervalt zodra je panelen niet op Enphase micro-omvormers draaien. In een gemengde opstelling met SolarEdge of Goodwe zie je in de app alleen nog verbruik en batterijstand, geen productie per paneel.
+De 5P werkt technisch achter vrijwel elke omvormer. Maar de reden om voor Enphase te kiezen — monitoring per paneel — vervalt zodra je panelen niet op Enphase-micro-omvormers draaien. In een gemengde opstelling zie je in de app alleen nog verbruik en batterijstand.
 
 Dat maakt de afweging vrij scherp:
 
-- **Heb je al Enphase IQ7 of IQ8 micro-omvormers?** Dan is de 5P de meest logische batterij die je kunt kiezen: één app, één leverancier, één supportlijn.
-- **Heb je een andere omvormer?** Dan betaal je de Enphase-meerprijs voor een voordeel dat je niet krijgt. In dat geval is een Sessy of Marstek de betere keuze.
+- **Heb je al Enphase IQ7- of IQ8-micro-omvormers?** Dan is de 5P de meest logische batterij die je kunt kiezen.
+- **Heb je een andere omvormer?** Dan betaal je een meerprijs voor een voordeel dat je niet krijgt.
 
-Controleer bij een offerte ook de celchemie van de aangeboden uitvoering — die bepaalt de levensduurkarakteristiek en verschilt per generatie. Dat staat in de datasheet van het exacte artikelnummer, niet in de brochure.
+Controleer bij een offerte het exacte artikelnummer en de bijbehorende datasheet. Specificaties verschillen per generatie, en een brochure loopt daar bijna altijd op achter.
 
-## NL-specifiek: BTW, installatie en compatibiliteit
+## Wat een batterij van deze klasse modelmatig oplevert
 
-Particulieren BTW 21%, niet terugvorderbaar. Geen ISDE-subsidie. Gemeentelijke regelingen variëren sterk en wisselen per jaar — check de actuele regelingen bij je eigen gemeente. Enphase IQ 5P levert via NL-distributeur (Krannich, Solar123) met 10 jaar fabrieksgarantie. Bij directe import uit VS: garantie alleen via importeur, soms problematisch.
+Onderstaande berekening is een model met expliciete aannames, geen meting.
 
-Bouwbesluit eist aparte technische ruimte voor batterij >5 kWh. Verzekeraars vragen Scope 12 keuring. Belangrijk voor Enphase: 5P werkt alleen als primair systeem ook Enphase is — combineren met SolarEdge/Goodwe niet mogelijk.
+**Aannames:** één module van 5,0 kWh, waarvan na rondgangsverlies circa 4,2 kWh per cyclus daadwerkelijk wordt verplaatst. Situatie ná 1 januari 2027, wanneer de saldering volledig is vervallen: afnameprijs €0,28 per kWh, terugleververgoeding €0,06 per kWh, en 1.100 kWh per jaar die je met de batterij zelf verbruikt in plaats van teruglevert.
 
-## Veelgemaakte fouten
+- Zelfverbruik: 1.100 × (€0,28 − €0,06) = **circa €240 per jaar**
 
-1. **Combineren met niet-Enphase omvormer.** Werkt niet — vereist volledige Enphase-ecosysteem.
-2. **Te kleine stack kopen.** 5 kWh minimum voor warmtepomp + EV.
-3. **Batterij in onverwarmde ruimte.** Onder 5°C of boven 35°C: BMS blokkeert laden.
-4. **Vergeten over Envoy gateway.** Zonder Envoy: geen monitoring of automatie.
-5. **Niet checken of installateur Enphase-gecertificeerd is.** Verkeerde installatie = geen garantie.
+Voor de arbitragecomponent nemen wij hier bewust geen bedrag op: die vraagt bij dit systeem een zelf ingerichte koppeling, en hoe goed die presteert hangt volledig af van hoe je hem instelt. Wie die component wel wil meerekenen, moet ook het inrichtingswerk en het onderhoud daarvan meewegen.
 
-## Wanneer NIET Enphase 5P?
+Om de terugverdientijd af te maken heb je het offertebedrag nodig, en dat is bij dit merk de ontbrekende schakel. Deel je totale investering — inclusief btw, installatie en eventuele back-uphardware — door de jaarlijkse opbrengst hierboven, en je hebt een eerste indicatie. Reken je eigen situatie na met onze [terugverdientijd-berekening](/terugverdientijd-thuisbatterij/).
 
-Sla over als je SolarEdge of Goodwe-systeem hebt — niet compatibel. Bij budget <€5.000 voor batterij: Marstek goedkoper. In huurwoningen waar plaatsing in geventileerde ruimte niet kan: praktisch lastig. Voor wie LFP-veiligheid eist: wacht op LFP-versie eind 2026.
+## Wat er per 1 januari 2027 verandert
 
-## Mini case-study: gezin in Apeldoorn
+De salderingsregeling stopt per 1 januari 2027 volledig. Er is geen afbouwpad; het wetsvoorstel met een geleidelijke afbouw is verworpen.
 
-Gezin in Apeldoorn (4.800 kWh verbruik, 6 kWp Enphase IQ7-panelen geïnstalleerd 2022, geen warmtepomp) plaatste in juni 2025 twee 5P-units (10 kWh totaal) voor €7.200 inclusief installatie. Met dynamisch contract Tibber: arbitrage €240/jaar, eigen verbruik van 32% naar 79%. Jaarlijkse besparing €1.080. Terugverdientijd 6,7 jaar. Zonder bestaande Enphase had keuze anders gevallen (Sessy of Marstek goedkoper geweest).
+Vanaf die datum is een teruggeleverde kWh alleen nog de terugleververgoeding waard, terwijl een afgenomen kWh de volle prijs kost. Dat verschil is de waarde die een batterij kan oogsten. Voor een systeem als de 5P, dat sterk is in zelfverbruik en zwak in prijsarbitrage, is dat gunstig nieuws: de component waar het systeem goed in is, wordt juist zwaarder.
 
-## Real-world ervaring: 1 maand, 6 maanden, 1 jaar
+## Btw, subsidie en installatie in Nederland
 
-Eerste maand: installatie 4 uur, Envoy-koppeling 30 minuten, app meteen werkend. Eerste cycli stabiel.
+Voor particulieren geldt 21% btw op een thuisbatterij, niet terugvorderbaar en ook niet onder het nultarief voor zonnepanelen. Er is geen ISDE voor thuisbatterijen. Gemeentelijke regelingen verschillen sterk en wisselen per jaar; controleer die bij je eigen gemeente in plaats van bij een landelijk overzicht.
 
-Na 6 maanden: 192 cycli, capaciteit 9,82 kWh (ruim 1% degradatie). Eén firmware-update.
+Praktische punten om vóór de offerte te regelen:
 
-Na 1 jaar: 384 cycli, capaciteit 9,7 kWh (3% degradatie totaal — hoger dan LFP-batterijen). Geen onderdelen vervangen. Verzekeraar +€42/jaar premie. Eigenaar tevreden over app maar wenst LFP-veiligheid.
+- Laat de installateur bevestigen dat hij voor dit systeem gecertificeerd is; dat is bij dit merk een garantievoorwaarde.
+- Bespreek de plaatsingsruimte en de temperatuurgrenzen uit de datasheet. Een onverwarmde ruimte kan in de winter buiten het toegestane bereik vallen.
+- Laat back-uphardware als aparte post opnemen, zodat je de vergelijking met andere systemen zuiver kunt maken.
+- Vraag of de aangeboden configuratie een gateway bevat; zonder die koppeling vervalt de monitoring waar je juist voor betaalt.
 
-## Extra FAQ-vragen
+## Onderhoud
 
-Wanneer komt de LFP-versie van Enphase 5P? Aangekondigd voor Q4 2026, productverwijzing IQ Battery 10C. Beloofde specs: 10 kWh capaciteit, LFP-chemie, 6.000 cycli garantie. Voor wie veiligheid en lange levensduur prioriteit hebben: wachten tot deze beschikbaar is. Voor wie nu een batterij nodig heeft en al in Enphase-ecosysteem zit: 5P is de enige optie.
+Er is geen periodiek onderhoud: geen keuring, geen filters, geen vloeistoffen. Wat wij wel zouden doen: maandelijks even de app op storingsmeldingen controleren, en jaarlijks de bedrading visueel nalopen. Firmware-updates komen bij een nieuw systeem in de eerste maanden het vaakst voorbij; tijdens een update levert de batterij niets.
 
-Werkt 5P bij stroomstoring? Ja, met Enphase IQ System Controller (€1.180 extra). Zonder Controller: alleen grid-tied. Bij Hilversumse klant na storing in januari 2026: Controller schakelde binnen 2 seconden, vriezer en wifi bleven werken — perfect.
+## Conclusie
 
-Combinatie met Tesla auto? Enphase Enlighten-app heeft Tesla-integratie sinds 2024. Auto laadt direct van overschot, batterij vult zich daarna. Werkt automatisch zonder configuratie. Bij niet-Tesla EV's via Smart Charger Pro met API-koppeling.
+De IQ Battery 5P is degelijke hardware met de langste garantietermijn in dit segment en, mits je in het Enphase-ecosysteem zit, de beste monitoring. Dat is een reële combinatie van voordelen, en voor bestaande Enphase-eigenaren is dit de meest voor de hand liggende batterij.
 
-## Service en garantie in NL
+Daarbuiten wordt het lastiger te verdedigen. Zonder Enphase-panelen vervalt het monitoringvoordeel, zonder eigen sturing op uurprijzen laat je in de winter opbrengst liggen, en zonder publieke prijs kun je pas na twee offertes beoordelen of het bedrag redelijk is. Wie vooral op de Nederlandse dynamische markt wil sturen, komt met een [Sessy](/posts/sessy-review-thuisbatterij-nederland/) doorgaans verder.
 
-Enphase werkt via Krannich en Solar123 als Nederlandse distributeurs. Garantieafhandeling via mail, gemiddelde reactietijd 2 dagen, vervanging 3-5 weken. Significant sneller dan BYD of Pylontech. 10 jaar garantie standaard, uitbreidbaar tot 15 jaar via Enphase Care (€280). Voor wie service-snelheid prioriteit heeft: Enphase wint van veel concurrenten in NL.
+## Verder lezen
 
----
+- [Sessy review thuisbatterij Nederland](/posts/sessy-review-thuisbatterij-nederland/)
+- [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/)
+- [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/)
+- [SolarEdge vs Enphase](/posts/solaredge-vs-enphase-2026/)
+- [Micro-omvormer vs string-omvormer](/posts/micro-omvormer-vs-string-omvormer-2026/)
+- [Thuisbatterij prijs per kWh 2026](/posts/thuisbatterij-prijs-per-kwh-2026/)
 
-**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt. Thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder.

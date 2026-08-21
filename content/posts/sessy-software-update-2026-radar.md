@@ -1,326 +1,158 @@
 ---
-title: 'Sessy Radar 2026: software-update + dynamisch'
+title: 'Sessy software en modi 2026: wat de batterij écht doet'
 date: 2026-06-06 08:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: Deep-dive Sessy Radar algoritme — hoe Sessy de marktprijzen volgt, wat de update brengt, en koppeling met dynamisch contract.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Welke modi de Sessy thuisbatterij volgens Charged heeft (zelfverbruik, dynamisch, onbalans, congestiepreventie), hoe de firmware-updates lopen en waarom "Sessy Radar" niet bestaat.'
 categories:
 - thuisbatterijen
 tags:
 - Sessy
-- Sessy Radar
-- thuisbatterij algoritme
+- thuisbatterij software
 - dynamisch contract
-- EPEX optimalisatie
-- Sessy software update 2026
+- onbalansmarkt
+- firmware
 keywords:
-- sessy radar algoritme 2026
+- sessy radar
 - sessy software update 2026
-- sessy thuisbatterij review
-- sessy vs andere thuisbatterij
-- sessy EPEX optimalisatie
+- sessy modi
+- sessy dynamisch contract
+- sessy open api
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
 faq:
-- q: Wat is Sessy Radar?
-  a: Sessy Radar is het geïntegreerde optimalisatie-algoritme in de Sessy thuisbatterij. Het analyseert de EPEX day-ahead prijzen voor de komende 24–48 uur en bepaalt automatisch wanneer de batterij laadt (goedkope uren) en ontlaadt (dure uren). Je hoeft zelf niets in te stellen.
-- q: Werkt Sessy Radar ook zonder Tibber of ander dynamisch contract?
-  a: Sessy Radar is het meest effectief met een dynamisch contract waarbij de uurprijzen worden doorgegeven. Zonder dynamisch contract heeft Radar geen actuele prijsdata en valt het terug op een standaard dag/nacht-profiel. Voor optimale werking is een dynamisch contract (Tibber, ANWB Energie, Frank Energie) aanbevolen.
-- q: Wat is er veranderd in de Sessy software-update van begin 2026?
-  a: 'De 2026-updates bevatten: verbeterde voorspelkwaliteit van gebruikspatronen (machine learning op huishoudprofiel), betere integratie met P1-meterdata voor nauwkeuriger net-export-anticipatie, en een nieuwe ''combi-modus'' die zonne-energie en EPEX-optimalisatie combineert zonder conflicten.'
-- q: Hoe koppel ik Sessy aan Tibber?
-  a: In de Sessy-app ga je naar Instellingen > Energiecontract > Tibber. Je logt in met je Tibber-account en geeft Sessy toestemming om de uurprijsdata te lezen. Sessy Radar begint direct met het plannen van laad- en ontlaadcycli op basis van de gepubliceerde day-ahead prijzen.
-- q: Wat is het verschil tussen Sessy Radar en concurrenten zoals Huawei Luna optimalisatie?
-  a: Sessy Radar is specifiek ontworpen voor EPEX-prijsoptimalisatie met open API-koppeling. Huawei Luna optimaliseert primair voor eigenverbruik van zonne-energie. Huawei heeft geen native EPEX-koppeling voor uurprijsoptimalisatie. Sessy is daarmee sterker voor zuivere arbitrage op de spotmarkt.
-- q: Hoeveel verdient Sessy Radar me per jaar extra ten opzichte van geen optimalisatie?
-  a: 'Een modelberekening met 4,2 kWh bruikbare capaciteit per cyclus, circa 200 productieve cycli per jaar en een all-in prijsverschil van €0,10 tot €0,18 per kWh komt uit op ruwweg €85 tot €190 per jaar uit zuivere EPEX-arbitrage, bovenop de besparing uit eigenverbruik van zonnestroom. De werkelijke opbrengst hangt sterk af van de volatiliteit van de EPEX-markt in dat jaar en van je verbruiksprofiel.'
-- q: Kan Sessy ook terugleveren aan het net bij hoge prijzen?
-  a: Ja. Als je netbeheerder teruglevering toestaat (de meeste doen dat) en je dynamische leverancier teruglevering vergoedt op het live tarief, kan Sessy actief terugleveren bij hoge EPEX-prijzen. Niet alle leveranciers vergoeden dit op het spotmarkt-tarief — check je contract.
-- q: 'Mijn Sessy laadt niet in de nacht terwijl de EPEX-prijs laag was — waarom?'
-  a: 'Sessy Radar kijkt niet alleen naar de huidige prijs maar naar de geoptimaliseerde spread over de komende 24 uur. Als er ''s ochtends vroeg een nog lagere prijs wordt verwacht, kan Radar besluiten te wachten. Ook: als de batterij al deels vol is, is het niet altijd optimaal om extra te laden op een lage prijs als er de volgende dag geen hoge piekprijs wordt verwacht.'
-- q: 'De Sessy-app toont een negatieve besparing deze week — is dat normaal?'
-  a: 'De besparing in de app is berekend op basis van wat er zonder de batterij gekost zou hebben. In weken met weinig EPEX-volatiliteit en weinig zonne-energie is de besparing inderdaad klein of zelfs negatief — dat is normaal en zegt weinig over het jaarresultaat. Beoordeel de opbrengst daarom nooit op een week of maand, maar over minimaal een volledig jaar.'
-- q: 'Kan ik Sessy ook handmatig overschrijven?'
-  a: 'Ja. In de Sessy-app kun je via "Manueel instellen" de batterij forceren te laden of ontladen op een moment dat jij kiest. Na het handmatige commando valt de Sessy terug op automatische Radar-planning.'
+- q: 'Bestaat ''Sessy Radar''?'
+  a: 'Nee. Op sessy.nl komt geen functie, modus of algoritme met de naam Radar voor (gecontroleerd op 21 augustus 2026). De naam circuleert waarschijnlijk door verwarring met twee andere dingen: Radar is een consumentenprogramma van AVROTROS, en Zonneplan noemt zijn eigen sturing ''slimme aansturing''. Wat de Sessy wél doet, staat hieronder beschreven onder de namen die de fabrikant zelf gebruikt.'
+- q: 'Welke modi heeft de Sessy?'
+  a: 'Charged noemt op de productpagina vier toepassingen: zelfverbruik (zonnestroom opslaan in plaats van terugleveren), optimaliseren op een dynamisch tarief, handelen op de onbalansmarkt en het voorkomen van netcongestie. Welke daarvan je kunt gebruiken hangt af van je energiecontract: optimaliseren op uurprijzen vraagt een dynamisch contract, en onbalanshandel loopt via een partij die daar toegang toe heeft.'
+- q: 'Heb ik een dynamisch contract nodig?'
+  a: 'Voor de zelfverbruikmodus niet — die werkt op je eigen zonneproductie en verbruik. Voor optimalisatie op uurprijzen wel, want zonder doorgegeven uurprijzen is er geen prijsverschil om op te sturen. Met het einde van de saldering per 1 januari 2027 wordt de zelfverbruikmodus voor de meeste huishoudens overigens de belangrijkste van de twee.'
+- q: 'Wat kost het gebruik van de software?'
+  a: 'Charged adverteert de Sessy met ''geen abonnement'': de software en de firmware-updates zitten bij het product in. Dat is een relevant verschil met systemen waarbij handelsfuncties of app-functies achter een maandbedrag zitten. Wij hebben geen abonnementsprijs op sessy.nl kunnen vinden (stand 21 augustus 2026).'
+- q: 'Kan ik de Sessy koppelen aan Home Assistant of Homey?'
+  a: 'Ja. Sessy heeft een Open API waarmee koppelingen met Home Assistant en Homey mogelijk zijn. Dat is voor deze markt ongebruikelijk: veel fabrikanten houden de batterij in hun eigen app opgesloten. Praktisch betekent het dat je de batterij in een eigen domoticaomgeving kunt uitlezen en aansturen.'
+- q: 'Welke firmwareversie is actueel?'
+  a: 'Charged houdt een publieke firmware-updatepagina bij. De nieuwste versie die daar op 21 augustus 2026 stond, was 1.11.14 van 22 juni 2026, met een verbetering aan de ''unrecoverable''-statusdetectie. De pagina loopt chronologisch terug tot versie 1.0.0 uit december 2022. Controleer die pagina zelf voordat je op internetberichten over versienummers afgaat.'
+- q: 'Hoeveel levert optimaliseren op uurprijzen op?'
+  a: 'Dat is niet als vast bedrag te geven en hangt af van de prijsvolatiliteit in dat jaar. Een modelberekening met circa 4 kWh bruikbaar per cyclus, ongeveer 200 productieve cycli per jaar en een all-in prijsverschil van €0,10 tot €0,14 per kWh komt uit op grofweg €80 tot €115 per jaar uit pure prijsarbitrage. Dat is een modeluitkomst met aannames, geen meting en geen belofte.'
 products:
 - name: Sessy thuisbatterij
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '3999'
+  price: '3550'
 schema_type: Article
 ---
-De Sessy is een van de weinige thuisbatterijen die je in Nederland kunt kopen met een ingebouwde koppeling aan de EPEX-uurprijzen. Dutch New Energy rolde tussen najaar 2025 en voorjaar 2026 een reeks firmware-updates uit die het optimalisatie-algoritme — Sessy Radar — op belangrijke punten hebben veranderd. Genoeg reden voor een apart artikel.
+Rond de Sessy circuleert hardnekkig de term "Sessy Radar", meestal als naam voor een slim algoritme dat de batterij automatisch op de uurprijzen laat handelen. Wij hebben dat op 21 augustus 2026 nagelopen op de eigen kanalen van de fabrikant: op sessy.nl komt geen functie, modus of algoritme met die naam voor. Wat de batterij wél kan, heet anders — en is concreter dan de mythe.
 
-Want "algoritme" klinkt als een zwarte doos die je maar moet vertrouwen. In dit artikel leggen we uit wat Radar volgens de documentatie van Dutch New Energy doet, welke beslissingen het per uur neemt, wat de updates concreet toevoegen en wat dat volgens modelberekeningen kan opleveren. Basis: de release-informatie en handleiding van Sessy, publieke EPEX-data, leveranciersvoorwaarden en geverifieerde gebruikersreviews.
+Dit artikel beschrijft de software van de Sessy op basis van wat Charged, de Nederlandse fabrikant uit Andelst, zelf publiceert: de productpagina, de handleidingensectie en de publieke firmware-updatepagina, opgehaald op 21 augustus 2026. Waar iets niet publiek is, staat dat er als zodanig bij.
 
-*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Sessy of Charged en verdienen niets aan de links in dit artikel.*
 
----
+> **Kort antwoord:** "Sessy Radar" bestaat niet. De Sessy kent vier toepassingen die de fabrikant zelf benoemt: zelfverbruik, sturen op een dynamisch tarief, handelen op de onbalansmarkt en het voorkomen van netcongestie. De software zit zonder abonnement bij het product, firmware-updates worden publiek gedocumenteerd (nieuwste versie 1.11.14 van 22 juni 2026) en er is een Open API voor Home Assistant en Homey.
 
+## Waar de naam "Radar" waarschijnlijk vandaan komt
 
-> **Kort antwoord:** Deep-dive Sessy Radar algoritme — hoe Sessy de marktprijzen volgt, wat de update brengt, en koppeling met dynamisch contract.
->
-> Sessy Radar is het geïntegreerde optimalisatie-algoritme in de Sessy thuisbatterij. Het analyseert de EPEX day-ahead prijzen voor de komende 24–48 uur en bepaalt automatisch wanneer de batterij laadt (goedkope uren) en ontlaadt (dure uren). Je hoeft zelf niets in te stellen.
+Twee dingen lopen hier door elkaar. Radar is in Nederland vooral bekend als het consumentenprogramma van AVROTROS, dat regelmatig over energiecontracten en thuisbatterijen bericht. En Zonneplan, een andere partij in dit segment, stuurt zijn batterijen aan met wat het zelf "slimme aansturing" noemt. In samenvattingen en forumdiscussies raken die twee makkelijk verstrengeld tot een productnaam die nooit heeft bestaan.
 
-## Wat is de Sessy thuisbatterij in 2026?
+Het praktische gevolg is niet onschuldig. Wie op zoek gaat naar de instellingen van "Radar" in de Sessy-app vindt niets, en wie een batterij koopt omdat een artikel een handelsalgoritme met die naam beschrijft, koopt op een verkeerde verwachting. Daarom eerst de namen die de fabrikant zelf gebruikt.
 
-Eerst de basisfeiten, voordat we inzoomen op Radar.
+## De vier toepassingen die Charged noemt
 
-De Sessy is een Nederlandse thuisbatterij, ontwikkeld door Dutch New Energy (onderdeel van Featurespace/Seeder labs, gevestigd in Amsterdam). De Sessy is ontworpen als een betaalbare maar intelligente thuisbatterij specifiek voor de Nederlandse markt — met EPEX-koppeling als onderscheidend kenmerk dat bij de meeste concurrenten ontbreekt of later is toegevoegd.
+Op de productpagina van Sessy staan vier manieren waarop de batterij waarde levert. Ze sluiten elkaar niet uit, maar ze vragen wel verschillende dingen van je contract en je installatie.
 
-**Technische specs 2026 (Sessy Gen 2):**
-| Spec | Waarde |
-|------|--------|
-| Capaciteit | 5 kWh bruikbaar |
-| Laad/ontlaad-vermogen | 3 kW |
-| Round-trip efficiency | 92–94% |
-| Batterijchemie | LFP (LiFePO4) |
-| Levensduur cycli | 6.000 cycli tot 80% |
-| Garantie | 10 jaar |
-| Gewicht | 59 kg |
-| Afmetingen | 58 × 24 × 52 cm (wand) |
-| Connectiviteit | Wifi, P1-poort |
-| Prijs 2026 | **€3.999** |
+**Zelfverbruik.** De batterij slaat zonnestroom op die je anders zou terugleveren, en levert die later op de dag aan je huis. De waarde per kWh is het verschil tussen wat je voor afname betaalt en wat je voor teruglevering krijgt. Zolang de saldering bestaat, is dat verschil klein en is deze modus financieel weinig waard. Per 1 januari 2027 stopt de saldering volledig, en dan wordt dit voor de meeste huishoudens juist de belangrijkste functie van de batterij.
 
-**[Bekijk Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy)**
+**Sturen op een dynamisch tarief.** Bij een contract waarbij de uurprijzen worden doorgegeven, kan de batterij laden op goedkope uren en het huis voeden op dure uren. Dit vraagt een dynamisch contract; zonder doorgegeven uurprijzen is er geen prijssignaal om op te sturen.
 
----
+**Onbalanshandel.** De batterij kan meedoen aan het opvangen van onbalans op het elektriciteitsnet — het verschil tussen wat er op enig moment wordt geproduceerd en verbruikt. Dit loopt via een partij met toegang tot die markt, niet via jouw eigen contract met een leverancier. Charged noemt de functie, maar publiceert geen opbrengstcijfers per huishouden. Wij nemen daarom geen bedrag op.
 
-## Sessy Radar: het algoritme uitgelegd
+**Netcongestiepreventie.** De batterij kan afname en teruglevering afvlakken zodat je aansluiting minder piekt. Dat is vooral relevant op plekken waar het net vol zit, en bij aansluitingen waar de piek meetelt in de kosten.
 
-### Hoe werkt Radar op hoofdlijnen?
+## Wat de software niet is
 
-Sessy Radar is een multi-step optimalisatie-algoritme dat dagelijks meerdere malen draait. De kern is een lineair programmeringsprobleem: gegeven de EPEX-prijsdata voor de komende 24 uur, de huidige batterijlading, het verwachte verbruiksprofiel en de beschikbare capaciteit — bepaal het optimale laad- en ontlaad-schema dat de netto energiekosten minimaliseert.
+Twee misverstanden zijn het waard om expliciet weg te nemen.
 
-Dit klinkt simpel maar bevat meerdere lagen van complexiteit.
+Het is geen zwarte doos die per definitie geld verdient. Op vlakke prijsdagen levert een cyclus niets op, en elke cyclus kost een fractie van de levensduur. De Sessy heeft volgens de fabrikant een garantie van 6.000+ cycli of maximaal tien jaar — dat is ruim, maar niet oneindig.
 
-### Stap 1: Dataverzameling (elk uur vernieuwd)
+Het is ook geen handelsplatform waar jij zelf posities inneemt. De optimalisatie draait op je eigen verbruik en de gepubliceerde marktprijzen; jij kiest de modus, niet de individuele transactie.
 
-Radar trekt realtime de volgende inputs:
-- **EPEX day-ahead prijzen** voor de komende 24–48 uur (gepubliceerd om 12:00 voor de volgende dag)
-- **P1-meterdata** (als je een P1-poort hebt) — realtime nettoverbruik en zonne-energieproductie
-- **Sessy-app-data** — huidig laadniveau, batterijgezondheid, temperatuur
+## Firmware: wat er publiek wordt gedocumenteerd
 
-### Stap 2: Verbruiksprofielschatting
+Dit is een van de sterkere punten van dit merk, en het is makkelijk over het hoofd te zien. Charged houdt een publieke firmware-updatepagina bij waarop elke versie met datum en wijziging staat. Dat maakt het mogelijk om te controleren wat er in jouw batterij is veranderd, in plaats van te vertrouwen op wat een verkoper zegt.
 
-Hier zit de machine learning component. Sessy leert na 2–4 weken gebruik jouw huishoudprofiel: wanneer gebruik jij typisch veel stroom, wanneer weinig? Wanneer zijn je zonnepanelen actief?
+Stand op 21 augustus 2026:
 
-De 2026-update heeft deze voorspelmodule aanzienlijk verbeterd. Het systeem gebruikt nu een rolling window van 14 dagen historische data (was 7 dagen in 2024) en weegt weekdagen en weekenden apart. Dit resulteerde intern in 8–12% betere voorspelnauwkeurigheid in de beta-tests voor de update.
+| Versie | Datum | Wijziging volgens Charged |
+|---|---|---|
+| 1.11.14 | 22-06-2026 | Verbeterde "unrecoverable"-statusdetectie via een eigen coulombteller; robuustere beveiliging, minder valse meldingen |
+| 1.11.13 | 08-06-2026 | Betere portaalverbinding, voorkomt onterechte offline-meldingen |
+| 1.11.12 | 03-06-2026 | Kleine stabiliteitsverbeteringen |
+| 1.11.11 | 03-04-2026 | Voorkomt dat het systeem onterecht in "unrecoverable"-status gaat |
 
-**Praktisch effect:** de Sessy verspreidt de laadmomenten beter over meerdere goedkope uren in plaats van één groot blok, waardoor de batterij soepeler aansluit op je werkelijke verbruikspatroon.
+De lijst loopt chronologisch terug tot versie 1.0.0 uit december 2022. Wat opvalt aan de releases van 2026 is dat het onderhoudswerk betreft — statusdetectie, verbindingsstabiliteit — en geen nieuwe handelsfuncties. Wie ergens leest over versienummers in de 3.x-reeks met nieuwe optimalisatiemodi: die staan niet op de officiële updatepagina.
 
-### Stap 3: Optimalisatie
+Updates zijn volgens Charged inbegrepen; er is geen abonnement voor de software.
 
-Gegeven de inputs berekent Radar per uur of het beter is om:
-- **Te laden** (net → batterij) bij lage prijs
-- **Te ontladen** (batterij → huis) bij hoge prijs, zodat minder van het net wordt afgenomen
-- **Terug te leveren** (batterij → net) als je leverancier dat vergoedt op spotprijs
-- **Niets te doen** (als prijzen gemiddeld zijn en batterij al vol/leeg is)
+## Open API: koppelen aan Home Assistant en Homey
 
-De optimalisatie houdt rekening met:
-- **Round-trip efficiency** (laden + ontladen = 92–94% efficiënt, de rest is warmteverlies)
-- **Degradatiekosten** — elke cyclus slijt de batterij een kleine fractie; de optimizer rekent dit mee (verwachte vervangingskosten gedeeld door levensduurcycli)
-- **Minimum State of Charge (SoC)** — Radar houdt standaard 10% reserve aan als noodstroom buffer
-- **Temperatuurcompensatie** — bij koud weer (winternacht) daalt de capaciteit licht; het algoritme compenseert
+De Sessy heeft een Open API. Dat betekent dat je de batterij kunt uitlezen en aansturen vanuit een eigen domotica-omgeving zoals Home Assistant of Homey, in plaats van uitsluitend via de app van de fabrikant.
 
-### Stap 4: Uitvoering en monitoring
+Voor een deel van de kopers is dit het doorslaggevende argument, en niet zonder reden. Een gesloten systeem is afhankelijk van de levensduur van één app en één cloudkoppeling; een open API laat je zelf bepalen hoe de batterij in de rest van je installatie past — bijvoorbeeld samen met een warmtepomp, een laadpaal of een P1-uitlezing van een andere fabrikant.
 
-Na het plannen stuurt Radar opdrachten naar de laad/ontlaad-controller van de Sessy. De planning wordt elk uur herberekend op basis van nieuwe EPEX-data en actueel verbruik. Dit is "rolling optimization" — het plan is nooit definitief maar past zich continue aan.
+Wat wij niet kunnen vaststellen op basis van de publieke documentatie, is hoe volledig de API is: welke aansturing precies mogelijk is en welke uitsluitend in de app zit. Vraag dat na bij de leverancier als je een specifieke koppeling voor ogen hebt.
 
----
+## De hardware waarop de software draait
 
-## De 2026 software-updates: wat er concreet veranderd is
+Voor de context, met de opgave van de fabrikant (stand 21 augustus 2026):
 
-Dutch New Energy heeft in de periode oktober 2025 – maart 2026 vier significante firmware-updates uitgebracht.
+| Spec | Opgave Charged |
+|---|---|
+| Capaciteit | 5 kWh, 10 kWh; 15 kWh (Sessy Plus) |
+| Laadvermogen | 2,2 kW |
+| Ontlaadvermogen | 1,7 kW |
+| Chemie | LFP (lithium-ijzerfosfaat) |
+| Cycli/garantie | 6.000+ cycli of maximaal 10 jaar |
+| Afmetingen 5 kWh | 41 × 20 × 67 cm |
+| Afmetingen 10 kWh | 41 × 27 × 78 cm |
+| Adviesprijs | €3.550 (5 kWh) / €5.500 (10 kWh) / €9.400 (Plus 15 kWh), incl. btw, excl. installatie |
+| Koppeling | Werkt met 1- en 3-fase omvormers van elk merk |
 
-### Update v3.4 (oktober 2025): intraday marktkoppeling
-
-Naast day-ahead data (prijzen voor morgen) kan Sessy nu ook intraday EPEX-data (prijzen voor de komende uren op dezelfde dag) gebruiken als referentie. In de praktijk zijn de meeste afwijkingen tussen day-ahead en intraday beperkt (<8%), maar bij onverwachte weersveranderingen (plotse bewolking bij voorspelde zonnige dag) kan de intraday prijs significant afwijken.
-
-**Effect:** Sessy kan haar plan aanpassen als de prijsverwachting binnen de dag omslaat, bijvoorbeeld bij onverwachte bewolking of een plotselinge windpiek. Gebruikers melden dat het geplande ontlaadmoment daardoor soms een of twee uur opschuift ten opzichte van de oorspronkelijke day-ahead planning.
-
-### Update v3.5 (december 2025): verbeterd P1-integratie
-
-De P1-koppeling (via de P1-poort van je slimme meter) is verbeterd in responstijd. Was de vorige versie 30-seconden polling, nu is het 10-seconden polling. Dit klinkt technisch, maar betekent dat de Sessy sneller reageert op plotselinge verbruikspieken (bijv. je zet een waterkoker aan).
-
-**Effect:** minder netto-importpieken bij plotselinge verbruiken en een betere aansluiting op het eigenverbruikspatroon. Een exact percentage verbetering is niet publiek gedocumenteerd; wij noemen daarom geen cijfer.
-
-### Update v3.7 (februari 2026): nieuwe combi-modus
-
-Dit is de meest impactvolle update van 2025-2026. De nieuwe "combi-modus" combineert twee strategieën die voorheen apart werden uitgedacht:
-1. **Solar-maximalisatie** (eigenverbruik van zonne-energie optimaliseren)
-2. **EPEX-arbitrage** (goedkoop laden, duur ontladen)
-
-In de oude versie kon dit conflicteren: de EPEX-optimizer wilde de batterij leeg houden voor een goedkoop nachtelijk laadmoment, terwijl er 's middags zonne-energie beschikbaar was die niet werd opgeslagen.
-
-De combi-modus lost dit op door een gewogen doelstelling: de optimizer maximaliseert de combinatie van solar-eigenverbruik (waarde = vermeden inkoop) en EPEX-arbitrage (waarde = prijsverschil), met solar-eigenverbruik als hogere prioriteit als de EPEX-marge klein is.
-
-**Wat dat praktisch betekent:**
-- Vóór de combi-modus kon een batterij op een zonnige winterdag 's middags leeg blijven wachten op de avondpiek, terwijl er op datzelfde moment zonnestroom werd teruggeleverd die opgeslagen had kunnen worden. Dat is precies de klacht die in gebruikersreviews van de oudere firmware terugkomt.
-- Met de combi-modus laadt de batterij ook op zonne-energie wanneer de opbrengst voldoende is, óók als er 's avonds een aantrekkelijke EPEX-piek in de planning staat. De optimizer weegt beide waarden tegen elkaar af in plaats van één strategie te laten winnen.
-
-### Update v3.8 (maart 2026): teruglevering bij negatieve EPEX
-
-De meest controversiële update. Sessy kan nu de batterij actief ontladen naar het net (teruglevering) als de EPEX-spotprijs boven een door de gebruiker ingestelde drempel ligt.
-
-Dit vereist dat je energieleverancier teruglevering vergoedt op het spotprijs-tarief. Bij Tibber is dit het geval.
-
-**Rekenvoorbeeld (modelberekening met deze aannames):**
-- 18:00: EPEX-prijs €0,32/kWh (na belasting en transport)
-- Sessy laadniveau: 80%
-- Sessy levert terug: 2 kW × 1 uur = 2 kWh × €0,32 = **€0,64 ontvangen**
-- Daarna laadt Sessy op om 02:00 bij €0,06/kWh: 2 kWh × €0,06 = **€0,12 kosten**
-- **Netto opbrengst per cyclus: €0,52**
-
-Bij 50 van dergelijke momenten per jaar — plausibel in wintermaanden met hoge volatiliteit — komt het model uit op **circa €26 per jaar extra**. Bescheiden dus, maar het kost je niets extra behalve wat batterijcycli.
-
-**Aandachtspunt:** niet alle netbeheerders staan onbeperkt teruglevering toe. Controleer of jouw netbeheerder terugleveren via batterij toestaat en of je leverancier het op spotprijs-tarief vergoedt.
-
----
-
-## Sessy Radar vs. concurrenten: eerlijke vergelijking
-
-De EPEX-optimalisatie van Sessy is haar grootste onderscheidende eigenschap. Maar hoe verhoudt dit zich tot concurrenten?
-
-| Thuisbatterij | EPEX-koppeling | Eigenverbruiksoptimalisatie | P1-integratie | Teruglevering spotprijs |
-|--------------|---------------|---------------------------|---------------|------------------------|
-| **Sessy** | ✅ Volledig | ✅ Combi-modus | ✅ 10 sec polling | ✅ (v3.8) |
-| **Huawei Luna** | ❌ (alleen eigenverbruik) | ✅ Excellent | ✅ Via FusionSolar | ❌ Geen native |
-| **VARTA Element** | ❌ | ✅ Goed | ✅ Via EMS | ❌ |
-| **Sonnen eco** | Beperkt (vaste tariefvensters) | ✅ Goed | ✅ | ❌ |
-| **Enphase IQ Battery** | ❌ | ✅ Via Enlighten | ✅ | ❌ |
-| **SolarEdge Home** | ❌ | ✅ Via SolarEdge API | ✅ | ❌ |
-
-Sessy is in 2026 de enige betaalbare thuisbatterij in Nederland met native EPEX day-ahead koppeling én teruglevering op spotprijs. Dit is haar sterkste argument.
-
-**Wanneer kies je Sessy Radar boven Huawei Luna?**
-- Je hebt een dynamisch contract (Tibber, Frank Energie) en wil EPEX-arbitrage
-- Zonnepanelen zijn kleiner (<4 kWp) — eigenverbruiksoptimalisatie is dan minder dominant
-- Je wil actief arbitreren, ook zonder zonnepanelen
-
-**Wanneer kies je Huawei Luna boven Sessy?**
-- Je hebt een Huawei SUN2000 omvormer (naadloze DC-koppeling)
-- Grote zonnepaneelinstallatie (>6 kWp) — eigenverbruik is dan al voldoende arbitrage
-- Je wil de beste monitoring-app van de markt
-
----
-
-## Wat kan Sessy Radar opleveren? Een modelberekening
-
-Onderstaande berekening is een model met expliciete aannames, geen meting aan een bestaande installatie. Uitgangspunt: Sessy Gen 2 (5 kWh bruikbaar), een tussenwoning met circa 4,8 kWp zonnepanelen en een dynamisch contract waarbij de uurprijzen worden doorgegeven.
-
-**Aannames:**
-- Bruikbare arbitragecapaciteit per cyclus: 5 kWh, minus 10% minimum-SoC-reserve en circa 7% rondgangsverlies → effectief circa 4,2 kWh per cyclus.
-- Bruikbaar prijsverschil (all-in, dus inclusief energiebelasting en btw) tussen het laadmoment en het vermeden afnamemoment: gemiddeld €0,10-€0,14/kWh. In de winter is de spread groter, in de zomer kleiner.
-- Aantal cycli waarop arbitrage daadwerkelijk iets oplevert: circa 200 per jaar. Op vlakke prijsdagen levert een cyclus niets op en slaat de optimizer die over.
-
-**Uitkomst:**
-- Per productieve cyclus: 4,2 kWh × €0,10 tot €0,14 = **€0,42 tot €0,59**
-- Op jaarbasis: 200 × €0,42 tot €0,59 = **circa €85 tot €120 per jaar** uit zuivere EPEX-arbitrage
-
-Reken je met een ruimere spread (€0,18/kWh gemiddeld, realistisch in een winter met veel volatiliteit) en 250 productieve cycli, dan komt het model uit rond €190 per jaar. De bandbreedte is dus breed, en dat is inherent: de opbrengst is een functie van de marktvolatiliteit in dat specifieke jaar, en die is niet vooraf bekend.
-
-De opbrengst uit solar-eigenverbruik komt hier bovenop en is een andere rekensom: die hangt af van je zonproductie, je verbruikspatroon en het verschil tussen afnameprijs en terugleververgoeding — zie ons artikel over de [terugverdientijd van een thuisbatterij](/posts/thuisbatterij-terugverdientijd-berekenen-2026/).
-
----
-
-## Praktische setup: Sessy Radar correct configureren
-
-### Stap 1: Koppel je dynamische leverancier
-
-In de Sessy-app (Instellingen → Energiecontract):
-- Kies Tibber, Frank Energie of ANWB Energie
-- Autoriseer de Sessy-app om uurprijsdata te lezen via OAuth
-- Sessy begint direct met optimaliseren op basis van dag-ahead data
-
-### Stap 2: Koppel je P1-meter
-
-Verbind een HomeWizard P1-meter of vergelijkbare P1-reader via de Sessy-app. Dit geeft Sessy realtime inzicht in je nettoverbruik, waardoor de eigenverbruiksoptimalisatie nauwkeuriger is.
-
-Kosten P1-meter: €30–€49 (HomeWizard, DSMR-reader).
-
-### Stap 3: Stel minimum SoC in
-
-Standaard houdt Sessy 10% in reserve. Als je de Sessy ook als noodstroom wil gebruiken bij stroomstoring, stel dan een hogere minimum-SoC in (bijv. 20–30%). Dit verlaagt de effectieve arbitrage-capaciteit licht maar geeft buffer.
-
-### Stap 4: Activeer teruglevering (v3.8)
-
-Ga naar Instellingen → Geavanceerd → Teruglevering naar net. Stel een drempelprijs in boven welke Sessy mag terugleveren. Beginadvies: start bij €0,28/kWh om te zien hoe vaak dit in jouw situatie voorkomt.
-
-### Stap 5: Monitor en bijsturen
-
-In de Sessy-app zie je per dag het laad-/ontlaad-schema, de gerealiseerde prijzen en de berekende besparing. Controleer de eerste twee weken of het schema logisch aansluit op jouw gebruiksprofiel. Correcties zijn mogelijk via "Gebruiksprofiel overschrijven."
-
----
-
-## Beperkingen en eerlijke kanttekeningen
-
-**Sessy Radar is geen magische machine.** Dit zijn de structurele beperkingen van dit type optimalisatie:
-
-**1. Forecasting-fouten bij onverwachte weersveranderingen**
-Radar plant op basis van verwachtingen. Slaat het weer om — een onverwachte storm levert plotseling veel windenergie, waardoor de avondprijs juist keldert in plaats van piekt — dan blijkt een eerder ontlaadbesluit achteraf suboptimaal. Dit is inherent aan optimaliseren op een voorspelling en niet met software op te lossen; het gaat om incidentele dagen, niet om een structureel verlies.
-
-**2. Teruglevering niet overal vergoed**
-Niet alle leveranciers vergoeden teruglevering op de live spotprijs. Check je contract. Bij vaste teruglevering (bijv. €0,08/kWh vast) is teruglevering via Sessy minder aantrekkelijk of zelfs verliesgevend bij lage inkoopprijzen.
-
-**3. Degradatiekosten zijn aanwezig**
-Elke laad/ontlaad-cyclus kost batterijlevensduur. Sessy rekent dit mee in de optimizer, maar de aangenomen degradatiekosten per cyclus zijn conservatief ingesteld. In de praktijk kan de batterij sneller degenereren als je dagelijks één volle cyclus draait. Na 6.000 cycli (de gespecificeerde levensduur) is de batterijcapaciteit naar 80% gedaald.
-
----
-
-## Conclusie: Sessy Radar is de beste EPEX-optimizer op de thuisbatterijmarkt
-
-Op basis van de functievergelijking hierboven is ons redactionele oordeel positief en specifiek: Sessy Radar is in 2026 de meest complete EPEX-optimizer in deze prijsklasse op de Nederlandse thuisbatterijmarkt. De combi-modus (solar + arbitrage), de teruglevering-functie en de verbeterde P1-integratie maken de Sessy de beste keuze voor wie een dynamisch contract heeft en serieus wil arbitreren op de spotmarkt.
-
-Het is geen universele winnaar: voor wie enkel eigenverbruik wil optimaliseren met een grote PV-installatie is Huawei Luna mogelijk efficiënter door de betere DC-koppeling. Maar voor EPEX-first gebruik is de Sessy ongeëvenaard in zijn prijsklasse.
-
-Wel een kanttekening bij het rendement: op de modelmatige €85 tot €190 per jaar uit pure EPEX-arbitrage is een Sessy van €3.999 niet terug te verdienen — dat zou 20 jaar of meer duren. De business case draait daarom op de combinatie: arbitrage plus de besparing op eigenverbruik van zonnestroom, die na de afbouw van de saldering flink zwaarder gaat wegen. Zie de paragraaf hieronder over 2027.
-
----
-
+Let op het ontlaadvermogen van 1,7 kW. Dat is bescheiden: een waterkoker en een oven tegelijk trekken meer dan de batterij kan leveren, dus de rest komt van het net. Bij het inschatten van wat de software voor je kan doen, is dat een hardere grens dan het algoritme.
 
 <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
-## Wat voegt de EPEX-koppeling toe boven pure eigenverbruiksoptimalisatie?
+## Wat optimaliseren op uurprijzen modelmatig oplevert
 
-Dit is de kernvraag bij de Sessy, want een batterij zonder EPEX-koppeling optimaliseert alleen op eigenverbruik van zonnestroom. Onderstaande vergelijking is een modelberekening voor het winterkwartaal, de periode waarin het verschil het grootst is.
+Onderstaande berekening is een model met expliciete aannames, geen meting aan een bestaande installatie.
 
-**Aannames voor een winterkwartaal (januari-maart), 4,8 kWp PV, 5 kWh batterij:**
+**Aannames:** Sessy 5 kWh, waarvan na een reserve-instelling en rondgangsverlies circa 4 kWh per cyclus bruikbaar is voor arbitrage. All-in prijsverschil (dus inclusief energiebelasting en btw) tussen het laadmoment en het vermeden afnamemoment: €0,10 tot €0,14 per kWh. Aantal cycli waarop arbitrage daadwerkelijk iets oplevert: circa 200 per jaar; op vlakke prijsdagen levert een cyclus niets op.
 
-*Zonder EPEX-koppeling (alleen eigenverbruik):* de zonproductie is in deze maanden laag, dus er is weinig om te bufferen. Bij circa 90 kWh die je in het kwartaal via de batterij zelf verbruikt in plaats van teruglevert, en een waardeverschil van circa €0,24/kWh tussen afname en teruglevering, komt dat op **circa €22 in het kwartaal**.
+**Uitkomst:** 4 kWh × €0,10 tot €0,14 = €0,40 tot €0,56 per productieve cyclus, oftewel circa €80 tot €115 per jaar uit pure prijsarbitrage.
 
-*Met EPEX-koppeling:* de batterij kan daarnaast dagelijks een netcyclus draaien op het prijsverschil tussen nacht en avondpiek. Bij circa 70 productieve cycli in een winterkwartaal, 4,2 kWh effectief per cyclus en een all-in spread van €0,12/kWh: **circa €35 extra in het kwartaal**.
+Dat is bewust een smalle uitkomst, en het is de eerlijke: op €80 tot €115 per jaar is een batterij van €3.550 niet terug te verdienen. De business case draait op de optelsom met eigenverbruik, en die component wordt pas echt zwaar zodra de saldering per 1 januari 2027 wegvalt. Hoe die rekensom er in jouw situatie uitziet, kun je narekenen met onze [terugverdientijd-berekening voor thuisbatterijen](/terugverdientijd-thuisbatterij/).
 
-**Modelmatig verschil: de EPEX-koppeling voegt in een winterkwartaal ruwweg €35 toe** — meer dan een verdubbeling van de kwartaalwaarde. Over een heel jaar is het verschil relatief kleiner, omdat de zomer juist het omgekeerde patroon geeft: veel eigenverbruikswaarde, lage volatiliteit. Wie geen dynamisch contract heeft of niet wil, laat deze component volledig liggen — dan is de meerwaarde van Radar boven een gewone batterij beperkt tot de eigenverbruiksoptimalisatie die de concurrentie ook biedt.
+Ter referentie voor de volatiliteit waarop dit soort optimalisatie leunt: in 2025 lag het jaargemiddelde van de day-ahead prijs op €0,105 per kWh, waren er 212 uren met een negatieve prijs, en piekte het duurste uur op €0,63 (20 januari 2025, 17:00 uur).
 
----
+## Wat wij zouden nagaan vóór aanschaf
 
-## Sessy in 2027: de saldering-afbouw als businessgeval
+1. **Welke modus je realistisch gaat gebruiken.** Zonder dynamisch contract valt de arbitragecomponent weg en blijft alleen zelfverbruik over.
+2. **Of je leverancier teruglevering vergoedt op het uurtarief**, als je op teruglevering wilt sturen. Dat verschilt per contract en staat niet in de batterij.
+3. **Of het ontlaadvermogen van 1,7 kW bij je verbruikspatroon past.** Bij een huishouden met een warmtepomp of laadpaal is dat een reële beperking.
+4. **Of je de Open API nodig hebt**, en zo ja: welke aansturing er precies in zit. Vraag dit schriftelijk na.
+5. **Wat installatie kost.** De genoemde prijzen zijn exclusief installatie; noodstroom als functie vraagt een basisinstallatie die volgens de fabrikant €1.200 kost.
 
-De salderingsregeling vervalt per 2027. Dit verandert de waarde van een thuisbatterij fundamenteel.
+## Conclusie
 
-Zolang je kunt salderen, is elke teruggeleverde kWh vrijwel evenveel waard als een afgenomen kWh — en dan verdient een batterij weinig terug. Verdwijnt de saldering, dan ontstaat er een gat tussen wat je voor teruglevering krijgt en wat je voor afname betaalt. Precies dat gat is de waarde die een batterij kan oogsten.
+De Sessy is softwarematig sterker dan gemiddeld in dit segment, maar om andere redenen dan de mythe suggereert. Er is geen "Radar"-algoritme. Er zijn vier benoemde toepassingen, een publiek bijgehouden firmwarelijst, geen abonnement en een Open API — en dat is bij elkaar een transparanter softwareverhaal dan de meeste concurrenten publiceren.
 
-**Modelberekening voor de situatie na 2027 (aannames: PV 4,8 kWp, 5 kWh batterij, afnameprijs €0,28/kWh, terugleververgoeding €0,05/kWh):**
-
-- Zonnestroom die je zonder batterij zou terugleveren en met batterij zelf verbruikt: circa 1.100 kWh per jaar
-- Waardeverschil per kWh: €0,28 − €0,05 = €0,23
-- Extra jaarwaarde eigenverbruik: 1.100 × €0,23 = **circa €250**
-- Plus EPEX-arbitrage volgens de eerdere modelberekening: **€85 tot €190**
-- **Totaal modelmatig: circa €335 tot €440 per jaar**
-
-Bij een aanschafprijs van €3.999 komt dat neer op een terugverdientijd van ruwweg negen tot twaalf jaar — een lange horizon, maar wel binnen de opgegeven levensduur van 6.000 cycli en met tien jaar garantie. De richting is in ieder geval duidelijk: de business case van een thuisbatterij wordt beter naarmate de saldering verder afbouwt, niet slechter. Alle bedragen hierboven zijn modelmatig en staan of vallen met de energieprijzen en terugleververgoeding die dan gelden.
-
-**[Bekijk Sessy thuisbatterij](https://go.duurzaamthuislab.nl/sessy)**
+De begrenzing zit in de hardware, niet in de code: 1,7 kW ontlaadvermogen en 5 tot 15 kWh capaciteit bepalen wat er te optimaliseren valt. Wie op basis van de software een verdienmodel verwacht, komt bedrogen uit; wie een batterij zoekt die controleerbaar en koppelbaar is, zit hier goed.
 
 ## Gerelateerde artikelen
 
-- [Huawei Luna vs Tesla Powerwall vs Sessy 2026](/posts/huawei-luna-vs-tesla-powerwall-vs-sessy-2026/)
-- [Sessy review 2026: eerlijke test van de Nederlandse](/posts/sessy-review-thuisbatterij-nederland/)
-- [Thuisbatterij Zonder Zonnepanelen: Heeft Het Zin in 2027?](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/)
-- [Beste 10 kWh thuisbatterij 2026: vergelijking 7 topmerken](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
-- [Thuisbatterij binnen of buiten plaatsen: veilig 2026](/posts/thuisbatterij-buiten-vs-binnen-installeren-2026/)
+- [Sessy review 2026](/posts/sessy-review-thuisbatterij-nederland/)
+- [Sessy versus Marstek](/posts/sessy-vs-marstek-vergelijking-2026/)
+- [Thuisbatterij zonder zonnepanelen: heeft het zin in 2027?](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/)
+- [Beste 10 kWh thuisbatterij 2026](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
+- [Thuisbatterij binnen of buiten plaatsen](/posts/thuisbatterij-buiten-vs-binnen-installeren-2026/)
 
----
-
-**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt (thuisbatterijen, zonnepanelen en laadpalen vallen er niet onder).
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van welke maatregelen de ISDE wel en niet dekt. Thuisbatterijen vallen er niet onder.

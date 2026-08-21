@@ -1,8 +1,8 @@
 ---
-title: 'BYD Battery-Box Review 2026: Chinese Reus in Nederland'
+title: 'BYD Battery-Box (2026): waarom de omvormer de prijs bepaalt'
 date: 2026-07-02 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: 'BYD Battery-Box Premium HVS review: wij analyseren de Chinese hoogvolt-thuisbatterij op specificaties, prijs, betrouwbaarheid en alternatieven voor de Nederlandse markt.'
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'BYD Battery-Box Premium HVS in de Nederlandse markt: DC-gekoppeld, modulair en efficiënt, maar alleen bruikbaar achter een compatibele hybride omvormer. Wat dat met de totaalprijs doet.'
 draft: false
 categories:
 - thuisbatterijen
@@ -11,336 +11,183 @@ tags:
 - Battery-Box
 - thuisbatterij
 - HVS
-- review
+- hybride omvormer
 keywords:
 - byd battery-box review
 - byd hvs nederland
 - byd thuisbatterij prijs
 - byd vs sessy
 - byd battery-box premium
-- byd 10 kwh
-- byd lvs
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1516192518150-0d8fee5425e3&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: false
 faq:
-- q: 'Wat is BYD Battery-Box?'
-  a: BYD Battery-Box is een modulaire DC-gekoppelde thuisbatterij van het Chinese BYD (Build Your Dreams). Verkrijgbaar in HVS (hoogvolt 5,1 kWh modules) en LVS (laagvolt 4 kWh modules) varianten, modulair tot 22+ kWh.
+- q: 'Wat is de BYD Battery-Box?'
+  a: 'Een modulaire, DC-gekoppelde thuisbatterij van het Chinese BYD. De lijn kent een hoogvolt-variant (HVS) en een laagvolt-variant (LVS), beide opgebouwd uit modules die je kunt stapelen. Anders dan een AC-gekoppelde batterij werkt dit systeem niet zelfstandig: het hangt aan een hybride omvormer die de aansturing doet.'
 - q: 'Wat kost een BYD Battery-Box in Nederland?'
-  a: Een BYD HVS 5.1 kost circa €3.200, HVS 10.2 kWh circa €5.500. Inclusief installatie liggen prijzen €1.000-€1.500 hoger. Plus een hybride omvormer (SMA, Fronius of Goodwe) van €1.500-€2.500.
-- q: 'Is BYD Battery-Box veilig?'
-  a: Ja, BYD gebruikt LFP-chemie (lithium-ijzer-fosfaat) — brandveiliger dan NMC. De batterij is TÜV gecertificeerd. Wel zijn er in 2020-2021 enkele branden gemeld in Australië bij oudere LVS modellen, sindsdien is het ontwerp aangepast.
-- q: 'Werkt BYD met mijn bestaande zonnepanelen?'
-  a: Alleen met een compatibele hybride omvormer. Heb je een string-omvormer zonder batterij-ingang, dan moet je die vervangen of een AC-koppeling toevoegen. Goedkoper alternatief is dan Sessy of Marstek (AC-gekoppeld).
+  a: 'BYD publiceert geen consumentenprijzen; verkoop loopt via distributeurs en installateurs. De prijs die je betaalt is bovendien niet alleen de batterij: zonder geschikte hybride omvormer komt daar een omvormer bij, plus de vervanging van je bestaande omvormer. Vraag daarom een offerte waarin batterij, omvormer, materiaal en arbeid apart staan.'
+- q: 'Werkt de BYD met mijn bestaande zonnepanelen?'
+  a: 'Alleen met een compatibele hybride omvormer. Heb je een gewone string-omvormer zonder batterij-ingang of een micro-omvormersysteem, dan moet je die vervangen of een andere route kiezen. In dat geval is een AC-gekoppelde batterij zoals de Sessy doorgaans aanzienlijk goedkoper voor hetzelfde resultaat.'
 - q: 'Wat is het verschil tussen HVS en LVS?'
-  a: 'HVS (High Voltage System) = 5,1 kWh per module, hoge spanning, efficiënter, geschikt voor grote systemen. LVS = 4,0 kWh per module, lage spanning, eenvoudiger en goedkoper. Voor de meeste Nederlandse woningen is HVS de betere keuze.'
-- q: 'Krijg ik garantie van een Chinees bedrijf?'
-  a: BYD geeft 10 jaar fabrieksgarantie op de Battery-Box. Garantieafhandeling loopt via de Nederlandse importeur (vaak Memodo of Solar Today). In de praktijk werkt dat redelijk, maar soms duurt het 6-8 weken voor een vervangingsmodule arriveert.
+  a: 'HVS is de hoogvolt-lijn met modules van circa 5 kWh, gangbaar bij grotere systemen en bij de meeste hybride omvormers die in Nederland worden geplaatst. LVS is de laagvolt-lijn met kleinere modules, eenvoudiger en vaker in off-grid-opstellingen. Welke van de twee bij jou past, wordt in de praktijk bepaald door je omvormer, niet door je voorkeur.'
+- q: 'Hoe zit het met de garantie?'
+  a: 'BYD geeft op deze lijn tien jaar garantie met een gegarandeerde restcapaciteit. Het exacte percentage en de cyclusvoorwaarden staan in het garantieblad van het model dat je koopt; vraag dat document op vóór je tekent, want de voorwaarden verschillen per uitvoering. Garantieafhandeling loopt via je installateur en de Europese distributeur, niet via BYD zelf.'
+- q: 'Is er subsidie op deze batterij?'
+  a: 'Nee. De ISDE dekt geen thuisbatterijen, en het btw-nultarief geldt alleen voor zonnepanelen en de direct noodzakelijke onderdelen daarvan. Op een thuisbatterij betaal je 21% btw, ook bij gelijktijdige plaatsing met panelen. Controleer wel of je eigen gemeente een regeling of duurzaamheidslening heeft.'
+- q: 'Kan de BYD zelfstandig handelen op een dynamisch contract?'
+  a: 'Niet uit zichzelf. De aansturing loopt via je hybride omvormer, en of je daarmee op uurprijzen kunt sturen hangt af van wat dat omvormermerk biedt of van een zelf ingerichte koppeling via bijvoorbeeld Home Assistant. Systemen die dynamische sturing als eigen modus hebben, doen dit zonder inrichtingswerk.'
 products:
-- name: BYD Battery-Box Premium HVS 10.2
+- name: BYD Battery-Box Premium HVS
   url: https://www.bydbatterybox.com/
-  price: '5500'
 - name: Sessy 10 kWh
   url: https://go.duurzaamthuislab.nl/sessy
   price: '5500'
-- name: Frank Energie dynamisch
-  url: https://www.frankenergie.nl/
-  price: '0'
 ---
-De BYD Battery-Box Premium HVS is een van de meest verkochte thuisbatterijen ter wereld, maar in Nederland wordt hij vooral geplaatst als er al een hybride omvormer hangt. Dat maakt de vraag "is BYD een goede keuze?" hier een andere vraag dan in Duitsland of Australië.
+De BYD Battery-Box Premium HVS is een van de meest geplaatste thuisbatterijen ter wereld, maar in Nederland komt hij vooral in beeld als er al een hybride omvormer hangt. Dat maakt de vraag "is BYD een goede keuze?" hier een andere vraag dan in Duitsland of Australië — en het antwoord hangt minder af van de batterij dan van wat er al in je meterkast zit.
 
-Hieronder onze analyse: wat de specificaties beloven, hoe de totaalprijs uitpakt inclusief de vereiste omvormer, hoe BYD zich verhoudt tot Sessy en Powerwall, en voor wie deze batterij in de Nederlandse markt daadwerkelijk de beste keuze is.
+Dit artikel gaat over de specificaties zoals BYD die publiceert, over de systeemeis die de totaalprijs bepaalt, en over wanneer dit systeem in de Nederlandse markt wel en niet logisch is. Wij hebben dit systeem niet zelf geïnstalleerd of doorgemeten. Waar een gegeven niet publiek is, staat dat erbij.
 
-*Disclosure: de links naar Marstek, Sessy en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+*Disclosure: wij hebben met BYD, Charged (Sessy) en de overige in dit artikel genoemde partijen geen affiliate- of commissierelatie en verdienen niets aan de links in dit artikel.*
 
+> **Kort antwoord:** de Battery-Box is degelijke DC-gekoppelde hardware met een hoog rendement op batterijniveau en een modulaire opbouw. De beperking is systemisch: je hebt een compatibele hybride omvormer nodig. Heb je die al, dan is dit een serieuze kandidaat. Heb je die niet, dan komt de vervanging van je omvormer erbij en valt de totaalprijs voor een gemiddeld Nederlands huishouden hoger uit dan bij een AC-gekoppelde batterij.
 
-> **Kort antwoord:** de BYD Battery-Box Premium HVS is premium DC-gekoppelde hardware met een hoog rendement, maar je hebt een compatibele hybride omvormer nodig. Daardoor valt de totaalprijs voor een gemiddeld Nederlands huishouden hoger uit dan bij een AC-gekoppelde Sessy of Marstek.
->
-> BYD Battery-Box is een modulaire DC-gekoppelde thuisbatterij van het Chinese BYD (Build Your Dreams). Verkrijgbaar in HVS (hoogvolt 5,1 kWh modules) en LVS (laagvolt 4 kWh modules) varianten, modulair tot 22+ kWh.
+## Wat is de BYD Battery-Box?
 
-## Wat is BYD Battery-Box?
+BYD (Build Your Dreams) is een Chinese fabrikant van onder meer elektrische voertuigen en batterijen. De Battery-Box is de thuisbatterijlijn, met twee hoofdvarianten:
 
-BYD (Build Your Dreams) is een Chinese gigant die elektrische auto's, bussen en batterijen maakt. De Battery-Box is hun thuisbatterij-lijn, sinds 2016 op de markt. De huidige generatie heet "Battery-Box Premium" en bestaat uit twee varianten:
+- **HVS** (hoogvolt), opgebouwd uit modules van circa 5 kWh. Dit is de variant die in Nederland het meest wordt geplaatst, omdat hij aansluit op de hybride omvormers die hier gangbaar zijn.
+- **LVS** (laagvolt), met kleinere modules. Vaker in off-grid- en specialistische opstellingen.
 
-- **HVS** (High Voltage System): 5,1 kWh per module, modulair tot 22,1 kWh. Voor grotere woningen.
-- **LVS** (Low Voltage System): 4,0 kWh per module, modulair tot 16 kWh. Voor kleinere woningen of off-grid.
+De celchemie is LFP (lithium-ijzerfosfaat), kobaltvrij. Het systeem is DC-gekoppeld: de stroom van je panelen gaat rechtstreeks naar de batterij, zonder eerst naar 230 V wisselspanning te worden omgezet.
 
-In Nederland wordt vooral HVS verkocht omdat het beter werkt met de meest gebruikte hybride omvormers (Goodwe, Fronius, SMA).
+Wat wij niet uit een publieke bron kunnen halen, is een consumentenprijs. BYD verkoopt niet rechtstreeks aan consumenten; prijzen lopen via distributeurs en installateurs en verschillen per project en per moment. Bedragen die in overzichtsartikelen circuleren, zijn afgeleid uit losse offertes. Wij nemen ze niet over.
 
-Specificaties HVS 10.2 (testmodel):
-- Bruikbare capaciteit: 10,24 kWh
-- Continu vermogen: 5,12 kW (afhankelijk van omvormer)
-- Round-trip efficiency: 96% (DC-DC)
-- Chemie: LFP (lithium-ijzer-fosfaat)
-- Cycli: 6.000 bij 80% DoD
-- IP-classificatie: IP55
-- Garantie: 10 jaar / 70% capaciteitsbehoud
-- Afmetingen: 60 × 30 × 110 cm, 134 kg
+## Het rendementsvoordeel, en de nuance erbij
 
-## Installatie: complex maar perfect
+Het argument voor DC-koppeling is reëel: bij een AC-gekoppelde batterij wordt de zonnestroom eerst naar wisselspanning omgezet, dan terug naar gelijkspanning voor de batterij, en bij ontlading nog een keer. Elke omzetting kost enkele procenten. Bij een DC-gekoppeld systeem vallen twee van die stappen weg.
 
-De installatie duurde anderhalve dag bij ons testhuis omdat:
+Drie nuances die in verkoopgesprekken zelden langskomen:
 
-1. De bestaande string-omvormer (5 kW SolarEdge) moest vervangen door een hybride Goodwe ET 10 kW
-2. De BYD HVS 10.2 (twee modules van 5,1 kWh) werd geplaatst in de bijkeuken
-3. Bekabeling tussen omvormer en BMU (battery management unit)
-4. CT-meter klemmen
-5. Configuratie via Goodwe SEMS app + BYD Be Connect
+Het rendement op batterijniveau is niet hetzelfde als het rendement op systeemniveau. Zodra de omvormerverliezen meetellen, wordt het verschil met een AC-systeem kleiner dan de datasheet suggereert.
 
-Kostenoverzicht voor deze case:
-- BYD HVS 10.2: €5.500
-- Goodwe ET 10 kW hybride omvormer: €2.300
-- Verwijdering oude SolarEdge: €350
-- Installatiematerialen: €600
-- Arbeidskosten installateur: €1.450
-- **Totaal: €10.200 inclusief BTW**
+De opgegeven waarden gelden bij een gematigd laad- en ontlaadvermogen. Wie de batterij vooral in korte, krachtige pieken gebruikt, haalt een lager rendement.
 
-Vergelijk met Sessy 10 kWh: €5.500 incl. btw, excl. installatie (prijspeil aug 2026); reken op circa €1.200 voor een basisinstallatie, dus circa €6.700 totaal. De BYD is daarmee ruim €3.000 duurder vanwege de verplichte omvormer-vervanging.
+En er bestaat geen onafhankelijke Nederlandse test waarin BYD, Sessy en Powerwall onder identieke condities zijn doorgemeten. De opgaven van de verschillende fabrikanten zijn niet volgens dezelfde methode tot stand gekomen, dus een hard rendementsverschil tussen merken noemen wij niet.
 
-Tip: heb je al een hybride omvormer (Goodwe, Fronius, Solis, SMA), dan val je op €6.500-€7.000 totaal. Anders wordt BYD snel te duur.
+Over degradatie in de eerste maanden zeggen kortetermijncijfers weinig: LFP-cellen verliezen in het begin relatief snel een fractie capaciteit en stabiliseren daarna. Beoordeel een batterij op de garantiecurve in het garantieblad, niet op een meting over enkele maanden.
+
+## De omvormer bepaalt de rekensom
+
+Dit is het punt waar de Nederlandse situatie afwijkt van die in andere markten.
+
+Een BYD Battery-Box werkt niet zelfstandig. Er moet een compatibele hybride omvormer bij, en die omvormer doet de aansturing, de monitoring en de koppeling met je huis. Voor wie al zo'n omvormer heeft, is dat geen kostenpost. Voor wie een gewone string-omvormer of een micro-omvormersysteem heeft, komt er een omvormervervanging bij — inclusief het afkoppelen en afvoeren van de bestaande.
+
+Dat verandert de vergelijking fundamenteel. Een AC-gekoppelde batterij hangt achter je bestaande installatie en heeft die post niet. Ter referentie: een Sessy van 10 kWh staat op sessy.nl voor €5.500 inclusief btw en exclusief installatie, met een basisinstallatie van €600 (stand 21 augustus 2026). Dat is een prijs die je vooraf kent en waar geen omvormervervanging in schuilgaat.
+
+De vuistregel die daaruit volgt: **de batterij is niet het probleem, de systeemeis is dat.**
+
+## Compatibiliteit: controleer dit vóór de koop
+
+BYD publiceert een compatibiliteitslijst per omvormermerk, model en firmwareversie. Staat jouw combinatie daar niet op, dan werkt de koppeling niet of niet volledig.
+
+Wat je concreet vastlegt vóór je tekent:
+
+- Of jouw exacte omvormermodel én firmwareversie op de officiële BYD-lijst staan. Merken die met een eigen batterijlijn werken — SolarEdge is daarvan het bekendste voorbeeld — staan er doorgaans niet op.
+- Wie verantwoordelijk is als een firmware-update van de omvormer de koppeling breekt. Communicatiefouten tussen het batterijmanagementsysteem en de omvormer zijn de meest gemelde klacht in gebruikersfora, en die zijn meestal met een update op te lossen — maar alleen door iemand die die update kan uitvoeren.
+- Het minimum aantal modules voor jouw uitvoering. Dat verschilt per variant en per modeljaar; vraag het op in plaats van het aan te nemen.
+- De maximale kabellengte tussen batterij en omvormer volgens de installatiehandleiding.
 
 ## App en monitoring
 
-BYD heeft twee apps:
-- **Be Connect**: voor de installateur, configuratie en diagnostiek
-- **PV Master / SEMS Portal**: voor de eindgebruiker, via de omvormer
+BYD heeft geen volwaardige eigen gebruikersapp. Er is een servicetool voor de installateur, en de dagelijkse gebruikerservaring loopt via de app van je omvormermerk. Dat betekent dat de kwaliteit van je monitoring afhangt van een keuze die je bij de omvormer maakt, niet bij de batterij.
 
-De gebruikerservaring loopt dus volledig via je hybride omvormer. Goodwe SEMS is functioneel maar niet bijzonder. Fronius Solar.web is beter. SolarEdge MySolarEdge het mooiste, maar werkt niet met BYD.
+Bij systemen met een eigen geïntegreerde app is dat anders. Of dat een probleem is, hangt af van hoeveel waarde je aan monitoring hecht — maar het is wel een verschil dat je vóór de aankoop moet kennen.
 
-In vergelijking: Sessy en Tesla hebben hun eigen, geïntegreerde app. Met BYD ben je afhankelijk van wat je omvormermerk biedt.
+## Waar de BYD sterk in is
 
-## Prestaties volgens de specificaties
+**Modulariteit.** Je kunt modules bijplaatsen, wat gefaseerd uitbreiden mogelijk maakt. Vraag wel de prijs per module op; die is niet publiek.
 
-| Metric | Opgave volgens datasheet |
-|--------|--------|
-| Celtechnologie | LFP (lithium-ijzerfosfaat), kobaltvrij |
-| Round-trip rendement (DC-DC) | circa 96 procent op batterijniveau |
-| Round-trip rendement systeem | circa 90-92 procent inclusief omvormerverliezen |
-| Ontlaaddiepte (DoD) | 95 procent |
-| Garantie | 10 jaar, minimaal 70 procent restcapaciteit |
-| Cyclusgarantie | afhankelijk van model, zie garantieblad |
+**Breed inzetbaar over omvormermerken.** Er is geen lock-in aan één fabrikant, mits je omvormer op de compatibiliteitslijst staat.
 
-Het rendementsvoordeel van BYD zit in de DC-koppeling: de stroom van je panelen gaat rechtstreeks naar de batterij zonder eerst naar 230 V wisselspanning te worden omgezet. Bij een AC-gekoppelde batterij zoals Sessy of Marstek gebeurt die omzetting twee keer extra. Volgens de opgaven van de fabrikanten scheelt dat enkele procentpunten op systeemniveau.
+**DC-koppeling.** Bij een grote zonne-installatie waar veel opwek door de batterij loopt, tikt het vermeden omzettingsverlies aan.
 
-Belangrijke nuance: dat is een rendementsverschil op papier, gemeten onder laboratoriumcondities per norm. Er bestaat geen onafhankelijke Nederlandse vergelijkingstest waarin BYD, Sessy en Powerwall onder identieke omstandigheden naast elkaar zijn doorgemeten. Wij nemen daarom geen "gemeten" percentages over die niet naar zo'n test te herleiden zijn.
+**LFP-chemie.** Kobaltvrij en thermisch stabieler dan de oudere NMC-chemie. Het systeem is gecertificeerd volgens de gangbare normen voor batterijopslag; welke certificaten voor jouw uitvoering gelden, staat in de datasheet.
 
-Over degradatie in de eerste maanden zeggen kortetermijncijfers weinig: LFP-cellen verliezen aan het begin van hun leven relatief snel een fractie capaciteit en stabiliseren daarna. Beoordeel een batterij daarom op de garantiecurve in het garantieblad, niet op een meting over enkele maanden.
+## Waar de BYD het laat liggen
 
-## Waar BYD wint
+**1. De omvormereis.** Zonder geschikte hybride omvormer is dit systeem voor een gemiddeld Nederlands huishouden een dure route.
 
-**1. Hoge round-trip efficiency**
+**2. Geen zelfstandige sturing op uurprijzen.** Wat je op een dynamisch contract kunt doen, hangt af van je omvormermerk of van een zelf ingerichte koppeling.
 
-96% DC-DC, in praktijk ~92% inclusief omvormer. Dat scheelt over 10 jaar tijd 4-6% meer opbrengst dan AC-gekoppelde batterijen.
+**3. Service loopt via twee schakels.** BYD heeft in Nederland geen eigen serviceorganisatie. Je eerste aanspreekpunt is je installateur, onderdelen komen uit een Europees distributiekanaal en dat maakt de doorlooptijd bij een modulevervanging langer dan bij een fabrikant met Nederlandse voorraad. Laat je installateur een responstijd op papier zetten.
 
-**2. Modulariteit**
+**4. Noodstroom vraagt extra apparatuur.** Back-up bij netuitval is een aparte component met eigen kosten en configuratie. Bestel die vooraf; achteraf toevoegen kost extra arbeid.
 
-Je kunt eenvoudig modules bijplaatsen tot 22 kWh — meer dan Sessy (20 kWh) of Powerwall (40,5 kWh maar kostbaar). Dit is fijn voor toekomstplanning.
+## Voor wie dit systeem past
 
-**3. Prijs per kWh hardware**
+**Passend als:**
 
-Pure batterijhardware: €538/kWh. Sessy €600/kWh, Powerwall €704/kWh. Maar de verplichte hybride omvormer maakt de totaalprijs uiteindelijk hoger.
+- Je al een compatibele hybride omvormer hebt.
+- Je een nieuwe installatie laat bouwen met een groot dak, waarbij een hybride omvormer sowieso in het plan zit.
+- Je meer dan tien kWh wilt opslaan en gefaseerd wilt uitbreiden.
+- Je een installateur hebt die dit merk regelmatig plaatst en de compatibiliteit kan garanderen.
 
-**4. Universaliteit**
+**Niet passend als:**
 
-Werkt met Goodwe, Fronius, SMA, KOSTAL, Solis, Sungrow, Victron en andere omvormers. Geen lock-in.
+- Je een gewone string-omvormer of een micro-omvormersysteem hebt.
+- Je primair op een dynamisch contract wilt sturen zonder zelf een koppeling in te richten.
+- Je snelle service met Nederlandse voorraad belangrijk vindt.
+- Je een bescheiden capaciteit zoekt voor een gangbaar rijtjeshuis.
 
-## Waar BYD verliest
+## Twee modelberekeningen die het verschil laten zien
 
-**1. Verplichte hybride omvormer**
+Onderstaande berekeningen zijn modellen met expliciete aannames. Het zijn geen metingen en geen offertes.
 
-Heb je al een microinverter-systeem (Enphase) of een string-omvormer zonder batterij-ingang, dan moet je €1.500-€2.500 extra investeren. Dat maakt de totale prijs concurrentie-onvriendelijk.
+**Situatie A — omvormer moet vervangen worden.** Neem als voorbeeld een totale investering van €10.000 voor batterij, nieuwe hybride omvormer, materiaal en arbeid. Bij een huishouden dat na 1 januari 2027 jaarlijks 2.600 kWh met de batterij zelf verbruikt in plaats van teruglevert, bij een afnameprijs van €0,28 en een terugleververgoeding van €0,06 per kWh, levert dat 2.600 × €0,22 = **€572 per jaar** op. Terugverdientijd: ruim zeventien jaar.
 
-**2. Geen native dynamisch contract handel**
+**Situatie B — hybride omvormer is al aanwezig.** Dezelfde opbrengst van €572 per jaar, maar nu tegen een investering van bijvoorbeeld €6.500 voor batterij en installatie. Terugverdientijd: ruim elf jaar.
 
-Net als Enphase: je moet via Home Assistant of de omvormer-API regels instellen. Sessy en Marstek doen dit zelfstandig. Voor [Tibber](/posts/tibber-review-ervaringen-2026/) en [Frank Energie](/posts/frank-energie-review-ervaringen-2026/) gebruikers is dat een nadeel.
+Het verschil zit volledig in één post. Vul in beide sommen je eigen offertebedrag in — dat is de variabele die de uitkomst bepaalt, niet het rendementsverschil van enkele procenten waar verkoopgesprekken over gaan.
 
-**3. Service en garantie**
+Reken je eigen situatie na met onze [terugverdientijd-berekening](/terugverdientijd-thuisbatterij/).
 
-Garantieafhandeling loopt via de importeur, en dat betekent in de praktijk weken doorlooptijd bij een moduulvervanging omdat onderdelen uit het Europese kanaal komen. Sessy heeft een eigen Nederlands serviceteam — sneller en directer.
+## Wat er per 1 januari 2027 verandert
 
-**4. Buitencontroller niet meegeleverd voor noodstroom**
+De salderingsregeling stopt per 1 januari 2027 volledig. Er is geen afbouwpad; het wetsvoorstel met een geleidelijke afbouw is verworpen.
 
-Voor backup heb je een speciale "Backup Box" nodig (€800 extra) plus configuratie. Powerwall heeft dit ingebouwd.
+Vanaf die datum is een teruggeleverde kWh alleen nog de terugleververgoeding waard, terwijl een afgenomen kWh de volle prijs kost. Precies dat verschil is de waarde die een batterij kan oogsten, en het is de reden dat de zelfverbruikcomponent in de berekeningen hierboven de doorslag geeft. Bij een grote zonne-installatie waar veel opwek door de batterij loopt, weegt het DC-rendementsvoordeel dan iets zwaarder mee.
 
-## Vergelijking met concurrenten
+## Btw, subsidie en installatie in Nederland
 
-| Model | Bruikbaar | Hardwareprijs | Totaal install | €/kWh | Garantie |
-|-------|-----------|--------------|---------------|-------|----------|
-| BYD HVS 10.2 | 10,24 kWh | €5.500 | €10.200* | €996 | 10 jaar |
-| Sessy 10 kWh | 9,6 kWh | €5.500 | €6.700** | €698 | 10 jaar |
-| Tesla Powerwall 3 | 13,5 kWh | €9.500 | €9.500 | €704 | 10 jaar |
-| Huawei Luna 10 kWh | 10 kWh | €4.800 | €6.800 | €680 | 10 jaar |
-| Marstek Venus 5 kWh ×2 | 10 kWh | €3.998 | €4.500 | €450 | 10 jaar |
+Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Voor particulieren valt die btw in de regel niet terug te vragen.
 
-*Inclusief vervanging van bestaande omvormer. Met bestaande hybride omvormer ~€6.500.
+Rijkssubsidie is er niet: de ISDE dekt voor woningeigenaren alleen isolatie, ventilatie in combinatie met isolatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Sommige gemeenten hebben wel een eigen regeling voor batterijopslag, maar die komen en gaan — controleer de actuele voorwaarden bij je eigen gemeente vóór je een offerte ondertekent.
 
-**Hardwareprijs Sessy plus circa €1.200 basisinstallatie; Sessy rekent installatie apart (prijspeil aug 2026).
+Praktische punten voor de plaatsing:
 
-## Voor wie is BYD Battery-Box geschikt?
+- Houd de vrije ruimte rondom het toestel aan die de installatiehandleiding voorschrijft.
+- Let op de temperatuurgrenzen. Bij lage temperaturen daalt de bruikbare capaciteit; een onverwarmde garage in januari is daarom geen ideale plek.
+- Meld de batterij bij je opstalverzekeraar. Zonder melding loop je bij schade een dekkingsrisico.
 
-**Wel kiezen als:**
-- Je al een hybride omvormer hebt (Goodwe, Fronius, SMA, etc.)
-- Je een groot huis hebt en >15 kWh wilt opslaan
-- Je maximale efficiency wilt (DC-DC koppeling)
-- Je modulair wilt uitbreiden in de toekomst
+## Onderhoud
 
-**Niet kiezen als:**
-- Je geen hybride omvormer hebt — te duur
-- Je primair op dynamisch handel mikt — kies <a href="https://go.duurzaamthuislab.nl/sessy" target="_blank" rel="nofollow noopener">Sessy</a> of <a href="https://go.duurzaamthuislab.nl/marstek" target="_blank" rel="nofollow noopener">Marstek</a>
-- Je snelle service belangrijk vindt — kies een Nederlands merk
-- Je <10 kWh nodig hebt
+Er is geen periodiek onderhoud: geen reinigen, geen smeren, geen filters. Software-updates lopen via de internetverbinding van het systeem. Wat wij wel zouden doen: jaarlijks de bekabeling en de aansluitingen visueel nalopen, en de batterijgezondheid af en toe aflezen in de app van je omvormer.
 
-## Combinatie met dynamisch contract
+## Conclusie
 
-Voor BYD-eigenaren adviseren wij <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> via de Home Assistant-integratie. Frank Energie kan ook, maar de API is minder volwassen voor BYD-koppeling. Verwacht 1 dag werk om HA in te richten.
+De BYD Battery-Box is goede hardware met een reëel rendementsvoordeel en een modulaire opbouw. De reden dat wij hem voor de gemiddelde Nederlandse woning toch zelden als eerste keuze zien, ligt niet bij de batterij maar bij de systeemeis: zonder compatibele hybride omvormer komt er een investering bij die de hele rekensom kantelt.
 
-Lees ook de [dynamische contracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/).
+Heb je die omvormer al, of laat je een nieuwe installatie bouwen waarin hij sowieso zit, dan is dit een serieuze kandidaat — mits je de compatibiliteitslijst controleert en de servicevoorwaarden op papier laat zetten. Heb je hem niet, dan komt een AC-gekoppeld systeem zoals de [Sessy](/posts/sessy-review-thuisbatterij-nederland/) er bij vrijwel elk verbruiksprofiel gunstiger uit.
 
-## Saldering en BYD
+## Verder lezen
 
-Met saldering-afbouw (zie [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/)) wordt zon-zelfconsumptie cruciaal. BYD met DC-koppeling heeft hier een voordeel: minder verliezen tussen panelen en batterij. Bij grote zonnepaneel-installaties (>5 kWp) tikt dit aan.
+- [Sessy review thuisbatterij Nederland](/posts/sessy-review-thuisbatterij-nederland/)
+- [Sessy vs Marstek vergelijking](/posts/sessy-vs-marstek-vergelijking-2026/)
+- [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/)
+- [Thuisbatterij prijs per kWh 2026](/posts/thuisbatterij-prijs-per-kwh-2026/)
+- [Beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/)
+- [String-omvormer en optimizers uitgelegd](/posts/string-omvormer-uitleg-optimizers-2026/)
 
-Reken voor jouw situatie de [terugverdientijd thuisbatterij](/posts/thuisbatterij-terugverdientijd-berekenen-2026/) door.
-
-## Service en support in Nederland
-
-Dit is het zwakste punt van BYD op de Nederlandse markt, en het is een structureel punt, geen incident. BYD verkoopt niet direct aan consumenten en heeft hier geen eigen serviceorganisatie: garantie en onderdelen lopen via een Europese distributeur (in de praktijk vaak Memodo of Krannich) en via je installateur.
-
-Wat dat betekent als er iets mis is:
-
-- Je eerste aanspreekpunt is altijd je installateur, niet de fabrikant.
-- Vervangende modules komen uit een Europees distributiekanaal, wat de doorlooptijd langer maakt dan bij een fabrikant met Nederlandse voorraad.
-- De meest gerapporteerde problemen in gebruikersfora zijn communicatiefouten tussen de BMU en de omvormer, vaak op te lossen met een firmware-update — dus geen hardwaredefect, maar wel afhankelijk van een installateur die de update kan uitvoeren.
-
-Sessy heeft hier een structureel voordeel met een eigen Nederlands serviceteam. Vraag bij een BYD-offerte daarom expliciet vast wie de garantie afhandelt en wat de responstijd is die je installateur contractueel toezegt.
-
-## Rekenvoorbeeld terugverdientijd
-
-Onderstaand is een **modelberekening**, geen meting. Uitgangspunten: 4-persoons huishouden met 6.500 kWh jaarverbruik, 18 zonnepanelen, dynamisch contract, en een BYD HVS 10.2 waarbij ook de omvormer vervangen moet worden.
-
-- Aanschaf totaal inclusief omvormer-vervanging: €10.200
-- Besparing door meer zon-zelfconsumptie: in dit model €580/jaar
-- Extra opbrengst uit prijsverschuiving op een dynamisch contract: in dit model €240/jaar
-- Subsidie: €0 — ISDE geeft geen subsidie op thuisbatterijen
-- Netto opbrengst in dit model: €820/jaar
-- **Terugverdientijd in dit model: circa 12 jaar**
-
-De les uit dit voorbeeld zit niet in het getal maar in de post die het getal domineert: de omvormer-vervanging. Diezelfde woning met een AC-gekoppelde batterij heeft die post niet, en komt daardoor op een aanzienlijk kortere terugverdientijd uit — bij een vergelijkbare energiebesparing. Reken je eigen situatie door met en zonder omvormer-vervanging; dat is de beslissende variabele, niet het rendementsverschil van enkele procenten.
-
-## Ons eindoordeel: 7/10
-
-Plus: hoge efficiency, modulariteit, premium hardware, lange productlevensduur, universele compatibiliteit.
-Min: hoge totaalprijs (door omvormer), trage service, geen native dynamisch handel, complexe installatie.
-
-BYD Battery-Box is een uitstekende batterij voor de juiste situatie (al hybride omvormer aanwezig, >10 kWh nodig, premium installateur). Maar voor de gemiddelde Nederlander is Sessy of Marstek 30-50% goedkoper en functioneel beter.
-
-Lees ook [beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/) en [thuisbatterij vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/) voor onze complete top 10.
-
-Voor verdere lezing: [Sessy vs Marstek](/posts/sessy-vs-marstek-vergelijking-2026/), [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/), [thuisbatterij prijs per kWh](/posts/thuisbatterij-prijs-per-kwh-2026/) en [thuisbatterij subsidie 2026](/posts/thuisbatterij-subsidie-2026-overzicht/).
-
-## Veelgemaakte fouten bij BYD aankoop
-
-Bij particulieren die op eigen houtje een BYD willen kopen, gaan steeds dezelfde vier dingen mis:
-
-**Fout 1: omvormer-compatibiliteit niet checken**
-Niet elke hybride omvormer werkt met elke BYD-versie. HVS werkt met Goodwe ET, Fronius Symo Hybrid, KOSTAL Plenticore, SMA Sunny Tripower X. LVS heeft een eigen lijst. Check altijd vooraf.
-
-**Fout 2: minimum modules vergeten**
-HVS heeft minimaal 2 modules nodig (kan niet met 1 module van 5,1 kWh draaien — minimum 10,2 kWh). LVS kan wel met 1 module starten. Dat veranderde bij sommige modeljaargang.
-
-**Fout 3: Backup Box weglaten**
-Wil je noodstroom, dan moet de Backup Box vooraf besteld worden. Achteraf installeren kost €400 extra arbeidskosten.
-
-**Fout 4: koude opslag negeren**
-BYD werkt vanaf -10°C, maar capaciteit zakt onder 0°C. In een ongeïsoleerde garage in januari verlies je tot 15% bruikbare capaciteit. Plaats hem binnen of in een geïsoleerde ruimte.
-
-## Wat gebruikers rapporteren
-
-Het beeld in Nederlandse gebruikersreviews en fora is consistent op twee punten. Positief: de hardware zelf geeft weinig problemen en het systeem doet wat het moet doen. Kritisch: de installatie is complexer dan verwacht en de app-ervaring hangt volledig af van je omvormermerk — BYD heeft geen eigen volwaardige gebruikersapp, de Be Connect Plus-app is vooral een servicetool.
-
-Die twee punten samen verklaren waarom kopers met een standaard Nederlandse setup achteraf regelmatig aangeven dat ze voor een eenvoudiger AC-gekoppeld systeem zouden kiezen. Niet omdat BYD slechte hardware is, maar omdat de complexiteit en de omvormerkosten voor hun situatie niet terugbetaald worden.
-
-## Wanneer wel zeker BYD kiezen?
-
-Eén situatie waar BYD écht de beste keuze is: nieuwe installatie zonder bestaande omvormer, groot dak (10+ kWp panelen), >15 kWh opslagbehoefte. Dan is de hybride omvormer toch nodig en betaalt de hogere efficiency zich terug. Voor zo'n setup is een BYD HVS 15 kWh met een Goodwe ET 15 kW omvormer een logische combinatie — reken op een orde van grootte van €13.000 inclusief installatie, wat concurrerend is met een Powerwall 3 plus extension. Vraag actuele prijzen op: batterijprijzen per kWh bewegen sterk.
-
-Maar voor de standaard Nederlandse rijtjeshuis-setup (8-14 panelen, 5-10 kWh batterij): Sessy of Marstek wint elke dag van de week.
-
-## Veiligheid en certificering
-
-BYD Battery-Box is gecertificeerd volgens IEC 62619, IEC 62933, UN38.3. Voldoet aan de Nederlandse netcode en is brandveilig getest. De LFP-cellen zijn zelf-uitschakelend bij temperaturen >70°C en hebben een ingebouwde brandsensor. Dit is veiliger dan oudere NMC-batterijen.
-
-Tip: plaats de batterij niet boven of naast brandbare materialen. Houd minimum 30 cm vrij rondom voor ventilatie. Niet in slaapkamers plaatsen — niet vanwege brand maar vanwege ventilator-geluid (zacht maar continu).
-
-## Onderhoud en levensduur
-
-BYD heeft minimaal onderhoud nodig:
-- Geen reinigen, smeren of filterwissels
-- Software-updates lopen automatisch via internet
-- Eens per jaar visuele inspectie (kabels, schroeven)
-- Batterijgezondheid aflezen via app
-
-BYD garandeert 70 procent restcapaciteit na 10 jaar. Reken voor je terugverdienberekening met die garantiecurve; een langere levensduur is aannemelijk bij LFP-cellen, maar niet iets waar je een investering op kunt baseren.
-
-## Waar je op moet letten bij de omvormerkoppeling
-
-Het meest onderschatte aandachtspunt bij BYD is niet de batterij maar de koppeling. BYD publiceert een compatibiliteitslijst per omvormermerk en firmwareversie; staat jouw combinatie daar niet op, dan werkt de koppeling niet of niet volledig. Concreet:
-
-- Controleer vóór de koop of jouw exacte omvormermodel én firmwareversie op de BYD-compatibiliteitslijst staat.
-- BMS-communicatiefouten na een firmware-update van de omvormer zijn de meest gerapporteerde klacht. Vraag je installateur wie verantwoordelijk is als een update de koppeling breekt.
-- Een hogere laad- of ontlaadstroom kost rendement: het opgegeven systeemrendement geldt bij een gematigd vermogen, niet bij vol vermogen. Wie de batterij vooral in korte, krachtige pieken gebruikt, haalt een lager rendement dan de datasheet suggereert.
-
-Een concreet rendementsverschil tussen BYD, Sessy en Marstek noemen wij niet: er is geen openbare test waarin deze systemen onder gelijke condities zijn doorgemeten, en de opgaven van de fabrikanten zijn niet volgens dezelfde methode tot stand gekomen.
-
-## NL-specifiek: btw, subsidie en installatie
-
-Op een thuisbatterij betaal je 21% btw. Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Voor particulieren valt die btw in de regel niet terug te vragen; alleen wie als btw-ondernemer stroom teruglevert kan er in specifieke gevallen aanspraak op maken, en dan geldt onder meer de eis van een energiemanagementsysteem en een dynamisch contract (zie belastingdienst.nl). Rijkssubsidie is er niet: de ISDE dekt voor woningeigenaren alleen isolatie, ventilatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Sommige gemeenten hebben wel een eigen regeling voor batterijopslag, maar die komen en gaan — check de actuele voorwaarden en bedragen bij je eigen gemeente vóór je een offerte ondertekent.
-
-Bouwbesluit eist sinds 2024 dat batterijen >5 kWh in aparte ruimte of brandwerende kast — bij BYD zit dit standaard in de behuizing maar plaatsing in woonkamer mag niet zonder extra brandscheiding. Verzekeraars vragen vaak SCIOS Scope 12 keuring (€280) — soms inbegrepen in installatieprijs.
-
-## Veelgemaakte fouten
-
-1. **BYD met niet-compatibele omvormer combineren.** Werkt alleen met SolarEdge, Fronius, Goodwe en SMA. Bij Enphase: niet te koppelen.
-2. **Te kleine module kopen.** 5 kWh is minimum voor warmtepomp + EV; bij minder zakt rendement.
-3. **Kabellengte BMS-omvormer onderschatten.** Boven 5 meter: signaal-storingen.
-4. **Niet kiezen voor parallelle installatie.** Bij meerdere modules zonder parallel-link verlies je 8% capaciteit.
-5. **Vergeten over support-taal.** BYD support is in Engels en Mandarijn — bij defect via Nederlandse distributeur lopen tickets vaak weken.
-
-## Wanneer NIET BYD?
-
-Sla over als je een Enphase-systeem hebt (niet compatibel — kies Enphase IQ Battery 5P). Bij verbruik <2.500 kWh/jaar zonder zonnepanelen: rendement te laag. In appartementen zonder geventileerde technische ruimte: plaatsing problematisch. Bij verhuisplannen <5 jaar: terugverdientijd niet realistisch.
-
-## Tweede rekenvoorbeeld: gunstigere uitgangssituatie
-
-Modelberekening voor een woning met 5.500 kWh verbruik, 6 kWp panelen en een warmtepomp, waarbij een BYD HVS 8,2 kWh op een al aanwezige Fronius-omvormer wordt aangesloten (dus zonder omvormer-vervanging), aanschaf €6.800:
-
-- Stijging eigen verbruik van circa 35 naar circa 80 procent — de warmtepomp helpt hier, omdat die de winterse verbruikspiek deels naar de batterij kan verschuiven.
-- Opbrengst door prijsverschuiving op een dynamisch contract: in dit model €280/jaar.
-- Totale modelbesparing: rond de €1.150/jaar, en daarmee een terugverdientijd van circa zes jaar.
-
-Het verschil met het eerste rekenvoorbeeld zit volledig in één post: hier hoeft de omvormer niet vervangen te worden. Dat halveert de terugverdientijd. Dit is de kern van het BYD-verhaal in Nederland — de batterij is niet het probleem, de systeemeis is dat.
-
-## Wat je in het eerste jaar kunt verwachten
-
-- **Installatie**: reken op een halve dag werk met een installateur; de BMS-koppeling met de omvormer vereist vaak eerst een firmware-upgrade van de omvormer.
-- **Onderhoud**: geen. Geen filters, geen smering, software-updates lopen via internet.
-- **Verzekering**: meld de batterij bij je opstalverzekeraar. Dat kan een kleine premieopslag betekenen, maar zonder melding loop je bij schade dekkingrisico.
-- **Degradatie**: verwacht in het eerste jaar een paar procent capaciteitsverlies, waarna de curve vlakker wordt. Vergelijk je meting met de garantiecurve in het garantieblad, niet met verhalen van anderen.
-
-## Extra FAQ-vragen
-
-Welke generatie BYD is in 2026 het beste? De HVS Premium (2024-update) heeft betere BMS en koeling dan de oudere HVM. Voor nieuwe installaties: HVS Premium 7,7 of 11,5 kWh. Vermijd tweedehands HVM-modules van vóór 2022 — BMS-firmware niet meer ondersteund.
-
-Werkt BYD met Home Assistant? Ja, via Modbus-koppeling op Fronius of SolarEdge. Vereist wel handmatige configuratie. Voor plug-en-play smart-home: Sessy is makkelijker. BYD-eigen app (Be Connect Plus) doet het basale werk maar mist Home Assistant-integratie.
-
-Hoe loopt support in NL? Via een Europese distributeur (meestal Memodo of Krannich) en via je installateur. Garantieafhandeling gaat per mail of telefoon; reken op enkele dagen voor een reactie en op weken voor een fysieke vervanging, omdat onderdelen uit het Europese kanaal komen. Laat je installateur een responstijd op papier zetten voordat je ondertekent.
-
-## Combinatie met EV-laden
-
-Bij gezin met EV en Tesla Powerwall is de keuze duidelijk Tesla, maar bij niet-Tesla EV's wordt BYD interessant. Een klant in Amersfoort met BMW iX en BYD HVS 11,5 kWh laadt overdag op 5 kW zonne-overschot, batterij vult zich rest van de dag, 's avonds laadt EV uit batterij. Werkt zonder issues. Tesla Powerwall zou €3.500 duurder zijn voor vergelijkbare functie.
-
----
-
-**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van wat de ISDE wel en niet dekt (thuisbatterijen vallen er niet onder).
+**Externe bron:** [RVO — ISDE voor woningeigenaren](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren) — het officiële overzicht van wat de ISDE wel en niet dekt. Thuisbatterijen vallen er niet onder.
