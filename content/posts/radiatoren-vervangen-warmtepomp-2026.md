@@ -1,6 +1,6 @@
 ---
 title: 'Radiatoren vervangen voor warmtepomp 2026: wanneer wel, wanneer niet?'
-date: 2026-08-19 08:00:00+02:00
+date: 2026-09-04 08:00:00+02:00
 lastmod: '2026-08-21 08:00:00+02:00'
 description: Moeten radiatoren vervangen worden bij overstap naar warmtepomp? Wanneer LT-radiatoren nodig zijn, wat ze kosten en hoe je met de 65°C-test onnodige vervangingen voorkomt.
 categories:
