@@ -20,7 +20,7 @@ keywords:
 - micro-omvormer
 - power optimizer
 - beste omvormer zonnepanelen
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
@@ -28,7 +28,7 @@ faq:
 - q: Wat is het verschil tussen SolarEdge en Enphase?
   a: SolarEdge gebruikt een centrale string-omvormer met power optimizers per paneel. Enphase gebruikt micro-omvormers die elk paneel individueel omzetten. SolarEdge is goedkoper, Enphase is flexibeler en heeft geen single point of failure.
 - q: 'Welke omvormer is goedkoper: SolarEdge of Enphase?'
-  a: SolarEdge is doorgaans 20-30% goedkoper dan Enphase voor een vergelijkbare installatie. Voor 10 panelen kost SolarEdge circa €1.000-€1.800, terwijl Enphase €1.500-€2.500 kost. Het prijsverschil wordt kleiner bij grotere installaties.
+  a: 'SolarEdge is bij aanschaf de goedkoopste van de twee. Voor tien panelen liggen de bedragen die installateurs in offertes rekenen ruwweg op €1.000-€1.800 voor SolarEdge (omvormer plus tien optimizers) en €1.800-€2.400 voor Enphase (tien micro-omvormers plus gateway). Het verschil is dus grofweg €600-€800, ongeveer een derde. Dat zijn bandbreedtes uit offertes, geen fabrikantprijzen: SolarEdge en Enphase publiceren geen consumentenprijzen.'
 - q: Welke omvormer is betrouwbaarder?
   a: 'Enphase micro-omvormers hebben geen single point of failure: als één micro-omvormer uitvalt, werken de andere gewoon door. Bij SolarEdge kan een defecte centrale omvormer je hele systeem platleggen. Enphase geeft zelf een gemiddelde uitvalrate op van minder dan 0,05% per jaar.'
 - q: Kan ik een thuisbatterij koppelen aan SolarEdge en Enphase?
@@ -38,22 +38,22 @@ faq:
 - q: Hoe lang is de garantie op SolarEdge en Enphase?
   a: SolarEdge biedt 12 jaar garantie op de omvormer (verlengbaar tot 25 jaar) en 25 jaar op de power optimizers. Enphase biedt standaard 25 jaar garantie op alle micro-omvormers. Enphase heeft daarmee de langste standaardgarantie.
 products:
-- name: SolarEdge HD-Wave
-  url: https://www.solaredge.com/nl/products/residential/inverters
-  price: '1500'
-- name: Enphase IQ8
-  url: https://enphase.com/nl/homeowners/microinverters-iq8
-  price: '1800'
+- name: EcoFlow Delta-serie (off-grid en camper)
+  url: https://go.duurzaamthuislab.nl/ecoflow
+- name: Jackery Explorer-serie (off-grid en camper)
+  url: https://go.duurzaamthuislab.nl/jackery
+- name: Bluetti AC-serie (off-grid en camper)
+  url: https://go.duurzaamthuislab.nl/bluetti-eu
 schema_type: Article
 ---
 In het premiumsegment van de omvormermarkt komt de keuze bijna altijd neer op SolarEdge of Enphase. Beide optimaliseren elk paneel individueel, maar de technologie erachter verschilt fundamenteel: SolarEdge werkt met een centrale omvormer plus optimizers, Enphase met een micro-omvormer per paneel. In dit artikel vergelijken we specificaties, garantievoorwaarden en de totale kosten over de levensduur, met een doorgerekend model voor een installatie van 16 panelen.
 
-*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: dit artikel bevat affiliate-links naar EcoFlow, Jackery en Bluetti in de off-grid-paragraaf. Koop je via zo'n link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. De links naar SolarEdge, Enphase en Sessy zijn gewone verwijzingen: met die partijen hebben wij geen affiliate- of commissierelatie en daar ontvangen wij geen vergoeding voor.*
 
 Bekijk ook ons overzicht van de [beste omvormers voor zonnepanelen](/posts/beste-omvormer-zonnepanelen-2026/) voor meer opties.
 
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — wat er per 1 januari 2027 verandert en welke keuzes je nu al kunt maken.*
 
 > **Kort antwoord:** je vergelijkt deze twee merken zelden op één component, maar als compleet systeem. SolarEdge = één centrale omvormer plus een power optimizer per paneel, optioneel uitgebreid met de SolarEdge Home Battery; Enphase = een micro-omvormer per paneel, optioneel met een IQ Battery. SolarEdge is bij aanschaf goedkoper, Enphase is flexibeler, makkelijker uit te breiden en heeft geen single point of failure. Hoe je zo'n systeem component voor component samenstelt — inclusief 1-fase versus 3-fase — staat verderop in dit artikel.
 
@@ -82,8 +82,8 @@ Enphase plaatst een **micro-omvormer** onder elk zonnepaneel. Elke micro-omvorme
 | Kenmerk | SolarEdge | Enphase |
 |---------|----------|---------|
 | **Technologie** | String-omvormer + optimizers | Micro-omvormers |
-| **Prijs (10 panelen)** | €1.000-€1.800 | €1.500-€2.500 |
-| **Efficiëntie** | 99,5% (optimizer) + 97,5% (omvormer) | 97,0% (micro-omvormer) |
+| **Prijs (10 panelen, offertebandbreedte)** | €1.000-€1.800 | €1.800-€2.400 |
+| **Rendement van AC-omzetting** | circa 97-98% (omvormer; de optimizer zelf zit boven 99%) | circa 97% (micro-omvormer) |
 | **Garantie omvormer** | 12 jaar (verlengbaar tot 25) | 25 jaar standaard |
 | **Garantie optimizer/micro** | 25 jaar | 25 jaar |
 | **Monitoring** | Per paneel | Per paneel |
@@ -104,6 +104,8 @@ Enphase plaatst een **micro-omvormer** onder elk zonnepaneel. Elke micro-omvorme
 | **10 panelen totaal** | €1.000-€1.800 | Omvormer + 10 optimizers |
 | **SolarEdge Home Battery 48V (2 modules, 9,7 kWh)** | €4.000-€5.500 | Optioneel; marktindicatie, SolarEdge publiceert geen prijs |
 
+*Alle bedragen in de twee tabellen hieronder zijn bandbreedtes uit Nederlandse installateursoffertes, peildatum augustus 2026. Beide fabrikanten publiceren geen consumentenprijzen; jouw offerte kan dus afwijken en bevat vaak ook montage, kabelwerk en een netmelding.*
+
 ### Enphase kosten (2026)
 
 | Component | Prijs | Opmerking |
@@ -115,15 +117,23 @@ Enphase plaatst een **micro-omvormer** onder elk zonnepaneel. Elke micro-omvorme
 
 ### Prijsverschil over de levensduur
 
-Het prijsverschil bij aanschaf is €500-€800 in het voordeel van SolarEdge. Maar de **standaard 25 jaar garantie** van Enphase vs 12 jaar bij SolarEdge verandert het plaatje:
+Het prijsverschil bij aanschaf is circa **€600-€800** in het voordeel van SolarEdge — ruwweg een derde. Maar de **standaard 25 jaar garantie** van Enphase tegenover 12 jaar bij SolarEdge verandert het plaatje op termijn.
 
-| Scenario | SolarEdge kosten (25 jaar) | Enphase kosten (25 jaar) |
+Onderstaande tabel is een **modelberekening met expliciete aannames**, geen prijsopgave:
+
+- Startpunt: het midden van de bandbreedtes hierboven — SolarEdge €1.400, Enphase €2.100
+- Vervanging van een centrale omvormer buiten de garantie: €800 aan materiaal en arbeid (aanname)
+- Verlenging van de SolarEdge-omvormergarantie naar 25 jaar: €300 (aanname; de werkelijke prijs staat in het aanbod van je installateur)
+- Micro-omvormers en optimizers vallen in beide gevallen binnen hun 25-jaarsgarantie
+- Niet meegerekend: inflatie, rente en het rendementsverlies tijdens de weken dat een defecte omvormer stilstaat
+
+| Scenario | SolarEdge over 25 jaar | Enphase over 25 jaar |
 |---------|--------------------------|------------------------|
-| Geen problemen | €1.400 | €2.100 |
+| Geen defecten | €1.400 | €2.100 |
 | Omvormervervanging na 12-15 jaar | €1.400 + €800 = **€2.200** | €2.100 |
-| Garantieverlenging tot 25 jaar | €1.400 + €300 = **€1.700** | €2.100 |
+| Garantieverlenging tot 25 jaar afgenomen | €1.400 + €300 = **€1.700** | €2.100 |
 
-**Conclusie prijs:** SolarEdge is goedkoper bij aanschaf. Over 25 jaar gerekend is het verschil kleiner, vooral als je de SolarEdge garantie moet verlengen of een omvormer moet vervangen.
+**Conclusie prijs:** SolarEdge is goedkoper bij aanschaf. Over 25 jaar gerekend verdwijnt dat voordeel zodra de centrale omvormer één keer buiten de garantie vervangen moet worden — en blijft het bestaan als je de garantieverlenging afneemt. Dat is de keuze die je bij de offerte maakt, niet over vijftien jaar.
 
 ## SolarEdge-systeem samenstellen: omvormer + batterij + optimizers
 
@@ -284,7 +294,7 @@ Vraag altijd naar de reden achter het advies. Een installateur die één merk aa
 
 | Jouw situatie | Beste keuze | Waarom |
 |-------------|-------------|--------|
-| Budget is belangrijk | **SolarEdge** | 20-30% goedkoper |
+| Budget is belangrijk | **SolarEdge** | circa €600-€800 lager bij aanschaf (10 panelen) |
 | Maximale betrouwbaarheid | **Enphase** | Geen single point of failure |
 | Schaduw of complex dak | **Enphase** | Meer flexibiliteit |
 | Standaard dak, geen schaduw | **SolarEdge** | Beste prijs-kwaliteit |
@@ -392,7 +402,15 @@ Een veelgestelde vraag: werken SolarEdge of Enphase ook off-grid, bijvoorbeeld v
 
 SolarEdge biedt een aparte "off-grid inverter" die niet op het net hoeft. Enphase heeft de IQ8-micro die ook in "islanding modus" kan werken (beperkt vermogen zonder net), maar dit vereist een IQ System Controller.
 
-Voor vanlife of off-grid is een powerstation (EcoFlow, Jackery, Bluetti) gecombineerd met draagbare zonnepanelen praktischer. Zie onze [beste powerstation voor vanlife](/posts/beste-powerstation-vanlife-2026/) gids.
+Voor vanlife of off-grid gebruik is een powerstation met draagbare zonnepanelen praktischer: één behuizing met accu, omvormer en laadregelaar, zonder netmelding en zonder vaste installatie. De drie merken die in dit segment in Nederland leverbaar zijn:
+
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/solaredge-vs-enphase-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk het EcoFlow-assortiment</a>
+
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/solaredge-vs-enphase-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk het Jackery-assortiment</a>
+
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/solaredge-vs-enphase-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk het Bluetti-assortiment</a>
+
+Welk model bij welk gebruik past, staat in onze gids [beste powerstation voor vanlife](/posts/beste-powerstation-vanlife-2026/).
 
 ---
 
@@ -422,7 +440,7 @@ Na de saldering-stop (2027) wordt een thuisbatterij steeds relevanter. De keuze 
 - Geen speciale vereisten
 
 **Onze aanbeveling voor wie een thuisbatterij plant:**
-Als je zeker weet dat je een SolarEdge Home Battery wilt: neem meteen de SolarEdge Energy Hub omvormer (€1.400-€1.800). Als je later wilt beslissen of welk merk batterij je wilt: kies Enphase of neem een SolarEdge met standaard omvormer en koop later een externe batterij.
+weet je zeker dat je een SolarEdge Home Battery wilt, neem dan meteen de omvormer die DC-koppeling ondersteunt (Home Hub of Home Wave) — achteraf omwisselen kost een tweede omvormer. Wil je die keuze openhouden, dan is Enphase de veiligste route, of een SolarEdge met standaardomvormer plus later een AC-gekoppelde batterij van een ander merk. Wat die omvormers kosten, publiceert SolarEdge niet; dat bedrag staat alleen in je offerte.
 
 ---
 
@@ -435,33 +453,32 @@ Als je zeker weet dat je een SolarEdge Home Battery wilt: neem meteen de SolarEd
 | Complex dak, meerdere richtingen | Enphase | Maximale onafhankelijkheid per paneel |
 | Je wilt 25 jaar geen zorgen | Enphase | 25 jaar garantie = gemoedsrust |
 | Je wil een thuisbatterij later | SolarEdge + Home Battery | Betere DC-koppeling |
-| Budget is krap | SolarEdge | €1.000-€1.500 goedkoper |
+| Budget is krap | SolarEdge | circa €600-€800 lager bij aanschaf (10 panelen) |
 | Toekomstige uitbreiding gepland | Enphase | Paneel voor paneel toevoegen |
 | VvE/appartement, meerdere dakoriëntaties | Enphase | Geen enkele string die alles beïnvloedt |
 
-## Toekomstperspectief: SolarEdge en Enphase na 2027
+## Na 1 januari 2027: wat verandert er aan de keuze?
 
-Met de afbouw van saldering worden omvormer-keuzes strategischer. Hier is hoe beide merken positioneren voor de post-saldering wereld:
+De saldering stopt per 1 januari 2027 volledig — er is geen afbouwpad. Vanaf dat moment is niet je productie maar je *eigen verbruik op het moment van productie* wat geld oplevert, en dat maakt de koppeling met opslag en met een dynamisch contract belangrijker dan de laatste procenten omvormerrendement.
 
-**SolarEdge:**
-Heeft de Energy Hub-omvormer gelanceerd die naadloos samenwerkt met dynamische energiecontracten. Via de SolarEdge Energy Bank (de batterij) kun je automatisch laden bij lage tarieven en ontladen bij hoge tarieven — zelfs zonder zonnepanelen op het moment van laden. Dit maakt SolarEdge tot een volledige energiebeheerdersysteem dat concurreert met Huawei Luna en Tesla Powerwall.
+**SolarEdge:** met een Home Hub- of Home Wave-omvormer kun je een DC-gekoppelde Home Battery toevoegen en laden en ontladen op tijdvensters. Let op twee dingen: sturen op uurprijzen gaat niet vanzelf — dat loopt via de instellingen in het SolarEdge-platform, waarvan de uitgebreidere functies achter een betaald cloudabonnement zitten, of via een eigen koppeling met Home Assistant. Wij hebben dit niet getest; hoe wij dat in de praktijk zouden inrichten, staat in [SolarEdge met een dynamisch contract](/posts/solaredge-omvormer-dynamisch-contract-2026/).
 
-**Enphase:**
-Heeft de IQ8 micro-omvormer gelanceerd die in "islanding modus" kan werken — het paneel produceert stroom zelfs als het net uitvalt, mits er zonlicht is. In combinatie met de Enphase IQ Battery is dit een volledige noodstroomoplossing zonder extra hardware. Dit is een unieke functie die SolarEdge standaard niet biedt.
+**Enphase:** de IQ8-micro's kunnen bij netuitval in eilandbedrijf doorwerken, mits er zonlicht is en er een System Controller in de installatie zit. Samen met een IQ Battery levert dat noodstroom zonder extra omvormer. Dat is de functie die SolarEdge in de standaardopstelling niet biedt.
 
-**Onze verwachting voor 2027:**
-Beide merken blijven relevant. SolarEdge zal groeien in de energie-arbitrage markt (dynamische tarieven). Enphase zal groeien in de noodstroom en off-grid markten. Beide hebben een duidelijk post-saldering businessmodel.
+Wat wij *niet* doen, is voorspellen welk merk de komende jaren marktaandeel wint. Dat is speculatie en het helpt je niet bij een offerte die vandaag op tafel ligt.
 
 ## Conclusie
 
-**SolarEdge** is de betere keuze als je budget een belangrijke factor is en je een standaard dak hebt zonder schaduwproblemen. Het is een bewezen systeem dat goed presteert en 20-30% goedkoper is dan Enphase.
+**SolarEdge** is de betere keuze als je budget een belangrijke factor is en je een standaard dak hebt zonder schaduwproblemen. Het is een bewezen systeem dat bij aanschaf circa €600-€800 lager uitkomt dan Enphase voor tien panelen.
 
 **Enphase** is de betere keuze als betrouwbaarheid, uitbreidbaarheid en lange garantie belangrijk zijn. Het ontbreken van een single point of failure en de standaard 25 jaar garantie geven rust voor de komende decennia.
 
 Beide zijn uitstekende keuzes — je kunt met geen van beide een verkeerde beslissing nemen. Bespreek je specifieke situatie (dakoriëntatie, schaduw, toekomstplannen) met je installateur voor een persoonlijk advies.
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy?ref=/posts/solaredge-vs-enphase-2026/" class="cta" rel="noopener nofollow" target="_blank">Bekijk Sessy</a>
+
+*Voor de link naar Sessy ontvangen wij geen vergoeding — met Sessy hebben wij geen affiliate- of commissierelatie.*
 
 
 
@@ -470,11 +487,11 @@ Beide zijn uitstekende keuzes — je kunt met geen van beide een verkeerde besli
 - **[Beste Omvormer voor Zonnepanelen 2026](/posts/beste-omvormer-zonnepanelen-2026/)** — Alle omvormermerken vergeleken
 - **[Zonnepanelen Subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/)** — Alle subsidies op een rij
 - **[Beste Thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/)** — Combineer je omvormer met opslag
-- **[Afbouw Salderingsregeling 2026](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)** — Waarom een batterij steeds relevanter wordt
+- **[Saldering stopt per 2027: wat betekent dat?](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)** — waarom opslag daarna zwaarder gaat wegen
 
 ---
 
-*Laatst bijgewerkt: april 2026.*
+*Laatst bijgewerkt: 21 augustus 2026.*
 
 ---
 

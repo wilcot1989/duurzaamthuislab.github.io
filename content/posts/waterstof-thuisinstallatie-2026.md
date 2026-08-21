@@ -33,30 +33,29 @@ faq:
 - q: Is het veilig om waterstof thuis op te slaan?
   a: 'Waterstof is een brandbaar gas met een brede ontvlammingsgrens (4-75% concentratie in lucht). Thuisopslag in gecertificeerde drukvaten is technisch mogelijk, maar vereist strenge veiligheidsmaatregelen: explosieveilige ruimte, gasdetectie, afstandsbediening en gecertificeerde installatie. In Nederland is de regelgeving voor thuisopslag nog niet volledig uitgewerkt.'
 - q: Kan mijn bestaande cv-ketel op waterstof draaien?
-  a: De meeste huidige cv-ketels kunnen op maximaal 20% waterstofmengsel draaien ('H20-ready'). Volledig waterstof vereist aanpassingen aan branders en afdichtingen. Diverse fabrikanten (Bosch, Vaillant, Remeha) hebben waterstof-ready ketels in hun gamma, maar het gasnet levert in Nederland in 2026 geen waterstof.
+  a: De meeste huidige cv-ketels kunnen volgens de fabrikanten met een mengsel tot circa 20% waterstof omgaan. Volledig waterstof vereist aanpassingen aan branders en afdichtingen. Diverse fabrikanten (Bosch, Vaillant, Remeha) hebben waterstof-ready ketels in hun gamma, maar het gasnet levert in Nederland in 2026 geen waterstof.
 - q: 'Wat is beter voor energieopslag: een thuisbatterij of waterstof?'
   a: 'In 2026 is een thuisbatterij (LiFePO4) op vrijwel alle vlakken beter: goedkoper, efficiënter (90%+ round-trip vs 30-40% voor waterstof), makkelijker te installeren en breder beschikbaar. Waterstof heeft theoretisch voordeel bij seizoensopslag (zomer naar winter), maar is voor de gemiddelde huiseigenaar in 2026 geen praktische keuze.'
 - q: Zijn er subsidies voor waterstof thuisinstallaties in Nederland?
   a: Nee, in 2026 zijn er geen specifieke subsidies voor waterstof thuisinstallaties in Nederland. De ISDE geldt niet voor opslagsystemen — voor waterstof niet en voor thuisbatterijen ook niet. Wel zijn er zakelijke regelingen (SDE++, waterstofpilotprogramma's) voor bedrijven en pilots.
 products:
-- name: Sessy thuisbatterij
+- name: Sessy thuisbatterij 5 kWh
   url: https://go.duurzaamthuislab.nl/sessy
-  price: '3999'
-- name: Marstek B5000
+  price: '3550'
+- name: Marstek E 4.0 (5 kWh)
   url: https://go.duurzaamthuislab.nl/marstek
-  price: '3499'
 schema_type: Article
 ---
 "Je kunt straks gewoon waterstof thuis opslaan" — die belofte circuleert al jaren. De stand van zaken in 2026: waterstof thuis is voor particulieren nog grotendeels toekomstmuziek. De technologie vordert wel, en er staan de eerste tientallen installaties in Nederland, maar de kosten en de regelgeving maken het voor een gewone woning nog geen verstandige keuze.
 
 Dit artikel is een eerlijke hype-check. Geen verkoopverhalen, geen pessimisme — gewoon wat de stand van zaken is, wat er concreet beschikbaar is, en wanneer je waterstof thuis serieus kunt overwegen.
 
-*Disclosure: de links naar ANWB Energie, Marstek en Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+*Disclosure: de links naar Sessy en Marstek in dit artikel zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie en voor deze links ontvangen wij geen vergoeding.*
 
 ---
 
 
-> **Kort antwoord:** Waterstof thuis in 2026: eerlijke hype-check. Wat kun je nu echt kopen? Wat kost een waterstof thuissysteem? En wanneer wordt het interessant?
+> **Kort antwoord:** waterstof thuis is in 2026 geen consumentenproduct. Wat je kunt kopen zijn enkele systemen van €36.000 tot €54.000 die met een rendement van 30-45% je zomeroverschot naar de winter tillen; de terugverdientijd komt daarmee ruim buiten de levensduur van de apparatuur.
 >
 > Technisch gezien wel: er zijn kleine elektrolyseurs beschikbaar (o.a. LAVO-systeem uit Australië, Picea van HPS). Maar de prijs (€30.000-€50.000+ voor een compleet systeem), beperkingen op thuisopslag van waterstof en het gebrek aan gecertificeerde installateurs in Nederland maken het in 2026 onpraktisch voor de gemiddelde particulier.
 
@@ -151,23 +150,23 @@ Het meest serieuze Europese product voor thuisgebruik.
 - **Capaciteit:** 43 kWh waterstof-opslagcapaciteit
 - **PV-koppeling:** Tot 20 kWp zonnepanelen
 - **Vermogen brandstofcel:** 4,5 kW
-- **Prijs:** €45.000-€55.000 inclusief installatie (eigen schatting op basis van gesprekken met distributeurs)
+- **Prijs:** HPS publiceert geen consumentenprijs; in de Nederlandse markt worden bedragen van enkele tienduizenden euro's inclusief installatie genoemd. Wij nemen hier geen bedrag over dat wij niet bij de fabrikant kunnen terugvinden — vraag een offerte op
 - **Beschikbaarheid Nederland:** Beperkt beschikbaar, via een handvol gespecialiseerde installateurs
 - **Subsidie:** Geen ISDE (waterstofopslag valt er niet onder), soms een gemeentelijke pilot-regeling
 
 ### Hydrogène de France (kleinschalig)
 
-Meer gericht op zakkelijk/zakelijk, maar heeft kleinere units in ontwikkeling. Geen consumentproduct in 2026.
+Vooral gericht op zakelijke toepassingen. Geen consumentenproduct in 2026.
 
 ### Viessmann Vitovalor 300-P (micro-WKK op aardgas)
 
 Technisch gezien geen puur waterstof-opslagproduct, maar een brandstofcel-WKK op aardgas die al langer beschikbaar is:
 
-- **Prijs:** €22.000-€28.000 inclusief installatie
-- **Beschikbaarheid:** Breed beschikbaar bij erkende installateurs
-- **Efficiëntie:** 65% elektriciteit + 25% warmte = 90% totaalrendement op aardgas
+- **Prijs:** Viessmann publiceert hiervoor geen consumentenprijs; de bedragen die in de markt circuleren liggen in de tienduizenden euro's inclusief installatie
+- **Beschikbaarheid:** via erkende installateurs
+- **Rendement:** een brandstofcel-WKK van dit type levert vooral warmte en daarnaast elektriciteit — de elektrische opbrengst is het kleinste deel van de energiebalans, de warmte het grootste. Het totaalrendement op aardgas ligt volgens de fabrikant rond de 90%
 
-Dit is een ander product, maar relevant als vergelijking voor de technologie.
+Dit is een ander product dan waterstofopslag, maar relevant als vergelijking voor de brandstofceltechniek.
 
 ---
 
@@ -188,19 +187,19 @@ Hieronder een realistische calculatie voor een Picea-achtig systeem in Nederland
 
 ### Terugverdientijd
 
-Stel: je hebt 20 kWp zonnepanelen en produceert jaarlijks 18.000 kWh. Overschot na zelfgebruik: 10.000 kWh per jaar. Via waterstofopslag haal je 35% terug = 3.500 kWh extra eigen gebruik per jaar.
+Modelberekening met zichtbare aannames: 20 kWp zonnepanelen, 18.000 kWh productie, 10.000 kWh overschot na eigen gebruik. Met een round-trip rendement van 35% haal je daar 3.500 kWh per jaar aan eigen verbruik uit.
 
-Besparing op stroomprijs (€0,28/kWh): **€980 per jaar**.
+Waarde daarvan: 3.500 kWh × **€0,26/kWh** (all-in stroomprijs) − 3.500 kWh × **€0,07/kWh** (de terugleververgoeding die je na 2027 misloopt, aanname) = 3.500 × €0,19 = circa **€665 per jaar**.
 
-Terugverdientijd: €45.000 / €980 = **46 jaar**.
+Terugverdientijd bij een investering van €45.000: **ruim 65 jaar**. Zelfs als je de volledige stroomprijs zou rekenen zonder gemiste terugleververgoeding, kom je op bijna 50 jaar.
 
-De garantieduur van de meeste systemen is 10-15 jaar. De terugverdientijd is langer dan de levensduur. Dit is in 2026 financieel niet rendabel.
+De garantietermijnen in dit segment liggen op tien tot vijftien jaar. De terugverdientijd is daarmee vele malen langer dan de levensduur van de apparatuur. Dit is in 2026 geen investering, het is een pilot.
 
-### Vergelijking met thuisbatterij
+### Vergelijking met een thuisbatterij
 
-Een Sessy thuisbatterij (5 kWh) kost circa €4.000-€5.000 inclusief installatie. Terugverdientijd: 6-10 jaar bij normaal gebruik en dynamisch tariefcontract. Zie onze [Sessy review](https://go.duurzaamthuislab.nl/sessy).
+Een Sessy van 5 kWh kost **€3.550** inclusief btw en exclusief installatie (sessy.nl, opgehaald 21 augustus 2026). In ons rekenmodel levert 5 kWh opslag circa €130 per jaar op bij een vast contract en circa €170 bij een dynamisch contract — een terugverdientijd van grofweg twintig tot dertig jaar, en korter zodra je verbruik hoger is of beter verdeeld. Zie onze [Sessy review](/posts/sessy-review-thuisbatterij-nederland/) en de [terugverdientijd-vergelijker](/thuisbatterij-terugverdientijd-vergelijken/).
 
-Een thuisbatterij wint de financiële vergelijking nu met gemak. Waterstof heeft pas voordeel als de kostprijs daalt tot onder €10.000 voor een compleet systeem.
+Een thuisbatterij wint die vergelijking dus met ruime marge — maar let op wat dat betekent: de batterij is de minst slechte van twee opties die zich beide traag terugverdienen.
 
 ---
 
@@ -281,14 +280,14 @@ Onze inschatting: waterstofboilers voor particulieren in Nederland worden pas re
 
 ## Waterstof vs thuisbatterij: de eerlijke vergelijking
 
-| Criterium | Thuisbatterij (LiFePO4) | Waterstof-opslagsysteem |
+| Criterium | Thuisbatterij (LFP) | Waterstof-opslagsysteem |
 |---|---|---|
-| Prijs systeem (2026) | €4.000-€8.000 | €35.000-€55.000 |
-| Round-trip efficiëntie | 90-95% | 30-45% |
-| Opslagduur | Dagelijks/wekelijks | Seizoensmatig |
-| Installatietijd | 1 dag | 2-5 dagen + vergunning |
-| Rijkssubsidie | Nee (valt niet onder ISDE; soms gemeentelijk €300-€750) | Nee |
-| Terugverdientijd | 6-12 jaar | >30 jaar |
+| Prijs systeem (2026) | €3.550 voor 5 kWh, €5.500 voor 10 kWh (Sessy, sessy.nl 21-8-2026, excl. installatie) | €36.500-€53.500 volgens de kostenopbouw hierboven |
+| Round-trip rendement | 90% (onze rekenaanname) | 30-45% |
+| Opslagduur | dagelijks tot enkele dagen | seizoensmatig |
+| Installatietijd | 1 dag | 2-5 dagen plus vergunningprocedure |
+| Rijkssubsidie | nee — de ISDE dekt geen opslag; btw is 21% | nee |
+| Terugverdientijd in onze modellen | ruwweg 20-30 jaar bij 5 kWh, korter bij hoog en goed verdeeld verbruik | ver buiten de levensduur |
 | Onderhoud | Minimaal | Jaarlijks onderhoud vereist |
 | Beschikbare installateurs | Honderden | Minder dan 20 (NL) |
 | Technische rijpheid | Volwassen | Vroeg-commercieel |
@@ -409,8 +408,8 @@ Voor wie de ontwikkelingen wil volgen zonder onnodige investeringen:
 **Stap 2: Check de warmteplannen van je gemeente**
 Gemeenten die waterstof-ready bouwen (Stad aan 't Haringvliet, pilot Rotterdam-IJsselmonde) kunnen vroeger toegang bieden tot waterstof-infrastructuur dan gemeenten zonder plan.
 
-**Stap 3: Bij nieuwbouw: vraag naar waterstof-ready**
-De meerkosten voor waterstof-ready leidingwerk (extra gasleidingdiameter, drukvat-niche in meterkast) zijn bij nieuwbouw beperkt — minder dan €2.000. Dit is een zinvolle optie als je denkt 20+ jaar in de woning te blijven.
+**Stap 3: Bij nieuwbouw: vraag wat "waterstof-ready" concreet inhoudt**
+Vraag de aannemer welke aanpassing hij precies bedoelt en wat die kost. Wij noemen hier geen bedrag: dat verschilt per project en er is geen standaardpakket. Weeg het af tegen de kans dat er in jouw straat ooit waterstof door de leiding gaat — die kans is in de meeste Nederlandse gemeenten klein.
 
 **Stap 4: Koop nu geen waterstof-gerelateerde producten**
 Geen elektrolyseurs, geen "waterstofboilers" (die in 2026 in Nederland geen waterstof hebben om op te draaien), geen waterstof-investeringsfondsen op basis van technologiehype.
@@ -419,10 +418,9 @@ De eenvoudigste handeling die je nu kunt doen: installeer een bewezen thuisbatte
 
 ---
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de Sessy thuisbatterij — de slimme keuze voor 2026</a>
+<a href="https://go.duurzaamthuislab.nl/sessy?ref=/posts/waterstof-thuisinstallatie-2026/" class="cta" rel="noopener nofollow" target="_blank">Bekijk de Sessy thuisbatterij</a>
 
-
-<a href="https://go.duurzaamthuislab.nl/anwb-energie" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Anwb Energie</a>
+*Voor deze link ontvangen wij geen vergoeding — met Sessy hebben wij geen affiliate- of commissierelatie.*
 
 ## Gerelateerde artikelen
 

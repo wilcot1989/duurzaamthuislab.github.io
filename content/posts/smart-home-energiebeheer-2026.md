@@ -1,8 +1,8 @@
 ---
-title: 'Smart Home Energiebeheer 2026: Bespaar met Slimme'
+title: 'Smart home energiebeheer 2026: meten, sturen en wat het echt oplevert'
 date: 2026-05-22 10:00:00+01:00
 lastmod: '2026-08-19 08:00:00+02:00'
-description: Bespaar tot 30% op je energierekening met smart home technologie. Slimme thermostaten, energiemonitoring, automatisering en de beste systemen vergeleken.
+description: 'Slim energiebeheer in huis met P1-meting, een slimme thermostaat, een dynamisch contract en Home Assistant — met een narekenbaar rekenmodel per component in plaats van een besparingspercentage.'
 categories:
 - energie
 tags:
@@ -16,13 +16,13 @@ keywords:
 - slimme thermostaat
 - energiebesparing domotica
 - Home Assistant energie
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
-- q: Hoeveel bespaar je met smart home energiebeheer?
-  a: Met een slimme thermostaat bespaar je 15-20% op verwarming (€200-€400/jaar). Slim laden van een EV bespaart €200-€500/jaar. Energiemonitoring + gedragsverandering bespaart nog eens 5-10%. Totaal kun je met een volledig slim systeem 20-30% besparen op je energierekening.
+- q: Hoeveel levert smart home energiebeheer op?
+  a: 'Dat hangt af van je uitgangssituatie, en één percentage voor "smart home" bestaat niet. In onze modelberekening met een tussenwoning, warmtepomp, zonnepanelen en een dynamisch contract komen de posten samen op circa €500 tot €650 per jaar bij ongeveer €365 aan hardware. Het grootste deel daarvan komt van twee dingen: verwarming op schema en verbruik verschuiven naar goedkope uren. Wie een vast contract heeft en zijn thermostaat al bijhield, houdt daar een fractie van over.'
 - q: Welke slimme thermostaat is het beste?
   a: De Google Nest Learning Thermostat is het beste voor eenvoud (leert automatisch je schema). De Tado is het beste voor multi-zone besturing en weersafhankelijke regeling. De Homey of Home Assistant thermostaat is het beste als je een uitgebreid smart home hebt met dynamische energietarieven.
 - q: Wat is Home Assistant, en heb je het nodig?
@@ -30,56 +30,54 @@ faq:
 - q: Kun je een warmtepomp slim aansturen?
   a: Ja, veel moderne warmtepompen (Daikin, Remeha, Vaillant) zijn koppelbaar met slimme thermostaten en Home Assistant. Je kunt de warmtepomp laten draaien wanneer stroom goedkoop is (dynamisch contract) en stoppen wanneer stroom duur is, zonder comfortverlies dankzij het thermische buffereffect van je woning.
 - q: Welke apparaten verbruiken het meeste stroom in huis?
-  a: 'Top energieverbruikers: warmtepomp/CV-ketel (40-50%), warm water (15-20%), koelkast/vriezer (8-10%), wasmachine/droger (5-8%), koken (5-7%), verlichting (3-5%), standby-verbruik (5-10%). Een energiemonitor als de P1-meter of Homewizard maakt dit inzichtelijk per apparaat.'
+  a: 'In een woning met warmtepomp is die warmtepomp de grootste post, daarna warm water; in een gaswoning zijn koeling, wassen en drogen, koken en verlichting de grote stroomposten en staat verwarming op de gasrekening. Standby-verbruik is samen 10-15% van het stroomverbruik. Een P1-meter laat zien wat er in totaal binnenkomt en uitgaat; wil je het per apparaat weten, dan heb je meetstekkers of een meter met stroomtangen nodig.'
 - q: Is een smart home systeem moeilijk te installeren?
   a: Slimme thermostaten en plugs kun je zelf installeren in 15-30 minuten. Een compleet Home Assistant systeem vereist meer technische kennis (1-2 dagen opzet). Er zijn ook kant-en-klare systemen als Tado en Google Nest die zonder technische kennis werken.
 products:
 - name: HomeWizard P1 Meter
-  url: https://www.homewizard.com/nl/p1-meter/
-  price: '30'
-- name: Shelly Pro 3EM
-  url: https://www.shelly.com/nl/products/shop/shelly-pro-3-em-400
-  price: '120'
-- name: Tibber Pulse
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '99'
+  url: https://go.duurzaamthuislab.nl/homewizard
+  price: '24,95'
 schema_type: Article
 ---
 Een goed ingericht energiesysteem in huis werkt zonder dat je er iets voor doet: een P1-meter ziet wat er binnenkomt en uitgaat, een thuisbatterij laadt op zolang er zonneoverschot is, en de warmtepomp draait vooral op de uren dat stroom goedkoop is. Dat klinkt ingewikkeld, maar het draait om drie componenten — meten, sturen en een doel — en het is met een middag instellen op te zetten. In dit artikel leggen wij uit hoe je zo'n systeem zelf inricht, wat het kost en waar de winst werkelijk zit.
 
-*Disclosure: de links naar Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+*Disclosure: dit artikel bevat een affiliate-link naar HomeWizard. Koop je via die link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. De links naar Tibber en de overige genoemde merken zijn gewone verwijzingen: daarvoor ontvangen wij geen vergoeding.*
 
 Heb je een dynamisch energiecontract? Slim energiebeheer maakt de besparing nog groter. Lees onze [vergelijking dynamische energiecontracten](/posts/dynamische-energiecontracten-vergelijking-2026/).
 
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — wat er per 1 januari 2027 verandert en welke keuzes je nu al kunt maken.*
 
-> **Kort antwoord:** Bespaar tot 30% op je energierekening met smart home technologie. Slimme thermostaten, energiemonitoring, automatisering en de beste systemen vergeleken.
+> **Kort antwoord:** begin met meten, niet met kopen. Een P1-meter (€24,95 bij HomeWizard, peildatum 21 augustus 2026) laat zien waar je stroom heen gaat; daarna weet je welke stap voor jóu iets oplevert.
 >
-> Met een slimme thermostaat bespaar je 15-20% op verwarming (€200-€400/jaar). Slim laden van een EV bespaart €200-€500/jaar. Energiemonitoring + gedragsverandering bespaart nog eens 5-10%. Totaal kun je met een volledig slim systeem 20-30% besparen op je energierekening.
+> De twee posten waar in onze modelberekening het geld zit, zijn verwarming op een schema dat bij je leefpatroon past en verbruik verschuiven naar goedkope uren met een dynamisch contract. Samen met standby-stekkers en sturing van de warmtepomp komt dat model uit op circa €500-€650 per jaar bij ongeveer €365 aan hardware — met alle aannames zichtbaar verderop. Eén percentage voor "smart home" bestaat niet.
 
 ## De Smart Home Energie Stack
 
-| Component | Besparing/jaar | Kosten | Terugverdientijd |
+Onderstaande bedragen zijn **modeluitkomsten met de aannames uit dit artikel** (stroom €0,26/kWh all-in, gas €1,10/m³, dynamisch contract waar dat is aangegeven), geen gemeten resultaten. De posten zijn niet zonder meer bij elkaar op te tellen: ze grijpen op elkaar in, en welke voor jou geldt hangt af van je contract, je woning en je huidige gedrag.
+
+| Component | Modelbesparing per jaar | Kosten (orde van grootte) | Geldt voor |
 |-----------|--------------|--------|-----------------|
-| **Slimme thermostaat** | €200-€400 | €200-€350 | 6-18 maanden |
-| **Energiemonitor (P1)** | €100-€200 | €30-€60 | 2-6 maanden |
-| **Slimme stekkers** | €50-€100 | €40-€80 | 6-18 maanden |
-| **Smart charging (EV)** | €200-€500 | €0-€100 | 0-6 maanden |
-| **Home Assistant hub** | €100-€300 | €100-€200 | 4-18 maanden |
-| **Slimme radiatorknoppen** | €100-€200 | €150-€300 | 12-24 maanden |
-| **Totaal** | **€750-€1.700** | **€520-€1.090** | **4-12 maanden** |
+| **Slimme thermostaat** | €80-€250 | €110-€250 | iedereen met radiatoren of vloerverwarming |
+| **Energiemonitor (P1)** | €45-€90 | €24,95 | iedereen — dit is de meetstap |
+| **Slimme stekkers** | €40-€80 | €60-€90 | huizen met veel apparatuur op standby |
+| **Slim laden van een EV** | €150-€300 | €0-€100 | alleen met EV én dynamisch contract |
+| **Home Assistant** | maakt de posten hieronder mogelijk | €80-€300 | wie zelf wil automatiseren |
+| **Warmtepomp op uurprijs** | €100-€200 | €0 als de warmtepomp al aanwezig is | alleen met warmtepomp én dynamisch contract |
+| **Slimme radiatorknoppen** | €30-€80 per afgeschakelde kamer | €35-€60 per knop | huizen met echt leegstaande vertrekken |
 
 ## 1. Slimme Thermostaat — De basis
 
 ### Beste slimme thermostaten
 
-| Thermostaat | Prijs | Bespaarpotentieel | Dynamische tarieven | Beste voor |
+| Thermostaat | Prijs | Bespaarclaim fabrikant | Dynamische tarieven | Beste voor |
 |------------|-------|-------------------|---------------------|------------|
-| **Google Nest** | €250 | 15-20% | Via Home Assistant | Eenvoud, automatisch leren |
-| **Tado** | €200-€300 | 15-25% | ✅ Via Tado app | Multi-zone, weersafhankelijk |
-| **Netatmo** | €180 | 10-15% | Via Home Assistant | Apple HomeKit |
-| **Homey** | €400 | 15-25% | ✅ | Uitgebreid smart home |
+| **Google Nest Learning (4e gen)** | €249 (store.google.com/nl, 21-8-2026) | 20-30% | via Home Assistant | eenvoud, lerend schema |
+| **Tado** | controleer op tado.com | 31% | via de Tado-app | per-kamerregeling |
+| **Netatmo** | controleer bij de fabrikant | geen concrete claim gevonden | via Home Assistant | Apple HomeKit |
+| **Homey Pro** | controleer bij Athom | geen concrete claim gevonden | ja, ingebouwd | wie alles op één controller wil |
+
+*De percentages in de derde kolom zijn claims van de fabrikanten zelf en gelden voor een woning die eerder niet op schema verwarmde. Wij nemen alleen prijzen over die de fabrikant publiceert en die wij op de genoemde datum hebben gecontroleerd.*
 
 ### Hoe een slimme thermostaat bespaart
 
@@ -104,15 +102,19 @@ Bekijk onze [warmtepomp vs CV-ketel vergelijking](/posts/warmtepomp-vs-cv-ketel-
 
 Een P1-meter klikt op je slimme meter en geeft real-time inzicht in je stroom- en gasverbruik via een app.
 
-| Monitor | Prijs | Functies | App kwaliteit |
-|---------|-------|---------|-------------|
-| **HomeWizard P1** | €30 | Real-time verbruik, historiek, kosten | ⭐⭐⭐⭐⭐ |
-| **Tibber Pulse** | zie Tibber Store | Per-seconde verbruik, Tibber integratie | ⭐⭐⭐⭐⭐ |
-| **Iungo** | €100 | Verbruik + zonnepanelen, per apparaat | ⭐⭐⭐⭐ |
+| Monitor | Prijs | Functies |
+|---------|-------|---------|
+| **HomeWizard P1** | €24,95 (homewizard.com, 21-8-2026) | realtime verbruik, historie, kosten, Home Assistant-integratie |
+| **Tibber Pulse** | niet publiek — alleen in de Tibber Store zichtbaar | verbruik per seconde, koppeling met de Tibber-app |
+| **Iungo** | controleer bij de fabrikant | verbruik plus zonnepanelen |
 
-**Waarom het werkt:** Uit onderzoek blijkt dat real-time inzicht in energieverbruik leidt tot 5-15% besparing door gedragsverandering. Je ziet direct welke apparaten veel verbruiken en wanneer je piekverbruik hebt.
+Wij geven monitors geen sterren: wij gebruiken ze niet zelf. Waar het bij de keuze op aankomt, is of de meter je data lokaal beschikbaar stelt (voor Home Assistant) of alleen in de cloud van de leverancier.
 
-**HomeWizard P1** is onze aanrader: voor €30 krijg je real-time inzicht en het integreert met Home Assistant.
+**Waarom meten werkt:** je kunt niet sturen wat je niet ziet. Hoeveel gedragswinst inzicht oplevert, verschilt per huishouden en wij hebben daar geen bron voor die we kunnen aanwijzen — in onze modelberekening rekenen wij met een voorzichtige aanname van 5-10% op het stroomverbruik in het eerste jaar, en dan alleen als je er daadwerkelijk naar handelt.
+
+**Onze aanrader is de HomeWizard P1** vanwege de prijs en de lokale API:
+
+<a href="https://go.duurzaamthuislab.nl/homewizard?ref=/posts/smart-home-energiebeheer-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de HomeWizard P1-meter</a>
 
 ## 3. Smart Charging (EV)
 
@@ -153,7 +155,7 @@ Home Assistant is gratis open-source software die al je slimme apparaten centraa
 | Zonneoverschot benutten | Wasmachine aan bij veel zonne-opbrengst | €50-€100/jaar |
 
 ### Benodigdheden
-- **Hardware:** Raspberry Pi 4 (€80) of mini-PC (€150-€300)
+- **Hardware:** een Raspberry Pi (orde van grootte €80) of een mini-pc
 - **Software:** Home Assistant (gratis, open-source)
 - **Installatie:** 1-2 dagen voor basisopzet, daarna continu uitbreiden
 - **Kennis:** Basis technisch, online community is zeer hulpvaardig
@@ -162,20 +164,22 @@ Home Assistant is gratis open-source software die al je slimme apparaten centraa
 
 ### Standby-verbruik elimineren
 
-Standby-verbruik kost een gemiddeld huishouden €50-€150 per jaar. Met slimme stekkers schakel je apparaten volledig uit wanneer ze niet nodig zijn.
+Standby-verbruik kost een gemiddeld huishouden circa €91-€137 per jaar (zie de rekensom verderop). Met slimme stekkers schakel je apparaten volledig uit wanneer ze niet nodig zijn — in de praktijk haal je daar een deel van weg, niet alles: een router en een decoder die je 's nachts uitzet moeten 's ochtends weer opstarten, en niet elk apparaat verdraagt dat.
 
-| Slimme stekker | Prijs | Energiemonitoring | Beste voor |
+| Slimme stekker | Prijs (orde van grootte) | Verbruiksmeting | Beste voor |
 |-------------|-------|------------------|-----------|
-| **Shelly Plug S** | €15 | ✅ | Home Assistant |
-| **TP-Link Tapo P110** | €15 | ✅ | Standalone app |
-| **IKEA TRÅDFRI** | €10 | ❌ | Budget, IKEA ecosysteem |
+| **Shelly Plug S** | circa €15 | ja | Home Assistant, lokale besturing |
+| **TP-Link Tapo P110** | circa €15 | ja | losse app zonder hub |
+| **IKEA-stekker** | circa €10 | nee | budget, IKEA-ecosysteem |
 
-**Waar te plaatsen:** TV + apparatuur (slaapstand = €30/jaar), computer + monitor (€20/jaar), opladers (€10/jaar), koffiezetapparaat (€10/jaar).
+*Prijzen van dit soort accessoires wisselen per webshop en per actie; de bedragen hierboven zijn een orde van grootte, geen fabrikantprijs. Controleer ze bij aanschaf.*
+
+**Waar te plaatsen:** bij het tv-meubel, de werkplek en apparaten met een warmhoudfunctie. Reken per apparaat: vermogen in watt × uren per jaar ÷ 1.000 × €0,26.
 
 ## Compleet Smart Home Energie Stappenplan
 
 ### Stap 1: Inzicht (week 1)
-- Installeer een P1-meter (HomeWizard, €30)
+- Installeer een P1-meter (HomeWizard, €24,95)
 - Monitor je verbruik 2 weken
 - Identificeer grote verbruikers en patronen
 
@@ -200,45 +204,49 @@ Onderstaand een **modelberekening**, geen meting. De opzet: HomeWizard P1-meter,
 
 **Profiel in dit model: tussenwoning, warmtepomp, 16 zonnepanelen, geen EV**
 
-| Component | Kosten component | Besparing/jaar | TVT |
-|-----------|-----------------|---------------|-----|
-| HomeWizard P1 meter + HA-integratie | €30 | €180 (gedragsverandering) | 2 mnd |
-| Tado slimme thermostaat | €250 | €320 (15% op verwarming) | 9 mnd |
-| Slimme stekkers (6 stuks Shelly) | €90 | €95 (standby-eliminatie) | 11 mnd |
-| Tibber + HA-automatisering | €0 (al contract) | €280 (verbruikverschuiving) | 0 |
-| Warmtepomp op dynamische prijs via HA | €0 (al aanwezig) | €195 (goedkope uren) | 0 |
-| **Totaal** | **€370** | **€1.070** | **4 mnd** |
+Rekenregels: stroom **€0,26/kWh** all-in, stroomverbruik 3.500 kWh, warmtepompverbruik 4.500 kWh. Bij een dynamisch contract rekenen wij met een load-weighted verschil van **€0,03/kWh** tussen ongestuurd en gestuurd verbruik (aanname, geen meting).
 
-De belangrijkste conclusie uit dit model gaat niet over de bedragen maar over de rangorde: de grootste winst zit niet in de hardware maar in **gedrag**. Een P1-meter van enkele tientjes maakt zichtbaar waar je stroom heen gaat, en het aanpassen van gewoonten op basis van die data levert doorgaans meer op dan welk los apparaat ook. Begin daar, en koop pas daarna hardware.
+| Component | Kosten | Modelbesparing per jaar | Rekenregel |
+|-----------|-----------------|---------------|-----|
+| HomeWizard P1-meter | €24,95 | €45-€90 | 5-10% van 3.500 kWh × €0,26, alleen als je er naar handelt |
+| Slimme thermostaat | circa €250 | €80-€250 | 5-25% van de warmtevraag, afhankelijk van je huidige schema |
+| Slimme stekkers (6 stuks) | circa €90 | €40-€80 | deel van het standby-verbruik van 350-525 kWh × €0,26 |
+| Dynamisch contract + automatisering | €0 (contract) | circa €100 | 3.500 kWh × €0,03 |
+| Warmtepomp op uurprijs via Home Assistant | €0 (pomp al aanwezig) | circa €135 | 4.500 kWh × €0,03 |
+| **Totaal** | **circa €365** | **circa €400-€655** | terugverdientijd 7-11 maanden |
+
+De belangrijkste conclusie uit dit model gaat niet over de bedragen maar over de rangorde: de grootste winst zit niet in de hardware maar in het schema en het contract. Een P1-meter van vijfentwintig euro maakt zichtbaar waar je stroom heen gaat; wat je daarna met die informatie doet, bepaalt de uitkomst. Begin daar, en koop pas daarna hardware.
+
+Let ook op de voorwaarden onder dit model: twee van de vijf posten bestaan alleen bij een dynamisch contract, en de thermostaatpost is nul als je je schema al bijhield. Wie een vast contract heeft en zijn verwarming al bewust regelt, houdt van deze €400-€655 een fractie over.
 
 ---
 
 ## Wettelijk kader 2026: subsidies en slimme meter
 
-**0% BTW op slimme thermostaten:** Sinds 1 januari 2024 geldt 0% BTW op de installatie van energie-efficiënte verwarmingssystemen, waaronder slimme thermostaten als onderdeel van een verduurzamingspakket. Vraag dit expliciet na bij installateurs.
+**Er is géén 0% btw op slimme thermostaten.** Die regel bestaat niet — niet sinds 2024 en niet daarvoor. Het 0%-tarief geldt uitsluitend voor zonnepanelen en de onderdelen die daarvoor direct noodzakelijk zijn. Op een thermostaat, een warmtepomp, een boiler, isolatie of een thuisbatterij betaal je **21% btw**, ook wanneer een installateur ze als onderdeel van een verduurzamingspakket levert. Kom je in een offerte 0% btw op een thermostaat tegen, vraag dan waar die vrijstelling op gebaseerd is; het risico van een naheffing ligt bij de ondernemer, maar de correctie belandt vaak alsnog op jouw factuur.
 
 **Slimme meter verplicht stellen:** In Nederland zijn netbeheerders wettelijk verplicht elke huishouding op verzoek een slimme meter te plaatsen, kosteloos. Meer dan 90% van de Nederlandse woningen heeft al een slimme meter (bron: CBS, 2025). Zonder slimme meter: bel je netbeheerder (Liander, Stedin, Enexis) voor plaatsing binnen 2-4 weken.
 
-**Netcongestie en slim laden:** Netbeheerders experimenteren in 2026 met "flexibiliteitsdiensten" — vergoedingen voor huishoudens die hun verbruik verlagen op piekmomenten. Tibber en ANWB Energie nemen hier al aan deel. Wie een slim energiesysteem heeft, kan hiermee €50-€150 per jaar extra verdienen.
+**Netcongestie en flexibiliteit:** er lopen in Nederland pilots waarin huishoudens een vergoeding krijgen voor het verlagen van hun verbruik op piekmomenten. Welke leveranciers en netbeheerders daar op welk moment aan meedoen en wat het oplevert, verandert per pilot en per regio; wij noemen daarom geen bedragen en geen deelnemers. Wil je meedoen, kijk dan bij je eigen leverancier en netbeheerder wat er op dit moment openstaat.
 
 ---
 
 ## Veelgemaakte fouten bij smart home energiebeheer
 
 **Fout 1: Te snel te veel kopen**
-Veel mensen investeren direct in alles tegelijk: thuisbatterij, slimme thermostaat, laadpaal, EV. Resultaat: een systeem dat ze niet begrijpen en niet gebruiken. Beter: begin met de P1-meter (€30), leer je eigen verbruikspatroon kennen, en breid dan pas uit.
+Veel mensen investeren direct in alles tegelijk: thuisbatterij, slimme thermostaat, laadpaal, EV. Resultaat: een systeem dat ze niet begrijpen en niet gebruiken. Beter: begin met de P1-meter (€24,95), leer je eigen verbruikspatroon kennen, en breid dan pas uit.
 
 **Fout 2: Apparaten koppelen zonder integratie**
 Een slimme stekker van merk A die niet communiceert met je thermostaat van merk B en je P1-meter van merk C is drie losse eilanden. Gebruik één platform — bij voorkeur Home Assistant — dat alles aan elkaar knoopt.
 
 **Fout 3: Thermostaat slim maken, gedrag niet**
-Een Tado bespaart inderdaad 15-20% op verwarmingskosten — maar alleen als je het schema goed instelt en de geofencing activeert. Veel mensen installeren hem en laten alle instellingen op de fabrieksdefault staan. Dan werkt het net zo goed als een gewone thermostaat.
+De bespaarpercentages van fabrikanten gelden alleen als je het schema goed instelt en de aanwezigheidsdetectie activeert. Veel mensen installeren hem en laten alle instellingen op de fabrieksdefault staan. Dan werkt het net zo goed als een gewone thermostaat.
 
 **Fout 4: Vaste contracten hebben met dynamisch gedrag**
 Smart home energiebeheer heeft geen zin als je een vast contract met een vast tarief hebt. Het hele principe draait op prijsverschillen tussen uren. Zonder dynamisch contract (Tibber, Frank Energie, ANWB Dynamisch) laat je het meeste geld op tafel liggen.
 
 **Fout 5: Warmtepomp op vast schema draaien**
-De warmtepomp is de grootste energieverbruiker in huis (4.000-8.000 kWh/jaar bij een typische warmtepompwoning). Die op een vast schema draaien — ongeacht de stroomprijs van het moment — kost gemiddeld €150-€300 per jaar onnodig. Met Home Assistant en een Tibber-integratie stel je drempelwaarden in: pomp aan als stroom <€0,12/kWh, pomp uit (of lagere stand) als stroom >€0,30/kWh.
+De warmtepomp is in een all-electric woning de grootste stroomverbruiker (grofweg 4.000-8.000 kWh per jaar). Draait die ongeacht de uurprijs, dan loop je bij een dynamisch contract geld mis: in ons model circa €135 per jaar bij 4.500 kWh en €0,03 verschil per kWh. Met Home Assistant en de API van je leverancier stel je drempels in — bijvoorbeeld extra warmte inzetten onder een lage uurprijs en terugvallen op een comfortminimum boven een hoge. Welke drempels werken, hangt af van de spreiding in jouw tarieven en van hoe goed je woning warmte vasthoudt.
 
 ---
 
@@ -254,24 +262,28 @@ Deze volgorde is bewust: elke stap levert data of besparing op die de volgende s
 
 **Maand 4 — standby aanpakken.** Slimme stekkers bij de grote standby-verbruikers (router, tv-meubel, werkplek), automatisch uit als niemand thuis is.
 
-**Maand 5-6 — koppelen.** Home Assistant op een Raspberry Pi (rond de €80) met de integraties voor je leverancier, thermostaat, P1-meter en stekkers. Vanaf hier praten de losse onderdelen met elkaar.
+**Maand 5-6 — koppelen.** Home Assistant op een Raspberry Pi (orde van grootte €80) met de integraties voor je leverancier, thermostaat, P1-meter en stekkers. Vanaf hier praten de losse onderdelen met elkaar.
 
 **Maand 7 — eerste automatisering.** Bijvoorbeeld: start de wasmachine zodra de uurprijs onder een grens zakt én je zonnepanelen boven een bepaald vermogen leveren. De winst per wasbeurt is klein, maar hij loopt op en het kost je geen aandacht meer.
 
 **Maand 8 — warmtepomp.** Via Modbus of een smart controller in Home Assistant, gestuurd op uurprijs én weersvoorspelling. Dit is de stap met de grootste impact, omdat de warmtepomp de grootste stroomverbruiker in huis is.
 
-Totale investering over 8 maanden: €420. Jaarlijkse besparing: €1.070. Terugverdientijd: 5 maanden.
+Totale investering over acht maanden: circa €365 aan hardware (P1-meter, thermostaat, stekkers en een Raspberry Pi). Modelbesparing: circa €400-€655 per jaar, met de aannames uit de tabel hierboven. Terugverdientijd: zeven tot elf maanden — mits je een dynamisch contract hebt, want twee van de vijf posten bestaan zonder dat contract niet.
 
 ---
 
 ## Conclusie
 
-Smart home energiebeheer is de meest rendabele verduurzamingsinvestering die je kunt doen. Met €500-€1.000 aan apparaten bespaar je €750-€1.700 per jaar — een terugverdientijd van vaak minder dan een jaar.
+Slim energiebeheer is een van de weinige verduurzamingsstappen met een korte terugverdientijd, maar het is geen wondermiddel: in ons model staat circa €365 aan hardware tegenover €400 tot €655 per jaar, en dat model leunt op een dynamisch contract en op een thermostaat die nu níet goed staat ingesteld.
 
-Begin met de basis (P1-meter + slimme thermostaat) en breid stap voor stap uit. De technologie wordt elk jaar toegankelijker en de besparingen worden groter naarmate energieprijzen stijgen.
+Begin daarom bij het meten (een P1-meter kost €24,95) en beslis daarna. Blijkt uit je eigen data dat er weinig te verschuiven valt en dat je schema al klopt, dan is de eerlijke conclusie dat je met isolatie of met je contract meer wint dan met apparaten.
 
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/homewizard?ref=/posts/smart-home-energiebeheer-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de HomeWizard P1-meter</a>
+
+<a href="https://go.duurzaamthuislab.nl/tibber?ref=/posts/smart-home-energiebeheer-2026/" class="cta" rel="noopener nofollow" target="_blank">Bekijk Tibber</a>
+
+*Voor de link naar Tibber ontvangen wij geen vergoeding — met Tibber hebben wij geen affiliate- of commissierelatie.*
 
 
 
@@ -279,15 +291,15 @@ Begin met de basis (P1-meter + slimme thermostaat) en breid stap voor stap uit. 
 
 Er zijn tientallen smart home-merken op de markt. Wij vergelijken hieronder op de punten die voor energiebeheer bepalend zijn: lokale besturing, integratiemogelijkheden, abonnementsverplichting en prijs.
 
-**Shelly (Allterco):** Beste prijs-kwaliteitsverhouding voor energie-gerelateerde producten. Shelly Plug S (€15), Shelly 1PM (€12), Shelly Pro 3EM (stroommonitoring drie-fase). Uitstekende Home Assistant-integratie, lokale besturing, geen abonnement. Onze aanbeveling voor Home Assistant-gebruikers.
+**Shelly (Allterco):** het sterkste aanbod voor energie-gerelateerde metingen en schakelingen; de losse modules kosten grofweg tien tot twintig euro, de driefase-energiemeter (Pro 3EM) meer — controleer de actuele prijzen bij de leverancier. Uitstekende Home Assistant-integratie, lokale besturing, geen abonnement. Onze aanbeveling voor Home Assistant-gebruikers.
 
-**Philips Hue:** Best voor verlichting, maar duur voor energiebeheer. Zigbee-protocol is goed, maar de Hue Hub vereist een bridge. Voor energiebesparing via verlichting: gemiddeld €30-€60/jaar besparing per huishouden — voldoende om de starterset in 2-3 jaar terug te verdienen.
+**Philips Hue:** Best voor verlichting, maar duur voor energiebeheer. Zigbee-protocol is goed, maar de Hue Hub vereist een bridge. Op verlichting valt met LED al het meeste te winnen; slimme lampen voegen daar comfort aan toe en nauwelijks besparing. Reken zelf na: een lamp die je een uur per dag minder laat branden bij 8 W scheelt circa 3 kWh per jaar, ofwel minder dan een euro.
 
-**IKEA Home Smart:** Beste budget-instap. TRÅDFRI stekkers (€10), slimme lampen (€10-€15), Dirigera hub (€79). Beperkte integraties maar werkt goed als standalone systeem. Voor wie Home Assistant te complex is.
+**IKEA Home Smart:** de goedkoopste instap; stekkers, lampen en een hub voor lage bedragen (controleer de actuele prijzen in de winkel). Beperkte integraties maar werkt goed als standalone systeem. Voor wie Home Assistant te complex is.
 
-**Homey Pro (Athom):** De premium all-in-one controller (€399). Ondersteunt Zigbee, Z-Wave, Bluetooth, Thread en Wi-Fi in één apparaat. Geen Raspberry Pi nodig. Ideaal voor wie een compleet smart home wil zonder technische kennis — maar geen open-source. Meer beperkingen dan Home Assistant op lange termijn.
+**Homey Pro (Athom):** de all-in-one controller (prijs op athom.com). Ondersteunt Zigbee, Z-Wave, Bluetooth, Thread en Wi-Fi in één apparaat. Geen Raspberry Pi nodig. Ideaal voor wie een compleet smart home wil zonder technische kennis — maar geen open-source. Meer beperkingen dan Home Assistant op lange termijn.
 
-**TP-Link Tapo:** Budget-alternatief voor Shelly. Tapo P110 slimme stekker (€15) met energiemonitoring. Goede app, redelijke Home Assistant-integratie. Onze tweede keuze na Shelly als prijs leidend is.
+**TP-Link Tapo:** budgetalternatief voor Shelly. De P110-stekker meet ook het verbruik. Goede app, redelijke Home Assistant-integratie. Onze tweede keuze na Shelly als prijs leidend is.
 
 ---
 
@@ -306,7 +318,7 @@ Slimme radiatorknoppen (Tado, Homey, IKEA Dirigera-compatibel) worden vaak aanbe
 - Je woning is klein (<80 m²): één slimme thermostaat in de woonkamer is voldoende
 
 **Kosten en besparing:**
-- Prijs per slimme radiatorknop: €35-€60 (Tado), €25-€40 (IKEA)
+- Prijs per slimme radiatorknop: orde van grootte €25-€60, afhankelijk van merk en aantal — controleer actuele prijzen
 - Besparing per ongebruikte kamer (logeer-, werk- of hobbykamer): €30-€80/jaar
 - Terugverdientijd: 1-2 jaar per kamer
 
@@ -319,15 +331,17 @@ Een typische toepassing: drie knoppen op slaapkamers, met een schema van 14°C o
 Dit is het onderwerp waar de meeste vragen over komen: hoe koppel je een warmtepomp aan dynamische stroomtarieven? Hieronder de aanpak met Home Assistant, uitgaande van een warmtepomp met Modbus-interface.
 
 **Vereisten:**
-- Home Assistant (Raspberry Pi 4, €80)
+- Home Assistant op een Raspberry Pi (orde van grootte €80)
 - Tibber of Frank Energie + API-key (gratis in de app)
 - Warmtepomp met Modbus-interface of smart controller (VRC700, Tado, of externe Modbus-adapter)
-- HomeWizard P1 Meter voor energiemeting
+- Een P1-meter voor energiemeting (HomeWizard P1: €24,95, peildatum 21 augustus 2026)
 
 **De logica:** twee automatiseringen volstaan.
 
-1. **Goedkoop uur (<€0,10/kWh):** Warmtepomp op volledige capaciteit, ruimtetemperatuur ophogen naar 21°C
-2. **Duur uur (>€0,30/kWh):** Warmtepomp uitschakelen, thermostaat daalt naar 18°C (comfort-minimum)
+1. **Goedkoop uur:** warmtepomp op volledige capaciteit, ruimtetemperatuur een graad of twee ophogen
+2. **Duur uur:** warmtepomp terug naar een comfortminimum
+
+De drempels vul je in met je eigen tarieven. Een werkbare vuistregel: neem het gemiddelde uurtarief van de afgelopen maand en zet de ondergrens daar ruim onder en de bovengrens daar ruim boven, zodat je alleen op de echte uitschieters schakelt. Vaste bedragen noemen wij hier niet: de spreiding verschilt per seizoen en per leverancier, en een drempel die in januari klopt, schakelt in mei nooit.
 
 Dit werkt dankzij de **thermische massa** van je woning: een goed geïsoleerde tussenwoning koelt bij lichte vorst maar een halve tot één graad per uur af. Je "laadt" de woning tijdens goedkope uren en laat hem tijdens dure uren uitlopen. In een slecht geïsoleerde woning werkt deze truc slecht — daar lekt de opgeslagen warmte te snel weg, en dan is isoleren de eerste maatregel, niet automatiseren.
 
@@ -337,29 +351,31 @@ Dit werkt dankzij de **thermische massa** van je woning: een goed geïsoleerde t
 - Bepaal het gemiddelde tarief van de uren waar je naartoe verschuift.
 - Vermenigvuldig het verschil met het aantal kWh dat je daadwerkelijk kunt verschuiven.
 
-Bij een verschil van acht cent per kWh en enkele duizenden verschoven kWh loopt dat op tot enkele honderden euro's per jaar. Dat maakt dit de meest renderende automatisering in een smart home-systeem, tegen een investering van rond de honderd euro voor Home Assistant plus een P1-meter.
+Bij een verschil van acht cent per kWh en enkele duizenden verschoven kWh loopt dat op tot enkele honderden euro's per jaar. Dat maakt dit de meest renderende automatisering in een smart home-systeem, tegen een investering van ongeveer honderd euro voor Home Assistant plus een P1-meter.
 
 ---
 
 ## De kosten van standby-verbruik: meer dan je denkt
 
-Uit onderzoek van Milieu Centraal (2024) blijkt dat standby-verbruik in een gemiddeld Nederlands huishouden 10-15% van het totale stroomverbruik uitmaakt. Bij een gemiddeld verbruik van 3.500 kWh/jaar is dat 350-525 kWh — goed voor €105-€158 per jaar bij een tarief van €0,30/kWh.
+Standby-verbruik is in een Nederlands huishouden grofweg 10-15% van het stroomverbruik — een vuistregel, geen meting in jouw woning. Bij 3.500 kWh per jaar is dat 350-525 kWh, ofwel **€91-€137 per jaar** bij €0,26/kWh all-in. Dat is de orde van grootte waar het bij standby over gaat — niet meer.
 
-De grootste standby-zondaars per apparaat:
+Onderstaande tabel rekent per apparaat met **8.760 uur per jaar** (permanent aan) en €0,26/kWh, zodat je de rekensom kunt controleren:
 
-| Apparaat | Standby-verbruik | Kosten/jaar |
+| Apparaat | Standby-vermogen | Kosten per jaar bij continu aan |
 |---------|-----------------|------------|
-| Satellite-ontvanger / decoder | 12-20W | €32-€53 |
-| Soundbar / stereo-installatie | 5-15W | €13-€40 |
-| Game-console (PS5, Xbox) | 1-3W (rest) / 8-15W (quick-resume) | €2-€40 |
-| Wifi-versterker / extra router | 5-10W | €13-€26 |
-| Printer (stand-by) | 3-8W | €8-€21 |
-| Koffiezetapparaat met warm-plaat | 60-80W (warm houdfunctie) | €160-€213 |
-| Aquarium-verwarming + pomp | 60-120W | €160-€319 |
-| Elektrische fiets-lader (na vol laden) | 2-5W | €5-€13 |
-| **Totaal geschat** | **~148-271W** | **€400-€720/jaar** |
+| Decoder / tv-ontvanger | 12-20 W | €27-€46 |
+| Soundbar of stereo-installatie | 5-15 W | €11-€34 |
+| Spelcomputer in ruststand | 1-3 W | €2-€7 |
+| Extra router of wifi-versterker | 5-10 W | €11-€23 |
+| Printer in standby | 3-8 W | €7-€18 |
+| Oplader die in het stopcontact blijft | 2-5 W | €5-€11 |
+| **Totaal van deze zes** | **28-61 W** | **€64-€139** |
 
-Slimme stekkers elimineren dit verbruik volledig. Met 6 Shelly Plug S-stekkers (€90 totaal) schakel je de grote verbruikers volledig uit en bespaar je €100-€200 per jaar netto — terugverdientijd 6-11 maanden.
+Dat sluit aan op de 10-15% hierboven. Wat wij hier **niet** bij optellen: een koffiezetapparaat met warmhoudplaat (60-80 W) en een aquarium met verwarming en pomp (60-120 W). Dat is namelijk geen standby maar gewoon verbruik van een apparaat dat aan staat, en het staat ook niet 8.760 uur per jaar aan. Zulke posten bij het standby-verbruik optellen is precies hoe je op onhoudbare bedragen van €400 tot €700 per jaar uitkomt.
+
+Heb je zo'n apparaat wél permanent aan staan, dan is dat overigens je grootste winstpunt — niet met een slimme stekker, maar door de warmhoudplaat niet te gebruiken (een thermoskan doet hetzelfde voor nul watt) en de aquariumverwarming op een thermostaat te zetten.
+
+Met zes slimme stekkers (circa €90) schakel je een deel van de lijst hierboven volledig uit. Reken in ons model met **€40-€80 per jaar**: niet alles kun je uitzetten, en apparaten die 's ochtends weer moeten opstarten leveren je vooral irritatie op.
 
 ---
 
@@ -369,20 +385,20 @@ Per 1 januari 2027 eindigt de salderingsregeling. Voor smart home-eigenaren is d
 
 **Waarom?**
 
-Met saldering is het irrelevant wanneer je stroom van het net afneemt — een kWh in de avond kost hetzelfde als een kWh die je 's middags had kunnen gebruiken van je eigen zonnepanelen. Na 2027 is dat verschil groot: €0,27-€0,30 per kWh inkopen vs €0,08-€0,10 per kWh teruglevering.
+Met saldering maakt het niet uit wanneer je stroom afneemt: elke teruggeleverde kilowattuur is er één die je later gratis terugkrijgt. Vanaf 2027 is dat verschil juist groot. Wij rekenen met **€0,26/kWh** voor inkoop (all-in) en **€0,07/kWh** voor teruglevering — dat laatste is een aanname, want geen enkele leverancier heeft zijn terugleveringstarief voor 2027 gepubliceerd.
 
-Smart home-systemen die verbruik automatisch naar productie-uren verplaatsen, worden daardoor aanzienlijk meer waard. De rekenkundige logica:
+Elk procent eigen verbruik dat je erbij haalt, is dus €0,19 per kilowattuur waard. Dat is precies waarom sturing na 2027 meer oplevert dan nu.
 
-**Effect van smart home op eigen verbruiksquote (10 panelen, 3.800 kWh productie/jaar):**
+**Modelberekening bij 10 panelen en 3.800 kWh productie per jaar** (opbrengst = eigen verbruik × €0,26 + teruglevering × €0,07):
 
-| Setup | Eigen verbruik | Jaaropbrengst na 2027 |
+| Setup | Eigen verbruik | Waarde van de opbrengst na 2027 |
 |-------|---------------|----------------------|
-| Geen smart home | 25% (950 kWh) | €570 |
-| Slimme thermostaat + apparaten op timer | 40% (1.520 kWh) | €692 |
-| Home Assistant + dynamisch contract | 55% (2.090 kWh) | €818 |
-| + thuisbatterij 5 kWh | 75% (2.850 kWh) | €950 |
+| Geen sturing | 25% (950 kWh) | circa €447 |
+| Slimme thermostaat + apparaten op timer | 40% (1.520 kWh) | circa €555 |
+| Home Assistant + dynamisch contract | 55% (2.090 kWh) | circa €663 |
+| + thuisbatterij van 5 kWh | 75% (2.850 kWh) | circa €807 |
 
-Verschil tussen "geen smart home" en "Home Assistant + batterij": €380 per jaar. De investering in Home Assistant (€150-€200 hardware) betaalt zich terug in minder dan 1 jaar na de saldering-stop.
+Het verschil tussen de eerste en de laatste regel is circa **€360 per jaar** — maar let op wat daar in zit: de sprong van 55% naar 75% komt van een batterij van enkele duizenden euro's, niet van de automatisering. De stap die je met €80 aan hardware zet, is die van 25% naar 55%: circa €215 per jaar. Dát is de rendabele stap.
 
 ---
 
@@ -392,7 +408,7 @@ Wij vergelijken de vier meest verkochte slimme thermostaten in Nederland op de c
 
 | Criterium | Tado | Google Nest | Netatmo | Homey Pro |
 |-----------|------|-------------|---------|-----------|
-| **Prijs** | €199-€299 | €249 | €179 | €399 |
+| **Prijs** | controleer op tado.com | €249 (store.google.com/nl, 21-8-2026) | controleer bij de fabrikant | controleer bij Athom |
 | **Installatie** | 30 min | 30 min | 30 min | 1-2 uur |
 | **Geofencing** | ✅ App-gebaseerd | ✅ Automatisch | ✅ App-gebaseerd | ✅ Via HA |
 | **Weersafhankelijke regeling** | ✅ | ✅ Beperkt | ❌ | Via HA |
@@ -400,9 +416,9 @@ Wij vergelijken de vier meest verkochte slimme thermostaten in Nederland op de c
 | **Home Assistant integratie** | ✅ Goed | ✅ Goed | ✅ Goed | ✅ Eigen |
 | **Multi-zone** | ✅ Slimme radiatorknoppen | ❌ | ✅ Slimme modules | ✅ Via HA |
 | **Klantenservice NL** | Chat + email | Chat | Email | Forum |
-| **Besparing verwarming** | 15-25% | 15-20% | 10-15% | 20-30% |
+| **Bespaarclaim fabrikant** | 31% | 20-30% | geen concrete claim gevonden | geen concrete claim gevonden |
 
-**Onze keuze voor de meeste gezinnen:** Tado. Multi-zone werkt goed, de app is duidelijk, en de weersafhankelijke regeling is indrukwekkend: de thermostaat weet van tevoren dat het morgen kouder wordt en verwarmt de woning preventief. Dat bespaart gas doordat de ketel minder op en neer hoeft te schakelen.
+**Onze keuze voor de meeste gezinnen:** Tado, om één functionele reden — het is de enige in dit rijtje met radiatorknopthermostaten, en per-vertrekregeling is waar de winst zit als je kamers hebt die overdag leegstaan. Heb je die niet, of heb je vloerverwarming, dan valt dat argument weg en is de goedkoopste thermostaat met OpenTherm de verstandigste keuze.
 
 ---
 
@@ -416,7 +432,7 @@ Wij vergelijken de vier meest verkochte slimme thermostaten in Nederland op de c
 
 ---
 
-*Laatst bijgewerkt: mei 2026.*
+*Laatst bijgewerkt: 21 augustus 2026.*
 
 ---
 

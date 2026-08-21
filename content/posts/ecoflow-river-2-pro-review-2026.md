@@ -2,7 +2,7 @@
 title: 'EcoFlow River 2 Pro Review 2026: Beste Budget Powerstation?'
 date: 2026-03-26 12:00:00+01:00
 lastmod: '2026-08-20 08:00:00+02:00'
-description: Uitgebreide review van de EcoFlow River 2 Pro in 2026. Capaciteit, prestaties, laadsnelheid en wat gebruikersreviews en specificaties zeggen over dit budget powerstation.
+description: Review van de EcoFlow River 2 Pro (768 Wh, 800 W) op basis van de fabrieksspecificaties en narekenbare verbruiksberekeningen. Prijs €549 volgens nl.ecoflow.com, peildatum 21 augustus 2026.
 categories:
 - powerstations
 tags:
@@ -24,10 +24,10 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel kost de EcoFlow River 2 Pro?
-  a: De EcoFlow River 2 Pro heeft een adviesprijs van circa €400-470. Tijdens acties is het toestel regelmatig verkrijgbaar voor €350-400. Hiermee is het een van de meest betaalbare powerstations met 768 Wh capaciteit op de markt.
+  a: 'EcoFlow noemt in de eigen Nederlandse webshop €549 voor het losse station (nl.ecoflow.com, opgehaald 21 augustus 2026). Bundels met zonnepaneel of alternator-lader kosten meer. Actieprijzen noemen wij niet: die wisselen per week en per verkoopkanaal, dus controleer de prijs op het moment van kopen.'
 - q: Hoe snel laadt de EcoFlow River 2 Pro op?
   a: De River 2 Pro laadt via netstroom op van 0 tot 100% in circa 70 minuten dankzij EcoFlow's X-Stream snellaadtechnologie. Via zonnepanelen (maximaal 220W input) duurt het 4-6 uur afhankelijk van de panelen en zonnestand. Via de auto-adapter duurt het circa 4-5 uur.
-- q: Kan de EcoFlow River 2 Pro een koelkast draaiien?
+- q: Kan de EcoFlow River 2 Pro een koelkast draaien?
   a: Ja, de River 2 Pro kan een kleine koelkast voeden dankzij het uitgangsvermogen van 800W (1600W piek via X-Boost). Een standaard camping-koelkast (50-80W continu) kan circa 8-12 uur draaien op een volle lading. Een standaard huishoudkoelkast (100-150W) kan enkele uren draaien.
 - q: Is de EcoFlow River 2 Pro geschikt voor camping?
   a: Ja, de River 2 Pro is een van de populairste powerstations voor camping. Het gewicht van 7,8 kg maakt het draagbaar, de capaciteit van 768 Wh is voldoende voor een weekend en het snelladen is handig als je kort bij een stopcontact bent. Voor langere trips kun je uitbreiden met een zonnepaneel.
@@ -36,29 +36,27 @@ faq:
 - q: Kan ik de River 2 Pro uitbreiden met een extra batterij?
   a: Ja, de River 2 Pro ondersteunt een extra EcoFlow River 2 Pro Extra Battery (768 Wh) waarmee je de totale capaciteit verdubbelt naar 1536 Wh. De extra batterij wordt direct op het station aangesloten en is snel gekoppeld.
 - q: Hoe lang gaat de batterij van de EcoFlow River 2 Pro mee?
-  a: EcoFlow garandeert dat de batterij na 3000 laadcycli nog minimaal 80% van de oorspronkelijke capaciteit behoudt. Bij dagelijks gebruik komt dit neer op meer dan 8 jaar. Bij wekelijks gebruik (camping, weekend) gaat de batterij effectief 10-15 jaar of langer mee.
+  a: 'EcoFlow geeft de LFP-cellen op voor 3.000 cycli tot 80% restcapaciteit (fabrieksopgave nl.ecoflow.com, 21 augustus 2026). Reken je dat door bij dagelijks volledig ontladen, dan is dat ruim acht jaar; bij tweemaal per week ruim 25 jaar. Dat is een rekenkundige bovengrens en geen garantie, want ook kalenderveroudering en de elektronica rondom de cellen bepalen hoe lang het station meegaat.'
 products:
 - name: EcoFlow River 2 Pro
   url: https://go.duurzaamthuislab.nl/ecoflow
-  price: '649'
+  price: '549'
 - name: Jackery Explorer 700 Plus
   url: https://go.duurzaamthuislab.nl/jackery
-  price: '699'
 - name: Anker SOLIX C800
   url: https://go.duurzaamthuislab.nl/anker-solix
-  price: '599'
 schema_type: Review
 ---
-Voor onder de €450 krijg je 768 Wh, X-Stream snellaadtechnologie en een gewicht van 7,8 kg. Daarmee is de EcoFlow River 2 Pro een van de meest gekochte powerstations voor camping en noodstroom. Wij zetten de specificaties, de handleiding, geverifieerde gebruikersreviews en concrete verbruiksberekeningen naast elkaar: voor welk gebruik is 768 Wh genoeg, en waar loopt dit station tegen zijn grenzen aan?
+Voor €549 krijg je 768 Wh, X-Stream snelladen en een gewicht van 7,8 kg (prijs van het losse station volgens nl.ecoflow.com, opgehaald 21 augustus 2026). Wij zetten de fabrieksspecificaties, de handleiding en concrete verbruiksberekeningen naast elkaar: voor welk gebruik is 768 Wh genoeg, en waar loopt dit station tegen zijn grenzen aan?
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat affiliate-links naar EcoFlow (AWIN), Jackery en Anker SOLIX (AWIN). Koop je via zo'n link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dat heeft geen invloed op wat hier staat: wij testen niet zelf, wij rekenen met fabrieksopgaven en publieke prijzen.*
 
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — wat er per 1 januari 2027 verandert en welke keuzes je nu al kunt maken.*
 
-> **Kort antwoord:** Uitgebreide review van de EcoFlow River 2 Pro in 2026. Capaciteit, prestaties, laadsnelheid en wat specificaties en gebruikersreviews zeggen over dit budget powerstation.
+> **Kort antwoord:** 768 Wh bruikbare voorraad (circa 650-690 Wh via de stopcontacten), 800 W continu en 0-100% laden in ongeveer 70 minuten. Genoeg voor een campingweekend met koelbox, licht en telefoons, of een storing van vier tot zes uur met router, laptop en een koelkast die je periodiek bijkoelt.
 >
-> De EcoFlow River 2 Pro heeft een adviesprijs van circa €400-470. Tijdens acties is het toestel regelmatig verkrijgbaar voor €350-400. Hiermee is het een van de meest betaalbare powerstations met 768 Wh capaciteit op de markt.
+> Te klein wordt het zodra je op stroom wilt koken of langer dan twee dagen zonder bijladen wegblijft. Prijs: €549 voor het losse station (nl.ecoflow.com, 21 augustus 2026).
 
 ## EcoFlow River 2 Pro: Specificaties
 
@@ -76,11 +74,13 @@ Voor onder de €450 krijg je 768 Wh, X-Stream snellaadtechnologie en een gewich
 | AC-laadsnelheid | 0-100% in circa 70 minuten |
 | Gewicht | 7,8 kg |
 | Afmetingen | 27 x 26 x 23 cm |
-| Levensduur | 3000+ cycli tot 80% |
-| Garantie | 5 jaar |
+| Levensduur | 3.000+ cycli tot 80% (fabrieksopgave) |
+| Garantie | Fabrieksgarantie volgens EcoFlow; controleer de actuele termijn in de garantievoorwaarden bij aanschaf |
 | Bedrijfstemperatuur | -10°C tot 45°C |
 | App-bediening | Ja (EcoFlow app, WiFi + Bluetooth) |
-| Prijs (advies) | €400-470 |
+| Prijs los station | €549 |
+
+*Bron: fabrieksspecificaties en webshopprijs van EcoFlow (nl.ecoflow.com), opgehaald 21 augustus 2026. Bij die controle stonden de bundels met zonnepaneel op pre-order — leverbaarheid en prijs kunnen dus afwijken op het moment dat je kijkt.*
 
 ---
 
@@ -96,11 +96,11 @@ Opmerking: een zonnepaneel is **niet** inbegrepen en moet apart worden aangescha
 
 ---
 
-## Prestaties volgens specificaties en gebruikersreviews
+## Prestaties volgens de fabrieksspecificaties
 
 ### Laadsnelheid: het sterkste punt
 
-De snelste manier om de River 2 Pro op te laden is via netstroom. Volgens de specificaties van EcoFlow gaat het station dankzij X-Stream van 0 naar 100% in circa 70 minuten, en van 0 naar 80% in ruwweg 45 minuten (de laatste 20% laadt bewust langzamer om de cellen te sparen). Die opgave komt in gebruikersreviews consistent terug en is aanzienlijk sneller dan de meeste concurrenten in deze prijsklasse.
+De snelste manier om de River 2 Pro op te laden is via netstroom. Volgens de specificaties van EcoFlow gaat het station dankzij X-Stream van 0 naar 100% in circa 70 minuten, en van 0 naar 80% in ruwweg 45 minuten (de laatste 20% laadt bewust langzamer om de cellen te sparen). Dat is aanzienlijk sneller dan de meeste concurrenten in deze capaciteitsklasse opgeven.
 
 Via zonnepanelen is de input begrensd op 220W. Bij die maximale input duurt een volledige lading rekenkundig ruim 3,5 uur; in de praktijk halen panelen dat maximum zelden een hele dag, waardoor 4-6 uur bij goede zonnestand realistisch is en het bij bewolking oploopt tot 6-8 uur of meer.
 
@@ -124,11 +124,11 @@ De X-Boost-modus is slim: het verlaagt het voltage naar bepaalde apparaten zodat
 
 ### Geluidsniveau: stil in rust, hoorbaar bij snelladen
 
-Bij licht gebruik (telefoons en USB-apparaten voeden) blijft de ventilator uit of nagenoeg onhoorbaar. Hij springt aan bij zwaardere AC-belasting en vooral bij X-Stream snelladen, omdat daarbij veel warmte in de ingebouwde omvormer vrijkomt. Dat is het punt dat in gebruikersreviews het vaakst als minpunt terugkomt: acceptabel op een camping, storend in een stille slaapkamer. Wie 's nachts stilte wil, laadt het station overdag op of gebruikt de stille laadmodus in de app, die de laadsnelheid begrenst.
+Bij licht gebruik (telefoons en USB-apparaten voeden) blijft de ventilator uit of nagenoeg onhoorbaar. Hij springt aan bij zwaardere AC-belasting en vooral bij X-Stream snelladen, omdat daarbij veel warmte in de ingebouwde omvormer vrijkomt. Dat is het voorspelbare minpunt van actieve koeling: acceptabel op een camping, storend in een stille slaapkamer. Wie 's nachts stilte wil, laadt het station overdag op of gebruikt de stille laadmodus in de app, die de laadsnelheid begrenst.
 
-### Bouwkwaliteit volgens gebruikers
+### Formaat en gewicht
 
-In gebruikersreviews komt de River 2 Pro naar voren als stevig afgewerkt: dik kunststof, beschermde aansluitingen en een handgreep die het gewicht goed draagt. Met 7,8 kg is hij door één persoon te tillen, maar hij is niet het lichtste station in deze klasse — de Jackery Explorer 500 Plus weegt volgens de specificaties ruim een kilo minder, bij lagere capaciteit.
+Wij nemen zelf geen toestellen in gebruik, dus over afwerking en materiaalgevoel doen wij geen uitspraak. Wat wel uit de specificaties volgt: met 7,8 kg en 27 × 26 × 23 cm is dit een station dat één persoon draagt, maar het is niet het lichtste in zijn klasse — stations met minder capaciteit wegen een tot twee kilo minder.
 
 ### EcoFlow App
 
@@ -148,20 +148,17 @@ De app werkt via zowel WiFi als Bluetooth en is overzichtelijk opgezet. Het inst
 
 Benieuwd hoe EcoFlow zich verhoudt tot Jackery? Lees onze uitgebreide [EcoFlow vs Jackery vergelijking](/posts/ecoflow-vs-jackery-2026/).
 
-| Kenmerk | EcoFlow River 2 Pro | Jackery Explorer 500 Plus | Anker Solix C800 | Bluetti EB70S |
-|---|---|---|---|---|
-| **Capaciteit** | 768 Wh | 512 Wh | 768 Wh | 716 Wh |
-| **AC-vermogen** | 800W (1600W boost) | 500W (1000W boost) | 800W (1600W boost) | 800W (1400W boost) |
-| **Gewicht** | 7,8 kg | 6,4 kg | 10,5 kg | 9,7 kg |
-| **Laadtijd (AC)** | 70 min | 120 min | 90 min | 240 min |
-| **Batterijtype** | LiFePO4 | LiFePO4 | LiFePO4 | LiFePO4 |
-| **Levensduur** | 3000 cycli | 3000 cycli | 3000 cycli | 2500 cycli |
-| **Prijs** | €400-470 | €350-420 | €500-580 | €450-520 |
-| **App** | Ja | Ja | Ja | Ja |
+Wij zetten hier geen prijstabel met concurrenten neer: prijzen in dit segment wisselen per week per kanaal, en een tabel die vandaag klopt is over een maand een bron van fouten. Wat wel vaststaat uit de fabrieksopgaven: de River 2 Pro is met circa 70 minuten voor een volle lading de snelst ladende in deze capaciteitsklasse, en 800 W continu is voor 768 Wh royaal bemeten.
 
-De River 2 Pro onderscheidt zich met de snelste laadtijd en het beste X-Boost-vermogen. De Jackery Explorer 500 Plus is lichter en iets goedkoper maar biedt minder capaciteit en vermogen. De Anker Solix C800 is een sterke concurrent qua specs maar is zwaarder en duurder.
+Waar de River 2 Pro het aflegt, is capaciteit per euro. Stations rond 1.000 Wh kosten weinig meer per wattuur en geven je een marge die je bij noodstroom echt merkt. Wil je actuele prijzen naast elkaar zien, kijk dan bij de merken zelf:
 
-Bekijk ook onze reviews van de [Anker Solix C1000](/posts/anker-solix-c1000-review-2026/) en de [Jackery Explorer 2000 Plus](/posts/jackery-explorer-2000-plus-review-2026/) als je meer capaciteit nodig hebt.
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-river-2-pro-review-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk het EcoFlow-assortiment</a>
+
+<a href="https://go.duurzaamthuislab.nl/jackery?ref=/posts/ecoflow-river-2-pro-review-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk het Jackery-assortiment</a>
+
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/ecoflow-river-2-pro-review-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk het Anker SOLIX-assortiment</a>
+
+Meer capaciteit nodig? Lees onze reviews van de [Anker SOLIX C1000](/posts/anker-solix-c1000-review-2026/) en de [Jackery Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/) — die laatste legt ook uit waarom de 2000 Plus in Nederland niet meer los te koop is.
 
 ---
 
@@ -201,7 +198,7 @@ De River 2 Pro gebruikt **LFP-cellen** (LiFePO4 = lithium-ijzerfosfaat), niet de
 | Zelfontlading | ~2-3% per maand | ~5% per maand |
 | Aanbevolen laadniveau langdurige opslag | 50-80% | 40-60% |
 
-Reken het door: 3.000 cycli tot 80% capaciteit. Gebruik je de River 2 Pro gemiddeld twee keer per week (campingseizoen plus incidentele noodstroom), dan zijn dat 104 cycli per jaar — 3.000 / 104 is ruwweg **28 jaar** voordat je op 80% capaciteit uitkomt. Zelfs bij dagelijks volledig ontladen: 3.000 / 365 = ruim 8 jaar. Beide ruim boven de vijfjaarsgarantie van EcoFlow.
+Reken het door: 3.000 cycli tot 80% capaciteit. Gebruik je de River 2 Pro gemiddeld twee keer per week (campingseizoen plus incidentele noodstroom), dan zijn dat 104 cycli per jaar — 3.000 / 104 is ruwweg **28 jaar** voordat je op 80% capaciteit uitkomt. Zelfs bij dagelijks volledig ontladen: 3.000 / 365 = ruim 8 jaar. Beide getallen liggen ruim buiten de garantietermijn — en in de praktijk buiten de levensduur van de omvormer en besturing.
 
 In de praktijk zal de elektronica rondom de batterij eerder uitvallen dan de cellen zelf. Maar het illustreert dat LFP-technologie in een batterij als de River 2 Pro gewoon een levenslang product is voor de meeste gebruikers.
 
@@ -230,7 +227,7 @@ Er is één uitzondering op de markt: de EcoFlow DELTA Pro Ultra heeft beperkte 
 
 ## Veelgemaakte fouten bij de aankoop
 
-In gebruikersreviews en forumdiscussies komen steeds dezelfde vergissingen terug:
+Bij dit type station gaat het bij de aankoop steeds op dezelfde punten mis:
 
 **Fout 1: X-Boost verkeerd begrijpen**
 X-Boost verhoogt het piekvermogen tot 1600W door het voltage naar het apparaat te verlagen. Een waterkoker die normaal op 2200W werkt, werkt met X-Boost op 800W — maar kookt dan ook twee keer zo langzaam. Voor echt koken is dit onpraktisch. Gebruik X-Boost voor apparaten die een even hoge temperatuur bereiken maar met minder watt kunnen, zoals een kleine reiskokkert of een elektrische deken.
@@ -242,13 +239,13 @@ De specificaties zeggen 768 Wh. In de praktijk haal je 85-90% van die capaciteit
 Voor een campingweekend met meer dan twee personen, of als je een inductiekookplaat wilt gebruiken, is 768 Wh aan de krappe kant. Dan is de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) (2048 Wh) een betere keuze. De River 2 Pro straalt in zijn klasse als compacte dagelijkse reisgenoot, niet als primaire stroomoplossing voor een langere expeditie.
 
 **Fout 4: Uitbreidingsbatterij niet meenemen in de aankoopoverweging**
-De River 2 Pro Extra Battery (768 Wh) kost circa €250-300 en verdubbelt de capaciteit naar 1536 Wh. Als je al weet dat je meer nodig hebt, is de bundel (station + extra batterij) soms goedkoper dan beide apart kopen.
+De River 2 Pro Extra Battery voegt 768 Wh toe en verdubbelt de capaciteit naar 1.536 Wh. EcoFlow publiceert voor die uitbreiding wisselende bundelprijzen, dus wij noemen hier geen bedrag: reken het zelf na op het moment van kopen en vergelijk de bundel met de som van beide losse artikelen én met een groter station in één behuizing. Vaak is dat laatste per wattuur goedkoper.
 
 ---
 
 ## Ventilatorgedrag: wanneer maakt hij geluid?
 
-Er zijn geen door EcoFlow gepubliceerde geluidsmetingen per belastingsniveau voor de River 2 Pro, dus wij noemen hier bewust geen decibelwaarden. Wat wél consistent uit gebruikersreviews en het ontwerp volgt:
+Er zijn geen door EcoFlow gepubliceerde geluidsmetingen per belastingsniveau voor de River 2 Pro, dus wij noemen hier bewust geen decibelwaarden. Wat wél uit het ontwerp met actieve koeling volgt:
 
 | Situatie | Ventilatorgedrag |
 |---|---|
@@ -305,18 +302,17 @@ Praktisch punt: een powerstation dat je voor noodstroom achter de hand houdt, mo
 - X-Boost voor apparaten tot 1600W piek
 - Compact en draagbaar (7,8 kg)
 - 100W USB-C PD voor snelladen van laptops
-- Uitbreidbaar met extra batterij (tot 1536 Wh)
-- Goede app-bediening
-- 5 jaar garantie
+- Uitbreidbaar met extra batterij (tot 1.536 Wh)
+- App-bediening met instelbaar maximaal laadniveau
 
 ## Nadelen
 
 - Ventilator hoorbaar bij snelladen en zwaardere belasting
 - Geen IP-rating (niet waterdicht)
 - X-Boost verlaagt effectief het vermogen van apparaten
-- Prijs iets hoger dan basale concurrenten met vergelijkbare capaciteit
-- USB-A poorten beperkt tot 12W (geen Quick Charge)
-- Auto-adapter inbegrepen, maar langzaam laden (5 uur)
+- Per wattuur duurder dan stations rond 1.000 Wh
+- USB-A-poorten beperkt tot 12W (geen Quick Charge)
+- Auto-adapter inbegrepen, maar langzaam laden (circa 4-5 uur)
 
 ---
 
@@ -331,12 +327,13 @@ Een minder bekende maar relevante concurrent is de Anker SOLIX C1000. Beide zijn
 | Laadtijd AC (0-80%) | 42 min | 58 min |
 | Solar-input max | 220W | 600W |
 | Gewicht | 7,8 kg | 12,9 kg |
-| Prijs | €400-470 | €800-999 |
 | Batterijlevensduur | 3.000 cycli | 3.000 cycli |
 | WiFi + Bluetooth | Ja | Ja |
 | Uitbreidbaar | Ja (768 Wh extra) | Beperkt |
 
-De River 2 Pro wint op compactheid, laadsnelheid en prijs. De Anker SOLIX C1000 wint op capaciteit (bijna 40% meer) en vermogen (2,25× meer). Voor wie alleen weekendcamping doet: River 2 Pro. Voor wie ook een koelkast op 12V én een inductiekookplaat wil: Anker SOLIX C1000.
+*Specificaties volgens de fabrikanten; de prijs van de C1000 laten wij hier weg omdat wij daarvoor geen actuele bron met peildatum hebben. Zie onze [Anker SOLIX C1000-review](/posts/anker-solix-c1000-review-2026/).*
+
+De River 2 Pro wint op compactheid en laadsnelheid. De Anker SOLIX C1000 wint op capaciteit (bijna 40% meer) en continu vermogen (ruim tweemaal zoveel). Voor wie alleen weekendcamping doet: River 2 Pro. Voor wie ook een 12V-koelkast én een kookplaat wil voeden: C1000.
 
 ## Gebruik als UPS voor thuiswerkplek
 
@@ -344,16 +341,14 @@ Een minder besproken toepassing: de River 2 Pro als mini-UPS voor een thuiswerkp
 
 Een gangbare thuiswerkopstelling (laptop, monitor, router, lamp) verbruikt bij elkaar circa 120W. Rekenkundig geeft dat: 768 Wh / 120W × 0,88 (omvormerrendement) = **circa 5,6 uur** autonomie — ruim genoeg voor de gemiddelde Nederlandse storingsduur.
 
-De UPS-functie van de River 2 Pro is echter beperkt: de omschakeltijd bij stroomuitval is circa 30 milliseconden — voldoende voor de meeste laptops (die een interne accu hebben en korte onderbreking overbruggen) maar onvoldoende voor servers of NAS-systemen die onmiddellijke stroom vereisen. Voor een echte UPS-functie is de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) (met expliciete UPS-modus en <30ms omschakeling) de betere keuze.
+Let wel op het verschil tussen doorlaten en overschakelen. De River 2 Pro schakelt volgens de specificaties binnen ongeveer 30 milliseconden om; dat is snel genoeg voor apparatuur met een schakelende voeding, zoals routers, laptops en de meeste NAS-systemen — dezelfde orde van grootte die EcoFlow bij de [Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) als UPS-functie aanmerkt. Wat de River 2 Pro mist is niet snelheid, maar vermogen en capaciteit: een werkplek met desktop, twee monitoren en randapparatuur loopt tegen de 800 W aan, en een grotere serverkast hoort hier hoe dan ook niet achter.
 
 Voor eenvoudige thuiswerkscenario's (laptop, router, lamp) is de River 2 Pro als noodstroom afdoende. Onze aanbeveling: houd hem via battery care mode op 80% geladen, zodat hij klaar staat als het net uitvalt zonder de cellen onnodig op vol te belasten.
 
 ## Waar koop je de EcoFlow River 2 Pro?
 
-- **EcoFlow webshop**: Officieel, inclusief garantie en soms bundel-aanbiedingen
-- **Amazon.nl**: Regelmatig in de aanbieding
-- **Bol.com**: Beschikbaar via diverse verkopers
-- **Coolblue**: Met uitstekende klantenservice
+- **EcoFlow-webshop (nl.ecoflow.com)**: officiële verkoop, €549 voor het losse station bij onze controle op 21 augustus 2026, met bundels op pre-order
+- **Grote webwinkels en marktplaatsen**: hier wisselen prijs en verkoper per week; let bij een externe verkoper op wie de garantie afhandelt
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-river-2-pro-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow River 2 Pro</a>
 
@@ -361,24 +356,15 @@ Voor eenvoudige thuiswerkscenario's (laptop, router, lamp) is de River 2 Pro als
 
 ## Firmware-updates en toekomstbestendigheid
 
-EcoFlow brengt regelmatig firmware-updates uit voor de River 2 Pro — gemiddeld twee tot drie per jaar. De updates worden via de app geïnstalleerd (over-the-air via WiFi) en voegen functies toe of verbeteren de prestaties. Bekende updates van het afgelopen jaar:
-- Verbeterde MPPT-aansturing bij lage lichtomstandigheden (+3% zonne-opbrengst bij bewolking)
-- Battery care mode: maximaal laadniveau instelbaar op 80%, 90% of 100%
-- Stille modus: maximale laadsnelheid instelbaar voor geluidsreductie
-
-Vergelijkbare updatesystemen heeft Jackery (via Jackery-app) en Anker (via Anker-app). Bluetti heeft updates beschikbaar maar heeft historisch minder frequente releases gehad. EcoFlow's updatefrequentie is een concreet voordeel op de lange termijn — je koopt niet alleen hardware maar een systeem dat verbetert.
+De River 2 Pro krijgt firmware-updates via de EcoFlow-app (over-the-air, WiFi). Wij houden geen updatelogboek bij en noemen daarom geen versienummers, datums of opbrengstwinsten per update: die zijn niet publiek gedocumenteerd. Wat wel relevant is bij de aankoopbeslissing: het toestel is app-bestuurd, dus functies als een instelbaar maximaal laadniveau en een lagere laadsnelheid voor minder ventilatorgeluid zitten in de software en zijn afhankelijk van de firmwareversie op jouw toestel. Jackery, Anker en Bluetti werken met een vergelijkbaar app-model. Wie waarde legt op langdurige software-ondersteuning, kan in de app van het betreffende merk zien of het model nog updates ontvangt.
 
 ## Conclusie: is de EcoFlow River 2 Pro de beste budget keuze?
 
 De EcoFlow River 2 Pro verdient zijn populariteit. Het is een uitstekend powerstation voor iedereen die een betrouwbare, draagbare stroombron nodig heeft zonder een fortuin uit te geven. De combinatie van 768 Wh capaciteit, razendsnel opladen en X-Boost-vermogen maakt het een van de veelzijdigste stations in deze prijsklasse.
 
-**Is het het "beste" budget powerstation?** Ja, voor de meeste gebruikers wel. De snellaadtechnologie is een echte gamechanger -- 70 minuten van leeg naar vol is iets waar de concurrentie niet aan kan tippen. De LiFePO4-batterij garandeert een lange levensduur en de 5 jaar garantie geeft vertrouwen.
+**Is het het "beste" budget powerstation?** Voor wie compact en snel wil laden, is het een van de sterkste keuzes: 70 minuten van leeg naar vol is in deze klasse ongebruikelijk snel. De LFP-cellen zijn opgegeven voor 3.000 cycli, wat bij normaal camping- en noodstroomgebruik ruim buiten de gebruiksduur van de elektronica valt. Wie vooral kilowattuur per euro zoekt, komt bij een groter station beter uit — reken dat verschil na met de prijzen van vandaag.
 
 Als je meer capaciteit nodig hebt, bekijk dan de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) of ons overzicht van de [beste draagbare powerstations 2026](/posts/beste-draagbare-powerstation-2026/). Voor een vergelijking van alle zonnepaneel-powerstation combinaties, lees ons artikel over de [beste zonnepaneel-powerstation combinatie](/posts/beste-zonnepaneel-powerstation-combinatie-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-river-2-pro-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de EcoFlow River 2 Pro</a>
-
-
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Ecoflow</a>
-
+<a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/ecoflow-river-2-pro-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de actuele prijs van de EcoFlow River 2 Pro</a>
 

@@ -289,11 +289,10 @@ Meer capaciteit is niet altijd nodig. Een gemiddeld huishouden heeft aan 5-10 kW
 
 | Optie | Capaciteit | Totale kosten (ca.) | Per kWh (ca.) |
 |---|---|---|---|
-| Bluetti EB70S | 0,7 kWh | €549 | €784 |
-| EcoFlow River 2 Pro | 0,8 kWh | €649 | €811 |
-| Anker SOLIX C1000 | 1,1 kWh | €899 | €817 |
-| Bluetti AC200MAX | 2 kWh | €1.699 | €850 |
-| EcoFlow Delta 2 Max | 2 kWh | €1.799 | €879 |
+| EcoFlow River 2 Pro | 0,8 kWh | €549 | €715 |
+| EcoFlow Delta 2 Max | 2 kWh | €949 | €464 |
+
+*Prijzen nl.ecoflow.com, peildatum 21 augustus 2026. Bluetti en Anker publiceerden op de peildatum geen controleerbare NL-prijzen; die staan daarom niet in deze tabel — check de actuele prijs via de productlinks.*
 | Huawei Luna 2000 5kWh | 5 kWh | €4.200* | €840 |
 | Huawei Luna 2000 10kWh | 10 kWh | €7.000* | €700 |
 | Huawei Luna 2000 15kWh | 15 kWh | €10.000* | €667 |
