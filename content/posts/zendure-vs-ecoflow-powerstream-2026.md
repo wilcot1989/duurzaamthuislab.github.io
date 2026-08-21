@@ -55,7 +55,7 @@ Zendure SolarFlow en EcoFlow PowerStream lossen hetzelfde probleem op: je balkon
 
 Deze vergelijking staat op de specificaties en prijzen van beide fabrikanten, opgehaald op 20 augustus 2026 van zendure.nl en van de Nederlandse en Europese EcoFlow-webshops. Wij hebben geen van beide systemen zelf geïnstalleerd of gemeten; berekeningen zijn modellen met expliciete aannames.
 
-*Dit artikel bevat affiliate links naar EcoFlow. De links naar Zendure zijn gewone verwijzingen: met Zendure hebben wij op het moment van publicatie geen commissie-afspraak.*
+*Dit artikel bevat affiliate-links naar zowel EcoFlow (AWIN) als Zendure (Daisycon). Koop je via zo'n link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dat verandert de vergelijking hieronder niet: die is gebaseerd op de publieke specificaties en prijzen van beide fabrikanten.*
 
 ---
 
@@ -166,6 +166,6 @@ De contractkant is even belangrijk als de hardware: een systeem dat op uurprijze
 
 Wil je de losse systemen dieper bekijken? Lees de [Zendure SolarFlow review 2026](/posts/zendure-solarflow-review-2026/) voor het complete specoverzicht en twee doorgerekende besparingsmodellen, en de [EcoFlow Delta 2 review](/posts/ecoflow-delta-2-review-2026/) als je juist een verplaatsbaar station zoekt.
 
-<a href="https://go.duurzaamthuislab.nl/zendure?ref=/posts/zendure-vs-ecoflow-powerstream-2026/" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zendure SolarFlow</a> (gewone verwijzing, geen commissie-afspraak)
+<a href="https://go.duurzaamthuislab.nl/zendure?ref=/posts/zendure-vs-ecoflow-powerstream-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk Zendure SolarFlow</a>
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/zendure-vs-ecoflow-powerstream-2026/" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk het EcoFlow STREAM-assortiment</a>

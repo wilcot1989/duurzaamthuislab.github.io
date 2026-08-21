@@ -16,7 +16,7 @@ faq:
 lastmod: 2026-08-20
 ---
 
-*Disclosure: gemengd. Met EcoFlow hebben wij een affiliate-relatie via AWIN — koop je via onze EcoFlow-link, dan ontvangen wij mogelijk een commissie (kost jou niets extra). De verwijzingen naar Sessy, Zonneplan, HomeWizard en Zendure zijn gewone links zonder commissie. Op de berekening hieronder heeft dat geen invloed: die gebruikt alleen de vendorprijzen en onze eigen prijsdata.*
+*Disclosure: gemengd. Met EcoFlow hebben wij een affiliate-relatie via AWIN — koop je via onze EcoFlow-link, dan ontvangen wij mogelijk een commissie (kost jou niets extra). Met Zendure hebben wij sinds augustus 2026 ook een affiliate-relatie (Daisycon). De verwijzingen naar Sessy, Zonneplan en HomeWizard zijn gewone links zonder commissie. Op de berekening hieronder heeft dat geen invloed: die gebruikt alleen de vendorprijzen en onze eigen prijsdata.*
 
 Elke fabrikant rekent zijn eigen terugverdientijd voor, met zijn eigen aannames. Wij doen het omgekeerd: **één model, één prijsbron, alle merken door dezelfde formule.** De prijsspread komt uit ons eigen archief van dynamische uurprijzen — dat is dezelfde spread voor elk merk, dus de verschillen in de tabel komen puur uit capaciteit, prijs en rendement.
 
@@ -177,7 +177,7 @@ Welke aanbieders een dynamisch contract leveren en wat ze aan vaste kosten en in
 
 ## Naar de leveranciers
 
-De verdienende link hieronder is die van EcoFlow; de rest zijn gewone verwijzingen zonder commissie.
+De verdienende links hieronder zijn die van EcoFlow en Zendure; de rest zijn gewone verwijzingen zonder commissie.
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/thuisbatterij-terugverdientijd-vergelijken/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk EcoFlow STREAM (affiliate) →</a>
 
@@ -187,6 +187,6 @@ De verdienende link hieronder is die van EcoFlow; de rest zijn gewone verwijzing
 
 <a href="https://go.duurzaamthuislab.nl/homewizard?ref=/thuisbatterij-terugverdientijd-vergelijken/" target="_blank" rel="noopener nofollow" class="cta">Bekijk HomeWizard Plug-In Battery →</a>
 
-<a href="https://go.duurzaamthuislab.nl/zendure?ref=/thuisbatterij-terugverdientijd-vergelijken/" target="_blank" rel="noopener nofollow" class="cta">Bekijk Zendure SolarFlow →</a>
+<a href="https://go.duurzaamthuislab.nl/zendure?ref=/thuisbatterij-terugverdientijd-vergelijken/" target="_blank" rel="noopener nofollow sponsored" class="cta cta-affiliate">Bekijk Zendure SolarFlow →</a>
 
 Losse reviews per model: [Sessy](/posts/sessy-review-thuisbatterij-nederland/), [Zonneplan](/posts/zonneplan-thuisbatterij-review-2026/), [Zendure SolarFlow](/posts/zendure-solarflow-review-2026/) en de [vergelijking van 10 kWh-batterijen](/posts/thuisbatterij-10-kwh-vergelijking-2026/).

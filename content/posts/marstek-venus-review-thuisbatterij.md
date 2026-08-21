@@ -20,7 +20,7 @@ keywords:
 - marstek thuisbatterij
 - marstek venus prijs
 - marstek venus aanbieding
-affiliate: false
+affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1589276534126-adef63a95e05&w=1200&output=webp&q=70
@@ -60,7 +60,7 @@ schema_type: Review
 
 Een Marstek Venus E van 8,2 kWh kost €2.299 — ongeveer een derde van wat een Sessy of Zonneplan van vergelijkbare capaciteit vraagt. Dat prijsverschil is zo groot dat de vraag niet is of Marstek "goed" is, maar wat je precies inlevert voor die €3.500 die je niet uitgeeft. Wij zetten de specificaties, de handleiding, de garantievoorwaarden en geverifieerde gebruikersreviews naast elkaar, en rekenen de businesscase door.
 
-*Disclosure: wij hebben geen affiliate- of commissierelatie met Marstek (stand augustus 2026); er staat dus geen verdienmodel achter dit oordeel. Deze analyse is gebaseerd op publieke specificaties, de handleiding, de garantievoorwaarden en geverifieerde gebruikersreviews.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Marstek (stand augustus 2026); er staat dus geen verdienmodel achter dit oordeel. De link naar alternatief Zendure verderop is wél een affiliate-link (Daisycon). Deze analyse is gebaseerd op publieke specificaties, de handleiding, de garantievoorwaarden en geverifieerde gebruikersreviews.*
 
 ---
 
@@ -449,7 +449,7 @@ Voor wie zonder installateur wil starten: Venus A is de enige plug-and-play opti
 
 Vergelijk zelf verder: [thuisbatterij-vergelijking 2026](/posts/thuisbatterij-vergelijking-2026/) · [beste thuisbatterij 10 kWh](/posts/thuisbatterij-10-kwh-vergelijking-2026/) · [goedkoopste thuisbatterij](/posts/goedkoopste-thuisbatterij-2026/) · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/) · [Zonneplan alternatief →](/posts/zonneplan-thuisbatterij-review-2026/)
 
-Zoek je een vergelijkbaar modulair systeem van een fabrikant die wél een Nederlandse webshop en Nederlandstalige support heeft, dan is Zendure het dichtstbijzijnde alternatief in dit prijssegment: <a href="https://go.duurzaamthuislab.nl/zendure" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">bekijk Zendure</a> (gewone verwijzing, wij hebben ook met Zendure geen commissie-afspraak).
+Zoek je een vergelijkbaar modulair systeem van een fabrikant die wél een Nederlandse webshop en Nederlandstalige support heeft, dan is Zendure het dichtstbijzijnde alternatief in dit prijssegment: <a href="https://go.duurzaamthuislab.nl/zendure" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">bekijk Zendure</a> (affiliate-link: koop je via deze link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou).
 
 Omdat het arbitrage-voordeel van elke thuisbatterij volledig afhangt van de spread tussen de goedkoopste en duurste uren: die spread staat live op onze pagina met [dynamische stroomprijzen per uur](/stroomprijzen/).
 

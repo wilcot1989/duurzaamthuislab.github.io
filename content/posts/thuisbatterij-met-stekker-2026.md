@@ -43,7 +43,7 @@ De categorie is in 2026 volwassen geworden: HomeWizard, Marstek, Zendure en EcoF
 
 Alle specificaties en prijzen komen van de productpagina's van de fabrikanten, opgehaald op 20 augustus 2026. Waar een fabrikant een waarde niet publiceert, staat dat er. Wij hebben deze systemen niet zelf getest.
 
-*Disclosure: dit artikel bevat affiliate-links via AWIN voor EcoFlow. Bij een aankoop via die link ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. De links naar Marstek, Zendure en HomeWizard zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie.*
+*Disclosure: dit artikel bevat affiliate-links voor EcoFlow (AWIN) en Zendure (Daisycon). Bij een aankoop via zo'n link ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. De links naar Marstek en HomeWizard zijn gewone verwijzingen — met die partijen hebben wij geen affiliate- of commissierelatie.*
 
 > **Kort antwoord:** de plug-in categorie splitst zich in twee groepen. Compacte kasten die alleen uit het net laden en ontladen (HomeWizard, Marstek Venus), en systemen die óók zonnepanelen direct opnemen via eigen MPPT-ingangen (Zendure SolarFlow, EcoFlow STREAM).
 >
@@ -94,7 +94,7 @@ EcoFlow bouwt met de STREAM-lijn hetzelfde principe uit. Prijzen op de Nederland
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/thuisbatterij-met-stekker-2026/" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow STREAM-serie</a>
 
-<a href="https://go.duurzaamthuislab.nl/zendure?ref=/posts/thuisbatterij-met-stekker-2026/" class="cta" rel="noopener nofollow" target="_blank">Bekijk de Zendure SolarFlow</a>
+<a href="https://go.duurzaamthuislab.nl/zendure?ref=/posts/thuisbatterij-met-stekker-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de Zendure SolarFlow</a>
 
 ## Wat je opgeeft ten opzichte van een vaste batterij
 
