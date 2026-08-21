@@ -1,8 +1,8 @@
 ---
-title: 'Zonnepanelen Verzekering Opstal 2026: Wat is Gedekt?'
+title: 'Zonnepanelen en je opstalverzekering: wat is gedekt en wat moet je melden (2026)'
 date: 2026-07-24 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: 'Zonnepanelen verzekering: wat dekt opstal- en inboedelpolis? Premies, schade-types en welke aanvullende dekking nodig is bij hagel, storm en brand in 2026.'
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Zonnepanelen vallen onder de opstalverzekering, maar niet automatisch en niet onbeperkt. Welke schade wél en niet gedekt is, wat je moet melden en welke vier vragen je schriftelijk aan je verzekeraar moet stellen.'
 draft: false
 categories:
 - zonnepanelen
@@ -26,436 +26,160 @@ featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1542621334-a254cf
 schema_type: Article
 affiliate: false
 faq:
-- q: 'Zijn zonnepanelen automatisch verzekerd via opstal?'
-  a: 'Bij meeste opstalverzekeringen sinds 2020 ja, mits gecertificeerde installatie. Bij oudere polissen vóór 2018: vaak aparte aanmelding nodig. Bel je verzekeraar om te checken.'
-- q: 'Wat dekt de opstalverzekering?'
-  a: 'Brand, storm, hagel, blikseminslag, vandalisme, en schade door derden. Niet gedekt: normale slijtage, verzakking, dieren-schade aan elektronica, en defecten door fabricage (valt onder garantie).'
-- q: 'Hoeveel hoger wordt mijn premie?'
-  a: 'Bij meeste verzekeraars €15-€60 per jaar extra. Bij sommige verzekeraars (Aegon, FBTO): geen extra premie tot bepaalde investeringswaarde. Vergelijk altijd 2-3 verzekeraars.'
-- q: 'Hoe meld ik mijn installatie aan?'
-  a: 'Bel je verzekeraar of meld online via klantportaal. Geef door: investeringswaarde, datum installatie, type panelen, of het door erkend installateur is gemonteerd.'
-- q: 'Wat als de installatie DIY is?'
-  a: 'Veel verzekeraars dekken dan niet of beperkt. Bij DIY-installatie altijd schriftelijk akkoord verzekeraar vóór installatie aanvragen.'
-- q: 'Welke verzekering bij hagelschade?'
-  a: 'Opstalverzekering. Eigen risico typisch €150-€450. Schade-uitkering vaak nieuwwaarde, maar check polisvoorwaarden — sommige polissen geven dagwaarde na 10 jaar.'
-products:
-- name: Centraal Beheer opstal
-  url: https://www.centraalbeheer.nl/
-  price: '120'
-- name: Aegon woonverzekering
-  url: https://www.aegon.nl/
-  price: '95'
-- name: AON garantieverzekering
-  url: https://www.aon.nl/
-  price: '150'
+- q: 'Zijn zonnepanelen automatisch meeverzekerd via de opstalverzekering?'
+  a: 'Ze vallen er in beginsel onder, omdat panelen nagelvast met de woning zijn verbonden. Maar veel polissen kennen een maximumbedrag voor bijzondere gebouwdelen en een meldplicht bij waardeverhogende aanpassingen. Of dat in jouw polis staat, kun je alleen in je eigen voorwaarden nalezen — vraag de bevestiging schriftelijk op.'
+- q: 'Welke schade dekt een opstalverzekering wel en niet?'
+  a: 'De gangbare gedekte oorzaken zijn brand, blikseminslag, storm, hagel, aanrijding, vandalisme en diefstal. Doorgaans níet gedekt: normale slijtage en degradatie, gevolgen van achterstallig onderhoud, constructiefouten, en fabricagefouten — die laatste vallen onder de fabrieksgarantie. Uitsluitingen verschillen per polis; lees de voorwaarden.'
+- q: 'Wat gebeurt er als ik de panelen zelf heb geïnstalleerd?'
+  a: 'Dat kan de dekking beperken. Veel voorwaarden verwijzen naar installatie volgens de geldende normen, en bij brand of stormschade zal een expert naar de montage en de elektrische aansluiting kijken. Doe je het zelf, vraag dan vóóraf schriftelijk aan je verzekeraar of dat gevolgen heeft voor je dekking.'
+- q: 'Wordt er uitgekeerd op herbouwwaarde of dagwaarde?'
+  a: 'Dat is het belangrijkste onderscheid in je polis. Bij herbouw- of nieuwwaarde krijg je vervanging vergoed; bij dagwaarde wordt de veroudering van de panelen in mindering gebracht. Sommige polissen schakelen na een bepaalde leeftijd over op dagwaarde. Vraag expliciet welke van de twee op zonnepanelen van toepassing is en vanaf wanneer.'
+- q: 'Moet ik een thuisbatterij apart melden?'
+  a: 'Meld hem in elk geval. Een batterij verhoogt de waarde van je installatie en roept bij verzekeraars aparte vragen op over brandrisico en opstelplaats. Of hij onder opstal of onder inboedel valt, hangt af van de montage: vast gemonteerd aan het gebouw is doorgaans opstal, een verplaatsbaar apparaat eerder inboedel.'
+- q: 'Wat doe ik bij schade?'
+  a: 'Meld direct bij je verzekeraar, tref maatregelen om vervolgschade te voorkomen, en documenteer alles met foto''s, datum en zo mogelijk de KNMI-gegevens van de betreffende dag. Herstel pas na overleg, tenzij het om noodmaatregelen gaat. Kom je er met je verzekeraar niet uit, dan is Kifid de klachten- en geschillenroute voor consumenten.'
 ---
-Een klant uit Goeree-Overflakkee belde mij na storm Eunice in 2023: 6 van zijn 14 zonnepanelen waren weggewaaid. Schade €4.200. Hij had 5 jaar lang braaf premie betaald maar wist niet of zonnepanelen meeverzekerd waren. Resultaat: gelukkig wel — uitkering binnen 8 weken. Maar de 4 weken angst had hem heel veel kunnen besparen.
 
-Veel mensen weten niet precies wat verzekerd is en wat niet. Hieronder mijn complete uitleg van zonnepanelen verzekering in 2026: opstal, inboedel, garantie, en welke aanvullende polissen verstandig zijn.
+*Disclosure: dit artikel bevat geen affiliate- of commissielinks. Wij hebben met geen enkele verzekeraar een commerciële relatie en bevelen geen polis aan.*
 
-*Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
+Zonnepanelen zijn nagelvast met je woning verbonden, en vallen daarmee in beginsel onder je opstalverzekering. Dat is het makkelijke deel. Het lastige deel zit in drie details die pas bij een schade zichtbaar worden: het **maximumbedrag** voor bijzondere gebouwdelen, de **meldplicht** bij waardeverhogende aanpassingen, en de vraag of er op **herbouwwaarde of dagwaarde** wordt uitgekeerd.
 
+Wij noemen in dit artikel bewust geen premies, dekkingslimieten of eigen risico's per verzekeraar. Die verschillen per polisversie, per bouwjaar van de polis en per situatie, en elke tabel die je daarover online vindt is binnen een jaar achterhaald. Wat wel houdbaar is: welke vragen je moet stellen, en welk antwoord je schriftelijk moet vastleggen.
 
-> **Kort antwoord:** Zonnepanelen verzekering: wat dekt opstal- en inboedelpolis? Premies, schade-types en welke aanvullende dekking nodig is bij hagel, storm en brand in 2026.
->
-> Bij meeste opstalverzekeringen sinds 2020 ja, mits gecertificeerde installatie. Bij oudere polissen vóór 2018: vaak aparte aanmelding nodig. Bel je verzekeraar om te checken.
+## Waar zonnepanelen fiscaal-verzekeringstechnisch onder vallen
 
-## Drie soorten dekking
+**Opstalverzekering.** Dekt het gebouw en alles wat er aard- en nagelvast aan zit: dakbedekking, kozijnen, cv-installatie — en dus ook zonnepanelen op het dak en de omvormer aan de muur. Dit is de polis waar je moet zijn.
 
-### 1. Opstalverzekering
+**Inboedelverzekering.** Dekt losse spullen in huis. Voor dakpanelen niet relevant. Wel relevant voor een verplaatsbare thuisbatterij of een powerstation, en voor zonnepanelen op een caravan of camper (die lopen via de verzekering van dat voertuig).
 
-Dekt de woning en wat eraan vastzit (zonnepanelen, kozijnen, dakpannen).
+**Fabrieksgarantie.** Geen verzekering. Garantie dekt fouten die in het product zelf zitten — productgarantie op de fabricage, vermogensgarantie op het opbrengstverlies over de jaren. Een verzekering dekt schade die van buiten komt. Zie [garantie zonnepanelen uitleg](/posts/garantie-zonnepanelen-uitleg-2026/) voor het verschil tussen die twee garantietermijnen.
 
-Wat dekt:
-- Brand
-- Storm (vanaf windkracht 7)
-- Hagel
-- Bliksem
-- Aanrijding
-- Vandalisme
-- Diefstal van panelen
-- Schade door derden
+Dat onderscheid loopt in de praktijk vaak door elkaar: een paneel dat na acht jaar minder levert dan beloofd is een garantiekwestie, een paneel waar een tak doorheen is gegaan een verzekeringskwestie.
 
-Wat dekt NIET:
-- Normale slijtage
-- Onvoldoende onderhoud
-- Verzakking dak
-- Defecten door fabricage (= garantie)
-- Schade door verkeerde installatie
+## Wat doorgaans gedekt is
 
-### 2. Inboedelverzekering
+De gangbare "gedekte gevaren" in een opstalpolis:
 
-Dekt alleen losse spullen IN het huis. Voor zonnepanelen niet relevant — die vallen onder opstal omdat ze aan het pand vast zitten.
+- **Brand en blikseminslag**
+- **Storm.** In Nederlandse polissen gebruikelijk gedefinieerd als wind van minimaal windkracht 7. Bij een claim wordt vaak de KNMI-registratie van die dag erbij gehaald.
+- **Hagel**
+- **Aanrijding, aanvaring, luchtvaartuigen**
+- **Vandalisme en diefstal**
+- **Schade door derden**, waarbij de aansprakelijkheidsverzekering van die derde in beeld komt
 
-Wel relevant voor:
-- Losse omvormer (sommige polissen)
-- Thuisbatterij die niet permanent gemonteerd is
-- Zonnepanelen op caravan (auto-/caravanverzekering)
+En wat doorgaans níet gedekt is:
 
-### 3. Garantie (geen verzekering)
+- **Normale slijtage en degradatie.** Panelen leveren elk jaar iets minder; dat is geen schade.
+- **Achterstallig onderhoud.** Een losgeraakte klem die al langer los zat, wordt bij een storm een discussiepunt.
+- **Constructiefouten en fouten in de montage.**
+- **Fabricagefouten.** Die horen bij de garantie.
+- **Geleidelijk werkende invloeden**, zoals vervuiling of corrosie.
 
-Productgarantie en vermogensgarantie van de fabrikant. Lees [garantie zonnepanelen uitleg](/posts/garantie-zonnepanelen-uitleg-2026/).
+Let op: dit zijn de gebruikelijke categorieën, geen belofte over jouw polis. Uitsluitingen en franchises verschillen per verzekeraar en per productversie.
 
-Niet hetzelfde als verzekering. Garantie dekt fabrieksfouten, verzekering dekt extern aan­gebrachte schade.
+## De vier vragen die je schriftelijk beantwoord wilt hebben
 
-## Wat zit er meestal in opstal?
+Dit is het praktische deel van dit artikel. Stuur je verzekeraar een bericht via het klantportaal — dan staat het antwoord in je dossier — en vraag om antwoord op precies deze vier punten:
 
-Standaard inbegrepen sinds ~2018-2020 bij grote verzekeraars:
+1. **Zijn mijn zonnepanelen opgenomen in de dekking, en tot welk bedrag?** Noem het investeringsbedrag van de factuur, het aantal panelen en het totale vermogen. Vraag of er een aparte limiet geldt voor "bijzondere gebouwdelen" of "zonnepanelen" en zo ja, welke.
+2. **Wordt er uitgekeerd op herbouwwaarde of dagwaarde, en verandert dat met de leeftijd van de installatie?** Bij dagwaarde na verloop van tijd weet je dat je bij totaalverlies een deel zelf betaalt.
+3. **Welk eigen risico geldt bij schade aan de zonnepanelen?** Sommige polissen kennen een afwijkend eigen risico of een franchise bij storm- en hagelschade.
+4. **Zijn er eisen aan de installatie?** Denk aan installatie door een erkend bedrijf of volgens de geldende normen. Als je zelf hebt geïnstalleerd of laat installeren door een niet-gecertificeerde partij, is dit de vraag die later het verschil maakt.
 
-| Verzekeraar | Standaard? | Extra premie | Limiet |
-|-------------|-----------|--------------|--------|
-| Centraal Beheer | Ja | €0-€20/jaar | €20.000 |
-| Aegon | Ja | €0 | €25.000 |
-| FBTO | Ja | €0 | €15.000 |
-| Allianz | Ja | €15-€40/jaar | €25.000 |
-| Achmea (Interpolis) | Ja | €15-€30/jaar | €20.000 |
-| Univé | Ja | €10-€25/jaar | €15.000 |
-| Independer-bemiddelde polissen | Verschillend | Verschillend | Verschillend |
-| ING | Ja | €0-€25/jaar | €20.000 |
+Een telefonische toezegging ("dat zit er gewoon in, hoor") is bij een geschil geen bewijs. Vraag om bevestiging op schrift en bewaar die bij je installatiefactuur.
 
-Investeringswaarde >€20.000? Aparte uitbreiding nodig. Vraag offerte voor "verhoogd opstaalbedrag".
+## Melden: wanneer en wat
 
-## Premies in 2026
+Meld in elk geval bij oplevering, en opnieuw bij elke wijziging:
 
-Voor een gemiddelde rijtjeshuis met 12 zonnepanelen (€5.500 investering):
+| Situatie | Melden? | Waarom |
+|---|---|---|
+| Nieuwe installatie zonnepanelen | Ja | Waardeverhogende aanpassing; bepaalt of het bedrag binnen de limiet valt |
+| Uitbreiding met extra panelen | Ja | Het totale bedrag kan alsnog boven de limiet uitkomen |
+| Toevoeging thuisbatterij | Ja | Hogere waarde én aparte vragen over brandrisico en opstelplaats |
+| Vervanging van de omvormer | Ja, kort | Voorkomt discussie over wat er precies verzekerd was |
+| Verhuizing van de installatie | Ja | Andere woning, andere polis |
 
-| Aanbieder | Premie zonder panelen | Met panelen | Extra |
-|-----------|---------------------|-------------|-------|
-| Centraal Beheer | €380/jr | €395/jr | €15 |
-| Aegon | €355/jr | €355/jr | €0 |
-| FBTO | €395/jr | €395/jr | €0 |
-| Interpolis | €445/jr | €465/jr | €20 |
-| Univé | €405/jr | €430/jr | €25 |
-| Independer | €350-€420/jr | €370-€450/jr | €20-€30 |
+Wat je meestuurt: de factuur met het investeringsbedrag, het aantal panelen en het vermogen, de naam en het KvK-nummer van de installateur, en het type omvormer.
 
-De spreiding is groot. Vergelijk altijd 2-3 verzekeraars vóór keuze.
+## Documentatie: het goedkoopste dat je kunt doen
 
-## Speciale risico's en dekking
+Bij een claim ligt de bewijslast van bestaan en staat van de installatie in belangrijke mate bij jou. Maak daarom op de dag van oplevering:
 
-### Hagelschade
+- een overzichtsfoto van het complete dak;
+- detailfoto's van de montageklemmen en de doorvoer;
+- foto's van de typeplaatjes met **serienummers** van panelen en omvormer;
+- een foto van de omvormer en de meterkast.
 
-In 2024 was een grote hagelbui in Limburg. ~3.500 huizen kregen hagelschade aan zonnepanelen. Schade per huis: €1.500-€8.000.
+Bewaar dat samen met de factuur, het opleveringsrapport en — als je die hebt — het inspectie- of keuringsrapport van de elektrische installatie. Bewaar daarnaast je **opbrengstdata**: een export uit je omvormer-app van de maanden vóór een schade is het sterkste bewijs dat er daarna iets veranderd is.
 
-**Dekking:** opstal dekt hagel als deel van storm/onweer. Eigen risico typisch €150-€450.
+## Bij schade: de volgorde
 
-**Tip:** vraag bij offerte naar specifieke hagel-dekking. Sommige polissen sluiten "hagel boven 25mm" uit.
+1. **Veiligheid eerst.** Losse panelen, beschadigde bekabeling of een dak dat lekt: schakel de installatie uit via de DC-schakelaar en houd afstand van beschadigde panelen — die staan onder spanning zodra er licht op valt.
+2. **Meld direct bij je verzekeraar**, en in elk geval binnen de termijn die je voorwaarden noemen. Noteer de datum, het tijdstip en de vermoedelijke oorzaak.
+3. **Beperk vervolgschade** met noodmaatregelen (afdekken, afsluiten). De kosten daarvan zijn doorgaans gedekt; herstel je verder zonder overleg, dan loop je risico.
+4. **Documenteer** met foto's en video, en haal de KNMI-gegevens van die dag erbij bij storm- of hagelschade.
+5. **Expertise.** De verzekeraar schakelt vaak een schade-expert in. Je mag als verzekerde in de regel een contra-expert inschakelen; kijk in je voorwaarden of en hoe de kosten daarvan worden vergoed.
+6. **Offerte en herstel.** Vraag waar mogelijk meerdere offertes en laat vastleggen of er op nieuwwaarde of dagwaarde wordt afgerekend.
+7. **Geschil?** Kom je er met de verzekeraar niet uit, dan kun je als consument terecht bij Kifid, het klachteninstituut voor financiële dienstverlening.
 
-### Stormschade
+### Specifiek bij hagelschade
 
-Storm Eunice (2022), Conor (2023): meerdere stormen veroorzaakten weggewaaide panelen.
+Hagel kan glas beschadigen zonder dat het met het blote oog zichtbaar is. Micro-scheurtjes in het paneelglas of in de cellen leiden wel tot opbrengstverlies. Wie vermoedt dat er meer schade is dan de zichtbaar gebroken panelen, kan een **thermografische inspectie of elektroluminescentiemeting** laten uitvoeren; dat maakt cel-scheuren zichtbaar. Bespreek vooraf met je verzekeraar of de kosten van zo'n onderzoek vergoed worden als er inderdaad schade uit komt — dat scheelt een discussie achteraf.
 
-**Dekking:** opstal dekt stormschade vanaf windkracht 7 (KNMI-data). Onderbrekingen mogelijk indien:
-- Onvoldoende ballast op plat dak
-- Verkeerde montage zichtbaar
-- DIY-installatie zonder akkoord
+Laat na een zware hagelbui de volledige installatie doormeten, niet alleen de panelen waar je iets aan ziet, en leg de opbrengst vóór en na de bui naast elkaar.
 
-**Tip:** zorg voor gecertificeerde installatie en juiste ballast (lees [montagesysteem vergelijking](/posts/montagesysteem-zonnepanelen-vergelijking-2026/)).
+## Zelf installeren en de verzekering
 
-### Brand
+Zelf panelen leggen is niet verboden, maar het raakt je verzekering op twee punten: de **montage** (windbelasting, ballast, bevestiging) en de **elektrische aansluiting**. Bij brand of stormschade kijkt de expert daar als eerste naar.
 
-Branden door zonnepanelen zijn zeldzaam (1 op 10.000 installaties per jaar) maar niet onbestaande. Oorzaken meestal:
-- DC-vlamboog door losse aansluiting
-- Fabrieksfout junctiedoos
-- Dak-installatie niet brandwerend
+Wil je het zelf doen, vraag dan schriftelijk aan je verzekeraar wat de gevolgen zijn voor de dekking, en laat de elektrische aansluiting hoe dan ook door een erkend installateur doen en opleveren met een rapport. Keurmerken die je in de markt tegenkomt zijn Zonnekeur (van brancheorganisatie Holland Solar) en de erkenningsregelingen van InstallQ. Zie ook onze afweging in [zonnepanelen: doe-het-zelf of installateur](/posts/zonnepanelen-diy-vs-installateur-2026/) en de montagekant in [montagesystemen vergeleken](/posts/montagesysteem-zonnepanelen-vergelijking-2026/).
 
-**Dekking:** opstal dekt 100%. Voor de eigenaar zonder zonnepanelen-uitbreiding kan dit honderdduizenden euro's zijn.
+## Bijzondere situaties
 
-**Tip:** SolarEdge en Enphase hebben DC shutdown bij brand — zorgt voor extra veiligheid (lees [SolarEdge vs Enphase](/posts/solaredge-vs-enphase-2026/)).
+**Bijgebouwen.** Panelen op een schuur, berging of carport los van het hoofdgebouw vallen soms onder een aparte, lagere dekkingslimiet voor bijgebouwen. Vraag dit expliciet na als je installatie daar ligt.
 
-### Bliksem
+**Verhuurde woning.** Verhuur je de woning, dan gelden andere voorwaarden en soms een andere polis. Meld de verhuur; verzwijgen kan de dekking aantasten.
 
-Direct: zelden, maar wel impact op omvormer.
-Indirect: overspanning op net door blikseminslag elders.
+**Recreatiewoning.** Recreatiewoningen hebben een eigen polistype, met wisselende behandeling van zonnepanelen. Zie [zonnepanelen op een recreatiewoning](/posts/zonnepanelen-recreatiewoning-2026/).
 
-**Dekking:** opstal dekt directe schade, sommige polissen ook overspanningsschade. Check expliciet.
+**VvE.** Bij een collectieve installatie op een gemeenschappelijk dak loopt de dekking via de opstalverzekering van de VvE. Controleer of het bestuur de installatie daadwerkelijk heeft gemeld en of de verzekerde som is aangepast. Zie [zonnepanelen via de VvE](/posts/vve-zonnepanelen-stappenplan-2026/).
 
-**Tip:** zonnepaneelinstallatie heeft eigen overspanningsbeveiliging. Geen extra installatie meestal nodig — fabrikant zit erbij.
+**Monumentaal pand.** Monumentenpolissen kennen eigen voorwaarden en vaak eisen aan de zichtbaarheid en bevestiging van de installatie. Zie [zonnepanelen op een monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/).
 
-### Diefstal
+## Thuisbatterij erbij: extra aandacht
 
-Zeldzaam in NL maar wel mogelijk. Vooral grotere installaties op afgelegen locaties.
+Een [thuisbatterij](/posts/thuisbatterij-vergelijking-2026/) verhoogt de waarde van je installatie merkbaar — een Sessy van 10 kWh staat bij de fabrikant op € 5.500 inclusief btw en exclusief installatie (peildatum 20 augustus 2026) — en roept bij verzekeraars aparte vragen op:
 
-**Dekking:** opstal dekt — meestal nieuwwaarde tot maximum.
+- **Opstelplaats.** Binnen of buiten, en in welke ruimte. Sommige verzekeraars stellen hier voorwaarden aan.
+- **Brandrisico.** Vraag expliciet of brandschade veroorzaakt door de batterij zelf gedekt is.
+- **Gebruik.** Handel je actief op de onbalans- of dagmarkt, vraag dan na of dat als particulier gebruik wordt gezien. Het is een reële vraag om vooraf te stellen in plaats van achteraf te ontdekken.
 
-**Tip:** maak foto's en bewaar serienummers. Bij diefstal-melding nodig.
+Waar je de batterij het beste kunt plaatsen en welke afwegingen daarbij spelen, staat in [thuisbatterij binnen of buiten installeren](/posts/thuisbatterij-buiten-vs-binnen-installeren-2026/).
 
-### Vandalisme
+## Premiekorting voor een duurzame woning
 
-Zeldzaam. Vooral bij scholen, sportcomplexen, eerder dan particuliere woningen.
+Een aantal verzekeraars geeft korting op de opstalpremie bij een gunstig energielabel of bij een pakket duurzaamheidsmaatregelen. De hoogte en de voorwaarden verschillen sterk en veranderen regelmatig, dus vraag het na bij je eigen verzekeraar in plaats van af te gaan op een overzicht. Ga je toch verduurzamen, dan is een labelsprong het punt waarop zo'n korting doorgaans ingaat — zie [energielabel verbeteren: stappenplan](/posts/energielabel-verbeteren-stappenplan-2026/).
 
-**Dekking:** opstal dekt.
+## Verandert er iets door het einde van de saldering?
 
-## Aanvullende verzekeringen
+Voor je dekking niet. De **salderingsregeling stopt volledig per 1 januari 2027** — er is geen afbouwpad — maar dat raakt je opbrengstberekening, niet je polis. Wel indirect relevant: veel huishoudens voegen om die reden een thuisbatterij toe, en dát moet je wél melden. Zie de [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).
 
-### Garantieverzekering
+## Conclusie
 
-Sommige verzekeraars (AON, Garantieverzekering.nl) bieden specifieke garantieverzekeringen:
-- Eenmalig €100-€200
-- Dekt gevolgen failliete installateur
-- Vergoedt arbeidskosten bij defect
-- 25 jaar zekerheid
+Zonnepanelen zijn in de meeste gevallen goed verzekerd via de opstalpolis, maar "in de meeste gevallen" is niet hetzelfde als "automatisch en onbeperkt". Wat je concreet moet doen:
 
-Mijn mening: nuttig als je installateur:
-- Jonger dan 5 jaar
-- Niet super-stabiel financieel
-- Specialist niche
+1. **Meld je installatie** met factuurbedrag, aantal panelen en vermogen.
+2. **Vraag schriftelijk** naar dekkingslimiet, herbouw- of dagwaarde, eigen risico en installatie-eisen.
+3. **Fotografeer** de installatie inclusief serienummers en bewaar dat met factuur en keuringsrapport.
+4. **Bewaar je opbrengstdata** — dat is je bewijs bij verborgen schade.
+5. **Meld elke wijziging**: extra panelen, nieuwe omvormer, thuisbatterij.
+6. **Bij schade:** eerst veilig stellen, dan melden, dan pas herstellen.
 
-Voor gevestigde installateurs (Coolblue, Zonneplan, Engie): niet noodzakelijk.
+Dat is een uurtje werk bij oplevering. Het verschil tussen een vlotte uitkering en een half jaar discussie zit precies in die documentatie.
 
-### Aansprakelijkheidsverzekering uitbreiding
-
-Bij verhuur van zonneoverschot of speciale arrangementen: extra dekking soms nodig.
-
-### Cyber-verzekering
-
-Voor "smart home"-systemen met thuisbatterij + paneelmonitoring + IoT: cyberverzekering kan zinvol zijn. €40-€80 per jaar.
-
-## Stappenplan: na installatie verzekering regelen
-
-### Stap 1: Bel je verzekeraar
-
-Direct na installatie. Geef door:
-- Datum installatie
-- Investeringswaarde (factuur)
-- Aantal panelen + vermogen
-- Installateur naam + KvK
-- Type omvormer
-
-### Stap 2: Vraag bevestiging
-
-Zorg voor schriftelijke bevestiging dat je polis is uitgebreid. Bewaar in dossier.
-
-### Stap 3: Foto's maken
-
-Documenteer installatie:
-- Overzicht dak
-- Detailfoto's per paneel
-- Serienummers
-- Omvormer
-- Bedrading-routing
-
-Dit is bewijs bij eventuele claim.
-
-### Stap 4: Check premie effect
-
-Krijg je nieuwe polis met aangepaste premie? Vergelijk met markt. Soms loont overstappen.
-
-### Stap 5: Update bij wijzigingen
-
-- Uitbreiding panelen: melden
-- Toevoeging thuisbatterij: melden
-- Wijziging installateur (bij service): melden
-
-## Stappenplan: claim indienen
-
-### Stap 1: Documenteer schade
-
-- Foto's en video's
-- Datum + tijd
-- Oorzaak (storm, hagel, brand, etc.)
-- Eventuele KNMI-bevestiging stormkracht
-
-### Stap 2: Meld direct
-
-Binnen 24-48 uur na schade. Telefonisch of via app. Schade-identificatie krijg je toegezonden.
-
-### Stap 3: Spaarmaatregelen
-
-- Onveilige onderdelen afsluiten
-- Lekkages provisorisch dichten
-- Extra schade voorkomen
-
-### Stap 4: Expert-bezoek
-
-Verzekeraar stuurt expert (vaak Crawford & Co of vergelijkbaar). Check:
-- Schade-omvang
-- Oorzaak
-- Vervangings­plan
-
-### Stap 5: Offerte vervanging
-
-Eigen installateur of door verzekeraar gekozen partner. 2-3 offertes bij voorkeur.
-
-### Stap 6: Uitkering
-
-Aftrekken eigen risico. Op je rekening of direct naar installateur.
-
-### Stap 7: Vervanging
-
-Zo snel mogelijk. Bij wegwaaien panelen: dak vrijhouden voor regen-schade.
-
-## Veelgemaakte fouten
-
-**Fout 1: Niet melden bij verzekeraar**
-Geen melding = geen dekking. Sommige verzekeraars eisen melding binnen 14 dagen na installatie.
-
-**Fout 2: DIY zonder akkoord**
-DIY-installatie kan dekking uitsluiten. Vraag schriftelijk akkoord vóór.
-
-**Fout 3: Onvoldoende foto-documentatie**
-Bij claim heb je bewijs nodig van bestaan en staat van panelen.
-
-**Fout 4: Oude polis ongewijzigd laten**
-Polis van vóór 2018 dekt soms niet. Update of switch.
-
-**Fout 5: Eén verzekeraar zonder vergelijken**
-€200 premie-verschil per jaar over 25 jaar = €5.000.
-
-## Specifieke situaties
-
-### Verhuurpand
-
-Voor verhuurde woningen: andere polis-condities. Sommige verzekeraars dekken zonnepanelen op verhuurde woning niet of beperkt.
-
-### Vakantiewoning
-
-Vakantiewoning-verzekering vaak duurder, met restricties. Check specifiek of zonnepanelen meegenomen zijn.
-
-### VVE-systeem op gemeenschappelijk dak
-
-VVE-opstalverzekering dekt collectieve installatie. Individuele bewoners niet apart aangemerkt nodig. Lees [VVE zonnepanelen stappenplan](/posts/vve-zonnepanelen-stappenplan-2026/).
-
-### Monumenten
-
-Verzekering monumentpand vaak hoger, met monument-specifieke voorwaarden. Lees [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/).
-
-### Recreatiewoning
-
-Apart polis-type voor recreatiewoningen. Zonnepanelen-dekking wisselend. Vraag specifiek na. Lees [zonnepanelen recreatiewoning](/posts/zonnepanelen-recreatiewoning-2026/).
-
-## Combinatie met thuisbatterij
-
-[Thuisbatterij](/posts/thuisbatterij-vergelijking-2026/) verhoogt opstalbedrag substantieel:
-- Sessy 10 kWh: €5.500 (excl. installatie, prijspeil aug 2026)
-- Tesla Powerwall 3: €9.500
-- BYD HVS 10.2: €5.500
-
-Meld dit aan verzekeraar — extra €15-€40 premie typisch. Bij niet-melden mogelijk niet gedekt.
-
-## Premiekorting voor verduurzaamde woning
-
-Sommige verzekeraars geven premiekorting voor verduurzaamde woning:
-- Centraal Beheer: 5% korting bij energielabel A
-- Aegon: 7% bij volledig duurzaam pakket
-- FBTO: 10% bij A+++ label
-
-Plan dus geen alleenstaande maatregelen — combineer naar label-sprong (lees [energielabel verbeteren stappenplan](/posts/energielabel-verbeteren-stappenplan-2026/)).
-
-## Verzekering bij saldering 2027 transitie
-
-Met verandering saldering verandert er niets aan dekking. Wel: bij toevoeging thuisbatterij of nieuwe omvormer altijd melden bij verzekeraar.
-
-Lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).
-
-## Conclusie: ondervraag je polis
-
-Zonnepanelen-verzekering is meestal goed geregeld via opstal — maar niet automatisch. Onze aanbevelingen:
-
-1. **Bel je verzekeraar binnen 14 dagen na installatie**
-2. **Vraag schriftelijke bevestiging dekking**
-3. **Documenteer met foto's en serienummers**
-4. **Vergelijk premies bij overstap-momenten**
-5. **Update bij wijzigingen** (uitbreiding, batterij, etc.)
-6. **Bij DIY: schriftelijk akkoord vooraf vragen**
-7. **Check eigen risico** bij grote schade-cases
-
-Een uurtje werk vooraf bespaart in slecht-geval-scenario's tienduizenden euro's.
-
-Voor verdere lezing: [garantie zonnepanelen uitleg](/posts/garantie-zonnepanelen-uitleg-2026/), [zonnepanelen onderhoud](/posts/zonnepanelen-onderhoud-schoonmaken-2026/), [montagesysteem vergelijking](/posts/montagesysteem-zonnepanelen-vergelijking-2026/), [omvormer kiezen](/posts/omvormer-kiezen-welke-past-2026/) en [zonnepanelen DIY vs installateur](/posts/zonnepanelen-diy-vs-installateur-2026/).
-
-## De valkuil die het vaakst tot onderverzekering leidt
-
-De meest voorkomende fout is een telefonische toezegging vertrouwen. Een medewerker die zegt "geen meerpremie, panelen vallen onder de bestaande dekking" heeft formeel gelijk bij veel polissen — maar in de polisvoorwaarden staat vaak óók dat de panelen aangemeld moeten zijn om onder de dekking te vallen, met een maximum aan herbouwwaarde (bij de grote verzekeraars tussen €10.000 en €25.000, zie de tabel hieronder). Wordt de aanmelding niet daadwerkelijk in het dossier vastgelegd, dan blijkt dat pas bij de schadeafhandeling.
-
-Daarom: laat schriftelijk bevestigen dat de panelen zijn opgenomen in de polis, met expliciete vermelding van het investeringsbedrag en het aantal panelen. Een telefonische toezegging is bij een geschil geen bewijs.
-
-## Diepgang per verzekeraar (NL-markt 2026)
-
-| Verzekeraar | Standaarddekking | Meerpremie | Hagel-dekking | Eigen risico |
-|-------------|------------------|------------|---------------|--------------|
-| Centraal Beheer | Inbegrepen tot €15K | €0 | Volledig | €150 |
-| ABN AMRO Verzekeringen | Inbegrepen tot €10K | €0-€20/jaar | Volledig | €250 |
-| Klaverblad | Apart aanmelden | €25-€60/jaar | Volledig | €100 |
-| Aegon | Inbegrepen tot €25K | €0 | Met franchise | €200 |
-| ASR | Apart aanmelden verplicht | €30-€75/jaar | Volledig | €150 |
-| Univé | Inbegrepen | €0 | Volledig | €150 |
-| Nationale-Nederlanden | Inbegrepen tot €20K | €0 | Met franchise | €250 |
-
-Vraag altijd schriftelijk: dekking inbegrepen / aparte clausule / herbouwwaarde / dagwaarde / premie wijziging. Bij dagwaarde-dekking krijg je na 10 jaar nog maar 50-60% van investering vergoed bij totaalverlies. Bij herbouwwaarde 100%.
-
-## NL-specifiek: storm en hagel — wat is verzekerd
-
-In 2023 hadden delen van Brabant en Limburg zware hagelschade — sommige panelen volledig stuk. De afhandelingen liepen uiteen van "binnen 4 weken vervangen" tot "8 maanden discussie over expert-rapport". Belangrijke punten:
-
-- **Stormschade**: gedekt vanaf windkracht 7 (62 km/u) bij vrijwel elke verzekeraar
-- **Hagelschade**: vraagt vaak microscoop-test of paneel-glas micro-fractures heeft. Productieverlies als gevolg telt mee
-- **Sneeuwbelasting**: in NL zelden schade, maar zone-2 (Drenthe, Twente) kan in extreme winter relevant zijn
-- **Bliksem**: meestal gedekt mits via aardingssysteem volgens NEN 1010
-
-## Hoe een hagelschadeclaim in de praktijk verloopt
-
-Het patroon dat uit Kifid-uitspraken over hagelschade aan zonnepanelen naar voren komt, is telkens hetzelfde. Bij de eerste inspectie worden alleen de panelen met zichtbaar scheurglas afgekeurd. Micro-fracturen in het glas zijn met het oog niet te zien, maar geven wel structureel productieverlies — doorgaans 8 tot 15 procent per aangetast paneel.
-
-Wie een thermografisch of elektroluminescentierapport laat opstellen (reken op €250 tot €350) kan die onzichtbare schade aantonen. In geschillen waarin dat rapport werd overgelegd, kende Kifid de aanvullende vervanging vaak toe, inclusief vergoeding van de expertkosten. Reken wel op een lange doorlooptijd: zulke procedures duren maanden.
-
-Praktisch: laat na een zware hagelbui altijd de volledige installatie doormeten, niet alleen de zichtbaar beschadigde panelen, en bewaar de opbrengstdata van vóór en na de bui.
-
-## Veelgemaakte fouten
-
-**Fout 1: Aanname dat panelen automatisch zijn meeverzekerd**
-Niet bij elke polis automatisch. Schriftelijke bevestiging vragen.
-
-**Fout 2: Dagwaarde-polis nemen**
-Bij dagwaarde verlies je 4-6% per jaar in waarde. Na 15 jaar nog maar 30-40% vergoeding. Kies herbouwwaarde.
-
-**Fout 3: Geen melding maken na investering**
-Toevoeging van €5.000-€20.000 aan dakwaarde moet doorgegeven, anders kan onderverzekering ontstaan.
-
-**Fout 4: Eigen risico niet checken**
-Bij hagelschade tot €1.500 per paneel kan eigen risico van €500 een groot deel van vergoeding wegnemen.
-
-**Fout 5: DIY-installatie zonder erkend monteur**
-Bijna alle polissen vereisen erkend installateur (KvINL of Zonnekeur). DIY = uitsluiting.
-
-## Wanneer aparte zonnepanelen-verzekering NIET de moeite waard is
-
-- **Investering <€3.000**: meerpremie €30-€75/jaar levert na 10 jaar weinig op tegenover risico
-- **Risicovrij gebied (binnenland, geen bomen, vrijstaand huis)**: standaard opstal volstaat
-- **Polis met automatische dekking tot €15K+**: aparte polis is dubbelop
-- **Panelen nog onder volledige fabrieksgarantie + installateurs-aansprakelijkheid (eerste 2 jaar)**
-
-## Extra FAQ
-
-**Telt productieverlies door schade ook mee?**
-Bij sommige polissen ja (Centraal Beheer, ASR), bij andere alleen vervanging hardware. Vraag schriftelijke uitleg over "gevolgschade".
-
-**Wat als mijn buur schade veroorzaakt door werkzaamheden op zijn dak?**
-Dan loopt schade via aansprakelijkheidsverzekering (AVP) van de buur. Document met foto's en verklaring.
-
-**Mag verzekeraar premie verhogen na schade?**
-Ja, na 1 schade typisch 5-10% verhoging. Bij 2 schades binnen 5 jaar: kans op opzegging. Houd rekening met polis-overstap als het zover komt.
-
-**Is een thuisbatterij apart verzekerd?**
-Vrijwel altijd ja, soms onder inboedel ipv opstal. Vraag specifiek voor LiFePO4-batterij of brandschade door batterij-defect gedekt is.
-
-## Vergelijking premie 2024 vs 2026
-
-In twee jaar tijd zijn de premies voor verduurzaamde woningen niet gedaald, ondanks lagere brandrisico's. Reden: verzekeraars factoren stormschade en hagel zwaarder mee na de 2023 hagelramp in Brabant. Concreet zag ik bij eigen klanten: in 2024 betaalde een rijtjeshuis met 12 panelen gemiddeld 28 euro per maand voor opstal. Diezelfde polis in 2026: 34 euro. Verschil 21 procent. Wel daalden de eigen risico's bij sommige verzekeraars (Aegon, Centraal Beheer) van 250 naar 150 euro voor zonnestroomschade. Voor batterijen zie ik tegenovergesteld effect: premies stijgen 35 procent omdat brandverzekeraars terughoudender worden bij LFP-batterijen boven 10 kWh.
-
-## Mini case 2: storm Eunice nasleep IJsselmuiden
-
-Klant in IJsselmuiden, dak met 18 panelen Trina 405W, schade na storm februari 2026. Drie panelen losgewaaid, één door buurmans dakkapel. Eigen schade: 1.350 euro panelen + 600 euro montagesysteem + 480 euro arbeid = 2.430 euro. Schade buurman: 4.200 euro dakkapel. Verzekering opstal vergoedde eigen panelenschade volledig, aansprakelijkheidsdeel betaalde buurmans schade — eigen risico in totaal 250 euro. Maar: claim was alleen mogelijk omdat klant een gecertificeerd montagesysteem had en NEN1010-keuringsrapport. Bij een ander dossier zonder rapport werd 30 procent eigen aandeel toegekend. Les: documentatie bewaren is gratis verzekeringsvoordeel.
-
-## Wanneer een doorlopende reisverzekering NIET dekt
-
-Veel mensen denken dat hun "uitgebreide woonhuispolis" alles dekt. Vier situaties waarin je vrijwel altijd een aanvullende clausule nodig hebt. Eén: panelen op een berging of carport apart van het hoofdgebouw — die tellen als "bijgebouw" en hebben vaak eigen dekkingslimiet. Twee: zelf-geinstalleerde panelen zonder NEN1010 worden door 80 procent van verzekeraars uitgesloten van brandschade. Drie: panelen ouder dan 20 jaar — dan dalen vergoedingen naar 50 procent dagwaarde. Vier: schade door dieren (steenmarters die kabels doorbijten) wordt vaak alleen gedekt onder uitgebreide opstal.
-
-**Hoe meld ik schade als mijn installateur failliet is gegaan?**
-Verzekering staat los van installateur — meld bij eigen verzekeraar binnen 48 uur na ontdekking. Voor reparatie zoek je een nieuwe Zonnekeur-installateur, factuur direct naar verzekeraar via expertbureau. Bewaar de oorspronkelijke installatiefactuur en NEN1010 — die heb je nodig.
-
-**Heeft groene stroom contract invloed op mijn verzekering?**
-Geen invloed op opstaldekking. Wel relevant: een dynamisch contract met thuisbatterij kan extra slijtage veroorzaken (meer cycli per dag), wat bij sommige verzekeraars als "commercieel gebruik" gezien wordt en lagere dekking betekent. Vraag dit altijd schriftelijk na voor je een batterij installeert in combinatie met dynamisch tarief.
+Verder lezen: [garantie zonnepanelen uitleg](/posts/garantie-zonnepanelen-uitleg-2026/), [zonnepanelen onderhoud en schoonmaken](/posts/zonnepanelen-onderhoud-schoonmaken-2026/), [montagesystemen vergeleken](/posts/montagesysteem-zonnepanelen-vergelijking-2026/) en [welke omvormer past bij jouw installatie](/posts/omvormer-kiezen-welke-past-2026/).
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [Kifid — klachten over financiële dienstverleners](https://www.kifid.nl/) is de geschillenroute voor consumenten als je er met je verzekeraar niet uitkomt. Voor de definitie van storm en de windkracht op een bepaalde dag is [KNMI](https://www.knmi.nl/) de bron waar verzekeraars zelf naar kijken.

@@ -1,8 +1,8 @@
 ---
-title: 'ZZP Zonnepanelen Kantoor aan Huis 2026: Belasting & ROI'
+title: 'Zonnepanelen als zzp''er met kantoor aan huis: wat fiscaal wél en niet kan (2026)'
 date: 2026-07-19 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: 'ZZP met kantoor aan huis: hoe verdeel je zonnepanelen-investering tussen privé en zakelijk? Belastingen, BTW en KIA voor freelancers in 2026 uitgelegd.'
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Zzp''er met een werkruimte thuis en zonnepanelen op het dak: wanneer horen die panelen bij je onderneming, wat doet de KIA in 2026, en waarom bestaat de btw-teruggaveroute sinds 2023 niet meer.'
 draft: false
 categories:
 - subsidies
@@ -26,403 +26,153 @@ featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497366811353-687
 schema_type: Article
 affiliate: false
 faq:
-- q: 'Mag ik zonnepanelen op mijn naam zakelijk afschrijven?'
-  a: 'Alleen als je officieel kantoor aan huis hebt en voldoet aan de eisen (zelfstandige opgang, eigen ingang, of administratief gescheiden ruimte). Anders zijn de panelen onder privé en niet zakelijk aftrekbaar.'
-- q: 'Wat is de KIA (kleinschaligheidsinvesteringsaftrek)?'
-  a: 'Belastingaftrek voor ondernemers die investeren in bedrijfsmiddelen. Voor 2026: investeringen tussen €2.801 en €71.675 geven 28% aftrek. Ook geldig voor zonnepanelen die zakelijk gebruikt worden.'
-- q: 'Hoeveel kan ik aftrekken bij thuiskantoor?'
-  a: 'Standaard verhouding kantoor/woning, vaak 10-20%. Heb je een woning van 100m² met 15m² kantoor: 15% van zonnepanelen-investering zakelijk, 85% privé. Belastingdienst hanteert "naar redelijkheid".'
-- q: 'Werkt KIA samen met BTW-teruggave?'
-  a: 'Ja, beide regelingen zijn cumulatief. Bij installatie van vóór 2023 (met BTW betaald) kun je BTW terugvragen plus KIA toepassen. Bij installatie ná 2023 (0% BTW) alleen KIA op zakelijk deel.'
-- q: 'Moet ik aparte meter hebben?'
-  a: Nee, één meter is voldoende. Verdeling tussen privé en zakelijk gebeurt administratief op basis van vloeroppervlak verhouding of werkelijke verdeling.
-- q: 'Hoe schrijf ik zonnepanelen af?'
-  a: 'Lineaire afschrijving over 10 jaar (10% per jaar). Voor de zakelijk gebruikte deel — bij 15% kantoor: 15% × 10% = 1,5% per jaar van totale investering aftrekbaar.'
-products:
-- name: Zonneplan zakelijk
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '5500'
-- name: Coolblue zonnepanelen
-  url: https://www.coolblue.nl/zonnepanelen
-  price: '5800'
-- name: Frank Energie zakelijk
-  url: https://www.frankenergie.nl/zakelijk
-  price: '0'
+- q: 'Mag ik zonnepanelen op mijn woning zakelijk afschrijven?'
+  a: 'Dat hangt af van de vermogensetikettering. De hoofdlijn in de fiscale praktijk: gebruik je minder dan 10% van de opgewekte stroom zakelijk, dan zijn de panelen verplicht privévermogen en valt er niets af te schrijven. Zit je op 10% of meer, dan zijn het keuzevermogen en mág je ze (deels) op de balans zetten. Geïntegreerde panelen die als dakbedekking dienen, horen bij de woning en volgen het pand. Laat de keuze door een fiscalist beoordelen — hij is bij aanschaf definitief.'
+- q: 'Wat is de KIA en welke bedragen gelden in 2026?'
+  a: 'De kleinschaligheidsinvesteringsaftrek is een extra aftrek op investeringen in bedrijfsmiddelen. De tabel van de Belastingdienst voor 2026 (opgehaald 21 augustus 2026): tot en met € 2.900 geen aftrek; van € 2.901 tot en met € 71.683 is de aftrek 28% van het investeringsbedrag; van € 71.684 tot en met € 132.746 een vast bedrag van € 20.072; daarboven loopt het af tot nul bij € 398.236.'
+- q: 'Hoeveel van mijn woning telt als zakelijk?'
+  a: 'Voor de kostenaftrek van de werkruimte zelf stelt de Belastingdienst eerst een andere vraag: is de ruimte zelfstandig? Dat betekent dat de ruimte apart verhuurbaar zou zijn — eigen opgang en eigen voorzieningen. Een zolderkamer of slaapkamer met een bureau is dat vrijwel nooit, en dan zijn de kosten van die ruimte niet aftrekbaar. Voor de panelen zelf gaat het niet om vierkante meters maar om het aandeel zakelijk gebruikte stroom.'
+- q: 'Kan ik de btw op zonnepanelen terugvragen?'
+  a: 'Nee. Sinds 1 januari 2023 geldt op de levering en installatie van zonnepanelen bij woningen het btw-nultarief. Er zit geen btw in de aanschafprijs, dus er valt niets terug te vragen. De oude route — je als particulier aanmelden als btw-ondernemer om de 21% terug te krijgen — is daarmee vervallen.'
+- q: 'Moet ik een aparte meter hebben voor het zakelijke deel?'
+  a: 'Nee, een aparte meter is geen wettelijke eis. Wel moet je bij een controle kunnen onderbouwen hoe je tot je zakelijke percentage komt. Een tussenmeter of een P1-uitlezing per groep maakt die onderbouwing wel een stuk sterker dan een schatting achteraf.'
+- q: 'Geldt de EIA voor zonnepanelen op mijn woning?'
+  a: 'De EIA is 40% in 2026 en geldt alleen voor bedrijfsmiddelen die op de Energielijst van RVO staan, aangemeld binnen 3 maanden na de besteldatum. Standaard zonnepanelen op een woning vallen daar niet onder. Check per investering de actuele Energielijst voordat je ergens op rekent.'
 ---
-Een ZZP-er uit Den Haag belde mij vorig jaar: ze runt een grafisch ontwerpbureau vanuit haar zolderkamer, 25 uur per week. Ze investeerde €5.800 in zonnepanelen. Haar boekhouder zei: "Privé, niet aftrekbaar." Ik dacht: dat klopt niet helemaal.
 
-Na overleg met een fiscalist: 18% van haar woning was kantoor (zolder + opslag). Daarmee €1.044 zakelijk. KIA-aftrek 28%: €292 belastingvoordeel. Plus jaarlijks 1,8% van investering aftrekbaar als afschrijving (€104/jaar voor 10 jaar). Totaal extra fiscaal voordeel over 10 jaar: ~€1.250.
+*Disclosure: dit artikel bevat geen affiliate- of commissielinks. Wij verwijzen alleen naar officiële bronnen (Belastingdienst, RVO) en naar eigen achtergrondartikelen.*
 
-Hieronder mijn complete gids voor ZZP-ers en freelancers met kantoor aan huis. Wat is fiscaal mogelijk, wat zijn de regels, en hoe pak je het aan.
+Zoek je op "zonnepanelen zzp aftrekbaar", dan kom je twee soorten antwoorden tegen: "ja, gewoon van de winst aftrekken" en "nee, dat is privé". Beide zijn te kort door de bocht. Wat je mag, hangt af van drie losse vragen die vaak door elkaar lopen: (1) horen de panelen bij je onderneming of bij je privévermogen, (2) is je werkruimte fiscaal zelfstandig, en (3) welke investeringsregelingen zijn er überhaupt op van toepassing.
 
-*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+Dit artikel zet die drie uit elkaar, met de bedragen zoals de Belastingdienst en RVO ze publiceren (opgehaald 21 augustus 2026). Het is geen belastingadvies: de vermogensetikettering is bij aanschaf definitief en fout kiezen is duur, dus laat de keuze eenmalig door een fiscalist toetsen.
 
+## Vraag 1: horen de panelen bij de onderneming?
 
-> **Kort antwoord:** ZZP met kantoor aan huis: hoe verdeel je zonnepanelen-investering tussen privé en zakelijk? Belastingen, BTW en KIA voor freelancers in 2026 uitgelegd.
->
-> Alleen als je officieel kantoor aan huis hebt en voldoet aan de eisen (zelfstandige opgang, eigen ingang, of administratief gescheiden ruimte). Anders zijn de panelen onder privé en niet zakelijk aftrekbaar.
+Dit is de kern, en hij gaat níet over vierkante meters. Bij aanschaf van een bedrijfsmiddel bepaal je de **vermogensetikettering**: privévermogen, ondernemingsvermogen of keuzevermogen. De hoofdlijn die in de fiscale praktijk wordt gehanteerd voor zonnepanelen op een woning:
 
-## Voorwaarden voor kantoor aan huis
+- **Minder dan 10% van de opgewekte stroom zakelijk gebruikt** → verplicht privévermogen. Er valt niets af te schrijven en geen investeringsaftrek te claimen.
+- **10% of meer zakelijk gebruikt** → keuzevermogen. Je mág de panelen (of een deel ervan) op de ondernemingsbalans zetten.
 
-Niet elke werkruimte thuis kwalificeert als zakelijk kantoor. Belastingdienst heeft strikte eisen:
+Daar komt een tweede onderscheid bovenop: **losse panelen op een dakconstructie worden voor de investeringsaftrek doorgaans als roerende zaak behandeld; dakgeïntegreerde panelen (BIPV) dienen als dakbedekking en zijn onroerend** — die volgen dan het pand, en bij een woning in privévermogen betekent dat: privé.
 
-### Voorwaarde 1: Zelfstandig deel woning
+Twee praktische gevolgen:
 
-Eén van:
-- **Eigen opgang/ingang** (deur direct van buiten)
-- **Eigen meterkast / sanitair** (zelden in praktijk)
-- **Eigen verwarmingscircuit** (zelden)
+1. Het percentage waar het om draait is je **zakelijke stroomverbruik**, niet je vloeroppervlak. Een consultant die overdag een laptop en een monitor gebruikt zit qua kWh laag; een fotograaf met een print- en droogstraat of een kapper met föhns en boilers zit veel hoger.
+2. Je moet dat percentage kunnen onderbouwen. Een tussenmeter op de zakelijke groep, of een P1-uitlezing waar je het patroon uit kunt afleiden, is bij een controle veel meer waard dan een schatting.
 
-OF:
+Kies je één keer verkeerd, dan is dat lastig terug te draaien: de etikettering ligt vast op het moment van aanschaf (of bij de start van de onderneming). Dit is precies het punt waarop een uurtje fiscalist zichzelf terugverdient.
 
-- **Administratief duidelijk gescheiden ruimte** (geen woon-werk vermenging in dezelfde ruimte)
+## Vraag 2: is je werkruimte fiscaal zelfstandig?
 
-Voor de meeste ZZP-ers met een werkkamer is "administratief gescheiden ruimte" de route.
+Dit is een aparte vraag, en hij gaat over de **kosten van de ruimte** — niet over de panelen. De Belastingdienst hanteert twee horden achter elkaar.
 
-### Voorwaarde 2: Hoofdzakelijk zakelijk gebruik
+**Hobbel 1 — zelfstandigheid.** Een werkruimte is zelfstandig als hij apart verhuurbaar zou zijn: een eigen opgang en eigen voorzieningen (denk aan eigen sanitair en eigen energievoorziening). Een zolderkamer, logeerkamer of hoek van de woonkamer voldoet daar vrijwel nooit aan. Is de ruimte níet zelfstandig, dan zijn de kosten van die ruimte niet aftrekbaar — ook de inrichting niet.
 
-De ruimte wordt voornamelijk gebruikt voor de onderneming. Niet als woon-werkkamer (dan privé).
+**Hobbel 2 — de inkomenseis.** Ook bij een zelfstandige werkruimte moet je er genoeg verdienen:
 
-### Voorwaarde 3: 10% inkomsten-eis (alleen voor IB-ondernemers)
+- Heb je géén werkruimte elders: minimaal 30% van je inkomen moet ín die ruimte worden verdiend, en het grootste deel van je inkomen in of vanuit die ruimte.
+- Heb je wél een werkruimte elders: dan moet minimaal 70% van je inkomen in en vanuit de thuiswerkruimte worden verdiend.
 
-Minimaal 10% van je winst moet in deze werkruimte verdiend worden. Voor de meeste fulltime ZZP-ers eenvoudig te behalen.
+Deze eisen zeggen dus niets over of je panelen zakelijk zijn. Ze bepalen alleen of je huisvestingskosten (een evenredig deel van hypotheekrente/huur, energie, onderhoud) mag opvoeren. In de praktijk struikelt de grote meerderheid van de zzp'ers met een werkkamer op hobbel 1.
 
-## Verdeling privé/zakelijk
+## Vraag 3: welke regelingen zijn er dan wél?
 
-### Methode 1: Vloeroppervlak
+### KIA — kleinschaligheidsinvesteringsaftrek
 
-Standaard formule: `kantoor m² / totaal woning m² = zakelijk percentage`.
+Zet je (een deel van) de panelen op de balans, dan telt dat deel mee voor de KIA. De tabel voor 2026, zoals de Belastingdienst hem publiceert (opgehaald 21 augustus 2026):
 
-Voorbeelden:
-- Woning 100m², kantoor 15m² → 15% zakelijk
-- Woning 80m², kantoor 12m² → 15% zakelijk
-- Woning 150m², kantoor 20m² → 13,3% zakelijk
+| Investeringsbedrag in het boekjaar | KIA-aftrek |
+|---|---|
+| Tot en met € 2.900 | 0% |
+| € 2.901 t/m € 71.683 | 28% van het investeringsbedrag |
+| € 71.684 t/m € 132.746 | € 20.072 (vast bedrag) |
+| € 132.747 t/m € 398.236 | € 20.072 min 7,56% van het bedrag boven € 132.746 |
+| Meer dan € 398.236 | 0% |
 
-### Methode 2: Werkelijk gebruik
+Twee dingen die vaak misgaan:
 
-Bij specifiekere situaties (bijv. studio's, ateliers met machines): werkelijk verbruik. Aparte meter helpt maar niet vereist.
+- **Alleen het zakelijke deel telt mee.** Bij een investering van € 5.500 en 15% zakelijk aandeel is je KIA-basis € 825 — ver onder de drempel van € 2.901. In je eentje levert de installatie dan niets op.
+- **De drempel geldt per boekjaar, over álle investeringen samen.** Zit je met een laptop, een bureau en de panelen in hetzelfde jaar boven € 2.900, dan komt het geheel in aanmerking. Dat is legitiem plannen, geen constructie. Let wel op de eis dat een bedrijfsmiddel afzonderlijk minimaal € 450 moet kosten.
 
-### Methode 3: KOR-route
+### EIA — energie-investeringsaftrek
 
-Bij opvallend hoog zakelijk gebruik (bijv. >50%): de hele woning kan onder ondernemingsvermogen worden gebracht. Complex en niet altijd gunstig.
+De EIA bedraagt in 2026 **40%** van de investeringskosten, bovenop de normale afschrijving. Twee harde randvoorwaarden: het bedrijfsmiddel moet op de **Energielijst** van RVO staan, en je moet de investering **binnen 3 maanden na de besteldatum** aanmelden bij RVO (niet: na offerte, factuur of installatie). Die termijn is fataal — te laat is definitief te laat.
 
-## Wat is fiscaal aftrekbaar?
+Standaard zonnepanelen op een woning staan niet op de Energielijst. Reken er dus niet op, en controleer per investering de actuele lijst op rvo.nl voordat je een bedrag inboekt.
 
-### 1. KIA (kleinschaligheidsinvesteringsaftrek)
+### MIA/Vamil
 
-Voor 2026:
-| Investering | KIA-aftrek |
-|------------|-----------|
-| €0 - €2.800 | 0% |
-| €2.801 - €71.675 | 28% van investering |
-| €71.675 - €132.766 | €20.069 vast bedrag |
-| Boven €132.766 | Aflopend tot 0% |
+Milieuregelingen met een eigen lijst (de Milieulijst). Standaard zonnepanelen op een woning vallen er niet onder. Ook hier geldt: lijst raadplegen, niet aannemen.
 
-Rekenvoorbeeld zonnepanelen:
-- Investering totaal: €5.800
-- Zakelijk deel (15%): €870
-- Onder drempel (€2.800)? Ja, dus geen KIA op alleen zakelijk deel
-- **MAAR**: combineer met andere investeringen (computer, bureau, etc.) om boven drempel te komen!
+### Afschrijving
 
-### 2. Afschrijving
+Van het deel dat op de balans staat, schrijf je af. De Belastingdienst staat maximaal 20% van de aanschafwaarde per jaar toe — dus minimaal vijf jaar. Voor zonnepanelen wordt in de praktijk een langere levensduur gehanteerd, waardoor de jaarlijkse afschrijving lager uitvalt. Welke termijn en welke restwaarde in jouw administratie verdedigbaar zijn, is een gesprek met je boekhouder, geen vuistregel van internet.
 
-Lineair over 10 jaar (10% per jaar), op het zakelijk deel:
-- Investering zakelijk: €870
-- Afschrijving per jaar: €87
-- Belastingvoordeel jaar 1 bij 37% IB: €32
-- Over 10 jaar totaal: €322
+## De btw: er valt niets terug te vragen
 
-### 3. BTW-teruggave (alleen vóór 2023)
+Dit is het hardnekkigste misverstand op dit onderwerp, en het staat nog op veel sites.
 
-Voor installaties tussen ~2013-2022:
-- 21% BTW op totale aanschaf terugvraagbaar
-- 70% van de BTW (privégebruik-percentage 30%)
-- Plus zakelijk deel toegerekend
+**Sinds 1 januari 2023 geldt het btw-nultarief op de levering en installatie van zonnepanelen bij woningen.** Er zit geen btw in de aanschafprijs. Daarmee is de oude route — je als particulier aanmelden als btw-ondernemer, de 21% terugvragen, daarna gebruikmaken van de kleineondernemersregeling — vervallen. Er is niets om terug te vragen.
 
-Lees [BTW teruggeven zonnepanelen stappenplan](/posts/btw-teruggeven-zonnepanelen-2026-stappenplan/).
+Twee aanpalende punten, omdat ze vaak in één adem worden genoemd:
 
-### 4. Werkkamer-aftrek (apart)
+- **De KOR is opt-in, niet automatisch.** Je meldt je er zelf voor aan bij de Belastingdienst en zit er daarna in beginsel voor langere tijd aan vast. Je rolt er niet vanzelf in.
+- **Het nultarief geldt alleen voor zonnepanelen en de direct daarvoor noodzakelijke onderdelen.** Een thuisbatterij, warmtepomp, boiler of slimme thermostaat valt onder het gewone tarief van 21%.
 
-Naast zonnepanelen kun je ook andere kantoor-kosten aftrekken:
-- Inrichting (bureau, stoel, kasten)
-- Computer, monitor
-- Internet (deel)
-- Energie (deel)
-- Vaste lasten woning (deel — ingewikkeld)
+## Modelberekening: wat blijft er over bij een klein zakelijk aandeel?
 
-## Voorbeeld berekening compleet
+De onderstaande berekening is een **modelberekening met aannames**, geen weergave van een bestaande situatie en geen belastingadvies. Aannames: een zzp'er in de inkomstenbelasting, 12 panelen voor € 5.500 (0% btw), 12% van de opgewekte stroom zakelijk gebruikt, marginaal IB-tarief 37%, panelen als keuzevermogen op de balans gezet voor het zakelijke deel.
 
-ZZP'er Maria, freelance copywriter, woning 90m², werkkamer 13m² (14,4% zakelijk).
+| Post | Bedrag |
+|---|---|
+| Investering totaal | € 5.500 |
+| Zakelijk deel (12%) | € 660 |
+| KIA als dit de enige investering is | € 0 (onder de drempel van € 2.901) |
+| KIA als er in hetzelfde jaar voor € 2.400 aan andere bedrijfsmiddelen bij komt (basis € 3.060) | 28% × € 3.060 = € 857 aftrek |
+| Belastingeffect van die KIA bij 37% | ± € 317 |
+| Jaarlijkse afschrijving over € 660 bij 10 jaar | € 66 |
+| Belastingeffect afschrijving per jaar bij 37% | ± € 24 |
 
-**Investering 2026:**
-- 12 zonnepanelen + omvormer + montage: €5.500
-- Zakelijk deel (14,4%): €792
+Wat dit laat zien: het zakelijke deel van een gemiddelde particuliere installatie is te klein om zelfstandig iets op te leveren. Het effect komt bijna volledig uit het bij elkaar plannen van investeringen binnen één boekjaar — en uit het feit dat de opgewekte stroom die je zakelijk gebruikt, je zakelijke energiekosten verlaagt.
 
-**Aftrekbaarheid:**
+## Wanneer de zakelijke route de moeite níet waard is
 
-KIA: alleen zakelijk deel onder €2.800-drempel — geen KIA op zonnepanelen alleen. **Tip**: combineer met laptop €1.500 + bureau €600 + monitor €450. Totaal investeringen: €792 + €1.500 + €600 + €450 = €3.342. Daarop KIA: 28% × €3.342 = **€935 KIA-aftrek**.
+- **Zakelijk stroomgebruik onder 10%.** Dan is het geen keuze: privévermogen, punt.
+- **Klein zakelijk aandeel zonder andere investeringen.** Je haalt de KIA-drempel niet en houdt alleen een marginale afschrijving over, tegen extra administratielast.
+- **Dakgeïntegreerde panelen op een woning in privévermogen.** Die volgen het pand.
+- **Onderneming die je op afzienbare termijn staakt.** Bij staking gaat het zakelijke deel tegen de waarde in het economisch verkeer naar privé, en over het verschil met de boekwaarde reken je af. Dat kan het eerdere voordeel grotendeels ongedaan maken.
+- **Werkruimte in een huurwoning.** Naast de fiscale beperkingen heb je toestemming van de verhuurder nodig; zie [zonnepanelen in een huurwoning](/posts/huurwoning-zonnepanelen-toestemming/).
 
-Afschrijving zonnepanelen 10 jaar:
-- €792 / 10 = **€79/jaar**
-- Belastingvoordeel jaar 1 (37% IB): €29
+## Administratie: wat je moet kunnen laten zien
 
-Andere zakelijke kosten over 10 jaar:
-- Onderhoud panelen 15% van €100/jaar = €15/jaar
-- Stroomkosten besparing geboekt apart op resultatenrekening
+Bij een controle draait het op drie stukken uit:
 
-**Totaal belastingvoordeel jaar 1**: €935 (KIA) + €29 (afschrijving) = €964
-**Over 10 jaar**: €935 + €290 = €1.225
+1. **Onderbouwing van het zakelijke percentage.** Meterstanden, een tussenmeter, of een gedocumenteerde berekening van je zakelijke verbruik per apparaat en per uur. Niet: een rond getal zonder herkomst.
+2. **De factuur en de splitsing.** Vraag de installateur om een specificatie, of leg de splitsing vast in een berekeningsbijlage bij de boeking.
+3. **De etiketteringskeuze zelf**, met de datum en de motivering. Die keuze maak je één keer.
 
-Plus 14,4% van energiebesparing (€800/jaar privé) is zakelijk = €115/jaar besparing op zakelijke energiekosten = belastbaar resultaat verlaagd met €115 → ~€42 belastingbesparing per jaar.
+## En de saldering?
 
-Maria's totale extra voordeel zakelijk: ~€1.700 over 10 jaar.
+Voor de rekensom die eronder ligt is dit het belangrijkste punt van dit jaar: **de salderingsregeling stopt volledig per 1 januari 2027.** Er is geen afbouwpad — het wetsvoorstel met een geleidelijke afbouw is verworpen. Vanaf dat moment krijg je voor stroom die je teruglevert de terugleververgoeding van je energieleverancier in plaats van verrekening tegen je eigen leveringstarief.
 
-## Stappenplan implementatie
+Voor een zzp'er met een werkruimte thuis betekent dat vooral dat de waarde van **zelf verbruikte** stroom stijgt ten opzichte van teruggeleverde stroom — en dat het zakelijke aandeel dus interessanter wordt naarmate je meer overdag verbruikt. Wat dat met je terugverdientijd doet, staat in [zonnepanelen na 2027: rendement berekenen](/posts/zonnepanelen-na-2027-rendement-berekenen/) en in de [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).
 
-### Stap 1: Bepaal je zakelijk percentage
+## Combinatie met een thuisbatterij
 
-Meet je werkkamer (en aanverwante zakelijke ruimtes — opslag, archief). Deel door totale woonoppervlak. Documenteer met plattegrond.
+Voor een thuisbatterij geldt dezelfde etiketteringslogica, met twee verschillen: er is **geen** btw-nultarief (21%), en de EIA-vraag ligt anders omdat batterijen wél op de Energielijst kúnnen staan — controleer dat per typenummer bij RVO. Een Sessy van 5 kWh kost € 3.550 inclusief btw en exclusief installatie (prijs van de fabrikant, peildatum 20 augustus 2026); bij een zakelijk aandeel van 15% zet je daar € 533 van op de balans. Zie verder onze [thuisbatterij-vergelijking](/posts/thuisbatterij-vergelijking-2026/) en, specifiek voor ondernemers, [energieopslag voor zzp en mkb](/posts/energieopslag-zzp-mkb-commercieel-2026/).
 
-### Stap 2: Combineer investeringen voor KIA
+## Conclusie
 
-Stem aankopen af zodat je in 1 belastingjaar boven KIA-drempel komt:
-- Zonnepanelen 15% van €5.500 = €825 zakelijk
-- + Laptop €1.500
-- + Bureau & stoel €1.000
-- = €3.325 zakelijke investeringen → KIA toepassen
+De zakelijke route rond zonnepanelen levert voor de gemiddelde zzp'er met een werkkamer weinig op, en de bedragen die je online tegenkomt zijn vaak gebaseerd op regelingen die niet meer bestaan. Wat er feitelijk staat:
 
-### Stap 3: Boek correct in administratie
+1. **De btw-teruggaveroute bestaat sinds 2023 niet meer** — er zit geen btw in de prijs.
+2. **De etikettering draait om je zakelijke stroomgebruik**, met 10% als scharnierpunt, niet om vloeroppervlak.
+3. **De KIA-drempel van € 2.901** haal je met alleen het zakelijke deel van een particuliere installatie vrijwel nooit.
+4. **De EIA is 40%**, maar geldt alleen voor bedrijfsmiddelen op de Energielijst, aangemeld binnen 3 maanden na de besteldatum.
+5. **De kosten van de werkruimte zelf** zijn alleen aftrekbaar bij een zelfstandige werkruimte die ook de inkomenseis haalt.
 
-Aankoopfactuur:
-- Privédeel (85%): privégrootboek
-- Zakelijk deel (15%): bedrijfsmiddelen (rubriek 02 vaste activa)
-- Aparte specificatie in administratie
-
-### Stap 4: Aangifte IB
-
-In aangifte:
-- Onder "Investeringsaftrek": KIA voor totale zakelijke investeringen
-- Onder "Afschrijvingen": jaarlijkse afschrijving
-- Onder "Energiekosten": zakelijk deel van besparing
-
-### Stap 5: BTW-aangifte (indien van toepassing)
-
-Voor installaties vóór 2023 een keer BTW terugvragen via BTW-aangifte. Daarna eventueel KOR.
-
-## Veelgemaakte fouten
-
-**Fout 1: 100% zakelijk boeken**
-Bij ZZP met thuiskantoor is dit fraude. Belastingdienst gaat naar werkelijk percentage.
-
-**Fout 2: KIA-drempel vergeten**
-Onder €2.800 = 0% KIA. Combineer investeringen om boven drempel te komen.
-
-**Fout 3: Geen plattegrond opslaan**
-Bij controle moet je je oppervlakte-verhouding kunnen aantonen. Bewaar plattegrond + foto's.
-
-**Fout 4: Afschrijving over verkeerde periode**
-Zonnepanelen: 10 jaar lineair. Niet sneller (geen vrije afschrijving milieu-investeringen voor zonnepanelen sinds 2018).
-
-**Fout 5: BTW vergeten bij oudere installaties**
-Heb je vóór 2023 panelen gekocht? Check of BTW al is terug-gevraagd. Zo niet: alsnog mogelijk!
-
-## VAMIL en Energie-investeringsaftrek (EIA)
-
-### EIA (Energie-investeringsaftrek)
-
-55,5% extra aftrek voor specifieke energie-investeringen. Helaas: **zonnepanelen voor woning niet op EIA-lijst** sinds 2018.
-
-Wel op EIA-lijst:
-- Zonnepanelen voor zuiver zakelijke gebouwen
-- Warmtepompen (in beperkte gevallen)
-- Hoogrendementsketels nieuwe stijl
-
-Voor ZZP-er met thuiskantoor: EIA niet van toepassing op zonnepanelen.
-
-### MIA / VAMIL
-
-Vergelijkbare regelingen, ook niet voor woninginstallaties.
-
-## Speciale situaties
-
-### Eenmanszaak met BV achter
-
-BV mag zonnepanelen op woning eigenaar privé niet zakelijk afschrijven. Tenzij contractueel "huur" geregeld — complex, vraag fiscalist.
-
-### Maatschap of VOF
-
-Vergelijkbare regels als eenmanszaak. Verdelen over partners.
-
-### Holding met werk-BV
-
-Investering door werk-BV mogelijk, maar dan zakelijke huur betalen aan privé-eigenaar. Vaak nadelig in praktijk.
-
-### Pensioen op woning
-
-Veel ZZP-ers betalen nu lijfrente of pensioen-premies. Zonnepanelen-investering vermindert vrij beschikbaar inkomen. Plan financiering zorgvuldig.
-
-## Combineren met BSG zakelijke software
-
-Voor ZZP-ers: koppel administratie en investeringen via:
-- **Moneybird**: per-categorie boeken (privé/zakelijk)
-- **Jortt**: KIA-berekening automatisch
-- **e-Boekhouden**: ondersteunt verdeling
-
-Goede administratie = optimaal benutten regelingen.
-
-## Saldering 2027 voor ZZP
-
-Met afbouw saldering verandert berekeningsbasis voor zakelijke besparing. Bij 14% kantoor blijft de berekening gelijk maar absolute besparing daalt.
-
-Lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) en [zonnepanelen na 2027 rendement](/posts/zonnepanelen-na-2027-rendement-berekenen/).
-
-## Combinatie met thuisbatterij
-
-Voor ZZP'er kan een [thuisbatterij](/posts/thuisbatterij-vergelijking-2026/) interessant zijn — zelfde fiscale logica:
-- Zakelijk percentage via vloeroppervlak
-- KIA toepasbaar bij investering boven drempel
-- Afschrijving 10 jaar lineair
-
-Een Sessy 5 kWh van €3.550 (excl. installatie) bij 15% kantoor → €533 zakelijk, plus ander materiaal voor KIA.
-
-## Specifieke ZZP-categorieën
-
-### Online dienstverlening (consultants, copywriters, designers)
-
-Standaard situatie. Werkkamer 10-20% van woning. KIA-route via combinatie investeringen.
-
-### Maakindustrie (ambachten, kunstenaars)
-
-Vaak grotere zakelijke ruimte (atelier, werkplaats). 30-50% mogelijk. Extra aftrek mogelijk.
-
-### Logistiek thuis (e-commerce verzending)
-
-Magazijn-ruimte zakelijk. Soms grote opslag = grote zakelijke percentage.
-
-### Zorgverleners
-
-Behandelkamer aan huis = volledig zakelijk indien gescheiden. Strikte eisen aan privacy en hygiëne.
-
-## Conclusie: laat fiscale voordelen niet liggen
-
-ZZP-ers met kantoor aan huis hebben recht op aanzienlijke belastingvoordelen bij zonnepanelen-investering. Voor een gemiddelde freelancer met 15% kantoor: €1.000-€2.000 extra fiscaal voordeel over 10 jaar bovenop de gewone energiebesparing.
-
-Onze aanbevelingen:
-1. **Bepaal nauwkeurig je zakelijk percentage** (en documenteer)
-2. **Plan investeringen** om boven KIA-drempel uit te komen
-3. **Werk samen met fiscalist** bij eerste keer aanvraag
-4. **Vergeet BTW niet** bij oudere installaties
-5. **Combineer met andere bedrijfsmiddelen** voor optimale KIA
-
-Voor verdere lezing: [BTW teruggeven zonnepanelen](/posts/btw-teruggeven-zonnepanelen-2026-stappenplan/), [zonnepanelen subsidie Nederland](/posts/zonnepanelen-subsidie-nederland-2026/), [energieopslag ZZP MKB](/posts/energieopslag-zzp-mkb-commercieel-2026/), [thuisbatterij vergelijking](/posts/thuisbatterij-vergelijking-2026/) en [provincie subsidies](/posts/provincie-subsidies-zonnepanelen-overzicht-2026/).
-
-## Uitgewerkt rekenvoorbeeld: werkkamer van 12 m²
-
-Onderstaande berekening is een rekenvoorbeeld, geen belastingadvies. Uitgangspunt: een werkkamer van 12 m² in een woning van 142 m² gebruiksoppervlak — een zakelijk gebruikspercentage van circa 8,5% — en 14 zonnepanelen van in totaal €5.940 inclusief BTW.
-
-- BTW privé-deel (91,5%): teruggave via kleine ondernemersregeling forfait (€100)
-- BTW zakelijk-deel (8,5%): €106 reguliere BTW-teruggave
-- KIA over zakelijk-deel (€420 investering): 28% = €117 extra aftrek
-- Energiebesparing (totaal): €71/maand gemiddeld
-
-De administratie hiervoor is beperkt maar precies: je moet het zakelijke gebruikspercentage kunnen onderbouwen en de splitsing per post vastleggen. Bij twijfel over de verdeling privé/zakelijk is een boekhouder voor het zakelijke deel de veiligste route.
-
-## Diepgang per regeling: KIA, EIA, MIA en de valkuilen
-
-### Kleinschaligheidsinvesteringsaftrek (KIA)
-
-- Voor zakelijk deel investeringen tussen €2.601 en €69.765 (2026): 28% aftrek
-- Boven €69.765 schaalt het af; vanaf €387.580 nul
-- **Valkuil**: alleen het zakelijk deel telt mee. Bij 12% bedrijfsmatig gebruik en €5.000 totaalinvestering is je KIA-basis €600 — dat valt onder de drempel van €2.601. Geen KIA dus.
-- **Tip**: combineer met andere zakelijke investeringen (laptop, batterij) in hetzelfde boekjaar om de drempel te halen
-
-### Energie-Investeringsaftrek (EIA) — 40% in 2026
-
-- Voor zonnepanelen is EIA per 2024 verlaagd; check actuele lijst RVO
-- In 2026 van toepassing op: thuisbatterij ≥5 kWh, slimme energiebeheersystemen, EV-laadinfra zakelijk
-- Voor pure zonnepanelen op woning kantoor: doorgaans NIET EIA — dat is een veelvoorkomend misverstand
-- Aanmelden binnen 3 maanden na opdrachtbevestiging via RVO eLoket
-
-### MIA/Vamil (milieu)
-
-- Niet voor standaard zonnepanelen
-- Wel relevant bij dakgeïntegreerde panelen (BIPV) of zonnefolie op specifieke beroepsgebouwen
-
-### BTW 21% terug — de kleine ondernemersregeling-valkuil
-
-Sinds 2020 zijn ZZP'ers automatisch in de KOR (Kleine Ondernemers Regeling) met BTW-vrijstelling tot €20.000 omzet. Wie BTW wil terugvragen op zonnepanelen moet uit de KOR stappen — voor minimaal 3 jaar. Reken vooraf door of je BTW-teruggave (eenmalig ~€1.000) opweegt tegen 3 jaar BTW factureren.
-
-## Mini case: grafisch ontwerper Utrecht
-
-Klant 2024: ZZP'er, woning 110 m² waarvan 14 m² werkkamer = 12,7% zakelijk. Investering 12 panelen + omvormer + bedrade kabelgoot = €6.200 incl 21% BTW.
-
-- KIA-basis (12,7%): €787 — onder drempel, geen KIA
-- BTW-teruggave privé via forfait: €145
-- BTW-teruggave zakelijk: €105
-- Subsidie provincie Utrecht: €350
-- Netto kosten: €5.600
-- Maandbesparing energie privé+zakelijk: €68
-- Terugverdientijd: 6,9 jaar
-
-Conclusie: ZZP-route loont vooral als investering ≥ €25.000 of bij combinatie met andere zakelijke investeringen.
-
-## Veelgemaakte fouten
-
-**Fout 1: Hele installatie zakelijk boeken**
-Belastingdienst aanvaardt alleen het deel naar evenredig vloeroppervlak werkkamer. "Alles zakelijk" leidt tot navordering + boete bij controle.
-
-**Fout 2: Te hoog werkkamer-percentage**
-De Belastingdienst kijkt naar werkelijk en exclusief zakelijk gebruik. Een hoek van de woonkamer waar je laptop staat telt niet. Werkkamer moet afsluitbare aparte ruimte zijn.
-
-**Fout 3: Geen splitsing op factuur**
-Vraag de installateur om aparte specificatie of werk met een berekeningsbijlage. Zonder onderbouwing weigert de inspecteur de aftrek.
-
-**Fout 4: KIA aanvragen bij te lage investering**
-Onder €2.601 zakelijk geen KIA. Veel ZZP'ers met klein werkkamer-percentage zien dit over het hoofd.
-
-**Fout 5: EIA aannemen voor zonnepanelen**
-Sinds 2024 niet meer op de EIA-lijst voor woning-kantoor. Wel voor pure bedrijfsgebouwen. Check altijd actuele RVO-lijst.
-
-## Wanneer ZZP-route NIET de moeite waard is
-
-- **Werkkamer <8% van woning**: KIA-drempel niet haalbaar, BTW-teruggave zakelijk klein
-- **In KOR met laag inkomen**: BTW eruit + 3 jaar BTW factureren weegt niet op
-- **Tijdelijke ZZP-status**: bij staken onderneming binnen 5 jaar moet alles desinvesteren met afrekening — vaak ongunstig
-- **Werkkamer in huurwoning**: aftrek werkkamerkosten beperkt, en zonnepanelen plaatsen vereist verhuurder-toestemming
-
-## Extra FAQ
-
-**Mag ik de werkkamer-norm zelf bepalen?**
-Nee, het is gebaseerd op evenredig oppervlak inclusief gebruik. Belastingdienst hanteert "duurzaam, exclusief en hoofdzakelijk zakelijk gebruikt". Bij twijfel laat een fiscalist je situatie checken.
-
-**Wat als ik over 3 jaar verhuis?**
-Bij verhuizing met behoud onderneming: panelen kunnen meeverhuizen of overgaan op koper. Bij overname door koper: zakelijk deel wordt desinvestering, met evt herziening BTW (10-jaarstermijn voor onroerend, 5-jaar voor roerend). Dit is het meest complexe deel — fiscalist gewenst.
-
-**Telt een thuisbatterij ook als zakelijk?**
-Ja, naar evenredigheid van zakelijk gebruik. Een thuisbatterij die voornamelijk overdag laadt voor avond-thuisgebruik komt in de praktijk vaker uit op 5-15% zakelijk dan zonnepanelen (die juist overdag produceren als kantoor draait — dus 20-30% zakelijk).
-
-## Total cost of ownership ZZP versus particulier
-
-Een ZZP'er met kantoor aan huis kijkt naar dezelfde panelen anders dan een privé-eigenaar. Voorbeeld: 14 panelen 6,3 kWp, totaalprijs 8.500 euro inclusief BTW. Privé-eigenaar betaalt 8.500 euro, eventueel BTW terug via teruggaaf-regeling = netto 7.020 euro. ZZP'er met 25 procent zakelijk kantoor: BTW 21 procent volledig terugvorderbaar over zakelijk deel = 446 euro extra terug. Plus EIA 45,5 procent over zakelijke 25 procent = 798 euro fiscale aftrek (resulteert in 280-330 euro lagere belasting bij gemiddeld tarief). Effectieve nettoprijs ZZP: 6.410 euro. Verschil tegenover particulier: 610 euro voordeel — en dat is exclusief de jaarlijks aftrekbare 25 procent van energiekosten en afschrijving.
-
-## Mini case 2: kapper-aan-huis Eindhoven
-
-Klant met 18 m2 salonruimte in haar woning (totaal 105 m2, dus 17 procent zakelijk). 12 panelen 5,4 kWp geïnstalleerd voor 7.200 euro. BTW-aftrek 17 procent zakelijk = 257 euro terug. EIA over 17 procent zakelijk = 555 euro fiscale aftrek (235 euro belastingvoordeel). Jaarlijkse opbrengst zakelijk deel: 760 kWh op 0,38 euro besparing = 289 euro per jaar als bedrijfskosten aftrekbaar. Plus afschrijving 17 procent zakelijk over 25 jaar = 49 euro per jaar lineair. Totaal jaarlijkse fiscale winst: circa 130 euro per jaar belastingvoordeel bovenop de stroombesparing. Terugverdientijd op zakelijk deel: 5,8 jaar. Investering rendeert.
-
-## Veelgemaakte fouten bij ZZP-aangifte
-
-Vier fouten die bij ZZP-aangiftes met zonnepanelen het vaakst terugkomen. Eén: alle BTW willen terugvorderen terwijl het zakelijk gebruik hoogstens 30 procent is — krijg je later naheffing met boete. Twee: vergeten EIA aan te vragen vóór 1 maart van het jaar na investering — onomkeerbaar, geld weg. Drie: zonnepanelen op 100 procent zakelijk balans plaatsen "voor maximaal voordeel", maar dan moet je bij verkoop privégebruik bijtellen — meestal verlies. Vier: geen schriftelijke vastlegging van de m2-verdeling, waardoor de Belastingdienst bij controle de aftrek schrapt.
-
-## Wanneer ZZP-route NIET de moeite waard is
-
-Als je werkruimte minder dan 8 m2 is óf minder dan 10 procent van de woning, valt het rekenwerk vrijwel altijd nadelig uit. De accountantkosten (gemiddeld 150-250 euro per jaar voor de extra administratie) eten het belastingvoordeel op. Dan ben je beter af met enkel de privé BTW-teruggaaf. Ook als je salaris al onder 10 procent box-1-tarief valt is de aftrek niet aantrekkelijk omdat je het voordeel pas haalt bij 37+ procent marginaal tarief.
-
-**Wat als ik mijn ZZP-onderneming staak?**
-Dan moet je het zakelijk deel van de panelen "uitnemen" naar privé tegen restwaarde. De Belastingdienst hanteert hiervoor lineaire afschrijving: na 8 jaar is 32 procent van originele waarde nog op de balans. Die uitneming is een fiscaal feit waar je IB over betaalt. Plan dit dus goed bij staking.
-
-**Telt een carport met panelen ook als zakelijk?**
-Alleen als je de carport voor zakelijke voertuigen gebruikt, of als laadlocatie voor klantenauto's. Een privé-auto die occasioneel zakelijk wordt gebruikt telt niet — dat valt onder de 19 procent forfaitaire bijtelling.
+Zit je twijfelachtig tussen privé en zakelijk, laat de etikettering dan één keer door een fiscalist vastleggen. Dat is goedkoper dan een naheffing.
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bronnen:** [Belastingdienst — kleinschaligheidsinvesteringsaftrek 2026](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/veranderingen-inkomstenbelasting-2026/investeringsaftrek-2026/kleinschaligheidsinvesteringsaftrek-2026), [Belastingdienst — werkruimte in de woning](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/inkomstenbelasting_voor_ondernemers/werkruimte_in_de_woning) en [RVO — energie-investeringsaftrek](https://www.rvo.nl/subsidies-financiering/eia/ondernemers). Bedragen opgehaald op 21 augustus 2026.

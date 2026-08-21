@@ -1,8 +1,8 @@
 ---
-title: 'Energieopslag ZZP & MKB 2026: Commercieel Doorgerekend'
+title: 'Energieopslag voor zzp en mkb (2026): wanneer een zakelijke batterij rekenkundig uitkomt'
 date: 2026-07-30 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: 'Energieopslag voor ZZP en MKB in 2026: ROI, investeringssubsidies (EIA, KIA), commerciële batterij­opties en wanneer een industriële opslag rendabel is.'
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Zakelijke energieopslag doorgerekend: de drie business cases (zelfverbruik, arbitrage, piekafvlakking), wat EIA en KIA in 2026 werkelijk opleveren, en hoe je de omvang bepaalt op je eigen kwartierdata.'
 draft: false
 categories:
 - thuisbatterijen
@@ -26,466 +26,203 @@ featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1518709268805-4e9
 schema_type: Article
 affiliate: false
 faq:
-- q: 'Is energieopslag rendabel voor ZZP/MKB?'
-  a: 'Ja, vaak rendabeler dan voor particulieren. ZZP/MKB krijgt EIA-aftrek (40% in 2026) bovenop KIA, en heeft vaak een hoger energieverbruik = grotere besparing. In onze modelberekeningen ligt de terugverdientijd op 3-7 jaar.'
-- q: 'Wat is EIA voor batterijopslag?'
-  a: 'Energie-investeringsaftrek: 40% extra fiscale aftrek op zakelijke energie-investeringen die op de Energielijst van RVO staan. Cumuleerbaar met KIA. Aanmelden binnen 3 maanden na opdrachtbevestiging.'
-- q: 'Welke batterij is beste voor commercieel?'
-  a: 'Voor MKB tot 50 kWh: Sessy commercieel of BYD Battery-Box LV. Voor 50-200 kWh: Pylontech Force-H2 of Victron systeem. Voor >200 kWh: Tesla Powerpack / Megapack of dedicated industriële opslag.'
-- q: 'Werkt arbitrage op spotmarkt voor MKB?'
-  a: 'Ja, vooral voor verbruikers met dynamisch contract en grote dag-piek-verschillen. Een 10 kWh systeem kan €600-€1.200 per jaar verdienen via arbitrage bij MKB-tarieven.'
-- q: 'Hoe groot moet ik kiezen?'
-  a: 'Vuistregel: 30-50% van dagverbruik. Bij MKB met 30 kWh dagverbruik = 10-15 kWh batterij. Voor pure piekafvlakking: kleiner. Voor backup: groter.'
-- q: 'Is netcongestie een argument voor batterij?'
-  a: 'Ja, sterk. In congestiegebieden (Brabant, Noord-Holland delen): kun je geen extra zon-vermogen krijgen zonder batterij. Batterij maakt extra capaciteit mogelijk via "smart grid contract".'
-products:
-- name: BYD Battery-Box LV commercieel
-  url: https://www.bydbatterybox.com/
-  price: '15000'
-- name: Sessy commercieel
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '8000'
-- name: Pylontech Force-H2
-  url: https://en.pylontech.com.cn/
-  price: '12000'
+- q: 'Is energieopslag rendabel voor zzp en mkb?'
+  a: 'Vaker wel dan bij particulieren, om twee redenen: de energie-investeringsaftrek en de kleinschaligheidsinvesteringsaftrek verlagen de netto-investering, en zakelijke verbruikspatronen sluiten beter aan bij wat een batterij kan. In onze modelberekeningen op deze pagina komt de terugverdientijd uit tussen circa 3 en 7 jaar, maar dat zijn modellen: de uitkomst hangt volledig af van je eigen verbruiksprofiel, tarief en belastingpositie.'
+- q: 'Wat is de EIA voor batterijopslag?'
+  a: 'De energie-investeringsaftrek is in 2026 40% extra aftrek van de winst, bovenop de normale afschrijving. Voorwaarde is dat het bedrijfsmiddel op de Energielijst van RVO staat onder een geldige code, en dat je de investering binnen 3 maanden na de besteldatum aanmeldt bij RVO. Die termijn is fataal.'
+- q: 'Welke batterij past bij een zakelijke toepassing?'
+  a: 'Dat bepaalt de schaal, niet het merk. Tot enkele tientallen kWh werk je met modulaire systemen van het type dat ook in woningen wordt toegepast; daarboven kom je bij rack-opstellingen met een aparte omvormer- en EMS-laag; boven de honderden kWh bij containeropstellingen met netbeheerdersafstemming. Vraag altijd of het aangeboden systeem onder een geldige code op de Energielijst valt — dat bepaalt of de EIA van toepassing is.'
+- q: 'Levert handelen op de spotmarkt iets op voor het mkb?'
+  a: 'Alleen met een dynamisch contract en voldoende prijsspreiding. De opbrengst is het product van je bruikbare capaciteit, het aantal cycli per dag en het verschil tussen de goedkoopste en duurste uren, minus rendementsverlies en netkosten. Reken dat door op je eigen kwartierdata en op de prijshistorie van een heel jaar, niet op een gunstige week.'
+- q: 'Hoe bepaal ik de juiste capaciteit?'
+  a: 'Op je kwartierdata uit de slimme meter, over minimaal een paar representatieve weken. Kijk naar hoeveel kWh je per dag daadwerkelijk kunt verplaatsen — dus het overschot dat je nu terugleveert plus de afname in de dure uren. Een batterij die niet elke dag rondgaat, verdient zich niet terug.'
+- q: 'Is netcongestie een reden om een batterij te overwegen?'
+  a: 'Het kan een reden zijn, maar het is geen algemene regel. In gebieden met transportschaarste zijn nieuwe of zwaardere aansluitingen niet altijd op korte termijn beschikbaar, en bieden netbeheerders alternatieve contractvormen aan. Check de actuele capaciteitskaart van de netbeheerders en vraag je eigen netbeheerder wat er op jouw aansluitadres mogelijk is.'
 ---
-**Modelberekening (rekenvoorbeeld, geen klantcase):** een lasbedrijf met 80 zonnepanelen op de loods (24 kWp), 38.000 kWh verbruik per jaar en circa €11.500 energiekosten. Met een 30 kWh BYD Battery-Box LV plus smart laden op een dynamisch contract komt de gemodelleerde jaarbesparing uit op €4.200. Daar bovenop de fiscale kant: EIA-aftrek 40% × €18.500 = €7.400 extra aftrek (bij een IB-tarief van 49,5% een belastingvoordeel van €3.663) en KIA 28% × €18.500 = €5.180 aftrek (belastingvoordeel €2.564).
 
-Uitkomst van het model: €18.500 investering (exclusief btw, die je bij zakelijk gebruik terugvraagt), €6.227 aan eenmalig belastingvoordeel en €4.200/jaar besparing — rekenkundig terugverdiend in circa 2,9 jaar. Let op: de fiscale voordelen zijn eenmalig en gelden alleen bij voldoende winst; de aannames over laadpatroon en prijsspreiding bepalen het resultaat sterk.
+*Disclosure: dit artikel bevat geen affiliate- of commissielinks. Genoemde merken en systemen zijn voorbeelden ter illustratie, geen aanbeveling en geen betaalde plaatsing.*
 
-Hieronder de complete gids voor energieopslag in commerciële context: ZZP, MKB en kleine bedrijven in 2026.
+Voor een particulier is een thuisbatterij vooral een rekensom over saldering en zelfverbruik. Voor een onderneming ligt het anders: er is geen saldering te missen, de investering is fiscaal aftrekbaar, en het verbruikspatroon overdag sluit vaak beter aan bij wat een batterij kan. Dat maakt zakelijke opslag eerder rendabel — maar niet automatisch.
 
-*Disclosure: de links naar Sessy in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+Dit artikel zet de drie business cases uit elkaar, geeft de fiscale bedragen zoals de Belastingdienst en RVO ze publiceren (opgehaald 21 augustus 2026), en laat met **modelberekeningen** zien waar de uitkomst op omslaat. Alle bedragen in de rekenvoorbeelden zijn aannames, geen weergave van bestaande klanten.
 
+## Waarom de rekensom zakelijk anders loopt
 
-> **Kort antwoord:** Energieopslag voor ZZP en MKB in 2026: ROI, investeringssubsidies (EIA, KIA), commerciële batterij­opties en wanneer een industriële opslag rendabel is.
->
-> Ja, vaak rendabeler dan voor particulieren. ZZP/MKB krijgt EIA-aftrek (40% in 2026) bovenop KIA, en heeft vaak een hoger energieverbruik = grotere besparing. In onze modelberekeningen ligt de terugverdientijd op 3-7 jaar.
+| Aspect | Particulier | Zzp / mkb |
+|---|---|---|
+| Saldering | Stopt volledig per 1-1-2027 | Niet van toepassing op zakelijke aansluitingen |
+| Btw op de batterij | 21%, niet terugvorderbaar | 21%, terug te vragen voor het zakelijke deel |
+| EIA | Nee | Ja, 40% in 2026 — mits op de Energielijst |
+| KIA | Nee | Ja, 28% binnen de schijf |
+| Tariefstructuur | Leveringstarief + netbeheer vast | Vaak ook een vermogens- of capaciteitscomponent |
+| Verbruikspiek | 's Avonds | Vaak overdag, synchroon met de zonproductie |
 
-## Waarom energieopslag voor bedrijven anders rendabel is
+Die laatste rij snijdt twee kanten op: verbruik dat samenvalt met de zonproductie is goed nieuws voor je zelfverbruik, maar het betekent ook dat een batterij minder toe te voegen heeft dan bij een huishouden dat 's avonds piekt. Dat is precies waarom de omvang op eigen data bepaald moet worden.
 
-### Verschillen met particulier
+## Drie business cases
 
-| Aspect | Particulier | ZZP/MKB |
-|--------|------------|---------|
-| Saldering | Wordt afgebouwd 2027 | Geen saldering — direct relevant |
-| BTW op de batterij | 21%, niet terugvorderbaar | 21%, terug te vragen voor het zakelijke deel |
-| EIA-aftrek | Niet | Ja, 40% (EIA-percentage 2026) |
-| KIA-aftrek | Beperkt | Ja, tot 28% |
-| Tarieven energie | Vast/dynamisch | Vaak hoger + spitstarief |
-| Verbruikspatroon | Avond piek | Vaak overdag piek |
+### 1. Zelfverbruik verhogen bij eigen zonnepanelen
 
-Voor MKB is energieopslag dus fiscaal aantrekkelijker EN economisch zinvoller (geen saldering te missen).
+Je hebt panelen op de loods of het kantoor, en je levert midden op de dag terug tegen een lage vergoeding — vaak met terugleverkosten erbovenop. De batterij verschuift dat overschot naar de randen van de dag.
 
-## Drie type business cases
+**Wanneer dit werkt:** als er daadwerkelijk een structureel overschot is dat 's avonds of de volgende ochtend verbruikt wordt. Bij een bedrijf dat in het weekend dicht is, staat de batterij twee van de zeven dagen stil — dat halveert het aantal cycli en dus het rendement.
 
-### 1. Eigen-verbruik MKB met zonnepanelen
+### 2. Arbitrage op de dagmarkt
 
-Bedrijf heeft eigen zonnepanelen (loods, kantoor). Verbruik vaak overdag — synchroon met productie.
+Met een dynamisch contract laad je in de goedkope uren en ontlaad je in de dure. De jaaropbrengst is grofweg:
 
-Probleem: zonproductie pieken nog steeds groter dan verbruik. Overschot wordt teruggeleverd tegen lage tarieven.
+> bruikbare capaciteit (kWh) × cycli per jaar × gemiddeld prijsverschil per kWh × retourrendement − netkosten over de geladen energie
 
-Oplossing batterij: opslaan overdag overschot, gebruiken voor avond/nacht, of voor volgende dag.
+De twee getallen waar dit op vastloopt zijn het **aantal cycli** (praktisch één tot twee per dag, en alleen op dagen dat het prijsverschil groot genoeg is) en het **prijsverschil**. Ter kalibratie: het EPEX-jaargemiddelde over 2025 lag op € 0,105/kWh, met 212 uren met een negatieve prijs en één uur van € 0,63 (20 januari 2025, 17:00). De spreiding is er dus, maar niet elke dag even groot. Reken door op een volledig jaar aan prijsdata, niet op een gunstige winterweek.
 
-**Wanneer rendabel**: bij 50-100% zelfconsumptie verbetering, ROI in 4-7 jaar.
+Vergeet in de sommen de **energiebelasting** niet: die bedraagt in 2026 € 0,09161 per kWh exclusief btw (€ 0,11085 inclusief) op elektriciteit en betaal je over wat je uit het net haalt om te laden.
 
-### 2. Arbitrage op spotmarkt
+### 3. Piekafvlakking
 
-Bedrijf met dynamisch contract (zakelijk Tibber, Eneco zakelijk dynamisch). Doel: laden bij goedkope uren, gebruiken bij dure uren.
+Bij een grootverbruikaansluiting betaal je niet alleen voor kWh maar ook voor **vermogen**: het gecontracteerde of gemeten transportvermogen in kW. Een batterij die tijdens korte pieken bijspringt, kan dat gecontracteerde vermogen omlaag brengen.
 
-Verschillen tussen min/max prijs: €0,15-€0,40 per kWh in winter, €0,10-€0,25 in zomer.
+Dit is vaak de minst zichtbare en meest onderschatte post. De opbrengst hangt volledig af van je aansluitcategorie en de tarieven van jouw netbeheerder — die staan in de tarievenlijst van de netbeheerder en verschillen per regio. Vraag je netbeheerder wat een lager gecontracteerd vermogen concreet scheelt voordat je hier een bedrag voor inboekt.
 
-Voor 30 kWh batterij × 1 cyclus per dag: €5-€15 per dag = €1.800-€5.500 per jaar.
+## De fiscale kant, met de bedragen van 2026
 
-**Wanneer rendabel**: ROI vaak 3-5 jaar bij goede arbitrage.
+### EIA — energie-investeringsaftrek
 
-### 3. Piekafvlakking voor commerciele tarieven
+- **40%** van de investeringskosten extra aftrekbaar van de winst, bovenop de normale afschrijving (percentage 2026, RVO).
+- Alleen voor bedrijfsmiddelen die onder een geldige code op de **Energielijst** van RVO staan. Vraag je leverancier om de code en controleer die zelf.
+- **Aanmelden binnen 3 maanden na de besteldatum** via het eLoket van RVO. Niet vanaf de offerte, factuur of installatie — vanaf de besteldatum. Te laat is definitief te laat.
+- Er geldt een minimum investeringsbedrag per melding; controleer het actuele bedrag bij RVO.
 
-Sommige zakelijke contracten hebben vermogenskosten (€/kW piek). Een batterij kan piekverbruik afvlakken.
+Wat 40% aftrek waard is, hangt af van je belastingtarief. Bij vennootschapsbelasting van 25,8% levert 40% aftrek effectief circa 10,3% van de investering op. Bij een IB-ondernemer in het toptarief ligt dat hoger. Dat verschil is groot genoeg om de business case te kantelen — reken met jóuw tarief.
 
-Voorbeeld: lasbedrijf piekt 80 kW kort, gemiddeld 15 kW. Vermogenscontract van 80 kW = €4.500/jaar. Met 50 kWh batterij die 60 kW kan leveren: contract terug naar 30 kW = €1.700/jaar = besparing €2.800/jaar.
+### KIA — kleinschaligheidsinvesteringsaftrek
 
-**Wanneer rendabel**: vooral bij contracten met capaciteits­tarieven.
+De tabel van de Belastingdienst voor 2026 (opgehaald 21 augustus 2026):
 
-## EIA en andere fiscale voordelen
+| Investeringsbedrag in het boekjaar | KIA-aftrek |
+|---|---|
+| Tot en met € 2.900 | 0% |
+| € 2.901 t/m € 71.683 | 28% van het investeringsbedrag |
+| € 71.684 t/m € 132.746 | € 20.072 (vast bedrag) |
+| € 132.747 t/m € 398.236 | € 20.072 min 7,56% van het bedrag boven € 132.746 |
+| Meer dan € 398.236 | 0% |
 
-### EIA (Energie-investeringsaftrek)
+De KIA is cumuleerbaar met de EIA op dezelfde investering.
 
-40% extra fiscale aftrek op investeringen die op de "Energielijst" van RVO staan (percentage 2026).
+### MIA en Vamil
 
-Voor batterijopslag in 2026:
-- Check de actuele Energielijst van RVO of jouw type opslag erop staat en onder welke code
-- Investering moet boven de jaarlijkse drempel liggen (rond €2.500; RVO indexeert dit)
-- 40% EIA-aftrek — het percentage dat RVO voor 2026 noemt
-- Plus normale afschrijving
+Werken met een eigen lijst (de Milieulijst) en eigen codes. Of een opslagsysteem daar onder valt, verschilt per jaar en per uitvoering. Controleer het per investering; ga er niet vanuit.
 
-Voorbeeld: €18.500 batterij investering (exclusief btw)
-- EIA: 40% × €18.500 = €7.400 extra aftrek
-- Bij IB-tarief 49,5%: belastingvoordeel €3.663
+### Btw
 
-### KIA (Kleinschaligheidsinvesteringsaftrek)
+Op de levering en installatie van een batterij geldt **21% btw**. Het nultarief voor zonnepanelen dekt het accupakket uitdrukkelijk niet, ook niet bij gelijktijdige aanschaf. Bij zakelijk gebruik vraag je die btw als voorbelasting terug via de aangifte; over een eventueel privédeel niet. Reken de EIA en KIA dus over het bedrag **exclusief** btw.
 
-Tot 28% extra aftrek bij investeringen boven de jaarlijkse drempel (orde van grootte €2.600-€2.800) tot circa €70.000. De exacte grenzen worden jaarlijks geïndexeerd — check ze bij de Belastingdienst. Cumulatief met EIA.
+## Modelberekening 1: metaalbedrijf met 24 kWp op de loods
 
-### MIA / Vamil (Milieu-investerings­aftrek)
+**Aannames** (modelberekening, geen bestaand bedrijf): 80 panelen van in totaal 24 kWp, 38.000 kWh verbruik per jaar, een 30 kWh batterijsysteem voor € 18.500 exclusief btw inclusief installatie, dynamisch contract, IB-ondernemer met een marginaal tarief van 49,5%, investering valt volledig onder een geldige EIA-code.
 
-Niet voor batterijopslag specifiek — wel soms voor specifieke duurzame combinaties.
+| Post | Bedrag |
+|---|---|
+| Investering exclusief btw | € 18.500 |
+| Btw (21%, terugvorderbaar bij zakelijk gebruik) | € 3.885 — cash-neutraal |
+| EIA-aftrek 40% | € 7.400 → belastingeffect ± € 3.663 |
+| KIA-aftrek 28% | € 5.180 → belastingeffect ± € 2.564 |
+| **Netto investering na fiscaal effect** | **± € 12.273** |
 
-### BTW
+Aangenomen jaarlijkse opbrengst: € 1.800 uit hoger zelfverbruik, € 1.700 uit arbitrage, € 700 uit lager gecontracteerd vermogen — samen € 4.200. Rekenkundige terugverdientijd: **circa 2,9 jaar**.
 
-Op de levering en installatie van een batterij geldt 21% BTW. Het nultarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet het accupakket of de thuisbatterij, ook niet bij gelijktijdige aanschaf. Die 21% kan bij zakelijk gebruik wel als voorbelasting worden teruggevraagd via de BTW-aangifte. Voor het privé-deel niet.
+De gevoeligheid zit hier bijna volledig in die € 4.200. Halveert de arbitrageopbrengst omdat de spreiding tegenvalt, dan loopt de terugverdientijd op naar ruim vier jaar. De fiscale voordelen zijn bovendien **eenmalig** en alleen te verzilveren bij voldoende winst.
 
-## Stappenplan: investering plannen
+## Modelberekening 2: zzp'er met thuiskantoor
 
-### Stap 1: Energie-analyse
+**Aannames:** 40% zakelijk gebruik, 6.000 kWh verbruik per jaar, 12 zonnepanelen, een Sessy van 10 kWh (fabrikantprijs € 5.500 inclusief btw, exclusief installatie, peildatum 20 augustus 2026).
 
-Verzamel:
-- Verbruiksprofiel (kWh per uur over jaar)
-- Productie-profiel zonnepanelen
-- Tariefstructuur huidig contract
-- Pieken in vermogen
+- Zakelijk deel (40%): € 2.200 inclusief btw, oftewel € 1.818 exclusief.
+- Btw over het zakelijke deel (± € 382) terug te vragen; over het privédeel niet.
+- EIA over het zakelijke deel: 40% × € 1.818 = € 727 → belastingeffect bij 49,5% ± € 360.
+- KIA: € 1.818 valt ruim onder de drempel van € 2.901 — alleen te benutten door in hetzelfde boekjaar andere bedrijfsmiddelen aan te schaffen.
+- Effectieve zakelijke kosten: ± € 1.458.
 
-Tools: zelf analyseren in Excel of vraag energiebroker (€500-€1.500).
+Bij een aangenomen zakelijke besparing van € 270 per jaar komt de rekenkundige terugverdientijd op **circa 5,4 jaar** — voor het zakelijke deel alleen. Voor de vermogensetikettering van dit soort gemengd gebruik: zie [zonnepanelen als zzp'er met kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/).
 
-### Stap 2: Bepaal grootte
+## Modelberekening 3: waarom overdimensioneren duur uitpakt
 
-Voor eigen-verbruik:
-- 30-50% van dag-verbruik
-- Of: 80-100% van zonneoverschot
+**Aannames:** autogaragebedrijf, 480 m² werkplaats, 38.000 kWh per jaar, 24 kWp aan panelen, bedrijfsprofiel van 7 tot 18 uur op werkdagen, gesloten in het weekend. Beide varianten gerekend inclusief EIA en KIA.
 
-Voor arbitrage:
-- 1-2 cycli per dag mogelijk
-- Capaciteit overeenkomend dag-verbruik
-
-Voor piekafvlakking:
-- Capaciteit overeenkomend piek-duur × piek-vermogen
-
-### Stap 3: Vraag offertes
-
-Specialistische installateurs voor commercieel:
-- Voor <50 kWh: Sessy commercieel, Marstek, BYD-installateurs
-- Voor 50-200 kWh: Victron-systeem-bouwers (lees [Victron review](/posts/victron-thuisbatterij-review-2026/))
-- Voor >200 kWh: ABB, GE, Tesla Energy partners
-
-### Stap 4: Subsidiestrategie
-
-- Verzamel facturen op één belastingjaar voor max KIA
-- Vraag EIA aan binnen 3 maanden na opdracht
-- Eventueel SDE++ voor industriele opslag
-
-### Stap 5: Installatie
-
-Doorlooptijd:
-- <50 kWh: 2-4 weken
-- 50-200 kWh: 4-8 weken
-- >200 kWh: 3-6 maanden (incl. netbeheerder afstemming)
-
-### Stap 6: Configuratie en optimalisatie
-
-- Smart laad­algoritmes instellen
-- Integratie energiemanagement­systeem
-- Monitoring en rapportages
-- Eerste 3 maanden: tweaken voor optimum
-
-### Stap 7: Jaarlijkse evaluatie
-
-Meet ROI, optimaliseer waar nodig. Bij contract-renew dynamisch overwegen.
-
-## Voorbeelden uit de praktijk
-
-### Voorbeeld 1: metaalbedrijf met 24 kWp op de loods
-
-Het rekenvoorbeeld uit de inleiding, uitgewerkt:
-- 80 panelen, 24 kWp
-- 38.000 kWh/jaar verbruik
-- 30 kWh BYD Battery-Box LV
-
-Investering totaal: €18.500 exclusief btw. De 21% btw (€3.885) vraag je bij zakelijk gebruik terug via de aangifte, dus die is cash-neutraal en verlaagt de investering niet.
-Fiscale voordelen:
-- EIA-aftrek: 40% × €18.500 = €7.400 → IB-voordeel bij 49,5% = €3.663
-- KIA-aftrek: 28% × €18.500 = €5.180 → IB-voordeel €2.564
-- Netto investering: €18.500 - €3.663 - €2.564 = **€12.273**
-
-Jaarlijkse besparing:
-- Eigen-verbruik verhoging: €1.800
-- Arbitrage dynamisch: €1.700
-- Piekafvlakking vermogen­tarief: €700
-- **Totaal: €4.200/jaar**
-
-Terugverdientijd netto in deze modelberekening: **circa 2,9 jaar**
-
-### Casus 2: ZZP-fotograaf met thuiskantoor
-
-40% kantoor van woning. Verbruik 6.000 kWh/jaar. 12 zonnepanelen.
-
-Investering: 10 kWh Sessy: €5.500 incl. btw, excl. installatie (prijspeil aug 2026)
-Zakelijk deel (40%): €2.200 incl. btw
-Privé deel (60%): €3.300 incl. btw
-
-Op de batterij zit 21% btw — het nultarief voor zonnepanelen dekt de accu niet. Van het zakelijke deel is die btw (€382) wel als voorbelasting terug te vragen; over het privédeel niet. Zakelijk deel exclusief btw: €1.818.
-
-EIA op zakelijk deel: 40% × €1.818 = €727 → IB-voordeel bij 49,5% = €360
-KIA op zakelijk deel: te laag (onder drempel — maar combineer met andere investeringen)
-
-Effectieve zakelijke kosten: €1.818 - €360 = €1.458
-
-Jaarlijkse besparing zakelijk deel: €170 + arbitrage €100 = €270
-
-Terugverdientijd zakelijk deel: circa 5,4 jaar in deze modelberekening.
-
-### Casus 3: Kleine winkel Utrecht
-
-Banketbakker, 4 ovens, vriezers. Verbruik 65.000 kWh/jaar. Geen eigen panelen mogelijk (te klein dak).
-
-Investering: 60 kWh BYD systeem voor pure arbitrage: €38.000 exclusief btw. De btw (€7.980) is bij zakelijk gebruik terugvorderbaar en dus cash-neutraal.
-
-EIA: 40% × €38.000 = €15.200 → IB-voordeel bij 49,5% = €7.524
-KIA: €38.000 valt in de 2e schijf, maar de KIA is hier al benut met andere investeringen
-
-Netto kosten: €38.000 - €7.524 = €30.476
-
-Jaarlijkse besparing arbitrage:
-- 65.000 kWh × €0,08 gem. arbitrage × 60% benutbaar = €3.120
-- Plus piekafvlakking €1.500
-- **Totaal: €4.620/jaar**
-
-Terugverdientijd in dit model: circa 6,6 jaar.
-
-### Casus 4: Bouwbedrijf Brabant
-
-Loods met kantoor, mengprofiel. Verbruik 95.000 kWh/jaar. Geen panelen door netcongestie regio.
-
-Investering: 100 kWh Tesla Powerpack alternatief (BYD): €72.000
-
-Plus: nieuwe panelen 60 kWp bij batterij mogelijk (anders niet door netcongestie)
-Extra investering panelen: €60.000
-Totale investering: €132.000
-
-EIA: 40% × €132.000 = €52.800 → IB-voordeel bij 49,5% = €26.136
-KIA: €20.069 aftrek (vast bedrag in de 2e schijf) → IB-voordeel €9.934
-BTW: €27.720, terugvorderbaar bij zakelijk gebruik en daarmee cash-neutraal
-
-Netto kosten: €132.000 - €26.136 - €9.934 = €95.930
-
-Jaarlijkse besparing:
-- Eigen panelen-productie: €15.000
-- Arbitrage extra: €4.500
-- Piekafvlakking: €2.500
-- **Totaal: €22.000/jaar**
-
-Terugverdientijd in dit model: circa 4,4 jaar.
-
-## Netcongestie als argument
-
-In sommige regio's (Brabant, delen Noord-Holland) is netcongestie acuut. Netbeheerders vergunnen geen nieuwe zonnepaneel-installaties zonder batterij.
-
-Voor MKB betekent dit:
-- Geen batterij = geen extra panelen = geen extra besparing
-- Met batterij = extra panelen + slim laden = extra winst
-
-Lokaal kan een batterij €5.000-€20.000 extra panelen-investering ontsluiten. Dat verdient zich snel terug.
-
-## SDE++ voor grotere installaties
-
-Voor commerciele opslag > 200 kWh: SDE++ (Stimulering Duurzame Energieproductie) vergoedt onrendabele top.
-
-Voor 2026:
-- Categorie "energieopslag" in Tender voorjaar/najaar
-- Maximum bedrag €100/kWh per jaar voor 15 jaar
-- Voor projecten >200 kW
-
-Voor MKB onder die drempel: niet relevant. Voor kleinindustrie: zeker overwegen.
-
-## Combinatie met dynamisch contract
-
-Voor MKB-batterij essentieel: dynamisch contract.
-
-Aanbieders:
-- **Eneco zakelijk dynamisch**: voor MKB met >50.000 kWh
-- **Tibber zakelijk**: idem (lees [Tibber review](/posts/tibber-review-ervaringen-2026/))
-- **Frank Energie zakelijk**: groeiend (lees [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/))
-- **Vandebron**: voor kleinere MKB met groene focus
-
-Lees [dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/).
-
-## Energiemanagement­systeem (EMS)
-
-Voor commerciele opslag: een EMS noodzakelijk:
-- Optimaliseert laden/ontladen op basis van verbruik + tarief
-- Integreert zonnepaneel-monitoring
-- Voorspelt productie en verbruik
-- Past aan bij weersveranderingen
-
-Aanbevolen EMS:
-- **HomeWizard P1 Pro** (kleine MKB)
-- **Sungrow EMS** (medium)
-- **Schneider EcoStruxure** (groot)
-
-## Veelgemaakte fouten
-
-**Fout 1: Te grote batterij**
-Niet meer dan 1-2 cycli per dag mogelijk. Te groot = onbenut.
-
-**Fout 2: Vergeten EIA aanvragen**
-Aanvraag binnen 3 maanden na opdracht verplicht. Vaak vergeten.
-
-**Fout 3: Verkeerd tariefcontract**
-Batterij zonder dynamisch contract = halve waarde. Stap eerst over.
-
-**Fout 4: Eigen verbruik niet analyseren**
-Niet meten = niet weten. Doe minimaal 4 weken meting met datalogger voor investering.
-
-**Fout 5: Onderhoud onderschatten**
-Commerciele systemen hebben jaarlijks contract: €350-€1.200 onderhoud.
-
-## Toekomst: BESS en V2X
-
-### BESS (Battery Energy Storage Systems)
-
-Industriële schaal opslag (>200 kWh). Groeit explosief in NL — 2025-2030 verdubbeling per jaar verwacht.
-
-### V2X (Vehicle-to-Everything)
-
-Elektrische bedrijfswagens als opslag. In 2026 nog vroeg, maar Tesla, Hyundai, BYD bieden eerste oplossingen.
-
-Voor MKB met EV-vloot: monitor deze ontwikkeling. Op basis van de aangekondigde modelplanningen van fabrikanten is standaard V2X-ondersteuning richting 2028 aannemelijk.
-
-## Conclusie: ZZP/MKB-opslag verdient zich snel terug
-
-Met EIA, KIA en het feit dat er voor zakelijke aansluitingen geen saldering te missen valt, komt MKB-batterijopslag in onze modelberekeningen uit op circa 3 tot 7 jaar. Dat is sneller dan bij particulieren, maar het blijven modellen: de uitkomst hangt af van je verbruiksprofiel, je tarief en je belastingpositie.
-
-Aanbevelingen op basis van bovenstaande doorrekeningen:
-1. **Doe energie-analyse** (verbruikspatroon, pieken, contract)
-2. **Investeer eerst in dynamisch contract** voor optimale arbitrage
-3. **Plan investering binnen één belastingjaar** voor max KIA
-4. **Vraag EIA aan binnen 3 maanden**
-5. **Combineer met zonnepanelen** voor maximaal rendement
-6. **Overweeg netcongestie**-overwegingen in jouw regio
-7. **EMS niet vergeten** voor optimalisatie
-
-Voor verdere lezing: [thuisbatterij vergelijking](/posts/thuisbatterij-vergelijking-2026/), [BYD Battery-Box review](/posts/byd-battery-box-review-2026/), [Pylontech review](/posts/pylontech-thuisbatterij-review-2026/), [Victron review](/posts/victron-thuisbatterij-review-2026/) en [ZZP zonnepanelen kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/).
-
-## Rekenvoorbeeld: waarom overdimensioneren duur uitpakt
-
-Onderstaande vergelijking is een modelberekening voor een fictief autogaragebedrijf (4 medewerkers, 480 m² werkplaats, 38.000 kWh per jaar, 60 panelen van in totaal 24 kWp). Uitgangspunt is een bedrijfsprofiel van 7-18 uur op werkdagen en een gesloten weekend.
-
-| Variant | Investering | Zelfverbruik zonneoverschot | Rekenkundige terugverdientijd |
+| Variant | Investering (excl. btw) | Benutting | Rekenkundige terugverdientijd |
 |---|---|---|---|
-| 30 kWh BYD Battery-Box Premium HVS | €19.800 | Beperkt: capaciteit zelden volledig benut door weekendsluiting | circa 9,5 jaar |
-| 15 kWh Pylontech rack + EMS (laadpaal + airco) | €11.200 | Aanzienlijk hoger doordat de capaciteit dagelijks rondgaat | circa 6,2 jaar |
+| 30 kWh systeem | € 19.800 | Beperkt: capaciteit zelden volledig benut door weekendsluiting | ± 9,5 jaar |
+| 15 kWh systeem + EMS (laadpaal en klimaat meegestuurd) | € 11.200 | Aanzienlijk hoger: de capaciteit gaat dagelijks rond | ± 6,2 jaar |
 
-Beide varianten zijn gerekend inclusief EIA en KIA en met de tarieven van 2026. De conclusie die uit dit model volgt: voor MKB is "groter = beter" zelden waar. De capaciteit moet passen bij het werkelijke dagprofiel — een batterij die alleen in het weekend vol staat, verdient zich niet terug.
+De les uit dit model: bij zakelijke opslag is "groter is beter" zelden waar. Wat telt is het aantal volledige cycli per jaar, en dat wordt bepaald door je dagprofiel — niet door je jaartotaal. Laat een installateur daarom altijd doorrekenen op je **kwartierdata uit de slimme meter**.
 
-Onze inschatting: laat een installateur altijd doorrekenen op je eigen kwartierdata uit de slimme meter, niet op een jaartotaal.
+## De omvang bepalen: waar je op moet letten
 
-## Diepgang per merk: commerciële energieopslag NL 2026
+1. **Haal je kwartierdata op** bij je leverancier of netbeheerder, over minimaal enkele representatieve weken (bij voorkeur een heel jaar).
+2. **Bepaal het verplaatsbare volume per dag**: het overschot dat nu wordt teruggeleverd, plus de afname in de duurste uren.
+3. **Tel de dagen** waarop dat volume er daadwerkelijk is. Weekendsluiting, vakantiestops en seizoenspatronen halveren zomaar het aantal bruikbare cycli.
+4. **Kijk naar vermogen, niet alleen capaciteit.** Voor piekafvlakking is het laad- en ontlaadvermogen in kW bepalend, niet de kWh.
+5. **Reken retourrendement mee.** Een deel van wat je laadt komt er niet uit; dat verlies betaal je wel, inclusief energiebelasting.
 
-| Merk | Capaciteit | Prijs (incl install) | Garantie | EIA-erkend |
-|------|------------|----------------------|----------|------------|
-| Pylontech Force-H2 | 7-21 kWh modulair | €5.800-€14.200 | 10 jr / 6.000 cycli | Ja |
-| BYD Battery-Box Premium HVS | 7,7-22,1 kWh | €8.400-€18.500 | 10 jr | Ja |
-| Victron + Pylontech rack | 10-50 kWh | €11.000-€38.000 | 10 jr Pylontech, 5 jr Victron | Ja |
-| Tesla Powerwall 3 | 13,5 kWh per unit | €10.500-€11.800 | 10 jr / onbeperkt cycli | Ja |
-| Sonnen Eco 9.43 | 5,5-22 kWh | €13.800-€26.000 | 10 jr / 10.000 cycli | Ja |
-| Alfen TheBattery | 50-1500 kWh | Op aanvraag | 10 jr | Ja, ook EIA-MKB-XL |
+## Systeemkeuze: wat er te kiezen valt
 
-Voor MKB onder 50 kWh: Pylontech of BYD bieden beste prijs/capaciteit. Voor hogere capaciteit: Alfen (Nederlands fabrikant, EIA-erkend, sterke service-organisatie in NL).
+Wij noemen bewust geen prijstabel per merk: zakelijke opstellingen worden vrijwel altijd op maat samengesteld en de prijs hangt af van omvormerkeuze, EMS, installatie en netbeheerdersafstemming. Wat wel houdbaar is, is de indeling naar schaal:
 
-## NL-specifiek: EIA, KIA en MIA voor batterijen
+- **Tot enkele tientallen kWh.** Modulaire systemen van het type dat ook in woningen wordt toegepast, gestapeld tot de gewenste capaciteit. Vaak het snelst te realiseren.
+- **Enkele tientallen tot ± 200 kWh.** Rack-opstellingen met een aparte omvormer- en EMS-laag, doorgaans gebouwd door een systeemintegrator. Zie voor de componentkant onze reviews van [Victron](/posts/victron-thuisbatterij-review-2026/), [Pylontech](/posts/pylontech-thuisbatterij-review-2026/) en [BYD Battery-Box](/posts/byd-battery-box-review-2026/).
+- **Boven ± 200 kWh.** Containeropstellingen, met netbeheerdersafstemming en een aanzienlijk langere doorlooptijd.
 
-### EIA 2026 — 40% aftrek energie
+Vraag bij elke offerte drie dingen op schrift: de **Energielijst-code** (bepaalt de EIA), de **garantietermijn en het gegarandeerde aantal cycli of doorzet in MWh**, en het **laad- en ontlaadvermogen in kW** — niet alleen de kWh.
 
-- Voor een batterij in commerciële context: check of de investering op de actuele Energielijst van RVO staat — dat bepaalt of EIA van toepassing is
-- Aftrekpercentage: 40% van de investering (percentage dat RVO voor 2026 noemt)
-- Bij vennootschapsbelasting van 25,8%: effectief circa 10,3% van de investering
-- Aanmelden binnen 3 maanden via RVO eLoket
+## Een EMS is geen luxe
 
-### KIA — 28% aftrek
+Bij zakelijke opslag is een energiemanagementsysteem geen extraatje maar de voorwaarde waaronder de business case werkt. Het stuurt laden en ontladen op basis van verbruik, productie, tarief en — als je die hebt — laadpalen en klimaatinstallatie. Zonder die coördinatie laad je op het verkeerde moment en mis je precies de pieken die je wilde afvlakken.
 
-- Voor zakelijke investeringen boven de jaarlijkse drempel tot circa €70.000 (bedragen worden geïndexeerd — check de Belastingdienst)
-- Combineerbaar met EIA (op zelfde investering)
-- Bij €15.000 batterij: KIA-aftrek €4.200 (28%)
+Neem bij de offerte-aanvraag expliciet op wat het EMS aanstuurt, welke datakoppelingen het heeft (P1, omvormer, laadpalen) en of je bij de data kunt om achteraf te controleren of het doet wat is beloofd.
 
-### MIA/Vamil
+## Netcongestie: nuance in plaats van vuistregel
 
-- Voor zelfvoorzienend opslag-systeem op duurzame stroom: ja, beperkt
-- Vereist M-code op EIA-lijst, soms 13,5% extra aftrek
-- Bewerkelijk maar voor grotere installaties (>€50K) lonend
+In delen van Nederland is er transportschaarste. Dat kan betekenen dat een zwaardere aansluiting of een grotere terugleverpositie niet op korte termijn beschikbaar is, en netbeheerders bieden dan alternatieve contractvormen aan — bijvoorbeeld contracten met een tijdgebonden of beperkt transportvermogen, waarbij een batterij helpt om binnen de afgesproken grenzen te blijven.
 
-### BTW 21% volledig terugvorderbaar (mits zakelijk)
+Maar dat is iets anders dan "je krijgt geen panelen aangesloten zonder batterij". Wat er op jouw aansluitadres speelt, staat op de capaciteitskaart van de netbeheerders en kun je bij je eigen netbeheerder navragen. Doe dat vóór je een systeem bestelt: het antwoord bepaalt zowel de omvang als de doorlooptijd.
 
-- Voor BV/eenmanszaak/VOF: BTW direct terug via reguliere aangifte
-- Voor ZZP onder KOR: zie [ZZP zonnepanelen kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/) — KOR-keuze afwegen
+## Grotere projecten en SDE++
 
-## Mini case: drukkerij Helmond
+Voor grootschalige opstellingen wordt vaak naar de SDE++ gekeken. Welke categorieën in een bepaalde openstellingsronde meedoen, tegen welke basisbedragen en onder welke voorwaarden, verschilt per ronde. Controleer dat bij RVO op het moment dat je aanvraagt — bedragen uit een eerdere ronde zeggen niets over de volgende.
 
-Modelcasus: drukkerij met 24/7 productie, 280.000 kWh/jr verbruik, 80 kWp zonnepanelen al aanwezig. Vraag: is het rendabel om 60 kWh batterij toe te voegen?
+## Vijf fouten die het rendement slopen
 
-Doorgerekende cijfers (modelberekening, vpb-tarief 25,8%):
-- Investering Pylontech-Victron 60 kWh: €38.500 exclusief btw, inclusief installatie
-- EIA 40%: €15.400 aftrek (vpb-effect €3.973)
-- KIA 28%: €10.780 aftrek (vpb-effect €2.781)
-- BTW €8.085: terugvorderbaar bij zakelijk gebruik, dus cash-neutraal
-- Netto investering: €31.746
+1. **Te groot dimensioneren.** Capaciteit die niet dagelijks rondgaat, verdient zich niet terug. Match op het dagprofiel, niet op het jaartotaal.
+2. **De EIA-termijn missen.** Drie maanden na de besteldatum. Dit is de duurste administratieve fout die je op dit dossier kunt maken.
+3. **Rekenen inclusief btw.** De btw komt bij zakelijk gebruik terug; reken EIA en KIA over het bedrag exclusief btw, anders overschat je het voordeel.
+4. **Geen dynamisch contract.** Zonder prijsverschil per uur valt de arbitragecomponent volledig weg. Zie [dynamische energiecontracten vergeleken](/posts/dynamische-energiecontracten-vergelijking-2026/).
+5. **Garantie op cycli niet naast het eigen gebruik leggen.** Een garantie van 6.000 cycli is bij één cyclus per dag ruim zestien jaar, maar bij anderhalve cyclus per dag nog geen elf. Reken de garantietermijn om naar jóuw gebruik.
 
-Voordelen:
-- Eigenverbruik van 47% naar 81% = 25.500 kWh meer zelf benut
-- Besparing energiekosten: €7.140/jr bij €0,28/kWh inkoop
-- Plus vermijden terugleverkosten: €1.250/jr
-- Plus piek-shaven (capaciteits-tarief): €820/jr
+## Wanneer een zakelijke batterij níet uitkomt
 
-Totale jaarbesparing: €9.210
-Terugverdientijd in dit model: circa 3,4 jaar — relatief gunstig dankzij het continue verbruikspatroon.
+- **Vlak verbruiksprofiel zonder pieken.** Een kantoor van negen tot vijf zonder grote afnamepieken heeft weinig te verplaatsen.
+- **Weinig cyclusdagen.** Seizoensbedrijven, weekendsluiting of lange productiestops verlagen het aantal cycli en daarmee direct de opbrengst.
+- **Huurpand met korte resterende looptijd.** Een investering die je niet kunt meenemen en niet kunt afschrijven binnen de huurperiode, komt niet uit.
+- **Onvoldoende winst.** EIA en KIA zijn aftrekposten. Zonder belastbare winst is er niets om ze tegen af te zetten.
+- **Geen dynamisch contract en geen vermogenscomponent op de factuur.** Dan blijft alleen zelfverbruik over, en dat is zelden genoeg.
 
-## Veelgemaakte fouten
+## Verzekering en veiligheid
 
-**Fout 1: Batterij groter dimensioneren dan dagprofiel**
-Onder 70% gemiddelde benutting per cyclus zakt rendement snel. Match grootte aan werkelijk dagverbruik na zonsondergang.
+Een zakelijke batterij hoort thuis in je opstal- of bedrijfsmiddelenpolis en roept aparte vragen op over opstelplaats en brandveiligheid. Vraag je verzekeraar schriftelijk of de installatie is opgenomen in de dekking en welke eisen aan opstelling en installatie worden gesteld — vóór de plaatsing, niet erna. De algemene lijn en de vragen die je moet stellen staan in [zonnepanelen en je opstalverzekering](/posts/zonnepanelen-verzekering-opstal-2026/).
 
-**Fout 2: Geen EMS (energiebeheerssysteem)**
-Zonder slim systeem dat EV-laadpaal, airco's en batterij coördineert: gemiste 15-25% besparing.
+## Conclusie
 
-**Fout 3: BTW vergeten op investeringsbedrag**
-Veel ZZP'ers rekenen incl BTW als netto-investering. BTW komt terug — reken EIA/KIA over excl. BTW-bedrag.
+Zakelijke energieopslag komt eerder uit dan particuliere opslag, maar de reden daarvoor is fiscaal en niet magisch. Wat je concreet moet doen:
 
-**Fout 4: EIA-aanvraag termijn missen**
-3 maanden na opdrachtbevestiging via RVO. Wie te laat is, mist 40% aftrek.
+1. **Haal je kwartierdata op** en bepaal het verplaatsbare volume per dag.
+2. **Regel eerst het contract**: zonder dynamisch tarief valt de arbitragecomponent weg.
+3. **Check de Energielijst-code** bij de leverancier — die bepaalt of de EIA geldt.
+4. **Meld binnen 3 maanden na de besteldatum** bij RVO.
+5. **Plan investeringen binnen één boekjaar** om de KIA-drempel van € 2.901 te halen.
+6. **Reken met jouw belastingtarief**, niet met het tarief uit een voorbeeld.
+7. **Neem het EMS mee in de offerte** — zonder aansturing werkt de case niet.
 
-**Fout 5: Garantie-cycli niet checken**
-Bij MKB-gebruik (1 cyclus/dag) is 6.000 cycli ~16 jaar. Maar bij 1,5 cycli/dag: 11 jaar. Reken levensduur op werkelijk gebruik.
-
-## Wanneer commerciële batterij NIET de moeite waard is
-
-- **Bedrijf alleen overdag actief, geen avond/weekend-verbruik**: zon-on-zon is voldoende, batterij voegt weinig toe
-- **Grootverbruiker met grootverbruik-tarief contracten**: vaste prijzen maken peak-shaving minder interessant
-- **Pand met teruglevercontract zonder kosten** (bestaande tot 2027): zonder reguliere terugleverkosten, prikkel voor eigen-opslag lager
-- **Korte resterende huur (<5 jaar) op pand**: geen terugverdienen mogelijk
-
-## Extra FAQ
-
-**Wat zijn capaciteitstarief en piekshaving?**
-Capaciteitstarief is een netbeheerderscomponent op basis van piekafname (kW). Piekshaving = batterij gebruikt om piekafname af te toppen. Voor MKB met capaciteit 3x80A of meer: significant.
-
-**Kan ik handelen op de stroommarkt met batterij?**
-Ja, via dynamische tarieven (Tibber, EnergyZero, ANWB Energie). Voor MKB-batterij 30+ kWh kan dit €600-€1.400/jr extra opleveren bij volatile prijzen.
-
-**Hoe combineren met laadpaal voor klanten/medewerkers?**
-EMS-systeem prioriteert: eerst eigen verbruik, dan laadpalen, dan terugleveren. Slimme integratie levert 8-15% extra rendement.
-
-**Welke verzekering voor commerciële batterij?**
-Bedrijfspolis bij Centraal Beheer, Klaverblad of NN dekt batterijen vrijwel altijd, mits NEN 1010 + IEC 62619 conform. Brandrisico-clausules: vraag specifiek voor LiFePO4 i.p.v. NMC, want LiFePO4 is door verzekeraars beter ingeschat.
-
-## Mini case 2: bakkerij Maastricht 24 uur productie
-
-Klant runt warme bakkerij met ovens vanaf 02:00, koffiebar vanaf 06:30. Pieken: 35 kW tussen 02:00-04:00 (bakcyclus), 18 kW tussen 06:30-08:30 (toestellen aan), 8-12 kW de rest van de dag. Met dynamisch contract betaalde hij in 2024 nog 18.400 euro per jaar aan stroom. In maart 2025 30 kWh BYD HVS-batterij geinstalleerd plus 24 panelen op pannendak (10,8 kWp). EMS van Solis stuurt vraagsturing — laden op nacht-laagtarief, ontladen tijdens bakcyclus. Werkelijk verbruik vanuit grid 2026 (eerste 6 maanden): 4.840 kWh op piek-tarief, rest op kale dagtarief. Jaarprognose stroomkosten: 9.200 euro. Besparing 9.200 euro per jaar bij investering 38.000 euro = terugverdientijd 4,1 jaar.
-
-## Wanneer commerciele batterij NIET de moeite waard
-
-Drie scenario's. Een: bedrijf met regelmatig vast verbruik (kantoor 9-17 zonder grote pieken) — geen arbitragevoordeel mogelijk. Twee: huurpand zonder lange-termijn-zekerheid — afschrijving niet mogelijk binnen huurperiode. Drie: bedrijven onder 30 MWh jaarverbruik — KIA/EIA-voordeel beperkt, schaalvoordeel onder break-even.
-
-**Hoe beïnvloedt netcongestie mijn batterij-keuze?**
-In 2026 hebben grote delen van Brabant, Noord-Holland en Limburg netcongestie — netbeheerder geeft GEEN nieuwe grote teruglever-aansluitingen meer. Een batterij is dan niet alleen besparingsinstrument maar voorwaarde om panelen überhaupt aangesloten te krijgen. Vraag bij netbeheerder of jouw locatie congestiegebied is.
+Verder lezen: [thuisbatterij-vergelijking](/posts/thuisbatterij-vergelijking-2026/), [BYD Battery-Box review](/posts/byd-battery-box-review-2026/), [Pylontech review](/posts/pylontech-thuisbatterij-review-2026/), [Victron review](/posts/victron-thuisbatterij-review-2026/) en [zonnepanelen als zzp'er met kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/).
 
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bronnen:** [RVO — energie-investeringsaftrek](https://www.rvo.nl/subsidies-financiering/eia/ondernemers), [Belastingdienst — kleinschaligheidsinvesteringsaftrek 2026](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/inkomstenbelasting/veranderingen-inkomstenbelasting-2026/investeringsaftrek-2026/kleinschaligheidsinvesteringsaftrek-2026) en [RVO — SDE++](https://www.rvo.nl/subsidies-financiering/sde). Bedragen opgehaald op 21 augustus 2026.
