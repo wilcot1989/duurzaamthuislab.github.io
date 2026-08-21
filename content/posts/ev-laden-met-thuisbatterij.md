@@ -1,8 +1,8 @@
 ---
 title: 'EV laden met thuisbatterij: levert het geld op?'
 date: 2026-07-08 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: 'Slim je elektrische auto laden via een thuisbatterij: wanneer verdien je er echt aan? Rekenvoorbeelden met dynamisch contract, Sessy.'
+lastmod: 2026-08-21 08:00:00+02:00
+description: 'Wanneer loont het om je elektrische auto en een thuisbatterij te combineren? Modelberekeningen met een dynamisch contract, vóór en ná het einde van de saldering.'
 categories:
 - elektrische-auto
 tags:
@@ -18,384 +18,282 @@ keywords:
 - bidirectioneel laden Nederland
 - slim laden dynamisch contract
 - Sessy EV laden
-- thuisbatterij EV combinatie rentabel
+- thuisbatterij EV combinatie rendabel
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1671785253964-bdb43087ed99&w=1200&output=webp&q=70
 faq:
 - q: Kan ik mijn elektrische auto laden via mijn thuisbatterij?
-  a: Ja, technisch kan dat. Je thuisbatterij laadt overdag met zonne-energie en 's avonds laad je je auto via de thuisbatterij of rechtstreeks uit het net. Met bidirectionele technologie (V2H) kun je de auto-accu ook als thuisbatterij gebruiken.
+  a: 'Technisch kan dat, maar het is zelden de verstandigste route. Een thuisbatterij van 10 kWh is klein ten opzichte van een laadsessie van een EV, en elke extra opslagstap kost rendement. In de meeste huishoudens levert het meer op om de auto direct in de goedkoopste netuuren te laden en de thuisbatterij het huis te laten voeden.'
 - q: Wat is het verschil tussen V2L, V2H en V2G?
-  a: V2L (Vehicle to Load) is een stopcontact in de auto voor kleine apparaten. V2H (Vehicle to Home) voedt het hele huis via een omvormer. V2G (Vehicle to Grid) verkoopt energie terug aan het net. In Nederland is V2G nog niet op schaal beschikbaar.
-- q: Welke elektrische auto's ondersteunen bidirectioneel laden?
-  a: 'In Nederland zijn dit in 2026: Hyundai Ioniq 5 en 6, Kia EV6 en EV9, Nissan Leaf (ouder model), Volvo EX30 (V2L), BYD Atto 3, en Renault 5 E-Tech. Tesla en Volkswagen ID-serie zijn nog niet bidirectioneel.'
+  a: 'V2L (Vehicle to Load) is een stopcontact in de auto voor losse apparaten. V2H (Vehicle to Home) voedt het huis via een bidirectionele omvormer. V2G (Vehicle to Grid) levert terug aan het net. In Nederland is V2G nog geen breed beschikbaar consumentenproduct.'
+- q: Welke elektrische auto''s ondersteunen bidirectioneel laden?
+  a: 'De ondersteuning verschilt sterk per merk, per model en per bouwjaar, en fabrikanten voegen modellen toe of schrappen functies via software-updates. Controleer daarom altijd de actuele specificatie van het exacte model en bouwjaar bij de importeur, in plaats van af te gaan op een lijst in een artikel. In de praktijk zijn het vooral modellen op 800V- en Hyundai/Kia-platforms die V2L en V2H bieden.'
 - q: Heb ik een speciale laadpaal nodig voor V2H?
-  a: 'Ja. Een standaard 11 kW laadpaal laadt alleen van net naar auto. Voor V2H heb je een bidirectionele omvormer/laadpaal nodig, zoals de Wallbox Quasar 2 of de Huawei LUNA2000 met EV-module. Kosten: €2.000-€5.000 extra boven de laadpaal.'
-- q: Is een thuisbatterij of EV-accu voordeliger als opslagoptie?
-  a: 'De EV-accu wint op kosten per kWh: een Ioniq 5 heeft 77 kWh voor €45.000 (€584/kWh), een Sessy 10 kWh kost €5.500 excl. installatie (€550/kWh). Maar de EV staat niet altijd thuis. Een thuisbatterij is betrouwbaarder als continue buffer.'
+  a: 'Ja. Een gewone laadpaal laadt alleen van net naar auto. Voor V2H heb je een bidirectionele omvormer of laadpaal nodig. Die zijn in Nederland beperkt leverbaar en de fabrikanten publiceren er geen consumentenprijs voor; reken op een veelvoud van een gewone laadpaal en vraag een offerte inclusief installatie.'
+- q: Is een thuisbatterij of een EV-accu voordeliger als opslagoptie?
+  a: 'Per kWh is de auto-accu goedkoper, simpelweg omdat je die al hebt. Maar de auto staat niet altijd thuis, en dat is precies wanneer je de opslag nodig hebt. Een thuisbatterij is als continue buffer betrouwbaarder; een EV-accu is alleen interessant als de auto overdag en ''s avonds daadwerkelijk aan de lader hangt.'
 - q: Wat levert een dynamisch contract op bij slim laden?
-  a: 'Met Frank Energie of Tibber laad je ''s nachts voor €0,08-€0,12/kWh en gebruik je overdag zonnestroom gratis. Verschil met vast contract (€0,26-€0,28/kWh): €0,14-€0,18/kWh. Bij 4.000 km/jaar en 18 kWh/100 km = 720 kWh = €100-€130 besparing per jaar.'
-- q: Wordt de combinatie EV + thuisbatterij rendabeler na 2027?
-  a: Ja, significant. De saldering stopt per 1 januari 2027. Dan daalt de terugverdiening op zonne-energie en wordt opslag in thuisbatterij of EV-accu veel aantrekkelijker. Wie nu investeert, profiteert direct na de salderings-stop.
-- q: 'Wat kost een complete setup: zonnepanelen + thuisbatterij + bidirectionele laadpaal?'
-  a: 'Globale indicatie voor doorsnee rijtushuis: zonnepanelen 16 panelen ±€6.000, thuisbatterij Sessy 10 kWh €5.500 (excl. installatie), bidirectionele laadpaal Wallbox Quasar 2 €3.500 incl. installatie. Totaal: ±€15.000. Terugverdientijd bij huidige energieprijzen: 10-14 jaar.'
-products:
-- name: Sessy thuisbatterij 10 kWh
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '5500'
-- name: Marstek Venus E 8,2 kWh
-  url: https://marstekenergy.com/venus-e
-  price: '2299'
-- name: Zonneplan thuisbatterij 10 kWh
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '6995'
+  a: 'Dat is de grootste en goedkoopste winst in dit hele verhaal, omdat er geen hardware voor nodig is. De rekenregel: je jaarlijkse laadvolume in kWh × het verschil tussen je gemiddelde uurtarief en het tarief van de nachturen waarnaar je verschuift. Bij 2.700 kWh laadverbruik en vijftien cent verschil kom je op een paar honderd euro per jaar. Vul je eigen tariefblad in.'
+- q: Wordt de combinatie EV plus thuisbatterij rendabeler na 2027?
+  a: 'Ja. De saldering stopt volledig per 1 januari 2027 — er is geen afbouwpad. Zolang je saldeert, is een teruggeleverde kWh evenveel waard als een afgenomen kWh en levert extra eigen verbruik vrijwel niets op. Vanaf 2027 is het verschil tussen je afnameprijs en de terugleververgoeding wél de waarde van elke kWh die je zelf opslaat en gebruikt.'
+- q: 'Wat kost een complete setup: zonnepanelen, thuisbatterij en bidirectionele laadpaal?'
+  a: 'Dat hangt te veel van je dak en je meterkast af om er één bedrag op te plakken. Wat je wel kunt vastzetten: zonnepanelen vallen onder het 0%-btw-tarief, een thuisbatterij niet — daar geldt 21% btw. Vraag drie all-in offertes en reken de terugverdientijd door met de rekenregels in dit artikel, niet met een bedrag uit een folder.'
 schema_type: Article
 ---
-Mijn klant Jeroen reed vorig jaar zijn eerste volle jaar in een Ioniq 5. Zonnepanelen op het dak, een Sessy in de meterkast, en een 11 kW laadpaal in de garage. Hij was ervan overtuigd dat hij slim bezig was: zonnestroom opslaan in de batterij, auto laden als de zon schijnt, 's avonds de rest uit de batterij halen.
+De combinatie van een elektrische auto en een thuisbatterij klinkt logisch: overdag zonnestroom opslaan, 's avonds de auto laden uit de batterij. In de praktijk gaat het geregeld anders dan verwacht, en de reden is bijna altijd dezelfde: de volgorde. Wordt de thuisbatterij 's avonds leeggetrokken door een laadsessie, dan laadt diezelfde batterij 's nachts weer bij uit het net — met omzetverliezen erbij. Zonder goede sturing werkt de combinatie tegen je.
 
-Zijn rekening na een jaar: de verwachte besparing bleef €400 achter op de berekening.
+Hieronder rekenen wij door wanneer EV laden via een thuisbatterij wél loont, welke techniek daarvoor nodig is en hoe de rekensom verandert zodra de saldering per 1 januari 2027 stopt.
 
-Het probleem zat niet in de technologie. Het zat in de volgorde: de thuisbatterij werd ingezet voor het huis terwijl de auto 's avonds ook uit de batterij laadde — op het duurste moment van de dag. Zonder goede slimme sturing werkt de combinatie averechts.
-
-In dit artikel reken ik uit wanneer EV laden via een thuisbatterij wél loont, welke technologie daarvoor nodig is, en hoe je de setup optimaliseert voor Nederland in 2026.
-
-*Cijfers gebaseerd op energieprijzen april-juni 2026, Frank Energie dynamische tarieven, en specificaties van fabrikanten. Eigen situatie kan afwijken.*
+*Disclosure: de links naar Sessy en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie en ontvangen hiervoor geen vergoeding. De berekeningen hieronder zijn modelberekeningen met zichtbare aannames, geen metingen.*
 
 ---
 
+💡 *Niet zeker wat er per 1 januari 2027 verandert? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Slim je elektrische auto laden via een thuisbatterij: wanneer verdien je er echt aan? Rekenvoorbeelden met dynamisch contract, Sessy.
+> **Kort antwoord:** het goedkoopste rendement zit niet in hardware maar in sturing — een dynamisch contract met slim laden vraagt geen investering en levert direct op.
 >
-> Ja, technisch kan dat. Je thuisbatterij laadt overdag met zonne-energie en 's avonds laad je je auto via de thuisbatterij of rechtstreeks uit het net. Met bidirectionele technologie (V2H) kun je de auto-accu ook als thuisbatterij gebruiken.
+> Een thuisbatterij verdient zich in deze combinatie pas terug ná het einde van de saldering, en zelfs dan lopen de terugverdientijden in onze modellen op tot boven de vijftien jaar. V2H (de auto-accu als thuisbatterij) is rekenkundig het interessantst, maar alleen als de auto overdag daadwerkelijk thuis aan de lader hangt.
 
 ## Hoe werkt de combinatie eigenlijk?
 
-Een thuisbatterij slaat energie op en geeft die af. Een elektrische auto heeft ook een accu — in veel gevallen groter dan de thuisbatterij. De vraag is hoe je die twee op elkaar afstemt.
+Een thuisbatterij slaat energie op en geeft die af. Een elektrische auto heeft ook een accu — meestal een veelvoud van de thuisbatterij. De vraag is hoe je die twee op elkaar afstemt.
 
 Er zijn drie basisscenario's:
 
-**Scenario 1: Gescheiden systemen (meest voorkomend)**
-Thuisbatterij regelt het huis, laadpaal laadt de auto rechtstreeks uit het net of van zonnepanelen. Voordeel: simpel. Nadeel: de thuisbatterij wordt leeggetrokken door de auto als je niet goed stuurt.
+**Scenario 1: gescheiden systemen (meest voorkomend).** De thuisbatterij regelt het huis, de laadpaal laadt de auto rechtstreeks uit het net of van de panelen. Voordeel: simpel. Nadeel: zonder sturing trekt de auto de thuisbatterij leeg op het verkeerde moment.
 
-**Scenario 2: Gecombineerd via slimme sturing**
-Energiemanagementsysteem (EMS) bepaalt wanneer de batterij het huis voedt en wanneer de laadpaal actief is. Sessy en Marstek hebben eigen EMS. Zonneplan biedt dit als service.
+**Scenario 2: gecombineerd via slimme sturing.** Een energiemanagementsysteem bepaalt wanneer de batterij het huis voedt en wanneer de laadpaal actief is. Dat is de configuratie waarin de combinatie doet wat je ervan verwacht.
 
-**Scenario 3: Bidirectioneel laden (V2H/V2G)**
-De auto-accu functioneert als thuisbatterij. Energie stroomt beide kanten op: net → auto, maar ook auto → huis. Vereist specifieke auto's én specifieke laadpalen.
+**Scenario 3: bidirectioneel laden (V2H/V2G).** De auto-accu functioneert als thuisbatterij. Vereist zowel een geschikte auto als een bidirectionele omvormer.
 
 ### Wat zijn V2L, V2H en V2G?
 
-| Technologie | Wat het doet | Status in NL 2026 |
+| Techniek | Wat het doet | Status in Nederland, augustus 2026 |
 |---|---|---|
-| V2L (Vehicle to Load) | Stopcontact in auto voor apparaten (230V, 3,6 kW) | Beschikbaar: Volvo EX30, Ioniq 5, EV6 |
-| V2H (Vehicle to Home) | Auto voedt het hele huis via bidirectionele omvormer | Technisch beschikbaar, beperkt installateurs |
-| V2G (Vehicle to Grid) | Energie verkopen aan het stroomnet | Pilots (Utrecht, Groningen), geen consumentenproduct |
+| V2L (Vehicle to Load) | Stopcontact in de auto voor losse apparaten | Beschikbaar op een deel van de modellen |
+| V2H (Vehicle to Home) | Auto voedt het huis via een bidirectionele omvormer | Technisch mogelijk, beperkt aantal installateurs |
+| V2G (Vehicle to Grid) | Terugleveren aan het net vanuit de auto-accu | Pilots, geen breed consumentenproduct |
 
 V2G is voor de meeste huishoudens nog niet relevant. V2H is beschikbaar maar duur. V2L is de instapoptie die nu al werkt.
 
 ---
 
-## De rekensommen: wat levert het op?
+## De rekensommen
 
-### Basiscase: 11 kW laadpaal + dynamisch contract (geen thuisbatterij)
+### Basiscase: laadpaal plus dynamisch contract, zonder thuisbatterij
 
-Neem een gemiddeld EV-rijder: 15.000 km/jaar, verbruik 18 kWh/100 km = 2.700 kWh/jaar laadverbruik.
+Aannames in dit model: 15.000 km per jaar, verbruik 18 kWh per 100 km, dus 2.700 kWh laadverbruik per jaar.
 
-Met een vast contract op €0,27/kWh: **2.700 × €0,27 = €729/jaar** aan laadkosten thuis.
+- Vast contract à €0,27/kWh: 2.700 × €0,27 = **€729 per jaar**
+- Dynamisch contract, laden in de nachturen à gemiddeld €0,095/kWh: 2.700 × €0,095 = **€257 per jaar**
+- Verschil in dit model: **circa €470 per jaar**
 
-Met Frank Energie of Tibber dynamisch contract, slim laden van 00:00-06:00:
-- Gemiddeld nachtprijs 2026: €0,08-€0,11/kWh
-- Laadkosten: **2.700 × €0,095 = €257/jaar**
-- Besparing vs vast contract: **€472/jaar**
+Let op wat hier gebeurt: die besparing komt volledig uit het verschuiven van het tijdstip. Er is geen thuisbatterij voor nodig. Het nachttarief in dit model is een aanname — vul de gemiddelde nachtprijs van je eigen tariefblad in en de uitkomst schuift mee.
 
-Dat is puur door tijdstip te verschuiven. Geen thuisbatterij nodig.
+### Case 2: thuisbatterij van 10 kWh naast zonnepanelen
 
-### Case 2: Thuisbatterij 10 kWh + zonnepanelen + slim laden
+Aannames: 16 panelen (6,4 kWp) met een opbrengst van 5.500 kWh per jaar, eigen verbruik zonder batterij 35 procent (1.925 kWh), met een batterij van 10 kWh 65 procent, afnameprijs €0,27/kWh, round-trip rendement van de batterij 90 procent.
 
-Stel: 16 zonnepanelen (6,4 kWp), opbrengst 5.500 kWh/jaar, eigen gebruik zonder batterij 35% = 1.925 kWh, met 10 kWh batterij eigen gebruik 65% = 3.575 kWh.
+**Zolang je saldeert (tot en met 2026)** is een teruggeleverde kWh evenveel waard als een afgenomen kWh. Extra eigen verbruik levert dan dus vrijwel niets op: je verplaatst alleen waar de kWh vandaan komt. Het enige echte voordeel in 2026 zit in de terugleverkosten die veel leveranciers apart in rekening brengen — minder terugleveren betekent minder van die kosten. Dat is een bedrag van tientallen euro's, geen honderden, en het verschilt per leverancier.
 
-| Post | Zonder batterij | Met Sessy 10 kWh |
+**Vanaf 1 januari 2027 stopt de saldering volledig.** Er is geen afbouwpad: de regeling houdt in één keer op. Vanaf dat moment is elke kWh die je zelf opslaat en gebruikt het verschil waard tussen je afnameprijs en de terugleververgoeding.
+
+| Post (modelberekening, ná 2027) | Zonder batterij | Met batterij 10 kWh |
 |---|---|---|
-| Zelfconsumptie zonne-energie | 1.925 kWh | 3.575 kWh |
-| Teruggeleverd aan net | 3.575 kWh | 1.925 kWh |
-| Salderingswaarde (€0,12/kWh) | €429 | €231 |
-| Bespaarde inkoop (€0,27/kWh) | €520 | €965 |
-| **Totaal voordeel/jaar** | **€949** | **€1.196** |
-| Extra voordeel thuisbatterij | — | **€247/jaar** |
+| Eigen verbruik van zonnestroom | 1.925 kWh | 3.410 kWh (na 10% opslagverlies) |
+| Teruggeleverd | 3.575 kWh | 1.925 kWh |
+| Bespaarde inkoop à €0,27/kWh | €520 | €921 |
+| Terugleververgoeding à €0,05/kWh | €179 | €96 |
+| **Totaal voordeel per jaar** | **€699** | **€1.017** |
+| Extra voordeel van de batterij | — | **€318** |
 
-Bij €5.500 batterijkosten (excl. installatie) en €247/jaar extra besparing: terugverdientijd in dit model **22 jaar**. Dat is nu nog niet aantrekkelijk.
+Bij een Sessy van 10 kWh à €5.500 inclusief btw en exclusief installatie (opgave Charged, prijspeil augustus 2026) komt dat model uit op een terugverdientijd van **circa 17 jaar**, en langer zodra je de installatie meerekent. Dat is langer dan de gebruikelijke garantietermijn.
 
-**Maar: na de salderingsafbouw per 2027** daalt de salderingswaarde van €0,12 naar circa €0,04-€0,06/kWh. Dan schuiven de cijfers flink:
+Twee variabelen bepalen die uitkomst volledig: de terugleververgoeding die jouw leverancier na 2027 hanteert, en je afnameprijs. Loopt de vergoeding richting nul en je afnameprijs op, dan korten die jaren snel in. Vul daarom je eigen cijfers in — dit is een rekenmodel, geen voorspelling.
 
-| Post | Zonder batterij (post-2027) | Met Sessy 10 kWh (post-2027) |
-|---|---|---|
-| Salderingswaarde (€0,05/kWh) | €179 | €96 |
-| Bespaarde inkoop (€0,27/kWh) | €520 | €965 |
-| **Totaal voordeel/jaar** | **€699** | **€1.061** |
-| Extra voordeel thuisbatterij | — | **€362/jaar** |
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Sessy</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-Terugverdientijd na 2027: **17 jaar**. Beter, maar nog niet goed.
+### Case 3: de EV-accu als thuisbatterij (V2H)
 
-### Case 3: EV-accu als thuisbatterij (V2H)
+Hier wordt het rekenkundig interessant. Een EV-accu van 60 tot 80 kWh is een veelvoud van een thuisbatterij, en je hebt hem al. Zet je 30 kWh daarvan in als buffer, dan heb je drie keer zoveel opslag als een thuisbatterij van 10 kWh, zonder een tweede accu te kopen.
 
-Hier wordt het interessant. De Ioniq 5 heeft een 77 kWh accu. Als ik 40-80% van die capaciteit als thuisbatterij inzet (dus 30 kWh bruikbaar), heb ik drie keer zoveel opslagcapaciteit als een Sessy 10 kWh — zonder extra hardware.
+**De harde beperking is aanwezigheid.** Wie dagelijks forenst, heeft de auto weg tussen acht en zes — precies wanneer de zon schijnt. V2H doet dan niets voor zonneopslag.
 
-**Maar er is een harde beperking**: de auto moet thuis zijn. Werknemer die dagelijks forenst: auto 8-17 uur weg, precies als de zon schijnt. V2H werkt dan niet voor zonneopslag.
+Het werkt wél voor wie thuiswerkt, een tweede auto heeft, of de auto vooral in het weekend gebruikt.
 
-Werkt wél voor wie:
-- Thuiswerkt of auto 's avonds/nacht thuis heeft
-- Tweede auto of deelauto-gebruiker is
-- Auto primair in het weekend gebruikt
+Modelberekening voor een thuiswerkscenario waarin de auto het grootste deel van de dag aan de lader hangt, met 30 kWh beschikbare buffer:
 
-Bij thuiswerk-scenario (auto 18 van de 24 uur thuis) en 30 kWh beschikbaar:
+- Extra eigen verbruik ten opzichte van geen opslag: circa 2.800 kWh per jaar (aanname)
+- Waarde per kWh ná 2027: het verschil tussen €0,27 afname en €0,05 teruglevering = €0,22
+- Jaarlijks voordeel in dit model: circa **€615**
+- Investering: een bidirectionele lader inclusief installatie. Fabrikanten publiceren daar geen consumentenprijs voor; reken in dit model met €4.500 als aanname en vervang dat door je eigen offerte
+- Terugverdientijd in dit model: **ruim zeven jaar**
 
-- Extra zelfconsumptie vs geen opslag: +2.800 kWh/jaar
-- Besparing bij €0,27/kWh: €756/jaar
-- Kosten bidirectionele omvormer (Wallbox Quasar 2 + installatie): ±€4.500
-- Terugverdientijd: **6 jaar**
-
-Dat is de beste business case die ik in 2026 kan vinden.
+Dat is de gunstigste uitkomst van de drie cases — maar hij staat of valt met de aanname dat de auto er overdag daadwerkelijk staat. Haal die aanname weg en de business case verdwijnt mee.
 
 ---
 
-## Dynamisch contract: Frank Energie vs Tibber
+## Dynamisch contract: Frank Energie en Tibber
 
-Bij slim laden is een dynamisch contract de basis. De twee grootste spelers in Nederland:
+Bij slim laden is een dynamisch contract de basis. De twee bekendste spelers in Nederland:
 
 | | Frank Energie | Tibber |
 |---|---|---|
-| Maandkosten | €0/maand | €5,99/maand |
-| App kwaliteit | Goed, NL-gericht | Uitstekend, slimme integraties |
-| Integratie laadpalen | Beperkt | Breed (Easee, Zaptec, Wallbox) |
-| Integratie thuisbatterij | Sessy direct | Via API |
-| Laagste urenprijzen | Vergelijkbaar | Vergelijkbaar |
-| Ideaal voor | Eenvoudige setup, NL focus | Technische gebruiker, domotica |
+| Vaste kosten | niet publiek; opvragen via frankenergie.nl | €5,99 per maand per energiesoort |
+| Inkoopvergoeding | ja, plus een terugleverstaffel sinds 1 juni 2025 | €0,0248/kWh |
+| Sturing | via OCPP op de laadpaal | via auto-API of via OCPP |
+| Opzegbaarheid | zie voorwaarden leverancier | maandelijks |
 
-Mijn aanbeveling: Tibber als je een Ioniq 5 of EV6 hebt en V2H wilt. Frank als je een Sessy hebt en een eenvoudige setup wil.
+Beide rekenen dus een opslag bovenop de beursprijs; die opslag is precies het bedrag dat je van je bruto besparing moet aftrekken. Reken bij Tibber met €5,99 per maand per energiesoort plus €0,0248/kWh over je hele afname, niet alleen over je laadvolume.
 
-**Rekenvoorbeeld Tibber + slim laden:**
-Auto laadt automatisch van 01:00-05:00, gemiddeld €0,09/kWh. Zelden boven €0,15/kWh. Maandelijkse kosten: €5,99 abonnement. Bij 225 kWh laadverbruik/maand en €0,17 verschil vs vast tarief: **€38/maand besparing, minus €6 abonnement = €32/maand netto = €384/jaar**.
+**Rekenvoorbeeld met zichtbare aannames:** laad je 225 kWh per maand en verschuif je die naar uren die gemiddeld €0,17/kWh goedkoper zijn dan je oude tarief, dan is de bruto winst €38 per maand. Trek daar de vaste kosten en de inkoopvergoeding van je contract af, en houd de netto uitkomst over. Bij Tibber blijft er in dit model rond de €30 per maand over.
 
 ---
 
 ## Welke auto's ondersteunen bidirectioneel laden?
 
-In 2026 is de lijst beperkt. Dit zijn de relevante modellen voor Nederlandse kopers:
+De ondersteuning verschilt per merk, per model, per bouwjaar en soms per softwareversie. Fabrikanten voegen functies toe en halen ze weg, en importeurs bieden in Nederland niet altijd hetzelfde aan als in andere markten. Een lijst in een artikel is daarom binnen een half jaar achterhaald.
 
-**V2H-geschikt (met juiste omvormer):**
-- Hyundai Ioniq 5 (77 kWh) — meest gebruikt in NL voor V2H-pilots
-- Hyundai Ioniq 6 (77 kWh)
-- Kia EV6 (77 kWh) en EV9 (99 kWh)
-- Nissan Leaf (40 en 62 kWh) — CHAdeMO-poort vereist aparte omvormer
-- BYD Atto 3 (60 kWh) — beperkte NL-ondersteuning nog
+Wat wél stabiel is als vuistregel:
 
-**V2L (stopcontact in auto, geen omvormer nodig):**
-- Volvo EX30 — ingebouwd 3,7 kW stopcontact
-- Hyundai Ioniq 5 — ook V2L naast V2H
-- Kia EV6
+- **V2L** — een stopcontact in de auto — zit op een groeiend deel van de modellen en vraagt geen extra hardware thuis.
+- **V2H** — de auto als huisbatterij — vereist naast een geschikte auto een bidirectionele omvormer, en is in Nederland beperkt beschikbaar.
+- **V2G** — terugleveren aan het net — loopt in pilots en is voor consumenten nog geen product.
 
-**Geen bidirectioneel (2026):**
-- Tesla Model 3/Y/S/X — Elon Musk heeft V2H jarenlang afgewezen; verwacht 2027 update
-- Volkswagen ID.3/ID.4 — aankondiging gedaan, uitrol 2027
-- BMW iX/i4 — geen plannen bekend
-- Renault Megane E-Tech — V2G pilot Amsterdam, geen consumentenproduct
+Controleer vóór aanschaf bij de importeur of het exacte model en bouwjaar dat je op het oog hebt, V2H ondersteunt in de Nederlandse uitvoering — en met welke laders dat is vrijgegeven.
 
 ---
 
 ## Thuisbatterij of EV-accu: wat is goedkoper per kWh?
 
-| | Sessy 10 kWh | Marstek Venus E 8,2 kWh | Ioniq 5 (bruikbaar deel) |
-|---|---|---|---|
-| Capaciteit bruikbaar | 10 kWh | 8 kWh | 30-40 kWh |
-| Prijs hardware | €5.500 | €2.299 | Onderdeel van auto (€45k) |
-| Kosten per kWh opslag | €550/kWh | €287/kWh | n.v.t. (auto had je al) |
-| Altijd beschikbaar | Ja | Ja | Nee (auto kan weg zijn) |
-| Garantie cycli | 6.000 | 6.000 | ~2.000 (batterij slijt) |
-| Extra hardware nodig | Nee | Nee | Omvormer €2.000-€4.500 |
+| | Sessy 10 kWh | EV-accu (bruikbaar deel) |
+|---|---|---|
+| Bruikbare capaciteit | 10 kWh | 30-40 kWh, afhankelijk van de ingestelde ondergrens |
+| Prijs | €5.500 incl. btw, excl. installatie (opgave Charged, aug. 2026) | geen aparte investering — de auto had je al |
+| Altijd beschikbaar | ja | nee, alleen als de auto thuis is |
+| Cycli | 6.000+ (opgave Charged) | telt mee in de slijtage van je autoaccu |
+| Extra hardware | nee | bidirectionele omvormer |
 
-**Marstek Venus E** is de verrassende winnaar op kosten per kWh. Als je beperkt budget hebt en geen V2H wil, is dit de scherpe keuze.
+Per kWh wint de auto altijd, want die accu heb je al betaald. Maar beschikbaarheid is hier geen bijzaak: een buffer die er de helft van de tijd niet is, dekt niet dezelfde uren af.
 
-**Ioniq 5 + V2H** wint als je de auto al hebt. Dan betaal je alleen de omvormer en heb je gigantisch veel opslagcapaciteit.
-
----
-
-## Voor wie is de combinatie EV + thuisbatterij zinvol?
-
-**Ja, interessant voor:**
-- Thuiswerkers met EV die bidirectioneel laden kan (Ioniq 5, EV6)
-- Huishoudens met >10 zonnepanelen die na 2027 willen optimaliseren
-- Mensen die al een thuisbatterij overwegen én EV rijden (synergie in sturing)
-- Technische huishoudens die dynamisch contract willen combineren met automatische sturing
-
-**Nee, niet aantrekkelijk voor:**
-- Forenzen die auto dagelijks 8 uur weg hebben — V2H werkt nauwelijks
-- Huurders zonder eigen laadpaal of zonnepanelen
-- Huishoudens met <8 zonnepanelen — te weinig overschot om op te slaan
-- Wie snel wil terugverdienen — terugverdientijden van 10+ jaar zijn realistisch
+Andere merken laten wij hier bewust weg met een prijs erbij: Marstek voert inmiddels een andere productlijn dan de veelgenoemde Venus-serie en publiceert voor Nederland maar één consumentenprijs, en Huawei publiceert voor de LUNA-serie geen consumentenprijs. Prijzen die daarvoor circuleren, zijn straatprijzen van resellers en geen fabrikantsopgave.
 
 ---
 
-## Drie concrete setups met prijzen
+## Voor wie is de combinatie zinvol?
 
-### Setup 1: Starter — slim laden zonder batterij
+**Wel interessant voor:**
 
-**Hardware:**
-- Easee Home laadpaal 11 kW: €899 incl. installatie
-- Frank Energie of Tibber abonnement
+- thuiswerkers met een auto die V2H ondersteunt
+- huishoudens met een fors dakvermogen die zich op het einde van de saldering voorbereiden
+- wie toch al een thuisbatterij overweegt én elektrisch rijdt, zodat de sturing in één systeem komt
+- huishoudens die een dynamisch contract willen combineren met automatische sturing
 
-**Jaarlijkse besparing** (15.000 km): €350-€450 vs vast contract  
-**Terugverdientijd**: 2 jaar  
-**Voor wie**: iedereen met eigen oprit die nu op vast tarief laadt
+**Niet interessant voor:**
 
-### Setup 2: Compleet — zonnepanelen + thuisbatterij + slim laden
-
-**Hardware:**
-- 16 zonnepanelen (6,4 kWp): €6.000
-- Sessy 10 kWh thuisbatterij: €5.500 (incl. btw, excl. installatie, prijspeil aug 2026)
-- Easee Home 11 kW laadpaal: €899
-- Totaal: **€12.399**
-
-**Jaarlijkse besparing** (incl. EV laden): €1.400-€1.700  
-**Terugverdientijd**: 8-9 jaar (verbetert na salderings-stop 2027)  
-**Voor wie**: eigen woning met geschikte dakoppervlak, EV in huis
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy thuisbatterij</a>
-
-### Setup 3: Geavanceerd — V2H met Ioniq 5
-
-**Hardware:**
-- 16 zonnepanelen (6,4 kWp): €6.000
-- Wallbox Quasar 2 bidirectionele laadpaal: €2.200 + installatie €1.300 = €3.500
-- Eventueel kleinere thuisbatterij Marstek 8,2 kWh: €2.299
-
-**Totaal**: €11.799 (of €9.500 zonder Marstek)  
-**Jaarlijkse besparing**: €1.600-€2.100 (afhankelijk van rijgedrag)  
-**Terugverdientijd**: 5-7 jaar  
-**Voor wie**: Ioniq 5 of EV6 rijder, thuiswerker, technisch ingesteld
-
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek Venus E</a>
+- forenzen die de auto overdag weg hebben — V2H doet dan niets
+- huurders zonder eigen laadpunt of panelen
+- huishoudens met een klein dakvermogen: te weinig overschot om op te slaan
+- wie snel wil terugverdienen; in onze modellen liggen de terugverdientijden ruim boven de tien jaar
 
 ---
 
-## Praktische stappen: hoe begin je?
+## Drie setups, en waar het geld zit
 
-**Stap 1: Controleer je laadsituatie**
-Heb je nu een vaste laadpaal of laad je via een schuko-adapter? Een 11 kW laadpaal is de basis voor alle verdere optimalisatie. Zonder dat heeft slim laden weinig zin.
+### Setup 1: alleen slim laden
 
-**Stap 2: Bekijk je rijgedrag**
-Hoe ver rijd je per dag? Wanneer is de auto thuis? Dit bepaalt of V2H realistisch is. Gebruik je laadapp-history of de auto-app om dit te bekijken.
+Een laadpaal met sturing plus een dynamisch contract. Geen batterij. Dit is de setup met veruit de kortste terugverdientijd, omdat de besparing volledig uit tijdverschuiving komt en niet uit hardware.
 
-**Stap 3: Kies een dynamisch contract**
-Schakel over naar Frank Energie of Tibber vóórdat je hardware koopt. De besparing is direct en vraagt geen installatie. Test de app en de prijs-inzichten een maand.
+### Setup 2: zonnepanelen, thuisbatterij en slim laden
 
-**Stap 4: Bereken je zonne-opbrengst**
-Gebruik je Omnik/SolarEdge/Enphase app om te zien hoeveel je terugleverde in de afgelopen 12 maanden. Is dat meer dan 2.000 kWh? Dan wordt een thuisbatterij interessanter.
+Panelen, een thuisbatterij en een laadpaal met sturing. Reken deze setup door met de tabel uit case 2 en met je eigen offertes. Houd er rekening mee dat de batterij 21 procent btw draagt: het 0%-tarief geldt alleen voor zonnepanelen en wat direct nodig is om die te laten werken.
 
-**Stap 5: Overweeg thuisbatterij óf V2H**
-- Auto is Ioniq 5/EV6 en je werkt thuis? Ga voor V2H-onderzoek.
-- Auto is Tesla/ID.3? Investeer in een reguliere thuisbatterij.
-- Geen EV of overweeg binnenkort te kopen? Wacht tot de EV-keuze duidelijk is.
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Zonneplan</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-**Stap 6: Check subsidies**
-Vraag je gemeente naar regelingen voor een laadpaal en/of thuisbatterij; landelijk is er voor thuisbatterijen geen ISDE-subsidie. Reken op je offerte met 21% btw op de batterij — het nultarief voor zonnepanelen dekt de accu niet.
+### Setup 3: V2H
+
+Panelen plus een bidirectionele lader, en de auto als buffer. Rekenkundig de gunstigste van de drie in ons model, maar met de zwaarste aanname: de auto moet er overdag staan. Vraag hier altijd een offerte inclusief installatie op; consumentenprijzen worden voor deze laders niet gepubliceerd.
 
 ---
 
-## Wat verandert er na de salderings-stop in 2027?
+## Praktische stappen
 
-Per 1 januari 2027 verdwijnt de saldering. Zonne-energie die je teruggeeft aan het net levert dan nog maar circa €0,04-€0,07/kWh op (de teruglevertarieven van energieleveranciers), versus de inkooprijs van €0,27/kWh.
+**Stap 1: controleer je laadsituatie.** Laad je via een vaste laadpaal of via een adapter op een gewoon stopcontact? Een vaste laadpaal met sturing is de basis voor alle verdere optimalisatie.
 
-Dat maakt opslag — in thuisbatterij of EV-accu — ineens veel waardevoller. De business case voor de combinatie verbetert aanzienlijk:
+**Stap 2: bekijk je rijgedrag.** Hoe ver rijd je per dag, en wanneer staat de auto thuis? Dit bepaalt of V2H realistisch is. Je laadapp of auto-app laat dat zien.
 
-| Situatie | Extra jaarwaarde thuisbatterij 10 kWh |
+**Stap 3: kies eerst een dynamisch contract.** Doe dat vóórdat je hardware koopt. De besparing is direct en vraagt geen installatie.
+
+**Stap 4: bereken je zonne-overschot.** Kijk in je omvormer-app hoeveel je de afgelopen twaalf maanden hebt teruggeleverd. Hoe hoger dat getal, hoe meer een batterij kan opvangen.
+
+**Stap 5: kies tussen een thuisbatterij en V2H.** Staat de auto overdag thuis en ondersteunt hij V2H, dan is dat de goedkoopste opslag die je hebt. Zo niet, dan is een thuisbatterij de enige route.
+
+**Stap 6: check lokale regelingen.** Landelijk is er geen ISDE voor thuisbatterijen, zonnepanelen of laadpalen. Gemeentelijke en provinciale regelingen bestaan wel; check de subsidiechecker van je eigen gemeente en vraag aan vóór de installatie.
+
+---
+
+## Wat verandert er na 1 januari 2027?
+
+Per 1 januari 2027 stopt de saldering volledig. Er is geen stapsgewijze afbouw: het wetsvoorstel met een afbouwpad is verworpen, de regeling houdt in één keer op.
+
+Wat dat betekent: teruggeleverde stroom levert vanaf dat moment de terugleververgoeding van je leverancier op — een fractie van wat je voor afname betaalt. Elke kWh die je zelf opslaat en gebruikt, wordt daarmee het verschil tussen die twee waard.
+
+| Situatie | Waarde van een extra zelf verbruikte kWh |
 |---|---|
-| Vóór 2027 (saldering) | €200-€300/jaar |
-| Na 2027 (geen saldering) | €400-€600/jaar |
+| Tot en met 2026 (saldering) | vrijwel nul, behalve besparing op terugleverkosten |
+| Vanaf 2027 | afnameprijs min terugleververgoeding |
 
-Wie nu een thuisbatterij koopt, zit goed gepositioneerd voor die omschakeling. De hardware staat er al en de terugverdientijd halveert effectief na 2027.
-
----
-
-## Wettelijk kader 2026: subsidies en regels voor EV + thuisbatterij
-
-**Geen ISDE voor een thuisbatterij:** de ISDE voor woningeigenaren dekt volgens RVO uitsluitend isolatie, ventilatie (in combinatie met isolatie), (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Thuisbatterijen, zonnepanelen en laadpalen staan er niet in. Wat er soms wel is: een gemeentelijke of provinciale regeling — die verschilt per gemeente en vraag je aan vóór de installatie.
-
-**Laadpaal-subsidie:** een landelijke subsidieregeling voor een thuislaadpaal bij een koopwoning is er niet. Wel hebben diverse gemeenten en provincies een eigen regeling, met bedragen die per gemeente verschillen. Check de actuele regeling van je eigen gemeente vóór je een opdracht geeft, en ga niet uit van een rijksbijdrage.
-
-**Btw op een thuisbatterij: 21%.** Het 0%-tarief voor zonnepanelen dekt volgens de Belastingdienst de panelen plus wat direct nodig is om ze te laten werken (kabels, montagemateriaal, optimizers, omvormers, aanpassingen aan meterkast en dak). De levering en installatie van een accupakket of thuisbatterij valt daar uitdrukkelijk buiten en houdt 21% btw — ook bij aanschaf samen met panelen. Alleen wie als btw-ondernemer stroom teruglevert kan die btw in specifieke gevallen terugvragen; de voorwaarden, waaronder een energiemanagementsysteem en een dynamisch contract, staan op belastingdienst.nl.
-
-**V2G in Nederland:** Vehicle-to-Grid (energie verkopen aan het net vanuit je EV-accu) is in Nederland wettelijk toegestaan maar in de praktijk pas beschikbaar via pilots in Utrecht en Groningen. Netbeheerders Liander en Stedin werken aan generieke terugleversystemen voor EV's, verwacht 2027-2028.
-
-**Bijdrage nettarief teruglevering:** Wie meer dan 2.500 kWh per jaar teruglevert (via zonnepanelen of V2H), betaalt vanaf april 2026 een beperkte nettarief-toeslag. Voor thuisbatterij-eigenaren verandert dit weinig; voor V2H-gebruikers met grote accu's kan dit €30-€80/jaar extra kosten.
+Wie nu een thuisbatterij koopt, koopt die dus vooral voor de jaren daarna. Dat is een legitieme afweging — maar reken de terugverdientijd door vanaf 2027, niet vanaf vandaag.
 
 ---
 
-## Veelgemaakte fouten bij EV laden + thuisbatterij
+## Wettelijk kader 2026
 
-**Fout 1: Thuisbatterij en auto allebei 's avonds laden**
-Dit is de meest voorkomende fout. Als de thuisbatterij 's avonds de auto laadt, trekt de auto de batterij leeg — en dan laadt de batterij 's nachts opnieuw op via het net op een uur dat wellicht duurder is. Los van stroom de laadtijden: laat de auto direct 's nachts laden via de laadpaal, de thuisbatterij doet het huis.
+**Geen ISDE voor een thuisbatterij.** De ISDE voor woningeigenaren dekt volgens RVO uitsluitend isolatie, ventilatie in combinatie met isolatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Thuisbatterijen, zonnepanelen en laadpalen staan er niet in.
 
-**Fout 2: Bidirectionele laadpaal kopen zonder V2H-geschikte auto**
-Een Wallbox Quasar 2 kost €2.200 + installatie. Als je een Tesla of Volkswagen rijdt — beide zonder V2H in 2026 — heb je een dure laadpaal die zijn beste feature nooit kan gebruiken. Controleer altijd eerst of je auto V2H ondersteunt.
+**Geen landelijke laadpaalsubsidie.** Voor een thuislaadpaal bij een koopwoning is er geen rijksregeling. Gemeentelijke en provinciale regelingen verschillen sterk; check de subsidiechecker van je eigen gemeente vóór je opdracht geeft.
 
-**Fout 3: De SoC (State of Charge) van de auto niet bewaken**
-V2H onttrekkt vermogen aan je auto-accu. Als je 's avonds 5 kWh uit de auto trekt maar de volgende ochtend 80 km moet rijden, heb je een probleem. Stel altijd een minimale auto-SoC in (bijv. 30%) voordat V2H mag ontladen.
+**Btw op een thuisbatterij: 21 procent.** Het 0%-tarief geldt volgens de Belastingdienst voor zonnepanelen plus wat direct nodig is om die te laten werken — kabels, montagemateriaal, optimizers, omvormers en aanpassingen aan meterkast en dak. Een accupakket valt daar uitdrukkelijk buiten en houdt 21 procent btw, ook bij gelijktijdige aanschaf met panelen.
 
-**Fout 4: Rekenen zonder omzettingsverliezen**
-Laden-ontladen heeft altijd verliezen. Een LiFePO4-batterij (thuisbatterij) heeft 92-95% round-trip efficiency. Een EV-accu via V2H heeft door de extra omzettingsstap soms maar 80-85% efficiency. Dat betekent dat je voor elke 1 kWh die je gebruikt, 1,05-1,25 kWh moet invoeren. Vergeet dit niet in je berekening.
-
-**Fout 5: Geen dynamisch contract nemen**
-Dit is bijna de enige echt grote fout. Wie investeert in een thuisbatterij en EV-laadpaal maar op een vast energiecontract blijft, verdient de investering nooit terug op het voorziene tijdstip. De besparing van een dynamisch contract (€300-€500/jaar) is de meest directe opbrengst.
+**V2G.** Terugleveren aan het net vanuit een auto-accu loopt in Nederland via pilots en is nog geen breed beschikbaar consumentenproduct. Netbeheerders werken aan generieke voorzieningen; een datum daarvoor is niet vastgesteld.
 
 ---
 
-## Vergelijking: Sessy vs Marstek Venus E vs Huawei Luna voor EV-kombinaties
+## Veelgemaakte fouten
 
-Voor wie twijfelt welke thuisbatterij het beste werkt naast een EV-laadpaal:
+**Fout 1: thuisbatterij en auto allebei 's avonds laden.** Trekt de auto 's avonds de batterij leeg, dan laadt die batterij 's nachts opnieuw uit het net — met omzetverliezen erbij. Scheid de taken: de auto laadt direct uit het net in het goedkope venster, de batterij voedt het huis.
 
-| | Sessy 10 kWh | Marstek Venus E 8,2 kWh | Huawei Luna 2000 10 kWh |
-|---|---|---|---|
-| Prijs (incl. btw) | €5.500 | €2.299 | ~€5.500 |
-| Rijkssubsidie | Geen | Geen | Geen |
-| Prijs na subsidie | **€5.500** | **€2.299** | **~€5.500** |
-| EV-integratie | Eigen app, beperkt | Via Home Assistant | Tibber/Zonneplan direct |
-| V2H-ondersteuning | Nee | Nee | Nee (batterij-kant) |
-| Laadpaal-sturing | Ja (Sessy-app) | Via HA | Ja (FusionSolar + Tibber) |
-| Smart arbitrage | Ja | Via HA | Ja, native |
-| Garantie | 10 jaar | 10 jaar | 10 jaar |
-| Cycluslevensduur | 6.000 | 6.000 | 6.000 |
+**Fout 2: een bidirectionele lader kopen zonder V2H-geschikte auto.** Controleer eerst bij de importeur of jouw exacte model en bouwjaar het in de Nederlandse uitvoering ondersteunt, en met welke laders dat is vrijgegeven.
 
-**Voor EV-combinaties in 2026:** Huawei Luna 2000 wint op integratiemogelijkheden, Marstek wint op prijs per kWh.
+**Fout 3: de laadtoestand van de auto niet bewaken.** V2H onttrekt vermogen aan je autoaccu. Stel altijd een ondergrens in, zodat je 's ochtends nog kunt rijden.
+
+**Fout 4: rekenen zonder omzetverliezen.** Laden en ontladen kost rendement. Bij LFP-thuisbatterijen ligt het round-trip rendement volgens de specificaties doorgaans rond de 90 procent; via een bidirectionele lader komt er een extra omzetstap bij en ligt het lager. Reken daarmee, anders komt je model structureel te gunstig uit.
+
+**Fout 5: geen dynamisch contract nemen.** Dit is de duurste fout, omdat het de goedkoopste winst is. Wie investeert in batterij en laadpaal maar op een vast contract blijft, laat het grootste deel van het effect liggen.
 
 ---
 
 ## Conclusie
 
-Laat ik eerlijk zijn: de combinatie EV + thuisbatterij is in 2026 nog geen no-brainer. De terugverdientijden zijn lang als je alles nieuw koopt.
+De combinatie EV plus thuisbatterij is in 2026 geen vanzelfsprekende investering. In onze modellen liggen de terugverdientijden van een losse thuisbatterij ruim boven de vijftien jaar, ook ná het einde van de saldering.
 
-Maar er zijn drie gevallen waar het nú al loont:
+Wat wél opgaat:
 
-1. **Slim laden via dynamisch contract** — geen hardware nodig, besparing direct
-2. **V2H met Ioniq 5/EV6** als je de auto al hebt en thuis werkt — lage extra investeringskosten
-3. **Thuisbatterij + zonnepanelen** als voorbereiding op de salderings-stop in 2027
+1. **Slim laden op een dynamisch contract** — geen hardware nodig, effect direct, en het is de basis onder alle andere stappen.
+2. **V2H** als je auto het ondersteunt én overdag thuisstaat — dan gebruik je opslag waarvoor je al betaald hebt.
+3. **Een thuisbatterij** als bewuste voorbereiding op de jaren ná 2027, met de terugverdientijd doorgerekend vanaf dat moment.
 
-Wat ik mijn klanten aanraad: begin met stap 1 (dynamisch contract + slim laden). Dat kost niets en levert €300-€450/jaar op. Overweeg daarna stap 2 of 3 op basis van je specifieke situatie.
-
-En als je een Ioniq 5 of EV6 wilt kopen: de bidirectionele functie is gratis meegeleverd. Gebruik hem.
+Begin bij stap 1. Die kost niets en maakt de rest van de rekensom pas zinvol.
 
 ---
-
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 ## Gerelateerde artikelen
 
 - [Beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/)
-- [Sessy review: thuisbatterij getest in de praktijk](/posts/sessy-review-thuisbatterij-nederland/)
-- [Marstek Venus E review](/posts/marstek-venus-review-thuisbatterij/)
+- [Sessy review thuisbatterij Nederland](/posts/sessy-review-thuisbatterij-nederland/)
+- [Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/)
 - [Saldering stopt 2027: wat moet je nu doen?](/posts/saldering-stopt-2027-volledige-gids/)
 - [Thuisbatterij terugverdientijd berekenen](/posts/thuisbatterij-terugverdientijd-berekenen-2026/)
 - [Thuisbatterij subsidie 2026: volledig overzicht](/posts/thuisbatterij-subsidie-2026-overzicht/)

@@ -1,9 +1,9 @@
 ---
 title: SolarEdge Omvormer + Dynamisch Contract 2026
 date: 2026-10-18 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
-description: "SolarEdge omvormer combineren met dynamisch contract (Tibber/Frank)? Tijdgestuurd laden, peak shaving en smart EV. Voor wie loont het wel — en niet."
+description: "SolarEdge omvormer combineren met een dynamisch contract (Tibber of Frank Energie)? Tijdgestuurd laden, peak shaving en smart EV — en voor wie de meerprijs zich niet terugverdient."
 categories:
 - zonnepanelen
 tags:
@@ -24,199 +24,194 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1559302504-64aae6ca6b6d&w=1200&output=webp&q=70
 faq:
 - q: Werkt SolarEdge automatisch samen met Tibber?
-  a: 'Via de mySolarEdge-app kun je tijdgestuurde profielen instellen, maar er is geen native Tibber-koppeling. Voor automatisch laden/ontladen op basis van Tibber-prijzen heb je Home Assistant + Pulse nodig, of de SolarEdge Energy Bank met EnergyHub.'
+  a: 'Nee, er is geen native Tibber-knop in de mySolarEdge-app. Wat wél kan: tijdgestuurde profielen handmatig instellen, of sturen via het betaalde SolarEdge-cloudabonnement, of Home Assistant als tussenlaag gebruiken die de prijzen ophaalt en de omvormer via Modbus aanstuurt. Die laatste route is de populairste onder gebruikers die het zelf inrichten.'
 - q: Wat kost een SolarEdge-omvormer in 2026?
-  a: 'Een SolarEdge HD-Wave 5kW kost €1.800-€2.200 inclusief optimizers (~€55 per paneel). Voor 12 panelen kom je dus op €2.450-€2.860 alleen voor omvormer + optimizers — €700-€1.000 duurder dan een vergelijkbare Huawei of Enphase.'
-- q: Is SolarEdge Home Battery beter dan Sessy of Marstek voor dynamisch?
-  a: 'SolarEdge Home Battery integreert naadloos met de eigen omvormer (DC-gekoppeld, hoger rendement) maar mist Sessy''s sterke handelsalgoritme. Voor pure dynamische winst: Sessy. Voor systeem-eenheid en peak shaving: SolarEdge.'
+  a: 'SolarEdge publiceert geen consumentenprijzen; het merk wordt via installateurs en groothandels verkocht en de straatprijs verschilt per kanaal en per week. Wat structureel geldt: een SolarEdge-set met optimizers per paneel ligt boven een vergelijkbare string-omvormer zonder optimizers, omdat je per paneel hardware bijkoopt. Vraag drie offertes met dezelfde paneelconfiguratie en vergelijk die.'
+- q: Is de SolarEdge Home Battery beter dan een losse thuisbatterij voor dynamisch laden?
+  a: 'Ze doen iets anders. De SolarEdge-batterij is DC-gekoppeld aan de eigen omvormer, wat één omzetstap scheelt en de installatie tot één systeem met één garantieloket maakt. Losse batterijen zijn AC-gekoppeld en daarmee merkonafhankelijk, wat meer keuzevrijheid geeft in de sturing. Wil je één pakket van één merk, dan is SolarEdge logisch; wil je vrij blijven, dan niet.'
 - q: Wat is peak shaving precies?
-  a: 'Peak shaving = het afvlakken van je piekafname van het net. Bij dynamisch contract met hoge ochtend- en avondpieken (€0,60-€0,90/kWh) laat de batterij die uren overbruggen, zodat je alleen het lage tarief afneemt. Bespaart €300-€600/jaar bij 8000+ kWh verbruik.'
+  a: 'Peak shaving is het afvlakken van je piekafname uit het net. Bij een dynamisch contract met dure ochtend- en avonduren laat je de batterij die uren overbruggen, zodat je alleen in de goedkope uren afneemt. Wat het oplevert is je afgevlakte kWh × het prijsverschil tussen piek en dal; dat verschilt per dag en per seizoen, en laat zich niet in één jaarbedrag vangen.'
 - q: Werkt SolarEdge met Home Assistant?
-  a: 'Ja, via Modbus TCP of de officiële SolarEdge integration. Werkt prima voor monitoring; voor sturen heb je de SolarEdge Energy Manager API nodig — die heeft een abonnementsvereiste van €4-€8 per maand sinds 2024.'
+  a: 'Ja, via Modbus TCP of via de officiële SolarEdge-integratie. Voor monitoring werkt dat goed. Voor sturen op prijs heb je ofwel de lokale Modbus-route ofwel het betaalde SolarEdge-cloudabonnement nodig; de actuele prijs en voorwaarden daarvan staan op solaredge.com.'
 - q: Kun je een dynamisch contract op een bestaande SolarEdge gebruiken?
-  a: 'Ja, elke omvormer kan met een dynamisch contract — maar de winst zit in sturing (laden/ontladen op prijs). Zonder batterij scheelt het hooguit dat je wasmachine en EV op goedkope uren draait; daar heb je geen SolarEdge voor nodig.'
+  a: 'Ja, elke omvormer werkt met een dynamisch contract — je omvormer bepaalt niet je tariefvorm. De winst zit in sturing: laden en ontladen op prijs. Zonder batterij blijft alleen het verschuiven van wasmachine, droger en EV-laden over, en daar heb je geen SolarEdge voor nodig.'
 - q: 'Heeft het zin als ik nog saldering heb?'
-  a: 'Nee, niet financieel. Tot 1 januari 2027 krijg je voor teruglevering hetzelfde tarief als afname, dus de batterij-arbitrage is verlies (rendementsverlies + slijtage). Wacht met de batterij tot ná saldering, of koop nu de omvormer en voeg later de batterij toe. Ons overzicht [dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/) gaat hier dieper op in.'
-products:
-- name: Tibber dynamisch contract
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '0'
-- name: Frank Energie
-  url: https://go.duurzaamthuislab.nl/frank-energie
-  price: '0'
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '5995'
-- name: Zonneplan zonnepanelen
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '6995'
+  a: 'Financieel niet. Tot 1 januari 2027 krijg je voor teruglevering hetzelfde tarief als voor afname, dus batterij-arbitrage kost je per saldo rendement en cyclusslijtage. De saldering stopt daarna volledig, zonder afbouwpad. Overweeg dus de omvormer nu en de batterij vanaf het moment dat teruglevering minder waard wordt. Ons overzicht [dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/) gaat hier dieper op in.'
 schema_type: Article
-last_updated: '2026-10-18'
+last_updated: '2026-08-21'
 category: zonnepanelen
 ---
 
-Een veelvoorkomende situatie: 14 panelen op het zuiddak, een SolarEdge HD-Wave-omvormer en een dynamisch contract — en toch een besparing die rond de €280 per jaar blijft hangen. Leg de mySolarEdge-productiecurve naast de uurtarieven en het patroon is meteen duidelijk: de omvormer levert keurig terug rond 13:00, precies wanneer de beursprijs op zijn laagst is, terwijl de EV om 18:30 laadt tegen het duurste tarief van de dag. Het gat zit niet in de hardware maar in de instellingen.
+Een veelvoorkomende situatie: veertien panelen op het zuiddak, een SolarEdge-omvormer en een dynamisch contract — en toch een besparing die achterblijft bij de verwachting. Leg de productiecurve naast de uurtarieven en het patroon is meteen zichtbaar: de omvormer levert keurig terug rond het middaguur, precies wanneer de beursprijs op zijn laagst staat, terwijl de EV in de avondspits laadt tegen het duurste tarief van de dag. Het gat zit niet in de hardware maar in de instellingen.
 
-*Disclosure: wij hebben geen affiliate- of commissierelatie met Tibber, Frank Energie, Sessy of Zonneplan (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Dat verandert niets aan ons advies: wij beschrijven wat volgens de documentatie en de gebruikerspraktijk werkt, niet wat het meeste oplevert.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Tibber, Frank Energie, Sessy of Zonneplan (stand augustus 2026); de links naar deze partijen zijn gewone verwijzingen en wij ontvangen daar geen vergoeding voor. Wij hebben deze systemen niet zelf geïnstalleerd of doorgemeten: dit artikel is gebaseerd op fabrikantendocumentatie, publieke marktdata en narekenbare modellen.*
 
 ---
 
-> **Kort antwoord:** SolarEdge + dynamisch contract loont bij 8000+ kWh/jaar verbruik + EV of warmtepomp; bij minder verbruik betaal je de meerprijs niet terug.
+> **Kort antwoord:** SolarEdge plus een dynamisch contract loont bij een fors jaarverbruik in combinatie met een EV of warmtepomp. Bij een klein verbruik verdien je de meerprijs van optimizers per paneel niet terug.
+>
+> En de belangrijkste nuance: zolang je saldeert, levert batterij-arbitrage niets op. De rekensom verandert pas zodra de saldering per 1 januari 2027 stopt.
 
 ## Waarom SolarEdge populair is bij dynamisch-contract-gebruikers
 
-SolarEdge heeft één eigenschap die bij dynamisch contract goud waard is: power optimizers per paneel. Elk paneel heeft zijn eigen MPPT-tracker, wat betekent dat schaduw op één paneel niet de hele string platlegt. Voor een Hilversumse rijtjeswoning met een schoorsteen of een boom is dat het verschil tussen 4.200 en 5.100 kWh per jaar opbrengst — die 900 kWh is bij €0,28 gemiddeld zo'n €250 per jaar.
+SolarEdge heeft één eigenschap die bij een dynamisch contract goed uitpakt: power optimizers per paneel. Elk paneel heeft zijn eigen MPPT-tracker, wat betekent dat schaduw op één paneel niet de hele string platlegt.
 
-Maar er is een tweede reden waarom mensen met Tibber of Frank Energie juist voor SolarEdge kiezen: het ecosysteem. SolarEdge maakt niet alleen omvormers maar ook batterijen (Home Battery 10kWh), EV-laders (Home EV-charger 11kW) en de EnergyHub die alles aanstuurt. Voor wie tijdgestuurd wil laden op basis van een dynamisch tarief is dat één app, één installatie, één garantieloket.
+Wat dat waard is, laat zich als volgt uitrekenen: het verschil in jaaropbrengst tussen mét en zonder optimizers, maal je gemiddelde kWh-waarde. Bij een rijtjeswoning met een schoorsteen of een boom die een deel van de dag schaduw geeft, kan dat verschil in de orde van enkele honderden kWh per jaar liggen. Laat je installateur dat verschil voor jouw dak doorrekenen met een schaduwsimulatie — dat is de enige manier om te weten of de meerprijs zinvol is.
 
-SolarEdge en Huawei domineren het Nederlandse segment van installaties met twaalf panelen of meer; Enphase volgt op afstand. Dat betekent dat de vraag "werkt mijn omvormer samen met een dynamisch contract" voor de meeste huishoudens neerkomt op deze twee merken. Een vergelijking met de alternatieven vind je in ons [overzicht van de beste omvormers voor 2026](/posts/beste-omvormer-zonnepanelen-2026/) en in de directe [Huawei vs SolarEdge vergelijking](/posts/huawei-vs-solaredge-omvormer-2026/).
+De tweede reden is het ecosysteem. SolarEdge maakt niet alleen omvormers maar ook batterijen, EV-laders en de hub die alles aanstuurt. Voor wie op tarief wil sturen, betekent dat één app, één installatie en één garantieloket.
+
+SolarEdge en Huawei zijn samen goed voor een groot deel van het Nederlandse segment van installaties met twaalf panelen of meer. Een vergelijking met de alternatieven staat in ons [overzicht van de beste omvormers voor 2026](/posts/beste-omvormer-zonnepanelen-2026/) en in de directe [Huawei vs SolarEdge vergelijking](/posts/huawei-vs-solaredge-omvormer-2026/).
 
 ## Hoe werkt de integratie met Tibber en Frank Energie?
 
-Eerst een misverstand uit de wereld helpen: **SolarEdge heeft geen native koppeling met Tibber of Frank Energie**. Wie verwacht dat hij in de mySolarEdge-app op een Tibber-knop drukt en klaar is, komt bedrogen uit. De integratie verloopt op drie manieren:
+Eerst een misverstand uit de wereld helpen: **SolarEdge heeft geen native koppeling met Tibber of Frank Energie**. Wie verwacht dat hij in de app op een knop drukt en klaar is, komt bedrogen uit. De integratie verloopt op drie manieren:
 
-1. **Handmatige tijdprofielen in mySolarEdge** — je stelt zelf in welke uren de batterij laadt of ontlaadt. Werkt prima als je tarieven redelijk voorspelbaar zijn (nacht goedkoop, avondspits duur).
-2. **SolarEdge Energy Manager met dynamisch profiel** — sinds firmware 4.18 (2024) kan de EnergyHub via een API priceforecast-data ophalen. Maar: je hebt een SolarEdge ONE-abonnement nodig (€4,99/maand) en de prijzen-API werkt alleen met geselecteerde leveranciers — Tibber wél, Frank Energie pas sinds september 2025.
-3. **Home Assistant als middleman** — de populairste route. Je trekt Tibber-prijzen via de officiële HA-integratie binnen, schrijft die naar de SolarEdge Modbus-registers, en de omvormer doet de rest.
+1. **Handmatige tijdprofielen in mySolarEdge** — je stelt zelf in welke uren de batterij laadt of ontlaadt. Werkt prima zolang je tariefpatroon voorspelbaar is: nacht goedkoop, avondspits duur.
+2. **Het betaalde SolarEdge-cloudabonnement** — daarmee kan de hub prijsdata ophalen en daarop sturen. De ondersteunde leveranciers en de actuele prijs van dat abonnement staan op solaredge.com; controleer dat vóór je erop rekent, want die lijst verandert.
+3. **Home Assistant als tussenlaag** — de populairste route onder gebruikers die het zelf inrichten. Je haalt de prijzen binnen via de integratie van je leverancier, schrijft die naar de SolarEdge Modbus-registers, en de omvormer doet de rest.
 
-Frank Energie heeft sinds 2025 een open API waarmee dezelfde routes mogelijk zijn. In de praktijk werken Tibber-klanten vaker direct via de SolarEdge ONE-cloud (omdat Tibber Pulse de communicatie versimpelt), terwijl Frank Energie-klanten meestal de Home Assistant route nemen. Welke leverancier voor jou voordeliger is leggen wij uit in [Frank Energie vs Tibber](/posts/frank-energie-vs-tibber-2026/) en het uitgebreide [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/).
+In de praktijk kiezen mensen die zelf willen tinkeren voor route 3, en mensen die het uit handen willen geven voor route 2. Welke leverancier voor jou voordeliger is, leggen wij uit in [Frank Energie vs Tibber](/posts/frank-energie-vs-tibber-2026/) en het uitgebreide [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/).
 
-<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Tibber</a>
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Tibber</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-## Tijdgestuurd laden via SetApp en mySolarEdge
+## Tijdgestuurd laden via mySolarEdge
 
-SetApp is de installateurs-app van SolarEdge — die zie je waarschijnlijk nooit, tenzij je zelf je systeem onderhoudt. mySolarEdge is de consumenten-app, en daar gebeurt het werk. Open de app, ga naar **Batterij** → **Werkmodus** → **Aangepast schema**. Daar kun je vier tijdvensters per dag instellen met drie opties:
+SetApp is de installateursapp van SolarEdge — die zie je waarschijnlijk nooit. mySolarEdge is de consumentenapp, en daar gebeurt het werk. Onder **Batterij** → **Werkmodus** → **Aangepast schema** stel je tijdvensters in met drie opties:
 
-- **Maximize self-consumption** — standaardmodus, batterij laadt uit zon
+- **Maximize self-consumption** — standaardmodus, de batterij laadt uit zon
 - **Time of Use** — handmatige tijdsturing op tarief
-- **Charge from grid** — actief laden uit het net (alleen toegestaan bij dynamisch contract sinds 2023)
+- **Charge from grid** — actief laden uit het net
 
-Een werkbare indeling in vier vensters, gebaseerd op de gemiddelde Nederlandse uurprijscurve van de laatste maanden:
+Een werkbare indeling in vier vensters, als startpunt:
 
 | Uur | Modus | Reden |
 |---|---|---|
-| 00:00-06:00 | Charge from grid (60%) | Nachttarief ~€0,12/kWh |
-| 06:00-11:00 | Maximize self-consumption | Ochtendzon, eigenverbruik |
-| 11:00-15:00 | Maximize self-consumption | Piekproductie, terugleveren |
-| 15:00-22:00 | Discharge to load | Avondspits ~€0,55/kWh |
+| 00:00-06:00 | Charge from grid | Nachttarief is doorgaans het laagst |
+| 06:00-11:00 | Maximize self-consumption | Ochtendzon, eigen verbruik |
+| 11:00-15:00 | Maximize self-consumption | Piekproductie |
+| 15:00-22:00 | Discharge to load | Avondspits |
 
-Resultaat na 6 weken: gemiddelde inkoopprijs daalde van €0,31 naar €0,19 per kWh. Bij 7.800 kWh netto-afname per jaar (na zonneproductie) is dat €936 besparing — voor 30 minuten instelwerk.
+**Wat dat oplevert, is een rekensom en geen belofte.** De rekenregel: je netto-afname in kWh × het verschil tussen je gemiddelde inkoopprijs vóór en ná het instellen van de vensters. Daalt je gemiddelde inkoopprijs bijvoorbeeld met tien cent per kWh over een netto-afname van 4.000 kWh, dan is dat €400 per jaar. Vul je eigen afname en je eigen tariefblad in; de uitkomst verschilt sterk per huishouden en per seizoen.
 
-Wil je zelf zo'n schema bouwen? Ons [rekenmodel voor dynamisch contract met batterij](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/) helpt je de optimale percentages bepalen op basis van je verbruik en EPEX-spreads.
+Wil je zelf zo'n schema bouwen? Ons [rekenmodel voor dynamisch contract met batterij](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/) helpt bij het bepalen van de vensters op basis van je verbruik en de EPEX-spreads.
 
-## SolarEdge Home Battery + peak shaving
+## SolarEdge Home Battery en peak shaving
 
-De SolarEdge Home Battery (officieel: Energy Bank) komt in twee maten: 10 kWh (€5.400 incl. installatie) en 20 kWh (€9.200). DC-gekoppeld aan de omvormer betekent: één conversie van DC naar AC bij ontladen in plaats van twee bij AC-gekoppelde batterijen. Rondloop-rendement is daardoor 94-95% tegen 88-90% bij Sessy of Marstek — bij 4.000 kWh batterijdoorzet per jaar is dat 200 kWh extra benutting, ofwel €60-€100 per jaar.
+De SolarEdge-thuisbatterij is DC-gekoppeld aan de eigen omvormer. Dat betekent dat er bij ontladen één omzetstap minder nodig is dan bij een AC-gekoppelde batterij, wat het rendement ten goede komt. Hoe groot dat verschil precies is, publiceren de fabrikanten niet op een vergelijkbare manier; verwacht een verbetering van enkele procentpunten, geen sprong.
 
-Peak shaving is de belangrijkste functie bij een dynamisch contract. Op donkere, windstille winterdagen schiet het avondtarief op de EPEX-markt regelmatig boven €0,80/kWh — die dagen zijn publiek terug te vinden in de uurprijzen van de beurs. Rekenvoorbeeld met de volgende aannames: op zo'n dag neemt een huishouden 's avonds 8 kWh af tegen €0,82, terwijl een 10 kWh-batterij die middag geladen is tegen €0,11. Uitkomst van het model: bijna €6 voordeel per piekdag. Komen er 60 tot 90 van dat soort uren per jaar voorbij, dan levert peak shaving alleen al €250 tot €450 op, bovenop de gewone eigenverbruik-optimalisatie.
+Consumentenprijzen voor de batterij publiceert SolarEdge niet. Vraag die op in een offerte, samen met de omvormer, zodat je het systeem als geheel kunt vergelijken.
 
-De vergelijking met andere batterijen leggen wij uit in [Sessy vs Marstek](/posts/sessy-vs-marstek-thuisbatterij-2026/) en het overzicht [thuisbatterij prijzen](/posts/thuisbatterij-prijzen-vergelijking-2026/).
+Peak shaving is bij een dynamisch contract de belangrijkste functie. De rekenregel: het aantal kWh dat je uit de dure uren weghaalt × het verschil tussen het piektarief en het tarief waartegen de batterij geladen is, minus het rendementsverlies van de opslag.
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy</a>
+Wat je daarbij realistisch moet aannemen: het duurste uur op de Nederlandse day-ahead-markt kwam in 2025 uit op €0,63/kWh, op 20 januari om 17:00. Uurprijzen boven de 80 cent zijn dus geen routine maar uitzondering, en een model dat daarop rekent, komt structureel te gunstig uit. Reken liever met de daadwerkelijke spreads van het afgelopen jaar: het jaargemiddelde lag in 2025 op €0,105/kWh, met 212 uren waarin de prijs negatief was.
 
-## Smart EV-laden via SolarEdge EV-charger
+De vergelijking met andere batterijen staat in [Sessy vs Marstek](/posts/sessy-vs-marstek-thuisbatterij-2026/) en het overzicht [thuisbatterij prijzen](/posts/thuisbatterij-prijzen-vergelijking-2026/).
 
-De SolarEdge Home EV Charger (€1.290 incl. installatie, 11 kW driefase) is geen wonder van techniek — andere Type 2 laders doen hetzelfde — maar hij integreert direct in EnergyHub. Drie modi:
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Sessy</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
-- **Solar mode** — laadt alleen wanneer panelen overschot leveren (>1,4 kW boven huisverbruik)
+## Smart EV-laden via de SolarEdge-lader
+
+De SolarEdge EV-lader is technisch geen uitzonderlijk apparaat — andere Type 2-laders doen hetzelfde — maar hij integreert direct in de hub. Drie modi:
+
+- **Solar mode** — laadt alleen bij overschot boven het huisverbruik
 - **Time of Use** — laadt op vooraf ingestelde uren
-- **Smart energy management** — combineert beide: zon overdag, plus dynamisch goedkope uren 's nachts
+- **Smart energy management** — combineert beide: zon overdag, goedkope uren 's nachts
 
-Die derde modus is waar de combinatie met Tibber of Frank interessant wordt. Neem een EV die 16.000 km per jaar rijdt, wat neerkomt op een laadbehoefte van ongeveer 3.200 kWh. Voor de combinatie SolarEdge + dynamisch contract:
+Die derde modus is waar de combinatie met een dynamisch contract interessant wordt. **Modelberekening met zichtbare aannames:** een EV die 16.000 km per jaar rijdt, komt op ongeveer 3.200 kWh laadbehoefte.
 
-- 1.400 kWh uit eigen panelen tijdens zomer (gratis)
-- 1.800 kWh uit dynamisch contract gemiddeld €0,13/kWh = €234
+- 1.400 kWh uit eigen panelen
+- 1.800 kWh uit het net tegen gemiddeld €0,13/kWh = €234
 
-Tegen vaste 2026-tarieven (€0,33/kWh all-in) had hij €1.056 betaald — een verschil van €822 per jaar **op alleen de EV**. De laadpaal verdient zich in 18 maanden terug. Voor wie nog twijfelt tussen modellen: lees [beste laadpaal thuis 2026](/posts/beste-laadpaal-thuis-2026/) en [EV laden met thuisbatterij](/posts/ev-laden-met-thuisbatterij/).
+Tegen een vast tarief van €0,33/kWh zou diezelfde 3.200 kWh €1.056 kosten — in dit model een verschil van ruim €800 per jaar op alleen het laden.
 
-## Voor wie heeft deze combo zin? (rekenvoorbeeld)
+Twee kanttekeningen bij die uitkomst. Ten eerste is "gratis" laden uit eigen panelen alleen echt gratis zolang je saldeert; daarna is die kWh de terugleververgoeding waard die je misloopt, en wordt de winst het verschil tussen afnameprijs en terugleververgoeding. Ten tweede staat of valt het model met de aanname dat je het laden daadwerkelijk naar de goedkope uren kunt verschuiven. Twijfel je over de lader zelf: lees [beste laadpaal thuis 2026](/posts/beste-laadpaal-thuis-2026/) en [EV laden met thuisbatterij](/posts/ev-laden-met-thuisbatterij/).
 
-Niet voor iedereen. Eerlijk: voor een gezin van 2 personen met 8 panelen en 2.800 kWh jaarverbruik is SolarEdge + dynamisch contract overkill. De meerprijs ten opzichte van een simpele Growatt of Goodwe haal je er niet uit.
+## Voor wie heeft deze combinatie zin?
 
-Dit zijn de drempels waarbij de investering doorgaans rendeert:
+Niet voor iedereen. Voor een tweepersoonshuishouden met acht panelen en een bescheiden jaarverbruik is SolarEdge plus dynamisch contract overkill: de meerprijs van optimizers per paneel haal je er niet uit.
 
-| Profiel | Verbruik | EV/WP | Advies |
+De drempels waarbij de investering doorgaans begint te lonen:
+
+| Profiel | Verbruik | EV of warmtepomp | Overweging |
 |---|---|---|---|
-| Klein gezin, geen EV | 3.000-4.500 kWh | nee | Goodwe + dynamisch, geen batterij |
-| Modaal gezin | 4.500-7.000 kWh | misschien | Huawei SUN2000 + Sessy |
-| Groot gezin + EV | 7.000-10.000 kWh | ja | SolarEdge + Home Battery 10kWh |
-| Groot gezin + EV + WP | 10.000+ kWh | ja+ja | SolarEdge + Home Battery 20kWh |
+| Klein gezin, geen EV | 3.000-4.500 kWh | nee | Eenvoudige string-omvormer plus dynamisch contract, geen batterij |
+| Modaal gezin | 4.500-7.000 kWh | misschien | String-omvormer met losse batterij |
+| Groot gezin met EV | 7.000-10.000 kWh | ja | SolarEdge met eigen batterij te overwegen |
+| Groot gezin met EV en warmtepomp | 10.000+ kWh | ja | SolarEdge-systeempakket met grotere batterij |
 
-Rekenvoorbeeld voor het segment "groot gezin + EV", met de volgende aannames:
+**Modelberekening voor het segment "groot gezin met EV", met zichtbare aannames:**
 
-- 14 panelen (5.880 Wp) — opbrengst 5.500 kWh/jaar
-- Verbruik: 8.400 kWh (huishouden + Tesla)
-- Netto-afname: 4.300 kWh (zonneproductie deels gelijktijdig met verbruik)
-- Zonder batterij + vast contract: €1.419 stroomkosten
-- Met SolarEdge Home Battery + Tibber: €567 stroomkosten
+- 14 panelen (5.880 Wp), opbrengst 5.500 kWh per jaar
+- Verbruik: 8.400 kWh (huishouden plus EV)
+- Netto-afname: 4.300 kWh
+- Zonder batterij op een vast contract: circa €1.420 aan stroomkosten
+- Met batterij en sturing op uurtarief: circa €570
 
-Besparing: **€852/jaar**. Meerprijs SolarEdge boven Goodwe: €950. Meerprijs Home Battery: €5.400. Terugverdientijd batterij: 6,3 jaar — onder de 10-jarige garantie. Doe je hetzelfde sommetje voor jouw situatie? Onze vergelijking [beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) helpt daarbij.
+Het verschil is in dit model circa €850 per jaar. Zet daar je eigen offertes tegenover: de meerprijs van SolarEdge boven een string-omvormer, plus de batterij. Bij een batterij-investering van €5.400 komt de terugverdientijd in dit model op ruim zes jaar — maar alleen ná het einde van de saldering, want zolang je saldeert levert de arbitrage niets op. Doe dezelfde som met je eigen cijfers; onze vergelijking [beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/) helpt daarbij.
 
-<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk Frank Energie</a>
+<a href="https://go.duurzaamthuislab.nl/frank-energie" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Frank Energie</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
 ## Nadelen: prijs, abonnementen, complexiteit
 
-Tijd voor de zure kant. SolarEdge is geen perfect product en de combo met dynamisch contract is niet altijd plug-and-play.
+**Prijs.** SolarEdge publiceert geen consumentenprijzen, maar de systematiek is duidelijk: je koopt per paneel een optimizer bij. Dat maakt een SolarEdge-set structureel duurder dan een vergelijkbare string-omvormer zonder optimizers. Die meerprijs is te rechtvaardigen als je daadwerkelijk paneeloptimalisatie nodig hebt — schaduw, of een oost-westopstelling — of als je het hele ecosysteem gaat gebruiken. Voor een schaduwvrij zuiddak is het geld dat je niet terugziet.
 
-**Prijs**. Een SolarEdge HD-Wave 5kW kost €1.800-€2.200 inclusief 10 optimizers. Voor 12 panelen zit je op €2.450-€2.860 — €700-€1.000 duurder dan een vergelijkbare Huawei SUN2000-5KTL-M1 of Enphase IQ8M-set. Die meerprijs is alleen te rechtvaardigen als je daadwerkelijk panelenoptimalisatie nodig hebt (schaduw, oost/west) óf het ecosysteem gaat gebruiken (batterij, EV-charger). Voor een schaduwvrij zuiddak: zonde van het geld.
+**Abonnementen.** De geavanceerde functies, waaronder de dynamische tariefintegratie en de uitgebreidere rapportage, zitten achter een betaald cloudabonnement. Op zich geen groot bedrag, maar wel een terugkerende post — en bij sommige concurrenten zijn vergelijkbare functies inbegrepen. Zonder dat abonnement kom je uit bij de Home Assistant-route.
 
-**Abonnementen**. Sinds 2024 zit er een SolarEdge ONE-abonnement op de geavanceerde features: dynamische tariefintegratie, geavanceerde rapportage en de slimme EnergyHub-API. €4,99/maand of €49,99/jaar. Niet wereldschokkend maar irritant — bij Enphase en Huawei zijn die features gratis. En zonder ONE werkt de Tibber-koppeling via SolarEdge-cloud niet, dus moet je terug naar Home Assistant.
+**Complexiteit.** Die Home Assistant-route werkt prima als je technisch bent: Modbus TCP configureren, een automation schrijven die de prijzen met je drempelwaarde vergelijkt, en alles testen. Wie nooit eerder met Home Assistant heeft gewerkt, moet rekenen op een flinke leercurve. Onze [Home Assistant integratie guide voor warmtepompen](/posts/home-assistant-warmtepomp-integratie-2026/) geeft een idee van de denkwijze.
 
-**Complexiteit**. De Home Assistant-route werkt prima als je technisch bent. Maar: je moet de Modbus TCP-verbinding configureren, een YAML-automation schrijven die Tibber-prijzen vergelijkt met je drempelwaarde, en alles testen. Voor wie nooit eerder met HA werkte: reken op een flinke leercurve. Onze [Home Assistant integratie guide voor warmtepompen](/posts/home-assistant-warmtepomp-integratie-2026/) geeft een idee van de denkstijl die je nodig hebt.
+**Lock-in.** SolarEdge-omvormers werken met SolarEdge-optimizers en SolarEdge-batterijen. Wil je later een batterij van een ander merk, dan moet je AC-koppelen en verlies je het rendementsvoordeel van DC-koppeling.
 
-**Lock-in**. SolarEdge omvormers werken alleen met SolarEdge-optimizers en SolarEdge-batterijen. Wil je later een Sessy of een tweede merk batterij? Dan moet je AC-koppelen, waarbij je het rendementsvoordeel verliest. Bij Huawei en Enphase is die lock-in minder strikt.
+**Servicekwaliteit.** Voor een omvormer die vijftien jaar mee moet, is de garantieafhandeling belangrijker dan de specificaties. Kies een installateur die die afhandeling volledig overneemt en vraag vooraf naar de RMA-procedure — in gebruikersfora is de klacht die het vaakst terugkomt niet een defect, maar dat installateur en fabrikant naar elkaar verwijzen.
 
-**Servicekwaliteit**. SolarEdge Nederland heeft sinds 2023 zijn supportkanaal verschraald — telefonisch alleen via installateur, e-mail-support reageert binnen 3-5 werkdagen. Voor een omvormer die vijftien jaar mee moet: kies een installateur die de garantieafhandeling volledig overneemt. In gebruikersforums staan meerdere gevallen van weken stilstand bij een defecte HD-Wave, simpelweg omdat installateur en fabrikant naar elkaar verwezen. Vraag vooraf om de RMA-procedure.
-
-**Firmware-onzekerheid**. SolarEdge heeft de afgelopen drie jaar twee keer een firmware-update uitgerold die de Modbus-registers wijzigde. Eén keer in 2023 (storage_control_mode kreeg een extra waarde) en één keer in 2025 (rate-limiting op lokale TCP-verbindingen). Voor Home Assistant-gebruikers betekende dat: automations stuk, opnieuw opbouwen. Reken op zo'n moment elke 12-18 maanden — niet onoverkomelijk, wel vervelend.
+**Firmware-onzekerheid.** SolarEdge heeft in het verleden firmware-updates uitgerold die de Modbus-registers wijzigden, met kapotte Home Assistant-automations tot gevolg. Wie op die route bouwt, moet erop rekenen dat een update af en toe onderhoud vraagt. Niet onoverkomelijk, wel iets om te weten voordat je erop vertrouwt.
 
 ## SolarEdge vs Huawei vs Enphase voor dynamisch contract
 
-Korte vergelijking op de drie punten die bij dynamisch contract tellen: prijssturing, batterij-ecosysteem en Home Assistant-ondersteuning.
+Korte vergelijking op de drie punten die bij een dynamisch contract tellen: prijssturing, batterij-ecosysteem en Home Assistant-ondersteuning. Prijzen laten wij weg — geen van de drie fabrikanten publiceert consumentenprijzen, en straatprijzen verschillen per kanaal.
 
 | Punt | SolarEdge | Huawei | Enphase |
 |---|---|---|---|
-| Prijs 5kW omvormer (incl. opt.) | €2.100 | €1.350 | €2.400 (micros) |
-| Eigen batterij ecosysteem | Home Battery 10/20 kWh | LUNA2000 5-15 kWh | IQ Battery 5P |
-| Native dyn-tarief integratie | ONE-abonnement | Smart PV App (gratis) | Enlighten + IQ Gateway |
-| Home Assistant Modbus TCP | Ja, stabiel | Ja, lastig na firmware | Beperkt (cloud only) |
-| Peak shaving software | Ja, configurabel | Ja, sinds 2024 | Ja, maar duur |
-| Garantie omvormer | 12 jaar | 10 jaar | 25 jaar microcontrollers |
+| Architectuur | string met optimizers per paneel | string, optimizers optioneel | micro-omvormer per paneel |
+| Eigen batterij-ecosysteem | ja, DC-gekoppeld | ja, DC-gekoppeld | ja, AC-gekoppeld |
+| Sturing op dynamisch tarief | via betaald cloudabonnement | via eigen app | via eigen platform |
+| Home Assistant via Modbus TCP | ja, stabiel | ja, gevoelig voor firmwarewijzigingen | beperkt, vooral via cloud |
+| Peak shaving | configureerbaar | ondersteund | ondersteund |
 
-**Ons verdict**: voor mensen die bewust voor het systeem-pakket gaan (panelen + omvormer + batterij + lader van één merk) is SolarEdge het volwassenste keuze. Voor mensen die de batterij later separaat kopen of al Home Assistant draaien is Huawei goedkoper en even flexibel. Enphase is voor wie 25 jaar onderhoudsvrij wil; de dynamische integratie is daar zwakker.
+**Onze afweging**: wie bewust voor één systeempakket gaat — panelen, omvormer, batterij en lader van één merk — zit bij SolarEdge het meest volwassen. Wie de batterij later los wil kopen of al Home Assistant draait, zit bij Huawei doorgaans goedkoper en even flexibel. Enphase is de keuze voor wie per paneel wil kunnen uitbreiden en de langste omvormergarantie zoekt; de sturing op dynamisch tarief is daar het minst uitgewerkt.
 
-Een uitgebreide vergelijking vind je in [Huawei vs SolarEdge](/posts/huawei-vs-solaredge-omvormer-2026/), en als je nog moet kiezen welke panelen erbij passen: [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/) of het scenario [na saldering 2027](/posts/beste-zonnepanelen-2026-na-saldering/).
+Een uitgebreide vergelijking staat in [Huawei vs SolarEdge](/posts/huawei-vs-solaredge-omvormer-2026/); moet je nog panelen kiezen, dan helpt [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/) of het scenario [na saldering 2027](/posts/beste-zonnepanelen-2026-na-saldering/).
 
-## Home Assistant integratie: wat werkt en wat niet
+## Home Assistant-integratie: wat werkt en wat niet
 
-De Home Assistant SolarEdge-integratie heeft twee smaken: de officiële (REST API, cloud-gebaseerd) en de community Modbus-integratie (lokaal, via SE1000-modem of direct TCP). Wat werkt en wat niet, op basis van de integratiedocumentatie en de meldingen in de Home Assistant-community:
+De Home Assistant SolarEdge-integratie heeft twee smaken: de officiële, cloud-gebaseerde REST-API en de community-Modbus-integratie die lokaal werkt. Op basis van de integratiedocumentatie en de meldingen in de Home Assistant-community:
 
 **Werkt goed:**
-- Live productie-data uitlezen (interval 5-15 seconden via Modbus)
-- Batterijstatus (SoC, laad/ontlaad-vermogen, temperatuur)
-- Per-paneel productie (optimizer-data) — wel via cloud, niet lokaal
-- Sturen van batterijmodus (laden/ontladen/idle) via Modbus-register
-- Tibber-prijzen automatisch koppelen aan batterijstuur-automation
+
+- Live productiedata uitlezen via Modbus, met een korte interval
+- Batterijstatus: laadtoestand, laad- en ontlaadvermogen, temperatuur
+- De batterijmodus sturen via een Modbus-register
+- Prijsdata van je leverancier koppelen aan een batterij-automation
 
 **Werkt half:**
-- EV-charger besturing — alleen via cloud API, met 30-60 sec vertraging
-- Forecast-gebaseerd laden (zon-voorspelling) — werkt met Solcast als datapaar
-- Energy Manager via API — abonnementsvereiste, niet alle endpoints open
+
+- Aansturing van de EV-lader — via de cloud-API, met merkbare vertraging
+- Laden op zonvoorspelling — werkt met een externe forecastbron erbij
+- De uitgebreidere cloudfuncties — abonnementsgebonden, en niet alle endpoints zijn open
 
 **Werkt niet:**
-- Real-time prijssturen onder de minuut (Modbus is responsief, cloud niet)
-- Optimizer-data lokaal (alleen via SolarEdge ONE cloud beschikbaar)
-- Native HACS-component voor dynamische profielen — moet je zelf YAML schrijven
 
-In de praktijk schrijven mensen een Node-RED-flow of een HA-blueprint die elke 15 minuten de Tibber-prijs leest, vergelijkt met de drempel (bv. mediaan van komende 24u), en de Modbus-register 0xE004 (storage_control_mode) zet op 1 (charge), 2 (discharge) of 0 (auto). Het werkt — maar reken 4-8 avonden tinkeren voor het stabiel draait.
+- Sturen onder de minuut via de cloud; daarvoor moet je lokaal via Modbus werken
+- Per-paneel optimizerdata lokaal uitlezen; dat loopt via de cloud
+- Een kant-en-klare component voor dynamische profielen — de logica schrijf je zelf
 
+In de praktijk bouwen mensen een automation die periodiek de actuele prijs leest, die vergelijkt met een drempel (bijvoorbeeld de mediaan van de komende 24 uur) en het Modbus-register voor de batterijmodus op laden, ontladen of automatisch zet. Het werkt — maar reken op enkele avonden inregelen voordat het stabiel draait.
 
 ---
 
-**Conclusie**: SolarEdge + dynamisch contract is geen instapcombinatie. Het is een bewust premium-pakket dat zich terugverdient bij verbruik boven 8.000 kWh/jaar mét een EV of warmtepomp. Voor die doelgroep is het in 2026 een van de stabielste set-ups die je kunt installeren — alles werkt samen, één garantieloket, één app. Onder die drempel: kies Huawei + losse batterij of blijf bij je huidige omvormer en voeg alleen een dynamisch contract toe.
+**Conclusie**: SolarEdge plus een dynamisch contract is geen instapcombinatie. Het is een bewust premium-pakket dat zich terugverdient bij een fors jaarverbruik in combinatie met een EV of warmtepomp, en dan vooral vanaf het moment dat de saldering per 1 januari 2027 wegvalt. Voor die doelgroep is het een van de stabielste set-ups die je kunt laten installeren: alles werkt samen, één garantieloket, één app.
 
-Twijfel je over de keuze? Reken zelf door met ons [batterij-rekenmodel](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/), of vraag een SolarEdge-offerte aan via de [omvormer-vergelijking](/posts/beste-omvormer-zonnepanelen-2026/).
+Onder die drempel: kies een eenvoudiger omvormer met eventueel een losse batterij, of blijf bij je huidige omvormer en voeg alleen een dynamisch contract toe. Dat laatste kost niets en levert het grootste deel van het effect.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Zonneplan</a>
+Twijfel je? Reken door met ons [batterij-rekenmodel](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/), of vergelijk eerst de omvormers in de [omvormer-vergelijking](/posts/beste-omvormer-zonnepanelen-2026/).
 
-Meer over de regels rond saldering en dynamische tarieven lees je bij [Milieu Centraal: zonnepanelen en het saldeerregeling](https://www.milieucentraal.nl/energie-besparen/zonnepanelen/salderingsregeling-voor-zonnepanelen/).
+Meer over de regels rond saldering en dynamische tarieven lees je bij [Milieu Centraal: salderingsregeling voor zonnepanelen](https://www.milieucentraal.nl/energie-besparen/zonnepanelen/salderingsregeling-voor-zonnepanelen/).
