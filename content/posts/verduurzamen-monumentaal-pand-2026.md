@@ -1,7 +1,7 @@
 ---
 title: 'Verduurzamen monumentaal pand 2026: realistische opties en regels'
 date: 2026-11-03 08:00:00+01:00
-lastmod: 2026-08-19 08:00:00+02:00
+lastmod: 2026-08-21 12:00:00+02:00
 draft: false
 description: Een monument verduurzamen kan wel. Twee voorbeeldscenario's — regels, binnenisolatie-opties en realistische warmtepomp-keuzes voor 2026.
 keywords:
@@ -24,15 +24,12 @@ tags:
 products:
 - name: Tibber
   url: https://go.duurzaamthuislab.nl/tibber
-  price: '0'
 - name: Frank Energie
   url: https://go.duurzaamthuislab.nl/frank-energie
-  price: '0'
 - name: ATAG
   url: https://go.duurzaamthuislab.nl/atag
-  price: '0'
 schema_type: Article
-last_updated: '2026-11-03'
+last_updated: '2026-08-21'
 faq:
 - q: 'Mag ik mijn monument zomaar isoleren?'
   a: 'Aan de buitenkant zelden — dat verandert het beschermde aanzicht. Binnenisolatie mag vaak wel, mits damp-open en historisch reversibel. Vergunning is verplicht voor bijna alle ingrepen die de constructie raken. Vraag altijd Monumentenwacht of de gemeente om vooradvies.'
@@ -41,16 +38,16 @@ faq:
 - q: 'Welke isolatie mag bij een monument?'
   a: 'Damp-open materialen: kalkhennep, houtvezel, schapenwol, perliet. NIET: PIR, PUR, geslepen polystyreen — die sluiten vocht in en veroorzaken schimmel achter het pleisterwerk. Houd minimaal 4-6 cm achter buitenmuur vrij voor ademende werking.'
 - q: 'Welke subsidies bestaan voor monumenten in 2026?'
-  a: 'Instandhoudingssubsidie (SIM) via Rijksdienst voor het Cultureel Erfgoed, woonhuissubsidie monument (zelfwerkzaamheid), ISDE voor warmtepomp/zonneboiler als die binnen vergunning past, en gemeentelijke subsidies. Stapelen kan, maar elk traject vraagt aparte aanvraag.'
+  a: 'De belangrijkste routes zijn de Instandhoudingssubsidie (SIM) via de Rijksdienst voor het Cultureel Erfgoed, de Woonhuissubsidie voor rijksmonumenten met woonfunctie via RVO, de ISDE voor een warmtepomp of zonneboiler mits die binnen de vergunning past, en gemeentelijke regelingen. Bedragen en percentages worden periodiek bijgesteld, dus check ze per regeling bij de verstrekker. Bij de ISDE geldt bovendien: het bedrag hangt af van het typenummer van het apparaat en je vraagt aan ná de installatie, binnen 24 maanden.'
 - q: 'Hoeveel kost het echt om een monument te verduurzamen?'
   a: 'Realistisch 1,5-2,5x meer dan een gewone woning. Voorbeeld: een rijksmonument van 130 m2 kost 28.000-42.000 euro voor binnenisolatie + hybride warmtepomp + monumentvriendelijke ventilatie. Een vergelijkbaar niet-monumentaal pand 18.000-26.000 euro.'
 affiliate: false
 ---
-*Disclosure: de links naar ATAG, Frank Energie en Tibber in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+*Disclosure: voor de links naar ATAG, Frank Energie en Tibber in dit artikel ontvangen wij geen vergoeding — met deze partijen hebben wij geen affiliate- of commissierelatie. Wij vergelijken op basis van fabrikantspecificaties, handleidingen en publieke data, met bron en ophaaldatum bij de cijfers.*
 
 "Verduurzamen kan toch niet bij ons?" Dat is de eerste reactie van veel monument-eigenaren. Toch zijn er routes die binnen de erfgoedregels passen: damp-open binnenisolatie, een hybride warmtepomp met een kleine buitenunit, vacuümglas in het originele kozijn. Geen wonderen, wel een realistisch pad. Om dat concreet te maken werken we in dit artikel met twee voorbeeldscenario's: een rijksmonument uit 1782 en een gemeentelijk monument uit 1898.
 
-> **Kort antwoord:** een monument verduurzamen is mogelijk, maar duurder en trager dan een gewone woning. Realistische opties 2026: damp-open binnenisolatie, hybride warmtepomp, vacuümglas of voorzetraam, slimme sturing en kierdichting. Investering 18.000-45.000 euro, energiebesparing 35-55 procent. Vergunning bijna altijd nodig.
+> **Kort antwoord:** een monument verduurzamen kan, maar het is duurder en trager dan een gewone woning, en het is geen rendementsproject. Realistische opties in 2026: damp-open binnenisolatie, een hybride warmtepomp met kleine buitenunit, vacuümglas of een voorzetraam, kierdichting en slimme sturing. Reken op 18.000 tot 45.000 euro investering en 35 tot 55 procent minder energieverbruik — maar ook op een terugverdientijd die in onze modelberekeningen boven de twintig jaar uitkomt, ook mét subsidie. De winst zit in comfort, een droger pand en behoud van de monumentale waarde; wie op terugverdientijd rekent, komt bedrogen uit. Vergunning is bijna altijd nodig.
 
 ## Twee voorbeeldscenario's, twee aanpakken
 
@@ -75,7 +72,7 @@ Daar bovenop: niet elke installateur durft eraan. Zoek een aannemer of installat
 
 ### Route A: damp-open binnenisolatie
 
-Buiten-isolatie is bij monumenten zelden toegestaan (verandert aanzicht). Binnen-isolatie wel — mits damp-open en reversibel. De materialen die bij monumenten standaard in beeld komen:
+Buiten-isolatie is bij monumenten zelden toegestaan (verandert het aanzicht). Binnen-isolatie wel — mits damp-open en reversibel. De materialen die bij monumenten standaard in beeld komen; alle genoemde bedragen zijn **marktindicaties inclusief montage voor 2026, geen vendoropgaven**:
 
 - **Houtvezel-platen** (Steico, Pavatex). Lambda 0,038-0,042. Goed isolerend, ademend, zelfregulerend. 35-55 euro per m2 inclusief montage.
 - **Kalkhennep** in plaatvorm of geblazen. Lambda 0,06-0,08 (minder isolerend dan houtvezel), maar uitstekend vocht-bufferend. Ideaal voor vochtgevoelige binnenmuren. 45-70 euro per m2.
@@ -99,7 +96,7 @@ Volledig elektrisch (lucht-water) heeft een buitenunit van 90x90x35 cm — bij m
 
 Onze inschatting van de meest geschikte toestellen voor monumenten in 2026:
 
-- **ATAG ENI hybride** — compact, stille buitenunit, goede service. Bekijk de details via <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow noopener">ATAG hybride warmtepomp</a>.
+- **ATAG Energion hybride** — compact, stille buitenunit, goede service. Bekijk de details via <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow noopener">ATAG hybride warmtepomp</a>.
 - **Daikin Altherma EHP hybride** — goedkoper, iets minder discreet.
 - **Itho-Daalderop HP-Cube hybride** — Nederlandse fabrikant, goede support.
 
@@ -110,8 +107,8 @@ Zie ook de [hybride-warmtepomp-vergelijking](/posts/beste-hybride-warmtepomp-202
 Vaak vergeten maar enorm effectief bij monumenten:
 
 - **Kierdichting deuren en ramen** zonder constructieve wijziging. 320-580 euro voor een hele woning, besparing 8-14 procent.
-- **Slimme thermostaat** (Tado, Nest, Honeywell). 180-280 euro, besparing 12-18 procent op gas.
-- **P1-meter en dynamisch contract.** Zie ook [het artikel over de beste P1-meter](/posts/beste-energiemonitor-p1-meter-2026/). Bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow sponsored noopener">Frank Energie</a>.
+- **Slimme thermostaat.** 180-280 euro (marktindicatie). Milieu Centraal houdt voor slim en zuinig stoken 10 tot 15 procent op het gasverbruik aan; bij een pand dat eerder de hele dag doorstookte, valt het hoger uit — en juist bij een monument met veel volume is dat een reële situatie.
+- **P1-meter en dynamisch contract.** Zie ook [het artikel over de beste P1-meter](/posts/beste-energiemonitor-p1-meter-2026/). Bekijk <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a> of <a href="https://go.duurzaamthuislab.nl/frank-energie" target="_blank" rel="nofollow noopener">Frank Energie</a>.
 
 ## 3. Vergunningen en wettelijke regels
 
@@ -136,11 +133,13 @@ Alternatief: deelname aan een lokaal energie-cooperatief of postcoderoos-project
 
 ## 5. Wat kost het? Realistische cijfers per scenario
 
+Alle bedragen in deze paragraaf zijn marktindicaties voor 2026 vóór subsidie, geen vendoropgaven of offertes.
+
 ### Scenario "Lichte verduurzaming" (gemeente-monument, 80-100 m2)
 
 - Vacuümglas of voorzetramen: 6.400-10.800
 - Kierdichting + slimme thermostaat: 580-820
-- Hybride warmtepomp: 8.400-11.200 (incl. ISDE subsidie)
+- Hybride warmtepomp: 8.400-11.200 (vóór subsidie)
 - Dynamisch contract: 0
 - **Totaal: 15.380-22.820 euro. Energiebesparing 35-45 procent.**
 
@@ -148,7 +147,7 @@ Alternatief: deelname aan een lokaal energie-cooperatief of postcoderoos-project
 
 - Vacuümglas: 10.800-15.400
 - Binnenisolatie houtvezel (zijgevels): 8.200-14.600
-- Hybride warmtepomp ATAG ENI: 9.800-12.400
+- Hybride warmtepomp ATAG Energion: 9.800-12.400
 - Ventilatie monumentvriendelijk: 2.400-4.200
 - Dynamisch contract: 0
 - **Totaal: 31.200-46.600 euro. Energiebesparing 50-65 procent.**
@@ -166,16 +165,16 @@ Alternatief: deelname aan een lokaal energie-cooperatief of postcoderoos-project
 
 Vier hoofdregelingen:
 
-- **Instandhoudingssubsidie Monumenten (SIM).** Voor rijksmonumenten. 50 procent van de kosten voor monumentaal onderhoud. Aanvragen bij Rijksdienst voor het Cultureel Erfgoed.
-- **Woonhuissubsidie monumenten.** 38 procent van de in aanmerking komende kosten, max 39.000 euro per 6 jaar. Aanvragen bij RVO.
-- **ISDE 2026.** Voor hybride warmtepomp 2.350-4.250 euro, volledig elektrisch 4.750-6.450 euro. Werkt ook bij monumenten mits binnen vergunning.
-- **Gemeentelijke subsidies.** Variabel — Amsterdam, Utrecht, Den Haag, Haarlem hebben extra regelingen voor binnenstadsmonumenten.
+- **Instandhoudingssubsidie Monumenten (SIM).** Voor rijksmonumenten zonder woonfunctie, gericht op planmatig onderhoud over meerdere jaren. Aanvragen bij de Rijksdienst voor het Cultureel Erfgoed, binnen een vast aanvraagvenster.
+- **Woonhuissubsidie rijksmonumenten.** Voor rijksmonumenten met woonfunctie: een percentage van de subsidiabele instandhoudingskosten, jaarlijks aan te vragen bij RVO over kosten uit het voorgaande kalenderjaar. Wij noemen hier geen percentage of maximum, omdat die periodiek worden bijgesteld en wij eerder op deze site twee verschillende maxima hebben laten staan. Check rvo.nl vóór je begroot.
+- **ISDE.** Geldt ook bij monumenten, mits de maatregel binnen de vergunning past. Drie dingen die vaak fout gaan: het bedrag hangt af van het **typenummer** van het apparaat (op te zoeken in de RVO-apparatenlijst, niet af te leiden uit het merk), je vraagt aan **ná** de installatie en binnen **24 maanden** na de uitvoering, en bij twee of meer maatregelen binnen 24 maanden verdubbelt het bedrag. Wij noemen daarom geen bedrag per type warmtepomp: de RVO-pagina's zijn daarover niet eenduidig en het bedrag is per toestel te bepalen.
+- **Gemeentelijke regelingen.** Verschillende gemeenten met een grote monumentenvoorraad hebben eigen regelingen. Bedragen en voorwaarden verschillen per gemeente en per jaar; check je eigen gemeente.
 
-Stapelen mag, maar elke regeling apart aanvragen. Doorlooptijd totaal 6-18 maanden.
+Stapelen kan vaak, maar elke regeling vraagt een aparte aanvraag met eigen voorwaarden en eigen termijnen. En bij elke regeling geldt: lees eerst of de aanvraag vóór of ná de uitvoering moet. Bij de ISDE is dat ná; bij verschillende gemeentelijke regelingen juist vóór, en dan kost een verkeerde volgorde je de subsidie.
 
 ## 7. Twee rekenvoorbeelden doorgerekend
 
-De cijfers hieronder komen uit een rekenmodel, niet uit metingen aan een bestaand pand. Aannames: gasprijs 1,45 euro per m3, stroomprijs 0,26 euro per kWh, isolatie- en installatiekosten uit de bandbreedtes eerder in dit artikel, subsidiebedragen volgens de 2026-regelingen.
+De cijfers hieronder komen uit een rekenmodel, niet uit metingen aan een bestaand pand. Aannames: een all-in gasprijs van **1,10 euro per m3** (marktprijs plus energiebelasting van 0,7268 euro inclusief btw plus een opslagaanname) en een all-in stroomprijs van **0,26 euro per kWh** (EPEX-jaargemiddelde 2025 van 0,105 euro inclusief btw plus energiebelasting 0,11085 euro inclusief btw plus 0,044 euro opslagaanname). Isolatie- en installatiekosten komen uit de bandbreedtes eerder in dit artikel. Subsidies laten we in de terugverdientijd buiten beschouwing, omdat de bedragen per pand en per regeling verschillen en wij ze niet per geval kunnen onderbouwen; ze verkorten de uitkomst dus, maar niet met een factor die het beeld omdraait.
 
 ### Rekenvoorbeeld A (rijksmonument 1782, 178 m2)
 
@@ -183,19 +182,21 @@ Pakket: vacuümglas, binnenisolatie zijgevels, hybride warmtepomp, slimme thermo
 
 - Gasverbruik in het model: 1.840 m3 → 660 m3 (circa 64 procent omlaag).
 - Stroomverbruik: 2.480 → 3.620 kWh (de warmtepomp verbruikt extra stroom).
-- Jaarlijkse energiekosten in het model: 3.880 → 1.940 euro.
-- **Investering 38.500 euro, subsidie 14.200 euro, netto 24.300 euro. Terugverdientijd in het model 12,5 jaar.**
+- Jaarlijkse energiekosten in het model: 1.840 × 1,10 + 2.480 × 0,26 = **2.669 euro** vóór, en 660 × 1,10 + 3.620 × 0,26 = **1.667 euro** na.
+- Besparing: **circa 1.000 euro per jaar**.
+- **Investering 38.500 euro. Terugverdientijd zonder subsidie: ruim 38 jaar. Ook als de subsidies een derde van de investering dekken, blijft de terugverdientijd boven de 25 jaar.**
 
 ### Rekenvoorbeeld B (gemeentelijk monument 1898, 132 m2)
 
 Pakket: voorzetramen, kalkhennep-binnenisolatie, kierdichting, slimme thermostaat, gas-cv behouden.
 
 - Gasverbruik in het model: 1.420 m3 → 840 m3 (circa 41 procent omlaag).
-- Stroomverbruik gelijk.
-- Jaarlijkse energiekosten in het model: 2.840 → 1.760 euro.
-- **Investering 19.800 euro, subsidie 4.200 euro, netto 15.600 euro. Terugverdientijd in het model 14,4 jaar.**
+- Stroomverbruik gelijk: 2.200 kWh.
+- Jaarlijkse energiekosten in het model: 1.420 × 1,10 + 2.200 × 0,26 = **2.134 euro** vóór, en 840 × 1,10 + 2.200 × 0,26 = **1.496 euro** na.
+- Besparing: **circa 640 euro per jaar**.
+- **Investering 19.800 euro. Terugverdientijd zonder subsidie: ruim 30 jaar.**
 
-Wat in beide gevallen niet in de terugverdientijd zit maar wel meeweegt: hoger comfort en minder vochtproblemen door damp-open isolatie en kierdichting.
+Dit is het cijfer dat in brochures over monumentverduurzaming zelden staat, en het is wel het eerlijke antwoord: **op energiebesparing alleen verdient een monumentpakket zich niet terug.** Wat er tegenover staat, is reëel maar niet in euro's per jaar uit te drukken: een pand dat merkbaar comfortabeler en droger is, minder risico op vocht- en houtschade door damp-open isolatie en kierdichting, en onderhoud dat je toch al had moeten doen. Wie een monument koopt en verduurzaamt, doet dat om het pand — niet om de rekensom.
 
 ## 8. Drie fouten die monument-eigenaren vaak maken
 
@@ -207,24 +208,30 @@ Wat in beide gevallen niet in de terugverdientijd zit maar wel meeweegt: hoger c
 
 ## 9. Welk pakket past bij welke monument-situatie?
 
+Alle jaarbesparingen hieronder zijn modeluitkomsten met de tarieven uit paragraaf 7 (gas 1,10 euro per m3, stroom 0,26 euro per kWh) — dus lager dan wat je elders leest, waar vaak met een gasprijs van 1,45 euro of hoger wordt gerekend.
+
 ### Klein gemeentelijk monument (60-90 m2), beperkt budget
-Scenario Lichte verduurzaming. Investering 15-23k, jaarbesparing 800-1.300 euro.
+Scenario Lichte verduurzaming. Investering 15-23k, jaarbesparing in het model 400-700 euro. Terugverdientijd ver boven de twintig jaar; doe dit voor comfort en vochtbeheersing.
 
 ### Middelgroot monument met hoge ambities (90-150 m2)
-Scenario Standaard. Investering 31-47k, jaarbesparing 1.700-2.600 euro.
+Scenario Standaard. Investering 31-47k, jaarbesparing in het model 700-1.100 euro.
 
 ### Groot rijksmonument, eigenaar met budget en lange-termijn-visie (>150 m2)
-Scenario Diepe verduurzaming. Investering 62-90k, jaarbesparing 3.200-5.400 euro.
+Scenario Diepe verduurzaming. Investering 62-90k, jaarbesparing in het model 1.300-2.000 euro. Dit is een keuze voor het pand en voor de komende vijftig jaar, geen investeringsbeslissing.
 
-## 10. Wat verandert in 2027-2030 voor monumenten?
+## 10. Wat er wél verandert — en welke jaartallen niet bestaan
 
-**2027: einde saldering.** Voor monumenten met beperkte panelen weinig effect.
+Rond monumentverduurzaming circuleren veel toekomstige verplichtingen die er niet zijn. Wij noemen alleen wat besloten is.
 
-**2028: verruimde damp-open isolatie-eisen.** Nieuwe materialen op de markt (zwam-mycelium, biocomposiet) die monumentvriendelijk en goedkoper zijn.
+**Wat vaststaat: de saldering stopt volledig per 1 januari 2027.** Geen afbouwpad, geen overgangsrecht. Voor monumenten met weinig of geen panelen heeft dat nauwelijks effect; heb je panelen op een bijgebouw, dan verschuift ook bij jou het rendement naar eigen verbruik.
 
-**2029: verplichte energielabel-stappen ook voor monumenten.** Tot nu uitgezonderd, maar overheid werkt aan een aangepaste regeling.
+**Wat níet bestaat:**
 
-**2030: warmtepomp-verplichting bij ketelvervanging.** Voor monumenten waarschijnlijk uitzonderingsregeling — maar verwacht strengere eisen.
+- Er is **geen** aangekondigde verplichting om een warmtepomp te plaatsen bij vervanging van je ketel. De normering die daarop leek aan te sturen — de hybride-warmtepompverplichting per 2026 — is **ingetrokken**, niet uitgesteld. Wie je vertelt dat je "toch moet" en daarom nu moet beslissen, gebruikt een argument dat niet bestaat.
+- Er is **geen** besloten labelverplichting voor monumenten. Monumenten zijn juist vrijgesteld van de energielabelplicht bij verkoop en verhuur.
+- Er zijn ons **geen** aangekondigde nieuwe eisen aan damp-open isolatie bekend. Nieuwe biobased materialen komen wel op de markt, maar of en wanneer die goedkoper of beter zijn, kunnen wij niet voorspellen — en het is geen reden om te wachten.
+
+Praktische conclusie: laat je planning bepalen door de staat van je pand en door je onderhoudsmomenten, niet door verwachte regelgeving.
 
 ## 11. Technische details: damp-open isolatie en monumentale bouwfysica
 
@@ -261,7 +268,7 @@ In scenario A blijven de gietijzeren radiatoren zitten, aangevuld met een buffer
 | Vacuümglas | 0 | 25-30 jaar |
 | Houtvezel-binnenisolatie | 0-45 | 50+ jaar |
 | Kalkhennep-binnenisolatie | 0-45 | 50+ jaar |
-| Hybride warmtepomp ATAG ENI | 175-285 | 15-18 jaar |
+| Hybride warmtepomp ATAG Energion | 175-285 | 15-18 jaar |
 | Voorzetraam | 0-75 | 30-40 jaar |
 
 Belangrijk: bij monumenten loopt restauratie en onderhoud parallel met verduurzaming. Plan elke 5-7 jaar een Monumentenwacht-inspectie in (95-145 euro lidmaatschap) om bouwfysische problemen vroeg te signaleren.
@@ -272,9 +279,10 @@ Belangrijk: bij monumenten loopt restauratie en onderhoud parallel met verduurza
 |---|---|---|
 | Investering volledige aanpak | 31-47k | 18-26k |
 | Vergunningstijd | 8-26 weken | 0-6 weken |
-| Subsidie totaal | 6-19k | 3-6k |
+| Subsidie | Erfgoedregelingen plus ISDE, bedragen per pand en per regeling verschillend | ISDE per maatregel |
 | SCOP warmtepomp behaalbaar | 3,2-3,8 | 3,8-4,5 |
 | Energiebesparing realistisch | 35-55% | 55-75% |
+| Terugverdientijd op energiebesparing | 25 jaar of meer | 8-15 jaar |
 | Levensduur installaties | 25-50 jaar | 15-25 jaar |
 
 ## 14. Externe bron
@@ -283,25 +291,17 @@ Voor onafhankelijk monument-advies is [Monumentenwacht Nederland](https://www.mo
 
 Ook nuttig: [Rijksdienst voor het Cultureel Erfgoed — verduurzamen monumenten](https://www.cultureelerfgoed.nl/onderwerpen/verduurzamen-erfgoed).
 
-## 12. Onze aanbeveling voor monument-eigenaren
-
-Voor elke monument-eigenaar in 2026: start met advies van Monumentenwacht (95-145 euro) voor je iets koopt. Daarna vooroverleg met de gemeente over vergunningen. Pas dan een specialistische adviseur of architect-restauratie inschakelen.
-
-Voor lichte verduurzaming is de sterkste combinatie in onze inschatting een hybride warmtepomp (zie <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow noopener">ATAG hybride</a>) met voorzetramen en slimme sturing via <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber dynamisch contract</a>. Investering 15-23k, jaarbesparing 800-1.300 euro, geen onomkeerbare ingrepen.
-
-Verder lezen op deze site: [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/), [vergunning zonnepanelen monumenten VvE](/posts/vergunning-zonnepanelen-monumenten-vve-2026/), [beste hybride warmtepomp](/posts/beste-hybride-warmtepomp-2026/), [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/), [aardwarmte bodembron warmtepomp](/posts/aardwarmte-warmtepomp-bodembron-2026/), [beste isolatie voor warmtepomp](/posts/beste-isolatie-voor-warmtepomp-2026/), [P1-meter-vergelijking](/posts/beste-energiemonitor-p1-meter-2026/), [smart home energiebeheer](/posts/smart-home-energiebeheer-2026/).
-
-Een monument verduurzamen is mogelijk — wel duurder en langzamer dan een gewone woning, maar het kan met behoud van karakter. Succes met je traject.
-
 ## 15. Scenario A volledig uitgewerkt: grachtenhuis 1782
 
 Uitgangspunt van het model: grachtenhuis van 178 m2, rijksmonument met beschermde gevel, beginsituatie 1.840 m3 gas en 2.480 kWh stroom per jaar. Pakket na een voortraject met Monumentenwacht en een restauratie-architect: vacuümglas in 7 originele kozijnen, houtvezel-binnenisolatie op de zijgevels (oost en noord), hybride warmtepomp met de buitenunit achter de schuur, slimme thermostaat, behoud van de gietijzeren radiatoren.
 
 Doorlooptijd waar je bij zo'n pakket rekening mee moet houden: vergunningstraject 8 tot 26 weken (een afwijzing wegens gevel-impact van de buitenunit is een bekend struikelpunt; na verplaatsing van de unit volgt vaak wel goedkeuring), installatie enkele weken, en daarbovenop de wachttijd bij specialistische installateurs. Reken op ongeveer een jaar van eerste plan tot oplevering.
 
-Uitkomst van het model: investering 38.500 euro, ISDE-subsidie hybride 2.350 euro plus woonhuissubsidie 11.850 euro, samen 14.200 euro subsidie en dus een netto-investering van 24.300 euro. Gasverbruik 1.840 → 660 m3, stroom 2.480 → 3.620 kWh, jaarlijkse energiekosten 3.880 → 1.940 euro. Dat is een besparing van circa 1.940 euro per jaar en een terugverdientijd van 12,5 jaar.
+Uitkomst van het model: investering 38.500 euro. Gasverbruik 1.840 → 660 m3, stroom 2.480 → 3.620 kWh, jaarlijkse energiekosten 2.669 → 1.667 euro met de tarieven uit paragraaf 7. Dat is een besparing van circa 1.000 euro per jaar en dus een terugverdientijd van ruim 38 jaar zonder subsidie.
 
-Belangrijker dan de besparing: het pand wordt comfortabeler en droger, en de monumentale waarde blijft intact omdat alle ingrepen reversibel zijn.
+Wat subsidie daaraan doet, kunnen wij niet per euro voorspellen: het ISDE-bedrag hangt af van het typenummer van de gekozen warmtepomp (op te zoeken in de RVO-apparatenlijst, aan te vragen ná de installatie binnen 24 maanden), en de Woonhuissubsidie wordt berekend over de subsidiabele instandhoudingskosten volgens de dan geldende voorwaarden. Ook als die routes samen een derde van de investering dekken, blijft de terugverdientijd boven de 25 jaar.
+
+En dat is precies waarom dit geen investeringsbeslissing is. Belangrijker dan de besparing: het pand wordt comfortabeler en droger, het vocht- en houtrotrisico daalt door damp-open isolatie, en de monumentale waarde blijft intact omdat alle ingrepen reversibel zijn. Wie op terugverdientijd rekent, moet hier niet aan beginnen; wie het pand vijftig jaar goed wil houden, wel.
 
 ## 16. Wat te doen als jouw monument-situatie afwijkt?
 
@@ -319,15 +319,16 @@ In alle drie gevallen: start met advies van Monumentenwacht en vooroverleg met d
 
 Niet elke gemeente hanteert dezelfde monumenten-regels. Een globaal beeld op basis van het gemeentelijke erfgoedbeleid en de gepubliceerde procedures; controleer altijd de actuele regels bij je eigen gemeente:
 
-**Amsterdam.** Strenge gevel-eisen in beschermde stadsgezichten. Vrijwel geen zichtbare zonnepanelen. Wel ruimte voor binnen-isolatie en hybride warmtepomp met onzichtbare unit. Vergunningstijd 12-20 weken.
+Wij publiceren hier geen doorlooptijden per gemeente: die hangen af van het type ingreep, van de vraag of de Rijksdienst voor het Cultureel Erfgoed om advies wordt gevraagd en van de drukte bij het loket, en wij kunnen ze niet per gemeente onderbouwen. Wettelijk geldt voor een omgevingsvergunning de reguliere procedure van acht weken met een verlengingsmogelijkheid, en de uitgebreide procedure van zes maanden bij ingrijpende wijzigingen aan een rijksmonument. Dát zijn de termijnen waarop je kunt plannen.
 
-**Utrecht.** Iets coulanter dan Amsterdam — zonnepanelen op platte daken in beschermd gebied vaker vergund. Vooroverleg met monumentenadviseur sterk aangeraden. Vergunningstijd 8-16 weken.
+Wat je wél kunt vragen bij je eigen gemeente, en wat het verschil maakt:
 
-**Haarlem.** Specifiek monumenten-loket met snelle screening. Bij gemeentelijk monument vaak binnen 6-12 weken besluit. Het monumentenloket denkt in de regel actief mee over ontwerpkeuzes.
+- Is er een apart monumenten- of erfgoedloket, en kun je daar vóór de aanvraag terecht voor vooroverleg?
+- Volgt de gemeente een gepubliceerde welstands- of erfgoedvisie, en wat staat daar over zonnepanelen en buitenunits?
+- Wordt de Rijksdienst voor het Cultureel Erfgoed bij jouw type ingreep om advies gevraagd? Zo ja, reken op de uitgebreide procedure.
+- Zijn er in jouw gemeente eerdere, vergelijkbare aanvragen goedgekeurd? Gepubliceerde besluiten zijn openbaar en het beste voorspellende materiaal dat er is.
 
-**Den Haag.** Verschilt sterk per wijk — beschermd stadsgezicht (Voorhout, Lange Voorhout) strikter dan periferie. Bij twijfel vooroverleg aanvragen.
-
-**Buiten de Randstad.** Vaak coulanter, met name in gemeentes met groot monumentaal bestand (Maastricht, Deventer, Zutphen). Maar verwacht hier minder gespecialiseerde installateurs — reken op werving uit andere regio.
+Eén patroon dat breed geldt: in beschermde stadsgezichten ligt de nadruk op het gevelbeeld en op onzichtbaarheid vanaf de openbare weg, terwijl aan de binnenzijde meestal meer mogelijk is. Buiten de grote steden is het loket vaak sneller, maar zijn gespecialiseerde installateurs schaarser — reken daar op langere wachttijd bij de uitvoering in plaats van bij de vergunning.
 
 ## 18. Wanneer een externe expert inschakelen?
 
@@ -339,9 +340,19 @@ Bij monumenten loont een onafhankelijke expert vaak. Drie momenten waarop het in
 
 **Voor de oplevering.** Onafhankelijke controle van inregeling, vooral bij hybride warmtepomp. Verwacht uitgavetje van 350-650 euro voor SCOP-validatie — minder dan 1 procent van projectkosten.
 
+## 19. Onze aanbeveling voor monument-eigenaren
+
+Voor elke monument-eigenaar in 2026: start met een bouwtechnisch advies vóór je iets koopt — Monumentenwacht is daarvoor het gangbare startpunt (lidmaatschap 95-145 euro per jaar, marktindicatie). Daarna vooroverleg met de gemeente over de vergunning. Pas dan een specialistische adviseur of restauratie-architect inschakelen, en pas daarna installateurs.
+
+Voor lichte verduurzaming is de sterkste combinatie in onze inschatting een hybride warmtepomp (zie de <a href="https://go.duurzaamthuislab.nl/atag" target="_blank" rel="nofollow noopener">ATAG-hybride</a>) met voorzetramen, kierdichting en slimme sturing via een dynamisch contract, bijvoorbeeld <a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener">Tibber</a>. Investering 15-23k, in het model 400 tot 700 euro besparing per jaar, en — het belangrijkste bij een monument — geen onomkeerbare ingrepen. Voor beide links ontvangen wij geen vergoeding.
+
+Verder lezen op deze site: [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/), [vergunning zonnepanelen monumenten VvE](/posts/vergunning-zonnepanelen-monumenten-vve-2026/), [beste hybride warmtepomp](/posts/beste-hybride-warmtepomp-2026/), [ATAG warmtepomp review](/posts/atag-warmtepomp-review-2026/), [aardwarmte bodembron warmtepomp](/posts/aardwarmte-warmtepomp-bodembron-2026/), [beste isolatie voor warmtepomp](/posts/beste-isolatie-voor-warmtepomp-2026/), [P1-meter-vergelijking](/posts/beste-energiemonitor-p1-meter-2026/), [smart home energiebeheer](/posts/smart-home-energiebeheer-2026/).
+
+Een monument verduurzamen kan, met behoud van karakter. Reken op langere procedures, hogere kosten en een terugverdientijd die je niet gaat halen op energiebesparing alleen — en beslis op comfort, onderhoud en het pand zelf.
+
 ---
 
-*Dit artikel is voor het laatst bijgewerkt op 2026-08-19 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
+*Dit artikel is voor het laatst bijgewerkt op 21 augustus 2026 door de redactie. Klopt er iets niet? Laat het ons weten — wij houden dit artikel actief bij.*
 
 ---
 

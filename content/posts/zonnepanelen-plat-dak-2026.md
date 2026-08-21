@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen op Plat Dak 2026: Opbrengst'
 date: 2026-06-22 10:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 12:00:00+02:00'
 description: Alles over zonnepanelen op een plat dak in 2026. Opbrengst, kosten, ballast vs doorgedrukt systeem, optimale hoek en de beste systemen vergeleken.
 categories:
 - zonnepanelen
@@ -23,7 +23,7 @@ faq:
 - q: Kan ik zonnepanelen op een plat dak leggen?
   a: 'Ja, zonnepanelen werken uitstekend op een plat dak. Ze worden op schuine frames geplaatst (10-15° hoek, richting zuiden) voor optimale opbrengst. Voordeel: je kiest zelf de optimale richting en hoek. Nadeel: de opbrengst is 5-10% lager dan op een schuin dak op het zuiden, en je hebt meer dakoppervlak nodig vanwege de tussenruimte.'
 - q: Hoeveel kosten zonnepanelen op een plat dak?
-  a: 'Zonnepanelen op een plat dak kosten €150-€250 meer per paneel dan op een schuin dak vanwege het montagesysteem (frames, ballast). Totaal voor 10 panelen: €4.500-€7.000 inclusief installatie. Het montagesysteem (ballast of doorgedrukt) kost €30-€80 per paneel extra.'
+  a: 'Zonnepanelen op een plat dak kosten €150-€250 meer per paneel dan op een schuin dak vanwege het montagesysteem (frames, ballast). Totaal voor 10 panelen: circa €4.150-€4.300 inclusief installatie (marktindicatie, zie de kostentabel in dit artikel). Het montagesysteem (ballast of doorgedrukt) kost €30-€80 per paneel extra.'
 - q: Hoeveel opbrengst leveren zonnepanelen op een plat dak?
   a: 'Op een plat dak met frames op 10-15° richting zuiden leveren zonnepanelen 85-95% van de maximale opbrengst (vergeleken met 35° schuin dak op zuiden). Per paneel van 400 Wp: 340-380 kWh/jaar. Een oost-west opstelling levert 80-90% maar is efficiënter qua dakruimte.'
 - q: 'Wat is beter: zuiden of oost-west opstelling?'
@@ -35,22 +35,18 @@ faq:
 products:
 - name: Zonneplan
   url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '5000'
 - name: Coolblue Zonnepanelen
-  url: https://www.coolblue.nl/zonnepanelen
-  price: '5500'
+  url: https://go.duurzaamthuislab.nl/coolblue
 schema_type: Article
 ---
 Een plat dak heeft één groot voordeel boven een schuin dak: je bepaalt zelf de optimale hoek (10-15 graden) en de richting. Het nadeel is dat je 30 tot 50 procent meer dakruimte nodig hebt om eigen schaduw te voorkomen, en dat het montagesysteem €30 tot €80 per paneel extra kost. In dit artikel zetten we de opstellingen, de kostenopbouw en de valkuilen naast elkaar, met modelberekeningen waarvan de aannames expliciet vermeld staan.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
+*Disclosure: dit artikel bevat affiliate-links naar Anker SOLIX en HomeWizard (beide via een partnernetwerk). Koop je via zo'n link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Voor de links naar Zonneplan en Coolblue ontvangen wij op dit moment geen vergoeding. Op de inhoud heeft dat geen invloed.*
 
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+💡 *Niet zeker over de saldering-stop per 1 januari 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) voor de opties die je nu al kunt afwegen.*
 
-> **Kort antwoord:** Alles over zonnepanelen op een plat dak in 2026. Opbrengst, kosten, ballast vs doorgedrukt systeem, optimale hoek en de beste systemen vergeleken.
->
-> Ja, zonnepanelen werken uitstekend op een plat dak. Ze worden op schuine frames geplaatst (10-15° hoek, richting zuiden) voor optimale opbrengst. Voordeel: je kiest zelf de optimale richting en hoek. Nadeel: de opbrengst is 5-10% lager dan op een schuin dak op het zuiden, en je hebt meer dakoppervlak nodig vanwege de tussenruimte.
+> **Kort antwoord:** een plat dak is prima geschikt, maar de rekensom verschuift. Frames op 10-15° leveren 85-95% van de maximale opbrengst bij een zuidopstelling en 80-90% bij oost-west; het montagesysteem kost €30-€80 per paneel extra en je hebt 30-50% meer dakruimte nodig. Op een krap dak levert oost-west daardoor vaak méér totaalopbrengst dan zuid. In de modelberekeningen verderop komt de terugverdientijd na de salderingsstop uit tussen zes en acht jaar, afhankelijk van hoeveel je zelf verbruikt.
 
 ## Plat Dak vs Schuin Dak
 
@@ -159,8 +155,8 @@ De zonnepanelen vervangen de dakbedekking (bij nieuwbouw of dakrenovatie).
 | Installatie | €600 | €500 |
 | **Totaal** | **€4.300** | **€4.150** |
 | Opbrengst/jaar | 3.600 kWh | 3.400 kWh |
-| Besparing/jaar (€0,30/kWh) | €1.080 | €1.020 |
-| **Terugverdientijd** | **4,0 jaar** | **4,1 jaar** |
+
+Wat die kWh's financieel opleveren, hangt volledig af van hoeveel je zelf direct verbruikt: saldering stopt per 1 januari 2027, dus je kunt niet meer met één all-in tarief over de hele opbrengst rekenen. De uitwerking staat in het rekenvoorbeeld verderop.
 
 ### 16 panelen (6,4 kWp) — Meer panelen oost-west
 
@@ -172,8 +168,6 @@ De zonnepanelen vervangen de dakbedekking (bij nieuwbouw of dakrenovatie).
 | Installatie | €800 |
 | **Totaal** | **€6.450** |
 | Opbrengst/jaar | 5.200 kWh |
-| Besparing/jaar | €1.560 |
-| **Terugverdientijd** | **4,1 jaar** |
 
 ## Aandachtspunten Plat Dak
 
@@ -201,7 +195,7 @@ De zonnepanelen vervangen de dakbedekking (bij nieuwbouw of dakrenovatie).
 
 ## Rekenvoorbeeld: twee opstellingen op 40 m² plat dak na de salderingsstop
 
-Onderstaande vergelijking is een modelberekening voor een plat garage- of aanbouwdak van circa 40 m² bruikbaar oppervlak, in de situatie ná de salderingsstop. Aannames: verbruik 4.200 kWh per jaar, deels thuiswerken en een elektrische auto die overdag laadt, een dynamisch contract met een gemiddelde afnameprijs van €0,29/kWh en een terugleververgoeding van €0,12/kWh.
+Onderstaande vergelijking is een modelberekening voor een plat garage- of aanbouwdak van circa 40 m² bruikbaar oppervlak, in de situatie ná de salderingsstop van 1 januari 2027. Aannames (geen meting): verbruik 4.200 kWh per jaar, deels thuiswerken en een elektrische auto die overdag laadt, een all-in afnameprijs van **€0,26/kWh** (EPEX-jaargemiddelde 2025 €0,105 incl. btw + energiebelasting €0,11085 incl. btw + €0,044 opslag- en vaste-kostenomslag als gelabelde aanname) en een terugleververgoeding van **€0,07/kWh** — dat laatste is een aanname, want voor 2027 heeft nog geen leverancier een tarief gepubliceerd.
 
 **Uitgangssituatie:** Verbruik 4.200 kWh/jaar, deels thuiswerken, EV laadt overdag.
 
@@ -212,9 +206,9 @@ Onderstaande vergelijking is een modelberekening voor een plat garage- of aanbou
 - Aanschafkosten: €4.300 (inclusief ballastsysteem)
 
 Modelmatige jaaropbrengst na de salderingsstop:
-- Eigen verbruik: 1.620 × €0,29 = €470
-- Teruglevering: 1.980 × €0,12 = €238
-- **Totaal: €708 per jaar, TVT: 6,1 jaar**
+- Eigen verbruik: 1.620 × €0,26 = €421
+- Teruglevering: 1.980 × €0,07 = €139
+- **Totaal: €560 per jaar, TVT: 7,7 jaar**
 
 **Optie 2: 16 panelen oost-west opstelling**
 - Opwekking: 5.200 kWh/jaar (minder per paneel, maar meer panelen)
@@ -223,11 +217,15 @@ Modelmatige jaaropbrengst na de salderingsstop:
 - Aanschafkosten: €6.450
 
 Modelmatige jaaropbrengst na de salderingsstop:
-- Eigen verbruik: 2.860 × €0,29 = €830
-- Teruglevering: 2.340 × €0,12 = €281
-- **Totaal: €1.111 per jaar, TVT: 5,8 jaar**
+- Eigen verbruik: 2.860 × €0,26 = €744
+- Teruglevering: 2.340 × €0,07 = €164
+- **Totaal: €908 per jaar, TVT: 7,1 jaar**
 
-**Conclusie:** De grotere oost-west installatie betaalt zich iets sneller terug én levert meer op totaal. Door de bredere productiecurve wordt meer stroom direct verbruikt — cruciaal na de saldering-stop.
+**Conclusie:** de grotere oost-west installatie betaalt zich in dit model iets sneller terug én levert meer op in absolute euro's. Door de bredere productiecurve wordt meer stroom direct verbruikt — en dat is precies de knop die na de salderingsstop nog telt. Let op de gevoeligheid: valt de terugleververgoeding lager uit dan de €0,07 waarmee we hier rekenen, dan verschuift het voordeel nóg verder naar de opstelling met het hoogste eigen verbruik.
+
+Diezelfde logica maakt opslag interessant: elke kWh die je 's avonds uit een thuisbatterij haalt in plaats van uit het net, is €0,26 waard in plaats van €0,07. Of dat uit kan, hangt af van de prijs per kWh opslagcapaciteit; wij hebben dat uitgewerkt in de [thuisbatterij-terugverdientijdvergelijker](/thuisbatterij-terugverdientijd-vergelijken/). Anker SOLIX is een van de partijen die zowel opslag als een hybride omvormer in één systeem levert, wat op een plat dak met oost-west-strings de installatie vereenvoudigt.
+
+<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Anker SOLIX thuisbatterijen</a>
 
 ## 0% BTW: wat het betekent voor plat dakinstallaties
 
@@ -280,7 +278,7 @@ Op een plat dak liggen de panelen op een relatief lage hoek (10-15°). Daardoor 
 - Tweemaal per jaar bij vogelnestjes nabij of veel bomen
 
 **Zelfschoonmakende coatings:**
-Sommige panelen hebben een nano-coating die water en vuil makkelijker laat afglijden. SunPower en REC bieden dit optioneel aan. Het effect is reëel maar niet spectaculair — gemiddeld 30-40% minder reiniging nodig. In een Nederlandse klimaat met regelmatig regen is de winst kleiner dan in droge regio's.
+Sommige fabrikanten leveren panelen met een hydrofobe coating die water en vuil makkelijker laat afglijden. Hoeveel dat in het Nederlandse klimaat scheelt, is niet met publieke meetdata te onderbouwen — er zijn geen onafhankelijke langetermijncijfers voor Nederland gepubliceerd. Ga er dus niet van uit dat een coating schoonmaken overbodig maakt; check bij de fabrikant wat er precies wordt geclaimd en onder welke voorwaarden.
 
 **Praktisch schoonmaken:**
 Telescopische mop + lauwwarm water (geen zeep — zeepresidu trekt juist meer vuil aan). Geen hogedrukreiniger — beschadigt de frames. Op een plat dak is het dak bereikbaar zonder speciale apparatuur, wat een groot voordeel is ten opzichte van een schuin dak.
@@ -306,11 +304,11 @@ Een tweede modelberekening, nu voor een oost-west opstelling van 14 panelen van 
 - Seizoensspreiding: een goede julimaand levert grofweg vier keer zoveel op als een decembermaand. Reken op ruwweg 800-850 kWh in de beste zomermaand en 180-220 kWh in december.
 - Bij thuiswerken en een EV die overdag laadt, is een eigen verbruik van rond de twee derde haalbaar — juist de oost-west opstelling helpt daarbij, doordat de productie over meer uren gespreid is.
 
-**Modelmatige jaaropbrengst (afname €0,27/kWh, teruglevering €0,12/kWh):**
-- Eigen verbruik circa 3.600 kWh × €0,27 = **circa €970**
-- Teruglevering circa 1.800 kWh × €0,12 = **circa €215**
-- **Totaal: circa €1.185 per jaar**
-- Bij een investering van ongeveer €5.950 all-in geeft dat een terugverdientijd van **rond de vijf jaar**
+**Modelmatige jaaropbrengst (dezelfde aannames als hierboven: afname €0,26/kWh, teruglevering €0,07/kWh):**
+- Eigen verbruik circa 3.600 kWh × €0,26 = **circa €935**
+- Teruglevering circa 1.800 kWh × €0,07 = **circa €125**
+- **Totaal: circa €1.060 per jaar**
+- Bij een investering van ongeveer €5.950 all-in geeft dat een terugverdientijd van **rond de zes jaar**. Dat dit gunstiger uitpakt dan het voorbeeld hierboven komt door één aanname: een eigen verbruik van twee derde in plaats van iets meer dan de helft.
 
 **Waar je bij zo'n opstelling op moet letten:** panelen aan de rand van het dak — vooral in de noordwestelijke hoek — presteren doorgaans minder dan de rest, door een minder gunstige oriëntatie en meer randinvloed. Met micro-omvormers of optimizers per paneel beperk je de schade daarvan tot dat ene paneel in plaats van de hele string. Neem dat mee in de keuze tussen een string-omvormer en paneelniveau-elektronica.
 
@@ -341,17 +339,13 @@ Dit verklaart waarom de vuistregel "2× de framehoogte" populair is bij installa
 
 ## Windbestendigheid: wat installateurs niet altijd vertellen
 
-Platte daken in Nederland liggen in windgebied II (Randstad, binnenland) tot windgebied III (kust, Waddeneilanden). De windlastberekening is cruciaal voor een ballastsysteem.
+Nederland is voor windbelasting in drie windgebieden verdeeld, waarbij de kust en het Waddengebied de hoogste waarden kennen en het zuidoosten de laagste. Voor een ballastsysteem is die windlastberekening de kritieke stap: het systeem blijft niet liggen door zijn constructie, maar door zijn gewicht.
 
-**NEN 13201 windlastberekening (vereenvoudigd):**
+**Welke norm hier geldt:** windbelasting op bouwwerken wordt berekend volgens **NEN-EN 1991-1-4** (Eurocode 1, deel windbelasting) met de Nederlandse nationale bijlage. Die combineert het windgebied met de terreincategorie (bebouwd, onbebouwd, kustlijn) en de gebouwhoogte. Let op de veelgemaakte verwarring: NEN-EN 13201 gaat over openbare verlichting en heeft hier niets mee te maken.
 
-| Windgebied | Maximale winddruk (kN/m²) | Ballast per paneel (kg) |
-|---|---|---|
-| Windgebied I (Limburg, Brabant) | 0,85 | 15-20 kg |
-| Windgebied II (Randstad) | 1,10 | 20-28 kg |
-| Windgebied III (kust, Wadden) | 1,35 | 28-38 kg |
+Wij publiceren hier geen ballasttabel per windgebied: de benodigde ballast volgt niet uit het windgebied alleen, maar uit de systeemspecifieke aerodynamica van het gekozen frame. Elke serieuze leverancier van montagesystemen levert een projectberekening op basis van NEN-EN 1991-1-4 — vraag die op en laat je niet afschepen met een vuistregel.
 
-De randpanelen van een installatie krijgen hogere windbelasting dan de middenpanelen. Vergeet dit niet: de hoekpanelen (uiterste rijen + kolommen) hebben soms 50% meer ballast nodig dan de middenpanelen.
+De randpanelen van een installatie krijgen een hogere windbelasting dan de middenpanelen; hoek- en randposities hebben in de berekening doorgaans substantieel meer ballast nodig. Controleer dus of de berekening onderscheid maakt tussen zones en niet één getal voor het hele veld noemt.
 
 **Wat de praktijk bij zware stormen leert:**
 Bij Nederlandse najaarsstormen met windstoten van boven de 100 km/u zijn afgewaaide panelen van ballastsystemen geen breed gerapporteerd fenomeen. Waar wel schade optreedt, gaat het doorgaans om afwerk- en windkeringsprofielen die verschuiven, niet om panelen die loskomen. De uitzondering die er wel toe doet: installaties waarbij te weinig ballast is toegepast voor de windzone, of waarbij de hoek- en randpanelen dezelfde ballast kregen als de middenpanelen.
@@ -362,7 +356,7 @@ Mits correct doorgerekend is een ballastsysteem dus windbestendig voor Nederland
 
 ## Dakbedekking en levensduur combineren
 
-Een plat dak met zonnepanelen heeft een langere levensduur dan een plat dak zonder — dit klinkt contra-intuïtief, maar klopt. De panelen beschermen de dakbedekking tegen UV-straling en thermische stress, waardoor de dakbedekking minder snel veroudert.
+Panelen op een plat dak houden UV-straling en een deel van de temperatuurwisselingen van de dakbedekking af, en dat zijn precies de twee mechanismen waardoor bitumen en kunststof dakbanen verouderen. Hoeveel jaar dakleven dat oplevert, is niet met publieke cijfers hard te maken — verwacht dus geen extra levensduur waar je op kunt rekenen, maar houd wel rekening met de omgekeerde kant: de leeftijd van je dakbedekking bepaalt of je nú panelen moet leggen.
 
 **Wat je wél moet weten:**
 
@@ -386,7 +380,7 @@ Met een plat-dak-installatie ben je meestal niet zomaar op het dak om te kijken 
 
 2. **SolarEdge mySolarEdge** (bij SolarEdge): ook paneelmonitoring, maar via de centrale omvormer. Iets minder granulaire data dan Enphase.
 
-3. **P1-meter** (zoals de Homewizard Energy of DSMR-logger): monitort het totale stroomverbruik en de netto teruglevering. Combineer met de omvormer-app voor een compleet beeld.
+3. **Een P1-meter** monitort het totale stroomverbruik en de netto teruglevering aan de meterkant, los van de omvormer. Combineer die twee bronnen en je ziet niet alleen wat het dak opwekt, maar ook welk deel je zelf verbruikt — na de salderingsstop het getal dat je rendement bepaalt. De <a href="https://go.duurzaamthuislab.nl/homewizard" rel="noopener nofollow sponsored" target="_blank">HomeWizard P1-meter</a> kost €24,95 (homewizard.com, opgehaald 21 augustus 2026); een DSMR-logger of Home Assistant met P1-kabel doet hetzelfde werk.
 
 **Wanneer je een monteur moet bellen:**
 - Als een paneel consistent meer dan 15% onder verwachting presteert
@@ -408,7 +402,7 @@ Met een plat-dak-installatie ben je meestal niet zomaar op het dak om te kijken 
 | Montagekosten extra | +€30-€80/paneel | 0 (dakbeugel standaard) |
 | Onderhoudstoegang | Eenvoudig | Lastiger (dakwerkzaamheden) |
 | Windinvloed | Meer aandacht ballast | Weinig extra aandacht |
-| 25-jaar netto opbrengst (€) | €18.000-€22.000 | €14.000-€18.000 |
+| 25-jaar netto opbrengst (€, modelmatig) | €18.000-€22.000 | €14.000-€18.000 |
 
 Op een plat dak kun je met oost-west meer panelen kwijt, wat de lagere opbrengst per paneel ruimschoots compenseert. Over 25 jaar genereert een oost-west plat-dak-installatie (16 panelen) vaak meer totaalopbrengst dan een zuiden-schuin-dak-installatie (10 panelen).
 
@@ -418,11 +412,11 @@ Op een plat dak kun je met oost-west meer panelen kwijt, wat de lagere opbrengst
 
 **0% BTW**: geldt ook voor plat dak bij woning (inclusief aanbouw/garage bij de woning). Geeft gemiddeld €500-€900 korting op een 10-paneelinstallatie.
 
-**Saldering 2026**: nog volledig van kracht voor installaties in gebruik voor 31 december 2026. Daarna geldt de nieuwe terugleververgoeding (circa €0,10/kWh).
+**Saldering**: de salderingsregeling stopt **volledig per 1 januari 2027**. Er is géén overgangsrecht en geen afbouwpad: ook wie zijn panelen in 2026 in gebruik neemt, saldeert vanaf 1 januari 2027 niet meer. Het jaar van installatie maakt voor de saldering dus geen verschil — laat je niet tot haast verleiden met het argument dat je "er nog net onder valt". Wat je daarna voor teruggeleverde stroom krijgt, bepaalt je leverancier; er is voor 2027 nog geen tarief gepubliceerd, dus we rekenen in dit artikel met een gelabelde aanname van €0,07/kWh.
 
-**Gemeentelijke subsidies**: sommige gemeenten bieden nog een aanvullende subsidie voor zonnepanelen bij woningen in beschermde gebieden of voor VvE's. Check de [RVO subsidiedatabase](https://www.rvo.nl/subsidies-financiering).
+**Gemeentelijke en provinciale regelingen**: die bestaan, maar verschillen per gemeente en veranderen tussentijds. Wij noemen geen bedragen die we niet per regeling kunnen onderbouwen; zoek je eigen postcode op in de [RVO-subsidiedatabase](https://www.rvo.nl/subsidies-financiering) en bij je eigen gemeente.
 
-**VvE-specifiek**: appartementencomplexen met een VvE kunnen gebruik maken van de Stimuleringsregeling Energieprestatie Huursector (STEP) of de ISDE-subsidie voor VvE's. Dit vereist een formeel VvE-besluit, maar de subsidiebedragen kunnen aanzienlijk zijn voor grotere daken.
+**VvE-specifiek**: voor een VvE loopt de rijkssubsidie via de **SVVE** (Subsidieregeling verduurzaming voor verenigingen van eigenaars), niet via de ISDE en niet via de STEP — die laatste regeling is in 2018 beëindigd. De SVVE vergoedt onder andere energieadvies, een meerjarenonderhoudsplan en verduurzamingsmaatregelen; zonnepanelen vallen er alleen onder in combinatie met de voorwaarden die RVO per maatregel stelt. Een formeel VvE-besluit is altijd vereist. Check de actuele voorwaarden en bedragen bij RVO voordat je iets vastlegt.
 
 ---
 
@@ -440,10 +434,7 @@ Als de ruimte onder het dak geconditioneerd is (kantoor, woonruimte), leidt een 
 
 ## Conclusie
 
-Zonnepanelen op een plat dak zijn een goede investering: in de modelberekeningen hierboven komt de terugverdientijd uit tussen vier en zes jaar, afhankelijk van je eigen verbruik en de energieprijzen. Kies oost-west als je maximaal wilt opwekken op een beperkt dak, of zuid als opbrengst per paneel prioriteit heeft. Een ballastsysteem is voor de meeste daken de veiligste en voordeligste keuze.
-
-
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
+Zonnepanelen op een plat dak blijven rendabel, maar met andere getallen dan vóór 2027: in de modelberekeningen hierboven komt de terugverdientijd uit tussen zes en acht jaar, en de uitkomst wordt vooral bepaald door het aandeel eigen verbruik — niet door de opbrengst van het dak. Kies oost-west als je maximaal wilt opwekken op een beperkt dak of je verbruik over de dag gespreid is, en zuid als opbrengst per paneel prioriteit heeft. Een ballastsysteem is voor de meeste daken de veiligste en voordeligste keuze, op voorwaarde dat de windlastberekening op tafel komt.
 
 
 
@@ -457,4 +448,4 @@ Zonnepanelen op een plat dak zijn een goede investering: in de modelberekeningen
 
 ---
 
-*Laatst bijgewerkt: juni 2026.*
+*Laatst bijgewerkt: 21 augustus 2026.*
