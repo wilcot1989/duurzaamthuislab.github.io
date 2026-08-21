@@ -4,6 +4,7 @@ title = "DuurzaamThuisLab"
 theme = "starter"
 
 [params]
+  verdienendeSlugs = ["ecoflow","jackery","bluetti","bluetti-eu","anker-solix","allpowers","energiedirect","zendure","homewizard","renogy"]
   description = "Onafhankelijke reviews en vergelijkingen van powerstations, thuisbatterijen, zonnepaneel-accessoires en energiebesparende technologie."
   author = "DuurzaamThuisLab"
   tagline = "Slimmer omgaan met energie"

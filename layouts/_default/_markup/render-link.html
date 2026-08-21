@@ -1,7 +1,9 @@
 {{- $href := .Destination -}}
-{{- $isAffiliate := or (hasPrefix $href "https://go.") (hasPrefix $href "http://go.") -}}
-{{- if $isAffiliate -}}
-<a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} target="_blank" rel="nofollow sponsored noopener">{{ .Text | safeHTML }}</a>
+{{- $isGo := or (hasPrefix $href "https://go.") (hasPrefix $href "http://go.") -}}
+{{- if $isGo -}}
+{{- $slug := index (split (index (split $href "go.duurzaamthuislab.nl/") 1 | default "") "?") 0 -}}
+{{- $verdient := in (site.Params.verdienendeSlugs | default slice) $slug -}}
+<a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} target="_blank" rel="nofollow{{ if $verdient }} sponsored{{ end }} noopener">{{ .Text | safeHTML }}</a>
 {{- else -}}
 <a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
 {{- end -}}
