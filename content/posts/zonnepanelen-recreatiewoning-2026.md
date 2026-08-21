@@ -1,8 +1,8 @@
 ---
 title: 'Zonnepanelen Recreatiewoning 2026: On-grid of Off-grid?'
 date: 2026-07-29 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: 'Zonnepanelen op je vakantiewoning of recreatiewoning: on-grid of off-grid? Wij leggen de keuzes uit, met kosten en de speciale aandachtspunten voor parken in Nederland 2026.'
+lastmod: '2026-08-21 08:00:00+02:00'
+description: 'Zonnepanelen op een recreatiewoning of chalet: wanneer on-grid loont, wanneer off-grid, en welke park-, btw- en verzekeringsregels je vooraf moet uitzoeken.'
 draft: false
 categories:
 - zonnepanelen
@@ -26,469 +26,154 @@ featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1487730116645-744
 schema_type: Article
 affiliate: true
 faq:
-- q: 'Mag ik zonnepanelen op mijn recreatiewoning?'
-  a: 'Op eigen grond met netaansluiting: meestal vergunningvrij. Op een park: vraag toestemming parkbeheer en check parkreglement. Soms apart vergunning­plichtig wegens beschermd landschap.'
-- q: 'On-grid of off-grid voor vakantiewoning?'
-  a: 'On-grid (aangesloten op net): zinvol bij intensief gebruik (>8 weekenden/jaar). Off-grid: ideaal voor weinig-gebruikte woningen of als geen netaansluiting mogelijk is. Off-grid duurder maar meer onafhankelijk.'
-- q: 'Wat kost een off-grid zonnepanelinstallatie?'
-  a: 'Voor een chalet 50m² met 6 panelen + 5 kWh batterij + omvormer: €5.500-€8.500 inclusief installatie. Bij DIY ~€3.500. Veel duurder dan on-grid omdat batterij verplicht is.'
-- q: 'Krijg ik salderingsvoordeel op recreatiewoning?'
-  a: 'Ja, mits aangesloten op het net en bij een energieleverancier. Vaak hebben recreatiewoningen aparte tarieven (forfait of dynamisch) — check je contract. Saldering wordt afgebouwd vanaf 2027.'
-- q: 'Werkt een caravan/camper-laadsysteem ook?'
-  a: 'Caravan/camper-systemen zijn 12V, voor ~100-300W. Voor recreatiewoning te klein (gebruikt 230V huishoudelijk). Wel handig als noodvoeding bij off-grid micro-installatie (lampen, kookstoven).'
-- q: 'Wat als parkbeheer toestemming weigert?'
-  a: 'Kijk naar parkreglement: mag dit weigeren? Sinds 2024 hebben recreatie-eigenaars in vergelijkbare situatie als VVE meer rechten. Bemiddeling en eventueel rechter mogelijk.'
-products:
-- name: Victron MultiPlus II off-grid
-  url: https://www.victronenergy.nl/
-  price: '1800'
-- name: Pylontech US5000
-  url: https://en.pylontech.com.cn/
-  price: '1450'
-- name: Bluetti AC500 + B300S
-  url: https://go.duurzaamthuislab.nl/bluetti-eu
-  price: '4299'
----
-**Modelcasus** (fictief rekenvoorbeeld met expliciete aannames — geen klantcase): een vakantiewoning op een park, 14 weken per jaar in gebruik, jaarlijkse energiekosten via de gemeenschappelijke parkmeter €680. Het park staat zonnepanelen toe mits "passend in het landschap", maar er is geen eigen netaansluiting per chalet — on-grid met saldering valt dus af.
-
-Een hybride aanpak past dan: 6 panelen op het schuine dak (met park-akkoord), een omvormer in de technische kast en een batterij van circa 5 kWh voor de avonden — off-grid voor het chalet zelf, zonder aansluiting op het parknet. Stel de investering op circa €7.200 (indicatie, vraag offertes): bij het wegvallen van €680 aan jaarkosten is de rekenkundige terugverdientijd ruim tien jaar. Dat is dus geen snelle besparing — de winst zit vooral in onafhankelijkheid van de parkmeter en de discussies daarover, niet in het rendement.
-
-Hieronder de gids voor zonnepanelen op recreatiewoningen, vakantiehuizen en chalets in 2026.
-
-*Disclosure: de link naar Bluetti is een affiliate-link via het AWIN-netwerk: koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Met de overige genoemde merken (Victron, Pylontech) hebben wij geen affiliate- of commissierelatie; die links zijn gewone verwijzingen.*
-
-
-> **Kort antwoord:** Zonnepanelen op je vakantiewoning of recreatiewoning: on-grid of off-grid? Wij leggen de keuzes uit, met kosten en de speciale aandachtspunten voor parken in Nederland 2026.
->
-> Op eigen grond met netaansluiting: meestal vergunningvrij. Op een park: vraag toestemming parkbeheer en check parkreglement. Soms apart vergunning­plichtig wegens beschermd landschap.
-
-## Drie scenario's
-
-### Scenario A: On-grid op eigen perceel
-
-Recreatiewoning op eigen grond met eigen aansluiting (Liander/Stedin/Enexis). Zelfde regels als gewone woning.
-- Saldering werkt
-- Btw: het 0%-tarief voor zonnepanelen geldt voor panelen op of bij een woning — of jouw recreatiewoning kwalificeert, hangt van de woonfunctie af (check Belastingdienst)
-- Subsidies vergelijkbaar met hoofdwoning
-
-### Scenario B: On-grid via park-meter
-
-Park heeft één hoofdaansluiting, alle woningen via gedeelde meter en interne tellertjes.
-
-Ingewikkeld:
-- Saldering vaak niet direct mogelijk
-- Tussen-meter regelt opbrengst tegen interne prijs
-- Verschilt per park sterk
-
-### Scenario C: Off-grid
-
-Geen aansluiting op net (gewone of park). 100% eigen energie.
-
-Vereist:
-- Voldoende panelen (gewoonlijk 6-12)
-- Batterij verplicht
-- Eigen omvormer
-- Reserve-generator overwogen
-
-## Voor- en nadelen on-grid
-
-### Voordelen on-grid recreatiewoning
-
-- Saldering benutten
-- Goedkoper (geen batterij verplicht)
-- Eenvoudige installatie
-- Subsidies aanvraagbaar
-
-### Nadelen on-grid
-
-- Maandelijks vastrecht ook bij niet-gebruik
-- Vaak hogere tarieven recreatiewoning
-- Soms vermogensbegrenzing van park
-
-## Voor- en nadelen off-grid
-
-### Voordelen off-grid
-
-- Geen vaste maandkosten
-- Volledig onafhankelijk
-- Flexibel — kun je afkoppelen / verplaatsen
-- Geen administratie park
-
-### Nadelen off-grid
-
-- Hogere investering (batterij verplicht)
-- Vaker beperking van vermogen
-- Reserveer voor "donkere week"
-- Geen subsidies (sommige) bij niet-net-gekoppelde
-
-## Stappenplan: planning
-
-### Stap 1: Bepaal gebruik
-
-Hoeveel weekenden + vakanties per jaar?
-- <4 weken/jaar: off-grid kan rendabel zijn
-- 4-12 weken/jaar: gemengd
-- >12 weken/jaar: on-grid bijna altijd beter
-
-Energieverbruik per dag:
-- Eenvoudig (lichten + koelkast + tv): 5-8 kWh/dag
-- Standaard (incl. inductiekookplaat): 12-18 kWh/dag
-- Volle gezin (alles): 18-25 kWh/dag
-
-### Stap 2: Check park-reglement
-
-Recreatieparken hebben eigen regels. Check:
-- Mag plaatsing van zonnepanelen?
-- Welk type/kleur/zichtbaarheid?
-- Mag systeem off-grid zijn (met batterij)?
-- Veiligheidseisen
-- Vergoeding/eigen bijdrage
-
-Bij weigering: bekijk parkstatuten + recente jurisprudentie.
-
-### Stap 3: Bepaal scenario
-
-Op basis van gebruik + park-regels: A (eigen aansluiting), B (park-meter), of C (off-grid).
-
-### Stap 4: Vraag offerte
-
-Bij gespecialiseerde installateur. Vermeld:
-- Locatie + bereikbaarheid
-- Type woning (chalet, stenen, mobile home)
-- Gewenst scenario
-- Verwachte verbruik
-
-Voor off-grid: zoek installateur met off-grid ervaring (vraag referenties).
-
-### Stap 5: Subsidies onderzoeken
-
-Voor on-grid: zelfde regelingen als hoofdwoning.
-Voor off-grid: beperkter — soms wel via eilandgemeenten of duurzaamheidsfondsen provincie.
-
-### Stap 6: Plaatsing
-
-Recreatiewoning vaak compacter: 6-12 panelen typisch.
-
-### Stap 7: Bewaking en onderhoud
-
-Belangrijker dan op hoofdwoning omdat je er weken niet bent:
-- Storingsmelding via app
-- Jaarlijkse check (bij voorkeur)
-- Buurman-contact bij problemen
-
-## Off-grid systeemontwerp
-
-Voor off-grid recreatiewoning typisch:
-
-### Kleine installatie (<5 kWh/dag verbruik)
-
-- 4 zonnepanelen × 425 Wp = 1,7 kWp
-- 2,5-5 kWh batterij (Pylontech US5000 of vergelijkbaar)
-- Off-grid omvormer Victron MultiPlus II 3kVA
-- DC-zekeringen, kabels
-- Investering: €4.500-€6.500
-
-### Standaard installatie (8-15 kWh/dag)
-
-- 8 zonnepanelen × 425 Wp = 3,4 kWp
-- 5-10 kWh batterij
-- Off-grid omvormer Victron MultiPlus II 5kVA
-- Investering: €6.500-€9.500
-
-### Premium installatie (15-25 kWh/dag)
-
-- 12-16 zonnepanelen = 5-7 kWp
-- 10-15 kWh batterij
-- Off-grid omvormer + eventueel diesel-backup
-- Investering: €9.500-€16.000
-
-Lees [Victron thuisbatterij review](/posts/victron-thuisbatterij-review-2026/) voor uitleg over off-grid systemen.
-
-## Aanbevolen merken voor off-grid recreatie
-
-### Omvormer
-
-- **Victron MultiPlus II**: industrie-standaard, 5+ jaar levensduur. Lees [Victron review](/posts/victron-thuisbatterij-review-2026/).
-- **Studer Innotec Xtender**: Zwitsers, premium. Voor extreme situaties.
-
-### Batterij
-
-- **Pylontech US5000**: prijs/kwaliteit. Lees [Pylontech review](/posts/pylontech-thuisbatterij-review-2026/).
-- **BYD Battery-Box LV**: lage spanning, ideaal voor off-grid.
-- **Marstek Venus**: budget-vriendelijk. Lees [Marstek review](/posts/marstek-venus-review-thuisbatterij/).
-
-### Voor mobiele situaties
-
-- **Bluetti AC500 + B300S**: 6 kWh, draagbaar. Lees [Bluetti review](/posts/bluetti-ac200max-review-2026/).
-- **EcoFlow Delta Pro Ultra**: modulair tot 90 kWh. Lees [EcoFlow review](/posts/ecoflow-delta-2-max-review-2026/).
-- **Goal Zero Yeti 6000X**: robuust. Lees [Goal Zero review](/posts/goal-zero-yeti-6000x-review-2026/).
-
-## Speciale aandachtspunten parken
-
-### Zichtbaarheid
-
-Parken in beschermd landschap (Veluwe, Drentse Aa, etc.) hebben vaak strenge regels:
-- Geïntegreerde panelen verplicht (in-dak)
-- Specifieke kleur (antraciet meestal)
-- Maximum aantal panelen
-- Niet zichtbaar vanaf openbare paden
-
-### Brandveiligheid
-
-Houten chalets vaak strengere brandveiligheidseisen:
-- Brandwerende ondervloer onder panelen
-- DC shutdown bij brand verplicht
-- Routing kabels via brandwerende kanalen
-
-### Verzekering
-
-Recreatiewoning-verzekering vaak duurder en met restricties. Speciaal voor zonnepanelen:
-- Sommige verzekeraars dekken niet zonder gecertificeerde installatie
-- Premie-stijging vaak hoger dan bij hoofdwoning
-
-Lees [zonnepanelen verzekering opstal](/posts/zonnepanelen-verzekering-opstal-2026/).
-
-### Diefstal-risico
-
-Bij niet-bewoning meer risico. Beveiligingsoverwegingen:
-- Geen omvormer in zichtbare ruimte
-- Camera bij installatie
-- Goede sloten op technische ruimte
-
-## Combinatie met dynamisch contract
-
-Voor on-grid recreatiewoning: dynamisch contract zinvol als regelmatig gebruikt. Buiten gebruiksdagen telt vastrecht door.
-
-Voor off-grid: niet relevant — geen contract nodig.
-
-Lees [Tibber review](/posts/tibber-review-ervaringen-2026/), [Frank Energie review](/posts/frank-energie-review-ervaringen-2026/) en [dynamische energiecontracten vergelijking](/posts/dynamische-energiecontracten-vergelijking-2026/).
-
-## Voorbeelden uit de praktijk
-
-### Casus 1: Chalet Drenthe (off-grid hybride)
-
-Mijn opening-verhaal. Echtpaar 14 weken/jaar gebruik.
-
-Investering: €7.200
-- 6× zonnepanelen 425Wp: €700
-- Off-grid omvormer Victron 3 kVA: €1.500
-- Pylontech US5000: €1.450
-- Installatiematerialen: €350
-- Arbeidskosten installateur (2 dagen): €1.700
-- Park-aanpassingsbijdrage: €500
-- Eigen reserveringen: €1.000
-
-Energiebesparing:
-- Voorheen: €680/jaar park-energierekening
-- Nu: €0
-- Plus: park-vastrecht weggevallen (geen meter meer)
-- Terugverdientijd: 10,5 jaar (langzaam, maar autonomie waard)
-
-### Casus 2: Vakantiewoning Friesland (on-grid eigen aansluiting)
-
-Familiebezitting, 22 weken/jaar gebruik.
-
-Investering: €4.800
-- 12× zonnepanelen 425Wp: €1.200
-- Goodwe MS 4 kW omvormer: €750
-- Montagesysteem K2: €450
-- Bedrading + materialen: €350
-- Installatiekosten: €2.050
-
-Energiebesparing:
-- Voorheen: €1.150/jaar
-- Nu: €420/jaar (na saldering, nog wel vastrecht)
-- Besparing: €730/jaar
-- Terugverdientijd: 6,6 jaar
-
-### Casus 3: Mobiele home Zeeland (klein off-grid)
-
-Pensionada-stel, 30 weken/jaar gebruik. Mobiele home zonder net-aansluiting (te duur om te trekken).
-
-Investering: €3.800
-- 4× zonnepanelen 425Wp: €450
-- Bluetti AC500 + 1× B300S: €4.299 (NB inclusief alles!)
-- Aansluitingsmateriaal: €150
-- DIY-installatie
-
-Verbruik vrij beperkt (lichten, kookplaatje, koelkast). Volledig zelfvoorzienend.
-
-Eigenaars vermelden dat ze in 4 jaar geen storing hadden. Zonnepanelen + powerstation simpel en duurzaam.
-
-## Onderhoud op afstand
-
-Voor recreatiewoning extra belangrijk omdat je er niet altijd bent:
-
-### Monitoring
-
-- Goede app met notificaties
-- 4G/5G modem voor remote monitoring (als geen WiFi)
-- Buurman als achterwacht
-
-### Bezoek-cyclus
-
-- Maandelijks tijdens niet-gebruik: visuele inspectie
-- Halfjaarlijks: omvormer, bedrading
-- Jaarlijks: schoonmaak panelen
-- Bij storingen: snel reageren
-
-### Storingen
-
-Veel voorkomende storingen op recreatiewoning:
-- Marters bijten kabels door (vooral in Veluwe-gebied)
-- Vogelpoep op individuele panelen (verminderde productie)
-- Vorst-schade bij off-grid batterij (binnen <0°C kan capaciteit verlagen)
-- Internet-uitval verstoort monitoring
-
-## Verzekering specifiek
-
-Voor recreatiewoning-verzekering:
-- Brandverzekering: 100% noodzaak
-- Inboedelverzekering: optie
-- Aanspraakverzekering: aanrader
-- Diefstal-uitbreiding: aanrader
-
-Bij zonnepanelen: meld bij polis, krijg schriftelijke bevestiging.
-
-Lees [zonnepanelen verzekering opstal](/posts/zonnepanelen-verzekering-opstal-2026/).
-
-## Saldering 2027 voor recreatiewoning
-
-Met afbouw saldering vanaf 2027 verandert rendement on-grid. Voor recreatiewoning specifiek:
-- Minder dagelijks profijt (terug-leveren minder gunstig)
-- Off-grid wordt relatief aantrekkelijker
-- Of: thuisbatterij toevoegen aan on-grid
-
-Lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) en [batterij na 2027 zonder zonnepanelen](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/).
-
-## Conclusie: planning bepaalt rendabiliteit
-
-Zonnepanelen op recreatiewoning zijn vaak rendabel maar vereisen specifieke planning. Onze aanbevelingen:
-
-1. **Bepaal eerst gebruiks-intensiteit**: weinig gebruik = off-grid, vaak gebruik = on-grid
-2. **Check park-regels** vóór investering
-3. **Voor off-grid: investeer in goede batterij** (Pylontech of Victron)
-4. **Plan voor monitoring op afstand** (4G modem, buurman, etc.)
-5. **Verzekering aanpassen** met schriftelijke bevestiging
-6. **Combineer met andere verduurzaming**: warmtepompboiler, isolatie
-
-Voor verdere lezing: [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/), [Victron thuisbatterij review](/posts/victron-thuisbatterij-review-2026/), [Pylontech review](/posts/pylontech-thuisbatterij-review-2026/), [zonnefolie flexibele zonnepanelen](/posts/zonnefolie-flexibele-zonnepanelen-2026/) en [zonnepanelen DIY vs installateur](/posts/zonnepanelen-diy-vs-installateur-2026/).
-
-## Rekenvoorbeeld: houten chalet van 36 m² op een park
-
-Onderstaande doorrekening geldt voor een veelvoorkomende situatie: een houten chalet van circa 36 m² op een vakantiepark met eigen parkaansluiting, waar het park circa €0,42/kWh rekent inclusief vaste lasten — ook in de winter, als de woning leegstaat.
-
-Opstelling in het model: 4 panelen op het dak, een kleine 2 kWh loodaccu of LiFePO4-pakket en een MPPT-laadregelaar. Zo'n set is in de zomermaanden (mei tot en met september) doorgaans zelfvoorzienend voor verlichting en koelkast; in de winter val je terug op de parkaansluiting.
-
-De belangrijkste les uit de rekensom: bij parttime gebruik (grofweg 6 weekenden en 3 weken per jaar) is volledig off-grid bijna altijd duurder dan verwacht, omdat je batterijcapaciteit koopt die je nauwelijks benut. Een hybride opzet — panelen plus kleine batterij plus parkaansluiting — is realistischer. Bij een investering van circa €2.480 en een daling van de verbruikskosten van €580 naar €165 per jaar komt de rekenkundige terugverdientijd rond zes jaar uit. Daarbij komt een comfortvoordeel: je kunt apparatuur tegen condensvorming laten doorlopen terwijl je er niet bent.
-
-## Diepgang: setup-types per recreatiewoning-type
-
-### Type 1: Park met netaansluiting (typisch Veluwe, Brabant)
-
-- Aanbevolen: 4-8 on-grid panelen + kleine batterij (2-5 kWh)
-- Investering: €2.500-€5.500
-- Saldering: meestal NIET, want park heeft vaak gemeenschappelijke meter
-- Btw: zonder woonfunctie geldt het 0%-tarief doorgaans niet en betaal je 21% — check je situatie bij de Belastingdienst
-- Aandachtspunt: park-reglement check vooraf (welstand, kabelroutes)
-
-### Type 2: Solitair vakantiewoning eigen perceel
-
-- Aanbevolen: 6-10 panelen on-grid + 5-10 kWh batterij
-- Investering: €4.500-€9.000
-- Subsidie ISDE: nee voor zonnepanelen, ja voor warmtepompboiler in vakantiewoning
-- Btw: 0%-tarief alleen als de vakantiewoning als woning kwalificeert; verhuur je hem, dan kan btw-terugvragen via ondernemerschap spelen — vraag een adviseur
-
-### Type 3: Off-grid (boshuis, eiland)
-
-- Aanbevolen: 8-12 panelen + 10-15 kWh LiFePO4 + Victron MultiPlus II
-- Investering: €9.000-€16.000
-- Aggregaat als backup: €1.200-€2.400
-- Aandachtspunt: realistische dimensionering op winter-laagstand (december productie ~10% van zomer)
-
-## NL-specifiek: regelgeving recreatiewoningen
-
-- **Recreatieve bestemming**: zonnepanelen mogen, maar gemeentelijk welstands-toezicht kan op parken streng zijn
-- **Btw (0%-tarief)**: het nultarief voor zonnepanelen geldt voor panelen op of bij een wóning; bij een puur recreatieve bestemming geldt het doorgaans niet (21%). De grens is fiscaal precies — geef je situatie eerlijk op en raadpleeg de Belastingdienst of een adviseur
-- **ISDE warmtepomp recreatiewoning**: kan, mits woning >50% van jaar bewoonbaar
-- **Verzekering**: vraag opstal apart na voor recreatiewoning; Centraal Beheer en Klaverblad hebben vakantiewoning-polissen
-
-## Mini case: solitair tuinhuis Friesland
-
-Klant 2024: zelfgebouwd tuinhuis 28 m² aan watertje in Friesland, geen netaansluiting. Wens: licht, koelkast, laadpunt voor telefoons/laptops, soms TV.
-
-- 6 × 410 W panelen op zuid-dak: €1.620
-- Victron MPPT 100/30 + omvormer 800 W: €580
-- 10 kWh LiFePO4 (Pylontech US3000): €3.420
-- Installatie + bedrading: €1.200
-- Totaal: €6.820
-
-Resultaat: 100% autonoom mei-oktober. Winter: aggregaat 2-3 keer per maand bijladen tijdens vakanties (kosten €40 brandstof per seizoen). Voor klant volledig acceptabel.
-
-## Veelgemaakte fouten
-
-**Fout 1: Te kleine batterij voor parttime gebruik**
-Bij 2-3 weekenden per maand is een grotere batterij rendabeler dan bij dagelijks gebruik — anders staat panelen-overschot dagenlang ongebruikt.
-
-**Fout 2: Netaansluiting weghalen voor "100% off-grid feeling"**
-Als netaansluiting al ligt: behoud die. Backup-mogelijkheid, gemak en hogere woningwaarde.
-
-**Fout 3: Goedkope AGM batterij**
-Voor seizoensgebruik is LiFePO4 essentieel — AGM heeft slecht gedrag bij lange standby (zelfontlading 5-10%/maand vs 1% LiFePO4).
-
-**Fout 4: Geen vorstbescherming**
-Recreatiewoningen vriezen 's winters. LiFePO4 mag niet onder 0 °C laden. Kies modellen met ingebouwde verwarming of plaats batterij vorstvrij.
-
-**Fout 5: Vergunning park overslaan**
-Veel parken hebben welstand of bestuursbesluit nodig vóór plaatsing. Achteraf wegnemen is duur.
-
-## Wanneer recreatiewoning-zonnepanelen NIET de moeite waard zijn
-
-- **Park met inclusief energie-pakket**: geen prikkel om eigen op te wekken
-- **Pand alleen 2-3 weken per jaar gebruikt**: terugverdientijd loopt boven 12 jaar
-- **Pand op slooplijst of bestemmingswijziging**: investering verloren
-- **Permanent vochtig dak (riet, mossig leien)**: voor montage te risicovol zonder hoge meerkosten
-
-## Extra FAQ
-
-**Krijg ik subsidie voor recreatiewoning?**
-ISDE niet voor zonnepanelen, wel voor warmtepompboiler. Provinciale subsidies vrijwel nooit voor recreatiewoning. Check gemeente — sommige gemeentes (zoals Apeldoorn voor Hoge Veluwe-randwoningen) hebben specifieke regelingen.
-
-**Mag ik panelen demonteren bij verkoop?**
-Ja, maar gewoonlijk worden ze in de koopovereenkomst meeverkocht. Demonteren kost €600-€1.000 + dakherstel.
-
-**Werkt een aggregaat samen met zonnepaneel-systeem?**
-Ja, mits Victron MultiPlus II of vergelijkbare hybride-omvormer met aggregaat-input. Standaard string-omvormer kan aggregaat NIET als bron gebruiken.
-
-**Wat te doen bij langdurige afwezigheid (winter)?**
-LiFePO4 op 50% lading achterlaten, verwarming uit, batterij vorstvrij. Lichte panelen blijven functioneren maar hoeven niet vol te laden.
-
-## Total cost of ownership 15 jaar — recreatie-setups
-
-Drie scenario's vergeleken voor een vakantiewoning op de Veluwe (gemiddeld 8 weken per jaar bewoond):
-
-| Setup | Investering | Onderhoud 15 jr | Totaal 15 jr |
-|-------|-------------|-----------------|--------------|
-| On-grid 8 panelen netaansluiting | 6.200 | 800 | 8.400 (incl. nettarief) |
-| Hybride 6 panelen + 5 kWh batterij | 8.400 | 1.450 | 12.150 |
-| Off-grid 8 panelen + 10 kWh + diesel-bijset | 13.200 | 4.200 | 22.300 |
-
-On-grid wint duidelijk waar netaansluiting beschikbaar is. Off-grid zinvol bij meer dan 1.500 euro netaansluitingskosten (kabel langer dan 200 m). Hybride is de tussenweg: enige onafhankelijkheid bij stroomstoring, betaalbaar.
-
-## Mini case 2: chalet Belgisch grenspark
-
-Klant met chalet in Heesselt-Eindhoven, gebruikt 9-10 weken per jaar verspreid over zomer en herfstvakantie. Off-grid setup uit 2023: 6 panelen 1.680 Wp, 8 kWh LiFePO4, 3 kVA omvormer, totale investering 9.800 euro. Werkelijk verbruik: 145 kWh per verblijf (TV + koelkast + LED-verlichting + soms warmwater via gas). Setup voldoet 95 procent van het jaar, alleen in december bij volledige bewolking moet klant op gas-warmwater terugvallen. Belangrijkste les: koop genoeg buffer (minimaal 2x dagverbruik) anders gaat de batterij elke avond leeg en heb je 's nachts geen koeling.
-
-## Wanneer recreatie-zonnepanelen NIET interessant zijn
-
-Drie heldere afwegingen. Een: gehuurde stacaravan zonder toestemming van parkeigenaar — vrijwel altijd verboden. Twee: chalets in beschermd natuurgebied met bouwbeperkingen — vergunning vaak afgewezen. Drie: zomerhuizen die je verkoopt over 3-5 jaar — investering haalt terugverdientijd niet, beter geld in dak-isolatie steken. Vraag altijd eerst aan parkbestuur of er een collectieve route is — soms biedt een park gemeenschappelijke zonneweide tegen 6-8 cent per kWh.
-
-**Mag ik panelen plaatsen op mijn caravan of camper?**
-Op jouw eigen caravan of camper: ja, geen vergunning nodig. Op een stacaravan in een park: vrijwel altijd toestemming parkbestuur nodig, soms aparte vergunning gemeente. Camper-panelen vallen onder "voertuigen" en zijn vrij plaatsbaar.
-
-**Hoe dek ik diefstal van mobiele panelen?**
-Inboedelverzekering met "buitenshuis"-clausule of een speciale recreatiewoning-polis. Standaard opstal dekt panelen op caravan vrijwel nooit.
-
+- q: 'Mag ik zonnepanelen op mijn recreatiewoning plaatsen?'
+  a: 'Staat de woning op eigen grond met een eigen netaansluiting, dan gelden in beginsel dezelfde regels als bij een gewone woning en is plaatsing op het dak vaak vergunningvrij. Staat de woning op een recreatiepark, dan komt daar het parkreglement bovenop: parken stellen regelmatig eisen aan zichtbaarheid, kleur en aantal panelen, en soms is toestemming van het parkbestuur vereist. In een beschermd landschap of bij een monument kan bovendien een omgevingsvergunning nodig zijn. Vraag het na bij je gemeente én bij het parkbestuur voordat je een offerte tekent.'
+- q: 'On-grid of off-grid voor een vakantiewoning?'
+  a: 'De gebruiksintensiteit is doorslaggevend. Ligt er al een netaansluiting en gebruik je de woning regelmatig, dan is on-grid vrijwel altijd goedkoper: je hebt geen batterij nodig om de nacht te overbruggen en je overschot gaat het net op. Is er geen aansluiting en zou aanleg fors kosten, dan wordt off-grid interessant — niet omdat het goedkoper is, maar omdat de aansluiting zelf de grootste kostenpost zou zijn. Vraag altijd eerst een offerte voor de netaansluiting op bij je netbeheerder voordat je off-grid als vaststaand uitgangspunt neemt.'
+- q: 'Wat kost een off-grid installatie voor een chalet?'
+  a: 'Dat hangt af van je dagverbruik, de gewenste autonomie in de winter en of je zelf installeert. De grootste variabele is de batterij: die moet niet op je gemiddelde verbruik worden gedimensioneerd maar op de dagen waarop je er bent én de zon weinig doet. Wij noemen bewust geen totaalprijs, omdat de spreiding tussen een minimale set voor verlichting en koeling en een set die een compleet huishouden draait te groot is. Vraag twee of drie offertes met een uitgesplitste componentlijst en laat de dimensionering onderbouwen op winterproductie, niet op jaargemiddelde.'
+- q: 'Kan ik salderen op een recreatiewoning?'
+  a: 'Alleen als de woning een eigen netaansluiting en een eigen leveringscontract heeft. Hangt de woning achter een gemeenschappelijke parkmeter, dan lever je niet terug aan het net maar aan het park, en gelden de verrekenregels van het park in plaats van de salderingsregeling. Los daarvan: de saldering stopt volledig per 1 januari 2027. Vanaf dat moment is de vraag niet meer hoeveel je terugleveren kunt, maar hoeveel je zelf verbruikt.'
+- q: 'Is een camper- of caravansysteem geschikt voor een recreatiewoning?'
+  a: 'Meestal niet. Camper- en caravaninstallaties werken op 12 volt en zijn gedimensioneerd op verlichting, een koelkastje en het laden van apparaten. Een recreatiewoning gebruikt 230 volt en heeft apparatuur met een hoger vermogen. Wel bruikbaar is zo''n systeem als noodvoorziening naast een groter systeem, of in een tuinhuis of stacaravan met een heel beperkte vraag.'
+- q: 'Wat als het parkbestuur toestemming weigert?'
+  a: 'Begin bij het parkreglement en de akte: daarin staat welke bevoegdheid het bestuur heeft en op welke gronden geweigerd mag worden. Een weigering die niet op het reglement te herleiden is, is aanvechtbaar; een weigering die dat wel is, meestal niet. Vraag de weigering schriftelijk met motivering, en informeer of het park een collectief alternatief heeft. Wij zijn geen juristen — bij een geschil is juridisch advies op basis van jouw akte de aangewezen route.'
 ---
 
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+Zonnepanelen op een recreatiewoning zijn een andere rekensom dan op een gewone woning. Je bent er niet het hele jaar, de aansluiting is vaak anders geregeld, het park heeft er iets over te zeggen en de btw-vraag is niet vanzelfsprekend. Dit artikel zet die verschillen op een rij: welke drie situaties er zijn, wanneer on-grid of off-grid logisch is, en wat je vooraf moet uitzoeken.
+
+Waar wij rekenen, is dat een **modelberekening met expliciete aannames** — geen klantcase en geen meetreeks. Wij hebben geen installaties bij recreatiewoningen uitgevoerd of gemeten.
+
+*Disclosure: de verwijzing naar Bluetti loopt via een affiliate-link in het AWIN-netwerk. Koop je daar iets, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Met de overige genoemde merken — onder meer Victron en Pylontech — hebben wij geen affiliate- of commissierelatie; dat zijn gewone verwijzingen waaraan wij niets verdienen.*
+
+## Drie situaties, drie rekensommen
+
+### A. Eigen perceel met eigen netaansluiting
+
+De recreatiewoning staat op eigen grond en heeft een eigen aansluiting bij Liander, Stedin of Enexis, met een eigen leveringscontract. Dit is het eenvoudigste geval: technisch en administratief werkt het als een gewone woning. Je levert terug aan het net, je hebt een eigen meter en je kunt zelf een leverancier kiezen.
+
+Het aandachtspunt zit in de fiscaliteit. Het btw-nultarief op zonnepanelen geldt voor panelen op of bij een **woning**. Of een recreatiewoning onder die definitie valt, hangt af van de woonfunctie en van de vraag of je hem verhuurt. Dat is geen detail: het scheelt 21 procent op de installatie. Leg je situatie voor aan de Belastingdienst of een fiscaal adviseur voordat je tekent, en laat de installateur het toegepaste tarief expliciet op de offerte zetten.
+
+### B. Achter een gemeenschappelijke parkmeter
+
+Het park heeft één hoofdaansluiting en verdeelt het verbruik over de woningen via tussenmeters. Je levert dan niet terug aan het net maar aan het park, en de vergoeding daarvoor is wat het park erover afspreekt — niet wat de wet over saldering zegt.
+
+Dit is de lastigste situatie, omdat de opbrengst van je panelen afhangt van een afspraak die je nog moet maken. Vraag het parkbestuur vóór de investering schriftelijk om drie dingen: of teruglevering aan het parknet technisch is toegestaan, tegen welke vergoeding het park die verrekent, en of die afspraak eenzijdig gewijzigd kan worden. Zonder die antwoorden is er niets door te rekenen.
+
+### C. Off-grid, zonder netaansluiting
+
+Er is geen aansluiting en aanleggen is te duur of niet mogelijk. Dan is een eigen systeem met batterij de enige route: panelen, een off-grid- of hybride-omvormer, een accupakket en meestal een laadregelaar.
+
+Het is belangrijk om hier de volgorde goed te houden. Off-grid is zelden de goedkoopste optie — het is de optie die overblijft. Vraag daarom eerst een offerte voor de netaansluiting op bij de netbeheerder. Pas als dat bedrag bekend is, kun je beoordelen of off-grid daaronder blijft.
+
+## On-grid versus off-grid: de reële afweging
+
+**On-grid is goedkoper.** Je hebt geen batterij nodig om de nacht en de donkere dagen te overbruggen, de installatie is standaardwerk en het net vangt overschotten en tekorten op. De keerzijde: je betaalt netbeheerkosten en vastrecht door in maanden dat de woning leegstaat.
+
+**Off-grid is duurder maar autonoom.** De kosten zitten niet in de panelen maar in de opslag en in de omvormer die zonder net moet kunnen draaien. Daar staat tegenover dat je geen vaste maandlasten meer hebt en niet afhankelijk bent van een parkverrekening.
+
+De fout die het vaakst gemaakt wordt: off-grid dimensioneren op jaargemiddelde opbrengst. In december levert een paneel in Nederland een fractie van wat het in juni doet. Een off-grid systeem dat in de winter bruikbaar moet zijn, is daarom onvermijdelijk overgedimensioneerd voor de zomer — of het heeft een aggregaat of netaansluiting achter de hand. Laat de installateur de dimensionering onderbouwen met de winterproductie, en vraag expliciet wat er gebeurt na drie aaneengesloten grijze dagen.
+
+## Stappenplan
+
+**Stap 1: breng je gebruik in kaart.** Hoeveel weken per jaar, in welke seizoenen, en met welke apparatuur? Een chalet met verlichting, koelkast en een televisie heeft een fundamenteel andere vraag dan een woning met inductiekoken, een boiler en airco. Reken in kilowattuur per dag dat je er bent, niet in jaarverbruik.
+
+**Stap 2: haal het parkreglement op.** Vraag het volledige reglement plus eventuele bestuursbesluiten over zonnepanelen. Let op eisen aan zichtbaarheid, kleur, maximumaantal, kabelroutes en of een batterij is toegestaan.
+
+**Stap 3: check de netaansluiting.** Is er een eigen aansluiting? Zo nee, wat kost aanleggen volgens de netbeheerder? Dat bedrag bepaalt of off-grid überhaupt in beeld komt.
+
+**Stap 4: zoek een installateur met de juiste ervaring.** Voor on-grid volstaat een reguliere zonnepaneelinstallateur. Voor off-grid is systeemontwerp het werk: dimensionering, laadregeling, aggregaataansturing en veiligheid. Vraag naar vergelijkbare projecten en naar de onderbouwing van de dimensionering. Onze gids [installateur kiezen](/installateur-kiezen/) beschrijft waar je op let.
+
+**Stap 5: regel monitoring op afstand.** Je bent er weken niet. Een systeem zonder storingsmelding is een systeem waarvan je pas bij aankomst merkt dat het stilstaat. Zorg voor een app met notificaties en, als er geen wifi is, voor een mobiele verbinding.
+
+**Stap 6: meld het bij je verzekeraar.** Recreatiewoningpolissen wijken af van gewone opstalpolissen. Meld de installatie, vraag om schriftelijke bevestiging van de dekking, en check of er eisen aan de installateur of aan certificering worden gesteld. Meer daarover in [zonnepanelen verzekering opstal](/posts/zonnepanelen-verzekering-opstal-2026/).
+
+## Componentkeuze voor off-grid
+
+**Omvormer.** Voor off-grid en hybride werk is de Victron MultiPlus II in de Nederlandse markt de bekendste keuze: hij kan zonder net draaien, kan een aggregaat als bron gebruiken en is uitgebreid gedocumenteerd. Onze [Victron thuisbatterij review](/posts/victron-thuisbatterij-review-2026/) gaat in op wat dat systeem wel en niet doet. Let op: een gewone netgekoppelde string-omvormer kán niet off-grid werken en kan een aggregaat niet als bron gebruiken — dat is geen instelling maar een ontwerpverschil.
+
+**Batterij.** LiFePO4 is voor seizoensgebruik de aangewezen chemie: de zelfontlading is laag genoeg om maanden stilstand te overbruggen. Pylontech-modules worden veel toegepast in dit segment; onze [Pylontech review](/posts/pylontech-thuisbatterij-review-2026/) beschrijft de opbouw. Belangrijke ontwerpgrens: LiFePO4 mag niet onder nul graden geladen worden. Plaats de batterij vorstvrij of kies een model met verwarming — in een onverwarmd chalet is dat geen luxe maar een voorwaarde.
+
+**Draagbaar alternatief.** Voor een kleine of tijdelijke situatie is een powerstation een reële optie in plaats van een vaste installatie. De Bluetti AC500 is de omvormer-unit; de opslag zit in losse B300S-modules van ongeveer 3,07 kWh per stuk, die je kunt stapelen. Reken dus niet met 6 kWh voor een AC500 met één module — dat is de capaciteit van twee modules. Het voordeel van deze route is dat je hem kunt meenemen en later kunt uitbreiden; het nadeel is dat je per kilowattuur meer betaalt dan bij een vaste installatie. Onze [Bluetti review](/posts/bluetti-ac200max-review-2026/) beschrijft hoe dat type systeem werkt.
+
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk het Bluetti-assortiment</a>
+
+Andere draagbare systemen die in dit segment worden gebruikt, staan beschreven in onze [EcoFlow review](/posts/ecoflow-delta-2-max-review-2026/) en [Goal Zero review](/posts/goal-zero-yeti-6000x-review-2026/).
+
+Prijzen noemen wij bij deze componenten niet als vaststaand gegeven: de meeste fabrikanten in dit segment publiceren geen vaste consumentenprijs voor Nederland, en wat er bij distributeurs staat wisselt sterk. Vraag een offerte op de complete set, niet op losse onderdelen.
+
+## Waar recreatieparken specifiek op letten
+
+**Zichtbaarheid.** In beschermde landschappen stellen parken vaak eisen aan het uiterlijk: in-dakmontage, een voorgeschreven kleurstelling, een maximumaantal panelen of de eis dat de installatie niet zichtbaar is vanaf openbare paden. Dat zijn geen wettelijke eisen maar privaatrechtelijke afspraken — ze gelden desondanks.
+
+**Brandveiligheid bij houten chalets.** Een houten chalet stelt andere eisen aan kabelroutes en aan de plaatsing van omvormer en batterij dan een stenen woning. Vraag de installateur hoe de DC-zijde wordt afgeschakeld bij calamiteiten en waar de omvormer en batterij komen. Wij noemen hier bewust geen normverwijzing als "verplicht", omdat de eisen per park en per situatie verschillen en niet uit één landelijke regel volgen.
+
+**Diefstal.** Een woning die weken leegstaat is een ander risico dan een bewoond huis. Plaats de omvormer niet in het zicht, zorg voor een deugdelijk afgesloten technische ruimte en check of je polis diefstal van vaste installaties dekt.
+
+**Marters en dieren.** In bosrijke gebieden is knaagschade aan bekabeling een reëel en veelvoorkomend probleem. Laat kabels in beschermde goten leggen in plaats van los onder de panelen.
+
+## Btw, subsidie en de saldering
+
+**Btw.** Op zonnepanelen en de direct daarvoor noodzakelijke onderdelen geldt sinds 1 januari 2023 het nultarief — maar alleen voor panelen op of bij een woning. Bij een puur recreatieve bestemming is dat niet vanzelfsprekend en kan 21 procent gelden. Er is sinds 2023 geen btw-teruggaveroute meer via de kleineondernemersregeling: de btw wordt bij een woning niet meer in rekening gebracht, dus valt er niets terug te vragen. Verhuur je de woning bedrijfsmatig, dan speelt btw-ondernemerschap een eigen rol — dat is een adviesvraag, geen vuistregel.
+
+Let er ook op dat het nultarief niet doorloopt naar een thuisbatterij of powerstation: die vallen onder het normale tarief van 21 procent.
+
+**Subsidie.** De ISDE geeft **geen** subsidie op zonnepanelen. De regeling is er voor onder meer warmtepompen, zonneboilers en isolatie. Of een recreatiewoning voor die onderdelen in aanmerking komt en welk bedrag daarbij hoort, hangt af van het typenummer van het apparaat en van de voorwaarden die RVO stelt; die bedragen zoek je op via de apparatenlijst en de rekentool van RVO. Aanvragen doe je bij een warmtepomp **ná** installatie en binnen 24 maanden; bij isolatie ná uitvoering en binnen 12 maanden. Wij noemen geen bedragen, omdat die per typenummer verschillen.
+
+Gemeentelijke en provinciale regelingen bestaan, maar wisselen per jaar en sluiten recreatiewoningen regelmatig uit. Gebruik de subsidiechecker van je eigen gemeente of provincie in plaats van een landelijk overzicht.
+
+**Saldering.** De saldering stopt **volledig per 1 januari 2027**. Er is geen afbouwpad — het wetsvoorstel daarvoor is verworpen. Voor een on-grid recreatiewoning betekent dat: teruglevering wordt vanaf dat moment vergoed tegen wat je leverancier ervoor betaalt, en veel leveranciers rekenen daarnaast terugleverkosten. Wat dat per leverancier is, houden wij bij op [terugleverkosten vergelijken](/terugleverkosten-vergelijken/).
+
+Dat raakt recreatiewoningen harder dan gewone woningen, om een simpele reden: je bent er niet. Een woning die het grootste deel van het jaar leegstaat, verbruikt vrijwel niets van wat de panelen opwekken. Zonder saldering wordt die opwek voortaan afgerekend tegen de terugleververgoeding in plaats van tegen je leveringstarief, en dat drukt het rendement.
+
+Twee routes om daarmee om te gaan: het systeem kleiner dimensioneren, zodat het beter aansluit op wat je werkelijk verbruikt tijdens je verblijf, of opslag toevoegen zodat de opwek van overdag 's avonds beschikbaar is als je er wél bent. Meer over die afweging in [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) en [batterij na 2027 zonder zonnepanelen](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/).
+
+## Modelberekening: hybride opstelling op een park
+
+**Aannames.** Een houten chalet op een park met eigen aansluiting; gebruik verspreid over ongeveer acht weken per jaar, zwaartepunt in het zomerseizoen; verbruik tijdens verblijf beperkt tot verlichting, koeling, een televisie en het laden van apparaten; vier panelen op het dak; een kleine batterij van enkele kilowattuur; behoud van de bestaande aansluiting als achtervang.
+
+**Uitkomst van het model.** In de maanden mei tot en met september dekt zo'n set het verblijfsverbruik grotendeels; buiten die maanden valt het systeem terug op de aansluiting. Omdat het aantal verblijfsdagen laag is, is het aantal kilowattuur dat je zelf verbruikt beperkt — en dat is precies de post die na 1 januari 2027 het rendement bepaalt. De terugverdientijd van zo'n opstelling is daarom langer dan bij dezelfde investering op een permanent bewoonde woning.
+
+**Wat het model laat zien.** Bij parttime gebruik is volledig off-grid gaan zelden de rendabele keuze: je koopt dan batterijcapaciteit die het grootste deel van het jaar ongebruikt blijft. Een hybride opzet — panelen, een bescheiden batterij en behoud van de aansluiting — sluit beter aan bij het gebruikspatroon. Behoud van de aansluiting geeft bovendien achtervang voor apparatuur die ook moet doorlopen als je er niet bent, zoals vorstbewaking of ontvochtiging.
+
+De rekensom voor je eigen situatie maak je met je werkelijke verblijfsdagen en verbruik; onze rekenpagina [zonnepanelen-opbrengst berekenen](/zonnepanelen-opbrengst-berekenen/) geeft de opwekkant, en [terugverdientijd thuisbatterij](/terugverdientijd-thuisbatterij/) de opslagkant.
+
+## Vijf fouten die we vaak terugzien
+
+**1. Batterijcapaciteit kopen voor dagen dat je er niet bent.** Dimensioneer op je verblijfsdagen, niet op een jaargemiddelde. Bij weinig verblijfsdagen is een kleinere batterij met behoud van de aansluiting bijna altijd verstandiger dan een groot pakket dat leeg staat te wachten.
+
+**2. Een bestaande netaansluiting opzeggen voor het idee van autonomie.** Ligt de aansluiting er al, houd hem dan. Hij is je achtervang, hij kost bij verkoop niets en aanleg opnieuw is duur.
+
+**3. Loodaccu's kiezen voor seizoensgebruik.** Bij maandenlange stilstand is zelfontlading het probleem, en daar zijn AGM- en loodaccu's slechter in dan LiFePO4.
+
+**4. Vorstbescherming vergeten.** LiFePO4 laden onder nul graden beschadigt de cellen. In een onverwarmd chalet is een vorstvrije opstelling of een model met celverwarming een ontwerpeis.
+
+**5. Het parkreglement pas na de offerte lezen.** Achteraf demonteren is duur, en een park dat vooraf niet is gevraagd, heeft geen reden om mee te denken.
+
+## Wanneer het niet loont
+
+- **Het park levert energie inclusief.** Dan is er geen kostenpost om te verlagen en dus geen terugverdientijd.
+- **Twee of drie weken gebruik per jaar.** Dan verbruik je te weinig zelf om de investering terug te verdienen, zeker na 1 januari 2027.
+- **Verkoop of bestemmingswijziging binnen enkele jaren.** Wat panelen doen met de verkoopwaarde van een recreatiewoning is niet betrouwbaar te becijferen; reken er niet op.
+- **Een dak dat de montage niet aankan.** Riet, mos of een constructie in matige staat maken plaatsing duur of onmogelijk. Eerst dak, dan panelen.
+- **Een gehuurde stacaravan zonder toestemming van de eigenaar.** Dat is geen technische maar een contractuele blokkade.
+
+Vraag in al deze gevallen bij het parkbestuur na of er een collectieve route is. Sommige parken leggen gezamenlijk op, en dan is deelname aan die opstelling voordeliger dan een eigen installatie.
+
+## Onze conclusie
+
+De keuze tussen on-grid en off-grid op een recreatiewoning wordt maar door twee dingen bepaald: of er al een aansluiting ligt, en hoeveel weken per jaar je er bent. Ligt er een aansluiting, dan is on-grid vrijwel altijd de goedkopere route en is een bescheiden batterij hooguit een aanvulling. Ligt er geen aansluiting, dan is off-grid geen keuze maar een gegeven — en dan is de dimensionering op winterproductie het punt waarop het systeem staat of valt.
+
+Wat er in 2026 het meest toe doet: het parkreglement, de btw-status van je woning en het feit dat de saldering per 1 januari 2027 volledig stopt. Die drie bepalen samen of de rekensom uitkomt, en geen ervan is een technische vraag.
+
+*Vragen over je situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
+
+## Gerelateerde artikelen
+
+- [Beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/)
+- [Victron thuisbatterij review](/posts/victron-thuisbatterij-review-2026/)
+- [Pylontech thuisbatterij review](/posts/pylontech-thuisbatterij-review-2026/)
+- [Zonnefolie en flexibele zonnepanelen](/posts/zonnefolie-flexibele-zonnepanelen-2026/)
+- [Zonnepanelen DIY vs installateur](/posts/zonnepanelen-diy-vs-installateur-2026/)
+- [Zonnepanelen verzekering opstal](/posts/zonnepanelen-verzekering-opstal-2026/)
+- [Dynamische energiecontracten vergelijken](/posts/dynamische-energiecontracten-vergelijking-2026/)

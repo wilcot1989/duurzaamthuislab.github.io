@@ -1,8 +1,8 @@
 ---
 title: 'Zonneschapen en zonnepanelen 2026: agri-PV'
 date: 2026-06-30 10:00:00+01:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: Agri-PV op kleine schaal — zonnepanelen combineren met dieren of moestuin in NL — werkt het en wat zijn de regels.
+lastmod: 2026-08-21 08:00:00+02:00
+description: Agri-PV op kleine schaal — zonnepanelen combineren met dieren of een moestuin. Wat er aantoonbaar werkt, wat de constructie vraagt en waar de vergunningsgrens ligt.
 categories:
 - zonne-energie
 tags:
@@ -26,460 +26,209 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Wat is agri-PV en is het in een tuin toepasbaar?
-  a: 'Agri-PV (agrivoltaïca) combineert zonnepaneel-installaties met landbouw of tuinbouw op dezelfde grond. Op particuliere schaal betekent dit: zonnepanelen op verhoogde constructies boven een moestuin of grasland, zodat zowel gewassen/dieren als zonnestroom kunnen profiteren. Het is technisch haalbaar voor grotere tuinen (>100 m²), maar vereist een specifieke constructie en planning.'
+  a: 'Agri-PV, ook wel agrivoltaïca, is het bewust combineren van zonnepanelen en landbouw of tuinbouw op dezelfde grond: de panelen staan op een verhoogde constructie zodat er eronder nog gewassen kunnen groeien of dieren kunnen lopen. Op particuliere schaal komt dat neer op een pergola of frame boven een moestuin of een stuk grasland. Technisch kan het, maar de constructie is het knelpunt: de vaste kosten van fundering, staal en vergunning schalen slecht naar een kleine oppervlakte.'
 - q: Welke planten groeien goed onder zonnepanelen?
-  a: 'Schaduwtolerante groenten en kruiden presteren het beste onder de gedeeltelijke beschaduwing van zonnepanelen. Goede keuzes: sla, spinazie, postelein, kruiden (peterselie, munt, koriander), aardbeien, courgette (met voldoende ruimte), kool en boerenkool. Tomaten, paprika en komkommer hebben meer direct licht nodig en zijn minder geschikt.'
+  a: 'Schaduwtolerante bladgewassen en kruiden doen het het beste: sla, spinazie, andijvie, postelein, peterselie, bieslook en munt. Aardbeien doen het redelijk, al worden de vruchten bij minder licht doorgaans minder zoet. Vruchtgewassen met een hoge lichtbehoefte — tomaat, paprika, aubergine, courgette, maïs — horen niet onder de panelen maar in de randzone waar het volle licht nog binnenkomt.'
 - q: Mag een agri-PV-constructie in de tuin zonder vergunning?
-  a: Vergunningsvrij bouwen is mogelijk voor constructies tot 1 meter hoogte. Voor hogere constructies (2-3 meter, nodig voor agri-PV) is in de meeste gevallen een omgevingsvergunning nodig. Controleer altijd de lokale regels via het Omgevingsloket. In sommige gemeenten gelden afwijkende regels voor tuinconstructies.
-- q: Hoeveel zonnepanelen passen er op een agri-PV constructie van 50 m²?
-  a: 'Op een agri-PV-constructie van 50 m² passen doorgaans 10-15 zonnepanelen van 400Wp (afhankelijk van de afstand tussen de panelen). Dit levert een systeem van 4-6 kWp, goed voor 3.500-5.000 kWh per jaar. De tussenruimte is essentieel: panelen mogen niet dichtopeengepakt staan om voldoende licht door te laten.'
+  a: 'Dat hangt af van hoogte, oppervlak en plaats op het erf. Voor een lage constructie in het achtererfgebied gelden ruimere mogelijkheden dan voor een frame van twee tot drie meter hoog, en dat laatste is nu juist de hoogte die agri-PV functioneel maakt. De regels verschillen bovendien per gemeente en per bestemmingsplan. Check je situatie via het Omgevingsloket en bel bij twijfel je gemeente vóórdat je een constructie laat berekenen — bij deze variant is de vergunning het bepalende risico, niet de techniek.'
+- q: Hoeveel panelen passen er op een agri-PV-constructie?
+  a: 'Minder dan op hetzelfde oppervlak dak, en dat is opzet. Bij agri-PV laat je bewust ruimte tussen de panelenrijen zodat er licht op de grond valt. Hoeveel ruimte dat moet zijn, hangt af van wat je eronder wilt telen: bladgewassen verdragen een dichtere bezetting dan gewassen die veel licht vragen. Laat de indeling ontwerpen op de gewenste lichtdoorval en niet op het maximale aantal panelen.'
 - q: Zijn kippen of schapen geschikt voor combinatie met zonnepanelen?
-  a: 'Kippen zijn populair in agri-PV op boerderijen: ze grazen het gras onder de panelen weg, houden onkruid bij en geven mest. In een grotere tuin (500 m+) is dit ook particulier haalbaar, mits de constructie hoog genoeg is (min. 1,8 m voor toegang en bewegingsruimte). Schapen zijn minder geschikt voor kleinere percelen maar worden op boerderijniveau al breed ingezet.'
+  a: 'Schapen worden op zonneparkschaal ingezet om het gras kort te houden, en dat werkt daar goed. Voor een gemiddelde achtertuin is een schaap zelden realistisch: je hebt weidegrond nodig en de constructie moet hoog genoeg zijn om de dieren er vrij onder te laten lopen. Kippen zijn de schaalbare particuliere variant: ze houden een klein oppervlak grasarm, eten onkruidzaden en insecten en bemesten de bodem. Zorg dan wel dat alle bekabeling in beschermbuis ligt.'
 - q: Levert agri-PV minder stroom dan gewone dakpanelen?
-  a: 'Ja. Een agri-PV-systeem met opzettelijk vergroot tussenruimte levert per geïnstalleerde Wp minder stroom dan een optimaal georiënteerd dakpaneel, om twee redenen: de hoek is niet altijd optimaal en er gaat meer licht verloren. Maar de grond onder de panelen levert aanvullende waarde (gewassen, gras, dieren), waardoor de totale opbrengst per m² grond hoger is dan bij louter zonnepanelen of louter landbouw.'
-- q: Wat kost een agri-PV constructie voor de tuin?
-  a: Een maatwerk agri-PV-frame voor 50-100 m² tuin kost €3.000-€8.000 voor de staalconstructie exclusief zonnepanelen. Kant-en-klare systemen zijn schaars; de meeste particuliere agri-PV-projecten zijn maatwerk. De totale investering (frame + 12 panelen + installatie) ligt doorgaans op €8.000-€14.000.
-products:
-- name: Beste zonnepanelen 2026
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '250'
-- name: Sessy thuisbatterij
-  url: https://go.duurzaamthuislab.nl/sessy
-  price: '3999'
+  a: 'Per geïnstalleerde wattpiek wel, en om twee redenen: de hellingshoek van een tuinconstructie is zelden optimaal, en je laat bewust ruimte tussen de panelen zodat er licht doorvalt. Daar staat tegenover dat de grond eronder in gebruik blijft. De vraag is dus niet of agri-PV per paneel minder oplevert — dat doet het — maar of de dubbele functie van de grond dat verschil goedmaakt.'
+- q: Wat kost een agri-PV-constructie voor de tuin?
+  a: 'Wij noemen geen richtprijs, omdat dit vrijwel altijd maatwerk is: kant-en-klare particuliere agri-PV-systemen zijn schaars, en de kosten worden bepaald door fundering, staalwerk, hoogte en of er een vergunningstraject bij komt. Vraag offertes op de constructie en de installatie apart, zodat je kunt zien welk deel van de meerprijs in het frame zit. Reken erop dat de constructie de grootste post is en dat die per vierkante meter duurder uitvalt dan een dakmontage.'
 schema_type: Article
 ---
-"Ik heb een grote tuin, ik heb schapen die het gras kort houden, en ik wil zonnepanelen. Kan dat samen?" Het antwoord is ja — en het idee heeft een naam, een wetenschappelijke onderbouwing en duizenden hectaren bewezen praktijk achter zich. Alleen niet zomaar op de schaal van een achtertuin.
 
-Agrivoltaïca — de combinatie van zonnepanelen en landbouw op dezelfde grond — is een van de interessantste duurzame innovaties van de afgelopen jaren. In dit artikel onderzoeken wij wat het is, wat er wetenschappelijk aantoonbaar werkt, en hoe ver de vertaling naar een particuliere tuin realistisch is.
+"Ik heb een grote tuin, ik heb schapen die het gras kort houden, en ik wil zonnepanelen. Kan dat samen?" Het idee heeft een naam — agrivoltaïca of agri-PV — en op landbouwschaal is het een serieus onderzoeksveld met tientallen proefvelden in Europa. De vraag is of het ook op de schaal van een tuin of volkstuinperceel iets oplevert.
 
-*Disclosure: de links naar Sessy en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+Dit artikel beschrijft wat agri-PV is, wat er bekend is over de effecten op gewassen en opbrengst, en waar de praktische grens ligt voor particulieren. Wij hebben zelf geen agri-PV-opstelling gebouwd of gemeten; waar wij rekenen, is dat een modelberekening met expliciete aannames.
 
----
+*Disclosure: de verwijzingen naar Zonneplan en Sessy in dit artikel zijn gewone verwijzingen. Wij hebben met deze partijen geen affiliate- of commissierelatie en verdienen aan die links niets.*
 
+## Wat agrivoltaïca is
 
-> **Kort antwoord:** Agri-PV op kleine schaal — zonnepanelen combineren met dieren of moestuin in NL — werkt het en wat zijn de regels.
->
-> Agri-PV (agrivoltaïca) combineert zonnepaneel-installaties met landbouw of tuinbouw op dezelfde grond. Op particuliere schaal betekent dit: zonnepanelen op verhoogde constructies boven een moestuin of grasland, zodat zowel gewassen/dieren als zonnestroom kunnen profiteren. Het is technisch haalbaar voor grotere tuinen (>100 m²), maar vereist een specifieke constructie en planning.
+Agrivoltaïca is het bewust combineren van zonnepanelen en landbouw of tuinbouw op dezelfde oppervlakte: panelen op een verhoogde constructie, met daaronder ruimte voor gewassen, gras of dieren.
 
-## Wat is agrivoltaïca?
+Het idee is niet nieuw. De eerste uitwerking staat op naam van Adolf Goetzberger en Armin Zastrow, die het in 1981 vanuit het Fraunhofer-instituut publiceerden. Praktische toepassing kwam pas op gang toen zonnepanelen goedkoop genoeg werden om een deel van de opbrengst op te offeren aan lichtdoorval.
 
-Agrivoltaïca (ook: agri-PV, agrophotovoltaïcs) is het bewust combineren van zonnepaneel-installaties en landbouw of tuinbouw op dezelfde oppervlakte. De kern: zonnepanelen op verhoogde constructies zodat er ruimte is voor gewassen, dieren of tuinbouw eronder.
+### De gedachte erachter
 
-Het is geen nieuw idee. De eerste wetenschappelijke publicaties over agrivoltaïca dateren uit 1981 (Adolf Goetzberger en Adolf Zastrow in Duitsland). Maar de praktische toepassingen zijn pas de laatste 10 jaar echt van de grond gekomen, met de prijsdaling van zonnepanelen.
+Landbouwgrond en zonneparken concurreren om dezelfde vierkante meters. Agri-PV stelt de vraag of ze kunnen samenwerken. De mechanismen die daarbij een rol spelen:
 
-### De basisgedachte: synergieën benutten
+**Voor de gewassen.** De panelen geven beschutting tegen extreme instraling en hitte, verlagen de bodemtemperatuur en daarmee de verdamping, en bieden bescherming tegen hagel. Voor schaduwtolerante gewassen kan dat gunstig uitpakken; voor lichtbehoeftige gewassen niet.
 
-Traditionele landbouw en zonnepanelen concurreren om grond. Agrivoltaïca stelt de vraag: kunnen ze samenwerken?
+**Voor de panelen.** Een begroeide of vochtige ondergrond blijft koeler dan een dak of een kale bodem, en een koeler paneel presteert iets beter. Het effect is klein en niet de reden om voor agri-PV te kiezen.
 
-De antwoorden zijn verrassend positief:
+**Voor de grondeigenaar.** De grond houdt twee functies, en de inkomsten uit stroom en uit teelt zijn niet aan dezelfde risico's onderhevig.
 
-**Voordelen voor de gewassen:**
-- Beschutting tegen extreme hitte (minder hittestress bij 30°C+)
-- Lagere verdamping = minder irrigatiebehoefte (20-30% minder water)
-- Bescherming tegen hagelschade
-- Gunstig microklimaat voor schaduwtolerante gewassen
+## Wat het onderzoek laat zien
 
-**Voordelen voor de zonnepanelen:**
-- Verdamping van planten koelt de panelen, verhoogt de efficiëntie (1-3%)
-- Betere benutting van percelen die te kostbaar zijn om volledig te bebouwen
+De maatstaf in dit vakgebied is de **Land Equivalent Ratio (LER)**: de gecombineerde opbrengst van stroom plus gewas, afgezet tegen wat dezelfde grond zou opleveren als je die volledig aan één van beide zou besteden. Een LER boven 1,0 betekent dat combineren efficiënter is dan scheiden.
 
-**Voordelen voor de grondeigenaar:**
-- Dubbele opbrengst per m² grond
-- Risicospreiding (als de oogst tegenvalt, is er nog de stroomopbrengst)
+In de gepubliceerde proefveldstudies komt vrijwel steevast hetzelfde patroon naar voren: de gewasopbrengst onder de panelen ligt onder die van een onbeschaduwde referentie, de stroomopbrengst ligt onder die van een optimaal georiënteerde opstelling, en de som van die twee ligt boven 1,0. Hoeveel boven, verschilt sterk per gewas, per klimaat en per paneelopstelling.
 
----
+Wij nemen hier bewust geen losse getallen uit die studies over. De uitkomsten zijn sterk afhankelijk van proefopzet, gewas en jaar, en cijfers die uit hun context worden gehaald geven een preciezer beeld dan de onderliggende metingen rechtvaardigen. Wie de brongegevens wil, kan terecht bij het Fraunhofer ISE, dat een agrivoltaïca-richtlijn publiceert, en bij Wageningen University & Research, dat onderzoek doet naar toepassing onder Nederlandse omstandigheden.
 
-## Wat de wetenschap zegt: bewezen resultaten
+Twee bevindingen zijn wel breed gedeeld en robuust genoeg om op te bouwen:
 
-Er is inmiddels een substantiële wetenschappelijke literatuur over agrivoltaïca. De meest relevante bevindingen:
+1. **Schaduwtolerante bladgewassen doen het onder panelen relatief goed**, en gewassen met een hoge lichtbehoefte niet.
+2. **De waterbehoefte onder de panelen ligt lager** dan daarbuiten, doordat de bodem minder snel opdroogt.
 
-### Land Equivalent Ratio (LER)
+## Zonneschapen: waarom dat op parkschaal werkt
 
-De wetenschappelijke maatstaf voor agrivoltaïca-efficiëntie is de **Land Equivalent Ratio (LER)**. Dit vergelijkt de gecombineerde opbrengst (stroom + gewas) met losse monocultures.
+Het bekendste agri-PV-beeld is het schaap tussen de panelenrijen van een zonnepark. Dat gebeurt in Nederland op meerdere zonneparken, en de logica is praktisch: het gras tussen de rijen moet kort blijven, maaien met machines tussen paneelconstructies is lastig en duur, en schapen doen het werk zonder brandstof.
 
-LER > 1,0 betekent dat de gecombineerde benutting van de grond efficiënter is dan losse systemen.
+De redenen waarom het schaap en niet een ander dier:
 
-Gepubliceerde LER-waarden voor agrivoltaïca: **1,3 tot 1,9** afhankelijk van het gewas, klimaat en paneelopstelling. Dat betekent dat je 30-90% meer uit dezelfde grond haalt door te combineren.
+- **Formaat.** Schapen passen tussen en onder de rijen en beschadigen de constructie niet.
+- **Grasbeheer.** Ze houden de begroeiing laag, zodat er geen schaduw op de onderste paneelranden valt.
+- **Bemesting.** De begrazing houdt de bodem in conditie zonder dat er iets aangevoerd hoeft te worden.
+- **Neveninkomsten.** Wol en vlees zijn een tweede opbrengststroom naast de stroom.
 
-### Fraunhofer ISE (Duitsland, 2022)
+Waar het op parkschaal om schaalvoordeel draait, verdwijnt dat voordeel in een tuin volledig: één of twee schapen vragen dezelfde constructiehoogte als een kudde, en die hoogte is precies wat de constructie duur en vergunningplichtig maakt.
 
-Uitgebreid meerjarig onderzoek op agrivoltaïca-proefveld in Heggelbach, Duitsland:
+## Wat wél haalbaar is in een tuin
 
-- Tarwe-opbrengst onder agri-PV: 80% van onbeschaduwde referentie
-- Aardappel-opbrengst: 77% van referentie
-- PV-opbrengst: 78% van conventioneel daksysteem (door ander paneel-hoek)
-- **Gecombineerde LER: 1,52** — 52% efficiënter grondgebruik
+### Variant 1: pergola of overkapping met panelen
 
-### INRAE (Frankrijk, 2021)
+De meest toegankelijke variant: een terrasoverkapping of pergola met panelen op het dak en een moestuin of zithoek eronder. De constructie bestaat toch al, en de panelen vervangen de dakbedekking.
 
-Onderzoek naar druiven onder agrivoltaïca in Zuid-Frankrijk (Grammont-proefveld):
+Aandachtspunten: de hellingshoek is zelden optimaal, de constructie staat lager en vaker in de schaduw van de woning of van bomen, en de constructie moet berekend zijn op het gewicht en de windbelasting van de panelen. Laat dat laatste expliciet bevestigen — een standaard pergola is niet zonder meer een paneeldrager.
 
-- Druivenopbrengst: 73-100% van referentie (afhankelijk van ras en jaar)
-- PV-opbrengst: 75% van optimale opstelling
-- LER: 1,42-1,56
-- Significant minder irrigatiebehoefte: -28%
+Voor het achtererfgebied gelden ruimere mogelijkheden om zonder vergunning te bouwen dan elders op het erf, maar hoogte en oppervlak bepalen of het daadwerkelijk vergunningvrij is. Check het Omgevingsloket voor jouw perceel.
 
-### Universiteit Utrecht (2023)
+### Variant 2: verhoogd frame op een volkstuin- of weideperceel
 
-Casestudy agrivoltaïca in Nederland (gematigder klimaat):
+Heb je een volkstuinperceel of een klein stuk grond, dan kan een eenvoudige staalconstructie op twee tot drie meter hoogte. Daaronder past groenteteelt, kleinfruit of grasland met kippen.
 
-- Meest geschikte gewassen: sla, aardbei, spinazie, aardappel
-- Minder geschikte gewassen: tomaat, maïs, zonnebloem
-- PV-opbrengst daalt bij vergrote paneel-tussenruimte (nodig voor lichtdoorval): -15 tot -25%
-- Waterbesparingspotentieel ook in Nederlandse zomers: 15-20%
+Dit is de variant waarbij de constructie de dominante kostenpost is, en waarbij vergunningplicht vrijwel zeker aan de orde is. Begin daarom met de gemeente en het bestemmingsplan, niet met een installateur.
 
----
+### Variant 3: kippen onder een bestaande opstelling
 
-## Agri-PV op boerderijschaal: de "zonneschapen"
+Heb je al panelen op een schuur of op een verhoogd frame, dan is de combinatie met kippen de goedkoopste stap: er hoeft niets bij gebouwd te worden.
 
-Het populairste agri-PV-concept in de media is zonneschapen: schapen die grazen tussen en onder zonnepanelen op grote installaties.
+Wat je dan wel regelt:
 
-### Waarom schapen?
+- **Bekabeling in beschermbuis.** Kippen pikken aan alles wat los hangt.
+- **Hoogte.** Anderhalve meter is genoeg voor de dieren; hoger maakt het onderhoud voor jou werkbaar.
+- **Toegang.** Een doorgang van ruim voldoende breedte om bij de panelen te komen voor inspectie en reiniging.
+- **Mest.** Houd de zitplekken uit de buurt van de onderkant van de panelen; mest op de constructie betekent extra schoonmaakwerk.
 
-Schapen zijn ideaal om grond tussen zonnepanelen te onderhouden om meerdere redenen:
+Hoeveel kippen op een oppervlak passen, is voor hobbymatig houden geen wettelijk voorgeschreven aantal maar een kwestie van dierenwelzijn en van hoe snel de begroeiing verdwijnt. Ga uit van ruim bemeten in plaats van maximaal.
 
-**Kleine formaat:** Schapen (en dan met name kleine rassen als Soay, Ouessant, Jacobschapen) zijn compact genoeg om tussen rijen zonnepanelen door te bewegen.
+## Welke gewassen werken onder panelen
 
-**Grasonderhoud:** Ze houden het gras laag, waardoor maaien (duur, tijdrovend) niet meer nodig is.
+**Goed geschikt** — bladgewassen en kruiden met een lage tot matige lichtbehoefte, die in de volle zon juist last hebben van hitte:
 
-**Bemesting:** Schapen bemesten de grond organisch, wat de bodemkwaliteit verbetert.
-
-**Koeling:** Verdamping van gras en dieren koelt de panelen deels.
-
-**Inkomensdiversificatie:** Schapenwol, lamsvlees en lammeren geven aanvullende inkomsten.
-
-### Voorbeelden in Nederland
-
-**Vattenfall Windpark Wieringermeer:** 365.000 schapen (Swifter-ras) grazen op 15.000 hectare windpark. Geen zonnepanelen, maar vergelijkbaar principe.
-
-**Solarfields / BTW Energie (diverse locaties NL):** Zonneparken met bewust ingezaaide kruidenrijke grasmengsels en schapenbegrazing. Niet alle sites, maar het wordt standaard bij nieuwe projecten.
-
-**Agri-PV pilot Zeeland (2024):** 2 hectare zonnepanelen op verhoogde constructie (4 meter hoog) boven aardappelteelt. Eerste resultaten: 82% normale aardappeloogst, 90% PV-opbrengst. LER: 1,35.
-
----
-
-## Kleinschalige agri-PV: wat is haalbaar in een particuliere tuin?
-
-Nu de interessante vraag: hoe vertaalt dit naar een achtertuin van 200-1000 m²?
-
-### De uitdagingen van kleine schaal
-
-**Constructiekosten:** Een verhoogd agri-PV-frame is duurder per m² dan een dakmontage. De vaste kosten (fundering, staalconstructie, vergunning) zijn hoog en schalen niet goed naar kleine oppervlakken.
-
-**Vergunningsplicht:** Constructies boven 1 meter vereisen doorgaans een omgevingsvergunning. Een functionele agri-PV-constructie (hoog genoeg voor bewerking of dieren) is minstens 2 meter hoog.
-
-**Optimale zonoriëntatie:** Een achtertuin is niet altijd op het zuiden georiënteerd. Agri-PV op niet-zuiden levert minder stroom.
-
-### Drie realistische varianten voor particulieren
-
-#### Variant 1: Verhoogde pergola met zonnepanelen
-
-Een terrasoverkapping of pergola met zonnepanelen op het dak, en moestuin of zithoek eronder. Dit is de meest toegankelijke variant.
-
-- Hoogte: 2,2-2,5 meter (toegankelijk voor tuinieren)
-- Constructie: aluminium of staal
-- Panelen: semi-transparante bifaciale panelen of standaard met openingen
-- Tuingebruik: sla, kruiden, aardbeien, schaduwtolerante gewassen
-
-Kosten: €4.000-€9.000 (constructie + 8-12 panelen + installatie)
-Vermogen: 3-5 kWp
-
-**Vergunning:** Terrasoverkappingen tot 2,5 meter hoog zijn in veel gemeenten vergunningvrij als ze aan de achterkant van de woning staan en niet groter zijn dan 30 m². Check het Omgevingsloket voor jouw situatie.
-
-#### Variant 2: Agri-PV-constructie op een volkstuinperceel of landelijk perceel
-
-Als je een volkstuinperceel (50-100 m²) of een klein stuk grond/weiland hebt, is een eenvoudige staalconstructie op 2-3 meter hoogte technisch haalbaar.
-
-- Frame: standaard landbouwstaal, prefab of maatwerk
-- Panelen op rasterafstand (niet dicht aaneengeschakeld voor lichtdoorval)
-- Perceel: groenten, kleinfruit, of grasland met kippen/konijnen
-
-Kosten: €5.000-€12.000 afhankelijk van schaal
-Vermogen: 4-8 kWp
-Vergunning: Waarschijnlijk vereist
-
-#### Variant 3: Kippen onder zonnepanelen (chicken tractor of vast kippenhok)
-
-Als je al zonnepanelen hebt (bijv. op een schuur of hoger systeem) en kippen houdt, is combinatie eenvoudig:
-
-- Kippen grazen het gras weg onder de panelen
-- Panelen beschermen kippen deels tegen roofvogels (als de constructie laag genoeg is)
-- Kippenmest voorziet de omgeving van organische stof
-
-Geen extra constructie nodig als het bestaande frame hoog genoeg is. Wel aandacht voor:
-- Kippen mogen de bekabeling niet bereiken (kauwen aan kabels)
-- Mest niet direct tegen de panelonderkanten (reiniging)
-- Bescherming van de panelen tegen bomen/stokken bij opvluchten
-
----
-
-## Welke gewassen werken goed?
-
-Op basis van wetenschappelijk onderzoek en praktijkervaring:
-
-### Uitstekend geschikt (schaduwtolerante soorten)
-
-| Gewas | Lichtbehoefte | Voordeel van schaduw |
-|---|---|---|
-| Sla (diverse soorten) | Laag-matig | Minder bolschieten in zomer |
-| Spinazie | Laag | Minder snel bolschieten |
-| Postelein | Laag | Gedijt goed in deeltijdschaduw |
-| Peterselie, bieslook, munt | Laag-matig | Minder uitdrogen |
-| Aardbeien | Matig | Minder hittestress, langere oogstperiode |
-| Bonen (stamslaboon) | Matig | Acceptabel bij 50% lichtdoorval |
-| Kool, broccoli | Matig | Minder zomerhitte stress |
-| Aardappelen | Matig | Bewezen in NL-pilots bij 30-40% beschaduwing |
-
-### Matig geschikt (bij voldoende lichtdoorval)
-
-| Gewas | Vereiste lichtdoorval | Opmerkingen |
-|---|---|---|
-| Courgette | >50% | Heeft veel ruimte nodig |
-| Pompoen | >50% | Lange ranken, lastig te managen |
-| Snijbiet / mangold | >40% | Goed alternatief voor spinazie |
-
-### Ongeschikt (veel directe zon nodig)
-
-- Tomaten (met name hoog-productieve rassen)
-- Paprika's
-- Aubergine
-- Maïs
-- Zonnebloemen
-- Meloenen
-
----
-
-## Hoe semi-transparante panelen helpen
-
-Een specifieke categorie zonnepanelen is relevant voor agri-PV: **semi-transparante of transparante zonnepanelen**.
-
-Dit zijn panelen waarbij cellen minder dicht opeengepakt zijn, waardoor diffuus licht de onderliggende beplanting bereikt.
-
-**Typen:**
-- **Bifaciale panelen met opgelaten tussenruimte:** De meest pragmatische oplossing. Niet werkelijk transparant, maar bij verhoogde opstelling laat de ruimte tússen panelen voldoende licht door.
-- **DSSC (Dye-sensitized solar cells):** Kleurgevoelige cellen die deels transparant zijn. Lagere efficiëntie, maar laten zichtbaar licht door.
-- **Thin-film CIGS/CdTe:** Dunnefilm-technologie die deels transparant gemaakt kan worden.
-- **Organische zonnecellen:** In onderzoeksfase, hoge transparantie maar lage efficiëntie.
-
-Voor praktisch tuingebruik in 2026: gebruik bifaciale standaardpanelen op een frame met 20-40% open ruimte. Dit geeft de beste verhouding tussen stroomopbrengst en lichtdoorval.
-
----
-
-## Agri-PV en water: het vergeten voordeel
-
-Het wateraspect van agri-PV wordt structureel onderschat, en het is juist het best onderbouwde voordeel.
-
-De schaduw van zonnepanelen verlaagt de grondtemperatuur en vermindert directe zoninstraling op de grond. Dit heeft twee effecten:
-
-1. **Minder verdamping:** De bodem droogt minder snel uit. Minder frequent gieten nodig.
-2. **Minder hittestress bij gewassen:** Bladtemperatuur blijft lager, gewassen transpireren minder.
-
-Kwantificering uit Nederlandse studies: **15-25% minder irrigatiewater** in warme zomers. Voor particulieren betekent dit praktisch dat je je moestuin minder frequent hoeft te beregenen — comfortabeler en goedkoper.
-
----
-
-## Op kleine schaal: wat werkt onder een pergola met panelen?
-
-De meest haalbare particuliere variant is een pergola of terrasoverkapping van vijftien tot dertig vierkante meter met panelen erop en een moestuin eronder. Wat je daaronder kunt verwachten, volgt uit één eigenschap: onder de panelen valt het lichtaanbod terug en blijft de bodem koeler en vochtiger. Dat is voor sommige gewassen een voordeel en voor andere een probleem.
-
-**Gewassen die profiteren van de schaduw** — bladgewassen met een lage lichtbehoefte die snel doorschieten bij hitte: sla, spinazie, andijvie, peterselie en andere kruiden. Sla die in de volle zon in juli doorschiet, houdt het onder panelen langer vol. Dit is de duidelijkste winst van een agri-PV-pergola in een tuin.
-
-**Gewassen die het redelijk doen** — aardbeien geven onder de panelen een vergelijkbare opbrengst, maar de vruchten worden minder zoet: minder zonlicht betekent minder suikervorming.
-
-**Gewassen die het niet redden** — vruchtgewassen met een hoge lichtbehoefte. Tomaten, paprika en courgette hebben vol licht nodig; die zet je in de randzone waar het licht wel doorkomt, niet onder de panelen zelf.
-
-**Water.** In de beschaduwde zone hoef je aantoonbaar minder te gieten, in lijn met de 15 tot 25 procent lagere irrigatiebehoefte die uit de studies naar voren komt.
-
-**Stroomopbrengst.** Reken bij een pergola met een vlakke of licht hellende opstelling van bijvoorbeeld 1,6 kWp op ongeveer 950 tot 1.050 kWh per jaar volgens PVGIS — minder dan een optimaal dakvlak van hetzelfde vermogen, omdat de hellingshoek suboptimaal is en de constructie doorgaans lager en meer beschaduwd staat. Laat een PVGIS-simulatie maken voor jouw exacte opstelling.
-
----
-
-## Vergunning en regelgeving: praktisch overzicht
-
-Voor wie aan de slag wil, hier de relevante regelgeving.
-
-### Omgevingsvergunning
-
-In de meeste Nederlandse gemeenten is een omgevingsvergunning vereist voor:
-- Bouwwerken hoger dan 1 meter (tenzij erf-specifieke uitzondering)
-- Bijgebouwen groter dan 15-30 m² (gemeente-afhankelijk)
-- Installaties op erfgrenzen (afstandseisen)
-
-Via het **Omgevingsloket Online** (omgevingsloket.nl) kun je per postcode en type bouwwerk checken of vergunning nodig is.
-
-### Zonering en bestemmingsplan
-
-In sommige bestemmingsplannen is "agrarisch gebruik" vereist voor bepaalde percelen. Controleer of zonnepanelen (als bijgebouw of energiesysteem) zijn toegestaan in de bestemming van je perceel.
-
-### Netaansluiting
-
-Een agri-PV-systeem dat meer dan 15 kWp genereert, vereist een zakelijke netaansluiting en SDE++-subsidie procedure. Voor particuliere tuinsystemen (<10 kWp) gelden de gewone huishoudelijke regels.
-
----
-
-## Kosten en terugverdientijd
-
-Een realistische calculatie voor een particulier agri-PV-systeem.
-
-### Variant A: Pergola/terrasoverkapping, 15 m², 8 panelen (3,2 kWp)
-
-| Post | Kosten |
+| Gewas | Waarom het onder panelen werkt |
 |---|---|
-| Aluminium pergola-frame (inclusief montage) | €3.500-€5.000 |
-| 8 zonnepanelen (400Wp) | €1.200-€1.800 |
-| Micro-omvormers + bekabeling | €600-€900 |
-| Elektrotechnische installatie | €500-€800 |
-| **Totaal** | **€5.800-€8.500** |
+| Sla | Schiet in de volle zomerzon snel door; onder schaduw langer oogstbaar |
+| Spinazie | Zelfde mechanisme: minder snel doorschieten |
+| Postelein | Gedijt in deeltijdschaduw |
+| Peterselie, bieslook, munt | Drogen minder snel uit |
+| Andijvie | Verdraagt gedempt licht goed |
+| Kool en boerenkool | Minder hittestress in de zomer |
 
-Jaarlijkse stroomopbrengst: 3,2 kWp × 900 h = 2.880 kWh (plat/suboptimaal)
-Waarde (eigen gebruik 70%): circa €720/jaar
-Terugverdientijd: **8-12 jaar**
+**Redelijk** — aardbeien geven onder panelen een bruikbare opbrengst, maar met minder licht ontstaat er minder suiker en worden de vruchten minder zoet. Snijbiet en stamslabonen doen het bij voldoende lichtdoorval acceptabel.
 
-### Variant B: Uitsluitend PV op pergola (geen moestuin)
+**Niet geschikt** — vruchtgewassen die vol licht vragen: tomaat, paprika, aubergine, meloen, maïs en zonnebloem. Courgette en pompoen hebben zowel licht als ruimte nodig. Zet die in de randzone naast de constructie, niet eronder.
 
-Hetzelfde systeem, maar dan voor primair stroomdoel. Terugverdientijd vergelijkbaar, maar geen moestuinopbrengst als bonus.
+## Panelen en lichtdoorval
 
-### Variant C: Verhoogde agri-PV op 60 m² perceel, 15 panelen (6 kWp)
+Er bestaan semi-transparante paneeltypen die licht doorlaten — dunnefilmtechnieken en kleurstofcellen bijvoorbeeld — maar die hebben een lager rendement en zijn in Nederland voor particulieren nauwelijks beschikbaar.
 
-| Post | Kosten |
-|---|---|
-| Staalconstructie maatwerk (2,5 m hoogte) | €5.000-€8.000 |
-| 15 zonnepanelen (400Wp) | €2.200-€3.000 |
-| Omvormer + installatie | €1.500-€2.500 |
-| Vergunningskosten | €500-€1.000 |
-| **Totaal** | **€9.200-€14.500** |
+De pragmatische route is daarom een gewoon paneel met **ruimte tussen de rijen**. Je regelt de lichtdoorval dan met de indeling in plaats van met het paneel: hoe meer open ruimte, hoe meer licht op de grond en hoe minder wattpiek op de constructie. Bifaciale panelen zijn hierbij interessant omdat ze ook licht opvangen dat van onderaf terugkaatst, wat een deel van het verlies compenseert.
 
-Jaarlijkse stroomopbrengst: 6 kWp × 900 h = 5.400 kWh
-Waarde: circa €1.350/jaar
-Terugverdientijd stroom: **7-11 jaar**
-Plus moestuinwaarde (groenten, kruiden): €200-€400/jaar besparingen
-**Gecombineerde terugverdientijd: 6-9 jaar**
+Welk type paneel bij je opstelling past, werken wij uit in [beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/); de omvormerkeuze bij een opstelling met wisselende beschaduwing komt aan bod in [beste omvormer voor zonnepanelen](/posts/beste-omvormer-zonnepanelen-2026/).
 
----
+## Water: het best onderbouwde voordeel
 
-## Conclusie: zinvol, maar maatwerk
+Het effect dat in vrijwel alle studies terugkomt, is de lagere verdamping onder de panelen. De bodem krijgt minder directe instraling, blijft koeler en droogt langzamer uit; de gewassen zelf verdampen minder doordat de bladtemperatuur lager blijft.
 
-Agrivoltaïca op kleine schaal is mogelijk en in sommige gevallen financieel interessant. Maar het is geen plug-and-play oplossing — elke situatie vraagt maatwerk.
+Voor een particulier vertaalt zich dat in iets prozaïsch maar prettigs: je hoeft minder vaak te gieten, en in een droge zomer is een beschaduwde moestuin beter bestand tegen een periode zonder regen dan een onbeschaduwde.
 
-**De meest realistische variant voor particulieren** is de pergola of terrasoverkapping met zonnepanelen en een moestuin eronder. Dit combineert de voordelen van beschaduwde teelt, dakbeschutting en stroomopwekking in één constructie die in veel gemeenten vergunningvrij is (tot 30 m², max 2,5 m hoogte, achtererfgebied).
+## Wat het oplevert aan stroom
 
-**De echte agri-PV van boerderijschaal** — met schapen, verhoogde frames en grote percelen — is voor de meeste particulieren een stap te ver vanwege constructiekosten, vergunningsplicht en schaalnadeel.
+**Modelberekening met aannames.** Een pergola-opstelling met een vlakke tot licht hellende hoek, in het achtererfgebied, met een deel van de dag schaduw van de woning of van bomen.
 
-Er is wel één particuliere situatie waarin het rond kan komen: een grote weidetuin met een paar schapen die het gras kort houden. Reken dan op een constructie van tientallen vierkante meters op circa 2,5 meter hoogte, zodat de dieren er vrij onder kunnen. Die hoogte betekent bijna altijd dat je vergunningplichtig bent, dus begin met een gesprek bij je gemeente vóórdat je constructiekosten laat berekenen — de vergunning is bij deze variant het bepalende risico, niet de techniek.
+**Uitkomst van het model.** De specifieke opbrengst — kilowattuur per kilowattpiek per jaar — ligt bij zo'n opstelling onder die van een goed georiënteerd schuin dak. Twee oorzaken: de hellingshoek wijkt af van optimaal, en de constructie staat lager en dus vaker in de schaduw. Hoeveel lager de opbrengst uitvalt, hangt volledig af van je perceel.
 
----
+Laat daarom voor jouw exacte opstelling een simulatie maken met de werkelijke hoek, oriëntatie en beschaduwing — bijvoorbeeld met PVGIS — en gebruik geen vuistregel. Onze rekenpagina [zonnepanelen-opbrengst berekenen](/zonnepanelen-opbrengst-berekenen/) geeft de systematiek.
 
+## Vergunning en regelgeving
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
+**Omgevingsvergunning.** Of je een vergunning nodig hebt, hangt af van de hoogte van de constructie, het oppervlak, de plaats op het erf en het bestemmingsplan. De algemene lijn: hoe hoger en hoe groter, hoe eerder vergunningplichtig — en een agri-PV-frame is functioneel pas bruikbaar op een hoogte waarop je bijna altijd vergunningplichtig bent. Check je situatie via het Omgevingsloket.
 
-## Kippen onder zonnepanelen: de meest schaalbare particuliere variant
+De bouwregelgeving heet sinds 1 januari 2024 het Besluit bouwwerken leefomgeving (Bbl); verwijzingen naar het Bouwbesluit zijn verouderd.
 
-De meest haalbare combinatie van dieren en zonnepanelen voor een gemiddelde Nederlandse achtertuin is niet het schaap maar de **kip**.
+**Bestemmingsplan.** Op agrarisch bestemde percelen kan een bouwwerk voor energieopwekking apart geregeld zijn. Controleer wat de bestemming toestaat voordat je ontwerpt.
 
-### Waarom kippen en zonnepanelen passen
+**Netaansluiting.** Voor een particuliere opstelling gelden de gewone kleinverbruikersregels. De grens tussen klein- en grootverbruik ligt bij een aansluiting boven 3×80 ampère; kom je daarboven, dan is een zakelijke aansluiting aan de orde. De SDE++ is overigens een subsidieregeling voor grotere projecten en geen verplichte procedure — bij een tuinopstelling speelt die geen rol.
 
-Kippen zijn perfect aangepast voor leven onder en rondom zonnepanelen:
+**Subsidie.** Er is geen landelijke subsidie op zonnepanelen: de ISDE geldt voor onder meer warmtepompen, zonneboilers en isolatie, niet voor pv. Het btw-nultarief op panelen geldt sinds 1 januari 2023 voor panelen op of bij een woning; of een vrijstaande tuinconstructie daaronder valt, is een vraag voor de Belastingdienst en niet iets waar wij een algemeen antwoord op kunnen geven. Gemeentelijke of provinciale regelingen wisselen per jaar — gebruik de subsidiechecker van je eigen gemeente. Onze gids [gemeentelijke subsidie zonnepanelen](/posts/gemeentelijke-subsidie-zonnepanelen-2026/) beschrijft die route.
 
-**Grasonderhoud:** Een koppel van 4-6 kippen houdt een oppervlak van 20-30 m² vrijwel grasloos. Maaien is nauwelijks nog nodig.
+## Wat het kost
 
-**Mestbemesting:** Kippenmest is rijke organische meststof. Het verbetert de bodemkwaliteit onder en rondom de panelen over tijd.
+Wij publiceren voor agri-PV geen prijstabel, en dat is een bewuste keuze: kant-en-klare particuliere systemen bestaan nauwelijks, en de kosten worden gedomineerd door maatwerk in fundering en staal. Een prijsopgave uit een artikel zou hier meer suggereren dan zij waard is.
 
-**Onkruidbeheer:** Kippen pikken onkruidzaden weg en krabben aan jonge onkruidplanten. Effectief onkruidbeheer zonder chemie.
+Wat je in plaats daarvan kunt doen:
 
-**Insectenbeheer:** Kippen eten insecten en larven die gewassen kunnen beschadigen.
+- Vraag de **constructie** en de **PV-installatie** apart geoffreerd, zodat je ziet welk deel van de meerprijs in het frame zit.
+- Vraag de constructeur om de belasting- en windberekening als bijlage.
+- Neem de vergunningsroute in tijd én kosten mee in je afweging voordat je aan het ontwerp begint.
+- Zet er de opbrengst van een gewone dakopstelling naast. Dat is de eerlijke vergelijking: heb je nog vrij dakvlak, dan is dat vrijwel altijd de goedkopere plek voor dezelfde wattpieken.
 
-**Bescherming:** Panelen op voldoende hoogte (>1,5 m) bieden kippen enige bescherming tegen roofvogels.
+## Wat je met de opgewekte stroom doet
 
-### Praktische eisen
+Een agri-PV-opstelling wekt op wanneer de zon schijnt, en een moestuin verbruikt niets. De opwek moet dus naar het huishouden of naar het net.
 
-- **Constructiehoogte:** Minimaal 1,5 meter voor bewegingsvrijheid kippen; 1,8 m voor jou om er gemakkelijk bij te kunnen
-- **Omheining:** Kippen kunnen niet vliegen maar wel klimmen. Een omheining van 1,2-1,5 m rondom de panelen-zone is nodig
-- **Kippen-vaste bekabeling:** Kabels moeten beschermd zijn (conduit/buis) — kippen pikken aan zachte kabels
-- **Toegang tot panelen voor onderhoud:** Zorg voor een deur of opening van minimaal 90 cm breed
+Dat maakt de timing relevant: de saldering stopt **volledig per 1 januari 2027**. Er is geen afbouwpad. Vanaf dat moment wordt teruglevering vergoed tegen wat je leverancier ervoor betaalt, en rekenen veel leveranciers daarnaast terugleverkosten — wij houden dat bij op [terugleverkosten vergelijken](/terugleverkosten-vergelijken/).
 
-### Hoeveel kippen passen er?
+Voor een tuinopstelling betekent dat hetzelfde als voor een dakopstelling: eigen verbruik wordt belangrijker dan totale opwek. Opslag kan daarbij helpen door de middagopwek naar de avond te verschuiven. Of dat uit kan, hangt af van je verbruikspatroon en van de prijs van de batterij; reken het door op [terugverdientijd thuisbatterij](/terugverdientijd-thuisbatterij/). Let op dat een thuisbatterij onder het btw-tarief van 21 procent valt en niet onder het nultarief voor panelen, en dat de ISDE geen thuisbatterijen subsidieert.
 
-Nederlandse richtlijn voor vrije-uitloopkippen: minimaal 4 m² buitenruimte per kip. Op een agri-PV-constructie van 30 m² (netto beschikbare grond tussen frame-poten): maximaal 7-8 kippen. Realistisch met marge: 4-5 kippen.
+Een van de Nederlandse aanbieders in dat segment is Sessy:
 
----
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
-## Seizoenskalender voor agri-PV in de tuin
+*Aan deze verwijzing verdienen wij geen vergoeding.*
 
-Een praktisch overzicht van wat wanneer te doen als je een agri-PV moestuin-combinatie hebt.
+## Seizoenskalender
 
-| Maand | PV | Tuin | Actie |
-|---|---|---|---|
-| Januari-februari | Weinig productie | Geen gewassen | Constructie plannen/bouwen |
-| Maart | Productie start | Zaaien in kas | Zaaibakken opstarten voor schaduwgewassen |
-| April | Groeiend | Uitplanten | Sla, spinazie uitplanten onder panelen |
-| Mei-juni | Hoge productie | Volle groei | Wekelijks oogsten, nieuwe ronden zaaien |
-| Juli-augustus | Piekvermogen | Hittestress | Schaduw beschermt gewassen; kool, boerenkool |
-| September | Afnemend | Herfstteelt | Wintergroenten, bieslook, peterselie |
-| Oktober-november | Laag | Afsluiten | Bodem mulchen, wintervoorbereiding |
-| December | Minimaal | Geen | Onderhoud frame, PV-panelen reinigen |
+| Periode | Zon-PV | Moestuin |
+|---|---|---|
+| Januari–februari | Weinig productie | Rustperiode; goed moment om te bouwen of te plannen |
+| Maart | Productie komt op gang | Voorzaaien van schaduwtolerante gewassen |
+| April | Groeiend | Sla en spinazie uitplanten onder de panelen |
+| Mei–juni | Hoge productie | Wekelijks oogsten, nieuwe rondes zaaien |
+| Juli–augustus | Piek | De schaduw doet zijn werk: minder doorschieten, minder gieten |
+| September | Afnemend | Herfstteelt en wintergroenten |
+| Oktober–november | Laag | Bodem afdekken, winterklaar maken |
+| December | Minimaal | Constructie inspecteren, panelen reinigen |
 
----
+## Onze conclusie
 
-## Slimme energieintegratie: agri-PV met thuisbatterij
+Agri-PV is op landbouwschaal een serieus concept met onderbouwde voordelen: de grond houdt twee functies, en de gewassen onder de panelen hebben minder last van hitte en droogte. Op parkschaal is het schaap daarbij een praktische en bewezen manier om het terrein te beheren.
 
-Een agri-PV-systeem produceert stroom op productieve uren (overdag), maar je groententuin en kippen verbruiken weinig stroom. De vraag is dus: wat doe je met de opgewekte energie?
+Op tuinschaal verdwijnt het schaalvoordeel. De constructie is de dominante kostenpost, de hoogte die de opstelling functioneel maakt is precies de hoogte die vergunningplichtig is, en de opbrengst per wattpiek ligt onder die van een dakopstelling. Heb je nog vrij dakvlak, dan is dat vrijwel altijd de verstandigere plek voor je panelen.
 
-De meest logische combinatie is een **thuisbatterij** die overdag de zonnestroom opslaat en 's avonds beschikbaar stelt voor het huishouden.
+Waar het wél interessant wordt: als de constructie er toch al komt of al staat. Een pergola die je toch zou bouwen, een schuurdak dat er al is, of een bestaande overkapping — daar is de meerprijs van panelen beperkt en krijg je de schaduwvoordelen in je moestuin er gratis bij. Dat is de eerlijke conclusie: agri-PV in een tuin is zelden een goede reden om te bouwen, maar vaak een goede reden om iets dat je toch bouwt anders in te richten.
 
-Voor een klein agri-PV-systeem van 3-5 kWp is een batterij van 5 kWh (Sessy of Marstek) de ideale match:
+Wil je de zonnepanelen zelf laten aanleggen door een marktpartij, dan is Zonneplan een van de aanbieders in de Nederlandse markt:
 
-- Zomerse dagproductie: 3-5 kWp × 7-9 uur zon = 21-45 kWh
-- Na direct eigen gebruik (5-8 kWh overdag): 13-37 kWh over
-- Batterij laadt op de eerste 5 kWh overschot
-- Rest gaat naar net (saldering / terugleververgoeding)
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta" rel="nofollow noopener" target="_blank">Bekijk het aanbod van Zonneplan</a>
 
-De combinatie agri-PV + thuisbatterij maximaliseert het eigen gebruik van de geproduceerde stroom.
+*Aan deze verwijzing verdienen wij geen vergoeding.*
 
----
-
-## Agri-PV en de Community: leer van anderen
-
-Er is in Nederland een groeiende community van particulieren die met agri-PV experimenteren. Een paar nuttige bronnen:
-
-**Agrivoltaïcs Europe (agrivoltaics-europe.eu):** Europese koepelorganisatie met case studies en technische richtlijnen.
-
-**WUR (Wageningen University):** Diverse agri-PV onderzoeksprojecten met publicaties beschikbaar via hun bibliotheek.
-
-**Facebook-groepen:** "Zonnepanelen thuis Nederland" bevat regelmatig posts van mensen die tuin-PV-combinaties testen.
-
-**Open Farms Days (jaarlijks augustus):** Op diverse locaties in Nederland kun je agri-PV-projecten in de praktijk bekijken, inclusief schapen en kippencombinaties.
-
----
-
-## Samenvatting: de drie haalbaarheidsassen
-
-Agri-PV voor particulieren is haalbaar als je drie dimensies in lijn hebt:
-
-**As 1: Ruimte**
-Minimaal 30 m² beschikbare buitenruimte (tuin, volkstuinperceel, weide). Hoe meer ruimte, hoe beter de financiële businesscase.
-
-**As 2: Budget en terugverdienbereidheid**
-€6.000-€12.000 investering. Terugverdientijd 7-12 jaar. Alleen zinvol als je de woning 10+ jaar houdt en intrinsieke interesse hebt in moestuin of diervriendelijke buitenruimte.
-
-**As 3: Bereidheid voor maatwerk**
-Agri-PV is geen kant-en-klaar product. Je hebt vergunninggesprekken, constructie-overleg, keuzes over gewassen en een bereidheid om te experimenteren nodig.
-
-Zijn alle drie aanwezig, dan is dit een van de leukste verduurzamingsprojecten die er zijn: je tuin en je energiemeter profiteren beide. Ontbreekt een van de drie, dan zijn zonnepanelen op een gewoon dakvlak financieel vrijwel altijd de betere keuze.
-
----
-
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk de beste zonnepanelen voor een agri-PV project</a>
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Combineer je agri-PV met een Sessy thuisbatterij</a>
+*Vragen over je situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ## Gerelateerde artikelen
 
-- [Beste dynamisch contract met zonnepanelen 2026](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)
-- [Beste Omvormer voor Zonnepanelen 2026: Top 5 Vergeleken](/posts/beste-omvormer-zonnepanelen-2026/)
-- [Echte Aansluitkosten Zonnepanelen 2026](/posts/dakdoos-aansluitkosten-zonnepanelen-2026/)
-- [Gemeentelijke subsidie zonnepanelen 2026: per provincie](/posts/gemeentelijke-subsidie-zonnepanelen-2026/)
-- [Zonnepanelen in huurwoning in 2026](/posts/huurwoning-zonnepanelen-toestemming/)
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+- [Beste zonnepanelen 2026](/posts/beste-zonnepanelen-2026/)
+- [Beste omvormer voor zonnepanelen](/posts/beste-omvormer-zonnepanelen-2026/)
+- [Zonnepanelen plat dak vs schuin dak](/posts/zonnepanelen-plat-dak-vs-schuin-dak-2026/)
+- [Aansluitkosten zonnepanelen](/posts/dakdoos-aansluitkosten-zonnepanelen-2026/)
+- [Gemeentelijke subsidie zonnepanelen](/posts/gemeentelijke-subsidie-zonnepanelen-2026/)
+- [Beste dynamisch contract met zonnepanelen](/posts/beste-dynamisch-contract-met-zonnepanelen-2026/)

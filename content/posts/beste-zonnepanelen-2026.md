@@ -1,8 +1,8 @@
 ---
 title: 'Beste Zonnepanelen 2026: Top 5 Merken Vergeleken'
 date: 2026-04-26 10:00:00+01:00
-lastmod: '2026-08-19 08:00:00+02:00'
-description: De 5 beste zonnepanelen van 2026 vergeleken op rendement, prijs, garantie en duurzaamheid. SunPower, REC, Longi, JA Solar en Trina Solar.
+lastmod: '2026-08-21 08:00:00+02:00'
+description: Vijf paneelmerken naast elkaar op de cijfers uit hun eigen datasheets — rendement, temperatuurcoëfficiënt, degradatie en garantie — en wat daarvan in de praktijk telt.
 categories:
 - zonnepanelen
 tags:
@@ -22,440 +22,209 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Wat kosten zonnepanelen in 2026?
-  a: Zonnepanelen kosten in 2026 gemiddeld €250-€500 per paneel inclusief installatie, afhankelijk van het merk en vermogen. Een complete installatie van 10 panelen (4.000 Wp) kost €2.500-€5.000 inclusief omvormer en installatie. Premiummerken als SunPower zijn duurder maar leveren meer op.
+  a: 'Paneelfabrikanten publiceren geen consumentenprijs per model: wat je betaalt, komt uit de offerte van je installateur en bestaat uit panelen, omvormer, montagesysteem en arbeid. Vergelijk daarom niet op prijs per paneel maar op prijs per opgesteld wattpiek, en vraag drie offertes met een uitgesplitste componentlijst. Alleen dan vergelijk je dezelfde installatie en niet twee verschillende systeemgroottes.'
 - q: Hoeveel zonnepanelen heb je nodig?
-  a: Een gemiddeld Nederlands huishouden (3.500 kWh/jaar) heeft 8-10 panelen van 400 Wp nodig. Dit beslaat circa 16-20 m² dakoppervlak. Met een warmtepomp of elektrische auto stijgt het verbruik en heb je 12-16 panelen nodig.
+  a: 'Dat volgt uit je jaarverbruik en de opbrengst per paneel op jouw dak, niet uit een vast aantal. Een huishouden zonder warmtepomp of elektrische auto komt met een bescheiden installatie een heel eind; met een warmtepomp of een auto die thuis laadt, loopt het verbruik en daarmee het benodigde aantal panelen fors op. Belangrijker dan het aantal is de vraag hoeveel je zelf verbruikt: sinds de saldering per 1 januari 2027 stopt, is een dak volleggen tot ver boven je eigen verbruik niet langer vanzelfsprekend rendabel.'
 - q: Welk merk zonnepaneel is het beste?
-  a: SunPower Maxeon biedt het hoogste rendement (22,8%) en de langste garantie (40 jaar). REC Alpha Pure-R biedt de beste prijs-kwaliteitverhouding met 22,3% rendement. Voor budgetbewuste kopers zijn Longi en JA Solar uitstekende keuzes met goede prestaties tegen een lagere prijs.
+  a: 'Er is geen merk dat voor iedereen het beste is. Panelen met het hoogste rendement per vierkante meter zijn interessant als je dakoppervlak de beperkende factor is; heb je ruimte over, dan levert een goedkoper paneel per geïnvesteerde euro doorgaans meer op. Kijk verder naar de temperatuurcoëfficiënt, naar wat er na 25 jaar aan vermogen gegarandeerd wordt, en vooral naar wie een garantieclaim afhandelt. Dat laatste bepaalt of een garantie in de praktijk iets waard is.'
 - q: Hoe lang gaan zonnepanelen mee?
-  a: Moderne zonnepanelen gaan 25-30 jaar mee en behouden na 25 jaar nog 80-87% van hun oorspronkelijke vermogen. Premiummerken als SunPower garanderen 92% vermogen na 25 jaar. De omvormer gaat gemiddeld 12-25 jaar mee, afhankelijk van het type.
-- q: Zijn zonnepanelen nog rendabel na afbouw salderingsregeling?
-  a: Ja, zonnepanelen blijven rendabel. De terugverdientijd stijgt van 5-7 jaar naar 7-10 jaar zonder salderen. Met een thuisbatterij of dynamisch energiecontract kun je meer eigen stroom benutten, waardoor de terugverdientijd weer daalt. Zonnepanelen zijn ook zonder salderen een goede investering.
+  a: 'De gangbare vermogensgaranties lopen tot 25 of 30 jaar, waarbij fabrikanten een minimaal resterend vermogen aan het eind van die termijn garanderen. Dat is geen einddatum: een paneel dat na 25 jaar op zijn gegarandeerde vermogen zit, blijft daarna stroom leveren. De omvormer is doorgaans het onderdeel dat als eerste vervangen moet worden; neem dat mee in je terugverdienberekening.'
+- q: Zijn zonnepanelen nog rendabel als de saldering stopt?
+  a: 'Ja, maar de rekensom verandert. De saldering stopt volledig per 1 januari 2027 — er is geen afbouwpad. Vanaf dat moment spaart elke zelf verbruikte kilowattuur je leveringstarief uit, terwijl teruglevering alleen de vergoeding van je leverancier oplevert, waar veel leveranciers terugleverkosten tegenover zetten. Dat verlengt de terugverdientijd, en het verschuift de optimale systeemgrootte naar beneden. Wie zijn eigen verbruik kan verhogen of verschuiven — met een warmtepomp, een auto die overdag laadt of opslag — houdt de terugverdientijd het kortst.'
 - q: Welke omvormer past bij welke zonnepanelen?
-  a: 'Er zijn twee typen: string-omvormers met optimizers (SolarEdge, goedkoper) en micro-omvormers (Enphase, betrouwbaarder). Bij schaduw of een complex dak is Enphase beter. Bij een standaard dak zonder schaduw biedt SolarEdge de beste prijs-kwaliteit. Lees onze SolarEdge vs Enphase vergelijking.'
-products:
-- name: Zonneplan
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '5000'
-- name: Coolblue Zonnepanelen
-  url: https://www.coolblue.nl/zonnepanelen
-  price: '5500'
-- name: SolarNRG
-  url: https://www.solarnrg.nl/
-  price: '5000'
+  a: 'De hoofdkeuze is tussen een string-omvormer, eventueel met optimizers per paneel, en micro-omvormers per paneel. Bij een eenvoudig dakvlak zonder schaduw doet een string-omvormer het werk. Bij schaduw van een boom of schoorsteen, of bij meerdere dakvlakken met verschillende oriëntaties, is optimalisatie op paneelniveau de moeite waard, omdat één achterblijvend paneel dan niet de hele string meetrekt. Onze vergelijking van SolarEdge en Enphase gaat op die afweging in.'
 schema_type: Article
 ---
-Het verschil tussen panelen van €0,80/Wp en €1,40/Wp lijkt klein, maar over een levensduur van 25 jaar gaat het om duizenden euro's meer of minder opbrengst — en dat verschil zit niet alleen in de prijs, maar ook in rendement per m², temperatuurcoëfficiënt en degradatiegarantie. Wij hebben de vijf belangrijkste merken op de Nederlandse markt naast elkaar gelegd op basis van hun datasheets en garantievoorwaarden.
 
-*Disclosure: de links naar Sessy en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+Het merk op je paneel bepaalt minder dan de meeste vergelijkingen suggereren. Wat het wél bepaalt: hoeveel wattpiek er op je dak past, hoe het paneel presteert op een hete zomerdag, en wat er na vijfentwintig jaar aan vermogen gegarandeerd overblijft. Dit artikel legt vijf merken naast elkaar op precies die punten.
 
-Kies je omvormer zorgvuldig — lees onze [SolarEdge vs Enphase vergelijking](/posts/solaredge-vs-enphase-2026/) en ons overzicht van de [beste omvormers](/posts/beste-omvormer-zonnepanelen-2026/).
+**Wij testen niet zelf.** De cijfers hieronder komen uit de datasheets en garantievoorwaarden van de fabrikanten. Controleer altijd het exacte typenummer in je offerte tegen de bijbehorende datasheet: fabrikanten brengen binnen dezelfde productnaam varianten uit met andere vermogens en andere specificaties.
 
+*Disclosure: de verwijzingen naar Zonneplan en Coolblue in dit artikel zijn gewone verwijzingen. Wij hebben met deze partijen op dit moment geen actieve affiliate- of commissierelatie en verdienen aan die links niets. Met de genoemde paneelfabrikanten hebben wij geen enkele relatie.*
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+Kies je omvormer met dezelfde zorg als je paneel — lees onze [SolarEdge vs Enphase vergelijking](/posts/solaredge-vs-enphase-2026/) en het overzicht van de [beste omvormers](/posts/beste-omvormer-zonnepanelen-2026/).
 
-> **Kort antwoord:** De 5 beste zonnepanelen van 2026 vergeleken op rendement, prijs, garantie en duurzaamheid. SunPower, REC, Longi, JA Solar en Trina Solar.
->
-> Zonnepanelen kosten in 2026 gemiddeld €250-€500 per paneel inclusief installatie, afhankelijk van het merk en vermogen. Een complete installatie van 10 panelen (4.000 Wp) kost €2.500-€5.000 inclusief omvormer en installatie. Premiummerken als SunPower zijn duurder maar leveren meer op.
+## De vijf op een rij
 
-## Snelle vergelijking
+| Merk & model | Vermogen | Rendement | Celtechnologie | Productgarantie | Segment |
+|---|---|---|---|---|---|
+| SunPower Maxeon 7 | 430 Wp | 22,8% | IBC n-type | 40 jaar | Premium |
+| REC Alpha Pure-R | 430 Wp | 22,3% | HJT n-type | 25 jaar | Premium |
+| Longi Hi-MO 7 | 420 Wp | 22,0% | HPBC n-type | 25 jaar | Middenklasse |
+| JA Solar DeepBlue 4.0 | 415 Wp | 21,8% | n-type | 25 jaar | Prijs-kwaliteit |
+| Trina Solar Vertex S+ | 440 Wp | 22,1% | TOPCon n-type | 25 jaar | Middenklasse |
 
-| Merk & Model | Vermogen | Rendement | Garantie product | Garantie vermogen | Prijs/Wp | Segment |
-|-------------|---------|----------|-----------------|-------------------|---------|---------|
-| **SunPower Maxeon 7** | 430 Wp | 22,8% | 40 jaar | 92% na 25 jaar | €1,20-€1,50 | Premium |
-| **REC Alpha Pure-R** | 430 Wp | 22,3% | 25 jaar | 92% na 25 jaar | €0,90-€1,20 | Premium |
-| **Longi Hi-MO 7** | 420 Wp | 22,0% | 25 jaar | 87,4% na 30 jaar | €0,60-€0,80 | Middenklasse |
-| **JA Solar DeepBlue 4.0** | 415 Wp | 21,8% | 25 jaar | 87,4% na 30 jaar | €0,55-€0,75 | Prijs-kwaliteit |
-| **Trina Solar Vertex S+** | 440 Wp | 22,1% | 25 jaar | 87,4% na 30 jaar | €0,60-€0,85 | Middenklasse |
+*Fabrikantopgaven uit de datasheets van de genoemde modellen. Vermogen en rendement gelden onder standaardtestcondities; op een dak liggen ze lager. Prijzen staan er bewust niet bij — zie de paragraaf hieronder.*
 
-*Prijs per Wp = prijs per paneel gedeeld door het vermogen in Wp*
+**Waarom hier geen prijzen staan.** Paneelfabrikanten publiceren geen consumentenprijs per model. Wat een paneel je kost, hangt af van de installateur, de systeemgrootte, het montagesysteem en het inkoopmoment. Prijzen per wattpiek die online circuleren, zijn momentopnames van één distributiekanaal. Vergelijk daarom op de prijs per opgesteld wattpiek uit je eigen offertes — dat is het enige getal dat voor jouw dak klopt.
 
-## 1. SunPower Maxeon 7 — Hoogste rendement
+## 1. SunPower Maxeon 7
 
-SunPower is het premium merk in de zonnepanelenmarkt. De Maxeon 7 gebruikt de unieke IBC (Interdigitated Back Contact) technologie die het hoogste commercieel beschikbare rendement levert.
+De Maxeon-lijn gebruikt IBC-cellen: alle contacten zitten aan de achterkant van de cel, zodat er geen contactlijnen op de voorzijde staan die licht wegnemen. Dat levert het hoogste rendement per vierkante meter in dit overzicht.
 
-### Specificaties
-- **Vermogen:** 430 Wp
-- **Rendement:** 22,8%
-- **Temperatuurcoëfficiënt:** -0,27%/°C (beste in test)
-- **Productgarantie:** 40 jaar (langste in de markt)
-- **Vermogensgarantie:** 92% na 25 jaar, 88,25% na 40 jaar
-- **Celtype:** IBC n-type monocrystalline
+**Uit de datasheet:** 430 Wp, 22,8 procent rendement, temperatuurcoëfficiënt −0,27 procent per graad Celsius, productgarantie van 40 jaar en een vermogensgarantie van 92 procent na 25 jaar.
 
-### Waarom SunPower premium is
+**Waar het merk zich onderscheidt.** De combinatie van rendement en garantietermijn is de langste in dit veld. Dat is relevant in precies één situatie: als je dakoppervlak de beperkende factor is en je uit een klein vlak het maximum wilt halen.
 
-De IBC-technologie plaatst alle contacten aan de achterkant van de cel, waardoor er geen schaduwlijnen op de voorkant zijn. Dit levert 5-10% meer opbrengst dan conventionele panelen over de levensduur, vooral bij bewolking en lage lichtomstandigheden.
+**Waar het knelt.** Het prijsverschil met de middenklasse is fors, en die meerprijs verdien je met opbrengst alleen niet terug zolang je nog vrij dakoppervlak hebt. Daarnaast werken minder installateurs standaard met dit merk, wat de keuze in offertes beperkt.
 
-**✅ Voordelen:**
-- Hoogste rendement in commerciële productie
-- Beste garantie (40 jaar product, 92% vermogen na 25 jaar)
-- Beste prestaties bij bewolking en hoge temperaturen
-- Sierlijk volledig zwart design
+## 2. REC Alpha Pure-R
 
-**❌ Nadelen:**
-- 50-80% duurder dan middenklasse panelen
-- Langere terugverdientijd ondanks hogere opbrengst
-- Minder installateurs beschikbaar
+REC is een Noors merk. De Alpha Pure-R gebruikt HJT-cellen — heterojunctie — en is opgebouwd zonder lood in de soldeerverbindingen.
 
-**Prijs voor 10 panelen (incl. installatie):** €5.500-€7.500
+**Uit de datasheet:** 430 Wp, 22,3 procent rendement, temperatuurcoëfficiënt −0,24 procent per graad Celsius, productgarantie van 25 jaar en 92 procent vermogensgarantie na 25 jaar.
 
-### Voor wie?
-SunPower is de keuze als je **beperkt dakoppervlak** hebt en het maximum eruit wilt halen, of als je de langst mogelijke levensduur en garantie wilt.
+**Waar het merk zich onderscheidt.** De temperatuurcoëfficiënt is de laagste in dit overzicht. Op een warm dak in juli scheelt dat een paar procent output ten opzichte van panelen met een coëfficiënt rond −0,30. Het loodvrije platform is bovendien een reëel verschil voor wie op materiaalgebruik let.
 
-## 2. REC Alpha Pure-R — Beste prijs-kwaliteit premium
+**Waar het knelt.** Ook dit is een premiumpaneel, met een prijsverschil dat je alleen terugverdient bij beperkt dakoppervlak. De naamsbekendheid bij consumenten is lager, wat in de praktijk betekent dat je er in offertes actief om moet vragen.
 
-REC is een Noors merk dat met de Alpha Pure-R een uitstekend premiumpaneel levert tegen een scherpere prijs dan SunPower. De HJT (Heterojunction Technology) cellen bieden toprendement met een lange levensduur.
+## 3. Longi Hi-MO 7
 
-### Specificaties
-- **Vermogen:** 430 Wp
-- **Rendement:** 22,3%
-- **Temperatuurcoëfficiënt:** -0,24%/°C (beste in test)
-- **Productgarantie:** 25 jaar
-- **Vermogensgarantie:** 92% na 25 jaar
-- **Celtype:** HJT n-type monocrystalline
+Longi is een van de grootste producenten van monokristallijne wafers en cellen ter wereld. De Hi-MO 7 gebruikt HPBC-cellen, een achtercontacttechnologie.
 
-### Waarom REC opvalt
+**Uit de datasheet:** 420 Wp, 22,0 procent rendement, temperatuurcoëfficiënt −0,29 procent per graad Celsius, productgarantie van 25 jaar en een vermogensgarantie van 87,4 procent na 30 jaar.
 
-REC combineert een extreem lage temperatuurcoëfficiënt (-0,24%/°C) met het loodvrije Pure-R platform. Dit betekent dat de panelen minder vermogen verliezen bij hoge daktemperaturen — relevant in de steeds warmere Nederlandse zomers.
+**Waar het merk zich onderscheidt.** Brede beschikbaarheid en een garantiecurve die tot dertig jaar doorloopt. Voor de meeste Nederlandse daken is dit het paneel dat het beste evenwicht houdt tussen wat het kost en wat het levert.
 
-**✅ Voordelen:**
-- Beste temperatuurprestaties (ideaal voor warme dagen)
-- 25 jaar volledige productgarantie
-- Loodvrij (milieuvriendelijker)
-- Beter geprijsd dan SunPower bij vergelijkbare kwaliteit
+**Waar het knelt.** Bij gedeeltelijke schaduw presteert een paneel zonder cel-niveau-optimalisatie minder goed dan een IBC-paneel; dat los je op met de omvormerkeuze, niet met het paneel.
 
-**❌ Nadelen:**
-- Nog steeds 30-50% duurder dan budgetpanelen
-- Minder bekend bij consumenten dan SunPower
-- Minder installateurs ervaring mee
+## 4. JA Solar DeepBlue 4.0
 
-**Prijs voor 10 panelen (incl. installatie):** €4.500-€6.000
+JA Solar behoort tot de grootste paneelfabrikanten wereldwijd en positioneert de DeepBlue-serie op prijs-kwaliteit.
 
-### Voor wie?
-REC Alpha Pure-R is de **beste keuze als je premium kwaliteit wilt zonder de SunPower-premie** te betalen. Ideaal als je duurzaamheid en kwaliteit belangrijk vindt.
+**Uit de datasheet:** 415 Wp, 21,8 procent rendement, temperatuurcoëfficiënt −0,30 procent per graad Celsius, productgarantie van 25 jaar en een vermogensgarantie van 87,4 procent na 30 jaar.
 
-## 3. Longi Hi-MO 7 — Betrouwbare middenklasse
+**Waar het merk zich onderscheidt.** De laagste instap van dit vijftal, met specificaties die dicht bij de middenklasse liggen. Heb je ruim dak, dan is dit vaak het paneel met de kortste terugverdientijd, simpelweg omdat de investering per wattpiek het laagst is.
 
-Longi is 's werelds grootste fabrikant van monocrystalline siliciumwafers en zonnecellen. De Hi-MO 7 levert uitstekende prestaties tegen een concurrerende prijs.
+**Waar het knelt.** Het rendement per vierkante meter is het laagst van de vijf. Op een klein dak vertaalt zich dat direct in minder opgesteld vermogen.
 
-### Specificaties
-- **Vermogen:** 420 Wp
-- **Rendement:** 22,0%
-- **Temperatuurcoëfficiënt:** -0,29%/°C
-- **Productgarantie:** 25 jaar
-- **Vermogensgarantie:** 87,4% na 30 jaar
-- **Celtype:** HPBC n-type monocrystalline
+## 5. Trina Solar Vertex S+
 
-**✅ Voordelen:**
-- Uitstekende prijs-kwaliteitverhouding
-- Bewezen betrouwbaarheid (Bloomberg Tier 1)
-- Brede beschikbaarheid bij installateurs
-- 30 jaar vermogensgarantie
+De Vertex S+ heeft in dit overzicht het hoogste vermogen per paneel, op basis van TOPCon-cellen.
 
-**❌ Nadelen:**
-- Productgarantie korter dan premium merken
-- Minder goed bij schaduw dan IBC-panelen
-- Chinese fabrikant (sommige consumenten prefereren Europees)
-
-**Prijs voor 10 panelen (incl. installatie):** €3.000-€4.500
-
-### Voor wie?
-Longi is de slimme keuze voor wie **goede kwaliteit wilt tegen een eerlijke prijs**. De meeste installateurs werken met Longi en het merk heeft zich ruimschoots bewezen.
-
-## 4. JA Solar DeepBlue 4.0 — Beste budget
-
-JA Solar is een van de vijf grootste zonnepanelenfabrikanten ter wereld. De DeepBlue 4.0 serie levert betrouwbare prestaties tegen de scherpste prijs.
-
-### Specificaties
-- **Vermogen:** 415 Wp
-- **Rendement:** 21,8%
-- **Temperatuurcoëfficiënt:** -0,30%/°C
-- **Productgarantie:** 25 jaar (recent verlengd)
-- **Vermogensgarantie:** 87,4% na 30 jaar
-- **Celtype:** n-type monocrystalline
-
-**✅ Voordelen:**
-- Scherpste prijs per Wp
-- 25 jaar productgarantie (recent verbeterd)
-- Goed track record in Nederland
-- Breed beschikbaar bij installateurs
-
-**❌ Nadelen:**
-- Iets lager rendement dan premium merken
-- Minder goed in schaduw
-- Minder mooie afwerking dan SunPower/REC
-
-**Prijs voor 10 panelen (incl. installatie):** €2.500-€3.800
-
-### Voor wie?
-JA Solar is de juiste keuze als je **de snelste terugverdientijd** wilt. Met de laagste aanschafprijs en degelijke kwaliteit is dit het best budgetpaneel op de markt.
+**Uit de datasheet:** 440 Wp, 22,1 procent rendement, temperatuurcoëfficiënt −0,29 procent per graad Celsius, productgarantie van 25 jaar en een vermogensgarantie van 87,4 procent na 30 jaar.
 
-## 5. Trina Solar Vertex S+ — Krachtigste per paneel
+**Waar het merk zich onderscheidt.** Meer wattpiek per paneel betekent minder panelen voor hetzelfde vermogen, en dus minder montagepunten en minder optimizers of micro-omvormers als je die gebruikt.
 
-Trina Solar levert met de Vertex S+ het hoogste vermogen per paneel in het residentiële segment. Met 440 Wp heb je minder panelen nodig voor dezelfde opbrengst.
+**Waar het knelt.** Het paneel is fysiek groter. Bij een dak met dakramen, schoorstenen of een krappe indeling kan dat er juist toe leiden dat er minder panelen passen. Laat de indelingstekening maken vóór je op vermogen per paneel selecteert.
 
-### Specificaties
-- **Vermogen:** 440 Wp
-- **Rendement:** 22,1%
-- **Temperatuurcoëfficiënt:** -0,29%/°C
-- **Productgarantie:** 25 jaar
-- **Vermogensgarantie:** 87,4% na 30 jaar
-- **Celtype:** n-type monocrystalline TOPCon
+## Welk paneel bij welke situatie
 
-**✅ Voordelen:**
-- Hoogste vermogen per paneel (minder panelen nodig)
-- Goed rendement (22,1%)
-- Bloomberg Tier 1 fabrikant
-- Goede beschikbaarheid
-
-**❌ Nadelen:**
-- Paneel is fysiek groter (check of het op je dak past)
-- Minder merk-herkenning bij consumenten
-- Middenweg qua prijs (niet het goedkoopst)
-
-**Prijs voor 10 panelen (incl. installatie):** €3.200-€4.800
-
-### Voor wie?
-Trina Solar Vertex S+ is ideaal als je **maximum vermogen per paneel** wilt en je dak ruim genoeg is. Met minder panelen heb je ook minder omvormers/micro-omvormers nodig.
-
-## Welk zonnepaneel past bij jou?
-
-| Jouw situatie | Beste keuze | Waarom |
-|-------------|-------------|--------|
-| Maximum kwaliteit + langste garantie | **SunPower Maxeon 7** | 40 jaar garantie, hoogste rendement |
-| Premium zonder te veel te betalen | **REC Alpha Pure-R** | Bijna zo goed als SunPower, 30% goedkoper |
-| Beste prijs-kwaliteit (koop) | **Longi Hi-MO 7** | Bewezen kwaliteit, eerlijke prijs |
-| Laagste prijs, snelste terugverdientijd | **JA Solar DeepBlue 4.0** | Scherpste prijs per Wp |
-| Maximum vermogen per paneel | **Trina Solar Vertex S+** | 440 Wp, minder panelen nodig |
-| Beperkt dakoppervlak | **SunPower of REC** | Hoogste opbrengst per m² |
-
-## Terugverdientijd berekening (2026)
-
-### Scenario: 10 panelen, gemiddeld Nederlands dak (oost-west)
-
-| Merk | Investering | Jaarlijkse opbrengst | Terugverdientijd (met salderen) | Terugverdientijd (zonder) |
-|------|-----------|--------------------|---------------------------------|--------------------------|
-| **SunPower** | €6.500 | €850 | 7,6 jaar | 9,5 jaar |
-| **REC** | €5.250 | €830 | 6,3 jaar | 8,0 jaar |
-| **Longi** | €3.750 | €790 | 4,7 jaar | 6,5 jaar |
-| **JA Solar** | €3.150 | €770 | 4,1 jaar | 5,8 jaar |
-| **Trina Solar** | €4.000 | €820 | 4,9 jaar | 6,7 jaar |
-
-*Berekening: stroomprijs €0,25/kWh, 850 kWh/kWp opbrengst, 70% eigenverbruik zonder salderen*
-
-## Praktijkvoorbeeld: wat het merk oplevert over 25 jaar
-
-Hieronder een modelvergelijking van drie keuzes voor hetzelfde dak. Uitgangspunten: 10 panelen, zuidwest dak onder 30°, stroomprijs €0,29/kWh met 3 procent inflatie over 25 jaar. De opbrengst per paneel komt uit de datasheets, de opbrengstverhouding per oriëntatie uit PVGIS.
-
-**Scenario A: JA Solar DeepBlue 4.0 (budget)**
-- Prijs: €2.900 all-in
-- Opwekking jaar 1: 3.870 kWh
-- Degradatie: 0,45%/jaar
-- Opwekking jaar 25: 3.870 × 89,3% = 3.455 kWh
-- Omvormervervanging jaar 13: €850
-- Totale kosten 25 jaar: **€4.150**
-- Totale opbrengst 25 jaar: **€23.400** (gemiddeld €936/jaar met energieprijsinflatie)
-- **Netto: €19.250**
-
-**Scenario B: Longi Hi-MO 7 (middenklasse)**
-- Prijs: €3.750 all-in
-- Opwekking jaar 1: 4.000 kWh
-- Degradatie: 0,40%/jaar
-- Opwekking jaar 25: 4.000 × 90,5% = 3.620 kWh
-- Totale kosten 25 jaar: **€4.900**
-- Totale opbrengst 25 jaar: **€24.700**
-- **Netto: €19.800**
-
-**Scenario C: SunPower Maxeon 7 (premium)**
-- Prijs: €6.500 all-in
-- Opwekking jaar 1: 4.220 kWh
-- Degradatie: 0,25%/jaar
-- Opwekking jaar 25: 4.220 × 93,8% = 3.958 kWh
-- Geen omvormervervanging (40 jaar garantie dekt dit)
-- Totale kosten 25 jaar: **€7.000**
-- Totale opbrengst 25 jaar: **€26.500**
-- **Netto: €19.500**
-
-**Conclusie:** Over 25 jaar is het nettoverschil verrassend klein: JA Solar levert €19.250, SunPower €19.500. Het budgetpaneel compenseert de lagere opbrengst door de veel lagere aanschafkosten. Longi geeft met €19.800 zelfs het beste netto-resultaat.
-
-Dit verklaart waarom wij voor de meeste huishoudens **Longi** aanraden als beste prijs-kwaliteitverhouding. De meerprijs van SunPower is in absolute euro's niet terug te verdienen — die koop je voor de garantietermijn, de reputatie en het hoogste rendement per m², wat alleen loont als je dakoppervlak de beperkende factor is.
-
-## Veelgemaakte fouten bij de keuze van zonnepanelen
-
-Bij de aanschaf van zonnepanelen komen steeds dezelfde vijf fouten terug:
-
-### Fout 1: Maximaal vol leggen voor maximale teruglevering
-
-Vóór 2025 logisch: saldering maakte elk extra paneel de moeite waard. Na 2027 is dit economisch onverstandig. Extra panelen boven ~1,5× je jaarverbruik leveren bijna alleen teruglevering op, waarvoor je nog maar €0,10/kWh krijgt.
-
-**Rekensom:** Extra 4 panelen (€1.400) leveren 1.400 kWh/jaar extra op, waarvan 85% teruglevering = 1.190 kWh × €0,10 = €119/jaar. Terugverdientijd: 12 jaar voor panelen die maar 10% van hun potentieel waarde genereren.
-
-### Fout 2: Alleen naar prijs per paneel kijken
-
-De prijs per paneel zegt niets zonder de prijs per Wattpeak (Wp). Een 415 Wp-paneel voor €180 is goedkoper dan een 440 Wp-paneel voor €195 per stuk — maar het 440 Wp-paneel is goedkoper per Wp (€0,44 vs €0,43). Vergelijk altijd op €/Wp.
-
-### Fout 3: Geen rekening houden met schaduw
-
-Eén boom of schoorsteen die 's middags schaduw geeft op één paneel kan bij een string-omvormer de opbrengst van het hele systeem met 10-25% reduceren. Oplossing: micro-omvormers (Enphase) of optimizers (SolarEdge) bij elk paneel met schaduwrisico.
-
-### Fout 4: Vergeten om de omvormer mee te nemen in de beslissing
-
-De omvormer bepaalt voor 30-40% het rendement en de toekomstbestendigheid van je systeem. Een paneel van €0,60/Wp met een goede hybride omvormer (die je later een thuisbatterij laat koppelen) is slimmer dan een paneel van €0,50/Wp met een basis string-omvormer die je over 3 jaar moet vervangen.
-
-### Fout 5: Geen slimme oriëntatie kiezen
-
-Na 2027 is een oost-west opstelling voor veel huishoudens voordeliger dan puur op het zuiden. Waarom? Oost-west geeft een bredere opwekscurve over de dag — meer uren van eigen verbruik en minder piekteruglevering in de middag. Volgens PVGIS kost een oost-west opstelling enkele procenten tot circa 15 procent van de totale jaaropbrengst, afhankelijk van dakhoek — maar zodra teruglevering minder oplevert dan eigen verbruik uitspaart, weegt het hogere zelfverbruik daar tegenop. Voor huishoudens die overdag thuis zijn, kan oost-west daardoor per geïnvesteerde euro beter uitpakken.
-
-## Garantie en certificeringen: waar je op let
-
-Bij de aankoop van zonnepanelen zijn er twee soorten garantie:
-
-**1. Productgarantie** — dekt materiaalfouten, fabricagefouten, defecten. Standaard 10-25 jaar. SunPower biedt 40 jaar.
-
-**2. Vermogensgarantie** — dekt de minimale output na X jaar. Standaard 80-87% na 25 jaar. SunPower/REC bieden 92% na 25 jaar.
-
-Let ook op certificeringen:
-
-- **Bloomberg Tier 1** — financiële betrouwbaarheid fabrikant. Longi, JA Solar, Trina, REC zijn allemaal Tier 1.
-- **IEC 61215 / IEC 61730** — CE-markering equivalent voor zonnepanelen. Verplicht in EU.
-- **MCS (UK)** of **KIWA (NL)** — installateur-keurmerken die garantie onderstrepen.
-
-Een panel van een onbekend merk zonder Bloomberg Tier 1 is risicovol: als de fabrikant over 10 jaar failliet is, kun je de garantie niet claimen.
-
-## Recycling en duurzaamheid: wat er na 25 jaar gebeurt
-
-Zonnepanelen worden steeds populairder, maar wat doe je ermee na 25 tot 30 jaar? Een vraag die steeds vaker gesteld wordt en die relevant is voor wie nu koopt.
-
-**Recycling in Nederland:**
-Fabrikanten en importeurs zijn via het PV Cycle programma verplicht om zonnepanelen te recyclen. Bij aanschaf betaal je een kleine recyclingbijdrage die dit systeem financiert. Na de levensduur kun je panelen inleveren bij een erkend recyclingpunt.
-
-**Wat er gerecycled wordt:**
-- Aluminium frame: 95%+ recyclebaar
-- Glas: 95%+ recyclebaar (speciaal glas, lagere kwaliteit dan nieuw)
-- Siliciumcellen: complex, wordt verbeterd
-- Zilver in contacten: materiaalschaars, actief teruggewonnen
-
-**Milieuvoetstap:**
-De CO2-footprint van een zonnepaneel (productie, transport, installatie) wordt terugverdiend in 1-2 jaar stroomproductie. Over 25 jaar is de netto CO2-besparing 15-20× de productie-emissie. Zelfs met imperfect recycling zijn zonnepanelen een van de beste klimaatmaatregelen per geïnvesteerde euro.
-
-**Keuze die impact heeft:**
-SunPower en REC scoren het beste op duurzaamheidsrapporten (gebruik van minder toxische materialen, loodvrij bij REC). JA Solar en Longi scoren gemiddeld maar verbeteren snel. Trina Solar heeft een actief duurzaamheidsprogramma maar publiceert minder transparant.
-
-## Tips bij het kiezen
-
-1. **Kijk niet alleen naar prijs per paneel** — Bereken de prijs per Wp (watt-peak) voor een eerlijke vergelijking
-2. **Check de temperatuurcoëfficiënt** — Lager is beter (panelen worden warm op het dak)
-3. **Let op de vermogensgarantie** — 87% na 25 jaar is standaard, 92% is premium
-4. **Kies de juiste omvormer** — De omvormer is minstens zo belangrijk als het paneel. Lees onze [SolarEdge vs Enphase vergelijking](/posts/solaredge-vs-enphase-2026/)
-5. **Vraag minimaal 3 offertes** — Installateursmarges variëren sterk
-6. **Check de installateur** — Zoek naar Zonnekeur of SCIOS-gecertificeerde installateurs
-
-## Rekenvoorbeeld: 16 panelen van 350 Wp
-
-Modelberekening voor een installatie van 16 Longi-panelen van 350 Wp (5,6 kWp) op een zuidwest-dak, aanschafprijs rond de €5.800 all-in:
-
-**Opbrengst volgens PVGIS**
-- Voor Nederland rekent PVGIS bij een zuidwest-dak onder circa 30° met grofweg 850 tot 900 kWh per kWp per jaar. Voor 5,6 kWp komt dat neer op een verwachte jaaropbrengst rond de 4.900 kWh.
-- Wijkt de werkelijke opbrengst na een vol jaar meer dan tien procent hiervan af, dan is dat een reden om de installatie te laten controleren — vaak blijkt dan schaduw of een verkeerd geconfigureerde string de oorzaak.
-
-**Degradatie**
-- Longi geeft in de garantievoorwaarden een maximale jaarlijkse degradatie op na het eerste jaar. Reken je terugverdientijd met die garantiecurve door, niet met een gunstige meting over een korte periode: in het eerste jaar is de degradatie altijd hoger en daarna vlakker.
-
-**Financieel**
-- Zolang de saldering volledig geldt, is elke opgewekte kWh de volle leveringsprijs waard en is de terugverdientijd kort.
-- Zodra de saldering is afgebouwd, hangt de opbrengst af van je zelfverbruikpercentage. Reken daarom twee scenario's door: één met volledige saldering en één waarin alleen je eigen verbruik de volle prijs uitspaart en de rest tegen het teruglevertarief gaat. Het tweede scenario is de situatie waarin je installatie het grootste deel van haar levensduur draait.
-
----
-
-## Temperatuurprestaties: de vergeten factor
-
-Zonnepanelen worden op een warm zomerdak heet — 50-70°C aan het celoppervlak bij direct zonlicht en een omgevingstemperatuur van 25°C. Warmte vermindert de output. Hoe meer het paneel afwijkt van de testomstandigheden (25°C), hoe groter het verlies.
-
-De **temperatuurcoëfficiënt** geeft aan hoeveel vermogen per graad Celsius boven 25°C verloren gaat.
-
-| Paneel | Temperatuurcoëfficiënt | Verlies bij 60°C daktemperatuur (=+35°C) |
+| Jouw situatie | Waar je op stuurt | Logische keuze |
 |---|---|---|
-| SunPower Maxeon 7 | -0,27%/°C | -9,45% |
-| REC Alpha Pure-R | -0,24%/°C | -8,40% |
-| Longi Hi-MO 7 | -0,29%/°C | -10,15% |
-| JA Solar DeepBlue 4.0 | -0,30%/°C | -10,50% |
-| Trina Solar Vertex S+ | -0,29%/°C | -10,15% |
+| Klein dakvlak, maximaal vermogen nodig | Rendement per m² | SunPower of REC |
+| Ruim dak, kortste terugverdientijd | Prijs per Wp | JA Solar |
+| Evenwicht tussen prijs en prestatie | Beide | Longi of Trina |
+| Warm, slecht geventileerd dak | Temperatuurcoëfficiënt | REC |
+| Zo min mogelijk montagepunten | Wp per paneel | Trina |
 
-**Praktisch verschil op een hete zomerdag:**
-Een 430 Wp SunPower-paneel levert bij 60°C daktemperatuur: 430 × (1 - 0,0945) = 390 Wp.
-Een 415 Wp JA Solar-paneel bij dezelfde temperatuur: 415 × (1 - 0,105) = 371 Wp.
+## Temperatuur: de factor die in offertes ontbreekt
 
-Dus ondanks dat de JA Solar 15 Wp minder heeft bij 25°C, is het verschil bij hoge temperaturen verder vergroot. Over een gehele zomer kunnen de temperatuurprestaties 2-4% meer of minder opbrengst betekenen.
+Panelen worden op een zomerdak fors warmer dan de 25 graden waarbij ze getest zijn, en warmte kost vermogen. De **temperatuurcoëfficiënt** op de datasheet geeft aan hoeveel: het percentage vermogen dat per graad boven 25 graden verloren gaat.
 
----
+| Paneel | Temperatuurcoëfficiënt | Berekend verlies bij +35 °C boven testcondities |
+|---|---|---|
+| REC Alpha Pure-R | −0,24 %/°C | −8,4% |
+| SunPower Maxeon 7 | −0,27 %/°C | −9,5% |
+| Longi Hi-MO 7 | −0,29 %/°C | −10,2% |
+| Trina Solar Vertex S+ | −0,29 %/°C | −10,2% |
+| JA Solar DeepBlue 4.0 | −0,30 %/°C | −10,5% |
 
-## Bifaciale panelen: extra opbrengst van de achterkant
+*Rekenvoorbeeld op basis van de opgegeven coëfficiënten; de werkelijke celtemperatuur hangt af van montagewijze, ventilatie onder het paneel en weersomstandigheden.*
 
-Een trend die steeds meer intrek vindt in het residentiële segment: **bifaciale panelen**. Deze hebben zowel aan de voor- als achterkant zonnecel-materiaal en vangen licht op dat van de achterkant weerkaatst wordt (via het dak of de grond).
+Het verschil tussen de beste en de slechtste van dit vijftal is op zo'n dag ongeveer twee procentpunt. Over een heel jaar, met veel gematigde dagen erbij, valt het effect kleiner uit. Het is een reëel verschil, maar geen reden om er de merkkeuze op te baseren — behalve op een plat dak met een vlakke opstelling, waar de luchtstroom onder het paneel het minst is.
 
-**Opbrengstverhoging bifaciaal:**
-- Op een lichtgekleurd dak: +3-8%
-- Op een donker bitumendak: +1-3%
-- Op gravel/grind (plat dak): +5-12%
-- Op gras of grond (staande installatie): +10-20%
+## Garantie: waar het echt op aankomt
 
-Van de vijf panelen in dit overzicht biedt **REC Alpha Pure-R** optioneel een bifaciaal uitvoering. SunPower Maxeon heeft een eigen bifaciaal product in de commerciële lijn. Voor residentieel gebruik is bifaciaal het meest interessant bij een plat dak met licht grind of een standaard-gemonteerde installatie.
+Er zijn twee garanties, en ze worden vaak door elkaar gehaald:
 
----
+**Productgarantie** dekt materiaal- en fabricagefouten. **Vermogensgarantie** dekt het minimale resterende vermogen na een aantal jaar. Een paneel kan 25 jaar vermogensgarantie hebben en tegelijk een veel kortere productgarantie.
 
-## Installateurskeuze: minstens zo belangrijk als het paneel
+Waar je in de voorwaarden op let:
 
-Het belangrijkste inzicht bij zonnepanelen: een slechte installateur kan het beste paneel tenietdoen, en een goede installateur haalt het maximale uit een budgetpaneel. Schaduw, stringindeling en omvormerkeuze bepalen de jaaropbrengst sterker dan het merk op het paneel.
-
-**Waarop je een installateur beoordeelt:**
-
-1. **Schaduwanalyse**: vraagt de installateur naar bomen, schoorstenen, dakkapellen? Maakt hij een simulatie? Ja = goed teken.
-2. **Omvormer-advies**: raadt hij micro-omvormers of optimizers aan bij gedeeltelijke schaduw? Of gewoon de goedkoopste string-omvormer?
-3. **Kabelmanagement**: kabels netjes weg? Of slordig over de nok geleid?
-4. **Keurmerken**: Zonnekeur (garantieschema) of SCIOS (technische keuring) gecertificeerd?
-5. **Referenties in jouw regio**: vraag naar recente installaties in jouw buurt, zodat je de omvormers kunt uitlezen en opbrengst vergelijken
-
-**Drie offertes is minimum.** Installateursprijzen variëren €500-€1.500 voor dezelfde installatie. Vraag altijd drie offertes en vergelijk op: prijs per kWp, omvormertype, garantiebeleid en keurmerken.
-
----
-
-## Degradatiegaranties: wat staat er precies in?
-
-"Kloppen die degradatiegaranties in de praktijk?" is een terechte vraag, maar het eerlijke antwoord is dat je hem alleen met de garantievoorwaarden kunt beantwoorden — niet met opbrengstverhalen.
-
-Waar je op moet letten in de garantie van een paneel:
-
-| Wat de garantie regelt | Waar je op let |
+| Onderdeel | Waar je op let |
 |---|---|
-| Degradatie eerste jaar | Vaak apart genoemd en hoger dan de jaren daarna (doorgaans 1 tot 2 procent) |
-| Jaarlijkse degradatie daarna | Premiummerken geven circa 0,25 procent per jaar op, budgetmerken richting 0,45 tot 0,55 procent |
-| Gegarandeerd vermogen na 25 jaar | Het cijfer dat écht telt: premiummerken garanderen ruim 90 procent, budgetmerken rond 85 procent |
-| Productgarantie versus vermogensgarantie | Twee verschillende termijnen; de productgarantie (op defecten) is vaak veel korter |
-| Wie de claim afhandelt | Fabrikant, importeur of installateur — en of transport en montage bij een claim vergoed worden |
+| Degradatie eerste jaar | Wordt vrijwel altijd apart genoemd en ligt hoger dan de jaren daarna |
+| Jaarlijkse degradatie daarna | Premiummerken geven een lagere jaarlijkse daling op dan budgetmerken |
+| Gegarandeerd vermogen aan het eind | Het cijfer dat telt: wat is er na 25 of 30 jaar minimaal over |
+| Wie de claim afhandelt | Fabrikant, importeur of installateur |
+| Wat een claim dekt | Alleen het paneel, of ook demontage, transport en herplaatsing |
 
-Wat je hieruit kunt halen: het verschil tussen merken zit minder in de degradatie per jaar dan in wat er na 25 jaar gegarandeerd overblijft, en vooral in wie een claim afhandelt. Een garantie van 25 jaar bij een fabrikant zonder Europese vestiging is in de praktijk moeilijker te verzilveren dan een kortere garantie via een Nederlandse importeur.
+Die laatste twee regels zijn in de praktijk belangrijker dan alle percentages erboven. Een garantie van 25 jaar bij een fabrikant zonder Europese vestiging is moeilijker te verzilveren dan een kortere garantie die via een Nederlandse importeur loopt. En een garantie die alleen het paneel dekt maar niet het werk om het te vervangen, dekt bij een defect na tien jaar maar een deel van je kosten. Wij werken die kant verder uit in [garantie zonnepanelen uitgelegd](/posts/garantie-zonnepanelen-uitleg-2026/).
 
-**Kanttekening**: cijfers over gemeten degradatie in Nederlandse installaties die online rondgaan, zijn zelden herleidbaar naar een gecertificeerde meting. Installatieprofiel, omvormerkwaliteit en lokale luchtvervuiling beïnvloeden de werkelijke degradatie sterk. Reken daarom met de garantiecurve — dat is het enige cijfer waar je bij een claim ook iets aan hebt.
+**Certificering.** IEC 61215 en IEC 61730 zijn de gangbare producttests voor pv-modules en horen op elke datasheet te staan. Daarnaast wordt vaak verwezen naar de Bloomberg Tier 1-lijst; let op wat die wel en niet zegt — het is een indicatie van de bankability van de fabrikant, niet een kwaliteitskeurmerk voor het paneel.
 
----
+## Vijf fouten bij de paneelkeuze
+
+**1. Het dak volleggen omdat het kan.** Zolang de saldering gold, was elk extra paneel de moeite waard. Vanaf 1 januari 2027 is dat voorbij: panelen boven wat je zelf kunt verbruiken, leveren alleen nog de terugleververgoeding op, en veel leveranciers rekenen daar terugleverkosten tegenover. Bepaal je systeemgrootte op je eigen verbruik, en reken door wat elk extra paneel daarboven nog oplevert.
+
+**2. Vergelijken op prijs per paneel.** Een paneel van 415 Wp voor een lager bedrag kan per wattpiek duurder zijn dan een paneel van 440 Wp voor iets meer. Reken altijd om naar euro per wattpiek.
+
+**3. Schaduw negeren.** Eén boom of schoorsteen die een deel van de dag op één paneel valt, trekt bij een string zonder optimalisatie de hele string mee omlaag. Dat los je op met de omvormerkeuze, en dat is een gesprek dat je vóór de offerte voert.
+
+**4. De omvormer als bijzaak behandelen.** De omvormer bepaalt mede het rendement, gaat korter mee dan de panelen en bepaalt of je later een batterij kunt koppelen. Een iets duurder paneel met een verkeerde omvormer is een slechtere keuze dan andersom.
+
+**5. De oriëntatie niet heroverwegen.** Nu eigen verbruik zwaarder telt dan totale opwek, is een oost-westopstelling voor sommige huishoudens gunstiger dan een zuidopstelling: de opwek verdeelt zich over meer uren en valt daardoor vaker samen met verbruik. De totale jaaropbrengst ligt lager, maar het deel dat je zelf gebruikt hoger. Zie [oost-west versus zuid](/posts/oost-west-zonnepanelen-vs-zuid-2026/) en [plat dak versus schuin dak](/posts/zonnepanelen-plat-dak-vs-schuin-dak-2026/).
+
+## Modelberekening: wat het merkverschil doet over de levensduur
+
+**Aannames.** Hetzelfde dak, dezelfde oriëntatie en hetzelfde aantal panelen; verschil alleen in merk. De opbrengst per paneel volgt uit de datasheetwaarden, de degradatie uit de garantiecurve van de fabrikant, en de omvormer wordt in beide gevallen ergens in de levensduur vervangen.
+
+**Uitkomst van het model.** Het premiumpaneel wekt over de hele levensduur meer op, maar de meerprijs bij aanschaf is groter dan het verschil in opbrengst. Het budgetpaneel wekt minder op, maar kost zoveel minder dat het netto vergelijkbaar of beter uitkomt. De middenklasse zit daar tussenin en komt in de meeste doorrekeningen als beste uit — niet omdat het paneel beter is, maar omdat de meerprijs per extra kilowattuur daar het gunstigst ligt.
+
+**De uitzondering die de regel bepaalt.** Zodra dakoppervlak de beperkende factor is, draait de conclusie om. Dan koop je geen kilowatturen per euro maar kilowatturen per vierkante meter, en dan is het premiumpaneel de enige manier om er meer uit te halen.
+
+Vul deze berekening met je eigen offertebedragen en je eigen verbruik; onze rekenpagina [zonnepanelen-opbrengst berekenen](/zonnepanelen-opbrengst-berekenen/) geeft de opwekkant.
+
+## De installateur weegt zwaarder dan het merk
+
+Een slechte installatie doet het beste paneel teniet, en een goede installateur haalt uit een budgetpaneel meer dan een slechte uit een premiumpaneel. Stringindeling, omvormerkeuze en de omgang met schaduw bepalen de jaaropbrengst sterker dan het logo op het paneel.
+
+Waarop je een installateur beoordeelt:
+
+1. **Schaduwanalyse.** Vraagt hij naar bomen, schoorstenen en dakkapellen, en maakt hij een simulatie?
+2. **Omvormeradvies.** Adviseert hij optimalisatie op paneelniveau waar dat nodig is, of standaard de goedkoopste string-omvormer?
+3. **Indelingstekening.** Krijg je een tekening met het werkelijke aantal panelen en de vrije zones, of alleen een aantal?
+4. **Garantieafhandeling.** Wie handelt een claim af, en wat wordt er vergoed?
+5. **Uitsplitsing.** Staan panelen, omvormer, montagesysteem en arbeid apart in de offerte?
+
+Vraag drie offertes. Onze gids [installateur kiezen](/installateur-kiezen/) beschrijft dat proces in detail.
+
+## Bifaciale panelen
+
+Bifaciale panelen vangen ook licht op dat van onderaf terugkaatst. Hoeveel dat oplevert, hangt volledig af van wat er onder het paneel ligt en van de montagewijze: een dakparallel gemonteerd paneel met weinig ruimte eronder profiteert er nauwelijks van, terwijl een opgestelde installatie boven een lichte ondergrond er wel iets aan heeft.
+
+Voor een gewoon schuin dak is bifaciaal daarom zelden de doorslaggevende factor. Op een plat dak met een lichte dakbedekking, of bij een vrijstaande opstelling boven gras of grind, is het een reële overweging. Vraag de leverancier om de bifacialiteitsfactor uit de datasheet en om een opbrengstsimulatie die de werkelijke ondergrond meeneemt — niet om een algemeen percentage.
+
+## Recycling
+
+Voor zonnepanelen geldt in Nederland producentenverantwoordelijkheid: fabrikanten en importeurs zijn verantwoordelijk voor de inzameling en verwerking na de levensduur, gefinancierd uit een afvalbeheerbijdrage die in de aanschafprijs is verwerkt. Afgedankte panelen lever je in bij een erkend inzamelpunt.
+
+Wat er teruggewonnen wordt: het aluminium frame en het glas zijn goed recyclebaar; het terugwinnen van de silicium- en zilverfracties uit de cellen is technisch complexer en volop in ontwikkeling.
+
+Wat de milieuwinst betreft: de energie die in de productie van een paneel gaat, wordt door de opwek in een fractie van de levensduur terugverdiend. Dat is een breed onderbouwd gegeven; wij zetten er geen precieze verhouding bij, omdat die sterk afhangt van de productielocatie en de gebruikte energiemix.
+
+## Onze conclusie
+
+Voor de meeste Nederlandse daken is een middenklassepaneel de verstandigste keuze. Niet omdat de premiumpanelen slechter zijn — ze zijn aantoonbaar beter op rendement, temperatuurgedrag en garantietermijn — maar omdat die voorsprong zich alleen uitbetaalt als je dakoppervlak op is. Heb je ruimte over, dan koop je met hetzelfde budget meer wattpieken in de middenklasse dan in het premiumsegment.
+
+De keuze die er in 2026 meer toe doet dan het merk, is de systeemgrootte. Nu de saldering per 1 januari 2027 volledig stopt, is de vraag niet meer hoeveel panelen er passen, maar hoeveel opwek je zelf gaat verbruiken. Dat getal bepaalt je terugverdientijd — niet het logo op het paneel.
+
+Wil je offertes vergelijken, dan zijn Zonneplan en Coolblue twee van de partijen die op de Nederlandse markt complete installaties aanbieden:
+
+<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta" rel="nofollow noopener" target="_blank">Bekijk het aanbod van Zonneplan</a>
+
+<a href="https://go.duurzaamthuislab.nl/coolblue" class="cta" rel="nofollow noopener" target="_blank">Bekijk zonnepanelen bij Coolblue</a>
+
+*Aan deze verwijzingen verdienen wij geen vergoeding.*
+
+*Vragen over je situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
 ## Lees ook
 
-- **[SolarEdge vs Enphase 2026](/posts/solaredge-vs-enphase-2026/)** — Welke omvormer past bij jouw panelen?
-- **[Beste Omvormer voor Zonnepanelen](/posts/beste-omvormer-zonnepanelen-2026/)** — Alle omvormers vergeleken
-- **[Zonnepanelen Subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/)** — Subsidies en terugverdientijd
-- **[Afbouw Salderingsregeling 2026](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/)** — Impact op je investering
-- **[Beste Thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/)** — Combineer met opslag
-
----
-
-*Laatst bijgewerkt: april 2026.*
-
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
-
-
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+- [SolarEdge vs Enphase 2026](/posts/solaredge-vs-enphase-2026/) — welke omvormer past bij jouw panelen
+- [Beste omvormer voor zonnepanelen](/posts/beste-omvormer-zonnepanelen-2026/) — alle typen vergeleken
+- [Garantie zonnepanelen uitgelegd](/posts/garantie-zonnepanelen-uitleg-2026/) — wat er in de voorwaarden staat
+- [Zonnepanelen subsidie Nederland 2026](/posts/zonnepanelen-subsidie-nederland-2026/) — welke routes er zijn
+- [Saldering stopt per 2027](/posts/salderingsregeling-afbouw-wat-betekent-het-2026/) — wat dat voor je investering betekent
+- [Beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/) — opwek en verbruik op elkaar afstemmen
