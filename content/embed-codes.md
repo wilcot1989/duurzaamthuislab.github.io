@@ -55,7 +55,7 @@ Rekent per maatregel door wat die in jouw situatie oplevert, op basis van je eig
 
 ## Let op bij de twee calculator-embeds
 
-Beide calculators staan in een artikelpagina; wij hebben (nog) geen aparte, kale embed-weergave. In het iframe zie je dus de pagina met de calculator erin, en de hoogtes hierboven zijn een praktische ondergrens — zet ze ruimer als je bezoekers niet in het iframe willen scrollen. De twee widgets hieronder (powerstation-runtime en live stroomprijzen) zijn wél losse, kale pagina's en passen zonder scrollen.
+Met `?embed=1` achter de URL laden beide calculators in een kale weergave: menu, footer, nieuwsbriefblok en heroafbeelding verdwijnen en er komt een kleine bronregel met link naar de volledige pagina voor in de plaats. De hoogtes hierboven zijn een praktische ondergrens — zet ze ruimer als je bezoekers niet in het iframe willen laten scrollen. De twee widgets hieronder (powerstation-runtime en live stroomprijzen) zijn losse, kale pagina's en passen zonder scrollen.
 
 ## Disclaimer
 

@@ -412,8 +412,22 @@
       .author-box { flex-direction: column; text-align: center; }
     }
   </style>
+  <script>
+    /* Embed-modus: ?embed=1 verbergt sitechrome zodat tools netjes in een iframe passen */
+    if (new URLSearchParams(location.search).get('embed') === '1') {
+      document.documentElement.classList.add('embed-modus');
+    }
+  </script>
+  <style>
+    .embed-modus header, .embed-modus .mobile-menu, .embed-modus footer,
+    .embed-modus .newsletter-box, .embed-modus .author-box, .embed-modus .article-hero,
+    .embed-modus .breadcrumb, .embed-modus .related-posts, .embed-modus .toc-box { display: none !important; }
+    .embed-modus body { padding-top: 0; }
+    .embed-modus .embed-bronregel { display: block !important; font-family: var(--mono, monospace); font-size: .72rem; margin: 1rem 0; }
+  </style>
 </head>
 <body>
+  <a class="embed-bronregel" style="display:none" href="{{ .Permalink }}" target="_blank" rel="noopener">Bron: DuurzaamThuisLab.nl — bekijk de volledige pagina →</a>
   <header>
     <div class="container wide" style="display:flex;justify-content:space-between;align-items:center;gap:1rem;">
       <a href="/" class="logo">
