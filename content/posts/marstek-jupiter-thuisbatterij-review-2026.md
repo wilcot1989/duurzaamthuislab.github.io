@@ -76,7 +76,7 @@ Wat er niet op de productpagina staat: afmetingen, gewicht, garantietermijn, cyc
 
 Het getal dat het gebruik bepaalt, is niet de capaciteit maar het uitgangsvermogen. Bij 800 W kan de batterij het basislastprofiel van een huishouden dekken: koelkast, router, verlichting, standby-verbruik, een laptop. Alles daarboven komt van het net, ook als de batterij vol is.
 
-Dat maakt de rekensom anders dan bij een vaste thuisbatterij. Een systeem van 10,24 kWh met 800 W uitgang heeft ruim dertien uur nodig om zichzelf leeg te leveren. In de praktijk betekent het dat de batterij vooral 's nachts en in de daluren je basisverbruik overneemt — een reëel effect, maar een ander effect dan het afvangen van avondpieken.
+Dat maakt de rekensom anders dan bij een vaste thuisbatterij. Een systeem van 10,24 kWh met 800 W uitgang heeft bijna dertien uur nodig om zichzelf leeg te leveren (10,24 ÷ 0,8 = 12,8 uur). In de praktijk betekent het dat de batterij vooral 's nachts en in de daluren je basisverbruik overneemt — een reëel effect, maar een ander effect dan het afvangen van avondpieken.
 
 Wie een warmtepomp, een inductiekookplaat of een laadpaal wil bedienen vanuit de batterij, koopt hier het verkeerde product. Dat is geen kritiek op de Jupiter; het is het verschil tussen twee productcategorieën.
 
@@ -116,9 +116,14 @@ Het goede nieuws is dat het Nederlandse recht hier zwaarder weegt dan de fabriek
 
 Onderstaande berekening is een model met expliciete aannames, geen meting.
 
-**Aannames:** een configuratie van 5,12 kWh (twee modules), waarvan na rondgangsverlies circa 4,5 kWh per dag daadwerkelijk wordt verplaatst; 250 bruikbare dagen per jaar waarop er genoeg zonnestroom of prijsverschil is; en een waardeverschil van €0,22 per kWh tussen wat je voor afname betaalt en wat je voor teruglevering krijgt in de situatie ná 1 januari 2027.
+**Aannames:** een configuratie van 5,12 kWh (twee modules), waarvan na rondgangsverlies (90%) circa 4,5 kWh per dag daadwerkelijk wordt verplaatst, en een waardeverschil van **€0,19 per kWh** in de situatie ná 1 januari 2027: een all-in afnameprijs van €0,26 minus een aangenomen terugleververgoeding van €0,07 (dat tarief publiceert niemand voor 2027).
 
-- 4,5 kWh × 250 dagen × €0,22 = **circa €250 per jaar**
+Het aantal bruikbare dagen is de gevoeligste aanname, dus wij geven er twee:
+
+- **Canoniek, 150 zoncycli** (het aantal dat wij sitebreed voor vaste thuisbatterijen aanhouden): 4,5 × 150 × €0,19 = **circa €128 per jaar**
+- **Optimistisch, 250 dagen**: 4,5 × 250 × €0,19 = **circa €214 per jaar**
+
+Wij noemen die 250 dagen hier expliciet naast de canonieke 150, omdat dit systeem eigen MPPT-ingangen heeft en ook buiten het zonseizoen dagelijks basisverbruik kan overnemen op een prijsverschil. Dat maakt méér dan 150 cycli denkbaar — maar het is een aanname, geen meting, en de onderkant is het bedrag waarop je een aankoopbesluit baseert.
 
 Tegenover een aanschafprijs die begint bij €599 voor de basisconfiguratie en oploopt met elke module, is dat een aantrekkelijker verhouding dan bij grote vaste systemen — mits je de modules daadwerkelijk elke dag vol krijgt en leeg trekt. Dat is de kritieke aanname: bij 800 W uitgang en een bescheiden basislast lukt dat niet in elk huishouden.
 

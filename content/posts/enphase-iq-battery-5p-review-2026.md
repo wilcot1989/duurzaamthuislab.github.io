@@ -29,7 +29,7 @@ faq:
 - q: 'Werkt de 5P met mijn bestaande zonnepanelen?'
   a: 'Ja. Het is een AC-gekoppeld systeem, dus het werkt achter vrijwel elke bestaande installatie, of die nu op een string-omvormer of op micro-omvormers draait. Je hebt geen Enphase-micro-omvormers nodig om de batterij te laten werken — al vervalt zonder Enphase-panelen wel het monitoringvoordeel per paneel.'
 - q: 'Welke garantie geeft Enphase?'
-  a: 'Enphase noemt op de eigen productpagina 15 jaar garantie tot 6.000 cycli. Dat is langer dan de tien jaar die de meeste concurrenten in dit segment opgeven. Vraag het garantieblad van het exacte artikelnummer op en let op de gegarandeerde restcapaciteit aan het eind van die termijn; dat cijfer is bij een claim het enige dat telt.'
+  a: 'Enphase noemt op de eigen productpagina 15 jaar garantie tot 6.000 cycli. Ter vergelijking: verschillende concurrenten in dit segment geven tien jaar op — een volledig marktoverzicht van garantietermijnen hebben wij niet, dus wij noemen dit geen record. Vraag het garantieblad van het exacte artikelnummer op en let op de gegarandeerde restcapaciteit aan het eind van die termijn; dat cijfer is bij een claim het enige dat telt.'
 - q: 'Heeft de 5P noodstroom?'
   a: 'Niet uit zichzelf. Voor een back-upcircuit heb je aanvullende Enphase-apparatuur nodig, en dat is een aparte investeringspost. Vraag die post expliciet uit in de offerte: bij systemen waar back-up standaard is meegeleverd, vergelijk je anders ongelijke configuraties.'
 - q: 'Kan de 5P zelfstandig handelen op een dynamisch contract?'
@@ -41,8 +41,6 @@ faq:
 - q: 'Werkt de 5P samen met een SolarEdge-omvormer?'
   a: 'Technisch wel, want het systeem is AC-gekoppeld en hangt achter je bestaande installatie. Wat je dan mist, is de monitoring per paneel in de Enphase-app — die werkt alleen met Enphase-micro-omvormers. Zie ook onze vergelijking [SolarEdge vs Enphase](/posts/solaredge-vs-enphase-2026/).'
 products:
-- name: Enphase IQ Battery 5P
-  url: https://enphase.com/nl-nl/store/storage/iq-battery-5p
 - name: Sessy 5 kWh
   url: https://go.duurzaamthuislab.nl/sessy
   price: '3550'
@@ -53,7 +51,7 @@ Dit artikel gaat over wat Enphase zelf publiceert over dit systeem, opgehaald op
 
 *Disclosure: wij hebben met Enphase, Charged (Sessy) en de overige in dit artikel genoemde partijen geen affiliate- of commissierelatie en verdienen niets aan de links in dit artikel.*
 
-> **Kort antwoord:** de 5P is degelijke, AC-gekoppelde hardware met de langste garantie in dit segment — 15 jaar tot 6.000 cycli — en met monitoring die tot op paneelniveau gaat als je Enphase-omvormers hebt. De twee zwakke punten voor Nederland zijn dat het systeem niet zelfstandig op uurprijzen stuurt, en dat Enphase geen consumentenprijs publiceert, waardoor je de vergelijking alleen met offertes in de hand kunt maken.
+> **Kort antwoord:** de 5P is degelijke, AC-gekoppelde hardware met een lange garantieopgave — 15 jaar tot 6.000 cycli, waar tien jaar in dit segment gangbaar is — en met monitoring die tot op paneelniveau gaat als je Enphase-omvormers hebt. De twee zwakke punten voor Nederland zijn dat het systeem niet zelfstandig op uurprijzen stuurt, en dat Enphase geen consumentenprijs publiceert, waardoor je de vergelijking alleen met offertes in de hand kunt maken.
 
 ## Wat Enphase publiceert over de IQ Battery 5P
 
@@ -65,7 +63,7 @@ Dit artikel gaat over wat Enphase zelf publiceert over dit systeem, opgehaald op
 | Celchemie | LFP (lithium-ijzerfosfaat) volgens de datasheet |
 | Uitbreiding | Modulair, meerdere modules te combineren |
 | Garantie | 15 jaar, tot 6.000 cycli |
-| Prijs | Niet gepubliceerd; via distributiepartner of installateur |
+| Prijs | Niet gepubliceerd; via distributiepartner of installateur. Wij linken daarom niet naar de Enphase-store: daar staat geen bedrag om naar te verwijzen |
 
 Wat er op de Nederlandse productpagina niet staat: afmetingen, gewicht, IP-klasse, temperatuurbereik en round-trip-rendement. Die gegevens staan in de datasheet van het exacte artikelnummer; vraag die op bij je installateur en beoordeel op dat document, niet op een brochure of een overzichtsartikel.
 
@@ -81,7 +79,7 @@ Het nadeel is rendement. Bij een AC-gekoppeld systeem gaat de zonnestroom van ge
 
 ## Waar de 5P sterk in is
 
-**De garantietermijn.** Vijftien jaar tot 6.000 cycli is langer dan de tien jaar die in dit segment gebruikelijk is. Bij één cyclus per dag is 6.000 cycli ruim zestien jaar, dus de termijn en het cyclusaantal liggen redelijk in elkaars verlengde. Beoordeel degradatie op de garantiecurve in het garantieblad — dat is het enige cijfer waar je bij een claim iets aan hebt.
+**De garantietermijn.** Vijftien jaar tot 6.000 cycli staat tegenover de tien jaar die verschillende concurrenten opgeven. Bij één cyclus per dag is 6.000 cycli ruim zestien jaar, dus de termijn en het cyclusaantal liggen redelijk in elkaars verlengde. Beoordeel degradatie op de garantiecurve in het garantieblad — dat is het enige cijfer waar je bij een claim iets aan hebt.
 
 **De monitoring, mits je Enphase-panelen hebt.** De Enphase-app toont productie, verbruik, batterijstand en netuitwisseling. Met Enphase-micro-omvormers komt daar productie per paneel bij. Dat detailniveau is in de praktijk waardevoller dan het klinkt: het legt sluipverbruik bloot dat je op een jaarafrekening nooit ziet — een oude vrieskist op zolder kan alleen al enkele honderden kWh per jaar kosten.
 
@@ -129,11 +127,11 @@ Controleer bij een offerte het exacte artikelnummer en de bijbehorende datasheet
 
 Onderstaande berekening is een model met expliciete aannames, geen meting.
 
-**Aannames:** één module van 5,0 kWh, waarvan na rondgangsverlies circa 4,2 kWh per cyclus daadwerkelijk wordt verplaatst. Situatie ná 1 januari 2027, wanneer de saldering volledig is vervallen: afnameprijs €0,28 per kWh, terugleververgoeding €0,06 per kWh, en 1.100 kWh per jaar die je met de batterij zelf verbruikt in plaats van teruglevert.
+**Aannames**, volgens het rekenmodel dat wij sitebreed gebruiken: één module van 5,0 kWh, een retourrendement van 90% (dus circa 4,5 kWh geleverd per cyclus) en 150 zoncycli per jaar. Dat geeft een verschuifbaar volume van 5,0 × 150 = **750 kWh per jaar** — mits je overschot en je eigen avondverbruik dat volume ook toelaten; is een van die twee kleiner, dan is die de bindende grens. Situatie ná 1 januari 2027, wanneer de saldering volledig is vervallen: all-in afnameprijs **€0,26 per kWh** en een terugleververgoeding van **€0,07 per kWh** (aanname, want niemand publiceert dat tarief voor 2027). Netto waarde per verschoven kilowattuur: €0,26 − €0,07 = **€0,19**.
 
-- Zelfverbruik: 1.100 × (€0,28 − €0,06) = **circa €240 per jaar**
+- Zelfverbruik: 750 × €0,19 = **circa €143 per jaar**
 
-Voor de arbitragecomponent nemen wij hier bewust geen bedrag op: die vraagt bij dit systeem een zelf ingerichte koppeling, en hoe goed die presteert hangt volledig af van hoe je hem instelt. Wie die component wel wil meerekenen, moet ook het inrichtingswerk en het onderhoud daarvan meewegen.
+Ons canonieke batterijmodel komt voor 5 kWh op circa €177 per jaar uit. Het verschil van ongeveer €35 is de netarbitragecomponent (circa €8 per kWh capaciteit per jaar, alleen bij een dynamisch contract) — en die laten wij hier bewust weg, omdat dit systeem niet zelfstandig op uurprijzen stuurt. Wie die component wél wil meerekenen, moet een zelf ingerichte koppeling bouwen en het onderhoud daarvan meewegen; hoe goed die presteert hangt volledig af van hoe je hem instelt. Wie die component wel wil meerekenen, moet ook het inrichtingswerk en het onderhoud daarvan meewegen.
 
 Om de terugverdientijd af te maken heb je het offertebedrag nodig, en dat is bij dit merk de ontbrekende schakel. Deel je totale investering — inclusief btw, installatie en eventuele back-uphardware — door de jaarlijkse opbrengst hierboven, en je hebt een eerste indicatie. Reken je eigen situatie na met onze [terugverdientijd-berekening](/terugverdientijd-thuisbatterij/).
 
@@ -149,18 +147,18 @@ Voor particulieren geldt 21% btw op een thuisbatterij, niet terugvorderbaar en o
 
 Praktische punten om vóór de offerte te regelen:
 
-- Laat de installateur bevestigen dat hij voor dit systeem gecertificeerd is; dat is bij dit merk een garantievoorwaarde.
+- Vraag na of Enphase voor dit systeem certificering van de installateur als garantievoorwaarde stelt, en laat de installateur zijn certificering aantonen. Wij hebben die voorwaarde niet op de publieke productpagina teruggevonden, dus laat het antwoord schriftelijk vastleggen.
 - Bespreek de plaatsingsruimte en de temperatuurgrenzen uit de datasheet. Een onverwarmde ruimte kan in de winter buiten het toegestane bereik vallen.
 - Laat back-uphardware als aparte post opnemen, zodat je de vergelijking met andere systemen zuiver kunt maken.
 - Vraag of de aangeboden configuratie een gateway bevat; zonder die koppeling vervalt de monitoring waar je juist voor betaalt.
 
 ## Onderhoud
 
-Er is geen periodiek onderhoud: geen keuring, geen filters, geen vloeistoffen. Wat wij wel zouden doen: maandelijks even de app op storingsmeldingen controleren, en jaarlijks de bedrading visueel nalopen. Firmware-updates komen bij een nieuw systeem in de eerste maanden het vaakst voorbij; tijdens een update levert de batterij niets.
+Er is geen periodiek onderhoud: geen keuring, geen filters, geen vloeistoffen. Wat wij wel zouden doen: maandelijks even de app op storingsmeldingen controleren, en jaarlijks de bedrading visueel nalopen. Hoe vaak Enphase firmware-updates uitbrengt, publiceert het merk niet; ga ervan uit dat de batterij tijdens een update niet levert.
 
 ## Conclusie
 
-De IQ Battery 5P is degelijke hardware met de langste garantietermijn in dit segment en, mits je in het Enphase-ecosysteem zit, de beste monitoring. Dat is een reële combinatie van voordelen, en voor bestaande Enphase-eigenaren is dit de meest voor de hand liggende batterij.
+De IQ Battery 5P is degelijke hardware met een lange garantieopgave en, mits je in het Enphase-ecosysteem zit, gedetailleerde monitoring tot op paneelniveau. Dat is een reële combinatie van voordelen, en voor bestaande Enphase-eigenaren is dit de meest voor de hand liggende batterij.
 
 Daarbuiten wordt het lastiger te verdedigen. Zonder Enphase-panelen vervalt het monitoringvoordeel, zonder eigen sturing op uurprijzen laat je in de winter opbrengst liggen, en zonder publieke prijs kun je pas na twee offertes beoordelen of het bedrag redelijk is. Wie vooral op de Nederlandse dynamische markt wil sturen, komt met een [Sessy](/posts/sessy-review-thuisbatterij-nederland/) doorgaans verder.
 

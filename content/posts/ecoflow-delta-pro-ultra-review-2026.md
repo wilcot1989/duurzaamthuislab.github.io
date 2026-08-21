@@ -158,12 +158,18 @@ Vraag daarom bij je netbeheerder de storingshistorie van je eigen postcodegebied
 
 Onderstaande berekening is een **model met expliciete aannames** en geen gemeten resultaat. Uitgangspunten: een vrijstaande woning met circa 5.500 kWh jaarverbruik, ongeveer 8 kWp aan zonnepanelen, een dynamisch contract, een configuratie van drie units (18 kWh) en een investering die je zelf uit een offerte moet halen.
 
+Wij rekenen met dezelfde constanten als in onze andere batterijdoorrekeningen: een all-in afnameprijs van **€0,26 per kWh**, een terugleververgoeding na 2027 van **€0,07 per kWh** (aanname — niemand publiceert dat tarief), en voor netarbitrage **€8 per kWh capaciteit per jaar** (eigen afleiding uit circa 100 wintercycli tegen €0,10 netto spreiding, en alleen haalbaar met een dynamisch contract).
+
 | Post | Modelschatting per jaar | Toelichting |
 |---|---|---|
-| Hogere zon-zelfconsumptie | €680 | circa 1.600 kWh extra zelf verbruikt |
-| Prijsverschuiving dynamisch contract | €600 – €900 | conservatief gerekend, afhankelijk van de spreiding |
+| Vermeden inkoop door hogere zon-zelfconsumptie | €416 | 1.600 kWh × €0,26 |
+| Gemiste terugleververgoeding op diezelfde kWh | −€112 | 1.600 kWh × €0,07 (aanname) |
+| Netarbitrage op een dynamisch contract | €144 | 18 kWh × €8 |
+| **Modeluitkomst** | **circa €448** | zonder de twee posten hieronder |
 | Vermeden schade bij storing | pm | alleen invullen als je weet wat uitval jou kost |
 | Uitgespaarde aggregaatkosten | pm | alleen relevant als je anders een aggregaat zou kopen |
+
+Twee kanttekeningen bij die 1.600 kWh. Het is een conservatieve aanname: 18 kWh capaciteit zou bij 150 zoncycli theoretisch 2.700 kWh kunnen verschuiven, maar dit systeem houdt bewust reserve achter voor een storing, en het eigen avondverbruik van deze woning is de praktische rem. En let op de bindende grens in jouw situatie: het verschuifbare volume is nooit meer dan het laagste van capaciteit × 150 zoncycli, je zonoverschot × 0,9 en je netto afname uit het net. Onze canonieke uitkomst voor 15 kWh is circa €530 per jaar; dit systeem komt met een grotere capaciteit lager uit, juist door die achtergehouden backupreserve.
 
 De twee pm-posten zijn bewust niet ingevuld. Vermeden schade en uitgespaarde aankopen zijn geen opbrengst maar een risico-inschatting, en die verschilt per huishouden volledig. Vul ze zelf in met bedragen die je kunt onderbouwen, of laat ze staan op nul en accepteer dat de terugverdientijd dan langer wordt.
 

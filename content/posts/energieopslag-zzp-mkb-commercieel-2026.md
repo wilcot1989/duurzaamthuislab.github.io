@@ -27,7 +27,7 @@ schema_type: Article
 affiliate: false
 faq:
 - q: 'Is energieopslag rendabel voor zzp en mkb?'
-  a: 'Vaker wel dan bij particulieren, om twee redenen: de energie-investeringsaftrek en de kleinschaligheidsinvesteringsaftrek verlagen de netto-investering, en zakelijke verbruikspatronen sluiten beter aan bij wat een batterij kan. In onze modelberekeningen op deze pagina komt de terugverdientijd uit tussen circa 3 en 7 jaar, maar dat zijn modellen: de uitkomst hangt volledig af van je eigen verbruiksprofiel, tarief en belastingpositie.'
+  a: 'Vaker wel dan bij particulieren, om twee redenen: de energie-investeringsaftrek en de kleinschaligheidsinvesteringsaftrek verlagen de netto-investering, en zakelijke verbruikspatronen sluiten beter aan bij wat een batterij kan. In onze modelberekeningen op deze pagina komt de terugverdientijd uit tussen circa 3 en 9,5 jaar, maar dat zijn modellen: de uitkomst hangt volledig af van je eigen verbruiksprofiel, tarief en belastingpositie.'
 - q: 'Wat is de EIA voor batterijopslag?'
   a: 'De energie-investeringsaftrek is in 2026 40% extra aftrek van de winst, bovenop de normale afschrijving. Voorwaarde is dat het bedrijfsmiddel op de Energielijst van RVO staat onder een geldige code, en dat je de investering binnen 3 maanden na de besteldatum aanmeldt bij RVO. Die termijn is fataal.'
 - q: 'Welke batterij past bij een zakelijke toepassing?'
@@ -45,6 +45,8 @@ faq:
 Voor een particulier is een thuisbatterij vooral een rekensom over saldering en zelfverbruik. Voor een onderneming ligt het anders: er is geen saldering te missen, de investering is fiscaal aftrekbaar, en het verbruikspatroon overdag sluit vaak beter aan bij wat een batterij kan. Dat maakt zakelijke opslag eerder rendabel — maar niet automatisch.
 
 Dit artikel zet de drie business cases uit elkaar, geeft de fiscale bedragen zoals de Belastingdienst en RVO ze publiceren (opgehaald 21 augustus 2026), en laat met **modelberekeningen** zien waar de uitkomst op omslaat. Alle bedragen in de rekenvoorbeelden zijn aannames, geen weergave van bestaande klanten.
+
+> **Kort antwoord:** zakelijke opslag komt eerder uit dan een particuliere thuisbatterij, omdat de EIA (40% in 2026) en de KIA (28% binnen de schijf) de netto-investering verlagen en de btw over het zakelijke deel terugvorderbaar is. In onze modelberekeningen komt de terugverdientijd uit tussen circa 3 en 9,5 jaar — en het verschil zit niet in het merk maar in het aantal volledige cycli per jaar. Een bedrijf dat in het weekend dicht is, haalt met een half zo groot systeem een kortere terugverdientijd dan met een groot systeem. Bepaal de omvang daarom op je eigen kwartierdata, en meld een EIA-investering binnen 3 maanden na de besteldatum aan bij RVO: die termijn is fataal.
 
 ## Waarom de rekensom zakelijk anders loopt
 
@@ -130,7 +132,7 @@ Op de levering en installatie van een batterij geldt **21% btw**. Het nultarief 
 
 Aangenomen jaarlijkse opbrengst: € 1.800 uit hoger zelfverbruik, € 1.700 uit arbitrage, € 700 uit lager gecontracteerd vermogen — samen € 4.200. Rekenkundige terugverdientijd: **circa 2,9 jaar**.
 
-De gevoeligheid zit hier bijna volledig in die € 4.200. Halveert de arbitrageopbrengst omdat de spreiding tegenvalt, dan loopt de terugverdientijd op naar ruim vier jaar. De fiscale voordelen zijn bovendien **eenmalig** en alleen te verzilveren bij voldoende winst.
+De gevoeligheid zit hier bijna volledig in die € 4.200. Halveert de arbitrageopbrengst omdat de spreiding tegenvalt, dan resteert € 1.800 + € 850 + € 700 = € 3.350 per jaar en loopt de terugverdientijd op naar € 12.273 ÷ € 3.350 = **bijna vier jaar (± 3,7)**. De fiscale voordelen zijn bovendien **eenmalig** en alleen te verzilveren bij voldoende winst.
 
 ## Modelberekening 2: zzp'er met thuiskantoor
 
@@ -146,12 +148,22 @@ Bij een aangenomen zakelijke besparing van € 270 per jaar komt de rekenkundige
 
 ## Modelberekening 3: waarom overdimensioneren duur uitpakt
 
-**Aannames:** autogaragebedrijf, 480 m² werkplaats, 38.000 kWh per jaar, 24 kWp aan panelen, bedrijfsprofiel van 7 tot 18 uur op werkdagen, gesloten in het weekend. Beide varianten gerekend inclusief EIA en KIA.
+**Aannames:** autogaragebedrijf, 480 m² werkplaats, 38.000 kWh per jaar, 24 kWp aan panelen, bedrijfsprofiel van 7 tot 18 uur op werkdagen, gesloten in het weekend. Beide varianten gerekend met EIA 40% en KIA 28% bij een marginaal tarief van 49,5%. Netto waarde per verschoven kilowattuur: **€ 0,25** (gelabelde aanname: het verschil tussen het piektarief en het dal- of terugleveringsniveau op een zakelijke aansluiting). Retourrendement 90%.
 
-| Variant | Investering (excl. btw) | Benutting | Rekenkundige terugverdientijd |
-|---|---|---|---|
-| 30 kWh systeem | € 19.800 | Beperkt: capaciteit zelden volledig benut door weekendsluiting | ± 9,5 jaar |
-| 15 kWh systeem + EMS (laadpaal en klimaat meegestuurd) | € 11.200 | Aanzienlijk hoger: de capaciteit gaat dagelijks rond | ± 6,2 jaar |
+| Variant | 30 kWh systeem | 15 kWh + EMS |
+|---|---|---|
+| Investering excl. btw | € 19.800 | € 11.200 |
+| EIA-effect (40% × investering × 49,5%) | − € 3.920 | − € 2.218 |
+| KIA-effect (28% × investering × 49,5%) | − € 2.744 | − € 1.552 |
+| **Netto investering** | **€ 13.136** | **€ 7.430** |
+| Volledige cycli per jaar (aanname uit het dagprofiel) | ± 150 — weekendsluiting en zomeroverschot dat niet weg kan | ± 250 — gaat vrijwel elke werkdag rond, EMS stuurt ook laadpaal en klimaat |
+| Verschoven volume | 30 × 150 × 0,9 = 4.050 kWh | 15 × 250 × 0,9 = 3.375 kWh |
+| Waarde daarvan | 4.050 × € 0,25 = € 1.013 | 3.375 × € 0,25 = € 844 |
+| Lagere kosten gecontracteerd vermogen (aanname) | € 370 | € 355 |
+| **Jaaropbrengst** | **± € 1.383** | **± € 1.199** |
+| **Rekenkundige terugverdientijd** | **± 9,5 jaar** | **± 6,2 jaar** |
+
+Zie waar het omslaat: het grote systeem levert per jaar maar 15% méér op, terwijl het 77% meer kapitaal vraagt. De reden staat in de cyclusregel — 30 kWh krijg je in dit profiel niet elke dag rond, 15 kWh wel.
 
 De les uit dit model: bij zakelijke opslag is "groter is beter" zelden waar. Wat telt is het aantal volledige cycli per jaar, en dat wordt bepaald door je dagprofiel — niet door je jaartotaal. Laat een installateur daarom altijd doorrekenen op je **kwartierdata uit de slimme meter**.
 

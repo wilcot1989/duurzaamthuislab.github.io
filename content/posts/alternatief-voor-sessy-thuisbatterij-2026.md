@@ -1,7 +1,7 @@
 ---
 title: Alternatief voor Sessy thuisbatterij 2026 - 5 opties
 date: 2026-10-04 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 draft: false
 description: 'Sessy te duur? Vijf alternatieven naast elkaar: Marstek, EcoFlow, Anker SOLIX, Jackery en Bluetti — met de prijzen die de fabrikanten écht publiceren en een narekenbaar rendementsmodel.'
 categories:
@@ -112,7 +112,7 @@ Lees ook: [Marstek: herkomst en garantie](/posts/marstek-merk-herkomst-garantie-
 
 ## Alternatief 2: EcoFlow Delta Pro Ultra — backup-stroom in premium jasje
 
-EcoFlow is oorspronkelijk een merknaam voor portable powerstations, maar de Delta Pro Ultra is hun serieuze thuisbatterij-segment ingegaan. Met 6 kWh capaciteit en 2.400W continu vermogen is het technisch indrukwekkend.
+EcoFlow is oorspronkelijk een merknaam voor portable powerstations, maar met de Delta Pro Ultra is het merk het segment van vaste woningsystemen ingegaan. EcoFlow geeft voor de Europese uitvoering 6 kWh per batterij op, stapelbaar tot 30 kWh, met 6.900 W continu vermogen op 230 V eenfase (ecoflow.com/eu, opgehaald 21 augustus 2026).
 
 **Wat vaststaat (fabrieksopgave EcoFlow):**
 - Modulair systeem rond een accupack van circa 6 kWh, uit te breiden met extra packs
@@ -129,10 +129,13 @@ EcoFlow is oorspronkelijk een merknaam voor portable powerstations, maar de Delt
 - Prijs per kWh moeilijk te vergelijken doordat configuraties verschillen
 - Ontworpen als uitbreidbaar powerstation, niet als vaste woninginstallatie
 
-**Waar EcoFlow wint:**
-- Betere backup-stroom (automatisch, snelle omschakeling)
-- Draagbaarheid als je wil (camping, caravan, werkplaats)
-- Snellere laadsnelheid van zonnepanelen
+**Waar EcoFlow volgens de fabrieksopgaven sterker staat:**
+- Backup: automatische omschakeling bij netuitval, door EcoFlow opgegeven op 20 ms
+- Vermogen: 6.900 W continu tegenover 1,7 kW ontladen bij Sessy
+- Zonne-input: 5.600 W volgens de EU-specificatie, verdeeld over een hoogvolt- en een laagvolt-ingang
+- De basisunit is met een trolley te verplaatsen, waar een vaste thuisbatterij aan de wand hangt
+
+Deze punten komen uit de opgaven van de fabrikanten zelf; wij hebben geen van beide systemen naast elkaar gebruikt.
 
 **Voor wie:** Gezin dat ook backup wil bij stroomuitval, of mensen die het apparaat soms meenemen. Niet de keuze als je puur op prijs/kWh optimaliseert.
 
@@ -140,7 +143,7 @@ EcoFlow is oorspronkelijk een merknaam voor portable powerstations, maar de Delt
 
 ## Alternatief 3: Anker SOLIX X1 — voor de Home Assistant-gebruiker
 
-Anker is bekend van powerbanks en opladers, maar de SOLIX X1 is hun serieuze sprong naar huisopslag. Met een scherpe prijs en een groeiende Home Assistant-community is dit interessant voor de technisch ingestelde thuisbaas.
+Anker is bekend van powerbanks en opladers; met de SOLIX X1 stapt het merk in huisopslag. Over de prijs kunnen wij hier niets zeggen — Anker publiceert voor Nederland geen consumentenprijs voor dit systeem, dus "scherp" of "duur" is niet vast te stellen. Wat de X1 wel onderscheidt, is de openheid: er is een Home Assistant-integratie die door de community wordt onderhouden.
 
 **Wat vaststaat (fabrieksopgave Anker):**
 - Modulair systeem: je begint met een accumodule en breidt uit; Anker positioneert de X1 voor woningen én kleine bedrijfspanden
@@ -167,8 +170,8 @@ Bekijk ook: [Marstek versus Anker SOLIX](/posts/marstek-venus-vs-anker-solix-202
 Jackery hoort in een andere categorie: draagbare powerstations. Let bij dit merk op welk model je koopt. De **Explorer 2000 Plus is uit het Nederlandse assortiment**; het actuele model in die klasse is de **Explorer 2000 v2**, bij onze laatste controle op 20 augustus 2026 rond **€899**.
 
 **Wat vaststaat (fabrieksopgave Jackery, Explorer 2000 v2):**
-- Capaciteit rond 2 kWh in één behuizing, LFP-cellen
-- Ruim continu vermogen, genoeg voor zware huishoudelijke apparaten
+- Capaciteit 2.042 Wh in één behuizing, LFP-cellen
+- 2.200 W continu vermogen (fabrieksopgave). Dat is genoeg voor koelkast, cv-besturing, router, verlichting en een laptop, maar het is ook de harde grens: een zware kookplaat of heteluchtoven haalt hij niet — zie onze [vergelijking van powerstations voor noodstroom](/posts/beste-powerstation-blackout-noodgeval-2026/)
 - Laden via netstroom, auto of zonnepaneel
 - Geen wandinstallatie, geen automatische omschakeling in de meterkast, geen koppeling met je zonnepanelen-installatie
 
@@ -190,14 +193,14 @@ Twijfel je tussen de modellen: lees [Jackery Explorer 2000 v2 versus 2000 Plus](
 Bluetti is een merk dat tussen Jackery (portable) en Sessy (vaste installatie) inzit. De AC500 is hun flagship hybride systeem: je kunt het portable gebruiken maar ook semi-vast installeren.
 
 **Wat vaststaat (fabrieksopgave Bluetti, AC500 met B300-accumodules):**
-- Losse omvormer-eenheid plus stapelbare accumodules van circa 3 kWh per stuk
-- Zeer hoog continu vermogen — de hoogste opgave van de vijf alternatieven hier
+- Losse omvormer-eenheid plus stapelbare accumodules van 3 kWh per stuk, volgens de fabrikantopgave tot 18 kWh met zes modules
+- 5.000 W continu vermogen volgens Bluetti — ruim voor noodstroom, maar lager dan de 6.900 W die EcoFlow voor de Delta Pro Ultra opgeeft
 - Celtype: LFP
 - Bediening via de Bluetti-app; geen ingebouwde sturing op de Nederlandse markt
 - Prijs: afhankelijk van het aantal modules en de actuele actieprijs; controleer de configuratieprijs in de webshop
 - Garantietermijn: staat per component in de garantievoorwaarden — een omvormer en een accumodule kunnen verschillende termijnen hebben
 
-**Ons oordeel:** het vermogen is het argument. Wil je bij netuitval niet alleen de router maar ook zwaardere apparatuur kunnen voeden, dan is dit de kandidaat met de meeste marge. De keerzijde is dezelfde als bij EcoFlow: gebouwd als uitbreidbaar powerstation, niet als vaste woninginstallatie met marktsturing.
+**Ons oordeel:** het vermogen is het argument. Met 5.000 W continu kun je bij netuitval meer dan de router en de koelkast voeden; boven de 2.200 W die een draagbaar station als de Jackery levert, begint het verschil dat je bij een zware kookplaat of oven merkt. De keerzijde is dezelfde als bij EcoFlow: gebouwd als uitbreidbaar powerstation, niet als vaste woninginstallatie met marktsturing.
 
 **Wat je inlevert ten opzichte van Sessy:**
 - Geen sturing op EPEX-uurprijzen of onbalans
@@ -214,7 +217,7 @@ Bluetti is een merk dat tussen Jackery (portable) en Sessy (vaste installatie) i
 |---|---|---|---|---|---|---|
 | Publieke NL-prijs | Ja: €3.550 (5 kWh) / €5.500 (10 kWh) | Nee | Nee | Nee | Ja: ± €899 |  Nee |
 | Capaciteit | 5 of 10 kWh | 5 of 10 kWh | ± 6 kWh, uitbreidbaar | modulair | ± 2 kWh | 3 kWh per module, stapelbaar |
-| Laden / ontladen | 2,2 kW / 1,7 kW | fabrieksopgave per model | hoog | hoog | hoog | hoogste van deze zes |
+| Continu AC-vermogen (fabrieksopgave) | 2,2 kW laden / 1,7 kW ontladen | per model, niet uniform gepubliceerd | 6.900 W | niet publiek per configuratie | 2.200 W | 5.000 W |
 | Celtype | LFP | LFP | LFP | LFP | LFP | LFP |
 | Sturing op NL-markt | Ingebouwd (zelfverbruik, dynamisch, onbalans, congestie) | Via cloud-API / Home Assistant | Via Home Assistant | Via Home Assistant (HACS, community) | Nee | Nee |
 | Noodstroom | Optie bij de Plus-uitvoering, basisinstallatie €1.200 | Volgens fabrieksopgave per model | Automatisch | Per configuratie | Handmatig, losse apparaten | Automatisch |
@@ -241,7 +244,7 @@ Twee dingen vallen op. Bij Sessy is de 10 kWh per kilowattuur ruim een vijfde go
 
 ## App en integratie: wat je werkelijk krijgt
 
-Hier zit het grote onderscheid dat je niet terug ziet in spec-sheets. Sessy's app is gebouwd voor de Nederlandse energiemarkt: directe Tibber- en Frank Energie-koppeling, automatische EPEX-trading, en een dashboard dat je vertelt hoeveel je die dag hebt verdiend.
+Hier zit het grote onderscheid dat je niet terug ziet in spec-sheets. Sessy is gebouwd voor de Nederlandse energiemarkt en heeft vier modi die je zonder eigen configuratie kunt gebruiken: zelfverbruik, dynamisch (sturen op de dag-vooruitprijzen), onbalans en congestiepreventie. Daarnaast is er een Open API, waarmee koppeling met Home Assistant of Homey mogelijk is. Welke energieleveranciers Sessy rechtstreeks ondersteunt, staat op de eigen documentatiepagina van de fabrikant; wij nemen hier geen lijst met leveranciersnamen over die wij niet hebben geverifieerd.
 
 **Sessy-app:** volgens de documentatie van Sessy laadt de batterij automatisch bij lage marktprijzen (doorgaans de nachturen) en ontlaadt hij tijdens de ochtend- en avondpiek, zonder handmatige actie. Hoeveel dat maandelijks oplevert, hangt af van de dagelijkse prijsspreiding op de EPEX-markt, het aantal cycli en je eigen verbruiksprofiel — dat is geen vast bedrag. De meerwaarde van Sessy zit in de automatisering zelf: geen eigen configuratie nodig.
 
@@ -283,7 +286,7 @@ Onderstaande keuzegids volgt uit de specificaties, garantietermijnen en integrat
 - Je een eenvoudige noodvoorziening wilt voor router, licht en telefoons
 
 **Kies Bluetti AC500 als:**
-- Je zware apparaten wil kunnen voeden bij backup (warmtepomp, airco)
+- Je zware apparaten wil kunnen voeden bij backup — controleer wel het opgenomen vermogen van jouw warmtepomp of airco tegen de 5.000 W
 - Je modulair wil beginnen en later uitbreiden
 - Je portabiliteit én thuisopslag wil combineren
 
@@ -325,9 +328,13 @@ Onderstaande cijfers zijn een **modelberekening met gelabelde aannames**, geen m
 | Capaciteit | Verschoven per jaar | Waarde vast contract | Waarde dynamisch contract |
 |---|---|---|---|
 | 5 kWh | 5 × 150 = 750 kWh, × 0,9 = 675 kWh | 675 × €0,19 = **circa €128** | + 5 × €8 = **circa €168** |
-| 10 kWh | begrensd door het overschot: 1.980 kWh, × 0,9 = 1.782 kWh | 1.782 × €0,19 = **circa €339** | + 10 × €8 = **circa €419** |
+| 10 kWh | begrensd door de capaciteit: 10 × 150 = 1.500 kWh, × 0,9 = 1.350 kWh | 1.350 × €0,19 = **circa €257** | + 10 × €8 = **circa €337** |
 
-Wat dat betekent voor de investering: bij de gepubliceerde Sessy-prijzen kom je in dit profiel op circa €3.550 ÷ €128 = **28 jaar** voor 5 kWh met een vast contract, en €5.500 ÷ €419 = **13 jaar** voor 10 kWh met een dynamisch contract. Dat zijn geen terugverdientijden waarmee een batterij zichzelf verkoopt — en precies daarom is het eerlijker om ze te noemen dan om met €440 per jaar te rekenen zonder onderbouwing.
+Let op welke van de drie grenzen bindend is. Bij 5 kWh is dat de capaciteit (750 kWh) en bij 10 kWh ook: 10 × 150 = 1.500 kWh ligt onder het overschot van 2.200 kWh en onder de eigen afname. Een batterij verdubbelen verdubbelt dus wel het verschuifbare volume, maar alleen zolang overschot en eigen verbruik dat toelaten — in dit profiel zit je met 10 kWh al tegen de bovenkant aan.
+
+Wat dat betekent voor de investering: bij de gepubliceerde Sessy-prijzen kom je in dit profiel op circa €3.550 ÷ €128 = **28 jaar** voor 5 kWh met een vast contract, en €5.500 ÷ €337 = **16 jaar** voor 10 kWh met een dynamisch contract. Dat zijn geen terugverdientijden waarmee een batterij zichzelf verkoopt — en precies daarom is het eerlijker om ze te noemen dan om met een rond bedrag te rekenen zonder onderbouwing.
+
+Onze canonieke sitebrede uitkomsten liggen iets hoger: 5 kWh op circa €177 en 10 kWh op circa €353 per jaar. Dat komt doordat die met een ruimer verbruiks- en overschotprofiel rekenen dan het krappe referentieprofiel van twee personen met 2.800 kWh dat wij hier gebruiken. Hoger verbruik betekent hier dus een betere rekensom, niet een andere methode.
 
 Twee dingen bepalen of die uitkomst kantelt: een dynamisch contract (het verschil tussen de twee kolommen) en een hoger, beter verdeeld verbruik, bijvoorbeeld door een elektrische auto of een warmtepomp. Bij een goedkopere batterij verbetert de rekensom evenredig — maar dan moet die prijs wel op papier staan.
 

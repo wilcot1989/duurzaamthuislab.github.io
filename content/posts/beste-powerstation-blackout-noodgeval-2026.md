@@ -32,7 +32,7 @@ faq:
 - q: 'Kan ik mijn CV-ketel aansluiten op een powerstation?'
   a: 'Ja, zolang je powerstation minstens 800W piekvermogen aankan en een zuivere sinusgolf levert. CV-pompen en -ketels zijn gevoelig voor vervormde spanning. Alle modellen in dit artikel leveren volgens de fabrikantopgave een zuivere sinusgolf.'
 - q: 'Hoe lang duurt opladen van een leeg powerstation?'
-  a: 'Dat verschilt per model en volgt uit de maximale netingang. De EcoFlow Delta 2 Max neemt volgens de specificatie tot 2.300 W op, wat voor 2.048 Wh rekenkundig op ruim een uur uitkomt. De Delta Pro 3 neemt tot 2.900 W op en heeft voor 4.096 Wh dus ruim anderhalf uur nodig. Jackery geeft voor de Explorer 2000 v2 een volle lading in 1,33 uur op.'
+  a: 'Dat verschilt per model en volgt uit de maximale netingang. De EcoFlow Delta 2 Max neemt volgens de specificatie tot 2.300 W op: 2.048 Wh ÷ 2.300 W is rekenkundig 0,89 uur, dus krap een uur. De Delta Pro 3 neemt tot 2.900 W op: 4.096 Wh ÷ 2.900 W is 1,41 uur, dus krap anderhalf uur. Jackery geeft voor de Explorer 2000 v2 een volle lading in 1,33 uur op. Dit zijn rekenkundige minima — in de praktijk zakt het laadvermogen boven ongeveer 80 procent terug, dus de laatste procenten duren langer.'
 - q: 'Werkt een powerstation samen met zonnepanelen tijdens een blackout?'
   a: 'Ja. Je sluit losse panelen aan op de MC4-ingangen van het powerstation; het net hoeft daarvoor niet beschikbaar te zijn. Reken niet met het paneelvermogen maar met de realistische opbrengst: met 400 Wp aan panelen haal je bij felle zon eerder 250–320 W, wat neerkomt op ongeveer 1 kWh per 3 tot 4 uur.'
 - q: 'Waarom geeft mijn thuisbatterij (Sessy, Marstek) geen noodstroom?'
@@ -64,7 +64,7 @@ Bij een storing in het net komen dezelfde twee vragen op: hoe lang houd ik het v
 
 Dit artikel geeft dat rekenwerk en vergelijkt daarna de modellen die in Nederland leverbaar zijn. De prijzen hieronder komen van de Nederlandse webshops van de fabrikanten, opgehaald op 21 augustus 2026. Waar wij een prijs niet hebben kunnen verifiëren, noemen wij geen bedrag. Wij hebben deze apparaten niet zelf getest; alle draaitijden zijn modelberekeningen met de aannames erbij.
 
-> **Kort antwoord:** wie één nacht wil overbruggen zit goed met een station van circa 2 kWh: de **EcoFlow Delta 2 Max** (€949, van €1.199) of de **Jackery Explorer 2000 v2** (€899, van €1.599) — beide prijzen van 21 augustus 2026. Wil je een cv-ketel én zwaardere apparatuur voeden, of een etmaal en meer overbruggen, dan is de **EcoFlow Delta Pro 3** (4.096 Wh, 4.000 W, €3.299) het model dat dat volgens de specificatie haalt.
+> **Kort antwoord:** wie één nacht wil overbruggen zit goed met een station van circa 2 kWh: de **EcoFlow Delta 2 Max** (€949, van €1.199) of de **Jackery Explorer 2000 v2** (€899) — beide prijzen van 21 augustus 2026. Wil je een cv-ketel én zwaardere apparatuur voeden, of een etmaal en meer overbruggen, dan is de **EcoFlow Delta Pro 3** (4.096 Wh, 4.000 W, €3.299) het model dat dat volgens de specificatie haalt.
 
 ---
 
@@ -107,7 +107,7 @@ Voor de meeste Nederlandse stroomuitvallen — een paar uur tot een halve dag �
 
 Dit is het model waar de meeste huishoudens aan toe hebben. 2.400 W continu is genoeg voor de cv-ketel, de koelkast, verlichting, netwerkapparatuur en een waterkoker — niet alles tegelijk, maar wel achter elkaar. Een inductiekookplaat op vol vermogen valt erbuiten.
 
-De netingang van 2.300 W is voor noodstroom belangrijker dan hij lijkt: krijg je een stormwaarschuwing, dan staat dit station rekenkundig binnen ruim een uur weer vol.
+De netingang van 2.300 W is voor noodstroom belangrijker dan hij lijkt: krijg je een stormwaarschuwing, dan is 2.048 Wh ÷ 2.300 W rekenkundig 0,89 uur — krap een uur, en in de praktijk iets langer omdat het laadvermogen richting vol terugzakt.
 
 **Modelberekening draaitijd** (2.048 Wh, 90 procent bruikbaar = circa 1.840 Wh):
 
@@ -127,18 +127,18 @@ Zie ook onze uitgebreide [EcoFlow Delta 2 Max review](/posts/ecoflow-delta-2-max
 
 ### 2. Jackery Explorer 2000 v2 — vergelijkbare capaciteit, tien kilo lichter
 
-**Capaciteit:** 2.042 Wh | **AC-vermogen:** 2.200 W nominaal | **Chemie:** LiFePO4 | **Cycli:** 4.000 | **Netladen:** volle lading in 1,33 uur (fabrikantopgave) | **Gewicht:** 17,5 kg | **Garantie:** 3 + 2 jaar | **Prijs:** €899 (van €1.599), nl.jackery.com op 21 augustus 2026
+**Capaciteit:** 2.042 Wh | **AC-vermogen:** 2.200 W nominaal | **Chemie:** LiFePO4 | **Cycli:** 4.000 | **Netladen:** volle lading in 1,33 uur (fabrikantopgave) | **Gewicht:** 17,5 kg | **Garantie:** 3 + 2 jaar | **Prijs:** €899, nl.jackery.com op 21 augustus 2026
 
 Let hier op de modelnaam. De Explorer **2000 Plus** — het model dat in veel vergelijkingen nog als aanbeveling staat, inclusief eerdere versies van dit artikel — stond op 21 augustus 2026 **niet in het Nederlandse assortiment** van Jackery. Het Nederlandse overzicht bestond uit de Explorer 500 v2 (€329), 1000 v2 (€519), 2000 v2 (€899) en 3000 v2 (€1.599). Wie de Plus zoekt is dus aangewezen op resterende dealervoorraad of de internationale winkel, met de garantievraag die daarbij hoort. Het volledige verschil tussen beide staat in [Explorer 2000 v2 vs 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/).
 
-De v2 heeft praktisch dezelfde bruikbare energie als de Delta 2 Max en is met 17,5 kg ruim vijf kilo lichter. Het continu vermogen ligt met 2.200 W iets lager, en de opgegeven 4.000 cycli is de hoogste in dit overzicht.
+De v2 heeft praktisch dezelfde bruikbare energie als de Delta 2 Max en is met 17,5 kg ruim vijf kilo lichter. Het continu vermogen ligt met 2.200 W iets lager, en de opgegeven 4.000 cycli is gelijk aan de hoogste opgave in dit overzicht — de Delta Pro 3 geeft er ook 4.000 op.
 
 **Modelberekening draaitijd** (2.042 Wh, 90 procent bruikbaar = circa 1.840 Wh):
 
 - Essentieel pakket (325 W): **circa 5 uur 40 min**
 - Alleen koelkast (100 W gemiddeld): **circa 18 uur**
 
-**Nadelen:** de 2.200 W is de harde grens — een zware kookplaat of heteluchtoven haalt hij niet. Op de Nederlandse productpagina stond voor de v2 geen uitbreidingsaccu, dus meer energie betekent hier een groter toestel in plaats van een extra module. En let op de prijs: €899 is een actieprijs vanaf €1.599, dus controleer het bedrag op het moment dat je koopt.
+**Nadelen:** de 2.200 W is de harde grens — een zware kookplaat of heteluchtoven haalt hij niet. Op de Nederlandse productpagina stond voor de v2 geen uitbreidingsaccu, dus meer energie betekent hier een groter toestel in plaats van een extra module. En let op de prijs: €899 was op onze peildatum de webshopprijs. Een doorgestreepte adviesprijs ernaast hebben wij niet kunnen verifiëren — op de Nederlandse overzichtspagina is €1.599 de prijs van de grótere Explorer 3000 v2 — dus reken met €899 en controleer het bedrag op het moment dat je koopt.
 
 **Voor wie:** huishoudens zonder inductie die één nacht willen overbruggen en het station ook voor [camping](/posts/beste-powerstation-camping-2026/) of [vanlife](/posts/beste-powerstation-vanlife-2026/) willen gebruiken — daar telt die tien kilo minder wél.
 
@@ -310,7 +310,7 @@ Prijzen zijn de webshopprijzen van de fabrikanten, opgehaald op 21 augustus 2026
 | Model | Capaciteit | AC-vermogen | Chemie | Cycli (opgave) | Garantie | Prijs (21-8-2026) |
 |---|---|---|---|---|---|---|
 | EcoFlow Delta 2 Max | 2.048 Wh | 2.400 W (4.800 W piek) | LiFePO4 | >3.000 | 5 jaar | €949 (van €1.199) |
-| Jackery Explorer 2000 v2 | 2.042 Wh | 2.200 W | LiFePO4 | 4.000 | 3 + 2 jaar | €899 (van €1.599) |
+| Jackery Explorer 2000 v2 | 2.042 Wh | 2.200 W | LiFePO4 | 4.000 | 3 + 2 jaar | €899 |
 | EcoFlow Delta Pro 3 | 4.096 Wh (tot 12 kWh) | 4.000 W (8.000 W X-Boost) | LiFePO4 | 4.000 | 5 jaar | €3.299 |
 | Bluetti AC500 + B300S | 3–18 kWh | 5.000 W | LiFePO4 | opgave fabrikant | niet geverifieerd | niet geverifieerd |
 | Anker Solix F2000 | 2 kWh | 2.400 W | LiFePO4 | 3.000+ | niet geverifieerd | niet geverifieerd |

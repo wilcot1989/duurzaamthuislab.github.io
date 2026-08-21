@@ -28,13 +28,13 @@ faq:
 - q: Welk merk biedt de beste garantie?
   a: 'EcoFlow geeft op de Nederlandse productpagina van de Delta 2 Max vijf jaar garantie. Jackery vermeldt bij de v2-modellen 3 plus 2 jaar, waarbij die laatste twee jaar aan registratie gebonden is. Controleer per model wat er staat: garantietermijnen verschillen binnen een merk per productlijn.'
 - q: Kan ik EcoFlow en Jackery zonnepanelen combineren?
-  a: Technisch gezien kun je zonnepanelen van een ander merk gebruiken, zolang de spanning en het vermogen binnen de specificaties van het powerstation vallen. Toch raden wij aan om bij hetzelfde merk te blijven voor optimale prestaties en garantiebehoud.
+  a: 'Technisch gezien kun je zonnepanelen van een ander merk gebruiken, zolang de spanning en het vermogen binnen de specificaties van het powerstation vallen en de connectoren passen. Of een paneel van een ander merk gevolgen heeft voor je garantie, staat niet op de publieke productpagina''s — vraag die voorwaarde dus schriftelijk op bij de verkoper voordat je mengt. Een verplichting om bij hetzelfde merk te blijven hebben wij bij geen van beide fabrikanten gevonden.'
 - q: Welk merk heeft de betere app?
-  a: EcoFlow heeft momenteel de betere app met Wi-Fi-connectiviteit, firmware-updates, real-time monitoring en geavanceerde instellingen. De Jackery-app is functioneel maar minder uitgebreid.
+  a: 'Dat kunnen wij niet beoordelen: wij gebruiken deze apps niet zelf en er is geen onafhankelijke test waarin ze naast elkaar zijn beproefd. Wat je op de featurelijsten van beide fabrikanten kunt vergelijken: EcoFlow noemt meer instelbare opties (laadlimieten, AC-frequentie, X-Boost, stille modus, tijdschema''s), Jackery noemt een compacter pakket met GPS-tracking. Meer functies is niet hetzelfde als beter in gebruik.'
 - q: Gebruiken beide merken LiFePO4-cellen?
   a: 'Ja, in de hoofdlijnen die zij in Nederland verkopen wel. Zowel de EcoFlow Delta- en River-modellen als de Jackery Explorer v2-modellen zijn LFP (LiFePO4). Dat is thermisch stabieler dan de oudere NMC-chemie en levert een veel hogere cyclusopgave: 3.000 tot 4.000 cycli tegen enkele honderden bij NMC.'
 - q: Welk merk is goedkoper?
-  a: 'Op 21 augustus 2026 stond de EcoFlow Delta 2 Max op €949 (van €1.199) en de Jackery Explorer 2000 v2 op €899 (van €1.599); in de klasse van 1 kWh stond de EcoFlow Delta 2 op €599 en de Jackery Explorer 1000 v2 op €519. Jackery was op die datum dus in beide klassen het laagste bedrag, maar het zijn allemaal actieprijzen die per periode wisselen — reken per Wh en controleer op het moment van aankoop.'
+  a: 'Op 21 augustus 2026 stond de EcoFlow Delta 2 Max op €949 (van €1.199) en de Jackery Explorer 2000 v2 op €899; in de klasse van 1 kWh stond de EcoFlow Delta 2 op €599 en de Jackery Explorer 1000 v2 op €519. Jackery was op die datum dus in beide klassen het laagste bedrag, maar het zijn allemaal actieprijzen die per periode wisselen — reken per Wh en controleer op het moment van aankoop.'
 products:
 - name: EcoFlow Delta 2 Max
   url: https://go.duurzaamthuislab.nl/ecoflow
@@ -118,11 +118,11 @@ Dit is de vergelijking waar het om draait: de twee toestellen van rond de 2 kWh 
 | **Batterijtype** | LFP (LiFePO4) | LiFePO4 |
 | **Cycli** | 3.000 tot 80% | 4.000 |
 | **Garantie** | 5 jaar | 3 + 2 jaar |
-| **Prijs (NL, 21-8-2026)** | €949 (van €1.199) | €899 (van €1.599) |
+| **Prijs (NL, 21-8-2026)** | €949 (van €1.199) | €899 |
 
 ### Analyse: wie wint wat
 
-**Laden via het net: gelijkspel.** De Delta 2 Max heeft een ingang van 2.300 W en is volgens EcoFlow in circa 80 minuten vol; de Explorer 2000 v2 is volgens Jackery in 1,33 uur vol. Dat is hetzelfde ordegrootte-antwoord, en het oude verhaal dat EcoFlow hier veel sneller is, gaat tegen de v2-lijn niet meer op.
+**Laden via het net: gelijkspel.** De Delta 2 Max heeft een ingang van 2.300 W en gaat volgens EcoFlow in circa 65 minuten van 0 naar 80 procent; de Explorer 2000 v2 is volgens Jackery in 1,33 uur vol. Dat is hetzelfde ordegrootte-antwoord, en het oude verhaal dat EcoFlow hier veel sneller is, gaat tegen de v2-lijn niet meer op.
 
 **Continu vermogen: EcoFlow, maar krap.** 2.400 W tegen 2.200 W nominaal. Dat verschil van 200 W beslist niets bij laptops, koelkasten of licht gereedschap; het gaat pas meedoen bij een föhn op de hoogste stand of een tafelzaag. Wie structureel boven 2.400 W uitkomt, heeft geen van deze twee toestellen nodig maar een zwaarder systeem.
 
@@ -196,7 +196,7 @@ Op dit vlak is er nauwelijks verschil tussen beide merken.
 
 ### Laadtechnologie
 
-**EcoFlow** heeft een duidelijk voordeel met hun proprietaire **X-Stream** laadtechnologie. Deze technologie integreert de omvormer in het laadproces, waardoor het powerstation direct wisselstroom kan omzetten zonder een externe adapter. Het resultaat is aanzienlijk sneller laden dan bij welke concurrent dan ook.
+**EcoFlow** gebruikt zijn eigen **X-Stream**-laadtechnologie: die integreert de omvormer in het laadproces, waardoor het powerstation direct wisselstroom kan omzetten zonder externe adapter. Dat levert laadtijden in de orde van een uur op, tegen de vijf uur die powerstations met een externe adapter nodig hadden. Een claim dat dit sneller is dan bij elke concurrent maken wij niet: tegen de Jackery v2-lijn is het verschil er niet meer, en een marktbreed overzicht van laadtijden hebben wij niet.
 
 **Jackery** heeft die achterstand met de v2-lijn ingelopen: het merk noemt voor de Explorer 2000 v2 een volledige lading in 1,33 uur en voor de 1000 v2 circa één uur, met een bidirectionele GaN-omvormer. Het oude verschil van een half uur bij de grotere modellen geldt tegen deze generatie niet meer.
 
@@ -208,29 +208,27 @@ Beide merken gebruiken **pure sinus omvormers**, wat essentieel is voor gevoelig
 
 ## App-functionaliteit
 
-### EcoFlow App
+Wij gebruiken deze apps niet zelf en er is geen onafhankelijke test waarin ze onder gelijke condities zijn vergeleken. Wat hieronder staat, is dus geen oordeel over gebruiksgemak maar een vergelijking van wat de fabrikanten op hun eigen pagina's als functie noemen.
 
-De EcoFlow-app is een van de sterkste punten van het merk:
+### EcoFlow-app: wat de featurelijst noemt
 
 - **Verbinding**: Wi-Fi en Bluetooth
 - **Real-time monitoring**: Verbruik, laadstatus, resterende tijd
-- **Firmware-updates**: Over-the-air updates voor nieuwe functies en verbeteringen
+- **Firmware-updates**: over-the-air via de app (EcoFlow publiceert geen updateschema, dus over de frequentie zeggen wij niets)
 - **Laadlimieten**: Stel in tot welk percentage het powerstation oplaadt (verlengt levensduur)
 - **Geavanceerde instellingen**: AC-frequentie, X-Boost aan/uit, stille modus
 - **Tijdschema's**: Plan wanneer het powerstation aan of uit gaat
 - **Smart Home**: Integratie met sommige smart-home systemen
 
-### Jackery App
-
-De Jackery-app is functioneel maar minder uitgebreid:
+### Jackery-app: wat de featurelijst noemt
 
 - **Verbinding**: Wi-Fi en Bluetooth
-- **Real-time monitoring**: Laadstatus en basis verbruiksgegevens
-- **Firmware-updates**: Beschikbaar maar minder frequent
-- **Basis instellingen**: Standaard configuratieopties
-- **GPS-tracking**: Handig voor diefstalbescherming
+- **Real-time monitoring**: laadstatus en verbruiksgegevens
+- **Firmware-updates**: beschikbaar via de app; ook Jackery publiceert geen updateschema
+- **Instellingen**: de standaard configuratieopties
+- **GPS-tracking**: bedoeld voor terugvinden bij verlies of diefstal
 
-**Conclusie apps**: EcoFlow wint duidelijk op app-functionaliteit. Als je graag alles tot in detail wilt monitoren en instellen, is EcoFlow de betere keuze.
+**Wat je hieruit kunt halen:** EcoFlow noemt meer instelbare parameters, Jackery een compacter pakket met GPS erbij. Of die extra parameters jou iets opleveren, hangt af van of je ze gebruikt — een langere featurelijst is geen bewijs van een betere app, en wij hebben geen basis om er een winnaar aan te wijzen.
 
 ---
 
@@ -270,7 +268,7 @@ Beide merken verkopen eigen draagbare zonnepanelen die naadloos aansluiten op hu
 - Jackery noemt bij de Explorer 2000 v2 circa 5,5 uur voor een volle lading met twee panelen van 200 W onder ideale omstandigheden
 - Ook hier zijn de rendementspercentages fabrikantopgaven die wij niet hebben nagerekend
 
-**Tip**: Voor de beste resultaten koop je een zonnepaneel van hetzelfde merk als je powerstation. De connectoren passen direct en je bent verzekerd van optimale compatibiliteit. Overweeg je ook vast opgestelde zonnepanelen op je dak? Lees dan onze [complete gids over zonnepanelen subsidies in 2026](/posts/zonnepanelen-subsidie-nederland-2026/).
+**Tip**: een paneel van hetzelfde merk als je powerstation scheelt je het uitzoekwerk aan connectoren en spanningsbereik — dat is het praktische argument. Een verplichting is het niet, en een garantievoorwaarde hebben wij bij geen van beide merken gevonden; wil je mengen, vraag die voorwaarde dan schriftelijk na en controleer spanning, stroom en stekkertype tegen de datasheet. Overweeg je ook vast opgestelde zonnepanelen op je dak? Lees dan onze [complete gids over zonnepanelen subsidies in 2026](/posts/zonnepanelen-subsidie-nederland-2026/).
 
 ---
 
@@ -297,7 +295,7 @@ Laten we de kosten per Wh vergelijken, een eerlijke manier om de prijs-kwaliteit
 | EcoFlow River 2 Pro | €549 | 768 Wh | €0,72 |
 | Jackery Explorer 500 v2 | €329 | capaciteit niet opgehaald | — |
 
-Twee dingen vallen op. Ten eerste: hoe groter het toestel, hoe lager de prijs per Wh — de kleinste modellen zijn per opgeslagen wattuur ruim anderhalf keer zo duur als de 2 kWh-klasse. Ten tweede: op deze peildatum staat Jackery in beide klassen iets gunstiger per Wh. Dat is geen structureel merkvoordeel maar een momentopname; het zijn actieprijzen die per periode wisselen, en bij Jackery lag de doorstreepte prijs van de 2000 v2 (€1.599) hoger dan die van de Delta 2 Max (€1.199).
+Twee dingen vallen op. Ten eerste: hoe groter het toestel, hoe lager de prijs per Wh — de kleinste modellen zijn per opgeslagen wattuur ruim anderhalf keer zo duur als de 2 kWh-klasse. Ten tweede: op deze peildatum staat Jackery in beide klassen iets gunstiger per Wh. Dat is geen structureel merkvoordeel maar een momentopname: het zijn actieprijzen die per periode wisselen. Een doorgestreepte adviesprijs voor de Explorer 2000 v2 hebben wij niet kunnen verifiëren — €1.599 is op de Nederlandse overzichtspagina de prijs van de grótere Explorer 3000 v2 — dus vergelijk op de prijs die er op je aankoopmoment staat.
 
 ---
 
@@ -359,9 +357,7 @@ Voor beide merken geldt: registreer het product binnen de door de fabrikant geno
 
 ## Prijs-volatiliteit: wanneer kopen?
 
-Powerstations worden regelmatig in de aanbieding aangeboden. De beste momenten:
-
-Hoe sterk die acties zijn, verschilt per model en per periode; wij noemen daarom geen kortingspercentages. Wat de peildatum van dit artikel wel laat zien: op 21 augustus 2026 stonden vrijwel alle vergeleken modellen **al** onder hun doorgestreepte prijs — de Explorer 2000 v2 op €899 van €1.599, de Delta 2 Max op €949 van €1.199, de Explorer 1000 v2 op €519 van €799. Een actieprijs is in dit segment dus eerder de regel dan de uitzondering.
+Powerstations staan in dit segment vaak in de aanbieding. Wanneer die acties vallen en hoe diep ze gaan, verschilt per model en per periode; wij noemen daarom geen kortingspercentages en geen vaste actiemomenten. Wat de peildatum van dit artikel wel laat zien: op 21 augustus 2026 stonden meerdere vergeleken modellen onder een doorgestreepte prijs — de Delta 2 Max op €949 van €1.199 en de Explorer 1000 v2 op €519 van €799. Een actieprijs is in dit segment dus eerder de regel dan de uitzondering.
 
 **Ons advies:** vergelijk niet met de doorgestreepte prijs maar met de prijs per Wh van de alternatieven, en controleer het bedrag op het moment van aankoop. Een station kopen tegen de volle adviesprijs is in deze markt zelden nodig.
 
