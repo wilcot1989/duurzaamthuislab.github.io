@@ -1,9 +1,9 @@
 ---
-title: 'Energietransitie 2027 budget voor MKB ondernemers'
+title: 'Energietransitie 2027: budget en regelingen voor MKB-ondernemers'
 date: 2026-10-28 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
-description: 'Voor ZZP en MKB-ondernemers: ISDE, EIA, zakelijk dynamisch contract en saldering-stop in 2027. Concrete bedragen, fiscale aftrek en stappenplan.'
+description: 'Voor ZZP en MKB: hoe EIA, ISDE, een zakelijk dynamisch contract en de salderingsstop per 1 januari 2027 op elkaar inwerken — met een modelberekening en de aanvraagtermijnen die je niet mag missen.'
 categories:
   - zakelijk
 tags:
@@ -15,9 +15,9 @@ tags:
   - zakelijk
   - 2027
 keywords:
-  - energietransitie MKB 2027
-  - EIA aftrek 2027
-  - ISDE ondernemer
+  - energietransitie mkb 2027
+  - eia aftrek 2027
+  - isde ondernemer
   - zakelijk dynamisch contract
   - mkb zonnepanelen subsidie
 affiliate: false
@@ -26,201 +26,160 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1497366811353-6870744d04b2&w=1200&output=webp&q=70
 faq:
   - q: 'Wat is het verschil tussen ISDE en EIA voor ondernemers?'
-    a: 'ISDE is een investeringssubsidie (direct geld terug) voor warmtepompen, zonneboilers en isolatie. EIA is een fiscale aftrek op de winstbelasting voor zakelijke energie-investeringen (zonnepanelen, batterijen, EV-laadinfrastructuur). ISDE krijg je in cash uitgekeerd, EIA verlaagt je belastingaanslag.'
-  - q: 'Kan ik als ZZPer met kantoor aan huis EIA aanvragen?'
-    a: 'Ja, voor het zakelijke deel. Bij een werkruimte van bijvoorbeeld 20% van het huis kun je 20% van de investering opvoeren voor EIA. Belangrijk: dit moet je melden bij RVO binnen 3 maanden na opdrachtbevestiging.'
-  - q: 'Geldt de saldering-stop ook voor zakelijke kleinverbruikers?'
-    a: 'Ja, kleinverbruikers (aansluiting tot 3x80A) zijn allemaal onder de saldering-stop gevallen, ongeacht particulier of zakelijk. Grootverbruikers hebben hun eigen regeling onder SDE++.'
-  - q: 'Is een zakelijk dynamisch contract anders dan een particulier dynamisch contract?'
-    a: 'Iets anders. Het stroomgedeelte werkt hetzelfde (EPEX uurprijs), maar het servicegeld is meestal hoger (8-15 EUR/maand) en je krijgt zakelijke facturatie met btw-vermelding. Aanbieders: Tibber Business, Frank Zakelijk, Engie Power.'
-  - q: 'Wat is het EIA-percentage voor 2027?'
-    a: 'Voor 2026 is het EIA-percentage 40% van de investering, met een maximum van 156 miljoen EUR. Voor 2027 wordt het percentage in december 2026 gepubliceerd, maar de verwachting is gelijkblijvend rond 40%.'
-  - q: 'Kan ik subsidies stapelen?'
-    a: 'Beperkt. ISDE en EIA mogen niet gestapeld op dezelfde investering. Wel kun je ISDE voor warmtepomp combineren met EIA voor zonnepanelen, mits het verschillende investeringen zijn op je belastingaangifte.'
-products:
-  - name: Tibber Business dynamisch
-    url: https://go.duurzaamthuislab.nl/tibber
-    price: '12'
-  - name: Frank Energie zakelijk
-    url: https://go.duurzaamthuislab.nl/frank-energie
-    price: '10'
-  - name: Zonneplan zakelijk
-    url: https://go.duurzaamthuislab.nl/zonneplan
-    price: '0'
+    a: 'ISDE is een investeringssubsidie: een bedrag dat na installatie wordt uitgekeerd, voor warmtepompen, zonneboilers en isolatie. EIA is een fiscale aftrek op de winst voor energie-investeringen die op de Energielijst van RVO staan, zoals zakelijke zonnepanelen, energieopslag en laadinfrastructuur. ISDE is cash, EIA verlaagt je belastbare winst.'
+  - q: 'Wat is het EIA-percentage?'
+    a: 'Voor 2026 is de energie-investeringsaftrek 40 procent van het investeringsbedrag. Wat het percentage voor 2027 wordt, publiceert RVO met de Energielijst voor dat jaar; wij nemen daar geen verwachting op vooruit.'
+  - q: 'Kan ik als ZZP''er met kantoor aan huis EIA aanvragen?'
+    a: 'Voor het zakelijke deel kan dat, mits de investering op de Energielijst staat en je administratie duidelijk maakt welk deel van het pand zakelijk is. De melding moet binnen drie maanden na het aangaan van de investeringsverplichting bij RVO binnen zijn. Laat de toerekening door je accountant vastleggen.'
+  - q: 'Hoeveel ISDE hoort er bij mijn warmtepomp?'
+    a: 'Het bedrag hangt aan het exacte typenummer van het apparaat. RVO houdt daarvoor een apparatenlijst met rekenhulp bij; vraag het typenummer uit de offerte op en zoek het daar op. Bandbreedtes zonder typenummer zeggen niets.'
+  - q: 'Geldt de salderingsstop ook voor zakelijke kleinverbruikers?'
+    a: 'Ja. De salderingsregeling geldt voor kleinverbruikersaansluitingen, ongeacht of de gebruiker particulier of zakelijk is, en stopt per 1 januari 2027 volledig. Er is geen afbouwpad in stappen.'
+  - q: 'Is een zakelijk dynamisch contract anders dan een particulier contract?'
+    a: 'Het stroomdeel werkt hetzelfde: je betaalt de uurprijs van de day-aheadmarkt plus belastingen, netbeheer en de opslag van de leverancier. Zakelijk verschilt vooral de facturatie (btw, vaak andere vaste kosten) en soms de contractduur. Vergelijk de vaste kosten en de inkoopvergoeding per aanbieder; die staan lang niet altijd publiek vermeld.'
+  - q: 'Kan ik ISDE en EIA stapelen?'
+    a: 'Niet op dezelfde investering. Wel kun je ISDE aanvragen voor de ene investering en EIA voor de andere, mits het in de administratie twee onderscheiden investeringen zijn. Leg de keuze per investering vast met je accountant.'
 schema_type: Article
-last_updated: '2026-10-28'
-category: zakelijk
+last_updated: '2026-08-21'
 ---
 
-Neem een modelbedrijf: een bouwbedrijf met 8 medewerkers, een werkplaats van 320 m² en een kantoor aan huis. Tot nu toe salderen, ISDE ontvangen voor de warmtepomp op het kantoor, en EIA volledig links laten liggen. Dat is een veelvoorkomend patroon: de ondernemer weet dat er in 2027 iets verandert, maar de boekhouder rekent de regelingen niet door. Voor ondernemers is de combinatie van saldering-stop, ISDE, EIA en een zakelijk dynamisch contract complex — maar ook kansrijk. In dit artikel zetten we de regelingen naast elkaar met concrete bedragen.
+*Disclosure: dit artikel bevat geen betaalde links. De verwijzing naar Tibber is een gewone verwijzing; wij ontvangen hiervoor geen vergoeding en hebben met deze partij geen commissierelatie.*
 
-*Disclosure: de links naar Frank Energie, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+Neem een modelbedrijf: een bouwbedrijf met acht medewerkers, een werkplaats van 320 m² en een kantoor aan huis. Het saldeert nog, heeft ISDE ontvangen voor de warmtepomp en laat de energie-investeringsaftrek volledig links liggen. Dat patroon komt vaak voor: de ondernemer weet dát er in 2027 iets verandert, maar niemand rekent de regelingen naast elkaar door.
 
-> **Kort antwoord:** Voor ondernemers liggen er nu drie hefbomen klaar. EIA geeft je 40% fiscale aftrek op zonnepanelen, batterijen en EV-laadinfra. ISDE geeft cash subsidie voor warmtepompen (2.500-4.500 EUR per installatie). En een zakelijk dynamisch contract levert 500-1500 EUR jaarvoordeel op vergeleken met vast. De saldering-stop in 2027 maakt deze hefbomen extra belangrijk omdat het oude verdienmodel (terugleveren tegen volle prijs) wegvalt.
+Voor ondernemers is de combinatie van salderingsstop, ISDE, EIA en een zakelijk dynamisch contract complexer dan voor particulieren — maar er staan ook meer instrumenten open. Hieronder zetten wij ze naast elkaar, met de aanvraagtermijnen die het vaakst worden gemist.
 
-## Waarom dit niet gewoon "particulier maar dan zakelijk" is
+> **Kort antwoord:** ondernemers hebben drie hefbomen. EIA geeft in 2026 een aftrek van 40 procent van de investering op wat er op de Energielijst staat. ISDE geeft een uitkering voor warmtepomp, zonneboiler en isolatie, met een bedrag dat aan het typenummer hangt. En een zakelijk dynamisch contract kan voordeel opleveren, afhankelijk van je verbruiksprofiel. De salderingsstop per 1 januari 2027 maakt die hefbomen belangrijker, omdat het rendement verschuift van teruglevering naar eigen verbruik.
 
-Veel ondernemers benaderen energietransitie zoals een particulier — vergelijken stroomtarieven, kijken naar zonnepanelen, eventueel een batterij. Dat is logisch maar laat geld liggen. Zakelijke regelingen geven structureel meer voordeel via fiscale instrumenten die particulieren niet hebben. Een zonnepanelen-installatie van 12.000 EUR levert een particulier geen ISDE op — panelen staan niet op de ISDE-lijst. Voor een ondernemer is het 4.800 EUR EIA-aftrek én eventuele afschrijving over 5 jaar.
+## Waarom dit niet "particulier maar dan zakelijk" is
 
-Onder het nieuwe saldering-regime per 2027 worden deze fiscale hefbomen relatief belangrijker. Onder volle saldering verdiende je toch wel je investering terug; nu moet de business case rond zijn zonder die overgenereuze regeling. EIA en ISDE compenseren dat gedeeltelijk. Ons artikel over [ZZP zonnepanelen met kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/) gaat dieper in op de fiscale boekhouding.
+Veel ondernemers pakken verduurzaming aan als particulier: tarieven vergelijken, panelen, misschien een batterij. Dat laat geld liggen, omdat ondernemers over fiscale instrumenten beschikken die particulieren niet hebben.
 
-## EIA: Energie-investeringsaftrek uitgelegd
+Het duidelijkste voorbeeld: een particulier krijgt op zonnepanelen géén ISDE — panelen staan niet op die lijst — en heeft alleen het nultarief btw. Een ondernemer kan diezelfde investering, mits die op de Energielijst staat en zakelijk wordt gebruikt, opvoeren voor EIA én afschrijven.
 
-De EIA (Energie-investeringsaftrek) is een fiscale regeling waarmee je 40% van bepaalde energie-investeringen mag aftrekken van je belastbare winst. Voor het aanvraagjaar 2026 geldt dat tarief; in december 2026 publiceert RVO of dit voor 2027 gelijk blijft.
+Onder de saldering was dat verschil minder relevant, omdat de terugverdientijd toch wel rond kwam. Na 1 januari 2027 moet de businesscase het zonder saldering doen, en dan gaan de fiscale instrumenten zwaarder wegen. Voor de boekhoudkundige kant van kantoor aan huis: [ZZP zonnepanelen met kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/).
 
-Welke investeringen vallen onder EIA?
+## EIA: energie-investeringsaftrek
 
-- Zonnepanelen voor zakelijk gebruik (op werkplaats, kantoor, kantoor-aan-huis-deel)
-- Thuisbatterijen of grotere energieopslag voor zakelijk gebruik
-- Warmtepompen voor zakelijk gebruik (boven 5 kW thermisch vermogen)
-- EV-laadinfrastructuur voor zakelijke voertuigen
-- LED-verlichting voor zakelijke ruimten (boven bepaalde drempel)
-- Warmteterugwinning, isolatie en HR-glas in zakelijke panden
+Met de EIA trek je een percentage van bepaalde energie-investeringen extra af van je belastbare winst. **Voor 2026 is dat percentage 40 procent.** Wat het voor 2027 wordt, publiceert RVO met de Energielijst voor dat jaar.
 
-Het exacte rendement hangt af van je belastingschijf. Voor een EMZ (eenmanszaak) in de hoogste schijf scheelt 40% EIA-aftrek ongeveer 20% van het investeringsbedrag (40% aftrek bij 50% gecombineerd tarief). Voor een BV met 19% Vpb-tarief scheelt 40% EIA-aftrek ongeveer 7,6%.
+Wat er onder kan vallen, mits opgenomen in de Energielijst en zakelijk gebruikt:
 
-| Investering | EIA-percentage | Effectief voordeel EMZ | Effectief voordeel BV |
+- Zonnepanelen op een bedrijfspand of het zakelijke deel van een woning
+- Energieopslag voor zakelijk gebruik
+- Warmtepompen voor zakelijke ruimten
+- Laadinfrastructuur voor zakelijke voertuigen
+- Energiezuinige verlichting in bedrijfsruimten
+- Warmteterugwinning, isolatie en isolerend glas in bedrijfspanden
+
+**De Energielijst is bepalend, niet de categorie.** Elk jaar verschuiven er middelen op en af, en er gelden per bedrijfsmiddel technische eisen en drempelbedragen. Controleer je investering daarom altijd op de actuele lijst via de [EIA-pagina van RVO](https://www.rvo.nl/subsidies-financiering/eia) voordat je opdracht geeft.
+
+### Wat de aftrek netto oplevert
+
+Onderstaande tabel is een **modelberekening met aannames**, geen belastingadvies. De aftrek werkt door in je tarief, dus het effect verschilt per rechtsvorm en per schijf.
+
+| Aangenomen investering | EIA-aftrek (40%) | Effect bij een tarief van 49,5% | Effect bij Vpb 19% |
 |---|---|---|---|
-| Zonnepanelen 10 kWp (€12.000) | 40% | €2.400 | €912 |
-| Thuisbatterij 10 kWh (€8.000) | 40% | €1.600 | €608 |
-| Warmtepomp lucht-water (€16.000) | 40% | €3.200 | €1.216 |
-| EV-laadpaal (€2.500) | 40% | €500 | €190 |
-| LED-verlichting werkplaats (€4.000) | 40% | €800 | €304 |
+| Zonnepanelen circa €12.000 | €4.800 | circa €2.376 | circa €912 |
+| Energieopslag circa €8.000 | €3.200 | circa €1.584 | circa €608 |
+| Warmtepomp circa €16.000 | €6.400 | circa €3.168 | circa €1.216 |
+| Laadpaal circa €2.500 | €1.000 | circa €495 | circa €190 |
+| Verlichting circa €4.000 | €1.600 | circa €792 | circa €304 |
 
-Aanmelding moet binnen 3 maanden na opdrachtbevestiging via mijnRVO.nl. Mis je die termijn, dan vervalt de aftrek. Zie de officiele [EIA pagina van RVO](https://www.rvo.nl/subsidies-financiering/eia) voor de exacte regels en de actuele Energielijst.
+Twee kanttekeningen die het beeld nuanceren. Bij een eenmanszaak of VOF verlaagt de **mkb-winstvrijstelling** de effectieve waarde van elke aftrekpost, dus het werkelijke voordeel ligt lager dan de kolom suggereert. En bij een BV geldt het opstaptarief of het hoge Vpb-tarief, afhankelijk van je winst. Laat je accountant dit voor jouw situatie doorrekenen voordat je een investering op EIA plant.
 
-## ISDE: Investeringssubsidie Duurzame Energie
+### De termijn die het vaakst wordt gemist
 
-ISDE is een directe geldsubsidie, geen fiscale aftrek. Je krijgt een bedrag op je rekening na installatie van bepaalde duurzame energietoepassingen. Voor 2026 zijn de bedragen:
+**De EIA-melding moet binnen drie maanden na het aangaan van de investeringsverplichting bij RVO binnen zijn** — dus gerekend vanaf het moment dat je de opdracht bevestigt, niet vanaf de factuur of de oplevering. Ben je te laat, dan vervalt de aftrek voor die investering. Zet de melding daarom in dezelfde week in je agenda als de ondertekening.
 
-| Installatie | ISDE-bedrag 2026 |
-|---|---|
-| Lucht-water warmtepomp | €2.500 - €4.500 (afhankelijk vermogen) |
-| Hybride warmtepomp | €1.700 - €3.000 |
-| Warmtepompboiler (sanitair) | €700 |
-| Zonneboiler | €700 - €1.200 |
-| Isolatie (per maatregel) | €2 - €30 per m² |
+## ISDE voor ondernemers
 
-Voor zakelijke aanvragers gelden vergelijkbare bedragen, mits de installatie voldoet aan de RVO-eisen (minimum vermogen, energielabel, etc.). Lees ons complete [ISDE aanvragen stappenplan](/posts/isde-aanvragen-stappenplan-2026/) voor het exacte proces en ons [ISDE subsidie warmtepompen overzicht](/posts/isde-subsidie-warmtepompen-2026/) voor de bedragen per warmtepomp-type.
+ISDE is een directe uitkering, geen aftrek, en dekt warmtepomp, warmtepompboiler, zonneboiler, isolatiemaatregelen en aansluiting op een warmtenet. Zonnepanelen, thuisbatterijen en laadpalen vallen er niet onder.
 
-Belangrijk: ISDE en EIA mogen niet gestapeld op dezelfde investering. Voor een warmtepomp kies je dus: óf ISDE (vaak voordeliger voor kleinere bedragen), óf EIA (vaak voordeliger voor grotere bedragen). Let op: zonnepanelen, thuisbatterijen en laadpalen staan niet op de ISDE-lijst voor woningeigenaren — daarvoor is EIA (of KIA) de zakelijke route.
+- **Het bedrag hangt aan het typenummer.** RVO publiceert een apparatenlijst met rekenhulp; daar zoek je op merk en type welk bedrag eraan hangt. Vraag je installateur om het typenummer uit de offerte.
+- **Je vraagt aan ná uitvoering:** binnen 24 maanden na installatie bij warmtepomp en zonneboiler, binnen 12 maanden na uitvoering bij isolatie.
+- **Stapelen met EIA op dezelfde investering kan niet.** Per investering kies je één route; welke gunstiger is, hangt af van het bedrag en je belastingtarief.
 
-## Zakelijk dynamisch contract: stille besparing
+Zie ook ons [ISDE aanvragen stappenplan](/posts/isde-aanvragen-stappenplan-2026/) en [ISDE subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/).
 
-Veel ondernemers betalen jarenlang teveel voor stroom omdat ze nog op een vast zakelijk tarief zitten dat in 2022 is afgesloten. Onder dynamisch contract betaal je het EPEX-uurtarief. Voor MKB-bedrijven met bepaalde verbruiksprofielen levert dit fors voordeel op:
+Let op het verschil in aanvraagmoment: ISDE ná uitvoering, EIA binnen drie maanden ná opdracht, en gemeentelijke regelingen vaak vóór opdracht. Bij een gecombineerd project loop je die drie sporen tegelijk.
 
-**Profielen die sterk profiteren van zakelijk dynamisch:**
-- Bouwbedrijven (zwaar gereedschap, vaak overdag — goedkope zon-uren)
-- IT-bedrijven (servers 24/7, kunnen back-ups schedulen op goedkope uren)
-- Productiebedrijven (kunnen productie verschuiven naar goedkope uren)
-- Bedrijven met EV-vloot (kunnen 's nachts laden)
+## Zakelijk dynamisch contract
 
-**Profielen die minder profiteren:**
-- Horeca (verbruik volgt klanten, geen flexibiliteit)
-- Detailhandel (verbruik tijdens openingsuren, geen schuifruimte)
-- Zorginstellingen (continu verbruik, geen flexibiliteit)
+Onder een dynamisch contract betaal je de uurprijs van de day-aheadmarkt, plus belastingen, netbeheer en de opslag van je leverancier. Of dat voordelig is, hangt vooral af van je verbruiksprofiel — niet van de contractvorm zelf.
 
-Voor een typisch MKB-bedrijf met 15.000 kWh per jaar verbruik en gemiddelde flexibiliteit verwachten wij 500-1500 EUR jaarvoordeel ten opzichte van een vast zakelijk contract. Lees ons complete [energieopslag voor ZZP MKB](/posts/energieopslag-zzp-mkb-commercieel-2026/) voor de verdieping.
+**Profielen die er relatief van profiteren:** bedrijven met veel verbruik overdag en met schuifruimte — productie die verplaatsbaar is, IT-taken die 's nachts kunnen draaien, een wagenpark dat op goedkope uren laadt.
 
-<div style="background:#f5efe6;border-left:4px solid #c2522d;padding:20px;margin:24px 0;border-radius:4px;">
-<strong>Tibber Business — zakelijk dynamisch met smart-laden</strong><br>
-EPEX-uurprijs voor de stroom, servicegeld 12 EUR/maand voor zakelijke facturatie. Goede smart-laden integratie voor zakelijke EV-vloot.<br><br>
-<a href="https://go.duurzaamthuislab.nl/tibber" target="_blank" rel="nofollow noopener" style="display:inline-block;background:#c2522d;color:#fff;padding:12px 24px;text-decoration:none;border-radius:4px;font-weight:600;">Bekijk Tibber Business &rarr;</a>
-</div>
+**Profielen die er weinig aan hebben:** horeca, detailhandel en zorg, waar het verbruik het klant- of zorgproces volgt en er nauwelijks schuifruimte is.
 
-## Hoe ondernemers de saldering-stop kunnen omdraaien tot kans
+Wat het oplevert, valt niet in één bedrag te vangen: het hangt af van je jaarverbruik, je profiel en van de vaste kosten en inkoopvergoeding van de aanbieder. Die laatste twee zijn zakelijk vaak niet publiek gepubliceerd — vraag ze op en zet ze naast elkaar. Hoe wij die vergelijking maken, staat in onze [vergelijking van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/); de actuele uurprijzen staan op onze [stroomprijzen-pagina](/stroomprijzen/).
 
-Onder het nieuwe regime per 2027 is teruglevering ondergewaardeerd (3-7 cent/kWh) en eigen verbruik bovengewaardeerd (volle 30 cent/kWh wegblijven uit het net). Voor ondernemers betekent dit: investeer in zaken die je piekverbruik tijdens werkuren verlagen.
+<a href="https://go.duurzaamthuislab.nl/tibber" class="cta" rel="nofollow noopener" target="_blank">Bekijk het aanbod van Tibber</a>
 
-**Concrete acties met directe ROI:**
+*Dit is een gewone verwijzing; wij ontvangen hiervoor geen vergoeding.*
 
-1. **LED-vervanging in werkplaats (EIA 40% aftrek).** Werkplaatsverlichting brandt typisch 40-50 uur per week. Vervanging halogeen door LED bespaart 60-70% energie. Terugverdientijd zonder EIA: 4 jaar. Met EIA: 2,4 jaar.
+## Wat de salderingsstop met de businesscase doet
 
-2. **Zonnepanelen op werkplaats-dak (EIA 40% aftrek).** Voor bedrijfsdaken zijn de business cases sterker dan voor woningen omdat overdag het meeste verbruik plaatsvindt — eigen gebruik is hoog. Terugverdientijd 5-6 jaar met EIA.
+**De salderingsregeling stopt per 1 januari 2027 volledig**, ook voor zakelijke kleinverbruikers. Er is geen afbouw in stappen.
 
-3. **Batterij of energieopslag voor pieken (EIA 40% aftrek).** Bij grote machines die kort piek-vermogen vragen kan een batterij de piek-aansluitkosten verlagen. Terugverdientijd 6-8 jaar.
+Wat dat verschuift: onder saldering was het financieel om het even of je een kilowattuur direct verbruikte of teruglverde — beide werden tegen je leveringstarief verrekend. Na de stop krijg je voor teruglevering een terugleververgoeding die aanzienlijk lager ligt dan je leveringstarief, terwijl een zelf verbruikte kilowattuur nog steeds de volle inkoopprijs uitspaart.
 
-4. **EV laadinfra voor wagenpark (EIA 40% aftrek).** Een laadpaal met smart-laden op werkplaats-dak verlaagt brandstofkosten dramatisch. Cross-link: lees over de [beste laadpaal voor thuis](/posts/beste-laadpaal-thuis-vergelijking-2026/) — voor zakelijk geldt veel hetzelfde plus de EIA-aftrek.
+Voor bedrijfsdaken is dat relatief gunstig nieuws: het verbruik valt daar grotendeels overdag, precies wanneer de panelen produceren. Het aandeel eigen verbruik ligt op een bedrijfsdak doorgaans hoger dan op een woning, en juist dat aandeel behoudt zijn waarde. De prioriteit verschuift daarmee van "zoveel mogelijk opwekken" naar **"zoveel mogelijk zelf verbruiken op het moment van opwek"**.
 
-5. **Warmtepomp voor werkplaats/kantoor (ISDE + Vpb afschrijving).** Voor verwarming van bedrijfsruimten levert een warmtepomp ISDE op én structurele besparing op gasrekening.
+## Vijf ingrepen, en waar ze op rusten
+
+1. **Verlichting vervangen.** Lange branduren maken dit doorgaans de kortste terugverdientijd van allemaal, en de investering is klein genoeg om snel te beslissen. Check of het bedrijfsmiddel op de Energielijst staat.
+2. **Zonnepanelen op het bedrijfsdak.** Sterkere businesscase dan op een woning, door het hoge aandeel eigen verbruik overdag — en dat verschil wordt na de salderingsstop groter, niet kleiner.
+3. **Energieopslag.** Interessant bij piekvermogen of bij een profiel met veel teruglevering, niet als standaardkeuze. Reken door op wat het aan piekkosten en aan verschoven verbruik oplevert, niet op handelsopbrengsten. Zie [energieopslag voor ZZP en MKB](/posts/energieopslag-zzp-mkb-commercieel-2026/).
+4. **Laadinfrastructuur.** Loont zodra er meer dan incidenteel zakelijk geladen wordt, en combineert goed met een dak dat overdag produceert.
+5. **Warmtepomp voor werkplaats of kantoor.** Hier speelt de ISDE-route, met het bedrag per typenummer, en de afweging tegen EIA.
 
 ## Modelcasus: het bouwbedrijf doorgerekend
 
-Profiel: bouwbedrijf, 12.000 kWh verbruik werkplaats + 5.000 kWh kantoor-aan-huis, hybride warmtepomp uit 2023, 16 panelen op werkplaatsdak uit 2022, 2 bestelbussen waarvan 1 EV. Een plan in vier stappen, als modelberekening:
+Deze casus is een **modelberekening met aannames**, geen beschreven bedrijf.
 
-1. **Switch direct naar Tibber Business.** Voordeel rond 800 EUR per jaar door productie-flexibiliteit overdag
-2. **Aanvragen EIA voor 8 extra panelen** op werkplaats-dak voor 2027 plaatsing. Investering 9.500 EUR, EIA-aftrek 3.800 EUR, netto 5.700 EUR
-3. **EV-laadpaal upgrade naar 22 kW** voor de tweede bus (geplande omschakeling 2027). Investering 3.200 EUR, EIA-aftrek 1.280 EUR
-4. **Geen batterij** — bij zijn verbruiksprofiel onvoldoende return on investment. Dynamisch contract + meer panelen levert meer op
+Aangenomen profiel: 12.000 kWh verbruik in de werkplaats en 5.000 kWh voor het kantoor aan huis, een hybride warmtepomp uit 2023, zestien panelen op het werkplaatsdak uit 2022 en twee bestelbussen waarvan één elektrisch.
 
-Totale investering 2026-2027: 12.700 EUR. Netto na EIA: 7.620 EUR. Jaarbesparing op stroom plus het winstbelasting-effect: rond 2.100 EUR. Terugverdientijd in dit model: 3,6 jaar.
+| Stap | Aangenomen investering | EIA-aftrek (40%) | Toelichting |
+|---|---|---|---|
+| Overstap naar een dynamisch zakelijk contract | — | — | Voordeel hangt af van schuifruimte overdag |
+| Acht extra panelen op het werkplaatsdak | €9.500 | €3.800 | Alleen als het middel op de Energielijst staat |
+| Laadpaal opwaarderen voor de tweede bus | €3.200 | €1.280 | Melding binnen drie maanden na opdracht |
+| Geen batterij | — | — | Bij dit profiel weegt extra opwek zwaarder |
 
-## Cross-link: voor de boekhoudkundige verwerking
+Totale aangenomen investering: €12.700, met €5.080 aan aftrek. Wat dat netto waard is, hangt af van rechtsvorm en tarief — bij een tarief van 49,5 procent en met de mkb-winstvrijstelling in het achterhoofd ligt het effect ruim onder het aftrekbedrag zelf. Wat de casus vooral laat zien: **de volgorde bepaalt de uitkomst.** Eerst het contract en het verbruiksprofiel, dan pas de hardware — anders investeer je in opwek die je op het verkeerde moment terugleververt.
 
-Voor de fiscale verwerking van energietransitie-investeringen is een goede boekhouder essentieel. Lees ons artikel over [boekhoudsoftware voor MKB](https://bedrijfssoftwaregids.nl/posts/boekhoudsoftware-zzp-mkb-vergelijking-2026/) op onze zustersite Bedrijfssoftwaregids voor het kiezen van de juiste tool die EIA-meldingen en afschrijvingen automatisch verwerkt.
+## Stappenplan
 
-## Stappenplan voor MKB-ondernemers in Q4 2026
+**Stap 1 — inventariseer.** Jaarverbruik, verbruiksprofiel over de dag, bestaande installaties en wat er op de shortlist staat.
 
-**Stap 1 (deze week): inventariseer huidige situatie.** Wat is je jaarverbruik? Welke installaties heb je al? Welke staan op de planning?
+**Stap 2 — bespreek met je accountant.** Welke route per investering: ISDE of EIA? Wat is het effect bij jouw rechtsvorm en tarief? Speelt de mkb-winstvrijstelling mee?
 
-**Stap 2 (week 2): bespreek met je accountant.** Welke regelingen zijn voor jouw belastingvorm (EMZ, VOF, BV) het meest gunstig? Stapeling wel/niet mogelijk?
+**Stap 3 — controleer de Energielijst** voor elk bedrijfsmiddel dat je op EIA wilt opvoeren, vóórdat je opdracht geeft.
 
-**Stap 3 (week 3): vraag offertes op met EIA-perspectief.** Voor elke investering moet je opdrachtbevestiging vóór EIA-aanmelding. Vraag 3 offertes.
+**Stap 4 — vraag meerdere offertes op**, met typenummers en met het btw-tarief per regel.
 
-**Stap 4 (week 4-6): switch zakelijk contract naar dynamisch.** Doorlooptijd 4-8 weken, dus dit Q4 starten betekent live per Q1 2027.
+**Stap 5 — meld EIA binnen drie maanden na opdracht** via mijnRVO. Zet die datum meteen in de agenda.
 
-**Stap 5 (vanaf installatie): EIA-aanmelding binnen 3 maanden.** Via mijnRVO.nl, kost typisch 15 minuten per investering.
+**Stap 6 — dien ISDE ná oplevering in**, binnen de geldende termijn.
 
-**Stap 6 (jaarafrekening): aftrek opnemen in winstaangifte.** Je accountant doet dit, maar check dat het juiste percentage gebruikt is.
+**Stap 7 — controleer de winstaangifte.** Laat je accountant bevestigen dat het juiste percentage en de juiste toerekening zijn gebruikt.
 
-## Drie veelgemaakte denkfouten bij ondernemers
+## Drie denkfouten
 
-**Fout 1: "Ik wacht met investeren tot de markt rustig is."** Onverstandig. Q4 2026 is juist het moment om de fiscale instrumenten van 2026 nog te benutten. Het EIA-percentage kan in 2027 wijzigen. En 2026-investeringen mag je nog in dit boekjaar opvoeren.
+**"Ik wacht tot de markt rustig is."** Wachten heeft één concreet nadeel: het EIA-percentage en de Energielijst worden per jaar vastgesteld en kunnen wijzigen. Dat is een argument om de regels van het lopende jaar te kennen, niet om overhaast te investeren.
 
-**Fout 2: "Mijn boekhouder weet dit wel."** Vaak niet. Standaard accountants kennen de basics, maar de combinatie van saldering-stop, EIA en zakelijk dynamisch contract is nieuw genoeg dat veel kantoren er niet up-to-date op zijn. Vraag expliciet door.
+**"Mijn boekhouder weet dit wel."** Vaak wel voor de basis, niet altijd voor de combinatie van Energielijst, meldingstermijn en de keuze tussen ISDE en EIA per investering. Vraag expliciet door en laat de afweging vastleggen.
 
-**Fout 3: "ISDE en EIA zijn voor grote bedrijven."** Onzin. ISDE is ook voor ZZPers en MKB. EIA is voor elke onderneming met belastbare winst. De drempel ligt vaak rond 2.500 EUR investering — bereikbaar voor zelfs kleine eenmanszaken.
+**"Dit is voor grote bedrijven."** EIA staat open voor elke onderneming met belastbare winst; wel geldt per bedrijfsmiddel een drempelbedrag. Ook een eenmanszaak kan er dus gebruik van maken, mits de investering op de lijst staat en groot genoeg is.
 
-## Externe bron voor de zekerheid
+## Bronnen en verdieping
 
-Voor de officiele regels rond EIA, ISDE en zakelijke energietransitie kun je terecht op de [RVO over duurzame energie voor bedrijven](https://www.rvo.nl/onderwerpen/duurzaam-ondernemen). En voor de fiscale aftrek-regels op de [Belastingdienst over de Energie-investeringsaftrek](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/belastingen_op_winst/investeringsaftrek/energieinvesteringsaftrek/). Daar staan de exacte percentages, voorwaarden en aanvraag-formulieren.
+- [RVO — energie-investeringsaftrek](https://www.rvo.nl/subsidies-financiering/eia) voor het percentage, de Energielijst en de meldingstermijn.
+- [RVO — ISDE](https://www.rvo.nl/subsidies-financiering/isde) voor de apparatenlijst en de aanvraagtermijnen.
+- [Belastingdienst — energie-investeringsaftrek](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/winst/belastingen_op_winst/investeringsaftrek/energieinvesteringsaftrek/) voor de fiscale verwerking.
+- Voor de administratieve kant: [boekhoudsoftware voor ZZP en MKB](https://bedrijfssoftwaregids.nl/posts/boekhoudsoftware-zzp-mkb-vergelijking-2026/) op onze zustersite.
 
-## Drie vragen die wij krijgen over ondernemers en energietransitie
+## Tot slot
 
-**"Kan ik investeringen in privé-woning ook fiscaal aftrekken als ZZPer?"** Alleen voor het zakelijke deel (kantoor-aan-huis percentage). Je administratie moet duidelijk laten zien welk percentage van het pand zakelijk is. Een werkkamer van 20% kan dan 20% van de zonnepanelen-investering aftrekken via EIA.
-
-**"Wat als ik in 2026 al een investering deed maar geen EIA aanvroeg?"** Helaas. EIA moet binnen 3 maanden na opdrachtbevestiging worden aangevraagd. Voor investeringen ouder dan 3 maanden is de regeling vervallen.
-
-**"Kan ik mijn warmtepomp afschrijven plus ISDE krijgen?"** Ja, dat mag. ISDE is een directe subsidie, afschrijving is een fiscale toerekening over de levensduur. Beide los van elkaar toepasbaar.
-
-## Mijn concrete 5-stappenplan voor MKB Q4 2026
-
-1. **Maak een investerings-inventaris.** Wat staat er op je 2027-shortlist?
-2. **Vraag je accountant om EIA-kennis.** Niet alle accountants zijn up-to-date — switch desnoods van accountant.
-3. **Switch zakelijk naar dynamisch voor 15 november.** Live per 1 januari 2027.
-4. **Vraag 3 offertes met EIA-attest van leverancier.** Niet elke installateur kent de EIA-procedure.
-5. **Plan investeringen vóór 31 december indien mogelijk.** Voor 2026 EIA-percentages.
-
-## Aandachtspunten voor specifieke ondernemingsvormen
-
-**Voor eenmanszaken (EMZ):** De EIA-aftrek werkt direct op je inkomstenbelasting. Bij hoge belastingschijven (boven 49,5%) is het effectieve voordeel ongeveer 20% van de investering. Lager bij lagere schijven. Bespreek met je accountant of een investering nét voor of nét na de jaarwissel financieel slimmer is.
-
-**Voor VOFs:** EIA wordt naar evenredigheid verdeeld onder de vennoten. Investeer als VOF (niet individueel) om de hele aftrek mogelijk te maken.
-
-**Voor BVs:** EIA werkt op de vennootschapsbelasting (Vpb), tegen 19% of 25,8%. Het effectieve voordeel is dus lager dan bij EMZ, maar de cashflow blijft binnen de BV. Voor groeibedrijven vaak aantrekkelijker dan EMZ-route.
-
-**Voor Holding-structuren:** Investeringen kunnen via werkmaatschappij of holding gedaan worden. De fiscale uitwerking verschilt. Laat een fiscalist meekijken voor groter investeringen (boven 20.000 EUR).
-
-**Voor ZZP-ers zonder kantoor aan huis:** Beperkt. Alleen voertuig-gerelateerde investeringen (zakelijke EV, laadpaal) komen direct in aanmerking. Werkruimte-investeringen niet, want geen zakelijk vastgoed.
-
-Mijn artikel over [zzp zonnepanelen kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/) heeft de detailberekeningen voor kantoor-aan-huis situaties.
-
-## Wat de saldering-stop betekent voor zakelijke daken
-
-Zakelijke daken hadden onder de saldering vaak minder voordeel dan particuliere daken — omdat overdag al veel verbruik plaatsvond en weinig werd teruggeleverd. Onder het nieuwe regime per 2027 verandert dit relatief positief voor zakelijke daken. Wat overdag wordt opgewekt en direct gebruikt (in plaats van teruggeleverd) levert nu de volle 30 cent op in plaats van te worden weggesalderd tegen 30 cent. Eigenlijk geen verschil — behalve dat ondernemers via EIA de investering 40% goedkoper kunnen doen. Dat scheelt structureel terugverdientijd.
-
-## Tot slot: ondernemers hebben meer hefbomen dan particulieren
-
-Het is makkelijk om je als ondernemer in het algemene "saldering-stop gedoe" mee te laten slepen alsof je een particulier bent. Maar je hebt fiscale instrumenten tot je beschikking die particulieren niet hebben. Door EIA, ISDE en zakelijk dynamisch contract slim te combineren kun je de pijn van de saldering-stop niet alleen opvangen maar zelfs winstgevend draaien.
-
-Het kost wel administratieve discipline. Aanvragen op tijd indienen, opdrachtbevestigingen bewaren, jaarafrekening doorzetten naar accountant. Maar voor 5.000 tot 10.000 EUR netto voordeel over 5 jaar — die discipline is het waard.
+Ondernemers hebben bij de salderingsstop meer instrumenten dan particulieren, maar die instrumenten hebben één ding gemeen: ze zijn gebonden aan termijnen. De aftrek die je vergeet te melden, is weg — ongeacht hoe goed de investering was. De grootste winst zit daarom niet in de keuze van de techniek, maar in de volgorde en de agenda: eerst het profiel, dan de route per investering, en dan de meldingen op tijd.

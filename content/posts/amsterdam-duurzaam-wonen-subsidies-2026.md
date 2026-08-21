@@ -1,9 +1,9 @@
 ---
-title: 'Amsterdam Duurzaam Wonen Subsidies 2026: Volledig Overzicht'
+title: 'Amsterdam subsidies verduurzaming 2026: wat er écht is en waar je het checkt'
 date: 2026-07-21 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
-last_updated: 2026-04-29
-description: 'Amsterdam subsidies voor zonnepanelen, warmtepomp en isolatie in 2026. Wat zijn de regelingen, hoe vraag je aan, en welke bedragen zijn beschikbaar voor Amsterdammers.'
+lastmod: 2026-08-21 08:00:00+02:00
+last_updated: 2026-08-21
+description: 'Welke subsidies en leningen gemeente Amsterdam in 2026 op de eigen loketpagina noemt, hoe die zich verhouden tot ISDE en de landelijke Energiebespaarlening, en waarom je de bedragen altijd bij de bron controleert.'
 draft: false
 categories:
 - subsidies
@@ -16,446 +16,159 @@ tags:
 keywords:
 - amsterdam subsidie zonnepanelen
 - amsterdam duurzaam wonen
-- amsterdam verduurzamingsfonds
-- amsterdam energiebesparing subsidie
 - amsterdam isolatie subsidie
 - amsterdam warmtepomp subsidie
+- amsterdam duurzaamheidslening
 - gemeente amsterdam duurzaam
+- subsidie verduurzaming amsterdam
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1534351590666-13e3e96c5017&w=1200&output=webp&q=70
 schema_type: Article
 affiliate: false
 faq:
-- q: 'Welke subsidies geeft gemeente Amsterdam in 2026?'
-  a: 'Subsidie Verduurzaming Woning (€500-€2.500), Energiebox voor lage inkomens (€500), Amsterdam Energieleningen (renteloos tot €15.000), monument-verduurzamingsfonds (extra €1.500), VVE-aanjaagregeling (tot €25.000 per VVE).'
-- q: 'Hoe vraag ik subsidie aan bij gemeente Amsterdam?'
-  a: 'Via amsterdam.nl/duurzaamheid of het stadsdeelloket. Doorlooptijd 6-12 weken. De meeste regelingen zijn op-is-op, dus vraag vroeg in het jaar aan.'
-- q: 'Krijg ik in Amsterdam ook provinciale subsidie?'
-  a: 'Ja, Amsterdam valt onder Noord-Holland. Provinciale regelingen (€750-€2.000) cumuleren meestal met gemeentelijke. Check specifieke voorwaarden per regeling.'
-- q: 'Speciale regelingen voor de binnenstad?'
-  a: 'Ja, voor monumenten en beschermd stadsgezicht zijn er specifieke fondsen. NRF-leningen (1-2% rente), Amsterdam Stadsherstel-regeling, en bijzondere monumentenfondsen.'
-- q: 'Werkt Amsterdam-subsidie voor huurders?'
-  a: 'Beperkt. Hoofdzakelijk voor eigenaren-bewoners. Voor huurders zijn er energiebox-regeling en huurder-corporatie programma''s.'
-- q: 'Wanneer worden nieuwe regelingen aangekondigd?'
-  a: 'Begin elk jaar (januari-februari) en bij begrotingsbesluiten in het najaar. Houd amsterdam.nl in de gaten.'
-- q: 'Werkt Amsterdam-subsidie ook voor ZZP''er met BV?'
-  a: 'Beperkt. Voor woondeel ja, voor zakelijk deel komt KIA en EIA via Belastingdienst — niet via gemeente. Lees [ZZP zonnepanelen kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/).'
-- q: 'Kan ik Amsterdam Energielening combineren met hypotheekverhoging?'
-  a: 'Ja. Hypotheekverhoging tot 106% loan-to-value mag voor verduurzaming. Energielening vult restant. Twee verschillende kredieten, geen onderling beletsel.'
-- q: 'Wat als mijn aanvraag wordt afgewezen?'
-  a: 'Bezwaar is mogelijk binnen 6 weken. Een deel van de afwijzingen berust op formele gronden — een ontbrekend document of een verkeerde aanvraagvolgorde — en die zijn na bezwaar te herstellen. Vraag altijd om een schriftelijke motivering en controleer of er een vormfout in het spel is.'
-- q: 'Telt een tweede investering twee jaar later mee?'
-  a: 'Ja, mits andere maatregel. Twee keer warmtepomp-subsidie binnen 5 jaar wordt geblokkeerd. Twee keer zonnepanelen-subsidie (uitbreiding) afhankelijk van regeling.'
-- q: 'Krijg ik subsidie als ik mijn huis verhuur?'
-  a: 'Voor commerciële verhuur: nee (val je onder ondernemersregelingen). Voor verhuur aan familie of kostgangers: ja, mits jij eigenaar-bewoner bent en hoofdverblijf daar hebt.'
-- q: 'Werkt de Amsterdam Energielening voor een woonboot?'
-  a: 'Ja — sinds 2024 expliciet opgenomen, mits ligplaatsvergunning bestaat. Bedrag tot €10.000 voor woonboten. Specifieke maatregelen: isolatie casco, zonnepanelen op dak, warmtepomp op water (zeldzaam maar mogelijk).'
-- q: 'Mag ik subsidie ontvangen voor zonnepanelen op een dakopbouw die ik nog moet vergunnen?'
-  a: 'De volgorde is cruciaal: eerst dakopbouw vergund laten worden (3-6 maanden), dan offerte zonnepanelen, dan subsidieaanvraag. Aanvragen in de tussentijd worden afgewezen omdat de panelen nog niet in vergund pand vallen.'
-- q: 'Telt een groendak mee voor Amsterdam-subsidies?'
-  a: 'Apart fonds: Amsterdam Rainproof + Stadsdeel-subsidies voor groendaken (€30-€50 per m²). Combineerbaar met zonnepanelen mits constructie het draagt. Specialist nodig: gewicht groendak + zonnepanelen plus accumulatie water bij hevige regen kan dakconstructie overschrijden.'
-- q: 'Kan ik subsidie krijgen voor laadpaal in Amsterdam?'
-  a: 'Niet direct via verduurzamingsfonds. Wel via aparte regeling Mobility Hub-subsidie of werkgever-laadpaal-regeling. Lees [laadpaal VVE installatie](/posts/laadpaal-vve-installatie-2026/).'
-products:
-- name: Zonneplan zonnepanelen
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '5500'
-- name: Quatt warmtepomp
-  url: https://www.quatt.nl/
-  price: '8500'
-- name: Greenchoice
-  url: https://www.greenchoice.nl/
-  price: '0'
+- q: 'Welke subsidies noemt gemeente Amsterdam zelf voor woningeigenaren?'
+  a: 'Op het gemeentelijke loket duurzaamwonen.amsterdam staan onder meer een subsidie voor hybride warmtepompen, een extra isolatiesubsidie, gebiedsgerichte regelingen voor Nieuw-West en Noord, advies voor monumenteigenaren, het Duurzaamheidsfonds Amsterdam en de landelijke Energiebespaarlening. Bedragen en voorwaarden staan per regeling op die pagina en veranderen tussentijds — controleer ze daar (opgehaald 21 augustus 2026).'
+- q: 'Waar controleer ik welke regelingen op mijn adres gelden?'
+  a: 'Twee plekken. Het gemeentelijke loket duurzaamwonen.amsterdam voor de Amsterdamse regelingen, en de Energiesubsidiewijzer van Milieu Centraal op verbeterjehuis.nl voor de combinatie van landelijke, provinciale en gemeentelijke regelingen op postcode. Wij nemen bedragen bewust niet één op één over, omdat budgetten en voorwaarden per aanvraagronde wijzigen.'
+- q: 'Kan ik een gemeentelijke subsidie combineren met ISDE?'
+  a: 'Dat kan per regeling verschillen en staat in de voorwaarden van de betreffende regeling. Er is geen algemene regel dat cumulatie altijd mag of altijd verboden is. Lees per regeling de passage over samenloop met andere subsidies voordat je een aanvraag indient.'
+- q: 'Moet ik ISDE aanvragen vóór of ná de installatie?'
+  a: 'Voor woningeigenaren geldt: je vraagt ISDE aan ná installatie, binnen 24 maanden na de installatiedatum. Voor isolatiemaatregelen is dat binnen 12 maanden na uitvoering. Gemeentelijke regelingen kennen soms een andere volgorde en vragen wél om aanvraag vooraf — dat is precies waarom je de volgorde per regeling nakijkt.'
+- q: 'Hoeveel ISDE krijg ik voor mijn warmtepomp?'
+  a: 'Dat hangt af van het exacte typenummer van het apparaat. RVO houdt een apparatenlijst bij waarin per merk en type het subsidiebedrag staat, met een rekenhulp erbij. Vraag je installateur om het typenummer uit de offerte en zoek dat op bij RVO — bedragen die niet aan een typenummer hangen, zeggen niets.'
+- q: 'Geldt het 0%-btw-tarief ook voor mijn warmtepomp of isolatie?'
+  a: 'Nee. Het nultarief geldt alleen voor zonnepanelen en de direct noodzakelijke onderdelen daarvan. Een warmtepomp, warmtepompboiler, isolatie, thermostaat of thuisbatterij valt onder het gewone tarief van 21 procent. Sinds 1 januari 2023 bestaat de oude btw-teruggaveroute op nieuwe panelen niet meer.'
+- q: 'Werken Amsterdamse regelingen ook voor huurders?'
+  a: 'Grotendeels niet: de meeste regelingen richten zich op eigenaar-bewoners en VvE''s. Voor huurders loopt verduurzaming in principe via de verhuurder of woningcorporatie. Lees [zonnepanelen sociale huur stappenplan](/posts/zonnepanelen-sociale-huur-stappenplan-2026/).'
+- q: 'Wat doe ik als mijn aanvraag wordt afgewezen?'
+  a: 'Vraag altijd om een schriftelijke motivering en kijk of de afwijzing op een inhoudelijke of een formele grond berust. Tegen een besluit op een subsidieaanvraag staat bezwaar open; de termijn en de route staan in de afwijzingsbrief zelf.'
 ---
-"Hoeveel subsidie kunnen we eigenlijk krijgen?" Dat is de eerste vraag van vrijwel elke Amsterdammer die zijn rijtjeshuis wil verduurzamen. Het antwoord is moeilijker dan het lijkt, want de bedragen komen uit drie lagen — gemeente, provincie en Rijk — en die regelingen zijn deels wél en deels niet te combineren. Voor een rijtjeshuis met zonnepanelen, warmtepomp en dakisolatie komt het totaal in de praktijk vaak boven de €4.000 uit, waarvan ongeveer de helft specifiek Amsterdams.
 
-Hieronder een volledig overzicht van de Amsterdam-subsidies voor verduurzaming in 2026: welke regelingen er zijn, hoe je ze combineert en hoe je aanvraagt.
+*Disclosure: dit artikel bevat geen affiliate-links. Wij hebben met gemeente Amsterdam, met de genoemde fondsen en met de installateurs in dit onderwerp geen commerciële relatie.*
 
-*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+"Hoeveel subsidie kunnen we eigenlijk krijgen?" is bij verduurzaming vrijwel altijd de eerste vraag. Voor Amsterdam is dat een lastige vraag om schriftelijk te beantwoorden, en dat heeft een reden die je op de meeste subsidiepagina's niet leest: **de bedragen veranderen tussentijds, budgetten raken op en regelingen worden per stadsdeel of per gebied opengesteld en weer gesloten.** Een pagina die elf regelingen met exacte bedragen opsomt, is binnen een half jaar deels onjuist.
 
+Daarom pakken wij het anders aan. Hieronder staat wat gemeente Amsterdam op het eigen duurzaamheidsloket noemt (opgehaald op 21 augustus 2026), hoe die regelingen zich verhouden tot de landelijke ISDE en de Energiebespaarlening, en — het belangrijkste — via welke twee checkers je de actuele stand voor jouw adres opzoekt.
 
-> **Kort antwoord:** Amsterdam subsidies voor zonnepanelen, warmtepomp en isolatie in 2026. Wat zijn de regelingen, hoe vraag je aan, en welke bedragen zijn beschikbaar voor Amsterdammers.
->
-> Subsidie Verduurzaming Woning (€500-€2.500), Energiebox voor lage inkomens (€500), Amsterdam Energieleningen (renteloos tot €15.000), monument-verduurzamingsfonds (extra €1.500), VVE-aanjaagregeling (tot €25.000 per VVE).
+> **Kort antwoord:** Amsterdam heeft geen enkele "grote" verduurzamingssubsidie, maar een stapeling van gemeentelijke regelingen (isolatie, hybride warmtepomp, gebiedsgerichte programma's, monumentenadvies, Duurzaamheidsfonds) bovenop de landelijke ISDE en de Energiebespaarlening. Welke daarvan op jouw adres openstaan en met welk bedrag, check je op duurzaamwonen.amsterdam en in de Energiesubsidiewijzer van Milieu Centraal.
 
-## Amsterdam-specifieke regelingen 2026
+## Begin hier: de twee checkers
 
-### 1. Subsidie Verduurzaming Woning Amsterdam
+Voordat je verder leest, dit zijn de enige twee bronnen waarop je een aanvraag moet baseren:
 
-Hoofdregeling voor eigenaar-bewoners.
+1. **[duurzaamwonen.amsterdam/subsidies-en-leningen](https://duurzaamwonen.amsterdam/subsidies-en-leningen)** — het duurzaamheidsloket van gemeente Amsterdam. Hier staan de Amsterdamse regelingen met hun actuele bedragen, doelgroep en aanvraagroute. Regelingen die gesloten zijn, verdwijnen van die pagina; dat is precies de informatie die een blogartikel je niet kan geven.
+2. **[Energiesubsidiewijzer van Milieu Centraal](https://www.verbeterjehuis.nl/energiesubsidiewijzer/)** — vul postcode, woningtype en maatregel in, en je krijgt de landelijke, provinciale en gemeentelijke regelingen die daarbij horen. Handig omdat je hier ook de regelingen ziet die niet op het gemeenteloket staan.
 
-**Bedrag**: €500-€2.500 afhankelijk van maatregelen
-**Maatregelen**: zonnepanelen, warmtepomp, isolatie, ventilatie, thuisbatterij
-**Voorwaarden**:
-- Woning in Amsterdam
-- Eigenaar-bewoner
-- Energielabel-verbetering minimaal 1 stap
+Alles hieronder is context bij die twee pagina's, geen vervanging ervan.
 
-Aanvragen via [amsterdam.nl/duurzaamheid](https://www.amsterdam.nl/duurzaamheid). Doorlooptijd 6-10 weken.
+## Wat gemeente Amsterdam op 21 augustus 2026 noemt
 
-**Voorbeeld**: 12 zonnepanelen + warmtepomp = €1.500 subsidie. Plus extra €500 als label van D naar B gaat.
+Op het gemeentelijke loket stonden op de peildatum onder meer deze regelingen. Wij nemen ze op met naam en doelgroep; voor de exacte bedragen en de volledige voorwaarden verwijzen wij naar de regelingpagina zelf, omdat die per aanvraagronde wijzigen.
 
-### 2. Energiebox
+| Regeling | Voor wie | Waar te vinden |
+|---|---|---|
+| Subsidie hybride warmtepompen | Eigenaar-bewoners, corporaties | duurzaamwonen.amsterdam |
+| Extra isolatiesubsidie Amsterdam | Woningeigenaren, VvE's | duurzaamwonen.amsterdam |
+| Verduurzamende woningverbetering Nieuw-West | Eigenaar-bewoners en VvE's in Nieuw-West | duurzaamwonen.amsterdam |
+| Verduurzamende woningverbetering Noord (VvE) | VvE's in aangewezen buurten in Noord | duurzaamwonen.amsterdam |
+| Duurzaamheidsfonds Amsterdam | Bewoners, bedrijven, organisaties | duurzaamwonen.amsterdam |
+| Advies verduurzamen monumenten | Eigenaren van monumenten | duurzaamwonen.amsterdam |
+| Subsidie voor duurzame initiatieven | Bewoners, ondernemers, organisaties | duurzaamwonen.amsterdam |
+| Subsidie verwijderen rookkanalen | Woningeigenaren met houtstook | duurzaamwonen.amsterdam |
+| Energiebespaarlening particuliere woningeigenaren | Particuliere woningeigenaren | Warmtefonds via het loket |
+| ISDE | Eigenaar-bewoners van de hoofdwoning | rvo.nl |
 
-Speciaal voor lage-inkomens­huishoudens (gezinsinkomen onder €30.000).
+Drie dingen vallen op aan deze lijst, en die zijn belangrijker dan de bedragen.
 
-**Bedrag**: €500 ineens
-**Maatregelen**: kleine maatregelen — LED's, kierdichting, radiatorfolie
-**Voorwaarden**: aantoonbaar laag inkomen
+**Ten eerste is een deel gebiedsgericht.** Nieuw-West en Noord hebben eigen programma's. Woon je daarbuiten, dan zijn die regelingen niet voor jou beschikbaar, hoe vaak je ze ook tegenkomt in overzichtsartikelen.
 
-Aanvragen via gemeente. Wordt vaak ook actief aangeboden via woningcorporaties.
+**Ten tweede zit het zwaartepunt bij isolatie, niet bij zonnepanelen.** Amsterdam stuurt met de isolatiesubsidie op slecht geïsoleerde woningen. Wie in de eerste plaats panelen wil, komt bij de gemeente vaak van een koude kermis thuis en is aangewezen op het nultarief btw en de opbrengst zelf.
 
-### 3. Amsterdam Energieleningen
+**Ten derde is de Energiebespaarlening geen Amsterdamse regeling** maar de landelijke lening van het Nationaal Warmtefonds, die via het gemeentelijke loket wordt aangeboden. Verwar hem niet met een stadslening: de voorwaarden zijn landelijk.
 
-Renteloze leningen tot €15.000 voor verduurzaming.
+## ISDE: het typenummer bepaalt het bedrag
 
-**Looptijd**: 7-15 jaar
-**Rente**: 0%
-**Voorwaarden**: 
-- Eigenaar-bewoner Amsterdam
-- Maximaal jaarinkomen €100.000
-- Cofinanciering subsidie toegestaan
+Voor warmtepomp, warmtepompboiler, zonneboiler en isolatie is ISDE de landelijke regeling. Hier gaan overzichtsartikelen het vaakst de mist in, met "€2.500 tot €4.500"-achtige bandbreedtes die nergens op slaan.
 
-Echt unieke kans — vrijwel geen andere stad biedt 0% leningen tot €15.000.
+Zo werkt het wel:
 
-### 4. Monumenten Verduurzamings­fonds
+- **Het bedrag hangt aan het typenummer van het apparaat.** RVO publiceert een apparatenlijst waarin per merk en type staat welk bedrag eraan verbonden is, met een rekenhulp. Vraag je installateur om het exacte typenummer uit de offerte en zoek dat op via de [ISDE-pagina van RVO](https://www.rvo.nl/subsidies-financiering/isde). Een bedrag zonder typenummer is een gok.
+- **Je vraagt ná installatie aan.** Voor een warmtepomp of zonneboiler geldt een termijn van 24 maanden na de installatiedatum. Voor isolatiemaatregelen is dat 12 maanden na uitvoering.
+- **Let op de volgorde-botsing.** Sommige gemeentelijke regelingen willen juist een aanvraag vóór uitvoering. Dat betekent dat je bij een gecombineerd project twee verschillende volgordes tegelijk moet aanhouden: eerst de gemeentelijke aanvraag indienen, dan uitvoeren, dan de ISDE-aanvraag doen.
+- **ISDE dekt geen zonnepanelen en geen thuisbatterijen.** Voor panelen is het fiscale voordeel het nultarief btw; voor thuisbatterijen bestaat geen landelijke consumentensubsidie.
 
-Voor de 6.500+ rijksmonumenten en gemeentelijke monumenten in Amsterdam.
+Meer over de regeling zelf staat in [ISDE subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/).
 
-**Bedrag**: €1.500-€5.000 extra bovenop standaardregelingen
-**Maatregelen**: discrete verduurzaming binnen monument-eisen
+## Btw: waar 0% wel en niet geldt
 
-Lees ook [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/).
+Dit levert in Amsterdam extra verwarring op, omdat pakketten met panelen, warmtepomp en isolatie vaak in één offerte staan.
 
-### 5. VVE-aanjaag­regeling
+- **0% btw** geldt voor zonnepanelen en de daarvoor direct noodzakelijke onderdelen (omvormer, montagemateriaal, bijbehorende installatie).
+- **21% btw** geldt voor warmtepomp, warmtepompboiler, isolatie, thermostaat, inductiekookplaat en thuisbatterij.
+- Sinds 1 januari 2023 is er **geen btw-teruggaveroute meer** op nieuwe panelen. De oude route via aangifte als ondernemer en de kleineondernemersregeling is voor nieuwe installaties verleden tijd. Kom je die route nog tegen in een offerte of een ouder artikel, dan is die informatie verouderd.
 
-Voor Verenigingen van Eigenaars in Amsterdam.
+Vraag bij een gecombineerd pakket om een offerte waarin het btw-tarief per regel zichtbaar is. Dat voorkomt dat het nultarief per ongeluk over het hele pakket wordt gelegd — een fout die je bij een controle zelf terugbetaalt.
 
-**Bedrag**: tot €25.000 per VVE-project
-**Maatregelen**: collectieve isolatie, gezamenlijke zonnepanelen op platte daken
-**Voorwaarden**: VVE-besluit met 2/3 meerderheid
+## Modelberekening: rijtjeshuis in Amsterdam-Noord
 
-Lees [VVE zonnepanelen stappenplan](/posts/vve-zonnepanelen-stappenplan-2026/).
+De berekening hieronder is een **modelberekening met aannames**, geen beschreven praktijkgeval. Wij vullen bewust geen subsidiebedragen in, omdat die per regeling en per aanvraagronde verschillen; de berekening laat zien hoe de posten zich tot elkaar verhouden.
 
-### 6. Aardgasvrij-regeling
+Aannames: rijtjeshuis uit 1985, energielabel D, plan bestaat uit twaalf zonnepanelen, een hybride warmtepomp en dakisolatie.
 
-Voor wijken die op aardgasvrij overgaan (Centrum, Zuid, deels Noord).
+| Post | Aanname | Btw-tarief | Subsidieroute |
+|---|---|---|---|
+| 12 zonnepanelen incl. omvormer | €5.000 | 0% | geen subsidie; voordeel zit in nultarief en opbrengst |
+| Hybride warmtepomp incl. installatie | €7.000 | 21% | ISDE (bedrag per typenummer) + eventueel gemeentelijke regeling |
+| Dakisolatie | €4.500 | 21% | ISDE isolatie + Amsterdamse isolatiesubsidie |
+| Energielabel voor en na | €700 | 21% | doorgaans geen subsidie |
 
-**Bedrag**: €1.000-€5.000 extra voor versnelde overgang
-**Maatregelen**: warmtepomp, hybride warmtepomp, aansluiting warmtenet
-**Voorwaarden**: woning in aangewezen wijk
+Wat deze opzet duidelijk maakt: **het grootste deel van de investering zit in de 21%-posten, en dat is precies waar de subsidies zitten.** Wie alleen naar panelen kijkt, kijkt naar het deel van het pakket waar het minste te halen valt.
 
-### 7. Energiezuinig Kantoor aan Huis
+Voor de financiering geldt hetzelfde principe. Een lening tegen een lage rente verlaagt je maandlast, maar verandert niets aan de totale investering. Reken de maandlast van de lening en de verwachte maandbesparing altijd apart uit, en let erop dat de besparing na het einde van de saldering anders uitvalt dan ervoor.
 
-Voor ZZP'ers met kantoor in Amsterdam.
+## Saldering stopt per 1 januari 2027 — reken daarmee
 
-**Bedrag**: €250-€1.000
-**Maatregelen**: zakelijk-geoormerkte verduurzaming
+Dit raakt elke Amsterdamse zonnepanelenberekening. **De salderingsregeling stopt volledig per 1 januari 2027.** Er is geen afbouwpad: het wetsvoorstel met een stapsgewijze afbouw is verworpen. Wie nu een offerte laat maken waarin de terugverdientijd op saldering rust, krijgt een som die vanaf 2027 niet meer klopt.
 
-Lees [ZZP zonnepanelen kantoor aan huis](/posts/zzp-zonnepanelen-kantoor-aan-huis-2026/).
+Praktisch betekent dat: de waarde van je opgewekte stroom verschuift van de salderingswaarde naar het verschil tussen wat je zelf verbruikt en wat je terugkrijgt voor teruglevering. Hoe dat uitpakt, hangt af van je verbruiksprofiel en je contract. Wij hebben dat uitgewerkt in [thuisbatterij terugverdientijd vergelijken](/thuisbatterij-terugverdientijd-vergelijken/) en in onze [vergelijking van dynamische energiecontracten](/dynamisch-energiecontract-vergelijken/).
 
-## Provinciale regelingen Noord-Holland
+## Amsterdamse aandachtspunten die niet in de regelingen staan
 
-Bovenop Amsterdam-subsidies kun je krijgen:
+Los van de subsidies zijn er vier Amsterdamse omstandigheden die de planning beïnvloeden.
 
-**NH Subsidie Verduurzaming Wonen**
-- €750-€2.000 extra
-- Cumuleerbaar met Amsterdam-subsidie
+**Welstand en beschermd stadsgezicht.** In het beschermd stadsgezicht en bij monumenten gelden eisen aan de zichtbaarheid van panelen. Wat mag, staat in de welstandsnota en verschilt per gebied; laat dat nakijken vóórdat je offertes opvraagt, niet erna. Zie [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/).
 
-Lees [provincie subsidies overzicht](/posts/provincie-subsidies-zonnepanelen-overzicht-2026/) voor andere provincies.
+**Geluid van een warmtepomp-buitenunit.** De landelijke geluidseis staat in het Besluit bouwwerken leefomgeving (Bbl), dat per 1 januari 2024 het Bouwbesluit heeft vervangen: 45 dB overdag en 40 dB in de avond en nacht, op de perceelgrens. Er is geen wettelijke minimumafstand tot de erfgrens. In dichte stadsbebouwing met kleine achtertuinen is die geluidseis de bepalende beperking, niet de ruimte. Zie [warmtepomp geluid buren norm](/posts/warmtepomp-geluid-buren-2026-norm/) en [vergunning warmtepomp aanvragen](/posts/vergunning-warmtepomp-aanvragen-2026/).
 
-## Landelijke regelingen
+**VvE-besluitvorming.** Voor appartementen loopt vrijwel alles via de VvE. De vereiste meerderheid staat in de splitsingsakte en het toepasselijke modelreglement, en verschilt dus per pand. Begin met het opvragen van die stukken; zonder dat weet je niet welke drempel geldt. Zie [VVE zonnepanelen stappenplan](/posts/vve-zonnepanelen-stappenplan-2026/).
 
-Combineerbaar met Amsterdams:
-- **ISDE**: warmtepomp €1.800-€4.500
-- **Energiebespaarlening Warmtefonds**: 1,5-3% rente
-- **BTW-teruggave**: voor oudere installaties
+**Stadsverwarming.** Woon je op een warmtenet, dan zijn warmtepompsubsidies grotendeels niet relevant en verschuift de vraag naar isolatie en tarieven. Zie [collectieve warmte en warmtenet](/posts/collectieve-warmte-warmtenet-2026/).
 
-## Stappenplan: maximaal benutten
+## Aanvragen: de volgorde die het vaakst misgaat
 
-### Stap 1: Plan integraal verduurzamen
+1. **Bepaal de status van je pand.** Bouwjaar, energielabel, monument- of stadsgezichtstatus, en of je in een gebiedsgericht programma valt (Nieuw-West, Noord).
+2. **Check beide checkers** — het gemeenteloket en de Energiesubsidiewijzer — en noteer per regeling: bedrag, aanvraagmoment (vóór of ná uitvoering), en of samenloop met andere regelingen is toegestaan.
+3. **Vraag offertes op bij minimaal twee installateurs**, met btw-tarief per regel en het typenummer van de warmtepomp erin.
+4. **Dien de regelingen die vooraf moeten worden aangevraagd in vóór de opdracht.** Dit is de fout die het vaakst tot een afwijzing leidt.
+5. **Voer uit en bewaar alles**: facturen, betaalbewijzen, foto's van de uitvoering, labels voor en na.
+6. **Dien ISDE ná oplevering in**, binnen 24 maanden (warmtepomp) of 12 maanden (isolatie).
 
-Niet 1 paneel hier, ander warmtepomp daar. Plan een totaal-pakket:
-- Energieadvies + label nu (€350)
-- Pakket maatregelen (panelen + warmtepomp + isolatie)
-- Pakket maatregelen
-- Energielabel na (€350)
-- Aanvraag op basis van label-sprong
+Waar het meestal misloopt, is stap 2 en stap 4: mensen lezen één regeling goed en gaan er dan van uit dat de andere regelingen dezelfde volgorde hanteren. Dat is niet zo.
 
-### Stap 2: Identificeer alle subsidies
+## Wanneer een Amsterdamse aanvraag weinig oplevert
 
-Maak een Excel-overzicht:
-- Amsterdam Verduurzaming €1.500
-- NH provinciale €1.500
-- ISDE warmtepomp €2.000
-- Amsterdam Energielening €15.000 0%
-- BTW-teruggave (oudere panelen) €0
+Een eerlijke afweging hoort erbij. In deze situaties weegt de moeite vaak niet op tegen het bedrag:
 
-Totaal subsidie + lening: €5.000 + 0% lening
+- **Kleine losse maatregel.** Bij een investering van een paar duizend euro kost de route — label vóór en na, offertes, aanvraag, declaratie — meer tijd dan het subsidiebedrag rechtvaardigt.
+- **Appartement zonder eigen dak.** Zonder VvE-besluit is individuele plaatsing geen optie, en VvE-trajecten duren lang. Een deelname aan een lokale energiecoöperatie is dan een reëler alternatief.
+- **Verhuisplan op korte termijn.** Een lening blijft bij verkoop bij jou; de investering verdien je in een paar jaar zelden terug via de verkoopprijs alleen.
+- **Huurwoning.** De verhuurder of corporatie is aan zet voor isolatie en panelen. Zie [zonnepanelen sociale huur stappenplan](/posts/zonnepanelen-sociale-huur-stappenplan-2026/).
 
-### Stap 3: Vraag aan VOOR uitvoering
+## Conclusie
 
-Meeste regelingen vereisen pre-approval. Volgorde:
-1. Februari: aanvraag indienen
-2. Maart-april: beschikkingen ontvangen
-3. Mei-juni: uitvoering
-4. Juli-augustus: einddeclaratie + uitbetaling
+Amsterdam biedt een breed pakket, maar het is een stapeling van kleinere regelingen met verschillende voorwaarden, doelgroepen en aanvraagmomenten — geen enkel groot bedrag. De winst zit niet in het vinden van een geheime regeling, maar in twee dingen: **de juiste volgorde aanhouden** en **de bedragen bij de bron controleren** in plaats van in een overzichtsartikel.
 
-### Stap 4: Documenteer alles
+Onze werkwijze in het kort: begin bij [duurzaamwonen.amsterdam](https://duurzaamwonen.amsterdam/subsidies-en-leningen), leg dat naast de [Energiesubsidiewijzer](https://www.verbeterjehuis.nl/energiesubsidiewijzer/), zoek het ISDE-bedrag op bij het typenummer uit je offerte, en dien alles in de volgorde in die per regeling geldt.
 
-- Energielabel oud + nieuw
-- Offertes minimaal 2
-- Facturen
-- Bewijs uitvoering (foto's)
-- Bankafschriften betaling
-
-### Stap 5: Combineer met aankopen
-
-Slim plannen: koop apparaten in jaar van label-sprong:
-- Warmtepomp + zonnepanelen + isolatie samen
-- Hogere bedragen mogelijk
-- Eén proces
-
-## Vier rekenvoorbeelden
-
-De vier voorbeelden hieronder zijn **modelberekeningen** op basis van de subsidiebedragen uit de regelingen hierboven. Het zijn geen beschreven praktijkgevallen: de investeringsbedragen, energiebesparingen en maandlasten zijn aannames, bedoeld om de orde van grootte te laten zien. Jouw uitkomst hangt af van pand, label, tarieven en de actuele budgetstand van elke regeling.
-
-### Voorbeeld 1: rijtjeshuis Amsterdam-Noord
-
-Rijtjeshuis 1985, label D. Plan: 12 panelen + Quatt warmtepomp + dakisolatie.
-
-Investering: €18.500 totaal
-Subsidies:
-- Amsterdam Verduurzaming: €1.500
-- NH Verduurzaming: €1.500
-- ISDE warmtepomp: €1.800
-- Aardgasvrij Noord-bonus: €500
-- Totaal: €5.300
-
-Plus Amsterdam Energielening: €13.200 tegen 0% gedurende 12 jaar.
-
-Effectief eigen kosten: €0 (gefinancierd)
-Maandlast lening bij deze aannames: €91 over 12 jaar
-Aangenomen maandbesparing energie: €145
-
-Netto in dit model: circa €54 per maand positief. Bij lagere energieprijzen of een kleinere labelsprong valt dat lager uit.
-
-### Voorbeeld 2: VVE-appartement Amsterdam-Zuid
-
-VVE met 8 appartementen, gezamenlijke zonnepanelen op het platte dak plus een collectief warmtepomp-systeem.
-
-Investering: €145.000 collectief
-Subsidies:
-- Amsterdam VVE-aanjaag: €25.000
-- NH VVE-fonds: €18.000
-- ISDE warmtepomp collectief: €12.000
-- Totaal: €55.000 (38% subsidie)
-
-Plus 0% Amsterdam Energielening voor VVE: €60.000
-
-Per huishouden investering: €11.250 (oorspronkelijk €18.125)
-Aangenomen maandbesparing per huishouden: €68
-
-### Voorbeeld 3: monument in het Centrum
-
-Grachtenpand 17e eeuw. Discrete plaatsing 8 panelen op aanbouw + zonneboiler op platte daken bijgebouw.
-
-Investering: €18.500 (hoge installatiekosten ivm monumenteneisen)
-Subsidies:
-- Amsterdam Verduurzaming: €1.500
-- Monumenten Fonds Amsterdam: €4.500
-- NH provinciale: €1.250
-- Totaal: €7.250
-
-Plus 1% lening NRF voor restant. Substantiel voordeel voor monumenteigenaar.
-
-### Voorbeeld 4: ZZP'er Amsterdam-Oost
-
-Zelfstandige met thuiskantoor (15% van de woning), investering in 10 zonnepanelen.
-
-Subsidies:
-- Amsterdam Verduurzaming: €750
-- Amsterdam Energiezuinig Kantoor aan Huis: €450 (zakelijk deel)
-- NH provinciale: €750
-- Totaal: €1.950
-
-Plus KIA-aftrek op zakelijke deel investering: €232 belastingvoordeel.
-
-## Gemeentelijke energie-coach
-
-Amsterdam biedt een gratis Energiecoach-bezoek. Een specialist komt langs en helpt:
-- Identificeren mogelijke maatregelen
-- Inzetten subsidies
-- Berekenen besparing
-
-Aanvragen via amsterdam.nl/energiecoach. Wachttijd 2-6 weken.
-
-Voor veel mensen waardevol — het bezoek is gratis maar bespaart vaak duizenden euro's aan onbenut subsidiepotentieel.
-
-## Veelgemaakte fouten
-
-**Fout 1: Pas aanvragen na uitvoering**
-De meeste Amsterdam-regelingen vereisen voor-aanvraag. Achteraf vaak afgewezen.
-
-**Fout 2: Eén regeling per keer benutten**
-Cumulatie is meestal toegestaan en sterk aanbevolen. Combineer.
-
-**Fout 3: Energielabel niet bijwerken**
-Veel regelingen zijn gebonden aan label-sprong. Update label voor en na maatregel.
-
-**Fout 4: VVE-mogelijkheden missen**
-Voor appartementbewoners loont het VVE-collectief vaak meer dan individueel.
-
-**Fout 5: Monument-status negeren**
-Monumenten kunnen extra subsidies krijgen. Check stadsherstel-mogelijkheden.
-
-## Specifieke Amsterdam-uitdagingen
-
-### Krappe achtertuinen
-
-Voor warmtepomp-plaatsing in dichte stadsbebouwing: lees [warmtepomp geluid buren norm](/posts/warmtepomp-geluid-buren-2026-norm/) en [vergunning warmtepomp aanvragen](/posts/vergunning-warmtepomp-aanvragen-2026/).
-
-### Beschermd stadsgezicht
-
-Centrum, Zuidoost (delen), Buitenveldert: speciale regels voor zichtbaarheid panelen. Lees [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/).
-
-### Aardgasvrij-wijken
-
-Centrum, IJburg, Nieuwendam zijn versneld in transitie. Speciale regelingen daar.
-
-### Stadsverwarming
-
-Voor woningen op stadsverwarming (Westpoort, Oost): andere subsidie-routes via warmtenet-aanjager.
-
-Lees [collectieve warmte warmtenet](/posts/collectieve-warmte-warmtenet-2026/).
-
-## Energiecoöperaties Amsterdam
-
-Voor wie zelf geen zonnepanelen kan plaatsen (huurder, monument, dak ongeschikt):
-
-- **Amsterdam Energie**: stadsbreed
-- **De Windvogel**: ook windprojecten
-- **Zuiderlicht**: Zuid-specifiek
-
-Investeer in lokale duurzaamheidsprojecten en krijg energiekorting.
-
-## Toekomstplannen Amsterdam
-
-Amsterdam verduurzamings-strategie 2030-2050:
-- Aardgasvrij in 2050 (eerder voor sommige wijken)
-- 200.000 woningen verduurzaamd voor 2030
-- Verdubbeling subsidies in 2027 verwacht
-
-Plan dus niet te lang vooruit — als je nu kunt verduurzamen, doe het.
-
-## Per stadsdeel: wat verschilt?
-
-Amsterdam is geen monoliet. Stadsdelen pakken verduurzaming verschillend op:
-
-**Centrum:** zware welstandseisen, monument-bonus extra hoog (€4.500), maar lange doorlooptijd. Veel grachtenpanden vereisen creatieve oplossingen — zonneboiler op platte serre, panelen op aanbouw achterzijde. Ons advies: laat een welstandsadviseur eerst kijken voordat je offertes opvraagt.
-
-**Noord:** ruime daken, weinig welstandsproblemen, snelle behandeling. Hoog percentage rijtjeshuizen waar volledige stack (panelen + warmtepomp + isolatie) past. Aardgasvrij-bonus speelt hier sterk.
-
-**Zuid:** mix van vrijstaande villa's (waar veel mag) en VVE-appartementen (waar weinig snel kan). VVE-aanjaag werkt goed in Buitenveldert. Welstand strikt in Apollobuurt.
-
-**West:** veel particuliere huiseigenaren en een actief gemeenteloket. De Energielening is hier populair; omdat de meeste regelingen op-is-op zijn, is vroeg in het jaar aanvragen hier extra van belang.
-
-**Oost:** IJburg en Indische Buurt verschillen sterk. IJburg: veel nieuwbouw met al goede label, beperkte subsidie-noodzaak. Indische Buurt: oude bouw, hoog subsidie-potentieel, actieve energiecoöperatie (Amsterdam Energie).
-
-**Zuidoost:** lager inkomen-percentage hoger, dus Energiebox-regeling actiever. Veel VVE-mogelijkheden in flats.
-
-**Nieuw-West:** veel woningcorporaties, particuliere subsidies beperkt relevant. Voor eigenaars in Slotervaart-bezit: solide kansen.
-
-## Energiecoach Amsterdam in detail
-
-Sinds 2021 biedt Amsterdam een gratis Energiecoach-bezoek aan. Volgens de gemeentelijke beschrijving van de dienst ziet dat er zo uit:
-
-**Wat de coach doet (1,5-2 uur bezoek):**
-- Huiscan met thermografische camera in winter
-- Identificatie kierdichting, isolatie-tekorten, ventilatie
-- Subsidie-overzicht ter plekke
-- Schriftelijk rapport binnen 2 weken
-- Optioneel: vervolgafspraak
-
-**Wat de coach niet doet:**
-- Geen offertes opvragen
-- Geen installateur aanbevelen (om belangenverstrengeling te vermijden)
-- Geen technische diepgang op specifieke producten
-
-Redactioneel oordeel: voor wie zelf weinig kennis heeft is dit een uitstekend startpunt. Voor wie al ver is in de besluitvorming is het aanvullend, geen vervanging van een adviseur.
-
-## Drie aandachtspunten bij het Amsterdamse subsidiestelsel
-
-Het stelsel is op papier ruim, maar de uitvoering vraagt aandacht. Drie punten die uit de regelingsvoorwaarden en de gemeentelijke informatie naar voren komen:
-
-**1. Doorlooptijden lopen uiteen per stadsdeel.** De gemeente noemt zelf 6-12 weken; in drukke stadsdelen zit je eerder aan de bovenkant van die bandbreedte. Woon je in Centrum of Zuid, dien je aanvraag dan zo vroeg mogelijk in het jaar in.
-
-**2. De Energiecoach is onderbenut.** De dienst is gratis en de coach kan je actueel vertellen welke regelingen nog budget hebben — de meeste regelingen zijn op-is-op en die status staat niet altijd online. Dat maakt het bezoek waardevol, ook als je al offertes hebt liggen.
-
-**3. De aardgasvrij-bonus wordt vaak gemist.** De versnellingsbonus van €1.000-€5.000 geldt alleen in aangewezen wijken en wordt niet automatisch toegekend. Installateurs kennen de regeling niet altijd. Vraag bij je stadsdeel na wat de actuele status van jouw wijk is.
-
-## Bouwbesluit en welstand in Amsterdam
-
-In Amsterdam komen meer regels samen dan elders, vooral binnen de ring:
-
-- **Welstandsnota** verplicht discrete plaatsing zonnepanelen in beschermd stadsgezicht (heel Centrum, delen van Zuid). Soms verplicht zwarte panelen, soms verplicht achterdak-only.
-- **Bouwbesluit (sinds 2024)** vereist brandwerende kabeldoorvoer voor zonnepanelen-installaties op gestapelde bouw — relevant voor portiekwoningen en VVE's.
-- **Geluidnorm warmtepomp** (Bouwbesluit + gemeentelijke verordening): 40 dB op erfgrens dag, 35 dB nacht. In binnenstad strenger gehandhaafd. Lees [warmtepomp geluid buren norm](/posts/warmtepomp-geluid-buren-2026-norm/).
-- **Vergunningplicht** in beschermd stadsgezicht voor warmtepomp-buitenunit ook bij plaatsing in achtertuin. Behandeling 8-12 weken.
-
-Reken in Amsterdam altijd 4-6 extra weken voor vergunningen bij investeringsplanning.
-
-## Wanneer is een Amsterdam-aanvraag NIET de moeite waard?
-
-Eerlijke afweging:
-
-- **Verhuisplan binnen 3 jaar:** lening is gebonden aan eigenaar, vervalt bij verkoop maar restschuld komt op je. Reken goed na.
-- **Klein appartement zonder zelf dak:** zonnepanelen niet mogelijk individueel; VVE-besluit duurt vaak >18 maanden. Investeer dan liever in coöperatie (Amsterdam Energie).
-- **Investering onder €3.000:** subsidie loont, maar tijd in voorbereiding (Energiecoach, label, aanvraag) staat niet altijd in verhouding tot €500-€750 subsidie.
-- **Laag inkomen + huurder:** Energiebox geeft slechts €500 — vergeet niet dat woningcorporatie verantwoordelijk is voor structurele isolatie en zonnepanelen op huurwoning. Lees [zonnepanelen sociale huur stappenplan](/posts/zonnepanelen-sociale-huur-stappenplan-2026/).
-- **VVE-pand zonder consensus:** zonder 2/3 meerderheid loopt elk VVE-traject vast. Investeer eerst in draagvlak, dan pas in techniek.
-
-## Uitgewerkt rekenvoorbeeld: VVE met 14 woningen
-
-Ook dit is een **modelberekening**, niet een gerapporteerd project. Aannames: een VVE in Amsterdam-West, 14 appartementen, bouwjaar 1932 en gemeentelijk monument, plat dak van 220 m². Plan: 60 zonnepanelen, collectieve hybride warmtepompen en dakisolatie van binnenuit (welstand staat isolatie aan de buitenzijde niet toe).
-
-Aangenomen investering: €178.000 totaal (€12.700 per woning).
-
-Maximaal aan te vragen bedragen bij dit pakket:
-- Amsterdam VVE-aanjaag: €25.000
-- Amsterdam Monumenten Verduurzamingsfonds: €18.500
-- NH VVE-fonds: €18.000
-- ISDE warmtepomp collectief: €19.600
-- Amsterdam Energielening 0%: €70.000
-
-Totale subsidie in dit model: €81.100, ofwel 45,6% van de investering. Resterende eigen investering per woning: €6.920. Maandlast van de lening bij deze aannames: €52 per woning over 12 jaar. Aangenomen maandbesparing per woning: €78, uitgaande van het wegvallen van gas en directe consumptie van de zonnestroom na de salderingsstop.
-
-Reken voor een VVE-traject van deze omvang op ruim een jaar tussen het eerste VVE-besluit en de oplevering: de besluitvorming met 2/3 meerderheid, de vergunningen in beschermd stadsgezicht en de subsidiebeschikkingen lopen achtereenvolgens.
-
-## Aanbevolen werkwijze in zes stappen
-
-Om alle regelingen te benutten zonder er één te missen, is een vaste volgorde het handigst: (1) inventariseer de pand-status — bouwjaar, label, monument- of stadsgezichtstatus, wijkstatus aardgasvrij; (2) breng alle regelingen in kaart waarvoor je in aanmerking komt, met hun actuele budgetstatus; (3) vraag een energielabel aan als vertrekpunt voor de labelsprong; (4) haal offertes op bij minimaal twee installateurs; (5) dien de aanvragen in de juiste volgorde in, altijd vóór uitvoering; (6) controleer facturen en houd de uitbetaling bij. De grootste winst zit in stap 2 en 5: met elf verschillende regelingen is het overzicht zelf het lastigste onderdeel.
-
-## Combineren met landelijke fiscale voordelen
-
-Naast subsidies kunt u in Amsterdam profiteren van fiscale aftrekposten die elders ook gelden, maar met grotere impact in deze stad door hogere WOZ-waarden:
-
-- **Box 1 hypotheekrenteaftrek** op verduurzamings­hypotheekverhoging (max 106% WOZ-waarde). Jaarlijkse besparing afhankelijk van schijf: €350-€900.
-- **NSL nul-emissie-aftrek** voor wagenpark (relevant voor laadpaal-installatie thuis). Lees [beste laadpaal thuis](/posts/beste-laadpaal-thuis-2026/).
-- **Box 3 vrijstelling groen sparen** als je via groene leningen financiert. Niet meer alle banken bieden dit aan, maar Triodos en ASN nog wel.
-- **WOZ-effect:** verduurzaming verhoogt WOZ na taxatie. Houd rekening met hogere OZB-aanslag (1-3% WOZ jaarlijks). Per saldo bijna altijd positief, maar relevant voor cashflow.
-
-## Conclusie: subsidie kan tot €5.000+ per huishouden
-
-Amsterdam is voor verduurzaming in 2026 één van de meest subsidievriendelijke gemeenten in Nederland. Voor de gemiddelde rijtjeshuiseigenaar: €3.000-€5.500 aan combineerbare subsidies + 0% lening. Dat verandert de TCO van een verduurzamings-pakket dramatisch.
-
-Onze aanbevelingen:
-1. **Vraag energiecoach aan** (gratis)
-2. **Plan integraal verduurzamen** voor maximale subsidie
-3. **Vraag VOOR uitvoering** aan
-4. **Combineer alle regelingen** (gemeente + provincie + landelijk)
-5. **Documenteer label-sprong** voor hogere bedragen
-6. **Overweeg 0% Amsterdam Energielening** voor financiering
-
-Voor verdere lezing: [provincie subsidies overzicht](/posts/provincie-subsidies-zonnepanelen-overzicht-2026/), [Rotterdam energietransitie](/posts/rotterdam-energietransitie-subsidies-2026/), [zonnepanelen subsidie Nederland](/posts/zonnepanelen-subsidie-nederland-2026/), [ISDE subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/) en [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/).
+Verder lezen: [provincie subsidies overzicht](/posts/provincie-subsidies-zonnepanelen-overzicht-2026/), [Rotterdam energietransitie subsidies](/posts/rotterdam-energietransitie-subsidies-2026/), [zonnepanelen subsidie Nederland](/posts/zonnepanelen-subsidie-nederland-2026/), [ISDE subsidie warmtepompen](/posts/isde-subsidie-warmtepompen-2026/) en [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/).

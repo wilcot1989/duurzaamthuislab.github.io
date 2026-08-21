@@ -1,8 +1,8 @@
 ---
-title: 'Zonnepanelen Sociale Huur 2026: Stappenplan Voor Huurders'
+title: 'Zonnepanelen in sociale huur 2026: stappenplan voor huurders'
 date: 2026-07-18 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: 'Zonnepanelen op je sociale huurwoning: wat zijn je rechten, hoe vraag je het aan, en wat zijn alternatieven? Stappenplan voor huurders bij woningcorporaties in 2026.'
+lastmod: 2026-08-21 08:00:00+02:00
+description: 'Wat je als huurder van een corporatiewoning wél en niet kunt afdwingen bij zonnepanelen, welke drie routes er zijn, hoe de energieprestatievergoeding werkt en waar aanvragen op stranden.'
 draft: false
 categories:
 - subsidies
@@ -17,9 +17,8 @@ keywords:
 - woningcorporatie zonnepanelen
 - huurder zonnepanelen aanvragen
 - zonnepanelen huurwoning rechten
-- sociale huur duurzaam
+- energieprestatievergoeding
 - woningcorporatie verduurzaming
-- huurverlaging zonnepanelen
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1542621334-a254cf47733d&w=1200&output=webp&q=70
@@ -27,389 +26,151 @@ schema_type: Article
 affiliate: false
 faq:
 - q: 'Mag mijn corporatie zonnepanelen weigeren?'
-  a: 'Sinds 1 januari 2024 mag een corporatie zonnepanelen niet meer weigeren bij gezamenlijk eigen-financiering of bij investeringsverzoek van huurders, mits het pand technisch geschikt is. Wel kan procedure 6-12 maanden duren.'
+  a: 'Er bestaat geen wet die een corporatie verplicht om zonnepanelen te plaatsen. Wel regelt artikel 7:215 BW dat je als huurder veranderingen mag aanbrengen: voor veranderingen die zonder noemenswaardige kosten ongedaan te maken zijn heb je geen toestemming nodig, voor de rest wel. Weigert de verhuurder, dan kun je de kantonrechter om vervangende machtiging vragen. Dat is een gerechtelijke route, geen automatisch recht.'
 - q: 'Wie betaalt en wie krijgt de opbrengst?'
-  a: 'Bij corporatie-investering: corporatie betaalt en jij betaalt servicekosten + krijgt energiebesparing. Bij eigen-investering: jij betaalt en houdt 100% opbrengst, maar bij verhuizing soms terugkoopregeling.'
-- q: 'Wat is het Hoogvliet-arrest?'
-  a: '2018 uitspraak waarin Hof bepaalde dat huurder zonnepanelen op gehuurde dak mag plaatsen mits niet schade aan eigendom verhuurder. Versterkte huurdersrechten — basis voor latere wetgeving.'
-- q: 'Hoeveel verlaag ik mijn energiekosten?'
-  a: 'Bij standaard sociale huurwoning met 8-12 panelen: €350-€600/jaar besparing op stroomrekening. Voor de meeste sociale huurders aanzienlijk in vergelijking met inkomen.'
-- q: 'Kan ik servicekosten betalen voor zonnepanelen?'
-  a: Ja, vaak zo geregeld bij corporatie-installaties. €5-€15/maand servicekosten erbij, €30-€50/maand besparing op energie. Netto positief voor huurder.
-- q: 'Bij verhuizing: wat gebeurt er?'
-  a: 'Bij corporatie-investering: panelen blijven in pand. Bij eigen investering: vaak terugkoopregeling met corporatie tegen restwaarde, of overdracht aan nieuwe huurder met bijbehorende vergoeding.'
-- q: 'Mijn corporatie zegt: niet in dit kalenderjaar'
-  a: 'Acceptabel als bij overzichtelijke planning. Niet acceptabel als oneindig uitgesteld. Vraag concrete jaarsplanning.'
-- q: 'Mijn dak is nog niet geïsoleerd'
-  a: 'Combineer aanvragen. Vaak wordt isolatie + zonnepanelen samen aangepakt door corporatie.'
-- q: 'Ik wil over 2 jaar verhuizen'
-  a: 'HBI vaak niet rendabel bij korte resterende huurperiode. Wel rendabel als corporatie het oplost (geen voorinvestering).'
-- q: 'Mijn huurinkomen is laag'
-  a: 'Energiebespaarlening 0% van Warmtefonds heeft inkomensgrens. Onder die grens dus 0% rente — extra gunstig.'
-- q: 'Mijn complex is een rijksmonument'
-  a: 'Lees [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/). Speciale procedure nodig.'
-products:
-- name: Zonneplan zonnepanelen
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '5500'
-- name: Coolblue zonnepanelen
-  url: https://www.coolblue.nl/zonnepanelen
-  price: '5800'
-- name: Frank Energie
-  url: https://www.frankenergie.nl/
-  price: '0'
+  a: 'Investeert de corporatie, dan betaal je doorgaans een energieprestatievergoeding of servicekosten en profiteer je van de lagere stroomrekening. Investeer je zelf, dan houd je de volledige opbrengst maar draag je ook het risico bij verhuizing. Leg in beide gevallen schriftelijk vast wat er bij verhuizing met de installatie gebeurt.'
+- q: 'Wat is de energieprestatievergoeding (EPV)?'
+  a: 'Een vergoeding die een verhuurder mag vragen voor een woning met een zeer goede energieprestatie, bovenop de kale huur. De EPV wordt uitgedrukt per vierkante meter per maand, met een maximum dat afhangt van de energieprestatie van de woning — het is nadrukkelijk geen bedrag per kWh. De actuele maxima staan in de regeling zelf; vraag je corporatie om de berekening bij jouw woning.'
+- q: 'Kan ik als huurder de btw op zonnepanelen terugvragen?'
+  a: 'Nee. Sinds 1 januari 2023 geldt het nultarief btw op zonnepanelen voor woningen; er is dan geen btw meer om terug te vragen. De oude teruggaveroute gold bovendien voor de eigenaar van de installatie in de rol van ondernemer, niet voor huurders in het algemeen.'
+- q: 'Kan ik ISDE aanvragen als huurder?'
+  a: 'ISDE is bedoeld voor eigenaar-bewoners van de eigen woning, en dekt bovendien geen zonnepanelen. Voor huurders is de landelijke route dus beperkt; kijk naar gemeentelijke regelingen en naar wat je corporatie zelf aanbiedt.'
+- q: 'Wat gebeurt er bij verhuizing met panelen die ik zelf heb betaald?'
+  a: 'Dat hangt volledig af van wat je vooraf hebt afgesproken. Er zijn drie gangbare varianten: meenemen en herplaatsen, overdragen aan de corporatie tegen een vooraf afgesproken restwaardeformule, of overdragen aan de volgende huurder. Zonder schriftelijke afspraak vooraf sta je bij verhuizing zwak.'
+- q: 'Verandert er iets door het einde van de saldering?'
+  a: 'Ja. De salderingsregeling stopt per 1 januari 2027 volledig; er is geen afbouwpad in stappen. Vanaf dat moment is de stroom die je direct zelf verbruikt duidelijk meer waard dan de stroom die je teruglevert. Voor kleine installaties op een huurwoning betekent dat: het aandeel eigen verbruik bepaalt het rendement.'
+- q: 'Mijn complex is een monument — kan het dan wel?'
+  a: 'Dat vraagt een aparte procedure met welstand en de monumentenregels. Lees [zonnepanelen monumentaal pand](/posts/zonnepanelen-monumentaal-pand-2026/).'
 ---
-"Zonnepanelen — dat geldt toch alleen voor mensen met een eigen huis?" Het is een van de meest hardnekkige misvattingen in de sociale huur. In werkelijkheid hebben huurders sinds 2024 aanzienlijk sterkere rechten, en hebben veel corporaties al een verduurzamingsplan voor hun complexen liggen waar huurders niets van weten.
 
-De rekensom is voor huurders vaak gunstig: bij een corporatie-installatie van 8 tot 12 panelen komen er servicekosten of een EPV-bijdrage van ongeveer €5 tot €15 per maand bij, terwijl de stroomrekening met €30 tot €50 per maand daalt. Netto blijft er dus geld over — zonder eigen investering.
+*Disclosure: dit artikel bevat geen affiliate-links. Wij hebben met woningcorporaties, verhuurders of installatiepartijen geen commerciële relatie.*
 
-Hieronder het complete stappenplan voor huurders in sociale huur die zonnepanelen willen: je rechten, de vier routes, de aanvraagprocedure en de valkuilen.
+"Zonnepanelen — dat is toch alleen voor mensen met een koopwoning?" Het is een van de hardnekkigste misvattingen in de sociale huur, en hij klopt niet. Wat wél klopt: de route loopt anders, duurt langer en hangt sterker af van je corporatie dan van jezelf.
 
-*Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partij geen affiliate- of commissierelatie.*
+Dit artikel zet op een rij wat je juridisch kunt vragen, welke drie routes er in de praktijk zijn, en waar aanvragen op stranden. Wij noemen bewust geen bedragen per corporatie of per gemeentelijke regeling: die verschillen per complex en per aanvraagronde, en een verkeerd bedrag kost je hier direct geld.
 
+> **Kort antwoord:** er is geen wet die je corporatie verplicht panelen te plaatsen, maar artikel 7:215 BW geeft je wel het recht om veranderingen aan te brengen — met toestemming, en bij weigering via de kantonrechter. In de praktijk zijn er drie routes: de corporatie investeert (meest voorkomend), je investeert zelf met schriftelijke toestemming, of je stapt in een lokaal energieproject. Begin altijd met een schriftelijk verzoek en de vraag of jouw complex in het verduurzamingsplan zit.
 
-> **Kort antwoord:** Zonnepanelen op je sociale huurwoning: wat zijn je rechten, hoe vraag je het aan, en wat zijn alternatieven? Stappenplan voor huurders bij woningcorporaties in 2026.
->
-> Sinds 1 januari 2024 mag een corporatie zonnepanelen niet meer weigeren bij gezamenlijk eigen-financiering of bij investeringsverzoek van huurders, mits het pand technisch geschikt is. Wel kan procedure 6-12 maanden duren.
+## Je rechten: wat er wel en niet staat
 
-## Wat zijn je rechten als huurder?
+Hier gaat veel informatie op internet mis, met verwijzingen naar wetten en arresten die niet bestaan. Dit is wat er wél is:
 
-### Wettelijk kader
+**Artikel 7:215 BW — veranderingen aanbrengen.** Als huurder mag je veranderingen aan de woning aanbrengen. Voor veranderingen die je bij het einde van de huur zonder noemenswaardige kosten ongedaan kunt maken, heb je geen toestemming nodig. Voor ingrijpender veranderingen — en een dakinstallatie valt daar in de regel onder — heb je toestemming van de verhuurder nodig. Weigert die, dan kun je de kantonrechter om een vervangende machtiging vragen. Die weegt onder meer of de verandering de verhuurbaarheid niet schaadt en de waarde niet vermindert.
 
-Sinds 2024 zijn huurdersrechten significant uitgebreid:
-- **Huur Beleid Investeringsverklaring (HBI)**: huurder mag investeren in eigen verduurzaming
-- **Recht op verduurzamings-overleg**: corporatie moet jaarlijks gesprekken plannen
-- **Niet weigeren tenzij technisch onmogelijk**: pand-technische redenen alleen geldig
+**Wat je in de praktijk kunt vragen en meestal krijgt:**
 
-Dit gebaseerd op:
-- Hoogvliet-arrest (2018) — huurder mag plaatsen mits geen schade
-- Wet Goed Verhuurderschap (2023) — verplichtingen verhuurder
-- Energieprestatievergoeding (EPV) regelingen
+- Een schriftelijk antwoord op een schriftelijk verzoek.
+- Inzage in de vraag of jouw complex in het verduurzamingsplan van de corporatie zit, en zo ja: wanneer.
+- Een gemotiveerde afwijzing als het antwoord nee is, met de technische onderbouwing erbij.
 
-### Wat kan ik EISEN?
+**Wat je niet kunt afdwingen:**
 
-- Een gesprek over verduurzamings-mogelijkheden
-- Inzage in corporatie's verduurzamings-plan voor jouw complex
-- Tijdsindicatie wanneer mijn complex aan de beurt is
-- Schriftelijke afwijzing bij weigering (met motivatie)
+- Dat de corporatie op korte termijn investeert.
+- Een specifiek merk, een specifieke installateur of een specifiek aantal panelen.
+- Financiering tegen voorwaarden die jij bepaalt.
 
-### Wat kan ik NIET eisen?
+Dat onderscheid is belangrijk. Het gesprek verloopt beter als je vraagt om informatie en planning dan als je begint met een beroep op rechten die niet bestaan.
 
-- Onmiddellijke installatie tegen wens corporatie
-- Specifieke merk-keuze
-- Financiering tegen specifieke voorwaarden
+## Route 1: de corporatie investeert
 
-## Twee routes: corporatie-investering of eigen-investering
+Dit is de meest voorkomende route en meestal de gunstigste voor de huurder, omdat er geen eigen investering en geen risico tegenover staat. De corporatie plaatst panelen op het complex; jij betaalt een energieprestatievergoeding of een bedrag via de servicekosten, en je stroomrekening daalt.
 
-### Route 1: Corporatie investeert
+**Voordelen:** geen voorinvestering, onderhoud en vervanging voor rekening van de corporatie, en geen gedoe bij verhuizing.
 
-Meest voorkomend. Corporatie betaalt installatie. Huurder betaalt servicekosten of huur-verhoging.
+**Nadelen:** je hebt geen invloed op timing, merk of aantal, en de wachttijd wordt bepaald door de planning van de corporatie — reken op maanden tot jaren, niet op weken.
 
-**Voordelen:**
-- Geen voorinvestering huurder
-- Onderhoud door corporatie
-- Vervanging defect = corporatie
+**Hoe je dit versnelt:** collectief. Een bewonerscommissie of huurdersvereniging heeft meer gewicht dan een individuele huurder, en gemeenten maken prestatieafspraken met corporaties waarin verduurzaming een rol speelt. Een complex dat via die weg naar voren wordt geschoven, schuift doorgaans op met een planningsronde — het is geen kwestie van weken.
 
-**Nadelen:**
-- Vaak langere wachttijd (planning corporatie)
-- Beperkte keuze (corporatie kiest leverancier)
-- Soms niet alle huizen in complex
+### Hoe de energieprestatievergoeding werkt
 
-### Route 2: Huurder investeert (HBI)
+De EPV is een aparte vergoeding bovenop de kale huur, bedoeld voor woningen met een zeer goede energieprestatie. Twee dingen die vaak verkeerd worden weergegeven:
 
-Sinds 2024 expliciet toegestaan. Huurder regelt en betaalt zelf. Corporatie geeft toestemming en houdt panelen tijdens huurperiode.
+- **De EPV is een bedrag per vierkante meter per maand**, met een maximum dat afhangt van de energieprestatie van de woning. Het is geen bedrag per opgewekte kWh.
+- **De EPV vervalt als de prestatie niet wordt geleverd.** Werkt de installatie niet, dan hoort de vergoeding daarop te worden aangepast. Dat is een belangrijk verschil met een huurverhoging, die gewoon doorloopt.
 
-**Voordelen:**
-- Snelle realisatie
-- 100% energiebesparing voor huurder
-- Eigen keuze panelen/installateur
+Vraag je corporatie om de EPV-berekening voor jouw woning en om de afspraak over wat er gebeurt bij storing. Vraag ook expliciet naar het effect op huurtoeslag: de samenstelling van je woonlasten verandert, en dat kun je beter vooraf doorrekenen dan achteraf ontdekken.
 
-**Nadelen:**
-- €3.500-€5.500 voorinvestering
-- Bij verhuizing: terugkoopregeling of waardeverlies
-- Onderhoud verantwoordelijkheid huurder
+## Route 2: je investeert zelf
 
-## Stappenplan corporatie-route
+Kan, maar alleen met schriftelijke toestemming en met een goede afspraak over het einde van de huur.
 
-### Stap 1: Brief naar corporatie
+**Stap 1 — schriftelijk verzoek.** Zet erin: op welk dakvlak, welke installateur, welke specificaties, hoe de bevestiging gebeurt, welke garanties er zijn en hoe het zit met de verzekering. Hoe concreter het verzoek, hoe kleiner de kans op een afwijzing "bij gebrek aan informatie".
 
-Schriftelijk verzoek. Voorbeeld:
+**Stap 2 — leg het wegneemrecht vast.** Dit is het punt waarop huurders geld verliezen. Spreek vóór de installatie schriftelijk af wat er bij verhuizing gebeurt: meenemen, overdragen aan de corporatie tegen een vooraf afgesproken restwaardeformule, of overdragen aan de volgende huurder. Zonder die afspraak sta je bij vertrek met lege handen.
 
-```
-Geachte [naam corporatie],
+**Stap 3 — offertes.** Vraag er meerdere op en let bij een huurwoning specifiek op: past het op de bestaande meterkast, is de montage licht genoeg voor het dak, is de garantie overdraagbaar, en is demontage mogelijk zonder dakschade.
 
-Ik woon sinds [jaar] in [adres]. Ik wil graag zonnepanelen op mijn dak.
-Kunt u aangeven:
-1. Of mijn complex in een verduurzamings­plan zit?
-2. Wanneer dit gepland staat?
-3. Welke procedure ik kan volgen voor versnelling?
+**Stap 4 — financiering.** De Energiebespaarlening van het Nationaal Warmtefonds staat ook open voor huurders; de voorwaarden en rentes staan op de site van het Warmtefonds en verschillen per situatie en inkomen. Reken de maandlast van de lening af tegen de verwachte besparing, en doe dat met de situatie ná de salderingsstop.
 
-Graag antwoord binnen 4 weken.
+**Stap 5 — aanmelden.** Meld de installatie aan bij je netbeheerder en geef de wijziging door aan je energieleverancier.
 
-Met vriendelijke groet,
-[Naam]
-```
+**Waar dit op stuit:** de investering, en het risico bij verhuizing. Bij een resterende huurperiode van een paar jaar loopt de rekensom vrijwel nooit rond.
 
-### Stap 2: Antwoord beoordelen
+## Route 3: een lokaal energieproject
 
-Mogelijke antwoorden:
-- **"Gepland 2025-2027"**: wachten of versnellings-aanvraag
-- **"Niet gepland"**: doorvragen — wel/niet technisch mogelijk?
-- **"Niet mogelijk"**: motivatie eisen, eventueel HBI-route
+Kan het niet op jouw dak — geen geschikt dakvlak, gedeeld dak, weigering op technische grond — dan blijft deelname aan een lokaal energieproject over. Je koopt een of meer participaties in een coöperatie die panelen op een groot dak legt, en krijgt daar een uitkering of korting voor.
 
-### Stap 3: Vergaderingen complex
+De fiscale regeling hierachter is de **SCE** (Subsidieregeling Coöperatieve Energieopwekking). De oude postcoderoosregeling is voor nieuwe deelnemers gesloten en daardoor vervangen. Wat een deelname oplevert, verschilt sterk per project: vraag altijd het verwachte rendement, de looptijd en de voorwaarden bij uitstappen op. Een participatie is geen spaarrekening — de opbrengst hangt af van de productie en de energieprijs.
 
-Bij meer huurders met dezelfde wens: verzamelaars-actie. Bewonerscommissie heeft meer invloed dan individuele huurder.
+Corporaties stellen hun daken hier soms voor beschikbaar. Vraag ernaar; het is een route die zelden actief wordt aangeboden.
 
-### Stap 4: Akkoord onderhandelen
+## Modelberekening: wat een corporatie-installatie doet
 
-Bij installatie via corporatie:
-- Servicekosten of huurverhoging
-- Aantal panelen per woning
-- Welke leverancier
-- Onderhouds-regeling
+Onderstaande berekening is een **modelberekening met aannames**, geen praktijkgeval en geen toezegging over wat jouw corporatie doet.
 
-### Stap 5: Installatie
+Aannames: zeven panelen op een portiekwoning, aangenomen opbrengst 2.400 kWh per jaar, aangenomen leveringstarief €0,30 per kWh, aangenomen aandeel direct eigen verbruik 45 procent.
 
-Door corporatie ingehuurde installateur. Doorlooptijd typisch 4-8 weken na akkoord.
+| Post | 2026, met saldering | Vanaf 2027, zonder saldering (aanname terugleververgoeding €0,09/kWh) |
+|---|---|---|
+| Zelf verbruikt (1.080 kWh) | €324 | €324 |
+| Teruggeleverd (1.320 kWh) | €396 | €119 |
+| Bruto jaarvoordeel | €720 | €443 |
+| Per maand | €60 | €37 |
 
-### Stap 6: Eindafrekening
+Daar gaat de EPV of de servicekostenbijdrage vanaf. Of het netto positief uitpakt, hangt dus volledig af van de hoogte van die bijdrage — en dat is precies het getal dat je bij je corporatie moet opvragen voordat je akkoord gaat. Wat het model ook laat zien: **na de salderingsstop halveert de waarde van het teruggeleverde deel bijna.** Verbruik verschuiven naar de dag is voor huurders daarmee de goedkoopste optimalisatie die er is.
 
-Sommige corporaties geven eerste 2 jaar 100% energiebesparing aan huurder, daarna fasing. Lees voorwaarden goed.
+## Saldering: wat er per 1 januari 2027 verandert
 
-## Stappenplan eigen investering (HBI)
+**De salderingsregeling stopt per 1 januari 2027 volledig.** Er is geen afbouw in percentages en geen overgangsjaar: het wetsvoorstel met stapsgewijze afbouw is verworpen.
 
-### Stap 1: Toestemming corporatie aanvragen
+Voor huurders met een eigen aansluiting betekent dat hetzelfde als voor eigenaren: teruggeleverde stroom levert vanaf dat moment een terugleververgoeding op in plaats van verrekening tegen je leveringstarief. Heb je blokverwarming of een gedeelde meter, dan speelt saldering voor jou sowieso niet — vraag dan bij je corporatie na of een individuele aansluiting mogelijk is en wat dat kost.
 
-Schriftelijk verzoek met:
-- Plaatsing op welke dak
-- Welke installateur
-- Specificaties panelen
-- Verzekering en garanties
+## Vijf fouten die huurders geld kosten
 
-Corporatie heeft 8 weken antwoord-termijn. Mag alleen weigeren bij technische onmogelijkheid (lekkagerisico, dakconstructie te zwak).
+**Alleen mondeling vragen.** Een mondelinge toezegging is bij een personeelswissel verdwenen. Mail of brief, en bewaar het antwoord.
 
-### Stap 2: Installateur kiezen
+**Zelf plaatsen zonder schriftelijke toestemming.** Dat levert een reëel risico op gedwongen verwijdering op eigen kosten op, plus discussie over dakschade.
 
-Vraag offertes bij minimaal 3 installateurs. Speciale aandachtspunten bij sociale huur:
-- Aansluiting op bestaande meterkast (vaak compact)
-- Mogelijkheid tot verwijdering bij verhuizing
-- Garantie overdraagbaar
-- Lichte montage (geen ingrijpende dakvernieuwing)
+**Geen afspraak over verhuizing.** De duurste fout bij eigen investering.
 
-Aanbevolen: <a href="https://go.duurzaamthuislab.nl/zonneplan" target="_blank" rel="nofollow noopener">Zonneplan</a> heeft specifiek pakketten voor huurders. Coolblue ook geschikt.
+**Het effect op de woonlasten niet doorrekenen.** EPV of servicekosten erbij, energiekosten eraf. Vraag beide getallen op en reken ze naast elkaar, inclusief het effect op huurtoeslag.
 
-### Stap 3: Financiering
+**Uitgaan van subsidies die niet voor huurders gelden.** ISDE is voor eigenaar-bewoners en dekt geen panelen; btw valt niet meer terug te vragen. Wat wél kan bestaan, zijn gemeentelijke regelingen — check die via de [Energiesubsidiewijzer van Milieu Centraal](https://www.verbeterjehuis.nl/energiesubsidiewijzer/).
 
-Opties:
-- **Eigen spaargeld**: het simpelst
-- **Energiebespaarlening (Nationaal Warmtefonds)**: 1,5-3% rente, looptijd 7-15 jaar
-- **Persoonlijke lening**: 4-6% rente, geen specifieke voorwaarden
-- **Crowdfunding (Solideo, ZonnepanelenDelen)**: 3-5%, beperkt beschikbaar
+## Wanneer het niet loont
 
-Voor huurders is Energiebespaarlening vaak gunstigst.
+- **Verhuisplan binnen enkele jaren** bij eigen investering: de terugverdientijd is langer dan je resterende huurperiode.
+- **Complex op de nominatie voor sloop of grootonderhoud:** de corporatie investeert daar niet meer, en jouw eigen investering gaat verloren.
+- **Gedeeld dak zonder eigen dakvlak:** coördinatie tussen meerdere huishoudens loopt zelden rond. De route via een lokaal energieproject of een plug-in set op balkon of tuin is dan realistischer.
+- **Zeer klein toegewezen dakdeel:** onder een paar vierkante meter blijft er te weinig vermogen over om de vaste kosten van een installatie te dragen.
 
-### Stap 4: Installatie
-
-3-5 weken doorlooptijd na bestelling.
-
-### Stap 5: Inschrijven net
-
-Liander/Stedin/Enexis melding. Salderingsregeling activeren via energieleverancier (zie [Frank Energie](/posts/frank-energie-review-ervaringen-2026/) of [Tibber](/posts/tibber-review-ervaringen-2026/)).
-
-### Stap 6: Documentatie bewaren
-
-Voor latere terugkoop bij verhuizing of overdracht aan opvolgend huurder.
-
-## Bij verhuizing: wat gebeurt er?
-
-### Corporatie-installatie
-
-Panelen blijven in woning. Niets verandert voor jou — verhuist met huur naar nieuw adres.
-
-### Eigen investering — drie scenario's
-
-**A: Verwijderen en meenemen**
-- Demontage door installateur (€800-€1.500)
-- Herinstallatie nieuwe woning (€1.000-€1.800)
-- Dak van oude woning herstellen
-- Vaak niet rendabel
-
-**B: Verkopen aan corporatie**
-- Restwaarde berekenen (typische afschrijving 4% per jaar)
-- Voorbeeld: €5.000 investering, 5 jaar oud → restwaarde €4.000
-- Corporatie koopt over en panelen blijven
-
-**C: Verkopen aan opvolgend huurder**
-- Onderhandeling met nieuwe huurder
-- Marktconforme prijs (vraag-aanbod)
-- Vaak makkelijkst via corporatie als bemiddelaar
-
-Onze aanbeveling: leg vooraf schriftelijk vast wat de regeling is bij verhuizing. Dat voorkomt onenigheid achteraf.
-
-## Drie typische uitkomsten, doorgerekend
-
-De bedragen hieronder zijn **rekenvoorbeelden** op basis van de tarieven en voorwaarden uit dit artikel; jouw uitkomst hangt af van corporatie, complex en stroomtarief.
-
-### Scenario 1: collectief verzoek, corporatie investeert
-
-Meerdere huurders in één portiek vragen tegelijk om zonnepanelen. Is het complex nog niet in het verduurzamingsplan opgenomen, dan helpt het om via de bewonerscommissie de gemeente te betrekken — die heeft prestatieafspraken met de corporatie. Een complex dat op deze manier vooruit wordt geschoven, is doorgaans een jaar tot anderhalf jaar later aan de beurt.
-
-Uitkomst per woning bij 7 panelen: circa €8 servicekosten erbij, circa €38 lagere energiekosten. Netto ongeveer €30 per maand voordeel, zonder eigen investering.
-
-### Scenario 2: eigen investering via de HBI-route
-
-Een huurder vraagt zelf toestemming (antwoordtermijn 8 weken) en laat 9 panelen plaatsen voor circa €4.200, gefinancierd met een Energiebespaarlening tegen 1,8% over 10 jaar — circa €38 per maand aan rente en aflossing. Tegenover een energiebesparing van ongeveer €52 per maand blijft er tijdens de looptijd zo'n €14 per maand over; na afloop van de lening loopt dat op naar het volle besparingsbedrag.
-
-### Scenario 3: weigering wegens dakconstructie
-
-Weigert de corporatie op technische grond, vraag dan altijd de onderbouwing op. Bij oudere portiekflats is "het dak kan de extra ballast niet dragen" een reële en toetsbare reden — laat dat vastleggen in een bouwfysisch rapport op kosten van de corporatie. Blijkt de weigering terecht, vraag dan naar alternatieven: voorrang bij een renovatie- of nieuwbouwtraject met geïntegreerde panelen, of deelname aan een coöperatief dak (zie route 4).
-
-## Subsidies voor huurders
-
-### Energiebespaarlening Nationaal Warmtefonds
-
-- Voor huurders sinds 2023 expliciet beschikbaar
-- 1,5-3% rente
-- Looptijd 7-15 jaar
-- Voor zonnepanelen, isolatie, warmtepomp
-
-### Gemeentelijke regelingen
-
-Sommige gemeenten (Amsterdam, Utrecht, Den Haag, Rotterdam) hebben specifieke huurder-regelingen:
-- Amsterdam: "Energiebox" subsidie €500-€1.500
-- Utrecht: "Huurders Verduurzaming" tot €2.000
-
-Lees [Amsterdam duurzaam wonen subsidies](/posts/amsterdam-duurzaam-wonen-subsidies-2026/) en [Rotterdam energietransitie subsidies](/posts/rotterdam-energietransitie-subsidies-2026/).
-
-### Energiezuinig huren-traject corporaties
-
-Veel corporaties bieden 0% rente leningen aan huurders voor verduurzaming. Vraag bij eigen corporatie!
-
-## Combinatie met dynamisch contract
-
-Bij eigen investering: switch naar [Tibber](/posts/tibber-review-ervaringen-2026/) of [Frank Energie](/posts/frank-energie-review-ervaringen-2026/) na installatie. Geeft 10-30% extra besparing.
-
-Bij corporatie-investering: meestal "saldering tussen huurder en corporatie" geregeld. Lees voorwaarden zorgvuldig.
-
-## Saldering 2027 en huurders
-
-Met afbouw saldering verdwijnt deel van het voordeel. Maar het gaat lineair: jouw 9 panelen besparen nog steeds energie. Verlies typisch €80-€150/jaar minder besparing in 2030 dan in 2026.
-
-Lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).
-
-## Conclusie: actie loont
-
-Sociale huurders hebben in 2026 sterkere rechten dan ooit voor zonnepanelen op hun woning. Twee duidelijke routes (corporatie of HBI), beide met substantiele energiebesparing.
-
-Onze aanbevelingen:
-1. **Vraag ALTIJD je corporatie**: vaak is plan al gepland of in werking
-2. **Verzamel mede-huurders**: meer kracht in onderhandelingen
-3. **Eigen investering bij geduldig dak**: HBI-route geeft snelste resultaat
-4. **Combineer met isolatie**: synergie en grotere besparing
-5. **Documenteer alles**: voor verhuizing, garantie, claim
-
-Voor verdere lezing: [zonnepanelen subsidie Nederland](/posts/zonnepanelen-subsidie-nederland-2026/), [BTW teruggeven zonnepanelen](/posts/btw-teruggeven-zonnepanelen-2026-stappenplan/), [huurwoning zonnepanelen toestemming](/posts/huurwoning-zonnepanelen-toestemming/), [VVE zonnepanelen stappenplan](/posts/vve-zonnepanelen-stappenplan-2026/) en [energieleverancier overstappen](/posts/energieleverancier-overstappen-2026-stappenplan/).
-
-## Het echte obstakel is de financiering, niet de toestemming
-
-Wat in gesprekken tussen huurders, energiecoaches en corporaties telkens terugkomt: het grootste obstakel is bijna nooit "mag het van de corporatie", maar "wie betaalt het". Veel huurders gaan ervan uit dat zonnepanelen niet voor hen zijn omdat ze geen €5.000 hebben liggen — terwijl drie van de vier routes hieronder geen eigen investering van de huurder vragen. Het gaat er dus vooral om te weten welke route bij jouw corporatie beschikbaar is.
-
-Een veelvoorkomende uitkomst bij de corporatie-route: 6 panelen, geïnvesteerd door de corporatie, met een EPV-bijdrage van rond de €11 per maand op de huur tegenover een energiebesparing van rond de €54 per maand. Netto blijft er dan ruim €40 per maand over, zonder lening en zonder risico. De doorlooptijd is het geduldwerk: reken op maanden, niet weken.
-
-## Diepgang per route: wat staat er in 2026 open
-
-### Route 1: Corporatie investeert, geen huurverhoging
-
-- **Werkwijze**: corporatie krijgt SAH-subsidie (€500-€1.500/woning) + ISDE (warmtepomp gerelateerd) + provinciale fondsen
-- **Voor huurder**: 0 kosten, 100% besparing
-- **Aedes-leden corporaties**: vooral Ymere, Vivare, Wonen Limburg, Eigen Haard hanteren dit
-- **Wachttijd**: 6-18 maanden vanaf collectief plan
-
-### Route 2: Energieprestatievergoeding (EPV)
-
-- **Werkwijze**: corporatie investeert, huurder betaalt EPV €0,40/kWh tot maximum
-- **EPV-cap 2026**: €1,80/m² per maand voor energiezuinige nieuwbouw, lager voor aanpassing bestaand
-- **Voor huurder**: meestal 30-50% besparing op totaal energielast
-- **Aandachtspunt**: EPV is technisch een huurverhoging; huurprijs blijft vrijwel gelijk, maar onder huurpunten valt het anders
-
-### Route 3: Eigen investering huurder met "wegnemen-recht"
-
-- **Werkwijze**: huurder koopt panelen zelf (€2.500-€5.000), met schriftelijke toestemming corporatie en wegnemen-recht bij verhuizing
-- **Subsidies**: ISDE niet (alleen eigenaar-bewoner), gemeentelijke route soms wel
-- **BTW-teruggave**: huurder kan BTW terugvorderen via belastingdienst — €450-€1.000 — ook als huurder
-- **Risico**: bij verhuizing demonteren = werk + dakherstel ~€600
-
-### Route 4: Coöperatieve daken (Postcoderoosregeling)
-
-- **Werkwijze**: meedoen in lokale energiecoöperatie die op grote daken panelen plaatst
-- **Voor huurder**: aandelen kopen €100-€500 stuk, kortingen op energierekening
-- **NL-specifiek**: Postcoderoos-vrijstelling tot 2030, daarna naar saldering-regime
-- **Aedes-corporaties** stellen vaak hun daken beschikbaar voor coöperaties
-
-## Voorbeeldscenario: flat met gemeenschappelijk dak
-
-Situatie: een kleine sociale huurflat waarvan het dak gemeenschappelijk eigendom is. Een aanvraag voor eigen panelen op een balkon van 3 m² kan hier stranden op welstandsbeleid en op de constructie van het balkon zelf — beide legitieme weigeringsgronden.
-
-Alternatief in zo'n geval: deelnemen aan een lokale energiecoöperatie die panelen op een groot dak plaatst. Je koopt een paar aandelen (doorgaans €100 tot €500 per stuk) en krijgt jaarlijks een korting of uitkering op je energierekening. Wat dat oplevert, verschilt sterk per coöperatie en per project: vraag altijd het projectrendement en de looptijd op voordat je instapt, en let erop dat de Postcoderoos-vrijstelling tot 2030 loopt — daarna verandert het regime. Een coöperatief aandeel is geen spaarrekening: de opbrengst is afhankelijk van de productie en de energieprijs.
-
-## Veelgemaakte fouten
-
-**Fout 1: Niet schriftelijk vragen**
-Mondelinge toestemming is geen toestemming. Stuur altijd e-mail of brief; bewaar reactie.
-
-**Fout 2: Geen rekening houden met huurpuntenwaardering**
-Energielabel-verbetering kan WWS-punten verhogen, en in theorie de maximale huur. Vraag corporatie om schriftelijke bevestiging dat huur niet wordt verhoogd.
-
-**Fout 3: Eigen investering zonder wegnemen-clausule**
-Als huurder en corporatie geen wegnemen-recht afspreken, ben je bij verhuizing alles kwijt zonder vergoeding.
-
-**Fout 4: Geen energiecoach raadplegen**
-Bijna elke gemeente heeft gratis energiecoaches voor huurders. Zij weten precies welke routes bij welke corporatie werken.
-
-**Fout 5: SAH-subsidie aan huurder denken te kunnen uitkeren**
-SAH gaat naar corporatie, niet huurder. Druk via huurdersvereniging op corporatie om SAH-aanvraag te doen.
-
-## Wanneer NIET de moeite waard
-
-- **Verhuisplan binnen 2 jaar**: investering loopt niet rond
-- **Klein dakdeel toegewezen**: <8 m² is meestal te weinig
-- **Sociale huurwoning op slooplijst**: corporatie investeert niet meer in sloop-vaste woningen
-- **Volledig elektrisch verwarmen + lage temperatuur warmtepomp pending**: betere route is wachten op corporatie-renovatie en EPV combineren
-
-## Extra FAQ
+## Praktijkvragen
 
 **Wat is het verschil tussen huurverlaging en EPV?**
-Huurverlaging is structureel lager bedrag. EPV is een aparte vergoeding voor de extra investering in verduurzaming, die op de huurspecificatie als aparte regel staat. EPV vervalt bij niet-werken (defect zonnepanelen) — huurverlaging blijft.
+Een huurverlaging is een structureel lagere kale huur. Een EPV is een aparte vergoeding voor de energieprestatie van de woning, die als eigen regel op de specificatie staat en die hoort te vervallen als de prestatie niet wordt geleverd.
 
-**Krijg ik huurtoeslag terug als de huur verhoogt door EPV?**
-EPV telt niet mee voor huurtoeslag-berekening (ander criterium). De totale woonlast kan dus stijgen terwijl huurtoeslag gelijk blijft, maar de besparing op energie compenseert dit doorgaans.
+**Mijn corporatie biedt een zonneboiler aan in plaats van panelen — is dat hetzelfde?**
+Nee. Een zonneboiler of PVT-paneel levert warm water, geen elektriciteit. Dat verlaagt je gasverbruik of je warmwaterkosten, maar niet je stroomrekening. Vraag expliciet of het om PV-panelen gaat.
 
-**Wat als de corporatie alleen panelen voor zonneboiler aanbiedt, geen elektriciteit?**
-Dat is een PVT-paneel of zonneboiler. Die geeft geen stroom maar warm water. Voor douchen is dat winst, maar voor huishoudelijke stroom blijft je rekening hetzelfde. Vraag specifiek naar PV-panelen (elektriciteit).
+**Mijn dak is nog niet geïsoleerd — kan ik beide vragen?**
+Vraag ze in één verzoek. Corporaties plannen isolatie en panelen vaak in één ingreep per complex, en een gecombineerd verzoek past beter in die planning dan twee losse.
 
-## Voorbeeldscenario: appartement met VvE-dak
+**De corporatie zegt "dit kalenderjaar niet".** Dat is een acceptabel antwoord als er een concrete planning tegenover staat. Vraag om die planning op schrift. Een uitstel zonder jaartal is iets anders dan een planning.
 
-Situatie: een appartement op een hoge verdieping waarvan het dak gemeenschappelijk eigendom van de VvE is, zodat individuele panelen op dat dak niet zijn toegestaan.
+## Conclusie
 
-Route die dan overblijft: een plug-in zonnepaneelset op het balkon, met een formele aanvraag bij de VvE. Wat de kans op akkoord vergroot: een nette onderbouwing met foto's van de zichtbaarheid vanaf de straat, de bevestigingsmethode en het gewicht per balkon. Een VvE-besluit vraagt een vergadering en een meerderheid, dus reken op enkele maanden voorbereiding.
+Voor huurders is de vraag zelden "mag het" en bijna altijd "wie betaalt het en wanneer". Begin daarom met twee dingen: een schriftelijk verzoek met de vraag of je complex in het verduurzamingsplan zit, en contact met je bewonerscommissie of huurdersvereniging. Dat levert meer op dan een individuele discussie over rechten.
 
-Rekenvoorbeeld met een set van vier panelen (circa 1.640 Wp) voor circa €2.150: bij een balkonopstelling ligt de opbrengst volgens de fabrieksopgaven en de gangbare vuistregel (verticale of licht hellende opstelling levert duidelijk minder dan een dakopstelling) rond de 700 tot 900 kWh per jaar. Bij een stroomtarief van €0,30/kWh en volledig eigen verbruik komt de terugverdientijd daarmee rond de zeven jaar uit. Het grote voordeel van plug-in boven een vaste dakinstallatie: bij verhuizing gaat de set gewoon mee.
+Verder lezen: [huurwoning zonnepanelen toestemming](/posts/huurwoning-zonnepanelen-toestemming/), [gemeentelijke subsidie zonnepanelen](/posts/gemeentelijke-subsidie-zonnepanelen-2026/), [zonnepanelen subsidie Nederland](/posts/zonnepanelen-subsidie-nederland-2026/), [VVE zonnepanelen stappenplan](/posts/vve-zonnepanelen-stappenplan-2026/) en [energieleverancier overstappen](/posts/energieleverancier-overstappen-2026-stappenplan/).
 
-## Wanneer corporatie-route NIET de moeite waard is
-
-Drie situaties waarin de corporatie-route niet loont. Een: tijdelijk huurcontract korter dan 5 jaar — terugverdientijd op huurverhoging haal je niet. Twee: woningen waarvan corporatie binnen 8 jaar grootonderhoud of sloop plant — verlies van investering. Drie: hofjes en oude huurcomplexen waar dak gedeeld is met meerdere woningen — coordinatie tussen 4-12 huishoudens werkt zelden. Wacht in dat geval tot corporatie zelf met collectief plan komt, of kies plug-in panelen op balkon/tuin.
-
-## Veelgemaakte fouten bij sociale huur
-
-Vier valkuilen. Een: huurverlaging eisen op basis van besparing zonder schriftelijke vastlegging — corporatie kan na 1-2 jaar ineens huurverhoging vragen die de besparing tenietdoet. Twee: zelf panelen plaatsen op corporatie-dak zonder schriftelijke akkoord — risico op gedwongen verwijdering en boete. Drie: tekenen op een AAR-overeenkomst (Aanvullend Akkoord Renovatie) zonder de financiele gevolgen door huurkommer of Aedes te laten checken. Vier: verzuimen om huurtoeslag-impact te berekenen — bij kale-huur-verhoging boven 808 euro vervalt soms huurtoeslag, wat de besparing volledig tenietdoet.
-
-**Wat als mijn corporatie weigert?**
-Sinds mei 2025 mag een woningcorporatie een redelijk verzoek tot panelen-plaatsing op eigen kosten niet zomaar weigeren. Bij weigering: schriftelijk bezwaar, daarna naar de Huurcommissie. Toetsingstermijn 8-12 weken. Succespercentage huurder: circa 65 procent.
-
-**Krijg ik een terugleververgoeding als individuele huurder?**
-Ja, mits eigen meter en eigen leveringscontract. Bij blokverwarming of gedeelde meters niet. Vraag bij corporatie of individuele aansluiting mogelijk is — vaak ja tegen 200-450 euro netbeheerkosten.
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
+**Externe bron:** [RVO — ISDE](https://www.rvo.nl/subsidies-financiering/isde).
