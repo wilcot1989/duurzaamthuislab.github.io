@@ -30,7 +30,7 @@ faq:
 - q: Hoeveel kWh batterij heb ik nodig voor mijn gezin?
   a: 'Reken niet met een vuistregel op je jaarverbruik, maar met je zonneoverschot en je avondafname. In ons rekenmodel verschuift een batterij per jaar maximaal capaciteit × 150 zoncycli, en niet meer dan je overschot of je afname van het net toelaat. Lever je 2.000 kWh per jaar terug, dan is 10 kWh de bovengrens die zich nog vult; lever je 800 kWh terug, dan is 5 kWh al ruim. Haal die twee getallen uit je jaarafrekening of je P1-data.'
 - q: Wat is de goedkoopste thuisbatterij per kWh in 2026?
-  a: 'Van de merken in dit overzicht kunnen wij dat alleen voor de Sessy vaststellen: circa €710 per kWh bij 5 kWh, circa €550 bij 10 kWh en circa €627 bij de Plus van 15 kWh — exclusief installatie. Marstek, Huawei en Tesla publiceren geen consumentenprijzen, en Zonneplan noemt bedragen in een eigen advertentieframe. Wie op prijs per kWh wil kiezen, komt overigens niet bij deze categorie uit maar bij een plug-in systeem: de EcoFlow STREAM AC 5000 staat op €1.599 en de uitbreidingsaccu op €1.299 (nl.ecoflow.com, 21-8-2026).'
+  a: 'Van de merken in dit overzicht kunnen wij dat alleen voor de Sessy vaststellen: circa €710 per kWh bij 5 kWh, circa €550 bij 10 kWh en circa €627 bij de Plus van 15 kWh — exclusief installatie. Marstek, Huawei en Tesla publiceren geen consumentenprijzen, en Zonneplan publiceert geen vaste prijslijst; je krijgt daar een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Wie op prijs per kWh wil kiezen, komt overigens niet bij deze categorie uit maar bij een plug-in systeem: de EcoFlow STREAM AC 5000 staat op €1.599 en de uitbreidingsaccu op €1.299 (nl.ecoflow.com, 21-8-2026).'
 - q: Hoe lang gaat een thuisbatterij mee?
   a: 'Alle merken in dit overzicht geven 10 jaar garantie op de batterij, met een minimale restcapaciteit die per fabrikant verschilt. Alle vijf gebruiken LFP-cellen (lithium-ijzerfosfaat) — ook de Tesla Powerwall 3, die geen NMC gebruikt. Onafhankelijke langetermijnmetingen aan deze producten in Nederlandse omstandigheden bestaan niet, dus reken met de garantietermijn en neem geen restwaarde na jaar 10 mee.'
 - q: Is een thuisbatterij rendabel zonder saldering?
@@ -46,7 +46,6 @@ products:
   price: '0'
 - name: Zonneplan thuisbatterij 10 kWh
   url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '4690'
 - name: EcoFlow STREAM AC 5000
   url: https://go.duurzaamthuislab.nl/ecoflow
   price: '1599'
@@ -176,11 +175,11 @@ Zonneplan (opgericht in 2012, Zwolle) biedt zonnepanelen, batterij, laadpaal en 
 
 **De sturing heet "slimme aansturing", niet "Radar".** Radar is een televisieprogramma van AVROTROS. De aansturing van Zonneplan loopt onder de naam slimme aansturing (Gridguard/Nexus).
 
-**De prijzen die Zonneplan noemt:** 10 kWh €4.690, 15 kWh €5.490, 20 kWh €7.290 en 35 kWh €9.090. Belangrijk: dat zijn de bedragen zoals Zonneplan ze zelf adverteert, **"na btw-teruggave"**. Dat frame verdient een relativering, want voor een losse thuisbatterij bestaat er geen btw-teruggaveroute — daar geldt altijd 21 procent btw. Het 0-procenttarief is er alleen voor zonnepanelen en direct noodzakelijke onderdelen, en sinds 1-1-2023 bestaat er voor particulieren ook geen teruggaveroute meer op panelen. Vraag Zonneplan dus om het bedrag dat je daadwerkelijk betaalt bij een batterij zonder panelen, en reken daarmee.
+**Er is geen prijslijst.** Zonneplan publiceert geen vaste prijslijst; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Er staat dus geen bedrag per capaciteitsstap op de site dat je vóór het gesprek met andere merken kunt vergelijken. Wat Zonneplan wel als voordeel presenteert, is een "gratis btw-teruggave service" — dat is Zonneplans eigen frame, geen vaststaand financieel voordeel. Voor een losse thuisbatterij bestaat er namelijk geen btw-teruggaveroute; daar geldt altijd 21 procent btw. Het 0-procenttarief is er alleen voor zonnepanelen en direct noodzakelijke onderdelen, en sinds 1-1-2023 bestaat er voor particulieren ook geen teruggaveroute meer op panelen. Vraag Zonneplan dus om het bedrag dat je daadwerkelijk betaalt bij een batterij zonder panelen, inclusief 21 procent btw, en reken daarmee.
 
 **Wat sterk is:** alles bij één partij betekent één aanspreekpunt bij een defect, en de sturing is standaard geregeld.
 
-**Wat minder is:** de slimme aansturing werkt in combinatie met het eigen energiecontract van Zonneplan, dus je bindt je meer dan bij een merk-onafhankelijke batterij. En de geadverteerde prijs is niet de prijs die je bij een losse batterij betaalt.
+**Wat minder is:** de slimme aansturing werkt in combinatie met het eigen energiecontract van Zonneplan, dus je bindt je meer dan bij een merk-onafhankelijke batterij. En omdat er geen gepubliceerde prijs is, kun je Zonneplan niet in een prijsvergelijking meenemen zonder eerst een voorstel op te vragen.
 
 Volledige analyse: [Zonneplan thuisbatterij review 2026](/posts/zonneplan-thuisbatterij-review-2026/).
 
@@ -188,7 +187,7 @@ Volledige analyse: [Zonneplan thuisbatterij review 2026](/posts/zonneplan-thuisb
 
 | Eigenschap | Sessy 10 kWh | Marstek Venus E MAX | Huawei Luna 10 kWh | Tesla Powerwall 3 | Zonneplan 10 kWh |
 |---|---|---|---|---|---|
-| Consumentenprijs | **€5.500** excl. installatie (gepubliceerd) | Niet gepubliceerd | Niet gepubliceerd | Geen vaste NL-prijs bevestigd | €4.690 volgens eigen advertentie "na btw-teruggave" |
+| Consumentenprijs | **€5.500** excl. installatie (gepubliceerd) | Niet gepubliceerd | Niet gepubliceerd | Geen vaste NL-prijs bevestigd | Geen gepubliceerde prijslijst; persoonlijk voorstel |
 | Capaciteit | 10 kWh | 10 kWh | 10 kWh (2 × 5) | 13,5 kWh | 10 kWh |
 | Laden / ontladen | 2,2 / 1,7 kW | 3,6 kW bidirectioneel | 5 kW nominaal | 11,04 kW (EU, 1-fase) | Opgave via Zonneplan |
 | Celchemie | LFP | LFP | LFP | LFP | LFP |
@@ -211,7 +210,7 @@ Dit is de tabel waarop veel mensen hun keuze baseren — en juist daar zit het p
 | Sessy | 5 kWh | €3.550 | Gepubliceerd, excl. installatie | circa €710 |
 | Sessy | 10 kWh | €5.500 | Gepubliceerd, excl. installatie | circa €550 |
 | Sessy Plus | 15 kWh | €9.400 | Gepubliceerd, excl. installatie | circa €627 |
-| Zonneplan | 10 kWh | €4.690 | Eigen advertentie "na btw-teruggave" | circa €469 in dat frame |
+| Zonneplan | 10 kWh | — | Geen gepubliceerde prijslijst; persoonlijk voorstel | n.v.t. |
 | Huawei Luna 2000 | 10 kWh | €7.000 | **Aanname**, incl. installatie | circa €700 |
 | Tesla Powerwall 3 | 13,5 kWh | €10.500 | **Marktindicatie**, incl. installatie | circa €778 |
 | Marstek Venus E MAX | 10 kWh | — | Niet gepubliceerd | Niet vast te stellen |

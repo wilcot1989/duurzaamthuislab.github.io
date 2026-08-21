@@ -1,6 +1,6 @@
 ---
 title: "Terugverdientijd thuisbatterij per merk en model vergelijken"
-description: "Terugverdientijd van Sessy, Zonneplan, HomeWizard, EcoFlow STREAM en Zendure naast elkaar — doorgerekend op ons eigen archief van dynamische uurprijzen. Benuttingsfactor zelf instelbaar."
+description: "Terugverdientijd van Sessy, HomeWizard, EcoFlow STREAM en Zendure naast elkaar — doorgerekend op ons eigen archief van dynamische uurprijzen. Benuttingsfactor zelf instelbaar."
 layout: "single"
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
@@ -8,9 +8,9 @@ faq:
 - q: 'Waarom komt de terugverdientijd hier hoger uit dan bij de fabrikant?'
   a: 'Omdat wij alleen de handelsopbrengst rekenen, met de spread uit ons eigen archief en een benutting van 70%. Verkooprekenvoorbeelden tellen vaak ook de waarde van opgeslagen zonnestroom mee, rekenen met een hogere benutting en soms met een hogere spread. Beide kunnen kloppen — het verschil zit in de aannames, niet in de rekenkunde.'
 - q: 'Kan ik de prijzen in de tabel zomaar naast elkaar leggen?'
-  a: 'Nee, en daarom staat er per rij een voetnoot. De prijzen van Sessy, EcoFlow, HomeWizard en Zendure zijn exclusief installatie; die van Zonneplan zijn na btw-teruggave en inclusief installatie. Wil je echt appels met appels vergelijken, tel dan bij de eerste groep je eigen installatiekosten op.'
-- q: 'Waarom rekent de tool bij Zonneplan met 90% rendement en bij de rest met 85%?'
-  a: 'Zonneplan geeft zelf een round-trip-rendement tot 90% op. Wij nemen die vendorwaarde over en benoemen hem als vendorclaim; we hebben het niet zelf gemeten. Voor de andere modellen gebruiken we 85%, de waarde die onder andere Sessy in zijn specificaties noemt.'
+  a: 'Nee, en daarom staat er per rij een voetnoot. De prijzen van Sessy, EcoFlow, HomeWizard en Zendure zijn exclusief installatie. Wil je echt appels met appels vergelijken, tel dan je eigen installatiekosten erbij op.'
+- q: 'Waarom staat Zonneplan niet in de tabel?'
+  a: 'Omdat de tabel een prijs nodig heeft en Zonneplan die niet publiceert. Op zonneplan.nl/thuisbatterij staat per 21-8-2026 geen prijslijst meer: je krijgt een persoonlijk voorstel. Zonder gepubliceerde prijs kunnen wij geen terugverdientijd berekenen die je kunt narekenen. Heb je zelf een voorstel binnen, gebruik dan de generieke rekentool en vul je eigen bedrag in.'
 - q: 'Is een kleine plug-in-batterij dan altijd de beste keuze?'
   a: 'Op terugverdientijd per euro scoort een goedkope plug-in-batterij vaak gunstig, maar met 2 kWh dek je je avondpiek niet en kun je nauwelijks zonnestroom opslaan. De vraag is dus niet alleen wat het snelst is terugverdiend, maar ook hoeveel van je verbruik je wilt afdekken. Voor de keuze op basis van je eigen profiel is de [generieke rekentool](/terugverdientijd-thuisbatterij/) plus de [installateurskeuze](/installateur-kiezen/) het betere vertrekpunt.'
 lastmod: 2026-08-20
@@ -23,8 +23,8 @@ Elke fabrikant rekent zijn eigen terugverdientijd voor, met zijn eigen aannames.
 ## Het korte antwoord
 
 - De motor van het rendement is de **dagelijkse prijsspread**: het verschil tussen het goedkoopste en het duurste uur van de dag. In ons archief van het afgelopen jaar is dat gemiddeld het bedrag dat je hieronder als kerncijfer ziet staan.
-- Bij gelijke spread wint het model met de **laagste prijs per kWh capaciteit**. Kleine plug-in-batterijen (Zendure, EcoFlow STREAM) staan daarin gunstig; grote systemen mét installatie kosten meer per kWh maar dekken je avondpiek beter.
-- De prijzen zijn **niet één-op-één vergelijkbaar**: sommige zijn exclusief installatie, andere inclusief of na btw-teruggave. In de tabel staat per model welke basis geldt.
+- Bij gelijke spread wint het model met de **laagste prijs per kWh capaciteit**. Kleine plug-in-batterijen (Zendure, EcoFlow STREAM) staan daarin gunstig; grote vaste systemen kosten meer per kWh maar dekken je avondpiek beter.
+- De prijzen in de tabel zijn **inclusief btw, exclusief installatie**; per model staat de basis en de bron erbij. Aanbieders die geen prijs publiceren — zoals Zonneplan, dat per 21-8-2026 alleen nog een persoonlijk voorstel doet — staan niet in de tabel, omdat de terugverdientijd dan niet na te rekenen is.
 - Zonder **dynamisch energiecontract** is de uitkomst nul: er is dan geen prijsverschil om op te handelen.
 
 Wil je met je eigen offertebedrag en eigen aannames rekenen (cycli, degradatie, eigen spread)? Gebruik dan de [generieke terugverdientijd-rekentool](/terugverdientijd-thuisbatterij/) — daar staat ook de volledige uitleg over degradatie, cycli en de opbrengst van eigen zonnestroom. Deze pagina is de per-model-variant: vaste vendorprijzen, één schuif.
@@ -52,10 +52,9 @@ var mvtModellen = [
   { merk: 'HomeWizard', naam: 'Plug-In Battery',    cap: 2.70, prijs: 1195, rte: 0.85, basis: 'excl',  bron: 'homewizard.com',  noot: 'Laad- en ontlaadvermogen 800 W — een volle cyclus duurt dus ruim 3 uur per richting.' },
   { merk: 'Sessy',      naam: '5 kWh',              cap: 5,    prijs: 3550, rte: 0.85, basis: 'excl',  bron: 'sessy.nl',        noot: 'Bruikbare capaciteit ≈ nominaal, rendement 85% (sessy.nl/specificaties).' },
   { merk: 'Sessy',      naam: '10 kWh',             cap: 10,   prijs: 5500, rte: 0.85, basis: 'excl',  bron: 'sessy.nl',        noot: 'Bruikbare capaciteit ≈ nominaal, rendement 85%.' },
-  { merk: 'Sessy',      naam: 'Plus 15 kWh',        cap: 15,   prijs: 9400, rte: 0.85, basis: 'excl',  bron: 'sessy.nl',        noot: 'Bruikbare capaciteit ≈ nominaal, rendement 85%.' },
-  { merk: 'Zonneplan',  naam: '10 kWh',             cap: 10,   prijs: 4690, rte: 0.90, basis: 'btw',   bron: 'zonneplan.nl',    noot: 'Rendement tot 90% is een vendorclaim, niet door ons gemeten.' },
-  { merk: 'Zonneplan',  naam: '15 kWh',             cap: 15,   prijs: 5490, rte: 0.90, basis: 'btw',   bron: 'zonneplan.nl',    noot: 'Rendement tot 90% is een vendorclaim.' },
-  { merk: 'Zonneplan',  naam: '20 kWh',             cap: 20,   prijs: 7290, rte: 0.90, basis: 'btw',   bron: 'zonneplan.nl',    noot: 'Rendement tot 90% is een vendorclaim.' }
+  { merk: 'Sessy',      naam: 'Plus 15 kWh',        cap: 15,   prijs: 9400, rte: 0.85, basis: 'excl',  bron: 'sessy.nl',        noot: 'Bruikbare capaciteit ≈ nominaal, rendement 85%.' }
+  // Zonneplan staat niet in deze lijst: zonneplan.nl/thuisbatterij publiceert per 21-8-2026 geen prijslijst
+  // meer (route = persoonlijk voorstel). Zonder gepubliceerde prijs is er geen na te rekenen terugverdientijd.
 ];
 
 var mvtBasisLabel = {
@@ -107,7 +106,7 @@ function mvtReken(){
   });
 
   html += '</tbody></table>' +
-    '<p style="font-size:.8rem;color:#666;margin:.7rem 0 0;"><sup style="color:#0e7490;">1</sup> ' + mvtBasisLabel.excl.tekst + ' — installatie of een slimme meter-koppeling komt er nog bij. <sup style="color:#0e7490;">2</sup> ' + mvtBasisLabel.btw.tekst + ' — dat is een gunstiger vertrekpunt, dus vergelijk deze rijen niet blind met de andere. Prijspeil augustus 2026, vendorprijzen; controleer altijd de actuele prijs bij de leverancier.</p>';
+    '<p style="font-size:.8rem;color:#666;margin:.7rem 0 0;"><sup style="color:#0e7490;">1</sup> ' + mvtBasisLabel.excl.tekst + ' — installatie of een slimme meter-koppeling komt er nog bij. Prijspeil augustus 2026, vendorprijzen; controleer altijd de actuele prijs bij de leverancier. Aanbieders zonder gepubliceerde prijs (Zonneplan, gecontroleerd 21-8-2026) staan niet in de tabel.</p>';
   tab.innerHTML = html;
 }
 
@@ -144,7 +143,7 @@ De formule staat expres in één regel, zodat je hem kunt narekenen:
 De vier onderdelen:
 
 1. **Capaciteit** — de bruikbare capaciteit uit de vendorspecificatie. Voor Sessy geldt dat bruikbaar ongeveer gelijk is aan nominaal (sessy.nl/specificaties).
-2. **Round-trip-rendement** — 85% als standaard; alleen bij Zonneplan rekenen we 90%, omdat dat de door de leverancier opgegeven waarde is. Dat is een vendorclaim, geen meting van ons.
+2. **Round-trip-rendement** — 85% voor alle modellen in de tabel, de waarde die onder andere Sessy in zijn specificaties noemt. Dat is een vendoropgave, geen meting van ons.
 3. **Gemiddelde dagspread** — het gemiddelde van (duurste uur − goedkoopste uur) over alle dagen in ons archief van day-ahead-uurprijzen. Dit is de kale beursprijs inclusief btw, dezelfde data als op onze [stroomprijzen-pagina](/stroomprijzen/) en in de [historie](/stroomprijzen-historie/).
 4. **Benuttingsfactor** — de modelaanname (standaard 0,7) die uitdrukt dat je niet elke dag de volle spread pakt.
 

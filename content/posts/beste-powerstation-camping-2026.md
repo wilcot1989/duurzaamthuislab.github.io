@@ -57,7 +57,7 @@ Deze vergelijking is helemaal op **kamperen** toegespitst: gewicht dat je van de
 
 > **Kort antwoord:** voor de meeste kampeerders is de EcoFlow River 2 Pro (768 Wh, 7,8 kg, €549 op nl.ecoflow.com op 21 augustus 2026) de beste balans tussen draagbaar gewicht en genoeg capaciteit voor koelbox, licht en telefoons. Wie ultralicht reist, komt uit bij de EcoFlow River 2 (256 Wh, 3,5 kg); wie met een groot gezin of langer dan een week kampeert, bij de Jackery Explorer 1000-klasse.
 >
-> **Over de prijzen.** Alleen het bedrag van EcoFlow hebben wij op 21 augustus 2026 op de Nederlandse fabrikantwebshop kunnen nakijken. Het bedrag van de Jackery Explorer 1000 v2 (€519, van €799) stond op diezelfde datum op nl.jackery.com. Voor Bluetti en Anker SOLIX noemen wij geen bedrag: die konden wij op die datum niet verifiëren, en een prijs die wij niet hebben nagekeken nemen wij niet over. Specificaties zijn fabrieksopgaven; wij hebben deze toestellen niet zelf getest.
+> **Over de prijzen.** Alle bedragen zijn op 21 augustus 2026 nagekeken op de webshops van de fabrikanten zelf: nl.ecoflow.com, nl.jackery.com (Explorer 1000 v2 €519, van €799) en bluettipower.eu (EB70 €499, van €978). De Anker SOLIX C800 troffen wij op die datum niet aan in de Nederlandse collectie op ankersolix.com/nl; daarvoor noemen wij dus geen prijs. Van de Anker-modellen die daar wél stonden, is de SOLIX C1000 (1.056 Wh, 1.800 W, €999) de eerstvolgende die voor camping in beeld komt. Specificaties zijn fabrieksopgaven; wij hebben deze toestellen niet zelf getest.
 
 ## Waar moet je op letten bij een camping-powerstation?
 
@@ -99,11 +99,13 @@ Op een stille camping wil je geen zoemende ventilator. De beste camping-powersta
 |---|---|---|---|---|---|---|
 | **EcoFlow River 2 Pro** | 768 Wh | 800 W | 7,8 kg | 220 W | 42 min (0-80%) | €549 |
 | **Jackery Explorer 1000 v2** | 1.070 Wh | 1500 W | 10,8 kg | niet vermeld | ~60 min (0-100%) | €519 |
-| **Bluetti EB70S** | 716 Wh | 800 W | 9,7 kg | 200 W | 100 min (0-80%) | niet door ons geverifieerd |
-| **Anker SOLIX C800** | 768 Wh | 1200 W | 10,5 kg | 300 W | 58 min (0-80%) | niet door ons geverifieerd |
+| **Bluetti EB70** | 716 Wh | 1.000 W | 9,7 kg | 200 W | 100 min (0-80%) | €499 (van €978) |
+| **Anker SOLIX C800** | 768 Wh | 1200 W | 10,5 kg | 300 W | 58 min (0-80%) | niet aangetroffen in de NL-shop op 21-8-2026 |
 | **EcoFlow River 2** | 256 Wh | 300 W | 3,5 kg | 110 W | 40 min (0-80%) | niet door ons geverifieerd |
 
-*Capaciteiten, vermogens en laadtijden zijn fabrieksopgaven. Alleen de prijs van de River 2 Pro hebben wij op 21 augustus 2026 op nl.ecoflow.com nagekeken; de webshops van Bluetti en Anker SOLIX waren op die datum niet uitleesbaar voor onze controle.*
+*Capaciteiten, vermogens en laadtijden zijn fabrieksopgaven. De prijzen van de River 2 Pro (nl.ecoflow.com), de Explorer 1000 v2 (nl.jackery.com) en de EB70 (bluettipower.eu) zijn op 21 augustus 2026 nagekeken. De SOLIX C800 stond op die datum niet in de Nederlandse collectie op ankersolix.com/nl.*
+
+Prijs per Wh met die bedragen: Jackery Explorer 1000 v2 €519 ÷ 1.070 Wh = €0,49, Bluetti EB70 €499 ÷ 716 Wh = €0,70 en EcoFlow River 2 Pro €549 ÷ 768 Wh = €0,71. De EB70 is dus wel het laagste aankoopbedrag in dit overzicht, maar niet de goedkoopste capaciteit: dat is de Explorer 1000 v2.
 
 ---
 
@@ -201,16 +203,16 @@ De Jackery Explorer 1000 v2 is de logische stap omhoog als je langere kampeerper
 
 ---
 
-## 3. Bluetti EB70S -- Beste budget-optie
+## 3. Bluetti EB70 -- laagste aankoopprijs
 
-De **Bluetti EB70S** is het toestel voor wie een degelijk campingpowerstation zoekt zonder de hoofdprijs te betalen: een solide apparaat met LiFePO4-batterij in de kleinste klasse.
+De **Bluetti EB70** is het toestel voor wie een degelijk campingpowerstation zoekt zonder de hoofdprijs te betalen: een solide apparaat met LiFePO4-batterij in de kleinste klasse. Op bluettipower.eu staat het model onder de naam PowerOak EB70; de oudere aanduiding "EB70S" komt daar niet meer voor (gecontroleerd 21-8-2026).
 
 ### Specificaties
 
 | Specificatie | Waarde |
 |---|---|
 | Capaciteit | 716 Wh |
-| Continu vermogen | 800 W |
+| Continu vermogen | 1.000 W (opgave bluettipower.eu, 21-8-2026) |
 | Gewicht | 9,7 kg |
 | Afmetingen | 31,7 x 21,6 x 22,1 cm |
 | AC-uitgangen | 4x Schuko |
@@ -222,9 +224,9 @@ De **Bluetti EB70S** is het toestel voor wie een degelijk campingpowerstation zo
 
 ### Waarom voor camping?
 
-Met een gewicht van **9,7 kg** is de EB70S een uitstekende instapper. De prijs op de Europese Bluetti-webshop konden wij op 21 augustus 2026 niet uitlezen; zet het bedrag dat je daar aantreft af tegen de €549 die EcoFlow op dezelfde datum voor de River 2 Pro vroeg — dat toestel heeft meer capaciteit bij minder gewicht. De LiFePO4-batterij biedt betrouwbaarheid en een degelijke levensduur van 2500 cycli. Vier AC-uitgangen zijn meer dan bij veel duurdere concurrenten, en de 100W USB-C poort laadt je laptop snel op.
+Met een gewicht van **9,7 kg** is de EB70 een uitstekende instapper. Op bluettipower.eu stond hij op 21 augustus 2026 op **€499**, afgeprijsd van €978 — het laagste aankoopbedrag in dit overzicht. Zet dat af tegen de €549 die EcoFlow op dezelfde datum voor de River 2 Pro vroeg: dat toestel heeft 52 Wh meer capaciteit bij 1,9 kg minder gewicht, en per Wh liggen ze vrijwel gelijk (€0,70 tegen €0,71). Het echte verschil zit in vermogen — 1.000 W bij de EB70 tegen 800 W bij de River 2 Pro — en in laadsnelheid, waar EcoFlow ruim voorligt. De LiFePO4-batterij biedt betrouwbaarheid en een degelijke levensduur van 2500 cycli. Vier AC-uitgangen zijn meer dan bij veel duurdere concurrenten, en de 100W USB-C poort laadt je laptop snel op.
 
-De laadsnelheid via AC is met 100 minuten tot 80% niet de snelste, en de solar-input is beperkt tot 200W. Maar als je voornamelijk op campings met stroomaansluiting staat of een bescheiden stroomverbruik hebt, is de EB70S meer dan voldoende.
+De laadsnelheid via AC is met 100 minuten tot 80% niet de snelste, en de solar-input is beperkt tot 200W. Maar als je voornamelijk op campings met stroomaansluiting staat of een bescheiden stroomverbruik hebt, is de EB70 meer dan voldoende.
 
 ### Hoeveel uur campingapparaten?
 
@@ -238,15 +240,15 @@ De laadsnelheid via AC is met 100 minuten tot 80% niet de snelste, en de solar-i
 
 ### Oordeel
 
-De Bluetti EB70S is een degelijke instapper. Het mist de snelle laadtijden en geavanceerde functies van duurdere modellen, maar voor de prijs is het een solide, betrouwbare camping-metgezel.
+De Bluetti EB70 is een degelijke instapper met op 21 augustus 2026 het laagste prijskaartje van dit gezelschap (€499). Het mist de snelle laadtijden en geavanceerde functies van duurdere modellen. Let wel op wat je met €20 extra krijgt: de Jackery Explorer 1000 v2 kostte op die datum €519 en levert 1.070 Wh, ruim de helft meer capaciteit. Wie op absolute laagste prijs koopt neemt de EB70, wie op capaciteit per euro koopt de Jackery.
 
-<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Bluetti EB70S</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Bluetti EB70</a>
 
 ---
 
-## 4. Anker SOLIX C800 -- Beste prijs-prestatie in het middensegment
+## 4. Anker SOLIX C800 -- sterk op papier, maar niet in de Nederlandse shop
 
-De **Anker SOLIX C800** is een relatief nieuwkomer die snel aan populariteit wint. Met een uitstekende balans tussen vermogen, gewicht en prijs is het een sterke allrounder.
+De **Anker SOLIX C800** zet op papier veel vermogen tegenover een beheersbaar gewicht. Eén kanttekening staat vooraan: bij onze controle van ankersolix.com/nl op 21 augustus 2026 stond dit model **niet in de Nederlandse collectie**. Wij noemen er daarom geen prijs bij, en als koopadvies voor Nederland valt hij af. Wil je een Anker-station, dan is de SOLIX C1000 (1.056 Wh, 1.800 W, €999) het model dat daar wél stond — maar dat is een klasse groter en zwaarder dan wat je voor een tent nodig hebt.
 
 ### Specificaties
 
@@ -265,9 +267,9 @@ De **Anker SOLIX C800** is een relatief nieuwkomer die snel aan populariteit win
 
 ### Waarom voor camping?
 
-De SOLIX C800 biedt met **1200W continu vermogen** opvallend meer dan de River 2 Pro en EB70S, terwijl het gewicht met **10,5 kg** beheersbaar blijft. De twee USB-C-poorten met **140W PD** zijn een uitblinker -- daarmee laad je zelfs de nieuwste krachtige laptops razendsnel op.
+De SOLIX C800 biedt met **1200W continu vermogen** opvallend meer dan de River 2 Pro en de EB70, terwijl het gewicht met **10,5 kg** beheersbaar blijft. De twee USB-C-poorten met **140W PD** zijn een uitblinker -- daarmee laad je zelfs de nieuwste krachtige laptops razendsnel op.
 
-De snelle AC-laadtijd van **58 minuten tot 80%** en de hogere solar-input van 300W plaatsen de C800 boven het instapsegment. De prijs publiceert Anker op zijn eigen webshop; wij konden die pagina op 21 augustus 2026 niet uitlezen en noemen daarom geen bedrag. Vergelijk wat je daar aantreft met de €549 van de River 2 Pro: de C800 heeft dezelfde capaciteit en meer continu vermogen.
+De snelle AC-laadtijd van **58 minuten tot 80%** en de hogere solar-input van 300W plaatsen de C800 op papier boven het instapsegment. Alleen: op 21 augustus 2026 was het model niet aangetroffen in de NL-shop van Anker, dus er is geen Nederlandse prijs om die specificaties tegen af te zetten. Kom je hem via een andere verkoper tegen, reken dan zelf de prijs per Wh uit en vergelijk die met de €0,71 per Wh van de River 2 Pro (€549 ÷ 768 Wh) en de €0,70 van de EB70 (€499 ÷ 716 Wh) — en let op garantieafhandeling buiten de fabrikantwinkel.
 
 ### Hoeveel uur campingapparaten?
 
@@ -282,9 +284,9 @@ De snelle AC-laadtijd van **58 minuten tot 80%** en de hogere solar-input van 30
 
 ### Oordeel
 
-De Anker SOLIX C800 zet meer continu vermogen tegenover dezelfde capaciteit als de River 2 Pro, en laadt sneller dan de EB70S. Of dat de betere koop is, hangt af van de prijs die je op dat moment aantreft — die is bij Anker het variabele deel van de afweging.
+De Anker SOLIX C800 zet meer continu vermogen tegenover dezelfde capaciteit als de River 2 Pro, en laadt sneller dan de EB70. Voor Nederland houdt het daar op: zonder plaats in de Nederlandse Anker-shop op 21 augustus 2026 is er geen prijs en geen directe garantieroute, en dan blijven de River 2 Pro (€549) en de EB70 (€499) de kandidaten in deze klasse.
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-powerstation-camping-2026/" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Anker SOLIX C800</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-powerstation-camping-2026/" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk het Anker SOLIX-assortiment</a>
 
 ---
 
@@ -335,7 +337,7 @@ De EcoFlow River 2 is geen krachtpatser, maar dat is ook niet de bedoeling. Het 
 
 Om je te helpen bij de keuze, hebben we berekend hoe lang elk powerstation typische campingapparaten kan voeden:
 
-| Apparaat (vermogen) | River 2 (256Wh) | EB70S (716Wh) | River 2 Pro (768Wh) | SOLIX C800 (768Wh) | Explorer 1000 v2 (1.070Wh) |
+| Apparaat (vermogen) | River 2 (256Wh) | EB70 (716Wh) | River 2 Pro (768Wh) | SOLIX C800 (768Wh) | Explorer 1000 v2 (1.070Wh) |
 |---|---|---|---|---|---|
 | **Smartphone laden (15Wh)** | 14x | 40x | 43x | 43x | 60x |
 | **Laptop laden (60Wh)** | 3x | 10x | 10x | 10x | 15x |
@@ -356,7 +358,7 @@ Als je kampeert zonder stroomaansluiting, zijn zonnepanelen de beste manier om j
 | Powerstation | Capaciteit | Geschatte laadtijd (200W paneel) |
 |---|---|---|
 | EcoFlow River 2 | 256 Wh | ~2 uur |
-| Bluetti EB70S | 716 Wh | ~5,5 uur |
+| Bluetti EB70 | 716 Wh | ~5,5 uur |
 | EcoFlow River 2 Pro | 768 Wh | ~6 uur |
 | Anker SOLIX C800 | 768 Wh | ~6 uur |
 | Jackery Explorer 1000 v2 | 1.070 Wh | ~7,5 uur (of ~4 uur met 2x paneel) |
@@ -374,12 +376,12 @@ Als je kampeert zonder stroomaansluiting, zijn zonnepanelen de beste manier om j
 ## Welk powerstation past bij jouw kampeersstijl?
 
 ### Weekend-kampeerder (tent, 1-2 nachten)
-**Aanbevolen: EcoFlow River 2 of Bluetti EB70S**
+**Aanbevolen: EcoFlow River 2 of Bluetti EB70 (€499)**
 Je hebt genoeg aan 250-700Wh voor telefoon, verlichting en een speaker. Licht en betaalbaar.
 
 ### Gezinscamping (caravan/grote tent, 1 week)
-**Aanbevolen: EcoFlow River 2 Pro of Anker SOLIX C800**
-Met 768Wh en de mogelijkheid om een koelbox en meerdere apparaten tegelijk te voeden, zit je goed voor een week.
+**Aanbevolen: EcoFlow River 2 Pro (€549) of Jackery Explorer 1000 v2 (€519)**
+Met 768 tot 1.070 Wh en de mogelijkheid om een koelbox en meerdere apparaten tegelijk te voeden, zit je goed voor een week. De Anker SOLIX C800 zou hier ook passen, maar stond op 21 augustus 2026 niet in de Nederlandse Anker-shop.
 
 ### Langdurig kamperen of campervan (2+ weken)
 **Aanbevolen: Jackery Explorer 1000 v2**
@@ -410,9 +412,9 @@ Wil je nog meer opties vergelijken? Bekijk ons uitgebreide artikel [Beste draagb
 Het **beste powerstation voor camping** hangt af van je persoonlijke situatie en kampeersstijl. Hier onze eindbeoordeling:
 
 - **Beste allrounder**: **EcoFlow River 2 Pro** -- de ideale balans van gewicht, capaciteit en laadsnelheid voor de meeste kampeerders
-- **Beste budget**: **Bluetti EB70S** -- degelijk, betaalbaar en met een LiFePO4-batterij die jaren meegaat
-- **Beste prijs-prestatie**: **Anker SOLIX C800** -- meer vermogen dan je zou verwachten voor de prijs
-- **Beste voor grote gezinnen/lange trips**: **Jackery Explorer 1000 v2** -- de grootste capaciteit in deze selectie (€519 op 21 augustus 2026)
+- **Laagste aankoopprijs**: **Bluetti EB70** -- €499 op bluettipower.eu op 21 augustus 2026, degelijk en met een LiFePO4-batterij die jaren meegaat
+- **Beste capaciteit per euro**: **Jackery Explorer 1000 v2** -- €519 voor 1.070 Wh is €0,49 per Wh, tegen €0,70 voor de EB70 en €0,71 voor de River 2 Pro; ook de grootste capaciteit in deze selectie
+- **Anker SOLIX C800**: op papier de meeste W per kilo, maar op 21 augustus 2026 niet aangetroffen in de Nederlandse Anker-shop — daarom geen aanbeveling
 - **Beste ultralicht**: **EcoFlow River 2** -- 3,5 kg van pure campingvrijheid
 
 Welk model je ook kiest, een goed powerstation maakt kamperen comfortabeler zonder de natuur te verstoren -- geen lawaai van aggregaten, geen uitstoot, en altijd stroom voor de apparaten die je echt nodig hebt.

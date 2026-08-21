@@ -29,12 +29,12 @@ faq:
   a: 'Ja. De AC180 accepteert tot 500W via de DC-ingang. Reken bij een 200W-paneel niet met 200W maar met 70 tot 90 procent van dat nominale vermogen op de betere momenten van de dag: volledig opladen vanuit leeg duurt dan ruwweg zes tot acht uur bij goed zonlicht. Met twee panelen halveert dat ongeveer, tot het plafond van 500W.'
 - q: 'Hoeveel laadcycli gaat de LiFePO4 batterij mee?'
   a: '3500 cycli tot 80% capaciteit. Bij dagelijks gebruik is dat bijna 10 jaar. LiFePO4 is stabiel en veiliger dan lithium-ion bij hoge temperaturen.'
-- q: 'Wat is het verschil tussen de Bluetti AC180 en de AC200Max?'
-  a: 'De AC200Max heeft 2048Wh, wifi-app en een echte UPS-modus. De AC180 is compacter, lichter en goedkoper. Voor mobiel gebruik en occasionele backup is de AC180 voldoende; voor een vaste thuisinstallatie is de AC200Max de logischer keuze.'
+- q: 'Wat is het verschil tussen de Bluetti AC180 en de grotere AC200-modellen?'
+  a: 'De AC200MAX (2.048 Wh) stond op 21 augustus 2026 niet meer in de Bluetti EU-shop; daar staat nu de AC200PL met 2.304 Wh en 2.400 W voor €1.499 (bluettipower.eu, gecontroleerd 21-8-2026). Tegenover de €699 van de AC180 (bluettipower.eu, gecontroleerd 21-8-2026) betaal je dus ruim het dubbele voor ongeveer het dubbele aan capaciteit. De AC180 is compacter en lichter; wil je een station voor een vaste plek in huis met meer capaciteit, dan is de AC200PL binnen het Bluetti-assortiment de opvolger om naar te kijken.'
 products:
 - name: Bluetti AC180
   url: https://go.duurzaamthuislab.nl/bluetti-eu
-  price: '999'
+  price: '699'
 - name: Jackery Explorer 1000 v2
   url: https://go.duurzaamthuislab.nl/jackery
   price: '899'
@@ -45,7 +45,7 @@ schema_type: Article
 last_updated: '2026-08-21'
 ---
 
-> **Kort antwoord:** De Bluetti AC180 is een solide 1152Wh LiFePO4-powerstation voor freelancers, campers en mensen die een thuisbackup willen voor een stroomstoring van een paar uur. Hij laadt snel, heeft Europese stopcontacten en een degelijke garantie. Geen UPS-modus, geen wifi-app en 17 kg zonder wieltjes zijn de voornaamste beperkingen. Voor puur mobiel werk of kortdurende backup in huis is het een verstandige keuze rond de duizend euro.
+> **Kort antwoord:** De Bluetti AC180 is een solide 1152Wh LiFePO4-powerstation voor freelancers, campers en mensen die een thuisbackup willen voor een stroomstoring van een paar uur. Hij laadt snel, heeft Europese stopcontacten en een degelijke garantie. Geen UPS-modus, geen wifi-app en 17 kg zonder wieltjes zijn de voornaamste beperkingen. Voor puur mobiel werk of kortdurende backup in huis is het een verstandige keuze op de €699 die Bluetti er op 21 augustus 2026 voor vraagt (bluettipower.eu; adviesprijs €1.458).
 
 ---
 
@@ -143,9 +143,10 @@ Drie modellen die in dit segment het vaakst tegen elkaar worden afgezet. Alle wa
 | App | Bluetooth | Bluetooth + wifi | Wifi |
 | Stopcontacten | Europese Schuko | Europese Schuko | Europese Schuko |
 | Garantie | 5 jaar | 3 jaar, plus 2 jaar bij registratie | 5 jaar |
-| Prijs (eerder genoteerd) | ~€999 | ~€899 | ~€849 |
+| Prijs | €699 (bluettipower.eu, 21-8-2026) | ~€899 | ~€849 |
+| Prijs per Wh | €699 ÷ 1.152 Wh = circa €0,61 | — | — |
 
-*Over de prijzen: deze bedragen zijn eerder genoteerd op de Europese webshops van de drie merken. Wij konden ze op 21 augustus 2026 niet opnieuw verifiëren (de Bluetti-webshop blokkeerde onze controle), dus behandel ze als richtprijs en check de actuele prijs via de productlinks. Bij powerstations wisselen actieprijzen snel.*
+*Over de prijzen: de €699 van de AC180 hebben wij op 21 augustus 2026 op bluettipower.eu gecontroleerd; het is een actieprijs tegenover een adviesprijs van €1.458. De bedragen bij Jackery en EcoFlow zijn eerder genoteerd op de Europese webshops van die merken en zijn richtprijzen — check de actuele prijs via de productlinks. Bij powerstations wisselen actieprijzen snel.*
 
 **Jackery Explorer 1000 v2:** lichter (11,5 kg) en goedkoper, maar minder capaciteit, lagere AC-uitgang en volgens het datasheet minder laadcycli. Jackery geeft 3 jaar garantie plus 2 jaar bij registratie, zoals we in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/) uitwerken. De wifi-app is een voordeel als je op afstand wilt monitoren. Zie ook de [EcoFlow vs Jackery vergelijking 2026](/posts/ecoflow-vs-jackery-2026/).
 
@@ -165,7 +166,7 @@ Vijf beperkingen die rechtstreeks uit de specificaties en de handleiding volgen.
 De AC180 laadt met bijna 1200 W en levert tot 1800 W; dat vraagt actieve koeling, dus draait er een ventilator zodra je het toestel hard gebruikt. Bluetti geeft geen geluidsniveau op en wij hebben niet gemeten, maar de knop zit in de app: begrens het laadvermogen en de ventilator draait langzamer. Bij lichte belasting blijft het toestel passief.
 
 **2. Geen echte UPS-modus**
-De switchover bij stroomuitval duurt 20 milliseconden. Dat is prima voor koelkasten, CV-pompen, NAS-systemen en laptops — die overleven dat zonder probleem. Een desktop-pc of bepaalde medische apparatuur kan dat niet verdragen. De [Bluetti AC200Max](/posts/bluetti-ac200max-review-2026/) heeft wel een echte UPS-modus met veel kortere switchover. Als UPS essentieel is, betaal je dus extra.
+De switchover bij stroomuitval duurt 20 milliseconden. Dat is prima voor koelkasten, CV-pompen, NAS-systemen en laptops — die overleven dat zonder probleem. Een desktop-pc of bepaalde medische apparatuur kan dat niet verdragen. Binnen het Bluetti-assortiment lost een groter model dat niet automatisch op: de [AC200MAX](/posts/bluetti-ac200max-review-2026/) specificeert zelf geen UPS-functie en staat sinds onze controle op 21 augustus 2026 niet meer in de Bluetti EU-shop — de opvolger daar is de AC200PL (2.304 Wh / 2.400 W, €1.499). Is echte UPS-werking essentieel, kijk dan naar een station waarvan de fabrikant een UPS-modus specificeert, zoals de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/), of zet een losse UPS tussen de AC180 en je apparatuur.
 
 **3. App alleen via Bluetooth**
 Bluetooth werkt binnen dezelfde ruimte, maar niet vanaf een andere plek in het huis. Wil je de unit in een schuur of garage zetten en vanuit de woonkamer monitoren, dan kan dat niet. EcoFlow en Jackery bieden wifi. Voor mobiel gebruik maakt het niets uit; voor een vaste opstelling is het een reële beperking.
@@ -200,7 +201,7 @@ Bluetti specificeert wel wát het lcd-display toont (in- en uitgaand vermogen, l
 
 Op specificaties is de Bluetti AC180 een sterk aanbod in zijn klasse. De LiFePO4-cel is met 3500 opgegeven cycli een langetermijninvestering — bij dagelijks gebruik bijna tien jaar. De laadsnelheid is de beste in dit segment. De Europese Schuko-stopcontacten en Nederlandstalige documentatie zijn een praktisch voordeel boven grijze import.
 
-De beperkingen zijn eveneens duidelijk: geen echte UPS-modus, geen wifi, en 17 kg zonder wielen. Passen die beperkingen bij jouw gebruik, dan is dit rond de duizend euro een verstandige keuze; heb je UPS of monitoring op afstand nodig, dan moet je een klasse hoger kijken.
+De beperkingen zijn eveneens duidelijk: geen echte UPS-modus, geen wifi, en 17 kg zonder wielen. Passen die beperkingen bij jouw gebruik, dan is dit op €699 (bluettipower.eu, gecontroleerd 21-8-2026, adviesprijs €1.458) een verstandige keuze — circa €0,61 per Wh, uit €699 ÷ 1.152 Wh. Heb je UPS of monitoring op afstand nodig, dan moet je naar een station waarvan de fabrikant die functies expliciet specificeert — en dat is binnen Bluetti niet zomaar het volgende model omhoog: de opvolger van de AC200MAX in de EU-shop is de AC200PL (2.304 Wh / 2.400 W) op €1.499, en daarvan moet je die twee punten in de specificatie zelf nalezen.
 
 Wil je een groter systeem voor thuisopslag vergelijken? Kijk dan naar het rekenmodel voor [dynamisch contract met thuisbatterij](/posts/dynamisch-contract-met-batterij-rekenmodel-2026/) of de vergelijking van de [Anker Solix C1000](/posts/anker-solix-c1000-review-2026/) en de [Goal Zero Yeti 6000X](/posts/goal-zero-yeti-6000x-review-2026/) als je grotere capaciteit nodig hebt.
 

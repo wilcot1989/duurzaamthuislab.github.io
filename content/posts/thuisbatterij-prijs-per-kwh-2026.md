@@ -23,7 +23,7 @@ faq:
 - q: Wat kost een thuisbatterij per kWh in 2026?
   a: 'Van de systemen met een gepubliceerde prijs loopt het van €442 per kWh (HomeWizard Plug-In Battery, €1.195 voor 2,7 kWh, zonder installatie) tot €710 per kWh (Sessy 5 kWh, €3.550 excl. installatie). Voor 10 kWh staat Sessy op €550 per kWh. Dit zijn prijzen inclusief 21 procent btw en exclusief installatie, peildatum augustus 2026. De meeste andere merken publiceren geen consumentenprijs.'
 - q: Welk merk is het goedkoopst per kWh?
-  a: 'Dat kunnen wij niet volledig beantwoorden, en dat is het eerlijke antwoord: Marstek, EcoFlow, Huawei, BYD en Tesla publiceren voor hun thuisbatterijen geen consumentenprijs. Van wat wél publiek is, heeft de HomeWizard Plug-In Battery de laagste prijs per kWh, maar met de beperking van 800 W vermogen en geen noodstroom. Bij grotere systemen is Sessy 10 kWh op €550 per kWh het laagste gepubliceerde punt.'
+  a: 'Dat kunnen wij niet volledig beantwoorden, en dat is het eerlijke antwoord: Marstek, EcoFlow, Huawei, BYD, Tesla en Zonneplan publiceren voor hun thuisbatterijen geen consumentenprijs — Zonneplan werkt sinds onze controle op 21-8-2026 uitsluitend met een persoonlijk voorstel. Van wat wél publiek is, heeft de HomeWizard Plug-In Battery de laagste prijs per kWh, maar met de beperking van 800 W vermogen en geen noodstroom. Bij grotere systemen is Sessy 10 kWh op €550 per kWh het laagste gepubliceerde punt.'
 - q: Hoe bereken ik zelf de prijs per kWh van een offerte?
   a: 'Neem het totaalbedrag inclusief btw, inclusief installatie en inclusief een eventuele omvormer of omschakelinrichting, en deel dat door de bruikbare capaciteit in kWh. Controleer eerst of de offerte inclusief of exclusief btw is: op een thuisbatterij geldt 21 procent, dus een bedrag exclusief btw ziet er ruim een vijfde gunstiger uit dan het is.'
 - q: Is de goedkoopste prijs per kWh ook de beste keuze?
@@ -60,7 +60,7 @@ Daarom staat op deze pagina geen tabel met tien merken en tien bedragen. Wat er 
 
 > **Kort antwoord:** wie prijzen per kWh vergelijkt, vergelijkt in deze markt vooral wie transparant is.
 >
-> Van de systemen met een gepubliceerde prijs loopt de reeks van €442 per kWh (HomeWizard, plug-in, 800 W) tot €710 per kWh (Sessy 5 kWh). Marstek, EcoFlow, Huawei, BYD en Tesla noemen geen consumentenprijs — daar geldt: offerte opvragen en zelf omrekenen. Reken bij elk bedrag ook installatie mee, want een batterij zonder aansluiting is geen product.
+> Van de systemen met een gepubliceerde prijs loopt de reeks van €442 per kWh (HomeWizard, plug-in, 800 W) tot €710 per kWh (Sessy 5 kWh). Marstek, EcoFlow, Huawei, BYD, Tesla en Zonneplan noemen geen consumentenprijs — daar geldt: offerte of persoonlijk voorstel opvragen en zelf omrekenen. Reken bij elk bedrag ook installatie mee, want een batterij zonder aansluiting is geen product.
 
 ## De gepubliceerde prijzen, omgerekend per kWh
 
@@ -71,9 +71,7 @@ Daarom staat op deze pagina geen tabel met tien merken en tien bedragen. Wat er 
 | Sessy | 5 kWh | €3.550 | **€710** | excl. | sessy.nl, aug 2026 |
 | Sessy | 10 kWh | €5.500 | **€550** | excl. | sessy.nl, aug 2026 |
 | Sessy Plus | 15 kWh | €9.400 | **€627** | excl.; noodstroom-basisinstallatie €1.200 | sessy.nl, aug 2026 |
-| Zonneplan | 10 kWh | €4.690 | **€469** | niet bevestigd | zonneplan.nl, aug 2026 |
-| Zonneplan | 20 kWh | €7.290 | **€365** | niet bevestigd | zonneplan.nl, aug 2026 |
-| Zonneplan | 35 kWh | €9.090 | **€260** | niet bevestigd | zonneplan.nl, aug 2026 |
+| Zonneplan | 10 / 15 / 20 / 35 kWh | **geen gepubliceerde prijslijst** | n.v.t. | niet bevestigd | zonneplan.nl, 21-8-2026 |
 | Marstek Jupiter C Plus | niet vermeld per unit | €599 | niet te berekenen | niet nodig (800 W on-grid) | eu.marstekenergy.com, aug 2026 |
 | Marstek Venus E-lijn | 2 / 5 / 10 kWh | **geen prijs** | — | Mini niet nodig, 4.0 en MAX wel | eu.marstekenergy.com, aug 2026 |
 | Tesla Powerwall 3 | 13,5 kWh | **geen NL-consumentenprijs** | — | via installatiepartner | tesla.com, aug 2026 |
@@ -83,7 +81,7 @@ Daarom staat op deze pagina geen tabel met tien merken en tien bedragen. Wat er 
 
 Drie belangrijke voorbehouden bij deze tabel.
 
-**Bij Zonneplan** zijn de bedragen gepresenteerd "na btw-teruggave". Dat is het eigen advertentieframe van Zonneplan, en voor een losse thuisbatterij gaat het niet op: daar geldt altijd 21 procent btw, en sinds 2023 bestaat er ook op zonnepanelen geen btw-teruggaveroute meer. Of installatie in die bedragen zit, is niet bevestigd. Deze getallen zijn dus niet één-op-een vergelijkbaar met de bedragen inclusief btw in de rest van de tabel.
+**Zonneplan valt buiten deze prijsvergelijking.** Zonneplan publiceert geen vaste prijslijst; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Er staat dus geen bedrag per capaciteitsstap op de site, en daarmee is een prijs per kWh niet te berekenen. Wat Zonneplan wel als voordeel presenteert, is een "gratis btw-teruggave service" — dat is Zonneplans eigen frame en geen vaststaand voordeel: voor een losse thuisbatterij geldt altijd 21 procent btw, en sinds 2023 bestaat er ook op zonnepanelen geen btw-teruggaveroute meer voor particulieren. Vraag in het voorstel om het bedrag dat je daadwerkelijk betaalt inclusief 21 procent btw, en of installatie erin zit; dan kun je het met de rekenmethode verderop zelf omzetten in een prijs per kWh.
 
 **Bij HalloStroom** is €235 per kWh de laagste waarde in het overzicht, maar er staat niet bij welk model het is, of installatie inbegrepen is en welke garantietermijn eraan hangt. Zonder die drie gegevens is een prijs per kWh een indicatie, geen vergelijkingspunt.
 
@@ -109,7 +107,7 @@ Dat maakt de vraag interessanter dan hij lijkt: als de cellen ongeveer €100 pe
 
 **Geen 0 procent btw op de batterij.** Op een thuisbatterij betaal je 21 procent btw. Het nultarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket of thuisbatterij — ook niet als je de batterij samen met panelen koopt. Het nultarief geldt wel voor de panelen zelf plus wat direct nodig is om die te laten werken: kabels, montagemateriaal, optimizers, omvormers en aanpassingen aan meterkast en dak.
 
-Voor de vergelijking betekent dat: alle prijzen in dit artikel zijn inclusief die 21 procent, en dat geldt voor elk merk gelijk. Er is geen merk dat via een btw-constructie relatief goedkoper uitkomt — en een advertentie die met "na btw-teruggave" rekent, rekent met een route die er voor een losse batterij niet is.
+Voor de vergelijking betekent dat: alle prijzen in dit artikel zijn inclusief die 21 procent, en dat geldt voor elk merk gelijk. Er is geen merk dat via een btw-constructie relatief goedkoper uitkomt — en een aanbod dat een "btw-teruggave service" als voordeel presenteert, verwijst naar een route die er voor een losse batterij niet is.
 
 Eén situatie waarin btw wel terug kan komen: lever je stroom terug en ben je daarvoor btw-ondernemer, dan kun je onder voorwaarden btw op de aanschaf terugvragen, waarbij je ook btw afdraagt over je terugleververgoeding. Dat is administratief werk met eigen voorwaarden; check je situatie op belastingdienst.nl.
 

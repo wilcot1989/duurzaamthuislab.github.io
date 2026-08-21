@@ -132,7 +132,7 @@ Voor de meeste NL-huishoudens: **Jinko Tiger Neo** of **Longi Hi-MO 6** bieden d
 
 **Eigen sturing en app.** Zonneplan noemt zijn sturing **"slimme aansturing"** (met de Gridguard- en Nexus-componenten). Let op: "Radar" is een televisieprogramma van AVROTROS en geen Zonneplan-functie, ook al kom je die naam in vergelijkingen tegen.
 
-**Batterijaanbod.** Zonneplan verkoopt batterijen zelf, in de vorm van koop — géén lease. De prijzen die Zonneplan noemt (10 kWh €4.690, 15 kWh €5.490, 20 kWh €7.290, 35 kWh €9.090) zijn Zonneplans eigen advertentieframe "na btw-teruggave". Let op dat er voor een losse thuisbatterij geen btw-teruggaveroute bestaat: daarop geldt altijd 21% btw.
+**Batterijaanbod.** Zonneplan verkoopt batterijen zelf, in de vorm van koop — géén lease. Prijzen kun je niet vooraf opzoeken: Zonneplan publiceert geen vaste prijslijst; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Het aanbod begint bij 10 kWh en is stapelbaar tot 35 kWh. Kom je het frame "gratis btw-teruggave service" tegen: dat is Zonneplans eigen presentatie, geen vaststaand voordeel — voor een losse thuisbatterij bestaat er geen btw-teruggaveroute, daarop geldt altijd 21% btw.
 
 **Wat wij niet kunnen bevestigen:**
 - Een garantietermijn: welke termijn en welke voorwaarden er precies gelden, staat in hun eigen voorwaarden en niet in een publiek overzicht dat wij konden inzien. Vraag het schriftelijk op.
@@ -271,7 +271,7 @@ Een vaste installatieprijs per kWp, gespecificeerde componenten en één aanspre
 **Dak:** ≥25 m² beschikbaar, geen schaduwproblemen  
 **Aanbeveling:** Jinko Tiger Neo of Longi Hi-MO 6 (420–440 Wp), string-omvormer (SMA of Fronius)  
 **Waarom:** maximale kWp voor het budget; groot oppervlak maakt efficiëntieverschillen minder relevant  
-**Prijs 14 panelen:** €6.000–€7.500 inclusief omvormer en installatie via Zonneplan
+**Prijs 14 panelen:** €6.000–€7.500 inclusief omvormer en installatie (indicatie van onze redactie op basis van de eigen prijs-per-Wp-tabel — €0,90-€1,10/Wp × ±6,3 kWp; geen fabrikants- of installateursprijs, vraag altijd een eigen offerte op)
 
 ### Situatie 2: Beperkt dakoppervlak (minder dan 16 m²)
 **Dak:** <16 m² beschikbaar, of deels beschaduwd  

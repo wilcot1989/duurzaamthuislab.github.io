@@ -94,13 +94,15 @@ De fout die het vaakst gemaakt wordt: off-grid dimensioneren op jaargemiddelde o
 
 **Batterij.** LiFePO4 is voor seizoensgebruik de aangewezen chemie: de zelfontlading is laag genoeg om maanden stilstand te overbruggen. Pylontech-modules worden veel toegepast in dit segment; onze [Pylontech review](/posts/pylontech-thuisbatterij-review-2026/) beschrijft de opbouw. Belangrijke ontwerpgrens: LiFePO4 mag niet onder nul graden geladen worden. Plaats de batterij vorstvrij of kies een model met verwarming — in een onverwarmd chalet is dat geen luxe maar een voorwaarde.
 
-**Draagbaar alternatief.** Voor een kleine of tijdelijke situatie is een powerstation een reële optie in plaats van een vaste installatie. De Bluetti AC500 is de omvormer-unit; de opslag zit in losse B300S-modules van ongeveer 3,07 kWh per stuk, die je kunt stapelen. Reken dus niet met 6 kWh voor een AC500 met één module — dat is de capaciteit van twee modules. Het voordeel van deze route is dat je hem kunt meenemen en later kunt uitbreiden; het nadeel is dat je per kilowattuur meer betaalt dan bij een vaste installatie. Onze [Bluetti review](/posts/bluetti-ac200max-review-2026/) beschrijft hoe dat type systeem werkt.
+**Draagbaar alternatief.** Voor een kleine of tijdelijke situatie is een powerstation een reële optie in plaats van een vaste installatie. De Bluetti AC500 is de omvormer-unit; de opslag zit in losse B300K-modules van 2.764,8 Wh (circa 2,76 kWh) per stuk, die je kunt stapelen. Reken dus niet met 5,5 kWh voor een AC500 met één module — dat is de capaciteit van twee modules.
+
+Op prijs is deze route inmiddels scherper dan hij was. De **AC500 + B300K Home Battery Backup** stond op 21 augustus 2026 op **€ 1.200** (van € 3.999) op bluettipower.eu; een **losse B300K** kost daar **€ 1.399**. Per kilowattuur betekent dat voor de startset € 1.200 / 2,7648 kWh ≈ **€ 434 per kWh**, en voor elke module die je erbij zet € 1.399 / 2,7648 kWh ≈ **€ 506 per kWh**. Uitbreiden is dus duurder per kilowattuur dan instappen — de actieprijs zit in de combinatie, niet in de losse accu. Het voordeel van deze route blijft dat je hem kunt meenemen en later kunt uitbreiden; het nadeel is dat er geen vaste installatie met omvormer-integratie tegenover staat. Onze [Bluetti review](/posts/bluetti-ac200max-review-2026/) beschrijft hoe dat type systeem werkt.
 
 <a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk het Bluetti-assortiment</a>
 
 Andere draagbare systemen die in dit segment worden gebruikt, staan beschreven in onze [EcoFlow review](/posts/ecoflow-delta-2-max-review-2026/) en [Goal Zero review](/posts/goal-zero-yeti-6000x-review-2026/).
 
-Prijzen noemen wij bij deze componenten niet als vaststaand gegeven: de meeste fabrikanten in dit segment publiceren geen vaste consumentenprijs voor Nederland, en wat er bij distributeurs staat wisselt sterk. Vraag een offerte op de complete set, niet op losse onderdelen.
+Bij de Victron- en Pylontech-componenten noemen wij geen prijs als vaststaand gegeven: die fabrikanten publiceren geen vaste consumentenprijs voor Nederland, en wat er bij distributeurs staat wisselt sterk. Vraag daar een offerte op de complete set, niet op losse onderdelen. Voor de Bluetti-route geldt dat niet: die prijzen staan wél in de eigen webshop en zijn hierboven vermeld met peildatum 21 augustus 2026 — het zijn actieprijzen, dus controleer ze op het moment van kopen.
 
 ## Waar recreatieparken specifiek op letten
 

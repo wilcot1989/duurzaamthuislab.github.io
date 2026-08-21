@@ -171,41 +171,43 @@ Het tweede is de **uitbreidbaarheid tot 12 kWh** met extra accu's. Daarmee schui
 
 ---
 
-### 4. Bluetti AC500 + B300S — het meest schaalbare systeem
+### 4. Bluetti AC500 + B300K — het meest schaalbare systeem
 
-**Capaciteit:** 3 kWh per B300S-module, volgens de fabrikantopgave op te bouwen tot 18 kWh met zes modules | **AC-vermogen:** 5.000 W continu | **Chemie:** LiFePO4 | **UPS-modus:** 20 ms volgens Bluetti | **Prijs:** Bluetti publiceert de prijs op zijn eigen Europese webshop; die wisselt sterk per actieperiode en wij hebben hem op 21 augustus 2026 niet kunnen inzien — wij nemen daarom geen bedrag over dat wij niet hebben geverifieerd.
+**Capaciteit:** 2.764,8 Wh per B300K-module, volgens de fabrikantopgave op te bouwen met zes modules (6 × 2.764,8 Wh = circa 16,6 kWh) | **AC-vermogen:** 5.000 W continu | **Chemie:** LiFePO4 | **UPS-modus:** 20 ms volgens Bluetti | **Prijs:** €1.200 voor het pakket "AC500 + B300K Home Battery Backup", afgeprijsd van €3.999; een losse extra B300K-module kost €1.399 (bluettipower.eu, gecontroleerd 21-8-2026)
 
-De AC500 is geen powerstation in de gebruikelijke zin: het is een omvormer/lader zonder ingebouwde batterij. Je koppelt er altijd één of meer B300S-modules aan. Dat maakt het systeem het meest schaalbare in dit overzicht, en het is de reden dat het voor grotere woningen in beeld komt.
+De AC500 is geen powerstation in de gebruikelijke zin: het is een omvormer/lader zonder ingebouwde batterij. Je koppelt er altijd één of meer batterijmodules aan; op de Europese webshop is dat sinds deze prijsronde de **B300K** (2.764,8 Wh) en niet meer de B300S. Dat maakt het systeem het meest schaalbare in dit overzicht, en het is de reden dat het voor grotere woningen in beeld komt.
 
-**Modelberekening draaitijd** (1 × B300S, 3 kWh nominaal, 90 procent bruikbaar = circa 2.700 Wh):
+**Modelberekening draaitijd** (1 × B300K, 2.764,8 Wh nominaal, 90 procent bruikbaar = circa 2.488 Wh):
 
-- Essentieel pakket (325 W): **circa 8 uur 20 min**
-- Desktopkantoor plus essentieel (600 W): **circa 4,5 uur**
-- Met twee modules (6 kWh) bij 325 W: **circa 16 uur 30 min**
+- Essentieel pakket (325 W): **circa 7 uur 40 min**
+- Desktopkantoor plus essentieel (600 W): **circa 4 uur**
+- Met twee modules (5.529,6 Wh, circa 4.977 Wh bruikbaar) bij 325 W: **circa 15 uur 20 min**
 
-**Nadelen:** je hebt altijd minimaal één batterijmodule nodig, want de AC500 doet zelf niets. De opbouw is complexer dan bij een all-in-one station. Controleer de garantietermijn en de actuele prijs per module op de productpagina voordat je koopt — de losse modules bepalen hier het grootste deel van de investering.
+**Prijs per kWh capaciteit.** Het instappakket komt uit op €1.200 ÷ 2,7648 kWh = circa €434 per kWh, en dat is met 5.000 W continu erbij het gunstigste vermogen-voor-je-geld in dit overzicht: de EcoFlow Delta 2 Max staat op €949 ÷ 2,048 kWh = circa €463 per kWh bij 2.400 W en de Delta Pro 3 op €3.299 ÷ 4,096 kWh = circa €805 per kWh. Uitbreiden is wél duurder dan instappen: een tweede module kost €1.399, ofwel circa €506 per kWh.
+
+**Nadelen:** je hebt altijd minimaal één batterijmodule nodig, want de AC500 doet zelf niets. De opbouw is complexer dan bij een all-in-one station. De €1.200 is een sterk afgeprijsd actiebedrag (van €3.999), dus controleer het op het moment dat je koopt, en let erop dat de garantietermijn per onderdeel kan verschillen.
 
 **Voor wie:** grotere huishoudens die stap voor stap naar 6 tot 18 kWh willen groeien.
 
 <a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-powerstation-blackout-noodgeval-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de actuele Bluetti-prijzen</a>
 
-Zie ook onze [Bluetti AC200Max review](/posts/bluetti-ac200max-review-2026/) voor het kleinere, niet-modulaire model.
+Zie ook onze [Bluetti AC200Max review](/posts/bluetti-ac200max-review-2026/) voor het kleinere, niet-modulaire model — let op: de AC200MAX stond op 21 augustus 2026 niet meer als toestel in de Bluetti EU-shop; de opvolger daar is de AC200PL (2.304 Wh, 2.400 W, €1.499).
 
 ---
 
 ### 5. Anker Solix F2000 (PowerHouse 767) — snel bijladen
 
-**Capaciteit:** 2 kWh | **AC-vermogen:** 2.400 W continu | **Chemie:** LiFePO4 | **Cycli:** 3.000+ volgens Anker | **Netladen:** circa 1 uur volgens Anker | **Prijs:** Anker publiceert de prijs op zijn eigen webshop; wij hebben die op 21 augustus 2026 niet kunnen inzien en noemen daarom geen bedrag.
+**Capaciteit:** 2.048 Wh | **AC-vermogen:** 2.300 W continu | **Chemie:** LiFePO4 | **Cycli:** 3.000+ volgens Anker | **Netladen:** circa 1 uur volgens Anker | **Prijs:** €1.499 (ankersolix.com/nl, gecontroleerd 21-8-2026)
 
 De F2000 is in de opgaven de snelste netlader in dit overzicht: circa een uur voor een volle lading. Dat is precies de eigenschap die telt als je bij een stormwaarschuwing nog wilt bijvullen, of als je het station ook dagelijks laadt en ontlaadt. Anker geeft daarbij op GaN-techniek in de laadelektronica te gebruiken, wat de warmteontwikkeling bij snelladen beperkt.
 
-**Modelberekening draaitijd** (2 kWh nominaal, 90 procent bruikbaar = circa 1.800 Wh):
+**Modelberekening draaitijd** (2.048 Wh nominaal, 90 procent bruikbaar = circa 1.843 Wh):
 
-- Essentieel pakket (325 W): **circa 5 uur 30 min**
+- Essentieel pakket (325 W): **circa 5 uur 40 min**
 - Alleen koelkast (100 W gemiddeld): **circa 18 uur**
-- Volledig bijladen via 300 W realistische zonopbrengst: **circa 6,5 uur zon**
+- Volledig bijladen via 300 W realistische zonopbrengst: **circa 7 uur zon**
 
-**Nadelen:** de capaciteit is niet uitbreidbaar, dus wie later meer wil, koopt een tweede toestel. Inductie op vol vermogen lukt met 2.400 W net niet.
+**Nadelen:** de capaciteit is niet uitbreidbaar, dus wie later meer wil, koopt een tweede toestel. Inductie op vol vermogen lukt met 2.300 W net niet. En de prijs weegt hier zwaar: €1.499 ÷ 2,048 kWh = circa €732 per kWh, tegen circa €463 per kWh voor de even grote EcoFlow Delta 2 Max (€949) en circa €440 voor de Jackery Explorer 2000 v2 (€899 ÷ 2,042 kWh). Je betaalt bij de F2000 dus ruim €500 meer voor dezelfde 2 kWh; het snelle netladen en de garantie moeten dat verschil waard zijn.
 
 **Voor wie:** huishoudens die snel willen kunnen bijladen en geen schaalbaarheid nodig hebben.
 
@@ -234,8 +236,9 @@ Voor een powerstation is de kostprijs per doorgezette kWh te berekenen uit de aa
 | Jackery Explorer 2000 v2 | €899 | 4.000 × 2,042 kWh | circa €0,11 |
 | EcoFlow Delta 2 Max | €949 | 3.000 × 2,048 kWh | circa €0,15 |
 | EcoFlow Delta Pro 3 | €3.299 | 4.000 × 4,096 kWh | circa €0,20 |
+| Anker Solix F2000 | €1.499 | 3.000 × 2,048 kWh | circa €0,24 |
 
-Daar komt de laadstroom bij. Met onze rekenconstante van **€0,26 per kWh all-in** kom je zo op ongeveer €0,37 tot €0,46 per kWh die je uit het station haalt. Dat is een stuk gunstiger dan de €0,60 tot €1,00 die eerdere versies van dit artikel noemden — die berekening ging uit van 500 cycli, en dat aantal hoort bij NMC-chemie, niet bij de LiFePO4-modellen hier.
+Daar komt de laadstroom bij. Met onze rekenconstante van **€0,26 per kWh all-in** kom je zo op ongeveer €0,37 tot €0,50 per kWh die je uit het station haalt. Dat is een stuk gunstiger dan de €0,60 tot €1,00 die eerdere versies van dit artikel noemden — die berekening ging uit van 500 cycli, en dat aantal hoort bij NMC-chemie, niet bij de LiFePO4-modellen hier.
 
 Een aggregaat is bij aanschaf goedkoper per watt vermogen en levert energie zolang je brandstof hebt. Wat een kWh uit een aggregaat kost, hangt volledig af van de benzineprijs en het verbruik bij jouw belasting; wij noemen daarvoor geen bedrag dat wij niet hebben nagerekend op een geverifieerde brandstofprijs.
 
@@ -305,27 +308,27 @@ Controleer of je apparaten een **zuivere sinusgolf** vereisen. Cv-ketels, medisc
 
 ## Vergelijkingstabel
 
-Prijzen zijn de webshopprijzen van de fabrikanten, opgehaald op 21 augustus 2026. Waar wij geen prijs hebben kunnen verifiëren, staat dat er.
+Prijzen zijn de webshopprijzen van de fabrikanten, opgehaald op 21 augustus 2026: nl.ecoflow.com, nl.jackery.com, bluettipower.eu en ankersolix.com/nl. Waar wij een gegeven niet hebben kunnen verifiëren, staat dat er.
 
 | Model | Capaciteit | AC-vermogen | Chemie | Cycli (opgave) | Garantie | Prijs (21-8-2026) |
 |---|---|---|---|---|---|---|
 | EcoFlow Delta 2 Max | 2.048 Wh | 2.400 W (4.800 W piek) | LiFePO4 | >3.000 | 5 jaar | €949 (van €1.199) |
 | Jackery Explorer 2000 v2 | 2.042 Wh | 2.200 W | LiFePO4 | 4.000 | 3 + 2 jaar | €899 |
 | EcoFlow Delta Pro 3 | 4.096 Wh (tot 12 kWh) | 4.000 W (8.000 W X-Boost) | LiFePO4 | 4.000 | 5 jaar | €3.299 |
-| Bluetti AC500 + B300S | 3–18 kWh | 5.000 W | LiFePO4 | opgave fabrikant | niet geverifieerd | niet geverifieerd |
-| Anker Solix F2000 | 2 kWh | 2.400 W | LiFePO4 | 3.000+ | niet geverifieerd | niet geverifieerd |
+| Bluetti AC500 + B300K | 2,76 kWh per module, tot circa 16,6 kWh | 5.000 W | LiFePO4 | opgave fabrikant | niet geverifieerd | €1.200 (van €3.999) voor AC500 + 1× B300K; losse B300K €1.399 |
+| Anker Solix F2000 | 2.048 Wh | 2.300 W | LiFePO4 | 3.000+ | niet geverifieerd | €1.499 |
 
 ---
 
 ## Welk model past bij jou?
 
-**Rijtjeshuis met cv-ketel en inductie:** EcoFlow Delta Pro 3 — de enige in dit overzicht die die combinatie op vermogen aankan.
+**Rijtjeshuis met cv-ketel en inductie:** EcoFlow Delta Pro 3 (4.000 W continu, 4.096 Wh, €3.299) of het Bluetti AC500-systeem (5.000 W continu, €1.200 met één B300K-module van 2.764,8 Wh). Op vermogen kan de Bluetti het ruimer, en voor een derde van het geld; de Delta Pro 3 heeft er wel 1,3 kWh meer capaciteit en de snellere omschakeling (10 tegen 20 ms) tegenover staan.
 
 **Appartement of kleine woning, geen inductie:** EcoFlow Delta 2 Max of Jackery Explorer 2000 v2. Vergelijkbare capaciteit; de Jackery is lichter en heeft de hoogste cyclusopgave, de EcoFlow heeft meer continu vermogen en een hogere solar-input.
 
 **Thuiskantoor met servers of NAS:** EcoFlow Delta Pro 3 — de opgegeven overschakeltijd van 10 ms is de laagste hier.
 
-**Maximale backup-duur:** Delta Pro 3 met extra accu's (tot 12 kWh), of het Bluetti AC500-systeem met meerdere B300S-modules.
+**Maximale backup-duur:** Delta Pro 3 met extra accu's (tot 12 kWh), of het Bluetti AC500-systeem met meerdere B300K-modules (zes modules = circa 16,6 kWh, elke extra module €1.399).
 
 **Onder €1.000:** Jackery Explorer 2000 v2 (€899) of EcoFlow Delta 2 Max (€949) — beide actieprijzen van 21 augustus 2026, dus controleer het bedrag bij aankoop.
 

@@ -1,7 +1,7 @@
 ---
 title: 'EcoFlow River 2 Pro Review 2026: Beste Budget Powerstation?'
 date: 2026-03-26 12:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 description: Review van de EcoFlow River 2 Pro (768 Wh, 800 W) op basis van de fabrieksspecificaties en narekenbare verbruiksberekeningen. Prijs €549 volgens nl.ecoflow.com, peildatum 21 augustus 2026.
 categories:
 - powerstations
@@ -43,8 +43,9 @@ products:
   price: '549'
 - name: Jackery Explorer 700 Plus
   url: https://go.duurzaamthuislab.nl/jackery
-- name: Anker SOLIX C800
+- name: Anker SOLIX C1000
   url: https://go.duurzaamthuislab.nl/anker-solix
+  price: '999'
 schema_type: Review
 ---
 Voor €549 krijg je 768 Wh, X-Stream snelladen en een gewicht van 7,8 kg (prijs van het losse station volgens nl.ecoflow.com, opgehaald 21 augustus 2026). Wij zetten de fabrieksspecificaties, de handleiding en concrete verbruiksberekeningen naast elkaar: voor welk gebruik is 768 Wh genoeg, en waar loopt dit station tegen zijn grenzen aan?
@@ -330,10 +331,11 @@ Een minder bekende maar relevante concurrent is de Anker SOLIX C1000. Beide zijn
 | Batterijlevensduur | 3.000 cycli | 3.000 cycli |
 | WiFi + Bluetooth | Ja | Ja |
 | Uitbreidbaar | Ja (768 Wh extra) | Beperkt |
+| Prijs | €549 (nl.ecoflow.com, 21-8-2026) | €999 (ankersolix.com/nl, 21-8-2026) |
 
-*Specificaties volgens de fabrikanten; de prijs van de C1000 laten wij hier weg omdat wij daarvoor geen actuele bron met peildatum hebben. Zie onze [Anker SOLIX C1000-review](/posts/anker-solix-c1000-review-2026/).*
+*Specificaties volgens de fabrikanten, prijzen volgens de eigen webshops op 21 augustus 2026. Zie ook onze [Anker SOLIX C1000-review](/posts/anker-solix-c1000-review-2026/).*
 
-De River 2 Pro wint op compactheid en laadsnelheid. De Anker SOLIX C1000 wint op capaciteit (bijna 40% meer) en continu vermogen (ruim tweemaal zoveel). Voor wie alleen weekendcamping doet: River 2 Pro. Voor wie ook een 12V-koelkast én een kookplaat wil voeden: C1000.
+De River 2 Pro wint op compactheid, laadsnelheid en prijs per Wh: €549 voor 768 Wh is €0,71 per Wh, tegen €0,95 per Wh voor de C1000 (€999 voor 1.056 Wh). De Anker SOLIX C1000 wint op capaciteit (bijna 40% meer) en continu vermogen (ruim tweemaal zoveel) — je betaalt €450 meer voor 288 Wh extra en 1.000 W meer continu vermogen, dus het verschil zit vooral in wat je wilt aansluiten, niet in de voorraad. Voor wie alleen weekendcamping doet: River 2 Pro. Voor wie ook een 12V-koelkast én een kookplaat wil voeden: C1000.
 
 ## Gebruik als UPS voor thuiswerkplek
 

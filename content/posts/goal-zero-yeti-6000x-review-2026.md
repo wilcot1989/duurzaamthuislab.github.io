@@ -42,13 +42,13 @@ products:
 - name: EcoFlow Delta Pro Ultra
   url: https://go.duurzaamthuislab.nl/ecoflow
   price: '4499'
-- name: Bluetti AC500 + B300S
+- name: Bluetti AC500 + B300K
   url: https://go.duurzaamthuislab.nl/bluetti-eu
-  price: '4299'
+  price: '1200'
 ---
 De Goal Zero Yeti 6000X wordt vooral gezocht door mensen met een concrete back-up vraag: een UPS overbrugt doorgaans niet meer dan een half uur, terwijl je bij kritische apparatuur acht uur of langer wilt overbruggen zonder de complexiteit van een Victron-installatie.
 
-Hieronder de review op basis van fabrieksspecificaties, handleidingen en garantievoorwaarden: wat het toestel kan, hoe het zich verhoudt tot de EcoFlow Delta Pro Ultra en Bluetti AC500, en voor wie dit premium powerstation zinnig is.
+Hieronder de review op basis van fabrieksspecificaties, handleidingen en garantievoorwaarden: wat het toestel kan, hoe het zich verhoudt tot de EcoFlow Delta Pro Ultra en de Bluetti AC500, en voor wie dit premium powerstation zinnig is.
 
 *Disclosure: deze pagina bevat affiliate-links naar EcoFlow en Bluetti (via AWIN). Koop je via zo'n link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Met Goal Zero zelf hebben wij geen commissierelatie. Onze beoordeling rust op openbare fabrikantdocumentatie (specificaties, handleidingen, garantievoorwaarden) en publieke bronnen; wij hebben dit toestel niet zelf getest en nemen geen gemeten waarden van derden over.*
 
@@ -135,7 +135,7 @@ Goal Zero geeft op de Yeti-lijn 2 jaar garantie. Of er in Nederland een betaalde
 
 **1. Prijs**
 
-Rond €5.000 is duur voor 6 kWh. De EcoFlow Delta Pro Ultra biedt op richtprijs vergelijkbare capaciteit voor enkele honderden euro's minder én is modulair uitbreidbaar; de Bluetti AC500 met B300S zit in dezelfde klasse nog iets lager. Zie de prijstabel hieronder voor de bedragen en het voorbehoud daarbij.
+Rond €5.000 is duur voor 6 kWh. De EcoFlow Delta Pro Ultra biedt op richtprijs vergelijkbare capaciteit voor enkele honderden euro's minder én is modulair uitbreidbaar. Nog scherper per kWh is de Bluetti AC500 met een B300K-accu: die combinatie staat op €1.200 (van €3.999) voor 2.764,8 Wh, oftewel ongeveer €434 per kWh, tegen ruwweg €820 per kWh voor de Yeti op zijn richtprijs (bluettipower.eu, gecontroleerd 21-8-2026). Je krijgt daar wel minder capaciteit voor; wil je richting 6 kWh, dan koop je een tweede B300K bij (€1.399 los). Zie de prijstabel hieronder voor de bedragen en het voorbehoud daarbij.
 
 **2. NMC chemie (geen LFP)**
 
@@ -155,17 +155,17 @@ De ventilator gaat aan bij hogere belasting en is dan hoorbaar. Goal Zero public
 
 ## Vergelijking met concurrenten
 
-Over de prijzen in deze tabel: het zijn eerder genoteerde richtprijzen bij Europese verkopers. Goal Zero publiceert voor Nederland geen vaste consumentenprijs, en de EcoFlow-, Bluetti-, Jackery- en Anker-prijzen wisselen met acties. Wij konden ze op 21 augustus 2026 niet allemaal opnieuw verifiëren; gebruik ze als orde van grootte en check de dagprijs via de productlinks.
+Over de prijzen in deze tabel: de Bluetti-prijs komt van bluettipower.eu (gecontroleerd 21-8-2026) en is een actieprijs. Goal Zero publiceert voor Nederland geen vaste consumentenprijs, en de EcoFlow-, Jackery- en Anker-prijzen wisselen met acties; die konden wij op 21 augustus 2026 niet allemaal opnieuw verifiëren. Gebruik die laatste als orde van grootte en check de dagprijs via de productlinks.
 
-| Model | Capaciteit | AC | Prijs (richtprijs) | Chemie | Garantie |
+| Model | Capaciteit | AC | Prijs | Chemie | Garantie |
 |-------|-----------|-----|-------|--------|----------|
-| Goal Zero Yeti 6000X | 6,07 kWh | 2.000 W | €4.999 | NMC | 2 jaar |
-| EcoFlow Delta Pro Ultra | 6,14 kWh | 4.000 W | €4.499 | LFP | 5 jaar |
-| Bluetti AC500 + B300S | 6,1 kWh | 5.000 W | €4.299 | LFP | 5 jaar |
-| Jackery 3000 Pro | 3,02 kWh | 3.000 W | €2.799 | NMC | 5 jaar |
-| Anker SOLIX F3800 | 3,84 kWh | 6.000 W | €3.499 | LFP | 5 jaar |
+| Goal Zero Yeti 6000X | 6,07 kWh | 2.000 W | €4.999 (richtprijs) | NMC | 2 jaar |
+| EcoFlow Delta Pro Ultra | 6,14 kWh | 4.000 W | €4.499 (richtprijs) | LFP | 5 jaar |
+| Bluetti AC500 + B300K | 2,76 kWh | 5.000 W | €1.200 (van €3.999) | LFP | 5 jaar |
+| Jackery 3000 Pro | 3,02 kWh | 3.000 W | €2.799 (richtprijs) | NMC | 5 jaar |
+| Anker SOLIX F3800 | 3,84 kWh | 6.000 W | €3.499 (richtprijs) | LFP | 5 jaar |
 
-Voor pure capaciteit per euro is EcoFlow of Bluetti beter. Goal Zero wint op robuustheid en pure sine wave kwaliteit.
+Voor pure capaciteit per euro is Bluetti in deze rij het scherpst: €1.200 voor 2.764,8 Wh is ongeveer €434 per kWh, tegen €733 per kWh voor de Delta Pro Ultra en €824 per kWh voor de Yeti. Let op dat de AC500-combi met één B300K minder dan de helft van de capaciteit van de Yeti heeft. Goal Zero wint op robuustheid en pure sine wave kwaliteit.
 
 Lees ook [EcoFlow vs Jackery](/posts/ecoflow-vs-jackery-2026/) en [beste draagbare powerstation](/posts/beste-draagbare-powerstation-2026/) voor onze complete vergelijking.
 
@@ -200,7 +200,7 @@ Yeti 6000X kan tot 1.300W zonne-input verwerken via 4x XT60 ingangen. Goal Zero 
 
 ## Camping en mobile gebruik
 
-Voor camper-gebruik is de Yeti 6000X eigenlijk te zwaar (49 kg). Praktischer is de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) (2 kWh, circa 23 kg) of [Bluetti AC200max](/posts/bluetti-ac200max-review-2026/). Voor stationair gebruik in tweede woning of work-from-home backup is de 6000X wel geschikt.
+Voor camper-gebruik is de Yeti 6000X eigenlijk te zwaar (49 kg). Praktischer is de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) (2 kWh, circa 23 kg). De [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) uit dezelfde klasse is niet meer leverbaar in de Bluetti EU-shop (gecontroleerd 21-8-2026); de opvolger is de AC200PL (2.304 Wh / 2.400 W) voor €1.499. Voor stationair gebruik in tweede woning of work-from-home backup is de 6000X wel geschikt.
 
 ## Wanneer betaalt dit zich terug? Een rekenmodel
 
@@ -247,7 +247,7 @@ Bouwbesluit speelt geen rol omdat het apparaat los staat. Wel verstandig: meld h
 
 Sla de Yeti 6000X over als je in een doorsnee Nederlandse rijwoning woont met een of twee korte stroomstoringen per jaar. Voor die situatie is een UPS voor de router en de cv-ketel al genoeg, en houd je het grootste deel van het budget over voor maatregelen die wél iets aan je energierekening doen. Ook bij huurwoningen waar de bewoner mogelijk binnen 5 jaar verhuist: de terugverdientijd is veel langer dan de verblijfsduur.
 
-Wie zonnepanelen heeft en grid-tied wil opslaan zonder netzcontract: koop een Sessy of Marstek thuisbatterij. Wie alleen camping doet: een Bluetti AC200max van 2 kWh is goedkoper en lichter. Wie een aggregaat al heeft staan: voeg een UPS toe en je hebt 80% van het effect voor 10% van de prijs.
+Wie zonnepanelen heeft en grid-tied wil opslaan zonder netzcontract: koop een Sessy of Marstek thuisbatterij. Wie alleen camping doet: een Bluetti AC200PL van 2.304 Wh voor €1.499 (bluettipower.eu, gecontroleerd 21-8-2026) is goedkoper en lichter — de eerdere AC200MAX staat niet meer in de Bluetti EU-shop. Wie een aggregaat al heeft staan: voeg een UPS toe en je hebt 80% van het effect voor 10% van de prijs.
 
 ## Rekenvoorbeeld: praktijk of klein kantoor met gekoelde voorraad
 

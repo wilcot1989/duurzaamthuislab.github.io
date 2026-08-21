@@ -26,7 +26,7 @@ faq:
 - q: Voor welk huishouden is 10 kWh de juiste maat?
   a: '10 kWh past bij een jaarverbruik van ongeveer 3.500 tot 6.500 kWh en een zonoverschot van 1.500 tot 4.000 kWh per jaar. Onder de 3.000 kWh verbruik vul je die capaciteit niet en is 5 kWh logischer. Boven de 6.500 kWh met warmtepomp én elektrische auto kom je met 10 kWh tekort en kijk je naar een groter of modulair systeem.'
 - q: Welke 10 kWh-thuisbatterij heeft de laagste gepubliceerde prijs?
-  a: 'Van de systemen met een controleerbare prijs is dat Sessy: €5.500 incl. btw en excl. installatie voor 10 kWh (sessy.nl, augustus 2026), oftewel €550 per kWh. Zonneplan adverteert €4.690 voor 10 kWh, maar dat is een bedrag in hun eigen frame "na btw-teruggave" — voor een losse thuisbatterij bestaat die route niet en geldt altijd 21 procent btw. Marstek, EcoFlow, Huawei en BYD publiceren voor deze klasse geen consumentenprijs.'
+  a: 'Van de systemen met een controleerbare prijs is dat Sessy: €5.500 incl. btw en excl. installatie voor 10 kWh (sessy.nl, augustus 2026), oftewel €550 per kWh. Het is daarmee ook het enige systeem in dit overzicht met een publieke prijs per kWh. Zonneplan publiceert geen vaste prijslijst; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026) en valt daarmee buiten de prijsvergelijking. Marstek, EcoFlow, Huawei en BYD publiceren voor deze klasse ook geen consumentenprijs.'
 - q: Hoe lang duurt de terugverdientijd van een 10 kWh-batterij?
   a: 'In ons rekenmodel levert 10 kWh vanaf 2027 circa €353 per jaar op: verschuiven van eigen zonnestroom plus netarbitrage, bij expliciet benoemde aannames. Bij een aanschafprijs van €5.500 exclusief installatie komt dat op ruim 15 jaar. Terugverdientijden van drie of vier jaar die je elders leest, rusten op aannames die wij niet kunnen onderbouwen — meestal 350 volle cycli per jaar tegen de volle dagspread, of dubbeltelling met saldering.'
 - q: Welke heeft de beste noodstroomfunctie?
@@ -53,9 +53,9 @@ products:
   url: https://go.duurzaamthuislab.nl/huawei-luna
 schema_type: Article
 ---
-> **Kort antwoord:** in deze klasse verschillen de systemen minder in opbrengst dan in prijs — en de prijs is bij de helft van de merken niet publiek.
+> **Kort antwoord:** in deze klasse verschillen de systemen minder in opbrengst dan in prijs — en bij zes van de zeven merken is die prijs niet publiek.
 >
-> Sessy is het enige systeem met een volledig gepubliceerde prijs (€5.500 voor 10 kWh, excl. installatie) en heeft een Nederlandse organisatie. Marstek biedt het meeste vermogen per euro, maar publiceert geen prijs en geen garantietermijn. Tesla en EcoFlow gaan via een dealer- of installateurskanaal zonder consumentenprijslijst. Wat je systemen dus vergelijkbaar maakt, is één getal dat je zelf moet ophalen: de totaalprijs per kWh, inclusief installatie.
+> Sessy is het enige systeem met een volledig gepubliceerde prijs (€5.500 voor 10 kWh, excl. installatie) en heeft een Nederlandse organisatie. Marstek biedt het meeste vermogen per euro, maar publiceert geen prijs en geen garantietermijn. Zonneplan publiceert sinds kort geen vaste prijslijst meer en werkt met een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Tesla en EcoFlow gaan via een dealer- of installateurskanaal zonder consumentenprijslijst. Wat je systemen dus vergelijkbaar maakt, is één getal dat je zelf moet ophalen: de totaalprijs per kWh, inclusief installatie.
 >
 > **Zoek je niet specifiek 10 kWh?** Onze brede keuzegids staat hier: **[beste thuisbatterij 2026](/posts/beste-thuisbatterij-nederland-2026/)**.
 
@@ -64,7 +64,7 @@ schema_type: Article
 | Thuisbatterij (±10 kWh) | Capaciteit | Gepubliceerde prijs | Vermogen continu | Sterkste punt |
 |---|---|---|---|---|
 | **Sessy 10 kWh** | 10 kWh | €5.500 incl. btw, excl. installatie | 2,2 kW laden / 1,7 kW ontladen | Prijs, specs en garantie zijn publiek |
-| **Zonneplan** | 10 kWh | €4.690 in het frame "na btw-teruggave" | niet gepubliceerd | Alles-in-één bij één partij |
+| **Zonneplan** | 10 kWh | geen gepubliceerde prijslijst | niet gepubliceerd | Alles-in-één bij één partij |
 | **Marstek Venus E MAX** | 10 kWh | geen prijs op vendorpagina | 3,6 kW bidirectioneel | Hoogste vermogen per euro |
 | **Tesla Powerwall 3** | 13,5 kWh (opgave Tesla) | geen NL-consumentenprijs | via dealeropgave | Grootste capaciteit, automatische back-up |
 | **EcoFlow PowerOcean** | vanaf circa 10 kWh, modulair | geen consumentenprijs | via installateuropgave | Modulair, hoog vermogen |
@@ -109,7 +109,7 @@ Dat is de kern van deze hele vergelijking: **de systemen verschillen nauwelijks 
 | Systeem | Prijs | Opbrengst per jaar | Simpele terugverdientijd |
 |---|---|---|---|
 | Sessy 10 kWh | €5.500 excl. installatie | circa €353 | ruim 15 jaar (langer met installatie) |
-| Zonneplan 10 kWh | €4.690 in eigen "na btw-teruggave"-frame | circa €353 | circa 13 jaar in dat frame; hoger bij 21% btw |
+| Zonneplan 10 kWh | geen gepubliceerde prijslijst | circa €353 | alleen te bepalen met het persoonlijke voorstel in de hand |
 | Overige systemen | geen gepubliceerde prijs | circa €353 | deel je offertebedrag door €353 |
 
 Wie met eigen cijfers wil rekenen, kan dat in onze [vergelijker voor terugverdientijd van thuisbatterijen](/thuisbatterij-terugverdientijd-vergelijken/). De onzekerste variabele is de spread tussen het goedkoopste en het duurste uur; die staat live op onze pagina met [dynamische stroomprijzen per uur](/stroomprijzen/).
@@ -126,7 +126,7 @@ Ook goed te weten: de ISDE dekt geen thuisbatterijen. Er is geen subsidie om de 
 
 **Fout 4: sturing en leverancier los van elkaar beoordelen.** Bij Zonneplan werkt de slimme aansturing volgens hun eigen uitlegpagina alleen met een Zonneplan-energiecontract. Dat is geen detail: de opbrengst hangt dan aan het contract, niet aan de hardware. Stap je over, dan houd je een batterij over die alleen nog eigen zonnestroom buffert. Terzijde, omdat dit veel verwarring geeft: **"Radar" is het consumentenprogramma van AVROTROS, geen functie van Zonneplan of Sessy.** De uitleg staat in [wat Zonneplan Radar wel en niet is](/posts/zonneplan-radar-uitleg-2026/).
 
-**Fout 5: uitgaan van een advertentieprijs in een gunstig frame.** Zonneplan noemt bedragen "na btw-teruggave". Voor een losse thuisbatterij bestaat die route niet: daar geldt 21 procent btw, en sinds 2023 is er ook op zonnepanelen geen btw-teruggaveroute meer. Vraag dus altijd het bedrag inclusief btw én of installatie erin zit.
+**Fout 5: een bedrag uit een gunstig frame overnemen als prijs.** Zonneplan publiceert geen vaste prijslijst meer; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Wat er wel staat, is een "gratis btw-teruggave service" — dat is Zonneplans eigen aanduiding, geen prijsonderdeel. Voor een losse thuisbatterij bestaat er geen btw-teruggaveroute: daar geldt 21 procent btw, en sinds 2023 is die route ook op zonnepanelen verdwenen. Vraag dus altijd het bedrag inclusief btw én of installatie erin zit — en vergelijk pas als je dat getal zwart-op-wit hebt.
 
 ## De zeven systemen
 
@@ -156,7 +156,7 @@ Sessy komt van Charged in Andelst. Prijs: €5.500 incl. btw en excl. installati
 
 ### 3. Zonneplan 10 kWh — alles bij één partij
 
-Zonneplan (opgericht in 2012 in Zwolle) verkoopt thuisbatterijen; lease of huur biedt het bedrijf op de eigen huurpagina uitdrukkelijk níet aan. De geadverteerde bedragen zijn €4.690 voor 10 kWh, €5.490 voor 15 kWh, €7.290 voor 20 kWh en €9.090 voor 35 kWh — in Zonneplans eigen frame "na btw-teruggave". De omvormer heet Nexus; de sturing heet "slimme aansturing", met een beschermlaag die Zonneplan Gridguard noemt.
+Zonneplan (opgericht in 2012 in Zwolle) verkoopt thuisbatterijen; lease of huur biedt het bedrijf op de eigen huurpagina uitdrukkelijk níet aan. Zonneplan publiceert geen vaste prijslijst; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Wel noemt Zonneplan een "gratis btw-teruggave service" — dat is de eigen aanduiding van het bedrijf, geen bedrag waarmee je kunt rekenen. De omvormer heet Nexus; de sturing heet "slimme aansturing", met een beschermlaag die Zonneplan Gridguard noemt.
 
 **Sterk:** één partij voor panelen, batterij, laadpaal en contract, met één app en één serviceloket. Voor wie niet vier leveranciers wil managen, is dat een reëel voordeel.
 
@@ -228,7 +228,7 @@ Over timing zeggen wij niets met een percentage erbij. Het is aannemelijk dat de
 
 ## Vijf vragen die je keuze bepalen
 
-**1. Wil je een controleerbare prijs of accepteer je een offerte?** Wil je vooraf kunnen nalezen wat iets kost, dan blijft Sessy over — en Zonneplan met het btw-voorbehoud.
+**1. Wil je een controleerbare prijs of accepteer je een offerte?** Wil je vooraf kunnen nalezen wat iets kost, dan blijft Sessy als enige over. Bij de andere zes — Zonneplan inbegrepen — begint het gesprek met een offerte of een persoonlijk voorstel.
 
 **2. Hoeveel vermogen heb je nodig?** Kijk naar het continu **ontlaad**vermogen, niet naar de piek. Onder 2 kW dempt een batterij geen gelijktijdige zware verbruikers.
 
@@ -240,11 +240,11 @@ Over timing zeggen wij niets met een percentage erbij. Het is aannemelijk dat de
 
 ## Onze aanbeveling
 
-**Voor wie een navolgbaar aanbod en Nederlandse service wil:** Sessy 10 kWh. Het is niet het goedkoopst per kWh, maar het is het enige systeem in deze klasse waarvan je prijs, specificaties, modi en garantie vooraf kunt nalezen. Bij een aankoop van deze omvang is dat meer waard dan een paar honderd euro verschil.
+**Voor wie een navolgbaar aanbod en Nederlandse service wil:** Sessy 10 kWh. Of het ook het goedkoopst per kWh is, valt niet vast te stellen — het is het enige systeem in deze klasse met een publieke prijs, dus er is niets om tegen af te zetten. Wat je er wél voor krijgt: prijs, specificaties, modi en garantie kun je vooraf nalezen. Bij een aankoop van deze omvang is dat meer waard dan een paar honderd euro verschil in een offerte die je niet kunt controleren.
 
 **Voor wie vermogen zoekt en zelf het papierwerk regelt:** Marstek Venus E MAX. 3,6 kW is in deze klasse veel, en AC-retrofit is comfortabel. Doe het alleen met prijs, garantietermijn en servicepad schriftelijk vastgelegd.
 
-**Voor wie één partij voor alles wil:** Zonneplan, met twee voorbehouden: de bedragen staan in een "na btw-teruggave"-frame dat voor een losse batterij niet opgaat, en de slimme aansturing vraagt een Zonneplan-contract.
+**Voor wie één partij voor alles wil:** Zonneplan, met twee voorbehouden: er is geen gepubliceerde prijslijst, dus je kunt het aanbod pas vergelijken als het persoonlijke voorstel binnen is (zonneplan.nl, gecontroleerd 21-8-2026), en de slimme aansturing vraagt een Zonneplan-contract.
 
 **Voor wie zwaar gelijktijdig verbruik heeft:** vraag offertes op voor EcoFlow PowerOcean of een driefase-systeem met een eigen hybride omvormer, en vergelijk op totaalprijs per kWh inclusief installatie.
 

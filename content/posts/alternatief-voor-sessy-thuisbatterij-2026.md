@@ -25,7 +25,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Wat is het goedkoopste alternatief voor Sessy?
-  a: 'Dat valt met publieke prijzen niet hard te zeggen. Marstek publiceert voor de Nederlandse markt geen prijs voor zijn thuisbatterijen (marstekenergy.com, NL-store ''coming soon'', gecontroleerd 21 augustus 2026); de enige gepubliceerde prijs is de Jupiter C Plus van 800 W voor €599. Sessy publiceert wél: 5 kWh €3.550, 10 kWh €5.500, incl. btw en excl. installatie. Wie echt lager wil uitkomen, komt bij een draagbaar powerstation terecht — dat is geen vaste thuisbatterij.'
+  a: 'Dat valt met publieke prijzen niet hard te zeggen. Marstek publiceert voor de Nederlandse markt geen prijs voor zijn thuisbatterijen (marstekenergy.com, NL-store ''coming soon'', gecontroleerd 21 augustus 2026); de enige gepubliceerde prijs is de Jupiter C Plus van 800 W voor €599. Sessy publiceert wél: 5 kWh €3.550, 10 kWh €5.500, incl. btw en excl. installatie. Wie echt lager wil uitkomen, komt bij een powerstation terecht: de Bluetti AC500 met één B300K-accumodule (2.764,8 Wh) stond op 21 augustus 2026 op €1.200, afgeprijsd van €3.999 (bluettipower.eu, gecontroleerd 21-8-2026). Dat is geen vaste thuisbatterij met marktsturing, dus vergelijk niet alleen de prijs.'
 - q: Hoe verhoudt Marstek zich tot Sessy?
   a: 'Marstek levert LFP-thuisbatterijen; de huidige lijn is Mini 2, E 4.0 (5 kWh) en E MAX (10 kWh) — de Venus-modellen zijn de oudere lijn. Wat je bij Marstek inlevert is niet zozeer techniek maar zekerheid: er is voor Nederland geen gepubliceerde prijs, de Nederlandse webshop staat op ''coming soon'' en de garantie vervalt volgens de eigen voorwaarden wanneer het toestel buiten het land van aankoop wordt gebruikt. Bij Sessy staan prijs, garantie en service wél zwart op wit.'
 - q: Is de EcoFlow Delta Pro Ultra geschikt als thuisbatterij?
@@ -46,8 +46,9 @@ products:
 - name: Jackery Explorer 2000 v2
   url: https://go.duurzaamthuislab.nl/jackery
   price: '899'
-- name: Bluetti AC500
+- name: Bluetti AC500 + B300K
   url: https://go.duurzaamthuislab.nl/bluetti-eu
+  price: '1200'
 schema_type: Article
 last_updated: '2026-08-21'
 ---
@@ -60,7 +61,7 @@ Dit artikel zet vijf alternatieven naast Sessy op de punten die je vooraf kunt c
 
 ---
 
-> **Kort antwoord:** wil je een vaste thuisbatterij met een prijs die je vooraf kunt narekenen, dan is Sessy zelf (5 kWh €3.550) vaak de eerlijkste vergelijking — juist omdat Marstek voor Nederland geen prijs publiceert. Zoek je vooral noodstroom, dan zijn EcoFlow Delta Pro Ultra en Bluetti AC500 stationaire kandidaten die automatisch overnemen bij netuitval. Wil je zelf sturen via Home Assistant, dan is Anker SOLIX de meest open optie. Jackery is geen thuisbatterij maar een draagbaar powerstation — als eerste stap prima, als investering niet rendabel.
+> **Kort antwoord:** wil je een vaste thuisbatterij met een prijs die je vooraf kunt narekenen, dan is Sessy zelf (5 kWh €3.550) vaak de eerlijkste vergelijking — juist omdat Marstek voor Nederland geen prijs publiceert. Zoek je vooral noodstroom, dan zijn EcoFlow Delta Pro Ultra en de Bluetti AC500 stationaire kandidaten die automatisch overnemen bij netuitval — die AC500 stond op 21 augustus 2026 met één B300K-module (2.764,8 Wh) op €1.200, van €3.999 (bluettipower.eu). Wil je zelf sturen via Home Assistant, dan is Anker SOLIX de meest open optie. Jackery is geen thuisbatterij maar een draagbaar powerstation — als eerste stap prima, als investering niet rendabel.
 
 ## Wanneer is Sessy te duur voor jouw situatie?
 
@@ -80,7 +81,7 @@ In onderstaande tabel staat het kader voor wanneer welk alternatief logisch is.
 | Vaste thuisbatterij, prijs onbekend accepteren | Marstek E 4.0 (5 kWh) | Nee — geen NL-prijs, NL-store "coming soon" |
 | Noodstroom die automatisch overneemt | EcoFlow Delta Pro Ultra | Nee — wisselt per configuratie en actie |
 | Zelf sturen via Home Assistant | Anker SOLIX X1 | Nee — projectprijs via dealer |
-| Zwaar vermogen bij netuitval, modulair | Bluetti AC500 + accumodules | Nee — wisselt per configuratie |
+| Zwaar vermogen bij netuitval, modulair | Bluetti AC500 + B300K-accumodules | Ja: €1.200 voor AC500 + 1× B300K (bluettipower.eu, 21-8-2026) |
 | Draagbare stroom, geen investering | Jackery Explorer 2000 v2 | Ja: ± €899 (peildatum 20-8-2026) |
 
 ## Alternatief 1: Marstek — goedkoper, maar zonder gepubliceerde prijs
@@ -192,19 +193,21 @@ Twijfel je tussen de modellen: lees [Jackery Explorer 2000 v2 versus 2000 Plus](
 
 Bluetti is een merk dat tussen Jackery (portable) en Sessy (vaste installatie) inzit. De AC500 is hun flagship hybride systeem: je kunt het portable gebruiken maar ook semi-vast installeren.
 
-**Wat vaststaat (fabrieksopgave Bluetti, AC500 met B300-accumodules):**
-- Losse omvormer-eenheid plus stapelbare accumodules van 3 kWh per stuk, volgens de fabrikantopgave tot 18 kWh met zes modules
+**Wat vaststaat (fabrieksopgave Bluetti, AC500 met B300K-accumodules):**
+- Losse omvormer-eenheid plus stapelbare accumodules; de module die Bluetti er nu bij levert is de **B300K van 2.764,8 Wh**, volgens de fabrikantopgave stapelbaar tot zes stuks. Zes modules komt rekenkundig op 6 × 2.764,8 Wh = 16,6 kWh
 - 5.000 W continu vermogen volgens Bluetti — ruim voor noodstroom, maar lager dan de 6.900 W die EcoFlow voor de Delta Pro Ultra opgeeft
 - Celtype: LFP
 - Bediening via de Bluetti-app; geen ingebouwde sturing op de Nederlandse markt
-- Prijs: afhankelijk van het aantal modules en de actuele actieprijs; controleer de configuratieprijs in de webshop
+- Prijs: **€1.200 voor de combinatie AC500 + 1× B300K**, afgeprijsd van €3.999 (bluettipower.eu, gecontroleerd 21-8-2026). Een losse extra B300K stond daar op **€1.399**. Dit zijn actieprijzen: controleer het bedrag op het moment dat je koopt
 - Garantietermijn: staat per component in de garantievoorwaarden — een omvormer en een accumodule kunnen verschillende termijnen hebben
 
-**Ons oordeel:** het vermogen is het argument. Met 5.000 W continu kun je bij netuitval meer dan de router en de koelkast voeden; boven de 2.200 W die een draagbaar station als de Jackery levert, begint het verschil dat je bij een zware kookplaat of oven merkt. De keerzijde is dezelfde als bij EcoFlow: gebouwd als uitbreidbaar powerstation, niet als vaste woninginstallatie met marktsturing.
+**Ons oordeel:** het vermogen is het argument. Met 5.000 W continu kun je bij netuitval meer dan de router en de koelkast voeden; boven de 2.200 W die een draagbaar station als de Jackery levert, begint het verschil dat je bij een zware kookplaat of oven merkt. En anders dan bij EcoFlow, Anker en Marstek kun je hier wél een rekensom maken: €1.200 voor 2.764,8 Wh is €1.200 ÷ 2,7648 kWh = circa **€434 per kWh**, tegen €710/kWh voor Sessy 5 kWh. De keerzijde is dezelfde als bij EcoFlow: gebouwd als uitbreidbaar powerstation, niet als vaste woninginstallatie met marktsturing — en zonder automatische laad- en ontlaadcyclus draai je er de cycli niet mee die een vaste batterij haalt.
+
+Let op de kanteling bij uitbreiden: een tweede B300K kost los €1.399 en dat is méér dan de €1.200 van de complete instapcombinatie. Per extra kWh betaal je dan €1.399 ÷ 2,7648 = circa **€506 per kWh** — nog onder de Sessy-prijs per kWh, maar het combinatievoordeel verdwijnt.
 
 **Wat je inlevert ten opzichte van Sessy:**
 - Geen sturing op EPEX-uurprijzen of onbalans
-- Prijs per kWh sterk afhankelijk van de configuratie
+- Geen automatische laad- en ontlaadcyclus, dus veel minder cycli per jaar dan een vaste batterij
 - Garantietermijn verschilt per component
 
 **Voor wie:** wie noodstroom voor zware apparaten wil en modulair wil kunnen uitbreiden.
@@ -213,10 +216,10 @@ Bluetti is een merk dat tussen Jackery (portable) en Sessy (vaste installatie) i
 
 ## Vergelijkingstabel: Sessy vs 5 alternatieven
 
-| Eigenschap | Sessy | Marstek E 4.0 / E MAX | EcoFlow Delta Pro Ultra | Anker SOLIX X1 | Jackery Explorer 2000 v2 | Bluetti AC500 |
+| Eigenschap | Sessy | Marstek E 4.0 / E MAX | EcoFlow Delta Pro Ultra | Anker SOLIX X1 | Jackery Explorer 2000 v2 | Bluetti AC500 + B300K |
 |---|---|---|---|---|---|---|
-| Publieke NL-prijs | Ja: €3.550 (5 kWh) / €5.500 (10 kWh) | Nee | Nee | Nee | Ja: ± €899 |  Nee |
-| Capaciteit | 5 of 10 kWh | 5 of 10 kWh | ± 6 kWh, uitbreidbaar | modulair | ± 2 kWh | 3 kWh per module, stapelbaar |
+| Publieke NL-prijs | Ja: €3.550 (5 kWh) / €5.500 (10 kWh) | Nee | Nee | Nee | Ja: ± €899 | Ja: €1.200 voor AC500 + 1× B300K (van €3.999) |
+| Capaciteit | 5 of 10 kWh | 5 of 10 kWh | ± 6 kWh, uitbreidbaar | modulair | ± 2 kWh | 2.764,8 Wh per B300K-module, stapelbaar |
 | Continu AC-vermogen (fabrieksopgave) | 2,2 kW laden / 1,7 kW ontladen | per model, niet uniform gepubliceerd | 6.900 W | niet publiek per configuratie | 2.200 W | 5.000 W |
 | Celtype | LFP | LFP | LFP | LFP | LFP | LFP |
 | Sturing op NL-markt | Ingebouwd (zelfverbruik, dynamisch, onbalans, congestie) | Via cloud-API / Home Assistant | Via Home Assistant | Via Home Assistant (HACS, community) | Nee | Nee |
@@ -224,7 +227,7 @@ Bluetti is een merk dat tussen Jackery (portable) en Sessy (vaste installatie) i
 | Vaste installatie | Ja | Ja | Ja | Ja | Nee | Semi |
 | Fabrikant | Charged, Andelst (NL) | Marstek (HK) | EcoFlow | Anker | Jackery | Bluetti |
 
-*Prijzen: sessy.nl en jackery.nl, opgehaald 20-21 augustus 2026. Waar "nee" staat, publiceert de fabrikant voor Nederland geen consumentenprijs — een bedrag noemen zou hier suggereren dat het te controleren is. Garantietermijnen laten wij uit deze tabel: die staan per model en per component in de garantievoorwaarden en veranderen zonder aankondiging. Vraag ze op vóór je koopt.*
+*Prijzen: sessy.nl, jackery.nl en bluettipower.eu, opgehaald 20-21 augustus 2026. De Bluetti-bedragen zijn actieprijzen (AC500 + 1× B300K €1.200 van €3.999; losse B300K €1.399). Waar "nee" staat, publiceert de fabrikant voor Nederland geen consumentenprijs — een bedrag noemen zou hier suggereren dat het te controleren is. Garantietermijnen laten wij uit deze tabel: die staan per model en per component in de garantievoorwaarden en veranderen zonder aankondiging. Vraag ze op vóór je koopt.*
 
 ## Prijs per kWh: alleen waar de prijs publiek is
 
@@ -238,9 +241,10 @@ Prijs per kilowattuur is het enige getal dat batterijen van verschillende groott
 | Marstek E 4.0 / E MAX | geen publieke NL-prijs | 5 / 10 kWh | niet te bepalen |
 | EcoFlow Delta Pro Ultra | configuratie-afhankelijk | ± 6 kWh | niet te bepalen |
 | Anker SOLIX X1 | projectprijs via dealer | modulair | niet te bepalen |
-| Bluetti AC500 | configuratie-afhankelijk | 3 kWh per module | niet te bepalen |
+| Bluetti AC500 + 1× B300K | €1.200 (bluettipower.eu, 21-8-2026; van €3.999) | 2,7648 kWh | €434/kWh |
+| Bluetti B300K los (uitbreiding) | €1.399 (bluettipower.eu, 21-8-2026) | 2,7648 kWh | €506/kWh |
 
-Twee dingen vallen op. Bij Sessy is de 10 kWh per kilowattuur ruim een vijfde goedkoper dan de 5 kWh — de omvormer en besturing kosten hetzelfde, alleen de cellen verdubbelen. En het draagbare powerstation is per kilowattuur wel goedkoop, maar die kilowattuur doet nauwelijks werk: zonder automatische laad- en ontlaadcyclus draai je er niet de 150 zoncycli per jaar mee die een vaste batterij haalt. Prijs per kWh zegt dus alleen iets in combinatie met het aantal cycli dat je er daadwerkelijk mee maakt.
+Drie dingen vallen op. Bij Sessy is de 10 kWh per kilowattuur ruim een vijfde goedkoper dan de 5 kWh — de omvormer en besturing kosten hetzelfde, alleen de cellen verdubbelen. Bij Bluetti werkt het omgekeerd: de instapcombinatie is met €434/kWh de scherpste van de tabel, maar een extra module erbij kost €506/kWh, dus uitbreiden maakt de rekensom slechter in plaats van beter. En de powerstations zijn per kilowattuur wel goedkoop, maar die kilowattuur doet nauwelijks werk: zonder automatische laad- en ontlaadcyclus draai je er niet de 150 zoncycli per jaar mee die een vaste batterij haalt. Prijs per kWh zegt dus alleen iets in combinatie met het aantal cycli dat je er daadwerkelijk mee maakt.
 
 ## App en integratie: wat je werkelijk krijgt
 
@@ -285,9 +289,10 @@ Onderstaande keuzegids volgt uit de specificaties, garantietermijnen en integrat
 - Je het apparaat ook buiten het huis gebruikt
 - Je een eenvoudige noodvoorziening wilt voor router, licht en telefoons
 
-**Kies Bluetti AC500 als:**
+**Kies Bluetti AC500 + B300K als:**
 - Je zware apparaten wil kunnen voeden bij backup — controleer wel het opgenomen vermogen van jouw warmtepomp of airco tegen de 5.000 W
-- Je modulair wil beginnen en later uitbreiden
+- Je een gecontroleerde prijs vooraf wil: €1.200 voor de combinatie met één B300K-module (bluettipower.eu, 21-8-2026)
+- Je modulair wil beginnen en later uitbreiden — reken dan wel met €1.399 per extra module, dus €506 per kWh
 - Je portabiliteit én thuisopslag wil combineren
 
 **Kies Sessy als:**
@@ -350,9 +355,9 @@ Bekijk ook: [beste zonnepanelen 2026 na saldering](/posts/beste-zonnepanelen-202
 
 ## Ons eindoordeel: voor wie Sessy te duur is
 
-De eerlijkste conclusie is ongemakkelijk: het goedkoopste alternatief is meestal het alternatief waarvan je de prijs niet kunt controleren. Wie een vaste thuisbatterij wil en de rekensom vooraf wil maken, komt uit bij de partij die zijn prijs publiceert — en dat is in dit veld Sessy, met 5 kWh voor €3.550.
+De eerlijkste conclusie is ongemakkelijk: bij Marstek, EcoFlow en Anker is het goedkopere alternatief precies het alternatief waarvan je de prijs niet kunt controleren. Wie een vaste thuisbatterij wil en de rekensom vooraf wil maken, komt uit bij de partij die zijn prijs publiceert — en dat is in dit veld Sessy, met 5 kWh voor €3.550.
 
-Zoek je noodstroom in plaats van rendement, dan zijn EcoFlow Delta Pro Ultra en Bluetti AC500 de kandidaten: die nemen automatisch over bij netuitval en het vermogen is ruim. Wil je zelf sturen op uurprijzen en heb je Home Assistant al staan, dan is Anker SOLIX de meest open keuze. Jackery is draagbare stroom, geen investering.
+Zoek je noodstroom in plaats van rendement, dan zijn EcoFlow Delta Pro Ultra en de Bluetti AC500 de kandidaten: die nemen automatisch over bij netuitval en het vermogen is ruim. Bij Bluetti kun je daarbij ook nog narekenen wat je betaalt: €1.200 voor AC500 + 1× B300K van 2.764,8 Wh, ofwel €434 per kWh (bluettipower.eu, gecontroleerd 21-8-2026, actieprijs van €3.999). Dat is per kilowattuur goedkoper dan Sessy, maar zonder marktsturing en zonder automatische cyclus — vergelijk dus niet alleen het bedrag. Wil je zelf sturen op uurprijzen en heb je Home Assistant al staan, dan is Anker SOLIX de meest open keuze. Jackery is draagbare stroom, geen investering.
 
 En overweeg je Marstek: vraag het aanbod schriftelijk op, met prijs, garantietermijn, garantieverstrekker en land van aankoop erin. Zet dat naast de €3.550 van Sessy en de rekensom hierboven, en de keuze maakt zichzelf.
 

@@ -1,8 +1,8 @@
 ---
-title: 'Bluetti AC200MAX Review 2026: Veelzijdig en Uitbreidbaar'
+title: 'Bluetti AC200MAX: niet meer leverbaar in de EU-shop — de opvolger'
 date: 2026-03-08 12:00:00+01:00
 lastmod: '2026-08-21 08:00:00+02:00'
-description: 'Uitgebreide Bluetti AC200MAX review: 2048Wh, 2200W, LiFePO4 en uitbreidbaar met B230/B300. Specificaties, vergelijking en gebruikerservaringen op een rij.'
+description: 'De AC200MAX staat niet meer in de Bluetti EU-shop (gecontroleerd 21-8-2026). Wat de opvolger AC200PL (2.304 Wh / 2.400 W, €1.499) biedt, en de specificaties van de AC200MAX als historische referentie.'
 categories:
 - powerstations
 tags:
@@ -11,17 +11,24 @@ tags:
 - powerstation review
 - LiFePO4
 - draagbaar powerstation
+- leverbaarheid
 keywords:
 - bluetti ac200max review
 - bluetti review
 - ac200max test
 - bluetti ac200max ervaringen
 - bluetti ac200max kopen
+- bluetti ac200max leverbaar
+- bluetti ac200pl
 affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
+- q: Is de Bluetti AC200MAX nog te koop?
+  a: 'Niet in de Europese webshop van Bluetti. Op 21 augustus 2026 stond de AC200MAX daar niet meer als los station in het assortiment — alleen accessoires. Wie specifiek dit model wil, is afhankelijk van restvoorraad bij dealers of van een ander verkoopkanaal, met de garantie- en accessoirevragen die daarbij horen.'
+- q: Wat is de opvolger van de Bluetti AC200MAX?
+  a: 'De AC200PL. Die stond op 21 augustus 2026 in de Bluetti EU-shop met 2.304 Wh en 2.400 W voor €1.499 (bluettipower.eu, gecontroleerd 21-8-2026). Dat is meer capaciteit en meer continu vermogen dan de 2.048 Wh en 2.200 W van de AC200MAX. Overige specificaties van de AC200PL moet je op de productpagina nalezen: wij nemen hier alleen over wat wij hebben gecontroleerd.'
 - q: Is de Bluetti AC200MAX geschikt als noodstroomvoorziening thuis?
   a: Ja, met 2048Wh capaciteit en 2200W continu vermogen kun je bij een stroomstoring je koelkast, verlichting, wifi-router en telefoons urenlang van stroom voorzien. Breidt je het systeem uit met B300-batterijen, dan houd je het zelfs een hele dag vol.
 - q: Hoe lang duurt het om de Bluetti AC200MAX op te laden met zonnepanelen?
@@ -37,31 +44,53 @@ faq:
 - q: Wat is het verschil tussen de Bluetti AC200MAX en de AC200P?
   a: De AC200MAX heeft een LiFePO4-batterij (langer leven, veiliger), is uitbreidbaar met B230/B300-batterijen en heeft een hogere solar-input (900W vs 700W). De AC200P gebruikt een NMC-batterij en is niet uitbreidbaar.
 products:
+- name: Bluetti AC200PL
+  url: https://go.duurzaamthuislab.nl/bluetti-eu
+  price: '1499'
 - name: EcoFlow Delta 2 Max
   url: https://go.duurzaamthuislab.nl/ecoflow
   price: '949'
 - name: Jackery Explorer 2000 v2
   url: https://go.duurzaamthuislab.nl/jackery
   price: '899'
-schema_type: Review
+schema_type: Article
+last_updated: '2026-08-21'
 ---
-De Bluetti AC200MAX zit qua positionering tussen een draagbaar campingstation en een vaste thuisbatterij in. Met 2.048 Wh en 2.200 W continu is het feitelijk een mini-thuisbatterij die je ook kunt verplaatsen. Opvallend is de uitbreidbaarheid tot 8.192 Wh met extra B300-pakketten.
-
-Deze review is opgebouwd uit de fabrieksspecificaties en de garantievoorwaarden van Bluetti, plus doorgerekende modellen met expliciete aannames. Wij hebben dit station niet zelf getest of doorgemeten; waar een getal uit een berekening komt, staat de aanname erbij. **Over de prijs zijn wij bewust terughoudend:** Bluetti publiceert zijn prijzen op de eigen Europese webshop en ze wisselen daar sterk per actieperiode. Op 21 augustus 2026 hebben wij die pagina niet kunnen controleren, en wij noemen daarom geen bedrag dat wij niet hebben kunnen verifiëren. De prijzen van de EcoFlow- en Jackery-concurrenten in dit artikel komen wél van een gecontroleerde pagina, met peildatum 21 augustus 2026.
-
-*Dit artikel bevat affiliate links naar Bluetti, EcoFlow en Jackery. Wij ontvangen mogelijk een commissie als je via onze links een product aanschaft, zonder extra kosten voor jou. Dat verandert niets aan de specificaties in dit artikel of aan ons oordeel.*
-
----
-
-> **Kort antwoord:** de AC200MAX is het station dat je koopt om uit te breiden, niet om snel bij te laden. 2.048 Wh en 2.200 W continu, uitbreidbaar tot 8.192 Wh met B230/B300-pakketten, en met 3.500 cycli tot 80 procent de langste cyclusopgave in deze klasse.
+> ### ⚠️ Let op: de AC200MAX staat niet meer in de Bluetti EU-shop
 >
-> De keerzijde staat in dezelfde specificatie: maximaal 500 W AC-laadinput, dus circa 4,5 uur voor een volle lading, tegen circa een uur bij de EcoFlow Delta 2 Max. Met 27,5 kg is het bovendien een station dat je neerzet en laat staan.
+> Bij onze controle op **21 augustus 2026** was de AC200MAX in de Europese webshop van Bluetti (bluettipower.eu) niet meer als station te koop — daar stonden alleen nog accessoires voor het model. De **opvolger in dat assortiment is de Bluetti AC200PL: 2.304 Wh, 2.400 W continu, €1.499** (bluettipower.eu, gecontroleerd 21-8-2026).
+>
+> Zoek je nu een station in deze klasse, kijk dan naar de AC200PL of naar de twee alternatieven waarvan wij op dezelfde datum de prijs hebben gecontroleerd: de EcoFlow Delta 2 Max (€949) en de Jackery Explorer 2000 v2 (€899). De specificaties van de AC200MAX laten wij hieronder staan als **historische referentie** — nuttig als je een exemplaar uit restvoorraad of tweedehands overweegt, niet als koopadvies.
+
+De Bluetti AC200MAX zat qua positionering tussen een draagbaar campingstation en een vaste thuisbatterij in. Met 2.048 Wh en 2.200 W continu was het feitelijk een mini-thuisbatterij die je ook kon verplaatsen, met als opvallendste eigenschap de uitbreidbaarheid tot 8.192 Wh met extra B300-pakketten.
+
+Dit artikel is opgebouwd uit de fabrieksspecificaties en de garantievoorwaarden van Bluetti, plus doorgerekende modellen met expliciete aannames. Wij hebben dit station niet zelf getest of doorgemeten; waar een getal uit een berekening komt, staat de aanname erbij. **Voor de AC200MAX zelf noemen wij geen prijs:** het model is uit het EU-assortiment, dus een bedrag zou niets zijn om op te rekenen. De prijzen van de AC200PL, de EcoFlow Delta 2 Max en de Jackery Explorer 2000 v2 in dit artikel komen wél van een gecontroleerde pagina, met peildatum 21 augustus 2026.
+
+*Dit artikel bevat affiliate links naar Bluetti, EcoFlow en Jackery. Wij ontvangen mogelijk een commissie als je via onze links een product aanschaft, zonder extra kosten voor jou. Dat verandert niets aan de specificaties in dit artikel of aan ons oordeel — in dit geval een oordeel dat je van het oorspronkelijke product afhoudt.*
+
+---
+
+> **Kort antwoord:** de AC200MAX is **niet meer leverbaar in de Bluetti EU-shop (gecontroleerd 21-8-2026)**; de opvolger daar is de AC200PL (2.304 Wh / 2.400 W) voor €1.499. Wat de AC200MAX bijzonder maakte, staat hieronder: 2.048 Wh en 2.200 W continu, uitbreidbaar tot 8.192 Wh met B230/B300-pakketten, en met 3.500 cycli tot 80 procent de langste cyclusopgave in zijn klasse.
+>
+> De keerzijde stond in dezelfde specificatie: maximaal 500 W AC-laadinput, dus circa 4,5 uur voor een volle lading, tegen circa een uur bij de EcoFlow Delta 2 Max. Met 27,5 kg was het bovendien een station dat je neerzet en laat staan.
+
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/bluetti-ac200max-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Bluetti AC200PL in de EU-shop</a>
+
+## Wat "uit het EU-assortiment" praktisch betekent
+
+Drie dingen hangen bij een station van deze prijsklasse aan het verkoopkanaal, en ze wegen zwaarder dan een specificatieverschil:
+
+**1. Garantie.** De garantietermijn van vier jaar geldt via het kanaal en het land van aankoop. Koop je een restvoorraad-exemplaar bij een dealer of via een buitenlandse webshop, vraag dan vóór aanschaf schriftelijk na wie de garantie verstrekt, waar je met een defect terechtkomt en wie de retourkosten draagt. Bij 27,5 kilo aan gevaarlijke lading is dat geen zending die je even wegbrengt.
+
+**2. Accessoires.** De uitbreidbaarheid met B230- en B300-pakketten is het sterkste argument van dit station. Die is alleen zinvol zolang die pakketten in hetzelfde kanaal verkrijgbaar blijven. Wil je uitbreiden, koop de modules dan in dezelfde order mee.
+
+**3. Restvoorraad-prijzen.** Bij een uitfaserend model gaan prijzen twee kanten op: opruimen kan hem laag zetten, laatste exemplaren van een gewild model juist hoog. Vergelijk daarom altijd met de bedragen die wél gepubliceerd zijn — de €1.499 van de AC200PL, de €949 van de EcoFlow Delta 2 Max en de €899 van de Jackery Explorer 2000 v2 (alle gecontroleerd 21-8-2026).
 
 ## Bluetti AC200MAX in het kort
 
-De AC200MAX positioneert zich als het werkpaard in het Bluetti-assortiment. Het is geen lichtgewicht campingstation en ook geen vast geinstalleerde thuisbatterij, maar zit er precies tussenin. Het toestel biedt genoeg vermogen en capaciteit voor serieus thuisgebruik, terwijl het technisch gezien nog steeds verplaatsbaar is -- al is 27,5 kg niet iets wat je even optilt.
+De AC200MAX was jarenlang het werkpaard in het Bluetti-assortiment. Het is geen lichtgewicht campingstation en ook geen vast geinstalleerde thuisbatterij, maar zit er precies tussenin. Het toestel biedt genoeg vermogen en capaciteit voor serieus thuisgebruik, terwijl het technisch gezien nog steeds verplaatsbaar is -- al is 27,5 kg niet iets wat je even optilt.
 
-Wat dit model bijzonder maakt, is de **uitbreidbaarheid**. Door een of twee B230- of B300-batterijpakketten aan te sluiten, groeit je systeem mee met je behoeften. Begin je met de basis en merk je dat je meer nodig hebt? Dan hoef je niet een heel nieuw apparaat te kopen.
+Wat dit model bijzonder maakte, is de **uitbreidbaarheid**. Door een of twee B230- of B300-batterijpakketten aan te sluiten, groeit het systeem mee met je behoeften. Precies dat argument is nu ook het risico: uitbreiden kan alleen zolang die pakketten in jouw verkoopkanaal verkrijgbaar blijven, en het station zelf staat niet meer in de EU-shop.
 
 ---
 
@@ -165,7 +194,7 @@ Het unieke verkoopargument van de AC200MAX is de mogelijkheid om **twee extra ba
 | AC200MAX + 2x B230 | 6.144 Wh |
 | AC200MAX + 2x B300 | 8.192 Wh |
 
-De B230 (2.048 Wh) en B300 (3.072 Wh) sluit je aan via de uitbreidingspoorten aan de achterkant. Je kunt ook een B230 en een B300 combineren; het systeem verdeelt het verbruik dan over de aangesloten batterijen. Wat een uitbreiding kost, staat op de webshop van Bluetti — die bedragen hebben wij niet kunnen verifiëren en nemen wij daarom niet over. Dat is wel het cijfer dat de afweging maakt: reken zelf uit wat je per extra kWh betaalt voordat je uitbreidt, en zet dat naast de prijs van een tweede station of van een vaste thuisbatterij.
+De B230 (2.048 Wh) en B300 (3.072 Wh) sluit je aan via de uitbreidingspoorten aan de achterkant. Je kunt ook een B230 en een B300 combineren; het systeem verdeelt het verbruik dan over de aangesloten batterijen. Wat een B230- of B300-uitbreiding kost, hangt inmiddels af van het kanaal waar je hem nog vindt: in de Bluetti EU-shop stond op 21 augustus 2026 wel de losse **B300K van 2.764,8 Wh voor €1.399**, maar dat is een andere module dan de B230/B300 uit deze reeks. Reken dus zelf uit wat je per extra kWh betaalt voordat je uitbreidt, en zet dat naast de prijs van een compleet station — de AC200PL op €1.499 — of van een vaste thuisbatterij.
 
 Deze modulaire aanpak maakt het systeem toekomstbestendig. Begin met de basisunit en breid uit wanneer je budget of behoeften dat toelaten. Met 8192Wh totaal beschik je over voldoende capaciteit om een gemiddeld Nederlands huishouden een dag lang van stroom te voorzien bij een stroomstoring.
 
@@ -198,7 +227,7 @@ De AC200MAX is uitermate geschikt voor **off-grid gebruik** dankzij de hoge sola
 | 2x Bluetti PV350 | 700 W | 3-4 uur |
 | 3x Bluetti PV350 | 900 W (max) | 2,5-3 uur |
 
-Voor de meeste gebruikers is een enkele **Bluetti PV350** de logische keuze: met 350 W nominaal laad je de AC200MAX op een zonnige dag volledig op. Wil je sneller laden, dan kun je meerdere panelen aansluiten tot het opgegeven maximum van 900 W. De paneelprijzen laten wij hier weg om dezelfde reden als de stationprijs: wij hebben ze niet kunnen verifiëren.
+Voor de meeste gebruikers is een enkele **Bluetti PV350** de logische keuze: met 350 W nominaal laad je de AC200MAX op een zonnige dag volledig op. Wil je sneller laden, dan kun je meerdere panelen aansluiten tot het opgegeven maximum van 900 W. De paneelprijzen laten wij hier weg: die hebben wij op 21 augustus 2026 niet gecontroleerd, en een bedrag noemen dat wij niet hebben nagekeken doen wij niet.
 
 Lees ook onze gids over de [beste zonnepaneel en powerstation combinaties van 2026](/posts/beste-zonnepaneel-powerstation-combinatie-2026/) voor meer opties.
 
@@ -220,9 +249,9 @@ Hoe verhoudt de AC200MAX zich tot de concurrenten die in Nederland leverbaar zij
 | Draadloos laden | Ja | Nee | Nee |
 | App-verbinding | Bluetooth | Wi-Fi + BT | Wi-Fi + BT |
 | Garantie | 4 jaar | 5 jaar | 3 + 2 jaar |
-| Prijs (21-8-2026) | niet door ons geverifieerd | € 949 (van € 1.199) | € 899 (van € 1.599) |
+| Prijs (21-8-2026) | niet meer leverbaar in de Bluetti EU-shop | € 949 (van € 1.199) | € 899 (van € 1.599) |
 
-De AC200MAX wint op **cyclusopgave**, **uitbreidbaarheid** en **solar-input via één ingang**, en verliest op **laadsnelheid**, **gewicht**, **app-connectiviteit** en **garantietermijn**. Of hij ook op prijs wint, kunnen wij niet zeggen: dat hangt af van de actieprijs op de Bluetti-webshop op het moment dat je kijkt, en juist die vergelijking moet je dus zelf maken. Waar de EcoFlow- en Jackery-prijzen wél vaststaan, is de rekensom simpel: € 949 respectievelijk € 899 voor ongeveer dezelfde 2 kWh.
+De AC200MAX wint op **cyclusopgave**, **uitbreidbaarheid** en **solar-input via één ingang**, en verliest op **laadsnelheid**, **gewicht**, **app-connectiviteit** en **garantietermijn**. Op prijs valt hij helemaal buiten de vergelijking: het model stond op 21 augustus 2026 niet meer in de Bluetti EU-shop. De drie bedragen die op die datum wél vaststonden: de opvolger **AC200PL op € 1.499** (2.304 Wh / 2.400 W), de EcoFlow Delta 2 Max op **€ 949** en de Jackery Explorer 2000 v2 op **€ 899** — de laatste twee voor ongeveer dezelfde 2 kWh.
 
 Bekijk onze volledige [vergelijking van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor een breder overzicht.
 
@@ -244,17 +273,29 @@ Bekijk onze volledige [vergelijking van de beste draagbare powerstations van 202
 - Met 27,5 kg tien kilo zwaarder dan de Jackery Explorer 2000 v2 bij dezelfde capaciteit
 - USB-C beperkt tot 1 poort (100 W)
 - Volgens de specificaties geen automatische omschakeling bij netuitval (geen UPS-functie)
-- Prijs staat alleen op de webshop van de fabrikant en is door ons niet te verifiëren
+- Niet meer leverbaar in de Bluetti EU-shop (gecontroleerd 21-8-2026): garantie en uitbreidingsmodules hangen af van het kanaal waar je nog een exemplaar vindt
 
 ---
 
-## Prijs en waar te kopen
+## Wat je nu koopt in plaats van de AC200MAX
 
-Hier houden wij het kort, en dat is een bewuste keuze. Bluetti publiceert de prijs van de AC200MAX op zijn eigen Europese webshop, en die prijs wisselt sterk per actieperiode — rond Black Friday en Prime Day het sterkst. Op 21 augustus 2026 hebben wij die pagina niet kunnen controleren, en daarom noemen wij hier geen bedrag: niet voor het station, niet voor de PV200- en PV350-panelen en niet voor de B230- en B300-uitbreidingen.
+De AC200MAX staat niet meer in de Bluetti EU-shop (gecontroleerd 21-8-2026), dus de vraag is niet meer "wat is de prijs" maar "wat neem je in plaats daarvan". Drie opties met een gecontroleerd bedrag op die datum:
 
-Wat dat praktisch betekent voor de aankoop: haal het actuele bedrag zelf op en zet het naast de twee prijzen die wij wél hebben kunnen verifiëren op 21 augustus 2026 — de EcoFlow Delta 2 Max op € 949 (van € 1.199) en de Jackery Explorer 2000 v2 op € 899 (van € 1.599). Ligt de AC200MAX daar niet duidelijk onder, dan koop je een station dat langzamer laadt, zwaarder is en een kortere garantietermijn heeft dan die twee; ligt hij er wel onder, dan betaal je voor 3.500 cycli en uitbreidbaarheid tot 8.192 Wh.
+| Optie | Specificatie | Prijs (21-8-2026) |
+|---|---|---|
+| **Bluetti AC200PL** — de opvolger in de EU-shop | 2.304 Wh / 2.400 W | € 1.499 |
+| EcoFlow Delta 2 Max | 2.048 Wh / 2.400 W, 2.300 W AC-laadinput, UPS | € 949 (van € 1.199) |
+| Jackery Explorer 2000 v2 | 2.042 Wh / 2.200 W, 17,5 kg | € 899 (van € 1.599) |
 
-<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/bluetti-ac200max-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de actuele Bluetti-prijzen</a>
+Bronnen: bluettipower.eu, ecoflow.com/eu en nl.jackery.com, alle opgehaald op 21 augustus 2026. Dit zijn actieprijzen, geen vaste adviesprijzen.
+
+**Blijf je binnen Bluetti?** Dan is de AC200PL de logische stap: meer capaciteit (2.304 Wh tegen 2.048 Wh) en meer continu vermogen (2.400 W tegen 2.200 W) dan de AC200MAX had. De overige specificaties van dat model — laadinput, UPS-gedrag, app-verbinding, garantietermijn — hebben wij niet gecontroleerd en nemen wij hier dus niet over; lees die na op de productpagina voordat je bestelt.
+
+**Zoek je vooral de goedkoopste 2 kWh?** Dan kom je bij de EcoFlow of de Jackery uit, voor ruim vijfhonderd euro minder dan de AC200PL.
+
+**Vind je nog een AC200MAX uit restvoorraad?** Dan is de eerste vraag niet de prijs, maar wie de garantie verstrekt en of de B230/B300-modules in datzelfde kanaal verkrijgbaar zijn. Zonder een sluitend antwoord daarop koop je de twee sterkste punten van dit station — cyclusaantal en uitbreidbaarheid — niet echt mee.
+
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/bluetti-ac200max-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Bluetti AC200PL en het actuele assortiment</a>
 
 ---
 
@@ -279,9 +320,9 @@ Schrapper: geen diepvries voeden, koelkast alleen 4 uur laten lopen, verlichting
 
 **Ons redactionele oordeel:** wie de Bluetti AC200MAX als serieuze noodstroomoplossing wil inzetten, neemt minimaal één B230-batterijpakket erbij. Zonder uitbreiding is het volgens deze modelberekening een goede buffer van circa 12 uur; met uitbreiding een volwaardige 24-uursoplossing. Alle bovenstaande cijfers zijn rekenvoorbeelden op basis van geschatte apparaatvermogens en 15% omvormerverlies.
 
-## Voor wie is de Bluetti AC200MAX geschikt?
+## Voor wie was de Bluetti AC200MAX geschikt?
 
-De AC200MAX is een **sterke keuze** als je:
+Dit profiel is nog relevant op één manier: het vertelt je waar je bij de AC200PL of bij een restvoorraad-exemplaar op moet letten. Het station paste bij je als je:
 
 - **Wilt uitbreiden** -- tot 8.192 Wh met B230/B300-pakketten, zonder een heel nieuw station te kopen
 - **Op cyclusaantal selecteert** -- 3.500 cycli tot 80 procent is de hoogste opgave in deze klasse
@@ -379,24 +420,28 @@ Beide zijn 2.048 Wh en beide zijn LFP. Op specificatieniveau zijn de verschillen
 | Uitbreidbaar | tot 8.192 Wh | tot 6.144 Wh | **Bluetti** |
 | Garantie | 4 jaar | 5 jaar | **EcoFlow** |
 | Continu vermogen | 2.200 W | 2.400 W | **EcoFlow** |
-| Prijs (21-8-2026) | niet geverifieerd | € 949 (van € 1.199) | **niet te bepalen** |
+| Prijs (21-8-2026) | niet meer leverbaar in de EU-shop (opvolger AC200PL: € 1.499) | € 949 (van € 1.199) | **EcoFlow** |
 
 De regel over de solar-input verdient toelichting, omdat die in oudere versies van dit artikel verkeerd stond. De specificatie van EcoFlow luidt: 11-60 V, 15 A, 500 W per poort en 1.000 W over twee poorten samen. Het maximum van 1.000 W is dus echt, maar je hebt er twee panelen en twee ingangen voor nodig. Bluetti haalt 900 W over één ingang. Wie met één groot paneel werkt, is bij Bluetti beter af; wie het maximum wil, bij EcoFlow.
 
-**Ons oordeel, met het argument erbij.** Op de harde specificaties is de Delta 2 Max het completere station: sneller laden, UPS, betere app, een jaar langer garantie en een prijs die vaststaat op € 949. De AC200MAX heeft twee argumenten die daar tegenop kunnen — de hoogste cyclusopgave en uitbreiding tot 8.192 Wh — plus het draadloos laden. Of dat de betere koop is, hangt volledig af van de prijs op het moment dat je kijkt, en die kunnen wij niet voor je verifiëren.
+**Ons oordeel, met het argument erbij.** Op de harde specificaties is de Delta 2 Max het completere station: sneller laden, UPS, betere app, een jaar langer garantie en een prijs die vaststaat op € 949. De AC200MAX had twee argumenten die daar tegenop konden — de hoogste cyclusopgave en uitbreiding tot 8.192 Wh — plus het draadloos laden. Maar die afweging is op 21 augustus 2026 geen keuze meer: de AC200MAX staat niet in de Bluetti EU-shop en de opvolger AC200PL kost daar € 1.499, vijfhonderdvijftig euro meer dan de Delta 2 Max. Wil je binnen Bluetti blijven, dan betaal je dat verschil voor 2.304 Wh in plaats van 2.048 Wh; gaat het je om de beste 2 kWh voor je geld, dan is de Delta 2 Max de koop.
 
 ---
 
 ## Conclusie
 
-De **Bluetti AC200MAX** is het station dat je koopt om een systeem op te bouwen, niet om snel bij te laden. 2.048 Wh, 2.200 W continu, 3.500 cycli tot 80 procent en uitbreidbaar tot 8.192 Wh: dat is een consistent profiel voor iemand die het toestel op één plek neerzet en er later capaciteit bij wil kunnen zetten.
+De **Bluetti AC200MAX** was het station dat je kocht om een systeem op te bouwen, niet om snel bij te laden. 2.048 Wh, 2.200 W continu, 3.500 cycli tot 80 procent en uitbreidbaar tot 8.192 Wh: een consistent profiel voor iemand die het toestel op één plek neerzet en er later capaciteit bij wil kunnen zetten. Maar het staat op 21 augustus 2026 niet meer in de Bluetti EU-shop, en dat maakt het voor bijna iedereen de verkeerde keuze — niet vanwege de specificaties, maar vanwege garantie en de verkrijgbaarheid van de uitbreidingsmodules.
 
-De grenzen staan in dezelfde specificatie. De AC-laadinput van maximaal 500 W betekent circa 4,5 uur voor een volle lading, tegen circa een uur bij de EcoFlow Delta 2 Max. Er is geen UPS-functie, dus bij een storing zet je zelf stekkers om. En met 27,5 kg is dit geen station dat mee op de camping gaat — daarvoor is de Jackery Explorer 2000 v2 met dezelfde capaciteit bij 17,5 kg de logischer keuze.
+De grenzen stonden bovendien in dezelfde specificatie. De AC-laadinput van maximaal 500 W betekent circa 4,5 uur voor een volle lading, tegen circa een uur bij de EcoFlow Delta 2 Max. Er is geen UPS-functie, dus bij een storing zet je zelf stekkers om. En met 27,5 kg is dit geen station dat mee op de camping gaat — daarvoor is de Jackery Explorer 2000 v2 met dezelfde capaciteit bij 17,5 kg de logischer keuze.
 
 De uitbreidbaarheid tot 8.192 Wh maakt dit een alternatief voor een vaste [thuisbatterij](/posts/huawei-luna-2000-review-2026/) zonder installateur — maar dan wel met de rekensom erbij: een powerstation is noodstroom en gemak, geen manier om je energierekening te verlagen. Dat verschil staat in [powerstation versus thuisbatterij](/posts/powerstation-vs-thuisbatterij-2026/).
 
-Eén ding kunnen wij niet voor je beslissen, en dat is de prijs. Die staat op de webshop van de fabrikant, wisselt per actieperiode, en bepaalt of de twee sterke punten van dit station opwegen tegen de € 949 en € 899 die de EcoFlow- en Jackery-alternatieven op 21 augustus 2026 kostten.
+Onze aanbeveling: wil je binnen Bluetti blijven, neem dan de opvolger **AC200PL** (2.304 Wh / 2.400 W) voor € 1.499; zoek je de beste 2 kWh voor je geld, dan zijn de EcoFlow Delta 2 Max (€ 949) en de Jackery Explorer 2000 v2 (€ 899) de kandidaten. Alle drie de prijzen zijn op 21 augustus 2026 op de webshops van de fabrikanten gecontroleerd. Kom je toch een AC200MAX tegen, stel dan eerst de garantievraag en pas daarna de prijsvraag.
 
-<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/bluetti-ac200max-review-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de Bluetti AC200MAX</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/bluetti-ac200max-review-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de Bluetti AC200PL</a>
+
+---
+
+**Bron:** het assortiment op [bluettipower.eu](https://bluettipower.eu/) — opgehaald op 21 augustus 2026. De AC200MAX stond daar niet meer als station in het aanbod; de AC200PL (2.304 Wh / 2.400 W) stond er op € 1.499.
 
 

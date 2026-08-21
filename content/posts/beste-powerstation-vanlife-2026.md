@@ -30,7 +30,7 @@ faq:
 - q: Is een powerstation beter dan een vaste camperaccu?
   a: 'Een powerstation is flexibeler: je kunt het meenemen, verplaatsen en in meerdere voertuigen gebruiken. Een vaste camperaccu (zoals een lithium-systeem met omvormer) biedt meer capaciteit en is onzichtbaar geintegreerd. Voor geconverteerde camperbussen is een powerstation vaak eenvoudiger en sneller te installeren.'
 - q: Kan ik een inductiekookplaat gebruiken met een powerstation?
-  a: 'Sommige powerstations ondersteunen een kleine inductiekookplaat (1000-1500W) dankzij hoge piekvermogen. De EcoFlow Delta 2 Max (2400W) en Bluetti AC200Max (2200W) kunnen dit. Let op: koken verbruikt veel stroom en put je batterij snel uit.'
+  a: 'Sommige powerstations ondersteunen een kleine inductiekookplaat (1000-1500W) dankzij hoge piekvermogen. De EcoFlow Delta 2 Max (2400W) kan dit, en bij Bluetti de AC200PL (2.400 W, €1.499 op bluettipower.eu op 21 augustus 2026) — de oudere AC200Max (2.200 W) stond op die datum niet meer in de Bluetti EU-shop. Let op: koken verbruikt veel stroom en put je batterij snel uit.'
 - q: Hoe lang kan ik een koelkast draaien op een powerstation?
   a: Een compressorkoelkast voor campers verbruikt gemiddeld 40-60W continu. Op een 1000 Wh powerstation kun je zo'n koelkast circa 15-20 uur draaien. Op een 2000 Wh station is dat 30-40 uur. Met zonnepanelen erbij kun je vrijwel continu koelen.
 - q: Kan ik een powerstation opladen terwijl ik rijd?
@@ -53,11 +53,11 @@ schema_type: Article
 *Volledige vergelijking van alle typen: [beste draagbare powerstation 2026](/posts/beste-draagbare-powerstation-2026/) — deze pagina is de keuzehulp voor vanlife en campers.*
 Wie een bus ombouwt tot camper, loopt vroeg of laat tegen dezelfde rekensom aan. Een compressorkoelkast (45W), een laptop, verlichting en af en toe een inductieplaat: dan zit je al snel rond de 1.500 Wh per dag. Dat getal bepaalt welk powerstation je nodig hebt — en of je in de winter zelfvoorzienend blijft of niet.
 
-In dit overzicht vergelijken wij de vijf powerstations die het meest worden gekozen voor vanlife, op capaciteit, vermogen, zonne-input, gewicht en prijs. Wij vergelijken op basis van specificaties, handleidingen en publieke data, en rekenen de verbruiksscenario's door met de aannames erbij. Wij hebben deze toestellen niet zelf getest. De prijzen komen van de Nederlandse webshops van de fabrikanten, opgehaald op 21 augustus 2026; waar wij een prijs niet hebben kunnen verifiëren, noemen wij geen bedrag.
+In dit overzicht vergelijken wij de vijf powerstations die het meest worden gekozen voor vanlife, op capaciteit, vermogen, zonne-input, gewicht en prijs. Wij vergelijken op basis van specificaties, handleidingen en publieke data, en rekenen de verbruiksscenario's door met de aannames erbij. Wij hebben deze toestellen niet zelf getest. De prijzen komen van de webshops van de fabrikanten zelf — nl.ecoflow.com, nl.jackery.com, bluettipower.eu en ankersolix.com/nl — opgehaald op 21 augustus 2026; waar een model daar niet meer stond, zeggen wij dat en vullen wij geen prijs in.
 
 *Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou.*
 
-> **Kort antwoord:** voor full-time vanlife is de **EcoFlow Delta 2 Max** (2.048 Wh, 2.400 W, €949 van €1.199 op 21-8-2026) de meest complete keuze. Wil je maximaal zonneladen, dan geeft de **Bluetti AC200Max** met 900 W zonne-ingang de meeste ruimte. Voor weekendgebruik volstaat de **EcoFlow River 2 Pro** (768 Wh, €549).
+> **Kort antwoord:** voor full-time vanlife is de **EcoFlow Delta 2 Max** (2.048 Wh, 2.400 W, €949 van €1.199 op 21-8-2026) de meest complete keuze, en met 1.000 W over twee poorten heeft die nu ook de hoogste zonne-ingang van de leverbare modellen in dit overzicht: de **Bluetti AC200Max** (900 W) stond op 21 augustus 2026 niet meer in de Bluetti EU-shop. Voor weekendgebruik volstaat de **EcoFlow River 2 Pro** (768 Wh, €549).
 >
 > Let bij Jackery op de modelnaam: de Explorer **2000 Plus** stond op 21 augustus 2026 niet in het Nederlandse assortiment. De leverbare tegenhanger is de **Explorer 2000 v2** — dezelfde 2.042 Wh, tien kilo lichter, €899.
 
@@ -66,10 +66,13 @@ In dit overzicht vergelijken wij de vijf powerstations die het meest worden geko
 | Powerstation | Capaciteit | AC-vermogen | Zonne-input | Gewicht | Prijs (21-8-2026) | Beste voor |
 |---|---|---|---|---|---|---|
 | **EcoFlow Delta 2 Max** | 2048 Wh | 2400 W | 500 W per poort, 1.000 W dubbel | 23 kg | €949 (van €1.199) | Full-time vanlife |
-| **Bluetti AC200Max** | 2048 Wh | 2200 W | 900 W (opgave Bluetti) | 27,5 kg | niet geverifieerd | Maximale zonne-input |
+| **Bluetti AC200Max** | 2048 Wh | 2200 W | 900 W (opgave Bluetti) | 27,5 kg | niet meer leverbaar in de Bluetti EU-shop (21-8-2026) | — |
+| **Bluetti AC200PL** (opvolger) | 2.304 Wh | 2.400 W | niet opgegeven op de webshoppagina | — | €1.499 | Bluetti-route naar 2 kWh-plus |
 | **Jackery Explorer 2000 v2** | 2042 Wh | 2200 W | geen maximum op de NL-productpagina | 17,5 kg | €899 (van €1.599) | Lichtste 2 kWh-station |
 | **EcoFlow River 2 Pro** | 768 Wh | 800 W | 220 W | 7,8 kg | €549 | Weekend vanlife/budget |
-| **Anker Solix C1000** | 1056 Wh | 1800 W | 600 W (opgave Anker) | 12,9 kg | niet geverifieerd | Middenweg prijs/capaciteit |
+| **Anker Solix C1000** | 1056 Wh | 1800 W | 600 W (opgave Anker) | 12,9 kg | €999 | Lichtste van de 1 kWh-plus-klasse |
+
+Prijs per Wh met de bedragen uit deze tabel: Jackery Explorer 2000 v2 €899 ÷ 2.042 Wh = €0,44, EcoFlow Delta 2 Max €949 ÷ 2.048 Wh = €0,46, Bluetti AC200PL €1.499 ÷ 2.304 Wh = €0,65, EcoFlow River 2 Pro €549 ÷ 768 Wh = €0,71 en Anker Solix C1000 €999 ÷ 1.056 Wh = €0,95. Dat is de belangrijkste verschuiving sinds de vorige prijsronde: de C1000 kost per opgeslagen wattuur meer dan het dubbele van de 2 kWh-toestellen, en zelfs iets méér in totaal dan de Delta 2 Max met bijna dubbele capaciteit.
 
 ---
 ## Waar let je op bij een powerstation voor vanlife?
@@ -145,9 +148,11 @@ De Delta 2 Max voedt vrijwel elk apparaat in je bus: koelkast, kleine inductieko
 
 ---
 
-## 2. Bluetti AC200Max -- Beste Zonne-input voor Off-grid
+## 2. Bluetti AC200Max -- uit het EU-assortiment, opvolger AC200PL
 
-De **Bluetti AC200Max** heeft met 900 W volgens de opgave van Bluetti de hoogste zonne-ingang in deze klasse. Dat maakt het toestel interessant voor vanlifers die langere periodes off-grid staan en dat met dakpanelen willen opvangen.
+De **Bluetti AC200Max** had met 900 W volgens de opgave van Bluetti de hoogste zonne-ingang in deze klasse, en stond hier daarom lang als de keuze voor wie langere periodes off-grid staat. Bij onze controle van bluettipower.eu op 21 augustus 2026 stond het model daar **niet meer als toestel** — alleen accessoires. De opvolger is de **Bluetti AC200PL**: 2.304 Wh, 2.400 W, €1.499. Een maximale zonne-ingang stond er voor de AC200PL niet bij, en wij vullen dat cijfer niet in met de opgave van zijn voorganger.
+
+Praktisch gevolg voor deze lijst: van de modellen die je op die datum wél kon kopen, heeft de **EcoFlow Delta 2 Max** met 1.000 W over twee poorten nu de hoogste zonne-ingang. Wil je verder omhoog, dan is de EcoFlow Delta Pro 3 (2.600 W ingang) de route — maar die weegt 51,5 kg.
 
 Lees onze [Bluetti AC200Max review](/posts/bluetti-ac200max-review-2026/) voor meer details.
 
@@ -159,24 +164,26 @@ Lees onze [Bluetti AC200Max review](/posts/bluetti-ac200max-review-2026/) voor m
 - **12V laden**: ja
 - **Gewicht**: 27,5 kg
 - **Batterijtype**: LiFePO4
-- **Prijs**: Bluetti publiceert de prijs op zijn eigen Europese webshop en die wisselt sterk per actieperiode. Wij hebben hem op 21 augustus 2026 niet kunnen inzien en nemen daarom geen bedrag over dat wij niet hebben geverifieerd.
+- **Prijs AC200Max**: geen — niet meer leverbaar in de Bluetti EU-shop (bluettipower.eu, gecontroleerd 21-8-2026)
+- **Opvolger AC200PL**: 2.304 Wh, 2.400 W, €1.499 (bluettipower.eu, gecontroleerd 21-8-2026)
 
-### Waarom het werkt voor vanlife
+### Waarom het werkte voor vanlife
 
-Met 900 W ingang kun je drie tot vier panelen kwijt en het station ook op minder zonnige dagen serieus bijladen. Dat is precies waar de kleinere stations tekortschieten: niet in capaciteit, maar in de snelheid waarmee ze die capaciteit terug kunnen vullen zonder net.
+Met 900 W ingang kon je drie tot vier panelen kwijt en het station ook op minder zonnige dagen serieus bijladen. Dat is precies waar de kleinere stations tekortschieten: niet in capaciteit, maar in de snelheid waarmee ze die capaciteit terug kunnen vullen zonder net. Kom je de AC200Max nog tegen bij een dealer, dan is dat de reden om te kijken; reken wel op garantieafhandeling buiten de fabrikantwinkel.
 
 ### Voordelen
 
-- Hoogste opgegeven zonne-ingang (900 W) in dit overzicht
+- Hoogste opgegeven zonne-ingang (900 W) van de modellen in dit overzicht — maar niet meer nieuw te koop bij de fabrikant
 - Uitbreidbaar met extra batterijmodules
 - 12V-uitgang met hoge stroom voor directe camperaansluitingen
 - Draadloos laden voor telefoons
 
 ### Nadelen
 
+- Niet meer leverbaar in de Bluetti EU-shop op 21 augustus 2026
 - Zwaarst in dit overzicht (27,5 kg)
 - Grotere afmetingen dan de EcoFlow
-- Wij hebben prijs en garantietermijn niet kunnen verifiëren — controleer die op de productpagina
+- De opvolger AC200PL kost €1.499 en is daarmee met €0,65 per Wh (€1.499 ÷ 2.304 Wh) duurder per wattuur dan de EcoFlow Delta 2 Max (€0,46) en de Jackery Explorer 2000 v2 (€0,44)
 
 <a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/beste-powerstation-vanlife-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de actuele Bluetti-prijzen</a>
 
@@ -260,9 +267,9 @@ Licht (7,8 kg), compact en snel vol. De River 2 Pro laadt telefoons, voedt verli
 
 ---
 
-## 5. Anker Solix C1000 -- Beste Middenweg
+## 5. Anker Solix C1000 -- de lichte middenweg, tegen een prijs
 
-De **Anker Solix C1000** zit tussen de weekendklasse en de 2 kWh-klasse in: 1.056 Wh en 1.800 W bij een gewicht van 12,9 kg. Genoeg voor een koelkast en een kleine kookplaat, en licht genoeg om te tillen.
+De **Anker Solix C1000** zit tussen de weekendklasse en de 2 kWh-klasse in: 1.056 Wh en 1.800 W bij een gewicht van 12,9 kg. Genoeg voor een koelkast en een kleine kookplaat, en licht genoeg om te tillen. Op ankersolix.com/nl stond hij op 21 augustus 2026 op **€999**, en dat verandert de afweging: voor €50 minder krijg je bij EcoFlow de Delta 2 Max met 2.048 Wh en 2.400 W. Je koopt hier dus geen capaciteit per euro maar tien kilo minder gewicht en een hoge zonne-ingang voor dit formaat.
 
 Lees onze [Anker Solix C1000 review](/posts/anker-solix-c1000-review-2026/).
 
@@ -275,26 +282,26 @@ Lees onze [Anker Solix C1000 review](/posts/anker-solix-c1000-review-2026/).
 - **Netladen**: circa 58 minuten volgens Anker
 - **Gewicht**: 12,9 kg
 - **Batterijtype**: LiFePO4, 3.000+ cycli
-- **Prijs**: Anker publiceert de prijs op zijn eigen webshop; wij hebben die op 21 augustus 2026 niet kunnen inzien en noemen daarom geen bedrag.
+- **Prijs**: €999 (ankersolix.com/nl, gecontroleerd 21-8-2026)
 
 ### Waarom het werkt voor vanlife
 
-De verhouding capaciteit, vermogen en gewicht is hier het gunstigst: genoeg voor één tot twee dagen autonoom gebruik, 1.800 W voor een koelkast plus een kookplaat van 1.000 W, en 12,9 kg is nog eenpersoons tilwerk. De opgegeven zonne-ingang van 600 W is voor dit formaat ruim.
+De verhouding capaciteit, vermogen en gewicht is hier gunstig: genoeg voor één tot twee dagen autonoom gebruik, 1.800 W voor een koelkast plus een kookplaat van 1.000 W, en 12,9 kg is nog eenpersoons tilwerk. De opgegeven zonne-ingang van 600 W is voor dit formaat ruim. Op prijs per Wh is dit wel het duurste toestel in dit overzicht: €999 ÷ 1.056 Wh = €0,95, tegen €0,46 voor de Delta 2 Max en €0,44 voor de Explorer 2000 v2.
 
 ### Voordelen
 
-- Gunstige verhouding capaciteit, vermogen en gewicht
+- Lichtste toestel boven 1 kWh in dit overzicht (12,9 kg)
 - Snelste netladen in dit overzicht volgens de opgave (58 minuten)
 - 600 W zonne-ingang is ruim voor 1 kWh capaciteit
-- 12,9 kg is nog goed te verplaatsen
 
 ### Nadelen
 
 - Niet uitbreidbaar met extra batterijen
 - 1.056 Wh kan krap zijn voor full-time vanlife
-- Wij hebben prijs en garantietermijn niet kunnen verifiëren
+- €999 is meer dan de EcoFlow Delta 2 Max (€949) met bijna dubbele capaciteit — €0,95 tegen €0,46 per Wh
+- Garantietermijn hebben wij niet kunnen verifiëren
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-powerstation-vanlife-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de actuele Anker Solix-prijzen</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-powerstation-vanlife-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker Solix C1000</a>
 
 ---
 
@@ -302,11 +309,12 @@ De verhouding capaciteit, vermogen en gewicht is hier het gunstigst: genoeg voor
 
 | Vanlife-stijl | Aanbevolen powerstation | Waarom |
 |---|---|---|
-| **Full-time vanlife** | EcoFlow Delta 2 Max | Capaciteit, 2.400 W vermogen, 1.000 W zonne-ingang |
-| **Off-grid langere periodes** | Bluetti AC200Max | Hoogste opgegeven zonne-ingang (900 W) |
-| **Lichtste 2 kWh-station** | Jackery Explorer 2000 v2 | 17,5 kg bij 2.042 Wh, 4.000 cycli |
-| **Weekend/vakantie** | EcoFlow River 2 Pro | Licht, compact, €549 |
-| **Beste allround** | Anker Solix C1000 | Balans capaciteit, vermogen en gewicht |
+| **Full-time vanlife** | EcoFlow Delta 2 Max (€949) | Capaciteit, 2.400 W vermogen, 1.000 W zonne-ingang |
+| **Off-grid langere periodes** | EcoFlow Delta 2 Max (€949) | Hoogste zonne-ingang van de leverbare modellen: 1.000 W over twee poorten. De Bluetti AC200Max (900 W) was op 21-8-2026 uit de EU-shop |
+| **Lichtste 2 kWh-station** | Jackery Explorer 2000 v2 (€899) | 17,5 kg bij 2.042 Wh, 4.000 cycli |
+| **Weekend/vakantie** | EcoFlow River 2 Pro (€549) | Licht, compact, laagste instap |
+| **Lichtste boven 1 kWh** | Anker Solix C1000 (€999) | 12,9 kg en 600 W zonne-ingang — maar €0,95 per Wh, het duurste per wattuur hier |
+| **Bluetti-route** | Bluetti AC200PL (€1.499) | 2.304 Wh en 2.400 W; €0,65 per Wh, dus je betaalt voor het merk en de uitbreidbaarheid |
 
 ---
 
@@ -392,7 +400,7 @@ Onderstaande doorrekening is een **modelberekening** voor een veelvoorkomende se
 
 **Uitkomst winter:** 440W × 2 effectieve zonuren = 880 Wh per dag. Dat is minder dan het dagverbruik van 1.101 Wh, dus je loopt structureel achter. Compenseren kan via rijladen (12V, of via een directe accukabel met hoger vermogen) en af en toe een camping met netstroom.
 
-**Ons oordeel bij dit profiel:** de Delta 2 Max heeft ruim voldoende capaciteit, en met twee zonne-ingangen (samen 1.000 W) kun je meer dakvermogen kwijt dan de 440 W in dit voorbeeld. Wil je ook in het winterhalfjaar off-grid staan, dan is meer paneelvermogen de eerste stap; een station met een nog hogere zonne-ingang, zoals de Bluetti AC200Max (900 W volgens Bluetti), is een alternatief. De EcoFlow Delta Pro 3 gaat met 2.600 W zonne-ingang nog verder, maar weegt 51,5 kg en is daarmee voor de meeste bussen te zwaar.
+**Ons oordeel bij dit profiel:** de Delta 2 Max heeft ruim voldoende capaciteit, en met twee zonne-ingangen (samen 1.000 W) kun je meer dakvermogen kwijt dan de 440 W in dit voorbeeld. Wil je ook in het winterhalfjaar off-grid staan, dan is meer paneelvermogen de eerste stap — en dan is die 1.000 W ingang van de Delta 2 Max meteen de hoogste van de modellen die op 21 augustus 2026 in de fabrikantwinkels stonden; de Bluetti AC200Max met 900 W was daar toen niet meer te koop. De EcoFlow Delta Pro 3 gaat met 2.600 W zonne-ingang nog verder, maar weegt 51,5 kg en is daarmee voor de meeste bussen te zwaar.
 
 ---
 
@@ -457,9 +465,9 @@ Bijna alle moderne powerstations laden via de 12V-sigarettenaansteker, maar dan 
 Het beste powerstation voor vanlife hangt af van je reisstijl, budget en stroombehoeften. Alle prijzen hieronder zijn van 21 augustus 2026 en deels actieprijzen — controleer het bedrag op het moment dat je koopt.
 
 - **Full-time vanlife**: EcoFlow Delta 2 Max (€949) — de beste combinatie van capaciteit, 2.400 W vermogen en 1.000 W zonne-ingang.
-- **Maximaal off-grid**: Bluetti AC200Max — de hoogste opgegeven zonne-ingang (900 W) voor langere periodes zonder netstroom.
-- **Lichtste 2 kWh-station**: Jackery Explorer 2000 v2 (€899) — dezelfde capaciteit als de zwaardere concurrenten, tien kilo minder, 4.000 cycli.
+- **Maximaal off-grid**: ook de EcoFlow Delta 2 Max — met 1.000 W over twee poorten de hoogste zonne-ingang van de modellen die op 21 augustus 2026 nog bij de fabrikant te koop waren. De Bluetti AC200Max (900 W) stond die dag niet meer in de EU-shop; de opvolger AC200PL (2.304 Wh, 2.400 W, €1.499) publiceert daar geen maximale zonne-ingang.
+- **Lichtste 2 kWh-station**: Jackery Explorer 2000 v2 (€899) — dezelfde capaciteit als de zwaardere concurrenten, tien kilo minder, 4.000 cycli, en met €0,44 per Wh de goedkoopste capaciteit hier.
 - **Weekend en budget**: EcoFlow River 2 Pro (€549) — licht, snel vol en de laagste instap.
-- **Beste allround**: Anker Solix C1000 — de gunstigste balans tussen capaciteit, vermogen en gewicht.
+- **Lichtste boven 1 kWh**: Anker Solix C1000 (€999) — 12,9 kg en een ruime zonne-ingang, maar met €0,95 per Wh de duurste opslag in dit overzicht; wie op capaciteit per euro let, komt bij de Delta 2 Max of de Explorer 2000 v2 uit.
 
 Bekijk ook ons overzicht van de [beste draagbare powerstations 2026](/posts/beste-draagbare-powerstation-2026/) en het [beste powerstation voor camping](/posts/beste-powerstation-camping-2026/) voor meer opties.

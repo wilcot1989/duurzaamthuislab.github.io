@@ -46,8 +46,9 @@ faq:
 products:
 - name: EcoFlow STREAM-serie (balkonsysteem)
   url: https://go.duurzaamthuislab.nl/ecoflow
-- name: Anker SOLIX Solarbank
+- name: Anker SOLIX Solarbank 2 E1600 AC
   url: https://go.duurzaamthuislab.nl/anker-solix
+  price: '1099'
 ---
 Een vraag die vaak terugkomt van huurders en flatbewoners: zijn plug-in balkon zonnepanelen ook in Nederland toegestaan, en zijn ze de investering waard voor een appartement van drie hoog? Het concept is groot geworden in Duitsland onder de naam "Balkonkraftwerk" en wordt sindsdien ook hier veel gezocht.
 
@@ -107,7 +108,7 @@ Hoeveel systemen er in Duitsland staan, laten wij hier weg: de cijfers die circu
 | Montagebeugels balkon | €120 |
 | **Totaal, zelf samengesteld** | **circa €600** |
 
-*Dit zijn rekenaannames op basis van gangbare webshopprijzen, geen fabrikantprijzen: prijzen in dit segment wisselen per week en per kanaal. Voor een compleet merksysteem van EcoFlow of Anker SOLIX ligt het bedrag hoger; controleer de actuele configuratieprijs bij het merk zelf.*
+*Dit zijn rekenaannames op basis van gangbare webshopprijzen, geen fabrikantprijzen: prijzen in dit segment wisselen per week en per kanaal. Voor een compleet merksysteem met accu ligt het bedrag hoger, en dat is wél te controleren: de Anker SOLIX Solarbank 2 E1600 AC stond op 21 augustus 2026 op €1.099 en de Solarbank 3 E2700 Pro op €1.599, beide zonder panelen (ankersolix.com/nl, gecontroleerd 21-8-2026). EcoFlow publiceert zijn STREAM-configuraties per samenstelling; controleer die bij het merk.*
 
 ### Opbrengst per jaar
 
@@ -173,7 +174,7 @@ Er zijn in Nederland twee merken met een compleet balkonsysteem plus de optie om
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/balkon-zonnepanelen-plug-in-nederland-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de EcoFlow STREAM-serie</a>
 
-**Anker SOLIX Solarbank.** Balkonsysteem met een geïntegreerde accu, waarmee je productie van het middaguur naar de avond schuift. Dat is precies de functie die na de saldering-stop in 2027 waarde krijgt. Controleer de actuele capaciteit, het aantal aansluitbare panelen en de garantietermijn van de configuratie die je kiest.
+**Anker SOLIX Solarbank.** Balkonsysteem met een geïntegreerde accu, waarmee je productie van het middaguur naar de avond schuift. Dat is precies de functie die na de saldering-stop in 2027 waarde krijgt. Op ankersolix.com/nl stond op 21 augustus 2026 de **Solarbank 2 E1600 AC** op **€ 1.099** en de **Solarbank 3 E2700 Pro** op **€ 1.599**, in beide gevallen zonder panelen. Uitbreiden gaat met BP2700-accumodules: bij de Solarbank 2 kost de set met één module € 2.199, met twee € 3.299 en met drie € 4.399; bij de Solarbank 3 Pro met één module € 2.699 (ankersolix.com/nl, gecontroleerd 21-8-2026). Controleer daarnaast het aantal aansluitbare panelen en de garantietermijn van de configuratie die je kiest.
 
 <a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/balkon-zonnepanelen-plug-in-nederland-2026/" class="cta cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Bekijk de Anker SOLIX Solarbank</a>
 
@@ -211,13 +212,26 @@ Er zijn inmiddels balkonsystemen met een geïntegreerde accu. Twee lijnen die in
 
 ### Anker SOLIX Solarbank
 
-Balkonsysteem met geïntegreerde accu van enkele kilowattuur, waarmee je middagproductie naar de avond verschuift. Capaciteit, het aantal aansluitbare panelen en de prijs verschillen per uitvoering; controleer die bij het merk.
+Balkonsysteem met geïntegreerde accu van enkele kilowattuur, waarmee je middagproductie naar de avond verschuift. De prijzen op ankersolix.com/nl op 21 augustus 2026:
+
+| Uitvoering (zonder panelen) | Prijs |
+|---|---|
+| Solarbank 2 E1600 AC | € 1.099 |
+| Solarbank 2 E1600 AC + 1× BP2700 | € 2.199 |
+| Solarbank 2 E1600 AC + 2× BP2700 | € 3.299 |
+| Solarbank 2 E1600 AC + 3× BP2700 | € 4.399 |
+| Solarbank 3 E2700 Pro | € 1.599 |
+| Solarbank 3 E2700 Pro + 1× BP2700 | € 2.699 |
+
+*Prijzen ankersolix.com/nl, gecontroleerd 21-8-2026. Uit die reeks volgt één rekenregel: elke BP2700-module kost € 1.100 extra (€ 2.199 − € 1.099, en ook € 3.299 − € 2.199 en € 4.399 − € 3.299), bij de Solarbank 3 Pro net zo (€ 2.699 − € 1.599). Het aantal aansluitbare panelen en de garantietermijn per uitvoering controleer je bij het merk.*
 
 ### EcoFlow STREAM met accu
 
 De STREAM-lijn is modulair: omvormer, thuisbatterij en een uitbreidingsaccu. Zo begin je klein en breid je later uit. Wij noemen hier geen bedragen: de configuratieprijzen wisselen per actie en per samenstelling.
 
-Voor beide geldt dezelfde rekenregel, en die valt ongunstiger uit dan verkopers suggereren: **een accu verlengt de terugverdientijd van het geheel**, ook na 2027. Wat de accu oplevert is het verschil tussen zelf gebruiken (€0,26) en terugleveren (in ons model €0,07), dus €0,19 per verschoven kWh. Op een balkonsysteem gaat het om een paar honderd kWh per jaar, en dat weegt niet op tegen de meerprijs van de accu — zie het uitgewerkte scenario verderop. Koop de accu dus voor avondgebruik en onafhankelijkheid, niet omdat de rekensom er beter van wordt.
+Voor beide geldt dezelfde rekenregel, en die valt ongunstiger uit dan verkopers suggereren: **een accu verlengt de terugverdientijd van het geheel**, ook na 2027. Wat de accu oplevert is het verschil tussen zelf gebruiken (€0,26) en terugleveren (in ons model €0,07), dus €0,19 per verschoven kWh. Op een balkonsysteem gaat het om een paar honderd kWh per jaar: verschuif je 300 kWh, dan is dat 300 × €0,19 = €57 per jaar.
+
+Zet dat naast de prijzen hierboven en de uitkomst is eenduidig. Een Solarbank 2 E1600 AC van €1.099 tegenover een micro-omvormer van circa €180 (rekenaanname uit de kostentabel) is een meerprijs van ongeveer €920; bij €57 per jaar duurt dat €920 / €57 ≈ 16 jaar. En elke extra BP2700-module kost €1.100 zonder dat je op een balkon met 700-800 kWh per jaar méér te verschuiven hebt. Koop de accu dus voor avondgebruik en onafhankelijkheid, niet omdat de rekensom er beter van wordt.
 
 Lees [EcoFlow Delta 2 Max review](/posts/ecoflow-delta-2-max-review-2026/) en [Anker Solix C1000 review](/posts/anker-solix-c1000-review-2026/).
 
@@ -331,10 +345,11 @@ Op een dynamisch contract kan dit gunstiger uitpakken, omdat ochtendproductie sa
 
 Een systeem met geïntegreerde accu van een paar kilowattuur, gemonteerd aan de dakterrasrand na VvE-toestemming.
 
-- Investering: afhankelijk van de configuratie; reken in dit model met circa €1.100
+- Investering: de Anker SOLIX Solarbank 2 E1600 AC stond op 21 augustus 2026 op €1.099 zonder panelen (ankersolix.com/nl); met twee panelen van circa 400 Wp voor €240 (rekenaanname uit de kostentabel) komt dit model op €1.099 + €240 = **circa €1.340**
 - Verwachte opbrengst: circa 700-800 kWh per jaar
+- Waarde zolang je saldeert: €182-€208 per jaar, dus €1.340 / €208 ≈ 6,4 jaar tot €1.340 / €182 ≈ 7,4 jaar terugverdientijd — tegen 2,9-3,3 jaar voor hetzelfde paneelvermogen zonder accu
 - Wat de accu toevoegt: het deel dat anders wordt teruggeleverd, verschuift naar de avonduren. Na 2027 is dat het verschil tussen €0,26 (zelf gebruiken) en €0,07 (terugleveren), dus €0,19 per verschoven kWh
-- Verschuif je met een accu van 2 kWh ruwweg 300 kWh per jaar, dan is dat circa €57 per jaar extra — en dat maakt de terugverdientijd van het geheel langer, niet korter
+- Verschuif je ruwweg 300 kWh per jaar, dan is dat 300 × €0,19 = circa €57 per jaar extra — niet genoeg om de meerprijs van €920 boven de zelfbouwroute in te lopen, dus de terugverdientijd van het geheel wordt langer, niet korter
 
 Dat is de eerlijke uitkomst: een accu op een balkonsysteem koop je voor onafhankelijkheid en voor het gebruik van je eigen stroom in de avond, niet omdat de rekensom erdoor beter wordt.
 
@@ -346,9 +361,9 @@ Twee hindernissen komen in appartementen zo vaak voor dat ze een eigen paragraaf
 
 **Hindernis 2: een oude meterkast.** In vooroorlogse en jaren-70-complexen hangt het stopcontact op het balkon vaak als aftakking op een 10A-groep met een enkele leiding. Dat is niet geschikt voor een systeem dat urenlang enkele honderden watts levert. Een elektricien die een aparte 16A-kabel naar een nieuwe Schuko op het balkon trekt, kost circa €150 tot €250. Reken die post vooraf mee, want hij wordt bijna altijd vergeten.
 
-**Investering in dit scenario (rekenaannames):** een balkonsysteem met accu voor circa €800, een elektricien voor circa €185 en montagemateriaal voor €60 — samen circa €1.045.
+**Investering in dit scenario:** een balkonsysteem met accu — de Anker SOLIX Solarbank 2 E1600 AC stond op 21 augustus 2026 op **€1.099** zonder panelen (ankersolix.com/nl) — plus twee panelen van circa 400 Wp voor €240, een elektricien voor circa €185 en montagemateriaal voor €60. Dat is €1.099 + €240 + €185 + €60 = **circa €1.584**. Alleen het bedrag van de Solarbank is een geverifieerde prijs; de andere drie posten zijn rekenaannames.
 
-**Opbrengst volgens het model:** circa 800 kWh per jaar bij zuid-oriëntatie zonder schaduw. Met een accu van enkele kilowattuur is een eigenverbruiksaandeel van 80 tot 90% in dit verbruiksprofiel haalbaar. Reken met €0,26/kWh voor eigen verbruik en €0,07/kWh voor het restant: 700 kWh × €0,26 + 100 kWh × €0,07 = circa **€189 per jaar**. Terugverdientijd: ruim vijf jaar, bij apparatuur waarvan de garantietermijn in de garantievoorwaarden staat — vraag die op vóór je koopt.
+**Opbrengst volgens het model:** circa 800 kWh per jaar bij zuid-oriëntatie zonder schaduw. Met een accu van enkele kilowattuur is een eigenverbruiksaandeel van 80 tot 90% in dit verbruiksprofiel haalbaar. Reken met €0,26/kWh voor eigen verbruik en €0,07/kWh voor het restant: 700 kWh × €0,26 + 100 kWh × €0,07 = circa **€189 per jaar**. Terugverdientijd: €1.584 / €189 ≈ **8,4 jaar** — aanzienlijk langer dan de vijf jaar waar de oudere prijsaanname van dit scenario op uitkwam. Vraag de garantietermijn van de apparatuur op vóór je koopt en vergelijk die met deze acht jaar; en weeg mee of je de accu voor het avondgebruik wilt of voor het rendement.
 
 Onderschat de app-data niet. Dagelijks zien wat het systeem produceert, maakt je eigen energiegedrag zichtbaar. Dat is voor veel eigenaren de opstap naar de volgende stap: wasmachine en oven op de productiepieken plannen.
 

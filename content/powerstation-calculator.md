@@ -8,12 +8,12 @@ faq:
 - q: 'Waarom haal ik in de praktijk een kortere runtime dan de tool aangeeft?'
   a: 'De uitkomst is een modelberekening met een vast omvormer-rendement van 0,85. In werkelijkheid speelt meer mee: bij lage belasting verbruikt de omvormer zelf relatief veel (een station dat aan staat met alleen een telefoon eraan, verliest een merkbaar deel aan zichzelf), koude verlaagt de bruikbare capaciteit, en de meeste fabrikanten laten de accu niet volledig leeglopen. Reken op een marge en niet op de exacte uitkomst.'
 - q: 'Kan ik een waterkoker of airfryer op een powerstation gebruiken?'
-  a: 'Dat hangt volledig af van het continu vermogen, niet van de capaciteit. Een waterkoker van 2.000 W vraagt een model dat minstens 2.000 W continu levert; een R600 (600 W) of een EB70S (800 W) redt dat niet, ongeacht hoe vol de accu is. Vul het echte wattage van het apparaat in blok 1 in en lees in blok 2 af welke modellen het halen.'
+  a: 'Dat hangt volledig af van het continu vermogen, niet van de capaciteit. Een waterkoker van 2.000 W vraagt een model dat minstens 2.000 W continu levert; een R600 (600 W) of een EB70 (1.000 W) redt dat niet, ongeacht hoe vol de accu is. Vul het echte wattage van het apparaat in blok 1 in en lees in blok 2 af welke modellen het halen.'
 - q: 'Wat betekent de aanloopfactor precies, en waar komt hij vandaan?'
   a: 'Het is onze vuistregel-modelaanname voor de inschakelstroom: het wattage van het apparaat maal 3 bij een compressor, maal 2,5 bij elektrisch gereedschap, maal 1 bij elektronica en laders. Het is geen fabrieksopgave en geen meting. De exacte startstroom van jouw apparaat staat op het typeplaatje of in de handleiding; gebruik de factor om te zien of je marge nodig hebt, niet als getal om op te bouwen.'
 - q: 'Zijn de vermelde capaciteiten, vermogens en prijzen actueel?'
-  a: 'De capaciteiten en continu vermogens komen uit de fabrieksspecificaties, en de prijzen zijn adviesprijzen met peildatum augustus 2026. Waar "zie site" staat, wisselt de prijs te vaak om hier zinvol te noemen. Fabrikanten brengen regelmatig nieuwe generaties uit onder een vrijwel identieke naam — met andere Wh en W. Controleer bij aanschaf altijd de specificatie van de variant die je in je mandje hebt.'
-lastmod: 2026-08-20
+  a: 'De capaciteiten en continu vermogens komen uit de fabrieksspecificaties, en de prijzen zijn adviesprijzen met peildatum augustus 2026; de Anker SOLIX C1000 (€ 999) en de Bluetti EB70 (€ 499) hebben wij op 21-8-2026 nagekeken in de webshop van de fabrikant. Waar "zie site" staat, wisselt de prijs te vaak om hier zinvol te noemen. Fabrikanten brengen regelmatig nieuwe generaties uit onder een vrijwel identieke naam — met andere Wh en W. Controleer bij aanschaf altijd de specificatie van de variant die je in je mandje hebt.'
+lastmod: 2026-08-21
 ---
 
 *Disclosure: dit artikel bevat affiliate-links. Voor EcoFlow, ALLPOWERS, Anker SOLIX, Jackery en Bluetti lopen bij ons goedgekeurde partnerprogramma's via het affiliate-netwerk AWIN. Koop je via zo'n link, dan ontvangen wij mogelijk een commissie — dat kost jou niets extra en verandert niets aan de specificaties en berekeningen op deze pagina.*
@@ -101,7 +101,8 @@ Hieronder staan twee tools. De eerste rekent de runtime uit, de tweede toetst of
 <script>
 (function(){
   // Capaciteit en continu vermogen: fabrieksspecificaties (peildatum augustus 2026).
-  // Prijzen: adviesprijzen augustus 2026; waar leeg staat verwijzen we naar de site van de leverancier.
+  // Prijzen: adviesprijzen augustus 2026; de Anker SOLIX- en Bluetti-prijzen zijn gecontroleerd op 21-8-2026
+  // (ankersolix.com/nl resp. bluettipower.eu). Waar 'zie site' staat, verwijzen we naar de leverancier.
   var MODELLEN = [
     { id:'ecoflow-delta-2',   naam:'EcoFlow Delta 2',            wh:1024, w:1800, prijs:'€ 599',   merk:'ecoflow' },
     { id:'ecoflow-delta-3',   naam:'EcoFlow Delta 3 Classic',    wh:1024, w:1800, prijs:'€ 549',   merk:'ecoflow' },
@@ -109,8 +110,8 @@ Hieronder staan twee tools. De eerste rekent de runtime uit, de tweede toetst of
     { id:'allpowers-r1500',   naam:'ALLPOWERS R1500',            wh:1152, w:1800, prijs:'€ 569',   merk:'allpowers' },
     { id:'allpowers-r2500',   naam:'ALLPOWERS R2500-V2',         wh:1920, w:2500, prijs:'€ 849',   merk:'allpowers' },
     { id:'jackery-2000v2',    naam:'Jackery Explorer 2000 v2',   wh:2042, w:2200, prijs:'zie site', merk:'jackery' },
-    { id:'anker-c1000',       naam:'Anker SOLIX C1000',          wh:1056, w:1800, prijs:'zie site', merk:'anker-solix' },
-    { id:'bluetti-eb70s',     naam:'Bluetti EB70S',              wh:716,  w:800,  prijs:'zie site', merk:'bluetti' }
+    { id:'anker-c1000',       naam:'Anker SOLIX C1000',          wh:1056, w:1800, prijs:"€ 999",   merk:'anker-solix' },
+    { id:'bluetti-eb70',      naam:'Bluetti (PowerOak) EB70',    wh:716,  w:1000, prijs:"€ 499",   merk:'bluetti' }
   ];
   // Aanloopfactoren = vuistregel-modelaannames, geen fabrieksopgave.
   var APPARATEN = [
@@ -239,7 +240,7 @@ Heb je een model uit de lijst op het oog? De actuele prijs en voorraad staan bij
 <a href="https://go.duurzaamthuislab.nl/allpowers?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored">ALLPOWERS R600 · R1500 · R2500-V2</a> ·
 <a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored">Anker SOLIX C1000</a> ·
 <a href="https://go.duurzaamthuislab.nl/jackery?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored">Jackery Explorer 2000 v2</a> ·
-<a href="https://go.duurzaamthuislab.nl/bluetti?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored">Bluetti EB70S</a>
+<a href="https://go.duurzaamthuislab.nl/bluetti?ref=/powerstation-calculator/" target="_blank" rel="noopener nofollow sponsored">Bluetti EB70</a>
 
 ## Wattuur en watt: twee getallen die niet uitwisselbaar zijn
 

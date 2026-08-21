@@ -26,7 +26,7 @@ faq:
 - q: Wat is het verschil tussen een powerstation en een thuisbatterij?
   a: Een powerstation is draagbaar, heeft ingebouwde stopcontacten en werkt direct uit de doos. Een thuisbatterij wordt vast geïnstalleerd, is gekoppeld aan je zonnepanelen en het elektriciteitsnet, en vereist een professionele installatie.
 - q: Is een powerstation goedkoper dan een thuisbatterij?
-  a: 'Per kWh capaciteit lopen ze minder uiteen dan je zou denken: draagbare stations zitten op de webshopprijzen van augustus 2026 tussen ruwweg €450 en €800 per kWh (kleine modellen zijn per kWh het duurst), een thuisbatterij op €450 tot €700 per kWh inclusief installatie. Het echte verschil is de instap: een powerstation koop je vanaf een paar honderd euro, een thuisbatterij niet onder de paar duizend.'
+  a: 'Per kWh capaciteit lopen ze minder uiteen dan je zou denken: draagbare stations zitten op de webshopprijzen van 21 augustus 2026 tussen ruwweg €460 en €950 per kWh (kleine modellen zijn per kWh het duurst), een thuisbatterij op €450 tot €700 per kWh inclusief installatie. Het echte verschil is de instap: een powerstation koop je vanaf een paar honderd euro, een thuisbatterij niet onder de paar duizend.'
 - q: Kan een powerstation mijn huis van stroom voorzien bij een stroomstoring?
   a: Ja, maar beperkt. Een powerstation van 2000Wh kan je basisbehoeften (verlichting, wifi, telefoon, koelkast) 8-12 uur van stroom voorzien. Een thuisbatterij van 10kWh kan een volledig huishouden een dag lang draaien.
 - q: Heb ik zonnepanelen nodig voor een thuisbatterij?
@@ -66,7 +66,7 @@ Een **draagbaar powerstation** is een grote, oplaadbare batterij met ingebouwde 
 - **Oplaadbaar** via stopcontact, zonnepanelen of autolader
 - **Typische capaciteit** -- 500 Wh tot 3.000 Wh (0,5-3 kWh)
 
-Populaire voorbeelden zijn de [EcoFlow Delta 2 Max](/posts/beste-draagbare-powerstation-2026/), [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) en de [Jackery Explorer 2000 v2](/posts/jackery-explorer-2000-v2-vs-plus-2026/).
+Populaire voorbeelden zijn de [EcoFlow Delta 2 Max](/posts/beste-draagbare-powerstation-2026/), de Bluetti AC200PL (2.304 Wh / 2.400 W, €1.499 — de opvolger van de [AC200MAX](/posts/bluetti-ac200max-review-2026/), die niet meer leverbaar is in de Bluetti EU-shop; bluettipower.eu, gecontroleerd 21-8-2026) en de [Jackery Explorer 2000 v2](/posts/jackery-explorer-2000-v2-vs-plus-2026/).
 
 ---
 
@@ -97,7 +97,7 @@ Populaire voorbeelden zijn de [Huawei Luna 2000](/posts/huawei-luna-2000-review-
 | **Koppeling zonnepanelen** | Draagbare panelen | Dakpanelen via omvormer |
 | **Netgekoppeld** | Nee | Ja |
 | **Slimme aansturing** | Beperkt (app) | Uitgebreid (dynamische tarieven, TOU) |
-| **Prijs per kWh** | €450-800 (kleine modellen het duurst) | €450-700 (incl. installatie) |
+| **Prijs per kWh** | €460-950 (kleine modellen het duurst) | €450-700 (incl. installatie) |
 | **Totale investering** | €200-2.500 | €4.000-12.000 |
 | **Terugverdientijd** | N.v.t. (geen netbesparing) | 8-15 jaar |
 | **Levensduur** | 3.000-4.000 cycli (fabrieksopgave) | 5.000-6.000 cycli (fabrieksopgave) |
@@ -110,7 +110,7 @@ Populaire voorbeelden zijn de [Huawei Luna 2000](/posts/huawei-luna-2000-review-
 
 ### 1. Capaciteit en vermogen
 
-Een thuisbatterij wint ruimschoots op **capaciteit**. De Huawei Luna 2000 loopt van 5 tot 15 kWh, terwijl een groot draagbaar station (zoals de Jackery Explorer 2000 v2) op circa 2 kWh zit. Wel kun je powerstations uitbreiden: de Bluetti AC200MAX reikt met extra B300-batterijen tot 8,2 kWh.
+Een thuisbatterij wint ruimschoots op **capaciteit**. De Huawei Luna 2000 loopt van 5 tot 15 kWh, terwijl een groot draagbaar station (zoals de Jackery Explorer 2000 v2) op circa 2 kWh zit. Wel kun je powerstations uitbreiden: met de Bluetti AC500 en twee B300K-modules van elk 2.764,8 Wh kom je op 5,53 kWh (bluettipower.eu, gecontroleerd 21-8-2026).
 
 Qua **vermogen** is het beeld genuanceerder. Een groot powerstation levert 2.200 tot 3.000 W continu (de Jackery Explorer 2000 v2 zit op 2.200 W), terwijl een Huawei Luna 2000 (5 kWh) op 2500 W zit. Bij thuisbatterijen met grotere configuraties loopt het vermogen op tot 5000W of meer.
 
@@ -202,7 +202,7 @@ Thuisbatterijen gaan langer mee:
 - **Geen installateur wilt inschakelen** -- gewoon kopen en gebruiken
 - **Tijdelijk** ergens stroom nodig hebt (marktkraam, evenement, bouwplaats)
 
-**Onze inschatting**: de [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) voor maximale veelzijdigheid, of de [EcoFlow River 2 Pro](/posts/beste-draagbare-powerstation-2026/) voor maximale draagbaarheid.
+**Onze inschatting**: de Bluetti AC200PL (2.304 Wh / 2.400 W, €1.499, bluettipower.eu, gecontroleerd 21-8-2026) voor maximale veelzijdigheid — de [AC200MAX](/posts/bluetti-ac200max-review-2026/) die deze plek eerder innam, staat niet meer in de EU-shop — of de [EcoFlow River 2 Pro](/posts/beste-draagbare-powerstation-2026/) voor maximale draagbaarheid.
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow?ref=/posts/powerstation-vs-thuisbatterij-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk bij EcoFlow →</a>
 
@@ -261,7 +261,7 @@ Let op de gevoeligheid van dit model: de uitkomst hangt vooral aan de aanname ov
 
 ### Fout 1: "Een groot powerstation kan mijn thuisbatterij vervangen"
 
-Hoewel een uitgebreid powerstation (bijv. Bluetti AC200MAX + 2x B300 = 8,2 kWh) qua capaciteit in de buurt komt van een kleine thuisbatterij, mist het de **netgekoppelde automatisering**. Je moet handmatig apparaten aansluiten en het station opladen. Het bespaart geen stroom op je energierekening.
+Hoewel een uitgebreid powerstation (bijv. Bluetti AC500 + 2× B300K = 5,53 kWh) qua capaciteit in de buurt komt van een kleine thuisbatterij, mist het de **netgekoppelde automatisering**. Je moet handmatig apparaten aansluiten en het station opladen. Het bespaart geen stroom op je energierekening.
 
 ### Fout 2: "Een thuisbatterij is altijd een goede investering"
 
@@ -285,8 +285,12 @@ Meer capaciteit is niet altijd nodig. Een gemiddeld huishouden heeft aan 5-10 kW
 |---|---|---|---|
 | EcoFlow River 2 Pro | 0,8 kWh | €549 | €715 |
 | EcoFlow Delta 2 Max | 2 kWh | €949 | €464 |
+| Bluetti AC70 | 0,768 kWh | €549 | €715 |
+| Bluetti AC180 | 1,152 kWh | €699 | €607 |
+| Bluetti AC200PL | 2,304 kWh | €1.499 | €651 |
+| Anker SOLIX C1000 | 1,056 kWh | €999 | €946 |
 
-*Prijzen nl.ecoflow.com, peildatum 21 augustus 2026. Bluetti en Anker publiceerden op de peildatum geen controleerbare NL-prijzen; die staan daarom niet in deze tabel — check de actuele prijs via de productlinks.*
+*Prijzen EcoFlow via nl.ecoflow.com, Bluetti via bluettipower.eu en Anker via ankersolix.com/nl, alle peildatum 21 augustus 2026. De prijs per kWh is de aanschafprijs gedeeld door de capaciteit (bijvoorbeeld €999 / 1,056 kWh = €946). Bluetti hanteert op de AC70, AC180 en de AC500-combi actieprijzen; die kunnen aflopen — check de actuele prijs via de productlinks.*
 
 **Thuisbatterijen — rekenaannames, geen gepubliceerde prijzen**
 
@@ -384,15 +388,17 @@ Met maximale uitbreidingsmodules naderen sommige powerstations het capaciteitsge
 
 | Systeem | Capaciteit | Kosten | Mobiel | Netgekoppeld | Kosten/kWh |
 |---|---|---|---|---|---|
-| Bluetti AC200MAX + 2× B300 | 8,2 kWh | €5.300 (richtprijs) | ✅ | ❌ | €0,65/kWh (levensduur) |
+| Bluetti AC500 + 2× B300K | 5,53 kWh | €2.599 (bluettipower.eu, gecontroleerd 21-8-2026) | ✅ | ❌ | €0,18/kWh (levensduur) |
 | Sessy 5 kWh thuisbatterij | 5 kWh | €3.550 excl. installatie (sessy.nl, prijspeil augustus 2026) | ❌ | ✅ | €0,17/kWh |
 | Thuisbatterij 10 kWh | 10 kWh | €7.000 (rekenaanname) | ❌ | ✅ | €0,14/kWh |
 
+De Bluetti-rij is opgebouwd uit twee gepubliceerde prijzen: de combi AC500 + B300K staat op €1.200 (actieprijs, van €3.999) en een losse B300K van 2.764,8 Wh op €1.399 — samen €2.599 voor 2 × 2.764,8 Wh = 5,53 kWh, oftewel €470 per kWh aanschaf. De kosten per kWh over de levensduur volgen uit hetzelfde model als hierboven, met de 3.000 cycli die wij in dit artikel als powerstation-aanname gebruiken: 5,53 × 0,85 × 3.000 = 14.101 bruikbare kWh, €2.599 / 14.101 = €0,18/kWh. Dat de AC200MAX uit de eerdere versie van deze tabel verdwenen is, komt doordat dat model niet meer in de Bluetti EU-shop staat (gecontroleerd 21-8-2026).
+
 Jackery's uitbreidbare 2000 Plus staat hier niet in: dat model is in Nederland niet in het assortiment, zoals we uitwerken in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/). Uitbreiden met accumodules loopt hier dus via EcoFlow en Bluetti.
 
-De uitgebreide powerstations zijn 3-4× duurder per kWh over de levensduur dan een thuisbatterij, en missen de netgekoppelde automatisering. Maar ze zijn wél mobiel — dat is de prijs van mobiliteit.
+Met de actieprijs op de AC500-combi is het verschil per kWh over de levensduur klein geworden: €0,18 tegenover €0,17 voor de Sessy en €0,14 voor de 10 kWh-rekenaanname. De vuistregel dat uitgebreide powerstations drie tot vier keer duurder per kWh zijn, gaat bij deze prijzen dus niet meer op — wat wél blijft staan, is dat het systeem de netgekoppelde automatisering mist en daarmee niets op je afrekening bespaart. Daar staat mobiliteit tegenover.
 
-**Conclusie**: zodra je aan een uitgebreid powerstation-systeem meer besteedt dan aan een kleine vaste thuisbatterij — de Sessy-rij hierboven is het ijkpunt — ben je financieel beter af met die thuisbatterij, mits thuisgebruik je primaire doel is. Blijft mobiliteit belangrijk, dan koop je met dat prijsverschil precies dat.
+**Conclusie**: de afweging draait niet meer om prijs per kWh, want die liggen nu dicht bij elkaar. Zolang zo'n actieprijs geldt, kost een uitgebreid powerstation-systeem van 5,53 kWh (€2.599) zelfs minder dan de kleinste vaste thuisbatterij in deze tabel (Sessy 5 kWh, €3.550 excl. installatie). Ben je op structurele besparing uit, dan is de netgekoppelde thuisbatterij nog steeds de enige kandidaat; is mobiliteit of noodstroom je doel, dan is het powerstation dat nu ook op prijs.
 
 ---
 

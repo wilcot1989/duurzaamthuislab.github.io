@@ -25,7 +25,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
 - q: Welke thuisbatterijprijzen zijn in 2026 daadwerkelijk gepubliceerd?
-  a: 'Sessy publiceert 5 kWh voor €3.550, 10 kWh voor €5.500 en de Plus van 15 kWh voor €9.400, incl. btw en excl. installatie, met een noodstroom-basisinstallatie van €1.200. HomeWizard noemt €1.195 voor 2,7 kWh. Marstek noemt alleen de Jupiter C Plus (€599). Zonneplan adverteert 10 kWh voor €4.690, maar in het eigen frame "na btw-teruggave". Tesla, EcoFlow, Huawei en BYD publiceren geen consumentenprijs. Peildatum augustus 2026.'
+  a: 'Sessy publiceert 5 kWh voor €3.550, 10 kWh voor €5.500 en de Plus van 15 kWh voor €9.400, incl. btw en excl. installatie, met een noodstroom-basisinstallatie van €1.200. HomeWizard noemt €1.195 voor 2,7 kWh. Marstek noemt alleen de Jupiter C Plus (€599). Zonneplan publiceert geen vaste prijslijst; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Tesla, EcoFlow, Huawei en BYD publiceren geen consumentenprijs. Peildatum augustus 2026.'
 - q: Wat kost installatie van een thuisbatterij?
   a: 'Dat verschilt te sterk per woning om er een bedrag bij te zetten, en dat is precies waarom je het apart op de offerte wilt zien. Het bedrag hangt af van de afstand tot de meterkast, de ruimte in de groepenkast, of er een omschakelinrichting voor noodstroom bij hoort en of je installatie een of drie fasen heeft. Vraag daarom altijd om uren, materiaal en meldingskosten als losse regels.'
 - q: Is er btw-teruggave of subsidie op een thuisbatterij in 2026?
@@ -70,7 +70,7 @@ Deze pagina gaat daarom niet over "wat kost een thuisbatterij", maar over iets b
 
 **Wat er soms in zit — altijd controleren:**
 
-- Installatie. Sessy rekent die apart. Marstek publiceert geen prijs en dus ook geen installatieafspraak. Bij Zonneplan is niet bevestigd of installatie in de geadverteerde bedragen zit.
+- Installatie. Sessy rekent die apart. Marstek publiceert geen prijs en dus ook geen installatieafspraak. Zonneplan publiceert geen prijslijst, dus vraag in het persoonlijke voorstel na of installatie erin zit.
 - De omvormer. Bij AC-gekoppelde systemen meestal ingebouwd, bij DC-gekoppelde systemen een aparte post.
 - De omschakelinrichting voor noodstroom. Bij Sessy staat de basisinstallatie daarvoor op €1.200 en hoort die bij de Plus-variant.
 - Aanpassing van de groepenkast.
@@ -96,14 +96,14 @@ Een eerlijke offerte heeft iedere kostenpost apart op een regel. Een offerte die
 | HomeWizard | 2,7 kWh plug-in | €1.195 per unit | niet nodig | homewizard.com, aug 2026 |
 | Marstek | Jupiter C Plus | €599 | niet nodig (800 W) | eu.marstekenergy.com, aug 2026 |
 | Marstek | Venus E Mini / 4.0 / MAX | geen prijs gepubliceerd | 4.0 en MAX wel | eu.marstekenergy.com, aug 2026 |
-| Zonneplan | 10 / 15 / 20 / 35 kWh | €4.690 / €5.490 / €7.290 / €9.090 "na btw-teruggave" | niet bevestigd | zonneplan.nl, aug 2026 |
+| Zonneplan | 10 / 15 / 20 / 35 kWh | geen gepubliceerde prijslijst; persoonlijk voorstel | niet bevestigd | zonneplan.nl, gecontroleerd 21-8-2026 |
 | Tesla | Powerwall 3, 13,5 kWh | geen NL-consumentenprijs | via installatiepartner | tesla.com, aug 2026 |
 | Huawei | Luna 2000, modules van 5 kWh | geen consumentenprijs | via installateur | solar.huawei.com, aug 2026 |
 | BYD | Battery-Box Premium, modules van 2,56 kWh | geen consumentenprijs | via installateur | byd.com, aug 2026 |
 
 Dat is de hele lijst. Alles wat je elders als "Marstek 10 kWh €4.200" of "Powerwall €11.000" tegenkomt, is een webshop- of offertebedrag dat wij niet bij de fabrikant kunnen terugvinden — en dat dus per week en per aanbieder verschilt.
 
-**Let bij Zonneplan op het frame.** De bedragen staan er "na btw-teruggave". Voor een losse thuisbatterij bestaat die route niet: daar geldt altijd 21 procent btw, en sinds 2023 is er ook op zonnepanelen geen btw-teruggaveroute meer. Deze bedragen zijn dus niet één-op-een vergelijkbaar met de prijzen inclusief btw in de rest van de tabel. Vraag het bedrag inclusief btw op, plus of installatie erin zit.
+**Let bij Zonneplan op het ontbreken van bedragen.** Op de eigen thuisbatterijpagina staat geen prijslijst meer; de route is een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Wat er wél staat, is een "gratis btw-teruggave service" — Zonneplans eigen aanduiding, geen bedrag en geen bevestigde besparing. Let op: voor een losse thuisbatterij bestaat er geen btw-teruggaveroute; daar geldt altijd 21 procent btw, en sinds 2023 is die route ook op zonnepanelen verdwenen. Vraag in het voorstel dus expliciet het bedrag inclusief btw op, plus of installatie erin zit. Tot dat voorstel er is, valt Zonneplan buiten elke prijsvergelijking.
 
 ## Wat je per merk moet uitvragen
 
@@ -113,7 +113,7 @@ Dat is de hele lijst. Alles wat je elders als "Marstek 10 kWh €4.200" of "Powe
 
 <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk Marstek</a> — voor deze link ontvangen wij geen vergoeding.
 
-**Zonneplan** (opgericht in 2012 in Zwolle) levert alles bij één partij: panelen, batterij, laadpaal en contract, met één app en één serviceloket. De omvormer heet Nexus, de sturing heet "slimme aansturing", met een beschermlaag die Zonneplan Gridguard noemt. Twee dingen om uit te vragen: of installatie in het geadverteerde bedrag zit, en dat de slimme aansturing volgens Zonneplans eigen uitlegpagina een Zonneplan-energiecontract vereist. Dat laatste is de kern van de lock-in: de hardware koop je, de opbrengst hangt aan het contract. Terzijde, omdat dit veel verwarring geeft: **"Radar" is het consumentenprogramma van AVROTROS en geen functie van Zonneplan of Sessy** — zie [wat Zonneplan Radar wel en niet is](/posts/zonneplan-radar-uitleg-2026/). Meer in de [Zonneplan thuisbatterij review](/posts/zonneplan-thuisbatterij-review-2026/).
+**Zonneplan** (opgericht in 2012 in Zwolle) levert alles bij één partij: panelen, batterij, laadpaal en contract, met één app en één serviceloket. De omvormer heet Nexus, de sturing heet "slimme aansturing", met een beschermlaag die Zonneplan Gridguard noemt. Zonneplan publiceert geen vaste prijslijst; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Twee dingen om daarin uit te vragen: of installatie in het voorgestelde bedrag zit, en dat de slimme aansturing volgens Zonneplans eigen uitlegpagina een Zonneplan-energiecontract vereist. Dat laatste is de kern van de lock-in: de hardware koop je, de opbrengst hangt aan het contract. Terzijde, omdat dit veel verwarring geeft: **"Radar" is het consumentenprogramma van AVROTROS en geen functie van Zonneplan of Sessy** — zie [wat Zonneplan Radar wel en niet is](/posts/zonneplan-radar-uitleg-2026/). Meer in de [Zonneplan thuisbatterij review](/posts/zonneplan-thuisbatterij-review-2026/).
 
 **Tesla Powerwall 3** geeft 13,5 kWh met LFP-cellen en automatische omschakeling bij netuitval. Verkoop loopt via gecertificeerde installatiepartners; vraag de dealeropgave met prijs, vermogen en installatie apart. Vehicle-to-home is in Nederland niet als product beschikbaar; reken dat niet mee in een businesscase. Zie [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/).
 
@@ -163,7 +163,7 @@ Wie met eigen cijfers wil rekenen: dat kan in onze [vergelijker voor terugverdie
 
 **Wil je het hoogste vermogen per euro en regel je het papierwerk zelf?** Dan komt Marstek in beeld, met prijs, garantietermijn en servicepad schriftelijk vastgelegd door je Nederlandse verkoper.
 
-**Wil je één partij voor panelen, batterij, laadpaal en contract?** Dan Zonneplan, met twee voorbehouden: het "na btw-teruggave"-frame en de contractgebonden sturing.
+**Wil je één partij voor panelen, batterij, laadpaal en contract?** Dan Zonneplan, met twee voorbehouden: er is geen gepubliceerde prijslijst om vooraf mee te vergelijken (alleen een persoonlijk voorstel, zonneplan.nl, gecontroleerd 21-8-2026) en de sturing is contractgebonden.
 
 **Zoek je vooral de laagste instap?** Dan is een plug-in-systeem van 800 W de goedkoopste route — zonder installatiekosten en zonder noodstroom. Dat vergelijken we in [goedkoopste thuisbatterij 2026](/posts/goedkoopste-thuisbatterij-2026/).
 

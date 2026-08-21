@@ -154,7 +154,7 @@ SurgePad verhoogt het effectieve uitgangsvermogen tot 2.400 W door de spanning a
 
 ## Vergelijking met de concurrentie
 
-De prijzen in deze tabel zijn **marktrichtprijzen zonder fabrikantsbron**, stand augustus 2026. Ze schommelen sterk door acties; controleer de actuele prijs via de links.
+De prijzen van de Anker SOLIX C1000 en de Bluetti AC70 komen uit de webshops van de fabrikanten zelf (ankersolix.com/nl respectievelijk bluettipower.eu, gecontroleerd 21-8-2026). De EcoFlow- en Jackery-bedragen zijn marktrichtprijzen zonder fabrikantsbron, stand augustus 2026. Alle bedragen schommelen door acties; controleer de actuele prijs via de links.
 
 | Eigenschap | Anker SOLIX C1000 | EcoFlow Delta 2 | Jackery Explorer 1000 Plus | Bluetti AC70 |
 |---|---|---|---|---|
@@ -165,13 +165,13 @@ De prijzen in deze tabel zijn **marktrichtprijzen zonder fabrikantsbron**, stand
 | Celchemie | LFP | LFP | LFP | LFP |
 | UPS-functie | ja | ja | ja | nee |
 | App-bediening | ja | ja | ja | ja |
-| Marktrichtprijs | circa €899–€999 | circa €949 | circa €1.099 | circa €649 |
+| Prijs | €999 (ankersolix.com/nl, 21-8-2026) | circa €949 (richtprijs) | circa €1.099 (richtprijs) | €549 (bluettipower.eu, 21-8-2026) |
 
 **Tegenover de <a href="https://go.duurzaamthuislab.nl/ecoflow" target="_blank" rel="nofollow noopener sponsored">EcoFlow Delta 2</a>:** de directe concurrent. Vergelijkbare capaciteit en vermogen, waarbij Anker sneller laadt via het stopcontact en EcoFlow bijna het dubbele aan zonne-input biedt. Dat is de hele afweging: laad je vooral op net of vooral op zon?
 
 **Tegenover de <a href="https://go.duurzaamthuislab.nl/jackery" target="_blank" rel="nofollow noopener sponsored">Jackery Explorer 1000 Plus</a>:** meer capaciteit, meer vermogen en veel meer zonne-input, maar ook zwaarder en duurder. Voor wie de capaciteit nodig heeft en het gewicht kan hebben, is dat de betere keuze.
 
-**Tegenover de <a href="https://go.duurzaamthuislab.nl/bluetti" target="_blank" rel="nofollow noopener sponsored">Bluetti AC70</a>:** lichter en goedkoper, maar met driekwart van de capaciteit en iets meer dan de helft van het vermogen. Een andere klasse, geen alternatief.
+**Tegenover de <a href="https://go.duurzaamthuislab.nl/bluetti" target="_blank" rel="nofollow noopener sponsored">Bluetti AC70</a>:** lichter en goedkoper (€549 tegenover €999, bluettipower.eu en ankersolix.com/nl, gecontroleerd 21-8-2026), maar met driekwart van de capaciteit en iets meer dan de helft van het vermogen. Een andere klasse, geen alternatief.
 
 ## Levensduur en onderhoud
 

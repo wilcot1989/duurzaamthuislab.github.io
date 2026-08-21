@@ -1,7 +1,7 @@
 ---
 title: 'Thuisbatterij leasen 2026: aanbieders, maandprijzen en de kleine lettertjes'
 date: 2026-08-28 08:00:00+02:00
-lastmod: 2026-08-28 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: 'Thuisbatterij leasen in 2026: welke aanbieders het echt aanbieden, wat de maandprijzen zijn volgens hun eigen sites, en de contractpunten die het verschil maken — looptijd, eigendom na afloop, verhuizing en defecten.'
 draft: false
 categories:
@@ -30,7 +30,7 @@ faq:
 - q: Ben ik na de leaseperiode eigenaar van de batterij?
   a: 'Dat verschilt per aanbieder en is het belangrijkste punt in het contract. Otovo schrijft op de eigen site: "Aan het einde van je contract ben jij eigenaar van de thuisbatterij", en noemt ook een tussentijdse afkoop zonder extra kosten. Zonneplan wijst er in hun vergelijking juist op dat je bij huur geen eigenaar bent en dat de waarde niet in je woning gaat zitten. Laat dit punt zwart-op-wit vastleggen.'
 - q: Is leasen duurder dan kopen?
-  a: 'Over de volle looptijd meestal wel, omdat het maandbedrag ook rente, service en risico afdekt. Zonneplan rekent op de eigen site een voorbeeld voor: €120 per maand voor 20 kWh over circa tien jaar komt op €14.400, tegenover €7.290 bij aankoop met eigen geld. Dat is hun rekenvoorbeeld en hun aannames; met andere capaciteit en andere tarieven verschuift de uitkomst.'
+  a: 'Over de volle looptijd meestal wel, omdat het maandbedrag ook rente, service en risico afdekt. Zonneplan rekent op de eigen site een huurvoorbeeld voor: €120 per maand voor 20 kWh over circa tien jaar komt op €14.400 aan termijnen. De koopkant van dat voorbeeld kunnen wij niet meer narekenen: Zonneplan publiceert geen vaste prijslijst; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Vergelijk het maandbedrag dus met de koopprijs uit jouw eigen offerte.'
 - q: Wat gebeurt er met mijn leasecontract als ik verhuis?
   a: 'Dat staat niet standaard op de productpagina''s, en juist daarom moet je het navragen. Vraag drie dingen expliciet: kan het contract worden overgedragen aan de koper van je woning, kun je afkopen en wat kost verplaatsen naar je nieuwe woning. Zonder die antwoorden op papier weet je niet wat een verhuizing kost.'
 - q: Zit onderhoud en garantie bij de lease inbegrepen?
@@ -77,11 +77,11 @@ Wat er níet op de publieke pagina's staat: de looptijd, welk model onder dat in
 
 Zonneplan komt vaak voorbij in zoekresultaten op "thuisbatterij huren", maar op hun eigen huurpagina staat het omgekeerde: Zonneplan biedt geen optie voor het leasen van een thuisbatterij en richt zich alleen op de verkoop. Wat er wél staat, is een rekenvoorbeeld over huur in het algemeen en een advies: koop een thuisbatterij met eigen geld.
 
-Wij nemen dat rekenvoorbeeld hieronder over met bronvermelding, omdat het een van de weinige publieke doorrekeningen is. Het is wel een berekening van een partij die batterijen verkoopt; lees het met dat belang in het achterhoofd. Onze eigen beoordeling van hun aanbod staat in de [Zonneplan thuisbatterij review](/posts/zonneplan-thuisbatterij-review-2026/).
+Wij nemen de huurkant van dat rekenvoorbeeld hieronder over met bronvermelding, omdat het een van de weinige publieke doorrekeningen is. Het is wel een berekening van een partij die batterijen verkoopt; lees het met dat belang in het achterhoofd. En let op: de koopkant ervan is niet meer te controleren, want Zonneplan publiceert geen vaste prijslijst; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Onze eigen beoordeling van hun aanbod staat in de [Zonneplan thuisbatterij review](/posts/zonneplan-thuisbatterij-review-2026/).
 
 ## De rekenvoorbeelden, met de aannames erbij
 
-**Modelberekening 1 — het voorbeeld van Zonneplan (bron: zonneplan.nl, huurpagina, 20 augustus 2026).** Bij €120 per maand voor een systeem van 20 kWh en een contract van circa tien jaar kom je op €14.400 aan huurtermijnen, tegenover €7.290 bij aankoop met eigen geld. Aannames van Zonneplan: dit specifieke maandtarief, deze capaciteit, tien jaar looptijd, en een aankoopprijs na btw-teruggave. Verandert één van die aannames, dan verandert de uitkomst.
+**Modelberekening 1 — het voorbeeld van Zonneplan (bron: zonneplan.nl, huurpagina, 20 augustus 2026).** Bij €120 per maand voor een systeem van 20 kWh en een contract van circa tien jaar kom je op €14.400 aan huurtermijnen. Aannames van Zonneplan: dit specifieke maandtarief, deze capaciteit en tien jaar looptijd. De koopkant van hun vergelijking kunnen wij niet meer overnemen: Zonneplan publiceert geen vaste prijslijst; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Er is dus geen publiek koopbedrag om die €14.400 tegen af te zetten — dat getal moet uit je eigen voorstel komen. Wat je wél kunt vasthouden: €14.400 aan termijnen is de bovengrens waaronder een koopofferte moet blijven om financieel te winnen.
 
 **Modelberekening 2 — Otovo's instaptarief, door ons doorgerekend.** €80 per maand maal 120 maanden is €9.600 aan termijnen over tien jaar. Aannames: het maandbedrag blijft gelijk, er komen geen eenmalige kosten bij, en er wordt niet tussentijds afgekocht. Wat wij níet weten en dus niet in de som stoppen: welke capaciteit bij dat instaptarief hoort. Zonder capaciteit is een prijs per kWh niet te berekenen — precies het cijfer waarop je zou willen vergelijken.
 
@@ -101,7 +101,7 @@ De les uit beide berekeningen is dezelfde: een maandbedrag zonder capaciteit en 
 
 ## Onze inschatting
 
-Bij de bedragen die de aanbieders zelf publiceren, is huren over tien jaar vrijwel altijd duurder dan kopen. Dat is geen verwijt: je koopt service, garantie en risico-overdracht in, en dat kost geld.
+Zet je de huurtermijnen naast de koopprijzen die wél publiek zijn — Sessy op €5.500 voor 10 kWh en €9.400 voor 15 kWh, HalloStroom op €2.349 voor een 10 kWh-basisunit — dan is huren over tien jaar vrijwel altijd duurder dan kopen: Otovo's instaptarief komt in tien jaar al op €9.600 aan termijnen. Zonneplan valt buiten die vergelijking, omdat daar geen publiek koopbedrag meer tegenover staat. Dat huren duurder uitpakt, is geen verwijt: je koopt service, garantie en risico-overdracht in, en dat kost geld.
 
 Huren of leasen is naar onze inschatting te verdedigen in drie situaties: je hebt het kapitaal niet en wil geen lening, je wil bewust geen technisch risico dragen, of je wil eerst ervaring opdoen voordat je groter aanschaft. In alle andere gevallen is aankopen — eventueel met een lening waarvan de rente lager is dan de opslag in het maandbedrag — rekenkundig de betere route.
 

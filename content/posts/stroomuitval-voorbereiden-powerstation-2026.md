@@ -54,7 +54,7 @@ products:
   price: '599'
 schema_type: Article
 ---
-Een stroomstoring van een paar uur betekent voor de meeste huishoudens: geen internet, een lege telefoon en een vriezer die begint te ontdooien. Een powerstation vangt dat op. Hieronder staat doorgerekend hoeveel Wh je nodig hebt voor de basisapparaten (router, koelkast, verlichting, telefoon = circa 250 W continu), wat de UPS-functie wel en niet doet, en welke modellen daar in Nederland bij passen. De prijzen die wij noemen komen van de Nederlandse webshops van EcoFlow en Jackery, opgehaald op 21 augustus 2026; wij hebben deze toestellen niet zelf getest.
+Een stroomstoring van een paar uur betekent voor de meeste huishoudens: geen internet, een lege telefoon en een vriezer die begint te ontdooien. Een powerstation vangt dat op. Hieronder staat doorgerekend hoeveel Wh je nodig hebt voor de basisapparaten (router, koelkast, verlichting, telefoon = circa 250 W continu), wat de UPS-functie wel en niet doet, en welke modellen daar in Nederland bij passen. De prijzen die wij noemen komen van de webshops van EcoFlow, Jackery, Bluetti en Anker, opgehaald op 21 augustus 2026; wij hebben deze toestellen niet zelf getest.
 
 *Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.*
 
@@ -182,7 +182,7 @@ Niet alle powerstations bieden een UPS-functie. En de omschakeltijd verschilt pe
 
 ## Aanbevolen powerstations per budget
 
-De selectie hieronder is gemaakt op de fabrieksspecificaties en de rekensom hierboven. Waar wij een prijs noemen, staat erbij waar en wanneer wij die hebben opgehaald; waar wij dat niet konden, noemen wij geen bedrag.
+De selectie hieronder is gemaakt op de fabrieksspecificaties en de rekensom hierboven. Bij elke prijs staat waar en wanneer wij die hebben opgehaald; actieprijzen wisselen per periode, dus controleer het bedrag op het moment van kopen.
 
 ### Basisscenario -- Bluetti AC70
 
@@ -194,9 +194,9 @@ Voor het basispakket (router, verlichting, telefoons) is de **Bluetti AC70** het
 | Continu vermogen | 1.000 W |
 | UPS-functie | Nee |
 | Gewicht | 10,2 kg |
-| Prijs | staat op de webshop van Bluetti; die pagina konden wij op 21 augustus 2026 niet uitlezen, dus wij noemen geen bedrag |
+| Prijs (21-8-2026) | € 549 (van € 978) — bluettipower.eu, gecontroleerd 21-8-2026 |
 
-De AC70 dekt **scenario 1**: met 768 Wh hou je router, licht en telefoons ruim een werkdag draaiende. Het belangrijkste voorbehoud is het ontbreken van een UPS-functie: je moet het station bij een storing zelf aanzetten en je apparaten omsteken. Voor een router of NAS die niet mag herstarten is dat een reëel nadeel — kijk dan naar de middenklasse hieronder.
+De AC70 dekt **scenario 1**: met 768 Wh hou je router, licht en telefoons ruim een werkdag draaiende. Op prijs is dat € 549 / 768 Wh ≈ € 0,71 per Wh; het scenario zelf vraagt maar 375 Wh, dus je koopt hier vooral marge en niet de laagste prijs per Wh. Het belangrijkste voorbehoud is het ontbreken van een UPS-functie: je moet het station bij een storing zelf aanzetten en je apparaten omsteken. Voor een router of NAS die niet mag herstarten is dat een reëel nadeel — kijk dan naar de middenklasse hieronder.
 
 <a href="https://go.duurzaamthuislab.nl/bluetti-eu?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Bluetti AC70 →</a>
 
@@ -219,7 +219,7 @@ Dit station dekt **scenario 2**: koelkast, verlichting, router en laptop samen o
 
 ### Comfortabel scenario, alternatief -- Anker SOLIX C1000
 
-De **Anker SOLIX C1000** zit met 1.056 Wh en 1.800 W in exact dezelfde klasse, laadt volgens Anker sneller (0-80% in circa 43 minuten) en weegt 12,9 kg. Het verschil zit in de zonne-input: 300 W tegen 500 W bij de Delta 2, wat uitmaakt als je tijdens een lange storing met een paneel wilt bijladen. De prijs staat op de webshop van Anker; die pagina konden wij op 21 augustus 2026 niet uitlezen, dus wij noemen geen bedrag. De volledige doorrekening staat in onze [Anker SOLIX C1000 review](/posts/anker-solix-c1000-review-2026/).
+De **Anker SOLIX C1000** zit met 1.056 Wh en 1.800 W in exact dezelfde klasse, laadt volgens Anker sneller (0-80% in circa 43 minuten) en weegt 12,9 kg. Het verschil zit in de zonne-input: 300 W tegen 500 W bij de Delta 2, wat uitmaakt als je tijdens een lange storing met een paneel wilt bijladen. Op prijs is dit niet de voordelige route: de C1000 stond op **€ 999** (ankersolix.com/nl, gecontroleerd 21-8-2026), oftewel € 400 meer dan de € 599 van de Delta 2 voor 32 Wh meer capaciteit — € 0,95 per Wh tegen € 0,58 per Wh bij de Delta 2. Je betaalt dus voor het snellere laden, niet voor de capaciteit. De volledige doorrekening staat in onze [Anker SOLIX C1000 review](/posts/anker-solix-c1000-review-2026/).
 
 <a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/stroomuitval-voorbereiden-powerstation-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker SOLIX C1000 →</a>
 
@@ -261,9 +261,10 @@ Let op de modelnaam: de bekendere Explorer 2000 Plus (3.000 W continu, uitbreidb
 | **Scenario** | Basis | Comfortabel | Comfortabel | Volledig | Volledig |
 | **Geschatte draaitijd*** | circa 3,5 uur | circa 4,5 uur | circa 4,5 uur | circa 9 uur | circa 9 uur |
 | **Uitbreidbaar** | Nee | Met één extra accu | Ja | Ja | Geen uitbreidingsaccu op de NL-productpagina |
-| **Prijs (NL, 21-8-2026)** | niet geverifieerd | niet geverifieerd | €599 | €949 (van €1.199) | €899 (van €1.599) |
+| **Prijs (NL, 21-8-2026)** | €549 (van €978) | €999 | €599 | €949 (van €1.199) | €899 (van €1.599) |
+| **Prijs per Wh (berekend)** | €0,71 | €0,95 | €0,58 | €0,46 | €0,44 |
 
-*Draaitijd berekend op scenario 2 (router + verlichting + laptop + koelkast, circa 195 W gemiddeld) met 90 procent bruikbare capaciteit door omvormerverlies. Het is een modelberekening, geen meting. De AC70 haalt dat scenario dus niet acht uur vol: met 768 Wh kom je op circa 3,5 uur, en daarom staat dat toestel bij scenario 1 en niet bij scenario 2.*
+*Prijzen: bluettipower.eu (AC70), ankersolix.com/nl (SOLIX C1000), nl.ecoflow.com en nl.jackery.com, alle gecontroleerd op 21 augustus 2026. Prijs per Wh = prijs gedeeld door de capaciteit, afgerond op centen; die verhouding valt gunstiger uit bij de grote stations. Draaitijd berekend op scenario 2 (router + verlichting + laptop + koelkast, circa 195 W gemiddeld) met 90 procent bruikbare capaciteit door omvormerverlies. Het is een modelberekening, geen meting. De AC70 haalt dat scenario dus niet acht uur vol: met 768 Wh kom je op circa 3,5 uur, en daarom staat dat toestel bij scenario 1 en niet bij scenario 2.*
 
 ---
 
@@ -347,8 +348,8 @@ Stroomuitval komt niet vaak voor in Nederland, maar als het gebeurt, bepaalt de 
 
 Onze aanbevelingen in het kort, met de prijzen van 21 augustus 2026:
 
-- **Basis (scenario 1)**: Bluetti AC70 met 768 Wh -- verlichting, communicatie en telefoons. Geen UPS-functie; prijs staat op de webshop van Bluetti.
-- **Comfortabel (scenario 2)**: [EcoFlow Delta 2](/posts/ecoflow-delta-2-review-2026/) voor €599, of de [Anker SOLIX C1000](/posts/anker-solix-c1000-review-2026/) als alternatief -- inclusief koelkast en laptop, met UPS-functie.
+- **Basis (scenario 1)**: Bluetti AC70 met 768 Wh voor €549 (van €978) -- verlichting, communicatie en telefoons. Geen UPS-functie.
+- **Comfortabel (scenario 2)**: [EcoFlow Delta 2](/posts/ecoflow-delta-2-review-2026/) voor €599, of de [Anker SOLIX C1000](/posts/anker-solix-c1000-review-2026/) voor €999 als alternatief -- inclusief koelkast en laptop, met UPS-functie. Op prijs per Wh is de Delta 2 hier de gunstigste van de twee (€0,58 tegen €0,95).
 - **Volledig (scenario 3)**: [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) voor €949, of de Jackery Explorer 2000 v2 voor €899 -- de essentiële apparaten van een huishouden een halve dag of langer.
 
 Investeer daarnaast in een opvouwbaar zonnepaneel voor onbeperkte autonomie bij langdurige storingen. Bekijk ons overzicht van de [beste zonnepaneel-powerstation combinaties](/posts/beste-zonnepaneel-powerstation-combinatie-2026/) voor de ideale pakketten.

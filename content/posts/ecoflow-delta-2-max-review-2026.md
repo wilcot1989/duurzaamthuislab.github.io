@@ -239,7 +239,7 @@ Een belangrijk punt voor campinggebruik is het geluid. De Delta 2 Max heeft inge
 
 Hoe verhoudt de Delta 2 Max zich tot andere populaire powerstations in dezelfde klasse?
 
-| Eigenschap | EcoFlow Delta 2 Max | Jackery Explorer 2000 v2 | Bluetti AC200MAX |
+| Eigenschap | EcoFlow Delta 2 Max | Jackery Explorer 2000 v2 | Bluetti AC200MAX (uit het EU-assortiment) |
 |---|---|---|---|
 | **Capaciteit** | 2.048 Wh | 2.042 Wh | 2.048 Wh |
 | **Continu vermogen** | 2.400 W | 2.200 W nominaal | 2.200 W |
@@ -248,9 +248,11 @@ Hoe verhoudt de Delta 2 Max zich tot andere populaire powerstations in dezelfde 
 | **Zonne-input max** | 500 W per poort, 1.000 W dubbel | geen maximum op de NL-productpagina | 900 W (opgave Bluetti) |
 | **Uitbreidbaar** | Ja (extra accu, tot circa 4 kWh) | geen uitbreidingsaccu op de NL-productpagina | Ja (2x B230, opgave Bluetti) |
 | **Cycli** | 3.000 tot 80% | 4.000 | 3.500 tot 80% (opgave Bluetti) |
-| **Prijs (NL, 21-8-2026)** | €949 (van €1.199) | €899 (van €1.599) | niet door ons geverifieerd |
+| **Prijs (NL, 21-8-2026)** | €949 (van €1.199) | €899 (van €1.599) | niet meer leverbaar in de Bluetti EU-shop (gecontroleerd 21-8-2026) |
 
-De Delta 2 Max wint op **continu vermogen**, **laadsnelheid** en **zonne-input**. De [Jackery Explorer 2000 v2](/posts/jackery-explorer-2000-v2-vs-plus-2026/) wint op **gewicht** (10 kg minder dan de Bluetti, 5,5 kg minder dan de EcoFlow) en op **cyclusopgave**. Voor de Bluetti AC200MAX konden wij op 21 augustus 2026 geen prijs verifiëren; die vergelijking moet je zelf op het moment van aankoop maken.
+De Delta 2 Max wint op **continu vermogen**, **laadsnelheid** en **zonne-input**. De [Jackery Explorer 2000 v2](/posts/jackery-explorer-2000-v2-vs-plus-2026/) wint op **gewicht** (10 kg minder dan de Bluetti, 5,5 kg minder dan de EcoFlow) en op **cyclusopgave**.
+
+**De Bluetti-kolom is historisch.** De AC200MAX staat op 21 augustus 2026 niet meer als compleet station in de Bluetti EU-shop (alleen nog accessoires); de specificaties in de tabel blijven staan omdat het model tweedehands en in vergelijkingen nog opduikt. De opvolger is de AC200PL (2.304 Wh / 2.400 W) voor €1.499 (bluettipower.eu, gecontroleerd 21-8-2026). Dat is €550 meer dan de Delta 2 Max, bij circa 12 procent meer capaciteit: €0,65 per Wh tegen €0,46 per Wh voor de EcoFlow.
 
 **Let op de Jackery-modelnaam.** In veel vergelijkingen staat op deze plek de Explorer 2000 Plus met 3.000 W continu en uitbreiding tot 12 kWh. Dat model stond op 21 augustus 2026 niet in het Nederlandse assortiment op nl.jackery.com. Heb je meer dan 2.400 W continu nodig, dan is dat de reden om de Plus internationaal op te sporen — met de garantievraag die daarbij hoort. Benieuwd naar de bredere merkvergelijking? Lees [EcoFlow vs Jackery](/posts/ecoflow-vs-jackery-2026/).
 
@@ -396,7 +398,7 @@ De EcoFlow Delta 2 Max is uitbreidbaar met de Delta 2 Max Extra Battery (2.048 W
 
 De extra batterij sluit eenvoudig aan via de speciale poort aan de zijkant — geen gereedschap nodig. Het systeem laadt beide batterijen gelijktijdig via dezelfde AC-ingang.
 
-**Alternatieven.** Wie richting 4 kWh wil, kan ook naar de Bluetti AC200MAX met een B230-module kijken (4.096 Wh totaal volgens Bluetti). De uitbreidbare Jackery Explorer 2000 Plus is in dit rijtje niet meer de vanzelfsprekende optie: dat model stond op 21 augustus 2026 niet in het Nederlandse assortiment. Het voordeel van de EcoFlow-route is dat station en accu via dezelfde poort en dezelfde app werken.
+**Alternatieven.** De Bluetti-route naar 4 kWh liep tot voor kort via de AC200MAX met een B230-module (4.096 Wh totaal volgens Bluetti), maar de AC200MAX is niet meer leverbaar in de Bluetti EU-shop (gecontroleerd 21-8-2026). Wie nu bij Bluetti in deze klasse kijkt, komt uit bij de AC200PL (2.304 Wh / 2.400 W) voor €1.499 of bij het zwaardere AC500-platform met een B300K-accu (€1.200 voor de combinatie, van €3.999; een extra B300K kost €1.399 los) — bron bluettipower.eu, gecontroleerd 21-8-2026. De uitbreidbare Jackery Explorer 2000 Plus is in dit rijtje niet meer de vanzelfsprekende optie: dat model stond op 21 augustus 2026 niet in het Nederlandse assortiment. Het voordeel van de EcoFlow-route is dat station en accu via dezelfde poort en dezelfde app werken.
 
 ## Prijs en waar te koop
 

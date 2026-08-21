@@ -111,7 +111,9 @@ Sessy rekent daarnaast €1.200 voor een noodstroom-basisinstallatie; laad- en o
 
 Voor Marstek geldt dat de fabrikant maar één consumentenprijs publiceert (de Jupiter C Plus voor €599); voor de Venus- en E-lijn publiceert Marstek geen consumentenprijs, en de Nederlandse webshop staat op "coming soon". Wij nemen daarom geen Marstek-prijzen in dit model op. Datzelfde geldt voor Huawei, BYD en SolarEdge: die publiceren geen consumentenprijzen, alleen installateurs doen dat in een offerte.
 
-Een tweede plug-in aanbieder met een Nederlandse winkel is Anker Solix. Op ankersolix.com/nl staat de Solarbank Max AC met 7 kWh en 3.500 W, uitbreidbaar tot 42 kWh (opgehaald 21-8-2026). Een vaste consumentenprijs publiceert Anker daar niet op de overzichtspagina — die staat per configuratie op de productpagina en wisselt met acties. Vul dus het bedrag in dat je op het bestelmoment ziet, en niet een actieprijs die inmiddels verlopen is.
+Een tweede plug-in aanbieder met een Nederlandse winkel is Anker Solix. Op ankersolix.com/nl staat de Solarbank Max AC met 7 kWh en 3.500 W, uitbreidbaar tot 42 kWh (opgehaald 21-8-2026). Anker publiceert voor een deel van die lijn wél prijzen, gecontroleerd op 21-8-2026: de Solarbank 2 E1600 AC staat op €1.099 (met 1× BP2700-batterijmodule €2.199, met 2× €3.299, met 3× €4.399) en de Solarbank 3 E2700 Pro op €1.599 (met 1× BP2700 €2.699). Voor de Solarbank Max AC troffen wij op de overzichtspagina geen vaste prijs aan; die staat per configuratie op de productpagina en wisselt met acties.
+
+Deze bedragen nemen wij niet als rij in de tabel hierboven op, omdat Anker de bruikbare capaciteit per configuratie niet op de overzichtspagina zet — en zonder kWh is er geen prijs per kWh en dus geen ROI te rekenen. Zoek dus op de productpagina van jouw configuratie de capaciteit in kWh op, deel de prijs erdoor en zet die twee getallen in het model hierboven. Vul daarbij het bedrag in dat je op het bestelmoment ziet, en niet een actieprijs die inmiddels verlopen is.
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="sponsored nofollow noopener" target="_blank">Bekijk de actuele EcoFlow-prijzen</a>
 

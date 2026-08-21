@@ -94,9 +94,9 @@ Op de opbrengstpagina van Zonneplan staan gemiddelden over zes maanden:
 
 Zonneplan zet er zelf bij dat dit "indicatieve voorbeelden, geen garanties" zijn en dat opbrengst en terugverdientijd verschillen per woning, verbruik, energieprijzen en beleid. Wij nemen die cijfers over zoals ze er staan, en niet als een verwachting voor jouw situatie.
 
-De prijzen die Zonneplan noemt lopen van €4.690 voor 10 kWh tot €9.090 voor 35 kWh, na btw-teruggave (zonneplan.nl, opgehaald 20 augustus 2026).
+Wat de batterij kost, staat er niet bij: Zonneplan publiceert geen vaste prijslijst; je krijgt een persoonlijk voorstel (zonneplan.nl, gecontroleerd 21-8-2026). Een terugverdientijd in jaren kunnen wij hier dus niet uitrekenen — daarvoor moet je je eigen offertebedrag invullen.
 
-**Modelberekening met expliciete aannames.** Neem de 10 kWh-variant: €4.690 investering. Zes maanden opbrengst van €300 extrapoleren naar een heel jaar zou €600 opleveren — maar dat is precies de rekenfout waar CE Delft op wijst, want die zes maanden hoeven niet representatief te zijn voor de andere zes. Reken je desondanks met €600 per jaar en een vlakke markt, dan komt de simpele terugverdientijd uit op ongeveer 7,8 jaar. Halveert de handelsopbrengst door marktverzadiging tot €300 per jaar, dan wordt het ruim 15 jaar. Dat verschil tussen 8 en 15 jaar zit volledig in één aanname die niemand hard kan maken. Wie zelf wil rekenen met eigen aannames in plaats van met een aanbiedersscenario, kan onze [terugverdientijd-calculator voor thuisbatterijen](/terugverdientijd-thuisbatterij/) gebruiken.
+**Wat je wél kunt vaststellen zonder prijs.** Zes maanden opbrengst van €300 extrapoleren naar een heel jaar zou €600 opleveren — maar dat is precies de rekenfout waar CE Delft op wijst, want die zes maanden hoeven niet representatief te zijn voor de andere zes. Halveert de handelsopbrengst door marktverzadiging tot €300 per jaar, dan verdubbelt de terugverdientijd, welk aanschafbedrag er ook in je voorstel staat. Die factor twee zit volledig in één aanname die niemand hard kan maken — en dat is het risico dat je overneemt. Vul je eigen offertebedrag en je eigen aannames in bij onze [terugverdientijd-calculator voor thuisbatterijen](/terugverdientijd-thuisbatterij/) in plaats van te rekenen met een aanbiedersscenario.
 
 ## De voorwaarde die de rest bepaalt
 

@@ -25,7 +25,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1581094288338-2314dddb7ece&w=1200&output=webp&q=70
 faq:
 - q: Wat is goedkoper, Marstek Venus of Anker Solix?
-  a: 'Dat is op basis van de fabrikantensites niet te zeggen. Marstek publiceert op de eigen EU-productpagina''s geen consumentenprijs voor de Venus-modellen; het enige model met een prijs is de Jupiter C Plus (€599). Anker werkt met wisselende actieprijzen per bundel en had op de Nederlandse overzichtspagina op 21 augustus 2026 geen vaste prijs staan. Vergelijk daarom twee concrete aanbiedingen op prijs per kWh, inclusief installatie.'
+  a: 'Dat is op basis van de fabrikantensites niet te zeggen. Marstek publiceert op de eigen EU-productpagina''s geen consumentenprijs voor de Venus-modellen; het enige model met een prijs is de Jupiter C Plus (€599). Anker publiceert voor een deel van de Solarbank-lijn wél prijzen: de Solarbank 2 E1600 AC staat op €1.099 en de Solarbank 3 E2700 Pro op €1.599 (ankersolix.com/nl, gecontroleerd 21-8-2026); met één BP2700-uitbreidingsbatterij erbij is dat €2.199 respectievelijk €2.699. Voor de Solarbank Max AC troffen wij op die datum geen prijs aan. Vergelijk daarom twee concrete aanbiedingen op prijs per kWh, inclusief installatie.'
 - q: Welke werkt beter met een dynamisch contract?
   a: 'Marstek noemt bij de Venus E 4.0 en E MAX een AI-modus met VPP-energiehandel; welke Nederlandse partij dat aanbiedt en hoe de opbrengst verdeeld wordt, staat niet op de productpagina''s. Anker beschrijft sturing op eigen zonoverschot en verbruik via de eigen app. Bij beide merken geldt: vraag vóór aankoop op of sturing op uurprijzen zonder tussenlaag werkt en met welke leveranciers, want dit verandert per firmwareversie.'
 - q: Zijn beide stekkerklaar of heb ik een installateur nodig?
@@ -59,7 +59,7 @@ Hieronder vergelijken we ze op de punten die de keuze bepalen: capaciteit en ver
 
 > **Kort antwoord:** de keuze gaat niet over celkwaliteit maar over vermogen, sturing en navolgbaarheid.
 >
-> Beide merken gebruiken LFP-cellen en AC-koppeling. Marstek biedt binnen één serie het brede bereik van 2 tot 10 kWh met opvallend veel vermogen per model. Anker heeft de volwassener app en een Europese serviceorganisatie, maar wisselende actieprijzen. Geen van beide publiceert een vaste consumentenprijs voor het model dat je waarschijnlijk wilt.
+> Beide merken gebruiken LFP-cellen en AC-koppeling. Marstek biedt binnen één serie het brede bereik van 2 tot 10 kWh met opvallend veel vermogen per model. Anker heeft de volwassener app en een Europese serviceorganisatie, en publiceert voor een deel van de Solarbank-lijn wel prijzen (Solarbank 2 E1600 AC €1.099, Solarbank 3 E2700 Pro €1.599 — ankersolix.com/nl, gecontroleerd 21-8-2026). Marstek publiceert voor de Venus-lijn geen consumentenprijs.
 
 ## Wie zijn Marstek en Anker?
 
@@ -84,17 +84,17 @@ Beide gebruiken LFP-cellen (lithium-ijzerfosfaat). Die chemie is thermisch stabi
 | Groot model | Venus E MAX: 10 kWh / 3,6 kW, omschakeling <10 ms | Solarbank Max AC: 7 kWh / 3.500 W continu |
 | Uitbreiding | SmartBox: tot 9 kW / 15 kWh (4.0), tot 10,8 kW / 30 kWh (MAX) | parallelschakeling tot circa 3.600 W; X1 voor grotere systemen |
 | Celchemie | LFP | LFP |
-| Prijs op vendorpagina | niet vermeld (alleen Jupiter C Plus: €599) | geen vaste prijs; wisselende actiebundels |
+| Prijs op vendorpagina | niet vermeld (alleen Jupiter C Plus: €599) | Solarbank 2 E1600 AC €1.099, Solarbank 3 E2700 Pro €1.599 (met 1× BP2700: €2.199 resp. €2.699); voor de Solarbank Max AC geen prijs aangetroffen |
 
 Bron: eu.marstekenergy.com (20 augustus 2026) en ankersolix.com/nl (21 augustus 2026). "Niet vermeld" betekent dat het getal op de publieke pagina ontbreekt, niet dat het product de eigenschap mist.
 
 Twee opmerkingen bij deze tabel. Ten eerste: Anker herziet het assortiment snel — waar eerder de Solarbank 2 Pro het referentiemodel was, staat er nu een Solarbank Max AC en een Solarbank 4 Pro. Controleer dus altijd het exacte modelnummer in de aanbieding, ook bij dit merk. Ten tweede: bij Marstek circuleren in webshops nog oudere generaties onder namen als "Venus A 5,12 kWh" en "Venus E 8,2 kWh". Dat zijn andere producten met andere specificaties; de uitsplitsing staat in [welke Marstek Venus E-versie kopen](/posts/marstek-venus-e-versies-vergelijking-2026/).
 
-## De prijsvraag: waarom hier geen bedragen staan
+## De prijsvraag: wat wel en niet gepubliceerd is
 
-Dit is de belangrijkste beperking van deze vergelijking, en het is er een die je bij bijna geen andere vergelijking leest: **geen van beide fabrikanten publiceert een vaste consumentenprijs voor de modellen die je hier tegen elkaar afweegt.**
+Dit is de belangrijkste beperking van deze vergelijking, en het is er een die je bij bijna geen andere vergelijking leest: **de bedragen die je nodig hebt om de twee merken op prijs per kWh te vergelijken, staan maar aan één kant op tafel.**
 
-Marstek publiceert op de EU-productpagina's van de Venus-lijn geen prijs. Anker werkt met actiebundels; op de Nederlandse overzichtspagina stond op 21 augustus 2026 wel een kortingspercentage, maar geen vaste prijs per model.
+Marstek publiceert op de EU-productpagina's van de Venus-lijn geen prijs. Anker wel voor een deel van de Solarbank-lijn: de Solarbank 2 E1600 AC staat op €1.099 (met 1× BP2700 €2.199, met 2× €3.299, met 3× €4.399) en de Solarbank 3 E2700 Pro op €1.599 (met 1× BP2700 €2.699), alle bedragen van ankersolix.com/nl, gecontroleerd 21-8-2026. Voor de Solarbank Max AC uit de tabel hierboven troffen wij op die datum geen prijs aan; die prijzen wisselen per actiebundel.
 
 Dat betekent niet dat je niet kunt vergelijken — het betekent dat je je eigen twee aanbiedingen moet vergelijken. Vraag bij beide om vier getallen:
 
@@ -175,7 +175,7 @@ Wat níet verandert: de ISDE dekt geen thuisbatterijen. Voor beide merken geldt 
 
 **Passend als:** je een afgewerkte, Nederlandstalige app en een Europese serviceorganisatie belangrijker vindt dan de laagste prijs per kWh; je al Anker-hardware gebruikt en het ecosysteem wilt aanhouden; of je een AC-gekoppeld systeem van circa 7 kWh met 3.500 W wilt dat je zonder omvormerwissel achter je bestaande installatie hangt.
 
-**Minder passend als:** je een vaste, controleerbare prijs wilt in plaats van een actiebundel; of je in één systeem naar 15 kWh of meer wilt doorgroeien — controleer dan eerst het maximum van het model dat je op het oog hebt.
+**Minder passend als:** je juist de Solarbank Max AC op het oog hebt en een gepubliceerde prijs wilt kunnen nalezen — die troffen wij op 21 augustus 2026 niet aan, terwijl de Solarbank 2 E1600 AC (€1.099) en de Solarbank 3 E2700 Pro (€1.599) die wel hebben; of je in één systeem naar 15 kWh of meer wilt doorgroeien — controleer dan eerst het maximum van het model dat je op het oog hebt.
 
 ## Veelgemaakte fouten in deze keuze
 

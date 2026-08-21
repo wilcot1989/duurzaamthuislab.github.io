@@ -410,7 +410,7 @@ De **Luna 2000** is een degelijke, modulair uitbreidbare DC-batterij, maar met �
 
 De **terugverdientijd** is het grootste aandachtspunt. In onze modelberekeningen — met een investering-aanname van €7.000 en de tarieven uit de tabel hierboven — komt die uit op circa 23 jaar zonder prijsarbitrage, 14 tot 18 jaar met een dynamisch contract, en 11 tot 13 jaar als de inkoopprijs naar €0,35/kWh zou stijgen. In alle varianten is dat langer dan de tien jaar fabrieksgarantie. Dat maakt een thuisbatterij niet zinloos, maar wel iets anders dan een snelle investering.
 
-Zoek je geen vaste installatie maar een flexibele, verplaatsbare oplossing? Bekijk dan onze [Bluetti AC200MAX review](/posts/bluetti-ac200max-review-2026/) of het overzicht van de [beste draagbare powerstations](/posts/beste-draagbare-powerstation-2026/).
+Zoek je geen vaste installatie maar een flexibele, verplaatsbare oplossing? Begin dan bij het overzicht van de [beste draagbare powerstations](/posts/beste-draagbare-powerstation-2026/). Let op: de veelgenoemde [Bluetti AC200MAX](/posts/bluetti-ac200max-review-2026/) is niet meer leverbaar in de Bluetti EU-shop (gecontroleerd 21-8-2026); de opvolger is de AC200PL (2.304 Wh / 2.400 W) voor €1.499.
 
 <a href="https://go.duurzaamthuislab.nl/huawei-luna" class="cta" rel="nofollow noopener" target="_blank">Bekijk de Huawei Luna 2000</a>
 
