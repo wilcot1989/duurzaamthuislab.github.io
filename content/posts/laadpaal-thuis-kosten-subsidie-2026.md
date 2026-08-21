@@ -22,11 +22,11 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1466611653911-95081537e5b7&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel kost een laadpaal thuis?
-  a: Een thuislaadpaal kost €800-€2.500 inclusief installatie. De laadpaal zelf kost €500-€1.500 en de installatie €300-€1.000 (afhankelijk van afstand meterkast tot laadpunt en grondwerk). Landelijke subsidie is er niet, dus dat bedrag betaal je in principe zelf.
+  a: 'Milieu Centraal houdt als richtprijs circa €1.300 tot €2.200 aan om thuis een laadpaal of wandlader te laten plaatsen, inclusief installatie en eventuele aanpassingen in de meterkast. Eigen bedragen per merk noemen wij niet: Easee, Wallbox en Alfen publiceren geen consumentenprijs, dus vraag twee of drie all-in offertes op. Moet de aansluiting van 1-fase naar 3-fase verzwaard worden, reken dan met een indicatie van €1.500 tot €3.500 extra (gelabelde aanname; het aansluittarief staat in het tarievenblad van jouw netbeheerder). Landelijke subsidie is er niet, dus dat bedrag betaal je zelf.'
 - q: Welke subsidie is er voor een thuislaadpaal?
   a: Er is in 2026 geen landelijke subsidie voor een particuliere thuislaadpaal. De ISDE dekt laadpalen niet, en de oude SEEH (gesloten per eind 2022) ging over isolatie, niet over laadpalen. Wel mogelijk is een regeling van je eigen gemeente — die bestaat in sommige gemeenten wel en in de meeste niet, met per gemeente eigen voorwaarden. Een werkgever mag een thuislaadpaal via de werkkostenregeling vergoeden; overleg dat met je werkgever. Bij zakelijk gebruik kan de investering fiscaal aftrekbaar zijn.
 - q: Welke laadpaal is het beste voor thuis?
-  a: 'Easee is de beste alleskunner — voor thuis voert het merk op easee.com/nl de Up en de Max (de Easee Home en Charge Lite uit oudere lijstjes staan daar niet meer in): compact, slim laden, dynamische tarieven en zonnepaneel-integratie. De Alfen Eve Single S-Line is de beste Nederlandse keuze met uitstekende kwaliteit. De Wallbox Pulsar Plus is het beste budget-alternatief. Alle drie laden met 11 kW (3-fase) of 7,4 kW (1-fase).'
+  a: 'Wij hebben deze laadpalen niet zelf geïnstalleerd of doorgemeten en geven daarom geen rangorde. Wat de fabrikanten publiceren: Easee voert voor thuis op easee.com/nl de Up en de Max (de Easee Home en Charge Lite uit oudere lijstjes staan daar niet meer in), Alfen voert de Eve Single met een MID-meter op de Pro-uitvoering, en Wallbox de Pulsar-lijn. Alle drie laden tot 7,4 kW op 1-fase en tot 22 kW op 3-fase. Kies op de punten die in jouw situatie meetbaar verschillen: MID-meter als je zakelijk moet declareren, load balancing, en of jouw dynamische leverancier het model ondersteunt.'
 - q: Is 3-fase stroom nodig voor een laadpaal?
   a: Niet per se. Met 1-fase laad je op 7,4 kW (ca. 40 km range per uur). Met 3-fase laad je op 11 kW (ca. 60 km range per uur). Voor de meeste thuisgebruikers is 1-fase voldoende (je laadt 's nachts). 3-fase is fijn als je snel moet laden of een hoog dagelijks verbruik hebt.
 - q: Kun je een laadpaal koppelen aan zonnepanelen?
@@ -35,7 +35,7 @@ faq:
   a: 'Bij 15.000 km per jaar en 18 kWh per 100 km verbruikt een elektrische auto ongeveer 2.700 kWh per jaar. Bij een all-in stroomprijs van €0,26/kWh is dat €702; laad je vooral ''s nachts op een dynamisch tarief, dan rekenen wij met €0,220/kWh (aanname) en kom je op €594. Laad je op eigen zonnestroom, dan is de vergelijking anders: elke kWh die naar de auto gaat in plaats van naar het net is in ons model €0,19 waard.'
 schema_type: Article
 ---
-Het verschil tussen laden op je eigen zonneoverschot en laden bij een snellader is een factor tien of meer per kWh. Dat maakt een thuislaadpaal voor wie dagelijks rijdt vrijwel altijd de snelst rendabele verduurzamingsinvestering die je kunt doen. In dit artikel staat alles op een rij: kosten, subsidie, de beste merken en hoe je slim laadt op dynamische tarieven.
+Laden bij een publieke lader kost per kWh een veelvoud van laden op je eigen zonneoverschot. Dat maakt een thuislaadpaal voor wie dagelijks rijdt een van de snellere verduurzamingsinvesteringen — hoe snel, hangt volledig af van waar je nu laadt. In dit artikel staat alles op een rij: kosten, subsidie, de beste merken en hoe je slim laadt op dynamische tarieven.
 
 *Disclosure: voor de link naar Tibber in dit artikel ontvangen wij geen vergoeding — met Tibber hebben wij geen affiliate- of commissierelatie. De link naar HomeWizard is wél een partnerlink: koop je daar iets, dan ontvangen wij een commissie, zonder extra kosten voor jou.*
 
@@ -44,7 +44,7 @@ Heb je een dynamisch energiecontract? Slim laden bespaart extra. Lees onze [verg
 
 💡 *Wat het stoppen van de saldering voor jouw situatie betekent, staat in de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — vijf strategieën, met de rekenmodellen erbij.*
 
-> **Kort antwoord:** Reken op €800 tot €2.500 inclusief installatie: de laadpaal zelf €500-€1.500 en de installatie €300-€1.000, afhankelijk van de afstand van meterkast tot laadpunt en of er gegraven moet worden. Moet je van 1-fase naar 3-fase, dan komt daar nog een post bij.
+> **Kort antwoord:** reken op de richtprijs die Milieu Centraal aanhoudt: **€1.300 tot €2.200 all-in** voor een thuislaadpunt inclusief installatie en meterkastwerk. Bedragen per merk staan hier niet: Easee, Wallbox en Alfen publiceren geen consumentenprijs, dus vergelijk offertes en geen lijstprijzen. Moet je van 1-fase naar 3-fase, reken dan met €1.500 tot €3.500 extra (indicatie).
 >
 > Op een landelijke subsidie hoef je niet te rekenen: **die bestaat niet voor particuliere laadpalen.** De ISDE dekt ze niet. Wat de investering terugverdient, is het verschil tussen thuis laden en publiek laden — en dat verschil maak je groter door 's nachts op een dynamisch tarief te laden of op je eigen zonnestroom.
 
@@ -52,70 +52,73 @@ Heb je een dynamisch energiecontract? Slim laden bespaart extra. Lees onze [verg
 
 | Component | Kosten | Toelichting |
 |-----------|--------|-------------|
-| **Laadpaal** | €500-€1.500 | Afhankelijk van merk en functies |
-| **Installatie** | €300-€1.000 | Afstand meterkast, grondwerk, 3-fase |
-| **Eventueel 3-fase aansluiting** | €200-€500 | Alleen als je nu 1-fase hebt |
+| **Laadpaal inclusief installatie** | €1.300-€2.200 | Richtprijs Milieu Centraal, inclusief installatie en aanpassingen in de meterkast. Wij noemen geen bedrag per merk: de fabrikanten publiceren geen consumentenprijs |
+| **Eventuele verzwaring naar 3-fase** | €1.500-€3.500 | Gelabelde indicatie; het aansluittarief staat in het tarievenblad van jouw netbeheerder, het installatiewerk verschilt per woning |
 | **Landelijke subsidie** | €0 | Bestaat niet voor particuliere laadpalen |
-| **Totaal** | **€800-€3.000** | Een eventuele gemeentelijke regeling gaat hier nog af |
+| **Totaal** | **€1.300-€2.200**, of **€2.800-€5.700** met verzwaring | Een eventuele gemeentelijke regeling gaat hier nog af |
 
 ### Terugverdientijd
 
-Modelberekening bij 15.000 km per jaar en 18 kWh per 100 km, dus 2.700 kWh laden. De tarieven zijn **aannames**: €0,26/kWh all-in thuis (EPEX-jaargemiddelde 2025 €0,105 incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslagaanname), €0,220/kWh bij vooral 's nachts laden op een dynamisch tarief, en €0,65/kWh als richtwaarde voor snelladen — dat laatste tarief verschilt sterk per aanbieder en per pas, dus vul je eigen tarief in.
+Modelberekening bij 15.000 km per jaar en 18 kWh per 100 km, dus 2.700 kWh laden. Alle tarieven zijn **gelabelde aannames**, geen metingen:
 
-| Vergelijking | Tarief/kWh | Kosten/jaar | Verschil vs snelladen |
+- **€0,26/kWh all-in thuis** = EPEX-jaargemiddelde 2025 €0,105 incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslagaanname
+- **€0,220/kWh** bij vooral 's nachts laden op een dynamisch tarief (€0,07 marktprijs incl. btw + dezelfde €0,155 aan belasting en opslag)
+- **€0,32/kWh** als referentie voor een vast contract; bij €0,28 valt het voordeel van dynamisch laden een stuk kleiner uit
+- **€0,40/kWh** als één richtwaarde voor publiek laden. Publieke tarieven verschillen sterk per aanbieder en per laadpas en wij hebben ze niet op een peildatum nagekeken, dus vul je eigen tarief in
+
+| Vergelijking | Tarief/kWh | Kosten/jaar | Verschil vs publiek laden |
 |-------------|-----------|----------------------|-------------------|
-| Publiek snelladen (richtwaarde) | €0,65 | €1.755 | — |
-| Thuisladen, all-in | €0,26 | €702 | €1.053/jaar |
-| Thuisladen, dynamisch 's nachts | €0,220 | €594 | €1.161/jaar |
+| Publiek laden (richtwaarde) | €0,40 | €1.080 | — |
+| Thuisladen op een vast contract | €0,32 | €864 | €216/jaar |
+| Thuisladen, all-in gemiddelde | €0,26 | €702 | €378/jaar |
+| Thuisladen, dynamisch 's nachts | €0,220 | €594 | €486/jaar |
 | Laden op eigen zonneoverschot | waarde €0,19 t.o.v. terugleveren | zie toelichting | — |
 
 De laatste regel werkt anders: zonnestroom is niet "gratis", want je had die kWh ook kunnen terugleveren. Het voordeel is het verschil tussen zelf verbruiken (€0,26) en de terugleververgoeding (aanname €0,07), dus €0,19 per kWh.
 
-**Wat dat betekent voor de terugverdientijd:** bij een laadpaal van €1.200 inclusief installatie en €1.100 per jaar minder laadkosten dan bij uitsluitend snelladen, is dat rekenkundig ruim een jaar. Maar bijna niemand laadt uitsluitend bij snelladers; laadde je voorheen vooral bij een publieke AC-paal, dan is het verschil kleiner en de terugverdientijd langer. Reken met je eigen laadmix.
+**Wat dat betekent voor de terugverdientijd:** tegenover de richtprijs van €1.300-€2.200 all-in staat in dit model €486 per jaar als je van publiek laden naar dynamisch thuisladen overstapt — dus ongeveer drie tot viereneenhalf jaar. Laadde je al thuis op een vast contract, dan is de winst van slim laden €270 per jaar (€0,32 → €0,220) en loopt de terugverdientijd van de paal zelf niet meer mee in die som: die had je dan al. Reken met je eigen laadmix en je eigen tarief.
 
 ## Beste thuislaadpalen 2026
 
-De prijzen hieronder zijn **richtprijzen exclusief installatie**, opgehaald 21 augustus 2026 bij Nederlandse webwinkels; laadpaalfabrikanten publiceren zelf zelden een consumentenprijs en de straatprijzen wisselen per week. Voor Easee vullen wij geen bedrag in: op easee.com/nl stond op 21 augustus 2026 geen consumentenprijs, en de modelnamen Charge Lite en Easee Home uit oudere vergelijkingen stonden daar niet meer in het assortiment — voor thuis voert Easee nu de Up en de Max.
+Wij hebben deze laadpalen niet zelf geïnstalleerd of doorgemeten en geven daarom geen rangorde en geen kwaliteitsoordeel. Prijzen per merk staan hier ook niet: geen van deze fabrikanten publiceert een consumentenprijs, en de straatprijzen bij webshops en installateurs verschillen per kanaal en per week. Reken met de richtprijs van Milieu Centraal (€1.300-€2.200 all-in) en vergelijk vervolgens all-in offertes. Wat hieronder staat, komt uit de eigen documentatie van de fabrikanten, opgehaald op 21 augustus 2026.
 
-| Laadpaal | Richtprijs | Vermogen | Slim laden | App | Beste voor |
-|----------|-------|---------|-----------|-----|-----------|
-| **Easee Up / Max** | geen gepubliceerde prijs | 7,4/11/22 kW | ✅ | ✅ | Alleskunner |
-| **Alfen Eve Single S-Line** | €950 | 7,4/11 kW | ✅ | ✅ | Kwaliteit, NL |
-| **Wallbox Pulsar Plus** | €680 | 7,4/11 kW | ✅ | ✅ | Budget |
-| **ABB Terra AC** | €750 | 7,4/11 kW | ✅ | ✅ | Betrouwbaarheid |
-| **Charge Amps Halo** | €1.100 | 7,4/11 kW | ✅ | ✅ | Design |
+| Laadpaal | Vermogen | Slim laden | App | Waar dit merk zich onderscheidt |
+|----------|---------|-----------|-----|-----------|
+| **Easee Up / Max** | 7,4/11/22 kW | ✅ | ✅ | Modulaire backplate; load balancing via de Equalizer |
+| **Alfen Eve Single** | 7,4/11 kW | ✅ | ✅ | MID-meter op de Pro-uitvoering; Nederlandse fabrikant met dealernetwerk |
+| **Wallbox Pulsar-lijn** | 7,4/11 kW | ✅ | ✅ | Vaste kabel; load balancing en solar charging via de Power Boost-module |
+| **ABB Terra AC** | 7,4/11 kW | ✅ | ✅ | Breed zakelijk toegepast platform |
+| **Charge Amps Halo** | 7,4/11 kW | ✅ | ✅ | Ingebouwd kabelvak |
 
-### 1. Easee Up / Max — Beste alleskunner
+### Easee Up / Max
 
-Easee is een van de meestgeplaatste merken in Nederland. Voor thuisgebruik voert het merk op easee.com/nl de Up en de Max (opgehaald 21 augustus 2026); de Charge Lite en de Easee Home die je in oudere vergelijkingen tegenkomt, staan daar niet meer tussen. Een consumentenprijs publiceert Easee niet — de aanschaf loopt via installateurs en webshops.
+Voor thuisgebruik voert Easee op easee.com/nl de Up en de Max (opgehaald 21 augustus 2026); de Charge Lite en de Easee Home die je in oudere vergelijkingen tegenkomt, staan daar niet meer tussen. Een consumentenprijs publiceert Easee niet — de aanschaf loopt via installateurs en webshops.
 
-**Waarom de beste:**
-- **Dynamisch vermogensbeheer** — Past laadvermogen aan op basis van huishoudverbruik
-- **Tibber/ANWB integratie** — Automatisch slim laden op goedkoopste uren
-- **Zonnepaneel-integratie** — Laad met overschot via de Equalizer op de meter
-- **Compact design** — een van de kleinste laadpalen op de markt
-- **Load balancing** — Meerdere Easee's delen het beschikbare vermogen
-- **OCPP-ondersteuning** — Werkt met alle energiemanagement-systemen
+**Wat de fabrikant opgeeft:**
+- **Dynamisch vermogensbeheer** — past het laadvermogen aan op het huishoudverbruik
+- **Load balancing via de Equalizer** — meerdere Easee's delen het beschikbare vermogen
+- **Laden op zonne-overschot** — via de Equalizer op de meter
+- **Modulaire montage** — de lader klikt op een backplate, wat vervangen of meenemen bij verhuizing eenvoudiger maakt
+- **OCPP-ondersteuning** — nodig om door een energiemanagementsysteem of leverancier aangestuurd te kunnen worden
 
-### 2. Alfen Eve Single S-Line — Beste Nederlandse makelij
+### Alfen Eve Single
 
-Alfen is de grootste Nederlandse laadpaalfabrikant. De Eve S-Line is robuust, betrouwbaar en wordt gebruikt door grote partijen als Vattenfall en Shell.
+Alfen is een Nederlandse fabrikant die met een dealernetwerk werkt en installatie door een gecertificeerde monteur vraagt.
 
-**Waarom kiezen:**
-- Nederlandse makelij, uitstekende support
-- MID-meter ingebouwd (geschikt voor zakelijk gebruik)
+**Wat de fabrikant opgeeft:**
+- MID-meetcertificaat op de Pro-uitvoering (relevant als je laadsessies moet declareren)
 - RFID-autorisatie
 - OCPP 1.6 en 2.0
+- Slimme-meterkoppeling op DIN-rail in de meterkast
 
-### 3. Wallbox Pulsar Plus — Beste budget
+### Wallbox Pulsar-lijn
 
-De Wallbox Pulsar Plus biedt alle basisfuncties voor de laagste prijs. Ideaal als je gewoon wilt laden zonder poespas.
+De Pulsar-lijn wordt vast aan de muur gemonteerd, met een vaste kabel.
 
-**Waarom kiezen:**
-- Laagste prijs met slimme functies
-- Goede app met planning en statistieken
-- Compact en stijlvol ontwerp
-- myWallbox energiemanagement
+**Wat de fabrikant opgeeft:**
+- App met laadplanning en verbruiksstatistieken
+- Power Boost als aparte module voor load balancing en laden op zonne-overschot — een aparte post op de offerte
+- OCPP-ondersteuning
 
 ## Slim Laden: Bespaar Extra
 
@@ -194,7 +197,7 @@ Voor een VvE liggen er meer mogelijkheden dan voor een individuele woningeigenaa
 ### Stap 3: Installatie
 - Laat installeren door een erkend elektriciën
 - Installatie duurt 2-4 uur
-- Aardlekschakelaar type B verplicht
+- Aardlekbeveiliging die DC-lekstromen detecteert (type B, of type A met DC-detectie in de lader — zie de handleiding van jouw model)
 - Eventueel grondwerk bij oprit/garage
 
 ### Stap 4: Configuratie
@@ -211,16 +214,16 @@ Hieronder een modelberekening voor een representatief profiel. De laadtarieven z
 
 Totaal laadverbruik: 3.240 kWh/jaar.
 
-| Laadstrategie | Tarief/kWh | Jaarkosten laden | Verschil vs snelladen |
+| Laadstrategie | Tarief/kWh | Jaarkosten laden | Verschil vs publiek laden |
 |---|---|---|---|
-| Alleen publiek snelladen | €0,65 (richtwaarde) | €2.106 | — |
-| Publiek laden (AC, laadpaal op straat) | €0,48 (richtwaarde) | €1.555 | −€551 |
-| Thuis, all-in tarief | €0,26 | €842 | −€1.264 |
-| Thuis, dynamisch en vooral 's nachts | €0,220 | €713 | −€1.393 |
+| Publiek laden | €0,40 (richtwaarde, aanname) | €1.296 | — |
+| Thuis, vast contract | €0,32 (referentie) | €1.037 | −€259 |
+| Thuis, all-in gemiddelde | €0,26 | €842 | −€454 |
+| Thuis, dynamisch en vooral 's nachts | €0,220 | €713 | −€583 |
 
 Laden op eigen zonneoverschot staat niet in deze tabel, omdat het geen tarief is maar een afweging: elke kWh naar de auto in plaats van naar het net is in ons model €0,19 waard.
 
-Een laadpaal van **€1.200 inclusief installatie** — er is geen landelijke subsidie die daarvan afgaat — verdient zich in dit model in ongeveer één jaar terug ten opzichte van uitsluitend snelladen (€1.393 per jaar minder laadkosten). Laadde je voorheen vooral bij publieke AC-palen, dan is de winst €842 per jaar en duurt het ongeveer anderhalf jaar. Dat is nog altijd snel voor een verduurzamingsinvestering, maar het is geen half jaar.
+Tegenover de richtprijs van **€1.300-€2.200 inclusief installatie** — er is geen landelijke subsidie die daarvan afgaat — staat in dit model €583 per jaar als je van publiek laden overstapt op dynamisch thuisladen: een terugverdientijd van ongeveer tweeëneenhalf tot vier jaar. Ging je van publiek laden naar thuisladen op een vast contract, dan is de winst €259 per jaar en loopt dat op tot vijf jaar of meer. Laadde je al thuis op een vast contract, dan verdien je met de paal zelf niets extra terug — dan is de winst het verschil tussen €0,32 en €0,220, in dit profiel €324 per jaar, en dat vraagt alleen sturing en geen nieuwe hardware. Reken met je eigen laadmix.
 
 ---
 
@@ -229,13 +232,13 @@ Een laadpaal van **€1.200 inclusief installatie** — er is geen landelijke su
 Bij thuislaadpalen komen steeds dezelfde fouten terug. De eerste twee kosten direct geld:
 
 **Fout 1: Laadpaal te ver van de meterkast**
-Elke extra meter kabel kost €15-€25 voor materiaal en arbeid. Een laadpaal op 20 meter afstand kost al €400-€500 meer dan dezelfde laadpaal op 5 meter. Overweeg altijd of je de auto anders kunt parkeren.
+Het kabeltraject is bij een thuislaadpaal vaak de post die de offertes het meest uiteen laat lopen: bij een langere afstand moet de kabeldoorsnede meegroeien (anders loopt de spanningsval op) en komt er vaak graaf- of hakwerk bij. Bedragen per meter noemen wij niet — die verschillen te sterk per woning en per installateur. Laat het kabeltraject wél als aparte post offreren, en overweeg of je de auto niet dichter bij de meterkast kunt parkeren.
 
 **Fout 2: Geen toekomstbestendige kabels leggen**
 Laat altijd 2× de benodigde kabeldiameter ingraven. Eén keer graven voor toekomstige capaciteitsuitbreiding of een tweede laadpaal is veel goedkoper dan later opnieuw te graven.
 
-**Fout 3: Type A aardlekschakelaar kiezen**
-De wetgeving vereist type B. Een type A voldoet niet voor EV-laders. Sommige (goedkopere) installateurs rekenen type A aan — die besparing kost je later een keuring of verzekeringskwestie. Controleer je offerte expliciet.
+**Fout 3: de verkeerde aardlekbeveiliging kiezen**
+Een laadpaal vereist beveiliging die ook DC-lekstromen detecteert: een aardlekschakelaar type B, óf een type A in combinatie met DC-detectie die in de lader zelf zit — welke van de twee jouw model nodig heeft, staat in de installatiehandleiding van dat model. Een type A zonder die detectie voldoet niet. Laat de installateur in de offerte benoemen welke uitvoering hij plaatst en waarom.
 
 **Fout 4: Een landelijke subsidie in je begroting zetten**
 Die bestaat niet voor particuliere laadpalen — niet via de ISDE en niet via de inmiddels gesloten SEEH. Wie een installateur of vergelijkingssite een vast subsidiebedrag hoort noemen, moet dat op rvo.nl kunnen terugvinden; kan dat niet, dan is het er niet. Neem in plaats daarvan vijf minuten om te checken of jouw eigen gemeente een regeling heeft, en of je werkgever iets vergoedt.
@@ -281,7 +284,7 @@ Ideaal voor wie 's avonds thuis rijdt en laadt. Volgorde:
 
 ### Combinatie 3: laadpaal + bidirectioneel (V2H)
 
-Werkt alleen met Ioniq 5, EV6, EV9 en Nissan Leaf (CHAdeMO). Vereist Wallbox Quasar 2 of Huawei LUNA-EV-module. Duurste optie, beste rendement als auto veel thuis staat.
+Werkt alleen met een auto die bidirectioneel laden ondersteunt én een bidirectionele lader. Welke modellen dat in de Nederlandse uitvoering doen, verschilt per merk, per bouwjaar en soms per softwareversie — controleer dat bij de importeur van het exacte model, en vraag daar ook na met welke laders het is vrijgegeven. Dit is de duurste route, en het rendement staat of valt met de vraag of de auto overdag daadwerkelijk aan de lader hangt. Zie [EV laden met thuisbatterij](/posts/ev-laden-met-thuisbatterij/) voor de rekensom.
 
 ---
 
@@ -315,28 +318,26 @@ Nederland kampt met netcongestie — het stroomnet raakt overbelast, met name in
 
 ## Vergelijking: de drie meest gekozen laadpalen
 
-Hieronder de drie laadpalen die in Nederland het vaakst geplaatst worden, vergeleken op de punten die in de praktijk het verschil maken. De vermogens en functies komen uit de specificaties van de fabrikanten; de prijzen zijn richtprijzen exclusief installatie en wijzigen regelmatig.
+Hieronder de drie merken die je in Nederland het vaakst bij installateurs tegenkomt, op de punten die in de praktijk verschillen. De vermogens en functies komen uit de specificaties van de fabrikanten. Prijzen staan er niet in: geen van de drie publiceert een consumentenprijs. Garantietermijnen ook niet — die verschillen per model en worden met enige regelmaat aangepast, dus vraag de termijn op voor het exacte model dat je koopt, samen met de vraag wie de garantieafhandeling doet.
 
-| Kenmerk | Easee (Up / Max) | Alfen Eve S-Line | Wallbox Pulsar Plus |
+| Kenmerk | Easee (Up / Max) | Alfen Eve Single | Wallbox Pulsar |
 |------|------------|-----------------|---------------------|
-| Installatietijd (indicatie) | circa 1,5 uur | circa 2 uur | circa 1,5 uur |
-| P1-meter integratie (eigen zonnestroom) | ja | ja | ja |
-| Tibber-koppeling voor slim laden | native | via OCPP | via OCPP |
+| Montage | modulaire backplate, lader klikt erop | vaste montage, installatie via gecertificeerde dealer | vaste montage |
+| Hardware voor load balancing en zonne-overschot | Equalizer | slimme-meterkoppeling op DIN-rail | Power Boost-module |
+| Aansturing door een dynamische leverancier | via OCPP | via OCPP of extern energiemanagementsysteem | via OCPP |
 | Max. vermogen bij 1-fase 32A | 7,4 kW | 7,4 kW | 7,4 kW |
-| MID-meetcertificaat (voor declaratie) | nee | ja | nee |
-| Firmware-updates | automatisch | via installateur/app | automatisch |
-| Hardwaregarantie | 3 jaar | 5 jaar | 3 jaar |
-| Richtprijs (excl. installatie) | geen gepubliceerde prijs | €950 | €680 |
+| MID-meetcertificaat (voor declaratie) | op het Max-model | op de Pro-uitvoering | modelafhankelijk |
+| Prijs op de eigen site | niet gepubliceerd | niet gepubliceerd | niet gepubliceerd |
 
-**Onze conclusie:** het maximale laadvermogen is bij alle drie gelijk — dat wordt bepaald door je aansluiting, niet door de paal. Kies daarom op de andere kolommen. Gebruik je Tibber, dan is Easee de logische keuze door de native integratie. Wil je de laagste prijs zonder in te leveren op functies, dan is de Wallbox Pulsar Plus dat. Rijd je zakelijk en moet je laadsessies kunnen declareren, dan heb je een MID-gecertificeerde meter nodig en kom je bij Alfen uit.
+**Onze conclusie:** het maximale laadvermogen is bij alle drie gelijk — dat wordt bepaald door je aansluiting, niet door de paal. Kies daarom op de andere regels. Moet je laadsessies zakelijk kunnen declareren, dan is een MID-gecertificeerde meter de harde eis en bepaalt dat je keuze. Wil je op de uurprijs sturen, controleer dan op de site van je eigen leverancier welke modellen die vandaag ondersteunt; die lijsten veranderen. En vergelijk daarna op de all-in offerte voor jouw meterkast en kabellengte — dat bedrag verschilt sterker dan de hardware zelf.
 
 ---
 
 ## Conclusie
 
-Een thuislaadpaal is voor wie dagelijks rijdt een van de snelst rendabele verduurzamingsinvesteringen. Reken op €800-€2.500 inclusief installatie, **zonder subsidie**: die bestaat landelijk niet voor particulieren, en wie een vast bedrag hoort noemen, moet dat op rvo.nl of op de site van de eigen gemeente kunnen terugvinden. Tegenover die investering staat in ons model €842 tot €1.393 per jaar minder laadkosten dan bij publiek laden, afhankelijk van waar je nu laadt.
+Een thuislaadpaal is voor wie dagelijks rijdt een van de snellere verduurzamingsinvesteringen. Reken op de Milieu Centraal-richtprijs van €1.300-€2.200 inclusief installatie, **zonder subsidie**: die bestaat landelijk niet voor particulieren, en wie een vast bedrag hoort noemen, moet dat op rvo.nl of op de site van de eigen gemeente kunnen terugvinden. Tegenover die investering staat in ons model €259 tot €583 per jaar minder laadkosten dan bij publiek laden, afhankelijk van waar je nu laadt en of je op de uurprijs stuurt.
 
-De Easee Up of Max is onze aanbeveling voor wie op de uurprijs wil sturen; de Wallbox Pulsar Plus is het scherpste budgetalternatief; en wie zakelijk laadsessies moet declareren, heeft de MID-meter van de Alfen nodig.
+Een merkadvies geven wij niet: wij hebben deze laadpalen niet getest, en de fabrikanten publiceren geen consumentenprijzen. Wat je keuze wél kan bepalen: een MID-gecertificeerde meter als je zakelijk moet declareren, of jouw dynamische leverancier het model ondersteunt, en welke all-in offerte voor jouw meterkast en kabellengte het scherpst is.
 
 <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Tibber</a>
 
@@ -392,9 +393,9 @@ Dat is de goedkoopste uitbreiding op je laadpaal: een P1-meter van €24,95 en w
 Bidirectioneel laden (V2H = Vehicle to Home) is de volgende stap: je auto fungeert als thuisbatterij. Tijdens een stroomstoring of tijdens dure piekuren voedt de auto je huis.
 
 **Vereisten:**
-- Bidirectionele laadpaal: Wallbox Quasar 2 (€2.500-€3.500 inclusief installatie)
-- Compatibele auto: Nissan Leaf (CHAdeMO), Hyundai Ioniq 5, Kia EV6, Kia EV9, Mitsubishi Outlander PHEV
-- Netbeheerder-goedkeuring: in Nederland is V2H legaal, V2G (teruglevering aan net) nog niet op consumentenschaal
+- Een bidirectionele laadpaal. Die zijn in Nederland beperkt leverbaar en de fabrikanten publiceren er geen consumentenprijs voor; reken op een veelvoud van een gewone laadpaal en vraag een offerte inclusief installatie
+- Een auto die het ondersteunt. Welke modellen dat in de Nederlandse uitvoering doen, verschilt per merk, bouwjaar en softwareversie — een lijst in een artikel is binnen een half jaar achterhaald, dus controleer het bij de importeur van het exacte model
+- V2H (de auto voedt je huis) is in Nederland toegestaan; V2G (teruglevering aan het net) is nog geen breed beschikbaar consumentenproduct
 
 **Financieel voordeel bij V2H:**
 - Auto als noodstroom, waarmee je een aparte thuisbatterij of UPS kunt uitstellen
@@ -412,13 +413,13 @@ In 2026 is netcongestie in stedelijke gebieden (Amsterdam, Utrecht, Den Haag, Ro
 **Wat netcongestie betekent voor jou:**
 - Je netbeheerder kan de aanvraag voor een zwaardere aansluiting (3×25A → 3×35A) weigeren of maanden laten wachten
 - Je mag wel een laadpaal plaatsen op je bestaande aansluiting, maar dan beperkt tot het beschikbare vermogen
-- Een slim load management systeem (bijv. Easee met ingebouwde belastingsturing) is dan verplicht — dit voorkomt dat je groep eruit vliegt
+- Load balancing is dan in de praktijk noodzaak om je hoofdzekering te ontzien. Een wettelijke verplichting is het niet: het is de voorwaarde die je installateur stelt om de paal binnen je bestaande aansluitcapaciteit te kunnen aansluiten
 
-**Praktische oplossing bij bestaande 1×25A aansluiting:**
-Een laadpaal op 1×25A kan maximaal 3,7 kW leveren (1-fase). Dat is 18,5 km bereik per uur laden. Voor een gemiddelde rijder (45 km/dag) is 2,5 uur laden 's nachts voldoende. Je hoeft geen 3-fase aansluiting te betalen als je geen grote dagelijkse afstanden rijdt.
+**Praktische oplossing bij een bestaande 1-fase aansluiting:**
+Op 1-fase laadt een laadpaal maximaal 7,4 kW (32A), en met load balancing stelt de installateur die grens lager in zodra het huishouden vermogen nodig heeft. Bij 0,18 kWh/km is 7,4 kW ruwweg 40 km rijbereik per uur laden. Voor iemand die 45 km per dag rijdt, is dat ruim een uur laden per nacht — een verzwaring naar 3-fase levert daar niets op. Laat de installateur de instelbare bovengrens berekenen op basis van je werkelijke hoofdzekering, en betaal geen verzwaring die je rijprofiel niet vraagt.
 
 **Wachtlijst netbeheerder:**
-Als je regio op een wachtlijst staat: meld je aan bij de netbeheerder (Liander, Enexis, Stedin) voor een capaciteitscheck. Doorlooptijd varieert van 2 weken tot 12 maanden in congestiegebieden. Begin dit proces ruim vóór je autoleasetermijn afloopt.
+Als je regio op een wachtlijst staat: vraag bij de netbeheerder (Liander, Enexis, Stedin) een capaciteitscheck aan. De doorlooptijd voor een aansluitwijziging publiceert je netbeheerder zelf en die loopt in congestiegebieden fors op — vraag dat daar op in plaats van met een bandbreedte uit een artikel te rekenen. Begin dit proces ruim vóór je autoleasetermijn afloopt.
 
 ---
 
@@ -428,13 +429,13 @@ Modelberekening, geen meting. Uitgangspunten: een elektrische middenklasser die 
 
 **Kosten elektrisch**
 - Thuis laden: circa 3.000 kWh tegen ons EV-nachttarief van **€0,220/kWh** (aanname, inclusief de duurdere uren waarop je soms toch moet laden) = €660.
-- Onderweg laden: circa 650 kWh tegen een snellaadtarief van €0,58/kWh (richtwaarde, verschilt sterk per aanbieder) = €377.
-- Samen ongeveer **€1.040 per jaar.**
+- Onderweg laden: circa 650 kWh tegen een publiek laadtarief van €0,40/kWh (dezelfde gelabelde richtwaarde als hierboven; publieke tarieven verschillen sterk per aanbieder en per pas) = €260.
+- Samen ongeveer **€920 per jaar.**
 
 **Kosten benzine bij hetzelfde rijgedrag**
-- 22.000 km bij 1 op 12 is ruim 1.800 liter. Reken met de brandstofprijs van vandaag aan de pomp; bij €1,96 per liter is dat bijna €3.600 per jaar.
+- 22.000 km bij 1 op 12 is ruim 1.800 liter. Reken met de brandstofprijs van vandaag aan de pomp; bij €1,96 per liter (aanname — vul de actuele pompprijs in) is dat bijna €3.600 per jaar.
 
-**Verschil: rond de €2.550 per jaar in dit model.** Bij een laadpaal die inclusief installatie op circa €1.650 uitkomt, is de laadpaal zelf binnen het eerste jaar terugverdiend — mits je inderdaad het grootste deel thuis laadt.
+**Verschil: rond de €2.680 per jaar in dit model.** Let op waar dat verschil vandaan komt: dat is het verschil tussen elektrisch en fossiel rijden, niet de opbrengst van de laadpaal. De laadpaal levert alleen het verschil tussen thuis en publiek laden op; die som staat hierboven. Deze vergelijking is dus een argument om elektrisch te gaan rijden, geen terugverdientijd voor een laadpaal.
 
 Twee kanttekeningen: dit rekenvoorbeeld vergelijkt brandstofkosten, niet de totale autokosten (afschrijving, wegenbelasting, verzekering en onderhoud verschillen ook). En de uitkomst hangt volledig af van hoe groot het aandeel thuisladen is — wie voornamelijk bij snelladers laadt, houdt van dit voordeel weinig over.
 

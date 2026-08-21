@@ -30,9 +30,9 @@ faq:
 - q: 'Wat is het verschil tussen Type 2 en CCS?'
   a: 'Type 2 (Mennekes) is voor wisselstroom (AC) tot 22 kW: thuisladen en publiek AC. CCS (Combined Charging System) heeft Type 2 + 2 grote DC-pinnen voor snelladen tot 350 kW. Voor thuis: Type 2 is voldoende; CCS-snelladen vergt enorme stroom.'
 - q: 'Welke stekker heb je thuis nodig?'
-  a: 'Voor 99% van Nederlandse situaties: Type 2 (Mennekes). Alle EVs in Europa hebben deze. Thuis sneller dan 22 kW laden vereist 3-fase 32A aansluiting — vrijwel geen woning heeft dat.'
+  a: 'In vrijwel elke Nederlandse situatie: Type 2 (Mennekes). Dat is de Europese standaard-aansluiting voor AC-laden. Thuis sneller dan 22 kW laden vereist een 3-fase 32A aansluiting — die heeft vrijwel geen woning.'
 - q: 'Kun je thuis snelladen met CCS?'
-  a: 'Technisch ja, maar economisch en praktisch nee. Een 50 kW DC-snellader thuis kost €15.000+ aan apparatuur en netaansluiting. Voor 99,5% van EV-eigenaars onnodig — auto staat ''s nachts toch.'
+  a: 'Technisch ja, praktisch en financieel nee. Een 50 kW DC-snellader plus de bijbehorende netaansluiting loopt in de tienduizenden euro''s (zie de indicatieve opstelling verder in dit artikel). Voor een woning is het onnodig: de auto staat ''s nachts stil en laadt dan op 7,4 of 11 kW ruim vol.'
 - q: 'Hoe snel laadt 11 kW thuis?'
   a: "Een 60 kWh batterij wordt vol in 5,5 uur bij 11 kW laden. Tesla Model Y (75 kWh): 7 uur. Voldoende voor 's nachts laden van 0% naar 100%."
 - q: 'Wat is het verschil tussen 1-fase en 3-fase laden?'
@@ -40,11 +40,11 @@ faq:
 - q: 'Welke kabel heb je nodig?'
   a: 'Bij vaste laadpaal: kabel zit eraan. Bij ''mode 3'' open laadpunt: jouw eigen Type 2 kabel (€120-€280). Voor onderweg: krullenbol Type 2 met 5m kabel.'
 - q: 'Mag je zelf een laadpaal installeren?'
-  a: 'Nee. Volgens de NEN1010 en de eisen van Liander, Stedin en Enexis moet de aansluiting door een erkend installateur gebeuren met een aansluitmelding bij de netbeheerder. Zelf installeren is technisch mogelijk maar maakt je verzekering ongeldig en is bij brand een serieus probleem.'
+  a: 'Nee. Volgens de NEN1010 en de eisen van Liander, Stedin en Enexis moet de aansluiting door een erkend installateur gebeuren met een aansluitmelding bij de netbeheerder. Zelf installeren is technisch mogelijk, maar zonder erkende installateur en aansluitmelding loop je risico bij een schade- of brandclaim; wat je verzekeraar precies eist, staat in je eigen polisvoorwaarden.'
 - q: 'Hoeveel kost laden thuis vergeleken met snelladen?'
-  a: 'Thuisladen op een vast contract: €0,28-€0,32 per kWh all-in (gelabelde aanname; wij rekenen op deze site met €0,32 als referentie). Op dynamisch ''s nachts circa €0,205-€0,22 all-in: €0,05 EPEX incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslag-aanname. Snelladen onderweg: €0,55-€0,79 per kWh. Voor 15.000 km/jaar betekent dat €600-€1.500 verschil per jaar tussen consequent thuisladen en alleen snelladen.'
+  a: 'Thuisladen op een vast contract: circa €0,32 per kWh all-in (gelabelde aanname, onze referentie op deze site; bij €0,28 valt het verschil kleiner uit). Op dynamisch ''s nachts rekenen wij met €0,220 per kWh all-in voor EV-laden (€0,07 marktprijs incl. btw + €0,11085 energiebelasting incl. btw + €0,044 opslag-aanname). Dat scheelt circa €0,10 per kWh. Bij 15.000 km per jaar en 0,18 kWh/km (2.700 kWh) is dat ongeveer €270 per jaar. Snelladen onderweg is duurder, maar publieke laadtarieven verschillen sterk per aanbieder en pas en wij noemen hier geen bedrag dat wij niet op een peildatum hebben nagekeken.'
 - q: 'Wat als je geen eigen oprit hebt?'
-  a: 'Vraag bij gemeente een laadpaal in de openbare ruimte aan (Vattenfall InCharge, Allego, EVnetNL leveren). Wachttijd 3-9 maanden. Alternatief: een laadpunt aan de gevel op eigen erf met een kabelgoot over de stoep. Of dat mag, en onder welke voorwaarden, bepaalt je gemeente in de APV — dat verschilt per gemeente, dus check het bij de jouwe.'
+  a: 'Vraag bij je gemeente een laadpaal in de openbare ruimte aan; gemeenten werken daarvoor met concessiehouders zoals Vattenfall InCharge, Allego en EVnetNL. Reken op een doorlooptijd van maanden — de gemeente publiceert zelf hoe lang de procedure duurt. Alternatief: een laadpunt aan de gevel op eigen erf met een kabelgoot over de stoep. Of dat mag, en onder welke voorwaarden, bepaalt je gemeente in de APV — dat verschilt per gemeente, dus check het bij de jouwe.'
 ---
 "Type 2 of CCS voor mijn thuislader?" is een van de meest gestelde vragen bij een eerste elektrische auto, en er wordt regelmatig op ingespeeld met het advies om "voor de zekerheid" een CCS-installatie te overwegen. Dat kost tienduizenden euro's en is voor een woning technisch zinloos.
 
@@ -69,8 +69,8 @@ Hieronder de volledige uitleg: wat het verschil is, wat je werkelijk nodig hebt,
 
 **Beschikbaarheid:**
 - Standaard op alle EVs in Europa
-- Thuislader 99% met Type 2
-- Publieke AC-laadpalen 100% Type 2
+- Standaard op thuisladers die in Nederland worden verkocht
+- Standaard op publieke AC-laadpalen in Nederland
 
 ### CCS (Combined Charging System)
 
@@ -120,12 +120,13 @@ Voorbeeld: 3-fase 16A aansluiting (11 kW max) + auto met 7 kW onboard charger = 
 
 Bij DC-snellader staat de omzetting in de paal zelf. Auto krijgt direct DC. Veel sneller (50-350 kW).
 
-Voor thuis: vrijwel onbetaalbaar. Een Hypercharger 50 kW DC-installatie thuis kost:
-- Lader: €12.000-€25.000
-- Verzwaring naar 3-fase 80A: €3.000-€8.000
-- Eventueel transformator: €5.000-€15.000
+Voor thuis: vrijwel onbetaalbaar. Een indicatieve opstelling voor een 50 kW DC-snellader bij een woning — gelabelde aanname op basis van de opbouw van zo'n installatie, geen offerte:
 
-Totaal €20.000-€48.000. Voor wie heeft minimaal nut.
+- Lader: enkele tienduizenden euro's; DC-snelladers worden alleen zakelijk geprijsd en fabrikanten publiceren geen consumentenprijs
+- Zware netaansluiting (3-fase, hoog vermogen): een meervoud van een gewone verzwaring, tarief per netbeheerder in hun tarievenblad
+- Mogelijk een eigen transformator of trafostation
+
+Optellen hoeft niet: elk van deze posten alleen al maakt de investering voor een woning onverdedigbaar tegenover een Type 2-lader van circa €1.300-€2.200 all-in.
 
 ## Welke aansluiting heeft jouw woning?
 
@@ -155,7 +156,7 @@ In tijd:
 
 ### Verzwaring nodig?
 
-Voor 1-fase met grote auto (>70 kWh): consider verzwaring naar 3-fase 11 kW. Kosten €1.500-€3.500 (afhankelijk netbeheerder + werk).
+Voor 1-fase met een grote accu (>70 kWh) kun je een verzwaring naar 3-fase (11 kW) overwegen. Wij rekenen op deze site met een indicatie van **€1.500-€3.500** voor verzwaring inclusief meterkastwerk (gelabelde aanname; het aansluittarief staat in het tarievenblad van jouw netbeheerder, het installatiewerk verschilt per woning).
 
 Bij twee auto's: verzwaring vrijwel verplicht voor goede laadtijd.
 
@@ -164,7 +165,7 @@ Bij twee auto's: verzwaring vrijwel verplicht voor goede laadtijd.
 ### Stap 1: Check je auto
 
 Welke stekker?
-- 99% Europese EVs: Type 2 (kan ook met CCS-versie naar snelladers)
+- Vrijwel alle in Europa verkochte EVs: Type 2 (met CCS-uitvoering ook geschikt voor snelladers)
 - Tesla Model 3/Y geleverd vóór 2024: Type 2
 - Tesla Model 3/Y geleverd na 2024: CCS-Type 2 hybride
 
@@ -178,7 +179,7 @@ Welke onboard charger?
 - BMW i4/iX: 11 kW
 
 Auto met max 11 kW: 22 kW lader is overkill.
-Auto met 22 kW (Renault, Tesla): 22 kW lader is zinvol indien 3-fase 32A.
+Auto die AC 22 kW aankan (bijvoorbeeld de Renault Megane E-Tech met de 22 kW-optie): een 22 kW lader is alleen zinvol bij een 3-fase 32A aansluiting. De Tesla Model 3 en Model Y laden AC op 11 kW; een 22 kW paal levert daar niets extra op.
 
 ### Stap 2: Check je woning
 
@@ -219,7 +220,7 @@ Door erkende installateur (Stedin/Liander/Enexis-eis):
 - Configuratie smart features
 - Inschrijving bij netbeheerder
 
-Kosten installatie: €350-€800 + eventuele verzwaring (€1.500-€3.500).
+De installatiekosten zitten in de richtprijs van Milieu Centraal (€1.300-€2.200 all-in). Komt er een verzwaring bij, reken dan met dezelfde indicatie als hierboven: €1.500-€3.500.
 
 ### Stap 6: Subsidie
 
@@ -238,7 +239,7 @@ Voor publieke laadpalen zonder vaste kabel.
 - 5m, 22 kW: €130-€220
 - 7m, 22 kW: €180-€280
 
-Aanbeveling: krullenbol 5m van bol.com (€140) — werkt prima.
+Een spiraalkabel ("krullenbol") van 5 meter is voor de meeste situaties genoeg. Prijzen wisselen per webshop en per moment; noteer zelf de prijs op je aankoopdatum.
 
 ### Schuko (mode 2) noodlader
 
@@ -253,20 +254,20 @@ Nut: beperkt — vaak te traag. Beter is om publieke 11 kW palen op te zoeken.
 | Item | Kosten |
 |------|--------|
 | Laadpaal inclusief installatie (richtprijs Milieu Centraal) | €1.300-€2.200 |
-| Verzwaring naar 3-fase, als die er nog niet is | €0-€2.500 |
+| Verzwaring naar 3-fase, als die er nog niet is (indicatie) | €1.500-€3.500 |
 | Losse Type 2-kabel voor onderweg | €120-€280 |
 
-Onderaan de streep betaal je dus grofweg €1.300 tot €2.200 als de meterkast al geschikt is, en aanzienlijk meer als er verzwaard moet worden. Wij noemen hier geen bedrag per merk: zie de toelichting hierboven.
+Onderaan de streep betaal je dus grofweg €1.300 tot €2.200 als de meterkast al geschikt is; moet er verzwaard worden, dan komt daar met onze indicatie €1.500 tot €3.500 bij. Wij noemen hier geen bedrag per merk: zie de toelichting hierboven.
 
 Landelijke subsidie is er niet voor een particuliere thuislaadpaal, dus dit totaal is wat je zelf betaalt. Heeft jouw gemeente wél een regeling, dan gaat dat bedrag er nog af — check dat bij je eigen gemeente, want het verschilt per gemeente en per jaar.
 
 ## Veelgemaakte fouten
 
 **Fout 1: CCS-thuislader overwegen**
-Onnodig en onbetaalbaar. Type 2 is voldoende voor 100% van Nederlandse thuissituaties.
+Onnodig en onbetaalbaar. Type 2 is voldoende voor praktisch elke Nederlandse thuissituatie.
 
 **Fout 2: 22 kW lader bij 11 kW auto**
-Werkt op 11 kW, niet sneller. Betaalt €200-€400 extra zonder voordeel.
+Die laadt alsnog op 11 kW, niet sneller. Je betaalt een meerprijs zonder dat er iets tegenover staat; hoeveel die meerprijs is, verschilt per model en installateur.
 
 **Fout 3: 3-fase 16A bij 1-fase woning**
 Kan niet werken. Eerst verzwaren of 1-fase lader kiezen.
@@ -281,14 +282,14 @@ Bij ongebreidelde laden + zonnepanelen + warmtepomp kan elektriciteits­huishoud
 Zonder slimme P1-koppeling laadt je paal blind, ook als de wasmachine, droger en oven tegelijk draaien. Resultaat: hoofdzekering eruit. Easee, Wallbox en Alfen hebben allemaal een module of instelling die via de P1-poort dynamisch terugregelt; wat die kost, hangt af van model en installateur. Bij installatie meteen meenemen — achteraf inbouwen kost dubbel.
 
 **Fout 7: Te dichte routering kabel**
-Een 5×6mm² kabel van 25 meter door je tuin moet beschermd zijn (mantelbuis of grondkabel YMVK). Heb je hem zonder bescherming verlegd, faalt de keuring en wordt aansluitmelding geweigerd. Spaar geen €60 op de kabel uit.
+Een 5×6mm² kabel van 25 meter door je tuin moet beschermd zijn (mantelbuis of grondkabel YMVK). Zonder bescherming voldoet de installatie niet aan NEN 1010 en kan een installateur de aansluiting terecht weigeren. Bezuinig hier niet op.
 
 ## Wanneer NIET investeren in een eigen thuislader
 
 Niet voor iedereen is een vaste thuislader de juiste keuze. In deze vier situaties zouden wij het uitstellen of overslaan:
 
-- **Je rijdt minder dan 8.000 km/jaar.** Bij dit verbruik kun je toe met een schuko-noodlader (€250) en af en toe een publieke 11 kW paal in de buurt. Terugverdientijd van een €1.800 thuisinstallatie wordt 8+ jaar.
-- **Je verhuist binnen 2 jaar.** Een vaste laadpaal verhoogt woningwaarde maar zelden met meer dan €500-€800. Bij verhuizing investeer je opnieuw. Verstandiger: krullenbol kabel + publiek laden tot je definitief gevestigd bent.
+- **Je rijdt weinig, richting 8.000 km per jaar of minder.** Dat is bij 0,18 kWh/km circa 1.440 kWh. Het voordeel van thuisladen tegenover een vast tarief is dan met onze €0,10-verschil-aanname ongeveer €145 per jaar — tegenover een investering van €1.300-€2.200 loopt de terugverdientijd op tot ruim boven de tien jaar. Een mode 2-noodlader en af en toe een publieke AC-paal kunnen dan volstaan.
+- **Je verhuist binnen twee jaar.** Bij een verhuizing investeer je opnieuw, en of een laadpaal iets aan de woningwaarde toevoegt is niet iets waarover wij een bedrag kunnen onderbouwen. Verstandiger: een losse kabel en publiek laden tot je definitief gevestigd bent.
 - **Je woont in een huurwoning zonder toestemming verhuurder.** Boren in gevel of meterkast verzwaren zonder schriftelijke toestemming geeft gedoe bij oplevering. Vraag eerst, en regel dat de paal kan blijven of verwijderbaar is.
 - **Je hebt een leasecombinatie met laadpas-only-vergoeding.** Sommige werkgevers vergoeden alleen publiek laden via de laadpas, niet thuis. Dan kost thuisladen jou geld in plaats van te besparen — eerst de leaseregeling controleren.
 
@@ -302,7 +303,7 @@ De meest voorkomende onnodige kostenpost bij een thuislader is een verzwaring na
 2. **Wat kan een 1-fase laadpaal leveren?** Op 1×32A is dat 7,4 kW. In vier uur laad je daarmee bijna 30 kWh bij — een veelvoud van de dagelijkse behoefte.
 3. **Conclusie:** een verzwaring naar 3-fase levert in dit scenario geen enkele praktische winst op. Je laadt 's nachts alsnog ruim voldoende bij.
 
-**Het kostenverschil:** een 1-fase laadpaal plus installatie zonder verzwaring komt uit op grofweg €1.500 tot €1.600, waar een verzwaring naar 3-fase plus een 11 kW paal het dubbele of meer kost. Dat verschil van enkele duizenden euro's betaal je volledig zelf: er is geen landelijke subsidie die een laadpaal of een verzwaring compenseert.
+**Het kostenverschil:** een laadpaal plus installatie zonder verzwaring valt binnen de Milieu Centraal-richtprijs van €1.300-€2.200. Komt er een verzwaring naar 3-fase bij, dan komt daar met onze indicatie €1.500-€3.500 bovenop. Dat verschil betaal je volledig zelf: er is geen landelijke subsidie die een laadpaal of een verzwaring compenseert.
 
 **Wanneer verzwaren wél nodig is:** zodra je gelijktijdig vermogen krijgt dat niet meer op één fase past — typisch bij een warmtepomp naast een EV, bij inductiekoken met een warmtepomp, of bij twee elektrische auto's. Dan is verzwaren geen luxe maar noodzaak.
 
@@ -316,7 +317,7 @@ Moderne thuisladers (Easee, Wallbox, Alfen) hebben smart laad­functies:
 
 Laad alleen tussen 02:00-06:00 (goedkope nachturen op dynamisch contract).
 
-Kostenbesparing: €0,15-€0,30 per kWh × 50 kWh per laadbeurt = €7,50-€15 besparing per beurt.
+Modelberekening met onze aannames: op een dynamisch contract rekenen wij met €0,220 per kWh all-in voor EV-laden in de nacht tegenover €0,272 voor passief laden op willekeurige momenten. Dat scheelt circa €0,05 per kWh, dus ongeveer €2,60 op een laadbeurt van 50 kWh. Vergelijk je met de vaste-contractreferentie van €0,32, dan is het verschil circa €0,10 per kWh: ongeveer €5 per beurt. Dit zijn gelabelde aannames, geen meting.
 
 ### Op zonneoverschot laden
 
@@ -332,7 +333,7 @@ Lees [Tibber review](/posts/tibber-review-ervaringen-2026/), [Frank Energie revi
 
 ## Combinatie met zonnepanelen
 
-EV-eigenaars met zonnepanelen halen 30-60% van laadbeurten gratis uit eigen zon. Voor 15.000 km/jaar (3.000 kWh aan auto) kan dat €600-€800 per jaar besparen.
+Met zonnepanelen en slim laden kun je een deel van je laadbeurten uit eigen productie halen. Hoe groot dat deel is, hangt af van je installatie, je rijpatroon en of de auto op zonnige middagen thuisstaat — een percentage dat wij niet hebben gemeten noemen wij niet. Als rekenvoorbeeld: bij 15.000 km per jaar en 0,18 kWh/km gaat er circa 2.700 kWh naar de auto. Lukt het om daarvan een derde tot de helft rechtstreeks uit eigen zon te laden (modelaanname), dan gaat het bij €0,26 per kWh om circa €230 tot €350 per jaar aan vermeden inkoop.
 
 Smart laden essentieel hiervoor. Lees [EV laden met thuisbatterij](/posts/ev-laden-met-thuisbatterij/).
 
@@ -340,11 +341,11 @@ Smart laden essentieel hiervoor. Lees [EV laden met thuisbatterij](/posts/ev-lad
 
 **Installatie.** Reken op een halve dag werk. De aanmelding bij de netbeheerder verzorgt de installateur; controleer zelf of die melding is doorgekomen.
 
-**Smart laden op een dynamisch contract.** Dit is de post waar de winst zit, en de rekenregel is eenvoudig: je jaarkilometers × circa 0,18 kWh/km × het verschil tussen je gemiddelde uurtarief en je nachttarief. Bij een tariefverschil van ongeveer 18 cent per kWh en 12.000 km per jaar loopt dat op tot enkele honderden euro's — voldoende om de laadpaal binnen enkele jaren terug te verdienen.
+**Smart laden op een dynamisch contract.** Dit is de post waar de winst zit, en de rekenregel is eenvoudig: je jaarkilometers × circa 0,18 kWh/km × het tariefverschil per kWh. Bij 12.000 km per jaar gaat het om ruim 2.100 kWh. Vergeleken met onze vaste-contractreferentie van €0,32 is het verschil met EV-nachtladen (€0,220) circa €0,10 per kWh: ongeveer €215 per jaar. Verschuif je binnen een dynamisch contract alleen je laadmomenten naar de nacht (van €0,272 passief naar €0,220), dan is het verschil circa €0,05 per kWh: ongeveer €110 per jaar. Beide bedragen volgen uit onze gelabelde tariefaannames, niet uit een meting.
 
-**Laden op zonneoverschot.** Vrijwel alle moderne laadpalen ondersteunen dit, maar het is de functie waar in gebruikersreviews het vaakst problemen over gemeld worden: bij wisselende bewolking schakelt de paal aan en uit omdat het overschot rond de startdrempel schommelt. Controleer of de paal een instelbare vertraging of hysterese heeft, en houd firmware-updates bij — deze problemen worden meestal in software opgelost.
+**Laden op zonneoverschot.** Vrijwel alle moderne laadpalen ondersteunen dit. Let bij de keuze op het gedrag bij wisselende bewolking: als het overschot rond de startdrempel schommelt, kan een paal aan- en uitschakelen. Controleer in de handleiding of het instelmenu of de paal een instelbare vertraging of hysterese heeft, en of firmware-updates automatisch binnenkomen.
 
-**Onderhoud.** Geen. De meest gemelde storing is dat de paal na een stroomstoring in foutmelding blijft staan; een reset via de app lost dat op.
+**Onderhoud.** Een thuislader heeft geen periodiek onderhoud nodig. Zoek in de handleiding van het model dat je kiest op hoe je de paal reset na een netstoring, en of dat via de app of met een fysieke knop gaat — dat scheelt een servicebezoek.
 
 **Merkkeuze.** Easee en Wallbox zitten functioneel dicht bij elkaar. Vergelijk op garantietermijn, op of het smart laden zonder abonnement werkt en op de prijs die jouw installateur voor het geheel rekent — dat laatste verschilt sterker dan de hardware zelf.
 
@@ -358,7 +359,7 @@ Voor appartement­bewoners: lees [laadpaal VVE installatie](/posts/laadpaal-vve-
 
 ## Saldering 2027 en EV-laden
 
-Met afbouw saldering wordt zonneoverschot benutten cruciaal. EV-laden op zonneoverschot is dé manier om dit slim te doen:
+De saldering stopt **volledig per 1 januari 2027** — er is geen afbouwpad. Daarmee wordt het benutten van je eigen zonneoverschot belangrijker. EV-laden op zonneoverschot is dé manier om dit slim te doen:
 - Geen verkoop tegen lagere prijs aan net
 - Eigen verbruik = volledig gebruikt
 - Auto in huis als "batterij"
@@ -367,13 +368,13 @@ Lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/
 
 ## Garantie en NL-specifieke aandachtspunten
 
-Drie zaken die op fora regelmatig misgaan, en die je moet controleren voordat je ondertekent:
+Drie zaken die je moet controleren voordat je ondertekent:
 
 **Garantie laadpaal versus garantie installatie.** Fabrikanten geven doorgaans enkele jaren garantie op de hardware — de exacte termijn staat in de garantievoorwaarden van het model dat je koopt en verschilt per fabrikant. De installateur geeft typisch 1-2 jaar op het werk. Dat zijn losse zaken: bij een defect na 3 jaar is hardware mogelijk nog gedekt, maar arbeidsuren betaal je zelf. Vraag dus expliciet wie wat dekt.
 
 **Aansluitmelding bij netbeheerder is verplicht.** Netbeheerders willen weten wat er achter de meter bij komt; een erkend installateur doet daarom een aansluit- of installatiemelding. Welke drempel daarbij precies geldt, staat in de voorwaarden van jouw netbeheerder — noteer dat je installateur die melding heeft gedaan en controleer het in je eigen account bij de netbeheerder. Zonder melding kun je bij een storings- of schadeclaim in de problemen komen.
 
-**BTW-aftrek voor zzp-rijders.** Rijd je zakelijk meer dan 50% met de EV? Dan kun je 21% BTW van de laadpaal en installatie terugvragen. Bewaar facturen apart en log zakelijke kilometers via een rittenregistratie. Rijd je een auto van de zaak, dan lopen de bijtelling en de vergoeding van thuis geladen kWh via je werkgever of leasecontract; laat je boekhouder naar de actuele percentages kijken, want die veranderen per belastingjaar.
+**BTW-aftrek voor zzp-rijders.** Of je de 21% btw op laadpaal en installatie kunt terugvragen, hangt af van je btw-ondernemerschap en van het zakelijke gebruik — niet van een vaste 50%-drempel, want die bestaat niet. In de praktijk trek je de btw af naar rato van het zakelijke gebruik, of trek je hem volledig af en corrigeer je het privégebruik aan het eind van het jaar. Bewaar facturen apart en houd een rittenregistratie bij, en laat je boekhouder de route bepalen; de Belastingdienst beschrijft de voorwaarden voor btw-aftrek en privégebruik. Rijd je een auto van de zaak, dan lopen de bijtelling en de vergoeding van thuis geladen kWh via je werkgever of leasecontract; laat je boekhouder naar de actuele percentages kijken, want die veranderen per belastingjaar.
 
 **Er is geen landelijke laadpaalsubsidie voor particulieren.** De ISDE dekt warmtepompen, zonneboilers, isolatie, ventilatie in combinatie met isolatie, een warmtenetaansluiting en elektrisch koken — laadpalen staan niet op die lijst, en zonnepanelen en thuisbatterijen ook niet. De SEEH (Subsidie Energiebesparing Eigen Huis), die je online nog wel eens ziet opduiken, bestond tot en met 31 december 2022 en ging over isolatie, niet over laadpalen. Wat je wél kunt onderzoeken: een regeling van je eigen gemeente, en bij zakelijk gebruik de fiscale investeringsaftrek via je boekhouder.
 
@@ -383,13 +384,13 @@ Vehicle-to-Home (V2H) en Vehicle-to-Grid (V2G) komen op:
 - EV als thuisbatterij gebruiken (V2H)
 - EV terugleveren aan net tegen vergoeding (V2G)
 
-In 2026 nog beperkt beschikbaar. Tesla Powerwall integratie, BYD, Hyundai bieden eerste stappen. Verwacht doorbraak vanaf 2027.
+In 2026 is dit in Nederland nog beperkt beschikbaar: het vraagt een auto die bidirectioneel laden ondersteunt, een geschikte lader en een leverancier die het contractueel toestaat. Of en wanneer dit breed beschikbaar komt, valt niet te voorspellen; controleer per automodel en per laadpaal wat de fabrikant vandaag daadwerkelijk ondersteunt.
 
 Lees [batterij na 2027 zonder zonnepanelen](/posts/batterij-na-2027-zonder-zonnepanelen-zin-2026/).
 
 ## Conclusie: Type 2 voor thuis, CCS voor onderweg
 
-Voor 99,5% van Nederlandse EV-eigenaars: Type 2 thuislader (11 kW als je 3-fase hebt, 7 kW als 1-fase). Geen CCS nodig — die gebruik je alleen onderweg op publieke snelladers.
+Voor praktisch elke Nederlandse EV-eigenaar: Type 2 thuislader (11 kW als je 3-fase hebt, 7 kW als 1-fase). Geen CCS nodig — die gebruik je alleen onderweg op publieke snelladers.
 
 Onze aanbevelingen:
 1. **Type 2 (Mennekes) thuislader**: Easee (Up of Max) of Wallbox Pulsar Plus

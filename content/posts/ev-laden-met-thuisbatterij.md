@@ -35,7 +35,7 @@ faq:
 - q: Is een thuisbatterij of een EV-accu voordeliger als opslagoptie?
   a: 'Per kWh is de auto-accu goedkoper, simpelweg omdat je die al hebt. Maar de auto staat niet altijd thuis, en dat is precies wanneer je de opslag nodig hebt. Een thuisbatterij is als continue buffer betrouwbaarder; een EV-accu is alleen interessant als de auto overdag en ''s avonds daadwerkelijk aan de lader hangt.'
 - q: Wat levert een dynamisch contract op bij slim laden?
-  a: 'Dat is de grootste en goedkoopste winst in dit hele verhaal, omdat er geen hardware voor nodig is. De rekenregel: je jaarlijkse laadvolume in kWh × het verschil tussen je gemiddelde uurtarief en het tarief van de nachturen waarnaar je verschuift. Bij 2.700 kWh laadverbruik en vijftien cent verschil kom je op een paar honderd euro per jaar. Vul je eigen tariefblad in.'
+  a: 'Dat is de grootste en goedkoopste winst in dit hele verhaal, omdat er geen hardware voor nodig is. De rekenregel: je jaarlijkse laadvolume in kWh × het verschil tussen het tarief dat je nu betaalt en het tarief van de nachturen waarnaar je verschuift. Wij rekenen op deze site met €0,32 per kWh all-in als vaste-contractreferentie en met €0,220 per kWh all-in voor EV-laden in de nachturen (beide gelabelde aannames). Dat is €0,10 verschil: bij 2.700 kWh laadverbruik circa €270 per jaar. Vul je eigen tariefblad in.'
 - q: Wordt de combinatie EV plus thuisbatterij rendabeler na 2027?
   a: 'Ja. De saldering stopt volledig per 1 januari 2027 — er is geen afbouwpad. Zolang je saldeert, is een teruggeleverde kWh evenveel waard als een afgenomen kWh en levert extra eigen verbruik vrijwel niets op. Vanaf 2027 is het verschil tussen je afnameprijs en de terugleververgoeding wél de waarde van elke kWh die je zelf opslaat en gebruikt.'
 - q: 'Wat kost een complete setup: zonnepanelen, thuisbatterij en bidirectionele laadpaal?'
@@ -54,7 +54,7 @@ Hieronder rekenen wij door wanneer EV laden via een thuisbatterij wél loont, we
 
 > **Kort antwoord:** het goedkoopste rendement zit niet in hardware maar in sturing — een dynamisch contract met slim laden vraagt geen investering en levert direct op.
 >
-> Een thuisbatterij verdient zich in deze combinatie pas terug ná het einde van de saldering, en zelfs dan lopen de terugverdientijden in onze modellen op tot boven de vijftien jaar. V2H (de auto-accu als thuisbatterij) is rekenkundig het interessantst, maar alleen als de auto overdag daadwerkelijk thuis aan de lader hangt.
+> Een thuisbatterij verdient zich in deze combinatie pas terug ná het einde van de saldering, en zelfs dan komt de terugverdientijd in ons model uit rond de twintig jaar (rond de vijftien jaar als je op een dynamisch contract ook op de uurprijzen handelt). V2H (de auto-accu als thuisbatterij) is rekenkundig het interessantst, maar alleen als de auto overdag daadwerkelijk thuis aan de lader hangt.
 
 ## Hoe werkt de combinatie eigenlijk?
 
@@ -86,15 +86,19 @@ V2G is voor de meeste huishoudens nog niet relevant. V2H is beschikbaar maar duu
 
 Aannames in dit model: 15.000 km per jaar, verbruik 18 kWh per 100 km, dus 2.700 kWh laadverbruik per jaar.
 
-- Vast contract à €0,27/kWh: 2.700 × €0,27 = **€729 per jaar**
-- Dynamisch contract, laden in de nachturen à gemiddeld €0,095/kWh: 2.700 × €0,095 = **€257 per jaar**
-- Verschil in dit model: **circa €470 per jaar**
+- Vaste-contractreferentie à €0,32/kWh all-in: 2.700 × €0,32 = **€864 per jaar**
+- Dynamisch contract, laden in de nachturen à €0,220/kWh all-in: 2.700 × €0,220 = **€594 per jaar**
+- Verschil in dit model: **circa €270 per jaar**
 
-Let op wat hier gebeurt: die besparing komt volledig uit het verschuiven van het tijdstip. Er is geen thuisbatterij voor nodig. Het nachttarief in dit model is een aanname — vul de gemiddelde nachtprijs van je eigen tariefblad in en de uitkomst schuift mee.
+Waarom het nachttarief niet lager kan: een all-in kWh bevat altijd €0,11085 energiebelasting incl. btw plus onze opslag-aanname van €0,044 incl. btw, samen €0,155. Ook bij een marktprijs van nul kom je daar niet onder. Onze €0,220 is opgebouwd uit €0,07 marktprijs incl. btw in de nachturen plus die €0,155. Bedragen die je elders ziet van 9 of 10 cent all-in kunnen dus niet kloppen.
+
+Let op wat hier gebeurt: die besparing komt volledig uit het verschuiven van het tijdstip. Er is geen thuisbatterij voor nodig. Beide tarieven zijn gelabelde aannames — vul je eigen tariefblad in en de uitkomst schuift mee. Twee gevoeligheden: is je vaste tarief €0,28 in plaats van €0,32, dan blijft er circa €162 over; laad je al op een dynamisch contract maar zonder sturing (wij rekenen dan met €0,272 all-in), dan levert het verschuiven naar de nacht circa €140 per jaar op.
 
 ### Case 2: thuisbatterij van 10 kWh naast zonnepanelen
 
-Aannames: 16 panelen (6,4 kWp) met een opbrengst van 5.500 kWh per jaar, eigen verbruik zonder batterij 35 procent (1.925 kWh), met een batterij van 10 kWh 65 procent, afnameprijs €0,27/kWh, round-trip rendement van de batterij 90 procent.
+Aannames: 16 panelen (6,4 kWp) met een opbrengst van 5.500 kWh per jaar, een huishoudverbruik van 3.500 kWh, eigen verbruik zonder batterij 35 procent (1.925 kWh), afnameprijs €0,26/kWh all-in, terugleververgoeding ná 2027 €0,07/kWh (gelabelde aanname, niemand publiceert dit tarief nog), round-trip rendement van de batterij 90 procent.
+
+Hoeveel een batterij daadwerkelijk kan verschuiven, is niet zijn capaciteit maal 365. Wij rekenen met de laagste van drie grenzen: capaciteit × 150 zoncycli (10 × 150 = 1.500 kWh), het zonoverschot × 90 procent (3.575 × 0,9 = 3.218 kWh) en de netto netafname die je nog kunt vervangen (3.500 − 1.925 = 1.575 kWh). De bindende grens is hier de eerste: **1.500 kWh per jaar**. Om die 1.500 kWh af te kunnen geven, moet er 1.667 kWh in (10 procent omzetverlies).
 
 **Zolang je saldeert (tot en met 2026)** is een teruggeleverde kWh evenveel waard als een afgenomen kWh. Extra eigen verbruik levert dan dus vrijwel niets op: je verplaatst alleen waar de kWh vandaan komt. Het enige echte voordeel in 2026 zit in de terugleverkosten die veel leveranciers apart in rekening brengen — minder terugleveren betekent minder van die kosten. Dat is een bedrag van tientallen euro's, geen honderden, en het verschilt per leverancier.
 
@@ -102,14 +106,16 @@ Aannames: 16 panelen (6,4 kWp) met een opbrengst van 5.500 kWh per jaar, eigen v
 
 | Post (modelberekening, ná 2027) | Zonder batterij | Met batterij 10 kWh |
 |---|---|---|
-| Eigen verbruik van zonnestroom | 1.925 kWh | 3.410 kWh (na 10% opslagverlies) |
-| Teruggeleverd | 3.575 kWh | 1.925 kWh |
-| Bespaarde inkoop à €0,27/kWh | €520 | €921 |
-| Terugleververgoeding à €0,05/kWh | €179 | €96 |
-| **Totaal voordeel per jaar** | **€699** | **€1.017** |
-| Extra voordeel van de batterij | — | **€318** |
+| Eigen verbruik van zonnestroom | 1.925 kWh | 3.425 kWh (1.925 + 1.500 uit de batterij) |
+| Teruggeleverd | 3.575 kWh | 1.908 kWh (3.575 − 1.667 ingeladen) |
+| Bespaarde inkoop à €0,26/kWh | €501 | €891 |
+| Terugleververgoeding à €0,07/kWh | €250 | €134 |
+| **Totaal voordeel per jaar** | **€751** | **€1.025** |
+| Extra voordeel van de batterij | — | **€274** |
 
-Bij een Sessy van 10 kWh à €5.500 inclusief btw en exclusief installatie (opgave Charged, prijspeil augustus 2026) komt dat model uit op een terugverdientijd van **circa 17 jaar**, en langer zodra je de installatie meerekent. Dat is langer dan de gebruikelijke garantietermijn.
+Bij een Sessy van 10 kWh à €5.500 inclusief btw en exclusief installatie (opgave Charged, prijspeil augustus 2026) komt dat model uit op een terugverdientijd van **circa 20 jaar**, en langer zodra je de installatie meerekent. Dat is langer dan de gebruikelijke garantietermijn.
+
+Eén post kan daar nog bij: op een dynamisch contract kun je met de batterij ook op het prijsverschil tussen uren handelen. Wij rekenen daarvoor met €8 per kWh capaciteit per jaar (gelabelde eigen afleiding: circa 100 wintercycli tegen €0,10 netto spreiding), dus €80 bij 10 kWh. Dat brengt het totaal op circa €354 per jaar en de terugverdientijd op ruim vijftien jaar — nog altijd langer dan de garantietermijn, en alleen haalbaar met een dynamisch contract en automatische sturing.
 
 Twee variabelen bepalen die uitkomst volledig: de terugleververgoeding die jouw leverancier na 2027 hanteert, en je afnameprijs. Loopt de vergoeding richting nul en je afnameprijs op, dan korten die jaren snel in. Vul daarom je eigen cijfers in — dit is een rekenmodel, geen voorspelling.
 
@@ -125,11 +131,12 @@ Het werkt wél voor wie thuiswerkt, een tweede auto heeft, of de auto vooral in 
 
 Modelberekening voor een thuiswerkscenario waarin de auto het grootste deel van de dag aan de lader hangt, met 30 kWh beschikbare buffer:
 
-- Extra eigen verbruik ten opzichte van geen opslag: circa 2.800 kWh per jaar (aanname)
-- Waarde per kWh ná 2027: het verschil tussen €0,27 afname en €0,05 teruglevering = €0,22
-- Jaarlijks voordeel in dit model: circa **€615**
+- Extra eigen verbruik ten opzichte van geen opslag: circa 2.800 kWh per jaar (aanname; dat blijft ruim onder de 150-cycli-grens van 30 kWh × 150 = 4.500 kWh, dus de aanwezigheid van de auto is hier de beperking, niet de accu)
+- Om 2.800 kWh af te geven moet er bij 90 procent rendement 3.111 kWh in
+- Bespaarde inkoop: 2.800 × €0,26 = €728; gemiste terugleververgoeding: 3.111 × €0,07 = €218
+- Jaarlijks voordeel in dit model: circa **€510**
 - Investering: een bidirectionele lader inclusief installatie. Fabrikanten publiceren daar geen consumentenprijs voor; reken in dit model met €4.500 als aanname en vervang dat door je eigen offerte
-- Terugverdientijd in dit model: **ruim zeven jaar**
+- Terugverdientijd in dit model: **bijna negen jaar**
 
 Dat is de gunstigste uitkomst van de drie cases — maar hij staat of valt met de aanname dat de auto er overdag daadwerkelijk staat. Haal die aanname weg en de business case verdwijnt mee.
 
@@ -148,7 +155,9 @@ Bij slim laden is een dynamisch contract de basis. De twee bekendste spelers in 
 
 Beide rekenen dus een opslag bovenop de beursprijs; die opslag is precies het bedrag dat je van je bruto besparing moet aftrekken. Reken bij Tibber met €5,99 per maand per energiesoort plus €0,0248/kWh over je hele afname, niet alleen over je laadvolume.
 
-**Rekenvoorbeeld met zichtbare aannames:** laad je 225 kWh per maand en verschuif je die naar uren die gemiddeld €0,17/kWh goedkoper zijn dan je oude tarief, dan is de bruto winst €38 per maand. Trek daar de vaste kosten en de inkoopvergoeding van je contract af, en houd de netto uitkomst over. Bij Tibber blijft er in dit model rond de €30 per maand over.
+**Rekenvoorbeeld met zichtbare aannames.** Laad je 225 kWh per maand en verschuif je die naar uren die gemiddeld €0,17/kWh goedkoper zijn dan je oude tarief, dan is de bruto winst 225 × €0,17 = €38,25 per maand. Daar gaat bij Tibber €5,99 vaste kosten voor stroom af, plus de inkoopvergoeding van €0,0248/kWh: over 225 kWh is dat €5,58. Netto blijft er **circa €26,70 per maand** over. Let op: die inkoopvergoeding geldt over je hele stroomafname, niet alleen over je laadvolume — verbruik je thuis nog 3.000 kWh voor de rest van het huishouden, dan gaat daar per jaar nog eens circa €74 aan inkoopvergoeding af.
+
+Die €0,17 is een zelfgekozen spread. Reken je met onze eigen constanten — €0,32 all-in vast tegenover €0,220 all-in EV-nacht, dus €0,10 verschil — dan is de bruto winst €22,50 per maand en houd je na vaste kosten en inkoopvergoeding circa €11 per maand over. Het verschil tussen die twee uitkomsten is precies waarom je met je eigen tariefblad moet rekenen.
 
 ---
 
@@ -196,7 +205,7 @@ Andere merken laten wij hier bewust weg met een prijs erbij: Marstek voert inmid
 - forenzen die de auto overdag weg hebben — V2H doet dan niets
 - huurders zonder eigen laadpunt of panelen
 - huishoudens met een klein dakvermogen: te weinig overschot om op te slaan
-- wie snel wil terugverdienen; in onze modellen liggen de terugverdientijden ruim boven de tien jaar
+- wie snel wil terugverdienen; in onze modellen liggen de terugverdientijden van een thuisbatterij tussen de vijftien en twintig jaar
 
 ---
 
@@ -277,7 +286,7 @@ Wie nu een thuisbatterij koopt, koopt die dus vooral voor de jaren daarna. Dat i
 
 ## Conclusie
 
-De combinatie EV plus thuisbatterij is in 2026 geen vanzelfsprekende investering. In onze modellen liggen de terugverdientijden van een losse thuisbatterij ruim boven de vijftien jaar, ook ná het einde van de saldering.
+De combinatie EV plus thuisbatterij is in 2026 geen vanzelfsprekende investering. In ons model komt de terugverdientijd van een losse thuisbatterij van 10 kWh uit rond de twintig jaar, ook ná het einde van de saldering — en rond de vijftien jaar als je er op een dynamisch contract ook uurprijshandel bij optelt.
 
 Wat wél opgaat:
 

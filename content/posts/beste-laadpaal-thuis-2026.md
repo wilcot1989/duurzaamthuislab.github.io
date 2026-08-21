@@ -4,7 +4,7 @@ date: 2026-09-02 08:00:00+02:00
 lastmod: 2026-08-21 08:00:00+02:00
 description: Easee, Wallbox en Alfen naast elkaar op aansluiting, load balancing, solar charging en sturing op een dynamisch contract — plus wat de installatie in Nederland écht vraagt.
 categories:
-- elektrisch rijden
+- elektrisch-rijden
 tags:
 - laadpaal thuis
 - Easee
@@ -26,7 +26,7 @@ faq:
 - q: 'Wat kost een laadpaal thuis in 2026?'
   a: 'Easee publiceert op easee.com/nl geen consumentenprijzen: laders gaan daar via een offerteaanvraag en via installateurs en webshops, waardoor de straatprijs per kanaal verschilt. Wallbox en Alfen werken in Nederland vergelijkbaar via dealers. Reken daarom met een offerte in plaats van met een lijstprijs, en vraag die offerte all-in op: hardware, load balancing, kabelwerk, aardlekautomaat en oplevering. De ISDE geldt niet voor laadpalen.'
 - q: 'Werken Easee, Wallbox en Alfen samen met dynamische stroomcontracten?'
-  a: 'Alle drie kunnen via OCPP door een externe partij worden aangestuurd, en dat is de route die dynamische leveranciers gebruiken. Het verschil zit in hoeveel je zelf moet inrichten: bij Easee loopt de koppeling met dynamische leveranciers het meest rechtstreeks, bij Wallbox en Alfen komt er vaker een extra module of een eigen energiemanagementsysteem aan te pas. Controleer altijd op de site van je leverancier welke laadpalen actueel ondersteund worden.'
+  a: 'Alle drie kunnen via OCPP door een externe partij worden aangestuurd, en dat is de route die dynamische leveranciers gebruiken. Het verschil zit in hoeveel je zelf moet inrichten: het aantal laadpalen dat een Nederlandse dynamische leverancier kant-en-klaar ondersteunt verschilt per leverancier, en bij Alfen loopt sturing voor consumenten volgens de eigen documentatie via een extern energiemanagementsysteem. Welke merken en modellen vandaag ondersteund worden, staat op de site van je leverancier — controleer dat daar, want die lijsten veranderen.'
 - q: 'Heb ik een 3-fasen aansluiting nodig voor een laadpaal?'
   a: 'Nee. Alle drie de merken leveren modellen die op 1-fase werken (tot 7,4 kW) en op 3-fase (tot 22 kW). Bij een 1-fase-aansluiting van 1x25A laad je met een lager ingesteld vermogen; bij 3x25A kom je op 11 kW. Voor de meeste huishoudens is 7,4 kW ruim voldoende: dat vult een gemiddelde accu in een nacht ruimschoots bij.'
 - q: 'Wat is load balancing en waarom is het belangrijk?'
@@ -103,7 +103,7 @@ Alfen werkt met een dealernetwerk en vraagt installatie door een gecertificeerde
 
 Dit is het grootste functionele verschil tussen de drie, en het punt dat het meeste geld scheelt.
 
-**Easee**: koppelt het meest rechtstreeks met Nederlandse dynamische leveranciers en laadt automatisch in de goedkoopste uren binnen een deadline die je zelf instelt.
+**Easee**: ondersteunt volgens de eigen documentatie laden binnen een zelf ingestelde deadline en aansturing via OCPP, wat het geschikt maakt voor sturing door een dynamische leverancier. Of jouw leverancier het model ondersteunt, staat op de site van die leverancier.
 
 **Wallbox**: sturing op prijs loopt via OCPP en een externe prijsbron; scheduling werkt, maar er komt meer instelwerk bij kijken.
 
@@ -165,26 +165,30 @@ Bij grotere afstanden groeit de benodigde kabeldoorsnede mee, anders loopt de sp
 
 ## Rekenvoorbeeld: een jaar thuisladen versus publiek laden
 
-Een modelberekening met expliciete aannames (geen meting): een middelgrote EV met circa 22.000 km per jaar, een dynamisch contract en zonnepanelen. De maandprijzen volgen het gebruikelijke seizoenspatroon van de EPEX-markt: laag in de zomer, hoog in de winter. Publiek laden is in het model gerekend op €0,40/kWh.
+Een modelberekening met expliciete aannames (geen meting): een middelgrote EV die circa 4.790 kWh per jaar thuis laadt (ruwweg 22.000 km), op een dynamisch contract, met sturing naar de nachturen.
 
-| Maand | kWh geladen | Gem. prijs €/kWh (aanname) | Kosten thuis | Kosten publiek |
-|---|---|---|---|---|
-| April | 380 | €0,18 | €68 | €152 |
-| Mei | 290 | €0,12 | €35 | €116 |
-| Juni | 310 | €0,09 | €28 | €124 |
-| Juli | 340 | €0,11 | €37 | €136 |
-| Augustus | 320 | €0,13 | €42 | €128 |
-| September | 350 | €0,17 | €60 | €140 |
-| Oktober | 410 | €0,21 | €86 | €164 |
-| November | 470 | €0,28 | €132 | €188 |
-| December | 520 | €0,32 | €166 | €208 |
-| Januari | 540 | €0,35 | €189 | €216 |
-| Februari | 480 | €0,29 | €139 | €192 |
-| Maart | 380 | €0,22 | €84 | €152 |
+Belangrijk bij het lezen van de tabel: de kolom **markt** is alleen de beursprijs incl. btw. Wat je betaalt is **all-in**, en daar zitten de energiebelasting (€0,11085 per kWh incl. btw) en onze opslag-aanname (€0,044 per kWh incl. btw) bovenop — samen €0,155 per kWh. Een maandprijs van 9 of 12 cent all-in is dus onmogelijk: onder €0,155 kom je nooit, ook niet bij een marktprijs van nul. De maandelijkse marktwaarden hieronder zijn gelabelde aannames die het gebruikelijke seizoenspatroon volgen (laag in de zomer, hoog in de winter), met een nachtafslag omdat er 's nachts geladen wordt. Publiek laden is in het model gerekend op €0,40/kWh — ook een gelabelde aanname, want publieke tarieven verschillen sterk per aanbieder en per pas.
 
-**Uitkomst van dit model**: 4.790 kWh, circa €1.066 thuis tegenover circa €1.916 publiek — een verschil van ongeveer €850 per jaar.
+| Maand | kWh geladen | Markt €/kWh (aanname, incl. btw) | All-in €/kWh | Kosten thuis | Kosten publiek |
+|---|---|---|---|---|---|
+| April | 380 | €0,045 | €0,200 | €76 | €152 |
+| Mei | 290 | €0,035 | €0,190 | €55 | €116 |
+| Juni | 310 | €0,025 | €0,180 | €56 | €124 |
+| Juli | 340 | €0,035 | €0,190 | €65 | €136 |
+| Augustus | 320 | €0,045 | €0,200 | €64 | €128 |
+| September | 350 | €0,055 | €0,210 | €74 | €140 |
+| Oktober | 410 | €0,070 | €0,225 | €92 | €164 |
+| November | 470 | €0,085 | €0,240 | €113 | €188 |
+| December | 520 | €0,100 | €0,255 | €133 | €208 |
+| Januari | 540 | €0,110 | €0,265 | €143 | €216 |
+| Februari | 480 | €0,095 | €0,250 | €120 | €192 |
+| Maart | 380 | €0,060 | €0,215 | €82 | €152 |
 
-Twee dingen bepalen die uitkomst volledig: het tarief van de publieke laadpalen die je nu gebruikt (dat varieert sterk per aanbieder) en hoeveel van je laden je daadwerkelijk naar de goedkoopste uren kunt verschuiven. Vul je eigen jaarkilometrage en je eigen publieke tarief in, en de uitkomst verandert mee.
+**Uitkomst van dit model**: 4.790 kWh voor circa €1.071 thuis, tegenover circa €1.916 bij publiek laden op €0,40 — een verschil van ongeveer €845 per jaar. Het gewogen gemiddelde komt uit op €0,224 per kWh, dicht bij de €0,220 waarmee wij op deze site rekenen voor EV-laden in de nacht.
+
+Reken je thuisladen af tegen onze vaste-contractreferentie van €0,32 all-in, dan kost hetzelfde volume €1.533. Het voordeel van slim laden op een dynamisch contract komt daarmee op circa €460 per jaar; bij een vast tarief van €0,28 (€1.341) blijft er circa €270 over.
+
+Twee dingen bepalen de uitkomst volledig: het tarief waartegen je nu laadt, en hoeveel van je laden je daadwerkelijk naar de goedkope uren kunt verschuiven. Vul je eigen jaarvolume en je eigen tarief in en de uitkomst verandert mee.
 
 ## Voor wie is welk merk?
 
@@ -208,7 +212,7 @@ Twee dingen bepalen die uitkomst volledig: het tarief van de publieke laadpalen 
 
 ## De rekensom per situatie
 
-**Particulier met dynamisch contract.** Zet in je eigen som de all-in offerte (hardware, load balancing, installatie) tegenover de jaarlijkse besparing uit het rekenmodel hierboven. Bij een besparing in de orde van €600 per jaar en een all-in offerte rond de €1.300 kom je op een terugverdientijd van iets meer dan twee jaar. Rijd je minder dan 10.000 km per jaar, dan halveert die besparing en verdubbelt de terugverdientijd.
+**Particulier met dynamisch contract.** Zet in je eigen som de all-in offerte (hardware, load balancing, installatie) tegenover de jaarlijkse besparing uit het rekenmodel hierboven. Voor de investering houdt Milieu Centraal een richtprijs van circa €1.300 tot €2.200 aan voor een thuislaadpunt inclusief installatie; een eigen bedrag noemen wij niet, omdat de fabrikanten geen consumentenprijzen publiceren. Waar je de besparing tegen afzet, maakt veel uit: kwam je van publiek laden op €0,40, dan is het voordeel in het model hierboven circa €845 per jaar en is de investering in ongeveer anderhalf tot tweeënhalf jaar terug. Vergelijk je thuisladen op dynamisch met thuisladen op een vast contract van €0,32, dan gaat het om circa €460 per jaar en loopt de terugverdientijd op naar ongeveer drie tot vijf jaar. Rijd je de helft van de kilometers, dan halveert de besparing en verdubbelt die terugverdientijd.
 
 **Zakelijk of lease.** Dan is een MID-gecertificeerde meter vaak een harde eis voor de kilometer- en kostenadministratie. Dat maakt een MID-uitvoering de logische keuze, ongeacht de meerprijs — de administratie-eis weegt dan zwaarder dan het laadrendement.
 
@@ -216,7 +220,7 @@ Twee dingen bepalen die uitkomst volledig: het tarief van de publieke laadpalen 
 
 ## Conclusie
 
-De hardware van deze drie merken doet in 2026 grotendeels hetzelfde. Het onderscheid zit in de sturing en in de installatie: Easee vraagt het minste inrichtwerk voor dynamisch laden, Wallbox vraagt een extra module voor solar charging en load balancing, en Alfen is het sterkst waar een MID-meter een eis is.
+De hardware van deze drie merken doet in 2026 grotendeels hetzelfde. Het onderscheid zit in de sturing en in de installatie: Wallbox vraagt een aparte module (Power Boost) voor solar charging en load balancing, Alfen vraagt installatie via een gecertificeerde dealer en regelt sturing buiten de laadpaal om, en Easee werkt met een modulaire backplate plus de Equalizer. Welk merk het minste inrichtwerk vraagt voor dynamisch laden, hangt af van wat jouw leverancier ondersteunt.
 
 Laat je keuze daarom niet bepalen door een prijs uit een vergelijking — die publiceren de fabrikanten niet — maar door drie all-in offertes voor jouw meterkast, jouw kabellengte en de sturing die je daadwerkelijk gaat gebruiken.
 
@@ -232,7 +236,7 @@ Voor particuliere laadpalen is er geen landelijke subsidie: de ISDE heeft laadpa
 
 Voor zelfstandigen met een zakelijke EV is de laadpaal een bedrijfsmiddel: naast de gewone afschrijving kunnen investeringsaftrekregelingen (KIA, en MIA als de laadpaal op de actuele Milieulijst staat) extra voordeel geven. De percentages en voorwaarden wijzigen jaarlijks, dus reken met de actuele tabellen van de Belastingdienst en RVO. De btw van 21% is terug te vorderen voor zover de laadpaal zakelijk wordt gebruikt; laat je boekhouder de verdeling bepalen. Let op: het 0%-btw-tarief voor zonnepanelen dekt een laadpaal niet.
 
-Voor nieuwbouw geldt een voorinstallatie-eis voor laadinfrastructuur (een loze leiding van meterkast naar parkeerplaats). Controleer bij oplevering of de aangelegde leiding en doorsnede het vermogen aankunnen dat je later wilt laden; achteraf herstellen is aanzienlijk duurder.
+Voor nieuwbouw geldt in het Bbl een voorinstallatieplicht voor laadinfrastructuur, maar die hangt aan de parkeergelegenheid bij het gebouw en niet aan iedere woning: bij een gebouw met parkeergelegenheid moeten leidingdoorvoeren worden aangelegd, en boven een bepaald aantal parkeervakken gelden zwaardere eisen. De exacte drempels en de vraag of jouw situatie eronder valt, staan in het Bbl — laat je aannemer of de gemeente dat benoemen. Is er een loze leiding aangelegd, controleer dan bij oplevering of de doorsnede het vermogen aankan dat je later wilt laden; achteraf herstellen is aanzienlijk duurder.
 
 ## Veelgemaakte fouten
 
@@ -252,25 +256,26 @@ Rijd je een plug-in hybride met een klein elektrisch bereik, dan laadt die vaak 
 
 ## Rekenvoorbeeld: veelrijder met zonnepanelen
 
-Een tweede modelberekening met andere aannames: een EV met 18.000 km per jaar en twaalf zonnepanelen, en een all-in offerte van circa €1.290 inclusief load balancing en installatie.
+Een tweede modelberekening, met dezelfde aannames als hierboven maar een kleiner volume: een EV met 18.000 km per jaar. Bij hetzelfde verbruik per kilometer als in het model hierboven (4.790 kWh op 22.000 km, dus circa 0,218 kWh/km) is dat ongeveer 3.900 kWh per jaar. Voor de investering rekenen wij met de Milieu Centraal-richtprijs van €1.300-€2.200 all-in.
 
-- Publiek laden van dat volume bij €0,40/kWh: circa €1.700-€1.850 per jaar
-- Thuis laden op dal- en zonne-uren bij een gemiddelde van €0,13-€0,15/kWh: circa €600-€700 per jaar
-- Verschil in dit model: ruwweg €1.100-€1.200 per jaar, dus een terugverdientijd van ruim een jaar
+- Publiek laden van dat volume op €0,40/kWh (aanname): circa €1.560 per jaar
+- Thuis laden op nachturen tegen het gewogen gemiddelde uit het model, €0,224 all-in: circa €874 per jaar
+- Verschil in dit model: circa €690 per jaar, dus een terugverdientijd van ongeveer twee tot ruim drie jaar
+- Vergelijk je met thuisladen op een vast contract van €0,32 (€1.248), dan is het verschil circa €375 per jaar
 
-De reden dat dit gunstig uitpakt, is niet de laadpaal zelf maar het verschil tussen het publieke tarief en het daltarief thuis. Laad je nu al grotendeels bij een werkgever of met een goedkope laadpas, dan valt dat verschil weg en verandert de rekensom volledig.
+De reden dat de publieke vergelijking zo gunstig uitpakt, is niet de laadpaal zelf maar het verschil tussen het publieke tarief en het nachttarief thuis. Laad je nu al grotendeels bij een werkgever of met een goedkope laadpas, dan valt dat verschil weg en blijft alleen de vergelijking met het vaste tarief over.
 
 Naast de kosten telt een praktisch punt dat in geen enkele berekening staat: de auto staat 's ochtends vol, zonder omrijden naar een publieke lader.
 
 ## Wat je in het eerste jaar kunt verwachten
 
-Uit installatiehandleidingen en gebruikersfora komen drie punten die het vaakst terugkeren:
+Drie punten die uit de installatie- en gebruikershandleidingen van deze laadpalen volgen, en die bij de eerste weken horen:
 
 **Solar charging voelt eerst als een storing.** Bij wisselende bewolking start en stopt de laadsessie continu, omdat het overschot boven en onder de minimale laadstroom schommelt. Dat is normaal gedrag. Wil je dat niet, stel dan een minimale laadstroom of een langere schakeltijd in.
 
 **Load balancing heeft een inregelperiode.** Een load balancer moet je huishoudprofiel leren kennen voordat hij het laadvermogen soepel bijstuurt. Reken op enkele dagen waarin het laadvermogen sterker heen en weer beweegt.
 
-**Firmware-frequentie verschilt per merk.** Vaker updaten betekent sneller nieuwe functies, maar ook meer kans om een release met een regressie te treffen; minder vaak updaten betekent een stabieler maar functioneel statischer apparaat. Vraag bij de aanschaf hoe updates worden uitgerold en of je ze kunt uitstellen.
+**Updates komen bij alle drie via de cloud binnen.** Hoe vaak dat gebeurt, publiceren de fabrikanten niet in een vergelijkbare vorm, dus daar doen wij geen uitspraak over. Vraag bij de aanschaf wel hoe updates worden uitgerold, of je ze kunt uitstellen en of de paal blijft laden als de internetverbinding wegvalt.
 
 ---
 

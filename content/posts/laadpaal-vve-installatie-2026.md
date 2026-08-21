@@ -46,6 +46,12 @@ Een laadpaal bij een eigen woning is een offerte en een dag werk. In een VvE is 
 
 Dit artikel loopt het traject door in de volgorde waarin je het moet aanpakken: eerst uitzoeken wat er technisch kan, dan het besluit, dan de uitvoering. Wij noemen bewust geen vaste bedragen per gemeente of provincie: die regelingen wisselen per jaar en per ronde, en een verkeerd bedrag in je ALV-presentatie kost je geloofwaardigheid.
 
+> **Kort antwoord:** begin niet bij de ledenvergadering maar bij de netbeheerder. De capaciteit van de aansluiting van het complex en de levertijd van een eventuele verzwaring bepalen je planning; alles daarna kun je parallel laten lopen.
+>
+> Er bestaat geen "Wet VvE-laadpalen": de vergadering van eigenaars beslist over de gemeenschappelijke gedeelten, en welk besluit je nodig hebt staat in je splitsingsakte en het modelreglement. De VvE moet een weigering wel inhoudelijk kunnen motiveren.
+>
+> Kies lastbalancering (voorkomt vaak een verzwaring) en een paal met OCPP (voorkomt vendor lock-in), leg lege buizen aan voor meer punten dan je nu plaatst en regel individuele meting. Voor subsidie is de SVVE van RVO de eerste plek om te kijken; bedragen wisselen per ronde, dus neem geen bedrag uit een artikel in je ALV-stuk over. Doorlooptijd: enkele maanden zonder verzwaring, een jaar of meer met.
+
 ## Wat er juridisch wél en niet geldt
 
 Laten we eerst een misverstand opruimen dat op veel sites staat: **er is geen "Wet VvE-laadpalen"**. Wat er wel is:
