@@ -1,8 +1,9 @@
 ---
-title: EcoFlow Delta Pro Ultra review 2026 — whole-home backup
+title: 'EcoFlow Delta Pro Ultra review 2026: whole-home backup uit één systeem'
 date: 2026-11-15 08:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
-description: De EcoFlow Delta Pro Ultra is het topmodel voor whole-home backup en off-grid. Specificaties, kosten, arbitrage-potentieel en voor wie hij wel of niet logisch is.
+lastmod: 2026-08-21 08:00:00+02:00
+description: 'EcoFlow Delta Pro Ultra beoordeeld op de fabrieksspecificaties: 6 kWh per unit tot 30 kWh, 6.900 W continu, 5.600 W zonne-input, 20 ms UPS en vijf laadbronnen. Voor wie backup zwaarder weegt dan arbitrage.'
+draft: false
 categories:
 - thuisbatterijen
 - noodstroom
@@ -24,389 +25,196 @@ affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1542601906990-b4d3fb778b09&w=1200&output=webp&q=70
+schema_type: Review
 faq:
 - q: 'Wat is de EcoFlow Delta Pro Ultra?'
-  a: 'Het topmodel van EcoFlow voor whole-home backup. Modulair van 6 kWh tot 90 kWh per unit, en tot 3 units parallel (270 kWh). 7,2 kW continu vermogen per unit, 21,6 kW bij 3 parallel. Hybride solar + grid + generator input. Gericht op off-grid en serieuze backup.'
-- q: 'Wat kost de EcoFlow Delta Pro Ultra?'
-  a: 'Basisunit 6 kWh: €4.495. Uitgebreid tot 18 kWh: €8.995. Volledig systeem 30 kWh + omvormer: €12.995-€14.995. Inclusief installatie iets duurder dan andere thuisbatterijen, maar de off-grid functionaliteit is uniek in dit prijssegment.'
-- q: 'Voor wie is de Delta Pro Ultra logisch?'
-  a: 'Drie profielen: (1) mensen in stroomstoringsgevoelige regio of met medische apparatuur thuis, (2) (semi-)off-grid woningen (recreatiewoning, caravan-permanent), (3) preppers en autonomie-zoekers. Voor normaal NL huishouden: overkill — kies Sessy of Marstek.'
-- q: 'Werkt het als reguliere thuisbatterij met dynamisch contract?'
-  a: 'Ja, sinds firmware 4.2 (oktober 2026) ondersteunt EcoFlow API-koppeling met Tibber en Frank. Eigen handelsalgoritme nog primitief — €60-€90/mnd verdienpotentieel bij 18 kWh. Fors minder dan Sessy of Anker. Hoofdaanbod is backup, niet arbitrage.'
-- q: 'Hoe lang houdt het systeem een huis draaiend bij stroomuitval?'
-  a: 'Bij 18 kWh + gemiddeld huishoudverbruik (1,5 kW continu): ongeveer 12 uur. Met zonnepanelen die overdag herladen: meerdere dagen. Voor whole-home backup tijdens lange storingen: kies 30+ kWh configuratie.'
-- q: 'Heb ik 3-fase nodig?'
-  a: 'Niet verplicht. De Delta Pro Ultra werkt op 1-fase 1x35A standaard. Bij 2-3 units parallel en zware woningen: 3-fase aanbevolen. Flexibeler dan Sessy Pro of Marstek Jupiter wat aansluiting betreft.'
-- q: 'Is dit echt off-grid mogelijk?'
-  a: 'Ja, in combinatie met 12-20 zonnepanelen en optioneel een generator. Voor permanente off-grid bewoning in NL: technisch haalbaar maar economisch zelden zinvol (saldering werkt nog steeds, netaansluiting is in NL goedkoop). Voor recreatiewoningen zonder netaansluiting: ideaal.'
-- q: 'Hoeveel ruimte heeft het systeem nodig?'
-  a: 'Modulair, dus footprint groeit. Basisunit 70x50x80 cm. Volledig 18 kWh systeem: ongeveer 1,5 m². Wand- of vloermontage. Geluid: 35-40 dB bij hoge belasting (luider dan Sessy/Marstek), zachter bij stand-by.'
-products:
-- name: EcoFlow Delta Pro Ultra 18 kWh
-  url: https://go.duurzaamthuislab.nl/ecoflow
-  price: '8995'
-- name: EcoFlow Delta Pro Ultra 30 kWh whole-home
-  url: https://go.duurzaamthuislab.nl/ecoflow
-  price: '13995'
-- name: Tibber dynamisch contract
-  url: https://go.duurzaamthuislab.nl/tibber
-  price: '6'
-schema_type: Review
+  a: 'Het zwaarste woningsysteem van EcoFlow: een modulaire opstelling van 6 kWh per batterij, uit te breiden tot 30 kWh met vijf stapelbare units. Het levert 6.900 W continu op 230 V eenfase en is primair ontworpen voor backup van een hele woning en voor off-grid gebruik.'
+- q: 'Hoeveel kan ik uitbreiden?'
+  a: 'EcoFlow noemt op de eigen productpagina 6 kWh per batterij en een maximum van 30 kWh met vijf stapelbare units. Getallen als 90 of 270 kWh die op vergelijkingssites circuleren, komen niet uit die specificatie.'
+- q: 'Hoeveel zonne-input kan het systeem aan?'
+  a: 'EcoFlow geeft 5.600 W maximale zonne-input op, verdeeld over een hoogvolt-ingang (450 V, 15 A, 4.000 W) en een laagvolt-ingang (150 V, 15 A, 1.600 W).'
+- q: 'Hoe snel schakelt het over bij een stroomstoring?'
+  a: 'EcoFlow geeft 20 milliseconden op voor de UPS-functie. Dat is kort genoeg dat computers, netwerkapparatuur en koelinstallaties niet herstarten.'
+- q: 'Hoeveel garantie krijg ik?'
+  a: 'EcoFlow geeft 5 jaar garantie en noemt een verwachte levensduur van 10 jaar bij 3.500-plus cycli per batterij. Merk op dat garantietermijn en levensduurverwachting twee verschillende dingen zijn: alleen het eerste is afdwingbaar.'
+- q: 'Hoeveel lawaai maakt het systeem?'
+  a: 'EcoFlow geeft 0 dB op bij een belasting onder 2.000 W — de koeling slaat dan niet aan. Bij zwaardere belasting is de ventilatie hoorbaar; een decibelwaarde daarvoor publiceert EcoFlow niet, en wij meten zelf niet.'
+- q: 'Heb ik een 3-fase aansluiting nodig?'
+  a: 'Nee. De uitvoering voor de Europese markt is eenfase op 230 V. Of jouw meterkast en hoofdzekering de installatie aankunnen, moet je installateur beoordelen.'
+- q: 'Krijg ik subsidie op dit systeem?'
+  a: 'Particulieren niet: er is geen landelijke subsidie voor thuisbatterijen, en op de batterij betaal je 21 procent btw. Ondernemers kunnen bij zakelijk gebruik in aanmerking komen voor de EIA, die in 2026 40 procent extra aftrek van de winst geeft mits het systeem op de actuele Energielijst van RVO staat.'
 ---
+Wie in een storingsgevoelig gebied woont, kent het scenario: een storing van acht of veertien uur, een vriezer die ontdooit, een warmtepomp die uit staat. De meeste thuisbatterijen zijn daar niet voor gebouwd — die voeden bij uitval alleen een aparte noodgroep. De Delta Pro Ultra is een van de weinige systemen die primair op backup en off-grid is ontworpen, met besparing op de energierekening als bijzaak.
 
-*Disclosure: deze pagina bevat affiliate-links. Als je via een van deze links iets koopt of een contract afsluit, ontvangen wij een kleine vergoeding zonder dat dit voor jou meer kost. Wij schrijven alleen over producten die we grondig onderzocht hebben op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+Deze review is opgebouwd uit de specificaties die EcoFlow zelf publiceert op ecoflow.com/eu (opgehaald op 21 augustus 2026). Wij hebben dit systeem niet geïnstalleerd, niet doorgemeten en geen storing nagebootst. Waar wij een oordeel geven, is dat een redactionele afweging op basis van die specificaties.
 
-Wie in een storingsgevoelige regio woont, kent het scenario: een storing van acht of veertien uur, vriezer die ontdooit, warmtepomp die uit staat. De meeste thuisbatterijen zijn daar niet voor gebouwd — die voeden bij uitval alleen een aparte noodgroep. De EcoFlow Delta Pro Ultra is dat wel: een systeem dat primair voor whole-home backup en off-grid is ontworpen, met arbitrage als bijzaak.
+*Disclosure: deze pagina bevat affiliate-links naar EcoFlow via het AWIN-netwerk. Koop je via zo'n link, dan ontvangen wij een vergoeding zonder extra kosten voor jou. Dat verandert niets aan de specificaties hieronder — waar EcoFlow iets niet publiceert, schrijven wij dat op.*
 
-Wij vergelijken de Delta Pro Ultra op basis van de fabrieksspecificaties, de installatie- en firmwaredocumentatie van EcoFlow, geverifieerde gebruikersreviews en publieke data van Netbeheer Nederland over storingsduur per regio.
+> **Kort antwoord:** de Delta Pro Ultra is een eenfase systeem van 6 kWh per batterij tot 30 kWh, met 6.900 W continu vermogen, 5.600 W zonne-input en vijf manieren om te laden, waaronder een generator.
+>
+> Dat maakt hem sterk voor backup van een hele woning en voor off-grid. Wie een batterij vooral koopt om op uurprijzen te besparen, betaalt hier voor eigenschappen die daar niet aan bijdragen.
 
----
+## Specificaties volgens EcoFlow
 
-> **Kort antwoord:** De EcoFlow Delta Pro Ultra is het topmodel voor whole-home backup en off-grid. Hij is duurder dan reguliere thuisbatterijen, maar levert echte autonomie bij stroomstoringen. Voor mensen in storingsgevoelige regio's of off-grid huisjes: serieuze investering. Voor normaal NL huishouden: overkill.
+| Specificatie | Waarde |
+|---|---|
+| Capaciteit per batterij | 6 kWh |
+| Maximale uitbreiding | 30 kWh (5 stapelbare units) |
+| Celchemie | LFP |
+| Netaansluiting | 1-fase, 230 V |
+| Continu AC-uitgangsvermogen | 6.900 W (230 V / 30 A) |
+| Maximale zonne-input | 5.600 W totaal |
+| — hoogvolt-ingang | 450 V, 15 A, 4.000 W |
+| — laagvolt-ingang | 150 V, 15 A, 1.600 W |
+| Maximaal laadvermogen | 8.800 W |
+| Laadtijd tot 80% | circa 1 uur |
+| UPS-omschakeltijd | 20 ms |
+| Geluid onder 2.000 W belasting | 0 dB |
+| Cyclusopgave | 3.500+ cycli per batterij |
+| Verwachte levensduur | 10 jaar |
+| Garantie | 5 jaar |
+| Bedrijfstemperatuur | circa −20 tot +45 °C |
+| Beschermingsklasse | IP54 |
+| Laadbronnen | net, zon, laadpaal, generator, gecombineerd |
 
-## Wat is de EcoFlow Delta Pro Ultra?
+Drie punten die op vergelijkingssites vaak verkeerd gaan. **De maximale capaciteit is 30 kWh**, niet 90 of 270 — dat laatste komt uit een oudere of andersoortige configuratie en staat niet in de huidige EU-specificatie. **Het continu vermogen is 6.900 W**, niet 7,2 kW. En **de zonne-input is 5.600 W**, niet 16 kW.
 
-EcoFlow is een Chinees-Amerikaanse fabrikant die in 2017 begon met portable power stations (camping, caravan) en in 2024-2025 doorgroeide naar serieuze whole-home systemen. De Delta Pro Ultra is hun topmodel:
+Het opvallendste getal is de 0 dB onder 2.000 W: onder die belasting slaat de koeling niet aan. Boven die grens is de ventilatie hoorbaar, maar EcoFlow publiceert daar geen decibelwaarde voor en wij meten zelf niet. Wie het systeem in of naast een woonruimte wil plaatsen, moet daarom uitgaan van hoorbaar geluid bij zware belasting.
 
-- **Capaciteit per unit**: 6 kWh basis, modulair tot 90 kWh
-- **Maximaal**: 3 units parallel = 270 kWh
-- **Vermogen continu**: 7,2 kW per unit, 21,6 kW bij 3 parallel
-- **Aansluiting**: 1-fase (standaard) of 3-fase (uitgebreide installatie)
-- **Inputs**: grid, solar (16 kW MPPT), generator
-- **Garantie**: 5 jaar product (uitbreidbaar naar 10 met service-contract), 80% capaciteit behoud na 4000 cycli
-- **Software**: EcoFlow-app, API voor dynamische contracten
-- **Geluid**: 35-40 dB bij belasting
+## Wat dit systeem onderscheidt
 
-EcoFlow positioneert dit niet als "thuisbatterij voor arbitrage", maar als "backup + off-grid + arbitrage als bonus". Belangrijk onderscheid.
+### Backup van het hele huis, niet alleen een noodgroep
 
-## Referentieprofiel voor dit artikel
+De meeste thuisbatterijen voeden bij netuitval een aparte backupgroep: koelkast, verlichting, router. Met 6.900 W continu kan de Delta Pro Ultra een aanzienlijk deel van een woning dragen, inclusief zwaardere verbruikers, zolang je binnen dat vermogen en de beschikbare capaciteit blijft.
 
-De berekeningen verderop gaan uit van één modelprofiel. Het is een rekenvoorbeeld, geen gemeten praktijkgeval:
+Dat is een reëel verschil. Bij een noodgroep-oplossing valt de verwarming meestal wel uit; bij dit systeem hoeft dat niet. Wat je precies op de backupzijde zet, bepaal je bij de installatie — laat dat vastleggen in de offerte, want dat is de beslissing die bepaalt wat er tijdens een storing werkt.
 
-- Vrijstaande woning in een storingsgevoelige regio (Noord-Nederland)
-- 22 zonnepanelen op zuid-dak (8 kWp)
-- Verbruik: 5.500 kWh/jaar (huishouden van 3, warmtepomp, vriezer, thuiswerkplek)
-- 1-fase aansluiting 1x40A, geen elektrische auto
-- Eis: backup van het hele huis voor minimaal 24 uur
-- Dynamisch contract
+### Vijf laadbronnen
 
-Bij dit profiel is de 18 kWh-configuratie (3 × 6 kWh) de logische keuze: genoeg om een gemiddeld huishoudverbruik van circa 1,5 kW ruwweg twaalf uur te dragen, en met zonnepanelen die overdag bijladen meerdere dagen.
+Net, zon, generator, een laadpaal en combinaties daarvan. Die generator-optie is voor langdurige storingen en voor off-grid het verschil tussen een systeem dat op is en een systeem dat doorgaat.
 
-## Arbitrage-potentieel: het zwakke punt
+Let wel op wat EcoFlow er zelf bij zegt: het systeem is compatibel met handmatige overschakelaars vanaf 40 A. Een overschakelaar is dus niet per definitie overbodig — laat je installateur bepalen wat jouw situatie vraagt en wat dat kost, in plaats van uit te gaan van "zit erin".
 
-EcoFlow noemt de Delta Pro Ultra zelf een backup- en off-gridsysteem, en dat is terug te zien in het handelsalgoritme. De "Smart Energy"-strategie is conservatief: het systeem laadt en ontlaadt op dag-nachtverschillen, maar benut de scherpe uurpieken minder agressief dan de Nederlandse concurrentie. Op basis van de door aanbieders gecommuniceerde opbrengsten en gebruikersrapportages ligt het verdienpotentieel bij 18 kWh in de orde van €60-€90 per maand, tegen €120-€180 bij Sessy Pro, Anker Solix X1 of Marstek Jupiter met vergelijkbare capaciteit.
+### 20 milliseconden
 
-Dat verschil is geen detail: over tien jaar loopt het op tot enkele duizenden euro's. Wie een batterij vooral koopt om te handelen op de spotmarkt, moet hier niet zijn. Wie hem koopt om bij uitval het hele huis draaiend te houden, betaalt bewust voor iets anders.
+Bij netuitval schakelt het systeem binnen 20 milliseconden om. Computers, servers, netwerkapparatuur en medische hulpmiddelen blijven aan zonder herstart.
 
-## Wat de Delta Pro Ultra uniek maakt
+### Snel bijladen
 
-### 1. Whole-home backup, niet "essentiële groepen"
+8.800 W laadvermogen en circa een uur tot 80 procent betekent dat je het systeem tussen twee storingen door snel weer op peil hebt — en dat je bij een aangekondigde storm of hittegolf kort van tevoren kunt volladen.
 
-De meeste thuisbatterijen (Sessy, Marstek, Tesla) voeden bij stroomuitval een aparte backup-groep — meestal koelkast, lampen, router. De Delta Pro Ultra kan het hele huis voeden, inclusief warmtepomp, inductie, wasdroger. Tot 7,2 kW continu.
+### Modulair en verplaatsbaar
 
-In de praktijk betekent dat: bij een langdurige storing blijven warmtepomp, vriezer en kookvoorziening werken, zolang je binnen de 7,2 kW piekvermogen en de beschikbare capaciteit blijft. Bij een noodgroep-oplossing van andere fabrikanten valt de verwarming meestal wel uit.
+De basisunit is met een trolley te verplaatsen, wat bij een vast geïnstalleerde thuisbatterij ongebruikelijk is. Voor wie het systeem incidenteel naar een recreatiewoning wil meenemen, is dat relevant; voor een permanente huisinstallatie is het vooral handig bij montage en service.
 
-### 2. Modulair tot 270 kWh
+## Waar dit systeem minder sterk in is
 
-Theoretisch kun je een week zonder net leven met 3 units (270 kWh). Voor de meeste NL situaties overkill, maar voor recreatiewoningen zonder netaansluiting of preppers: relevant.
+**Besparen op de energierekening is niet waar het voor gemaakt is.** EcoFlow positioneert de Delta Pro Ultra als backup- en off-gridsysteem. De sturing is daarop ingericht: het systeem houdt reserve achter de hand voor een eventuele storing, en dat is precies de capaciteit die je bij zuivere prijsoptimalisatie zou willen inzetten. Wie alleen op uurprijzen wil sturen, kiest een systeem dat daarvoor is gebouwd.
 
-### 3. Multi-input (solar + grid + generator)
+**De garantie is korter.** Vijf jaar, tegenover tien bij verschillende concurrenten. De verwachte levensduur van tien jaar is een andere grootheid en geeft je bij een claim niets.
 
-Naast zonnepanelen kun je een benzine- of diesel-generator aansluiten als laatste-redmiddel. Voor permanente off-grid situaties of langdurige storingen: extra zekerheid.
+**Ruimte.** Een modulair systeem groeit. Reken op ruimte voor de units plus de vrije ruimte rondom die de handleiding voorschrijft. Voor een appartement of een krappe technische ruimte is dat een reëel obstakel.
 
-### 4. UPS-modus (omschakeltijd <20 ms)
+**Serviceketen.** EcoFlow is een internationaal georganiseerde fabrikant zonder het dichte Nederlandse monteursnetwerk dat sommige lokale merken hebben. Vraag vooraf wie de garantie afhandelt, wie de melding bij de netbeheerder doet en wat de doorlooptijd is bij een defect. Dat is bij dit merk een belangrijker vraag dan de hardware zelf.
 
-Bij stroomuitval schakelt het systeem binnen 20 milliseconden om. Computers, servers, medische apparatuur (CPAP, dialyse) blijven aan zonder herstart. Sessy en Marstek hebben dit ook, maar EcoFlow doet het iets sneller (Sessy: 30 ms).
+**Geen ingebouwd laadpunt voor de auto.** Het systeem kan wél vanuit een laadpaal geladen worden, maar het heeft geen eigen laadstekker. Wil je thuis laden, dan heb je een aparte laadpaal nodig.
 
-### 5. Mobile + draagbaar potentieel
+## Prijs
 
-De basisunits zijn (met inspanning) verplaatsbaar. Voor mensen die het systeem ook af en toe in een caravan of recreatiewoning willen gebruiken: theoretisch mogelijk. Andere thuisbatterijen zijn vastgebouwd.
+EcoFlow publiceert op de Europese productpagina geen consumentenprijs voor de Delta Pro Ultra; die hangt af van de configuratie en van de leverancier. Bedragen die op vergelijkingssites circuleren zijn **marktrichtprijzen zonder fabrikantsbron**.
 
-### 6. Generator-input zonder externe transferschakelaar
+Vraag daarom een uitgesplitste offerte op waarin apart staat: het aantal batterijunits, de omvormer- of hoofdunit, de meterkast- en groepenaanpassing, de arbeid en eventuele overschakelaar. Alleen dan kun je vergelijken met een alternatief.
 
-Veel concurrenten vereisen een dure transferschakelaar (€800-€1.500) om een generator veilig aan te sluiten. De Delta Pro Ultra heeft die ingebouwd.
+Ter oriëntatie op de andere kant van de markt: Charged publiceert voor Sessy wél prijzen — €3.550 voor 5 kWh, €5.500 voor 10 kWh en €9.400 voor de Plus met 15 kWh, inclusief btw en exclusief installatie, met een basisinstallatie met noodstroom op €1.200 (prijspeil augustus 2026). Dat is een systeem met een heel andere insteek, maar het geeft een referentiepunt voor wat opslag in Nederland kost.
 
-## Wat de Delta Pro Ultra minder doet
+## Vergelijking op karakter, niet op prijs
 
-### 1. Arbitrage is matig
-
-Dit is de grootste limiet, en de reden waarom dit systeem geen arbitrage-aankoop is. Het verschil met de Nederlandse concurrentie loopt volgens de gecommuniceerde opbrengstindicaties op tot €60-€90 per maand bij vergelijkbare capaciteit — op jaarbasis honderden euro's, over de levensduur enkele duizenden. **Voor wie alleen arbitrage wil**: kies Sessy Pro of Marstek Jupiter.
-
-### 2. Garantie korter
-
-EcoFlow biedt standaard 5 jaar productgarantie (uitbreidbaar naar 10 met service-contract van €450). Sessy, Marstek, Anker bieden standaard 10 jaar. Voor langetermijn-investering: een nadeel.
-
-### 3. Geluid
-
-35-40 dB bij belasting is hoorbaar. Bij hoge belasting (bijv. warmtepomp + wasmachine + droger samen) zelfs duidelijk. Sessy zit op 25-28 dB, Marstek op 28-32 dB. Niet plaatsen in woonkamer.
-
-### 4. Footprint groot
-
-Modulair systeem = veel ruimte. 18 kWh: ~1,5 m². 30 kWh: ~2,2 m². Voor appartementen of krappe technische ruimtes: lastig.
-
-### 5. Service-netwerk dunner
-
-EcoFlow heeft een service-centrum in NL (Rotterdam), maar geen dichte monteurs-distributie. Bij storing: vaak ophalen + retourneren naar centrum (1-2 weken downtime). Sessy/Marstek hebben dichter NL netwerk.
-
-### 6. Software minder verfijnd
-
-EcoFlow-app werkt, maar mist de NL-marktintegratie van Sessy of de UI-kwaliteit van Tesla. Voor power-users: irritant.
-
-## EcoFlow Delta Pro Ultra vs concurrentie
-
-| Eigenschap | EcoFlow Delta Pro Ultra | Sessy Pro 15 kWh | Tesla Powerwall 3 | Anker Solix X1 |
-|---|---|---|---|---|
-| Prijs 18 kWh systeem | €8.995 | n.v.t. (Pro is 15) | n.v.t. | n.v.t. |
-| Prijs 15 kWh equivalent | €7.495 | €11.995 | €9.500 | €13.495 |
-| Vermogen continu | 7,2 kW | 5 kW | 5 kW | 12 kW |
-| Whole-home backup | Ja, native | Met aparte box | Met aparte box | Ja |
-| Off-grid capaciteit | Ja, designed | Beperkt | Beperkt | Beperkt |
-| Garantie | 5 (10 met service) | 10 jaar | 10 jaar | 10 jaar |
-| Arbitrage potentieel | €70-€90/mnd | €150-€180/mnd | €120-€150/mnd | €120-€160/mnd |
-| Generator-input | Ja, ingebouwd | Nee | Nee | Nee |
-
-**EcoFlow Delta Pro Ultra** wint op whole-home backup en off-grid.
-**Sessy Pro** wint op arbitrage en NL-marktintegratie.
-**Anker Solix X1** wint op vermogen + EV-integratie.
-
-## Modelberekening voor het referentieprofiel
-
-Onderstaande tabel is een **modelberekening** met expliciete aannames, geen gemeten resultaat. Aannames: 5.500 kWh/jaar verbruik, 22 zonnepanelen, geen EV, storingsgevoelige regio, dynamisch contract, en de arbitrage-indicatie uit de vorige paragraaf.
-
-| Bron van besparing/waarde | Modelschatting per jaar | Toelichting |
-|---|---|---|
-| EcoFlow arbitrage batterij | €840/jaar | gerekend met €70/mnd |
-| Eigen verbruik boost zonne | €680/jaar | 1.600 kWh meer eigen verbruik × €0,425 |
-| Saldering-stop voorkomen (2027+) | €600/jaar | 2.000 kWh teruglevering opgevangen |
-| Stroomstoring schade vermeden | €400/jaar | Voorraad redden + comfort + werk doorgang |
-| Geen aggregaat nodig | €150/jaar | Geen benzine + onderhoud + opslag |
-| **Totaal waarde 2027+** | **€2.670/jaar** | |
-
-Kosten EcoFlow 18 kWh: €8.995 / 8 jaar (conservatieve afschrijving) = €1.125/jaar. Plus €40/jaar verzekering = €1.165/jaar.
-
-**Netto modeluitkomst**: circa €1.500/jaar, ofwel een terugverdientijd van ruwweg 6 jaar. Let op de zwakste posten in dit model: "stroomstoring schade vermeden" en "geen aggregaat nodig" zijn schattingen van vermeden kosten, geen harde opbrengst. Reken je die niet mee, dan loopt de terugverdientijd op naar circa 8 jaar. En de post "saldering-stop voorkomen" geldt pas vanaf 2027.
-
-## Voor wie is de Delta Pro Ultra slim?
-
-✅ **Goede match**:
-- Storingsgevoelige regio (Drenthe, Friesland, Zeeland, delen van de Veluwe)
-- Medische apparatuur thuis (CPAP, dialyse, zuurstof)
-- Werk-vanuit-huis met servers/computers die altijd aan moeten
-- Recreatiewoning of huis zonder netaansluiting
-- Preppers / autonomie-zoekers
-- Bestaande zonnepanelen + behoefte aan whole-home backup
-
-❌ **Slechte match**:
-- Stedelijk NL met betrouwbare netaansluiting (<2 uur storing/jaar)
-- Focus op maximale arbitrage-opbrengst (kies Sessy Pro)
-- Klein appartement (ruimtegebrek)
-- Budget onder €7.000
-- Geen zonnepanelen (overweeg eerst panelen — zie [zonnepanelen recreatiewoning](/posts/zonnepanelen-recreatiewoning-2026/))
-
-## Installatie: wat er gebeurt
-
-Een 18 kWh-installatie kost volgens EcoFlow-partners doorgaans één werkdag met twee monteurs. Wat daarbij hoort:
-- Modulaire opbouw 3 × 6 kWh units = 18 kWh
-- Solar input koppeling
-- Generator-input voorbereiding (zonder generator zelf)
-- 1-fase woninginstallatie
-- API-koppeling met de dynamische leverancier
-- Whole-home backup-modus configuratie
-
-Een terugkerend punt in gebruikersreviews: het installatienetwerk van EcoFlow is internationaal opgezet en minder ingespeeld op Nederlandse netbeheerder-procedures dan de monteursnetwerken van Sessy of Marstek. Vraag vooraf na wie de melding bij de netbeheerder verzorgt.
-
-**Aandachtspunten vooraf**:
-- 1,5-2 m² vrije ruimte voor units + ventilatie
-- 30 cm vrije ruimte boven en achter elke unit
-- Bij solar input: bestaande omvormer compatibel checken
-- Voor generator-aansluiting: aparte aanvoer naar buiten
-
-## De EcoFlow-app: functies en beperkingen
-
-Op basis van de app-documentatie en gebruikersreviews:
-
-**Wat de app biedt:**
-- Real-time overzicht productie/verbruik/batterij
-- Multi-input dashboard (zon vs grid vs generator)
-- Stroomstoringsalert via push notificatie
-- API-koppeling met Tibber en Frank Energie
-- Battery health monitoring per module
-
-**Wat ontbreekt of zwakker is:**
-- Geen "wat heeft Smart Energy verdiend?" feel-good cijfer
-- Voorspellingsmodel ontbreekt
-- Geen Home Assistant native integratie (alleen via cloud API)
-- UI heeft Aziatische design-DNA (functioneel maar druk)
-
-## Off-grid scenarios
-
-Voor wie volledig off-grid wil (recreatiewoning, caravan-permanent, "tiny house"):
-
-**Minimum systeem**:
-- EcoFlow Delta Pro Ultra 30 kWh (5 modules)
-- 16-20 zonnepanelen (6-8 kWp)
-- Backup-generator 5 kVA (€2.500)
-- Totaalinvestering: €18.000-€22.000
-
-**Verbruiksvoorbeeld**: tiny house 2.500 kWh/jaar
-- Zonne-opbrengst: 6.500-7.500 kWh/jaar (in NL)
-- 70% direct gebruikt of opgeslagen in batterij
-- Generator-uren per jaar: 30-60 (alleen donkere winterweken)
-
-Werkelijke off-grid is in NL technisch haalbaar maar economisch zelden voordelig vs netaansluiting (vaste netkosten €240/jaar, jaarverbruik €700/jaar = €940 totaal vs €18.000 investering off-grid).
-
-## Subsidies
-
-Voor MKB: EIA-aftrek 45,5% mogelijk als de batterij voor zakelijk gebruik wordt aangeschaft.
-
-Voor recreatiewoningen / off-grid: geen specifieke subsidies, maar [ISDE-subsidie via RVO](https://www.rvo.nl/subsidies-financiering/isde) kan van toepassing zijn voor de gekoppelde warmtepomp.
-
-## Verlengde FAQ
-
-**Werkt het ook in een vakantiehuis dat 6 maanden leeg staat?**
-Ja, stand-by verbruik <5 watt. Voor permanent op afstand monitoren: EcoFlow-app werkt remote. Wel firmware-updates installeren bij elk bezoek.
-
-**Kan ik later EV-laden toevoegen?**
-Niet via de unit zelf (geen EV-laadstekker). Wel via aparte laadpaal die op het systeem aangesloten wordt. Voor EV-rijders: kies eerder Anker Solix X1.
-
-**Hoe brandveilig?**
-LiFePO4-cellen, dezelfde chemie als Sessy/Tesla/Marstek. IEC 62619, UN 38.3. Geen brandgevallen bekend. Wel: meld bij verzekeraar vooraf, soms vragen ze extra brandblusapparatuur.
-
-**Wat als EcoFlow als bedrijf failliet gaat?**
-Ankers risico: nu een veiliger bedrijf dan in 2020, maar minder gevestigd dan Sessy (Charged BV in NL gevestigd). Garantie blijft via importeur. Voorzichtig zijn als single point of failure.
-
-## EcoFlow als merk en service-ervaring
-
-EcoFlow is opgericht in 2017 door ex-DJI engineers. Sterk in product-design, snel in innovatie, maar minder in NL-marktintegratie. Wat dit voor jou betekent:
-
-**Sterke kanten**:
-- Snelle hardware-iteraties (Pro Ultra vorig jaar gelanceerd, nu al firmware 4.2)
-- Goed-ontworpen modulariteit
-- Premium uitstraling en build-quality
-- Internationale support via Engelse helpdesk
-
-**Zwakke kanten**:
-- NL-specifieke handelsalgoritmes minder verfijnd
-- Service-netwerk dunner dan Sessy
-- Update-rollouts soms vertraagd voor NL-markt
-- Garantie-aanvragen via importeur (extra schakel)
-
-Ons oordeel: de hardware is niet het risico, de serviceketen is dat. Wie de zekerheid van een dicht Nederlands monteursnetwerk belangrijker vindt dan modulariteit en generator-input, komt bij Sessy beter uit.
-
-## EcoFlow Pro Ultra vs eigen lijn: welk model past?
-
-Veel mensen verwarren EcoFlow's verschillende lijnen:
-
-| Model | Capaciteit | Doel | Prijs |
+| Eigenschap | EcoFlow Delta Pro Ultra | Sessy Plus 15 kWh | Tesla Powerwall 3 |
 |---|---|---|---|
-| [EcoFlow River 2 Pro](/posts/ecoflow-river-2-pro-review-2026/) | 0,8 kWh | Camping, draagbaar | €499 |
-| [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) | 2-6 kWh modulair | Noodstroom + camping | €1.999 |
-| Delta Pro 3 | 4-32 kWh modulair | Tussenmodel home backup | €4.495+ |
-| Delta Pro Ultra | 6-270 kWh modulair | Whole-home + off-grid | €4.495+ |
+| Capaciteit | 6 kWh per unit, tot 30 kWh | 15 kWh | 13,5 kWh |
+| Continu vermogen | 6.900 W | 1,7 kW ontladen | tot 11,04 kW AC |
+| Netaansluiting | 1-fase 230 V | 1-fase | 1-fase 230 V |
+| Backup | volledige woninglast binnen vermogen | noodstroom via basisinstallatie | backupgroepen, automatisch |
+| Off-grid ontworpen | ja | nee | nee |
+| Generator-input | ja | nee | nee |
+| Garantie | 5 jaar | 10 jaar | 10 jaar |
+| Publieke prijs | nee | ja | nee |
 
-De **Pro Ultra** is specifiek bedoeld voor permanent geïnstalleerd whole-home gebruik. De Delta 2 Max en River 2 Pro zijn portable systemen die je naast je auto kunt zetten.
+De conclusie uit die tabel is niet welk systeem "beter" is, maar dat het drie verschillende producten zijn. De Delta Pro Ultra koop je voor vermogen en autonomie, een Sessy voor eenvoud en een publieke prijs, een Powerwall voor een geïntegreerd nieuw systeem met een grote merkgarantie.
 
-## Stroomstoringsfrequentie in NL
+## Voor wie is dit systeem logisch?
 
-EcoFlow's whole-home backup is alleen relevant als je echt regelmatig stroomstoringen hebt. Cijfers volgens Netbeheer Nederland:
+**Wel kiezen als:** je in een gebied woont waar storingen langer duren dan gemiddeld; er thuis apparatuur staat die niet uit mag vallen; je een recreatiewoning of woning zonder netaansluiting hebt; je zonnepanelen hebt en whole-home backup wilt; je een generator als laatste reserve wilt kunnen aansluiten.
 
-**Stroomstoringen per regio 2025**:
-- Stedelijk West-NL (Amsterdam, Rotterdam, Utrecht, Den Haag): ~12-18 min/jaar
-- Stedelijk Oost/Zuid (Eindhoven, Arnhem, Maastricht): ~15-25 min/jaar
-- Landelijk Noord-NL (Groningen, Friesland, Drenthe): ~35-65 min/jaar
-- Landelijk Zeeland: ~25-55 min/jaar
-- Recreatiewoningen / agrarisch: ~40-90 min/jaar
+**Niet kiezen als:** je in stedelijk gebied met een betrouwbare aansluiting woont; je doel maximale besparing op de energierekening is; je krap in de ruimte zit; je een systeem met tien jaar garantie wilt.
 
-Belangrijk bij die cijfers: het gaat om gemiddelden. In dorpen met een verouderd net kan één incident 5-8 uur duren, terwijl het jaargemiddelde laag blijft. Vraag daarom bij je netbeheerder de storingshistorie van je eigen postcodegebied op — dat getal bepaalt of whole-home backup zinvol is, niet het landelijke gemiddelde.
+## Is jouw netgebied storingsgevoelig?
 
-Voor stedelijk West-NL: 15 minuten storing per jaar is geen reden voor €9.000 backup-investering. Kies dan Sessy Pro of Marstek Jupiter voor de arbitrage-functie.
+Whole-home backup is alleen zinvol als je werkelijk met storingen te maken hebt. Landelijke gemiddelden zeggen daar weinig over: het gemiddelde in Nederland ligt op enkele tientallen minuten per jaar, maar dat getal is opgebouwd uit veel woningen die nooit iets merken en een kleinere groep die af en toe uren zonder stroom zit.
 
-## Off-grid bewoning in NL: kan dat?
+Vraag daarom bij je netbeheerder de storingshistorie van je eigen postcodegebied op. Dat getal bepaalt of dit systeem zinvol is, niet het landelijk gemiddelde. Netbeheerders publiceren jaarlijks storingscijfers en zijn verplicht die op verzoek te specificeren.
 
-Theoretisch ja, praktisch zelden voordelig. Voor wie het overweegt:
+## Modelberekening
 
-**Wetgeving**: in NL is volledig off-grid wonen toegestaan zonder netaansluiting. Wel: woning moet bouwkundig goedgekeurd zijn en je betaalt geen netbeheerderskosten.
+Onderstaande berekening is een **model met expliciete aannames** en geen gemeten resultaat. Uitgangspunten: een vrijstaande woning met circa 5.500 kWh jaarverbruik, ongeveer 8 kWp aan zonnepanelen, een dynamisch contract, een configuratie van drie units (18 kWh) en een investering die je zelf uit een offerte moet halen.
 
-**Economie**: een netaansluiting in NL kost ~€240/jaar vaste kosten + €700/jaar verbruik = €940/jaar voor gemiddeld huishouden. Een volledig off-grid systeem (Pro Ultra 30 kWh + 20 panelen + generator) kost ~€20.000 en vereist onderhoud.
+| Post | Modelschatting per jaar | Toelichting |
+|---|---|---|
+| Hogere zon-zelfconsumptie | €680 | circa 1.600 kWh extra zelf verbruikt |
+| Prijsverschuiving dynamisch contract | €600 – €900 | conservatief gerekend, afhankelijk van de spreiding |
+| Vermeden schade bij storing | pm | alleen invullen als je weet wat uitval jou kost |
+| Uitgespaarde aggregaatkosten | pm | alleen relevant als je anders een aggregaat zou kopen |
 
-**Terugverdientijd off-grid**: ongeveer 20+ jaar. Vrijwel nooit economisch zinvol vs netaansluiting.
+De twee pm-posten zijn bewust niet ingevuld. Vermeden schade en uitgespaarde aankopen zijn geen opbrengst maar een risico-inschatting, en die verschilt per huishouden volledig. Vul ze zelf in met bedragen die je kunt onderbouwen, of laat ze staan op nul en accepteer dat de terugverdientijd dan langer wordt.
 
-**Wanneer wel zinvol**:
-- Locatie waar netaansluiting onmogelijk is (verre boerderij, eiland, vakantiehuis)
-- Kosten netaansluiting > €15.000 (lange kabel-aanleg)
-- Recreatiewoning die alleen seizoens-gebruik heeft
+Wat je wél hard kunt meenemen: de salderingsregeling stopt per 1 januari 2027 volledig, zonder afbouwpad. Vanaf dat moment is elke zelf verbruikte kilowattuur direct geld waard, en dat verbetert de eerste post structureel. Reken je eigen situatie door via [terugverdientijd thuisbatterij](/posts/thuisbatterij-terugverdientijd-berekenen-2026/).
 
-Voor 99% van NL: blijf op net + Pro Ultra als backup, geen volledig off-grid.
+<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" target="_blank" rel="nofollow noopener sponsored">Bekijk het actuele EcoFlow-aanbod →</a>
 
-## EcoFlow firmware-updates: belangrijke verbeteringen
+## Installatie: waar je op let
 
-EcoFlow heeft de Pro Ultra fors verbeterd via firmware sinds lancering:
+Een modulaire opstelling van drie units is doorgaans een dag werk met twee monteurs. Wat daarbij hoort: de units stapelen en aansluiten, de zonne-input koppelen, de backupzijde inrichten, eventueel de generatoraansluiting voorbereiden en de melding bij de netbeheerder doen.
 
-**v4.0 (juni 2026)**: Tibber-integratie toegevoegd
-**v4.1 (september 2026)**: Frank Energie integratie + cycle-life verlenging algoritme
-**v4.2 (oktober 2026)**: verbeterde arbitrage-strategie (+20% opbrengst), Home Assistant cloud-API
-**v4.3 (verwacht februari 2027)**: native Sessy/Marstek-protocol ondersteuning
+**Aandachtspunten vooraf:**
 
-Voor wie nu koopt: je krijgt v4.2 en alle eerdere verbeteringen automatisch. Voor wie wacht: v5.0 in Q3 2027 zal vermoedelijk lokale Home Assistant API toevoegen.
+- Voldoende vloer- of wandruimte plus de vrije ruimte die de handleiding voorschrijft
+- Beschermingsklasse IP54: beschermd tegen stof en spatwater, maar geen buitenopstelling zonder overkapping
+- Bedrijfstemperatuur van ongeveer −20 tot +45 °C; een garage die in de zomer flink oploopt is een aandachtspunt
+- Bij zonne-input: controleer of je bestaande omvormer of paneelconfiguratie binnen de spanningsgrenzen valt
+- Voor een generatoraansluiting: een aparte aanvoer naar buiten, plus de vraag of een overschakelaar nodig is
 
-## Generator-aansluiting: praktische details
+Vraag expliciet wie de melding bij de netbeheerder verzorgt. Bij internationaal georganiseerde merken is dat vaker een open eind dan bij lokale aanbieders.
 
-Een generator-input voorbereiden bij de installatie kost weinig extra; de generator zelf (circa €2.500 voor 5 kVA) kun je later kopen. De Pro Ultra ondersteunt:
-- Benzine-generators (5-10 kVA aanbevolen)
-- Diesel-generators (groter MKB-segment)
-- Bi-fuel (propaan + benzine)
+## Off-grid in Nederland: kan dat?
 
-**Auto-start**: bij langdurige stroomstoring + lege batterij + bewolkt weer kan de Pro Ultra automatisch een generator starten (via 12V signaal). Voor permanent off-grid: ideaal. Voor occasionele backup: vaak overkill.
+Technisch wel, economisch zelden. Volledig off-grid wonen is in Nederland toegestaan, mits de woning bouwkundig in orde is. Maar de rekensom valt bijna altijd tegen: een netaansluiting kost een paar honderd euro per jaar aan vaste kosten, terwijl een off-grid opstelling met batterijen, panelen en een generator in de tienduizenden euro's loopt en onderhoud vraagt.
 
-Onze inschatting: voor incidentele backup is handmatig starten na een storing van 12 uur of langer voldoende — eenvoudiger, goedkoper en zonder het risico dat een aggregaat onbedoeld aanslaat.
+Off-grid is wel logisch wanneer een netaansluiting onmogelijk of extreem duur is — een afgelegen perceel waarvoor honderden meters kabel moet worden gegraven, of een recreatiewoning die alleen in het seizoen wordt gebruikt. Vraag in dat geval eerst een aansluitofferte bij je netbeheerder op: dat bedrag is de enige eerlijke vergelijkingsbasis.
 
-## Onderhoud: wat moet je doen?
+Voor vrijwel iedereen anders is de verstandige variant: aangesloten blijven en dit systeem als backup gebruiken. Zie ook [zonnepanelen op een recreatiewoning](/posts/zonnepanelen-recreatiewoning-2026/).
 
-Pro Ultra is grotendeels onderhoudsvrij, maar wel meer dan Sessy:
-- Maandelijks: ventilatie-openingen visueel checken (stof, insecten)
-- Jaarlijks: cel-balancering forceren via app (15 min)
-- Elke 2 jaar: firmware-major-update bevestigen
-- Elke 4 jaar: aanbevolen service-beurt bij EcoFlow-partner (€199, niet verplicht)
+## Onderhoud
 
-Vergelijking met Sessy: Sessy doet alles automatisch zonder gebruiker-input. EcoFlow vereist meer hands-on betrokkenheid. Voor tinkerers: leuk. Voor "set-and-forget" gebruikers: irritant.
-
----
+Het systeem is grotendeels onderhoudsvrij, maar vraagt iets meer aandacht dan een dichtgetimmerd merksysteem. Praktisch komt het neer op: periodiek de ventilatie-openingen visueel controleren op stof en insecten, firmware-updates bevestigen wanneer die worden aangeboden, en bij de installateur navragen of er voor jouw configuratie een aanbevolen servicemoment is.
 
 ## Ons oordeel
 
-Voor het referentieprofiel hierboven — storingsgevoelige regio, whole-home backup als harde eis, arbitrage als bijzaak — is de Delta Pro Ultra de logische keuze. De €8.995 voor 18 kWh is een forse investering, maar in het model komt de terugverdientijd op 6 tot 8 jaar uit, afhankelijk van hoe hard je de vermeden schade meerekent.
+De Delta Pro Ultra doet één ding uitzonderlijk goed: een woning draaiend houden wanneer het net dat niet doet. 6.900 W continu, 20 milliseconden omschakelen, vijf laadbronnen en een generator-optie — dat is een ander product dan een thuisbatterij die vooral bespaart.
 
-Voor mensen in stedelijk NL met betrouwbare netaansluiting: skip de Delta Pro Ultra. Het backup-voordeel weegt niet op tegen de €2.000-€3.000 minder arbitrage-opbrengst over 10 jaar. Kies Sessy Pro of Marstek Jupiter.
+De prijs daarvoor is een kortere garantie, een dunnere serviceketen in Nederland, meer ruimtebeslag en een sturing die reserve achterhoudt in plaats van maximaal te optimaliseren. Dat is geen tekortkoming maar een ontwerpkeuze die consequent is doorgevoerd.
 
-Voor (semi-)off-grid situaties of recreatiewoningen: dit is in 2026 de beste keus op de markt. Multi-input, modulariteit en generator-integratie zijn unieke voordelen.
-
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" target="_blank" rel="nofollow sponsored noopener">Bekijk EcoFlow Delta Pro Ultra</a> · [Sessy Pro alternatief →](/posts/sessy-pro-15kwh-review-2026/)
-
----
-
-## Conclusie
-
-De EcoFlow Delta Pro Ultra is in 2026 de slimste keus voor mensen die whole-home backup of off-grid willen. Premium-prijs voor unieke functionaliteit (multi-input, generator-integratie, modulair tot 270 kWh).
-
-Voor pure thuisbatterij-arbitrage: andere merken zijn 30-50% efficiënter. Voor backup-specialisten: niets evenaart dit systeem.
-
-*Vragen over je situatie? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
-
----
-
-<a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow sponsored noopener" target="_blank">Bekijk EcoFlow Delta Pro Ultra</a>
+De vraag is dus niet of dit een goed systeem is, maar of jouw netgebied en jouw situatie het rechtvaardigen. Vraag die storingshistorie op voordat je een offerte aanvraagt.
 
 ## Gerelateerde artikelen
 
 - [EcoFlow Delta 2 Max review](/posts/ecoflow-delta-2-max-review-2026/)
 - [EcoFlow River 2 Pro review](/posts/ecoflow-river-2-pro-review-2026/)
 - [EcoFlow vs Jackery](/posts/ecoflow-vs-jackery-2026/)
-- [Sessy Pro 15 kWh review](/posts/sessy-pro-15kwh-review-2026/)
-- [Anker Solix X1 review](/posts/anker-solix-x1-review-2026/)
+- [Tesla Powerwall 3 review](/posts/tesla-powerwall-review-nederland-2026/)
 - [Zonnepanelen recreatiewoning](/posts/zonnepanelen-recreatiewoning-2026/)
 - [Beste thuisbatterij Nederland 2026](/posts/beste-thuisbatterij-nederland-2026/)
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
 
 ---
 
-**Externe bron:** [Milieu Centraal — Noodstroom en zelfvoorzienend wonen](https://www.milieucentraal.nl/energie-besparen/zonnepanelen/thuisbatterij/) — onafhankelijke informatie over thuisbatterijen en backup-stroom.
+**Externe bron:** [Milieu Centraal — thuisbatterijen](https://www.milieucentraal.nl/energie-besparen/zonnepanelen/thuisbatterij/) — onafhankelijke informatie over thuisbatterijen en backup-stroom.

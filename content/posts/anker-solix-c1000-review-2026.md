@@ -1,8 +1,9 @@
 ---
-title: 'Anker SOLIX C1000 Review 2026: Compact Krachtpatser'
+title: 'Anker SOLIX C1000 review 2026: 1.056 Wh, 1.800 W en snelladen'
 date: 2026-03-17 12:00:00+01:00
-lastmod: 2026-08-20 10:00:00+01:00
-description: Uitgebreide Anker SOLIX C1000 review. Bekijk specs, LiFePO4 batterij, laadtijden, app-bediening en vergelijking met EcoFlow Delta 2.
+lastmod: 2026-08-21 08:00:00+02:00
+description: 'Anker SOLIX C1000 beoordeeld op de fabrieksspecificaties: 1.056 Wh LFP, 1.800 W continu, 2.400 W met SurgePad, 0-80 procent in circa 43 minuten en 300 W zonne-input. Met doorgerekende draaitijden.'
+draft: false
 categories:
 - powerstations
 tags:
@@ -22,21 +23,22 @@ affiliate: true
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
+schema_type: Review
 faq:
-- q: Is de Anker SOLIX C1000 het waard in 2026?
-  a: Ja. De Anker SOLIX C1000 biedt 1056Wh capaciteit en 1800W continu vermogen in een compact en licht ontwerp. Met LiFePO4-technologie, een uitstekende app en snelle laadtijden is het een van de beste powerstations in de 1000Wh-klasse.
-- q: Hoe snel laadt de Anker SOLIX C1000 op?
-  a: Via een stopcontact laadt de C1000 op van 0 naar 80% in ongeveer 43 minuten dankzij Anker's HyperFlash technologie. Een volledige lading duurt circa 58 minuten.
-- q: Kan de Anker SOLIX C1000 een koelkast draaiende houden?
-  a: Ja. Een gemiddelde koelkast verbruikt 80-120W. Met de 1056Wh capaciteit van de C1000 kun je een koelkast circa 8-12 uur draaiende houden op een volledige lading.
-- q: Hoe zwaar is de Anker SOLIX C1000?
-  a: De Anker SOLIX C1000 weegt 12,9 kg. Dat maakt het een van de lichtere powerstations in de 1000Wh-klasse en goed draagbaar voor camping en buitengebruik.
-- q: Heeft de Anker SOLIX C1000 een UPS-functie?
-  a: Ja, de C1000 heeft een UPS-functie (Uninterruptible Power Supply) die binnen 20 milliseconden overschakelt bij stroomuitval. Dat is snel genoeg om computers en routers zonder onderbreking draaiende te houden.
-- q: Wat is het verschil tussen de Anker SOLIX C1000 en de EcoFlow Delta 2?
-  a: De C1000 biedt iets meer capaciteit (1056Wh vs 1024Wh) en laadt sneller op. De EcoFlow Delta 2 heeft een hogere solar-input (500W vs 300W) en meer uitgangen. Beide zijn uitstekende keuzes in deze klasse.
-- q: Hoe lang gaat de batterij van de Anker SOLIX C1000 mee?
-  a: De LiFePO4-batterij gaat circa 3000 laadcycli mee voordat de capaciteit naar 80% daalt. Bij wekelijks gebruik is dat meer dan 10 jaar.
+- q: 'Wat zijn de kernspecificaties van de Anker SOLIX C1000?'
+  a: 'Anker geeft op: 1.056 Wh capaciteit met LFP-cellen, 1.800 W continu wisselstroomvermogen, tot 2.400 W met de SurgePad-functie, 300 W maximale zonne-input en een gewicht van 12,9 kg.'
+- q: 'Hoe snel laadt de Anker SOLIX C1000 op?'
+  a: 'Volgens Anker gaat de C1000 via een stopcontact in ongeveer 43 minuten van 0 naar 80 procent, en in ongeveer 58 minuten naar vol. Dat is een fabrikantsopgave onder gunstige omstandigheden; koeling en omgevingstemperatuur kunnen die tijd verlengen.'
+- q: 'Hoelang houdt de C1000 een koelkast draaiend?'
+  a: 'Een gemiddelde koelkast trekt 80 tot 120 W. Uit 1.056 Wh volgt dan een berekende draaitijd van ruwweg 8 tot 12 uur, inclusief marge voor omvormerverlies. Dat is een berekening uit de opgegeven capaciteit, geen meting.'
+- q: 'Heeft de C1000 een UPS-functie?'
+  a: 'Ja. Anker geeft een omschakeltijd van 20 milliseconden op, wat kort genoeg is om een computer, router of modem zonder herstart door te laten draaien.'
+- q: 'Wat is het verschil met de EcoFlow Delta 2?'
+  a: 'De capaciteiten liggen dicht bij elkaar (1.056 Wh tegenover 1.024 Wh) en het continu vermogen is bij beide 1.800 W. Het grootste verschil zit in de zonne-input: EcoFlow geeft 500 W op, Anker 300 W. Wie het station regelmatig op zon wil bijladen, wint met de EcoFlow tijd.'
+- q: 'Hoe lang gaat de batterij mee?'
+  a: 'Anker geeft circa 3.000 laadcycli op tot 80 procent restcapaciteit. Bij wekelijks gebruik kom je daarmee ruim boven de tien jaar uit; bij dagelijks gebruik ligt dat rond de acht jaar. De fabrieksgarantie is 5 jaar — dat is een andere grootheid dan de verwachte levensduur.'
+- q: 'Mag ik de C1000 meenemen in het vliegtuig?'
+  a: 'Nee. Luchtvaartmaatschappijen hanteren voor lithiumaccus in handbagage een grens van 100 Wh, met ontheffing tot 160 Wh. Met 1.056 Wh valt de C1000 daar ver boven, in handbagage én in ruimbagage. Vervoer over de weg is de enige route.'
 products:
 - name: Anker SOLIX C1000
   url: https://go.duurzaamthuislab.nl/anker-solix
@@ -47,381 +49,162 @@ products:
 - name: Jackery Explorer 1000 Plus
   url: https://go.duurzaamthuislab.nl/jackery
   price: '1199'
-schema_type: Review
 ---
-De Anker SOLIX C1000 valt op in de 1000Wh-klasse: met 12,9 kg is hij een van de lichtste van zijn categorie, terwijl hij volgens de specificaties 1056Wh capaciteit en 1800W continu vermogen levert. In deze review zetten wij die specificaties naast die van de directe concurrenten, rekenen wij de draaitijden voor concrete gebruiksscenario's door en beschrijven wij wat gebruikersreviews melden over de app en het dagelijks gebruik.
+De Anker SOLIX C1000 valt op in de 1.000 Wh-klasse door zijn formaat: 12,9 kilo en een behuizing van 37,6 bij 20,5 bij 26,7 centimeter, terwijl er 1.056 Wh en 1.800 W continu vermogen in zit. Deze review zet die specificaties naast de directe concurrenten en rekent de draaitijden door voor concrete gebruiksscenario's.
 
-*Dit artikel bevat affiliate links. Wij ontvangen een vergoeding als je via onze links een product aanschaft, zonder extra kosten voor jou. Wij vergelijken op basis van specificaties, handleidingen, geverifieerde gebruikersreviews en publieke data.*
+Alle genoemde waarden komen uit de fabrieksopgave van Anker, stand 21 augustus 2026. Wij hebben dit station niet zelf gebruikt, niet doorgemeten en geen laadtijden geklokt. Waar een getal uit een berekening komt, staat dat erbij.
 
----
+*Disclosure: dit artikel bevat affiliate-links naar Anker, EcoFlow, Jackery en Bluetti via het AWIN-netwerk. Koop je via zo'n link, dan ontvangen wij een vergoeding zonder extra kosten voor jou. Ons oordeel is gebaseerd op de gepubliceerde specificaties en op narekenbare berekeningen.*
 
-
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
-
-> **Kort antwoord:** Uitgebreide Anker SOLIX C1000 review. Bekijk specs, LiFePO4 batterij, laadtijden, app-bediening en vergelijking met EcoFlow Delta 2.
+> **Kort antwoord:** de C1000 is de lichtste en snelst ladende optie in zijn klasse, met 1.056 Wh en 1.800 W. De prijs die je daarvoor betaalt is een beperkte zonne-input van 300 W en acht uitgangen in plaats van tien of meer.
 >
-> Ja. De Anker SOLIX C1000 biedt 1056Wh capaciteit en 1800W continu vermogen in een compact en licht ontwerp. Met LiFePO4-technologie, een uitstekende app en snelle laadtijden is het een van de beste powerstations in de 1000Wh-klasse.
+> Wil je het station vooral in de auto meenemen en thuis of onderweg via een stopcontact bijladen, dan is dat een goede ruil. Wil je het dagenlang op zonnepanelen laten draaien, dan kies je beter iets met een hogere zonne-input.
 
-## Specificaties op een rij
-
-Voordat we dieper duiken, hier de belangrijkste technische gegevens van de Anker SOLIX C1000:
+## Specificaties volgens Anker
 
 | Specificatie | Waarde |
 |---|---|
-| **Capaciteit** | 1056 Wh |
-| **Batterijtype** | LFP (LiFePO4) |
-| **Continu vermogen (AC)** | 1800 W |
-| **Piekvermogen** | 2400 W |
-| **SurgePad vermogen** | Tot 2400 W |
-| **AC-laadsnelheid** | 0-80% in ~43 min (HyperFlash) |
-| **Max. solar-input** | 300 W |
-| **AC-uitgangen** | 3x Schuko (230V) |
-| **USB-C** | 2x (waarvan 2x 100W PD) |
-| **USB-A** | 2x |
-| **12V-uitgang** | 1x auto-aansluiting |
-| **Gewicht** | 12,9 kg |
-| **Afmetingen** | 37,6 x 20,5 x 26,7 cm |
-| **Levensduur** | ~3000 cycli tot 80% |
-| **App-bediening** | Ja (Wi-Fi en Bluetooth) |
-| **Garantie** | 5 jaar |
+| Capaciteit | 1.056 Wh |
+| Celchemie | LFP (LiFePO4) |
+| Continu AC-vermogen | 1.800 W |
+| SurgePad-vermogen | tot 2.400 W |
+| AC-laadtijd | 0–80% in circa 43 min, vol in circa 58 min |
+| Maximale zonne-input | 300 W |
+| AC-uitgangen | 3× Schuko (230 V, zuivere sinus) |
+| USB-C | 2×, beide 100 W Power Delivery |
+| USB-A | 2× |
+| 12 V-uitgang | 1× auto-aansluiting |
+| Gewicht | 12,9 kg |
+| Afmetingen | 37,6 × 20,5 × 26,7 cm |
+| Cyclusopgave | circa 3.000 cycli tot 80% |
+| Bediening | app via wifi en bluetooth |
+| Garantie | 5 jaar |
 
----
-
-## Design en bouwkwaliteit
-
-De eerste indruk van de Anker SOLIX C1000 is positief. Het apparaat oogt modern en strak, met een donkergrijze behuizing en subtiele groene accenten die typerend zijn voor de Anker SOLIX-lijn. De afwerking voelt premium aan -- er is niets dat goedkoop aanvoelt of rammelt.
-
-### Compactheid als troef
-
-Wat de C1000 direct onderscheidt van de concurrentie is het formaat. Met afmetingen van slechts 37,6 x 20,5 x 26,7 cm is het powerstation opvallend compact voor een apparaat met meer dan 1000Wh. Ter vergelijking: de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) is bijna dubbel zo groot. Dit maakt de C1000 makkelijker te vervoeren en op te bergen.
-
-### Gewicht en draagbaarheid
-
-Met 12,9 kg is de C1000 een van de lichtste powerstations in zijn capaciteitsklasse. De stevige, inklapbare handgreep aan de bovenkant maakt het makkelijk om het station met een hand te dragen. Voor campingtrips, een dagje naar het strand of gebruik op een bouwlocatie is dit een groot voordeel. Vergelijk dat met de Jackery Explorer 1000 Plus die ruim 14,5 kg weegt.
-
-### Display
-
-Het frontpaneel beschikt over een helder LED-display dat de volgende informatie toont:
-
-- Huidige laadstatus (percentage en resterende tijd)
-- Ingangs- en uitgangsvermogen in watt
-- Actieve uitgangen
-- Batterijtemperatuur
-
-Het display is goed afleesbaar, ook in direct zonlicht. De helderheid past zich automatisch aan, maar je kunt dit ook handmatig instellen via de app.
-
----
+Twee getallen verdienen toelichting. De **43 minuten** is een fabrikantsopgave onder gunstige omstandigheden; bij hoge omgevingstemperatuur of een verlaagde laadstand in de app duurt het langer. En de **3.000 cycli** is een levensduurverwachting, geen garantie: de fabrieksgarantie is vijf jaar. Dat zijn twee verschillende dingen, en alleen het tweede is iets waar je bij een claim iets aan hebt.
 
 ## Aansluitingen
 
-De Anker SOLIX C1000 biedt een solide selectie aansluitingen voor zijn formaat:
+Acht uitgangen in totaal: drie Schuko-stopcontacten met zuivere sinusgolf, twee USB-C-poorten die allebei 100 W Power Delivery leveren, twee USB-A-poorten en een 12 V auto-aansluiting.
 
-- **3x AC Schuko-stopcontacten** (230V, zuivere sinusgolf)
-- **2x USB-C** (beide 100W PD -- ideaal voor het snel laden van laptops)
-- **2x USB-A** (5V/2,4A)
-- **1x 12V auto-aansluiting** (sigarettenaansteker)
+Dat is minder dan sommige concurrenten in deze klasse bieden, maar de kwaliteit van de poorten is hoger dan het aantal suggereert: twee volwaardige 100 W USB-C-poorten betekent dat je twee laptops tegelijk op vol tempo laadt. En de zuivere sinusgolf op de AC-uitgangen is geen marketingterm maar een harde voorwaarde voor gevoelige apparatuur zoals laptops en medische hulpmiddelen.
 
-Dat zijn in totaal **8 uitgangen**. Minder dan de 13 van de Delta 2 Max, maar voor de meeste gebruikers ruim voldoende. Het feit dat beide USB-C-poorten 100W Power Delivery ondersteunen is een sterk punt -- je kunt twee laptops tegelijk snel opladen.
+Wat ontbreekt: aparte 12 V DC-uitgangen naast de auto-aansluiting, en enige vorm van water- of stofbescherming. De C1000 is een binnen- en kofferbakapparaat, geen buitenapparaat.
 
-De AC-uitgangen leveren een **zuivere sinusgolf**, essentieel voor gevoelige elektronica zoals laptops, CPAP-apparaten en medische apparatuur.
+## Laden
 
----
-
-## Laadprestaties: HyperFlash maakt het verschil
-
-De laadprestaties van de Anker SOLIX C1000 zijn indrukwekkend, vooral dankzij de **HyperFlash technologie**:
-
-| Laadmethode | Snelheid |
+| Laadmethode | Opgave Anker |
 |---|---|
-| **AC (stopcontact)** | 0-80% in ~43 min, 0-100% in ~58 min |
-| **Zonnepaneel (max 300W)** | 3,5-7 uur (afhankelijk van panelen en condities) |
-| **Auto-oplader (12V)** | ~10 uur |
-| **AC + Solar (gecombineerd)** | Nog sneller |
+| Stopcontact | 0–80% in circa 43 min, vol in circa 58 min |
+| Zonnepaneel (max. 300 W) | enkele uren, sterk afhankelijk van paneel en weer |
+| Auto-oplader (12 V) | circa 10 uur |
+| Stopcontact en zon gecombineerd | sneller dan elk afzonderlijk |
 
-De AC-laadsnelheid is buitengewoon. In minder dan een uur heb je het station volledig opgeladen -- sneller dan vrijwel elke concurrent in deze klasse. Zelfs de EcoFlow Delta 2, die bekend staat om zijn snelle X-Stream laden, heeft hier meer tijd voor nodig.
+De AC-laadsnelheid is het sterkste punt van dit station: onder een uur van leeg naar vol is in deze klasse uitzonderlijk. Praktisch betekent het dat je het apparaat tussen twee gebruiksmomenten door kunt bijladen in plaats van het een nacht aan de lader te leggen.
 
-### Opladen met zonnepanelen
+De zonne-input van 300 W is de tegenhanger daarvan. Met een 200 W-paneel en goede omstandigheden laad je het station in de loop van een dag vol; met minder zon of een kleiner paneel kom je er niet. Voor wie meerdere dagen achter elkaar off-grid wil zijn, is dat de beperkende factor. De ingebouwde MPPT-regelaar haalt eruit wat erin zit, maar 300 W blijft 300 W.
 
-Met een maximale solar-input van 300W kun je de C1000 off-grid opladen. Anker biedt bijpassende opvouwbare zonnepanelen aan (100W en 200W). Met een 200W-paneel en goede zonneomstandigheden laad je het station in circa 5-6 uur volledig op.
+Wil je hogere zonne-input, dan zijn de <a href="https://go.duurzaamthuislab.nl/ecoflow" target="_blank" rel="nofollow noopener sponsored">EcoFlow-modellen</a> met 500 W of meer de logischere route, of de zwaardere <a href="https://go.duurzaamthuislab.nl/jackery" target="_blank" rel="nofollow noopener sponsored">Jackery-serie</a>. Zie ook onze [EcoFlow versus Jackery vergelijking](/posts/ecoflow-vs-jackery-2026/).
 
-De ingebouwde MPPT-controller optimaliseert het laadproces automatisch. De solar-input van 300W is lager dan sommige concurrenten (de EcoFlow Delta 2 biedt 500W), maar voor de capaciteit van de C1000 is het voldoende. Wil je meer solar-input? Overweeg dan de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) of de [Jackery Explorer 2000 Plus](/posts/jackery-explorer-2000-plus-review-2026/).
+## De app
 
----
+De Anker-app werkt via bluetooth en wifi en biedt het uitschakelen van uitgangen op afstand, het instellen van de laadsnelheid, firmware-updates, verbruiksgrafieken, configuratie van de UPS-modus en laadtimers.
 
-## De Anker App
+Twee functies zijn meer dan gadget. Het verlagen van de laadsnelheid maakt het apparaat merkbaar stiller, wat 's nachts op een camping of in een slaapkamer het verschil maakt. En de mogelijkheid om het station op afstand te bekijken als het aan je thuisnetwerk hangt, is nuttig wanneer je het als UPS voor je werkplek gebruikt.
 
-De **Anker-app** (beschikbaar voor iOS en Android) biedt uitgebreide controle over je C1000 via Bluetooth of Wi-Fi. Via de app kun je:
+Wij nemen geen app-beoordelingen over van reviewsites, omdat die niet naar een controleerbare bron zijn te herleiden.
 
-- **Alle uitgangen aan/uit schakelen** op afstand
-- **Laadsnelheid instellen** (handig om geluid te beperken 's nachts)
-- **Firmware updaten** voor nieuwe functies en verbeteringen
-- **Energieverbruik monitoren** met overzichtelijke grafieken
-- **UPS-modus configureren** en schakelinstellingen aanpassen
-- **Laadtimers instellen** voor gepland opladen
+## Wat kun je ermee draaien?
 
-In gebruikersreviews komt de Anker-app er goed uit: overzichtelijke interface, ook voor minder technische gebruikers, en een stabiele Wi-Fi-verbinding. Het meest terugkerende minpunt is een korte vertraging bij het eerste verbinden via Bluetooth; daarna verloopt de bediening vlot.
+De draaitijden hieronder zijn **berekend** uit de opgegeven 1.056 Wh en het typische verbruik per apparaat, met marge voor omvormerverlies. Het zijn geen gemeten waarden; het werkelijke verbruik van jouw apparaat kan afwijken.
 
-Een handige functie is de mogelijkheid om het station op afstand te beheren als het verbonden is met je thuisnetwerk. Zo kun je de status controleren wanneer je niet thuis bent.
-
----
-
-## Wat kun je ermee draaien? Berekende scenario's
-
-De draaitijden hieronder zijn **berekend** uit de opgegeven capaciteit van 1056 Wh en het typische verbruik van elk apparaat, met een marge voor omvormerverlies. Het zijn dus geen gemeten waarden; het werkelijke verbruik van jouw apparaat kan afwijken.
-
-### Camping en outdoor
-
-Door het compacte formaat en het lage gewicht past de C1000 in vrijwel elke kofferbak of campingbus. Een **compressorkoelbox** met een gemiddeld verbruik van 45W komt op circa 20 uur op één volledige lading (1056 Wh / 45W, minus omvormerverlies) — genoeg voor bijna een etmaal, met ruimte over voor het opladen van telefoons. Bekijk ook ons overzicht van de [beste powerstations voor camping](/posts/beste-powerstation-camping-2026/) voor meer opties.
+| Apparaat | Vermogen | Berekende draaitijd |
+|---|---|---|
+| Wifi-router | 15 W | circa 55 uur |
+| LED-verlichting (4 lampen) | 40 W | circa 22 uur |
+| Laptop | 65 W | circa 14 uur |
+| Koelkast | 80 W gemiddeld | circa 11 uur |
+| Compressorkoelbox | 45 W | circa 20 uur |
+| Alle bovenstaande tegelijk | circa 200 W | circa 4,5 uur |
 
 ### Noodstroom thuis
 
-Volgens de specificaties schakelt de **UPS-functie** binnen 20 milliseconden over bij een stroomstoring. Dat is snel genoeg om een computer en router zonder onderbreking draaiende te houden. Op basis van de capaciteit van 1056 Wh komen de draaitijden per apparaat uit op:
+Met een omschakeltijd van 20 milliseconden fungeert de C1000 als UPS voor een werkplek. Een laptop, monitor, router en telefoonlader trekken samen rond de 110 W; dat komt uit op ruim negen uur, dus meer dan een werkdag.
 
-| Apparaat | Vermogen | Berekende draaitijd op volle lading |
-|---|---|---|
-| Wi-Fi router | 15 W | ~55 uur |
-| LED-verlichting (4 lampen) | 40 W | ~22 uur |
-| Laptop | 65 W | ~14 uur |
-| Koelkast | 80 W (gem.) | ~11 uur |
-| Alle bovenstaande tegelijk | ~200 W | ~4,5 uur |
+Voor een langere storing waarbij je meer apparaten wilt draaien, schiet 1.056 Wh tekort. Kijk dan naar een station met het dubbele aan capaciteit of naar een uitbreidbaar systeem.
 
-Voor langere stroomstoringen waarbij je meer apparaten wilt draaien, is de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) met zijn 2048Wh capaciteit een betere keuze.
+### Camping
 
-### Thuiswerken en ZZP'ers
+Een compressorkoelbox van 45 W die tien uur per nacht draait verbruikt ongeveer 450 Wh. Tel daar telefoons, verlichting en een uurtje laptop bij op en je zit rond de 610 Wh per nacht — één volledige lading dekt dus ongeveer anderhalve nacht. Met een 200 W-paneel dat overdag bijlaadt, kun je in de zomer onbeperkt doorgaan. Zie ook ons overzicht van de [beste powerstations voor camping](/posts/beste-powerstation-camping-2026/).
 
-De C1000 is een uitstekende metgezel voor thuiswerkers en zzp'ers die op locatie werken. Een laptop (65W), externe monitor (30W) en telefoonoplader (20W) samen trekken circa 115W -- daarmee werk je bijna een volledige werkdag op een lading. De twee USB-C 100W-poorten zijn een bonus voor wie meerdere apparaten tegelijk wil opladen.
+### Werk op locatie
 
-### SurgePad: extra vermogen wanneer nodig
+Bij werk in leegstaande panden, nieuwbouw of monumenten zonder actieve aansluiting voedt de C1000 meetapparatuur, laptop en een LED-werklamp een dag lang. Het voordeel boven een aggregaat is dat er geen uitlaatgassen en nauwelijks geluid bij komen kijken, waardoor het ook binnen bruikbaar is.
 
-De **SurgePad technologie** is Anker's antwoord op EcoFlow's X-Boost. Het verhoogt het effectieve uitgangsvermogen tot 2400W door de spanning intelligent aan te passen. Hierdoor kun je apparaten gebruiken die normaal boven de 1800W-limiet vallen, zoals een haardroger (op lage stand) of een waterkoker. Let op: SurgePad werkt het beste voor apparaten met verwarmingselementen.
+### Medische apparatuur
 
----
+Een onderschat gebruiksscenario. Een CPAP-apparaat trekt 30 tot 80 W, afhankelijk van model en drukinstelling; dat komt neer op een berekende draaitijd van dertien tot vijfendertig uur, oftewel één tot twee nachten. Let op dat modellen met verwarmde luchtbevochtiging fors meer trekken — controleer het typeplaatje van je eigen apparaat. De zuivere sinusgolf van de AC-uitgangen is voor deze toepassing een harde eis, en daar voldoet de C1000 aan.
 
-## Geluidsniveau
+Een medicijnkoelkast van 20 tot 30 W draait berekend 35 tot 50 uur. Dat is ruim genoeg voor een storing van een etmaal.
 
-Bij lage belasting draaien de ventilatoren volgens gebruikersreviews nauwelijks merkbaar. Het geluid komt vooral op tijdens snelladen via HyperFlash: dat is het moment waarop de koeling hoorbaar aanslaat. Via de app kun je de laadsnelheid verlagen om dat te beperken — een handige optie voor nachtelijk gebruik op de camping of in een slaapkamer. Harde decibelwaarden geeft Anker niet op, en wij meten zelf niet.
+Belangrijk: dit zijn berekeningen, geen medische garanties. Wie afhankelijk is van apparatuur die niet uit mag vallen, overlegt met de leverancier van dat apparaat welke noodvoorziening geschikt is.
 
----
+### SurgePad
+
+SurgePad verhoogt het effectieve uitgangsvermogen tot 2.400 W door de spanning aan te passen. Daarmee kun je apparaten gebruiken die boven de 1.800 W-grens vallen, zoals een waterkoker of een föhn op een lage stand. Het werkt het best bij apparaten met een verwarmingselement en niet bij apparaten met een motor of elektronica die een stabiele spanning verlangen.
 
 ## Vergelijking met de concurrentie
 
-Hoe verhoudt de Anker SOLIX C1000 zich tot andere populaire powerstations in dezelfde klasse?
+De prijzen in deze tabel zijn **marktrichtprijzen zonder fabrikantsbron**, stand augustus 2026. Ze schommelen sterk door acties; controleer de actuele prijs via de links.
 
 | Eigenschap | Anker SOLIX C1000 | EcoFlow Delta 2 | Jackery Explorer 1000 Plus | Bluetti AC70 |
 |---|---|---|---|---|
-| **Capaciteit** | 1056 Wh | 1024 Wh | 1264 Wh | 768 Wh |
-| **Continu vermogen** | 1800 W | 1800 W | 2000 W | 1000 W |
-| **Gewicht** | 12,9 kg | 12 kg | 14,5 kg | 10,2 kg |
-| **AC-laadtijd (0-80%)** | ~43 min | ~50 min | ~55 min | ~45 min |
-| **Solar-input max** | 300 W | 500 W | 800 W | 200 W |
-| **Batterijtype** | LFP | LFP | LFP | LFP |
-| **UPS-functie** | Ja (20ms) | Ja (30ms) | Ja (20ms) | Nee |
-| **App-bediening** | Ja | Ja | Ja | Ja |
-| **Prijs (ca.)** | €899 | €949 | €1.099 | €649 |
+| Capaciteit | 1.056 Wh | 1.024 Wh | 1.264 Wh | 768 Wh |
+| Continu vermogen | 1.800 W | 1.800 W | 2.000 W | 1.000 W |
+| Gewicht | 12,9 kg | circa 12 kg | circa 14,5 kg | circa 10,2 kg |
+| Zonne-input max. | 300 W | 500 W | 800 W | 200 W |
+| Celchemie | LFP | LFP | LFP | LFP |
+| UPS-functie | ja | ja | ja | nee |
+| App-bediening | ja | ja | ja | ja |
+| Marktrichtprijs | circa €899–€999 | circa €949 | circa €1.099 | circa €649 |
 
-### Anker SOLIX C1000 vs EcoFlow Delta 2
+**Tegenover de <a href="https://go.duurzaamthuislab.nl/ecoflow" target="_blank" rel="nofollow noopener sponsored">EcoFlow Delta 2</a>:** de directe concurrent. Vergelijkbare capaciteit en vermogen, waarbij Anker sneller laadt via het stopcontact en EcoFlow bijna het dubbele aan zonne-input biedt. Dat is de hele afweging: laad je vooral op net of vooral op zon?
 
-De directe concurrent. De C1000 laadt iets sneller op en biedt marginaal meer capaciteit. De Delta 2 scoort beter op solar-input (500W vs 300W) en heeft meer uitgangen. Qua prijs-prestatie liggen ze dicht bij elkaar. Benieuwd naar meer EcoFlow-producten? Lees onze [EcoFlow vs Jackery vergelijking](/posts/ecoflow-vs-jackery-2026/).
+**Tegenover de <a href="https://go.duurzaamthuislab.nl/jackery" target="_blank" rel="nofollow noopener sponsored">Jackery Explorer 1000 Plus</a>:** meer capaciteit, meer vermogen en veel meer zonne-input, maar ook zwaarder en duurder. Voor wie de capaciteit nodig heeft en het gewicht kan hebben, is dat de betere keuze.
 
-### Anker SOLIX C1000 vs Jackery Explorer 1000 Plus
+**Tegenover de <a href="https://go.duurzaamthuislab.nl/bluetti" target="_blank" rel="nofollow noopener sponsored">Bluetti AC70</a>:** lichter en goedkoper, maar met driekwart van de capaciteit en iets meer dan de helft van het vermogen. Een andere klasse, geen alternatief.
 
-De Jackery biedt meer capaciteit (1264Wh) en hoger continu vermogen (2000W), maar is zwaarder en duurder. De C1000 wint op compactheid en laadsnelheid. Voor wie meer power nodig heeft, is de Jackery de betere keuze.
+## Levensduur en onderhoud
 
-### Anker SOLIX C1000 vs Bluetti AC70
+De LFP-cellen gaan volgens Anker circa 3.000 cycli mee tot 80 procent restcapaciteit. Bij dagelijks gebruik komt dat neer op ruwweg acht jaar, bij wekelijks gebruik op meer dan tien, en bij campinggebruik van een paar weken per jaar is de kalenderveroudering eerder bepalend dan het aantal cycli.
 
-De AC70 is lichter en goedkoper, maar biedt aanzienlijk minder capaciteit (768Wh) en vermogen (1000W). De C1000 is het betere alternatief als je meer ruimte en power nodig hebt.
-
----
-
-## Batterijlevensduur en onderhoud
-
-De Anker SOLIX C1000 maakt gebruik van een **LiFePO4-batterij** (lithium-ijzerfosfaat), dezelfde technologie die ook in de meeste moderne powerstations en thuisbatterijen wordt toegepast. LiFePO4 staat bekend om zijn lange levensduur, thermische stabiliteit en veiligheid.
-
-### Levensduur
-
-Met circa **3000 laadcycli** voordat de capaciteit naar 80% daalt, biedt de C1000 een levensduur die vergelijkbaar is met de beste in zijn klasse. In de praktijk:
-
-- **Dagelijks gebruik**: circa 8 jaar levensduur
-- **Wekelijks gebruik**: meer dan 10 jaar levensduur
-- **Maandelijks gebruik** (bijv. alleen camping): vrijwel onbeperkt binnen de garantieperiode
-
-### Onderhoud
-
-De C1000 vereist minimaal onderhoud. Onze tips:
-
-- **Bewaar het station** op een droge, koele plek (0-40°C)
-- **Laad het station** elke 3-4 maanden op tot 60-80% als je het langere tijd niet gebruikt
-- **Vermijd extreme temperaturen** -- zowel hitte als vorst verminderen de levensduur
-- **Houd de ventilatieroosters vrij** van stof en obstakels
-- **Update de firmware** regelmatig via de app voor optimale prestaties
-
----
+Onderhoud is beperkt tot vier dingen: bewaar het station droog en koel, laad het elke drie tot vier maanden bij tot 40 à 60 procent als je het niet gebruikt, houd de ventilatieroosters vrij, en installeer firmware-updates via de app.
 
 ## Veiligheid
 
-Anker heeft stevig geïnvesteerd in de veiligheid van de SOLIX C1000. Het station beschikt over een **dubbel batterijmanagementsysteem** (BMS) dat de volgende beschermingen biedt:
+De C1000 heeft een batterijmanagementsysteem met beveiliging tegen overbelasting, kortsluiting, oververhitting, overladen, diepontlading en overspanning.
 
-- Overbelastingsbeveiliging
-- Kortsluitbeveiliging
-- Oververhittingsbeveiliging
-- Overlaadbeveiliging
-- Diepontlaadbeveiliging
-- Overspanningsbeveiliging
+LFP-cellen zijn thermisch aanzienlijk stabieler dan de NMC-cellen in oudere powerstations: ze verdragen hogere temperaturen en reageren minder heftig op beschadiging. Dat maakt het risico op thermische runaway veel kleiner, maar niet nul — het blijft een lithiumaccu. Laad hem daarom niet onbeheerd in een gesloten auto in de zon, en houd hem uit de buurt van brandbaar materiaal.
 
-De LiFePO4-celchemie is inherent veiliger dan lithium-ion (NMC) cellen die in sommige oudere powerstations worden gebruikt. Er is geen risico op thermische runaway, wat LFP-batterijen bijzonder geschikt maakt voor gebruik binnenshuis en in tenten.
-
----
+De C1000 draagt CE-markering conform de Laagspanningsrichtlijn en de EMC-richtlijn; dat is het wettelijk minimum voor verkoop in de EU. Controleer bij een aanschafwaarde boven de €500 of je inboedelverzekering het apparaat dekt.
 
 ## Voordelen en nadelen
 
-### Voordelen
+**Voordelen:** snelste AC-laadtijd in de klasse volgens de fabrieksopgave; lichtste in zijn capaciteitsklasse; twee volwaardige 100 W USB-C-poorten; UPS-functie met 20 ms omschakeling; SurgePad tot 2.400 W; vijf jaar fabrieksgarantie; laadsnelheid instelbaar voor stil gebruik.
 
-- **Extreem snel opladen** -- van 0 naar 80% in slechts 43 minuten via stopcontact
-- **Compact en licht** -- 12,9 kg is uitstekend voor deze capaciteitsklasse
-- **Twee USB-C 100W-poorten** -- beide poorten ondersteunen snelladen
-- **LiFePO4-batterij** -- 3000 cycli voor jarenlange levensduur
-- **UPS-functie met 20ms schakeling** -- betrouwbare noodstroom
-- **Uitstekende app** -- intuïtief, responsief en functioneel
-- **SurgePad** -- effectief vermogen tot 2400W voor zwaardere apparaten
-- **5 jaar garantie** -- vertrouwen in het product
-- **Stil bij normaal gebruik** -- de koeling slaat pas hoorbaar aan bij snelladen
+**Nadelen:** zonne-input beperkt tot 300 W; acht uitgangen is aan de krappe kant; geen aparte 12 V DC-uitgangen; geen enkele bescherming tegen water of stof; koeling hoorbaar tijdens snelladen.
 
-### Nadelen
+## Voor wie is de C1000?
 
-- **Solar-input beperkt tot 300W** -- minder dan concurrenten zoals de EcoFlow Delta 2 (500W)
-- **Minder uitgangen** -- 8 in totaal, minder dan sommige concurrenten
-- **Geen 12V DC5521-uitgangen** -- alleen een auto-aansluiting
-- **Niet waterdicht** -- bescherming tegen regen is noodzakelijk
-- **Ventilatorgeluid bij HyperFlash** -- merkbaar bij snelladen
+**Wel kiezen als:** je het station regelmatig verplaatst en gewicht telt; je vooral via het stopcontact bijlaadt; je een UPS voor een thuiswerkplek zoekt; je twee laptops tegelijk snel wilt kunnen laden.
 
----
+**Niet kiezen als:** je meerdere dagen achtereen op zon wilt draaien; je veel apparaten tegelijk wilt aansluiten; je meer dan 1.800 W continu nodig hebt; je iets zoekt dat tegen regen kan.
 
-## Voor wie is de Anker SOLIX C1000?
+## Ons oordeel
 
-De SOLIX C1000 is ideaal voor:
+De C1000 kiest bewust voor compactheid en laadsnelheid, en betaalt daarvoor met zonne-input en aantal poorten. Dat is een verdedigbare keuze, en voor het grootste deel van de gebruikers de juiste: de meeste powerstations worden thuis of op een camping met stroomaansluiting bijgeladen, niet dagenlang op panelen.
 
-- **Campingliefhebbers** die een lichte, compacte stroomvoorziening willen zonder in te leveren op capaciteit. Bekijk ook ons [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/).
-- **Thuisgebruikers** die een betrouwbare noodstroomvoorziening zoeken voor essentiële apparaten tijdens een stroomstoring.
-- **ZZP'ers en digitale nomaden** die op locatie stroom nodig hebben voor laptop en apparatuur.
-- **Festivalgangers** die onafhankelijk willen zijn van generatoren en stopcontacten.
+Wie het apparaat echt off-grid wil inzetten, komt aan 300 W tekort en kan beter een model met een hogere zonne-input nemen. Voor alle andere gevallen levert Anker hier een station dat licht is, snel bijlaadt en met vijf jaar garantie een nette dekking meebrengt.
 
-Het station is minder geschikt als je heel veel apparaten tegelijk wilt draaien (kies dan de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/)) of als je maximale solar-input nodig hebt voor off-grid gebruik (overweeg dan de [Jackery Explorer 2000 Plus](/posts/jackery-explorer-2000-plus-review-2026/)).
+Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) en onze gids over [zonnepaneel-powerstation combinaties](/posts/beste-zonnepaneel-powerstation-combinatie-2026/).
 
----
-
-## Prijs en waar te koop
-
-De Anker SOLIX C1000 heeft een adviesprijs van **€899**. Regelmatig zijn er acties en kortingen, vooral tijdens Prime Day, Black Friday en via de officiële Anker-webshop.
-
-<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/anker-solix-c1000-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker SOLIX C1000 →</a>
-
-Anker biedt ook bundelaanbiedingen aan met bijpassende zonnepanelen. Wil je de C1000 combineren met een zonnepaneel? Lees dan ook ons artikel over de [beste zonnepaneel-powerstation combinaties van 2026](/posts/beste-zonnepaneel-powerstation-combinatie-2026/).
-
----
-
-## Conclusie
-
-De **Anker SOLIX C1000** bewijst dat je geen groot en zwaar powerstation nodig hebt voor serieuze prestaties. Met 1056Wh capaciteit, 1800W continu vermogen en een razendsnelle laadtijd van onder een uur levert Anker een indrukwekkend apparaat in een compact en licht pakket.
-
-De LiFePO4-batterij met 3000 cycli levensduur, de betrouwbare UPS-functie en de uitstekende app maken de C1000 tot een veelzijdig powerstation dat je jarenlang trouw van dienst is. Of je het nu meeneemt op de camping, inzet als noodstroom of gebruikt voor werk op locatie -- de C1000 kan het aan.
-
-Ja, de solar-input van 300W is beperkter dan sommige concurrenten en het aantal uitgangen is niet het hoogste in de klasse. Maar als je prioriteit geeft aan compactheid, snelheid en gebruiksgemak, dan is de Anker SOLIX C1000 een uitstekende keuze in 2026.
-
-<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/anker-solix-c1000-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bestel de Anker SOLIX C1000 via onze link →</a>
-
-Bekijk ook ons complete [overzicht van de beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/) voor een bredere vergelijking.
-
----
-
-
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
-
-## Vier toepassingen die vaak worden vergeten
-
-Naast camping en noodstroom zijn er gebruiksscenario's die minder in het oog springen. De draaitijden hieronder volgen uit de capaciteit van 1.056 Wh gedeeld door het typische verbruik van de genoemde apparaten.
-
-**Doorwerken tijdens een stroomstoring**
-Een thuiswerkplek met laptop (65W), externe monitor (30W), router (15W) en een telefoonlader komt op circa 110W. Dat geeft 1.056 Wh / 110W ≈ 9,6 uur — ruim een werkdag. Voor wie thuiswerkt in een gebied met een ouder net is dat het verschil tussen doorwerken en een verloren dag.
-
-**Stroom op een locatie zonder aansluiting**
-Bij werk in leegstaande panden, nieuwbouw of monumenten zonder actieve aansluiting kan de C1000 meetapparatuur, laptop en een LED-werklamp een dag lang voeden. Voordeel boven een aggregaat: geen geluid, geen uitlaatgassen, dus ook binnen te gebruiken.
-
-**Buitenevenementen en geluidsapparatuur**
-Een kleine DJ- of pa-set — mixer (50W) plus twee actieve speakers (2× 80W) — trekt ongeveer 210W. Dat geeft bijna 4 uur op één lading. Genoeg voor een buurtbarbecue of straatmarkt zonder dieselaggregaat.
-
-**Koelapparaten overbruggen bij een verhuizing**
-Een vriezer die tijdens een verhuizing enkele uren van het net moet, verbruikt gemiddeld 100-130W. De C1000 overbrugt daarmee circa 8 uur — genoeg om de inhoud op temperatuur te houden tijdens het transport. Sluit de vriezer wel aan vóór het rijden en houd hem gesloten: elke keer openen kost extra energie.
-
----
-
-## De Anker SOLIX C1000 als noodstroom voor medische apparatuur
-
-Een onderschat gebruiksscenario voor de C1000 is thuisgebruik voor mensen met medische apparatuur die stroom afhankelijk zijn.
-
-**CPAP-apparaat (slaapapneu)**
-Een CPAP-apparaat verbruikt 30-80W, afhankelijk van het model en de drukinstelling. Op de C1000 draait een CPAP-apparaat 13-35 uur op een volledige lading. Dat is 1-2 nachten slapend, zelfs zonder stopcontact. Cruciaal voor mensen die CPAP niet kunnen missen.
-
-Let op: sommige CPAP-apparaten (met verwarmde luchtbevochtiging) trekken meer vermogen. Controleer je eigen model. De C1000 levert een zuivere sinusgolf — essentieel voor CPAP-apparaten die op sinusgolf vereisen.
-
-**Medicijnkoelkast**
-Insuline en sommige andere medicijnen moeten gekoeld blijven (2-8°C). Een kleine medicijnkoelkast (20-30W) draait 35-50 uur op de C1000. Meer dan genoeg voor een stroomstoring van een dag.
-
-**Rolstoelaccu opladen**
-Een elektrische rolstoel heeft doorgaans een accu van 24V 20Ah = 480Wh. Via de 230V-lader oplaadbaar via de C1000, of via de 12V-uitgang met de juiste adapter. De C1000 kan een rolstoeaccu 2× volledig opladen.
-
----
-
-## Jaarberekening: wat levert de Anker SOLIX C1000 op?
-
-Twee **modelberekeningen** met expliciete aannames. Geen metingen — bij een ander verbruiksprofiel of andere tarieven verandert de uitkomst.
-
-**Scenario 1: Noodstroom bij stroomuitval**
-
-Aanname over storingsfrequentie: volgens de jaarrapportages van de Nederlandse netbeheerders gaat het om enkele storingen per jaar van meer dan 30 minuten; één langere storing van 4-8 uur per jaar is een realistische aanname voor woningen in ouder netgebied.
-
-- Vrieserkast (130W gemiddeld): 8 uur = 1.040 Wh
-- Koelkast (80W gemiddeld): 8 uur = 640 Wh
-- Router + 2 telefoons + LED-verlichting: 8 uur = 480 Wh
-- **Totaal: 2.160 Wh** — de C1000 haalt 50% van dit scenario op één lading, genoeg om koelkast, wifi en verlichting 4,5 uur vol te houden
-
-Alternatief zonder powerstation: vriezerverlies bij één stroomstoring kan €50-€200 aan voedsel kosten. De C1000 betaalt zichzelf terug na 5-10 stroomstoringen, of direct als je hem ook voor andere doeleinden gebruikt.
-
-**Scenario 2: Camping (30 nachten per jaar)**
-
-- Campingbox 45W, 10 uur per nacht: 450 Wh
-- Telefoons opladen (2 personen): 50 Wh
-- Verlichting (LED strip): 30 Wh
-- Laptop (1 uur werken): 80 Wh
-- **Totaal per nacht: 610 Wh** — één volledige lading duurt anderhalve campingnacht
-
-Met een 200W zonnepaneel (circa €350 bij Anker) laad je de C1000 overdag volledig op. Je bent energetisch onafhankelijk. Besparing ten opzichte van campingstroomaansluiting (€3-€7 per nacht): **€90-€210 per seizoen**.
-
----
-
-## Veelgemaakte fouten bij het gebruik van een powerstation
-
-**Fout 1: Powerstation leeg laten staan**
-Een LiFePO4-batterij die maanden leeg staat veroudert sneller. Bewaar de C1000 bij 40-60% lading. Laad hem elke 3-4 maanden bij als je hem niet gebruikt.
-
-**Fout 2: Apparaten aansluiten boven 1800W piekvermogen**
-Een inductiekookplaat op vol vermogen (2.200-2.400W) overbelast de C1000. Gebruik de magnetron of kookplaat op lagere stand, of kies een powerstation met meer vermogen (EcoFlow Delta 2 Max, 2.400W continu).
-
-**Fout 3: Powerstation opladen in hete auto**
-LiFePO4 tolereert temperaturen tot 45°C, maar in een auto op een warme dag kan de temperatuur oplopen tot 60-80°C. Laat de C1000 niet in een gesloten auto staan in de zon — dat versnelt degradatie.
-
-**Fout 4: Niet de app gebruiken**
-De app voegt echte waarde toe: op afstand laadstatus bekijken, laadsnelheid verlagen (stiller 's nachts), en updates installeren die de prestaties verbeteren.
-
----
-
-## Wettelijk kader 2026: powerstations en veiligheid
-
-**CE-markering:** De Anker SOLIX C1000 heeft CE-certificering conform de Laagspanningsrichtlijn en de EMC-richtlijn. Dit is het wettelijke minimum voor legale verkoop in de EU.
-
-**Gebruik in appartementen:** Powerstations zijn toegestaan in huurwoningen. LiFePO4 is brandveilig door de stabiele chemie. Check of je inboedelverzekering powerstations dekt bij een waarde boven €500.
-
-**Reizen met powerstation:** Op vliegtuigen zijn powerstations tot 100 Wh in handbagage toegestaan. De C1000 heeft 1.056 Wh — niet toegestaan in vliegtuigen (handbagage noch ruimbagage). Vervoer altijd over de weg bij internationale reizen.
-
----
-
-<a href="https://go.duurzaamthuislab.nl/anker-solix" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Anker Solix</a>
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/anker-solix-c1000-review-2026/" class="cta cta-affiliate" target="_blank" rel="noopener nofollow sponsored">Bekijk de actuele prijs van de Anker SOLIX C1000 →</a>
