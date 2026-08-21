@@ -1,8 +1,8 @@
 ---
-title: "Goedkoopste zonnepanelen pakket 2026: budget-keuzes top 7"
+title: 'Goedkoopste zonnepanelen pakket 2026: waar de prijs vandaan komt'
 date: 2026-08-13T08:00:00+02:00
-lastmod: 2026-08-13T08:00:00+02:00
-description: "Goedkoopste zonnepanelen pakket in 2026: 7 budget-opties van €1.499 tot €4.999 incl. installatie. Welke is écht een koopje?"
+lastmod: 2026-08-21T08:00:00+02:00
+description: 'Wat bepaalt de prijs van een zonnepanelenpakket in 2026? Prijs per Wp, welke posten installateurs weglaten en de acht punten die je in elke goedkope offerte controleert.'
 categories: ["zonne-energie"]
 tags: ["zonnepanelen", "pakket", "goedkoopst", "budget", "prijzen", "installateur"]
 keywords: ["goedkoopste zonnepanelen pakket 2026", "zonnepanelen pakket prijs", "betaalbare zonnepanelen", "zonnepanelen budget", "zonnepanelen aanbieding"]
@@ -11,326 +11,127 @@ author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: "https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70"
 schema_type: "Article"
-last_updated: 2026-04-29
 faq:
-  - q: "Wat is het goedkoopste zonnepanelen pakket in 2026?"
-    a: "Voor doe-het-zelf: 4 panelen plug-in (Solarrun) vanaf €1.499 incl. micro-omvormers. Met installatie: 6 panelen pakket (Zonneplan, Zonneplan Compact) vanaf €2.999 incl. plaatsing. Onder €1.500 incl. installatie bestaat in 2026 niet voor serieuze pakketten."
-  - q: "Wat zit er in een goedkoop pakket?"
-    a: "Standaard: panelen (375-440 Wp), omvormer (string of micro), montage materiaal (rails, klemmen), installatie en oplevering. Goedkope pakketten besparen vaak op: monitoring (geen app), kabeldikte (€0 vs €100 verschil), garantie-jaren (5 ipv 10), of merk-omvormer (chinese ipv Enphase/SolarEdge)."
-  - q: "Is goedkoop ook goed?"
-    a: "Soms wel, soms niet. Een Solarrun pakket van €1.499 voor 4 panelen werkt prima 10-15 jaar, maar mist monitoring. Een €2.999 Zonneplan pakket bevat alles. Onder €600/paneel wordt risico te groot — controleer altijd: omvormer-merk, monteurs-certificaat, garantie-papieren."
-  - q: "Wat kost een gemiddeld pakket per Wp?"
-    a: "Budget pakketten 2026: €1,10-€1,40/Wp incl. installatie. Standaard: €1,50-€1,80/Wp. Premium (Enphase, glas-glas): €2,00-€2,50/Wp. Onder €1,00/Wp wordt zelden serieus aangeboden — wees alert op tussenpartijen die niet leveren."
-  - q: "Werkt een goedkoop pakket met thuisbatterij?"
-    a: "Ja, mits omvormer compatible is. Goedkope pakketten met Chinese string-omvormers (Solis, Growatt) werken met de meeste batterijen. Premium Enphase systemen werken met alle batterijen. Vraag VOORAF naar batterij-compatibility — sommige goedkope omvormers ondersteunen geen later toegevoegde batterij."
-  - q: "Is zelf-installatie de goedkoopste optie?"
-    a: "Ja, je bespaart €600-€1.500 op installatie. Risico's: garantie loopt af bij verkeerde montage, valpartij bij dak-werk, niet-conforme aansluiting kan brand veroorzaken. Voor 4-6 panelen op een schuurdak: redelijk haalbaar. Voor 10+ panelen op woning: laat installeren."
-  - q: "Welke fabrikanten zijn betrouwbaar in budget-segment?"
-    a: "Trina Solar, JinkoSolar, JA Solar (top-3 wereldwijd, betrouwbaar). LONGi en Canadian Solar ook OK. Vermijd: onbekende Chinese merken zonder NL-distributeur (garantie-claim bijna onmogelijk). Voor omvormer: Solis en Growatt OK voor budget; Huawei, SolarEdge, Enphase voor premium."
-  - q: "Krijg ik nog subsidie?"
-    a: "Geen nationale subsidie op zonnepanelen in 2026. Wel: BTW-teruggave (21%) bij aanmelding als kleine ondernemer (kosteloos via belastingdienst.nl). Sommige gemeenten geven €500-€1.000 (zie [gemeentelijke subsidie zonnepanelen 2026](/posts/gemeentelijke-subsidie-zonnepanelen-2026/))."
-products:
-  - name: "Zonneplan Compact zonnepanelenpakket"
-    url: "https://go.duurzaamthuislab.nl/zonneplan"
-    price: "2999"
-  - name: "Marstek Venus E thuisbatterij (combineren)"
-    url: "https://go.duurzaamthuislab.nl/marstek"
-    price: "2299"
-  - name: "Tibber dynamisch contract"
-    url: "https://go.duurzaamthuislab.nl/tibber"
-    price: "6"
+  - q: 'Publiceren jullie een lijst met de goedkoopste pakketten en hun prijzen?'
+    a: 'Nee. De meeste Nederlandse installateurs publiceren geen vaste consumentenprijs voor een compleet pakket; de prijs komt pas uit een offerte na een dakinspectie. Wij nemen geen prijzen over die wij niet op een leverancierspagina kunnen terugvinden. Wat wij wel doen: uitleggen uit welke posten de prijs is opgebouwd, zodat je twee offertes naast elkaar kunt leggen.'
+  - q: 'Wat zit er in een compleet zonnepanelenpakket?'
+    a: 'Panelen, een omvormer (string of micro), montagemateriaal (rails, klemmen, dakhaken of ballast), bekabeling, de aansluiting in de meterkast, de installatie zelf en de aanmelding bij de netbeheerder. Goedkope pakketten besparen meestal op monitoring, op de omvormerklasse, op de installatiegarantie of op de dakbevestiging.'
+  - q: 'Is een goedkoop pakket ook een goed pakket?'
+    a: 'Dat hangt van je dak af. Op een schaduwvrij dak met één oriëntatie doet een eenvoudig stringsysteem nauwelijks onder voor een duurder systeem met optimizers. Op een dak met een schoorsteen, dakkapel of meerdere vlakken kost dezelfde besparing je jaarlijks opbrengst. Beoordeel de prijs dus nooit los van de dakindeling.'
+  - q: 'Hoe vergelijk ik twee offertes eerlijk?'
+    a: 'Reken beide terug naar euro per wattpiek (totaalprijs gedeeld door het opgestelde vermogen) en leg daarnaast wat er verschilt: merk en type omvormer, wel of geen optimizers, garantietermijnen op paneel, omvormer en installatie, en of de dakbevestiging bij jouw dakbedekking past. Zonder die vier punten zegt een prijsverschil weinig.'
+  - q: 'Werkt een goedkoop pakket later samen met een thuisbatterij?'
+    a: 'Meestal wel, maar niet vanzelf. Een AC-gekoppelde batterij werkt achter vrijwel elke omvormer. Een DC-gekoppelde batterij hoort bij een omvormer van hetzelfde merk. Vraag vooraf schriftelijk of het aangeboden omvormertype een batterijaansluiting heeft — anders is uitbreiden later een omvormervervanging.'
+  - q: 'Is zelf installeren de goedkoopste optie?'
+    a: 'Zelf leggen scheelt de arbeidskosten, maar het btw-nultarief geldt voor de levering én installatie van panelen bij een woning. Koop je losse panelen bij een webshop en leg je ze zelf, dan kan de verkoper 21 procent btw rekenen. Dat verschil eet een groot deel van de arbeidsbesparing op. Daarnaast vervalt de installatiegarantie en draag je zelf het valrisico.'
+  - q: 'Welke paneelfabrikanten zijn in het budgetsegment betrouwbaar?'
+    a: 'Kijk minder naar de merknaam en meer naar de garantievoorwaarden en of het merk een Nederlandse distributeur heeft. Zonder distributeur in Nederland is een garantieclaim in de praktijk lastig. Vraag de installateur bij welke partij een claim wordt ingediend en wie de arbeidskosten van een vervanging draagt.'
+  - q: 'Krijg ik nog subsidie op zonnepanelen?'
+    a: 'Nee. Er is geen landelijke subsidie op zonnepanelen voor particulieren, en de ISDE dekt panelen niet. Wat wel geldt: het btw-nultarief op de levering en installatie van panelen bij een woning. Sinds 1 januari 2023 is er ook geen btw-teruggaveroute meer — je betaalt gewoon geen btw. Sommige gemeenten hebben een eigen regeling; controleer dat bij je eigen gemeente.'
 ---
-*Disclosure: de links naar Marstek, Tibber en Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met deze partijen geen affiliate- of commissierelatie.*
+*Disclosure: dit artikel bevat geen affiliate-links. De genoemde partijen zijn gewone verwijzingen — wij hebben met hen geen affiliate- of commissierelatie en verdienen niets aan de links in dit artikel.*
 
-Een buurman vroeg me vorige maand: "Mark, wat is het goedkoopste pakket dat ik kan kopen zonder later spijt?" Hij had een offerte van €4.500 voor 8 panelen. Te duur, dacht hij. Klopt — voor 8 standaard panelen betaal je in 2026 zo'n €3.200-€3.800 incl. plaatsing. Hij had €700-€1.300 te veel offerte gekregen.
+"Wat is het goedkoopste pakket dat ik kan kopen zonder er later spijt van te krijgen?" is de meest gestelde vraag over zonnepanelen, en de moeilijkste om eerlijk te beantwoorden. Niet omdat het antwoord ingewikkeld is, maar omdat vrijwel geen enkele Nederlandse installateur een vaste consumentenprijs publiceert. De prijs komt pas uit een offerte, na een dakinspectie, en verschilt per dakbedekking, per aantal doorvoeren en per regio.
 
-Maar onder €2.500 voor 6+ panelen zit risico. In dit artikel rangschik ik 7 daadwerkelijk verkrijgbare budget-pakketten van augustus 2026, met de échte prijzen die ik in offertes vond. Plus: hoe je verkooppraatjes herkent en wat je MOET checken voordat je tekent.
+Daarom staat er in dit artikel geen lijstje met "de zeven goedkoopste pakketten en hun prijzen". Zulke lijstjes circuleren wel, maar de bedragen erin zijn zelden herleidbaar tot een leverancierspagina, en de aanbieders die erin genoemd worden zijn dat soms evenmin. **Wat je hieronder wél vindt: hoe de prijs van een pakket is opgebouwd, waar goedkope aanbieders op besparen, en de acht punten waarmee je twee offertes eerlijk naast elkaar legt.**
 
----
+> **Kort antwoord:** vergelijk pakketten op euro per wattpiek én op vier inhoudelijke punten — omvormerklasse, wel of geen optimizers, garantietermijnen en dakbevestiging. Een lage prijs per Wp op een dak met schaduw of meerdere oriëntaties is geen koopje maar een structureel opbrengstverlies.
 
+## Waarom je bijna nergens een kale pakketprijs vindt
 
-> **Kort antwoord:** Goedkoopste zonnepanelen pakket in 2026: 7 budget-opties van €1.499 tot €4.999 incl. installatie. Welke is écht een koopje?
->
-> Voor doe-het-zelf: 4 panelen plug-in (Solarrun) vanaf €1.499 incl. micro-omvormers. Met installatie: 6 panelen pakket (Zonneplan, Zonneplan Compact) vanaf €2.999 incl. plaatsing. Onder €1.500 incl. installatie bestaat in 2026 niet voor serieuze pakketten.
+Een zonnepanelenpakket is geen product uit een schap. Wat de installateur moet doen, hangt af van je dakbedekking (pannen, bitumen, leien), van het aantal dakdoorvoeren, van de afstand tussen dak en meterkast, van de staat van je groepenkast en van de vraag of er een steiger nodig is. Twee identieke woningen in dezelfde straat kunnen honderden euro's uit elkaar liggen.
 
-## Top 7 goedkoopste pakketten
+Aanbieders die tóch met een vanaf-prijs adverteren, rekenen die vanaf-prijs op de gunstigste variant: een eenvoudig schuin pannendak, één vlak, geen steiger, standaard groepenkast. Zodra er iets afwijkt komt er meerwerk bij. Dat is niet per se oneerlijk, maar het maakt de geadverteerde prijs ongeschikt om mee te vergelijken.
 
-| Pakket | Panelen | Wp totaal | Prijs incl. installatie | €/Wp | Voor wie |
-|--------|---------|-----------|------------------------|------|----------|
-| **Solarrun Plug-in 4** | 4 | 1.600 Wp | €1.499 (zelf-installatie) | €0,94 | Schuur, kleine balkon |
-| **Zonneplan Compact 6** | 6 | 2.460 Wp | €2.999 | €1,22 | Klein huishouden |
-| **Independer 8** | 8 | 3.200 Wp | €3.799 | €1,19 | Standaard rijtjeshuis |
-| **GroenGas Solar 10** | 10 | 4.000 Wp | €4.299 | €1,07 | Gemiddeld huis |
-| **Engie EasyVolt 12** | 12 | 4.920 Wp | €5.199 | €1,06 | Groot huishouden |
-| **Zonneplan Standaard 14** | 14 | 5.740 Wp | €6.299 | €1,10 | Eengezinswoning |
-| **MijnEnergie 6** | 6 | 2.580 Wp | €2.799 | €1,09 | Budget kleinverbruiker |
+Wat je daarom altijd opvraagt: een offerte met een **uitgesplitste componentlijst** en een **dakindelingstekening met paneelnummering**. Zonder die twee vergelijk je getallen zonder te weten wat erachter zit.
 
-Prijzen per augustus 2026, gebaseerd op live offertes. Kunnen variëren met €100-€300.
+## Prijs per wattpiek: de enige vergelijkingsmaat die werkt
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan →</a>
+Deel de totale offerteprijs door het opgestelde vermogen in wattpiek. Een pakket van tien panelen van 430 Wp is 4.300 Wp; kost het pakket €4.700, dan zit je op €1,09 per Wp.
 
----
+Die maat maakt pakketten van verschillende omvang vergelijkbaar, en laat meteen het schaaleffect zien: de vaste kosten (voorrijden, steiger, meterkastwerk, aanmelding) zitten in elk pakket, maar worden bij meer panelen over meer wattpieken uitgesmeerd. Daarom daalt de prijs per Wp bijna altijd naarmate het pakket groter wordt — en daarom is het kleinste pakket zelden het voordeligste per opgewekte kilowattuur.
 
-## 1. Solarrun Plug-in 4 — €1.499 (zelf-installatie)
+*Marktrichtprijs (indicatie, geen vendoropgave):* voor een compleet geïnstalleerd systeem op een eenvoudig schuin dak liggen offertes in Nederland doorgaans tussen ruwweg één en twee euro per wattpiek, waarbij het onderste deel van die bandbreedte hoort bij grotere pakketten met een eenvoudige stringomvormer en het bovenste deel bij kleine pakketten of systemen met micro-omvormers of optimizers. Gebruik dit alleen als ordegrootte om te zien of een offerte ver buiten de markt ligt, niet als onderhandelingsbedrag: de enige prijs die telt, is die uit jouw eigen offertes.
 
-**Inhoud:** 4× Trina Solar 410 Wp panelen + 4× Hoymiles HMS-400 micro-omvormers + montage-rails + handleiding. Plug-in stekker (Schuko 230V) — geen meterkast aanpassing.
+## Waar een goedkoop pakket op bespaart
 
-**Voordelen:**
-- Goedkoopst van de markt (€375 per paneel inclusief micro-omvormer)
-- Plug-and-play in 2-4 uur
-- Per paneel monitoring via Hoymiles app
-- Geen netbeheerder-melding nodig (<800 Wp grenswaarde, formeel onder discussie — check huidige regelgeving)
+Een lagere prijs komt zelden uit lucht. Dit zijn de posten waarop in de praktijk wordt gesneden, en wat dat je kost.
 
-**Nadelen:**
-- Zelf op dak (valgevaar — gebruik klimsteiger)
-- Maximaal 1.600 Wp output (bij 4 panelen)
-- Geen garantie op installatie (alleen op materiaal)
-- Schuko-stekker discussie: technisch niet conform NEN-norm. Risico bij verzekering.
+**De omvormerklasse.** Een eenvoudige stringomvormer is fors goedkoper dan een systeem met micro-omvormers of optimizers per paneel. Op een schaduwvrij dak met één oriëntatie is dat een verstandige besparing. Zodra er een schoorsteen, dakkapel of boom in het spel is, trekt één beschaduwd paneel de hele string omlaag en betaal je jaarlijks voor de besparing van vandaag. Zie [micro-omvormer versus stringomvormer](/posts/micro-omvormer-vs-string-omvormer-2026/) en [beste omvormer zonnepanelen](/posts/beste-omvormer-zonnepanelen-2026/).
 
-**Voor wie:** schuren, garages, kleine balkons, doe-het-zelvers met dak-ervaring.
+**Monitoring.** Zonder monitoring op paneelniveau merk je niet dat één paneel structureel achterblijft — en dat is precies wat je nodig hebt om een garantieclaim te onderbouwen. Monitoring op stringniveau laat alleen zien dat het totaal tegenvalt, niet waar het aan ligt.
 
-Lees [zonnepanelen met of zonder installateur 2026](/posts/zonnepanelen-met-of-zonder-installateur-2026/).
+**De installatiegarantie.** Paneel- en omvormergarantie lopen via de fabrikant en blijven bestaan als de installateur omvalt. De garantie op het werk — dakdoorvoeren, waterdichtheid, bevestiging — loopt via het installatiebedrijf. Een korte installatiegarantie is de goedkoopste post om op te snijden en de duurste om later nodig te hebben.
 
----
+**De dakbevestiging.** Op een plat dak is het verschil tussen een geschroefd frame en een ballastsysteem substantieel. Een schroefbevestiging door bitumen of EPDM introduceert lekkagerisico dat je pas jaren later ziet. Vraag expliciet welk bevestigingssysteem bij jouw dakbedekking wordt gebruikt en of de dakdekker of dakgarantie daarmee akkoord is.
 
-## 2. Zonneplan Compact 6 — €2.999
+**Kabeldikte en tracé.** Te dunne DC-bekabeling over een lange afstand kost rendement en is achteraf niet te corrigeren zonder het dak weer op te gaan.
 
-**Inhoud:** 6× LONGi 410 Wp panelen + 1× SolarEdge SE3000 string-omvormer + monitoring app + 25 jaar paneel-garantie + 12 jaar omvormer-garantie + installatie + meterkast aansluiting.
+## Wat de offerte moet bevatten
 
-**Voordelen:**
-- Bewezen merk (Zonneplan = Greenchoice-dochter, NL-marktleider)
-- SolarEdge omvormer is premium (vs Solis bij budget-concurrenten)
-- 25 jaar prestatiegarantie panelen
-- Live monitoring via app (zie [beste energiemonitor P1 meter 2026](/posts/beste-energiemonitor-p1-meter-2026/))
-- Installatie binnen 4-8 weken na bestelling
+Acht punten. Ontbreekt er één, dan is de offerte niet compleet genoeg om te tekenen.
 
-**Nadelen:**
-- Niet het goedkoopste (€500/Wp meer dan een 12-paneel pakket)
-- Geen optimisers per paneel (string-omvormer betekent: 1 paneel in schaduw verlaagt hele string)
+1. **Merk en typenummer van elk paneel**, met het vermogen per paneel en het jaarlijkse degradatiepercentage uit de datasheet.
+2. **Merk en volledig typenummer van de omvormer.** "Een Huawei" of "een SolarEdge" is geen specificatie: binnen elke familie zitten klassen die tienduizenden euro's uit elkaar liggen. Zie onze [Huawei SUN2000-review](/posts/huawei-sun2000-omvormer-review-2026/) voor hoe groot dat verschil binnen één merknaam kan zijn.
+3. **Wel of geen optimizers**, en zo ja: onder welke panelen. Optimizers hoeven niet onder alle panelen te zitten.
+4. **Drie garantietermijnen apart**: productgarantie paneel, prestatiegarantie paneel, garantie omvormer, plus de garantie op het installatiewerk. En bij wie je elke claim indient.
+5. **Een dakindelingstekening** met genummerde panelen. Dit voorkomt de klassieke verrassing dat er op de dag van installatie twee panelen minder passen dan geoffreerd.
+6. **Het bevestigingssysteem**, afgestemd op je dakbedekking.
+7. **De opbrengstprognose met de gebruikte aannames**: oriëntatie, hellingshoek, schaduwverlies. Een prognose zonder aannames is niet controleerbaar. Wat een oost-westopstelling met je profiel doet, staat in [oost-west versus zuid](/posts/oost-west-zonnepanelen-vs-zuid-2026/).
+8. **Het betaalschema.** Een aanbetaling van het volledige bedrag vóór levering is in deze markt niet gebruikelijk en legt het risico volledig bij jou.
 
-**Voor wie:** klein tot gemiddeld huishouden (1.500-2.500 kWh), lichte schaduw, beginners die zekerheid willen.
+## Signalen om weg te lopen
 
-Lees [Zonneplan thuisbatterij review 2026](/posts/zonneplan-thuisbatterij-review-2026/).
+**"Door subsidie betaal je maar X."** Er is geen landelijke subsidie op zonnepanelen voor particulieren, en de ISDE dekt panelen niet. Wie dit zegt, verkoopt op een regeling die niet bestaat.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan →</a>
+**"U kunt de btw terugvragen."** Ook dat klopt niet meer. Sinds 1 januari 2023 geldt het nultarief op de levering en installatie van zonnepanelen bij een woning: je betaalt geen btw, dus er valt niets terug te vragen. De oude route via de kleineondernemersregeling is daarmee vervallen. Let op: dat nultarief geldt alleen voor panelen en de daarvoor direct noodzakelijke onderdelen. Een thuisbatterij, warmtepomp of boiler valt onder het gewone tarief van 21 procent.
 
----
+**Een aanbieding die alleen vandaag geldt.** Serieuze installateurs werken met offertes en bedenktijd.
 
-## 3. Independer 8 — €3.799
+**Geen schriftelijke offerte.** Zonder offerte is er geen contract en dus ook geen garantie-aanspraak.
 
-**Inhoud:** 8× JinkoSolar 400 Wp panelen + Solis S6 string-omvormer + montage + installatie. 12 jaar product, 25 jaar prestatie.
+**Een opbrengstprognose zonder aannames.** Prognoses ruim boven wat op een Nederlands dak haalbaar is, komen doorgaans doordat schaduw en oriëntatie buiten beschouwing zijn gelaten. Vraag de onderliggende berekening op.
 
-**Voordelen:**
-- Onafhankelijke matching (Independer matcht je met installateur)
-- Vaste richtprijs in offerte (geen meerwerk)
-- Solis S6 is solide budget-omvormer
+## Vier afwegingsfouten die geld kosten
 
-**Nadelen:**
-- Wisselende installateurs (kwaliteit varieert per partner)
-- Geen retail-storefront — alle communicatie online
-- Solis-app is functioneel maar niet mooi
+**Alleen op prijs per Wp vergelijken.** Twee systemen met dezelfde prijs per Wp kunnen jaren uit elkaar liggen in opbrengst zodra er schaduw is. Reken door naar verwachte opbrengst over de looptijd, niet naar de aanschafprijs alleen.
 
-**Voor wie:** standaard rijtjeshuis, wil prijs vergelijken, comfortabel met online proces.
+**De omvormer op een onverwarmde zolder plaatsen.** Omvormers begrenzen hun vermogen bij hoge omgevingstemperatuur; een hete zolder in juli is precies het moment waarop je opbrengst wilt. Vraag om plaatsing in een koelere ruimte.
 
----
+**Nu klein kopen terwijl er een warmtepomp of elektrische auto aankomt.** Later uitbreiden betekent opnieuw voorrijden, opnieuw steiger, mogelijk een tweede omvormer. Wie binnen enkele jaren zijn verbruik fors ziet stijgen, is meestal goedkoper uit met één keer groter installeren.
 
-## 4. GroenGas Solar 10 — €4.299 (€1,07/Wp)
+**Een groter pakket kopen zonder na te denken over 2027.** De salderingsregeling stopt volledig per 1 januari 2027. Er is geen afbouwpad — de wettelijke regeling houdt op. Vanaf dat moment is de waarde van een teruggeleverde kilowattuur de terugleververgoeding van je leverancier, niet je afnameprijs. Dat verschuift het optimum: overproductie die je zelf niet gebruikt, levert minder op dan nu. Wat dat voor jouw situatie betekent, staat in [zonnepanelen na 2027 rendement berekenen](/posts/zonnepanelen-na-2027-rendement-berekenen/).
 
-**Inhoud:** 10× JA Solar 400 Wp + Growatt MIN 4200TL-X omvormer + montage + installatie. 12 jaar omvormer-garantie via uitgebreide garantie (€100 extra).
+## Modelberekening: klein pakket versus groot pakket na 2027
 
-**Voordelen:**
-- Beste prijs/Wp in de top 7
-- 25 jaar prestatiegarantie
-- Schaalvoordeel: 10 panelen voor maar €1.300 meer dan 6 panelen
+Onderstaande som is een **modelberekening met aannames**, geen offerte en geen meting bij een huishouden.
 
-**Nadelen:**
-- Growatt is OK maar niet premium
-- Beperkt monitoring (geen per-paneel data)
-- Klein bedrijf (mogelijk faillissement-risico)
+*Aannames:* jaarverbruik 2.500 kWh; opbrengst 900 kWh per kWp per jaar; zelfverbruik zonder batterij 30 procent van de opwek; afnameprijs €0,30 per kWh; terugleververgoeding na afloop van de saldering €0,08 per kWh.
 
-**Voor wie:** budget-bewust, hou van veel panelen voor weinig geld.
+| | 2,5 kWp | 5,0 kWp |
+|---|---|---|
+| Opwek per jaar | 2.250 kWh | 4.500 kWh |
+| Direct zelf gebruikt (30%) | 675 kWh | 1.350 kWh |
+| Teruggeleverd | 1.575 kWh | 3.150 kWh |
+| Waarde zelfverbruik (€0,30) | €203 | €405 |
+| Waarde teruglevering (€0,08) | €126 | €252 |
+| **Opbrengst per jaar** | **€329** | **€657** |
 
----
+Het grotere pakket levert in dit model absoluut meer op, maar de tweede helft van de panelen verdient per kilowattuur minder dan de eerste, omdat die opwek grotendeels wordt teruggeleverd tegen het lage tarief. Verhoog je het zelfverbruik — met een batterij, een warmtepomp of gestuurd laden — dan verschuift die verhouding weer. Verander de aannames en de uitkomst verandert mee; dat is precies waarom een prognose zonder zichtbare aannames niets waard is.
 
-## 5-7. Overige opties
+## Als je toch wilt uitbreiden met opslag
 
-**Engie EasyVolt 12 (€5.199):** 12 Trina panelen + Huawei SUN2000 omvormer. Premium gevoel voor middenprijs. Goed voor groot huishouden.
+Een thuisbatterij verhoogt je zelfverbruik en wordt daarmee interessanter naarmate de saldering wegvalt. Twee dingen om vooraf te weten: op een thuisbatterij geldt 21 procent btw (het nultarief van panelen geldt hier niet), en de ISDE dekt thuisbatterijen niet. Reken de terugverdientijd dus door op de prijs inclusief btw en zonder subsidie. Onze rekenpagina [thuisbatterij terugverdientijd vergelijken](/thuisbatterij-terugverdientijd-vergelijken/) doet dat met zichtbare aannames.
 
-**Zonneplan Standaard 14 (€6.299):** 14 LONGi panelen + SolarEdge HD-Wave + per-paneel optimisers. Met optimisers (geen string-issues). Top-keuze als budget €6.000+ kan.
-
-**MijnEnergie 6 (€2.799):** Kleinste prijsoptie via een klein bedrijf, maar gerenommeerd in Brabant/Limburg. Goed voor kleinverbruikers.
-
----
-
-## Wat checken bij goedkope offertes
-
-### 1. Welke omvormer?
-Premium: SolarEdge, Enphase, Huawei.
-OK: Solis, Growatt, GoodWe.
-Vermijden: onbekende Chinese merken (Sungrow uitzondering — die is OK).
-
-Lees [beste omvormer zonnepanelen 2026](/posts/beste-omvormer-zonnepanelen-2026/) en [micro omvormer vs string omvormer 2026](/posts/micro-omvormer-vs-string-omvormer-2026/).
-
-### 2. Garantie-papieren
-Vraag schriftelijk:
-- Paneel-garantie (25 jaar prestatie standaard)
-- Omvormer-garantie (10-12 jaar standaard, soms uitbreidbaar)
-- Installatie-garantie (5 jaar minimaal — als dit minder is, wegrennen)
-- Wat als bedrijf failliet gaat? (panelen-garantie loopt via fabrikant — veilig. Installatie-garantie loopt via bedrijf — niet veilig.)
-
-### 3. Monteurs-certificering
-Erkend monteur heeft:
-- Scope 12 of MIO-certificaat (zonnepanelen-installateur)
-- VCA-certificaat (veiligheid)
-- Aansprakelijkheidsverzekering
-
-Vraag bewijs. Geen bewijs = geen offerte tekenen.
-
-### 4. Concrete materiaalspecs
-"Goede panelen" zegt niets. Vraag:
-- Merk + Model paneel
-- Wp per paneel
-- Jaarlijks degradatie-percentage (max 0,55% bij goede panelen)
-- Glas-glas of glas-folie (glas-glas = duurder maar 35 jaar levensduur)
-
-### 5. Realistische opbrengst-prognose
-Sommige offertes liegen met 1.100 kWh/kWp/jaar — onmogelijk in NL. Realistisch:
-- Zuid optimaal: 950 kWh/kWp
-- Oost-west: 850 kWh/kWp
-- Met schaduw: 700-800 kWh/kWp
-
-Lees [oost west zonnepanelen vs zuid 2026](/posts/oost-west-zonnepanelen-vs-zuid-2026/).
-
----
-
-## Te goedkoop = oplichting?
-
-Pakketten die wèl voorkomen maar je MOET vermijden:
-
-❌ **8 panelen voor €1.999 incl. installatie** — onmogelijk goed werk te leveren onder €250/paneel inclusief btw + arbeid + materiaal.
-
-❌ **"Door subsidie betaal je maar X"** — er is GEEN nationale subsidie op zonnepanelen in 2026. Verkoper die dit zegt liegt of mist informatie.
-
-❌ **Cold call die zegt "morgen aanbieding alleen vandaag"** — alle goede installateurs werken via offertes met bedenktijd. Druk-verkooppraatjes = wegrennen.
-
-❌ **Geen schriftelijke offerte** — geen offerte = geen contract.
-
-❌ **Aanbetaling >30%** — standaard is 30% bij ondertekening, 60% bij installatie, 10% bij oplevering. Vooruitbetaling 100% = scam-risico.
-
----
-
-## Veelgemaakte fouten bij budget-pakketten
-
-Na 14 offertes en gesprekken met klanten zie ik dezelfde valkuilen telkens terugkomen.
-
-**Fout 1: alleen op €/Wp vergelijken.** Een pakket van €1,05/Wp met een Solis-omvormer en zonder optimisers is niet gelijkwaardig aan €1,20/Wp met SolarEdge plus optimisers. Dak met dakkapel of schoorsteen? Een string-systeem zonder optimisers verliest 8-15% rendement door schaduw. Bereken liever €/kWh-opbrengst over 15 jaar.
-
-**Fout 2: omvormer in onverwarmde zolder.** Standaard plaatsen veel installateurs de string-omvormer op zolder. Bij temperaturen boven 45°C derateert de omvormer (8-12% productieverlies in zomer) en bij vorst kan condens ontstaan. Vraag plaatsing in koele technische ruimte of garage.
-
-**Fout 3: contract zonder concrete dakindeling.** Een offerte van "8 panelen voor €3.799" zonder layout-tekening is geen offerte. Bij plaatsing blijken er maar 6 te passen door schoorsteen of dakraam. Goede installateur levert tekening mét panelennummering.
-
-**Fout 4: zonnepanelen kopen voor warmtepomp komt.** Wie binnen 1-2 jaar warmtepomp installeert, heeft 30-50% meer panelen nodig. Eerst kleine set kopen en daarna uitbreiden kost extra installatie-uren. Plan vooruit.
-
-**Fout 5: BTW-teruggave laten liggen.** 60% van particulieren vraagt de BTW niet terug — dat is gewoon €500-€1.200 weggooien. De aanvraag duurt 30 minuten en is risicoloos.
-
-## Wanneer goedkope pakketten NIET de moeite waard zijn
-
-Ik adviseer regelmatig klanten om geen budget-pakket te nemen, ondanks het prijsverschil.
-
-- **Dak met meerdere oriëntaties of veel schaduw.** Hier is een Enphase micro-omvormer of SolarEdge met optimisers (€600-€1.000 meerprijs) binnen 4 jaar terugverdiend door minder rendementsverlies.
-- **Plat dak met mooie zichtlijn.** Goedkope pakketten gebruiken vaak open frames met schroeven. Bij plat dak met dakdekking levert dat lekkagerisico op. Bezint, neem ballastsystemen (€80-€150 per paneel meer) — anders draai je over 6 jaar voor dakherstel op.
-- **Monumentenpand of welstandsgebied.** Goedkope panelen zijn standaard zilverwit of blauwig. Voor monumentenwoningen verplichten gemeentes vaak full-black panelen (€40-€70 meerprijs per paneel). Goedkope leveranciers hebben die niet altijd op voorraad.
-- **Plan om binnen 5 jaar te verkopen.** Investering verdien je dan niet terug — de opbrengst zit in de bewoning. Zonneboiler of betere isolatie heeft sneller effect op woningwaarde.
-
-## Mini case-study: 6 versus 12 panelen in Tilburg
-
-Een klant in Tilburg (rijtjeshuis 1998, gasaansluiting, 2 volwassenen) twijfelde tussen Zonneplan Compact 6 (€2.999) en Standaard 14 (€6.299). Verbruik: 2.350 kWh/jaar.
-
-We rekenden samen door:
-- **6 panelen (2.460 Wp), zuid-dak, geen schaduw:** opbrengst ~2.300 kWh/jaar. Net dekkend, weinig overproductie. Na saldering 2027: nauwelijks teruglevering, dus geen verlies.
-- **14 panelen (5.740 Wp):** opbrengst ~5.400 kWh/jaar. Fors overschot van 3.000 kWh dat na saldering 2027 maar €0,07-€0,10 oplevert in plaats van €0,30.
-
-Bij sterk afgebouwde saldering levert het kleine pakket per geïnvesteerde euro méér op dan het grote. Investering 6 panelen = €2.999 → besparing ~€700/jaar → terugverdientijd 4,3 jaar. Investering 14 panelen = €6.299 → besparing ~€900/jaar → terugverdientijd 7 jaar.
-
-Hij koos het kleine pakket en stopte het verschil (€3.300) in een Marstek Venus E batterij. Conclusie: voor zijn situatie was "minder paneel, wel batterij" financieel sneller terugverdiend dan "maximaal paneel zonder opslag".
-
-Lees voor de berekening achter saldering-afbouw [ROI thuisbatterij na saldering 2027 berekening](/posts/roi-thuisbatterij-na-saldering-2027-berekening/).
-
-## Combineer met goedkope batterij
-
-Goedkope panelen (€2.999) + goedkope batterij (Marstek Venus E €2.299) = totaalsysteem €5.298 voor 6 panelen + 8 kWh batterij. Voor een 2.500 kWh huishouden: terugverdientijd ~6 jaar (zie [ROI thuisbatterij na saldering 2027 berekening](/posts/roi-thuisbatterij-na-saldering-2027-berekening/)).
-
-Vergelijking:
-- Premium pakket (Enphase + Sessy): €11.500. Terugverdientijd 11 jaar.
-- Budget pakket (Zonneplan + Marstek): €5.300. Terugverdientijd 6 jaar.
-
-Voor budget-bewuste huishoudens is de combinatie goedkoop + goedkoop dus financieel slimmer dan premium.
-
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan →</a>
-
----
-
-## Hoe vergelijken in de praktijk
-
-Stappenplan dat ik buurman gaf:
-1. **Vraag 4 offertes** (3 lokale + 1 landelijk via Independer/Zonneplan).
-2. **Bepaal totaal Wp** (rond 4-5 kWp voor gemiddeld huishouden).
-3. **Vergelijk €/Wp** (richtprijs €1,10-€1,40).
-4. **Check omvormer-merk** in elke offerte.
-5. **Vraag installatie-foto's** van eerder werk.
-6. **Lees Trustpilot/Google reviews** (neem onder 4,5 sterren niet serieus).
-7. **Check BTW-teruggave** mogelijkheid (€500-€1.200 bij 8-12 panelen — kosteloos aan te vragen).
-
-Lees [zonnepanelen huren vs kopen 2026](/posts/zonnepanelen-huren-vs-kopen-2026/) als budget écht krap is.
-
----
-
-## Persoonlijk: mijn eigen budget-keuze in 2018
-
-Toen ik mijn eigen huis verduurzaamde koos ik bewust voor een budget-pakket: 10 LONGi 320 Wp panelen + Solis 4G string-omvormer voor €4.100 incl. installatie (toen relatief goedkoop voor 3.200 Wp). Acht jaar later draait het systeem nog elke dag. Dit zijn de dingen die ik destijds anders had gedaan met de kennis van nu.
-
-**Wat goed ging.** Panelen leveren nog steeds 92-94% van het oorspronkelijk vermogen — exact volgens fabrikantgarantie. Geen enkele storing, geen tussentijdse vervanging. De Solis-app is functioneel, niet mooi, maar werkt. Investering terugverdiend in jaar 5. Vanaf jaar 6 puur winst.
-
-**Wat ik zou aanpassen.** Ik had op een nat-koel oost-west dak per-paneel optimisers (Tigo of SolarEdge) moeten nemen. De schoorsteen geeft 's ochtends schaduw op één paneel; door string-koppeling verlies ik in zomer ~7% productie. €450 meerinvestering destijds had me ~€80/jaar opgeleverd — terugverdientijd 5,5 jaar.
-
-**Toekomst.** De Solis-omvormer gaat naar verwachting in 2028-2030 vervangen worden (12-14 jaar levensduur). Kosten dan: ~€900-€1.200. Deze post staat al in mijn financieel plan. Veel mensen denken dat omvormers eeuwig meegaan — dat is niet zo, reserveer.
-
-## Garantie en NL-specifieke zaken (RVO, BTW, Bouwbesluit)
-
-Drie zaken die op het web vaak misgaan en waar je als koper alert op moet zijn.
-
-**RVO en subsidie.** RVO geeft in 2026 géén particuliere subsidie meer voor zonnepanelen (eindigde 2014). Voor warmtepompen en zonneboilers wel via ISDE. Verkopers die "RVO-subsidie" beloven misleiden je. Wat WEL bestaat: gemeentelijke regelingen (€500-€1.500) — beperkt en met wachtlijst.
-
-**BTW-aangifte concreet.** Aanmelden via Mijn Belastingdienst Zakelijk → Aanmelden zonnepanelen-eigenaar. Vul kwartaal in waarin gekocht. BTW retour binnen 6-8 weken op je rekening. Daarna kun je je weer afmelden via de KOR (kleine ondernemersregeling) en heb je nooit meer aangifteverplichting. Dit kost jou nul euro.
-
-**Bouwbesluit en welstandscommissie.** Voor schuine daken zonder monumentenstatus of beschermd dorpsgezicht is geen vergunning nodig. Wél: panelen moeten binnen het dakvlak blijven en niet boven de nokpunt uitsteken. Bij plat dak: hoogte-restrictie 1 meter zonder vergunning, daarboven welstandstoets verplicht.
-
-**Verzekering.** Meld zonnepanelen ALTIJD bij je opstalverzekering. Standaard zijn ze meeverzekerd, maar bij vermogen >5.000 Wp soms tegen een premietoeslag van €15-€40 per jaar. Niet melden = bij brand discussie over uitsluiting.
-
-## BTW-teruggave: gratis €500-€1.200
-
-Voor zonnepanelen kun je je aanmelden als kleine ondernemer (KOR) en de BTW (21%) terugvragen op het pakket. Eénmalige actie:
-1. Aanmelden bij Belastingdienst als ondernemer (kost €0)
-2. BTW-aangifte indienen na koop (kost 30 minuten)
-3. €500-€1.200 BTW retour
-
-Voor pakket €4.299: €746 BTW retour. Effectieve prijs: €3.553. 
-
-Voorwaarde: je hebt zonnepanelen op je woning. Bron: belastingdienst.nl.
-
-Lees [zonnepanelen na 2027 rendement berekenen](/posts/zonnepanelen-na-2027-rendement-berekenen/).
-
----
+Welke merken op de Nederlandse markt hun prijzen publiceren en welke niet, staat in de losse reviews; verschillende fabrikanten publiceren geen consumentenprijs en werken uitsluitend via installateurs.
 
 ## Conclusie
 
-Het goedkoopste serieuze pakket in 2026 is **Zonneplan Compact 6 voor €2.999** (incl. installatie en SolarEdge omvormer). Voor doe-het-zelvers met balkon/schuur: **Solarrun Plug-in 4 voor €1.499**. Onder €2.000 voor 6+ panelen incl. installatie is geen serieuze offerte — wegrennen.
+Er bestaat geen publiceerbare ranglijst "goedkoopste zonnepanelenpakketten 2026", omdat de prijs pas ontstaat op jouw dak. Wat wel bestaat, is een manier om offertes eerlijk te vergelijken: reken terug naar prijs per wattpiek, en leg daarnaast de omvormerklasse, de optimizerkeuze, de vier garantietermijnen en het bevestigingssysteem. Een offerte die op die punten leeg is, is geen goedkope offerte maar een onvolledige.
 
-Combineer een budget-paneelpakket met een Marstek thuisbatterij (€2.299) voor het beste prijs/prestatie systeem in NL: €5.300 voor compleet zonnesysteem met opslag.
+Wie echt op het laagste bedrag stuurt, is bijna altijd beter af met één groter pakket op een eenvoudig dak dan met een klein pakket met dure componenten — mits het dak schaduwvrij is. Is dat niet zo, dan verdient een duurdere omvormerkeuze zichzelf terug in opbrengst die je anders permanent kwijt was.
 
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan →</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Marstek →</a> · <a href="https://go.duurzaamthuislab.nl/tibber" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Probeer Tibber →</a>
-
-*Vragen over een specifieke offerte? Mail [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl) en stuur 'm op.*
+Meer lezen over de afweging zelf doen of laten doen: [zonnepanelen met of zonder installateur](/posts/zonnepanelen-met-of-zonder-installateur-2026/). En als het budget echt krap is: [zonnepanelen huren versus kopen](/posts/zonnepanelen-huren-vs-kopen-2026/).
 
 ---
 
@@ -345,7 +146,3 @@ Combineer een budget-paneelpakket met een Marstek thuisbatterij (€2.299) voor 
 - [Gemeentelijke subsidie zonnepanelen 2026](/posts/gemeentelijke-subsidie-zonnepanelen-2026/)
 - [Oost west zonnepanelen vs zuid 2026](/posts/oost-west-zonnepanelen-vs-zuid-2026/)
 - [Micro omvormer vs string omvormer 2026](/posts/micro-omvormer-vs-string-omvormer-2026/)
-
----
-
-**Externe bron:** [RVO — ISDE-subsidie info](https://www.rvo.nl/subsidies-financiering/isde) — onafhankelijke informatie over dit onderwerp.
