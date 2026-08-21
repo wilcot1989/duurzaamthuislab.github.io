@@ -1,9 +1,9 @@
 ---
-title: Thuisbatterij prijzen vergelijking 2026
+title: 'Thuisbatterij prijzen vergelijken 2026: offertes op één noemer'
 date: 2026-09-26 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 draft: false
-description: Wat kost een thuisbatterij in 2026? Sessy, Marstek, Tesla, Zonneplan en Huawei vergeleken op prijs per kWh, installatie en garantie. Met TCO-tabel.
+description: 'Thuisbatterij-offertes vergelijken in 2026: wat er wel en niet in een prijs zit, welke bedragen leveranciers publiceren, en hoe je koop en huur op dezelfde noemer krijgt.'
 categories:
 - thuisbatterijen
 tags:
@@ -18,288 +18,170 @@ keywords:
 - thuisbatterij prijs per kwh
 - Sessy prijs
 - Marstek prijs
-- Tesla Powerwall prijs
 - Zonneplan prijs
 affiliate: false
 author: Team DuurzaamThuisLab
 author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuisbatterijen en warmtepompen — op basis van specificaties, publieke data en narekenbare modelberekeningen.
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1509391366360-2e959784a276&w=1200&output=webp&q=70
 faq:
-- q: Wat is de goedkoopste thuisbatterij in 2026?
-  a: 'Marstek Venus E is de goedkoopste serieuze thuisbatterij: €2.500 voor 5 kWh basismodel, exclusief installatie. Per kWh kom je dan rond €500/kWh — significant onder de markt. Sessy zit op €550/kWh (excl. installatie), Zonneplan op €700/kWh en Tesla Powerwall 3 rond €815/kWh.'
-- q: Wat kost installatie van een thuisbatterij gemiddeld?
-  a: 'Reken op €800 tot €1.500 voor een standaard installatie zonder meterkast-aanpassing. Met groep bijplaatsen of 3-fase upgrade: €1.500 tot €2.500. Bij Sessy en Zonneplan is installatie inbegrepen in de koopprijs, bij Marstek en Huawei komt het er los bij.'
-- q: Is er BTW-teruggave op een thuisbatterij in 2026?
-  a: 'Nee, anders dan zonnepanelen (0% BTW) heeft een thuisbatterij gewoon 21% BTW. Wel kun je via de Energie-investeringsaftrek (EIA) korting krijgen als zzp''er of bedrijf — maar voor particulieren is er geen aparte regeling.'
-- q: Welke thuisbatterij heeft de beste prijs per kWh?
-  a: 'Marstek Venus E op €500/kWh als je zelf installeert, gevolgd door Sessy op €550/kWh exclusief installatie. Tesla Powerwall 3 is duurste per kWh maar biedt 5 kW continu vermogen en automatische backup. Voor pure capaciteit per euro: Marstek wint, voor systeem-totaalwaarde: Sessy.'
+- q: Welke thuisbatterijprijzen zijn in 2026 daadwerkelijk gepubliceerd?
+  a: 'Sessy publiceert 5 kWh voor €3.550, 10 kWh voor €5.500 en de Plus van 15 kWh voor €9.400, incl. btw en excl. installatie, met een noodstroom-basisinstallatie van €1.200. HomeWizard noemt €1.195 voor 2,7 kWh. Marstek noemt alleen de Jupiter C Plus (€599). Zonneplan adverteert 10 kWh voor €4.690, maar in het eigen frame "na btw-teruggave". Tesla, EcoFlow, Huawei en BYD publiceren geen consumentenprijs. Peildatum augustus 2026.'
+- q: Wat kost installatie van een thuisbatterij?
+  a: 'Dat verschilt te sterk per woning om er een bedrag bij te zetten, en dat is precies waarom je het apart op de offerte wilt zien. Het bedrag hangt af van de afstand tot de meterkast, de ruimte in de groepenkast, of er een omschakelinrichting voor noodstroom bij hoort en of je installatie een of drie fasen heeft. Vraag daarom altijd om uren, materiaal en meldingskosten als losse regels.'
+- q: Is er btw-teruggave of subsidie op een thuisbatterij in 2026?
+  a: 'Nee. Op een thuisbatterij geldt 21 procent btw; het nultarief voor zonnepanelen dekt volgens de Belastingdienst uitdrukkelijk niet de levering en installatie van een accupakket, ook niet bij gelijktijdige aanschaf. Ook de ISDE dekt geen thuisbatterijen. Voor ondernemers bestaat de Energie-investeringsaftrek, die in 2026 op 40 procent staat.'
 - q: Wat zit er meestal niet bij de prijs van een thuisbatterij?
-  a: 'Verborgen kosten zijn: meterkast-aanpassing (€200-€600), groep bijplaatsen (€150-€400), 3-fase upgrade (€800-€2.500), back-up-box voor noodstroom (€400-€900) en soms een aparte omvormer bij DC-gekoppelde systemen (€800-€1.500). Altijd offerte uitsplitsen.'
-- q: Is lease goedkoper dan koop?
-  a: 'Op de korte termijn ja, op de lange termijn nee. Zonneplan lease is €54/maand voor 10 kWh = €6.480 over 10 jaar inclusief onderhoud en garantie. Koop is €6.995 eenmalig, maar batterij gaat 12-15 jaar mee. Vanaf jaar 11 is koop puur voordeel.'
+  a: 'Vier posten die je expliciet moet uitvragen: de omvormer als die niet is ingebouwd, de omschakelinrichting als je noodstroom wilt, aanpassing of uitbreiding van de groepenkast, en een eventuele uitbreiding naar drie fasen. Daarnaast: of er een aparte clausule op je opstalverzekering nodig is, en of een dynamisch energiecontract vereist is om de sturing te laten werken.'
+- q: Biedt Zonneplan lease of huur aan?
+  a: 'Nee. Op de eigen huurpagina schrijft Zonneplan dat het geen optie voor het leasen van een thuisbatterij aanbiedt en zich op verkoop richt, met het advies een batterij met eigen geld te kopen. Bedragen van enkele tientjes per maand die voor "Zonneplan lease" circuleren, zijn niet van Zonneplan. Partijen die in Nederland wél verhuren, staan in ons overzicht van lease-aanbieders.'
 - q: Welke thuisbatterij is uitbreidbaar?
-  a: 'Marstek Venus E is volledig modulair — van 5 kWh tot 25 kWh met losse modules van 5 kWh. Zonneplan biedt ook stapelbaar tot 15 kWh. Sessy is per unit van 5 of 10 kWh, koppelbaar tot 4 units. Tesla Powerwall 3 staat los: extra eenheid bijplaatsen kan, maar je betaalt iedere keer de volledige prijs.'
-- q: Heb ik een 3-fase aansluiting nodig?
-  a: 'Voor batterijen tot 5 kWh op 1-fase is een standaard groep voldoende. Vanaf 10 kWh met 3 kW continu vermogen wordt 3-fase aanbevolen — anders kun je niet het volle vermogen benutten. Bij Tesla Powerwall 3 (5 kW continu) is 3-fase praktisch verplicht.'
+  a: 'Sessy is per unit koppelbaar. Marstek noemt de SmartBox, waarmee de Venus E 4.0 tot 9 kW en 15 kWh gaat en de E MAX tot 10,8 kW en 30 kWh; wat die module kost, publiceert Marstek niet. Huawei Luna werkt met modules van 5 kWh en BYD Battery-Box met modules van 2,56 kWh, beide achter een compatibele omvormer. Laat altijd vastleggen tot welk maximum jouw exacte model gaat en of de modules over vijf jaar nog leverbaar zijn.'
+- q: Heb ik een driefase-aansluiting nodig?
+  a: 'Voor plug-in-systemen tot 800 W en voor de meeste eenfasesystemen tot circa 3,6 kW is een gewone groep voldoende. Drie fasen worden relevant bij zwaar gelijktijdig verbruik — warmtepomp, elektrische auto en koken tegelijk — of bij systemen die meer vermogen leveren dan een eenfasegroep kan verwerken. Laat je installateur dit beoordelen vóór de offerte, want een uitbreiding naar drie fasen verandert de rekensom wezenlijk.'
 products:
-- name: Marstek Venus E 5 kWh
-  url: https://go.duurzaamthuislab.nl/marstek
-  price: '2500'
 - name: Sessy 10 kWh
   url: https://go.duurzaamthuislab.nl/sessy
   price: '5500'
-- name: Zonneplan thuisbatterij 10 kWh
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '6995'
+- name: Marstek Venus E MAX (10 kWh)
+  url: https://go.duurzaamthuislab.nl/marstek
 schema_type: Article
-last_updated: '2026-09-26'
+last_updated: '2026-08-21'
 category: thuisbatterijen
 ---
 
-Vier offertes voor een thuisbatterij naast elkaar leggen levert bedragen op die ver uit elkaar liggen: een Sessy via een lokale installateur rond €6.800, een Marstek via een webwinkel voor €2.499, een Zonneplan-lease van enkele tientjes per maand, en een Tesla Powerwall 3 die bij de ene specialist €11.000 kost en bij de andere ruim €12.000. Bijna €10.000 verschil tussen goedkoopst en duurst, voor een vergelijkbare functie.
+Vier offertes voor een thuisbatterij naast elkaar leggen levert bedragen op die ver uit elkaar liggen. Dat verschil is grotendeels te verklaren, en bijna nooit door de kwaliteit van de batterij: de goedkoopste offertes bevatten geen installatie, sommige rekenen exclusief btw, en een deel van de bedragen die in vergelijkingen circuleren is helemaal geen gepubliceerde prijs.
 
-Dat verschil is grotendeels te verklaren: de goedkoopste offertes bevatten geen installatie, de duurste zitten boven de gangbare marktprijs. Wie de offertes op dezelfde noemer brengt — prijs per bruikbare kWh, inclusief installatie — houdt een veel kleiner verschil over.
+Deze pagina gaat daarom niet over "wat kost een thuisbatterij", maar over iets bruikbaarders: **hoe je vier ongelijke offertes op één noemer krijgt.** De prijs per kWh van alle systemen met een gepubliceerde prijs staat apart in [thuisbatterij prijs per kWh](/posts/thuisbatterij-prijs-per-kwh-2026/); hier gaat het om wat er in en uit een offerte zit.
 
-Dit artikel is de complete prijsvergelijking voor 2026: wat thuisbatterijen écht kosten, wat er wel en niet bij zit, en welke de goedkoopste is per kilowattuur opgeslagen capaciteit.
-
-*Disclosure: wij hebben geen affiliate- of commissierelatie met Sessy, Marstek of Zonneplan (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen. Deze prijsanalyse is gebaseerd op de publieke prijslijsten van de leveranciers en op offertebedragen die installateurs in 2026 publiek noemen.*
+*Disclosure: wij hebben geen affiliate- of commissierelatie met Sessy, Marstek, Zonneplan, Tesla, Huawei of BYD (stand augustus 2026); de links naar deze leveranciers zijn gewone verwijzingen waaraan wij niets verdienen. Alle bedragen komen van de leveranciers zelf, met peildatum augustus 2026.*
 
 ---
 
-> **Kort antwoord:** Marstek Venus E is goedkoopst op €2.500 voor 5 kWh (zelf installeren), Sessy biedt beste totaalwaarde op €5.500 voor 10 kWh (incl. btw, excl. installatie; prijspeil aug 2026), Tesla Powerwall 3 is premium op €11.000 met 13,5 kWh en 5 kW vermogen. Zonneplan zit op €6.995 voor 10 kWh inclusief, Huawei Luna 2000 rond €6.500. Goedkoopst per kWh: Marstek (€500/kWh). Beste prijs-prestatie alles meegerekend: Sessy.
+> **Kort antwoord:** de prijs die je vergelijkt, is bijna nooit dezelfde prijs.
+>
+> Zet elke offerte om in één getal: totaalbedrag inclusief btw en inclusief installatie, gedeeld door de bruikbare capaciteit in kWh. Vraag daarvoor vier dingen uit: het exacte modelnummer, de bruikbare capaciteit, het continu ontlaadvermogen, en de garantietermijn met het gegarandeerde restpercentage. Zonder die vier vergelijk je advertenties, geen aanbiedingen.
 
-## Hoe lees je een thuisbatterij-offerte?
+## Hoe je een thuisbatterij-offerte leest
 
-Voor we de prijzen vergelijken: een offerte voor een thuisbatterij ziet er bij iedere leverancier anders uit. Wat staat er meestal in en wat is een verborgen kostenpost?
+**Wat er altijd in zit:**
 
-**Wel altijd inbegrepen:**
-- De batterij-unit zelf (cellen + behuizing + BMS)
-- Garantiebewijs (meestal 10 jaar)
-- Basis-app of monitoringssoftware
-- Standaardconfiguratie
+- De batterij-unit zelf: cellen, behuizing en batterijmanagementsysteem.
+- Het garantiebewijs.
+- De app of monitoringsoftware van de fabrikant.
 
-**Soms inbegrepen (check):**
-- Installatie (Sessy en Zonneplan: ja. Marstek en Huawei: meestal niet)
-- Omvormer (bij DC-systemen apart, bij AC-systemen meestal ingebouwd)
-- Back-up-box voor stroomuitval (Sessy en Tesla: optie, kosten extra)
-- Meterkast-aanpassing
-- Energy management system / handelsalgoritme
+**Wat er soms in zit — altijd controleren:**
 
-**Bijna nooit inbegrepen:**
-- 3-fase upgrade naar woning (€800-€2.500)
-- Groep bijplaatsen in meterkast (€150-€400)
-- Verlengstuk-bekabeling als batterij ver van meterkast staat
-- Verzekering (los polis nodig, €30-€60/jaar)
+- Installatie. Sessy rekent die apart. Marstek publiceert geen prijs en dus ook geen installatieafspraak. Bij Zonneplan is niet bevestigd of installatie in de geadverteerde bedragen zit.
+- De omvormer. Bij AC-gekoppelde systemen meestal ingebouwd, bij DC-gekoppelde systemen een aparte post.
+- De omschakelinrichting voor noodstroom. Bij Sessy staat de basisinstallatie daarvoor op €1.200 en hoort die bij de Plus-variant.
+- Aanpassing van de groepenkast.
 
-Een eerlijke offerte heeft iedere kostenpost apart op de regel. Een verdachte offerte zegt alleen "thuisbatterij turn-key €X.XXX" en je weet niet wat er aan komt. Vraag altijd om uitsplitsing.
+**Wat er bijna nooit in zit:**
 
-## Prijzen tabel 2026 — volledige vergelijking
+- Uitbreiding naar drie fasen, als jouw systeem dat vraagt.
+- Een extra groep in de meterkast.
+- Extra bekabeling als de batterij ver van de meterkast komt.
+- Een aparte clausule op je opstalverzekering.
 
-Onderstaande tabel toont publieke prijzen of typische klantofferte-bedragen voor september 2026. Prijzen voor batterijen schommelen door wisselkoersen en grondstofprijzen.
+Wij zetten bij die posten geen bedragen, en dat is een bewuste keuze: ze verschillen te sterk per woning om een bandbreedte zinvol te maken, en een bandbreedte uit een artikel wordt in de praktijk gebruikt om een offerte te "controleren" die er niets mee te maken heeft. Vraag ze uit als losse regels — dat is nauwkeuriger dan elk gemiddelde.
 
-| Model | Capaciteit | Prijs koop | €/kWh | Installatie inbegrepen | Garantie | App / EMS |
-|---|---|---|---|---|---|---|
-| Marstek Venus E (basis) | 5 kWh | €2.500 | €500 | Nee (+€800-€1.200) | 10 jr (60% behoud) | Marstek app |
-| Marstek Venus E (uitgebreid) | 10 kWh | €4.200 | €420 | Nee | 10 jr | Marstek app |
-| Sessy | 5 kWh | €3.550 | €710 | Nee (apart berekend) | 10 jr (70% behoud) | Sessy app |
-| Sessy | 10 kWh | €5.500 | €550 | Nee (apart berekend) | 10 jr | Sessy app |
-| Huawei Luna 2000 | 10 kWh | €6.500 | €650 | Soms (+ €0-€1.000) | 10 jr (60% behoud) | FusionSolar |
-| Zonneplan | 10 kWh | €6.995 | €700 | Ja | 10 jr (80% behoud) | Zonneplan + Radar |
-| Tesla Powerwall 3 | 13,5 kWh | €11.000 | €815 | Ja (via Tesla-certified) | 10 jr (70% behoud) | Tesla app |
+Een eerlijke offerte heeft iedere kostenpost apart op een regel. Een offerte die alleen "thuisbatterij turn-key" zegt, is geen vergelijkbaar aanbod. Wat er verder in hoort te staan, staat in onze gids [installateur kiezen](/installateur-kiezen/).
 
-**Belangrijk**: dit zijn typische prijzen voor één losse batterij. Combi-deals met zonnepanelen kunnen €500-€1.500 schelen. En leaseprijzen (Zonneplan, soms Sessy) veranderen het hele plaatje — daarover verderop meer.
+## Welke prijzen echt gepubliceerd zijn
 
-## €/kWh vergelijking — welke is goedkoopst per kilowattuur?
+| Leverancier | Systeem | Gepubliceerd bedrag | Installatie | Bron en peildatum |
+|---|---|---|---|---|
+| Sessy (Charged, Andelst) | 5 kWh | €3.550 incl. btw | apart | sessy.nl, aug 2026 |
+| Sessy | 10 kWh | €5.500 incl. btw | apart | sessy.nl, aug 2026 |
+| Sessy Plus | 15 kWh | €9.400 incl. btw | apart; noodstroom-basisinstallatie €1.200 | sessy.nl, aug 2026 |
+| HomeWizard | 2,7 kWh plug-in | €1.195 per unit | niet nodig | homewizard.com, aug 2026 |
+| Marstek | Jupiter C Plus | €599 | niet nodig (800 W) | eu.marstekenergy.com, aug 2026 |
+| Marstek | Venus E Mini / 4.0 / MAX | geen prijs gepubliceerd | 4.0 en MAX wel | eu.marstekenergy.com, aug 2026 |
+| Zonneplan | 10 / 15 / 20 / 35 kWh | €4.690 / €5.490 / €7.290 / €9.090 "na btw-teruggave" | niet bevestigd | zonneplan.nl, aug 2026 |
+| Tesla | Powerwall 3, 13,5 kWh | geen NL-consumentenprijs | via installatiepartner | tesla.com, aug 2026 |
+| Huawei | Luna 2000, modules van 5 kWh | geen consumentenprijs | via installateur | solar.huawei.com, aug 2026 |
+| BYD | Battery-Box Premium, modules van 2,56 kWh | geen consumentenprijs | via installateur | byd.com, aug 2026 |
 
-Per kWh opgeslagen capaciteit is de meest eerlijke vergelijking, omdat batterijen verschillende groottes hebben:
+Dat is de hele lijst. Alles wat je elders als "Marstek 10 kWh €4.200" of "Powerwall €11.000" tegenkomt, is een webshop- of offertebedrag dat wij niet bij de fabrikant kunnen terugvinden — en dat dus per week en per aanbieder verschilt.
 
-1. **Marstek Venus E 10 kWh — €420/kWh** (zelf installeren, opbouw)
-2. **Marstek Venus E 5 kWh — €500/kWh** (zelf installeren)
-3. **Sessy 10 kWh — €550/kWh** (excl. installatie)
-4. **Huawei Luna 2000 — €650/kWh** (installatie soms inbegrepen)
-5. **Sessy 5 kWh — €710/kWh** (excl. installatie)
-6. **Zonneplan 10 kWh — €700/kWh** (installatie inbegrepen)
-7. **Tesla Powerwall 3 — €815/kWh** (premium, 13,5 kWh, 5 kW vermogen)
+**Let bij Zonneplan op het frame.** De bedragen staan er "na btw-teruggave". Voor een losse thuisbatterij bestaat die route niet: daar geldt altijd 21 procent btw, en sinds 2023 is er ook op zonnepanelen geen btw-teruggaveroute meer. Deze bedragen zijn dus niet één-op-een vergelijkbaar met de prijzen inclusief btw in de rest van de tabel. Vraag het bedrag inclusief btw op, plus of installatie erin zit.
 
-Maar pas op: dit zijn alleen koopprijzen. Reken er installatiekosten bij voor merken waar dat niet inbegrepen zit:
+## Wat je per merk moet uitvragen
 
-**Marstek 5 kWh totaal**: €2.500 + €1.000 installatie = €3.500 → **€700/kWh effectief**
-**Marstek 10 kWh totaal**: €4.200 + €1.200 installatie = €5.400 → **€540/kWh effectief**
-**Huawei 10 kWh totaal**: €6.500 + €700 installatie = €7.200 → **€720/kWh effectief**
+**Sessy** is in deze markt het referentiepunt omdat prijs, capaciteit, laadvermogen (2,2 kW), ontlaadvermogen (1,7 kW), cyclusopgave (6.000+) en de vier bedrijfsmodi — zelfverbruik, dynamisch, onbalans en congestiepreventie — publiek op de site staan. Wat je nog moet uitvragen: de installatiekosten voor jouw meterkast, en of je noodstroom wilt (dan de €1.200 basisinstallatie erbij, en dan is de Plus-variant nodig).
 
-Nu wordt het beeld realistischer. Sessy 10 kWh staat op €550/kWh exclusief installatie; reken je een basisinstallatie met noodstroom (€1.200 volgens sessy.nl) mee, dan kom je op circa €670/kWh — dichter bij Huawei dan bij Marstek. En zoals altijd: in cijfers schuilt de duivel.
+**Marstek** heeft in dit veld het hoogste vermogen per model: de Venus E 4.0 op 3 kW en de E MAX op 3,6 kW bidirectioneel, met back-upomschakeling onder 10 milliseconden. Wat je zelf moet regelen is groter dan bij andere merken: er staat geen prijs en geen garantietermijn per model op de vendorpagina's, Nederland staat op de eigen "where to buy"-pagina op "coming soon", en de garantie vervalt bij gebruik buiten het land van aankoop. Laat de garantietermijn dus schriftelijk vastleggen door je Nederlandse verkoper — die is je enige praktische aanspreekpunt. Meer in ons [merkonderzoek naar Marstek](/posts/marstek-merk-herkomst-garantie-2026/) en in de [Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/).
 
-## Sessy €5.500 voor 10 kWh — wat krijg je?
+<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk Marstek</a> — voor deze link ontvangen wij geen vergoeding.
 
-Sessy zit op €5.500 voor 10 kWh, inclusief btw en exclusief installatie (prijspeil aug 2026, sessy.nl). Erbij: 2 units van 5 kWh gestapeld, ingebouwde AC-omvormer (hybride met bestaande panelen), Sessy app met gratis handelsalgoritme, gecertificeerde monteur, 10 jaar product + capaciteit (70%), 2,5 kW continu, 6.000+ cycli, fluisterstil (25 dB).
+**Zonneplan** (opgericht in 2012 in Zwolle) levert alles bij één partij: panelen, batterij, laadpaal en contract, met één app en één serviceloket. De omvormer heet Nexus, de sturing heet "slimme aansturing", met een beschermlaag die Zonneplan Gridguard noemt. Twee dingen om uit te vragen: of installatie in het geadverteerde bedrag zit, en dat de slimme aansturing volgens Zonneplans eigen uitlegpagina een Zonneplan-energiecontract vereist. Dat laatste is de kern van de lock-in: de hardware koop je, de opbrengst hangt aan het contract. Terzijde, omdat dit veel verwarring geeft: **"Radar" is het consumentenprogramma van AVROTROS en geen functie van Zonneplan of Sessy** — zie [wat Zonneplan Radar wel en niet is](/posts/zonneplan-radar-uitleg-2026/). Meer in de [Zonneplan thuisbatterij review](/posts/zonneplan-thuisbatterij-review-2026/).
 
-**Niet inbegrepen**: de installatie zelf — die rekent Sessy apart, een basisinstallatie met noodstroomvoorziening staat op €1.200 — plus meterkast-aanpassing zonder 3-fase (€200-€800) en een dynamisch energiecontract (zelf afsluiten bij Tibber/Frank).
+**Tesla Powerwall 3** geeft 13,5 kWh met LFP-cellen en automatische omschakeling bij netuitval. Verkoop loopt via gecertificeerde installatiepartners; vraag de dealeropgave met prijs, vermogen en installatie apart. Vehicle-to-home is in Nederland niet als product beschikbaar; reken dat niet mee in een businesscase. Zie [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/).
 
-Sessy levert wat het belooft. Prijs is stabiel, service goed, algoritme verdient €60-€90/maand in huidige marktcondities. Zie [volledige Sessy review](/posts/sessy-review-thuisbatterij-nederland/).
+**Huawei Luna 2000** is DC-gekoppeld aan een Huawei-omvormer. Dat slaat een omzettingsstap over, maar bindt je aan één merkketen. Interessant als je toch een nieuwe omvormer plaatst of al Huawei hebt. Zie de [Huawei Luna 2000 review](/posts/huawei-luna-2000-review-2026/).
 
-## Marstek Venus E — modulair vanaf €2.500
+**BYD Battery-Box Premium** werkt met modules van 2,56 kWh, waarmee je capaciteit fijnmazig kunt doseren, achter een compatibele hybride omvormer. Laat schriftelijk vastleggen dat de combinatie door beide fabrikanten wordt ondersteund — compatibiliteit is per merkcombinatie beperkt.
 
-Marstek is in 2025 in NL gelanceerd via Coolblue en is direct de prijs-disruptor. Modulair: 5 kWh basis €2.500, 10 kWh €4.200, max 25 kWh €9.800. In de doos zitten batterij-unit, app, 10 jaar garantie (60% behoud) en AC-omvormer (1-fase, 2,5 kW).
+## Btw, EIA en subsidie
 
-**Wat er niet bij zit**: installatie (€800-€1.200 voor 5 kWh, €1.000-€1.500 voor 10 kWh), geavanceerd handelsalgoritme, NL-gecertificeerde monteurs (lokale elektricien vereist).
+**Geen 0 procent btw.** Op een thuisbatterij geldt 21 procent btw. De Belastingdienst stelt uitdrukkelijk dat het nultarief niet geldt voor de levering en installatie van een accupakket of thuisbatterij, ook niet als je die samen met panelen koopt. Het nultarief dekt de panelen zelf en wat direct nodig is om die te laten werken.
 
-**De catch**: goedkoop maar minder service. Geen NL-helpdesk, geen specifieke monteurs, app functioneel maar minder gepolijst. Voor de doe-het-zelver met elektricien-vriend: top deal. Voor wie alles zonder hoofdpijn wil: Sessy.
+**Geen ISDE.** De regeling voor woningeigenaren dekt isolatie, ventilatie in combinatie met isolatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Thuisbatterijen, zonnepanelen en laadpalen vallen erbuiten. Zie de [officiële RVO-informatie](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren).
 
-Lees de [Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/) voor de volledige specificatie-analyse.
+**EIA: alleen voor ondernemers,** en die staat in 2026 op **40 procent** van de investering, aftrekbaar van de winst. Voor particulieren bestaat er geen equivalent.
 
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek Venus E</a> · [Sessy alternatief →](/posts/sessy-review-thuisbatterij-nederland/)
+**Lokale regelingen** bestaan wel, maar verschillen per gemeente en provincie en per jaar. Check de subsidiechecker van je eigen gemeente en provincie vóór je bestelt, en behandel het als een meevaller — reken in je businesscase met de volle prijs.
 
-## Tesla Powerwall 3 — €11.000 voor 13,5 kWh
+## Koop of huur: hoe je die op één noemer krijgt
 
-Powerwall 3 zit in NL op €11.000 inclusief installatie via een Tesla Certified Installer. Specs: 13,5 kWh capaciteit, 5 kW continu vermogen (dubbel zoveel als Sessy/Marstek), ingebouwde MPPT zonneomvormers, automatische whole-home backup, 10 jaar garantie (70%), V2H mogelijk met Tesla auto.
+Eerst een correctie die op veel plaatsen fout staat: **Zonneplan biedt geen lease of huur van een thuisbatterij aan.** Op de eigen huurpagina staat dat het bedrijf zich op verkoop richt en adviseert een batterij met eigen geld te kopen. Bedragen van enkele tientjes per maand die als "Zonneplan lease" circuleren, komen niet van Zonneplan.
 
-**Waarom duur**: groter, krachtiger, features die concurrenten missen. Voor Tesla-bezitter + grote villa + off-grid wens: enige optie. Voor rijtjeswoning: overkill. **Verborgen kosten**: 3-fase aansluiting (€800-€2.500 als je 1-fase hebt), whole-home backup soms extra meterkast-reorganisatie (€500-€1.500).
+Partijen die in Nederland wél verhuren, en wat zij zelf publiceren, staan in ons overzicht [thuisbatterij leasen: aanbieders](/posts/thuisbatterij-leasen-aanbieders-2026/). De principiële afweging staat in [thuisbatterij kopen versus leasen](/posts/thuisbatterij-kopen-vs-leasen-2026/).
 
-Voor de volledige vergelijking: [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/).
+Wil je koop en huur vergelijken, dan zijn dit de vijf vragen die de uitkomst bepalen — en het maandbedrag staat er niet bij:
 
-## Zonneplan €6.995 — alles-in-één
+1. **Looptijd, en wat tussentijds opzeggen kost.**
+2. **Eigendom na afloop.** Ga je de batterij aan het einde bezitten, of niet? Datzelfde maandbedrag betekent in die twee gevallen iets volstrekt anders.
+3. **Verhuizing.** Overdragen, afkopen of verplaatsen — en wie betaalt demontage en herinstallatie?
+4. **Defect en storingen.** Valt een storing in de software of de cloudkoppeling ook onder de dekking? Daar zit bij regelbare batterijen een groot deel van de praktijkproblemen.
+5. **Wie houdt de handelsopbrengst?** Bij een huurconstructie is dat een verdeelvraag die vaak niet op de productpagina staat.
 
-Zonneplan: €6.995 voor 10 kWh inclusief installatie. Erbij: 2 units 5 kWh (Sungrow), ingebouwde omvormer + backup-optie, Zonneplan-app met Radar, monteur, 10 jaar garantie met **80% capaciteitsbehoud** (hoogste van deze vergelijking), 3,0 kW continu.
+Een maandbedrag zonder capaciteit en zonder looptijd is geen prijs maar een getal. Reken het om naar totaal over de looptijd, deel door de capaciteit, en zet het naast de koopprijs per kWh.
 
-**Lease**: €54/maand voor 10 kWh — €6.480 over 10 jaar — inclusief onderhoud, vervanging, Radar. **De catch**: Radar werkt alleen optimaal met Zonneplan-stroomcontract. Lock-in. Zie [Zonneplan review](/posts/zonneplan-thuisbatterij-review-2026/).
+## Wat de prijs uiteindelijk waard is
 
-## Huawei Luna 2000 — €6.500 voor 10 kWh
+Het punt van deze hele exercitie is niet het laagste bedrag vinden, maar weten wat je terugverdient. In ons rekenmodel levert een batterij vanaf 2027 circa **€35 per kWh capaciteit per jaar** op: het verschil tussen zelf verbruiken en terugleveren, plus een deel netarbitrage. Bij 10 kWh is dat circa €353 per jaar.
 
-Luna 2000 is een veelgekozen optie via lokale installateurs: €6.500 voor 10 kWh inclusief installatie via Huawei-partner. 3,3 kW continu vermogen, 10 jaar garantie (60% behoud), FusionSolar app, DC-gekoppeld met Huawei SUN2000 omvormer.
+De aannames daaronder staan expliciet in [thuisbatterij prijs per kWh](/posts/thuisbatterij-prijs-per-kwh-2026/), samen met de vuistregel die eruit volgt: **terugverdientijd is ongeveer de prijs per kWh gedeeld door 35.** Bij €550 per kWh is dat zestien jaar; bij €350 per kWh tien jaar.
 
-**Bijzonder**: als je al een Huawei SUN2000 zonneomvormer hebt, is de batterij naadloos integreerbaar zonder dubbele conversie (1-3% efficiëntie-voordeel). **Nadelen**: vereist Huawei-ecosysteem, geopolitieke onzekerheid (Chinees merk), beperkte NL-support.
+Daarmee is ook duidelijk waar het echte geld in een offerte zit. Een verschil van €100 per kWh is bijna drie jaar terugverdientijd. Een verschil in appkwaliteit is dat niet. Vergelijk dus streng op de eerste, en beslis met je gevoel over de tweede.
 
-Voor de volledige vergelijking: [Huawei Luna 2000 review](/posts/huawei-luna-2000-review-2026/).
+Wie met eigen cijfers wil rekenen: dat kan in onze [vergelijker voor terugverdientijd van thuisbatterijen](/thuisbatterij-terugverdientijd-vergelijken/). De onzekerste variabele is de spread tussen het goedkoopste en het duurste uur van de dag; die staat live op onze pagina met [dynamische stroomprijzen per uur](/stroomprijzen/).
 
-## Wat zit er inbegrepen — checklijst per merk
+## Onze aanbeveling
 
-| Component | Marstek | Sessy | Huawei | Zonneplan | Tesla |
-|---|---|---|---|---|---|
-| Installatie | Nee | Ja | Soms | Ja | Ja |
-| App / EMS | Basic | Premium | Basic | Premium + Radar | Premium |
-| Handelsalgoritme | Nee | Ja (gratis) | Nee | Ja (Radar) | Via 3rd party |
-| Back-up bij stroomuitval | Optie | Optie | Nee standaard | Optie | Standaard |
-| Garantie | 10 jr (60%) | 10 jr (70%) | 10 jr (60%) | 10 jr (80%) | 10 jr (70%) |
+**Wil je een aanbod dat je vooraf volledig kunt nalezen?** Dan is Sessy het startpunt: €5.500 voor 10 kWh, exclusief installatie, met gepubliceerde specificaties, modi en garantietermijnen. Niet het laagste bedrag, maar het enige in die klasse dat navolgbaar is. <a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="noopener nofollow">Bekijk Sessy</a> — voor deze link ontvangen wij geen vergoeding.
 
-Sessy en Zonneplan zijn de meest complete pakketten. Marstek is goedkoopst maar je moet zelf het meeste regelen. Tesla is premium en doet alles, maar je betaalt er stevig voor.
+**Wil je het hoogste vermogen per euro en regel je het papierwerk zelf?** Dan komt Marstek in beeld, met prijs, garantietermijn en servicepad schriftelijk vastgelegd door je Nederlandse verkoper.
 
-## Subsidies en BTW in 2026
+**Wil je één partij voor panelen, batterij, laadpaal en contract?** Dan Zonneplan, met twee voorbehouden: het "na btw-teruggave"-frame en de contractgebonden sturing.
 
-Eerlijk verhaal: er is in 2026 **geen specifieke subsidie of BTW-teruggave voor thuisbatterijen voor particulieren**. Anders dan zonnepanelen (0% BTW) valt een thuisbatterij gewoon onder 21% BTW. De Belastingdienst stelt expliciet dat het nultarief níet geldt voor de levering en installatie van een accupakket of thuisbatterij — ook niet als je die samen met panelen koopt.
-
-Wat wel mogelijk is:
-
-- **EIA (Energie-investeringsaftrek)**: alleen voor ondernemers/zzp. 45,5% van de investering aftrekbaar van de winst. Reëel voordeel: ~€1.000-€2.000 voor een 10 kWh batterij.
-- **Lokale subsidies**: enkele gemeenten (Den Haag, Utrecht, Amsterdam) hebben pilot-subsidies tot €500. Check je gemeente.
-- **ISDE**: dekt thuisbatterijen NIET. De regeling voor woningeigenaren geldt voor isolatie, ventilatie in combinatie met isolatie, (hybride) warmtepompen, zonneboilers, een warmtenetaansluiting en elektrisch koken. Zie de [officiële RVO-info](https://www.rvo.nl/subsidies-financiering/isde/woningeigenaren).
-
-Wat je dus betaalt is wat de leverancier vraagt — geen overheidsverdwijntruc zoals bij panelen. Reken puur op de aanschafprijs.
-
-## Lease vs koop — wat is voordeliger?
-
-Voor 10 kWh batterij over 10 jaar:
-
-| Optie | 10-jaar kosten | Onderhoud inbegrepen | Risico op defect |
-|---|---|---|---|
-| Sessy koop | €5.500 + €1.200 basisinstallatie + €0 onderhoud + €400 verzekering = **€7.100** | Garantie 10 jr | Bij jou |
-| Marstek koop | €5.400 incl. installatie = **€5.400** | Garantie 10 jr (60%) | Bij jou |
-| Zonneplan koop | €6.995 + €1.200 Radar + €400 verzekering = **€8.595** | Garantie 10 jr (80%) | Bij jou |
-| Zonneplan lease | €54 × 120 = **€6.480** | Ja, alles inbegrepen | Bij Zonneplan |
-| Sessy als-lease | n.v.t. (verkoopt niet) | — | — |
-
-**Conclusie**: koop is meestal goedkoper dan lease, mits je 10+ jaar blijft — bij Marstek duidelijk, bij Sessy hangt het af van wat de installatie kost (met een basisinstallatie van €1.200 kom je op 10 jaar iets boven de lease-uitstroom uit, maar dan is de batterij wel van jou en heeft die restwaarde). Lease is een "verzekering tegen pech". Voor risico-mijders en mensen zonder cash: lease is acceptabel. Voor wie de €5.000-€7.000 cash heeft: koop levert beter rendement.
-
-Lees [diepgaande prijs-per-kWh analyse](/posts/thuisbatterij-prijs-per-kwh-2026/) voor uurdata-modellen.
-
-## Verborgen kosten
-
-Vaak vergeten posten:
-
-1. **Meterkast-upgrade naar 3-fase**: €800-€2.500 inclusief Liander-aanvraag (geldt voor ~25% van NL-woningen).
-2. **Groep bijplaatsen**: €150-€400.
-3. **Verzekering**: aparte clausule op opstal, €30-€60/jaar.
-4. **Back-up-box voor noodstroom**: €400-€900 los.
-5. **Dynamisch energiecontract**: gratis bij Tibber/Frank, maar je moet overstappen.
-6. **Vervanging jaar 13-15**: €3.000-€5.000 als batterij einde levensduur bereikt.
-
-## Welke is goedkoopst per kWh — eindstand
-
-De ranglijst per kWh **inclusief alle realistische extra's** (installatie, kleine meterkast-aanpassing, verzekering 10 jaar):
-
-1. **Marstek Venus E 10 kWh — €580/kWh** alles meegerekend
-2. **Sessy 10 kWh — €640/kWh** alles meegerekend
-3. **Huawei Luna 2000 10 kWh — €720/kWh** alles meegerekend
-4. **Zonneplan 10 kWh — €750/kWh** alles meegerekend (€72/kWh lease over 10 jaar)
-5. **Tesla Powerwall 3 13,5 kWh — €870/kWh** alles meegerekend
-
-**Marstek wint puur op kosten per kWh** als je een betrouwbare elektricien hebt. Voor degene die service en garantie waarderen: **Sessy is de beste totaaldeal**. Voor wie alles van één partij wil: Zonneplan. Voor wie premium en V2H wil: Tesla.
-
-## TCO 10 jaar — totaalplaatje per merk
-
-| Merk | Aanschaf | Onderhoud 10jr | Verzekering 10jr | Vervanging jaar 13 | TCO 10jr | TCO 15jr |
-|---|---|---|---|---|---|---|
-| Marstek 10 kWh | €5.400 | €100 | €400 | n.v.t. | €5.900 | €9.500 |
-| Sessy 10 kWh | €5.500 + €1.200 installatie | €0 | €400 | n.v.t. | €7.100 | €11.100 |
-| Huawei 10 kWh | €7.200 | €150 | €400 | n.v.t. | €7.750 | €11.750 |
-| Zonneplan koop 10 kWh | €6.995 | €1.200 (Radar) | €400 | n.v.t. | €8.595 | €12.595 |
-| Zonneplan lease 10 kWh | €0 | inbegrepen | inbegrepen | €54/mnd | €6.480 | €9.720 |
-| Tesla Powerwall 3 | €11.000 | €0 | €450 | n.v.t. | €11.450 | €15.450 |
-
-**Op 10 jaar**: Marstek wint, Sessy tweede.
-**Op 15 jaar (rekening houdend met levensduur)**: Marstek nog steeds eerste, Zonneplan-lease verrassend tweede (omdat je geen vervanging hoeft te betalen).
-
-## CTA — welke kies je?
-
-Op basis van de prijsanalyse hierboven:
-
-- **Heb je €5.000-€6.500 cash + wil je service?** → **Sessy 10 kWh** is de beste keus.
-- **Heb je een goede elektricien + €4.000-€5.500 budget?** → **Marstek Venus E 10 kWh** levert beste euro/kWh.
-- **Wil je alles van één partij + geen cash uitleg?** → **Zonneplan lease**.
-- **Heb je Tesla auto + groot huis + €11.000 budget?** → **Tesla Powerwall 3**.
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy (€5.500, 10 kWh, excl. installatie)</a>
-
-<a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek Venus E (vanaf €2.500)</a>
-
-## Een woord over wisselende prijzen
-
-Batterij-prijzen zijn niet stabiel. In 2024 was LFP duur, in 2025 zakten de prijzen 20% door overcapaciteit in China, in 2026 stabiliseert het. Wacht niet "voor de zekerheid" — koop wanneer je besparingsbehoefte concreet is. De saldering-stop 2027 is voor de meeste huishoudens dat moment. Zie [saldering 2027](/posts/saldering-stopt-2027-volledige-gids/) en de [10 kWh vergelijking](/posts/thuisbatterij-10-kwh-vergelijking-2026/) voor uurdata.
-
-## FAQ — veelgestelde vragen over prijzen
-
-**Krijg ik korting bij combinatie met zonnepanelen?** Bij Zonneplan en Sessy soms €300-€800 korting in combi-pakket.
-
-**Is financiering mogelijk?** Via gemeentelijke energieleningen 1-3% rente, of via Zonneplan-lease. Particuliere lening (5-8%) niet de moeite.
-
-**Wat is de afschrijving boekhoudkundig?** Voor zzp: 10 jaar lineair. Voor particulier: niet aftrekbaar.
-
-**Welke batterij wordt het meest verkocht in NL?** Sessy is marktleider op units, Marstek heeft snelste groei (budget), Zonneplan sterk in pakketten.
-
-**Kan ik gebruikt kopen?** Markt is klein. Marktplaats vraagt €1.500-€2.500 voor 5 kWh zonder garantie. Niet aangeraden tenzij je technisch onderlegd bent.
-
----
-
-## Conclusie
-
-In 2026 ligt thuisbatterij-prijs tussen €420 en €815 per kWh. **Marstek Venus E** is goedkoopst op €540/kWh (10 kWh inclusief installatie), maar je doet meer zelf. **Sessy** is de beste totaaldeal op €550/kWh exclusief installatie, met volledige service. **Zonneplan** is sterk op alles-in-één-pakket. **Tesla Powerwall 3** is premium voor wie 5 kW vermogen en V2H nodig heeft.
-
-Terug naar de vier offertes uit de inleiding. Voor 80 procent van de Nederlandse huishoudens met 4.000 tot 6.000 kWh verbruik en bestaande zonnepanelen is **Sessy 10 kWh op €5.500 (excl. installatie) de logische keus** — niet de goedkoopste op papier, maar de beste prijs-prestatie alles meegerekend.
+**Zoek je vooral de laagste instap?** Dan is een plug-in-systeem van 800 W de goedkoopste route — zonder installatiekosten en zonder noodstroom. Dat vergelijken we in [goedkoopste thuisbatterij 2026](/posts/goedkoopste-thuisbatterij-2026/).
 
 *Vragen over jouw situatie? Mail de redactie via [info@duurzaamthuislab.nl](mailto:info@duurzaamthuislab.nl).*
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Sessy</a> · <a href="https://go.duurzaamthuislab.nl/marstek" class="cta cta-affiliate" target="_blank" rel="nofollow noopener">Bekijk Marstek</a>
+---
 
 ## Gerelateerde artikelen
 
+- [Thuisbatterij prijs per kWh 2026](/posts/thuisbatterij-prijs-per-kwh-2026/)
+- [Goedkoopste thuisbatterij 2026](/posts/goedkoopste-thuisbatterij-2026/)
 - [Sessy thuisbatterij review](/posts/sessy-review-thuisbatterij-nederland/)
 - [Marstek Venus review](/posts/marstek-venus-review-thuisbatterij/)
-- [Thuisbatterij prijs per kWh 2026](/posts/thuisbatterij-prijs-per-kwh-2026/)
+- [Thuisbatterij leasen: aanbieders](/posts/thuisbatterij-leasen-aanbieders-2026/)
 - [Thuisbatterij 10 kWh vergelijking](/posts/thuisbatterij-10-kwh-vergelijking-2026/)
-- [Powerwall 3 vs Sessy](/posts/powerwall-3-vs-sessy-2026/)
-- [Huawei Luna 2000 review](/posts/huawei-luna-2000-review-2026/)
 - [Zonneplan thuisbatterij review](/posts/zonneplan-thuisbatterij-review-2026/)
 - [Saldering stopt 2027](/posts/saldering-stopt-2027-volledige-gids/)
-- [Tibber review](/posts/tibber-review-ervaringen-2026/)
 
 ---
 
