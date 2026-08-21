@@ -1,8 +1,8 @@
 ---
 title: 'EV Thuislader Stekker: Type 2 vs CCS Uitgelegd 2026'
 date: 2026-07-28 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
-last_updated: 2026-04-29
+lastmod: '2026-08-21 08:00:00+02:00'
+last_updated: 2026-08-21
 description: 'Type 2 of CCS voor je EV thuislader? Het verschil uitgelegd, welke past bij jouw auto, en welke laadpaal je daarvoor nodig hebt.'
 draft: false
 categories:
@@ -44,17 +44,7 @@ faq:
 - q: 'Hoeveel kost laden thuis vergeleken met snelladen?'
   a: 'Thuisladen op vast contract: €0,28-€0,32 per kWh. Op dynamisch ''s nachts: €0,08-€0,18. Snelladen onderweg: €0,55-€0,79 per kWh. Voor 15.000 km/jaar betekent dat €600-€1.400 verschil per jaar tussen consequent thuisladen en alleen snelladen.'
 - q: 'Wat als je geen eigen oprit hebt?'
-  a: 'Vraag bij gemeente een laadpaal in de openbare ruimte aan (Vattenfall InCharge, Allego, EVnetNL leveren). Wachttijd 3-9 maanden. Alternatief: laadpaal aan de gevel op eigen erf met kabelgoot — toegestaan in 80% van Nederlandse gemeenten mits geen obstakel op stoep.'
-products:
-- name: Easee Home Type 2
-  url: https://easee.com/nl/
-  price: '1200'
-- name: Wallbox Pulsar Plus 22kW
-  url: https://wallbox.com/nl_nl/
-  price: '1100'
-- name: Alfen Eve Single Pro
-  url: https://alfen.com/
-  price: '1500'
+  a: 'Vraag bij gemeente een laadpaal in de openbare ruimte aan (Vattenfall InCharge, Allego, EVnetNL leveren). Wachttijd 3-9 maanden. Alternatief: een laadpunt aan de gevel op eigen erf met een kabelgoot over de stoep. Of dat mag, en onder welke voorwaarden, bepaalt je gemeente in de APV — dat verschilt per gemeente, dus check het bij de jouwe.'
 ---
 "Type 2 of CCS voor mijn thuislader?" is een van de meest gestelde vragen bij een eerste elektrische auto, en er wordt regelmatig op ingespeeld met het advies om "voor de zekerheid" een CCS-installatie te overwegen. Dat kost tienduizenden euro's en is voor een woning technisch zinloos.
 
@@ -63,9 +53,9 @@ Hieronder de volledige uitleg: wat het verschil is, wat je werkelijk nodig hebt,
 *Disclosure: dit artikel bevat geen affiliate-links; wij hebben met de genoemde merken geen affiliate- of commissierelatie.*
 
 
-> **Kort antwoord:** thuis laad je met Type 2. CCS is een gelijkstroom-aansluiting voor snelladers onderweg; thuis is dat technisch overbodig en financieel onverantwoord. Kies 11 kW als je 3-fase hebt en 7,4 kW bij 1-fase.
+> **Kort antwoord:** thuis laad je met Type 2 (Mennekes) — dat is de wisselstroom-aansluiting (AC) waarmee elke in Europa verkochte EV laadt, tot 22 kW. CCS is dezelfde Type 2-kop plus twee grote gelijkstroompinnen (DC) voor snelladers onderweg; thuis heb je die niet nodig en is de benodigde netaansluiting onbetaalbaar.
 >
-> Type 2 (Mennekes) is voor wisselstroom (AC) tot 22 kW: thuisladen en publiek AC. CCS (Combined Charging System) heeft Type 2 + 2 grote DC-pinnen voor snelladen tot 350 kW. Voor thuis: Type 2 is voldoende; CCS-snelladen vergt enorme stroom.
+> Kies 11 kW als je een 3-fase aansluiting hebt en 7,4 kW bij 1-fase. Een 60 kWh accu is bij 11 kW in ruim vijf uur vol — een nacht is dus altijd genoeg.
 
 ## Stekkertypes uitgelegd
 
@@ -211,10 +201,12 @@ Hoofdaansluiting:
 
 ### Stap 4: Type 2 lader kiezen
 
-Aanbevolen merken:
-- **Easee Home**: €1.200-€1.500. Top design, app, slim laden. Aanbevolen voor 95% van situaties.
-- **Wallbox Pulsar Plus**: €950-€1.300. Mooi compact, betrouwbaar.
-- **Alfen Eve Single Pro**: €1.300-€1.700. Industriële kwaliteit, lokaal NL.
+Drie merken die je in Nederland veel bij installateurs tegenkomt:
+- **Easee Home** — compact, app-gestuurd, slim laden.
+- **Wallbox Pulsar Plus** — compacte behuizing, vaste kabel.
+- **Alfen Eve Single Pro** — Nederlandse fabrikant, veel gebruikt in zakelijke situaties.
+
+Prijzen per merk noemen wij hier niet: die publiceren de fabrikanten wisselend en meestal alleen via installateurs, en een bedrag dat wij niet op een peildatum hebben nagekeken nemen wij niet over. Als richtprijs voor het geheel houdt Milieu Centraal circa €1.300 tot €2.200 aan om thuis een laadpaal of wandlader te laten plaatsen, inclusief installatie en eventuele aanpassingen in de meterkast.
 
 Lees [beste laadpaal thuis](/posts/beste-laadpaal-thuis-2026/) voor uitgebreide vergelijking.
 
@@ -260,11 +252,11 @@ Nut: beperkt — vaak te traag. Beter is om publieke 11 kW palen op te zoeken.
 
 | Item | Kosten |
 |------|--------|
-| Easee Home 11 kW | €1.200 |
-| Installatie (eenvoudig) | €450 |
-| Verzwaring 3-fase | €0-€2.500 |
-| Type 2 kabel onderweg | €150 |
-| **Totaal startup** | **€1.800-€4.300** |
+| Laadpaal inclusief installatie (richtprijs Milieu Centraal) | €1.300-€2.200 |
+| Verzwaring naar 3-fase, als die er nog niet is | €0-€2.500 |
+| Losse Type 2-kabel voor onderweg | €120-€280 |
+
+Onderaan de streep betaal je dus grofweg €1.300 tot €2.200 als de meterkast al geschikt is, en aanzienlijk meer als er verzwaard moet worden. Wij noemen hier geen bedrag per merk: zie de toelichting hierboven.
 
 Landelijke subsidie is er niet voor een particuliere thuislaadpaal, dus dit totaal is wat je zelf betaalt. Heeft jouw gemeente wél een regeling, dan gaat dat bedrag er nog af — check dat bij je eigen gemeente, want het verschilt per gemeente en per jaar.
 
@@ -286,7 +278,7 @@ Tweede EV later? Plan extra capaciteit nu.
 Bij ongebreidelde laden + zonnepanelen + warmtepomp kan elektriciteits­huishouden overbelast raken. Smart load balancing oplossing.
 
 **Fout 6: P1-meter koppeling vergeten**
-Zonder slimme P1-koppeling laadt je paal blind, ook als de wasmachine, droger en oven tegelijk draaien. Resultaat: hoofdzekering eruit. Easee, Wallbox en Alfen hebben allemaal een P1-module (€80-€140) die dynamisch terugregelt. Bij installatie meteen meenemen — achteraf inbouwen kost dubbel.
+Zonder slimme P1-koppeling laadt je paal blind, ook als de wasmachine, droger en oven tegelijk draaien. Resultaat: hoofdzekering eruit. Easee, Wallbox en Alfen hebben allemaal een module of instelling die via de P1-poort dynamisch terugregelt; wat die kost, hangt af van model en installateur. Bij installatie meteen meenemen — achteraf inbouwen kost dubbel.
 
 **Fout 7: Te dichte routering kabel**
 Een 5×6mm² kabel van 25 meter door je tuin moet beschermd zijn (mantelbuis of grondkabel YMVK). Heb je hem zonder bescherming verlegd, faalt de keuring en wordt aansluitmelding geweigerd. Spaar geen €60 op de kabel uit.
@@ -354,7 +346,7 @@ Smart laden essentieel hiervoor. Lees [EV laden met thuisbatterij](/posts/ev-lad
 
 **Onderhoud.** Geen. De meest gemelde storing is dat de paal na een stroomstoring in foutmelding blijft staan; een reset via de app lost dat op.
 
-**Merkkeuze.** Easee en Wallbox zitten functioneel dicht bij elkaar; Wallbox Pulsar Plus is doorgaans goedkoper en biedt dezelfde functies. Alfen geeft de langste hardwaregarantie. Vergelijk op garantietermijn en op of het smart laden zonder abonnement werkt.
+**Merkkeuze.** Easee en Wallbox zitten functioneel dicht bij elkaar. Vergelijk op garantietermijn, op of het smart laden zonder abonnement werkt en op de prijs die jouw installateur voor het geheel rekent — dat laatste verschilt sterker dan de hardware zelf.
 
 ## Combinatie met thuisbatterij
 
@@ -377,11 +369,11 @@ Lees [saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/
 
 Drie zaken die op fora regelmatig misgaan, en die je moet controleren voordat je ondertekent:
 
-**Garantie laadpaal versus garantie installatie.** De fabrikant geeft 3 jaar (Easee, Wallbox) tot 5 jaar (Alfen) op de hardware. De installateur geeft typisch 1-2 jaar op het werk. Dat zijn losse zaken: bij een defect na 3 jaar is hardware mogelijk nog gedekt, maar arbeidsuren betaal je zelf. Vraag dus expliciet wie wat dekt.
+**Garantie laadpaal versus garantie installatie.** Fabrikanten geven doorgaans enkele jaren garantie op de hardware — de exacte termijn staat in de garantievoorwaarden van het model dat je koopt en verschilt per fabrikant. De installateur geeft typisch 1-2 jaar op het werk. Dat zijn losse zaken: bij een defect na 3 jaar is hardware mogelijk nog gedekt, maar arbeidsuren betaal je zelf. Vraag dus expliciet wie wat dekt.
 
-**Aansluitmelding bij netbeheerder is verplicht.** Liander, Stedin en Enexis eisen dat elke laadpaal boven 1,4 kW wordt geregistreerd. De installateur regelt dit normaal automatisch — controleer in je eigen account bij de netbeheerder dat de melding doorgekomen is. Zonder melding loop je risico bij brand of een storingsclaim.
+**Aansluitmelding bij netbeheerder is verplicht.** Netbeheerders willen weten wat er achter de meter bij komt; een erkend installateur doet daarom een aansluit- of installatiemelding. Welke drempel daarbij precies geldt, staat in de voorwaarden van jouw netbeheerder — noteer dat je installateur die melding heeft gedaan en controleer het in je eigen account bij de netbeheerder. Zonder melding kun je bij een storings- of schadeclaim in de problemen komen.
 
-**BTW-aftrek voor zzp-rijders.** Rijd je zakelijk meer dan 50% met de EV? Dan kun je 21% BTW van de laadpaal en installatie terugvragen. Bewaar facturen apart en log zakelijke kilometers via een rittenregistratie. Bij privé-laden: 24% bijtelling-correctie geldt zoals bij elke EV.
+**BTW-aftrek voor zzp-rijders.** Rijd je zakelijk meer dan 50% met de EV? Dan kun je 21% BTW van de laadpaal en installatie terugvragen. Bewaar facturen apart en log zakelijke kilometers via een rittenregistratie. Rijd je een auto van de zaak, dan lopen de bijtelling en de vergoeding van thuis geladen kWh via je werkgever of leasecontract; laat je boekhouder naar de actuele percentages kijken, want die veranderen per belastingjaar.
 
 **Er is geen landelijke laadpaalsubsidie voor particulieren.** De ISDE dekt warmtepompen, zonneboilers, isolatie, ventilatie in combinatie met isolatie, een warmtenetaansluiting en elektrisch koken — laadpalen staan niet op die lijst, en zonnepanelen en thuisbatterijen ook niet. De SEEH (Subsidie Energiebesparing Eigen Huis), die je online nog wel eens ziet opduiken, bestond tot en met 31 december 2022 en ging over isolatie, niet over laadpalen. Wat je wél kunt onderzoeken: een regeling van je eigen gemeente, en bij zakelijk gebruik de fiscale investeringsaftrek via je boekhouder.
 
@@ -403,7 +395,7 @@ Onze aanbevelingen:
 1. **Type 2 (Mennekes) thuislader**: Easee Home of Wallbox Pulsar Plus
 2. **11 kW als 3-fase, 7 kW als 1-fase**: match je auto en aansluiting
 3. **Smart features benutten**: tijdgebaseerd, zonneoverschot, dynamisch
-4. **Kabel voor onderweg**: 5m Type 2 (€140)
+4. **Kabel voor onderweg**: 5 m Type 2, losse aanschaf
 5. **CCS-snelladen alleen onderweg**: thuis onbetaalbaar
 6. **Verzwaring overwegen** bij twee auto's of warmtepomp + EV
 

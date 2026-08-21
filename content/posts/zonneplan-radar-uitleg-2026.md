@@ -1,7 +1,7 @@
 ---
 title: 'Zonneplan en Radar uitgelegd: hoe de aansturing handelt en wat het oplevert'
 date: 2026-08-31 08:00:00+02:00
-lastmod: 2026-08-31 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: 'Zoek je op "Zonneplan Radar"? Radar is het consumentenprogramma van AVROTROS, niet een product van Zonneplan. Wij leggen uit wat de uitzending zei, wat Zonneplan antwoordde en hoe de aansturing van hun thuisbatterij werkelijk werkt.'
 draft: false
 categories:
@@ -41,6 +41,10 @@ schema_type: Article
 ---
 
 *Disclosure: de links naar Zonneplan in dit artikel zijn gewone verwijzingen — wij hebben met Zonneplan geen affiliate- of commissierelatie.*
+
+> **Kort antwoord:** Zonneplan heeft geen functie die "Radar" heet. Radar is het consumentenprogramma van AVROTROS, dat op 16 december 2024 kritisch over thuisbatterijen berichtte. De aansturing van Zonneplan heet "slimme aansturing" met een "combi-strategie", plus een beschermlaag Gridguard.
+>
+> Zonneplan noemt zelf gemiddelden over zes maanden: circa €300 bij 10 kWh, €475 bij 15 kWh en €606 bij 20 kWh — met de eigen kanttekening "indicatieve voorbeelden, geen garanties". De aansturing werkt alleen met een energiecontract van Zonneplan; hoe de netverdiensten tussen Zonneplan en klant worden verdeeld, staat niet op de publieke pagina's.
 
 Als je zoekt op "Zonneplan Radar", kom je op onze reviewpagina terecht — en die geeft niet het antwoord waar je naar zocht. Daarom deze pagina, met eerst de belangrijkste correctie: **Radar is geen product of algoritme van Zonneplan.** Radar is het consumentenprogramma van AVROTROS. Op 16 december 2024 besteedde Radar aandacht aan thuisbatterijen en aan de manier waarop onder andere Zonneplan die verkoopt; Zonneplan publiceerde daarop een reactie. Op de productpagina's van Zonneplan komt geen functie met de naam Radar voor.
 
@@ -90,7 +94,7 @@ Op de opbrengstpagina van Zonneplan staan gemiddelden over zes maanden:
 
 Zonneplan zet er zelf bij dat dit "indicatieve voorbeelden, geen garanties" zijn en dat opbrengst en terugverdientijd verschillen per woning, verbruik, energieprijzen en beleid. Wij nemen die cijfers over zoals ze er staan, en niet als een verwachting voor jouw situatie.
 
-De prijzen die Zonneplan noemt lopen van €4.690 voor 10 kWh tot €9.090 voor 30 kWh, na btw-teruggave.
+De prijzen die Zonneplan noemt lopen van €4.690 voor 10 kWh tot €9.090 voor 35 kWh, na btw-teruggave (zonneplan.nl, opgehaald 20 augustus 2026).
 
 **Modelberekening met expliciete aannames.** Neem de 10 kWh-variant: €4.690 investering. Zes maanden opbrengst van €300 extrapoleren naar een heel jaar zou €600 opleveren — maar dat is precies de rekenfout waar CE Delft op wijst, want die zes maanden hoeven niet representatief te zijn voor de andere zes. Reken je desondanks met €600 per jaar en een vlakke markt, dan komt de simpele terugverdientijd uit op ongeveer 7,8 jaar. Halveert de handelsopbrengst door marktverzadiging tot €300 per jaar, dan wordt het ruim 15 jaar. Dat verschil tussen 8 en 15 jaar zit volledig in één aanname die niemand hard kan maken. Wie zelf wil rekenen met eigen aannames in plaats van met een aanbiedersscenario, kan onze [terugverdientijd-calculator voor thuisbatterijen](/terugverdientijd-thuisbatterij/) gebruiken.
 

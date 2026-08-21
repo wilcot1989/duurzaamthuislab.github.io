@@ -1,7 +1,7 @@
 ---
 title: 'Laadpaalsubsidie 2026 voor particulieren: wat er (niet) is'
 date: 2026-09-03 08:00:00+02:00
-lastmod: 2026-09-03 08:00:00+02:00
+lastmod: 2026-08-21 08:00:00+02:00
 description: 'Er is in 2026 geen landelijke subsidie op een laadpaal thuis voor particulieren. Wat er wel bestaat: gemeentelijke regelingen, VvE-subsidie, werkgeversvergoedingen en de gratis publieke laadpaal via je gemeente.'
 draft: false
 categories:
@@ -49,7 +49,7 @@ Dit artikel zet op een rij wat er wél bestaat, en wat het niet is. Wij noemen g
 
 De ISDE (Investeringssubsidie duurzame energie en energiebesparing) is de regeling waar particuliere woningeigenaren voor verduurzaming terechtkomen. Op de lijst met maatregelen voor woningeigenaren staan volgens RVO: isolatiemaatregelen, ventilatiemaatregelen, warmtepompen, zonneboilers, aansluiting op een warmtenet en elektrische kookvoorzieningen.
 
-Een laadpaal of laadstation staat daar niet tussen. Dat is geen omissie maar beleid: elektrisch rijden wordt landelijk gestimuleerd via de auto zelf, niet via de infrastructuur bij je woning. Milieu Centraal noemt op dat vlak de korting op de wegenbelasting die tussen 2025 en 2030 wordt afgebouwd, een lagere aankoopbelasting (bpm) dan bij een brandstofauto, en de lagere bijtelling voor zakelijke rijders — in 2026 18 procent over de eerste 30.000 euro.
+Een laadpaal of laadstation staat daar niet tussen. Dat is geen omissie maar beleid: elektrisch rijden wordt landelijk gestimuleerd via de auto zelf, niet via de infrastructuur bij je woning. Milieu Centraal noemt op dat vlak de korting op de wegenbelasting die tussen 2025 en 2030 wordt afgebouwd, een lagere aankoopbelasting (bpm) dan bij een brandstofauto, en een lagere bijtelling voor zakelijke rijders met een elektrische auto. Het exacte bijtellingspercentage en de grens waarboven het gewone tarief geldt, veranderen per belastingjaar; kijk die na op belastingdienst.nl in plaats van in een overzichtsartikel.
 
 Voor de laadpaal zelf betekent dat: je betaalt hem in principe volledig zelf.
 

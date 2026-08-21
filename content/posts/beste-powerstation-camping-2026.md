@@ -1,7 +1,7 @@
 ---
 title: 'Beste powerstation voor camping 2026: top 5 voor kamperen'
 date: 2026-03-03 12:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 description: 'De 5 beste powerstations voor camping in 2026, vergeleken op gewicht, capaciteit en zonnepaneel-opladen — met per model het kampeerprofiel waar het bij past.'
 categories:
 - powerstations
@@ -25,7 +25,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=images.unsplash.com/photo-1650866155994-3bd730b5daf9&w=1200&output=webp&q=70
 faq:
 - q: Welk powerstation is het beste voor camping?
-  a: De EcoFlow River 2 Pro biedt de beste balans tussen capaciteit (768Wh), gewicht (7,8 kg) en laadsnelheid. Voor grotere gezinnen of langere trips is de Jackery Explorer 1000 Plus een betere keuze.
+  a: 'Voor de meeste kampeerders is de EcoFlow River 2 Pro de beste balans tussen capaciteit (768 Wh), gewicht (7,8 kg) en laadsnelheid; op nl.ecoflow.com stond die op 21 augustus 2026 op €549. Heb je meer vermogen nodig voor een groot gezin of een lange trip, kijk dan naar de Jackery Explorer 1000-klasse — let daarbij op de modelnaam, want op nl.jackery.com stonden op 21 augustus 2026 alleen de v2-modellen.'
 - q: Hoeveel Wh heb ik nodig voor camping?
   a: Voor een weekend met telefoon, verlichting en een kleine koelbox volstaat 500-800Wh. Voor een week kamperen met meer apparaten adviseren we minimaal 1000Wh of een powerstation met zonnepaneel.
 - q: Kan ik een koelbox draaien op een powerstation?
@@ -41,36 +41,30 @@ faq:
 products:
 - name: EcoFlow River 2 Pro
   url: https://go.duurzaamthuislab.nl/ecoflow
-  price: '649'
-- name: Jackery Explorer 500
-  url: https://go.duurzaamthuislab.nl/jackery
-  price: '499'
-- name: Anker SOLIX C300
-  url: https://go.duurzaamthuislab.nl/anker-solix
-  price: '349'
+  price: '549'
 schema_type: Article
 ---
 
 *Volledige vergelijking van alle typen: [beste draagbare powerstation 2026](/posts/beste-draagbare-powerstation-2026/) — deze pagina is de keuzehulp voor kamperen.*
-Een compressorkoelbox, telefoons en LED-verlichting: dat is voor de meeste kampeerders het hele stroomverbruik. Reken op grofweg 350 tot 500 Wh per campingdag voor die combinatie — een bandbreedte die volgt uit de opgegeven verbruikscijfers van gangbare 12V-koelboxen (30-45 W tijdens compressorloop, circa 8 uur effectief per etmaal) plus laadverliezen. Wij vergelijken hieronder vijf powerstations op fabrieksspecificaties, handleidingen en geverifieerde gebruikersreviews, en geven per model aan voor welk kampeerprofiel het past.
+Een compressorkoelbox, telefoons en LED-verlichting: dat is voor de meeste kampeerders het hele stroomverbruik. Reken op grofweg 350 tot 500 Wh per campingdag voor die combinatie — een bandbreedte die volgt uit de opgegeven verbruikscijfers van gangbare 12V-koelboxen (30-45 W tijdens compressorloop, circa 8 uur effectief per etmaal) plus laadverliezen. Wij vergelijken hieronder vijf powerstations op openbare fabrikantdocumentatie en handleidingen; wij nemen geen gemeten waarden van derden over en hebben deze toestellen niet zelf getest. Per model geven we aan voor welk kampeerprofiel het past.
 
 Deze vergelijking is helemaal op **kamperen** toegespitst: gewicht dat je van de auto naar de tent tilt, geluid op een stille camping, opladen met een opvouwbaar paneel en draaitijd voor een koelbox. Zoek je breder — het beste powerstation voor thuis, noodstroom of werk op locatie — dan is onze algemene gids [beste draagbare powerstation 2026](/posts/beste-draagbare-powerstation-2026/) de juiste pagina; daar staan ook de grotere modellen in.
 
-*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dat verandert niets aan de vergelijking: die is gebaseerd op fabrieksspecificaties, handleidingen en geverifieerde gebruikersreviews.*
+*Dit artikel bevat affiliate links. Bij een aankoop via onze links ontvangen wij mogelijk een commissie, zonder extra kosten voor jou. Dat verandert niets aan de vergelijking: die is gebaseerd op openbare fabrikantdocumentatie en handleidingen.*
 
 ---
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+💡 *Laad je het station thuis op? Wat de saldering-stop van 1 januari 2027 voor je eigen stroomverbruik betekent, staat in de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
-> **Kort antwoord:** voor de meeste kampeerders is de EcoFlow River 2 Pro (768 Wh, 7,8 kg) de beste balans; wie ultralicht wil reist met de River 2 (3,5 kg), wie een groot gezin of lange trip heeft met de Jackery Explorer 1000 Plus.
+> **Kort antwoord:** voor de meeste kampeerders is de EcoFlow River 2 Pro (768 Wh, 7,8 kg, €549 op nl.ecoflow.com op 21 augustus 2026) de beste balans tussen draagbaar gewicht en genoeg capaciteit voor koelbox, licht en telefoons. Wie ultralicht reist, komt uit bij de EcoFlow River 2 (256 Wh, 3,5 kg); wie met een groot gezin of langer dan een week kampeert, bij de Jackery Explorer 1000-klasse.
 >
-> De EcoFlow River 2 Pro biedt de beste balans tussen capaciteit (768Wh), gewicht (7,8 kg) en laadsnelheid. Voor grotere gezinnen of langere trips is de Jackery Explorer 1000 Plus een betere keuze.
+> **Over de prijzen.** Alleen het bedrag van EcoFlow hebben wij op 21 augustus 2026 op de Nederlandse fabrikantwebshop kunnen nakijken. Voor Bluetti, Anker SOLIX en de Jackery Explorer 1000 Plus noemen wij geen bedrag: die konden wij op die datum niet verifiëren, en een prijs die wij niet hebben nagekeken nemen wij niet over. Specificaties zijn fabrieksopgaven; wij hebben deze toestellen niet zelf getest.
 
 ## Waar moet je op letten bij een camping-powerstation?
 
 Voordat we de modellen vergelijken, is het belangrijk om te weten welke eigenschappen er echt toe doen voor campinggebruik:
 
 ### 1. Gewicht en draagbaarheid
-Op de camping tel elke kilo. Een powerstation dat je makkelijk van de auto naar de tent kunt dragen, is veel praktischer dan een 25+ kg apparaat. Voor kampeerders is **onder de 15 kg** ideaal.
+Op de camping telt elke kilo. Een powerstation dat je makkelijk van de auto naar de tent kunt dragen, is veel praktischer dan een 25+ kg apparaat. Voor kampeerders is **onder de 15 kg** ideaal.
 
 ### 2. Capaciteit (Wh) voor jouw gebruik
 De capaciteit in wattuur (Wh) bepaalt hoe lang je apparaten kunt voeden. Bedenk vooraf wat je wilt aansluiten:
@@ -101,13 +95,15 @@ Op een stille camping wil je geen zoemende ventilator. De beste camping-powersta
 
 ## De Top 5 Vergelijkingstabel
 
-| Powerstation | Capaciteit | Vermogen | Gewicht | Solar max | Laadtijd AC | Prijs (ca.) |
+| Powerstation | Capaciteit | Vermogen | Gewicht | Solar max | Laadtijd AC | Prijs (NL, 21-8-2026) |
 |---|---|---|---|---|---|---|
-| **EcoFlow River 2 Pro** | 768 Wh | 800 W | 7,8 kg | 220 W | 42 min (0-80%) | €649 |
-| **Jackery Explorer 1000 Plus** | 1264 Wh | 2000 W | 14,5 kg | 800 W | 75 min (0-80%) | €1.099 |
-| **Bluetti EB70S** | 716 Wh | 800 W | 9,7 kg | 200 W | 100 min (0-80%) | €549 |
-| **Anker SOLIX C800** | 768 Wh | 1200 W | 10,5 kg | 300 W | 58 min (0-80%) | €599 |
-| **EcoFlow River 2** | 256 Wh | 300 W | 3,5 kg | 110 W | 40 min (0-80%) | €249 |
+| **EcoFlow River 2 Pro** | 768 Wh | 800 W | 7,8 kg | 220 W | 42 min (0-80%) | €549 |
+| **Jackery Explorer 1000 Plus** | 1264 Wh | 2000 W | 14,5 kg | 800 W | 75 min (0-80%) | niet door ons geverifieerd |
+| **Bluetti EB70S** | 716 Wh | 800 W | 9,7 kg | 200 W | 100 min (0-80%) | niet door ons geverifieerd |
+| **Anker SOLIX C800** | 768 Wh | 1200 W | 10,5 kg | 300 W | 58 min (0-80%) | niet door ons geverifieerd |
+| **EcoFlow River 2** | 256 Wh | 300 W | 3,5 kg | 110 W | 40 min (0-80%) | niet door ons geverifieerd |
+
+*Capaciteiten, vermogens en laadtijden zijn fabrieksopgaven. Alleen de prijs van de River 2 Pro hebben wij op 21 augustus 2026 op nl.ecoflow.com nagekeken; de webshops van Bluetti en Anker SOLIX waren op die datum niet uitleesbaar voor onze controle.*
 
 ---
 
@@ -149,7 +145,7 @@ De **X-Boost technologie** verhoogt het effectieve vermogen tot 1600W, waarmee j
 
 ### Oordeel
 
-De EcoFlow River 2 Pro is de ideale middenweg: licht genoeg om mee te nemen, krachtig genoeg voor alle standaard camping-apparaten, en met de snelste laadtijd in zijn klasse.
+De EcoFlow River 2 Pro is de ideale middenweg: licht genoeg om mee te nemen, krachtig genoeg voor alle standaard camping-apparaten, en met de snelste laadtijd in zijn klasse. Op nl.ecoflow.com stond hij op 21 augustus 2026 op **€549** — een actieprijs die per periode wisselt, dus controleer het bedrag op het moment van aankoop.
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow River 2 Pro</a>
 
@@ -181,6 +177,8 @@ Met **14,5 kg** is de Explorer 1000 Plus nog steeds door één persoon te dragen
 
 De **uitbreidbaarheid** is een uniek voordeel: met een extra Battery Pack vergroot je de capaciteit naar 2528Wh. En de hoge solar-input van **800W** maakt snel opladen met zonnepanelen mogelijk.
 
+**Let op de modelnaam en de leverbaarheid.** Op nl.jackery.com stonden op 21 augustus 2026 alleen de v2-modellen van de Explorer-lijn (de Explorer 1000 v2 stond daar op €519); de Plus-modellen troffen wij daar niet aan. Wil je specifiek de Plus met zijn uitbreidbare accumodules, reken dan op resterende dealervoorraad of de internationale winkel — met de garantievraag die daarbij hoort. Het verschil tussen beide generaties staat in [Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/); dezelfde afweging geldt in de 1000-klasse. Wij noemen voor de 1000 Plus geen prijs, omdat wij die op de Nederlandse webshop niet hebben kunnen nakijken.
+
 ### Hoeveel uur campingapparaten?
 
 | Apparaat | Geschatte draaitijd |
@@ -202,7 +200,7 @@ De Jackery Explorer 1000 Plus is ideaal als je langere kampeerperiodes plant, me
 
 ## 3. Bluetti EB70S -- Beste budget-optie
 
-De **Bluetti EB70S** is het bewijs dat je geen fortuin hoeft uit te geven voor een degelijk campingpowerstation. Voor nog geen €550 krijg je een solide apparaat met LiFePO4-batterij.
+De **Bluetti EB70S** is het toestel voor wie een degelijk campingpowerstation zoekt zonder de hoofdprijs te betalen: een solide apparaat met LiFePO4-batterij in de kleinste klasse.
 
 ### Specificaties
 
@@ -221,7 +219,7 @@ De **Bluetti EB70S** is het bewijs dat je geen fortuin hoeft uit te geven voor e
 
 ### Waarom voor camping?
 
-Met een gewicht van **9,7 kg** en een prijs van circa **€549** is de EB70S een uitstekende instapper. De LiFePO4-batterij biedt betrouwbaarheid en een degelijke levensduur van 2500 cycli. Vier AC-uitgangen zijn meer dan bij veel duurdere concurrenten, en de 100W USB-C poort laadt je laptop snel op.
+Met een gewicht van **9,7 kg** is de EB70S een uitstekende instapper. De prijs op de Europese Bluetti-webshop konden wij op 21 augustus 2026 niet uitlezen; zet het bedrag dat je daar aantreft af tegen de €549 die EcoFlow op dezelfde datum voor de River 2 Pro vroeg — dat toestel heeft meer capaciteit bij minder gewicht. De LiFePO4-batterij biedt betrouwbaarheid en een degelijke levensduur van 2500 cycli. Vier AC-uitgangen zijn meer dan bij veel duurdere concurrenten, en de 100W USB-C poort laadt je laptop snel op.
 
 De laadsnelheid via AC is met 100 minuten tot 80% niet de snelste, en de solar-input is beperkt tot 200W. Maar als je voornamelijk op campings met stroomaansluiting staat of een bescheiden stroomverbruik hebt, is de EB70S meer dan voldoende.
 
@@ -237,7 +235,7 @@ De laadsnelheid via AC is met 100 minuten tot 80% niet de snelste, en de solar-i
 
 ### Oordeel
 
-De Bluetti EB70S biedt uitstekende waar voor je geld. Het mist de snelle laadtijden en geavanceerde functies van duurdere modellen, maar voor de prijs is het een solide, betrouwbare camping-metgezel.
+De Bluetti EB70S is een degelijke instapper. Het mist de snelle laadtijden en geavanceerde functies van duurdere modellen, maar voor de prijs is het een solide, betrouwbare camping-metgezel.
 
 <a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Bluetti EB70S</a>
 
@@ -266,7 +264,7 @@ De **Anker SOLIX C800** is een relatief nieuwkomer die snel aan populariteit win
 
 De SOLIX C800 biedt met **1200W continu vermogen** opvallend meer dan de River 2 Pro en EB70S, terwijl het gewicht met **10,5 kg** beheersbaar blijft. De twee USB-C-poorten met **140W PD** zijn een uitblinker -- daarmee laad je zelfs de nieuwste krachtige laptops razendsnel op.
 
-De snelle AC-laadtijd van **58 minuten tot 80%** en de hogere solar-input van 300W plaatsen de C800 duidelijk boven het budgetsegment. En met een prijs van circa **€599** is het nauwelijks duurder dan de Bluetti EB70S, terwijl je beduidend meer vermogen krijgt.
+De snelle AC-laadtijd van **58 minuten tot 80%** en de hogere solar-input van 300W plaatsen de C800 boven het instapsegment. De prijs publiceert Anker op zijn eigen webshop; wij konden die pagina op 21 augustus 2026 niet uitlezen en noemen daarom geen bedrag. Vergelijk wat je daar aantreft met de €549 van de River 2 Pro: de C800 heeft dezelfde capaciteit en meer continu vermogen.
 
 ### Hoeveel uur campingapparaten?
 
@@ -281,9 +279,9 @@ De snelle AC-laadtijd van **58 minuten tot 80%** en de hogere solar-input van 30
 
 ### Oordeel
 
-De Anker SOLIX C800 biedt een indrukwekkende prijs-prestatieverhouding. Meer vermogen dan de River 2 Pro, sneller opladen dan de EB70S, en een prijs die voor de meeste kampeerders bereikbaar is. Een uitstekende keuze als je net iets meer wilt dan het absolute instapniveau.
+De Anker SOLIX C800 zet meer continu vermogen tegenover dezelfde capaciteit als de River 2 Pro, en laadt sneller dan de EB70S. Of dat de betere koop is, hangt af van de prijs die je op dat moment aantreft — die is bij Anker het variabele deel van de afweging.
 
-<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-powerstation-camping-2026/" target="_blank" rel="noopener nofollow sponsored">Bekijk de Anker SOLIX C800 bij Anker</a> — dit is een affiliatelink via AWIN: koop je via deze link, dan ontvangen wij mogelijk een commissie, zonder extra kosten voor jou.
+<a href="https://go.duurzaamthuislab.nl/anker-solix?ref=/posts/beste-powerstation-camping-2026/" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de Anker SOLIX C800</a>
 
 ---
 
@@ -324,7 +322,7 @@ De **X-Boost functie** verhoogt het effectieve vermogen naar 600W, waarmee je in
 
 ### Oordeel
 
-De EcoFlow River 2 is geen krachtpatser, maar dat is ook niet de bedoeling. Het is het ideale powerstation voor kampeerders die licht willen reizen en voornamelijk kleine elektronica moeten opladen. Met een prijs van slechts **€249** is het bovendien de meest betaalbare optie.
+De EcoFlow River 2 is geen krachtpatser, maar dat is ook niet de bedoeling. Het is het ideale powerstation voor kampeerders die licht willen reizen en voornamelijk kleine elektronica moeten opladen. Het is ook het goedkoopste model in dit overzicht; de actuele prijs op nl.ecoflow.com wisselt per actieperiode, dus kijk die na op het moment van aankoop.
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk de EcoFlow River 2</a>
 
@@ -416,7 +414,7 @@ Het **beste powerstation voor camping** hangt af van je persoonlijke situatie en
 
 Welk model je ook kiest, een goed powerstation maakt kamperen comfortabeler zonder de natuur te verstoren -- geen lawaai van aggregaten, geen uitstoot, en altijd stroom voor de apparaten die je echt nodig hebt.
 
-Overweeg je een groter model voor zowel camping als thuisgebruik? Lees dan ook onze diepgaande reviews van de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) en de [Jackery Explorer 2000 Plus](/posts/jackery-explorer-2000-plus-review-2026/).
+Overweeg je een groter model voor zowel camping als thuisgebruik? Lees dan ook onze review van de [EcoFlow Delta 2 Max](/posts/ecoflow-delta-2-max-review-2026/) en de vergelijking [Jackery Explorer 2000 v2 versus 2000 Plus](/posts/jackery-explorer-2000-v2-vs-plus-2026/), waarin staat welke van die twee in Nederland leverbaar is.
 
 
 <a href="https://go.duurzaamthuislab.nl/ecoflow" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk EcoFlow</a> · <a href="https://go.duurzaamthuislab.nl/jackery" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Jackery</a> · <a href="https://go.duurzaamthuislab.nl/bluetti-eu" class="cta cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Bekijk Bluetti</a>

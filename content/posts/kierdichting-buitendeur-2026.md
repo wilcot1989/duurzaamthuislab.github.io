@@ -1,7 +1,7 @@
 ---
 title: 'Kierdichting buitendeur 2026: tochtstrip + sleutelgat'
 date: 2026-06-16 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 description: Specifiek deurkieren — sleutelgaten, brievenbussen, dichtkasten. Materialen, kosten, energiebesparing per type.
 categories:
 - isolatie
@@ -27,7 +27,7 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel energie verlies ik via kieren in de voordeur?
-  a: Dat hangt af van de omvang van de kieren. Een kier van 2 mm rondom een voordeur van 200 × 90 cm is ruim 1.000 mm² doorsnede — dat staat gelijk aan een gat van circa 3 × 3 cm. Via zo'n opening verliest een gemiddeld huis 5 tot 15% van zijn warmte door ventilatie. Kieren in de buitendeur zijn verantwoordelijk voor een aanzienlijk deel hiervan, zeker bij een oudere voordeur.
+  a: 'Dat hangt af van de omvang van de kieren. Reken het na: een kier van 2 mm rondom een voordeur van 200 × 90 cm heeft een omtrek van 5,8 meter, dus 5.800 mm × 2 mm = ruim 11.600 mm² open doorsnede. Dat is hetzelfde als een permanent gat van circa 11 × 11 cm in je voordeur. Luchtlekkage via kieren en naden is in een woning een van de grotere warmteverliesposten; hoeveel het bij jou precies is, hangt af van de staat van de woning en is alleen met een luchtdichtheidsmeting vast te stellen.'
 - q: Wat is de beste tochtstrip voor een buitendeur?
   a: Voor de zijkanten en bovenkant van de deur is een zelfklevende EPDM-tochtstrip of een opleggende borstelstrip het best. Voor de onderkant van de deur is een automatische tochtstrip (die omhoog gaat als de deur open is) de duurzaamste oplossing. Vermijd goedkope schuimtochtstrips — die slijten snel en verliezen hun veerkracht na 1 à 2 jaar.
 - q: Hoe dicht ik een sleutelgat af?
@@ -49,14 +49,7 @@ faq:
 - q: 'Wat is het verschil tussen borstelstrip en rubberen strip?'
   a: 'Borstelstrips (nylonharen) zijn beter voor plekken met veel beweging (onderkant van een schuifdeur, brievenbus) en bij oneffen oppervlakken. Rubberen EPDM-strip is beter voor stijlen en kozijnen die goed aansluiten. Combineer beide: EPDM voor zijkanten en bovenkant, borstelstrip voor de onderkant als een automatische tochtdrempel te duur is.'
 - q: 'Is kierdichting aftrekbaar van de belasting?'
-  a: 'Nee, kierdichting alleen is niet aftrekbaar. Maar als onderdeel van een grotere energierenovatie (isolatie + zonnepanelen + warmtepomp) kunt u in sommige gevallen profiteren van de energiebespaarlening met belastingvoordeel. Vraag uw belastingadviseur of gemeente.'
-products:
-- name: EPDM tochtstrip buitendeur (set voor 1 deur)
-  url: https://go.duurzaamthuislab.nl/daikin
-  price: '18'
-- name: Automatische tochtdrempel voor buitendeur
-  url: https://go.duurzaamthuislab.nl/daikin
-  price: '45'
+  a: 'Nee, kierdichting alleen is niet aftrekbaar. Wel kunt u kierdichting meenemen in een grotere verduurzaming die u met de Energiebespaarlening van het Warmtefonds financiert; de voorwaarden en rentes staan op warmtefonds.nl.'
 schema_type: Article
 ---
 "Ik heb alles al geïsoleerd — spouwmuur, dak, vloer — maar het blijft tochten. Waar zit het?" Het is een van de meest gestelde vragen na een isolatieronde.
@@ -68,9 +61,9 @@ Dit artikel gaat specifiek over die vergeten plekken. Wij behandelen ze één vo
 ---
 
 
-> **Kort antwoord:** Specifiek deurkieren — sleutelgaten, brievenbussen, dichtkasten. Materialen, kosten, energiebesparing per type.
+> **Kort antwoord:** de drie plekken waar een voordeur het meeste lucht doorlaat, zijn het sleutelgat, de brievenbus en de aansluiting van de dichtkast — niet de deurkier onderaan, waar de meeste mensen beginnen. Een sleutelgatrozet met veerplaatje, een borstelstrip achter de brievenbus en EPDM in de sponning kosten samen €30 tot €100 aan materiaal en zijn in een paar uur te doen.
 >
-> Dat hangt af van de omvang van de kieren. Een kier van 2 mm rondom een voordeur van 200 × 90 cm is ruim 1.000 mm² doorsnede — dat staat gelijk aan een gat van circa 3 × 3 cm. Via zo'n opening verliest een gemiddeld huis 5 tot 15% van zijn warmte door ventilatie. Kieren in de buitendeur zijn verantwoordelijk voor een aanzienlijk deel hiervan, zeker bij een oudere voordeur.
+> Hoeveel het oplevert, hangt af van de omvang van de kieren. Reken het na: een kier van 2 mm rondom een voordeur van 200 × 90 cm heeft een omtrek van 5,8 meter, dus 5.800 mm × 2 mm = ruim 11.600 mm² open doorsnede. Dat is hetzelfde als een permanent gat van circa 11 × 11 cm in je voordeur. Luchtlekkage via kieren en naden is in een woning een van de grotere warmteverliesposten; hoeveel het bij jou precies is, hangt af van de staat van de woning en is alleen met een luchtdichtheidsmeting vast te stellen.
 
 ## Waarom een buitendeur zo'n grote kier-bron is
 
@@ -108,7 +101,7 @@ Schroef de bestaande rozet los (meestal twee schroeven). Leg de nieuwe rozet op 
 
 ## De brievenbus: een permanente spouw
 
-Een brievenbus in de buitendeur is een rechthoekige opening van gemiddeld 25 × 8 cm. Dat is 2.000 mm² doorsnede — twintig keer groter dan een sleutelgat. En hij zit halverwege de deur, precies op de hoogte waar de meeste wind tegenaan blaast.
+Een brievenbus in de buitendeur is een rechthoekige opening van gemiddeld 25 × 8 cm. Dat is 200 cm², oftewel 20.000 mm² doorsnede — een veelvoud van een sleutelgat. En hij zit halverwege de deur, precies op de hoogte waar de meeste wind tegenaan blaast.
 
 De meeste brievenbussen hebben één klep aan de buitenkant — de flap die postbezorgers openduwt. Die flap is geen goede afdichting: hij trilt in de wind, heeft speelruimte, en wordt met de jaren minder veerkrachtig.
 
@@ -239,10 +232,10 @@ Voordat u begint, is het zinvol om te meten hoe groot het tocht-probleem precies
 **1. Blower door test**
 Een professionele aannemer of energieadviseur kan een blower door test uitvoeren: een grote ventilator wordt in de voordeur gemonteerd, het huis wordt onder druk gezet, en er wordt gemeten hoeveel lucht er lekt. Kosten: €200 tot €400. Het levert een luchtdichtheidsmeting op (n50-waarde) die aangeeft hoe uw woning scoort.
 
-Voor een bestaande woning is een n50-waarde van 3-5 (luchtwijzigingen per uur bij 50 Pa) normaal. Nieuwbouwwoningen moeten aan strengere eisen voldoen (≤1,5 bij BENG-norm).
+Bij bestaande woningen komen n50-waarden van 3 tot 5 (luchtwisselingen per uur bij 50 Pa) veel voor. Voor bestaande bouw geldt geen wettelijke luchtdichtheidseis; voor nieuwbouw stelt het Besluit bouwwerken leefomgeving wél een grens, uitgedrukt in de qv;10-waarde. Vergelijk je meetresultaat dus met vergelijkbare woningen, niet met een norm.
 
 **2. Thermografische scan**
-Een warmtebeeldcamera maakt direct zichtbaar waar de warmteverliezen zitten. Sommige gemeenten bieden gratis thermografische scans aan via een verduurzamingsprogramma. Controleer het website van uw gemeente.
+Een warmtebeeldcamera maakt direct zichtbaar waar de warmteverliezen zitten. Sommige gemeenten bieden gratis thermografische scans aan via een verduurzamingsprogramma. Controleer de website van uw gemeente.
 
 Als u een thermografische scan laat doen in de winter (buiten koud, binnen warm): de warmste spots op de buitenmuur zijn de koudste plekken — koud buiten stroomt naar binnen. Perfect voor het opsporen van kieren.
 
@@ -284,10 +277,6 @@ Kierdichting is de goedkoopste verduurzaming die er bestaat. Voor €50 aan mate
 
 ---
 *DuurzaamThuisLab schrijft datagedreven over verduurzaming: fabrieksspecificaties, publieke data en narekenbare modelberekeningen, met expliciete aannames.*
-
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk verduurzamen →</a>
-
-<a href="https://go.duurzaamthuislab.nl/zonneplan" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Zonneplan</a>
 
 ## Gerelateerde artikelen
 

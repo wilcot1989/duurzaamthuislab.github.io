@@ -1,8 +1,8 @@
 ---
 title: Kierdichting, glaswol en tochtstrip in 2026
 date: 2026-05-25 08:00:00+02:00
-lastmod: 2026-08-20 08:00:00+02:00
-description: Met €100 aan kierdichting, tochtstrips en glaswol bespaar je tot €300 per jaar. DIY-gids voor de gemiddelde Nederlandse woning met materiaallijst en.
+lastmod: 2026-08-21 08:00:00+02:00
+description: 'Kierdichting is de goedkoopste verduurzaming die er is: circa €95 aan materiaal tegenover €265-€350 per jaar in onze modelberekening voor een tochtige woning. Met materiaallijst, stappenplan en de fouten die je moet vermijden.'
 categories:
 - isolatie
 tags:
@@ -23,24 +23,17 @@ author_bio: Team DuurzaamThuisLab schrijft datagedreven over zonnepanelen, thuis
 featured_image: https://wsrv.nl/?url=plus.unsplash.com/premium_photo-1661368402338-189156f43012&w=1200&output=webp&q=70
 faq:
 - q: Hoeveel kan ik besparen met kierdichting?
-  a: Luchtlekkage via kieren en naden is verantwoordelijk voor 10-20% van het totale warmteverlies in een woning. Met €50-€100 aan tochtstrips, kitstof en glaswol-strips kun je €100-€300 per jaar besparen afhankelijk van de staat van de woning.
+  a: 'Dat hangt volledig af van hoe tochtig je woning nu is. In onze modelberekening voor een tochtige woning uit de jaren 70-80 met 1.580 m³ gasverbruik komt een grondige kierdichtingsronde uit op 240 tot 320 m³ gas per jaar, oftewel circa €265 tot €350 bij €1,10/m³ — tegenover circa €95 aan materiaal. In een woning die al redelijk dicht is, valt de besparing veel lager uit. Meet het na met je eigen gasverbruik over twee stookseizoenen, gecorrigeerd voor graaddagen.'
 - q: Hoe weet ik waar de kieren in mijn woning zitten?
-  a: De grootste kieren bevinden zich onder en rondom deuren (voordeur, achterdeur, tussendeur), rondom raamkozijnen, bij doorvoeringen van leidingen en kabels, bij de overgang van muren naar vloeren, en bij ventilatieopeningen. Houd op een koude dag een aansteker of wierrookstokje bij verdachte plekken — as je vlam of rookje beweegt, is er een lek.
+  a: De grootste kieren bevinden zich onder en rondom deuren (voordeur, achterdeur, tussendeur), rondom raamkozijnen, bij doorvoeringen van leidingen en kabels, bij de overgang van muren naar vloeren, en bij ventilatieopeningen. Houd op een koude dag een aansteker of wierookstokje bij verdachte plekken — als je vlam of rookpluim beweegt, is er een lek.
 - q: Wat is het verschil tussen EPDM-strip en schuimstrip voor deuren?
-  a: EPDM-rubber strips zijn duurzamer (15-25 jaar) en beter bestand tegen temperatuurwisselingen dan goedkope schuimstrip (polyethyleen schuim). EPDM kost 2-3x meer maar gaat 5-6x zo lang mee. Voor een voordeur die dagelijks opengaat, is EPDM de betere investering.
+  a: EPDM-rubber strips zijn duurzamer (10 tot 15 jaar bij normaal gebruik) en beter bestand tegen temperatuurwisselingen dan goedkope schuimstrip van polyethyleen, die vaak na 1 tot 3 jaar zijn veerkracht verliest. EPDM kost meer per meter, maar gaat een veelvoud langer mee. Voor een voordeur die dagelijks opengaat, is EPDM de betere investering.
 - q: Kan ik ook kierdichting aanvragen via subsidie?
   a: Kierdichting is als afzonderlijke maatregel geen ISDE-maatregel. De ISDE vergoedt isolatiemaatregelen zoals spouwmuur-, vloer-, dak- en glasisolatie; kierdichting kan bij een installateur soms als onderdeel van zo'n totaalpakket meelopen. Voor VvE's loopt subsidie via de SVVE. Informeer bij je gemeente of een erkende installateur en check de actuele maatregellijst op rvo.nl.
 - q: Is kitten rondom kozijnen eenvoudig zelf te doen?
-  a: 'Ja. Met een kitpistool, acrylaatkit of siliconenkit en wat voorbereidingstijd is dit een goede DIY-klus. Verwijder de oude kit, ontvetten de ondergrond, breng de kit aan in een soepele beweging en strijk glad met een natte vinger of kitspaan. Droogtijd: 24 uur.'
+  a: 'Ja. Met een kitpistool, acrylaatkit of siliconenkit en wat voorbereidingstijd is dit een goede DIY-klus. Verwijder de oude kit, ontvet de ondergrond, breng de kit aan in een soepele beweging en strijk glad met een natte vinger of kitspaan. Droogtijd: 24 uur.'
 - q: Welke plekken vergeten mensen vaak bij kierdichting?
   a: Elektrische stopcontacten en schakelkasten aan buitenmuren (koudluchtlekken), de overgang van plinten naar de vloer, doorvoeringen van stroom- en waterleidingen in buitenmuren, de kap van de cv-ketel-schoorsteen, en het deksel van het kruipluik.
-products:
-- name: TONZON kierdicht (set)
-  url: https://tonzon.nl
-  price: '49'
-- name: Kärcher SC2 stoomreiniger
-  url: https://karcher.com
-  price: '139'
 schema_type: Article
 ---
 De goedkoopste energiebesparende maatregel die bestaat, kost geen duizenden euro's maar ongeveer honderd: kieren dichten. En je kunt in een half uur zelf vaststellen of het bij jou iets oplevert — met een wierookstokje langs ramen, deuren en plinten. Staat de rook horizontaal bij de voordeur of beweegt hij bij de plint, dan stook je op dat moment naar buiten.
@@ -54,25 +47,23 @@ In dit artikel staat stap voor stap hoe je het aanpakt, met een volledige materi
 ---
 
 
-> **Kort antwoord:** Met €100 aan kierdichting, tochtstrips en glaswol bespaar je tot €300 per jaar. DIY-gids voor de gemiddelde Nederlandse woning met materiaallijst en.
+> **Kort antwoord:** begin met een rooktest langs deuren, kozijnen, plinten, leidingdoorvoeren en stopcontacten aan buitenmuren. Dicht daarna in deze volgorde: deuren met EPDM en een borstelseal, kozijnen met acrylaatkit, doorvoeren met purschuim plus kit, en de vloer-muur-overgang achter de plint.
 >
-> Luchtlekkage via kieren en naden is verantwoordelijk voor 10-20% van het totale warmteverlies in een woning. Met €50-€100 aan tochtstrips, kitstof en glaswol-strips kun je €100-€300 per jaar besparen afhankelijk van de staat van de woning.
+> Materiaalkosten voor de volledige ronde: circa €95. In onze modelberekening voor een tochtige woning uit de jaren 70-80 (1.580 m³ gas) levert dat 240 tot 320 m³ gas per jaar op, oftewel €265 tot €350 bij €1,10/m³. Voor een woning die al redelijk luchtdicht is, is de opbrengst een fractie daarvan — reken met je eigen gasverbruik, niet met dit voorbeeld.
 
 ## Hoeveel warmte verliest je woning via kieren?
 
-Luchtlekkage is de meest onderschatte oorzaak van warmteverlies in Nederlandse woningen. Uit onderzoek van TNO (2019) blijkt dat de gemiddelde Nederlandse woning 2-4 keer per uur volledig van lucht wisselt via kieren en naden — terwijl voor een gezonde binnenlucht slechts 0,3-0,5 keer per uur nodig is.
+Luchtlekkage is de meest onderschatte oorzaak van warmteverlies in Nederlandse woningen, en tegelijk de post waarover de minste harde cijfers per woning bestaan: hoeveel lucht jouw huis onbedoeld doorlaat, is alleen met een luchtdichtheidsmeting (blower-door) vast te stellen. Wat je zonder meting wél kunt doen, is de orde van grootte modelleren.
 
-Dat betekent dat de meeste woningen 4-10 keer te veel lucht verliezen via onbedoelde openingen.
+**Modelberekening, met de aannames erbij.** Onderstaande tabel is geen meting en geen statistiek over de Nederlandse woningvoorraad, maar een rekenkader met drie scenario's voor een woning met een gasverbruik van 1.500 m³ per jaar. Het aandeel infiltratieverlies is de aanname; het gasequivalent en het bedrag volgen daaruit bij €1,10 per m³.
 
-**Warmteverlies via luchtlekkage:**
+| Scenario | Aanname: aandeel warmteverlies via luchtlekkage | Gasequivalent | Bij €1,10/m³ |
+|---|---|---|---|
+| Duidelijk tochtige woning | 20-30% | 300-450 m³/jaar | €330-€495/jaar |
+| Redelijk gedichte woning | 10-15% | 150-225 m³/jaar | €165-€248/jaar |
+| Goed gedichte woning | 3-5% | 45-75 m³/jaar | €50-€83/jaar |
 
-| Woningtype | Aandeel warmteverlies via luchtlekkage | Equivalent gasverbruik |
-|------------|----------------------------------------|------------------------|
-| Slechtst 25% woningen | 20-30% | 300-450 m3/jaar |
-| Gemiddelde woning | 10-15% | 150-225 m3/jaar |
-| Goed gedichte woning | 3-5% | 45-75 m3/jaar |
-
-Bij een gasprijs van €1,10/m3 is dat €165-€495 per jaar dat je letterlijk door de kieren blazt. Kierdichting is de goedkoopste manier om dit aan te pakken.
+Kierdichting haalt daar niet het volledige bedrag uit — een woning moet blijven ventileren. Wat je wegneemt is het ongecontroleerde deel: de tocht die je voelt.
 
 ---
 
@@ -222,10 +213,10 @@ De overgang tussen de vloer en de buitenmuur is bij veel woningen een doorlopend
 **Aanpak:**
 
 1. Verwijder de bestaande plint voorzichtig (eventueel opnieuw te gebruiken).
-2. Inspecter de overgang: is er een kier? Hoe groot?
+2. Inspecteer de overgang: is er een kier? Hoe groot?
 3. Bij kieren tot 5 mm: vul op met acrylaatkit en strijk glad.
 4. Bij grotere kieren (5-15 mm): gebruik zelfklevend foam-strip of breng eerst purschuim aan als vulling, dan kit als afwerking.
-5. Breng de plint terug of vervang door een nieuwe exemplaar met geïntegreerde dichting.
+5. Breng de plint terug of vervang door een nieuw exemplaar met geïntegreerde dichting.
 
 **Tijdsinvestering:** 20-30 minuten per kamer (begane grond).
 
@@ -267,9 +258,11 @@ Reken dat door voor een woning met 1.580 m³ gasverbruik:
 | Gasverbruik vóór | 1.580 m³ |
 | Aanname besparing op infiltratieverlies | 15-20% van het verbruik |
 | Besparing | circa 240-320 m³ per jaar |
-| Bij €1,15/m³ | circa €275-€365 per jaar |
+| Bij €1,10/m³ | circa €265-€350 per jaar |
 | Materiaalkosten | circa €95 |
-| **Terugverdientijd** | **3-4 maanden** |
+| **Terugverdientijd** | **circa 4 maanden** |
+
+Let op wat hier de aanname is: 15 tot 20 procent besparing op het gasverbruik hoort bij een woning die echt op tocht staat. Is jouw woning al redelijk dicht, dan is dit een bovengrens en geen verwachting.
 
 Wil je weten waar jij werkelijk staat, laat dan een blower-door-meting doen (kosten enkele honderden euro's) of vergelijk simpelweg je gasverbruik over twee stookseizoenen, gecorrigeerd voor graaddagen. Zonder die correctie zegt een vergelijking tussen twee winters weinig.
 
@@ -316,9 +309,6 @@ Doe de rooktest, breng je lekken in kaart, koop de juiste materialen (EPDM, acry
 ---
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
-
-
 
 ## Aanvullende materialen en gevorderde technieken
 
@@ -329,7 +319,7 @@ Als de basiskierdichting gedaan is, zijn er verdergaande maatregelen die extra b
 Een blower-door test meet de luchtdichtheid van je woning wetenschappelijk. Een elektrische ventilator wordt in de voordeur gemonteerd en brengt de woning op overdruk of onderdruk. Een meetinstrument registreert hoeveel lucht per uur door de gebouwschil lekt.
 
 **Wat geeft de meting je?**
-- Het luchtlekgetal n50 (vol/h bij 50 Pascal) — de NEN-norm voor woningen is n50 ≤ 3,0 voor bestaande bouw
+- Het luchtlekgetal n50 (vol/h bij 50 Pascal). Voor bestaande woningen geldt geen wettelijke luchtdichtheidseis; het getal is bedoeld om je eigen voortgang en vergelijkbare woningen tegen elkaar af te zetten. Voor nieuwbouw stelt het Besluit bouwwerken leefomgeving wél een grens, uitgedrukt in de qv;10-waarde
 - Een thermografische camera (vaak meegebracht) toont precies waar koude lucht binnenkomt
 - Een prioriteitenlijst van lekken om aan te pakken
 
@@ -364,7 +354,7 @@ Kierdichting is niet eenmalig: strips worden samengeperst en kit scheurt door te
 - [ ] Doorvoeringen leidingen: zijn er nieuwe scheurvorming door temperatuurwisseling?
 - [ ] Stopcontacten buitenmuur: zijn de isolatieschijfjes nog aanwezig?
 
-Reken op €15-€30 per jaar aan bijwerken (een tube kit, een vervangen tochtstrip). Tegenover een besparing die in de honderden euro's per jaar loopt, is dat een verwaarloosbare onderhoudspost — maar sla je het over, dan loopt de luchtdichtheid in een paar jaar terug naar de oude situatie.
+Reken op €15-€30 per jaar aan bijwerken (een tube kit, een vervangen tochtstrip). Tegenover de besparing uit het rekenvoorbeeld hierboven is dat een verwaarloosbare onderhoudspost — maar sla je het over, dan loopt de luchtdichtheid in een paar jaar terug naar de oude situatie.
 
 ---
 
@@ -376,12 +366,12 @@ Dit is een terechte zorg. Een luchtdichte woning moet bewust geventileerd worden
 
 **Ventilatiemethoden:**
 
-1. **Ramen openen:** de simpelste methode, maar ongekontroleerd en energieverspillend
+1. **Ramen openen:** de simpelste methode, maar ongecontroleerd en energieverspillend
 2. **Ventilatieroosters in ramen/kozijnen:** geeft gecontroleerde minimale ventilatie zonder grote energieverliezen
 3. **Mechanische ventilatie (type C):** een afzuigventilator in keuken en badkamer trekt lucht af; verse lucht komt binnen via ventilatieroosters
 4. **WTW-systeem (type D):** mechanische aan- en afvoer met warmteterugwinning — de meest energiezuinige oplossing
 
-Kierdichting is compatibel met alle ventilatietypes. De bedoeling is ongekontroleerde luchtlekken (tocht) te elimineren, niet de gecontroleerde ventilatie te blokkeren.
+Kierdichting is compatibel met alle ventilatietypes. De bedoeling is ongecontroleerde luchtlekken (tocht) te elimineren, niet de gecontroleerde ventilatie te blokkeren.
 
 **Vuistregel:** als je kierdichting hebt uitgevoerd, controleer dan of je ventilatieroosters in alle slaapkamers aanwezig en open zijn. Slaap nooit in een volledig gesloten, luchtdichte kamer zonder ventilatierooster.
 
@@ -475,16 +465,16 @@ Als je overstapt van ongecontroleerde ventilatie (kieren) naar een mechanisch ve
 - Vier leidingdoorvoeringen afgedicht
 - Twaalf stopcontacten geïsoleerd
 - Vloer-muur overgang begane grond
-- Verwachte besparing: €250-€350/jaar
+- Verwachte besparing in ons model: €265-€350/jaar bij een tochtige woning
 
 **Budget €200:**
 - Alles uit €100-scenario
 - Blower-door test (of thermografische camera huren): €60-€100
 - Bijwerking op basis van gevonden restlekken
 - Airtight tape voor resterende naden
-- Verwachte besparing: €300-€450/jaar
+- Verwachte besparing: dezelfde €265-€350/jaar, maar met meer zekerheid dat je de lekken werkelijk gevonden hebt
 
-De incrementele besparing per extra €50 investering daalt naarmate de makkelijkste lekken al zijn gedicht — maar de terugverdientijd blijft zelfs bij €200 investering onder één jaar.
+De incrementele besparing per extra €50 investering daalt naarmate de makkelijkste lekken al zijn gedicht. Ook bij €200 investering blijft de terugverdientijd in dit model onder één jaar — maar de winst van die laatste €100 zit in zekerheid, niet in extra kubieke meters gas.
 
 ## Gerelateerde artikelen
 

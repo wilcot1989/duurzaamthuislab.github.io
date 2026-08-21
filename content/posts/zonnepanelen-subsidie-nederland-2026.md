@@ -1,7 +1,7 @@
 ---
 title: 'Zonnepanelen Subsidie Nederland 2026: Complete Gids'
 date: 2026-02-24 12:00:00+01:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 description: 'Alles over zonnepanelen en subsidie in 2026: wat de ISDE wel en niet dekt, de salderingsregeling, het 0% btw-tarief en lokale regelingen. Inclusief stap-voor-stap aanvraagproces.'
 categories:
 - zonne-energie
@@ -35,24 +35,17 @@ faq:
 - q: Hoe vraag ik ISDE-subsidie aan?
   a: Via mijn.rvo.nl met DigiD. Je hebt de factuur en de apparaatgegevens nodig, en het toestel moet op de erkende-apparatenlijst van RVO staan. Dit geldt voor de maatregelen die onder de ISDE vallen, zoals een warmtepomp of zonneboiler — niet voor zonnepanelen of een thuisbatterij.
 - q: Loont het nog om zonnepanelen te kopen in 2026?
-  a: Voor de meeste woningen wel. Met het 0% btw-tarief op panelen en de salderingsregeling die in 2026 nog van kracht is, komt de terugverdientijd in onze modelberekening op circa 4 tot 5 jaar uit. Vanaf 2027 verschuift het rendement richting eigen verbruik in plaats van teruglevering.
+  a: Voor de meeste woningen wel. Met het 0% btw-tarief op panelen en de salderingsregeling die in 2026 nog van kracht is, komt de terugverdientijd in onze modelberekening op circa 5 jaar uit. Vanaf 2027 verschuift het rendement richting eigen verbruik in plaats van teruglevering.
 - q: 'Kan ik zonnepanelen financieren?'
   a: 'Ja, er zijn meerdere opties: (1) **Groene lening** — bij banken als ASN, Triodos en Rabobank tegen gunstige rente (vaak 2-4%); (2) **Persoonlijke lening** — bij je eigen bank; (3) **Huurkoop/lease** — sommige installateurs bieden huurkoop aan; (4) **Warmtefonds** — voor huiseigenaren met een laag inkomen (rente vanaf 0%).'
 - q: 'Is het verstandig om te lenen voor zonnepanelen?'
-  a: 'Met een terugverdientijd van 4-5 jaar in onze modelberekening en een verwachte panellevensduur van 25-30 jaar zijn zonnepanelen voor de meeste woningen een verdedigbare investering. Bij financiering zijn de maandlasten vaak lager dan de besparing op de energierekening — reken dat wel na met je eigen rente en verbruik, want dat verschilt per situatie.'
-products:
-- name: Zonneplan
-  url: https://go.duurzaamthuislab.nl/zonneplan
-  price: '5000'
-- name: Coolblue Zonnepanelen
-  url: https://www.coolblue.nl/zonnepanelen
-  price: '5500'
+  a: 'Met een terugverdientijd van circa 5 jaar in onze modelberekening en een verwachte panellevensduur van 25-30 jaar zijn zonnepanelen voor de meeste woningen een verdedigbare investering. Bij financiering zijn de maandlasten vaak lager dan de besparing op de energierekening — reken dat wel na met je eigen rente en verbruik, want dat verschilt per situatie.'
 schema_type: Article
 ---
 Wie in 2026 zonnepanelen laat plaatsen, betaalt 0% btw op de panelen en de installatie en kan dat jaar nog salderen. Wat er níet is: een rijkssubsidie voor de panelen zelf, en ook geen rijkssubsidie voor een thuisbatterij. In deze gids zetten we op een rij welke financiële regelingen in 2026 echt bestaan, welke misverstanden hardnekkig blijven rondzingen, en hoe je het rendement narekent.
 
 
-💡 *Niet zeker over de saldering-stop in 2027? Lees de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/) — 5 strategieën om €500-€2000/jaar veilig te stellen.*
+💡 *Wat het einde van de saldering per 1 januari 2027 voor jouw rendement betekent, staat in de [Saldering 2027 transitie-planner](/posts/saldering-2027-transitie-planner/).*
 
 > **Kort antwoord:** er is geen aparte subsidie voor zonnepanelen en geen ISDE voor thuisbatterijen. Wat er wél is: 0% btw op de levering en installatie van panelen bij een woning, de salderingsregeling in 2026, en soms een gemeentelijke regeling of collectieve inkoopactie. De ISDE gaat over isolatie, ventilatie (i.c.m. isolatie), (hybride) warmtepompen, zonneboilers, warmtenetaansluiting en elektrisch koken.
 
@@ -88,10 +81,10 @@ Per 1 januari 2027 verdwijnt de salderingsregeling. In plaats van één-op-één
 
 | Situatie | Waarde van 2000 kWh teruglevering |
 |---|---|
-| 2026 (saldering, €0,30/kWh afnametarief) | €600 |
+| 2026 (saldering, €0,26/kWh afnametarief) | €520 |
 | Vanaf 2027 (teruglevertarief €0,08-€0,12/kWh) | €160-€240 |
 
-Het verschil van €360-€440 per jaar is de reden dat eigen verbruik na 2026 belangrijker wordt dan opwek. De exacte uitkomst hangt af van het teruglevertarief dat jouw leverancier biedt — dat is geen vast overheidstarief.
+Het verschil van €280-€360 per jaar is de reden dat eigen verbruik na 2026 belangrijker wordt dan opwek. De exacte uitkomst hangt af van het teruglevertarief dat jouw leverancier biedt — dat is geen vast overheidstarief.
 
 ### Wat kun je doen?
 
@@ -200,15 +193,17 @@ Een offerte waarin de accu tegen 0% btw staat, is niet in lijn met wat de Belast
 
 ### Hoe werkt het?
 
-In Nederland betaal je **energiebelasting** over elke kWh stroom die je afneemt van het net. In 2026 bedraagt de energiebelasting circa **€0,10 per kWh** (eerste schijf, tot 10.000 kWh). Met zonnepanelen verlaag je je nettoafname, waardoor je minder energiebelasting betaalt.
+In Nederland betaal je **energiebelasting** over elke kWh stroom die je afneemt van het net. In 2026 bedraagt de energiebelasting op elektriciteit in de eerste schijf (tot 10.000 kWh) **€0,09161 per kWh exclusief btw**, oftewel **€0,11085 inclusief 21% btw**. Met zonnepanelen verlaag je je nettoafname, waardoor je minder energiebelasting betaalt.
 
 ### Rekenvoorbeeld
 
-| Situatie | Afname net | Energiebelasting (ca.) |
+| Situatie | Afname net | Energiebelasting (incl. btw) |
 |---|---|---|
-| Zonder zonnepanelen (3500 kWh) | 3500 kWh | €350/jaar |
-| Met zonnepanelen + saldering (1500 kWh netto) | 1500 kWh | €150/jaar |
-| Met zonnepanelen + thuisbatterij (800 kWh netto) | 800 kWh | €80/jaar |
+| Zonder zonnepanelen (3500 kWh) | 3500 kWh | €388/jaar |
+| Met zonnepanelen + saldering (1500 kWh netto) | 1500 kWh | €166/jaar |
+| Met zonnepanelen + thuisbatterij (800 kWh netto) | 800 kWh | €89/jaar |
+
+*Gerekend met €0,11085 per kWh inclusief btw (tarief eerste schijf 2026).*
 
 Met zonnepanelen en een thuisbatterij kun je je energiebelasting met **70-80%** verlagen.
 
@@ -216,7 +211,7 @@ Met zonnepanelen en een thuisbatterij kun je je energiebelasting met **70-80%** 
 
 ## Lokale Subsidies per Gemeente
 
-Naast landelijke regelingen bieden sommige gemeenten **lokale subsidies** aan voor zonnepanelen en duurzame energiemaatregelen. Deze subsidies varieren sterk per gemeente en zijn vaak beperkt beschikbaar (op=op). Dit is, naast het btw-nultarief, de enige plek waar voor panelen en batterijen nog echt geld te halen valt.
+Naast landelijke regelingen bieden sommige gemeenten **lokale subsidies** aan voor zonnepanelen en duurzame energiemaatregelen. Deze regelingen verschillen sterk per gemeente en werken doorgaans met een budgetplafond: is het budget voor dat jaar verdeeld, dan sluit de regeling tot het volgende budgetjaar. Dit is, naast het btw-nultarief, de enige plek waar voor panelen en batterijen nog echt geld te halen valt.
 
 ### Hoe vind je lokale subsidies?
 
@@ -244,15 +239,15 @@ Onderstaande modelberekening laat de terugverdientijd zien voor een typisch Nede
 - 12 zonnepanelen (4500 Wp)
 - Jaaropbrengst: circa 4000 kWh
 - Jaarverbruik huishouden: 3500 kWh
-- Stroomprijs: €0,30/kWh
+- Stroomprijs: €0,26/kWh (all-in rekenconstante die wij sitebreed gebruiken)
 - Investering: €5.500 (inclusief installatie, 0% BTW)
 
 **Besparing per jaar (met volledige saldering):**
-- Directe besparing door eigen gebruik (60%): 2400 kWh x €0,30 = €720
-- Besparing door saldering (40%): 1600 kWh x €0,30 = €480
-- **Totale jaarlijkse besparing: €1.200**
+- Directe besparing door eigen gebruik (60%): 2400 kWh x €0,26 = €624
+- Besparing door saldering (40%): 1600 kWh x €0,26 = €416
+- **Totale jaarlijkse besparing: €1.040**
 
-**Terugverdientijd: circa 4,5 jaar** (modelberekening)
+**Terugverdientijd: circa 5,3 jaar** (modelberekening: €5.500 investering gedeeld door €1.040 besparing per jaar)
 
 Na de terugverdientijd lever je nog circa 20-25 jaar stroom op zonder aanschafkosten. Zonnepanelen hebben een verwachte levensduur van 25-30 jaar, waarbij fabrikanten doorgaans minimaal 80% van het oorspronkelijke rendement na 25 jaar garanderen.
 
@@ -262,9 +257,9 @@ Vanaf 2027 valt de opbrengst van teruglevering terug op het teruglevertarief. Ma
 
 | Scenario | Terugverdientijd |
 |---|---|
-| Zonnepanelen met volledige saldering (2026) | 4-5 jaar |
-| Zonnepanelen na het einde van de saldering (zonder batterij) | 6-8 jaar |
-| Zonnepanelen + thuisbatterij (na het einde van de saldering) | 8-11 jaar (totale investering) |
+| Zonnepanelen met volledige saldering (2026) | circa 5 jaar |
+| Zonnepanelen na het einde van de saldering (zonder batterij) | 7-9 jaar |
+| Zonnepanelen + thuisbatterij (na het einde van de saldering) | 9-12 jaar (totale investering) |
 
 Er staat geen rij met subsidie in deze tabel, en dat is bewust: voor panelen en accu's is er geen rijkssubsidie die de terugverdientijd verkort. Alleen een gemeentelijke regeling kan er nog een paar honderd euro af halen.
 
@@ -336,12 +331,12 @@ Het btw-nultarief zit al in de paneelprijzen verwerkt: dat is de reden dat de ee
 - Dynamisch contract, teruglevertarief €0,12/kWh
 
 Jaaropbrengst:
-- Eigen verbruik 2.268 × €0,30 = €680
+- Eigen verbruik 2.268 × €0,26 = €590
 - Teruglevering 1.512 × €0,12 = €181
-- **Totaal: €861/jaar**
-- Terugverdientijd: €8.800 / €861 = **10,2 jaar** (modelberekening)
+- **Totaal: €771/jaar**
+- Terugverdientijd: €8.800 / €771 = **11,4 jaar** (modelberekening)
 
-Dat is de eerlijke uitkomst van panelen plus accu in één keer aanschaffen. Wie alleen de panelen neemt (€4.850) en op €680-€800 per jaar uitkomt, zit rond de 6-7 jaar. Het accudeel is in dit model dus de post die de terugverdientijd oprekt — precies omdat er geen subsidie en geen btw-voordeel op zit.
+Dat is de eerlijke uitkomst van panelen plus accu in één keer aanschaffen. Wie alleen de panelen neemt (€4.850) en op €590-€700 per jaar uitkomt, zit rond de 7-8 jaar. Het accudeel is in dit model dus de post die de terugverdientijd oprekt — precies omdat er geen subsidie en geen btw-voordeel op zit.
 
 Kan een gemeentelijke of provinciale regeling helpen? Ja, in een deel van Nederland: €300-€750 op de accu. Zie ons [subsidieoverzicht voor thuisbatterijen](/posts/thuisbatterij-subsidie-2026-overzicht/).
 
@@ -355,7 +350,7 @@ Een misverstand dat we regelmatig tegenkomen: dat subsidie het verdwijnen van de
 
 Wat de rekening na 2026 wél bepaalt:
 
-- **Je eigen verbruik op het moment van opwek.** Elke kWh die je zelf gebruikt is €0,30 waard in plaats van het teruglevertarief.
+- **Je eigen verbruik op het moment van opwek.** Elke kWh die je zelf gebruikt is met onze rekenconstante €0,26 waard in plaats van het teruglevertarief.
 - **Je teruglevertarief en eventuele terugleverkosten.** Die verschillen sterk per leverancier en per contractvorm.
 - **De aanschafprijs.** Bij een investering zonder subsidie is scherp inkopen het enige effectieve instrument dat je nog hebt.
 
@@ -363,7 +358,7 @@ Wie een thuisbatterij overweegt, doet er goed aan de beslissing op deze drie pun
 
 ## Conclusie
 
-Zonnepanelen zijn in 2026 voor de meeste woningen een goede investering. Met het 0% btw-tarief, de salderingsregeling die dat jaar nog geldt en dalende paneelprijzen komt de terugverdientijd in onze modelberekening op **4 tot 5 jaar**.
+Zonnepanelen zijn in 2026 voor de meeste woningen een goede investering. Met het 0% btw-tarief, de salderingsregeling die dat jaar nog geldt en dalende paneelprijzen komt de terugverdientijd in onze modelberekening op **circa 5 jaar**.
 
 De belangrijkste aandachtspunten voor 2026:
 
@@ -375,6 +370,6 @@ De belangrijkste aandachtspunten voor 2026:
 Heb je al zonnepanelen en wil je een draagbare stroomoplossing voor onderweg of als noodstroom? Bekijk dan ons overzicht van de [beste draagbare powerstations van 2026](/posts/beste-draagbare-powerstation-2026/).
 
 
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
+<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="noopener nofollow" target="_blank">Bekijk Sessy</a> (gewone verwijzing, wij ontvangen hiervoor geen vergoeding)
 
 

@@ -1,7 +1,7 @@
 ---
 title: Vloerisolatie vs spouwmuurisolatie
 date: 2026-05-23 08:00:00+02:00
-lastmod: '2026-08-20 08:00:00+02:00'
+lastmod: '2026-08-21 08:00:00+02:00'
 description: 'Vloerisolatie of spouwmuurisolatie: wat geeft het meeste rendement per geïnvesteerde euro? Vergelijking op besparing, kosten.'
 categories:
 - isolatie
@@ -27,20 +27,13 @@ faq:
 - q: Hoeveel bespaar ik per jaar met spouwmuurisolatie?
   a: Een gemiddelde tussenwoning bespaart €200-€400 per jaar op de gasrekening na spouwmuurisolatie. Bij een halvering van het gasverbruik voor verwarming is dit afhankelijk van woningtype en dakopbouw.
 - q: Krijg ik subsidie voor isolatie in 2026?
-  a: Ja. Voor eigenaar-bewoners loopt isolatiesubsidie via de ISDE. Je krijgt een bedrag per geïsoleerde vierkante meter, met een minimum aantal vierkante meters en een minimale isolatiewaarde per maatregel; bij twee of meer maatregelen geldt een hoger bedrag per maatregel. De actuele bedragen staan op rvo.nl. VvE's vallen onder de SVVE. De oude SEEH is per eind 2022 gesloten.
+  a: Ja. Voor eigenaar-bewoners loopt isolatiesubsidie via de ISDE. Je krijgt een bedrag per geïsoleerde vierkante meter, met een minimum aantal vierkante meters en een minimale isolatiewaarde per maatregel; voer je binnen 24 maanden twee of meer maatregelen uit, dan verdubbelt RVO het bedrag. De actuele bedragen staan op rvo.nl. VvE's vallen onder de SVVE. De oude SEEH is per eind 2022 gesloten.
 - q: Is mijn spouwmuur geschikt voor inblaasisolatie?
   a: De meeste woningen gebouwd tussen 1930 en 1985 hebben spouwmuren. Of inblaasisolatie mogelijk is, hangt af van de breedte van de spouw (minimaal 50 mm) en de staat van het metselwerk. Een inspecteur kan dit beoordelen.
 - q: Wat is het verschil tussen EPS en PUR inblaasisolatie?
   a: EPS (piepschuim-parels) is goedkoper (€10-€14/m2) maar iets minder isolerend. PUR-schuim (polyurethaan) heeft een hogere isolatiewaarde per cm dikte en dicht ook kleine kieren af. PUR kost €18-€22/m2 maar heeft een betere Rc-waarde.
 - q: Kan ik vloerisolatie zelf aanbrengen?
   a: Gedeeltelijk. Het aanbrengen van EPS-platen via de kruipruimte kan een handige doe-het-zelver zelf doen, mits de kruipruimte toegankelijk en droog is. Voor spray-on vloerisolatie of gehele vloervervanging is een vakman nodig.
-products:
-- name: Tonzon vloerisolatie (per m²)
-  url: https://tonzon.nl
-  price: '25'
-- name: Knauf Supafil spouwmuur
-  url: https://knauf.nl
-  price: '20'
 schema_type: Article
 ---
 Een typische Nederlandse woning van voor 1985 heeft drie isolatiezwakke plekken: de spouwmuren, de begane grondvloer en het dak. De vraag die daarbij hoort is welke maatregel per geïnvesteerde euro het meeste oplevert — en dat is niet de maatregel die het meeste kost.
@@ -52,9 +45,9 @@ Dit artikel zet de vergelijking op een rij: spouwmuurisolatie versus vloerisolat
 ---
 
 
-> **Kort antwoord:** Vloerisolatie of spouwmuurisolatie: wat geeft het meeste rendement per geïnvesteerde euro? Vergelijking op besparing, kosten.
+> **Kort antwoord:** moet je kiezen, begin dan bij de spouwmuur. Die is doorgaans goedkoper (€800-€1.500 voor een tussenwoning tegenover €1.000-€2.500 voor vloerisolatie via de kruipruimte) en levert in ons rekenvoorbeeld per geïnvesteerde euro meer gasbesparing op.
 >
-> Spouwmuurisolatie is doorgaans goedkoper: €800-€1.500 voor een gemiddelde tussenwoning tegenover €1.000-€2.500 voor vloerisolatie via de kruipruimte. Beide hebben echter vergelijkbare terugverdientijden.
+> Vloerisolatie is de eerste keuze als de spouw al gevuld is, als de kruipruimte vochtig is (dat moet dan eerst worden aangepakt) of als koude voeten het probleem zijn dat je wilt oplossen. Kun je beide laten doen, plan ze dan in hetzelfde traject: bij twee of meer isolatiemaatregelen binnen 24 maanden verdubbelt de ISDE het subsidiebedrag.
 
 ## Waarom vergelijken met spouwmuur- en vloerisolatie?
 
@@ -81,7 +74,7 @@ Spouwmuurisolatie wordt aangebracht door kleine gaten (circa 12 mm) te boren in 
 **Veelgebruikte materialen:**
 
 - **EPS-parels (piepschuimkorrels):** goedkoopste optie (€10-€14/m2), Rc-waarde toevoeging circa 1,5-2,0 m2K/W bij 80 mm spouw
-- **PUR-schuim:** hogere Rc-waarde per cm (0,04 W/mK vs 0,036 W/mK EPS), €18-€22/m2, sluit ook kleine kieren af
+- **PUR-schuim:** hogere Rc-waarde per cm doordat de lambda lager is (circa 0,025 W/mK tegenover circa 0,036 W/mK voor EPS-parels; hoe lager de lambda, hoe beter het isoleert), €18-€22/m2, sluit ook kleine kieren af
 - **Minerale wol:** duurzame optie, beperkt vochtprobleem bij slechte spouwventilatie, €15-€20/m2
 - **Glaswol-vlokken:** vergelijkbaar met minerale wol, iets lagere prijs
 
@@ -181,11 +174,11 @@ Voor eigenaar-bewoners loopt isolatiesubsidie in 2026 via de **ISDE** (Investeri
 Twee dingen bepalen wat je terugkrijgt:
 
 1. **Het geïsoleerde oppervlak.** De ISDE keert voor isolatie een bedrag per vierkante meter uit, met een minimum aantal vierkante meters en een minimale isolatiewaarde per maatregel.
-2. **Het aantal maatregelen.** Voer je twee of meer maatregelen uit, dan geldt per maatregel een hoger bedrag per vierkante meter dan bij één losse maatregel.
+2. **Het aantal maatregelen.** Voer je binnen 24 maanden twee of meer maatregelen uit, dan verdubbelt RVO het subsidiebedrag. Er bestaat géén aparte "combinatiebonus" naast die verdubbeling.
 
 De actuele bedragen en de exacte eisen per maatregel staan op [rvo.nl/isde](https://www.rvo.nl/subsidies-financiering/isde). Zoek ze op vóórdat je offertes vergelijkt: ze wijzigen per subsidiejaar, dus reken niet met een vast percentage van de investering.
 
-**Let op:** de ISDE vraag je als eigenaar-bewoner ná uitvoering aan via mijn.rvo.nl, binnen 12 maanden na de installatie. Je hebt de factuur, een betaalbewijs en de specificaties van het aangebrachte materiaal nodig. Laat het werk uitvoeren door een bedrijf dat de vereiste gegevens (Rd-waarde, aantal m²) op de factuur zet — zonder die onderbouwing loop je het risico op afwijzing.
+**Let op:** de ISDE vraag je als eigenaar-bewoner ná uitvoering aan via mijn.rvo.nl, binnen 24 maanden na de uitvoering. Je hebt de factuur, een betaalbewijs en de specificaties van het aangebrachte materiaal nodig. Laat het werk uitvoeren door een bedrijf dat de vereiste gegevens (Rd-waarde, aantal m²) op de factuur zet — zonder die onderbouwing loop je het risico op afwijzing.
 
 Omdat het bedrag afhangt van jouw oppervlak en jouw combinatie van maatregelen, heeft het weinig zin hier één netto terugverdientijd neer te zetten. De verhouding uit de tabellen hierboven verandert er niet door: spouwmuurisolatie levert per geïnvesteerde euro meer op dan vloerisolatie, en subsidie verkort beide terugverdientijden.
 
@@ -217,7 +210,7 @@ Binnen de ISDE geldt per isolatiemaatregel een hoger bedrag per vierkante meter 
 
 Wie beide maatregelen neemt — eerst spouwmuurisolatie, daarna vloerisolatie — moet erop rekenen dat de gecombineerde besparing lager uitvalt dan de som van de twee afzonderlijke besparingen. Dat komt door interactie-effecten: zodra de muren beter isoleren stijgt de stookefficiëntie al, waardoor de absolute winst van de vloerisolatie daarna kleiner is.
 
-**Rekenvoorbeeld met expliciete aannames** (geen meting; uitgangspunt is een rijtjeswoning uit de jaren zestig met een gasverbruik van circa 1.580 m³ en een gasprijs van €1,10 per m³):
+**Rekenvoorbeeld met expliciete aannames** (geen meting; uitgangspunt is een rijtjeswoning uit de jaren zestig met een gasverbruik van circa 1.580 m³ en €1,10 per m³ — de all-in gasprijs die wij sitebreed als rekenconstante gebruiken, inclusief energiebelasting en btw. Je eigen tarief staat op je jaarafrekening en wijkt daarvan af):
 
 | Stap | Gasverbruik in het model | Verandering |
 |------|------------|-------------|
@@ -236,7 +229,7 @@ In dit model levert spouwmuurisolatie ruim twee keer zoveel op als vloerisolatie
 
 1. Controleer of je woning spouwmuren heeft (bouwjaar 1930-1985 = grote kans)
 2. Vraag drie offertes aan bij erkende spouwmuurisolatiebedrijven (via KOMO-certificaat)
-3. Vraag de ISDE aan via mijn.rvo.nl, binnen 12 maanden ná uitvoering
+3. Vraag de ISDE aan via mijn.rvo.nl, binnen 24 maanden ná uitvoering
 4. Laat een inspectie uitvoeren: soms is de spouw vochtig of beschadigd en is inblaas niet mogelijk
 
 ### Vloerisolatie aanvragen
@@ -244,7 +237,7 @@ In dit model levert spouwmuurisolatie ruim twee keer zoveel op als vloerisolatie
 1. Controleer de toegankelijkheid van je kruipruimte (minimale hoogte 40-50 cm voor vakman, 30 cm voor DIY)
 2. Controleer op vochtproblemen: als de kruipruimte vochtig is, verhelp dat eerst
 3. Kies materiaal op basis van diepte: EPS-platen zijn eenvoudig, PUR is beter voor onregelmatige constructies
-4. Vraag ook hier de ISDE aan, binnen 12 maanden ná uitvoering
+4. Vraag ook hier de ISDE aan, binnen 24 maanden ná uitvoering
 
 ---
 
@@ -258,12 +251,9 @@ Moet je bij een beperkt budget kiezen tussen spouwmuurisolatie en vloerisolatie,
 
 Vloerisolatie is zinvol als de spouwmuren al geïsoleerd zijn, als vochtproblemen in de kruipruimte meespelen, of als comfortverbetering prioriteit heeft. Voor de meeste huishoudens die moeten kiezen, is spouwmuurisolatie de eerste stap.
 
-Wie beide kan combineren, laat ze het beste in hetzelfde traject uitvoeren: bij twee of meer isolatiemaatregelen keert de ISDE per maatregel een hoger bedrag per vierkante meter uit.
+Wie beide kan combineren, laat ze het beste binnen 24 maanden uitvoeren: bij twee of meer isolatiemaatregelen verdubbelt de ISDE het subsidiebedrag. Let op dat op isolatie 21% btw geldt — het 0%-tarief bestaat alleen voor zonnepanelen.
 
 ---
-
-
-<a href="https://go.duurzaamthuislab.nl/sessy" class="cta cta-affiliate" rel="nofollow noopener" target="_blank">Bekijk Sessy</a>
 
 
 
@@ -349,9 +339,11 @@ Het energielabel (A++++ tot G) wordt bepaald door de NTA 8800-methode, die het t
 | Dakisolatie | +1-1,5 labelklasse |
 | HR++ glas (volledig) | +0,5-1 labelklasse |
 
-**Financieel voordeel hogere energielabel:**
+Deze tabel is een indicatie van de richting, geen rekenregel: NTA 8800 kijkt naar de hele woning, dus dezelfde maatregel pakt bij een vrijstaand huis anders uit dan bij een tussenwoning. Wat een maatregel in jouw geval op het label doet, bepaalt de energieadviseur bij de labelopname.
 
-Een hogere energielabel heeft directe financiële waarde bij verkoop. Onderzoek van NVM (2024) toont aan dat woningen met energielabel A 8-12% meer opbrengen dan vergelijkbare woningen met label C. Voor een woning van €350.000 is dat €28.000-€42.000 meerwaarde.
+**En de verkoopwaarde?**
+
+Dat een beter energielabel meeweegt bij verkoop is aannemelijk — het label staat in elke verkoopadvertentie en bepaalt mede wat een koper kan meefinancieren. Een betrouwbaar percentage per labelstap kunnen wij echter niet geven: de bedragen die daarvoor rondgaan zijn niet te herleiden naar een controleerbare bron en hangen sterk af van regio, woningtype en marktmoment. Wij rekenen daarom alleen met de gasbesparing, en behandelen een eventuele meerwaarde bij verkoop als bonus die je niet in de terugverdientijd moet meenemen.
 
 ---
 
@@ -443,19 +435,17 @@ Het bouwjaar van je woning is een goede indicator voor de staat van de isolatie:
 
 Verduurzaming van een woning heeft ook financiële voordelen via de hypotheek:
 
-### Verhoogde hypotheek voor verduurzaming
+### Verduurzaming meefinancieren
 
-Huishoudens die hun woning verduurzamen kunnen via de meeste hypotheekverstrekkers een hogere hypotheek afsluiten. De Nationale Hypotheek Garantie (NHG) staat toe dat €25.000 extra wordt geleend voor energiebesparende maatregelen, bovenop de normale LTV-grens.
+Bij een hypotheek met Nationale Hypotheek Garantie mag je onder voorwaarden extra leenruimte gebruiken voor energiebesparende maatregelen. Hoeveel dat is en welke maatregelen meetellen, staat in de actuele NHG-voorwaarden op nhg.nl; die bedragen worden per jaar vastgesteld, dus check ze daar in plaats van in een artikel. Praktisch betekent het dat je bij aankoop van een woning met een matig label de isolatiekosten vaak in de hypotheek kunt meenemen.
 
-**Praktisch:** als je een woning koopt met energielabel D en plant om naar label B te verduurzamen (spouwmuur + vloer + dakisolatie), kun je de kosten voor die verduurzaming meefinancieren in je hypotheek.
+### Rentekorting bij een goed label
 
-### Energielabelbonus in koopsom
+Een deel van de hypotheekverstrekkers werkt met een rentekorting of duurzaamheidskorting die aan het energielabel hangt. Of jouw geldverstrekker dat doet, hoe groot de korting is en welk label daarvoor nodig is, verschilt per aanbieder en per periode; wij noemen geen percentages per bank, omdat die niet publiek en stabiel genoeg zijn om over te nemen. Vraag het na bij je hypotheekadviseur en reken het door met je eigen restschuld.
 
-Zoals eerder vermeld: elke stap omhoog in energielabel levert gemiddeld 3-5% meer verkoopwaarde op. Spouwmuurisolatie + vloerisolatie samen verhogen het label doorgaans 1-1,5 klasse. Op een woning van €300.000 is dat €9.000-€15.000 extra verkoopwaarde — een veelvoud van de investering.
+### En de Energiebespaarlening
 
-### Groene hypotheekrente
-
-Sommige banken (ABN AMRO, Triodos, Rabobank) bieden lagere hypotheekrente voor woningen met een hoog energielabel (A+++ of beter). Het renteverschil is 0,1-0,2 procentpunt — op een hypotheek van €250.000 is dat €250-€500 per jaar aan lagere rentelasten.
+Kun je of wil je de hypotheek niet openbreken, dan is de Energiebespaarlening van het Warmtefonds de landelijke route voor energiebesparende maatregelen. De rentes en voorwaarden staan op warmtefonds.nl.
 
 ---
 
